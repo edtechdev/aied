@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -116,32 +118,3 @@ LLM 기반 teachable agents의 중심 설계 과제는, LLM이 기본적으로 �
 **"LLM에게 혼란스러운 척하라고 하는 것은 사소한 프롬프트다."** 그것은 설계 문제입니다. 오류 가능성은 가르치는 개념과 학습자-튜터의 현재 모형에 맞추어 보정되어야 하기 때문입니다. 무작위 오류는 디버깅 연습을 낳고, 특정한 그럴듯한 오해를 반영하는 오류는 개념적 재구성을 낳습니다. 교육적 목표는 후자입니다.
 
 **"가르치며 배우기는 가르침을 받는 것보다 부드러운 활동이다."** 그것은 더 많은 것을 요구합니다. 가르칠 준비는 지식의 조직과 자기 이해의 격차 찾기를 강제하며, 그래서 이 접근은 수동적 수용이 감추는 오해를 드러냅니다. 어려움은 줄여야 할 비용이 아니라 기제 자체입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — AI 학습자에게 설명하기: 지식 기반에서 가장 잘 증거된 연속
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — 총칭: AI 교육의 교수법과 교수 전략
-
-## 연결된 문서
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — 프로그래밍에서의 teachable agent로서의 ChatGPT
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: 학생 546명을 위한 teachable agent
-- [[prompting-teachability-novice-personas-lbt-2026]] — 가르침 가능성을 위한 초보자 인물 설계
-- [[socrates-students-instructors-llms-lbt-2025]] — LLM의 교수자로서의 학생들 (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — AI를 가르치며 하는 어휘 학습
-- [[knowloop-confusion-to-consolidation-2026]] — 대화형 복습 시스템에서의 teach-back 공고화
-- [[simulating-novice-students-machine-unlearning-2026]] — 학습자를 초보자 지식 수준에 두는 기계 언러닝, 그리고 가르침 대화를 통한 재학습
-- [[simulating-students-java-programming-errors-llms]] — LLM으로 학생 오류 시뮬레이션하기
-- [[knowledge-building-tutor-learning-2026]] — 사전 지식이 아니라 지식 구성 응답이 학습자의 학습을 예측한다

@@ -34,6 +34,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -45,6 +46,3 @@ ai_assist:
 ## शर्तें और चेतावनियाँ
 
 लाइसेंस Creative Commons BY-NC-ND 4.0 है, और लेखक द्वारा बताई गई शर्तें अधिकांश संस्थागत पाठकों के लिए महत्वपूर्ण हैं: व्यक्तिगत, गैर-व्यावसायिक अध्ययन और व्यावसायिक विकास का स्वागत है, जबकि व्यावसायिक उपयोग, पुनर्वितरण और व्हाइट-लेबलिंग के लिए व्यावसायिक लाइसेंस आवश्यक है। रिपॉजिटरी दस स्व-डिज़ाइन की गई चुनौतियों में 320 में से 314 अंकों की रिपोर्ट करती है, जो किसी स्वतंत्र मूल्यांकन के बजाय लेखक का अपना मूल्यांकन है, और वही लेखक इस ढांचे पर परामर्श और कार्यशालाएँ बेचता है। परियोजना को उनके नियोक्ताओं से असंबद्ध एक व्यक्तिगत प्रयास के रूप में वर्णित किया गया है, और इसका अंतिम कमिट अप्रैल 2026 का है।
-
-## जुड़ी अवधारणाएँ
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

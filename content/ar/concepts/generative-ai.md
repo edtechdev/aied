@@ -20,6 +20,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -97,46 +99,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - لا تُخطّط خرائط طريقك على أحجام الأثر المجموعة. فتدقيق لـ14 تحليلًا بعديًا وجد أن لا أحدها برّر دعاويه، فدعوى منتج تستند إلى *g* بارز تستند إلى منهجية لا تصمد للفحص.
 - قِس المعدّل الأساسي قبل تحسينه. فمعدّل حدوث 0.68% يعني أن معظم عمل الجودة يحدث في الذيل، وأداء الذيل هو ما يحدّد هل النشر مقبول.
 - أبلِغ عن الإصدار والتاريخ ونوع المهمة مع كل رقم معيار تنشره، لأن دعوى قدرة تُغفلها ليست قابلة لإعادة الإنتاج.
-
-## المفاهيم المرتبطة
-
-- [[llm]] — فئة النماذج الكامنة وراء الذكاء الاصطناعي التوليدي
-- [[prompt-engineering]] — كيف تُشكّل المخرجات
-- [[rag]] — التأسيس بالاسترجاع المعزّز
-- [[ai-literacy]] — الكفاءة اللازمة لاستخدامه بفاعلية
-- [[ai-education]] — المجال الأوسع
-- [[intelligent-tutoring]] — أنظمة التدريس الحواري والتوليدي
-- [[cognitive-offloading]] — خطر الاعتماد المفرط الذي يُضخّمه الذكاء الاصطناعي التوليدي
-- [[hallucination-risk]] — خطر موثوقية أساسي في المحتوى المُولَّد
-- [[academic-integrity]] — مخاوف النزاهة الناتجة عن التوليد الطليق
-- [[automated-assessment]] — النماذج التوليدية في التصحيح والتغذية الراجعة
-- [[ai-technologies]] — مظلة تقنيات ونماذج الذكاء الاصطناعي
-- [[higher-ed]] — سياق نشر أساسي
-- [[k-12]] — سياق نشر أساسي
-
-- [[reflection]]
-
-## المقالات المرتبطة
-
-- [[bicer-genai-pd-math-creativity-2026]] — دراسة حالة للتطوير المهني في الرياضيات موجَّه بالذكاء الاصطناعي التوليدي مع ثمانية معلّمين ريفيين في الخدمة
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g مجمّع = 0.819 يهبط إلى 0.378 تحت PET-PEESE؛ والأدوات المخصّصة (0.455) دنت من روبوتات المحادثة (0.970)
-- [[genai-learning-motivation-meta-analysis-2026]] — تحليل بعدي لأثر الذكاء الاصطناعي التوليدي على دافع التعلّم، مع فاصل تنبؤ يمتد من الضرر إلى المنفعة
-- [[typology-generative-ai-tools-education-2026]] — تصنيف أدوات الذكاء الاصطناعي التوليدي في التعليم
-- [[generative-ui-education-learning-interactives-2026]] — تسخير الواجهة التوليدية للتعليم: منتجات تعلّم تفاعلية مخصّصة
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقويم نظام نموذجي لغوي كبير متعدد الوكلاء موجّه للسقالات لتدريب المقابلات السريرية
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: إطار تصميم لذكاء اصطناعي آمن وسليم للتعلّم
-- [[genai-educational-outcomes-meta-analysis]] — تحليل بعدي لنتائج تعلّم الذكاء الاصطناعي التوليدي
-- [[genai-meta-analysis-programming-learning]] — تحليل بعدي للذكاء الاصطناعي التوليدي في تعلّم البرمجة
-- [[genai-performance-vs-learning]] — الأداء مقابل التعلّم بالذكاء الاصطناعي التوليدي
-- [[hazra-safetutors-pedagogical-safety-2026]] — أضرار وكلاء التدريس بالذكاء الاصطناعي
-- [[eduguard-safe-rag-llm-tutor]] — ضمانات مدرّس آلي لغوي كبير آمن قائم على الاسترجاع المعزّز
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: توليد بيئات التعلّم
-- [[khlaif-assistive-genai-visually-impaired-2026]] — ذكاء اصطناعي توليدي مساعد للمتعلّمين ذوي الإعاقات البصرية
-- [[li-language-educators-genai-review-2026]] — ممارسات مدرّسي اللغة وتطورهم مع الذكاء الاصطناعي التوليدي
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — تقويم نماذج مُدرَّبة مسبقًا للتقويم التربوي لأسئلة تعليمية جديدة مساعدة بالذكاء الاصطناعي

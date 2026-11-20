@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -106,39 +108,3 @@ ai_assist:
 **«Насыщение — свойство числа участников».** Это свойство анализа: вы останавливаетесь, когда новые данные перестают давать новые коды. Два исследования с одинаковым размером выборки могут быть одинаково далеки от насыщения, поэтому отчёт, который приводит число участников как доказательство достаточности, ничего не доказал о покрытии.
 
 **«Количественные и качественные выводы конкурируют».** Они отвечают на разные вопросы: опрос говорит, сколько студентов не доверяют репетитору, а интервью — почему. Трактовка их как соперничающих описаний одного и того же порождает ложный выбор, который обзорные разделы продолжают воспроизводить.
-
-## Связанные концепции
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — Исследование в сфере образования с помощью ИИ
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## Связанные статьи
-- [[chain-behind-claim-warrantability-2026]] — стандарт обоснованности для качественного анализа с помощью ИИ
-- [[liu-tool-tutor-crutch-programming-2026]] — Инструмент, тьютор или костыль: обоснованная теория программирования с помощью ИИ
-- [[trio-ethnography-llm-programming-education]] — Трио-этнография эволюции интерпретации в программировании с поддержкой LLM
-- [[absent-cognitive-baseline-2026]] — Теоретизирование структурного пробела в самооценивании «урожденных» студентов эпохи ИИ
-- [[t2i-competence-paradox-2026]] — Парадокс компетентности при использовании GenAI для генерации изображений из текста
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Разрыв между доверием и полезностью в физическом образовании
-- [[genai-teacher-feedback-comparison]] — Сравнение обратной связи GenAI и преподавателя: восприятие студентов
-- [[hazra-safetutors-pedagogical-safety-2026]] — Безопасность ИИ-тьюторов и педагогические вреды
-- [[zha-ai-literacy-biology-case-study]] — Кейс-стади интеграции ИИ-грамотности на уроке биологии
-- [[becker-chatgpt-typology-physics-2026]] — Качественная типология принятия ChatGPT в физике
-- [[scaffolding-critical-engagement-genai-minority-students]] — Совместный дискурс в промпт-инжиниринге среди студентов из этнических меньшинств
-- [[human-vs-llm-ordered-coding]] — Сравнение упорядоченного кодирования качественных данных человеком и LLM
-- [[agreement-not-quality-llm-coding-verification]] — Согласие — не качество в качественном кодировании с LLM
-- [[same-ai-different-pathways]] — Распаковка механизмов опосредованного ИИ обучения в разных контекстах
-- [[drummond-genai-business-schools-framework-2026]] — Рамка GenAI, informed студентами, через кейс-стади
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Критические ИИ-тьюторы: расширяют возможности или порабощают
-- [[genai-runaway-object-math-higher-ed]] — GenAI как runaway-объект в математике высшего образования
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Ассистивный GenAI для обучающихся с нарушениями зрения
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Эмоциональная вовлечённость изучающих EFL в письме с поддержкой генеративного ИИ: лонгитюдное множественное кейс-исследование

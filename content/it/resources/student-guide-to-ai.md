@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -52,11 +53,3 @@ Agli studenti universitari di qualsiasi disciplina e agli studenti della seconda
 La guida è inquadrata [[formative-assessment|in chiave formativa]] e lo dichiara: i punteggi sono un'istantanea delle abitudini, non un voto, un tratto o una previsione, e agli studenti viene detto di non condividerli pubblicamente.
 
 L'inquadramento attorno all'IA poggia su evidenze citate da sondaggi ed esperimenti secondo cui esternalizzare lo sforzo può lasciare gli studenti con minore ritenzione — ed è la domanda sul [[cognitive-offloading|offloading]] a cui la guida è scritta per opporsi, non per risolvere. Il PDF della guida sul campo si trova dietro un breve modulo che chiede nome, ruolo, istituzione ed email; i moduli della guida del docente e il documento sul quadro pedagogico si scaricano direttamente. La versione interattiva gira in Gemini Notebook e richiede un account Google. Le cifre dell'editore di oltre 40.000 download di PDF in circa 4.000 istituzioni in 180 paesi, e di oltre 130 edizioni campus personalizzate, sono sue, così come le attestazioni di ALA, NASPA, EDUCAUSE, OLC, CAA, il Gardner Institute e RTI International.
-
-## Concetti collegati
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

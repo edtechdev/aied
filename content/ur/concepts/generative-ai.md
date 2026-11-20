@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -56,7 +58,6 @@ ai_assist:
 
 22 مطالعات کا سہ سطحی میٹا تجزیہ پاتا ہے کہ GenAI کی معاونت والی مسئلہ اور [[project-based-learning|منصوبہ پر مبنی سیکھائی]] سیکھنے والے کے اندرونی نتائج پر بڑا مجموعی اثر دیتی ہے (g = 0.819)، البتہ PET-PEESE اصلاح اُسے g = 0.378 تک گھٹا دیتی ہے؛ ایمبیڈنگ نے بھی فرق ڈالا، عمومی چیٹ بوٹس کا مجموعہ g = 0.970 رہا جبکہ اپنی مرضی کے یا API نظاموں کا g = 0.455 ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]])۔
 
-
 صرف ترغیب پر الگ 42 مطالعات کا میٹا تجزیہ مجموعی اثر کم بتاتا ہے (g = 0.764) اور 95% پیش گوئی کا وقفہ [−0.689, 2.217] رپورٹ کرتا ہے، لہٰذا [[motivation|ترغیبی]] برتری کسی نئے ماحول کے لیے قابلِ اعتماد طور پر مثبت نہیں ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]])۔
 
 جنریٹو UI اِس دھاگے کی سب سے نئی صلاحیت ہے: ایسے ماڈل جو نثر کے بجائے کام کرنے والا انٹرایکٹو نمونہ — سلائیڈر، قابلِ استعمال نقلیں — پیدا کرتے ہیں۔ [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]]، Google Research کی ٹیم، رپورٹ کرتے ہیں کہ تیار جنریٹو UI ابھی پیچیدہ تصورات کے لیے پیدگوجیکل طور پر اِتنا درست نہیں، مگر سیکھنے کے ہدف کو بتدریج سطح بند اہداف میں توڑنا اور تخلیق کو تنقید اور خود بہتری کے چکروں میں لپیٹنا ایسے انٹرایکٹوز دیتا ہے جنہیں ماہر اساتذہ قابلِ قبول درجہ دیتے ہیں۔ اُن کا ڈیزائن ایک ہم آہنگی کا ہے: اساتذہ اہداف بیان کرتے، منظور کرتے اور امیدوار نقلوں میں سے چنتے ہیں، لہٰذا حسبِ ضرورت [[simulation|انٹرایکٹو سیکھنے کے مواد]] پر باندھنے والی رکاوٹ پیداوار سے تخصیص کی طرف سرک جاتی ہے، اور [[guardrails|پیدگوجیکل گارڈ ریل]] تخلیق کی پائپ لائن میں پیوست ہوتے ہیں، بعد میں استاد کی چوکسی پر نہیں چھوڑے جاتے۔
@@ -95,45 +96,3 @@ ai_assist:
 - مجموعی اثر کے حجم کے خلاف روڈ میپ نہ بنائیں۔ 14 میٹا تجزیوں کے آڈٹ نے پایا کہ کسی نے اپنے دعوے کا جواز پیش نہیں کیا، لہٰذا سرخی والے *g* پر کھڑا مصنوعات کا دعویٰ ایسی طریقہ کار پر کھڑا ہے جو جانچ میں پورا نہیں اترتا۔
 - بنیادی شرح کو بہتر بنانے سے پہلے ناپیں۔ 0.68% کی شرح کا مطلب ہے کہ زیادہ تر معیار کا کام دموں میں ہوتا ہے، اور دموں کی کارکردگی ہی طے کرتی ہے کہ تعیناتی قابلِ قبول ہے یا نہیں۔
 - ہر بینچ مارک عدد کے ساتھ ورژن، تاریخ اور کام کی قسم رپورٹ کریں، کیونکہ وہ چھوڑنے والا صلاحیت کا دعویٰ قابلِ تولید نہیں۔
-
-## منسلک تصورات
-
-- [[llm]] — وہ ماڈل قسم جو جنریٹو AI کی بنیاد ہے
-- [[prompt-engineering]] — نتائج کی شکل کیسے بنتی ہے
-- [[rag]] — ریٹریول سے مضبوط کی گئی بنیاد
-- [[ai-literacy]] — مؤثر استعمال کے لیے درکار قابلیت
-- [[ai-education]] — وسیع تر میدان
-- [[intelligent-tutoring]] — مکالماتی اور جنریٹو ٹیوٹرنگ نظام
-- [[cognitive-offloading]] — وہ حد سے زیادہ انحصار کا خطرہ جسے جنریٹو AI بڑھاتا ہے
-- [[hallucination-risk]] — پیدا شدہ مواد کا بنیادی اعتبار خطرہ
-- [[academic-integrity]] — روانی والی تخلیق سے دیانتداری کے امور
-- [[automated-assessment]] — درجہ بندی اور فیڈبیک میں جنریٹو ماڈل
-- [[ai-technologies]] — AI تکنیکوں اور ماڈلز کی چھتری
-- [[higher-ed]] — تعیناتی کا ایک بنیادی سیاق و سباق
-- [[k-12]] — تعیناتی کا ایک بنیادی سیاق و سباق
-- [[reflection]]
-
-## منسلک مضامین
-- [[genai-learning-motivation-meta-analysis-2026]] — سیکھنے کی ترغیب پر GenAI کے اثر کا میٹا تجزیہ، نقصان سے فائدے تک پھیلے پیش گوئی کے وقفے کے ساتھ
-
-- [[typology-generative-ai-tools-education-2026]] — تعلیم کے لیے جنریٹو AI اوزاروں کی درجہ بندی
-- [[generative-ui-education-learning-interactives-2026]] — تعلیم کے لیے جنریٹو UI بروئے کار لانا: حسبِ ضرورت سیکھنے کے انٹرایکٹوز
-- [[ai-standardized-patient-scaffolding-medical-2026]] — کلینیکل انٹرویو کی تربیت کے لیے سکافولڈنگ پر مبنی کثیر ایجنٹ بڑے زبان ماڈل نظام کی جانچ
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: سیکھائی کے لیے محفوظ اور درست AI کا ڈیزائن فریم ورک
-- [[genai-educational-outcomes-meta-analysis]] — GenAI کے سیکھنے کے نتائج کا میٹا تجزیہ
-- [[genai-meta-analysis-programming-learning]] — پروگرامنگ سیکھائی میں GenAI کا میٹا تجزیہ
-- [[genai-performance-vs-learning]] — GenAI کے ساتھ کارکردگی بمقابلہ سیکھائی
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ٹیوٹرنگ ایجنٹس کے نقصانات
-- [[eduguard-safe-rag-llm-tutor]] — محفوظ RAG LLM ٹیوٹر کو گارڈ ریل کرنا
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: سیکھنے کے ماحول کی تخلیق
-- [[khlaif-assistive-genai-visually-impaired-2026]] — بصارت سے محروم سیکھنے والوں کے لیے معاون GenAI
-- [[li-language-educators-genai-review-2026]] — زبان کے اساتذہ کے GenAI کے ساتھ عمل اور ترقی
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI کی معاونت والے تعلیمی سوالات کی پیدگوجیکل جانچ کے لیے پیشگی تربیت یافتہ ماڈلز کا جائزہ
-- [[bicer-genai-pd-math-creativity-2026]] — آٹھ دیہی درمیانے اساتذہ کے ساتھ GenAI کی رہنمائی والا ریاضیاتی پیشہ ورانہ ترقی کا کیس اسٹڈی
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — مجموعی g = 0.819 جو PET-PEESE کے تحت 0.378 رہ جاتا ہے؛ حسبِ ضرورت اوزار (0.455) چیٹ بوٹس (0.970) سے پیچھے رہے

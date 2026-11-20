@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -126,50 +128,3 @@ Favero ら（2025年）は、学生が問いかけの構造を内面化するの
 - **「ソクラテス式の問いかけは、答えの不在にすぎない。」** 大規模な入門力学のコース(**150名の1年生[[stem-education|STEM]]専攻**)に配備された特注のソクラテス式AIチャットボットは**測定可能な**伸びを生み、その設計は構造化された問いかけです。沈黙するモデルではなく、制約された相互作用です。
 - **「効果は関与の下流にある。」** [[socratic-nuclear-ai-learning|Socrates went Nuclear(Clin Deffarges、Kosmyna、Maes、2026年)]]は**50名の参加者によるランダム化されたEEG研究**で、制約のないChatGPT型のボットと**ソクラテス式**のボットを比較し、成果から推論するのではなくメカニズムを測っています。
 - **「制約は取り除くべき問題である。」** 制約を支持する最も強い因果的な裏づけは逆方向を指します。K-12のレビューでは、汎用チャットボットを使った高校生は、制約された道具を使った仲間よりも**閉じた本の期末試験で約17%低い得点**でした。制約のない道具が有害な条件でした。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — 問いかけの連なりと、それに関する相反する試験のエビデンス
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — 包括的な概念：教育における AI の教育学と教授の戦略
-- [[productive-failure]] — 生産的な失敗
-
-## 関連記事
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 大学院生を対象とした2 x 2設計研究におけるソクラテス型と指示型のフィードバックスタイルの比較
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のためのスキャフォールディング指向マルチエージェント大規模言語モデルシステムの評価
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — 構造化されたソクラテス式ヒントとオープンエンドの汎用Q&Aの比較
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗を促すためのLLMの教授法的ステアリング
-- [[wang-safety-gap-productive-struggle-2026]] — 安全性ギャップ：生産的な苦闘を取り戻す
-- [[rhaimi-productivemath-2025]] — ProductiveMath：PFの問題設計を支援するAI
-- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律的な言語学習のためのChatGPT
-- [[socratic-nuclear-ai-learning]] — ソクラテスは強硬路線へ：学習におけるAIの相互作用戦略の比較
-- [[lftutor-logical-fallacy-education-2026]] — 4段階の誤謬指導フレームワークにおけるソクラテス式質問と批判的論証の組み合わせ
-- [[guardrails-ai-teaching-assistants-programming-2026]] — ガードレールか障害物か？プログラミング向けAIティーチングアシスタントにおける教授スタイルと文脈認識の効果
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 生成的人工知能によって生物科教員志望者のPISAに準拠した論証スキルを高める
-- [[etq-ai-conversational-teacher-training-2026]] — エビデンスに根ざした対話により教育に関する誤概念を診断する対話型AI (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — 教えないAIエージェントの設計：入門物理学におけるソクラテス式プロービングの設計規則
-- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — ガイド付きチャットボットでは内省的な質問の評価が最も低く、ばらつきも最も大きかった

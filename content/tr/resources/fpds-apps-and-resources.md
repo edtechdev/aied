@@ -39,6 +39,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -56,7 +57,3 @@ Hillsborough College'daki öğretmenler ve [[educational-development]] personeli
 ## Notlar ve uyarılar
 
 Okumak için hesap gerekmez ve bağlantı verilen Canvas kursları ile kontrol listeleri halka açıktır. Playlab koçları ile Gemini Gem'leri ve defterleri ise hesap gerektiren üçüncü taraf hizmetlerdir. Kartlar `apps.json` dosyasından oluşturulur, bu nedenle tam liste JavaScript gerektirir ve betik olmadan geri dönüş yalnızca on beş girişten sekizini adlandırır; `tinyurl.com/fpdapps` kısa bağlantısı ve bir başlık QR kodu sayfayı telefonda açar. Depo MIT lisanslı yazılımdır, bağlantı verdiği kılavuzlar ise kendi lisanslarını taşır; Pressbooks kitabı bunlar arasında ticari olmayan bir Creative Commons lisansı altındadır. Yayın takvimi yoktur, bu nedenle sayfa haber verilmeden değişir.
-
-## Bağlı kavramlar
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

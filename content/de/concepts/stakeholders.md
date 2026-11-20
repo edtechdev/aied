@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -81,42 +83,3 @@ Identität ist der menschliche Anker der Akteurslandschaft: Sie ist das, was KI 
 **„Akteursanalyse ist eine Übung der frühen Phase."** Die Spannungen bestehen im Betrieb fort, weil die Rollen dasselbe System weiterhin unterschiedlich interpretieren. Eine studierendengerichtete [[personalized-learning|Personalisierungsschicht]] und ein lehrkräftegerichtetes Integritäts-Dashboard sind dieselben Daten aus zwei Positionen betrachtet, und der Konflikt kehrt zurück, sobald eines davon angepasst wird.
 
 **„Eine Identität über Zielgruppen hinweg heißt, dass eine Botschaft allen dienen kann."** Über Zielgruppen hinweg zu kommunizieren verlangt, dieselbe Entscheidung in verschiedene Begriffe zu übersetzen, ohne sie falsch darzustellen, was mehr ist als das Umschreiben einer Botschaft in vier Varianten.
-
-## Verbundene Konzepte
-
-- [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — wer einen Anspruch auf institutionelle KI-Unterstützungsentscheidungen hat
-
-## Verbundene Artikel
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Studienerfahrungen mit GenAI in der britischen Hochschulbildung
-- [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulbildungspolitik (Studierende und Institutionen)
-- [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
-- [[student-rationalization-ai-writing]] — Rationalisierung der KI-Nutzung durch Studierende im wissenschaftlichen Schreiben
-- [[ai-changing-teaching-workflows]] — Wie KI die Lehr- und Arbeitsabläufe verändert
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Wahrnehmungen von Akteuren zu GenAI in der Hochschulbildung (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — „Wir machen das später“: Bildung, KI und das Aufschieben des Schutzes von Studierendendaten in EdTech

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
@@ -87,51 +89,3 @@ ai_assist:
 - **«الاستقصاء المدعوم بالذكاء الاصطناعي من الرتبة العليا تلقائيًا.»** وجدت شبه تجربة مع **120 طالبًا في الصف الثامن** أن [[inquiry-based-learning|التعلّم القائم على الاستقصاء]] المدعوم بالذكاء الاصطناعي رفع الأداء الرياضي الإبداعي **و**مقياسًا أضيق — فالتدخّل حرّك بعض النواتج دون غيرها. فالارتباط بلافتة «الرتبة العليا» ليس هو المهمة من الرتبة العليا.
 - **«تصميم الطلاب للتعليم تمرين تقني.»** في دراسة القلب، صمّم **345 طالبًا** في مقرر يضمّ 700 طالب وكيلًا حواريًا لكل منهم ليعلّم ثلاثة أنماط تصميم لزميل. فالتعلّم النشط جاء من عمل التصميم، وهو [[pedagogy|استدلال تربوي]] لا هندسة مطالبات.
 - **«نتائج الاندماج هي نتائج تعلّم.»** تُحذّر قاعدة الأدلة ذاتها من أن تصميمًا **بلا مجموعة ضابطة وبعيّنة متطوّعة** يدعم ادعاءات الاندماج فقط. فقد قيّم الطلاب حرية التصميم المفتوحة (**22.3%** أكثر الموضوعات الإيجابية) واشتكوا أكثر من غموض التعليمات (**23.7%**) — وكلاهما عن التجربة.
-
-## المفاهيم المرتبطة
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## المقالات المرتبطة
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
-- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[instructional-guidance-genai-learning]] — مراجعة بالذكاء الاصطناعي موجَّهة مقابل غير موجَّهة: البنية، لا الوصول إلى النموذج، هي التي حرّكت درجات الأسئلة المفتوحة
-- [[assigned-ai-preclass-student-engagement-2026]] — رفع التمرين المُكلَّف قبل الصف مع الذكاء الاصطناعي المشاركة داخل الصف 31% بعد استخدام ثانٍ، لا بعد الأول

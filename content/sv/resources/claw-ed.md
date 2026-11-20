@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -42,6 +43,3 @@ Projektet är medvetet modellagnostiskt. Det dokumenterar lokala Ollama-modeller
 ## Anteckningar och förbehåll
 
 Programvaran är gratis och [[open-source|öppen källkod]] under MIT-licensen för sin egen kod, även om tredjepartskomponenter behåller sina egna villkor, och att köra den innebär att betala för sin egen modellinferens om du använder en hostad modell. Projektet kallar sig en lärargranskad beta och säger rakt ut i sin README att godkänd CI inte fastställer undervisningskvalitet över levande modeller, vilket är rätt sätt att läsa en grön testsvit i det här området: den verifierar programvaran, inte [[pedagogy|pedagogiken]]. Den underhålls av MacxLabs och tar emot lärargranskade exempellektioner som bidrag.
-
-## Anslutna begrepp
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -85,32 +87,3 @@ PBL מתחברת ל[[active-learning]], ל[[experiential-learning]], ל[[collabo
 
 - ממצא-המיתון הוא אזהרת-מוצר: הנדסת צ'אטבוט לסביבה ייעודית חפפה ל**אפקט מגובש קטן יותר**. ודאו שההתאמה מוסיפה ערך-למידה ולא נוחות משוערת.
 - אם אתם מספקים מודול PBL, שכבת-ההוראות היא התכונה שמרוויחה את התוצאה, לא המודל.
-
-## מושגים מקושרים
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך בבינה מלאכותית
-- [[arts-and-media-education]]
-
-## מאמרים מקושרים
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — למידה מבוססת בעיות ולמידה מבוססת פרויקטים כמסגרות מבטיחות לחינוך הנתמך בבינה מלאכותית יוצרת: ראיות מתעוררות מסקירה שיטתית וניתוח מטא בת שלוש רמות
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL היא אסטרטגיית למידה דומיננטית ב-CT
-- [[creative-project-approach-ai-early-childhood-2025]] — גישת הפרויקט היצירתית: סוכני בינה מלאכותית ורובוטיקה בתוך גישת הפרויקט בגיל הרך (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD עם סוכני בינה מלאכותית ב-PBL תוכנה קבוצתי
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: סטודיו עיצוב VR סוחף עם סוכן הוראה מוטמע, מוערך מול PBL מסורתי (Jin et al. 2026)

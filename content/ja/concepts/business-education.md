@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -79,39 +81,3 @@ ai_assist:
 - **「学生がAIを求めるのは近道が欲しいからだ。」** 学生の声を反映した枠組みは、学生が**高い関与を示し、キャリアのためにGenAIの技能が必要だと認識している**一方で、**意図せず学術的不正を犯すことなくAIを使いたい**と望んでいることを見出しました。求められているのは仕事を避ける許可ではなく、明確な境界を伴う能力です。
 - **「ビジネスカリキュラムにAIモジュールを追加すれば便益を得られる。」** 構成的整合性に関する研究は、**便益とリスクのどちらが優勢かがカリキュラムへの統合の度合いによって形づくられた**ことを見出しました。作用する区別は**追加するのではなく統合せよ**です。後付けのモジュールは評価の設計を変えないままです。
 - **「道具の洗練は従来のeラーニングに勝る。」** **130名の学生**による認識調査では、**チャットボットもエージェントも、強化、個別化、意思決定支援において従来のeラーニングを上回る評価**を得ました。ここで測られているのは、学習ではなく従来の基準に対する学生の*認識*であることに注意すべきです。
-
-## 関連概念
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — ケーススタディ、ケースメソッド、ケース討議
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## 関連記事
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL：ビジネス教育における実践的知恵のための解釈学的ヒューリスティック（Heron & Meekins 2026）
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI強化型ビジネスプロセス管理のためのAI意思決定チェックポイント。枠組みと教育への具体化
-- [[csaszar-ai-management-education-2026]] — AI が経営教育に及ぼす効果：価値に基づく戦略分析（Csaszar ら 2026）
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE。電子商取引コースにおけるエージェント的GAI支援、認識された利益とリスク（Ilievaら 2026）
-- [[drummond-genai-business-schools-framework-2026]] — ビジネススクールにおけるGenAIのための学生の声を反映した枠組み（Drummond & Dale 2026）
-- [[espino-ai-business-education-review-2026]] — ビジネス教育におけるAIの10年（Espino & Espino 2026）
-- [[zhou-constructive-alignment-genai-business-2026]] — ビジネス高等教育におけるGenAIの構成的整合性（Zhouら 2026）
-- [[rook-plumb-genai-curricula-student-insights-2026]] — カリキュラムへのGenAI統合に関する学生の洞察（Rook & Plumb 2026）
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育におけるAI採用の組織的な推進要因（Al-Rahmi 2026）
-- [[conversational-agents-business-simulation-gaming-2026]] — ビジネスシミュレーションゲームにおけるAI対話エージェントのためのCAIS-GBL枠組み（Wenzelら 2026）
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — 学生のマーケティング投稿の自動採点における一致と誤差
-- [[shi-genai-experiential-learning-management-education-2026]] — 経営教育の教育法を再構成するための三つの生成的AIの仕組み
-- [[alam-process-oriented-collaborative-essays-2026]] — ビジネスアナリストの徒弟制における過程志向の協働的エッセイ:評定されるのは話題ではなく文書化された反復です
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — コース内で作られたRAGチャットボットは成果ではなく期待を動かしました
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — 8つのファイナンス・コホート、75,404件の設問評点：ChatGPT登場後の向上は監督なしのクイズと概念的項目に限られました（Rodríguez Longarela & McGrath 2026）

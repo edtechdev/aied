@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,48 +92,3 @@ ai_assist:
 **"نماذج الحدود المغلقة أفضل ببساطة، فالبدائل المفتوحة احتياط."** الفجوة أضيق مما يفترض ذلك. ففي [[cdpk-pedagogy-benchmark-llms|معيار البيداغوجيا]] (CDPK + SEND، مبنيّ من مفردات امتحانات معلّمين تشيلية حقيقية) عبر 97 نموذجًا، بلغ **DeepSeek R1 المفتوح الأوزان 86.65%**، مقابل قائمة أفضل عشرة تتكوّن في معظمها من نماذج استدلال مغلقة — ومقارنة الكلفة بالدقة تسير أبعد في الاتجاه المفتوح. فالحجة الباقية للانفتاح تتعلق بالتحكم وقابلية التدقيق، لا بالتضحية بقدرة.
 
 **"إطلاق الأوزان هو إطلاق العمل."** المساهمات المفتوحة الأقوى تُطلق خط الأنابيب. فـOmniEdu ينشر إشرافًا متوازن القدرة على مزيج من 69,999 مثالًا لا أوزانًا نهائية وحدها، رافعًا كل مقاسات عائلة K–12 مفتوحة من 4B/9B/27B، مع كسب النموذج 4B المضبوط **55 نقطة** في أداء [[scaffolding|سقالة]] MathTutorBench؛ و[[singh-eduqwen-pedagogical-rl-2026|EduQwen]] كذلك يوثّق إجراء التعلّم المعزز والضبط الدقيق، بما فيه 440 سالبًا صعبًا مُنقَّبًا و40,000 استجابة مولَّدة. فالأوزان دون الوصفة تُعيد إنتاج ناتج دون إعادة إنتاج الطريقة.
-
-## المفاهيم المرتبطة
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## المقالات المرتبطة
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — مساعد قاعدة معارف بالذكاء الاصطناعي للموارد التعليمية المفتوحة على عتادهم الخاص بعتاد استهلاكي (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — نظام تلقين تكيّفي مُرخَّص بـMIT بمكتبة محتوى OpenStax مُرخَّصة بـCC BY (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — نموذج تربوي مفتوح بـ32 مليار معامل يتفوّق على أنظمة مملوكة أكبر منه بكثير (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — مُقيّم آلي بنموذج لغة كبيرة محلّي متوافق مع FERPA يعمل كبديل جاهز
-- [[programming-its]] — نموذج لغة كبيرة مفتوح الأوزان مستضاف ذاتيًا للامتثال لـGDPR/قانون الذكاء الاصطناعي الأوروبي في نظام تلقين ذكي بلغة بايثون
-- [[aiawe-automated-writing-evaluation]] — نموذج مفتوح الأوزان مُكيَّف بـLoRA لتقييم الكتابة الآلي
-- [[stanbkt-bayesian-knowledge-tracing]] — حزمة بايثون مفتوحة لتتبّع المعرفة البيزي الكامل
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — إطار تلقين وكيلي مفتوح المصدر بالكامل بذاكرة متعلّم
-- [[vismatic-secure-sandbox-cs-education]] — بيئة معزولة مُحَاوَرة مفتوحة للتقويم الموجّه للعملية
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — مدرّس رياضيات وجداني بقاعدة كود مفتوحة
-- [[cdpk-pedagogy-benchmark-llms]] — معيار قياس تربية مفتوح على 97 نموذجًا وحدّ التكلفة–الدقة
-- [[astra-multi-agent-tutoring-benchmark-2026]] — مجموعة بيانات ونموذج أوّلي مفتوحان لتقييم تلقين تعدّد الوكلاء المبني على الآثار
-- [[mllm-scientific-visualization-literacy]] — نماذج مفتوحة دون خط الأساس البشري في ثقافة التصوير
-- [[iks-instruct-dataset-indian-knowledge]] — مجموعة بيانات متعددة اللغات مفتوحة للتعليم المؤسَّس ثقافيًا
-- [[aied-carbon-footprint-reporting]] — منهجية مفتوحة المصدر للإبلاغ عن الكلفة البيئية لنماذج اللغة الكبيرة
-- [[egai-power-systems-education]] — مكتبة وحدات قابلة للتنفيذ مفتوحة للذكاء الاصطناعي الهندسي
-- [[mooc-to-maic]] — توليد المقررات بالاعتماد على نماذج اللغة الكبيرة واقتصاديات إنتاج المقررات المتغيرة
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: نماذج أساسية مفتوحة للتعلّم والتدريس

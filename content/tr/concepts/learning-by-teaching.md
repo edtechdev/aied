@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -114,32 +116,3 @@ Yukarıdaki [[research-methods-aied|araştırma]], varsayılan uzman bir LLM’y
 **“Bir LLM’den kafası karışmış gibi davranmasını istemek önemsiz bir istek metnidir.”** Bu bir tasarım sorunudur, çünkü hataya açıklık öğretilen kavrama ve öğrenen-öğretenin mevcut modeline göre kalibre edilmelidir. Rastgele hatalar hata ayıklama pratiği üretir; belirli, makul bir yanlış kanıyı yansıtan hatalar kavramsal yeniden yapılanma üretir ve pedagojik hedef yalnızca ikincisidir.
 
 **“Öğreterek öğrenme, öğretilmekten daha yumuşak bir etkinliktir.”** Daha talepkardır. Öğretmeye hazırlanmak, bilginin düzenlenmesini ve kişinin kendi boşluklarının yerini bulmasını zorlar; bu nedenle yaklaşım, pasif alımın gizlediği yanlış anlamaları gün yüzüne çıkarır: güçlük, en aza indirilecek bir maliyet değil mekanizmanın kendisidir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Bir YZ aracisine açıklama yapmak: bilgi tabanında en iyi kanıtlanmış dizi
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretme stratejileri
-
-## Bağlı makaleler
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
-- [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning

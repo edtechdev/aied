@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -71,43 +73,3 @@ ai_assist:
 - **“机构 AI 政策是规则所在之处。”** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]] 对 **1,057 名美国教师** 的调查测量了有效规则落在机构层之下有多深：**87% 的受访者自己写了**指引。可运作的政策在很大程度上由教师撰写，这意味着有记录的机构层所描述的东西比它看起来的要少。
 - **“写出一份政策就覆盖了有风险的表面。”** [[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]] 说明了为什么评估工具应属于受监管的那一组：在一次红队测试中，藏在提交文件里的 **五种间接提示注入有两种** 成功了。一条点名了工具却没有点名注入表面的规则，把这一利用方式留在未处理的状态。
 - **“智能体系统可以通过延伸现有规则来覆盖。”** 在一项对 **12 所大学** 的文件分析中，[[wong-sun-agentic-ai-assessment-governance-2026|Wong 与 Sun（2026）]] 发现**没有任何对照研究涉及一个智能体登录学习管理系统**。这一治理缺口是结构性的：现有类别没有为一个持有凭证的自主行为者留出位置。
-
-## 关联概念
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — 监管与治理不清或过宽时的法律风险
-
-## 关联文章
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — 英国高等教育政策中的人工智能
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026：OECD 数字教育展望 2026
-- [[genai-declaration-frameworks-higher-education]] — 人工智能声明框架
-- [[genai-assessment-governance]] — GenAI 下的评估治理
-- [[league-ethical-governance-student-data-2026]] — 学生数据的伦理治理
-- [[student-regulatory-awareness-genai]] — 学生对 GenAI 的监管觉察
-- [[dot-framework-survey-2026]] — 技术采用框架
-- [[raza-farooq-aied-review-2020-2025]] — 人工智能教育研究的综合综述
-- [[qian-governing-genai-higher-ed-policy-2026]] — 指引胜于有约束力的政策：50 所创新型美国大学的内部人工智能规则（Qian 2026）
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院 GenAI 政策在五个维度上的评分：默认禁止、教师裁量、定期复审（Gutowski & Hurley 2025）
-- [[wright-transcription-not-generation-2026]] — 过度涵盖的人工智能禁令及其可能触发的合理调整义务（Wright 2026）
-- [[li-genai-assessment-language-equity-2026]] — 评估规则中的语言背景：支持—替代边界作为平等问题（Li 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 针对人工智能评分器的提示注入攻击与标准化韧性测试的理由（Humble 2026）
-- [[coates-governing-academic-integrity-indicators-2025]] — 外部监管压力作为治理改革的条件（Coates, Croucher & Calderon 2025）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% 的教师自订规则，对照薄弱的机构政策层（Watson & Rainie 2026）
-- [[edtech-privacy-deferral-2026]] — “以后再说”：教育、人工智能与 EdTech 中学生隐私的推迟
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — 没有任何对照政策涉及人工智能智能体登录 LMS 或持有学生凭证（Wong & Sun 2026）
-- [[chan-ai-policy-gap-2026]] — 纵向不传导：州级规则存在，而其下的资助者未发布任何有约束力的工具（Chan 2026）

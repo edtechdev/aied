@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -74,10 +76,8 @@ A qualidade do design, e não a frequência de uso, carregou o efeito motivacion
 - **Uma revisão sistemática mapeia onde a educação de línguas com IA no nível elementar é escassa.** Ao longo de 31 estudos (2013-2025), o trabalho em salas de aula de línguas do nível elementar se concentrou em fala, literacia e vocabulário, enquanto gramática, compreensão auditiva e língua de sinais foram mal estudados, e a maioria dos designs carecia de especificidade por nível de série ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026)]]).
 - **Use a IA para estender a prática comunicativa, não para substituí-la.** Os [[ai-interlocutor-l2-spoken-dialogue|interlocutores de IA]] e os [[tact-pedagogically-adaptive-esl-tutoring|tutores de ESL adaptativos]] ampliam a prática interacional em escala — pareie-os com interação humana para que fluência e apreensão se transfiram para a conversa real.
 
-
 - **Estenda o [[scaffolding|andaimento]] da IA à [[reading-education|leitura colaborativa]].** Com 63 estudantes chineses de Letras Inglês em um estudo de anotação social assistida por GenAI, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] constataram que o chatbot elevou o engajamento cognitivo e emocional e o desempenho em leitura e vinculou a [[community-of-inquiry|presença social]] à integração e à resolução, embora os grupos de alto desempenho tenham usado o andaime muito mais.
 - **Prontidão, não desempenho observado.** Ao longo de 708 aprendizes, mais prática de fala assistida por IA acompanhou maior disposição para comunicar-se dirigida a humanos (β = 0,384) e menor [[anxiety-and-stress|ansiedade]] para falar em língua estrangeira (β = −0,416), enquanto cenários com assistente de voz por IA reduziram ainda mais a ansiedade antecipada; nenhum dos dois estudos observou fala humana real ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
-
 
 - **Fique atento à saída da IA por erro pragmático, não apenas gramatical.** Professores de cinco métodos on-line de ensino de línguas nomearam a cegueira pragmática, em que a saída da IA é gramaticalmente correta, mas errada em tom, formalidade ou cultura ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi e Khan (2026)]]).
 - **Priorize a qualidade do feedback sobre a quantidade na fala apoiada por ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] concluem que a correção precisa de erros e tarefas estruturadas de reflexão melhoram a internalização do [[feedback|feedback]] e o comportamento reflexivo na fala em inglês universitário, enquanto o uso frequente de ASR e a acurácia de reconhecimento impulsionam motivação ou reflexão apenas parcialmente — a precisão técnica por si só não gera engajamento cognitivo mais profundo, e a proficiência em língua modera os ganhos (quem aprende mais forte internaliza o feedback de forma mais eficaz). Isso defende feedback pedagogicamente sólido (por exemplo, explicações articulatórias em vez de simples marcações de erro), reflexão andaimentada e apoio diferenciado por proficiência.
@@ -106,61 +106,3 @@ A síntese de Zhang, Aubrey, Wu e Chiu de 48 estudos controlados (N = 5.196) con
 - **"Tutores robóticos corporificados funcionam por causa da corporificação."** Uma metanálise de **11 estudos de RALL (N = 595)** encontrou um grande efeito agrupado na aprendizagem de L2 (**g = 0,83**) com **alta heterogeneidade** e — o que importa — **apenas** características no nível da interação o moderaram. Morfologia e modalidade não o fizeram, de modo que o hardware não é o ingrediente ativo.
 - **"Itens de avaliação gerados por IA são piores que os escritos por professores."** Uma comparação de **52 tarefas de avaliação em EFL pontuadas por 20 professores experientes** não encontrou **diferença significativa de qualidade no geral** entre itens gerados por IA e desenvolvidos por humanos, mas divergência em dimensões particulares. Paridade global com fraquezas específicas é uma afirmação diferente de melhoria ou deficiência.
 - **"O feedback de LLM só consegue pontuar escrita."** Um sistema no nível do discurso vai além ao **nomear o defeito em vez de pontuar o texto**, com a classificação de relação entre pares de frases localizando **quebras de coerência** como saltos lógicos e elos ausentes. A saída útil é diagnóstica, não numérica.
-
-## Conceitos conectados
-
-- [[eportfolio]]
-- [[writing-education]]
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## Artigos conectados
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Interação estudante-IA na interpretação consecutiva assistida por computador
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Perfis e transições da adaptação psicológica na aprendizagem de japonês assistida por IA
-- [[llm-agents-5e-esl-grammar-2026]] — Agentes com LLM e framework 5E para aquisição de gramática em ESL (Yang, Weng e Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting versus ajuste fino do GPT para geração de itens de compreensão auditiva em L2 (Aryadoust e Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — Classificação de discurso com BERT para ensino de inglês
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tarefas de avaliação geradas por IA versus desenvolvidas por humanos em EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governando o invisível: letramento em IA entre professores de línguas
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Metanálise de aprendizagem de línguas assistida por robôs corporificados potencializada por IA
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tutores de IA projetados por instrutores na educação universitária de línguas estrangeiras: um estudo de métodos mistos da motivação de quem aprende e da experiência reflexiva de aprendizagem baseado na teoria da autodeterminação
-- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para aprendizagem autônoma de línguas
-- [[chatgpt-english-language-learning-malaysia]] — Experiências dos estudantes com ChatGPT na aprendizagem da língua inglesa
-- [[liu-emerging-tech-tefl-review-2026]] — Metanálise de tecnologias emergentes para EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Teoria de definição de metas: apoio do professor, metas de realização e engajamento na aprendizagem de inglês assistida por IA (758 estudantes chineses)
-- [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com IA generativa
-- [[asr-english-speaking-feedback-metacognition-2026]] — Tecnologia ASR na fala em inglês universitário: internalização de feedback e estratégias metacognitivas
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Um programa de escrita apoiado por IA generativa para aprendizes primários de L2 (Lu et al. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: um framework de agente de IA local-first para aprendizagem de línguas em casa de baixo custo rumo à equidade educacional
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Ganhos de chatbots em proficiência oral se concentram em amplitude e inteligibilidade
-- [[ai-speaking-practice-communicative-readiness-2026]] — Prática de fala com IA, disposição para comunicar-se e ansiedade antecipada (Wang & Li 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Estenda o andaimento de IA à leitura colaborativa
-- [[acoustic-lexical-native-language-identification-learners-2026]] — Áudio supera um classificador de transcrição GPT-4o zero-shot na identificação de L1 (Uluslu et al. 2026)
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Cegueira pragmática: a saída linguística da IA pode ser gramaticalmente correta, mas culturalmente errada
-- [[xian-process-visualization-feedback-news-translation-2026]] — o feedback de processo elevou a consulta a fontes e cortou o uso de tradução automática em um curso de tradução de notícias
-- [[wordofa-genai-grammar-instruction-efl-2026]] — Instrução gramatical assistida por IA generativa e autoeficácia e consciência metalinguística de estudantes etíopes de EFL
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálise de três níveis: a GenAI funciona por meio de feedback e de design direcionado pelo aprendiz, e não como uma intervenção uniforme (Zhang et al. 2026)

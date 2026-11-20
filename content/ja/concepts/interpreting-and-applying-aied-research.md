@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -156,41 +158,3 @@ ai_assist:
 **「ツールを使っている間の高い成績は、そのツールがより多く教えたことを示す。」** ある[[k-12|K-12]]の数学の研究では、汎用の[[conversational-ai|チャットボット]]で練習した学生が練習の成績をより良く取り、その後の補助なしの評価では**約17%悪い**成績を取りました。ツールがある状態で測った練習の成績は膨張した測定であり、補助なしの成績こそが成果です。そして上がっていたのは片方だけでした。
 
 **「効果が本物なら、実装の細部はあまり問題ではない。」** 細部が効果そのものです。ある機関のあるコースの30人の学生を、今は誰も使っていない版のツールで追跡した研究は、もはや存在しない構成についての知見を生んだのです。処置の指定、版、設定は、主張の周りの文脈ではなく主張の一部です。
-
-## 関連概念
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AIに支援された教育研究
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## 関連記事
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — 効果があると推定されたもの: 14件のAIEDメタ分析の法医学的監査
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 出版バイアス補正後のAIの効果は報告された大きさのおよそ3分の1
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育におけるChatGPT: 原因を探す効果
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 厳格さの基準として使われた包含基準と、モデルによって変わる異質性
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 自動採点の信頼性が課題の測定上限に達するとき
-- [[verification-quality-reliance-calibration-genai-2026]] — 検証と依存に関する文献が測定していないもの
-- [[citation-errors-hallucinations-computing-education-2026]] — 2025–2026年に印刷に至った捏造された参考文献
-- [[stanford-evidence-base-ai-k12-2026]] — 練習では伸び、試験では損: K-12の数学における支援除去の問題
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 信頼区間が0を跨ぐ部分群の効果
-- [[chick-faculty-development-ethical-ai-2026]] — それを可能にする条件: 方針の徴候、個人の契約、時間のなさ
-- [[ai-tutoring-quality-k12-methodologies-2026]] — 較正と実験の数が開示されたベンダーの指標
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — モデルの版に結びつけられた知見と、分野の流動性
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — すでに使われている学生向けAI製品16件の独立した証拠の数
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — レビューは自身のコーパスにおける報告の偏りを定量化できる

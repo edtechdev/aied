@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,39 +84,3 @@ VR/AR के लिए सबसे मजबूत प्रमाण तुल
 - **"परिघटना को महसूस करना ही उसे समझना है।"** एक पायलट अध्ययन में विद्यार्थियों ने बताया कि वे हैंड जेस्चर से तरंगदैर्ध्य और आयाम को स्लाइडर की तुलना में अधिक मजबूती से **महसूस** करते हैं, लेकिन **इसने धारणा मापी, उपलब्धि नहीं**। अनुभूत बोध वह सुविधा है जो माध्यम देता है, और क्या उससे समझ बनी, यह एक अलग परीक्षण है।
 - **"उच्च उपयोगिता स्कोर किसी शैक्षिक VR उपकरण को वैध ठहराते हैं।"** Meta Quest 3 पर **10 विद्यार्थियों के साथ एक घंटे के सत्र** में अध्ययन ने **System Usability Scale पर अच्छी उपयोगिता और न्यूनतम सिमुलेशन सिकनेस** रिपोर्ट की। उपयोगिता और आराम पूर्वशर्त हैं और इनमें से कोई भी अधिगम का मापन नहीं है।
 - **"विद्यार्थियों की सहमति सुविधा का प्रमाण है।"** **29 द्वितीय वर्ष के मेडिकल-इमेजिंग विद्यार्थियों** के साथ, सभी 29 **सहमत थे कि जेस्चर ने उन्हें तरंगदैर्ध्य क्या है "महसूस" करने में मदद की (माध्य 4.52)**। किसी अनुभूति पर सर्वसम्मत सहमति अनुभव के बारे में स्व-रिपोर्ट है, और सुविधा के दावे के लिए ऐसा परिणाम चाहिए जो विद्यार्थी के अपनी समझ के निर्णय पर निर्भर न हो।
-
-## संबंधित अवधारणाएँ
-
-- [[simulation]] — जो विशद वातावरण आमतौर पर प्रदर्शित करते हैं; मॉडल, माध्यम नहीं
-- [[embodied-learning]] — वह तंत्र जिसका माध्यम को फायदा उठाना चाहिए
-- [[multimodal]] — सीखने के माध्यमों के रूप में जेस्चर, वाणी और स्थानिक इनपुट
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — वह सेटिंग जहाँ विशद अभ्यास सर्वाधिक स्थापित है
-- [[generative-ai]] — नई लेखन परत
-- [[prompt-engineering]] — गैर-प्रोग्रामर विशद उपकरण कैसे बनाते और परिष्कृत करते हैं
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — हेडसेट के भीतर मार्गदर्शन को आधार देना
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — निष्ठा, और शिक्षार्थी की उसकी सीमाओं के प्रति जागरूकता
-- [[cognitive-offloading]] — विलंब और अस्थिरता बाह्य बोझ के रूप में
-- [[edtech-platform]] — सिंक्रनाइज़ेशन, विलंब और बहु-साइट उपस्थिति
-- [[arts-and-media-education]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## संबंधित लेख
-
-- [[genai-ar-physics-simulation-prompt-2026]] — चार-तत्व संकेत जो हैंड-नियंत्रित AR भौतिकी सिमुलेशन उत्पन्न करता है; 29-विद्यार्थी प्रायोगिक अध्ययन, केवल धारणा-आधारित प्रमाण
-- [[mixed-reality-engineering-learning]] — इंजीनियरिंग यांत्रिकी में मिश्रित वास्तविकता ऐप्स बनाम भौतिक उपकरण-संग्रह बनाम कक्षा; सहभागिता बढ़ी, जटिल दृश्यांकन अभी भी कठिन
-- [[medgame-llm-medical-education-gamification]] — AI के साथ गेमीकृत मेडिकल प्रशिक्षण
-- [[tech-enhanced-tabletop-cybersecurity-education]] — साइबरसुरक्षा शिक्षा में संवर्धित टेबलटॉप परिदृश्य
-- [[genai-xr-architectural-design-education-2026]] — सहयोगी वास्तुकला डिज़ाइन शिक्षा में जनरेटिव AI और विस्तारित वास्तविकता: एक अन्वेषी स्टूडियो अध्ययन
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: LLM-समर्थित शिक्षण सहायक के साथ विशद VR डिज़ाइन स्टूडियो, पारंपरिक PBL के सापेक्ष मूल्यांकित (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: VR स्टेज लाइटिंग शिक्षा में LLM-सहायित बहु-माध्यम निर्देश, और जहाँ आधार टूटा (Liang et al. 2026)

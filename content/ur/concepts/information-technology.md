@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -85,27 +87,3 @@ ai_assist:
 **پروگرام ڈیزائنرز کے لیے**
 
 - وہ حکمرانی والی دستاویز بنائیں جو شعبے میں غائب ہے: نامزد ذمہ داری، نظرثانی کا وقفہ، اور واقعے کا راستہ۔ AI رہنمائی کی دستاویز توثیق کا سوال پورا کرتی ہے، جواب دہی کا نہیں۔
-
-## منسلک تصورات
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## منسلک مضامین
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
 
@@ -119,75 +121,7 @@ Fowlin et al. (2026) добавят оперативен ход за решав�
 
 Дизайнът модерира ефектите повече от технологията в синтеза на Zhang и колегите: същата способност на GenAI произвежда g = 0.92, когато обучаемият я насочва, и g = 0.34, когато работи автономно. Режимът на взаимодействие следователно е дизайнерско решение, а не свойство на инструмента ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang и съавтори, 2026]]).
 
-
 ## Чести заблуди
 - **„Планирането на уроци с AI връща време на учителите.“** Времето за планиране наистина падна от 3,32 часа седмично на 2,51 с инструмента, но **медианният учител планираше само 21% до 40% от уроците от нулата**. Времето беше спестено и планирането не стана съществено по-задълбочено - спестяването се натрупа, вместо да бъде реинвестирано.
 - **„Съвместният дизайн с AI е добре доказан.“** Систематичен преглед на [[wang-teacher-ai-co-design-review-2026|съвместния дизайн на учебни задачи от учител и AI]] **потвърждава модела в мащаб в 28 проучвания**, което описва последователна практика, а не демонстрира превъзходни резултати.
 - **„Рубриката е фиксиран вход.“** Рубриката функционира като **медииращ интерфейс между човешкото педагогическо намерение и машинния извод**: третирането на критериите за оценяване като **ревизируеми** е това, което позволява на инструмента да носи намерението на преподавателя. Фиксираната рубрика пренася рамката по подразбиране на машината в оценяването.
-
-## Свързани концепции
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - Педагогически партньорства
-- [[online-teaching-and-learning]] - Онлайн преподаване и обучение
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - Чадър: педагогиките и стратегиите на преподаване в AI образованието
-- [[stakeholders]] - Чадър: хората и аудиториите в AI образованието (обучаеми, учители, дизайнери, администратори, политици)
-
-## Свързани статии
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Измерено спестяване на време за планиране наред с находката, че учителите планират само 21% до 40% от уроците от нулата
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Анализ на обучението и GenAI при вземането на решения за дизайн на обучение
-- [[tang-chatbots-learning-design-2026]] — Използване на чатбот в дизайна на обучение: дизайнерите се спират на резултатите и педагогиката, а не на генерирането на съдържание (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Модели на взаимодействие учител-AI при дизайна на уроци според опита и владеенето на AI (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI във висшето образование: ангажираност и медиираща роля на методите на преподаване
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Таксономия (граничен обект) за класифициране на учебни дейности с GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI уеб агенти: автономен уеб агент оценява дизайни на уроци и предсказва отпадането на студенти, преди те да се ангажират (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: рамка за когнитивно активирано AI усилване във физиката
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Дизайн за обхват: седем лоста и студентът сам с AI
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Когато да кажеш „не“ прави по-добри видеа: двойно филтриране за педагогически обосновано създаване на съдържание с AI
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI за подкрепа на дизайна на задачи за продуктивен неуспех
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI и практиката на инструкционния дизайн: систематичен преглед (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Базирано на графи интелигентно обучение за динамични области (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Правене на AI досаден нарочно: ограничението в подпомогнатото от AI писане (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI платформа за генериране на задачи за математическо моделиране (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Съвместен дизайн на учебни задачи от учител и AI: тенденции и перспективи (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM като агенти на итеративен педагогически дизайн
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI като ненадежден сътрудник в съвместния дизайн
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Тристепенен мета-анализ: GenAI работи чрез обратна връзка и воден от обучаемия дизайн, а не като еднообразна интервенция (Zhang et al. 2026)
-- [[williams-coding-curriculum-critique-2026]] — Кодиране на учебната програма: критика на „How AI Makes Its Mark on Instructional Design“
-- [[chng-ai-instructional-design-2023]] — Как AI оставя следа в дизайна на обучението

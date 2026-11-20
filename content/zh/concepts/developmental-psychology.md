@@ -15,6 +15,8 @@ ai_assist:
 translation_of: concepts/developmental-psychology
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -91,36 +93,3 @@ AI-Play 是一个面向学前班与幼儿园的、以游戏为基础的不插电
 - **"如果两个年龄组有差异，发展就能解释它。"** 横断面的年龄差异混淆了队列、课程、设备可及性与情境。只有追踪同一批学习者的设计才能把变化与差异分开。
 - **"支持表现的工具就是在发展能力。"** 补偿、支架与发展是三种不同的功能；只有最后一种被期望在工具撤除后仍然存在。
 - **"AI 玩具是中性的游戏材料。"** 能动性再分配的论证说的正相反：玩具的回应性塑造了是谁在做想象。
-
-## 关联概念
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## 关联文章
-
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 项 K–12 AI 素养研究：一个四段式进阶，却没有任何研究追踪同一批学习者跨学段（Guo, Ali & Wong, 2026）
-- [[ai-toys-child-development-2026]] — 具备 AI 能力的玩具在游戏中重新分配能动性（Xu, Girouard & Shi）
-- [[clara-developmental-appropriateness-children-stories-2026]] — 基于 122 个标签分类法的发展适切性评分
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 生成式 AI 与儿童创造性思维的范围综述
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 补偿、支架与发展作为三种工具功能
-- [[genai-reliance-executive-functioning-2026]] — 青少年对生成式 AI 的依赖表现为偏好而非努力
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人在扫描仪中与 ChatGPT 对话
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — 青少年向聊天机器人表露什么，而不是用了多少
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI 联结感作为一种伦理上不对称的纽带（理论）
-- [[ai-play-framework-early-childhood-2026]] — 面向学前班与幼儿园的、以游戏为基础的不插电 AI 素养
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 一本 AI 素养指引的两个按年龄分层的版本
-- [[preservice-early-childhood-genai-magnetism-2026]] — 职前幼儿教育工作者用生成式 AI 做设计
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 面向执行功能的聊天机器人训练，十项研究
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 大学生中的依赖、压力与执行功能障碍

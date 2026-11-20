@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -97,37 +99,3 @@ Studenten worden ook gekaderd door het bredere medialandschap en publieke debat 
 **'Een tool verbieden haalt het gedrag weg.'** Het verplaatst het naar tools die u niet kunt zien. Studenten geven al de voorkeur aan privé toegankelijke tools boven door de instelling aangeboden tools, dus een verbod drijft het gebruik weg uit de enige omgeving waar ondersteuning, logging of begeleiding mogelijk is. De kaderopgave is het toegestane gedrag aantrekkelijk maken, niet het verboden gedrag moeilijker waarneembaar maken.
 
 **'Kaderen is overtuigen, dus het is meer retoriek dan ontwerp.'** Het kaderen dat deze pagina beschrijft, gaat gepaard met ontwerp: verwachtingen duidelijk en herhaald uitgesproken *terwijl* er rond studenten wordt ontworpen. Boodschappen die worden afgeleverd in plaats van meegenomen in het ontwerp zijn de versie die faalt, omdat studenten het verschil lezen tussen een uitgesproken en een feitelijke toezegging.
-
-## Verbonden concepten
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Verbonden artikelen
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Een consensus van 30 experts over de volgorde: verwerven zonder GenAI, consolideren ermee, en dan zelf denken
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparante rationale voor elk toegestaan en niet-toegestaan GenAI-gebruik, taak voor taak (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Passend gebruik van GenAI aanmoedigen in plaats van het als verstoring te veroordelen
-- [[student-rationalization-ai-writing]] — De 'vijf sites' waar studenten AI-gebruik in academisch schrijven rationaliseren
-- [[student-regulatory-awareness-genai]] — De regels kennen is niet genoeg: regelgevend bewustzijn en feitelijk gebruik
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Van AI-angst naar strategische regulatie
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculatieboodschappen en verificatiegedrag
-- [[ai-fallibility-warning-help-seeking]] — Waarschuwen voor de feilbaarheid van AI verhoogt de hulpvraag
-- [[shame-guilt-ai-regulation-computing-education]] — Schaamte en schuld als sociale regulatoren van AI-gebruik
-- [[access-not-enough-ai-tutoring-2026]] — Menselijke ondersteuning verbetert de betrokkenheid bij AI-tutoring
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Op zelfdeterminatietheorie gebaseerde betrokkenheid bij GenAI
-- [[ai-availability-student-motivation]] — Hoe de beschikbaarheid van AI de motivatie van studenten vormt
-- [[youtube-frames-chatgpt-education]] — Hoe YouTube het gebruik van ChatGPT in het onderwijs kadert
-- [[ai-ethics-education-public-discourse]] — Het publieke debat over AI-ethiek in het onderwijs
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Docenten kaderen AI als kritisch en verantwoord gebruik; werkgevers kaderen het als productiviteit
-- [[ssaho-ai-academic-integrity-review-2025]] — Een cultuur van academische integriteit opbouwen via heldere verwachtingen

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -70,40 +72,3 @@ ai_assist:
 **"मौजूदा जाँच-पाठ में AI जोड़ने से हानि नहीं हो सकती।"** हो सकती है, और लाभ दिखाने वाली तुलना सुनने से अधिक संकीर्ण है। [[context-based-ai-secondary-chemistry-2026|Abdikayumova और Madybekova]] ने कक्षा 10 रसायन के लिए **7E शैक्षणिक मॉडल** को PhET सिमुलेशन *और* ChatGPT ट्यूटरिंग के साथ जोड़ा और केवल-जाँच या पारंपरिक निर्देश से उल्लेखनीय रूप से अधिक उपलब्धि और सहभागिता पाई। उपचार संरचित संयोजन है (शैक्षणिक मॉडल, सिमुलेशन और ट्यूटरिंग), अकेला चैटबॉट नहीं, और असंरचित जाँच में जोड़ा गया चैटबॉट उस परिणाम से अपरीक्षित है।
 
 **"रसायन वह विषय है जहाँ उत्तर जाँचा जा सकता है, इसलिए AI की त्रुटियाँ हानिरहित हैं।"** जाँचे जा सकने वाले उत्तर ही वह रास्ता हैं जिनसे गलत तर्क बिना पकड़े निकल जाता है: जो छात्र खराब तर्क करने वाले मॉडल से सही मान प्राप्त करता है, उसके पास उस कमी को पकड़ने का कोई साधन नहीं, और मूल्यांकन सफलता दर्ज कर लेता है। मात्रात्मक अनुशासन में सत्यापनीय अंत-बिंदु समझ का सबसे कमजोर उपलब्ध साक्ष्य है।
-
-## संबंधित अवधारणाएँ
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — जीव शिक्षा और एआई: प्रयोगशाला शिक्षण सहायक, जीव विज्ञान में एआई साक्षरता, समीक्षात्मक सोच, विशेष उपकरण
-
-## संबंधित लेख
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — विज्ञान/रसायन शिक्षा में एआई पर व्यवस्थित समीक्षा
-- [[unesco-ai-guidelines-chemical-education-2026]] — यूनेस्को एआई दिशानिर्देशों का रसायन शिक्षा में अनुवाद
-- [[context-based-ai-secondary-chemistry-2026]] — माध्यमिक रसायन में संदर्भ-आधारित + एआई (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — व्यावहारिक रसायन में एआई-सहायता प्राप्त प्रयोगात्मक डिज़ाइन
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — चैटजीपीटी-संवर्धित गुणात्मक आकलन में शिक्षक और एआई की भूमिकाएँ
-- [[philosophy-experimentation-ai-chemistry-2026]] — एआई के साथ रसायन में प्रयोग का दर्शनशास्त्र
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

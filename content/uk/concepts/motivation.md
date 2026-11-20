@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -53,7 +55,6 @@ ai_assist:
 
 - **Однакова якість зворотного зв’язку не означає однакового мотиваційного ефекту.** Тристороннє РКД із 312 письменниками першого курсу виявило, що згенерований ШІ та викладацький зворотний зв’язок однаково поліпшили виправлені есе: d = 0,60 і 0,59, еквівалентні в межах заздалегідь визначеної смуги ±0,35 SD. Викладацький зворотний зв’язок усе ж підняв внутрішню мотивацію сильніше за ШІ (5,16 проти 4,90, d = 0,31), і сприйнята пов’язаність із джерелом опосередковувала цей розрив (непрямий 0,25, 95% ДІ [0,12, 0,40]) майже без прямого ефекту, що залишився ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu та співавт. (2026)]]). Продуктивність ішла через залучення до зворотного зв’язку, а не через самоефективність, чий непрямий шлях був незначущим. Там, де дослідження Bassner відокремило автономію від постачання відповідей, це тримає якість результату незмінною і локалізує мотиваційну різницю в тому, кому здобувач відповідає.
 
-
 Чому читач звертається до ШІ, саме по собі є вимірною змінною: шкала AIR розрізняє чотири мотиви читання з допомогою GenAI — орієнтований на завдання, Feel-good, переклад та мінімум зусиль — і лише мотив мінімуму зусиль (використання ШІ коли людина втомлена або відсторонена) був негативно пов’язаний із потребою в пізнанні (r = −0,18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
 **Мотивація в залучення, опосередкованому ШІ,** вивчає, як змінюється мотиваційна якість (а не лише кількість) під дією ШІ. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva та співавт.]]** поєднали теорію самодетермінації з [[network-analysis|аналізом епістемічних мереж]] для вивчення залучення в роботу з [[generative-ai|генеративним ШІ]]. **[[liang-ai-learning-motivation-sdt-2026|Liang та співавт. (2026)]]** простежили розвиток мотивації за допомогою аналізу латентних переходів серед **2 086 [[k-12|учнів]]** упродовж річної навчальної програми зі ШІ, виявивши три стабільні профілі (відсторонений, розвивний, самодетермінований) і показавши, що досягнення самодетермінованого профілю прогнозувало найбільші здобутки в [[ai-literacy]]. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** використали теорію цілепокладання з **758 [[higher-ed|університетських]] студентів**, які вивчають [[multilingual-learning|англійську мову]], показавши, що **підтримка викладача** спрямовує залученість під час роботи зі ШІ переважно через цілі оволодіння та цілі досягнення (орієнтації наближення, а не уникання). Разом ці дослідження показують, що мотивація в контекстах ШІ є водночас розвивною та соціально підтримуваною — вона змінюється з часом і реагує на підтримку викладача та формулювання цілей, а не лише на дизайн інструменту.
@@ -83,9 +84,7 @@ ai_assist:
 
 Мотивація також діє вище за сприйняття технології, а не лише поряд із ним. У вибірці з 340 студентів фізики цінність корисності передбачала сприйняту корисність (β = 0,43), а внутрішня цінність передбачала ставлення (β = 0,20), тоді як сприйнята ціна знижувала легкість використання (β = −0,16) і ставлення (β = −0,27) без прямого шляху до наміру ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
 
-
 **Мотиваційне регулювання — найтонший конструкт у цій літературі.** Серед 39 досліджень [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]] виявили автономну мотивацію у 2 дослідженнях, ідентифіковане регулювання та контрольовану мотивацію — по 1, проти 17 досліджень базових психологічних потреб і 10 — залученості. Автори називають цю прогалину центральною проблемою огляду, бо регулювання питає, чому студент мотивований, тоді як задоволення потреб питає лише, чи підтримувало його середовище.
-
 
 ## Зв’язки з суміжними поняттями
 
@@ -96,59 +95,3 @@ ai_assist:
 - **«Мотиваційний ефект GenAI — це чистий, великий приріст.»** Метааналіз 42 досліджень (56 розмірів ефекту, 6 059 студентів) виявив мотиваційний ефект g = 0,764 (95% CI [0,566; 0,962]) **але за I² = 93,7%**. Така висока гетерогенність означає, що об’єднана цифра описує набір досліджень, які не погоджуються між собою, тож це середнє над неузгодженими втручаннями, а не відтворюваний ефект.
 - **«Зниження фрустрації — те саме, що підтримання мотивації.»** Тристороннє [[rct|РКД]] виявило, що скаффолдинговий тьютор і необмежений ChatGPT **однаково знизили фрустрацію** (3,21 і 3,13). Два дуже різні дизайни дали той самий афективний результат, тож дані про фрустрацію не можуть їх розрізнити.
 - **«Мотивувальний дизайн — це добрий дизайн.»** Серед **222 учнів першого класу старшої школи** формат діалогу «викладач–викладач» **підвищив мотивацію за ARCS сильніше** за альтернативу, **не покращивши загальної оцінки**. Мотивація зрушила, а оцінена якість — ні.
-
-## Пов’язані поняття
-
-- [[learners]] — Здобувачі: збірне поняття для понять на боці здобувача
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-
-- [[reflection]]
-
-- [[social-emotional-learning]] — Соціально-емоційне навчання
-
-## Пов’язані статті
-- [[high-school-genai-acceptance-tam-physics-2026]] — Очікувально-ціннісні переконання як антецеденти прийняття GenAI
-- [[liu-ai-assistance-reduces-persistence-2026]] — Коротке використання ШІ зменшило настійливість у подальших задачах без допомоги (Liu та співавт. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Автоматизований зворотний зв’язок за аргументативне письмо: роль сприйнятливості до зворотного зв’язку та його сприйняття в учнів
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Парадокс зусиль та порочне коло безперешкодної допомоги
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Мотивація та ролі в метакогнітивній залученості в GenAI
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Стать, мотивація та траєкторії досягнень з GenAI
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Оцінювання цифрової компетентності викладачів для проєктування навчальних програм з GenAI (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Мотивація формувати майбутнє освіти за допомогою ШІ
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Характеристики здобувачів × взаємодії формату діалогу з TTS
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[liang-ai-learning-motivation-sdt-2026]] — Аналіз латентних переходів за ТСД мотивації навчання зі ШІ у студентів (2 086 учнів)
-- [[wang-goal-setting-ai-engagement-2026]] — Теорія цілепокладання: підтримка викладача, цілі досягнень та залученість у навчанні англійської зі ШІ (758 китайських студентів)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Ефекти інтервенції «корисність–цінність» у навчанні відповідального викладанню з GenAI (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Конструкт-специфічні здобутки в мотивації в програмі письма другої мови з GenAI для молодших класів (Lu та співавт. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — Шкала AIR: чотири сімейства мотивів звернення до ШІ під час читання
-- [[genai-math-relevance-intervention-2026]] — Діалог актуальності з GenAI підвищив актуальність як ідентифікацію, залишивши інтерес до уроку незмінним
-- [[genai-learning-motivation-meta-analysis-2026]] — Метааналіз із випадковими ефектами впливу GenAI на мотивацію навчання (56 розмірів ефекту, 6 059 студентів)
-- [[ai-student-motivation-scoping-review-2026]] — 156 досліджень про ШІ та мотивацію студентів: 85,3% не використовували мотиваційної теорії, а охоплення вузьке за конструктом, рівнем і країною
-- [[gai-advocacy-practice-art-education-2026]] — Розриви між політикою та практикою в адвокації GAI діють як стресор, який оцінюють студенти
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Скаффолдинговий тьютор підвищив внутрішню мотивацію там, де необмежений ChatGPT — ні
-
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Зіставлена за якістю ШІ та викладацький зворотний зв’язок, з мотиваційним розривом через пов’язаність (Liu та співавт. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — Огляд 39 досліджень крізь СДТ: потреби й залученість міряють часто, мотиваційне регулювання майже ніколи
-

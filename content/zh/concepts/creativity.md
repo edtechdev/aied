@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -100,43 +102,3 @@ ai_assist:
 - **"给学生制造干扰就能带来创造力增益。"** **摩擦并不等于创造力增益。** 唱反调式 AI 人格在 **38.2% 的小组**中激发了质疑与反思的对话，却没有带来可测量的创造力表现提升。对话变了，测量的结果没有变。
 - **"K 至 12 文献已经确认生成式 AI 能提升创造力。"** 一项遵循 PRISMA 的 **45 项研究（2017 至 2025）范围综述**显示，生成式 AI 大多**提升**创造力，却**很少测量**它。该领域的主导结论是从感知到的提升推断出来的，而这不是结果测量。
 - **"对生成式 AI 的依赖越深，创造性产出越多。"** 在 **1,157 名中国研究生**中，生成式 AI 依赖与**自报的研究创造力**正相关，而这一关联对应的是**自报**，是该构念可用的最弱测量。
-
-## 关联概念
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## 关联文章
-
-- [[malkani-paul-ai-steam-visual-storytelling-2026]] — AI 视觉叙事把设计学生从模仿自然推向以用户为中心的情境（Malkani 与 Paul 2026）
-- [[wei-genai-configurations-creative-phases-2026]] — 跨创造阶段的生成式 AI 配置：一项关于艺术与设计教育中创造表现与即时知识的 2 × 2 实验
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 生成式 AI 图像生成使设计表现不变却降低了一般创造自我效能
-- [[bicer-genai-pd-math-creativity-2026]] — 生成式 AI 引导的专业发展如何支持教师对数学创造力、内容知识与教学内容知识的投入
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 面向文学创作的公理锚定支架：前提作为主题与文本之间的单位，仅在计划中验证（Liu & Zhao 2026）
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 隐式人—AI 协作中的涌现学习者能动性：支持性对对立人格
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT 与批判性和创造性思维：系统综述
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 机器人 LLM 集成与创意写作
-- [[t2i-competence-paradox-2026]] — 艺术与设计学生中文生图 AI 的能力悖论
-- [[mujib-ai-ibl-creative-math-2026]] — AI 支持的探究本位学习与创造性数学表现
-- [[flowcode-ai-creative-coding]] — Flowcode：一个支架创造性计算中迭代的 AI 驱动环境
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet：社会技术网络中潜在共创的三值模型
-- [[genai-creativity-k12-scoping-review-2026]] — 对 45 项 K–12 研究的 PRISMA 范围综述：生成式 AI 用于创造力的四种用途、同质化与测量缺口
-
-- [[genai-dependence-research-creativity-2026]] — 功能性与存在性生成式 AI 依赖与 1,157 名研究生的研究创造力
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 创造力相当、神经投入分化：儿童与成人在 fMRI 扫描仪中同 ChatGPT 对话
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI 依赖与四种使用动机与自报创造力分道相关（Hou 等人 2026）
-- [[ai-exemplar-attribution-creativity-education-2026]] — AI 时代的创造力教育支持：感知到的范例来源所扮演的角色
-- [[multi-agent-llm-social-learning]] — 双模型协助恢复了单一模型抹平的想法多样性（Kumar 等，2026）
-

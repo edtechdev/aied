@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -58,7 +60,6 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 
 L'enseignement des sciences humaines a commencé à recourir à l'IA agentique pour assembler des sources et rédiger, ce qui déplace la question évaluative de la discipline : non plus si le texte a été généré, mais si l'interprétation peut être attribuée à l'étudiant ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
 
-
 ## Implications pour les enseignants de sciences humaines et sociales
 
 - **Traitez l'IA comme un médiateur épistémique, non comme un tuteur de contenus.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] montre que l'IA reconfigure la production de sens, la paternité de l'œuvre et l'autonomie dans les SSH — concevez la [[design-education|pédagogie]] autour des trois trajectoires (dépendante de l'IA, augmentée par l'IA, critique envers l'IA) et visez le pôle critique envers l'IA.
@@ -79,31 +80,3 @@ L'enseignement des sciences humaines a commencé à recourir à l'IA agentique p
 **« Un modèle généraliste est aussi utile pour l'érudition textuelle que pour le résumé. »** L'interprétation exige la position du lecteur, et une couche d'assistance qui fournit la lecture a accompli l'acte interprétatif que la discipline existe pour enseigner.
 
 Un quiz d'IA conçu pour une unité obligatoire de musicologie de première année montre où se situe l'objection disciplinaire. Trente-quatre étudiants du Conservatoire de musique de Sydney ont utilisé un quiz adaptatif et ludifié sur le contenu des cours. Les plaintes qui portaient un poids disciplinaire ne concernaient pas l'exactitude factuelle, mais le jugement correct-incorrect porté sur du matériau interprétatif et l'externalisation de l'expertise ; un seul des 34 commentaires reliait l'application à une interprétation critique ou interdisciplinaire ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]). La recommandation des auteurs est de conserver de tels outils comme révision facultative et d'ajouter des invites ouvertes qui séparent l'appariement superficiel de mots-clés de l'interprétation.
-
-## Concepts liés
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-## Articles liés
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Un modèle développemental-critique de la cognition interprétative pour l'enseignement en sciences humaines et sociales
-- [[paternalistic-filter-llm-history-education]] — Usage des LLM et raisonnement historique en enseignement de l'histoire
-- [[genai-impact-chinese-students-hss]] — L'effet de l'IA générative sur les étudiants en sciences humaines et sociales
-- [[acceptance-ai-english-tools-2026]] — Acceptation de l'IA chez les apprenants en langues et en sciences humaines
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit computationnel de 15 587 unités d'arts et de sciences humaines du Go8 : 58,6 % des items d'évaluation de 2026 fortement exposés à l'IA, concentrés dans les dissertations et les rapports
-- [[genai-values-education-affordances-risks-2026]] — L'IA générative dans l'éducation aux valeurs : affordances, risques éthiques et implications pour l'enseignement (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Format de tâche et consignes d'usage de l'IA comme ce que l'artefact peut attester (Liu & Liu 2026)
-
-- [[capodieci-humanities-hil-2026]] — L'IA agentique dans l'apprentissage des sciences humaines, et le déplacement de la paternité du texte vers l'attribution de l'interprétation (Capodieci et al. 2026)
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — Des étudiants en musicologie objectaient au jugement binaire porté sur du matériau interprétatif plutôt qu'à une erreur factuelle

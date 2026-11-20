@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -83,31 +85,3 @@ ai_assist:
 - **"פיקוח מגן על יושרה אקדמית."** **הנמק היושרה לא שרד את המבחן הגדול ביותר.** על פני **ארבעה גלים ו-1,760 סטודנטים ב-105 קורסים**, פיקוח **העלה חרדת בחינה (β = 0.60, p < 0.001) אך לא היה לו** יתרון יושרה שניתן לזיהוי. האפקט הנמדד היה על הסטודנטים, לא על הרמייה.
 - **"יכולת זיהוי טובה יותר פירושה פיקוח טוב יותר."** סקירה שיטתית בת עשור של **80 מחקרים שדורי-עמיתים (2014–2024)** מוצאת שפיקוח ML/DL מתקדם **מזהה רמייה ביותר** דיוק ואינה אומרת דבר על האם פריסתו משנה התנהגות. ביצועי זיהוי הם תכונה של המסווג, לא של משטר ההערכה.
 - **"אותות התנהגותיים הם אינדיקטורים אמינים לעבירת התנהגות."** המערכות **עוקבות אחר שבעה-עשר ציוני גוף בכל פריים** עם YOLOv11 כדי לגזור תכונות של **סטיית תנוחה, מגמת ראש ותנועת פלג גוף עליון**. אלו פרוקסי, ותנוחה שמסומנת היא סיווג על גוף ולא תצפית של עבירה.
-
-## מושגים מקושרים
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## מאמרים מקושרים
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — בינה מלאכותית לבישה מסירה את אות ההתנהגות שפיקוח נשען עליו (Corbin, Sharpe & Dawson 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]] — סקירה שיטתית של עשור של פיקוח בחינות מקוונות אוטומטי
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — סקירה מקיפה של אי-יושרה אקדמית בפיקוח אוטומטי
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% מהסטודנטים סומנו כבסיכון גבוה בבחינה מפוקחת פנים-אל-פנים, כאשר הסיכון נחזה מעדויות LMS מוקדמות-סמסטר

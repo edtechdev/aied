@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -78,32 +80,3 @@ Altri due filoni pongono i limiti del ruolo. Il [[pearls-epistemic-verification-
 **"L'alfabetizzazione informativa è una sessione di orientamento una tantum."** È istruzione, non assistenza: le domande con cui gli studenti arrivano sono problemi di valutazione e strategia — questa fonte è credibile, come cerco questo — che sono competenze insegnabili anziché transazioni da completare. Trattare il servizio come assistenza converte un curricolo in un helpdesk e perde la capacità durevole.
 
 **"Chi paga la verifica è un problema di qualcun altro."** Il carico delle consulenze ricade sull'organico della biblioteca, e la domanda del paper stesso è se chiedere alle biblioteche di sostenerlo ecceda il loro numero di persone. La co-progettazione e la partnership sono le risposte che la letteratura raccomanda proprio perché il costo della verifica è reale e ricade su un'unità che non lo ha messo a budget.
-
-## Concetti collegati
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Articoli collegati
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Embedded-librarian seminar platform; 312 consultations led by source evaluation
-- [[genai-academic-search-workshop]] — CHIIR 2026 workshop on GenAI and academic search; librarian trust gap
-- [[maybee-disruptive-partnerships-sap-2025]] — Academic librarians co-designing AI literacy with students as partners
-- [[aarc-ai-research-competency-2026]] — Verify, cite, reflect as teachable research commitments
-- [[pearls-epistemic-verification-2026]] — Six-dimension verification protocol; access and legitimacy as gates
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative learning for AI literacy; information literacy benefits transfer
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors rank attribution and responsible use highest, but teach few of 26 skills
-- [[bird-multimodal-educational-literature-2026]] — Text-complexity tool built for non-technical users such as English teachers and librarians
-- [[cognitive-offloading-llm-synthesis-writing]] — What learners offload when AI synthesizes sources for them
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated and erroneous citations as a verification problem

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -97,54 +99,3 @@ ai_assist:
 - **“更好的提示词会带来更好的批判性思维。”** 把谬误导师与辩论聊天机器人区分开的是**对话结构的控制，而不是更好的提示词**：把每一轮都经由**基于图尔敏模型的意图识别**路由，才起了作用。机制在于互动结构，而不是措辞。
 - **“GenAI 的使用直接提升批判性思维。”** GenAI 使用与**自评**批判性思维的关联**几乎完全经由 GenAI [[feedback-literacy|反馈素养]]**：在 **421 名中国本科生**中，反馈素养中介了该关联的 **71%**。素养才是通路。
 - **“元分析效应是整齐划一的。”** 在 **29 项实验**中，GenAI 中等地提升了高阶思维（**g = 0.609**），其中批判性思维为 **ES = 0.691**。在异质干预之上得到的中等合并效应，支持的是这一类干预，而不是某个具体设计。
-
-## 关联概念
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — 化学教育与人工智能：实验、形成性评估、大语言模型的限度、实验哲学
-- [[biology-education]] — 生物教育与人工智能：实验助教、生物学中的人工智能素养、批判性思维、专用工具
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## 关联文章
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — 批判性思维经由劳动分工与对产出的再加工运行，而非经由暴露
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 一项 30 位专家的共识：批判性思维获得本报告最高的破坏评分（均值 4.00）
-- [[pearls-epistemic-verification-2026]] — 面向认知能动性与验证人工智能输出的 PEARLS 框架（Wang，2026）
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成式人工智能辅助写作中的层次敏感型认知卸载（Chen，2026）
-- [[critical-thinking-paradox-genai-learning-2026]] — 生成式人工智能整合学习中的批判性思维悖论
-- [[pedagogy-ai-mistakes]] — 人工智能错误的教学法：培育高阶思维（Hosseini，2026）
-- [[shaw-nave-cognitive-surrender-2026]] — 三系统理论与认知投降：人工智能如何重塑人类推理（Shaw 与 Nave，2026）
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：人工智能与专长再生
-- [[zhao-genai-higher-order-thinking-meta-2026]] — 生成式人工智能与高阶思维的元分析
-- [[avraamidou-ai-colonization-science-education]] — 颠覆科学教育中的人工智能殖民
-- [[li-mroziak-reorienting-critical-ai-literacy]] — 重新定向批判性人工智能素养
-- [[luo-ibl-patterns-llm-bloom-2026]] — 大语言模型驱动环境中的 IBL 模式（Bloom 的视角）
-- [[probing-ai-generated-physics-solutions-2026]] — 让学生为批判人工智能生成的物理解题做准备
-- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但难忘：学生对计算教育中兴趣个性化生成式 AI 类比的批判性接受
-- [[daoism-ai-education-philosophy-2026]] — 另一种 AI 哲学：道家作为教育中 AI 的方法
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 通过具身智能促进可持续学习（E3-HOT）
-- [[ai-overreliance-complex-adaptive-system-2026]] — 把人工智能过度依赖建模为复杂适应系统
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 人工智能支持的多模态写作中维度特异的批判性思维增益（Lu 等，2027）
-- [[lftutor-logical-fallacy-education-2026]] — 通过结构化多轮对话教授谬误识别
-- [[caeai-ai-companions-learning-over-performance-2026]] — 学习优于表现：同伴（companion）应当被优化和测量的东西
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 经由元认知自我调节的人工智能支架、卸载与验证素养（Davor 等，2026）
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 生成式人工智能依赖限定了商科学生中"使用→批判性思维"的关联（Shojaei 等，2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 反思提示降低了对错误人工智能建议的接受度与归因偏差（Ren，2026）
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为批判性人机互动的结构（Kenzhebayeva 等，2026）
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 大学化学教育中以验证为中心的生成式人工智能整合（Vega-Baudrit 与 Rivera Álvarez，2026）
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — 教师策展的 ChatGPT 反馈通过高阶修订提高了批判性思维（Chen 等，2026）
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 一学期的人工智能使用让批判性思维持平；反思性使用预测了它（Melanou 等，2026）
-- [[genai-dependence-research-creativity-2026]] — 在 1,157 名研究生中，生成式人工智能依赖与批判性思维正相关
-- [[genai-use-critical-thinking-moderation-2026]] — 经由反馈素养的生成式人工智能使用→批判性思维，且直接路径只对反思性较低的学生存在
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 对调节证据的悲观解读：摩擦损失、自动化偏见、效率框架
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — 对 108 篇文献的叙述性综述：效应的方向随先前知识与任务时机而变（AMCIF 框架）

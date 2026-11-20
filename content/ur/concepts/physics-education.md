@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
@@ -72,7 +74,6 @@ ai_assist:
 
 **تخلیقی ویڈیو بطور مصنوعی تجرباتی ڈیٹا۔** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] تین مزاحمتی قوت کے نظاموں — مستقل رگڑ، لکیری ڈریگ اور مربعی ڈریگ — کے لیے PixVerse، Grok Imagine اور Pippit سے ویڈیو منظرنامے بناتے ہیں، [[open-source]] Tracker آلے سے حرکیات نکالتے ہیں، اور غیر لکیری کم سے کم مربعوں سے تجزیاتی ماڈل فٹ کرتے ہیں۔ مصنوعی ڈیٹا حرکت کی کلاسیکی مساوات سے متفق رہا اور طبیعی طور پر بامعنی پیرامیٹرز حاصل کیے، اور بار بار ملنے والا عملی نتیجہ یہ ہے کہ پرامپٹ کی مخصوصیت طبیعیاتی ہم آہنگی کو طے کرتی ہے: زیادہ تفصیلی وضاحتوں نے زیادہ ہم آہنگ حرکیات پیدا کیں۔ یہ ورک فلو ماڈل کی تشکیل سے [[quantitative-research|مقداری]] تصدیق تک تجرباتی مشق کی عکاسی کرتا ہے، اور [[prompt-engineering|پرامپٹ کی تشکیل]] کو سہولت کے بجائے تجرباتی ڈیزائن کے ایک مرحلے کے طور پر نئے سرے سے دیکھتا ہے۔ جو چیز یہ ابھی ثابت نہیں کرتا وہ سیکھائی ہے: یہاں تصدیق پیدا شدہ حرکت اور مصنفین کے ماڈلز کے درمیان اتفاق ہے، طلبہ کے پیمائشی فیصلے کی نہیں، چنانچہ یہ طریقہ اسی [[assessment-validity|توثیق]] کے سوال کا وارث ہے جس کا جواب شواہد کے طور پر استعمال ہونے والے کسی بھی پیدا شدہ ڈیٹا کو دینا ہوتا ہے۔
 
-
 **اُن موضوعات کے لیے حسبِ ضرورت نقلیں جو PhET میں شامل نہیں۔** LLM سے تخلیق شدہ HTML/JavaScript ماڈلز اساتذہ کو یہ اجازت دیتے ہیں کہ وہ وہی نقل بنائیں جو کورس کو درکار ہو، نہ کہ قریب ترین شائع شدہ، بشرطیکہ تکنیکی اور طبیعیاتی تصدیق ہو؛ ایک پائلٹ میں 26 جوڑوں کے 53 طلبہ نے بغیر پروگرامنگ پس منظر کے اپنے آزاد گرنے کے ماڈل بنائے اور انھیں بہتر کیا ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 ایک دوبارہ استعمال کے قابل چار عنصری پرامپٹ — آلات، ڈسپلے، ہاتھ کے کنٹرول، اصلاح — ایک بغیر کوڈ والے استاد کو براؤزر پر مبنی AR نقل بنانے دیتا ہے جس کی دو انگلیوں کی چوٹکی اور پھیلاؤ کی حرکات طبیعیات چلاتی ہیں؛ 29 طلبہ کے پائلٹ میں اس حرکت نے تمام 29 کو طولِ موج "محسوس" کرنے میں مدد دی (اوسط 4.52) اور 86% نے زیادہ شمولیت کی اطلاع دی ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
@@ -109,61 +110,3 @@ ai_assist:
 - **"طلبہ AI پر اتنا بھروسا کرتے ہیں کہ بغیر تنقید اس پر انحصار کرتے ہیں۔"** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] نے **50 پوائنٹ کا اعتماد-افادیت خلا** پایا: **91% کورس ورک کے لیے AI استعمال کرتے ہیں مگر صرف 41% اس پر بھروسا کرتے ہیں**۔ وسیع استعمال کم اعتماد کے ساتھ ساتھ چلتا ہے، چنانچہ جوش پیدا کرنے کی مداخلت غلط متغیر کو نشانہ بناتی ہے۔
 - **"طبیعیات کے طلبہ ایک ہی آبادی ہیں۔"** [[becker-chatgpt-typology-physics-2026|Becker et al.]] نے **1,189 سروے جوابات** سے دو پروفائل کی درجہ بندی بنائی: **70% "Pragmatic Users" اور 30% "Skeptical Non-Users"**۔ ایک ہی کلاس روم پالیسی کو دو ایسے گروہوں کی خدمت کرنی ہے جن کے رویے متضاد ہیں۔
 - **"استعمال اور اعتماد کے درمیان خلا غیر معقول ہے۔"** یہ دو اعداد مختلف چیزیں ناپتے ہیں — کیا آلہ کام مکمل کرنے میں مدد دیتا ہے، اور کیا آپ یقین رکھتے ہیں کہ وہ ایسا درست کرتا ہے۔ طلبہ افادیت کو اعتبار سے الگ کر رہے ہیں، جو تجزیاتی طور پر درست فرق ہے، تضاد نہیں۔
-
-## منسلک تصورات
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — کیمیا کی تعلیم اور AI: لیبز، تکوینی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب کے تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص آلات
-
-## منسلک مضامین
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — جماعت 10 کی طبیعیات میں GenAI کی قبولیت کا ماڈل
-- [[genai-video-engineering-physics-workflow-2026]] — پرامپٹ سے طبیعیاتی قوانین تک: انجینئرنگ طبیعیات کی تعلیم کے لیے تخلیقی AI کا ورک فلو
-- [[wang-teacher-student-centered-agents-physics-2026]] — استاد پر مرکوز بمقابلہ طالب علم پر مرکوز پرامپٹ انجینئرڈ طبیعیات ایجنٹس (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — طبیعیات کی نقلیں اور مجازی لیبز تیزی سے بنانے کے لیے AI کا استعمال (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: طبیعیات میں علمی طور پر فعال AI افزودگی کا فریم ورک
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی طبیعیات کی جانچ کی AI گریڈنگ (اولمپیاڈ)
-- [[ai-particle-physics-education-redesign-2026]] — ذراتی طبیعیات کی تعلیم میں AI: تحقیقی مسائل اور بنیادی مہارتیں
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: FCI، FMCE اور EMCS کو 14 مقاصد والی علمی تشخیص میں بدلنا (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — شک بمقابلہ سہولت: تدریس سے پہلے اور بعد طبیعیات کے طلبہ کے بڑے لسانی ماڈلز کے بارے میں ادراک اور استعمال
-- [[ai-assisted-physics-lab-report-assessment-2026]] — تجرباتی طبیعیات کی لیبارٹری رپورٹوں کی AI کی معاونت والی جانچ: امکانات، حدود اور تدریسی مشق کی معاونت
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 بنگالی ثانوی طبیعیات کے سوال-جواب جوڑے 1,760 نوڈ کے نصابی گراف پر نگاشت، چھوٹے ماڈلز کی موافقت کے فوائد کے ساتھ
-- [[ai-university-physics-education-review-2026]] — یونیورسٹی طبیعیات کی تعلیم میں مصنوعی ذہانت: تجرباتی مطالعات کا منظم جائزہ
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — طبیعیات کے مسائل کی نظر ثانی کے لیے منظم GenAI تربیت: ایک بے ترتیب کنٹرول شدہ تجربہ (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — اچھی طرح انجینئر کیا گیا ٹیوٹر کلاس روم کی فعال سیکھائی سے آگے نکل گیا
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — توانائی کے پیشگی تصورات نے طے کیا کہ AI استفسار کی گفت و شنید گروہ کے نیٹ ورک میں کہاں بیٹھی: ارکان کے اختلاف پر آمیزش کا مرکز، اتفاق پر سیدھا استفسار-پھر-پڑھنے کا راستہ (Wang et al. 2026)
-
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — مستقبل کے انجینئروں میں استعمال کے نمونے اور سمجھی گئی معاونت
-

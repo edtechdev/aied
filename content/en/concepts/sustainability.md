@@ -11,6 +11,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 > **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
 
@@ -64,33 +66,3 @@ Sustainability and AI in education sits at the intersection of [[ethics|ethics]]
 - **"Abstract AI knowledge predicts teachers' capacity to teach sustainability."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found that teachers' **practical use of AI** in science and green-energy contexts and their **involvement in developing ESD-aligned materials** — **more than abstract AI knowledge or attitudes** — predicted their capacity. Knowing about AI and being able to build with it diverged, and the practical route predicted more.
 - **"AI-assisted instructional design under a sustainability pedagogy produces sustainability pedagogy."** The same work found that AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy **constrained** design in specific ways rather than expanding it. A model trained on conventional materials reproduces conventional framings unless the design work corrects for it.
 - **"Sustainability is a topic, not a cross-cutting theme."** Because both pathways run across levels, sustainability appears in [[higher-ed|higher education]], K-12 and professional contexts — which means it is a foundational theme that has to be addressed inside each discipline rather than taught as a separate subject.
-
-## Connected Concepts
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — Wearable EDA plus AI-generated pollution imagery raised arousal, without measuring stewardship (Lim et al., 2024)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)
-

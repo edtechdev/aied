@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -91,53 +93,3 @@ ai_assist:
 - **«Зворотний зв’язок ШІ безпосередньо покращує критичне мислення».** У **421 китайського студента бакалаврату** асоціація використання GenAI з [[self-report-measures|самооголошеним]] критичним мисленням **проходила через грамотність у зворотному зв’язку**. Грамотність є посередником, тож інтервенція, яка додає зворотний зв’язок ШІ, не будуючи здатності його читати, працює не з тим членом.
 - **«Грамотність — передумова, а не результат».** **Трихвильова панель із випадковим перехопленням на 399 китайських студентах бакалаврату** виявила, що грамотність у зворотному зв’язку ШІ передбачала **пізнішу** агентну залученість (**β = 0,222**), тож петля працює в обидва боки. Вона динамічна, а не є ворітьми, які проходять один раз.
 - **«Саме придатність до дії змушує зворотний зв’язок змінювати письмо».** Через три цикли зворотного зв’язку й переробки письма у **двох повних класах по 48 студентів** **осмислення було виміром**, який ніс вигоду від переробки. Зворотному зв’язку, який студент не може розібрати, не допоможе те, що його зробили придатнішим до дії.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Кроки критичної оцінки, які ці послідовності вбудовують у робочий процес
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## Пов’язані статті
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Грамотність у зворотному зв’язку ШІ та агентна залученість: трихвильова панель із випадковим перехопленням (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Генерування градуйованих рубрикою зразків роботи для навчання грамотності у зворотному зв’язку (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Вибіркове засвоєння без покращення артефакту: розрив перекладу зворотного зв’язку (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Зворотний зв’язок ШІ без вміщення викладача підвищує планку грамотності у зворотному зв’язку (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Грамотність у зворотному зв’язку модерує зворотний зв’язок ШІ → саморегульоване навчання (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Грамотність у зворотному зв’язку передбачає оцінку есея в письмі з посиленням від ШІ (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Шкала AI Feedback Literacy і передбачення засвоєння (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Рамка GenAI як умовника залученості до зворотного зв’язку (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Скрипти грамотності у зворотному зв’язку та навчання калібруванню для письма з допомогою ШІ (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Скрипти грамотності у зворотному зв’язку + другий оцінювач у переробці письма в EAP (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Інструмент автоматизованого зворотного зв’язку ШІ для розвитку грамотності у зворотному зв’язку (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Позиціонування GenAI у зворотному зв’язку рівесників в EFL для тренування грамотності у зворотному зв’язку (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Скаффолдинг саморегульованого зворотного зв’язку: GenAI проти людських рівесників (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Аналітика навчання GenAI у зворотному зв’язку, перспектива грамотності у зворотному зв’язку (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Оцінювання з GenAI будує психологічну грамотність, грамотність у зворотному зв’язку та грамотності ШІ (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Практики та сприйняття викладачами зворотного зв’язку ШІ, зосередженого на здобувачі
-- [[care-full-feedback-genai]] — Проєктування турботливого зворотного зв’язку з GenAI
-- [[ai-generated-feedback-higher-ed]] — Згенерований ШІ зворотний зв’язок у вищій освіті
-- [[ai-feedback-ecosystem-higher-education-2026]] — ШІ переробляє відношення між студентами, освітянами, рівесниками та матеріалами в екосистемі зворотного зв’язку (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — Зворотний зв’язок ШІ і критичне мислення в письмі
-- [[repeated-ai-writing-feedback-semester]] — Повторюваний зворотний зв’язок ШІ для письма через семестр
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-
-- [[genai-use-critical-thinking-moderation-2026]] — Шлях від використання GenAI до критичного мислення проходив через грамотність у зворотному зв’язку GenAI, посилюючись із рефлексивним мисленням
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Осмислення, а не придатність до дії, несло вигоду від переробки
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Оцінювання зворотного зв’язку рівесників і чатбота на тій самій чернетці в межах одного рефлексивного завдання
-

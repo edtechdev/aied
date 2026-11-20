@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -123,36 +125,3 @@ ai_assist:
 - **"يمكن تصحيح المفاهيم الخاطئة عند المدرّسين بعرض الأدلّة."** في دراسة استهلالية مع **123 مربيًا إيطاليًا**، تراكم الخلاف بأشدّه على **أنماط التعلّم المعرفية (دافع 78% من المدرّسين عن المطابقة البصرية/السمعية)**، وعلي الدمجة وعمل المجموعة (68%)، وعلى فرط تكنولوجيا التعليم (54%). وكانت أشدّ الخلافات هي الأكثر مقاومة للأدلّة، ولهذا يتفوّق [[refutation-text|التفنيد]] على مجرّد التأكيد.
 - **"اعتراضات المدرّسين على الأدلّة كلّها مقاومة."** حين عُرضت المفردات ذاتها عبر ذكاء اصطناعي حواري **يُقرّ سياق المعلّم قبل إعادة إدخال الدليل**، تناولت **41% من الاعتراضات قيودًا سياقية حقيقية** — حجم الصف، والاحتياجات الخاصة، ومتطلبات المنهج. فنصيب معتبر مما يبدو مفهومًا خاطئًا كان اعتراضًا دقيقًا.
 - **"يمكن كشف المفاهيم الخاطئة من الحوار بصورة موثوقة."** **من 241 مقطعًا مُحفَّزًا، تأكّد 221 (91.7%) كمفاهيم خاطئة استراتيجية بتصويت أغلبية الخبراء (κ فليس = 0.9487)**، **دون فروق معتبرة** بين المجموعات. فالموثوقية العالية قابلة للتحقيق في ظل تحكيم الخبراء، وهذا هو الشرط الذي تتوقّف عليه الدعوى.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — التسلسلات التغييرية المفاهيمية التي تواجه معتقداً محدّداً مُمسَكاً به
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## المقالات المرتبطة
-- [[rudolph-ai-myths-critical-higher-ed]] — لا تصدّقوا الضجيج: ثماني أساطير عن الذكاء الاصطناعي والحاجة إلى مقاربة نقدية في التعليم العالي
-- [[student-rationalization-ai-writing]] — تبرير الطلاب لاستخدام الذكاء الاصطناعي في الكتابة
-- [[genai-skill-bypass-literacy]] — تجاوز المهارة بالذكاء الاصطناعي التوليدي وثقافة الذكاء الاصطناعي
-- [[trust-reliance-ai-education-2026]] — الثقة والاعتماد في تعليم الذكاء الاصطناعي
-- [[contextual-sycophancy-ai-literacy]] — التزلّف السياقي وثقافة الذكاء الاصطناعي
-- [[sycophantic-ai-social-interaction-2026]] — الذكاء الاصطناعي المتزلّف في التفاعل الاجتماعي
-- [[llm-fallacy-misattribution]] — إسناد المغالطات إلى نماذج اللغة الكبيرة (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — معيب لكنه عالق في الذاكرة: تلقّي الطلاب النقدي لتناظرات الذكاء الاصطناعي التوليدي المخصَّصة للاهتمام (Kim et al. 2026)
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: تفسيرات طليقة وواثقة وخاطئة مفاهيميًا لا حسابيًا
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — تعليمات خفية في ملف مُقدَّم قد ترفع درجة مصحّحة بالذكاء الاصطناعي دون تحذير مرئي
-- [[children-ai-safety-misconceptions-2026]] — مفاهيم الأطفال الخاطئة عن سلامة الذكاء الاصطناعي: صداقة روبوت تُقرأ خطأً كضمانة خصوصية
-- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -79,39 +81,3 @@ Dans les contextes d'apprentissage sur le terrain, le même impératif devient s
 **« L'enquête est non structurée par définition. »** L'enseignant étaye, et la structure réside dans la conception des questions et le cycle de réflexion plutôt que dans la transmission du contenu. Retirer l'étayage ne rend pas l'enquête plus authentique ; cela la rend sans étayage.
 
 **« Les questions menées par les étudiants seront bien formées si les étudiants sont intéressés. »** Générer une question traitable est la compétence en cours d'acquisition, ce pourquoi un système qui fournit de bonnes questions a accompli la compétence d'enquête que l'activité existe pour enseigner.
-
-## Concepts liés
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Échec productif
-
-## Articles liés
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT pour l'apprentissage par la recherche en STIM (revue systématique)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots d'IA générative et formulation de problèmes en sciences au primaire
-- [[luo-ibl-patterns-llm-bloom-2026]] — Configurations d'IBL dans les environnements pilotés par les LLM (perspective de Bloom)
-- [[mujib-ai-ibl-creative-math-2026]] — IBL assisté par IA et performance mathématique créative
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Méta-analyse sur l'IA générative et la pensée d'ordre supérieur
-- [[niri-steam-ai-literacy-review-2026]] — L'éducation STEAM au service de la littératie en IA
-- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
-- [[lukesova-clue-before-correction-2026]] — L'indice avant la correction : ChatGPT pour l'apprentissage autonome des langues
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Recherche guidée assistée par IA sur la photosynthèse et la respiration (formation des enseignants de sciences)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extraction d'information assistée par l'IA au service du mémoire de premier cycle et de l'apprentissage par la recherche (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — La recherche assistée par l'IA sur les questions socioscientifiques liées au changement climatique
-- [[geoscience-field-learning-genai-2026]] — Un modèle pédagogique « terrain d'abord » qui empêche l'IA générative de pré-structurer ce que les apprenants remarquent (Choi, 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitateur humain contre apprentissage par problèmes médié par l'IA : gains de contenu égaux, pensée critique plus faible sans le facilitateur (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Cartographie de 66 études sur l'IA générative dans les cinq phases de l'enquête, avec seulement 8 études mesurant les compétences d'enquête

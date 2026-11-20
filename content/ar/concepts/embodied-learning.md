@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -53,7 +55,6 @@ ai_assist:
 
 - **ميسّر لغوي وحده يجرّ الاستقصاء نحو ما يمكن قوله.** في مختبر سكون الموائع لطلاب الماجستير، بنى الطلاب نموذج الطفو بأيديهم قبل أن ينضم ميسّر قائم على Gemini لتطبيقه على ظاهرة جديدة. وعبر ثلاثة أزواج حافظ الذكاء الاصطناعي على تتابع ISLE، لكنه حين ضُغط عليه بـ«قل لنا فقط» أنتج قيم كتلة لم يقسها أحد، وأكمل مشارك واحد عن بُعد دورة صحيحة فيزيائيًا لكنها نظيفة بلا جسد ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). ودرس التصميم هو التتابع لا الاستبدال: ابنِ النموذج في الجسد أولًا، ثم دع النموذج اللغوي يعمل على تطبيقه.
 
-
 ### الذكاء التجسيدي ونقد الذكاء الاصطناعي غير المُتجسِّد
 
 يهتمّ خيطٌ ثانٍ أكثر نظريةً من أبحاث التجسيد في قاعدة المعارف بدور *الجسد* في التعلّم-[[sociocultural-learning|المتوسّط بالذكاء الاصطناعي]] — لا من خلال الروبوتات المادية بل من خلال سؤال عمّا إذا كانت [[ai-technologies|أنظمة الذكاء الاصطناعي]] نفسها مُتجسِّدةً (أو قادرةً على أن تكون كذلك). ويتحدّى هذا العمل سيادةَ نماذج الذكاء الاصطناعي الرمزية غير المُتجسِّدة المبنية على معالجة المعلومات المجرّدة:
@@ -71,44 +72,8 @@ ai_assist:
 
 - **أكثر الأدبيات جسديةً تقيس الجسد أقلّ.** من 32 وسمًا للنواتج، أخذت النواتج المعرفية 43.8% والوجدانية 34.4% والحركية النفسية 21.9%، وهو ترتيب ثبت بين الأوراق الـ16 الأعلى تقييمًا (24.0% من 25 وسمًا). ويعزو المؤلفان ذلك إلى صعوبة اختيار مقاييس حركية نفسية وإلى عادة تفضيل المكاسب المعرفية، لا إلى أثر ضعيف في المهارة الجسدية. ولم يُصمَّم أي من الأنظمة المراجَعة لمتعلّمين يعملون معًا؛ والتعاون الظاهر هو تعاون بين [[teacher-role|المعلّم]] والذكاء الاصطناعي ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«الجسد هو ما يجعل التعلّم التجسيدي يعمل.»** وجد تحليل بعدي لـ**11 دراسة في تعلّم اللغة المساعد بالروبوت (N = 595، g = 0.83، I² = 84.4%)** أن **شكل الروبوت ووسيطه واستقلاليته ودوره الاجتماعي لم تُعدّل** نواتج [[language-learning|تعلّم اللغة]] الثانية. فخصائص التجسيد لم تكن المكوّن الفعّال، وكان عدم التجانس عاليًا بما يكفي (I² = 84.4%) لأن يصف الأثر المجمّع مجموعة شديدة الاختلاط من التدخلات.
 - **«الأثر الكبير يحسم الآلية.»** g = 0.83 مع 595 مشاركًا عبر 11 دراسة إشارة حقيقية ولا تحدد ما أنتجها. ولأن الخصائص التصميمية لم تُعدّل الأثر، فإن الآلية المحتملة تقع في النشاط التربوي لا في العتاد — وهذا يغيّر ما ينبغي الاستثمار فيه.
 - **«التجسيد لا يمكن قياسه، فيبقى نظريًا.»** يستطيع تتبّع الجسد تحويل التنظيم إلى **إشارة قابلة للقياس**: ففي محاكاة البناء الضوئي بالواقع المختلط حيث نقلت وسوم الحركة وكلاء الطلاب عبر نموذج مسقوف، صنّف خط أنابيب لنموذج لغوي كبير **470 مقطعًا** من سلوك التنظيم. فالبنية قابلة للتشغيل حتى حيث يصعب تعريفها.
-
-
-## المفاهيم المتصلة
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — الوسيط الذي يحاول استغلال التجسيد مباشرةً
-
-## المقالات المتصلة
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — تحليل بَعدي لتعلّم اللغة المساعد بالروبوت المُتجسِّد المُعزَّز بالذكاء الاصطناعي
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — الذكاء الاصطناعي ميسّرًا بعد بناء النماذج باليد: ميسّر لغوي لا يستطيع متابعة الاستقصاء المُتجسِّد (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — الذكاء الاصطناعي في التعلّم المُتجسِّد يراقب في الأغلب: أدوار الاستشعار 62.5% من وسوم الأدوار المُرمَّزة، ولم يدمج أي نظام مراجَع التدفقات متعددة الوسائط أثناء استخدام المتعلّمين له (Kim & Han 2026)
-
-- [[videla-embodied-ai-education-choreography]]

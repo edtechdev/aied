@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -74,33 +76,3 @@ Die Perspektive der Administration verbindet sich mit [[educational-policy-ai|Bi
 - **„Adoptionszahlen messen Bereitschaft.“** Deklarierte Nutzung und governance-gesteuerte Nutzung sind unterschiedliche Größen, und die Evidenz trennt sie: Hochschulen berichten strategische Absicht bei etwa der Hälfte der Population und Führungskapazität bei weniger als einem Zehntel. Eine Umfrage, die zeigt, dass Mitarbeitende KI nutzen, sagt Ihnen, was Einzelne bereits ohne Erlaubnis getan haben, nicht, was die Institution unterstützen oder beaufsichtigen kann.
 - **„Beschaffung ist ein administrativer Schritt.“** Wo Fähigkeit eingekauft statt aufgebaut wird, entscheiden die Vertragsbedingungen, was später möglich wird — Dateneigentum, Audit-Zugang und die Frage, ob das Werkzeug überhaupt evaluiert werden kann. Eine Anbieterentscheidung, die als Einkaufsaufgabe getroffen wird, verbaut Evaluationsfragen, die die Institution noch nicht gestellt hat.
 - **„Governance kann der Adoption folgen.“** Die Behauptung zur Reihenfolge ist verbreitet und hier nicht gestützt: Die Evidenz dokumentiert das umgekehrte Muster, bei dem Policy- und Führungsstrukturen einer Nutzung hinterherhinken, die bereits stattfindet. Governance, die als etwas konzipiert wird, das man nach dem Rollout aufbaut, ist Governance, die aus einer Position geringerer Verhandlungsmacht heraus aufgebaut wird.
-
-## Verbundene Konzepte
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Überblicksseite: Menschen und Zielgruppen in der KI-Bildung (Lernende, Lehrende, Designende, Administration, Politik)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — die institutionellen Prozesse, die die Administration betreibt: Beratung, Ansprache, Weitervermittlung und Zuweisung
-
-## Verbundene Artikel
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — KI in der Bildungsleitung: umfassende Taxonomie
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory Governance und Leitung für KI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulpolitik und bei institutionellen Entscheidungen
-- [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
-- [[genai-policies-higher-ed-computing]] — Institutionelle GenAI-Politik in der Informatik
-- [[institutional-change-framework-ai]] — Rahmenwerk für institutionellen Wandel durch KI
-- [[edtech-privacy-deferral-2026]] — „Wir machen es später“: Bildung, KI und das Aufschieben des Datenschutzes von Studierenden in EdTech
-
-- [[students-at-stake-ai-deployment-risks-2026]] — ein Beschaffungsscreen mit vier Fragen, gerahmt als Rechte von Studierenden statt als Risikomanagement
-

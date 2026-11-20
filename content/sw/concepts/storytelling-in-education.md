@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,7 +48,6 @@ Kusimulia hadithi kumejikita katika nadharia za [[motivation]], [[student-engage
 
 - **Hadithi zinazozalishwa ni rahisi kuzalisha na ngumu kuziweka zenye mshikamano.** Kwa wanafunzi 22 wa STEM, hadithi za kubuni za mwingiliano zilizozalishwa na AI zilipimwa vizuri kwa uwazi wa hadithi (M = 4.11) na urefu (M = 4.14), lakini ushiriki ulikaa katikati ya upande wowote (M = 3.08) na mshikamano wa maudhui ya hadithi ulikuwa dhaifu zaidi (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Uundaji pamoja unarithi udhaifu huo katika tabaka ambalo hadithi inapaswa kufanya kazi yake.
 
-
 Kusimulia hadithi kinaungana na [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], na [[educational-robotics]].
 
 ## Dhana Potofu za Kawaida
@@ -58,22 +59,3 @@ Kusimulia hadithi kinaungana na [[student-engagement]], [[motivation]], [[creati
 **"Uzalishaji wa AI unafanya usimulizi upatikane kwa wanafunzi wasioweza kuandika."** Unafanya *kuzalisha kitu cha maandishi* kupatikane, ambayo ni faida tofauti. Usimulizi wa mdomo, kuchora na kuamuru kwa sauti ni njia zilizoimarika za kufikia lengo lile lile, na zinahifadhi uandishi ambao uzalishaji unaondoa.
 
 **"Thamani ya kielimu ya hadithi iko kwenye matokeo yaliyopangwa."** Iko kwenye ujenzi: uteuzi na upangaji ambao msimulizi anaufanya. Hadithi iliyopangwa ambayo mwanafunzi hakuipanga imeonyesha umahiri wa mfano badala ya wa mwanafunzi.
-
-## Dhana Zilizounganishwa
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Makala Zilizounganishwa
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotiki na AI katika Elimu
-
-- [[ai-generated-interactive-fiction-education-2026]] — Hadithi za kubuni za mwingiliano zilizozalishwa na AI: mshikamano kama kipimo dhaifu katika jaribio la wanafunzi 22
-

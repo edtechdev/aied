@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -72,38 +74,3 @@ AI가 직업을 변화시키면서 교육의 진로 개발에서의 역할은 �
 프로그램 수준 프레임워크는 기관의 단계들을 명시적으로 만들지만, 프로그램으로서 평가받은 적은 없습니다. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale(2026)]]은 여섯 단계를 제안합니다. 감지(sensing), 이해관계자 검증, 프로그램 진단, 교육과정 재설계, 실행 및 역량, 성과 검토입니다. 각 단계는 이름이 붙은 결정권과 책임 있는 산출물을 지니며, AI는 네 가지 경계 지어진 지원 기능으로 한정됩니다. 노동시장 정보 전반의 패턴 탐지, 역량 매핑, 사람이 평가할 교육과정 선택지 생성, 이행 지표 모니터링입니다. 그 가치는 진로 준비도 전략이 대개 암묵적으로 남겨 두는 거버넌스 단계들에 이름을 붙인다는 데 있습니다.
 
 중국 대학생 1,445명 설문은 유용성 믿음에서 AI 사용을 거쳐 진로 탐색으로 이어지는 경로를 추적합니다. 생성형 AI의 지각된 유용성은 사용을 β = 0.569로 예측한 반면, 진로 자기효능감은 β = 0.082로만 예측했습니다. 사용은 이어서 진로 탐색 행동과 β = 0.423으로 연관되었고, 자기효능감은 탐색 자체의 가장 강한 인지적 예측요인으로 남았으며(β = 0.285), 모형은 탐색 분산의 50.5%를 설명했습니다([[lu-career-cognitions-genai-exploration-2026|Lü 외(2026)]]). 간접 경로들은 통계적이고 횡단면적인 것이지, 종단적인 것이 아닙니다.
-
-## 연결된 개념들
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — 수료에 뒤따르는 성과: 지속, 유지, 졸업
-
-## 연결된 글들
-
-- [[ai-free-gates-engineering-students-india-2026]] — AI 없는 관문에서 AI 우선 업무로: 인도 공학생들이 AI 지침 없이 대학 교육과 캠퍼스 배치를 헤쳐 나가는 방식
-- [[boyd-swan-employer-responses-genai-2026]] — 미국 채용 전문가 약 1,750명 대상 설문 실험: 대체 프레이밍이 면접·급여 협상 의향을 낮췄고, GPA가 높은 지원자에게 가장 컸다(Boyd-Swan & Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — AI 리터러시가 진로 적응력을 통해 지각된 취업 가능성에 이른다는 PLS-SEM 증거. 성장 마인드셋은 아무것도 더하지 않음(Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — 과제별로 결정되는 평가 대 인력 역량 간 트레이드오프(McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 진로 적응력이 AI 불안을 줄임
-- [[ai-literacy-career-adaptability-business-2026]] — 비즈니스 교육에서의 AI 리터러시와 진로 적응력
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — 여덟 개 포커스 그룹: 사용자는 효율성과 다듬기를, 비사용자는 독창성과 팀워크를 꼽았다(보조된 자율성 대 느린 창의성)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 대학 졸업생을 위한 AI 기술: 교수자와 고용주의 우선순위
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — 스마트 제조를 위한 인력 준비도
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI와 공학·컴퓨팅 인력의 미래
-- [[post-covid-ict-career-aspirations]] — 코로나19 이후 ICT 진로 포부
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 불안과 대체에 대한 두려움
-- [[duan-ai-anxiety-career-decisions-college-2026]] — 진로 적응력을 통해 진로 결정을 손상시키는 AI 불안(63.35% 매개)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 불안과 태도가 취업 불안을 예측함(1,057명의 학생)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI 불안이 보건과학에서의 구직 불안을 예측함(r=0.233, 821명의 학생)
-- [[ai-attitude-latent-profiles-career-development-2026]] — 네 가지 AI 태도 프로파일: 진로 구성과 취업 가능성은 불안이 아니라 참여를 짝지었음
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — 교수진의 전망은 고용에 관한 증거가 아니라 예측임
-- [[kong-ai-employability-cognitive-engagement-2026]] — AI 지원 학습에서 취업 가능성으로 가는 서사 검토의 구인 지도
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — AI 시대 노동시장에 프로그램을 맞추기 위한 여섯 단계의 미평가 과정 프레임워크
-- [[lu-career-cognitions-genai-exploration-2026]] — 중국 학생 1,445명: 하나의 횡단면 모형 안의 AI 유용성, 사용, 진로 탐색

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -43,6 +44,3 @@ ai_assist:
 ## 注記
 
 このソフトウェアは無料で、オリジナルのコードは MIT ライセンスの [[open-source|オープンソース]] です（サードパーティ製のコンポーネントはそれぞれの条件に従います）。ホスト型モデルを使う場合は、自分のモデル推論費用を負担することになります。プロジェクトは自らを「教師が確認したベータ版」と位置づけ、README で「CI を通ることは、実際のモデルでの教育の質を保証するものではない」とはっきり述べています。これはこの分野で緑のテストスイートをどう読むべきかの正しい姿勢です。CI が検証しているのはソフトウェアであって、[[pedagogy|教育]] ではありません。MacxLabs が保守しており、教師が確認済みの見本授業の提供を歓迎しています。
-
-## 関連する概念
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

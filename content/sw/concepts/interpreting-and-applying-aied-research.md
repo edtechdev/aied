@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -155,41 +157,3 @@ Vipimo hapo juu si hekima ya watu; vinatokana na kushindwa kumerekodiwa katika f
 **"Alama za juu wakati wa kutumia zana zinaonyesha zana ilifundisha zaidi."** Katika utafiti mmoja wa hisabati wa [[k-12|K-12]], wanafunzi waliokuwa wakifanya mazoezi na [[conversational-ai|chatbot]] ya jumla walipata alama bora za mazoezi na kisha kupata **takriban asilimia 17 chini** kwenye tathmini isiyosaidiwa. Utendaji wa mazoezi uliopimwa zana ikiwepo ni kipimo kilichozidiwa; kile kisichosaidiwa ndicho matokeo, na kimoja tu kati yao kilikuwa kikipanda.
 
 **"Ikiwa athari ni ya kweli, maelezo ya utekelezaji hayana umuhimu mkubwa."** Nayo ndiyo athari. Utafiti uliofuatilia wanafunzi 30 katika kozi moja katika taasisi moja, kwenye toleo la zana ambalo hakuna anayelitumia sasa, umezalisha ugunduzi kuhusu muundo ambao haupo tena. Ufafanuzi wa matibabu, toleo, na mazingira ni sehemu ya dai badala ya muktadha unaoizunguka.
-
-## Dhana Zilizounganishwa
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Makala Zilizounganishwa
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: mashtaka ya kibenkta ya meta-analysis 14 za AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Athari za AI zilizorekebishwa kwa upendeleo wa kuchapisha ni takribani theluthi moja ya ukubwa ulioripotiwa
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Vigezo vya kujumuisha vilitumika kama kizingiti cha umakini, na heterogeneity inayobadilika na mfano
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Uaminifu wa upimaji wa otomatiki unapokutana na kizingiti cha kupima cha kazi
-- [[verification-quality-reliance-calibration-genai-2026]] — Kile fasihi ya uthibitisho na kuaminia haipimi
-- [[citation-errors-hallucinations-computing-education-2026]] — Marejeo yaliyotungwa yaliyofika kuchapishwa 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Mapato ya mazoezi, hasara za mtihani: tatizo la kuondoa msaada katika hisabati ya K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Athari za vikundi vidogo zenye vipindi vya kujiamini vinavyovuka sifuri
-- [[chick-faculty-development-ethical-ai-2026]] — Hali zinazowezesha: ishara za sera, usajili wa kibinafsi, hakuna muda
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Vipimo vya muuzaji vikiwa na usanidi wao na idadi ya majaribio vilivyofichuliwa
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Matokeo yanayoungwa na toleo za mifano, na mwendo wa haraka wa uwanja
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Kuhesabu ushahidi huria kwa bidhaa 16 za AI za wanafunzi zilizopo tayari matumizi
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Mapitio yanaweza kupima upotoshaji wa uripoti katika korpusi yake mwenyewe

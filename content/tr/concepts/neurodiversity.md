@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -87,33 +89,3 @@ Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-de
 - **“Nöroçeşitlilik araştırması [[ai-education|AIED]]’in niş bir köşesidir.”** Alan **[[generative-ai|üretken YZ]] etrafında yeniden örgütlenmiştir: 40 çalışmanın 15’i** bu alandadır, ikinci sırada 11 çalışmayla sürükleyici biçimler gelir. Literatür istikrarlı sorular etrafında birikmek yerine teknolojiyle birlikte hareket etmiştir.
 - **“Disleksi için daha fazla YZ daha iyi destek demektir.”** [[dabaghi-ai-dyslexia-education-review-2026|Disleksi için YZ üzerine disiplinler arası inceleme (Dabaghi, D’Urso ve Sciarrone, 2026)]] **2018-2024 arasında 72 çalışmayı** kapsar ve YZ’nin çok geniş bir amaç yelpazesinde kullanıldığını bulur. Uygulama genişliği, bunlardan herhangi biri için etkililiğin kanıtı değildir.
 - **“Nöroçeşitli öğrenenler için doğru çerçeve uyarlamalardır.”** [[neurodivergent-computing-students|24 nöroçeşitli bilişim öğrencisi ve 20 nörotipik akranıyla yürütülen bir anket]] ve dört derinlemesine görüşme, ihtiyaçların tanı konulduktan sonra verilen bireysel düzenlemeler değil **genel tasarım gereksinimleri** olduğunu bulmuştur: yapılandırılmış ödevler, küçük ve tutarlı ekipler, açık roller.
-
-## Bağlı kavramlar
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Bağlı makaleler
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Nöro-kapsayıcı ilkokul sınıfları için eğitim teknolojisinde eğitim değerini yeniden çerçevelemek: bir kapsam derlemesi
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Üretici YZ, sanal gerçeklik ve ötesi: yükseköğretimdeki nörofarklı öğrenciler için dijital yardımcı teknolojilere ilişkin kapsam derlemesi
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Engelli öğrenciler için YZ’ye ilişkin 29 çalışma ve kategoriye göre değişen bir etki
-- [[adhd-video-segmentation-computing-education]] — DEHB’li katılımcıları aynı düzeye getiren zamansal video bölümleme
-- [[neurodivergent-computing-students]] — Yapı, belirsizlik ve işbirliği üzerine 24 nörofarklı bilgisayar bilimi öğrencisi
-- [[genai-reliance-executive-functioning-2026]] — Yürütücü işlev güçlükleri, algılanan yararlılık ve YZ bağımlılığına giden yol
-- [[seung-basham-cognitive-offloading-swld-2026]] — Öğrenme güçlüğü olan öğrenciler için GenAI bilişsel yük aktarımı
-- [[dabaghi-ai-dyslexia-education-review-2026]] — Eğitimde disleksi yaşayan insanlara yardımcı olan YZ
-- [[genai-minoritized-knowledges-disability]] — Üretici YZ ve marjinalleştirilmiş bilgilerin marjinalleştirilmesi
-- [[tactile-statistical-graphs-accessibility]] — Erişilebilirlik için Dokunusal İstatistiksel Grafikler
-- [[ai-learning-tools-engineering-education-needs]] — İhtiyaç ve Dikkat Farkında YZ Öğrenme Araçları Tasarlamak
-
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Dedektör güdümlü süreçler meşru uyarlama kullanımını caydırabilir

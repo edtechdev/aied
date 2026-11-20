@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/okstate-ai-oer-case-studies-doers-2026
 source_updated: "2026-10-28T19:59:58-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -68,11 +69,3 @@ seguendo in genere le indicazioni di OER Commons. Per scelta editoriale ogni cap
 disciplinare, la punteggiatura e l'ortografia regionale del suo autore, quindi la prosa non si legge in modo
 uniforme. Soprattutto, ogni capitolo documenta un progetto locale e nessuna coppia condivide uno strumento o
 un confronto, quindi il volume offre pratiche da adattare anziché evidenze da citare.
-
-## Concetti collegati
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

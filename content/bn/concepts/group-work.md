@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -113,41 +115,3 @@ ai_assist:
 **"এআই সবচেয়ে সাহায্য করে যখন দলকে সমন্বয় করে।"** সমন্বয়-সহায়তা ও জ্ঞানতাত্ত্বিক সহায়তা বিপরীত দিকে টানে। সহযোগিতার সমন্বয়-খরচ কমানো দলটির উপর অর্থ-আলোচনার চাপ কমাতে পারে, আর সেই প্রক্রিয়াটিই মূল্যায়িত হচ্ছে। দক্ষতা–নিয়ন্ত্রণের বিনিময় কেন্দ্রীয় নকশা-টানাপোড়েন, বাস্তবায়নের খুঁটিনাটি নয়।
 
 **"মানুষের কারণেই দলগত কাজ কঠিন।"** এর কিছুটা কাজের নকশা, যে কারণে এআই কঠিনতার ধরনটাই বদলায়, কেবল সহজ করে না: যে টুল দ্রুত উত্তর দেয় তা দল কীসে সময় দেয় তা বদলে দেয়, এবং তা উন্নতি কি না নির্ভর করে কাজটি কোন দক্ষতা গড়তে তৈরি হয়েছিল তার উপর।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — একটি এআই শেয়ার করা দলের জন্য ভূমিকা-স্ক্রিপ্ট
-- [[ai-education]] — শিক্ষায় এআই (ছাতা)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — জেনএআই-মধ্যস্থ দলগত মূল্যায়নে শিক্ষার্থী-এজেন্সির তিন ধরন
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — এআই দলে যোগ দিলে উদ্ভূত শিক্ষার্থী-এজেন্সি: সহায়ক বনাম প্রতিকূল পার্সোনা
-- [[genai-counter-learner-groupthink-2025]] — PBL দলে দলগত-একমতাবাদ মোকাবিলায় বিতর্ক ঢোকানো একটি এআই এজেন্ট
-- [[xu-genai-collaborative-space-2026]] — একটি দলে শেয়ার করা বনাম ব্যক্তিগত জেনএআই প্রবেশাধিকার
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — সহযোগিতা-ধরন এবং কাজের-ফলাফল বনাম স্ব-নিয়ন্ত্রণের বিনিময়
-- [[golrang-propact-pair-programming-2026]] — ProPACT: পেয়ার প্রোগ্রামিংয়ে যুগলকে বিশ্লেষণের একক ধরা
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — আন্তঃবিষয়ক শিক্ষার্থী-দলে অনুমান সামনে আনার এআই মধ্যস্থতা
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — সমালোচনা-সঙ্গী হিসেবে এলএলএম: সক্রিয় খণ্ডন জ্ঞানতাত্ত্বিক দ্বন্দ্ব ধরে রাখে
-- [[polished-artifacts-fragile-engagement-2026]] — পালিশ করা নমুনা, ভঙ্গুর জ্ঞানতাত্ত্বিক সম্পৃক্ততা
-- [[breideband-community-builder-cobi-2026]] — দলীয় সহযোগিতার জন্য শ্রেণিকক্ষ-স্তরের আলোচনা-বিশ্লেষণ
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — সহযোগিতার শিক্ষাবিজ্ঞানিক মধ্যস্থতাকারী হিসেবে এআই
-- [[neurodivergent-computing-students]] — সহযোগিতামূলক শিখনে নিউরোডাইভার্জেন্ট শিক্ষার্থীদের চাহিদা
-- [[academic-league-of-ai-2026]] — এআই শিক্ষায় গণতান্ত্রিক শিক্ষার্থী-শাসন ও প্রকল্প-দল
-- [[teacher-student-agency-orchestration]] — রিয়েল টাইমে শিক্ষক ও শিক্ষার্থী-এজেন্সির সহ-সমন্বয়
-- [[dollinger-equitable-assessment-ai-2026]] — এআই যুগে ন্যায্য মূল্যায়ন
-- [[ethics-training-agents-group-ethics-discussion-2026]] — নৈতিকতা প্রশিক্ষণ এজেন্ট: ভূমিকা-পালন ও আলোচনার মাধ্যমে দলভিত্তিক নৈতিক শিক্ষা সহজতর করা

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -45,12 +47,10 @@ ai_assist:
 
 **ТСО во вовлечённости в обучение, опосредованном ИИ,** исследует, как инструменты [[generative-ai|generative AI]] формируют мотивацию студентов. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** сочетали ТСО с [[network-analysis|epistemic network analysis]] для изучения вовлечённости студентов в обучение с генеративным ИИ. **[[ai-availability-student-motivation]]** исследует, как доступность ИИ влияет на мотивацию и настойчивость студентов, связываясь с [[cognitive-offloading|Over-Reliance]] в отношении эрозии мотивации. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** расширяют ТСО на обучение с ИИ с анализом латентных переходов **2 086 студентов средних школ** в годовом ИИ-[[curriculum-design|curriculum]], выявляя **три мотивационных профиля (незадействованный, развивающийся, самоопределённый)**, которые были устойчивы во времени, и показывая, что большинство студентов сохраняли или продвигались к более высоким профилям. Существенно, что студенты, достигшие или оставшиеся в самоопределённом профиле, показали **наибольшие приросты [[ai-literacy]]** — прямое лонгитюдное доказательство того, что удовлетворение автономии, компетентности и связанности предсказывает лучшие результаты обучения с ИИ и что мотивация — это развивающееся (а не фиксированное) свойство учащегося.
 
-
 Контрастирующий результат уровня занятий показывает, что потребности не движутся согласованно: среди 2 464 учащихся младшей средней школы компетентностное обучение с поддержкой ChatGPT повысило поддержку автономии и удовлетворение компетентности, но породило большую долю низкокачественных мотивационных профилей, а удовлетворение связанности было слабее, чем при компетентностном обучении без ИИ ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 - **Доступность — не использование.** С 406 учащимися 5–8 классов, писавшими дважды — один раз без цифровых инструментов и один раз с необязательным GenAI, — удовлетворение автономии упало (Δ = −0.28), тогда как средняя регуляция осталась стабильной, а степень использования ИИ не предсказывала принадлежность к профилю ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
 
 Мотивационный прирост здесь давала автономия, а не лёгкость. Трёхрукавное [[rct|РКИ]] обнаружило, что репетитор, удерживающий подсказки и заставлявший учащихся строить собственное решение, был единственным рукавом, повысившим внутреннюю мотивацию (2,82 против 2,42), тогда как неограниченный ChatGPT, выдающий ответ, — нет (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
-
 
 Конфигурационная проверка заостряет этот пункт: среди 498 студентов-медиков бакалавриата использование GAI было лишь слабо связано с удовлетворением потребностей (β = 0.155) и оказалось необязательным для высокой вовлечённости, тогда как удовлетворение потребности в компетентности было основным условием в сильнейшей конфигурации ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
@@ -59,7 +59,6 @@ ai_assist:
 - **ChatGPT и потребности ТСО в изучении языка:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] использовали оптику ТСО с 25 малайзийскими студентами университета, обнаружив, что ChatGPT поддерживает автономию, связанность и компетентность в [[language-learning|English language learning]] — улучшая грамматику, письмо и разговорные задачи, позволяя при этом [[teacher-role|educators]] сосредоточиться на обучении более высокого порядка.
 
 **ТСО, применённое к собственной опосредованной ИИ практике преподавателей.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] использовали ТСО как интерпретативную оптику на то, как преподаватели интегрируют [[learning-analytics|learning analytics]] и генеративный ИИ в [[learning-design|learning design]], — обнаружив, что поддержка базовых потребностей преподавателей (автономии, компетентности, связанности) способствует творческому [[problem-solving]], которого требует их проектная работа. В их анализе ENA использование GenAI было связано с проектированием для самоопределения студентов (например, совместным созданием рубрик оценивания со студентами), расширяя ТСО с учащихся на педагогов, которые строят поддерживающие потребности среды, опосредованные ИИ.
-
 
 Для самих преподавателей сотрудничество с ИИ работает в обе стороны: трёхволновое исследование 468 преподавателей университетов обнаружило, что оно повышало вовлечённость в работу через психологическую доступность, снижая её через отчуждение от работы, а [[teacher-ai-competency|digital competency]] усиливала первый путь и ослабляла второй ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
@@ -78,37 +77,3 @@ ai_assist:
 - **«Тип мотивации значит меньше, чем её количество».** Годовое исследование обнаружило **три мотивационных профиля — незадействованный, развивающийся, самоопределённый, — устойчивые во времени**, и студенты, достигшие **самоопределённого** профиля, показали **наибольшие приросты [[ai-literacy]]**. Качество мотивации предсказывало обучение, и профили не просто дрейфовали вверх.
 - **«Поддержка автономии означает отмену структуры».** Механизм ТСО — автономия, компетентность и связанность вместе, и лонгитюдные доказательства показывают, что их удовлетворение предсказывало приросты, а не просто сопутствовало им. Автономия без поддержки компетентности — это попустительство, и она не выполняет условий теории.
 - **«[[conversational-ai|Чат-бот]] может автоматически обеспечить три потребности».** Исследование обнаружило, что ChatGPT способен поддерживать автономию, связанность и компетентность в изучении языка, — это возможность, а не свойство. Поддерживает ли их конкретное взаимодействие — эмпирический вопрос о том, как его используют.
-
-## Связанные концепции
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Связанные статьи
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Удержание подсказок сохраняло автономию там, где выдача ответов — нет
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Доступность ИИ, падение автономии и мотивационные профили в 5–8 классах (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 исследований, закодированных по классификации из 20 активностей: компетентность прорабатывается чаще всего, связанность — реже всего

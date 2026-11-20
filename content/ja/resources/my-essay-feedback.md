@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -47,12 +48,3 @@ AI フィードバックを、その内容の統制を手放さずに望む初�
 ## 注記と注意点
 
 サイトは 12,000 人以上の学生、700 以上のコース、41,000 以上のエッセイをレビューしたと報告していますが、これはベンダーによる数字で、独立した監査ではありません。FERPA 準拠、GDPR への準備、アクセシビリティも同様にベンダー自身の主張です。エッセイは Azure OpenAI を通り、モデルの訓練には使われないとサイトは述べていますが、学区はマーケティングページから受け取るのではなく、データ処理契約で確認すべきです。価格はフリーミアムで、対象によって変わります。新しい教員は最初の学期が無料（申請制、学校あたり 3 人まで）、その後は学生 1 人あたり学期約 \$12〜15、個々の学生向けにはレビュー単位の有料層があり、最初のレビューは無料です。ChatGPT Plus、Packback、Grammarly との比較表はベンダー自身のものです。PAIRR プロジェクトでの UC Davis との提携は研究協力であり、プラットフォームがライティングを改善するという公開された証拠ではありません。
-
-## 関連する概念
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

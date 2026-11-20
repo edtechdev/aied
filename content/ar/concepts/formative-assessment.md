@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -132,70 +134,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«بنود التدريب المولَّدة تعطي إشارة بنّاءة مفيدة.»** **بنك بنود مولَّد سهل لا يعطي إشارة بنّاءة**: ففي **نشر مدته عشرة أسابيع أجاب كل طالب إجابة صحيحة عن نحو 70% من بنود التدريب المولّدة بالذكاء الاصطناعي**. وبنك ينجح فيه الجميع لا يحمل معلومات عن من يحتاج ماذا.
 - **«موثوقية توليد البنود متجانسة عبر الصيغ.»** تولّد أنظمة الذكاء الاصطناعي بنودًا بنّاءة عبر أنماط عرض متعددة **بموثوقية تتباين حسب النوع** — ومنها الاختيار من متعدد. فمعاملة البنود المولَّدة كقابلة للتبادل عبر الصيغ تُخفي أين يكون التوليد موثوقًا.
 - **«إعطاء الطلاب تغذية راجعة بالذكاء الاصطناعي يُنتج تنفيذًا.»** **مشكلة التنفيذ** موثّقة بمعزل عن جودة التغذية الراجعة: فتلقّي التغذية الراجعة والتصرّف على أساسها خطوتان مختلفتان، والثانية هي حيث ينجح التقويم البنّاء أو يفشل.
-
-## المفاهيم المترابطة
-
-- [[pedagogical-patterns]] — الأشكال المتسلسلة التي يأخذها التقويم البنّاء عندما يوفّر الذكاء الاصطناعي جزءًا من التغذية الراجعة
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — التقويم الختامي: صيغ مقاومة للذكاء الاصطناعي (شفوية ومراقَبة وامتحانات كتب مغلقة)
-
-- [[reflection]]
-
-## المقالات المترابطة
-- [[llm-multi-agent-conversation-assessment-2025]] — بنية من أربعة وكلاء للتقويم القائم على المحادثة يتردد مقيّمها نحو الفئة الوسطى (هو وزملاءه 2025)
-- [[causal-modeling-competency-assessment-2026]] — النمذجة السببية لتدخلات الدعم لتقويم كفاءة الطلاب
-- [[nicola-richmond-programwide-assessment-genai-2025]] — مقاربات على مستوى البرنامج لإعادة تصميم التقويم في عصر GenAI
-- [[ai-feedback-enactment-workflow-2026]] — جعل التغذية الراجعة المولّدة بالذكاء الاصطناعي ذات شأن: من التوفير إلى التنفيذ
-- [[care-full-feedback-genai]] — الصناعة الحانية للتغذية الراجعة في عصر GenAI
-- [[feedback-futures-genai]] — مستقبل التغذية الراجعة: ما وراء حدود قدرات البشر وGenAI
-- [[sequenced-ai-feedback-learning]] — أثر ومسارات التغذية الراجعة بالذكاء الاصطناعي المتسلسلة
-- [[learner-centered-feedback-ai]] — تعزيز التغذية الراجعة المتمركزة حول المتعلّم بالذكاء الاصطناعي
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — من التصحيح الآلي إلى تشخيص التعلّم: دراسة آلية للتقويم البنّاء المدعوم بالذكاء الاصطناعي في الكتابة الإنجليزية
-- [[ai-internal-feedback-evaluative-judgments]] — تطوير الأحكام التقييمية عبر التغذية الراجعة الداخلية المدعومة بالذكاء الاصطناعي
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: تصحيح التقويم البنّاء بتلقين بإنسان في الحلقة
-- [[automated-formative-assessments-a-level-sciences]] — التقويم البنّاء الآلي عالي التكرار
-- [[ai-generated-feedback-higher-ed]] — التغذية الراجعة المولّدة بالذكاء الاصطناعي في التعليم العالي
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: تغذية راجعة بالذكاء الاصطناعي متمركزة حول المناهج
-- [[genai-teacher-feedback-comparison]] — مقارنة تغذية راجعة GenAI بتغذية المعلّم
-- [[chatgpt-feedback-engagement-genai]] — تغذية راجعة ChatGPT والمشاركة
-- [[code-gen]] — CODE-GEN: توليد أسئلة اختيار من متعدد متحقق منه
-- [[responsible-assessment-ai-era-stanford-2026]] — التقويم المسؤول في عصر الذكاء الاصطناعي
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — التصميم للتقويم الأصيل
-- [[automated-grading-linux-bash-examinations-large-language-models]] — التصحيح الآلي لامتحانات Linux/bash
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — أدوار المدرّس والذكاء الاصطناعي في التقويم البنّاء المعزّز بـ ChatGPT
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — إعادة النظر في الامتحانات الشفوية كتقويم أصيل مقاوم للذكاء الاصطناعي
-- [[roe-assessment-twins-2026]] — توائم التقويم لتعزيز صحة التقويم في عصر GenAI (رو وبيركينز وجيراي 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: توليد معايير تقييم بالذكاء الاصطناعي
-- [[ai-assisted-instructor-supervised-grading-feedback]] — التصحيح والتغذية الراجعة بإشراف المدرّس وبمساعدة الذكاء الاصطناعي
-- [[adaptive-scaffolding-cognitive-engagement-its]] — سقالة ICAP التكيفية في نظام تدريس ذكي (BKT مقابل DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — النماذج اللغوية الكبيرة كوكلاء للتصميم البيداغوجي التكراري
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — التكيّف يجعل التغذية الراجعة فعّالة: أدلة من التغذية الراجعة المولّدة بالذكاء الاصطناعي على خطط الأطفال
-- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — المقابل الإيجابي لمخاطر المراقبة: الملاحظية كتصميم للأدلة لا كمراقبة
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — التصحيح الآلي وأداء الترجمة الفورية والتعلّم الذاتي التنظيم (تشن وليو 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — المهارات التشخيصية للمعلّمين في التقويم البنّاء المدعوم بالذكاء الاصطناعي: من التشخيص إلى التشخيص فوقي
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — الفائدة المُدركة ونية استخدام التغذية الراجعة المولّدة بنماذج لغوية كبيرة في البرمجة عبر ثلاثة مستويات تعليمية
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — مساعدة تعليم تكيفية تجمع الذكاء الاصطناعي التوليدي وتحليلات البيانات الضخمة في تعليم الموسيقى
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المولّدة بالذكاء الاصطناعي في مقررات علم البيانات
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — بنية التقويم المستمر بوساطة الذكاء الاصطناعي (AIM-CAI): ربط أدلة التعلّم عبر السياقات والزمن (مكنامارا وحسنين 2026)

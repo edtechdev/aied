@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -94,39 +96,3 @@ ai_assist:
 - **"순위표 위치가 튜터의 품질을 알려 줍니다."** StudentBench는 **성인 2,383명을 AI 튜터링, 실시간 전문가 인간 튜터링, 영상 조건에 무작위 배정**하고 다른 시스템이 아니라 인간 튜터를 기준으로 채점합니다. 다른 모형에 맞춰 확장된 벤치마크는 아무도 필요로 하지 않았던 질문에 답합니다.
 - **"시뮬레이션된 인격은 튜터 평가의 충분한 근거입니다."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]는 평가를 **시뮬레이션된 인격이 아니라 문서화된 사례 문헌**에 근거를 두고 **923개 대화**를 사용합니다. 조작된 학생 인격은 실제로 일어나지 않는 사례를 시스템이 통과하게 만듭니다.
 - **"심사자를 점검하지 않고도 벤치마크를 신뢰할 수 있습니다."** 환각은 **검색된 오픈 라이선스 청크에 대한 함의로 채점되었고(전문가 판단과 κ = 0.76)**, 심사자는 그 점수가 사용되기 전에 전문가와 비교해 검증되었습니다. 검증되지 않은 자동 심사자는 의미를 알 수 없는 숫자를 만들어 냅니다.
-
-## 연결된 개념
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## 연결된 문서
-- [[standardized-assessment-llm-english-proficiency-2026]] — 모형 역량을 보정된 수준으로 보고하는 624문항 영어 숙련도 벤치마크(Min 외 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — 평가 기구는 인간과 LLM에게 같은 것을 측정하는가?(Strugatski 외 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Pedagogy Benchmark: LLM의 교수법적 지식(CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM 기반 교수 설계 에이전트의 벤치마킹
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 온프레미스 OER AI 지식베이스 보조자: 다차원 벤치마크
-- [[authentic-products-authenticated-processes-2026]] — 실제적 산출물에서 입증된 과정으로: AI가 풍부한 고등 교육의 실제적 평가
-- [[llm-cognitive-diagnosis-handwritten-math]] — 손으로 쓴 수학 작업에서 학생의 인지 기술 진단을 위한 대규모 언어 모형 벤치마킹
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: 시뮬레이션된 학습자를 둔 교수법적 LLM 에이전트를 위한 장기 수평선 벤치마크
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가: 미래 중심 학회의 핵심 통찰
-- [[anvil-ai-educational-animations]] — ANVIL: 강의자를 위한 비유와 영상
-- [[icle-plus-plus-essay-scoring]] — ICLE++: 총체적 에세이 채점을 위한 세밀한 특성의 모형화
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: 슬라이드 감사를 위한 멀티모달 LLM 벤치마킹
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: 생성된 수학 도형 평가를 위한 벤치마크
-- [[eeg-familiarity-automated-assessment-2026]] — 학습자 평가의 자동화: EEG 기반 친숙도 예측
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: 이론적 컴퓨터 과학 교육을 위한 검색 증강 생성 — 알고리즘 분석과 복잡도 이론을 위한 종합적 평가 틀
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 주석 우선, 과제 생성적 벤치마크 구성, 그리고 12개 예술 이미지 과제에 걸친 차원 수준의 비중복성(Zhu 외 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 성과를 낸다
-- [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 지원 교육 문항의 교수법적 평가를 위한 사전 훈련 모형 평가
-- [[llm-benchmark-secondary-science-topics-2026]] — LLM의 중학교 및 고등학교 과학 주제 이해를 위한 벤치마크
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — 반복으로 최적화된 지표에서 도출된 AI 튜터 벤치마크를 위한 여덟 가지 설계 원리(Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 도전적 행동을 보이는 학생에 대한 LLM 튜터 평가(Park 외 2026)
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — 자동 스킬 추출을 위한 AI 접근 비교: 임베딩에서 공학 교육을 위한 에이전트 시스템까지

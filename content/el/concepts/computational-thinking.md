@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -77,54 +79,3 @@ ai_assist:
 - **«Η βοήθεια της ΤΝ ισοπεδώνει το πεδίο σε περιβάλλοντα με λίγους πόρους.»** Μπορεί, υπό προϋποθέσεις. Ένα **οιονεί πείραμα 14 εβδομάδων με 103 πρωτοετείς προπτυχιακούς στη Νιγηρία** βρήκε ότι η βασισμένη στο πρόβλημα μάθηση με υποστήριξη ΤΝ (ChatGPT και Teachable Machine) παρήγαγε κέρδη, και η ΤΝ ως «ικανότερος συμμαθητής» μεταφέρει την ΥΣ εκεί όπου λείπει άλλη παροχή. Αυτό όμως είναι εύρημα για μια δομημένη παρέμβαση, όχι ιδιότητα του να δίνει κανείς στους μαθητές ένα [[conversational-ai|chatbot]].
 - **«Τα LLM δεν μπορούν να αξιολογήσουν την ΥΣ αξιόπιστα.»** [[llm-computational-thinking-physics-2026|Έρευνα αξιολόγησης ΥΣ στη φυσική]] βρήκε ότι τα LLM μπορούν να **μιμηθούν ανθρώπινους βαθμολογητές** στη βαθμολόγηση της ανάπτυξης στις Πρακτικές Δεδομένων και στις Πρακτικές Υπολογιστικής Επίλυσης Προβλημάτων σε μαθήματα με μεγάλη συμμετοχή. Το εμπόδιο στην κλιμάκωση της αξιολόγησης της ΥΣ ήταν η χωρητικότητα βαθμολογητών, και αυτός ο περιορισμός χαλαρώνει — γεγονός που μετατοπίζει το πρόβλημα σχεδιασμού στο κατά πόσο το εργαλείο μετρά την ΥΣ και όχι τη συμμόρφωση.
 - **«Η ΥΣ είναι δεξιότητα προγραμματισμού που τυχαίνει να διδάσκει η ρομποτική.»** Μια **[[meta-analysis-systematic-review|συστηματική ανασκόπηση]] 95 μελετών** επιβεβαιώνει ότι η ρομποτική καλλιεργεί την ΥΣ, τη δημιουργικότητα και την επίλυση προβλημάτων, αλλά και ότι **το πλαίσιο ρυθμίζει το αποτέλεσμα**: η [[game-based-learning|μάθηση με βάση το παιχνίδι]] ταιριάζει σε άτυπα περιβάλλοντα, ενώ η παιχνιδοποίηση διαφέρει σε τυπικά. Η ΥΣ είναι ένα σύνολο πρακτικών που μεταφέρονται άνισα, επομένως ο ισχυρισμός μεταφοράς χρειάζεται τον σχεδιασμό εργασίας που πράγματι χρησιμοποιήθηκε.
-
-## Συνδεδεμένες έννοιες
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Συνδεδεμένα άρθρα
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

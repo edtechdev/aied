@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -57,29 +59,3 @@ AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 �
 - **"좋은 점수를 내는 모형은 같은 것을 측정하고 있습니다."** **동일한 평가 도구**에서 인간과 LLM의 반응 구조는 **어긋납니다.** 모형은 좋은 점수를 내면서도 그 도구가 의도하는 것과 다른 것을 측정할 수 있습니다. 점수가 일치한다는 것은 관찰이고, 구인 동등성은 구조 수준의 증거를 요구하는 별개의 주장입니다.
 - **"보정은 정확도 수치 하나로 읽어 낼 수 있습니다."** **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 **학부생 153명**의 대화에서 학습 양식 차원을 추론하게 했을 때 **중간 정도의 정확도**가 나왔고, 그것은 균형 지표 아래에서 다르게 수행되었습니다. 총체적 정확도는 균형 지표가 드러낸 차이를 감췄습니다.
 - **"자동 채점 파이프라인은 심리측정 절차를 재현할 수 없습니다."** 저자들은 확립된 파이프라인을 자동 형태로 재현했고(**하위 절단점은 루브릭 문항 7개 이상, 상위 절단점은 10개 이상을 맞힐 확률 67%**), AI와 인간의 문항 점수를 같은 기준 위에서 비교할 수 있게 했습니다. 절차는 재현 가능했습니다. 구인 질문은 남아 있습니다.
-
-## 연결된 개념
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## 연결된 문서
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 글쓰기 평가에서 AI 보조 채점을 위한 인간 개입 프레임워크
-- [[assessment-latent-structure-human-llm-2026]] — 평가 도구가 인간과 LLM에게 동일한 것을 측정하는가? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — 심리측정적 보정에 LLM 평가를 정렬하기
-- [[llm-item-difficulty-prediction]] — LLM의 문항 난도 예측
-- [[cong-confidence-asag-2026]] — 확신 인식 자동 단답형 채점
-- [[multimodal-item-parameter-estimation-2026]] — 다중 양식 문항 모수 추정
-- [[competency-based-education-genai-production-2026]] — 생성형 AI를 활용한 역량 기반 교육
-- [[ai-grading-handwritten-physics-2026]] — 손글씨 물리학 평가의 AI 채점(올림피아드)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 기계학습을 활용한 문항 난도 추정
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — AI 리터러시 도구 비교: 55개 구성개념에 걸친 jangle·jingle 짝
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난도의 한계
-- [[genai-reliance-scale-problem-solving-2026]] — 문제 해결 중 생성형 AI 의존을 측정하는 검증된 척도(Hou et al. 2025)
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 범주별 재현율을 확인하니 중간 정확도는 다수 범주 예측이었다(Zamanifard, Goudarzi & Robb 2026)

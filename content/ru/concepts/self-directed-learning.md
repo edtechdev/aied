@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -57,7 +59,6 @@ ai_assist:
 
 Поскольку СНО делает акцент на инициируемом учащимся направлении, интервенции по его защите сосредоточены на сохранении [[agency]] и самоэффективности, а не просто на регуляции поведения от мгновения к мгновению. Доказательства того, что бездумное использование ИИ разрушает мотивацию и самоэффективность — психологические ресурсы, от которых зависит СНО, — указывают, что продвижение [[ai-literacy|responsible AI use]] — это не просто вопрос академической честности, а вопрос развития: защиты способности студентов направлять собственное обучение.
 
-
 ## Исследование скаффолдинга извлечения знаний ИИ для обучения на основе исследований
 
 - **Извлечение знаний ИИ как скаффолд для обучения на основе исследований.** An и коллеги (2026) проектируют систему извлечения информации на базе ИИ, которая преобразует научные публикации в структурированные, отслеживаемые наборы данных для поддержки написания дипломных работ студентами бакалавриата в [[stem-education|STEM]], позиционируясь как **эпистемический скаффолд**, который делает возможным инспектирование отношений доказательство–утверждение при снижении низкоуровневых требований по обработке данных. В пилотном [[mixed-methods-research|mixed-methods]] исследовании на 20 студентов по 80 документам студенты извлекли более 90% целевых параметров, [[self-report-measures|самооценённое]] время обзора литературы снизилось примерно на 65%, а их способность выявлять влиятельные переменные возросла на 50% — что поддерживает идею о том, что [[generative-ai|AI]] может перебалансировать когнитивную нагрузку в сторону рассуждения более высокого порядка, самонаправленного исследовательского, а не рутинного обобщения.
@@ -88,29 +89,3 @@ ai_assist:
 **Для исследователей**
 
 - Сообщайте, какой конструкт адресовала интервенция; исходы СНО и СРО не следует использовать взаимозаменяемо.
-
-## Связанные концепции
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Связанные статьи
-- [[scherer-self-directed-genai-use-secondary-2026]] — Самонаправленное использование генеративного ИИ и академическое развитие учащихся средних школ: крупномасштабное годичное лонгитюдное исследование
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Бездумное использование GenAI и самонаправленное обучение (SEM, гендерные различия)
-- [[ai-lifelong-learning-policy]] — Политика в области ИИ и обучения в течение всей жизни
-- [[self-directed-growth-generative-ai-learning-analytics]] — Самонаправленный рост с GenAI и аналитикой обучения
-- [[genai-educational-outcomes-meta-analysis]] — Метаанализ образовательных результатов генеративного ИИ
-- [[andragogy-cognitive-delegation-genai-2026]] — Андрагогика и когнитивное делегирование с GenAI
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — Модели выбирают учебные цели не так, как люди, в задаче свободного выбора (Molinaro и др., 2026)

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,12 +48,3 @@ Giảng viên viết học phần năm nhất và các khoa tiếng Anh muốn p
 ## Ghi chú và lưu ý
 
 Trang báo cáo hơn 12.000 sinh viên, hơn 700 học phần và hơn 41.000 bài luận đã được xem — con số do nhà cung cấp báo cáo, không phải kiểm toán độc lập. Việc tuân thủ FERPA, sẵn sàng GDPR và khả năng tiếp cận cũng là tuyên bố của chính nhà cung cấp; bài luận đi qua Azure OpenAI, và trang nói chúng không được dùng để huấn luyện mô hình, điều một học khu nên xác nhận trong thỏa thuận xử lý dữ liệu thay vì lấy từ trang tiếp thị. Giá theo mô hình freemium và thay đổi theo đối tượng: một học kỳ đầu miễn phí cho giảng viên mới (theo yêu cầu, giới hạn ba người mỗi trường), sau đó khoảng \$12–15 mỗi sinh viên mỗi học kỳ, và một gói trả phí theo lượt xem cho sinh viên cá nhân với lượt đầu miễn phí. Bảng so sánh với ChatGPT Plus, Packback và Grammarly là của chính nhà cung cấp. Quan hệ đối tác với UC Davis trong dự án PAIRR là hợp tác nghiên cứu, không phải bằng chứng đã công bố rằng nền tảng cải thiện kỹ năng viết.
-
-## Khái niệm liên quan
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

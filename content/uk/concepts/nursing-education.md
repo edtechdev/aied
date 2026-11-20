@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -113,42 +115,3 @@ ai_assist:
 **Для дослідників**
 
 - Повідомляйте вибірки студентів перед ліцензуванням і практикуючих медсестер окремо та досліджуйте перехід до практики під наглядом, якщо твердження про компетентність має щось означати клінічно.
-
-## Пов’язані поняття
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Пов’язані статті
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Застосування, ставлення та етика в медсестринській освіті: огляд-скоупінг 103 досліджень (Hardie та співавт. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Досвід здобувачів симуляції та тренування навичок зі генеративним ШІ в медсестринській освіті: мета-синтез
-
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Систематичний огляд ШІ в освіті з медсестринства (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Симуляція на основі ШІ в освіті з медсестринства: систематичний огляд зі змішаними методами
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, структурні прогалини та реконституція професійної ідентичності
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Досвід студентів і викладачів медсестринства щодо ШІ через призму TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Сприйняття ШІ та кар’єрна тривожність серед студентів медичних наук
-- [[genai-counter-learner-groupthink-2025]] — Генеративний ШІ для протидії груповому мисленню в міжпрофесійному PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Науковці з медсестринства про GenAI: політична невизначеність, професійні цінності та дрейф до оцінювання під наглядом
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Дистанційне спостереження в оцінюванні з медсестринства: нагляд, справедливість та аргумент стримування, побудований на сприйнятті
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Огляд-сканування, що зіставляє рамки компетентностей із ШІ з 12 підвимірами KAS для медсестринських програм
-- [[rony-nursing-educators-ai-tpack-2025]] — Викладачі медсестринства в Бангладеш про готовність до ШІ, бар’єри та управління даними, прочитані через TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Парасольковий огляд 18 оглядів: етика, трансформація програм та бар’єри інтеграції
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Студенти медсестринства про відкриту таємницю використання ШІ: персоналізоване навчання, час і цифровий розрив
-- [[agency-gap-ai-writing]] — РКД зі студентами медичних і медсестринських програм: реактивний проти проактивного дизайну агента та розрив агентності
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1 020 студентів медсестринства: взаємодія з GenAI, освітня взаємодія та точно ідентифікована модель медіації
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Опублікована відповідь на Rony et al.: інституційні екосистеми, готовність і нагляд за ШІ
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Викладачі та студенти спільно проєктують дашборд аналітики медсестринської освіти
-- [[federated-learning-at-risk-student-prediction-2026]] — Прогнозування груп ризику зі збереженням приватності між програмами охорони здоров’я, і чому запозичений поріг дає збої в медсестринстві

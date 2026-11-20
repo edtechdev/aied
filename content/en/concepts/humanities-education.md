@@ -9,6 +9,8 @@ discipline: [humanities education]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 > **Humanities education** — the teaching of history, philosophy, literature, languages, classics and religious studies, the disciplines whose object is interpretation rather than procedure. [[generative-ai|Generative AI]] matters here less as a tutor of content than as an epistemic mediator: it can produce a plausible reading instantly, which makes authorship, source judgment and the reader's position the things a course has to protect. The cluster sits under [[discipline-specific-aied|AI in the disciplines]] beside [[social-sciences-education|social science education]], which studies people in aggregate, and beside [[arts-and-media-education|arts and media education]] and [[music-education|music education]], where learning is embodied in a made artifact. Coverage is concentrated in [[higher-ed|higher education]] and in single-course studies.
@@ -62,29 +64,3 @@ Institutional strategy is also documented. [[ai-digital-transformation-liberal-a
 **"Values education can be handed to a model as content."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] reframes values education as a relational practice with three conditions — answerability, exemplarity and address — and reads each of GenAI's affordances as replacing a relation: the simulated perspective replaces the stakeholder who can be wronged.
 
 **"The humanities face the same assessment problem as everyone else."** The artifact is different: a claim about what a text means, defended against counter-readings, is not a report of findings and does not become one when a model can write reports.
-
-## Connected Concepts
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## Connected Articles
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
-- [[capodieci-humanities-hil-2026]] — Agentic AI in humanities learning, and the shift from authorship of text to attribution of interpretation
-- [[paternalistic-filter-llm-history-education]] — LLM use, filters, and historical reasoning in history education
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — From tool to method: AI literacy in history teaching
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Grounded scaffolding for literary creation with a knowledge graph and an LLM
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed
-- [[corbin-essay-time-genai-2026]] — The assessed essay had already narrowed to a thesis-and-evidence report
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — A liberal arts institution mandating GenAI literacy across the undergraduate curriculum
-- [[genai-values-education-affordances-risks-2026]] — Values education as a relational practice, and what each GenAI affordance replaces
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — Integrity and critical digital literacy as one problem, joined by evaluative judgment

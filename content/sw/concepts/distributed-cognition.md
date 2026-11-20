@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -59,11 +61,9 @@ Hifadhi ya maarifa inatendea utambuzi uliosambaa pamoja na mila zake za kinadhar
 - **[[cognitive-offloading]]** ni mbinu ya vitendo ambayo kazi ya kiutambuzi inakabidhiwa kwa mifumo ya nje (ikiwa ni pamoja na AI), na ni mwenzake mwenye hatari wa hali ya kueleza ya DCog.
 - **Utambuzi uliopanuliwa / nadharia ya akili iliyopanuliwa** (inayotumika katika kazi za baada-binadamu) inadai kuwa vitu vya nje vinaweza kuwa *sehemu zinazounda* za mfumo wa kiutambuzi, si vyombo tu — madai makini zaidi kuwa AI ni sehemu ya akili ya mwanafunzi yenyewe.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-
 ### Utambuzi wa nani? Tatizo la kitengo cha uchanganuzi
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] anasukuma swali hilo la kitengo cha uchanganuzi kwa nguvu zaidi kuliko kazi nyingi katika mila hii. Dai lake ni kwamba ujuzi wa kusoma na kuandika si milki ya mtu binafsi bali ni kitu kinachotekelezwa kwa vifaa na mashine, jambo linalofanya mwanafunzi binafsi kuwa kitengo kisicho sahihi cha uchanganuzi. Mfumo wa uwezo unaozingatia mtu kwa hivyo hauwezi kusajili michango ya miundombinu au isiyo ya binadamu, ndiyo sababu uwanja unaendelea kutaja usambazaji kisha kuuhamishia tena kwa mwanafunzi. Ukingo wa usawa ni hoja yake ya ugumu: kujitafakari kunategemea uzoefu wa maisha na mahusiano ya mamlaka, kwa hivyo wanafunzi ambao mazoea yao ya lugha au uandishi yako mbali zaidi na kanuni iliyowekwa kodi hubeba gharama kubwa zaidi. Hoja ni ya kinadharia na hairipoti seti ya data, na mielekeo yake ya ubuni inabaki mapendekezo yasiyojaribiwa.
-
 
 ### Kwa nini ina maana kwa ubunifu na tathmini ya AI
 
@@ -78,35 +78,3 @@ Fowlin na wenzake (2026) wanafanya uwekaji wa vitendo wa mgawanyo huo kama mlolo
 - **"Hati iliyoshirikiwa inamaanisha utambuzi ulioshirikiwa."** Wasifu wa msingi wa kiasi wa **wanafunzi 97** ulitofautiana kwa **maarifa ya awali na uandishi** lakini **si kwa kuuliza kwa jukumu amilifu au ngazi ya uelewa**. Kiasi cha ushiriki kilipima ufikiaji, si mgawanyo wa kazi ya kiutambuzi, hivyo [[learning-analytics|uchanganuzi wa matumizi]] wa zana shirikishi husema kidogo kuhusu nani alikuwa akifikiri.
 - **"Kila mtu hupunguza mzigo kwa AI kwa kiasi sawa."** Walimu wapya **huagiza sehemu kubwa ya mzigo wa kiutambuzi wa ubunifu wa kielimu kwa mfumo wa AI**, wakifika kwenye **mgawanyo unaotawaliwa na AI** ambapo hukubali majibu kwa kiasi kikubwa, huku walimu wenye uzoefu na wanaojua AI wakigawa kwa njia tofauti. Utaalamu huonekana pale mzigo unapowekwa, si kwa kiasi cha AI kinachotumika tu.
 - **"Ushiriki zaidi wa AI unamaanisha msaada zaidi."** Mgawanyo unaotawaliwa na AI ndio mfumo wa kuangalia, kwa kuwa sehemu ya binadamu ya kazi ya kiutambuzi hupungua wakati kiasi cha matokeo kinapopanda. Mfumo unaweza kuonekana mwenye uwezo zaidi hasa wakati mtumiaji anafanya kidogo.
-
-## Dhana Zinazohusiana
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Makala Zinazohusiana
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Uchunguzi wa uchunguzi wa kutatua matatizo kwa ushirikiano wa binadamu–AI kupitia chombo cha utambuzi uliosambaa na kujidhibiti kwa pamoja
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI kama mpatanishi wa kitaaluma anayesambaza upya utambuzi kati ya wahusika wa binadamu na wasio binadamu
-- [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiutambuzi katika kufikiri kunakodhibitiwa kwa pamoja
-- [[ensemble-cognition-philosophy-ai-education]] — Mfumo wa Utambuzi wa Jumuia unaoweka upya wazo la kufikiri kama mwingiliano wa binadamu–AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Mwanafunzi wa baada-binadamu mwenye utambuzi uliosambaa kati ya mifumo ya kibiolojia na bandia
-- [[fowlin-operationalizing-learning-principles-ai]] — Kuweka vitendo utambuzi uliosambaa pamoja na kujifunza kwa uzoefu na kwa muktadha
-- [[cognitive-commons-ai-expertise-regeneration]] — Maafa ya mali ya pamoja ya kiutambuzi: AI na uokoaji wa utaalamu
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mwingiliano wa mwalimu–AI katika ubunifu wa somo: utambuzi uliosambaa unaotawaliwa na AI dhidi ya unaojaza kulingana na uzoefu na ujuzi (Choi na wenzake 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI kama mwakala na nafasi ya ushirikiano: jinsi usanidi wa upatikanaji unavyosambaza utambuzi wa kikundi (Xu na wenzake 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Mfumo wa Usambazaji wa Kiutambuzi: aina tano za mwingiliano na majukumu manne kutoka matumizi ya ChatGPT yaliyoendeshwa na mwanafunzi
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kumbukumbu tendaji na GenAI: mgawanyo wa kazi na mabadiliko ya kutafakari hupatanisha ufikiri mahususi (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Kwa nini mwanafunzi binafsi ni kitengo kisicho sahihi cha uchanganuzi
-- [[rivera-novoa-genai-extended-cognition-2026]] — Utambuzi uliopanuliwa katika kujifunza sayansi: GenAI ni mbadala kwa chaguo-msingi, wa kujaza kwa ubuni (Rivera-Novoa & Duarte Arias 2026)
-

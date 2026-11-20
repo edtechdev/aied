@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -113,76 +115,3 @@ ai_assist:
 - **「機関の AI 採用は成熟した」** **象徴の層は飽和している一方、構造の層は薄い**ままです。**100% が AI のタスクフォースと AI の修士課程を持ちますが、幹部の AI リーダーシップを持つ機関はわずか 12%** であり、さらなる制度的な一歩を要求する機関もわずか 5% です。発表は構造を桁違いに追い越しています。
 - **「威信が機関の AI の成熟を予測する」** 制度化は**威信とは独立**であることが示され（順位相関 r ≈ 0.04）、**地域による有意な変動（ANOVA F = 5.86, p < .001）** がありました。評判は準備性の代理変数ではなく、地理は地位よりも多くを予測します。
 - **「AI が認識論的な作業をどう分配するかは、機関を超えて一様である」** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn, Rehm (2026)]]は、認識論的な作業がどう分配されたかによって**102 件の高等教育の実証研究**を分類し、その変動こそが発見であり、細部ではありません。
-
-## 関連する概念
-
-- [[undergraduate-education]] — 学士課程の学習におけるAI：大規模講義、入門STEM、アセスメントの公正性
-- [[graduate-education]] — 修士課程・博士課程の学習におけるAI：指導教員による指導、研究訓練、専門職プログラム
-- [[pedagogical-patterns]] — 検証済みの授業シーケンスに関する証拠の大半が生み出されたレベル
-- [[online-teaching-and-learning]] — オンラインでの教授と学習
-- [[generative-ai]] — 生成AIの技術とモデル
-- [[llm]] — 大規模言語モデル
-- [[student-experience]] — 高等教育における学生のAI体験
-- [[educational-development]] — 教員の能力開発とAIへの準備状況
-- [[academic-integrity]] — AIを使いこなす学生集団におけるアカデミック・インテグリティ
-- [[ai-literacy]] — 学生と教員のためのAIリテラシー
-- [[assessment-validity]] — GenAI時代におけるアセスメントの妥当性
-- [[educational-policy-ai]] — AIに関する教育政策
-- [[regulation]] — 教育におけるAIの規制
-- [[remote-proctoring]] — 遠隔試験監督と自動化された試験の公正性確保
-- [[self-directed-learning]] — AIを活用した自己主導学習
-- [[problem-based-learning]] — AIを活用した問題ベース学習
-- [[teacher-role]] — AI活用教室において変化する教師の役割
-- [[stakeholders]] — 包括項目：AI教育に関わる人々と対象者（学習者、教師、設計者、管理者、政策立案者）
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — アドバイジング、アウトリーチ、リファーラル、支援の配分 — 学生の成功を支える制度的側面
-
-## 関連する記事
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan(2026):上位100大学におけるAI制度化指数。言説が制度構造を先行し、導入は大学の威信とは独立している。
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI教員準備態勢フレームワーク
-- [[ai-in-the-wild-college]] — 実環境におけるAI:大学生のAI利用
-- [[institutional-change-framework-ai]] — AI時代の制度的変革
-- [[genai-availability-grades-satisfaction]] — GenAIの利用可能性と学生満足度
-- [[ai-assessment-scale-reform]] — AI Assessment Scaleと評価改革
-- [[universities-ai-era-rethinking]] — AI時代の大学を再考する
-- [[teacher-ai-adoption-confidence]] — 教員のAI導入
-- [[enright-staff-perspectives-genai-2026]] — 高等教育におけるGenAIに対する教職員の視点
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育におけるAI導入の組織的要因
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — 学生へのフィードバックにおけるAI:倫理
-- [[beyond-detection-authentic-assessment-ai-2025]] — 検出を超えて:AIが介在する世界における真正な評価の再設計
-- [[genai-student-experiences-uk-he-survey-2026]] — 英国の高等教育学生におけるGenAI利用経験(調査)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 大学卒業生に求めるAIスキルをめぐる教員と雇用者の認識のずれ
-- [[generative-ai-reduced-study-time-math]] — 大学生の学習時間が26.9%減少
-- [[ai-uk-higher-education-policy-2026]] — 英国の高等教育におけるAI政策
-- [[ai-tools-academic-work-cheating-2026]] — AIツール、学業活動、不正行為
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI生成試験の質の評価:大規模フィールド研究
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 真正でAIに耐性のある評価としての口頭試験の再検討
-- [[roe-assessment-twins-2026]] — GenAI時代の評価妥当性を強化する「評価ツイン」
-- [[student-perceptions-ai-study-productivity-2026]] — 学習生産性と学習のための人工知能ツールに対する学生の認識:探索的調査研究
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — 大学教員のAI観に関するフェノメノグラフィ研究
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — GenAI時代におけるリベラルアーツ大学から研究重視型モデルへのデジタル変革(Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS+SAMRフレームワークによって高等教育のAI統合をマッピングするシステマティックレビュー(AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教員のGAIに関する経験と認識:脆弱性、評価の再考、危機にさらされる学生の学習(Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 大学院研究者の研究ワークフローにおけるGenAI利用とAIリテラシー志向のガイドライン(Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — 適応型AI倫理教育のための学習者モデリング信号としてのエンゲージメント強度(Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — AI支援ライティングは研究チームを、より小規模で若手比率が低く被引用数の多い協働へとシフトさせる(Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench:AIと人間によるチュータリングはGREで同等の学習効果をもたらす
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — 高等教育のGenAI研究ではAssistant型とEnabler型が支配的であり、周縁的な絡み合いの類型は技術的理由ではなく制度的理由によって稀なままである(Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — 入試、経済的支援、学生サービス、教育提供にわたるAI導入を学生側の視点でマッピングし、4つの問いからなる調達スクリーニングを提示(Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — 摂動を加えた画像課題によりLLMの解答失敗率が7.4%から55.6%へ上昇:誠実性を確保する手段としてのコンテンツ設計
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AIグラスと補聴器は試験室内の持ち込み禁止を無力化する:視線や姿勢の手がかりを残さない二重の透明性
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 高等教育におけるAI活用の機能領域分類。その58.4%は2019年の分類枠外に位置する
-- [[ai-ethics-tensions-online-pedagogy-2026]] — 全学一律のAIポリシーではなく、手法別のガイドラインを策定せよ
-- [[ai-literacy-determinants-university-students-2026]] — 知覚されたリソースと教員のサポートがAIリテラシーの分散の29%を説明し、人口統計的属性は説明しなかった
-- [[faculty-ai-well-being-social-supports-2026]] — 教員にはツールへの自信だけでなくAIリテラシーへの資金投入を
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 大学院生は7尺度中6尺度で高く(利用d = 1.29、倫理d = 1.47)、ばらつきは学部生よりはるかに小さい
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 回答者1,477人において、自己評価による学習と3行動からなるエンゲージメント指数の相関は0.052であった
-- [[kumar-chatgpt-academic-assignments-2025]] — 倫理的意識は自己申告の課題成績を予測しなかった(β = −0.006、p = .924)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 1つの大学内に4つの導入プロファイル。習慣が最強の予測因子であり、教育水準は調整変数とならなかった
-- [[kong-ai-employability-cognitive-engagement-2026]] — 導入と利用頻度が能力の代理指標として読み替えられ、測定された成果のほぼすべてが近位端にとどまる
-- [[klapproth-constructive-alignment-genai-2026]] — 構成的アラインメントの拡張:学習成果には遂行条件を明記しなければならない
-- [[meng-synthetic-credentialism-framework-2026]] — Synthetic Credentialism:検出の問題ではなく資格証明システムの問題としてのシグナルの切り離しと検証の崩壊(Meng, Zhang & Li 2026)

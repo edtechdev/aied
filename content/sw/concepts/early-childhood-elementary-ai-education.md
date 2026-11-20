@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -64,7 +66,6 @@ Kwa sababu wanafunzi wadogo ni wa hatari zaidi na wana uwezo mdogo wa kujidhibit
 
 Ulinganifu wa nchi nne unakoleza pengo la mtaala: miongozo ya kitaifa ya awali ya Japan, Korea Kusini na Uchina haina marejeleo wazi ya ujuzi wa AI (mpango wa hatua wa jiji la Shanghai ni ubaguzi pekee, bila kubainisha maendeleo ya kujifunza), huku Australia ikionesha upatanisho mdogo na usio na usawa pekee — mkubwa zaidi katika kuingiliana na mawakala wa AI, hayupo katika kuelewa uhusiano wa binadamu–AI — ukiliacha ujuzi wa AI kwa nyumbani ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
 
-
 Dirisha la kwanza la neuroimaging kwenye swali hili linakuja na onyo: watoto wa miaka 6–7 walioshika mazungumzo ya dakika tano ya kusema na ChatGPT katika skana ya MRI walionesha muunganisho dhaifu wa ndani ya mtandao kuliko watu wazima katika mitandao ya kudhibiti ya frontoparietal, salience na umakini wa dorsal, katika alama za ubunifu zilizofanana, na hawakuwa na muunganisho wa ubunifu-muunganisho ambao watu wazima walionesha. Kwa sababu kazi za uendeshaji hizo bado ni za asili katika darasa la kwanza, waandishi wanasoma matokeo kama yanayohusika na majadiliano ya umri wa chini — huku wakionya utata wa muundo na ukosefu wa udhibiti wa bila-ChatGPT kama vikwazo vya kinachosuluhisha ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus na wenzake (2026)]]).
 
 ## Dhana Potofu za Kawaida
@@ -74,47 +75,3 @@ Dirisha la kwanza la neuroimaging kwenye swali hili linakuja na onyo: watoto wa 
 - **"Watoto wadogo wanapata kidogo kutoka ujuzi wa media unaosaidiwa na AI."** Kikundi kilichosaidiwa na AI kilionyesha **faida kubwa katika kusoma media (+3.50), kuandika (+1.67) na ujuzi wa jumla wa media (+5.17, zote p < .01)** ikiwa na ukubwa wa athari kati ya vikundi wa d = 1.12 au zaidi. Faida zilikuwa kubwa katika kundi hili la umri, si ndogo.
 
 - **"Uangalizi wa kiotomatiki unakubaliana na wakadiriaji wa binadamu kote."** Makubaliano yalikuwa **ya wastani kwa jumla (κ iliyopimwa = 0.681) lakini yalitegemea kipimo**: muunganiko ulidumu kwa kikoa cha **Msaada wa Kihisia** na kwa **Ubora wa Maoni**, na si mahali pengine. Kupima wastani juu ya vikoa huficha mahali kifaa kinashindwa.
-
-## Dhana Zinazohusiana
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Makala Zinazohusiana
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Nia ya tabia ya wakufunzi wa awali kutumia AI katika mipango ya watoto wadogo (Duan na wenzake 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: dhana za AI bila mtandao katika watoto wadogo
-- [[ai-toys-child-development-2026]] — Vitu vya kuchezea vinavyotumia AI na ukuzi wa mtoto
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Ufikiri wa kompyuta kupitia roboti katika shule za awali
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Ujifunzaji wa kibinafsi unaotumia AI katika sehemu za msingi
-- [[elementary-writing-genai-systematic-review-2026]] — Ufundishaji wa uandishi wa msingi katika zama za GenAI
-- [[awareness-technological-isomorphism]] — Kufanana kwa kiteknolojia katika hesabu ya msingi
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Kusimulia hadithi za roboti zinazotumia LLM na watoto
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Ukamilishaji wa Binadamu–AI katika ujifunzaji wa kihisia-kijamii wa awali (Raave na wenzake 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): mtaala wa ujuzi wa AI unaoelekea kucheza kwa awali na shule za awali (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — Programu ya ujuzi wa media mahususi inayotegemea AI kwa watoto
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kulinganishwa kwa mara ya kwanza kwa neuroimaging kwa watoto na watu wazima wanaozungumza na ChatGPT: mitandao ya kudhibiti-umakini-kumbukumbu iliyounganishwa kidogo katika watoto wa miaka 6-7
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong na wenzake 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — Ujuzi wa AI kwa wenyeji wa AI? Ulinganifu wa nchi nne
-- [[early-childhood-ai-holistic-competencies-review-2026]]: Kuunda utoto wa mapema katika zama za AI: uwezo, mbinu za kufundisha na msaada wa kiekolojia (Pei 2026)
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]]: Zana zinazosaidiwa na AI katika elimu ya lugha ya Kiingereza ya msingi: mapitio ya upeo wa kazi za kielimu na uratibu wa mwalimu

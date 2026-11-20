@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,32 +83,3 @@ CoIは[[online-teaching-and-learning|オンライン教育]]に由来し、今�
 **「プレゼンスはコホート全体に均等に分配される」** それは条件間ではなく*条件内*で分離します。**63名の中国の学部生（うち33名はGPT-4o miniチャットボットあり、30名はなし）**が5週間の課題にわたり共有された読み物に注釈を付けた準実験では、プレゼンスはグループの成績によって分かれました。高成績のグループは**2319件の注釈に対して1407件のフィードバック要求（60.7%）**を行ったのに対し、低成績のグループは**2167件に対して737件（34.0%）**でした。同じ道具へのアクセスが、フレームワークが測る社会的行動における既存の格差を再生産したのです。
 
 **「オンラインコースにチャットボットを加えることは、プレゼンスを加えることである」** それは配合を変えます。生成的AI下でのこのフレームワークの価値は、置換を可視にすることにあります。モデルによって満たされたプレゼンスは同じ構成概念の別の配置であり、コホートのデータはその置換が不均等に報いることを示しています。
-
-## 関連する構成概念
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## 関連する記事
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21件の研究のスコーピングレビュー：プレゼンスの証拠は不均等で、教育的プレゼンスが最も研究されておらず、設計の構成が成果を分ける（Doo & Park 2026）
-
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — 生成的AI支援下的ソーシャルアノテーションにおける学生の相互作用を解きほぐす：認知的プレゼンスと社会的プレゼンスの認識論的ネットワーク分析
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — 生成的AIの時代におけるCoIの再概念化
-- [[ai-communities-of-inquiry-2026]] — コミュニティ・オブ・インクワイアリにおけるAI
-- [[ai-online-education-engagement-satisfaction-2026]] — AIとオンライン教育のエンゲージメント
-- [[reflective-triangle-model-teacher-ai-2026]] — リフレクティブ・トライアングル・モデル：認知的媒介者としてのAI
-
-- [[llm-facilitation-timing-online-discussions]] — 人間対LLMのファシリテーター：モデルは専門の人間よりも熱心に介入する（Tsirmpasら 2026）
-

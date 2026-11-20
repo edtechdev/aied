@@ -191,8 +191,13 @@ def changed_slugs() -> list[str]:
                 ['git', 'ls-files', '--others', '--exclude-standard', '--', 'content/en/concepts']):
         out = subprocess.run(cmd, cwd=WIKI, capture_output=True, text=True).stdout
         paths.update(p for p in out.split() if p.endswith('.md'))
-    return sorted({os.path.basename(p)[:-3] for p in paths
-                   if os.path.exists(os.path.join(WIKI, p))})
+    slugs = {os.path.basename(p)[:-3] for p in paths
+             if os.path.exists(os.path.join(WIKI, p))}
+    # A connected-list-only migration does not touch the prose this gate judges.
+    import connected_migration
+    skip = connected_migration.migration_only_set(
+        [f'content/en/concepts/{s}.md' for s in slugs])
+    return sorted(s for s in slugs if f'content/en/concepts/{s}.md' not in skip)
 
 
 def main(argv: list[str]) -> int:

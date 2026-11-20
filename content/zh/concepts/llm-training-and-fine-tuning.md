@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -169,73 +171,3 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 - **"模型是学习增益的主要决定因素。"** 模型与提示的选择只解释了 LLM 与学生之间学习增益差距的**约 15%**。优化余下的 85% 才是工作所在，而它不在权重里。
 - **"本地模型会比托管模型差，所以检索是次要的杠杆。"** 在一项三配置的评估中，**检索而非模型才是首要的设计决定**：无检索的本地 LLM **准确率只有 52.3%，低于一个 TF-IDF 基线**。加入检索把同一模型推过了任何模型替换都不会单独达到的阈值。
 - **"训练数据更多就意味着教学行为更好。"** 那次改善格式却恶化反馈生成的评估微调，就是微型反例：针对一个看似相近的目标做优化，可能改善代理指标，同时损害你真正想要的东西。
-
-## 关联概念
-
-- [[llm]] — 这些模型是什么；本页是它们如何被造出来
-- [[ai-technologies]] — 总括概念：AI 技术与技术方法
-- [[rag]] — 检索，训练之前的那一步
-- [[prompt-engineering]] — 最便宜的杠杆，也是要打败的基线
-- [[reinforcement-learning]] — 后训练的 RL 阶段
-- [[intelligent-tutoring]] — 主要应用领域
-- [[adaptive-learning]] — 适配学习者，与适配模型有别
-- [[automated-assessment]] — 微调评分模型落地之处
-- [[automated-essay-scoring]] — 大部分评分证据来自的任务
-- [[ai-feedback-quality]] — 微调能修与不能修的
-- [[educational-nlp]] — 相邻的方法族
-- [[simulating-students]] — 同一机器的学习者侧应用
-- [[student-modeling]] — 模拟之下的建模层
-- [[open-source]] — 开放权重使本地微调成为可能
-- [[benchmark]] — 这些系统如何被评估，以及其局限
-- [[assessment-validity]] — 为何好指标仍可能是坏工具
-- [[pedagogical-safety]] — 训练不能保证的东西
-- [[ai-sycophancy]] — 后训练可以针对的一种行为
-- [[hallucination-risk]] — 微调治不了的失效模式
-- [[privacy]] — 对训练数据与遗忘的约束
-- [[human-in-the-loop-ai]] — 使自动化可负担的兜底
-- [[metacognition]] — 后训练的一个教学目标
-- [[scaffolding]] — 奖励函数试图编码的行为
-- [[ai-education]] — 这项工作所服务的领域
-
-## 关联文章
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL–SFT–RL 流水线：CDPK 上 96.52%，超越 Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — Gemini 后训练内部的教学指令遵循
-- [[teachlm-post-training-llms-education]] — 在 100,000 小时真实辅导数据上做后训练
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 分类法对齐的后训练，瞄准教学决策
-- [[swim-student-writing-simulation-2026]] — 相对量规提示的 SFT 与 GRPO，含奖励设计细节
-- [[misconception-acquisition-dynamics-llms-2026]] — 步骤级轨迹是误解训练的硬性要求
-- [[jeon-isd-agent-bench-2026]] — 横跨 25,795 个场景的理论落地教学设计代理
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — 把模型对齐为苏格拉底式引导者的启发式 RL
-- [[special-r1-rl-special-education]] — 面向特殊教育对齐的强化学习
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 用于个性化的 LLM 引导强化学习
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — 一个教学式大推理模型
-- [[omniedu-open-educational-foundation-models-2026]] — 每个样例一个目标行为，横跨模型规模
-- [[garrod-edu-qurating-educational-data-curation-2026]] — 为训练整理教育数据
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA 秩效应与每适配器参数增益
-- [[aiawe-automated-writing-evaluation]] — 规模未能预测成功的 LoRA 适配 AWE
-- [[llm-graders-computer-science-exams-2026]] — 在约 3,900 个样例上的一个适配器达到人类评分员水平
-- [[iks-instruct-dataset-indian-knowledge]] — 一个含 24,795 个样例的指令数据集与近零的基座基线
-- [[llm-children-reading-story-generation]] — 阅读水平控制的可控制性胜过规模
-- [[bert-discourse-english-teaching-2026]] — 微调哪些层，以及为何四层胜过十二层
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 是架构而非参数量决定微调是否奏效
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 蒸馏进一个带忠实度审计的 2B 模型
-- [[llm-unlearning-math-privacy]] — 对 PII 与有害内容做基于梯度的遗忘
-- [[reflection-level-classification-hungarian-essays-2026]] — 微调 transformer 对经典与嵌入基线
-- [[multimodal-item-parameter-estimation-2026]] — 从多模态题目学习 IRT 曲线
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 置信度路由作为人在环中的策略
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 检索作为第一序决定，并报告能耗与 VRAM
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 项研究：提示 13、微调 7、混合 3
-- [[gpt-item-generation-l2-listening-2026]] — 提示触顶，随后微调补上其余
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — 微调在评分上取胜、在反馈上失败
-- [[educational-llm-alignment]] — 模型与提示选择的约 15% 天花板
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 量规引导提示作为免训练的替代
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — 误解模拟的提示级人格控制
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 谄媚作为一项显式训练要求
-- [[contextual-sycophancy-ai-literacy]] — 挺过提示与对齐的谄媚
-- [[hazra-safetutors-pedagogical-safety-2026]] — 安全在持续对话中退化
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — 未训练前沿模型产出约 35% 不可用的提示
-- [[simulated-students-tutoring-dialogues-2026]] — 模拟学生是否表现得像学生
-- [[inside-llm-student-simulator-reasoning-2026]] — 微调模型使之像学生般行动与思考
-- [[history-aware-student-simulation]] — 条件设于学习者轨迹之上的模拟
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — 课程结构化的数据是样本高效的

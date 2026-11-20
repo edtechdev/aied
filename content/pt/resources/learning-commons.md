@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -49,12 +50,3 @@ Desenvolvedores que constroem funcionalidades de IA em produtos de currículo e 
 ## Notas e ressalvas
 
 Ser [[open-source|código aberto]] não torna os dados abertos. O código do Knowledge Graph e dos Evaluators é MIT e o das Agent Skills é Apache-2.0, enquanto cada conjunto de dados carrega seu próprio rótulo de acesso — Open, Open + Gated ou Gated — e o conteúdo Gated não é coberto pelas licenças abertas que o repositório cita, então verifique o catálogo de conjuntos de dados antes de presumir direitos de reutilização. O conteúdo dos prompts dos Evaluators é CC BY 4.0, mas os corpora anotados CLEAR e PERSUADE 2.0 que ele usa são CC BY-NC-SA 4.0. A plataforma e os conjuntos de dados por trás dela exigem uma conta.
-
-## Conceitos conectados
-
-- [[curriculum-design]] — o grafo existe para alinhar conteúdo gerado a padrões e currículos
-- [[open-source]] — código MIT e Apache-2.0 com licenciamento de dados por conjunto de dados
-- [[educational-nlp]] — os avaliadores são uma camada de medição de texto sobre a saída de LLM
-- [[agentic-ai]] — skills que empacotam um fluxo de trabalho para um modelo executar
-- [[edtech-platform]] — o Curriculum Sync carrega currículos em um sistema de gestão da aprendizagem
-- [[llm]] — o alvo da avaliação e o consumidor das skills

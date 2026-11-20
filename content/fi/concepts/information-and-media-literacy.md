@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -82,29 +84,3 @@ Yhdessä luettuina nämä kaksi puolta ehdottavat sääntöä: tekoäly voi kant
 ## Näytön rajoitukset
 
 Useimmat tämän sivun tutkimukset ovat pieniä, itsearvioituja tai molempia: 236 opiskelijaa yhdessä kyselyssä, 36 lasta yhdessä interventiossa, 412 kirjastonhoitajaa arvioimassa itseään. Bibliometrinen näkyvyys ei ole käytäntöä, ja scientometrian kirjoittajat sanovat sen suoraan. Mikään korpuksen tutkimus ei arvioi yhdistettyä informaatio- ja medialukutaidon opetussuunnitelmaa, ja käytäntökirjallisuuden suosittelemat tunnistin- ja faktantarkistustyökalut ovat näissä lähteissä suurelta osin mittaamattomia. Väitettä, että tekoälyvoimainen varmentaminen parantaa tuloksia, tulisi pitää suunnitteluhypoteesina, kunnes joku testaa sitä kontrollia vastaan.
-
-## Liittyvät käsitteet
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Liittyvät artikkelit
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Tekoälylukutaidon integroinnin kartoittaminen informaatiolukutaidon opetukseen akateemisissa kirjastoissa: systemaattinen katsaus nousevaan tutkimukseen
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Miten tekoäly muovaa uudelleen informaatiolukutaitoa akateemisissa kirjastoissa: globaali scientometrinen analyysi (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Tekoäly ja tiedonhaku: vertaileva tutkimus tekoälychatboteista, hakukoneista ja kirjastoresursseista tiedonlähteinä yliopisto-opiskelijoilla
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Tekoälytuetun seminaaripohjaisen oppimisalustan kehittäminen upotetulla kirjastonhoitajatuella
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Informaatiolukutaito avoimen pedagogiikan kautta: mikä on tekoälytyökalujen rooli?
-- [[huang-genai-academic-information-resources-2026]] — Generatiivinen tekoäly muovaa uudelleen yliopisto-opiskelijoiden akateemisten tietoresurssien kestävää käyttöä
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Akateemisten kirjastonhoitajien opiskelijasitoutuminen informaatiolukutaidon ja tekoälyopetuksen edistämiseksi nigerialaisissa korkeakouluissa
-- [[offem-ai-information-literacy-library-users-2026]] — Tekoäly työkaluna informaatiolukutaidon edistämiseksi kirjaston käyttäjillä
-- [[critical-media-literacy-education-2026]] — Teknologia, koulutus ja kriittinen medialukutaito: potentiaali, haasteet ja mahdollisuudet
-- [[demir-akar-ai-media-literacy-children-2026]] — Klikkauksista kriittiseksi ajatteluksi: tekoälypohjainen medialukutaidon ohjelma lapsille
-- [[ai-literacies-young-adults-2025]] — Tekoälylukutaitojen tukeminen 14–19-vuotiailla nuorilla aikuisilla

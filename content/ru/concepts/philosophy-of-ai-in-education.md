@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -39,7 +41,6 @@ ai_assist:
 Это концептуальная страница, посвящённая философским и теоретическим основаниям [[ai-education|AI in education]]. Если страница [[learning-theories]] описывает эмпирические и ориентированные на проектирование теории ([[behaviorism]], [[constructivist|constructivism]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|self-regulated learning]] и т. д.), то философское направление занимается онтологическими, эпистемологическими и этическими вопросами, которые эти теории предполагают. Оба направления тесно связаны: философские позиции определяют, какие теории обучения кажутся убедительными и какие образовательные цели стоят того, чтобы их преследовать.
 
 ### Ключевые философские вопросы
-
 
 - **Эмоциональный труд как пробный случай для машинного разума.** Споры области о том, может ли ИИ учить, часто упираются в вопрос, может ли он *заботиться*, — вопрос, обсуждавшийся задолго до появления [[affective-computing|аффективных вычислений]]. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] реконструирует дебаты 1950–1996 годов, в которых утверждение Зиффа, что буквально чувствовать могут только живые существа, было отвечено теорией тождества Смарта и поведенческим критерием Патнэма, оставив три конкурирующие онтологии неразрешёнными. Его вывод — бремя обоснования, а не притязание на невозможность: репрезентация, симуляция и мимикрия недоопределяют эмоциональный труд, — что возлагает бремя на любого, кто хотел бы делегировать пасторскую работу системе.
 
@@ -92,36 +93,3 @@ ai_assist:
 
 - Формулируйте представление об обучении, которое предполагает ваша оценка, потому что измеренный прирост является образовательным благом только относительно какого-то понимания того, для чего нужно образование.
 - Финансируйте философскую работу наравне с эмпирической: вопросы о том, что считать достижением учащегося, задают критерии успеха, которыми затем пользуются эмпирические исследования.
-
-## Связанные концепции
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Химическое образование и ИИ: лаборатории, формирующее оценивание, пределы LLM, философия эксперимента
-
-## Связанные статьи
-
-- [[genai-chinese-higher-education-integrity-2026]] — Генеративный ИИ в китайском высшем образовании: академическая честность и вовлечённость
-- [[ensemble-cognition-philosophy-ai-education]] — Ансамблевое познание: философская рамка для познания человека и ИИ
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Педагогический симбиоз и постчеловеческий учащийся
-- [[videla-embodied-ai-education-choreography]] — Воплощённая, посткогнитивистская критика развоплощённого ИИ в образовании
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Развитийно-критическая модель интерпретативного познания в гуманитарных науках
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Эпистемическая со-агентность как философия обучения с машинами
-- [[avraamidou-ai-colonization-science-education]] — Критико-феминистская философия, ставящая под вопрос колонизацию образования со стороны ИИ
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Генеративный ИИ как медиационный агент
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Экологическая рамка наук об обучении для генеративного ИИ
-- [[philosophy-experimentation-ai-chemistry-2026]] — Философия эксперимента в химии с ИИ
-- [[strydom-human-gai-paradigms-2026]] — Рамки динамики «человек — ИИ»: семь парадигм взаимодействия с GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Альтернативная философия ИИ: даосизм как метод для ИИ в образовании
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Кто действует, кто знает, кто отвечает? Корпусно-ориентированный дискурс-анализ агентности, эпистемической ответственности и подотчётности в исследованиях генеративного ИИ в высшем образовании
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — «Человеко-центричный» AIED как антропоцентрический дискурс с коммерческим применением (Wang & Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — Могут ли машины выполнять эмоциональный труд? Дебаты 1950–1996 годов и почему мимикрия недоопределяет заботу

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -104,7 +106,6 @@ Bassett et al. یہ نتیجہ نکالتے ہیں کہ AI کی پکڑ اُس م
 - **طلبہ پکڑ سے بچنے کے لیے اپنے کام کو بدلتے ہیں، صرف اپنے جوابات کو نہیں۔** رپورٹ دستاویز کرتی ہے کہ طلبہ جھوٹے الزام سے بچنے کے لیے اپنے جوابات کو مدھم کرتے ہیں، اور اساتذہ غیر رسمی فیصلے پر واپس چلے جاتے ہیں — جسے وہ AI-DAR کہتی ہے — جب مارکیٹنگ والے ڈیٹیکٹرز ناقابل اعتماد ثابت ہو جاتے ہیں ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]])۔
 - **ڈیٹیکٹر بند ہے، اور صرف وجدان باقی ہے۔** ایک ادارے میں سیشنل نشان زد کرنے والوں کا AI ڈیٹیکٹر اس لیے ختم ہو گیا کہ یہ گرامر چیک کرنے والے ٹولز کو نشان زد کرتا تھا، اور اُنہیں من گھڑت حوالہ جات (بیس میں سے انیس) اور کورس کے مواد سے بے ربطی پڑھنی پڑی ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]])۔
 
-
 ## پکڑ سے آگے: جانچ کا دوبارہ ڈیزائن
 
 علم بنیاد میں ایک اہم موضوع یہ ہے کہ پکڑ کو **ایک محدود، حالات پر منحصر ٹول — پہلے انتخاب کی حکمت عملی نہیں** ہونا چاہیے۔ [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] دلیل دیتے ہیں کہ نگرانی اور پکڑ **مسئلے کی غلط تشخیص** کرتی ہیں: AI کے توسط سے چلنے والی دنیا میں اصلیت کو پولیس کے ذریعے وجود میں نہیں لایا جا سکتا؛ اُسے نئے سرے سے ڈیزائن کرنا ہوتا ہے۔ وہ اصلیت کو اُس جگہ تعمیر شدہ تصور کرتے ہیں جہاں AI متوقع، اعلان شدہ اور جانچا ہوا ہو، اور ایسے ڈیزائن برائے سیکھنے کے نمونے دیتے ہیں جو شعبے سے آزاد ہوں اور AI کو نقل کی ایپلی کیشن کے بجائے ساتھی کارکن کے طور پر رکھیں۔ یہ پکڑ کو [[authentic-assessment]]، [[assessment-validity]]، [[responsible-assessment-ai-era-stanford-2026|ذمہ دار جانچ]] اور [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|شریک مصنفیت کی سالمیت]] سے جوڑتا ہے۔
@@ -136,54 +137,3 @@ Bassett et al. یہ نتیجہ نکالتے ہیں کہ AI کی پکڑ اُس م
 **"ڈیٹیکٹر جس سوال کا جواب دیتا ہے وہ یہ ہے کہ تحریر انسانی ہے یا AI۔"** یہ دو رخی تقسیم صرف حساب کرنا مشکل نہیں بلکہ تصوراتی طور پر معیوب ہے۔ تحریری معاونت ایک تسلسل پر موجود ہے، بیشتر اداروں کی پالیسی اُس کا کچھ حصہ اجازت دیتی ہے، اور نتیجے کے سکور پر کوئی حد کسی قابل دفاع سرحد سے مطابقت نہیں رکھتی۔ ناپی گئی ناکامی پالیسی کی ناکامی ہے: جو درجے ڈیٹیکٹرز وعدہ کرتے ہیں وہ اُس کام میں موجود ہی نہیں جو طلبہ واقعی جمع کراتے ہیں۔
 
 **"پکڑ کا نظام سالمیت کی حفاظت کرتا ہے۔"** یہ اُسے کمزور کر سکتا ہے۔ پکڑ شک کا ماحول پیدا کرتی ہے جو طلبہ اور عملے کے درمیان [[trust]] کو کھاتا ہے، اور یہ کارپس جس [[academic-integrity|سالمیت]] کا ادب رپورٹ کرتا ہے وہ دیرپا لیورز کو پولیسنگ کے بجائے جانچ کے دوبارہ ڈیزائن میں رکھتا ہے۔ ہتھیاروں کی دوڑ کا طریقہ کار یہ بھی بتاتا ہے کہ نظام زیادہ خرچ کرتا رہتا ہے جبکہ کم ناپتا ہے: تدوین کی شدتوں پر بنیادی نشان زدگی کی شرحیں **0.0% سے 100.0%** تک پھیلی ہوئی تھیں، جو امتیاز کا کوئی سگنل نہیں۔
-
-## منسلک تصورات
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## منسلک مضامین
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 humanizer سائٹس جائز ہونے کا مظاہرہ کرتی ہیں: پکڑ اور بچاؤ ایک ہی تجارتی منڈی کے طور پر (Roe et al. 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — ایک مفروضہ کہ نفاذ رویے پر نہیں بلکہ علمی سرمائے پر فلٹر کرتا ہے
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — آٹھ LLMs چھ نقل مخالف تکنیکوں کی درجہ بندی کرتے ہیں؛ AI کی پکڑ سب سے آخر آتی ہے
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — بیس نشان زد کرنے والے وجدان، مردہ ڈیٹیکٹرز اور من گھڑت حوالہ جات پر
-- [[tench-ai-policy-isnt-a-playbook-2026]] — AI پالیسی کی کوریج، ایجنسی اور پانچ کلاس روم ڈراموں پر امریکی اساتذہ اور پرنسپلز کا قومی نمائندہ سروے (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — AI کے دور میں جائزہ
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: اویکت پرامپٹ بحالی ڈیٹیکٹر
-- [[ivory-psychology-assessment-integrity-2026]] — پکڑ غلط لیور ہے: پاس کی حد نے طے کیا کہ AI کے کام کو کامیابی کے طور پر نمبر دیا جائے گا یا نہیں (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — LLM سے پیدا شدہ مواد کی پکڑ کے لیے LLMs کا جائزہ
-- [[beyond-detection-authentic-assessment-ai-2025]] — پکڑ سے آگے: مستند جانچ
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — شریک مصنفیت کی سالمیت اور جانچ کی صداقت
-- [[student-rationalization-ai-writing]] — AI تحریر کا طالب علم کی طرف سے جواز
-- [[socially-fluent-ai-identity-detection]] — سماجی طور پر رواں AI شناخت کی پکڑ
-- [[ssaho-ai-academic-integrity-review-2025]] — AI پر مبنی سرقہ/AI مواد کی پکڑ کی معتبریت کا جائزہ
-- [[bassett-ai-detectors-education-2026]] — ہم جیتیں تو کیا، ہاریں تو کیا: تعلیم میں AI ڈیٹیکٹرز (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — ڈیٹیکٹر کا نتیجہ بدانتظامی کے فیصلے کی بنیاد کیوں نہیں بن سکتا
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — پکڑنے کی شرح کے بجائے امتیاز، اور نگرانی کب اُلٹا نقصان دیتی ہے
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192 متنوں پر Turnitin اور Originality: دونوں میکرو F1 0.55 سے نیچے اور ہائبرڈ تحریر پر تقریباً بیکار
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 160 ground-truth مقالوں کے خلاف چار ڈیٹیکٹرز؛ صرف Pangram کارآمد رہا، پھر بھی زندہ مقالات کے 45.5% کو نشان زد کیا
-- [[munoz-misconduct-allegation-evidence-2026]] — ڈیٹیکٹر کا نتیجہ 1,162 حقیقی بدانتظامی کیس فائلوں میں سب سے کم درجہ پانے والا ثبوت
-- [[wright-transcription-not-generation-2026]] — "AI استعمال" کے مکمل قواعد نقل نگاری کو تخلیق سے خلط ملط کرتے ہیں
-- [[sharma-judgment-visible-genai-assessment-2026]] — پکڑ کو نظر آنے والے فیصلے کے پیچھے ایک ضمنی تہہ تک گھٹا دیا گیا
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — پکڑ بطور مشروط اشارہ، اور حفاظتی ردعمل construct سے غیر متعلق تغیر کیوں بڑھاتے ہیں (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI سے لکھے گئے داخلہ مضامین وسیع ہیں مگر سزا پاتے ہیں
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — نو قابل تشریح اسلوبی خصوصیات: ROC-AUC 0.870 مگر 18 میں سے چار آزادانہ لکھی گئی دستاویزات نشان زد (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — ایک انسانی مخطوطہ، پانچ ڈیٹیکٹرز، "0% human" سے "Human Generated" تک درجہ بندیاں، ساتھ پکڑ سے دستاویز شدہ اداراتی پسپائی (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: جنریٹو AI کے دور میں علمی سالمیت
-- [[student-llm-code-detection-cs1-2026]] — LLM کوڈ سختی سے محدود اسائنمنٹس پر متحد ہوتا ہے (فی 1,000 فائلوں پر 1-14 AST شکلیں) مگر آزاد کاموں پر نہیں - پکڑ کی صلاحیت کام کے ڈیزائن کی پیروی کرتی ہے
-- [[kazakh-ai-text-detectors-2026]] — غیر جانچا یا جھوٹا الزام زدہ؟ قازق پر AI سے پیدا شدہ متن کے ڈیٹیکٹرز کا جائزہ

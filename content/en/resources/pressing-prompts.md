@@ -19,6 +19,7 @@ audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 **Pressing Prompts** is an openly accessible teaching resource for higher education instructors who want to run critical conversations about AI. Thirteen topics sit in three clusters — *Trust and Truth* (can we trust AI, bias, disinformation), *Power and Access* ([[sustainability|sustainability]], hidden labor, the [[digital-divide|AI divide]], copyright) and *Self and Society* (whether AI harms [[critical-thinking|critical thinking]], privacy and surveillance, companionship and sycophancy).
@@ -28,8 +29,3 @@ Each topic carries a framing question, conversation starters, structured activit
 
 ## Where it came from
 It began at Duke University in 2024–2025 as the AI Ethics Learning Toolkit, co-designed by undergraduates, librarians, faculty and technologists across the Center for Teaching and Learning and Duke Libraries, and relaunched after feedback and redesign by Hannah Rozear, Remi Kalir and Aria Chernik.
-
-## Connected Concepts
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

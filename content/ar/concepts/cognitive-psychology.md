@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -74,7 +76,6 @@ ai_assist:
 
 تجربة من 2026 تُعطي جانب الذاكرة من ذلك الحدّ نمط فشل ملموساً. فلم يتعرّف إلا 44.8% من 328 بالغاً قرأوا ملخصاً مضللاً من الذكاء الاصطناعي لاحقاً على تفصيل في فيديو بشكل صحيح، مقابل 83.6% ممن قرأوا ملخصاً متسقاً. ولم يُحدث وسم الذكاء الاصطناعي أو الإنسان فرقاً، ولا الثقة المبلَّغ عنها في الذكاء الاصطناعي ([[sim-ai-summary-memory-distortion-2026|سيم وإيغر وكوهنو، 2026]]). وهذه ذاكرة مصدر لا تعلّم صفّي، لكن ملخصاً طليقاً يستطيع محو سجل المتعلّم عن المصدر، وهذا يهم للدراسة والتقويم.
 
-
 ## مدلولات التصميم والبحث
 
 1. **صمّم للاستدماج لا للأداء فحسب.** ينبغي تقييم AIED الإدراكية على ما إذا كان المتعلّم يستطيع استرجاع المعرفة وتطبيقها *بلا* الأداة — لا على الأداء المعان. وهذا هو [[ai-misuse-learning-harm|فجوة الأداء–التعلّم]] وهو مبرر قياس [[transfer-of-learning|النقل]] غير المعان.
@@ -87,41 +88,3 @@ ai_assist:
 - **«التمثيلات الذهنية غير قابلة للملاحظة، فادعاءات الإدراكية عن التعلّم افتراضات.»** وجد إعادة بناء الصور من **تخطيط أدمغة (EEG)** المتعلّمين أثناء فيديوهات علمية أن **أمانة التمثيل تتبعت أداء الاختبار** (معامل انحدار **0.8481، R² = 0.79**). ففرض الإدراكية القائل بالتمثيل الداخلي قابل للقياس، وقد تنبّأ القياس بالنتيجة.
 - **«R² المرتفع يعني أن التمثيل يفسّر التعلّم.»** R² = 0.79 ارتباط قوي بين الأمانة والأداء على المادة نفسها. وهو لا يثبت أن رفع الأمانة يرفع الأداء، وهذا هو ادعاء التدخل.
 - **«مكونات المعرفة خيال نمذجي مريح.»** قابلية التفكيك هي ما يجعل [[knowledge-tracing]] و[[cognitive-diagnosis]] ممكنين، وتعمل الطريقتان بمقدار صحة هذا الفرض. فمعاملته كخيال تُسقط سبب إنتاج الطريقتين تقديرات قابلة للاستخدام — ومعاملته كحقيقة تبالغ في ما يخبرك به نموذج مُلائَم عن عقل.
-
-## المفاهيم المرتبطة
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — نتائج الاحتفاظ التي تستند إليها عائلة الممارسة هذه
-
-## المقالات المرتبطة
-
-- [[sim-ai-summary-memory-distortion-2026]] — ملخصات الذكاء الاصطناعي المضللة غيّرت ما تذكّره البالغون، بصرف النظر عن وسم الملخص كذكاء اصطناعي أو بشري
-
-
-- [[cognitive-shift-ai-education]] — التحول المعرفي في تعليم الذكاء الاصطناعي
-- [[cogtax-cognitive-taxonomy]] — تصنيف معرفي لاستخدام الذكاء الاصطناعي
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — وكلاء نماذج لغة كبيرة تربوية مرتكزة في تتبع المعرفة
-- [[nie-personavlm-long-term-personalization-2026]] — نمذجة طلاب نموذج اللغة الكبيرة والذاكرة
-- [[ai-cognitive-partner-co-regulation-learning]] — الذكاء الاصطناعي كشريك معرفي في التعلّم المنظَّم المشترك
-- [[ensemble-cognition-philosophy-ai-education]] — الإدراك الجماعي: التفكير كتفاعل بين الإنسان والذكاء الاصطناعي
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — تنظيم الجهد لا مقداره هو ما تتبّع الحمل والإحباط
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — مزاعم الإتقان من تتبّع المعرفة تعتمد على كيفية إسناد العمل المدعوم (سريفاستافا 2026)
-

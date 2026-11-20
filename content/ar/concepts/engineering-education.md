@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -86,37 +88,3 @@ ai_assist:
 - **«تبنّي الذكاء الاصطناعي لدى طلاب الهندسة مشكلة قبول تقنية.»** يدمج [[socio-cognitive-genai-adoption-engineering-2026|Asag وAl Mamun]] نموذج قبول التقنية مع [[technology-acceptance-model|UTAUT]] لنمذجة تبنّي طلاب هندسة بنغلاديشيين، **مفسّرين 64% من** التباين — فحصة معتبرة تقع خارج بنى القبول، في عوامل اجتماعية ومعرفية لا يغطيها النموذج.
 - **«يستخدم الطلاب الذكاء الاصطناعي فيما هو أفضل فيه.»** وجد [[ai-engineering-education-balancing-act|Kudina (2026)]] أن **100 طالب هندسة** قدّروا النماذج اللغوية الكبيرة أكثر ما قدّروها لـ**دعم الكتابة**، لا للاستدلال الهندسي. فاستعاراتهم للأداة تجاوزت ما قدّمته، واستخدامهم الفعلي تبع الملاءمة لا القدرة.
 - **«مجموعة أدوات أغنى تحسّن مخرجات التصميم.»** في استوديو تصميم معماري يضم **27 طالبًا**، أظهرت الفرق التي استخدمت خط أنابيب ذكاء اصطناعي توليدي مع [[virtual-and-augmented-reality|الواقع الموسّع]] **كفاءة ذاتية منخفضة دون منتج محسّن**. فغنى الأدوات قد يكلّف الثقة بينما يترك المصنوع على حاله.
-
-## المفاهيم المتصلة
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## المقالات المتصلة
-
-- [[mechanical-engineering-ai-curriculum-2026]] — منهج تعليم الذكاء الاصطناعي القائم على المشاريع في الهندسة الحرارية
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — استعارات أعضاء هيئة التدريس في الهندسة تبني (وتُقيّد) فهم الذكاء الاصطناعي
-- [[tam-critical-use-genai-engineering-2026]] — نموذج قبول تقنية مُوسّع بالاستخدام النقدي لطلاب الهندسة/علوم الحاسوب
-- [[socio-cognitive-genai-adoption-engineering-2026]] — نموذج اجتماعي معرفي موحّد لتعليم الهندسة (بنغلاديش)
-- [[ethical-use-ai-engineering-education-review-2026]] — الاستخدام الأخلاقي للذكاء الاصطناعي في تعليم الهندسة: مراجعة منهجية
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — إطار متعدد الوسائط للإدراك المتجسّد في التفسيرات الشفهية
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — الذكاء الاصطناعي ومستقبل القوة العاملة الهندسية والحاسوبية
-- [[apostolakis-trusstutor-bench-statics-2026]] — معيار الاستاتيكا: الحل وكشف الأخطاء يتشبّعان، ومقاومة الاعتراض لا
-- [[ai-engineering-education-balancing-act]] — استخدام الذكاء الاصطناعي في تعليم الهندسة: عمل موازنة
-- [[structured-ai-demonstrations-engineering-mechanics]] — عروض ذكاء اصطناعي مبنية في ميكانيكا الهندسة
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT في تعليم الهندسة
-- [[liu-ai-sustainable-engineering-education-2026]] — إطار AI-SEE لتعليم هندسة مستدامة (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — الذكاء الاصطناعي التوليدي والواقع الممتد في تعليم التصميم المعماري التعاوني: دراسة استوديو استكشافية

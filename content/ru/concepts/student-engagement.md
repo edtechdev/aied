@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -72,7 +74,6 @@ ai_assist:
 
 - **Вовлечённость, поток и эмоциональный интеллект росли вместе на занятиях музыкой с ИИ.** Пять волн в течение семестра с 850 студентами бакалавриата показали средний рост всех трёх, с корреляциями наклонов 0,39 между вовлечённостью и потоком и 0,22 между вовлечённостью и эмоциональным интеллектом; рост потока нёс связь с эмоциональным интеллектом ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]).
 
-
 ### Измерение вовлечённости: проблема выбора метрики
 
 Вовлечённость операционализируется через ряд наблюдаемых сигналов. **Поведенческие метрики** измеряют, что учащиеся *делают* (время на задании, счётчики активности, частота взаимодействия, настойчивость); **когнитивные метрики** измеряют, как учащиеся *мыслят* (глубина обработки, критическое вовлечение, анализ дискурса); **аффективные метрики** измеряют, как учащиеся *чувствуют* (эмоции, мотивация, интерес); а **контекстуальные метрики** фиксируют многозадачность и внимание. Исследование ИИ в образовании всё чаще сочетает их и трактует вовлечённость как опосредующий механизм между проектированием инструмента ИИ и [[learning-gains|результатами обучения]], а не как результат сам по себе.
@@ -81,9 +82,7 @@ ai_assist:
 
 Выбор метрики является определяющим: исследование, измеряющее вовлечённость как *время на задании*, может заключить, что инструмент ИИ усиливает вовлечённость, когда студенты проводят больше времени во взаимодействии с ним, тогда как исследование, измеряющее вовлечённость как *критическую обработку*, может прийти к противоположному заключению для того же инструмента. Именно поэтому исследование базы знаний различает вовлечённость (участие) и обучение (фактический когнитивный прирост) — см. [[genai-performance-vs-learning|результативность против обучения]], — и почему метрики вовлечённости должны валидироваться относительно того, что они заявляют измерять.
 
-
 **Самоотчёт и поведенческие записи одного и того же использования могут расходиться почти полностью.** Keith, Wood и Posey (2026) измерили режимы вовлечённости с ИИ дважды у одних и тех же 171 студента: один раз инструментом самоотчёта из 29 пунктов, другой — классификацией 1 353 реплик расшифровок. Ни одна парная корреляция профилей не выжила после поправки при |r| ≥ 0,30, среднее расстояние полной вариации составило 0,701 и было лишь на 0,002 ближе случайного переспаривания, а поведенческая композиция повышала объяснённую дисперсию на 0,166 против 0,031 для самоотчёта; только наблюдаемые профили отслеживали баллы за тесты, где ходы, ищущие объяснения, сопровождались более высокими баллами (r = 0,33, p < 0,001) ([[eight-mode-ai-engagement-typology-2026]]). Самоотчёт о том, как студент вовлечён, почти не нёс информации о том, как этот студент вовлекался на самом деле, что делает предупреждение о выборе метрики выше измеренным результатом, а не оговоркой.
-
 
 - **Вовлечённость как хрупкий, ситуационно-зависимый сигнал:** [[polished-artifacts-fragile-engagement-2026|Отполированные артефакты, хрупкое вовлечение]] и [[genai-tutor-engagement-patterns|паттерны вовлечённости в нескольких институтах]] обнаруживают, что вовлечённость различается по контексту, заданию и учащемуся — один и тот же инструмент производит сильное вовлечение у одних студентов и поверхностное, погоню за выдачей поведение у других.
 
@@ -105,11 +104,9 @@ ai_assist:
 
 Систематический синтез [[higher-ed|ИИ в высшем образовании]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) подчёркивает, что **[[teacher-role|метод преподавания]], в который встроен инструмент ИИ, является решающим посредником** того, вовлекает ли он студентов. Чат-боты, адаптивные системы и предсказательная аналитика усиливают вовлечённость наиболее сильно, когда они развёртываются внутри интерактивных педагогик — перевёрнутых классов, [[project-based-learning|проектного обучения]] и скаффолдингированных петель [[feedback|обратной связи]], — а не как автономные инструменты. Обзор формализует это как **модель PMAISE** ([[pedagogy|Педагогическое]] опосредование ИИ для вовлечённости студентов), отображая соответствие между [[ai-technologies|технологиями]] ИИ, педагогическими стратегиями и аффективным, поведенческим и когнитивным измерениями вовлечённости. Следствие состоит в том, что результаты вовлечённости совместно производятся инструментом *и* окружающим [[learning-design|проектированием обучения]]: тот же ИИ может усиливать вовлечённость в одной педагогике и подавлять её в другой.
 
-
 Двумерный взгляд делает ту же мысль со стороны обучения. Рамка согласования строгости и приверженности (Rigor–Commitment Alignment Framework) Аль-Нафджана рассматривает вовлечённость при GenAI как совместно определяемую тем, насколько требовательна задача и насколько преподаватель привержен обучению студентов, и предсказывает четыре конфигурации ([[al-nafjan-genai-eap-writing-engagement-2026]]). Слабая строгость при слабой приверженности (Neglectful) и слабая строгость при сильной приверженности (Indulgent) обе оседают в поверхностном использовании, поскольку ничто не обязывает студента оценивать или обосновывать то, что произвёл инструмент. Высокая строгость при тонкой поддержке (Punitive), как предполагается, толкает студентов к сокрытию, а не к ответственному использованию, и только высокая строгость с высокой поддержкой, как предполагается, даёт глубокую, агентную вовлечённость.
 
 Несущее утверждение рамки — усиление, а не причинность. Различия между четырьмя конфигурациями должны расширяться по мере того, как GenAI становится легко доступным, оценивание вознаграждает конечный продукт, а процессы сочинения остаются невидимыми, поэтому инструмент усиливает условия, которые задача и преподаватель уже задали, а не создаёт паттерны вовлечённости сам. Аль-Нафджан указывает, что рамка является пропозициональной и непроверенной, что делает четыре профиля ожиданиями, ждущими эмпирической проверки, а не наблюдёнными эффектами.
-
 
 ### Связи с родственными концепциями
 
@@ -155,72 +152,3 @@ ai_assist:
 
 - Указывайте измерение и инструмент и избегайте голого существительного. Учитывая, что самоотчёт и журналы расходятся, «вовлечённость выросла» требует своей операционализации в том же предложении.
 - Не выводите достижения из аффекта. Расщеплённый результат кластерно-рандомизированного исследования — образец для отчёта об обоих, включая нулевой.
-
-## Связанные концепции
-- [[learners]] — Learners: зонтичное понятие для концепций со стороны учащегося
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry (агентное вовлечение как измерение CoI)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Зонтик: люди и аудитории в сфере ИИ в образовании (учащиеся, преподаватели, проектировщики, администраторы, разработчики политики)
-- [[self-report-measures]]
-- [[productive-failure]]
-
-- [[reflection]]
-
-
-## Связанные статьи
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Грамотность в обратной связи ИИ и агентное вовлечение: трёхволновая панель со случайным перехватом (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Отстранённое разговорное поведение и обучение в диалогах студента с ИИ (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Практика с голосовым ИИ до занятия повысила добровольный вклад в класс примерно на ~31%, но только после второго использования (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Использование ИИ коррелировало с большим числом пропусков занятий, тогда как самоэффективность этого не предсказывала, при доминирующем корреляте в виде влияния ровесников (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Когда университеты продвигают GAI, но практика отстаёт: оценки студентов и вовлечение в творческий процесс в искусствоведческом образовании
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — ЭЭГ, отслеживание взгляда и EDA, ограниченные головой, предсказывают пятиуровневые оценки вовлечения, тогда как собственные определения учащихся сдвигают отображение (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — ИИ в высшем образовании: систематический обзор вовлечённости и опосредующей роли методов преподавания
-- [[genai-motivation-engagement-2026]] — Влияние генеративного ИИ на мотивацию и вовлечённость студентов
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: измерение критического вовлечения в дополнении кода с помощью ИИ
-- [[icap-cognitive-engagement-llm-agents]] — Измерение когнитивного вовлечения в совместном дискурсе
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: паттерны в нескольких институтах
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — «Why Put in This Much Effort?»: как доступность ИИ формирует мотивацию
-- [[genai-performance-vs-learning]] — Различение приростов результативности и обучения
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: прогнозирование усилий и прогресса
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Взаимодействия характеристик учащегося × формата диалога с TTS
-- [[wang-goal-setting-ai-engagement-2026]] — Теория постановки целей: поддержка преподавателя, цели достижения и вовлечение в обучении английскому с помощью ИИ (758 китайских студентов)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Компетентность в GenAI и эмоция как драйверы вовлечения с чат-ботом (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Связанное с дисциплиной когнитивное вовлечение по уровням Блума в разговорах студентов с ИИ (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Приросты вовлечения в конкретных измерениях на начальном уровне (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Когнитивное и поведенческое вовлечение выше, аффективное вовлечение неизменно в погружающейся студии PBL на VR (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Кластерно-рандомизированное исследование в средней математике: ситуационный интерес вырос с персонализированным чат-ботом, тогда как результаты теста — нет (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — ИИ-грамотность движет вовлечённостью напрямую и через психологический капитал, усиливаемый профессиональной приверженностью (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: тьюторство с ИИ и человеческое дают эквивалентные приросты в обучении на GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Доступ к ИИ-тьютору снизил зафиксированное участие на платформе на 0,90 стандартных отклонений, тогда как сдача домашних заданий осталась стабильной (Liu et al. 2026)
-
-- [[eight-mode-ai-engagement-typology-2026]] — Самоотчётные и наблюдаемые профили вовлечённости с ИИ не соответствовали друг другу, и только поведение отслеживало баллы за тесты (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Четыре предсказанные конфигурации вовлечённости при GenAI и почему инструмент их усиливает
-

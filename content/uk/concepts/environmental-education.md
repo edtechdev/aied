@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -89,29 +91,3 @@ ai_assist:
 - **«ШІ в екологічній освіті переважно постачає інформацію».** Виміряні здобутки стосуються **прийняття рішень**: студенти, які працювали з партнером-ШІ в структурованому [[inquiry-based-learning|дослідницькому]] завданні, перевершили однокурсників з однією лише дослідницькою діяльністю (**d = 0,69**) і традиційним навчанням (**d = 1,88**) за мірою прийняття рішень, причому здобутки **концентрувалися на найслабших кроках**. Ефект полягає в якості міркування — у тих точках, де студенти були найслабшими.
 - **«Дослідницька діяльність сама по собі є діючою речовиною».** Дослідницька діяльність із підтримкою ШІ **покращила прийняття кліматичних рішень порівняно з виключно дослідницькою діяльністю**, тож внесок ШІ був додатковим до педагогічної структури, а не взаємозамінним із нею.
 - **«Великі ефекти з малих вибірок усе одно великі ефекти».** [[learning-design|Проєктування навчання]] з підтримкою ШІ в межах педагогіки сталого розвитку **покращило плани занять майбутніх викладачів із d = 2,80 на 28** учасниках — власне слово оглядачів — *неправдоподібно великий*, і ефект такого розміру на такій вибірці варто трактувати як сигнал, а не оцінку.
-
-## Пов’язані поняття
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Пов’язані статті
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Відокремлює ШІ для сталого розвитку від сталого ШІ; прогалина Глобального Півдня
-- [[ai-assisted-inquiry-ssi-climate]] — Кліматична дослідницька діяльність зі ШІ, d = 0,69 порівняно з однією лише дослідницькою діяльністю
-- [[aied-carbon-footprint-reporting]] — Огляд розкриття інформації в AIED 2025 плюс метод визначення сліду з відкритим кодом
-- [[llm-environmental-impact-student-usage-2026]] — Екологічний зворотний зв’язок щодо компромісів між затримкою та вуглецем у 89 студентів-інформатиків
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Локальний квантований асистент із 1,8 мВт·год на запит
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: свідомість сталого розвитку в інженерній освіті
-- [[riandi-teacher-ai-green-energy-education-2026]] — Практичне використання ШІ та розробка матеріалів ESD передбачають інтеграцію
-- [[talebzadeh-ai-green-education-2026]] — Дизайн із підтримкою ШІ в межах обмежень педагогіки сталого розвитку
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Внесок ШІ в сталу освіту як опосередкований управлінням
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — «Стале навчання» як тривала когнітивна агентність, а не твердження про довкілля

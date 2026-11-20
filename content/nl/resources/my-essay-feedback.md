@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -47,12 +48,3 @@ Docenten schrijfonderwijs in het eerste jaar en Engelstalige vakgroepen die AI-f
 ## Notities en kanttekeningen
 
 De site meldt meer dan 12.000 studenten, meer dan 700 cursussen en meer dan 41.000 beoordeelde essays — cijfers van de leverancier, geen onafhankelijke audit. FERPA-naleving, GDPR-gereedheid en toegankelijkheid zijn eveneens claims van de leverancier; essays lopen via Azure OpenAI, en de site stelt dat ze niet worden gebruikt om modellen te trainen, wat een district in de verwerkersovereenkomst zou moeten bevestigen en niet van de marketingpagina moet overnemen. De prijsstelling is freemium en verschilt per doelgroep: een gratis eerste termijn voor nieuwe docenten (op aanvraag, beperkt tot drie per school), daarna ongeveer \$12–15 per student per termijn, en een betaalde laag per beoordeling voor individuele studenten met de eerste beoordeling gratis. De vergelijkingstabel met ChatGPT Plus, Packback en Grammarly is die van de leverancier zelf. Een samenwerking met UC Davis rond het PAIRR-project is een onderzoekssamenwerking, geen gepubliceerd bewijs dat het platform het schrijven verbetert.
-
-## Gerelateerde concepten
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

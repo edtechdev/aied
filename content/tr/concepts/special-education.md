@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,7 +50,6 @@ ai_assist:
 **Öğrenme güçlüğü olan öğrenciler (SWLD) için bilişsel yük aktarımı.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], öğrenme güçlüğü olan öğrenciler için YZ konulu bir *Learning Disability Quarterly* özel serisinde yer alan kavramsal bir inceleme; SWLD’ler için [[generative-ai|GenAI]] kullanımını [[cognitive-offloading]] merceği yoluyla yeniden çerçeveler. Aktarım kararlarının SWLD’lerin bilişsel ve [[motivation|güdüsel]] profilleriyle (yürütücü işlev ve çalışma belleği zorlukları, yüksek bilişsel yük, çabadan kaçınan performans hedefleri, daha düşük akademik öz yeterlik ve GenAI’ye yönelik aşırı beklentiler) ve öğretim tasarımıyla nasıl etkileştiğine bağlı olarak GenAI’nin **telafi edici bir yardım ya da bir kısayol** olabileceğini savunurlar. Okuma ve yazma için GenAI erişimi iskeleyebilir (metin düzeylendirme, özetleme, [[multimodal]] çıktılar, planlama, taslak yazma, revizyon geri bildirimi) ve üst düzey [[student-engagement|katılımı]] korurken — ancak aşırı aktarım, bu öğrenenler için hâlihazırda kırılgan olan anlama, planlama ve izleme süreçlerini atlamak riskini taşır; “[[metacognition|üstbilişsel]] tembellik” besler ve okuryazarlık güçlüklerini alanlar arasında derinleştirir. Makale **öğretimsel [[guardrails]]** temel dengeleyici etken olarak konumlandırır ve stratejik aktarımı [[teacher-role|öğretmeyi]], araç güvenini kalibre etmek için [[ai-literacy]] inşa etmeyi, [[self-efficacy]] geliştirmek için ustalık deneyimlerini sıralamayı ve görevleri ile değerlendirmeyi, beceri gelişimini ikameden önce alan IEP hedefleriyle hizalamayı önerir. Bu, bilgi tabanının özel eğitim kapsamını aktarımın eşitlik boyutuna taşır: korunmadığı takdirde erişim engellerini düşüren aynı araç, SWLD’lerin en çok ihtiyaç duyduğu uygulamanın yerine geçebilir.
 **YZ tarafından üretilen müdahale içeriği, yalnızca inceleme değil üretim öncesi denetimler gerektirir.** [[adapted-stories-social-story-intervention-2026|Enkhjargal ve ark. (2026)]], uygulayıcıların ortak tasarlanmış Sosyal Hikâye aracını oldukça kullanışlı bulduklarını (SUS 86,8) ama görsellerini jenerik olarak Batı merkezli, davranış izleyicisini ise hedefe bağlı klinik muhakemeye uymayan bulduklarını — bunları üretimden önce koyacakları kısıtlar olarak nitelendirdiklerini — bulmuştur.
 
-
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] konuşmadan değil materyallerden başlar: bir görsel-dil modeli, hedefin nesnelerde görünür olması için tasarlanmış Shoebox Tasks fotoğraflarını okur ve bunları bir Nao insansı robotunun yürüttüğü ya da gösterdiği bir plana dönüştürür; altı görev boyunca plan doğruluğu bildirilir ve hiçbir öğrenen verisi kullanılmaz.
 
 - **Zorlayıcı davranış, öğretmen [[benchmark|kıyaslamalarının]] durduğu yerdir.** Özel eğitim ve eğitim psikolojisi literatüründen derlenen 923 vakaya dayalı diyalogda 11 modelin en iyisi, açık uçlu vakaların %55,8’inde ve uzun vadeli planların %43,3’ünde belgelenmiş bir müdahaleyi karşılamıştır ([[tutor-case-bench-challenging-behaviors-2026|Park ve ark. (2026)]]).
@@ -69,34 +70,3 @@ ai_assist:
 - **“Genel kıyaslamalar bir öğretmenin özel eğitim vakalarını nasıl ele aldığını söyler.”** Özel eğitim ve eğitim psikolojisi literatüründen derlenen **923 vakaya dayalı diyalogda 11 modelin en iyisi** belgelenmiş bir ölçütü karşılamıştır ve **bir öğretmen kıyaslamasının kapsadığının sınırı budur**. Standart değerlendirmeler, uygulayıcıların en çok yardıma ihtiyaç duyduğu vakalara ulaşmaz.
 
 - **“Nöroçeşitli öğrenenler uyarlamalara ihtiyaç duyar, tasarım gerekliliklerine değil.”** [[neurodivergent-computing-students|Zastudil ve ark.]], nöroçeşitli bilişim öğrencilerinin **yapılandırılmış ödevlere, küçük ve tutarlı takımlara ve açık rol tanımlarına** ihtiyaç duyduğunu bulmuştur; bunlar herkese yarar sağlayan genel tasarım gereklilikleridir, tanı sonrası verilen bireysel uyarlamalar değil.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Bağlı makaleler
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: YZ öğretmenlerini zorlayıcı davranışlar gösteren öğrenciler üzerinde değerlendirmek (Park ve ark. 2026)
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Bir görsel-dil modeli bir Nao robotu için Shoebox Tasks planlıyor (Kudláčková 2026)

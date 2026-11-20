@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -117,53 +119,3 @@ TPACK ist der organisierende Rahmen für die Lehrkraftseite der Evidenzbasis. Er
 - **„TPACKs Dominanz spiegelt seine Erklärungskraft.“** Diese Dominanz ist **teils ein Retrieval-Artefakt**: In einem PRISMA-Scoping-Review von **195 technologiegestützten Studien zur Lehrkräftebildung** dominieren digitale Kompetenz, TPACK und DigComp **die indexierte Literatur**. Prävalenz in einer Suche ist eine Eigenschaft des Vokabulars, das das Feld nutzt, kein Beleg dafür, dass das Rahmenwerk mehr erklärt.
 - **„Ein bekanntes Rahmenwerk ist ein für KI validiertes.“** TPACK wurde nicht für KI-spezifische Fähigkeiten entworfen, weshalb Intelligent-TPACK entwickelt wurde — und es erscheint in nur **fünf Studien** im Review von 78 Studien. TPACK für GenAI-Kompetenz zu nutzen, dehnt es über seine Konstruktion hinaus.
 - **„Ein Rahmenwerk anzuwenden heißt, die Forschung ist theoretisiert.“** Derselbe Review fand, dass **76% der Studien Kompetenzen aus der Praxis ableiteten, ohne theoretische Abbildung**, sodass TPACKs Präsenz im Feld damit koexistiert, dass die meiste Forschung untheoretisiert ist. Ein benanntes Rahmenwerk ist nicht dasselbe wie ein Rahmenwerk, das Arbeit leistet.
-
-## Verbundene Konzepte
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Verbundene Artikel
-
-- [[ai-literacy-tpack-preservice-2026]] — Wahrgenommene KI-Kompetenz und TPACK in der Lehrkräfteausbildung: Vermittlung über Nützlichkeit, einfache Nutzbarkeit und Wert (Zhao 2026)
-
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluationsindikatorsystem für KI-Zertifikatsprogramme
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Studie über Ebenen hinweg: „Pädagogik zuerst, Technologie danach“ — TPAIK wiegt für Studierenden-Ergebnisse schwerer als technisches TAIK (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI bei im Dienst stehenden Lehrkräften und die vermittelnde Rolle pädagogischen Wissens (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Fakultätsstandards für Technologieintegration (TPACK-bezogene DBR)
-- [[edurev-100741-tpack-genai-review]] — Integration generativer KI in das Lernen von Studierenden: ein systematischer Review aus TPACK-Perspektive
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modellierung von AI-TPACK über Multi-Agenten-Workflows von Lehrkräften
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK-Bereitschaft bei angehenden Mathematiklehrkräften
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lehrkraft-KI-Interaktion im Unterrichtsentwurf: das Zusammenspiel von Intelligent-TPACK, Erfahrung und Profizienz (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI-Fortbildung und AI-PCK-Gewinne
-- [[teacher-ai-teaming-five-levels]] — Fünfstufiges Rahmenwerk für Lehren im Team mit KI
-- [[teacher-ai-adoption-confidence]] — Vertrauen der Lehrkräfte und KI-Übernahme
-- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz über die Selbstbestimmungstheorie
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Designbasierte Forschung: GenAI-Kompetenz-Training
-- [[rail-ed-genai-literacy-teacher-education]] — GenAI-Kompetenz in der Lehrkräftebildung neu gedacht
-- [[sec-ai-literacy-narrative-review-2026]] — Sozial-emotionale Kompetenzen und KI-Kompetenz
-- [[genai-runaway-object-math-higher-ed]] — GenAI und Mathematik in der Hochschulbildung
-- [[ai-changing-teaching-workflows]] — Wie KI Lehr-Workflows verändert
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Selbstwahrgenommenes TPACK-21-Wissen der Fakultät für GenAI in der Hochschulbildung (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Hin zu einem neuen AI-TPACK-Rahmenwerk: Ethik als integrativer Vermittler technischen KI-Wissens (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Vergleichende Befragung von 186 südafrikanischen angehenden Naturwissenschaftslehrkräften: Campus-Vorteil im selbstberichteten TPACK, und KI-Schulung mit schwächerem berichtetem TPACK an der Ferninstitution assoziiert
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK und Selbstwirksamkeit im Naturwissenschaftsunterricht mediieren den Effekt von KI-Kompetenz auf die Absicht, Inquiry zu integrieren, seriell (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-Fortbildung für Hochschullehrende: dimensionsaufgelöste Gewinne, Anwesenheit über selbstwahrgenommenes Engagement — KI-gestütztes CTD-PBL-Modul und TPACK sowie kollaboratives Problemlösen angehender Physiklehrkräfte (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Beurteilung von Mensch-KI-Kollaboration in der Design-Bildung: eine prozessorientierte Rubrik, verankert in einem erweiterten AI-TPACK-Rahmenwerk
-- [[capability-decision-model-teacher-readiness-2026]] — Geordnetes Fähigkeits-zuerst-Modell der KI-Bereitschaft von Lehrkräften und seine Warnung vor Konstruktüberlappung
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping Review mit der Warnung, dass die Dominanz von Kompetenzrahmenwerken teilweise Suchdeskriptoren widerspiegelt und nicht die Verbreitung im Feld
-
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Die Rolle integrierten TPACK bei der Befähigung angehender Lehrkräfte und der Formung ihrer Einstellungen zu generativer KI im Unterricht
-

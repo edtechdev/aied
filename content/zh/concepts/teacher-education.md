@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -141,62 +143,3 @@ pedagogy: [tpack]
 - **"职前教师对 AI 的接受是一种单一态度。"** **128 名职前教师**被划分为四种 ChatGPT 接受度群体，其中包括**抗拒的怀疑者（14.06%），他们报告了很高的感知易用性，却只有很低的行为**意向。在这一群体里，易用性与意向分了开来，因此一个由[[usability-research|可用性]]驱动的干预会让他们毫无变化。
 - **"AI 主要帮助职前教师提升内容知识。"** 一项**对 55 项研究的范围综述**发现 AI 提升了**教学设计、学科教学与实践教学**，即设计与实践的能力，而不是内容专长。
 - **"一项 55 项研究的范围综述确立了收益。"** 它记录的是该领域被报告的内容。所报告提升的广度是关于文献共识的主张，而范围综述中的 55 项研究并不是一个合并效应。
-
-## 关联概念
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — 化学教育与 AI：实验室、形成性评价、大语言模型局限、实验哲学
-
-## 关联文章
-
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — 教师教育中的 AI：教学框架、实证证据与伦理，2020-2026（Shukla 2026）
-- [[bicer-genai-pd-math-creativity-2026]] — 生成式AI引导的专业发展如何支持教师投入数学创造力、内容知识与教学法内容知识
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 职前英语教师撰写课堂AI政策：允许、受限与禁止的用法（Nash & Burriss 2026）
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85名师范生：浅层的GenAI采纳、诚信焦虑与未迁移的评价素养
-- [[pishtari-teacher-ai-training-learning-design-2026]] — 教师学习设计中的AI聊天机器人支持与培训
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 教学法AI知识作为教师专业学习的优先杠杆（Shen 等，2026）
-- [[preservice-teachers-responsible-genai-2026]] — 职前教师负责任地使用GenAI：课程意涵（Kohnke 等，2026）
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — 职前教师发展中的AI范围综述
-- [[designing-ai-professional-development-itpack-2026]] — 基于智能TPACK的专业发展框架
-- [[human-centered-ai-teacher-educators-2026]] — 教师教育者中批判性AI素养的专业学习
-- [[teaching-the-teachers-genai-tpk-review-2026]] — 教师教育中的GenAI专属TPK
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — 教师在GenAI教案设计中的AI知识
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 教案设计中跨教学经验与AI熟练度的教师–AI交互模式（Choi 等，2026）
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — 职前智能TPACK准备度
-- [[ai-tpack-mathematics-teacher-education-2026]] — 数学教师教育中的AI-TPACK
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — 伦理域与在职教师的信任
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — 初始教师培训中的Micro:bit机器人
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 职前教育中AI中介的真实性评价
-- [[science-educators-ai-literacy-postqualification-2026]] — 科学教育者的AI素养与资格后项目
-- [[context-based-ai-secondary-chemistry-2026]] — 中学化学中基于情境的7E + AI教学
-- [[educasim-cs1-instructional-practice]] — EducaSim：用于CS1教学实践的交互式模拟
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 职前教师 ChatGPT 接纳画像
-- [[motivation-shape-future-education-ai-switzerland-china]] — 以AI塑造教育未来的动机
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 科学教师教育中AI支持的引导探究
-- [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：作为认知中介的AI
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB模型：GenAI建构主义教学设计
-- [[riandi-teacher-ai-green-energy-education-2026]] — 教师在绿色能源教育中的AI整合参与（Riandi et al. 2026）
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教师教育中GenAI使用的纵向研究：伦理与政策（Parker et al. 2026）
-- [[instructional-design-proficiency-masters-math-2026]] — 智慧课堂模型与D-T-E闭环提升数学教育硕士的教学设计熟练度（Zhu 等，2026）
-- [[li-language-educators-genai-review-2026]] — 语言教育者的GenAI实践与发展
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — 教师协作评价AI生成内容作为专业发展（Gat, Usher & Barak 2026）
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186名科学师范生AI相关TPACK与培训水平的校园对远程比较
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 一项为期一学期的读写民族志追踪职前教师建构AI边界
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — 无脚手架的GenAI使职前教师教案质量低于不使用GenAI的班级
-- [[capability-decision-model-teacher-readiness-2026]] — 测量能力，而非信心
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — 一个自导式双层模型，把教师自身的反思性调节与学习者能动性相连
-- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12教师学会阅读AI原始研究并质疑学区规定
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 职前教师作为学习者：对能源意见不一的小组把 AI 变成概念讨论的中心，意见一致的小组把它当作查询工具并反感主动提示（Wang 等，2026）
-- [[webb-pck-genai-2026]] — 为何模型会放大新手薄弱的 PCK，以及为何补救是集体性的而非一个 AI 素养模块（Webb 等 2026）

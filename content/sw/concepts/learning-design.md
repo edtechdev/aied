@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -130,72 +132,3 @@ Ubuni unapunguza athari zaidi ya teknolojia katika muunganisho wa Zhang na wenza
 - **"Kupanga masomo kwa AI hurudisha muda kwa walimu."** Muda wa kupanga ulipungua, kutoka saa 3.32 kwa wiki hadi saa 2.51 na zana, lakini **mwalimu wa wastani alipanga 21% hadi 40% tu** ya masomo kutoka mwanzo. Muda uliokolewa na upangaji haukuwa wa kina zaidi kwa kiasi kikubwa; akiba ilikusanywa badala ya kuwekezwa upya.
 - **"Ubunifu pamoja na AI una ushahidi mzuri."** Mapitio ya kimfumo ya [[wang-teacher-ai-co-design-review-2026|ubunifu pamoja wa mwalimu na AI wa kazi za kujifunza]] **unathibitisha mtindo huo kwa kiwango kikubwa katika masudio 28**, jambo linaloelezea mazoezi thabiti badala ya kuonyesha matokeo bora.
 - **"Rubriki ni ingizo lisilobadilika."** Rubriki hufanya kazi kama **kiolesura cha kati kati ya kusudi la kielimu la binadamu na uelekezaji wa mashine**: kuchukulia vigezo vya tathmini kama **vinavyoweza kurekebishwa** ndiyo kunakoruhusu chombo kubeba kusudi la mwalimu. Rubriki isiyobadilika huhamisha mfumo-msingi wa mashine kwenye tathmini.
-
-## Dhana Zinazohusiana
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — Ushirikiano wa Kieledu
-- [[online-teaching-and-learning]] — Ufundishaji na Kujifunza Mtandaoni
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — Nyumba: mbinu na mikakati ya kufundisha katika elimu ya AI
-- [[stakeholders]] — Nyumba: watu na hadhira katika elimu ya AI (wanafunzi, walimu, wabunifu, wasimamizi, watunga sera)
-
-## Makala Zinazohusiana
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Akiba ya muda wa kupanga iliyopimwa pamoja na ugunduzi kuwa walimu hupanga 21% hadi 40% tu ya masomo kutoka mwanzo
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA na GenAI katika kufanya maamuzi ya muundo wa kujifunza
-- [[tang-chatbots-learning-design-2026]] — Matumizi ya chatbot katika muundo wa kujifunza: wabunifu hukaa juu ya matokeo na kielimu badala ya kuzalisha maudhui (Tang na wenzake 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mifumo ya mwingiliano kati ya mwalimu na AI katika kubuni masomo kote ya uzoefu na ujuzi wa AI (Choi na wenzake 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI katika elimu ya juu: ushirikiano + nafasi ya kupatanisha ya mbinu za kufundisha
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomia (kitu cha mpaka) ya kugawanya shughuli za kujifunza za GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Mawakala wa Wavuti wa AI: mwakala huru wa mtandao anatathmini miundo ya masomo na kubashiri wanafunzi kuacha kabla wanafunzi kushiriki (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Mfumo wa Kuongeza AI Kwa Njia Iliyoamshwa Kiakili katika Fizikia
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Vijiti Saba vya Kuwezesha na Mwanafunzi Aliye Pekee na AI
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI ya Kusaidia Kubuni Changamoto za Kushindwa kwa Uzalishaji
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[zeivots-postdigital-co-design-genai-2025]] — Ubunifu wa pamoja wa baada ya kidijitali: GenAI kama mshirika asiyeaminika katika kazi ya kimahusiano (Zeivots et al. 2025)
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Meta-analysis ya ngazi tatu: GenAI hufanya kazi kupitia maoni na ubuni unaoongoza na mwanafunzi, si kama uingiliaji mmoja (Zhang et al. 2026)
-- [[williams-coding-curriculum-critique-2026]] — Kuweka Mtaala katika Msimbo: Ukosoaji wa "Jinsi AI Inavyoacha Alama katika Ubunifu wa Mafunzo"
-- [[chng-ai-instructional-design-2023]] — Jinsi AI Inavyoacha Alama katika Ubunifu wa Mafunzo

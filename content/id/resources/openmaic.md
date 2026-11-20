@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,7 +64,3 @@ opsional (Lemonade untuk model lokal, FunASR untuk pengenalan suara) memungkinka
 banyak tumpukan secara offline — jadi “gratis” menggambarkan perangkat lunaknya, bukan tagihan
 inferensinya. Makalah di baliknya muncul di *Journal of Computer Science and Technology* (2026, DOI
 10.1007/s11390-025-6000-0), dan repositorinya memiliki lebih dari 38.000 bintang pada September 2026.
-
-## Konsep terkait
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

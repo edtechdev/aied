@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -97,38 +99,3 @@ AkoVoice دو مساوات کے پہلو جوڑتا ہے جو شاذ و نادر
 - **"ادائیگی والی گفتار کی خدمات مفت سے بہتر ہیں۔"** **دو مفت خدمات نے تقریباً مکمل نقول دیں (87.96% اور 88.34% کوریج، لفظ کی غلطی کی شرح 15.23% اور 15.00%)**، جبکہ دو ادائیگی والی خدمات نے صرف جھلکیاں برآمد کیں، 32% کوریج پر۔ قیمت نے افادیت کی پیش گوئی نہیں کی، اور ادائیگی والی سطح نے نتیجے کو روکا، بہتر نہیں کیا۔
 - **"کوئی بھی زبان سیکھنے والا چیٹ بوٹ تلفظ بہتر کرتا ہے۔"** **دس مطالعات** میں، **صرف زبان سیکھنے کے لیے بنائے گئے چیٹ بوٹس — Andy English bot اور Xiaoying — نے درستگی بہتر کی**، ایک کنٹرول گروہ کے تقابل میں **14% غلطی کی کمی** کے ساتھ۔ عام مکالماتی ایجنٹوں نے یہ فائدہ نہیں دیا۔
 - **"خود اعتمادی کے فائدے مہارت کے فائدے ہیں۔"** ٹیکنالوجی اور نتائج کے درمیان تعلق مثبت تھا اور **خود اعتمادی نے اسے جزوی طور پر واسطہ بنایا: بالواسطہ راستہ کل اثر کا 69.9% تھا جبکہ براہِ راست اثر بھی باقی رہا**۔ اثر کا بیشتر حصہ اعتماد سے گزرا، جو میکانزم بھی ہے اور احتیاط بھی۔
-
-## منسلک تصورات
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## منسلک مضامین
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — درستگی کے فائدے صرف زبان سیکھنے والے چیٹ بوٹس سے، اور لہجے والے ناموں پر ASR کی ناکامیاں
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — ایک ٹیلی فون آواز ایجنٹ خود فیڈبیک کی نالی کی طرف موڑا گیا
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR بولنے کا فیڈبیک: معیار تعداد سے بہتر، اور مہارت طے کرتی ہے کہ کسے فائدہ ہو (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — تلفظ کی خود اعتمادی GenAI تلفظ فیڈبیک اور بات کرنے کی آمادگی کے درمیان واسطہ ہے (1,701 EFL سیکھنے والے)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS سبق کا پائپ لائن: مصنوعی بیان نے استاد کی آواز کا مقابلہ کیا؛ مکالمے نے فہم میں مدد دی
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — TTS سے پیدا کردہ سبقوں میں سیکھنے کے انداز × مکالمے کے فارمیٹ کے تعاملات (222 طلبہ)
-- [[ai-interlocutor-l2-spoken-dialogue]] — انسانی بمقابلہ AI مخاطب: معاون یک گوئی، اخذ اور نحوی پرائمنگ، L2 جرمن میں
-- [[kutti-ai-voice-first-learning-companion]] — نابینا بچوں کے لیے حقیقی وقت میں جدوجہد کی شناخت کے ساتھ آواز-اول آف لائن ساتھی
-- [[agent-voice-accents-k12-group-learning]] — ایجنٹ کا لہجہ K-12 گروہی کام میں انسانیت اور تعاون کو شکل دیتا ہے (33 اساتذہ)
-- [[asynchronous-oral-assessment-2026]] — غیر ہم وقتی زبانی جانچ: قابلِ توسیع زبانی جانچ، سیکھنے کے فائدوں کی احتیاط کے ساتھ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — جائزہ جو زبانی امتحانات کو اصلی، سالمیت بچانے والی جانچ کے طور پر دلیل بناتا ہے
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: پیشہ ورانہ ورکشاپوں میں آف لائن آواز کی جانچ جہاں AI شواہد سامنے لاتا ہے، درجے نہیں دیتا
-- [[student-ai-interaction-consecutive-interpreting-2026]] — ASR/MT معاونت استعمال کرنے والے ترجمانی کے زیرِ تربیت افراد میں چار تعامل کے نمونے
-- [[gpt-item-generation-l2-listening-2026]] — L2 سننے کے سوالات پیدا کرنے کے لیے GPT کو پرامپٹ کرنا بمقابلہ فائن ٹیون کرنا
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — اشارہ اور گفتار: صرف گفتار والی زبانی جانچ فہم کے شواہد سے کیوں محروم رہ جاتی ہے
-- [[ai-guided-learning-audiovideo-2026]] — اڈاپٹیو آڈیو رفتار، آواز بچانے والے ویڈیو خلاصے، اور بلا لیبل تلفظ فیڈبیک
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — بہرے اور کم سننے والے سیکھنے والوں کے لیے LLM سوال کی پیداوار
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — جب AI ٹیوٹر بولتے ہیں: ایک رینڈمائزڈ فیلڈ تجربے سے شواہد
-- [[ai-mediated-input-medical-english-asr-2026]] — میڈیکل انگلش میں AI کے واسطے سے اِدخال کی تبدیلی: گفتار شناسی اور نقل کا اعتبار

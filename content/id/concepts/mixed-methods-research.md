@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,7 +46,6 @@ Di seluruh 394 studi [[generative-ai|GenAI]] pendidikan tinggi, metode campuran 
 
 - **Jalur kuantitatif yang dihasilkan mesin.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang dkk. (2026)]] menghasilkan jalur kuantitatif BREQ dari transkrip wawancara peserta di bawah desain konvergensi, rute integrasi yang tidak hanya bergantung pada tenaga manusia. Korelasi LLM–manusia berkisar dari sedang hingga tinggi (ρ = .5 hingga .73), RMSE tingkat butir, orang, dan tes mengukur jarak dari respons manusia, dan butir 6, 7, dan 11 yang berkonotasi negatif menandai hasil triangulasi yang paling jelas, menunjukkan di mana bukti wawancara dan survei menyimpang.
 
-
 ## Bagaimana metode campuran muncul dalam basis pengetahuan
 
 - **Menjelaskan mekanisme.** [[same-ai-different-pathways]] menggabungkan jalur untuk mengurai mekanisme pembelajaran yang dimediasi AI di seluruh konteks disiplin-institusi, di mana perbedaan kuantitatif saja akan buram.
@@ -71,26 +72,3 @@ Metode campuran berada di antara tradisi [[quantitative-research|kuantitatif]] d
 - **"Metode campuran adalah pilihan niche dalam penelitian pendidikan AI."** Di seluruh **394 studi GenAI pendidikan tinggi**, metode campuran adalah **desain penelitian paling umum (213 studi, 54%)**, diikuti kuantitatif (109, 28%) dan kualitatif (72, 18%). Desain dominan bidang ini bukanlah desain yang diasumsikan oleh debat metodologisnya.
 - **"Bukti observasional dan wawancara dapat menopang klaim tentang sistem."** Memasangkan observasi sistem dan diskusi administrator terhadap **evaluasi teracak empat tahun atas 8,708 siswa di delapan semester**, yang berdaya mendeteksi efek **0.05 simpangan baku**, menunjukkan apa yang tidak dapat dilakukan jalur kualitatif sendiri: mendeteksi efek kecil secara andal. Mencampur metode bukan cara memindahkan daya antarjalur.
 - **"Triangulasi berarti dua metode lemah menghasilkan klaim kuat."** Nilai pemasangan itu adalah bahwa setiap jalur menjawab pertanyaan berbeda. Desain yang menjalankan keduanya lalu melaporkan temuan kualitatif sebagai konfirmasi atas temuan kuantitatif belum melakukan triangulasi, melainkan hanya mengulang.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Artikel terkait
-
-- [[genai-over-reliance-learning-2026]] — Dari peningkatan ke ketergantungan berlebih (survei + wawancara)
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi (kelompok fokus + survei + wawancara)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Kesenjangan kepercayaan–kegunaan (survei + wawancara)
-- [[same-ai-different-pathways]] — Mekanisme pembelajaran yang dimediasi AI di seluruh konteks
-- [[genai-feedback-design-multisite-experiment]] — Desain umpan balik GenAI yang berpusat pada manusia (multisitus)
-- [[hazra-safetutors-pedagogical-safety-2026]] — Keamanan tutor AI dan kerugian pedagogis
-- [[becker-chatgpt-typology-physics-2026]] — Tipologi kualitatif adopsi ChatGPT dalam fisika
-- [[edtech-privacy-deferral-2026]] — "Kami Akan Memperbaikinya Nanti": Pendidikan, AI, dan Penundaan Privasi Siswa dalam EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER dan RoBERTa yang disetel halus memberikan valensi berlawanan pada kiriman Bluesky yang sama (Geraili Meykola et al., 2026)

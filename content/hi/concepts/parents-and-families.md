@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -93,33 +95,3 @@ ai_assist:
 **"यदि AI उनके बच्चे के अधिगम को हानि पहुँचा रहा हो तो माता-पिता इसे देख लेंगे।"** इसे देख पाने की स्थिति में वे सबसे कम हैं। [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei और Wu (2026)]] के डेटा में, छह महीनों में गृहकार्य अंक **18%** बढ़े जबकि [[summative-assessment|बंद-पुस्तक परीक्षा]] अंक **20%** गिरे, और घर पर दिखने वाला आँकड़ा बढ़ता हुआ वाला है। गृहकार्य देखता माता-पिता सुधार देखता है जबकि टिकाऊ परिणाम गिर रहा होता है।
 
 **"घर पर AI उपयोग माता-पिता की अनुमति का प्रश्न है।"** यह साक्षरता और वकालत का प्रश्न है। माता-पिता की अपनी AI साक्षरता तय करती है कि वे विद्यालय-जारी उपकरण के बारे में क्या पूछ सकते हैं, और परिवारों के बीच पहुँच असमानताएँ तय करती हैं कि किन बच्चों को वयस्क मध्यस्थता मिलती है।
-
-## संबंधित अवधारणाएँ
-
-- [[stakeholders]] — शिक्षा में एआई के श्रोताओं और कर्मचारियों के लिए छाता पृष्ठ
-- [[early-childhood-elementary-ai-education]] — वह विकासात्मक क्षेत्र जहाँ घर और परिवार का उपयोग सर्वाधिक अध्ययनित है
-- [[ai-use-disclosure]] — प्रकटीकरण अभ्यास और यह प्रश्न कि परिवारों तक क्या पहुँचता है
-- [[ai-literacy]] — माता-पिता की अपनी योग्यताएँ और उन्हें निर्धारित करने वाले स्कूल-निर्मित ढाँचे
-- [[equity-in-ai-education]] — यह कि लाभ और बोझ घरों में कैसे बँटते हैं
-- [[digital-divide]] — पहुँच, कौशल और परिणामों की परतें जैसा वे घर पर लागू होती हैं
-- [[conversational-ai]] — वह प्रमुख रूप जो एआई पारिवारिक सेटिंग में लेता है
-- [[self-determination-theory]] — परिवार मार्गदर्शन के लिए स्वायत्तता सहायता के रूप में ढाँचा
-- [[cognitive-offloading]] — निर्भर बनाम स्वायत्त ऑफ़लोडिंग, और यह कि माता-पिता अंतर को क्यों नहीं देख सकते
-- [[intelligent-tutoring]] — एआई-मध्यस्थ माता-पिता–बच्चा शिक्षण के पीछे का मॉडल
-
-## संबंधित लेख
-- [[ai-connectedness-adolescent-mental-health-2026]] — किशोर एआई संबंधिता और यह कब एआई-बंधन अधूरी पालक पहचान का प्रतिस्थापन बनता है
-
-- [[paratutor-parent-child-tutoring]] — चीनी घर गणित शिक्षण में 23 माता-पिता–बच्चा युग्मों के लिए भूमिका-पृथकृत एलएलएम सहायता
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — ताइवान में 19 प्राथमिक विद्यार्थियों के साथ शिक्षक के विपरीत निश्चित सहपाठी-भूमिका साथी
-- [[family-school-autonomy-support-genai-2026]] — परिवार–स्कूल समन्वय को अपरीक्षित परिकल्पना मानने वाली समीक्षा
-- [[raise-framework-ai-education-reporting-2026]] — सहमति, प्रतिभागी संदर्भ और पहुँच की समानता को कवर करने वाले रिपोर्टिंग दायित्व
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 शिक्षक अधिकार-क्षेत्र, माता-पिता और बच्चों के एआई साथियों से संबंधों पर
-- [[ai-play-framework-early-childhood-2026]] — एक परिवार-केंद्रित आवर ऑफ़ कोड कार्यक्रम के माध्यम से परीक्षित अनप्लग्ड एआई साक्षरता
-- [[all-girls-genai-makerspace-gender-equity-2026]] — साक्षात्कार में माता-पिता; अनौपचारिक सेटिंग में उपकरण लागत और भाषा बाधाएँ
-- [[creative-project-approach-ai-early-childhood-2025]] — छोटे बच्चों के लिए भौतिक कर्मचारी, लागत, पहुँच और गोपनीयता की चेतावनियों के साथ
-- [[demir-akar-ai-media-literacy-children-2026]] — 36 चौथी कक्षा के विद्यार्थियों में आँकड़ा गोपनीयता, सुरक्षित संप्रेषण और मीडिया नीतिशास्त्र पर स्कूल कार्यक्रम
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — परिवार-संबंधी चरणों के हटने पर उपयोग-लेनी 45% से 83% हुई
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — गृहकार्य बाह्यीकरण, परीक्षा में गिरावट और इनपुट की निगरानी का मामला
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — आयु-अनिर्धारित एआई साक्षरता स्तर और तीन-स्तरीय डिजिटल विभाजन रेखा
-- [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature

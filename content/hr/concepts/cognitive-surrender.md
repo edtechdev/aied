@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -69,7 +71,6 @@ Tri su predregistrirana eksperimenta prilagodila Test kognitivne refleksije i ra
 
 Praktično čitanje jest da je predaja **neuspjeh razlikovanja**, a ne neuspjeh motivacije. Sudionici koji su predali nisu pokušavali izbjeći rad; nisu mogli razlikovati dobar savjet od lošeg, a sučelje im nije dalo razloga da to pokušaju.
 
-
 Preregistrirani eksperiment koji izvješćuje [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026.)]] daje suprotnu konfiguraciju. Kad je pomoćnik bio omeđen [[rag|dohvaćanjem s potporom]] na zadani radni list, uvjet s umjetnom inteligencijom snizio je kognitivno rasterećenje (medijan −0,27) umjesto da ga podigne, a nikakav put rasterećenja nije nosio porast neorganiziranosti (0,84). Predaja treba pomoćnika čiji se savjet može prihvatiti u cijelosti; sustav koji odgovara samo iz prisutnog materijala daje učeniku manje za prihvatiti i više za uskladiti.
 
 ## Predaja izvan laboratorija
@@ -113,38 +114,3 @@ Dokazi za predaju kao imenovani konstrukt uvelike se oslanjaju na jedan program 
 **„Rješenje je bolja umjetna inteligencija, jer predaja proizlazi iz pogrešaka.“** Predaja proizlazi iz *strukture* interakcije: sustav koji prvi proizvede uvjerljiv odgovor uklanja priliku da ga učenik sam stvori. Poboljšanje točnosti smanjuje štetu od netočnih odgovora i ne čini ništa protiv napuštanja stvaranja prosudbe, a to je šteta koja ostaje nakon što alat nestane.
 
 **„Dovoljno je poučavati kritičko vrednovanje.“** Ono je nužno i dolazi prekasno. Kad je uvjerljiv odgovor već na zaslonu, vrednovanje postaje potvrđivanje - zato dizajnerska literatura ovdje stavlja pokušaj učenika prije rezultata sustava, a ne da ga provjerava naknadno.
-
-## Povezani koncepti
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-directed-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Povezani članci
-
-- [[shaw-nave-cognitive-surrender-2026]] — Teorija triju sustava i eksperimentalni potpis predaje
-- [[generative-ai-reduced-study-time-math]] — premještanje na razini populacije u platformi ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — okvir predaje, rasterećenja i djelotvornosti u predškolskom i osnovnoškolskom obrazovanju
-- [[du-yuan-epistemic-dependence-2026]] — instrumentalna pomoć nasuprot pomoći koja nosi prosudbu
-- [[ai-advice-suppresses-ikt-suspension-2026]] — slom odgovora „ne znam“
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuralni angažman i vlasništvo
-- [[genai-thoughtless-use-self-directed-learning-2026]] — nepromišljena upotreba i samousmjereno učenje
-- [[stamatoulis-genai-use-patterns-2026]] — prihvaćanje s malo provjere nasuprot procjenjivačkoj integraciji
-- [[cognitive-washout-ai-skill-decay-2026]] — što se događa nakon povlačenja
-- [[ai-overreliance-complex-adaptive-system-2026]] — oslanjanje kao populacijski proces
-- [[brcic-effortless-trap-productive-struggle-2026]] — smještanje umjetne inteligencije tako da zadatak ostane zahtjevan
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — obuka u kalibraciji
-- [[family-school-autonomy-support-genai-2026]] — zavisno nasuprot autonomnom rasterećenju
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — pomoćnik omeđen radnim listom snizio je rasterećenje umjesto da ga podigne: rubni uvjet za potpis predaje (Braun 2026.)
-- [[jelson-students-chatgpt-essay-writing-2026]] — naturalističko delegiranje cijelog eseja: 15 od 77 eseja potpuno napisao model, 20 zahtjeva za cijeli esej (Jelson i sur. 2026.)

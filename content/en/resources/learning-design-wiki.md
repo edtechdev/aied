@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-10-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 The **Learning Design Wiki** splits the design of teaching into separable parts and binds each part to the studies behind it, carrying 170 principles, 1,057 elements, 54 patterns, 1,010 designs, 1,903 products and programs, and 6,700 strategies as of October 2026. Every element and pattern links to claims, and every claim to a source, so a reader working on [[learning-design|instructional design]] can start from a principle, drop to the elements it implies, and arrive at the citation.
@@ -42,6 +43,3 @@ Instructional designers and instructors who want a design decision with its evid
 ## Notes and caveats
 
 Read the trust panel on every page. Language models maintain the wiki under one human maintainer, no person has checked any page, and the site labels a page a well-sourced lead rather than a finding. Claims carry a design tier, an effect size code and a rigour code, and "no effect size printed" means the source reported none, not that none exists. Content is CC BY-SA 4.0, so reuse must carry the same license, and the code is MIT.
-
-## Connected Concepts
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -80,28 +82,3 @@ A SAMR-t legjobban integrációsmélység-lencseként érthetjük meg, amelyet t
 **„A SAMR és a TPACK versengő keretrendszerek.”** Különböző dolgokat írnak le: a SAMR egy feladat *átalakulásának mértékét*, míg a [[tpack|TPACK]] azt a *tudást*, amelyre a tanárnak a technológia jó integrálásához szüksége van. Egy tanár lehet kiválóan TPACK-képes, és mégis a Substitution szinten működhet, ezért használják a kettőt együtt, nem pedig választanak közülük.
 
 **„Egy eszköz, amely az egyik szinten átalakító, minden szinten az.”** Ugyanaz a generatív eszköz az egyik kurzusban Substitutiont, a másikban Redefinitiont támogathat, mert a szint a feladatterv tulajdonsága, nem a technológiáé. Ha a szintet az eszköznek tulajdonítjuk, tervezési döntések helyett elfogadási döntéseket kapunk.
-
-## Összefüggő fogalmak
-
-- [[ai-education]] — MI az oktatásban (ernyőfogalom)
-- [[tpack]] — Technológiai pedagógiai tartalmi tudás
-- [[technology-acceptance-model]] — Technológiaelfogadási modellek
-- [[icap-framework]] — A kognitív elköteleződés ICAP-keretrendszere
-- [[ai-technologies]] — MI-technológiák és -technikák
-- [[teacher-ai-competency]] — Tanári MI-kompetencia
-- [[educational-development]] — Oktatásfejlesztés
-- [[learning-design]] — Tanulástervezés
-- [[k-12]] — K–12 oktatás
-- [[higher-ed]] — Felsőoktatás
-- [[generative-ai]] — Generatív MI
-
-## Összefüggő cikkek
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Az MI felsőoktatási integrációja SAMR-rel osztályozva: többnyire Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — Az ICAP és a SAMR a négy, főzéstől tanulásig vezető forgatókönyv leképezése
-- [[rewriting-curriculum-genai-pedagogy-2026]] — A SAMR a GenAI vezérelte tantervi változás lencséi között
-- [[crompton-faculty-technology-integration-standards-2026]] — A SAMR az oktatói technológiastandardokat alakító keretrendszerek között
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — A SAMR humanista ontológiájának poszthumanista kritikája
-- [[reclaiming-epistemic-agency-co-agency-2026]] — A SAMR hallgatása a hatalomról, az adattulajdonról és az elszámoltathatóságról
-- [[genai-use-changing-institutional-policy-physics-2026]] — Diákok GenAI-használata változó intézményi szabályok mellett: SAMR-szintekhez rendelt használati funkciók (Quince és Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — MI a matematikaórákon: szinergikus stratégia a sokszínűségért és a befogadásért

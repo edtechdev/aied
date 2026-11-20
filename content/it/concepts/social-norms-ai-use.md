@@ -29,6 +29,8 @@ ai_assist:
 translation_of: "concepts/social-norms-ai-use"
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -68,7 +70,6 @@ Il lato del docente della stessa emozione è misurabile. [[vassallo-ai-guilt-com
 Una norma che fa sentire in colpa le persone che non hanno agito sta operando attraverso l'anticipazione. Questo è un vero meccanismo regolatore, ed è invisibile a qualsiasi audit di policy che guardi solo a ciò che docenti e studenti fanno.
 
 Un'indagine su 409 studenti universitari mette lo stesso meccanismo in una regressione: la rivelazione percepita dei pari e la comodità con i docenti erano i predittori più forti della rivelazione dello studente stesso, davanti alla disattivazione morale ([[qu-wang-disclose-or-not-genai-2026|Qu e Wang (2026)]]). Ciò che uno studente tratta come norma è ciò che crede facciano i propri pari, che è l'impressione che lo studio sulla percezione sopra mostra sistematicamente grossolana. La rivelazione, su questa evidenza, è una risposta a una norma creduta anziché a una regola scritta o a uno standard etico personale.
-
 
 ## Il libro delle regole locale: discipline e aule
 
@@ -114,39 +115,3 @@ Il costo di quella sostituzione emerge in dove docenti e studenti parlano effett
 **"La sorveglianza risolverebbe la norma rendendo visibile l'uso."** Rendere visibile il comportamento non risolve quale dovrebbe essere la norma; cambia ciò che le persone sono disposte a rivelare. Il pattern misurato è già la rivelazione selettiva, quindi un regime di monitoraggio applicato ad essa misura l'occultamento anziché la condotta.
 
 **"Le norme sono informali, quindi fuori dalla portata delle istituzioni."** Sono fatte rispettare localmente e modificabili localmente, il che le rende più trattabili della politica: la pratica esplicita di un team di corso è una leva proprio perché è lì che si fissa la regola operativa.
-
-## Concetti collegati
-
-- [[academic-integrity]] — il libro di regole formale accanto al quale queste norme crescono
-- [[ai-use-disclosure]] — la pratica che le norme regolano più direttamente
-- [[framing-ai-use-for-students]] — come un'aula dichiara le proprie aspettative
-- [[reducing-ai-misuse]] — la controparte didattica della definizione delle norme
-- [[learner-identity]] — chi si ritiene che chi apprende sia quando l'uso dell'IA diventa visibile
-- [[ai-detection]] — la risposta tecnica che perlopiù fallisce
-- [[remote-proctoring]] — la sorveglianza come sostituto tentato delle norme
-- [[trust]] — ciò da cui dipendono sia le norme sia la rivelazione
-- [[equity-in-ai-education]] — chi assorbe il costo sociale
-- [[help-seeking]] — il comportamento che la vergogna reprime per primo
-- [[group-work]] — dove le norme di gruppo vengono negoziate
-- [[student-experience]] — il lato vissuto di tutto questo
-- [[anxiety-and-stress]] — il residuo affettivo
-- [[governance]] — lo strato formale sotto il quale stanno queste norme
-- [[ethics]] — la letteratura che ha meno da dire agli studenti
-
-## Articoli collegati
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 undergraduates: perceived peer disclosure and instructor comfort predicted disclosure ahead of moral disengagement (Qu & Wang 2026)
-

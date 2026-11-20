@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -47,16 +48,3 @@ Docenten in allerlei disciplines, vooral in het hoger onderwijs en in beroepsopl
 ## Opmerkingen en kanttekeningen
 
 Dit is een praktische gids, geen empirische studie; de beweringen over AI-gebruik door studenten steunen op aangehaalde externe bronnen (BestColleges, Campbell, Digital Education Council, Flaherty) en niet op nieuwe data. Het kader van de "netwerkopbouw" en de framing van de "illusie van begrip" komen uit de bredere literatuur (Wigmore et al.; Williamson et al.) en worden gepresenteerd als didactische onderbouwing, niet als getoetste uitkomsten van het draaiboek zelf. De opdrachten zijn door de auteur gemaakte sjablonen — geen ervan wordt gerapporteerd met effectgroottes, dus ze moeten worden behandeld als ontwerpen om lokaal aan te passen en te evalueren. Gepubliceerd op 2026-10-07, v1, op Zenodo onder CC BY 4.0; gratis te downloaden zonder account. Op het moment van opname toont het record slechts ongeveer 35 weergaven en 14 downloads, dus het heeft nog weinig extern gebruik of peerreview gezien.
-
-## Gerelateerde concepten
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

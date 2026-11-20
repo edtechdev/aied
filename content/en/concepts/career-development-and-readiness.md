@@ -8,6 +8,8 @@ pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 > **Career development and readiness** — the processes and capacities that prepare learners to build, adapt, and sustain a career in an AI-disrupted labor market: career adaptability, employability, workforce readiness, and the skills (including [[ai-literacy|AI literacy]]) that employers value. In the AI-in-education context this concept is increasingly important because AI both reshapes the skills graduates need and generates **career-related AI anxiety** about job displacement — making career readiness a protective factor for student [[well-being|well-being]].
@@ -27,7 +29,6 @@ As AI transforms occupations, education's role in career development has broaden
 
 ## How career development and readiness appears in the research
 - **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm the mechanism with SEM: AI anxiety impairs career decisions largely through eroded career adaptability (63.35% of the total effect), and self-efficacy offered limited buffering. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] add that AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across 1,057 students, with women, social-science majors, and second-years most affected. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] extend this to health-sciences students (821, r = 0.233). Career readiness is thus an empirically validated buffer against [[anxiety-and-stress|career-related AI anxiety]].
-
 
 - **Readiness tracked engagement, not threat level.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], the most AI-anxious profile still reported the highest career crafting (4.222) and self-perceived employability (3.964), alongside the favorable profile that did not differ significantly — so anxiety level did not index career readiness.
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy|AI literacy]] to career outcomes. [[ai-literacy-graduate-employability-2026|Hendrawan and Lestari (2026)]] test it quantitatively with 455 final-year students in Jakarta: career adaptability carries a significant indirect effect (β = 0.173), and growth mindset does not moderate the path at all, so adaptability rather than mindset does the work.
@@ -62,36 +63,3 @@ Career development and readiness connects to [[professional-training|professiona
 A program-level framework makes the institutional steps explicit, though it has not been evaluated as a program. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] proposes six stages: sensing, stakeholder validation, program diagnosis, curriculum redesign, enactment and capability, and outcome review. Each stage carries a named decision right and an accountable output, and AI is confined to four bounded support functions: pattern detection across labor-market information, competency mapping, generation of curriculum options for human appraisal, and monitoring of implementation indicators. The value is that it names the governance steps a career-readiness strategy usually leaves implicit.
 
 A survey of 1,445 Chinese college students traces a path from usefulness beliefs through AI use into career exploration. Perceived usefulness of generative AI predicted use at β = 0.569, while career self-efficacy predicted it at only β = 0.082. Use was then associated with career exploration behavior at β = 0.423, self-efficacy remained the strongest cognitive predictor of exploration itself (β = 0.285), and the model explained 50.5% of the variance in exploration ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). The indirect paths are statistical and cross-sectional, not longitudinal.
-
-## Connected Concepts
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
-
-## Connected Articles
-- [[ai-free-gates-engineering-students-india-2026]] — From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines
-- [[boyd-swan-employer-responses-genai-2026]] — Survey experiment with ~1,750 US hiring professionals: substitution framing lowered interview and salary-negotiation willingness, most for high-GPA applicants (Boyd-Swan & Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Eight focus groups: users credit efficiency and refinement, non-users credit originality and teamwork (assisted autonomy vs slow creativity)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
-- [[post-covid-ict-career-aspirations]] — ICT career aspirations after COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
-- [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment
-- [[kong-ai-employability-cognitive-engagement-2026]] — A narrative review's construct map from AI-supported learning to employability
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Six-stage, unevaluated process framework for aligning programs with AI-era labor markets
-- [[lu-career-cognitions-genai-exploration-2026]] — 1,445 Chinese students: AI usefulness, use and career exploration in one cross-sectional model

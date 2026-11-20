@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -91,39 +93,3 @@ ai_assist:
 **"AI 지원은 장벽을 낮추므로 참여를 넓힙니다."** AI는 작업을 산출하는 장벽을 낮추면서 저자성을 주장하는 장벽을 좁힐 수 있습니다. 자신이 저술하지 않은 유창한 결과물을 제출한 학생은 결과에 대한 접근을 얻었지만, 그 뒤의 정체성을 세우는 인정은 얻지 못한 것입니다.
 
 **"학습자의 정체성을 인정하는 일은 내용에서의 표상 문제입니다."** 표상도 중요하지만 인정은 실천 속에서 구현됩니다. 누구의 질문이 받아들여지는지, 누구의 기여가 공으로 인정되는지, 누가 유능한 사람으로 대우받는지가 그것입니다. [[curriculum-design|교육과정]]은 대표성을 갖추고도 정체성 형성이 요구하는 인정을 거절할 수 있습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자들: 학습자 측 개념들의 총칭
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 연결된 문서
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 학부생 14명이 스스로 계속 직접 하는 일과, 목적이 그 일을 거의 결정하지 못하는 이유
-- [[guarded-adoption-genai-higher-education-2026]] — 고등교육에서의 생성형 AI에 대한 경계된 채택
-- [[t2i-competence-paradox-2026]] — 유능감 역설: 텍스트-이미지 생성형 AI 사용에서의 창조적 정체성
-- [[shame-guilt-ai-regulation-computing-education]] — AI 사용의 사회적 조절자로서의 부끄러움과 죄책감
-- [[lodge-adaptive-capabilities-genai-future-2026]] — 생성형 AI 미래에서 생존 가능한 직업적 정체성을 위한 적응 역량
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 교수법적 공생과 포스트휴먼 학습자
-- [[ai-pedagogical-accompaniment-amico]] — STEM 정체성을 지원하는 AI 기반 교수법적 동반
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 진정성 평가를 위한 설계
-- [[paternalistic-filter-llm-history-education]] — 역사 교육에서의 후견주의적 AI 사용과 학생 정체성
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 교수진에게 닥친 정체성 위기로서의 생성형 AI (교사 정체성)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK 기반 교사 교육과 직업적 정체성
-- [[genai-professionalization-metaphors-2026]] — 생성형 AI 개념화와 학생의 직업적 정체성
-- [[synthetic-position-self-authorship-2026]] — 저자성 정지: 빽빽하게 목소리를 내지만 저자되지 않은 자아로서의 위임된 저자성 (개념 분석)
-- [[vibe-coding-design-diversity-2026]] — 하나의 도구, 하나의 취향? 바이브 코딩이 집단적 다양성을 개인의 창조성과 맞바꾸는 방식
-- [[kim-solo-game-development-autoethnography-2026]] — 생성형 AI 시대의 새 영역 진입: 생물정보학 교육자의 1인 게임 개발 자기민족지학

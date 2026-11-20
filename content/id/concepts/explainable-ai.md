@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -76,7 +78,6 @@ Pelajaran yang berulang di seluruh bukti: **memiliki penjelasan tidaklah cukup**
 
 Kualitas penjelasan juga memiliki dimensi keadilan: penjelasan yang secara teknis ada tetapi tidak terbaca bagi pemangku kepentingan tertentu — atau yang mengaburkan [[bias-mitigation|bias]] dalam sebuah prediksi — gagal memenuhi tujuannya. Inilah sebabnya pertanyaan desain adalah *kualitas dan kesesuaian*, dan sebabnya desain penjelasan yang berpusat pada manusia dan khas pemangku kepentingan tidak terpisahkan dari pembangkitan penjelasan secara teknis. XAI yang efektif adalah tindakan komunikasi yang dirancang untuk kebutuhan kognitif penerima, bukan sekadar artefak teknis.
 
-
 Penjelasan tidak selalu meratakan. Dalam eksperimen vignette 2 × 2 dengan 250 siswa kelas tujuh, rasional tertulis untuk sebuah skor matematika menaikkan penerimaan dan persepsi keadilan pada kedua kondisi tetapi melebarkan alih-alih menutup kesenjangan antara keputusan yang dibuat [[teacher-role|guru]] dan yang dibuat AI ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 
 Sitasi berperilaku sebagai isyarat kredibilitas alih-alih bukti kebenaran: melampirkan sitasi dan sinyal otoritas pada antarmuka debat menaikkan pengabaian penilaian yang benar demi posisi AI dari 15.0% menjadi 31.8%, dan kasus yang disitasi kadang salah atribusi atau fiktif ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
@@ -84,7 +85,6 @@ Sitasi berperilaku sebagai isyarat kredibilitas alih-alih bukti kebenaran: melam
 Dua kehati-hatian mempertajamnya lebih jauh, keduanya menjadi pusat kontribusi terbaru wiki tentang subjek ini. Pertama, mesin penjelasan itu sendiri tidak netral: metode post-hoc seperti LIME dan SHAP dapat tidak jujur terhadap perilaku aktual model, sehingga penjelasan yang secara teknis ada dapat menyesatkan alih-alih menginformasikan ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], mengacu pada Chuan et al. 2024). Kedua, **penjelasan bukan akuntabilitas**. Paparan tentang fitur mana yang mendorong sebuah prediksi tidak mengungkap apakah fitur itu layak digunakan, apakah data pelatihan representatif, atau apakah desain sistem mencerminkan pertimbangan yang sehat; penjelasan dapat menciptakan tampilan transparansi sementara membiarkan kondisi struktural yang menghasilkan keputusan tidak tersentuh (Mittelstadt et al. 2019). Bagi pendidikan ini berarti pertanyaan yang harus terus diajukan bukanlah apakah sebuah penjelasan dihasilkan tetapi apakah orang yang menerimanya — siswa, guru, penasihat — dapat memahaminya, bertindak atasnya, atau mempersoalkan keputusan di baliknya. Kegagalan keterbacaan yang sama muncul di sisi keamanan [[automated-assessment|penilaian otomatis]]: [[humble-prompt-injection-ai-grading-red-team-2026|red-team Humble (2026) terhadap alat penilaian AI]] menemukannya diam-diam menonaktifkan percakapan setelah memblokir sebuah prompt injection, dan — setelah mengumumkan tidak akan pernah mengikuti instruksi tersemat — mengikutinya dalam enam percobaan berikutnya pada berkas yang sama, sehingga tidak meninggalkan sinyal andal bagi pengguna untuk mendasari kepercayaan.
 
 **Dapat dijelaskan sejak desain** adalah satu jawaban atas masalah kejujuran post-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang dan Fang (2025)]] memparameterkan dekoder penjelasan dengan representasi gabungan dan skor prediksi yang sama yang menentukan [[assessment]], sehingga skor rendah pada pertanyaan [[formative-assessment|formatif]] menghasilkan rasional yang menyebut kurangnya pertanyaan penggalian, dan memasangkannya dengan atensi dua lensa atas standar kurikulum dan gerakan rubrik khas mata pelajaran. Keselarasan atensi-ke-rubrik mencapai 78.0% dibandingkan 41.7% untuk GPT-4 zero-shot dan 32.1% untuk BERT, dan kejujuran diuji melalui penghapusan counterfactual atas rentang kritis rubrik bersama penilaian manusia pada daftar periksa yang berjangkar rubrik, menghasilkan skor kredibilitas penjelasan 0.78 — peningkatan 0.31 dibandingkan BERT-base. Audit juga menunjukkan di mana klaim arsitektural menipis: pada isyarat emosional model mengalokasikan 28.4% bobot atensi dibandingkan 15.2% pada pakar (keselarasan 0.53), dengan satu kasus kegagalan memberikan 28% pada token "frustrated", yang dibaca penulis sebagai overfitting terhadap afek alih-alih pedagogi dan mereka namai sebagai area penyempurnaan. Menanamkan penjelasan dalam jalur keputusan membuatnya lebih jujur daripada rasional post-hoc; itu tidak membuatnya benar.
-
 
 **Apa yang dikatakan model tentang yang digunakannya bergantung pada keluarga model sama besarnya dengan pada data.** Pada tujuh model dalam satu kohort, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] menemukan pendekatan simbolik bersandar pada faktor kognitif dan [[motivation|motivasional]], model sub-simbolik pada aspek kognitif, pengetahuan yang dipelajari dan gender, dan keduanya sebagian besar mengabaikan faktor metakognitif, sementara model neural-simbolik menggunakan perangkat yang lebih terintegrasi. Siswa yang sama dan indikator yang sama menghasilkan paparan berbeda tentang apa yang penting, sehingga keselarasan dengan [[learning-theories|teori pembelajaran]] menjadi klaim tentang atribusi alih-alih tentang akurasi.
 
@@ -100,48 +100,6 @@ Secara khusus untuk keterjelasan, tugas yang penting adalah yang memaksa penjela
 - **"Penjelasan yang memuaskan pengguna telah menjelaskan sistem."** Kegagalan keterbacaan yang sama muncul di sisi keamanan [[automated-assessment|penilaian otomatis]]: [[humble-prompt-injection-ai-grading-red-team-2026|red-team Humble (2026)]] menemukan alur kerja penilaian sehari-hari dapat dimanipulasi oleh instruksi yang disuntikkan. Narasi yang masuk akal dan narasi yang dapat diaudit adalah artefak yang berbeda.
 - **"Praktik XAI umum dapat dipindahkan ke pendidikan."** [[xai-education-framework|Kerangka XAI-ED]] (Khosravi et al., 2022) menegaskan pendidikan memiliki **kebutuhan keterjelasan yang khas** di luar XAI umum, karena audiensnya mencakup pembelajar yang harus bertindak atas penjelasan itu, bukan auditor yang harus mensertifikasinya.
 - **"Kejujuran adalah properti yang bisa diklaim tanpa pengujian."** Kejujuran terukur memerlukan **penghapusan counterfactual atas rentang kritis rubrik** bersama penilaian manusia. Keselarasan atensi-ke-rubrik yang mencapai **78.0% dibandingkan 41.7% untuk GPT-4 zero-shot dan 32.1% untuk BERT** adalah hasil komparatif dari pengujian semacam itu, bukan dari klaim tentang interpretabilitas.
-
-## Konsep terkait
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[lund-socially-accountable-data-science-xai-2026]] — Kerangka empat pilar (answerability, responsibility, enforcement, reflexivity) untuk mengajarkan XAI sebagai praktik akuntabilitas (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Desain peka nilai untuk ITS yang berpusat pada siswa (penjelasan kolaboratif vs. mentah)
-- [[xai-education-framework]] — XAI-ED: kerangka dasar untuk AI yang dapat dijelaskan dalam pendidikan (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Penjelasan khas domain membangun kepercayaan dan penerimaan guru (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Perspektif siswa tentang penilaian berbantuan AI yang transparan (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Pelacakan pengetahuan yang dapat diinterpretasikan
-- [[explainable-probabilistic-kt]] — Pelacakan pengetahuan yang dapat dijelaskan melalui embedding probabilistik
-- [[neural-symbolic-knowledge-tracing]] — Pelacakan pengetahuan neural-simbolik
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Menyuling model kotak hitam menjadi LM yang menjelaskan diri sendiri untuk analitik pembelajaran
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analitik pembelajaran federated dan dapat dijelaskan untuk pemodelan risiko yang menjaga privasi
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recourse counterfactual berbatas semantik untuk dukungan keputusan pendidikan
-- [[fair-explainable-edu-recommendations]] — Rekomendasi pendidikan yang adil dan dapat dijelaskan
-- [[multimodal-affective-its-presentation]] — ITS loop tertutup yang dapat diinterpretasikan untuk umpan balik afektif multimodal
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Menjelaskan adopsi ChatGPT di pendidikan tinggi
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Kerangka LLM yang dapat dijelaskan sejak desain: atensi dua lensa dan penjelasan berparameter skor untuk penilaian guru otomatis (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection dalam penilaian yang dimediasi AI, ketika deteksi tidak pernah dilaporkan kepada pengguna (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model terlatih untuk penilaian pedagogis atas pertanyaan pendidikan berbantuan AI yang baru
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Keputusan penilaian oleh guru versus oleh AI: rasional tertulis justru melebarkan kesenjangan keadilan
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sitasi dan sinyal otoritas menaikkan kepatuhan pada keluaran yang salah, sebagian rujukan salah atribusi atau fiktif
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - model simbolik, sub-simbolik dan neural-simbolik pada satu kohort mengatribusikan prediksi mereka pada faktor yang berbeda
 
 ## Kutipan
 

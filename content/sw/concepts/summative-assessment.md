@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -79,44 +81,3 @@ Fasihi ya tathmini ya hifadhi hii ya maarifa inasisitiza kwa uthabiti kwamba [[a
 - **"LLM haiwezi kupima alama kwa viwango rasmi."** Dhidi ya **alama rasmi zilizosimamiwa**, LLM ya njia nyingi iliyopima alama **kurasa 10,364 zilizoandikwa kwa mkono** za Olympiad ya Fizikia na chuo kikuu ilihusiana kwa nguvu. Makubaliano ya tokeo yanaweza kudumu bila upimaji sahihi wa kiwango cha kipengele, ambayo inamaanisha swali la manufaa ni mahali usahihi wa kiwango cha kipengele unahitajika kwa hakika.
 - **"Ongezeko la alama la AI ni uzushi."** Jaribio la nusu-ufanisi la [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] kwenye **alama zaidi ya 500,000** hufanya mitambo iwe halisi: baada ya ChatGPT kutolewa, **kozi zenye kazi zilizofichuliwa zaidi kwa AI ziliona sehemu ya alama za juu ikipanda**. Athari ilijikita pale kazi zilipofichuliwa, ambayo ni muundo ambao mitambo ingetabiri.
 - **"Wanafunzi wanaotumia AI hawawezi kutofautishwa na wale wasiotumia, kwa hivyo asili haina matumaini."** Ugunduzi kwamba **hakukuwa na tofauti kubwa katika utambuzi wa chanzo** kati ya vipengele vilivyozalishwa na AI na vile vya mtihani wa leseni, ukiwa na utambuzi sahihi wa **asilimia 68.6-77.5** na kiwango cha utambuzi mbovu cha **asilimia 18.2**, unahusu utambuzi unaoshindwa, si asili kuwa isiyohitajika. Kama kuna chochote, inainua sharti la asili iliyothibitishwa.
-
-## Dhana Zilizounganishwa
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Makala Zilizounganishwa
-- [[llm-grading-assistants-public-health-2026]] — Wakadiriaji wa LLM wanafinyanga skela ya alama na kuepuka miisho katika tathmini ya insha yenye hatari kubwa
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Kuzingatia upya mitihani ya mdomo kama tathmini halisi, inayostahimili AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza ya AI ya kizalishaji: ushahidi wa mtihani wenye uangalizi/vitabu vya kufungwa
-- [[chirikov-ai-grade-inflation-2026]] — Kusukuma kando kwa kazi ya AI kama mbinu ya kupanda kwa alama; kozi zenye kazi za nyumbani nyingi (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Ukamilishaji wa haraka, kujifunza kidogo: vipimo vilivyo na uangalizi ni muhimu
-- [[generative-ai-guardrails-harm-learning]] — AI ya kizalishaji bila vizagi inadhuru kujifunza
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kutathmini ubora wa mitihani iliyozalishwa na AI
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM hazikadiri insha kama binadamu
-- [[llm-automated-assessment-student-self-explanations]] — LLM kwa tathmini ya kiotomatiki ya maelezo ya mwanafunzi mwenyewe
-- [[cong-confidence-asag-2026]] — Ukadiriaji wa majibu mafupi wa kiotomatiki
-- [[psyscore-essay-scoring-zpd-feedback]] — Ukadiriaji wa insha unaojua kisaikolojia unaobadilika na sifa
-- [[socratic-tests-conversational-assessment]] — Mitihani ya Socratic: tathmini ya mabadiliko, ya mazungumzo, ya multimodal
-- [[code-review-genai-cs1]] — Mahojiano ya mapitio ya kodi katika CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye uwajibikisho katika zama ya AI
-- [[test-driven-ai-assisted-learning]] — Kujifunza kunakosaidiwa na AI kunakoelekezwa na majaribio
-- [[genai-oop-programming-assessments-2026]] — Utendaji wa GenAI kwenye tathmini za upangaji wa programu inayoelekea kwenye vitu
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: mapambano yenye tija na udanganyifu wa kujifunza
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Kazi za tathmini zilizozalishwa na AI dhidi ya zilizobuniwa na binadamu katika EFL
-- [[roe-assessment-twins-2026]] — Pacha za tathmini za kuimarisha uhalali wa tathmini katika zama ya GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — Ukadiriaji wa AI wa tathmini za fizikia za mkono (Mkumbo)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Wanafunzi hawawezi kutambua kwa kuaminika vipengele vilivyoandikwa na AI

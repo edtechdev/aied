@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -105,56 +107,3 @@ Læreplansdesign knytter direkte an til [[learning-design|læringsdesign]] — l
 - **«En [[llm]] kan kartlegge en læreplan når den først er validert med høy reliabilitet.»** GPT-o3-mini fordelte **100 % over sju virksomhetsferdigheter for hver av 48 vurderinger**, og nådde **Krippendorffs alfa på 0.81** mot ekspertvekter — og **samsvaret** brøt sammen for bestemte ferdigheter. Høy samlet reliabilitet med ujevnt samsvar er mønsteret man må sjekke før man stoler på kartleggingen.
 - **«Å bygge inn AI-kompetanse betyr å legge til et kurs.»** LearnAI viser den innebygde formen: et **breddeeksponeringslag med korte presentasjoner inne i 18 eksisterende emner på tvers av fem fag (293 studenter)**. Eksponeringen var fordelt over læreplanen i stedet for samlet i en enhet.
 - **«Studentene kommer allerede i stand til å vurdere medier kritisk.»** Bare **13.8 % av de spurte utdannings- og journalistikkstudentene** sa at emnene deres tok opp kritisk medieanalyse, mot **97.8 % som vurderte det som viktig**. Gapet mellom å verdsette en ferdighet og å bli undervist i den, er læreplansåpningen.
-
-## Tilknyttede begrep
-- [[pedagogical-partnerships]] — Pedagogiske partnerskap
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Paraply: pedagogikker og undervisningsstrategier i AI-utdanning
-- [[recommender-systems-and-learning-paths]]
-
-## Tilknyttede artikler
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Vektet, ekspertvalidert ferdighetskartlegging for akkreditering
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse av veiledning i GenAI for konstruktiv tilpasning (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Å ta tak i tillit til AI-systemer gjennom utdanning: et didaktisk perspektiv
-- [[refrain-amplify-genai-curriculum-2026]] — Læreplansrammeverket hold tilbake, så forsterk for sekvensering av GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Prosjektbasert AI-læreplan i termisk engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level-rammeverket for smart produksjon i AI-tiden
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 vurderbare ferdigheter for læreplanskartlegging
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM-utdanning for AI-kompetanse: systematisk gjennomgang
-- [[caruana-pre-university-ai-education-slr-2026]] — Å forberede elever og lærere på en AI-drevet framtid: SLR av AI-utdanning før universitetsnivå (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-drevet plattform som genererer matematiske modelleringsoppgaver (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI i partikkelfysikkundervisning: forskningsproblemer og grunnleggende ferdigheter
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Rapport fra en online workshop om vurdering i informatikk i generativ AI-tid
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - kompetanserammeverk konvergerer mot fem dimensjoner uten et delt vokabular eller krysskobling
-- [[bursic-ai-residency-education-curriculum-2026]] — Barrierer for å integrere AI i læreplaner for spesialistutdanning: kvalitative intervjuer med tolv legeledere

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -124,45 +126,3 @@ Keduanya terkait erat: hampir setiap teknik pagar pengaman adalah cara mencapai 
 **"Ambang pagar pengaman adalah pilihan rekayasa yang tinggal disetel."** Ambang adalah keputusan kebijakan dengan biaya distribusional. Menggeser batas toksisitas dari 0.3 ke 0.7 memotong prompt berlabel dari **35.62% menjadi 12.4%**; pada detektor penipuan ia menukar **15 alarm palsu dan 18 penipuan terlewat menjadi 2 dan 36**. Tidak ada batas yang menghilangkan pertukaran itu — ia hanya memutuskan kesalahan mana yang disukai institusi, dan keputusan itu milik institusi alih-alih konstanta default.
 
 **"Audit keadilan adalah urusan terpisah dari kecukupan pagar pengaman."** Pola penolakan dan dukungan mendistribusikan manfaat secara tidak merata bahkan ketika diterapkan merata, dan tingkat kerugian rata-rata menyembunyikan siswa mana yang menyerapnya. Audit harus menjadi bagian dari spesifikasi pagar pengaman, bukan studi yang dipesan sesudahnya.
-
-## Konsep terkait
-
-- [[pedagogical-safety]] — tujuan yang diimplementasikan pagar pengaman
-- [[prompt-engineering]] — teknik desain petunjuk-bukan-jawaban
-- [[rag]] — pembumian pengetahuan sebagai pagar pengaman
-- [[human-in-the-loop-ai]] — QA dan pengawasan guru
-- [[llm-training-and-fine-tuning]] — lapisan pelatihan/keselarasan
-- [[reinforcement-learning]] — pembentukan reward untuk perilaku aman
-- [[bias-mitigation]] — mengaudit pagar pengaman untuk keadilan
-- [[ai-sycophancy]] — risiko manipulasi yang harus ditahan pagar pengaman
-- [[scaffolding]] — mekanisme pedagogis yang dipertahankan pagar pengaman
-- [[socratic-method]] — mode interaksi petunjuk-bukan-jawaban
-- [[hallucination-risk]] — risiko fabrikasi yang dikurangi pagar pengaman
-- [[cognitive-offloading]] — kerugian ketergantungan berlebih yang dicegah pagar pengaman
-- [[k-12]] — konteks tempat pagar pengaman paling penting
-- [[ethics]] — dasar normatif
-- [[governance]] — lapisan kebijakan
-- [[intelligent-tutoring]] — sistem yang dijaga
-- [[misconceptions]] — pengetahuan yang harus diperiksa pagar pengaman
-- [[trust]] — hasil dari pagar pengaman yang dirancang baik
-- [[llm]] — lapisan model yang dibatasi
-
-## Artikel terkait
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Kerangka Kompetensi Berbasis Ekosistem dan Platform Pembelajaran K-12
-- [[reflection-agent-fidelity-career-2026]] — Setia di Tempat yang Dapat Diperiksa: Mengaudit Agen Refleksi terhadap System Prompt-nya dalam Uji Acak
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Kerangka SCAFFOLD untuk mengemudikan dialog siswa-AI, dengan uji coba ruang kelasnya
-- [[generative-ai-guardrails-harm-learning]] — RCT lapangan kanonis tentang pagar pengaman
-- [[eduzone-llm-safety-k12]] — kerangka keselamatan LLM K-12
-- [[eduguard-safe-rag-llm-tutor]] — keselamatan berbasis RAG untuk tutor
-- [[paternalistic-filter-llm-history-education]] — mengaudit pagar pengaman untuk bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — pembelajaran terbimbing selaras RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — pasca-pelatihan selaras taksonomi
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sikofansi sebagai risiko keselamatan
-- [[ai-tutor-authoring-promptdecipher]] — QA yang digerakkan guru
-- [[llm-unlearning-math-privacy]] — unlearning di tingkat model
-- [[pedagogical-safety-rl]] — pembentukan reward untuk keselamatan pedagogis
-- [[residencyrl-clinical-rl-training-2026]] — RL selaras keselamatan dalam pelatihan klinis
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Perancahan terpandu aturan vs. ad hoc dalam sistem tutor LLM untuk matematika sekolah dasar (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: Kerangka untuk AI dalam Pendidikan Komputasi
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Pagar Pengaman atau Penghalang? Efek Gaya Pedagogis dan Kesadaran Konteks pada Asisten Pengajaran AI untuk Pemrograman
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — bagaimana risiko bagi pemikiran siswa bervariasi menurut kategori produk di 20 alat AI yang diamati di ruang kelas nyata

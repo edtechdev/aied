@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -46,13 +47,3 @@ Biblioteci publice care vor să găzduiască un chioșc (programul primește can
 - Bibliotecile participante contribuie cu **\$1.000 pe implementare de chioșc pe an**; pilotul în sine este limitat la site-urile care au aplicat.
 - Declarația de confidențialitate este afirmația programului, nu o constatare auditată; o bibliotecă ar trebui să confirme termenii de păstrare și de siguranță a copiilor în propriul acord de prelucrare a datelor.
 - A doua și a treia fază din foaia de parcurs, care permit bibliotecilor să ingesteze arhive locale și să guverneze sistemele rezultate, sunt planificate, nu livrate.
-
-## Concepte conexe
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

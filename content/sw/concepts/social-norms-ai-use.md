@@ -25,6 +25,8 @@ ai_assist:
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -64,7 +66,6 @@ Upande wa mwalimu wa hisia ile ile unaweza kupimwa. [[vassallo-ai-guilt-complex-
 Norm inayowafanya watu ambao hawajatenda wahisi hatia inafanya kazi yake kupitia kutabiriwa. Hilo ni mchakato wa kweli wa udhibiti, na haionekani kwa ukaguzi wowote wa sera unaoangalia tu kile wataalam na wanafunzi wanafanya.
 
 Utafiti wa wanafunzi 409 wa shahada ya kwanza unaweka utaratibu huo huo katika urejeshaji: kufichua kwa marika wanaodhaniwa na faraja na waelimishaji zilikuwa vihitaji vyenye nguvu zaidi vya kufichua kwa mwanafunzi mwenyewe, mbele ya kutojihusisha kimaadili ([[qu-wang-disclose-or-not-genai-2026|Qu na Wang (2026)]]). Kile mwanafunzi anachukulia kama mila ni kile anachoamini marika wake wanafanya, ambayo ni taswira ambayo utafiti wa mtazamo ulio juu unaonyesha kuwa mbaya kwa utaratibu. Kufichua, kwa ushahidi huu, ni jibu kwa mila inayoaminika badala ya kanuni iliyoandikwa au kiwango cha maadili cha kibinafsi.
-
 
 ## Kitabu cha kanuni za mahali hapo: taaluma na madarasa
 
@@ -110,39 +111,3 @@ Gharama ya kubadilisha huko inajitokeza katika mahali wataalam na wanafunzi wana
 **"Ufuatiliaji ungetatua mila kwa kufanya matumizi yaonekane."** Kufanya tabia ionekane hakutatui mila inapaswa kuwa nini; hubadilisha kile watu wako tayari kufichua. Muundo uliopimwa ni kufichua kwa uteuzi tayari, hivyo utaratibu wa ufuatiliaji unaotumika juu yake hupima ufichaji badala ya mwenendo.
 
 **"Mila ni zisizo rasmi, hivyo ziko nje ya ufikiaji wa taasisi."** Zinatekelezwa mahali hapo na zinaweza kubadilishwa mahali hapo, jambo linalozifanya ziwe rahisi kushughulikia kuliko sera: mazoezi ya wazi ya timu ya kozi ni kielekeo hasa kwa sababu ndipo kanuni inayotumika inapowekwa.
-
-## Dhana Zilizounganishwa
-
-- [[academic-integrity]] — kitabu rasmi cha kanuni ambacho mila hizi zinakua karibu nacho
-- [[ai-use-disclosure]] — mazoezi ambayo mila yanadhibiti moja kwa moja zaidi
-- [[framing-ai-use-for-students]] — jinsi darasa linavyosema matarajio yake
-- [[reducing-ai-misuse]] — mwenza wa kielimu wa kuweka mila
-- [[learner-identity]] — nani mwanafunzi anachukuliwa kuwa matumizi ya AI yanapoonekana
-- [[ai-detection]] — majibu ya kiufundi ambayo hasa yanashindwa
-- [[remote-proctoring]] — ufuatiliaji kama badala lililojaribiwa la mila
-- [[trust]] — kile mila na kufichua vyote vinavyotegemea
-- [[equity-in-ai-education]] — nani huchukua gharama ya kijamii
-- [[help-seeking]] — tabia ambayo aibu huzuia kwanza
-- [[group-work]] — mahali mila za kikundi zinajadiliwa
-- [[student-experience]] — upande wa kila siku wa haya yote
-- [[anxiety-and-stress]] — mabaki ya kihisia
-- [[governance]] — tabaka rasmi ambalo mila hizi ziko chini yake
-- [[ethics]] — fashti ambayo ina kidogo zaidi ya kusema kwa wanafunzi
-
-## Makala Zilizounganishwa
-
-- [[student-perception-ai-use-collaboration]] — Usahihi wa mtazamo wa wanafunzi wa matumizi ya AI ya washirika na uhusiano wake na utendaji wa ushirikiano
-- [[shame-guilt-ai-regulation-computing-education]] — Aibu na hatia kama wadhibiti wa kijamii wa matumizi ya AI katika elimu ya kompyuta
-- [[chirikov-regulate-ai-syllabi-2026]] — Jinsi waelimishaji wanavyodhibiti AI katika chuo kikuu: ushahidi kutoka mitaala 31,000 ya kozi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Mchanganyiko wa hatia ya AI: hisia za maadili na matatizo ya maadili katika kupitishwa kwa teknolojia ya kitaaluma
-- [[agarwal-ethical-values-norms-aied-2026]] — Kutambua maadili na mila za maadili kwa akili bandia katika elimu
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Hofu ya Big Brother: madhara hasi yanayoweza kutokea ya mitihani iliyosimamiwa
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Chini ya ufuatiliaji: kuweka ramani ya mazoezi ya usimamizi wa mitihani wa mbali katika tathmini ya uuguzi
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Kubuni tathmini chini ya habari isiyokamilika: AI ya kizalishaji, kufichua, na majibu ya wanafunzi
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Kugundua yasiyoweza kugunduliwa: taratibu za uhalifu baada ya AI ya kizalishaji
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Wizi au ushindani? AI katika elimu ya masoko
-- [[chen-zou-genai-group-assessment-agency-2026]] — Wakala katika tathmini ya kikundi inayosaidiwa na GenAI
-- [[reddit-genai-education-discourse-analysis-2026]] — Uchanganuzi wa mazungumzo ya Reddit: mawasiano ya wataalam–wanafunzi yanakusanyika katika migogoro ya kugundua na kutekeleza (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — Wanafunzi 409 wa shahada ya kwanza: kufichua kwa marika na faraja ya mwalimu vilitabiri kufichua kabla ya kutojihusisha kimaadili
-

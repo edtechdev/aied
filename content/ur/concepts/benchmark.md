@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -86,38 +88,3 @@ ai_assist:
 - **"leaderboard پر پوزیشن بتا دیتی ہے کہ ٹیوٹر کتنا اچھا ہے۔"** StudentBench **2,383 بالغوں کو AI ٹیوٹرنگ، براہِ راست ماہر انسانی ٹیوٹرنگ اور ویڈیو** حالتوں میں بے ترتیب تقسیم کرتا ہے اور دیگر نظاموں کے بجائے انسانی ٹیوٹروں کے مقابلے میں اسکور کرتا ہے۔ دیگر ماڈلوں کے پیمانے پر بنا بینچ مارک ایسا سوال حل کرتا ہے جو کسی کو درکار نہ تھا۔
 - **"مصنوعی شخصیات ٹیوٹر کی جانچ کے لیے کافی بنیاد ہیں۔"** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] جانچ کو **مصنوعی شخصیات کے بجائے دستاویز شدہ کیس ادب** پر ٹکاتا ہے اور **923 مکالمے** استعمال کرتا ہے۔ گھڑی ہوئی طالب علم شخصیات نظام کو ایسے کیس پاس کرنے دیتی ہیں جو واقع میں پیش نہیں آتے۔
 - **"بینچ مارک پر جج چیک کیے بغیر بھروسہ کیا جا سکتا ہے۔"** ہیلوسینیشن کو **حاصل شدہ کھلے لائسنس والے اقتباسات کے مقابلے entailment کے طور پر (ماہرین کے فیصلے کے ساتھ κ = 0.76)** اسکور کیا گیا — جج کی تصدیق ماہرین کے مقابلے میں اُس کے اسکور استعمال کرنے سے پہلے کی گئی۔ ناقابلِ تصدیق خودکار جج نامعلوم معنی کے اعداد پیدا کرتا ہے۔
-
-## منسلک تصورات
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## منسلک مضامین
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: مشکل رویوں والے طلبہ پر LLM ٹیوٹروں کا جائزہ (Park وغیرہ 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — 624 اشیاء والا انگریزی مہارت کا بینچ مارک جو ماڈل کی قابلیت کو کیلیبریٹ شدہ سطح کے طور پر رپورٹ کرتا ہے (Min وغیرہ 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچ کے آلات انسانوں اور LLM کے لیے ایک ہی چیز ناپتے ہیں؟ (Strugatski وغیرہ 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — تدریسی بینچ مارک: LLM کا تدریسی علم (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM پر مبنی تدریسی ڈیزائن ایجنٹوں کا بینچ مارک
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — مقامی OER AI علمی ذخیرے کے معاون: کثیر جہتی بینچ مارک
-- [[authentic-products-authenticated-processes-2026]] — مستند مصنوعات سے تصدیق شدہ عمل تک: AI سے بھری اعلیٰ تعلیم میں مستند جانچ
-- [[llm-cognitive-diagnosis-handwritten-math]] — ہاتھ سے لکھے ریاضی کے کام سے طلبہ کی علمی مہارتوں کی تشخیص کے لیے بڑے زبان ماڈلوں کا بینچ مارک
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: مصنوعی سیکھنے والوں کے ساتھ تدریسی LLM ایجنٹوں کے لیے طویل افق کا بینچ مارک
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ: مستقبل پر مرکوز ایک کانفرنس کی کلیدی بصیرتیں
-- [[anvil-ai-educational-animations]] — ANVIL: لیکچررز کے لیے تشبیہات اور ویڈیوز
-- [[icle-plus-plus-essay-scoring]] — ICLE++: مجموعی مضمون کی درجہ بندی کے لیے باریک خصلتوں کی ماڈلنگ
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: سلائیڈ آڈٹ کے لیے کثیرالوسائط LLM کا بینچ مارک
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: پیدا کردہ ریاضی کے خاکوں کی جانچ کا بینچ مارک
-- [[eeg-familiarity-automated-assessment-2026]] — سیکھنے والوں کی جانچ خودکار بنانا: EEG پر مبنی شناسائی کی پیش گوئی
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: نظریاتی کمپیوٹر سائنس تعلیم کے لیے ریٹریول سے افزودہ جنریشن — الگورتھم کے تجزیے اور پیچیدگی کے نظریے کے لیے ایک جامع جانچ فریم ورک
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: تشریح اول، کام پیدا کرنے والا بینچ مارک کی تعمیر، اور 12 فنکارانہ تصویری کاموں میں جہت کی سطح پر غیر زائدیت (Zhu وغیرہ 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ GRE میں مساوی سیکھنے کے فوائد دیتے ہیں
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI کی معاونت والے تعلیمی سوالوں کی تدریسی جانچ کے لیے پیشگی تربیت یافتہ ماڈلوں کا جائزہ
-- [[llm-benchmark-secondary-science-topics-2026]] — مڈل اسکول اور ہائی اسکول سائنس کے موضوعات پر LLM کی فہم کا بینچ مارک
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — AI ٹیوٹر بینچ مارک کے آٹھ ڈیزائن اصول، ایک ایسے پیمانے سے اخذ کیے گئے جسے دہرائی میں بہتر بنا دیا گیا تھا (Domínguez Figaredo & Fernández De la Cruz 2026)

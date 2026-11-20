@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -120,52 +122,3 @@ Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigen
 **„Mehr Theorien bedeuten ein besser verstandenes Feld.“** Anhäufung ohne Entscheidung ist das Gegenteil von Fortschritt. Theorien, die für die AI-Ära vorgeschlagen werden, vermehren sich schneller, als sie geprüft werden, und das Zeichen von Reife ist, dass konkurrierende Vorhersagen entschieden werden — was Forschungsdesigns erfordert, die zwischen ihnen unterscheiden können, nicht Kataloge, die sie alle unterbringen.
 
 **„Bildung über KI ist theoretisch betrachtet dasselbe wie KI in der Bildung."** Beide greifen auf unterschiedliche Stränge zurück: Der eine fragt, wie Lernende KI als Gegenstand verstehen lernen, der andere, wie KI das Lernen selbst verändert. Wer beide gleichsetzt, erzeugt Literaturübersichten, die zwei getrennte Evidenzbasen vermischen und zu keiner von beiden ein kohärentes Bild zeichnen.
-
-## Verbundene Konzepte
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
-
-## Verbundene Artikel
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Eine Lerntheorie mittlerer Reichweite für die Mensch-KI-Interaktion mit vier Mechanismen und sechs überprüfbaren Propositionen (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Übergeneralisierung: Adaptive Mastery-Verfahren können das Üben beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — KI-gestützte Untersuchung und Regulation in hybriden Systemen (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Positioniert KI als kognitiven Partner in der Mensch-KI-Ko-Regulation; Entwicklungsrahmen über die gesamte Lebensspanne
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen, der Denken als Mensch–KI-Interaktion neu konzipiert
-- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstgesteuertes Wachstum und das A2PL-Modell, das selbstgesteuertes Lernen mit GenAI erweitert
-- [[generativism-learning-theory]] — Schlägt eine neue Lerntheorie für das Zeitalter der generativen KI vor und greift dabei die klassischen vier
-- [[ai-vocational-education-training-review]] — Dokumentierte die Theorie-Praxis-Kluft von Konstruktivismus/Behaviorismus bei KI in der Berufsbildung (VET)
-- [[genai-educational-outcomes-meta-analysis]] — PRISMA-Metaanalyse von 53 Studien: gepoolte Zuwächse bei Leistung, Denken, Schreiben und Motivation, wobei Feedback den stärksten Wirkmechanismus darstellt (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Akteur
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von AI-Systemen zur Unterstützung des Lernens auf Basis von Productive Failure
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
-- [[lukesova-clue-before-correction-2026]] — Hinweis vor Korrektur: ChatGPT für autonomes Sprachenlernen
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — Pädagogische Praktiken und die Integration generativer KI über das gesamte Spektrum der Lerntheorien hinweg: eine systematische Übersichtsarbeit

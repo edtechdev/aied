@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -36,7 +37,3 @@ Scrie o lecție în orice editor de text și import-o în orice instrument care 
 
 ## Pentru cine este
 Designeri instrucționali și creatori de cursuri care vor ca conținutul lor să supraviețuiască unei schimbări de instrument, furnizori de eLearning care vor un format de import și export pe care utilizatorii lor îl înțeleg deja, și oricine construiește autorare asistată de IA peste un format citibil. Contribuitorii includ Dan Bashaw de la LXD Integral, iar formatul are un jurnal public de modificări până la v1.8.
-
-## Concepte conexe
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -68,25 +70,3 @@ ai_assist:
 **「習熟学習はAIがついに可能にする教育学である。」** その仕組みはAIよりはるかに前からあり、ブルームは数十年前に枠組みを定式化しました。AIは、かつて不可能だった設計を実現するのではなく、評価とペーシングの決定を自動化することでそれを運用可能にします。この捉え直しが重要なのは、自動化が規則の選択を引き継ぎ、判断が宿るのは規則だからです。
 
 **「習熟の下で評価が頻繁になれば、閾値はより信頼できる。」** 頻度は推定を改善しますが、誤って指定された規則を直しません。支援された作業を含むイベントからより頻繁に習熟を再計算することは、同じ誤った答えにより速く収束するだけです。
-
-## 関連する概念
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — 習熟のサイクルの中で練習を駆動する検索と間隔
-
-## 関連する記事
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺瞞的な過剰一般化：適応的な習熟は、学習者が行動をいつ差し控えるべきかを知る前に練習を止めうる（An, McLaren & Stamper 2026）
-- [[neural-symbolic-knowledge-tracing]] — 責任ある解釈可能な学習者モデリングのための深層学習への習熟／非習熟規則の注入
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — 支援された作業を認めることが習熟を膨張させる：誰を習熟と宣言するかを決める証拠規則（Srivastava 2026）
-- [[simulating-learner-task-selection]] — 習熟学習における学習者の課題選択方略とシステム制約のシミュレーション（Noh et al. 2026）
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 知識追跡は次のセッションの遂行を過大評価し、間隔効果を捉え損なう（Schuetze, Yan & Carvalho 2025）
-

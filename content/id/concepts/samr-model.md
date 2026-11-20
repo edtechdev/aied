@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -80,28 +82,3 @@ SAMR paling baik dipahami sebagai lensa kedalaman integrasi yang digunakan dalam
 **"SAMR dan TPACK adalah kerangka yang bersaing."** Keduanya mendeskripsikan hal berbeda: SAMR mendeskripsikan *derajat transformasi* dalam sebuah tugas, sementara [[tpack|TPACK]] mendeskripsikan *pengetahuan* yang dibutuhkan guru untuk mengintegrasikan teknologi dengan baik. Seorang guru dapat sangat mampu secara TPACK dan tetap beroperasi pada Substitution, yang menjadi alasan keduanya digunakan bersama alih-alih dipilih salah satu.
 
 **"Alat yang transformatif pada satu tingkat bersifat transformatif pada semua tingkat."** Alat generatif yang sama dapat mendukung Substitution dalam satu mata kuliah dan Redefinition dalam mata kuliah lain, karena tingkat itu adalah sifat dari desain tugas alih-alih sifat teknologi. Mengatribusikan tingkat kepada alat menghasilkan keputusan adopsi sebagai pengganti keputusan desain.
-
-## Konsep terkait
-
-- [[ai-education]] — AI dalam pendidikan (payung)
-- [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Model adopsi teknologi
-- [[icap-framework]] — Kerangka ICAP untuk keterlibatan kognitif
-- [[ai-technologies]] — Teknologi dan teknik AI
-- [[teacher-ai-competency]] — Kompetensi AI guru
-- [[educational-development]] — Pengembangan pendidikan
-- [[learning-design]] — Desain pembelajaran
-- [[k-12]] — Pendidikan K-12
-- [[higher-ed]] — Pendidikan tinggi
-- [[generative-ai]] — AI generatif
-
-## Artikel terkait
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Integrasi AI di pendidikan tinggi dinilai dengan SAMR: sebagian besar Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP dan SAMR memetakan empat skenario dari memasak ke pembelajaran
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR di antara lensa untuk perubahan kurikulum yang digerakkan GenAI
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR di antara kerangka yang menginformasikan standar teknologi fakultas
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Kritik posthumanis atas ontologi humanis SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Ketiadaan SAMR tentang kekuasaan, kepemilikan data, dan akuntabilitas
-- [[genai-use-changing-institutional-policy-physics-2026]] — Penggunaan GenAI siswa di bawah kebijakan institusional yang berubah: fungsi penggunaan dipetakan ke tingkat SAMR (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI di Kelas Matematika: Strategi Sinergis untuk Keberagaman dan Inklusivitas

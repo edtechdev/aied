@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -41,7 +43,6 @@ ai_assist:
 
 ## Como o desenvolvimento profissional e a preparação aparecem na pesquisa
 - **A adaptabilidade profissional reduz a ansiedade com a IA.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] mostra que as adaptabilidades profissionais predizem significativa e negativamente a ansiedade com a IA entre estudantes de Letras, com as autoavaliações centrais mediando parcialmente a relação; o grupo de baixa adaptabilidade mostrou a maior ansiedade com a IA. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirmam o mecanismo com SEM: a ansiedade com a IA prejudica as decisões de carreira em grande parte por meio da adaptabilidade profissional corroída (63,35% do efeito total), e a autoeficácia ofereceu proteção limitada. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] acrescentam que a ansiedade com a IA e atitudes negativas em relação à IA predizem a ansiedade em encontrar emprego após a graduação ao longo de 1.057 estudantes, sendo mulheres, estudantes de ciências sociais e estudantes do segundo ano os mais afetados. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] estendem isso a estudantes de ciências da saúde (821, r = 0,233). A preparação profissional é, portanto, um amortecedor validado empiricamente contra a [[anxiety-and-stress|ansiedade profissional relacionada à IA]].
-
 
 - **A preparação acompanhou o engajamento, não o nível de ameaça.** Em [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], o perfil mais ansioso com a IA ainda relatava o maior career crafting (4,222) e a maior empregabilidade autopercebida (3,964), ao lado do perfil favorável, que não diferia de forma significativa — então o nível de ansiedade não indexava a preparação profissional.
 - **O letramento em IA é necessário, mas não suficiente.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argumentam que o letramento em IA por si só não basta para a preparação profissional — os estudantes também precisam de adaptabilidade e de autoavaliações positivas, ligando diretamente o [[ai-literacy]] aos resultados de carreira. [[ai-literacy-graduate-employability-2026|Hendrawan e Lestari (2026)]] testam isso quantitativamente com 455 estudantes concluintes em Jacarta: a adaptabilidade profissional carrega um efeito indireto significativo (β = 0,173), e a mentalidade de crescimento não modera a trajetória de forma alguma, então é a adaptabilidade, e não a mentalidade, que faz o trabalho.
@@ -76,37 +77,3 @@ O desenvolvimento profissional e a preparação se conectam à [[professional-tr
 Um framework em nível de programa torna explícitos os passos institucionais, embora não tenha sido avaliado como programa. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propõe seis estágios: sensoriamento, validação com partes interessadas, diagnóstico do programa, redesenho curricular, efetivação e capacidade, e revisão de resultados. Cada estágio carrega um direito de decisão nomeado e um entregável com responsabilização, e a IA fica confinada a quatro funções de apoio delimitadas: detecção de padrões em informações do mercado de trabalho, mapeamento de competências, geração de opções curriculares para apreciação humana e monitoramento de indicadores de implementação. O valor está em nomear os passos de governança que uma estratégia de preparação profissional costuma deixar implícitos.
 
 Uma pesquisa com 1.445 universitários chineses traça um caminho das crenças de utilidade, passando pelo uso de IA, até a exploração de carreira. A utilidade percebida da IA generativa previu o uso com β = 0,569, enquanto a autoeficácia de carreira o previu com apenas β = 0,082. O uso então se associou ao comportamento de exploração de carreira com β = 0,423, a autoeficácia permaneceu o preditor cognitivo mais forte da própria exploração (β = 0,285), e o modelo explicou 50,5% da variância na exploração ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Os caminhos indiretos são estatísticos e transversais, não longitudinais.
-
-## Conceitos conectados
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — os resultados que decorrem da conclusão: persistência, retenção e graduação
-
-## Artigos conectados
-- [[ai-free-gates-engineering-students-india-2026]] — De portões sem IA ao trabalho primeiro com IA: como estudantes de engenharia na Índia navegam a universidade e as colocações no campus sem orientações de IA
-- [[boyd-swan-employer-responses-genai-2026]] — Experimento de survey com ~1.750 profissionais de contratação dos EUA: o enquadramento de substituição reduziu a disposição de entrevistar e de negociar salário, sobretudo para candidatos de GPA alto (Boyd-Swan & Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — Evidência de PLS-SEM de que o letramento em IA alcança a empregabilidade percebida por meio da adaptabilidade profissional, com a mentalidade de crescimento não acrescentando nada (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Escolhas entre avaliação e competência de força de trabalho decididas tarefa por tarefa (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — as adaptabilidades profissionais reduzem a ansiedade com a IA
-- [[ai-literacy-career-adaptability-business-2026]] — Letramento em IA e adaptabilidade profissional na educação em negócios
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Oito grupos focais: usuários creditam eficiência e refinamento, não usuários creditam originalidade e trabalho em equipe (autonomia assistida vs. criatividade lenta)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Habilidades de IA para egressos de faculdade: prioridades de instrutores e empregadores
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — preparação da força de trabalho para a manufatura inteligente
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — A IA e o futuro da força de trabalho em engenharia e computação
-- [[post-covid-ict-career-aspirations]] — Aspirações profissionais em TIC depois da COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — A ansiedade com a IA e o medo da substituição
-- [[duan-ai-anxiety-career-decisions-college-2026]] — A ansiedade com a IA prejudica as decisões de carreira por meio da adaptabilidade profissional (mediação de 63,35%)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — A ansiedade e as atitudes em relação à IA predizem a ansiedade em encontrar emprego (1.057 estudantes)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — A ansiedade com a IA prediz a ansiedade na busca por emprego em ciências da saúde (r=0,233, 821 estudantes)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Quatro perfis de atitude em relação à IA: o career crafting e a empregabilidade acompanharam o engajamento, não a ansiedade
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — As previsões do corpo docente são previsões, não evidência sobre emprego
-- [[kong-ai-employability-cognitive-engagement-2026]] — O mapa de construtos de uma revisão narrativa, da aprendizagem apoiada por IA à empregabilidade
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Framework de processo em seis estágios, não avaliado, para alinhar programas aos mercados de trabalho da era da IA
-- [[lu-career-cognitions-genai-exploration-2026]] — 1.445 estudantes chineses: utilidade da IA, uso e exploração de carreira em um único modelo transversal

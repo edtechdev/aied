@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,12 +46,3 @@ ai_assist:
 ## ملاحظات وتحذيرات
 
 التطبيقان مجانيان ولا يطلبان معلومات شخصية، لكن «خاص ومجهول» ليس مثل «بلا بيانات»: فسياسة Contact North تقول إنها تجمع سجلات تفاعل ChatGPT وبيانات Google Analytics، وتخزّنها على خوادم في كندا، ولا تسمح لـOpenAI بالتدريب عليها، وتشارك بيانات التفاعل مع OpenAI التي تحتفظ بها حتى 30 يومًا. ولا يُوصى بـAI Tutor Pro للمستخدمين تحت 18 دون إذن من أحد الوالدين أو ولي الأمر. وأعداد التفاعل عند البائع أرقام تسويقية خاصة به، لا بيانات استخدام مستقلة، ووسم النسخة التجريبية على Slide Builder يعني أن مخرَجه ينبغي فحصه قبل الاستخدام الصفّي. ولا يُذكر ترخيص مفتوح المصدر، فالشيفرة غير متاحة للتعديل المؤسسي.
-
-## المفاهيم المتصلة
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

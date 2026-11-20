@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -39,7 +40,3 @@ Wprowadzenie do zbioru ujmuje prompt jako gatunek retoryczny mający udział w d
 ## Co warto wiedzieć przed użyciem
 
 Cała książka jest bezpłatna w PDF i ePub, a poszczególne rozdziały są publikowane osobno z własnymi DOI. Publikacja: lipiec 2026, WAC Clearinghouse w serii WAC Repository, 402 strony, pod redakcją Anuja Gupty i Briana Gogana, z DOI zbioru 10.37514/TWR-B.2026.2999. Licencja to Creative Commons BY-NC-ND 4.0, więc czytelnicy mogą przeglądać, drukować osobiste kopie i linkować do książki, ale nie mogą jej powielać na innym serwisie ani adaptować bez zgody; kurs, który chce zmienionego brzmienia promptu, powinien napisać własną wersję, a nie przedrukowywać tych. Prompt każdego rozdziału testowano na platformach, choć książka nie podaje kontrolowanego porównania wyników, więc prompty należy traktować jako projekt ekspercki, a nie zwalidowaną interwencję.
-
-## Powiązane pojęcia
-
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

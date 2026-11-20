@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -118,52 +120,3 @@ ai_assist:
 
 - Σχεδιάστε για αντιθέσεις διαμορφώσεων αν σκοπεύετε να συνεισφέρετε θεωρητικά. Μια δοκιμή μέσου αποτελέσματος που δημοσιεύεται ως ανάπτυξη θεωρίας είναι το πιο συνηθισμένο και λιγότερο χρήσιμο προϊόν του πεδίου.
 - Συνδέστε ρητές διαψεύσιμες προτάσεις σε οποιοδήποτε πλαίσιο εισάγετε, και αναφέρετε ποιες διαφορές διαμορφώσεων θα τις είχαν διαψεύσει.
-
-## Συνδεδεμένες Έννοιες
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Συνδεδεμένα Άρθρα
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Επέκταση της λειτουργικής ταξινομίας: 90 από 154 ταξινομήσιμες δημοσιεύσεις (58,4%) πέφτουν έξω από τις αρχικές τέσσερις κατηγορίες (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Μια μεσαίου βεληνεκούς θεωρία μάθησης για την αλληλεπίδραση ανθρώπου-ΤΝ, με τέσσερις μηχανισμούς και έξι ελέγξιμες προτάσεις (Yan και Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Παραπλανητική υπεργενίκευση: η προσαρμοστική μάθηση μπορεί να σταματήσει την εξάσκηση πριν οι μαθητές μάθουν πότε να συγκρατούν μια ενέργεια (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Ο γενετισμός ως νέα θεωρία μάθησης
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Προς μια θεωρία επιστημικής συν-δράσης
-- [[du-yuan-epistemic-dependence-2026]] — Σχεσιακή επιστημική δράση και το όριο παραγωγικής εξάρτησης/επιβλαβούς εξάρτησης (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Το απουσιάζον γνωστικό σημείο αναφοράς (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Γνωστικά κοινά και αναγέννηση της εμπειρογνωμοσύνης
-- [[genai-performance-vs-learning]] — Επίδοση έναντι μάθησης
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Επιστημική επάρκεια σε ΤΝ (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Θεσμικός και γνωστικός ρόλος επιμέλειας
-- [[ai-cognitive-partner-co-regulation-learning]] — Η ΤΝ ως γνωστικός εταίρος στη συν-ρύθμιση
-- [[epistemic-proactivity-math]] — Επιστημική προδραστικότητα στα μαθηματικά
-- [[strydom-human-gai-paradigms-2026]] — Επτά παραδείγματα ενασχόλησης ανθρώπου-GAI εδραιωμένα σε επιστημολογικές πεποιθήσεις
-- [[critical-thinking-paradox-genai-learning-2026]] — Το παράδοξο της κριτικής σκέψης
-- [[dollinger-equitable-assessment-ai-2026]] — Δίκαιη αξιολόγηση υπό τη GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Θεωρία των Τριών Συστημάτων και γνωστική συνθηκολόγηση: πώς η ΤΝ αναδιαμορφώνει τον ανθρώπινο συλλογισμό (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Ανασυγκρότηση της Κοινότητας Διερεύνησης στην εποχή της γενετικής ΤΝ
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Εμπειρίες και αντιλήψεις πανεπιστημιακών εκπαιδευτικών για τη GAI: ευαλωτότητα, επανεξέταση της αξιολόγησης, μάθηση των μαθητών σε κίνδυνο (Farazouli και συν. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Εναλλακτική φιλοσοφία της ΤΝ: ο ταοϊσμός ως μέθοδος για την ΤΝ στην εκπαίδευση
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: σχήματα βασισμένα σε ισχυρισμούς για ελέγξιμη κωδικοποίηση εκπαιδευτικών διαλόγων
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Μεταγνωστική κυριότητα: ορισμός του κατασκευάσματος, όρια και ερευνητική ατζέντα
-- [[synthetic-position-self-authorship-2026]] — Η συνθετική θέση: μια διεκδίκηση διαλογικού εαυτού που ονομάζει τη συνθετική προαγωγή και την αναστολή της συγγραφικής φωνής με διασταυρούμενη πρόβλεψη
-- [[capability-decision-model-teacher-readiness-2026]] — Διαψεύσιμο μοντέλο ετοιμότητας εκπαιδευτικών με προτεραιότητα στην ικανότητα και τέσσερις συνθήκες διάψευσης
-- [[ai-connectedness-adolescent-mental-health-2026]] — Συνδεσιμότητα με την τεχνητή νοημοσύνη: ένα τρισδιάστατο κατασκεύασμα με έξι διαψεύσιμες προτάσεις προς μελλοντική δοκιμή
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Κύκλος γνωστικής συνεργασίας
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Επιθυμητές δυσκολίες και παραγωγική αποτυχία εφαρμοσμένες στην ερμηνευτική δράση στην εκπαίδευση στο εξωτερικό
-- [[webb-pck-genai-2026]] — Τρεις βινιέτες και ένα νέο κατασκεύασμα, ψευδο-cPCK, για έξοδο που μιμείται συλλογικά επικυρωμένη γνώση χωρίς εγγύηση (Webb et al. 2026)

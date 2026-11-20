@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -103,27 +105,3 @@ ICAP 对生成性、过程层面投入的强调，已被那些评估学生*如�
 **“一个 AI 导师因为会对话，就自动产生互动性投入。”** 对话是媒介，而不是模式。一个系统提供每一份实质贡献的对话，对一个戴着互动界面的学习者而言是被动的，这与[[student-engagement|投入文献]]在行为活动与认知投资之间记录的是同一种混淆。
 
 **“更高的 ICAP 模式总是更好。”** 它们成本更高，而这个排序关乎每单位相关加工所产出的学习，而不是一节课应当始终瞄准什么。基础流畅性可能需要主动重复，之后建构性工作才有可能；错误在于停在那里，而不在于途经它。
-
-## 关联概念
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## 关联文章
-
-- [[icap-cognitive-engagement-llm-agents]] — 用于以人工 vs. LLM 标注测量投入的扩展 ICAP 框架
-- [[hingle-collaborative-ai-literacy-2025]] — 跨四种 ICAP 模式的协作式 AI 素养
-- [[interactive-learning-dashboards-engagement]] — ICAP 作为对浅层学习分析投入的批评
-- [[multimodal-learning-genai]] — 多模态学习设计中的 ICAP 与认知投入
-- [[llm-facilitation-timing-online-discussions]] — 在线协作讨论中的 LLM 促成时机
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS 中的自适应 ICAP 支架（BKT 对 DRL）
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — 生成式学生模拟代理中的 ICAP 认知深度模型
-- [[assessing-student-drive-framework-2025]] — 以 ICAP 锚定的反思性 GenAI 互动评估

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -57,30 +59,3 @@ ai_assist:
 - **"जो मॉडल अच्छा स्कोर करता है, वह वही चीज़ माप रहा है।"** **एक ही मूल्यांकन उपकरण** पर मानव और LLM प्रतिक्रिया संरचनाएँ **भिन्न** होती हैं: मॉडल अच्छा स्कोर कर सकता है जबकि उपकरण जो मापना चाहता है उससे भिन्न कुछ माप रहा हो। अंकों का मेल अवलोकन है; निर्माण-समतुल्यता एक अलग दावा है जिसके लिए संरचना-स्तरीय प्रमाण चाहिए।
 - **"अंशांकन एकल सटीकता संख्या से पढ़ा जा सकता है।"** **एकल सटीकता संख्या ऐसा मॉडल छिपा सकती है जो केवल अंशांकित दिखता है**: GPT-4o और Gemini 2.0 Flash से **153 स्नातकों** के संवादों से सीखने-शैली आयाम अनुमानित कराने पर **मध्यम सटीकता** मिली जो संतुलित मेट्रिक के अंतर्गत भिन्न व्यवहार करती है। समग्र सटीकता ने वह अंतर छिपा दिया जिसे संतुलित मेट्रिक ने उजागर किया।
 - **"स्वचालित स्कोरिंग पाइपलाइन मनोमापीय प्रक्रिया को पुनरुत्पादित नहीं कर सकती।"** लेखकों ने एक स्थापित पाइपलाइन को स्वचालित रूप में पुनरुत्पादित किया (**निचली सीमा के लिए कम से कम 7 रूब्रिक मदों और ऊपरी सीमा के लिए कम से कम 10 का सही उत्तर देने की 67% प्रायिकता**), जिससे AI और मानव मद अंकों की तुलना एक ही आधार पर हो सके। प्रक्रिया पुनरुत्पादनीय थी; निर्माण का प्रश्न शेष है।
-
-## संबंधित अवधारणाएँ
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## संबंधित लेख
-- [[genai-reliance-scale-problem-solving-2026]] — समस्या समाधान के दौरान जनरेटिव AI पर विद्यार्थियों की निर्भरता के लिए वैध पैमाना (Hou et al. 2025)
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — प्रति-वर्ग पुनरावृत्ति जाँचने पर मध्यम सटीकता बहुसंख्यक-वर्ग पूर्वानुमान निकली (Zamanifard, Goudarzi & Robb 2026)
-
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — बड़े पैमाने की लेखन मूल्यांकन में एआई-सहायित स्कोरिंग के लिए एक मानव-पाश्र्व ढाँचा
-- [[assessment-latent-structure-human-llm-2026]] — क्या मूल्यांकन उपकरण मानवों और एलएलएम के लिए एक ही चीज़ मापते हैं? (स्ट्रुगात्स्की व अन्य 2026)
-- [[llm-psychometric-calibration-cdp]] — मनोमापीय अंशांकन के साथ एलएलएम मूल्यांकन को संरेखित करना
-- [[llm-item-difficulty-prediction]] — प्रश्न कठिनाई की एलएलएम भविष्यवाणी
-- [[cong-confidence-asag-2026]] — आत्मविश्वास-सचेत स्वतः लघु-उत्तर ग्रेडिंग
-- [[multimodal-item-parameter-estimation-2026]] — बहुमाध्यम प्रश्न-मापदंड कल्पना
-- [[competency-based-education-genai-production-2026]] — जेनएआई के साथ दक्षता-आधारित शिक्षा
-- [[ai-grading-handwritten-physics-2026]] — हस्तलेखित भौतिकी मूल्यांकनों की एआई ग्रेडिंग (ओलंपियाड)
-- [[razavi-powers-item-difficulty-llm-2026]] — एलएलएम और ट्री-आधारित एमएल का उपयोग करके प्रश्न कठिनाई का अनुमान
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — एआई साक्षरता उपकरणों की तुलना: 55 निर्माणों में जैंगल और जिंगल युग्म
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — डेटा विज्ञान पाठ्यक्रमों में एलएलएम का विद्यार्थी उपयोग और एआई-निर्मित प्रश्न कठिनाई की सीमाएँ

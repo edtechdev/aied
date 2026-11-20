@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -116,41 +118,3 @@ ai_assist:
 **«ИИ помогает больше всего, когда координирует группу».** Координационная поддержка и эпистемическая поддержка тянут в противоположные стороны. Снижение координационной цены сотрудничества может снизить давление на группу в вопросе согласования смысла, а именно этот процесс и оценивается. Компромисс между эффективностью и регуляцией — ключевое проектное напряжение, а не деталь реализации.
 
 **«Групповая работа трудна из-за людей».** Часть трудности — в проектировании задачи, и поэтому ИИ меняет профиль трудности, а не просто облегчает её: инструмент, быстро отвечающий на вопросы, меняет то, на что группа тратит время, и является ли это улучшением — зависит от того, какие навыки задача была призвана развивать.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — Ролевые сценарии для групп, делящих один ИИ
-- [[ai-education]] — ИИ в образовании (зонтичная категория)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Связанные статьи
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — Три паттерна активности студентов при опосредованном GenAI групповом оценивании
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Возникающая активность учащихся, когда ИИ присоединяется к группе: поддерживающие и оппозиционные персоны
-- [[genai-counter-learner-groupthink-2025]] — ИИ-агент, вводящий спорные положения для противодействия групповому мышлению в командах PBL
-- [[xu-genai-collaborative-space-2026]] — Общий и личный доступ к GenAI в команде
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Режимы совместной работы и компромисс между результативностью по задаче и саморегуляцией
-- [[golrang-propact-pair-programming-2026]] — ProPACT: рассмотрение диады как единицы анализа в парном программировании
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Опосредование ИИ выявления допущений в междисциплинарных студенческих командах
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM как партнёры по критике: активное опровержение сохраняет когнитивный конфликт
-- [[polished-artifacts-fragile-engagement-2026]] — Отполированные артефакты, хрупкое эпистемическое вовлечение
-- [[breideband-community-builder-cobi-2026]] — Аналитика дискурса на аудиторном уровне для группового сотрудничества
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — ИИ как педагогический посредник сотрудничества
-- [[neurodivergent-computing-students]] — Требования нейроотличных студентов к коллаборативному обучению
-- [[academic-league-of-ai-2026]] — Демократическое студенческое управление и проектные команды для образования в сфере ИИ
-- [[teacher-student-agency-orchestration]] — Совместная оркестровка активности преподавателя и студента в реальном времени
-- [[dollinger-equitable-assessment-ai-2026]] — Справедливое оценивание в эпоху ИИ
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: содействие этическому образованию в группах посредством ролевых игр и обсуждения для этической рефлексии и исследования

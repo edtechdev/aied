@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -57,7 +59,6 @@ Con un modello di padronanza in esecuzione, il compito del sistema diventa decid
 Il mastery dipende anche dalla ritenzione durevole, non da una singola performance corretta. La scienza cognitiva sulla [[retrieval-spacing-interleaving|pratica di recupero]] e sulla curva dell'oblio motiva la spaziatura della pratica dopo il raggiungimento della soglia di mastery. I sistemi di ripetizione spaziata basati su IA come Memdora generano materiale di pratica al punto della lettura e offrono una tassonomia di interazioni di recupero fondate cognitive, programmate da algoritmi allo stato dell'arte, così che la padronanza raggiunta sia rinforzata nel tempo anziché persa nel giro di poche ore. Questi progetti attingono alla [[cognitive-psychology|psicologia cognitiva]] e al principio delle [[desirable-difficulties|difficoltà desiderabili]] per fare dello sforzo del recupero stesso parte del processo di apprendimento.
 **L'affermazione sulla ritenzione ora ha una misura, e i modelli di mastery la falliscono.** Addestrati sulla Sessione 1 per prevedere la performance a una settimana di distanza, l'Additive Factors Model e il BKT sovrastimavano la performance della sessione successiva di circa il 58% e il 51%, il BKT-Forgetting del 47%, e nessuno riproduceva l'effetto di spaziatura osservato su 88 partecipanti che apprendevano 48 coppie di parole in sei sessioni. L'adattamento retrospettivo all'intero dataset faceva sembrare gli stessi modelli accettabili (AUC 0,79, 0,77 e 0,74), quindi l'affermazione sulla ritenzione di un sistema di mastery vale solo quanto il suo metodo di validazione ([[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan & Carvalho, 2025]]).
 
-
 Infine, l'evidenza ammonisce dal dare per scontato che il supporto generato dall'IA sia uniformemente benefico. In uno studio multi-[[governance|istituzionale]] su tracce animate generate dall'IA per programmatori novizi, i benefici erano dipendenti dal contesto e di breve termine, e gli studenti a medio [[student-engagement|coinvolgimento]] hanno registrato un decremento di performance attribuito a costi di coordinamento — un effetto in stile inversione dell'esperienza che sottolinea la necessità di personalizzare il supporto sullo stato attuale dello studente anziché applicare uno strumento a tappeto. Analogamente, un continuum evolutivo dell'[[ai-literacy|alfabetizzazione all'IA]] nell'[[higher-ed|istruzione superiore]] posiziona il mastery non come mera adozione fluida degli strumenti di IA, ma come progressione attraverso stadi di uso informato e critico, ciascuno con le proprie strategie di [[formative-assessment|valutazione formativa]]. Complessivamente, questi risultati inquadrano il mastery learning abilitato dall'IA come un sistema che deve essere calibrato sui singoli studenti, spaziato in modo sostenibile e valutato per la competenza genuina anziché per la fluidità dell'output.
 
 - **Il mastery learning a controllo condiviso è efficiente solo quanto la strategia di selezione dei compiti dello studente.** Uno studio di simulazione (1.000 [[simulating-students|studenti simulati]] per esecuzione, parametri AFM e BKT adattati a log reali di MathTutor e DataShop) ha confrontato nove strategie di selezione dei compiti. L'efficienza varia di un ordine di grandezza: la strategia avversa al rischio "Minimize Worst Case Loss" — che sceglie l'abilità la cui perdita di padronanza nel caso peggiore è minore — produce un sovraccarico di pratica di 30,28x nella risoluzione di equazioni (28,93x nell'interpretazione di grafici), contro 1,73 +/- 0,38 in media per le altre strategie. Vincoli di sistema mirati lo correggono chirurgicamente: i vincoli sulla selezione dei compiti riducono il sovraccarico di pratica a 12,88/14,46x, e un bias di selezione dei problemi "Prefer Harder" lo riduce a 1,98x (d di Cohen = 1,86) — mentre le strategie già efficienti non sono influenzate. L'implicazione progettuale: i vincoli dovrebbero essere consapevoli della strategia, proteggendo gli auto-regolatori patologici senza tassare quelli buoni, e una riprogettazione simulation-first evita di esporre gli studenti a un sovraccarico di pratica di 30x per scoprire il fix. ([[simulating-learner-task-selection]])
@@ -73,25 +74,3 @@ La valutazione basata su standard è la controparte valutativa del mastery learn
 **"Il mastery learning è la pedagogia che l'IA rende finalmente possibile."** La sua meccanica precede di molto l'IA — Bloom ha formalizzato il quadro decenni fa — e l'IA lo operazionalizza automatizzando le decisioni di valutazione e di ritmo anziché realizzando un progetto prima impossibile. Questa riformulazione conta perché l'automazione eredita la scelta della regola, e la regola è dove vive il giudizio.
 
 **"Una valutazione più frequente sotto il mastery rende la soglia più affidabile."** La frequenza migliora la stima e non corregge una regola mal specificata. Ricalcolare la padronanza più spesso da eventi che includono lavoro assistito converge più rapidamente sulla stessa risposta sbagliata.
-
-## Concetti collegati
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — recupero e spaziatura come motore della pratica all'interno dei cicli di mastery
-
-## Articoli collegati
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge tracing overestimates next-session performance and misses the spacing effect (Schuetze, Yan & Carvalho 2025)
-

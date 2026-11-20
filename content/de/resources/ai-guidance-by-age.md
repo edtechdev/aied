@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -52,11 +53,3 @@ Der Leitfaden ist ehrlich über seinen eigenen Status. Die Autorinnen und Autore
 Zwei weitere Grenzen sind für den Unterricht wichtig. Die Empfehlungen sind Designimpulse, keine getesteten Interventionen; nichts auf der Seite berichtet ein Ergebnis. Und die Altersstufen legen ein grobes Raster über eine Entwicklung, die innerhalb der Stufen, zwischen Kulturen und zwischen Kontexten variiert – was der Leitfaden selbst einräumt.
 
 Die Rahmung, die in die Praxis gehört, ist die des Leitfadens selbst: die Schleife menschlich halten und dann klären, wo KI hineinpasst, statt einen menschlichen Kontrollpunkt in eine Schleife zu setzen, die der Maschine gehört – dieselbe Sorge, die der Korpus als [[cognitive-offloading|Offloading]]-Risiko festhält, wenn ein Werkzeug den Teil der Aufgabe übernimmt, der die Entwicklungsarbeit geleistet hat.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -71,7 +73,6 @@ ai_assist:
 
 **لم تنتقل الراحة العامة مع الذكاء الاصطناعي إلى أدوات التخصص نفسه.** لدى 100 طالب جغرافيا في جامعة كازاخية واحدة، تتبّعت جهوزية التدريس بالذكاء الاصطناعي ونظم المعلومات الجغرافية الإلمام بنظم المعلومات الجغرافية (ρ = 0.508) ومعرفة الذكاء الاصطناعي الجغرافي (ρ = 0.425) لا الإلمام العام بالذكاء الاصطناعي (ρ = 0.071، p = 0.485) — درسٌ لإعداد [[teacher-education|المعلمين]] في أي تخصص يتشكّل على هيئة أداة ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov وآخرون (2026)]]). ووصف 67% أنفسهم بأنهم جاهزون بشكل من الأشكال، لكن 6% فقط استخدموا التركيبة عمليًا و43% حكموا بأن التعليم المتاح كافٍ. والتقييم [[self-report-measures|مُبلَّغ عنه ذاتيًا]] وغير مُتحقَّق من صلاحيته، فهو يصف ما يقوله هؤلاء الطلاب عن أنفسهم.
 
-
 يسأل [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] عن مدى جودة تعامل النماذج العامة مع محتوى العلوم ذاته: فعلى مجموعات البنود المتوافقة مع NGSS للمرحلة الإعدادية (1,078 بندًا) والثانوية (1,150 بندًا)، تجاوزت تسعة نماذج مفتوحة الأوزان 90% في معظمها، دون علاقة بين حجم النموذج والدقة، وحكم معلم علوم على 236 من 240 بندًا مُعاينًا (98.3%) بأنها متوافقة مع الإطار، مشيرًا في الوقت نفسه إلى غياب المخططات وتفسير البيانات والتمثيل الرياضي — فبنود النص وحده لا تستطيع ممارسة كل توقع أداء في NGSS. وتترك [[item-response-theory|صعوبة البنود]] العالية وقدرتها التمييزية المنخفضة مسألةً مفتوحة عما إذا كانت البنود تحتاج تحسينًا أم أن علوم المرحلة الثانوية قد صارت قابلة للمعالجة لهذه الفئة من النماذج، ويدعو المؤلفون التغذية الراجعة متعددة الأدوار والقائمة على الأدلة كالمعيار الغائب.
 
 وفي تحليل تلوي لـ42 دراسة عن الذكاء الاصطناعي التوليدي والدافعية، كان أصغر أثر لمجال مادة دراسية في العلوم (g = 0.109، فاصل ثقة 95% [−0.107, 0.325]، k = 3)، وهو المجال الوحيد الذي عبر فاصله الصفر، فالأدلة المجمّعة لا تدعم حجة [[motivation|دافعية]] للذكاء الاصطناعي التوليدي في العلوم تحديدًا ([[genai-learning-motivation-meta-analysis-2026|فانغ وآخرون (2026)]]).
@@ -83,41 +84,3 @@ ai_assist:
 - **«لا يوجد دليل سببي على الذكاء الاصطناعي في تعليم العلوم.»** يعطي **تقييم عشوائي مدته أربعة أسابيع** لمنصة مراجعة بالذكاء الاصطناعي في علوم GCSE تقديرًا سببيًا مقداره **g لهيدجز = 0.33**، **دون دليل على أن الأثر اختلف بحسب المادة**. فالأثر متواضع وهو سببي.
 - **«امنح الطلاب الوصول تتبع المكاسب.»** **الوصول المنظّم لا الوصول في ذاته هو ما يقود المكسب**: بلغ متوسط النمو المبلّغ عنه من الفرق **17% تحت وصول فردي غير محدود لكن 34% و31% عندما كان الوصول منظّمًا**. فالهيكل كان التدخل.
 - **«المحاكاة العلمية تتطلب برمجيات متخصصة.»** يستطيع **محفّز من أربعة عناصر باللغة الطبيعية** توليد **محاكاة فيزيائية بالواقع المعزَّز يتحكم فيها باليد**. فنزل عائق تأليف المحاكاة إلى تصميم المحفّز، وهو ما ينقل المهارة المطلوبة من البرمجة إلى تحديد الظاهرة.
-
-## المفاهيم المرتبطة
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## المقالات المرتبطة
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Framework chapter on science literacy as coherence across curriculum, instruction and assessment (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science and chemistry education
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis and respiration
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Conceptual change texts vs. AI dialogue for heat and temperature
-- [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
-- [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Pre-service science teachers' AI perceptions and acceptance
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review
-- [[genai-learning-motivation-meta-analysis-2026]] — The only domain whose motivational interval crosses zero (g = 0.109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — لم تنتقل الراحة العامة مع الذكاء الاصطناعي إلى جهوزية الذكاء الاصطناعي الجغرافي
-
-

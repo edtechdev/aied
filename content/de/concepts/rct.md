@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -69,25 +71,3 @@ Für die ausführlichere Behandlung experimentellen Designs in der KI in der Bil
 - **„Randomisierung garantiert eine valide Schätzung dessen, was das Werkzeug bewirkt."** Randomisierung balanciert Störvariablen; sie stellt nicht sicher, dass irgendjemand die Behandlung genutzt hat. Eine gruppenrandomisierte Studie mit geringer Annahme schätzt **den Effekt des Angebots** des Werkzeugs, und Intent-to-treat und Treatment-on-treated beantworten unterschiedliche Fragen.
 - **„Eine große Studie ist immer das bessere Design."** Manche argumentieren, konventionelle großmaßstäbliche Studien **könnten mit Tutoringplattformen, die sich während einer Studie materiell verändern, nicht Schritt halten**, und nutzen stattdessen lehrkraftgeführte Designs, die gültig bleiben, während das System sich weiterentwickelt. Eine Studie über ein bewegliches Ziel kann gut gepowert sein und dennoch ein System messen, das nicht mehr existiert.
 - **„RCTs und Beobachtungsevidenz sind austauschbar."** Eine RCT mit **1.174 Teilnehmenden** fand, dass GenAI **etwa drei Viertel einer bildungsbasierten Produktivitätslücke schloss** — eine präzise Kausalbehauptung über einen bestimmten Zeitraum. Beobachtung erklärt Mechanismus und Übernahme; sie kann diese Schätzung nicht tragen, und die RCT kann nicht erklären, warum.
-
-## Verbundene Konzepte
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — das Design hinter der stärksten Evidenz zu Studierendenunterstützung
-
-## Verbundene Artikel
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Die Vorbereitungszeit für Stundenentwürfe fiel über 108 Grundschulen auf 0,76 des Werts der Vergleichsgruppe, bei einer 7-%-Dosis der Werkzeugnutzung
-
-- [[generative-ai-education-productivity-gaps]] — Verengt generative KI bildungsbasierte Produktivitätslücken? Evidenz aus einem randomisierten Experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Lehren schaden: eine RCT
-- [[access-not-enough-ai-tutoring-2026]] — Zugang reicht nicht: menschliche Unterstützung verbessert das Engagement mit KI-Tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — KI-Tutoring im Tempo der Innovation evaluieren: von Praxislehrkräften geführte mikro-randomisierte Studien einer KI-Tutoring-Plattform im GCSE-Naturwissenschaftsunterricht
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen gleichwertige GRE-Lerngewinne
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Gruppenrandomisierung nach Lehrenden: ein Fall der Abschlussnoten um 0,37 SD und ein Fall der Plattformteilnahme um 0,90 SD, mit 15 % Annahme und Inferenz auf 34 Clustern (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Ein Ergebnis, das nach einer Verzögerung gemessen wird, nicht am Ende der Sitzung

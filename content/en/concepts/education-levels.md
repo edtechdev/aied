@@ -15,6 +15,8 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 > **Levels of education** — the bands that organize the `level` metadata: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** and **[[teacher-role|teacher]] education**. This umbrella covers the field as a whole rather than any single band, explaining what changes as you move across the bands, why the school/university break matters more than the subject being taught, and where the AI evidence is dense and where it is thin.
@@ -98,40 +100,3 @@ One pattern holds at every level surveyed: the human layer absorbs the hardest c
 **"An [[intelligent-tutoring|adaptive tutor]] helps every level equally."** The comparison that isolates the variable is instructive: two versions of the same second-grade mathematics tutor — identical content, interface, feedback and spoken hints — differing **only in whether task selection followed a Bayesian [[knowledge-tracing|knowledge tracing]] model**. Adaptive task selection is a level-sensitive intervention, and its benefit depends on whether learners at that level can act on the adaptation.
 
 **"Evidence concentrated in higher education generalises downward."** It does not, and the distribution of the literature is a warning rather than a convenience. Where the evidence is dense and where it is thin is a property of the research economy, not of where AI is most used, so a claim about K-12 drawn from university samples is an extrapolation across the boundary that matters most.
-
-## Connected Concepts
-- [[primary-education]] — The primary band in its own right
-- [[secondary-education]] — Middle and high school together
-- [[undergraduate-education]] — Coursework under external judgment
-- [[graduate-education]] — Supervision, research training, professional programs
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Connected Articles
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Adaptive versus non-adaptive tutoring in second-grade mathematics (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing with third-graders in primary science
-- [[chatgpt-music-education-junior-high-2026]] — Junior high students' attitudes toward ChatGPT for lyric learning (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS designed for middle school, with a proposed longitudinal study
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty in Chinese secondary education (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Four types of LLM reliance among undergraduate writers (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI-assisted seminar platform with embedded librarian support for engineering students
-- [[ai-mediated-research-agency-formation-2026]] — AI dependence, autonomy and innovation in doctoral and postdoctoral training (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Stakeholder views on data privacy in African higher education (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Education managers' AI adoption readiness across Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-enabled immersive PBL for vocational design students (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' intention to use AI in early childhood settings
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Children's attitudes toward an age-tailored AI chatbot
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 primary studies; four components including ethics and critical data literacy (Yim & Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 secondary studies; accuracy collapses on higher-order items (Pérez-Montesdeoca et al. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1477 respondents across high school, university and teachers; perceived learning versus engagement
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 undergraduate and postgraduate students; digital literacy predicted performance, ethics did not
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Undergraduate versus graduate comparison; ethics and autonomy gap widest (Zaripova et al. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Five-dimension graduate generative AI literacy model

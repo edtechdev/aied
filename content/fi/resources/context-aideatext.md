@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,12 +48,3 @@ Opiskelijoille, jotka työstävät lukemista tai tehtäväpakettia ja haluavat t
 ## Huomioita ja varauksia
 
 Opiskelijoille suunnatusta työkalusta ei ole julkaistu hintaa eikä tiliä, kun taas institutionaalinen käyttöönotto – pilvi, paikallinen tai hybridi – tarjotaan räätälöidyllä tarjouksella ja tapaamisella; pidä ”ilmaista” marraskuun 2026 julkisen demon tilana, ei takuuna. Teksti ja kuvat menevät isännöityyn palveluun, jota pyörittää Claude, ja sivusto itse kehottaa käyttäjiä poistamaan nimet, summat, osoitteet ja yritysten nimet ennen lataamista, mikä siirtää tunnistetietojen poistamisen taakan lataajalle eikä alustalle. Istunnot poistavat itsensä tunnin kuluttua, ellei niitä viedä. Taustayhtiö markkinoi instituutioille myös laajempaa päättelygraafiarvioinnin alustaa, ja sen väitteet deduktiivisten, induktiivisten, abduktiivisten ja analogisten kuvaajien erottamisesta tulevat neljästä lähdetekstistä – sivusto kutsuu sitä demonstraatioksi, ja validointi laajassa mitassa on vielä tulossa.
-
-## Liittyvät käsitteet
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

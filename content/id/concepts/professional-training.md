@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -88,43 +90,3 @@ Pelatihan profesional berbeda dari pendidikan akademik dalam fokusnya pada keter
 **"Pelatihan literasi AI dapat digeneralisasi lintas peran."** Sebagian besar instrumen tidak mengukur kompetensi yang spesifik peran: dalam tinjauan sistematis atas **33 instrumen literasi AI guru**, **29 (87.9%)** menyasar konsep AI umum sementara hanya **4 (12.1%)** membahas penggunaan [[pedagogy|pedagogis]] atau okupasional atau okupasional yang sebenarnya dibutuhkan pekerjaan itu. Program yang dibangun di atas instrumen umum sedang mengukur sebuah proksi.
 
 **"Simulator adalah pengganti pelatihan di tempat kerja."** Simulator mengembangkan prosedur dan menghilangkan konsekuensi, yang bernilai dan justru merupakan bagian yang tidak dapat ditransfer — konsekuensi itulah kurikulumnya dalam pekerjaan yang kritis terhadap keselamatan.
-
-## Konsep terkait
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — tempat praktik imersif paling mapan
-
-## Artikel terkait
-- [[prunuske-cognitive-windows-research-meetings-2026]] — Memindahkan rapat riset dari pembaruan data ke jendela kognitif di era kecerdasan artifisial
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI dan Masa Depan Tenaga Kerja Teknik dan Komputasi
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Kerangka Workforce Readiness Level untuk manufaktur cerdas di era AI
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Kerangka Keterampilan AI HiBob yang divalidasi bersama instruktur dan pemberi kerja
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi milik bersama kognitif: AI dan regenerasi keahlian
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Survei komparatif yang menunjukkan kondisi institusional, bukan konteks nasional, menjelaskan kesenjangan kesiapan GenAI dosen (Bi dkk. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Pendidik guru merancang bersama model literasi AI adaptif dan kuesioner reflektif (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Tinjauan yang menunjukkan instrumen literasi AI guru tertinggal dari AI generatif, menandai sasaran pelatihan (Zainal dkk. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Pengembangan profesional tiga jam menaikkan persepsi kegunaan dan kemudahan penggunaan guru Jerman, tetapi tidak niat menggunakan AI untuk diferensiasi
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Tinjauan AI dalam pelatihan guru awal untuk matematika sekolah dasar: pelatihan singkat berfokus alat tidak cukup
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survei yang menghubungkan pelatihan AI sebelumnya dan frekuensi penggunaan dengan persepsi positif guru sekolah dasar Turki
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotasi peran sebagai mekanisme penstrukturan persiapan profesional berbantuan AI
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Pertanyaan terbuka menuju ketergantungan yang mempertahankan keterampilan dalam keterlibatan AI reflektif
-
-- [[jongkind-genai-patient-medical-communication-2026]] — Penggunaan pasien GenAI untuk pelatihan komunikasi medis bagi mahasiswa kedokteran sarjana: studi kuasi-eksperimental
-- [[cowhitt-deliberative-instructional-agents-2026]] — Agen instruksional deliberatif untuk pengembangan profesional guru, dengan kondisi tanggung jawab bagi PD yang dimediasi AI
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Ketika praktik AI sebuah profesi teknis melampaui jalur pengajarannya

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -108,39 +110,3 @@ ai_assist:
 - **"동반자 관계는 학생의 목소리를 높이는 것이다."** 교육학적 동반자 관계는 역할과 상호 의무가 정해진 **경계 지어진, 협상된 관계**이지 자문이 아닙니다. 역할도, 권한 범위도, 결정의 몫도 없는 목소리는 구조적으로 아무것도 바꾸지 않습니다.
 - **"동반자 관계는 채택할 수 있는 태도다."** 그것은 시간, 학생 동반자에 대한 인정, 동반자들이 진정으로 영향을 미칠 수 있는 변화 같은 기관적 조건을 요구합니다. 그런 조건 없이 선언된 동반자 관계는 자신이 중단시키겠다고 주장하는 위계를 재생산합니다.
 - **"권력 공유는 교수진 개발이 될 수 없다."** 문헌의 주장은 동반자 관계가 관계를 통해 교육자의 이해를 바꾸기 *때문에* 개발이라는 것입니다. 그것을 학생의 이익으로만 틀 짓는 것은 그 메커니즘을 버리는 일입니다.
-
-## 연결된 개념
-
-- [[pedagogy]] — 교수법과 교수 전략
-- [[collaborative-learning]]
-- [[agency]] — 학습자 주도성
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## 연결된 문서
-
-- [[guided-inquiry-genai-course-policy-2026]] — 생성형 AI 강좌 정책을 공동 설계하는 학생들을 위한 안내된 탐구 접근
-- [[lo-co-creating-custom-gpts-sap-2026]] — 맞춤 GPT 공동 창작: 생성형 AI 혁신의 동반자로서의 학부생에 관한 자기민속지학(autoethnography) 연구
-- [[williams-ingle-assessment-co-creation-ai-2025]] — 공동 창작을 통한 평가 설계: AI를 평가하는 데 있어서의 학생-교직원 동반자 관계
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — 교수학적 신뢰를 보존하기 위해 학생을 동반자로 하는 실천에서 AI를 항해하기 위한 다섯 가지 지침 원칙
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — 청소년 동반자와의 AI 공동 설계: 관계적 프라이버시 윤리 틀
-- [[fawns-entangled-pedagogy-genai-students-2026]] — entangled pedagogy 틀을 통해 AI와 관련된 학생들의 복잡한 현실을 조명하기
-- [[anastasia-shared-agency-partnership-framework-2026]] — 공유 주도성: 교수-학생 협력을 위한 주도성 동반자 관계 틀
-- [[maybee-disruptive-partnerships-sap-2025]] — 교란적 동반자 관계: 정보학에서 학생들과 협력하기
-- [[student-centered-genai-responsible-framework-2026]] — 책임 있는 생성형 AI 사용을 위한 학생 중심 틀
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 학생들이 710명 규모로 동료를 위한 AI 튜터를 만들었다: 참여는 높고 학습 증거는 탐색적 (Zangari et al. 2026)
-

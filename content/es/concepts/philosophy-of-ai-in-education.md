@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -87,34 +89,3 @@ La filosofía de la IA en la educación y el [[theory-development-aied|desarroll
 **«La filosofía no occidental es contenido que se añade a un marco sin cambiarlo.»** Puede ser una fuente de fundamentos distintos. Una reconstrucción trata los conceptos daoístas —la «naturaleza del Dao» (道性), el autocultivo (修道) y el «Zhenren» (真人)— no como «contenido oriental» adjuntado a un marco occidental, sino como recursos que remodelan los fundamentos conceptuales a través de los cuales se entiende la IA en la educación. Añadir una tradición como ilustración y usarla para reformular las preguntas son actos académicos distintos.
 
 **«La crítica filosófica no es accionable.»** Es la que fija qué cuenta como éxito. Si la salida de un sistema es un logro de quien aprende, y si una ganancia medida es un bien educativo, son preguntas previas que ningún tamaño del efecto puede responder, y las instituciones que se las saltan optimizarán lo medible y lo llamarán mejora.
-
-## Conceptos conectados
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Educación química e IA: laboratorios, evaluación formativa, límites de los LLM y filosofía de la experimentación
-
-## Artículos conectados
-- [[genai-chinese-higher-education-integrity-2026]] — IA generativa en la educación superior china: integridad e implicación
-- [[ensemble-cognition-philosophy-ai-education]] — Cognición de conjunto: un marco filosófico para la cognición humano-IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbiosis pedagógica y quien aprende poshumano
-- [[videla-embodied-ai-education-choreography]] — Crítica corporeizada y postcognitivista de la IA descorporeizada en educación
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Modelo crítico-evolutivo de la cognición interpretativa en humanidades
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — La coagencias epistémica como filosofía del aprendizaje con máquinas
-- [[avraamidou-ai-colonization-science-education]] — Filosofía crítico-feminista que cuestiona la colonización de la educación por la IA
-- [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Encuadre ecológico desde las ciencias del aprendizaje de la IA generativa
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filosofía de la experimentación en química con IA
-- [[strydom-human-gai-paradigms-2026]] — Enmarcar la dinámica humano-IA: siete paradigmas de implicación con la IA generativa (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Filosofía alternativa de la IA: el daoísmo como método para la IA en educación
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Cómo el lenguaje sobre la agencia en 366 resúmenes la nombra pero no le asigna responsabilidad (Poudyal 2026)
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — La IAED «centrada en lo humano» leída como discurso antropocéntrico con usos comerciales (Wang y Jin, 2026)
-- [[khan-machines-emotional-labor-education-2026]] — ¿Pueden las máquinas realizar trabajo emocional? El debate de 1950–1996, y por qué la mímesis subdetermina el cuidado

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -158,57 +160,3 @@ Bilgi tabanının yapıcı yanıtları tutarlıdır ve hiçbiri anketleri bırak
 - **“Anket kanıtı zayıftır ama kabaca yansızdır.”** Yanıt yapısı, yanlılıktan önce tahmini sınırlar: bir anket **%31 yanıt oranıyla 112 yanıt** ya da **572 davetten 90 yanıt** elde eder. Yanıtlayıcı havuzu kendi kendini seçen bir alt kümedir; dolayısıyla rakam o alt kümeyi betimler.
 - **“Anketler bu alanda azınlık bir yöntemdir.”** **394 GenAI yükseköğretim çalışmasını** kapsayan bir kapsam taraması, **anket ölçeklerini en sık bildirilen değerlendirme yöntemi olarak bulmuştur (269 çalışma, %68,3)**; bu, testlerin ve kısa sınavların önündedir. Alanın baskın kanıtı öz bildirimdir.
 - **“Öz bildirim ile ölçülen yapılar uyuşur.”** **Öz bildirimli bilişsel yük, makale yazarlığında %80’den %2’ye uzanan yük devri profilleri arasında anlamlı biçimde farklılaşmamıştır**, oysa en ağır yük devredenler ölçülebilir biçimde farklılaşmıştır. Davranışın kırk kat değiştiği yerde öznel ölçüt düzdü.
-
-## Bağlı kavramlar
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Bağlı makaleler
-- [[high-school-genai-acceptance-tam-physics-2026]] — Tek niyet puanı, iki zıt kullanım
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Bir öz bildirim aracının kullandığı uygulama biçimi, ölçtüğü şeyi değiştirir
-- [[capability-decision-model-teacher-readiness-2026]] — Öz bildirimli YZ kapasitesini yetkinlik inançlarından ayırmaya yönelik ayırt edicilik geçerliliği ölçütleri
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Etmen YZ yol modelinde katılım, ölçülen değil algılanan performansı öngörür (Pramod & Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — Öğretmen YZ okuryazarlığının paralel öz bildirimli ve nesnel ölçütleri
-- [[jin-glat-genai-literacy-assessment]] — GLAT: öz bildirime alternatif performans temelli bir ölçüt
-- [[genai-student-experiences-uk-he-survey-2026]] — Birleşik Krallık kurumlarında anketlenen öğrenci üretken YZ kullanımı
-- [[student-llm-interaction-taxonomy-review-2026]] — Verinin öz bildirimden mi günlük kaydından mı geldiğine göre şekillenen taksonomiler
-- [[tracing-genai-literacy-interaction-patterns]] — Üretken YZ okuryazarlığını nitelendiren süreç verisi
-- [[engagement-intensity-learner-modeling]] — Öğrenen modellemede sinyal olarak öz bildirimli kullanım
-- [[predicting-attrition-competitive-programming]] — Öz bildirimli güven / uygulama davranışı
-- [[ai-use-critical-thinking-medical-students-2026]] — Tek kaynaklı bir aracılık modelinde ortak yöntem yanlılığı
-- [[genai-motivation-engagement-2026]] — Motivasyon ve katılımın yalnızca öz bildirime dayalı PLS-SEM’i
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 81 fizik lisans öğrencisi üzerinde YZ kullanımı ve güven anketi
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Öz bildirim çaresi olarak ekran kaydı ve uyaranlı hatırlama
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Öz düzenlemeli öğrenme üzerine öz bildirim artı iz verisi
-- [[adaptive-pretesting-retention]] — Günlük kayıtlarından türetilen davranışsal çaba göstergeleri
-- [[ai-vocational-education-training-review]] — Öz bildirim/nesnel ölçüt dengesizliğini bildiren derleme
-- [[student-genai-use-views-writing|Öğrencilerin yazma için üretken YZ kullanımı ve görüşleri]] — Tek bir sosyoloji bölümünde anket artı mülakat
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — İlk 15 maddelik bir öz değerlendirme aracı; algılanan yetkinliğin ne ortaya koyabileceği konusunda açık
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 öğretmen YZ okuryazarlığı aracının 31’inin öz bildirim, hiçbirinin performans temelli olmadığını bulan derleme
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Öz bildirimden türetilen profiller aynı biçimde davranır
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Aynı yapıda öz bildirim ile performans arasındaki uyuşmazlığa oran koyan iki aşamalı derleme (Fan ve ark. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Algılanan sahiplik tam deneme devrini diğer her şeyden ayırdı, iz ise çok daha fazlasını (Jelson ve ark. 2026)
-
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66 çalışmanın 32’sinde algı bildirilirken 8’i sorgulama becerilerini ölçtü
-
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — YZ okuryazarlığı araçlarının %63,8’i güvenirlik, %20’sinden azı geçerlilik kanıtı bildiriyor
-
-- [[huang-genai-academic-information-resources-2026]] — Kütüphane kayıtları ile anket tutumları farklı yönlere işaret ediyor

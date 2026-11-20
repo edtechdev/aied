@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -79,31 +81,3 @@ Usimamizi wa mitihani wa nje upo kwenye wigo. **Usimamizi mtandaoni** kwa kawaid
 - **"Uwezo bora wa kugundua maana yake usimamizi bora."** Mapitio ya kimfumo ya muongo mmoja ya **masomo 80 yaliyopitiwa na wenza (2014-2024)** yanagundua usimamizi wa hali ya juu wa ML/DL **hugundua udanganyifu kwa** usahihi zaidi na hayasemi chochote kuhusu kama kuutumia kunabadilisha mwenendo. Utendaji wa kugundua ni sifa ya kigawanyaji, si ya utaratibu wa tathmini.
 
 - **"Ishara za tabia ni viashiria vya kuaminika vya makosa."** Mifumo **hufuatilia alama kumi na saba za mwili kwa kila fremu** kwa YOLOv11 ili kupata vipengele vya **mkengeuko wa mkao, mwelekeo wa kichwa na mwendo wa sehemu ya juu ya mwili**. Dhana hizo ni mbadala, na mkao ulioashiriwa ni uainishaji kuhusu mwili badala ya uchunguzi wa kosa.
-
-## Dhana Zilizounganishwa
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Makala Zilizounganishwa
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI inayovaliwa huondoa ishara ya tabia ambayo usimamizi unategemea (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Mapitio ya kimfumo ya muongoja wa usimamizi wa mitihani mtandaoni wa otomatiki
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Mapitio kamili ya udanganyifu wa kitaaluma katika usimamizi wa otomatiki
-
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% ya wanafunzi walichukuliwa kuwa wenye hatari kubwa katika mtihani uliosimamiwa wa ana kwa ana, na hatari ikitabiriwa kutoka alama za mapema za LMS za muhula

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -112,45 +114,3 @@ SEL は、[[ai-literacy|AI リテラシー]]（AI リテラシーを関係的で
 **「粘り強さの低さは、励ましで直る動機づけの問題である。」** 粘り強さは教育技術における繰り返し現れる制約であり、[[framing-5-percent-problem-teachers-persistence|5% の問題]]が名指すパターンです。それは動機づけと納得、認知的な障害、*そして*困難に対する回復力によって形づくられます。励ましが扱うのは三つのうちの一つです。作業記憶を超えた問題のために止まった学習者は、安心の言葉が不足しているのではありません。
 
 **「AI が利用できると知っても、学生の努力の投資は変わらない。」** 変わりうるものであり、その効果は最も弱い学習者にとって逆方向に働きます。[[ai-availability-student-motivation|AI の利用可能性]]は、とりわけ初心者にとって、努力を伴う関与の知覚された価値を下げうるのです。利用可能性そのものが負の符号を持つ動機づけの介入であり、だからこそ SEL に隣接する設計は、役に立つシステムの存在を中立として扱えません。
-
-## 関連概念
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## 関連記事
-
-- [[liu-genai-sel-mapping-review-2026]] — GenAI と SEL に関する 43 研究のマッピングレビュー: 不均等なコンピテンシーの網羅と薄い倫理報告
-
-- [[sec-ai-literacy-narrative-review-2026]] — 社会情緒的コンピテンシーを AI リテラシーに統合すること
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — 信頼の隔たりに注意せよ：教員—学生の見解
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 足場かけされた AI リテラシー（SAIL）の枠組み
-- [[teacher-education-ai-literacy-sdt-2026]] — AI リテラシーのための教員教育（SDT）
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI への依存、自己効力感、資源管理
-- [[self-efficacy-tutoring-learning]] — 指導からの学習を形づくる自己効力感と好感度
-- [[shame-guilt-ai-regulation-computing-education]] — AI 利用の社会的な調節者としての恥と罪悪感
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 代替から足場かけへ
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI チャットボットと集団的効力感
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy：情動的な数学の個別指導
-- [[ai-campus-wellbeing-tools]] — AI 主導のキャンパスのウェルビーイングツール
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 研究における政策の欠如
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 初期の社会情緒的学習における人間—AI の補完性（Raave ら 2026）
-- [[parlant-emotional-micro-interventions-2026]] — リアルタイムの情動的なミクロ介入と教員のための定型句集
-- [[shastry-gray-empathy-offloading-2026]] — AI が共感を与えられると思うと、人は共感をオフロードする（Shastry & Gray 2026）
-
-- [[sycophantic-ai-social-interaction-2026]] — 追従的な AI は人間への助言希求を置き換え、現実の相互作用への満足度を下げる（Ibrahim ら 2026）
-

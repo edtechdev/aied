@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -99,28 +101,3 @@ ai_assist:
 **"工作室教学中的 AI 取代了批评。"** 这一文献中的建构主义框定恰恰相反：一个被设计出来的"微世界"**扩展了创意搜索空间而不取代设计思维**。批评是判断形成之处，而一个提供候选解的工具给批评更多可处理的材料，而不是更少需要它的理由。
 
 **"学生在艺术教育中还没有使用 AI，因此课程可以设定节奏。"** 调查证据发现，近 **70% 的建筑学生已经在独立使用 AI 工具**。课程正在追赶一种已经扩散的实践，这使任务从引入变为批判性整合。
-
-## 关联概念
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## 关联文章
-
-- [[project-based-digital-storytelling-art-design-2026]] — 15 周、426 名学生的数字叙事毕业设计：新颖性强、整合弱、AI 是工具而非作者（Tian et al. 2026）
-- [[t2i-competence-paradox-2026]] — 417 名艺术与设计学生对文生图的接受，及选择性使用的"能力悖论"（Liu, Meng & Zhang 2026）
-- [[luminote-llm-vr-stage-lighting-education-2026]] — 面向舞台灯光的 LLM 辅助 VR 教学，以及专家与新手表征之间的差距（Liang et al. 2026）
-- [[playing-bias-epistemic-games-text-to-image-2026]] — 玩偏见：解读文生图模型的认识论游戏（Foka 2026）
-- [[zhu-creative-agency-trust-genai-art-2026]] — 艺术专业学生的创意能动性、信任与专家评定的产出质量

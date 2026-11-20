@@ -10,6 +10,8 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 reviewed_by: [editor]
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 > **Design Thinking** — a key concept in [[ai-education|AI in education]] research: a human-centered, iterative [[problem-solving|problem-solving]] process (typically Empathize → Define → Ideate → Prototype → Test) that moves learners from understanding a problem to producing and refining a solution. Explored across 8 articles.
 
@@ -55,40 +57,3 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 **"Design thinking is a process to be automated stage by stage."** It is a discipline of framing and reframing problems, which is what fixation forecloses. Automating the stages while leaving the frame unexamined produces competent output for the wrong problem.
 
 **"AI agents that agree with the [[student-support-and-success|student support]] their design reasoning."** The productive use documented here runs the other way: [[ai-agents-constructive-conflict-design-education-2026|constructive conflicts with AI agents]] tests adversarial prompting that forces reconsideration. An agreeable agent reinforces the fixation; a dissent-oriented one is the design with an educational claim behind it.
-
-## Connected Concepts
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Connected Articles
-- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-

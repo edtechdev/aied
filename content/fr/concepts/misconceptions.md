@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -126,37 +128,3 @@ Ces réfutations sont délibérément écrites sous la forme du [[refutation-tex
 - **« Les idées fausses des enseignants se corrigent en présentant des preuves. »** Dans un pilote mené auprès de **123 éducateurs italiens**, le désaccord se concentrait le plus fortement sur les **styles d'apprentissage cognitifs (78% des enseignants défendaient l'appariement visuel/auditif)**, l'inclusion et le travail de groupe (68%) et la surcharge d'EdTech (54%). Les désaccords les plus forts étaient les plus résistants aux preuves, ce qui explique pourquoi la [[refutation-text|réfutation]] l'emporte sur l'affirmation.
 - **« Toutes les objections des enseignants aux preuves sont de la résistance. »** Lorsque les mêmes items étaient administrés par une IA conversationnelle qui **validait le contexte de l'enseignant avant de réintroduire les preuves**, **41% des objections portaient sur de véritables contraintes contextuelles** — taille des classes, besoins particuliers, exigences du programme. Une part substantielle de ce qui paraît une idée fausse était une objection juste.
 - **« Les idées fausses peuvent être détectées de manière fiable à partir du dialogue. »** **Sur 241 segments sollicités, 221 (91,7%) ont été confirmés comme idées fausses stratégiques par vote majoritaire d'experts (κ de Fleiss = 0,9487)**, **sans différences significatives** entre les groupes. Une fiabilité élevée est atteignable sous arbitrage d'experts, et c'est la condition dont dépend l'affirmation.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Les séquences de changement conceptuel qui confrontent une croyance spécifiquement entretenue
-- [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Articles liés
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Ne croyez pas le battage médiatique : huit mythes sur l'IA et la nécessité d'une approche critique dans l'enseignement supérieur
-- [[student-rationalization-ai-writing]] — La rationalisation par les étudiants de l'écriture assistée par IA
-- [[genai-skill-bypass-literacy]] — Le contournement des compétences par l'IA générative et la littératie
-- [[trust-reliance-ai-education-2026]] — Confiance et dépendance dans l'éducation à l'IA
-- [[contextual-sycophancy-ai-literacy]] — La flagornerie contextuelle et la littératie en IA
-- [[sycophantic-ai-social-interaction-2026]] — L'IA flagorneuse dans l'interaction sociale
-- [[llm-fallacy-misattribution]] — L'attribution erronée de sophismes aux grands modèles de langue (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Défectueuses mais mémorables : la réception critique par les étudiants d'analogies générées par l'IA générative et personnalisées selon leurs intérêts en enseignement de l'informatique
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS : des explications fluides et assurées qui sont fausses conceptuellement plutôt que factuellement (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Des instructions cachées dans un fichier remis peuvent faire monter une note attribuée par l'IA sans avertissement visible (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Les idées fausses des enfants sur la sécurité de l'IA : l'amitié avec un robot mal interprétée comme une garantie de vie privée (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)

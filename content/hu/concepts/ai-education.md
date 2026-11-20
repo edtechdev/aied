@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -188,58 +190,3 @@ A mesterséges intelligencia az oktatásban a tudásbázis minden fogalmához ka
 **„Mivel az MI általános célú, a bárhol talált eredmény mindenhol érvényes.”** A technológia általánossága nem hozza létre a bizonyítékok általánosságát. A tudományterületi, szint- és kontextusszálak azért léteznek, mert ugyanaz az eszköz ezekben eltérően viselkedik, és a határon változatlanul átvitt eredmény extrapoláció.
 
 **„A terület érettsége leolvasható a publikációs volumenéről.”** A volumen és az érettség szétválik; a kutatómódszerek szál visszatérő tervezési gyengeségeket dokumentál, amelyeket a volumen nem javít meg, a keretrendszerek pedig gyorsabban szaporodnak, mint ahogy tesztelik őket.
-
-## Kapcsolódó fogalmak
-
-- [[primary-education]] — MI az általános iskolai oktatásban
-- [[secondary-education]] — MI a középfokú oktatásban
-- [[undergraduate-education]] — MI az alapképzésben
-- [[graduate-education]] — MI a mester- és doktori képzésben
-- [[pedagogical-patterns]] — A bevált sorok, amelyek működtetik a tudományterület pedagógiáit
-- [[ai-literacy]] — paraván: az MI megértése, használata és értékelése
-- [[automation-bias]] — az olvasói oldal kudarca: egy automatizált ítélet ellenőrzés nélküli elfogadása
-- [[human-ai-collaboration]] — paraván: hogyan dolgoznak együtt az emberek és az MI
-- [[pedagogy]] — paraván: tanítási módszerek és stratégiák
-- [[case-based-learning]] — Esetmódszer, esetmegbeszélés és kontrasztos esetek
-- [[metaphors-and-analogies]] — Hogyan alakítja a metafora az MI megértését, és hogyan támogatja az analógia a tanítást
-- [[learning-theories]] — paraván: hogyan zajlik a tanulás
-- [[ai-technologies]] — paraván: modellek, technikák és rendszerek
-- [[discipline-specific-aied]] — paraván: MI a tantárgyak és szintek szerint
-- [[assessment]] — paraván: hogyan értékeli az MI a tanulókat és formálja az érvényességet
-- [[feedback]] — paraván: hogyan keletkezik, szállítódik és használódik a visszajelzés
-- [[stakeholders]] — paraván: kik az szereplők
-- [[learners]] — paraván: a tanuló-oldali fogalmak (élmény, identitás, önállóság, kölcsönhatás, tanulómodellek)
-- [[ai-ed-evaluation]] — paraván: hogyan tudjuk, működik-e az MI
-- [[research-methods-aied]] — paraván: hatékonysági kutatási módszerek
-- [[ai-assisted-educational-research]] — MI-támogatott oktatáskutatás
-- [[governance]] — paraván: az intézményi és szabályozási réteg
-- [[educational-policy-ai]] — paraván: politika, iránymutatás és megvalósítás
-- [[equity-in-ai-education]] — paraván: méltányosság, hozzáférés és inklúzió
-- [[learning-sciences]] — az AIED mögött álló empirikus tudományterület
-- [[ethics]] — a mesterséges intelligencia etikai dimenziói az oktatásban
-- [[misconceptions]] — az emberek által az MI-re hozott mentális modellek
-- [[interpreting-and-applying-aied-research]] — egy vizsgálat elolvasása és egy megállapítás gyakorlatba vitele
-- [[limitations-in-aied-research]] — az evidenciabázist átfogó határok
-- [[meta-analysis-systematic-review]] — amit az áttekintések és metaanalízisek megállapítanak
-- [[history-of-aied]] — hogyan fejlődött a tudományterület
-- [[philosophy-of-ai-in-education]] — a filozófiai alapok
-- [[theories-and-frameworks]] — az elméleti és keretcsomópontok térképe
-- [[theory-development-aied]] — elmélet építése és átdolgozása
-- [[sensor-and-gaze-analytics]] — paraván: a tanulók érzékelése tekintet, EEG és viselhető jelek alapján
-- [[ai-avatars-and-synthetic-instructors]] — paraván: szintetikus emberek tanítanak, tutorálnak, szimulálnak és értékelnek
-- [[civic-and-political-education]] — tantárgyi terület: írástudás a nyilvános élethez, vékony bizonyítékbázissal
-
-## Kapcsolódó cikkek
-
-A mesterséges intelligencia oktatásban történő alkalmazásának tudományterület-szerű áttekintései — azok a vizsgálatok, amelyek az egész tudományterületet vagy egy egész oktatási szintet felmérék, nem egy témát:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Az MI-és-oktatás kutatás fejlődése négy évtizeden át (AIxEd keret)
-- [[mishra-control-vs-agency-history-2025]] — Irányítás kontra önállóság: a mesterséges intelligencia története az oktatásban
-- [[genai-higher-education-systematic-review-2026]] — Generatív MI a felsőoktatásban: 125 vizsgálat szisztematikus áttekintése
-- [[stanford-evidence-base-ai-k12-2026]] — Az MI bizonyítékbázisa a K-12-ben: 818 dolgozat áttekintése
-- [[genai-educational-outcomes-meta-analysis]] — Generatív MI és oktatási kimenetek: átfogó metaanalízis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 középiskolai tanulmány; nyereség ott, ahol a diákok ítélik meg a kimenetet, nem ahol az eszköz állítja elő a munkát
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 mesterképzéses hallgató; a felkészültség a témavezetői támogatáson keresztül érte el az önhatékonyságot
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61 forrásra épülő áttekintés a doktori témavezetés etikájáról, visszajelzéséről és irányításáról
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Egycsoportos végzős szeminárium; önirányított tanulási nyereség segítség nélküli teszt nélkül
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 hallgató; alap- és mesterképzés közötti szakadék az etikában és az önszabályozásban

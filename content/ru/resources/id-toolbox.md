@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -38,8 +39,3 @@ ai_assist:
 ## Зачем он существует
 
 Курт Цильбершер, разрабатывающий корпоративное обучение на протяжении двадцати восьми лет, описывает одни и те же мелкие нерешённые проблемы, повторяющиеся на протяжении всей его карьеры, — подсчёт слов озвучки, поиск ресурса, из-за которого курс превысил лимит [[edtech-platform|LMS]], ручной аудит покрытия субтитрами, — и создаёт их решения и предоставляет их бесплатно. На сайте также проводится бесплатный ежегодный опрос о том, как дизайнеры обучения фактически проводят свою рабочую неделю.
-
-## Связанные концепции
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

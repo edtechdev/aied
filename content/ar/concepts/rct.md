@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -69,24 +71,3 @@ ai_assist:
 - **«العشوائية تضمن تقديرًا صحيحًا لما تفعله الأداة.»** تُوازن العشوائية المُشوِّشات؛ لكنها لا تضمن أن أحدًا استخدم العلاج. فتجربة عشوائية جماعية بقبول استخدام منخفض تُقدّر **أثر عرض** الأداة، والنية-إلى-المعاملة والمعاملة-على-المعالَجين تجيبان عن سؤالين مختلفين.
 - **«التجربة الكبيرة هي دائمًا التصميم الأفضل.»** يرى بعضهم أن التجارب التقليدية واسعة النطاق **لا تستطيع مواكبة منصّات التدريس الخصوصي التي تتغيّر ماديًا أثناء الدراسة**، فيستخدمون بدلًا منها تصاميم يقودها المعلّمون تبقى صحيحة مع تطوّر النظام. فتجربة على هدف متحرّك قد تكون قوية القدرة ومع ذلك تقيس نظامًا لم يعد موجودًا.
 - **«التجارب العشوائية المضبوطة والدليل الرصدي قابلان للاستبدال.»** وجدت تجربة عشوائية مضبوطة بـ**1,174 مشاركًا** أن الذكاء الاصطناعي التوليدي **أغلق نحو ثلاثة أرباع فجوة إنتاجية قائمة على التعليم** — ادعاء سببي دقيق خلال فترة محددة. فالرصد يفسّر الآلية والتبنّي؛ ولا يستطيع حمل ذلك التقدير، والتجربة العشوائية لا تستطيع تفسير السبب.
-
-## المفاهيم المتصلة
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — التصميم الكامن وراء أقوى أدلة دعم الطلاب
-
-## المقالات المتصلة
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — تراجع زمن التحضير إلى 0.76 من مجموعة المقارنة عبر 108 مدارس ابتدائية، بجرعة استخدام 7% من الأداة
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ناتج يُقاس بعد تأخير لا في نهاية الجلسة
-- [[generative-ai-education-productivity-gaps]] — هل يضيّق الذكاء الاصطناعي التوليدي فجوات الإنتاجية القائمة على التعليم؟ أدلّة من تجربة عشوائية
-- [[genai-can-harm-teaching-rct-2026]] — يمكن للذكاء الاصطناعي التوليدي أن يضرّ التعليم: تجربة عشوائية مضبوطة
-- [[access-not-enough-ai-tutoring-2026]] — الوصول ليس كافيًا: الدعم البشري يحسّن الاندماج مع التدريس الخصوصي بالذكاء الاصطناعي
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — تقويم التدريس الخصوصي بالذكاء الاصطناعي بسرعة الابتكار: تجارب عشوائية مضبوطة مصغّرة يقودها الممارسون لمنصّة تدريس خصوصي بالذكاء الاصطناعي في علوم GCSE
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس الخصوصي بالذكاء الاصطناعي والبشري يُنتجان مكاسب تعلّم مكافئة في GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — العشوائية الجماعية بالمعلّم: انخفاض بنسبة 0.37 انحرافًا معياريًا في الدرجات النهائية وانخفاض بنسبة 0.90 انحرافًا معياريًا في مشاركة المنصّة، مع قبول استخدام 15% واستدلال على 34 عنقودًا (Liu et al. 2026)

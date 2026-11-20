@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -106,50 +108,3 @@ ai_assist:
 - **"শাস্ত্র মূলত বিষয়বস্তু-উদাহরণের জন্য গুরুত্বপূর্ণ।"** **560 শিক্ষার্থীর** ওপর গবেষণা দেখে শাস্ত্রীয় অন্তর্ভুক্তি **অনুমান করে শিক্ষার্থীরা কত ঘন ঘন ও কত খোলাখুলিভাবে [[generative-ai|উৎপাদনশীল এআই]] ব্যবহার করে**। শাস্ত্র ঠিক করে সরঞ্জামটি আদৌ ব্যবহৃত হয় কি না এবং সেই ব্যবহার প্রকাশ করা হয় কি না, কেবল তা নিয়ে কী জিজ্ঞাসা করা হয় তা নয়।
 - **"আন্তঃশাস্ত্রীয়তা একটি সাধারণ প্রাতিষ্ঠানিক লক্ষ্য।"** **"আন্তঃশাস্ত্রীয়"-এর আকৃতিই শাস্ত্র-নির্ধারিত**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia প্রমুখের (2026)]] [[meta-analysis-systematic-review|পর্যালোচনা]] দেখে তা যে রূপ নেয় তা ক্ষেত্র অনুযায়ী বদলায়। একটি একক প্রাতিষ্ঠানিক সংজ্ঞা তার আওতাভুক্ত অন্তত কিছু শাস্ত্রকে ভুল পড়ে।
 - **"বৃত্তিমূলক শিক্ষার গবেষণা-ভিত্তি শিক্ষায়তনিক শাস্ত্রের সমতুল্য।"** বৃত্তিমূলক ধারা **সেই প্রমাণে সবচেয়ে পাতলা**: বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণে **26টি গবেষণার** একটি পদ্ধতিগত পর্যালোচনা দেখে **কর্মক্ষেত্র-প্রেক্ষাপটে কোনোটি পরিচালিত হয়নি** — যে প্রেক্ষাপটে যোগ্যতা প্রকৃতপক্ষে চর্চিত হয়। সাহিত্যের অনুপস্থিতি একটি ফাঁক, শূন্য ফলাফল নয়।
-
-## সংযুক্ত ধারণা
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — আন্তঃশাস্ত্রীয় উচ্চশিক্ষায় এআই-এর পদ্ধতিগত পর্যালোচনা (59টি গবেষণা)
-- [[llms-text-linguistics-teaching-2026]] — পাঠ-ভাষাবিজ্ঞান শিক্ষাদানে LLM
-- [[fowlin-operationalizing-learning-principles-ai]] — স্বাস্থ্য-পেশা শিক্ষায় এআই দিয়ে শিখন-নীতির পরিচালন
-- [[designing-ai-professional-development-itpack-2026]] — বুদ্ধিমান-TPACK-ভিত্তিক এআই পেশাগত উন্নয়ন
-- [[teaching-the-teachers-genai-tpk-review-2026]] — শিক্ষক শিক্ষায় GenAI-নির্দিষ্ট TPK
-- [[human-centered-ai-teacher-educators-2026]] — শিক্ষক-শিক্ষকদের জন্য সমালোচনামূলক এআই-সাক্ষরতা পেশাগত শিখন
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — মানবিক ও সমাজবিজ্ঞান শিক্ষায় ব্যাখ্যামূলক সংজ্ঞান
-- [[becker-chatgpt-typology-physics-2026]] — পদার্থবিজ্ঞান শিক্ষায় ChatGPT ব্যবহার-টাইপোলজি
-- [[code-review-genai-cs1]] — CS1-এ GenAI কোড পর্যালোচনা
-- [[ai-writing-support-stage-ownership-2026]] — পর্যায়-ভিত্তিক এআই লেখা-সহায়তা ও মালিকানা
-- [[ai-engineering-education-balancing-act]] — প্রকৌশল শিক্ষায় এআই-এর ভারসাম্য-সাধনা
-- [[ai-literacy-career-adaptability-business-2026]] — ব্যবসা শিক্ষায় এআই-সাক্ষরতা ও কর্মজীবন-অভিযোজনযোগ্যতা
-- [[jiang-genai-activity-theory-disciplines-2026]] — কর্মতত্ত্ব: GenAI ব্যবহার ও প্রকাশে শাস্ত্রীয় পার্থক্য (560 শিক্ষার্থী)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — নার্সিং শিক্ষায় এআই-চালিত সিমুলেশন: জ্ঞান ও আত্মবিশ্বাসে লাভ, সাইকোমোটর দক্ষতায় অসমঞ্জস প্রভাব
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — স্নাতকোত্তর আইটি শিখনে GenAI স্ক্যাফোল্ড না শর্টকাট
-- [[ai-vocational-education-training-review]] — বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণে এআই-এর প্রথম পদ্ধতিগত পর্যালোচনা
-- [[genai-architectural-design-studios]] — নকশা স্টুডিওতে উৎপাদনশীল মডেল: উদ্দীপক, সমাধান-ক্ষেত্র বিস্তার ও ফিক্সেশন
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — আয়ত্ত-থামার নিয়ম যা অতিসাধারণীকৃত নিয়মকে যোগ্যতা হিসেবে প্রত্যয়িত করে

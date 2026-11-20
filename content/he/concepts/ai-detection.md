@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -139,53 +141,3 @@ Bassett et al. מסיקים שגילוי בינה מלאכותית הוא פתר
 **"השאלה שהגלאי עונה עליה היא אם הכתיבה אנושית או AI."** הבינאר הזה בלתי-מוצק מושגית ולא רק קשה לחישוב. סיוע בכתיבה קיים על רצף, המדיניות של רוב המוסדות מתירה חלק ממנו, ושום סף על ציון פלט אינו ממפה לגבול שניתן להגן עליו. הכשל הנמדד הוא כשל מדיניות: הקטגוריות שהגלאים מבטיחים אינן קיימות בעבודה שהסטודנטים באמת מגישים.
 
 **"משטר גילוי מגן על היושרה."** הוא יכול לערער אותה. הגילוי מטפח אקלים של חשד שמשחק את [[trust]] בין סטודנטים לסגל, וספרות ה[[academic-integrity|יושרה]] שהמאגר הזה מדווח ממקמת את המנופים העמידים בעיצוב הערכה מחדש ולא באכיפה. מנגנון מרוץ החימוש גם אומר שהמשטר ממשיך לעלות יותר ולמדוד פחות: שיעורי סימון הבסיס נעו בין **0.0% ל‑100.0%** לאורך עוצמות עריכה, וזה אינו אות הבחנה.
-
-## מושגים מחוברים
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## מאמרים מחוברים
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 אתרי הומניזר המבצעים לגיטימיות: גילוי והתחמקות כשוק מסחרי אחד (Roe et al. 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — השערה שהאכיפה מסננת לפי הון אקדמי ולא לפי התנהגות
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — שמונה LLMs מדרגים שש טכניקות נגד רמאות; גילוי AI מגיע אחרון
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — עשרים מסמנים על אינטואיציה, גלאים מתים והפניות בדויות
-- [[tench-ai-policy-isnt-a-playbook-2026]] — סקר מייצג ארצית של מורים ומנהלים בארה"ב על כיסוי מדיניות AI, סוכנות וחמש משחקי כיתה (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
-- [[ivory-psychology-assessment-integrity-2026]] — הגילוי הוא הדווש הלא נכון: גבול העבירה קבע האם עבודת בינה מלאכותית נדונה כהישג (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
-- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — מדוע פלט גלאי אינו יכול לבסס ממצא התנהגות בלתי הולמת
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — אבחנה ולא שיעור לכידה, ומתי פיקוח עובד הפוך
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin ו-Originality על 192 טקסטים: שניהם מתחת ל-macro F1 של 0.55 וחסרי תועלת כמעט על כתיבה היברידית
-- [[van-vlasselaer-ai-detector-reliability-2026]] — ארבעה גלאים כנגד 160 עבודות באמת יסוד; רק Pangram ביצע, ועדיין סימן 45.5% מהתזות החיות
-- [[munoz-misconduct-allegation-evidence-2026]] — פלט הגלאים הוא סוג הראיה בעל הדירוג הנמוך ביותר ב-1,162 תיקי התנהגות בלתי הולמת אמיתיים
-- [[wright-transcription-not-generation-2026]] — כללי "שימוש בבינה מלאכותית" כלליים מערבבים תמלול עם הפקה
-- [[sharma-judgment-visible-genai-assessment-2026]] — גילוי מורד לשכבת משנה מאחורי שיפוט גלוי
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — גילוי כאות מותנה, ומדוע תגובות אבטחה מוסיפות שונות לא-רלוונטית-לקונסטרוקט (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — חיבורי קבלה שנכתבו בבינה מלאכותית נפוצים אך נענשים
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — תשע תכונות סטילומטריות פרשניות: ROC-AUC 0.870 אך ארבעה מתוך 18 מסמכים שנכתבו באופן עצמאי מסומנים (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — כתב יד אנושי אחד, חמישה גלאים, סיווגים מ-"0% אנושי" ועד "מופק על ידי אדם", בתוסף הנסיגה המוסדית המתועדת מהגילוי (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
-- [[student-llm-code-detection-cs1-2026]] — קוד LLM מתכנס במטלות מצומצמות בקפידה (1–14 צורות AST לכל 1,000 קבצים) אך לא במטלות חופשיות — זיהות עוקבת אחרי עיצוב המשימה
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? הערכת גלאי טקסט AI על טקסט קזחי

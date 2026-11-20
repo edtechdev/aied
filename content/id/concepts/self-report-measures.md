@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -85,9 +87,7 @@ Sebuah tinjauan terstruktur dan [[meta-analysis-systematic-review|meta-analisis]
 
 Tinjauan sistematis dua fase menempatkan laju pada divergensi itu pada tingkat kesimpulan: dari 51 pasangan konstruk yang sama dari 47 laporan, 30 sepakat, 11 tidak sepakat, dan 10 campuran. Ketidaksepakatan berjalan ke dua arah: lima kontras memasangkan hasil laporan diri yang nol dengan hasil kinerja yang positif, dibandingkan dua yang sebaliknya ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
-
 Satu perpustakaan universitas menempatkan kedua aliran data itu pada proposisi yang sama dan menemukannya menunjuk ke arah berbeda. Pinjaman cetak tahunan turun dari 406,120 pada 2017 menjadi 46,339 pada 2025 dan peminjam unik dari 30,033 menjadi 7,278, tetapi penurunannya sudah dimulai sebelum periode GenAI, dan titik patah Januari 2023 tidak menunjukkan perubahan level maupun kemiringan. Survei menempatkan bobot penjelas pada konstruk: tuntutan membaca mendalam memprediksi niat melanjutkan cetak pada H1 β = 0.908, sementara jalur substitusi yang dihipotesiskan mendekati nol (H4 β = 0.038, *p* = 0.631), dan fitur AI platform adalah 0.53% dari operasi pada paruh pertama 2026. Responden tidak dapat dihubungkan dengan catatan pinjaman di bawah aturan tata kelola data, sehingga divergensinya hanya dapat dibaca pada tingkat populasi, bukan orang per orang ([[huang-genai-academic-information-resources-2026|Huang dkk. (2026)]]).
-
 
 Literatur instrumen itu sendiri dapat dibaca sebagai bukti skala kesenjangan ini. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore dan Maat (2026)]] menilai 33 instrumen literasi AI guru dan menemukan bahwa 31 (93.9%) merupakan skala laporan diri atas keyakinan yang dipersepsikan, hanya dua (6.1%) menguji pengetahuan secara objektif, dan tidak ada yang menggunakan tugas berbasis kinerja antara 2019 dan 2025. Kesimpulan mereka adalah kesimpulan yang terus dicapai halaman ini dari arah lain: skor laporan diri mengindeks keyakinan alih-alih kemampuan, sehingga tidak dapat menggantikan kompetensi ketika kelompok atau program dibandingkan.
 
@@ -161,55 +161,3 @@ Jawaban konstruktif basis pengetahuan konsisten, dan tidak satu pun menuntut men
 - **"Bukti survei lemah tetapi kurang lebih tidak bias."** Struktur respons membatasi estimasi sebelum bias bekerja: sebuah survei memperoleh **112 respons pada tingkat respons 31%**, atau **90 respons dari 572 undangan**. Kumpulan responden adalah subset yang memilih sendiri, sehingga angka itu menggambarkan subset tersebut.
 - **"Survei adalah metode minoritas di bidang ini."** Tinjauan cakupan atas **394 studi GenAI di pendidikan tinggi** menemukan **skala survei sebagai metode penilaian yang paling sering dilaporkan (269 studi, 68.3%)**, di atas tes dan kuis. Bukti dominan bidang ini adalah laporan diri.
 - **"Laporan diri dan konstruk yang diukur sepakat."** **Beban kognitif yang dilaporkan sendiri tidak berbeda secara signifikan lintas profil offloading yang berkisar dari 80% hingga 2% dalam kepengarangan esai**, sementara pembelajar dengan offloading terberat berbeda secara terukur. Ukuran subjektif itu datar di tempat perilaku bervariasi hingga empat puluh kali lipat.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Artikel terkait
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Satu skor niat, dua penggunaan yang berlawanan
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Mode administrasi yang digunakan instrumen laporan diri mengubah apa yang diukurnya
-- [[capability-decision-model-teacher-readiness-2026]] — Kriteria validitas diskriminan untuk memisahkan kemampuan AI yang dilaporkan sendiri dari keyakinan efikasi
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Keterlibatan memprediksi kinerja yang dipersepsikan alih-alih yang terukur dalam model jalur AI agensik (Pramod & Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — Ukuran laporan diri dan objektif yang paralel atas literasi AI guru
-- [[jin-glat-genai-literacy-assessment]] — GLAT: alternatif berbasis kinerja bagi laporan diri
-- [[genai-student-experiences-uk-he-survey-2026]] — Penggunaan GenAI oleh mahasiswa disurvei lintas institusi di Inggris
-- [[student-llm-interaction-taxonomy-review-2026]] — Taksonomi yang dibentuk oleh apakah data berasal dari laporan diri atau log
-- [[tracing-genai-literacy-interaction-patterns]] — Data proses yang mencirikan literasi GenAI
-- [[engagement-intensity-learner-modeling]] — Penggunaan yang dilaporkan sendiri sebagai sinyal pemodelan pembelajar
-- [[predicting-attrition-competitive-programming]] — Keyakinan yang dilaporkan sendiri versus perilaku praktik
-- [[ai-use-critical-thinking-medical-students-2026]] — Bias metode umum dalam model mediasi satu sumber
-- [[genai-motivation-engagement-2026]] — PLS-SEM yang hanya berbasis laporan diri tentang motivasi dan keterlibatan
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survei terhadap 81 mahasiswa fisika tentang penggunaan AI dan kepercayaan
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Perekaman layar dan pemanggilan kembali terstimulasi sebagai remedi laporan diri
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Laporan diri plus data jejak tentang pembelajaran teregulasi diri
-- [[adaptive-pretesting-retention]] — Indikator usaha perilaku yang diturunkan dari log
-- [[ai-vocational-education-training-review]] — Tinjauan yang melaporkan ketidakseimbangan laporan diri/ukuran objektif
-- [[student-genai-use-views-writing|Penggunaan dan pandangan siswa terhadap GenAI untuk menulis]] — Survei plus wawancara di satu departemen sosiologi
-- [[competent-generative-ai-use-measures-review-2026]] — Melampaui Literasi AI: Tinjauan Terstruktur dan Meta-Analisis Eksploratori atas Ukuran Penggunaan Generative-AI yang Kompeten
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: Alat Refleksi Diri yang Menjaga Privasi untuk Offloading Kognitif yang Terkait AI
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Instrumen penilaian diri 15 butir untuk siswa sekolah dasar kelas atas, eksplisit tentang apa yang dapat ditetapkan kompetensi yang dipersepsikan
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Tinjauan yang menemukan 31 dari 33 instrumen literasi AI guru merupakan laporan diri dan tidak ada yang berbasis kinerja
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profil yang diturunkan dari laporan diri berperilaku dengan cara yang sama
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Tinjauan dua fase yang menempatkan laju pada ketidaksepakatan konstruk-sama antara laporan diri dan kinerja (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Kepemilikan yang dipersepsikan memisahkan delegasi esai utuh dari segala hal lain, sementara jejak memisahkan jauh lebih banyak (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - persepsi dilaporkan dalam 32 dari 66 studi dibandingkan 8 yang mengukur keterampilan inkuiri
-- [[huang-genai-academic-information-resources-2026]] — Log perpustakaan dan sikap survei menunjuk ke arah yang berbeda
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% alat literasi AI melaporkan bukti reliabilitas dan kurang dari 20% melaporkan bukti validitas

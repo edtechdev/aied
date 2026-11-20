@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,9 +48,3 @@ Kompyuta ya utafiti na makundi ya IT kuu yenye uwezo wa GPU uliopo, vituo vya uf
 ## Vidokezo na tahadhari
 
 Bure na chanzo huria chini ya Apache-2.0, lakini gharama huhamia badala ya kutoweka: vifaa, umeme, na muda wa wafanyakazi wa kuendesha kundi. Programu ni changa kwa viwango vya miundombinu — wachangiaji watatu, taasisi moja ya asili, na matoleo yenye namba katika mamia ya lebo — hivyo chuo kinapaswa kuijaribu kando ya huduma iliyopo badala ya kama njia pekee ya kufikia modeli. Tathmini iliyochapishwa ya tabia ya upangaji na kwota chini ya mzigo halisi wa chuo haipo kwenye hazina; karatasi ya PEARC ndiyo mahali pa kutafuta maelezo ya waandishi wenyewe.
-
-## Dhana zinazohusiana
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

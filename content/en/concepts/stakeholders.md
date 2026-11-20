@@ -8,6 +8,8 @@ audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 > **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[educational-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and these audiences are the human context in which AI tools are designed, deployed, and evaluated.
 
@@ -66,42 +68,3 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 **"Stakeholder analysis is an early-phase exercise."** The tensions persist into operation, because the roles keep interpreting the same system differently. A student-facing [[personalized-learning|personalization]] layer and a faculty-facing integrity dashboard are the same data viewed from two positions, and the conflict recurs whenever one is adjusted.
 
 **"An identity across audiences means one message can serve them all."** Communicating across audiences requires translating the same decision into different terms without misrepresenting it, which is more than rewriting one message four ways.
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — who holds a claim on institutional AI support decisions
-
-## Connected Articles
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

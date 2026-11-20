@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -83,33 +85,3 @@ ai_assist:
 - क्षेत्र की मात्रा नहीं, उसकी डिज़ाइन गुणवत्ता बढ़ाएँ; 7% उच्च-गुणवत्ता दर ही बाधक सीमा है कि क्या निष्कर्ष निकाले जा सकते हैं।
 
 - **सिमुलेशन में संवादात्मक फीडबैक जर्मेन भार बढ़ाता है बिना बाह्य भार घटाए।** **234 छात्रों** वाले पाँच-सप्ताह के व्यावसायिक सिमुलेशन खेल में, GPT-4o आधारित फीडबैक चैटबॉट के नियमित उपयोगकर्ताओं ने पहुँच रखने पर भी उससे जुड़े बिना वाले उपयोगकर्ताओं की तुलना में **उल्लेखनीय रूप से अधिक जर्मेन संज्ञानात्मक भार** रिपोर्ट किया (β = −.468, p < .001) और स्थिर-फीडबैक नियंत्रण से भी (β = −.253, p = .028), जबकि **दोनों विनिर्देशों में बाह्य भार पर कोई प्रभाव नहीं** दिखा (F(1, 219) = 0.499, p = .481)। दोनों भार **पाँच सप्ताहों में घटे** (बाह्य β = −.388, p < .001), यानी नवीनता प्रभाव जो सहभागिता के बजाय संज्ञानात्मक भार पर मापा गया ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger और Liening, 2026]])। डिज़ाइन बिंदु यह है कि फीडबैक ने 19 ठोस संकेतकों पर [[personalized-learning|वैयक्तिकरण]], संकेतन, खंडीकरण और फीड-फ़ॉरवर्ड संरचना वहन की; केवल चैटबॉट सतह उपचार नहीं है।
-
-## संबंधित अवधारणाएँ
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — छत्र: AI शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-- [[virtual-and-augmented-reality]] — डिज़ाइन और प्रमाण में डुबोईने (immersive) और गेमिफाइड (gamified) अभ्यास का अतिव्याप्ति
-
-## संबंधित लेख
-- [[ai-game-based-learning-systematic-review-2026]] — 55 AI-समर्थित खेल-आधारित अधिगम अध्ययनों की व्यवस्थित समीक्षा: सकारात्मक परिणाम, पतला प्रमाण आधार
-
-- [[game-based-gamified-robotics-education-review-2026]] — खेल-आधारित और गेमिफाइड रोबोटिक्स शिक्षा
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — बॉट्स और ब्लॉक्स
-- [[white-wu-robotics-ai-education-2026]] — शिक्षा में रोबोटिक्स और AI
-- [[genai-motivation-engagement-2026]] — जननात्मक AI, प्रेरणा और संलग्नता
-- [[nasa-tlx-workload-gamified-ai-2026]] — गेमिफाइड/AI शर्तों में NASA-TLX कार्यभार
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS प्रेरणा और AI-समर्थित गेमिफिकेशन
-- [[karampa-students-game-designers-ai-literacy-2026]] — प्राथमिक छात्र एस्केप बोर्ड गेम डिज़ाइन करते हैं; AI साक्षरता एक ई-कोर्स प्रयोगशाला में बढ़ती है
-
-- [[xie-genai-mystery-game-legal-education-2026]] — कानूनी शिक्षा में व्याख्यान के विरुद्ध GenAI-रचित रहस्य भूमिका-नाटक खेल (Xie एवं सहलेखक 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — कम्प्यूटेशनल थिंकिंग के लिए AI-संवर्धित खेल-आधारित अधिगम वातावरण का डिज़ाइन और प्रारंभिक सत्यापन
-

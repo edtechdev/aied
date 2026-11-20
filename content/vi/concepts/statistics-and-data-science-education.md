@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -81,26 +83,3 @@ Chất lượng giàn giáo quan trọng độc lập với việc được ti�
 - **"Sự hài lòng và lợi ích cảm nhận cho thấy một công cụ AI khoa học dữ liệu đang hoạt động tốt."** Học sinh dùng LLM nhiều để gỡ lỗi và hỏi các câu hỏi khái niệm và **báo cáo mức hài lòng cao, trong khi lợi ích học sâu mà họ cảm nhận được giảm dần qua học kỳ**. Sự hài lòng giữ nguyên và quỹ đạo học tập tự đánh giá đi xuống, nên không con số nào một mình là kết quả.
 - **"Một mô hình không hạn chế tốt ngang một gia sư có hướng dẫn."** Lợi ích đến từ việc huấn luyện giàn giáo — chỉ dẫn tường minh về gợi ý từng bước và kiểm chứng — vốn vượt qua việc chỉ được tiếp cận cùng mô hình đó ở hiệu năng độc lập và ở hiệu chỉnh tự đánh giá. Phần hướng dẫn, và việc huấn luyện cách sử dụng nó, đã mang lại hiệu ứng.
 - **"Chỉ cần chặn việc đưa ra đáp án là đủ."** Một gia sư được thiết kế riêng, bọc quanh một API được lưu trữ và được prompt hệ thống để **hướng dẫn thay vì trả lời**, đã được triển khai trong một khóa học R kéo dài một học kỳ dành cho sinh viên đại học ngành tâm lý học, nơi **từ 76% đến 84%** sinh viên đã dùng nó trong các tuần có liên quan đến kỳ thi. Đó là mức áp dụng, không phải bằng chứng rằng việc chặn đó tạo ra học tập: chặn ở cấp độ prompt là một trong nhiều đòn bẩy và tự nó không tạo ra học tập.
-
-## Khái niệm liên quan
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Bài viết liên quan
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Công cụ tác tử tạo ra các tập dữ liệu tổng hợp có thể thanh tra cho việc luyện tập thống kê được cá nhân hóa
-- [[ai-tutor-statistical-programming-adoption-2026]] — Gia sư R được thiết kế riêng; mức áp dụng bám theo lịch thi
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Các nhãn độ khó của LLM bám theo mức Bloom, không bám theo hiệu năng của học sinh
-- [[tactile-statistical-graphs-accessibility]] — Pipeline mã nguồn mở tạo ra các biểu đồ thống kê xúc giác với bước giáo viên xem xét
-- [[guided-llm-scaffolding-independent-learning]] — Giàn giáo có hướng dẫn vượt trội hơn việc tiếp cận không hạn chế về hiệu năng độc lập
-- [[lund-socially-accountable-data-science-xai-2026]] — Nhúng trách nhiệm xã hội vào chương trình khoa học dữ liệu kỹ thuật

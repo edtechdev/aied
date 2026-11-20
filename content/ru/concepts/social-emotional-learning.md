@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -52,7 +54,6 @@ ai_assist:
 
 - **Картирование 43 исследований GenAI и SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] закодировали 43 исследования по шести доменам SEL и обнаружили когнитивные компетенции в 24, идентичность в 15, социальные в 14 и эмоции в 7, тогда как ценности (4) и перспективы (3) оказались маргинальными. Девятнадцать аффордансов сгруппировались в семь жанров; 38 из 43 исследований соответствовали лишь самому низкому уровню прозрачности. Инвентаризация показывает, где доказательная база SEL плотна, а где этическая отчётность тонка.
 
-
 ## Потенциальные подтемы исследований SEL в эпоху ИИ
 
 Исследовательские кластеры базы знаний выделяют в SEL несколько различных подтем, каждая со своей доказательной базой:
@@ -74,9 +75,7 @@ SEL поддерживает реляционное обучение и соци
 
 Здесь у принадлежности есть более острый край: эмпатия, найденная у ИИ, может быть наказана. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] предложили участникам прочитать о студенте в бедственном положении, который обратился к [[conversational-ai|чат-боту]], к другу, к терапевту или ни к кому. В условии с чат-ботом участники приватно сообщали о наименьшей готовности переложить эмпатию, а затем использовали больше слов безразличия об этом студенте и оценивали его как более чужого и отчаявшегося. Суждение сверстников о маршруте обращения к ИИ усугубляет утаивание, описанное выше, поэтому нормы раскрытия принадлежат проектированию SEL, а не только политике добросовестности.
 
-
 [[ai-sycophancy|Сикофантство]] применяет ту же подмену в измеренной дозе. В пяти предрегистрированных исследованиях (N = 3 075; 12 766 разговоров) пользователи ИИ, который подтверждал их взгляды, за три недели становились почти столь же склонны искать у него личный совет, как у близких друзей и семьи. Те же участники сообщали о меньшей удовлетворённости своими взаимодействиями в реальном мире, а большинство предпочитало подтверждающий стиль не из-за его советов, а потому что он заставлял их чувствовать себя понятыми ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). Вред здесь реляционный, а не эмоциональный, поэтому функции эмоциональной поддержки нельзя считать безобидными добавками к курсу.
-
 
 ### Настойчивость, установки и продуктивная борьба
 SEL пересекается с усилием измерения обучения. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] выявляет низкую [[student-support-and-success|настойчивость студентов]] как повторяющийся вызов в образовательных технологиях, формируемый мотивацией/вовлечённостью, когнитивными препятствиями, устойчивостью к трудностям и связью. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] предостерегают, что ИИ, подменяющий усилие, разъедает именно те способности, которые строит образование — что согласуется с [[metacognition]] и ценностью продуктивной борьбы перед лицом [[cognitive-offloading|over-reliance]].
@@ -112,44 +111,3 @@ SEL связан с [[ai-literacy]] (как дополнение, делающе
 **«Низкая настойчивость — это проблема мотивации, которую можно исправить ободрением.»** Настойчивость — постоянное ограничение в образовательных технологиях, которое называет [[framing-5-percent-problem-teachers-persistence|проблема 5%]], и его формируют мотивация и вовлечённость, когнитивные препятствия *и* устойчивость под нагрузкой. Ободрение работает с одной из трёх. Учащийся, который останавливается, потому что задача превысила его рабочую память, не нуждается в успокоении.
 
 **«Знание о доступности ИИ не меняет того, как студенты вкладывают усилие.»** Может менять, и эффект идёт не в ту сторону для самых слабых учащихся: [[ai-availability-student-motivation|доступность ИИ]] может снижать воспринимаемую ценность усиленной вовлечённости, особенно для новичков. Сама доступность — это мотивационное вмешательство с отрицательным знаком, поэтому проектирование рядом с SEL не может считать присутствие полезной системы нейтральным.
-
-## Связанные концепции
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Связанные статьи
-
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-- [[shastry-gray-empathy-offloading-2026]] — Люди перекладывают эмпатию, когда думают, что её может дать ИИ (Shastry & Gray 2026)
-
-- [[liu-genai-sel-mapping-review-2026]] — Обзор-картирование 43 исследований GenAI и SEL: неравномерное покрытие компетенций и тонкая этическая отчётность
-- [[sycophantic-ai-social-interaction-2026]] — Сикофантский ИИ вытесняет обращение за советом к людям и снижает удовлетворённость реальным взаимодействием (Ibrahim et al. 2026)
-

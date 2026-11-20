@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,11 +53,3 @@ verified: [citation]
 교육에 중요한 두 가지 한계가 더 있습니다. 권고는 검증된 개입이 아니라 설계를 위한 질문이며, 사이트 어디에도 결과를 보고한 곳이 없습니다. 또한 연령대 구조는 연령대 내부에서, 문화와 맥락에 따라 달라지는 발달에 거친 격자를 부과하며, 안내서 자체도 이를 인정합니다.
 
 실천으로 가져갈 만한 프레이밍은 사이트 자신의 것입니다. 루프를 인간에게 남겨 두고, 그 안에서 AI가 어디에 들어갈지 정하십시오. 기계에 속한 루프 안에 인간 점검 지점을 넣는 것이 아니라 — 도구가 발달적 작업을 하던 과제의 일부를 넘겨받을 때 코퍼스가 [[cognitive-offloading|오프로딩]] 위험으로 기록하는 바로 그 우려입니다.
-
-## 연결된 개념
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

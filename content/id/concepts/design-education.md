@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -79,49 +81,3 @@ Masalah penilaian di sini tidak terpisahkan dari masalah profesional. [[ai-inter
 - **"Mahasiswa desain adalah pengadopsi yang antusias."** Kohort yang sama menunjukkan **71% menggunakan GenAI setiap hari atau setiap minggu, 65% tidak memercayainya, dan 85% memodifikasi keluarannya**. Penggunaan yang sering dan kepercayaan yang rendah hidup berdampingan, sehingga alat yang proposisi nilainya mengandaikan kepercayaan telah salah membaca penggunanya.
 - **"GenAI secara umum membantu di seluruh proses desain."** Platform GAI-A yang dibangun dalam studi studio longitudinal menemukan **hanya dua penggunaan produktif**: GenAI sebagai stimulus visual pada ideasi awal, dan sebagai **pemerkaya kombinatorial ruang solusi selama pengembangan**. Kegunaannya spesifik per fase.
 - **"Perolehan kreativitas terlalu menyebar untuk diukur."** Dalam **subkelompok 31 siswa**, skor berpikir kreatif naik dari **77.23 menjadi 94.68 (d = 0.82)**. Perolehannya terukur dan terbatas pada subkelompok, yang merupakan bentuk klaim yang jujur.
-
-## Konsep terkait
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Artikel terkait
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: ruang kerja kritik AI yang sadar artefak untuk umpan balik studio; studi kesiapan berbasis simulasi, bukan perolehan belajar
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Eksperimen desain arsitektur yang menunjukkan alur kerja DALL-E 3 menurunkan efikasi diri kreatif umum
-- [[human-ai-collaboration-design-education-rubric-2026]] — Rubrik proses dapat menjadikan verifikasi AI sebagai objek yang dinilai
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Kesadaran disrupsi teknologi AI, pola pikir design thinking, dan kompetensi inovasi desain di kalangan mahasiswa desain
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — Sikap sebagai gerbang niscaya bagi niat mahasiswa desain menggunakan agen AI, dengan kesesuaian tugas–teknologi sebagai jalur kedua (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Jenis ketergantungan menentukan apakah literasi prompt menjadi keterlibatan
-

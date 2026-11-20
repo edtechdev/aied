@@ -19,6 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 **DrawSplat** is a free, browser-based workspace that collects small single-purpose tools for teaching. Teach with the collaborative whiteboard, or open a focused environment: **GridSplat** for spreadsheets, formulas and charts, **ShowSplat** for slides, **WriteSplat** for classroom documents, **ListSplat** for simple databases, plus a quiz and flashcard studio, image editor, chart builder, video editor and Markdown studio. Saved work and preferences live in the browser's local storage, and cloud save is opt-in.
@@ -35,8 +36,3 @@ Teachers and students who need a tool quickly and cannot wait for a district lic
 
 ## Notes
 The product site names no individual author and routes requests to a project inbox; DrawSplat is built by Miguel Guhlin, whose site documents its launches. The code is free in the license sense, not only the price sense: the whiteboard is GNU AGPL-3.0-or-later and the SplatWorks apps are GPL-3.0-only, with no per-seat license on student devices. Tools that read your files run locally in the browser, while cloud save and any professional-learning request do send data, so check the storage inventory page before using it with student work.
-
-## Connected Concepts
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

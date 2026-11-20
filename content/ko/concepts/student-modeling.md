@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -116,61 +118,3 @@ ai_assist:
 - **"충실한 모델에는 가장 복잡한 방법이 필요하다."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]]는 **충실한 표현이 가장 복잡한 접근을 요구하지는 않는다**는 것을 보여 줍니다. 복잡성은 충실성의 대리 지표가 아니며, 관련 구조를 포착하는 더 단순한 모델이 더 나은 도구일 수 있습니다.
 - **"학습자 모델에는 추적 데이터가 필요하다."** 예측적 학습자 모델은 추적 데이터가 아니라 **수강 등록의 구조**에 기댈 수 있습니다. TRACE는 각 학기를 **순서 없는 강좌 묶음**으로 부호화하고 그것으로부터 예측합니다. 예측 신호는 제도의 행정 기록 안에 있을 수 있습니다.
 - **"정의적 상태에는 생리적 센싱이 필요하다."** 한 수학 튜터는 **대화 텍스트와 얼굴 표정에서 정서를 추론**하고 집계된 상태를 교습 결정에 매핑했습니다. 정서 신호는 학습자가 이미 산출하고 있던 것에서 복원 가능했습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념의 포괄 개념
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 위험 예측과 지원 표적화 아래의 모델들
-
-- [[sensor-and-gaze-analytics]]
-
-## 연결된 문서
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응형 숙달은 학습자가 행동을 보류할 시점을 알기 전에 연습을 멈출 수 있다(An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — 학생 역량 평가를 위한 지원 개입의 인과 모델링
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 교습은 하나가 아니다: 우리가 실제로 아는 것(Stanford SCALE/NSSA 브리프)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM 튜터는 유효한 대안을 과도하게 거부하고 틀린 것을 과도하게 승인한다(Yasir 외 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — 학생 위험 예측에서 SC2R로: 반사실 리코스
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교습(2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위한 자기 설명 LM 증류
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM 기반 학생 시뮬레이터의 훈련
-- [[predicting-attrition-competitive-programming]] — 경쟁 프로그래밍에서의 학생 중도 이탈 예측
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화 매핑을 활용한 성과 기반 지식 추적
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID 임베딩을 넘어서: 인지 진단을 위한 과정 기반 언어 모델링
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 추천 환경으로 쓰이는 간결한 학습자 상태와 보정된 추적기
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
-
-- [[ai-game-based-learning-systematic-review-2026]] — 잠입 평가는 0.848–0.913 AUC에 도달했지만 55개 연구 전반에 걸쳐 편향 감사는 거의 없었다
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 대화 기반 학습 양식 추론은 균형 지표에서 실패한다

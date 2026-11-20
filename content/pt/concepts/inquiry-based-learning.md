@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -79,39 +81,3 @@ Em contextos de campo ao ar livre, o mesmo imperativo se torna espacial: a GenAI
 **"A investigação é não estruturada por definição."** O instrutor andaimeia, e a estrutura está no desenho da questão e no ciclo de reflexão, e não na entrega de conteúdo. Remover o andaimento não torna a investigação mais autêntica; torna-a sem andaimento.
 
 **"As questões lideradas pelos estudantes serão bem formuladas se os estudantes estiverem interessados."** Gerar uma questão tratável é a habilidade que se está desenvolvendo, e é por isso que um sistema que fornece boas questões já executou a habilidade de investigação que a atividade existe para ensinar.
-
-## Conceitos conectados
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Falha produtiva
-
-## Artigos conectados
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para a aprendizagem baseada em investigação em STEAM (revisão sistemática)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de GenAI e colocação de problemas nas ciências do ensino fundamental
-- [[luo-ibl-patterns-llm-bloom-2026]] — Padrões de IBL em ambientes movidos por LLM (perspectiva de Bloom)
-- [[mujib-ai-ibl-creative-math-2026]] — IBL apoiada por IA e desempenho matemático criativo
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-análise de GenAI e pensamento de ordem superior
-- [[niri-steam-ai-literacy-review-2026]] — Educação STEAM para o letramento em IA
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada na falha produtiva
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Orientação pedagógica de LLMs para a falha produtiva
-- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma de línguas
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Investigação guiada apoiada por IA em fotossíntese e respiração (formação de professores de ciências)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extração de informações movida por IA apoiando a tese de graduação e a aprendizagem baseada em pesquisa (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — Investigação assistida por IA em questões sociocientíficas sobre mudança climática
-- [[geoscience-field-learning-genai-2026]] — Um modelo instrucional campo-primeiro que impede a GenAI de pré-estruturar o que os estudantes notam (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitador humano versus aprendizagem baseada em problemas mediada por IA: ganhos de conteúdo iguais, pensamento crítico mais fraco sem o facilitador (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Mapa de 66 estudos sobre IA generativa nas cinco fases de investigação, com apenas 8 estudos medindo habilidades de investigação

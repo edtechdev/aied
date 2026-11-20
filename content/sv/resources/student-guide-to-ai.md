@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -48,11 +49,3 @@ Studenter på grundnivå i alla discipliner och elever i gymnasieskolan. Lärare
 Guiden är [[formative-assessment|formativt]] ramad och säger det själv: poäng är en ögonblicksbild av vanor, inte ett betyg, ett drag eller en förutsägelse, och studenter uppmanas att inte dela dem offentligt.
 
 Ramningen kring AI vilar på citerade enkät- och experimentella belägg för att utkontraktering av ansträngning kan göra att studenter behåller mindre – vilket är [[cognitive-offloading|avlastningsfrågan]] som guiden är skriven för att motverka, inte för att avgöra. Fältguidens PDF ligger bakom ett kort formulär som frågar efter namn, roll, lärosäte och e-post; lärarguidemodulerna och artikeln om det pedagogiska ramverket laddas ner direkt. Den interaktiva versionen körs i Gemini Notebook och kräver ett Google-konto. Utgivarens siffror på mer än 40 000 PDF-nedladdningar över ungefär 4 000 lärosäten i 180 länder och över 130 anpassade campusutgåvor är deras egna, liksom uttalandena från ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute och RTI International.
-
-## Anslutna begrepp
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -47,16 +48,3 @@ Undervisere på tværs af fag, især i videregående uddannelse og professionsud
 ## Noter og forbehold
 
 Dette er en praktisk guide, ikke en empirisk undersøgelse; dens påstande om studerendes AI-brug hviler på citerede eksterne kilder (BestColleges, Campbell, Digital Education Council, Flaherty) snarere end nye data. Rammen om »netværksopbygning« og indramningen om »forståelsens illusion« er hentet fra den bredere litteratur (Wigmore et al.; Williamson et al.) og præsenteres som pædagogisk begrundelse, ikke som testede resultater af selve playbooken. Opgaverne er forfattede skabeloner — ingen af dem rapporteres med effektstørrelser, så de bør behandles som designs, der skal tilpasses og evalueres lokalt. Udgivet 2026-10-07, v1, på Zenodo under CC BY 4.0; gratis at downloade uden konto. Ved indlæsningen viser posten kun ca. 35 visninger og ca. 14 downloads, så den har endnu set lidt ekstern brug eller peer review.
-
-## Relaterede begreper
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -81,44 +83,3 @@ ai_assist:
 **«تدريب ثقافة الذكاء الاصطناعي يعمّم عبر الأدوار.»** معظم الأدوات لا تقيس الكفاءة الخاصة بالدور: ففي مراجعة منهجية لـ**33 أداة لقياس ثقافة الذكاء الاصطناعي لدى المعلمين**، استهدفت **29 (87.9%)** مفاهيم الذكاء الاصطناعي العامة في حين تناولت **4 فقط (12.1%)** الاستخدام [[pedagogy|التربوي]] أو المهني الذي يتطلبه العمل فعلًا. فالبرنامج المبني على أدوات عامة يقيس وكيلًا بديلًا.
 
 **«المحاكي بديل عن التدريب في مكان العمل.»** إنه يطوّر الإجراء ويزيل العاقبة، وهذا نفيس وهو بالضبط الجزء الذي لا يمكن نقله — فالعاقبة هي المنهج في الأعمال الحساسة للسلامة.
-
-## مفاهيم مرتبطة
-
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — حيث تكون الممارسة الغامرة أكثر رسوخًا
-
-## مقالات مرتبطة
-
-- [[prunuske-cognitive-windows-research-meetings-2026]] — نقل اجتماعات البحث من تحديثات البيانات إلى نوافذ معرفية في عصر الذكاء الاصطناعي
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — الذكاء الاصطناعي ومستقبل قوى العمل الهندسية والحاسوبية
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — إطار مستوى جاهزية القوى العاملة للتصنيع الذكي في عصر الذكاء الاصطناعي
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — إطار مهارات الذكاء الاصطناعي لدى HiBob المُصادَق عليه مع المعلّمين وأصحاب العمل
-- [[cognitive-commons-ai-expertise-regeneration]] — مأساة الكومن المعرفي: الذكاء الاصطناعي وتجديد الخبرة
-- [[li-language-educators-genai-review-2026]] — ممارسات مدرّسي اللغة وتطويرهم مع الذكاء الاصطناعي التوليدي
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — استقصاء مقارن يُظهر أن الشروط المؤسسية لا السياق الوطني تُفسّر فجوات جاهزية أعضاء هيئة التدريس للذكاء الاصطناعي التوليدي (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — مربّو المعلّمين يصمّمون نموذج ثقافة ذكاء اصطناعي تكيّفيًّا واستبيانًا تأمليًّا بشكل مُشترَك (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — مراجعة تُظهر أن أدوات قياس ثقافة الذكاء الاصطناعي للمعلّمين تتخلّف عن الذكاء الاصطناعي التوليدي، مُعلِّمةً هدف التدريب (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — تطوير مهني مدّته ثلاث ساعات رفع الفائدة المُدرَكة وسهولة الاستخدام للمعلّمين الألمان، لا النية في استخدام الذكاء الاصطناعي في التمايز
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — مراجعة للذكاء الاصطناعي في التدريب الابتدائي للمعلّمين في الرياضيات الابتدائية: التدريب الموجزه الموجَّه للأدوات لا يكفي
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — استقصاء يربط التدريب السابق على الذكاء الاصطناعي وتكرار الاستخدام بالإدراكات الإيجابية لمعلّي الرياضيات الابتدائية الأتراك
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — تدوير الأدوار كآلية بِنْيَوية للتحضير المهني المدعوم بالذكاء الاصطناعي
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — أسئلة مفتوحة نحو الاعتماد الحافظ للمهارة في المشاركة التأملية مع الذكاء الاصطناعي
-- [[jongkind-genai-patient-medical-communication-2026]] — استخدام مريض ذكاء اصطناعي توليدي لتدريب التواصل الطبي لطلاب الطب الجامعيين: دراسة شبه تجريبية
-- [[cowhitt-deliberative-instructional-agents-2026]] — وكلاء تعليميون تداوليون للتعلّم المهني للمعلّمين، بشروط مسؤولية للتدريب المُوسَّط بالذكاء الاصطناعي
-- [[morales-cevallos-ai-forensic-science-education-2026]] — حين تسبق ممارسة مهنة تقنية للذكاء الاصطناعي مسار تعليمها

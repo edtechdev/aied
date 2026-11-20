@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,7 +48,6 @@ Kuzichukulia hizo mbili kama ukurasa mmoja kungefifisha tofauti ambayo ushahidi 
 Mpaka hauko safi kwenye kingo. Upangaji programu wa kitakwimu unakaa ndani ya [[cs-education]] katika taasisi nyingi, na makala kadhaa hapa zimewekwa huko; kazi ya ufikivu wa grafiki za kitakwimu inaingiliana na [[special-education]] na ubunifu [[accessibility|unaofikika]]; sayansi ya data yenye uwajibikaji inaingiliana na [[cs-education]] na [[ethics]]. Ukurasa huu ni nyumbani kwa kundi hili, si dai kwamba kundi hili limefungwa.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund na wenzake (2026)]] wanaashiria mwingiliano huo kutoka upande wa mtaala: nguzo nne za uwajibikaji (uwajibikaji, jukumu, utekelezaji, tafakari) zilizounganishwa na vipimo vinne vya [[explainable-ai|XAI]], vikifundishwa kupitia kadi za mfano zilizopimwa, ukaguzi wa maelezo ya LIME na SHAP, na tathmini za athari, huku waandishi wakikiri kuwa maelezo si uwajibikaji.
-
 
 ## Vifaa vilivyozalishwa na swali la uhalali
 
@@ -83,26 +84,3 @@ Ubora wa uwezeshaji ni muhimu bila kujali upatikanaji. Ulinganisho wa majaribio 
 - **\"Kuridhika na faida inayohisiwa vinaonyesha kuwa zana ya AI ya sayansi ya data inafanya kazi.\"** Wanafunzi walitumia LLM kwa wingi kwa kurekebisha hitilafu na maswali ya dhana na **waliripoti kuridhika kwa juu, wakati faida yao iliyohisiwa ya kujifunza kwa kina ilipungua kwa muda wa muhula**. Kuridhika kulisimama na mwelekeo wa kujifunza uliojipima ulishuka, hivyo hakuna kielelezo kimoja kinachotosha kuwa matokeo.
 - **\"Mfano usio na kizuizi ni bora kama mwalimu anayeongozwa.\"** Ulinganisho wa majaribio uligundua kwamba **mafunzo ya wazi katika uwezeshaji unaozingatia kufikiri — vidokezo vya hatua kwa hatua, uthibitishaji — yalizalisha utendaji bora wa kujitegemea** kuliko upatikanaji usio na kizuizi. Mwongozo, na mafunzo ya jinsi ya kuutumia, yalibeba athari.
 - **\"Kuzuia kutoa majibu kunatosha.\"** Mwalimu aliyejengwa kwa ajili ya kazi hiyo, akiwa amefungwa kuzunguka API inayopangishwa, akiwa ameelekezwa kwa ilani ya mfumo **kuelekeza badala ya kujibu**, alitumwa katika kozi ya R ya muhula mzima kwa wanafunzi wa shahada ya kwanza ya saikolojia, ambapo **76% hadi 84% ya wanafunzi walimtumia katika wiki zenye umuhimu kwa mtihani. Hiyo ni matumizi, si ushahidi kwamba ulinzi ulizalisha kujifunza:** Ulinzi wa ngazi ya ilani ni kianzio kimoja kati ya kadhaa na hauleti kujifunza peke yake.
-
-## Dhana Zilizounganishwa
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Makala Zilizounganishwa
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Zana ya wakala inayozalisha seti za data za kutengenezwa zinazochunguzwa kwa mazoezi ya takwimu yaliyobinafsishwa
-- [[ai-tutor-statistical-programming-adoption-2026]] — Mwalimu wa R aliyejengwa kwa ajili ya kazi; matumizi yalifuata kalenda ya mtihani
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Lebo za ugumu za LLM zinafuata viwango vya Bloom, si utendaji wa wanafunzi
-- [[tactile-statistical-graphs-accessibility]] — Mfumo huria unaozalisha chati za kitakwimu zinazogusika pamoja na ukaguzi wa mwalimu
-- [[guided-llm-scaffolding-independent-learning]] — Uwezeshaji wenye mwongozo ulishinda upatikanaji usio na kizuizi katika utendaji wa kujitegemea
-- [[lund-socially-accountable-data-science-xai-2026]] — Kupachika uwajibikaji wa kijamii katika mtaala wa kiufundi wa sayansi ya data

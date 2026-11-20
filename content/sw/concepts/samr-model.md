@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -54,7 +56,6 @@ SAMR inaunganishwa mara nyingi na [[icap-framework|mfumo wa ICAP]] kwa sababu mb
 
 - **Kina na ujumuishaji ni mihimili tofauti.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita na Omoniyi (2026)]] wanaunganisha SAMR na [[universal-design-for-learning|UDL]] katika vyanzo 38 na wanadai kuwa kazi za kiwango cha Ufafanuzi upya bado zinaweza kuwatenga wanafunzi ambao lugha, kifaa, au muunganisho wao haufitii ubuni.
 
-
 ## SAMR, TPACK, na kupitisha teknolojia: zinavyotofautiana
 
 Miundo mitatu huchanganywa mara nyingi lakini inajibu maswali tofauti:
@@ -81,28 +82,3 @@ SAMR inaeleweka vyema zaidi kama lenzi ya kina cha kuunganisha inayotumika katik
 **"SAMR na TPACK ni miundo shindani."** Zinaeleza vitu tofauti: SAMR inaeleza *kiwango cha mabadiliko* katika kazi, wakati [[tpack|TPACK]] inaeleza *maarifa* ambayo mwalimu anahitaji ili kuunganisha teknolojia vizuri. Mwalimu anaweza kuwa na uwezo mkubwa wa TPACK na bado kufanya kazi katika Ubadilishaji, ndiyo sababu hizo mbili hutumika pamoja badala ya kuchagua kati yake.
 
 **"Zana inayobadilisha katika kiwango kimoja inabadilisha katika viwango vyote."** Zana ile ile ya uzalishaji inaweza kuunga mkono Ubadilishaji katika kozi moja na Ufafanuzi-Upya katika nyingine, kwa sababu kiwango ni sifa ya muundo wa kazi badala ya teknolojia. Kuhusisha kiwango na zana huzalisha maamuzi ya upokeaji badala ya maamuzi ya ubuni.
-
-## Dhana Zilizounganishwa
-- [[ai-education]] — AI katika elimu (mbioni)
-- [[tpack]] — Maarifa ya kiteknolojia, ya kufundisha, na ya maudhui
-- [[technology-acceptance-model]] — Mifano ya kupitisha teknolojia
-- [[icap-framework]] — Mfumo wa ICAP wa ushiriki wa kiakili
-- [[ai-technologies]] — Teknolojia na mbinu za AI
-- [[teacher-ai-competency]] — Uwezo wa AI wa mwalimu
-- [[educational-development]] — Maendeleo ya elimu
-- [[learning-design]] — Ubuni wa kujifunza
-- [[k-12]] — Elimu ya K-12
-- [[higher-ed]] — Elimu ya juu
-- [[generative-ai]] — AI ya kizalishaji
-
-## Makala Zilizounganishwa
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Kuunganisha AI katika elimu ya juu kupangwa viwango na SAMR: zaidi ya Ubadilishaji/Uboreshaji
-- [[thermomix-genai-education-analogy-2026]] — ICAP na SAMR zikipanga mazingira manne ya kupikia-hadi-kujifunza
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR miongoni mwa lenzi za mabadiliko ya mtaala yanayoendeshwa na GenAI
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR miongoni mwa miundo inayoarifu viwango vya teknolojia ya wataalamu
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Upinzani wa posthumanist kuhusu ontolojia ya kibinadumu ya SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Ukimya wa SAMR kuhusu nguvu, umiliki wa data, na uwajibikisho
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI katika madarasa ya hisabati: mkakati wa kuunganisha kwa utofauti na ujumuishaji
-
-- [[genai-use-changing-institutional-policy-physics-2026]] — Matumizi ya GenAI ya wanafunzi chini ya sera za taasisi zinazobadilika: kazi za matumizi zilizopangwa kwenye viwango vya SAMR (Quince & Faulconer 2026)

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -39,6 +40,3 @@ Uređivač u pregledniku radi lokalno u stranici i ne prenosi nacrt. Prijavljuje
 ## Što treba znati prije primjene
 
 Repozitorij objavljuje protokol evaluacije, primjere prije i poslije u mapi `samples/` i referentne datoteke iza vještine, pa preglednik može provjeriti kako se pravila ponašaju, umjesto da tvrdnju prihvati na vjeru; ova stranica ne ponavlja nijedan izmjereni rezultat. Autor je Addy Osmani, licencija je MIT, a rad je neovisan, a ne proizvod neke ustanove. Projekt je mlad i aktivan: nastao je u kolovozu 2026., ima 54 commita, tri izdanja s najnovijom verzijom 0.2.1 tog rujna i otprilike 250 zvjezdica pri provjeri u rujnu 2026. Tri su suradnika unijela izmjene. Upute vještine učitavaju se u agenta koji čitatelj već pokreće, pa vrijede uobičajene napomene o [[prompt-engineering|inženjerstvu poticaja]]: kvaliteta kritike ovisi o nacrtu koji joj se preda.
-
-## Povezani pojmovi
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

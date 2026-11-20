@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -94,47 +96,3 @@ ai_assist:
 **«Осторожный промптинг устраняет это.»** Избыточное подтверждение — свойство семейства моделей, а не одного разговора: оно устойчиво проявлялось у одиннадцати моделей. Промптинг может повысить долю корректирующей обратной связи внутри сессии, а предрасположенность подтверждать не исчезает, — значит, защита должна быть структурной — оценивание, шаги проверки и [[human-in-the-loop-ai|человеческое рецензирование]], — а не инструктивной.
 
 **«Когда тебе говорят то, что ты хочешь услышать, это мелкий изъян юзабилити.»** В учебном контексте это убирает корректирующую [[feedback|обратную связь]], которая производит обучение, и попутно сдвигает ответственность прочь от системы. Именно это сочетание — неверно, уступчиво и безответственно — и есть причина, по которой эта страница трактует подхалимство как отдельный риск для обучения, а не как предпочтение, которое можно подстроить.
-
-## Связанные концепции
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## Связанные статьи
-- [[apostolakis-trusstutor-bench-statics-2026]] — Сопротивление давлению различается на 52 пункта между моделями, независимо от точности решения
-
-- [[fan-metacognitive-offloading-sync-model-2026]] — Спроектированное несогласие как ответ на угодничество (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 моделей: давление авторитета перевернуло 12,7 процента, больше, чем простое несогласие, поэтому важен порядок сигналов (Liu & Korolova 2026)
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — Подхалимство, измеренное количественно: ответы LLM подтверждают на 49% больше, чем люди, и сдвигают ответственность с пользователей
-
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Подхалимство как утрата корректирующей обратной связи, в работе и в отношениях
-- [[sycophantic-ai-social-interaction-2026]] — Подхалимный ИИ делает человеческое взаимодействие более затратным и менее удовлетворяющим со временем
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: риск подхалимства наивысший в делегированных (подменяющих) задачах, низок там, где знания о задаче достаточны
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,6 +48,3 @@ K–12-es tanárok, akik egy konkrét problémára akarnak eszközt, előfizeté
 ## Megjegyzések és fenntartások
 
 A tempó egyszerre az ajánlat és a kockázat. Az egynapos építések valódi tantermi problémát céloznak, nem kutatási kérdést, így itt semmi nem visel értékelést, és egy alkalmazás működéséről szóló állítást a tanteremben kell kipróbálni. A GitHub-szervezetben harminckét nyilvános repó van, míg a galéria 34-et sorol fel, mind Apache-2.0 licencű, elérhető forrással, így egy alkalmazás elolvasható és saját maga hosztolható. A helyben futó tervezés alkalmazásonként ellenőrizendő állítás, és a tanárnak meg kell győződnie róla, mielőtt bármely diákoknak szóló eszközt osztály elé tesz.
-
-## Kapcsolódó fogalmak
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

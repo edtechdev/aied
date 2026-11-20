@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -47,9 +48,3 @@ Výskumné výpočtové a centrálne IT skupiny s existujúcou GPU kapacitou, ce
 ## Poznámky a upozornenia
 
 Bezplatný a open source pod Apache-2.0, ale náklady sa presúvajú, nie miznú: hardvér, elektrina a čas personálu na prevádzku klastra. Softvér je na pomery infraštruktúry mladý — traja prispievatelia, jediná zakladajúca inštitúcia a vydania číslované v stovkách tagov — takže vysoká škola by ho mala pilotovať vedľa existujúcej služby, nie ako jedinú cestu k modelu. Publikované hodnotenie správania plánovania a kvót pri reálnej kampusovej záťaži v repozitári nie je; práca z PEARC je miesto, kde hľadať vlastný opis autorov.
-
-## Prepojené pojmy
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -70,32 +72,3 @@ L'istruzione speciale è un dominio in cui la capacità dell'IA di personalizzar
 - **"I giudizi di [[usability-research|usabilità]] validano uno strumento assistivo."** I professionisti hanno dato a uno strumento Social Story che avevano co-progettato una promozione sull'usabilità (SUS 86,8), contestando al contempo le sue immagini standard occidentali e un tracciatore di comportamenti che mancava il giudizio clinico legato agli obiettivi. Un'usabilità alta coesisteva con fallimenti sostanziali, quindi un punteggio SUS non è un avallo di adeguatezza.
 - **"I benchmark generici ti dicono come un tutor gestisce i casi di istruzione speciale."** Su **923 dialoghi ancorati a casi** tratti dalla letteratura di istruzione speciale e di psicologia dell'educazione, **il migliore di 11 modelli** soddisfaceva un criterio documentato — e **questo è il limite di ciò che un benchmark dei tutor copre**. Le valutazioni standard non raggiungono i casi in cui i professionisti hanno più bisogno di aiuto.
 - **"Chi apprende neurodivergente ha bisogno di accomodamenti, non di requisiti di progettazione."** [[neurodivergent-computing-students|Zastudil et al.]] hanno rilevato che gli studenti neurodivergenti di informatica hanno bisogno di **compiti strutturati, team piccoli e stabili e definizioni di ruolo esplicite** — requisiti generali di progettazione che avvantaggiano tutti, non aggiustamenti individuali concessi dopo la diagnosi.
-
-## Concetti collegati
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Articoli collegati
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — A vision-language model plans Shoebox Tasks for a Nao robot (Kudláčková 2026)

@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -87,38 +89,3 @@ Bilgi grafikleri [[learning-design]] (ne öğretileceğini tanımlamak), [[curri
 
 - Grafik ile temel çizgi karşılaştırmaları algoritma düzeyinde bildirilmelidir. "Bilgi grafiği temelli" bir işlem değildir; işlem, gezinme stratejisidir.
 - Aksiyom-kaynak eşlemeleri ve taksonomi ayrışabilirliği, kesinlik ve duyarlılığın yanında bildirilmelidir; çünkü buradaki denetim başarısızlıkları geleneksel grafik ölçütlerine görünmezdi.
-
-## Bağlı kavramlar
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan tabanlı)
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı makaleler
-
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Yapısal denetimi ve kaynak dökümü bulunmayan, derleyici tarafından oluşturulmuş 1.455 edebi aksiyomdan oluşan bir grafik (Liu ve Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Kişiselleştirilmiş e-öğrenme için ontoloji temelli katmanlı hibrit bilgi modeli
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Ömür boyu öğrenme için Learnity grafikleri
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: anlatı taslağı oluşturma iskeleleri
-- [[quantum-education-its]] — Kuantum eğitimi akıllı özel ders (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Eğitimsel akıl yürütme için çok kipli bilgi grafikleri
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: bilgisayar bilimi kursu karşılaştırması
-- [[proprl-prerequisite-relation-learning]] — ProPrL: ön koşul ilişkisi öğrenimi
-- [[knowledge-gap-detection-ai-tas]] — YZ öğretim asistanlarında bilgi boşluğu tespiti
-- [[visual-query-tracer-declarative-logic-learning]] — Bildirim temelli mantık öğrenimi için görsel sorgu izleyicisi
-- [[fair-explainable-edu-recommendations]] — Adil ve açıklanabilir eğitim önerileri
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Çok kipli öğretim kaynakları için hibrit CF–KG alanlar arası öneri
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM kaynaklı bilişsel tanı
-- [[graph-its-adaptive-algorithms-2026]] — Dinamik Alanlar için Grafik Temelli Akıllı Özel Ders (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Öğrenme Ortamı Üretimi

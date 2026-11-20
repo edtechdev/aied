@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -89,47 +91,3 @@ ai_assist:
 **「AIリテラシー訓練は職種を越えて一般化する。」** ほとんどの測定道具は職種固有の能力を測っていません。**33の教師AIリテラシー測定道具**の系統的レビューでは、**29(87.9%)**が一般的なAI概念を対象とし、仕事が実際に要求する[[pedagogy|教育学的]]・職業的な利用を扱ったのは**4(12.1%)**だけでした。一般的な道具に基づいて築かれたプログラムは、代理指標を測っているのです。
 
 **「シミュレーターは職場訓練の代替である。」** それは手続きを発達させ、帰結を取り除きます。それは価値があり、同時にまさに転移しえない部分です。安全が重大な仕事では、帰結こそがカリキュラムです。
-
-## 関連概念
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — 没入的な練習が最も確立している分野
-
-## 関連記事
-
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — GPT-4oとの1回の会話により、自己評価のコミュニケーション能力がd = 0.58上昇したが、対照群はなかった（Müller et al., 2026）。
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17件の研究を通して、自信の向上は多く見られたが、共感に関する証拠は乏しかった（Ismail & Zafira, 2026）。
-- [[bodek-prompted-to-explore-microlearning-2026]] — 12週間のマイクロラーニングとTeamsコミュニティの併用：プログラム後に自己報告されたGenAI利用が増加した（Bodek et al. 2026）。
-- [[prunuske-cognitive-windows-research-meetings-2026]] — 人工知能の時代において、研究ミーティングをデータ更新の場から認知的ウィンドウへ移行させる。
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AIとエンジニアリングおよびコンピューティング分野の労働力の未来。
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI時代のスマート製造に向けた労働力準備度レベル（Workforce Readiness Level）フレームワーク。
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 教員と雇用主とともに検証されたHiBob AI Skills Framework。
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇：AIと専門性の再生。
-- [[li-language-educators-genai-review-2026]] — 言語教育者のGenAIを用いた実践とその能力開発。
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — 教員のGenAI準備度の格差を説明するのは国の文脈ではなく機関の条件であることを示す比較調査（Bi et al. 2026）。
-- [[adaptive-ai-model-teacher-educators-2025]] — 教員養成者が適応型AIリテラシーモデルと内省型質問紙を共同設計した（Eyal 2025）。
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教員のAIリテラシー測定ツールが生成AIに後れを取っていることを示し、研修の標的を定めるレビュー（Zainal et al. 2026）。
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — 3時間のPDにより、ドイツの教員の知覚された有用性と使いやすさは高まったが、個に応じた指導にAIを用いる意図は高まらなかった。
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 小学校数学の初任教員養成におけるAIに関するレビュー：ツール中心の短時間の研修では不十分である。
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — 過去のAI研修経験と利用頻度が、トルコの小学校教員の肯定的な認識と結びついていることを示す調査。
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AIが支援する専門職準備を構造化する仕組みとしての役割ローテーション。
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 内省的なAI関与における技能維持型の依存に向けた未解決の問い。
-- [[jongkind-genai-patient-medical-communication-2026]] — 学部医学生向けの医療コミュニケーション訓練におけるGenAI患者の活用：準実験研究。
-- [[cowhitt-deliberative-instructional-agents-2026]] — 教員の専門的学習のための熟議型指導エージェントと、AIを介したPDにおける責任条件。
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 技術職におけるAIの実践が、その教育経路を追い越してしまうとき。
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 教員は専門分野に根ざした研修を求め、頻繁な利用とリテラシーを切り分けて捉えていた。

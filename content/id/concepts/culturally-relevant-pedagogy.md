@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -97,33 +99,3 @@ Berakar pada artikel basis pengetahuan ini sendiri, pendidik dan perancang dapat
 
 - Laporkan konten budaya menurut tingkat alih-alih sebagai ada atau tidaknya, karena kehadiran 94% versus 6% tidak mengatakan apa pun tentang 6% yang mana.
 - Bedakan secara eksplisit hasil persepsi guru dari hasil siswa saat melaporkan uji coba.
-
-## Konsep terkait
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Perencana pelajaran yang mewawancarai guru tentang konteks budaya sebelum menyusun draf (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — LLM untuk Pedagogi K-12 yang Relevan Budaya
-- [[civic-education-ai-lesson-plans]] — Rencana Pelajaran yang Dihasilkan AI dalam Pendidikan Kewarganegaraan
-- [[ojeda-ramirez-community-based-ai-learning]] — Pembelajaran AI Berbasis Komunitas
-- [[genai-minoritized-knowledges-disability]] — GenAI dan peminggiran pengetahuan kelompok minoritas
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Tolok Ukur STEM Ghana
-- [[cross-cultural-student-perceptions-genai-computing]] — Persepsi Lintas Budaya atas Penggunaan GenAI
-- [[international-students-conversational-ai-adaptation]] — Mahasiswa Internasional dan AI Percakapan
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Perencanaan Pelajaran Vietnam
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Sadar Budaya Berbasis AI untuk Deteksi Stres dan Dukungan Kesejahteraan di Kalangan Mahasiswa Pakistan Menggunakan NLP dan Machine Learning

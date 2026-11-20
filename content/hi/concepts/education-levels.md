@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -96,30 +98,3 @@ ai_assist:
 **"[[intelligent-tutoring|अनुकूली ट्यूटर]] प्रत्येक स्तर की समान रूप से मदद करता है।"** चर को अलग करने वाली तुलना शिक्षाप्रद है: द्वितीय-कक्षा गणित के एक ही ट्यूटर के दो संस्करण, जिनकी सामग्री, इंटरफ़ेस, प्रतिपुष्टि और मौखिक संकेत समान थे, केवल इसमें भिन्न थे कि कार्य चयन बायेसियन [[knowledge-tracing]] मॉडल का अनुसरण करता है या नहीं। अनुकूली कार्य चयन स्तर-संवेदी हस्तक्षेप है, और उसका लाभ इस पर निर्भर करता है कि उस स्तर के शिक्षार्थी अनुकूलन पर कार्य कर सकते हैं या नहीं।
 
 **"उच्च शिक्षा में सघन प्रमाण नीचे की ओर सामान्यीकृत होता है।"** यह नहीं होता, और साहित्य का वितरण सुविधा के बजाय चेतावनी है। प्रमाण कहाँ सघन है और कहाँ विरल, यह अनुसंधान अर्थव्यवस्था का गुण है, इस बात का नहीं कि AI का उपयोग सर्वाधिक कहाँ होता है, इसलिए विश्वविद्यालय नमूनों से लिया गया K-12 के बारे में कोई दावा उसी सीमा के पार अनुमान है जो सबसे अधिक मायने रखती है।
-
-## संबंधित अवधारणाएँ
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## संबंधित लेख
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — द्वितीय कक्षा के गणित में अनुकूली बनाम गैर-अनुकूली ट्यूटरिंग (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — प्राथमिक विज्ञान में तृतीय-कक्षा के छात्रों के साथ जेनएआई चैटबॉट और प्रश्न प्रस्तुतीकरण
-- [[chatgpt-music-education-junior-high-2026]] — गीत-सीखने के लिए ChatGPT के प्रति माध्यमिक छात्रों की अभिवृत्तियाँ (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — मिडिल स्कूल के लिए डिज़ाइन किया गया एआई-एकीकृत LMS, एक प्रस्तावित अनुदैर्ध्य अध्ययन के साथ
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — चीनी माध्यमिक शिक्षा में जनरेटिव एआई सीखने का दंड (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — स्नातक लेखकों में LLM निर्भरता के चार प्रकार (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — इंजीनियरिंग छात्रों के लिए अंतर्निहित ग्रंथपाल सहायता के साथ एआई-सहायित संगोष्ठी प्लेटफ़ॉर्म
-- [[ai-mediated-research-agency-formation-2026]] — डॉक्टोरेट और पोस्ट-डॉक्टोरेट प्रशिक्षण में एआई निर्भरता, स्वायत्तता और नवाचार (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — अफ़्रीकी उच्च शिक्षा में डेटा गोपनीयता पर हितधारकों के विचार (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — यूक्रेन भर में शिक्षा प्रबंधकों की एआई अपनाने की तत्परता (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — व्यावसायिक डिज़ाइन छात्रों के लिए एआई-सक्षम immersive PBL (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — प्रारंभिक बाल्यावस्था में एआई का उपयोग करने की प्री-स्कूल शिक्षकों की प्रवृत्ति
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — उम्र-अनुकूल एआई चैटबॉट के प्रति बच्चों की अभिवृत्तियाँ

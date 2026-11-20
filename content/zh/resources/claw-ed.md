@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,6 +44,3 @@ ai_assist:
 ## 说明与注意事项
 
 软件本身免费，其原创代码采用 MIT 许可，属于 [[open-source|开源]]，但第三方组件仍保留各自的条款；如果使用托管模型，运行它意味着你要为自己的模型推理付费。项目自称是"经过教师审阅的 beta 版"，并在 README 中直言通过它的 CI 并不能证明其在真实模型上的教学质量——这正是看待这个领域绿色测试套件的正确方式：它验证的是软件，而不是 [[pedagogy|教学法]]。项目由 MacxLabs 维护，接受经过教师审阅的示范课作为贡献。
-
-## 关联概念
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

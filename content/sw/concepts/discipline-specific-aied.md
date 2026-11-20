@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -105,49 +107,3 @@ Taaluma hizi zilizokosewa zingefaidika kutoka kurasa za dhana mahususi na kupoke
 - **"Taaluma ni muhimu hasa kwa mifano ya maudhui."** Utafiti kwa **wanafunzi 560** uligundua uhusiano wa kitaaluma **hutabiri jinsi wanafunzi wanavyotumia [[generative-ai|AI ya kizalishaji]] mara ngapi na kwa uwazi**. Taaluma huunda iwapo zana inatumika kabisa na iwapo matumizi hayo yanafichuliwa, si tu kile inachoulizwa.
 - **"Utaaluma mchanganyiko ni lengo la kitaasisi la jumla."** **Umbo la "utaaluma mchanganyiko" lenyewe huamuliwa na taaluma**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] [[meta-analysis-systematic-review|mapitio]] yanagundua umbo linalochukua hutofautiana kwa uwanja. Fasili moja ya kitaasisi husoma vibaya angalau baadhi ya taaluma inazofunika.
 - **"Elimu ya ufundi ina msingi wa utafiti unaolingana na taaluma za kitaaluma."** Nyuzi ya ufundi ni **nyembamba zaidi katika ushahidi huo**: mapitio ya kimfumo ya **masudio 26** katika elimu ya ufundi na mafunzo yaligundua **hakuna yoyote iliyofanywa katika miktadha ya mahali pa kazi**, miktadha ambayo uwezo huo hufanywa kwa hakika. Ukosefu wa fasihi ni pengo, si tokeo la sifuri.
-
-## Dhana Zilizounganishwa
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Makala Zilizounganishwa
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Mapitio ya kimfumo ya AI katika elimu ya juu ya taaluma-mchanganyiko (masudio 59)
-- [[llms-text-linguistics-teaching-2026]] — LLM katika ufundishaji wa isimu ya maandishi
-- [[fowlin-operationalizing-learning-principles-ai]] — Kufanya kanuni za kujifunza kazi na AI katika elimu ya taaluma za afya
-- [[designing-ai-professional-development-itpack-2026]] — Maendeleo ya kitaalamu ya AI ya msingi wa TPACK mahususi
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK mahususi ya GenAI katika elimu ya walimu
-- [[human-centered-ai-teacher-educators-2026]] — Kujifunza kwa kitaalamu la ujuzi mahususi wa AI kwa waalimu wa walimu
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Ufahamu wa tafsiri katika elimu ya sayansi za kibinadamu na za kijamii
-- [[becker-chatgpt-typology-physics-2026]] — Ainyo ya matumizi ya ChatGPT katika elimu ya fizikia
-- [[code-review-genai-cs1]] — Ukaguzi wa msimbo wa GenAI katika CS1
-- [[ai-writing-support-stage-ownership-2026]] — Msaada wa uandishi wa AI wa msingi wa hatua na umiliki
-- [[ai-engineering-education-balancing-act]] — Kitendo cha kulinganisha cha AI katika elimu ya uhandisi
-- [[ai-literacy-career-adaptability-business-2026]] — Ujuzi wa AI na uwezo wa kubadilika kwa kazi katika elimu ya biashara
-- [[jiang-genai-activity-theory-disciplines-2026]] — Nadharia ya shughuli: tofauti za taaluma katika matumizi na kufichua kwa GenAI (wanafunzi 560)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Mifumo ya AI ya nguvu katika elimu ya uuguzi: maendeleo ya maarifa na ujasiri, athari zisizo thabiti juu ya ujuzi wa psychomotor
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI kama ngazi za msaada au njia ya mkato katika kujifunza IT ya uzamili
-- [[ai-vocational-education-training-review]] — Mapitio ya kwanza ya kimfumo ya AI katika elimu ya kitaaluma na mafunzo
-- [[genai-architectural-design-studios]] — Mifano ya kizazi katika studio ya kubuni: changamoto, upanuzi wa nafasi ya suluhisho, na kushikamana
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Kanuni za kusimama za ufasaha zinazothibitisha kanuni iliyopanuka kupita kiasi kama uwezo

@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -40,7 +41,3 @@ Docenten van programmeercursussen die bewijs willen dat een student de eigen cod
 ## Opmerkingen en kanttekeningen
 
 Alles draait in de browser: de cursus staat in lokale opslag met een JSON-export, vragen reizen mee in het deel van een link dat browsers niet naar servers sturen, en antwoorden komen alleen terug als codes die studenten zelf versturen, zodat geen studentgegevens een derde partij bereiken. De vraaggenerator is regelgebaseerd en niet modelgestuurd. Volgens de tool zelf is zijn codelezer heuristisch, dus ongebruikelijke opmaak of macro's kunnen een functie verbergen, en een score kan het kennen van de woordenschat belonen in plaats van het begrijpen van de code; daarom zijn scores voorstellen die een docent goedkeurt en daarom adviseert de tool de inzet laag te houden. Er is geen licentie en geen bronrepository gepubliceerd, en omdat links de vragen meedragen, worden ze een paar kilobyte groot — lang genoeg om in een berichtvak van een leeromgeving te passen.
-
-## Gerelateerde concepten
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

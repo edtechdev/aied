@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -53,7 +55,6 @@ Eleştirel pedagoji, [[critical-thinking]] ten farklıdır. Eleştirel düşünm
 - **Tasarım çözümleri tek başına yeterli değildir.** Değere duyarlı tasarım gibi insan merkezli tasarım yaklaşımları yetersizdir: işgücü üretkenliği çerçevelerini ve ekonomik teşvikleri oluşturan sistemsel itici güçleri dokunulmaz bırakırlar ve [[agency]] sıfır toplamlı olabilir; bu nedenle araca devredilen kapasite, öğrenenin elinde kalmayan kapasitedir ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **YZ yönetişimini bir oluşum olarak sınayan olarak insan hakları eğitimi.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]], BM’nin *hakkında, yoluyla ve için* çerçevesini bir hukuk programında irdeler ve zorluğun teknolojide değil pedagojide yattığını ortaya koyar: öğrenciler bu yapıtların kanıtlaması beklenen etkileşim olmadan parlak yazılı çalışmalar ve parlak oturum tasarımları sunmuşlar ve en eleştirel düşünme sınıf diyalogunda değil ders sonu yazılarında ortaya çıkmıştır. Onun sonucu eğitimcinin rolünü küçültmek yerine onu kaydırır — [[governance|YZ yönetişimi]], öğrencilerin itiraz etmek üzere eğitildiği profesyonel bir sorumluluk hâline gelir ve [[llm|araç]] yasaklanmak yerine yönlendirilir.
 
-
 ### Değerlendirmenin bir eleştiri alanı olarak
 
 Eleştirel pedagoji değerlendirmeye, bir yeniden tasarımın kimin çıkarlarına hizmet ettiği sorusuyla girer. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] bu savı Pratik Mimarileri Kuramı’nı eleştirel pedagojiyle birleştirerek kurar; öyle ki bir değerlendirme reformu aynı anda üç şeyi hareket ettirmek zorundadır: bazı pratikleri düşünülebilir kılan kültürel-söylemsel dil, araçların ve kaynakların maddi-ekonomik düzenlemeleri ve gücün sosyal-politik dağılımı. Çerçevenin uyarısı belirgindir. Kaynaklar açık bir eşitlik dikkati olmadan mevcut güç yapılarından aktığında, iyi niyetli bir yeniden tasarım ele almayı amaçladığı eşitsizlikleri büyütür; bu da kaynak-güç kesişimini hem en büyük kaldıraç noktası hem de en büyük risk haline getirir. Dört aşamalı matrisi eleştirel analiz, müdahale tasarımı, eşitlik odaklı uygulama ve değerlendirme olarak işler; artımlı değişimi ve üretken gerilimi hızlı dönüşümde başarısızlık olarak değil, meşru sonuçlar olarak ele alır.
@@ -89,35 +90,3 @@ Eleştirel pedagoji altında eğitimciler, YZ becerilerinin tarafsız aktarıcı
 **Araştırmacılar için**
 
 - Sınıflardaki etkileşim kiplerinin dağılımını bildirin, yalnızca ortalama kullanımı değil; çünkü ortalama, herhangi bir eleştirel pratiğin var olup olmadığını gizler.
-
-## Bağlı kavramlar
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Bağlı makaleler
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodal composition as critical AI literacy pedagogy
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice
-- [[benali-genai-academic-writing-2026]] — Akademik yazma dersinde gerekçelendirmeye zorlanan revizyon: YZ iki öneri bölümüyle sınırlı, kabul edilen ya da reddedilen her öneri yazılı olarak (Benali ve Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the "AI colonization" of science education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "Resisting AI" as a community-rooted praxis of critical AI literacy
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Human-centered GenAI engagement framework built on Freire, constructionism and an ethics of care
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy and decolonial epistemologies applied to academic development in the Global South

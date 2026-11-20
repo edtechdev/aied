@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -44,7 +46,6 @@ Mapitio mawili yanafafanua umbo la uwanja, na yote mawili yanaelezea kugawanyika
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Mapitio ya scoping ya PRISMA-ScR (Rempel na wenzake, 2026)]] yalitafuta hifadhi tano za data na muongo wa machapisho (2015–2025), yakichuja rekodi 766 hadi masudio 40 ya kiushahidi ya teknolojia za kisaidizi za kidijitali kwa wanafunzi wenye utofauti wa neva katika [[higher-ed|elimu ya juu]]. Uwanja umepangwa upya kuzunguka [[generative-ai|AI ya kizalishaji]] — 15 ya masudio 40 — na miundo ya kuingiza ikifuata ya pili katika 11. Upinzani wake wa kati ni upinzani wa ubuni: kubaliana kwa mtu mmoja na zana mahususi za aina ya neva zilizopangwa kuzunguka utambulisho rasmi wa ugonjwa haziwezi kushughulikia tofauti za kazi zinazokatiza aina zote za neva, hivyo zinapendekeza ubuni wa jumla na maendeleo ya washiriki badala yake. Pia zinaonya kuwa zana zaidi za kuingiza ni zile ambazo hazisambazwi kwa urahisi zaidi.
 
 - **Madarasa ya msingi yanaonyesha mkusanyiko ule ule.** Mapitio ya scoping ya EdTech kwa madarasa ya msingi yanayojumuisha utofauti wa neva (rekodi 3,340 zilizochujwa, masudio 93) yaligundua ushahidi umejikita kwa wanafunzi wa tawahudi na msaada wa kibinafsi wa kitaaluma na kiakili, huku matokeo ya kijamii, ya mawasiliano, na ya mwingiliano wa wenzao yakipuuzwa na thamani ya kielimu ikithibitishwa zaidi na watafiti badala ya watumiaji wa darasani ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
-
 
 [[dabaghi-ai-dyslexia-education-review-2026|Mapitio ya fani mbalimbali ya AI kwa dyslexia (Dabaghi, D'Urso na Sciarrone, 2026)]] yanashughulikia 2018–2024 katika masudio 72 na yanagundua AI inayotumika kwa kugundua, msaada wa kisaidizi, na [[personalized-learning|ubinafsishaji]], na mwelekeo huo unabadilika kwa sambamba badala ya kuunganishwa, na uwanja ukiendesha zaidi na fursa ya kiteknolojia badala ya nadharia thabiti ya elimu. Utafiti wake wa kugundua ([[sensor-and-gaze-analytics|EEG]], ufuatiliaji wa jicho, mifano ya [[machine-learning]]) unaonyesha ahadi ya utambuzi kwa uingiliaji wa mapema lakini mara nyingi inahitaji vifaa mahususi na hali zilizodhibitiwa, ambazo zinazuia matumizi katika madarasa ya kawaida. Hiyo ndiyo jaribio la vitendo ambalo mwelekeo huu wote unashindwa: msaada unapaswa kuingizwa katika kozi ambayo mwanafunzi anachukua kweli.
 
@@ -88,34 +89,3 @@ Utofauti wa neva inaungana na [[special-education]], [[inclusive-learning]], [[u
 - **"Utafiti wa utofauti wa neva ni pembe ndogo ya [[ai-education|AIED]]."** Uwanja **umejipanga upya kuzunguka [[generative-ai|AI ya uzalishaji]], masomo 15 kati ya 40**, huku miundo ya uzoefu wa kuzama ikifuata ya pili kwa 11. Fasihi ilisogea pamoja na teknolojia badala ya kujikusanya kuzunguka maswali thabiti.
 - **"AI zaidi kwa dyslexia inamaanisha msaada bora."** [[dabaghi-ai-dyslexia-education-review-2026|Mapitio ya nyanja mbalimbali ya AI kwa dyslexia (Dabaghi, D'Urso na Sciarrone, 2026)]] yanajumuisha **masomo 72 kati ya 2018 hadi 2024** na yanagundua AI ikitumika katika wigo mpana wa madhumuni. Upana wa matumizi si ushahidi wa ufanisi kwa lolote kati yao.
 - **"Marekebisho ni fremu sahihi kwa wanafunzi wenye utofauti wa neva."** [[neurodivergent-computing-students|Utafiti wa wanafunzi 24 wa kompyuta wenye utofauti wa neva na wenzao 20 wa neva ya kawaida]] pamoja na mahojiano manne ya kina uligundua mahitaji ambayo ni **mahitaji ya jumla ya ubuni**, kazi zilizopangwa, timu ndogo zinazolingana, majukumu wazi, badala ya marekebisho ya mtu binafsi yanayotolewa baada ya utambuzi.
-
-## Dhana Zilizounganishwa
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Makala Zilizounganishwa
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizalishaji, uhalisia wa mtandaoni, na zaidi: mapitio ya scoping ya teknolojia za kisaidizi za kidijitali kwa wanafunzi wenye utofauti wa neva katika elimu ya juu
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Kufikiria upya thamani ya kielimu katika EdTech kwa madarasa ya msingi yanayojumuisha utofauti wa neva: mapitio ya scoping
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Masudio 29 ya AI kwa wanafunzi wenye ulemavu, na athari inayotofautiana na kategoria
-- [[adhd-video-segmentation-computing-education]] — Kugawa video kwa muda ambako kulileta washiriki wa ADHD kwenye usawa
-- [[neurodivergent-computing-students]] — Wanafunzi 24 wa kompyuta wenye utofauti wa neva kuhusu muundo, kutokuwa na uhakika, na ushirikiano
-- [[genai-reliance-executive-functioning-2026]] — Ugumu wa utendaji wa kiutendaji, ufaafu unaoonekana, na njia ya kutegemea AI
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kupunguza mzigo wa kiakili wa GenAI kwa wanafunzi wenye ulemavu wa kujifunza
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI ya kuwasaidia watu wenye dyslexia katika elimu
-- [[genai-minoritized-knowledges-disability]] — AI ya kizalishaji na kutengwa kwa maarifa ya wengi
-- [[tactile-statistical-graphs-accessibility]] — Grafu za Takwimu za Kuhisi kwa Ufikivu
-- [[ai-learning-tools-engineering-education-needs]] — Kubuni Zana za Kujifunza za AI Zinazotaka Mahitaji na Umakini
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Michakato inayoendeshwa na vifaa vya kugundua inaweza kuzuia matumizi halali ya marekebisho

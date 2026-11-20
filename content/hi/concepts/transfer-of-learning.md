@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -110,38 +112,3 @@ AI का उपयोग करने वाले छात्र आमतौ
 **"अंतरण अधिक सक्षम मॉडलों से आता है।"** अंतरण उन शर्तों से आता है जो उसे उत्पन्न करती हैं: अभ्यास की व्यापकता, संदर्भों की विविधता, और यह कि अधिगमकर्ता ने तर्क स्वयं कितना उत्पन्न किया। मॉडल की क्षमता सहायता-सहित प्रदर्शन की सीमा ऊपर उठाती है और मॉडल के जाने पर जो बचता है उसके लिए विशेष रूप से कुछ नहीं करती।
 
 **"मार्गदर्शन सदैव अंतरण का समर्थन करता है, इसलिए अधिक मार्गदर्शन बेहतर है।"** जो मार्गदर्शन तर्क स्वयं कर देता है वह उस प्रक्रिया की जगह लेता है जिस पर अंतरण निर्भर है। भेद इस बात का है कि सहायता अधिगमकर्ता से अगला कदम उत्पन्न करवाती है या उसकी ओर से उत्पन्न कर देती है, और उस रेखा के अंतरण-वाले पक्ष पर केवल पहली है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — वह परिणाम जिस पर अंततः इनमें से अधिकतर अनुक्रमों को आँका जाता है
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — उत्पादक विफलता
-
-## संबंधित लेख
-- [[yan-agentivism-learning-theory-ai-2026]] — मानव-AI अंतःक्रिया के लिए एक मध्य-विस्तार का शिक्षण सिद्धांत, चार क्रियाविधियों और छह परीक्षणीय प्रस्तावों के साथ (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI-सहायित लेखन में परत-संवेदी संज्ञानात्मक अनलोडिंग (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — प्रदर्शन-सीख का अंतर और स्थायी अंतरण
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक विफलता के लिए LLM का शैक्षणिक मार्गदर्शन
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — कण भौतिकी शिक्षा में AI: शोध समस्याएँ और बुनियादी कौशल
-- [[shi-genai-experiential-learning-management-education-2026]] — यह तर्क देता है कि सुरक्षित कक्षा सिमुलेशन ऐसे निर्णय आदत बना सकते हैं जो उनके बाहर विफल होते हैं
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI-सहायित बोली अभ्यास ने मनुष्यों की ओर इच्छा बढ़ाई लेकिन किसी अध्ययन ने मनुष्यों की बोली देखी नहीं
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: डेस्क पर क्रियात्मक रोबोटिक एम्बॉडीमेंट के माध्यम से संवर्धित सीख
-
-- [[cognitive-washout-ai-skill-decay-2026]] — संज्ञानात्मक धुलाई: सहायता-वापसी के बाद का अंतराल और 22-सप्ताह मापन प्रोटोकॉल (Yajee 2026)
-

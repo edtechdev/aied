@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -77,40 +79,3 @@ SDT verbindet sich unmittelbar mit [[motivation|Motivation]] als ihrem übergeor
 - **„Die Art der Motivation zählt weniger als ihre Menge.“** Eine einjährige Studie fand **drei Motivationsprofile — Disengaged, Developing, Self-Determined —, die über die Zeit stabil blieben**, und Studierende, die das **Self-Determined**-Profil erreichten, zeigten die **größten [[ai-literacy|KI-Kompetenz]]-Zuwächse**. Die Qualität der Motivation sagte das Lernen vorher, und die Profile drifteten nicht einfach nach oben.
 - **„Autonomieunterstützung bedeutet, Struktur zu entfernen.“** Der SDT-Mechanismus ist Autonomie, Kompetenz und Verbundenheit zusammen, und die Längsschnitt-Evidenz zeigt, dass ihre Befriedigung Zuwächse vorhersagte, statt sie nur zu begleiten. Autonomie ohne Kompetenzunterstützung ist Permissivität, und sie erfüllt die Bedingungen der Theorie nicht.
 - **„Ein [[conversational-ai|Chatbot]] kann die drei Bedürfnisse automatisch liefern.“** Eine Studie fand, dass ChatGPT Autonomie, Verbundenheit und Kompetenz im Sprachenlernen unterstützen konnte — eine Möglichkeit, keine Eigenschaft. Ob eine gegebene Interaktion sie unterstützt, ist eine empirische Frage darüber, wie sie genutzt wird.
-
-## Verbundene Konzepte
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Verbundene Artikel
-
-- [[family-school-autonomy-support-genai-2026]] — Familien-Schule-Autonomieunterstützung für den verantwortungsvollen Gebrauch generativer KI durch Kinder
-- [[dual-ai-learning-pathways-sdt-2026]] — Sekundarschuldruck/Autonomieunterstützung und zwei Pfade des KI-Lernens (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA und GenAI in Entscheidungsfindung im Lerndesign
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — ChatGPT-Erfahrungen von Studierenden im Englischlernen
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Merkmale der Lernenden × Interaktionen mit TTS-Dialogformat
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT-Latent-Transition-Analyse der KI-Lernmotivation von Studierenden (2.086 Sekundarstufen-Studierende)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Studierendenmotivation und Bedürfniszufriedenheit in GenAI-Kursräumen (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI-Nutzung ist schwach mit Bedürfniszufriedenheit verbunden und für hohes Engagement unnötig (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Zwei Pfade von Lehrkräfte-KI-Zusammenarbeit zum Arbeitsengagement, moderiert durch digitale Kompetenz
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhaltende Hinweise bewahrten Autonomie dort, wo das Geben von Antworten es nicht tat
-
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — KI-Verfügbarkeit, Autonomieabfall und Motivationsprofile in den Klassen 5–8 (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 Studien gegen eine Klassifikation mit 20 Aktivitäten kodiert; Kompetenz am stärksten, Verbundenheit am wenigsten bearbeitet
-

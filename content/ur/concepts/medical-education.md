@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -67,7 +69,6 @@ ai_assist:
 
 - **میدان کے اپنے ادب کی صورت۔** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti and Gue (2026)]] طبی تعلیم میں اخلاقی AI کے ادب کا خود نقشہ بناتے ہیں: 1995 سے 2026 تک Web of Science کی 1,403 اشاعتیں، دو دہائیوں تک نہ ہونے کے برابر، پھر 2023 میں 113، 2024 میں 256 اور 2025 میں 500؛ 39 ممالک مصنفیت کی حد سے اوپر ہیں، جن میں ریاستہائے متحدہ (533 اشاعتیں) چین (189) اور انگلینڈ (95) سے آگے ہیں؛ اور سب سے زیادہ حوالہ شدہ کام صلاحیت کے امتحانات ہیں — سب سے بڑھ کر طبی لائسنسنگ امتحانات میں ChatGPT کی کارکردگی — نہ کہ گورننس کی تحقیق۔ اُن کی قراءت یہ ہے کہ میدان تیزی سے بڑھا مگر یکساں طور پر نہیں بڑھا، اور یہ کہ [[governance]] فریم ورکوں کا تجربی جائزہ وہ کام ہے جسے حوالوں کا ریکارڈ پاداش نہیں دے رہا۔ یہ ہر اُس شخص کے لیے کارآمد احتیاط ہے جو طبی تعلیم میں AI کی شائع شدہ تحقیق کے حجم کو اِس ثبوت کے طور پر لیتا ہے کہ اُس کے محفوظ استعمال کے سوالوں کا جواب مل چکا ہے۔
 
-
 طبی تعلیم میں GenAI کے 153 رپورٹوں والے scoping جائزے اطلاقات کا نقشہ بناتے ہیں — [[simulation]] اور کلینیکل مہارتیں سب سے بڑی (47 رپورٹیں)، جانچ کی تخلیق اور فیڈبیک (22) اور کیس پر مبنی سیکھنا اور کلینیکل استدلال (21) سے آگے — پھر بھی صرف 13 رپورٹوں میں فالو اپ یا برقراری کا اشارہ تھا اور مریض کی سطح کا کوئی نتیجہ نہیں ملا ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]])۔
 
 - **AI سے چلنے والی PBL اور CBL: چھ بے ترتیب ٹرائلز، جن میں دو CBL۔** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] نے علم کے لیے چار ٹرائلز (46%، 95% CI 0.18 سے 0.73)، اطمینان کے لیے تین (0.7، 95% CI 0.47 سے 0.92) اکٹھے کیے، اور کلینیکل استدلال کو اکٹھا نہیں کر سکے کیونکہ آلات مختلف تھے۔ صرف دو ٹرائلز نے کیس پر مبنی سیکھنا جانچا اور جائزے نے شکلوں کا الگ تجزیہ نہیں کیا، چنانچہ نتیجہ AI معاون مسئلہ ڈیزائنوں کی حمایت کرتا ہے مگر یہ نہیں بتاتا کہ کون سی کیس خصوصیات اہم ہیں۔
@@ -95,54 +96,3 @@ HPE ایک اعلیٰ داؤ والا، قابلیت پر مبنی میدان ہ
 - **''سوال یہ ہے کہ LLM کلینیکل تربیت میں کیا کر سکتے ہیں۔''** **47 ممالک کے 489 مطالعات** کا تنقیدی انضمامی جائزہ سوال کو **اِس سے بدل دیتا ہے کہ LLM کیا کر سکتے ہیں** اِس پر کہ اُنہیں کیا سپرد کیا جانا چاہیے۔ صلاحیت کا سوال بڑی حد تک طے ہو چکا ہے؛ گورننس کا سوال نہیں۔
 - **''معیاری مریض بڑے پیمانے پر لانے کے لیے حد سے زیادہ مہنگے ہیں۔''** **95 تجزیہ شدہ طبی طلبہ کے ساتھ بے ترتیب کنٹرول شدہ ٹرائل** نے کلینیکل انٹرویو کی تربیت میں **کثیر ایجنٹ AI معیاری مریض** استعمال کیے۔ جس قید کو حل کیا جا رہا ہے وہ تربیت یافتہ انسانی اداکاروں کی دستیابی ہے، جو عملے کی کمی کا مسئلہ ہے، مخلصی کا نہیں۔
 - **''کوئی شائع شدہ AI قابلیت فریم ورک اپنا لینا نصاب کا سوال طے کر دیتا ہے۔''** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] نے 1,750 ریکارڈ چھان کر 23 مطالعات تک پہنچے — 15 جائزے، 4 [[qualitative-research|کیفیاتی]] اور 4 [[quantitative-research|مقداری]]، 15 ممالک اور 2022 سے 2026 تک — اور اُنہیں علم، رویہ اور مہارت کے ماڈل پر نقشہ بند کیا۔ اطلاقی میدان طبی تعلیم (n = 11، 47.8%)، عمومی تعلیم (n = 9، 39.1%) اور دیگر تعلیم (n = 3، 13.0%) میں مرکوز رہے، اور جن نامزد نرسنگ فریم ورکوں کا اُنہوں نے موازنہ کیا — N.U.R.S.E.S.، AI-ABCs اور CARE — اُن میں یا تدریسی نفاذ کے واضح راستے نہیں یا وہ الگ تھلگ مہارتیں جانچ کے طریقوں کے بغیر ڈھانپتے ہیں۔ وہ جو 12 ذیلی جہتوں والا نقشہ بناتے ہیں وہ توثیق کے منتظر تجویز ہے، جو اُسے طے شدہ نصاب کے بجائے ایسی چیز بناتی ہے جس کے خلاف پڑھایا جائے۔
-
-## منسلک تصورات
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — صحت پیشہ ورانہ تعلیم کا نرسنگ دھارا
-- [[virtual-and-augmented-reality]] — غرق کرنے والی اور AR کلینیکل تربیت
-
-## منسلک مضامین
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — طبی اور دندان سازی کی تعلیم میں AI سے چلنے والی PBL اور CBL: چھ RCTs، صرف دو CBL (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI معاون ڈیجیٹل پیتھالوجی پروسٹیٹ بایوپسیوں کی تشریح میں تشخیصی کارکردگی بہتر بناتی ہے اور تجربے سے جڑے فرق کو کم کرتی ہے
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — صحت AI نصاب اخلاقیات سکھاتے ہیں (80.6%) مگر ڈیٹا کا ماخذ شاذ و نادر (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — تعینات ڈیٹا تخلیق پلیٹ فارم کے ساتھ LLM پر مبنی مجازی معیاری مریضوں کا سطح بند کثیر جانچنے والا جائزہ
-- [[genai-medical-education-transformation-review-2026]] — طبی تعلیم کی 153 GenAI رپورٹوں کا scoping جائزہ: سمولیشن آگے، پائیداری اور مریض کے نتائج غیر ناپے
-- [[ai-standardized-patient-scaffolding-medical-2026]] — کلینیکل انٹرویو کی تربیت کے لیے سہارے پر مبنی کثیر ایجنٹ لارج لینگویج ماڈل نظام کا جائزہ
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — طبی تعلیم میں AI تدریسی ایجنٹوں کا 8 جہتوں والے روبرک سے جائزہ
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM، نرسنگ تعلیم کے ساختی خلا، اور پیشہ ورانہ شناخت کی تشکیلِ نو (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN فریم ورک: طبی تربیت میں AI کے کام کی تقسیم پر نظرِ ثانی (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — صحت پیشہ ورانہ تعلیم میں AI کے ساتھ تجرباتی، موقع پر مبنی اور تقسیم شدہ ادراک کو عملی جامہ پہنانا
-- [[residencyrl-clinical-rl-training-2026]] — ریزیڈنسی میں کلینیکل مہارتوں کے لیے ری انفورسمنٹ لرننگ تربیت
-- [[medgame-llm-medical-education-gamification]] — طبی تعلیم کے لیے کھیل بند LLM پر مبنی سیکھنا
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — بریکی تھراپی تربیت کے لیے ایجنٹک AI سمولیشن
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI کے ساتھ نرسنگ تعلیم کی تبدیلی
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — نرسنگ میں AI سے چلنے والا سمولیشن: مخلوط طریقوں والا منظم جائزہ
-- [[wang-safety-gap-productive-struggle-2026]] — حفاظتی خلا: نتیجہ خیز جدوجہد کی بحالی
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: انسانی-در-لوپ دندان سازی ریڈیوگرافی تدریس (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — منظرنامے پر مبنی صحت کی تعلیم میں GenAI کا منظم جائزہ (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — قابلِ پیمانہ AI پر مبنی کلینیکل مواصلاتی تربیت اور خودکار جانچ
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — طبی تعلیم میں AI اخلاقیات کا bibliometric نقشہ: پیداوار 113 (2023) سے 500 (2025) تک، 39 ممالک، اور حوالے گورننس کے بجائے صلاحیت کی جانچ کو پاداش دیتے ہیں (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — بار بار چلانے سے وہی گریڈ دوبارہ پیدا نہیں ہوتا
-- [[xiang-ai-nursing-education-kas-framework-2026]] — تعلیمی AI قابلیت فریم ورکوں کو 12 حصوں والے KAS نقشے پر بندھنے والا scoping جائزہ
-- [[agency-gap-ai-writing]] — صحت پیشہ ورانہ تربیت میں ردِعمل دینے والے بمقابلہ فعال AI تحریری ایجنٹ: پہل کا خلا
-- [[federated-learning-at-risk-student-prediction-2026]] — HPE پروگراموں میں فیڈریٹڈ خطرے کی پیش گوئی: نہ ہونے کے برابر رازداری کی لاگت، اور درآمد شدہ حد کیوں غلط نشانہ لیتی ہے
-- [[rony-nursing-educators-ai-tpack-2025]] — بنگلہ دیش میں نرسنگ معلمین AI تیاری، رکاوٹوں اور ڈیٹا گورننس پر، TPACK کے ذریعے پڑھے گئے
-- [[bursic-ai-residency-education-curriculum-2026]] — ریزیڈنسی نصاب میں AI شامل کرنے کی رکاوٹیں: بارہ معالج رہنماؤں کے ساتھ کیفیاتی انٹرویو
-- [[alshahrani-health-sciences-ai-use-2026]] — ٹیکنالوجی اور تدریس کے درمیان پل: متنوع صحت سائنس نصابوں کے طلبہ میں AI استعمال، خود بتائے گئے تعلیمی اثرات اور اخلاقی خدشات کا کراس سیکشنل تجزیہ

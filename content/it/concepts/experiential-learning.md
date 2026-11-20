@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -48,7 +50,6 @@ L'apprendimento esperienziale è strettamente connesso all'[[active-learning|app
 
 - **Fare contrapposto al sentirsi dire, misurato su cinque settimane.** In un quasi-esperimento con 126 studenti del primo anno di ingegneria, una sessione esperienziale di due ore sull'apprendimento con l'IA generativa ha prodotto un guadagno di conoscenza [[metacognition|metacognitiva]] di +0,25, contro circa zero per una lezione frontale. Si tratta di un effetto medio (d = −0,37) che non ha raggiunto la significatività a p = 0,055 dopo la correzione per confronti multipli, e l'impegno con l'IA [[self-report-measures|autodichiarato]] era comparabile in entrambi i gruppi a cinque settimane (3,99 e 3,93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). Il limite che questo pone alla ratio della pagina vale la pena di dichiararlo apertamente: una sola sessione pratica muove la conoscenza metacognitiva nella direzione giusta senza risolvere il confronto, quindi il vantaggio del fare va costruito su cicli ripetuti anziché assunto da un singolo laboratorio.
 
-
 ### Due forme di apprendimento pratico in un curriculum supportato dall'IA
 
 Una revisione tematica di 32 studi peer-reviewed sull'apprendimento pratico nell'[[design-education|educazione progettuale]] supportata dall'IA
@@ -67,9 +68,7 @@ L'apprendimento esperienziale si collega all'[[active-learning|apprendimento att
 
 L'esperienza integrata nel lavoro può essere la condizione vincolante per la competenza avanzata: su 89 progetti di tirocinio sponsorizzati in un laboratorio di produzione intelligente, il passaggio dal [[career-development-and-readiness|Livello di Prontezza al Lavoro]] 6 al 7 era condizionato dai tirocini inseriti nell'industria anziché da corsi aggiuntivi ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
-
 Su 26 studi con coinvolgimento della comunità, l'IA si concentrava nella preparazione (18) e nell'azione (15) e si diradava nella valutazione (8) e nella riflessione (3), così che le fasi successive e integrative del ciclo restano la lacuna di progettazione nel service-learning ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
-
 
 ## Idee sbagliate comuni
 
@@ -97,38 +96,3 @@ Su 26 studi con coinvolgimento della comunità, l'IA si concentrava nella prepar
 **Per i progettisti di programmi**
 
 - Verifica che i programmi applicati contengano lavoro applicato anziché proxy di laboratorio; l'affermazione di trasferimento poggia sull'autenticità dell'incontro.
-
-## Concetti collegati
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Ombrello: pedagogie e strategie didattiche nell'educazione all'IA
-- [[virtual-and-augmented-reality]] — pratica immersiva come esperienza deliberata
-
-- [[reflection]]
-
-
-## Articoli collegati
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
-- [[gelli-experiential-language-learning-2026]] — GELLI: un generatore di interazioni per l'apprendimento esperienziale delle lingue (Symonette et al. 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtuale assistito dall'IA per l'apprendimento capovolto della fisica: effetti su rendimento, motivazione e carico cognitivo degli studenti della scuola media
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — Sessioni esperienziali contro sessioni frontali per la consapevolezza metacognitiva nell'apprendimento assistito dall'IA (Benazet i Montobbio et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 studi mappati sul ciclo del service-learning: l'IA si dirada nella valutazione e nella riflessione (Yusuf et al. 2026)
-

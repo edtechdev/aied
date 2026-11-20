@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -48,10 +49,3 @@ Amplify GenAI 押的是与全校购买商业助手许可证相反的一注：院
 ## 说明与注意事项
 
 许可证免费，运行不免费：院校要付 AWS 和模型提供商的费用。模型选择通过 Amazon Bedrock（Anthropic、Mistral）或 OpenAI 与 Microsoft Azure 进行，运行自己的本地模型尚未实现。项目明确表示无法支持单个部署，并把组织引向商业合作伙伴——所以现实成本里包含人员或承包商。它是三个代码库（前端、后端、基础设施）的部署，星标是几十而不是几千，上面的成本比较是范德堡自己的经验，不是对照研究。更愿意把推理留在自有硬件上的院校，应当看看 [MindRouter](/aied/resources/mindrouter/)，并把两者放在一起读：Amplify 是供应商模型之上的应用层，MindRouter 是自有 GPU 之上的网关。
-
-## 关联概念
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

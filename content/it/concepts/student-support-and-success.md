@@ -31,6 +31,8 @@ ai_assist:
 translation_of: concepts/student-support-and-success
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -57,7 +59,6 @@ La ricerca si raggruppa in cinque funzioni, e i confini tra questi raggruppament
 
 Una revisione di 61 studi sul sostegno agli studenti abilitato dall'IA ha rilevato che il campo si concentrava nei [[adaptive-learning|sistemi adattivi]] e nella [[personalized-learning|personalizzazione]] (41 usi) e nella profilazione e previsione (30), con chatbot e sistemi di raccomandazione che gestivano l'accoglienza e le richieste di routine. Ha anche rilevato le lacune: nessun intervento affrontava la fase di transizione dello studente, e solo due studi nominavano un sottogruppo di studenti, quindi lo studente generico della maggior parte dei sistemi era una media statistica ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
-
 **Contatto attivo e comunicazione.** Le istituzioni inviano messaggi agli studenti su larga scala, e le valutazioni più robuste verificano se ciò cambi qualcosa. Uno studio randomizzato quadriennale su CSUNny, un chatbot via SMS non generativo della California State University, Northridge, ha seguito due coorti di studenti universitari (N = 8.708) per otto semestri ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Un promemoria di iscrizione inviato il 31 luglio 2018 ha reso gli studenti trattati più propensi a iscriversi entro il 16 agosto di 34 punti percentuali e solo di 2 punti più propensi entro il 15 settembre; i promemoria relativi a Early Start hanno prodotto 11 punti in più di iscrizioni entro il 7 giugno e 20 punti entro il 22 giugno. La ricettività si è mantenuta: i tassi annui di rifiuto non hanno mai superato il 4%. Una sperimentazione multi-semestrale pre-registrata alla Georgia State University ha stimolato gli studenti di due ampi corsi asincroni (N = 1.568 e N = 915) con due o tre messaggi personalizzati alla settimana, aumentando del 4% le probabilità di ottenere un voto A o B rispetto al 61% del gruppo di controllo e spostando i tassi DFW di circa tre punti in ciascun corso ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 **Orientamento e pianificazione accademica.** La previsione di corsi e voti fornisce l'input per la pianificazione — un modello prevede congiuntamente quali corsi uno studente frequenterà e quali voti otterrà ([[trace-course-grade-prediction-2026|Savala, 2026]]), e un altro prevede il progresso a livello di modulo in ampi corsi di programmazione online mediante un albero decisionale intrinsecamente interpretabile ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). Il trasferimento dei crediti è un problema di orientamento a sé: CourseGraph modella il contenuto dei corsi come grafi di conoscenza per valutare le equivalenze con corsi esterni rivolti a studenti mobili ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026]]). A livello istituzionale, una revisione di 155 studi sull'IA e l'erogazione dei servizi nell'istruzione superiore ha riscontrato che l'analisi dell'apprendimento è l'applicazione più comune con 46 studi (29,7%), seguita dai chatbot e dagli assistenti virtuali con 31 (20,0%) e dall'analisi predittiva con 29 (18,7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
@@ -71,7 +72,6 @@ Una revisione di 61 studi sul sostegno agli studenti abilitato dall'IA ha rileva
 **Un assistente interno compete con il chatbot pubblico sulla disponibilità, non sulla capacità.** In cinque studi di co-progettazione alla Open University (315 studenti, 20 membri del personale), il punto di forza proposto di i-AIDA era l'accesso a ogni ora, condiviso dal 73% di un'indagine su 96 studenti, e l'uso diretto ha spostato la domanda da 9 su 18 studenti a 16 su 18 (d = ,81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Gli studenti lo valutavano 7,58 su 10 rispetto ad altri strumenti generativi, mentre circa il 10–15% obiettava su basi valoriali anziché di [[usability-research|usabilità]], definendo lo studio assistito dall'IA una diluizione dell'apprendimento legittimo.
 
 Ciò che un canale di sostegno IA sposta merita la stessa contabilità. In quattro studi (N = 249, 494, 743 e 737), la convinzione nella capacità dell'IA di fornire supporto emotivo aumentava la disponibilità a scaricare su di essa quel supporto, e l'effetto passava interamente attraverso la capacità percepita (effetto totale c = 0,83; effetto indiretto ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). Su una misura comportamentale, i partecipanti che dicevano che non avrebbero scaricato sceglievano meno parole di [[empathy|empatia]], quindi instradare gli studenti verso un canale di benessere IA può sottrarre supporto umano in modi che l'[[self-report-measures|autovalutazione]] non mostra.
-
 
 ## Dalla previsione al sostegno
 
@@ -114,59 +114,3 @@ Il sostegno agli studenti si collega all'[[student-experience|esperienza student
 **«La scala degli esiti collassa: il coinvolgimento è la persistenza.»** Ogni gradino misura una cosa diversa — aderire, rispondere, persistere, completare — e un programma può muovere i gradini più bassi lasciando piatti quelli più alti. Riportare la quota di chi risponde come un successo commette esattamente questa sostituzione.
 
 **«Una preoccupazione di equità è un motivo per smettere di usare i dati.»** È un motivo per agire sui punteggi con cautela. Agire su un predittore può distribuire sostegno e può distribuire sospetto, e il rischio si concentra sugli studenti che il modello classifica meno favorevolmente — il che rende il rimedio una governance dell'uso, non l'abbandono della misurazione.
-
-## Concetti collegati
-
-- [[higher-ed]] — l'ombrello settoriale sotto cui si colloca questa pagina
-- [[student-experience]] — il modo in cui l'IA incide sull'esperienza propria dello studente
-- [[learning-gains]] — se l'apprendimento si è verificato, l'esito didattico che questa pagina non misura
-- [[learning-analytics]] — previsione, allerta precoce e analisi predittiva
-- [[student-modeling]] — lo strato di modellazione sottostante alla previsione del rischio
-- [[knowledge-tracing]] — stima fine delle competenze e del livello di padronanza
-- [[recommender-systems-and-learning-paths]] — raccomandare corsi, risorse e percorsi
-- [[help-seeking]] — il modo in cui gli studenti arrivano a chiedere sostegno
-- [[well-being]] — salute mentale, prevenzione e intervento sul campus
-- [[career-development-and-readiness]] — l'esito che segue il completamento
-- [[administrator]] — il ruolo che possiede e gestisce i sistemi di sostegno
-- [[stakeholders]] — chi ha voce in capitolo nelle decisioni sull'IA istituzionale
-- [[change-management]] — sostenere il programma dopo il pilota
-- [[governance]] — politica e supervisione dell'IA istituzionale
-- [[educational-policy-ai]] — il contesto politico dell'implementazione istituzionale
-- [[equity-in-ai-education]] — chi il sistema raggiunge e chi esso perde
-- [[privacy]] — registri degli studenti, condivisione dei dati e approcci federati
-- [[human-in-the-loop-ai]] — giudizio umano all'interno di un flusso di sostegno automatizzato
-- [[rct]] — il disegno che sta alla base dell'evidenza più solida qui presente
-
-## Articoli collegati
-
-- [[cefa-ai-learner-support-review-2026]] — 61-study review of AI-enabled learner support: adaptive systems and prediction dominate; transition phase and diverse learners are absent
-
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — four-year randomized evaluation of a university support chatbot: task completion moved, graduation and GPA did not
-- [[chatbot-outreach-course-performance-2026]] — pre-registered multi-semester outreach trial: higher A/B rates, modest DFW shifts, one demographic exception
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 synthetic vignettes: limited sensitivity to student need and cross-model inconsistency in support recommendations
-- [[sc2r-counterfactual-recourse-educational-2026]] — the actionability gap: recourse must be feasible and checkable, not merely model-valid
-- [[fairness-theatre-early-warning-systems-2026]] — six post-hoc fairness interventions on a vendor early warning system built from 168,550 records
-- [[at-risk-students-ml-prediction]] — supervised classifiers identifying students before withdrawal
-- [[predicting-attrition-competitive-programming]] — behavioral logs plus psychographic survey predicting attrition
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — federated risk modeling across institutions without sharing raw student data
-- [[precision-education-student-digital-twins-2026]] — digital twins and \"preventive student success\" as a vision
-- [[learning-analytics-to-educational-interventions-2026]] — seven enablers for closing the loop from analytics to intervention
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — a course-specific assistant aimed at lowering the cost of asking for help
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — tutoring take-up tested separately from learning
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — six behavioral profiles mapped to recommended learning objects
-- [[trace-course-grade-prediction-2026]] — joint prediction of courses and grades for planning
-- [[zhang-ml-student-progress-programming-2026]] — interpretable module-level progress prediction
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 studies of AI, leadership, and service delivery in higher education
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — ten-domain taxonomy of AI in educational leadership
-- [[students-at-stake-ai-deployment-risks-2026]] — student-side risk surface: admissions and aid, student-success services, and instruction
-- [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
-
-- [[shastry-gray-empathy-offloading-2026]] — Four studies on empathy offloading: believing AI can supply emotional support lowers what people supply themselves (Shastry & Gray 2026)
-
-- [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
-- [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
-
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last
-

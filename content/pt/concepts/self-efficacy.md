@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
@@ -46,13 +48,11 @@ A autoeficácia é distinta da competência real: é uma crença sobre a capacid
 - **Uma queda de competência pode ser a aprendizagem.** Em um curso assíncrono de oratória, a competência percebida caiu de 5,63 para 5,12 (p < ,01) e a crença em ser capaz de se sair bem de 6,02 para 5,51 (p = ,03), o que [[petricini-ai-literacy-communication-equity-2026|Petricini e Cruz (2026)]] leem como recalibração: encontrar casos-limite temperou o excesso de confiança inicial.
 - **Autoeficácia em IA e prontidão para a carreira:** a [[ai-literacy-career-adaptability-business-2026|pesquisa sobre prontidão em IA]] mostra que a autoeficácia em IA modera a relação entre letramento em IA e prontidão em IA: o letramento se traduz em prontidão apenas quando quem aprende tem confiança no uso da IA, e a autoeficácia prediz diretamente a [[career-development-and-readiness|adaptabilidade de carreira]].
 
-
 - **A confiança nem sempre é a alavanca.** Um SEM transversal com 502 docentes universitários concluiu que a autoeficácia tecnológica era um preditor pequeno do [[well-being|bem-estar]] com IA (β = 0,082), enquanto o letramento em IA dominava (β = 0,713), limitando a afirmação de que a confiança condiciona os resultados com IA: para o bem-estar, o conhecimento superou a confiança ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 - **As habilidades podem viabilizar a dependência, enquanto a eficácia a amortece.** Entre 478 estudantes de graduação israelenses, as dimensões de habilidade do [[ai-literacy|letramento em IA]] foram positivamente associadas à dependência da IA (usar/compreender a IA β = 0,404), enquanto a autoeficácia em IA foi negativamente associada (β = −0,132), então um treinamento em letramento que constrói apenas habilidade com a ferramenta pode aumentar a dependência ([[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]]).
 - **A confiança baixa encaminha para um uso mais pesado da IA, e depois para notas mais baixas.** Em um curso de provas com 153 estudantes, um ponto a mais de autoeficácia basal previu 39% menos mensagens ao chatbot, e um ponto a menos de autoeficácia correspondeu a 0,62 ponto a menos na prova por meio do uso do chatbot ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 - **A confiança como pivô entre letramento e confiança:** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] pesquisou 450 estudantes universitários que já usam o ChatGPT e concluiu que há uma cadeia ordenada, e não dois correlatos paralelos: o [[ai-literacy|letramento em IA]] se relacionava com a [[trust|confiança]] na ferramenta (beta = 0,50), a confiança com a autoeficácia acadêmica (0,48), e a autoeficácia com o uso continuado, com o efeito indireto serial significativo (0,07, IC de 95% [0,04, 0,10]). A [[anxiety-and-stress|ansiedade com a IA]] enfraquecia a ligação entre letramento e confiança (interação beta = -0,25, com inclinações simples caindo de 0,76 a 0,25 ao longo da faixa de ansiedade), então o mesmo conhecimento comprava menos confiança, e alcançava menos uso, entre os estudantes mais ansiosos. A confiança é, portanto, um elo a jusante na cadeia, e não um ponto de partida.
-
 
 A rota da ansiedade pela qual a prática assistida por IA se relaciona à disposição pode se inverter, e não apenas se esmaecer, com a confiança: a associação indireta condicional caiu de 0,142 em autoeficácia baixa em fala para 0,044 na média e −0,054 na alta, um efeito concentrado em uma pequena cauda superior ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - **Perfis de autoeficácia acadêmica e quem recorre à IA:** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] realizaram uma [[latent-profile-analysis|análise de perfil latente]] da autoeficácia acadêmica entre 102 estudantes universitários com deficiência motora na Espanha e encontraram três perfis (baixo 29,4%, moderado 41,2%, alto 29,4%), cujo uso relatado de IA subia degrau a degrau com o nível de perfil (médias 2,41, 3,56, 4,68; F(2, 99) = 27,84, p < .001, eta quadrado = .36). A Excelência, a dimensão de planejamento e definição de metas, foi a mais fortemente associada ao uso de IA (beta = .47). Os autores leem isso como um problema de [[equity-in-ai-education|equidade]]: se a confiança acompanha a adoção, estudantes com autoeficácia mais baixa podem ser os menos propensos a recorrer ao apoio da IA que poderia reduzir barreiras de [[accessibility|acesso]], então o apoio à autoeficácia acadêmica pertence aos frameworks de [[inclusive-learning|inclusão]].
@@ -88,7 +88,6 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 
 - **Necessária para a utilidade, não apenas correlacionada com ela.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu e Liu (2026)]] colocaram a autoeficácia em IA à frente das duas crenças de aceitação de 405 estudantes de pós-graduação em design e a encontraram como o antecedente mais forte de ambas: β = 0,458 sobre a utilidade percebida e β = 0,394 sobre a [[technology-acceptance-model|facilidade de uso percebida]]. Sua análise de condições necessárias acrescenta uma forma de afirmação mais forte que a trajetória acima. A eficácia foi a única condição identificada como necessária para a utilidade percebida (d = 0,125, p = 0,015). Utilidade em 80%, 90% e 100% de sua escala exigiu eficácia em 10,0%, 30,0% e 50,0%. A confiança, portanto, situa-se como um piso sob o julgamento instrumental, e não como um contribuinte entre vários. O desenho é transversal e o modelo explica R² = 0,150 da intenção, então trate os limiares como dentro da amostra.
 
-
 - **Rastros comportamentais podem carregar o sinal, mas os rótulos definem o teto.** Um pipeline de duas universidades detectou autoeficácia baixa a partir de rastros de interação; os rótulos da ocasião da pesquisa superaram uma divisão em meio de período, e a subescala MSLQ sozinha rotulou tão bem quanto o instrumento completo ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 - **As implicações da IA para a carreira se dividem em duas rotas.** Entre 415 universitários chineses, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] constatou que percepções positivas alcançavam a autoeficácia de decisão de carreira por meio do planejamento de carreira, enquanto percepções negativas a alcançavam apenas por meio da ansiedade de carreira (β indireto = −0,184).
 
@@ -98,52 +97,3 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 - **"Mais uso de IA com pouca confiança é uma estratégia de enfrentamento inofensiva."** O mesmo achado liga esse encaminhamento a **notas mais baixas**, de modo que o padrão de enfrentamento tem um custo mensurável, em vez de ser uma escolha neutra.
 - **"O letramento por si só constrói confiança."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] pesquisou **450 estudantes universitários** que já usam o ChatGPT e encontra a **confiança na ferramenta como pivô entre letramento e autoeficácia**. O caminho passa pela confiança, de modo que elevar o letramento sem tratar a confiança deixa o mecanismo intocado.
 - **"Os perfis de autoeficácia são uniformes em uma população com deficiência."** Uma análise de perfil latente de **102 estudantes universitários com deficiência motora** na Espanha encontrou **três perfis**, com o grupo baixo em **29,4%** e o restante dividido entre perfis moderado e mais alto. Tratar o grupo como uma única população faz a média sobre estados motivacionais distintos.
-
-## Conceitos conectados
-
-- [[learners]] — Quem aprene: o guarda-chuva dos conceitos do lado de quem aprende
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Aprendizagem socioemocional
-
-## Artigos conectados
-- [[ai-proof-learning-cognitive-offloading-2026]] — Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de provas assistida por IA (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — O uso geral da IA acompanhou maior autoeficácia e maior absenteísmo, mas a autoeficácia não previu a frequência (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA no ensino superior: comparando expectativas a evidências (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — a confiança subindo enquanto a dependência tecnológica cresce: a autoeficácia como um resultado enganoso da era da IA (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — A e-mentoria apoiada por IA eleva a autoeficácia e a inteligência emocional de professores pré-serviço de EFL (quase experimental)
-- [[aigc-affordance-student-self-regulation-2026]] — Affordance de AIGC e Autorregulação do Estudante
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — Letramento em IA, Prontidão em IA e Adaptabilidade de Carreira
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: dramatização mediada por robô para a intervenção contra o bullying
-- [[teacher-education-ai-literacy-sdt-2026]] — Formação de Professores para o Letramento em IA (TAD)
-- [[social-robot-study-companions]] — Robôs Sociais como Companheiros de Estudo
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Framework HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Padrões de uso da GenAI e autoeficácia acadêmica
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Escala AI-PBLS; o empoderamento e a consciência ética medeiam a trajetória PBL-satisfação em cursos de letramento em IA (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Prevendo o Abandono de Estudantes na Programação Competitiva
-- [[genai-xr-architectural-design-education-2026]] — IA Generativa e Realidade Estendida na Educação em Desenho Arquitetônico Colaborativo: Um Estudo Exploratório de Estúdio
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Letramento em IA, confiança e autoeficácia acadêmica em uma cadeia serial para o uso continuado do ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Perfis de autoeficácia acadêmica e uso relatado de IA entre estudantes universitários com deficiência motora
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Ganhos relatados de autoeficácia criativa com IA generativa em crianças (revisão de escopo)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — A autoeficácia em fala inverte a rota da ansiedade da prática assistida por IA para a disposição
-- [[faculty-ai-well-being-social-supports-2026]] — SEM com corpo docente: a autoeficácia tecnológica como preditor fraco do bem-estar com IA
-- [[cen-self-efficacy-favorability-2026]] — A autoeficácia e a favorabilidade moldam a aprendizagem com sistemas de tutoria e prática em papel (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — A Escala de Autoeficácia para Escrita previu mais consultas de Traduzir e Revisar, e não mais de Planejar ou de delegação da redação inteira (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Usando aprendizado de máquina para medir a crença de autoeficácia por meio dos rastros de interação de quem aprende na aprendizagem potencializada por tecnologia
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Autoeficácia em IA -> letramento em IA -> aceitação da IA, com a parcela mediada pelo conhecimento medida (İşbulan et al. 2026)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — autoeficácia como condição necessária para a utilidade percebida, com limiares de gargalo (Chu & Liu 2026)
-
-- [[kim-overtrust-ai-literacy-2026]] — A autoeficácia acadêmica previu maior confiança excessiva na IA, e não menor
-- [[wang-ai-assisted-blended-teaching-crop-breeding-2026]] — A autoeficácia separou os braços com IA e controle em d = 2,84, enquanto as notas de prova não se moveram
-- [[petricini-ai-literacy-communication-equity-2026]] — Um declínio de competência lido como recalibração produtiva
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Ler código comentado por LLM deslocou a confiança em direção à independência

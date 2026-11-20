@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -94,34 +96,3 @@ La neurodiversidad conecta con la [[special-education|educación especial]], el 
 - **«La investigación sobre neurodiversidad es un rincón minoritario de la [[ai-education|IAED]].»** El campo se ha **reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—**, con los formatos inmersivos en segundo lugar, con 11. La literatura se movió con la tecnología en lugar de acumularse en torno a preguntas estables.
 - **«Más IA para la dislexia significa mejor apoyo.»** [[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] abarca **72 estudios entre 2018 y 2024** y encuentra la IA usada en una amplia gama de propósitos. La amplitud de aplicación no es evidencia de eficacia para ninguno de ellos.
 - **«Las adaptaciones son el marco adecuado para quien aprende de forma neurodivergente.»** [[neurodivergent-computing-students|Una encuesta a 24 estudiantes de informática neurodivergentes y 20 pares neurotípicos]] con cuatro entrevistas en profundidad encontró necesidades que son **requisitos generales de diseño** —tareas estructuradas, equipos pequeños y estables, roles explícitos— y no ajustes individuales concedidos tras un diagnóstico.
-
-## Conceptos conectados
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[executive-function]]
-
-## Artículos conectados
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reformular el valor educativo de la tecnología educativa para aulas de primaria neuroinclusivas: una revisión de alcance
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de asistencia para estudiantes neurodivergentes en la educación superior
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 estudios sobre IA para el estudiantado con discapacidad, y un efecto que difiere según la categoría
-- [[adhd-video-segmentation-computing-education]] — Segmentación temporal de vídeo que llevó a los participantes con TDAH a la paridad
-- [[neurodivergent-computing-students]] — 24 estudiantes de informática neurodivergentes sobre estructura, ambigüedad y colaboración
-- [[genai-reliance-executive-functioning-2026]] — Dificultades de función ejecutiva, utilidad percibida y la ruta hacia la dependencia de la IA
-- [[seung-basham-cognitive-offloading-swld-2026]] — Descarga cognitiva con IA generativa en el estudiantado con dificultades de aprendizaje
-- [[dabaghi-ai-dyslexia-education-review-2026]] — La IA para ayudar a las personas con dislexia en la educación
-- [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
-- [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad
-- [[ai-learning-tools-engineering-education-needs]] — Diseñar herramientas de aprendizaje con IA conscientes de las necesidades y la atención
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Los procesos basados en detectores pueden disuadir del uso legítimo de las adaptaciones
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Veintiocho estudios sobre IA para estudiantes con TDAH, con la ética nombrada

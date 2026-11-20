@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -122,49 +124,3 @@ La adopción es una cuestión distinta de la eficacia: [[wang-ai-avatars-tam-doi
 **«La apariencia del avatar es cosmética.»** Las señales de identidad cambiaron las valoraciones de credibilidad y la adopción real de la orientación, con penalizaciones acumuladas para los avatares de mujeres negras de más edad.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis et al., 2026]]) La configuración es una decisión pedagógica y de [[equity-in-ai-education|equidad]].
 
 **«Un paciente simulado es un paciente estandarizado, menos el costo.»** Los psicólogos en formación encontraron a su paciente virtual cooperativo y ya avanzado en terapia, un caso «ideal» que representa mal la inflexibilidad conductual.([[ai-psychotherapy-training-avatars|Riachi et al., 2026]]) El costo baja; la validez de caso no llega automáticamente.
-
-## Conceptos conectados
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Artículos conectados
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — Evidencia del lado de la adopción: 653 estudiantes, la transparencia como predictor más fuerte de la confianza (Wang et al. 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Las señales de identidad del avatar desplazan la credibilidad y la adopción de la orientación (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Avatares de estudiante en el diálogo de la formación docente basada en la práctica (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Creación y notificación de deepfakes por género en un taller de alfabetización en IA
-- [[elevate-genai-virtual-tutors]] — Tutores con avatar 3D que funcionan primero en local, con una capa de gobernanza para el docente (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Pacientes con avatar y un juez LLM para la comunicación clínica
-- [[genai-simulate-patient-history-pbl-2026]] — Un avatar de paciente de IA generativa en un tutorial de ABP sobre anamnesis
-- [[ai-psychotherapy-training-avatars]] — Avatares de paciente para practicar la fidelidad a la TAC en la formación en psicoterapia
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Agentes pedagógicos en realidad extendida: presencia, realismo y carga (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Juego de rol mediado por robot con un avatar manejado por los niños para la intervención como testigos
-- [[personalized-ai-generated-videos-preference-2026]] — Personalización de vídeo con docente clonado y preferencia del estudiantado
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Marco de cuatro capas que separa representación y agencia en la simulación de aula
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Un agente de voz conversacional propuesto para entrevistas de retroalimentación de curso
-- [[trikonet-trivalence-co-creativity-2026]] — Avatares pedagógicos cocreativos en redes sociotécnicas (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Solo el 51,7% de 654 estudiantes adoptó los roles antropomórficos ofrecidos; uno lo llamó máquina expendedora de retroalimentación
-- [[wu-singing-syllabus-avatars-2026]] — Diseñar programas de estudios cantados con avatares virtuales: reescritura del programa asistida por IA

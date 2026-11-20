@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -80,29 +82,3 @@ Weil E-Portfolios **Prozess, Reflexion und demonstriertes Verständnis** gegenü
 **„Ein signifikantes multivariates Ergebnis beweist, dass das Portfolio der wirksame Bestandteil war."** Es beweist, dass das Paket die Ergebnisse bewegt hat. Die Studie kombinierte ein KI-Werkzeug, eine Portfolio-Struktur und Sprechaufgaben, und ein Design dieser Form kann nicht isolieren, welche Komponente den Zuwachs erzeugt hat. Die vertretbare Aussage betrifft die Kombination, und der Vorbehalt zu [[learning-gains|Lernzuwächsen]] gilt: Berichtete Zuwächse müssen auf eine Komponente zurückgeführt werden, bevor sie wiederverwendet werden können.
 
 **„E-Portfolios ersetzen die Notwendigkeit unassistierter Bewertung."** Sie ergänzen sie. Ein Portfolio belegt Prozess und Entwicklung über die Zeit; es belegt nicht, was eine lernende Person ohne Unterstützung leisten kann, und beides zu vermengen führt jenes Artefakt-als-Proxy-Problem wieder ein, zu dessen Lösung das Format eingeführt wurde.
-
-## Verbundene Konzepte
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Verbundene Artikel
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Wahrnehmungen von Studierenden zur Entwicklung von Multiliteracies durch KI-gestützte Portfolio-Bewertung (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT im Einklang mit E-Portfolio-Bewertung für EFL-Sprechen und Feedback-Literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- und kompetenzbasierte Bewertung im KI-Zeitalter
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentisches Assessment robust gegen generative KI, einschließlich sozialer Beitragsportfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Kommentierte Portfolios / mündliche Verteidigungen als KI-resistente Bewertung
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Das symbiotische Portfolio für hybride Lernende
-- [[pbl-structural-conditions-ai-2026]] — Portfolios als teils Antwort auf Bewertung im Maßstab
-- [[learn-framework-responsible-genai-pbl-2026]] — Persönliche Lernportfolios als bewertbare Lernspuren

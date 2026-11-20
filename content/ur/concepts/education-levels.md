@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -96,30 +98,3 @@ ai_assist:
 **"[[intelligent-tutoring|انطباقی ٹیوٹر]] ہر سطح پر یکساں مدد کرتا ہے۔"** جو موازنہ متغیر کو الگ کرتا ہے وہ سبق آموز ہے: دوسری جماعت کے ایک ہی ریاضی ٹیوٹر کی دو صورتیں — مواد، انٹرفیس، فیڈبیک اور بولی جانے والی اشارے یکساں — **صرف اِس بات میں مختلف کہ کام کے انتخاب میں Bayesian [[knowledge-tracing|Knowledge Tracing]] ماڈل استعمال ہوا یا نہیں**۔ انطباقی انتخابِ کام سطح کے لحاظ سے حساس مداخلت ہے، اور اُس کا فائدہ اِس پر منحصر ہے کہ اُس سطح کے سیکھنے والے انطباق پر عمل کر سکتے ہیں یا نہیں۔
 
 **"اعلیٰ تعلیم میں مرکوز شواہد نیچے کی طرف عام ہو جاتے ہیں۔"** ایسا نہیں ہوتا، اور ادب کی تقسیم سہولت کے بجائے تنبیہ ہے۔ شواہد کہاں گھنے اور کہاں پتلے ہیں یہ تحقیقی معیشت کی خاصیت ہے، اِس بات کی نہیں کہ AI سب سے زیادہ کہاں استعمال ہوتا ہے، چنانچہ یونیورسٹی کے نمونوں سے K-12 کے بارے میں کوئی دعویٰ اُس حد کے پار توسیع ہے جو سب سے زیادہ اہمیت رکھتی ہے۔
-
-## منسلک تصورات
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## منسلک مضامین
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — دوسری جماعت کے ریاضی میں انطباقی بمقابلہ غیر انطباقی ٹیوٹرنگ (Sibley وغیرہ 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI چیٹ بوٹ اور ابتدائی سائنس میں تیسرے جماعت کے طلبہ کے ساتھ مسئلہ تراشی
-- [[chatgpt-music-education-junior-high-2026]] — جونیئر ہائی طلبہ کے گیت سیکھنے کے لیے ChatGPT کے بارے میں رویے (Weng اور Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — مڈل اسکول کے لیے ڈیزائن کیا گیا AI سے منسلک LMS، اور تجویز کردہ طویل مدتی مطالعہ
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — چینی ثانوی تعلیم میں جنریٹو AI کی سیکھنے کی سزا (Strömberg وغیرہ 2026)
-- [[llm-reliance-types-undergrad]] — انڈرگریجویٹ لکھاریوں میں LLM پر انحصار کی چار اقسام (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — انجینئرنگ طلبہ کے لیے لائبریرین کی معاونت والا AI معاون سیمینار پلیٹ فارم
-- [[ai-mediated-research-agency-formation-2026]] — ڈاکٹریٹ اور پوسٹ ڈاکٹریٹ تربیت میں AI انحصار، خودمختاری اور جدت (Han اور Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — افریقی اعلیٰ تعلیم میں ڈیٹا کی رازداری پر اسٹیک ہولڈرز کے خیالات (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — یوکرین بھر میں تعلیمی منتظمین کی AI اپنانے کی تیاری (Kremen وغیرہ 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — پیشہ ورانہ ڈیزائن کے طلبہ کے لیے AI سے ممکن شدہ عمیق PBL (Jin وغیرہ 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — ابتدائی بچپن کے ماحول میں AI استعمال کرنے کے لیے پری اسکول اساتذہ کا ارادہ
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — عمر کے مطابق ڈھلے AI چیٹ بوٹ کے بارے میں بچوں کے رویے

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -84,29 +86,3 @@ ai_assist:
 - **"पर्यावरण शिक्षा में AI मुख्यतः जानकारी देता है।"** मापे गए लाभ **निर्णय लेने** में हैं: एक संरचित [[inquiry-based-learning|पूछताछ]] कार्य के भीतर AI साथी के साथ काम करने वाले विद्यार्थियों ने निर्णय-लेने के माप पर केवल-पूछताछ वाले साथियों (**d = 0.69**) और पारंपरिक शिक्षण (**d = 1.88**) से बेहतर प्रदर्शन किया, और लाभ **सबसे कमज़ोर चरणों पर केंद्रित** रहे। प्रभाव तर्क की गुणवत्ता में है, उन बिंदुओं पर जहाँ विद्यार्थी सबसे कमज़ोर थे।
 - **"अकेली पूछताछ सक्रिय घटक है।"** AI-सहायित पूछताछ ने **केवल पूछताछ की तुलना में जलवायु निर्णय-लेने को बेहतर बनाया**, इसलिए AI का योगदान शैक्षणिक संरचना के अतिरिक्त था, उसका विकल्प नहीं।
 - **"छोटे नमूनों से बड़े प्रभाव फिर भी बड़े प्रभाव हैं।"** सतत विकास शिक्षाशास्त्र के अंतर्गत AI-सहायित [[learning-design|निर्देशात्मक डिज़ाइन]] ने **28** प्रतिभागियों से पूर्व-सेवा शिक्षकों की पाठ योजनाओं को d = 2.80 से सुधारा, समीक्षकों का अपना शब्द है *अविश्वसनीय रूप से बड़ा*, और उस नमूने से इतना बड़ा प्रभाव अनुमान के बजाय संकेत माना जाना चाहिए।
-
-## संबंधित अवधारणाएँ
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## संबंधित लेख
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — स्थिरता के लिए AI को सतत AI से अलग करता है; ग्लोबल साउथ की कमी
-- [[ai-assisted-inquiry-ssi-climate]] — AI-सहायित जलवायु अन्वेषण, केवल अन्वेषण की तुलना में d = 0.69
-- [[aied-carbon-footprint-reporting]] — AIED 2025 प्रकटीकरण समीक्षा साथ ही एक खुला स्रोत पदचिह्न विधि
-- [[llm-environmental-impact-student-usage-2026]] — 89 CS छात्रों के साथ विलंबता–कार्बन समझौतों पर इको-फीडबैक
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — ऑन-प्रिमाइस क्वांटीकृत सहायक, प्रति क्वेरी 1.8 mWh
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: इंजीनियरिंग शिक्षा में स्थिरता चेतना
-- [[riandi-teacher-ai-green-energy-education-2026]] — व्यावहारिक AI उपयोग और ESD सामग्री विकास एकीकरण की भविष्यवाणी करते हैं
-- [[talebzadeh-ai-green-education-2026]] — सतत विकास शिक्षाशास्त्र की बाधाओं के अंतर्गत AI-सहायित डिज़ाइन
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — सतत शिक्षा में AI का योगदान शासन-मध्यस्थ के रूप में
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "सतत सीख" को स्थायी संज्ञानात्मक एजेंसी के रूप में, पर्यावरणीय दावे के रूप में नहीं

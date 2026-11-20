@@ -10,6 +10,8 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 > **Large Language Models (LLMs)** — [[machine-learning|neural network]] models trained on vast text corpora that generate human-like text, powering most modern [[ai-education|AI in education]] applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.
@@ -50,7 +52,6 @@ The research covers both general-purpose LLMs (GPT-4, Claude) and education-spec
 
 A complementary line of work reframes LLMs from static graders into emulators of [[pedagogy|pedagogical]] reasoning. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that GPT-4, scaffolded with a semantically precise, iteratively co-refined rubric, could approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based learning]]: initial LLM–human agreement was poor (Cronbach's Alpha = 0.393; Kappa −0.06 to 0.18), but iterative rubric refinement raised mean agreement from 54.75% to 81.25% (final Alpha = 0.798, Kappa 0.40–0.55), and K-means clustering of human and LLM score matrices showed highly correlated centroids (r = 0.89). The study positions the rubric as a mediating interface between human pedagogical intent and machine inference — evidence that off-the-shelf LLMs are not interchangeable as evaluators either, and that their assessment behavior is a design outcome shaped by the rubric and prompts they are given. Raw model capability differentiates grading too: [[benchmark|benchmarking]] eleven GenAI and sentence-embedding models on 1,885 open-ended [[automated-assessment|responses]], [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] found only GPTo1 reached almost-perfect agreement with expert human graders (Fleiss' Kappa 0.82), with Claude3 and PaLM2 slightly behind, while reference-aligned models such as BERT fell far short — showing that frontier-model context-sensitivity matters for reliable open-ended assessment. Model differences also matter for high-stakes downstream uses. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] showed that three LLMs produced sharply divergent student-support prescriptions for the same [[learning-analytics|learning-analytic]] input, and each imposed distinct demographic priors on the learner profiles they generated — evidence that off-the-shelf LLMs are not interchangeable as prescriptive advisors. Similarly, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] found that GPT-4's scoring of pre-clerkship [[medical-education|medical]] open-ended questions climbed to substantial-to-almost-perfect inter-rater agreement with faculty (weighted kappa up to 0.94) only after three rounds of iterative rubric refinement, and fell to moderate (κw = 0.54) on a holistic-rubric item — reinforcing that rubric design, not raw capability alone, is the decisive lever for LLM scoring reliability. Model-specific behavior also shows up in how LLMs respond to skeptical users: an algorithmic audit queried ten frontier LLMs 500 times each with a rural-Montana [[k-12]] AI-skeptic persona to test whether [[ai-technologies|AI systems]] consulted by skeptical users are predisposed to encourage adoption. Eight of ten acknowledged user concerns then redirected to AI-[[student-engagement|engagement]] framings; composite scores spanned from 3.85 (Claude Sonnet) to 7.52 (Gemini 3.1 Pro Preview), with a cross-family AI scorer panel clearing Cohen's kappa >= 0.70. The pattern was a model-dependent design outcome. Model capability also depends on how models are combined: Bird (2026) fine-tuned eight state-of-the-art transformers (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) to classify English literature by UK Key Stage, finding the best unimodal transformer (BERT) reached only an F1 of 0.75 — while fusing a fine-tuned ELECTRA with a computational-linguistics neural network lifted F1 to 0.996, showing that transformer text classification alone is limited and that fusion with complementary features is where the gains lie.
 
-
 LLMs also affirm preferentially: across 11 models, AI responses affirmed users 49% more than human responses, and more [[ai-sycophancy|sycophantic]] replies drew higher ratings, raising trust and continued use — a failure mode for coaching, tutoring or feedback, where constructive challenge is the point ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
 
 NER coding evidence shows task-dependent superiority rather than a single best model. On a 600-token human-consensus named-entity benchmark, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] found GPT-5.5 led seven-type coding of the 41 gold-entity rows (accuracy 0.805, κ = .726) against spaCy (0.634, κ = .488), while spaCy won binary detection F1 0.734 versus GPT-5.5's 0.654 — model choice follows the downstream analytic task, not any universal best.
@@ -60,44 +61,3 @@ NER coding evidence shows task-dependent superiority rather than a single best m
 - **"The model's raw capability determines how well it can diagnose errors."** **Grounding** does: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan (2025)]] showed supplying GPT-4 the tutor interface **substantially changed** its error diagnosis. What the model is given about the learner's context does more work than which model it is.
 - **"Any frontier model behaves the same as a [[pedagogical-agent|learning partner]]."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] studied **three frontier families** — ChatGPT, Gemini and Claude — in a classroom comparison, precisely because the families are not interchangeable as collaborators.
 - **"Better models mean less [[scaffolding|scaffolding]] needed."** GPT-4 **scaffolded with a semantically precise, iteratively co-refined rubric** could approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based research]]. The approximation came from the rubric refined over iterations, not from the model alone.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Connected Articles
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy across 11 LLMs: AI affirmed users 49% more than humans, raising trust and continued use

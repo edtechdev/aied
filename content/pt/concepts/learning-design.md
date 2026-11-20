@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -125,73 +127,3 @@ O desenho modera os efeitos mais do que a tecnologia, na síntese de Zhang e col
 - **"O planejamento de aulas com IA devolve tempo aos professores."** O tempo de planejamento caiu, de 3.32 horas por semana para 2.51 com a ferramenta, mas **o professor mediano planejou apenas 21% a 40% das aulas do zero**. O tempo foi economizado e o planejamento não se tornou substancialmente mais cuidadoso — a economia se acumulou em vez de ser reinvestida.
 - **"O codesenho com IA é bem evidenciado."** Uma revisão sistemática do [[wang-teacher-ai-co-design-review-2026|codesenho professor–IA de tarefas de aprendizagem]] **confirma o padrão em escala em 28 estudos**, o que descreve uma prática consistente, e não demonstra desfechos superiores.
 - **"A rubrica é um insumo fixo."** A rubrica funciona como **interface mediadora entre a intenção pedagógica humana e a inferência da máquina**: tratar os critérios de avaliação como **revisáveis** é o que permite ao instrumento carregar a intenção do educador. Uma rubrica fixa transfere o enquadramento padrão da máquina para a avaliação.
-
-## Conceitos conectados
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — Parcerias pedagógicas
-- [[online-teaching-and-learning]] — Ensino e aprendizagem on-line
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (quem aprende, professores, designers, administradores, formuladores de política)
-
-## Artigos conectados
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Uma economia medida de tempo de planejamento ao lado do achado de que os professores planejam apenas 21% a 40% das aulas do zero
-- [[powerful-learning-with-emerging-technology-2025]] — Aprendizagem poderosa com tecnologia emergente
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Analítica da aprendizagem e IA generativa na tomada de decisão de desenho da aprendizagem
-- [[tang-chatbots-learning-design-2026]] — Uso de chatbot no desenho da aprendizagem: designers se detêm em resultados e pedagogia, e não na geração de conteúdo (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Padrões de interação professor–IA no desenho de aulas segundo experiência e proficiência em IA (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — IA no ensino superior: engajamento e o papel mediador dos métodos de ensino
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomia (objeto de fronteira) para classificar atividades de aprendizagem com IA generativa
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Agentes web de IA: um agente web autônomo avalia desenhos de aula e prevê evasão estudantil antes do engajamento dos estudantes (Wang, Mitchell e Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: um referencial para a ampliação cognitivamente ativada por IA na física
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Desenhando para alcance: sete alavancas e o estudante sozinho com a IA
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Quando dizer não produz vídeos melhores: dupla curadoria para criação de conteúdo com IA pedagogicamente fundamentada
-- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o desenho de problemas de falha produtiva
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA e a prática do desenho instrucional: uma revisão sistemática (Kibar e Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Tutoria inteligente baseada em grafos para domínios dinâmicos (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Tornar a IA irritante de propósito: restrição na escrita apoiada por IA (Konradt, Boote e Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Modelo de sala de aula inteligente e ciclo D-T-E melhorando a proficiência em desenho instrucional no mestrado em matemática (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Plataforma de IA que gera problemas de modelagem matemática (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Codesenho professor–IA de tarefas de aprendizagem: tendências e perspectivas (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arquitetura de papéis em atividades de grupo diferenciadas desenhadas por IA (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs como agentes de desenho pedagógico iterativo
-- [[zeivots-postdigital-co-design-genai-2025]] — IA generativa como colaboradora não confiável no codesenho
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Meta-análise de três níveis: a IA generativa funciona por feedback e desenho dirigido por quem aprende, não como intervenção uniforme (Zhang et al. 2026)
-
-- [[williams-coding-curriculum-critique-2026]] — Codificando o currículo: uma crítica a "Como a IA deixa sua marca no desenho instrucional"
-- [[chng-ai-instructional-design-2023]] — Como a IA deixa sua marca no desenho instrucional

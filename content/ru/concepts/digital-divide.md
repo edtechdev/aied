@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -99,42 +101,3 @@ ai_assist:
 - Не считайте раздачу устройств закрытием разрыва. Измеримые разрывы сидят в навыке формулировки, языке интерфейса и связности, и ни один из них не решается оборудованием.
 - Публикуйте инфраструктуру, которую предполагает инструмент. Чётко заявленное требование позволяет слабо обеспеченным условиям оценить пригодность до инвестиции.
 - Считайте стоимость полного развёртывания, а не лицензии на программное обеспечение. Данные о цифровых двойниках показывают, что счёт за оборудование может выжить при виртуализации.
-
-## Связанные понятия
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Связанные статьи
-
-- [[watanabe-genai-education-gap-europe-2026]] — Мельче ли разрыв в образовании при использовании генеративного ИИ, чем был у интернета? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
-- [[amol-ai-egovernance-digital-inclusion-2026]] — ИИ для электронного управления: языковые технологии для цифровой инклюзии

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -156,41 +158,3 @@ Kontrollerna ovan är inte folkvisdom; de kommer från dokumenterade misslyckand
 **"Högre betyg medan verktyget används visar att verktyget lärde ut mer."** I en [[k-12|K-12]]-studie i matematik fick elever som övade med en allmän [[conversational-ai|chattbot]] bättre övningsbetyg och presterade sedan **cirka 17% sämre** på bedömning utan stöd. Övningsprestation mätt med verktyget närvarande är det uppblåsta måttet; det utan stöd är utfallet, och bara ett av dem steg.
 
 **"Om effekten är verklig spelar implementeringsdetaljerna inte så stor roll."** De *är* effekten. En studie som följde 30 studenter i en kurs vid en institution, på en version av verktyget som ingen använder nu, har producerat ett resultat om en konfiguration som inte längre finns. Behandlingsspecifikation, version och miljö är en del av påståendet snarare än kontext runt det.
-
-## Anslutna begrepp
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI-assisterad utbildningsforskning
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Anslutna artiklar
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensisk granskning av 14 AIEd-metaanalyser
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Publikationsbiasjusterade AI-effekter ungefär en tredjedel av rapporterad storlek
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT i utbildningen: en effekt på jakt efter en orsak
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inklusionskriterier som strikthetströskel, och heterogenitet som ändras med modellen
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — När reliabiliteten hos automatisk bedömning möter uppgiftens mättak
-- [[verification-quality-reliance-calibration-genai-2026]] — Vad litteraturen om verifiering och beroende inte mäter
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricerade referenser som nådde tryck 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Övningsvinster, tentaförluster: problemet med att ta bort stödet i K-12-matematik
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Undergruppseffekter vars konfidensintervall korsar noll
-- [[chick-faculty-development-ethical-ai-2026]] — Möjliggörande villkor: policysignaler, personliga prenumerationer, ingen tid
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Leverantörsmått med kalibrering och antal experiment redovisade
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Resultat knutna till modellversioner, och fältets omsättning
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Antal oberoende evidens för 16 elevvända AI-produkter som redan används
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — En genomgång kan kvantifiera rapporteringssnedvridningen i sitt eget material

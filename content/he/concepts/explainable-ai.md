@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -83,7 +85,6 @@ ai_assist:
 
 לאיכות הסבר יש גם ממד שוויון: הסבר שנוכח טכנית אך בלתי-קריא לבעל-עניין מסוים — או שמסתיר את ה[[bias-mitigation|הטיה]] בחיזוי — נכשל במטרתו. זו הסבה ששאלת התכנון היא *איכות והתאמה*, וזו הסבה שעיצוב הסבר ממ-מרכז-אדם וספציפי-בעל-עניין הוא בלתי-נפרד מהייצור הטכני של הסברים. XAI יעיל הוא פעולת תקשורת שתוכננה לצרכים הקוגניטיביים של המקבל, לא ארטיפקט טכני בלבד.
 
-
 הסבר אינו תמיד מאפשר-השוואה. בניסוי ויניוט 2 × 2 עם 250 סטודנטים לכיתה ז', נימוק בכתב לציון במתמטיקה הרים קבלה והוגנות נתפסת בשני התנאים אך הרחיב במקום לסגור את הפער בין החלטות שנעשו על ידי [[teacher-role|מורה]] לבין החלטות שנעשו על ידי בינה מלאכותית ([[decision-making-agent-student-decision-acceptance-2026|Zhang ואח'. (2026)]]).
 
 ציטוטים מתפקדים כרמז אמינות ולא כראיה לנכונות: הצמדת ציטוטים ואותות סמכות לממשק דיבייט העלתה את הנטישה של שיפוט נכון לטובת עמדת ה-AI מ-15.0% ל-31.8%, והמקרים המצוטטים לעיתים יוחסו שלא כהלכה או היו פיקטיביים ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ואח'., 2026]]).
@@ -110,46 +111,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - **"הסבר שמספק משתמשים הסביר את המערכת."** אותה כשל קריאות מופיע בצד הביטחוני של [[automated-assessment|הערכה אוטומטית]]: [[humble-prompt-injection-ai-grading-red-team-2026|צוות-האדום של Humble (2026)]] מצא שזרימת עבודה יומיומית של ציון ניתנת למניפולציה על ידי הוראות מוזרקות. נרטיב סביר ונרטיב ניתן לביקורת הם שני ארטיפקטים שונים.
 - **"פרקטיקת XAI כללית עוברת לחינוך."** מסגרת ה[[xai-education-framework|XAI-ED]] (Khosravi ואח'., 2022) מתעקשת שלחינוך יש **צרכי הסבר ייחודיים** מעבר ל-XAI כללי, מכיוון שהקהל כולל לומדים שחייבים לפעול לפי ההסבר ולא מבקרים שצריכים לאשר אותו.
 - **"נאמנות היא תכונה שאפשר לטעון ללא בדיקה."** נאמנות מדודה דורשת **מחיקה קונטר-פקטואלית של קטעים קריטיים-לרובריקה** לצד דירוגים אנושיים. יישור תשומת-לב-לרובריקה שמגיע ל-**78.0% לעומת 41.7% ל-GPT-4 zero-shot ו-32.1% ל-BERT** הוא תוצאה השוואתית מבדיקה כזו, ולא מטענה על פרשנות.
-
-## מושגים מקושרים
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## מאמרים מקושרים
-- [[lund-socially-accountable-data-science-xai-2026]] — מסגרת בת ארבעה עמודים (אכיפיות-תשובה, אחריות, אכיפה, רפלקסיביות) להוראת XAI כפרקטיקת אחריות (Lund ואח'. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — עיצוב רגיש-ערך של ITS ממוקד-סטודנט (הסברים שיתופיים מול גלמיים)
-- [[xai-education-framework]] — XAI-ED: המסגרת המייסדת לבינה מלאכותית מוסברת בחינוך (Khosravi ואח'. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — הסברים ספציפיים-תחום בונים אמון וקבלה של מורים (Feldman-Maggor ואח'. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — נקודות-מבט סטודנטיאלית על הערכה שקופה בסיוע בינה מלאכותית (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — עקיבה-אחר-ידע פרשנית
-- [[explainable-probabilistic-kt]] — עקיבה-אחר-ידע מוסברת באמצעות הטמעות הסתברותיות
-- [[neural-symbolic-knowledge-tracing]] — עקיבה-אחר-ידע נוירו-סימבולית
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — זיקוק מודלים בעלי-קופסה-שחורה למודלי שפה מסבירים-עצמית עבור אנליטיקת למידה
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — אנליטיקת למידה פדרטיבית ומוסברת למידול סיכון משמר-פרטיות
-- [[sc2r-counterfactual-recourse-educational-2026]] — תקנת-מצב קונטר-פקטואלית מוגבלת-סמנטיקה לתמיכת החלטה חינוכית
-- [[fair-explainable-edu-recommendations]] — המלצות חינוכיות הוגנות ומוסברות
-- [[multimodal-affective-its-presentation]] — ITS בעל-לולה-סגורה פרשני למשוב אפקטיבי מולטימודלי
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — הסברת אימוץ ChatGPT בהשכלה גבוהה
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — מסגרת LLM מוסברת-על-ידי-תכנון: תשומת-לב בעלת-עדשה-כפולה והסברים מפורמטרי-ציון להערכת מורים אוטומטית (Li ואח'. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — הזרקת פרומפט בציון מתווך-בינה מלאכותית, שבו גילוי מעולם לא דווח למשתמש (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — הערכת מודלים מאומנים מראש להערכה פדגוגית של שאלות חינוכיות חדשות בסיוע בינה מלאכותית
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — החלטות ציון שנעשו על ידי מורה לעומת בינה מלאכותית: נימוק בכתב הרחיב את פער ההוגנות
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — ציטוטים ואותות סמכות הגבירו את ההסתמכות על פלט שגוי, חלק מהמקורות יוחסו שלא כהלכה או היו פיקטיביים
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - מודלים סימבוליים, תת-סימבוליים ונוירו-סימבוליים על אותו מקבץ ייחסו את חיזוייהם לגורמים שונים
-

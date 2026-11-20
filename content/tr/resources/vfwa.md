@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -51,11 +52,3 @@ Uzun yazmanın hâlâ saymasını isteyen ama nihai bir denemeye akıl yürütme
 Model ölçekte değerlendirilmedi. Makale açıkça henüz hiçbir örneklem, araç ya da ölçülmüş sonucun bulunmadığını ve pilotların şunları sınamak için gerektiğini söylüyor: 1. Aşama ürünleri değerlendirici güvenini ya da yorum tutarlılığını artırıyor mu, öğrenciler tasarımı daha adil buluyor mu ve bir disiplin 1. Aşama'yı ikinci bir sınava dönüştürmeden yeterlilik eşiğini nasıl belirliyor.
 
 İki pratik maliyet gerçektir. 1. Aşama gözlemli oturumlar ve ölçekte güvenli kayıt gerektirir; çok dilli kayıt ve çeviri ise ek değil ön koşuldur. Yorumlayıcı yargı da bilinçli olarak puanlayıcılara bırakılmıştır: model otomatikleştirilemeyecek disiplin uzmanlığını varsayar ki bu, tasarım varsayımı olduğu kadar bir kadro varsayımıdır.
-
-## Bağlı kavramlar
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

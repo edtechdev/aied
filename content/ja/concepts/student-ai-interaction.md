@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -100,43 +102,3 @@ BernsteinとSibia（2026）は、CS2の学生がGenAIの説明を扱う際に見
 - **「相互作用の分類法は決着している。」** **33 件の研究からの 46 の分類化にわたり、似たラベルが異なる現象を名指しています**。レビューが*相互作用エピソード*を単位として提案するのはそのためです。ある分類法から借りた符号化の枠組みは、別の構成概念を測っているかもしれません。
 - **「学生は AI をチューターとして使う。」** 教師の監督のない論証的な小論文に取り組む **38 人の学部生**のうち、**76.32% が単一ターンの問いかけ、答えを受け取る、停止というパターン**を用い、典型的には評価の題目を貼り付けていました。支配的なパターンは単一ターンの検索であって、個別指導ではありません。
 - **「AI の利用が多いことは、教材への関与が大きいことを示す。」** **200 件の共同プログラミングのチャットセッション**の分析では、**学生と GenAI の相互作用の 78.8% が非熟達志向の目的と方略で運ばれていました**。相互作用の量は学習の志向性とは別のものを測っていたのであり、セッション数は誤解を招く関与の代理指標です。
-
-## 関連概念
-- [[learners]] — 学習者：学習者側の概念の包括概念
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## 関連記事
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819名の学生において、利用頻度と自己評価の習熟度はいずれも何も予測しなかった
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 監督のない学生–GenAI評価課題における認知的アウトソーシングと再配分の対比 (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 「これは罠なのか？」：評価課題における教職課程学生のGenAI不使用 (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — 学生とAIの相互作用における問いかけの類型の分析
-- [[student-llm-interaction-taxonomy-review-2026]] — 学生–LLM相互作用タクソノミーのレビュー
-- [[teacher-authored-prompts-student-ai-dialogue]] — 学生とAIの対話における教師作成プロンプト
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 認識論的AIリテラシーの構築
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA)：CS2におけるLLMの統合
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS教育におけるLLMベースの教育エージェント (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — ログに記録されたプロンプト入力と統合の行動
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 不正確だが記憶に残る：コンピューティング教育における興味に応じてパーソナライズされたGenAIアナロジーに対する学生の批判的受容
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — バイパス、オフロード、それともスキャフォールド：大規模言語モデルが学習を形づくる仕組みの概念モデル
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AIチューターが話すとき：ランダム化フィールド実験からの証拠
-- [[context-prompts-physics-assignments-2026]] — コンテキストプロンプトを用いた人工知能駆動の物理課題
-- [[three-pathways-student-ai-interaction-2026]] — 学生–AI相互作用のThree Pathways類型：受動的レビュー46%、直接的質問18%、戦略的対話36%
-- [[porcaro-ai-grading-benchmark-2026]] — 一致率の先へ：正解が既知のプローブに22種のプロンプト採点者が挑み、その多くは説得によって評価を引き上げられる (Porcaro 2026)
-- [[shen-ai-skill-formation-2026]] — 6つのAI相互作用パターン、補助なしのクイズでは86%から24%まで低下 (Shen & Tamkin 2026)
-- [[cs-students-llm-conceptualizations-prompting-2026]] — 彼らは誰（何）にプロンプトを与えているのか？ CS学生はLLMをどう概念化し、どう使っているか
-- [[burke-ai-proliferation-college-students-replication-2026]] — 学部生991名：科目領域別の利用（自然科学88%、人文科学52%、社会科学36%）と、最上位の用途は学習

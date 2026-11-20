@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -79,41 +81,3 @@ ai_assist:
 **«Технические выборы — дело технолога, а не педагога.»** Позиция страницы в том, что вы можете быть превосходным преподавателем, не умея строить LLM, и ваши технические выборы всё равно формируют, что ИИ может и чего не может делать в вашей аудитории. То, обосновывает ли система свои ответы в материалах курса, — решение с педагогическими последствиями, которое кто-то должен принять.
 
 **«Более способная модель устранит пробелы области.»** Оркестровка, память и долгосрочное планирование — архитектурные, а не способностные проблемы: документировано отсутствие систем, которые управляют собственным использованием инструментов во времени, а лучшая модель сама по себе этого не даёт.
-
-## Связанные концепции
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Связанные статьи
-
-- [[agentic-ai-education-scoping-review]] — Обзор охвата агентного ИИ в образовании
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Исследовательская видимость 85 инструментов ИИ в STEM и инженерном образовании (Terkowsky et al. 2026)
-
-- [[genai-meta-analysis-programming-learning]] — Метаанализ эффекта GenAI на производительность и обучение в программировании
-- [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
-- [[educational-llm-alignment]] — Aligning LLMs for education
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
-- [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
-- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom

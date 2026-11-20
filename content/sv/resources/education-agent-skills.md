@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -41,7 +42,3 @@ Projektets särskiljande anspråk är dess förankring: skillarna citerar den ev
 ## Anteckningar och förbehåll
 
 De pedagogiska skillarna, dokumentationen och läroplansmaterialet är licensierade under CC BY-SA 4.0, så återanvändning och anpassning är öppen medan bearbetningar måste bära samma licens. Två operativa detaljer spelar roll om du driftsätter det. MCP-slutpunkten kräver tokens i stället för att vara öppen för alla, och eftersom servern betjänar en incheckad ögonblicksbild snarare än SKILL.md-filerna kommer en skill du lägger till utan att bygga om och checka in paketet inte att synas på den live-servern ens efter en ny driftsättning. Biblioteket är byggt av Gareth Manning, lärare och läroplansdesigner, och licensvillkoren gäller det pedagogiska innehållet specifikt.
-
-## Anslutna begrepp
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

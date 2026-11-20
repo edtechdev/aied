@@ -9,6 +9,8 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 reviewed_by: [editor]
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 > **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. [[ai-education|AI education]] ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments. It is the normative foundation for the other AI-education concerns — [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[academic-integrity|academic integrity]], [[governance|governance]], and [[pedagogical-safety|pedagogical safety]] — and the field is increasingly moving from abstract principle lists toward situated, context-sensitive, and institutionally-supported ethical practice.
@@ -106,56 +108,3 @@ Ethics connects to [[equity-in-ai-education|equity]], [[privacy|privacy]], [[bia
 AI ethics instruction is often justified by an assumption nobody tests: that [[ethics|ethics education]] changes anything. A 2024 systematic review and meta-analysis of 66 studies and 9,978 students is the best available test of that assumption in education generally. Ethics interventions raised ethical and moral outcomes by g = 0.55 against control conditions, and 73% of true effects exceeded the pre-registered helpful threshold — but **the delivery format carried the moderation**: discussion-based and discussion-plus-didactic formats worked (g = 0.56 and g = 0.68), while lecture-only instruction did not differ from zero (g = 0.10). Online delivery was indistinguishable from in-person.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
 
 The transfer to AI ethics is an inference rather than a finding of that study, but it is a strong one: an AI ethics module delivered as a lecture about bias and integrity is, on this evidence, the weakest available format.
-## Connected Concepts
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — AI use and disclosure statements
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[civic-and-political-education]]
-
-## Connected Articles
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ethical awareness amplified AI anxiety where no coping framework was taught: indirect-only mediation among 584 students
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[ai-ethics-education-public-discourse]] — Longitudinal analysis of public discourse on AI ethics in education
-- [[ethical-ai-higher-ed-game-theory]] — Game theory framework for ethical AI use in higher education
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
-- [[xai-education-framework]] — Explainable AI in education (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
-- [[ethically-mediated-ai-tpack-china-2026]] — AI-ethical knowledge as an integrative mediator in university teachers' AI-TPACK (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Bridging ethical AI literacy gaps across students, educators, and policy
-- [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethical awareness, reflection and reported responsible practice grew largely independently over three annual waves (Ayanwale et al
-- [[qi-information-ethics-ai-judgment-2026]] — Information ethics education and artificial intelligence ethical judgment among university students
-
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — Ethically Aware Learning in an AI-Enabled Classroom
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not

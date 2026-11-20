@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -101,29 +103,3 @@ ai_assist:
 
 - استخدم المجموعات التاريخية خط أساس بدلًا من معاملة الحاضر كالمقارنة الوحيدة المتاحة. فوقائع AIED لعام 1985 و1993 و2021 و2024 وIJAIED لعام 2004 و2014 و2021 عيّنة طولية جاهزة من ادعاءات المجال نفسه.
 - استشهد بالسلالة حين تدّعي الجِدّة. فادعاء أن نظامًا «يخصّص التعلّم» أو «ينمذج المتعلّم» لا يكون جديدًا إلا بالنسبة لتقليد سابق محدّد، والتقليد موثّق.
-
-## المفاهيم المرتبطة
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## المقالات المرتبطة
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — خمسون عامًا من موضوعات Computers & Education: انتشار الذكاء الاصطناعي انعطف صاعدًا بعد 2018، أي قبل ChatGPT بأربع سنوات

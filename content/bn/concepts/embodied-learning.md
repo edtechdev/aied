@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -63,33 +65,3 @@ ai_assist:
 - **"দেহই দেহভিত্তিক শিখনকে কাজ করায়।"** **১১টি রবোট-সহায়িত ভাষাশিখন গবেষণার (এন = ৫৯৫, ছ = ০.৮৩, আই² = ৮৪.৪%)** একটি মেটা-বিশ্লেষণে দেখা যায় **রোবটের আকারগঠন, মাধ্যম, স্বায়ত্তশাসন ও সামাজিক ভূমিকা [[language-learning|দ্বিতীয়-ভাষা শিখন]]-ফলাফলে মধ্যস্থতা করে না**। দেহধারণের বৈশিষ্ট্যগুলোই সক্রিয় উপাদান ছিল না, আর বিষমতা এতই উঁচু ছিল (আই² = ৮৪.৪%) যে পুলকৃত প্রভাব অত্যন্ত মিশ্র একগুচ্ছ হস্তক্ষেপের বর্ণনা দেয়।
 - **"বড় প্রভাব যন্ত্রকৌশলটিই নিষ্পত্তি করে।"** ১১টি গবেষণায় ৫৯৫ জন অংশগ্রহণকারী নিয়ে ছ = ০.৮৩ সত্যিই একটি সংকেত এবং তা কী তৈরি করেছে তা চিহ্নিত করে না। যেহেতু নকশার বৈশিষ্ট্য প্রভাবকে মধ্যস্থতা করেনি, সম্ভাব্য যন্ত্রকৌশলটি হার্ডওয়্যারে নয়, শিক্ষাদানগত কার্যকলাপে — যা বদলে দেয় কোথায় বিনিয়োগ করতে হবে।
 - **"দেহধারণ মাপা যায় না, তাই তত্ত্বেই থাকে।"** দেহ-অনুসরণ নিয়ন্ত্রণকে **মাপযোগ্য সংকেতে** পরিণত করতে পারে: একটি মিশ্র-বাস্তবতা সালোকসংশ্লেষণ সিমুলেশনে, যেখানে গতি-ট্যাগ শিক্ষার্থী-এজেন্টদের একটি প্রক্ষিপ্ত মডেল জুড়ে সরায়, একটি এলএলএম পাইপলাইন নিয়ন্ত্রণ-আচরণের **৪৭০টি অংশ** চিহ্নিত করেছে। গঠনটিকে পরিচালনযোগ্য করা যায়, যদিও সংজ্ঞায়িত করা কঠিন।
-
-## সংযুক্ত ধারণা
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — যে মাধ্যম সরাসরি দেহধারণ কাজে লাগানোর চেষ্টা করে
-
-## সংযুক্ত নিবন্ধ
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — গতি-অনুসৃত সালোকসংশ্লেষণ সিমুলেশন, একটি এলএলএম পাইপলাইনে বিশ্লেষিত (ফন্তেলেস প্রমুখ ২০২৬)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — মৌখিক ব্যাখ্যায় দেহগত উপলব্ধির একটি বহুমাধ্যম কাঠামো
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — দেহগত বুদ্ধিমত্তার মাধ্যমে টেকসই শিখন লালন (ই৩-এইচওটি)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — রোবোব্লকলি স্টুডিও
-- [[motibo-digital-storytelling-robots-motivation-2026]] — মোটিবো
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — আরইমাইন্ড
-- [[pepper-robot-sign-language-lis-2025]] — পেপার ও ইশারা-ভাষা
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — সৃজনশীল লেখালেখিতে রোবট-এলএলএম সংযুক্তি
-- [[robot-assisted-language-learning-meta-analysis-2026]] — এআই-বর্ধিত দেহগত রোবট-সহায়িত ভাষাশিখনের মেটা-বিশ্লেষণ
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — হাতে-গড়া মডেলের পর সহায়ক হিসেবে এআই: ভাষা-ভিত্তিক এআই দেহগত অনুসন্ধান অনুসরণ করতে পারে না (তুফিনো ও দামিয়ানি ২০২৬)
-- [[kim-ai-embodied-learning-review-2026]] — দেহভিত্তিক শিখনে এআই বেশিরভাগই পর্যবেক্ষণ করে: সংবেদন-ভূমিকা কোডকৃত ভূমিকা-ট্যাগের ৬২.৫%, আর পর্যালোচিত কোনো ব্যবস্থা শিক্ষার্থীদের ব্যবহারের সময় বহুমাধ্যম ধারা মেলায়নি (কিম ও হান ২০২৬)

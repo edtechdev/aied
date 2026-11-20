@@ -29,6 +29,7 @@ verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -52,11 +53,3 @@ Příručka je upřímná o svém vlastním statutu. Autoři označují záznamy
 Pro výuku jsou podstatná dvě další omezení. Doporučení jsou podněty k designu, nikoli otestované intervence; nic na webu nevykazuje výsledek. A struktura věkových pásem vnucuje hrubou mřížku vývoji, který se liší uvnitř pásem, mezi kulturami i mezi kontexty, což příručka sama přiznává.
 
 Rámec, který stojí za to přenést do praxe, je ten vlastní webu: udržujte smyčku lidskou a poté zjistěte, kam se do ní AI vejde, místo abyste vkládali lidský kontrolní bod do smyčky, která patří stroji — stejná obava, kterou výzkum zaznamenává jako riziko [[cognitive-offloading|odlehčení]], když nástroj převezme tu část úkolu, která odváděla vývojovou práci.
-
-## Související pojmy
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

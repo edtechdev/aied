@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -94,43 +96,3 @@ ai_assist:
 **"탐지가 절차에 필요한 증거를 제공한다."** 탐지는 점수를 제공합니다. 증거법적 질문은 고발이 애초에 증거로 뒷받침될 수 있는가이며, [[ai-detection|탐지 문헌]]은 그 도구들이 징계 절차가 요구하는 신뢰성도 해석 가능한 범주도 만들어 내지 못한다는 것을 보여 줍니다. 절차를 탐지기 위에 세우는 것은 가장 약한 고리 위에 세우는 것입니다.
 
 **"위험은 가설적이며 정책이 따라잡을 것이다."** 위험은 지금 불균등하게 분배되고 있으며, 그것을 떠안는 학생은 절차에 이의를 제기할 능력이 가장 적은 이들입니다. 기관의 조사 역량과 학생의 대응 역량 사이의 비대칭은 미래가 아니라 현재의 해악입니다.
-
-## 연결된 개념
-
-- [[academic-integrity]] — 위험을 수반하는 시행의 행위 틀
-- [[ai-detection]] — 오고발 사건의 중심에 선 도구
-- [[remote-proctoring]] — 평가에서의 감시와 그 데이터 보호 질문들
-- [[assessment-validity]] — 증거가 그것으로부터 만들어지는 주장을 확립할 수 있는지
-- [[privacy]] — 학생 데이터의 수집, 보관, 이후 처리
-- [[regulation]] — 기관이 충족해야 할 법정·규제 의무
-- [[governance]] — 내부 정책 설계와 시행의 일관성
-- [[educational-policy-ai]] — 의도하지 않은 노출의 원천인 기관의 AI 정책
-- [[ai-use-disclosure]] — 공개 기대와 그것의 시행 불가능한 경계
-- [[accessibility]] — 규칙이 보조 도구를 제거할 때의 합리적 조정
-- [[assistive-technology]] — 지나친 포괄성 문제의 중심에 선 도구들
-- [[neurodiversity]] — 지나치게 포괄적인 금지에 가장 노출된 학생들
-- [[equity-in-ai-education]] — 탐지와 감시의 차등적 부담
-- [[student-experience]] — 법적 비용에 앞서는 인간적 비용
-- [[hallucination-risk]] — 전문적·기관적 책임으로서의 조작된 법적 근거
-- [[reducing-ai-misuse]] — 고발에 대한 대안인 예방
-
-## 연결된 문서
-
-- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 고발 파일이 실제로 담고 있는 증거, 그리고 자연적 정의의 요건
-- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기 정확도, 혼합 텍스트 실패, 그리고 EFL 오분류 위험
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 두 번째 말뭉치 전반의 탐지 도구 신뢰성
-- [[bassett-ai-detectors-education-2026]] — 왜 어떤 탐지 임계값도 옳을 수 없는가: 오류 트레이드오프 논증
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 증거가 감지 불가능해졌을 때 재평가된 부정행위 절차
-- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 규칙, 장애 지원 조정과 합리적 조정
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 프라이버시와 감시 우려와 함께 조망된 원격 감독
-- [[automated-online-exam-proctoring-decade-review-2026]] — 자동 감독 연구의 10년
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — AI 시대의 학술 부정행위와 감독
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 방어 가능한 시행의 전제조건으로서의 정책 명확성
-- [[qian-governing-genai-higher-ed-policy-2026]] — 혁신적인 미국 대학들의 정책과 지원 생태계
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 파편화된 거버넌스에 관한 전문가 합의
-- [[sharma-judgment-visible-genai-assessment-2026]] — 감시가 아닌 보이는 판단을 통한 진실성
-- [[shin-ai-policies-sld-2026]] — 특정 학습 장애 학생들을 위한 정책의 공백
-- [[li-genai-assessment-language-equity-2026]] — 규칙 설계 문제로서의 언어 공평성: 지원–치환 경계, 간접 차별, 재검토 가능성 (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 간접 프롬프트 주입으로 AI 채점기를 공격하는 학생들, 발각되지 않고 점수가 변경됨 (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 평가를 진위 확인하기 위한 거버넌스 지표와 개혁 프로그램 (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057명의 미국 교수: 기관 정책을 훨씬 앞지르는 개별 정책, 빈약한 구조적 대응 (Watson & Rainie 2026)

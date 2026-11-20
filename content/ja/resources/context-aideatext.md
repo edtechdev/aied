@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -47,12 +48,3 @@ conText は、[[intelligent-tutoring|AI チュータリング]]がよく語り�
 ## 注記と注意点
 
 学生向けツールには価格もアカウントも公開されておらず、機関への展開（クラウド、オンプレミス、ハイブリッド）は個別の提案と打ち合わせを通じて提供されます。「無料」は 2026 年 11 月時点の公開デモの状態として扱い、保証とは考えないでください。テキストと画像は Claude を基盤とするホスト型サービスに送られ、サイト自身が、アップロード前に氏名、金額、住所、会社名を除くよう利用者に求めています。これは匿名化の負担をプラットフォームではなくアップロードする人に移すものです。セッションは書き出さない限り 1 時間後に自己削除されます。基盤企業は機関向けに、より広い推論グラフ評価プラットフォームも販売しており、演繹・帰納・仮説形成・類推のグラフを区別するという主張は 4 本の参照テキストに基づきます。サイトはそれを実演と呼び、規模での検証はこれからだとしています。
-
-## 関連する概念
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -139,29 +141,3 @@ IT와 도서관 리더십은 게이트웨이를 정책이 강제되는 장소로
 **"GPU 구매가 전략이다."** 스케줄링, 할당량, 지원 없는 용량은 대기열이 됩니다. 성공 사례들은 하드웨어 못지않게 거버넌스와 운영을 기술합니다.
 
 **"AI 문제는 챗봇이다."** 이 문헌이 기술하는 기관 가치의 대부분은 연계, 워크로드 분석, 태깅, 평가 기록에 있으며, 그곳에서는 어떤 학생도 채팅 창을 열지 않습니다.
-
-## 연결된 개념
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## 연결된 문서
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT: 모델 카드와 월 \$500 상한을 갖춘 300명 사용자 거버넌스 게이트웨이
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — Purdue: 두 캠퍼스 추론 서비스, 1000명 이상 사용자, 10개 이상 모델, vLLM 대신 Ollama
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN: API 경계에서 통제와 서빙 분리, 부하 테스트를 거친 프록시 계층
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter: 오픈 소스 게이트웨이의 공정 공유 스케줄링, 할당량, 에너지 회계
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL: 로컬 모델을 사용한 하이브리드 검색, 중앙값 지연 목표 통과 및 p95 미달
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — 초등 교육에서 나온 학교 규모 SLM 논변
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — 연계, 워크로드 분석, 평가 생산에 관한 OECD 챕터
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI: 학습 증거 연결을 위한 여섯 계층
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat: 지연 게이트를 통과하지 못한 더 큰 후보들 대신 유지된 8B 모델
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: FERPA 질문을 관리하는 대신 제거하는 로컬 추론 모델
-- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명이 탐지, 평가 설계, AI 리터러시, 전략에 관해

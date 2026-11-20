@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,12 +42,3 @@ Lãnh đạo các cơ sở TVET đang quyết định làm gì trước tiên, g
 ## Ghi chú và lưu ý
 
 Đây là hướng dẫn, không phải đánh giá. Hướng dẫn không báo cáo dữ liệu kết quả nào, và các ví dụ thể chế của nó — một mô hình học AI tích hợp nội dung tại Cao đẳng North Atlantic ở Canada và chuẩn thực tập công nghiệp TVET năm 2023 của Kenya — là những ô tình huống mô tả, lấy nguồn từ báo cáo dự án chứ không phải thử nghiệm độc lập. Các phụ lục tự gọi mình là chỉ dẫn; thang độ chín là một trợ giúp thảo luận, không phải một công cụ đo lường. Các nghề quan trọng về an toàn và nghề có quy định được một chương riêng, nhưng chương đó lập luận một quan điểm về giám sát của con người thay vì đưa chi tiết ở mức quy định. Giấy phép CC BY-SA 3.0 IGO cho phép điều chỉnh và tái công bố kèm ghi công và chia sẻ tương tự.
-
-## Khái niệm liên quan
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -78,36 +80,3 @@ ai_assist:
 **"סטודנטים עם פחות ידע קודם זקוקים ליותר תמיכת AI."** זהו הכיוון הסביר ביותר להרחבת הפער, שכן דפוס ההעמסה הנמדד מרכז את אובדן הכתיבה היכן שהידע הקודם הדק ביותר. תמיכה שמספקת את העבודה ללומד הפחות מצויד לזהות את ההחלפה מסירה את הפעילות שהייתה בונה את הידע החסר.
 
 **"ידע קודם הוא קלט קבוע שהקורס אינו יכול להזיז."** הוא הגורם בעל המשקל הגבוה ביותר בלמידה חדשה, מה שהופך את בנייתו למשימה בעלת המינוף הגבוה ביותר ולא לתנאי רקע — הסיבה שידע תחומי הוא ההתערבות בזכות עצמה, ולא רק משתנה מלווה.
-
-## מושגים קשורים
-
-- [[learners]] — הלומדים: היריעה המרכיבה עבור מושגים בצד הלומד
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — כישלון פרודוקטיבי
-- [[retrieval-spacing-interleaving]] — כיצד מה שהלומד כבר יודע קובע מה תרגול ההעלאה יכול לעשות
-
-## מאמרים קשורים
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — המתח שבין אוטומציה ללמידה (סיכון הפעלת ידע קודם)
-- [[genai-mindtool-generative-learning]] — בינה מלאכותית גנרטיבית ככלי-נשק מנטלי: האצה והפעלת ידע קודם
-- [[nie-personavlm-long-term-personalization-2026]] — מידול לומדים וזיכרון בעזרת LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Lobby על העמסה חוץ-קוגניטיבית
-- [[cognitive-offloading-llm-synthesis-writing]] — העמסה חוץ-קוגניטיבית בכתיבת סינתזה באמצעות LLM
-- [[bridging-instructional-design-framework-math]] — מסגרת תכנון הוראה למתמטיקה
-- [[knowledge-building-tutor-learning-2026]] — בניית ידע, ולא ידע קודם, חוזה למידה של חונכים, וחונכים עם ידע קודם נמוך שבונים ידע מתאזרים
-- [[rachatasumrit-example-problem-ratio-2026]]
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — ידע קודם נשא את הפוסט-טסט (η²p = .63) בעוד שבחירת משימות אדפטיבית לא נשאה דבר (Sibley et al. 2026)
-

@@ -18,6 +18,8 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
+connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
 ---
 
 > **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include [[pedagogy|pedagogical]] integration, [[assessment|assessment literacy]], ethical judgment, and the confidence to [[ai-literacy|use AI well]]. Teacher AI competency is the teacher-side counterpart to [[ai-literacy|AI literacy]], and is developed through [[educational-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
@@ -54,7 +56,6 @@ The research converges on several interconnected dimensions:
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
 - In a five-country survey of 1,405 K-12 teachers, AI readiness predicted positive beliefs about GenAI's instructional value (B = .59, R² = .50) yet predicted *greater* [[creativity|creativity]] concern (B = .18), and the same predictors explained only 7% and 6% of concern — readiness-building alone leaves concern untouched ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
-
 
 Readiness should be ordered and measured accordingly: the Capability–Decision Model places demonstrated AI capability upstream of attitude and confidence and proposes performance indicators rather than self-report alone — lesson-design tasks, prompt-evaluation tasks seeded with errors, content-validity judgments and classroom artifact rubrics ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -110,7 +111,6 @@ The professional-development literature identifies effective approaches:
 - **Support must be differentiated by experience and AI proficiency.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that how teachers actually interact with AI in lesson design depends on the *interplay* of teaching experience and AI proficiency, not either alone. Experienced teachers with high AI proficiency critically adapt AI output to context (re-prompting, elaboration), whereas novices — even technically fluent ones — tend to accept AI responses directly and rarely consider students and context. This argues for profiling-based PD: response-evaluation checklists and prompt templates for novices, and hands-on skill-building for experienced teachers with lower AI proficiency.
 - **The time benefit itself follows experience and confidence, not only support design.** In [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al.'s (2026)]] trial of an AI lesson assistant, the workload reduction was larger for teachers with lower subject-knowledge confidence, lower pedagogical knowledge, less time in the profession, or higher confidence with technology. Proficiency and confidence are therefore part of the intervention's effect, not only part of its take-up.
 
-
 Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 2024, the same non-use status masked opposite barriers — 83.3% of the Indifferent profile cited pedagogical reservations while 66.2% of Measured Endorsement cited insufficient knowledge and skills ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). AI-related professional learning tracked profile membership more consistently than age or attainment.
 
 - **Teachers do not share one conception of AI.** A phenomenographic study of 16 Danish higher-education teachers found three conceptions of teaching-with-AI and three of learning-with-AI, so a single workshop model reaches only part of any faculty group ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
@@ -122,7 +122,6 @@ Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 
 - **Institutional support:** [[educational-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 - **Authoring tools do not guarantee pedagogical fidelity.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] studied 27 middle school teachers configuring educational [[conversational-ai|chatbots]] in professional-development workshops, analyzing focus groups alongside configuration and interaction logs. Teachers treated the chatbot as an instructional scaffold bounded by teacher-defined rules, yet log-based alignment between intent and behavior was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%). Configurable controls alone do not carry pedagogical intent into behavior, so expressing, testing, and refining a chatbot's pedagogy is itself a competency the authoring tooling has to support.
 - **Support reaches competence through knowledge, not provision.** Across 782 teachers in 16 Chinese schools, perceived school support had no significant direct path to perceived AI teaching competence; the association ran through AI-TPACK, self-efficacy, resilience and AI anxiety, with AI-TPACK the largest channel ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie and Chen, 2026]]).
-
 
 A design-based counterexample treats competency as situational rather than a rung on a ladder. [[adaptive-ai-model-teacher-educators-2025|Eyal's 2025 design-based study with 22 higher-education teacher educators]] had participants examine five published assessment frameworks and co-design an alternative organized around three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development. The model rejects fixed competency levels and allows non-linear progression, and it ships with a 20-item reflective self-assessment questionnaire rated 1 to 5. Its validation is [[qualitative-research|qualitative]] only, with no [[quantitative-research|quantitative]] reliability testing, so it stands as a design contribution rather than a validated instrument.
 - **Meta-analytic estimate.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] pooled 212 effect sizes from 34 studies and estimate teacher AI-literacy PD at g = 0.76 (95% CI [0.50, 1.02]), strongest for skills (g = 0.91) and weakest for attitudes and values (g = 0.61); correcting for apparent publication selection lowers the estimate to about g = 0.49.
@@ -169,96 +168,3 @@ Department chairs can evaluate competence by demonstration. Self-report scales a
 - **"Prompting training makes teachers' materials better."** **Prompting training buys time, not better materials**: in a **preregistered RCT with 204 teachers**, Appel, Fervers and Piepenburg (2026) found ChatGPT improved **time spent** while the material quality did not follow. The efficiency gain is real and it is not the quality gain.
 - **"When teachers configure a chatbot, the failure is factual error."** **When teachers configure a chatbot in natural language, the dominant failure is lost intent rather than wrong facts** — bots **skip** the step the teacher meant. Instruction-following fails structurally rather than factually.
 - **"Technical skill is the decisive layer."** **Pedagogical knowledge is the decisive layer**: a cross-level study of secondary [[ai-education|AI education]] [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. The competence that determines the outcome is the one most training programs under-invest in.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[prompt-engineering]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[assessment-validity]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[self-efficacy]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[educational-policy-ai]]
-- [[ai-education]]
-- [[tpack]]
-- [[teacher-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Connected Articles
-
-- [[feng-ai-literacy-psychological-dimensions-2026]] — Six teacher AI literacy dimensions, with contextual knowledge and continuous professional growth among them (Feng & Carolus, 2026)
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 design teachers: competence gains and AI anxiety rise together, so support rather than training decides the outcome (Ding et al., 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
-- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 beginning teachers revised AI lesson plans; adaptation was the largest gap (Wilcoxen et al. 2026)
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study
-- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Which teachers gained planning time: lower subject-knowledge confidence, lower pedagogical knowledge, newer to the profession or high technology confidence
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Teachers accept AI while misunderstanding how it works (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Teacher readiness and technological–pedagogical integration as the most frequently reported challenge across 54 mathematics-education studies (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
-- [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
-- [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
-- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[teacher-ai-teaming-five-levels]] — Toward synergistic teacher-AI interactions
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
-- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating social-emotional competencies with AI literacy
-- [[teacher-ai-adoption-confidence]] — AI adoption among teachers: confidence and support
-- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
-- [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
-- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
-- [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
-- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — A three-hour teacher PD session raised perceived usefulness and ease of use but not stated intention to adopt (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematic review of AI in pre-service primary mathematics teacher training: ethics addressed in only three of eleven studies (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
-- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them
-- [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Faculty self-rated competence band predicted largely from institutional affiliation rather than individual attributes
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adoption judged discipline by discipline, with students' reasoning the main worry
-- [[chen-future-faculty-development-ai-2027]] — Competence distributed across a teaching team, with baseline technical and ethical capability held universally
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Frameworks list competencies and leave the conditions of judgment untheorized
-- [[zhou-school-support-teacher-ai-competence-2026]] — School support reaches teacher AI competence only through AI-TPACK, efficacy, resilience and anxiety

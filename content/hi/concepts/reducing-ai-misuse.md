@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,56 +110,3 @@ ai_assist:
 **"दुरुपयोग का पता लगाना और उसे दंडित करना एक रोकथाम रणनीति है।"** रोकथाम को ग्रेडर को भी कवर करना पड़ता है। [[humble-prompt-injection-ai-grading-red-team-2026|हंबल (2026)]] के रेड-टीम मूल्यांकन ने पाया कि प्रस्तुति फ़ाइल में सन्निहित पाँच में से दो अप्रत्यक्ष प्रॉम्प्ट-इंजेक्शन रणनीतियों ने एक असफल निबंध का स्कोर बढ़ा दिया। जो पाइपलाइन छात्र दुरुपयोग पकड़ती है जबकि बिना जाँची प्रस्तुति सामग्री पर भरोसा करती है, वह केवल एक तरफ से रक्षित है।
 
 **"दुरुपयोग छात्र-प्रेरणा की समस्या है।"** [[coates-governing-academic-integrity-indicators-2025|कोएट्स, क्राउचर और कैल्डेरॉन (2025)]] बाधात्मक बाधा को एक स्तर ऊपर धकेलते हैं, बदलने योग्य चीज़ के रूप में छात्र व्यवहार के बजाय शासन को मानते हैं और एक 130-वस्तु ईमानदारी-संकेतक ढाँचा प्रस्तावित करते हैं। और सीखने की हानि बड़े पैमाने पर मापनीय है: [[stromberg-generative-ai-learning-penalty-secondary-2026|स्ट्रॉमबर्ग, लेई और वू (2026)]] ने पाया कि होमवर्क बाह्यीकरण ने होमवर्क अंक 18% बढ़ाए जबकि *बंद-पुस्तक परीक्षा अंक 20% घटाए*, एक डिज़ाइन विफलता जो ठीक उसी अंतराल में दिखती है जिसके बारे में यह पृष्ठ है।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## संबंधित लेख
-
-- [[ivory-psychology-assessment-integrity-2026]] — दुरुपयोग रोकने वाले के रूप में संस्करण-नियंत्रण साक्ष्य-पगडंडियाँ और पुनरुत्पादक विश्लेषण दस्तावेज़ (आइवरी सहित 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — सिफ़ारिश रोकने ने अति-निर्भरता को बड़े भाग में रोका बिना उस निर्णय को बनाए जिसकी वह रक्षा करती है
-- [[generative-ai-guardrails-harm-learning]] — बिना गार्डरेल जनरेटिव AI सीखने को नुकसान पहुँचा सकता है
-- [[genai-performance-vs-learning]] — प्रदर्शन लाभ को सीखने से अलग करना
-- [[ai-assessment-scale-reform]] — AI मूल्यांकन स्केल और मूल्यांकन सुधार
-- [[critical-thinking-genai-scaffolding]] — जनरेटिव AI के साथ महत्वपूर्ण सोच को स्कैफ़ोल्डिंग बनाना
-- [[aaai2026-prompting-literacy-k12]] — सीखने के लिए AI का उपयोग करना सीखना (K-12 AI साक्षरता मॉड्यूल)
-- [[genai-declaration-frameworks-higher-education]] — पारदर्शिता संरचित करना: जनरेटिव-AI घोषणा ढाँचे
-- [[absent-cognitive-baseline-2026]] — अनुपस्थित संज्ञानात्मक आधाररेखा
-- [[ai-literacy-power-knowledge]] — AI साक्षरता: शक्ति-ज्ञान का अभ्यास
-- [[contextual-sycophancy-ai-literacy]] — संदर्भगत चापलूसी की छिपी लागत: एक AI साक्षरता हस्तक्षेप
-- [[sycophantic-ai-social-interaction-2026]] — चापलूसीपूर्ण AI मानव बातचीत को समय के साथ अधिक प्रयासपूर्ण और कम संतोषजनक बनाता है
-- [[ssaho-ai-academic-integrity-review-2025]] — पहचान पुलिसिंग के ऊपर संस्कृति-निर्माण और मूल्यांकन-पुनर्डिज़ाइन
-- [[young-people-learning-generative-ai-rapid-review-2026]] — संज्ञानात्मक समर्पण, उत्पादक घर्षण और मेटाकॉग्निटिव असमानता
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — मौखिक परीक्षाओं को प्रामाणिक, AI-प्रतिरोधी मूल्यांकन के रूप में पुनर्विचार करना
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — जनरेटिव AI सीखने की सज़ा: होमवर्क बाह्यीकरण सीखने को नुकसान पहुँचाता है
-- [[ai-overreliance-complex-adaptive-system-2026]] — एक जटिल अनुकूली तंत्र के रूप में मॉडलित AI अति-निर्भरता
-- [[burneo-can-edtech-close-learning-gaps-2026]] — गार्डरेल हटाने से परीक्षा अंक सुधारे बिना हानि हटी
-- [[munoz-misconduct-allegation-evidence-2026]] — दुराचार आरोप फ़ाइलों में वास्तव में क्या साक्ष्य होता है
-- [[wright-transcription-not-generation-2026]] — अति-समावेशी AI नियम और वे छात्र जिन्हें वे पकड़ते हैं
-- [[sharma-judgment-visible-genai-assessment-2026]] — अनुपालन के बजाय मूल्यांकनकारी निर्णय के रूप में ईमानदारी
-- [[mulisa-students-genai-integrity-perspectives-2026]] — छात्र इस बात पर कि जनरेटिव AI धोखे का उपकरण है या सीखने का साथी
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — रिमोट प्रॉक्टरिंग छात्रों के साथ और समानता के साथ क्या करती है
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-सुविधित धोखे के विरुद्ध परिस्थितिजन्य अपराध रोकथाम: 183 से 27 मामले, और पाँच विषय-विशिष्ट पुनर्डिज़ाइन (लीटन ग्रे, एडसॉल और पैरापादाकिस 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — छात्र-आवाज़ों के 38 अध्ययन क्या सलाह देते हैं: सह-निर्मित स्पष्टता और पहचान पर शिक्षाप्रद तर्क (जी 2026)
-- [[li-genai-assessment-language-equity-2026]] — EAL लेखकों के लिए भाषा सहायता कहाँ खत्म होती है और प्रतिस्थापन कहाँ शुरू
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI ग्रेडिंग के विरुद्ध एक दुरुपयोग वेक्टर के रूप में प्रॉम्प्ट इंजेक्शन (हंबल 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — ईमानदारी पर बाधात्मक बाधा के रूप में शासन: एक 130-वस्तु संकेतक ढाँचा (कोएट्स, क्राउचर और कैल्डेरॉन 2025)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — शैक्षणिक लेखन में जनरेटिव AI का जिम्मेदार छात्र-उपयोग: सीमाओं, शैक्षणिक दृष्टिकोणों और साक्ष्य अंतरालों की स्कोपिंग समीक्षा
-
-- [[guo-overreliance-genai-feedback-2026]] — संज्ञानात्मक भार ऑफ़लोडिंग से होकर अति-निर्भरता तक चलता है, निगरानी मार्ग बदलती है
-

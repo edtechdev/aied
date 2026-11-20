@@ -28,7 +28,8 @@ translation_of: concepts/process-oriented-assessment
 updated: "2026-11-08T11:34:07-05:00"
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
-
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -65,7 +66,6 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 **עקבות תהליך היא משוב רק אם הלומד קורא אותה מול המשימה.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] נתנו לאחד-עשר סטודנטים לתרגום [[visualization|הדמיות]] Inputlog והקלטת-מסך בתוספת מפגש שיקוף אחד בן 30 דקות. חלק התיקונים ברמת-המשמעות עלה מ-18.1% ל-28.4% (t(10) = 4.259, p = 0.002) בעוד שסך התיקונים לא השתנה באופן מובהק, וירד מ-1,292.91 ל-1,052.36 (p = 0.248). העקבה לא גרמה לסטודנטים לערוך יותר, רק אחרת, וזה הטיעון לראיות תהליך בתוצאה אחת.
 
-
 ## ציר שונה מהאותנטיות, ומהדירוג
 
 החזקת הצירים נפרדים חשובה, מכיוון שהתבלבלות ביניהם היא הדרך שבה עיצוב מחדש נראה גמור בעוד החשיפה נשארת. Sharma (2026) עושה את ההבחנה המשלימה בין אותנטיות לעיצוב מוכוון-יושר: האותנטיות שואלת האם משימה משקפת פרקטיקה ראויה, בעוד עיצוב מוכוון-יושר שואל האם לומדים יכולים להצדיק את החלטותיהם ולשאת באחריות ביחס לסטנדרטים תחומיים, וזו הסיבה שהפרקטיקות שהוא מציע — שבילי החלטה מועשים, אימות טענות שתרמנה GenAI, הגנה בעל-פה, הבדלי טיוטות עם היסטוריית גרסאות — נבחרו בשל ה[[evaluative-judgment|שיפוט]] שהן הופכות לנראה ולא בשל הריאליזם שלהן. הסקירה בן-עשור השנים של Espino ו-Espino (2026) על חינוך [[business-education|עסקים]] מגיעה לאותה מסקנת עיצוב מכיוון הספרות, ומוצאת שהתחום מתכנס על משימות אותנטיות ונראות-תהליך הדורשות פרשנות, יישום הקשרי ושיפור איטרטיבי, ומתייחס לאימוץ כלי מבודד בתוך מבני הערכה שלא שונו ככישלון המתמיד ביותר שלו.
@@ -95,47 +95,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 - **"ציון גבוה מרמז שהסטודנט עשה את העבודה שעיצבנו."** עקבות יכולות **לסטות מציונים ממש**: על פני **150 שיחות סטודנט–AI**, **41% נשאו ציון מטלה של בדיוק 1.00 בעוד מעורבות קוגניטיבית נצפית השתנתה**. הציון רווי בעוד התהליך שאמור היה להפיק אותו אינו.
 - **"נתוני תהליך אינם ניתנים לניהול בקנה מידה."** תיעוד נדרש הוכיח היתכנות בקנה מידה של קורס על פני **שישה סמסטרים של קורסי שיטות מחקר לתארים מתקדמים באסינכרון ששירתו כ‑440 מורי K‑12**. הלוגיסטיקה הייתה פתירה; ההתנגדות מגזימה בעלות.
 - **"פתרון בעיות הוליסטי מדי כדי להעריך אותו לפי תהליך."** אפשר להפוך אותו ל**ארבעה שלבים ושמונה תתי-מיומנויות אבחוניות**, ולאפשר ל‑LLM לייצר **שאלות ורובריקות ייחודיות-לשלב** — בשימוש עם **חמישה מורים ו‑64 סטודנטים**. הפירוק הוא מה שהפך את התהליך לקריא ולניתן-להערכה.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — נקודות-בדיקה מדורגות וראיות תהליך כעיצובים מסודרים
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## מאמרים מחוברים
-
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — סקירה נרטיבית ביקורתית הטוענת שכשל ברירת המחדל הוא תמיכת AI שלעולם אינה נמוגה עם הערכה מבוססת-תוצר בלבד (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
-- [[munoz-misconduct-allegation-evidence-2026]] — what misconduct case files contain, and the process evidence they lack
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — which inference is at risk when assessment evidence is substituted
-- [[beyond-detection-authentic-assessment-ai-2025]] — authenticity must be redesigned, not policed
-- [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
-- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
-- [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: תמיכה במורות באבחון מיומנויות-פתרון-הבעיות המתמטיות של תלמידים באמצעות שאלות המיוצרות ב-LLM
-- [[packard-thinking-partner-framework-adult-learners-2026]] — תיעוד נקודות-בדיקה של דיאלוג AI החזיק 96% השלמה על פני שישה סמסטרים וכ‑440 מורים
-- [[rubrics-genai-process-based-assessment-2026]] — שלושה ממדי רובריקה ממודל ה‑3P של Biggs: סוכנות ופיקוח, פיגום דיאלוגי, ריבונות קוגניטיבית (Oviedo & Díaz 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — עורך CodeMirror ופאנל צ'אט מתועד הפכו מפגש חיבור אחד לראיית תהליך, עם גבול ההקלדה-מול-חשיבה (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — הדמיות תהליך ומפגש שיקוף אחד הסיטו תיקונים מרמת-פנים לרמת-משמעות בלי להעלות את נפח העריכה
-

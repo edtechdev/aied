@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -125,48 +127,3 @@ Dua praktik pelaporan spesifik menggelembungkan atau mendistorsi sintesis, dan k
 - **"Bagian keterbatasan itu basa-basi."** Batas metodologis **terukur, bukan impresionistik**: dalam tinjauan kritis **80 studi HCI** tentang berpikir kritis dengan AI, **42 (52%) tanpa kelompok kontrol**. Hitungan yang presisi itulah yang membuat batasnya dapat ditindaklanjuti.
 - **"Heterogenitas adalah satu angka yang bisa Anda kutip."** Tinjauan yang sama menunjukkan bahaya pelaporan: heterogenitas dikutip sebagai **I² = 82.98% pada model efek tetap dan I² = 15.75% pada model efek acak**. Data yang sama menghasilkan cerita sembilan poin atau cerita dua poin tergantung model yang dipilih, sehingga I² yang dikutip tanpa modelnya tak dapat ditafsirkan.
 - **"Efek besar yang dilaporkan adalah angka yang harus dipercaya."** Tajuk seperti efek dari **30 siswa di satu mata kuliah pada satu lokasi** adalah bentuk umum klaim rapuh, dan hitungan studi tanpa kontrol menunjukkan seberapa sering kerapuhan itu tak dilaporkan.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Pengembangan Teori dalam AI dalam Pendidikan
-
-## Artikel terkait
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot AI di pendidikan tinggi: membandingkan ekspektasi dengan bukti (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Keandalan dan validitas kebenaran dasar dalam evaluasi
-- [[ai-literacy-assessment-misalignment]] — Literasi AI yang dilaporkan sendiri vs. berbasis kinerja
-- [[machines-misread-pedagogical-quality]] — Mengapa mesin salah membaca mutu pedagogis
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Batas kritis tutor AI dan penggunaan teori
-- [[cross-dataset-bloom-question-classification]] — Taksonomi Bloom dan klasifikasi pertanyaan
-- [[eeg-familiarity-automated-assessment-2026]] — Mengotomasi asesmen pembelajar: prediksi familiaritas berbasis EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dalam pendidikan: efek yang mencari sebab (kritik perbandingan media)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analisis: efek AI yang disesuaikan bias publikasi ~1/3 ukuran yang dilaporkan
-- [[oneill-presumed-effective-meta-analysis-2026]] — Dianggap Efektif: audit forensik 14 meta-analisis AIEd
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: kerangka pelaporan empiris untuk tinjauan sistematis berbantuan AI
-- [[frontier-models-physics-benchmark-audit-2026]] — Seberapa baik model terdepan dalam fisika? Penilaian ulang pakar menyingkap evaluasi rusak dan hampir-jenuh tolok ukur terkemuka
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kriteria inklusi dipakai sebagai ambang keketatan, dan angka heterogenitas yang berubah dengan model (Doğan dkk. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Uji kelas teracak klaster yang luaran kinerjanya tak mencapai signifikansi (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE setara
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi fokus umpan balik dan adaptivitas pedagogis dalam umpan balik tulisan siswa yang dihasilkan LLM
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: skema berbasis asersi untuk pengodean dialog pendidikan yang dapat diaudit
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Dari klasifikasi sentimen ke umpan balik yang dapat ditindaklanjuti dan bertanggung jawab: tinjauan pelingkupan dan peta bukti NLP dalam evaluasi pengajaran oleh siswa, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Yang terlewat oleh metrik kesetiaan: pemeriksaan struktural atas data pendidikan sintetis
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Tinjauan pelingkupan 195 studi pendidikan guru yang frekuensinya dibentuk desain string pencarian
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Survei guru K-12 lintas-negara: butir terjemahan mesin, ukuran kekhawatiran satu butir, tanpa uji invariansi
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Tinjauan sistematis 103 studi GenAI pendidikan tinggi: 56% perolehan bersyarat, nilai menutupi perubahan proses (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Augmentasi data dapat memproduksi metrik utamanya

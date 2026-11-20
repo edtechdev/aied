@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -62,7 +64,6 @@ ai_assist:
 - **এআই-সহায়িত দল-গঠনে বরাদ্দ-পক্ষপাত।** [[genai-social-bias-software-engineering-education-2026|Entezami প্রমুখ (2026)]] দেখান পক্ষপাত স্কোরিং ও প্রতিক্রিয়ার বাইরের একটি কাজ-শ্রেণিতে ঢোকে: তিনটি LLM 28-শিক্ষার্থীর সফটওয়্যার-প্রকৌশল ক্লাসকে চারটি দলে বাঁটলে পুরুষদের ইন্টারফেস ডিজাইনে (Core Development-এর বদলে) নারীদের চেয়ে অন্তত 80% কম বার পাঠায় (GPT-5.2 OR < 0.01), এবং জাতীয়তা যোগ্যতা থেকে স্বাধীনভাবে স্থান বদলায়। দক্ষতা সরবরাহ করা তা কমিয়েছে কিন্তু সরায়নি — দক্ষতা-ভিত্তিক বরাদ্দের 99.2% দুই ভূ-সত্য দলের একটির সঙ্গে মিলেছে, তবুও সমানভাবে বৈধ বিকল্পের মধ্যে লিঙ্গই সিদ্ধান্ত নিয়েছে (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) — এবং সমান্তরাল ছবি-উৎপাদন একক-ব্যক্তি ছবিকে পুরুষ ও হালকা-ত্বকে ঝুঁকিয়েছে (লিঙ্গ V = 0.64 ও 0.65; ত্বকের রং V = 0.57 ও 0.61), যেখানে বহু-ব্যক্তি ছবি তুলনামূলকভাবে ভারসাম্যপূর্ণ থেকেছে।
 - **উপগোষ্ঠী-নিরীক্ষা একটি স্বয়ংক্রিয় কোডারে সমতার নথি দিতে পারে** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman ও Borman (২০২৬)]] দেখেন একটি ফাইন-টিউন করা BERT প্রবন্ধ-কোডার প্রতিমাকৃতি-হুমকিগ্রস্ত শিক্ষার্থীদের জন্য নির্ভুলতা ০.৯২ এবং অ-হুমকিগ্রস্তদের জন্য ০.৯৪-এ পৌঁছায়, দুই গোষ্ঠীতেই রিকল ০.৯৮। লিঙ্গ-নির্ভুলতা ০.৯৫ বনাম ০.৯৩ এবং বিনামূল্য-বা-হ্রাসমূল্য দুপুরের খাবার-গোষ্ঠী ০.৯৫ বনাম ০.৯৪-এ ক্লাস্টার করে, অথচ ইংরেজি-শিক্ষার্থী (৮%) ও ব্যক্তিগত শিক্ষা-পরিকল্পনাসম্পন্ন শিক্ষার্থীদের (১০%) উপগোষ্ঠী-বিশ্লেষণ থেকে বাদ দেওয়া হয় কারণ উপনমুনাগুলো খুব ছোট ছিল।
 
-
 **সামগ্রিক নির্ভুলতা এমন মডেল লুকাতে পারে যে সংগ্রামরত শিক্ষার্থীদের খুঁজে পায় না।** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar প্রমুখ (2026)]] একটি এস্তোনীয় কোহর্টে তিনটি মডেল-পরিবার প্রশিক্ষণ দিয়ে তা দুইভাবে ভাগ করেন। ভারসাম্যপূর্ণ সেটে পরিবারগুলো তুলনীয় ছিল। অসম ভারসাম্যের ভাগে, প্রথম চতুর্থকের নিচে 125 শিক্ষার্থী বনাম তার উপরে 328, নির্ণয়-বৃক্ষ, বেইজীয় নেটওয়ার্ক ও র‍্যান্ডম ফরেস্ট 80% নির্ভুলতায় নিম্ন-কর্মদক্ষতার জন্য 8%, 12% ও 16% রিকল-এ পৌঁছায়, এবং কেবল নিউরাল-সিম্বলিক মডেল 50% ছাড়ায়।
 
 ## প্রশমন পন্থা
@@ -104,55 +105,8 @@ ai_assist:
 
 এই পাতার সবকিছু ব্যবস্থার ভেতরের পক্ষপাত নিয়ে। [[automation-bias]] তার আউটপুট পড়া ব্যক্তির পক্ষপাত নিয়ে — এমন একটি সুপারিশ গ্রহণ করা যা কেউ একা পৌঁছালে প্রশ্ন করত — এবং মডেল নির্ভুল হলেও তা টিকে থাকে।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"পক্ষপাত একটি স্কোরিং ও প্রতিক্রিয়া সমস্যা।"** পক্ষপাত **স্কোরিংয়ের বাইরের কাজ-শ্রেণিতেও** ঢোকে: তিনটি LLM **28-শিক্ষার্থীর সফটওয়্যার-প্রকৌশল ক্লাসকে চারটি দলে বাঁটলে পুরুষদের রেফারেন্স বণ্টনের চেয়ে অন্তত 80% কম বার** পাঠায়। দল-গঠন গ্রেডিংয়ের তুলনীয় মাত্রায় পক্ষপাত বহন করেছে।
 - **"প্রাসঙ্গিক দক্ষতা সরবরাহ করলে পক্ষপাত চলে যায়।"** দক্ষতা সরবরাহ করা তা **কমিয়েছে কিন্তু সরায়নি**: **দক্ষতা-ভিত্তিক বরাদ্দের 99.2% দুই ভূ-সত্য দলের একটির সঙ্গে মিলেছে, তবুও সমানভাবে বৈধ বিকল্পের মধ্যে লিঙ্গই সিদ্ধান্ত নিয়েছে (OR 2.53)**। প্রায়-নিখুঁত কাজ-মিল ও লিঙ্গ-প্রভাব একসঙ্গে থেকেছে, তাই প্রাথমিক মানদণ্ডে নির্ভুলতা ন্যায্যতার প্রমাণ নয়।
 - **"একটি প্রশমন-পন্থাই যথেষ্ট।"** গবেষণা **পরিপূরক কৌশল** দেখায় — তাদের মধ্যে ন্যায্যতা-সচেতন মডেলিং — কারণ গঠনে যে পক্ষপাত ঢোকে তা আউটপুট-পাঠ্যে লক্ষ্য করা কোনো সংশোধনে সম্বোধিত হয় না।
-
-## সংযুক্ত ধারণা
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — এই পাতায় না-থাকা পক্ষপাত: যাচাই না করেই একটি সুপারিশ গ্রহণ
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## সংযুক্ত নিবন্ধ
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — নিউরো-সিম্বলিক শিক্ষাদানগত সারিবদ্ধতা (NSPA)
-- [[ai-scoring-language-bias-physics]] — এআই-ভিত্তিক স্কোরিংয়ে ভাষা-পক্ষপাত
-- [[gender-bias-transfer-llm-writing]] — LLM-সহায়িত লেখায় লিঙ্গ-পক্ষপাতের স্থানান্তর
-- [[paternalistic-filter-llm-history-education]] — পিতা-সদৃশ ছাঁকনি ও বিভেদমূলক প্রত্যাখ্যান
-- [[fair-explainable-edu-recommendations]] — ন্যায্য ও ব্যাখ্যাযোগ্য শিক্ষামূলক সুপারিশ
-- [[temporal-smoothness-debiased-kt]] — ডি-বায়াসড জ্ঞান-অনুসরণ
-- [[ground-truth-reliability-aied]] — এআই নির্ভরযোগ্যতার জন্য ভূ-সত্য আধুনিকীকরণ
-- [[data-annotations-pedagogical-hints]] — শিক্ষাদানগত ইঙ্গিত হিসেবে ডেটা টীকাকরণ
-- [[xai-education-framework]] — শিক্ষায় ব্যাখ্যাযোগ্য এআই
-- [[antiskillbench-persona-skills-privacy-2026]] — পারসোনা-দক্ষতা গোপনীয়তা ও পক্ষপাত-নিরীক্ষা
-- [[genai-minoritized-knowledges-disability]] — GenAI এবং সংখ্যালঘু জ্ঞানের প্রান্তিকীকরণ
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: স্বয়ংক্রিয় লেখা-প্রতিক্রিয়ায় প্রতিমাকৃতি-সামঞ্জস্যপূর্ণ পক্ষপাত
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — এআই কি বৈচিত্র্যময় শিক্ষার্থী-প্রোফাইলের জন্য উপযুক্ত সহায়তা দিতে পারে? একটি বৃহৎ-পরিসর মূল্যায়ন
-- [[bias-representation-text-to-image-education-2026]] — এআই-উৎপন্ন টেক্সট-টু-ইমেজে পক্ষপাত ও প্রতিনিধিত্ব: পদ্ধতিগত পর্যালোচনা (Alon প্রমুখ 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — শিক্ষায় এআই-এর জন্য নৈতিক মূল্য ও রীতি
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — অনুভূতি-শ্রেণিবিন্যাস থেকে কার্যকর ও দায়িত্বশীল প্রতিক্রিয়ায়: শিক্ষার্থী-শিক্ষণ-মূল্যায়নে NLP-এর স্কোপিং পর্যালোচনা ও প্রমাণ-মানচিত্র, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — জেনারেটিভ এআই সফটওয়্যার-প্রকৌশল শিক্ষায় সামাজিক পক্ষপাত জোরদার করতে পারে
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: বিক্রেতা-নিয়ন্ত্রিত প্রাথমিক সতর্কতা ব্যবস্থায় ঘটনোত্তর ন্যায্যতা-হস্তক্ষেপের মূল্যায়ন
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - শ্রেণি-অসমতার অধীনে তিনটি মডেল-পরিবার নিম্ন-কর্মদক্ষ শিক্ষার্থী চিহ্নিত করতে পারেনি, যখন ভারসাম্যপূর্ণ মাপকাঠি সুস্থ দেখাচ্ছিল

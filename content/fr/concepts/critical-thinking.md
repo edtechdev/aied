@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -95,60 +97,8 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 
 - **C'est la structure du partenariat, et non l'exposition, qui porte l'association.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun et Toker (2026)]] ont modélisé 891 étudiants américains et turcs à l'aide de la théorie des systèmes de mémoire transactive et ont constaté que ni l'auto-évaluation de la capacité de pensée ni la confiance dans le partenariat avec l'IA ne prédisaient directement la mise en acte de la pensée critique. Les deux alimentaient la familiarité avec l'IAG, laquelle ne prédisait que deux comportements : la spécialisation et la coordination du travail (b = 0.636) et la transformation réflexive des productions (b = 0.367). Ces comportements prédisaient la pensée critique (b = 0.230 et b = 0.175) sans chemin direct restant (CFI = 0.974, RMSEA = 0.048). C'est la version au niveau du mécanisme du résultat nul récurrent du domaine : les heures d'usage et la compétence auto-évaluée ne sont pas des substituts de la pensée critique, et ce qu'une étude mesure lorsqu'elle interroge l'exposition, c'est l'entrée de la chaîne et non son résultat.
 
-
 ## Idées fausses courantes
 
 - **« Une meilleure consigne produit une meilleure pensée critique. »** C'est **le contrôle structuré du dialogue, non une meilleure consigne**, qui distingue un tuteur de sophismes d'un chatbot de débat : faire passer chaque tour par une **détection d'intention fondée sur Toulmin** a fait le travail. Le mécanisme est la structure de l'interaction plutôt que la formulation.
 - **« L'usage de l'IAG élève directement la pensée critique. »** Le lien entre l'usage de l'IAG et la pensée critique **auto-déclarée** passait **presque entièrement par la [[feedback-literacy|littératie en rétroaction]]** de l'IAG — chez **421 étudiants chinois de premier cycle**, la littératie en rétroaction médiatisait **71 %** de l'association. La littératie est la voie.
 - **« L'effet méta-analytique est uniforme. »** Sur **29 expériences**, l'IAG élevait modérément la pensée d'ordre supérieur (**g = 0.609**), avec la pensée critique à **ES = 0.691**. Des effets regroupés modérés sur des interventions hétérogènes étayent la catégorie, non une conception précise.
-
-## Concepts liés
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — L'enseignement de la chimie et l'IA : travaux pratiques, évaluation formative, limites des LLM, philosophie de l'expérimentation
-- [[biology-education]] — L'enseignement de la biologie et l'IA : assistants de laboratoire, littératie en IA en biologie, pensée critique, outils spécialisés
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Articles liés
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Consensus de 30 experts : la pensée critique porte la note de perturbation la plus élevée du rapport (moyenne 4.00)
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La pensée critique passe par la division du travail et le retraitement des productions, non par l'exposition
-- [[pearls-epistemic-verification-2026]] — Le cadre PEARLS pour l'agentivité épistémique et la vérification des productions de l'IA (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Le paradoxe de la pensée critique dans l'apprentissage intégrant l'IA générative
-- [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA : favoriser la pensée d'ordre supérieur (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — La théorie des trois systèmes et la reddition cognitive : comment l'IA remodèle le raisonnement humain (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — La tragédie des communs cognitifs : l'IA et la régénération de l'expertise
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Méta-analyse sur l'IA générative et la pensée d'ordre supérieur
-- [[avraamidou-ai-colonization-science-education]] — Perturber la colonisation par l'IA de l'enseignement des sciences
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[probing-ai-generated-physics-solutions-2026]] — Preparing students to critique AI-generated physics solutions
-- [[student-reception-genai-analogies-computing-2026]] — Imparfaites mais mémorables : la réception critique par les étudiants d'analogies d'IA générative personnalisées selon leurs intérêts en enseignement de l'informatique
-- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser un apprentissage durable par l'intelligence incarnée (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Le recours excessif à l'IA modélisé comme un système adaptatif complexe
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — teaching fallacy recognition through structured multi-turn dialogue
-- [[caeai-ai-companions-learning-over-performance-2026]] — l'apprentissage plutôt que la performance : ce pour quoi les compagnons devraient être optimisés et mesurés
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Étayage par l'IA, décharge cognitive et littératie de la vérification par l'autorégulation métacognitive (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — La dépendance à l'IA générative borne le lien entre usage et pensée critique chez les étudiants en gestion (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Une invite de réflexion réduit l'acceptation de conseils erronés de l'IA et le biais d'attribution (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — La rotation des rôles comme structure d'une interaction critique humain-IA (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Une intégration de l'IA générative centrée sur la vérification dans l'enseignement universitaire de la chimie (Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — une rétroaction ChatGPT sélectionnée par l'enseignant a élevé la pensée critique par une révision d'ordre supérieur (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — un semestre d'accès à l'IA a laissé la pensée critique inchangée ; l'usage réflexif la prédisait (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — La dépendance à l'IA générative positivement associée à la pensée critique chez 1,157 étudiants de cycles supérieurs
-- [[genai-use-critical-thinking-moderation-2026]] — L'usage de l'IA générative vers la pensée critique par la littératie de la rétroaction, avec un chemin direct seulement pour les étudiants moins réflexifs
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — La lecture pessimiste des données de modération : perte de friction, biais d'automatisation, cadrage d'efficience
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Revue narrative de 108 documents : le signe de l'effet suit les connaissances antérieures et le moment de la tâche (cadre AMCIF)

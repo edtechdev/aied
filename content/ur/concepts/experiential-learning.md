@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -91,34 +93,3 @@ AI کی معاونت والی [[design-education|ڈیزائن تعلیم]] می�
 **پروگرام ڈیزائنرز کے لیے**
 
 - جانچیں کہ اطلاقی پروگراموں میں لیب کے متبادل کے بجائے اطلاقی کام موجود ہو؛ منتقلی کا دعویٰ سامنے آنے کی اصلیت پر کھڑا ہے۔
-
-## منسلک تصورات
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — چھتری: تعلیم میں AI کی تدریسی حکمتِ عملیاں اور طریقے
-- [[virtual-and-augmented-reality]] — عمیق مشق بطور دانستہ تجربہ
-- [[reflection]]
-
-## منسلک مضامین
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI کے دور میں اسمارٹ مینوفیکچرنگ کے لیے ورک فورس ریڈی نیس لیول فریم ورک
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — جسمانی ذہانت کے ذریعے پائیدار سیکھنے کی افزائش (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — سائبر سیکیورٹی تعلیم میں GenAI
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — تعلیم میں روبوٹکس اور AI
-- [[ai-lms-middle-school-longitudinal]] — AI سے منسلک LMS کا طولانی مطالعہ
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — برادری کے میدانی کام کا متبادل بننے والے AI پرسونا، اور پانچ اشاروں والی ربریک کہ متبادل کہاں ناکام ہوتا ہے (Elhajj وغیرہ 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — موضوعاتی جائزہ جو AI کی معاونت والی ڈیزائن تعلیم میں جسمانی عملی کو علمی عملی سے الگ کرتا ہے (Yu، Liu اور Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — ایک اسٹریٹجک مینجمنٹ کورس جو تین جنریٹیو AI طریقوں کے گرد نئے سرے سے ترتیب دیا گیا
-- [[gelli-experiential-language-learning-2026]] — GELLI: تجرباتی زبان سیکھنے کے تعاملات کے لیے ایک جنریٹر (Symonette وغیرہ 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — فلیپڈ طبیعیات سیکھنے کے لیے AI کی معاونت والی مجازی لیبارٹری: درمیانی اسکول کے طلبہ کی کامیابی، محرک اور علمی بوجھ پر اثرات
-- [[yusuf-service-learning-mapping-2026]] — 26 مطالعات سروس لرننگ چکر پر: AI جائزے اور عکاسی میں پتلا ہو جاتا ہے (Yusuf وغیرہ 2026)
-- [[metacognitive-awareness-experiential-vs-instructional]] — AI کی معاونت والی سیکھنے میں میٹا کوگنیشن آگاہی کے لیے تجرباتی بمقابلہ تدریسی سیشنز (Benazet i Montobbio وغیرہ 2026)

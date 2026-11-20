@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,38 +89,3 @@ ai_assist:
 - **"प्रॉक्टरिंग साहित्य प्रॉक्टरिंग की नैतिकता स्थापित करता है।"** **80 अध्ययनों** की समीक्षा में पाया गया कि **35% ने अपना डेटासेट प्रकट नहीं किया, 40% ने एक ही मॉडल का मूल्यांकन किया, 30% पुनरुत्पादित नहीं हो सके और केवल 25%** रिपोर्टिंग मानक पर खरे उतरे। प्रमाण-आधार ठीक उन प्रश्नों पर पतला है जिनके उत्तर किसी संस्था को तैनाती से पहले चाहिए होते हैं।
 - **"निजता अनुपालन का चेकबॉक्स है, अभिकल्प की बाध्यता नहीं।"** लगभग हर एआई उपकरण जो वैयक्तिकृत करता है, पूर्वानुमान लगाता है या मूल्यांकन करता है, शिक्षार्थी डेटा पर निर्भर है, जो डेटा न्यूनतमकरण को एक अभिकल्प-निर्णय बना देता है। जिस उपकरण को वह डेटा चाहिए, उसमें वैकल्पिक निजता सेटिंग नहीं होती; उसमें एक डेटा-निर्भरता होती है जिसे अभिकल्प ने चुना है।
 - **डेटा प्रथाओं के बारे में जागरूकता उन्हें देख लेने से नहीं आती।** [[bergdahl-student-epistemic-agency-ai-2026|बर्गडाहल (2026)]] ने पाया कि **47 सातवीं-कक्षा (year 7) के विद्यार्थियों में 66%** ने अपना लेखन पढ़ने वाले [[conversational-ai|चैटबॉट]] पर सबसे कम सुरक्षात्मक विकल्प चुना, और **47%** ने एल्गोरिदमिक प्रभाव को "मजेदार भर" कहकर खारिज किया, जो **एक महीने बाद** मापा गया, उस पाठ के बाद जिसमें कक्षा ने अपना ही लॉग किया व्यवहार लाइव प्रक्षेपित देखा, प्रतिक्रिया दी कि यह "डरावना" है, और कई विद्यार्थी मध्यांतर तक उसी मंच का उपयोग करते रहे। जो निजता शिक्षा तंत्र को दृश्यमान बनाती है पर लागत को मूर्त नहीं करती, वह रुख अपरिवर्तित छोड़ देती है। लेखक नोट करते हैं कि यहाँ कम स्कोर **उच्च स्कोरों से अधिक विश्वसनीय** हो सकते हैं, क्योंकि इन वस्तुओं के लिए कोई सामाजिक रूप से अपेक्षित उत्तर मौजूद नहीं है, जबकि जवाबदेही और शासन सही-सुनने वाले उत्तर को न्योता देते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — छात्र अभिलेख, कार्यालयों के बीच डेटा साझाकरण, और संघबद्ध जोखिम मॉडलन
-
-## संबंधित लेख
-
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — संघबद्ध और व्याख्यायोग्य शिक्षण विश्लेषण, निजता-संरक्षणकारी शैक्षणिक जोखिम मॉडलन के लिए (विलेगास-च एवं सहयोगी 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — शिक्षण विश्लेषण से शैक्षणिक हस्तक्षेप तक: विश्वसनीय एलए-आधारित हस्तक्षेपों के सक्षमक (स्वेटेक, दिवजाक और कादोइच 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — एजेंटिक साक्षरता ऋण: स्वायत्त एजेंटों से उत्पन्न संरचनात्मक एआई-साक्षरता अंतराल (नामा 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — टीचएलएम: प्रामाणिक शिक्षण डेटा के लिए गुमनामीकरण और सहमति
-- [[bassett-ai-detectors-education-2026]] — हम जीतते हैं, आप हारते: शिक्षा में एआई पहचान-उपकरण (बैसेट एवं सहयोगी 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — निजता-संरक्षणकारी संघबद्ध एलएलएम संज्ञानात्मक निदान
-- [[agarwal-ethical-values-norms-aied-2026]] — शिक्षा में एआई के लिए नैतिक मूल्य और मानदंड
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — प्रॉक्टरिंग प्रणालियाँ क्या रिकॉर्ड करती हैं, और प्रमाण-आधार में निजता साहित्य का अभाव
-- [[edtech-privacy-deferral-2026]] — "हम इसे बाद में ठीक करेंगे": शिक्षा, एआई और एडटेक में छात्र निजता का टालना
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: AI चैट मंचों में संदर्भ-रिसाव (Bekos एट अल. 2026)

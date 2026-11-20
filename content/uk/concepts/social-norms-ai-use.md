@@ -28,6 +28,8 @@ ai_assist:
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -112,37 +114,3 @@ translation_note: "Автоматичний переклад цієї англі
 **«Спостереження врегулювало б норму, зробивши використання видимим».** Видимість поведінки не розв’язує, якою має бути норма; вона змінює те, що люди готові розкрити. Виміряний патерн — уже вибіркове розкриття, тож режим моніторингу, застосований до нього, вимірює приховування, а не поведінку.
 
 **«Норми неформальні, тож вони поза інституційним впливом».** Вони локально підкріплюються й локально змінювані, що робить їх більш піддатливими, ніж політика: явна практика команди курсу є важелем саме тому, що там встановлюється чинне правило.
-
-## Пов’язані поняття
-
-- [[academic-integrity]] — формальний правильник, поруч із яким виростають ці норми
-- [[ai-use-disclosure]] — практика, яку норми регулюють найбезпосередніше
-- [[framing-ai-use-for-students]] — як аудиторія формулює свої очікування
-- [[reducing-ai-misuse]] — навчальний аналог встановлення норм
-- [[learner-identity]] — ким вважають здобувача, коли використання ШІ стає видимим
-- [[ai-detection]] — технічна відповідь, яка здебільшого зазнає невдачі
-- [[remote-proctoring]] — спостереження як спроба замінити норми
-- [[trust]] — те, від чого залежать і норми, і розкриття
-- [[equity-in-ai-education]] — хто несе соціальні витрати
-- [[help-seeking]] — поведінка, яку сором придушує першою
-- [[group-work]] — місце, де групові норми обговорюються
-- [[student-experience]] — живий бік усього цього
-- [[anxiety-and-stress]] — афективний залишок
-- [[governance]] — формальний шар, під яким лежать ці норми
-- [[ethics]] — література, якій найменше що сказати студентам
-
-## Пов’язані статті
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 undergraduates: perceived peer disclosure and instructor comfort predicted disclosure ahead of moral disengagement (Qu & Wang 2026)

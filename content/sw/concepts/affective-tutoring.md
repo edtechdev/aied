@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -109,24 +111,3 @@ Ufadhili wa kihisia unakutana na [[hazra-safetutors-pedagogical-safety-2026|Safe
 
 - Ripoti msingi ambao kiwango chako cha kushinda kinapimwa dhidi yake, na taja wazi kwamba ni hukumu ya kulinganisha. Kisha pima kile ambacho nyanja inahitaji kweli: uhamisho kwenda miktadha isiyokufaa, uhifadhi baada ya mwalimu kuondolewa, na kama faida hudumu wakati njia ya kihisia imezimwa.
 - Thibitisha wasifu wa hisia dhidi ya hukumu ya mtaalamu kabla ya kuvitumia kama viambajengo huru.
-
-## Dhana Zilizounganishwa
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Makala Zilizounganishwa
-- [[shastry-gray-empathy-offloading-2026]] — Watu huachia huruma wanapodhani AI inaweza kuipa badala yao (Shastry & Gray 2026)
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]

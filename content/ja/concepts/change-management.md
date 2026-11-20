@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -80,36 +82,3 @@ AI教育における変革のマネジメントは、肯定的な示唆と否定
 - **「戦略的な意図が能力を生む」** **49%の機関**が AI を戦略的な優先事項と見なしているにもかかわらず、シニアの AI リーダーシップ職を設けた機関は**わずか7%**です。隔たりは宣言と構造の間にあり、それが AI 変革のマネジメントで繰り返される失敗です。
 - **「AI ツールの採用は出来事である」** **持続可能性は道具ではなく組織の属性です。** カリフォルニア州立大学ノースリッジ校における非生成的 AI のテキストメッセージング型チャットボットの4年にわたる無作為化評価が、その時間尺度を示しています。評価が4年続いたのは、耐久性こそが検証を要するものだったからです。
 - **「機関は先見するのではなく、より速く反応する必要がある」** **先見的なリーダーシップ**は補完的な系譜です。[[baroudi-anticipatory-governance-ai-higher-ed-2026|範囲設定の概観]]は、機関が**反応的**な統治から**先見**に基づく統治へ移行しなければならないことを見出しています。すでに到来した技術に有能に反応することこそ、エビデンスが失敗として記録していることです。
-
-## 関連概念
-
-- [[governance]] — 変革のマネジメントが具体化する政策と監視の構造
-- [[educational-policy-ai]] — 変革のマネジメントが実践に翻訳しなければならない国家的・制度的なAI政策の意図
-- [[educational-development]] — AIの統合に向けた教員の能力と教育学的な志向性の涵養
-- [[administrator]] — 変革の担い手としてのリーダーシップと先見的な統治
-- [[ai-literacy]] — 責任ある制度的な採用を支える部門横断的な能力
-- [[equity-in-ai-education]] — 変革の利益が機関と学習者にわたって均等に及ぶことを保つこと
-- [[technology-acceptance-model]] — 変革がどう拡がるかを説明する採用の推進要因
-- [[academic-integrity]] — 評価の改革がその周りに編成される中心的な規制的な拠り所
-- [[student-support-and-success]] — 支援プログラムを試行段階を超えて持続させること
-
-## 関連記事
-
-- [[ding-genai-colleague-teacher-depletion-2026]] — デザイン系教員436名：GAIの利用は自己効力感とAI不安の両方を高め、どちらの経路が優勢になるかを組織的支援が決める（Ding et al., 2026）
-- [[mata-sustaining-ai-enabled-student-support-2026]] — AI支援の学生支援の持続。制度的なチャットボットの4年にわたる実施と影響の研究（Mata, Russell & Page 2026）
-
-- [[institutional-change-framework-ai]] — 到来した技術としてのAIに制度的な変革の模型を適合させるための六次元の枠組み
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARKの枠組みと変革的な変化のための複雑性のリーダーシップ
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 八つの領域にわたるGenAIガバナンスに関するグローバルなDelphiの合意
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — 先見的な統治とリーダーシップの範囲設定の概観
-- [[ai-adaptation-gap-higher-education-2026]] — 学生、教員、スタッフにわたるAI利用、態度、信頼における利害関係者の格差
-- [[ai-uk-higher-education-policy-2026]] — 英国高等教育における国家的な政策の意図と制度的な能力
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — AI採用の組織的・技術的な推進要因
-- [[adarkwah-genai-unesco-policy-2026]] — 制度的なGenAI政策のUNESCO枠組みの分析
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — GenAIの時代におけるリベラルアーツ大学から研究集約型模型へのデジタル変革（Qin 2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 基盤の希薄性の下で制度的なAI戦略を地に足のついた実践に翻訳するデジタルな媒介者
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? 生成的AIの時代の情報科学の評価に関するオンラインワークショップからの報告
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 実施と教員の行動がAI製品が役立つかどうかを決めることに関するシステム横断的なフィールドワーク
-- [[dot-framework-survey-2026]] — 専門的な発展は道具の使い方だけではなく完全な設計周期をカバーしなければならないことを示す調査の証拠
-- [[flipped-classroom-ai-assessment-math-2026]] — 学部レベルの数学における個人の主導から中央の資金提供への10年にわたる拡散の軌跡（Law 2026）
-- [[packard-thinking-partner-framework-adult-learners-2026]] — AIを統合したコースごとに、継続的な調整の前に15〜20時間の再設計を見込むこと

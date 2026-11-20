@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -165,45 +167,3 @@ Una consigna inicial que sobrevive a la mayoría de los modos de fallo anteriore
 - **«La [[automated-assessment|evaluación automatizada]] resuelve el problema de escala.»** Los clasificadores alcanzan alrededor del 70% en el nivel de reflexión en un conjunto de ensayos bien anotado con un desequilibrio de clases severo, y ese techo está al alcance de un texto plausible.
 - **«Los portafolios son reflexivos por naturaleza.»** El contenedor no es el acto; un portafolio ensamblado con productos pulidos puede no contener reflexión alguna.
 - **«La reflexión no necesita enseñarse.»** Tanto el conjunto de ensayos húngaro como el experimento con docentes en formación presuponen que el nivel y la calidad se aprenden, y que la preparación cambia los resultados.
-
-## Conceptos conectados
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Artículos conectados
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Experimento preregistrado con 302 adultos: las consignas de reflexión duplicaron el tiempo en la retroalimentación y redujeron el volumen de práctica un 40% sin elevar la ganancia por problema (Asher, Gold y Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Modelo de reflexión de cinco partes consciente de la IA generativa, construido sobre consignas e iteraciones documentadas y no sobre el texto final (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1.954 ensayos anotados, desequilibrio de clases severo, modelos superficiales al 71% y transformadores al 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17.930 turnos codificados para explicar por qué un socio de reflexión con IA dejó a los usuarios menos comprometidos (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflexión propia, colaborativa y comunitaria con la IA como mediadora cognitiva (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 docentes de K–12: el tiempo es el obstáculo de los novatos y el seguimiento del rendimiento el de los expertos (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Cuatro prácticas con IA generativa y once procesos, cada uno capaz de apoyar o reemplazar el pensamiento reflexivo (Dalsgaard y Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Experimento de campo aleatorizado 2×2 sobre sostener una rutina de diario reflexivo (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Prueba 2×2 del entrenamiento en estrategias frente a un socio de reflexión socrático con LLM (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Herramienta de autorreflexión no diagnóstica y sin puntuación compuesta (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — El uso reflexivo de la IA como constructo medido que vincula la aceptación con la autoeficacia y la implicación (Wang y Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — La reflexión estructurada como entrada viva que recalibra el siguiente ciclo de retroalimentación (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Reflexión guiada dentro de la autoevaluación para un uso ético de la IA generativa (Pedlow y Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 docentes sobre reconocer, redistribuir y reimplicarse reflexivamente tras el uso de IA (Ho y Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Artículo de posición: no hay evidencia de que las consignas de reflexión construyan un automonitoreo duradero (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — E-portafolios de 16 semanas en WordPress con IA generativa como proveedora de retroalimentación y sintetizadora (Ni y Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT alineado con la evaluación por e-portafolio, λ de Wilks = 0,476, η² parcial = 0,524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Un andamiaje elevó la profundidad analítica y evaluativa mientras la planificación de la acción quedó plana (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Mapeo de 26 estudios: la reflexión es la fase menos atendida del ciclo del aprendizaje-servicio (Yusuf et al. 2026)

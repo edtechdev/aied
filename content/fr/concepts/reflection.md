@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -96,7 +98,6 @@ La leçon de mesure est plus étroite qu'il n'y paraît. Un classifieur estime �
 
 Le même étayage de tableau de bord a accru la profondeur analytique et évaluative de l'écriture réflexive (η² = 0.623 et 0.627) tout en laissant la description et la planification de l'action inchangées, si bien qu'un étayage peut approfondir la manière dont un enseignant raisonne sur une leçon sans changer ce qu'il prévoit de faire ensuite ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
 
-
 ## Journaux, portfolios et prompts comme dispositifs de mise en œuvre
 
 Le construit est généralement délivré par trois véhicules, et chacun a son propre mode de défaillance.
@@ -116,7 +117,6 @@ Pour les enseignants, le construit fait double emploi avec le [[educational-deve
 La préparation importe aussi indépendamment de l'outil. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] ont croisé une formation aux stratégies métacognitives avec un module placebo et un LLM configuré comme partenaire de réflexion [[socratic-method|socratique]] par rapport à des outils numériques traditionnels, dans un plan 2 × 2 avec 60 enseignants en formation initiale. Les deux effets principaux étaient significatifs pour la qualité de la réflexion écrite au post-test.
 
 Dans une cartographie de 26 études sur l'IA dans l'apprentissage par le service, la réflexion était la phase la moins servie — trois études l'atteignaient et une seule couvrait les quatre — si bien que la phase qui transforme le service en apprentissage est celle où le soutien de l'IA est le plus ténu ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
-
 
 ## Le risque qu'un prompt de réflexion remplace la surveillance qu'il est censé construire
 
@@ -167,47 +167,3 @@ Un prompt de départ qui survit à la plupart des modes de défaillance ci-dessu
 - **« La [[automated-assessment|notation automatisée]] résout le problème d'échelle. »** Les classifieurs atteignent environ 70 % sur le niveau de réflexion dans un ensemble d'essais bien annoté avec un grave déséquilibre de classes, et ce plafond est à portée d'un texte plausible.
 - **« Les portfolios sont réflexifs par nature. »** Le contenant n'est pas l'acte ; un portfolio assemblé à partir de produits polis peut ne contenir aucune réflexion.
 - **« La réflexion n'a pas besoin d'enseignement. »** L'ensemble d'essais hongrois et l'expérience des enseignants en formation initiale présupposent tous deux que le niveau et la qualité s'apprennent, et que la préparation change les résultats.
-
-## Concepts liés
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Articles liés
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Expérience préenregistrée sur 302 adultes : les prompts de réflexion ont doublé le temps passé sur le retour d'information et réduit le volume de pratique de 40 % sans augmenter le gain par problème (Asher, Gold et Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Modèle de réflexion en cinq parties prenant en compte la GenAI, fondé sur des prompts et des itérations documentés plutôt que sur le texte final (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 essais annotés, grave déséquilibre de classes, modèles peu profonds à 71 % et transformateurs à 68 % (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 tours de dialogue codés pour expliquer pourquoi un partenaire de réflexion IA a laissé les utilisateurs moins engagés (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Réflexion individuelle, collaborative et communautaire avec l'IA comme médiateur cognitif (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 enseignants de la maternelle au secondaire : le temps est l'obstacle du novice, le suivi de la performance celui de l'expert (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Quatre pratiques de GenAI et onze processus, chacun capable de soutenir ou de remplacer la pensée réflexive (Dalsgaard et Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Expérience de terrain randomisée 2×2 sur le maintien d'une routine de journalisation réflexive (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Test 2×2 de la formation aux stratégies contre un partenaire de réflexion LLM socratique (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Outil de réflexion non diagnostique sans score composite (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — L'utilisation réflexive de l'IA comme construit mesuré reliant l'acceptation au sentiment d'efficacité personnelle et à l'engagement (Wang et Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — La réflexion structurée comme entrée vivante qui recalibre le cycle de retour d'information suivant (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Réflexion guidée au sein de l'auto-évaluation pour une utilisation éthique de la GenAI (Pedlow et Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 enseignants sur la reconnaissance, la redistribution et le réengagement réflexif après l'utilisation de l'IA (Ho et Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Article de position : aucune preuve que les prompts de réflexion construisent une auto-surveillance durable (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Portfolios WordPress de 16 semaines avec la GenAI comme fournisseur de retour d'information et synthétiseur (Ni et Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligné sur l'évaluation par portfolio électronique, λ de Wilks = 0.476, η² partiel = 0.524 (Sutama 2026)
-
-- [[liu-teaching-analytics-dashboard-2026]] — Un étayage qui a accru la profondeur analytique et évaluative tandis que la planification de l'action restait inchangée (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Cartographie de 26 études : la réflexion est la phase la moins servie du cycle de l'apprentissage par le service communautaire (Yusuf et al. 2026)
-

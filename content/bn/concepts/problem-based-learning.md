@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -77,41 +79,3 @@ PBL [[project-based-learning|প্রকল্প-ভিত্তিক শি�
 - **"PBL-এর ফলাফল প্রকল্প-ভিত্তিক শিখনের ফলাফলের সঙ্গে একসঙ্গে পুল করা উচিত।"** তিন-স্তরের মেটা-বিশ্লেষণ **পণ্য ও সমাধান-কর্মদক্ষতাকে আলাদা মডেলে** রাখে ঠিক কারণ এটি মানব-এআই সহযোগিতা মাপে, শিক্ষার্থীর নিজের যুক্তি নয়। এগুলো মিলিয়ে দিলে একটি যৌথভাবে উৎপন্ন নিদর্শনকে শিক্ষার্থীর নামে আরোপ করা হবে।
 - **"সহযোগিতামূলক লাভ এআই ব্যবহারের পার্শ্ব-প্রভাব।"** একটি গবেষণায় পাওয়া যায় উচ্চতর অনুভূত সহযোগিতামূলক সমস্যা-সমাধান (**M = 3.62 বনাম 3.05, d = 0.88**) ও ভাগ করা সমস্যা-সমাধান (**3.40, d = 1.02**), এবং **সর্বাধিক মিথস্ক্রিয়া-প্রভাব ভাগ করা জ্ঞান-নির্মাণ ও সামাজিক নিয়ন্ত্রণে** — নকশা যা পূর্বানুমান করে সেই সহযোগিতামূলক প্রক্রিয়া-মাত্রা। প্রক্রিয়াটি কাঠামোবদ্ধ সহযোগিতা, সরঞ্জাম নয়।
 - **"এআই-সহ PBL মূলত সুবিধাদাতার সময় বাঁচায়।"** পরিমাপযোগ্য লাভ নিহিত প্রক্রিয়ার গুণমানে, এমন মাত্রায় যা কেবল তখনই বিদ্যমান যখন দলের গঠন সেগুলোর জন্য নকশা করা হয়। যে PBL প্রয়োগ ভাগ করা জ্ঞান-নির্মাণ কাঠামোবদ্ধ না করে এআই যোগ করে, তার একই প্রভাব প্রত্যাশা করা উচিত নয়।
-
-## সংযুক্ত ধারণা
-
-- [[project-based-learning]]
-- [[case-based-learning]] — প্রস্তুত কেস ও কেস-আলোচনা, PBL-এর খোলা অনুসন্ধান থেকে আলাদা
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — উৎপাদনশীল ব্যর্থতা
-
-## সংযুক্ত নিবন্ধ
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — জেনারেটিভ এআই-সমর্থিত শিক্ষার প্রতিশ্রুতিশীল কাঠামো হিসেবে সমস্যা-ভিত্তিক ও প্রকল্প-ভিত্তিক শিখন: পদ্ধতিগত পর্যালোচনা ও তিন-স্তরের মেটা-বিশ্লেষণ থেকে উদীয়মান প্রমাণ
-
-- [[pbl-structural-conditions-ai-2026]] — PBL ও উৎপাদনশীল এআই-সংযোজনের গঠনগত শর্ত (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — PBL-এ শিক্ষকদের এআই-সম্পৃক্ততার পদ্ধতিগত পর্যালোচনা (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — চিকিৎসা PBL টিউটোরিয়ালের জন্য জেনএআই ভার্চুয়াল রোগী (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — PBL-এ দায়িত্বশীল জেনএআই-এর LEARN কাঠামো (Uden ও Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — এআই-সমৃদ্ধ PBL-এ অভিযোজিত স্ক্যাফোল্ডিং হিসেবে ChatGPT (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — জেনএআই-যুগে বায়োমেডিক্যাল প্রকৌশলে PBL (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — কম্পিউটেশনাল চিন্তার জন্য এআই-সমর্থিত PBL
-- [[genai-counter-learner-groupthink-2025]] — আন্তঃপেশাগত PBL-এ জেনএআই এজেন্ট দলগত একরূপতার প্রতিরোধ করে
-- [[dai-chatbots-problem-posing-primary-2026]] — প্রাথমিক বিজ্ঞানে জেনএআই চ্যাটবট ও সমস্যা-উত্থাপন
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM-এ অনুসন্ধান-ভিত্তিক শিখনের জন্য ChatGPT
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শিখন সমর্থনে এআই ব্যবস্থার নকশা
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য এলএলএম-এর শিক্ষাবিজ্ঞানগত চালনা
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF সমস্যা-নকশায় সহায়তায় এআই
-- [[genai-scenario-based-healthcare-education-2026]] — দৃশ্যপট-ভিত্তিক স্বাস্থ্যসেবা শিক্ষায় জেনএআই-এর পদ্ধতিগত পর্যালোচনা (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 130 জন পূর্ব-সেবা পদার্থবিজ্ঞান শিক্ষক নিয়ে এআই-সমর্থিত CTD-PBL মডিউল: TPACK ও সহযোগিতামূলক সমস্যা-সমাধান (Chen ও Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — ফার্মাকোলজি শিক্ষায় সুবিধাদাতা-মধ্যস্থ বনাম এআই-মধ্যস্থ সমস্যা-ভিত্তিক শিখন: দ্বিতীয় বর্ষের চিকিৎসা শিক্ষার্থীদের মধ্যে একটি আধা-পরীক্ষামূলক গবেষণা

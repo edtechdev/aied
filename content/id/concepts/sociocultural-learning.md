@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -76,32 +78,3 @@ Untaian sosiokultural terkait erat dengan Teori [[cognitive-offloading|Beban Kog
 **"Menambahkan alat pada sebuah kelompok hanya mengubah efisiensi kelompok itu."** Itu mengubah pembagian kerja, yang merupakan unit analisis teori ini. Kelompok yang mengarahkan sebagian besar pertanyaannya ke agen telah mendistribusikan ulang kerja kognitif bahkan ketika keluarannya tidak berubah.
 
 **"Kognisi terdistribusi menyiratkan individu tidak penting."** Itu menyiratkan kontribusi individu tidak dapat dibaca dari kinerja individual semata; unit analisisnya adalah sistem aktivitas, bukan orang yang terisolasi.
-
-## Konsep terkait
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Artikel terkait
-- [[youth-enter-chat-llm-student-talk-2026]] — Ketika Anak Muda Masuk ke Percakapan: validasi ukuran tutur siswa berbasis LLM
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI generatif sebagai agen mediasi
-- [[golrang-propact-pair-programming-2026]] — Tutor AI kolaboratif
-- [[finkelstein-principled-ai-education-2025]] — Kerangka pendidikan AI berprinsip
-- [[stanford-evidence-base-ai-k12-2026]] — Basis bukti Stanford untuk AI di K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Tinjauan cepat Sydney tentang GenAI di PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI sebagai mitra kognitif dan ko-regulasi
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Petunjuk yang ditulis LLM menyamai petunjuk tutor manusia pada keuntungan belajar matematika (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Menarik bantuan berdasarkan sasaran giliran siswa, bukan berdasarkan kedalaman balasan

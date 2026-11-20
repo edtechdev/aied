@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -97,36 +99,3 @@ Siswa juga dibingkai oleh media dan wacana publik yang lebih luas tentang [[ai-e
 **"Melarang sebuah alat menghapus perilakunya."** Itu memindahkannya ke alat yang tidak dapat Anda lihat. Siswa sudah lebih memilih alat yang diakses secara pribadi daripada yang disediakan institusi, sehingga larangan mendorong penggunaan keluar dari satu-satunya lingkungan tempat dukungan, pencatatan, atau panduan mungkin dilakukan. Tugas pembingkaian adalah membuat perilaku yang diizinkan menjadi yang menarik, bukan membuat perilaku yang dilarang lebih sulit diamati.
 
 **"Pembingkaian adalah persuasi, jadi ia lebih retorika daripada desain."** Pembingkaian yang digambarkan halaman ini dipasangkan dengan desain: ekspektasi dinyatakan secara jelas dan berulang *sambil merancang dengan berorientasi pada siswa*. Pesan yang disampaikan alih-alih dirancang untuk siswa adalah versi yang gagal, karena siswa membaca perbedaan antara komitmen yang dinyatakan dan yang benar-benar dijalankan.
-
-## Konsep terkait
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Artikel terkait
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar tentang urutannya: peroleh tanpa GenAI, konsolidasikan dengannya, lalu berpikir sendiri
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — rasional transparan untuk setiap penggunaan GenAI yang diizinkan dan tidak diizinkan, tugas demi tugas (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — mendorong penggunaan GenAI yang tepat alih-alih mengecamnya sebagai gangguan
-- [[student-rationalization-ai-writing]] — "lima situs" tempat siswa merasionalisasi penggunaan AI dalam penulisan akademik
-- [[student-regulatory-awareness-genai]] — mengetahui aturan tidak cukup: kesadaran regulasi dan penggunaan yang sebenarnya
-- [[ai-anxiety-strategic-regulation-writing-2026]] — dari kecemasan AI ke regulasi strategis
-- [[chatgpt-inoculation-training-verification-2026]] — pesan inokulasi dan perilaku verifikasi
-- [[ai-fallibility-warning-help-seeking]] — peringatan tentang kerentanan AI meningkatkan pencarian bantuan
-- [[shame-guilt-ai-regulation-computing-education]] — rasa malu dan rasa bersalah sebagai pengatur sosial penggunaan AI
-- [[access-not-enough-ai-tutoring-2026]] — dukungan manusia memperbaiki keterlibatan dengan tutoring AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — keterlibatan dengan GenAI berbasis SDT
-- [[ai-availability-student-motivation]] — bagaimana ketersediaan AI membentuk motivasi siswa
-- [[youtube-frames-chatgpt-education]] — bagaimana YouTube membingkai penggunaan ChatGPT dalam pendidikan
-- [[ai-ethics-education-public-discourse]] — wacana publik tentang etika AI dalam pendidikan
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — instruktur membingkai AI sebagai penggunaan kritis/bertanggung jawab; pemberi kerja membingkainya sebagai produktivitas
-- [[ssaho-ai-academic-integrity-review-2025]] — membangun budaya integritas akademik melalui ekspektasi yang jelas

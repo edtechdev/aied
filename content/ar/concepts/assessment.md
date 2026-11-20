@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -104,55 +106,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«النزاهة مسألة كشف بالأساس.»** تكشف **مقابلات الرجوع إلى الخلف مع 26 طالبًا** أن الطلاب يحكمون طريقهم في التقويم بالذكاء الاصطناعي التوليدي عبر **طيف**، وعبر **157 طالبًا** تنبّأ *كيف* يُستخدم GenAI — **التكامل التقويمي لدعم الفهم مقابل** الاستبدال — بالنتيجة. فنمط الاستخدام يفصل بين الطلاب أحدّ من مجرد وجود الاستخدام.
 - **«المتحدثون غير الأصليين بالإنجليزية هم خطر الغش.»** تُضيف **مراجعة PRISMA لـ25 دراسة** عامل خطرٍ يُغفله جدل الكشف: فقد أظهر المتحدثون غير الأصليين **ميلًا عاليًا إلى إخلال النزاهة عند معاناتهم** في المطلب اللغوي. فتلك مسألة دعم لغوي تُقرأ خطأً مسألة صدق.
 - **«سياسة تحرّم GenAI تحسم المسألة.»** يُبلّغ الطلاب عن طيف من الأحكام لا نمط اتباع قاعدة، لذا فالقاعدة التي لا تخاطب الاستدلال التقويمي الذي يمارسه الطلاب بالفعل لن تُتبع باتساق.
-
-## المفاهيم المرتبطة
-- [[learners]] — المتعلّمون: المظلّة لمفاهيم جانب المتعلّم
-- [[pedagogical-partnerships]] — الشراكات البيداغوجية
-- [[formative-assessment]] — التقويم التكويني: بنود مُولَّدة ومُصادَق عليها وتكيفية على نطاق واسع
-- [[automated-assessment]] — التصحيح الآلي والتقييم عبر أنماط التقويم
-- [[authentic-assessment]] — مهام أصيلة قائمة على العملية ومقاومة للذكاء الاصطناعي
-- [[assessment-validity]] — صدق التقويمات تحت الذكاء الاصطناعي التوليدي
-- [[educational-measurement]] — نظرية القياس المُؤسِسة لتقويم الذكاء الاصطناعي
-- [[automated-essay-scoring]] — تقويم المقالات الآلي
-- [[automated-question-generation]] — توليد الأسئلة الآلي
-- [[oral-assessment]] — التقويم الشفهي: أنماط حية ومسجّلة تقاوم الاستبدال بالذكاء الاصطناعي
-- [[summative-assessment]] — التقويم الختامي: أنماط مقاومة للذكاء الاصطناعي (شفهي، تحت مراقبة، امتحانات كتاب مغلق)
-- [[item-response-theory]] — نظرية الاستجابة للمفردات لتفسير استجابات التقويم في عصر الذكاء الاصطناعي
-- [[psychometrically-aware-ai]] — تقييم الذكاء الاصطناعي الواعي قياسياً نفسياً
-- [[learning-analytics]] — التحليلات التي تربط بيانات التقويم بالتعلّم
-- [[feedback]] — حلقات التغذية الراجعة التي تُغلق دورة التقويم-إلى-التعلّم
-- [[feedback-literacy]] — ثقافة التغذية الراجعة لدى المتعلّم
-- [[academic-integrity]] — النزاهة والجدل حول كشف الذكاء الاصطناعي
-- [[ai-detection]] — كشف النصوص المُنتَجة بالذكاء الاصطناعي
-- [[ai-ed-evaluation]] — المناهج والمعايير لتقييم المُقيّمين الآليين
-- [[eportfolio]] — تقويم المحفظة الإلكترونية القائم على العملية
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## المقالات المرتبطة
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — برنامج دام سنة يُعرّف ثقافة التقويم متعدد الوسائط ويقيس ما تحرّك وما لم يتحرك
-- [[ai-agents-joyful-assessment-third-space-2026]] — وكلاء الذكاء الاصطناعي والتقويم المبهج والفضاء الثالث
-- [[mccorkle-aligned-genai-course-policy-2025]] — أذونات الذكاء الاصطناعي على مستوى المهمة مستنبطة مما يُقوَّم (ماكوركل 2025)
-- [[usher-faraon-who-grades-best-2026]] — مقارنة تصحيح ChatGPT والأقران والمدرّب عبر مستويات جودة المشروع (أوشر وفاراون 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — تقويم مسؤول في عصر الذكاء الاصطناعي
-- [[beyond-detection-authentic-assessment-ai-2025]] — ما بعد الكشف: تقويم أصيل
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — تشارك التأليف والنزاهة وصدق التقويم
-- [[koretsky-genai-stem-assessment-2026]] — إطار ثلاثي الرؤوس لإعادة مواءمة التقويم
-- [[rubrics-genai-process-based-assessment-2026]] — معايير سلم تقييم تُقيّم التفاعل لا المصنوع
-- [[competency-based-education-genai-production-2026]] — التعليم القائم على الكفاءات بعد الذكاء الاصطناعي التوليدي
-- [[genai-assessment-governance]] — حوكمة قائمة على الأدلة للذكاء الاصطناعي التوليدي في التقويم
-- [[ssaho-ai-academic-integrity-review-2025]] — مراجعة نزاهة الذكاء الاصطناعي: يجب أن يُزاوج الكشف بإعادة تصميم التقويم
-- [[bassett-ai-detectors-education-2026]] — نكسب رأساً ونخسر ذيولاً: كواشف الذكاء الاصطناعي في التعليم (باسيت وآخرون 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: تقويم قلق الطلاب المعزَّز بالنماذج اللغوية الكبيرة (2026)
-- [[graph-its-adaptive-algorithms-2026]] — التدريس الذكي القائم على الرسم البياني للمجالات الديناميكية (2026)
-- [[asynchronous-oral-assessment-2026]] — الامتحانات الشفهية غير المتزامنة في عصر الذكاء الاصطناعي (بنتلاند 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: تقويم التعلّم عبر التفاعل مع الذكاء الاصطناعي التوليدي (DRI + الخبرة المرئية)
-- [[walton-bearman-assessment-judgment-2025]] — الحكم في أعمال الطلاب مع الذكاء الاصطناعي التوليدي في مهام التقويم (26 طالباً، الرجوع إلى الخلف)
-- [[stamatoulis-genai-use-patterns-2026]] — أنماط استخدام الذكاء الاصطناعي التوليدي (التكامل التقويمي مقابل الاعتماد منخفض التحقق) والنتائج
-- [[luo-dawson-value-judgments-grading-2026]] — الأحكام القيمية في تصحيح العمل المُساعَد بالذكاء الاصطناعي التوليدي: الصدق والثقة والصدق والشفافية ذات الاتجاهين (لو وداوسون 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة البنود باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة الشجري
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — يستطيع الذكاء الاصطناعي أن يقوم بواجبك. والآن ماذا؟ تقرير من ورشة عمل عبر الإنترنت حول تقويم الحوسبة في عصر الذكاء الاصطناعي التوليدي

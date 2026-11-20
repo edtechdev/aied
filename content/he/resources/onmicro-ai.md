@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/onmicro-ai
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,8 +48,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 הדרגה החינמית מוגבלת ל-10,000 קרדיטי בינה מלאכותית ושלוש אפליקציות; אפליקציות בלתי-מוגבלות ומודלים מתקדמים מתחילים בדרגת Pro, ואינטגרציית LTI, כניסה-אחת (SSO) ואנליטיקה מתקדמת מופיעות בדרגת Enterprise, כך שהתכונות שהמוסד זקוק להן ביותר הן אלה הנושאות מחיר. המאגר ברישיון **AGPL-3.0** לפי קובץ ה-`LICENSE` שלו, מה שחשוב לכל מי שמתכוון לארח-עצמאית או לשנות אותו, וה-README שלו עדיין אומר LGPL מלפני השינוי הזה, כך שיש לקרוא את קובץ הרישיון ולא את ה-README. מוסדות צריכים גם לאשר את תנאי עיבוד הנתונים שלהם לפני ניתוב עבודת סטודנטים דרך שירות צד-שלישי מתארח.
-
-## מושגים מקושרים
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

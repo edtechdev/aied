@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,28 +89,3 @@ ai_assist:
 **"बेहतर प्रॉम्प्ट बेहतर नागरिक पाठ पैदा करेंगे।"** इंटरैक्टिव संस्करण ने न्यूनतम अंतर डाला, और तीनों चैटबॉट ने 53 मानकों में वही ढाँचा पैदा किया। प्रॉम्प्ट-गुणवत्ता ने विषय की बुनावट नहीं लौटाई।
 
 **"अभ्यास का मार्गदर्शन करने के लिए पर्याप्त साक्ष्य है।"** सावधानी को न्यायसंगत ठहराने के लिए पर्याप्त है। एक विषय-विश्लेषण, एक दस्तावेज़ी संश्लेषण, एक छोटा [[mixed-methods-research|मिश्रित-विधि अध्ययन]], और कई वैचारिक या नीति-लेख यह स्थापित नहीं करते कि क्या काम करता है।
-
-## संबंधित अवधारणाएँ
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — छत्र: AI प्रणालियों के बारे में शिक्षार्थियों को क्या जानना चाहिए
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — सामाजिक हानि के रूप में जनित ग़लत सूचना और अनुनय
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## संबंधित लेख
-
-- [[civic-education-ai-lesson-plans]] — 53 नागरिक-शिक्षा मानकों के लिए 310 AI-जनित पाठ-योजनाएँ: 90% निम्न-स्तरीय, 94% में कोई बहुसांस्कृतिक सामग्री नहीं (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — दक्षिण अफ़्रीका में एल्गोरिद्मिक सीमा-शासन और नागरिक डिजिटल साक्षरता की पाँच माँगें (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — आलोचनात्मक मीडिया साक्षरता और सहभागी नागरिकता पर विशेषज्ञ-साक्षात्कार और छात्र-सर्वेक्षण (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — फ़िनिश शिक्षकों के AI शिक्षा-उद्देश्य, योग्यता, समाजीकरण और विषयीकरण से पढ़े गए
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — विज्ञान-साक्षरता की दृष्टियाँ, जिनमें नागरिक जीवन और लोकतांत्रिक जुड़ाव शामिल
-- [[rudolph-ai-myths-critical-higher-ed]] — डीपफ़ेक और स्वचालित ग़लत सूचना को लोकतांत्रिक ख़तरा बताता संपादकीय (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — वयस्क शिक्षा नीति और आजीवन अधिगम का नागरिक उद्देश्य (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 शासन-दस्तावेज़; 92 में लोकतंत्र और विधि-शासन का नाम, चार में क़ानूनी बल (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — राजनीतिक-सिद्धांत के शब्दों में लोकतांत्रिक पक्ष: अभ्यास का क्षरण, तंत्र, और सत्तावाद का दाँव

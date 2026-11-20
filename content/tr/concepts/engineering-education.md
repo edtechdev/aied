@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -83,37 +85,3 @@ Bu boşluk artık bir alanda boş değildir: üç yıllık bir biyomedikal mühe
 - **“Mühendislik öğrencileri arasında YZ benimsemesi bir teknoloji kabulü sorunudur.”** [[socio-cognitive-genai-adoption-engineering-2026|Asag ve Al Mamun]], Bangladeşli mühendislik öğrencilerinin benimsemesini modellemek için TAM’ı [[technology-acceptance-model|UTAUT]] ile bütünleştirir ve varyansın **%64’ünü açıklar**; dolayısıyla önemli bir pay, kabul yapılarının dışında, modelin kapsamadığı sosyal ve bilişsel etkenlerde kalır.
 - **“Öğrenciler YZ’yi en iyi olduğu iş için kullanır.”** [[ai-engineering-education-balancing-act|Kudina (2026)]], **100 mühendislik öğrencisinin** LLM’leri mühendislik akıl yürütmesi için değil **yazma desteği** için en değerli bulduğunu bulmuştur. Araç için kurdukları mecazlar aracın sunduğunun ötesine geçmiş ve fiilî kullanımları yetenekten çok kolaylığı izlemiştir.
 - **“Daha zengin bir araç yığını tasarım çıktılarını iyileştirir.”** **27 öğrencili** bir mimari tasarım stüdyosunda, üretken YZ artı [[virtual-and-augmented-reality|XR]] hattını kullanan ekipler **ürün iyileşmeden bastırılmış özyeterlik** göstermiştir. Araç zenginliği, artefaktı değiştirmeden güveni tüketebilir.
-
-## Bağlı kavramlar
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — Statik kıyaslaması: çözme ve hata saptama doygunluğa ulaşıyor, itiraza direnç ulaşmıyor
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

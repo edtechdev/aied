@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -99,38 +101,3 @@ Le cadrage fixe aussi le prix du diplôme en aval : auprès d'environ 1,750 prof
 **« Interdire un outil fait disparaître le comportement. »** Cela le déplace vers des outils que vous ne voyez pas. Les étudiants préfèrent déjà les outils accessés de manière privée à ceux fournis par l'établissement, si bien qu'une interdiction pousse l'usage hors du seul environnement où un soutien, une journalisation ou des conseils sont possibles. La tâche de cadrage est de rendre le comportement autorisé attrayant, non de rendre le comportement interdit plus difficile à observer.
 
 **« La présentation relève de la persuasion, donc elle tient plus de la rhétorique que de la conception. »** Un cadrage efficace s'associe à la conception : des attentes énoncées clairement et de façon répétée *tout en concevant en pensant aux étudiants*. Des messages délivrés au lieu d'une conception pensée pour eux, c'est la version qui échoue, parce que les étudiants perçoivent la différence entre un engagement déclaré et un engagement réel.
-
-## Concepts liés
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Articles liés
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consensus de 30 experts sur la séquence : acquérir sans IA générative, consolider avec elle, puis réfléchir par soi-même
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Justification transparente de chaque usage autorisé et interdit de l'IA générative, tâche par tâche (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Encourager un usage approprié de l'IA générative plutôt que la condamner comme une perturbation
-- [[student-rationalization-ai-writing]] — Les « cinq sites » où les étudiants justifient l'usage de l'IA en écriture académique
-- [[student-regulatory-awareness-genai]] — Connaître les règles ne suffit pas : conscience réglementaire et usage réel
-- [[ai-anxiety-strategic-regulation-writing-2026]] — De l'anxiété liée à l'IA à la régulation stratégique
-- [[chatgpt-inoculation-training-verification-2026]] — Messages d'inoculation et comportement de vérification
-- [[ai-fallibility-warning-help-seeking]] — Avertir de la faillibilité de l'IA augmente la recherche d'aide
-- [[shame-guilt-ai-regulation-computing-education]] — La honte et la culpabilité comme régulateurs sociaux de l'usage de l'IA
-- [[access-not-enough-ai-tutoring-2026]] — Un accompagnement humain améliore l'engagement dans le tutorat par IA
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engagement envers l'IA générative fondé sur la théorie de l'autodétermination
-- [[ai-availability-student-motivation]] — Comment la disponibilité de l'IA façonne la motivation des étudiants
-- [[youtube-frames-chatgpt-education]] — Comment YouTube cadre l'usage de ChatGPT en éducation
-- [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Les enseignants présentent l'IA comme un usage critique et responsable, les employeurs comme un outil de productivité
-- [[ssaho-ai-academic-integrity-review-2025]] — Bâtir une culture de l'intégrité académique par des attentes claires

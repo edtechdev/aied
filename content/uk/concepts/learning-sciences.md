@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -100,50 +102,3 @@ ai_assist:
 - Не зупиняйте практику лише за правильністю. Моделюйте умову утримання як окрему навичку, інакше система засвідчить надмірне узагальнення.
 - Нехай відношення буде параметром, а не константою, бо докази кажуть, що оптимум залежить від контенту.
 - Повідомляйте, який конструкт вимірює ваш критерій, окремо від того, який конструкт вимірює ваша валідація.
-
-## Пов’язані поняття
-
-- [[learning-theories]] — Теорії навчання
-- [[cognitive-psychology]] — Когнітивна психологія
-- [[pedagogy]] — Педагогіка
-- [[learning-design]] — Проєктування навчання
-- [[research-methods-aied]] — Методи досліджень в AIED
-- [[theory-development-aied]] — Розвиток теорії в AIEd
-- [[design-based-research]] — Дослідницьке на основі проєктування
-- [[teacher-education]] — Підготовка викладачів
-- [[educational-development]] — Розвиток освіти
-- [[discipline-specific-aied]] — Галузеспецифічний AIEd
-- [[intelligent-tutoring]] — Інтелектуальний тьюторінг
-- [[learning-analytics]] — Навчальна аналітика
-- [[assessment-validity]] — Дійсність оцінювання
-- [[educational-measurement]] — Освітнє вимірювання
-- [[cognitive-offloading]] — Когнітивне перекладання
-- [[learning-gains]] — Навчальні здобутки
-- [[transfer-of-learning]] — Перенесення навчання
-- [[teacher-role]] — Роль викладача
-- [[equity-in-ai-education]] — Справедливість у ШІ в освіті
-- [[educational-policy-ai]] — Політика в галузі освітнього ШІ
-
-## Пов’язані статті
-
-- [[competent-generative-ai-use-measures-review-2026]] — Огляд і дослідницький метааналіз мір для компетентного використання генеративного ШІ (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Правильність, що маскує незавершене правило: правила зупинки за володіння в адаптивному навчанні (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Контрольфактуальний аудит демографічних сигналів в оцінюванні студентів за допомогою LLM (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Ланцюги Маркова й майнинг патернів по 29 064 діяльностях у 554 курсах (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Зберігаюча приватність, недіагностична перевірка для пов'язаного зі ШІ перекладання (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Керування без прикладів: ШІ загального призначення в політиці, прочитаний через кодову базу Redbox (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Чому найкраще відношення прикладів до задач залежить від контенту (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Викладачі проєктують чат-ботів із обмеженим експертом і вибірковою делегацією інструкції (Reichert та ін. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK викладачів щодо GenAI: сильні знання про контент, слабкі знання, інтегровані з технологіями (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: рандомізоване випробування живого тьюторінгу «людина–ШІ» у масштабі (Wang та ін. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Попередньо зареєстроване дельфійське опитування 30 експертів про те, які навчальні процеси GenAI посилює, а які загрожує
-- [[three-pathways-student-ai-interaction-2026]] — Типологія взаємодії студента зі ШІ: 64% пасивні або транзакційні, 36% стратегічний діалог
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Стиль зворотного зв’язку, а не тип агента, зрушив саморегулятивну залученість
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Докази процесу залежать від каналу
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Розподіл використання GenAI є інституційним вибором
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Опора в межах особи передує падінню сприйманої суб’єктності
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Лаговий послідовний аналіз плюс майнинг процесів розмістив ШІ у вузлі групової взаємодії або на лінійному шляху залежно від складу попередніх уявлень (Wang et al. 2026)
-

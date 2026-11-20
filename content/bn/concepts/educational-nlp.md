@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -71,39 +73,3 @@ ai_assist:
 - **"অর্থগত সাদৃশ্য পাঠ্যক্রম-সারিবদ্ধতা স্ক্রিন করতে পারে।"** **3,837 দন্তচিকিৎসা-লক্ষ্য–সারাংশ জোড়া** স্ক্রিন করে এমবেডিং পুনরুদ্ধার এবং একটি প্রাকৃতিক-ভাষা অনুমান যাচাই **22.9% আইটেমকে** সারিবদ্ধ হিসেবে বিচার করে — অর্থগত সাদৃশ্য সারিবদ্ধতার জন্য একটি **দুর্বল সংকেত**। সাবলীল বিষয়গত মিল আর প্রকৃত শিখন-লক্ষ্যের মিল ভিন্ন সম্পর্ক।
 - **"উচ্চারণ-স্তরের শ্রেণিবিন্যাস স্বাভাবিক একক।"** **সম্পূর্ণ-পাঠ মডেলিং উচ্চারণ-স্তরের শ্রেণিবিন্যাসকে ছাড়িয়ে যায়**: বিচ্ছিন্ন উচ্চারণের বদলে সম্পূর্ণ প্রতিলিপি স্কোর করলে **যুক্তিশৃঙ্খল শনাক্তকরণ 14.2 শতাংশ-বিন্দু বাড়ে**। পাঠ্য জুড়ে প্রসঙ্গ এমন তথ্য বহন করে যা যেকোনো একক পর্ব ধ্বংস করে।
 - **"মূল্যায়ন-মন্তব্যে এনএলপি বড় করলে প্রভাব পড়ে।"** শিক্ষাদানের খোলা-শেষ শিক্ষার্থী-মূল্যায়নে এনএলপি প্রয়োগ করা **421 গবেষণার** (২০১৫-২০২৬) PRISMA-ScR স্কোপিং পর্যালোচনা ও প্রমাণ-মানচিত্র দেখে বড় করা হয়েছে **ব্যবহারে না পৌঁছেই**। পদ্ধতিগত আউটপুটের পরিমাণ গ্রহণ নয়, আর ফাঁকটি মডেলিংয়ের বদলে স্থাপনার ধাপে।
-
-## সংযুক্ত ধারণা
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, এলএলএম প্রশিক্ষণ, রোবোটিকস, RAG, এজেন্টিক)
-
-## সংযুক্ত নিবন্ধ
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — এমবেডিং ক্লাস্টার যা পদার্থবিজ্ঞানের বদলে শব্দচয়ন অনুযায়ী সংগঠিত করে
-- [[lee-learner-question-types-ai-education-2026]] — শিক্ষার্থী-প্রশ্নকে গঠনবাদী ভূমিকায় ট্রান্সফরমার শ্রেণিবিন্যাস (Lee, Atif ও Kang ২০২৬)
-- [[bert-discourse-english-teaching-2026]] — ইংরেজি শিক্ষাদানের জন্য BERT দিয়ে স্বয়ংক্রিয় আলোচনা-সম্পর্ক শ্রেণিবিন্যাস
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — একটি এআই কোর্সে শিক্ষার্থী–এলএলএম সংলাপের StudyChat উপাত্ত-সেট
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — নিউরো-সিম্বলিক শিক্ষাবিজ্ঞানিক সারিবদ্ধতা (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — রুব্রিক-ভিত্তিক শিক্ষাদান-গুণমানের জন্য SHAP ও এলএলএম যুক্তি
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — শিখন-বিশ্লেষণের জন্য স্ব-ব্যাখ্যাকারী এলএম নিংড়ে আনা
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — বহু-এজেন্ট এলএলএম (GradeOpt) শিক্ষকদের বিষয়বস্তু ও শিক্ষাবিজ্ঞানিক বিষয়বস্তু-জ্ঞান কোড করে; ধ্রুপদী এনকোডার ও সরল প্রম্পটিং PCK-তে পিছিয়ে পড়ে
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: শিক্ষামূলক সংলাপের নিরীক্ষাযোগ্য কোডিংয়ের জন্য দাবি-ভিত্তিক স্কিমা
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — আবেগ-শ্রেণিবিন্যাস থেকে কার্যকর ও দায়বদ্ধ প্রতিক্রিয়ার দিকে: শিক্ষাদানের শিক্ষার্থী-মূল্যায়নে এনএলপির স্কোপিং পর্যালোচনা ও প্রমাণ-মানচিত্র, ২০১৫–২০২৬
-- [[bloom-classifier-ai-assisted-questions-2026]] — নতুন এআই-সহায়ক শিক্ষামূলক প্রশ্নের শিক্ষাবিজ্ঞানিক মূল্যায়নে পূর্ব-প্রশিক্ষিত মডেলের মূল্যায়ন
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: সূক্ষ্ম জ্ঞান-ধারণা ট্যাগিংয়ের জন্য নির্বাচনী-যুক্তির পাইপলাইন
-- [[nlp-reading-lists-dental-education-2026]] — দন্তচিকিৎসা শিক্ষায় পাঠ্যকে শিখন-লক্ষ্যের সঙ্গে সারিবদ্ধ করা ও বিষয়-ভারসাম্য মূল্যায়নে প্রাকৃতিক ভাষা প্রক্রিয়াকরণ
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: শব্দযুক্ত হাইব্রিড নথি পার্সিংয়ের জন্য একটি হাতে-লেখা উত্তরপত্র উপাত্ত-সেট

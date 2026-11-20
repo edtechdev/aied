@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -110,33 +112,3 @@ ai_assist:
 **"הוספת [[feedback|לולאת משוב]] AI משפרת הערכה עצמית אוטומטית."** לולאת משוב משנה את מה שהסטודנט משווה כנגדו, מה שיכול לשפר כיול וגם לעגן אותו לשיפוט המערכת. המחקר ההשוואתי כאן (**118 סטודנטים לתואר ראשון בשנה ראשונה, 56 בקבוצת GenAI ו‑62 בקבוצת עמיתים**, שלושה מחזורים לאורך סמסטר) תוכנן בדיוק כדי לבחון אם הלולאה או ההשוואה החברתית עושה את העבודה — והתשובה אינה "הלולאה, מעצם היותה לולאה."
 
 **"הערכה עצמית היא חלופה רכה למבחן."** זהו יעד אחר. הערכה עצמית מפתחת את המיומנות הרגולטורית של שיפוט העבודה של האדם עצמו; מבחן מודד את היכולת הנשפטת. מחקר שמחליף אחד בשני מערבב את היכולת להעריך ביצועים עם הביצועים עצמם.
-
-## מושגים מחוברים
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## מאמרים מחוברים
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — הערכה עצמית במרכז מסגרת צמיחה מוכוונת-עצמית (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — חומרי אוריינות בינה מלאכותית מדורגים התפתחותית, עם מדידת קבלה ותוקף (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
-- [[yasir-llm-tutoring-agents-2026]] — מדוע משוב אינו צריך להישען על תקינות הנמקה המוערכת-עצמית של מודל (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — שאלון הערכה עצמית מאומת בת 15 פריטים לאוריינות בינה מלאכותית לכיתות ד' עד ו', עם המגבלות המטאקוגניטיביות של דיווח עצמי של ילדים (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 מתוך 33 כלי מדידת אוריינות בינה מלאכותית למורים הם דיווח עצמי, שניים בודקים ידע באופן אובייקטיבי, ואף אחד לא משתמש במשימות ביצוע (Zainal, Mohd Matore & Maat 2026)

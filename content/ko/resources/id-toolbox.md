@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -39,8 +40,3 @@ ai_assist:
 ## 이 도구가 존재하는 이유
 
 28년간 기업 교육을 설계해 온 Curt Zilbersher는 자신의 경력 전반에 걸쳐 똑같은 작은 미해결 문제 — 내레이션 단어 수 세기, [[edtech-platform|LMS]] 한도를 넘겨 강좌를 초과하게 만든 애셋 찾기, 자막 커버리지를 손으로 감사하기 — 가 반복되는 것을 보고, 그 해결책을 만들어 무료로 공유하고 있습니다. 이 사이트는 교수설계자가 실제로 한 주를 어떻게 보내는지에 대한 무료 연례 설문도 운영합니다.
-
-## 연결된 개념
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

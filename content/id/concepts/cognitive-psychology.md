@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -70,7 +72,6 @@ Cognitive Theory of Multimedia Learning (CTML) Mayer menerapkan asumsi memori ke
 
 Sebuah eksperimen 2026 memberi sisi memori dari batas itu sebuah mode kegagalan yang konkret. Hanya 44.8% dari 328 orang dewasa yang membaca ringkasan AI yang menyesatkan kemudian mengidentifikasi detail video dengan benar, dibandingkan 83.6% yang membaca ringkasan yang konsisten. Label AI atau manusia tidak membuat perbedaan, dan kepercayaan diri yang dilaporkan sendiri terhadap AI juga tidak ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Itu memori sumber, bukan pembelajaran kelas, tetapi ringkasan yang lancar dapat menimpa catatan pembelajar tentang sumbernya, yang penting bagi belajar dan penilaian.
 
-
 ## Implikasi bagi desain dan penelitian
 
 1. **Rancang untuk internalisasi, bukan sekadar kinerja.** AIED kognitivis harus dievaluasi berdasarkan apakah pembelajar dapat mengambil dan menerapkan pengetahuan *tanpa* alat itu — bukan berdasarkan kinerja berbantuan. Inilah [[ai-misuse-learning-harm|kesenjangan kinerja–pembelajaran]] dan alasan untuk mengukur [[transfer-of-learning|transfer]] tanpa bantuan.
@@ -83,37 +84,3 @@ Sebuah eksperimen 2026 memberi sisi memori dari batas itu sebuah mode kegagalan 
 - **"Representasi mental tidak dapat diamati, jadi klaim kognitif tentang pembelajaran hanyalah asumsi."** Merekonstruksi gambar dari **EEG** pembelajar selama video sains menemukan **kesetiaan representasi mengikuti kinerja tes** (koefisien regresi **0.8481, R² = 0.79**). Premis kognitivis tentang representasi internal dapat diukur, dan pengukurannya memprediksi hasilnya.
 - **"R² yang tinggi berarti representasi menjelaskan pembelajaran."** R² = 0.79 adalah asosiasi kuat antara kesetiaan dan kinerja pada materi yang sama. Ia tidak menetapkan bahwa menaikkan kesetiaan akan menaikkan kinerja, yang merupakan klaim intervensi.
 - **"Komponen pengetahuan adalah fiksi pemodelan yang memudahkan."** Keterdekomposisianlah yang memungkinkan [[knowledge-tracing|pelacakan pengetahuan]] dan [[cognitive-diagnosis|diagnosis kognitif]], dan metode-metode itu bekerja sejauh asumsi tersebut berlaku. Memperlakukannya sebagai fiksi membuang alasan mengapa metode itu menghasilkan estimasi yang dapat digunakan — sementara memperlakukannya sebagai fakta melebih-lebihkan apa yang dikatakan model terpasang tentang sebuah pikiran.
-
-## Konsep terkait
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — temuan retensi yang menjadi landasan keluarga praktik ini
-
-## Artikel terkait
-
-- [[sim-ai-summary-memory-distortion-2026]] — Ringkasan AI yang menyesatkan mengubah apa yang diingat orang dewasa, terlepas dari apakah ringkasan itu berlabel AI atau tulisan manusia
-- [[cognitive-shift-ai-education]] — Pergeseran kognitif dalam pendidikan AI
-- [[cogtax-cognitive-taxonomy]] — Taksonomi kognitif untuk penggunaan AI
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Agen LLM pedagogis yang berpijak pada pelacakan pengetahuan
-- [[nie-personavlm-long-term-personalization-2026]] — Pemodelan siswa dan memori berbasis LLM
-- [[ai-cognitive-partner-co-regulation-learning]] — AI sebagai mitra kognitif dalam pembelajaran yang diatur bersama
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: berpikir sebagai interaksi manusia–AI
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Organisasi upaya, bukan jumlah upaya, yang melacak beban dan frustrasi
-- [[crediting-assisted-work-inflates-mastery-2026]] — Klaim penguasaan dari pelacakan pengetahuan bergantung pada bagaimana kerja berbantuan dikreditkan (Srivastava 2026)

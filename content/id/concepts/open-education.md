@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -90,39 +92,3 @@ Yang kedua adalah pengingat bahwa sistem generatif dapat terbuka dan kontennya t
 **"AI membuat konten begitu murah sehingga OER usang."** Pembacaan sebaliknya tersedia dan lebih didukung. Jika generasi hampir gratis, barang yang langka menjadi lisensi, jejak atribusi, proses tinjauan dan platform yang terpelihara. Itulah sebabnya literatur ini konvergen pada tata kelola dan infrastruktur alih-alih pada produksi.
 
 **"Menambahkan alat AI pada tugas terbuka memperbaiki pembelajaran."** Satu-satunya uji kuasi-eksperimental di sini menemukan pertumbuhan keterampilan yang dipersepsikan di kedua kelompok tanpa perbedaan yang terdeteksi di antaranya, bersama penyelesaian yang lebih tinggi dan skor yang sedikit lebih rendah di kelas AI. AI mengubah apa yang dihasilkan siswa dan tidak mengubah apa yang mereka laporkan telah dipelajari.
-
-## Konsep terkait
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Artikel terkait
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Lima pembingkaian untuk OER setelah AI generatif masuk ke produksi (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER sebagai barang publik digital dan argumen untuk infrastruktur yang diperintah (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Mengapa dua puluh lima tahun keterbukaan membiarkan bagian tengah institusional utuh (Deimann dan Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Pedagogi terbuka dengan dan tanpa alat AI di dua kelas mata kuliah (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Empat belas model praktik pendidikan terbuka dan posisi AI di dalamnya (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — Literasi AI guru dan praktik pengajaran terbuka di 30 provinsi Tiongkok (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — Kerangka tujuh pilar untuk integrasi OER dan AI yang bertanggung jawab (Rodés-Paragarino dan Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Mentoring dan produksi OER-AI dalam laboratorium virtual (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — Rubrik tujuh prinsip untuk meninjau OER literasi AI (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Interaktivitas dalam OER sebagai argumen desain alih-alih temuan (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Kerja sama internasional dalam pendidikan terbuka sebagai kasus instrumental (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — Pemberi rekomendasi hibrida untuk OER terhadap garis dasar yang lebih kuat daripada yang diklaim (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Transformasi digital dalam pembelajaran terbuka sebagai transformasi pedagogis (Panda, 2026)

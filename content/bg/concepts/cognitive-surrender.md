@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -111,37 +113,3 @@ ai_assist:
 **„Решението е по-добър AI, защото капитулацията следва от грешки.“** Капитулацията следва от *структурата* на взаимодействието: система, която първо произвежда правдоподобен отговор, премахва повода обучаемият да произведе свой. Подобряването на точността намалява вредата от грешни отговори и не прави нищо срещу изоставянето на формирането на преценка, а именно тази вреда остава, след като инструментът изчезне.
 
 **„Преподаването на критично оценяване е достатъчно.“** То е необходимо и идва твърде късно. Щом правдоподобен отговор е на екрана, оценяването се превръща в потвърждаване, затова дизайнерската литература тук поставя опита на ученика преди резултата на системата, вместо да го проверява след това.
-
-## Свързани концепции
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Свързани статии
-
-- [[shaw-nave-cognitive-surrender-2026]] — Теорията с три системи и експерименталният отпечатък на капитулацията
-- [[generative-ai-reduced-study-time-math]] — изместване на популационно ниво в ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — рамката капитулация/изнасяне/самостоятелност в PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — инструментална помощ срещу помощ, носеща преценка
-- [[ai-advice-suppresses-ikt-suspension-2026]] — сривът на „не знам“
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — невронна ангажираност и собственост
-- [[genai-thoughtless-use-self-directed-learning-2026]] — безмислено използване и самонасочено обучение
-- [[stamatoulis-genai-use-patterns-2026]] — възприемане с ниска проверка срещу оценъчна интеграция
-- [[cognitive-washout-ai-skill-decay-2026]] — какво се случва след оттеглянето
-- [[ai-overreliance-complex-adaptive-system-2026]] — разчитането като популационен процес
-- [[brcic-effortless-trap-productive-struggle-2026]] — разполагане на AI така, че задачата да остане усилие
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — обучение за калибриране
-- [[family-school-autonomy-support-genai-2026]] — зависимо срещу самостоятелно изнасяне
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Асистент, закотвен в работен лист, понижи изнасянето, вместо да го повиши - гранично условие за отпечатъка на капитулацията (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Натуралистично възлагане на цяло есе: 15 от 77 есета изцяло написани от модела, 20 заявки за пълно есе (Jelson et al. 2026)

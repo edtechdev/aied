@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -46,10 +47,3 @@ ai_assist:
 ## 注記と注意点
 
 無料なのはソフトウェアであって推論ではありません。学習者はプロバイダのキー、サブスクリプション、ローカルの Claude Code CLI、または任意の OpenAI 互換エンドポイントを持ち込み、プロバイダにマークアップなしで支払います。ライブのメーターが見積もるのは既知の API コストのみです。記録、チャット、キーはプレーンファイルとしてマシン上に残りますが、モデルへのリクエスト、任意の口述、Web 調査はいずれも外部サービスに届くため、ローカル保存はオフライン処理を意味しないとプロジェクトは警告しています。Windows x64 のインストーラは署名されていないため、Windows は警告を出します。有効性の研究は報告されておらず、根拠は測定された成果ではなく示された論拠に依っています。2026 年 11 月 2 日に確認した時点で、リポジトリのスター数はおよそ 4,800 でした。
-
-## 関連する概念
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

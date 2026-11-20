@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -132,69 +134,3 @@ AI تعلیم میں تشکیلی جانچ خود سیکھنے کے عمل سے 
 - **"پیدا شدہ مشقی آئٹمز مفید تشکیلی اشارہ دیتے ہیں۔"** **ایک آسان پیدا شدہ آئٹم بینک کوئی تشکیلی اشارہ نہیں دیتا**: **10 ہفتوں کی تعیناتی میں AI سے پیدا شدہ تقریباً 70% مشقی آئٹمز ہر طالب علم نے درست حل کیے**۔ ایسا بینک جسے سب پاس کر لیں، اِس بارے کوئی معلومات نہیں رکھتا کہ کس کو کیا درکار ہے۔
 - **"آئٹم سازی کا اعتبار تمام شکلوں میں یکساں ہے۔"** AI نظام مختلف وضعیتوں میں تشکیلی آئٹمز پیدا کرتے ہیں **اور اعتبار قسم کے لحاظ سے بدلتا ہے** — اُن میں کثیر الانتخابی بھی شامل ہے۔ پیدا شدہ آئٹمز کو شکلوں کے درمیان تبادلے کے قابل سمجھنا اِس بات کو چھپا دیتا ہے کہ تخلیق کہاں قابلِ بھروسہ ہے۔
 - **"طلبہ کو AI فیڈبیک دینے سے عمل میں لانا پیدا ہو جاتا ہے۔"** **عمل میں لانے کا مسئلہ** فیڈبیک کے معیار سے الگ دستاویز کیا گیا ہے: فیڈبیک وصول کرنا اور اُس پر عمل کرنا الگ الگ قدم ہیں، اور تشکیلی جانچ دوسرے ہی میں کامیاب یا ناکام ہوتی ہے۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وہ ترتیب وار شکلیں جو تشکیلی جانچ اُس وقت اختیار کرتی ہے جب فیڈبیک کا کچھ حصہ AI فراہم کرے
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — اختتامی جانچ: AI کے خلاف مزاحمت کرنے والی شکلیں (زبانی، نگرانی والے، بند کتاب کے امتحانات)
-- [[reflection]]
-
-## منسلک مضامین
-- [[llm-multi-agent-conversation-assessment-2025]] — گفتگو پر مبنی جانچ کے لیے چار ایجنٹوں کا ڈھانچہ، جس کا جانچنے والا درمیانی زمرے کی طرف جھکتا ہے (Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — طلبہ کی قابلیت کی جانچ کے لیے معاون مداخلات کی سببی ماڈلنگ
-- [[nicola-richmond-programwide-assessment-genai-2025]] — GenAI کے دور میں جانچ کو نئے سرے سے ڈیزائن کرنے کے پروگرام وسیع طریقے
-- [[ai-feedback-enactment-workflow-2026]] — AI سے پیدا شدہ فیڈبیک کو معنی خیز بنانا: فراہمی سے عمل میں لانے تک
-- [[care-full-feedback-genai]] — GenAI کے دور میں فیڈبیک کی نگہداشت بھری دستکاری
-- [[feedback-futures-genai]] — فیڈبیک کے مستقبل: انسانی اور GenAI صلاحیتوں کی حدوں سے آگے
-- [[sequenced-ai-feedback-learning]] — ترتیب وار AI فیڈبیک کا اثر اور راستے
-- [[learner-centered-feedback-ai]] — طالب علم مرکز فیڈبیک کو AI کے ساتھ بہتر بنانا
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — خودکار اسکورنگ سے سیکھنے کی تشخیص تک: انگریزی تحریر میں AI کی معاونت والی تشکیلی جانچ کا طریقہ کار مطالعہ
-- [[ai-internal-feedback-evaluative-judgments]] — AI کی معاونت والے اندرونی فیڈبیک کے ذریعے جائزہ لینے کے فیصلے پروان چڑھانا
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: انسان کے لوپ میں پرامپٹنگ کے ساتھ تشکیلی جانچ کی اسکورنگ
-- [[automated-formative-assessments-a-level-sciences]] — کثرت سے خودکار تشکیلی جانچ
-- [[ai-generated-feedback-higher-ed]] — اعلیٰ تعلیم میں AI سے پیدا شدہ فیڈبیک
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: نصاب سے جڑا AI فیڈبیک
-- [[genai-teacher-feedback-comparison]] — GenAI بمقابلہ استاد کے فیڈبیک کا موازنہ
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT فیڈبیک اور شمولیت
-- [[code-gen]] — CODE-GEN: تصدیق شدہ MCQ سازی
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — مستند جانچ کے لیے ڈیزائن کرنا
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Linux/bash امتحانات کی خودکار درجہ بندی
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT سے بہتر بنائی گئی تشکیلی جانچ میں مدرس اور AI کے کردار
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحانات کو مستند، AI کے خلاف مزاحمت کرنے والی جانچ کے طور پر دوبارہ سوچنا
-- [[roe-assessment-twins-2026]] — GenAI کے دور میں جانچ کے اعتبار کو مضبوط کرنے کے لیے جڑواں جانچیں (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI جانچ روبرک کی تخلیق
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI کی معاونت والی، مدرس کی نگرانی میں درجہ بندی اور فیڈبیک
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ایک ITS میں انطباقی ICAP سہارا (BKT بمقابلہ DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs بطور تکراری تدریسی ڈیزائن کے ایجنٹ
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — انطباقیت فیڈبیک کو مؤثر بناتی ہے: بچوں کے منصوبوں پر AI سے پیدا شدہ فیڈبیک کا ثبوت
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — خودکار اسکورنگ، کارکردگی کی تفسیر اور خود ضابطہ سیکھنا (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AI کی معاونت والی تشکیلی جانچ میں اساتذہ کی تشخیصی مہارتیں: تشخیص سے میٹا تشخیص تک
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — پروگرامنگ میں LLM سے پیدا شدہ فیڈبیک کی ادراک شدہ افادیت اور استعمال کی نیت، تین تعلیمی سطحوں پر
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — موسیقی کی تعلیم میں تخلیقی AI اور بڑے ڈیٹا کے تجزیے کو یکجا کرنے والی انطباقی تدریسی معاونت
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسز میں طلبہ کا LLMs کا استعمال اور AI سے پیدا شدہ سوال کی دشواری کی حدیں
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI کی وساطت والا مسلسل جانچ کا ڈھانچہ (AIM-CAI): سیاق و سباق اور وقت کے پار سیکھنے کے ثبوت کو جوڑنا (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — ثبوت سے جڑے مکالمے کے ساتھ تدریسی غلط فہمیوں کی مکالماتی AI تشخیص (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — نگرانی کے خطرے کا مثبت ہم منصب: قابلِ مشاہدگی بطور ثبوت ڈیزائن، نگرانی نہیں

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -137,28 +139,3 @@ Les chefs de département peuvent regarder au-delà de la fenêtre de clavardage
 **« Acheter des GPU est la stratégie. »** De la capacité sans ordonnancement, sans quotas et sans soutien devient une file d'attente. Les cas réussis décrivent la gouvernance et l'exploitation au moins autant que le matériel.
 
 **« Le problème de l'IA, c'est l'agent conversationnel. »** L'essentiel de la valeur institutionnelle décrite dans cette littérature réside dans l'articulation des cours, l'analyse de la charge de travail, l'étiquetage et les dossiers d'évaluation, là où aucun étudiant n'ouvre jamais une fenêtre de dialogue.
-
-## Concepts liés
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## Articles liés
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT : une passerelle gouvernée pour 300 utilisateurs, avec fiches de modèle et un plafond mensuel de \\$500
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — Purdue : deux services d'inférence de campus, plus de 1000 utilisateurs, plus de 10 modèles, Ollama plutôt que vLLM
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN : contrôle et service séparés à la frontière de l'API, avec un palier de proxy testé en charge
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter : ordonnancement équitable, quotas et comptabilité énergétique dans une passerelle open source
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL : récupération hybride avec un modèle local, réussissant la cible de latence médiane et manquant le p95
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — un argument pour les petits modèles de langue à l'échelle d'une école primaire
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — le chapitre de l'OCDE sur l'articulation des cours, l'analyse de la charge de travail et la production d'évaluations
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI : six couches pour relier les preuves d'apprentissage
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat : un modèle de 8 milliards de paramètres conservé face à des candidats plus grands échouant à un seuil de latence
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA : un modèle de raisonnement local qui supprime la question FERPA plutôt que de la gérer

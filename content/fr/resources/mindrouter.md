@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -43,9 +44,3 @@ Les groupes de calcul de recherche et d'informatique centrale disposant déjà d
 ## Remarques et réserves
 
 Gratuit et open source sous Apache-2.0, mais le coût se déplace plutôt qu'il ne disparaît : matériel, électricité et temps de personnel pour exploiter un cluster. Le logiciel est jeune selon les normes de l'infrastructure — trois contributeurs, une seule institution d'origine et des versions dont les étiquettes se comptent par centaines — si bien qu'un établissement devrait le piloter à côté d'un service existant plutôt que comme seul chemin vers un modèle. Aucune évaluation publiée du comportement d'ordonnancement et de quota sous une charge réelle de campus ne figure dans le dépôt ; l'article PEARC est l'endroit où chercher le récit des auteurs.
-
-## Concepts liés
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

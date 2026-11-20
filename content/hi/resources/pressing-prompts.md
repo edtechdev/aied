@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -40,8 +41,3 @@ ai_assist:
 ## यह कहाँ से आया
 
 यह 2024–2025 में ड्यूक विश्वविद्यालय में एआई नैतिकता शिक्षण टूलकिट के रूप में शुरू हुआ, जिसे सेंटर फ़ॉर टीचिंग एंड लर्निंग और ड्यूक लाइब्रेरीज़ में स्नातक छात्रों, पुस्तकालय अधिकारियों, संकाय सदस्यों और तकनीकविदों ने मिलकर डिज़ाइन किया था, और प्रतिक्रिया और पुनःडिज़ाइन के बाद हैनर रोज़ियर, रेमी कैलिर और एरिया चेर्निक द्वारा इसे फिर से शुरू किया गया।
-
-## संबद्ध संकल्पनाएँ
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

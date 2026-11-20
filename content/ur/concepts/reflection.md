@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -164,45 +166,3 @@ ai_assist:
 - **"[[automated-assessment|خودکار اسکورنگ]] پیمانے کا مسئلہ حل کر دیتی ہے۔"** درجہ بند کرنے والے اچھی تشریح والے مگر شدید غیر متوازن کارپس میں عکاسی کی سطح پر تقریباً 70% تک پہنچتے ہیں، اور یہ حد معقول متن کی پہنچ میں ہے۔
 - **"پورٹ فولیو فطرتاً عکاسانہ ہوتے ہیں۔"** کنٹینر خود عمل نہیں؛ چمکدار مصنوعات سے جمع کیا گیا پورٹ فولیو عکاسی بالکل بھی نہ رکھ سکتا ہے۔
 - **"عکاسی کو کسی تدریس کی ضرورت نہیں۔"** ہنگری کے مضامین کا کارپس اور پری سروس اساتذہ کا تجربہ، دونوں یہ مفروضہ رکھتے ہیں کہ سطح اور معیار سیکھے جاتے ہیں، اور تیاری نتائج بدلتی ہے۔
-
-## منسلک تصورات
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## منسلک مضامین
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — پیشگی اندراج شدہ 302 بالغوں کا تجربہ: عکاسی کے پرامپٹس نے فیڈبیک پر وقت دگنا کیا اور مشق کی مقدار 40% کم کی، بغیر ہر مسئلے کے فائدے میں اضافے کے (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — GenAI سے آگاہ پانچ حصوں والا عکاسی ماڈل جو حتمی متن کے بجائے دستاویزی پرامپٹس اور تکرار پر بنا ہے (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 تشریح شدہ مضامین، شدید غیر متوازن درجات، سطحی ماڈل 71% اور ٹرانسفارمرز 68% پر (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 باریوں کو کوڈ کر کے یہ سمجھایا گیا کہ AI عکاسی کے ساتھی نے صارفین کو کم وابستہ کیوں چھوڑا (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — خود، باہمی اور برادری کی عکاسی، AI بطور ادراکی وسیلہ (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 K–12 اساتذہ: وقت نو آموز کی رکاوٹ، کارکردگی پر نظر رکھنا ماہر کی (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — چار GenAI طرزِ عمل اور گیارہ عمل، جن میں سے ہر ایک عکاسی والی سوچ کو سہارا دے یا بدل دے سکتا ہے (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — عکاسی والی جرنلنگ کے روزمرہ کو برقرار رکھنے پر بے ترتیب 2×2 فیلڈ تجربہ (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — حکمت عملی کی تربیت کا سقراطی LLM عکاسی ساتھی کے مقابل 2×2 امتحان (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — غیر تشخیصی خود عکاسی ٹول، بغیر مجموعی اسکور کے (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — عکاسانہ AI استعمال بطور ناپا گیا تصور جو قبولیت کو خود کارآمدی اور شمولیت سے جوڑتا ہے (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — منظم عکاسی بطور زندہ خوراک جو اگلے فیڈبیک چکر کو از سرِ نو کیلیبریٹ کرتی ہے (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — اخلاقی GenAI استعمال کے لیے خود جانچ کے اندر رہنمائی والی عکاسی (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 اساتذہ: AI استعمال کے بعد پہچاننا، ادراک کی دوبارہ تقسیم اور عکاسی سے دوبارہ جڑنا (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — موقفی مقالہ: کوئی ثبوت نہیں کہ عکاسی کے پرامپٹ پائیدار خود نگرانی بناتے ہیں (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16 ہفتوں کے WordPress ای-پورٹ فولیو، GenAI بطور فیڈبیک فراہم کرنے والا اور یکجا کرنے والا (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ای-پورٹ فولیو جانچ کے ساتھ ہم آہنگ ChatGPT، Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — ایک سہارے نے تجزیاتی اور تشخیصی گہرائی بڑھائی جبکہ عمل کی منصوبہ بندی جمود پر رہی (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 مطالعات کی نقشہ بندی: سروس لرننگ چکر کا سب سے کم پہنچا جانے والا مرحلہ عکاسی ہے (Yusuf et al. 2026)

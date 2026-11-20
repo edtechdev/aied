@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -58,20 +60,16 @@ AI 매개 근사는 이 페이지가 신경 쓰는 질문을 날카롭게 합니
 
 반대의 실패도 일어납니다: 눈을 가린 연구에서 전문가 주석자들은 196개 중 164개(83.7%)의 LLM 생성 Java 제출물을 인간이 쓴 것으로 잘못 분류하여, 시뮬레이터의 오류가 정품의 것과 기능적으로 구별되지 않을 수 있음 — 그러나 실제 오류와의 정렬은 문제 난이도가 오르면서 떨어졌습니다([[simulating-students-java-programming-errors-llms|Keramati 외(2026)]]).
 
-
 역할극 프롬프트를 받은 LLM은 지각 축에서도 실패합니다. [[thome-perceived-text-complexity-student-profiles-2025|Thome 외(2025)]]는 ChatGPT-4o와 Claude Sonnet 3.5에게 193명의 실제 학생 각각의 페르소나로 독일어 문장의 난이도를 평가하게 했습니다. 12개의 드러난 라벨을 주고도 모형들은 평균 기준선보다 더 나쁘게 끝났습니다 — RMSE 1.171과 1.252 대 1.070 — 이며 라벨 분포도 잘못 배치했습니다: 학생들이 시험 문장의 45.27%를 '매우 쉬움'으로 배정한 곳에서 두 모형 모두 '쉬움' 라벨에 정점을 두었습니다. 페르소나 조건화 역할극은 아직 대상 청중이 텍스트를 경험하는 방식을 재현하지 못합니다.
 
 [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang 외(2026)]]는 학생 시뮬레이션에 설문 응답 축을 더합니다. 각 사람의 면담 전사록에서 BREQ 응답을 생성하여, 면담 내용이 일부 모형의 정렬과 다양성을 개선한 반면 인구통계 정보는 거의 더하지 못했습니다. LLM 응답은 모든 조건에서 인간의 변동성을 과소 생산했고, 문항 수준의 모방은 시험 수준의 심리측정 구조를 재구성하지 못했습니다. 면담 프롬프트를 받은 Claude만이 상대적 자율성 지수에서 정렬을 개선했습니다.
-
 
 생성을 예측된 행동 모형에 조건화하는 것은 [[llm-training-and-fine-tuning|미세 조정]] 없이도 작동합니다: 훈련 없는 프레임워크가 [[knowledge-graph]]로부터 각 학생의 인지 원형을 구축하고 빔 탐색 후보를 그것에 대해 점수화하여, 시뮬레이션 정확도의 100% 향상을 보고합니다([[simulating-students-diverse-cognitive-levels-2025|Wu 외(2025)]]). 그 품질은 학생의 인지 수준과 함께 오르므로, 더 약한 학습자는 시뮬레이션하기 어려운 경우로 남습니다.
 - **하나처럼 행동하는 대신 학습자를 예측하기.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]]는 시뮬레이션을 3인칭 예측으로 재구성했습니다. 학습자의 이력으로 구축한 학생 모형이 사전 분포를 제공하고, 추론된 학습자 상태가 다음 행동을 제한하며, 시뮬레이션된 능력 분포는 Wasserstein-1 거리에서 실제 분포보다 2.4배에서 8.4배 더 가깝습니다.
 
 CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링합니다 — [[icap-framework|ICAP]] 깊이 퍼셉트론이 각 상태 갱신의 크기를 정하고 진화적 갱신이 최근접 발달 영역 반경 안에 머물러, 정적 에이전트가 0.45에 도달하는 곳에서 R²LC = 0.92에 도달하고 ICAP 모듈 없이는 0.58로 붕괴합니다([[cogevolution-student-cognitive-evolution-agent-2026|Zhang 외(2026)]]).
 
-
 **표류는 페르소나의 문제가 아니라 지평의 문제입니다.** [[radmehr-alps-simulated-students-long-horizon-2026|Radmehr 외(2026)]]는 턴 단위 생성이 궤적이 길어지면서 배정된 프로파일을 잃는 반면, 행동을 생성하기 전에 프로파일 정렬 구간을 계획하면 프로파일당 실제 궤적 세 개로도 밀도와 판정자 평가 일관성을 유지함을 보여줍니다.
-
 
 ## 표면 현실성보다 충실도
 
@@ -79,9 +77,7 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 
 실패는 정량화됩니다: 4B에서 120B 매개변수의 일곱 모형에 걸쳐, 시뮬레이터는 되먹임이 무엇이든 거의 균일한 비율로 정답으로 뒤집혀, 출력 유사도는 그 뒤에 있는 믿음 상태에 대해 아무것도 말하지 않으며, Selective Flip Score에 대해 훈련하면 충실도가 최대 +0.56 상승했습니다([[llm-student-simulation-misconception-faithfulness|Do, Sonkar와 Sachan(2026)]]).
 
-
 **시뮬레이션된 내담자는 명료화 단계를 제거하고, 훈련생의 행동이 그것을 따릅니다.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph 외(2026)]]는 GeCCo 범주 체계 아래에서 64건의 인간-인간 채팅 상담 역할극과 74건의 인간-LLM 대화(Mixtral 8x7B, 4-bit)를 비교하고, LLM 내담자가 문제를 에둘러 말하기보다 프롬프트에 심어진 문제를 그대로 드러냄을 발견했습니다. 그 결과 상담자들은 코딩된 행동의 17.63%에서 문제 해결에 도달했고 인간 내담자에서는 10.67%였으며, 촉진적 중재보다 사실적 반영에 더 의존했고, 형식적 마무리로 세션을 닫는 비율이 더 높았습니다(11.95% 대 5.95%). 설계상 결과는 시뮬레이션된 내담자에 주로 기반한 교과가 세션의 후반부를 훈련한다는 것입니다: 내담자가 꺼리게 만드는 프롬프트가 그것을 복원합니다.
-
 
 ## 지식 기반과의 연결
 
@@ -95,9 +91,7 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 
 둘은 경쟁이 아니라 상보적입니다. 고충실도의 시뮬레이션된 학생은 전형적으로 학생 모델(인식론적 상태, 오개념 집합, [[student-engagement|참여]] 프로파일)을 *포함*하며, [[student-modeling]]과 [[knowledge-tracing]]이 형식화하는 동일한 구인을 끌어 씁니다. 공유된 타당성 도전은 둘에서 동일합니다: 표현은 시스템의 기본 행동이 아니라 학습자의 참된 상태를 충실히 반영해야 합니다. 그러나 *목적*은 다릅니다 — 학생 모델링은 실제 학습자를 진단하여 그에 작용하고, 시뮬레이션은 시험하거나 훈련하기 위해 학습자를 만들어 냅니다. 이것이 시뮬레이션된 학생 연구가 AI를 감사하는 데(아래 참조) 점점 사용되는 반면 학생 모델링 연구는 실시간 [[adaptive-learning]]과 [[personalized-learning]]을 향해 남아 있는 이유입니다.
 
-
 거울 질문은 반대 방향으로 달립니다. [[ai-avatars-and-synthetic-instructors]]는 배우는 사람이 아니라 가르치는 사람을 시뮬레이션하므로, 시뮬레이션된 학생은 방법을 검토에 노출시키는 반면 합성 교수자는 학습자 앞에 서고, 그 학습자가 수혜자이자 판정자입니다.
-
 
 ## 두 축 충실도: 행동 일치와 안내 반응성
 
@@ -142,64 +136,3 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 - **"LLM 학생은 충분히 좋은 대리물이다."** **시뮬레이션은 가장 쉬운 학생들을 덮으며 검증된 것은 거의 없습니다**. LLM 학생을 지도한 **교사 열두 명**은 **지나치게 복잡한 언어, 결여된 정서**와 실제 학습자와의 다른 이탈을 보고했습니다. 대리 모델은 다루기 쉬운 사례를 모형화합니다.
 - **"지식 결손을 가진 시뮬레이션된 학생은 그 결손을 가진 학습자처럼 행동한다."** Mistral-7B에서 **겨냥한 지식 구성요소 16개를 억제하자 정확도가 10% 망각 비율의 약 0.75에서 40%에서 0.5 아래로** 떨어졌고, 기저 모델은 유지되었습니다. 그 저하는 설계된 것이며, 그것이 이를 모방이 아니라 통제된 조작으로 만듭니다.
 - **"페르소나 안정성은 모델 선택의 문제다."** 그것은 **상호작용 설계의 문제**입니다. **다섯 개의 LLM과 세 가지 프롬프트 설계, 네 가지 ADHD 강도 페르소나를 교차**했을 때, 스크립트된 차이는 모델이 아니라 프롬프트 설계를 따랐습니다. 더 나은 모델을 고르는 것은 불안정한 페르소나를 고치지 못합니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념의 포괄 개념
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## 연결된 문서
-
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: 충실한 학생 시뮬레이션을 위한 역할극에서 학습자 행동 모형화로
-- [[llm-goal-selection-self-directed-learning-2026]] — 자기주도 학습 과제에서 언어 모형의 목표 선택은 인간과 다르다
-
-- [[tutorloop-sensor-cognitive-feedback-2026]] — 시뮬레이터 훈련 강화학습 튜터가 새로운 실제 과제로 오프라인 전이되었다(Xu와 Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — LLM이 인간 학습자를 시뮬레이션할 수 있는가? 교사들의 통찰
-- [[llm-student-simulation-misconception-faithfulness]] — 학생을 시뮬레이션하는가, 아니면 추종적으로 문제를 푸는가?
-- [[llm-educational-simulation-adhd]] — LLM 기반 교육 시뮬레이션과 학생 페르소나 안정성
-- [[simulating-students-java-programming-errors-llms]] — 학생의 Java 프로그래밍 오류 시뮬레이션
-- [[adaptive-virtual-patient-psychotherapy-training]] — 심리치료 훈련을 위한 적응 가상 환자
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI 표준화 환자
-- [[simulating-students-diverse-cognitive-levels-2025]] — 불완전성을 받아들여: 다양한 인지 수준의 시뮬레이션
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: 합성 대화를 위한 미세 조정된 정품 학생 모형
-- [[educasim-cs1-instructional-practice]] — EducaSim: 생성 에이전트가 교사 연습을 위해 CS1 분반을 시뮬레이션
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 수학 교사 교육의 연습 교수법에 AI를 책임감 있게 통합하기
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: 학생의 인지 진화를 시뮬레이션하는 생성 에이전트
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 프로파일에 적절한 지원을 제공할 수 있는가? 대규모 평가
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 협동 문제 해결 대화를 재현하는 미세 조정된 참가자 특정 LLM 에이전트(Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM 기반 학생 시뮬레이터의 훈련
-- [[ai-web-agents-lesson-design-2025]] — AI 웹 에이전트: 중도 이탈 예측과 설계 비판을 위해 학생 분포를 시뮬레이션하는 것을 능가하는 단일 서술 에이전트
-- [[simulating-learner-task-selection]] — 숙달 학습에서 학습자의 과제 선택 전략과 시스템 제약의 시뮬레이션(Noh, Chowdhary, Ooge, Aleven과 Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — 확장 가능한 내구 기술 측정을 향하여
-- [[agent-based-educational-science-2026]] — 에이전트 기반 교육 과학을 향하여: 연구 도구로서의 시뮬레이션 장치(Zhang, Jiang과 Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: 시뮬레이션된 학생과 AI 조수의 수학 수행, 신뢰, 불안에 대한 28,000개 기록 감사
-- [[swim-student-writing-simulation-2026]] — 학생 글쓰기 시뮬레이터를 위한 프롬프트 주기 대 SFT 대 보상 기반 훈련
-- [[misconception-acquisition-dynamics-llms-2026]] — 시뮬레이터가 오개념을 지니기 전에 훈련 데이터에 무엇이 있어야 하는가
-- [[llm-distractor-generation-student-reasoning-2026]] — 모형이 틀린 학생 추론을 어떻게 시뮬레이션하는지에 대한 추적 수준 분석
-- [[llm-simulating-student-scientific-thinking-2026]] — 8,820개의 강의 내장 과학 아이디어에 대한 여섯 모형: 시뮬레이션된 추론이 어린 학습자의 범위, 어휘, 확신을 넘어서는 곳
-- [[simulated-students-tutoring-dialogues-2026]] — 아홉 개의 학생 시뮬레이션 방법에 대한 일곱 지표 기준 측정, 세 명의 튜터 인간 평가와 함께
-- [[simulating-novice-students-machine-unlearning-2026]] — 시뮬레이터를 안정적 초보자 지식 수준에 두고 교수 대화를 통해 재학습하는 기계 망각 잊기
-- [[student-development-agent-risk-free-simulation-2025]] — 개입에 노출시키지 않고 다중 에이전트 플랫폼에서 학생의 강의 후 발달 성과를 예측하기
-- [[preservice-teachers-noticing-ai-simulations-2026]] — 등호 챗봇 시뮬레이션에서 예비 교사들의 3주간의 주목하기, 해석하기, 형성하기, 그리고 설계가 알아차림을 조종하는 방식
-- [[beagle-grounded-learner-emulation-2026]] — SRL 구조를 프롬프트가 아니라 구조적으로 강제하고 인간 튜링 검사를 통과하는 신경-상징 시뮬레이터
-
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: 계층적 계획이 긴 지평에서 시뮬레이션된 학생을 프로파일에 붙잡아 둔다 (Radmehr et al. 2026)
-- [[rudolph-llm-simulated-counselling-clients-2026]] — 시뮬레이션된 상담 내담자는 더 빨리 드러내므로 훈련생이 촉진적 중재를 건너뛴다
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 역할 프롬프트를 받은 GPT-4o 환자가 13번의 주고받기에서 d = 0.58의 자기평가 역량 향상을 낳았다 (Müller 등, 2026)
-

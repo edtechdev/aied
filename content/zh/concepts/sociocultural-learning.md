@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -80,34 +82,3 @@ ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的�
 **“给一个小组加入工具只改变小组的效率。”** 它改变分工，而分工正是该理论分析的单位。一个把大部分问题交给智能体的小组，即使产出不变，也已经重新分配了认知工作。
 
 **“分布式认知意味着个体不重要。”** 它意味着个体的贡献无法仅从个体表现中读出；分析单位是活动系统，而不是孤立的人。
-
-## 关联概念
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## 关联文章
-- [[youth-enter-chat-llm-student-talk-2026]] — 当青少年进入聊天：基于 LLM 的学生话语测量的验证
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 生成式 AI 作为中介主体
-- [[golrang-propact-pair-programming-2026]] — 协作式 AI 辅导
-- [[finkelstein-principled-ai-education-2025]] — 有原则的 AI 教育框架
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 教育 AI 的斯坦福证据基础
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 悉尼对 PreK-12 中 GenAI 的快速综述
-- [[ai-cognitive-partner-co-regulation-learning]] — AI 作为认知伙伴与共同调节
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM 撰写的提示在数学学习增益上与人类导师提示相当（Pardos & Bhandari 2024）
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 依据学习者回合的意图淡出，而不是依据回复有多深
-

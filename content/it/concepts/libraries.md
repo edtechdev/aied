@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -67,22 +69,3 @@ La funzione più antica della biblioteca — fornire un accesso che i singoli no
 - **Mantenere un percorso di escalation umano in qualsiasi servizio di IA.** L'evidenza sostiene l'IA per il reperimento e la stesura, e il personale umano per il giudizio sulle fonti; i progetti che cancellano il secondo per scalare il primo rimuovono la parte che gli utenti non possono ottenere altrove.
 - **Strumentare lo spostamento della ricerca invece di rilevarlo con questionari.** I registri dei prestiti e del discovery esistono già; una biblioteca che li affianca ai dati sull'istruzione saprà di più sull'effetto dell'IA di quanto possa mostrare un'indagine una tantum sugli studenti.
 - **Non fatturare l'alfabetizzazione all'IA come alfabetizzazione informativa.** Condividono personale e quadri, ma differiscono in ciò che valutano; confonderle produce un programma che non misura nessuna delle due.
-
-## Concetti collegati
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Articoli collegati
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — adozione dell'intelligenza artificiale nelle biblioteche accademiche: una revisione sistematica di pratiche attuali, sfide e opportunità di ricerca
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — mappare l'integrazione dell'alfabetizzazione all'IA nell'insegnamento dell'alfabetizzazione informativa nelle biblioteche accademiche
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — come l'intelligenza artificiale sta ridisegnando l'alfabetizzazione informativa nelle biblioteche accademiche
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — intelligenza artificiale e ricerca di informazioni: un'esplorazione comparativa di chatbot IA, motori di ricerca e risorse bibliotecarie come fonti informative tra gli studenti universitari
-- [[huang-genai-academic-information-resources-2026]] — l'IA generativa ridisegna l'uso sostenibile delle risorse informative accademiche da parte degli studenti universitari
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — il coinvolgimento degli studenti da parte dei bibliotecari accademici per promuovere l'alfabetizzazione informativa e l'istruzione sull'IA nelle istituzioni terziarie nigeriane

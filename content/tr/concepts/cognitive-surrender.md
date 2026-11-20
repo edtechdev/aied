@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -68,7 +70,6 @@ Gizli tohum istemleriyle *YZ doğruluğunu* rastgele atayan, önceden kaydedilmi
 
 Pratik okuma, teslimiyetin bir motivasyon başarısızlığından ziyade bir **ayırt etme başarısızlığı** olduğudur. Teslim olan katılımcılar çalışmaktan kaçınmaya çalışmıyordu; iyi öneriyi kötüsünden ayırt edemiyorlardı ve arayüz onlara denemek için hiçbir neden sunmuyordu.
 
-
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] tarafından önceden kaydedilmiş bir deney, karşıt bir yapılandırma sunar. Asistan, [[rag|getirimle güçlendirme]] yoluyla atanan çalışma kâğıdına sınırlandırıldığında, YZ koşulu bilişsel yük dışarı aktarmayı yükseltmek yerine düşürdü (ortanca −0,27) ve hiçbir yük dışarı aktarma yolu, düzensizlikteki artışı (0,84) taşımadı. Teslimiyet, önerisi bütünüyle benimsenebilecek bir asistan gerektirir; yalnızca eldeki materyalden yanıt veren bir sistem, öğrenene benimsenecek daha az ve uzlaştırılacak daha çok şey verir.
 
 ## Laboratuvar dışında teslimiyet
@@ -83,7 +84,6 @@ Laboratuvar bulguları, bağımsız olarak aynı kelimeye ulaşan alan ve gözle
 - **Bağımlı ve özerk kipler yalnızca sonuçlarıyla ayırt edilebilir.** [[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]], üç dalga boyunca 589 öğrenciyi ve kariyerinin başındaki çalışanları izler: bağımlı yük dışarı aktarma çekirdek düşünceyi devretti ve daha düşük içsel motivasyonla izledi, özerk yük dışarı aktarma ise izlemedi ve her iki durumda da anlık performans özdeş göründü.
 - **Modelin kendi katkısı.** [[sycophantic-ai-social-interaction-2026|Yağcılık]], teslimiyetin tamamlayıcısıdır: hemfikir olan, kullanıcının çerçevesine doğru yumuşayan veya bir iddiayı akıcı biçimde ifade eden bir asistan, öğrene karşı çıkabileceği hiçbir şey bırakmaz.
 - **Geri çekilme, çözülmemiş yarısıdır.** [[cognitive-washout-ai-skill-decay-2026|Bilişsel erime üzerine çalışmalar]], bu araştırmaların neredeyse tamamının bilişi YZ *kullanımı sırasında* ölçtüğünü ve asistanın elinden alındığında ne olduğunu neredeyse hiçbirinin ölçmediğini belirtir — oysa bu, tam olarak bir sınavın, bir kesintinin veya bir lisans incelemesinin sorduğu sorudur.
-
 
 - **“Tüm makaleyi devretmek laboratuvar dışında varsayımsal kalır.”** Oldu: politika ve teşvikin bulunmadığı tek oturumluk bir çevrimiçi çalışmada. **77** üniversite yazarından **15'i (%19,5)**, editöre tek kelime yazmadan **%100** model tarafından yazılmış makaleler teslim etti ve **20** katılımcı doğrudan tam bir makale istedi; bu, şemadaki en çok kullanılan koddur. En ağır kullanıcı **27** sorgu gönderdi. [[jelson-students-chatgpt-essay-writing-2026|Teslimiyet, tek bir tespit edilebilir eylem olarak değil bir istek örüntüsü olarak göründü]].
 
@@ -113,39 +113,3 @@ Adlandırılmış bir yapı olarak teslimiyete dair kanıt, büyük ölçüde te
 **“Çare daha iyi YZ’dir, çünkü teslimiyet hatalardan doğar.”** Teslimiyet etkileşimin *yapısından* doğar: makul bir cevabı ilk sırada üreten bir sistem, öğrenenin kendi cevabını üretmesi için gereken vesileyi ortadan kaldırır. Doğruluğu iyileştirmek yanlış cevaplardan gelen zararı azaltır ve yargı oluşturmaktan vazgeçmeye hiçbir şey yapmaz; araç gittikten sonra kalıcı olan zarar da budur.
 
 **“Eleştirel değerlendirmeyi öğretmek yeterlidir.”** Gereklidir ve çok geç gelir. Makul bir cevap ekranda olduğunda değerlendirme, onaylamaya dönüşür; bu yüzden buradaki tasarım literatürü, öğrencinin denemesini sistemin çıktısından sonra denetlemek yerine önce onu koyar.
-
-## Bağlı kavramlar
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Çalışma kâğıdına temellendirilmiş bir asistan yük dışarı aktarmayı yükseltmek yerine düşürdü; teslimiyet imzası için bir sınır koşulu (Braun 2026)
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and the experimental signature of surrender
-- [[generative-ai-reduced-study-time-math]] — population-level displacement in ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — the surrender/offloading/agency framework in PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — instrumental versus judgment-bearing assistance
-- [[ai-advice-suppresses-ikt-suspension-2026]] — the collapse of \"I don't know\"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neural engagement and ownership
-- [[genai-thoughtless-use-self-directed-learning-2026]] — thoughtless use and self-directed learning
-- [[stamatoulis-genai-use-patterns-2026]] — low-verification uptake versus evaluative integration
-- [[cognitive-washout-ai-skill-decay-2026]] — what happens after withdrawal
-- [[ai-overreliance-complex-adaptive-system-2026]] — reliance as a population process
-- [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
-- [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistic whole-essay delegation: 15 of 77 essays entirely model-written, 20 requests for a complete essay (Jelson et al. 2026)

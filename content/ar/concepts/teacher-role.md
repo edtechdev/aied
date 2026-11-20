@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -200,87 +202,3 @@ ai_assist:
 **«المعلّمون مشاركون في التصميم بالفعل، فالتحوّل جارٍ.»** الطموح حقيقي، والوصف ليس كذلك بعد. فمراجعة [[wang-teacher-ai-co-design-review-2026|Wang وLiu وIslam (2026)]] المنهجية للتصميم المشترك بين المعلّم والذكاء الاصطناعي لمهام التعلّم تجد أن موقف المشارك في التصميم **ما زال متفاوتًا**، وأن النمط السائد ما زال الذكاء الاصطناعي كمساعد أو مولّد محتوى. وقراءة تلك المراجعة كدليل على تحوّل منجز ستُخفي الفجوة بين المعلّمين الذين توصي بهم صفحة كهذه والمعلّمين الذين تملكهم أغلب المؤسسات فعلًا.
 
 **«كيفية تفويض المعلّم لروبوت الحوار لا تكاد تهمّ، لأن النموذج هو من يقوم بالعمل.»** نمط التفويض هو التدخّل. ففي تخطيط دروس الفنون في STEAM للأطفال، وجد [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo وTahir (2025)]] تجريبيًا أن ملء فجوات المحتوى في درس *خطّطه المعلّم بنفسه* حافظ على استقلالية تصميم المعلّم مع رفعه جودة الخطة بتقييم الخبراء (الوسيط 20.5 مقابل 17.6، p = .002، أثر كبير)، متفوقًا على بديل ترك النموذج يقدّم الخطّة. النموذج نفسه، والمهمة نفسها، وتقسيم عمل مختلف، ونتيجة مختلفة جوهريًا.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[learner-identity]] — هويات متعلّم متطوّرة تخصصيًا ومهنيًا وإبداعيًا وأكاديميًا
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — مفهوم جامع: أصول التدريس واستراتيجيات التعليم في تعليم الذكاء الاصطناعي
-- [[stakeholders]] — مفهوم جامع: الناس والجماهير في تعليم الذكاء الاصطناعي (المتعلّمون، والمعلّمون، والمصمّمون، والإداريون، وواضعو السياسات)
-- [[reflection]]
-
-## المقالات المتصلة
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — أربع ديناميات هوية، وتباين منتج، والكلفة المؤسسية للعمل العلائقي
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 مدرسة ثانوية إنجليزية: تحضير الدرس هبط 25.3 دقيقة أسبوعيًا دون خسارة جودة مرصودة (Roy et al., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — تجربة ASSISTments: ملخّصات الذكاء الاصطناعي رفعت إكمال التكليفات لا درجات الصف (Lim et al., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — الأكاديميون غير المتفرّغين يحملون عمل النزاهة دون السلطة
-- [[teachers-instrumental-orchestration-ai-math-2026]] — ست دروس مُراقَبة في رياضيات المرحلة الثانوية تُوسّع التنسيق الأداتي بثلاثة أنواع جديدة (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — الاستجابة لتنبيهات انفعالية مولَّدة بالذكاء الاصطناعي: تدخّل المعلّمين وانخراط الطلاب في صف الرياضيات
-- [[edustories-classroom-case-studies-2026]] — Edustories: مجموعة دراسات حالة من العالم الواقعي من ممارسات الصف
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — المعلّمون يصمّمون روبوتات صفّية حواريّة كخبراء محدودي النطاق ويحتفظون بالسلطة
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — الذكاء الاصطناعي التوليدي كـ«عدو صديق»: المعلّمون يفضّلون نصف الاستقلالية، والفائدة تقود التبنّي، ونفور المخاطرة يستهدف استخدام الطلاب (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — قرارات المعلّم الجامعي المدعومة بالذكاء الاصطناعي في التعليم العالي
-- [[chirikov-regulate-ai-syllabi-2026]] — كيف ينظّم المعلّمون الذكاء الاصطناعي عبر 31,000 منهاج مقرر؛ التنظيم على مستوى المهمة (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — القيادة الفلسفية كدور تدريسي من ثلاث مراحل: حكم أخلاقي، وإرشاد تعليمي، وترجمة للسياسة (Socorro Márquez et al., 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — سلوك ابتكار التدريس بالذكاء الاصطناعي بين معلّمي الكليات (نموذج معادلات بنيوية AI-TPACK؛ Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — الذكاء الاصطناعي التوليدي كأزمة هوية، لا كفجوة مهارات
-- [[lodge-loble-cognitive-offloading-2026]] — الذكاء الاصطناعي والتفريغ المعرفي وانعكاساتهما على التعليم (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — الذكاء الاصطناعي وممارسة التصميم التعليمي: استعراض منهجي (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — هل يستطيع الذكاء الاصطناعي تقديم دعم مناسب لملامح طلاب متنوّعة؟ تقييم واسع النطاق
-- [[bozkurt-ghost-students-agentic-ai-2026]] — الطلاب الأشباح والذكاء الاصطناعي الوكيلي في التقييم
-- [[wang-teacher-ai-co-design-review-2026]] — التصميم المشترك بين المعلّم والذكاء الاصطناعي لمهام التعلّم: اتجاهات ووجهات نظر (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — تجارب المعلّمين الجامعيين وتصوّراتهم عن الذكاء الاصطناعي التوليدي: الهشاشة، وإعادة التفكير في التقييم، وتعلّم الطلاب في خطر (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — الأحكام القيمية في تصحيح العمل المُعان بالذكاء الاصطناعي التوليدي: الاستقامة، والثقة، والصدق، والشفافية المتبادلة (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — جعل نتائج تعلّم الآلة متاحة للمعلّمين في الصفوف المدمجة
-- [[li-language-educators-genai-review-2026]] — ممارسات معلّمي اللغات وتطوّرهم مع الذكاء الاصطناعي التوليدي
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — توتّرات الهوية والانتقائية المبدئية في التعليم المُدمَج مع الذكاء الاصطناعي (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — تدخّل المعلّم في التعليم المدرسي القائم على الذكاء الاصطناعي: استعراض منهجي
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — المطوّرون الأكاديميون كوسطاء رقميين: إعادة تشكيل الدور، والعمل الانفعالي، والحكم في مؤسسات جنوب إفريقية التي عانت إجحافًا تاريخيًا
-- [[where-ai-enters-teacher-work-2026]] — أين يدخل الذكاء الاصطناعي في عمل المعلّم
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED دون اتصال: المعلّم وسيطًا بين المتعلّمين والذكاء الاصطناعي، تجربة شبه عشوائية على 19 صفًّا تقودها التدريبات والتقليل غير المباشر للجهد (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — الحوكمة التعليمية بالتصميم: إطار للذكاء الاصطناعي في تعليم الحوسبة
-- [[teachers-configure-educational-chatbots-2026]] — هل سيُعلّم كما هو مقصود؟ كيف يُهيّئ المعلّمون روبوتات تعليمية حواريّة بالذكاء الاصطناعي
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — وساطة المعلّم في الرياضيات: خمس ممارسات وساطة نقدية، وتحوّل السلطة، والفجوة الخوارزمية بين الطبقتين المجانية والممتازة
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — جاهزية المعلّم بالتصميم: الجاهزية كقدرة تصميمية، لا كتبنٍّ أو ثقة (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — تغذية راجعة من المعلّم بمساعدة ChatGPT: المعلّمون ينتقون مسوّدات الذكاء الاصطناعي بدل نقلها
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — من الكفاءة إلى الفاعلية: وجهات نظر المعلّمين في أغراض تعليم الذكاء الاصطناعي
-- [[kuhail-great-debaters-ai-facilitators-2026]] — مُيسِّرو مناظرة بشر مقابل ذكاء اصطناعي: تقييمات متكافئة، وطرق مختلفة لإعادة الاستخدام
-- [[yalcin-genai-programming-education-systematic-review-2026]] — الذكاء الاصطناعي التوليدي في تعليم البرمجة: استعراض منهجي تكون فيه أدوار المعلّمين الأقلّ دراسةً
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — من مزوّدي المعلومات إلى مصمّمي التعلّم: ممارسات تدريس هيوتاغوجية في التعليم المعزَّز بالذكاء الاصطناعي
-- [[falhs-teacher-expertise-reflection-2025]] — كيف تُشكّل مستويات الخبرة التفضيلات واحتياجات التأمّل: نحو أنظمة تأمّل بالذكاء الاصطناعي تُمكّن المعلّم (Falhs وآخرون 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — لم يكن لاستخدام الذكاء الاصطناعي أثر مباشر في أداء المعلّم؛ وتوسطه سلوك المواطنة (Sherly وآخرون 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 حلقة تُظهر السلطة محفوظة أو مشاركة أو مُسندة في التخطيط للدروس بالذكاء الاصطناعي
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — تصوّرات الطلاب عن لوحات النقاش: دراسة نموذج قبول التقنية لإعلام تصميم تحليلات التعلّم بالذكاء الاصطناعي
-- [[gnadlinger-educator-perspectives-its-design-2026]] — نحو إدماج منظور المربّين في تصميم ما وراء نظام الأنظمة الذكية
-- [[chen-future-faculty-development-ai-2027]] — المعلّم قائد لأوركسترا خبرات الآخرين، والأدوار موزّعة على فريق تدريس
-- [[li-instructor-designed-ai-rct-2026]] — أدوات صمّمها المعلّم تحسّن التعلّم في تجربة عشوائية عبر 19 جامعة (Li et al., 2026)
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — مفارقة الأكثر إنسانية: سيناريوهات الخبراء لعام 2030 تجد أن إشباع الذكاء الاصطناعي يضاعف العمل التربوي البشري بدل أن يزيحه (Malyn-Smith et al., 2026)

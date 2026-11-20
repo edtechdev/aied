@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -92,9 +93,3 @@ Psykologiundervisere på alle karrieretrin og undervisere i nærliggende [[socia
 ## Noter og forbehold
 
 Gratis PDF, ingen konto. Ophavsretten tilhører STP, ikke en Creative Commons-licens: personlige kopier og kopier til klassebrug er tilladt med kildeangivelse, mens videredistribution eller kommerciel brug kræver forfatterens tilladelse. Kapitlerne er praktikerberetninger, ikke studier — ingen designs, stikprøver eller effektstørrelser — så behandl påstandene som erfaringsrapporter og citér kapitlerne individuelt.
-
-## Relaterede begreper
-
-- [[social-sciences-education]] — klyngesiden, hvis psykologiafsnit dette bind fylder med praksis på kursusniveau
-- [[ai-literacy]] — den udviklingsorienterede indramning, redaktørerne giver samlingen
-- [[academic-integrity]] — policy-kapitlets emne og grunden til, at flere kursuskapitler indbygger verifikationstrin

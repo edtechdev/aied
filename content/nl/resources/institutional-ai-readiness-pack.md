@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -37,6 +38,3 @@ Een **beoordelingssuite**: een zelfbeoordeling van institutionele AI-gereedheid 
 
 ## Voor wie het is
 Onderzoeksleiders, commissies en beleidskantoren die een op bewijs gebaseerd beeld nodig hebben van hoe AI wordt gebruikt en [[governance|bestuurd]] in een onderzoeksomgeving, en een manier om [[change-management|verandering]] in de tijd te volgen. Het hoort bij *Responsible AI in Academic Research: A Competency Framework for Research Training*, dat vijf dimensies van gereedheid definieert, en is geschreven door Michael J. Zyphur, directeur van Instats.
-
-## Gerelateerde concepten
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

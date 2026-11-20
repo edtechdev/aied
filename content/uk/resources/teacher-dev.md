@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -47,6 +48,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Зауваження та обмеження
 
 Темп — це і аргумент, і ризик. Одноденні збірки націлені на реальну проблему класу, а не на дослідницьке питання, тож ніщо тут не несе оцінювання, і твердження про те, що робить застосунок, слід перевіряти в класі. В організації на GitHub є тридцять два публічні репозиторії, тоді як галерея налічує 34, — усі під Apache-2.0 з доступним кодом, тож застосунок можна прочитати й розгорнути самостійно. Локально-первинний дизайн — це твердження, яке слід перевіряти для кожного застосунку, і вчитель має переконатися в ньому, перш ніж ставити будь-який інструмент для учнів перед класом.
-
-## Пов’язані поняття
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

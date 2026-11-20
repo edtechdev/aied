@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -52,7 +54,6 @@ AI پر اعتماد محسوس قابلیت، شفافیت، تسلسل اور 
 
 **خطرے کا ادراک اور اعتماد ایک دوسرے کی ضد نہیں۔** [[agentic-ai|ایجنٹک]] GenAI کے بارے میں [[higher-ed|اعلیٰ تعلیم]] میں 130 طلبہ کے ادراک کے مطالعے نے خطرے کا محسوس ادراک معتدل طور پر بلند پایا (M = 3.33, SD 0.89) اور ساتھ ہی زیادہ سازگار اعتماد اور قبولیت کا ارادہ (M = 3.62, SD 0.81)، اور — روک تھام کی سادہ توقع کے برخلاف — خطرے کے محسوس ادراک اور جاری استعمال کے ارادے کے درمیان ایک *مثبت* تعلق (Spearman's ρ = 0.317, p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]])۔ مصنفین اسے بے حسی کے بجائے باخبر قبولیت کے طور پر پڑھتے ہیں: مشغول یا تجربہ کار صارفین ٹیکنالوجی کی قدر اور حدود دونوں پہچانتے ہیں، اور صرف 45.4% نے کہا کہ وہ مدرس کی رہنمائی میں ایجنٹوں پر بھروسہ کرتے ہیں۔ [[trust-calibration]] کے لیے اس کا مطلب یہ ہے کہ خطرے سے واقفیت اعتماد کی عدم موجودگی نہیں — بلکہ اس کا ایک جزو ہو سکتی ہے — جبکہ کراس سیکشنل ڈیزائن واقفیت، نمائش اور خود انتخاب کو ایک دوسرے سے الگ نہیں کر پاتا۔
 
-
 AI پر اعتماد ایک واحد رویے کے بجائے تشخیص سے انحصار تک کے راستے کے طور پر برتاؤ کرتا ہے: AI سے محسوس بااختیاری اور محسوس خطرہ تقریباً خودمختار تھے (r=0.030) مگر اعتماد کو اُلٹ سمتوں میں حرکت دی (β=0.576 اور β=−0.328)، اور اعتماد نے GenAI پر انحصار کے ساتھ دونوں سمتوں میں نمایاں بالواسطہ تعلقات اٹھائے ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]])۔
 
 ایک ساختی ماڈل اس پُل کے کردار کو تجرباتی آزمائش فراہم کرتا ہے۔ [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] کے 642 یونیورسٹی طلبہ کے سروے میں، سیاقی معاونت نے اعتماد کی کیلبریشن کی پیشگوئی کی (β = 0.56)، اعتماد کی کیلبریشن نے [[collaborative-learning|اشتراکی]] [[regulation|ضابطگی]] (β = 0.49) اور محسوس [[transfer-of-learning|منتقلی]] کے فائدے (β = 0.22) کی پیشگوئی کی، اور سیاقی معاونت سے فائدوں تک براہِ راست راستہ نمایاں نہ تھا۔
@@ -62,7 +63,6 @@ AI پر اعتماد ایک واحد رویے کے بجائے تشخیص سے ا
 یہ تصور اُس گتانک سے زیادہ پتلا ہے جتنا وہ ظاہر کرتا ہے۔ یہ فن کی قدر کے ضمیمے کے ساتھ آلہ کار ٹیکنالوجی اعتماد ناپتا ہے — بیان کردہ خود اعتمادی، نہ کہ کیلیبریٹ شدہ اعتباریت — اور تصنیف کے دو آئٹمز 121 طلبہ کے پائلٹ میں اپنا الگ عامل بنانے کے بعد حذف کر دیے گئے۔ طالب علم اس ماڈل پر مناسب یا اندھا دھند بھروسا کر سکتا ہے، اور آلہ دونوں میں فرق نہیں کر سکتا۔
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] الگورتھم پر اعتماد کے **مجموعی کے بجائے فعل سے مخصوص** بیان کی تائید کرتے ہیں: نہ الگورتھم سے بیزاری اور نہ الگورتھم کی قدر شناسی ان 13 طلبہ کو بیان کرتی ہے، جنہوں نے بیک وقت سطحی فیڈبیک کے لیے ChatGPT پر بھروسہ کیا اور بطور گریڈر اس پر عدم اعتماد کیا۔ ان کا اعتماد مدرس کی نگرانی پر مشروط تھا، اور ان کا شک AI کی سیاقی حدود سے پیدا ہوا تھا — اسکین شدہ ہاتھ کی تحریر کو غلط پڑھنا ("اس نے میرا آخری نام غلط ہجے کیا اور سمجھتا ہے کہ میں نے ہجے میں غلطیاں کی ہیں جبکہ میں نے نہیں کیں")، مدرس کے درجہ بندی کے نظام سے ناواقفیت، اور مستقل مثبت رویہ — نہ کہ ٹیکنالوجی سے ڈر سے، جو تجویز کرتا ہے کہ اعتماد کے پیمانوں کو اس فعل کے حساب سے الگ کرنا چاہیے جو AI انجام دیتا ہے اور اس سے وابستہ داؤ کے حساب سے۔
-
 
 مآخذِ اعتبار کی تین جہتیں الگ الگ ہو سکتی ہیں: سترہ EFL انڈرگریجویٹ طلبہ نے ایک AI تحریری معاون کو وسیع مہارت دی، اس کے قابلِ اعتباری پر بنیادی طور پر اس بات کی وجہ سے شک کیا کہ پلیٹ فارم نے کیا محفوظ رکھا، اور اس کی خیر خواہی کو سب سے کم درجہ دیا - ان کے انحصار کی حد قابلیت میں نہیں، پروا میں تھی ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]])۔
 
@@ -83,7 +83,6 @@ AI پر اعتماد قومی استعمال کے ساتھ بھی نہیں چل�
 [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] استدلال کرتے ہیں کہ ڈیٹیکٹروں اور نگرانی پر انحصار شبہ کی ایسی فضا پروان چڑھاتا ہے جو جانچ اور ادارے پر طلبہ کے اعتماد کو کھا جاتی ہے — یعنی اس کے عین اُلٹ جسے دیانت کے عمل محفوظ رکھنے کے لیے بنائے گئے ہیں۔
 
 فیڈبیک باہمی اعتماد کا ایک اہم مقام ہے۔ [[genai-teacher-feedback-comparison|GenAI بمقابلہ استاد کے فیڈبیک کے بارے میں طلبہ کے ادراک]] پاتے ہیں کہ دونوں مختلف ضرورتیں پوری کرتے ہیں — تکمیلی مگر بدلے جانے کے قابل نہیں — اور طلبہ رشتوں اور شخصی فیصلے کے لیے استاد کے فیڈبیک پر، جبکہ [[generative-ai|GenAI]] پر رفتار اور [[accessibility|رسائی]] کے لیے بھروسہ کرتے ہیں۔ [[care-full-feedback-genai|فیڈبیک کا "پروا سے بھرا" بیان]] دلیل دیتا ہے کہ قابلِ بھروسہ فیڈبیک ایک [[ethics|اخلاقی]]، رشتوں پر مبنی مشق ہے: یہ تعلیمی رشتے بناتا ہے اور ایک پیشہ ورانہ ہنر کے طور پر قدر پاتا ہے، ایسی قدر جسے AI محض نقل نہیں کر سکتا۔ اسی لیے استاد اور طالب علم کا اعتماد — جو پروا اور پیشہ ورانہ فیصلے پر بنتا ہے — تب بھی مرکزی رہتا ہے جب AI فیڈبیک کے حلقے میں داخل ہوتا ہے۔
-
 
 ہم مرتبہ کا اعتماد مختلف راستے سے گزرتا ہے: 406 یونیورسٹی طلبہ میں سے جنہوں نے کسی یاد آئے ہوئے ہم جماعت کی درجہ بندی کی، اس ہم جماعت کا GenAI استعمال کم باہمی اعتماد سے وابستہ تھا، جو محسوس گرمجوشی اور قابلیت کے ذریعے منتقل ہوتا تھا، اور یہ منفی تعلق صرف اس وقت برقرار رہا جب محسوس [[ai-literacy|AI خواندگی]] کم تھی — زیادہ ہونے پر یہ غیر نمایاں تھا ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al. (2026)]])۔
 
@@ -123,52 +122,3 @@ AI پر اعتماد قومی استعمال کے ساتھ بھی نہیں چل�
 
 - اعتماد، خطرے کے ادراک اور مناسب انحصار کو الگ الگ تصورات کے طور پر رپورٹ کریں، کیونکہ یہ غیر واضح سمتوں میں — بشمول منفی سمت — ساتھ ساتھ بدلتے ہیں۔
 - خود رپٹ اعتماد کے ساتھ ساتھ رویے کا نتیجہ (غلط تجاویز کی قبولیت کی شرح) بھی رپورٹ کریں؛ صرف اعتماد کے پیمانے نتیجہ اُلٹ دیتے ہیں۔
-
-## منسلک تصورات
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — وہ سماجی خطرہ جس پر معیارات اور اعلان چلتے ہیں
-
-## منسلک مضامین
-- [[lucau-uneven-use-similar-trust-genai-2026]] — غیر مساوی استعمال، یکساں اعتماد: ڈنمارک اور رومانیہ میں جنریٹو AI (Lucau, Voicu & Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — خطرے کا محسوس ادراک جاری استعمال کے ارادے کے ساتھ مثبت طور پر متعلق: باخبر قبولیت (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — K-12 کلاس روم AI میں کنٹرول اور خودمختاری پر استاد اور طالب علم کے درمیان اعتماد کا فاصلہ
-- [[qu-wang-disclose-or-not-genai-2026]] — AI استعمال کا اعلان رشتوں کے عوامل اور اساتذہ کے ساتھ سکون سے چلتا ہے، پالیسی سے نہیں
-- [[genai-teacher-feedback-comparison]] — GenAI اور استاد کا فیڈبیک مختلف، تکمیلی اعتمادی ضرورتیں پوری کرتے ہیں
-- [[care-full-feedback-genai]] — قابلِ بھروسہ فیڈبیک بطور ایک "پروا سے بھری"، رشتوں پر مبنی مشق
-- [[ai-fallibility-warning-help-seeking]] — AI کی خطاپذیری سے خبردار کرنا ITS میں مدد طلب کرنے میں اضافہ کرتا ہے
-- [[calibrating-trustworthiness-llm-education-2026]] — تعلیم میں LLMs کے لیے قابلِ اعتباری کے معیار اور بصریات کی مشترکہ ڈیزائننگ
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI پر حد سے زیادہ انحصار کو ایک پیچیدہ موافق نظام کے طور پر ماڈل کیا گیا
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — طبیعیات کے AI اوزاروں میں اعتماد اور افادیت کا فاصلہ
-- [[t2i-competence-paradox-2026]] — AI تصویر کی پیداوار میں قابلیت کا تضاد
-- [[task-context-trust-educational-hri-2026]] — تعلیمی روبوٹوں میں ظاہری شکل سے زیادہ کام کا سیاق اعتماد تشکیل دیتا ہے
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — AI کے واسطے سے سیکھنے میں اوتار کی شناخت اور علمی اعتماد
-- [[contextual-sycophancy-ai-literacy]] — سیاقی خوشامد اور اعتماد کی کیلبریشن کے لیے اس کی حدیں
-- [[sycophantic-ai-social-interaction-2026]] — خوشامدی AI وقت کے ساتھ انسانی تعامل کو کم تسلی بخش بنا دیتا ہے
-- [[ai-pedagogical-accompaniment-amico]] — جواب دہ تدریسی وساطت اور AI سے فعال نظاموں میں اعتماد
-- [[best-response-student-ai-dialog-2026]] — طالب علم اور AI کے مکالمے میں اعتماد
-- [[ai-adaptation-gap-higher-education-2026]] — اعلیٰ تعلیم میں AI اعتماد کا سب سے مضبوط پیشگوئی کرنے والا محسوس افادیت
-- [[bassett-ai-detectors-education-2026]] — AI پکڑ کے نظاموں پر اعتماد اور عدم اعتماد
-- [[genai-use-usefulness-student-experience-australia-2026]] — آسٹریلوی اعلیٰ تعلیم میں GenAI کی افادیت کا طالب علم تجربہ (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس روموں کے اساتذہ کے لیے ML کی دریافتوں کو قابلِ رسائی بنانا
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کسے جانچنا چاہیے؟ اعلیٰ تعلیم میں شفاف AI کی معاونت والی تحریری جانچ کے بارے میں طلبہ کے نقطہ نظر
-- [[trust-in-ai-psychological-profiles-ml-2026]] — تین طالب علم پروفائل جن میں AI اعتماد آبادیاتی خصوصیات کے بجائے لچک اور دباؤ کی پیروی کرتا ہے (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — محدود انحصار: AI سے پیدا شدہ تحریری فیڈبیک کے ساتھ EFL طلبہ کی مشغولیت کا مآخذِ اعتبار کا نقطہ نظر
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — بااختیاری اور خطرے کی تشخیص نے اعتماد کو اُلٹ سمتوں میں حرکت دی، اور GenAI پر انحصار اٹھایا
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — ہم جماعتوں کا GenAI استعمال محسوس گرمجوشی اور قابلیت کے ذریعے باہمی اعتماد کم کرتا ہے، اور AI خواندگی اسے روکتی ہے
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — اعتبار کے اشاروں نے غلط AI موقف کی طرف تبدیلی بڑھائی؛ سفارش روک لینے نے اسے دبا دیا
-- [[trust-calibration-genai-collaborative-regulation-2026]] — ایک ساختی ماڈل اس پُل کے کردار کو تجرباتی آزمائش دیتا ہے
-- [[zhu-creative-agency-trust-genai-art-2026]] — فن کے طلبہ کے لیے GenAI استعمال کرنے کے ارادے کا سب سے مضبوط پیش گو بطور آلہ کار اعتماد

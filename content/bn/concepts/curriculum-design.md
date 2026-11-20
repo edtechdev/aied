@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -105,58 +107,3 @@ K-12 এমএল কার্যক্রম-নকশা পৃষ্ঠেই
 - **"একটি [[llm|এলএলএম]] উচ্চ নির্ভরযোগ্যতায় একবার বৈধায়িত হলে পাঠ্যক্রম মানচিত্র করতে পারে।"** GPT-o3-mini **48টি মূল্যায়নের প্রতিটির জন্য সাতটি উদ্যোগ-দক্ষতা জুড়ে 100% বিতরণ** করেছে, বিশেষজ্ঞ-ভারায়নের বিপরীতে **0.81 ক্রিপেনডর্ফ আলফায়** পৌঁছেছে — অথচ নির্দিষ্ট দক্ষতায় **মিল** ভেঙে পড়েছে। উচ্চ সামগ্রিক নির্ভরযোগ্যতা সঙ্গে অসম মিল — মানচিত্রণে ভরসা করার আগে এটিই যাচাই করার ধরন।
 - **"এআই-সাক্ষরতা গাঁথা মানে একটি কোর্স যোগ করা।"** LearnAI গাঁথা রূপটি দেখায়: **পাঁচটি শাস্ত্র জুড়ে 18টি বিদ্যমান কোর্সের ভেতরে (293 শিক্ষার্থী) সংক্ষিপ্ত উপস্থাপনার একটি বিস্তৃত-প্রকাশ স্তর**। প্রকাশ একটি ইউনিটে জমা না করে পাঠ্যক্রম জুড়ে বিতরণ করা হয়েছিল।
 - **"শিক্ষার্থীরা ইতিমধ্যেই মিডিয়া সমালোচনামূলকভাবে মূল্যায়ন করতে পারে।"** **সমীক্ষিত শিক্ষা ও সাংবাদিকতা শিক্ষার্থীদের মাত্র 13.8%** বলেছেন তাদের কোর্সকর্ম সমালোচনামূলক মিডিয়া-বিশ্লেষণ নিয়ে কাজ করেছে, অথচ **97.8% এটিকে গুরুত্বপূর্ণ বলেছেন**। দক্ষতাকে মূল্য দেওয়া আর তা শেখানো হওয়ার মধ্যেকার ফাঁকটাই পাঠ্যক্রমিক সুযোগ।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-partnerships]] — শিক্ষাবিদ্যাগত অংশীদারিত্ব
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাবিদ্যা ও শিক্ষণ-কৌশল
-- [[recommender-systems-and-learning-paths]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — স্বীকৃতির জন্য ভারায়িত, বিশেষজ্ঞ-বৈধায়িত দক্ষতা-মানচিত্রণ
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — গঠনমূলক সামঞ্জস্যের জন্য জেনএআই-নির্দেশনার সমালোচনামূলক বয়ান-বিশ্লেষণ (ম্যাকইনেস প্রমুখ 2026)
-- [[icet-ml-education-trust-2026]] — শিক্ষার মাধ্যমে এআই ব্যবস্থায় আস্থা: একটি শিক্ষণীয় দৃষ্টিভঙ্গি
-- [[refrain-amplify-genai-curriculum-2026]] — জেনএআই ক্রমে সাজানোর বিরত-তারপর-বাড়াও পাঠ্যক্রম কাঠামো (তোরেস-সাহলি প্রমুখ 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — তাপ-প্রকৌশলে প্রকল্প-ভিত্তিক এআই শিক্ষা পাঠ্যক্রম
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — এআই-যুগে স্মার্ট উৎপাদনের জন্য Workforce Readiness Level কাঠামো
-- [[rewriting-curriculum-genai-pedagogy-2026]] — পাঠ্যক্রম পুনর্লিখন: জেনএআই-চালিত শিক্ষাবিদ্যাগত পরিবর্তন
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — এআই দক্ষতা কাঠামো: পাঠ্যক্রম-মানচিত্রণের জন্য 26টি মূল্যায়নযোগ্য দক্ষতা
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: শাস্ত্র জুড়ে যথাসময়ে এআই সহসৃজন
-- [[ai-video-dual-gatekeeping-2026]] — যখন না বলা ভালো ভিডিও তৈরি করে: শিক্ষাবিদ্যাগতভাবে ভিত্তিক এআই বিষয়বস্তু-সৃষ্টিতে দ্বৈত দ্বাররক্ষা
-- [[niri-steam-ai-literacy-review-2026]] — এআই-সাক্ষরতার জন্য STEAM শিক্ষা: পদ্ধতিগত পর্যালোচনা
-- [[caruana-pre-university-ai-education-slr-2026]] — এআই-চালিত ভবিষ্যতের জন্য শিক্ষার্থী ও শিক্ষক প্রস্তুত করা: বিশ্ববিদ্যালয়-পূর্ব এআই শিক্ষার SLR (কারুয়ানা প্রমুখ 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — গাণিতিক মডেলিং সমস্যা উৎপাদনে এআই-চালিত প্ল্যাটফর্ম (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — কণা-পদার্থবিজ্ঞান শিক্ষায় এআই: গবেষণা-সমস্যা ও ভিত্তি-দক্ষতা
-- [[computing-assessment-genai-workshop-report-2026]] — এআই আপনার হোমওয়ার্ক করতে পারে। এখন কী? জেনারেটিভ এআই-যুগে কম্পিউটিং মূল্যায়ন নিয়ে অনলাইন কর্মশালার প্রতিবেদন
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - সক্ষমতা-কাঠামো পাঁচ মাত্রায় মিলে যায়, অথচ ভাগাভাগি শব্দভাণ্ডার বা ক্রসওয়াক নেই
-- [[bursic-ai-residency-education-curriculum-2026]] — রেসিডেন্সি পাঠ্যক্রমে এআই সংযোজনের বাধা: বারোজন চিকিৎসক-নেতার সঙ্গে গুণগত সাক্ষাৎকার

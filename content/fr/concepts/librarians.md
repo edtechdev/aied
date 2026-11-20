@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -78,34 +80,3 @@ Deux autres fils fixent les limites du rôle. [[pearls-epistemic-verification-20
 **« La littératie informationnelle est une séance d'accueil ponctuelle. »** C'est un enseignement, pas une assistance : les questions avec lesquelles les étudiants arrivent sont des problèmes d'évaluation et de stratégie — cette source est-elle crédible, comment dois-je chercher ceci — qui sont des compétences enseignables plutôt que des transactions à accomplir. Traiter le service comme une assistance transforme un curriculum en guichet d'aide et fait perdre la capacité durable.
 
 **« Qui paie pour la vérification est le problème de quelqu'un d'autre. »** La charge de consultations retombe sur les effectifs de la bibliothèque, et la question posée par l'article lui-même est de savoir si demander aux bibliothèques de l'assumer dépasse leurs effectifs. La co-conception et le partenariat sont les réponses que recommande la littérature précisément parce que le coût de vérification est réel et retombe sur une unité qui ne l'avait pas budgété.
-
-## Concepts liés
-
-- [[ai-literacy]]
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Articles liés
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Plateforme de séminaire à bibliothécaire intégré ; 312 consultations dominées par l'évaluation des sources
-- [[genai-academic-search-workshop]] — Atelier CHIIR 2026 sur l'IA générative et la recherche académique ; le fossé de confiance entre bibliothécaires
-- [[maybee-disruptive-partnerships-sap-2025]] — Des bibliothécaires universitaires co-concevant la littératie en IA avec les étudiants comme partenaires
-- [[aarc-ai-research-competency-2026]] — Vérifier, citer, réfléchir comme engagements de recherche enseignables
-- [[pearls-epistemic-verification-2026]] — Protocole de vérification à six dimensions ; l'accès et la légitimité comme filtres
-- [[hingle-collaborative-ai-literacy-2025]] — Apprentissage collaboratif pour la littératie en IA ; les bénéfices de la littératie informationnelle se transfèrent
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Les enseignants classent l'attribution et l'usage responsable au premier rang, mais enseignent peu des 26 compétences
-- [[bird-multimodal-educational-literature-2026]] — Outil de complexité textuelle construit pour des utilisateurs non techniques tels que les enseignants d'anglais et les bibliothécaires
-- [[cognitive-offloading-llm-synthesis-writing]] — Ce que les apprenants délestent lorsque l'IA synthétise les sources à leur place
-- [[citation-errors-hallucinations-computing-education-2026]] — Les citations fabriquées et erronées comme problème de vérification

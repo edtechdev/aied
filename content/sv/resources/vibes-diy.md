@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -43,7 +44,3 @@ Det är en allmän byggare snarare än en utbildningsprodukt: den är användbar
 ## Anteckningar och förbehåll
 
 Plattformen har en gratisnivå men den är kreditbaserad: konton får 1 000 AI-krediter i månaden, och byggande, redigering, bildgenerering och AI-funktioner i appen förbrukar dem alla. En prenumeration tillför möjligheten att köpa fler krediter, som inte löper ut. Varje kurs som avser att förlita sig på plattformen bör kontrollera de aktuella villkoren, eftersom gratis användning mäts och inte är obegränsad, och bör behandla elevskapade appar som innehåll med sina egna frågor om datahantering.
-
-## Anslutna begrepp
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

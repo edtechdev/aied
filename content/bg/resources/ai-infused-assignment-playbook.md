@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -47,16 +48,3 @@ ai_assist:
 ## Бележки и предупреждения
 
 Това е практическо ръководство, а не емпирично изследване; твърденията му за използването на AI от студентите почиват на цитирани външни източници (BestColleges, Campbell, Digital Education Council, Flaherty), а не на нови данни. Рамката „изграждане на мрежи" и формулировката „илюзия за разбиране" са взети от по-широката литература (Wigmore et al.; Williamson et al.) и се представят като педагогическа обосновка, а не като проверени резултати от самия наръчник. Заданията са авторски шаблони — нито едно не се съобщава с размер на ефекта, така че трябва да се третират като проекти за адаптиране и местна оценка. Публикуван на 2026-10-07, v1, в Zenodo под CC BY 4.0; безплатно за изтегляне без акаунт. Към момента на въвеждане записът показва само ~35 прегледа и ~14 изтегляния, така че все още е видял малко външна употреба или рецензиране.
-
-## Свързани понятия
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

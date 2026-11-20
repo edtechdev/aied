@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -46,10 +47,3 @@ ai_assist:
 ## 备注与注意事项
 
 免费涵盖的是软件，而非推理：学习者自带供应商密钥、订阅、本地 Claude Code CLI 或任意 OpenAI 兼容端点，并直接向供应商付费、没有加价；实时计量器只估算已知的 API 成本。记录、对话与密钥都以纯文件形式留在本机，但项目警告说本地存储并不等于离线处理，因为模型请求、可选的口述以及网络研究都会触达外部服务。Windows x64 安装包未签名，因此 Windows 会给出警告。没有报告任何有效性研究，因此该案例依据的是所陈述的理据，而非实测结果；2026 年 11 月 2 日核查时，该仓库约有 4,800 颗星。
-
-## 关联概念
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

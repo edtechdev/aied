@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -42,7 +43,3 @@ Najczystszym przykładem jest `teach`, która działa przez wiele sesji i traktu
 ## Co warto wiedzieć przed wdrożeniem
 
 Wszystko jest [[open-source|otwartoźródłowe]] na licencji MIT i wolne do wzięcia jako punkt wyjścia dla lokalnych [[ai-literacy|kompetencji w zakresie SI]] albo [[self-directed-learning|samodzielnej nauki]]. Przyjęcie jest duże i szybkie: około 270 000 gwiazdek i 23 000 forków w chwili sprawdzania we wrześniu 2026, z ostatnim commitem 18 września 2026. Zastrzeżenie dotyczy zakresu. Umiejętności zakładają kontekst pracy [[human-ai-collaboration|inżyniera]], są uporządkowane w kubełki inżynierii, produktywności, wycofanych i w toku, więc część pozycji jest wyraźnie niedokończona lub wycofana, a README służy zarazem jako zapis do newslettera. Umiejętności nauczania i wypytywania traktuj jako część przenośną i zakładaj, że każdą przepiszesz, zanim postawisz ją przed studentami.
-
-## Powiązane pojęcia
-
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

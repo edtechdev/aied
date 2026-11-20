@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -74,32 +76,3 @@ AI 教育におけるサステナビリティは、重なり合う3つの枠組�
 - **「抽象的なAIの知識が、教師がサステナビリティを教える能力を予測する。」** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]]は、科学とグリーンエネルギーの文脈における教師の**AIの実践的な利用**と、**ESDに沿った教材の開発への関与**が、**抽象的なAIの知識や態度よりも**、その能力を予測することを見出しました。AIについて知ることと、それで作れることは分かれ、実践的な経路の方が多くを予測しました。
 - **「サステナビリティの教授法の下でのAI支援の教授設計は、サステナビリティの教授法を生む。」** 同じ研究は、持続可能な開発の教授法の下でのAI支援の[[learning-design|教授設計]]が、設計を広げるのではなく特定の仕方で**制約した**ことを見出しました。従来の教材で訓練されたモデルは、設計の作業がそれを補正しない限り、従来の枠づけを再生産します。
 - **「サステナビリティは話題であり、横断的なテーマではない。」** 両方の経路が水準をまたぐため、サステナビリティは[[higher-ed|高等教育]]、K-12、専門職の文脈に現れます。つまりそれは、独立した科目として教えるのではなく、各学問分野の内側で扱わなければならない基礎的なテーマなのです。
-
-## 関連する概念
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## 関連する記事
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — ウェアラブルEDAとAIが生成した汚染の画像は覚醒水準を高めたが、環境スチュワードシップは測定していない（Lim et al., 2024）。
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為という枠組みではなくパートナーシップの倫理こそが、機関としてのgenAIに関する意思決定を導くべきだと論じる、スウェーデンでの質問紙調査およびフォーカスグループ研究。
-- [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育における持続可能性のためのAIと持続可能なAIに関するスコーピングレビュー。
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 持続可能な教育とAIに対する価値批判的アプローチ。
-- [[liu-ai-sustainable-engineering-education-2026]] — 持続可能な工学教育のためのAI-SEEフレームワーク。
-- [[riandi-teacher-ai-green-energy-education-2026]] — グリーンエネルギー教育におけるAI統合への教師の関与。
-- [[talebzadeh-ai-green-education-2026]] — グリーン教育におけるAIの役割。
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 持続可能なAIに関する知識ベースアシスタント。
-- [[llm-environmental-impact-student-usage-2026]] — LLM利用の環境影響。
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体化された知能を通じて持続可能な学習を育む。
-- [[caruana-pre-university-ai-education-slr-2026]] — 大学前段階のAI教育に関するSLR（SDG 4の枠組み）。

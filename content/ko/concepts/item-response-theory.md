@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -69,37 +71,3 @@ IRT는 [[educational-measurement]]와 [[assessment-validity]]의 기반이며, [
 - **"대부분의 모형이 통과하는 벤치마크는 좋은 벤치마크다."** 기준 정렬 벤치마크는 **포화**될 수 있습니다. NGSS 정렬 중학교 및 고등학교 과학 세트에서 **대부분의 오픈 가중치 모형이 90% 이상**을 기록해 고전적 문항 지표가 빈약해졌습니다. 포화는 모형이 뛰어나다는 뜻이 아니라 문항이 더는 변별하지 못한다는 뜻입니다.
 - **"문항 난이도는 문항의 내재적 속성이다."** 데이터셋마다 **시험 문항 50개를** 가설 쪽으로 또는 반대로 편집한 인과적 탐침은 **난이도를 높이는 편집이 GSM8K와 BBH-structured에서 평균 정확도를 15.27과 23.88 퍼센트포인트 낮췄다**고 발견했습니다. 난이도는 문항과 모형 사이의 관계이며, 문항이 바뀌면 함께 움직입니다.
 - **"IRT는 학습자 채점에만 쓰인다."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]는 **사전 검사 고정 문항이 있는 베이지안 계층적 2PL 모형으로 1,686명의 학생을 배치**하는데, 이는 학생을 위한 채점이 아니라 평가 자체를 위한 품질 보증입니다.
-
-## 연결된 개념
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## 연결된 문서
-
-- [[explaining-question-difficulty-natural-language-2026]] — IRT와 인과적 편집을 통한 자연어로의 LLM 문항 난이도 설명 (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — 문항 작성 결함이 IRT 난이도와 변별도에 미치는 영향 (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — 학생 역량 평가를 위한 지원 개입의 인과 모델링
-- [[assessment-latent-structure-human-llm-2026]] — 평가 도구는 인간과 LLM에 대해 같은 것을 측정하는가? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI가 생성한 시험의 대규모 IRT 현장 검증
-- [[jin-glat-genai-literacy-assessment]] — GLAT는 IRT/2PL 검증을 사용한다 (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — LLM의 문항 난이도 예측
-- [[llm-psychometric-calibration-cdp]] — 심리측정 보정에 LLM 평가를 맞추기
-- [[llm-difficulty-calibration-programming-exams-2026]] — 프로그래밍 시험에서의 LLM 난이도 보정
-- [[multimodal-item-parameter-estimation-2026]] — 멀티모달 문항 모수 추정
-- [[huang-interpretable-knowledge-tracing-2026]] — 해석 가능한 지식 추적
-- [[irt-human-genai-mcq-responses]] — 인간과 생성형 AI 객관식 응답을 구분하기 위한 IRT 사용
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 머신러닝을 사용한 문항 난이도 추정
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID 임베딩을 넘어: 인지 진단을 위한 과정 기반 언어 모델링
-- [[bayesian-consensus-irt-item-banks-2026]] — 계속 진화하는 IRT 문항 은행의 베이지안 합의 보정 (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사 AI 리터러시 도구에서 IRT/Rasch가 주된 검증 증거로 드물게 사용됨을 보여주는 현장 감사
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 향상을 낳는다
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — 질문과 튜터링 대화를 위한 통합 반응 프레임워크
-- [[llm-benchmark-secondary-science-topics-2026]] — 기준 정렬 벤치마크는 포화될 수 있습니다

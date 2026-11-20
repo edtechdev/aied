@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -101,31 +103,3 @@ ai_assist:
 **"个性化意味着把难度适配到每个学习者。"** 这只是两种互不兼容含义中的一种，把它们混为一谈会掩盖一个政治选择。在第一种含义中，结果被固定，只有路径变化，其谱系从 Skinner 的教学机器延伸到基于掌握度的辅导。在第二种含义中，结果本身多样化，学习者不受标准课程约束地追求个人兴趣（Zhao, 2024）。一个 [[intelligent-tutoring|ITS]] 实现第一种；[[constructivist|建构主义]]实现第二种。一个被描述为"个性化"的工具，在你弄清它指哪一种之前，并没有告诉你任何东西。
 
 **"'人工智能'只是这个领域显而易见的名字。"** 这个术语是一个刻意选择。McCarthy 在规划 1956 年达特茅斯项目时，部分出于让这项工作与 Wiener 的模拟反馈传统拉开距离的考虑，更偏好*人工智能*而非*控制论*。那一个决定把机器置于与人类认知直接比较的框架中，而它所安装的拟人化框架，至今仍塑造着研究优先级、产品语言以及公众所追问的伦理问题。
-
-## 关联概念
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## 关联文章
-
-- [[mishra-control-vs-agency-history-2025]] — 控制对能动性：AI 教育史的探索
-- [[prezenski-human-centered-ai-aided-learning]] — 以人为本的 AI 辅助学习（触及 Anderson 的遗产）
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地与 AI 专长（历史框定）
-- [[programming-its]] — 智能辅导系统的编程
-- [[lak2026-hint-button-unproductive-use]] — 重访认知导师中的提示按钮
-- [[socrates-students-instructors-llms-lbt-2025]] — 与 LLM 的通过教学学习（Papert 建构主义谱系）
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — 《Computers & Education》五十年的主题：AI 占比在 2018 年后转为上升，比 ChatGPT 早四年
-

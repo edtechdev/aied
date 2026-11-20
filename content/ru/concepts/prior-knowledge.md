@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -71,34 +73,3 @@ ai_assist:
 **«Студентам с меньшими предшествующими знаниями нужно больше поддержки ИИ».** Это направление с наибольшей вероятностью расширит разрыв, поскольку измеренная картина отгрузки концентрирует потерю авторства там, где предшествующие знания тоньше. Поддержка, которая выдаёт работу учащемуся, наименее оснащённому обнаружить подмену, убирает ту деятельность, которая построила бы недостающее знание.
 
 **«Предшествующие знания — фиксированный вход, который курс не может сдвинуть».** Это наиболее тяжело взвешенный фактор нового обучения, что делает их построение задачей с наибольшим рычагом, а не фоновым условием, — причина, по которой предметное знание является интервенцией само по себе, а не просто ковариатой.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: зонтичная концепция для понятий со стороны учащегося
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Продуктивная неудача
-- [[retrieval-spacing-interleaving]] — как то, что учащийся уже знает, определяет то, что может дать практика извлечения
-
-## Связанные статьи
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Напряжение между автоматизацией и обучением (риск активации предшествующих знаний)
-- [[genai-mindtool-generative-learning]] — Генеративный ИИ как ментальный инструмент: прайминг и активация предшествующих знаний
-- [[nie-personavlm-long-term-personalization-2026]] — Моделирование и память студента на базе LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble о когнитивном перекладывании
-- [[cognitive-offloading-llm-synthesis-writing]] — Когнитивное перекладывание в написании синтезирующих текстов с LLM
-- [[bridging-instructional-design-framework-math]] — Рамка учебного проектирования для математики
-- [[knowledge-building-tutor-learning-2026]] — построение знаний, а не предшествующие знания, предсказывает обучение тьюторов, и тьюторы с низким уровнем предшествующих знаний, строящие знания, догоняют остальных
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Предшествующие знания несли посттест (η²p = .63), тогда как адаптивный отбор задач не нёс ничего (Sibley et al. 2026)

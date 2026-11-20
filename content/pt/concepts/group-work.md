@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -118,42 +120,3 @@ O [[breideband-community-builder-cobi-2026|CoBi]] detecta discursos de pequenos 
 **"A IA ajuda mais quando coordena o grupo."** O apoio à coordenação e o apoio epistêmico puxam em direções opostas. Reduzir o custo de coordenação da colaboração pode baixar a pressão sobre o grupo para negociar significado, que é o processo avaliado. A compensação entre eficiência e regulação é a tensão central de desenho, e não um detalhe de implementação.
 
 **"O trabalho em grupo é difícil por causa das pessoas."** Parte disso é desenho de tarefa, e é por isso que a IA muda o perfil de dificuldade em vez de simplesmente aliviá-lo: uma ferramenta que responde perguntas rápido muda em que o grupo gasta seu tempo, e se isso é uma melhoria depende de quais habilidades a tarefa foi construída para desenvolver.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — Roteiros de papel para grupos que compartilham uma IA
-- [[ai-education]] — IA na educação (guarda-chuva)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Artigos conectados
-
-- [[nixon-social-cost-ai-teammate-2026]] — O companheiro de equipe de IA toma o maior tempo de fala, e a responsividade e o pertencimento entre humanos caem (Nixon et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Três padrões de autonomia do estudante na avaliação em grupo mediada por IA generativa
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Autonomia emergente de quem aprende quando a IA entra em um grupo: personas solidárias versus contrárias
-- [[genai-counter-learner-groupthink-2025]] — Um agente de IA que injeta controvérsia para contrariar o groupthink em equipes de ABP
-- [[xu-genai-collaborative-space-2026]] — Acesso compartilhado versus privado à IA generativa em uma equipe
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Modos de colaboração e a compensação entre desempenho na tarefa e autorregulação
-- [[golrang-propact-pair-programming-2026]] — ProPACT: tratando a díade como unidade de análise na programação em pares
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Mediação por IA da revelação de pressupostos em equipes de estudantes interdisciplinares
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs como parceiros de crítica: a refutação ativa preserva o conflito cognitivo
-- [[polished-artifacts-fragile-engagement-2026]] — Artefatos polidos, engajamento epistêmico frágil
-- [[breideband-community-builder-cobi-2026]] — Analítica de discurso no nível da turma para colaboração em grupo
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — A IA como mediadora pedagógica da colaboração
-- [[neurodivergent-computing-students]] — Exigências de estudantes neurodivergentes para a aprendizagem colaborativa
-- [[academic-league-of-ai-2026]] — Governança democrática dos estudantes e equipes de projeto para a educação em IA
-- [[teacher-student-agency-orchestration]] — Coorquestração da autonomia do professor e do estudante em tempo real
-- [[dollinger-equitable-assessment-ai-2026]] — Avaliação equitativa na era da IA
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: facilitando a educação em ética baseada em grupos com dramatização de papéis e discussão para reflexão e exploração éticas

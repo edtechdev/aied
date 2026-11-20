@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -86,37 +88,3 @@ ai_assist:
 - **"לחוש את התופעה פירושו להבין אותה."** פיילוט מצא שסטודנטים דיווחו על **הרגשה** של אורך גל ואמפליטודה דרך מחוות יד בעוצמה גדולה יותר מאשר דרך מחוון — אך **הוא מדד תפיסה, לא הישג**. התחושה המורגשת היא מה שהמודאליות מעניקה, והאם היא הפיקה הבנה הוא מבחן נפרד.
 - **"ציוני שמישות גבוהים מאמתים כלי VR חינוכי."** ב**מפגש בן שעה עם 10 סטודנטים** על Meta Quest 3, המחקר דיווח על **שמישות טובה בסולם השמישות של המערכת ובחילת סימולציה מינימלית**. שמישות ונוחות הן תנאים מקדימים, ואף אחת מהן אינה מדד למידה.
 - **"הסכמת הסטודנטים היא ראיה לתועלת המודאליות."** עם **29 סטודנטים בשנה שנייה לדימות רפואי**, כל 29 **הסכימו שהמחווה עזרה להם "לחוש" מהו אורך גל (ממוצע 4.52)**. הסכמה פה-אחת לגבי תחושה היא דיווח עצמי על חוויה, וטענת התועלת צריכה תוצאה שאינה תלויה בשיפוט הלומד על הבנתו.
-
-## מושגים מחוברים
-
-- [[simulation]] — מה שסביבות סוחפות מציגות בדרך כלל; המודל, לא המודאליות
-- [[embodied-learning]] — המנגנון שהמודאליות אמורה לנצל
-- [[multimodal]] — מחווה, קול וקלט מרחבי כערוצי למידה
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — ההקשר שבו תרגול סוחף מבוסס ביותר
-- [[generative-ai]] — שכבת היוצר החדשה
-- [[prompt-engineering]] — כיצד בלתי-מתכנתים בונים ומכווננים כלים סוחפים
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — עיגון הדרכה בתוך הקסדה
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — נאמנות, ומודעות הלומד לגבולותיה
-- [[cognitive-offloading]] — השהיה ואי-יציבות כעומס זר
-- [[edtech-platform]] — סינכרון, השהיה ונוכחות רב-אתרית
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## מאמרים מחוברים
-- [[genai-ar-physics-simulation-prompt-2026]] — הנחיה של ארבעה אלמנטים המייצרת סימולציות פיזיקת AR בעלות-בקרת-יד; פיילוט בן 29 סטודנטים, ראיות תפיסה-בלבד
-- [[mixed-reality-engineering-learning]] — אפליקציות מציאות-משולבת לעומת ערכות כלים פיזיים לעומת כיתה במכניקת הנדסה; מעורבות עולה, מחשה מורכבת עדיין קשה
-- [[medgame-llm-medical-education-gamification]] — אימון רפואי מגיימיפי עם בינה מלאכותית
-- [[tech-enhanced-tabletop-cybersecurity-education]] — תרחישי tabletop מוגברים בחינוך סייבר
-- [[genai-xr-architectural-design-education-2026]] — בינה מלאכותית יצירתית ומציאות מורחבת בעיצוב אדריכלי שיתופי: מחקר סטודיו אקספלורטורי
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: סטודיו עיצוב VR סוחף עם עוזר הוראה מגובה-מודל לשוני גדול, מוערך כנגד PBL מסורתי (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: הוראה רב-מודאלית בסיוע מודל לשוני גדול בחינוך תאורת במה ב-VR, והיכן העיגון קרס (Liang et al. 2026)

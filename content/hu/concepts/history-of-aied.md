@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -97,29 +99,3 @@ A [[generative-ai|generatív MI]] megjelenése — egy széles család, amely ma
 
 - A történeti korpuszokat viszonyítási alapként használja, ne a jelent tekintse az egyetlen elérhető összehasonlításnak. Az AIED 1985, 1993, 2021 és 2024 közötti anyagai és az IJAIED 2004, 2014 és 2021 közötti számai kész longitudinális mintát adnak a terület saját állításairól.
 - Hivatkozzon a leszármazásra, amikor újdonságot állít. Az az állítás, hogy egy rendszer „személyre szabja a tanulást” vagy „modellezi a tanulót”, csak egy adott korábbi hagyományhoz viszonyítva új, és a hagyomány dokumentált.
-
-## Kapcsolódó fogalmak
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Kapcsolódó cikkek
-
-- [[mishra-control-vs-agency-history-2025]] — Kontroll kontra ügynökség: a MI oktatásbeli történetének feltárása
-- [[prezenski-human-centered-ai-aided-learning]] — Emberközpontú, MI-támogatott tanulás (Anderson örökségét vizsgálja)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitív közjavak és MI-szakértelem (történeti keretezés)
-- [[programming-its]] — Intelligens tutorrendszerek programozása
-- [[lak2026-hint-button-unproductive-use]] — A tippgomb újragondolása a kognitív tutorokban
-- [[socrates-students-instructors-llms-lbt-2025]] — Tanulás tanítás által LLM-ekkel (Papert konstrukcionizmusának leszármazása)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — A Computers & Education ötven éve: a MI előfordulása 2018 után, négy évvel a ChatGPT előtt fordult felfelé

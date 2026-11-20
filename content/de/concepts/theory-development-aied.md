@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -125,54 +127,3 @@ Theorieentwicklung und [[philosophy-of-ai-in-education|die Philosophie der KI in
 **„Eine etablierte Theorie auf AI anzuwenden, ist Theorieentwicklung."** Das Problem der Theorienutzung sagt etwas anderes: Anwendung ist kein Fortschritt, und das wiederkehrende Muster des Felds sind entlehnte Konstrukte, die als Vokabular statt als prüfbare Vorhersagen verwendet werden. Die Unterscheidung ist wichtig, denn ein entlehnter Rahmen, der keine falsifizierbare Differenz erzeugen kann, ist Dekoration, nicht Theorie.
 
 **„Die bestehenden Taxonomien der pädagogischen Funktion von AI decken bereits ab, was diese Systeme tun."** Sie decken einen Großteil davon nicht ab. Unter 154 Publikationen mit einer klassifizierbaren Anwendungsfunktion **entzogen sich 90 (58,4 %) den vier Kategorien** des früheren Rahmenwerks, weshalb die neuere Arbeit die Funktion mit delegierter Kontrolle, epistemischer Haltung und eingebetteter Pädagogik verschränkt. Eine Taxonomie, die fast drei von fünf Fällen falsch klassifiziert, kann nicht als gemeinsames Vokabular des Felds dienen, und die Lücke ist ein Befund über das Phänomen und nicht eine Lücke in einem Papier.
-
-## Verbundene Konzepte
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Verbundene Artikel
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Erweiterung der funktionalen Taxonomie: 90 von 154 klassifizierbaren Publikationen (58,4%) fallen außerhalb der ursprünglichen vier Kategorien (Ranieri & Biagini 2026)
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Eine Mid-Range-Lerntheorie für Mensch-KI-Interaktion, mit vier Mechanismen und sechs testbaren Propositionen (Yan und Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisierung: adaptives Meisterlernen kann Übung stoppen, bevor Lernende wissen, wann sie eine Handlung zurückhalten sollten (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativismus als neue Lerntheorie
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Hin zu einer Theorie epistemischer Ko-Handlungsfähigkeit
-- [[du-yuan-epistemic-dependence-2026]] — Relationale epistemische Handlungsfähigkeit und die Grenze zwischen produktiver Verlässlichkeit und schädlicher Abhängigkeit (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Die abwesende kognitive Baseline (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitive Commons und Regeneration von Expertise
-- [[genai-performance-vs-learning]] — Leistung versus Lernen
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemische KI-Kompetenz (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Credential und kognitive Verantwortung
-- [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner in der Ko-Regulation
-- [[epistemic-proactivity-math]] — Epistemische Proaktivität in der Mathematik
-- [[strydom-human-gai-paradigms-2026]] — Sieben Mensch-GAI-Engagementparadigmen, gegründet in epistemologischen Überzeugungen
-- [[critical-thinking-paradox-genai-learning-2026]] — Das Critical-thinking-Paradox
-- [[dollinger-equitable-assessment-ai-2026]] — Gerechtes Assessment unter GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: wie KI menschliches Schlussfolgern umformt (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Community of Inquiry neu konzeptualisiert im Zeitalter generativer KI
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Hochschullehrkräften gegenüber GAI: Verwundbarkeit, Assessment neu denken, Lernen der Studierenden auf dem Spiel (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertionsbasierte Schemata für auditierbares Codieren pädagogischer Dialoge
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitiver Besitz: Konstruktdefinition, Grenzen und eine Forschungsagenda
-
-- [[synthetic-position-self-authorship-2026]] — Die synthetische Position: ein dialogisches-Selbst-Angebot, das synthetische Promotion und autorielle Suspension benennt, mit einer Crossover-Vorhersage
-- [[capability-decision-model-teacher-readiness-2026]] — Falsifizierbares fähigkeitszuerst-Modell zur Lehrkraftbereitschaft mit vier Widerrufungsbedingungen
-- [[ai-connectedness-adolescent-mental-health-2026]] — Verbundenheit mit künstlicher Intelligenz: ein dreidimensionales Konstrukt mit sechs falsifizierbaren Propositionen für spätere Prüfung
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitiver Partnerschaftszyklus
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Wünschenswerte Schwierigkeiten und produktives Scheitern angewandt auf interpretative Handlungsfähigkeit in Bildung im Ausland
-- [[webb-pck-genai-2026]] — Drei Vignetten und ein neues Konstrukt, Pseudo-cPCK, für Ausgaben, die kollektiv validiertes Wissen nachahmen, ohne dessen Legitimation zu tragen (Webb et al. 2026)

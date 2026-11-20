@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -44,7 +45,3 @@ Nauczyciele i [[learning-design|projektanci nauczania]] w K-12 i szkolnictwie wy
 ## Uwagi i zastrzeżenia
 
 Centrum jest wskazówką, a nie produktem zgodności: strona nie rości sobie zgodności z własnym celem WCAG 2.2 AA, na pytanie „czy użycie tych plików czyni moją stronę zgodną?” odpowiada nie, i mówi, że przegląd inżynierski nie zastępuje autoryzacji szkoły ani przeglądu prawnego. Półka bezpieczeństwa wskazuje axe-core, Gitleaks, ZAP i Playwright; to odniesienia, a nie dołączone oprogramowanie, a te inwazyjne są przeznaczone dla celu jednorazowego lub wyraźnie autoryzowanego. Czytanie nie wymaga konta. Przebudowa stron HTML wymaga Pythona i `markdown-it-py`, co jest zależnością budowania, a nie zależnością odwiedzającego. Repozytorium ma licencję MIT, natomiast grafiki osób trzecich i linkowane projekty zachowują własne warunki, opisane w `CREDITS.md`.
-
-## Powiązane pojęcia
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

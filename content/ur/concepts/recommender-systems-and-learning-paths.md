@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -96,42 +98,3 @@ PersonaPath ترتیب کے سوال کو آگے دھکیلتا ہے اور فی
 **"ویرل ڈیٹا ایک تکنیکی جھنجھٹ ہے۔"** اِس ادب میں ویرلتا کی سطح پر (0.9981) نظام تقریباً کچھ نہیں دیکھتا، جو کولڈ اسٹارٹ اور مقبولیت کے تعصب کو ٹیوننگ سے ٹھیک ہونے والی چیز کے بجائے ساختی بنا دیتا ہے۔ اُس اشارے پر تربیت یافتہ ری کامنڈر منظم طور پر وہی سامنے لائے گا جو پہلے ہی مقبول ہے، اور خاموش یا غیر معمولی سیکھنے والے وہی ہیں جنہیں وہ دیکھ نہیں سکتا۔
 
 **"وضاحت ایک رپورٹنگ خصوصیت ہے۔"** کسی سفارش کو استاد یا سیکھنے والا جانچ سکتا ہے یا نہیں، یہ جواز کی شرط ہے: جس راستے کو طالب علم جانچ نہ سکے وہ ایسا راستہ ہے جس پر وہ اعتراض نہیں کر سکتا، اور یہ انٹرفیس کا مسئلہ ہونے سے پہلے گورننس کا مسئلہ ہے۔
-
-## منسلک تصورات
-
-- [[knowledge-graph]] — تصورات، وسائل اور پیشگی شرائط کے تعلقات کی ساختہ نمائندگیاں
-- [[explainable-ai]] — وضاحت بطور ڈیزائن خصوصیت جو قابلِ فہمی اور بھروسے میں وساطت کرتی ہے
-- [[curriculum-design]] — ترتیب کے وہ فیصلے جنہیں ری کامنڈر ماڈل کرتے، نکالتے اور دہراتے ہیں
-- [[learning-design]] — سرگرمیوں کی منصوبہ بند ترتیب جس پر راستوں کے تجزیے کام کرتے ہیں
-- [[learning-analytics]] — سفارش کے پیچھے کا ڈیٹا اور طریقے، اور آڈٹ کا موضوع
-- [[cognitive-diagnosis]] — اُن علمی حالتوں کی تشخیص جو تدارک کے راستے بیجتے ہیں
-- [[knowledge-tracing]] — وقت کے ساتھ مہارت کا ماڈل بنانا تاکہ فیصلہ ہو سکے کہ سیکھنے والا کس چیز کے لیے تیار ہے
-- [[student-modeling]] — سیکھنے والے کی وہ نمائندگیاں جو سفارش استعمال کرتی ہے
-- [[personalized-learning]] — وسیع تر مقصد؛ یہ صفحہ انتخاب کے فیصلے کو ڈھانپتا ہے
-- [[adaptive-learning]] — حقیقی وقت میں موافقت کا طریقہ کار؛ یہ صفحہ درجہ بندی اور ترتیب کو ڈھانپتا ہے
-- [[intelligent-tutoring]] — وہ پلیٹ فارم جو سفارشات پر مکالمے میں عمل کرتا ہے
-- [[bias-mitigation]] — درجہ بندی اور نمائش میں انصاف کی مداخلتیں
-- [[equity-in-ai-education]] — سفارش کے معیار میں گروہی سطح کے فرق
-- [[human-in-the-loop-ai]] — خودکار وسیلہ نیویگیشن کی نگرانی
-- [[self-directed-learning]] — سیکھنے والے کے برقرار رکھے راستے اور تاحیات راہ پانا
-- [[lifelong-learning]] — ڈگری کی ترتیب سے آگے گراف ساختہ سیکھائی
-- [[trust-calibration]] — انحصار کو سفارش کی قابلِ اعتمادی کے مطابق رکھنا
-- [[student-support-and-success]] — معاونت، وسائل اور تعلیمی راستوں کی سفارش
-
-## منسلک مضامین
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — کثیر الوضع تدریسی وسائل کے لیے ہائبرڈ باہمی فلٹرنگ اور نالج گراف، صلاحیت اور پیش رفت سے آگاہ فیوژن کے ساتھ (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — متفاوت نالج گراف + GRU ری کامنڈر، GroupDRO انصاف اور ضدِ حقائقی وضاحت کے ساتھ (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — شعبے سے چلنے والی وضاحتیں خصوصیت کی اہمیت کے چارٹس سے زیادہ استاد کا بھروسا بناتی ہیں (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — سمتی استحکام کے لیے ناقابلِ واپسی قید کے ساتھ پیشگی شرط کے تعلق کی سیکھائی (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — پیٹرن پر مبنی نالج کمپوننٹ مشابہت سے پروگرامنگ مشق کی سفارش (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554 کورسز میں 29,064 منصوبہ بند سرگرمیوں کا Markov اور پیٹرن مائننگ تجزیہ (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian DINA تشخیص اور مختصر ترین تدارک کے راستے، علمی بوجھ کے ذریعے ثالث (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — نصاب کی سطح کے خلا تلاش کرنے کے لیے AI تدریسی معاون کے سوالات کو GPT-4 سے نکالے گئے پیشگی شرط گراف پر نقش کرنا (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — لرنٹی گراف بطور مقررہ نصاب کے متبادل تاحیات سیکھائی (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — پانچ سطحوں والی قسم بندی جو دکھاتی ہے کہ بیشتر انسان-AI تعامل مشورہ ہے، تعاون نہیں (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — خودمختاری کی حمایت بمقابلہ دباؤ جو تعمیری یا جبری AI راستوں کی پیش گوئی کرتے ہیں (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — ذاتی نوعیت کی سیکھائی کے رجحانات، راستوں اور سفارشی ماڈلز کا PRISMA جائزہ (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: ایک Knowledge-Centric منصوبہ بندی بینچ مارک جو دکھاتا ہے کہ LLMs درستگی میں 90.9% مگر موافقت میں صرف 44.3% تک پہنچتے ہیں (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — مشق کی سفارش بطور معنی میں جڑے ٹریسر پر ترتیب وار فیصلہ
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 14,003 ریکارڈز کا رویے کے لحاظ سے چھ پروفائلوں میں جھرمٹ، تنوع سے ریگولرائزڈ سفارشی فریم ورک کے ساتھ سیکھنے کی اشیاء پر نقش (Najem et al. 2026)

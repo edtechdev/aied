@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -114,28 +116,3 @@ Längsschnittdesigns liegen innerhalb der [[quantitative-research|quantitativen 
 - **„Eine große Stichprobe gleicht ein kurzes Zeitfenster aus.“** Die Stichprobengröße betrifft die Präzision, nicht die Zeit, die ein Entwicklungsprozess oder ein institutioneller Prozess braucht, um sich zu entfalten.
 - **„Dasselbe Programm bedeutet dieselben Personen.“** Wiederholte Querschnitte verfolgen eine Population, keine Individuen; beides stützt unterschiedliche Aussagen.
 - **„Trends in Selbstberichten sind Einstellungstrends.“** Berichtete Nutzung und berichtete Haltung verschieben sich mit Normen und mit dem Instrument ebenso wie mit dem Verhalten.
-
-## Verbundene Konzepte
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## Verbundene Artikel
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Panel mit drei Wellen, das Trait von State trennt (Xu)
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — Wachstumsmodell mit fünf Wellen zu Engagement, Flow und emotionaler Intelligenz
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Vier Semester GenAI-Nutzung und ethische Wahrnehmungen in der Lehrkräftebildung
-- [[song-genai-learning-partner-srl-over-time-2026]] — Semesterlange Selbstregulationsstudie, die einen Rückgang unter Prüfungsdruck zeigt
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Neunwöchiges longitudinales Quasi-Experiment über drei KI-Bedingungen
-- [[ai-lms-middle-school-longitudinal]] — KI-integrierter LMS-Vorschlag für die Mittelstufe (Design, keine Längsschnittstudie)

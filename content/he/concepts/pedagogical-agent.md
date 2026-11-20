@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -42,7 +44,6 @@ ai_assist:
 
 סוכן פדגוגי הוא רכיב בינה מלאכותית אינטראקטיבי בתוך מערכת למידה שמעסיק לומדים באמצעות דיאלוג, שאלות או הנחיות כדי לתמוך בתהליכים קוגניטיביים וב[[metacognition|מטאקוגניטיביים]]. שלא כמו [[visualization|לוחות מחוונים]] פסיביים או משוב סטטי, סוכנים פדגוגיים מעסיקים אסטרטגיות הוראה פרטית מבוססות-ראיה — כמו עידוד [[assessment|הערכות-עצמיות]] של הלומד לפני מתן [[feedback|משוב]], או [[scaffolding|פיגום]] של [[problem-solving|פתרון בעיות]] באמצעות דיאלוג סוקרטי. המטרייה מכסה כיום הכל, מ[[intelligent-tutoring|מורה פרטי חכם]] שיחתי בודד ועד ציים של [[agentic-ai|סוכנים]] ממומחי-תפקיד שמטיפים, ממנטרים, מקלים שיתוף פעולה, ואפילו מתזמרים יצירת קורסים, כולם מעוגנים בעשורים של [[research-methods-aied|מחקר]] על מערכות הוראה פרטיות חכמות.
 - **סוכן שתפקידו ויסות ולא הסבר.** Chen et al. (2026) בנו SSRLAgent כדי לאבחן את מצב הוויסות המשותף של הקבוצה ולהנחות בהתאם, והחזיקו סוכן תומך-תוכן קבוע בשני התנאים ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). מכיוון שבשתי הזרועות היו סוכן ופלטפורמה מובנית, הרווחים נתלים ב[[adaptive-learning|הסתגלות]] של הנחיות הוויסות ולא בנוכחות של סוכן שיחתי.
-
 
 ## כיצד סוכנים פדגוגיים נחקרים במאגר הידע
 
@@ -66,7 +67,6 @@ ai_assist:
 **סוכנים בהגדרות סוחפות ובמציאות מורחבת.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] מרחיבים את המושג ל[[virtual-and-augmented-reality|מציאות מורחבת]] (AR, וירטואליות מוגברת ו-VR) עם ACLIME, מסגרת קונספטואלית ש — שלא כמו CAMIL, CATLM-VR ו-TICOL — שומרת על הסוכן בתוך המודל. היא מכנה שני מצבי אינטראקציה הנלקחים מהספרות: המורה, המציע הדרכה, עידוד, חשיבה רפלקטיבית והסברים, ושותף משחק-תפקידים, שתופס תפקיד מוגדר בתוך תרחיש כמו תושב מקומי בטיול שדה על שינוי אקלים או גוף משא ומתן בהכשרה ארגונית. גופו של הסוכן (מראש-בלבד ועד גוף מלא) והתנהגותו נחשבים למשטחי עיצוב: ריאליזם חזותי לעומת התנהגותי, בקרת בינה מלאכותית גמישה לעומת תסריט קבוע מבוסס-כללים, דיבור מסונתז לעומת מוקלט-מראש, וערוצים לא-מילוליים הכוללים [[sensor-and-gaze-analytics|מבט]], מחוות ופרוקסמיקה. טענה היא שסוחפות ואינטראקטיביות מבוססת-גוף מכפילות את הרמזים החברתיים שמאחורי [[community-of-inquiry|נוכחות חברתית]] — ריאליזם התנהגותי, לא חזותי, מוצע כחוזה המכריע — בעוד שגופו הווירטואלי של הלומד מוסיף ממד [[embodied-learning|הממושה]] (בעלות גוף, סוכנות גוף-עצמי וירטואלית, מיקום-עצמי) ואת אפקט הפרוטאוס. הפשרה המפורשת של המסגרת היא קוגניטיבית: סוחפות והנוכחות העלמית של הסוכן יכולים להעלות נטיעה קוגניטיבית אפילו כשאינטראקציה חברתית עם הסוכן מנמיכה אותה באמצעות אפקט זיכרון-העבודה הקולקטיבי, ושכבה זמנית (התנסות, התבגרות יחסי אנוש-סוכן, דעיכת חידושיות, פיתוח מחלת-סייבר) נוספת למשתני העיצוב הרגילים. הסטטוס שלה הוא בכוונה זמני: כמעט אין עבודה אמפירית שבוחנת סוכנים פדגוגיים במדיה סוחפת, ותוצאות [[learning-gains|למידה]] ארוכות-טווח וכן מאפייני לומד נמצאים מחוץ למודל.
 
 משטח הסוכן הוא ציר עיצוב נפרד מהפדגוגיה שלו. [[ai-avatars-and-synthetic-instructors]] מתייחס לרמזי הזהות של האווטאר, לנוכחות ולאפקטי האמון בפניו ובקולו כתוצאות הראויות למדידה בפני עצמן, יהיה אשר יהיה מה שהפיגום של הסוכן עושה.
-
 
 **הערכה וסטי מדדים.** מדידת סוכן פדגוגי דורשת בחינת פדגוגיה, לא תוכן. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] מעריך ידע פדגוגי-תכני (Pedagogical Content Knowledge) על ידי בקשה מסוכנים להתאים שיעור לפרסונת לומד שצוינה, ומוצא שמערכות חזקות בתוכן אך חלשות בהתאמתו — וחושף ששופטי-מודל-שפה-גדול מדרגים לא נכונה מערכות חזקות. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] מעריך סוכנים לאורך שיפוט פדגוגי מקצועי, הוראה פרטית מרובת-תורות [[situated-learning|מומשת]], והשלמת זרימת-עבודה בסגנון קנבס, ומראה שמודלים נופלים קצרה מתקני הוראה מקצועיים. [[ai-generated-interactive-fiction-education-2026|ספרות אינטראקטיבית מיוצרת-בינה מלאכותית]] מוסיפה זווית הערכת-עיצוב: קוהרנטיות ושילוב חידון, לא יכולת ייצור, מגבילים את התועלת ל[[student-experience|חוויית התלמיד]].
 **בחנו עמידות פרסונה במבחן-מתח לאורך תורות מרובות.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] הרצו שישה מתקפים מדרגיים נגד סוכנים משחקי-תפקידים עם שופט אוטומטי: בדיקת רב-אסטרטגיה קיצרה את העמידות ב-0.17–0.20 לעומת בסיס חדש-אסטרטגיה, וכשלים קריטיים התקבצו לאחר תורות 5–6, ולכן הערכות קצרות או חדש-תורות מגזימות ביציבות הפרסונה ובדבקות האתית.
@@ -93,68 +93,3 @@ ai_assist:
 - **"כוונת הכותב קובעת מה סוכן פדגוגי עושה."** **כוונת כותב אינה מבטיחה פדגוגיה שנאכפת.** כאשר **27 מורי חטיבת ביניים** הגדירו כלי צ'טבוט גלוי-למורה, הערכה של 108 קריטריונים ברמת-הבוט הראתה שההתנהגות שנאכפה סטתה ממה שהמורים התכוונו. הכלי תיווך את הפדגוגיה.
 - **"סוכן פדגוגי שמתאם דיון הוא תפקיד פתור."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] מראה מה קורה כאשר מסוכן מתבקש **לתאם ולא** ללמד — דרישה שונה באיכותה ממענה על שאלות, וכזו שהספרות מתייחסת אליה כלא-מוכרעת.
 - **"בסיס הראיות להוראה בעזרת מחשב דק."** סינתזה (**2025, 34 סקירות**) מכמתת את השימוש ב-CAI לאורך תמיכה בהוראה ובלמידה (**97.1% מהסקירות**), תמיכה פסיכולוגית ומוטיבציונית (**91.2%**) ותמיכה **מטאקוגניטיבית**. רוחב היישומים הנסקרים נרחב, מה שהופך את הפער לפער של איכות נאכפת ולא של כיסוי.
-
-## מושגים מקושרים
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## מאמרים מקושרים
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — תפקיד סוכן ממורכז-תלמיד עולה על תפקיד ממורכז-מורה לאורך ביצוע, נטיעה, זרימה ואמפתיה (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: מסגרת קונספטואלית לסוכנים פדגוגיים ב-AR/VR — מורה לעומת שותף משחק-תפקידים, ריאליזם, נוכחות, נטיעה קוגניטיבית (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: סוכני תלמידים יוצרים לפרקטיקת הוראה
-- [[conversational-ai-agents-umbrella-review-2026]] — סקירת מטרייה של סוכנים שיחתיים מבוססי בינה מלאכותית בחינוך
-- [[conversational-agents-novice-programmers-scoping-2025]] — סקירת מיפוי של סוכנים שיחתיים למתכנתים מתחילים
-- [[ba-ai-agents-cscl-review-2026]] — סקירה של סוכני בינה מלאכותית בלמידה שיתופית נתמכת-מחשב
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[preferred-scaffolding-ai-mathematical-modeling]] — פיגום מועדף במודלנציה מתמטית נתמכת-בינה מלאכותית
-- [[llm-adaptive-programming-error-explanations-2026]] — הסברים מסתגלים מבוססי מודל שפה גדול על שגיאות תכנות
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — בן-לוויה מסתגל-תפקידים לשיח על ספרים ביסודי; תקרה אפקטיבית של סוכנים חדשי-תפקיד (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — סוכן מותאם הגביר איכות משוב אך לא ורגולציה-עצמית או תוצאות; יתרון תשואה רק תחת משוב מורה

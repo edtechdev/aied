@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -74,33 +76,3 @@ Fowlin ve ark. (2026) bu paylaşımı iki aşamalı bir dizi olarak işlevsel k�
 - **“Paylaşılan bir belge, paylaşılan biliş demektir.”** **97 öğrenenin** hacim temelli profilleri **önceki bilgi ve yazarlıkta** farklılaştı, ancak **etkin rol ya da kavrayış düzeyindeki istek metni yazmada** farklılaşmadı. Katılım hacmi maruz kalmayı ölçtü, bilişsel işin dağılımını değil; dolayısıyla işbirlikçi bir aracın [[learning-analytics|kullanım analitiği]] kimin düşündüğü hakkında az şey söyler.
 - **“Herkes YZ’ye eşit ölçüde dış kaynak aktarır.”** Acemi öğretmenler **öğretim tasarımı bilişsel yükünün büyük bir bölümünü YZ sistemine devreder** ve yanıtları büyük ölçüde kabul ettikleri **YZ’nin baskın olduğu bir dağılıma** varır; deneyimli ve YZ bilgisine sahip öğretmenler ise farklı dağıtır. Uzmanlık, yalnızca ne kadar YZ kullanıldığında değil, yükün nereye yerleştirildiğinde görünür.
 - **“Daha fazla YZ katılımı daha fazla destek demektir.”** YZ’nin baskın olduğu bir dağılım, dikkat edilmesi gereken örüntüdür; çünkü çıktı hacmi artarken insanın bilişsel işteki payı küçülür. Tam da kullanıcı daha az yaparken sistem daha yetkin görünebilir.
-
-## Bağlı kavramlar
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Bağlı makaleler
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Dağıtık biliş ve birlikte düzenleme merceğiyle insan–YZ işbirlikçi problem çözmenin ampirik çalışması
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — Bilişi insan ve insan dışı etkenler arasında yeniden dağıtan pedagojik aracı olarak YZ
-- [[ai-cognitive-partner-co-regulation-learning]] — Birlikte düzenlenen düşünmede bilişsel ortak olarak YZ
-- [[ensemble-cognition-philosophy-ai-education]] — Düşünmeyi insan–YZ etkileşimi olarak yeniden kavramsallaştıran Topluluk Bilişi çerçevesi
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Bilişi biyolojik ve yapay sistemler arasında dağıtan posthümanist öğrenen
-- [[fowlin-operationalizing-learning-principles-ai]] — Deneyimsel ve durumsal öğrenmeyle birlikte dağıtık bilişin işlevsel kılınması
-- [[cognitive-commons-ai-expertise-regeneration]] — Biliş ortak alanının trajedisi: YZ ve uzmanlığın yeniden üretimi
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Ders tasarımında öğretmen–YZ etkileşimi: deneyim ve yetkinliğe göre YZ’nin baskın olduğu ve tamamlayıcı dağıtık biliş (Choi ve ark. 2026)
-- [[xu-genai-collaborative-space-2026]] — Etken ve işbirlikçi alan olarak GenAI: erişim düzenlemesi grup bilişini nasıl dağıtır (Xu ve ark. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Bilişsel Dağılım Çerçevesi: öz-yönelimli ChatGPT kullanımından beş etkileşim türü ve dört rol
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI ile işlemsel bellek: iş bölümü ve yansıtıcı dönüşüm eleştirel düşünmeye aracılık ediyor (Akgun ve Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Bireysel öğrenenin neden yanlış analiz birimi olduğu
-- [[rivera-novoa-genai-extended-cognition-2026]] — Fen öğreniminde genişletilmiş biliş: GenAI varsayılan olarak ikame edici, tasarımla tamamlayıcı (Rivera-Novoa ve Duarte Arias 2026)

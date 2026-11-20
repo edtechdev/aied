@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -86,38 +88,3 @@ ai_assist:
 **«Η υποστήριξη από την ΤΝ μειώνει τα εμπόδια και άρα διευρύνει τη συμμετοχή.»** Μπορεί να μειώσει το εμπόδιο για την παραγωγή έργου ενώ στενεύει το εμπόδιο για τη διεκδίκηση πατρότητας. Ένας μαθητής που καταθέτει ένα εύγλωττο τεχνούργημα που δεν συνέγραψε έχει αποκτήσει πρόσβαση στο αποτέλεσμα και του έχει αρνηθεί την αναγνώριση που χτίζει την ταυτότητα πίσω από αυτό.
 
 **«Η αναγνώριση της ταυτότητας ενός μαθητή είναι ζήτημα εκπροσώπησης στο περιεχόμενο.»** Η εκπροσώπηση έχει σημασία και η αναγνώριση εκτελείται στην πράξη: ποιες ερωτήσεις λαμβάνονται υπόψη, ποια συμβολή πιστώνεται και ποιος αντιμετωπίζεται ως ικανός. Ένα [[curriculum-design|πρόγραμμα σπουδών]] μπορεί να είναι αντιπροσωπευτικό και παρόλα αυτά να αρνείται την αναγνώριση που απαιτεί η διαμόρφωση ταυτότητας.
-
-## Συνδεδεμένες Έννοιες
-
-- [[learners]] — Μαθητές: η ομπρέλα για τις έννοιες της πλευράς του μαθητή
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Συνδεδεμένα Άρθρα
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 προπτυχιακοί φοιτητές για το τι συνεχίζουν να κάνουν μόνοι τους, και γιατί ο σκοπός σπάνια το κρίνει
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Η ντροπή και η ενοχή ως κοινωνικοί ρυθμιστές της χρήσης ΤΝ
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Προσαρμοστικές ικανότητες για μια βιώσιμη επαγγελματική ταυτότητα σε ένα μέλλον γενετικής ΤΝ
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Παιδαγωγική συμβίωση και ο μετα-ανθρώπινος μαθητής
-- [[ai-pedagogical-accompaniment-amico]] — Παιδαγωγική συνοδεία με ΤΝ που στηρίζει την ταυτότητα STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Σχεδιασμός για αυθεντική αξιολόγηση
-- [[paternalistic-filter-llm-history-education]] — Πατερναλιστική χρήση ΤΝ και ταυτότητα μαθητή στην εκπαίδευση ιστορίας
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Η γενετική ΤΝ ως κρίση ταυτότητας για το διδακτικό προσωπικό (ταυτότητα εκπαιδευτικού)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Εκπαίδευση εκπαιδευτικών βασισμένη στο TPK και επαγγελματική ταυτότητα
-- [[genai-professionalization-metaphors-2026]] — Εννοιολογήσεις της γενετικής ΤΝ και επαγγελματική ταυτότητα των φοιτητών
-
-- [[synthetic-position-self-authorship-2026]] — Αναστολή συγγραφικής ιδιότητας: η ανατεθειμένη πατρότητα ως εαυτός με πυκνή φωνή αλλά χωρίς συγγραφέα (εννοιολογική ανάλυση)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

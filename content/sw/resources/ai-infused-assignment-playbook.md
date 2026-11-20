@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -51,15 +52,3 @@ Walimu katika taaluma mbalimbali, hasa katika elimu ya juu na programu za kitaal
 ## Vidokezo na maelezo ya tahadhari
 
 Huu ni mwongozo wa vitendo, si utafiti wa kiuchunguzi; madai yake kuhusu matumizi ya AI na wanafunzi hutegemea vyanzo vya nje vilivyotajwa (BestColleges, Campbell, Digital Education Council, Flaherty) badala ya data mpya. Muundo wa "ujenzi wa mtandao" na mifumo ya "dhuluma ya ufahamu" yamechukuliwa kutoka fasihi pana zaidi (Wigmore et al.; Williamson et al.) na yamewasilishwa kama sababu ya kielimu, si matokeo yaliyopimwa ya mwongozo wenyewe. Kazi ni violezo vilivyoandikwa — hakuna iliyoripotiwa na viwango vya athari, hivyo zinapaswa kuchukuliwa kama miundo ya kubadilisha na kutathmini mahali pa kitu. Imechapishwa 2026-10-07, v1, kwenye Zenodo chini ya CC BY 4.0; inapatikana bila malipo bila akaunti. Kufikia wakati wa kuingiza, rekodi inaonyesha mionekzo ~35 na upakuaji ~14 tu, hivyo imeona matumizi madogo ya nje au mapitio ya marika hadi sasa.
-
-## Dhana Zilizounganishwa
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

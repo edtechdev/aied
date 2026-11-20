@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -40,7 +41,3 @@ Ohjelmointikurssien opettajille, jotka haluavat näyttöä siitä, että opiskel
 ## Huomioita ja varauksia
 
 Kaikki toimii selaimessa: kurssi on paikallisessa tallennuksessa JSON-viennin kanssa, kysymykset kulkevat linkin siinä osassa, jota selaimet eivät lähetä palvelimille, ja vastaukset palaavat vain koodeina, jotka opiskelijat valitsevat lähettää, joten mitään opiskelijadataa ei päädy kolmannelle osapuolelle. Kysymysten tuottaja on sääntöpohjainen eikä mallivetoinen. Työkalun oman kuvauksen mukaan sen koodinlukija on heuristinen, joten epätavallinen muotoilu tai makrot voivat piilottaa funktion, ja pistemäärä voi palkita sanaston tuntemisen koodin ymmärtämisen sijaan, minkä vuoksi pisteet ovat ehdotuksia, jotka opettaja hyväksyy, ja minkä vuoksi se neuvoo pitämään panokset matalina. Lisenssiä ja lähderepositoriota ei ole julkaistu, ja koska linkit kuljettavat kysymykset, ne ovat muutaman kilotavun mittaisia – tarpeeksi pitkiä kääriytyäkseen oppimisympäristön viestikenttään.
-
-## Liittyvät käsitteet
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

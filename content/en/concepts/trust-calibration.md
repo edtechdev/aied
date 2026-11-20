@@ -15,6 +15,8 @@ ai_assist:
     role: revision
     date: "2026-09-22"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 > **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[cognitive-offloading|Over-Reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
@@ -60,7 +62,6 @@ Agent-related social perceptions, not accuracy, built feedback credibility for [
 
 - **Students can read a peer agent's deliberate fallibility as malfunction.** In the Copa study, students were told the agent might be wrong and asked to evaluate its suggestions. When a suggestion degraded their model, several concluded the agent had given incorrect information and switched to trial and error rather than re-examining the reasoning. A design that protects epistemic agency by withholding answers therefore assumes a calibration skill that the students in this study did not yet have, which is a stronger constraint on peer-agent designs than on tutoring agents ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 - **Calibration needs a check, not exposure.** [[trust-ai-assistants-consistently-wrong-2026|Jones et al. (2026)]] found a model wrong in every prior exchange still persuaded 48% of participants when they got no feedback, against 21% reliance on a consistently accurate one once feedback arrived.
-
 
 ### Calibration as a design problem
 
@@ -134,7 +135,6 @@ Trust calibration is central to [[ai-literacy|AI literacy]] and sits alongside [
 - Measure appropriate reliance as a behavioral outcome against ground truth, not as a trust score. The two correlate negatively in the one study that measured both.
 - Report recovery rates for initially-wrong participants separately from overall accuracy, because the aggregate hides the below-chance figure that matters most.
 
-
 **The learners who look most resilient are the ones who trusted the tool more.** In a survey of 300 South Korean university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found overtrust correlating with [[self-efficacy|academic self-efficacy]] (r = 0.230), [[motivation|intrinsic motivation]] (r = 0.224) and performance expectancy (r = 0.360), and not with AI literacy (r = 0.051). In the serial model self-efficacy predicted overtrust directly at B = 0.3901 (95% CI [0.2190, 0.5612]), above its total effect of 0.3397, which the authors read as suppression. Calibration cannot be read off a learner's confidence.
 
 Calibration is a state, not an outcome, and the outcome it licenses has its own page. [[automation-bias|Automation bias]] documents the specific error of accepting an automated judgment without checking it: a teacher taking a dashboard flag at face value, or a rater accepting a machine score on a script they did not re-read.
@@ -150,62 +150,3 @@ Calibration is a state, not an outcome, and the outcome it licenses has its own 
 **"Checking is easy, so students who care will do it."** Checking is cheap and rarely performed. A passive-tracking panel of **900 US adults** shows the same suppression: readers handed an AI-generated summary followed a source cited inside it on only **1% of visits**, and opened any result link half as frequently as those who saw no summary. The summary suppresses verification rather than [[prompt-engineering|prompting]] it, so the check must be built into the task rather than assumed from diligence.
 
 **"Presentation and substance can be separated by a careful reader."** Fluency is what earns unearned trust, which is why calibration is a design problem and not only a learner skill. A system whose interface signals authority will be trusted at that level regardless of instructions to the contrary.
-
-## Connected Concepts
-
-- [[automation-bias]] — the acceptance error that miscalibrated trust licenses
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-- [[shi-human-ai-complementarity-safety-2026]] — 416 raters, 3,957 items: candidate-first assistance cut error-catching on model-wrong items from 36.7% to 20.6% (Shi et al., 2026)
-- [[children-verification-ai-suggestions-game-2026]] — Children's verification behaviors in game-based human-AI collaboration
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Calibration reframed: withholding the system's position is protective, not corrective
-- [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Trust in AI-enabled systems: definitions, measurement and design factors across 33 empirical studies (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers evaluating AI-generated diagnostic inferences (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cuts acceptance of incorrect AI advice (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Trust calibration as a mediator in a chain from contextual support to perceived transfer gains (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Trust as the pivot from AI literacy to continued use, weakened by AI anxiety (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — How Children Design and Reason about Trustworthy AI Chatbots
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — When AI advice agrees or disagrees with human judgment: trust, self-efficacy, psychological resilience, and adaptive responses in physical education
-- [[kim-overtrust-ai-literacy-2026]] - overtrust correlated with self-efficacy and performance expectancy but not with AI literacy in 300 students
-- [[trust-ai-assistants-consistently-wrong-2026]] — Do People Trust AI Assistants Even When They Are Consistently Wrong?
-
-- [[bego-course-guided-chatgpt-trust-attitudes-2026]] — The Influence of Course-Guided ChatGPT Experiences on Engineering Students’ Trust and Attitudes Toward ChatGPT
-- [[jacobs-young-learners-multimodal-genai-scratch-2026]] — Children trusted a spoken multimodal tutor's wrong answers (Jacobs et al., 2026)
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -110,62 +112,3 @@ ai_assist:
 - **"छात्र एआई पर इतना भरोसा करते हैं कि उसका अविवेचनात्मक उपयोग करें।"** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad और Bentley]] ने **50-अंकों का भरोसा-उपयोगिता अंतर** पाया: **91% पाठ्यक्रम-कार्य के लिए एआई का उपयोग करते हैं पर केवल 41% उस पर भरोसा करते हैं**। व्यापक उपयोग कम भरोसे के साथ सहअस्तित्व रखता है, इसलिए उत्साह बढ़ाने वाला हस्तक्षेप गलत चर को संबोधित करता है।
 - **"भौतिकी के छात्र एक ही जनसंख्या हैं।"** [[becker-chatgpt-typology-physics-2026|Becker et al.]] ने **1,189 सर्वेक्षण प्रतिक्रियाओं** से दो-प्रोफ़ाइल टाइपोलॉजी विकसित की: **70% "व्यावहारिक उपयोगकर्ता" और 30% "संदेहवादी गैर-उपयोगकर्ता"**। एकल कक्षा नीति को विपरीत रुख रखने वाले दो समूहों की सेवा करनी है।
 - **"उपयोग और भरोसे के बीच का अंतर अतार्किक है।"** दोनों आँकड़े भिन्न चीजें मापते हैं: क्या उपकरण काम पूरा करने में मदद करता है, और क्या आप मानते हैं कि वह इसे सही ढंग से करता है। छात्र उपयोगिता को विश्वसनीयता से अलग पहचान रहे हैं, जो विश्लेषणात्मक रूप से सही भेद है, विरोधाभास नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — रसायन शिक्षा और एआई: प्रयोगशालाएँ, रचनात्मक आकलन, LLM की सीमाएँ, प्रयोग का दर्शन
-- [[biology-education]] — जीवविज्ञान शिक्षा और एआई: प्रयोगशाला शिक्षण सहायक, जीवविज्ञान में एआई साक्षरता, समीक्षात्मक सोच, विशेष उपकरण
-
-## संबंधित लेख
-- [[high-school-genai-acceptance-tam-physics-2026]] — कक्षा 10 की भौतिकी में GenAI की स्वीकृति का मॉडलन
-
-- [[genai-video-engineering-physics-workflow-2026]] — प्रॉम्प्ट से भौतिक नियमों तक: इंजीनियरिंग भौतिकी शिक्षा के लिए एक उत्पादक एआई कार्यप्रवाह
-- [[wang-teacher-student-centered-agents-physics-2026]] — शिक्षक-केंद्रित बनाम छात्र-केंद्रित प्रॉम्प्ट-इंजीनियर किए गए भौतिकी एजेंट (Wang एट अल. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — भौतिकी सिमुलेशन / वर्चुअल प्रयोगशालाओं को शीघ्रता से उत्पन्न करने के लिए एआई का उपयोग (Ben-Zion एट अल. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: भौतिकी में संज्ञानात्मक रूप से सक्रिय एआई संवर्धन का ढाँचा
-- [[ai-grading-handwritten-physics-2026]] — हस्तलिखित भौतिकी आकलन (ओलंपियाड) का एआई अंकन
-- [[ai-particle-physics-education-redesign-2026]] — कण भौतिकी शिक्षा में एआई: शोध समस्याएँ और आधारभूत कौशल
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: FCI, FMCE और EMCS को 14-उद्देश्य संज्ञानात्मक नैदानिक में बदलना (Le एट अल. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — संदेहवाद बनाम सुविधा: शिक्षण से पहले और बाद में भौतिकी छात्रों की धारणाएँ और बड़े भाषा मॉडल का उपयोग
-
-- [[ai-assisted-physics-lab-report-assessment-2026]] — प्रयोगात्मक भौतिकी प्रयोगशाला रिपोर्ट के एआई-सहायित आकलन: संभावनाएँ, सीमाएँ और शिक्षण अभ्यास के लिए सहायता
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 बांग्ला माध्यमिक-भौतिकी QA जोड़े एक 1,760-नोड पाठ्यक्रम ग्राफ़ पर मैप किए गए, छोटे मॉडल अनुकूलन लाभ के साथ
-- [[ai-university-physics-education-review-2026]] — विश्वविद्यालय भौतिकी शिक्षा में कृत्रिम बुद्धिमत्ता: अनुभवजन्य अध्ययनों की एक व्यवस्थित समीक्षा
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — भौतिकी समस्या पुनरीक्षण के लिए संरचित GenAI प्रशिक्षण: एक यादृच्छिक नियंत्रित परीक्षण (Huang एट अल. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — एक सुविचारित ट्यूटर ने कक्षा के सक्रिय अधिगम को हराया
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — ऊर्जा संबंधी पूर्व-धारणाओं ने तय किया कि समूह नेटवर्क में एआई प्रश्न-वार्ता कहाँ बैठी: सदस्यों के असहमत होने पर एक एकीकरण केंद्र, और सहमत होने पर प्रश्न-फिर-पढ़ें का रेखीय पथ (Wang एट अल. 2026)
-
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — भविष्य के इंजीनियरों के बीच उपयोग-पैटर्न और अनुभूत समर्थन
-

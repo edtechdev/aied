@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -53,16 +54,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 זהו מדריך ושרשרת כלים של עוסק-מקצועי, לא מחקר שדורי-עמיתים — הוא מציג תהליך עבודה ואת הרציונל החינוכי שלו ("ספרי הוראה חכמים מנחים סטודנטים דרך מושגים במסעם אחר ידע") ולא ראיות לתוצאות למידה. מאמר המחקר של MicroSims הוא הדבר הקרוב ביותר לגיבוי אמפירי, והוא עצמו-מפורסם ב-arXiv. שני הפרויקטים הם בקוד פתוח (המאגר intelligent-textbooks מדווח על רישיון MIT ו-38 כוכבים; MicroSims מדווח על רישיון Creative Commons ו-13 כוכבים) ונשמרים באופן פעיל. גרפי מושגים ומבנה מילון-מונחים-תחילה מועילים באמת לגילוי, אך המדריך מניח תהליך חיבור טכני למדי — MkDocs, Git וכלי בינה מלאכותית יוצרת — שעשוי להוות חסם לסגל הוראה מסוים. נכון לתאריך ההפדה, הרישום ל-MicroSims נמצא עדיין רק במפת הדרכים, כך שמציאת סימולציה קיימת ספציפית מסתמכת על החיפוש והניווט של האתר עצמו.
-
-## מושגים מקושרים
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

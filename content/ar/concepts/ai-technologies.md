@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -80,39 +82,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«الخيارات التقنية شأن التقني لا المربّي.»** تأطير الصفحة أنك تستطيع أن تكون مربيًا ممتازًا دون قدرة على بناء نموذج لغوي كبير، وخياراتك التقنية لا تزال تشكّل ما يستطيع الذكاء الاصطناعي فعله وما لا يستطيعه في صفّك. فهل يؤصّل النظام إجاباته في مادة المقرّر قرار له تبعات بيداغوجية يجب أن يتخذه أحد.
 
 **«نموذج أقدر سيحلّ فجوات المجال.»** التنسيق والذاكرة والتخطيط بعيد المدى مشكلات معمارية لا مشكلات قدرة — فالغياب الموثَّق لأنظمة تحكم استخدامها لأدواتها بمرور الزمن، وهو ما لا يوفّره نموذج أفضل بذاته.
-
-## مفاهيم مرتبطة
-
-- [[llm]] — النماذج اللغوية الكبيرة
-- [[generative-ai]] — الذكاء الاصطناعي التوليدي
-- [[multimodal]] — الوسائط المتعدّدة
-- [[reinforcement-learning]] — تعلّم التعزيز
-- [[educational-nlp]] — معالجة اللغة الطبيعية التعليمية
-- [[knowledge-graph]] — الرسوم البيانية المعرفية
-- [[simulation]] — المحاكاة
-- [[educational-robotics]] — الروبوتات التعليمية
-- [[agentic-ai]] — الذكاء الاصطناعي الوكيلي
-- [[prompt-engineering]] — هندسة المطالبات
-- [[vibe-coding]] — البرمجة بالإيحاء
-- [[rag]] — التوليد المُعزَّز بالاسترجاع
-- [[llm-training-and-fine-tuning]] — تدريب النماذج اللغوية الكبيرة وضبطها الدقيق
-- [[ai-ed-evaluation]] — تقييم التعليم بالذكاء الاصطناعي
-- [[benchmark]] — المعايير
-- [[pedagogy]] — البيداغوجيا
-- [[learning-theories]] — نظريات التعلّم
-- [[ai-literacy]] — ثقافة الذكاء الاصطناعي
-- [[adaptive-learning]] — التعلّم التكيّفي
-- [[personalized-learning]] — التعلّم المخصّص
-
-## مقالات مرتبطة
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — الرؤية البحثية لـ85 أداة ذكاء اصطناعي في تعليم العلوم والهندسة (Terkowsky وآخرون 2026)
-- [[agentic-ai-education-scoping-review]] — مراجعة نطاقية للذكاء الاصطناعي الوكيلي في التعليم
-- [[genai-meta-analysis-programming-learning]] — تحليل بَعدي لأثر الذكاء الاصطناعي التوليدي على الإنتاجية والتعلّم في البرمجة
-- [[cstutorbench-slm-tutors]] — معايير تدريس النماذج اللغوية الصغيرة
-- [[educational-llm-alignment]] — مواءمة النماذج اللغوية الكبيرة للتعليم
-- [[eduguard-safe-rag-llm-tutor]] — تحصين مدرّسي النماذج اللغوية الكبيرة المبنيين على RAG بحواجز حماية
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة مدرّس الذكاء الاصطناعي والأضرار
-- [[elbench-education-llm-benchmark-2026]] — معيار النماذج اللغوية الكبيرة التعليمية
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — روبوت Teachy Mini الاجتماعي التوليدي
-- [[benzion-ai-physics-simulations-virtual-lab]] — محاكيات فيزيائية مولَّدة بالنماذج اللغوية الكبيرة للفصل الدراسي

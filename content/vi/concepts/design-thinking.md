@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -66,39 +68,3 @@ Tư duy thiết kế trong giáo dục AI gắn bó sâu sắc với [[human-ai-
 **"Tư duy thiết kế là một quy trình có thể tự động hóa từng giai đoạn."** Đó là một kỷ luật định khung và tái định khung vấn đề, chính là điều mà bám chặt khóa lại. Tự động hóa các giai đoạn trong khi để khung không được xem xét sẽ tạo ra đầu ra thành thạo cho sai vấn đề.
 
 **"Các tác tử AI đồng ý sẽ hỗ trợ [[student-support-and-success|sự hỗ trợ sinh viên]] và củng cố lập luận thiết kế của họ."** Cách dùng sinh lợi được ghi nhận ở đây đi theo hướng ngược lại: [[ai-agents-constructive-conflict-design-education-2026|xung đột mang tính xây dựng với các tác tử AI]] thử nghiệm việc nhắc đối kháng buộc phải xem xét lại. Một tác tử dễ đồng ý củng cố sự bám chặt; một tác tử hướng đến bất đồng mới là thiết kế có một lập luận giáo dục đằng sau.
-
-## Khái niệm liên quan
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Bài viết liên quan
-- [[design-thinking-aigc-fashion-film-2026]] — Tư duy thiết kế qua các giai đoạn học tập trong thiết kế phim thời trang có AIGC hỗ trợ (Liu và cộng sự 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: dùng AI sinh tạo để hỗ trợ sinh viên kiến trúc trong các nhiệm vụ thiết kế
-- [[genai-architectural-design-studios]] — Phát triển và ứng dụng AI sinh tạo trong các studio thiết kế kiến trúc
-- [[social-robot-study-companions]] — Cùng tạo các bạn đồng hành robot xã hội mở và có thể chế tạo với sinh viên đại học
-- [[gaide-vibe-coding-k12-teachers]] — Một khuôn khổ hướng dẫn cho giáo viên K-12 tạo công nghệ học tập có AI thông qua vibe coding
-- [[dot-framework-survey-2026]] — Khảo sát Khuôn khổ DOT: niềm tin và hành vi của người thực hành trong giáo dục tăng cường AI
-- [[ai-agents-constructive-conflict-design-education-2026]] — Thực hiện xung đột mang tính xây dựng với các tác tử AI để nâng cao việc xem xét lại ở nhà thiết kế tương tác mới vào nghề
-- [[genai-usage-design-students-survey]] — Một nghiên cứu về việc sử dụng GenAI của sinh viên thiết kế: phân tích kết quả khảo sát và nhật ký thực hành AI tại Politecnico di Milano 2025/2026

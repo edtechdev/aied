@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,6 +43,3 @@ Proiectul este deliberat agnostic față de model. Documentează modele Ollama l
 ## Note și precauții
 
 Software-ul este gratuit și [[open-source|cu sursă deschisă]] sub licența MIT pentru codul original, deși componentele terțe își păstrează propriii termeni, iar rularea lui înseamnă să plătești propria inferență dacă folosești un model găzduit. Proiectul se etichetează drept beta revizuit de profesori și spune deschis în README că trecerea testelor sale CI nu stabilește calitatea didactică pe modele reale, ceea ce este modul corect de a citi o suită de teste verde în acest domeniu: verifică software-ul, nu [[pedagogy|pedagogia]]. Este întreținut de MacxLabs și acceptă lecții-exemplu revizuite de profesori ca contribuții.
-
-## Concepte conexe
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

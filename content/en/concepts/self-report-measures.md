@@ -14,6 +14,8 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 reviewed_by: [editor]
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 > **Self-report measures** — instruments in which the person being studied is also the source of the data: questionnaires and surveys, interviews, diaries, self-assessed competence, self-estimated usage, perceived learning, and satisfaction. They are the workhorse of [[ai-education|AI in education]] research — 139 studies carry a survey method tag, more than any design except experiment and [[benchmark|benchmark]] — and they are the only practical way to reach attitudes, beliefs, intentions, and [[self-efficacy|self-efficacy]]. Their limit is categorical rather than statistical: a self-report cannot measure behavior or learning, only what someone says about behavior or learning, and the two come apart in this research base often enough to be a finding in its own right.
@@ -48,7 +50,6 @@ The consequence is a set of claims that look similar in a results section but di
 - "Teachers are confident using AI" — a self-belief, not evidence of competence.
 
 Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply. [[self-assessment|Self-assessment]] is a member of that wider family rather than a synonym for it: where self-report measures reach attitudes, trust, and satisfaction, self-assessment turns the learner's estimate specifically onto their own skill, confidence, or learning.
-
 
 A second failure mode is discriminant collapse between two self-report constructs: regressing self-reported AI capability alongside perceived behavioral control measured as efficacy may compare one general-confidence factor with itself, which is why criteria are fixed in advance — a heterotrait–monotrait ratio below .85 and a nested-model test constraining the capability–control correlation to unity ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -103,7 +104,6 @@ The cleanest within-subject case in the literature measured both quantities on t
 
 Exam scores told a different story: frequency of use was unassociated with performance in the simple model (-5.577, SE 5.566) and negatively associated in the full model (-13.918, SE 7.834, p = .076). The authors do not treat the null as proof of harm, since struggling students may use AI more; what the study does show is significant movement on every perceptual measure with no corresponding movement in graded performance.
 
-
 **Perception measures outnumber skill measures in the generative-AI inquiry literature.** In a 66-study review, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found user perceptions the most reported outcome domain (32 studies, 48.5%), followed by affective outcomes at 25, while only 8 studies (12.1%) measured inquiry skills and 4 of those had a comparison condition. The authors rated no certainty of evidence, so the perception counts describe what was asked rather than what was achieved.
 
 ## What makes a self-report instrument credible
@@ -114,7 +114,6 @@ Four properties separate a survey that can support a claim from one that cannot.
 - **Reliability and structure.** Factor-validated instruments recur across the literature, from [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy measures grounded in self-determination theory]] to acceptance scales modeled with [[technology-acceptance-model|TAM]] and SEM in [[acceptance-ai-english-tools-2026|studies of AI-assisted language tools]].
 - **Invariance, when groups are compared.** A scale that behaves differently across populations cannot support a comparison. [[same-ai-different-pathways|Multigroup SEM work]] reports measurement invariance testing (configural, metric, scalar) alongside its indirect effects, and [[genai-thoughtless-use-self-directed-learning-2026|a Switzerland–China comparison]] found only intrinsic value reached metric invariance and not scalar invariance — a limitation stated rather than hidden, and one that constrains what its cross-country differences can mean.
 - **A performance alternative where competence is the construct.** GLAT's 20 multiple-choice items exist precisely because self-report cannot carry a competence claim.
-
 
 **Most instruments in this space report reliability and almost none report validity.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] cite Su et al.'s review of 36 AI literacy studies, which found 63.8% of tools reporting reliability evidence and fewer than 20% reporting validity evidence. The same review found only one generative-AI-specific instrument, the 27-item GAIAS, among 50 [[k-12]] frameworks. A scale being internally consistent says nothing about whether it measures the construct named in its title.
 
@@ -163,60 +162,3 @@ The constructive answers are consistent, and none of them requires abandoning su
 - **"Survey evidence is weak but roughly unbiased."** Response structure bounds the estimate before bias: a survey gets **112 responses at a 31% response rate**, or **90 responses from 572 invitations**. The respondent pool is a self-selected subset, so the figure describes that subset.
 - **"Surveys are a minority method in this field."** A scoping review of **394 GenAI higher-education studies** found **survey scales the most frequently reported assessment method (269 studies, 68.3%)**, ahead of tests and quizzes. The field's dominant evidence is self-report.
 - **"Self-report and measured constructs agree."** **Self-reported cognitive load did not differ significantly across offloading profiles that ranged from 80% to 2% in essay authorship**, while the heaviest offloaders differed measurably. The subjective measure was flat where behavior varied by a factor of forty.
-
-## Connected Concepts
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 participants, three saliency methods: satisfaction and trust flat, task performance and faithfulness metrics disagreeing (Kares et al., 2027)
-- [[high-school-genai-acceptance-tam-physics-2026]] — One intention score, two opposite uses
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — The administration mode a self-report instrument uses changes what it measures
-- [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
-- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
-- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
-- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
-- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
-- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
-- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
-- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
-- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
-- [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Survey plus interviews in one sociology department
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profiles derived from self-report behave the same way
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Two-phase review putting a rate on same-construct self-report versus performance disagreement (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership separated whole-essay delegation from everything else, while the trace separated much more (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - perceptions reported in 32 of 66 studies against 8 that measured inquiry skills
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence
-- [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Perceived learning and engagement rose on every survey measure while exam scores did not move
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — A 300-item faculty scale with α = 0.997 predicted to 99.68% accuracy without any factor analysis
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Significant sign tests with an unchanged median on a validated scale
-- [[tischkau-ai-simulated-patient-formats-2026]] — A provisional pre-post scale that compares expectations with memories, with subscale alphas from −0.39 to 0.87 (Tischkau et al. 2026)

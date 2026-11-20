@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -71,32 +73,3 @@ ai_assist:
 - دستخط سے پہلے پوچھیں کہ کسی اوزار کی کس بنیاد پر جانچ ہو سکتی ہے۔ اگر معاہدہ نتائج، آڈٹ ڈیٹا یا استعمال کی تفصیل تک رسائی کی اجازت نہیں دیتا، تو ادارے نے ایسی صلاحیت خریدی ہے جس کا وہ خود جائزہ نہیں لے سکتا۔
 - منظور شدہ استعمال کے بجائے حقیقی استعمال کا سروے کریں، کیونکہ دونوں الگ ہو جاتے ہیں اور غیر منظور شدہ عدد ہی وہ ہے جس میں وہ خطرہ ہے جس کا سامنا آپ کو پہلے ہی ہے۔
 - جہاں دستگیرہ ابھی باقی ہے وہاں پالیسی کو رول آؤٹ سے پہلے رکھیں۔ استعمال عام ہو جانے کے بعد پالیسی ایسے عمل سے گفت و شنید بن جاتی ہے جو پہلے ہی طے ہو چکا ہوتا ہے۔
-
-## منسلک تصورات
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — چھتری: AI تعلیم میں لوگ اور سامعین (سیکھنے والے، اساتذہ، ڈیزائنرز، منتظمین، پالیسی ساز)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — وہ ادارہ جاتی عمل جو منتظمین چلاتے ہیں: مشاورت، رابطہ، حوالہ دہی اور وسائل کی تقسیم
-
-## منسلک مضامین
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — تعلیمی قیادت میں AI: جامع درجہ بندی
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI کے لیے پیشگی گورننس اور قیادت
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — برطانیہ کی اعلیٰ تعلیمی پالیسی اور ادارہ جاتی فیصلہ سازی میں AI
-- [[ai-campus-wellbeing-tools]] — کیمپس کی بہبود کے لیے AI سے چلنے والے اوزار
-- [[genai-policies-higher-ed-computing]] — کمپیوٹنگ میں ادارہ جاتی GenAI پالیسی
-- [[institutional-change-framework-ai]] — AI کے لیے ادارہ جاتی تبدیلی کا فریم ورک
-- [[edtech-privacy-deferral-2026]] — \"ہم بعد میں ٹھیک کر لیں گے\": تعلیم، AI اور ایڈٹیک میں طلبہ کی رازداری کی تاخیر
-- [[students-at-stake-ai-deployment-risks-2026]] — چار سوالوں والی خریداری چھلنی، جو خطرے کے انتظام کے بجائے طلبہ کے حقوق کے طور پر بیان کی گئی ہے

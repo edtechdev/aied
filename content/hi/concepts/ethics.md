@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,54 +110,3 @@ ai_assist:
 - **"नकल का ढाँचा GenAI नैतिकता के बारे में सोचने का पर्याप्त तरीका है।"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] तर्क देते हैं कि संस्थाओं को जनरेटिव AI के प्रश्नों को **नकल के ढाँचे के बजाय साझेदारी नैतिकता** के माध्यम से तय करना चाहिए। ढाँचा तय करता है कि कौन से प्रश्न पूछे जाएँगे, और दुराचार का ढाँचा शैक्षणिक उद्देश्य के बारे में नहीं पूछ सकता।
 - **"संकाय और छात्र इस बात पर सहमत हैं कि क्या नैतिक है।"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç और Sever (2026)]], **971 छात्रों और 135 संकाय** का एक [[mixed-methods-research|मिश्र-विधि]] अध्ययन, पाता है कि नैतिक आयाम दोनों समूहों के बीच अलग हो जाते हैं। एक दृष्टिकोण से लिखी नीति दूसरे को गलत प्रस्तुत करेगी।
 - **"नैतिक सहमति उपयोग से पहले आती है।"** **उपयोग नैतिक सहमति से तेज़ी से बढ़ता है**: एक US शिक्षक-शिक्षा कार्यक्रम में चार सेमेस्टरों में छात्रों का GenAI उपयोग **मूल्यांकन तैयारी के लिए 57% से 83% तक चढ़ा**। मानदंड अभ्यास से बन रहे हैं, उलटा नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — AI उपयोग और प्रकटीकरण विवरण
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — रसायन शिक्षा और AI: प्रयोगशालाएँ, स्वरूपक मूल्यांकन, LLM की सीमाएँ, प्रयोग के दर्शन
-- [[biology-education]] — जीव विज्ञान शिक्षा और AI: प्रयोगशाला शिक्षण सहायक, जीव विज्ञान में AI साक्षरता, संज्ञानात्मक सोच, विशिष्ट उपकरण
-
-- [[civic-and-political-education]]
-
-## संबंधित लेख
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — स्वीडिश सर्वेक्षण और फ़ोकस-समूह अध्ययन जो तर्क देता है कि संस्थागत genAI निर्णयों को नकल के ढाँचे के बजाय साझेदारी नैतिकता मार्गदर्शित करे
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — जहाँ सामना-करने का कोई ढाँचा नहीं सिखाया गया, वहाँ नैतिक जागरूकता ने AI चिंता को बढ़ाया: 584 छात्रों में केवल-अप्रत्यक्ष मध्यस्थता
-- [[learning-analytics-to-educational-interventions-2026]] — सीखने के विश्लेषण से शैक्षणिक हस्तक्षेपों तक: विश्वसनीय LA-आधारित हस्तक्षेपों के सक्षमकर्ता (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — छात्र ऑनलाइन मूल्यांकन में AI का उपयोग कैसे करते और छिपाते हैं
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — छात्र AI प्रकटीकरण, कलंक और स्व-विनियमित सीखना
-- [[vetter-hidden-cost-disclosure-genai-2026]] — प्रकटीकरण की छिपी लागत
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI उपयोग घोषणाओं के प्रति छात्रों की अनुपालन-हीनता
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI के नैतिक आयामों पर शिक्षकों और छात्रों के विचार
-- [[ethical-use-ai-engineering-education-review-2026]] — इंजीनियरिंग शिक्षा में AI का नैतिक उपयोग: एक व्यवस्थित समीक्षा
-- [[ai-ethics-education-public-discourse]] — शिक्षा में AI नैतिकता के सार्वजनिक प्रवचन का अनुदैर्ध्य विश्लेषण
-- [[ethical-ai-higher-ed-game-theory]] — उच्च शिक्षा में नैतिक AI उपयोग के लिए गेम थ्योरी ढाँचा
-- [[cost-of-ethics-crisis-cs-ethics-education]] — CS छात्रों की नौकरी खोज में नैतिकता-संकट की लागत
-- [[xai-education-framework]] — शिक्षा में व्याख्यायोग्य AI (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — वैकल्पिक AI दर्शन: शिक्षा में AI के लिए विधि के रूप में दाओवाद
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ट्यूटर सुरक्षा और शिक्षाशास्त्रीय हानियाँ
-- [[raffaghelli-situated-ai-ethics-2026]] — स्थिति-आधारित AI नैतिकता: शिक्षा के लिए एक सांस्कृतिक-ऐतिहासिक ढाँचा
-- [[ethically-mediated-ai-tpack-china-2026]] — विश्वविद्यालय शिक्षकों के AI-TPACK में एकीकक मध्यस्थ के रूप में AI-नैतिक ज्ञान (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI नैतिकता और व्यावसायिक निर्णय: एक बिब्लियोमेट्रिक विश्लेषण (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO जनरेटिव AI नीति ढाँचा विश्लेषण
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — क्या शिक्षकों के लिए छात्र फीडबैक के लिए AI का उपयोग नैतिक है?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — छात्रों, शिक्षकों और नीति में नैतिक AI साक्षरता की खाइयाँ पाटना
-- [[alharbi-ethical-genai-eap-2026]] — अंग्रेज़ी शैक्षणिक उद्देश्यों में नैतिक जनरेटिव AI एकीकरण
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — सतत शिक्षा और AI के लिए मूल्य-संकटपूर्ण दृष्टिकोण (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — परीक्षा तैयारी में LLM अपनाने के लिए नैतिक शर्तें (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — शिक्षक शिक्षा में अनुदैर्ध्य GenAI उपयोग, नैतिकता और नीति (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — शिक्षा में AI के लिए नैतिक मूल्य और मानदंड
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — नैतिक जागरूकता, चिंतन और रिपोर्ट किया गया उत्तरदायी अभ्यास तीन वार्षिक तरंगों में काफी हद तक स्वतंत्र रूप से बढ़े (Ayanwale et al
-- [[qi-information-ethics-ai-judgment-2026]] — सूचना नैतिकता शिक्षा और विश्वविद्यालय छात्रों का AI नैतिक निर्णय

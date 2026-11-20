@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -36,7 +37,3 @@ Kirjoita oppitunti missä tahansa tekstieditorissa ja tuo se mihin tahansa muoto
 
 ## Kenelle se on tarkoitettu
 Opetussuunnittelijoille ja kurssien tekijöille, jotka haluavat sisältönsä säilyvän työkalun vaihtuessa, verkko-oppimisen toimittajille, jotka haluavat tuonti- ja vientimuodon, jonka heidän käyttäjänsä jo ymmärtävät, ja kaikille, jotka rakentavat tekoälyavusteista kirjoittamista luettavan muodon päälle. Avustajiin kuuluu Dan Bashaw LXD Integralista, ja muodolla on julkinen muutosloki versioon v1.8 asti.
-
-## Liittyvät käsitteet
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

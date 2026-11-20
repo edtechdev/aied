@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -105,53 +107,3 @@ Gizlilik politikaya değil hattın içine yerleştirilebilir: anonimleştirilmi�
 **“Açık ya da tescilli olmak, sonuçları etkilemeyen bir lisans ayrıntısıdır.”** Platform modeli, kurumların sistemle neler yapabileceğini şekillendirir: OATutor gibi [[open-source|açık]] platformlar, MIT lisanslı, Creative Commons cebir içerik kütüphaneli, [[knowledge-tracing]] ustalık tahminli ve yerleşik A/B testli uyarlanabilir bir öğretmen olarak bir bölümün kendi [[pedagogy|pedagojisini]] ölçmesine ve değiştirmesine izin verir; kapalı bir platform bunu yapamaz. Lisans, deneyi kimin yürütebileceğini belirler.
 
 **“Bir kurumda işleyen bir platform, benimsendiği gibi işler.”** Platform etkileri yerel yönetişimden geçer: gizlilik öncelikli mimari, veri asgarileştirmesi, denetlenebilir günlükler ve role dayalı erişim, YZ bütünleşik bir platformu konuşlandırılabilir kılan şeylerdir ve bunlar bir satıcı gösteriminden çıkarılabilecek özellikler değil, kurumsal kararlardır.
-
-## Bağlı kavramlar
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Bağlı makaleler
-
-- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
-- [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
-- [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignment platform
-- [[edusim-llm-robotic-simulation-education-2026]] — An LLM-robotic simulation platform for education
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — A generative social-robot teaching platform in higher education
-- [[hypergamification-game-engine-lms]] — A game-engine-based LMS integrating gamification
-- [[edtech-design-time-generative-ui]] — Designing edtech for generative UI
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder platform
-- [[vismatic-secure-sandbox-cs-education]] — A secure sandbox platform for CS education
-- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

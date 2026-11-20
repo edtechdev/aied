@@ -23,6 +23,8 @@ ai_assist:
     role: drafting
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, adaptive-learning, scaffolding, feedback, prior-knowledge]
+connected_articles: [adaptive-ai-scaffold-collaborative-problem-solving-2026, ba-ai-agents-cscl-review-2026, leite-its-k12-meta-analysis-2025, wu-hybrid-human-ai-tutoring-architecture-2026]
 ---
 
 > **Synthesis:** Gao, Fischer, Stadler and Chernikova pool 83 experimental and quasi-experimental studies of adaptive instructional support in [[collaborative-learning|collaborative learning]], reported in 80 articles between 2004 and 2023, and find a medium positive effect (g = .73, 95% CI [.56, .90]). Gains are uneven: large for individual knowledge, medium for group products and processes, small for affect, and absent for cognitive load. The choices separating strong from weak interventions are consistent: cognitive sources, joint-activity targets, system control, and short durations do most of the work. Adaptivity helps when it is built into the task rather than layered on top of it.
@@ -74,21 +76,6 @@ Online (g = .77) and hybrid (g = .87) contexts showed large effects; face-to-fac
 - Emotional and motivational outcomes were mostly self-reported, with few physiological measures, which limits comparability.
 - The evidence concentrates on feedback and scaffolding; difficulty progression, rehearsal scheduling, adaptive assessment, and cross-course progression were too rare to test.
 - Only English-language studies were included, and group composition, teacher expertise, and task type were not reported consistently enough to model.
-
-## Connected Concepts
-
-- [[collaborative-learning]]: the outcome space the synthesis organizes into individual, group, and process dimensions
-- [[adaptive-learning]]: the design family, defined here as assessing prerequisites and processes to tailor support
-- [[scaffolding]]: one of only two adaptation types with enough studies to estimate
-- [[feedback]]: the other adaptation type, and half of the most consistent combination
-- [[prior-knowledge]]: the one learner characteristic that moderated effects, in the direction of avoiding an expertise reversal
-
-## Connected Articles
-
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]: a design study that builds a process-dynamic scaffold of the kind this synthesis says remains rare
-- [[ba-ai-agents-cscl-review-2026]]: a review of AI agents in CSCL that reaches the same cognitive-gain, social-affective-uncertainty pattern
-- [[leite-its-k12-meta-analysis-2025]]: a meta-analysis of intelligent tutoring in K-12 that isolates the cognitive outcome this synthesis finds strongest
-- [[wu-hybrid-human-ai-tutoring-architecture-2026]]: the hybrid human-AI architecture whose promise the combined-mechanism results did not confirm
 
 ## Citation
 

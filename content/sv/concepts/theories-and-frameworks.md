@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -126,32 +128,3 @@ Mekanism-till-teori-anpassning kan ändå vara avgörande: en tematisk syntes av
 **"Inlärningsteorier, modeller över eleven och adoptionsramverk är utbytbara linser."** De besvarar olika frågor — hur lärande sker, vad elevens tillstånd är och varför en praktik sprids — och deras evidenstyper skiljer sig därefter. Att välja fel lager ger en studie som mäter rätt variabel mot fel förutsägelse, vilket läses som ett nollresultat när det är ett kategorifel.
 
 **"Fler ramverk betyder ett mognare fält."** Ramverk myntade för AI-eran ackumuleras snabbare än de prövas, och ackumulering utan falsifiering är ett symptom snarare än framsteg. Mognad visar sig i att konkurrerande förutsägelser avgörs, inte i att vokabulären växer.
-
-## Anslutna begrepp
-
-- [[theory-development-aied]] — att bygga och revidera teori i fältet
-- [[philosophy-of-ai-in-education]] — det normativa och begreppsliga lagret
-- [[learning-theories]] — paraplyet för inlärningsteori
-- [[learning-sciences]] — grannfältet som det mesta av teorin lånas från
-- [[limitations-in-aied-research]] — vad evidensbasen kan och inte kan bära
-- [[tpack]] — ramverk för lärarkunskap
-- [[technology-acceptance-model]] — adoptionsramverk
-- [[item-response-theory]] — en mätmodell
-- [[universal-design-for-learning]] — ett designramverk
-- [[research-methods-aied]] — hur teori blir prövad
-
-## Anslutna artiklar
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionella affordanser föreslagna som en fjärde kategori i en affordanstaxonomi
-- [[ai-game-based-learning-systematic-review-2026]] — Mekanism-till-teori-anpassning, inte algoritmisk sofistikering, avgjorde effektiviteten i 55 AI-stödda studier av spelbaserat lärande
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — fyra decennier av AIED genom AI×Ed-ramverket
-- [[educating-minds-generative-ai-2026]] — teoritung syntes av generativ AI och lärande
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — aktivitetsteori tillämpad på lärares fortbildning
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — aktivitetsteori och lärares adoption
-- [[generativism-learning-theory]] — en inlärningsteori föreslagen för den generativa AI-eran
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — mot en teori om epistemisk sam-agens
-- [[absent-cognitive-baseline-2026]] — teoretisering av ett strukturellt gap i AI-infödda elevers självbedömning
-- [[yan-agentivism-learning-theory-ai-2026]] — en mellannivåinlärningsteori för människa-AI-interaktion
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrumentutveckling kring ett ungt begrepp
-- [[mishra-control-vs-agency-history-2025]] — fältets grundläggande spänning mellan kontroll och agens

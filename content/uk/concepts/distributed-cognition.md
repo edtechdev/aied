@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -77,33 +79,3 @@ Fowlin та співавт. (2026) операціоналізують цей р�
 - **«Спільний документ означає спільне пізнання.»** Засновані на обсязі профілі **97 здобувачів** різнилися **попереднім знанням і авторством**, але **не активною роллю чи підказками рівня розуміння**. Обсяг участі вимірював експозицію, а не розподіл когнітивної роботи, — тож [[learning-analytics|аналітика]] використання інструмента співпраці мало говорить про те, хто думав.
 - **«Усі однаково перекладають роботу на ШІ.»** Учителі-початківці **делегують значну частку когнітивного навантаження з проєктування навчання системі ШІ**, доходячи до **домінування ШІ** в розподілі, у якому здебільшого приймають відповіді, тоді як досвідчені й обізнані зі ШІ вчителі розподіляють інакше. Експертність проявляється в тому, куди покладено навантаження, а не лише в тому, скільки використано ШІ.
 - **«Більше залучення ШІ означає більше підтримки.»** Домінування ШІ — це той патерн, за яким варто стежити, бо частка когнітивної роботи людини зменшується, тоді як обсяг результатів зростає. Система може виглядати здатнішою саме тоді, коли користувач робить менше.
-
-## Пов’язані поняття
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Пов’язані статті
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Емпіричне дослідження колаборативного розв’язування проблем у парі «людина — ШІ» через оптику розподіленої когніції та співрегуляції
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — ШІ як педагогічний медіатор, що перерозподіляє когніцію між людськими та нелюдськими акторами
-- [[ai-cognitive-partner-co-regulation-learning]] — ШІ як когнітивний партнер у співрегульованому мисленні
-- [[ensemble-cognition-philosophy-ai-education]] — Рамка ансамблевої когніції, що переосмислює мислення як взаємодію люди та ШІ
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Постгуманістичний здобувач із когніцією, розподіленою між біологічними та штучними системами
-- [[fowlin-operationalizing-learning-principles-ai]] — Операціоналізація розподіленої когніції поруч із досвідним та ситуативним навчанням
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедія когнітивного спільного: ШІ та відродження експертизи
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Взаємодія викладача зі ШІ в проєктуванні уроку: ШІ-домінантна проти комплементарної розподіленої когніції за досвідом і вмілістю (Choi та співавт. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI як агент і колаборативний простір: як конфігурація доступу розподіляє групову когніцію (Xu та співавт. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Рамка когнітивного розподілу: п’ять типів взаємодії та чотири ролі з самостійного використання ChatGPT
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Транзактивна пам’ять із генеративним ШІ: розподіл праці та рефлексивна трансформація медіюють критичне мислення (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Чому індивідуальний здобувач є неправильною одиницею аналізу
-- [[rivera-novoa-genai-extended-cognition-2026]] — Розширена когніція в навчанні природничих наук: генеративний ШІ за замовчуванням заміщувальний, а доповнювальний — за дизайном (Rivera-Novoa & Duarte Arias 2026)

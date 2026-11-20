@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -42,6 +43,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 ## उपयोग करने से पहले जानने योग्य बातें
 
 यह पुस्तक सीसी बाय लाइसेंस के अंतर्गत खुली पहुँच में है, जो शिक्षण सामग्री के लिए अनुमतिपरक सीमा का सबसे खुला छोर है: शिक्षक इन्हें उचित श्रेय देने की शर्त पर, व्यावसायिक उपयोग सहित, प्रतिलिपि बना सकते हैं, अनुकूलित कर सकते हैं और उपयोग कर सकते हैं [[prompt-engineering|प्रॉम्प्ट]]। यह किसी विशिष्ट पाठ्यक्रम या [[pedagogical-agent|एजेंट]] सेटअप के लिए प्रॉम्प्ट को स्थानीयकृत करना सरल बना देता है, जो समान संग्रहों पर लगे अधिक प्रतिबंधात्मक लाइसेंस की अनुमति नहीं देते। इसे 2026 में एडटेक बुक्स पर पीडीएफ डाउनलोड के साथ प्रकाशित किया गया है, डीओआई 10.59668/2340, संपादक डेविड वाइले। चूँकि प्रत्येक अध्याय परिणाम के साथ-साथ मूल्यांकन डिज़ाइन भी प्रस्तुत करता है, यह उन शिक्षकों के लिए भी एक मॉडल के रूप में काम करता है जो किसी और के निर्णय को अपनाने के बजाय अपने ही प्रॉम्प्ट का परीक्षण करना चाहते हैं।
-
-## संबद्ध अवधारणाएँ
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

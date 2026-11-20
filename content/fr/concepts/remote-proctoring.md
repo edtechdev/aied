@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -82,31 +84,3 @@ La surveillance à distance existe sur un spectre. La **surveillance en ligne** 
 - **« La surveillance protège l'intégrité académique. »** **La justification par l'intégrité n'a pas survécu au plus grand test.** Sur **quatre vagues et 1 760 étudiants dans 105 cours**, la surveillance **a accru l'anxiété face aux examens (β = 0,60, p < 0,001) mais n'a eu** aucun bénéfice détectable en matière d'intégrité. L'effet mesuré portait sur les étudiants, non sur la triche.
 - **« Une meilleure capacité de détection signifie une meilleure surveillance. »** Une revue systématique couvrant une décennie et **80 études évaluées par les pairs (2014-2024)** constate que la surveillance avancée par ML/DL **détecte la triche plus** précisément et ne dit rien sur la question de savoir si son déploiement change les conduites. La performance de détection est une propriété du classifieur, non du régime d'évaluation.
 - **« Les signaux comportementaux sont des indicateurs fiables d'une faute. »** Les systèmes **suivent dix-sept points corporels par image** avec YOLOv11 pour en déduire des caractéristiques d'**écart de posture, de tendance de la tête et de mouvement du haut du corps**. Ces construits sont des proxys, et une posture signalée est une classification portant sur un corps plutôt qu'une observation d'une transgression.
-
-## Concepts liés
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Articles liés
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — L'IA portable supprime le signal comportemental dont dépend la surveillance (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revue systématique de dix ans de la surveillance automatisée des examens en ligne
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Revue complète de la malhonnêteté académique dans la surveillance automatisée
-- [[conijn-fear-big-brother-proctored-exams-2022]] — La peur du Big Brother : les effets secondaires négatifs de la surveillance sur l'anxiété d'examen
-- [[biology-degree-integrity-genai-cheating-2026]] — Les étudiants peuvent-ils tricher jusqu'à obtenir un diplôme de biologie ? Étude de cas de la vulnérabilité des notes des cours de biologie à la malhonnêteté académique à l'ère de l'IA générative
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Sous surveillance : cartographie des pratiques de surveillance à distance dans l'évaluation des étudiants en soins infirmiers
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44,2% d'étudiants étiquetés à haut risque lors d'un examen surveillé en présentiel, avec un risque prédit à partir des traces du LMS en début de semestre

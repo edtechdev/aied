@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
@@ -41,12 +42,3 @@ Dirigentes de instituições de educação profissional que decidem por onde com
 ## Notas e ressalvas
 
 É orientação, não avaliação. O guia não traz dados de resultados, e seus exemplos institucionais, um modelo de aprendizagem com IA integrada ao conteúdo no College of the North Atlantic (Canadá) e o padrão queniano de 2023 sobre vínculo industrial na educação profissional, são caixas descritivas baseadas em relatórios de projeto, não ensaios independentes. Os anexos se declaram indicativos; a escala de maturidade é um apoio à discussão, não um instrumento de medição. Ocupações críticas para a segurança e reguladas ganham um capítulo, mas ele defende uma posição sobre supervisão humana em vez de oferecer detalhe regulatório. A licença CC BY-SA 3.0 IGO permite adaptação e republicação com atribuição e compartilhamento igual.
-
-## Conceitos conectados
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

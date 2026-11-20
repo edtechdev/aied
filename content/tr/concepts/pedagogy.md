@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -83,7 +85,6 @@ Bilgi tabanının [[learning-gains]] araştırmasıyla tutarlı biçimdeki temel
 
 Korunan çabaya yapılan bu vurgu mutlak değildir: dört çalışmalı bir [[mixed-methods-research|karma yöntem]] tasarımı (N = 912), GenAI’yı pedagojik bir ortak olarak çerçevelemenin hem kritik tetikte olmayı hem stratejik boşaltmayı etkinleştirdiğini ve eşiğin üzerindeki boşaltmanın üst düzey yansıtma için kapasite serbestleştirerek onu aşındırmak yerine serbest bıraktığını bulmuştur ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang ve Zhang (2026)]]).
 
-
 Öğrenci ile [[student-ai-interaction|YZ etkileşimi]], sabit bir bağımlılık olarak değil bilişin dağılımının değişen bir süreci olarak okunmalıdır: disiplinler arası bir [[engineering-education|mühendislik]] dersindeki 53 ChatGPT konuşması boyunca 321 istek düzeyindeki kodun %53,3’ünde en sık etkileşim türü genişletme (sıkı, yinelemeli birlikte düşünme) olmuş, onu %29,6 ile dışarıdan devretme izlemiştir ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane ve Arikan (2026)]]).
 
 ## Eğitimde yapay zeka için çıkarımlar
@@ -100,50 +101,3 @@ Korunan çabaya yapılan bu vurgu mutlak değildir: dört çalışmalı bir [[mi
 - **“YZ’nin eğitimdeki temel katkısı öğretimseldir.”** **28 çalışmalık bir PRISMA incelemesi**, YZ’nin en sık **öğretim planlamasını ve değerlendirme tasarımını** güçlendirdiğini bulmuştur: en net katkı **yönetsel iş yükünü boşaltmaktır**, öğretim değil. Öğretimsel kazanımlar etrafında kurulan bir gerekçe, kanıtın daha zayıf dalı üzerine kurulmaktadır.
 
 - **“YZ okuryazarlığı eğitimi kendiliğinden daha iyi öğretime aktarılır.”** **59 çalışmalık (172 etki büyüklüğü) üç düzeyli bir meta-analiz**, bilgi odaklı müdahalelerin (**g ≈ .97**) bilgiyi hareket ettirmede diğer yaklaşımları açıkça geçtiğini bulmuştur. Ölçülen sonuç bilginin hareket etmesidir; pratiğe ulaşıp ulaşmadığı bir sonraki sorudur.
-
-## Bağlı kavramlar
-
-- [[pedagogical-partnerships]] — Pedagojik İşbirliği
-- [[online-teaching-and-learning]] — Çevrimiçi Öğretim ve Öğrenme
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Bir öğretim tekniği olarak metafor ve benzetme
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Bir öğretim tekniği olarak vaka yöntemi ve karşıtlık oluşturan vakalar
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — Pedagojik ilkeleri izlemek üzere eğitilmiş YZ araçları
-
-## Bağlı makaleler
-
-- [[genai-didactic-pedagogical-mediator-2026]] — Didaktik-pedagojik aracı olarak GenAI: öğretmen–öğrenci–GenAI üçlü modeli (Moganadas ve ark. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — "Önce pedagoji, sonra teknoloji" — TPAIK, öğrenci sonuçları için teknik TAIK’ın önündedir (Shen ve ark. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Üretici yapay zeka ile pedagojik işbirliği
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Öğretimsel rehberliğin GenAI öğrenme etkilerini nasıl şekillendirdiği
-- [[generative-ai-guardrails-harm-learning]] — Koruyucu tedbirli (yanıt değil ipucu) özel ders, sınav cezasını ortadan kaldırır
-- [[agentic-ai-pedagogical-best-practice-2026]] — Ajani YZ’de otomasyon-öğrenme gerilimi
-- [[jeon-isd-agent-bench-2026]] — Ajanları öğretim tasarımı kuramında temellendirmek
-- [[ai-learning-tools-engineering-education-needs]] — Mühendislik eğitiminde YZ öğrenme araçları
-- [[fowlin-operationalizing-learning-principles-ai]] — YZ ile öğrenme ilkelerini işlerlik kılmak
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — YZ ve Öğretim Tasarımı Uygulaması: Sistematik Bir Derleme (Kibar ve Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — YZ okuryazarlığı müdahalelerinde öğretimsel yaklaşımlar
-
-- [[cognitive-distribution-student-genai-interaction-2026]] — Sabit bağımlılık değil, değişen bilişsel dağılım olarak öğrenci-YZ etkileşimi (%53,3 genişletme)

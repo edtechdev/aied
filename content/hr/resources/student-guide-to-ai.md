@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -48,11 +49,3 @@ Studenti preddiplomskog studija svih smjerova i učenici viših razreda srednje 
 Vodič je [[formative-assessment|formativno]] uokviren i to i kaže: rezultati su snimka navika, a ne ocjena, osobina ili predviđanje, i studentima se kaže da ih ne dijele javno.
 
 Uokvirivanje umjetne inteligencije počiva na citiranim anketnim i eksperimentalnim dokazima da prenošenje truda na vanjskog izvršitelja može ostaviti studente s manje usvojenog znanja — to je pitanje [[cognitive-offloading|kognitivnog rasterećenja]] kojem je vodič namijenjen kao protuteža, a ne kao rješenje. PDF terenskog vodiča nalazi se iza kratkog obrasca koji traži ime, ulogu, ustanovu i e-adresu; moduli nastavničkog vodiča i rad o pedagoškom okviru preuzimaju se izravno. Interaktivna inačica radi u Gemini Notebooku i treba Google račun. Brojke izdavača o više od 40.000 preuzimanja PDF-a u oko 4.000 ustanova u 180 zemalja i o više od 130 prilagođenih izdanja za kampuse njihove su, kao i preporuke ALA-e, NASPA-e, EDUCAUSE-a, OLC-a, CAA-e, instituta Gardner i RTI Internationala.
-
-## Povezani pojmovi
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

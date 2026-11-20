@@ -9,6 +9,8 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 reviewed_by: [editor]
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 > **Virtual and Augmented Reality (VR/AR)** — the display and interaction layer through which learning environments are experienced: fully synthetic spaces in VR, and digital content overlaid on the physical world in AR and mixed reality. AI enters this layer in two directions. It authors it, since [[generative-ai|generative AI]] now turns a natural-language description into a working browser-based AR or VR learning tool that no longer requires a specialist developer. And it inhabits it, as [[agentic-ai|agents]], [[pedagogical-agent|pedagogical agents]] and [[rag|retrieved knowledge]] guide a learner hands-free inside the immersive environment. What the modality adds over a screen is presence and [[embodied-learning|embodiment]]; what it costs is fidelity, hardware, and a body's tolerance for being there.
@@ -74,38 +76,3 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - **"Feeling the phenomenon means understanding it."** A pilot found students reported **feeling** wavelength and amplitude through a hand gesture more strongly than through a slider — but **it measured perception, not achievement**. The felt sense is the affordance, and whether it produced understanding is a separate test.
 - **"High usability scores validate an educational VR tool."** In a **one-hour session with 10 students** on a Meta Quest 3, the study reported **good usability on the System Usability Scale and minimal simulation sickness**. Usability and comfort are prerequisites and neither is a learning measure.
 - **"Students' agreement is evidence of the affordance."** With **29 second-year medical-imaging students**, all 29 **agreed the gesture helped them "feel" what wavelength is (mean 4.52)**. Unanimous agreement on a feeling is self-report about experience, and the affordance claim needs an outcome that does not depend on the student's judgment of their own understanding.
-
-## Connected Concepts
-
-- [[simulation]] — what immersive environments usually display; the model, not the modality
-- [[embodied-learning]] — the mechanism the modality is supposed to exploit
-- [[multimodal]] — gesture, voice and spatial input as learning channels
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — the setting where immersive practice is most established
-- [[generative-ai]] — the new authoring layer
-- [[prompt-engineering]] — how non-programmers build and refine immersive tools
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — grounding guidance inside the headset
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — fidelity, and the learner's awareness of its limits
-- [[cognitive-offloading]] — latency and instability as extraneous load
-- [[edtech-platform]] — synchronisation, latency and multi-site presence
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Connected Articles
-
-- [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence
-- [[mixed-reality-engineering-learning]] — mixed-reality apps vs physical toolkits vs classroom in engineering mechanics; engagement up, complex visualization still hard
-- [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-assisted multimodal instruction in VR stage lighting education, and where grounding broke down (Liang et al. 2026)

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -83,28 +85,3 @@ ai_assist:
 - **"नेटवर्क विश्लेषण इसलिए वस्तुनिष्ठ है क्योंकि वह संगणनात्मक है।"** **कोडिंग नींव है**: सभी नेटवर्क रूपांतर इस पर निर्भर हैं कि कच्चे डेटा (उच्चारण, घटनाएँ, संबंध) को विश्वसनीय रूप से असतत नोड्स में कोड किया जाए, और स्वचालित कोडिंग अपनी परिभाषाएँ उसी से विरासत में लेती है जिसने उन्हें तय किया। [[visualization|दृश्य]] एक उभरती संरचना जैसा लगता है और उसके नोड्स व्याख्यात्मक चुनाव हैं।
 - **"नेटवर्क संरचना में बदलाव अपने आप में अधिगम-लाभ है।"** **बीस मिश्रित-अनुशासन स्नातक छात्रों** की एक केस चर्चा में, **आकार-3 साझा-शब्द हिस्सा 5.2% से 8.0%** तक बढ़ा जबकि **सामग्री टोकन अपनी पश्च-दर के लगभग 0.65 गुना** तक गिरे। दो संरचनात्मक माप विपरीत दिशाओं में चले, इसलिए "नेटवर्क बदला" तब तक निष्कर्ष नहीं है जब तक आप न कहें कि किस माप पर और क्यों मायने रखता है।
 - **"अधिक शब्द साझा करने का अर्थ बेहतर सहयोग है।"** बढ़ता साझा-शब्द हिस्सा और गिरती सामग्री-टोकन विविधता छोटी शब्दावली पर अभिसरण के अनुरूप है। सहमति और संकुचन संरचनात्मक रूप से समान हैं, इसीलिए माप को वह सामग्री चाहिए जिससे वह गणना किया गया।
-
-## संबंधित अवधारणाएँ
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## संबंधित लेख
-- [[caeai-response-length-ai-ethics-education-2026]] — साझा-पद सांख्यिकी को शब्दसागरीय संरेखण नहीं, बल्कि प्रतिक्रिया की लंबाई चलाती है, प्रतिभागी–मॉर्फीम नेटवर्क में (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — स्कैफोल्ड किए गए EFL लेखन में शिक्षार्थी–चैटबॉट अंतःक्रियाओं का TNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI साक्षरता अंतःक्रिया पैटर्न का ENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — मानव–एआई सहयोगी समस्या-समाधान का ENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — संज्ञानात्मक ऑफलोडिंग और प्रॉम्प्टिंग (SNA/नेटवर्क विधियाँ)
-- [[youtube-frames-chatgpt-education]] — शिक्षा में ChatGPT के YouTube फ्रेम का ENA
-- [[agency-gap-ai-writing]] — एआई-समर्थित लेखन में एजेंसी अंतर (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — निष्ठा मेट्रिक क्या छोड़ते हैं: सिंथेटिक शैक्षिक डेटा पर एक संरचनात्मक जाँच
-- [[dang-human-ai-collaboration-competency-2026]] — ENA शिक्षकों की क्षमता-संवाद को भी मैप करता है

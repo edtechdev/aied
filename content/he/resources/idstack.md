@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -43,7 +44,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## מה לדעת לפני אימוצו
 
 התוסף דורש Claude Code ומעבד-bash להתקנה; PowerShell ו-cmd אינם יכולים להריץ את סקריפט-ההתקנה, ו-Python 3 מומלץ למגמות-ציון. נתוני-הקורס נשארים בתיקיית-הפרויקט במכונה-של-הקורא עצמו, ועוזבים אותה רק דרך אינטגרציה שהמשתמש מפעיל, כגון קריאת-API-של-Canvas. ההסקה-החיה של תוסף-Chrome דורשת מפתח-API-חינמי-משל-הקורא-של-Google-AI-Studio, בעוד שמצב-סימולציה מדגים אותו בלי אחד. הפרויקט מתייג את עצמו beta בגרסה 3.5.1.0 ומזהיר משינויים-שוברים בין גרסאות-משנה, והוא מפורסם תחת חשבון-ה-GitHub של savvides ולא על ידי מחבר-בשם.
-
-## מושגים מחוברים
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

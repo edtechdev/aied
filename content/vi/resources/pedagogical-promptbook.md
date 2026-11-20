@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -37,6 +38,3 @@ Các chương trải rộng [[learning-design|thiết kế giảng dạy]] và t
 ## Những điều cần biết trước khi dùng nó
 
 Sách truy cập mở theo giấy phép CC BY, tức là đầu dễ dãi của dải giấy phép cho học liệu giảng dạy: giảng viên có thể sao chép, điều chỉnh và dùng các [[prompt-engineering|prompt]], kể cả cho mục đích thương mại, miễn là ghi công đúng cách. Điều đó khiến việc bản địa hóa một prompt cho một học phần cụ thể hay một thiết lập [[pedagogical-agent|tác tử]] trở nên đơn giản, điều mà các giấy phép hạn chế hơn trên những bộ sưu tập tương tự không cho phép. Sách được xuất bản trên EdTech Books năm 2026 với bản tải PDF và DOI 10.59668/2340, do David Wiley biên tập. Vì mỗi chương báo cáo cả thiết kế đánh giá lẫn kết quả, nó cũng là một mẫu cho những giảng viên muốn tự kiểm nghiệm prompt của mình thay vì nhận phán đoán của người khác.
-
-## Khái niệm liên quan
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

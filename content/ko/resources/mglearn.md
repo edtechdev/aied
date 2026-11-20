@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -49,8 +50,3 @@ K–12 교사와 이들을 훈련하는 전문성 개발 담당자를 대상으�
 ## 참고 사항과 주의점
 
 콘텐츠는 CC BY-NC 4.0으로, 기반 코드는 MIT로 라이선스되어 있어 출처를 표시하면 교실 사용, 로컬 호스팅, 개작이 허용되지만, 자료를 판매하거나 유료 교육에 묶으려면 TCEA의 서면 허가가 필요합니다. 다른 사람의 저작물은 라이선스에서 제외되며, 문학 활동은 저작권이 있는 작품의 본문을 재현하지 않습니다. 이 프로젝트는 콘텐츠와 번역이 편집 검토 아래 생성형 AI로 제작되었으며, 번역은 기계 지원으로 이루어져 교실에서 사용하기 전에 현지 교육자의 검토를 받도록 표시되어 있다고 밝힙니다. 이는 교육구가 이를 대규모로 도입하기 전에 진지하게 고려할 가치가 있습니다. 모든 활동은 학생의 브라우저에서 로그인 없이, 데이터 수집 없이 실행됩니다.
-
-## 연결된 개념
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
-

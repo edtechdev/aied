@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -64,7 +66,6 @@ L'intersezione tra partnership pedagogica e IA è uno dei filoni in più rapida 
 - **Studenti come co-creatori di strumenti di IA.** Nei framework di "studenti come partner", gli studenti hanno co-progettato e perfezionato [[conversational-ai|chatbot]] di IA personalizzati, allineati agli obiettivi pedagogici — un approccio che estende il paradigma SaP fino a includere gli strumenti di IA stessi e che pone la voce degli studenti al centro di un'innovazione responsabile dell'IA ([[lo-co-creating-custom-gpts-sap-2026]]).
 
 - **Co-creazione su larga scala, misurata con cautela.** In un corso di progettazione software da 710 studenti, gli studenti hanno costruito un [[intelligent-tutoring|tutor IA]] per un pari anziché usarne uno. La libertà progettuale è stato il tema positivo principale (22,3%) e le istruzioni poco chiare il reclamo principale (23,7%), ma l'apprendimento percepito correlava con i punteggi dei quiz solo a r = 0,161–0,315 e il progetto non aveva un gruppo di controllo ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Costruire lo strumento è una pedagogia plausibile e, su queste evidenze, non provata, motivo per cui il caso a suo favore poggia sull'attività di progettazione anziché sui guadagni di esito.
-
 
 - **Co-progettazione dell'intera classe, valutata tramite [[self-assessment|autovalutazione]].** Un programma di primo anno in information studies aveva fatto co-progettare a studenti e docenti obiettivi e politiche del corso nella prima settimana, per poi rivisitarli durante il semestre, con gli studenti che valutavano se stessi e i propri gruppi rispetto a obiettivi personali, obiettivi di gruppo e una rubrica condivisa, anziché rispetto ai prodotti finali ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Co-creazione nella valutazione e nell'IA.** Partnership studente-personale hanno co-valutato output generati dall'IA nelle prove di corso e co-progettato criteri di valutazione, migliorando la comprensione dei benefici e dei limiti dell'IA e sostenendo l'[[self-regulated-learning|apprendimento autoregolato]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
@@ -112,37 +113,3 @@ Per docenti e istituzioni che intendano adottare la partnership pedagogica, la r
 - **"Partnership significa dare più voce agli studenti."** Una partnership pedagogica è una **relazione delimitata e negoziata** con ruoli definiti e obbligo reciproco, non una consultazione. La voce senza un ruolo, un mandato e una quota della decisione non cambia nulla di strutturale.
 - **"La partnership è una postura che si può adottare."** Richiede condizioni istituzionali — tempo, riconoscimento per lo studente partner e un cambiamento che i partner possano davvero influenzare. Una partnership dichiarata senza quelle condizioni riproduce la gerarchia che afferma di interrompere.
 - **"La condivisione del potere non può essere sviluppo del corpo docente."** La tesi della letteratura è che la partnership è sviluppo *perché* cambia la comprensione dell'educatore attraverso la relazione. Inquadrarla solo come beneficio per gli studenti scarta il meccanismo.
-
-## Concetti collegati
-- [[pedagogy]] — Pedagogie e strategie didattiche
-- [[collaborative-learning]]
-- [[agency]] — Agency del discente
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Articoli collegati
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment design through co-creation: Student-staff partnership in evaluating AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
-- [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
-- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
-- [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Studenti che costruiscono un tutor IA per i pari su scala di 710 studenti: coinvolgimento alto, evidenza di apprendimento esplorativa (Zangari et al. 2026)
-

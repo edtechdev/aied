@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,7 +70,6 @@ updated: "2026-11-08T10:26:27-05:00"
 - **السقف منخفض في مسائل الرياضيات المعتمدة على الأشكال الأصيلة في المنهج — والرفض هو البديل المعايَر.** قيّم [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau وHeffernan (2025)]] ستة نماذج متعددة الوسائط على 376 بندًا [[math-education|للمرحلة المتوسطة]] يتطلب صورًا تحمل أشكالها قيودًا جوهرية للمهمة.
 ومع الصور، حلّت نماذج الاستدلال o4-mini 57.7% من البنود وo3 52.4%، مقابل 34.0%–42.6% لعائلة غير الاستدلالية؛ وعند حجب الشكل رفضت النماذج بدل التخمين في 95.4%–98.9% من التشغيلات — وهو نمط امتناع يستطيع المدرّس معاملته كإشارة نقص سياق لا كخطأ متعلّم.
 
-
 والمدلول التصميمي العملي هو **نقطة تحقق من الإسناد البصري** في التوجيه متعدد الوسائط: خطوة مقصودة يصف فيها النظام ما يراه قبل محاولة الحل، مانحةً الطالب أو مشرفًا بشريًا فرصة تصحيح أخطاء الإدراك.([[syal-multimodal-dialogue-stem-2026]])
 
 يضيف [[ai-assisted-physics-lab-report-assessment-2026|أبرو وزملاؤه (2026)]] قيدًا سابقًا: قد تظهر معادلة أو رسم بياني أو وحدة في تقرير ومع ذلك لا تُسترجع أبدًا من الوثيقة المعالجة، فقد يكون الخلاف مع المعلّم إخفاق استخراج لا استدلال — ما يجعل صيغة التسليم جزءًا من تصميم التقويم.
@@ -89,7 +90,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 لتعدد الوسائط معنى ثانٍ: دمج إشارات من جسد المتعلّم لا من المحتوى، حيث تُغذّي تتبّع العين، والتخطيط الدماغي الكهربائي، والنشاط الجلدي الكهربائي، وتغيّر معدل ضربات القلب، ووضع الكاميرا تقديرات الانتباه والانخراط والحمل المعرفي. وهذا الخيط الاستشعاري يقيم في [[sensor-and-gaze-analytics]]، ومشكلات صلاحيته وموافقته ليست المشكلات التي يثيرها المحتوى متعدد الوسائط.
 
-
 ## الذكاء الاصطناعي متعدد الوسائط للغة التعلّم والتعلم المتاح
 
 توسّع الأنظمة متعددة الوسائط أيضًا الوصول و[[personalized-learning|التخصيص]]. وتتكيف أدوات تعلّم [[video-education|الفيديو]] الصوتي الموجّهة بالذكاء الاصطناعي مع سرعة التشغيل، وتنتج ملخصات فيديو متعددة الوسائط، وتدعم ممارسة النطق.([[ai-guided-learning-audiovideo-2026]]) واستدلال رسوم المعرفة البيانية متعددة الوسائط عبر الصور والنص للمهام التعليمية،([[multimodal-knowledge-graph-educational-reasoning]]) وتحسن التمثيلات متعددة الوسائط [[inclusive-learning]] بترجمة المعلومات عبر الأنماط (مثلًا النص إلى صوت أو مرئيات). وتشمل التطبيقات المجالية تقييم الرياضيات المكتوبة بخط اليد وتشخيصها،([[llm-cognitive-diagnosis-handwritten-math]]) والتوجيه [[affective-tutoring|الوجداني]] بإشارات متعددة الوسائط،([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) والتعلّم من النص إلى الصورة في مجالات متخصصة،([[nuclear-diffusion-text-to-image-learning-2026]]) والاستشعار الصفي متعدد الوسائط الواعي بالخصوصية.([[privacy-aware-classroom-incident-recognition-2026]]) ويُظهر بيرد (2026) شكلاً داخليًا للنص من تعدد الوسائط: إذ يدمج محوّل ELECTRA مضبوطًا دقيقًا مع تحليل السمات اللغوية الحاسوبية لتصنيف الأدب الإنجليزي حسب مرحلة المفتاح البريطانية، حيث تجاوز النموذج المدمج (F1 0.996) كل خط أساس أحادي النمط تجاوزًا بعيدًا — وهو دليل على أن الجمع بين الأشكال التمثيلية، حتى داخل النص، يمكن أن يتفوق على المناهج أحادية النموذج.
@@ -104,7 +104,6 @@ updated: "2026-11-08T10:26:27-05:00"
 6. **طابق خط الأنابيب مع المحتوى.** تعامل مساعد مختبر أمن سيبراني بنموذج لغة كبير متعدد الوسائط مع شرائح مرئية كثيفة أفضل، بينما قدم خط أنابيب OCR-مع-نموذج لغة كبير قيمة تعليمية مماثلة على شرائح نصية محورية بتكلفة حاسوبية أقل دلالةً.([[genai-cybersecurity-ocr-multimodal-instruction-2025|باتل وزملاؤه (2025)]])
 7. **جمع عدة تدفقات ليس دمجًا لها.** صنّفت مراجعة لـ23 دراسة في الذكاء الاصطناعي [[embodied-learning|للتعلّم المُجسَّد]] العمل متعدد الوسائط في ثلاثة مستويات — تدفقات تُجمع بالتوازي، وتدفقات تُحاذى على خط زمني مشترك، وتدفقات تُدمج داخل نموذج واحد يقدّر حالة المتعلّم — ووضعت معظم الدراسات في الأول، تقرن صورة بنص أو حركة بنص دون أن تصل بينهما أبدًا. وواحدة حاذت الانفعال الوجهي والنظر وكشف الوجه بعد وقوعها؛ وأقرب اقتراب من الدمج نمذج حالات مشتركة من إشارات سوار وأخرى هيكلية بعملية ماركوف، وجرى بعد الجلسة لا في أثناء تقديم التغذية الراجعة للمتعلّمين. ولم يدمج أي نظام مُراجَع مدخلاته أثناء الاستخدام ([[kim-ai-embodied-learning-review-2026|Kim وHan (2026)]]).
 
-
 ## المفاهيم الخاطئة الشائعة
 
 **«نموذج متعدد الوسائط يعالج المسائل متعددة الوسائط.»** تتدهور الدقة حادًا عندما يحمل الشكل المعنى بدل النص. فمدرّس [[physics-education|الفيزياء]] الآلي يجيب على المسائل النصية بنحو **96%** من الوقت لكنه ينزل إلى نحو **74%** على المسائل التي تُغمد المعنى فيها في المخططات — وهو **أثر التداخل متعدد الوسائط**. اثنتان وعشرون نقطة من القدرة تختفي بالضبط حيث يسكن المحتوى التخصصي.
@@ -114,61 +113,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«القدرة متعددة الوسائط سلّم واحد، فأفضل نموذج عمومًا هو الأفضل للمهمة الغنية بالصور.»** القدرة خاصة بالمهمة، والنموذج المتقدّم على [[benchmark|المعايير العامة]] قد يتأخر على مخططات القوى. وفي التخصصات الغنية بالصور يكون الاختبار ذا الصلة هو الذي يُغمد المعنى فيه في الشكل.
 
 **«حدود التدريس النصي فقط إزعاج لا مشكلة [[curriculum-design|منهجية]].»** في تخصصات يكون فيها المخطط *هو* المسألة — الفيزياء والكيمياء والهندسة والطب — يقع حد كفاءة المدرّس النصي فقط عبر المحتوى المقيَّم لا عند أطرافه.
-
-## المفاهيم المرتبطة
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — مظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب نماذج اللغة الكبيرة، والروبوتيات، والتوليد المعزز بالاسترجاع، والوكيلية)
-- [[virtual-and-augmented-reality]] — الإيماءة والصوت والمدخل المكاني كقنوات تعلّم
-- [[speech-and-voice-technologies]]
-
-- [[sensor-and-gaze-analytics]]
-
-- [[arts-and-media-education]]
-
-## المقالات المرتبطة
-- [[elkington-human-centred-assessment-value-2026]] — تقويم محوره الإنسان وتجمّعات وقود توليدية (إلكينغتون 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — تركيب إعلان خدمة عامة مرئي حول أخلاقيات الذكاء الاصطناعي كبيداغوجيا لثقافة الذكاء الاصطناعي النقدية (بوريس وزملاؤه 2026)
-- [[student-attention-estimation-fairness-2026]] — نمذجة محوّل متعدد الوسائط واعية بالإنصاف لتقدير انتباه الطالب في الزمن الحقيقي
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — أداء النموذج البصري اللغوي على عمل الرياضيات المكتوب بخط اليد للطلاب (DrawEduMath، لوسي وزملاؤه 2026)
-- [[multimodal-learning-genai]] — دليل المربي للتعلّم متعدد الوسائط بالذكاء الاصطناعي التوليدي (نموذج MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — أثر التداخل متعدد الوسائط والتعافي بالحوار المنظم في العلوم والتكنولوجيا والهندسة والرياضيات
-- [[multimodal-ai-feedback-learning]] — تطابق تغذية الذكاء الاصطناعي الراجعة متعددة الوسائط المربين في التعلّم وتجاوزها لهم في التصورات
-- [[multimodal-prompting-ai-literacy]] — تحفيز الطلاب متعدد الوسائط كعمل معرفي في ثقافة الذكاء الاصطناعي
-- [[multimodal-item-parameter-estimation-2026]] — تقدير معاملات بنود IRT بنماذج لغة كبيرة متعددة الوسائط
-- [[ai-guided-learning-audiovideo-2026]] — دعم تعلّم الصوت والفيديو الموجّه بالذكاء الاصطناعي
-- [[multimodal-knowledge-graph-educational-reasoning]] — رسوم معرفة بيانية متعددة الوسائط للاستدلال التعليمي
-- [[mllm-scientific-visualization-literacy]] — ثقافة نموذج لغة كبير متعدد الوسائط للتصوير العلمي
-- [[multimodal-affective-its-presentation]] — إشارات متعددة الوسائط في التوجيه الذكي الوجداني
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — توجيه رياضيات وجداني متعدد الوسائط
-- [[llm-cognitive-diagnosis-handwritten-math]] — تشخيص معرفي بنموذج لغة كبير للرياضيات المكتوبة بخط اليد
-- [[nuclear-diffusion-text-to-image-learning-2026]] — التعلّم من النص إلى الصورة في تعليم الهندسة النووية
-- [[privacy-aware-classroom-incident-recognition-2026]] — استشعار صفي متعدد الوسائط واعٍ بالخصوصية
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — تعليم OCR متعدد الوسائط في تعليم الأمن السيبراني
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: مقارنة مرجعية لنماذج اللغة الكبيرة متعددة الوسائط في تدقيق الشرائح
-- [[ai-grading-handwritten-physics-2026]] — تقييم بالذكاء الاصطناعي لتقاويم الفيزياء المكتوبة بخط اليد (الأولمبياد)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — تركيب الذكاء الاصطناعي متعدد الوسائط والتفكير النقدي في كتابة المرحلة الابتدائية (لو وزملاؤه 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — ما بعد التوليد والدقة: تشخيص سلسلة التفكير البصرية وتعزيزها لحل مسائل الهندسة
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 مهمة عبر 1,174 عملًا فنيًا تُظهر قدرة النموذج البصري اللغوي كملف شخصي خاص بالأبعاد، أضعف ما يكون في التأويل الوجداني والاستدلال المكاني المعتمد على وجهة النظر (تشو وزملاؤه 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — التقييم بالذكاء الاصطناعي لتقارير مختبرات الفيزياء التجريبية: الإمكانات والحدود ودعم ممارسة التعليم
-- [[kim-ai-embodied-learning-review-2026]] — الذكاء الاصطناعي في التعلّم المُجسَّد يراقب في الأغلب: أدوار الاستشعار 62.5% من وسوم الأدوار المرمَّزة، ولا نظام مُراجَع دمج تدفقات متعددة الأنماط أثناء استخدام المتعلّمين لها (Kim & Han 2026)

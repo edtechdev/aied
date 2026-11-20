@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -71,34 +73,3 @@ ai_assist:
 **“Önceki bilgisi daha az olan öğrenciler daha fazla YZ desteğine ihtiyaç duyar.”** Bu, uçurumu genişletme olasılığı en yüksek yöndür; çünkü ölçülen bırakma örüntüsü yazarlık kaybını önceki bilginin en ince olduğu yerde yoğunlaştırır. Yer değiştirmeyi saptayacak donanımı en az olan öğrenene işi sağlayan destek, eksik bilgiyi inşa edecek etkinliği ortadan kaldırır.
 
 **“Önceki bilgi, dersin hareket ettiremeyeceği sabit bir girdidir.”** Yeni öğrenmede en ağır ağırlıklı etkendir; bu da onu arka plan koşulu değil, kaldıraç etkisi en yüksek görev kılar: alan bilgisinin yalnızca bir ortak değişken değil, başlı başına müdahale olmasının nedeni.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramlar için şemsiye başlık
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Verimli Başarısızlık
-- [[retrieval-spacing-interleaving]] — öğrenenin zaten bildiğinin, geri çağırma pratiğinin neler yapabileceğini nasıl belirlediği
-
-## Bağlı makaleler
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Otomasyon ile öğrenme arasındaki gerginlik (önceki bilgi etkinleştirme riski)
-- [[genai-mindtool-generative-learning]] — Zihin aracı olarak üretici YZ: önceki bilgiyi hazırlama ve etkinleştirme
-- [[nie-personavlm-long-term-personalization-2026]] — YZ öğrenen modelleme ve bellek
-- [[lodge-loble-cognitive-offloading-2026]] — Bilişsel dışa aktarma üzerine Lodge & Loble
-- [[cognitive-offloading-llm-synthesis-writing]] — YZ sentez yazmasında bilişsel dışa aktarma
-- [[bridging-instructional-design-framework-math]] — Matematik için bir öğretim tasarımı çerçevesi
-- [[knowledge-building-tutor-learning-2026]] — önceki bilgi değil, bilgi kurma; özel ders öğrenmesini öngörür ve bilgi kuran düşük önceki bilgili özel derslerin yetişmesi
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Son testi önceki bilgi taşıdı (η²p = ,63), uyarlamalı görev seçimi hiçbir şey taşımadı (Sibley ve ark. 2026)

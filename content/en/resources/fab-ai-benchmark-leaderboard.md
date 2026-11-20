@@ -16,6 +16,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 Fab AI evaluates models on education tasks that matter where budgets, bandwidth and language coverage are constrained in the [[global-south|low- and middle-income countries]] the benchmark is built for, and publishes the results as a sortable leaderboard rather than a paper. The core table scores a pedagogy benchmark alongside SEND, visual maths and visual reasoning, with separate tabs for multilingual pedagogy, foundational literacy and read-aloud assessment.
@@ -33,9 +34,3 @@ Policymakers and procurement teams choosing models for national systems, researc
 ## Notes and caveats
 
 A leaderboard measures models on the benchmark's own tasks: a high pedagogy score is evidence about those items, not about a classroom. The price column blends input and output token prices at a 3:1 ratio, which is a modelling choice and not what any particular deployment will cost. Coverage of languages and of locally hosted models moves as new models appear, and the low-end scores for small models partly reflect task format as much as capability. Fab AI's framing is explicitly about low- and middle-income countries, so the benchmark's item set reflects that context and should not be read as a general education ranking. Check release dates: several entries predate the current model generation.
-
-## Connected Concepts
-
-- [[benchmark]] — the wider class of instruments this belongs to
-- [[digital-divide]] — the constraint the price and open-weight columns exist to make visible
-- [[equity-in-ai-education]] — the policy question the leaderboard informs

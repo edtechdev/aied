@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -47,9 +48,3 @@ ai_assist:
 ## 说明与注意事项
 
 以 Apache-2.0 免费开源，但成本是转移而不是消失：硬件、电力和运行集群的人员时间。以基础设施的标准看，这个软件还很年轻——三位贡献者、单一发起院校、发布编号到了数百个标签——所以高校应当把它与现有服务并行试点，而不是作为通向模型的唯一路径。仓库里没有关于真实校园负载下调度与配额行为的已发表评估；PEARC 论文是查找作者本人说法的地方。
-
-## 关联概念
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

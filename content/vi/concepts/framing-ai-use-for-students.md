@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -97,37 +99,3 @@ Học sinh còn bị định khung bởi truyền thông rộng hơn và diễn 
 **"Cấm một công cụ sẽ loại bỏ hành vi."** Nó chuyển hành vi sang những công cụ bạn không thể thấy. Học sinh vốn đã thích các công cụ tự truy cập hơn công cụ do thể chế cung cấp, nên một lệnh cấm đẩy việc sử dụng ra khỏi môi trường duy nhất nơi có thể có hỗ trợ, ghi nhật ký hay hướng dẫn. Nhiệm vụ của định khung là làm cho hành vi được phép trở thành hành vi hấp dẫn, không phải làm cho hành vi bị cấm khó bị quan sát hơn.
 
 **"Định khung là thuyết phục, nên nó là tu từ nhiều hơn là thiết kế."** Việc định khung mà trang này mô tả được ghép với thiết kế: kỳ vọng được nêu rõ ràng và lặp lại *đồng thời thiết kế xoay quanh học sinh*. Thông điệp được đưa ra thay vì được thiết kế cho chính là phiên bản thất bại, vì học sinh đọc ra sự khác biệt giữa một cam kết được nói và một cam kết thực sự.
-
-## Khái niệm liên quan
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Bài viết liên quan
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Đồng thuận của 30 chuyên gia về trình tự: tiếp thu không có GenAI, củng cố với nó, rồi tự mình suy nghĩ
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Lý lẽ minh bạch cho từng việc sử dụng GenAI được phép và không được phép, theo từng nhiệm vụ (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Khuyến khích sử dụng GenAI phù hợp thay vì lên án nó như một sự phá vỡ
-- [[student-rationalization-ai-writing]] — "Năm điểm" nơi học sinh duy lý hóa việc dùng AI trong viết học thuật
-- [[student-regulatory-awareness-genai]] — Biết quy tắc là chưa đủ: nhận thức quy định và việc sử dụng thực tế
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Từ lo âu về AI đến điều chỉnh có chiến lược
-- [[chatgpt-inoculation-training-verification-2026]] — Thông điệp tiêm nhiễm và hành vi kiểm chứng
-- [[ai-fallibility-warning-help-seeking]] — Cảnh báo về khả năng sai của AI làm tăng việc tìm kiếm sự giúp đỡ
-- [[shame-guilt-ai-regulation-computing-education]] — Xấu hổ và tội lỗi như những yếu tố điều chỉnh xã hội việc dùng AI
-- [[access-not-enough-ai-tutoring-2026]] — Hỗ trợ con người cải thiện sự tham gia với gia sư AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Sự tham gia với GenAI dựa trên SDT
-- [[ai-availability-student-motivation]] — Việc có sẵn AI định hình động lực của học sinh như thế nào
-- [[youtube-frames-chatgpt-education]] — YouTube định khung việc dùng ChatGPT trong giáo dục như thế nào
-- [[ai-ethics-education-public-discourse]] — Diễn ngôn công chúng về đạo đức AI trong giáo dục
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Giảng viên định khung AI như việc sử dụng phê phán/có trách nhiệm; nhà tuyển dụng định khung nó như năng suất
-- [[ssaho-ai-academic-integrity-review-2025]] — Xây dựng văn hóa liêm chính học thuật qua kỳ vọng rõ ràng

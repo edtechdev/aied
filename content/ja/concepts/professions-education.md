@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -66,34 +68,3 @@ ai_assist:
 **「シミュレーションは実習の代替になる。」** シミュレーションは制御された条件下で定義されたシナリオを練習するものであり、レビューがそれを主要な応用と位置づけるのは、まさに範囲が限定されているからである。シミュレーションが提供しないのは、指導が存在する理由そのものである、台本のない判断である。
 
 **「AI利用の検出が認定の問題を解決する。」** 検出が答えるのはツールが使われたかどうかであり、受験者が実務を行えるかどうかではない。看護の文献はすでに、二つ目の問いに答えられないために試験監督を選ぶプログラムを示している。
-
-## 関連する概念
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## 関連する記事
-
-- [[llm-turing-test-italian-legal-exams-2026]] — イタリアの司法試験・判事試験・公証人試験を専門家の採点に照らして行った盲検チューリングテスト
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — ロースクールのGenAIポリシーの5要因比較とガバナンスの枠組み
-- [[hardie-genai-nursing-scoping-review-2026]] — 看護教育における応用・態度・倫理に関する103件のスコーピングレビュー
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、構造的な隙間、専門職アイデンティティの再構成
-- [[dabkowski-nursing-academics-genai-2026]] — ポリシーの曖昧さ、専門職の価値観、試験監督を伴う評価への移行
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 看護の評価におけるリモート・プロクタリング:監視、公平性、抑止
-- [[genai-medical-education-transformation-review-2026]] — 医学教育のGenAI報告153件のスコーピングレビュー
-- [[virtual-standardized-patients-osce-evaluation-2026]] — LLMに基づく仮想標準化患者をOSCEの実施に照らして層別化・複数評価者で評価
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 医療AIのカリキュラムは倫理を教える(80.6%)が、データ来歴はほとんど教えない(22.2%)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 教職課程の学生85名:浅いGenAI導入、インテグリティへの不安、評価リテラシー
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — 教員教育におけるAI:枠組み、実証的証拠、倫理
-- [[critsly-design-education-ai-critique-2026]] — AI講評ツールは成果物ではなくプロセスを読む
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — 大学図書館におけるAI導入:システマティックレビュー

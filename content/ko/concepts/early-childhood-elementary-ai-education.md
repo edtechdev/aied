@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -62,7 +64,6 @@ ai_assist:
 - **개인 지식이 아니라 교실 해석 작업으로서의 AI 리터러시.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca와 Yigit-Gencten (2026)]]은 터키의 한 유아원에서 17개의 스토리텔링 세션을 코딩했습니다. 교사가 모든 Midjourney 프롬프트를 작성하고 학급은 공유 화면으로 출력물을 지켜보았습니다. 아이들은 시스템에 생각, 듣기, 의도를 귀속시키며 불일치를 설명했고("충분히 잘 생각해내지 못했어"), 프롬프트와 출력물의 연결을 토론하며, 어떤 이미지를 남길지 투표했습니다. 교사의 질문이 어떤 설명이 채택될지를 결정했고, 때로는 탐구 자체를 닫았기 때문에, 여기서의 초기 AI 리터러시는 한 아동이 소유하기보다 활동 전반에 분산되어 있습니다.
 - **예비 교사 문헌은 AI를 중심으로 조직되지 않았습니다.** 유아 교사의 디지털·미디어 리터러시에 관한 86개 출판물의 계량서지학적 지도는 AI가 존재하지만 주제 군집을 형성하기에는 너무 흩어져 있음을 발견했습니다. 디지털 역량이 중심에 있고 미디어 리터러시는 느슨하게만 붙어 있습니다([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova 등, 2026]]).
 
-
 ## 비연결·구성주의 경로, 그리고 참여가 증명하는 것
 
 위의 틀들은 비연결 놀이를 AI 개념으로 들어가는 발달에 적합한 입구로 제시합니다. 더 넓은 초등 문헌은 그것을 소수 설계로 다룹니다. [[yim-ai-literacy-primary-schools-review-2025|Yim과 Su (2025)]]가 검토한 25개 연구에서 에이전트는 15개, 소프트웨어 중심 기기는 8개에 나타난 반면, 비연결 활동은 3개에 나타났습니다. 여기서 비연결 작업은 측정된 논거라기보다 방어 가능한 [[pedagogy|교수학적]] 논거입니다. 그것에 대한 기반은 에이전트 및 기기 기반 설계보다 얇습니다.
@@ -86,51 +87,3 @@ ai_assist:
 - **"교사들은 AI로 수업 전체를 생성할 것이다."** 교사들이 가장 자주 위임한 것은(**60%**) **스스로 개요를 잡은 수업의 내용 공백을 채우는 일**이었지, 수업 계획 전체를 생성하는 일이 아니었습니다. 위임의 단위는 수업이 아니라 공백입니다.
 - **"어린 아동은 AI 지원 미디어 리터러시에서 더 적게 얻는다."** AI 지원 집단은 **미디어 읽기(+3.50), 쓰기(+1.67), 총 미디어 리터러시(+5.17, 모두 p < .01)**에서 큰 향상을 보였고, 집단 간 효과 크기는 d = 1.12 이상이었습니다. 이 연령대에서 향상은 미미한 것이 아니라 컸습니다.
 - **"자동화된 관찰은 모든 측면에서 인간 평가자와 일치한다."** 일치도는 **전체적으로 중간 수준(가중 κ = 0.681)이었지만 구성개념에 따라 달랐습니다**. 수렴은 **정서적 지원** 영역과 **피드백의 질**에서 유지되었고 그 밖에서는 유지되지 않았습니다. 영역을 평균 내면 도구가 실패하는 지점이 가려집니다.
-
-## 연결된 개념
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## 연결된 문서
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 생성형 AI 시대의 유아 교육: 역량, 교수법, 생태적 지원 (Pei 2026)
-- [[preservice-early-childhood-genai-magnetism-2026]] — 과학 활동 설계에서의 생성형 AI와 관련한 유아 교육 예비 교사들의 참여: 자석의 사례
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: AI가 어린이 동화의 발달적 적합성을 평가할 수 있는가?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — 유아 교육 현장에서 AI를 사용하려는 유아원 교사들의 행동 의도 (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: 유아 교육에서의 비연결 AI 개념
-- [[ai-toys-child-development-2026]] — AI가 탑재된 장난감과 아동 발달
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 유아원에서 로봇공학을 통한 전산적 사고
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 초등 분수 학습에서의 AI 기반 개인화 학습
-- [[elementary-writing-genai-systematic-review-2026]] — 생성형 AI 시대의 초등 쓰기 지도
-- [[awareness-technological-isomorphism]] — 초등 수학에서의 기술적 동형화
-- [[icub-humanoid-storytelling-llm-hri-2025]] — 어린이와 함께하는 LLM 휴머노이드 스토리텔링
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 초기 사회·정서 학습에서의 인간–AI 보완성 (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): 유아원과 유치원을 위한 놀이 중심 AI 리터러시 교육과정 (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — 어린이를 위한 AI 기반 비판적 미디어 리터러시 프로그램
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — 초등 영어 교육에서의 AI 매개 도구: 교수 기능과 교사 조율에 관한 범위 검토
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — 창의적 프로젝트 접근: 초기 학습에 AI 에이전트와 로봇공학을 맞추기 위한 틀 (Yang, Li & Lee 2025)
-- [[ai-rated-classroom-observation-scores-2026]] — 내가 코드를 짜든 AI가 코드를 짜든: 홍콩 유아원에서 AI가 평가한 CLASS Pre-K 점수 대 훈련된 인간 평가자 (Fong et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPT와 대화하는 아동과 성인의 최초 신경영상 비교: 6~7세에서 덜 통합된 제어-주의-기억 네트워크
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI 원주민을 위한 AI 리터러시인가? 4개국 비교
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — 디지털 교육 맥락에서 유아 교육 예비 교사의 디지털·미디어 리터러시: 연구 동향의 계량서지학적 분석
-- [[yim-ai-literacy-primary-schools-review-2025]] — 초등학교에서의 인공지능 리터러시 교육: 네 가지 줄기, 구성주의 교수, 그리고 자기보고에 치우친 증거 기반 (Yim & Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — 초등 과학 연구 조망: 다섯 가지 적용 군집, 교사 매개, 그리고 얇은 인식론적 결과 (Barokah 등 2026)

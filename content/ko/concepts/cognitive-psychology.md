@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -67,9 +69,7 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 
 [[generative-ai|Generative AI]]는 인지주의를 연장하기도 하고 도전하기도 합니다. 지식 표상을 더 강력하게 만들어([[knowledge-tracing]]으로 추적되고 [[student-modeling]]로 적응될 수 있는 지식 엔진으로서의 LLM) 연장합니다. 인지가 "어디 있는가"를 복잡하게 만들어 도전합니다. AI가 추론, 기억, 심지어 메타인지와 유사한 기능까지 수행할 때, 학습이 개인의 마음에서 일어나는 내면의 처리라는 인지주의적 가정은 동요합니다. [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|co-regulation]], 탈인간적 구상들은 인지가 인간과 인공 체계에 걸쳐 분산될 수 있다고 논증하기 때문입니다. 그럼에도 인지주의적 질문은 이 분야의 중심 질문으로 남습니다. *학습자가 지식을 내면화하는가, 아니면 도구가 그것을 담고 있는가?* 이것이 가장 순수한 형태의 인지 부하 외주화와 수행–학습 격차의 질문입니다.
 
-
 2026년의 한 실험은 그 경계의 기억 측면에 구체적인 실패 양상을 부여합니다. 오해를 부르는 AI 요약을 읽은 성인 328명 가운데 44.8%만이 나중에 영상 세부 내용을 정확히 식별한 반면, 일관된 요약을 읽은 집단에서는 83.6%가 그랬습니다. AI 또는 인간이라는 표시는 차이를 만들지 않았고, AI에 대한 자기보고 신뢰도 마찬가지였습니다([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). 이는 교실 학습이 아니라 출처 기억에 관한 것이지만, 유창한 요약은 학습자의 출처 기록을 덮어쓸 수 있으며, 이는 학습과 평가에 중요합니다.
-
 
 ## 설계와 연구를 위한 함의
 
@@ -85,41 +85,3 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 - **"정신적 표상은 관찰할 수 없으므로 학습에 관한 인지적 주장은 가정일 뿐입니다."** 과학 영상 시청 중 학습자의 **EEG**에서 이미지를 재구성한 연구는 **표상 충실도가 검사 수행을 추적한다**는 것을 발견했습니다(회귀 계수 **0.8481, R² = 0.79**). 내적 표상이라는 인지주의적 전제는 측정 가능하며, 그 측정은 결과를 예측했습니다.
 - **"높은 R²는 표상이 학습을 설명한다는 뜻입니다."** R² = 0.79는 같은 자료에서의 충실도와 수행 사이의 강한 연관입니다. 충실도를 높이면 수행이 높아진다는 개입 주장을 확립하지는 않습니다.
 - **"지식 구성 요소는 편의상의 모형화 허구입니다."** 분해 가능성은 [[knowledge-tracing]]과 [[cognitive-diagnosis]]를 가능하게 하는 것이며, 그 방법들은 이 가정이 성립하는 정도까지 작동합니다. 그것을 허구로 다루면 방법들이 쓸 만한 추정치를 내는 이유를 버리게 되고, 사실로 다루면 적합된 모형이 마음에 대해 말해 주는 것을 과장하게 됩니다.
-
-## 연결된 개념
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — 이 실천 계열이 기대는 유지에 관한 발견들
-
-## 연결된 문서
-
-- [[sim-ai-summary-memory-distortion-2026]] — 오해를 부르는 AI 요약이 성인들이 기억하는 내용을 바꾸었으며, 요약이 AI 또는 인간 작성으로 표시되었는지와 무관했다
-- [[cognitive-shift-ai-education]] — AI 교육의 인지적 전환
-- [[cogtax-cognitive-taxonomy]] — AI 사용을 위한 인지 분류
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 지식 추적에 뿌리를 둔 교수법적 LLM 에이전트
-- [[nie-personavlm-long-term-personalization-2026]] — LLM 학습자 모형화와 기억
-- [[ai-cognitive-partner-co-regulation-learning]] — 공동 규제된 학습에서의 인지적 동반자로서의 AI
-- [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 인간–AI 상호작용으로서의 사고
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 노력의 양이 아니라 노력의 조직이 부하와 좌절을 추적했다
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — 지식 추적의 숙달 주장은 보조 작업을 어떻게 인정하는가에 달려 있다(Srivastava 2026)
-

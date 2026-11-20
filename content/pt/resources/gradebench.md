@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -43,9 +44,3 @@ Professores que decidem se deixam uma ferramenta de avaliação liberar notas se
 ## Observações e ressalvas
 
 O GradeBench é publicado pela Pensive, uma plataforma comercial de avaliação com IA, então o benchmark e o produto compartilham o mesmo dono; a construção das tarefas é documentada e defensável, mas trate o enquadramento como o do fornecedor. Ele cobre provas de STEM com rubricas de pelo menos quatro itens, o que exclui redações, respostas curtas e postagens de discussão — os formatos em que acontece a maior parte da avaliação em [[humanities-education|humanidades]]. A correspondência exata com a rubrica é uma métrica rigorosa: dois avaliadores podem discordar sobre um item e ambos estarem certos a respeito do estudante. As pontuações descrevem versões de modelos disponíveis em novembro de 2026 e vão mudar.
-
-## Conceitos conectados
-
-- [[automated-assessment]] — a prática que o benchmark mede
-- [[assessment-validity]] — o critério do qual a pontuação do leaderboard é um proxy
-- [[benchmark]] — a classe mais ampla de instrumentos à qual este pertence

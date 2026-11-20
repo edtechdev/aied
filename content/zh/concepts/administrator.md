@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,32 +80,3 @@ ai_assist:
 - **“采用数字衡量就绪程度。”** 已宣告的使用与受治理的使用是不同的量，而本页的证据把它们分开：机构报告战略意图的比例约为一半，领导能力的比例不到十分之一。一项显示员工在使用 AI 的调查告诉你的，是个人在没有许可的情况下已经做了什么，而不是机构能够支持或监督什么。
 - **“采购只是一个行政步骤。”** 在能力靠购买而非自建的地方，合同条款决定了此后什么是可能的：数据所有权、审计访问权，以及该工具究竟能否被评估。把厂商决定当作采购任务来做，会预先关闭机构尚未提出的评估问题。
 - **“治理可以跟在采用之后。”** 这种先后次序主张很常见，但在此没有支持：证据记录的是相反的模式，政策与领导结构跟在已经发生的使用之后。把治理框定为上线之后再建的东西，是从杠杆更少的位置上建立的治理。
-
-## 关联概念
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — 总括概念：AI 教育中的人群与受众（学习者、教师、设计者、管理者、政策制定者）
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — 管理者所运行的制度流程：建议指导、外联、转介与资源分配
-
-## 关联文章
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育领导力中的 AI：综合分类体系
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI 的预见性治理与领导
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — 英国高等教育政策与机构决策中的 AI
-- [[ai-campus-wellbeing-tools]] — 用于校园身心健康的 AI 工具
-- [[genai-policies-higher-ed-computing]] — 计算学科中的机构 GenAI 政策
-- [[institutional-change-framework-ai]] — AI 的机构变革框架
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later"：教育、AI 与 EdTech 中学生隐私的延迟
-- [[students-at-stake-ai-deployment-risks-2026]] — 一套四问采购筛查，框定为学生的权利而非风险管理

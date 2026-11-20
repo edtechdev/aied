@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -44,13 +46,10 @@ Kasvava artikkeliryhmä luo eksplisiittisesti uutta teoriaa tekoälyaikakaudelle
 
 - **Generativismi.** [[generativism-learning-theory|Generativismi]] ehdotetaan uudeksi oppimisteoriaksi, joka väittää behaviorismin, kognitivismin, [[constructivist|konstruktivismin]] ja konnektivismin nojaavan kukin yhteen oletukseen, jonka generatiivinen tekoäly rikkoo: että havaittava tuotos todistaa oppimisen (behaviorismi), että kognitiiviset operaatiot tapahtuvat oppijan sisällä (kognitivismi), että merkitys rakennetaan eikä tarjota valmiina (konstruktivismi) ja että vaikea osa on navigoida olemassa olevaan tietoon sen tuottamisen sijaan (konnektivismi). Se nimeää neljä konstruktia — episteeminen kumppanuus, hajautettu toimijuus, generatiivinen lukutaito ja mukautuva metakognitio — ja johtaa jokaiselle arviointi-indikaattorin, mikä on suora yritys nimetä erillinen teoreettinen paradigma tekoälyn välittämälle oppimiselle. Se ei kuitenkaan esitä väitteitä, jotka voisivat epäonnistua: se on olemassa olevaa näyttöä syntetisoiva kannanotto, joten toisin kuin alla oleva agentivismi se tarjoaa sanaston ja mittausagendan eikä kumottavissa olevaa teoriaa.
 
-
 - **Tekoälyyn liittyvyys.** [[ai-connectedness-adolescent-mental-health-2026|Fu ja Zhao (2026)]] rakentavat liittyvyyden uudelleen tekoälyaikakaudelle hoivaetiikan ja uusekologisen teorian kautta ja määrittelevät "tekoälyyn liittyvyyden" psykologisesti todelliseksi mutta eettisesti epäsymmetriseksi siteeksi, jolla on kolme ulottuvuutta ja kuusi kumottavissa olevaa väitettä odottamassa asteikon kehittämistä.
-
 
 Synteettinen kanta lisää kilpailevan ehdotuksen, joka todella esittää väitteitä: se nimeää *synteettisen edistämisen* ja *tekijyyden keskeytyksen* — itsen, jolla on vahva ääni mutta ei tekijää — ja ennustaa risteävän vuorovaikutuksen, jossa elämänpäätöskertomuksen arvioitu tekijyys ja koherenssi liikkuvat vastakkaisiin suuntiin ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Agentivismi.** [[yan-agentivism-learning-theory-ai-2026|Yan ja Gašević (2026)]] ehdottavat agentivismia keskikantaman oppimisteoriaksi [[human-ai-collaboration|ihmisen ja tekoälyn vuorovaikutukselle]], määritellen oppimisen kestäväksi kasvuksi ihmisen kyvykkyydessä eikä onnistuneeksi tehtävän suorittamiseksi tekoälyn kanssa, ja erittelevät neljä mekanismia: delegoitu toimijuus, episteeminen seuranta ja varmentaminen, rekonstruktiivinen sisäistäminen ja siirto vähennetyn tuen aikana. Sen erottaa muista tämän sivun ehdotuksista kumottavuus: se esittää kuusi väitettä, muun muassa että oppiminen on vahvempaa, kun tekoäly säilyttää oppijan vastuun ongelman kehystämisestä, kriteerien asettamisesta ja perustelemisesta, kuin kun se tarjoaa vastaukset. Se väittää myös, että varmentamisen vaatiminen parantaa viivästynyttä suoriutumista, kun taas toistuva vähäkitkainen delegointi ilman rekonstruktiota heikentää oppijoiden oman kompetenssinsa kalibrointia.
-
 
 Opettajapuolen teoretisointi tekee nyt saman testattavuussitoumuksen: kyvykkyys–päätösmalli asettaa [[tpack|AI-TPACK]]-kyvykkyyden asenteen ja koetun käyttäytymiskontrollin ylävirtaan ja nimeää neljä kumoamisehtoa — välityksen epäonnistuminen, diskriminanttikollapsi, moderaation nollatulos ja kontekstin redundanssi — vaikka malli on yhä testaamaton ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -121,53 +120,3 @@ Teorian kehittäminen ja [[philosophy-of-ai-in-education|tekoälyn koulutusfilos
 
 - Suunnittele konfiguraatiokontrasteja, jos aiot tuottaa teoreettisen kontribuution. Keskimääräisvaikutuksen koe, joka julkaistaan teorian kehittämisenä, on alan yleisin ja vähiten hyödyllinen tuotos.
 - Liitä eksplisiittiset kumottavissa olevat väitteet jokaiseen viitekehykseen, jonka esittelet, ja raportoi, mitkä konfiguraatioerot olisivat kumonneet ne.
-
-## Liittyvät konseptit
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Liittyvät artikkelit
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Toiminnallisen taksonomian laajentaminen: 90/154 luokiteltavissa olevaa julkaisua (58,4 %) jää alkuperäisten neljän kategorian ulkopuolelle (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Keskikantaman oppimisteoria ihmisen ja tekoälyn vuorovaikutukselle, neljä mekanismia ja kuusi testattavaa väitettä (Yan ja Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Petollinen yliyleistäminen: adaptiivinen mestaruus voi lopettaa harjoittelun ennen kuin oppijat tietävät, milloin toiminto on jätettävä tekemättä (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativismi uutena oppimisteoriana
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Kohti episteemisen yhteistoimijuuden teoriaa
-- [[du-yuan-epistemic-dependence-2026]] — Relationaalinen episteeminen toimijuus ja tuottavan nojautumisen sekä haitallisen riippuvuuden raja (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Puuttuva kognitiivinen perustaso (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitiivinen yhteisomaisuus ja asiantuntemuksen uudistaminen
-- [[genai-performance-vs-learning]] — Suoriutuminen vs. oppiminen
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Episteeminen tekoälylukutaito (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Kredentiaalien ja kognitiivinen hoiva
-- [[ai-cognitive-partner-co-regulation-learning]] — Tekoäly kognitiivisena kumppanina yhteissääntelyssä
-- [[epistemic-proactivity-math]] — Episteeminen proaktiivisuus matematiikassa
-- [[strydom-human-gai-paradigms-2026]] — Seitsemän ihmisen ja GAI:n sitoutumisen paradigmaa epistemologisten uskomusten varassa
-- [[critical-thinking-paradox-genai-learning-2026]] — Kriittisen ajattelun paradoksi
-- [[dollinger-equitable-assessment-ai-2026]] — Oikeudenmukainen arviointi GenAI:n aikana
-- [[shaw-nave-cognitive-surrender-2026]] — Kolmijärjestelmäteoria ja kognitiivinen antautuminen: miten tekoäly muovaa ihmisen päättelyä uudelleen (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Tutkivan yhteisön uudelleenkäsitteellistäminen generatiivisen tekoälyn aikakaudella
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Yliopisto-opettajien GAI-kokemukset ja -käsitykset: haavoittuvuus, arvioinnin uudelleenajattelu, opiskelijoiden oppiminen vaarassa (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Vaihtoehtoinen tekoälyfilosofia: daoismi menetelmänä tekoälylle koulutuksessa
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: väitelauseisiin perustuvat skeemat koulutusdialogien auditoitavaan koodaukseen
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitiivinen omistajuus: konstruktin määritelmä, rajat ja tutkimusagenda
-
-- [[synthetic-position-self-authorship-2026]] — Synteettinen positio: dialogisen itsen ehdotus, joka nimeää synteettisen edistämisen ja tekijyyden keskeytyksen risteävällä ennusteella
-- [[capability-decision-model-teacher-readiness-2026]] — Kumoettavissa oleva kyvykkyyslähtöinen opettajan valmiusmalli, jossa neljä kumoamisehtoa
-- [[ai-connectedness-adolescent-mental-health-2026]] — Tekoälyyn liittyvyys: kolmiulotteinen konstrukti, jossa kuusi kumottavissa olevaa väitettä myöhempää testausta varten
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitiivisen kumppanuuden sykli
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Toivotut vaikeudet ja tuottava epäonnistuminen sovellettuina tulkinnalliseen toimijuuteen ulkomailla tapahtuvassa koulutuksessa
-- [[webb-pck-genai-2026]] — Kolme vinjettiä ja uusi konstrukti, pseudo-cPCK, tuotokselle, joka jäljittelee kollektiivisesti validoitua tietoa ilman takeita (Webb et al. 2026)

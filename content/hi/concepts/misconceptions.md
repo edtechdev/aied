@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -126,36 +128,3 @@ Bernstein और Sibia (2026) दिखाते हैं कि [[generative-a
 - **"शिक्षकों की गलतफहमियाँ प्रमाण प्रस्तुत करने से सुधर जाती हैं।"** **123 इतालवी शिक्षकों** के एक पायलट में असहमति सबसे तीव्रता से **संज्ञानात्मक सीखने की शैलियों (78% शिक्षकों ने दृश्य/श्रवण मिलान का बचाव किया)**, समावेश और समूह कार्य (68%) तथा EdTech अतिभार (54%) पर केंद्रित हुई। सबसे मजबूत असहमतियाँ वही थीं जो प्रमाण के प्रति सबसे अधिक प्रतिरोधी थीं, इसलिए [[refutation-text|खंडन]] दावे से बेहतर है।
 - **"प्रमाण के प्रति शिक्षक आपत्तियाँ सब प्रतिरोध हैं।"** जब वही मदें एक संवादी AI के माध्यम से दी गईं जो **प्रमाण फिर से पेश करने से पहले शिक्षक के संदर्भ को मान्यता देता था**, तब **41% आपत्तियाँ वास्तविक संदर्भगत बाधाओं** से संबंधित थीं: कक्षा का आकार, विशेष आवश्यकताएँ, पाठ्यक्रम की माँगें। स्पष्ट गलतफहमी का एक बड़ा हिस्सा सटीक आपत्ति था।
 - **"गलतफहमियों को संवाद से विश्वसनीय रूप से पहचाना जा सकता है।"** **241 संकेतित खंडों में से 221 (91.7%) को विशेषज्ञ बहुमत मतदान से सामरिक गलतफहमियों के रूप में पुष्ट किया गया (Fleiss' κ = 0.9487)**, समूहों के बीच **कोई महत्वपूर्ण अंतर नहीं**। विशेषज्ञ निर्णय के अंतर्गत उच्च विश्वसनीयता प्राप्त की जा सकती है, और यही वह शर्त है जिस पर यह दावा टिका है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — एक विशिष्ट धारित विश्वास से सामना करने वाले संकल्पनात्मक-परिवर्तन अनुक्रम
-- [[learners]] — शिक्षार्थी-पक्ष की अवधारणाओं के लिए छातरी
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## संबंधित लेख
-- [[rudolph-ai-myths-critical-higher-ed]] — हाइप पर विश्वास न करें: उच्च शिक्षा में आठ AI मिथक और आलोचनात्मक दृष्टिकोण की आवश्यकता
-- [[student-rationalization-ai-writing]] — AI लेखन का छात्र-तर्क
-- [[genai-skill-bypass-literacy]] — जनरेटिव AI कौशल बायपास और साक्षरता
-- [[trust-reliance-ai-education-2026]] — AI शिक्षा में भरोसा और निर्भरता
-- [[contextual-sycophancy-ai-literacy]] — संदर्भगत साइकोफेंसी और AI साक्षरता
-- [[sycophantic-ai-social-interaction-2026]] — सामाजिक संपर्क में साइकोफेंटिक AI
-- [[llm-fallacy-misattribution]] — एलएलएम तर्कदोष गलत-आरोपण (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — दोषपूर्ण लेकिन यादगार: कंप्यूटिंग शिक्षा में रुचि-व्यक्तिगत जनरेटिव AI उपमाओं का छात्र-आलोचनात्मक ग्रहण
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: सहज, आधिकारिक स्पष्टीकरण जो तथ्यात्मक के बजाय संकल्पनात्मक रूप से गलत हैं (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — जमा की गई फ़ाइल में छिपे निर्देश बिना किसी दृश्य चेतावनी के AI-दत्त अंक बढ़ा सकते हैं (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — बच्चों की AI-सुरक्षा गलतफहमियाँ: रोबोट के साथ मित्रता को गोपनीयता की गारंटी समझा गया (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — शिक्षण गलतफहमियों के लिए संवादी AI निदान, साक्ष्य-आधारित संवाद के साथ (Miranda और Calvani 2026)

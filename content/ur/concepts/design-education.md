@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,48 +80,3 @@ ai_assist:
 - **"ڈیزائن کے طلبہ جوشیلے اپنانے والے ہیں۔"** وہی گروپ دکھاتا ہے کہ **71% GenAI روزانہ یا ہفتہ وار استعمال کرتے ہیں، 65% اُس پر بھروسا نہیں کرتے، اور 85% اُس کے نتائج میں تبدیلی کرتے ہیں**۔ کثرتِ استعمال اور کم اعتماد ساتھ ساتھ چلتے ہیں، چنانچہ ایسا ٹول جس کی قدر کی تجویز اعتماد کو مفروضہ مانتی ہو، صارفین کو غلط پڑھ رہا ہے۔
 - **"GenAI پورے ڈیزائن عمل میں عمومی طور پر مددگار ہے۔"** طولانی اسٹوڈیو مطالعے میں بنایا گیا GAI-A پلیٹ فارم **صرف دو نتیجہ خیز استعمال** پاتا ہے: ابتدائی خیال آوری میں GenAI بطور بصری محرک، اور ترقی کے دوران **حل کی گنجائش کو وسعت دینے والا امتزاجی عامل**۔ افادیت مرحلے کے حساب سے مخصوص تھی۔
 - **"تخلیقی فوائد اتنے پھیلے ہوئے ہیں کہ ناپے نہیں جا سکتے۔"** **31 طلبہ کے ذیلی گروپ** میں تخلیقی سوچ کے اسکور **77.23 سے 94.68 (d = 0.82)** تک بڑھے۔ فائدہ قابلِ پیمائش ہے اور ذیلی گروپ تک محدود ہے، اور یہی دعوے کی ایماندار صورت ہے۔
-
-## منسلک تصورات
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## منسلک مضامین
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: اسٹوڈیو فیڈبیک کے لیے مصنوع سے واقف AI تنقید کا ورک اسپیس؛ نقل پر مبنی تیاری کا مطالعہ، سیکھنے کے فوائد نہیں
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — فنِ تعمیر کے ڈیزائن کا ایک تجربہ جس میں DALL-E 3 ورک فلو نے عمومی تخلیقی خود اعتمادی کو کم کیا
-- [[human-ai-collaboration-design-education-rubric-2026]] — عمل کا ربریک AI تصدیق کو درجہ پانے والا موضوع بنا سکتا ہے
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — رویہ ڈیزائن طلبہ کے AI ایجنٹ استعمال کرنے کے ارادے کی لازم شرط، کام–ٹیکنالوجی مناسبت دوسرے راستے کے طور پر (Chu اور Liu 2026)
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI تکنیکی اختلال سے آگاہی، ڈیزائن سوچ کا ذہنی رجحان، اور ڈیزائن طلبہ میں ڈیزائن جدت کی قابلیت
-- [[han-prompt-literacy-ai-dependence-design-2026]] — انحصار کی قسم طے کرتی ہے کہ پرامپٹ خواندگی شمولیت بنتی ہے یا نہیں

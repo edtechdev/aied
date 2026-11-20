@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -66,7 +68,6 @@ Questa pagina copre la conoscenza sostantiva che tali metodi hanno prodotto — 
 
 - **Il metodo conta quanto il risultato: analisi di sequenza dell'interazione gruppo-[[student-ai-interaction|IA]].** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] hanno codificato 595 e 785 enunciati attorno a 39 prompt di chatbot, testato le transizioni lag-1 con residui aggiustati e Yule's Q, poi eseguito process mining con ogni episodio come caso. Quell'accoppiamento collocava l'IA al centro della rete di interazione di una composizione di gruppo e su un singolo percorso in un'altra, una differenza che i conteggi dei prompt non potevano mostrare. È un modello per chiedere dove si colloca un'IA nella rete di interazione di un gruppo anziché quanto spesso vi appaia.
 
-
 ## Come le scienze dell'apprendimento si relazionano ai loro vicini
 
 Il [[design-based-research|design-based research]] è il metodo che questo campo ha sviluppato anziché preso in prestito: un intervento è costruito e rivisto dentro un'aula funzionante, con la sua giustificazione teorica rivista insieme ad esso, così che uno studio produca sia un artefatto sia un principio di progettazione. È questo che lo separa da un esperimento di laboratorio, che isola una causa tenendo fermo il contesto, ed è per questo che i risultati del campo arrivano come conoscenza di progettazione anziché come dimensioni dell'effetto. La [[research-methods-aied|ricerca metodologica sull'AIED]] fa il taglio opposto: quella pagina esplora l'intero repertorio — esperimenti, sondaggi, lavoro qualitativo, [[benchmark|benchmark]], revisioni, metodi di consenso — come una scelta tra strumenti, pesati per la validità dell'affermazione che ciascuno può supportare. Questa pagina legge lo stesso corpus dal lato sostantivo, chiedendo ciò che il repertorio ha stabilito sull'apprendimento e giudicando un metodo in base a se la sua affermazione di progettazione sopravvive al contatto con chi apprende.
@@ -102,50 +103,3 @@ I risultati contano solo una volta che raggiungono l'insegnamento, e quel viaggi
 - Non fermate la pratica sulla sola correttezza. Modellate la condizione di trattenimento come un'abilità a sé, o il sistema certificherà l'ipergeneralizzazione.
 - Lasciate che il rapporto sia un parametro anziché una costante, perché l'evidenza dice che l'ottimo dipende dal contenuto.
 - Riportate quale costrutto misura il vostro criterio, separatamente da quale costrutto misura la vostra validazione.
-
-## Concetti collegati
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Articoli collegati
-
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un Delphi preregistrato di 30 esperti su quali processi di apprendimento la GenAI potenzia e quali minaccia
-- [[three-pathways-student-ai-interaction-2026]] — Una tipologia dell'interazione studente-IA: 64% passiva o transazionale, 36% dialogo strategico
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Lo stile del feedback, non il tipo di agente, ha mosso l'impegno autoregolativo
-- [[metacognitive-processes-genai-interaction-logs-2026]] — L'evidenza di processo dipende dal canale
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — La distribuzione dell'uso della GenAI è una scelta istituzionale
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — L'affidamento intra-persona precede un calo dell'agenzia percepita
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — L'analisi sequenziale lag più il process mining collocano l'IA in un hub di interazione di gruppo o su un percorso lineare a seconda della composizione delle preconcezioni (Wang et al. 2026)
-

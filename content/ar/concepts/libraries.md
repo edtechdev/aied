@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -67,22 +69,3 @@ ai_assist:
 - **أبقِ مسار تصعيد بشريًا في أي خدمة ذكاء اصطناعي.** فالأدلة تدعم الذكاء الاصطناعي للبحث المباشر والصياغة، والموظفين البشر للحكم على المصادر؛ والتصاميم التي تمحو الثاني لتوسيع الأول تزيل الجزء الذي لا يستطيع المرتاد الحصول عليه في مكان آخر.
 - **قِس تحوّل البحث بدلًا من مسحه.** فسجلات الإعارة والاكتشاف موجودة أصلًا؛ والمكتبة التي تقرنها ببيانات التعليم ستعرف عن أثر الذكاء الاصطناعي أكثر مما يكشفه مسح طلابي لمرة واحدة.
 - **لا تُسوّق ثقافة الذكاء الاصطناعي بوصفها ثقافة معلومات.** فهما تتشاركان الموظفين والأطر لكنهما تختلفان في ما يُقوَّم؛ وخلطهما ينتج برنامجًا لا يقيس أيًّا منهما.
-
-## المفاهيم المتصلة
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## المقالات المتصلة
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — تبنّي الذكاء الاصطناعي في المكتبات الأكاديمية: مراجعة منهجية للممارسات والتحديات وفرص البحث الراهنة
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — رسم خريطة دمج ثقافة الذكاء الاصطناعي في تعليم ثقافة المعلومات بالمكتبات الأكاديمية
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — كيف يعيد الذكاء الاصطناعي تشكيل ثقافة المعلومات في المكتبات الأكاديمية
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — الذكاء الاصطناعي والبحث عن المعلومات: استكشاف مقارن لروبوتات الدردشة ومحرّكات البحث وموارد المكتبة كمصادر معلومات عند طلاب الجامعات
-- [[huang-genai-academic-information-resources-2026]] — الذكاء الاصطناعي التوليدي يعيد تشكيل الاستخدام المستدام لموارد المعلومات الأكاديمية عند طلاب الجامعات
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — إشراك أمناء المكتبات الأكاديميين للطلاب لتعزيز ثقافة المعلومات وتعليم الذكاء الاصطناعي في مؤسسات التعليم العالي النيجيرية

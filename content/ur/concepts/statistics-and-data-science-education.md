@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -82,26 +84,3 @@ ai_assist:
 - **"اطمینان اور سمجھا جانے والا فائدہ بتاتے ہیں کہ ڈیٹا سائنس کا AI اوزار کام کر رہا ہے۔"** طلبہ نے LLM ڈیبگنگ اور تصوراتی سوالات کے لیے کثرت سے استعمال کیے اور **زیادہ اطمینان رپورٹ کیا، جب کہ اصطلاح کے دوران ان کا سمجھا جانے والا گہرے سیکھنے کا فائدہ کم ہوتا گیا**۔ اطمینان برقرار رہا اور خود جانچا گیا سیکھنے کا رجحان گرتا رہا، لہٰذا کوئی بھی عدد تنہا نتیجہ نہیں۔
 - **"غیر محدود ماڈل رہنمائی کرنے والے ٹیوٹر کے برابر ہے۔"** تجرباتی موازنے نے پایا کہ **استدلال پر مرکوز سہارے کی واضح تربیت — مرحلہ وار اشارے، تصدیق — بہتر خودمختار** کارکردگی پیدا کرتی ہے، غیر محدود رسائی سے بہتر۔ اثر رہنمائی اور اسے استعمال کرنے کی تربیت نے اٹھایا۔
 - **"جواب دینے سے روکنا کافی ہے۔"** ایک میزبان API کے گرد لپٹا، سسٹم پرامپٹ سے **جواب دینے کے بجائے رہنمائی** کرنے پر لگایا گیا مقصد کے مطابق بنا ٹیوٹر نفسیات کے انڈرگریجویٹ طلبہ کے سمسٹر طویل R کورس میں استعمال ہوا، جہاں **76% سے 84%** طلبہ نے امتحان سے متعلقہ ہفتوں میں اسے استعمال کیا۔ یہ اپنانا ہے، اس بات کا ثبوت نہیں کہ روکنے نے سیکھنا پیدا کیا: پرامپٹ کی سطح پر روکنا کئی ایک لیوروں میں سے ایک ہے اور بذاتِ خود سیکھنا پیدا نہیں کرتا۔
-
-## منسلک تصورات
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## منسلک مضامین
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — ذاتی نوعیت کی اعداد و شمار مشق کے لیے قابلِ معائنہ مصنوعی ڈیٹاسیٹ بنانے والا ایجنٹک اوزار
-- [[ai-tutor-statistical-programming-adoption-2026]] — مقصد کے مطابق بنا R ٹیوٹر؛ اپنانا امتحانی کیلنڈر کے ساتھ چلا
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM کے مشکل کے لیبل Bloom سطحوں کے ساتھ، طلبہ کی کارکردگی کے ساتھ نہیں
-- [[tactile-statistical-graphs-accessibility]] — استاد کے جائزے کے ساتھ چھونے کے قابل شماریاتی چارٹ بنانے والی اوپن سورس پائپ لائن
-- [[guided-llm-scaffolding-independent-learning]] — رہنمائی والا سہارا خودمختار کارکردگی پر غیر محدود رسائی سے بہتر
-- [[lund-socially-accountable-data-science-xai-2026]] — تکنیکی ڈیٹا سائنس نصاب میں سماجی جوابدہی شامل کرنا

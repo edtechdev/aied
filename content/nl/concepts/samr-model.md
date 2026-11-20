@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -80,28 +82,3 @@ SAMR kan het best worden begrepen als een lens op integratiediepte die bij plann
 **„SAMR en TPACK zijn concurrerende kaders."** Zij beschrijven verschillende dingen: SAMR beschrijft de *mate van transformatie* in een taak, terwijl [[tpack|TPACK]] de *kennis* beschrijft die een docent nodig heeft om technologie goed te integreren. Een docent kan zeer TPACK-bekwaam zijn en toch op Substitutie werken, en daarom worden de twee samen gebruikt in plaats van uit elkaar gekozen.
 
 **„Een tool die op één niveau transformatief is, is op alle niveaus transformatief."** Dezelfde generatieve tool kan in de ene cursus een Substitutie ondersteunen en in de andere een Herdefiniëring, omdat het niveau een eigenschap van het taakontwerp is en niet van de technologie. Het niveau aan de tool toeschrijven levert adoptiebeslissingen op in plaats van ontwerpbeslissingen.
-
-## Verbonden concepten
-
-- [[ai-education]] — AI in het onderwijs (overkoepelend)
-- [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Modellen voor technologieadoptie
-- [[icap-framework]] — Het ICAP-kader voor cognitieve betrokkenheid
-- [[ai-technologies]] — AI-technologieën en -technieken
-- [[teacher-ai-competency]] — AI-competentie van docenten
-- [[educational-development]] — Educatieve ontwikkeling
-- [[learning-design]] — Learning design
-- [[k-12]] — K-12-onderwijs
-- [[higher-ed]] — Hoger onderwijs
-- [[generative-ai]] — Generatieve AI
-
-## Verbonden artikelen
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI-integratie in het hoger onderwijs beoordeeld met SAMR: vooral Substitutie/Augmentatie
-- [[thermomix-genai-education-analogy-2026]] — ICAP en SAMR die de vier kook-naar-leren-scenario's in kaart brengen
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR onder de lenzen voor door GenAI gedreven curriculumverandering
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR onder de kaders die de technologienormen voor faculteiten informeren
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — De posthumanistische kritiek op de humanistische ontologie van SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Het zwijgen van SAMR over macht, data-eigendom en verantwoording
-- [[genai-use-changing-institutional-policy-physics-2026]] — GenAI-gebruik door studenten onder veranderend instellingsbeleid: gebruiksfuncties gekoppeld aan SAMR-niveaus (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in wiskundeklaslokalen: een synergistische strategie voor diversiteit en inclusie

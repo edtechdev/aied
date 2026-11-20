@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -126,37 +128,3 @@ Tyto refutace jsou záměrně napsány ve formě [[refutation-text]], aby mohly 
 - **„Mylné představy učitelů lze napravit předložením důkazů."** V pilotní studii se **123 italskými vzdělavateli** se nesouhlas nejostřeji shlukoval u **kognitivních stylů učení (78 % učitelů hájilo párování vizuální/sluchové)**, inkluze a skupinové práce (68 %) a přetížení EdTech (54 %). Nejsilnější nesouhlasy byly ty nejodolnější vůči důkazům, a proto [[refutation-text|refutace]] vítězí nad tvrzením.
 - **„Námitky učitelů proti důkazům jsou všechny odpor."** Když byly stejné položky předloženy prostřednictvím konverzační AI, která **nejprve validovala učitelův kontext a teprve pak znovu zavedla důkazy**, **41 % námitek se týkalo skutečných kontextových omezení** — velikosti tříd, speciálních potřeb, požadavků kurikula. Podstatná část zdánlivé mylné představy byla přesná námitka.
 - **„Mylné představy lze spolehlivě detekovat z dialogu."** **Z 241 promptovaných segmentů bylo 221 (91,7 %) potvrzeno jako strategické mylné představy většinovým hlasem expertů (Fleissův κ = 0,9487)**, bez **významných rozdílů** mezi skupinami. Vysoké spolehlivosti lze dosáhnout při expertním rozhodování, a na této podmínce tvrzení závisí.
-
-## Související koncepty
-
-- [[pedagogical-patterns]] — The conceptual-change sequences that confront a specific held belief
-- [[learners]] — Žáci: zastřešující pojem pro koncepty na straně žáka
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Související články
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Nevěřte hype: osm mýtů o AI a potřeba kritického přístupu ve vysokém školství
-- [[student-rationalization-ai-writing]] — Racionalizace psaní s AI studenty
-- [[genai-skill-bypass-literacy]] — Obcházení dovedností pomocí GenAI a gramotnost
-- [[trust-reliance-ai-education-2026]] — Důvěra a spoléhání ve vzdělávání s AI
-- [[contextual-sycophancy-ai-literacy]] — Kontextuální sykofantie a AI gramotnost
-- [[sycophantic-ai-social-interaction-2026]] — Sykofantní AI v sociální interakci
-- [[llm-fallacy-misattribution]] — Chybná atribuce omylu LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Vadné, ale zapamatovatelné: kritické přijetí zájmově personalizovaných analogií GenAI studenty v informatickém vzdělávání
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: plynulá, autoritativní vysvětlení, která jsou chybná koncepčně, nikoli fakticky (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Skryté instrukce v odevzdaném souboru mohou zvýšit známku udělenou AI bez viditelného varování (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Mylné představy dětí o bezpečnosti AI: přátelství s robotem mylně považované za záruku soukromí (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostika učitelských mylných představ konverzační AI s dialogem ukotveným v důkazech (Miranda & Calvani 2026)

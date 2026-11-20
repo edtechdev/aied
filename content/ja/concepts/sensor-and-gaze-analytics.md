@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -118,42 +120,3 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 **「エンゲージメントは1つのものなので、1つのスコアがそれを表せる。」** この構成概念には3つの糸があり、センサーは主に最初のものに到達します。E3Sense は、学習者がそれを認知的、行動的、情緒的な指標を通じて異なる比率で定義しており、その定義が予測を変えたことを見出しました([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]])。単一の数値は、どの層が測定されたかを隠します。
 
 **「検証の分割で公平なら、教室でも公平である。」** 性別グループ間で検証誤差を均等にした正則化は、保持されたデータでのギャップを悪化させました([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]])。公平性はチェックポイントの性質ではなく、配備の性質です。
-
-## 関連する概念
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## 関連する記事
-
-- [[nissan-nursing-empathy-computer-vision-2026]] — 身体的接触の検出は観察者評定による共感と対応したが、笑顔検出は逆の関連を示し、アイコンタクトとヒートマップは有意な結果が得られなかった（Nissan et al., 2026）。
-- [[gaze-informed-ai-children]] — 視線誘発型のLLMナレーションは、ナレーションされた領域での児童の滞留時間を1.67秒に対して6.48秒に延ばしたが、本研究が測定したのは理解ではなく注意であった（Wu et al., 2026）。
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部装着型EEG、アイトラッキング、額部のEDAにより、自己評定のエンゲージメントを1段階以内の精度75.0%で予測した（ベースラインは63.0%）（Anupkrishnan et al., 2026）。
-- [[engagement-assessment-video]] — EduGageは7つのウェアラブルおよびカメラのストリームを融合してセグメント単位のエンゲージメント推定を行い（MAE 0.81）、より軽量な計測手法を主張している（Leng et al., 2026）。
-- [[student-attention-estimation-fairness-2026]] — マルチモーダル注意モデルはMAE 0.283に到達したが、検証で得られた公平性の改善は未知の被験者では逆転した（Fragkiadakis et al., 2026）。
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ウェアラブルAIは二重に透明であるため、物理的な排除は機能せず、取り締まりは学生の身体を裁定する方向へと漂流する（Corbin et al., 2026）。
-- [[eeg-familiarity-automated-assessment-2026]] — EEGによる熟悉度予測の15モデルは、試行独立な検証の下でF1が0.9853から0.6038へと低下した（Nanayakkara and Halloluwa, 2026）。
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEGから再構成した画像はテスト成績をR² = 0.79で追跡したが、再構成精度の高い1名の参加者は誤答していた（Su et al., 2026）。
-- [[physiological-signals-exam-outcomes-ml]] — ランダムフォレストはEDA、身体運動、皮膚温から試験成績のカテゴリを予測したが、これらの信号は理解ではなく覚醒を示す指標である（Yamazaki and Rimal, 2026）。
-- [[affective-text-wearable-student-health]] — Ouraを装着した458名の学生では、睡眠と心拍変動に対応していたのは懸念の主題ではなく感情的な語調であった（2026）。
-- [[tutorloop-sensor-cognitive-feedback-2026]] — ウェブカメラの視線が187名の学習者に対する強化学習フィードバックを駆動し、注意は学習とr = 0.017で相関した一方、作業負荷は負の相関を示した（2026）。
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11の姿勢特徴量は、独自にラベル付けしたデータセットで不審行動を99.56%の精度で検出したが、不正行為や公平性は検証されていない（Arif et al., 2026）。
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 54名の参加者において、外部の執筆支援が強いほどEEG連結性が低下し、依存を蓄積する認知的負債として位置づけた（Kosmyna et al., 2025）。
-- [[kim-ai-embodied-learning-review-2026]] — 23件の研究を通じて、センシングの役割がタグの62.5%を占めて優勢であり、レビュー対象のシステムのいずれもマルチモーダルストリームをリアルタイムで融合していなかった（Kim and Han, 2026）。

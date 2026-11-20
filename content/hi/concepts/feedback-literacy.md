@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,52 +99,3 @@ AI फीडबैक को दो दिशाओं में बदलता
 - **"AI फीडबैक सीधे महत्वपूर्ण सोच को सुधारता है।"** **421 चीनी स्नातक छात्रों** में GenAI उपयोग का [[self-report-measures|स्व-रिपोर्ट की गई]] महत्वपूर्ण सोच से संबंध **फीडबैक साक्षरता से होकर गया**। साक्षरता ही मध्यस्थ है, इसलिए जो हस्तक्षेप AI फीडबैक जोड़ता है पर उसे पढ़ने की क्षमता नहीं बनाता, वह गलत पद को संबोधित करता है।
 - **"साक्षरता पूर्वशर्त है, परिणाम नहीं।"** **399 चीनी स्नातक छात्रों के तीन-तरंग यादृच्छिक-अवरोधन पैनल** में AI फीडबैक साक्षरता **बाद के** एजेंटिक जुड़ाव की भविष्यवाणी करती पाई गई (**β = 0.222**), इसलिए लूप दोनों दिशाओं में चलता है। यह गतिशील है, एक बार पार करने योग्य द्वार नहीं।
 - **"कार्रवाई-योग्यता ही वह चीज़ है जो फीडबैक से लेखन बदलती है।"** **48 छात्रों की दो अपरिवर्तित कक्षाओं** में लेखन-फीडबैक-संशोधन के तीन चक्रों में संशोधन का लाभ **समझ** नामक आयाम ने वहन किया। जो फीडबैक छात्र पढ़ ही नहीं सकता, उसे अधिक कार्रवाई-योग्य बनाने से वह बेहतर नहीं होता।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — चरणक्रम जो इन अनुक्रमों को कार्यप्रवाह में निर्मित महत्वपूर्ण-समीक्षा चरण
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[ai-peer-feedback-stem-teacher-education-2026]] — सुधार के बिना चयनात्मक अपनाना: फीडबैक अनुवाद अंतराल (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — शिक्षक संदर्भ के बिना AI फीडबैक फीडबैक-साक्षरता की सीमा बढ़ाता है (Brunnström और Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — फीडबैक साक्षरता AI फीडबैक → स्व-नियंत्रित सीखने को नियंत्रित करती है (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — फीडबैक साक्षरता AI-संवर्धित लेखन में निबंध के ग्रेड की भविष्यवाणी करती है (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI फीडबैक साक्षरता पैमाना और अपनाने की भविष्यवाणी (Liu और Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — फीडबैक जुड़ाव ढाँचे के सक्षमकर्ता के रूप में GenAI (Zhan, Boud, Dawson और Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — AI-सहायित लेखन के लिए फीडबैक साक्षरता स्क्रिप्ट और अंशांकन प्रशिक्षण (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — EAP लेखन संशोधन में फीडबैक साक्षरता स्क्रिप्ट + दूसरा-मूल्यांकनकर्ता (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — फीडबैक साक्षरता विकसित करने के लिए AI स्वचालित फीडबैक उपकरण (Tubino और Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — फीडबैक साक्षरता को प्रशिक्षित करने के लिए EFL सहपाठी फीडबैक में GenAI को रखना (Irwin और Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — स्व-नियंत्रित फीडबैक का स्कैफोल्डिंग: GenAI बनाम मानव सहपाठी (Gu, Chen और Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — फीडबैक में GenAI सीखने के विश्लेषण, फीडबैक साक्षरता दृष्टिकोण (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI मूल्यांकन मनोवैज्ञानिक, फीडबैक और AI साक्षरताओं का निर्माण करता है (Richmond और Nicholls 2025)
-- [[learner-centered-feedback-ai]] — AI शिक्षार्थी-केंद्रित फीडबैक में शिक्षकों की प्रथाएँ और धारणाएँ
-- [[care-full-feedback-genai]] — GenAI के साथ सावधानीपूर्वक फीडबैक डिज़ाइन
-- [[ai-generated-feedback-higher-ed]] — उच्च शिक्षा में AI-जनित फीडबैक
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI फीडबैक पारिस्थितिकी में छात्रों, शिक्षकों, सहपाठियों और सामग्री के बीच संबंधों को नया रूप देता है (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — लेखन में AI फीडबैक और महत्वपूर्ण सोच
-- [[repeated-ai-writing-feedback-semester]] — एक पूरे सेमेस्टर में बार-बार AI लेखन फीडबैक
-- [[student-perspectives-ai-writing-grading-2026]] — मेरे काम का मूल्यांकन किसे करना चाहिए? उच्च शिक्षा में पारदर्शी AI-सहायित लेखन मूल्यांकन पर छात्रों के दृष्टिकोण
-
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI उपयोग से महत्वपूर्ण सोच तक का मार्ग GenAI फीडबैक साक्षरता से गुजरा, जो चिंतनशील सोच के साथ मजबूत हुआ
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI फीडबैक साक्षरता और एजेंटिक जुड़ाव: तीन-तरंग यादृच्छिक-अवरोध पैनल (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — फीडबैक साक्षरता सिखाने के लिए रूब्रिक-श्रेणीबद्ध कार्य नमूने बनाना (Pennington और Hock 2026)
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — समझ ने संशोधन का लाभ वहन किया, कार्रवाई-योग्यता ने नहीं
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — एक ही चिंतन कार्य में एक ही मसौदे पर सहकर्मी और चैटबॉट प्रतिक्रिया का मूल्यांकन

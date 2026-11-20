@@ -19,6 +19,8 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -95,30 +97,3 @@ discipline: [cs education, writing education]
 
 - परिणामों के साथ वाइब-कोडिंग स्थिति (शुद्ध बनाम कोड-दृश्य) रिपोर्ट करें, और [[self-report-measures|स्व-रिपोर्टित]] सफलता के बजाय विशेषज्ञ-सत्यापित, GUI-उन्मुख कार्य उपयोग करें, ताकि परिणाम अध्ययनों में तुलनीय हों।
 - यदि पहुँच का तर्क परखा जा रहा है तो कलाकृति-विविधता मापें, केवल कलाकृति-संख्या या निर्माता-संख्या नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## संबंधित लेख
-
-- [[vibe-coding-writing-cs-achievement-2026]] — कंप्यूटर विज्ञान उपलब्धि और लेखन कौशल वाइब कोडिंग प्रवीणता की भविष्यवाणी करते हैं (CHI 2026 अनुभवजन्य अध्ययन)
-- [[gaide-vibe-coding-k12-teachers]] — वाइब कोडिंग के माध्यम से AI-सक्षम शिक्षण प्रौद्योगिकियाँ बनाने में K-12 शिक्षकों के लिए एक मार्गदर्शक फ्रेमवर्क
-- [[vibe-coding-programming-process-visualizer]] — विचार से कक्षा तक कुछ ही दिनों में: IDE गतिविधि लॉग से एक प्रोग्रामिंग प्रक्रिया विज़ुअलाइज़र बनाने के लिए "वाइब कोडिंग" का उपयोग
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — वाइब कोडिंग ने कुछ घंटों में दो इंजीनियरिंग सिमुलेशन बनाए; प्रोटोकॉल त्रुटि का निदान करने के लिए शिक्षक अब भी आवश्यक थे
-- [[prompt-problems-nl-programming-mistakes]] — प्राकृतिक भाषा प्रोग्रामिंग कार्यों को हल करते समय छात्रों की धारणाओं, गलतियों और डिबगिंग दृष्टिकोणों को समझना
-- [[code-to-learn-genai-artifact-construction-2026]] — जनरैटिव AI के साथ सीखना: उच्च-माध्यमिक शिक्षा में कलाकृति निर्माण के लिए एक सैद्धांतिक रूप से स्थापित फ्रेमवर्क
-- [[reshaping-cs-education-genai]] — जनरैटिव AI के लिए स्नातक CS शिक्षा का पुनर्गठन
-- [[flowcode-ai-creative-coding]] — Flowcode: रचनात्मक संगणना शिक्षा में पुनरावृत्ति के लिए स्कैफोल्डिंग प्रदान करने वाला एक AI-सक्षम प्रोग्रामिंग वातावरण
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI इंट्राप्रेन्योरशिप: संकाय अपने उपकरण बनाते हैं, और संगठनात्मक सक्षमकर्ता जो तय करते हैं कि यह प्रवृत्ति बची रहती है या नहीं (ज़िमर 2026)
-- [[vibe-coding-design-diversity-2026]] — एक उपकरण, एक स्वाद? वाइब कोडिंग सामूहिक विविधता को व्यक्तिगत रचनात्मकता से कैसे बदलती है

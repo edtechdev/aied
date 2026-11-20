@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -81,32 +83,3 @@ PBL은 [[active-learning]], [[experiential-learning]], [[collaborative-learning]
 - **"도구를 맞춤화하면 결과가 좋아집니다."** 도구 유형이 효과를 유의하게 조절했고(**QM = 14.301, p < .001**), 방향은 직관과 반대입니다. **직접 사용된 일반 챗봇이 더 높게 종합되었고(g = 0.970)**, **코스 플랫폼, 가상 환자, 에이전트로 맞춤화된 시스템은 더 낮았습니다(g = 0.455)**. 맨 도구가 설계된 도구를 앞섰으며, 이는 목적에 맞게 만든 제품이 더 나은 구매라고 가정하는 데 반대합니다.
 - **"학생들은 개방성을 어려운 부분으로 느낍니다."** 학생 인식 자료에서 **개방성은 가장 긍정적인 주제(22.3%)**였고 **불분명한 지시가 부정 주제 1위(23.7%)**였습니다. 학생들은 자유를 반겼고 모호함에 반대했습니다. 이 구분이 중요한 이유는 해법이 다르기 때문입니다. 개방적 작업을 줄이는 것이 아니라 과제 틀짓기를 더 분명히 하는 것입니다.
 - **"즐거워한 학생이 더 많이 배웠습니다."** 지각된 학습은 퀴즈 점수와 **다소 낮게만(r = 0.161-0.315)** 상관되었습니다. 만족과 측정된 학습은 여기서 약하게 연결되므로, 긍정적인 PBL 평가만으로는 학습 목표가 달성되었다는 증거가 되지 않습니다.
-
-## 연결된 개념
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
-- [[arts-and-media-education]]
-
-## 연결된 문서
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 생성형 AI가 지원하는 교육의 유망한 프레임워크로서의 문제 기반 및 프로젝트 기반 학습: 체계적 검토와 3수준 메타분석의 새로운 증거
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
-- [[game-based-gamified-robotics-education-review-2026]] — 게임 기반 및 게임화된 로봇공학 교육
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 교사를 위한 AI 리터러시 훈련
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 신체화된 블록 프로그래밍
-- [[white-wu-robotics-ai-education-2026]] — 교육의 로봇공학과 AI
-- [[educational-robotics-pathways-2026]] — AI 기반 교육용 로봇공학 학습으로 가는 경로(2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL은 지배적인 CT 학습 전략이다
-- [[creative-project-approach-ai-early-childhood-2025]] — 창의적 프로젝트 접근법: 유아기 프로젝트 접근법 속의 AI 에이전트와 로봇공학(Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — 팀 소프트웨어 PBL에서 AI 에이전트와 함께하는 SDD
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: 내장 교수 에이전트가 있는 몰입형 VR 디자인 스튜디오, 전통적 PBL과 비교 평가됨(Jin et al. 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -90,39 +92,3 @@ ai_assist:
 **"এআই বিষয়বস্তু এত সস্তা করে দেয় যে OER অপ্রচলিত হয়ে পড়ে।"** বিপরীত পাঠটিও পাওয়া যায় এবং তা ভালোভাবে সমর্থিত। উৎপাদন যদি প্রায় বিনামূল্যে হয়, তবে দুর্লভ পণ্য হয়ে দাঁড়ায় লাইসেন্স, অ্যাট্রিবিউশন-শৃঙ্খল, পর্যালোচনা-প্রক্রিয়া ও রক্ষণাবেক্ষণকৃত প্ল্যাটফর্ম। এ কারণেই এই সাহিত্য উৎপাদনের বদলে শাসন ও অবকাঠামোর দিকে কেন্দ্রীভূত হয়।
 
 **"মুক্ত অ্যাসাইনমেন্টে এআই টুল যোগ করলে শিখন উন্নত হয়।"** এখানকার একমাত্র আধা-পরীক্ষামূলক পরীক্ষা দুই দলেই অনুভূত দক্ষতা-বৃদ্ধি পেয়েছে, তাদের মধ্যে কোনো শনাক্তযোগ্য পার্থক্য ছাড়া, পাশাপাশি এআই-সেকশনে বেশি সমাপ্তি ও সামান্য কম স্কোর। এআই শিক্ষার্থীরা কী উৎপন্ন করে তা বদলেছে, তারা কী শিখল বলে জানায় তা বদলায়নি।
-
-## সংযুক্ত ধারণা
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — উৎপাদনে জেনারেটিভ এআই ঢোকার পর OER-এর জন্য পাঁচটি কাঠামো (Tlili প্রমুখ, 2026)
-- [[atenas-oer-digital-public-goods-2026]] — ডিজিটাল পাবলিক গুডস হিসেবে OER এবং শাসিত অবকাঠামোর যুক্তি (Atenas প্রমুখ, 2026)
-- [[deimann-rethinking-openness-ai-2026]] — কেন পঁচিশ বছরের মুক্ততা প্রাতিষ্ঠানিক কেন্দ্রকে অটুট রেখে গেল (Deimann ও Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — দুটি কোর্স-সেকশনে এআই টুলসহ ও ছাড়া মুক্ত শিক্ষাবিদ্যা (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — মুক্ত শিক্ষামূলক অনুশীলনের চৌদ্দটি মডেল এবং সেখানে এআই কোথায় (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — চীনের 30টি প্রদেশ জুড়ে শিক্ষকের এআই-সাক্ষরতা ও মুক্ত শিক্ষাদান-অনুশীলন (Guo প্রমুখ, 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — দায়িত্বশীল OER ও এআই সংযোজনের সাত-স্তম্ভের কাঠামো (Rodés-Paragarino ও Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — একটি ভার্চুয়াল ল্যাবে মেন্টরিং ও এআই-OER উৎপাদন (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — এআই-সাক্ষরতা OER পর্যালোচনার সাত-নীতির রুব্রিক (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — OERে ইন্টারঅ্যাক্টিভিটি: ফলাফল নয়, নকশা-যুক্তি (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — একটি উপকরণমূলক কেস হিসেবে মুক্ত শিক্ষায় আন্তর্জাতিক সহযোগিতা (Patiño প্রমুখ, 2026)
-- [[peng-personalized-recommendation-oer-2026]] — দাবির চেয়ে শক্তিশালী বেসলাইনের বিপরীতে OER-এর হাইব্রিড সুপারিশকারী (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — মুক্ত শিখনে ডিজিটাল রূপান্তর শিক্ষাবিদ্যামূলক রূপান্তর হিসেবে (Panda, 2026)

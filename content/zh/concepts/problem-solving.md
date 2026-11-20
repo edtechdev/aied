@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -94,28 +96,3 @@ AI 对问题解决的双重性格在各研究中一致。在帮助侧，[[conver
 **“问题解决是目标，问题提出是加分项。”** 问题提出是迁移被建立的地方，因为它要求学习者建构结构，而不是在一个由系统提供的结构里操作。一个只供应良构问题的[[curriculum-design|课程]]，训练的是在良构问题上的表现，而这不是学生后来会遇到的条件。
 
 **“协作问题解决的模拟可以替代协作本身。”** 模拟复制的是互动模式，而被发展的技能是由真正在场的参与者对一个共同问题进行调节。对真实协作者建模的参与者特定智能体是研究这种调节的研究工具，其价值在于它们揭示过程，而不是一种让学生在没有同伴的情况下获得练习的方式。
-
-## 关联概念
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## 关联文章
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 交互画像（委托推理对协同解释）与效率—调节权衡
-- [[ai-assisted-collaborative-learning-model-dbr]] — 把生成式 AI 定位为智能学习伙伴的 DBR 模型
-- [[llm-critical-thinking-teamwork-review]] — 对 LLM 促进批判性思维、团队合作与问题解决的 PRISMA 综述
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — 面向协作问题解决的序列挖掘自适应脚手架
-- [[genai-assisted-problem-posing-physics-2026]] — 问题提出作为生成式 AI 的一种自我调节学习策略
-- [[genai-feedback-design-multisite-experiment]] — 反思性/混合式反馈在延迟迁移上胜过直接 AI
-- [[dai-chatbots-problem-posing-primary-2026]] — 聊天机器人改进小学生在探究本位学习中的问题提出
-- [[llm-computational-thinking-physics-2026]] — LLM 作为物理中计算问题解决的可规模化评估者
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 面向小学数学的 LLM 辅导系统中规则引导对临时脚手架（Looi 等人 2026）
-- [[rachatasumrit-example-problem-ratio-2026]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -96,39 +98,3 @@ ai_assist:
 - **"सहायता रोकने से शिक्षार्थी हताश होते हैं और प्रेरणा की हानि होती है।"** एक तीन-शाखा वाले [[rct|RCT]] ने पाया कि संकेत रोकने वाला ट्यूटर **हताशा घटाने और प्रेरणा पर अप्रतिबंधित ChatGPT के बराबर** रहा, लागत **केवल वरीयता में** दिखी। शिक्षार्थियों ने इसका उतना आनंद नहीं लिया और उन्हें उसकी कीमत भी नहीं चुकानी पड़ी, जिसका अर्थ है कि वरीयता डेटा उस अभिकल्प को अस्वीकार कर देता जो काम कर रहा था।
 - **"अधिक हताशा का अर्थ अधिक अधिगम है।"** क्रमशः कठोर होता ट्यूटर माँग पर उत्तर देने वाले ट्यूटर से **0.42 स्केल-अंक अधिक हताशाजनक था (p < .001) और सबसे हताशाजनक शाखा से 0.29 कम**। उत्पादक परास एक मध्य है, अधिकतम नहीं, इसलिए "वांछनीय कठिनाई" कार्य को अनिश्चित काल तक कठिन बनाने का लाइसेंस नहीं देती।
 - **"उत्पादक विफलता का अर्थ है कि शिक्षक सहायता न करें।"** अभिकल्प *उत्तर* रोकता है जबकि संरचना और क्रमिक वृद्धि प्रदान करता है। संकेत रोकना और समर्थन रोकना अलग-अलग हस्तक्षेप हैं, और यहाँ प्रमाण केवल पहले वाले के पास है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — प्रयास-पहले-निर्देश को एक पूर्ण अनुक्रम के रूप में, इसके पतले साक्ष्य आधार के साथ
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — पहले प्रयास के लिए साझा समस्या-स्थान के रूप में केस
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## संबंधित लेख
-
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-विफलता-आधारित सीखने का समर्थन करने वाले एआई प्रणालियों का डिज़ाइन
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक विफलता के लिए एलएलएम का शिक्षाशास्त्रीय निर्देशन
-- [[rhaimi-productivemath-2025]] — प्रोडक्टिवमैथ: पीएफ समस्या डिज़ाइन का समर्थन के लिए एआई
-- [[wang-safety-gap-productive-struggle-2026]] — सुरक्षा अंतराल: उत्पादक संघर्ष की पुनर्स्थापना
-- [[lukesova-clue-before-correction-2026]] — संकेत पहले सुधार: स्वायत्त सीखने के लिए चैटजीपीटी
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — समाधान रोकने से हताशा की लागत टली, पर विद्यार्थी-वरीयता में हार हुई
-- [[pedagogy-ai-mistakes]] — एआई भूलों का शिक्षाशास्त्र
-

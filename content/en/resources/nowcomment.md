@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 NowComment turns a text, an image or a video into a discussion surface: comments are threaded against the exact sentence, paragraph, image region or timestamp they respond to, so a class conversation stays anchored to evidence instead of drifting into a comment feed. The AI layer runs in that same surface. An [OpenAI-based](https://nowcomment.com/) "AI Thinking Partner" can be asked about a passage the reader has selected, and the result arrives as an editable draft.
@@ -39,12 +40,3 @@ Teachers running close-reading, document study or media analysis in K-12 or high
 ## Notes and caveats
 
 Accounts are free, and documents can be public or shared with an invited group. The AI partners run on OpenAI large language models, so selected passages and questions leave the platform's own hosting and are subject to that provider's terms. A district should read the data processing arrangement before using it with minors. Output is capped by a token limit that the site says it is still expanding, the partner directory is behind a login, and the AI surfaces are a fast-moving part of the product: treat any capability described here as the state of the site in November 2026, not a settled feature set.
-
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

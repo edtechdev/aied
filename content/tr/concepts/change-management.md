@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,9 +40,7 @@ Ampirik literatür tutarlı biçimde, etkili YZ değişim yönetiminin yalnızca
 
 Değişimin yineleyen bir engeli, yukarıdan aşağıya politika niyeti ile sınıf gerçekliği arasındaki uçurumdur. [[genai-policies-higher-ed-computing|Karşılaştırmalı politika analizi]], ABD’deki R1 üniversite politikalarının %63’ünün GenAI kullanımını teşvik ettiğini, bilişim derslerinin programlarının ise yarısının bunu açıkça yasakladığını ve öğretim üyelerini tutarsız yerel kuralları doğaçlama uygulamaya bıraktığını ortaya koymuştur. Benzer biçimde, [[ai-uk-higher-education-policy-2026|Birleşik Krallık yükseköğretim politika incelemesi]], araştırma yoğun ve öğretim odaklı kurumlar arasında bir ayrımı belgelemekte; ulusal rehberliğin özgüllük ve uygulama gücü yetersizliği nedeniyle eleştirildiğini kaydetmektedir. [[institutional-governance-ai-universities|Kurumsal yönetişim analizi]] ise üniversite geneli politikaların veri güvenliği ve risk azaltmayı öne çıkardığını, mevcut olduğunda [[k-12|okul]] düzeyindeki politikaların ise pedagojiyi odak aldığını gösterir; bu yapısal uyumsuzluk, [[curriculum-design|müfredat]], politika, değerlendirme ve altyapının bütünleşik entegrasyonuna ilişkin akreditasyon beklentilerinin altında kalır.
 
-
 Yayımlanmış bir hemşirelik çalışmasına verilen yanıt, analiz birimini açık hâle getirir: [[shankar-institutional-ecosystems-ai-nursing-2026|Shankar (2026)]], [[tpack]] gibi bir çerçevenin bireysel eğitimcileri yakaladığını ve kurumu modelin dışında bıraktığını savunur. Uygulama bilimi üzerinden okunduğunda benimseme aynı anda dört düzeye bağlıdır: müdahale, iç örgütsel ortam, dış politika ortamı ve ilgili bireyler. Somut öneri, Uygulama Araştırmaları için Birleştirilmiş Çerçeve’yi (CFIR) liderlik angajmanı, mevcut altyapı ve öğretim üyesi kapasitesini kapsayan bir hazırbulunuşluk kontrol listesi olarak işlevselleştirmektir; bu, soruyu kimin eğitime ihtiyacı olduğundan örgütün konuşlandırmaya hazır olup olmadığına taşır.
-
 
 ## Eğitimde YZ araştırmasında değişim yönetimi
 
@@ -81,35 +81,3 @@ Değişim yönetimi, sınıf düzeyindeki entegrasyonun kurumsal karşılığıd
 - **“Bir YZ aracını benimsemek bir olaydır.”** **Sürdürülebilirlik aracın değil örgütün bir özelliğidir** — CSUN metin mesajlaşma denemesi zaman ölçeğini örnekler. Değerlendirme dört yıl sürmüştür çünkü sınanması gereken şey dayanıklılıktı.
 
 - **“Kurumların daha hızlı tepki vermesi gerekir, öngörmesi değil.”** **Öngörücü liderlik** tamamlayıcı ipliktir: [[baroudi-anticipatory-governance-ai-higher-ed-2026|kapsam incelemesi]], kurumların **tepkisel** yönetişimden **öngörü** temelli yönetişime geçmesi gerektiğini bulur. Çoktan gelmiş bir teknolojiye yetkin biçimde tepki vermenin başarısız olduğunu kanıtlar belgelemektedir.
-
-## Bağlı kavramlar
-
-- [[governance]] — değişim yönetiminin işler hale getirdiği politika ve denetim yapıları
-- [[educational-policy-ai]] — değişim yönetiminin uygulamaya dönüştürmesi gereken ulusal ve kurumsal YZ politika niyeti
-- [[educational-development]] — YZ entegrasyonu için fakülte kapasitesi ve pedagojik yönelim oluşturmak
-- [[administrator]] — değişim ajanları olarak liderlik ve öngörücü yönetişim
-- [[ai-literacy]] — sorumlu kurumsal benimsemenin temelini oluşturan yatay yetkinlik
-- [[equity-in-ai-education]] — değişimin kazanımlarının kurumlar ve öğrenenler arasında eşit dağılmasını sağlamak
-- [[technology-acceptance-model]] — değişimin nasıl yayıldığını açıklayan benimseme güçleri
-- [[academic-integrity]] — değerlendirme reformunun çevresinde örgütlendiği merkezî düzenleyici çıpa
-- [[student-support-and-success]] — bir destek programını pilot aşamasının ötesinde sürdürmek
-
-## Bağlı makaleler
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — global Delphi consensus on eight-area GenAI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — scoping review of anticipatory governance and leadership
-- [[ai-adaptation-gap-higher-education-2026]] — stakeholder gaps in AI use, attitudes, and trust across students, faculty, and staff
-- [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
-- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment

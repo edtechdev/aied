@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -104,54 +106,3 @@ Gândirea critică se intersectează cu [[scaffolding|sprijinirea structurată]]
 - **„Un prompt mai bun produce o gândire critică mai bună.”** **Controlul structurat al dialogului, nu un prompt mai bun**, separă un tutor de sofisme de un chatbot de dezbateri: dirijarea fiecărei replici prin **detectarea intenției bazate pe Toulmin** a făcut treaba. Mecanismul este structura interacțiunii, iar nu formularea.
 - **„Folosirea GenAI ridică direct gândirea critică.”** Legătura dintre folosirea GenAI și gândirea critică **autoevaluată** a trecut **aproape în întregime prin [[feedback-literacy|alfabetizarea în feedback]] la GenAI** — la **421 de studenți de licență chinezi**, alfabetizarea în feedback a mediat **71%** din asociere. Alfabetizarea este calea.
 - **„Efectul meta-analitic este uniform.”** În **29 de experimente**, GenAI a ridicat moderat gândirea de ordin superior (**g = 0,609**), cu gândirea critică la **ES = 0,691**. Efectele cumulate moderate peste intervenții eterogene susțin categoria, iar nu un anumit design.
-
-## Concepte conexe
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Educația chimiei și IA: laboratoare, evaluare formativă, limitele LLM, filosofia experimentului
-- [[biology-education]] — Educația biologiei și IA: asistenți de laborator, alfabetizare în IA în biologie, gândire critică, instrumente specializate
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Articole conexe
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Gândirea critică trece prin împărțirea muncii și refacerea rezultatului, nu prin expunere
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consens al 30 de experți: gândirea critică are cea mai înaltă evaluare de perturbare din raport (medie 4,00)
-- [[pearls-epistemic-verification-2026]] — Cadrul PEARLS pentru agentivitate epistemică și verificarea rezultatului IA (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descărcare cognitivă sensibilă la strat în scrierea asistată de GenAI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoxul gândirii critice în învățarea integrată cu GenAI
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analiză despre GenAI și gândirea de ordin superior
-- [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
-- [[luo-ibl-patterns-llm-bloom-2026]] — Tipare IBL în medii conduse de LLM (perspectiva lui Bloom)
-- [[probing-ai-generated-physics-solutions-2026]] — Pregătirea studenților pentru a critica soluții de fizică generate de IA
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Supra-dependența de IA modelată ca sistem complex adaptiv
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Câștiguri de gândire critică specifice dimensiunilor în scrierea multimodală sprijinită de IA (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — predarea recunoașterii sofismelor prin dialog structurat cu mai multe replici
-- [[caeai-ai-companions-learning-over-performance-2026]] — învățarea înaintea performanței: pentru ce ar trebui optimizați și măsurați însoțitorii
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Sprijinire IA, descărcare și alfabetizare în verificare prin autoreglare metacognitivă (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Dependența de GenAI limitează legătura dintre utilizare și gândirea critică la studenții la afaceri (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Promptul de reflecție reduce acceptarea sfaturilor IA incorecte și prejudecata de atribuire (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotația rolurilor ca structură pentru interacțiunea critică om-IA (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Integrare GenAI centrată pe verificare în educația universitară în chimie (Vega-Baudrit și Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — feedbackul ChatGPT curatoriat de profesor a ridicat gândirea critică prin revizuire de ordin superior (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — un semestru de acces la IA a lăsat gândirea critică neschimbată; folosirea reflexivă a prezis-o (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Dependența de GenAI asociată pozitiv cu gândirea critică la 1.157 studenți de masterat
-- [[genai-use-critical-thinking-moderation-2026]] — Folosirea GenAI către gândirea critică prin alfabetizarea în feedback, cu o cale directă doar pentru studenții mai puțin reflexivi
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Lectura pesimistă a dovezilor despre moderare: pierderea frecării, prejudecata de automatizare, cadrul eficienței
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Revizuire narativă a 108 documente: semnul efectului urmărește cunoașterea anterioară și momentul sarcinii (cadrul AMCIF)

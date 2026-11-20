@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -101,35 +103,3 @@ ai_assist:
 **"ریٹریول مشق کا مطلب سوالات پوچھنا ہے، اور کوئی بھی سوالات گنتی میں آتے ہیں۔"** میکانزم جواب پہچاننے کے بجائے یادداشت سے پیدا کرنا ہے، اِس لیے کثیر الانتخاب پہچان کا کام اُسی سرگرمی کی کمزور صورت ہے۔ جو AI لامحدود پہچان والے آئٹم پیدا کرتا ہے، اُس نے درست نام مگر غلط میکانزم والی سرگرمی پیدا کی ہے۔
 
 **"AI اِن تکنیکوں کو ایمانداری سے دے سکتا ہے، کیونکہ یہ اچھی طرح متعین ہیں۔"** یہ اِنہیں چپکے سے ہرا بھی سکتا ہے۔ وقفہ کاری کا تقاضا ہے کہ نظام وہی مواد روکے جو وہ مانگ پر دینے میں سب سے زیادہ قابل ہے، اور ریٹریول کا تقاضا ہے کہ وہ جواب نہ دے — چنانچہ تکنیک کی کارگزاری اُن قیود پر منحصر ہے جنہیں راضی رکھنے والا معاون مسلط کرنے میں کوئی محرک نہیں رکھتا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وقفہ وار ریٹریول کے سلسلے، اور انکوڈنگ کے دوران معاونت کی یادداشت کی قیمت
-- [[desirable-difficulties]] — وہ اصول جسے یہ تین تکنیکیں عملی شکل دیتی ہیں
-- [[cognitive-psychology]] — یادداشت، انکوڈنگ اور ریٹریول بطور تینوں کا نظریاتی گھر
-- [[prior-knowledge]] — ریٹریول مشق بطور اُس چیز کی تفعیل جو سیکھنے والا پہلے سے رکھتا ہے
-- [[metacognition]] — یہ جانچنا کہ روانی سیکھنے کی عکاسی کرتی ہے یا نہیں
-- [[self-regulated-learning]] — جو AI آپ کے لیے شیڈول یا جواب دے سکتا ہے، اُسے مستقل مزاجی سے سیکھنا
-- [[mastery-learning]] — مہارت کی حد کے بعد یادداشت، اور وہ وقفہ کاری جو اُسے قائم رکھتی ہے
-- [[knowledge-tracing]] — وہ ماڈل جو شیڈولنگ کے فیصلے کرتے یا چوک دیتے ہیں
-- [[cognitive-offloading]] — ناکامی کی وہ صورت جب ریٹریول کسی ٹول کو تفویض ہو جائے
-- [[transfer-of-learning]] — کارکردگی اور سیکھنے کا وہ خلا جسے یہ تکنیکیں مخاطب کرتی ہیں
-- [[formative-assessment]] — بند ٹول کی چوکیاں بطور ریٹریول کے مواقع
-- [[productive-failure]] — مدد ملنے سے پہلے کوشش کرنا
-- [[learners]] — روانی کے بجائے پائیدار سیکھنے کا داؤ
-
-## منسلک مضامین
-
-- [[adaptive-pretesting-retention]] — Akgun اور Toker: سات ہفتوں میں انطباقی وقفہ وار ریٹریول بمقابلہ مقررہ ریٹریول بمقابلہ سیکھنے والے کی ہدایت والا AI
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 شیڈولنگ اور علمیاتی بنیاد والے فلیش کارڈ تعاملات کی درجہ بندی
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: وضاحت کی گہرائی کام کے معیار کی پیشین گوئی کرتی ہے مگر فوری یادداشت کی نہیں
-- [[rachatasumrit-example-problem-ratio-2026]] — حقائق کے لیے ریٹریول مشق، مہارتوں کے لیے حل شدہ مثالیں؛ مواد اور طریقہ کار کا تعامل
-- [[schuetze-knowledge-tracing-forgetting-2026]] — knowledge-tracing ماڈل وقت پر مبنی تصدیق کے تحت وقفے کے اثر کو پکڑنے میں ناکام
-- [[bilingual-llm-lecture-companion-srl-2026]] — خودکار فلیش کارڈ پیداوار جو وقفہ وار مشق کی تصنیفی لاگت ہٹا دیتی ہے
-- [[student-cheat-sheets-make-or-take]] — چیٹ شیٹ بنانا بطور تخلیقی مطالعہ؛ AI کے ساتھ اُس کی تعمیر تفویض کرنا
-- [[knowloop-confusion-to-consolidation-2026]] — واپس سکھانے والا استحکام جو وہ خلا سامنے لاتا ہے جو وضاحت نہ لا سکی
-- [[simulating-learner-task-selection]] — Interleaving اور Blocking بطور ماڈل شدہ سیکھنے والے حربے، کام کے انتخاب کی قیود کے تحت
-- [[nie-personavlm-long-term-personalization-2026]] — طولی طالب علم یادداشت اور وقفہ وار تکرار و فراموشی کے منحنی خطوط سے اُس کا کھلا تعلق
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — سیکھنا سیکھنے کے فریم ورک کی اوزار تہہ میں ریٹریول مشق
-- [[agentic-ai-pedagogical-best-practice-2026]] — پہلے سے لا کر رکھنے والے ایجنٹ ریٹریول مشق کو نظرانداز کرتے ہیں؛ دانستہ رگڑ کی دلیل
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — جب AI ٹیوٹر بولتے ہیں: ایک بے ترتیب میدانی تجربے کے شواہد

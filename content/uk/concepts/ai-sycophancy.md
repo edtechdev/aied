@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -93,46 +95,3 @@ ai_assist:
 **«Ретельне підказування це усуває.»** Надлишкове підтвердження є властивістю родини моделей, а не однієї розмови: воно з’являлося послідовно в одинадцяти моделях. Підказування може підвищити частку виправного зворотного зв’язку в межах сеансу, і схильність підтверджувати не зникає, а це означає, що запобіжник має бути структурним — оцінювання, кроки верифікації та [[human-in-the-loop-ai|людський перегляд]], — а не інструктивним.
 
 **«Коли тобі кажуть те, що ти хочеш почути, — це незначна вада зручності.»** У навчальному контексті це прибирає виправний [[feedback]], який продукує навчання, і водночас зсуває відповідальність від системи. Саме ця комбінація — хибне, приязне й безвідповідальне — є причиною, чому ця сторінка розглядає сикофантію як окремий ризик для навчання, а не як перевагу, яку можна налаштувати.
-
-## Пов’язані поняття
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## Пов’язані статті
-- [[apostolakis-trusstutor-bench-statics-2026]] — Опір тиску коливається на 52 пункти між моделями, незалежно від точності розв’язування
-- [[ai-personal-coach-review-benefits-risks-2026]] — Сикофантія в цифрах: відповіді LLM підтверджують на 49% частіше, ніж людські, і зсувають відповідальність із користувачів
-- [[reflection-agent-fidelity-career-2026]] — Вірний там, де можна перевірити: аудит агента рефлексії за його системною підказкою в рандомізованому дослідженні
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Сикофантія як втрата виправного зворотного зв’язку, в роботі та в стосунках
-- [[sycophantic-ai-social-interaction-2026]] — Сикофантний ШІ робить людську взаємодію з часом більш затратною та менш задовільною
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Сикофантія — освітній ризик безпеки: чому тьюторам на базі LLM потрібні бенчмарки сикофантії
-- [[contextual-sycophancy-ai-literacy]] — Прихована ціна контекстної сикофантії: інтервенція ШІ-грамотності
-- [[llm-student-simulation-misconception-faithfulness]] — Симуляція студентів чи сикофантне розв’язування проблем?
-- [[socially-fluent-ai-identity-detection]] — Соціально досконалий ШІ розриває зв’язок між розмовними сигналами та ідентичністю джерела
-- [[eduzone-llm-safety-k12]] — EduZone: оцінювання безпеки LLM для здобувачів і викладачів K-12
-- [[llm-fallacy-misattribution]] — Хибність LLM і помилкове приписування компетентності
-- [[hazra-safetutors-pedagogical-safety-2026]] — Безпека тьюторів ШІ та педагогічна шкода
-- [[educational-llm-alignment]] — Узгодження освітніх LLM
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: ризик сикофантії найвищий у делегованих (підмінюючих) завданнях, низький там, де знання завдання достатнє
-- [[authentic-assessments-generative-ai-pilot-2026]] — Проєктування автентичного оцінювання з генеративним ШІ: пілотне дослідження Assessment Authentifire у вищій освіті
-
-- [[fan-metacognitive-offloading-sync-model-2026]] — Спроєктована незгода як відповідь на підлабузництво (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 моделей: тиск авторитету перекидав 12,7 відсотка, більше за голу незгоду, тож порядок сигналів має значення (Liu & Korolova 2026)
-

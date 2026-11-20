@@ -28,6 +28,7 @@ ai_assist:
 translation_of: "resources/campus-ai-framework"
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -44,10 +45,3 @@ Dirigenti di gabinetto, provost e CIO che decidono cosa sostenere; responsabili 
 ## Note e avvertenze
 
 Il framework e il sito sono concessi in licenza **CC BY-NC-SA 4.0**, quindi l'adattamento è consentito per uso non commerciale con attribuzione e condivisione allo stesso modo; il sito fornisce una propria attribuzione suggerita. Il suo allineamento con OECD, NIST, ISO/IEC 42001, l'EU AI Act, FERPA e HIPAA è un confronto proposto dall'editore e va letto come tale. I siti compagni sono progetti separati, diversi dello stesso autore, e vale la pena conoscerli come insieme: [Campus AI Exchange](https://www.campusaiexchange.com/) è l'hub, che raccoglie [mappe interattive](https://www.campusaiexchange.com/ai-policies-guidelines-map) delle politiche istituzionali sull'IA e delle indicazioni per la classe, [autovalutazione della governance dell'IA](https://www.campusaiexchange.com/ai-governance-assessment), mappe delle posizioni sulla governance dei dati e sull'IA, e una libreria di risorse. Attorno a esso si trovano [campusaigovernance.com](https://campusaigovernance.com/) (nove domini di governance dell'IA), [campusairisks.com](https://campusairisks.com/) (il NIST AI Risk Management Framework applicato a quei domini), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), un [modello di piano di adozione dell'IA](https://unit-ai-adoption-plan.netlify.app/) a livello di unità, e un briefing sull'[IA agentica per dirigenti](https://campusaiframework.com/sites). La Bussola Strategica circola anche come documento Google condiviso, che richiede un account Google per essere aperto. All'ingresso compare una breve domanda opzionale di onboarding sul ruolo e sull'istituzione; l'email è facoltativa e l'intero sito è leggibile senza di essa.
-
-## Concetti collegati
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

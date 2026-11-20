@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -99,28 +101,3 @@ Dois outros achados complicam qualquer história simples das ferramentas generat
 **"A IA no ensino de ateliê substitui a crítica."** O enquadramento construcionista nesta literatura é o oposto: um "micromundo" desenhado que **expande o espaço de busca criativa sem substituir o design thinking**. A crítica é onde o julgamento se forma, e uma ferramenta que fornece soluções candidatas dá à crítica mais material sobre o qual trabalhar, e não menos necessidade dela.
 
 **"Os estudantes ainda não usam IA na educação artística, então o currículo pode ditar o ritmo."** A evidência de survey neste corpus encontra quase **70% dos estudantes de arquitetura já usando ferramentas de IA por conta própria**. O currículo está alcançando uma prática que já se espalhou, o que muda a tarefa de introdução para integração crítica.
-
-## Conceitos conectados
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## Artigos conectados
-
-- [[project-based-digital-storytelling-art-design-2026]] — Um trabalho de conclusão de narrativa digital de 15 semanas com 426 estudantes: novidade forte, integração fraca, IA como ferramenta e não como autora (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — Aceitação de texto para imagem entre 417 estudantes de arte e desenho, e o paradoxo da competência do uso seletivo (Liu, Meng & Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Instrução em VR assistida por LLM para iluminação cênica, e a lacuna entre representações de especialistas e de novatos (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: jogos epistêmicos para interpretar modelos de texto para imagem (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Agência criativa, confiança e qualidade da saída avaliada por especialistas entre estudantes de arte

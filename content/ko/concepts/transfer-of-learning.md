@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -96,7 +98,6 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 
 시간 규모 질문에는 이제 형식화가 있습니다. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]]는 지원이 철회된 뒤의 구간을 인지적 세척(cognitive washout)이라고 명명하고, 네 가지 후보 결과를 제시합니다. 탄성적 반등, 부분적 정체, 잠재적 비계, 그리고 과잉 회복입니다. 이 논문은 가역성이 심각도를 결정한다고 주장하며, 그것을 측정하기 위한 사전 등록 가능한 3군 22주 프로토콜을 제안합니다. 위의 연구들은 지원이 끝난 뒤 몇 시간 시점의 전이를 시험했으므로, 그 이후의 몇 주는 이 페이지의 첫 번째 미해결 질문 가운데 진정으로 측정되지 않은 부분으로 남아 있습니다.
 
-
 ### 관련 개념들과의 연결
 
 학습의 전이는 [[metacognition]](이해의 자기 모니터링), 인지 부하 이론(본유 대 외재적 부하), [[desirable-difficulties]](생산적 투쟁), [[scaffolding]](지원의 페이딩), [[cognitive-offloading|과잉 의존(Over-Reliance)]](도구 의존), 그리고 [[sociocultural-learning]](범용 AI가 학생을 위해 작업을 완성함으로써 ZPD 바깥에서 작동함)에 연결됩니다. 이것은 지원된 수행과 진정한 학습 사이의 다리입니다 — [[stanford-evidence-base-ai-k12-2026]]과 [[intelligent-tutoring|AI 튜터링]] 효과성의 핵심 질문 사이의 구분입니다.
@@ -110,38 +111,3 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 **"전이는 더 유능한 모델에서 나온다."** 전이는 그것을 낳는 조건에서 나옵니다. 연습의 일반성, 맥락의 변동성, 그리고 학습자가 추론을 스스로 생성한 정도입니다. 모델의 역량은 지원 수행의 상한을 높일 뿐, 모델이 사라진 뒤에 남는 것에는 특별히 기여하지 않습니다.
 
 **"안내는 항상 전이를 돕기 때문에 많을수록 좋다."** 추론을 대신 수행하는 안내는 전이가 의존하는 과정을 대체합니다. 구분은 학습자가 다음 단계를 계속 생성하도록 돕는 도움과 그것을 대신 생성하는 도움 사이에 있으며, 전이의 편에 서는 것은 오직 전자입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 이 순서들의 대부분이 궁극적으로 판단되는 결과
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — 생산적 실패(Productive Failure)
-
-## 연결된 문서
-- [[yan-agentivism-learning-theory-ai-2026]] — 네 메커니즘과 여섯 개의 검증 가능한 명제를 가진 인간-AI 상호작용을 위한 중범위 학습 이론 (Yan과 Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 지원 글쓰기의 층 민감적 인지적 오프로딩 (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 수행-학습 구분과 지속 가능한 전이
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — 입자물리학 교육의 AI: 연구 문제와 기초 기술
-- [[shi-genai-experiential-learning-management-education-2026]] — 보호된 교실 시뮬레이션이 그것들의 바깥에서 실패하는 의사결정 습관을 형성할 수 있다고 주장함
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI 지원 말하기 연습이 인간에 대한 의지를 높였지만 어떤 연구도 인간의 말하기를 관찰하지 않음
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: 책상에서의 기능적 로봇 구현을 통한 증강 학습
-
-- [[cognitive-washout-ai-skill-decay-2026]] — 인지적 세척: 지원 철회 이후의 구간과 22주 측정 프로토콜 (Yajee 2026)
-

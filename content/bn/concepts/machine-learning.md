@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -74,34 +76,3 @@ ai_assist:
 **"জেনারেটিভ এআই শিক্ষায় ধ্রুপদী মেশিন লার্নিংকে অপ্রচলিত করে দিয়েছে।"** তারা ভিন্ন কাজ করে। শিক্ষার্থী-অবস্থার পূর্বানুমান, কাঠিন্য-অনুমান ও অগ্রগতি-পূর্বাভাস ধ্রুপদী ML সমস্যা হিসেবেই থাকে, আর এই কর্পাস যে নলেজ-ট্রেসিং ও আইটেম-ক্রমাঙ্কন সাহিত্য নথিভুক্ত করে তা একটি ভাষা-মডেল দিয়ে সম্পন্ন হয় না। জেনারেটিভ এআই মেশিন লার্নিংয়ের উপসেট, তার প্রতিস্থাপন নয়।
 
 **"শিক্ষক-শিক্ষায় শিক্ষার্থীদের মেশিন লার্নিংয়ের বদলে LLM সম্পর্কে শেখানো উচিত।"** সাক্ষরতাকে জেনারেটিভ স্তরে সীমিত রাখলে পেশাজীবীরা তাদের শিক্ষার্থীদের সম্পর্কে সিদ্ধান্ত নেওয়া পূর্বানুমানমূলক ব্যবস্থাকে প্রশ্ন করতে অক্ষম থাকেন — যেখানে পরিণতিসম্পন্ন ত্রুটিগুলো জমে।
-
-## সংযুক্ত ধারণা
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[at-risk-students-ml-prediction]] — ঝরে পড়ার ঝুঁকিতে থাকা শিক্ষার্থী চিহ্নিত করতে সুপারভাইজড ML শ্রেণিবিভাগ
-- [[trace-course-grade-prediction-2026]] — একসঙ্গে কোর্স ও গ্রেড পূর্বানুমান করা transformer (TRACE)
-- [[precision-education-student-digital-twins-2026]] — প্রতিরোধমূলক, কর্মজীবন-সারিবদ্ধ পথের জন্য এআই-চালিত শিক্ষার্থী ডিজিটাল টুইন
-- [[sc2r-counterfactual-recourse-educational-2026]] — কার্যকর হস্তক্ষেপের জন্য অর্থ-সীমাবদ্ধ counterfactual recourse
-- [[interactive-online-learning-ai-2025]] — ইন্টারঅ্যাকটিভ অনলাইন-শেখার পূর্বানুমানের জন্য DMO-GRU সংকর
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি ITS-এ জ্ঞানীয় সম্পৃক্তির অভিযোজিত স্ক্যাফোল্ডিং (BKT বনাম DRL)
-- [[pedagogical-safety-rl]] — শিক্ষাগত রিইনফোর্সমেন্ট লার্নিংয়ে শিক্ষাগত নিরাপত্তার আনুষ্ঠানিক কাঠামো
-- [[automated-online-exam-proctoring-decade-review-2026]] — ডিপ-লার্নিং স্বয়ংক্রিয় প্রক্টরিংয়ের দশক-ব্যাপী পর্যালোচনা
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity ম্যাপিংসহ ফলাফলভিত্তিক নলেজ ট্রেসিং
-- [[bird-multimodal-educational-literature-2026]] — শিক্ষাগত সাহিত্য শ্রেণিবিভাগে বহুমাত্রিক সংযুক্তি
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM ও ট্রি-ভিত্তিক ML দিয়ে আইটেম-কাঠিন্য অনুমান
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — পাকিস্তানি বিশ্ববিদ্যালয় শিক্ষার্থীদের মধ্যে NLP ও মেশিন লার্নিং ব্যবহার করে চাপ শনাক্তকরণ ও সুস্থতা-সহায়তার জন্য একটি এআই-চালিত সাংস্কৃতিকভাবে সচেতন চ্যাটবট
-- [[synthetic-educational-data-structural-fidelity-2026]] — Fidelity মেট্রিক যা মিস করে: সিন্থেটিক শিক্ষাগত উপাত্তের উপর একটি কাঠামোগত যাচাই

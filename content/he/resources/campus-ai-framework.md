@@ -24,6 +24,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,10 +42,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 המסגרת והאתר ברשיון **CC BY-NC-SA 4.0**, כך שהתאמה מותרת לשימוש לא-מסחרי עם ייחוס ושיתוף-דומה; האתר מספק את ייחוס המוצע שלו. היישור שלו עם OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA ו-HIPAA הוא ההשוואה של המוציא לאור עצמו ויש לקרוא אותו כך. האתרים הנלווים הם פרויקטים נפרדים, מספרים מאותו מחבר, ושווה להכיר אותם כקבוצה: [Campus AI Exchange](https://www.campusaiexchange.com/) הוא המרכז, המחזיק [מפות אינטראקטיביות](https://www.campusaiexchange.com/ai-policies-guidelines-map) של מדיניויות AI מוסדיות והנחיות כיתה, [הערכה עצמית של מינהל AI](https://www.campusaiexchange.com/ai-governance-assessment), מפות מינהל נתונים ותפקידי AI, וספריית משאבים. סביבו יושבים [campusaigovernance.com](https://campusaigovernance.com/) (תשעה תחומי מינהל AI), [campusairisks.com](https://campusairisks.com/) (מסגרת ניהול הסיכונים של NIST AI מופעלת על התחומים הללו), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), [תבנית תוכנית אימוץ AI ברמת יחידה](https://unit-ai-adoption-plan.netlify.app/), ותקציר על [AI אג'נטי למנהלים](https://campusaiframework.com/sites). ה-Strategic Compass מסחרב גם כמסמך Google משותף, שדורש חשבון Google כדי לפתוח. שאלת היכרות קצרה ואופציונלית על תפקיד ומוסד מופיעה בכניסה; אימייל הוא אופציונלי וכל האתר ניתן לקריאה בלעדיו.
-
-## מושגים מקושרים
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

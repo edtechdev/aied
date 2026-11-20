@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,9 +44,3 @@ Bir puanlama aracının notları gözden geçirilmeden yayımlamasına izin veri
 ## Notlar ve uyarılar
 
 GradeBench, ticari bir AI puanlama platformu olan Pensive tarafından yayımlanır; dolayısıyla benchmark ile ürün aynı sahibe aittir. Görev yapısı belgelenmiştir ve savunulabilir, ancak çerçevelemeyi satıcınınki olarak kabul edin. En az dört maddeli rubriklere sahip STEM sınavlarını kapsar; bu da kompozisyonları, kısa yanıtları ve tartışma gönderilerini dışarıda bırakır — [[humanities-education|beşeri bilimler]] puanlamasının çoğunun gerçekleştiği biçimleri. Tam rubrik eşleşmesi katı bir metriktir: iki puanlayıcı bir maddede anlaşmazlığa düşebilir ve öğrenci hakkında ikisi de haklı olabilir. Puanlar, Kasım 2026'da mevcut olan model sürümlerini tanımlar ve değişecektir.
-
-## Bağlı kavramlar
-
-- [[automated-assessment]] — benchmark'ın ölçtüğü uygulama
-- [[assessment-validity]] — bir liderlik tablosu puanının vekil göstergesi olduğu ölçüt
-- [[benchmark]] — bu aracın ait olduğu daha geniş araç sınıfı

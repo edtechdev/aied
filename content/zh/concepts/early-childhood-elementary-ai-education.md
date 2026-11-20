@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -106,51 +108,3 @@ ai_assist:
 - **"教师会用 AI 生成整节课。"** 教师最常（**60%**）**为自拟大纲的课时填补内容空白**，而不是生成整份方案。委派的单位是那个空白，而不是整节课。
 - **"幼儿从 AI 支持的媒介素养中获益较少。"** AI 支持组在**媒介阅读（+3.50）、写作（+1.67）与总体媒介素养（+5.17，均 p < .01）**上表现出大增益，组间效应量为 d = 1.12 或更高。在这一年龄段，增益是大的，而不是边际的。
 - **"自动观察在所有方面都与人类评分者一致。"** 一致性**总体为中等（加权 κ = 0.681），但取决于构念**：收敛在**情感支持**领域与**反馈质量**上成立，在其他方面则不成立。对各领域取平均，会掩盖该工具在哪里失效。
-
-## 关联概念
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## 关联文章
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 在 AI 时代塑造幼儿期：素养、教学与生态化支持（Pei，2026）
-- [[preservice-early-childhood-genai-magnetism-2026]] — 职前幼儿教育者在科学活动设计中与生成式 AI 的互动：以磁学为案例
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA：AI 能否评估儿童故事的发展适切性？
-- [[preschool-teachers-ai-behavioral-intention-2026]] — 学前教师在幼教场景中使用 AI 的行为意向（Duan 等，2026）
-- [[ai-play-framework-early-childhood-2026]] — AI-Play：幼儿阶段的不插电 AI 概念
-- [[ai-toys-child-development-2026]] — AI 玩具与儿童发展
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园中通过机器人培养计算思维
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 小学分数中的 AI 驱动个性化学习
-- [[elementary-writing-genai-systematic-review-2026]] — 生成式 AI 时代的小学写作教学
-- [[awareness-technological-isomorphism]] — 小学数学中的技术同构
-- [[icub-humanoid-storytelling-llm-hri-2025]] — 与儿童的 LLM 人形机器人讲故事
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 早期社会情感学习中的人机互补（Raave 等，2026）
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI（PL-AI）：面向学前班与幼儿园的以游戏为中心的 AI 素养课程（Lee，2026）
-- [[demir-akar-ai-media-literacy-children-2026]] — 面向儿童的基于 AI 的批判性媒介素养项目
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — 创造性项目方法：一个为早期学习定制 AI 代理与机器人的框架（Yang、Li 与 Lee，2025）
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人同 ChatGPT 对话的首个神经影像比较：6–7 岁儿童的控制—注意—记忆网络整合度更低
-- [[ai-rated-classroom-observation-scores-2026]] — 我编码还是 AI 编码：香港幼儿园中 AI 评分的 CLASS Pre-K 分数对比受训人类评分者（Fong 等，2026）
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI 原住民的 AI 素养？一项四国比较
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — 小学英语教育中的 AI 中介工具：关于教学功能与教师编排的范围综述
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — 数字教育背景下职前幼儿教师的数字与媒介素养：一项研究趋势的文献计量分析
-- [[yim-ai-literacy-primary-schools-review-2025]] — 小学人工智能素养教育：四条路径、建构主义教学，以及一个偏重自我报告的证据基础（Yim 与 Su，2025）
-- [[barokah-ai-elementary-science-review-2026]] — 绘制小学科学研究版图：五个应用聚类、教师中介与单薄的认识论结果（Barokah 等，2026）

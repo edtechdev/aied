@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -40,6 +41,3 @@ ai_assist:
 ## Условия и предупреждения
 
 Лицензът е Creative Commons BY-NC-ND 4.0 и заявените от автора условия имат значение за повечето институционални читатели: лично, нетърговско учене и професионално развитие са добре дошли, докато търговската употреба, разпространението и бялото етикетиране изискват търговски лиценз. Репозиторият отчита 314 от 320 точки в десет самостоятелно измислени предизвикателства, което е собствена, а не независима оценка на автора, а същият автор продава консултации и работилници по рамката. Проектът е описан като лично начинание, несвързано с работодателите му, а последният му комит е от април 2026 г.
-
-## Свързани понятия
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

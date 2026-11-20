@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -105,49 +107,3 @@ TutorMoments वांछनीय-कठिनाई सिद्धांत�
 **"संज्ञानात्मक घर्षण और उत्पादक संघर्ष एक ही विचार हैं।"** वे अलग साहित्य से आते हैं और अलग भविष्यवाणियाँ करते हैं। उत्पादक संघर्ष उस प्रयासपूर्ण अर्थ-निर्माण से संबंधित है जो समझ बनाता है; संज्ञानात्मक घर्षण उस असंगति से संबंधित है जो कार्य की मांग और शिक्षार्थी के वर्तमान संसाधनों के बीच होती है। इन्हें पर्यायवाची मानने पर निदान का प्रश्न खो जाता है: क्या यह शिक्षार्थी ऐसे संघर्ष में है जो बनाता है, या ऐसी बाधा में जो केवल कीमत चुकाती है?
 
 **"अगर संघर्ष हटाने से तत्काल प्रदर्शन बढ़ता है, तो हस्तक्षेप काम कर गया।"** यही वह व्यापार-विनिमय है जिस पर पूरा पृष्ठ है: सहायता की उपस्थिति में मापा गया प्रदर्शन बाद के बिना-सहायता प्रदर्शन की तुलना में व्यवस्थित रूप से फुलाया हुआ होता है। प्रयास घटाने वाले किसी भी एआई का मूल्यांकन विलंब पर और उपकरण के बिना होना चाहिए, वरना वह अभ्यास के हटने को अधिगम के उत्पादन के रूप में रिपोर्ट करेगा।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — प्रयासपूर्ण क्रम सहज क्रम से बेहतर प्रदर्शन क्यों करता है
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — वह विफलता जिसे उत्पादक घर्षण रोकने के लिए बनाया गया है
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — उत्पादक विफलता
-- [[retrieval-spacing-interleaving]] — इस सिद्धांत को क्रियान्वित करने वाली संचालन तकनीकें: परीक्षण प्रभाव, अंतराल, इंटरलीविंग
-
-## संबंधित लेख
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — उत्पादक घर्षण, GenAI उपकरणों में बनाकर सीखने का समर्थन करती है
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[structured-reflection-ai-explanatory-feedback-2026]] — पहले से विस्तारित AI प्रतिपुष्टि में स्व-व्याख्या प्रॉम्प्ट: समय दोगुना, कोई अधिगम लाभ नहीं (एशर, गोल्ड एंड कार्वाल्हो 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — जनरेटिव AI का अधिगम दंड: होमवर्क स्कोर बढ़ते हैं जबकि परीक्षा स्कोर गिरते हैं, पूरी लागत दो वर्षों बाद (स्ट्रॉमबर्ग, लेई एंड वू 2026)

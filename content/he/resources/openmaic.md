@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -43,8 +44,3 @@ ai_assist:
 ## הערות
 
 ברישיון MIT, עם מדריך משתמש באנגלית ובסינית וקהילה פעילה ב-Discord ובפיישאו. היא נייטרלית-מודל: אתם מספקים לפחות מפתח ספק LLM אחד, ורכיבים מקומיים אופציונליים (Lemonade למודלים מקומיים, FunASR לזיהוי דיבור) מאפשרים לכם להריץ יותר מהמחסנית אופליין — ולכן "חופשי" מתאר את התוכנה, לא את חשבון ההיסק. המאמר שמאחוריה הופיע ב-*Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), ולמאגר היו יותר מ-38,000 כוכבים עד ספטמבר 2026.
-
-## מושגים מקושרים
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

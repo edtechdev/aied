@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,9 +44,3 @@ Oktatóknak, akik arról döntenek, hogy egy osztályozóeszköz felülvizsgála
 ## Megjegyzések és fenntartások
 
 A GradeBenchet a Pensive adja ki, egy kereskedelmi MI-osztályozó platform, így a benchmark és a termék tulajdonosa közös; a feladatok összeállítása dokumentált és védhető, de a keretezést kezelje a szállító keretezéseként. STEM-vizsgákat fed le legalább négy tételből álló rubrikákkal, ami kizárja az esszéket, a rövid válaszokat és a vitafórum-bejegyzéseket — azokat a formátumokat, ahol a [[humanities-education|humán tudományok]] értékelésének nagy része zajlik. A pontos rubrikaegyezés szigorú metrika: két értékelő nem érthet egyet egy tételben, és mindkettőnek igaza lehet a diákot illetően. A pontszámok a 2026 novemberében elérhető modellverziókat írják le, és változni fognak.
-
-## Kapcsolódó fogalmak
-
-- [[automated-assessment]] — a gyakorlat, amelyet a benchmark mér
-- [[assessment-validity]] — a kritérium, amelynek a ranglista pontszáma helyettesítő mutatója
-- [[benchmark]] — az eszközök tágabb osztálya, amelyhez ez tartozik

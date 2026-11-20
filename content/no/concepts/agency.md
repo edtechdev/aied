@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -133,67 +135,3 @@ En nært beslektet innramming er **relasjonell epistemisk handlekraft** ([[du-yu
 - **«Elever utøver handlekraft når de bruker AI fritt.»** Et **kodeskjema med 14 kategorier som kodet 6 788 ChatGPT-assisterte turer** plasserte **59 % av sjuendeklassingenes turer** i kategorier som ikke representerer handlekraftig bruk. Bruksvolum og handlekraft er forskjellige mål.
 - **«Dagens modeller støtter elevhandlekraft godt.»** **Benchmarket på tvers av ti modeller er støtte til handlekraft der de presterer svakest, nest etter læring**: ImpactBench målte **Agency and Purpose til 56.0 %** på positive kriterier. Handlekraft er den dimensjonen AI-systemer håndterer dårligst, ikke et biprodukt av kapasitet.
 - **«Lærermediering er en begrensning på handlekraft.»** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] fulgte **ti matematikklærere i videregående gjennom en åtte ukers ChatGPT-4**-intervensjon, og medieringen er mekanismen snarere enn hindringen.
-
-## Tilknyttede begrep
-- [[learners]] — Elever: paraplyen for elevsidens begrep
-- [[pedagogical-partnerships]] — Pedagogiske partnerskap
-- [[learner-identity]] — elevidentiteter i utvikling: faglige, profesjonelle, kreative og akademiske
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — felles styring av AI-formidlet interaksjon
-- [[agentic-ai]] — autonom AI som kan omfordele handlekraft i grupper
-- [[chemistry-education]] — Kjemiundervisning og AI: laboratorier, formativ vurdering, LLM-grenser, eksperimentfilosofi
-- [[social-emotional-learning]] — Sosial og emosjonell læring
-- [[cognitive-surrender]]
-
-## Tilknyttede artikler
-- [[tench-ai-policy-isnt-a-playbook-2026]] — En nasjonalt representativ undersøkelse av amerikanske lærere og skoleledere om AI-policydekning, handlekraft og fem klasseromsgrep (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
-- [[yan-agentivism-learning-theory-ai-2026]] — En mellomdistanseteori om læring for menneske–AI-interaksjon, med fire mekanismer og seks testbare proposisjoner (Yan og Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Elevhandlekraft som den emergente kvaliteten ved å koordinere domene-, AI- og metakognitiv kompetanse, ikke en frittstående node (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Tilgang til valg kontra utøvd handlekraft: skyveknapper, en valgfri AI-agent og læring i en stimsimulering
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relasjonell epistemisk handlekraft og seks kriterier som skiller produktiv avhengighet fra skadelig avhengighet (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI-muliggjort pedagogisk følge som støtter STEM-identitet
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Å fremme elevhandlekraft i læringsrelevant arbeid
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emansipatorisk visjon: handlekraft som nullsum mot verktøyets handlekraft
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
-- [[ai-integrated-teaching-identity-tensions]] — Prinsipiell selektivitet som lærerhandlekraft i AI-integrert undervisning (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Avvisning som diagnostisk belegg: ikke-bruk som en situert relasjon og den ujevne retten til å avvise AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemisk autoritet hevdet gjennom avbrytelse, korrigering og avvisning snarere enn maksimal verktøybruk
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetanse kontra handlekraft som formål med AI-utdanning, og heuristikken informert AI-handlekraft (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Lærermediering som betingelsen for at GenAI forblir en artefakt for kritikk snarere enn en autoritet (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Lærerhandlekraft som en ressurs mobilisert gjennom design, med beredskap bedømt fra artefakter snarere enn bruk (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix and Ecological Authority Integration Model: four configurations of who interprets, and the ecological layers that shift them
-- [[gyekye-selves-apprenticeship-2026]] — Elever med minoritetsbakgrunn i lærlingprogrammer forfattet seg selv gjennom AI via avvisning, forhandling og anerkjennelse («kulturell flathet»); institusjonell AI-kompetanse og anerkjennelsesbåndbredde
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Shared epistemic agency in 6,788 ChatGPT-assisted turns of secondary-school science writing (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Opplevd eierskap falt bare der hele essayet ble delegert; brukere som planla og reviderte, matchet ikke-brukere (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

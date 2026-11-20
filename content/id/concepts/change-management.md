@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,34 +80,3 @@ Manajemen perubahan adalah pelengkap institusional bagi integrasi di tingkat rua
 - **"Maksud strategis menciptakan kapasitas."** Hanya **7% institusi** yang telah membuat peran kepemimpinan AI senior meskipun **49% memandang AI sebagai prioritas strategis**. Kesenjangannya ada antara deklarasi dan struktur, dan itulah kegagalan berulang manajemen perubahan AI.
 - **"Mengadopsi alat AI adalah sebuah peristiwa."** **Keberlanjutan adalah sifat organisasi, bukan alat** — uji coba pesan teks CSUN menggambarkan skala waktunya. Evaluasi itu berjalan empat tahun karena ketahananlah yang perlu diuji.
 - **"Institusi perlu bereaksi lebih cepat, bukan mengantisipasi."** **Kepemimpinan antisipatif** adalah benang pelengkapnya: [[baroudi-anticipatory-governance-ai-higher-ed-2026|tinjauan cakupan]] menemukan institusi harus bergeser dari tata kelola **reaktif ke berbasis tinjauan ke depan**. Bereaksi secara kompeten terhadap teknologi yang sudah tiba adalah hal yang didokumentasikan gagal oleh bukti.
-
-## Konsep terkait
-
-- [[governance]] — struktur kebijakan dan pengawasan yang dioperasionalkan manajemen perubahan
-- [[educational-policy-ai]] — maksud kebijakan AI nasional dan institusional yang harus diterjemahkan manajemen perubahan ke dalam praktik
-- [[educational-development]] — membangun kapasitas dosen dan orientasi pedagogis untuk integrasi AI
-- [[administrator]] — kepemimpinan dan tata kelola antisipatif sebagai agen perubahan
-- [[ai-literacy]] — kapabilitas lintas sektor yang menopang adopsi institusional yang bertanggung jawab
-- [[equity-in-ai-education]] — memastikan manfaat perubahan terakumulasi merata di antara institusi dan pembelajar
-- [[technology-acceptance-model]] — pendorong adopsi yang menjelaskan bagaimana perubahan menyebar
-- [[academic-integrity]] — jangkar regulasi pusat tempat reformasi penilaian diorganisasikan
-- [[student-support-and-success]] — mempertahankan program dukungan melampaui uji coba
-
-## Artikel terkait
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Mempertahankan dukungan siswa berbantuan AI: studi implementasi dan dampak empat tahun atas chatbot institusional (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — kerangka enam dimensi untuk mengadaptasi model perubahan institusional terhadap AI sebagai teknologi kedatangan
-- [[leveraging-complex-systems-leading-for-transformative-change]] — kerangka SPARK dan kepemimpinan kompleksitas untuk perubahan transformatif
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — konsensus Delphi global tentang tata kelola GenAI delapan area
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — tinjauan cakupan tata kelola dan kepemimpinan antisipatif
-- [[ai-adaptation-gap-higher-education-2026]] — kesenjangan pemangku kepentingan dalam penggunaan, sikap, dan kepercayaan terhadap AI di antara siswa, dosen, dan staf
-- [[ai-uk-higher-education-policy-2026]] — maksud kebijakan nasional vs. kapasitas institusional di pendidikan tinggi Inggris
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — pendorong organisasi dan teknologi adopsi AI
-- [[adarkwah-genai-unesco-policy-2026]] — analisis kerangka UNESCO atas kebijakan GenAI institusional
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — transformasi digital universitas seni liberal menuju model intensif riset di era GenAI (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — mediator digital yang menerjemahkan strategi AI institusional menjadi praktik membumi di bawah kelangkaan infrastruktur
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Laporan dari lokakarya daring tentang penilaian komputasi di era AI generatif
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — kerja lapangan lintas sistem tentang bagaimana implementasi dan tindakan guru menentukan apakah produk AI membantu
-- [[dot-framework-survey-2026]] — bukti survei bahwa pengembangan profesional harus mencakup siklus desain penuh alih-alih penggunaan alat semata
-- [[flipped-classroom-ai-assessment-math-2026]] — busur difusi selama satu dekade dari inisiatif individual ke pendanaan pusat dalam matematika sarjana (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — anggarkan 15 hingga 20 jam desain ulang per mata kuliah terintegrasi AI sebelum penyesuaian berkelanjutan

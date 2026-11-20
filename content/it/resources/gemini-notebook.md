@@ -29,6 +29,7 @@ verified: [links]
 translation_of: resources/gemini-notebook
 source_updated: "2026-09-22T04:10:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -45,6 +46,3 @@ Chi studia in [[self-directed-learning|modo autonomo]] ripassando dai propri mat
 ## Note e avvertenze
 
 Google dichiara che i contenuti degli account personali non sono usati per addestrare i suoi modelli a meno che l'utente non invii un feedback, che caricamenti, query e risposte di Workspace non sono usati per l'addestramento nemmeno quando viene fornito un feedback, e che i [[privacy|dati non sono condivisi con terze parti]]; i notebook eliminati, tuttavia, non possono essere recuperati. Le affermazioni sulle capacità sopra riportate sono del fornitore stesso, e un distretto o un'istituzione dovrebbe verificarle contro il proprio accordo sul trattamento dei dati anziché contro una pagina di prodotto. La copertura del 2026 ha descritto anche una causa legale sulla voce usata nei podcast generati, che Google ha negato, un promemoria del fatto che gli output audio sollevano [[legal-issues-and-risks|questioni di somiglianza]] distinte dalle tutele legate all'ancoraggio alle fonti. Considera flashcard, quiz e riassunti generati come bozze da verificare contro le fonti, e nota che i limiti del piano gratuito cambiano senza preavviso.
-
-## Concetti collegati
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

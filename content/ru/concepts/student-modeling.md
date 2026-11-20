@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -56,9 +58,7 @@ ai_assist:
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] обнаружили, что сигнал отсроченного старта, зафиксированный во время занятий математикой, предсказывал результаты по английскому языку, причём хронически откладывающие (более 13 минут) показывали меньший прирост (ELA β = −0,11 SD) даже после контроля [[prior-knowledge|prior knowledge]] и времени на задание, — так что поведенческие модели студента могут переноситься между предметами без переобучения на каждый курс, хотя их пороговые значения должны быть выведены заново.
 
-
 Воспринимаемая трудность — ещё одно измерение моделирования студента, и её можно предсказать по характеристикам личности, а не только по статистике текста. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] построили профильные модели читателей по оценкам 3 954 предложений от 193 немецких старшеклассников, и их ансамбль KNN и XGBoost достиг RMSE 0,822 против среднего базового уровня 1,070 при R2 = 0,396. Каждый регрессор, включавший характеристики читателя, превосходил и средний, и базовый уровень средней сложности, поэтому модель учащегося, которая схватывает, кто этот читатель, предсказывает, насколько трудным ощущается текст, — измерение восприятия, которого другие модели на этой странице не несут.
-
 
 ## Слой адаптивного обучения
 
@@ -88,9 +88,7 @@ ai_assist:
 
 Некоторые намеренные сигналы могут быть вообще не восстановимы из диалога: пилот рамки Learning Context восстанавливал заблуждения на уровне 91,4% и [[anxiety-and-stress|тревожность]] на уровне 100%, но добросовестность лишь на 68,6%, а знание языка на 60%, так что контекстно-осведомлённая модель должна фиксировать медленно проявляющиеся черты, а не ждать, когда диалог их обнажит ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-
 Физиологические и глазодвигательные сигналы расширяют базу моделирования: айтрекинг, ЭЭГ, электродермальная активность и частота сердечных сокращений теперь используются для вывода вовлечённости, внимания и когнитивной нагрузки ([[sensor-and-gaze-analytics]]). Слабое звено — вывод от сигнала к психическому состоянию, поскольку тело можно записать, не идентифицировав его состояние.
-
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] вскрывают циркулярность в том, как валидируются такие синтетические учащиеся: их агенты EduMirror проводят психометрические [[self-report-measures|опросы]] постфактум и читают согласие с внутренним ценностным представлением агента как психологическую валидность, но поскольку Surveyor измеряет измерения, уже закодированные в этой системе ценностей, проверка является проверкой согласованности, а не независимой валидацией.
 
@@ -124,61 +122,3 @@ ai_assist:
 - **«Точной модели нужен самый сложный метод».** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] показывают, что **верное представление не требует самого сложного** подхода. Сложность не является мерилом верности, и более простая модель, улавливающая релевантную структуру, может быть лучшим инструментом.
 - **«Моделям учащегося нужны данные трассировки».** Предсказательная модель учащегося может опираться на **структуру зачисления**, а не на данные трассировки: TRACE кодирует каждый семестр как **неупорядоченную корзину курсов** и предсказывает по ней. Предсказательный сигнал может жить в административных записях учреждения.
 - **«Аффективное состояние требует физиологических датчиков».** Тьютор по математике **выводил эмоцию из разговорного текста и выражения лица** и отображал агрегированное состояние на решения тьютора. Сигнал аффекта был восстановим из того, что учащиеся и так производили.
-
-## Связанные концепции
-
-- [[learners]] — Learners: зонтичное понятие для концепций со стороны учащегося
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — модели под предсказанием риска и адресной поддержкой
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Связанные статьи
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивое обобщение: адаптивное освоение может прекратить практику до того, как учащиеся узнают, когда воздержаться от действия (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Причинное моделирование вмешательств поддержки при оценивании компетентности студентов
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: что мы действительно знаем (краткий обзор Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — Тьюторы на LLM чрезмерно отклоняют правильные альтернативы, чрезмерно подтверждают неправильные (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — От предсказания риска студентов к SC2R: контрфактические корректирующие меры
-- [[graph-its-adaptive-algorithms-2026]] — Интеллектуальное тьюторство на основе графов для динамических областей (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистилляция самообъясняющей LM для аналитики обучения
-- [[studentsim-llm-student-simulators]] — StudentSim: обучение симуляторов студентов на основе LLM
-- [[predicting-attrition-competitive-programming]] — Предсказание оттока студентов в соревновательном программировании
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Трассировка знаний на основе результатов с отображением близости
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: моделирование языка, основанное на процессе, для когнитивной диагностики
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — компактное состояние учащегося плюс калиброванный трассировщик как среда рекомендателя
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: агентный тьютор, который учится своему учащемуся в петле совместного обучения человека и ИИ
-
-- [[ai-game-based-learning-systematic-review-2026]] — Скрытое оценивание достигало AUC от 0,848 до 0,913, но аудиты предвзятости почти отсутствовали в 55 исследованиях
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Вывод стиля обучения из диалога не проходит по сбалансированным метрикам (Zamanifard, Goudarzi & Robb 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -56,7 +58,6 @@ Bu sayfa politikayı [[governance]] alanından ayrı ele alır. Politika *kurall
 
 Bilgi tabanı, kurumsal YZ politikalarının [[genai-policies-higher-ed-computing|fiildeki YZ kullanımının gerisinde kaldığını]] belgelemektedir. [[educational-development]] programları, [[teacher-ai-competency]] çerçeveleri ve [[regulation]] düzenlemelerinin tümü, tutarlı politika temelleri gerektirmektedir. Yüksek ölçekli saha kanıtları [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei ve Wu 2026)]], ödevlerin dış kaynaklara devrinden kaynaklanan öğrenme kayıplarının büyük ölçüde fark edilmediğini göstermektedir; bunun nedeni, bireysel ders öğretmenlerinin ve öğrencilerin bu düşüşü YZ kullanımıyla nadiren ilişkilendirmesidir — bu açığı ise kanıta dayalı politika (örneğin kitapsız değerlendirmeye ağırlık verme, öğrencileri uzun vadeli maliyetler konusunda bilgilendirme, çıktılar yerine girdileri izleme) giderebilir.
 
-
 Üniversite GenAI politikalarının dört ülkedeki 36 örneği üzerinde yapılan bir yön-bazlı [[affective-computing|duygu analizi]], öğretimle ilgili ifadelerin olumlu, GenAI ve etik ifadelerinin ise olumsuz çerçevelendiğini ve ülke etkisinin anlamlı olmadığını bulmuştur: çerçeveleme ulusal sistemi değil, politika boyutunu izlemektedir ([[sun-governing-genai-policy-cross-national-2026|Sun ve ark. (2026)]]).
 
 Tutarsızlık, onu uygulayanlar için akademik bir mesele değildir: on beş yarı zamanlı akademisyen, öğrencilerin birimler arasında farklılaşan kurallara uyamadığını ve daha açık yönergeler olmadan yaygınlığın tahmin bile edilemediğini bildirmiştir ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora ve Andriamora, 2026]]).
@@ -66,7 +67,6 @@ Bu açığı kapatmak için bir fikir birliği oluştuğu yerlerde, [[crompton-g
 **Ulusal YZ hazırlığı, kurumsal politika gücünü öngörmez.** [[adarkwah-genai-unesco-policy-2026|Adarkwah ve ark. (2026)]], UNESCO'nun sekiz bileşenli GenAI çerçevesine göre yüksek AIPI'ye sahip on ülkeden 26 üniversiteyi değerlendirmiş ve İskandinav ile Yeni Zelanda kurumlarının bu çerçeveyi daha yüksek sıralamadaki akranlarından daha kapsamlı biçimde karşıladığını, kapsayıcılık, eşitlik ve sürdürülebilirliğin ise en ihmal edilen unsurlar olduğunu bulmuştur.
 
 **Danışma belgeleri, bağlayıcı politikaların sayısını aşmaktadır.** Bir meslek alanındaki bütün akredite programların sayımı, olgunluk açığının yalnızca zamanlama değil, biçim meselesi de olduğunu göstermektedir. [[institutional-ai-policy-health-informatics-2026|Eldredge ve ark. (2026)]], ABD'deki CAHIIM akreditasyonlu bütün 48 sağlık bilişimi ve sağlık bilgi yönetimi yüksek lisans programından YZ politika ve yönge belgeleri toplamış; 40 programın (%83) en az bir kamuya açık YZ belgesi bulunduğunu, 8 programın ise hiç belgesi olmadığını; ancak belgelerin çoğunun uygulamada zorlayıcı kurallardan ziyade yönge niteliğinde olduğunu — 21 yönge (%53)'ye karşılık 7 biçimsel politika (%18) — bulmuştur. İçerikleri akademik dürüstlük ve kabul edilebilir kullanım merkezliydi; gizlilik, fikri mülkiyet ve düzenleyici kavramların (HIPAA, FERPA, araştırma uyumu) görülme sıklığı çok daha düşüktü ve konu modelleme de aynı öğrenci davranışı vurgusunu ortaya koydu. Ne belge türü ne de hedef kitle, sunum biçimine göre farklılaşmadı (Fisher'in kesin testi P = .85 ve P = .71). Yazarlar bunu, akademik program politikasının müfredat tasarımı ve iş gücü yetkinlik gelişiminden farklı bir etkinlik olduğuna dair kanıt olarak okumakta; akreditasyon kurumlarının, akademik dürüstlüğü, veri etiğini ve eşit erişimi bütünleştiren YZ politika çerçeveleri sunarak ortaya çıkan bu çeşitliliği azaltabileceğini savunmaktadır.
-
 
 **Hukuki biçim, hukuki dilden daha nadirdir.** 160 belgelik bir kapsam taramasında araçların %2,5'i hukuki bağlayıcılık taşırken %57,5'i yönge veya araç setiydi ve hukuki denetimlere başvuran 131 belgenin yalnızca 3'ü kendisi hukuki bir araçtı ([[generative-ai-governance-education-scoping-review-2026|Elmahjub ve ark. (2026)]]).
 
@@ -101,7 +101,6 @@ Görev düzeyinde düzenlemenin öğrenci tarafı da aynı ölçüde politika bi
 
 **Nitelemelerinden daha ileri giden iddialar.** Bir pilot duyurusu da bir politika aracıdır ve onun raporlama standartları politikanın parçasıdır. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales ve ark. (2026)]], Eylül 2026'daki El Salvador olayını incelemektedir: 171 devlet okulunda yürütülen bir YZ destekli özel ders pilotunun Almanya ve İsveç ile karşılaştırılabilir sonuçlara ulaştığı şeklinde rapor edilmişti. Ulusal başarı dağılımının en üstteki %5,5'i hiçbir öğrenme kazancı olmadan Almanya'nın PISA 2022 [[math-education|matematik]] ortalamasına ulaşacaktı; pilotun değerlendirmesi okul başına 7,0 öğrenciyi kapsarken aynı yılki ulusal taramada bu sayı 25,4 idi; dolayısıyla yayımlanan kanıtlar, seçimin açıklama olarak elenmesini mümkün kılmamaktadır. Yazarların önerisi altı maddelik bir raporlama standardıdır — katılan okulların temel durumu, örnekleme protokolü (uygun öğrenciler, değerlendirilen öğrenciler, tanımlama kuralı, katılım oranı), standart hatalarla birlikte ayrıştırılmış puanlar, her reform bileşeninin yürürlüğe girdiği tarih, temsili ulusal örnekle çakışma ve iddia ile aynı belgede, aynı gönderide veya paragrafta belirtilen niteleme — ve bu öneri, duyurunun kendi açıklama aritmetiğiyle gerekçelendirilmiştir: iddiayı taşıyan Dünya Bankası gönderisi yaklaşık 441.000 görüntüleme kaydetmişken, aynı başlıkta dört gönderi sonra yer alan nitelemeyi taşıyan gönderi yaklaşık 11.000 görüntüleme almıştır. Politika dersi şudur: bir sistem, kendi hakkında kanıt olarak okul düzeyi sonuçları kullandığında, hangi ifadenin kamusal gerçek olacağına açıklamanın biçimi karar verir.
 
-
 Pilot uygulamanın kendisi de politika makinesine dönüşebilir. [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson ve ark. (2026)]], İngiltere'nin EdTech Impact Testbed programını (2025'te prototip geliştiren 16 şirkete başlangıçta 1 milyon sterlin, ardından pilotu 1.000 okul sahasına yaymak için 23 milyon sterlin) öngörücü yönetişim olarak okumaktadır: sınıflar, ölçeklendirme için vaatkâr ve tam zamanında kanıt üreten test alanlarına dönüşmektedir.
 
 PISA 2022-2025 üzerine yürütülen ülke düzeyinde bir analiz, üretken YZ kullanımı daha yüksek olan ülkelerde okuma ve matematiğin daha büyük düşüşler görüldüğünü bulmuştur; bu ilişki, önceki performans denetlendiğinde ortadan kalkmıştır ([[genai-pisa-decline-countries-2026|Guerra ve Aslanov, 2026]]). Yazarlar bunu, daha geniş [[conversational-ai|chatbot]] erişiminin tek başına bir fayda olarak görülmemesi gerektiğine dair bir uyarı olarak okumakta ve boylamsal değerlendirmeyle eşleştirilmiş yaygınlaştırma çağrısında bulunmaktadır.
@@ -129,7 +128,6 @@ Açık yalnızca üniversitelerde değil, K-12 düzeyinde de ölçülmüştür. 
 
 [[ai-education|YZ]] ile [[social-emotional-learning|sosyal-duygusal öğrenme]] kesişmesinde 65 makaleyi içeren bir [[meta-analysis-systematic-review|sistematik derleme]] ([[policy-deficit-ai-sel-2026|Tran, Liu ve Nguyen 2026]]), bir “politika açığını” belgelemektedir: çalışmaların neredeyse dörtte üçü hiçbir politika çıkarımı belirtmemekte ve belirtenler de çoğunlukla eylem odaklı özgüllikten yoksun kalmaktadır. Derleme, politika [[student-engagement|katılımı]]nın yayın yeriyle ilişkili olduğunu bulmakta; bu durum, teknik yeniliği [[governance]] ve [[regulation]] üzerinden ödüllendiren akademik teşvikleri yansıtmaktadır. Derleme, bir “WH-sorusu” çerçevesi (Who, What, Why, When/Where, How) ve “sonradan-eklenen-çıkarımdan” “çıkarım-yöntem-olarak”a doğru bir kayış önermekte — politika ifadesini, sonradan eklenen bir unsur yerine araştırmanın bir tasarım kısıtı olarak ele almaktadır.
 
-
 Aynı açığın bir talep tarafı vardır. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], İsveç'teki bir sosyal bilimler fakültesinden talep tarafı kanıtı eklemektedir: anket ve odak grubu katılımcılarının %31'i etiği kendiliğinden gündeme getirmiş, çoğu daha fazla kurumsal yönerge istemiş ve genAI'nin çevresel sonuçları politika belgelerinde tamamen yer almamıştır.
 
 Fon sağlayıcılar kendi politika katmanlarını oluşturur: YZ rehberliği olan 46 kurumdan 12’si kuralları özellikle finanse etmeye bağlamış ve bu finansman araçlarının hiçbiri genel politikalarında belirtilen yönetişim hükümlerini taşımamıştır ([[chan-ai-policy-gap-2026|Chan, 2026]]).
@@ -139,61 +137,3 @@ Fon sağlayıcılar kendi politika katmanlarını oluşturur: YZ rehberliği ola
 - **“Üniversitelerin gerçek bir YZ politikası vardır.”** **Hukuki biçim, hukuki dilden daha nadirdir.** **160 belgelik bir kapsam taramasında**, **araçların %2,5'i hukuki bağlayıcılık taşırken %57,5'i yönge veya araç setiydi**. Yaklaşık yüz belgelik bir YZ yönetişiminin neredeyse dörtte biri bağlayıcı olmayan yöngedir.
 - **“Kurumsal temkinlilik kanıtı yansıtır.”** Temkinlilik **kanıttan ziyade zaman baskısına** bağlanmaktadır: ABA'nın 2024 anketine akredite okulların yalnızca yaklaşık **%15'i** yanıt vermiştir, dolayısıyla temkinli uzlaşma temsili olmayan bir örnekleme dayanmaktadır.
 - **“Politika kapsamı temsili bir anketle haritalanabilir.”** YZ politikası ve yöngeleri tek bir alandaki **48 CAHIIM akreditasyonlu programın tamamından** toplanmıştır; bu, bir nişin tam sayımıdır ve o niş hakkında genel politika hakkında olduğundan daha bilgilendiricidir.
-
-## Bağlı kavramlar
-- [[pedagogical-partnerships]] — Pedagojik ortaklıklar
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deney felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim asistanları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özelleşmiş araçlar
-- [[stakeholders]] — Şemsiye: YZ eğitimindeki kişiler ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[student-support-and-success]] — kurumsal destek sunumunun politika bağlamı
-
-## Bağlı makaleler
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO ve OECD metinleri ortak bir yönetişim sözlüğünü paylaşır ancak işlevsel tanım içermez; yirmi üç yargı bölgesi tek bir tanım olmadan yakınsamaktadır
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Kurumsal genAI kararlarına kopya çekme çerçevesi yerine ortaklık etiğinin yön vermesi gerektiğini savunan İsveç anket ve odak grubu çalışması
-- [[generative-ai-governance-education-scoping-review-2026]] — Eğitimde üretken YZ yönetişimi: ilkeler, mekanizmalar ve riskler üzerine kapsam taraması (Elmahjub ve ark. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Öğrencilerin uzlaştıramadığı birim düzeyindeki kurallar
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Öngörücü yönetişim olarak İngiltere'nin EdTech Impact Testbed programı: vaatkâr kanıt üreten pilotlar (Williamson ve ark.)
-- [[tench-ai-policy-isnt-a-playbook-2026]] — YZ politika kapsamı, özerklik ve beş sınıf uygulamasına ilişkin ABD'li öğretmen ve müdürlerin ulusal temsili anketi (Tench, Weinstein ve James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Üniversiteler GAI'yı savunduğunda ancak uygulama geri kaldığında: sanat eğitiminde öğrenci değerlendirmeleri ve yaratıcı sürece katılım
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — İngilizce öğretmenliği alan öğretmen adaylarının sınıf YZ politikaları: neleri izinli, sınırlı ve yasaklı saydıkları (Nash ve Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[mccorkle-aligned-genai-course-policy-2025]] — Değerlendirilenden görev görev izinli ve izinsiz GenAI kullanımlarının türetilmesi (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — Öğretim görevlilerinin 31.000 ders programında YZ'yi nasıl düzenlediği (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Not enflasyonunun bir mekanizması olarak YZ kaynaklı görev yer değiştirme (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Yükseköğretimde üretken YZ yönetişimi üzerine küresel Delphi çalışması
-- [[qian-governing-genai-higher-ed-policy-2026]] — Politikanın önünde yönge: 50 yenilikçi ABD üniversitesinde öğretim görevlisi tarafından belirlenen ders programı kuralları ve dört birimlik destek ekosistemi (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Kanıt temeli olmadan politika üreten bir sektörde hukuk fakültesi GenAI politikalarının beş faktörlü karşılaştırması (Gutowski ve Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Yazıyı metne dönüştürmek üretim değildir: aşırı kapsamlı YZ kuralları, biçim dönüştürme ve engelli uyarlaması (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Yükseköğretimde YZ için öngörücü yönetişim (kapsam taraması)
-- [[institutional-ai-policy-health-informatics-2026]] — Akredite 48 sağlık bilişimi yüksek lisans programının tamamındaki YZ politika belgeleri: çoğunlukla yönge, akademik dürüstlük merkezli (Eldredge ve ark. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — YZ aracılı değerlendirmeye ilişkin bilişsel vesayet (30 üniversiteli politika denetimi)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — YZ × SEL Araştırmalarındaki Politika Açığı
-- [[agarwal-ethical-values-norms-aied-2026]] — Eğitimde YZ için etik değerler ve normlar
-- [[perrotta-zero-shot-governance-2026]] — Sıfır-atış yönetişimi: politika alanında genel amaçlı YZ (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — El Salvador'ın YZ destekli özel ders pilotunun öğrenme iddiasının sınırlandırılması (Restrepo Morales ve ark. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 ABD'li akademisyen: kurum ve bölüm düzeyinde zayıf yönergelere karşın %87'si kendi ödev kurallarını yazıyor (Watson ve Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — Kalibre edilmiş açıklama ve karar rubrikleriyle amaç temelli bir destek–yerine geçme sınırı (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ aracılı puanlamada istek metni enjeksiyonu: fark edilmeden değiştirilen notlar ve politika düzeyinde yanıt (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Değerlendirmenin doğrulanması için 130 yönetişim göstergesi ve reformun ihtiyaç duyduğu dış baskı (Coates, Croucher ve Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — Politika kademesi karşısında görev tasarımı: üç fizik değerlendirmesinde öğrencilerin GenAI'yi ne için kullandığı (Quince ve Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — Yüksek ülke düzeyli üretken YZ kullanımı, PISA 2022-2025'teki daha büyük düşüşleri izledi; ilişki, önceki performans denetlendiğinde ortadan kalktı (Guerra ve Aslanov 2026)
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Tedarik, pedagojiden önce veri ortamını belirler
-- [[chan-ai-policy-gap-2026]] — 46 fon sağlayıcıdan 56 belge: 12 finansmana özgü araç içeren bir araştırma fonu politika katmanı (Chan 2026)

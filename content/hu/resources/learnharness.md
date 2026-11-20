@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -45,10 +46,3 @@ Ami felhalmozódik, az az állítások és érvelési láncok [[knowledge-graph|
 ## Megjegyzések és fenntartások
 
 Az ingyenesség a szoftverre vonatkozik, nem a következtetésre: a tanulók hozzák a szolgáltatói kulcsokat, egy előfizetést, egy helyi Claude Code CLI-t vagy bármely OpenAI-kompatibilis végpontot, és felár nélkül fizetnek a szolgáltatónak; egy élő mérő csak az ismert API-költségeket becsüli. A rekordok, csevegések és kulcsok sima fájlként a gépen maradnak, de a projekt figyelmeztet, hogy a helyi tárolás nem jelent offline feldolgozást, mivel a modellkérések, az opcionális diktálás és a webes kutatás egyaránt külső szolgáltatásokat ér el. A Windows x64-es telepítője aláíratlan, így a Windows figyelmeztetni fog. Hatékonysági vizsgálatot nem jelentettek be, így az eset a megadott indokláson nyugszik, nem mért eredményeken; a repónak körülbelül 4 800 csillaga volt a 2026. november 2-i ellenőrzéskor.
-
-## Kapcsolódó fogalmak
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

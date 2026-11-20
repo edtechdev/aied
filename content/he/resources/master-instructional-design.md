@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -44,7 +45,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## מונחים ואזהרות
 
 הרישיון הוא Creative Commons BY-NC-ND 4.0, והתנאים שהמחבר הציג חשובים לרוב הקוראים המוסדיים: לימוד אישי, לא-מסחרי, והתפתחות מקצועית – מתקבלים בברכה, בעוד שימוש מסחרי, הפצה מחדש ושיווק מחתמת (white-labeling) דורשים רישיון מסחרי. המאגר מדווח על 314 מתוך 320 נקודות בעשרה אתגרים שעיצב בעצמו, וזוהי הערכה של המחבר עצמו ולא הערכה עצמאית; אותו מחבר מוכר גם ייעוץ וסדנאות על המסגרת. הפרויקט מתואר כיוזמה אישית שאינה קשורה למעסיקיו, וה-commit האחרון שלו הוא מאפריל 2026.
-
-## מושגים מקושרים
-
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

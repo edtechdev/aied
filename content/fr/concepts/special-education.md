@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -71,33 +73,3 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - **« Les [[usability-research|notes d'utilisabilité]] valident un outil d'aide. »** Les praticiens ont accordé le feu vert d'utilisabilité (SUS 86,8) à un outil Social Story qu'ils avaient co-conçu, tout en reprochant à son imagerie occidentale toute faite et à son suivi comportemental de manquer le jugement clinique rattaché aux objectifs. Une utilisabilité élevée coexistait avec des défaillances substantielles : un score SUS n'est pas une validation de l'adéquation.
 - **« Les référentiels génériques disent comment un tuteur traite les cas d'éducation spécialisée. »** Sur **923 dialogues ancrés dans des cas** issus de la littérature en éducation spécialisée et en psychologie de l'éducation, **le meilleur de 11 modèles** satisfaisait un critère documenté — et **c'est là que s'arrête ce que couvre un référentiel de tuteur**. Les évaluations standard n'atteignent pas les cas pour lesquels les praticiens ont le plus besoin d'aide.
 - **« Les apprenants neurodivergents ont besoin d'aménagements, pas d'exigences de conception. »** [[neurodivergent-computing-students|Zastudil et al.]] ont constaté que les étudiants en informatique neurodivergents ont besoin de **devoirs structurés, d'équipes restreintes et stables et de définitions explicites des rôles** — des exigences générales de conception qui bénéficient à tous, et non des ajustements individuels accordés après diagnostic.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Articles liés
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench : évaluer les tuteurs LLM auprès d'élèves aux comportements difficiles (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour les apprenants sourds et malentendants
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — L'IA générative, la réalité virtuelle et au-delà : une revue de cadrage des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
-- [[adapted-stories-social-story-intervention-2026]] — Intervention assistée par l'IA sur les histoires sociales en éducation spécialisée : la conception d'AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modèle vision-langage planifie des Shoebox Tasks pour un robot Nao (Kudláčková 2026)

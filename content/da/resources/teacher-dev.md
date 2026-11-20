@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -47,6 +48,3 @@ K-12-lærere, der vil have et værktøj til et bestemt problem uden et abonnemen
 ## Noter og forbehold
 
 Tempoet er både pitchet og risikoen. Dagsbyggerier sigter mod et virkeligt klasseproblem, ikke et forskningsspørgsmål, så intet her bærer en evaluering, og en påstand om, hvad en app gør, bør testes i klasseværelset. Toogtredive offentlige repositorier ligger i GitHub-organisationen, mens galleriet lister 34, alle Apache-2.0 med tilgængelig kilde, så en app kan læses og selvhostes. Lokal-først-design er en påstand, der skal verificeres pr. app, og en lærer bør bekræfte det, før en elevvendt app sættes foran en klasse.
-
-## Relaterede begreper
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

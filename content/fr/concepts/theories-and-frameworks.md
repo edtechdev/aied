@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -130,31 +132,3 @@ L'alignement du mécanisme sur la théorie peut néanmoins être décisif : une 
 **« Les théories de l'apprentissage, les modèles de l'apprenant et les cadres d'adoption sont des lunettes interchangeables. »** Ils répondent à des questions différentes — comment l'apprentissage se produit, quel est l'état de l'apprenant, et pourquoi une pratique se diffuse — et leurs types de preuves diffèrent en conséquence. Choisir la mauvaise couche produit une étude qui mesure la bonne variable contre la mauvaise prédiction, ce qui se lit comme un résultat nul alors qu'il s'agit d'une erreur de catégorie.
 
 **« Plus de cadres signifie un domaine plus mûr. »** Les cadres forgés pour l'ère de l'IA s'accumulent plus vite qu'ils ne sont testés, et l'accumulation sans falsification est un symptôme plutôt qu'un progrès. La maturité se manifeste par la résolution de prédictions concurrentes, non par la croissance du vocabulaire.
-
-## Concepts liés
-
-- [[theory-development-aied]] — construire et réviser la théorie dans le champ
-- [[philosophy-of-ai-in-education]] — la couche normative et conceptuelle
-- [[learning-theories]] — le parapluie de la théorie de l'apprentissage
-- [[learning-sciences]] — le champ voisin d'où provient l'essentiel de la théorie empruntée
-- [[limitations-in-aied-research]] — ce que la base de données probantes peut et ne peut pas soutenir
-- [[tpack]] — le cadre des savoirs de l'enseignant
-- [[technology-acceptance-model]] — les cadres d'adoption
-- [[item-response-theory]] — un modèle de mesure
-- [[universal-design-for-learning]] — un cadre de conception
-- [[research-methods-aied]] — comment la théorie est testée
-
-## Articles liés
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Les affordances émotionnelles proposées comme quatrième catégorie d'une taxonomie d'affordances
-- [[ai-game-based-learning-systematic-review-2026]] — L'alignement du mécanisme sur la théorie, et non la sophistication algorithmique, a déterminé l'efficacité dans 55 études sur l'apprentissage par le jeu soutenu par l'IA
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Quatre décennies d'AIED à travers le cadre AI×Ed
-- [[educating-minds-generative-ai-2026]] — Synthèse fortement théorique de l'IA générative et de l'apprentissage
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — La théorie de l'activité appliquée au développement professionnel des enseignants
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — La théorie de l'activité et l'adoption par les enseignants
-- [[generativism-learning-theory]] — Une théorie de l'apprentissage proposée pour l'ère de l'IA générative
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Vers une théorie de la co-agency épistémique
-- [[absent-cognitive-baseline-2026]] — Théoriser un écart structurel dans l'auto-évaluation des étudiants natifs de l'IA
-- [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée intermédiaire pour l'interaction humain-IA
-- [[ai-literacy-instrument-development-systematic-review-2026]] — Le développement d'instruments pour un construit jeune
-- [[mishra-control-vs-agency-history-2025]] — La tension fondatrice du champ entre contrôle et agentivité

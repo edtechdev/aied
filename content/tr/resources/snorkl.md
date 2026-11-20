@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,7 +46,3 @@ Bir cevabın ardındaki akıl yürütmeyi duymak isteyen K-12 öğretmenleri ve 
 ## Notlar ve uyarılar
 
 Buradaki her yetenek iddiası — bir ilçenin veri işlem anlaşmasına karşı kontrol etmesi gereken “dünya çapında 10.000’den fazla okulda güvenilir” (“trusted in 10,000+ schools worldwide”) iddiası dahil — satıcının kendi pazarlamasıdır. Satıcı, işleri OpenAI’ye göndermeden önce kişisel tanımlayıcıları ayıkladığını (bunları saklamama veya üzerinde eğitim yapmama anlaşması kapsamında), öğrencilere reklam göstermediğini, veri hiçbir zaman satmadığını ve iKeepSafe ile Common Sense Privacy sertifikalarına sahip olduğunu belirtir. Snorkl ayrıca not vermediğini açıkça ifade eder: açıklamaları öğretmenin belirlediği ölçütlere karşı biçimlendirici geri bildirim olarak puanlar ve notlama öğretmende kalır. Bu YZ yargılarını olağan geçerlilik ve önyargı sorularına tabi biçimlendirici sinyaller olarak ve çevresel taahhüdü ölçülmüş bir dengelemeye değil, beyan edilmiş bir niyet olarak görün.
-
-## Bağlı kavramlar
-
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

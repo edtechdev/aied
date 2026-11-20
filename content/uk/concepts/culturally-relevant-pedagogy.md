@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -100,33 +102,3 @@ ai_assist:
 
 - Подавайте культурний контент за рівнями, а не як наявність чи відсутність, бо присутність 94% проти 6% нічого не каже про те, що це за 6%.
 - Явно розрізняйте результати щодо сприйняття викладачів і результати щодо студентів, коли подаєте пілоти.
-
-## Пов’язані поняття
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Зонтичне поняття: педагогіки та стратегії навчання в освіті зі ШІ
-
-## Пов’язані статті
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Планувальник уроків, що інтерв’ює викладачів про культурний контекст перед створенням чернетки (Zhai et al. 2026)
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
-- [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

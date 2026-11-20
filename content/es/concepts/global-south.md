@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -68,36 +70,3 @@ El acceso puede saturarse antes que la capacidad: entre 633 estudiantes de ocho 
 - **«Los contextos de pocos recursos carecen de un marco de ética de la IA y necesitan uno importado.»** El profesorado de secundaria en servicio de STEAM en un contexto de pocos recursos **razona sobre la ética de la IA a partir de la identidad profesional, las realidades del aula y las normas culturales, y no de principios formales**. El razonamiento existe y está situado; una lista de principios universales se traslada mal a él.
 - **«El tipo de gobernanza predice la integración de la IA en las universidades.»** Un análisis de contenido comparativo de **45 universidades nigerianas** (federales, estatales y privadas) encontró que la integración de la IA se predecía por la **antigüedad de la institución y su ubicación geográfica, no por el tipo de gobernanza**. El supuesto de que las instituciones públicas y las privadas divergen queda contradicho.
 - **«La brecha digital es la barrera principal.»** Un estudio de caso [[qualitative-research|cualitativo]] con **21 estudiantes universitarios con discapacidad visual de tres universidades palestinas** encontró que la IA generativa salva simultáneamente barreras **digitales, geográficas y socioeconómicas**. Las barreras son estratificadas, y tratar el acceso como el único obstáculo deja intactos los demás.
-
-## Conceptos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Artículos conectados
-- [[genai-assessment-african-higher-education-review-2026]] — Repensar la evaluación en la era de la IA generativa: una revisión sistemática de la literatura sobre la educación superior africana
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estructuras institucionales, desigualdad digital e integración de la IA en la educación superior nigeriana
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Modelo sociocognitivo unificado para la educación en ingeniería (Bangladés)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: planificación de clases en Vietnam
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de datos sobre sistemas de conocimiento indios
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: prueba de referencia STEM de Ghana
-- [[genai-minoritized-knowledges-disability]] — Marginación de los conocimientos minorizados
-- [[llm-cultural-relevance-k12]] — LLM para una pedagogía K-12 culturalmente relevante
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Integración de la IA generativa en la educación superior de Bangladés a través del constructivismo (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para quienes aprenden con discapacidad visual
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot con IA culturalmente consciente para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios pakistaníes mediante PLN y aprendizaje automático
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Acotar la afirmación de aprendizaje del piloto de tutoría con IA de El Salvador (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Desarrolladores académicos como mediadores digitales en las instituciones sudafricanas históricamente desfavorecidas: desigualdad digital frente a colonialidad algorítmica
-- [[ai-ethical-awareness-ghana-students-2026]] — Conciencia ética sobre la inteligencia artificial del estudiantado universitario ghanés
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Principios éticos de la IA en educación: el razonamiento ético contextual del profesorado
-- [[gouroubera-genai-benin-2026]] — 633 estudiantes de Benín: uso semanal del 92,3%, la carga de trabajo como motor dominante, así que el acceso ya no es la restricción vinculante (Gouroubera et al. 2026)

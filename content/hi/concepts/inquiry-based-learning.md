@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -75,41 +77,3 @@ IBL की प्रश्न-संचालित, प्रक्रिया
 **"जिज्ञासा परिभाषा से असंरचित होती है।"** प्रशिक्षक स्कैफ़ोल्ड करता है, और संरचना सामग्री की प्रस्तुति में नहीं, प्रश्न-डिज़ाइन और चिंतन-चक्र में होती है। स्कैफ़ोल्ड हटाना जिज्ञासा को अधिक प्रामाणिक नहीं बनाता; वह उसे अस्कैफ़ोल्डेड बना देता है।
 
 **"यदि छात्र रुचि रखते हैं तो छात्र-नेतृत्व वाले प्रश्न सुगठित होंगे।"** सुसंगत प्रश्न उत्पन्न करना ही वह कौशल है जिसे विकसित किया जा रहा है, इसीलिए जो प्रणाली अच्छे प्रश्न दे देती है उसने वह जिज्ञासा-कौशल कर दिखाया है जिसके लिए यह गतिविधि है।
-
-## संबंधित अवधारणाएँ
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — उत्पादक विफलता
-
-## संबंधित लेख
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM में जिज्ञासु-आधारित शिक्षा के लिए ChatGPT (व्यवस्थित समीक्षा)
-- [[dai-chatbots-problem-posing-primary-2026]] — प्राथमिक विज्ञान में GenAI चैटबॉट और समस्या प्रस्तुत करना
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM-संचालित वातावरण में IBL पैटर्न (ब्लूम का परिप्रेक्ष्य)
-- [[mujib-ai-ibl-creative-math-2026]] — AI-समर्थित IBL और रचनात्मक गणितीय प्रदर्शन
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI और उच्चतर-क्रम सोच का मेटा-विश्लेषण
-- [[niri-steam-ai-literacy-review-2026]] — AI साक्षरता के लिए STEAM शिक्षा
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-विफलता-आधारित सीखने के समर्थन के लिए AI प्रणालियाँ डिज़ाइन करना
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक विफलता के लिए LLM की शैक्षणिक निर्देशन
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: स्वायत्त भाषा सीखने के लिए ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — प्रकाश-संश्लेषण और श्वसन में AI-समर्थित निर्देशित जाँच (विज्ञान शिक्षक शिक्षा)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — स्नातक थीसिस और अनुसंधान-आधारित सीखने का समर्थन करने वाला AI-संचालित सूचना निष्कर्षण (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — जलवायु परिवर्तन पर सामाजिक-वैज्ञानिक मुद्दों में AI-सहायित जाँच
-- [[geoscience-field-learning-genai-2026]] — एक मैदान-प्रथम शिक्षण मॉडल जो GenAI को यह पूर्व-संरचित करने से रोकता है कि सीखने वाले क्या ध्यान दें (Choi 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — मानव सुविधाकर्ता बनाम AI-मध्यस्थ समस्या-आधारित अधिगम: समान सामग्री-लाभ, सुविधाकर्ता के बिना कमज़ोर आलोचनात्मक चिंतन (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — पाँच जिज्ञासा-चरणों में जनरेटिव AI का 66-अध्ययन नक़्शा, जिसमें केवल 8 अध्ययनों ने जिज्ञासा-कौशल मापे
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -86,38 +88,3 @@ De identiteit van de lerende hangt samen met [[agency]] (identiteit wordt uitgeo
 **"AI-ondersteuning verlaagt drempels en verbreedt daarmee de deelname."** Ze kan de drempel naar het produceren van werk verlagen terwijl ze de drempel naar het claimen van auteurschap vernauwt. Een student die een vloeiend artefact inlevert dat hij niet heeft geschreven, heeft toegang tot de uitkomst gekregen en de erkenning onthouden die de identiteit erachter opbouwt.
 
 **"De identiteit van een lerende erkennen is een kwestie van representatie in de inhoud."** Representatie doet ertoe, en erkenning wordt in de praktijk uitgeoefend: wiens vragen worden opgepakt, wiens bijdrage wordt gecrediteerd, en wie wordt als capabel behandeld. Een [[curriculum-design|curriculum]] kan representatief zijn en toch de erkenning onthouden die identiteitsvorming vereist.
-
-## Verbonden concepten
-
-- [[learners]] — Lerenden: het overkoepelende concept voor de concepten aan de kant van de lerende
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Verbonden artikelen
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 bachelorstudenten over wat ze zelf blijven doen, en waarom doel het zelden beslist
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — De competentieparadox: creatieve identiteit in tekst-naar-beeld-GenAI-gebruik
-- [[shame-guilt-ai-regulation-computing-education]] — Schaamte en schuld als sociale regulatoren van AI-gebruik
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptieve capaciteiten voor een levensvatbare professionele identiteit in een GenAI-toekomst
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogische symbiose en de posthumane lerende
-- [[ai-pedagogical-accompaniment-amico]] — AI-ondersteunde pedagogische begeleiding voor STEM-identiteit
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Ontwerpen voor authentieke beoordeling
-- [[paternalistic-filter-llm-history-education]] — Paternalistisch AI-gebruik en studentidentiteit in het geschiedenisonderwijs
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als identiteitscrisis voor docenten (docentidentiteit)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-gebaseerde docenttraining en professionele identiteit
-- [[genai-professionalization-metaphors-2026]] — GenAI-conceptualiseringen en professionele identiteit van studenten
-
-- [[synthetic-position-self-authorship-2026]] — Opschorting van auteurschap: gedelegeerd auteurschap als een zelf met veel stem maar zonder auteur (conceptuele analyse)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

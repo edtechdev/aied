@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,8 +43,3 @@ Oktatóknak, akik szeretnék, hogy egy ügynök intézze a kurzus körüli rutin
 ## Megjegyzések és fenntartások
 
 A beállítás helyi: Python 3.11 vagy újabb, Canvas API-token és URL, valamint MCP-kliens, a Claude Desktophoz dupla kattintással telepíthető bővítménnyel. A nyilvános hosztolt kiszolgálót megszüntették, így a megosztott telepítés azt jelenti, hogy az intézmény saját hitelesítése mögött kell hosztolni. Az íróeszközök kapuzottak – a HTTP-kiszolgálók csak olvashatók, hacsak az íróeszközöket kifejezetten nem engedélyezik, a törléshez megerősítő token kell, és a kódfuttatás olyan homokozóban fut, amely hiba esetén zár. Az adatvédelmi vezérlők opcionálisak: a válaszok anonimizálását, az e-mail-maszkolást és a PII-szűrést engedélyezni kell, a README pedig gondosan jelzi, hogy ezek támogathatják a FERPA-kötelezettségeket, de nem állapítanak meg megfelelést, ami a telepítéstől és az MI-szolgáltatótól függ. A kiszolgálóban nincs telemetria, de a Canvas és a választott kliens saját naplókat vezet. A projekt MIT licencű, aktívan fejlesztik, és a jelenlegi eszköznevekről és konfigurációról a saját útmutatói az irányadók.
-
-## Kapcsolódó fogalmak
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

@@ -16,6 +16,8 @@ ai_assist:
     role: drafting
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 > **Synthesis**: Case-based learning teaches through particular cases: a patient presentation, a legal dispute, a business decision, a classroom episode, or a pair of contrasting examples. The case supplies the context, the facts, and the ambiguity; the instructor designs the questions and the discussion that turn it into learning. The approach is a signature [[pedagogy|pedagogy]] in legal and [[business-education|business education]], where the case method and [[socratic-method|Socratic questioning]] have long organized the classroom, and in [[medical-education|health professions education]], where clinical cases and simulated patients provide controlled practice. Its learning mechanism overlaps with [[problem-based-learning|problem-based learning]] and [[productive-failure|productive failure]], but it is not the same thing: cases are typically bounded narratives with a designed problem space, while problem-based learning starts from an ill-structured problem that students investigate. The new AI evidence is promising but narrow. A five-case perioperative feasibility study found that a grounded [[llm|LLM]] answered 99.3% (543/547) of trainee questions appropriately and produced no fabricated content. A nursing feasibility study found that [[generative-ai|ChatGPT]] cut case creation time from 106 to 71 minutes without a measurable change in discussion quality. A [[meta-analysis-systematic-review|meta-analysis]] of six randomized trials found that AI-powered problem- and case-based learning improved knowledge and satisfaction, but only two trials tested case-based learning and the review never analyzed the formats separately. The literature still lacks a study that isolates case quality, discussion facilitation, and learning outcomes in the same design.
@@ -87,35 +89,3 @@ There is also a conceptual risk. A case can be memorable because it is vivid, no
 - **"A realistic case teaches by itself."** Realism supplies context. The questions, comparisons, and justification tasks supply the learning.
 - **"AI-generated cases are ready to use."** Generated cases can be fluent, plausible, and wrong. They need expert review and a check on the reasoning they invite.
 - **"If students enjoy the discussion, the case worked."** Engagement is not transfer. The outcome has to be measured on a task that students could not complete before.
-
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — A grounded LLM held five perioperative cases without fabricating content
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT cut nursing case creation time without a measured quality difference
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Six RCTs of AI-powered PBL/CBL; only two tested CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — Teacher modeling with contrasting cases in a GenAI course
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Case-based learning beside virtual and simulated patients
-- [[genai-medical-education-transformation-review-2026]] — Case-based learning and clinical reasoning among the review's application categories
-- [[hardie-genai-nursing-scoping-review-2026]] — Case-based learning inside the simulation theme of a nursing review
-- [[lorteau-sarro-ai-legal-education-2025]] — AI complements Socratic teaching and legal simulations
-- [[csaszar-ai-management-education-2026]] — Management education's case studies and simulations, without a case-method analysis
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -44,7 +45,3 @@ Het richt zich op K–12-docenten en de onderwijsontwikkelaars die hen trainen, 
 ## Opmerkingen en kanttekeningen
 
 De inhoud is gelicentieerd onder CC BY-NC 4.0 en de onderliggende code onder MIT: klasgebruik, lokaal hosten en aanpassen zijn toegestaan met naamsvermelding, terwijl het verkopen van de materialen of het bundelen ervan in betaalde training schriftelijke toestemming van TCEA vereist. Werk van anderen valt buiten de licentie, en literatuuractiviteiten reproduceren geen tekst uit auteursrechtelijk beschermde werken. Het project stelt dat inhoud en vertalingen zijn gemaakt met generatieve AI onder redactionele beoordeling, en dat vertalingen machinaal ondersteund zijn en gemarkeerd voor lokale beoordeling door onderwijsprofessionals voordat ze in de klas worden gebruikt — iets om serieus te nemen voordat een district ze op schaal overneemt. Elke activiteit draait in de browser van de leerling zonder inloggegevens en zonder dataverzameling.
-
-## Gerelateerde concepten
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

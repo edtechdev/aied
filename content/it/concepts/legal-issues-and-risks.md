@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -98,43 +100,3 @@ Per i programmi professionali l'esposizione non finisce con la laurea. Gutowski 
 **"Il rilevamento fornisce l'evidenza che serve a una procedura."** Il rilevamento fornisce un punteggio. La questione probatoria è se un'accusa possa essere provata in assoluto, e la [[ai-detection|letteratura sul rilevamento]] mostra che gli strumenti non producono né l'affidabilità né la categoria interpretabile che richiede un processo disciplinare. Costruire la procedura su un rilevatore significa costruirla sull'anello più debole.
 
 **"I rischi sono ipotetici e le politiche si allineeranno."** I rischi si stanno distribuendo in modo diseguale adesso, e gli studenti che li assorbono sono quelli meno in grado di contestare una procedura. L'asimmetria tra la capacità di un'istituzione di indagare e la capacità di uno studente di rispondere è un danno presente, non futuro.
-
-## Concetti collegati
-
-- [[academic-integrity]] — il quadro di condotta la cui applicazione porta il rischio
-- [[ai-detection]] — lo strumento al centro dei casi di accusa ingiusta
-- [[remote-proctoring]] — la sorveglianza nella valutazione e le sue questioni di protezione dei dati
-- [[assessment-validity]] — se l'evidenza possa stabilire l'affermazione che se ne trae
-- [[privacy]] — raccolta, conservazione ed elaborazione ulteriore dei dati degli studenti
-- [[regulation]] — obblighi di legge e regolamentari che le istituzioni devono rispettare
-- [[governance]] — progettazione interna delle policy e coerenza nell'applicazione
-- [[educational-policy-ai]] — la policy istituzionale sull'IA come fonte di esposizione non voluta
-- [[ai-use-disclosure]] — le attese di dichiarazione e i loro margini inapplicabili
-- [[accessibility]] — l'aggiustamento ragionevole quando una regola toglie uno strumento assistivo
-- [[assistive-technology]] — gli strumenti al centro del problema dell'eccessiva inclusività
-- [[neurodiversity]] — gli studenti più esposti ai divieti eccessivamente ampi
-- [[equity-in-ai-education]] — l'onere differenziale del rilevamento e della sorveglianza
-- [[student-experience]] — il costo umano che precede quello giuridico
-- [[hallucination-risk]] — l'autorità fabbricata come responsabilità professionale e istituzionale
-- [[reducing-ai-misuse]] — l'alternativa preventiva all'accusa
-
-## Articoli collegati
-
-- [[munoz-misconduct-allegation-evidence-2026]] — What evidence misconduct allegation files actually contain, and the natural justice requirement
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy, hybrid text failure, and EFL misclassification risk
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Reliability of detection tools across a second corpus
-- [[bassett-ai-detectors-education-2026]] — Why no detection threshold can be right: the error-tradeoff argument
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Misconduct procedures reassessed when evidence has become undetectable
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules, disability accommodation and reasonable adjustment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring mapped, with privacy and surveillance concerns
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring research
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and proctoring in the AI era
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Policy clarity as a precondition for defensible enforcement
-- [[qian-governing-genai-higher-ed-policy-2026]] — Policy and support ecosystems across innovative US universities
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Expert consensus on fragmented governance
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity through visible judgment rather than surveillance
-- [[shin-ai-policies-sld-2026]] — The policy void for students with specific learning disabilities
-- [[li-genai-assessment-language-equity-2026]] — Language equity as a rule-design problem: the support–substitution boundary, indirect discrimination and reviewability (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Students attacking AI graders by indirect prompt injection, with grades changed undetected (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Governance indicators and reform program for authenticating assessment (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty: individual policies far outrun institutional ones, structural response thin (Watson & Rainie 2026)

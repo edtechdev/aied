@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -43,9 +44,3 @@ GradeBench는 [[automated-assessment|자동 평가]]에 대해 좁지만 유용�
 ## 참고사항과 유의점
 
 GradeBench는 상업용 AI 채점 플랫폼인 Pensive가 공개하므로, 벤치마크와 제품이 같은 소유자를 공유합니다. 과제 구성은 문서화되어 있고 방어 가능하지만, 프레이밍은 업체의 것으로 취급하십시오. 최소 네 개 항목의 루브릭을 갖춘 STEM 시험을 다루므로, 에세이, 단답형, 토론 게시물은 제외됩니다 — [[humanities-education|인문학]] 채점의 대부분이 이루어지는 형식들입니다. 정확한 루브릭 일치는 엄격한 지표입니다. 두 채점자가 한 항목에서 불일치하면서도 둘 다 학생에 대해 옳을 수 있습니다. 점수는 2026년 11월 이용 가능한 모델 버전을 서술하며 앞으로 움직일 것입니다.
-
-## 연결된 개념
-
-- [[automated-assessment]] — 벤치마크가 측정하는 실천
-- [[assessment-validity]] — 리더보드 점수가 대용하는 기준
-- [[benchmark]] — 이 도구가 속한 더 넓은 도구 계열

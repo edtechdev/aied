@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -91,36 +93,3 @@ AI 장난감 문헌은 발달 심리학이 가장 많은 일을 하면서도 증
 - **"두 연령 집단이 다르면 발달이 그것을 설명한다."** 횡단적 연령 차이는 코호트, 교육과정, 기기 접근성, 맥락을 뒤섞습니다. 같은 학습자를 추적하는 설계만이 변화와 차이를 분리할 수 있습니다.
 - **"수행을 지원하는 도구가 역량을 발달시키고 있다."** 보상, 비계, 발달은 서로 다른 기능입니다. 도구가 제거된 뒤에도 지속될 것으로 기대되는 것은 마지막 것뿐입니다.
 - **"AI 장난감은 중립적인 놀이 재료다."** 주체성 재분배 논지는 그렇지 않다고 말합니다. 장난감의 응답성이 누가 상상하고 있는지를 빚어냅니다.
-
-## 연결된 개념
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## 연결된 문서
-
-- [[guo-ai-literacy-developmental-paces-2026]] — K–12 AI 리터러시 연구 118편: 같은 학습자를 수준 간 추적한 연구 없는 네 단계 진전 (Guo, Ali & Wong, 2026)
-- [[ai-toys-child-development-2026]] — AI 탑재 장난감이 놀이 속 주체성을 재분배 (Xu, Girouard & Shi)
-- [[clara-developmental-appropriateness-children-stories-2026]] — 122개 라벨 분류 체계로부터의 발달 적합성 채점
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 생성형 AI와 아동 창의적 사고에 관한 범위 검토
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 보상, 비계, 발달이라는 세 가지 도구 기능
-- [[genai-reliance-executive-functioning-2026]] — 노력보다 선호로서의 청소년 GenAI 의존
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 스캐너 안에서 ChatGPT와 대화하는 아동과 성인
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — 청소년이 챗봇에 무엇을 노출하는가, 사용량이 아니라
-- [[ai-connectedness-adolescent-mental-health-2026]] — 윤리적으로 비대칭인 유대로서의 AI 연결감 (이론)
-- [[ai-play-framework-early-childhood-2026]] — 취학 전과 유치원을 위한 놀이 기반 언플러그드 AI 리터러시
-- [[age-tiered-ai-literacy-guidebooks-2026]] — AI 리터러시 안내서의 두 연령별 판
-- [[preservice-early-childhood-genai-magnetism-2026]] — GenAI로 설계하는 예비 유아 교육자
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 실행 기능 훈련용 챗봇, 열 편의 연구
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 대학생의 의존, 스트레스, 실행 기능 장애

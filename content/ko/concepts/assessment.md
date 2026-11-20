@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -103,57 +105,3 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **"정직성은 주로 탐지의 문제입니다."** **26명의 학생을 대상으로 한 스크롤백 면담**은 학생들이 생성형 AI를 활용한 평가를 **스펙트럼**을 따라 판단하며 통과해 나간다는 것을 보여 주고, **157명의 학생**에 걸쳐 생성형 AI가 *어떻게* 사용되는지, 즉 **이해를 뒷받침하는 평가적 통합 대** 대체가 결과를 예측했습니다. 사용 방식은 사용 여부보다 학생들을 더 선명하게 구분합니다.
 - **"비원어민 영어 화자가 부정행위 위험입니다."** **25편의 연구에 대한 PRISMA 고찰**은 탐지 논쟁이 빠뜨린 위험 요인을 하나 더합니다. 비원어민 화자는 언어 요구로 어려움을 겪을 때 **정직성을 해칠 경향이 높았습니다**. 그것은 정직성의 문제로 잘못 읽힌 언어 지원의 문제입니다.
 - **"생성형 AI를 금지하는 정책이면 문제가 해결됩니다."** 학생들은 규칙 준수 패턴이 아니라 판단의 스펙트럼을 보고하므로, 학생들이 이미 하고 있는 평가적 추론에 닿지 않는 규칙은 일관되게 지켜지지 않습니다.
-
-## 연결된 개념
-- [[learners]] — 학습자: 학습자 측 개념을 아우르는 상위 개념
-- [[pedagogical-partnerships]] — 교수 파트너십
-- [[formative-assessment]] — 형성평가: 대규모로 생성·검증·적응되는 문항
-- [[automated-assessment]] — 여러 평가 양식에 걸친 자동 채점과 점수화
-- [[authentic-assessment]] — 과정 기반의 AI에 강한 실제적 과제
-- [[assessment-validity]] — 생성형 AI 시대의 평가 타당성
-- [[educational-measurement]] — AI 평가의 기반이 되는 측정 이론
-- [[automated-essay-scoring]] — 자동 에세이 채점
-- [[automated-question-generation]] — 자동 문항 생성
-- [[oral-assessment]] — 구두 평가: AI 대체에 저항하는 실시간 및 녹음 형식
-- [[summative-assessment]] — 총괄평가: AI에 강한 형식(구두, 감독 하의 시험, 폐북고사)
-- [[item-response-theory]] — AI 시대의 평가 응답을 해석하기 위한 IRT
-- [[psychometrically-aware-ai]] — 심리측정을 고려한 AI 채점
-- [[learning-analytics]] — 평가 데이터를 학습에 연결하는 분석
-- [[feedback]] — 평가에서 학습으로의 고리를 닫는 피드백 루프
-- [[feedback-literacy]] — 학습자의 피드백 리터러시
-- [[academic-integrity]] — 정직성과 AI 탐지 논쟁
-- [[ai-detection]] — AI 생성 텍스트 탐지
-- [[ai-ed-evaluation]] — 자동화된 평가자를 평가하기 위한 방법과 벤치마크
-- [[eportfolio]] — 과정 기반 전자 포트폴리오 평가
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## 연결된 문서
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 다중양식 평가 리터러시를 정의하고 무엇이 움직였으며 움직이지 않았는지를 측정한 1년 프로그램
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 즐거운 평가, 그리고 제3의 공간
-- [[mccorkle-aligned-genai-course-policy-2025]] — 평가되는 것에서 도출된 과제 수준의 AI 허용 범위(McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — 프로젝트 품질 수준에 따른 ChatGPT, 동료, 교수자 채점 비교(Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
-- [[beyond-detection-authentic-assessment-ai-2025]] — 탐지를 넘어: 실제적 평가
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 공동 저작 정직성과 평가 타당성
-- [[competency-based-education-genai-production-2026]] — 생성형 AI 이후의 역량 기반 교육
-- [[genai-assessment-governance]] — 평가에서의 생성형 AI에 대한 증거 중심 거버넌스
-- [[ssaho-ai-academic-integrity-review-2025]] — AI 정직성 고찰: 탐지는 평가 재설계와 짝을 이루어야 한다
-- [[bassett-ai-detectors-education-2026]] — 앞면이 걸리면 우리가 이기고 뒷면이 걸리면 당신이 진다: 교육에서의 AI 탐지기(Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: 학생 불안에 대한 LLM 보강 평가(2026)
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교수법(2026)
-- [[asynchronous-oral-assessment-2026]] — AI 시대의 비동기 구두 평가(Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: 생성형 AI 상호작용을 통해 학습을 평가하기(DRI + 가시적 전문성)
-- [[walton-bearman-assessment-judgment-2025]] — 평가 과제에서 생성형 AI와 함께한 학생 작업의 판단(학생 26명, 스크롤 회고)
-- [[stamatoulis-genai-use-patterns-2026]] — 생성형 AI 사용의 양상(평가적 통합 대 낮은 검증의 수용)과 결과
-- [[luo-dawson-value-judgments-grading-2026]] — 생성형 AI 지원 작업의 채점에서의 가치 판단: 정직, 신뢰, 타당성, 그리고 양방향 투명성(Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 기계학습을 이용한 문항 난도 추정
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — 생성형 AI 모형을 이용한 고등교육의 개방형 문항 자동 채점
-- [[mesny-innovative-assessment-grading-management-2026]] — 경영 교육자를 위한 혁신적 평가와 채점 실천에 관한 비판적 탐구
-- [[olvet-genai-scoring-open-ended-medical-2026]] — 생성형 AI가 학부 의학 교육의 개방형 문항 평가를 신뢰롭게 채점할 수 있는가
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — ChatGPT가 평가에서 교사를 대체할 수 있는가: LLM의 채점과 피드백 제공 활용 연구 고찰
-- [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
-- [[koretsky-genai-stem-assessment-2026]] — 평가를 재정렬하기 위한 세 꼭짓점 프레임
-- [[rubrics-genai-process-based-assessment-2026]] — 산출물이 아니라 상호작용을 채점하는 루브릭 기준
-
-- [[nerantzi-traffic-light-assessment-genai-2026]] — 리즈 대학교의 신호등 프레임워크를 사용한 생성형 AI 시대 평가에 관한 성찰적 대화

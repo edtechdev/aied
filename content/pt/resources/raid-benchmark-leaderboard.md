@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -41,9 +42,3 @@ Pesquisadores que avaliam métodos de detecção, administradores que redigem po
 ## Observações e ressalvas
 
 O benchmark mede a detecção de texto gerado por máquina, não má conduta: um estudante que usa IA para planejar, esboçar ou revisar produz um texto que os detectores não foram construídos para capturar, e um estudante [[language-learning|escrevendo em uma segunda língua]] é um risco conhecido de falso positivo que um leaderboard não consegue mostrar. O RAID é um artefato de pesquisa mantido por uma equipe acadêmica; a cobertura acompanha os modelos geradores em seu conjunto de teste, então modelos mais novos podem estar sub-representados até que o benchmark seja atualizado. O leaderboard classifica detectores, não as práticas de tratamento de dados de seus fornecedores, e um AUROC alto não diz nada sobre se enviar trabalhos de estudantes a esse serviço é legal ou ético em sua jurisdição.
-
-## Conceitos conectados
-
-- [[ai-detection]] — a família de métodos que o benchmark avalia
-- [[academic-integrity]] — o contexto de política onde as pontuações dos detectores são usadas
-- [[benchmark]] — a classe mais ampla de instrumentos à qual este pertence

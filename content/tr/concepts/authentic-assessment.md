@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -103,67 +105,3 @@ Geri çekilme, vaka dosyası kanıtının görünür kıldığı bir kanıtsal m
 - **“Özgünlük, gerçekçi görevlerle ilgilidir.”** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud ve Du’nun (2025)]] **37 ampirik çalışmayı (2000-2024)** kapsayan [[meta-analysis-systematic-review|kapsam derlemesi]] **altı boyutlu** bir tasarım modeli önerir ve **37 çalışmadan yalnızca 3’ü toplumsal özgünlüğü** ele almıştır: değerlendirmenin öğrencilerin toplumsal dönüşüme katkıda bulunmasına yardımcı olup olmadığı. Gerçekçilik tek bir boyuttur ve en az gelişmiş boyut neredeyse hiç çalışılmamıştır.
 - **“Özgün değerlendirme YZ’ye direnir.”** Maruz kalma ölçülebilir ve büyüktür: **üç yıllık bir psikoloji lisansı** **%90 geçilebilir** çıkmış, ChatGPT **40 ders içi değerlendirmesinin 36’sında yeterli çıktı** üretmiş ve yalnızca kalan değerlendirmeler ayakta kalmıştır. Bir lisans derecesinin değerlendirmesinin çoğu YZ tarafından karşılanabilirdi.
 - **“İş gerçek dünyadan olduğunda yeniden tasarım isteğe bağlıdır.”** 40’ta 36 sonucu, özgünlüğü muhtemelen sorgulanmayan ders içi çalışmalarda bulunmuştur. Görevin gerçekçiliği, YZ ile tamamlanmaya karşı korumamıştır; koruyan, neyin değerlendirildiğinin tasarımı olmuştur.
-
-## Bağlı kavramlar
-
-- [[learner-identity]] — Evrilen disiplinsel, profesyonel, yaratıcı ve akademik öğrenen kimlikleri
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Toplam değerlendirme: YZ’ye dirençli biçimler (sözlü, gözetimli, kitapsız sınavlar)
-- [[arts-and-media-education]]
-
-- [[reflection]]
-
-
-## Bağlı makaleler
-
-- [[thapa-lewis-process-oriented-assessment-2026]] — Bir görevin ne doğrulaması gerektiği olarak süreç odaklı değerlendirme ve epistemik özgünlük
-- [[ivory-psychology-assessment-integrity-2026]] — YZ’nin geçemediği şey: varlık, görsel eserler ve öğrencinin kendi verisi (Ivory vd. 2026)
-- [[paternalistic-filter-llm-history-education]] — Tarih eğitiminde kayırıcı YZ kullanımı ve öğrenci kimliği
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Özgün Değerlendirme için Tasarlamak: Bir Kapsam Derlemesi
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Özgün Değerlendirme
-- [[responsible-assessment-ai-era-stanford-2026]] — YZ Çağında Sorumlu Değerlendirme
-- [[authentic-products-authenticated-processes-2026]] — Özgün Ürünler, Doğrulanmış Süreçler
-- [[tool-invariant-framework-agentic-ai]] — Hesaplama Yöntemlerinin Öğretimi ve Değerlendirilmesi için Araca Dayanıklı Çerçeve
-- [[cong-confidence-asag-2026]] — Güven duyarlı otomatik kısa cevaplı notlandırma
-- [[llm-fallacy-misattribution]] — LLM Yanılsaması ve Yetkinliğin Yanlış Atfedilmesi
-- [[universities-ai-era-rethinking]] — YZ Çağında Üniversitelerin Yeniden Düşünülmesi
-- [[ssaho-ai-academic-integrity-review-2025]] — YZ suiistimaline karşı çok yöntemli değerlendirme
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Özgün, YZ’ye dirençli değerlendirme olarak sözlü sınavların yeniden değerlendirilmesi
-- [[roe-assessment-twins-2026]] — Üretken YZ çağında değerlendirme geçerliliğini güçlendiren değerlendirme ikizleri (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — YZ tümleşik bir gelecekte kaliteli öğrenmenin güvence altına alınması için uyarlanabilir yetenekler (Lodge vd. 2026)
-- [[asynchronous-oral-assessment-2026]] — YZ Çağında Asenkron Sözlü Değerlendirmeler (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: Üretken YZ etkileşimi aracılığıyla öğrenmenin değerlendirilmesi (DRI + Görünür Uzmanlık)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Öğrenci gruplarını Üretken YZ kullanımını azaltmaya yönlendiren özgünlük ölçütleri
-- [[teacher-educators-ai-integration-preservice-2026]] — Öğretmen eğitimcilerini denetimli sınavlara ve sözlü savunmalara doğru iten YZ güven krizi (Goldstein vd. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Özgün değerlendirmeden ayrılan bütünlük odaklı tasarım: yargıyı görünür kılmak (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Suiistimal suçlama dosyalarının fiilen kanıt olarak ne içerdiği ve eksik oldukları süreç kanıtı (Munoz vd. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Dedektör doğruluğu ve melez yazım başarısızlığı: tespitin neden zayıf yedek kanıt olduğu (Hadra vd. 2026)
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı YZ yasakları: döküm üretim değildir (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Üretken YZ ile Özgün Değerlendirmeler Tasarlamak: Yükseköğretimde Değerlendirme Authentifire’ın Pilot Çalışması
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Görev gerçekçiliğinin aşınması: çevrimiçi dil öğretiminde özgünlüğü aşındıran YZ’ye dirençli yeniden tasarım
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Özgünlüğün yüzeye çıktığı biçimler (kayıtlı sunumlar, uzaktan grup projeleri, dijital eserler) 53.915 madde boyunca yüksek puan alır: özgünlük yazarlığı doğrulamaz

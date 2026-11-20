@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -55,7 +57,6 @@ Bukti eksperimental mulai muncul: [[xie-genai-mystery-game-legal-education-2026|
 
 - **Tinjauan pelingkupan 82 karya, sebagian besar non-empiris.** [[lorteau-sarro-ai-legal-education-2025|Lorteau dan Sarro (2025)]] memetakan 82 karya dari 26 negara; 74% muncul setelah 2023 dan hanya 22 yang empiris. Model tanpa bantuan lulus penilaian sekolah hukum tetapi berperingkat di bawah siswa, dan kinerja meningkat dengan instruksi terperinci dan otoritas yang disediakan tanpa menjadi andal. Kegunaan praktis tinjauan itu adalah materi yang dihasilkan, simulasi, pelatihan menulis, dan pengajaran keterampilan AI; risiko utamanya adalah ketergantungan pasif, dengan [[assessment-validity|penilaian]] sebagai titik tekanannya.
 
-
 ## Apa yang ditunjukkan bukti kebijakan
 
 Gutowski dan Hurley menilai kebijakan pada lima dimensi dengan rubrik 0–5: **sifat melarang**, **sifat mengizinkan**, **integrasi pendidikan**, **transparansi dan akuntabilitas**, dan **kedalaman**. Penjajakan mereka menemukan bahwa sebagian besar sekolah hukum mengadopsi sikap yang umumnya melarang, sering dijelaskan sebagai membeli waktu untuk mempelajari teknologi, sementara hampir semua kebijakan menyisakan diskresi bagi instruktur individual. Peringkat sifat mengizinkan dan sifat melarang berkorelasi terbalik, seperti diharapkan, dan para penulis melaporkan tidak ada satu pendekatan pun yang diterima: kebijakan berkisar dari tata kelola komprehensif hingga tidak ada kebijakan tertulis sama sekali.
@@ -74,7 +75,6 @@ Rekomendasinya bersifat prosedural: pedoman yang jelas dan komprehensif apa pun 
 Tiga hal membuat pendidikan hukum lebih dari sekadar satu area mata pelajaran lagi.
 
 Metode kasus adalah salah satu anggota keluarga [[case-based-learning]] yang lebih luas; halaman itu membedakan kasus yang disiapkan dan diskusi kasus dari inkuiri berbasis masalah dan simulasi.
-
 
 **Validitas penilaian tidak terpisahkan dari kompetensi profesional.** [[cognitive-offloading|Over-reliance]] selama sekolah hukum dikhawatirkan membuat lulusan kurang siap untuk pekerjaan yang menuntut analisis hukum dan advokasi independen, dan penilaian yang menghadiahi keluaran lancar tidak dapat membedakan pemahaman seorang siswa dari pemahaman model. Pertanyaan [[assessment-validity|validitas]] karena itu bukan pertanyaan akademis.
 
@@ -95,33 +95,3 @@ Dalam eksperimen berkonteks hukum, 186 pengambil keputusan awam pada perkara per
 - **"Sekolah hukum sudah menetapkan posisi."** Sebagian besar mengadopsi **sikap yang umumnya melarang**, sering dijelaskan sebagai **membeli waktu untuk mempelajari teknologi**, sementara **hampir semua kebijakan menyisakan diskresi bagi instruktur individual**. Larangan dengan hak override instruktur bukanlah posisi yang mapan, melainkan penundaan dengan nilai bawaan.
 - **"Bukti survei menggambarkan bidang ini."** **Survei ABA tahun 2024 hanya memperoleh respons dari 29 sekolah, sekitar 15% sekolah hukum yang disetujui ABA**, dan survei LexisNexis terhadap **800** praktisi mengukur populasi yang berbeda. Keduanya tidak dapat diperlakukan sebagai representatif pendidikan hukum, dan keduanya dikutip seolah-olah demikian.
 - **"Menahan rekomendasi AI bersifat netral."** Dalam eksperimen berkonteks hukum, **186 pengambil keputusan awam pada perkara perdata tribunal lebih jarang mengikuti posisi AI yang salah ketika sistem menahan posisinya sendiri (5.7-8.2% versus 42.0-60.5%)**. Menahan tidak menghasilkan netralitas; ia menghasilkan pengurangan besar dalam kepatuhan, yang merupakan efek tersendiri.
-
-## Konsep terkait
-
-- [[academic-integrity]] — kerangka perilaku yang diterapkan pada karya berbantuan
-- [[assessment-validity]] — apakah kinerja berbantuan mengukur kompetensi yang dimaksud
-- [[authentic-assessment]] — desain yang menuntut analisis tanpa bantuan
-- [[ai-use-disclosure]] — norma atribusi dan pelaporan yang masih tanpa konsensus
-- [[governance]] — tata kelola fakultas dan pembuatan kebijakan sebagaimana dipraktikkan sekolah hukum
-- [[educational-policy-ai]] — kebijakan AI institusional sebagai objek kajian
-- [[critical-thinking]] — penalaran yang hendak dibangun metode kasus
-
-- [[case-based-learning]] — metode kasus dan diskusi kasus sebagai pedagogi
-
-- [[socratic-method]] — dialog yang bergantung pada persiapan siswa
-- [[experiential-learning]] — klinik dan pelatihan berbasis praktik
-- [[professional-training]] — keluarga profesi berlisensi yang lebih luas
-- [[career-development-and-readiness]] — kesiapan praktik sebagai tujuan yang dinyatakan
-- [[ai-literacy]] — kompetensi teknologi sebagai kewajiban profesional
-- [[hallucination-risk]] — sitasi yang direkayasa sebagai kegagalan khas bidang ini
-- [[legal-issues-and-risks]] — apa yang dihadapi institusi ketika tata kelola gagal
-
-## Artikel terkait
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Perbandingan lima faktor kebijakan AI generatif sekolah hukum dan kerangka tata kelola
-
-- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: tinjauan pelingkupan 82 karya (Lorteau & Sarro 2025)
-
-- [[llm-turing-test-italian-legal-exams-2026]] — Uji Turing buta pada ujian advokat, hakim, dan notaris Italia, diukur terhadap penilaian ahli
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Menahan posisi sistem menekan ketergantungan berlebih pada keputusan berkonteks hukum tanpa membangun penilaian (pengambil keputusan awam, bukan mahasiswa hukum)
-- [[xie-genai-mystery-game-legal-education-2026]] — Permainan peran misteri tulisan GenAI versus kuliah: uji acak (Xie et al. 2026)

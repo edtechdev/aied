@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -46,7 +48,6 @@ ai_assist:
 আচরণগত সুপারিশকারীরা [[machine-learning|কোলাবরেটিভ ফিল্টারিংয়ের]] যুক্তি উত্তরাধিকার সূত্রে পায়: একইরকম ইতিহাসের শিক্ষার্থীরা একইরকম সম্পদ চাইবে ধরে নেওয়া হয়, তাই ব্যবস্থা বিষয়বস্তুর বদলে সহ-ঘটনা থেকে পূর্বানুমান করে। তথ্য ঘন থাকলে এটি শক্তিশালী, না থাকলে ভঙ্গুর। [[fair-explainable-edu-recommendations|Evangelista ও Bukhari (2026)]] সমস্যাটি স্পষ্টভাবে বলেন — নির্ভুলতা-কেন্দ্রিক সুপারিশকারীরা সীমিত অংশগ্রহণ-ইতিহাসের শিক্ষার্থীদের কম নির্ভরযোগ্য সহায়তা দেয়, আর জনপ্রিয় সম্পদ তালিকা দখল করে — এবং এর উত্তর দেন একটি Hybrid HKG-GRU কাঠামো দিয়ে, যা কোর্স-উপকরণের একটি ভিন্নধর্মী [[knowledge-graph|নলেজ গ্রাফ]] এমবেড করে ও GRU দিয়ে শিক্ষার্থী-ক্রম মডেল করে, তারপর শিক্ষার্থী-গোষ্ঠী জুড়ে দৃঢ়তার জন্য প্রশিক্ষণ দেয় (GroupDRO) এবং এক্সপোজার-বৈচিত্র্যের জন্য রি-র‍্যাংক করে (Maximal Marginal Relevance)। 152 শিক্ষার্থী, 59 সম্পদ ও প্রায় 150,000 মিথস্ক্রিয়ার Moodle লগে এটি HR@10 = 0.68 ও MRR = 0.41-এ পৌঁছায়, তবু ক্যাটালগ-স্তরে উল্লেখযোগ্য জনপ্রিয়তা-পক্ষপাত টিকে থাকে — প্রমাণ যে [[bias-mitigation|পক্ষপাত প্রশমন]] আংশিক।
 
 একটি হালকা বেসলাইন গভীর মডেলগুলোকেও সরাসরি হারাতে পারে। [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi প্রমুখ (2026)]] NedBox, একটি ডাচ-দ্বিতীয়-ভাষা প্ল্যাটফর্মে সাতটি সুপারিশকারী তুলনা করেন, এবং অগভীর আইটেম-আইটেম মডেল EASE প্রতিটি মাপে শীর্ষে থাকে — AUROC 0.955, MAP 0.283, NDCG@3 0.205, NDCG@5 0.279 — গভীর ভ্যারিয়েশনাল অটোএনকোডার MVAE (AUROC 0.949) ও এনসেম্বল PentaForest (0.953)-এর আগে, আর ম্যাট্রিক্স ফ্যাক্টরাইজেশন সবচেয়ে খারাপ (IALS 0.719, UKNN 0.767)। সুপারিশ ও [[knowledge-tracing]] সংকেত একসঙ্গে কাজও করে: EASE-এর শীর্ষ-10-কে পূর্বানুমিত দক্ষতা দিয়ে পুনঃর‍্যাংক করলে NDCG@3 প্রায় 3% বাড়ে।
-
 
 অর্থগত সুপারিশকারীরা সহ-ঘটনার বদলে কাঠামো ব্যবহার করে। [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun ও Song (2026)]] শিক্ষা-সম্পদ, ভাষা-ধারণা, দক্ষতা, শিক্ষার্থী-গোষ্ঠী ও [[pedagogy|শিক্ষাতাত্ত্বিক]] গুণাবলির একটি নলেজ গ্রাফ তৈরি করেন, এবং প্রতিটি সম্পদকে চারটি শিক্ষাতাত্ত্বিক মাত্রায় বিশ্লেষণ করেন — শিক্ষা-প্রসঙ্গ, জ্ঞানগত স্তর, প্রযুক্তিগত বৈশিষ্ট্য ও সাংস্কৃতিক অভিযোজনযোগ্যতা। সুপারিশ শিক্ষার্থীর ঘোষিত চাহিদা থেকে গ্রাফে k-হপ বিস্তৃত হয়, বৈশিষ্ট্য-ভিত্তিক কোলাবরেটিভ ফিল্টার দিয়ে প্রার্থী পরিমার্জন করে, এবং শিক্ষার্থীর সামর্থ্য, অগ্রগতি ও আগ্রহ-সূচক বাড়ার সঙ্গে যে ফিউশন-সহগ বাড়ে তা দিয়ে র‍্যাংক করে — তাই কম-উন্নত শিক্ষার্থীরা গ্রাফ থেকে বেশি কাঠামোবদ্ধ নির্দেশনা পায়, আর উচ্চ-সামর্থ্যের শিক্ষার্থীরা নিজের আচরণ-প্যাটার্নে ঝোঁকে। MARS ডেটাসেটের ইংরেজি উপসেটে (4,800 ব্যবহারকারী, 14,200 সম্পদ, 132,000 মিথস্ক্রিয়া, স্পার্সিটি 0.9981) এটি NDCG 0.625 ও HR 0.751-এ পৌঁছায়, সেরা নিউরাল বেসলাইনের তুলনায় প্রায় 7-8% লাভ, এবং কভারেজ ও ক্রস-ডোমেইন নির্ভুলতায় RippleNet ও KGAT-সহ গ্রাফ-সচেতন বেসলাইনগুলোকে ছাড়িয়ে যায়। Ablation দেখায় সংকেতগুলো পরিপূরক (কেবল-CF NDCG 0.584, কেবল-KG 0.604), আর লেখকেরা লক্ষ করেন এগুলো র‍্যাংকিং-মেট্রিক, [[learning-gains|শিখন-কার্যকারিতার]] প্রমাণ নয়।
 
@@ -97,42 +98,3 @@ PersonaPath ক্রমসজ্জার প্রশ্নটি আরও �
 **"স্পার্স তথ্য একটি কারিগরি উপদ্রব।"** এই সাহিত্যের স্পার্সিটি-স্তরে (0.9981) ব্যবস্থা প্রায় কিছুই দেখে না, যা কোল্ড স্টার্ট ও জনপ্রিয়তা-পক্ষপাতকে টিউনিং দিয়ে সারানোর বদলে কাঠামোগত করে তোলে। সেই সংকেতে প্রশিক্ষিত সুপারিশকারী নিয়মতান্ত্রিকভাবে ইতিমধ্যে জনপ্রিয় যা তা তুলে আনবে, আর চুপচাপ বা অস্বাভাবিক শিক্ষার্থীরাই সে যাদের দেখতে পারে না।
 
 **"ব্যাখ্যাযোগ্যতা একটি রিপোর্টিং-বৈশিষ্ট্য।"** একজন শিক্ষক বা শিক্ষার্থী সুপারিশ নিরীক্ষা করতে পারে কি না তা একটি বৈধতা-শর্ত: যে পথ একজন শিক্ষার্থী পরীক্ষা করতে পারে না, তা সে চ্যালেঞ্জও করতে পারে না — যা ইন্টারফেস-সমস্যা হওয়ার আগেই একটি সুশাসন-সমস্যা।
-
-## সংযুক্ত ধারণা
-
-- [[knowledge-graph]] — ধারণা, সম্পদ ও পূর্বশর্ত-সম্পর্কের কাঠামোবদ্ধ উপস্থাপনা
-- [[explainable-ai]] — নকশা-বৈশিষ্ট্য হিসেবে ব্যাখ্যা, যা বোধগম্যতা ও বিশ্বাসের মধ্যস্থতা করে
-- [[curriculum-design]] — যে ক্রম-সিদ্ধান্ত সুপারিশকারীরা মডেল করে, অনুমান করে ও পুনরুৎপাদন করে
-- [[learning-design]] — কার্যক্রমের পরিকল্পিত ক্রম, যার উপর পথ-বিশ্লেষণ কাজ করে
-- [[learning-analytics]] — সুপারিশের পেছনের তথ্য ও পদ্ধতি, এবং নিরীক্ষার বিষয়
-- [[cognitive-diagnosis]] — প্রতিকার-পথের বীজ বপন করা জ্ঞান-অবস্থার রোগনির্ণয়
-- [[knowledge-tracing]] — শিক্ষার্থী কীসের জন্য প্রস্তুত তা ঠিক করতে সময় জুড়ে দক্ষতার মডেলিং
-- [[student-modeling]] — শিক্ষার্থী-উপস্থাপনা যা সুপারিশ ভোগ করে
-- [[personalized-learning]] — বৃহত্তর লক্ষ্য; এই পাতা নির্বাচন-সিদ্ধান্ত ঢাকে
-- [[adaptive-learning]] — তাৎক্ষণিক সমন্বয়-প্রক্রিয়া; এই পাতা র‍্যাংকিং ও ক্রমসজ্জা ঢাকে
-- [[intelligent-tutoring]] — যে প্ল্যাটফর্ম সংলাপে সুপারিশ নিয়ে কাজ করে
-- [[bias-mitigation]] — র‍্যাংকিং ও এক্সপোজারে ন্যায্যতা-হস্তক্ষেপ
-- [[equity-in-ai-education]] — সুপারিশ-মানে গোষ্ঠী-স্তরের পার্থক্য
-- [[human-in-the-loop-ai]] — স্বয়ংক্রিয় সম্পদ-নেভিগেশনের তত্ত্বাবধান
-- [[self-directed-learning]] — শিক্ষার্থী-রক্ষিত পথ ও আজীবন নেভিগেশন
-- [[lifelong-learning]] — ডিগ্রি-ক্রমের বাইরে গ্রাফ-কাঠামোবদ্ধ শিখন
-- [[trust-calibration]] — নির্ভরতাকে সুপারিশের নির্ভরযোগ্যতার সঙ্গে মেলানো
-- [[student-support-and-success]] — সহায়তা, সম্পদ ও একাডেমিক পথের সুপারিশ
-
-## সংযুক্ত নিবন্ধ
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — মাল্টিমোডাল শিক্ষা-সম্পদের জন্য হাইব্রিড কোলাবরেটিভ ফিল্টারিং ও নলেজ গ্রাফ, সামর্থ্য ও অগ্রগতি-সচেতন ফিউশনসহ (Liu, Sun ও Song 2026)
-- [[fair-explainable-edu-recommendations]] — ভিন্নধর্মী নলেজ গ্রাফ + GRU সুপারিশকারী, GroupDRO ন্যায্যতা ও counterfactual ব্যাখ্যাযোগ্যতাসহ (Evangelista ও Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — বৈশিষ্ট্য-গুরুত্বের চার্টের চেয়ে ডোমেইন-চালিত ব্যাখ্যা বেশি শিক্ষক-বিশ্বাস গড়ে তোলে (Feldman-Maggor প্রমুখ 2025)
-- [[proprl-prerequisite-relation-learning]] — দিকনির্দেশগত সামঞ্জস্যের জন্য irreversibility সীমাবদ্ধতাসহ পূর্বশর্ত-সম্পর্ক শিখন (Cheng প্রমুখ 2026)
-- [[pattern-kc-programming-recommendation]] — প্যাটার্ন-ভিত্তিক জ্ঞান-উপাদান সাদৃশ্য দিয়ে প্রোগ্রামিং অনুশীলনের সুপারিশ (Hoq প্রমুখ 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554 কোর্সে 29,064 নকশাকৃত কার্যক্রমের মার্কভ ও প্যাটার্ন-মাইনিং বিশ্লেষণ (Divjak, Svetec ও Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — বায়েসিয়ান DINA রোগনির্ণয় ও সংক্ষিপ্ততম প্রতিকার-পথ, জ্ঞানগত চাপ দ্বারা মধ্যস্থতাকৃত (Feng ও Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — পাঠ্যক্রম-স্তরের ঘাটতি খুঁজতে এআই টিএ-প্রশ্ন GPT-4-নিষ্কাশিত পূর্বশর্ত-গ্রাফে ম্যাপ করা (Medhat প্রমুখ 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — স্থির পাঠ্যক্রমের বিকল্প হিসেবে আজীবন শিখনের learnity গ্রাফ (Szekely, Gal-Ezer ও Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — পাঁচ-স্তরের শ্রেণিবিন্যাস দেখায় বেশিরভাগ মানব-এআই মিথস্ক্রিয়া সহযোগিতা নয়, পরামর্শ (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — স্বায়ত্তশাসন-সমর্থন বনাম চাপ গঠনমূলক বা বাধ্যতামূলক এআই-পথের পূর্বানুমান করে (Shen ও Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — ব্যক্তিগতকৃত শিখনের প্রবণতা, পথ ও সুপারিশ-মডেলের PRISMA পর্যালোচনা (Ikram প্রমুখ 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: একটি Knowledge-Centric পরিকল্পনা-বেঞ্চমার্ক দেখায় LLM বৈধতায় 90.9% পৌঁছায়, অথচ অভিযোজনশীলতায় কেবল 44.3% (Liu প্রমুখ 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — অর্থগতভাবে ভিত্তিক অনুসরণকারীর উপর ক্রমিক সিদ্ধান্ত হিসেবে অনুশীলন-সুপারিশ
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 14,003 রেকর্ডের আচরণগত ক্লাস্টারিং ছয়টি প্রোফাইলে, বৈচিত্র্য-regularized সুপারিশ কাঠামো দিয়ে শিখন-বস্তুতে ম্যাপকৃত (Najem প্রমুখ 2026)

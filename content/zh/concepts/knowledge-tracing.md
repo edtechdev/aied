@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -113,40 +115,3 @@ ai_assist:
 **“在一个数据集上最好的模型，就是适合你课程的最好的模型。”** 准确率依情境而定。OKT 在真实的 [[engineering-education|工程]] 项目 LMS 数据（2,416 名学生、966 个结果）上达到 **89.81% AUC**，胜过 DKT、DKVMN、EKT 与 SimpleKT，但在 ASSISTments 上只有可比水平。同一个在一个数据集家族上胜出的架构，在另一个上并不出众，因此来自别处的头条 AUC 对你自己的学生只是弱证据。
 
 **“除非有遗忘的证据，否则知识会持续存在。”** 遗忘才是值得建模的默认状态。[[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]] 在多会话序列上拟合 BKT、带遗忘的 BKT 与加性因子模型，发现当保持被表征进模型时拟合会改变，而这些模型*被验证*的方式与*被部署*的方式并不相同。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 细粒度掌握估计供支持决策之用
-
-## 关联文章
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学生知道何时克制行动之前就停止练习（An、McLaren 与 Stamper，2026）
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的图基智能辅导
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于结果的知识追踪与亲缘映射
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 语义扎根的追踪与 KC 校准状态，用作推荐的强化学习环境
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：一个人机协同学习循环中了解自己学习者的智能辅导者
-- [[crediting-assisted-work-inflates-mastery-2026]] — 哪条证据规则决定掌握断言（Srivastava，2026）
-- [[system-one-llm-knowledge-tracing-2026]] — 单次前向的大语言模型在 8 名学习者上超过深度训练模型的知识追踪，成本仅其零头（Lee 与 Park，2026）
-- [[knowledge-tracing-compression-math-2026]] — 压缩数学知识追踪中的学生历史

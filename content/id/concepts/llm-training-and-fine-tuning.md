@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -161,73 +163,3 @@ Halaman ini adalah pendamping *bagaimana sebuah model dibuat* bagi [[llm]], yang
 - **"Model adalah penentu utama perolehan belajar."** Pilihan model dan prompt hanya menyumbang **sekitar 15%** dari kesenjangan antara LLM dan perolehan belajar siswa. Mengoptimalkan 85% sisanya adalah tempat pekerjaannya, dan itu tidak ada di dalam bobot.
 - **"Model lokal akan berkinerja lebih rendah daripada model terkelola, jadi pengambilan adalah tuas yang lebih rendah."** Dalam evaluasi tiga konfigurasi, **pengambilan, bukan modelnya, adalah keputusan desain tingkat pertama**: LLM lokal **tanpa pengambilan hanya mencapai akurasi 52.3%, di bawah garis dasar TF-IDF**. Menambahkan pengambilan memindahkan model yang sama melewati ambang yang tidak akan dicapai oleh penukaran model mana pun sendirian.
 - **"Lebih banyak data pelatihan berarti perilaku mengajar yang lebih baik."** Penyetelan halus penilaian yang memperbaiki pemformatan sekaligus memperburuk generasi umpan balik adalah contoh tandingan dalam skala mini: optimasi terhadap sasaran yang tampak serupa dapat memperbaiki proksi dan merusak hal yang Anda inginkan.
-
-## Konsep terkait
-
-- [[llm]] — apa itu model-model ini; halaman ini membahas bagaimana ia dibuat
-- [[ai-technologies]] — payung: teknologi dan teknik AI
-- [[rag]] — pengambilan, langkah sebelum pelatihan
-- [[prompt-engineering]] — tuas termurah, dan garis dasar yang harus dikalahkan
-- [[reinforcement-learning]] — tahap RL dari pasca-pelatihan
-- [[intelligent-tutoring]] — domain aplikasi utama
-- [[adaptive-learning]] — beradaptasi pada pembelajar, berbeda dari mengadaptasi model
-- [[automated-assessment]] — tempat model penilaian yang disetel halus mendarat
-- [[automated-essay-scoring]] — tugas asal sebagian besar bukti penilaian
-- [[ai-feedback-quality]] — apa yang diperbaiki dan tidak diperbaiki penyetelan halus
-- [[educational-nlp]] — keluarga metode yang berdekatan
-- [[simulating-students]] — aplikasi sisi pembelajar dari mesin yang sama
-- [[student-modeling]] — lapisan pemodelan di bawah simulasi
-- [[open-source]] — bobot terbuka adalah yang memungkinkan penyetelan halus lokal
-- [[benchmark]] — bagaimana sistem ini dievaluasi, dan batas dari itu
-- [[assessment-validity]] — mengapa metrik yang baik masih bisa berarti instrumen yang buruk
-- [[pedagogical-safety]] — apa yang tidak dijamin oleh pelatihan
-- [[ai-sycophancy]] — perilaku yang dapat disasar pasca-pelatihan
-- [[hallucination-risk]] — mode kegagalan yang tidak dapat disembuhkan penyetelan halus
-- [[privacy]] — kendala atas data pelatihan dan atas unlearning
-- [[human-in-the-loop-ai]] — cadangan yang membuat otomasi terjangkau
-- [[metacognition]] — sasaran pedagogis bagi pasca-pelatihan
-- [[scaffolding]] — perilaku yang hendak dikodekan fungsi imbalan
-- [[ai-education]] — bidang yang dilayani pekerjaan ini
-
-## Artikel terkait
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — Pipeline RL–SFT–RL: 96.52% pada CDPK, melampaui Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — Mengikuti instruksi pedagogis di dalam pasca-pelatihan Gemini
-- [[teachlm-post-training-llms-education]] — Pasca-pelatihan pada 100,000 jam data tutoring autentik
-- [[tact-pedagogically-adaptive-esl-tutoring]] — Pasca-pelatihan selaras taksonomi yang menyasar keputusan pedagogis
-- [[swim-student-writing-simulation-2026]] — SFT dan GRPO terhadap prompting rubrik, dengan detail desain imbalan
-- [[misconception-acquisition-dynamics-llms-2026]] — Jejak tingkat langkah sebagai persyaratan pengikat bagi pelatihan miskonsepsi
-- [[jeon-isd-agent-bench-2026]] — Agen desain instruksional berlandaskan teori pada 25,795 skenario
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — RL heuristik untuk menyelaraskan model sebagai pemandu Sokratik
-- [[special-r1-rl-special-education]] — Pembelajaran penguatan untuk keselarasan pendidikan khusus
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Pembelajaran penguatan terpandu LLM untuk personalisasi
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — Model penalaran besar yang pedagogis
-- [[omniedu-open-educational-foundation-models-2026]] — Satu perilaku sasaran per contoh, lintas skala model
-- [[garrod-edu-qurating-educational-data-curation-2026]] — Mengurasi data pendidikan untuk pelatihan
-- [[lora-finetuned-control-systems-course-qa-2026]] — Efek peringkat LoRA dan keuntungan per parameter adaptor
-- [[aiawe-automated-writing-evaluation]] — AWE beradaptasi LoRA ketika skala tidak memprediksi keberhasilan
-- [[llm-graders-computer-science-exams-2026]] — Satu adaptor pada ~3,900 contoh mencapai setara penilai manusia
-- [[iks-instruct-dataset-indian-knowledge]] — Kumpulan data instruksi 24,795 contoh dan garis dasar dasar mendekati nol
-- [[llm-children-reading-story-generation]] — Kendali atas skala untuk pengendalian tingkat bacaan
-- [[bert-discourse-english-teaching-2026]] — Lapisan mana yang disetel halus, dan mengapa empat mengalahkan dua belas
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Arsitektur, bukan jumlah parameter, yang menentukan apakah penyetelan halus berhasil
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilasi ke model 2B dengan audit kesetiaan
-- [[llm-unlearning-math-privacy]] — Unlearning berbasis gradien atas PII dan konten berbahaya
-- [[reflection-level-classification-hungarian-essays-2026]] — Transformer yang disetel halus versus garis dasar klasik dan embedding
-- [[multimodal-item-parameter-estimation-2026]] — Mempelajari kurva IRT dari butir multimodal
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Pengarahan berdasarkan keyakinan sebagai kebijakan manusia-dalam-lingkar
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Pengambilan sebagai keputusan tingkat pertama, dengan energi dan VRAM dilaporkan
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 studi: prompting 13, penyetelan halus 7, hibrida 3
-- [[gpt-item-generation-l2-listening-2026]] — Prompting mencapai dataran, lalu penyetelan halus menambahkan sisanya
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — Penyetelan halus menang pada penilaian skor dan gagal pada umpan balik
-- [[educational-llm-alignment]] — Batas atas ~15% pada pilihan model dan prompt
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Prompting terpandu rubrik sebagai alternatif tanpa pelatihan
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Kendali persona di tingkat prompt untuk simulasi miskonsepsi
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy sebagai persyaratan pelatihan eksplisit
-- [[contextual-sycophancy-ai-literacy]] — Sycophancy yang bertahan melalui prompting dan penyelarasan
-- [[hazra-safetutors-pedagogical-safety-2026]] — Keselamatan yang terdegradasi sepanjang dialog berkelanjutan
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — ~35% petunjuk tak terpakai dari model frontier yang tidak terlatih
-- [[simulated-students-tutoring-dialogues-2026]] — Apakah siswa simulasi berperilaku seperti siswa
-- [[inside-llm-student-simulator-reasoning-2026]] — Menyetel halus model agar berperan dan berpikir seperti siswa
-- [[history-aware-student-simulation]] — Simulasi yang dikondisikan pada lintasan seorang pembelajar
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Data terstruktur kurikulum hemat sampel

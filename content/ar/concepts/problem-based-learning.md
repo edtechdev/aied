@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -80,41 +82,3 @@ ai_assist:
 - **"ينبغي تجميع نتائج التعلّم القائم على المشكلات مع نتائج التعلّم القائم على المشاريع."** يُبقي التحليل البعدي ثلاثي المستويات **أداء المنتج والحل في نموذج منفصل** تحديدًا لأنه يقيس **التعاون بين الإنسان والذكاء الاصطناعي** لا استدلال المتعلّم وحده. فتجميعهما سينسب منتجًا مشتركًا إلى الطالب.
 - **"المكاسب التعاونية أثر جانبي لاستخدام الذكاء الاصطناعي."** وجدت دراسة حلّ المشكلات التعاوني المُدرَك أعلى (**M = 3.62 مقابل 3.05، d = 0.88**) وحلّ المشكلات المشترك (**3.40، d = 1.02**)، مع **أكبر آثار التفاعل على بناء المعرفة المشتركة والتنظيم الاجتماعي** — أبعاد العملية التعاونية التي يتوقعها التصميم. فالآلية هي التعاون المهيكل لا الأداة.
 - **"التعلّم القائم على المشكلات مع الذكاء الاصطناعي يوفّر وقت المُيسّر أساسًا."** تقع المكاسب القابلة للقياس في جودة العملية على أبعاد لا توجد إلا عندما تُصمَّم بنية المجموعة لها. وتنفيذ هذا التعلّم الذي يضيف الذكاء الاصطناعي دون هيكلة بناء المعرفة المشتركة ينبغي ألا يتوقع الأثر ذاته.
-
-## المفاهيم المرتبطة
-
-- [[project-based-learning]]
-- [[case-based-learning]] — حالات مُعدَّة ونقاش الحالات، متميزة عن الاستقصاء المفتوح في التعلّم القائم على المشكلات
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — الفشل المنتج
-
-## المقالات المرتبطة
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — التعلّم القائم على المشكلات بوساطة المعلّم مقابل بوساطة الذكاء الاصطناعي في تعليم الصيدلة: دراسة شبه تجريبية بين طلاب الطب في السنة الثانية

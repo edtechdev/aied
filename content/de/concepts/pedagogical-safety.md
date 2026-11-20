@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -84,49 +86,3 @@ Pädagogische Sicherheit ist die Schutzschicht, die [[hallucination-risk|Halluzi
 **„Der sicherste Tutor ist der, der am meisten verweigert.“** Ein System, das „gleichmäßig verweigert“, kann Ungleichheit dennoch verfestigen, und das ist die zweite Hälfte der Beschreibung des stillen Versagens auf dieser Seite. Der Fehlermodus ist nicht nur ein Tutor, der korrekt antwortet und Lernen erodiert; es ist auch ein Tutor, dessen Verweigerungen Unterstützung ungleich über Studierende verteilen, und eine pauschale Verweigerungspolitik tauscht ein sichtbares Risiko gegen ein unsichtbares.
 
 **„Jede Sicherheitsarbeit auf Modellebene ist eine PR-Maßnahme.“** Einiges davon ist messbar. Die Arbeit zum [[llm-unlearning-math-privacy|Mathe-Unlearning]] wendet gradientenbasiertes Unlearning an, um identifizierende Informationen und schädliche Inhalte zu entfernen, und berichtet PII-Ausgaben bis hinunter zu **0,1%** und Toxizitätsraten bis **0,0%** bei erhaltener Fähigkeit. Kontrollen auf Modellebene sind eine Schicht einer geschichteten Verteidigung — allein unzureichend und nicht nichts.
-
-## Verbundene Konzepte
-- [[guardrails]] — die Gestaltungsmechanismen, die Sicherheit implementieren
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Verbundene Artikel
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Das SCAFFOLD-Framework zur Steuerung des Studierenden-KI-Dialogs, mit seinem Klassenraum-Pilot
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Von Lehrkräften gestaltete Sicherheitsschichten: Domänengrenzen, Filterung und Übersteuerung
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: ein Gestaltungsrahmen für sichere und solide KI für das Lernen
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

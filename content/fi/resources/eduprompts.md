@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -49,7 +50,3 @@ K–12-opettajille, opetuksen valmentajille ja opetussuunnitelmien suunnittelijo
 Nimenmuutos on käynnissä oleva siirtymä, ei valmis. Google ilmoitti syyskuussa 2026, että Skills korvaa Gemsin, ja Gemsin tuki päättyy vaiheittain: henkilökohtaiset tilit marraskuussa 2026, Workspace-yritys-, enterprise- ja voittoa tavoittelemattomat asiakkaat maaliskuussa 2027 ja Workspace-koulutusasiakkaat kesäkuussa 2027. Google kertoo, että olemassa olevat Gemsit siirtyvät automaattisesti Skillseihin, ja Skills käynnistetään nykyään kirjoittamalla `/` ja nimi Geminin kehotepalkkiin. Tämän sivuston linkit osoittavat edelleen `/gem/`-polkuihin, joten kirjanmerkki voi ohjautua uudelleen tai katketa muunnoksen edetessä — tarkista, että kehote avautuu, ennen kuin laitat sen kurssille.
 
 Kaksi käyttöoikeustosiasiaa kuuluu jokaiseen käyttöönottopäätökseen. Skills on saatavilla kaikilla Googlen AI-tilauspaketeilla, mutta käyttöönotto on toistaiseksi 18+, ja alle 18-vuotiaiden pääsyä kuvataan sanoin "tulossa pian"; kopiointi vaatii Google-tilin ja Geminin, joten tämä ei ole anonyymi työkalu opiskelijoille. Kirjasto on kuratoitu kehotekokoelma, ei validoitua opetusta: jokainen merkintä on lähtökohta, jonka tuotos vaatii vielä tarkistamista, ja kokoelman laatuväitteet ovat kuraattorin omia. Avointa lisenssiä ei ilmoiteta, joten kehotteita voi kopioida ja mukauttaa Geminissä, mutta kirjasto ei ole jotain, jonka oppilaitos voisi haarauttaa ja ylläpitää itse.
-
-## Liittyvät käsitteet
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

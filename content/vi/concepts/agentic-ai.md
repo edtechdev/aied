@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -182,62 +184,3 @@ AI tác tử không phải là thuốc vạn năng cũng không phải là tổn
 **"Các hệ thống tác tử trong giáo dục có nền tảng sư phạm vì nhà nghiên cứu giáo dục xây dựng chúng."** Bằng chứng nói khác: một tổng quan phạm vi cho thấy chỉ **29% các nghiên cứu về AI tác tử (138 trong 474)** neo rõ ràng hệ thống của mình trong lý thuyết giáo dục. Sự chia tách ngành giữa công trình định hướng kỹ thuật và công trình định hướng sư phạm là điều kiện của lĩnh vực, không phải sự sơ suất của một tác giả cá nhân, nên một bản demo chạy được là đầu ra được mong đợi, còn một bản demo chạy được *cho việc học* là trường hợp thiểu số.
 
 **"Một tác tử cá nhân hóa và làm sâu sắc việc học là lợi ích ròng so với chatbot."** Nó mang theo một sự đánh đổi cụ thể: các hệ thống tác tử đe dọa [[agency|quyền chủ động]] và mời gọi [[cognitive-offloading|đẩy bớt]] nỗ lực nhận thức mà việc học phụ thuộc vào, và bằng cách làm nhiều bước mà không có giám sát, chúng khiến việc đẩy bớt đó khó nhận ra hơn. Căng thẳng giữa tự động hóa và việc học là vấn đề phân tích trung tâm của phạm trù này, không phải một lưu ý gắn thêm vào các lợi ích của nó.
-
-## Khái niệm liên quan
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Bài viết liên quan
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — Chấm bài bằng tác tử trên 60 bài thi viết tay: r = .97 tổng thể, kappa giảm còn .65 ở các mục đánh giá
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Các tác tử tổ chức quanh một chương trình năng lực có thể sửa đổi, với một "Nút Con người" mang bằng chứng của người học (Fan và cộng sự 2026)
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Quyền tự chủ, năng lực, sự kết nối và hiện diện xã hội như những con đường từ AI tác tử đến sự tham gia (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — Tác tử AI, đánh giá vui vẻ và không gian thứ ba
-- [[ilieva-agentic-genai-higher-education-2026]] — Khuôn khổ AGAI-HE: GenAI tác tử có giới hạn, có con người giám sát trong giáo dục đại học (Ilieva và cộng sự 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Tổng quan tích hợp phê phán giới thiệu khuôn khổ bằng chứng/giám sát AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Quan điểm về hệ sinh thái AI đa tác tử hòa nhập trong giáo dục đại học
-- [[baradziej-agentic-ai-higher-education-2026]] — Tổng quan hệ thống về các vai trò của AI tác tử trong giáo dục đại học (48 nghiên cứu; sáu vai trò; khuôn khổ tích hợp có trách nhiệm ba phần)
-- [[kostopoulos-agentic-ai-education-2025]] — AI tác tử trong giáo dục: hiện trạng và các hướng đi tương lai (khảo sát IEEE Access; định nghĩa vận hành + phân loại)
-- [[agentic-ai-education-scoping-review]] — Tổng quan phạm vi về AI tác tử trong giáo dục (474 nghiên cứu)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Căng thẳng giữa tự động hóa và việc học
-- [[tool-invariant-framework-agentic-ai]] — Dạy và đánh giá các phương pháp tính toán trong thời đại AI tác tử
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: đánh giá chuẩn các tác tử thiết kế giảng dạy
-- [[adversarial-stress-testing-role-playing-agents]] — Kiểm thử căng thẳng đối kháng các tác tử nhập vai
-- [[ai-agents-constructive-conflict-design-education-2026]] — Các tác tử AI xung đột mang tính xây dựng trong giáo dục thiết kế
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK của giáo viên và các quy trình đa tác tử
-- [[code-gen]] — Các tác tử sinh mã
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Chuẩn đánh giá các tác tử LLM sư phạm
-- [[guided-llm-scaffolding-independent-learning]] — Giàn giáo LLM có hướng dẫn cho học tập độc lập
-- [[learnmate2-llm-adaptive-learning]] — Các tác tử học tập thích ứng LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Các tác tử học an ninh mạng theo trò chơi hóa
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — AI tác tử trong mô phỏng lâm sàng
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Sinh viên ma và khoảng trống kiểm chứng của AI tác tử (Bozkurt và cộng sự 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Tác tử AI hoàn thành nhiệm vụ LMS; thất bại tính hợp lệ qua giả định sản xuất bởi con người (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — Tác tử web AI: một tác tử mô tả như người đánh giá trải nghiệm học tập (dự đoán bỏ học, đưa phản hồi thiết kế trước khi sinh viên tham gia)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD với tác tử AI trong PBL phần mềm; tự động hóa so với hiểu biết
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Đánh giá Hệ thống Đa tác tử LLM định hướng giàn giáo cho đào tạo phỏng vấn lâm sàng
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Các tác tử đào tạo đạo đức: tạo điều kiện cho giáo dục đạo đức theo nhóm với nhập vai và thảo luận để phản tư và khám phá đạo đức
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — So sánh các cách tiếp cận AI cho việc trích xuất kỹ năng tự động: từ nhúng đến các hệ thống tác tử cho giáo dục kỹ thuật

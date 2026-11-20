@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -112,37 +114,3 @@ Dowody na kapitulację jako nazwany konstrukt opierają się w dużej mierze na 
 **„Lekarstwem jest lepsza SI, bo kapitulacja wynika z błędów."** Kapitulacja wynika ze *struktury* interakcji: system, który najpierw produkuje wiarygodną odpowiedź, usuwa okazję, by uczeń wytworzył własną. Poprawa trafności zmniejsza szkodę z błędnych odpowiedzi i nie robi nic z porzuceniem formowania osądu, czyli ze szkodą, która trwa po zniknięciu narzędzia.
 
 **„Nauczanie krytycznej oceny wystarcza."** Jest konieczne i przychodzi za późno. Gdy wiarygodna odpowiedź jest już na ekranie, ocena staje się potwierdzaniem - dlatego literatura projektowa umieszcza tu próbę studenta przed wynikiem systemu, a nie audyt po fakcie.
-
-## Połączone koncepcje
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Połączone artykuły
-
-- [[shaw-nave-cognitive-surrender-2026]] — Teoria Trzech Systemów i eksperymentalna sygnatura kapitulacji
-- [[generative-ai-reduced-study-time-math]] — przemieszczenie na poziomie populacji w ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — ramy kapitulacja/odciążanie/sprawczość w PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — pomoc instrumentalna wobec pomocy niosącej osąd
-- [[ai-advice-suppresses-ikt-suspension-2026]] — załamanie „nie wiem"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — zaangażowanie neuronowe i autorstwo
-- [[genai-thoughtless-use-self-directed-learning-2026]] — bezmyślne użycie a uczenie samokierowane
-- [[stamatoulis-genai-use-patterns-2026]] — przyswajanie o niskiej weryfikacji wobec integracji oceniającej
-- [[cognitive-washout-ai-skill-decay-2026]] — co dzieje się po wycofaniu
-- [[ai-overreliance-complex-adaptive-system-2026]] — poleganie jako proces populacyjny
-- [[brcic-effortless-trap-productive-struggle-2026]] — rozmieszczenie SI tak, by zadanie pozostało wysiłkowe
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — trening kalibracji
-- [[family-school-autonomy-support-genai-2026]] — odciążanie zależne wobec autonomicznego
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asystent oparty na arkuszu obniżył odciążanie, zamiast je podnosić: warunek graniczny dla sygnatury kapitulacji (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistyczne delegowanie całego eseju: 15 z 77 esejów w całości napisanych przez model, 20 próśb o kompletny esej (Jelson i wsp. 2026)

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -43,7 +44,3 @@ Wykładowcy i badacze ze szkolnictwa wyższego, którzy chcą wdrożalnej wersji
 ## Uwagi
 
 Licencja Apache 2.0, wersja 1.6.9 na wrzesień 2026, z około 40 000 gwiazdek na GitHubie. Opublikowana ewaluacja, na której się opiera — średnia poprawa o 10,8% na metrykach personalizowanych wobec silnych punktów odniesienia i o 29,4% mocniejsze ogólne rozumowanie agentowe w pięciu modelach bazowych, na benchmarku TutorBench — jest streszczona na [[zhao-deeptutor-agentic-personalized-tutoring-2026|stronie artykułu]], którego ograniczenia obowiązują również tutaj. Jak w każdym otwartoźródłowym stosie SI, klucze dostawców modeli dostarcza się samodzielnie, a wdrożenie desktopowe lub serwerowe wymaga Pythona 3.11 i Node.
-
-## Powiązane pojęcia
-
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

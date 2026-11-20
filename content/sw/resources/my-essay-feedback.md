@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,12 +48,3 @@ Waalimu wa uandishi wa mwaka wa kwanza na idara za Kiingereza zinazotaka maoni y
 ## Vidokezo na tahadhari
 
 Tovuti inaripoti wanafunzi 12,000+, kozi 700+ na insha 41,000+ zilizopitiwa — takwimu zinazoripotiwa na muuzaji, si ukaguzi huru. Utiifu wa FERPA, utayari wa GDPR na upatikanaji pia ni madai ya muuzaji mwenyewe; insha hupitia Azure OpenAI, na tovuti inasema hazitumiki kufunza modeli, jambo ambalo wilaya inapaswa kulithibitisha katika makubaliano ya usindikaji wa data badala ya kulichukua kutoka ukurasa wa masoko. Bei ni freemium na hubadilika kwa hadhira: muhula wa kwanza bure kwa waalimu wapya (kwa ombi, ukiwa mdogo kwa watatu kwa shule), takriban \$12–15 kwa mwanafunzi kwa muhula baadaye, na daraja la kulipia kwa kila mapitio kwa wanafunzi binafsi likiwa na mapitio ya kwanza bure. Jedwali la ulinganisho na ChatGPT Plus, Packback na Grammarly ni la muuzaji mwenyewe. Ushirikiano na UC Davis katika mradi wa PAIRR ni ushirikiano wa utafiti, si ushahidi uliochapishwa kwamba jukwaa huboresha uandishi.
-
-## Dhana zinazohusiana
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

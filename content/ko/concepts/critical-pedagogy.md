@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -71,7 +73,6 @@ ai_assist:
 - AI 리터러시를 도구에 대한 능숙함만이 아니라 그 체계에 대한 심문으로 다루십시오.
 - 정당화를 평가 가능한 산출물로 만드십시오. [[benali-genai-academic-writing-2026|Benali와 Díaz García(2026)]]의 초안 작성·수정·성찰 워크플로를 24개 조의 4학년 학생 96명과 함께 사용한 한 강좌 단원에서, AI는 연구 제안서의 두 절로 국한되었고 받아들여지거나 거부된 모든 AI 제안은 서면으로 정당화되어야 했습니다. 학생들의 성찰 보고서는 초안 작성이 아니라 그 검증 작업이 비판적 태도를 만들어 냈다고 기술하며, 그래서 평가해야 할 것은 판단의 기록입니다.
 
-
 **개발자와 관리자를 위하여**
 
 - 비판적 교수법은 기능 목록이 아니라 여러분의 유인 구조를 심문할 것이라고 예상하고, 기본 산출물이 누구의 지식을 부호화하는지에 답하십시오.
@@ -89,34 +90,3 @@ ai_assist:
 **"비판적 교수법은 실천 바깥에서 던지는 비판이다."** 그것은 교육자의 역할에 대한 입장입니다. 누가 이익을 얻는지, 누구의 지식이 특권을 받는지, 학교가 권력을 어떻게 재생산하거나 저항하는지 묻는 것입니다. AI 도입에 적용하면, 조달을 형성하는 기업적·자본주의적 논리를 심문하는 일이 되며, 이는 추상적인 기술에 대해서만이 아니라 교수자가 자기 기관의 선택에 대해서도 던질 수 있는 질문입니다.
 
 **"주변화된 인식론을 중심에 두는 것은 교육과정 내용을 더하는 일이다."** 그것은 어떤 지식이 지식으로 인정되는지를 바꾸는 일이며, 이는 읽기 자료를 하나 더하는 것이 아니라 교육과정의 구조에 관한 질문입니다. 내용을 더하는 것은 틀을 그대로 두지만, 비판적 교수법의 주장은 그 틀 자체를 향합니다.
-
-## 연결된 개념들
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — 포괄 개념: AI 교육에서의 교수법과 교수 전략
-
-## 연결된 글들
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — 인권 교육, 성찰적 실천, 전문 형성으로서의 AI 거버넌스 가르치기(Kasa-Mälksoo 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 비판적 AI 리터러시 교수법으로서의 멀티모달 작문
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 기술만능주의적 GenAI 건설적 정합성 조언에 대한 비판적 담론 분석
-- [[benali-genai-academic-writing-2026]] — 학술 작문 강좌에서 정당화를 강제한 수정: AI는 제안서 두 절로 한정되고, 받아들여지거나 거부된 모든 제안은 서면으로 기록되었습니다(Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — 과학 교육의 "AI 식민화"에 대한 비판적·여성주의적 비판
-- [[li-mroziak-reorienting-critical-ai-literacy]] — 비판적 AI 리터러시의 공동체에 뿌리둔 실천으로서의 "AI에 저항하기"
-- [[ojeda-ramirez-community-based-ai-learning]] — 공동체 기반 학습을 통한 AI의 인식론적 권위 재분배
-- [[raffaghelli-situated-ai-ethics-2026]] — AI 윤리를 위한 상황적·문화사적·생태적 틀
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 인문학에서 해석적 인지를 위한 발달-비판 모델
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 사회주의 인본주의 AI 리터러시 + 공정 이용
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 지속 가능한 교육과 AI에 대한 가치 비판적 접근(Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — 학습자의 번영을 향한 생성 AI 설계의 해방적 비전
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 프레이리, 구성주의, 배려의 윤리에 세워진 인간 중심 GenAI 활용 틀
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 남반구의 학술 개발에 적용된 비판적 디지털 교수법과 탈식민지 인식론

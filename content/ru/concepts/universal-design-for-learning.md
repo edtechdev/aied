@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -95,34 +97,3 @@ UDL превращает «исправить учащегося» в «испр
 **«UDL означает более тщательное проектирование для среднего студента».** Основное утверждение противоположно: изменчивость учащихся — норма, а не исключение, поэтому проектирование с самого начала даёт много путей вместо исправления одного пути для тех, кому трудно. Доработка задним числом — то, что UDL существует, чтобы заменить, и единственный хорошо настроенный путь остаётся единственным путём.
 
 **«ИИ делает UDL автоматическим, поскольку может генерировать альтернативные форматы».** Он делает принцип представления дешёвым и оставляет вовлечение и выражение нетронутыми. Преобразование текста в аудио адресует одно из трёх средств; курс теперь может быть полностью многоформатным и всё же требовать от каждого студента демонстрировать обучение одним и тем же единственным способом.
-
-## Связанные концепции
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Зонтичная концепция: педагогики и стратегии преподавания в образовании с ИИ
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Связанные статьи
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Когнитивное переложение нагрузки на GenAI для студентов с нарушениями обучаемости
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Тактильные статистические графики для доступности
-- [[neurodivergent-computing-students]] — Нейроотклоняющиеся студенты-вычислители
-- [[ai-learning-tools-engineering-education-needs]] — Проектирование инструментов обучения на основе ИИ с учётом потребностей и внимания
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — «AI is reducing options I had used»: взгляды преподавателей на проектирование доступных курсов в мире ChatGPT
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Искусственный интеллект и универсальный дизайн для обучения в высших учебных заведениях Кувейта: к ИИ-ориентированному фреймворку инклюзивного образования

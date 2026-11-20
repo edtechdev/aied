@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -112,40 +114,3 @@ Los resultados de educación media ya existen: entre 178 estudiantes indonesios 
 **«Un [[intelligent-tutoring|tutor adaptativo]] ayuda por igual a todos los niveles.»** La comparación que aísla la variable es ilustrativa: dos versiones del mismo tutor de matemáticas de segundo grado —contenido, interfaz, retroalimentación y pistas habladas idénticos— que solo diferían en si la selección de tareas seguía un modelo bayesiano de [[knowledge-tracing|seguimiento del conocimiento]]. La selección adaptativa de tareas es una intervención sensible al nivel, y su beneficio depende de si quienes aprenden en ese nivel pueden actuar sobre la adaptación.
 
 **«La evidencia concentrada en educación superior se generaliza hacia abajo.»** No lo hace, y la distribución de la literatura es una advertencia y no una comodidad. Dónde la evidencia es densa y dónde escasa es una propiedad de la economía de la investigación, no de dónde se usa más la IA, así que una afirmación sobre K-12 extraída de muestras universitarias es una extrapolación a través de la frontera que más importa.
-
-## Conceptos conectados
-- [[primary-education]] — La banda de primaria por derecho propio
-- [[secondary-education]] — Educación media y secundaria juntas
-- [[undergraduate-education]] — Trabajo de curso bajo juicio externo
-- [[graduate-education]] — Supervisión, formación investigadora y programas profesionales
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Artículos conectados
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Tutoría adaptativa frente a no adaptativa en matemáticas de segundo grado (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y planteamiento de problemas con estudiantes de tercer grado en ciencias de primaria
-- [[chatgpt-music-education-junior-high-2026]] — Actitudes de estudiantes de secundaria básica hacia ChatGPT para el aprendizaje de letras de canciones (Weng y Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — Un LMS integrado con IA diseñado para educación media, con un estudio longitudinal propuesto
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La penalización en el aprendizaje de la IA generativa en la educación secundaria china (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Cuatro tipos de dependencia de los LLM entre escritores de grado (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Plataforma de seminario asistida por IA con apoyo bibliotecario integrado para estudiantes de ingeniería
-- [[ai-mediated-research-agency-formation-2026]] — Dependencia de la IA, autonomía e innovación en la formación doctoral y posdoctoral (Han y Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Opiniones de las partes interesadas sobre privacidad de datos en la educación superior africana (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Preparación para la adopción de la IA de los gestores educativos en Ucrania (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Aprendizaje basado en proyectos inmersivo con IA para estudiantes de diseño en formación profesional (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Intención de los docentes de preescolar de usar la IA en entornos de primera infancia
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Actitudes de los niños hacia un chatbot de IA adaptado por edad
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 estudios de primaria; cuatro componentes, incluidos ética y alfabetización crítica de datos (Yim y Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 estudios de secundaria; la precisión se desploma en ítems de orden superior (Pérez-Montesdeoca et al. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1.477 respondientes de secundaria, universidad y profesorado; aprendizaje percibido frente a implicación
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 estudiantes de grado y posgrado; la alfabetización digital predijo el rendimiento, la ética no
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Comparación entre grado y posgrado; la brecha de ética y autonomía es la más amplia (Zaripova et al. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modelo de alfabetización en IA generativa de posgrado con cinco dimensiones

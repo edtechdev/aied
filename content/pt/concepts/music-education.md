@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -72,26 +74,3 @@ Os estudos em sala de aula se concentram em motivação, e não em desempenho. [
 - **"O feedback de IA substitui o ouvido do professor."** O estudo de afinação removeu o professor e melhorou a afinação, mas seus autores chamam a ferramenta de complementar e mediram uma habilidade ao longo de quatro semanas; Li argumenta explicitamente que desvio medido não é o mesmo que coordenação incorporada.
 - **"Ferramentas de áudio generativo ensinam composição."** A distinção de Briot entre geradores autônomos e assistentes interativos é o contra-argumento: o caminho do prompt à peça posiciona os estudantes como consumidores da saída, e só sistemas com imposição de restrições e aprendizagem de estilo funcionam como parceiros.
 - **"Se a pontuação automatizada coincide com as médias dos professores, está pronta."** A concordância na média pode esconder discordância por dimensão, e é por isso que Lin et al. recomendam validação por critério e supervisão humana.
-
-## Conceitos conectados
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## Artigos conectados
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot (2026): desmaterialização, pagamentos por streaming e a distinção entre gerador autônomo e assistente interativo
-- [[ai-feedback-violin-intonation-2026]] — Doze violinistas, quatro semanas de análise de afinação por IA sem professor, afinação subindo de 144,75 para 207,33
-- [[ai-vocal-pedagogy-2026]] — Li (2026): desvio de afinação mensurável não é coordenação incorporada
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Quatro instrumentistas de cordas cegos e com baixa visão; pistas táteis e cinestésicas substituindo a demonstração visual
-- [[gpt4o-mini-music-analysis-scoring]] — 300 respostas de análise musical; cadeia de pensamento few-shot mais próxima das médias dos professores, RAG superpontuando, mais fraco em terminologia
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 34 estudantes de musicologia em um quiz gamificado de IA: o formato os dividiu mais que o conteúdo
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Alinhamento cross-modal entre áudio e partitura, 91,2% de revocação no erro de ritmo, 120 participantes melhorando mais rápido
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 850 universitários, cinco ondas: engajamento, flow e inteligência emocional como crescimento paralelo
-- [[chatgpt-music-education-junior-high-2026]] — 508 estudantes dos anos finais do ensino fundamental de Taiwan sobre o ChatGPT para aprender letras de música
-- [[middle-school-genai-steam-interactions-2026]] — Doze estudantes do 8º ano em um módulo STEAM de matemática e música

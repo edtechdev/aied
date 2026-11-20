@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -80,36 +82,3 @@ La TRT es un fundamento de la [[educational-measurement|medición educativa]] y 
 - **«Un referente que la mayoría de los modelos supera es un buen referente.»** Un referente alineado con estándares puede **saturarse**: en conjuntos de ciencias de secundaria y bachillerato alineados con los NGSS, **la mayoría de los modelos de pesos abiertos puntuaron por encima del 90%**, lo que dejó pobres las métricas clásicas de ítem. La saturación no significa que los modelos sean excelentes; significa que los ítems ya no discriminan.
 - **«La dificultad de un ítem es una propiedad intrínseca del ítem.»** Una sonda causal que **editó 50 preguntas de la prueba por conjunto de datos** en dirección a una hipótesis o en su contra encontró que **las ediciones que aumentaban la dificultad redujeron la precisión media en 15,27 y 23,88 puntos porcentuales** en GSM8K y en BBH-structured. La dificultad es una relación entre el ítem y el modelo, y se mueve cuando el ítem se mueve.
 - **«La TRT sirve solo para puntuar a quien aprende.»** [[assessing-quality-ai-generated-exams-field-2025|Evaluar la calidad de exámenes generados por IA]] usa un **modelo 2PL jerárquico bayesiano con ítems ancla de pretest para situar a 1.686 estudiantes**, lo que es aseguramiento de la calidad de la propia evaluación y no puntuación del estudiante.
-
-## Conceptos conectados
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Artículos conectados
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Un marco de respuesta unificado para preguntas y diálogos de tutoría
-- [[item-writing-flaws-irt-difficulty-2026]] — Impacto de los defectos de redacción de ítems en la dificultad y la discriminación de la TRT (Schmucker y Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado
-- [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo para las personas y para los LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validación de campo de TRT a gran escala de exámenes generados por IA
-- [[jin-glat-genai-literacy-assessment]] — GLAT usa validación con TRT/2PL (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — Predicción de la dificultad de los ítems con LLM
-- [[llm-psychometric-calibration-cdp]] — Alinear la evaluación con LLM con la calibración psicométrica
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibración de dificultad con LLM en exámenes de programación
-- [[multimodal-item-parameter-estimation-2026]] — Estimación multimodal de parámetros de ítems
-- [[huang-interpretable-knowledge-tracing-2026]] — Trazado de conocimiento interpretable
-- [[irt-human-genai-mcq-responses]] — Usar la TRT para separar respuestas humanas y de IA generativa en opción múltiple
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimar la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Más allá de las incrustaciones de identificador: modelado del lenguaje anclado en el proceso para el diagnóstico cognitivo
-- [[bayesian-consensus-irt-item-banks-2026]] — Calibración por consenso bayesiana de un banco de ítems de TRT en evolución continua (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoría de campo que muestra que la TRT/Rasch rara vez se usa como evidencia principal de validación en los instrumentos de alfabetización en IA del profesorado
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
-- [[explaining-question-difficulty-natural-language-2026]] — Explicar la dificultad de las preguntas de LLM en lenguaje natural mediante TRI y ediciones causales (Cui et al. 2026)
-- [[llm-benchmark-secondary-science-topics-2026]] — Un referente alineado con estándares puede saturarse

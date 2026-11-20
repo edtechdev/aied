@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -94,43 +96,3 @@ AI 사용 및 공개는 [[academic-integrity]](그의 근본이 되는 우려), 
 - **"학생들이 AI 사용을 숨기는 것은 부정직하기 때문이다."** 그 동인은 문서화되어 있고 구체적입니다. **경제학 학생의 약 34%만이 AI 사용을 인정**했고 공개는 더 드물었으며 **처벌 불안**이 이를 이끌었고, 다른 연구는 **66%가 전혀 또는 거의 공개하지 않았으며 학문적 제재에 대한 두려움이 가장 큰 이유**라고 발견했습니다. 자료가 지목하는 것은 성품이 아니라 정책 설계입니다.
 - **"공개 요구는 비용이 낮은 통제다."** **74%의 미준수율**은 그 결과물을 아무 기록도 없는 것보다 나쁘게 만듭니다. 완전해 보이지만 그렇지 않은 자료이므로, 기관은 신뢰할 수 없는 표본으로 결정을 내리고 있는 것입니다.
 - **"모형이 어떻게 쓰였는지만 공개하면 충분하다."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk(2026)]]은 공개가 모형 사용을 기록할 뿐, 책임 있는 사용은 주장 수준의 저자적 보증, 즉 기여자가 그 주장을 이해하고 정당화하고 방어할 수 있는 역량을 요구한다고 논합니다. 산출물이 실질적 선택을 형성하는 [[cognitive-offloading|인지적 위임]]과 그렇지 않은 일상적 위임을 구분하는 것입니다.
-
-## 연결된 개념
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — 공개가 가시적으로 만들고자 하는 해악
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — 학습자가 공개하지 않고 숨기기로 선택하는 이유
-
-## 연결된 문서
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM 분해: 적발 확신 대 공개가 부적절한 사용을 드러낼 위험(Liu 등 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 탐지를 넘어서: 학생이 온라인 평가에서 AI를 쓰고 숨기는 방식
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 학생의 AI 공개, 낙인, 그리고 자기규제 학습
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 공개의 숨겨진 대가: 공개와 교수진의 고발
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI 사용 선언에 대한 학생의 미준수
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 탐지가 아니라 교육으로서의 선언
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 평가에서 설계 기준으로서의 정직의 대가
-- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
-- [[qian-governing-genai-higher-ed-policy-2026]] — 혁신적인 미국 대학 50곳에 걸쳐 지원과 허위 표시 사이의 경계로서의 공개(Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 법학전문대학원 정책에서 공개와 AI 인용에 관한 합의의 부재(Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI로 쓴 입학 에세이는 만연하지만 불이익을 받는다
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — 13개의 실험: AI 사용을 공개하는 것이 정당성을 통해 공개자의 신뢰성을 떨어뜨린다
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 거울 방향: AI가 학생의 작업을 채점할 때 그것을 알리고, 업로드 전에 동의를 구하기
-- [[authorial-warrant-ai-supported-scholarship-2026]] — 공개 규칙만으로 충분하지 않을 때: AI 지원 학술에서의 저자적 보증과 판단(Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI 공개 라벨, 인지된 진정성, AI 생성 교수 영상에 대한 신뢰
-- [[benmessaoud-genai-course-materials-faculty-2026]] — 강의 자료 속 생성형 AI: 교수의 사용과 인식

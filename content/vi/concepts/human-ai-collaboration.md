@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -97,69 +99,3 @@ Hợp tác người–AI kết nối với [[human-in-the-loop-ai]] (giám sát)
 - **"Hợp tác nghĩa là AI làm một phần công việc."** **Người học giữ vai trò quyết định**, và điều này mở rộng sang viết lách: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash và Connell Pensky (2025)]] cho thấy nó đúng khi cách sắp xếp được thiết kế cho điều đó. Phân chia lao động không phải hợp tác trừ khi con người giữ được phán đoán.
 - **"AI là bên giải thích trong một cách sắp xếp đảo ngược."** **Sinh viên dạy AI giải thích tốt hơn** — định nghĩa lớp học đảo ngược ở **M = 4.18 so với 3.29**, các hoạt động giảng dạy ở **M = 4.91 so với 3.06, cả hai p < 0.001**. Việc học tích lũy về phía người giải thích.
 - **"Đóng góp của con người và AI là những vật thay thế."** Hai nghiên cứu năm 2026 lập bản đồ những **nửa bổ trợ** của hợp tác trong lớp học, điều này định khung vấn đề thiết kế như sự phân bổ chứ không phải sự thay thế.
-
-## Khái niệm liên quan
-- [[pedagogical-partnerships]] — Quan hệ đối tác sư phạm
-- [[community-of-inquiry]] — Cộng đồng điều tra (các hiện diện như thành tựu xã hội-kỹ thuật người–GenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Giáo dục hóa học và AI: phòng thí nghiệm, đánh giá định hình, giới hạn của LLM, triết học thực nghiệm
-- [[biology-education]] — Giáo dục sinh học và AI: trợ giảng phòng thí nghiệm, năng lực AI trong sinh học, tư duy phản biện, công cụ chuyên biệt
-- [[human-in-the-loop-ai]] — giám sát
-- [[agentic-ai]] — tự chủ
-- [[productive-failure]]
-
-## Bài viết liên quan
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Ba vai trò tác tử trong một trò chơi khoa học tự sự, và tiêu chí đánh giá mà mỗi vai trò cần (Humburg và cộng sự 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Làm việc theo cặp với một hệ thống đa tác tử GenAI thắng dự án thiết kế trong khi nhận thức tư duy phản biện chỉ tăng ở những người làm một mình (Chu và cộng sự 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Tranh luận đa tác tử với câu trả lời ưu tiên bị giữ kín làm giảm việc phó mặc cho lời khuyên AI sai, nhưng không theo hướng khắc phục
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: năng lực hợp tác như một cấu hình động của năng lực ngành học, AI và siêu nhận thức, với quyền chủ động của người học mang tính nổi lên (Dang và cộng sự 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Giáo viên trung học thiết kế chatbot lớp học như những chuyên gia có giới hạn dưới sự giám sát của con người
-- [[ai-integration-instructional-design-collaboratory-2026]] — Mười hai triển khai khóa học trong đào tạo giáo viên coi tích hợp AI là một vấn đề thiết kế giảng dạy
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: thử nghiệm ngẫu nhiên có đối chứng đầu tiên về việc mở rộng chuyên môn người–AI cho gia sư mới vào nghề
-- [[think-first-chatgpt-later-2026]] — Suy nghĩ trước, ChatGPT sau: sáng tạo độc lập của con người
-- [[principal-trait-analysis-human-ai-skills-2026]] — Các "đặc điểm" dựa trên dữ liệu của hợp tác người–AI
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Các mẫu hình tương tác giáo viên-AI trong thiết kế bài học theo kinh nghiệm và năng lực AI (Choi và cộng sự 2026)
-- [[tang-chatbots-learning-design-2026]] — Nhà thiết kế dùng một chatbot nhúng để kiểm tra sự ăn khớp với chuẩn đầu ra và sư phạm, không phải để tạo nội dung
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Từ thay thế đến giàn giáo: phá vỡ chu trình tổn hại tự củng cố
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI sinh tạo như một tác nhân trung gian
-- [[conversational-ai-agents-umbrella-review-2026]] — Tổng quan ôm trùm về các tác tử AI hội thoại trong giáo dục
-- [[ai-overreliance-complex-adaptive-system-2026]] — Sự phụ thuộc quá mức vào AI được mô hình hóa như một hệ thống thích ứng phức hợp
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Bạn đồng hành AI thích ứng vai trò cho trò chuyện về sách ở tiểu học; trần cảm xúc của các tác tử vai trò cố định (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Đồng thiết kế nhiệm vụ học tập giữa giáo viên và AI: xu hướng và viễn cảnh (Wang và cộng sự 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI như tác tử và không gian cộng tác trong động lực nhóm nhỏ (Xu và cộng sự 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Đánh giá hệ thống mô hình ngôn ngữ lớn đa tác tử định hướng giàn giáo cho đào tạo phỏng vấn lâm sàng
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Các tác tử đào tạo đạo đức: tạo điều kiện cho giáo dục đạo đức theo nhóm bằng đóng vai và thảo luận để phản tư và khám phá đạo đức
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: tự động hóa, tăng cường và hợp tác như một chuỗi liên tục của việc giao nhiệm vụ
-- [[bounded-reliance-ai-writing-feedback-2026]] — Sự phụ thuộc có giới hạn: góc nhìn độ tin cậy nguồn về sự tham gia của sinh viên EFL với phản hồi viết do AI tạo
-- [[human-ai-collaboration-academic-writing-2026]] — Quy trình viết EFL có cấu trúc năm phần; các thói quen kiểm chứng và sử dụng có trách nhiệm dẫn dắt mức tăng viết theo cặp và tư duy phản biện số
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Đảo ngược vai trò: sinh viên dạy một người học mới GAI, vượt trội so với bạn học đặt câu hỏi cho một giáo viên GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — Kiểu hỗ trợ định hình chiến lược sửa bài và điểm số, nhưng không chiến lược nào dự báo mức tăng; lợi ích GenAI có thể đặc thù nhiệm vụ
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Người điều phối tranh luận là con người so với AI được đánh giá tương đương; tính hữu dụng so với sự hài lòng dẫn dắt việc quay lại theo cách khác nhau
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Nghiên cứu bài học xây năng lực của nhà đào tạo giáo viên để thiết kế tương tác AI đối thoại; tạo prompt như tư duy sư phạm
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Năm kiểu vướng mắc sinh viên–GenAI, và vì sao những kiểu phân phối quyền tác giả vẫn ở biên (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Các con đường đối lập của hợp tác giáo viên–AI đến sự tham gia công việc qua sự sẵn có tâm lý và sự tha hóa công việc, bị giới hạn bởi năng lực số
-- [[wang-agentic-translation-education-2026]] — Giao thức thiết kế chuyển hướng đào tạo biên dịch viên về các năng lực điều phối AI, phán đoán chiến lược và đánh giá phản biện (chưa có dữ liệu thực nghiệm)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Một cảnh báo cảm xúc là tín hiệu để giáo viên diễn giải, không phải chỉ thị để tuân theo
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Thâm hụt hợp thức hóa quyền tác giả trong đồng sáng tạo người–AI

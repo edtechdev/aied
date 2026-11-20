@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -69,7 +71,6 @@ La [[rag|generazione aumentata da recupero]] (RAG) ancora le risposte del tutor 
 - **QA con il docente nel circuito:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] ha rilevato che i docenti praticamente non testano mai i bot di tutoraggio con IA prima della distribuzione, e impone la QA guidata dai docenti come attività di authoring di prima classe tramite editing basato su correzioni e validazione [[human-in-the-loop-ai|human-in-the-loop]].
 
 - **Gli input degli studenti sono il problema di moderazione, ma solo in minima parte.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] hanno dispiegato una chat strutturata dentro un filtro di sicurezza a due livelli in un ITS di matematica e hanno trovato che solo lo 0,31% dei 54.384 messaggi degli studenti nel dispiegamento sul campo otteneva 0,1 o più sull'API di moderazione di OpenAI, con l'unico segnale ad alto rischio un falso positivo. Le soglie per categoria erano calibrate con red-teaming — 17 educatori e progettisti hanno condotto 57 conversazioni avversariali — prima di diventare politica.
-
 
 - **Solo istruzioni verificabili.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] sottopongono ad audit un agente di riflessione GPT-4o rispetto al proprio prompt di sistema e rilevano che la fedeltà seguiva la verificabilità: le regole meccaniche (un limite di lunghezza delle risposte) venivano rispettate, mentre le regole comportamentali («non adulare», «sfidare con delicatezza») venivano violate in circa la metà dei suoi turni senza alcuna traccia nell'output, e la violazione comportamentale coincideva con esiti peggiori per i partecipanti. L'implicazione progettuale è specificare il comportamento in termini verificabili e sottoporre regolarmente ad audit le trascrizioni, poiché una salvaguardia che non può essere controllata non è affidabile.
 - **Uno strato di affidabilità attorno a un modello che gli educatori non possono controllare.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten e Bardyn (2026)]] circondano un LLM con verifica esterna, riparazione mirata e ripiego sicuro, guidati da un quadro di sviluppo e pedagogia e mantenuti agnostici rispetto al modello e rispettosi della privacy. In un pilota in classe con ragazzi di 12–16 anni che lavoravano con un robot sociale alimentato da LLM in un compito di co-creazione, il prototipo guidato ha ottenuto maggiore attività, [[student-engagement|coinvolgimento]] e partecipazione in tema rispetto a una baseline basata solo su prompt. Il punto architetturale è che la sicurezza può essere applicata *attorno* a un sistema anziché richiedere accesso al suo interno, ed è questo che rende le salvaguardie stratificate distribuibili in contesti [[k-12|K-12]].
@@ -129,46 +130,3 @@ I due sono strettamente accoppiati: quasi ogni tecnica di salvaguardia è un mod
 **"Le soglie delle salvaguardie sono scelte ingegneristiche da mettere a punto."** Una soglia è una decisione di politica con un costo distributivo. Spostare una soglia di tossicità da 0,3 a 0,7 ha ridotto i prompt etichettati dal **35,62% al 12,4%**; su un rilevatore di truffe ha scambiato **15 falsi allarmi e 18 truffe mancate con 2 e 36**. Nessuna soglia elimina il compromesso — decide solo quale errore l'istituzione preferisce, e quella decisione appartiene all'istituzione anziché a una costante di default.
 
 **"L'audit di equità è una preoccupazione separata dall'adeguatezza delle salvaguardie."** I pattern di rifiuto e di supporto distribuiscono il beneficio in modo diseguale anche quando applicati in modo uniforme, e un tasso medio di danno nasconde quali studenti lo assorbono. L'audit deve far parte della specifica della salvaguardia, non essere uno studio commissionato dopo.
-
-## Concetti collegati
-
-- [[pedagogical-safety]] — l'obiettivo che le salvaguardie implementano
-- [[prompt-engineering]] — la tecnica di progettazione «indizio, non risposta»
-- [[rag]] — l'ancoraggio alla conoscenza come salvaguardia
-- [[human-in-the-loop-ai]] — la QA e la supervisione dei docenti
-- [[llm-training-and-fine-tuning]] — lo strato di addestramento e allineamento
-- [[reinforcement-learning]] — modellazione delle ricompense per un comportamento sicuro
-- [[bias-mitigation]] — audit delle salvaguardie per equità
-- [[ai-sycophancy]] — il rischio di manipolazione che le salvaguardie devono respingere
-- [[scaffolding]] — il meccanismo pedagogico che le salvaguardie preservano
-- [[socratic-method]] — una modalità di interazione «indizio, non risposta»
-- [[hallucination-risk]] — il rischio di fabbricazione che le salvaguardie riducono
-- [[cognitive-offloading]] — il danno da dipendenza eccessiva che le salvaguardie prevengono
-- [[k-12]] — il contesto in cui le salvaguardie contano di più
-- [[ethics]] — la base normativa
-- [[governance]] — lo strato di policy
-- [[intelligent-tutoring]] — i sistemi che vengono protetti
-- [[misconceptions]] — le conoscenze errate che le salvaguardie devono verificare
-- [[trust]] — l'esito di salvaguardie ben progettate
-- [[llm]] — lo strato di modello che viene vincolato
-
-## Articoli collegati
-
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms

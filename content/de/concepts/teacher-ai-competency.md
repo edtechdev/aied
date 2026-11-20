@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
+connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -124,7 +126,6 @@ Die PD-Literatur identifiziert wirksame Ansätze:
 - **Unterstützung muss nach Erfahrung und KI-Fähigkeit differenziert werden.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] fanden, dass, wie Lehrkräfte tatsächlich mit KI im Unterrichtsdesign interagieren, vom *Zusammenspiel* von Lehrerfahrung und KI-Fähigkeit abhängt, nicht von einer allein. Erfahrene Lehrkräfte mit hoher KI-Fähigkeit passen KI-Ausgabe kritisch an den Kontext an (Re-Prompting, Elaboration), während Novizinnen und Novizen — selbst technisch flüssige — dazu neigen, KI-Antworten direkt zu akzeptieren und Lernende und Kontext selten zu berücksichtigen. Das spricht für profilbasiertes PD: Antwort-Bewertungs-Checklisten und Prompt-Vorlagen für Novizinnen und Novizen, und praxisnahen Fähigkeitsaufbau für erfahrene Lehrkräfte mit niedrigerer KI-Fähigkeit.
 - **Der Zeitgewinn selbst folgt Erfahrung und Zuversicht, nicht nur dem Unterstützungsdesign.** In [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al.' (2026)]] Trial eines KI-Unterrichtsassistenten war die Verringerung der Arbeitsbelastung größer für Lehrkräfte mit niedrigerem Fachwissensvertrauen, niedrigerem pädagogischem Wissen, geringerer Berufsdauer oder höherem Technologievertrauen. Fähigkeit und Zuversicht sind daher Teil der Wirkung der Intervention, nicht nur Teil ihrer Annahme.
 
-
 Überzeugungskonfiguration ist eine zweite Profilierungsachse: unter 40,680 Lehrkräften in TALIS 2024 verbarg derselbe Nicht-Nutzungs-Status entgegengesetzte Barrieren — 83.3% des Indifferent-Profils nannten pädagogische Vorbehalte, während 66.2% der Measured Endorsement unzureichendes Wissen und unzureichende Fähigkeiten nannten ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). KI-bezogenes professionelles Lernen verfolgte Profilmitgliedschaft konsistenter als Alter oder Bildungsabschluss.
 
 - **Lehrkräfte teilen nicht eine Auffassung von KI.** Eine phänomenografische Studie zu 16 dänischen Hochschullehrkräften fand drei Auffassungen von Lehren-mit-KI und drei von Lernen-mit-KI, sodass ein einzelnes Workshop-Modell nur einen Teil jeder Fakultätsgruppe erreicht ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
@@ -136,7 +137,6 @@ Die PD-Literatur identifiziert wirksame Ansätze:
 - **Institutionelle Unterstützung:** [[educational-development|Professionalisierung]] muss mit institutioneller Infrastruktur ([[educational-policy-ai|Politik]], [[institutional-change-framework-ai|institutioneller Wandel]]) gepaart werden für nachhaltige Übernahme.
 - **Autorenwerkzeuge garantieren keine pädagogische Treue.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] studierten 27 Mittelstufenlehrkräfte, die [[conversational-ai|pädagogische Chatbots]] in Professionalisierungsworkshops konfigurierten, und analysierten Fokusgruppen neben Konfigurations- und Interaktionslogs. Lehrkräfte behandelten den Chatbot als instruktionelles Scaffold, begrenzt durch von der Lehrkraft definierte Regeln, doch die logbasierte Ausrichtung zwischen Absicht und Verhalten war stärker für Responsivität (88.9%) und Persona (81.5%) als für Regeln (70.4%) und Zweck (59.3%). Konfigurierbare Kontrollen allein tragen pädagogische Absicht nicht ins Verhalten, sodass das Ausdrücken, Testen und Verfeinern der Pädagogik eines Chatbots selbst eine Kompetenz ist, die die Autorenwerkzeuge unterstützen müssen.
 - **Unterstützung erreicht Kompetenz über Wissen, nicht über Bereitstellung.** Bei 782 Lehrkräften an 16 chinesischen Schulen hatte die wahrgenommene schulische Unterstützung keinen signifikanten direkten Pfad zur wahrgenommenen KI-Unterrichtskompetenz; der Zusammenhang verlief über AI-TPACK, Selbstwirksamkeit, Resilienz und KI-Angst, wobei AI-TPACK der größte Kanal war ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie und Chen, 2026]]).
-
 
 Ein designbasiertes Gegenbeispiel behandelt Kompetenz als situativ statt als Sprosse auf einer Leiter. [[adaptive-ai-model-teacher-educators-2025|Eyals Designbasierte Studie aus 2025 mit 22 Hochschul-Lehrkräftebildnerinnen und -bildnern]] ließ Teilnehmende fünf veröffentlichte Assessmentrahmenwerke untersuchen und eine Alternative gemeinsam entwerfen, organisiert um drei verbundene Achsen: Kontextpassung (Infrastruktur, soziokulturelle Faktoren, lokale Bedürfnisse, Entwicklungsstufe), berufliche Bedürfnisse (Disziplin, Pädagogik, Leitung, Unterstützung), und dynamische Entwicklung. Das Modell verwirft fixierte Kompetenzstufen und erlaubt nicht-lineares Voranschreiten, und es bringt einen reflexiven Selbstbewertungsfragebogen mit 20 Items mit, bewertet 1 bis 5. Seine Validierung ist [[qualitative-research|qualitativ]] nur, ohne [[quantitative-research|quantitative]] Verlässlichkeitstests, sodass es als Designbeitrag statt als validiertes Instrument steht.
 - **Metaanalytische Schätzung.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] poolten 212 Effektstärken aus 34 Studien und schätzen PD zur KI-Kompetenz von Lehrkräften auf g = 0.76 (95%-KI [0.50, 1.02]), am stärksten für Fähigkeiten (g = 0.91) und am schwächsten für Haltungen und Werte (g = 0.61); die Korrektur für scheinbare Publikationsauswahl senkt die Schätzung auf etwa g = 0.49.
@@ -182,96 +182,3 @@ Fachbereichsleitungen können Kompetenz durch Demonstration bewerten. Selbstausk
 - **„Prompting-Training macht die Materialien von Lehrkräften besser.“** **Prompting-Training kauft Zeit, nicht bessere Materialien**: In einem **vorregistrierten RCT mit 204 Lehrkräften** fanden Appel, Fervers und Piepenburg (2026), dass ChatGPT die **aufgewendete Zeit** verbesserte, während die Materialqualität nicht folgte. Der Effizienzgewinn ist real, und er ist nicht der Qualitätsgewinn.
 - **„Wenn Lehrkräfte einen Chatbot konfigurieren, ist der Fehler eine sachliche Falschaussage.“** **Wenn Lehrkräfte einen Chatbot in natürlicher Sprache konfigurieren, ist der dominante Fehler verlorene Absicht statt falscher Fakten**: Bots **überspringen** den Schritt, den die Lehrkraft meinte. Instruktionsbefolgung scheitert strukturell statt sachlich.
 - **„Technische Fähigkeit ist die entscheidende Ebene.“** **Pädagogisches Wissen ist die entscheidende Ebene**: eine Cross-Level-Studie zur [[ai-education|KI-Bildung]] in der Sekundarstufe [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Die Kompetenz, die das Ergebnis bestimmt, ist die, in die die meisten Fortbildungsprogramme am wenigsten investieren.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[prompt-engineering]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[assessment-validity]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[self-efficacy]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[educational-policy-ai]]
-- [[ai-education]]
-- [[tpack]]
-- [[teacher-education]]
-- [[pedagogy]] — Schirm: Pädagogiken und Lehrstrategien in der KI-Bildung
-
-## Verbundene Artikel
-
-- [[feng-ai-literacy-psychological-dimensions-2026]] — Sechs Dimensionen von KI-Kompetenz bei Lehrkräften, darunter kontextuelles Wissen und kontinuierliche berufliche Entwicklung (Feng & Carolus, 2026)
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 Design-Lehrkräfte: Kompetenzzuwachs und KI-Angst steigen gemeinsam, daher entscheidet Unterstützung statt Training das Ergebnis (Ding et al., 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE-Review über vier Länder: 84 von 194 Staaten führen MIL über technische Fähigkeiten hinaus in Curricula, und menschliche Faktoren entschieden die Ergebnisse in allen vier Systemen (Cerioli, 2026)
-- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 Berufseinsteigende überarbeiteten KI-Unterrichtspläne; die Anpassung war die größte Lücke (Wilcoxen et al. 2026)
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Forschungskompetenz von Chemielehrkräften nach KI-gestützter Professionalisierung: eine Mixed-Methods-Prä-Post-Studie
-- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Lehrkraft-in-the-Loop-Personalisierung von Mathematikaufgaben der Mittelstufe mit ChatGPT (Walkington et al. 2026)
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Welche Lehrkräfte Planungszeit gewannen: niedrigeres Fachwissensvertrauen, niedrigeres pädagogisches Wissen, Berufseinsteigerinnen und Berufseinsteiger oder hohes Technologievertrauen
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Lehrkräfte akzeptieren KI, während sie missverstehen, wie sie funktioniert (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Lehrkraftbereitschaft und technologisch-pädagogische Integration als die am häufigsten berichtete Herausforderung über 54 Mathematikbildungsstudien hinweg (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodale Assessment-Kompetenz: ein einjähriges Programm, in dem Wissen und Kompetenz sich bewegten und Werte nicht
-- [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: ein halber Standardabweichung Zuwachs und negative Zuwächse, die als Rekalibrierung zu lesen sind — Die Wirkung von Professionalisierungsprogrammen auf die KI-Kompetenz von K-12-Lehrkräften: ein systematischer Review und eine Metaanalyse
-- [[ailithub-ai-literacy-case-infrastructure-2026]] — Lehrkräfte taggten ihre eigenen KI-Klassenzimmerfälle und erreichten praktische Kompetenzen bereitwillig, aber gesellschaftliche und ethische selten (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] — Werkzeugauswahl als Ausübung der Handlungsfähigkeit der Lehrenden
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematischer Review generativer KI in K-12-Lehren und -Lernen (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Professionelles Wissen von Lehrkräften in der K-12-KI-Bildung: TAIK vs. TPAIK und Lernen der Lernenden (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lehrkraft-KI-Interaktionsmuster im Unterrichtsdesign über Erfahrung und KI-Fähigkeit hinweg (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Verantwortungsvolle GenAI-Nutzung angehender Lehrkräfte: Implikationen für das Curriculum (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM-Klassenzimmerbeobachtung für die Professionalisierung von Lehrkräften (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative KI über Repräsentationen, Dekompositionen und Annäherungen hinweg: Einübung, strukturiertes Feedback und die Genauigkeitsvorbehalte
-- [[genai-pd-ai-pck-learning-gain-2026]] — Wirksamkeit eines intensiven GenAI-Professionalisierungsprogramms
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK über Lehrkraft-Multi-Agenten-Abläufe modellieren
-- [[teacher-ai-teaming-five-levels]] — Hin zu synergistischen Lehrkraft-KI-Interaktionen
-- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz durch Selbstbestimmungstheorie
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Designbasierte GenAI-Kompetenzausbildung
-- [[rail-ed-genai-literacy-teacher-education]] — GenAI-Kompetenz in der Lehrkräftebildung neu bedenken
-- [[sec-ai-literacy-narrative-review-2026]] — Sozial-emotionale Kompetenz mit KI-Kompetenz integrieren
-- [[teacher-ai-adoption-confidence]] — KI-Übernahme bei Lehrkräften: Zuversicht und Unterstützung
-- [[ai-pedagogical-orientation]] — Orientierungen der Fakultät prägen KI-Übernahme
-- [[ai-literacy-assessment-misalignment]] — Fehlausrichtung zwischen selbst berichteter und leistungsbasierter KI-Kompetenz
-- [[quest-ai-inquiry-preservice-teachers]] — KI-gestützte Untersuchungsmodelle für angehende Lehrkräfte
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI-Bereitschaftsrahmenwerk für Fakultäten
-- [[llm-cultural-relevance-k12]] — LLMs für kulturell relevante K-12-Pädagogik
-- [[institutional-change-framework-ai]] — Rahmenwerk für institutionellen Wandel bei KI
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach-Chatbot für Anleitung von Lehrenden
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Fähigkeitslücke
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Digitale Kompetenz von Lehrkräften für GenAI-Curriculumdesign beurteilen (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — Phänomenografische Studie zu Auffassungen von Universitätslehrenden über KI
-- [[ukraine-ai-literacy-secondary-framework-2026]] — Fünfstufiges KI-Kompetenzrahmenwerk + PD für ukrainisches Sekundarbildungspersonal (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Lehrkraft-KI-Co-Design von Lernaufgaben: Trends und Perspektiven (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architektur der Rollen in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt-Engineering und Modellauswahl als Prädiktoren der Qualität von KI-Feedback (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Der AI-Guilt-Komplex: antizipatorische Schuld und vier moralische Antwortprofile unter akademischem Personal (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Eine dreistündige Lehrkraft-PD-Sitzung erhöhte wahrgenommene Nützlichkeit und leichte Nutzung, nicht aber die erklärte Absicht zur Übernahme (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematischer Review zu KI in der ersten Ausbildung von Primarstufen-Mathematiklehrkräften: Ethik in nur drei von elf Studien adressiert (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-Befragung von 1.057 US-Fakultätsmitgliedern: Bereitschaft, Nichtnutzung und die Lücke zwischen individueller und institutioneller Politik (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Einrichtungsübergreifende Fakultäts-Collaboratory: KI-Integration als Instruktionsdesign in der Lehrkräftebildung
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematischer Review von 33 Instrumenten zur Messung von KI-Kompetenz bei Lehrkräften: 31 Selbstauskunft, zwei objektive Wissensprüfungen, keine Leistungsaufgaben (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Ein designbasiertes adaptives KI-Kompetenzmodell und ein 20-Items-reflexiver Fragebogen, gemeinsam mit 22 Lehrkräftebildnerinnen und -bildnern entworfen (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] — Eine Workshop-Serie für den wirksamen Einsatz von KI in unsicheren Zeiten: Aufbau einer Physik-Fakultäts-Lerngemeinschaft
-- [[authentic-assessments-generative-ai-pilot-2026]] — Authentische Assessments mit generativer KI entwerfen: eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung
-- [[teachers-configure-educational-chatbots-2026]] — Wird es so lehren, wie beabsichtigt? Wie Lehrkräfte pädagogische KI-Chatbots konfigurieren
-- [[capability-decision-model-teacher-readiness-2026]] — Geordnetes Fähigkeits-zuerst-Lehrkraftbereitschaftsmodell mit leistungsbasierten Fähigkeitsindikatoren
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Länderübergreifende Befragung von 1.405 K-12-Lehrkräften: Bereitschaft sagt positive Überzeugungen voraus, aber nicht Besorgnis
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Vier TALIS-2024-Lehrkraft-Überzeugungsprofile verbinden professionelles Lernen und profilspezifische Barrieren für KI-Nutzung
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Microlearning-Module zu KI für Universitätslehrende in der Berufspädagogik entwerfen: eine designbasierte Forschungsstudie
-- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Wie von Lehrkräften konfigurierte Chatbots im realen Einsatz versagen und wie man sie repariert
-- [[chen-ai-visualization-teaching-competency-scale-2026]] — Entwicklung und Validierung der Skala zur KI-gestützten visuellen Lehrkompetenz
-- [[bursic-ai-residency-education-curriculum-2026]] — Barrieren bei der Integration von KI in Residency-Curricula: qualitative Interviews mit zwölf ärztlichen Leitenden
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Grundlegende psychologische Bedürfnisbefriedigung von Lehrkräften und ihre Absicht, generative KI zu nutzen: die vermittelnde Rolle des Engagements in der Professionalisierung
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — Haltungen skandinavischer Lehrkräfte zu generativer künstlicher Intelligenz: eine Exploration von Zusammenhängen
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Das selbst eingeschätzte Kompetenzband von Lehrenden wird weitgehend aus der institutionellen Zugehörigkeit statt aus individuellen Merkmalen vorhergesagt
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Übernahme wird Fach für Fach beurteilt, wobei das Schlussfolgern der Studierenden die Hauptsorge ist
-- [[chen-future-faculty-development-ai-2027]] — Kompetenz über ein Lehrteam verteilt, mit grundlegender technischer und ethischer Fähigkeit für alle
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Rahmenwerke listen Kompetenzen und lassen die Bedingungen des Urteils untheoretisiert
-- [[zhou-school-support-teacher-ai-competence-2026]] — Schulische Unterstützung erreicht die KI-Kompetenz von Lehrkräften nur über AI-TPACK, Selbstwirksamkeit, Resilienz und Angst

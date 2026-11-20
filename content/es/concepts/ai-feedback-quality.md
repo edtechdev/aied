@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -152,68 +154,3 @@ Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 1
 - **"Los efectos de la retroalimentación son modestos."** Un **metaanálisis de 53 estudios** encontró que la retroalimentación con IA generativa produjo **el mayor efecto del estudio (g = 1,27)**, frente a **g = 0,40** para el efecto global de la IA generativa. La retroalimentación es el mecanismo más fuerte medido, lo que dibuja un panorama distinto del debate general sobre el optimismo.
 - **"La retroalimentación es toda la intervención."** Una comparación controlada aísla el componente: con el mismo sistema de [[intelligent-tutoring|tutoría]] diagnóstica, los estudiantes que recibieron **el componente de retroalimentación** difirieron de forma medible. Separar la retroalimentación del sistema adaptativo es lo que hace atribuible la afirmación.
 - **El acceso y la implicación son intervenciones distintas.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening (2026)]] separaron ambas en **234 estudiantes y 1.147 observaciones semanales** en una simulación empresarial de cinco semanas. La asignación a retroalimentación con [[conversational-ai|IA conversacional]] no produjo **ningún efecto** sobre la carga cognitiva pertinente (β = 0,019, p = 0,807) ni sobre la carga extrínseca (β = 0,071, p = 0,481). El **uso regular real** se asoció con una carga pertinente significativamente mayor que la de los no usuarios experimentales (β = −0,468, p < 0,001) y que la de los controles (β = −0,253, p = 0,028), mientras que el **uso irregular no se separó del uso regular** (p = 0,116). Los juicios de calidad que se apoyan en un contraste por intención de tratar subestimarán, por tanto, una intervención de retroalimentación cuya adopción es parcial, y las métricas de satisfacción o de acceso no pueden sustituir a los datos de implicación.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — la calidad no predice la revisión, las secuencias que hacen usable la retroalimentación de IA
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## Artículos conectados
-
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Apoyo a quien revisa: los ayudantes adoptaron el 51,3% de las sugerencias de IA y corrigieron el 11,3% de los juicios (Lu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — Nombrar el rasgo débil no es citar el ensayo: las anclas de evidencia elevaron la evidencia válida de cero a 0,912 (Xin 2026)
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — las pistas más largas de LLM predijeron peores resultados inmediatos; el formato cambió menos intentos por un reenvío más lento
-- [[wu-lam-genai-writing-assessment-professors-2026]] — profesores sobre la calidad de la retroalimentación de IA: elogiosa por defecto, larga, vaga y lenta de refinar
-- [[genai-l2-written-feedback-scoping-review-2026]] — solo 27 de 51 estudios informaron sus indicaciones; 16 experimentos carecían de grupo de control
-- [[ai-feedback-violin-intonation-2026]] — retroalimentación de IA sobre la afinación comprobada contra 2.208 desviaciones de tono medidas por máquina (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT, un sistema modularizado de evaluación automatizada de la escritura para ensayos argumentativos
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — evaluar los comentarios de ChatGPT en vídeo: calidad lingüística, semántica y perceptiva (Wang, Du y Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — la retroalimentación de escritura con IA superó a editores humanos en cartas de práctica (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens, generación de retroalimentación con LLM y educadores en el bucle (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — fiabilidad y límites de la retroalimentación de la observación de aula con LLM (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — prácticas y percepciones docentes de la retroalimentación de IA centrada en el estudiante (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — retroalimentación generada por IA en educación superior
-- [[teaching-feedback-classification-benchmark]] — benchmark de clasificación de retroalimentación docente
-- [[becerra-aicofe-feedback-2026]] — AICoFE, retroalimentación colaborativa impulsada por IA
-- [[cong-confidence-asag-2026]] — calificación de respuestas cortas consciente de la confianza
-- [[choi-anchor-aes-prompting-2025]] — indicación para la puntuación automatizada de ensayos basada en anclas
-- [[ai-assistance-discretionary-feedback]] — asistencia de IA para la retroalimentación discrecional
-- [[sequenced-ai-feedback-learning]] — retroalimentación de IA secuenciada y aprendizaje
-- [[eduframetrap-llm-sycophancy-educational-safety]] — la adulación como riesgo de seguridad educativa: por qué los tutores LLM necesitan benchmarks de adulación
-- [[contextual-sycophancy-ai-literacy]] — el costo oculto de la adulación contextual, una intervención de alfabetización en IA
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — pedagogías marcadas, sesgo en la retroalimentación automatizada de escritura
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — la ingeniería de indicaciones y la selección de modelo como predictores de la calidad de la retroalimentación de IA (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — etiquetas de fuente aleatorizadas sobre retroalimentación idéntica de GPT-4: los docentes descuentan la retroalimentación atribuida a la IA (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — análisis comparativo de la retroalimentación de grupos de pares y generada por IA en la evaluación entre pares: perspectivas sobre la calidad de la retroalimentación y las percepciones del estudiantado en educación superior
-- [[ai-assisted-physics-lab-report-assessment-2026]] — evaluación asistida por IA de informes de laboratorio de física experimental: potencial, limitaciones y apoyo a la práctica docente
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — evaluar el foco de la retroalimentación y la adaptividad pedagógica en la retroalimentación generada por LLM sobre escritura estudiantil
-- [[risk-adaptive-genai-feedback-programming-2026]] — un marco adaptativo al riesgo y limitado por la evidencia para la retroalimentación con IA generativa en la educación en programación
-- [[real-time-ai-feedback-technical-skills-2026]] — explicación "Clarify" en el propio idioma y empujones andamiados en un tutor en tiempo real: qué hace usable la retroalimentación sincrónica (Muritala, Ahmed y Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — retroalimentación docente frente a retroalimentación entre pares asistida por IA: la corrección autoritaria de errores decae, el foco constante se mantiene, y qué hacen los estudiantes con cada una (Tang, Li y Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — etiquetas de fuente a ciegas y luego reveladas sobre retroalimentación idéntica: los estudiantes valoran peor la retroalimentación etiquetada como IA y leen la retroalimentación humana mal valorada como IA
-- [[intelligent-tutoring-mathematics-education-review-2026]] — revisión narrativa de la tutoría con IA en matemáticas: ganancias de la retroalimentación en tiempo real y condiciones de implementación
-- [[agent-type-feedback-style-self-directed-learning-2026]] — estilos de retroalimentación socrático frente a directivo: monitoreo de la comprensión frente a priorización, y el costo en carga cognitiva
-- [[when-students-prefer-ai-scoring-feedback-2026]] — calidad percibida de la retroalimentación de IA: comprensible pero repetitiva, confiable para la mecánica y no para la interpretación
-- [[lin-rag-lesson-generation-tutor-training-2026]] — las lecciones de formación de tutores generadas con RAG igualaron a las creadas por humanos cuando había retroalimentación; la ventaja humana apareció solo sin retroalimentación
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — tres dimensiones de evaluación en 68 estudios, con la alineación con la rúbrica como la más delgada (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — divergencia por criterio y por evaluador en 157 mensajes de retroalimentación valorados (Vanhoyweghen et al. 2026)
-- [[liu-educational-sycophancy-2026]] — La corrección depende de la interacción: una tasa de cambio del 12,7% bajo réplica (Liu y Korolova 2026)
-- [[kim-ai-simbot-nursing-communication-2026]] — Simulación con IA: cómo una paciente virtual interpretada por GPT-4o y un evaluador distinto enseñan comunicación en enfermería

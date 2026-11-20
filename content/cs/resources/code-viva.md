@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -40,7 +41,3 @@ Pro vyučující programovacích kurzů, kteří chtějí důkaz, že student um
 ## Poznámky a upozornění
 
 Vše běží v prohlížeči: kurz leží v místním úložišti s exportem do JSON, otázky cestují v části odkazu, kterou prohlížeče na servery neposílají, a odpovědi se vracejí jen jako kódy, které se studenti rozhodnou odeslat, takže se žádná studentská data nedostanou ke třetí straně. Generátor otázek je založený na pravidlech, nikoli na modelu. Podle vlastního vyjádření nástroje je jeho čtečka kódu heuristická, takže neobvyklé formátování nebo makra mohou funkci skrýt, a skóre může odměnit znalost slovníku spíše než porozumění kódu; proto jsou skóre jen návrhy, které vyučující schvaluje, a proto nástroj doporučuje držet sázky nízko. Licence ani zdrojový repozitář nejsou zveřejněny, a protože odkazy nesou otázky, mají několik kilobajtů — dost na to, aby se zalamovaly v okně zpráv v systému pro řízení výuky.
-
-## Související pojmy
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

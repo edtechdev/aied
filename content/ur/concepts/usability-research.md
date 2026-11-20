@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -69,26 +71,3 @@ ai_assist:
 **"جو طلبہ اوزار ترک کر دیتے ہیں اُن میں محرک کی کمی تھی۔"** ترک کرنا اکثر صارف کا اُس تعامل کی لاگت کے بارے میں درست پڑھنا ہوتا ہے جسے ڈیزائنر نے کبھی ناپا ہی نہیں۔ چونکہ ایسے اوزار کا کوئی اثر نہیں ہو سکتا جسے کوئی استعمال نہ کرے، ترک کرنے کی شرح بذاتِ خود ایک تعلیمی نتیجہ ہے۔
 
 **"استعمال پذیری کی جانچ سیکھنے کی پیمائش ہی ہے۔"** دونوں مختلف سوالوں کے جواب دیتی ہیں اور کوئی ایک دوسرے کا متبادل نہیں؛ ناکامی کا انداز یہ ہے کہ کسی ایک کو اپنانے کے لیے کافی سمجھ لیا جائے۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## منسلک مضامین
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM سے چلنے والے کہانی سنانے والے انسانی شکل روبوٹ کا استعمال پذیری مطالعہ
-- [[rhaimi-productivemath-2025]] — ProductiveMath: جنریٹو-AI ایپ کی استعمال پذیری
-- [[supplynet-visual-exploratory-learning]] — SupplyNet کا صارف مطالعہ
-- [[anvil-ai-educational-animations]] — AI سے پیدا کردہ تعلیمی اینیمیشنز کی استعمال پذیری
-- [[code-anchor-multi-view-visualization]] — کثیر منظر کوڈ تصورات کا تھنک-الاؤڈ مطالعہ
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN فریم ورک اور تھنک-الاؤڈ جانچ
-- [[feedback-futures-genai]] — طلبہ AI سے پیدا کردہ فیڈبیک کو کیسے پرکھتے ہیں
-- [[llm-chatbots-cs-multiple-choice]] — CS کثیر الانتخاب سوالات کے لیے LLM چیٹ بوٹس
-- [[conversational-ai-agents-umbrella-review-2026]] — گفتگو AI ایجنٹوں کا چھتری جائزہ

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -94,43 +96,3 @@ YZ kullanımı ve açıklama, [[academic-integrity]] (ana kaygısı), [[ethics]]
 - **“Öğrenciler YZ kullanımını dürüst olmadıkları için gizler.”** İtici etkenler belgelenmiş ve belirlidir: ekonomi öğrencilerinin yalnızca **yaklaşık %34’ü YZ kullanımını kabul etmiş**, açıklama daha da nadir kalmış ve bu **ceza kaygısıyla** yönlenmiştir; başka bir çalışma ise **%66’nın hiç veya nadiren açıklama yaptığını** ve **akademik ceza korkusunun en önemli neden** olduğunu bulmuştur. Verilerin işaret ettiği şey karakter değil, politika tasarımıdır.
 - **“Açıklama zorunluluğu düşük maliyetli bir denetimdir.”** **%74 uyumsuzluk oranı**, ortaya çıkan kaydı hiç kayıt olmamasından daha kötü kılar: eksiksiz görünen ve eksik olan bir veri kümesidir; dolayısıyla kurum, güvenemeyeceği bir örneklem üzerinden karar vermektedir.
 - **“Modelin nasıl kullanıldığını açıklamak yeterlidir.”** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]], açıklamanın model kullanımını belgelediğini, sorumlu kullanımın ise iddia düzeyinde yazarlık teminatı gerektirdiğini savunur: katkıda bulunanın iddiaları anlama, gerekçelendirme ve savunma kapasitesi. Bu, çıktıların esaslı seçimleri şekillendirdiği [[cognitive-offloading|bilişsel devretmeyi]], şekillendirmediği rutin devretmeden ayırır.
-
-## Bağlı kavramlar
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — açıklamanın görünür kılmayı amaçladığı zarar
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — öğrenenlerin neden gizlemeyi seçtiği
-
-## Bağlı makaleler
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Bir SEM ayrımı: tespit kesinliği ile beyanın uygunsuz kullanımı açığa çıkarma riski (Liu ve ark. 2026)
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Tespitin ötesinde: öğrenciler çevrimiçi değerlendirmelerde YZ’yi nasıl kullanır ve gizler
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Öğrenci YZ açıklaması, damgalanma ve öz düzenlemeli öğrenme
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Açıklamanın gizli bedeli: açıklama ve öğretim elemanı suçlamaları
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — YZ kullanım beyanlarına öğrenci uyumsuzluğu
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Tespitten çok eğitim olarak beyanlar
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Değerlendirmede bir tasarım eşiği olarak dürüstlüğün bedeli
-- [[student-perspectives-ai-writing-grading-2026]] — İşimi Kim Not Vermeli? Yükseköğretimde Şeffaf YZ Destekli Yazma Değerlendirmesine İlişkin Öğrenci Bakış Açıları
-- [[qian-governing-genai-higher-ed-policy-2026]] — 50 yenilikçi ABD üniversitesinde yardım ile yanıltıcı sunum arasındaki sınır olarak açıklama (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Hukuk fakültesi politikasında açıklama ve YZ atıfına dair bir uzlaşı yok (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — YZ tarafından yazılan başvuru makaleleri yaygın ama cezalandırılıyor
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — On üç deney: YZ kullanımını açıklamak, meşruiyet yoluyla açıklayanın güvenilirliğini düşürür
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Ayna yönü: öğrencilere YZ’nin çalışmalarını ne zaman notladığının söylenmesi ve yüklemeden önce rıza istenmesi
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Açıklama kuralları yeterli olmadığında: YZ destekli akademik çalışmada yazarlık teminatı ve yargı (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — YZ açıklama etiketleri, algılanan otantiklik ve YZ üretimi öğretim videolarına güven

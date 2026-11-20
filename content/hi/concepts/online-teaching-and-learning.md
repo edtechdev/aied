@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -140,60 +142,3 @@ ai_assist:
 **"AI प्रदर्शन बढ़ाता है, इसलिए सीखना बढ़ाता है।"** ऑनलाइन सेटिंग्स में विचलन वही है जो कक्षाओं में है: एक [[rct]] ने पाया कि बिना निगरानी वाली AI सहायता ने अभ्यास प्रदर्शन बढ़ाया पर बिना सहायता वाले परीक्षा अंक *घटाए*, जबकि "संकेत-नहीं-उत्तर" ट्यूटर ने हानि हटा दी। ऑनलाइन पाठ्यक्रम अतुल्यकालिक मूल्यांकन पर अधिक निर्भर हैं, इसलिए सहायता-प्राप्त और बिना-सहायता प्रदर्शन के बीच का अंतर वही है जहाँ वैधता जीती या हारी जाती है।
 
 **"मूल्यांकन वैधता एक अंकन-नीति प्रश्न है।"** यह माध्यम से बना एक डिज़ाइन प्रश्न है: जब कोई प्रस्तुति शिक्षार्थी की उपस्थिति के बिना बनाई जा सकती है, तब वैधता इस पर निर्भर है कि कार्य ऐसा प्रमाण उत्पन्न करता है कि शिक्षार्थी ने काम किया। कार्य को पुनःडिज़ाइन करना इसे संबोधित करता है; दुराचार के लिए दंड कड़ा करना नहीं।
-
-## संबंधित अवधारणाएँ
-- [[pedagogical-patterns]] — वह संदर्भ जो क्रमन को बोझ-सहनीय बनाता है, क्योंकि प्रणाली कोई प्रयास नहीं देख सकती
-- [[assessment-validity]] — जमा किए गए काम से सीखन तक अनुमान की वैधता
-- [[agentic-ai]] — स्वायत्त प्रणालियाँ जो उपकरणों और मंचों को संचालित करती हैं, जिसमें एक LMS भी शामिल है
-- [[community-of-inquiry]] — जिज्ञासा का समुदाय
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## संबंधित लेख
-- [[ai-agents-complete-lms-assessment-validity-2026]] — स्वायत्त एजेंटों ने बिना-प्रॉक्टर LMS मूल्यांकनों को अंत-से-अंत पूरा किया: एक मूल्यांकन-वैधता समस्या (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — मूल्यांकन जुड़वाँ: एक GenAI-जोखिम-पूर्ण कार्य को उन्हीं परिणामों पर एक नज़दीक निर्धारित, कम जोखिम-पूर्ण कार्य के साथ जोड़ना
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — सह-लेखन इमानदारी को वैधता प्रमाण के रूप में, और AI Viva को स्केलेबल सत्यापन के रूप में
-- [[asynchronous-oral-assessment-2026]] — अतुल्यकालिक मौखिक मूल्यांकन: अंतर्निहित रूब्रिक के विरुद्ध अंकित समय-सीमित, असंशोधित रिकॉर्डिंग
-- [[brcic-effortless-trap-productive-struggle-2026]] — सहज जाल: अनुमति या प्रतिबंध के बजाय AI का नियोजन
-- [[metacognitively-discordant-completion-genai-2026]] — मेटाकॉग्निटिवली असंगत पूर्णता: समझ के बिना जमा किया गया सही काम
-- [[decreasing-digital-distraction-college-online-learning-2026]] — कौन-सी स्व-नियमित रणनीतियाँ कम डिजिटल विचलन के साथ संयोग करती हैं (530 छात्र)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL को स्थिर अभिक्षमता और उतार-चढ़ाव वाली स्थिति के रूप में; एक पाठ्यक्रम अवधि में मेटाकॉग्निशन और कल्याण में गिरावट
-- [[genai-marketing-education-roles-2026]] — ट्यूटर, साथी और उपकरण के रूप में AI: भूमिकाएँ और उनके उपस्थिति पर प्रभाव
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — पहचान से आगे: ऑनलाइन सेटिंग्स के लिए मूल्यांकन डिज़ाइन
-- [[reconceptualizing-community-inquiry-generative-ai]] — जनरेटिव AI के युग में जिज्ञासा के समुदाय का पुनर्विचार
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — उच्च शिक्षा में ऑनलाइन सीखन में AI का एकीकरण: एक चार-विषय आलोचनात्मक साहित्य समीक्षा
-- [[mooc-to-maic]] — MOOC से MAIC तक: LLM-चालित एजेंटों के माध्यम से ऑनलाइन शिक्षण और अधिगम का पुनर्गठन
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: ऑनलाइन सीखन के लिए वैयक्तिक और अनुकूली सहायता प्रणाली
-- [[llm-facilitation-timing-online-discussions]] — ऑनलाइन चर्चाओं में मानव और LLM सुगम-कर्ताओं की प्रवृत्तियाँ
-- [[elevate-genai-virtual-tutors]] — ELEVATE: मानव-केंद्रित GenAI वर्चुअल ट्यूटर
-- [[conversational-ai-tutors-framework]] — संवादात्मक AI ट्यूटरों का मार्ग
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — ओपन यूनिवर्सिटी में AIDA का क्रियान्वयन
-- [[ai-adult-learning-guidelines-dis2026]] — वयस्क सीखन का समर्थन करने के लिए AI तकनीकों को डिज़ाइन करने के दिशानिर्देश
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: एजेंटिक वैयक्तिक ट्यूटरिंग की ओर
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — मिश्रित कक्षाओं में शिक्षकों के लिए ML निष्कर्षों को सुलभ बनाना
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — छात्र गैर-वैयक्तिक मानव-रिकॉर्डेड वीडियो पर वैयक्तिक AI-निर्मित वीडियो को प्राथमिकता देते हैं (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — ऑनलाइन चर्चा मंचों में AI-निर्मित सार-संचालित सीखन डिज़ाइन
-- [[ai-training-science-teacher-tpack-distance-2026]] — कैंपस-आधारित छात्र-शिक्षकों ने दूरस्थ शिक्षा साथियों की तुलना में AI-एकीकृत विज्ञान शिक्षण के लिए अधिक TPACK रिपोर्ट किया (64.0% बनाम 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — भूमिका डिज़ाइन हस्तक्षेप है, उपकरण नहीं
-- [[packard-thinking-partner-framework-adult-learners-2026]] — कार्यरत शिक्षकों के लिए छह-सप्ताह के अतुल्यकालिक स्नातकोत्तर पाठ्यक्रम: प्रारूप संपीड़ित करने के बजाय पुनःडिज़ाइन करें
-- [[aggarwal-genai-cybersecurity-2026]] — दो परिसरों के 19 छात्र: सह-नामांकन ने कुछ के लिए कोई अंतर-परिसर अंतःक्रिया नहीं बनाई (Aggarwal 2026)

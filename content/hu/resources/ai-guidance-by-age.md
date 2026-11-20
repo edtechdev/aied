@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -52,11 +53,3 @@ Az útmutató őszinte a saját státuszához. Szerzői a bejegyzéseket a megal
 Két további korlát számít a tanításhoz. Az ajánlások tervezési ösztönzők, nem tesztelt beavatkozások; a webhely semmilyen eredményt nem jelent. Az életszakasz-szerkezet pedig durva rácsot kényszerít egy olyan fejlődésre, amely a sávokon belül, kultúrák és kontextusok között is változik, amit maga az útmutató is elismer.
 
 A gyakorlatba érdemes átvinni a webhely saját keretezését: tartsuk emberi a hurkot, majd dolgozzuk ki, hova illeszkedik benne a MI, ahelyett hogy emberi ellenőrzőpontot tennénk egy géphez tartozó hurokba — ugyanaz a gond, amelyet a korpusz a [[cognitive-offloading|kognitív tehermentesítés]] kockázataként rögzít, amikor egy eszköz átveszi a feladatnak azt a részét, amely a fejlődési munkát végezte.
-
-## Kapcsolódó fogalmak
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

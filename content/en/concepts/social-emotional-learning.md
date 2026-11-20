@@ -12,6 +12,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 > **Social-emotional learning (SEL)** — the process of developing the competencies that enable individuals to synchronize thoughts, emotions, and actions to foster positive interactions with oneself and others: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (the CASEL framework). In AI in education, SEL is increasingly recognized as critical because the rapid integration of [[generative-ai|generative AI]] into learning raises questions about students' [[well-being|well-being]], sociability, empathy, and trust — and because technical AI literacy alone is insufficient for navigating AI-mediated learning environments.
@@ -102,42 +104,3 @@ SEL connects to [[ai-literacy|AI literacy]] (as a complement that makes AI liter
 **"Low persistence is a motivation problem that encouragement can fix."** Persistence is the recurring constraint in educational technology — the pattern [[framing-5-percent-problem-teachers-persistence|the 5% problem]] names — and it is shaped by motivation and buy-in, cognitive roadblocks, *and* resilience under challenge. Encouragement addresses one of the three. A learner who stops because the problem exceeded their working memory is not short of reassurance.
 
 **"Knowing AI is available does not change how students invest effort."** It can, and the effect runs the wrong way for the weakest learners: [[ai-availability-student-motivation|AI availability]] can reduce the perceived value of effortful engagement, particularly for novices. Availability alone is a motivational intervention with a negative sign, which is why SEL-adjacent design cannot treat the presence of a helpful system as neutral.
-
-## Connected Concepts
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[liu-genai-sel-mapping-review-2026]] — A 43-study mapping review of GenAI and SEL: uneven competency coverage and thin ethics reporting
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI displaces human advice-seeking and lowers satisfaction with real-world interaction (Ibrahim et al. 2026)

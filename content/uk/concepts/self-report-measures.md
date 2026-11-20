@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -162,53 +164,3 @@ ai_assist:
 - **«Докази з обстежень слабкі, але приблизно незміщені.»** Структура відповідей обмежує оцінку ще до будь-якого зміщення: обстеження отримує **112 відповідей за частки відповідей 31%**, або **90 відповідей із 572 запрошень**. Пул респондентів — самовідібрана підмножина, тож цифра описує саме цю підмножину.
 - **«Обстеження — маргінальний метод у цій галузі.»** Оглядове дослідження **394 досліджень GenAI у вищій освіті** виявило, що **шкали обстежень — найчастіше повідомлюваний метод оцінювання (269 досліджень, 68,3%)**, попереду тестів і контрольних. Домінантний доказ галузі — самооповідання.
 - **«Самооповідання та виміряні конструкти узгоджуються.»** **Самооцінене когнітивне навантаження статистично не різнилося між профілями офлоадингу, що коливалися від 80% до 2% авторства есе**, тоді як найбільші офлоадери відрізнялися вимірно. Суб’єктивна міра була пласкою там, де поведінка різнилася у сорок разів.
-
-## Пов’язані поняття
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Пов’язані статті
-- [[high-school-genai-acceptance-tam-physics-2026]] — Один бал наміру, два протилежні способи використання
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Режим адміністрування інструмента самооповідання змінює те, що він вимірює
-- [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
-- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
-- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
-- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
-- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
-- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
-- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
-- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
-- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
-- [[student-genai-use-views-writing|Використання GenAI студентами та їхні погляди на письмо]] — Survey plus interviews in one sociology department
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Профілі, похідні від самооповідання, поводяться так само
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Двофазний огляд, що дає показник розходження між самооповіданням і продуктивністю за однакових конструктів (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Сприйнята власність відділила цілковите делегування есе від усього іншого, тоді як слід відділив значно більше (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — сприйняття повідомлені в 32 із 66 досліджень проти 8, що вимірювали дослідницькі навички
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63.8% інструментів ШІ-грамотності повідомляють докази надійності і менше 20% — докази валідності
-- [[huang-genai-academic-information-resources-2026]] — Логи бібліотеки та ставлення з опитування вказують у різні боки

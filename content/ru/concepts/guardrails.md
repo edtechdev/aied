@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -74,7 +76,6 @@ ai_assist:
 
 Сами ограничители не нейтральны: аудит [[paternalistic-filter-llm-history-education|«патерналистского фильтра»]] показывает, что отказы и смягчённые ответы имеют характер, задаваемый идентичностью учащихся и чувствительностью темы, воспроизводя эпистемическую несправедливость даже тогда, когда они «защищают». Безопасные ограничители должны проходить аудит на дифференциальное обращение, — что является прямым аргументом в пользу [[bias-mitigation]] и [[equity-in-ai-education]] в [[governance]] и [[regulation]].
 
-
 **Порог классификатора-ограничителя — это политическое решение.** Перевод порога токсичности с 0.3 на 0.7 сократил помеченные промпты с 35,62% до 12,4%; на детекторе мошенничества это обменяло 15 ложных тревог и 18 пропущенных мошенничеств на 2 и 36, никакой порог не устраняет и то и другое, а показатель устойчивости мало что значит без указания атаки ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan & Kalathas (2026)]]).
 
 ## Ограничители и педагогическая безопасность
@@ -126,46 +127,3 @@ ai_assist:
 **«Пороги ограничителей — это инженерные решения, которые нужно подстроить».** Порог — это политическое решение с распределительной ценой. Перевод порога токсичности с 0.3 на 0.7 сократил помеченные промпты с **35.62% до 12.4%**; на детекторе мошенничества это обменяло **15 ложных тревог и 18 пропущенных мошенничеств на 2 и 36**. Никакой порог не устраняет компромисс — он лишь решает, какую ошибку предпочитает учреждение, и это решение принадлежит учреждению, а не константе по умолчанию.
 
 **«Аудит справедливости — это отдельная забота, не связанная с достаточностью ограничителей».** Паттерны отказов и поддержки распределяют пользу неравномерно, даже когда применяются равномерно, а средняя доля вреда скрывает, какие студенты её несут. Аудит должен быть частью спецификации ограничителя, а не исследованием, заказанным постфактум.
-
-## Связанные концепции
-
-- [[pedagogical-safety]] — цель, которую реализуют ограничители
-- [[prompt-engineering]] — приём дизайна «подсказка, а не ответ»
-- [[rag]] — заземление знаний как ограничитель
-- [[human-in-the-loop-ai]] — QA и надзор преподавателя
-- [[llm-training-and-fine-tuning]] — слой обучения/согласования
-- [[reinforcement-learning]] — формирование вознаграждений для безопасного поведения
-- [[bias-mitigation]] — аудит ограничителей на предмет справедливости
-- [[ai-sycophancy]] — риск манипуляции, которому ограничители должны сопротивляться
-- [[scaffolding]] — педагогический механизм, который ограничители сохраняют
-- [[socratic-method]] — режим взаимодействия «подсказка, а не ответ»
-- [[hallucination-risk]] — риск фабрикации, который ограничители снижают
-- [[cognitive-offloading]] — вред от чрезмерной опоры на инструмент, который ограничители предотвращают
-- [[k-12]] — контекст, где ограничители важнее всего
-- [[ethics]] — нормативная основа
-- [[governance]] — слой политики
-- [[intelligent-tutoring]] — защищаемые системы
-- [[misconceptions]] — знания, которые ограничители должны проверять
-- [[trust]] — результат хорошо спроектированных ограничителей
-- [[llm]] — слой модели, который ограничивают
-
-## Связанные статьи
-
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: экосистемная рамка компетенций и учебная платформа для K-12
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: аудит рефлексивного агента по сравнению с его системным промптом в рандомизированном исследовании
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Рамки SCAFFOLD для направления диалога студентов и ИИ, с их аудиторным пилотом
-- [[generative-ai-guardrails-harm-learning]] — каноническое полевое РКИ об ограничителях
-- [[eduzone-llm-safety-k12]] — Рамки безопасности LLM уровня K-12
-- [[eduguard-safe-rag-llm-tutor]] — безопасность репетиторов на основе RAG
-- [[paternalistic-filter-llm-history-education]] — аудит ограничителей на предмет предвзятости
-- [[singh-eduqwen-pedagogical-rl-2026]] — направляемое обучение, согласованное через RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — постобучение, согласованное с таксономией
-- [[eduframetrap-llm-sycophancy-educational-safety]] — подхалимство как риск безопасности
-- [[ai-tutor-authoring-promptdecipher]] — QA под руководством преподавателей
-- [[llm-unlearning-math-privacy]] — раззаучивание на уровне модели
-- [[pedagogical-safety-rl]] — формирование вознаграждений для педагогической безопасности
-- [[residencyrl-clinical-rl-training-2026]] — RL, согласованное с безопасностью, в клинической подготовке
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Опора на основе правил в сравнении с импровизированным скаффолдингом в системе репетиторства на базе LLM для начальной математики (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: рамки для ИИ в вычислительном образовании
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Влияние педагогического стиля и осведомлённости о контексте в репетиторах-ассистентах на основе ИИ для программирования
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — как риск для мышления студентов варьировался по категориям продуктов на примере 20 инструментов ИИ, наблюдённых в реальных аудиториях

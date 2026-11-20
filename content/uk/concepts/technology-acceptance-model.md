@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -114,55 +116,3 @@ TOE обрамлює впровадження як таке, що формуєт
 - **«Конструкти TAM пояснюють впровадження.»** [[socio-cognitive-genai-adoption-engineering-2026|Asag і Al Mamun]] інтегрували TAM з UTAUT для студентів-інженерів у Бангладеш і пояснили **64 %** дисперсії. Істотно й неповно водночас: приблизно третина того, що рухає впровадження, лежить поза класичними конструктами прийняття.
 - **«Моделі прийняття не потребують доменної модифікації.»** Додавання **сприйнятої штучної автономії** — наскільки незалежно, на думку вчителів, GenAI може виконати призначене навчальне завдання — і **уникання ризику** до класичних конструктів змінило модель суттєво. Оригінальні конструкти будувалися для інструментів без аґентності, а GenAI має сприйняту аґентність.
 - **«Метааналітична оцінка впровадження описує будь-яку популяцію.»** [[teo-ai-adoption-tertiary-meta-analysis-2026|Метааналіз студентів закладів вищої освіти]] — це оцінка на рівні популяції; інженерний результат, що пояснює 64 %, — це конкретна популяція. Перенесення одного на інше припускає стабільність, якої докази не встановлюють.
-
-## Пов’язані поняття
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Пов’язані статті
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Предметно-специфічні переконання поставлені вище за сприйняття TAM
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — Генеративний ШІ як «друг-ворог»: штучна автономність та уникання ризику розширюють TAM для викладачів (Dai та співавт. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Досвід із ШІ в сестринській справі; психосоціальне розширення TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Персони впровадження генеративного ШІ через групування
-- [[tian-genai-learning-adoption-pathways-2026]] — Симетричні та асиметричні шляхи впровадження генеративного ШІ (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Диференційована залученість із генеративним ШІ за статтю та мотивацією
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Модель TOE + DOI організаційного впровадження ШІ у вищій освіті
-- [[tam-critical-use-genai-engineering-2026]] — Розширена TAM із критичним використанням для студентів інженерії/інформатики
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Уніфікована соціально-когнітивна модель (TAM + UTAUT) для інженерної освіти
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Від тривожності щодо ШІ до стратегічної регуляції
-- [[genai-reliance-types-scale]] — Шкала типів залежності від генеративного ШІ
-- [[llm-reliance-types-undergrad]] — Типи залежності від LLM серед студентів бакалаврату
-- [[acceptance-ai-english-tools-2026]] — Сприйняття інструментів ШІ для англійської мови
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Поведінкові та етичні драйвери впровадження ChatGPT студентами
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT та мотивація викладачів щодо чатботів
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB для майбутніх викладачів природничих наук у Гані
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Профілі сприйняття ChatGPT майбутніми викладачами (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Метааналіз чинників впровадження ШІ; критика TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — Детермінанти машинного навчання/SHAP майбутнього користування ChatGPT у вищій освіті
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — UTAUT2 із розширенням від пояснюваного ШІ: звичка як найсильніший предиктор, чотири профілі впровадження (Jácome-Vásconez та співавт. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Модель очікування результативності/очікування зусиль/грайливості/наміру на рівні матеріалів для посібників зі ШІ-грамотності, розділених за віком, із задокументованим перекриттям конструкту грайливість–намір
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT, вкладені в TAM/UTAUT2: специфічні для виміру та немонотонні ефекти ризику на сприймані вигоди від генеративного ШІ (Du, Ning, Shi та Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]]
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Профілі сприйманої корисності ШІ та ризику в TALIS 2024, орієнтовані на людину, у 49 системах
-- [[genai-learning-procrastination-planned-behavior-2026]] — Розширення TPB, що вимірює прокрастинацію навчання з допомогою генеративного ШІ та пом’якшення зв’язку намір–затримка тривожністю
-- [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
-- [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
-- [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)

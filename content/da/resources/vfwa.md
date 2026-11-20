@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -51,11 +52,3 @@ Program- og modulansvarlige i videregående uddannelse, som stadig vil have, at 
 Modellen er ikke evalueret i skala. Arbejdspapiret siger eksplicit, at der endnu ikke findes en stikprøve, et instrument eller et målt resultat, og at der er brug for pilotprojekter for at teste, om artefakterne fra trin 1 øger bedømmernes tillid eller den fortolkningsmæssige konsistens, om de studerende oplever designet som retfærdigere, og hvordan en disciplin sætter en tilstrækkelighedstærskel uden at gøre trin 1 til en ny eksamen.
 
 To praktiske omkostninger er reelle. Trin 1 kræver observerede sessioner og sikker indfangning i skala, og flersproget optagelse og oversættelse er forudsætninger, ikke ekstraudstyr. Og den fortolkningsmæssige vurdering er bevidst overladt til bedømmerne: modellen forudsætter faglig ekspertise, der ikke kan automatiseres, hvilket er en bemandingsforudsætning lige så meget som en designforudsætning.
-
-## Relaterede begreper
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

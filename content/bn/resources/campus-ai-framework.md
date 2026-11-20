@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -42,10 +43,3 @@ Campus AI Framework হলো এআই কৌশল ও গভর্নেন�
 ## টীকা ও সতর্কতা
 
 কাঠামো ও সাইট **CC BY-NC-SA 4.0**-এর অধীনে লাইসেন্সপ্রাপ্ত, তাই স্বীকৃতি ও শেয়ার-অ্যালাইকসহ অ-বাণিজ্যিক ব্যবহারে অভিযোজন অনুমোদিত; সাইট নিজেই প্রস্তাবিত স্বীকৃতি দেয়। OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA ও HIPAA-এর সঙ্গে এর সামঞ্জস্য প্রকাশকের নিজের তুলনা, এবং সেটিকেই সেই হিসেবে পড়া উচিত। সঙ্গী সাইটগুলো আলাদা প্রকল্প, কয়েকটি একই লেখকের, এবং একটি সেট হিসেবে জানার মতো: [Campus AI Exchange](https://www.campusaiexchange.com/) হলো কেন্দ্র, যেখানে আছে প্রাতিষ্ঠানিক এআই নীতিমালা ও শ্রেণিকক্ষ-নির্দেশনার [ইন্টারঅ্যাকটিভ মানচিত্র](https://www.campusaiexchange.com/ai-policies-guidelines-map), [এআই গভর্নেন্স স্ব-মূল্যায়ন](https://www.campusaiexchange.com/ai-governance-assessment), ডেটা গভর্নেন্স ও এআই অবস্থান-মানচিত্র, এবং একটি রিসোর্স লাইব্রেরি। তার চারপাশে আছে [campusaigovernance.com](https://campusaigovernance.com/) (নয়টি এআই গভর্নেন্স ক্ষেত্র), [campusairisks.com](https://campusairisks.com/) (সেই ক্ষেত্রগুলোতে প্রয়োগ করা NIST AI Risk Management Framework), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), ইউনিট-স্তরের একটি [এআই গ্রহণ পরিকল্পনার টেমপ্লেট](https://unit-ai-adoption-plan.netlify.app/), এবং নির্বাহীদের জন্য [এজেন্টিক এআই নিয়ে একটি ব্রিফিং](https://campusaiframework.com/sites)। Strategic Compass একটি শেয়ার করা Google ডকুমেন্ট হিসেবেও চলে, যা খুলতে Google অ্যাকাউন্ট লাগে। প্রবেশের সময় ভূমিকা ও প্রতিষ্ঠান নিয়ে একটি সংক্ষিপ্ত ঐচ্ছিক প্রশ্ন আসে; ইমেইল ঐচ্ছিক এবং পুরো সাইট তা ছাড়াই পড়া যায়।
-
-## সংযুক্ত ধারণা
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -133,67 +135,3 @@ Blisko srodan okvir je **relacijska epistemička djelotvornost** ([[du-yuan-epis
 - **„Studenti ostvaruju djelotvornost kada slobodno koriste umjetnu inteligenciju.“** Shema sa **14 kategorija kojom je kodirano 6.788 poteza uz pomoć ChatGPT-a** smjestila je **59 % poteza sedmaša** u kategorije koje ne predstavljaju agentnu upotrebu. Obujam upotrebe i djelotvornost različite su mjere.
 - **„Trenutačni modeli dobro podupiru učeničku djelotvornost.“** **Izmjereno na deset modela, podupiranje djelotvornosti najslabije je područje nakon učenja**: ImpactBench je izmjerio **djelotvornost i svrhu na 56,0 %** pozitivnih kriterija. Djelotvornost je dimenzija s kojom se UI sustavi nose najlošije, a ne nusproizvod sposobnosti.
 - **„Nastavničko posredovanje ograničava djelotvornost.“** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026.)]] pratio je **deset srednjoškolskih nastavnika matematike kroz osam tjedana intervencije s ChatGPT-4**, a posredovanje je mehanizam, a ne prepreka.
-
-## Povezani koncepti
-- [[learners]] — Učenici: krovni pojam za koncepte na strani učenika
-- [[pedagogical-partnerships]] — Pedagoška partnerstva
-- [[learner-identity]] — razvojni disciplinarni, profesionalni, kreativni i akademski identiteti učenika
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — zajedničko usmjeravanje UI-posredovane interakcije
-- [[agentic-ai]] — autonomna UI koja može preraspodijeliti djelotvornost u grupama
-- [[chemistry-education]] — Kemijsko obrazovanje i UI: laboratoriji, formativna procjena, ograničenja LLM-a, filozofija eksperimentiranja
-- [[social-emotional-learning]] — Socioemocionalno učenje
-- [[cognitive-surrender]]
-
-## Povezani članci
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Nacionalno reprezentativna anketa američkih nastavnika i ravnatelja o pokrivenosti UI politikom, djelotvornosti i pet razrednih poteza (Tench, Weinstein i James, 2026.)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
-- [[yan-agentivism-learning-theory-ai-2026]] — Srednjodosežna teorija učenja za interakciju čovjeka i umjetne inteligencije, s četiri mehanizma i šest provjerljivih propozicija (Yan i Gašević, 2026.)
-- [[dang-human-ai-collaboration-competency-2026]] — Učenička djelotvornost kao emergentna kvaliteta koordinacije domenske, UI i metakognitivne kompetencije, a ne samostalan čvor (Dang i sur., 2026.)
-- [[learner-agency-ai-simulation-2026]] — Pristup izboru nasuprot ostvarenoj djelotvornosti: klizači, neobvezni UI agent i učenje u simulaciji jata
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — UI agenti, radosna procjena i treći prostor
-- [[ai-mediated-research-agency-formation-2026]] — Formiranje istraživačke djelotvornosti posredovane umjetnom inteligencijom u ranoj znanstvenoj obuci
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Slojno osjetljivo kognitivno rasterećenje u pisanju potpomognutom genAI (Chen, 2026.)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Školsko UI obrazovanje sužava psihološke, ali ne i kognitivne jazove u spremnosti
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relacijska epistemička djelotvornost i šest kriterija koji razdvajaju produktivno oslanjanje od štetne ovisnosti (Du i Yuan, 2026.)
-- [[ai-pedagogical-accompaniment-amico]] — UI-potpomognuto pedagoško praćenje koje podupire STEM identitet
-- [[t2i-competence-paradox-2026]] — Paradoks kompetencije: kreativni identitet u upotrebi tekst-na-sliku generativne umjetne inteligencije
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergentna učenička djelotvornost u implicitnoj suradnji čovjeka i umjetne inteligencije: podržavajuće nasuprot kontrarnim personama
-- [[de-barba-srl-genai-2026]] — Učenička djelotvornost kroz razmjere: regulacija, integracija, pozicioniranje
-- [[mishra-control-vs-agency-history-2025]] — Kontrola nasuprot djelotvornosti kao bitna napetost u povijesti AIED-a
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Poticanje učeničke djelotvornosti u radu relevantnom za učenje
-- [[shaw-nave-cognitive-surrender-2026]] — Trosustavna teorija i kognitivna predaja: kako UI preoblikuje ljudsko rasuđivanje (Shaw i Nave, 2026.)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Djelotvornost budućih nastavnika tijekom genAI interakcija u oblikovanju učenja (Krushinskaia, Elen i Raes, 2026.)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatorska vizija: djelotvornost kao nulto-sumna s djelotvornošću alata
-- [[chen-zou-genai-group-assessment-agency-2026]] — Tri obrasca djelotvornosti u grupnoj procjeni posredovanoj genAI: pojačana, obuzdana i neostvarena
-- [[ai-integrated-teaching-identity-tensions]] — Načelna selektivnost kao nastavnička djelotvornost u UI-integriranom poučavanju (Adiozaman i Segar, 2026.)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Odbijanje kao dijagnostički dokaz: neupotreba kao situirani odnos i nejednako pravo na odbijanje umjetne inteligencije (Zagami, 2026.)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemički autoritet iskazan prekidom, ispravkom i odbijanjem, a ne maksimalnom upotrebom alata
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetencija nasuprot djelotvornosti kao svrhe UI obrazovanja i heuristika informirane UI djelotvornosti (Fagerlund i sur., 2026.)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Nastavničko posredovanje kao uvjet koji genAI održava artefaktom za kritiku, a ne autoritetom (Canonigo, 2026.)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Nastavnička djelotvornost kao resurs mobiliziran dizajnom, sa spremnošću prosuđenom prema artefaktima, a ne upotrebi (Charles, 2026.)
-- [[yang-balancing-teacher-student-agency-2026]] — Uravnoteživanje nastavničke i učeničke djelotvornosti u alatima za suorkestraciju pri dinamičnom uparivanju u stvarnom vremenu (Yang i sur., 2026.)
-- [[porath-interpretive-authority-2026]] — Matrica interpretativnog autoriteta i model ekološke integracije autoriteta: četiri konfiguracije tko tumači i ekološki slojevi koji ih pomiču
-- [[gyekye-selves-apprenticeship-2026]] — Studenti obojene kože u programima šegrtovanja autorski su se oblikovali kroz umjetnu inteligenciju odbijanjem, pregovaranjem i priznanjem („kulturna plošnost“); Institucionalna UI pismenost i širina priznanja
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Podijeljena epistemička djelotvornost u 6.788 poteza uz pomoć ChatGPT-a u srednjoškolskom znanstvenom pisanju (Chang i sur.
-- [[jelson-students-chatgpt-essay-writing-2026]] — Percipirano vlasništvo palo je samo tamo gdje je prepušten cijeli esej; korisnici planiranja i pregleda izjednačili su se s nekorisnicima (Jelson i sur., 2026.)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

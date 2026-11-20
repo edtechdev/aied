@@ -20,6 +20,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -79,32 +81,3 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - أبلِغوا عن آثار التوظيف بحسب الفئة العمرية لا كرقم إحلال مُجمَّع؛ فالتقابل بين 16% و8% هو النتيجة.
 - ادرسوا أين يختفي العمل التكويني، لأن ذلك هو الآلية التي تتحول بها المكاسب الحالية إلى نقص مستقبلي.
-
-## المفاهيم المرتبطة
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## المقالات المرتبطة
-
-- [[ai-adult-learning-guidelines-dis2026]] — مبادئ توجيهية لتصميم تقنيات الذكاء الاصطناعي لدعم تعلّم البالغين
-- [[ai-guided-learning-audiovideo-2026]] — التعلّم الموجَّه بالذكاء الاصطناعي لاكتساب المهارة
-- [[learnity-graphs-lifelong-learning-framework-2026]] — إعادة التفكير في التعليم العالي برسوم Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — البيداغوجيا التنضيرية والتفويض المعرفي في التعلّم المُوسَّط بالذكاء الاصطناعي
-- [[ai-lifelong-learning-policy]] — الذكاء الاصطناعي في التعلّم مدى الحياة: الفرص والتحديات في سياسات تعليم البالغين
-- [[community-centered-ai-education-adults]] — التصميم المشترك لتعليم ذكاء اصطناعي متمركز حول المجتمع للبالغين
-- [[cognitive-commons-ai-expertise-regeneration]] — مأساة المشاع المعرفي: الذكاء الاصطناعي وتوليد الخبرة
-
-- [[kim-ai-andragogy-2026]] — وجهات نظر متعلّمي البالغين حول الذكاء الاصطناعي كوكيل تعلّم تعاوني في البيداغوجيا التنضيرية (كيم وآخرون 2026)
-

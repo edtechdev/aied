@@ -7,6 +7,8 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 > **Learner modeling and adaptive instruction** — the umbrella for how AI represents learners (what they know, feel, and need) and how it uses those representations to adapt [[teacher-role|teaching]]. The family spans the *modeling* layer — **student modeling**, [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], and [[simulating-students|simulating students]] — and the *adaptive systems* that consume those models — [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], and [[personalized-learning|personalized learning]]. The shared question: *how does a system know what a learner knows, and what should it teach next?*
@@ -69,7 +71,6 @@ The concepts form a pipeline rather than competitors: **student modeling** is th
 
 Across the whole family, the defining validity challenge is the same: the learner representation must **faithfully reflect a learner's true state** rather than the system's default assumptions. For **student modeling** and [[knowledge-tracing|knowledge tracing]], this means the model must genuinely capture what a learner knows ([[ai-ed-evaluation|evaluation]] and [[assessment-validity|measurement validity]]). For [[simulating-students|simulation]], it means the synthetic learner must exhibit realistic imperfection rather than the model's full competence or [[ai-sycophancy|sycophantic]] agreement. Adaptive systems that consume faulty models inherit and propagate that error.
 
-
 Models that infer learner state from gameplay reached AUCs of 0.848–0.913, yet only two of the 55 reviewed studies audited them for demographic bias and just one examined differential outcomes by learner ability ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 Some intended signals may not be recoverable from dialogue at all: the Learning Context framework's pilot recovered misconceptions at 91.4% and [[anxiety-and-stress|anxiety]] at 100% but conscientiousness at only 68.6% and language proficiency at 60%, so a context-aware model should capture slow-to-surface traits rather than wait for dialogue to expose them ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
@@ -91,11 +92,9 @@ Recent advances use [[llm|LLMs]] for richer modeling. The [[xie-hillm-cd-2026|Hi
 
 Language can replace ID embeddings as the representation: PLCD builds LLM-derived concept schemas and exercise process graphs as priors, reaching 83.51% accuracy on XES3G5M, with largest gains in cold start — 4.60 ACC points over KCD for new concepts and 4.00 for new exercises — where ID-based models have no history ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 
-
 Simulator quality separates into two axes: a pool-then-specialize pipeline that trains shared behavioral patterns before a per-student adapter reached behavioral fidelity 0.51 and guidance responsiveness 0.91 in chess, against 0.23 and 0.72 for a frontier role-play baseline, showing a simulator must both match a student and be steerable ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 Risk scores can be accurate yet unsupported: [[at-risk-students-ml-prediction|Gheisari and Salarian (2026)]] reached 99% accuracy predicting withdrawal from enrollment and performance records, but on a single institution's 1,027 cleaned records with no external validation, no intervention tested, and fairness audits named as future work — the score supports triage, not a verdict about a student.
-
 
 A learner model that only predicts risk is not enough for decision support: coupling a calibrated at-risk model with integer-programming recourse over discrete actions — validated against timing, budget, immutability and availability constraints — produced compact intervention plans where optimization alone accepted unenactable ones ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -110,58 +109,3 @@ Learner modeling and adaptive instruction feed into [[learning-analytics|learnin
 - **"A faithful model needs the most complex method."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] illustrate that **faithful representation does not require the most complex** approach. Complexity is not a proxy for fidelity, and a simpler model that captures the relevant structure can be the better instrument.
 - **"Learner models need trace data."** A predictive learner model can rest on **the structure of enrollment** rather than trace data: TRACE encodes each semester as an **unordered basket of courses** and predicts from that. The predictive signal can live in the institution's administrative record.
 - **"Affective state requires physiological sensing."** A math tutor **inferred emotion from conversational text and facial expression** and mapped the aggregated state to tutoring decisions. The affect signal was recoverable from what learners were already producing.
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — the models beneath risk prediction and support targeting
-- [[sensor-and-gaze-analytics]]
-
-## Connected Articles
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogue-based learning-style inference fails on balanced metrics (Zamanifard, Goudarzi & Robb 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,27 +62,3 @@ Tinjauan lingkup 2026 atas [[ai-technologies|teknologi]] bantu digital untuk sis
 - **"Ukuran efek sedang mengidentifikasi alat yang tepat."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang dkk.]] menemukan intervensi berbasis AI menghasilkan efek positif sedang pada hasil belajar siswa penyandang disabilitas (**g = 0.588**) di seluruh robot, perangkat lunak, dan VR cerdas. Itu adalah rata-rata atas teknologi yang sangat berbeda untuk kebutuhan yang sangat berbeda, sehingga ia mendukung kategori dan bukan pilihan di dalamnya.
 - **"Akses yang dibatasi diagnosis adalah desain yang dapat dipertahankan."** Mewajibkan diagnosis formal untuk berpartisipasi mengecualikan siswa dengan kebutuhan nyata dan tanpa label, yang bertentangan dengan [[universal-design-for-learning|desain universal]] dan memindahkan biaya akses ke dokumentasi siswa.
 - **"Semakin banyak alat bantu berarti semakin inklusif."** Tinjauan lingkup menyaring **766 rekaman** dari lima basis data, dan volume keluaran tidak sama dengan cakupan kebutuhan — jumlah studi per hambatan adalah angka yang lebih informatif.
-
-## Konsep terkait
-
-- [[accessibility]] — sifat desain yang dioperasionalkan oleh teknologi bantu
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Artikel terkait
-
-- [[shin-ai-policies-sld-2026]] — Kebijakan AI dan akomodasi bagi siswa dengan kesulitan belajar spesifik
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analisis intervensi AI bagi siswa penyandang disabilitas
-- [[kutti-ai-voice-first-learning-companion]] — AI yang mengutamakan suara bagi anak tunanetra
-- [[tactile-statistical-graphs-accessibility]] — Grafik statistik taktil hasil AI
-- [[text-simplification-its]] — Penyederhanaan teks berbasis LLM untuk tutoring cerdas
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Pembuatan pertanyaan LLM bagi siswa Tuli/Hard-of-Hearing
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transkripsi video fisika aksesibel-matematika dengan Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI bantu bagi siswa tunanetra
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: Tinjauan lingkup teknologi bantu digital bagi siswa neurodivergen di pendidikan tinggi

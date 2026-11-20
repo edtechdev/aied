@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-11-05"
     agent: hermes-agent
 connected_faqs: [ai-support-reading-comprehension]
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -102,33 +104,3 @@ La fluidez en los primeros cursos de primaria es la excepción hasta ahora: en u
 - **«El texto generado por IA es más fácil porque se genera para un nivel.»** La evidencia apunta en sentido contrario para la salida de los modelos: los modelos de frontera usan en exceso construcciones asociadas con un coste de comprensión.
 - **«Leer con IA es una sola conducta.»** La escala AIR encuentra cuatro motivos distintos, y predicen tipos de uso diferentes.
 - **«Si la IA puede reescribir el texto, el nivel de lectura deja de importar.»** La diferenciación cambia el apoyo en torno a un pasaje más que la complejidad estructural del pasaje, que es una intervención distinta de bajar su nivel.
-
-## Conceptos conectados
-
-- [[ai-education]] — el marco general bajo el que se sitúa este dominio
-- [[language-learning]] — la lectura en L2 se solapa, pero allí el objeto es la adquisición
-- [[writing-education]] — el lado compositivo de la alfabetización
-- [[english-education]] — lectura y legibilidad en EAP/EFL/ESL
-- [[educational-nlp]] — la capa de medición de texto de la que depende la legibilidad
-- [[assessment]] — evaluación de la lectura y validez de las puntuaciones
-- [[motivation]] — por qué los lectores usan IA, y qué le hace eso al procesamiento
-- [[scaffolding]] — capas de apoyo en materiales de lectura diferenciados
-- [[neurodiversity]] — dislexia y dificultad de lectura
-- [[accessibility]] — texto legible para personas frente a texto legible para máquinas
-- [[generative-ai]] — la tecnología detrás de los textos generados y adaptados
-
-## Artículos conectados
-
-- [[air-scale-motivations-ai-reading-2026]] — una escala validada de motivos para leer con IA generativa
-- [[almirabi-ai-reading-assessment-motivation-2026]] — evaluación de la lectura mediada por IA en un aula de EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — materiales de lectura de EAP diferenciados
-- [[llm-children-reading-story-generation]] — historias de lectura infantil controladas por nivel
-- [[text-simplification-its]] — evaluar la simplificación de texto para la tutoría
-- [[clara-developmental-appropriateness-children-stories-2026]] — dificultad de desarrollo más allá de las fórmulas de legibilidad
-- [[bird-multimodal-educational-literature-2026]] — clasificar literatura por etapa clave
-- [[clark-ai-generated-language-readability-2026]] — por qué el lenguaje generado por IA es más difícil de leer
-- [[sidorkin-ai-generated-course-readings-2026]] — lecturas de curso generadas por IA y a medida
-- [[airri-machine-resistant-reading-interface-2026]] — interfaces de lectura resistentes a la máquina y su coste en legibilidad
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — retroalimentación de ChatGPT en lectura secundaria
-- [[dabaghi-ai-dyslexia-education-review-2026]] — IA para estudiantes con dislexia
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Uso de LLM, toma de notas y comprensión lectora en la educación secundaria: la comparación aleatorizada

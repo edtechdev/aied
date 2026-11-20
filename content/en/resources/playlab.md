@@ -18,6 +18,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, eduprompts]
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 **Playlab** is a creator platform where educators build their own AI apps instead of choosing from someone else's template. An app is [[rag|grounded in your own curriculum]], rubrics and references rather than general model knowledge, runs on a model you pick (Anthropic, OpenAI, Google, Meta) with the cost visible while you build, and can draw on pre-mapped [[knowledge-graph|knowledge graphs]] for Illustrative Mathematics, OpenSciEd, state standards and OER Commons.
@@ -30,8 +31,3 @@ K-12 teachers and districts wanting classroom controls and curriculum grounding 
 
 ## Notes
 Access to the builder is gated: the get-started page asks for an email address and a spot in an onboarding workshop, or an invite code. Its compliance claims (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), the promise that your work never trains outside models and the assignment of output rights to the creator belong in the data processing agreement, not only the marketing page; its capability comparison against MagicSchool and the major chatbots is Playlab's own, dated mid-2026. It grew out of end-user programming work linked to Scratch and the MIT Media Lab.
-
-## Connected Concepts
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

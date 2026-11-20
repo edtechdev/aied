@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,7 +65,6 @@ PBL inahusiana kwa karibu na [[project-based-learning|kujifunza kwa msingi wa mr
 
 [[case-based-learning|Kujifunza kwa msingi wa kesi]] ni jirani wa karibu zaidi: huanza kutoka kesi iliyoandaliwa na lengo la kufundisha lililobainishwa, wakati PBL huacha tatizo wazi zaidi na uchunguzi ukiongozwa na mwanafunzi.
 
-
 ## Kwa nini PBL ina umuhimu kwa muunganisho wa AI
 
 Kwa sababu PBL inaweka mbele mchakato, ushirikiano, na ufahamu ulioonyeshwa zaidi ya uzalishaji wa kitu, ni nyengo ya asili ya [[ai-literacy|matumizi ya AI yenye uwajibikisho]]: wanafunzi hujifunza *pamoja na* AI kama mshirika badala ya *kutoka* AI kama mbadala. Nafasi ya mwelekezi na ubuni wa tatizo zinakuwa vitenzi vinavyotofautisha kuwa AI inaunga mkono kujifunza au kinaibadilisha — maswali yale yale ya [[human-in-the-loop-ai|usimamizi wa binadamu]] na ubuni wa tathmini yanayojirudia katika hifadhi ya maarifa.
@@ -77,43 +78,3 @@ Kwa sababu PBL inaweka mbele mchakato, ushirikiano, na ufahamu ulioonyeshwa zaid
 - **"Matokeo ya PBL yanapaswa kuunganishwa na matokeo ya kujifunza kwa msingi wa mradi."** Meta-analysis ya ngazi tatu inaweka **utendaji wa bidhaa na suluhisho katika mfano tofauti** hasa kwa sababu unapima **ushirikiano wa binadamu-AI** badala ya ufikiri wa mwanafunzi mwenyewe. Kuviunganisha kungehusisha kazi iliyozalishwa kwa pamoja na mwanafunzi.
 - **"Faida za ushirikiano ni athari ya pembeni ya kutumia AI."** Utafiti uligundua utatuzi wa matatizo wa ushirikiano unaohisiwa wa juu (**M = 3.62 dhidi ya 3.05, d = 0.88**) na utatuzi wa matatizo wa pamoja (**3.40, d = 1.02**), na **athari kubwa zaidi za mwingiliano kwenye ujenzi wa maarifa wa pamoja na udhibiti wa kijamii**, vipimo vya mchakato wa ushirikiano ambavyo ubuni hutabiri. Utaratibu ni ushirikiano uliopangwa, si zana.
 - **"PBL na AI hasa huokoa muda wa mwezeshaji."** Faida zinazopimika ziko katika ubora wa mchakato kwenye vipimo ambavyo huwepo tu pale muundo wa kikundi unaundwa kwa ajili yao. Utekelezaji wa PBL unaoongeza AI bila kupanga ujenzi wa maarifa wa pamoja haupaswi kutarajia athari ile ile.
-
-## Dhana Zilizounganishwa
-
-- [[project-based-learning]]
-
-- [[case-based-learning]] — Kesi zilizoandaliwa na majadiliano ya kesi, tofauti na uchunguzi wazi wa PBL
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Kushindwa kwa Tija
-
-## Makala Zilizounganishwa
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Kujifunza kulingana na matatizo na kwa msingi wa mradi kama miundo yenye matumaini kwa elimu inayoungwa na generative AI: ushahidi unaoibuka kutoka mapitio ya kimfumo na meta-analysis ya viwango vitatu
-
-- [[pbl-structural-conditions-ai-2026]] — PBL na hali za kimuundo za muunganisho wenye tija wa AI (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Mapitio ya kimfumo ya mahusiano ya waelimishaji na AI katika PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — Mgonjwa wa mtandaoni wa GenAI kwa mafunzo ya PBL ya matibabu (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — Mfumo wa LEARN kwa GenAI yenye uwajibikisho katika PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT kama ngazi za msaada zinazoweza kubadilika katika PBL iliyoboreshwa na AI (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL katika uhandisi wa kibiolojia katika zama za GenAI (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — PBL inayoungwa na AI kwa ufikiri wa kikokotozi
-- [[genai-counter-learner-groupthink-2025]] — Wakala wa GenAI anapinga fikra za kundi katika PBL ya taaluma mbalimbali
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot za GenAI na kuweka matatizo katika sayansi ya msingi
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT kwa kujifunza kwa msingi wa uchunguzi katika STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI ya Kuunga Mkono Kujifunza Kulingana na Kushindwa kwa Tija
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Uongozaji wa Kielimu wa LLM kwa Kushindwa kwa Tija
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI ya Kuunga Mkono Ubuni wa Matatizo ya PF
-- [[genai-scenario-based-healthcare-education-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya matibabu inayotegemea hali (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Moduli ya CTD-PBL inayoungwa na AI na walimu 130 wa fizikia kabla ya huduma: TPACK na utatuzi wa shida za ushirikiano (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

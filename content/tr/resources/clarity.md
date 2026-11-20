@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/clarity
 source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,6 +44,3 @@ Tarayıcı düzenleyicisi sayfanın içinde yerel olarak çalışır ve taslağ�
 ## Benimsemeden önce bilinmesi gerekenler
 
 Depo bir değerlendirme protokolü, `samples/` içinde öncesi-sonrası örnekleri ve yeteneğin arkasındaki başvuru dosyalarını yayımlar; böylece bir inceleyici, kuralların nasıl davrandığını güven duyarak kabul etmek yerine inceleyebilir; buradaki sayfa hiçbir ölçülmüş sonucu yeniden ifade etmemektedir. Yazar Addy Osmani’dir, lisans MIT’tir ve çalışma herhangi bir kurumun ürünü değil, bağımsızdır. Genç ve aktiftir: Ağustos 2026’da oluşturulmuş, 54 commit, en yenisi Eylül’de 0.2.1 sürümü olan üç yayım ve Eylül 2026’da kontrol edildiğinde yaklaşık 250 yıldız vardır. Üç katkıcı değişiklik göndermiştir. Yetenek yönergeleri okuyucunun halihazırda çalıştırdığı bir ajana yüklenir, dolayısıyla olağan [[prompt-engineering|istek metni mühendisliği]] uyarıları geçerlidir: eleştirinin niteliği, kendisine verilen taslağa bağlıdır.
-
-## Bağlı kavramlar
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

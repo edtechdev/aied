@@ -32,7 +32,7 @@ ai_assist:
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -50,6 +50,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحفّظات
 
 يغطّي المجاني سير عمل الصف الفردي؛ والتسعير المؤسسي موجود بشكل منفصل ومرتبط بنطاق النشر ومعالجة البيانات والدعم والامتثال بدلًا من رسم لكل طالب أو معلّم. ولأن التقرير يُظهر عملية لا نية، فالنسخ واللصق وحده ليس سوء سلوك — تقول إرشادات المشروع نفسها إن الطالب قد يكون يلصق نصه الأقدم الخاص، وإن الطلاب لا ينبغي أن يُعاقَبوا لمجرد اللصق. وأرقام التبنّي وتقييم 5.0 في متجر Chrome الإلكتروني تسويق المشروع الخاص؛ ومراجعات متجر الامتدادات ليست دليلًا مستقلًا على نواتج التعلّم. فاقرأ التقارير كدليل لمحادثة، وهو كيف صُمّمت الأداة وكيف يصفها المطوّر.
-
-## المفاهيم المرتبطة
-[[academic-integrity]]، [[metacognition]]، [[writing-education]]، [[self-regulated-learning]]، [[formative-assessment]]، [[ai-detection]]، [[process-oriented-assessment]]

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -48,12 +49,3 @@ Moodle-administratorer og -udviklere, der allerede driver sitet, undervisere, de
 ## Noter og forbehold
 
 Open source under GPL v3 eller nyere, men gratis betyder ikke gratis at køre: nogen betaler for model-API'et, og bedømmelsens kvalitet afhænger af modelvalg og promptdesign. Fritekstsvar forlader Moodle-serveren, når en fjernudbyder bruges, så institutionens dataaftale bestemmer, hvad der må sendes; den selvhostede Ollama-rute findes til sites, der ikke kan sende studerendes arbejde ud. Repositoriet angiver ingen offentliggjort nøjagtigheds- eller overensstemmelsesundersøgelse, så pluginnet bør ikke indføres ud fra den antagelse, at LLM-bedømmelse svarer til menneskelig bedømmelse — [[assessment-validity|validitet]] skal fastslås lokalt mod menneskelige scorer, før nogen karakter får vægt. De ledsagende adfærdsformer er en hård afhængighed: installerer man kun spørgsmålstypen, bliver spørgsmålene ubedømmelige.
-
-## Relaterede begreper
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

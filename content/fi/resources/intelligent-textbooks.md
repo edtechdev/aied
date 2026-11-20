@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -49,16 +50,3 @@ Opettajille ja opetussuunnittelijoille, jotka haluavat rakentaa tai ylläpitää
 ## Huomioita ja varauksia
 
 Tämä on ammattilaisen opas ja työkaluketju, ei vertaisarvioitu tutkimus – se esittää työnkulun ja oman koulutuksellisen perustelunsa ("älykkäät oppikirjat opastavat opiskelijoita käsitteiden läpi heidän tiedonjanoisella matkallaan") eikä näyttöä oppimistuloksista. MicroSim-tutkimusartikkeli on lähimpänä empiiristä tukea, ja se on itse julkaistu arXivissa. Molemmat projektit ovat avointa lähdekoodia (intelligent-textbooks-repo ilmoittaa MIT-lisenssin ja 38 tähteä; MicroSims ilmoittaa Creative Commons -lisenssin ja 13 tähteä) ja aktiivisesti ylläpidettyjä. Käsitekaaviot ja sanastolähtöinen rakenne ovat aidosti hyödyllisiä löydettävyydelle, mutta opas olettaa melko teknisen kirjoitustyönkulun – MkDocsin, Gitin ja generatiivisen tekoälyn työkalut – mikä voi olla este joillekin tiedekunnan jäsenille. Sisäänoton hetkellä MicroSimien rekisteri on yhä vain tiekartalla, joten tietyn olemassa olevan simulaation löytäminen nojaa sivuston omaan hakuun ja navigointiin.
-
-## Liittyvät käsitteet
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

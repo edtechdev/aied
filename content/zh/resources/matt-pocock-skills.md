@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,6 +44,3 @@ ai_assist:
 ## 采用之前需要了解什么
 
 全部内容以 [[open-source|开源]]（open source）形式发布于 MIT 许可下，可免费取用，作为本地开展 [[ai-literacy|AI 素养]]（AI literacy）或 [[self-directed-learning|自主学习]]（self-directed study）的起点。采用规模很大且变化迅速：2026 年 9 月查看时约 270,000 stars、23,000 forks，最近一次提交在 2026 年 9 月 18 日。需要注意的是适用范围。这些 Skill 默认 [[human-ai-collaboration|工程师]]（engineer's）的工作语境，并被归入工程、生产力、已废弃和进行中四个分区，因此部分条目明确标注未完成或已退役，README 里还夹着通讯订阅入口。把教学与提问类 Skill 当作其中可迁移的部分，并预期在拿到学生面前之前要对其中的任意一个进行改写。
-
-## 关联概念
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

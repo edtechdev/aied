@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -56,7 +58,6 @@ La manière dont un système est explicable — et en quels termes — façonne 
 
 **La perception du risque et la confiance ne sont pas des opposés.** Une étude de perception menée auprès de 130 étudiants sur l'IA générative [[agentic-ai|agentique]] dans l'[[higher-ed|enseignement supérieur]] a montré un risque perçu modérément élevé (M = 3,33, SD 0,89) parallèlement à une confiance et à une intention d'adoption plus favorables (M = 3,62, SD 0,81), et — contrairement à une attente simple de dissuasion — une association *positive* entre le risque perçu et l'intention d'usage continu (ρ de Spearman = 0,317, p < 0,001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). Les auteurs y lisent une adoption informée plutôt qu'une indifférence : les utilisateurs engagés ou expérimentés reconnaissent à la fois la valeur et les limites de la technologie, et seulement 45,4 % ont déclaré faire confiance aux agents sous la conduite d'un enseignant. Pour la [[trust-calibration|calibration de la confiance]], l'implication est que la conscience du risque n'est pas l'absence de confiance — elle peut en être une composante — tandis que le plan transversal laisse indistinguables la conscience, l'exposition et l'auto-sélection.
 
-
 La confiance envers l'IA se comporte comme un cheminement allant de l'évaluation à la dépendance plutôt que comme une attitude unique : l'autonomisation perçue liée à l'IA et la menace perçue liée à l'IA étaient presque indépendantes (r = 0,030) mais faisaient pourtant évoluer la confiance dans des directions opposées (β = 0,576 et β = −0,328), et la confiance portait des associations indirectes significatives avec la dépendance à l'IA générative dans les deux sens ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 Un modèle structural donne à ce rôle de pont un test empirique. Dans l'enquête de [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] auprès de 642 étudiants universitaires, le soutien contextuel prédisait la calibration de la confiance (β = 0,56), la calibration de la confiance prédisait la [[regulation|régulation]] [[collaborative-learning|collaborative]] (β = 0,49) et les gains de [[transfer-of-learning|transfert]] perçus (β = 0,22), et le chemin direct du soutien contextuel vers les gains n'était pas significatif.
@@ -68,7 +69,6 @@ Le construit est plus mince que ne le laisse entendre le coefficient. Il mesure 
 La transparence peut être la voie la plus forte vers la confiance sans que la confiance soit la voie la plus forte vers l'usage. [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] ont interrogé 653 apprenants au sujet d'[[ai-avatars-and-synthetic-instructors|avatars d'IA]] et ont constaté que la transparence prédisait la confiance à β = 0,542 — le chemin le plus fort de leur modèle — tandis que cette confiance ne prédisait l'intention d'adoption qu'à β = 0,196, derrière l'avantage relatif (0,267) et l'utilité perçue (0,247).
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] soutient une conception de la confiance dans les algorithmes **propre à chaque fonction plutôt que globale** : ni l'aversion pour les algorithmes ni l'appréciation pour les algorithmes ne décrivaient ces 13 étudiants, qui faisaient simultanément confiance à ChatGPT pour une rétroaction de surface et s'en méfiaient comme correcteur. Leur confiance était conditionnée par la supervision de l'enseignant, et leur scepticisme provenait des limites contextuelles de l'IA — la mauvaise lecture d'une écriture manuscrite numérisée (« it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't »), l'ignorance du barème de l'enseignant, et un optimisme chronique — plutôt que d'une technophobie, ce qui suggère que les mesures de confiance devraient être décomposées selon la fonction qu'une IA remplit et les enjeux qui s'y rattachent.
-
 
 Les trois dimensions de la crédibilité de la source peuvent se dissocier : dix-sept étudiants de premier cycle en anglais langue étrangère ont accordé à un assistant d'écriture IA une large expertise, ont douté surtout de sa fiabilité quant à ce que la plateforme conservait, et ont jugé sa bienveillance la plus faible — le plafond de leur dépendance résidait dans le soin, non dans la compétence ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026)]]).
 
@@ -89,7 +89,6 @@ Une réponse qui privilégie la détection agit à l'inverse : des détecteurs p
 Le recours aux détecteurs et à la surveillance, soutiennent [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], nourrit un climat de suspicion qui érode la confiance des étudiants envers l'évaluation et l'institution — l'inverse de la confiance que les dispositifs d'intégrité sont censés protéger.
 
 La rétroaction est un lieu clé de la confiance interpersonnelle. [[genai-teacher-feedback-comparison|Les perceptions par les étudiants de la rétroaction de l'IA générative comparée à celle de l'enseignant]] montrent que les deux répondent à des besoins différents — complémentaires mais non interchangeables — les étudiants accordant leur confiance à la rétroaction enseignante pour le jugement relationnel et personnalisé, et à l'[[generative-ai|IA générative]] pour la rapidité et l'[[accessibility|accessibilité]]. [[care-full-feedback-genai|Un récit « care-full » de la rétroaction]] soutient qu'une rétroaction digne de confiance est une pratique [[ethics|éthique]] et relationnelle : elle construit des relations éducatives et est respectée comme un art professionnel, des valeurs qu'une IA ne peut simplement répliquer. C'est pourquoi la confiance entre enseignant et étudiant — bâtie sur le soin et le jugement professionnel — reste centrale même lorsque l'IA entre dans la boucle de rétroaction.
-
 
 La confiance entre pairs passe par un canal différent : parmi 406 étudiants universitaires évaluant un camarade de classe remémoré, l'usage de l'IA générative par ce camarade était associé à une confiance interpersonnelle plus faible, portée par la chaleur et la compétence perçues, et l'association négative ne valait que lorsque la [[ai-literacy|littératie en IA]] perçue était faible — elle était non significative lorsque celle-ci était élevée ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al., 2026]]).
 
@@ -131,54 +130,3 @@ La confiance dans un outil peut porter une part du sentiment d'employabilité de
 **« Si les apprenants lui font davantage confiance, ils l'utiliseront plus prudemment — ou du moins de manière appropriée. »** C'est l'inverse que documentent les données. Parmi 432 étudiants de premier cycle résolvant des problèmes Python avec des suggestions exactes et délibérément trompeuses, une confiance plus grande prédisait une dépendance appropriée **plus faible** (r = −0,42), et les étudiants acceptaient 86,03 % des suggestions trompeuses. La confiance n'est pas un indicateur indirect de la calibration ; voir la [[trust-calibration|calibration de la confiance]].
 
 **« Des avertissements honnêtes sur la faillibilité mineraient la confiance dans un tuteur. »** Ils améliorent le comportement. Les [[ai-fallibility-warning-help-seeking|avertissements sur la faillibilité de l'IA]] dans un système de tutorat intelligent en mathématiques ont accru la [[help-seeking|recherche d'aide]] au lieu de réduire l'usage, ce qui suggère qu'énoncer les limites favorise une dépendance appropriée plutôt qu'elle ne l'érode.
-
-## Concepts liés
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — le risque social sur lequel reposent les normes et la divulgation
-
-## Articles liés
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — La transparence comme antécédent le plus fort de la confiance, mais un chemin direct modeste vers l'intention d'adoption (Wang et al. 2026)
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Un usage inégal, une confiance similaire : l'IA générative au Danemark et en Roumanie (Lucau, Voicu & Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Le risque perçu corrèle positivement avec l'intention d'usage continu : une adoption informée (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — L'écart de confiance entre enseignants et étudiants sur le contrôle et l'autonomie dans l'IA de classe au K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — La divulgation de l'usage de l'IA est guidée par des facteurs relationnels et par le confort avec les enseignants, non par la politique
-- [[genai-teacher-feedback-comparison]] — La rétroaction de l'IA générative et celle de l'enseignant répondent à des besoins de confiance différents et complémentaires
-- [[care-full-feedback-genai]] — La rétroaction digne de confiance comme pratique « care-full » et relationnelle
-- [[ai-fallibility-warning-help-seeking]] — L'avertissement sur la faillibilité de l'IA accroît la recherche d'aide dans un système de tutorat intelligent
-- [[calibrating-trustworthiness-llm-education-2026]] — Co-conception de métriques et de visualisations de fiabilité pour les LLM en éducation
-- [[ai-overreliance-complex-adaptive-system-2026]] — La sur-dépendance à l'IA modélisée comme système adaptatif complexe
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — L'écart confiance-utilité dans les outils d'IA pour la physique
-- [[t2i-competence-paradox-2026]] — Le paradoxe de la compétence dans la génération d'images par IA
-- [[task-context-trust-educational-hri-2026]] — Le contexte de la tâche façonne la confiance dans les robots éducatifs plus que l'apparence
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — L'identité de l'avatar et la confiance épistémique dans l'apprentissage médiatisé par l'IA
-- [[contextual-sycophancy-ai-literacy]] — La complaisance contextuelle et ses limites pour la calibration de la confiance
-- [[sycophantic-ai-social-interaction-2026]] — L'IA complaisante rend l'interaction humaine moins satisfaisante au fil du temps
-- [[ai-pedagogical-accompaniment-amico]] — Médiation pédagogique responsable et confiance dans les systèmes enrichis par l'IA
-- [[best-response-student-ai-dialog-2026]] — La confiance dans le dialogue étudiant-IA
-- [[ai-adaptation-gap-higher-education-2026]] — L'utilité perçue comme prédicteur le plus fort de la confiance en l'IA dans l'enseignement supérieur
-- [[bassett-ai-detectors-education-2026]] — Confiance et défiance à l'égard des systèmes de détection de l'IA
-- [[genai-use-usefulness-student-experience-australia-2026]] — L'expérience étudiante de l'utilité de l'IA générative dans l'enseignement supérieur australien (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Rendre les résultats de l'apprentissage automatique accessibles aux enseignants en classe hybride
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Le point de vue des étudiants sur une évaluation transparente de l'écriture assistée par l'IA dans l'enseignement supérieur
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Trois profils d'étudiants où la confiance envers l'IA suit la résilience et le stress plutôt que la démographie (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Une confiance bornée : l'engagement des étudiants d'anglais langue étrangère avec la rétroaction d'écriture générée par l'IA, du point de vue de la crédibilité de la source
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Les évaluations d'autonomisation et de menace faisaient évoluer la confiance dans des directions opposées, portant la dépendance à l'IA générative
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité augmentaient le basculement vers une position incorrecte de l'IA ; retenir une recommandation le supprimait
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Un modèle structural donne à ce rôle de pont un test empirique
-- [[zhu-creative-agency-trust-genai-art-2026]] — La confiance instrumentale comme prédicteur le plus fort de l'intention d'utiliser l'IA générative pour les étudiants en art
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — L'usage de l'IA générative par les pairs abaisse la confiance interpersonnelle via la chaleur et la compétence perçues, atténué par la littératie en IA
-- [[yan-genai-employability-career-self-efficacy-2026]] — La confiance dans l'IAG comme voie indirecte de l'usage vers l'employabilité auto-perçue

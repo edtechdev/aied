@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -43,6 +44,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Що варто знати перед використанням
 
 Уся книга безкоштовна у форматах PDF і ePub, а окремі розділи видаються окремо з власними DOI. Публікація — липень 2026 року, WAC Clearinghouse, у серії WAC Repository; 402 сторінки; редактори — Anuj Gupta та Brian Gogan; колективний DOI 10.37514/TWR-B.2026.2999. Ліцензія — Creative Commons BY-NC-ND 4.0, тому читачі можуть переглядати книгу, друкувати особисті примірники та посилатися на неї, але не можуть відтворювати її на іншому сайті чи адаптувати без дозволу; курс, якому потрібна змінена формулювання підказок, має написати власну версію, а не передруковувати ці. Підказку кожного розділу перевіряли на різних платформах, хоча книга не повідомляє про контрольоване порівняння результатів, тож підказки варто розглядати як експертне проєктування, а не як перевірену втручальну практику.
-
-## Пов’язані поняття
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

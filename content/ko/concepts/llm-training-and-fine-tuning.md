@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -165,73 +167,3 @@ Mistral-7B에서 16개의 Python 지식 구성요소를 언러닝하면 정확�
 - **"모형이 학습 이득의 주요 결정 요인이다."** 모형과 프롬프트 선택은 LLM과 학생 학습 이득 사이 격차의 **약 15%**만 설명합니다. 남은 85%를 최적화하는 것이 일이며, 그것은 가중치 안에 있지 않습니다.
 - **"로컬 모형은 호스팅 모형보다 성능이 낮으므로 검색은 부차적 지렛대다."** 세 가지 구성 평가에서 **검색이 모형이 아니라 일차적 설계 결정**이었습니다. **검색이 없는 로컬 LLM은 정확도 52.3%에 그쳐 TF-IDF 기준선보다 낮았습니다.** 검색을 더하자 같은 모형이 모형 교체로는 도달하지 못했을 임계값을 넘어섰습니다.
 - **"훈련 자료가 많을수록 교수 행동이 좋아진다."** 형식을 개선하면서 피드백 생성을 악화시킨 평가 미세 조정이 축소판 반례입니다. 비슷해 보이는 목표에 대한 최적화는 대리 지표를 개선하면서 원하던 것을 훼손할 수 있습니다.
-
-## 연결된 개념
-
-- [[llm]] — 이 모델들이 무엇인가; 이 페이지는 그것들이 어떻게 만들어지는가이다
-- [[ai-technologies]] — 우산: AI 기술과 기법
-- [[rag]] — 훈련보다 앞서는 단계인 검색
-- [[prompt-engineering]] — 가장 값싼 지렛대, 그리고 이겨야 할 기준선
-- [[reinforcement-learning]] — 사후 훈련의 RL 단계
-- [[intelligent-tutoring]] — 주요 응용 영역
-- [[adaptive-learning]] — 모델을 적응시키는 것과 구별되는, 학습자에게 적응하기
-- [[automated-assessment]] — 미세 조정된 채점 모델이 착륙하는 곳
-- [[automated-essay-scoring]] — 채점 증거의 대부분이 나오는 과제
-- [[ai-feedback-quality]] — 미세 조정이 고치는 것과 고치지 못하는 것
-- [[educational-nlp]] — 인접한 방법 계열
-- [[simulating-students]] — 같은 기계장치의 학습자 쪽 응용
-- [[student-modeling]] — 시뮬레이션 아래의 모델링 계층
-- [[open-source]] — 로컬 미세 조정을 가능하게 만드는 공개 가중치
-- [[benchmark]] — 이 시스템들이 어떻게 평가되는가, 그리고 그것의 한계
-- [[assessment-validity]] — 좋은 지표가 왜 나쁜 도구를 의미할 수 있는가
-- [[pedagogical-safety]] — 훈련이 보장하지 않는 것
-- [[ai-sycophancy]] — 사후 훈련이 겨냥할 수 있는 행동
-- [[hallucination-risk]] — 미세 조정이 고칠 수 없는 실패 양상
-- [[privacy]] — 훈련 데이터와 언러닝에 대한 제약
-- [[human-in-the-loop-ai]] — 자동화를 감당 가능하게 만드는 폴백
-- [[metacognition]] — 사후 훈련의 교수학적 목표
-- [[scaffolding]] — 보상 함수가 인코딩하려는 행동
-- [[ai-education]] — 이 작업이 봉사하는 분야
-
-## 연결된 문서
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL–SFT–RL 파이프라인: CDPK에서 96.52%, Gemini-3 Pro를 넘어섬
-- [[learnlm-improving-gemini-learning]] — Gemini의 사후 훈련 내부의 교수학적 지시 따르기
-- [[teachlm-post-training-llms-education]] — 100,000시간의 진정한 튜터링 데이터에 대한 사후 훈련
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 교수학적 결정을 겨냥한 분류 정렬 사후 훈련
-- [[swim-student-writing-simulation-2026]] — 보상 설계의 세부를 담은, 루브릭 프롬프트에 대한 SFT와 GRPO
-- [[misconception-acquisition-dynamics-llms-2026]] — 오개념 훈련의 구속적 요구 사항으로서의 단계 수준 추적
-- [[jeon-isd-agent-bench-2026]] — 25,795개 시나리오에 걸친 이론 접지 교수 설계 에이전트
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — 모델을 소크라테스적 안내자로 정렬하는 휴리스틱 RL
-- [[special-r1-rl-special-education]] — 특수 교육 정렬을 위한 강화 학습
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 개인화를 위한 LLM 안내 강화 학습
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — 교수학적 대규모 추론 모델
-- [[omniedu-open-educational-foundation-models-2026]] — 모델 규모에 걸쳐 예시당 하나의 목표 행동
-- [[garrod-edu-qurating-educational-data-curation-2026]] — 훈련을 위한 교육 데이터 정제
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA 랭크 효과와 어댑터 파라미터당 이득
-- [[aiawe-automated-writing-evaluation]] — 규모가 성공을 예측하지 않은 LoRA 적응 AWE
-- [[llm-graders-computer-science-exams-2026]] — 약 3,900개의 예시에서 인간 채점자 동등에 도달한 하나의 어댑터
-- [[iks-instruct-dataset-indian-knowledge]] — 24,795개 예시의 지시 데이터셋과 거의 제로에 가까운 기반 기준선
-- [[llm-children-reading-story-generation]] — 읽기 수준 통제를 위한 규모에 대한 통제 가능성
-- [[bert-discourse-english-teaching-2026]] — 어떤 층을 미세 조정할 것인가, 그리고 왜 4가 12를 이기는가
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 미세 조정이 작동하는지를 결정하는 것은 구조이지 파라미터 수가 아니다
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 충실성 감사를 갖춘 2B 모델로의 증류
-- [[llm-unlearning-math-privacy]] — PII와 유해 콘텐츠의 그래디언트 기반 언러닝
-- [[reflection-level-classification-hungarian-essays-2026]] — 고전 및 임베딩 기준선 대비 미세 조정된 트랜스포머
-- [[multimodal-item-parameter-estimation-2026]] — 다중 모달 문항으로부터 IRT 곡선 학습
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 인간 개입 루프 정책으로서의 자신감 라우팅
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 에너지와 VRAM이 보고된 1차 결정으로서의 검색
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23개 연구: 프롬프트 13, 미세 조정 7, 혼합 3
-- [[gpt-item-generation-l2-listening-2026]] — 프롬프트가 정체한 뒤 미세 조정이 나머지를 더함
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — 채점에서 이기고 피드백에서 실패한 미세 조정
-- [[educational-llm-alignment]] — 모델과 프롬프트 선택에 대한 약 15%의 천장
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 무훈련 대안으로서의 루브릭 안내 프롬프트
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — 오개념 시뮬레이션을 위한 프롬프트 수준 페르소나 통제
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 명시적 훈련 요구 사항으로서의 아첨
-- [[contextual-sycophancy-ai-literacy]] — 프롬프트와 정렬을 살아남는 아첨
-- [[hazra-safetutors-pedagogical-safety-2026]] — 지속되는 대화에 걸쳐 저하되는 안전
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — 훈련되지 않은 최전선 모델로부터의 약 35% 사용 불가능한 힌트
-- [[simulated-students-tutoring-dialogues-2026]] — 시뮬레이션된 학생이 학생처럼 행동하는가
-- [[inside-llm-student-simulator-reasoning-2026]] — 학생처럼 행동하고 생각하도록 모델을 미세 조정하기
-- [[history-aware-student-simulation]] — 학습자의 궤적에 조건화된 시뮬레이션
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — 교육과정 구조화 자료는 표본 효율적입니다

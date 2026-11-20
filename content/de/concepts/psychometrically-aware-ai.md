@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -62,29 +64,3 @@ Psychometrisch bewusste KI sitzt an der Schnittstelle von [[educational-measurem
 - **„Ein Modell, das gut punktet, misst dasselbe."** Auf **demselben Assessmentinstrument** **divergieren** die Antwortstrukturen von Mensch und LLM — ein Modell kann gut punkten und dabei etwas anderes messen als das, was das Instrument beabsichtigt. Übereinstimmende Scores sind die Beobachtung; Konstruktäquivalenz ist eine separate Behauptung, die Belege auf Strukturebene verlangt.
 - **„Kalibrierung lässt sich an einer einzelnen Genauigkeitszahl ablesen."** **Eine einzelne Genauigkeitszahl kann ein Modell verbergen, das nur kalibriert aussieht**: Die Aufforderung an GPT-4o und Gemini 2.0 Flash, Lernstildimensionen aus den Dialogen von **153 Grundstudierenden** abzuleiten, erzeugte **moderate Genauigkeit, die sich unter ausbalancierten Metriken anders verhielt**. Aggregierte Genauigkeit verbarg ein Differential, das ausbalancierte Metriken offenlegten.
 - **„Automatisierte Benotungspipelines können psychometrisches Vorgehen nicht reproduzieren."** Die Autoren reproduzierten eine etablierte Pipeline in automatisierter Form (**eine 67%-Wahrscheinlichkeit, mindestens 7 Rubrik-Items korrekt zu beantworten für den unteren Cut und mindestens 10 für den oberen**), was KI- und menschliche Itemscores auf derselben Grundlage vergleichbar macht. Das Vorgehen war reproduzierbar; die Konstruktfrage bleibt.
-
-## Verbundene Konzepte
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Verbundene Artikel
-- [[genai-reliance-scale-problem-solving-2026]] — Eine validierte Skala für die Abhängigkeit Studierender von generativer KI während der Problemlösung (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Rahmenwerk für KI-gestützte Benotung in der groß angelegten Schreibbewertung
-- [[assessment-latent-structure-human-llm-2026]] — Messen Assessmentinstrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Ausrichtung der LLM-Assessmentpraxis an psychometrischer Kalibrierung
-- [[llm-item-difficulty-prediction]] — LLM-Vorhersage der Itemschwierigkeit
-- [[cong-confidence-asag-2026]] — Konfidenzbewusste automatisierte Kurzantwort-Benotung
-- [[multimodal-item-parameter-estimation-2026]] — Multimodale Schätzung von Itemparametern
-- [[competency-based-education-genai-production-2026]] — Kompetenzbasierte Bildung mit GenAI
-- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
-- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Itemschwierigkeit mit LLMs und baumbasiertem ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Vergleich von KI-Kompetenzinstrumenten: Jangle- und Jingle-Paare über 55 Konstrukte
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-Nutzung durch Studierende und die Grenzen KI-generierter Fragenschwierigkeit in Data-Science-Kursen
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate Genauigkeit erwies sich bei Prüfung des Recall pro Klasse als Mehrheitsklassen-Prädiktion (Zamanifard, Goudarzi & Robb 2026)

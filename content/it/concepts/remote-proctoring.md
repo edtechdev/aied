@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -83,30 +85,3 @@ La sorveglianza degli esami a distanza esiste su uno spettro. **La sorveglianza 
 - **"La sorveglianza protegge l'integrità accademica."** **La giustificazione dell'integrità non ha superato il test più grande.** Attraverso **quattro ondate e 1.760 studenti in 105 corsi**, la sorveglianza **ha aumentato l'ansia da esame (β = 0,60, p < 0,001) ma non ha avuto** alcun beneficio rilevabile sull'integrità. L'effetto misurato era sugli studenti, non sull'imbroglio.
 - **"Una migliore capacità di rilevamento significa una migliore sorveglianza."** Una revisione sistematica decennale di **80 studi peer-reviewed (2014-2024)** rileva che la sorveglianza avanzata basata su ML/DL **rileva l'imbroglio in modo più** accurato e non dice nulla sul fatto che dispiegarla cambi la condotta. La prestazione di rilevamento è una proprietà del classificatore, non del regime di valutazione.
 - **"I segnali comportamentali sono indicatori affidabili di condotta scorretta."** I sistemi **tracciano diciassette punti di riferimento del corpo per fotogramma** con YOLOv11 per derivare caratteristiche di **deviazione della postura, tendenza della testa e movimento della parte superiore del corpo**. Quei costrutti sono proxy, e una postura segnalata è una classificazione su un corpo anziché l'osservazione di una trasgressione.
-
-## Concetti collegati
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Articoli collegati
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI removes the behavioral signal proctoring depends on (Corbin, Sharpe & Dawson 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces

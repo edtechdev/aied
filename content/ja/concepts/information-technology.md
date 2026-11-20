@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -85,27 +87,3 @@ ai_assist:
 **「AIの文書を持つプログラムが大多数であることは、AIガバナンスが整っていることを意味する」**。**認定を受けた48**の保健情報学および保健情報管理の修士プログラムすべてを対象とした環境調査では、**40（83%）**が公開されているAI文書を少なくとも1つ持っていましたが、その知見は方針ではなく指針と題されています。公開された推奨事項の一式はガバナンスの仕組みではありません。責任を割り当てることも、システムが故障したときに何が起きるかを定めることもしないからです。
 
 **「AIが支援した決定を説明できない学生は、AIを誤用している」**。もう一つの説明は、正しく行った決定を言葉にできないのだ、というものです。ITの仕事には根拠が暗黙知である有能な実践があふれており、言葉にできない有能さを不正行為として扱うことは、教えるべき目標を規律の問題と誤診します。必要なのは説明の練習であり、方針ではありません。
-
-## 関連概念
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## 関連記事
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

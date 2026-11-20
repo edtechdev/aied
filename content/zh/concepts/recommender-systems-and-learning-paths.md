@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -100,42 +102,3 @@ PersonaPath 通过质疑决策的*单位*，把排序问题推得更远。[[pers
 **“稀疏数据只是技术上的小麻烦。”** 在这批文献的稀疏水平上（0.9981），系统几乎什么都看不到，这使冷启动与流行度偏置成为结构性的，而无法靠调参修复。在这样一点信号上训练的推荐系统会系统性地浮现已经流行的东西，而安静或不寻常的学习者正是它看不见的人。
 
 **“可解释性是一个报告功能。”** 教师或学习者能否审计一项推荐，是一个正当性条件：一条学生无法检查的路径，也是一条他们无法辩驳的路径，这在成为界面问题之前先是一个治理问题。
-
-## 关联概念
-
-- [[knowledge-graph]] — 概念、资源与先修关系的结构化表示
-- [[explainable-ai]] — 作为设计特征的解释，中介可理解性与信任
-- [[curriculum-design]] — 推荐系统建模、推断与复制的排序决策
-- [[learning-design]] — 路径分析所作用的活动计划序列
-- [[learning-analytics]] — 推荐背后的数据与方法，也是被审计的对象
-- [[cognitive-diagnosis]] — 诊断用于播种补救路径的知识状态
-- [[knowledge-tracing]] — 建模掌握度随时间的变化，以决定学习者已准备好学什么
-- [[student-modeling]] — 推荐所消费的学习者表示
-- [[personalized-learning]] — 更宏观的目标；本页覆盖选择决策
-- [[adaptive-learning]] — 实时调整机制；本页覆盖排序与序列化
-- [[intelligent-tutoring]] — 在对话中执行推荐的平台
-- [[bias-mitigation]] — 排序与曝光中的公平性干预
-- [[equity-in-ai-education]] — 推荐质量上的群体级差异
-- [[human-in-the-loop-ai]] — 对自动资源导航的监督
-- [[self-directed-learning]] — 学习者自主维护的路径与终身导航
-- [[lifelong-learning]] — 学位序列之外的图谱式学习
-- [[trust-calibration]] — 让依赖程度与推荐可靠性相称
-- [[student-support-and-success]] — 推荐支持、资源与学业路径
-
-## 关联文章
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — 面向多模态教学资源的混合协同过滤加知识图谱，具备能力与进度感知的融合（Liu、Sun 与 Song 2026）
-- [[fair-explainable-edu-recommendations]] — 异质知识图谱 + GRU 推荐系统，带 GroupDRO 公平性与反事实可解释性（Evangelista 与 Bukhari 2026）
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 领域驱动解释比特征重要性图表更能建立教师信任（Feldman-Maggor 等 2025）
-- [[proprl-prerequisite-relation-learning]] — 带不可逆约束的先修关系学习，保证方向一致性（Cheng 等 2026）
-- [[pattern-kc-programming-recommendation]] — 按基于模式的知识组件相似度推荐编程练习（Hoq 等 2026）
-- [[learning-paths-patterns-learning-design-2026]] — 对 554 门课程中 29,064 个已设计活动的马尔可夫与模式挖掘分析（Divjak、Svetec 与 Horvat 2026）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 贝叶斯 DINA 诊断与最短补救路径，以认知负荷为中介（Feng 与 Huang 2026）
-- [[knowledge-gap-detection-ai-tas]] — 把 AI 助教的提问映射到 GPT-4 抽取的先修图谱，找出课程级缺口（Medhat 等 2026）
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 学习性图谱作为固定课程的终身学习替代方案（Szekely、Gal-Ezer 与 Harel 2026）
-- [[human-ai-collaboration-prerequisite-functions]] — 五级分类法表明多数人机互动是咨询而非协作（Mutlu Cukurova 2026）
-- [[dual-ai-learning-pathways-sdt-2026]] — 自主支持与压力预测建设性或强迫性 AI 路径（Shen 与 Arunrugstichai 2026）
-- [[ikram-ai-personalized-learning-review-2026]] — 个性化学习趋势、路径与推荐模型的 PRISMA 综述（Ikram 等 2026）
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath：一个以知识为中心的规划基准，显示 LLM 有效性达 90.9% 但适应性仅 44.3%（Liu 等 2026）
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 把练习推荐当作在语义基础追踪器上的顺序决策
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 将 14,003 条记录行为聚类为六个画像，通过带多样性正则的推荐框架映射到学习对象（Najem 等 2026）

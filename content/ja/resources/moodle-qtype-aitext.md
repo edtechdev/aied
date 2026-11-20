@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -48,12 +49,3 @@ Moodle の任意のクイズに AIText 問題を追加し、プロンプトと�
 ## 注記と注意点
 
 GPL v3 以降のオープンソースですが、無料は運用が無料という意味ではありません。モデル API の費用は誰かが払い、採点の質はモデルの選択とプロンプトの設計に依存します。リモートの提供者を使うと自由記述の解答は Moodle サーバーを離れるので、何を送ってよいかは機関のデータ契約が決めます。学生の作業を外に出せないサイトのために、セルフホストの Ollama 経路があります。リポジトリは公開された精度や一致の研究を示していないため、LLM の採点が人間の採点と同等だと仮定して採用すべきではありません。成績に重みを持たせる前に、[[assessment-validity|妥当性]]を人間の評点に対して現場で確立する必要があります。コンパニオン問題ビヘイビアは必須の依存関係で、問題タイプだけをインストールすると問題は採点できません。
-
-## 関連する概念
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

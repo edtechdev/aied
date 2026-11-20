@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -74,29 +76,3 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 - **«La lengua meta debe dominar desde el primer día.»** En una **revisión sistemática de 24 estudios**, quienes aprendían pedían **frases y explicaciones contextualizadas en su propia lengua como puente hacia la lengua meta**, un uso que los revisores clasifican como una subcapacidad genuinamente nueva y no como una solución improvisada. El apoyo en la lengua materna funcionó como [[scaffolding|andamiaje]] y no como evitación.
 - **«La evaluación lingüística con IA está sesgada contra quienes escriben en varias lenguas.»** Aquí el sesgo siguió la **línea base humana y no al modelo**: el juicio comparativo basado en LLM sobre **escritura informativa de los cursos 3.º a 6.º convergió con las rúbricas de los investigadores (r = .59–.73)** y mostró el mismo patrón que las personas evaluadoras. Eso no es evidencia de justicia en términos absolutos, sino de que el modelo no introdujo una nueva distorsión sobre la existente.
 - **«La salida con calidad de traducción es la parte útil.»** El uso de puente es explicativo y situado, no sustitutivo. Una herramienta que reemplaza la producción propia de quien aprende elimina la práctica que el puente debía habilitar.
-
-## Conceptos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education|equidad]]
-- [[global-south]]
-- [[digital-divide|brecha digital]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Artículos conectados
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Los chatbots de IA generativa permiten el translenguaje, un uso que las herramientas lingüísticas anteriores no admitían
-- [[llm-comparative-judgment-writing-screening-2026]] — Validez del juicio comparativo con modelos de lenguaje grandes para el cribado universal de escritura
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizaje adaptativo basada en IA para Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Compañero de clase bilingüe con LLM
-- [[structural-silence-underrepresented-language-ai-2026]] — Silencio estructural: lenguas subrepresentadas
-- [[llm-cultural-relevance-k12]] — Relevancia cultural de los LLM en K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Compromiso crítico con la IA generativa entre estudiantes de minorías
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de datos de sistemas de conocimiento indios
-- [[kutti-ai-voice-first-learning-companion]] — Compañero de aprendizaje con la voz como primer medio
-- [[ai-scoring-language-bias-physics]] — Sesgo lingüístico en la calificación con IA en física
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Cambio de código cuatrilingüe con IA conversacional en Curazao y Aruba (Bush et al., 2026)

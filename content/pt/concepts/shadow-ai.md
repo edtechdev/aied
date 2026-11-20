@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -112,23 +114,3 @@ Três fontes tratam da IA sombra diretamente e não podem ser ingeridas aqui: do
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, fevereiro de 2026. Um argumento de praticante de que o uso não autorizado relata uma necessidade não atendida: docentes redigindo planos de aula, pesquisadores ativando GPUs na nuvem com cartões departamentais e funcionários colando dados sensíveis em ferramentas de consumo porque o caminho aprovado era mais lento.
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan e colegas, Springer, 2026. PLS-SEM com 214 funcionários do setor público, tratando a IA sombra como o mecanismo que liga condições de governança ao uso responsável.
-
-## Conceitos conectados
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## Artigos conectados
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE: 94% usaram IA para o trabalho, 54% conheciam a política, 13% mediam o ROI
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — um relato em três passos de como educadores justificam o uso não sancionado
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 375 educadores, 1,373 aplicativos, 24 nomeando a segurança como razão
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — professores traçando limites pedagógicos em um vácuo de política
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — adoção liderada por educadores como alternativa a esperar pela orientação institucional

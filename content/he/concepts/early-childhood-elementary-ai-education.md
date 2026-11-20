@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -73,47 +75,3 @@ ai_assist:
 - **"מורים ישתמשו ב-AI כדי לייצר שיעורים שלמים."** מורים האצילו לרוב (**60%**) **כדי למלא פערי תוכן בשיעור שהם עצמם התוו** ולא כדי לייצר תכניות שלמות. יחידת ההאצלה היא הפער, לא השיעור.
 - **"ילדים צעירים מרוויחים פחות מאוריינות מדיה נתמכת-AI."** הקבוצה הנתמכת ב-AI הראתה **רווחים גדולים בקריאת מדיה (+3.50), בכתיבה (+1.67) ובאוריינות מדיה כוללת (+5.17, כולם p < .01)** עם גדלי אפקט בין-קבוצתיים של d = 1.12 ומעלה. הרווחים היו גדולים בטווח הגיל הזה, לא שוליים.
 - **"תצפית אוטומטית מסכימה עם מדרגים אנושיים בכל התחומים."** ההסכמה הייתה **מתונה בכללות (קאפה משוקלל = 0.681) אך מותנית במבנה**: ההתכנסות נשמרה לתחום **התמיכה הרגשית** ול**איכות המשוב**, ולא במקומות אחרים. מיצוע על פני התחומים מסתיר היכן הכלי נכשל.
-
-## מושגים מחוברים
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## מאמרים מחוברים
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — עיצוב הילדות המוקדמת בעידן ה‑AI: כשירויות, פדגוגיה ותמיכה אקולוגית (Pei 2026)
-- [[preservice-early-childhood-genai-magnetism-2026]] — מעורבות מחנכי גיל רך טרום-שירות בבינה מלאכותית יוצרת בעיצוב פעילות מדע: המקרה של מגנטיות
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — כוונה התנהגותית של מורות גן להשתמש בבינה מלאכותית בסביבות לגיל רך (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: מושגי בינה מלאכותית מנותקים בגיל הרך
-- [[ai-toys-child-development-2026]] — צעצועים תומכי בינה מלאכותית והתפתחות ילדים
-- [[tsingidou-ct-robotics-kindergarten-2026]] — חשיבה חישובית באמצעות רובוטיקה בגן
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — למידה מותאמת אישית מונעת בינה מלאכותית בשברים יסודיים
-- [[elementary-writing-genai-systematic-review-2026]] — הוראת כתיבה יסודית בעידן GenAI
-- [[awareness-technological-isomorphism]] — איזומורפיזם טכנולוגי במתמטיקה יסודית
-- [[icub-humanoid-storytelling-llm-hri-2025]] — סיפור סיפורים הומנואידי LLM עם ילדים
-- [[human-ai-complementarity-social-emotional-learning-2026]] — משלימות אדם–בינה מלאכותית בלמידה חברתית-רגשית מוקדמת (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): תוכנית אוריינות בינה מלאכותית ממוקדת משחק לגן-עד-כיתה א' (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — תוכנית אוריינות מדיה ביקורתית מבוססת בינה מלאכותית לילדים
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — גישת הפרויקט היצירתית: מסגרת להתאמת סוכני בינה מלאכותית ורובוטיקה ללמידה מוקדמת (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — השוואת נוירו-דמות ראשונה בין ילדים למבוגרים המדברים עם ChatGPT: רשתות בקרה-תשומת-זיכרון פחות משולבות אצל ילדים בני 6–7
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: ניקוד CLASS Pre-K מוערך בינה מלאכותית לעומת מדרגים אנושיים מיומנים בגני הונג קונג (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — אוריינות AI לילידי AI? השוואה בין-לאומית של ארבע מדינות
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — כלים מתווכי-AI בהוראת אנגלית בבית הספר היסודי: סקירת היקף של פונקציות פדגוגיות ותזמור מורים

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,12 +46,3 @@ Owston (2026), akiandika kama mmoja wa watengenezaji, anaeleza sababu za ubuni z
 ## Vidokezo na tahadhari
 
 Programu zote mbili ni bure na hazihitaji taarifa za kibinafsi, lakini "ya faragha na isiyojulikana" si sawa na "hakuna data": sera ya Contact North inasema inakusanya kumbukumbu za mwingiliano wa ChatGPT na data ya Google Analytics, inazihifadhi kwenye seva za Kanada, hairuhusu OpenAI kufundisha nazo, na hushiriki data ya mwingiliano na OpenAI, ambayo huihifadhi hadi siku 30. AI Tutor Pro haipendekezwi kwa watumiaji chini ya miaka 18 bila ruhusa ya mzazi au mlezi. Hesabu za mwingiliano za muuzaji ni takwimu zake za masoko, si data huru ya matumizi, na lebo ya beta kwenye Slide Builder inamaanisha matokeo yake yanapaswa kukaguliwa kabla ya matumizi darasani. Hakuna leseni ya chanzo huria iliyotajwa, kwa hivyo msimbo haupatikani kwa marekebisho ya kitaasisi.
-
-## Dhana zinazohusiana
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

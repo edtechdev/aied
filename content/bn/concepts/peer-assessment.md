@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -72,7 +74,6 @@ ai_assist:
 
 নকশা কতটা গুরুত্বপূর্ণ তার সবচেয়ে কঠোর পরীক্ষা একটি বহুস্থানীয় ক্লাস্টার-র‍্যান্ডমাইজড পরীক্ষা। [[genai-feedback-design-multisite-experiment|Ateş (2026)]] 4টি বিশ্ববিদ্যালয়ের 48টি শাখাকে র‍্যান্ডমাইজ করেন — [[biology-education|জীববিজ্ঞান]], [[chemistry-education|রসায়ন]] ও [[physics-education|পদার্থবিজ্ঞানে]] 1,176 জন প্রথম বর্ষের স্নাতক — বৈজ্ঞানিক যুক্তিদানের জন্য চারটি শর্তে: কেবল সহকর্মী প্রতিক্রিয়া, সরাসরি জেনএআই প্রতিক্রিয়া, প্রতিফলনশীল জেনএআই প্রতিক্রিয়া (স্ব-মূল্যায়ন তারপর এআই সমালোচনা), এবং স্ব-মূল্যায়ন → সহকর্মী প্রতিক্রিয়া → জেনএআই সমালোচনার সংকর। সরাসরি জেনএআই তাৎক্ষণিক যুক্তি-মানে সহকর্মী প্রতিক্রিয়াকে হারায় কিন্তু দুর্বলতর [[transfer-of-learning|স্থানান্তর]] দেখায়; প্রতিফলনশীল ও সংকর নকশা শক্তিশালী প্রতিক্রিয়া-গ্রহণ ও আত্ম-নিয়ন্ত্রিত শিখন তৈরি করে; সংকর ধারণগত শিখনে সবচেয়ে স্পষ্ট সুবিধা দেখায়; এবং দুটোই বিলম্বিত এআই-মুক্ত স্থানান্তরে সরাসরি জেনএআই-কে ছাড়িয়ে যায়। লেখকরা সিদ্ধান্তে আসেন, জেনএআই-এর মূল্য প্রবেশাধিকারের ওপর কম নির্ভর করে, বেশি নির্ভর করে পরিবেশটি সংশোধনের সময় শিক্ষার্থীর এজেন্সি ও মালিকানা সংরক্ষণ করে কি না তার ওপর।
 
-
 সহকর্মী আলোচনার আগে এআই প্রতিক্রিয়া সাজানো, পেছনে নয়, ফলাফলও বাড়ায়: কেবল সহকর্মী প্রতিক্রিয়ার বিপরীতে, এআই-প্লাস-সহকর্মী সমন্বিত প্রতিক্রিয়া পাওয়া 122 জন চীনা ইএফএল শিক্ষার্থী উচ্চতর আবেগগত, আচরণগত ও জ্ঞানীয় সম্পৃক্ততা জানায় (আংশিক η² = 0.29, 0.28, 0.32) এবং চারটি আইইএলটিএস লেখন-মাত্রায়ই এগিয়ে থাকে, সবচেয়ে বেশি কাজ-সম্পাদনে (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 সেই ধরন — প্রাথমিক সুবিধা যা টেকে না — বারবার ফিরে আসে যখন তুলনা কেবল জেনএআই নয়, বরং প্রশিক্ষক-প্রতিক্রিয়া বনাম এআই-সমর্থিত সহকর্মী প্রতিক্রিয়া। [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li ও Luo (2026)]] 61 জন চীনা দ্বিতীয়-ভাষা লেখকের (244টি গ্রেডকৃত লেখা) সঙ্গে আট সপ্তাহের আধা-পরীক্ষা চালান, একটি পাঁচ-মাত্রার চেকলিস্ট থেকে কাজ করে, যেখানে একটি শ্রেণি শিক্ষকের লিখিত প্রতিক্রিয়া পায় ও অন্য শ্রেণি এআই-সমর্থিত সহকর্মী প্রতিক্রিয়া। শিক্ষক-প্রতিক্রিয়া অনেক বেশি মন্তব্য তৈরি করে — প্রথম কাজে 185-এর বিপরীতে 316টি উপাদান, শব্দভান্ডার ও কারিগরি বিবরণে কেন্দ্রীভূত — এবং সামান্য বড় তাৎক্ষণিক লাভ, কিন্তু দ্বিতীয় কাজের মধ্যে তার উন্নতি তীব্রভাবে নামে, অন্যদিকে এআই-সমর্থিত সহকর্মী শ্রেণি স্থির থাকে ও উচ্চতর সংশোধন-স্কোর নিয়ে শেষ করে। এআই-সমর্থিত সহকর্মী-মন্তব্য কম ছিল কিন্তু বিষয়বস্তু ও কাঠামোয় নোঙর করা ছিল, এবং তাদের প্রাথমিক শব্দ-বৈচিত্র্যের প্রান্ত টেকেনি; কোনোটিই বাক্য-জটিলতা নাড়ায়নি। লেখকরা দুটিকে পরিপূরক [[scaffolding|স্ক্যাফোল্ড]] হিসেবে পড়েন এবং একটি এআই–সহকর্মী–শিক্ষক সংকর প্রস্তাব করেন, যেখানে এআই খসড়ার সময় পৃষ্ঠতল-ত্রুটি চিহ্নিত করে, সহকর্মীরা সংশোধনে বিষয়বস্তু নিয়ে দর কষাকষি করে, এবং শিক্ষক সেই দিকে লক্ষ্য রাখেন যা কোনোটিই ছোঁয়নি।
@@ -101,48 +102,3 @@ ai_assist:
 - **"প্রতারণা শনাক্তকরণই [[oral-assessment|মৌখিক মূল্যায়নের]] উদ্দেশ্য।"** মাপা ফলাফল ছিল বোঝাপড়া ও প্রেরণা, পেস্ট করা পাঠ হ্রাস নয়। নকশাটিকে তার শনাক্তকরণ-হার দিয়ে বিচার করা তা কী অর্জন করেছে তা ভুল পড়ে।
 - **"সহকর্মী-পর্যালোচনা প্রশিক্ষক-প্রতিক্রিয়ার সস্তা বিকল্প।"** [[learning-by-teaching|শেখানোর মধ্য দিয়ে শেখাই]] কার্যপ্রণালী, এবং তা যন্ত্রের মধ্যেও দেখা যায়: **2.4 মিলিয়নেরও বেশি এআই এজেন্টের** মধ্যে সহকর্মী-শিখন-সদৃশ আলাপ মূলত ছিল **অনুসন্ধান নয়, দাবি**। সমালোচনা উৎপাদন করা গ্রহণ করার চেয়ে ভিন্ন কাজ।
 - **দলীয় গ্রেডের পেছনের নথি হিসেবে প্রতিফলনমূলক সহকর্মী ও স্ব-ফর্ম।** [[issa-teamwork-framework-academic-integrity-2024|Issa ও Hall (2024)]] একটি স্নাতকোত্তর ব্যবসায়-প্রকল্প-ব্যবস্থাপনা ইউনিটে প্রতি সতীর্থের জন্য একটি সহকর্মী-প্রতিফলনমূলক ফর্ম এবং প্রতি শিক্ষার্থীর জন্য একটি স্ব-প্রতিফলনমূলক ফর্ম ব্যবহার করেন, সঙ্গে প্রতিটি দলের সঙ্গে 30 মিনিটের বৈঠক যেখানে সদস্যদের জিজ্ঞাসা করা হয় তাদের অবদান মৌলিক ছিল কি না। ফর্মগুলো প্রতিক্রিয়া-বিনিময় হিসেবে গ্রেড করা হয়নি। সেগুলোই ছিল প্রতি-ব্যক্তি প্রমাণ যা প্রশিক্ষককে 40% দলীয় মূল্যায়নের ভেতরে একজন ব্যক্তির নম্বর রক্ষা করতে দিয়েছে। কাঠামোটির নম্বর 27/40 থেকে 31/40-এ ওঠা নতুন এক প্রভাষকের সঙ্গে জড়ানো এবং এর সততা-দাবি অপরিমাপিত, তাই স্থানান্তরযোগ্য অংশটি হলো নথি-রক্ষার কাঠামো, ফলাফল-আকার নয়।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — PAIRR ও সম্মিলিত সহকর্মী-প্লাস-এআই প্রতিক্রিয়া: ক্রমগুলো ও তাদের তুলনামূলক প্রমাণ
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## সংযুক্ত নিবন্ধ
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — সমন্বিত এআই-প্লাস-সহকর্মী প্রতিক্রিয়া তিনটি সম্পৃক্ততা-মাত্রা ও চারটি আইইএলটিএস লেখন-মাত্রাই বাড়ায়
-
-- [[usher-faraon-who-grades-best-2026]] — প্রকল্প-মান স্তরে ChatGPT, সহকর্মী ও প্রশিক্ষকের গ্রেডিং তুলনা (Usher ও Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — পিয়ার অ্যান্ড এআই রিভিউ + রিফ্লেকশন (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — এআই সহকর্মী প্রতিক্রিয়া ব্যবস্থা
-- [[ai-internal-feedback-evaluative-judgments]] — স্নাতকদের মূল্যায়নমূলক বিচারের বিকাশ উন্মোচন
-- [[learner-centered-feedback-ai]] — এআই দিয়ে শিক্ষার্থী-কেন্দ্রিক প্রতিক্রিয়া বাড়ানো
-- [[genai-linguistic-diversity-academic-writing]] — একাডেমিক লেখায় জেনারেটিভ এআই ও ভাষাগত বৈচিত্র্য
-- [[gift-ai-pairr-business-writing-2025]] — ব্যবসায়-লেখন কোর্সে PAIRR: সহকর্মী-পর্যালোচনা, চ্যাটবট-প্রতিক্রিয়া, প্রতিফলন (MacArthur প্রমুখ 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — আত্ম-নিয়ন্ত্রিত প্রতিক্রিয়া ও প্রতিক্রিয়া-সাক্ষরতা স্ক্যাফোল্ডিংয়ে জেনএআই বনাম মানব সহকর্মী (Gu প্রমুখ 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — কথ্য ভাষার ইএফএল সহকর্মী প্রতিক্রিয়ায় ট্রেইনার ও সিন্থেসাইজার হিসেবে জেনএআই (Irwin ও Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — কেবল-সহকর্মী, সরাসরি, প্রতিফলনশীল ও সংকর জেনএআই প্রতিক্রিয়া তুলনাকারী বহুস্থানীয় পরীক্ষা (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — সহযোগিতামূলক যুক্তিদানে প্রম্পট-স্ক্যাফোল্ডকৃত জেনএআই সহকর্মী প্রতিক্রিয়া (Chang প্রমুখ 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — জেনএআই-মধ্যস্থ দলীয় মূল্যায়নে এজেন্সি: সহযোগিতা, সংযম, অ-সম্পাদন (Chen ও Zou 2026)
-- [[code-review-genai-cs1]] — সিএস১-এ জেনএআই-এর ক্ষতি হ্রাস হিসেবে মৌখিক কোড-পর্যালোচনা সাক্ষাৎকার (Fowles প্রমুখ 2026)
-- [[multimodal-affective-its-presentation]] — সহকর্মী প্রতিক্রিয়ার স্কেলযোগ্য বিকল্প হিসেবে স্বয়ংক্রিয় বহুমাধ্যম উপস্থাপনা-কোচিং (Suen ও Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — এআই-উৎপাদিত আলোচনা-সারাংশ অনলাইন ফোরামে সহকর্মী-প্রকাশ প্রসারিত করে (Hao ও Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — শিক্ষার্থীদের জেনএআই প্রকাশে সহকর্মী-প্রভাব ও সম্পর্কগত আস্থা (Qu ও Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — সমালোচনামূলক চিন্তা, দলগত কাজ ও সমস্যা-সমাধানে এলএলএম-এর পদ্ধতিগত পর্যালোচনা (Martínez-Peláez প্রমুখ 2025)
-- [[ai-agents-peer-learning-discourse]] — 2.4 মিলিয়ন এআই এজেন্টের মধ্যে সহকর্মী-শিখন-সদৃশ আলাপ (Chen প্রমুখ 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — 14টি এআইইডি মেটা-বিশ্লেষণ ও 59টি প্রাথমিক গবেষণার নিরীক্ষা (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — দ্বিতীয়-ভাষা লেখনে প্রশিক্ষক-প্রতিক্রিয়া বনাম এআই-সমর্থিত সহকর্মী প্রতিক্রিয়া: পরিমাণ, কেন্দ্রবিন্দু ও দুটি কাজে উন্নতির গতিপথ (Tang, Li ও Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — দলীয় গ্রেডের পেছনে প্রতি-ব্যক্তি প্রমাণ হিসেবে স্ব/সহকর্মী প্রতিফলনমূলক ফর্ম (Issa ও Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 শিক্ষার্থীর ভূমিকা-শব্দভাণ্ডার: টিউটর 28.6%, সহযোগী 23.1%, সরঞ্জাম 9.9%, রোবট 7.7%

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -135,75 +137,3 @@ ai_assist:
 - **«مشكلة الإنصاف هي الوصول إلى الأدوات.»** **جودة الأداة جزء من الفجوة، لا مجرد الوصول إلى الأدوات**: قدّم [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] **50 مهمّة رياضيات** ووجد فروقًا في الجودة تتبع الأداة لا المستخدم.
 - **«التدريس الخصوصي الهجين بين الإنسان والذكاء الاصطناعي لا يستطيع تضييق الفجوات.»** **التدريس الخصوصي الهجين المتمايز دليلٌ على أن النماذج الهجينة يمكنها تضييق الفجوات — حين يتبع التوزيع الحاجة.** وجدت دراسة فروق في نقاط الانقطاع (**635** مشاركًا) أن التدريس الاستباقي أظهر **نموًا وسطيًا أعلى على هامش الدلالة (75%، p = .065) مركّزًا بين الطلاب الأبعد عن حدّ القطع**. فالمكسب تركّز حيث كانت الحاجة أشدّ.
 - **«الأثر المتوسط يخبرك ما إذا كان الإنصاف قد تحسّن.»** البصيرة هي أن **قاعدة التوزيع** هي التي حدّدت نتيجة الإنصاف: فتدخّل يساعد الجميع بالتساوي يترك الفجوات على حالها، وتدخّل يساعد بما يتناسب مع الحاجة يضيّقها.
-
-## المفاهيم المتصلة
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[digital-divide]] — الوصول غير المتكافئ إلى أدوات وبنية الذكاء الاصطناعي عبر الخطوط الاجتماعية الاقتصادية والأقاليم والأمم
-- [[bias-mitigation]] — طرائق لكشف التحيّز في مدرّسي الذكاء الاصطناعي الخصوصيين والمصحّحين والمُوصين وتصحيحه
-- [[accessibility]] — التصميم الذي يجعل أدوات تعلّم الذكاء الاصطناعي قابلة للاستخدام من قبل المتعلّمين ذوي الإعاقة
-- [[assistive-technology]] — أدوات تدعم المتعلّمين ذوي الإعاقة في الأوساط التي يتوسطها الذكاء الاصطناعي
-- [[culturally-relevant-pedagogy]] — التدريس الذي يعكس سياقات المتعلّمين الثقافية بدل أن يفرض المعايير السائدة
-- [[language-learning]] — الشمول اللغوي للمتعلّمين متعددي اللغات وذوي اللغات غير الممثَّلة تمثيلًا كافيًا
-- [[inclusive-learning]] — التعلّم المتاح والمنصف لجميع المتعلّمين
-- [[universal-design-for-learning]] — التصميم لتفاوت المتعلّمين من البداية
-- [[neurodiversity]] — دعم المتعلّمين المتنوعين عصبيًا في تعليم الذكاء الاصطناعي
-- [[special-education]] — تلبية احتياجات المتعلّمين ذوي الإعاقة في تصميم أنظمة الذكاء الاصطناعي
-- [[ai-literacy]] — المهارات التي يحتاجها المتعلّمون للاستفادة من الذكاء الاصطناعي على نحو منصف
-- [[educational-policy-ai]] — السياسة المؤسسية التي تُدرج الإنصاف كمبدأ موجِّه
-- [[governance]] — الإشراف والمساءلة من أجل ذكاء اصطناعي منصف
-- [[agency]] — ضمان أن يُتيح الذكاء الاصطناعي صوت الطالب لا أن يُحلّ محله
-- [[stakeholders]] — مظلة: الناس والجماهير في تعليم الذكاء الاصطناعي (المتعلّمون والمعلّمون والمصمّمون والإداريون وواضعو السياسات)
-- [[parents-and-families]]
-- [[student-support-and-success]] — من تبلغه أنظمة الدعم، ومخاطر التصرّف على درجة خطر
-
-## المقالات المتصلة
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — كيف يدخل التحيّز البصري في الذكاء الاصطناعي التوليدي التقييم متعدد الوسائط، ولماذا تُعدّ مواجهته بسرد مضاد كفاءةً للمعلّم
-- [[rented-self-decoupling-performance-becoming-2026]] — الذات المستأجرة: إيجار يُدفع بالمال والذات والمعايير، ورخص تنتهي بالتخرّج
-- [[verified-study-materials-learning-gains-2026]] — متحقَّق لا مولَّد: مواد دراسة بالذكاء الاصطناعي تحقّق منها خبراء وتوزيع المكاسب التعليمية في مقرر جامعي
-- [[ai-literacies-young-adults-2025]] — الإنصاف كمشكلة تسليم: الوصول إلى الشباب الذي يُغفله التعليم النظامي
-- [[opraise-automated-marking-ai-assessment-2026]] — تقرير OpRaise: تصحيح بالذكاء الاصطناعي لـ761 مقالًا جامعيًا في ثلاث جامعات بريطانية
-- [[kumar-genai-computing-education-systematic-review-2026]] — فجوة المهارة مقابل فجوة الموارد: آليتا إنصاف تستلزمان علاجين مختلفين
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — قد يُوسّع الذكاء الاصطناعي التوليدي غير الموجَّه الفجوات: كفاءة إدارة التفاعل (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — البنى المؤسسية واللامساواة الرقمية واندماج الذكاء الاصطناعي في التعليم العالي النيجيري
-- [[student-attention-estimation-fairness-2026]] — نمذجة بمحوّل متعدد الوسائط واعٍ بالإنصاف لتقدير انتباه الطالب في الزمن الحقيقي
-- [[school-ai-education-readiness-gaps-agency-2026]] — تعليم الذكاء الاصطناعي المدرسي يضيّق فجوات الجاهزية النفسية لا المعرفية
-- [[prompt-privilege-equitable-ai-access-2026]] — امتياز المطالبة: قياس تفاوتات إمكانية الوصول في وصول النماذج اللغوية الكبيرة والتخفيف منها
-- [[ai-scoring-language-bias-physics]] — التحيّز اللغوي في التصحيح القائم على الذكاء الاصطناعي
-- [[gender-bias-transfer-llm-writing]] — انتقال تحيّز الجندر في الكتابة بمساعدة النماذج اللغوية الكبيرة
-- [[genai-minoritized-knowledges-disability]] — الذكاء الاصطناعي التوليدي وتهميش المعارف المُهمَّشة
-- [[structural-silence-underrepresented-language-ai-2026]] — الصمت البنيوي: اللغات غير الممثَّلة تمثيلًا كافيًا في بنية الذكاء الاصطناعي التحتية
-- [[genai-higher-education-systematic-review-2026]] — الذكاء الاصطناعي التوليدي في التعليم العالي: مراجعة منهجية
-- [[ai-lifelong-learning-policy]] — سياسة الذكاء الاصطناعي والتعلّم مدى الحياة
-- [[generative-ai-education-productivity-gaps]] — هل يُضيّق الذكاء الاصطناعي التوليدي فجوات الإنتاجية القائمة على التعليم؟
-- [[genai-linguistic-diversity-academic-writing]] — التنوع اللغوي في الكتابة الأكاديمية التي يتوسطها الذكاء الاصطناعي والنشر
-- [[access-not-enough-ai-tutoring-2026]] — الوصول ليس كافيًا
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — روبوت حواري مُرمَّز بأنثى كقدوة يُقلّص الصور النمطية الجندرية في الرياضيات
-- [[paternalistic-filter-llm-history-education]] — الترشيح الأبوي في تعليم التاريخ القائم على النماذج اللغوية الكبيرة
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: دعم بالذكاء الاصطناعي للمتعلّمين المصابين بعسر القراءة
-- [[ground-truth-reliability-aied]] — موثوقية الحقيقة الأرضية في الذكاء الاصطناعي في التعليم
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: تحيّز التغذية الراجعة المتماشي مع الصور النمطية عبر سمات الطلاب
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — هل يستطيع الذكاء الاصطناعي تقديم دعم مناسب لمحات طلابية متنوعة؟ تقويم واسع النطاق
-- [[all-girls-genai-makerspace-gender-equity-2026]] — ورش مساحة صناعية للبنات بالذكاء الاصطناعي التوليدي والإنصاف الجندري في الحوسبة
-- [[khlaif-assistive-genai-visually-impaired-2026]] — الذكاء الاصطناعي التوليدي المساعد للمتعلّمين ضعاف البصر
-- [[culturally-aware-student-stress-chatbot-2026]] — روبوت حواري واعٍ ثقافيًا مدعوم بالذكاء الاصطناعي لكشف الضغط ودعم العافية بين طلاب الجامعات الباكستانية باستخدام معالجة اللغة الطبيعية وتعلّم الآلة
-- [[demographic-signals-llm-student-assessment-2026]] — الإشارات الديموغرافية الضمنية (سجل الحوار) تُزيح تصحيح النماذج اللغوية الكبيرة وتغذيتها الراجعة وإجاباتها (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 عضو هيئة تدريس أمريكي عن حاضر الذكاء الاصطناعي ومستقبله: 81% يتوقّعون فجوات رقمية أوسع، و26% لا يستخدمون الأدوات
-- [[li-genai-assessment-language-equity-2026]] — رسم خطّ الدعم مقابل الإحلال: قواعد تقييم الذكاء الاصطناعي التوليدي وعبء التزام طلاب الإنجليزية كلغة إضافية
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — حقّ الرفض موزّع توزيعًا غير متكافئ: الرفض كدليل على نقص التهيئة المؤسسية (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — الحكم الأخلاقي القائم على الحالات وثقافة الذكاء الاصطناعي بين 531 طالب بكالوريوس
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس الخصوصي بالذكاء الاصطناعي والبشري يُنتجان مكاسب تعلّم مكافئة في GRE
-- [[computing-assessment-genai-workshop-report-2026]] — «الذكاء الاصطناعي يستطيع إنجاز واجبك. والآن ماذا؟» تقرير ورشة عمل إلكترونية عن تقييم الحوسبة في عصر الذكاء الاصطناعي التوليدي
-- [[genai-social-bias-software-engineering-education-2026]] — قد يُعزّز الذكاء الاصطناعي التوليدي التحيزات الاجتماعية في تعليم هندسة البرمجيات
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — فجوة دقة النموذج المجاني مقابل المتميز في الرياضيات: 32.7% مقابل 12% (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — مكاسب التعلّم المجمَّعة من الذكاء الاصطناعي التوليدي (g=0.53) والوصول غير المتكافئ إلى الأدوات عالية الكلفة الذي لا تستطيع التقاطه
-- [[intelligent-tutoring-mathematics-education-review-2026]] — مراجعة التدريس الخصوصي بالذكاء الاصطناعي في الرياضيات تجد ادعاءات الشمول وفجوات التحصيل غير مسنودة
-- [[gurung-hybrid-human-ai-tutoring-2026]] — تحسين التدريس الخصوصي الهجين بين الإنسان والذكاء الاصطناعي بتمايز أدوار المدرّس البشري حسب احتياجات الطلاب (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — نشر لمنصة رياضيات بالذكاء الاصطناعي على مستوى المنطقة بارتباطات استكشافية أكبر لطلاب خطط التعليم الفردية ومتعلّمي الإنجليزية وطلاب الهيسبان (دعم متعدد الوسائط/متعدد اللغات؛ والسببية غير مُختبرة)
-- [[gyekye-selves-apprenticeship-2026]] — متعلّمو التلمذن من أبناء الأقليات العرقية مساووا الإنصاف بالتسطّح الثقافي؛ والفاعلية بُنيت عبر الرفض والتفاوض؛ ونطاق التعرّف وثقافة الذكاء الاصطناعي المؤسسية
-- [[rodrigues-aied-unplugged-numeracy-2026]] — التسليم بوساطة المعلّم يبلغ طلابًا لا يمسّهم الذكاء الاصطناعي
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — الكشف يستهدف الكُتّاب متعددي اللغات أشدّ ما يستهدف
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — الكفاءة توسّط المنفعة التي يجنيها الطلاب من الوصول إلى النماذج اللغوية الكبيرة (Li et al. 2026)

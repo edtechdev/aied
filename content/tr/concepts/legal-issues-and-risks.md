@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -73,7 +75,6 @@ Farklı bir maruziyet araçların içinde yer alır. [[humble-prompt-injection-a
 
 Meslekî programlar için maruziyet mezuniyetle bitmez. Gutowski ve Hurley, çalışan avukatları bağlayan mesleki davranış kurallarının — teknolojik yeterlilik görevi, gizlilik, bu araçları kullananların denetimi, mahkeme karşısında samimiyet — YZ kullanımına şimdiden bağlı olduğunu ve [[hallucination-risk|uydurma yetki]] alanının, uydurma davalar sunan uygulayıcılar için yaptırımlar doğurduğunu kaydeder. Aynı devir mantığı, lisans, kayıt veya yasal bir görevin mezunu takip ettiği her yerde geçerlidir; bu nedenle [[legal-education|Hukuk Eğitimi]] ile [[medical-education|sağlık meslekleri]] disiplin sayfaları bu sayfanın yanında yer alır.
 
-
 ### Sahiplik ve kamu malı sorusu
 
 Telif hakkı bu alandaki diğer hukuki sorudur ve usulsüzlükten ters yönde işler. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley ve Downes (2026)]], Amerika Birleşik Devletleri Telif Hakkı Bürosu’nun tutumunu, istek metinlerini tek başına yazarlık için yetersiz saymak olarak okur. Bu okuma geçerliyse, tamamen makine tarafından üretilmiş bir eser onu istekleyen kişiye ait değildir; bu iki bakımdan önemlidir: bir usulsüzlük davasında bir öğrenciye atfedilecek yazılı bir metin yoktur ve o eseri yayımlayan bir kurum onun üzerinde hak iddia edemez. O zaman sahipliğin yerine getireceği işi lisanslar yapar; açık lisanslama ile akademik dürüstlüğün tek bir sorunun iki yüzü olmasının nedeni budur.
@@ -94,43 +95,3 @@ Telif hakkı bu alandaki diğer hukuki sorudur ve usulsüzlükten ters yönde i�
 **“Algılama, bir usulün ihtiyaç duyduğu delili sağlar.”** Algılama bir puan sağlar. Delil sorusu, suçlamanın herhangi bir biçimde kanıtlanıp kanıtlanamayacağıdır ve [[ai-detection|algılama literatürü]], araçların ne bir disiplin sürecinin gerektirdiği güvenilirliği ne de yorumlanabilir kategoriyi ürettiğini gösterir. Usulü bir algılayıcı üzerine kurmak, onu en zayıf halka üzerine kurmaktır.
 
 **“Riskler varsayımsaldır ve politika yetişir.”** Riskler şu anda eşitsiz biçimde dağıtılıyor ve bunları soğuran öğrenciler bir usule itiraz etme kapasitesi en düşük olanlardır. Bir kurumun soruşturma kapasitesi ile bir öğrencinin yanıt verme kapasitesi arasındaki asimetri, gelecekteki değil bugünkü bir zarardır.
-
-## Bağlı kavramlar
-
-- [[academic-integrity]] — riski taşıyan uygulamanın dayandığı davranış çerçevesi
-- [[ai-detection]] — haksız suçlama davalarının merkezindeki araç
-- [[remote-proctoring]] — değerlendirmede gözetim ve onun veri koruma soruları
-- [[assessment-validity]] — kanıtın kendisinden yapılan iddiayı kuramayıp kuramadığı
-- [[privacy]] — öğrenci verilerinin toplanması, saklanması ve ileriye doğru işlenmesi
-- [[regulation]] — kurumların yerine getirmesi gereken yasal ve düzenleyici yükümlülükler
-- [[governance]] — iç politika tasarımı ve uygulamanın tutarlılığı
-- [[educational-policy-ai]] — istenmeyen maruziyetin kaynağı olarak kurumsal YZ politikası
-- [[ai-use-disclosure]] — açıklama beklentileri ve uygulanamaz sınırları
-- [[accessibility]] — bir kural yardımcı bir aracı ortadan kaldırdığında makul uyum
-- [[assistive-technology]] — aşırı kapsama sorununun merkezindeki araçlar
-- [[neurodiversity]] — aşırı geniş yasaklara en çok maruz kalan öğrenciler
-- [[equity-in-ai-education]] — algılama ve gözetimin farklı yük getirmesi
-- [[student-experience]] — hukukî olanı önceleyen insanî maliyet
-- [[hallucination-risk]] — mesleki ve kurumsal sorumluluk olarak uydurma yetki alanı
-- [[reducing-ai-misuse]] — suçlamaya alternelin önleme yolu
-
-## Bağlı makaleler
-
-- [[munoz-misconduct-allegation-evidence-2026]] — Usulsüzlük suçlaması dosyalarının gerçekte ne içerdiği ve doğal adalet gerekliliği
-- [[hadra-ai-detector-accuracy-efl-2026]] — Algılayıcı doğruluğu, karma metinde başarısızlık ve EFL yanlış sınıflandırma riski
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Algılama araçlarının ikinci bir derlemdeki güvenilirliği
-- [[bassett-ai-detectors-education-2026]] — Hiçbir algılama eşiğinin neden doğru olamayacağı: hata ödünleşimi savunması
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Kanıt tespit edilemez hale geldiğinde yeniden değerlendirilen usulsüzlük usulleri
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı YZ kuralları, engellilik uyumu ve makul ayarlama
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Gizlilik ve gözetim kaygılarıyla haritalandırılmış uzaktan gözetim
-- [[automated-online-exam-proctoring-decade-review-2026]] — On yıllık otomatik gözetim araştırması
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — YZ çağında akademik sahtekârlık ve gözetim
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Savunulabilir uygulamanın ön koşulu olarak politika netliği
-- [[qian-governing-genai-higher-ed-policy-2026]] — Yenilikçi ABD üniversitelerinde politika ve destek ekosistemleri
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Parçalı yönetişim üzerine uzman görüş birliği
-- [[sharma-judgment-visible-genai-assessment-2026]] — Gözetim yerine görünür muhakeme yoluyla dürüstlük
-- [[shin-ai-policies-sld-2026]] — Özgün öğrenme güçlüğü olan öğrenciler için politika boşluğu
-- [[li-genai-assessment-language-equity-2026]] — Kural tasarımı sorunu olarak dil eşitliği: destek–ikame sınırı, dolaylı ayrımcılık ve temyize tabi olma (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Öğrencilerin dolaylı istek metni enjeksiyonuyla YZ notlandırıcılara saldırması, tespit edilmeden değiştirilen notlar (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Değerlendirmeyi doğrulamak için yönetişim göstergeleri ve reform programı (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 ABD’li öğretim üyesi: bireysel politikalar kurumsal olanları çok geride bırakıyor, yapısal yanıt ince (Watson & Rainie 2026)

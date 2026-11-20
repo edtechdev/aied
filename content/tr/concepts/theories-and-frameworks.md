@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -125,32 +127,3 @@ Mekanizma-kuram uyumu yine de belirleyici olabilir: 55 YZ destekli [[game-based-
 **“Öğrenme kuramları, öğrenen modelleri ve benimseme çerçeveleri birbirinin yerine geçebilecek merceklerdir.”** Farklı soruları yanıtlarlar — öğrenmenin nasıl gerçekleştiği, öğrenenin durumunun ne olduğu ve bir uygulamanın neden yayıldığı — ve kanıt türleri de buna göre farklılaşır. Yanlış katmanın seçilmesi, doğru değişkeni yanlış öngörüye karşı ölçen bir çalışma üretir; bu da bir kategorik hata olduğu hâlde sıfır sonuç olarak okunur.
 
 **“Daha çok çerçeve, daha olgun bir alan demektir.”** YZ çağı için adlandırılan çerçeveler sınandıklarından daha hızlı birikir ve yanlışlamasız birikim ilerleme değil, bir belirtidir. Olgunluk, sözcük dağarcığının büyümesi olarak değil, rekabet eden öngörülerin çözülmesi olarak görünür.
-
-## Bağlı kavramlar
-
-- [[theory-development-aied]] — alanda teori inşa etme ve revize etme
-- [[philosophy-of-ai-in-education]] — normatif ve kavramsal katman
-- [[learning-theories]] — öğrenme kuramı için şemsiye
-- [[learning-sciences]] — çoğu teorinin ödünç alındığı komşu alan
-- [[limitations-in-aied-research]] — kanıt tabanının neyi destekleyip destekleyemediği
-- [[tpack]] — öğretmen bilgisi çerçevesi
-- [[technology-acceptance-model]] — benimseme çerçeveleri
-- [[item-response-theory]] — bir ölçüm modeli
-- [[universal-design-for-learning]] — bir tasarım çerçevesi
-- [[research-methods-aied]] — teorinin nasıl sınandığı
-
-## Bağlı makaleler
-
-- [[ai-game-based-learning-systematic-review-2026]] — 55 YZ oyun tabanlı öğrenme çalışmasında etkililiği yönetenin algoritmik sofistikelik değil, mekanizma-kuram uyumu olması
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed çerçevesi üzerinden kırk yıllık AIED
-- [[educating-minds-generative-ai-2026]] — üretken YZ ve öğrenmeye ilişkin kuram ağırlıklı bir sentez
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — öğretmen mesleki gelişimine uygulanan eylem kuramı
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — eylem kuramı ve öğretmen benimsemesi
-- [[generativism-learning-theory]] — üretken YZ çağı için önerilen bir öğrenme kuramı
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — epistemik ortak-etkenlik kuramına doğru
-- [[absent-cognitive-baseline-2026]] — YZ’ye doğal öğrencilerin öz-değerlendirmesindeki yapısal boşluğun kuramsallaştırılması
-- [[yan-agentivism-learning-theory-ai-2026]] — insan-YZ etkileşimi için orta-ölçekli bir öğrenme kuramı
-- [[ai-literacy-instrument-development-systematic-review-2026]] — genç bir yapı boyunca araç geliştirme
-- [[mishra-control-vs-agency-history-2025]] — alanın temel denetim-karşı-etkenlik gerilimi
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Bir olanak taksonomisinde dördüncü kategori olarak önerilen duygusal olanaklar

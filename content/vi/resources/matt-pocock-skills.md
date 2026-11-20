@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,6 +43,3 @@ Ví dụ rõ nhất là `teach`, chạy qua nhiều phiên và coi thư mục l�
 ## Những điều cần biết trước khi áp dụng
 
 Mọi thứ là [[open-source|mã nguồn mở]] theo MIT và miễn phí để lấy làm điểm khởi đầu cho [[ai-literacy|năng lực AI]] cục bộ hoặc [[self-directed-learning|việc tự học]]. Mức độ tiếp nhận lớn và chuyển động nhanh: khoảng 270,000 sao và 23,000 bản fork khi kiểm tra vào tháng 9 năm 2026, với commit gần nhất ngày 18 tháng 9 năm 2026. Lưu ý nằm ở phạm vi. Các skill giả định bối cảnh làm việc của một [[human-ai-collaboration|kỹ sư]], chúng được chia vào các nhóm kỹ thuật, năng suất, ngừng dùng và đang làm dở, nên một số mục rõ ràng chưa hoàn thành hoặc đã bị rút, và README đồng thời là một chỗ đăng ký bản tin. Hãy coi các skill dạy học và đặt câu hỏi là phần chuyển giao được, và dự trù viết lại bất kỳ skill nào trong số đó trước khi đưa nó ra trước sinh viên.
-
-## Khái niệm liên quan
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

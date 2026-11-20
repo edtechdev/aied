@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -50,11 +52,7 @@ Halaman ini sengaja tidak menduplikasi tetangganya. [[equity-in-ai-education|Kea
 
 **Atribut demografis biasanya disimulasikan.** Demografi siswa nyata jarang dilekatkan pada masukan model, sehingga audit menyediakan persona sebagai gantinya. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto dan Hovy (2026)]] menjalankan enam model yang disetel instruksi pada tiga tugas pendidikan dalam kondisi default model, persona eksplisit, dan riwayat implisit — 192,480 panggilan inferensi — dan menemukan bahwa persona eksplisit maupun riwayat percakapan *implisit* sama-sama menggeser perilaku model. Perbedaan yang mereka buat layak dipertahankan: kesadaran akan perbedaan siswa bisa diinginkan (menyesuaikan umpan balik dengan bahasa pertama seorang siswa), sementara kepekaan yang sama menjadi kerugian ketika ia menggeser penilaian atas karya yang identik.
 
-
 **Audit dengan pembelajar nyata memang ada, dan dapat mendukung klaim interseksional.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar dkk. (2026)]] menganalisis log MATHia selama dua tahun dari 8.549 siswa dan menemukan bukti yang tidak dapat disediakan audit persona simulasi: kesenjangan laju dasar pembaca pemula sebesar .1007 di antara siswa perempuan pada 2021–2022, perbedaan yang mencapai .0926 di antara siswa Hispanik pada 2022–2023, dan 8 dari 12 statistik ras-menurut-kelompok-baca yang signifikan di antara pembaca non-pemula berbanding hanya 1 dari 12 di antara pembaca pemula.
-
-
-
 
 **Perbaikan keadilan mungkin tidak tergeneralisasi.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] mengurangi kesenjangan galat yang tertuju pada gender dan usia dalam estimasi atensi siswa pada data [[assessment-validity|validasi]], tetapi perolehannya tidak secara konsisten berpindah ke subjek yang disisihkan atau ke pemisahan tingkat-subjek yang diulang.
 
@@ -141,53 +139,3 @@ Temuan jujur dari survei ini adalah betapa tipisnya sebagian kelompok. Masing-ma
 - **"Label kelompok menangkap variasi yang penting."** **Label kelompok menyembunyikan variasi di dalamnya**: dalam meta-analisis disabilitas, siswa dengan **disabilitas belajar spesifik, disabilitas intelektual dan perkembangan** serta kategori lain digabung, sehingga rata-rata kelompok tidak menggambarkan satu pun dari mereka.
 - **"Analisis subkelompok menjawab pertanyaan efek diferensial."** Analisis itu biasanya **terlalu kecil untuk menjawabnya**: [[ai-tutoring-micro-rct-gcse-science-2026|RCT mikro sains GCSE]] luar biasa eksplisit bahwa kontras **perlakuannya** berdaya untuk efek keseluruhan dan bukan untuk perbedaan subkelompok. Temuan subkelompok yang kurang berdaya adalah hipotesis, bukan hasil.
 - **"Efek gabungan sedang memberi tahu Anda apakah kelompok tertentu diuntungkan."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 studi (kuasi-)eksperimen]] digabung menjadi **Hedges' g = 0.588 (95% CI [0.349, 0.826])** di seluruh kategori disabilitas. Intervalnya menggambarkan rata-rata di atas kategori-kategori itu, dan "kelompok mana, kebutuhan mana" adalah analisis terpisah.
-
-## Konsep terkait
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## Artikel terkait
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studi tentang AI untuk siswa penyandang disabilitas: g = 0.588, dan g = 0.269 setelah penyesuaian bias
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT menguntungkan mahasiswa STEM dan non-STEM secara tidak setara dalam pembelajaran interdisipliner
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — Penggunaan GenAI dan keterlibatan empat untaian di antara mahasiswa internasional etnis minoritas
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 catatan menjadi 40 studi, 15 di antaranya AI generatif
-- [[adhd-video-segmentation-computing-education]] — Perubahan desain umum yang membawa partisipan ADHD ke tingkat setara
-- [[neurodivergent-computing-students]] — 24 mahasiswa neurodivergen tentang struktur, ambiguitas, dan kolaborasi
-- [[genai-minoritized-knowledges-disability]] — Marginalisasi epistemik dalam AI, dengan disabilitas sebagai kasus
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 dengan I² = 84.4% dalam basis bukti L2 yang kecil
-- [[structural-silence-underrepresented-language-ai-2026]] — Bengali di bawah 0.5% konten web berbanding 49.5% bahasa Inggris
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detektor salah mengklasifikasikan tulisan EFL sementara menilai teks profesional dengan sempurna
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Uji 195 siswa atas panutan berkode perempuan tanpa perbedaan gender
-- [[gender-bias-transfer-llm-writing]] — Prompt berbias gender yang berpindah ke esai siswa
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Ruang gender tunggal yang dihargai, dengan peringatan terhadap girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Keadilan tutor yang bervariasi menurut model, domain, dan dimensi perilaku
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Umpan balik yang selaras stereotip pada esai yang identik
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 panggilan: persona eksplisit dan riwayat implisit sama-sama menggeser model
-- [[student-attention-estimation-fairness-2026]] — Regularisasi keadilan yang tidak tergeneralisasi
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 siswa: literasi digital, bukan penggunaan AI, yang memediasi kesenjangan
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Partisipasi pedesaan yang tidak pernah pulih, dan pendampingan sebagai kendalanya
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Interaksi subkelompok yang interval kepercayaannya melewati nol
-- [[student-ai-inquiry-types-cs2-2026]] — Satu-satunya temuan penggunaan generasi pertama di korpus ini
-- [[international-students-conversational-ai-adaptation]] — Satu-satunya studi siswa internasional di korpus ini
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Estimasi efek pertama di korpus ini untuk siswa generasi pertama: akses tutor merugikan mereka 0.50 SD nilai akhir berbanding 0.22 bagi rekan mereka (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: mengevaluasi intervensi keadilan post-hoc dalam sistem peringatan dini yang dikendalikan vendor
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Variabel pengelompokan berbasis pengetahuan dengan bukti proses langsung: kelompok yang dicocokkan pada pengetahuan awal tetapi berbeda dalam keragaman prakonsepsi menyerap AI yang sama secara berbeda (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai ber-prompt bertemu probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Konteks siswa mengubah nilai penilai LLM pada karya yang identik, dan kesepakatan dengan guru tidak mendeteksinya (Porcaro 2026, Paper VI)

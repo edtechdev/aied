@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -83,56 +85,3 @@ O pensamento computacional é a fundação cognitiva compartilhada sob o [[ai-li
 - **"A assistência de IA iguala o jogo em contextos com poucos recursos."** Ela pode, sob certas condições. Um **quase-experimento de 14 semanas com 103 graduandos do primeiro ano na Nigéria** constatou que a aprendizagem baseada em problemas apoiada por IA (ChatGPT e Teachable Machine) produziu ganhos, e que a IA como "par mais capaz" carrega o PC onde outras provisões faltam. Mas esse é um achado sobre uma intervenção estruturada, e não uma propriedade de dar um [[conversational-ai|chatbot]] aos estudantes.
 - **"Os LLMs não conseguem avaliar PC de forma confiável."** A [[llm-computational-thinking-physics-2026|pesquisa sobre avaliação de PC em física]] constatou que os LLMs conseguem **espelhar avaliadores humanos** ao pontuar o crescimento em Práticas de Dados e Práticas de Resolução Computacional de Problemas em disciplinas de grande matrícula. O obstáculo para escalar a avaliação de PC tem sido a capacidade de avaliadores, e essa restrição está se afrouxando — o que desloca o problema de desenho para se o instrumento mede PC, e não conformidade.
 - **"O PC é uma habilidade de programação que a robótica por acaso ensina."** Uma **[[meta-analysis-systematic-review|revisão sistemática]] de 95 estudos** confirma que a robótica fomenta o PC, a criatividade e a resolução de problemas, mas também que o **contexto modera o desfecho**: a entrega [[game-based-learning|baseada em jogos]] se ajusta a contextos informais, enquanto a gamificação difere nos formais. O PC é um conjunto de práticas que se transferem de forma desigual, de modo que a alegação de transferência precisa do desenho de tarefa que ela de fato usou.
-
-## Conceitos conectados
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Artigos conectados
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Teste de Pensamento Computacional em Treinamento com IA (CTAT)
-- [[computational-thinking-aica-2026]] — Níveis de Pensamento Computacional e Assistentes de Programação com IA (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Autoria de modelos: teoria e mensuração para a aprendizagem por construção com GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: framework construcionista para construção de artefatos
-- [[astor-computational-thinking-meta-review-2026]] — Metarrevisão de PC de 128 revisões sistemáticas
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Revisão sistemática de PC por robótica na educação infantil
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: um fluxo de trabalho reproduzível para que cientistas não programadores implementem modelos de IA publicados
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: a plataforma digital de design thinking e aprendizagem para aprimorar o pensamento computacional e o letramento digital

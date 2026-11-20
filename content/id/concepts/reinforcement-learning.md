@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,29 +68,3 @@ RL mendasari banyak desain [[agentic-ai]] dan [[intelligent-tutoring]] modern, t
 **"Horizon yang lebih panjang selalu lebih baik."** Horizon panjang memungkinkan hal yang tidak dapat dilakukan horizon pendek, dan menuntut imbalan yang tepat di sepanjang seluruh rangkaian. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] mengoptimalkan seluruh **pertemuan klinis 60 putaran**, jauh melampaui horizon ≤12 putaran sistem dialog yang ada, yang menaikkan biaya tujuan yang salah spesifikasi alih-alih menurunkannya.
 
 **"RL adalah formalisme yang tepat untuk tutoring karena pengajaran bersifat berurutan."** Pengurutan itu perlu dan tidak cukup; kendala yang mengikat adalah validitas imbalan. Tujuan yang terspesifikasi baik dengan kebijakan yang lemah mengalahkan kebijakan yang kuat yang melawan tujuan yang salah.
-
-## Konsep terkait
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agensik)
-
-## Artikel terkait
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF untuk mengikuti instruksi pedagogis
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Perancah ICAP adaptif dalam ITS (BKT vs DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

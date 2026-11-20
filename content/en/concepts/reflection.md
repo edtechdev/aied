@@ -20,6 +20,8 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 > **Reflection** — the deliberate, retrospective examination of one's own experience, work or reasoning, externalized in written, spoken or recorded form so that it can be revisited, shared or assessed. Its nearest neighbour is [[metacognition|metacognition]], and confusing the two is the most common error on the topic. Metacognition is the monitoring machinery: the in-the-moment judgments of whether you understand, remember or are on track. Reflection is a designed activity with a deliverable — a journal entry, a reflective essay, a portfolio commentary, a structured self-explanation prompt — performed after or alongside the work. The distinction acquires teeth in the AI era because the two are exposed differently: monitoring is hard to hand over and easy to displace, while a reflection artifact can be produced by a model, which makes the authenticity of the artifact rather than the depth of the thinking the first design problem.
@@ -161,45 +163,3 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 - **"[[automated-assessment|Automated scoring]] solves the scale problem."** Classifiers reach roughly 70% on reflection level in a well-annotated essay set with severe class imbalance, and that ceiling is within reach of plausible text.
 - **"Portfolios are reflective by nature."** The container is not the act; a portfolio assembled from polished products can contain no reflection at all.
 - **"Reflection needs no teaching."** Both the Hungarian essay set and the pre-service teacher experiment presuppose that level and quality are learned, and that preparation changes outcomes.
-
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Preregistered 302-adult experiment: reflection prompts doubled time on feedback and cut practice volume 40% without raising per-problem gain (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — GenAI-aware five-part reflection model built on documented prompts and iterations rather than the final text (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 annotated essays, severe class imbalance, shallow models at 71% and transformers at 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 turns coded to explain why an AI reflection partner left users less committed (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Self, collaborative and community reflection with AI as cognitive mediator (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 K–12 teachers: time is the novice's obstacle, performance tracking the expert's (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Four GenAI practices and eleven processes, each able to support or replace reflective thought (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Randomized 2×2 field experiment on sustaining a reflective journaling routine (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 2×2 test of strategy training against a Socratic LLM reflection partner (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Non-diagnostic self-reflection tool with no composite score (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Reflective AI use as a measured construct linking acceptance to self-efficacy and engagement (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Structured reflection as live input that recalibrates the next feedback cycle (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Guided reflection inside self-assessment for ethical GenAI use (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 teachers on recognizing, redistributing and reflectively re-engaging after AI use (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Position paper: no evidence that reflection prompts build durable self-monitoring (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16-week WordPress e-portfolios with GenAI as feedback provider and synthesizer (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — One scaffold raised analytic and evaluative depth while action planning stayed flat (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26-study mapping: reflection is the least-served phase of the service-learning cycle (Yusuf et al. 2026)

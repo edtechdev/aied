@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -109,25 +111,3 @@ MathBuddy छात्रों की भावनाओं को दो म�
 
 - जिस बेसलाइन के विरुद्ध आपकी जीत दर मापी गई है, उसे रिपोर्ट करें और स्पष्ट कहें कि यह एक तुलनात्मक निर्णय है। फिर वही मापें जो क्षेत्र को वास्तव में चाहिए: गैर-अनुकूली संदर्भों में स्थानांतरण, ट्यूटर हटाए जाने के बाद प्रतिधारण, और क्या भावनात्मक चैनल बंद होने पर भी लाभ टिकते हैं।
 - भाव प्रोफ़ाइलों को स्वतंत्र चर के रूप में उपयोग करने से पहले विशेषज्ञ निर्णय के विरुद्ध मान्य करें।
-
-## संबंधित अवधारणाएँ
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## संबंधित लेख
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-
-- [[shastry-gray-empathy-offloading-2026]] — लोग सहानुभूति ऑफलोड कर देते हैं जब उन्हें लगता है कि AI उसे दे सकता है (Shastry और Gray 2026)

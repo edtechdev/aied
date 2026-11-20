@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -101,16 +102,3 @@ MicroSims는 Creative Commons 라이선스와 별 13개를 보고합니다) 활�
 전제로 하여 일부 교수자에게는 장벽이 될 수 있습니다. 수집 시점에 MicroSims
 레지스트리는 여전히 로드맵 단계에만 있어서, 특정 기존 시뮬레이션을 찾는 일은
 사이트 자체의 검색과 내비게이션에 의존합니다.
-
-## 연결된 개념
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

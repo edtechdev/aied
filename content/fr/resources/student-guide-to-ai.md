@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -45,11 +46,3 @@ Aux étudiants de premier cycle de toute discipline, et aux élèves du secondai
 Le guide est [[formative-assessment|formativement]] cadré et le dit : les scores sont un instantané des habitudes, non une note, un trait ni une prédiction, et il est dit aux élèves de ne pas les partager publiquement.
 
 Le cadrage autour de l'IA repose sur des preuves issues d'enquêtes et d'expériences citées selon lesquelles déléguer l'effort peut laisser les élèves retenir moins — ce qui est la question du [[cognitive-offloading|délestage cognitif]] que le guide est écrit pour contrer, non pour trancher. Le PDF du guide de terrain se trouve derrière un court formulaire demandant nom, rôle, institution et adresse électronique ; les modules du guide de l'enseignant et l'article de cadre pédagogique se téléchargent directement. La version interactive tourne dans Gemini Notebook et exige un compte Google. Les chiffres de l'éditeur — plus de 40 000 téléchargements de PDF dans environ 4 000 institutions de 180 pays, et plus de 130 éditions de campus personnalisées — sont les siens, tout comme les recommandations de l'ALA, la NASPA, EDUCAUSE, l'OLC, la CAA, le Gardner Institute et RTI International.
-
-## Concepts liés
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

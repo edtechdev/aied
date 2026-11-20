@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -108,58 +110,3 @@ Der Farbcode ist die Alternative, die immer wieder vorgeschlagen wird, und die V
 - **„Integrität ist vor allem ein Detektionsproblem.“** **Scroll-back-Interviews mit 26 Studierenden** zeigen, dass Studierende sich mit GenAI entlang eines **Spektrums** durch Assessment urteilen, und über **157 Studierende** hinweg sagte *wie* GenAI genutzt wird — **evaluative Integration zur Unterstützung des Verstehens gegenüber** Substitution — das Ergebnis vorher. Die Nutzungsart trennt Studierende schärfer als die bloße Präsenz der Nutzung.
 - **„Nicht-Muttersprachlerinnen und -Muttersprachler des Englischen sind das Betrugsrisiko.“** Ein **PRISMA-Review von 25 Studien** fügt einen Risikofaktor hinzu, den die Detektionsdebatte auslässt: Nicht-Muttersprachlerinnen und -Muttersprachler zeigten eine **hohe Tendenz, Integrität zu verletzen, wenn sie** mit der Sprachanforderung **kämpften**. Das ist ein Sprachunterstützungsproblem, das als Ehrlichkeitsproblem gelesen wird.
 - **„Eine Richtlinie, die GenAI verbietet, klärt die Frage.“** Studierende berichten ein Spektrum von Urteilen statt eines Regelfolge-Musters, sodass eine Regel, die das evaluative Schlussfolgern nicht einbezieht, das Studierende ohnehin schon betreiben, nicht konsistent befolgt wird.
-
-## Verbundene Konzepte
-- [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[formative-assessment]] — Formatives Assessment: KI-erzeugte, validierte, adaptive Aufgaben in großem Maßstab
-- [[automated-assessment]] — Automatisches Benoten und Bewerten über Assessmentmodalitäten hinweg
-- [[authentic-assessment]] — Prozessbasierte, KI-robuste authentische Aufgaben
-- [[assessment-validity]] — Validität von Assessments unter generativer KI
-- [[educational-measurement]] — Messtheorie als Grundlage von KI-Assessment
-- [[automated-essay-scoring]] — Automatisierte Bewertung von Aufsätzen
-- [[automated-question-generation]] — Automatisierte Aufgabengenerierung
-- [[oral-assessment]] — Mündliches Assessment: Live- und aufgezeichnete Formate, die KI-Substitution widerstehen
-- [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, Closed-Book-Klausuren)
-- [[item-response-theory]] — IRT zur Interpretation von Assessmentantworten im KI-Zeitalter
-- [[psychometrically-aware-ai]] — Psychometrisch bewusste KI-Benotung
-- [[learning-analytics]] — Analytik, die Assessmentdaten mit Lernen verbindet
-- [[feedback]] — Feedbackschleifen, die den Assessment-zu-Lernen-Zyklus schließen
-- [[feedback-literacy]] — Feedback-Kompetenz der Lernenden
-- [[academic-integrity]] — Integrität und die Debatte um KI-Detektion
-- [[ai-detection]] — Detektion KI-erzeugten Texts
-- [[ai-ed-evaluation]] — Methoden und Benchmarks zur Evaluation automatisierter Prüfender
-- [[eportfolio]] — Prozessbasiertes E-Portfolio-Assessment
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Verbundene Artikel
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Ein einjähriges Programm, das multimodale Assessment-Literacy definiert und misst, was sich verändert hat — und was nicht
-- [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudvolles Assessment und Third Space
-- [[mccorkle-aligned-genai-course-policy-2025]] — Aufgabenspezifische KI-Freigaben, abgeleitet aus dem, was beurteilt wird (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Vergleich der Bewertung durch ChatGPT, Peers und Lehrende über verschiedene Projektqualitätsstufen hinweg (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
-- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: authentisches Assessment
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integrität der Koautorschaft und Validität von Assessment
-- [[competency-based-education-genai-production-2026]] — Kompetenzbasierte Bildung nach generativer KI
-- [[genai-assessment-governance]] — Evidenzzentrierte Governance generativer KI im Assessment
-- [[ssaho-ai-academic-integrity-review-2025]] — Review zur KI-Integrität: Detektion muss mit einer Neugestaltung des Assessments einhergehen
-- [[bassett-ai-detectors-education-2026]] — Kopf gewinnen wir, Zahl verlierst du: KI-Detektoren im Bildungswesen (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-gestützte Erfassung von Angst bei Studierenden (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Prüfungen im KI-Zeitalter (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: Lernen durch GenAI-Interaktion beurteilen (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Urteilsbildung bei der Arbeit von Studierenden mit GenAI an Prüfungsaufgaben (26 Studierende, Scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Muster der GenAI-Nutzung (evaluative Integration vs. Übernahme mit geringer Überprüfung) und Ergebnisse
-- [[luo-dawson-value-judgments-grading-2026]] — Werturteile bei der Bewertung GenAI-gestützter Arbeiten: Ehrlichkeit, Vertrauen, Validität und zweiseitige Transparenz (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Item-Schwierigkeit mit LLMs und baumbasiertem ML
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — KI kann die Hausaufgaben erledigen. Und jetzt? Bericht von einem Online-Workshop zur Leistungsbeurteilung in der Informatik im Zeitalter generativer KI
-- [[koretsky-genai-stem-assessment-2026]] — Ein Rahmen mit drei Eckpunkten zur Neuausrichtung des Assessments
-- [[rubrics-genai-process-based-assessment-2026]] — Rubric-Kriterien, die die Interaktion bewerten, nicht das Artefakt
-
-- [[nerantzi-traffic-light-assessment-genai-2026]] — Ein reflektierendes Gespräch über Assessment im Zeitalter generativer KI anhand des Ampel-Frameworks an der University of Leeds

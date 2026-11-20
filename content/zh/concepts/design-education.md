@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -93,48 +95,3 @@ ai_assist:
 - **"设计学生是热情的采纳者。"** 同一群体显示 **71% 每日或每周使用 GenAI，65% 不信任它，85% 修改其产出**。频繁使用与低信任并存，因此一个其价值主张假定信任的工具误读了用户。
 - **"GenAI 在设计过程中普遍有用。"** 在一项纵向工作室研究中构建的 GAI-A 平台发现**只有两种生产性用途**：GenAI 作为早期构思中的视觉刺激，以及作为**开发阶段解空间的组合扩展器**。有用性是分阶段的。
 - **"创造力的增益太弥散，无法测量。"** 在一个 **31 人子组**中，创造性思维分数从 **77.23 升至 94.68（d = 0.82）**。增益是可测的，且被限定在一个子组内，而这是该主张诚实的形式。
-
-## 关联概念
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## 关联文章
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit：一个面向工作室反馈的、成果物感知的 AI 评图工作空间；基于模拟的就绪度研究，非学习增益
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 一项建筑设计实验：一个 DALL-E 3 工作流降低了一般创造性自我效能
-- [[human-ai-collaboration-design-education-rubric-2026]] — 一个过程评分标准可以把 AI 核验变成被评分的对象
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — 设计学生对 AI 技术颠覆的觉察、设计思维心态与设计创新胜任力
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — 态度是设计学生使用 AI 智能体意图的必要关口，任务—技术契合是第二条路径（Chu 与 Liu 2026）
-- [[han-prompt-literacy-ai-dependence-design-2026]] — 依赖类型决定提示素养能否变成投入
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -99,27 +101,3 @@ Quando um artigo diz "andaimes" ou "pensamento crítico", pergunte qual versão 
 - **"A IA na educação em psicologia trata principalmente de ferramentas clínicas."** A maior parte dos estudos diz respeito à [[writing-education|escrita]], ao feedback e aos hábitos de estudo; as ferramentas clínicas são uma vertente pequena, recente e distinta.
 - **"Itens gerados confiáveis são itens utilizáveis."** Confiabilidade sem cobertura de desfechos de ordem superior produz um teste bem medido da coisa errada.
 - **"Formandos são a favor ou contra a IA."** A evidência de classes latentes diz quatro ou mais perfis por domínio, diferindo por ferramenta.
-
-## Conceitos conectados
-
-- [[social-sciences-education]] — a página do cluster dentro da qual esta disciplina se situa, e onde vive a evidência de sociologia
-- [[humanities-education]] — a disciplina interpretativa vizinha com o mesmo problema de avaliação
-- [[ai-literacy]] — o construto que a maioria dos estudos de educação em psicologia está realmente medindo
-- [[assessment-validity]] — o critério para qualquer decisão de avaliação assistida por IA
-- [[feedback]] — o mecanismo em torno do qual giram os estudos mais fortes aqui
-- [[self-efficacy]] — a disposição que medeia o uso continuado
-- [[student-ai-interaction]] — como os estudantes de fato engajam a ferramenta, em contraste com como dizem que o fazem
-
-## Artigos conectados
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT substitui a avaliação entre pares em uma tarefa de mídia de psicologia do segundo ano
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 itens gerados: confiáveis, e 73.75% memorização
-- [[ai-tutor-statistical-programming-adoption-2026]] — Estudo longitudinal pré-registrado do R-Tutor em um curso de estatística para psicologia
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o como cliente: menos ansiedade, complacente e culturalmente raso
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — De três a quatro classes latentes em cada domínio
-- [[mental-health-literacy-students-llms-2026]] — 150 estudantes de psicologia contra quatro LLMs em 30 afirmações
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 graduandos, seis vinhetas, e se o letramento prediz o julgamento
-- [[critical-genai-use-predictors]] — Conhecimento, orientação epistêmica e valores predizem o uso crítico
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Confiança e autoeficácia carregam o uso continuado; a ansiedade o freia
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Letramento em feedback como único preditor significativo da nota de redação
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 estudantes, dois anos de intervalo: o uso dobrou, a percepção de cola caiu

@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-02"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -110,55 +112,3 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 **«La escalera de resultados se colapsa: la implicación es la retención.»** Cada peldaño mide algo distinto —adherirse, responder, persistir, completar— y un programa puede mover los peldaños inferiores dejando planos los superiores. Informar la proporción de respuestas como un éxito comete precisamente esa sustitución.
 
 **«Una preocupación de equidad es una razón para dejar de usar los datos.»** Es una razón para actuar sobre las puntuaciones con cuidado. Actuar sobre un predictor puede distribuir apoyo y puede distribuir sospecha, y el riesgo se concentra en el estudiantado que el modelo clasifica de forma menos favorable, lo que hace que el remedio sea la gobernanza del uso y no el abandono de la medición.
-
-## Conceptos conectados
-
-- [[higher-ed]] — el paraguas sectorial del trabajo de apoyo institucional
-- [[student-experience]] — cómo la IA llega a la propia experiencia del estudiante
-- [[learning-gains]] — si hubo aprendizaje, el resultado instruccional que el trabajo de apoyo no mide
-- [[learning-analytics]] — predicción, alerta temprana y analítica predictiva
-- [[student-modeling]] — la capa de modelado que subyace a la predicción de riesgo
-- [[knowledge-tracing]] — estimación fina de habilidades y dominio
-- [[recommender-systems-and-learning-paths]] — recomendar cursos, recursos y trayectorias
-- [[help-seeking]] — cómo llegan los estudiantes a pedir apoyo
-- [[well-being]] — salud mental en el campus, prevención e intervención
-- [[career-development-and-readiness]] — el resultado posterior a la finalización
-- [[administrator]] — el rol que posee y opera los sistemas de apoyo
-- [[stakeholders]] — quién tiene un interés legítimo en las decisiones institucionales sobre IA
-- [[change-management]] — sostener el programa después del piloto
-- [[governance]] — políticas y supervisión para la IA institucional
-- [[educational-policy-ai]] — el contexto de política para el despliegue institucional
-- [[equity-in-ai-education]] — a quién llega el sistema y a quién no
-- [[privacy]] — registros de estudiantes, intercambio de datos y enfoques federados
-- [[human-in-the-loop-ai]] — el juicio humano dentro de un flujo de apoyo automatizado
-- [[rct]] — el diseño detrás de la evidencia más sólida que hay aquí
-
-## Artículos conectados
-
-- [[cefa-ai-learner-support-review-2026]] — Revisión de 61 estudios sobre el apoyo al estudiantado habilitado por IA: dominan los sistemas adaptativos y la predicción; la fase de transición y la diversidad de estudiantes están ausentes
-- [[mata-sustaining-ai-enabled-student-support-2026]] — evaluación aleatorizada de cuatro años de un chatbot de apoyo universitario: la finalización de tareas se movió, la graduación y el promedio no
-- [[chatbot-outreach-course-performance-2026]] — ensayo preinscrito de contacto proactivo en varios semestres: más tasas de A/B, desplazamientos modestos en DFW, una excepción demográfica
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 viñetas sintéticas: sensibilidad limitada a la necesidad del estudiante e inconsistencia entre modelos en las recomendaciones de apoyo
-- [[sc2r-counterfactual-recourse-educational-2026]] — la brecha de accionabilidad: la reparación debe ser viable y verificable, no solo válida según el modelo
-- [[fairness-theatre-early-warning-systems-2026]] — seis intervenciones de equidad post hoc sobre un sistema de alerta temprana de proveedor construido a partir de 168.550 registros
-- [[at-risk-students-ml-prediction]] — clasificadores supervisados que identifican a estudiantes antes del abandono
-- [[predicting-attrition-competitive-programming]] — registros de comportamiento más encuestas psicográficas para predecir el abandono
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — modelado federado de riesgo entre instituciones sin compartir datos brutos de estudiantes
-- [[precision-education-student-digital-twins-2026]] — gemelos digitales y el «éxito estudiantil preventivo» como visión
-- [[learning-analytics-to-educational-interventions-2026]] — siete facilitadores para cerrar el circuito de la analítica a la intervención
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — un asistente específico de un curso para reducir el costo de pedir ayuda
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — la adopción de las tutorías evaluada por separado del aprendizaje
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — seis perfiles conductuales mapeados a objetos de aprendizaje recomendados
-- [[trace-course-grade-prediction-2026]] — predicción conjunta de cursos y calificaciones para la planificación
-- [[zhang-ml-student-progress-programming-2026]] — predicción interpretable del progreso a nivel de módulo
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 estudios sobre IA, liderazgo y prestación de servicios en educación superior
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — taxonomía de diez dominios de la IA en el liderazgo educativo
-- [[students-at-stake-ai-deployment-risks-2026]] — superficie de riesgo desde el lado del estudiante: admisiones y ayudas, servicios de éxito estudiantil y enseñanza
-- [[ai-campus-wellbeing-tools]] — apoyo al bienestar en el campus entre la prevención y la intervención
-- [[shastry-gray-empathy-offloading-2026]] — Cuatro estudios sobre la delegación de la empatía: creer que la IA puede ofrecer apoyo emocional reduce lo que las personas aportan por sí mismas (Shastry y Gray 2026)
-- [[coursegraph-cs-course-comparison-2026]] — equivalencia de cursos para el reconocimiento de créditos y la movilidad
-- [[credentials-carry-evidence-ai-agents-2026]] — qué significa un registro de finalización cuando un agente puede hacer el trabajo
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción temprana del riesgo de trampa asistida por IA y el equilibrio de umbrales para la intervención de bajo riesgo
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Cinco estudios de codiseño de un asistente institucional de estudio con IA: la disponibilidad primero y la resistencia por valores al final
-
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — De consultas a conversaciones: adopción, usabilidad e impacto de un asistente virtual basado en IA en la educación en ingeniería

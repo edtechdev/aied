@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -41,12 +42,3 @@ TVET-intézmények vezetői, akik eldöntik, min kezdjenek, tanárok és oktató
 ## Megjegyzések és fenntartások
 
 Ez útmutatás, nem értékelés. Az útmutató nem közöl eredménydataokat, intézményi példái – egy tartalomba integrált MI-tanulási modell a kanadai College of the North Atlanticon és Kenya 2023-as TVET ipari gyakorlati standardja – leíró esetdobozok, projektjelentésekből, nem független vizsgálatokból. A mellékletek magukat irányadónak nevezik; az érettségi skála megbeszélést segítő eszköz, nem mérőeszköz. A biztonságkritikus és szabályozott szakmák külön fejezetet kapnak, de ez az emberi felügyelet melletti álláspontot érveli meg, nem szabályozási szintű részleteket kínál. A CC BY-SA 3.0 IGO licenc megengedi az adaptálást és az újraközlést hivatkozással és azonos licenccel.
-
-## Kapcsolódó fogalmak
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

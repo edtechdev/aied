@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -39,6 +40,3 @@ ai_assist:
 ## استعمال سے پہلے کیا جاننا چاہیے
 
 پوری کتاب PDF اور ePub میں مفت ہے، اور انفرادی ابواب اپنے اپنے DOIs کے ساتھ الگ شائع ہوئے ہیں۔ اشاعت جولائی 2026 میں WAC Clearinghouse کی WAC Repository سیریز میں، 402 صفحات، مرتبین Anuj Gupta اور Brian Gogan، مجموعے کا DOI 10.37514/TWR-B.2026.2999۔ لائسنس Creative Commons BY-NC-ND 4.0 ہے، اس لیے قاری دیکھ سکتے، ذاتی کاپیاں چھاپ سکتے اور کتاب سے لنک کر سکتے ہیں، مگر اجازت کے بغیر اسے کسی دوسری سائٹ پر دوبارہ شائع یا ڈھال نہیں سکتے؛ جو کورس پرامپٹ کے الفاظ بدلنا چاہے اسے انہیں دوبارہ چھاپنے کے بجائے اپنا نسخہ لکھنا چاہیے۔ ہر باب کا پرامپٹ پلیٹ فارمز پر جانچا گیا، البتہ کتاب نتائج کا کوئی کنٹرول شدہ موازنہ رپورٹ نہیں کرتی، اس لیے پرامپٹس کو ماہرانہ ڈیزائن سمجھیں، تصدیق شدہ مداخلت نہیں۔
-
-## منسلک تصورات
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -98,47 +100,3 @@ ai_assist:
 - **"اساتذہ کو سب سے زیادہ تکنیکی AI علم کی ضرورت ہے۔"** **46 اساتذہ اور 2,832 طلبہ** میں، **استاد کے تدریسی AI علم** نے طلبہ کے اس ادراک کی پیش گوئی کی کہ AI سماجی بھلائی کے لیے ہے۔ تدریسی علم تکنیکی علم سے بہتر رہا، جو اس بات کو الٹ دیتا ہے کہ تربیت کی زیادہ تر سرمایہ کاری کہاں جاتی ہے۔
 - **"تعلیم میں AI کی بنیادی شراکت تدریسی ہے۔"** **28 مطالعات کے PRISMA جائزے** نے پایا کہ AI نے سب سے زیادہ **تدریسی منصوبہ بندی اور جانچ کے ڈیزائن** کو بہتر کیا — سب سے واضح شراکت **انتظامی کام کا بوجھ اتارنا** ہے، پڑھانا نہیں۔ تدریسی فائدوں کے گرد بنا مقدمہ شواہد کی کمزور شاخ پر کھڑا ہوتا ہے۔
 - **"AI خواندگی کی ہدایت خود بخود بہتر تدریس میں منتقل ہو جاتی ہے۔"** **59 مطالعات (172 اثرات کے حجم)** کے تین سطحی میٹا تجزیے نے پایا کہ **علم پر مرکوز مداخلتیں (g ≈ .97)** علم کو آگے بڑھانے میں دیگر طریقوں سے واضح طور پر بہتر رہیں۔ علم کا آگے بڑھنا ناپا گیا نتیجہ ہے؛ یہ عمل تک پہنچا یا نہیں، اگلا سوال ہے۔
-
-## منسلک تصورات
-- [[pedagogical-partnerships]] — تدریسی شراکتیں
-- [[online-teaching-and-learning]] — آن لائن تدریس اور سیکھنا
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — تدریسی تکنیک کے طور پر استعارہ اور تشبیہ
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — تدریسی تکنیک کے طور پر کیس طریقہ اور متضاد کیسز
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — تدریسی اصولوں کی پیروی کے لیے تربیت یافتہ AI اوزار
-
-## منسلک مضامین
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI بطور ڈیڈیکٹک-تدریسی واسطہ کار: مدرس–طالب علم–GenAI سہ رخی ماڈل (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'تدریس پہلے، ٹیکنالوجی بعد میں' — TPAIK طلبہ کے نتائج کے لیے تکنیکی TAIK سے بھاری ہے (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — جنریٹو AI کے ساتھ تدریسی شراکتیں
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — تدریسی رہنمائی GenAI کے سیکھنے کے اثرات کو کیسے شکل دیتی ہے
-- [[generative-ai-guardrails-harm-learning]] — گارڈ ریل والی (جواب کے بجائے اشارہ) ٹیوٹرنگ امتحانی نقصان ختم کر دیتی ہے
-- [[agentic-ai-pedagogical-best-practice-2026]] — ایجنٹک AI میں خودکاری بمقابلہ سیکھنے کی کشیدگی
-- [[jeon-isd-agent-bench-2026]] — ایجنٹوں کو تدریسی ڈیزائن کے نظریے میں کھڑا کرنا
-- [[ai-learning-tools-engineering-education-needs]] — انجینئرنگ تعلیم میں AI سیکھنے کے اوزار
-- [[fowlin-operationalizing-learning-principles-ai]] — AI کے ساتھ سیکھنے کے اصولوں کو عملی شکل دینا
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI اور تدریسی ڈیزائن کا عمل: ایک منظم جائزہ (Kibar اور Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI خواندگی کی مداخلوں میں تدریسی رویے
-- [[cognitive-distribution-student-genai-interaction-2026]] — طالب علم اور AI کا تعامل بطور بدلتی علمی تقسیم، نہ کہ مقررہ انحصار (53.3% توسیع)

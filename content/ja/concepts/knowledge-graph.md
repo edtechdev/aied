@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,38 +92,3 @@ ai_assist:
 **開発者向け**
 
 **「構造監査を通過したLLM構築グラフは、検証済みのグラフである。」** 構造的妥当性と指導的妥当性は、まさにこのように乖離する。そうしたグラフの1つについて監査を再計算したところ、すべての端点が解決され、重複リンクも自己リンクも残っていない——クリーンな構造——ことが確認されたが、1,455個の公理のうち1,448個がちょうど1つの作品にしか対応しないため作品間の再利用は乏しく、そのコンテキスト分類法は2つのコンテキストタイプを区別できず、中心的な主張は未証明のままである。デッドリンクと重複は自動監査が捕捉する失敗であり、再利用の薄さと未分化なカテゴリは自動監査が素通りさせてしまう失敗である。
-
-## 関連概念
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — 包括概念：AI の技術と手法（モデル、LLM の学習、ロボティクス、RAG、エージェント的 AI）
-- [[recommender-systems-and-learning-paths]]
-
-## 関連記事
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 構造的な監査と出自の記録を欠く、編集者によって作られた 1,455 件の文学の公理のグラフ（Liu & Zhao 2026）
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズされた e ラーニングのためのオントロジーに基づく階層的ハイブリッド知識モデル
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 生涯学習のための Learnity グラフ
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge：物語の起草の足場かけ
-- [[quantum-education-its]] — 量子教育の知的個別指導（ITAS）
-- [[multimodal-knowledge-graph-educational-reasoning]] — 教育的な推論のためのマルチモーダルな知識グラフ
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph：CS のコースの比較
-- [[proprl-prerequisite-relation-learning]] — ProPrL：前提条件の関係の学習
-- [[knowledge-gap-detection-ai-tas]] — AI の教育助手における知識の欠落の検出
-- [[visual-query-tracer-declarative-logic-learning]] — 宣言論理の学習のための視覚的なクエリの追跡器
-- [[fair-explainable-edu-recommendations]] — 公正で説明可能な教育的な推薦
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — マルチモーダルな教授資源のためのハイブリッドな CF–KG の領域横断的な推薦
-- [[xie-hillm-cd-2026]] — HiLLM-CD：LLM 駆動の認知的診断
-- [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導（2026年）
-- [[cogevol-learning-environment-generation-2026]] — CogEvol：学習環境の生成
-- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学研究室における知識グラフ＋グラフに基づくアシスタントと適応的ルーティング：理論試験+11.4点、d = 1.39

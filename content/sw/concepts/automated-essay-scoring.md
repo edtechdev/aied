@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,7 +54,6 @@ Katika uandishi wa majibu-kwa-maandishi ya darasa la juu la msingi, [[correnti-e
 
 **Walimu wanataka alama iwasilishwe kama inayoweza kukaguliwa, si ya mwisho.** Walimu tisa wenye uzoefu wa uandishi wa shule za sekondari za Brazil walitathmini programu ya upangaji wa insha ya [[ai-education|AIED]]-Unplugged na kuiweka juu sana — wastani wa SUS 92.5, wastani wa TAM wa 7 kwa manufaa, urahisi wa matumizi, umuhimu na nia ya kutumia, 6 kwa ubora wa matokeo. Walijitolea, bila kuulizwa, kwamba ripoti inapaswa kubeba onyo la skrini kwamba haiaminiki kikamilifu na lazima ikaguliwe kabla mwanafunzi kuiona; mwalimu mmoja alisoma wajibu huo kama sifa chanya ([[ribeiro-teachers-writing-analytics-adoption-2026|Ribeiro et al. (2026)]]). Waliomba maelezo zaidi, si kidogo: uchunguzi kwa kila uwezo, muhtasari wa jumla, sehemu ya maoni yao wenyewe, na mifano halisi ya jinsi ya kuboresha. Pale utafiti wa uhalali unajadili viwango vya makubaliano, watumiaji hawa waliomba kiolesura kiweke mgawanyo wa hukumu kati ya mfumo na mwalimu.
 
-
 **Ukosefu wa makubaliano na wapima wa binadamu ni wa kimfumo, si wa nasibu.** Mifano ya GPT na Llama iliyotolewa bila marekebisho ilikubaliana kidogo tu na alama za binadamu (QWK ≈ 0.17–0.28 dhidi ya 0.72 kati ya wapima wawili wa binadamu) na ilikuwa na upendeleo kwa mwelekeo unaotegemea ubora — juu kwa insha fupi, zisizostawi na chini kwa zile ndefu, zenye nguvu ambazo zina makosa madogo ya uso ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 
 **Tathmini ya L2 na inayojirejelea** inachunguza miktadha ya uandishi wa wasiozaliwa. **[[self-referential-l2-writing-llm-assessment|Tathmini ya L2 inayotegemea wasifu]]** inatumia mbinu inayojirejezea ambayo inalinganisha uandishi wa mwanafunzi na kazi zao za awali badala ya viwango vya wazaliwa.
@@ -83,48 +84,8 @@ Mifumo ya wazi ni sehemu ya picha hii pia: AiAWE hupima insha za mabishano kwa G
 
 - **"Mfano uliopewa ilani unaokubaliana zaidi ndiye kipima cha insha chenye nguvu zaidi."** Kwenye ASAP 2.0 makubaliano yaliyochapishwa kati ya wapima wawili wataalam ni **κ 0.745**, na hakuna makadirio ya pointi ya mfano uliopewa ilani yaliyofika hapo: mifano 22 ilianzia **0.155** hadi **0.727**, na kwa **18** muda wote ulilala chini. Kipima cha DeBERTa kilichorekebishwa kilifika **0.809** na kanuni inayohesabu urefu wa insha pekee ilifika **0.636**, juu ya mifano **16 kati ya 22**, ingawa kila mfano ulihifadhi makubaliano zaidi ya urefu. [[porcaro-ai-grading-benchmark-2026|Kiwango cha kushinda ni kipima kilichofunzwa, si mfano wa barabarani]].
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Matokeo ya upangaji wa otomatiki yanaonyesha uandishi wa mwanafunzi."** Ishara ya mfululizo inaweza **kuzalishwa badala ya kuonekana**: insha bandia za ngazi ya 1 zilizojengwa kwa kizazi cha violezo, kupunguzwa hadi **20-40% ya urefu wa awali** na kuondolewa kwa maneno muhimu. Mfumo uliothibitishwa kwenye miisho iliyoundwa hauwezi kuwa umewahi kujaribiwa kwenye usambazaji ambao utakutana nao.
 - **"Usahihi wa jumla ni kipimo cha kuripoti."** **Usambazaji wa rubriki uliopotoshwa unaweza kufanya vipimo vya alama za jumla kupotosha**: tathmini ya otomatiki ya kipimo cha rubriki mara nyingi ni kazi ya uainishaji yenye usambazaji wa lebo usio sawa, ambapo usahihi wa juu na utofautishaji wenye manufaa hutengana.
 - **"Matumizi ya shambani hayajapimwa."** Ushahidi wa shambani upo kutoka matumizi halisi yenye dau kubwa (**Acredita EB ya Uruguay, 2024**), ambao ni aina yenye nguvu zaidi ya ushahidi katika fasihi hii na ile ambayo masudio mengi ya usahihi wa upangaji hayaitoi kamwe.
-
-## Dhana Zilizounganishwa
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Makala Zilizounganishwa
-
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
-- [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
-
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: watoa alama 22 walioandaliwa kwa ilani wanakabiliana na vipimo vyenye jibu sahihi linalojulikana, na wengi wao wanaweza kushawishiwa kupandisha alama (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Walimu wa madarasa ya wanafunzi 300 wanaipa programu ya AES isiyo na mtandao SUS 92.5 na wanaomba onyo la uaminifu, si alama ya mwisho (Ribeiro et al. 2026)
-

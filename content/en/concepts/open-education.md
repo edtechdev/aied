@@ -19,6 +19,8 @@ ai_assist:
     role: drafting
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 > **Open education** — the movement and the practice of teaching with openly licensed content, and the pedagogy that treats students as producers of it rather than consumers. Its two artifacts are the open educational resource and the open pedagogical assignment; its license is what makes reuse lawful, and its claim is that both lower cost and widen authorship. [[generative-ai|Generative AI]] now presses on all three: it collapses the cost of making content, it muddies who authored a remixed resource, and it gives institutions a cheap alternative to the commons they were asked to fund.
@@ -63,7 +65,6 @@ Practice has a maturity literature of its own. [[duan-open-educational-practices
 
 Two further studies show how quickly the practice layer becomes a governance layer. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] document a UNESCO and ICDE residency of 110 participants from 13 countries in 10 teams, but their survey base is 72 responses from 54 institutions with no response rate, which is thin support for a roadmap aimed at the UN 2030 Agenda. And [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] surveyed 512 teachers across 30 Chinese provinces on whether AI literacy translates into open teaching practice, finding an indirect path through innovative behavior of 0.218 at low institutional support that falls to a non-significant 0.042 at high support.
 
-
 The licensing problem is where open practice and [[generative-ai|generative AI]] collide in the field. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] paid seven faculty to build open materials with ChatGPT in an eight-week cohort, and found the program's own output could not carry a Creative Commons license: model-generated text enters the public domain without the authorship a license needs to attach to. They argue for separating the licensed layer from the model-generated one. A second approach keeps the model inside the course: [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] trained a writing assistant on one open textbook and its course documents, so the assistant extends the resource rather than replacing it, and [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] show the same move on local hardware, generating quizzes from instructor materials with nothing sent to a vendor.
 ## Equity, sustainability and the Global South
 
@@ -88,42 +89,3 @@ The second is a reminder that a generative system can be open and its content cl
 **"AI makes content so cheap that OER is obsolete."** The opposite reading is available and better supported. If generation is nearly free, the scarce goods become the license, the attribution trail, the review process and the maintained platform. That is why this literature converges on governance and infrastructure rather than on production.
 
 **"Adding AI tools to an open assignment improves the learning."** The one quasi-experimental test here found perceived skill growth in both arms with no detectable difference between them, alongside higher completion and marginally lower scores in the AI section. AI changed what students produced and did not change what they reported learning.
-
-## Connected Concepts
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Connected Articles
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — The text talks back: Chatbot-enhanced OER in asynchronous Composition II (Powell et al., 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Five framings for OER once generative AI enters production (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER as digital public goods and the argument for governed infrastructure (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Why twenty-five years of openness left the institutional middle intact (Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Open pedagogy with and without AI tools in two course sections (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Fourteen models of open educational practice and where AI sits in them (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — Teacher AI literacy and open teaching practice across 30 Chinese provinces (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — A seven-pillar framework for responsible OER and AI integration (Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Mentoring and AI-OER production in a virtual laboratory (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — A seven-principle rubric for reviewing AI literacy OER (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Interactivity in OER as a design argument rather than a finding (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — International cooperation in open education as an instrumental case (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — A hybrid recommender for OER against a stronger baseline than claimed (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Digital transformation in open learning as pedagogic transformation (Panda, 2026)

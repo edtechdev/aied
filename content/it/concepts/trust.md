@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -60,11 +62,9 @@ La fiducia nell'IA si comporta come un percorso dalla valutazione all'affidament
 
 Un modello strutturale dà a quel ruolo di ponte una prova empirica. Nell'indagine di [[trust-calibration-genai-collaborative-regulation-2026|Bu e Li (2026)]] su 642 studenti universitari, il supporto contestuale prediceva la calibrazione della fiducia (β = 0,56), la calibrazione della fiducia prediceva la [[collaborative-learning|regolazione]] [[regulation|collaborativa]] (β = 0,49) e i guadagni di [[transfer-of-learning|trasferimento]] percepiti (β = 0,22), e il percorso diretto dal supporto contestuale ai guadagni non era significativo.
 
-
 **La fiducia davanti a ogni percorso classico di accettazione.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] ha aggiunto la fiducia all'UTAUT in un sondaggio su 450 studenti di arte e design nello Zhejiang e l'ha trovata il predittore diretto più forte dell'intenzione di usare l'[[generative-ai|IA generativa]] (β = 0,425). Seguivano l'influenza sociale (0,155), il controllo metacognitivo (0,146) e l'aspettativa di prestazione (0,128). L'influenza sociale portava anche il percorso più ampio verso la fiducia (β = 0,262), e il 42,1% della sua associazione totale con l'intenzione passava attraverso la fiducia.
 
 Il costrutto è più sottile di quanto il coefficiente suggerisca. Misura la fiducia strumentale nella tecnologia con un supplemento di valore artistico — fiducia dichiarata anziché affidabilità calibrata — e i due item sulla paternità sono stati eliminati dopo aver formato un fattore proprio in un pilota su 121 studenti. Uno studente può fidarsi di questo modello in modo appropriato o indiscriminato, e lo strumento non sa distinguere i due casi.
-
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] sostiene un'interpretazione della fiducia negli algoritmi **legata alla funzione anziché globale**: né l'avversione agli algoritmi né l'apprezzamento per gli algoritmi descrivevano questi 13 studenti, che si fidavano simultaneamente di ChatGPT per il feedback di superficie e diffidavano di esso come valutatore. La loro fiducia era condizionata dalla supervisione dell'istruttore, e il loro scetticismo derivava dai limiti contestuali dell'IA — la lettura errata della scrittura a mano scansionata («ha sbagliato a scrivere il mio cognome e pensa che abbia commesso errori di ortografia quando non ne ho commessi»), il non conoscere il sistema di valutazione dell'istruttore, e la positività cronica — piuttosto che dalla tecnofobia, a suggerire che le misure di fiducia dovrebbero essere scomposte per funzione svolta dall'IA e posta in gioco a essa collegata.
 
@@ -126,55 +126,3 @@ La calibrazione è messa alla prova anche dagli incentivi del sistema fidato ste
 
 - Riporta fiducia, percezione del rischio e affidamento appropriato come costrutti distinti, perché covariano in direzioni non ovvie — anche negativamente.
 - Riporta l'esito comportamentale (il tasso di accettazione dei suggerimenti sbagliati) accanto alla fiducia autodichiarata; le scale di fiducia da sole invertono la conclusione.
-
-## Concetti collegati
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — il rischio sociale su cui si reggono le norme e la divulgazione
-
-## Articoli collegati
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Uso diseguale, fiducia simile: la IA generativa in Danimarca e Romania (Lucau, Voicu e Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
-- [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
-- [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
-- [[care-full-feedback-genai]] — Trustworthy feedback as a "care-full," relational practice
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in an ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Co-designing trustworthiness metrics and visualizations for LLMs in education
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics AI tools
-- [[t2i-competence-paradox-2026]] — The competence paradox in AI image generation
-- [[task-context-trust-educational-hri-2026]] — Task context shapes trust in educational robots more than appearance
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity and epistemic trust in AI-mediated learning
-- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy and its limits for trust calibration
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel less satisfying over time
-- [[ai-pedagogical-accompaniment-amico]] — Accountable pedagogical mediation and trust in AI-enabled systems
-- [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
-- [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
-- [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Three student profiles in which AI trust tracks resilience and stress rather than demographics (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Contextual support to trust calibration to collaborative regulation and perceived transfer, with the direct path non-significant (Bu & Li 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority cues doubled abandonment of correct judgments for the AI's position (Tuo et al. 2026)
-
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — La fiducia strumentale come predittore più forte dell'intenzione d'uso della GenAI per gli studenti d'arte
-

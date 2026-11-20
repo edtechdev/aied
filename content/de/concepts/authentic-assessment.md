@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -109,63 +111,3 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - **„Authentizität dreht sich um realistische Aufgaben."** Der [[meta-analysis-systematic-review|Scoping-Review]] von [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud und Du (2025)]] über **37 empirische Studien (2000–2024)** schlägt ein **sechsdimensionales** Designmodell vor, und nur **3 von 37 Studien behandelten soziale Authentizität** — ob Assessment Studierenden hilft, zur gesellschaftlichen Transformation beizutragen. Realismus ist eine Dimension, und die avancierteste Dimension ist kaum untersucht.
 - **„Authentisches Assessment widersteht KI."** Die Exposition ist messbar und groß: ein **dreijähriger Psychologie-Studiengang** erwies sich als **zu 90 % bestehbar**, wobei ChatGPT **bei 36 von 40 Kursarbeiten ausreichende Ausgabe** erzeugte und nur die übrigen Assessments überlebten. Der Großteil der Assessments eines Studiengangs war KI-befriedigbar.
 - **„Redesign ist optional, wenn die Arbeit realweltlich ist."** Das Ergebnis von 36 aus 40 wurde an Kursarbeiten gefunden, deren Authentizität vermutlich nicht infrage stand. Aufgabenrealismus schützte nicht vor KI-Erledigung; das Design dessen, was bewertet wird, tat es.
-
-## Verbundene Konzepte
-- [[learner-identity]] — sich entwickelnde disziplinäre, professionelle, kreative und akademische Lernendenidentitäten
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
-- [[arts-and-media-education]]
-- [[reflection]]
-
-## Verbundene Artikel
-- [[thapa-lewis-process-oriented-assessment-2026]] — prozessbasiertes Assessment und epistemische Authentizität als das, was eine Aufgabe authentifizieren sollte
-- [[ivory-psychology-assessment-integrity-2026]] — Was KI nicht bestehen konnte: Präsenz, visuelle Artefakte und die eigenen Daten der Studierenden (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — Paternalistische KI-Nutzung und Studierendenidentität im Geschichtsunterricht
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung authentischen Assessments: Ein Scoping Review
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentisches Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment im KI-Zeitalter
-- [[authentic-products-authenticated-processes-2026]] — Authentische Produkte, authentifizierte Prozesse
-- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework für Lehren und Bewerten rechnerischer Methoden
-- [[cong-confidence-asag-2026]] — Konfidenzbewusste automatische Kurzantwort-Benotung
-- [[llm-fallacy-misattribution]] — Die LLM-Fehlannahme und die Fehlzuschreibung von Kompetenz
-- [[universities-ai-era-rethinking]] — Hochschulen im KI-Zeitalter neu denken
-- [[ssaho-ai-academic-integrity-review-2025]] — Mehrere Assessmentmethoden gegen KI-Fehlverhalten
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen als authentisches, KI-resistentes Assessment neu betrachtet
-- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Assessmentvalidität im Zeitalter von GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Fähigkeiten zur Sicherung qualitätsvoller Lernprozesse in einer gen-KI-integrierten Zukunft (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments im KI-Zeitalter (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: Lernen durch GenAI-Interaktion bewerten (DRI + Visible Expertise)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Authentizitätskriterien, die Studierendengruppen dazu brachten, die GenAI-Nutzung zu reduzieren
-- [[teacher-educators-ai-integration-preservice-2026]] — Die KI-Vertrauenskrise, die Lehrkräftebildnerinnen und -bildner zurück zu beaufsichtigten Prüfungen und mündlichen Verteidigungen drängte (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integritätsorientiertes Design abgegrenzt vom authentischen Assessment: Urteil sichtbar machen (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Was Akten zu Fehlverhaltensanschuldigungen tatsächlich als Beleg enthalten und welche Prozessbelege ihnen fehlen (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detektorgenauigkeit und Scheitern bei hybrider Schreibarbeit: warum Erkennung ein schwacher Rückfallbeleg ist (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Überinkludierende KI-Verbote: Transkription ist keine Generierung (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Gestaltung authentischer Assessments mit generativer KI: Eine Pilotstudie zur Assessment Authentifire in der Hochschulbildung
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Korrosion des Aufgabenrealismus: KI-resistente Neugestaltung, die Authentizität in der Online-Sprachlehre erodiert
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Authentisch wirkende Formate (aufgezeichnete Präsentationen, entfernte Gruppenprojekte, digitale Artefakte) erzielen über 53.915 Einträge hohe Werte: Authentizität verifiziert keine Autorschaft

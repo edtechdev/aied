@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -159,68 +161,3 @@ Les expériences les plus récentes marquent une limite de ce schéma plutôt qu
 **« Plus de pratique et plus de [[personalized-learning|personnalisation]] aident toujours. »** La taille d'un gain dépend de ce qui est entraîné, et non de la quantité de soutien fournie. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] rapportent que le mélange optimal d'exemples résolus et de problèmes varie selon la compétence visée : la pratique de récupération pure produit des gains plus élevés pour les faits à restituer tels quels, tandis que l'alternance d'exemples et de problèmes produit des gains plus élevés pour les compétences généralisables. Et la [[lak2026-hint-button-unproductive-use|recherche sur les boutons d'indice]] trouve un volume d'indices associé négativement à l'apprentissage. Le même « soutien » qui aide une composante de connaissance peut faire perdre du temps sur l'autre.
 
 **« Un post-test différé est automatiquement un résultat d'apprentissage durable. »** Le délai est nécessaire et non suffisant. Ce qui distingue un apprentissage durable dans cette littérature, c'est une mesure *sans aide* dans des conditions différées, accompagnée de la preuve que l'effet n'est pas porté par l'étai qui sera absent au moment du transfert.
-
-## Concepts liés
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-- [[self-report-measures]]
-- [[research-methods-aied]] — Research Methods in AIED (DBR section)
-- [[social-emotional-learning]] — Social-Emotional Learning
-- [[student-support-and-success]] — Les résultats administratifs (achèvement des tâches, crédits, persévérance, diplomation), distincts des gains d'apprentissage
-
-## Articles liés
-- [[chen-genai-programming-understanding-2026]] — 24 étudiants de premier cycle : les tests réussis avec assistance ont augmenté, la compréhension sans assistance non (Chen et al., 2026)
-- [[gardella-copilot-fast-forgettable-2026]] — 22 programmeurs : les gains assistés ne persistaient pas à un retest non assisté (Gardella et al., 2026)
-
-- [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — L'accès à un agent conversationnel du commerce a élevé les scores à des tests sans aide, qui se sont maintenus une semaine (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — Pourquoi la performance assistée n'est pas un résultat d'apprentissage (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutorat virtuel avec CAL : une expérience sur le recours et l'apprentissage
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[generative-ai-reduced-study-time-math]] — Achèvement plus rapide, moins d'apprentissage : l'IA générative a réduit le temps d'étude sur des problèmes de mathématiques et les connaissances qu'ils construisent
-- [[genai-meta-analysis-programming-learning]] — Une méta-analyse de l'effet de l'IA générative sur la productivité et l'apprentissage en programmation
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Méta-analyse des effets des interventions de littératie en IA
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT help produces learning gains equivalent to human tutor help
-- [[generative-ai-guardrails-harm-learning]] — L'IA générative sans garde-fous peut nuire à l'apprentissage (essai contrôlé randomisé, PNAS 2025)
-- [[absent-cognitive-baseline-2026]] — L'absence de ligne de base cognitive : théoriser un fossé structurel dans l'auto-évaluation académique des étudiants natifs de l'IA
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — Comment l'IA transforme les flux de travail des enseignants
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Méta-analyse de l'apprentissage des langues assisté par des robots incarnés améliorés par l'IA
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La pénalité d'apprentissage de l'IA générative : l'externalisation des devoirs nuit à l'apprentissage
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (critical thinking +24.1%, problem-solving gains)
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[jost-llm-programming-education-learning-outcomes]] — La dépendance aux LLM et les notes en programmation (corrélations négatives)
-- [[genai-can-harm-teaching-rct-2026]] — L'IA générative peut nuire à l'enseignement (essai contrôlé randomisé)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Méta-analyse de l'IA générative et de la pensée d'ordre supérieur
-- [[mujib-ai-ibl-creative-math-2026]] — Apprentissage par l'enquête soutenu par l'IA et performance créative en mathématiques
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL scaffolding gains
-- [[ccct-cooperative-learning-technique]] — AI-designed cooperative learning technique
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolded self-regulated feedback gains
-- [[learner-ai-interaction-patterns-oop]] — Patrons d'interaction et gains d'apprentissage en POO
-- [[ai-feedback-critical-thinking-writing-2026]] — Rétroaction par l'IA et pensée critique en écriture
-- [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA : favoriser la pensée d'ordre supérieur (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Niveaux de pensée informatique et assistants de codage par IA (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT en éducation : un effet en quête d'une cause (critique des mesures de gains par comparaison médiatique)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Méta-méta-analyse : effets de gains d'apprentissage de l'IA corrigés du biais, environ un tiers de la taille rapportée
-- [[oneill-presumed-effective-meta-analysis-2026]] — Présumés efficaces : audit de méta-analyses défaillantes en AIED
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Une synthèse en STIM qui contrôlait les tailles d'effet dépendantes et testait le biais de publication, mais sans appréciation de la qualité (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Méta-analyse de second ordre de 45 méta-analyses sur l'IA en éducation, avec effets corrigés du chevauchement et appréciation de la qualité de la couche de synthèse (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Dans une IA médiée par l'enseignant, c'est la préparation qui a fait bouger les gains, et non l'outil

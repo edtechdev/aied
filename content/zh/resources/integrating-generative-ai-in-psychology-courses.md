@@ -22,6 +22,7 @@ ai_assist:
 translation_of: resources/integrating-generative-ai-in-psychology-courses
 source_updated: "2026-11-17T13:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -92,9 +93,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 ## 说明与注意事项
 
 免费 PDF，无需账号。版权属 STP，而不是知识共享许可：在署名前提下允许个人与课堂使用，而再分发或商业使用需要作者许可。各章是实践者叙述，不是研究——没有设计、样本或效应量——所以要把其中的主张当作经验报告，并逐章引用。
-
-## 关联概念
-
-- [[social-sciences-education]] — 这本文集用课程层面的实践去填充其心理学部分的那个学科簇页面
-- [[ai-literacy]] — 编者给这个文集的发展性框架
-- [[academic-integrity]] — 政策那一章的主题，也是若干课程章节为何内置验证步骤的原因

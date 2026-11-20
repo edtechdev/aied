@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,33 +72,3 @@ ai_assist:
 - **"יותר מעורבות פירושה יותר למידה."** מחקר חישה מוחית מצא ש**ממשק מוגבל ואדפטיבי העלה מעורבות קוגניטיבית (p = .018) בעוד שהצ'אטבוט הבלתי-מוגבל הניב רווחי למידה גבוהים יותר**. הממשק שמערב יותר לימד פחות. מעורבות אינה פרוקסי ללמידה, ואופטימיזציה שלה יכולה להזיז את התוצאה בכיוון הלא נכון.
 - **"תמיכה רגשית היא תוספת רכה לתמיכה קוגניטיבית."** בניסוי כיתתי קטן ([[rct|ניסוי אקראי מבוקר]] של **42 מסיימים מתוך 252 משתתפים**), הגרסה המודעת-קשיבות הגיעה ל**למידת אלגברה דומה בפחות זמן ועם פחות רמזים מבוקשים** מאשר תמיכה קוגניטיבית בלבד. הרכיב האפקטיבי שינה את היעילות ולא את התקרה, וזו טענה שונה ומעניינת יותר מ"זה עוזר ללמידה".
 - **"ממצאים אפקטיביים במדגם קטן מועברים."** 42 מסיימים מתוך 252 משתתפים הוא עיצוב גם מעודד וגם שברירי: שיעור ההשלמה הוא בעצמו ממצא על מי שהתמיד, והאפקט חסום לאותה קבוצה.
-
-## מושגים מחוברים
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — למידה חברתית-רגשית
-
-## מאמרים מחוברים
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — תגובה להתראות רגשיות שנוצרו על ידי בינה מלאכותית: התערבות מורים ומעורבות תלמידים בכיתת המתמטיקה
-- [[wang-teacher-student-centered-agents-physics-2026]] — תפישת אמפתיה מתפקידי סוכן בעיצוב הנחיה בלמידת פיזיקה (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — הערכת איכות כיתה מודעת-רגש באמצעות ניטור בזמן אמת מבוסס IoT (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: הערכה מוגברת-מודלים לשוניים של חרדת סטודנטים (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reframing AI-supported emotion regulation: signals need context, not autonomous interpretation

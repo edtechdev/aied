@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -57,30 +59,3 @@ ai_assist:
 - **「真正性は課題の性質である」** 真正性は、活動と現実の共同体の正当な仕事との関係です。課題は精巧であっても、学校の形をしていることがあります。教師が評価し、成績のために行われ、代表すると称する世界で何の帰結も持たないのです。
 - **「課題から評価が生まれるとは、評価がないことである」** 基準が教室のものではなく共同体のものであるという意味です。すなわち、その仕事をする人々に受け入れられるかどうかです。これはルーブリックよりも厳しい、別の基準です。
 - **「徒弟制には物理的な場が必要である」** 機構は正統的な周辺参加です。実践の周縁から中心へ、実際の責任を伴って移動することです。オンラインやシミュレーションの環境はそれを支えることも、参加を決して与えずに周縁を模擬することもあります。違いは、学習者の貢献が実際に使われるかどうかにあります。
-
-## 関連概念
-- [[learner-identity]] — 進化する学問的、専門的、創造的、学業的な学習者のアイデンティティ
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — 真正な文脈への道としての没入環境
-
-## 関連記事
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — シナリオと出所を伴う再利用可能な資産が、二つの試験で汎用アシスタントを上回りました
-
-- [[vargas-situated-learning-ai-review-2024]] — 状況学習と教育における AI の PRISMA 系統的レビュー（このページの主要な参照文献）
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教育学的設計の担い手としての LLM

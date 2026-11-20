@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -159,56 +161,3 @@ ai_assist:
 - **“显著的合并效应意味着干预有效。”** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu 及同事关于 K-12 AI 教育的元分析]]（**16 项研究、57 个效应量、g = 0.892**）发现了一个大效应，尽管作者对其有所限定。十六项研究是一个狭窄的基础，而在这样的基础上得到的大效应，是一个带有很宽区间的假设。
 - **“综述者默认会准确报告领域的质量。”** 综述的工作包括**暴露方法论质量**，而综述**例行地发现该领域依赖功效不足的、前实验的或准实验的设计**，以及即时的后测。合并的数字继承了这些弱点。
 - **“合并总能提高证据分量。”** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen 与 Wei 的元分析]]在 **40 项研究**上就外语技能跨非常不同的技术做合并，而平均值描述的并不是它所包含的任何具体干预。
-
-## 关联概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI 辅助的教育研究
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## 关联文章
-- [[edurev-100741-tpack-genai-review]] — 从 TPACK 视角看学生学习中 GenAI 的系统综述
-- [[genai-meta-analysis-programming-learning]] — 关于 GenAI 对编程中生产力与学习之影响的元分析
-- [[ai-vocational-education-training-review]] — 职业教育与培训中 AI 的首个系统综述
-- [[ai-collaborative-learning-systematic-review]] — AI 驱动的协作学习的 PRISMA 系统综述
-- [[genai-higher-education-systematic-review-2026]] — 高等教育中 GenAI 的系统综述
-- [[zerkouk-comprehensive-review-its-2025]] — 智能辅导系统的综合系统综述
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT 与批判性／创造性思维的系统综述
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 中 AI 的证据基础
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 素养干预效应的元分析
-- [[genai-writing-performance-meta-analysis-2026]] — GenAI 支持的 L2 写作元分析：一个被极端异质性与质量驱动调节变量削弱的大合并效应
-- [[ai-literacy-heptagon-2026]] — AI 素养各维度的整合式文献综述（PRISMA 引导）
-- [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto et al. 2026）
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 用 FACETS + SAMR 对 22 项 AI 整合研究分类的映射综述；多数落在替代／增强层级
-- [[agarwal-ethical-values-norms-aied-2026]] — AI 教育中的伦理价值与规范
-- [[li-language-educators-genai-review-2026]] — 语言教师使用 GenAI 的实践与发展
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 教育中帮助阅读障碍者的 AI
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause（媒介比较批评）
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 元—元分析：经偏差调整的 AI 效应约为报告大小的 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — 推定有效：对 14 项 AIED 元分析的取证式审计
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI 教学中的教师干预：一项系统综述
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — 数字与 AI 工具用于外语技能的元分析：设计调节变量使准实验效应估计翻了一倍以上
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 高等教育中 GenAI 的元分析：短干预效应随时长增长而崩塌
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI 教育的元分析：效应大，调节变量为零，异质性归因于测量
-- [[yalcin-genai-programming-education-systematic-review-2026]] — 编程教育中 GenAI 的系统综述：46 项研究中有 26 项教学报告稀薄
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 项研究的范围综述：绘制高等教育中 GenAI、认知外包与学习者能动性的图景
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — 生成式人工智能对学习、认知与语言结果影响的元分析
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学生在学术写作中负责任地使用生成式人工智能：关于边界、教育方法与证据缺口的一项范围综述
-
-- [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 大多只是观察：感知类角色占编码角色标签的 62.5%，且没有一项被综述的系统在学习者使用时融合多模态流（Kim & Han 2026）
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 为什么四项研究无法承载一项采纳决定
-

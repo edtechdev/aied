@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -116,7 +118,6 @@ ai_assist:
 
 틀은 증거가 아닙니다. 그것들은 대개 LLM 이전의 맥락에서 빌려 와서 적용하는 사람에 따라 현지화되고, 브랜딩으로 기능할 수 있으며, 단계 모형은 학습이 아니라 단계 사이의 이동을 보고하는 체크박스 채택을 부추깁니다. 틀에 기대는 주장은 [[limitations-in-aied-research|이 분야의 관통하는 한계]], 결과를 측정한 것의 [[assessment-validity|타당성]], 그리고 [[self-report-measures|자기보고]]의 알려진 한계와 나란히 읽혀야 합니다.
 
-
 메커니즘-이론 정렬은 그럼에도 결정적일 수 있습니다. 즉 AI 지원 [[game-based-learning|게임 기반 학습]] 연구 55편에 대한 주제적 종합은 효과가 알고리즘의 정교함이 아니라 AI 메커니즘이 그것이 섬기기로 된 교수법을 실행했는지에 달려 있음을 발견했습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 ## 흔한 오해
@@ -128,31 +129,3 @@ ai_assist:
 **"학습 이론, 학습자 모형, 도입 틀은 서로 바꿔 쓸 수 있는 렌즈입니다."** 그것들은 서로 다른 질문에 답합니다. 학습이 어떻게 일어나는가, 학습자의 상태가 무엇인가, 그리고 실천이 왜 확산되는가이며, 그에 따라 증거의 유형도 다릅니다. 잘못된 층을 고르면 옳은 변인을 틀린 예측에 대고 측정하는 연구가 되고, 그것은 범주 오류인데도 영 결과로 읽힙니다.
 
 **"틀이 많다는 것은 분야가 더 성숙했다는 뜻입니다."** AI 시대를 위해 만들어진 틀은 시험되는 속도보다 빠르게 축적되며, 반증 없는 축적은 진전이 아니라 증상입니다. 성숙은 어휘의 증가가 아니라 경쟁하는 예측들이 해소되는 모습으로 나타납니다.
-
-## 연결된 개념
-
-- [[theory-development-aied]] — 이 분야에서 이론을 세우고 개정하기
-- [[philosophy-of-ai-in-education]] — 규범적·개념적 층위
-- [[learning-theories]] — 학습 이론을 위한 총괄
-- [[learning-sciences]] — 대부분의 이론이 빌려 오는 이웃 분야
-- [[limitations-in-aied-research]] — 증거 기반이 떠받칠 수 있는 것과 없는 것
-- [[tpack]] — 교사 지식 틀
-- [[technology-acceptance-model]] — 도입 틀
-- [[item-response-theory]] — 한 측정 모형
-- [[universal-design-for-learning]] — 한 설계 틀
-- [[research-methods-aied]] — 이론이 어떻게 검정되는가
-
-## 연결된 문서
-- [[ai-game-based-learning-systematic-review-2026]] — 알고리즘의 정교함이 아니라 메커니즘-이론 정렬이 AI 게임 기반 학습 연구 55편에서 효과를 이끌었다
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed 틀을 통해 본 AIED의 사십 년
-- [[educating-minds-generative-ai-2026]] — 생성형 AI와 학습의 이론 풍부한 종합
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 교사 전문성 개발에 적용된 활동 이론
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 활동 이론과 교사의 도입
-- [[generativism-learning-theory]] — 생성형 AI 시대를 위해 제안된 학습 이론
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 인식론적 공동 자율성의 이론을 향하여
-- [[absent-cognitive-baseline-2026]] — AI 토착 학생들의 자기평가에 있는 구조적 간극 이론화
-- [[yan-agentivism-learning-theory-ai-2026]] — 인간-AI 상호작용을 위한 중범위 학습 이론
-- [[ai-literacy-instrument-development-systematic-review-2026]] — 젊은 구성 개념에 걸친 기구 개발
-- [[mishra-control-vs-agency-history-2025]] — 이 분야의 기초적 통제 대 자율 긴장
-- [[genai-chatbots-language-learning-affordances-review-2026]] — 어포던스 분류 체계의 네 번째 범주로 제안된 정서적 어포던스
-- [[wells-genai-research-assistant-sociology-2026]] — 학부 사회학 연구 방법론에서 연구 보조자로서의 생성형 AI 역할 탐색

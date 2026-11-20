@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -52,9 +53,3 @@ Felsőoktatási oktatóknak, akik azt szeretnék, ha a [[learning-design|tanulá
 - **Harmadik fél által végzett inferencia.** A válaszok az Anthropic Claude API-ján keresztül generálódnak, az OpenAI API-jával mint tartalékkal, olyan kereskedelmi feltételek mellett, amelyekről a politika azt mondja, hogy 2026 szeptemberétől kizárják az API-bemeneteken és -kimeneteken való tanítást. Az intézménynek ezt a saját megállapodásán keresztül kell megerősítenie, nem egy weboldalon keresztül.
 - **Nem osztályozó.** A politika és a feltételek egyaránt az asszisztens ítéleteit, például azt, hogy „a cél teljesült”, az oktató segédjeként írják le; az osztályzatok és az akadémiai döntések az oktatónál és az intézménynél maradnak, és a hallgatók felé történő [[ai-use-disclosure|MI-használat közzétételéről]] szóló döntéseket az oktatóra bízzák.
 - **USA-ban hosztolt.** Az adatok a Google Cloud Firestore-ban vannak, Vercel hosztinggal, és a politika FERPA-kötelezettségekkel foglalkozik ott, ahol a szolgáltatás oktatási nyilvántartásokat kezel; az Egyesült Államokon kívüli felhasználóknak azt mondják, hogy adataikat ott dolgozzák fel.
-
-## Kapcsolódó fogalmak
-
-- [[learning-design]] — a strukturált feladattervezés mint pont, ahol az MI-politika konkréttá válik.
-- [[guardrails]] — bevonódási kapuk és korlátozott MI-segítség mint tervezési idejű korlátok.
-- [[ai-use-disclosure]] — az oktató, nem a platform dönti el, hogyan jelentik be a hallgatóknak az MI-használatot.

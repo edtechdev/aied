@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -74,31 +76,3 @@ AIED में सस्टेनेबिलिटी तीन आपस म�
 - **"अमूर्त AI ज्ञान शिक्षकों की सस्टेनेबिलिटी पढ़ाने की क्षमता की भविष्यवाणी करता है।"** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] ने पाया कि विज्ञान और हरित-ऊर्जा संदर्भों में शिक्षकों का **AI का व्यावहारिक उपयोग** और **ESD-संरेखित सामग्री विकसित करने में उनकी भागीदारी**, **अमूर्त AI ज्ञान या दृष्टिकोण से अधिक**, उनकी क्षमता की भविष्यवाणी करते थे। AI के बारे में जानना और उससे बना पाना अलग हो गए, और व्यावहारिक मार्ग ने अधिक भविष्यवाणी की।
 - **"सस्टेनेबिलिटी शिक्षाशास्त्र के अंतर्गत AI-सहायित निर्देशात्मक डिज़ाइन सस्टेनेबिलिटी शिक्षाशास्त्र उत्पन्न करता है।"** उसी कार्य ने पाया कि सतत विकास शिक्षाशास्त्र के अंतर्गत AI-सहायित [[learning-design|निर्देशात्मक डिज़ाइन]] ने डिज़ाइन को विस्तारित करने के बजाय विशिष्ट रूपों में **सीमित** किया। पारंपरिक सामग्री पर प्रशिक्षित मॉडल पारंपरिक फ़्रेमिंग दोहराता है, जब तक डिज़ाइन कार्य उसके लिए सुधार न करे।
 - **"सस्टेनेबिलिटी एक विषय है, क्रॉस-कटिंग थीम नहीं।"** चूँकि दोनों पथ स्तरों के पार चलते हैं, सस्टेनेबिलिटी [[higher-ed|उच्च शिक्षा]], K-12 और व्यावसायिक संदर्भों में प्रकट होती है, जिसका अर्थ है कि यह एक आधारभूत थीम है जिसे अलग विषय के रूप में पढ़ाने के बजाय प्रत्येक विषय के भीतर संबोधित करना होता है।
-
-## संबंधित अवधारणाएँ
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## संबंधित लेख
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — स्वीडिश सर्वेक्षण और फोकस-समूह अध्ययन जो तर्क देता है कि संस्थागत GenAI निर्णयों का मार्गदर्शन धोखाधड़ी के ढाँचे के बजाय साझेदारी नैतिकता से होना चाहिए
-- [[daniel-ai-sustainability-scoping-review-2026]] — उच्च शिक्षा में सस्टेनेबिलिटी के लिए AI और सस्टेनेबल AI का स्कोपिंग समीक्षा
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — सस्टेनेबल शिक्षा और AI के प्रति मूल्य-आलोचनात्मक दृष्टिकोण
-- [[liu-ai-sustainable-engineering-education-2026]] — सस्टेनेबल इंजीनियरिंग शिक्षा के लिए AI-SEE ढांचा
-- [[riandi-teacher-ai-green-energy-education-2026]] — हरित ऊर्जा शिक्षा में AI एकीकरण में शिक्षकों की भागीदारी
-- [[talebzadeh-ai-green-education-2026]] — हरित शिक्षा में AI की भूमिका
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — सस्टेनेबल AI ज्ञान-आधार सहायक
-- [[llm-environmental-impact-student-usage-2026]] — LLM उपयोग के पर्यावरणीय प्रभाव
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — अंतर्बोधित बुद्धिमत्ता के माध्यम से सस्टेनेबल शिक्षा को बढ़ावा देना
-- [[caruana-pre-university-ai-education-slr-2026]] — पूर्व-विश्वविद्यालय AI शिक्षा का SLR (SDG 4 ढांचा)

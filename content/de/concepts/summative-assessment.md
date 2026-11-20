@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -86,44 +88,3 @@ Die Assessmentliteratur der Wissensbasis betont konsistent, dass [[assessment|As
 - **„Ein LLM kann nicht nach offiziellen Standards benoten."** Gegen **moderierte offizielle Noten** korrelierte ein multimodales LLM, das **10.364 handgeschriebene** Seiten von Physik-Olympiade und Universität benotete, stark. Outcome-Übereinstimmung kann ungenaues Scoring auf Itemebene überstehen — was bedeutet, dass die nützliche Frage ist, wo Item-genaue Präzision tatsächlich nötig ist.
 - **„KI-Noteninflation ist Spekulation."** [[chirikov-ai-grade-inflation-2026|Chirikovs (2026)]] Quasi-Experiment über **über 500.000 Noten** macht den Mechanismus konkret: nach der Veröffentlichung von ChatGPT **stieg in Kursen mit stärker KI-exponierten Aufgaben der Anteil höherer Noten**. Der Effekt konzentrierte sich dort, wo Aufgaben exponiert waren, was genau das Muster ist, das ein Mechanismus vorhersagen würde.
 - **„Studierende, die KI nutzen, lassen sich nicht von denen unterscheiden, die es nicht tun, also ist Provenienz hoffnungslos."** Der Befund, dass es **keinen signifikanten Unterschied in der Quellenzuschreibung** zwischen KI-generierten und Lizenzprüfungs-Items gab, bei korrekter Erkennung von **68,6–77,5 Prozent** und einer Fehlzuschreibungsrate von **18,2 Prozent**, betrifft das Versagen der Erkennung — nicht die Entbehrlichkeit von Provenienz. Wenn überhaupt, erhöht er die Anforderung an verifizierte Provenienz.
-
-## Verbundene Konzepte
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Verbundene Artikel
-- [[llm-grading-assistants-public-health-2026]] — LLM-Benotende komprimieren die Notenskala und vermeiden die Extreme in hochriskanter Aufsatzbewertung
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen neu gedacht als authentisches, KI-resistentes summatives Assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe generativer KI: Evidenz aus beaufsichtigten Klausuren
-- [[chirikov-ai-grade-inflation-2026]] — Verdrängung von Aufgaben durch KI als Mechanismus der Noteninflation; hausaufgabenlastige Kurse (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Schnellerer Abschluss, weniger Lernen: beaufsichtigte Maße unverzichtbar
-- [[generative-ai-guardrails-harm-learning]] — Generative KI ohne Leitplanken schadet dem Lernen
-- [[assessing-quality-ai-generated-exams-field-2025]] — Die Qualität KI-erzeugter Prüfungen bewerten
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs benoten Aufsätze nicht wie Menschen
-- [[llm-automated-assessment-student-self-explanations]] — LLMs zur automatisierten Bewertung von Selbsterklärungen Studierender
-- [[cong-confidence-asag-2026]] — Automatic short-answer grading
-- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
-- [[socratic-tests-conversational-assessment]] — Sokratische Tests: dynamisches, konversationelles, multimodales Assessment
-- [[code-review-genai-cs1]] — Code-Review-Interviews in CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
-- [[test-driven-ai-assisted-learning]] — Testgetriebenes KI-unterstütztes Lernen
-- [[genai-oop-programming-assessments-2026]] — GenAI-Leistung in Assessments zur objektorientierten Programmierung
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: produktive Anstrengung und die Illusion des Lernens
-- [[ai-vs-human-assessment-efl-tpck-2026]] — KI-erzeugte versus menschlich entwickelte Assessment-Aufgaben im EFL
-- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Assessmentvalidität im GenAI-Zeitalter (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Studierende können KI-gefertigte Items nicht verlässlich erkennen

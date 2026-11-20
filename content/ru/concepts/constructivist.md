@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -120,57 +122,3 @@ ai_assist:
 - **«Конструктивистское преподавание можно распознать по задаваемым вопросам.»** Классификатор DeBERTa **классифицировал фактологические вопросы-передачи знаний с точностью 96.67%, но вопросы-фасилитации лишь с 78.79%**, и **каждая модель путала две роли высшего порядка**. Конструкт, который значим больше всего, — тот, с которым автоматическое обнаружение справляется хуже всего.
 - **«Поверхностные признаки урока раскрывают его педагогику.»** Провал классификатора — не деталь реализации. Роли фасилитатора и конструктивиста — трудные случаи именно потому, что определяются тем, что преподаватель делает с мышлением учащегося, а это отношение не восстановимо из одного текста вопросов.
 - **«Конструктивизм означает, что преподаватель не объясняет.»** Теория помещает обучение в конструирование учащимся из опыта, что совместимо с прямым обучением. Трактовка этого как запрета на рассказ неверно читает и теорию, и свидетельства о проработанных примерах.
-
-## Связанные концепции
-
-- [[community-of-inquiry]] — Сообщество исследования (основанное на конструктивистском/дьюисовском прагматизме)
-- [[cognitive-psychology]] — Когнитивизм, третий классический полюс теории обучения
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Химическое образование и ИИ: лаборатории, формативное оценивание, пределы LLM, философия экспериментирования
-- [[theory-development-aied]] — Разработка теории в ИИ в образовании
-- [[productive-failure]]
-
-## Связанные статьи
-
-- [[lee-learner-question-types-ai-education-2026]] — Вопросы учащихся, классифицированные на три конструктивистские роли: передатчик, фасилитатор, со-обучающийся (Ли, Атиф и Кан, 2026)
-- [[mishra-control-vs-agency-history-2025]] — Позиционирует констракционизм (Пепперт) против когнитивных тьюторов в истории AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn с GenAI: рамки констракционизма для построения артефактов
-- [[ai-writes-code-student-writes-model-2026]] — Авторство моделей: теория и программа измерения для обучения через построение с GenAI
-- [[ai-vocational-education-training-review]] — Конструктивизм провозглашён, но бихевиористский ИИ доминирует в VET; «ловушка Тьюринга»
-- [[generative-refusal-ai-tools-for-thought]] — Инструменты ИИ, которые утаивают генерацию, чтобы защитить конструктивную мысль
-- [[genai-mindtool-generative-learning]] — GenAI как инструмент мышления, поддерживающий построение учащимся
-- [[ai-agents-constructive-conflict-design-education-2026]] — Состязательные агенты ИИ, подталкивающие к конструктивному пересмотру
-- [[hingle-collaborative-ai-literacy-2025]] — Совместная ИИ-грамотность и рамки вовлечённости ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — Поддерживаемое ИИ сравнение, генерирующее оценочные суждения
-- [[icap-cognitive-engagement-llm-agents]] — ICAP и когнитивная вовлечённость с агентами LLM
-- [[conversational-ai-tutors-framework]] — Скаффолдинг диалога в ИИ-тьюторах
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Воплощённое исследование с ИИ-фасилитатором
-- [[beyond-detection-authentic-assessment-ai-2025]] — Аутентичное оценивание и построение знания
-- [[teacher-ai-teaming-five-levels]] — Уровни сотрудничества преподавателя и ИИ в проектировании
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Эпистемическая со-агентность между учащимся и машиной
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Пути к обучению образовательной робототехники на основе ИИ (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: генеративный агент, симулирующий когнитивную эволюцию студентов
-- [[synthetic-position-self-authorship-2026]] — Симулированные контр-позиции ИИ репетируют форму диалога, но утаивают сопротивление, что вынуждает к пересмотру
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Плата за обучение: оценки за домашние задания выше на 18%, экзамены без доступа к материалам ниже на 20%, с концентрацией среди тех, кто передаёт домашние задания на сторону
-

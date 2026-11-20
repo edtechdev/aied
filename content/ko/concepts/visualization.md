@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,26 +68,3 @@ ai_assist:
 - **"더 나은 시각화는 더 나은 결과를 낳는다."** 교사들은 **히트맵 같은 복잡한 설계가 더 상세한 통찰을 주는 경우에도 더 단순하고 전통적인 시각화**(막대 그래프, 파이 차트, 범례)를 **체계적으로 선호했습니다**. 더 많은 정보를 담은 산출물이 실제로 사용된 산출물은 아니었으므로, 채택은 설계 품질과 별개의 문제입니다.
 - **"학생들은 비계가 있는 곳을 본다."** 한 연구에서 학생들은 **정교한 시각적 비계가 있음에도 시선의 대부분을 코드에** 두었습니다. 보조물이 주의를 붙잡지 못한 것입니다. 존재하지만 주목받지 못하는 시각적 지원은 아무것도 바꾸지 않습니다.
 - **"참여와 이해는 함께 움직인다."** 참가자들은 AI가 생성한 데이터 만화를 **더 매력적이고 이해하기 쉽다고** 여겼지만, **많은 이가 허위정보 위험과 정보 과부하도 지적했습니다**. 두 반응 모두 같은 산출물에서 나온 것이므로, 긍정적 반응은 검증된 독해가 아닙니다.
-
-## 연결된 개념
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — 공간적이고 3차원적인 표현
-
-## 연결된 문서
-
-- [[interactive-learning-dashboards-engagement]] — 교수 에이전트를 통한 참여 도구로서의 학습 시각화 재고
-- [[mllm-scientific-visualization-literacy]] — 과학 시각화 리터러시를 위한 멀티모달 LLM 벤치마킹
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 핵 개념 시각화를 위한 영역 적응 텍스트-이미지 모델
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI 지원 데이터 만화의 효과, 이점, 윤리
-- [[cfes-p24-multimodal-slide-auditing-2026]] — 멀티모달 슬라이드 감사를 위한 반사실적 벤치마크
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합형 교실의 교사들에게 머신러닝 연구 결과를 접근 가능하게 만들기
-- [[genai-visualization-education-framework-2026]] — 의미를 구성하기, 단순한 차트가 아니라: 시각화 교육에서의 생성형 AI 사용을 위한 인지–교수 틀
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 차세대 문헌 고찰: 신입 연구자를 위한 실천적 AI 안내서

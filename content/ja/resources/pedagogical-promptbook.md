@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -38,6 +39,3 @@ ai_assist:
 ## 使用前に知っておくべきこと
 
 この書籍は CC BY ライセンスのオープンアクセスであり、教材の中でも最も緩やかな側にあります。教育者は、適切にクレジットを示す限り、商用利用も含めて [[prompt-engineering|プロンプト]] を複製・改変・利用できます。そのため、類似のコレクションにあるより制限的なライセンスでは認められない、特定の授業や [[pedagogical-agent|エージェント]] 環境にプロンプトをローカライズすることが簡単です。2026 年に EdTech Books で刊行され、PDF ダウンロードと DOI 10.59668/2340 があり、David Wiley が編集しています。各章が結果だけでなく評価設計も報告しているため、他人の判断を取り入れるのではなく、自分のプロンプトをテストしたい教育者にとっての手本にもなります。
-
-## 関連する概念
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -91,34 +93,3 @@ ai_assist:
 - **「現実的な事例はそれ自体で教える。」** 現実性は文脈を供給します。学習を供給するのは、問い、比較、正当化の課題です。
 - **「AI が生成した事例はすぐに使える。」** 生成された事例は、流暢で、もっともらしく、そして誤りでありえます。専門家によるレビューと、それが招く推論についての確認が必要です。
 - **「学生が討議を楽しんだなら、事例は機能した。」** 関与は転移ではありません。成果は、学生が以前には完了できなかった課題で測定されなければなりません。
-
-## 関連する概念
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## 関連する記事
-- [[trewren-ai-perioperative-case-based-learning-2026]] — 根拠づけられた LLM が、内容を捏造せずに 5 つの周術期事例を保持した
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT が、測定された質の差なしに看護事例の作成時間を短縮した
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI を用いた PBL/CBL の 6 件の RCT。CBL を検討したのは 2 件のみ
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI コースにおける対照事例を用いた教師のモデリング
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 仮想患者・模擬患者と並ぶ事例基盤型学習
-- [[genai-medical-education-transformation-review-2026]] — レビューの応用カテゴリーの一つとしての事例基盤型学習と臨床的推論
-- [[hardie-genai-nursing-scoping-review-2026]] — 看護レビューのシミュレーションのテーマの中の事例基盤型学習
-- [[lorteau-sarro-ai-legal-education-2025]] — AI はソクラテス的教授と法学シミュレーションを補完する
-- [[csaszar-ai-management-education-2026]] — ケースメソッドの分析を伴わない、経営学教育のケーススタディとシミュレーション
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 倫理教育は効果がある（g = 0.55）が、討論形式の実施では効果が認められ、講義のみの実施では認められない

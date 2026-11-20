@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -73,30 +75,3 @@ ai_assist:
 
 - روزگار کے اثرات کو مجموعی بے دخلی کے عدد کے بجائے عمر کے گروہ کے حساب سے رپورٹ کریں؛ 16% بمقابلہ 8% کا تقابل ہی دریافت ہے۔
 - یہ مطالعہ کریں کہ تشکیل کار کام کہاں غائب ہو رہا ہے، کیونکہ یہی وہ طریقہ کار ہے جس سے موجودہ فائدے مستقبل کی قلت بنتے ہیں۔
-
-## منسلک تصورات
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## منسلک مضامین
-
-- [[ai-adult-learning-guidelines-dis2026]] — بالغ سیکھنے کو سہارا دینے کے لیے AI ٹیکنالوجیز ڈیزائن کرنے کے رہنما اصول
-- [[ai-guided-learning-audiovideo-2026]] — مہارت کے حصول کے لیے AI کی رہنمائی والی سیکھنا
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs کے ساتھ اعلیٰ تعلیم کو نئے سرے سے سوچنا
-- [[andragogy-cognitive-delegation-genai-2026]] — AI کے توسط سے چلنے والی سیکھنے میں andragogy اور علمی تفویض
-- [[ai-lifelong-learning-policy]] — زندگی بھر سیکھنے میں AI: بالغ تعلیم کی پالیسی میں مواقع اور چیلنجز
-- [[community-centered-ai-education-adults]] — بالغوں کے لیے برادری مرکزی AI تعلیم کی مشترکہ ڈیزائننگ
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکات کا المیہ: AI اور مہارت کی دوبارہ تشکیل
-- [[kim-ai-andragogy-2026]] — andragogy میں AI بطور تعاونی سیکھنے ایجنٹ بالغ سیکھنے والوں کے نقطہ نظر (Kim et al. 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -55,12 +57,9 @@ ai_assist:
 - **내용이 아니라 인식되는 예시의 출처가 집단적 아이디어 생성을 규정한다.** 인간이 만든 것과 AI가 만든 것으로 표시된 동일한 ChatGPT 생성 예시가 113개 커플(2인 집단)의 fNIRS 하이퍼스캐닝 연구에서 집단 창의성을 바꾸었습니다. 인간 귀속은 자극 단계에서 아이디어 독창성과 전운동 및 보충운동 영역의 뇌간 동기화를 높였고, AI 귀속은 아이디어 생성 경로 사이의 전환만 늘렸으며, 예시가 회수된 뒤에는 두 효과 모두 지속되지 않았습니다([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 - **아동의 AI 지원 창의성을 구별하는 것은 능력이 아니라 발달적 구현이다.** ChatGPT와 공동 창조하는 아동과 성인을 비교한 최초의 신경영상 연구에서, 6–7세 아동과 성인은 MRI 스캐너 안에서 같은 5분짜리 구두 대화를 나누었습니다. 스캐너 밖에서 측정한 창의성은 두 집단 간에 차이가 나지 않았습니다. 그러나 성인은 전두-두정 제어, 현저성, 배측 주의 네트워크에서 유의하게 더 강한 네트워크 내 연결성을 보였고, 더 높은 창의성이 성인에서는 더 강한 전두-두정–현저성 결합을 예측한 반면 아동에서는 그렇지 않았습니다. 저자들은 이것을 기저 능력의 차이가 아니라 AI 대화 중 창의적 인지가 *구현되는* 방식의 차이로 읽습니다. 이것은 이 페이지의 비계 조언이 답해야 했던 적 없는 질문을 제기하기도 합니다. AI 지원 창의적 작업이 동원하는 제어 기제는 실제로 언제 성숭하는가? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
-
 대학원 연구의 반론으로, 중국 대학원생 1,157명 가운데 [[generative-ai|생성형 AI]] 의존은 [[self-report-measures|자기보고]]된 연구 창의성과 양의 관계를 보였으며, 기능적·과제 지향적 의존(β = 0.457)에서 실존적 의존(β = 0.147)보다 훨씬 강했고, [[critical-thinking|비판적 사고]]가 기능적 경로의 약 85.0%를 설명했습니다([[genai-dependence-research-creativity-2026|Yin 등(2026)]]).
 
-
 한 국가 단위 설문조사는 그 양상을 복잡하게 만듭니다. 중국 대학생 5,764명에 걸쳐, AI 의존은 자기보고된 창의성과 음의 상관(r = −0.17)을 보였으며, 도피와 사회적 동기는 음의 간접 경로를, 도구적·오락적 동기는 양의 간접 경로를 이루었습니다([[ai-dependence-creativity-motivation-literacy-2026|Hou 등(2026)]]).
-
 
 - **신체화는 고르게 보답하지 않습니다.** 물리적 로봇과 높은 창의성을 가진 모형을 짝지은 것이 인간-인간 및 텍스트 기반 협력에 비해 독창성을 유의미하게 높인 반면, 인간 조건과 텍스트 기반 조건은 심상과 음성에서 우위를 유지했습니다. 이는 로봇이 양식을 개선하지 않으면서 AI의 산출물을 증폭시킨다는 신체화의 역설입니다([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song(2026)]]).
 - **AI 시대에 인간의 창의성을 재확인하기.** 생성형 AI의 등장은 교육 분야로 하여금 인간 창의성의 가치를 재확인하도록 요구합니다. 예술·디자인 교육을 위한 [[project-based-learning|프로젝트 기반]] 디지털 [[storytelling-in-education|스토리텔링]] 프레임워크는 AI가 결여한 정서적·문화적·서사적 역량을 기르기 위해 명시적으로 설계되어, 학생들이 지역 문화유산으로부터 [[multimodal]] 서사를 만들어 내며, 창의성을 AI 통합 학습에서의 뚜렷하게 인간적인 기여로 자리매김합니다.
@@ -96,43 +95,3 @@ ai_assist:
 - **"학생을 교란하면 창의적 이득이 생깁니다."** **마찰은 창의적 이득이 아닙니다.** 반대형 AI 인격은 **집단의 38.2%에서** 도전과 성찰 담론을 이끌었지만 **측정 가능한 창의적 수행 향상은 없었습니다**. 담론은 바뀌었고 측정된 결과는 바뀌지 않았습니다.
 - **"K-12 문헌은 생성형 AI가 창의성을 향상시킨다는 것을 확립합니다."** **45개 연구(2017-2025)**에 대한 PRISMA 지침 범위 검토는 생성형 AI가 창의성을 대부분 **향상**시키고 **거의 측정하지 않는다**는 것을 보여 줍니다. 이 분야의 지배적 발견은 지각된 향상에서 나온 추론이며, 그것은 결과 측정이 아닙니다.
 - **"생성형 AI에 더 의존할수록 창의적 산출이 늘어납니다."** **중국 대학원생 1,157명** 사이에서 생성형 AI 의존은 **자기 보고 연구 창의성과 정적으로 연관**되었습니다. 그리고 그 연관은 **자기 보고**와의 연관이며, 이는 그 구인에 대해 이용 가능한 가장 약한 측정입니다.
-
-## 연결된 개념
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## 연결된 문서
-- [[malkani-paul-ai-steam-visual-storytelling-2026]] — AI 시각적 스토리텔링이 설계 학생들을 자연 모방에서 사용자 중심 시나리오로 옮겼다(Malkani & Paul 2026)
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 생성형 AI 이미지 생성은 설계 수행은 그대로 두었으나 일반적 창의적 자기효능감을 낮췄다
-- [[bicer-genai-pd-math-creativity-2026]] — 생성형 AI 안내 전문성 개발이 교사의 수학적 창의성, 내용 지식, 교수법적 내용 지식과의 관계를 어떻게 뒷받침하는가
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 문학 창작을 위한 공리 기반 비계: 주제와 텍스트 사이의 단위로서의 전제, 계획으로서만 타당화됨 (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 암묵적 인간-AI 협력에서의 창발적 학습자 주도성: 지지적 대 반대 성향의 페르소나
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT와 비판적·창의적 사고: 체계적 검토
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 로봇-LLM 통합과 창의적 글쓰기
-- [[t2i-competence-paradox-2026]] — 예술·디자인 학생들 사이에서 텍스트-이미지 AI의 역량 역설
-- [[mujib-ai-ibl-creative-math-2026]] — AI 지원 탐구 기반 학습과 창의적 수학 수행
-- [[flowcode-ai-creative-coding]] — Flowcode: 창의적 컴퓨팅에서 반복을 비계화하는 AI 기반 환경
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: 사회기술적 네트워크에서 잠재적 공동 창의성의 삼중 가치 모형
-- [[genai-creativity-k12-scoping-review-2026]] — 45개 K–12 연구에 대한 PRISMA 범위 검토: 창의성을 위한 생성형 AI의 네 가지 용도, 획일화, 그리고 측정의 격차
-
-- [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명의 연구 창의성에서 기능적 대 실존적 생성형 AI 의존
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 동일한 창의성, 다른 신경 참여: fMRI 스캐너 안에서 ChatGPT와 대화하는 아동 대 성인
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI 의존과 사용의 네 가지 동기가 자기보고된 창의성과 서로 다르게 관련됨 (Hou 등 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — AI 시대의 창의성 교육 지원: 인식되는 예시 출처의 역할
-
-- [[wei-genai-configurations-creative-phases-2026]] — 창의적 단계별 생성형 AI 구성: 예술·디자인 교육에서 창의 수행과 즉각적 지식에 관한 2 × 2 실험
-- [[multi-agent-llm-social-learning]] — 두 모델 보조가 단일 모델이 평준화한 아이디어 다양성을 회복했다 (Kumar et al. 2026)
-

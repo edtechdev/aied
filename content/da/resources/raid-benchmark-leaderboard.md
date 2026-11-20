@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -41,9 +42,3 @@ Forskere, der evaluerer detektionsmetoder, administratorer, der skriver politik,
 ## Noter og forbehold
 
 Benchmarket måler detektion af maskingenereret tekst, ikke uredelighed: en studerende, der bruger AI til at planlægge, skitsere eller revidere, producerer tekst, som detektorerne ikke blev bygget til at fange, og en studerende, der [[language-learning|skriver på et andet sprog]], er en kendt falsk-positiv-risiko, som et leaderboard ikke kan vise. RAID er et forskningsartefakt vedligeholdt af et akademisk team; dækningen følger generatormodellerne i dets testsæt, så nyere modeller kan være underrepræsenterede, indtil benchmarket opdateres. Leaderboardet rangerer detektorer, ikke deres leverandørers datahåndteringspraksis, og en høj AUROC siger intet om, hvorvidt det er lovligt eller etisk forsvarligt at indsende studerendes arbejde til den tjeneste i din jurisdiktion.
-
-## Relaterede begreper
-
-- [[ai-detection]] — den metodefamilie, benchmarket evaluerer
-- [[academic-integrity]] — den policy-kontekst, hvor detektorscorer bruges
-- [[benchmark]] — den bredere klasse af instrumenter, dette hører til

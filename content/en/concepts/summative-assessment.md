@@ -10,6 +10,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 > **Summative assessment** — assessment used to evaluate and certify what a learner has learned at the end of a unit, course, or program, in contrast to [[formative-assessment|formative assessment]] which supports learning during instruction. Summative assessment typically takes the form of high-stakes examinations — written, oral, proctored, or closed-book — that assign grades, gate progression, and certify competence. In the AI era, summative assessment has become a central battleground over [[academic-integrity|academic integrity]] and validity: [[generative-ai|generative AI]] can inflate performance on unproctored or take-home tasks, making the choice of summative format — and how it resists AI substitution — a pivotal design decision.
 
@@ -69,44 +71,3 @@ The assessment literature consistently emphasizes that [[assessment|assessment]]
 - **"An LLM cannot grade to official standards."** Against **moderated official marks**, a multimodal LLM grading **10,364 handwritten** Physics Olympiad and university pages correlated strongly. Outcome agreement can survive imprecise item-level scoring — which means the useful question is where item-level precision is actually required.
 - **"AI grade inflation is speculation."** [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on **500,000+ grades** makes the mechanism concrete: after ChatGPT's release, **courses with more AI-exposed tasks saw the share of higher grades rise**. The effect concentrated where tasks were exposed, which is the pattern a mechanism would predict.
 - **"Students who use AI cannot be distinguished from those who do not, so provenance is hopeless."** The finding that there was **no significant difference in source attribution** between AI-generated and licensing-exam items, with correct recognition of **68.6-77.5 percent** and an **18.2 percent** misattribution rate, is about recognition failing — not about provenance being unnecessary. If anything it raises the requirement for verified provenance.
-
-## Connected Concepts
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Connected Articles
-- [[llm-grading-assistants-public-health-2026]] — LLM graders compress the grade scale and avoid the extremes in high-stakes essay assessment
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
-- [[cong-confidence-asag-2026]] — Automatic short-answer grading
-- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
-- [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
-- [[code-review-genai-cs1]] — Code review interviews in CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[test-driven-ai-assisted-learning]] — Test-driven AI-assisted learning
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably spot AI-drafted items

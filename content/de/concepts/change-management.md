@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -84,36 +86,3 @@ Veränderungsmanagement ist das institutionelle Komplement zur Integration auf K
 - **„Strategische Absicht erzeugt Kapazität."** Nur **7% der Institutionen** haben leitende KI-Führungsrollen geschaffen, obwohl **49% KI als strategische Priorität** ansehen. Die Lücke liegt zwischen Erklärung und Struktur, und sie ist das wiederkehrende Versagen von KI-Veränderungsmanagement.
 - **„Ein KI-Werkzeug einzuführen ist ein Ereignis."** **Nachhaltigkeit ist eine Eigenschaft der Organisation, nicht des Werkzeugs** — eine vierjährige randomisierte Evaluation eines nicht-generativen KI-Textnachrichten-Chatbots an der California State University, Northridge illustriert den Zeithorizont. Die Evaluation lief vier Jahre, weil Dauerhaftigkeit das war, was geprüft werden musste.
 - **„Institutionen müssen schneller reagieren, nicht antizipieren."** **Antizipatorische Führung** ist der komplementäre Faden: Das [[baroudi-anticipatory-governance-ai-higher-ed-2026|Scoping-Review]] findet, Institutionen müssen von **reaktiver zu vorausschauender** Governance übergehen. Kompetent auf eine Technologie zu reagieren, die bereits angekommen ist, ist das, was die Evidenz als scheiternd dokumentiert.
-
-## Verbundene Konzepte
-
-- [[governance]] — die Politik- und Aufsichtsstrukturen, die Veränderungsmanagement operationalisiert
-- [[educational-policy-ai]] — nationale und institutionelle Absicht der KI-Politik, die Veränderungsmanagement in Praxis übersetzen muss
-- [[educational-development]] — Aufbau von Fakultätskapazität und pädagogischer Orientierung für KI-Integration
-- [[administrator]] — Führung und antizipatorische Governance als Veränderungsagenten
-- [[ai-literacy]] — übergreifende Fähigkeit, die verantwortungsvolle institutionelle Einführung trägt
-- [[equity-in-ai-education]] — sicherstellen, dass Nutzen der Veränderung gleichmäßig über Institutionen und Lernende hinweg anfallen
-- [[technology-acceptance-model]] — Einführungstreiber, die erklären, wie Veränderung sich ausbreitet
-- [[academic-integrity]] — zentraler regulatorischer Anker, um den Assessmentreform organisiert wird
-- [[student-support-and-success]] — ein Unterstützungsprogramm über den Piloten hinaus aufrechterhalten
-
-## Verbundene Artikel
-
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 Designlehrkräfte: GAI-Nutzung erhöht sowohl die Selbstwirksamkeit als auch die KI-Angst, und die organisationale Unterstützung entscheidet, welcher Pfad überwiegt (Ding et al., 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Nachhaltige KI-gestützte Studierendenunterstützung: vierjährige Implementierungs- und Wirkungsstudie eines institutionellen Chatbots (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — Rahmenwerk mit sechs Dimensionen zur Anpassung von Modellen institutionellen Wandels an AI als Ankunftstechnologie
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK-Framework und Complexity Leadership für transformativen Wandel
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — globaler Delphi-Konsens zur GenAI-Governance in acht Bereichen
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Scoping Review zu antizipativer Governance und Führung
-- [[ai-adaptation-gap-higher-education-2026]] — Lücken zwischen den Stakeholder-Gruppen bei AI-Nutzung, Einstellungen und Vertrauen unter Studierenden, Lehrenden und Mitarbeitenden
-- [[ai-uk-higher-education-policy-2026]] — nationale politische Zielsetzungen vs. institutionelle Kapazitäten in der britischen Hochschulbildung
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organisatorische und technologische Treiber der AI-Adoption
-- [[adarkwah-genai-unesco-policy-2026]] — Analyse institutioneller GenAI-Richtlinien anhand des UNESCO-Rahmenwerks
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digitale Transformation einer Liberal-Arts-Universität hin zu einem forschungsintensiven Modell im Zeitalter der GenAI (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digitale Vermittler, die institutionelle AI-Strategie unter infrastruktureller Knappheit in fundierte Praxis übersetzen
-- [[computing-assessment-genai-workshop-report-2026]] — „KI kann Ihre Hausaufgaben erledigen. Und jetzt?" Bericht über einen Online-Workshop zur Leistungsbewertung in der Informatik im Zeitalter generativer KI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — systemübergreifende Feldforschung dazu, wie Implementierung und das Handeln der Lehrkräfte darüber entscheiden, ob ein AI-Produkt hilft
-- [[dot-framework-survey-2026]] — Umfragebefunde, die zeigen, dass Lehrkräftefortbildung einen vollständigen Designzyklus abdecken muss und nicht nur die Nutzung von Werkzeugen
-- [[flipped-classroom-ai-assessment-math-2026]] — Ein jahrzehntelanger Diffusionsverlauf von der Einzelinitiative zur zentralen Förderung in der Mathematiklehre im Grundstudium (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Planen Sie 15 bis 20 Stunden Neugestaltung pro KI-integriertem Kurs ein, bevor die laufende Anpassung beginnt

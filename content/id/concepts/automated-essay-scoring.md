@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -70,7 +72,6 @@ Keyakinan tingkat token, penskoran berbobot probabilitas, dan ensembel masing-ma
 
 **[[benchmark|Tolok ukur]] manusia, dan apa yang dapat dan tidak dapat dijustifikasinya.** [[opraise-automated-marking-ai-assessment-2026|Studi OpRaise]] adalah uji terkuat dalam basis pengetahuan ini tentang apakah penilaian LLM siap untuk penggunaan rutin, dan jawabannya berporos pada tolok ukur alih-alih model. Studi ini membandingkan tiga sistem terdepan (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), masing-masing dalam 27 konfigurasi prompt yang melintasi kekhususan rubrik, kalibrasi dan strategi penskoran, terhadap nilai termoderasi dari 761 esai Psikologi autentik dari 125 mahasiswa di tiga [[higher-ed|universitas]] Inggris. Nilai manusia diadopsi sebagai kebenaran dasar karena pertimbangan akademik adalah standar yang diterima secara sosial, dan para penulis mencatat bahwa penilai manusia hanya sepakat secara moderat satu sama lain — yang membatasi seberapa kuat kesepakatan AI–manusia dapat secara wajar dituntut. Terhadap tolok ukur itu, kesepakatan pada band gelar Inggris berkisar dari **35 hingga 65 persen menurut institusi** (63 persen di Cambridge, 53 persen di Nottingham, 35 persen di Manchester Metropolitan) dan tidak berpindah antar institusi, sehingga rekomendasi utama laporan itu adalah validasi lokal pada materi [[assessment]] milik institusi sendiri. Dua temuan dapat digeneralisasi melampaui korpus ini. Pertama, reliabilitas dan kesepakatan terpisah: setiap model menilai ulang hampir identik (ICC 1.00, 1.00, 0.97) dan model-model itu sepakat satu sama lain lebih dekat daripada dengan manusia (ICC tiga model 0.91), namun ketiganya hanya sepakat pada band gelar untuk **56 persen** kiriman — konsistensi diri bukan validitas. Kedua, nilai AI memadat ke tengah skala (skor pemadatan 0.47–0.82, dengan titik persilangan di mana AI dan manusia rata-rata sepakat berada di kisaran 50-an atas hingga 60-an bawah), membuat AI paling tidak akurat justru pada batas nilai yang memisahkan First dari Upper Second dan lulus dari gagal. Rentang kosakata, konjungsi, kompleksitas kalimat dan panjang teks memprediksi nilai AI dengan efek kecil tetapi signifikan sementara hubungannya dengan nilai manusia secara luas dapat diabaikan — demonstrasi langsung kekhawatiran [[ai-scoring-language-bias-physics|bias linguistik]], dan satu yang tidak dihapus oleh strategi prompting mana pun yang diuji.
 
-
 **AES sebagai sinyal pelatihan alih-alih hakim.** Model penskoran biasanya dipelajari sebagai evaluator, tetapi SWIM menggunakannya sebagai fungsi imbalan: [[swim-student-writing-simulation-2026|Do, Kontak dan Sachan (2026)]] membekukan verifier AES multi-sifat dan menilainya terhadap esai siswa yang dihasilkan, mengubah profil sifat yang diprediksi menjadi imbalan padat per esai (jarak ternormalisasi-sifat rata-rata dari profil target) untuk GRPO, dengan sengaja bukan metrik Quadratic Weighted Kappa itu sendiri. QWK didefinisikan atas sekumpulan pasangan target-prediksi dan bukan sinyal per sampel, sementara imbalan kecocokan eksak terlalu jarang dalam pengaturan multi-sifat. Perolehannya diperiksa ulang terhadap penskor DeBERTa dan verifier khusus evaluasi yang tidak pernah dilatih oleh kebijakan (0.598 versus 0.479 untuk SFT, dan 0.647 versus 0.501), yang merupakan pemeriksaan yang memisahkan kendali kemahiran sejati dari adaptasi terhadap [[reinforcement-learning|model imbalan]]. Bagi penelitian AES ini adalah tuntutan validitas kedua: penskor yang digunakan sebagai target pelatihan sedang dioptimalkan, sehingga pembobotan sifat dan bias bahasanya sendiri merambat ke segala hal yang dipelajari generator - asimetri pembobotan fitur yang sama (akurasi gramatikal, kecanggihan leksikal dan kompleksitas sintaksis dibobot lebih berat oleh model daripada oleh penilai manusia) yang didokumentasikan di tempat lain di halaman ini, kini membentuk pelatihan alih-alih hanya nilai.
 **Penskoran dan umpan balik menginginkan metode yang berbeda, sehingga sistem sebaiknya memisahkannya.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib dkk. (2026)]] membangun satu sistem esai argumentatif TOEFL sebagai tiga modul — penskoran, umpan balik tingkat permukaan atas tata bahasa dan mekanika, dan umpan balik tingkat mendalam atas organisasi, koherensi dan argumentasi — alih-alih satu model yang mengerjakan ketiga tugas itu. Apa yang unggul pada satu modul kalah pada modul lain: [[llm-training-and-fine-tuning|penyetelan halus]] terbimbing GPT-4o pada 120 dari kumpulan kepemilikan 480 esai yang diskor tolok ukur, diuji pada 360 sisanya, mencapai kappa kuadratik berbobot 0.84 dan RMSE 0.44 pada skala 0-5, di depan garis dasar Wang dan Gayed (2024) (QWK 0.78, RMSE 0.57). Namun penyetelan halus yang sama menghasilkan keluaran tak terpakai untuk modul umpan balik, di mana prompting langsung Claude 3.7-lah yang menghasilkan komentar yang disetujui guru.
 
@@ -88,39 +89,3 @@ Sistem terbuka juga bagian dari gambaran ini: AiAWE memberi skor esai argumentat
 - **"Hasil penskoran otomatis mencerminkan tulisan siswa."** Sinyal ordinal dapat **direkayasa alih-alih diamati** — esai sintetis tingkat-1 yang dibangun melalui pembangkitan templat, degradasi ke **20-40% panjang asli** dan penghapusan kata kunci. Sistem yang divalidasi pada ekstrem yang dikonstruksi mungkin belum pernah diuji pada distribusi yang akan dihadapinya.
 - **"Akurasi agregat adalah metrik yang harus dilaporkan."** **Distribusi rubrik yang miring dapat membuat metrik penskoran agregat menyesatkan**: evaluasi otomatis atas satu dimensi rubrik sering merupakan tugas klasifikasi dengan distribusi label yang timpang, di mana akurasi tinggi dan diskriminasi yang berguna berpisah.
 - **"Penerapan lapangan belum dievaluasi."** Bukti lapangan ada dari penerapan berisiko tinggi yang nyata (**Acredita EB Uruguay, 2024**), yang merupakan bentuk bukti terkuat dalam literatur ini dan yang tidak pernah disediakan oleh sebagian besar studi akurasi penskoran.
-
-## Konsep terkait
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Artikel terkait
-- [[reflection-level-classification-hungarian-essays-2026]] — Klasifikasi Tingkat Refleksi Otomatis pada Esai Siswa Hungaria
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: Sistem Evaluasi Tulisan Otomatis Modular untuk Esai Argumentatif
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Inovasi Pendidikan melalui Penskoran Esai Otomatis: Kerangka Multidimensi untuk Mengevaluasi Berpikir Kritis dalam Esai Fisika SMA
-- [[opraise-automated-marking-ai-assessment-2026]] — Laporan OpRaise: penilaian AI atas 761 esai universitas di tiga universitas Inggris
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kerangka Human-in-the-Loop untuk Penskoran Berbantuan AI dalam Penilaian Menulis Skala Besar
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: penskoran esai konsisten selaras-imbalan dengan LLM
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM tidak menilai esai seperti manusia (Mathew dkk. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Dari penskoran otomatis ke diagnosis pembelajaran: studi mekanisme penilaian formatif berbantuan AI dalam menulis bahasa Inggris
-- [[llm-essay-scoring-feature-weighting-2026]] — Pola pembobotan fitur dalam penskoran esai berbasis LLM (Wang dkk. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Kerangka untuk mengevaluasi LLM dalam penilaian esai (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: keyakinan diri, penskoran probabilistik berbobot dan ensembel meningkatkan kesepakatan penskoran LLM
-- [[swim-student-writing-simulation-2026]] — verifier AES yang dibekukan digunakan sebagai imbalan pelatihan padat bagi generator tulisan
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai yang diprompt menghadapi probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Guru kelas 300 siswa menilai aplikasi AES unplugged 92.5 SUS dan meminta peringatan reliabilitas, bukan skor final (Ribeiro dkk. 2026)

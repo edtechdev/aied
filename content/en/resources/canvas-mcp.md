@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-11-16"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 **Canvas MCP** is an open-source Model Context Protocol server by Vishal Sachdev that connects an AI client to a Canvas LMS instance: the agent can list a student's upcoming work, read a course's assignments and submissions, message a class, or audit a course for accessibility, all through tools the server exposes rather than ad hoc screen scraping.
@@ -39,8 +40,3 @@ Instructors who want an agent to handle the routine reading and messaging around
 ## Notes and caveats
 
 Setup is local: Python 3.11 or newer, a Canvas API token and URL, and an MCP client, with a double-clickable extension for Claude Desktop. The public hosted server has been retired, so a shared deployment means self-hosting behind the institution's own authentication. Write tools are gated — HTTP servers are read-only unless write tools are explicitly allowed, deletes require confirmation tokens, and code execution runs in a sandbox that fails closed. Privacy controls are opt-in: response anonymization, email masking and PII filtering must be enabled, and the README is careful that these can support FERPA obligations without establishing compliance, which depends on deployment and the AI provider. There is no telemetry in the server, but Canvas and the chosen client keep their own logs. The project is MIT-licensed, actively developed, and its own guides are the authority on current tool names and configuration.
-
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

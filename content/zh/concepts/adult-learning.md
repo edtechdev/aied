@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -71,45 +73,3 @@ ai_assist:
 - **"一个好工具就能服务成人学习者。"** 研究发现**没有任何单一成人学习 AI 系统满足全部设计指南**，需要的是整个生态。成人带着义务、断续的时间表与各异的目标而来，因此单一产品无法覆盖这一设计空间。
 - **"成人层面的数字素养可以假定具备。"** [[community-centered-ai-education-adults|一项中西部案例研究]]为一个服务不足社区中的 **54 位成人**共同设计了 AI 素养项目，发现面向公平的成人 AI 教育**必须首先解决基础数字素养与数据信任**。年龄不是数字熟练度的代理指标。
 - **"采纳是动机问题。"** 建立 [[ai-literacy]] 与围绕数据隐私的 [[trust]] 必须先于对采纳的期待。意愿来自对自身数据将被如何处理的信心，而非对技术的热情。
-
-## 关联概念
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — 在线教学与学习
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## 关联文章
-
-- [[ai-adult-learning-guidelines-dis2026]] — 设计支持成人学习的 AI 技术指南
-- [[andragogy-cognitive-delegation-genai-2026]] — 什么仍是自我导向的？在生成式 AI 中介的成人学习中通过认知委托重审成人教育
-- [[ai-lifelong-learning-policy]] — 终身学习中的 AI：成人教育政策中的机遇与挑战
-- [[sovereign-hive-titl-further-education-2026]] — Sovereign Hive 与 Tutor-in-the-Loop（TITL）框架：面向继续教育公平的氛围调节
-- [[community-centered-ai-education-adults]] — 共同设计面向成人的以共同体为中心的 AI 教育：一个美国中西部案例研究
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 远程学习机构需要新的学习系统吗？实施 AIDA 的六项研究综述
-- [[institutional-governance-ai-universities]] — 政策碎片化还是机构一致性？大学与商学院中 AI 的机构治理
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — 面向计算思维的生成式 AI 增强学习体验：系统范围综述与设计指南
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — 通过教学大纲分析绘制 AI 辅助软件工程的涌现课程
-- [[learner-ai-interaction-patterns-oop]] — 面向对象编程课程中学习者—AI 交互模式与学业表现
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy（Kim 等，2026）
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 面向不同程度的参与度而设计：让深度的苏格拉底式对话成为更有回报的路径

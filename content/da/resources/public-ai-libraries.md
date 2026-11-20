@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -46,13 +47,3 @@ Folkebiblioteker, der vil være vært for en kiosk (programmet tager imod ansøg
 - Deltagende biblioteker bidrager med **\$1.000 pr. kioskudrulning om året**; selve piloten er begrænset til de sites, der ansøgte.
 - Privatlivserklæringen er programmets påstand, ikke en revideret konstatering; et bibliotek bør bekræfte opbevarings- og børnesikkerhedsvilkår i sin egen databehandlingsaftale.
 - Køreplanens anden og tredje fase — at lade biblioteker indlæse lokale arkiver og styre de systemer, der opstår — er planlagt, ikke leveret.
-
-## Relaterede begreper
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

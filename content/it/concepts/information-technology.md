@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -89,27 +91,3 @@ Ciò che è distintivo dell'IA in questo campo è che la stessa tecnologia è al
 **Per i progettisti di programmi**
 
 - Costruisci l'artefatto di governance che il settore non ha: responsabilità nominata, cadenza di revisione e un percorso per gli incidenti. Un documento di linee guida sull'IA soddisfa una domanda di accreditamento e non una di responsabilità.
-
-## Concetti collegati
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## Articoli collegati
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

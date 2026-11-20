@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -47,12 +48,3 @@ Studenten die een leesopdracht of een oefenset doorwerken en ondervraagd willen 
 ## Notities en kanttekeningen
 
 Voor de tool voor studenten zijn geen prijs of account gepubliceerd, terwijl institutionele uitrol — cloud, on-premises of hybride — via een voorstel op maat en een gesprek wordt aangeboden; beschouw 'gratis' als de staat van de publieke demo in november 2026, niet als een garantie. Tekst en afbeeldingen gaan naar een gehoste dienst op basis van Claude, en de site zelf zegt gebruikers namen, bedragen, adressen en bedrijfsnamen te verwijderen voordat ze uploaden, wat de last van het anonimiseren bij de uploader legt in plaats van bij het platform. Sessies verwijderen zichzelf na een uur tenzij ze zijn geëxporteerd. Het bedrijf erachter verkoopt ook een breder beoordelingsplatform op redeneergrafen aan instellingen, en zijn claims over het onderscheiden van deductieve, inductieve, abductieve en analogische grafen komen uit vier referentieteksten — de site noemt dat een demonstratie, met validatie op schaal nog in het verschiet.
-
-## Gerelateerde concepten
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

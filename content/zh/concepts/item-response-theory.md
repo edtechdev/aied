@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -72,36 +74,3 @@ IRT 是[[educational-measurement]]和[[assessment-validity]]的基石，支撑[[
 - **“多数模型都能通过的基准就是好基准。”** 一个与标准对齐的基准可能**饱和**：在 NGSS 对齐的初中与高中科学题集上，**多数开放权重模型的得分超过 90%**，使经典项目指标变差。饱和并不意味着模型优秀；它意味着这些题目不再有区分度。
 - **“题目难度是题目的内在属性。”** 一项因果探针**在每个数据集上编辑了 50 道试题**，使其朝向或背离某个假设，发现**提高难度的编辑使平均准确率在 GSM8K 与 BBH-structured 上分别下降 15.27 与 23.88 个百分点**。难度是题目与模型之间的关系，题目一变它就动。
 - **“IRT 只用于给学习者评分。”** [[assessing-quality-ai-generated-exams-field-2025|AI 生成考试的评估]] 使用一个**带前测锚题的贝叶斯分层 2PL 模型，把 1,686 名学生放到同一量尺上**，这是对评估本身的质量保证，而不是为学习者评分。
-
-## 关联概念
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## 关联文章
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — 面向问题与辅导对话的统一反应框架
-- [[explaining-question-difficulty-natural-language-2026]] — 通过 IRT 与因果编辑用自然语言解释 LLM 题目难度（Cui 等 2026）
-- [[item-writing-flaws-irt-difficulty-2026]] — 命题缺陷对 IRT 难度与区分度的影响（Schmucker & Moore 2026）
-- [[causal-modeling-competency-assessment-2026]] — 学生能力评估中支持性干预的因果建模
-- [[assessment-latent-structure-human-llm-2026]] — 评价工具对人类和 LLM 测的是同一个东西吗？（Strugatski 等 2026）
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI 生成考题的大规模 IRT 现场验证
-- [[jin-glat-genai-literacy-assessment]] — GLAT 使用 IRT/2PL 验证（Jin 等 2025）
-- [[llm-item-difficulty-prediction]] — LLM 的项目难度预测
-- [[llm-psychometric-calibration-cdp]] — 让 LLM 评价与心理测量校准对齐
-- [[llm-difficulty-calibration-programming-exams-2026]] — 编程考试中的 LLM 难度校准
-- [[multimodal-item-parameter-estimation-2026]] — 多模态项目参数估计
-- [[huang-interpretable-knowledge-tracing-2026]] — 可解释的知识追踪
-- [[irt-human-genai-mcq-responses]] — 用 IRT 区分人类与 GenAI 选择题作答
-- [[razavi-powers-item-difficulty-llm-2026]] — 用 LLM 和树模型估计项目难度
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — 超越 ID 嵌入：面向认知诊断的过程落地语言建模
-- [[bayesian-consensus-irt-item-banks-2026]] — 持续演化 IRT 题库的贝叶斯共识校准（Jewsbury 等 2026）
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 现场审计显示教师 AI 素养工具极少以 IRT/Rasch 作为首要验证证据
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生同等的 GRE 学习增益
-- [[llm-benchmark-secondary-science-topics-2026]] — 与标准对齐的基准可能饱和

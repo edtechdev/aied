@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -79,23 +81,3 @@ foundations: [misconceptions]
 **“关于正确概念的更多信息能消除抵抗。”** 正确信息的数量本身就是那种已经失败了的干预。概念转变要求把学习者既有的模型显性化并使其显得不足，这与追加证据是不同的教学动作。
 
 **“迷思与普通的无知需要同样的补救。”** 它们需要不同的补救：无知通过提供知识来处理，而迷思必须首先被撬动。把后者当作前者，正是讲解清楚的课也可能让学生的原有模型毫发无损的原因。
-
-## 关联概念
-- [[pedagogical-patterns]] — 驳斥序列，包含两项直接冲突的结果
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## 关联文章
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — 个性化 AI 对话与教科书式驳斥在信念纠正上的比较
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 专家/AI 概念转变文本与互动式 AI 对话的比较
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — 用于协作学习的 LLM 生成迷思
-- [[chatgpt-inoculation-training-verification-2026]] — 接种训练作为一种邻近的驳斥式干预
-- [[critical-genai-use-predictors]] — 推荐用驳论文本针对概念性迷思
-- [[ai-learning-companions-framework]] — AI 学习伙伴与迷思纠正

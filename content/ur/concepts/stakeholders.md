@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -77,42 +79,3 @@ ai_assist:
 **"حصہ داروں کا تجزیہ ابتدائی مرحلے کی مشق ہے۔"** تناؤ عمل کے دوران بھی برقرار رہتے ہیں، کیونکہ کردار ایک ہی نظام کو مختلف طور پر پڑھتے رہتے ہیں۔ طالب علم کی طرف کا [[personalized-learning|ذاتی نوعیت]] کا پرت اور فیکلٹی کی طرف کا دیانت کا ڈیش بورڈ ایک ہی ڈیٹا ہیں جو دو مقامات سے دیکھے گئے ہیں، اور تنازع ہر بار دہرایا جاتا ہے جب ان میں سے کسی ایک کو ایڈجسٹ کیا جائے۔
 
 **"سامعین میں مشترک شناخت کا مطلب ہے کہ ایک ہی پیغام سب کے لیے کافی ہے۔"** سامعین میں رابطہ کرنے کے لیے ایک ہی فیصلے کا مختلف اصطلاحات میں ترجمہ کرنا پڑتا ہے بغیر اسے غلط بیان کرنے کے، اور یہ ایک پیغام کو چار طرح سے دوبارہ لکھنے سے زیادہ ہے۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — اداراتی AI معاونت کے فیصلوں پر کس کا دعویٰ ہے
-
-## منسلک مضامین
-
-- [[genai-student-experiences-uk-he-survey-2026]] — برطانوی اعلیٰ تعلیم میں GenAI کے طالب علم تجربات
-- [[ai-uk-higher-education-policy-2026]] — برطانوی اعلیٰ تعلیمی پالیسی میں AI (طلبہ اور ادارے)
-- [[ai-campus-wellbeing-tools]] — کیمپس کی بہبود کے لیے AI سے چلنے والے آلات
-- [[ai-tpack-mathematics-teacher-education-2026]] — ریاضی کی استاد تربیت میں AI-TPACK تیاری
-- [[genai-policies-higher-ed-computing]] — کمپیوٹنگ میں اداراتی GenAI پالیسی
-- [[ethical-ai-higher-ed-game-theory]] — اعلیٰ تعلیم میں اخلاقی AI استعمال کے لیے ہم آہنگی کے کھیل کا فریم ورک
-- [[student-rationalization-ai-writing]] — تعلیمی تحریر میں AI استعمال کا طلبہ کی طرف سے جواز
-- [[ai-changing-teaching-workflows]] — AI تدریسی ورک فلو کو کیسے بدل رہا ہے
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — اعلیٰ تعلیم میں GenAI کے بارے میں حصہ داروں کے تصورات (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "ہم بعد میں ٹھیک کر لیں گے": تعلیم، AI اور ایڈ ٹیک میں طالب علم کی رازداری کی التوا

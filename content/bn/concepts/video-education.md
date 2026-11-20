@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -57,7 +59,6 @@ ai_assist:
 
 কার্যকর এআই ভিডিও তৈরি করতে শিক্ষাতাত্ত্বিক কাঠামো ও মানব তদারকি লাগে, আর তা আলাদা উদ্বেগ তোলে: এআই উপস্থাপক অস্বস্তি বা অবিশ্বাস জাগাতে পারে ("আনক্যানি ভ্যালি"); জেনারেটিভ ভিডিওতে তথ্যগত ভুলের ঝুঁকি আছে যা শিক্ষার্থীরা ধরতে নাও পারে; ব্যক্তিকরণ মাপযোগ্য করতে শিক্ষার্থীর বৈশিষ্ট্য সংগ্রহ বা অনুমান করতে হয়, সঙ্গে সংশ্লিষ্ট [[privacy]], পক্ষপাত ও [[governance]] উদ্বেগ; আর এক শ্রেণির শিক্ষার্থী নীতিগত কারণে এআই-উৎপন্ন শিক্ষাদানে আপত্তি করে (পরিবেশগত প্রভাব, শ্রম, অটোমেশন, [[academic-integrity|শিক্ষাগত সততা]])। পরিমাপও পরিবর্তনশীল—অনেক প্রমাণ নির্ভর করে ঘোষিত পছন্দ ও অনুভূত মূল্যের উপর, বস্তুনিষ্ঠ শিখন-ফলাফলের উপর নয়, তাই পছন্দের তথ্য (প্রায়শই আসন্ন) ফলাফলের তথ্যের পাশে পড়তে হবে।
 
-
 ## সাধারণ ভুল ধারণা
 
 **"শিক্ষার্থীরা এআই ভিডিও পছন্দ করেছে, তাই এটি ভালো শেখায়।"** পছন্দ ও শেখা আলাদা মাপ, আর এই সাহিত্যের অনেকটাই প্রথমটির উপর দাঁড়িয়ে। একটি বড় অনলাইন কোর্সে (493 জন উত্তরদাতা) শিক্ষার্থীরা এআই-উৎপন্ন ব্যক্তিকৃত ভিডিওকে অ-ব্যক্তিকৃত মানব-রেকর্ডকৃত লেকচারের উপরে রেখেছে (গড় র‍্যাঙ্ক 2.26 বনাম 2.69) এবং 88.4% কিছু ব্যক্তিকৃত ভিডিওকে প্রথমে রেখেছে—একটি পরিষ্কার পছন্দের ফল। পাতার নিজের সতর্কতা প্রযোজ্য: এখানকার প্রমাণ উল্লেখযোগ্যভাবে ঘোষিত পছন্দ ও অনুভূত মূল্যের উপর দাঁড়িয়ে, বস্তুনিষ্ঠ [[learning-gains|শিখন-ফলাফলের]] উপর নয়, তাই পছন্দের তথ্য ফলাফলের তথ্যের পাশে পড়তে হবে, তার বদলে নয়। ভালোভাবে সাজানো মনে হওয়া ভিডিও তাই বেশি শেখাচ্ছে না।
@@ -86,33 +87,3 @@ ai_assist:
 
 - পছন্দ ও ফলাফলের মাপ একসঙ্গে জানান, আর স্পষ্ট বলুন যখন কোনো গবেষণায় কেবল প্রথমটি আছে।
 - সাময়িক সামঞ্জস্য স্পষ্টভাবে জানান, কারণ ভিডিওর বিষয়বস্তু ও [[cognitive-psychology|জ্ঞানীয় প্রক্রিয়াকরণের]] মধ্যে অসংগতি স্নায়বিক তথ্যে দেখা যায়।
-
-## সংযুক্ত ধারণা
-
-- [[online-teaching-and-learning]] — অনলাইন ও মিশ্র শিক্ষাদানের মূল মাধ্যম হিসেবে ভিডিও
-- [[generative-ai]] — এআই-উৎপন্ন ও ব্যক্তিকৃত ভিডিওর চালিকাশক্তি
-- [[personalized-learning]] — এআই ভিডিওর আকর্ষণের চালক হিসেবে ব্যক্তিকরণ
-- [[adaptive-learning]] — অভিযোজিত ভিডিও উৎপাদন ও ছন্দ
-- [[multimodal]] — দৃশ্য, শ্রবণ ও পাঠ্য মাধ্যম একত্র করা ভিডিও
-- [[learning-analytics]] — ভিডিও সম্পৃক্ততা ও মনোযোগের বিশ্লেষণ
-- [[student-engagement]] — যে সম্পৃক্ততা বাড়াতে ভিডিওর ব্যক্তিকরণ চায়
-- [[pedagogical-agent]] — ভার্চুয়াল শিক্ষাতাত্ত্বিক এজেন্ট হিসেবে এআই অ্যাভাটার/উপস্থাপক
-- [[llm]] — স্ক্রিপ্ট ও ভিডিও উৎপাদনের ভিত্তি বড় ভাষা-মডেল
-- [[trust]] — এআই উপস্থাপক ও বিষয়বস্তুতে শিক্ষার্থীর বিশ্বাস
-
-## সংযুক্ত নিবন্ধ
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: বড় মাপে MOOC-মানের শিল্প-ব্যক্তিকৃত লেকচার ভিডিও তৈরি (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-উৎপন্ন ভিডিও-অভ্যন্তরীণ মন্তব্য: এনট্রপি-সময়বিন্যাস, মানব মন্তব্যের তুলনায় গুণমানের ফাঁক (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — শিক্ষার্থীরা অ-ব্যক্তিকৃত মানব-রেকর্ডকৃত ভিডিওর চেয়ে ব্যক্তিকৃত এআই-উৎপন্ন ভিডিও পছন্দ করে (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — কম্পিউটিং শিক্ষায় এআই-উৎপন্ন instructional ভিডিও নিয়ে শিক্ষার্থীদের ধারণা/পছন্দ
-- [[ai-video-dual-gatekeeping-2026]] — শিক্ষাতাত্ত্বিকভাবে ভিত্তিযুক্ত এআই ভিডিও তৈরিতে দ্বৈত গেটকিপিং
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: অভিযোজিত শিক্ষাতাত্ত্বিক ভিডিও উৎপাদন
-- [[engagement-assessment-video]] — ভিডিও শেখায় সম্পৃক্ততা মূল্যায়ন
-- [[savvy-student-attention-video-learning]] — ভিডিও-ভিত্তিক শেখার জন্য শিক্ষার্থীর মনোযোগ দৃশ্যমানকরণ
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — এআই-মধ্যস্থ শেখায় অ্যাভাটার পরিচয় কীভাবে জ্ঞানতাত্ত্বিক বিশ্বাস গড়ে
-- [[bilingual-llm-lecture-companion-srl-2026]] — স্ব-নিয়ন্ত্রিত শেখার জন্য দ্বিভাষিক LLM লেকচার সঙ্গী
-- [[adhd-video-segmentation-computing-education]] — ব্যক্তিগত পার্থক্যের জন্য সাময়িক ভিডিও বিভাজন
-- [[ai-psychotherapy-training-avatars]] — সাইকোথেরাপি প্রশিক্ষণে এআই অ্যাভাটার
-- [[gemini-lualatex-physics-video-transcription-2026]] — পদার্থবিজ্ঞানের লেকচার ভিডিওকে সহজলভ্য পাঠ্যে রূপান্তর
-- [[pivot-generative-video-tutors-stem-2026]] — বিষয়বস্তু উৎপাদন থেকে শিখন-সমর্থনে: STEM শেখার জন্য শিক্ষাতত্ত্ব-পরিচালিত জেনারেটিভ ভিডিও টিউটর
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — ওদিকে তাকান! এআই-বর্ণিত স্লাইডের জন্য গতিশীল দৃশ্য নির্দেশনা

@@ -8,6 +8,8 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback-literacy, formative-assessment, summative-assessment, peer-assessment, self-assessment, automated-assessment, assessment, authentic-assessment, assessment-validity, self-regulated-learning, ai-literacy, scaffolding, writing-education, reflection]
+connected_articles: [morris-same-feedback-different-source-2026, meyer-teacher-ai-feedback-writing-2026, liu-ai-feedback-motivational-pathways-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, guberman-control-or-support-grading-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, jansen-argumentative-writing-feedback-receptivity-2026, ai-agents-joyful-assessment-third-space-2026, student-perspectives-ai-writing-grading-2026, usher-faraon-who-grades-best-2026, layer-sensitive-cognitive-offloading-writing-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, farrokhnia-genai-feedback-student-revisions-2026, yilmaz-genai-feedback-srl-online-higher-ed-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, luo-eaton-ai-student-feedback-ethics-2026, metacognitive-training-optimal-cognitive-offloading-2026, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, mendoza-ai-feedback-feedback-literacy-srl, rethinking-ai-writing-feedback-literacy, jin-genai-learning-analytics-feedback-literacy, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, ai-generated-feedback-higher-ed, care-full-feedback-genai, ai-feedback-ecosystem-higher-education-2026, learner-centered-feedback-ai, genai-feedback-design-multisite-experiment, ai-feedback-critical-thinking-writing-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, zhao-learnlens-feedback-educators-loop, sequenced-ai-feedback-learning, becerra-aicofe-feedback-2026, automated-formative-assessments-a-level-sciences, fenton-oral-exams-ai-authentic-assessment-2025, marked-pedagogies-linguistic-bias-writing-feedback, shap-llm-rationales-teaching-quality-assessment, llm-adaptive-programming-error-explanations-2026, student-perceptions-ai-study-productivity-2026, yasar-llms-iterative-pedagogical-design-2026, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, tripartite-feedback-framework-ai-assessment-2026, structured-reflection-ai-explanatory-feedback-2026, bounded-reliance-ai-writing-feedback-2026, pivot-generative-video-tutors-stem-2026, llm-feedback-focus-adaptivity-student-writing-2026, nlp-student-evaluation-teaching-scoping-review-2026, nazaretsky-feedback-source-bias-2025, ai-powered-writing-feedback-awe-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, xu-automated-feedback-tutor-training-2025, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, porcaro-ai-grading-benchmark-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, xian-process-visualization-feedback-news-translation-2026, zhang-genai-l2-learning-meta-analysis-2026, wang-human-ai-vs-teacher-collaboration-instructional-design-2026]
 ---
 
 > **Feedback** — information provided to a learner about their performance or understanding that is intended to close the gap between current and desired performance. In [[ai-education|AI in education]], feedback has become a central and rapidly transforming theme: [[ai-technologies|AI systems]] now generate, deliver, and even teach students how to use feedback, reshaping every stage of the feedback process.
@@ -137,11 +139,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 - **"Tone is a detail of feedback quality."** In the benchmark it tracked the number it was given: every model, told a grade that contradicted the work, wrote feedback whose tone followed that grade, and for **eight of 22** the shift per point matched or exceeded the shift with the work's quality. Only the tone rule was validated against trained annotators, on **1,655** tutor replies, so substance is unmeasured. [[porcaro-ai-grading-benchmark-2026|A grader that writes feedback from a wrong grade launders the error into praise or criticism]].
 
-
 **Feedback can be built from the process rather than the product.** In [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] one arm received personalized [[visualization|visualizations]] of its own keystroke and screen activity with structured reflection, while the other received written instructor comments on accuracy, clarity and editorial quality. The process arm gained 5.64 points on a blind 0-100 editorial rating against 1.91 for the product arm, with a Group by Time interaction (F(1, 20) = 4.94, p = 0.038, partial eta squared 0.198) and the control arm's own gain not significant (p = 0.123). Eleven students per arm means the direction is the finding, not the size.
 
 - **Demand for AI feedback can measure scarcity, not preference.** In an Honors course on grading, students welcomed AI-generated feedback mainly because they had received so little instructor feedback, not because they judged it better, and they wanted it bounded by instructor judgment ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
-
 
 - **Human-vetted AI feedback improved revisions but not post-test learning.** In a randomized trial with 354 undergraduates and 1,366 essays, AI-mediated TA feedback raised revision quality (Cohen's d = 0.50) while post-test scores stayed flat, and the gain grew as TAs adopted more suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
@@ -155,89 +155,3 @@ The L2 synthesis gives that hierarchy an empirical anchor. Across 48 controlled 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
 - **"Lab approval predicts semester use."** **Lab approval is not semester use**: **all 18 students** reacted positively to the GenAI explanation function in lab sessions, **yet only half used it during the term**. The intention-usage gap is the design problem.
 - **"Immediate corrective feedback is solved with LLMs."** Generating it inside a tutor is **feasible but imperfect**: across **6,926 logged transactions** in the Apprentice Tutor collection, the feedback was good enough to deploy and not good enough to assume correctness.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[reflection]]
-
-## Connected Articles
-
-- [[morris-same-feedback-different-source-2026]] — identical feedback, different attributed source: effort rose with believed human authorship, quality did not
-- [[meyer-teacher-ai-feedback-writing-2026]] — 391 German students: no significant difference on any outcome; immediacy, not authorship, drew the better ratings (Meyer et al., 2026)
-- [[liu-ai-feedback-motivational-pathways-2026]] — 247 undergraduates: perceived feedback quality predicted competence, autonomy and relatedness (Liu et al., 2026)
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-vetted AI feedback raised revision quality (d = 0.50) but not post-test scores (Lu et al. 2026)
-- [[guberman-control-or-support-grading-2026]] — Students welcomed AI feedback because feedback was scarce, not because it was better (Guberman 2026)
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ethics of AI in student feedback
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts for AI-assisted writing (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback (Jin et al. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for feedback literacy (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI in EFL peer feedback for feedback literacy (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
-- [[ai-feedback-ecosystem-higher-education-2026]] — The feedback ecosystem in higher education: AI reworks feedback relations, and humans as the loop (Bearman et al. 2026)
-- [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
-- [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
-- [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
-- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or bottleneck? Structured reflection on AI explanatory feedback (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI and instructor feedback equal on revision quality, unequal on motivation (Liu & Shi 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - feedback generated from keystroke and screen traces outperformed written product comments, 11 per arm
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)
-- [[wang-human-ai-vs-teacher-collaboration-instructional-design-2026]] — Teacher and AI feedback split by dimension and diverge on learning experience

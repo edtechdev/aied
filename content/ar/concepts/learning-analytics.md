@@ -24,6 +24,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -142,69 +144,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **نماذج لغوية كبيرة تقرأ مسارات النقر مقابل استراتيجيات تعلّم مسمّاة.** يُنظّم [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr وآخرون (2026)]] خط أنابيب [[llm|نموذج لغوي كبير]] يحدّد دليلًا على استراتيجية في أثر طالب، ويحكم على الالتزام بها، ويستشهد بالأفعال وراء الحكم، ووصل إلى جودة إجمالية 0.735 في محاكاة أصعب مقابل 0.704 لخط أساس مسطّح.
 - **«التحليلات تحتاج آثار النقر.»** يمكن تقدير حالات المعرفة داخل التعليم القائم على النواتج بـ**تتبع نواتج المقررات مباشرةً من بيانات تفاعل نظام إدارة التعلّم والتحصيل**، باستخدام خرائط ألفة OBE — فالسجل المؤسسي يوفّر الإشارة.
 - **«التنبؤ بلا نافذة إجراء مفيد.»** التنبؤ بالتقدم أشدّ قابلية للاستخدام حين يكون **قابلًا للتفسير ومقرونًا بنافذة إجراء**: فـ[[zhang-ml-student-progress-programming-2026|Zhang وJeffries وKoprinska (2025)]] يتنبأون بنواتج على مستوى الوحدة، وهي صيغة يستطيع المرشد التصرف بناءً عليها، لا درجة خام.
-
-## مفاهيم مترابطة
-
-- [[automation-bias]] — لماذا يُتصرّف بناءً على راية موجودة دون تدقيقها
-- [[explainable-ai|الذكاء الاصطناعي القابل للتفسير]]
-- [[knowledge-tracing|تتبع المعرفة]]
-- [[student-modeling|نمذجة الطالب]]
-- [[formative-assessment|التقويم التكويني]]
-- [[privacy|الخصوصية]]
-- [[edtech-platform|منصة التقنية التعليمية]]
-- [[student-engagement|تفاعل الطلاب]]
-- [[ai-ed-evaluation|تقييم AIEd]]
-- [[feedback|التغذية الراجعة]]
-- [[higher-ed|التعليم العالي]]
-- [[k-12|رياض الأطفال–12]]
-- [[llm|النماذج اللغوية الكبيرة]]
-- [[simulating-students|محاكاة الطلاب]]
-- [[self-report-measures|مقاييس التقرير الذاتي]]
-- [[recommender-systems-and-learning-paths|أنظمة التوصية ومسارات التعلّم]]
-- [[student-support-and-success|دعم الطلاب ونجاحهم]] — الجانب الداعم الذي يغذيه التنبؤ: الإحالة والتوزيع والنتائج التي تحركها أو لا تحركها
-- [[sensor-and-gaze-analytics]]
-
-## مقالات مترابطة
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: تفسير مسارات النقر عبر استراتيجيات تعلّم محدّدة في الأدبيات (Radmehr وآخرون 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — تبادلات الإنسان والذكاء الاصطناعي كسجلات مُهيكَلة: أعداد المطالبات لا تحمل إشارة تُذكر عن التقدّم
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — ملاحظة تحليلات الذكاء الاصطناعي وتنسيقها إلى محاججة جماعية (Lee وPark وLee 2026)
-
-- [[factria-responsible-institutional-analytics-2026]] — تحليلات مؤسسية مسؤولة: تفسير التحيز بدعم الذكاء الاصطناعي
-
-- [[ai-supported-lecturer-decision-making-2026]] — صنع قرار المحاضر المدعوم بالذكاء الاصطناعي في التعليم العالي
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — تحليلات تعلّم فيدرالية وقابلة للتفسير لنمذجة خطر أكاديمي حافظة للخصوصية (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — ما يسأل عنه الطلاب مهم: عمق تفاعل النماذج اللغوية الكبيرة وجودة المهمة والتذكر الفوري (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — من تحليلات التعلّم إلى التدخلات التعليمية: ممكنات التدخلات الجديرة بالثقة القائمة على LA (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA والذكاء الاصطناعي التوليدي في صنع قرارات تصميم التعلّم
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — من التنبؤ بخطر الطالب إلى SC2R: التعويض المضاد
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — التشخيص المعرفي البايزي لمسارات التعلّم المخصصة
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — تقطير نموذج لغوي كبير يشرح نفسه لتحليلات التعلّم
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — هل يستطيع الذكاء الاصطناعي تقديم دعم مناسب لمختلف أنماط الطلاب؟ تقييم واسع النطاق
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — وكلاء نماذج لغوية كبيرة مضبوطون خاصون بكل مشارك ينتجون حوارات حل المشكلات التعاونية (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — معيار ASTRA التركيبي للتدريس متعدد الوكلاء والتعاون المتوازن في المشاركة
-- [[determinants-chatgpt-use-higher-education-2026]] — محدّدات تعلّم الآلة/SHAP لاستخدام ChatGPT المستقبلي في التعليم العالي
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — جعل نتائج تعلّم الآلة متاحة للمعلمين في الصفوف المختلطة
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — تتبع المعرفة القائم على النواتج مع خرائط الألفة
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — سلاسل ماركوف وتنقيب الأنماط لـ29,064 نشاطًا مخططة في 554 مقررًا، كاشفةً قواعد تصميم يقودها الاكتساب ويعززها التدريب
-- [[pulla-parsons-problem-tool-2026]] — Pulla: تتبع سلوكي على مستوى العملية وتحليل الصعوبات الموجّه للمعلم في مشكلات بارسونز (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — استخدام تحليلات التعلّم لدعم كتابة طلاب المرحلة الثانوية بالذكاء الاصطناعي التوليدي
-- [[edtech-privacy-deferral-2026]] — "سنصلحه لاحقًا": التعليم والذكاء الاصطناعي وتأجيل خصوصية الطلاب في التقنية التعليمية
-- [[synthetic-educational-data-structural-fidelity-2026]] — ما تغفله مقاييس الأمانة: فحص بنيوي للبيانات التعليمية التركيبية
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — التنبؤ بخطر الغش بمساعدة الذكاء الاصطناعي من آثار أنظمة إدارة التعلّم في بداية الفصل (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — نحو كسر حائط نظام التعلّم باستخدام نسخ الدروس التعليمية متعددة الوسائط (Thomas et al. 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — معدلات الإتمام قد تُخفي انهيار الاندماج
-- [[kim-ai-embodied-learning-review-2026]] — الذكاء الاصطناعي في التعلّم التجسيدي يرصد في الأغلب: أدوار الاستشعار 62.5% من وسوم الأدوار المرمّزة، ولا نظام مراجَع دمج تدفقات متعددة الوسائط أثناء استخدام المتعلّمين (Kim & Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — دراسة تدريس مصغّر بتحكّم نشط تعزل طبقة التفسير: التفسير تحرّك، والفعل لم يتحرّك (Liu وآخرون 2026)

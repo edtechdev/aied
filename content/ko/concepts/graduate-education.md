@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -129,35 +131,3 @@ ai_assist:
 박사 프로그램은 GenAI를 두 방향으로 동시에 채택합니다. 연구 도구로서, 그리고 지원자가 그것으로 가르치는 법을 배워야 할 대상으로서이며, 쿠바의 2026년 참여실행연구는 하나의 시퀀스가 둘 다를 감당할 수 있는지 테스트했습니다. 가르치기도 하는 박사과정 지원자 34명이 단일 통합 모형(Dr. I.D.E.A. 모형)을 따라 작업했으며, 그 안에서 연구, AI 지원 디지털 및 창의-교수 역량이 동일한 실제 과업에서 연습되었습니다. 34명 전원이 GenAI를 강좌에 통합했고, 26명이 최소 3주 동안 문서화된 재설계를 지속했으며, 25명은 후속 조사 시점에도 AI 지원 실습을 사용하고 있었습니다.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez와 Estrada Molina, 2026]])
 
 자기보고 역량 이득(d = 1.69에서 2.10)은 비교 집단 없는 지각된 변화로 읽어야 합니다. 지속되는 기여는 운영 계층입니다. 공동 구성된 사용 범주, 개인별 AI 사용 로그북, 색인 데이터베이스에서의 필수 검증입니다.
-
-## 연결된 개념
-
-- [[academic-integrity]] — 텍스트가 생성될 수 있을 때의 저자권, 공개, 부정행위
-- [[assessment-validity]] — 성적, 논문 심사, 임상 평가가 정당하게 주장할 수 있는 것
-- [[ai-literacy]] — 대학원 프로그램이 졸업생에게 인증하기를 기대받는 역량
-- [[cognitive-offloading]] — 사고를 지원하는 위임 대 사고를 대체하는 위임
-- [[evaluative-judgment]] — 지도가 길러야 하며 이제 평가해야 하는 능력
-- [[professional-training]] — 세미나실 밖의 임상, 법률, 경영 준비
-- [[medical-education]] — 대학원 수준 AI 시험의 최대 출처
-- [[business-education]] — 가장 강한 실험을 제공하는 MBA 및 경영 석사 강좌
-- [[career-development-and-readiness]] — 배치가 아니라 발달 과정으로서의 고용가능성
-- [[oral-assessment]] — 개인 역량의 증거로서의 방어, 비바, 구두 확인
-
-## 연결된 문서
-
-- [[genai-medical-education-transformation-review-2026]] — 입문부터 실무까지 의학 학위 전반의 보고서 153건; 후속 추적이 있는 것 13건, 환자 수준 결과는 없음
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 대학원 연구방법에서의 소크라테스식 문서화; 6학기 체크포인트 완료율 96%
-- [[issa-teamwork-framework-academic-integrity-2024]] — 대학원 경영 단위의 지도 하 팀워크; 점수가 40점 중 27에서 31로 상승, 부정행위 집계는 없음
-- [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명; 기능적 의존이 실존적 의존보다 훨씬 강하게 창의성과 연관
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 미국 보건 AI 프로그램 36개; 윤리 교수 80.6%, 데이터 출처 22.2%
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 구조화된 AI 튜터링이 온라인 MBA에서 55점 중 6.63점 이득; 음성과 텍스트는 동등
-- [[assigned-ai-preclass-student-engagement-2026]] — MBA 학생 759명; 참여는 두 번째 지정 리허설 이후에만 약 31% 상승
-- [[llm-grading-assistants-public-health-2026]] — 석사 에세이 시험 채점 가중 카파 0.718, 5일 반복에서 일치도 0.625
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 주체성 지원 및 주체성 침식 패턴을 매핑한 고등 교육 연구 123건
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 연구 31건; 교육자와 학생은 과잉 의존에 동의하고 무결성에서 갈림
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 연구 21건, 교육 증거 있음 3건, 법과학 교실에서는 없음
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 석사 학생 425명; 준비도는 지도교수 지원을 통해 연구 자기효능감에 도달(경로 β = 0.201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 박사과정 지도에 대한 61개 출처 리뷰; 과업 기반 윤리, 비례적 공개, 마일스톤 거버넌스
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 단일 집단 세미나; 자기주도학습이 80.62에서 87.38로 상승, 매칭 기록 8건
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 대학원생이 윤리와 자율성에서 학부생을 앞섬(d = 1.47); 사용 빈도는 역량을 예측하지 못함
-- [[idea-model-doctoral-education-genai-2026]] — 박사과정 지원자가 자신의 강좌를 재설계: 76.5%가 강좌 재설계 지속, 후속 조사 시 73.5%가 AI 지원 실습 사용 중

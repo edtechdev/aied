@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -57,29 +59,3 @@ AIシステムがますます多く応答の採点、困難度の予測、[[feed
 - **「よく採点するモデルは、同じものを測定している」** **同じアセスメント課題**において、人間とLLMの応答構造は**分岐**します。モデルは高く採点しながら、その課題が意図するものとは別のものを測定していることがあります。スコアの一致は観察であり、構成概念の等価性は構造水準の証拠を要する別の主張です。
 - **「較正は単一の正確さの数値から読み取れる」** **単一の正確さの数値は、較正されているように見えるだけのモデルを隠しえます**。GPT-4oとGemini 2.0 Flashに**153人の学部生**の対話から学習スタイルの次元を推論させると、**中程度の正確さが、均衡指標の下では異なる振る舞いをする**形で得られました。集約的な正確さは、均衡指標が露わにした差を隠していました。
 - **「自動採点のパイプラインは、心理測定的な手続きを再現できない」** 著者らは確立されたパイプラインを自動化された形で再現しました（**下側のカットでは少なくとも7つのルーブリック項目に正答する確率67%、上側では少なくとも10つ**）。それによりAIと人間の項目スコアを同じ土台で比較できます。手続きは再現可能でしたが、構成概念の問いは残ります。
-
-## 関連する概念
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## 関連する記事
-- [[genai-reliance-scale-problem-solving-2026]] — 問題解決中に生成AIへ依存する度合いを測る検証済み尺度（Hou ら 2025）
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模なライティング・アセスメントにおけるAI支援採点のためのHuman-in-the-Loopフレームワーク
-- [[assessment-latent-structure-human-llm-2026]] — アセスメント課題は人間とLLMに同じものを測定するか（Strugatski et al. 2026年）
-- [[llm-psychometric-calibration-cdp]] — 心理測定的較正と整合したLLMアセスメント
-- [[llm-item-difficulty-prediction]] — 項目困難度のLLM予測
-- [[cong-confidence-asag-2026]] — 確信度を意識した短答式自動採点
-- [[multimodal-item-parameter-estimation-2026]] — マルチモーダル項目パラメータ推定
-- [[competency-based-education-genai-production-2026]] — GenAIによる能力ベース教育
-- [[ai-grading-handwritten-physics-2026]] — 手書き物理アセスメントのAI採点（オリンピアード）
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木構造MLを用いた項目困難度の推定
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — AIリテラシー測定ツールの比較: 55の構成概念にわたるジャングル対とジングル対
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス講義における学生のLLM利用とAI生成問題の困難度の限界
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 中程度の正確さは、クラスごとの再現率を確認すると支配クラスの予測だった（Zamanifard、Goudarzi & Robb 2026）

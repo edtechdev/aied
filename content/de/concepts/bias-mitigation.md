@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -114,53 +116,3 @@ Alles auf dieser Seite betrifft Bias im System. [[automation-bias|Automation Bia
 - **„Bias ist ein Problem von Scoring und Feedback."** Bias tritt in **Aufgabenklassen außerhalb des Scorings** ein: Drei LLMs, die **28-köpfige Software-Engineering-Kurse auf vier Teams verteilten, ordneten Männer mindestens 80% seltener zu** als die Referenzverteilung. Teamzusammenstellung trug Bias in einer Größenordnung, die dem Benoten vergleichbar war.
 - **„Die relevante Fähigkeit bereitzustellen, beseitigt den Bias."** Das Bereitstellen von Fähigkeiten **reduzierte ihn, beseitigte ihn aber nicht**: **99,2% der fähigkeitsbasierten Zuweisungen trafen eines von zwei Ground-Truth-Teams, dennoch entschied das Geschlecht zwischen gleichwertig gültigen Optionen (OR 2,53)**. Nahezu perfektes Aufgaben-Matching koexistierte mit einem Geschlechtereffekt, sodass Genauigkeit beim Hauptkriterium kein Beleg für Fairness ist.
 - **„Ein Minderungsansatz genügt."** Die Forschung illustriert **komplementäre Strategien** — darunter fairness-bewusste Modellierung —, weil der Bias, der bei der Zusammenstellung eintritt, nicht durch eine Maßnahme behoben wird, die auf Ausgabetext zielt.
-
-## Verbundene Konzepte
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — die leserseitige Fehlform, die diese Seite nicht abdeckt: eine Empfehlung annehmen, ohne sie zu prüfen
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Verbundene Artikel
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolische pädagogische Ausrichtung (NSPA)
-- [[ai-scoring-language-bias-physics]] — Sprachbias in KI-gestützter Bewertung
-- [[gender-bias-transfer-llm-writing]] — Übertragung von Geschlechterbias beim LLM-gestützten Schreiben
-- [[paternalistic-filter-llm-history-education]] — Der paternalistische Filter und unterschiedliche Verweigerungen
-- [[fair-explainable-edu-recommendations]] — Faire und erklärbare Bildungsempfehlungen
-- [[temporal-smoothness-debiased-kt]] — Debiased Knowledge Tracing
-- [[ground-truth-reliability-aied]] — Modernisierung von Ground Truth für KI-Verlässlichkeit
-- [[data-annotations-pedagogical-hints]] — Datenannotationen als pädagogische Hinweise
-- [[xai-education-framework]] — Erklärbare KI in der Bildung
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-Skills-Datenschutz und Prüfung auf Bias
-- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minoritierter Wissensformen
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotypkonforme Biases in automatisiertem Schreibfeedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Studierendenprofile liefern? Eine Evaluation im großen Maßstab
-- [[bias-representation-text-to-image-education-2026]] — Bias und Repräsentation in KI-erzeugtem Text-zu-Bild: systematischer Review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Von der Sentiment-Klassifikation zum handlungsfähigen und verantwortungsvollen Feedback: ein Scoping Review und Evidenzkarte zur NLP in der Studierendenevaluation von Lehre, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative KI kann soziale Biases in der Software-Engineering-Bildung verstärken
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — bei Klassenungleichgewicht konnten drei Modellfamilien Leistungsschwache nicht identifizieren, während balancierte Metriken gesund aussahen
-

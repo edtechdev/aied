@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
@@ -41,12 +42,3 @@ ai_assist:
 ## 备注与注意事项
 
 它是指导性文件，不是评估研究。指南没有提供成效数据；其中的机构案例（加拿大 College of the North Atlantic 将人工智能嵌入课程内容的学习模式，以及肯尼亚 2023 年关于企业实习的职业技术教育标准）只是依据项目报告撰写的描述性案例，并非独立试验。附件自称仅供参考；成熟度等级表是讨论辅助工具，不是测量工具。安全关键型和受监管职业有专门一章，但该章论证的是人类监督的立场，未提供监管层面的细节。CC BY-SA 3.0 IGO 许可允许在署名并以相同方式共享的前提下改编和再发布。
-
-## 关联概念
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

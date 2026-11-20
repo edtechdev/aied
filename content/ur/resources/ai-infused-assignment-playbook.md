@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -47,15 +48,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 یہ ایک عملی رہنما ہے، تجرباتی مطالعہ نہیں؛ طلبہ کے AI استعمال کے بارے میں اس کے دعوے نئے اعداد و شمار پر نہیں بلکہ حوالہ شدہ بیرونی ذرائع (BestColleges، Campbell، Digital Education Council، Flaherty) پر ٹکے ہیں۔ ”نیٹ ورک کی تعمیر“ کا فریم ورک اور ”سمجھ کا وہم“ کی تشکیل وسیع تر ادب (Wigmore et al.؛ Williamson et al.) سے لی گئی ہے اور تدریسی توجیہہ کے طور پر پیش کی گئی ہے، خود پلے بک کے جانچے گئے نتائج کے طور پر نہیں۔ اسائنمنٹس مصنفہ کے بنائے ہوئے سانچے ہیں — کسی کے ساتھ اثر کے حجم (effect size) درج نہیں، اس لیے انہیں ایسے ڈیزائن سمجھنا چاہیے جنہیں مقامی سطح پر ڈھال کر جانچا جائے۔ 2026-10-07 کو v1 کے طور پر Zenodo پر CC BY 4.0 کے تحت شائع ہوئی؛ بغیر اکاؤنٹ مفت ڈاؤن لوڈ ہو سکتی ہے۔ اندراج کے وقت ریکارڈ صرف ~35 ملاحظے اور ~14 ڈاؤن لوڈز دکھاتا ہے، اس لیے ابھی اس کا بیرونی استعمال یا ہم مرتبہ جائزہ بہت کم رہا ہے۔
-
-## منسلک تصورات
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

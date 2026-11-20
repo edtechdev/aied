@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -47,9 +49,7 @@ ai_assist:
 
 У рамках підходів [[self-regulated-learning]] метакогніція — центральний механізм, який дає здобувачам змогу адаптувати стратегії, впізнавати непорозуміння та доречно звертатися по допомогу. ([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-
 Метакогніція — не той самий конструкт, що [[reflection|рефлексія]], і ці два часто змішують. Стеження — це судження, яке здобувач робить про власний стан, і воно може відбуватися без жодного запису. Рефлексія — це навмисний, задокументований розгляд завершеної спроби, і її продукт — текст, який можна переглянути чи оцінити. Розрізняти їх найважливіше тоді, коли задіяний ШІ: судження стеження важко передати, тоді як артефакт рефлексії може створити модель.
-
 
 То, як здобувачі насправді застосовують метакогніцію навколо AI, формується чимось більшим, ніж сам інструмент: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] виявляють, що мотивація студента та роль взаємодії, яку він бере на себе, формують його метакогнітивне [[student-engagement|engagement]] з [[generative-ai|GenAI]], — тобто те, чи є використання AI метакогнітивно багатим, залежить від позиції здобувача не менше, ніж від технології. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] додають саму [[student-ai-interaction|AI interaction]] як об’єкт цієї рефлексії: завершальний крок їхнього циклу [[prompt-engineering|Prompt Literacy]] просить здобувачів дослідити, що процес розкрив про те, як функціонують підказки, і які припущення сформували відповідь, і роблять рефлексію та перегляд тією фазою, в якій розвиваються авторство та критичне судження.
 
@@ -89,11 +89,9 @@ ai_assist:
 - **Курс на прикладах** у [[conversational-ai|chatbot]] від Scheu et al. підвищив **сприйняту компетентність** (метакогнітивну [[self-assessment]]), навіть коли сам [[llm]]-помічник цього не робив
 - **Нове формулювання ставить у контур не лише індивіда, а й систему.** Бібліометрично-[[meta-analysis-systematic-review|систематичний]] огляд 135 досліджень STEM-аудиторій (24 ключові дослідження) виявляє постантропоцентричне формулювання, яке позиціонує AI як корегулятора навчання, зсуваючи одиницю аналізу від індивідуальної рефлексії до системної [[regulation]] та [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
 
-
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone та співавт. (2026)]] дотончили GPT-4o-mini, щоб ідентифікувати чотири метакогнітивні суб-елементи — постановку цілей, вибір стратегії, рефлексію про навчання та регулювання зусиль — на рівні речень у 14 100 класних рефлексіях. Людська надійність задала стелю: початкове подвійне кодування погоджувалося на κ = 0,32–0,51, калібрування підняло узгодженість до κ = 0,52–1,00, і точність моделі пішла за тим самим порядком — постановка цілей 91,28%, рефлексія про навчання 67,44%, регулювання зусиль 60,74% — на 18 883 розмічених зразках.
 
 **У масштабі синтезу патерн зберігається, і він тоншає мірою загострення вимірювання.** Трирівневий метааналіз 54 (квазі)експериментальних досліджень (121 розмір ефекту, 7 431 здобувач) оцінив ефект ШІ на метакогніцію в g = 0,624 (95% ДІ [0,431, 0,817]), причому 107 із 121 ефектів були позитивними, а прирости зростали з експозицією від g = 0,381 за менш ніж тиждень до g = 1,638 за 15–20 тижнів ([[ai-metacognition-three-level-meta-analysis-2026|Li та співавт. (2026)]]). Джерело вимірювання було вирішальним модератором: самозвіт g = 0,776, поведінкове спостереження g = 0,514, а оцінки точності — розрив між судженим і фактичним виконанням — g = 0,035 і незначущі. Приріст найбільший там, де його найлегше заявити, і майже нульовий там, де стеження оцінюють проти продуктивності, — це і є проблема самозвіту, на яку натрапляють дослідження вище.
-
 
 Метакогніція — серед найменш досліджуваних результатів. У скопінг-огляді 394 досліджень генеративного ШІ у вищій освіті метакогніція й саморегульоване навчання були серед цілей, на які звертали найменше уваги, поряд з [[ethics|етикою]] та [[creativity|креативністю]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
@@ -108,7 +106,6 @@ ai_assist:
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] дає поясненню придушення пререєстрований причинний тест (N = 317) проти робочих аркушів. Дезорганізація зросла на 0,84 (95% довірчий інтервал від 0,47 до 1,21) і була найвиразнішим ефектом у моделі, тоді як глибинна обробка падала ланцюгом від перекладання до критичного мислення, а не напряму. Автор називає цей стан когнітивною сплячкою, у якому стеження й вибір стратегії замовкають, хоч обробка триває, і вбачає його причину в афордансах середовища, а не у здобувачі.
 
-
 **Стеження змінює маршрут більше, ніж блокує шлях.** [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] розділили 600 студентів бакалаврату за пунктом стеження й оцінювали кожну групу окремо: навантаження передбачало когнітивне перекладання на β = 0,844 для слабких стежників і β = 0,840 для сильних — фактично однаково. Перекладання передбачало надмірну залежність на 0,396 і 0,506, а прямий шлях навантаження — 0,560 і 0,419. Залежність у сильніших стежників відтак ішла більше через перекладання і менше напряму. Це окремі моделі, а не формальний багатогруповий тест.
 
 ## Коли стеження пропускають
@@ -116,7 +113,6 @@ ai_assist:
 [[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao та співавт. (2026)]] перетворили ризик придушення на виміряну величину в чотирьох експериментах із 728 дорослими. Вища допомога ШІ підняла незалученість на рівні завдання з 3,96 до 4,82 (*d* = 0,67), і [[cognitive-offloading|перекладання]] несло 58,0% ефекту (непрямий 0,51, 95% ДІ [0,32, 0,72]). Потім експертні оцінювачі оцінили делеговані пропозиції нижче: якість упала з 4,78 до 3,95 (*d* = 0,75), причому 57,8% цього падіння йшло через незалученість (непрямий −0,48, 95% ДІ [−0,68, −0,30]).
 
 Витрата умовна. Складність завдання підсилювала цей шлях (індекс −0,39, 95% ДІ [−0,62, −0,16]), тоді як [[ai-literacy|грамотність зі ШІ]] його послаблювала (індекс 0,30, 95% ДІ [0,09, 0,52]). Тож стеження — не лише здатність, що передбачає краще використання; його пропуск — це крок, чия відсутність видима в якості результату через маршрут перекладання. Твердження обмежують дві межі. ШІ був заскриптованим дослідником банком відповідей, а не живою моделлю, і заняття та статус студента не повідомлялися, тож це не дослідження ні класу, ні робочого місця.
-
 
 ## Розрізнення залучення та мотивації
 
@@ -154,7 +150,6 @@ Scheu et al. (2026) виявили критичний розрив:
 3. **Розділяйте підтримку мотивації та вміння:** розвиток метакогнітивної вміння (через структуру курсу) і посилення продуктивності (через допомогу AI) можуть потребувати різних стратегій проєктування.
 4. **Назвіть ціль як onloading і дозуйте допомогу.** [[fan-metacognitive-offloading-sync-model-2026]] розрізняє когнітивне перекладання, яке лишається під метакогнітивним контролем, і *метакогнітивне* перекладання, де планування, стеження, оцінювання та калібрування суджень передають. Їхня ціль дизайну — метакогнітивне onloading: скаффолдинги, які змушують здобувача, а не ШІ, ставити цілі, передбачати труднощі та судити про стратегії, розміщені всередині підказки, упродовж завдання й поступово знімаються з часом. Правило допомоги — мінімально необхідне: спершу підказка чи діагностичне питання, а глибша допомога відкривається лише після того, як здобувач запитає, постежить або обере напрям. Праця концептуальна, і її автори зазначають, що валідованої міри для жодного з конструктів ще не існує.
 
-
 AI може змінювати **метакогнітивний поріг** для рішення, що ти знаєш достатньо, щоб відповідати: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] виявили, що сам доступ до поради AI придушував готовність людей призупиняти судження за невизначеності, навіть за неправильної поради та інсентивів до точності, — ефект, який витримав ненадіслану з боку AI відповідь і грошові ставки.
 
 Проактивний [[agentic-ai|agentic AI]] може витісняти власний метакогнітивний цикл здобувача: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] стверджують, що коли агенти заздалегідь доставляють, ініціюють і самовиправляються, планування, стеження та оцінка агента заміщають такі ж операції здобувача, усуваючи [[retrieval-spacing-interleaving|retrieval practice]] і самостеження, від яких залежать [[desirable-difficulties|desirable difficulties]] і метакогнітивне тренування.
@@ -176,67 +171,3 @@ AI може змінювати **метакогнітивний поріг** д�
 - **«Допомога ШІ залишає відповідну здатність недоторканою».** Здобувачі, які користувалися допомогою ШІ в написанні есе, були **на 83% нездатними згадати цитати з власних есе проти 11% у тих, хто не користувався ШІ**, що вказує: **вони не взаємодіяли зі змістом під час створення**. Процес створення — це місце, де відбувається залучення, і його обхід проявляється пізніше.
 - **«Перекладання погіршує все».** Витрата виявляється **обмеженою, а не глобальною**: перекладання погіршує **конкретну вправовану навичку, а не базові доменно-загальні здатності**, і проявляється на тестах перенесення **з** чимось. Локалізація має значення, бо каже, що захищати, а не попереджає про загальний спад.
 - **«Здатність створити передбачає здатність утримати».** Розрив у пригадуванні 83% проти 11% — прямий контрприклад: результат створювався в обох умовах, а слід пам’яті різнився величезно.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — кроки рефлексії, які будують ці послідовності
-- [[learners]] — Здобувачі: головне поняття для понять на боці здобувача
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — судження про навчання та ілюзія вільного володіння, яку виправляє практика відтворення
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## Пов’язані статті
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — двогодинний семінар із ШІ-грамотності змістив регулювання LLM-взаємодії в учнів середньої школи, на відміну від їхньої самозвітної метакогніції (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: a human-centered AI metacognitive learning model (agency & reflective learning)
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion and aware pass-through of non-understanding
-- [[ai-metacognition-stem-review]] — AI tools scaffolding metacognition in STEM
-- [[ai-making-us-stupid]] — Is AI making us stupid? critique of cognitive offloading
-- [[stanford-evidence-base-ai-k12-2026]] — General-purpose AI suppresses metacognition by completing reasoning
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses willingness to say "I don't know", even with wrong advice and accuracy incentives
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and pedagogical best practice: the tension between automation and learning
-- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cut acceptance of incorrect AI advice and improved awareness calibration (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring reinforced monitoring but not planning, and self-reported reflection stayed unproductive (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verification literacy acting only through metacognitive self-regulation (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — External support, not metacognitive judgment accuracy, drove revision strategy choice (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — A selective gain: metacognitive knowledge rose while planning and monitoring did not (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Reflective use rose with AI access and predicted critical thinking, not knowledge gain (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Metacognitive awareness as the strongest predictor of adaptive STEM learning (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[dang-human-ai-collaboration-competency-2026]] — Metacognition, not pedagogy, as the mechanism of learner agency in human-AI collaboration (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: a construct for learner governance of standards, judgments and actions
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Logs and think-aloud capture different metacognitive processes in GenAI-assisted learning
-- [[ai-cognitive-partner-reflective-thought-2026]] — four practices and eleven processes of reflective thought when students treat AI as a cognitive partner
-- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud made prompt construction, verification and ethical reasoning visible, but critical evaluation stayed surface-level; not a stand-alone solution
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Метакогнітивне навчання та сократівський скаффолдинг на основі ШІ в рефлексивній практиці майбутніх викладачів: експериментальне проєктування двох досліджень
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Когнітивна сплячка: експериментальний опис призупиненого метакогнітивного залучення та зростання дезорганізації (Braun 2026)
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Трирівневий метааналіз: об’єднаний g = 0,624, що падає до незначущості для стеження, оціненого за точністю (Li та співавт. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — Модель SYNC: метакогнітивне перекладання проти onloading і продуктивність, відокремлена від стійкого навчання (Fan та співавт. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — Стеження не так блокує шлях перекладання, як перенаправляє його
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Коли стеження пропускають, і скільки це коштує
-

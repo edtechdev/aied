@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -77,7 +79,6 @@ Sob a pedagogia crítica, os educadores não são transmissores neutros de habil
 
 - Faça da justificativa o artefato avaliável. Em uma unidade de curso que usou o fluxo de redação, revisão e reflexão de [[benali-genai-academic-writing-2026|Benali e Díaz García (2026)]] com 96 estudantes do último ano em 24 grupos, a IA ficou restrita a duas seções de uma proposta de pesquisa e toda sugestão de IA aceita ou rejeitada precisava ser justificada por escrito. Os relatórios reflexivos dos estudantes descrevem esse trabalho de verificação, e não a redação, como o que produziu a postura crítica, e é por isso que o registro do julgamento é o que deve ser avaliado.
 
-
 **Para desenvolvedores e administradores**
 
 - Espere que a pedagogia crítica interrogue sua estrutura de incentivos, e não sua lista de recursos, e responda à pergunta sobre de quem é o conhecimento que a saída padrão codifica.
@@ -95,34 +96,3 @@ Sob a pedagogia crítica, os educadores não são transmissores neutros de habil
 **"A pedagogia crítica é uma crítica feita de fora da prática."** É uma postura em relação ao papel do educador: perguntar quem se beneficia, de quem é o conhecimento privilegiado e como a escolarização reproduz ou resiste ao poder. Aplicada à adoção de IA, isso significa interrogar as lógicas corporativas e capitalistas que moldam a compra — perguntas que um instrutor pode fazer sobre as escolhas da própria instituição, e não apenas sobre a tecnologia em abstrato.
 
 **"Centrar epistemologias marginalizadas é um acréscimo de conteúdo curricular."** Isso muda de quem é o conhecimento que conta como conhecimento, o que é uma pergunta sobre a estrutura do curso, e não uma leitura a mais. Acréscimos de conteúdo deixam o quadro intacto; a reivindicação da pedagogia crítica é sobre o quadro.
-
-## Conceitos conectados
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-
-## Artigos conectados
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Educação em direitos humanos, prática reflexiva e o ensino da governança da IA como formação profissional (Kasa-Mälksoo 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — A composição multimodal como pedagogia de letramento crítico em IA
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análise crítica do discurso dos conselhos tecnossolucionistas sobre alinhamento construtivo com IA generativa
-- [[benali-genai-academic-writing-2026]] — Revisão forçada por justificativa em um curso de redação acadêmica: IA limitada a duas seções da proposta, com cada sugestão aceita ou rejeitada por escrito (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Crítica crítica e feminista à "colonização pela IA" da educação em ciências
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "Resistir à IA" como práxis de letramento crítico em IA enraizada na comunidade
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistribuindo a autoridade epistêmica da IA por meio da aprendizagem de base comunitária
-- [[raffaghelli-situated-ai-ethics-2026]] — Framework situado, histórico-cultural e ecológico para a ética da IA
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Modelo desenvolvimental-crítico para a cognição interpretativa nas humanidades
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Letramento em IA humanista socialista + uso justo
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Abordagem valor-crítica da educação sustentável e da IA (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Visão emancipatória para desenhar a IA generativa rumo ao florescimento do estudante
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Framework de engajamento com IA generativa centrado no humano, construído sobre Freire, o construcionismo e uma ética do cuidado
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pedagogia Digital Crítica e epistemologias decoloniais aplicadas ao desenvolvimento acadêmico no Sul Global

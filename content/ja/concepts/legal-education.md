@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -92,31 +94,3 @@ Gutowski and Hurleyは、0–5のルーブリックで5つの次元にわたっ�
 - **「法科大学院は立場を定めている。」** 大多数は**おおむね禁止的な立場**を採用し、しばしば**技術を研究するための時間を稼ぐこと**として説明され、一方で**ほぼすべての方針が個々の教員に裁量を留保**していました。教員の上書きを伴う禁止は定まった立場ではなく、既定値を伴う先送りです。
 - **「調査の証拠がこの分野を記述する。」** **ABAの2024年調査は29校のみから回答を得ており、それはABA承認の法科大学院のおよそ15%**であり、**800人**の実務家へのLexisNexis調査は別の集団を測っています。どちらも法学教育を代表するものとして扱えず、両方がそうであるかのように引用されています。
 - **「AIの推薦を伏せることは中立である。」** 法的文脈の実験では、**裁判所の民事事件についての186人の一般の意思決定者**は、システムが自分の立場を伏せたときに誤った AI の立場に従うことがはるかに少なくなりました（**5.7〜8.2% 対 42.0〜60.5%**）。伏せることは中立を生まず、服従の大きな減少を生みました。それ自体が一つの効果なのです。
-
-## 関連概念
-
-- [[case-based-learning]] — 教育法としてのケースメソッドとケースの討議
-
-- [[academic-integrity]] — the conduct framework applied to assisted work
-- [[assessment-validity]] — whether assisted performance measures the intended competence
-- [[authentic-assessment]] — designs that require unaided analysis
-- [[ai-use-disclosure]] — attribution and reporting norms still without consensus
-- [[governance]] — faculty governance and policy creation as law schools practice it
-- [[educational-policy-ai]] — institutional AI policy as an object of study
-- [[critical-thinking]] — the reasoning the case method is meant to build
-- [[socratic-method]] — dialogue dependent on student preparation
-- [[experiential-learning]] — clinics and practice-based training
-- [[professional-training]] — the wider family of licensed professions
-- [[career-development-and-readiness]] — practice readiness as the stated purpose
-- [[ai-literacy]] — technological competence as a professional duty
-- [[hallucination-risk]] — fabricated citations as the field's signature failure
-- [[legal-issues-and-risks]] — what institutions face when governance fails
-
-## 関連記事
-
-- [[lorteau-sarro-ai-legal-education-2025]] — 法学教育における人工知能：82件のスコーピングレビュー（Lorteau & Sarro 2025）
-- [[xie-genai-mystery-game-legal-education-2026]] — 生成AIが著したミステリーのロールプレイゲーム対講義：無作為化試験（Xie et al. 2026）
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — システムの立場を伏せると、法的文脈の意思決定で過度の依拠が抑えられるが、判断は築かれない（法学生ではなく一般の意思決定者）

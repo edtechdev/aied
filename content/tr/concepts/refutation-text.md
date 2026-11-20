@@ -17,6 +17,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -74,25 +76,3 @@ Eğitmenler için çürütme metinleri, inatçı yanlış kanıları düzeltmeni
 **“Doğru kavram hakkında daha fazla bilgi direnci çözer.”** Doğru bilgi hacmi, zaten başarısız olan müdahaledir. Kavramsal değişim, öğrenenin mevcut modelinin açık hale getirilmesini ve yetersiz bulunmasını gerektirir; bu da kanıt eklemekten farklı bir öğretim hamlesidir.
 
 **“Yanlış kanılar ve sıradan bilgisizlik aynı çözümü gerektirir.”** Farklı çözümler gerektirirler: bilgisizlik bilgi sağlanarak ele alınır, yanlış kanının ise önce yerinden edilmesi gerekir. İkincisini birincisi gibi ele almak, iyi açıklanmış bir dersin öğrencinin özgün modelini bozulmadan bırakabilmesinin nedenidir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Çürütme dizileri, doğrudan çelişen iki sonuç dâhil
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Bağlı makaleler
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — İnanç düzeltmede kişiselleştirilmiş YZ diyalogu karşısında ders kitabı çürütmesi
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Uzman/YZ kavramsal değişim metni karşısında etkileşimli YZ diyalogu
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — İşbirlikçi öğrenme için LLM tarafından üretilen yanlış kanılar
-- [[chatgpt-inoculation-training-verification-2026]] — Komşu bir çürütme tarzı müdahale olarak aşılama eğitimi
-- [[critical-genai-use-predictors]] — Kavramsal yanlış kanıları hedeflemek için çürütme metinlerini önermekte
-- [[ai-learning-companions-framework]] — YZ arkadaşları ve yanlış kanı düzeltme

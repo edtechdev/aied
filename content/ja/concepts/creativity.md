@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,42 +92,3 @@ ai_assist:
 - **「学生に摩擦を与えれば創造的な利得が生まれる」** **摩擦は創造的な利得ではありません。** 逆張り型のAIペルソナは**38.2%のグループ**で挑戦と内省の言説を促しましたが、**測定可能な創造的パフォーマンスの改善は生みませんでした**。言説は変わり、測定された成果は変わりませんでした。
 - **「K–12の文献は、生成AIが創造性を高めると確立している」** **45件の研究（2017–2025）**を対象としたPRISMA準拠のスコーピングレビューは、生成AIが主に創造性を**増強**し、それを**測定することは稀**であることを示しています。この分野の支配的な知見は、知覚された増強からの推論であり、成果の測定ではありません。
 - **「生成AIへの依存が増すほど、創造的な出力も増える」** **1,157人の中国人大学院学生**の間で、生成AIへの依存は**自己申告された研究創造性と正の関連**を持っていました。そしてその関連は**自己申告**に対するものであり、これはこの構成概念について利用可能な最も弱い指標です。
-
-## 関連概念
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## 関連記事
-
-- [[malkani-paul-ai-steam-visual-storytelling-2026]] — AIビジュアルストーリーテリングはデザイン学生を自然の模倣からユーザー中心のシナリオへと移行させた（Malkani & Paul 2026）
-- [[wei-genai-configurations-creative-phases-2026]] — 創造の諸段階を横断する生成AIの構成：美術・デザイン教育における創造的パフォーマンスと即時知識に関する2 × 2実験
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 生成的AIによる画像生成は設計のパフォーマンスを変えなかったが、一般的な創造的な自己効力感を下げた
-- [[bicer-genai-pd-math-creativity-2026]] — 生成AI誘導の専門職能開発が教員の数学的創造性、内容知識、教育学的内容知識への関与をどう支援するか
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 文学的創造のための公理基盤型スキャフォールディング：主題とテキストの間の単位としての前提、計画段階でのみ検証（Liu & Zhao 2026）
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 暗黙の人間–AI協働における創発的学習主体性：支援的ペルソナ対逆張りペルソナ
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPTと批判的・創造的思考：システマティックレビュー
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — ロボット–LLM統合と創造的作文
-- [[t2i-competence-paradox-2026]] — 美術・デザイン学生におけるテキストから画像へのAIの能力パラドックス
-- [[mujib-ai-ibl-creative-math-2026]] — AI支援の探究的な学習と創造的な数学的パフォーマンス
-- [[flowcode-ai-creative-coding]] — Flowcode：創造的コンピューティングにおける反復を足場とするAI搭載環境
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet：社会技術的ネットワークにおける潜在的な協働創造性の三項モデル
-- [[genai-creativity-k12-scoping-review-2026]] — 45件のK–12研究のPRISMAスコーピングレビュー：創造性に対する生成AIの4つの用途、均質化、測定のギャップ
-- [[multi-agent-llm-social-learning]] — 2モデル支援が、単一モデルでは平坦化されたアイデアの多様性を回復した（Kumar et al. 2026）
-
-- [[genai-dependence-research-creativity-2026]] — 1,157人の大学院学生における機能的対存在的な生成AI依存と研究創造性
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 一致した創造性、分岐する神経的な関与：fMRIスキャナーの中でChatGPTと話す子ども対大人
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI依存と利用の4つの動機が自己申告された創造性と異なる方向に関連する（Houら 2026）
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source

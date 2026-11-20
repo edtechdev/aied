@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -59,11 +61,7 @@ O efeito do espaçamento — que a mesma prática total produz aprendizagem mais
 
 O [[memdora-ai-spaced-repetition|Memdora]] é o exemplo mais claro de espaçamento tratado como problema de engenharia. Ele ancora o agendamento na curva de esquecimento de Ebbinghaus, cita o número de que aproximadamente **70% do material recém-aprendido é esquecido dentro de 24 horas** sem revisão, e integra o **FSRS-6**, descrito como o algoritmo de repetição espaçada de estado da arte atual. Seu argumento é que o agendamento sozinho não basta: ferramentas existentes reduzem a interação com flashcards a um único gesto binário, "virar e se autoavaliar", o que os autores chamam de modelo empobrecido que deixa de explorar a evidência de ciência cognitiva sobre prática de recuperação. A contribuição do Memdora é, portanto, uma **taxonomia de 17 tipos de interação fundamentados cognitivamente** ao longo das categorias Idioma, De Cor e Prova, cada um mapeado a evidência revisada por pares exibida no cartão, mais um sistema de recompensa baseado em esforço que compensa o engajamento cognitivo real, e não a presença no app, um pipeline unificado de geração que cria cartões no momento da leitura, e uma camada de sala de aula que relata [[learning-gains|resultados de aprendizagem]] no nível do cartão individual.
 
-
 [[bilingual-llm-lecture-companion-srl-2026|O companheiro de palestras bilíngue de Malhotra (2026)]] ataca esse custo de autoria pela outra ponta: ele transcreve palestras em inglês–hindi no navegador e gera flashcards no próprio dispositivo, feito para salas de aula indianas onde os dados do UDISE+ situam o acesso à internet em cerca de 54% das escolas.
-
-
-
 
 [[adaptive-pretesting-retention|Akgun e Toker (2026)]] fornecem a evidência experimental mais forte do corpus sobre como o espaçamento é *estruturado*. Em um estudo randomizado de três braços com 89 graduandos de uma disciplina de estatística aplicada, os três grupos praticaram em sessões espaçadas com número e momento idênticos ao longo de sete semanas; apenas a estrutura de interação diferiu. A recuperação espaçada adaptativa (G1) alcançou a maior nota no pós-teste (M = 78,19) e o maior esforço de prática observado (M = 0,85); a recuperação espaçada fixa (G2) veio em seguida (M = 74,55, esforço 0,74); o estudo com IA dirigido por quem aprende, sem recuperação imposta, ficou por último em ambos (M = 67,28, esforço 0,49). O efeito multivariado foi significativo (Λ de Wilks = ,664, η² parcial = ,185), com G1 à frente de G3 em retenção em d = 0,92 (p = ,003). O detalhe que importa pedagogicamente é que o agente de G1 foi configurado para *reter*: sondas contingentes à resposta para [[misconceptions|concepções errôneas]], pedidos de elaboração após respostas superficiais, avanço apenas com engajamento conceitual adequado, e soluções diretas explicitamente excluídas de suas saídas permitidas. A leitura dos próprios autores é que o pré-teste é um catalisador front-loaded, e não uma intervenção autônoma cujos benefícios sobrevivem ao acesso aberto à IA.
 
@@ -111,36 +109,3 @@ A inclusão do entrelaçamento aqui repousa, portanto, sobre a mesma família te
 **"Prática de recuperação significa quiz, e qualquer quiz conta."** O mecanismo é produzir uma resposta a partir da memória, e não reconhecê-la, e é por isso que uma tarefa de reconhecimento de múltipla escolha é uma versão mais fraca da mesma atividade. Uma IA que gera itens de reconhecimento sem fim gerou atividade com o nome certo e o mecanismo errado.
 
 **"A IA consegue entregar fielmente essas técnicas, já que elas são bem especificadas."** Ela também consegue derrotá-las silenciosamente. O espaçamento exige que o sistema retenha justamente o material que ele é mais capaz de fornecer sob demanda, e a recuperação exige que ele não responda — de modo que a eficácia da técnica depende de restrições que um assistente complacente não tem incentivo para impor.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — Sequências de recuperação espaçada, e o custo de retenção de auxiliar durante a codificação
-- [[desirable-difficulties]] — o princípio que essas três técnicas operacionalizam
-- [[cognitive-psychology]] — memória, codificação e recuperação como a casa teórica das três
-- [[prior-knowledge]] — prática de recuperação como ativação do que quem aprende já retém
-- [[metacognition]] — julgar se a fluência reflete aprendizagem
-- [[self-regulated-learning]] — estudar de forma consistente o que uma IA pode agendar ou responder por você
-- [[mastery-learning]] — retenção após o limiar de domínio, e o espaçamento que a sustenta
-- [[knowledge-tracing]] — os modelos que acertam ou erram as decisões de agendamento
-- [[cognitive-offloading]] — o modo de falha quando a recuperação é delegada a uma ferramenta
-- [[transfer-of-learning]] — a lacuna desempenho–aprendizagem que as técnicas abordam
-- [[formative-assessment]] — pontos de controle de ferramenta fechada como eventos de recuperação
-- [[productive-failure]] — tentar antes de receber ajuda
-- [[learners]] — as apostas de uma aprendizagem durável em vez de fluente
-
-## Artigos conectados
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: recuperação espaçada adaptativa vs. recuperação fixa vs. IA dirigida por quem aprende ao longo de sete semanas
-- [[memdora-ai-spaced-repetition]] — Memdora: agendamento FSRS-6 e uma taxonomia de interações de flashcards fundamentadas
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: a profundidade de explicação prevê a qualidade da tarefa, mas não a recordação imediata
-- [[rachatasumrit-example-problem-ratio-2026]] — Prática de recuperação para fatos, exemplos resolvidos para competências; a interação conteúdo–tratamento
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Modelos de rastreamento de conhecimento deixam de capturar o efeito do espaçamento sob validação baseada no tempo
-- [[bilingual-llm-lecture-companion-srl-2026]] — Geração automática de flashcards removendo o custo de autoria da prática espaçada
-- [[student-cheat-sheets-make-or-take]] — Construir uma cola como estudo generativo; descarregar a construção com IA
-- [[knowloop-confusion-to-consolidation-2026]] — Consolidação por ensinar de volta trazendo à tona lacunas que a clarificação não trouxe
-- [[simulating-learner-task-selection]] — Entrelaçamento e Bloqueio como estratégias modeladas de quem aprende sob restrições de seleção de tarefas
-- [[nie-personavlm-long-term-personalization-2026]] — Memória longitudinal do estudante e sua relação aberta com a repetição espaçada e as curvas de esquecimento
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Prática de recuperação na camada Ferramentas de um framework de aprender a aprender
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentes de pré-busca contornam a prática de recuperação; o argumento pelo atrito intencional
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Quando tutores de IA falam: evidência de um experimento de campo randomizado
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Pré-perguntas geradas pelo ChatGPT melhoram a memória e a compreensão de texto

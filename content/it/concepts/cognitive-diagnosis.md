@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -88,44 +90,3 @@ La diagnosi cognitiva si collega al [[knowledge-tracing]], alla [[student-modeli
 - Strumenta entrambe le direzioni: riconoscere una risposta sbagliata e produrre quella giusta. Il dato del 95,2% di recupero della soluzione suggerisce che la generazione è la metà facile e che la modalità di fallimento sta nel riconoscimento.
 - Preferisci la scoperta a un catalogo statico dove la struttura del dominio lo consente, e riporta la copertura rispetto a un insieme di riferimento così che il confronto sia leggibile.
 - Non distribuire un punteggio diagnostico senza dichiarare quale costrutto misura e come è stato validato indipendentemente dal segnale che lo ha prodotto.
-
-## Concetti collegati
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Articoli collegati
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[llm-student-misconception-identification]] — LLM identification of student misconceptions
-- [[student-math-competence-clustering]] — Clustering for Modeling Student Mathematical Competence
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
-- [[yasir-llm-tutoring-agents-2026]] — Separating diagnosis from feedback in LLM tutors
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving heterogeneous multi-LLM federated diagnosis
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Mining common modeling mistakes at scale with LLM-generated, algorithmically validated bug-fixing transformations (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: DINA-based diagnosis of 14 learning objectives from existing physics concept inventories (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM knowledge-concept annotation and calibrated concept-level knowledge states
-- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractors as a diagnostic item-design task
-- [[misconception-acquisition-dynamics-llms-2026]] — where the error enters the solution is the diagnostic bottleneck
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Rethinking Diagnostic Assessment Through Culturally Embedded AI for Meaningful Learning

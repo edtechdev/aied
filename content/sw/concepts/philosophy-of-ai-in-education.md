@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -89,36 +91,3 @@ Falsafa ya AI katika elimu na [[theory-development-aied|ukuzaji wa nadharia kati
 
 - Taja dhana ya kujifunza ambayo tathmini yako inaidhania, kwa kuwa faida iliyopimwa ni manufaa ya kielimu tu kuhusiana na maelezo fulani ya kile elimu inakusudiwa.
 - Fadhili kazi ya kifalsafa pamoja na kazi ya kijaribio: maswali kuhusu kile kinachohesabiwa kuwa mafanikio ya mwanafunzi huweka vigezo vya mafanikio ambavyo tafiti za kijaribio hutumia.
-
-## Dhana Zilizounganishwa
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya kiumbo, mipaka ya LLM, falsafa ya majaribio
-
-## Makala Zilizounganishwa
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI katika elimu ya juu ya Kichina: uadilifu na ushirikiano
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: mfumo wa falsafa kwa kiakili cha binadamu–AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — Ukosoaji wa uwepo, wa baada-kiakili kwa AI isiyo na mwili katika elimu
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Mfano wa maendeleo-mahususi wa kiakili cha kuelewa katika sayansi za binadamu na jamii
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Wakala wa pamoja wa maarifa kama falsafa ya kujifunza na mashine
-- [[avraamidou-ai-colonization-science-education]] — Falsafa mahususi ya kike inayouliza ukoloni wa AI katika elimu
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Muundo wa sayansi za kujifunza wa mazingira wa GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Falsafa ya majaribio katika kemia na AI
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: mifumo saba ya ushirikiano wa GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIED 'inayomwelekea binadamu' inayosomwa kama mazungumzo ya kibinadamu-msingi yenye matumizi ya kibiashara (Wang na Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — Je, mashine zinaweza kufanya kazi ya kihisia? Mjadala wa 1950–1996, na kwa nini kuiga hakutoshi kujali
-

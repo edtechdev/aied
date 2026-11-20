@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,36 +69,3 @@ IRT ni msingi wa [[educational-measurement]] na [[assessment-validity]], inaweka
 - **"Kipimo cha msingi ambacho mifano mingi hupita ni kipimo kizuri."** Kipimo cha msingi kinacholingana na viwango kinaweza **kujaa**: kwenye seti za sayansi za shule ya kati na sekondari zinazolingana na NGSS, **mifano mingi ya uzito-wazi zilipata zaidi ya 90%**, zikiacha vipimo vya kipengele vya kawaida dhaifu. Kujaa hakumaanishi mifano ni bora; kunamaanisha vipengele havibagui tena.
 - **"Ugumu wa kipengele ni sifa ya ndani ya kipengele."** Uchunguzi wa sababu uliohariri **maswali 50 ya mtihani kwa kila seti ya data** kuelekea au mbali na dhana uligundua **mabadiliko ya kuongeza ugumu yalipunguza usahihi wa wastani kwa pointi 15.27 na 23.88** kwenye GSM8K na BBH-structured. Ugumu ni uhusiano kati ya kipengele na mfano, na hubadilika kipengele kinapobadilika.
 - **"IRT ni ya kukadiria wanafunzi tu."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] hutumia **mfano wa Bayesian wa ngazi mbili wa 2PL wenye vipengele vya nanga vya kabla ya mtihani kuweka wanafunzi 1,686**, ambayo ni uhakikisho wa ubora wa tathmini yenyewe badala ya kukadiria mwanafunzi.
-
-## Dhana Zilizounganishwa
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Makala Zilizounganishwa
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Fremu ya Pamoja ya Majibu kwa Maswali na Mazungumzo ya Ufundishaji
-- [[explaining-question-difficulty-natural-language-2026]] — Kueleza ugumu wa swali la LLM katika lugha ya kawaida kupitia IRT na mabadiliko ya sababu (Cui et al. 2026)
-- [[llm-benchmark-secondary-science-topics-2026]] — Kipimo cha msingi kinacholingana na viwango kinaweza kujaa
-- [[item-writing-flaws-irt-difficulty-2026]] — Athari ya vipungufu vya uandishi wa kipengele kwa ugumu na ubaguzi wa IRT (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Uundaji wa Mifano ya Sababu wa Uingiliaji wa Msaada kwa Tathmini ya Uwezo wa Mwanafunzi
-- [[assessment-latent-structure-human-llm-2026]] — Vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Uthibitishaji wa shamba la IRT la kiwango kikubwa la mitihani iliyotolewa na AI
-- [[jin-glat-genai-literacy-assessment]] — GLAT inatumia uthibitishaji wa IRT/2PL (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — Utabiri wa LLM wa ugumu wa kipengele
-- [[llm-psychometric-calibration-cdp]] — Kulinganisha tathmini ya LLM na urekebishaji wa kipiskometri
-- [[llm-difficulty-calibration-programming-exams-2026]] — Urekebishaji wa ugumu wa LLM katika mitihani ya programu
-- [[multimodal-item-parameter-estimation-2026]] — Ukadiriaji wa vigezo vya kipengele vya multimodal
-- [[huang-interpretable-knowledge-tracing-2026]] — Ufuatiliaji wa maarifa unaoweza kueleweka
-- [[irt-human-genai-mcq-responses]] — Kutumia IRT kutenganisha majibu ya binadamu na ya GenAI ya MCQ
-- [[razavi-powers-item-difficulty-llm-2026]] — Kukadiria ugumu wa kipengele kwa kutumia LLM na ML ya msingi wa mti
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Zaidi ya ID Embeddings: Uundaji wa Lugha Unaotegemea Mchakato kwa Uchanganuzi wa Kiakili
-- [[bayesian-consensus-irt-item-banks-2026]] — Urekebishaji wa makubaliano wa Bayesian wa benki ya IRT inayobadilika bila kukoma (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Ukaguzi wa shamba unaoonyesha kuwa IRT/Rasch mara chache hutumika kama ushahidi msingi wa uthibitishaji katika vyombo vya ujuzi wa AI vya walimu
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: mafunzo ya AI na ya binadamu yanatoa faida za kujifunza za GRE zilizosawazishwa

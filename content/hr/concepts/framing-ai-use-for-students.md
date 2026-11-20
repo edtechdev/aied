@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -97,37 +99,3 @@ Učenike uokviruju i širi mediji i javni diskurs o [[ai-education|umjetnoj inte
 **„Zabrana alata uklanja ponašanje.“** Ona ga premješta u alate koje ne možete vidjeti. Učenici već preferiraju alate kojima pristupaju privatno umjesto institucionalno osiguranih, pa zabrana potiskuje upotrebu iz jedinog okruženja u kojem su podrška, bilježenje ili smjernice mogući. Zadatak uokvirivanja jest učiniti dopušteno ponašanje privlačnim, a ne otežati uočavanje zabranjenog.
 
 **„Uokvirivanje je uvjeravanje, pa je više retorika nego dizajn.“** Uokvirivanje koje ova stranica opisuje ide zajedno s dizajnom: očekivanja izrečena jasno i opetovano *uz oblikovanje nastave oko učenika*. Poruke dostavljene umjesto osmišljene za učenike jesu verzija koja ne uspijeva, jer učenici čitaju razliku između izrečene i stvarne obveze.
-
-## Povezani koncepti
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Povezani članci
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsenzus 30 stručnjaka o slijedu: usvojiti bez generativne umjetne inteligencije, konsolidirati s njom, a zatim misliti sam
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparentno obrazloženje za svaku dopuštenu i nedopuštenu upotrebu generativne umjetne inteligencije, zadatak po zadatak (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Poticanje primjerene upotrebe generativne umjetne inteligencije umjesto osuđivanja kao remetilačkog čimbenika
-- [[student-rationalization-ai-writing]] — „Pet mjesta“ na kojima učenici opravdavaju upotrebu umjetne inteligencije u akademskom pisanju
-- [[student-regulatory-awareness-genai]] — Poznavanje pravila nije dovoljno: svijest o propisima i stvarna upotreba
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Od anksioznosti zbog umjetne inteligencije do strateške regulacije
-- [[chatgpt-inoculation-training-verification-2026]] — Poruke inokulacije i ponašanje pri provjeri
-- [[ai-fallibility-warning-help-seeking]] — Upozorenje o pogrešivosti umjetne inteligencije povećava traženje pomoći
-- [[shame-guilt-ai-regulation-computing-education]] — Sram i krivnja kao društveni regulatori upotrebe umjetne inteligencije
-- [[access-not-enough-ai-tutoring-2026]] — Ljudska podrška poboljšava angažman s podučavanjem uz umjetnu inteligenciju
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Angažman s generativnom umjetnom inteligencijom utemeljen na teoriji samoodređenja
-- [[ai-availability-student-motivation]] — Kako dostupnost umjetne inteligencije oblikuje motivaciju učenika
-- [[youtube-frames-chatgpt-education]] — Kako YouTube uokviruje upotrebu ChatGPT-a u obrazovanju
-- [[ai-ethics-education-public-discourse]] — Javni diskurs o etici umjetne inteligencije u obrazovanju
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Nastavnici uokviruju umjetnu inteligenciju kao kritičku i odgovornu upotrebu, a poslodavci kao produktivnost
-- [[ssaho-ai-academic-integrity-review-2025]] — Izgradnja kulture akademske čestitosti kroz jasna očekivanja

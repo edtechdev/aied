@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -61,30 +63,3 @@ contributors: [editor]
 - **«Модель, яка добре оцінює, вимірює те саме.»** На **тому самому інструменті оцінювання** структури відповідей людини й LLM **розходяться** — модель може добре оцінювати, вимірюючи щось інше, ніж має на увазі інструмент. Збіг балів — це спостереження; еквівалентність конструкту — окреме твердження, яке вимагає доказів на рівні структури.
 - **«Калібрування можна прочитати з однієї цифри точності.»** **Одна цифра точності може приховати модель, яка лише виглядає відкаліброваною**: прохання до GPT-4o і Gemini 2.0 Flash вивести виміри навчального стилю з діалогів **153 студентів бакалаврату** дало **помірну точність, яка поводилася інакше під збалансованими метриками**. Агрегована точність приховувала диференціал, який викрили збалансовані метрики.
 - **«Автоматизовані конвеєри оцінювання не можуть відтворити психометричну процедуру.»** Автори відтворили усталений конвеєр в автоматизованій формі (**67% імовірності правильно відповісти щонайменше на 7 пунктів рубрики для нижнього розрізу та щонайменше на 10 для верхнього**), даючи змогу порівнювати бали завдань ШІ та людини на однакових засадах. Процедура була відтворюваною; питання конструкту залишається.
-
-## Пов’язані поняття
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Пов’язані статті
-
-- [[genai-reliance-scale-problem-solving-2026]] — Валідована шкала опори студентів на генеративний ШІ під час розв’язування проблем (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Помірна точність виявилася передбаченням домінантного класу після перевірки повноти за класами (Zamanifard, Goudarzi & Robb 2026)

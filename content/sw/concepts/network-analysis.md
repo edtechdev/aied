@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -80,28 +82,3 @@ Mbinu za mtandao zinatumika katika msingi wote wa ushahidi wa hifadhi ya maarifa
 - **"Uchanganuzi wa mtandao ni wa haki kwa sababu ni wa kikokotoo."** **Kuweka kodi ni msingi**: aina zote za mtandao hutegemea kuweka kodi kwa data ghafi (matamshi, matukio, uhusiano) katika nodi tofauti kwa njia inayoweza kutumika, na kuweka kodi kiotomatiki kurithi fasili zake kutoka kwa aliyeweka. [[visualization|Taswira]] inaonekana kama muundo unaojitokeza na nodi zake ni chaguo za tafsiri.
 - **"Mabadiliko ya muundo wa mtandao ni faida ya kujifunza yenyewe kiotomatiki."** Katika majadiliano ya kesi na **wanafunzi ishirini wa shahada ya kwanza wa masomo mchanganyiko**, **sehemu ya maneno matatu ya pamoja ilipanda kutoka 5.2% hadi 8.0%** wakati **tokeni za maudhui zilishuka hadi takribani mara 0.65 ya kiwango chao cha baada ya kusoma**. Vipimo viwili vya muundo vilisogea pande tofauti, hivyo "mtandao ulibadilika" si ugunduzi hadi useme kwa kipimo kipi na kwa nini ni muhimu.
 - **"Kushiriki maneno zaidi kunamaanisha ushirikiano bora."** Kupanda kwa sehemu ya maneno ya pamoja pamoja na kushuka kwa utofauti wa tokeni za maudhui kunalingana na kukutana katika msamiati mdogo. Makubaliano na upunguzaji ni sawa kimuundo, ndiyo sababu kipimo kinahitaji maudhui ambayo kilihesabiwa kutoka kwake.
-
-## Dhana Zilizounganishwa
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Makala Zilizounganishwa
-- [[caeai-response-length-ai-ethics-education-2026]] — Urefu wa majibu, si ulinganifu wa msamiati, ndiyo unaoendesha takwimu za maneno ya pamoja katika mitandao ya washiriki–morpheme (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA ya mwingiliano wa mwanafunzi–chatbot katika uandishi wa EFL wenye ngazi za msaada
-- [[tracing-genai-literacy-interaction-patterns]] — ENA ya mifumo ya mwingiliano ya ujuzi wa GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA ya utatuzi wa matatizo wa ushirikiano wa binadamu–AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Kupunguza mzigo wa kiakili na kutoa ilani (SNA/mbinu za mtandao)
-- [[youtube-frames-chatgpt-education]] — ENA ya mifumo ya YouTube ya ChatGPT katika elimu
-- [[agency-gap-ai-writing]] — Pengo la wakala katika uandishi unaosaidiwa na AI (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Vipimo vya Uaminifu Vinakosa Nini: Ukaguzi wa Muundo kwa Data ya Kielimu Iliyotengwa
-- [[dang-human-ai-collaboration-competency-2026]] — ENA pia huchora mazungumzo ya uwezo ya waelimishaji

@@ -14,6 +14,8 @@ ai_assist:
     role: drafting
     date: "2026-11-15"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 > **Synthesis:** Graduate education is the level at which AI stops being a study aid and starts competing with the artifact a degree certifies: the thesis chapter, the diagnostic read, the clinical encounter, the admissions essay. The studies that exist cluster in professional and clinical programs, where tutoring, simulated patients, and decision support produce short-term gains, and in the [[assessment]] literature, where the same tools weaken the evidential value of unsupervised text. Supervision is the least studied and most consequential setting, and its evidence is now measured but correlational, with most guidance still design argument.
@@ -128,34 +130,3 @@ Graduate education inherits the sector-wide problems of integrity, [[assessment-
 Doctoral programs adopt GenAI in two directions at once — as a research instrument and as something candidates must learn to teach with — and a 2026 participatory action research study in Cuba tested whether one sequence can serve both. Thirty-four doctoral candidates who also teach worked through a single integrated model (the Dr. I.D.E.A. model) in which research, AI-supported digital and creative-pedagogical competencies were exercised on the same authentic task. All 34 integrated GenAI into a course, 26 sustained a documented redesign for at least three weeks, and 25 were still using AI-supported practice at follow-up.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez and Estrada Molina, 2026]])
 
 The self-reported competence gains (d = 1.69 to 2.10) should be read as perceived change without a comparison group; the durable contribution is the operating layer — co-constructed use categories, individual AI-use logbooks, and mandatory verification in indexed databases.
-## Connected Concepts
-
-- [[academic-integrity]] — authorship, disclosure, and misconduct when text can be generated
-- [[assessment-validity]] — what a grade, a defense, or a clinical assessment can legitimately claim
-- [[ai-literacy]] — the capability graduate programs are expected to certify in their graduates
-- [[cognitive-offloading]] — delegation that supports thinking versus delegation that replaces it
-- [[evaluative-judgment]] — the capacity supervision is meant to build and now must assess
-- [[professional-training]] — clinical, legal, and management preparation outside the seminar room
-- [[medical-education]] — the largest source of graduate-level AI trials
-- [[business-education]] — MBA and management master's courses that supply the strongest experiments
-- [[career-development-and-readiness]] — employability as a developmental process, not a placement
-- [[oral-assessment]] — defenses, vivas, and oral assurance as evidence of individual capability
-
-## Connected Articles
-
-- [[genai-medical-education-transformation-review-2026]] — 153 reports across entry-to-practice medical degrees; 13 with follow-up and no patient-level outcome
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Socratic documentation in graduate research methods; 96% checkpoint completion over six semesters
-- [[issa-teamwork-framework-academic-integrity-2024]] — supervised teamwork in a postgraduate business unit; marks rose from 27 to 31 of 40, misconduct counts absent
-- [[genai-dependence-research-creativity-2026]] — 1,157 graduate students; functional dependence associated with creativity far more than existential dependence
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 US health AI programs; ethics taught in 80.6%, data provenance in 22.2%
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — structured AI tutoring gained 6.63 of 55 points in an online MBA; voice and text were equivalent
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 MBA students; participation rose about 31% only after a second assigned rehearsal
-- [[llm-grading-assistants-public-health-2026]] — master's essay exams graded at weighted kappa 0.718, with 0.625 agreement on a five-day repeat
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 higher-education studies mapping agency-supportive and agency-eroding patterns
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 studies; educators and students agree on over-reliance and divide on integrity
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 studies, three with educational evidence, none in a forensic classroom
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 master's students; readiness reached research self-efficacy through supervisor support (path β = 0.201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61-source review of doctoral supervision; task-based ethics, proportional disclosure, milestone governance
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Single-group seminar; self-directed learning rose 80.62 to 87.38 with eight matched records
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Graduate students led undergraduates on ethics and autonomy (d = 1.47); use frequency did not predict competence
-- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

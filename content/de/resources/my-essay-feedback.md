@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -47,12 +48,3 @@ Lehrkräfte für Schreiben im ersten Studienjahr und Englisch-Fachbereiche, die 
 ## Anmerkungen und Vorbehalte
 
 Die Seite berichtet über 12.000+ Studierende, 700+ Kurse und 41.000+ begutachtete Essays — vom Anbieter gemeldete Zahlen, kein unabhängiges Audit. FERPA-Konformität, GDPR-Bereitschaft und Barrierefreiheit sind ebenfalls eigene Angaben des Anbieters; Essays laufen über Azure OpenAI, und die Seite erklärt, sie würden nicht zum Training von Modellen verwendet, was ein Bezirk im Auftragsverarbeitungsvertrag bestätigen sollte, statt es von der Marketingseite zu übernehmen. Die Preisgestaltung ist Freemium und verschiebt sich je nach Zielgruppe: ein kostenloses erstes Semester für neue Lehrkräfte (auf Anfrage, begrenzt auf drei pro Schule), danach etwa \$12–15 pro Studierendem und Semester, und eine bezahlte Stufe pro Begutachtung für einzelne Studierende mit der ersten Begutachtung kostenlos. Die Vergleichstabelle gegen ChatGPT Plus, Packback und Grammarly ist die des Anbieters. Eine Partnerschaft mit UC Davis im Projekt PAIRR ist eine Forschungskooperation, kein veröffentlichter Beleg dafür, dass die Plattform das Schreiben verbessert.
-
-## Verbundene Konzepte
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

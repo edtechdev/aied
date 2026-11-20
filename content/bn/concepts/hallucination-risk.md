@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -41,7 +43,6 @@ ai_assist:
 একটি 125-গবেষণার পর্যালোচনা প্রচলন ও শনাক্তকরণ-ব্যবধানে একটি পরিসর দেয়: হ্যালুসিনেশনের হার 10-40%, যেখানে চিকিৎসা-শিক্ষার্থীরা কেবল 44-55% সময়ে এআই-ত্রুটি ধরে ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
 **আউটপুটের পরে স্মৃতি-বিকৃতি।** একটি 2026 সালের পরীক্ষায় দেখা যায়, একটি বিভ্রান্তিকর এআই সারাংশ কেবল ভুল তথ্য দেয়নি: এটি 328 জন প্রাপ্তবয়স্কের দেখা একটি ভিডিও সম্পর্কে স্মৃতি বদলে দিয়েছে। বিভ্রান্তিকর সারাংশ পড়া 44.8% পরেই সেই সংকটপূর্ণ বিবরণ সঠিকভাবে চিহ্নিত করেছেন, যেখানে সামঞ্জস্যপূর্ণ সারাংশ পড়া 83.6% পেরেছেন, এবং সারাংশটি মানুষ-লিখিত হিসেবে লেবেল করা হলেও প্রভাবটি টিকে ছিল ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ও Kohno, 2026]])। সহযোগী নিরীক্ষায় বাদ পড়াই ছিল সবচেয়ে সাধারণ ত্রুটি: 20টি সারাংশেই ভুল ছিল, এবং 95% সংঘর্ষটাই বাদ দিয়েছিল। গবেষণাটি শিক্ষার্থীদের পরীক্ষা করেনি, কিন্তু দেখায় কেন কেবল পাঠ্য পর্যন্ত গিয়ে থামা হ্যালুসিনেশন-যাচাই অসম্পূর্ণ: পাঠ্য চলে যাওয়ার পরেও ত্রুটি পাঠকের স্মৃতিতে টিকে থাকতে পারে।
-
 
 **মূল্যায়ন-হ্যালুসিনেশন** বিশেষভাবে ক্ষতিকর। **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** দেখে LLM জ্ঞানীয় দক্ষতা নির্ণয়ের সময় শিক্ষার্থীর হাতের লেখায় উপস্থিত নয় এমন প্রমাণ-উদ্ধৃতি বানায়, 58.5% ভুল রোগনির্ণয়ের সঙ্গে প্রমাণগত আত্মবিশ্বাসের মিথ্যা দাবি থাকল। **[[llm-fallacy-misattribution]]** [[llm]] যুক্তিতে প্রমাণের পদ্ধতিগত অতিরিক্ত-আরোপণ নথিভুক্ত করে — মডেলরা প্রমাণ-সমর্থন দাবি করে যেখানে তা নেই। দুটোই [[ai-ed-evaluation]] ও [[knowledge-tracing]]-এর সঙ্গে [[assessment-validity]] নিয়ে উদ্বেগে যুক্ত। [[ivory-psychology-assessment-integrity-2026|Ivory প্রমুখ (2026)]] আরও দুটি ব্যর্থতার ধরন যোগ করেন যা এআই-আউটপুট পরিদর্শন না করে নম্বর দিলে দেখা যায়: বানানো সূক্ষ্ম তথ্য যা গ্রেডিং পার হয় — একটি পর্যালোচিত প্রবন্ধ যা অস্তিত্বহীন, অমীমাংসিত DOI সহ, আর একটি নমুনা-আকার 378 হিসেবে প্রতিবেদিত যেখানে উৎসে ছিল 329 — এবং একক প্রতিক্রিয়ার ভেতরে আত্মবিরোধ, যেখানে মডেল সঠিক বিকল্পে যুক্তি করে পৌঁছে শেষ সারসংক্ষেপে অন্য একটি জানায়। যেহেতু তথ্যসূত্র-তালিকা বর্তমানে নির্ভুলতার বদলে বিন্যাসের জন্য গ্রেড করা হয়, এই শ্রেণির ত্রুটি পাসিং গ্রেডে পৌঁছায় অথচ যে শিক্ষার্থী একই সরঞ্জাম দিয়ে সংশোধন করে তাকে বিভ্রান্ত করে।
 
@@ -67,39 +68,3 @@ ai_assist:
 - **"ত্রুটি দেখা দিলেই স্পষ্ট।"** হাতে লেখা গণিতের রোগনির্ণয় করা একটি এআই **প্রমাণ-উদ্ধৃতি বানাতে পারে যা ছিলই না, অথচ আত্মবিশ্বাসের দাবি করে**। ব্যর্থতা বিশ্বাসযোগ্য-কিন্তু-ভুল উত্তর ছিল না; ছিল নিশ্চয়তার সঙ্গে উপস্থাপিত বানানো সমর্থন, যা ধরাই সবচেয়ে কঠিন কারণ তা ঠিক সেই প্রমাণের মতো পড়া যায় যা একজন সতর্ক পাঠক চাইতেন।
 - **"সাইটেশনহীন আউটপুট একটি বিন্যাস-সমস্যা।"** একটি স্নাতকোত্তর কোর্সে বাণিজ্যিক পাঠ্যবই এআই-উৎপন্ন পাঠ দিয়ে প্রতিস্থাপিত হলে **4,487 লগ-করা পাতার মাত্র প্রায় 0.80%-এ APA-ধাঁচের অন্তর্নিহিত সাইটেশন ছিল**। এটি মাঝেমধ্যে বাদ পড়া নয়, কর্পাস-স্তরের উৎস-শূন্যতা, আর তা মানে যাচাইয়ের কোনো সূচনাবিন্দু নেই।
 - **"হ্যালুসিনেশন একটি মডেল-উৎপাদন সমস্যা যা নতুন মডেল সমাধান করে।"** হার-পরিসর 125 গবেষণা জুড়ে 10-40%, যা মডেলের মতোই কাজ ও স্থাপনারও বৈশিষ্ট্য। হার কমানো প্রকৃত অগ্রগতি এবং তা বদলায় না যে পাঠককে যাচাই করতে পারতেই হবে।
-
-## সংযুক্ত ধারণা
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[sim-ai-summary-memory-distortion-2026]] — একটি বিভ্রান্তিকর এআই সারাংশ প্রাপ্তবয়স্কদের ভিডিও-স্মৃতি বিকৃত করেছে, আর এআই বা মানুষ লেবেল কাউকেই রক্ষা করেনি
-
-- [[frontiers-gai-hallucination-dependence-2026]] — একটি GAI সংলাপ বানানো হিসেবে লেবেল করা আস্থা ও নির্ভরতা একসঙ্গে কমিয়েছে
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — বিশ্বাসযোগ্যতা-সংকেত এআই-আউটপুটে বশ্যতা বাড়িয়েছে, কিছু উদ্ধৃত কেস ভুলভাবে আরোপিত বা কাল্পনিক
-- [[ivory-psychology-assessment-integrity-2026]] — পাসযোগ্য শিক্ষার্থী-কাজের ভেতরে বানানো তথ্যসূত্র ও আত্মবিরোধী আউটপুট (Ivory প্রমুখ 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: ধারণাগত স্তরে ভুল অথচ সাবলীলভাবে বিশ্বাসযোগ্য ব্যাখ্যা (Miličević প্রমুখ 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — লুকানো প্রম্পট ইনজেকশন শনাক্ত না হয়েই এআই-গ্রেড নম্বর বাড়ায়, আর শনাক্ত আক্রমণ প্রতিবেদিত হয় না (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education

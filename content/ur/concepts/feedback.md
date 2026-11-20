@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback-literacy, formative-assessment, summative-assessment, peer-assessment, self-assessment, automated-assessment, assessment, authentic-assessment, assessment-validity, self-regulated-learning, ai-literacy, scaffolding, writing-education, reflection]
+connected_articles: [morris-same-feedback-different-source-2026, meyer-teacher-ai-feedback-writing-2026, liu-ai-feedback-motivational-pathways-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, guberman-control-or-support-grading-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, jansen-argumentative-writing-feedback-receptivity-2026, ai-agents-joyful-assessment-third-space-2026, student-perspectives-ai-writing-grading-2026, usher-faraon-who-grades-best-2026, layer-sensitive-cognitive-offloading-writing-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, farrokhnia-genai-feedback-student-revisions-2026, yilmaz-genai-feedback-srl-online-higher-ed-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, luo-eaton-ai-student-feedback-ethics-2026, metacognitive-training-optimal-cognitive-offloading-2026, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, mendoza-ai-feedback-feedback-literacy-srl, rethinking-ai-writing-feedback-literacy, jin-genai-learning-analytics-feedback-literacy, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, ai-generated-feedback-higher-ed, care-full-feedback-genai, ai-feedback-ecosystem-higher-education-2026, learner-centered-feedback-ai, genai-feedback-design-multisite-experiment, ai-feedback-critical-thinking-writing-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, zhao-learnlens-feedback-educators-loop, sequenced-ai-feedback-learning, becerra-aicofe-feedback-2026, automated-formative-assessments-a-level-sciences, fenton-oral-exams-ai-authentic-assessment-2025, marked-pedagogies-linguistic-bias-writing-feedback, shap-llm-rationales-teaching-quality-assessment, llm-adaptive-programming-error-explanations-2026, student-perceptions-ai-study-productivity-2026, yasar-llms-iterative-pedagogical-design-2026, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, tripartite-feedback-framework-ai-assessment-2026, structured-reflection-ai-explanatory-feedback-2026, bounded-reliance-ai-writing-feedback-2026, pivot-generative-video-tutors-stem-2026, llm-feedback-focus-adaptivity-student-writing-2026, nlp-student-evaluation-teaching-scoping-review-2026, nazaretsky-feedback-source-bias-2025, ai-powered-writing-feedback-awe-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, xu-automated-feedback-tutor-training-2025, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, porcaro-ai-grading-benchmark-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, xian-process-visualization-feedback-news-translation-2026, zhang-genai-l2-learning-meta-analysis-2026, wang-human-ai-vs-teacher-collaboration-instructional-design-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -138,7 +140,6 @@ AI فیڈبیک کو تین اہم سمتوں میں بدلتا ہے، اور ہ
 
 - **"لہجہ فیڈبیک کے معیار کی ایک تفصیل ہے۔"** بینچ مارک میں اُس نے وہی عدد نقل کیا جو اُسے دیا گیا: ہر ماڈل، جسے ایسا درجہ بتایا گیا جو کام سے متصادم تھا، ایسی فیڈبیک لکھتا رہا جس کا لہجہ اُس درجے کے مطابق تھا، اور **22 میں سے آٹھ** کے لیے فی پوائنٹ تبدیلی کام کے معیار کے ساتھ تبدیلی کے برابر یا اُس سے زیادہ تھی۔ صرف لہجے کا قاعدہ تربیت یافتہ تشریح کاروں کے خلاف جانچا گیا، **1,655** ٹیوٹر جوابات پر، لہٰذا مادہ غیر پیمودہ ہے۔ [[porcaro-ai-grading-benchmark-2026|وہ درجہ بندی کرنے والا جو غلط درجے سے فیڈبیک لکھتا ہے، غلطی کو تعریف یا تنقید میں دھو کر پیش کر دیتا ہے]]۔
 
-
 **فیڈبیک مصنوع کے بجائے عمل سے بنائی جا سکتی ہے۔** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] میں ایک گروہ کو اپنی کی اسٹروک اور اسکرین سرگرمی کی ذاتی نوعیت کی [[visualization|بصری نمائش]] ساختہ غور و فکر کے ساتھ ملی، جبکہ دوسرے کو درستگی، وضاحت اور ادارتی معیار پر استاد کی تحریری تبصرے ملے۔ عمل والے گروہ نے اندھے 0-100 اداری درجہ بندی پر 5.64 پوائنٹ حاصل کیے بمقابلہ مصنوع والے گروہ کے 1.91، Group by Time تعامل کے ساتھ (F(1, 20) = 4.94، p = 0.038، partial eta squared 0.198) اور کنٹرول گروہ کا اپنا فائدہ غیر نمایاں رہا (p = 0.123)۔ فی گروہ گیارہ طلبہ کا مطلب یہ ہے کہ سمت ہی نتیجہ ہے، حجم نہیں۔
 
 ## عام غلط فہمیاں
@@ -146,81 +147,3 @@ AI فیڈبیک کو تین اہم سمتوں میں بدلتا ہے، اور ہ
 - **"طلبہ AI فیڈبیک اور انسانی فیڈبیک میں فرق نہیں کر سکتے۔"** وہ کر سکتے ہیں، اور لیبل فیصلہ بدل دیتا ہے: **لیبل کھلنے کے بعد AI والے نسخے کی درجہ بندی گری اور انسانی نسخے کی بڑھی — Genuineness کے معاملے میں نمایاں طور پر (p < .01)**۔ فراہم کنندہ کی ساکھ نے یکساں اسلوب والی فیڈبیک کے جائزے کو تشکیل دیا۔
 - **"لیب کی منظوری سمسٹر کے استعمال کی پیش گوئی کرتی ہے۔"** **لیب کی منظوری سمسٹر کا استعمال نہیں**: **تمام 18 طلبہ** نے لیب سیشنز میں GenAI وضاحتی فیچر پر مثبت ردِعمل ظاہر کیا، **تاہم سمسٹر کے دوران صرف نصف نے استعمال کیا**۔ ارادے اور استعمال کا فاصلہ ہی ڈیزائن کا مسئلہ ہے۔
 - **"فوری اصلاحی فیڈبیک LLMs سے حل ہو گئی ہے۔"** ٹیوٹر کے اندر اِسے پیدا کرنا **ممکن مگر ناقص** ہے: Apprentice Tutor مجموعے میں **6,926 درج لین دین** میں، فیڈبیک تعینات کرنے کے قابل تھی اور درستگی مان لینے کے قابل نہیں۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — آزمودہ فیڈبیک ترتیبیں، بشمول یہ کہ اعلیٰ معیار کی AI فیڈبیک نے زیادہ نظرثانی کیوں پیدا نہ کی
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — ایجنٹ فیڈبیک جو نظرثانیوں میں خود کو دہراتی رہی (Humburg et al. 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — استدلالی تحریر پر خودکار فیڈبیک: ثانوی طلبہ کی فیڈبیک قبولیت اور فیڈبیک ادراک کا کردار
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹس، خوشگوار جانچ، اور تیسری جگہ
-- [[student-perspectives-ai-writing-grading-2026]] — شفاف AI معاون تحریری جانچ پر طلبہ کے نقطۂ نظر (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — پراجیکٹ معیار کی مختلف سطحوں پر ChatGPT، ہم مرتبہ اور مدرس کی درجہ بندی کا موازنہ (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI معاون تحریر میں تہہ کے لحاظ سے حساس علمی منتقلی (Chen 2026)
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — استاد بمقابلہ GenAI فیڈبیک: طلبہ AI کے ساتھ کم نظرثانی کرتے ہیں
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI فیڈبیک اور خود ضابطہ سیکھنا: ادراک شدہ ماخذ اہم ہے
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — مشترکہ استدلال میں GenAI معاون ہم مرتبہ فیڈبیک
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — طالب علم فیڈبیک میں AI کی اخلاقیات
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — میٹا کوگنیٹو تربیت بہترین علمی منتقلی میں سہولت دیتی ہے (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI فیڈبیک خواندگی کا پیمانہ اور اپٹیک کی پیش گوئی (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI بطور طالب علم فیڈبیک شمولیت کا مُمکِّن (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — فیڈبیک خواندگی AI فیڈبیک → SRL کو معتدل کرتی ہے (Mendoza et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — AI معاون تحریر کے لیے فیڈبیک خواندگی اسکرپٹس (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — فیڈبیک میں GenAI لرننگ اینالیٹکس (Jin et al. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — فیڈبیک خواندگی کے لیے AI خودکار فیڈبیک ٹول (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — فیڈبیک خواندگی کے لیے EFL ہم مرتبہ فیڈبیک میں GenAI (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — اعلیٰ تعلیم میں AI سے پیدا شدہ فیڈبیک
-- [[care-full-feedback-genai]] — GenAI کے ساتھ نگہداشت بھرا فیڈبیک ڈیزائن
-- [[ai-feedback-ecosystem-higher-education-2026]] — اعلیٰ تعلیم میں فیڈبیک ماحولی نظام: AI فیڈبیک رشتوں کو نئے سرے سے تراشتا ہے، اور انسان بطور لوپ (Bearman et al. 2026)
-- [[learner-centered-feedback-ai]] — طالب علم مرکز AI فیڈبیک طریقے
-- [[genai-feedback-design-multisite-experiment]] — کثیر مقامات والا GenAI فیڈبیک ڈیزائن
-- [[ai-feedback-critical-thinking-writing-2026]] — تحریر میں AI فیڈبیک اور تنقیدی سوچ
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI جانچ نفسیاتی، فیڈبیک اور AI خواندگیاں بناتی ہے
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: تعلیم کار کی نگرانی کے ساتھ نصاب سے جڑی فیڈبیک (Zhao et al. 2025)
-- [[sequenced-ai-feedback-learning]] — ترتیب وار AI فیڈبیک مطالعے
-- [[becerra-aicofe-feedback-2026]] — AI ہم مرتبہ فیڈبیک نظام
-- [[automated-formative-assessments-a-level-sciences]] — A-level سائنسز میں خودکار تشکیلی جانچ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحانات کو مستند، AI کے خلاف مزاحمت کرنے والی جانچ کے طور پر دوبارہ سوچنا
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: خودکار تحریری فیڈبیک میں تعصب
-- [[shap-llm-rationales-teaching-quality-assessment]] — روبرک پر مبنی تدریسی فیڈبیک کے لیے SHAP بمقابلہ LLM دلیلیں
-- [[llm-adaptive-programming-error-explanations-2026]] — پروگرامنگ غلطیوں کی LLM انطباقی وضاحتیں
-- [[student-perceptions-ai-study-productivity-2026]] — مطالعے کی پیداواریت اور سیکھنے کے لیے مصنوعی ذہانت کے ٹولز کے بارے میں طلبہ کے ادراک: ایک تلاشی سروے مطالعہ
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs بطور تکراری تدریسی ڈیزائن کے ایجنٹ
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — سہ حصوں والا فریم ورک: فیڈبیک کو علمی حیثیت کے مطابق چھانٹنا اور AI کی شمولیت کے پانچ سرحدی اصول (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — فائدہ یا رکاوٹ؟ AI وضاحتی فیڈبیک پر ساختہ غور و فکر (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — محدود انحصار: AI سے پیدا شدہ تحریری فیڈبیک کے ساتھ EFL طلبہ کی شمولیت پر ماخذ ساکھ کا نقطۂ نظر
-- [[pivot-generative-video-tutors-stem-2026]] — مواد کی تخلیق سے سیکھنے کی معاونت تک: STEM سیکھنے کے لیے تدریس کی رہنمائی والے تخلیقی ویڈیو ٹیوٹرز
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — طالب علم تحریر پر LLM سے پیدا شدہ فیڈبیک میں فیڈبیک کی توجہ اور تدریسی انطباقیت کا جائزہ
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — جذبات کی درجہ بندی سے قابلِ عمل اور ذمہ دار فیڈبیک تک: تدریس کے طلبہ جائزے میں NLP کا اسکوپنگ جائزہ اور ثبوت کا نقشہ، 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — فیڈبیک کون دیتا ہے، یہ اہم ہے: متن موازنہ کے قابل رکھنے پر ماخذ کے لیبل درجہ بندی بدل دیتے ہیں (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — تحریر کے لیے AI سے چلنے والا فیڈبیک نظام: خودکار تحریری جانچ (AWE) ٹولز کا جائزہ
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — نظرثانی لکھاری کے رویے کے ساتھ کیا کرتی ہے: ہم مرتبہ فیڈبیک استدلالی مضامین کو زیادہ سکڑنے والا بناتی ہے، AI نظرثانی Contract/Expand توازن برقرار رکھتی ہے (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — کم وسیلے والے حالات میں ٹیوٹر تربیت کے لیے خودکار فیڈبیک نظاموں کو ڈیٹا کے اضافے سے بہتر بنانا (Xu et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — ثبوت سے جڑے مکالمے کے ساتھ تدریسی غلط فہمیوں کی مکالماتی AI تشخیص (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — استعمال پذیری، ماخذ اور پائیداری کے درمیان تجارت کا نام دیتا ہے، اور پائیداری کو ڈیزائن کا قطب بناتا ہے
-- [[porcaro-ai-grading-benchmark-2026]] — اتفاق سے آگے: 22 پرامپٹ شدہ درجہ بندی کرنے والے ایسے پروبس سے ملتے ہیں جن کا درست جواب معلوم ہے، اور بیشتر کو بہلا کر اوپر کیا جا سکتا ہے (Porcaro 2026)
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI اور مدرس کی فیڈبیک نظرثانی کے معیار پر برابر، محرک پر نابرابر (Liu & Shi 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - کی اسٹروک اور اسکرین نشانات سے پیدا شدہ فیڈبیک نے تحریری مصنوعی تبصروں کو پیچھے چھوڑا، فی گروہ 11

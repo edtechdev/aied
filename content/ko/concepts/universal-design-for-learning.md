@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -93,34 +95,3 @@ UDL은 "학습자를 고치는 것"을 "설계를 고치는 것"으로 바꿉니
 **"UDL은 평균적인 학생을 위해 더 세심하게 설계하는 것입니다."** 핵심 주장은 반대입니다. 학습자 변이는 예외가 아니라 규범이므로, 설계는 어려움을 겪는 이들을 위해 하나의 길을 고치는 대신 처음부터 여러 경로를 제공합니다. 사후 개조는 UDL이 대체하려는 것이며, 잘 조율된 하나의 경로도 여전히 하나의 경로입니다.
 
 **"AI는 대체 형식을 생성할 수 있으니 UDL을 자동으로 만듭니다."** AI는 표상 원칙을 값싸게 만들 뿐 참여와 표현은 건드리지 않습니다. 텍스트를 오디오로 바꾸는 것은 세 수단 가운데 하나를 다루는 일입니다. 이제 강좌는 완전히 다중 형식이면서도 모든 학생에게 같은 단일 방식으로 학습을 입증하도록 요구할 수 있습니다.
-
-## 연결된 개념
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — AI 교육에서의 교수법과 교수 전략을 아우르는 우산
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## 연결된 문서
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — 학습 장애가 있는 학생을 위한 GenAI 인지 외주화
-- [[authentic-products-authenticated-processes-2026]] — 진정한 산출물에서 인증된 과정으로
-- [[tactile-statistical-graphs-accessibility]] — 접근성을 위한 촉각 통계 그래프
-- [[neurodivergent-computing-students]] — 신경다양성 컴퓨팅 전공 학생들
-- [[ai-learning-tools-engineering-education-needs]] — 욕구 및 주의 인식 AI 학습 도구 설계
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양성 학생을 위한 디지털 보조 기술의 범위 검토
-- [[faculty-accessible-course-design-ai-2026]] — "AI is reducing options I had used": ChatGPT 세상에서 접근 가능한 강의 설계에 대한 교수 인식 탐구
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — 쿠웨이트 고등교육 기관에서의 인공지능과 보편적 학습 설계: 포용 교육을 위한 AI 기반 체계를 향하여
-- [[mcdonald-inclusive-assessment-genai-2026]] — GenAI 시대의 포용적 평가 설계: 교수법과 실천의 진전

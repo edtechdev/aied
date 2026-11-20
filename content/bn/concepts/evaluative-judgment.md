@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -72,8 +74,6 @@ ai_assist:
 
 - **একটি ফিডব্যাক-সরঞ্জাম শিক্ষকের সম্পর্কগত ভূমিকা রেখেই বিচারবোধে স্ক্যাফোল্ড দিতে পারে।** 21 জন উচ্চশিক্ষা-শিক্ষক PolyFeed ব্যবহার করে দেখেন, মডেলটি বাদ-পড়া উপাদান সামনে এনেছে (21 জনের মধ্যে 20 জন "শিক্ষণ-উদ্দেশ্য পূরণ" বাদ দিয়েছিলেন) এবং 12 জন ChatGPT-এর লেখা নতুন করে লিখেছেন, যা শিক্ষার্থী–শিক্ষক সম্পর্কের মাত্রায় ঘনীভূত ([[learner-centered-feedback-ai|Aldino প্রমুখ (2026)]])।
 
-
-
 - **ফিডব্যাকের উৎস গড়ে তোলে বিচারবোধের কোন মাত্রা।** একটি ডক্টরাল পরিসংখ্যান-কেস স্টাডিতে ChatGPT-4o পদ্ধতিগত নির্দেশনা দিয়েছে কিন্তু ভুল ডেটা-ফাইল বা ভুল প্রয়োগকৃত পরীক্ষা চিহ্নিত করতে পারেনি, অথচ সমকক্ষ-সংলাপ ভুল ডেটা রিয়েল টাইমে ধরেছে এবং পদ্ধতি-নির্বাচনের ন্যায্যতা দিতে বাধ্য করেছে ([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie প্রমুখ (2025)]])।
 - **সুগঠিত সমকক্ষ-ও-এআই পর্যালোচনা ক্রমাঙ্কনকে বড় পরিসরে নেয়।** PAIRR মডেল [[pairr-ai-peer-review-2025|(Sperber প্রমুখ, 2025)]] সমকক্ষ-পর্যালোচনাকে এআই-পর্যালোচনা ও সুগঠিত প্রতিফলনের সঙ্গে মেলায়, এবং এআই-ফিডব্যাক ব্যবহার নিয়ে আজ পর্যন্ত বৃহত্তম গবেষণায় পরীক্ষিত হয়েছে (654 শিক্ষার্থী, দশটি লেখালেখি কোর্স)। এটি নিজের বিচার, সমকক্ষদের বিচার ও এআই-এর বিচারের মধ্যে *তুলনাকে* প্রশিক্ষণের মাঠ হিসেবে নেয়, মূল্যায়নমূলক বিচারবোধকে অন্তর্নিহিত উপজাত নয়, স্পষ্ট শিখন-ফলাফল হিসেবে স্থাপন করে।
 - **এআই ফিডব্যাক সাহায্য করে কেবল যখন সাক্ষরতা আগেই আছে।** ফিডব্যাক-সাক্ষরতার নেতাদের একটি ধারণাগত কাঠামো [[zhan-boud-dawson-genai-feedback-engagement|(Boud, Dawson ও Yan)]] আহরণ, প্রক্রিয়াকরণ ও কার্যকর করার জুড়ে ফিডব্যাক বিশ্লেষণ করে, দুটি বিপরীত IELTS-সঙ্গে-ChatGPT কেস ব্যবহার করে: কম [[feedback-literacy|ফিডব্যাক-সাক্ষরতার]] একজন শিক্ষার্থী অস্পষ্ট প্রম্পট দিয়েছে, সাধারণ আউটপুট পেয়েছে, এবং তা বিশ্বাস বা অতিরিক্ত নকল করেছে, অথচ সাক্ষর শিক্ষার্থী এআই সমালোচনামূলকভাবে ব্যবহার করে শিখেছে। জেনএআই ফিডব্যাক চাওয়ার জ্ঞানীয় ও আবেগগত বাধা কমায়, কিন্তু নিজেই ভ্রমপ্রবণ, পক্ষপাতদুষ্ট বা সাধারণ হতে পারে — যে কারণে [[teacher-role|শিক্ষকদের]] যুক্তি দেওয়া হয় মূল্যায়নমূলক পরিকল্পনা মডেল করা ও বিচারবোধ প্রশিক্ষণ দিতে, কেবল [[prompt-engineering|প্রম্পটিং]] নয়।
@@ -113,54 +113,3 @@ ai_assist:
 - **"মূল্যায়নকারীর ভুল এলোমেলো শব্দ।"** **মূল্যায়নকারীর বিচারবোধের নিজস্ব পরিমাপযোগ্য অভিমুখ আছে**: পাঁচজন ভর্তি-কর্মকর্তা **50টি মানব ও 50টি এআই ভর্তি-প্রবন্ধ** আলাদা করে **AUC 0.70**-এ পৌঁছেছেন, অর্থাৎ তারা উৎস মাত্র দুর্বলভাবে আলাদা করতে পেরেছেন — এবং যেহেতু কেউ জমাগুলো স্ক্রিন করেনি, সেই **সহায়তাহীন বিচারবোধই ছিল সম্পূর্ণ প্রয়োগ-ব্যবস্থা**, প্রতিটি চিহ্নিত প্রবন্ধে **1.5 শতাংশ-পয়েন্ট কম** ভর্তির সম্ভাবনা নিয়ে। একটি দুর্বল সংকেত প্রকৃত শাস্তিতে পরিণত হয়েছে।
 - **"সমকক্ষ ও এআই পর্যালোচনা পরস্পরের বিকল্প।"** PAIRR মডেল [[pairr-ai-peer-review-2025|(Sperber প্রমুখ, 2025)]] ক্রমাঙ্কন গঠনে **সমকক্ষ-পর্যালোচনাকে এআই-পর্যালোচনার সঙ্গে মেলায়**। দুটো একসঙ্গে করাই নকশা, যা ইঙ্গিত দেয় কোনোটিই একা তা জোগায় না।
 - **"বিচারবোধের গুণমান বিচারকের বৈশিষ্ট্য।"** ভর্তি-সংক্রান্ত ফলাফল সমস্যাটিকে ব্যক্তিদের সামর্থ্যে নয়, বিন্যাসে স্থাপন করে — একটি অবৈধায়িত বিচারবোধ ফলাফলসহ প্রয়োগ করা হয়েছে, কোনো স্ক্রিনিং-পর্যায় ছাড়া।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এই ক্রমগুলোর ভেতরে শিক্ষার্থীরা এআই-আউটপুটে যে মূল্যায়ন-ধাপ সম্পাদন করে
-- [[ai-education]] — শিক্ষায় এআই (ছাতা)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-- [[elkington-human-centred-assessment-value-2026]] — মানবকেন্দ্রিক মূল্যায়ন, সমাবেশ ও উৎপাদনমূলক সীমাবদ্ধতা (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — কেন লেখালেখি-অধ্যাপকেরা মার্কিং আউটসোর্স করতে অস্বীকার করেন: এভাবেই তারা তাদের শিক্ষার্থীদের চেনেন
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — মূল্যায়নমূলক বিচারবোধের বিভিন্ন মাত্রার প্রশিক্ষণ-মাঠ হিসেবে ChatGPT বনাম সমকক্ষ-ফিডব্যাক
-- [[ai-internal-feedback-evaluative-judgments]] — এআই-সমর্থিত অন্তর্নিহিত ফিডব্যাক কীভাবে মূল্যায়নমূলক বিচারবোধ গড়ে তোলে, এবং কোথায় যুক্তি সরু থাকে
-- [[genai-feedback-design-multisite-experiment]] — সংকর স্ব/সমকক্ষ/এআই ফিডব্যাক সরাসরি এআই-ফিডব্যাকের চেয়ে এজেন্সি ও বিচারবোধ ভালো রক্ষা করে
-- [[pairr-ai-peer-review-2025]] — বড় পরিসরে ক্রমাঙ্কন হিসেবে সুগঠিত প্রতিফলনসহ সমকক্ষ-ও-এআই পর্যালোচনা
-- [[zhan-boud-dawson-genai-feedback-engagement]] — ফিডব্যাক-সাক্ষরতা কীভাবে ঠিক করে এআই-ফিডব্যাক শেখাবে না প্রতিস্থাপন করবে
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — এআই-ফিডব্যাকে টেকসইতার ফাঁক
-- [[teichmann-detecting-undetectable-misconduct-2026]] — শনাক্তকরণ-নেতৃত্বাধীন প্রয়োগের বিকল্প নকশা-সূত্রগুলোর একটি হিসেবে মূল্যায়নমূলক বিচারবোধ
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — দৃশ্যমান যুক্তি ও বিচারবোধকে রুব্রিক যা পুরস্কৃত করে তা বানানো
-- [[learner-centered-feedback-ai]] — এআই-ফিডব্যাক সরঞ্জামসহ শিক্ষকের মূল্যায়নমূলক বিচারবোধ
-- [[beyond-detection-authentic-assessment-ai-2025]] — শনাক্তকরণের বাইরে: পাহারা দেওয়ার বদলে পুনর্নকশাকৃত প্রামাণ্যতা
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — জেনারেটিভ এআই-এর যুগে মূল্যায়ন-বৈধতার পুনঃধারণা
-- [[du-yuan-epistemic-dependence-2026]] — প্রতিদ্বন্দ্বিতা-যোগ্যতা, পুনরুদ্ধারযোগ্যতা এবং নির্ভরতা ও নির্ভরশীলতা আলাদা করার মাপকাঠি
-- [[rethinking-ai-writing-feedback-literacy]] — এআই-সহায়ক লেখালেখির জন্য ফিডব্যাক-সাক্ষরতা
-- [[student-perspectives-ai-writing-grading-2026]] — আমার কাজ কে গ্রেড করবে? উচ্চশিক্ষায় স্বচ্ছ এআই-সহায়ক লেখালেখি-মূল্যায়ন নিয়ে শিক্ষার্থীদের দৃষ্টিভঙ্গি
-- [[sharma-judgment-visible-genai-assessment-2026]] — সততার মূল্যায়নমূলক কেন্দ্র হিসেবে বিচারবোধ: টীকাযুক্ত সিদ্ধান্ত-পথ, মৌখিক পক্ষসমর্থন, সংস্করণ-ইতিহাস (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — সুসংহিত মানদণ্ড ছাড়া প্রমাণ ওজন করা প্যানেল: প্রতিষ্ঠানের নিজের বিচারবোধের সমস্যা (Munoz প্রমুখ 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — ডিটেক্টরের অনির্ভুলতা ও সংকর-লেখার ব্যর্থতা: রায়ের বদলে সুপারিশকৃত বিকল্প হিসেবে মানব-বিচারবোধ (Hadra প্রমুখ 2026)
-- [[wright-transcription-not-generation-2026]] — কার্য, প্ল্যাটফর্ম নয়: সরঞ্জাম কী তা নয়, কী করেছে তা বিচার করা (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms ও Discernment Rate: এআই-সহায়ক কাজের পেছনের যুক্তি-পথের গ্রেডিং (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — এআই-লেখা ভর্তি-প্রবন্ধ ব্যাপক, কিন্তু দণ্ডিত
-- [[authentic-assessments-generative-ai-pilot-2026]] — জেনারেটিভ এআই দিয়ে প্রামাণ্য মূল্যায়ন নকশা: উচ্চশিক্ষায় Assessment Authentifire-এর পাইলট গবেষণা
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Agency Check (বিশ্বাসযোগ্য, প্রাসঙ্গিক, গ্রহণযোগ্য, সূক্ষ্ম) যা প্রতিটি এআই-মিথস্ক্রিয়া গঠন করে
-- [[judgment-centred-software-engineering-education-2026]] — এআই-সম্বর্ধিত সফটওয়্যার প্রকৌশল শিক্ষার পোস্ট-হাইপ পর্যালোচনা ও কাঠামো
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — বিচারবোধ গুণমান আলাদা করেছে কেবল পুনঃসংস্করণের সঙ্গে যুক্ত হলে (Z = 2.80 ও 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — প্রশিক্ষকদের পুনঃসংস্করণ পুনঃব্যবহারযোগ্য যাচাই-মাপকাঠিতে পরিণত হয়েছে (Tang প্রমুখ 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — কাজ থেকে সরানো প্যাটার্নিং, এবং যে বিচারবোধ ধার করা হয়
-

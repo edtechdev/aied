@@ -17,6 +17,8 @@ ai_assist:
     role: drafting
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 > **Synthesis:** Empathy enters education from three directions at once: as an outcome educators try to teach, as a construct they try to measure, and as something AI systems are increasingly said to display. The evidence is uneven across all three. Teaching empathy works — role-play, VR and LLM dialogue all produce measurable pre-post gains — but the effect shrinks as the experience becomes less embodied, and the comparison studies confound modality with time on task. Measuring empathy is harder than teaching it: observer ratings hold together, while [[sensor-and-gaze-analytics|computer-vision proxies]] agree on physical contact, disagree on eye contact, and invert on smiling. AI can rehearse empathic conversation at scale, but the best-controlled study shows self-assessed competence rising without an observed-performance check. And the newest concern runs the other way: believing AI can supply empathy makes people less willing to supply it themselves ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]).
@@ -88,34 +90,3 @@ For education this cuts two ways. A [[curriculum-design|curriculum]] that uses A
 - **"A smile means warmth."** In a distressing clinical encounter, observers read smiling as incongruity, and a facial-action detector reads it as positive affect. Context is the missing variable.
 - **"Self-report scales measure empathy."** They measure a disposition or a self-concept; they do not measure behavior in an encounter.
 - **"More immersive is always better."** Immersive methods show larger gains, but at several times the cost and duration, and the comparisons do not equalize exposure.
-
-## Connected Concepts
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Connected Articles
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Role-play 13.2%, VR 11.6%, AI dialogue 8.8% on the IRI, with exposure time confounded (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Physical-contact detection agreed with observers; smile detection ran negative (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Self-assessed competence rose d = 0.58 after 13 exchanges, with no control group (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 studies; confidence gains common, empathy evidence limited (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA and generative imagery as an arousal pipeline, with empathy claimed rather than measured (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — Belief in AI's empathic capacity predicted less willingness to provide support (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item disposition scale whose factor structure did not match its design (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — Empathetic language raised felt understanding, which predicted engagement rather than behavior change (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — Prompt-specified role and moves produced a large perceived-empathy difference (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students described AI as emotional support during clinical stress (Akbaba et al., 2026)

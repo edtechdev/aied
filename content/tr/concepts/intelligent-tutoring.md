@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -53,7 +55,6 @@ Akıllı özel öğretim, [[student-modeling|öğrenen modelleme ve uyarlanabili
 Pedagojiyi modele öğretmek, istek metniyle yönlendirmekten ayrı bir yoldur: LearnLM, pedagojik verileri Gemini’nin [[llm-training-and-fine-tuning|eğitim sonrası sürecine]] karıştırdı; eğitim uzmanları tarafından GPT-4o’ya (%31’le), Claude 3.5 Sonnet’e (%11’le) ve temel Gemini 1.5 Pro’ya (%13’le) göre tercih edildi; ve — sonradan ince ayarlanmak yerine ortak eğitildiği için — kazanımlar gelecekteki temel model sürümlerinde de sürer ([[learnlm-improving-gemini-learning|LearnLM Takımı (2025)]]).
 
 TeachLM, kıt olan bileşenin özgün öğrenen–özel öğretmen etkileşimi olduğunu savunur: birebir özel öğretimin 100.000 saati üzerine ince ayarlanması öğrenci konuşma süresini yaklaşık ikiye katladı ve diyalog turlarını %50 artırdı; bu, daha önceki istek metni mühendisliğiyle oluşturulmuş bir özel öğretmenin insan özel öğretmenlerine göre farkı kapatamadığından sonradır ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]]).
-
 
 - **Referans stratejileri sağlamak zayıf özel öğretmenleri yükseltir, güçlüleri değil.** Modellere vaka literatürünün belgelediği stratejiyi vermek, 11 modelden 10’unda anında yanıt başarısını ortalama 9,9 puan artırdı (Llama 4 Maverick %41,0’dan %64,8’e) ve en güçlü model %71,3’te değişmeden kaldı ([[tutor-case-bench-challenging-behaviors-2026|Park ve ark. (2026)]]).
 - **Bir özel öğretmene erişim, ondan öğrenmekle aynı şey değildir.** 153 ispat dersi öğrencisini bir sohbet robotuna ve bir geri bildirim arayüzüne daha erken erişime rasgele atamak ödev notlarını 2,56 puan yükseltirken desteklenmeyen sınavı değiştirmedi; her 100 sohbet robotu iletisi 3,02 puan daha düşük notla ilişkilendi ([[ai-proof-learning-cognitive-offloading-2026|Chen ve ark. (2026)]]).
@@ -104,7 +105,6 @@ YZ özel öğretmenlerini konuşlandıran eğitimciler ve onları inşa eden gel
 **Özel öğretmenleri yalnızca çözmeye göre değil, öğretip öğretmediklerine göre değerlendirin.** Çözme liderlik tablosunun tepesinde yer alan bir model mutlaka iyi bir özel öğretmen değildir — görev çözme yeteneği ile öğrenmeyi destekleyen davranış yalnızca kısmen ilişkilidir (r ≈ 0,42) ve çeşitli modeller pedagojiye göre puanlandığında sıralamayı değiştirir. **Çözme ve pedagoji puanlarını ayrı ayrı** bildirin ve inceleyin ve hızlı yanıtlar üretenlere göre yönlendirici sorular, ayarlanmış ipuçları ve ifşa etmeyen iskeleleme üzerine puan alan özel öğretmenleri önceliklendirin. ([[measuring-llm-tutors-teach-vs-solve]]) ([[ai-tutoring-quality-k12-methodologies-2026]])
 
 - **Pedagojik kalite, öğrenmenin kanıtı değil bir tabandır.** Alanı beş aşamalı bir döngü — öğrenen durumu çıkarımı, pedagojik eylem, özel öğretmen eğitimi, değerlendirme ve [[simulating-students|öğrenci simülasyonu]] — olarak kodlayan 88 LLM özel öğretim çalışmasının yapılandırılmış bir denetimi, pedagojik değerlendirmenin yaygın olduğunu (88’den 77’si) ama insan öğrenme kazanımını yalnızca 10 çalışmada, aktarmayı ya da gecikmeli hatırlamayı ise bir tek çalışmada bulmuştur ([[llm-tutors-process-synthesis-2026|Adak ve ark. (2026)]]).
-
 
 - **Yalnızca numara içeren referanslar erişimi bozar.** 400 öğrencilik bir veri bilimi dersine yönelik iki dilli bir RAG özel öğretmeninde, "P2 Q10" gibi gönderilere atıf yapan iletiler, bir çıkarım aşaması bunları bağımsız sorular olarak yeniden yazana kadar zayıf biçimde erişildi; sonrasında programlama referanslarının %97,46’sı çözümlendi ([[multi-sourced-ai-tutor-non-native-english-2026|Shen ve ark. (2026)]]).
 
@@ -177,78 +177,3 @@ Etkili özel öğretim sürekli uyarlama gerektirir: [[zhang-tutormoments-2026|Z
 **“Akıllı özel öğretim, LLM’lerin yerini aldığı LLM öncesi bir teknolojiydi.”** Soyçizgi süreklidir ve AÖS katkısı, LLM döneminin hâlâ eksik olduğu şeydir. AÖS öğrenen modelini, arayüz kısıtlarını ve hakimiyet tahminlerini sağladı; bu bileşenlere bir LLM ekleyen modern sistemler yalnız LLM’den daha iyi performans gösterir, bu da eski disiplini bir selef değil bir bileşen yapar.
 
 **“Bir YZ özel öğretmeni tek tür bir şeydir.”** Özel öğretim, ipucu üretiminden sürdürülen diyaloga kadar bir ilişkisel yoğunluk spektrumuna yayılır ve bu spektrumun bir noktasındaki tasarım sonuçları diğerine aktarılmaz. Dolayısıyla pedagojik tasarım sorusu her zaman “YZ özel öğretimi işe yarıyor mu” değil, “hangi tür özel öğretim, hangi görevi yaparken” sorusudur.
-
-## Bağlı kavramlar
-
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## Bağlı makaleler
-
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: LLM özel öğretmenlerinin çok çözümlü programlama problemlerindeki yanıt verebilirlik boşluklarını ortaya koyar (Cen ve Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Öğrencilerin akıl yürütmesini desteklemek mi, yerini almak mı? YZ destekli kanıt öğrenmede bilişsel yük devri (Chen ve ark. 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: LLM özel öğretmenlerinin zorlayıcı davranışlar sergileyen öğrencilerle değerlendirilmesi (Park ve ark. 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — El yazısı çalışmaya bakan bir kamera: görsel erişim ve öngörülü onarım (Kotalwar ve ark. 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[real-time-ai-feedback-technical-skills-2026]] — Real-time AI feedback for technical skill acquisition in Kwara State colleges of education: a localized tutor framed as a staffing subsidy
-- [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors and pedagogical safety
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy affective math tutoring
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
-- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — A multi-discipline RCT of a course-grounded, LMS-embedded AI tutor: final grades down 0.37 SDs in the exact-match sample, platform participation down 0.90 SDs, with no instructional integration (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Variation in how guided AI tutors resolve student impasses, and why escalation must change with depth
-- [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
-- [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Ancak hazır modeller bu kanıtı sağlamayabilir: Worden ve ark.
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — Anadili İngilizce olmayan öğrenciler için çok kaynaklı YZ özel öğretmeni
-- [[leite-its-k12-meta-analysis-2025]] — ABD K-12 meta-analizi: 18 deney, g = 0,271 ve bunu değiştiren etmenler (Leite ve ark. 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — Genişletilmiş Birleşik Krallık RAS: yakın transfer kazanımları var, 10 haftada standart test avantajı yok (LearnLM Ekibi, Google ve Eedi 2026)

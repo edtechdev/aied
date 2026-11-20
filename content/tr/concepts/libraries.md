@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -67,22 +69,3 @@ Kütüphanenin en eski işlevi — bireylerin satın alamadığı erişimi sağl
 - **Her YZ hizmetinde insana yükseltme yolu bırakın.** Kanıt, arama ve taslak için YZ’yi, kaynaklar hakkında yargı için insan personeli destekler; birincisini ölçeklemek için ikincisini silen tasarımlar, kullanıcıların başka yerde bulamayacağı parçayı ortadan kaldırır.
 - **Arama kaymasını anketle değil, ölçerek izleyin.** Ödünç ve keşif günlükleri zaten vardır; bunları öğretim verileriyle eşleştiren bir kütüphane, YZ’nin etkisi hakkında tek seferlik bir öğrenci anketinin gösterebileceğinden fazlasını bilecektir.
 - **YZ okuryazarlığını bilgi okuryazarlığı diye faturalamayın.** Personeli ve çerçeveleri paylaşırlar ama değerlendirilen şey bakımından farklılaşırlar; ikisini birbirine karıştırmak ikisini de ölçmeyen bir program üretir.
-
-## Bağlı kavramlar
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Bağlı makaleler
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Akademik kütüphanelerde yapay zekâ benimsemesi: Mevcut uygulamalar, zorluklar ve araştırma fırsatları üzerine sistematik bir derleme
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Akademik kütüphanelerde YZ okuryazarlığının bilgi okuryazarlığı öğretimine entegrasyonunu haritalamak
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Yapay zekâ akademik kütüphanelerde bilgi okuryazarlığını nasıl yeniden biçimlendiriyor
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Yapay zekâ ve bilgi arayışı: Üniversite öğrencileri arasında bilgi kaynakları olarak YZ sohbet robotları, arama motorları ve kütüphane kaynakları üzerine karşılaştırmalı bir inceleme
-- [[huang-genai-academic-information-resources-2026]] — Üretici yapay zekâ, üniversite öğrencilerinin akademik bilgi kaynaklarını sürdürülebilir kullanımını yeniden biçimlendiriyor
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Nijerya yükseköğretim kurumlarında akademik kütüphanecilerin bilgi okuryazarlığını ve YZ öğretimini yaygınlaştırmak için öğrenci katılımı

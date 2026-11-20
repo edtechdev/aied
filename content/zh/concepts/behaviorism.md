@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -93,27 +95,3 @@ ai_assist:
 **"行为主义设计就是不如建构主义设计。"** 它们很适合特定目标：流畅性、事实回忆、程序性自动化，在这些地方即时反馈与重复确实正是任务所需。错的不在机制，而在于使用一个其效力条件（学习者必须产出该反应）已悄悄失效的机制。
 
 **"既然理论已被否定，建立其上的系统只看结果即可评判。"** 结果恰恰是输出等价所污染的东西。一个系统可以报告极佳的行为结果，而学习已经转到别处，因此受行为主义影响的系统比其他任何一类系统都更需要无辅助测量。
-
-## 关联概念
-
-- [[constructivist]]
-- [[cognitive-psychology]] — 认知主义，学习理论的第三个经典极点
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## 关联文章
-
-- [[ai-vocational-education-training-review]] — 行为主义 AI 设计在 VET 实践中占主导，尽管奉行建构主义；"图灵陷阱"
-- [[generativism-learning-theory]] — 生成主义 AI 促使重新思考的四大理论之一
-- [[ccct-cooperative-learning-technique]] — 高等教育合作学习设计中被引用的行为主义
-- [[wang-multi-agent-systems-learning-designers-2025]] — 协作式多智能体设计方法中的行为主义角色
-
-- [[sequenced-ai-feedback-learning]] — 在 199 人随机实验中，排序式提示反馈劣于即时的完整解答反馈
-

@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -101,7 +103,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 صار لسؤال المقياس الزمني الآن صياغةٌ صورية. يسمّي [[cognitive-washout-ai-skill-decay-2026|ياجي (2026)]] الفترة التي تلي سحب الدعم *الغسيل المعرفي*، ويعطيها أربع نتائج مرشّحة: الارتداد المرن، والهضبة الجزئية، والسقالة الكامنة، والتعافي المفرط. ويرى البحث أن القابلية للعكس هي ما يحدّد الشدّة، ويقترح بروتوكولاً قابلاً للتسجيل المسبق من ثلاثة أذرع على مدى اثنين وعشرين أسبوعاً لقياسها. وقد اختبرت الدراسات أعلاه النقل بعد ساعات من انتهاء المساعدة، فالأسابيع التالية هي الجزء من السؤال المفتوح الأول في هذه الصفحة الذي لا يزال غير مقيس حقاً.
 
-
 ### الروابط بمفاهيم ذات صلة
 
 يرتبط نقل التعلّم بـ [[metacognition]] (المراقبة الذاتية للفهم)، ونظرية الحِمل المعرفي (الحِمل المثمر مقابل المشوّق)، و[[desirable-difficulties]] (الكفاح المُنتج)، و[[scaffolding]] (تلاشي الدعم)، و[[cognitive-offloading|الاعتماد المفرط]] (التبعية للأداة)، و[[sociocultural-learning]] (الذكاء الاصطناعي العام يعمل خارج منطقة النمو القريب بإنجاز العمل عن الطلاب). وهو الجسر بين الأداء المساعد والتعلّم الحقيقي — التمييز بين [[stanford-evidence-base-ai-k12-2026]] والسؤال المركزي لفعالية [[intelligent-tutoring|التدريس بالذكاء الاصطناعي]].
@@ -115,38 +116,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«النقل يأتي من نماذج أقدر.»** النقل يأتي من الشروط التي تُنتجه — عمومية الممارسة، وتنوّع السياقات، ومدى توليد المتعلّم للاستدلال بنفسه. فقدرة النموذج ترفع سقف الأداء المدعوم ولا تفعل شيئًا بعينه لما يبقى بعد غياب النموذج.
 
 **«الإرشاد يدعم النقل دائمًا، فمزيد الإرشاد أفضل.»** الإرشاد الذي يُنجز الاستدلال يستبدل العملية التي يعتمد عليها النقل. والتفريق بين مساعدةٍ تُبقي المتعلّم يولّد الخطوة التالية ومساعدةٍ تولّدها له — وأولاهما فقط في جانب النقل من ذلك الخط.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — المخرج الذي تُحاكم عليه معظم هذه التسلسلات في نهاية المطاف
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — الفشل المُنتج
-
-## المقالات المرتبطة
-- [[yan-agentivism-learning-theory-ai-2026]] — نظرية تعلّم متوسطة المدى للتفاعل بين الإنسان والذكاء الاصطناعي، بأربع آليات وستّ دعاوى قابلة للاختبار (يان وغاسيفيتش 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — التخفيف المعرفي الحسّاس للطبقات في الكتابة المساعدة بالذكاء الاصطناعي التوليدي (تشين 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — تمييز الأداء-التعلّم والنقل الدائم
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه البيداغوجي للنماذج اللغوية الكبيرة من أجل الفشل المُنتج
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — الذكاء الاصطناعي في تعليم فيزياء الجزيئات: مشكلات بحثية ومهارات تأسيسية
-- [[shi-genai-experiential-learning-management-education-2026]] — تُحاجّ بأن محاكيات الصفّ المحمية قد تُشكّل عادات قرار تفشل خارجها
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — رفعت الممارسة الشفهية المساعدة بالذكاء الاصطناعي الرغبة نحو البشر لكن أياً من الدراسات لم تُراقب التحدّث البشري
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: التعلّم المعزَّز عبر التجسيد الروبوتي الوظيفي على المكتب
-
-- [[cognitive-washout-ai-skill-decay-2026]] — الغسيل المعرفي: الفترة التي تلي سحب الدعم وبروتوكول قياس من 22 أسبوعاً (ياجي 2026)
-

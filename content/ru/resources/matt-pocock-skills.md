@@ -35,6 +35,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -46,6 +47,3 @@ translation_note: "Автоматический перевод данной ан
 ## Что стоит знать до внедрения
 
 Всё является [[open-source|открытым исходным кодом]] под лицензией MIT и свободно берётся как отправная точка для локальной [[ai-literacy|ИИ-грамотности]] или [[self-directed-learning|самостоятельного изучения]]. Внедрение носит массовый и быстро меняющийся характер: примерно 270 000 звёзд и 23 000 форков на момент проверки в сентябре 2026 года, самый последний коммит — 18 сентября 2026 года. Оговорка касается охвата. Навыки предполагают [[human-ai-collaboration|инженерный]] рабочий контекст и организованы по разделам «инженерное дело», «продуктивность», «устаревшее» и «в разработке», поэтому некоторые записи явно не завершены или сняты с поддержки, а README одновременно служит формой подписки на рассылку. Рассматривайте преподавательские и допрашивающие навыки как переносимую часть и ожидайте, что любой из них придётся переписать прежде, чем предъявлять студентам.
-
-## Связанные концепции
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

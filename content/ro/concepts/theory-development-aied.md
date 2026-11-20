@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -116,54 +118,3 @@ Dezvoltarea teoriei și [[philosophy-of-ai-in-education|filosofia IA în educaț
 
 - Proiectează contraste între configurații dacă intenționezi o contribuție teoretică. Un trial cu efect mediu publicat ca dezvoltare de teorie este cel mai comun și cel mai puțin util rezultat al domeniului.
 - Atașează propoziții falsificabile explicite oricărui cadru pe care îl introduci și raportează care diferențe între configurații le-ar fi infirmat.
-
-## Concepte conectate
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Articole conectate
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Extinderea taxonomiei funcționale: 90 din 154 de publicații clasificabile (58,4%) cad în afara celor patru categorii originale (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — O teorie de rază medie a învățării pentru interacțiunea om–IA, cu patru mecanisme și șase propoziții testabile (Yan și Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Suprageneralizarea înșelătoare: stăpânirea adaptivă poate opri exersarea înainte ca învățăceii să știe când să rețină o acțiune (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativismul ca teorie nouă a învățării
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Spre o teorie a co-agenției epistemice
-- [[du-yuan-epistemic-dependence-2026]] — Agenția epistemică relațională și granița dintre dependența productivă și cea dăunătoare (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Baza cognitivă absentă (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Bunuri cognitive comune și regenerarea expertizei
-- [[genai-performance-vs-learning]] — Performanță vs. învățare
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Alfabetizarea în IA epistemică (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Credite și administrare cognitivă
-- [[ai-cognitive-partner-co-regulation-learning]] — IA ca partener cognitiv în co-reglare
-- [[epistemic-proactivity-math]] — Proactivitate epistemică în matematică
-- [[strydom-human-gai-paradigms-2026]] — Șapte paradigme de implicare om–GAI fundamentate în convingeri epistemologice
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoxul gândirii critice
-- [[dollinger-equitable-assessment-ai-2026]] — Evaluare echitabilă sub GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Teoria tri-sistem și capitularea cognitivă: cum remodelează IA raționamentul uman (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizarea Comunității de anchetă în era IA generative
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiențele și percepțiile profesorilor universitari despre GAI: vulnerabilitate, regândirea evaluării, învățarea studenților în pericol (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Filosofie alternativă a IA: daoismul ca metodă pentru IA în educație
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: scheme bazate pe afirmații pentru codarea auditabilă a dialogurilor educaționale
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Proprietatea metacognitivă: definirea constructului, granițe și o agendă de cercetare
-
-- [[synthetic-position-self-authorship-2026]] — Poziția sintetică: o ofertă din tradiția sinelui dialogic care numește promovarea sintetică și suspendarea autorală, cu o predicție de tip crossover
-- [[capability-decision-model-teacher-readiness-2026]] — Model falsificabil de pregătire a profesorilor, centrat pe capacitate, cu patru condiții de infirmare
-- [[ai-connectedness-adolescent-mental-health-2026]] — Conectivitatea cu inteligența artificială: un construct tridimensional cu șase propoziții falsificabile pentru testare ulterioară
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclul parteneriatului cognitiv
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Dificultăți dezirabile și eșec productiv aplicate agenției interpretative în educația în străinătate
-- [[webb-pck-genai-2026]] — Trei viniete și un construct nou, pseudo-cPCK, pentru rezultate care imită cunoașterea validată colectiv fără garanție (Webb et al. 2026)

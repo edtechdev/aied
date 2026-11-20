@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -114,38 +116,3 @@ AI 误用与 AI 使用是两回事。使用指的是把 AI 当作学习的补充
 **"如果练习表现在提升，工具就是有效的。"** 在约 1,000 名高中数学学生的因果性现场随机对照试验中，无护栏的 ChatGPT 式辅导把有辅助的练习表现提高了 **+48%**，同时把无辅助的[[summative-assessment|闭卷考试]]分数降低了 **17%**。方向相反，因此任何把练习数字当作结果的评估，都会恰好认证它本要发现的那种损害。
 
 **"使用 AI 的学习者主要担心被发现。"** 他们自陈的关切是发展性的。在一项研究中，**51% 的参与者（n = 106）**担心 GenAI 的使用会妨碍个人发展，指出的损失在于[[critical-thinking|批判性思维]]、创造力与自主性，而非违规。主导机构话语的[[academic-integrity|诚信]]框架，并不是学生自己会诉诸的框架。
-
-## 关联概念
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## 关联文章
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴伦理而非作弊框架指导机构的 GenAI 决策
-
-- [[rho-disengaged-conversational-behaviors-2026]] — 脱离投入的对话行为及其对学生与 AI 对话中学习的影响（Rho 等 2026）
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — 没有护栏的 GenAI 会损害学习
-- [[genai-performance-vs-learning]] — 区分表现增益与学习
-- [[ai-availability-student-motivation]] — AI 的可获得性与学生动机
-- [[genai-skill-bypass-literacy]] — GenAI 技能绕行与素养
-- [[cognitive-shift-ai-education]] — AI 教育中的认知转移
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 学生与 AI 协作中的认知卸载
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地悲剧：AI 与专长再生
-- [[lodge-loble-cognitive-offloading-2026]] — AI、认知卸载及其对教育的意涵（Lodge 与 Loble 2026）
-- [[ai-overreliance-complex-adaptive-system-2026]] — 把 AI 过度依赖建模为复杂适应系统
-- [[academic-erasure-complexity-ai-writing-2026]] — 学术擦除：AI 支持写作下复杂性的消失
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI 依赖完全中介了从自我效能与教师支持到学习倦怠的路径（Huang 等 2026）
-- [[uneven-impact-generative-ai-student-learning-2026]] — 早期依赖预测负面影响，而认知依赖预测正面影响，且评价素养强化而非缓冲了先咨询 AI 的伤害（Manikonda 等 2026）
-- [[this-is-how-we-ai-teaching-guide-2026]] — 这就是我们的 AI 教学之道：一种实用的 AI 教学方法

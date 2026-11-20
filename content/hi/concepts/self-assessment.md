@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -106,34 +108,3 @@ AI तकनीक के बारे में तीन चीज़ें �
 **"एआई [[feedback|फीडबैक लूप]] जोड़ना स्व-मूल्यांकन को स्वतः सुधारता है।"** फीडबैक लूप बदल देता है कि छात्र किससे तुलना करता है, जो कैलिब्रेशन सुधार सकता है और उन्हें सिस्टम के निर्णय से बाँध भी सकता है। यहाँ का तुलनात्मक अध्ययन (**118 प्रथम-वर्ष स्नातक, 56 एक GenAI समूह में और 62 एक सहकर्मी समूह में**, सेमेस्टर में तीन चक्र) ठीक इसका परीक्षण करने के लिए डिज़ाइन किया गया है कि काम लूप करता है या सामाजिक तुलना: और उत्तर "लूप, क्योंकि वह लूप है" नहीं है।
 
 **"स्व-मूल्यांकन परीक्षण का कोमल विकल्प है।"** यह एक भिन्न लक्ष्य है। स्व-मूल्यांकन अपने कार्य का निर्णय करने का नियामक कौशल विकसित करता है; परीक्षण उस क्षमता को मापता है जिसका निर्णय किया जा रहा है। एक को दूसरे के स्थान पर रखने वाला अनुसंधान प्रदर्शन का मूल्यांकन करने की क्षमता को प्रदर्शन से मिला देता है।
-
-## संबंधित अवधारणाएँ
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-## संबंधित लेख
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — स्व-निर्देशित विकास ढाँचे के केंद्र में रखा गया स्व-मूल्यांकन (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — विकासात्मक रूप से स्तरित AI साक्षरता सामग्री, स्वीकृति और वैधता के मापन के साथ (2026)
-- [[chatgpt-critical-creative-thinking-review]] — AI प्रतिपुष्टि का सहपाठी, शिक्षक और स्व-मूल्यांकन के साथ त्रिकोणीकरण (2026)
-- [[yasir-llm-tutoring-agents-2026]] — प्रतिपुष्टि को किसी मॉडल के स्व-आकलित तर्क वैधता पर नहीं टिकाना चाहिए क्यों (यासिर एट अल. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — कक्षा 4 से 6 के लिए एक प्रमाणित 15-मद AI साक्षरता स्व-मूल्यांकन प्रश्नावली, बच्चों के स्व-प्रतिवेदन की अधिचेतना सीमाओं के साथ (थियनवान और श्रीकून 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 में से 31 शिक्षक AI साक्षरता उपकरण स्व-प्रतिवेदन हैं, दो ज्ञान का वस्तुनिष्ठ परीक्षण करते हैं, कोई भी प्रदर्शन कार्यों का उपयोग नहीं करता (ज़ैनाल, मोहम्मद मातोर और मात 2026)

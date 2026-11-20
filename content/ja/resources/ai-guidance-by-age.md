@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -52,11 +53,3 @@ verified: [citation]
 教育にとって重要な制約がさらに 2 つあります。推奨事項は設計のための問いかけであり、検証済みの介入ではありません。サイト上のどの項目も成果を報告していません。また、年齢帯という構造は、帯の内部でも、文化や文脈によっても異なる発達に粗い格子を当てはめるものであり、ガイド自身もそれを認めています。
 
 実践に持ち込む価値のある枠組みは、サイト自身のものです。ループを人間の側に保ち、そのうえで AI がどこに入るかを考える——機械に属するループの中に人間のチェックポイントを置くのではなく、人間のループの中に AI を位置づけるということです。これは、ツールが発達を促す仕事をしていた部分を引き受けるときに、このコーパスが[[cognitive-offloading|オフローディング]]のリスクとして記録している懸念と同じです。
-
-## 関連する概念
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

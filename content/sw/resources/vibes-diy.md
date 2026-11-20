@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/vibes-diy
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,8 +48,3 @@ Ni mjenzi wa matumizi ya jumla badala ya bidhaa ya elimu: ni muhimu kwa mkufunzi
 ## Vidokezo na tahadhari
 
 Jukwaa lina kiwango cha bila malipo lakini ni cha msingi wa mikopo: akaunti hupata mikopo 1,000 ya AI kwa mwezi, na kujenga, kuhariri, kuzalisha picha, na vipengele vya AI vyote ndani ya programu hutumia. Usajili unaongeza chaguo la kununua mikopo zaidi, ambayo haimaliziki muda. Kozi yoyote inayokusudia kutegemea jukwaa inapaswa kukagua masharti ya sasa, kwa kuwa matumizi ya bila malipo yanapimwa badala ya kuwa bila kikomo, na inapaswa kutendea programu zilizoundwa na wanafunzi kama maudhui yenye maswali yake ya kushughulikia data.
-
-## Dhana Zilizounganishwa
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

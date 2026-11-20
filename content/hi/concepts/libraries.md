@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -67,22 +69,3 @@ ai_assist:
 - **किसी भी AI सेवा में मानव एस्केलेशन मार्ग रखें।** साक्ष्य खोज और मसौदा-लेखन के लिए AI, और स्रोतों के बारे में निर्णय के लिए मानव स्टाफ़ का समर्थन करता है; पहले को बढ़ाने के लिए दूसरे को मिटाने वाले डिज़ाइन वह हिस्सा हटा देते हैं जो पाठकों को कहीं और नहीं मिल सकता।
 - **खोज-बदलाव को सर्वेक्षण करने के बजाय मापें।** उधार और खोज-लॉग पहले से मौजूद हैं; जो पुस्तकालय उन्हें निर्देश-डेटा के साथ जोड़ता है, वह AI के प्रभाव के बारे में एकबारगी विद्यार्थी-सर्वेक्षण से अधिक जानेगा।
 - **AI साक्षरता को सूचना साक्षरता के नाम पर न बेचें।** वे स्टाफ़ और ढाँचे साझा करती हैं पर जो आँका जाता है उसमें भिन्न हैं; उन्हें मिला देना ऐसा कार्यक्रम बनाता है जो दोनों में से कुछ नहीं मापता।
-
-## संबंधित अवधारणाएँ
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## संबंधित लेख
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — शैक्षणिक पुस्तकालयों में कृत्रिम बुद्धिमत्ता का अपनाना: वर्तमान प्रथाओं, चुनौतियों और शोध-अवसरों की व्यवस्थित समीक्षा
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — शैक्षणिक पुस्तकालयों में सूचना साक्षरता निर्देश में AI साक्षरता के एकीकरण का मानचित्रण
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — कृत्रिम बुद्धिमत्ता शैक्षणिक पुस्तकालयों में सूचना साक्षरता को कैसे फिर से आकार दे रही है
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — कृत्रिम बुद्धिमत्ता (AI) और सूचना-खोज: विश्वविद्यालय विद्यार्थियों के बीच सूचना-स्रोतों के रूप में AI चैटबॉट, सर्च इंजन और पुस्तकालय-संसाधनों की तुलनात्मक खोज
-- [[huang-genai-academic-information-resources-2026]] — जनरेटिव कृत्रिम बुद्धिमत्ता विश्वविद्यालय विद्यार्थियों के शैक्षणिक सूचना-संसाधनों के सतत उपयोग को फिर से आकार देती है
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — नाइजीरियाई तृतीयक संस्थाओं में सूचना साक्षरता और AI निर्देश को बढ़ावा देने के लिए शैक्षणिक पुस्तकालयाध्यक्षों का विद्यार्थी-जुड़ाव

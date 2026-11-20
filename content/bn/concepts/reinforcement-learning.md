@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,29 +68,3 @@ ai_assist:
 **"দীর্ঘতর পরিসর নিছক ভালো।"** এগুলো সক্ষম করে যা ছোট পরিসর পারে না, এবং এরা দাবি করে পুরস্কার যেন সমগ্র ক্রম জুড়ে সঠিক হয়। [[residencyrl-clinical-rl-training-2026|ResidencyRL]] সম্পূর্ণ **60-টার্নের ক্লিনিক্যাল সাক্ষাৎ** অপ্টিমাইজ করে, যা সমকালীন সংলাপ-ব্যবস্থার ≤12-টার্ন পরিসরের অনেক বাইরে, যা ভুল-নির্দিষ্ট লক্ষ্যের খরচ কমায় না, বরং বাড়ায়।
 
 **"শিক্ষাদান ক্রমিক বলেই আরএল টিউটরিংয়ের উপযুক্ত আনুষ্ঠানিকতা।"** ক্রমায়ন প্রয়োজনীয়, যথেষ্ট নয়; বাঁধা-সৃষ্টিকারী সীমাবদ্ধতা পুরস্কারের বৈধতা। দুর্বল নীতিসহ সু-নির্দিষ্ট লক্ষ্য ভুল লক্ষ্যের বিরুদ্ধে শক্তিশালী নীতিকে হারায়।
-
-## সংযুক্ত ধারণা
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, LLM প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
-
-## সংযুক্ত নিবন্ধ
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: শিক্ষাগত নির্দেশনা অনুসরণের জন্য RLHF
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি ITS-এ অভিযোজিত ICAP স্ক্যাফোল্ডিং (BKT বনাম DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

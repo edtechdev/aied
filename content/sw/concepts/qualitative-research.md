@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -41,7 +43,6 @@ Uchanganuzi wa mada hutambua, huweka kodi, na hufasiri mifumo ("mada") katika da
 Uaminifu wa kuweka kodi unaweza kuwa mchakato wa kuendelea badala ya ukaguzi wa mara moja. [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] wanaweka kodi kauli 304 za kugundua kwa Krippendorff's α = .803, wanafuatilia makubaliano kwenye matukio matano yanayoana (κ ya pamoja = 0.937), na wanaweka kodi upya kauli zinazopingwa kila wakati makubaliano yalishuka chini ya kizingiti cha 0.85 cha kurekebisha kabla ya kuendelea; kauli zilizowekwa kodi kisha zinaingia katika [[network-analysis|uchanganuzi wa mtandao wa maarifa]] ambao hufanya mfano wa vipimo vinavyotokea pamoja badala ya orodha tambi ya mada.
 
 [[ober-prompt-engineering-interview-transcripts-2026|Ober et al. (2026)]] wanaonyesha lahaja mseto ambapo uundaji wa mada unasaidia uchanganuzi wa mada na lebo zilizozalishwa na LLM zinalisha uboreshaji wa kitabu cha kodi. Katika vikundi sita vya majadiliano na walimu 13, mchakato unaoendeshwa na binadamu ulihama kutoka kitabu cha kodi cha Toleo la 1 chenye mada sita za awali za nadharia iliyojengwa kutoka kwa data hadi Toleo la 2 lililoboreshwa ambalo liliongeza kategoria mpya ya 'kufundisha', likatenganisha kipaumbele cha ujuzi mzima na ujuzi mdogo, na kufanya vipimo vya kijamii na vya muktadha viwe wazi. Utekelezaji mbili za GPT-4, ChatGPT-4o na Copilot, ziliweka lebo kwenye mada zilizotokana na data kwa tofauti ndogo tu — lebo zinazolingana kwa 33.3% (7 kati ya 21) za nguzo za H za mawasiliano na 43.8% (7 kati ya 16) za ujuzi wa kidijitali — na ukaguzi wa binadamu haukugundua utungaji wowote.
-
 
 ### Nadharia iliyojengwa kutoka kwa data
 Nadharia iliyojengwa kutoka kwa data hujenga nadharia *kutoka kwa data* badala ya kupima mfumo wa awali, ikitumia kuweka kodi kwa kurudia (wazi → axi → kuchagua) hadi kushiba kwa kina kwa kinadharia. Ni bora zaidi kwa kujenga nadharia mpya kuhusu matukio yanayojitokeza ya AI katika elimu. [[liu-tool-tutor-crutch-programming-2026|Liu et al.]] wanaendeleza nadharia iliyojengwa kutoka kwa data ya *zana, mwalimu, au bakora* — taksonomia ya modi tatu ya jinsi wanafunzi wanavyotoa [[scaffolding|ngazi za msaada]] za kiakili au kuhamisha mzigo kwa AI katika [[cs-education|elimu ya programu]] — wakitambua moja kwa moja [[cognitive-offloading]]. [[favero-critical-ai-tutors-empower-enslave-2025|Utafiti wa nadharia iliyojengwa kutoka kwa data wa wataalam mahususi wa AI]] huchunguza ikiwa wataalam hawa wanawawezesha au wanawateka wanafunzi. [[genai-feedback-design-multisite-experiment|Ubuni wa maoni ya GenAI unaozingatia binadamu]] unatumia uchanganuzi uliojengwa kutoka kwa data katika utafiti wa maeneo mengi. Angalia pia [[theory-development-aied]] kwa jinsi nadharia zilizojengwa kutoka kwa data zinavyolisha ujenzi wa nadharia wa uwanja.
@@ -81,14 +82,12 @@ Maendeleo ya karibuni ya kipekee ni kutumia [[llm|LLM]] kusaidia kuweka kodi kwa
 
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] wanaripoti matokeo ya kwanza chanya ya kiasi ya kuweka kodi kwa LLM moja: katika mifano minne, ilani tano za zero-shot, na safu 8,040, binadamu na mifano walihusiana kwa r = .75 kwenye hukumu za kuorodhesha. Makubaliano yalishuka hadi r = .56 huku makadirio ya kosa kwa kila dhana yakipanda kutoka .11 hadi .27 wakati mifano ilipohukumu kama fasili ilikuwa sahihi, wakati upendeleo ulianzia 0.027 kwa kuorodhesha hadi 0.254 kwa fasili sahihi. Utambulisho wa mfano, si upanuzi wa ilani, uliendesha upatanisho na waweka kodi wa binadamu — katika kazi hii ya binary iliyobainishwa vizuri, ilani ya zero-shot ilifikia makubaliano ya juu wakati mfano ulichaguliwa vizuri.
 
-
 **Tatizo la matokeo ya ufasaha na uwezo wa kuhalalisha.** [[chain-behind-claim-warrantability-2026|Holster (2026)]] anabainisha kwa nini usahihi na ufafanuzi ni viwango visivyo Tosha kwa kazi ya kina inayosaidiwa na AI. Kwa sababu LLM zinapanga upya korpusi katika dakika katika mada za ufasaha, nukuu, na madai ya wingi, zinaweza kuficha njia ya kuchanganua iliyozalisha hizo — na watu huwa na mwelekeo wa kupima matokeo ya ufasaha, rahisi kuchakatika, kuwa ya ukweli zaidi. Holster anapendekeza **uwezo wa kuhalalisha** kama kipengele cha usahihi na ufafanuzi: tafsiri inayosaidiwa na AI inaweza kuhalalishwa wakati njia kutoka kwa data ya chanzo hadi dai inabaki *inaweza kuchunguzwa, kupingwa, na kurekebishwa*. Mashine yake ya ujenzi ni **lenzi za maana** (mipango upya iliyorekodiwa ya korpusi katika viwango vya ufupi) na mkusanyiko wa kifaa cha **vitu vya kuhalalisha** vinavyohusiana na dai — meza za mada zilizounganishwa na chanzo, mifuatano ya lenzi, na mito ya ushahidi — iliyopangwa katika zana ili uchanganuzi wa ufasaha pia utoe rekodi ya njia inayoweza kufuatiliwa. Hii inapanua mila ya uwanja ya njia ya ukaguzi hadi kizazi cha kuzalisha na huwapa wakaguzi kitu halisi cha kupinga zaidi ya tafsiri ya mwisho.
 - **Uaminifu si usahihi katika kuweka kodi kwa LLM za [[agentic-ai|mawakala wengi]].** Mfumo wa bomba unaoelekezwa na fasihi ambapo waweka kodi wawili wa AI waliweka kodi kwa njia huru, walibadilishana na kupatanisha makosa yalizalisha makubaliano ya waweka kodi juu ya kappa ya Cohen 0.85 kwenye kila seti ya data na lebo huku F1 ya kigezo ilitofautiana kutoka 0.31 hadi 0.89 (wastani 0.68, SD 0.16) — makubaliano ya juu kati ya mawakala ambao wote walikuwa na makosa. Kitabu cha kodi kirefu zaidi (t = -11.702) na sehemu zinazofanana zaidi (t = -9.249) zilipunguza usahihi wa awali, na zamu za majadiliano zilihusiana kwa njia chanya na usahihi (t = 7.997) huku migogoro iliyopangwa kwa njia sahihi na hali za ushirikiano zilihusiana kwa njia hasi (t = -9.720 na -8.420), hivyo kupatana ni kigezo dhaifu cha usahihi. Athari ya vitendo ni kuwa kuweka kodi kunakosaidiwa na AI kunahitaji uamuzi wa kiwango cha orodha ya ukaguzi dhidi ya rejeleo ya kibinadamu badala ya makubaliano ya mwakala-kwa-mwakala kama ishara yake ya ubora. ([[llm-qualitative-coding-consensus-2026]])
 
 Kichunguzi cha BERT kilichoboreshwa kikawa kiweka kodi cha kwanza cha kiotomatiki kufikia uaminifu wa waweka kodi wa binadamu: [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye et al. (2026)]] wanaripoti Cohen's Kappa ya 0.85 dhidi ya waweka kodi wa binadamu kwenye seti ya data iliyowekwa kodi mara mbili nje ya sampuli (N = 134), dhidi ya 0.83 kati ya waweka kodi wawili wa binadamu. BERT pia ilifikia usahihi 0.93, usahihi wa utabiri 0.92, ukumbusho 0.98 na F1 0.95, na ilijumuishwa kwa insha kutoka timu tofauti ya utafiti kwa Kappa 0.86 (n = 150). Waandishi wanaunganisha tokeo hilo na mtiririko wa kufundisha–kuthibitisha–kutumia–kufundisha upya unaobakiza sampuli ya binadamu iliyowekwa kodi mara mbili kama ukaguzi wa kudumu wa uaminifu.
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] wanaonyesha kuwa GPT-4o inaweza kuzalisha vitabu vya kodi vyenye msingi wa nadharia kutoka hifadhi yake ya maarifa peke yake, ikijumuisha awamu zote tatu za mzunguko za Zimmerman na tatu kati ya nne za hatua za Winne na Hadwin. Uboreshaji wa binadamu bado uliamua manufaa: waweka kodi wawili wa binadamu waliunganisha mapendekezo yanayokingana kama Upangaji dhidi ya Kuweka Malengo na Ufuatiliaji dhidi ya Tathmini, na kitabu cha mwisho cha kodi cha kujifunza kwa kujidhibiti kilikaa kwenye dhana 11 bila mifano iliyotungwa. Mtiririko ni ushirikiano badala ya uhamishaji, huku mfano ukipendekeza na binadamu wakiunganisha na kubadilisha majina.
-
 
 ## Nguvu na vikomo
 
@@ -106,40 +105,3 @@ Mbinu za kina na za kidadii ni za kukamiliana, si za kushindana — angalia [[re
 **"Kujaa ni sifa ya idadi ya washiriki."** Ni sifa ya uchanganuzi: unaacha data mpya zinapoacha kuzalisha kodi mpya. Tafiti mbili zenye ukubwa sawa wa sampuli zinaweza kuwa mbali sawa na kujaa, ndiyo sababu ripoti inayotaja idadi ya washiriki kama ushahidi wa utoshelevu haijaonyesha kitu kuhusu ufunikaji.
 
 **"Matokeo ya kidadisi na ya kina yanashindana."** Yanajibu maswali tofauti: dodoso linakuambia wanafunzi wangapi hawana imani na mwalimu wa AI, na mahojiano yanakuambia kwa nini. Kuyachukulia kama maelezo pinzani ya kitu kimoja huzalisha chaguo la uongo ambalo sehemu za mapitio huendelea kulizalisha.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## Makala Zilizounganishwa
-- [[chain-behind-claim-warrantability-2026]] — kiwango cha uwezo wa kuhalalisha kwa uchanganuzi wa kina unaosaidiwa na AI
-- [[liu-tool-tutor-crutch-programming-2026]] — Zana, Mwalimu, au Bakora: nadharia iliyojengwa kutoka kwa data ya programu inayosaidiwa na AI
-- [[trio-ethnography-llm-programming-education]] — Etinografia ya watatu ya mabadiliko ya tafsiri katika programu inayosaidiwa na LLM
-- [[absent-cognitive-baseline-2026]] — Kutambua pengo la kimuundo katika tathmini binafsi ya wanafunzi wa asili ya AI
-- [[t2i-competence-paradox-2026]] — Paradoksi ya uwezo katika matumizi ya GenAI ya maandishi-hadi-picha
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Pengo la uaminifu–matumizi katika elimu ya fizikia
-- [[genai-teacher-feedback-comparison]] — Kulinganisha maoni ya GenAI na ya mwalimu: mitazamo ya wanafunzi
-- [[hazra-safetutors-pedagogical-safety-2026]] — Usalama wa mwalimu wa AI na madhara ya kielimu
-- [[zha-ai-literacy-biology-case-study]] — Utafiti wa kesi wa umuunganishaji wa ujuzi wa AI katika darasa la biolojia
-- [[becker-chatgpt-typology-physics-2026]] — Taksonomia ya kina ya kupitisha ChatGPT katika fizikia
-- [[scaffolding-critical-engagement-genai-minority-students]] — Mazungumzo ya ushirikiano katika uhandisi wa ilani miongoni mwa wanafunzi wa makabila madogo
-- [[human-vs-llm-ordered-coding]] — Kulinganisha kuweka kodi kwa mpangilio kwa kibinadamu na LLM ya data ya kina
-- [[agreement-not-quality-llm-coding-verification]] — Kupatana si ubora katika kuweka kodi kwa kina kwa LLM
-- [[same-ai-different-pathways]] — Kufungua mifumo ya kujifunza kunakofuatiliwa na AI katika miktadha
-- [[drummond-genai-business-schools-framework-2026]] — Mfumo wa GenAI unaoelekezwa na mwanafunzi kupitia utafiti wa kesi
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Wataalam mahususi wa AI: kuwezesha au kuteka
-- [[genai-runaway-object-math-higher-ed]] — GenAI kama kitu kinachokimbia katika hisabati ya elimu ya juu
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI ya kusaidia kwa wanafunzi wenye matatizo ya kuona
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Ushiriki wa kihisia wa wanafunzi wa EFL katika uandishi unaosaidiwa na GenAI: utafiti wa kesi nyingi wa muda mrefu

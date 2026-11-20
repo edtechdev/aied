@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -69,24 +71,3 @@ Per il trattamento più completo del disegno sperimentale nell'IA nell'educazion
 - **«La randomizzazione garantisce una stima valida di ciò che lo strumento fa.»** La randomizzazione bilancia i confondenti; non garantisce che qualcuno abbia usato il trattamento. Una sperimentazione randomizzata per gruppi con bassa adozione stima **l'effetto dell'offrire** lo strumento, e intent-to-treat e treatment-on-treated rispondono a domande diverse.
 - **«Una sperimentazione grande è sempre il disegno migliore.»** Alcuni sostengono che le sperimentazioni convenzionali su larga scala **non riescano a tenere il passo di piattaforme di tutoring che cambiano sostanzialmente durante lo studio**, e usano invece disegni guidati dagli insegnanti che restano validi mentre il sistema evolve. Una sperimentazione su un bersaglio mobile può avere potenza adeguata e misurare comunque un sistema che non esiste più.
 - **«RCT ed evidenza osservazionale sono sostituibili.»** Un RCT con **1.174 partecipanti** ha rilevato che la GenAI ha **colmato circa tre quarti di un divario di produttività legato all'educazione** — un'affermazione causale precisa su uno specifico periodo. L'osservazione spiega il meccanismo e l'adozione; non può portare quella stima, e l'RCT non può spiegare il perché.
-
-## Concetti collegati
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — il disegno dietro l'evidenza più solida sul supporto agli studenti
-
-## Articoli collegati
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Il tempo di pianificazione delle lezioni è sceso a 0,76 di quello del gruppo di confronto in 108 scuole primarie, con una dose d'uso dello strumento del 7%
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Un esito misurato dopo un ritardo, non alla fine della sessione

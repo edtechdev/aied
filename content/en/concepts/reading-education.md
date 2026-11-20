@@ -18,6 +18,8 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 > **Reading education** — the teaching and assessment of reading: comprehension, fluency, vocabulary and the motivation to read, together with the design of texts at the right difficulty for a reader. In [[ai-education|AI in education]] the literature runs along four lines: tools that support readers while they read, tools that assess reading, tools that adapt or generate text for a reader's level, and the measurement question underneath all three — what makes a text hard, and whether **readability** captures it. Reading is a domain in its own right, distinct from [[language-learning|language learning]] (acquiring another language), [[english-education|English education]] (EAP/EFL/ESL, which carries its own reading-and-readability strand) and [[writing-education|writing education]] (composing text): it is about the reader's encounter with text. The evidence is promising but uneven — several pilots, a handful of validated instruments, and few controlled comparisons. Where only a small study exists, the evidence is reported as such.
@@ -93,33 +95,3 @@ Early-elementary fluency is the exception so far: in one school, first and secon
 - **"AI-generated text is easier because it is generated for a level."** The evidence runs the other way for model output: frontier models over-use constructions associated with comprehension cost.
 - **"Reading with AI is one behaviour."** The AIR scale finds four distinct motives, and they predict different kinds of use.
 - **"If AI can rewrite the text, reading level no longer matters."** Differentiation changes the support around a passage more than the passage's structural complexity, which is a different intervention from lowering its level.
-
-## Connected Concepts
-
-- [[ai-education]] — the umbrella this domain sits under
-- [[language-learning]] — L2 reading overlaps, but acquisition is the object there
-- [[writing-education]] — the composing side of literacy
-- [[english-education]] — EAP/EFL/ESL reading and readability
-- [[educational-nlp]] — the text-measurement layer readability depends on
-- [[assessment]] — reading assessment and score validity
-- [[motivation]] — why readers use AI, and what that does to processing
-- [[scaffolding]] — support layers in differentiated reading materials
-- [[neurodiversity]] — dyslexia and reading difficulty
-- [[accessibility]] — human-readable versus machine-readable text
-- [[generative-ai]] — the technology behind generated and adapted texts
-
-## Connected Articles
-
-- [[air-scale-motivations-ai-reading-2026]] — a validated scale of motives for reading with GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — AI-mediated reading assessment in an EFL classroom
-- [[genai-differentiated-eap-reading-materials-2026]] — differentiated EAP reading materials
-- [[llm-children-reading-story-generation]] — level-controlled children's reading stories
-- [[text-simplification-its]] — evaluating text simplification for tutoring
-- [[clara-developmental-appropriateness-children-stories-2026]] — developmental difficulty beyond readability formulas
-- [[bird-multimodal-educational-literature-2026]] — classifying literature by Key Stage
-- [[clark-ai-generated-language-readability-2026]] — why AI-generated language is harder to read
-- [[sidorkin-ai-generated-course-readings-2026]] — tailored AI-generated course readings
-- [[airri-machine-resistant-reading-interface-2026]] — machine-resistant reading interfaces and their readability cost
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — ChatGPT feedback in secondary reading
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI for learners with dyslexia
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — LLM use, note-taking and reading comprehension in secondary schools: the randomized comparison

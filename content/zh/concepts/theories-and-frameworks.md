@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -131,33 +133,3 @@ ai_assist:
 **"学习理论、学习者模型与采纳框架是可以互换的透镜。"** 它们回答不同的问题：学习如何发生、学习者的状态是什么、一种实践为何扩散，其证据类型也相应不同。选错层次会产出一项用正确变量去对上错误预测的研究，读起来像零结果，实则是范畴错误。
 
 **"框架越多，领域越成熟。"** 特为 AI 时代造出来的框架积累的速度快于被检验的速度，而没有证伪的积累是症状而非进步。成熟表现为相互竞争的预测被解决，而不是词汇的增长。
-
-## 关联概念
-
-- [[theory-development-aied]] — 在本领域中建构与修订理论
-- [[philosophy-of-ai-in-education]] — 规范性与概念性层面
-- [[learning-theories]] — 学习理论的总括
-- [[learning-sciences]] — 多数理论借自的相邻领域
-- [[limitations-in-aied-research]] — 证据基础能支持什么、不能支持什么
-- [[tpack]] — 教师知识框架
-- [[technology-acceptance-model]] — 采纳框架
-- [[item-response-theory]] — 一种测量模型
-- [[universal-design-for-learning]] — 一种设计框架
-- [[research-methods-aied]] — 理论如何被检验
-
-## 关联文章
-- [[genai-chatbots-language-learning-affordances-review-2026]] — 在一项 24 项研究的系统综述中，情感可供性被提议为第四类
-- [[ai-game-based-learning-systematic-review-2026]] — 在 55 项 AI 游戏化学习研究中，机制—理论一致性而非算法复杂度驱动了有效性
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — 通过 AI×Ed 框架看 AIED 的四十年
-- [[educating-minds-generative-ai-2026]] — 关于生成式 AI 与学习的重理论综述
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 活动理论应用于教师专业发展
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 活动理论与教师采纳
-- [[generativism-learning-theory]] — 为生成式 AI 时代提出的学习理论
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 走向认识论共同能动性理论
-- [[absent-cognitive-baseline-2026]] — 理论化 AI 原住民学生自评中的结构性缺口
-- [[yan-agentivism-learning-theory-ai-2026]] — 一种关于人机交互的中程学习理论
-- [[ai-literacy-instrument-development-systematic-review-2026]] — 一个年轻构念上的工具开发
-- [[mishra-control-vs-agency-history-2025]] — 本领域奠基性的"控制对能动性"张力
-
-- [[wells-genai-research-assistant-sociology-2026]] — 探索生成式 AI 作为本科社会学研究方法课程中的研究助手

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -72,36 +74,3 @@ ai_assist:
 - **"סטודנטים אינם מבחינים בין AI לבין עוזר הוראה אנושי."** מחקר על עוזר הוראה במעבדה וירטואלית מצא ש**עוזרי הוראה אנושיים מדויקים ויעילים יותר מ-ChatGPT**, ובכל זאת סטודנטים **העדיפו את תגובת ה-AI ב-40% מהמקרים** ויכלו **לזהות פלט AI רק ב-45% מהמקרים**. הזיהוי היה קרוב להטלת-מטבע וההעדפה נטתה למקור הפחות מדויק, ולכן נתוני שביעות-רצון אינם יכולים לעמוד כאן במקום איכות.
 - **"העדפה מעידה על איכות."** אותו מחקר מפריד ביניהן ישירות: הפלט המועדף היה הגרוע יותר. כל הערכה של כלי AI לביולוגיה שמדווחת שביעות-רצון של סטודנטים בלי מדד דיוק מדווחת את הכמות הלא-נכונה.
 - **"אוריינות AI חייבת להילמד כמקצוע נפרד."** הטמעת מושגי למידת מכונה **בקורס ביולוגיה בתיכון** מצאה שההקשר הביולוגי **תמך** בלמידת AI — עדות להטמעת אוריינות AI בתכנית הלימודים במקום הוספת יחידה עצמאית. תחום הדעת נתן למושגים משהו להיאחז בו.
-
-## מושגים קשורים
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## מאמרים קשורים
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — הערכת ביצועי מודל לשוני גדול בשאלות פתוחות: יכולות מענה ודירוג
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-- [[genai-socratic-tutor-biology-argumentation-2026]] — חיזוק מיומנויות טיעון בהתאמה ל-PISA בקרב מורות ביולוגיה עתידיות באמצעות בינה מלאכותית גנרטיבית

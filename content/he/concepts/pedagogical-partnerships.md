@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -87,7 +89,6 @@ ai_assist:
 - **[[educational-policy-ai|מדיניות חינוכית ב-AI]] ו[[governance|מינהל]]:** השותפות מתרחבת למדיניות ולמינהל, וממקמת תלמידים כיוצרי-משותפים של מדיניות AI ולא כנמענים פסיביים שלה.
 - **[[equity-in-ai-education|שוויון ב-AI בחינוך]] ו[[inclusive-learning|למידה כוללנית]]:** השותפות נטענת כצורה שווה יותר של השתתפות חינוכית, הממקמת קולות — במיוחד של תלמידים מורחבים-היסטורית או שוליים — שנאלצים להישאר מחוץ לקבלת החלטות חינוכית.
 
-
 ## עמדות מחקר מרכזיות
 
 - האם וכיצד שותפות משפרת [[learning-gains|תוצאות למידה]], [[student-engagement|מעורבות תלמידים]], [[motivation|מוטיבציה]] ותחושת שייכות.
@@ -113,37 +114,3 @@ ai_assist:
 - **"שותפות פירושה הרמת קול התלמיד."** שותפות פדגוגית היא **יחס חסום ומנוהל-משא-ומתן** עם תפקידים מוגדרים וחיוב הדדי, לא התייעצות. קול בלי תפקיד, בלי מנדט ובלי חלק בהחלטה אינו משנה דבר מבנית.
 - **"שותפות היא עמדה שאפשר לאמץ."** היא דורשת תנאים מוסדיים — זמן, הכרה לשותף-הסטודנט, ושינוי שהשותפים יכולים באמת להשפיע עליו. שותפות מוצהרת בלי התנאים האלה משחזרת את ההיררכיה שהיא טוענת להפריע לה.
 - **"חלוקת כוח אינה יכולה להיות פיתוח סגל."** טענת הספרות היא ששותפות היא פיתוח *מפני* שהיא משנה את הבנת המחנך דרך היחס. מסגור שלה כרווח לסטודנט בלבד משליך את המנגנון.
-
-## מושגים מקושרים
-- [[pedagogy]] — פדגוגיות ואסטרטגיות הוראה
-- [[collaborative-learning]]
-- [[agency]] — סוכנות הלומד
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## מאמרים מקושרים
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment design through co-creation: Student-staff partnership in evaluating AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — סטודנטים בנו חונך AI לעמיתים בקנה מידה של 710 סטודנטים: מעורבות גבוהה, ראיות למידה חקרניות (Zangari et al. 2026)
-
-- [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
-- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
-- [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use

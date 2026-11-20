@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -39,6 +40,3 @@ ai_assist:
 ## За кого е предназначен
 
 Изследователски ръководители, комитети и офиси по политики, които се нуждаят от основана на доказателства картина как AI се използва и [[governance|управлява]] в изследователска среда, и от начин да проследяват [[change-management|промяната]] във времето. Пакетът съпътства *Responsible AI in Academic Research: A Competency Framework for Research Training*, който определя пет измерения на готовността, и е написан от Майкъл Дж. Зифър, директор на Instats.
-
-## Свързани понятия
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

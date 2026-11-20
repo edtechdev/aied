@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -97,41 +99,3 @@ ai_assist:
 - **"סטודנטים מסתירים שימוש ב‑AI מפני שהם לא ישרים."** הגורמים מתועדים וספציפיים: רק **כ‑34% מסטודנטי הכלכלה הודו בשימוש ב‑AI**, עם גילוי נדיר יותר, מונע על ידי **חרדת ענישה**, בעוד מחקר אחר מצא ש‑**66% מעולם לא חשפו או חשפו לעתים רחוקות**, עם **פחד מענישה אקדמית כסיבה המובילה**. עיצוב המדיניות, לא האופי, הוא מה שהנתונים מאשימים.
 - **"דרישת גילוי היא בקרה זולה."** **שיעור אי-ציות של 74%** הופך את הרשומה הנוצרת לגרועה מהיעדר רשומה: זהו מאגר נתונים שנראה שלם ואינו כזה, ולכן המוסד מקבל החלטות על מדגם שאינו יכול לסמוך עליו.
 - **"לגלות כיצד המודל שימש זה מספיק."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] טוען שהגילוי מתעד שימוש במודל בעוד ששימוש אחראי דורש הרשאת-מחבר ברמת הטענה — היכולת של התורם להבין, להצדיק ולהגן על הטענות — ומפריד בין [[cognitive-offloading|האצלה קוגניטיבית]], שבה תוצרים מעצבים בחירות מהותיות, לבין האצלה שגרתית, שאינה עושה זאת.
-
-## מושגים מחוברים
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — הנזק שגילוי מיועד להפוך לגלוי
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — מדוע לומדים בוחרים להסתיר במקום לחשוף
-
-## מאמרים מחוברים
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — פיצול SEM: ודאות גילוי מול הסיכון שהצהרה חושפת שימוש לא הולם (Liu et al. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — הכיוון ההפוך: לומר לסטודנטים מתי AI מדרג את עבודתם, ולבקש הסכמה לפני העלאה
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — מעבר לגילוי: כיצד סטודנטים משתמשים ומסתירים בינה מלאכותית בהערכות מקוונות
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — גילוי בינה מלאכותית של סטודנטים, סטיגמה, ולמידה עצמית מוסדרת
-- [[vetter-hidden-cost-disclosure-genai-2026]] — העלות הנסתרת של גילוי: גילוי והאשמות סגל
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — אי-תאימות סטודנטים עם הצהרות שימוש בבינה מלאכותית
-- [[teichmann-detecting-undetectable-misconduct-2026]] — הצהרות כחינוך ולא כגילוי
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — עלות הכנות כסף עיצוב בהערכה
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — גילוי כגבול בין סיוע להצגה מוטעית לאורך 50 אוניברסיטאות אמריקאיות חדשניות (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — אין קונצנזוס על גילוי וציטוט בינה מלאכותית במדיניות בית ספר למשפטים (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — חיבורי קבלה שנכתבו בבינה מלאכותית נפוצים אך נענשים
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — שלושה-עשר ניסויים: גילוי שימוש בבינה מלאכותית מפחית את אמון-החושף, דרך לגיטימציה
-- [[authorial-warrant-ai-supported-scholarship-2026]] — When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — תוויות גילוי AI, אותנטיות נתפסת ואמון בסרטוני הוראה שנוצרו ב‑AI

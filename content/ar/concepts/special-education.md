@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -70,33 +72,3 @@ ai_assist:
 - **«[[usability-research|تقييمات قابلية الاستخدام]] تصادق على أداة مساعدة.»** صنّف الممارسون أداة قصة اجتماعية مصممة بالتشارك بأنها **شديدة القابلية للاستخدام (SUS 86.8)** ومع ذلك وصفوا **صورها بالغربية التعميمية** و**متعقّب سلوكها بأنه غير مطابق للحكم السريري المرتبط بالأهداف**. فالقابلية العالية للاستخدام تعايشت مع إخفاقات جوهرية، فدرجة SUS ليست تأييدًا للملاءمة.
 - **«المعايير العامة تخبرك كيف يتعامل مدرّس مع حالات التربية الخاصة.»** من بين **923 حوارًا مرتكزًا على حالات** مستمدًّا من أدبيات التربية الخاصة وعلم النفس التربوي، **حقّق أفضل 11 نموذجًا** معيارًا موثّقًا — و**السلوك الصعب هو حيث تتوقف معايير اختبار المدرّسين**. فالتقييمات المعيارية لا تبلغ الحالات التي يحتاج الممارسون المساعدة فيها أكثر من غيرها.
 - **«المتعلّمون النمائيون عصبيًا يحتاجون تكييفات لا متطلبات تصميم.»** وجد [[neurodivergent-computing-students|Zastudil et al.]] أن طلاب الحوسبة النمائيين عصبيًا يحتاجون **مهام منظّمة وفرقًا صغيرة متسقة وتعريفات أدوار صريحة** — وهي متطلبات تصميم عامة تنفع الجميع، لا تعديلات فردية تُمنح بعد التشخيص.
-
-## مفاهيم مترابطة
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## مقالات مترابطة
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: تقييم مدرّسي النماذج اللغوية الكبيرة مع طلاب ذوي سلوكيات صعبة (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — نموذج رؤية-لغة يخطط مهام Shoebox لإنسان آلي Nao (Kudláčková 2026)

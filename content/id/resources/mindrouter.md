@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,9 +48,3 @@ Komputasi riset dan kelompok IT pusat dengan kapasitas GPU yang ada, pusat penga
 ## Catatan dan peringatan
 
 Gratis dan sumber terbuka di bawah Apache-2.0, tetapi biayanya berpindah, bukan hilang: perangkat keras, listrik, dan waktu staf untuk menjalankan kluster. Perangkat lunaknya masih muda menurut standar infrastruktur — tiga kontributor, satu institusi asal, dan rilis bernomor dalam ratusan tag — jadi sebuah perguruan tinggi harus mengujinya di samping layanan yang ada, bukan sebagai satu-satunya jalur ke model. Evaluasi terbit tentang perilaku penjadwalan dan kuota di bawah beban kampus nyata tidak ada di repositori; makalah PEARC adalah tempat untuk mencari catatan penulisnya sendiri.
-
-## Konsep terkait
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

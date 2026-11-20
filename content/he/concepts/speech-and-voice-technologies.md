@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -105,38 +107,3 @@ AkoVoice מוסיף שני שיקולי שוויון שמתעוררים לעתי
 - **"שירותי דיבור בתשלום עולים על החינמיים."** **שני השירותים החינמיים החזירו תמלולים כמעט-מלאים (87.96% ו-88.34% כיסוי, עם שיעורי שגיאה במילה של 15.23% ו-15.00%)**, בעוד ששני השירותים בתשלום ייצאו רק תצוגות מקדימות, בכיסוי של 32%. המחיר לא ניבא תועלת, ושכבת התשלום חסמה את הפלט במקום לשפר אותו.
 - **"כל צ'אטבוט ללימוד שפה משפר הגייה."** לאורך **עשרה מחקרים**, **רק צ'אטבוטים שתוכננו ללימוד שפה — Andy English bot ו-Xiaoying — שיפרו דיוק**, עם **ירידה של 14% בשגיאות בקבוצת ביקורת אחת**. סוכנים שיחתיים כלליים לא הפיקו את הרווח.
 - **"רווחי ביטחון עצמי מעידים על רווחי מיומנות."** הקשר בין הטכנולוגיה לתוצאות היה חיובי עם **תיווך חלקי של ביטחון עצמי: המסלול העקיף היווה 69.9% מהאפקט הכולל בעוד שאפקט ישיר נותר**. רוב האפקט עבר דרך הביטחון, שהוא מנגנון וגם אזהרה.
-
-## מושגים מקושרים
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## מאמרים מקושרים
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Accuracy gains only from language-learning chatbots, and ASR failures on accented names
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A telephone voice agent turned on the feedback channel itself
-- [[asr-english-speaking-feedback-metacognition-2026]] — משוב דיבור ASR: איכות מנצחת כמויות, ומיומנות מתאמת מי נהנה (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — יעילות עצמית בהגייה מתווכת בין משוב הגייה של GenAI לנדינות לתקשר (1,701 לומדי אנגלית כשפה זרה)
-- [[llm-tts-dialogue-lesson-generation]] — צינור שיעור מודל שפה גדול + TTS: קריינות סינתטית שוותה לקול המרצה; דיאלוג סייע בהבנה
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — אינטראקציות סגנון-למידה × פורמט-דיאלוג בשיעורים הנוצרים על ידי TTS (222 סטודנטים)
-- [[ai-interlocutor-l2-spoken-dialogue]] — צדדים משיחים אנושיים לעומת בינה מלאכותית: מונולוג נתמך, גירוי ופריים סינטקטי בגרמנית כשפה שנייה
-- [[kutti-ai-voice-first-learning-companion]] — שותף למידה קולי-תחילה ולא-מקוון עם זיהוי מאבץ בזמן אמת עבור ילדים עם לקות ראייה
-- [[agent-voice-accents-k12-group-learning]] — מבטא הסוכן מעצב גשמות ושיתוף פעולה בעבודת קבוצה ב-K-12 (33 מורים)
-- [[asynchronous-oral-assessment-2026]] — הערכות בעל-פה אסינכרוניות: הערכה מדוברת נגישת-קנה-מידה, עם אזהרת רווחי-למידה
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — סקירה הבונה את הטענה למבחנים בעל-פה כהערכה אותנטית ושומרת-יושרה
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: הערכת קול לא-מקוונת בסדנאות מקצועיות שבהן בינה מלאכותית חושפת ראיות, לא ציונים
-- [[student-ai-interaction-consecutive-interpreting-2026]] — ארבעה פרופילי אינטראקציה בקרב מתמחים בתרגול תרגום בין-מלולי המשתמשים בתמיכת ASR/MT
-- [[gpt-item-generation-l2-listening-2026]] — הנחיה לעומת כיוונון-עדין של GPT ליצירת פריטי האזנה בשפה שנייה
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — מחווה בתוספת דיבור: מדוע הערכה בעל-פה של דיבור בלבד מפספסת ראיה להבנה
-- [[ai-guided-learning-audiovideo-2026]] — מהירות שמע מסתגלת, סיכומי וידאו שומרי-קול, ומשוב הגייה שאינו-מתויג
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — יצירת שאלות במודל שפה גדול עבור לומדים חירשים וכבדי-שמיעה
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability

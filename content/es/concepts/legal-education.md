@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -95,29 +97,3 @@ En un experimento en contexto jurídico, 186 personas legas que decidían sobre 
 - **«Las facultades de derecho han adoptado una postura.»** La mayoría adoptó **posturas generalmente prohibitivas**, explicadas a menudo como una forma de **ganar tiempo para estudiar la tecnología**, mientras que **casi todas las políticas se reservaban la discreción de cada docente**. Una prohibición con la posibilidad de que el docente la anule no es una postura adoptada: es un aplazamiento con un valor predeterminado.
 - **«La evidencia de las encuestas describe el campo.»** **La encuesta de la ABA de 2024 recibió respuestas de solo 29 facultades, en torno al 15% de las facultades aprobadas por la ABA**, y una encuesta de LexisNexis a **800** profesionales mide una población distinta. Ninguna de las dos puede tratarse como representativa de la educación jurídica, y ambas se citan como si lo fueran.
 - **«Retener una recomendación de la IA es neutral.»** En un experimento en contexto jurídico, **186 personas legas que decidían sobre casos civiles en un tribunal se plegaron a una posición de IA incorrecta mucho menos cuando el sistema retenía su propia posición (5,7-8,2% frente a 42,0-60,5%)**. Retener no produjo neutralidad; produjo una gran reducción de la deferencia, que es un efecto por derecho propio.
-
-## Conceptos conectados
-
-- [[academic-integrity]] — el marco de conducta aplicado al trabajo asistido
-- [[assessment-validity]] — si el desempeño asistido mide la competencia prevista
-- [[authentic-assessment]] — diseños que exigen análisis sin ayuda
-- [[ai-use-disclosure]] — normas de atribución y declaración todavía sin consenso
-- [[governance]] — la gobernanza del claustro y la creación de políticas tal como las practican las facultades de derecho
-- [[educational-policy-ai]] — la política institucional sobre IA como objeto de estudio
-- [[critical-thinking]] — el razonamiento que el método de casos debe construir
-- [[case-based-learning]] — el método de casos y la discusión de casos como pedagogía
-- [[socratic-method]] — diálogo que depende de la preparación del estudiantado
-- [[experiential-learning]] — clínicas y formación basada en la práctica
-- [[professional-training]] — la familia más amplia de profesiones habilitadas
-- [[career-development-and-readiness]] — la preparación para el ejercicio como propósito declarado
-- [[ai-literacy]] — la competencia tecnológica como deber profesional
-- [[hallucination-risk]] — las citas fabricadas como fallo característico del campo
-- [[legal-issues-and-risks]] — lo que afrontan las instituciones cuando falla la gobernanza
-
-## Artículos conectados
-
-- [[lorteau-sarro-ai-legal-education-2025]] — La inteligencia artificial en la educación jurídica: una revisión de alcance de 82 trabajos (Lorteau y Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparación de cinco factores de las políticas de IA generativa en facultades de derecho y un marco de gobernanza
-- [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing a ciegas sobre exámenes italianos de habilitación, judicatura y notaría, con referencia a la corrección experta
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la posición del sistema suprime la dependencia excesiva en decisiones de contexto jurídico sin construir juicio (personas legas, no estudiantes de derecho)
-- [[xie-genai-mystery-game-legal-education-2026]] — Juego de rol de misterio escrito por IA generativa frente a clase magistral: un ensayo aleatorizado (Xie et al. 2026)

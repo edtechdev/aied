@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,6 +62,3 @@ mereproduksinya di situs lain atau mengadaptasinya tanpa izin; mata kuliah yang 
 prompt yang diubah sebaiknya menulis versinya sendiri alih-alih mencetak ulang versi ini. Prompt setiap bab
 diuji lintas platform, meskipun buku ini tidak melaporkan perbandingan hasil yang terkendali, jadi
 perlakukan prompt-nya sebagai desain ahli alih-alih intervensi tervalidasi.
-
-## Konsep terkait
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

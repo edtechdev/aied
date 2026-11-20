@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -61,7 +63,6 @@ Pour les éducateurs, l'ensemble des données probantes penche vers une intégra
 
 La résolution de problèmes est le résultat appliqué de la [[critical-thinking|pensée critique]] et de la [[computational-thinking|pensée computationnelle]], et se cultive à travers les cadres de l'[[problem-based-learning|apprentissage par problème]] et de l'[[inquiry-based-learning|apprentissage par investigation]]. Elle dépend d'un [[scaffolding]] qui maintient la demande cognitive, de l'[[self-regulated-learning|autorégulation]] et de la surveillance [[metacognition|métacognitive]] pour éviter le [[cognitive-offloading|délestage cognitif]], et de structures [[collaborative-learning|collaboratives]] dans lesquelles humains et IA travaillent ensemble. La [[cognitive-psychology|psychologie cognitive]] et la littérature sur le [[transfer-of-learning|transfert de l'apprentissage]] fournissent le fondement théorique expliquant pourquoi les problèmes générés par l'apprenant et les retours réflexifs produisent des [[learning-gains|gains de résolution de problèmes]] plus durables. Le dosage entre exemples résolus et pratique pour acquérir de telles compétences est lui-même dépendant du contenu : [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] montrent que les compétences généralisables de résolution de problèmes s'apprennent le mieux par une pratique intégrant des exemples (alternant exemples résolus et problèmes), parce que les exemples résolus fournissent l'information inductive nécessaire pour acquérir et généraliser une règle correcte, alors que la pratique pure risque de renforcer des caractéristiques faussement corrélées plutôt que la procédure générale.
 
-
 ## Simuler la résolution de problèmes collaborative avec des agents LLM
 
 - **Simuler la résolution de problèmes collaborative avec des agents [[llm]] propres à chaque participant.** Fang (2026) entraîne des agents LLM individuels sur le dialogue réel des participants pour reproduire la résolution de problèmes collaborative, et valide les [[simulation|simulations]] par l'[[network-analysis|analyse de réseaux épistémiques]], montrant que les dialogues simulés et réels sont statistiquement indiscernables (distance ENA de 0,17 ; p de permutation = 0,65). Cela offre une manière évolutive d'étudier et de générer un discours authentique de résolution de problèmes collaborative — avec des implications tant pour la recherche que pour la conception d'environnements d'entraînement pour cette compétence du XXIe siècle.
@@ -94,27 +95,3 @@ La résolution de problèmes est le résultat appliqué de la [[critical-thinkin
 **« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un [[curriculum-design|curriculum]] qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
 
 **« La simulation de la résolution de problèmes collaborative se substitue à la collaboration. »** Une simulation reproduit le schéma d'interaction, et la compétence en jeu est la régulation d'un problème conjoint par des participants réellement présents. Les agents propres à chaque participant qui modélisent de vrais collaborateurs sont un instrument de recherche pour étudier cette régulation — utiles par ce qu'ils révèlent du processus, et non un moyen de donner aux étudiants la pratique sans les pairs.
-
-## Concepts liés
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Articles liés
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Profils d'interaction (raisonnement délégué contre interprétation concertée) et le compromis efficience–régulation
-- [[ai-assisted-collaborative-learning-model-dbr]] — Un modèle de recherche fondée sur la conception positionnant l'IA générative comme partenaire d'apprentissage intelligent
-- [[llm-critical-thinking-teamwork-review]] — Revue PRISMA des LLM favorisant la pensée critique, le travail d'équipe et la résolution de problèmes
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Soutiens adaptatifs issus de la fouille de séquences pour la résolution de problèmes collaborative
-- [[genai-assisted-problem-posing-physics-2026]] — La formulation de problèmes comme stratégie d'apprentissage autorégulé avec l'IA générative
-- [[genai-feedback-design-multisite-experiment]] — Les retours réflexifs/hybrides surpassent l'IA directe sur le transfert différé
-- [[dai-chatbots-problem-posing-primary-2026]] — Les chatbots améliorent la formulation de problèmes des élèves du primaire dans l'apprentissage par investigation
-- [[llm-computational-thinking-physics-2026]] — Les LLM comme évaluateurs évolutifs de la résolution computationnelle de problèmes en physique
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Soutien guidé par des règles contre soutien ad hoc dans un système de tutorat LLM pour les mathématiques du primaire (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

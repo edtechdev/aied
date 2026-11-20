@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -133,54 +135,3 @@ ai_assist:
 **"ডিটেক্টর যে প্রশ্নের উত্তর দেয় তা হলো, লেখা মানব না এআই।"** সেই দ্বিমুখী বিভাজন কেবল গণনা করা কঠিন নয়, ধারণাগতভাবে দুর্বল। লেখা-সহায়তা একটি ধারাবাহিকতায় থাকে, বেশিরভাগ প্রতিষ্ঠানের নীতি তার কিছু অংশ অনুমোদন করে, আর আউটপুট-স্কোরের কোনো সীমা কোনো রক্ষণযোগ্য সীমানায় মেলে না। মাপা ব্যর্থতাটি নীতি-ব্যর্থতা: ডিটেক্টর যে শ্রেণিগুলোর প্রতিশ্রুতি দেয়, সেগুলো শিক্ষার্থীরা প্রকৃতপক্ষে যা জমা দেয় তার মধ্যে নেই।
 
 **"শনাক্তকরণ-শাসন সততা রক্ষা করে।"** এটি তা ক্ষয় করতে পারে। শনাক্তকরণ সন্দেহের আবহ গড়ে, যা শিক্ষার্থী ও কর্মীর মধ্যে [[trust|বিশ্বাস]] ক্ষয় করে, আর এই কর্পাস যে [[academic-integrity|সততা]]-সাহিত্য প্রতিবেদন করে, তা টেকসই নিয়ন্ত্রণ-লিভার বসায় মূল্যায়ন পুনর্নকশায়, পাহারা দেওয়ায় নয়। অস্ত্র-দৌড়ের প্রক্রিয়াও মানে শাসনব্যবস্থা আরও বেশি খরচ করে অথচ কম মাপে: ভিত্তিরেখা-চিহ্নের হার সম্পাদনার তীব্রতা জুড়ে **0.0% থেকে 100.0%** পর্যন্ত বিস্তৃত, যা কোনো বৈষম্য-সংকেত নয়।
-
-## সংযুক্ত ধারণা
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55টি হিউম্যানাইজার সাইট বৈধতা অভিনয় করছে: শনাক্তকরণ ও এড়ানো একই বাণিজ্যিক বাজার (রো প্রমুখ ২০২৬)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — একটি প্রকল্পনা যে প্রয়োগ একাডেমিক পুঁজিতে ছাঁকনি দেয়, আচরণে নয়
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — আটটি এলএলএম ছয়টি প্রতারণা-প্রতিকার কৌশল ক্রমবিন্যাস করে; এআই শনাক্তকরণ সবার শেষে
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — কুড়ি মার্কার: অন্তর্দৃষ্টি, মৃত ডিটেক্টর ও বানানো তথ্যসূত্র
-- [[tench-ai-policy-isnt-a-playbook-2026]] — এআই-নীতির পরিধি, এজেন্সি ও পাঁচ শ্রেণিকক্ষ-পরিকল্পনা নিয়ে মার্কিন শিক্ষক ও অধ্যক্ষদের জাতীয়ভাবে প্রতিনিধিত্বমূলক সমীক্ষা (টেঞ্চ, ওয়াইনস্টাইন ও জেমস ২০২৬)
-- [[evaluation-age-ai-output-evidence-2026]] — এআই-এর যুগে মূল্যায়ন
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — ইকোপ্রম্পট: সুপ্ত-প্রম্পট পুনরুদ্ধার ডিটেক্টর
-- [[ivory-psychology-assessment-integrity-2026]] — শনাক্তকরণ ভুল লিভার: উত্তীর্ণতার সীমাই ঠিক করেছে এআই-কাজ অর্জন হিসেবে গ্রেড হবে কি না (আইভরি প্রমুখ ২০২৬)
-- [[llm-detecting-llm-generated-content-education]] — এলএলএম-উৎপন্ন বিষয়বস্তু শনাক্তে এলএলএম-এর মূল্যায়ন
-- [[beyond-detection-authentic-assessment-ai-2025]] — শনাক্তকরণের বাইরে: প্রামাণিক মূল্যায়ন
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই-যুগে দায়িত্বশীল মূল্যায়ন
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — সহ-লেখকত্ব সততা ও মূল্যায়ন-বৈধতা
-- [[student-rationalization-ai-writing]] — এআই-লেখার প্রতি শিক্ষার্থীর যুক্তিসঙ্গতকরণ
-- [[socially-fluent-ai-identity-detection]] — সামাজিকভাবে সাবলীল এআই পরিচয়-শনাক্তকরণ
-- [[ssaho-ai-academic-integrity-review-2025]] — এআই-ভিত্তিক চুরি/এআই-বিষয়বস্তু শনাক্তকরণের নির্ভরযোগ্যতা পর্যালোচনা
-- [[bassett-ai-detectors-education-2026]] — মাথা আমাদের, লেজ তোমার: শিক্ষায় এআই ডিটেক্টর (ব্যাসেট প্রমুখ ২০২৬)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — কেন ডিটেক্টর-আউটপুট অসদাচরণ-রায়ের ভিত্তি হতে পারে না
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — ধরার হার নয়, বৈষম্য, এবং নজরদারি কখন উল্টো ফল দেয়
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192 পাঠে Turnitin ও Originality: দুটিই 0.55-এর ম্যাক্রো F1-এর নিচে এবং সংকর লেখায় প্রায় অকেজো
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 160 ভিত্তিসত্য-গবেষণাপত্রের বিপরীতে চার ডিটেক্টর; কেবল প্যাংগ্রাম কাজ করেছে, তবুও জীবন্ত থিসিসের 45.5% চিহ্নিত করেছে
-- [[munoz-misconduct-allegation-evidence-2026]] — 1,162 বাস্তব অসদাচরণ-মামলা-নথিতে ডিটেক্টর-আউটপুট সর্বনিম্ন-রেটিংপ্রাপ্ত প্রমাণ-ধরন
-- [[wright-transcription-not-generation-2026]] — সর্বাত্মক "এআই-ব্যবহার" নিয়ম প্রতিলিপিকে উৎপাদনের সঙ্গে মিলিয়ে ফেলে
-- [[sharma-judgment-visible-genai-assessment-2026]] — শনাক্তকরণ দৃশ্যমান বিচারের পেছনে সম্পূরক স্তরে নামানো
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — সশর্ত সংকেত হিসেবে শনাক্তকরণ, এবং নিরাপত্তা-সাড়া কেন গঠন-অপ্রাসঙ্গিক ভিন্নতা যোগ করে (ভাইডলিশ ২০২৬)
-- [[ai-written-admissions-essays-penalized-2026]] — এআই-লিখিত ভর্তি-প্রবন্ধ ব্যাপকভাবে, কিন্তু দণ্ডিত
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — নয়টি ব্যাখ্যাযোগ্য শৈলীমিতিক বৈশিষ্ট্য: ROC-AUC 0.870, তবুও 18টি স্বাধীনভাবে লেখা নথির চারটি চিহ্নিত (কুমার প্রমুখ ২০২৬)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — এক মানব পাণ্ডুলিপি, পাঁচ ডিটেক্টর, "0% মানব" থেকে "Human Generated" পর্যন্ত শ্রেণিবিন্যাস, সঙ্গে শনাক্তকরণ থেকে নথিভুক্ত প্রাতিষ্ঠানিক পশ্চাদপসরণ (আঞ্জেলিয়ার ২০২৬)
-- [[argus-academic-integrity-genai-2026]] — আরগাস: জেনারেটিভ এআই-এর যুগে একাডেমিক সততা
-- [[student-llm-code-detection-cs1-2026]] — এলএলএম কোড কঠোরভাবে সীমাবদ্ধ কাজে একত্র হয় (প্রতি 1,000 ফাইলে 1-14টি AST রূপ), মুক্ত কাজে নয় — শনাক্তযোগ্যতা কাজ-নকশাকে অনুসরণ করে
-- [[kazakh-ai-text-detectors-2026]] — অপরীক্ষিত না মিথ্যা-অভিযুক্ত? কাজাখ ভাষায় এআই-উৎপন্ন পাঠ-শনাক্তকরণের মূল্যায়ন

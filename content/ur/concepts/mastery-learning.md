@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -68,23 +70,3 @@ Bloom کی مہارت پر مبنی سیکھنے نے تدریس کے مقصد �
 **"مہارت پر مبنی سیکھنا وہ تدریسات ہے جو AI نے آخرکار ممکن بنائی۔"** اُس کا طریقہ کار AI سے کافی پہلے کا ہے — Bloom نے یہ فریم ورک کئی دہائیاں پہلے باقاعدہ شکل دی — اور AI اُسے جانچ اور رفتار کے فیصلے خودکار بنا کر عملی بناتا ہے، نہ کہ کسی پہلے ناممکن ڈیزائن کو حقیقت میں بدل کر۔ یہ از سرِ نو تشکیل اِس لیے اہم ہے کہ خودکاری قاعدے کا انتخاب ورثے میں لیتی ہے، اور فیصلہ قاعدے میں ہی رہتا ہے۔
 
 **"مہارت کے تحت زیادہ بار بار جانچ حد کو زیادہ قابلِ اعتماد بناتی ہے۔"** کثرت اندازے کو بہتر کرتی ہے اور غلط بیان کردہ قاعدے کو درست نہیں کرتی۔ مدد والے کام سمیت واقعات سے مہارت کو زیادہ بار دوبارہ حساب کرنا اُسی غلط جواب تک زیادہ تیزی سے پہنچتا ہے۔
-
-## منسلک تصورات
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — مہارت کے چکروں میں مشق کا انجن بطور یاد آوری اور وقفہ
-
-## منسلک مضامین
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دینے والی حد سے زیادہ عامیت: انطباقی مہارت مشق اُس وقت روک سکتی ہے جب طلبہ ابھی نہیں جانتے کہ عمل کب روکنا ہے (An, McLaren اور Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — ذمہ دار، قابلِ تشریح سیکھنے والے کے ماڈل کے لیے گہری سیکھائی میں مہارت/عدم مہارت کے قواعد ڈالنا
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — مدد والے کام کو کریڈٹ دینا مہارت کو بڑھا دیتا ہے: کون سا شواہدی قاعدہ طے کرتا ہے کہ کسے مہارت یافتہ قرار دیا جائے (Srivastava 2026)
-- [[simulating-learner-task-selection]] — مہارت پر مبنی سیکھنے میں سیکھنے والوں کی کام منتخب کرنے کی حکمتِ عملیوں اور نظام کی قیدوں کی نقل (Noh وغیرہ 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — علم کی پیروی اگلے سیشن کی کارکردگی زیادہ بتاتی ہے اور وقفے کے اثر کو چھوڑ دیتی ہے (Schuetze, Yan اور Carvalho 2025)

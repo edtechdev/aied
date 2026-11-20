@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -57,29 +59,3 @@ ai_assist:
 - **"مستند ہونا کام کی خاصیت ہے۔"** مستند ہونا سرگرمی اور کسی حقیقی برادری کے جائز کام کے درمیان تعلق ہے۔ کوئی کام تفصیلی ہو سکتا ہے اور پھر بھی اسکول کی شکل کا ہو — استاد کی جانچ، گریڈ کے لیے، اُس دنیا میں کوئی نتیجہ نہ ہونے کے ساتھ جس کی وہ نمائندگی کرنے کا دعویٰ کرتا ہے۔
 - **"کام سے ابھرنے والی جانچ کا مطلب کوئی جانچ نہیں۔"** اِس کا مطلب ہے کہ معیار برادری کا ہے، کلاس روم کا نہیں: کیا یہ کام اُن لوگوں کے لیے قابلِ قبول ہے جو یہ کام کرتے ہیں۔ یہ ربرک سے مختلف اور عموماً زیادہ سخت معیار ہے۔
 - **"شاگردی کے لیے جسمانی ماحول ضروری ہے۔"** طریقہ کار جائز حاشیائی شرکت ہے — حقیقی ذمہ داری کے ساتھ مشق کے کنارے سے اُس کے مرکز کی طرف بڑھنا۔ آن لائن اور نقلی ماحول اِسے سہارا بھی دے سکتے ہیں اور شرکت کبھی دیے بغیر محض حاشیہ بھی بنا سکتے ہیں، اور فرق یہ ہے کہ سیکھنے والے کی شراکت واقعی استعمال ہوتی ہے یا نہیں۔
-
-## منسلک تصورات
-- [[learner-identity]] — بدلتی ہوئی شعبہ جاتی، پیشہ ورانہ، تخلیقی اور تعلیمی سیکھنے والے کی شناختیں
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — مستند سیاق و سباق تک رسائی کے راستے کے طور پر عمیق ماحول
-
-## منسلک مضامین
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — منظرنامے اور دوبارہ استعمال کے قابل ماخذ رکھنے والے اثاثے دو تجربات میں سادہ معاون سے بہتر ثابت ہوئے
-
-- [[vargas-situated-learning-ai-review-2024]] — تعلیم میں سیاق و سباق میں سیکھنے اور AI کا PRISMA منظم جائزہ (اِس صفحے کا بنیادی حوالہ)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM بطور تکراری تدریسی ڈیزائن کے ایجنٹ

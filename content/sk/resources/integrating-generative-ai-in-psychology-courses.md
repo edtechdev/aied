@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -93,9 +94,3 @@ Vyučujúci psychológie v akejkoľvek fáze kariéry a vyučujúci v príbuzný
 ## Poznámky a výhrady
 
 Bezplatné PDF, žiadny účet. Copyright patrí STP, nie licencii Creative Commons: osobné a triedne kópie sú povolené s uvedením zdroja, zatiaľ čo redistribúcia alebo komerčné použitie potrebuje povolenie autora. Kapitoly sú správy z praxe, nie štúdie — žiadne dizajny, vzorky ani veľkosti účinku — takže tvrdenia považujte za správy o skúsenostiach a citujte kapitoly jednotlivo.
-
-## Prepojené pojmy
-
-- [[social-sciences-education]] — klastrová stránka, ktorej sekciu psychológie tento zväzok napĺňa praxou na úrovni kurzov
-- [[ai-literacy]] — vývinové rámcovanie, ktoré editori dávajú zbierke
-- [[academic-integrity]] — téma kapitoly o politike a dôvod, prečo viaceré kapitoly kurzov zabudovávajú kroky overovania

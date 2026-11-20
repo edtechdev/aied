@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -125,31 +127,3 @@ Ulinganifu wa mbinu-hadi-nadharia unaweza kuwa wa kuamua hata hivyo: muunganisho
 **"Nadharia za kujifunza, mifano ya mwanafunzi, na miundo ya upokeaji ni lenzi zinazobadilishana."** Hujibu maswali tofauti, jinsi kujifunza kunatokea, hali ya mwanafunzi ikoje, na kwa nini mazoezi huenea, na aina zao za ushahidi hutofautiana ipasavyo. Kuchagua tabaka lisilo sahihi huzalisha utafiti unaopima kigezo sahihi dhidi ya utabiri usio sahihi, ambao husomwa kama tokeo la sifuri wakati ni kosa la kategoria.
 
 **"Miundo zaidi inamaanisha uwanja ulioiva zaidi."** Miundo iliyotungwa kwa zama za AI hukusanyika kwa kasi zaidi kuliko inavyojaribiwa, na mkusanyiko bila kukanusha ni dalili badala ya maendeleo. Uvumilivu huonekana pale utabiri unaopingana unapotatuliwa, si katika ukuaji wa msamiati.
-
-## Dhana Zilizounganishwa
-
-- [[theory-development-aied]] — kujenga na kubadilisha nadharia katika uwanja
-- [[philosophy-of-ai-in-education]] — tabaka ya kanuni na ya dhana
-- [[learning-theories]] — mwanya kwa nadharia ya kujifunza
-- [[learning-sciences]] — uwanja wa jirani ambao nadharia nyingi yanakopwa kutoka
-- [[limitations-in-aied-research]] — kile msingi wa ushahidi unaoweza na hauwezi kutegemeza
-- [[tpack]] — mfumo wa maarifa ya mwalimu
-- [[technology-acceptance-model]] — miundo ya upokeaji
-- [[item-response-theory]] — mfano wa upimaji
-- [[universal-design-for-learning]] — mfumo wa ubuni
-- [[research-methods-aied]] — jinsi nadharia inavyojaribiwa
-
-## Makala Zilizounganishwa
-- [[ai-game-based-learning-systematic-review-2026]] — Ulinganifu wa mbinu-hadi-nadharia, si ustadi wa algoriti, ulisukuma ufanisi katika masudio 55 ya kujifunza kwa michezo ya AI
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — miongoko minne ya AIED kupitia mfumo wa AI×Ed
-- [[educating-minds-generative-ai-2026]] — muunganisho uzito wa nadharia wa akili bandia ya kuzalisha na kujifunza
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — nadharia ya shughuli inayotumika katika maendeleo ya kitaalamu ya walimu
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — nadharia ya shughuli na upokeaji wa walimu
-- [[generativism-learning-theory]] — nadharia ya kujifunza iliyopendekezwa kwa zama za akili bandia ya kuzalisha
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — kuelekea nadharia ya ushirikiano wa maarifa
-- [[absent-cognitive-baseline-2026]] — kufafanua pengo la kimuundo katika tathmini binafsi ya wanafunzi wenye asili ya AI
-- [[yan-agentivism-learning-theory-ai-2026]] — nadharia ya kujifunza ya wastani kwa mwingiliano wa binadamu-AI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — maendeleo ya kifaa katika dhana mchanga
-- [[mishra-control-vs-agency-history-2025]] — mvutano wa msingi wa uwanja wa kudhibiti-dhidi ya wakala
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Uwezekano wa kihisia uliopendekezwa kama aina ya nne katika uainishaji wa uwezekano

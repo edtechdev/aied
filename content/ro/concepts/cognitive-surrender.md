@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -71,7 +73,6 @@ Citirea practică este că capitularea este un **eșec de discriminare**, nu un 
 
 Un experiment preregistrat al lui [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] furnizează o configurație contrastantă. Cu asistentul îngrădit prin [[rag|generare augmentată prin recuperare]] la fișa de lucru asignată, condiția IA a scăzut descărcarea cognitivă (mediană −0,27) în loc să o ridice, iar nicio cale de descărcare nu a purtat creșterea dezorganizării (0,84). Capitularea are nevoie de un asistent al cărui sfat poate fi adoptat în bloc; un sistem care răspunde doar din materialul prezent îi dă învățăcelului mai puțin de adoptat și mai mult de reconciliat.
 
-
 ## Capitularea în afara laboratorului
 
 Constatările de laborator se aliniază cu munca de teren și observațională care a ajuns independent la același cuvânt.
@@ -86,7 +87,6 @@ Constatările de laborator se aliniază cu munca de teren și observațională c
 - **Retragerea este jumătatea nerezolvată.** [[cognitive-washout-ai-skill-decay-2026|Lucrarea despre spălarea cognitivă]] arată că aproape toată această cercetare măsoară cogniția *în timpul* folosirii IA și aproape niciuna nu măsoară ce se întâmplă când asistentul este retras, exact întrebarea pe care o pune un examen, o pană de curent sau o revizuire a licenței.
 
 - **„Delegarea întregului eseu rămâne ipotetică în afara laboratorului.”** S-a întâmplat într-un studiu online de o singură sesiune, fără politică și fără încurajare. Dintre **77** de studenți scriitori, **15 (19,5%)** au trimis eseuri scrise **100%** de model, fără să tasteze un cuvânt în editor, iar **20** de participanți au cerut direct un eseu întreg, cel mai folosit cod din schemă. Cel mai intens utilizator a trimis **27** de interogări. [[jelson-students-chatgpt-essay-writing-2026|Capitularea a apărut ca tipar de cerere]], nu ca act unic detectabil.
-
 
 ## Proiectarea și predarea împotriva capitulării
 
@@ -114,39 +114,3 @@ Dovezile pentru capitulare ca construct numit se sprijină în mare măsură pe 
 **„Soluția este o IA mai bună, fiindcă capitularea decurge din erori.”** Capitularea decurge din *structura* interacțiunii: un sistem care produce mai întâi un răspuns plauzibil înlătură ocazia ca învățăcelul să producă unul. Îmbunătățirea acurateței reduce prejudiciul din răspunsurile greșite și nu face nimic împotriva abandonării formării unei judecăți, care este prejudiciul ce persistă după ce instrumentul dispare.
 
 **„Predarea evaluării critice este suficientă.”** Este necesară și sosește prea târziu. Odată ce un răspuns plauzibil este pe ecran, evaluarea devine confirmare - de aceea literatura de proiectare de aici pune încercarea elevului înaintea rezultatului sistemului, în loc să o auditeze după.
-
-## Concepte conexe
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Articole conexe
-
-- [[shaw-nave-cognitive-surrender-2026]] — Teoria celor trei sisteme și semnătura experimentală a capitulării
-- [[generative-ai-reduced-study-time-math]] — deplasare la nivel de populație în ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — cadrul capitulare/descărcare/autonomie în PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — asistență instrumentală versus asistență purtătoare de judecată
-- [[ai-advice-suppresses-ikt-suspension-2026]] — prăbușirea lui „nu știu”
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — angajament neural și autorie
-- [[genai-thoughtless-use-self-directed-learning-2026]] — folosirea fără gândire și învățarea autodirijată
-- [[stamatoulis-genai-use-patterns-2026]] — adoptare cu verificare scăzută versus integrare evaluativă
-- [[cognitive-washout-ai-skill-decay-2026]] — ce se întâmplă după retragere
-- [[ai-overreliance-complex-adaptive-system-2026]] — dependența ca proces populațional
-- [[brcic-effortless-trap-productive-struggle-2026]] — plasarea IA astfel încât sarcina să rămână efortuoasă
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — antrenamentul de calibrare
-- [[family-school-autonomy-support-genai-2026]] — descărcare dependentă versus autonomă
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un asistent limitat la fișa de lucru a scăzut descărcarea în loc să o ridice, o condiție-limită pentru semnătura capitulării (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Delegarea naturalistă a întregului eseu: 15 din 77 de eseuri scrise integral de model, 20 de cereri pentru un eseu complet (Jelson et al. 2026)
-

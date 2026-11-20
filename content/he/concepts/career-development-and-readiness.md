@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -71,37 +73,3 @@ ai_assist:
 - **"חרדת AI היא נטייה כללית שאפשר להרגיע."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] מאשרים ב‑SEM שחרדת AI **פוגעת בהחלטות קריירה בעיקר דרך שחיקת יכולת ההסתגלות הקריירתית (63.35% מההשפעה הכוללת)**. המנגנון ספציפי: החרדה פועלת על‑ידי הסרת היכולת להסתגל, ולכן הרגעה המכוונת לרגשות מפספסת את המתווך שנושא את האפקט.
 - **"הסתגלות קריירתית היא מיומנות רכה משנית לכשירות טכנית."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] מראה שהסתגלות קריירתית **מפחיתה חרדת AI**, מה שהופך אותה להתערבות במעלה הזרם ולא לתוצאה במורד הזרם. בניית הסתגלות מטפלת במנגנון; התייחסות אליה כאל נחמד-שיהיה משאירה את המתווך שלם.
 - **"החרדה מ‑AI מפוזרת באופן אחיד."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] מוצאים שחרדת AI וגישות שליליות ל‑AI מנבאות חרדת מציאת עבודה לאחר סיום הלימודים בקרב **1,057 סטודנטים**, עם דפוסים שונים ל**נשים ולסטודנטים למדעי החברה**. התערבות אחידה מקצה תמיכה שלא כהלכה.
-
-## מושגים קשורים
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — התוצאות הנובעות מסיום לימודים: התמדה, שימור, וסיום תואר
-
-## מאמרים קשורים
-
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
-- [[ai-free-gates-engineering-students-india-2026]] — משערים נטולי-AI לעבודה ראשונה ב-AI: כיצד סטודנטים להנדסה בהודו מנווטים אוניברסיטה והשמה ללא הנחיות AI
-- [[boyd-swan-employer-responses-genai-2026]] — ניסוי סקר עם ~1,750 אנשי גיוס אמריקאים: מסגור תחליף הוריד נכונות לראיון ולמשא-ומתן על שכר, בעיקר אצל מועמדים עם GPA גבוה (Boyd-Swan & Reynolds 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — שמונה קבוצות מיקוד: משתמשים זיכו יעילות וליטוש, לא-משתמשים זיכו מקוריות ועבודת צוות (אוטונומיה מסייעת מול יצירתיות אטית)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
-- [[post-covid-ict-career-aspirations]] — ICT career aspirations after COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — תחזיות סגל הן תחזיות, לא ראיה על תעסוקה
-- [[kong-ai-employability-cognitive-engagement-2026]] — מפת קונסטרוקטים של סקירה נרטיבית מלמידה נתמכת-AI לתעסוקותיות

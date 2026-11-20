@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -62,7 +64,6 @@ La GenAI destabilizza l'assunto che gli indicatori di presenza possano essere at
 
 - **Intervenire troppo prontamente** — in uno studio sulle discussioni online, i facilitatori esperti erano costantemente più cauti nell'intervenire rispetto ai giudici LLM, che erano eccessivamente desiderosi di facilitare; il miglior classificatore addestrato toccava comunque un tetto basso imposto dai dataset disponibili ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre e Pavlopoulos, 2026]]). La presenza didattica ridistribuita cambia quindi la soglia di intervento, e un modello interverrà dove una persona avrebbe atteso, che è la modalità di fallimento che un forum di discussione nota.
 
-
 Una revisione di scopo di 21 studi ha trovato l'evidenza disomogenea tra le tre presenze: la presenza sociale era esaminata in 13 studi, quella cognitiva in 10 e quella didattica in solo 5, e ogni studio sulla presenza didattica la esaminava insieme a un'altra presenza. La presenza cognitiva si concentrava nell'esplorazione e nell'integrazione, la risoluzione era la meno evidente, e i progetti basati sulla discussione o sul compito erano associati alla presenza cognitiva mentre gli agenti pedagogici e i progetti socialmente espressivi erano associati alla presenza sociale ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo & Park, 2026]]).
 
 Evidenze empiriche di rete si collocano ora sotto queste affermazioni: in un quasi-esperimento in cui 63 studenti undergraduate cinesi (33 con, 30 senza un chatbot GPT-4o mini) annotavano letture condivise su CollaboRead attraverso cinque compiti settimanali. L'[[network-analysis|analisi di rete epistemica]] ha mostrato la classe assistita legare la presenza sociale all'integrazione e alla risoluzione mentre la classe di controllo la legava all'evento scatenante e all'esplorazione (asse X U = 25,00, p = 0,01, r = 1,00; asse Y U = 13,00, p = 1,00, r = 0,04). L'engagement cognitivo ed emotivo [[self-report-measures|auto-riferito]] era più alto nella classe assistita. Le presenze poi si separano all'interno della condizione anziché tra le condizioni: i gruppi ad alto rendimento hanno avviato 1.407 richieste di feedback su 2.319 annotazioni (60,7%) contro 737 su 2.167 (34,0%) nel gruppo a basso rendimento, che è rimasto in un circuito auto-referenziale e ha sfruttato debolmente l'impalcatura.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
@@ -86,34 +87,3 @@ Gli stessi autori del framework forniscono una tassonomia di ruoli per quella co
 **«La presenza è distribuita in modo uniforme nella coorte.»** Essa si separa *dentro* la condizione anziché tra le condizioni. In un quasi-esperimento con **63 studenti undergraduate cinesi (33 con un chatbot GPT-4o mini, 30 senza)** che annotavano letture condivise attraverso cinque compiti settimanali, le presenze divergevano per rendimento del gruppo: i gruppi ad alto rendimento hanno avviato **1.407 richieste di feedback su 2.319 annotazioni (60,7%)** contro **737 su 2.167 (34,0%)** nei gruppi a basso rendimento. L'accesso allo stesso strumento ha riprodotto un divario già esistente nel comportamento sociale che il framework misura.
 
 **«Aggiungere un chatbot a un corso online aggiunge una presenza.»** Ne cambia la composizione. Il valore del framework sotto la GenAI è che rende visibile la sostituzione: una presenza soddisfatta da un modello è una configurazione diversa dello stesso costrutto, e i dati della coorte mostrano che la sostituzione ripaga in modo disomogeneo.
-
-## Concetti collegati
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## Articoli collegati
-
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Revisione di scopo su 21 studi: l'evidenza sulle presenze è disomogenea, la presenza didattica è la meno studiata, e la configurazione progettuale ordina gli esiti (Doo & Park 2026)
-
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
-- [[llm-facilitation-timing-online-discussions]] — Facilitatori umani versus LLM: i modelli intervengono più prontamente degli esperti umani (Tsirmpas et al. 2026)
-
-

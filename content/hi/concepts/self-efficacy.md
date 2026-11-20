@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -85,49 +87,3 @@ ai_assist:
 - **"कम आत्मविश्वास के साथ अधिक AI उपयोग एक हानिरहित सामना-रणनीति है।"** वही निष्कर्ष उस मार्ग को **कम अंकों** से जोड़ता है, इसलिए उस सामना-पैटर्न की मापने योग्य कीमत है, वह तटस्थ चुनाव नहीं है।
 - **"केवल साक्षरता आत्मविश्वास बनाती है।"** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] ने **450 विश्वविद्यालय छात्रों** का सर्वेक्षण किया जो पहले से ChatGPT का उपयोग करते हैं और पाया कि **विश्वास साक्षरता और आत्मविश्वास के बीच धुरी है**। मार्ग विश्वास से होकर जाता है, इसलिए विश्वास को संबोधित किए बिना साक्षरता बढ़ाना क्रियाविधि को अछूता छोड़ देता है।
 - **"विकलांग आबादी में स्व-प्रभावशीलता प्रोफ़ाइल एक समान होती हैं।"** स्पेन में **मोटर विकलांगता वाले 102 विश्वविद्यालय छात्रों** के गुप्त प्रोफ़ाइल विश्लेषण में **तीन प्रोफ़ाइल** मिलीं, जिनमें निम्न समूह **29.4%** था और शेष मध्यम तथा उच्चतर प्रोफ़ाइलों में बँटा था। समूह को एक आबादी मानकर देखना भिन्न प्रेरक अवस्थाओं का औसत निकाल देता है।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — सामाजिक-भावनात्मक सीखना
-
-## संबंधित लेख
-- [[confident-but-absent-ai-use-absenteeism-2026]] — सामान्य एआई उपयोग उच्च स्व-प्रभावशीलता और उच्च अनुपस्थिति के साथ चला, फिर भी स्व-प्रभावशीलता ने उपस्थिति की भविष्यवाणी नहीं की (Franco et al. 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — विद्यार्थियों के तर्क का समर्थन या प्रतिस्थापन? AI-सहायित प्रमाण अधिगम में संज्ञानात्मक ऑफलोडिंग (Chen et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — उच्च शिक्षा में एआई चैटबॉट: अपेक्षाओं की प्रमाणों से तुलना (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — तकनीकी निर्भरता बढ़ने के साथ आत्मविश्वास का बढ़ना: एआई-युग के एक भ्रमित करने वाले परिणाम के रूप में स्व-प्रभावशीलता (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — एआई-समर्थित ई-मेंटरिंग EFL पूर्व-सेवा शिक्षकों की स्व-प्रभावशीलता और भावनात्मक बुद्धिमत्ता बढ़ाता है (अर्ध-प्रायोगिक)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC उपलब्धता और छात्र स्व-नियमन
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — एआई साक्षरता, एआई तैयारी, और करियर अनुकूलनशीलता
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — एआई साक्षरता के लिए शिक्षक शिक्षा (SDT)
-- [[social-robot-study-companions]] — अध्ययन साथियों के रूप में सामाजिक रोबोट
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP ढांचा
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — जेनरेटिव एआई उपयोग के पैटर्न और शैक्षणिक स्व-प्रभावशीलता
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS स्केल; एआई साक्षरता पाठ्यक्रमों में सशक्तिकरण और नैतिक जागरूकता का पाठ्यक्रम-आधारित से संतुष्टि तक मध्यस्थता (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — प्रतिस्पर्धी प्रोग्रामिंग में छात्र अनुपस्थिति की भविष्यवाणी
-- [[genai-xr-architectural-design-education-2026]] — सहयोगपूर्ण वास्तुकला डिज़ाइन शिक्षा में जेनरेटिव एआई और विस्तारित वास्तविकता: एक अन्वेषणात्मक स्टूडियो अध्ययन
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — निरंतर ChatGPT उपयोग तक की क्रमिक श्रृंखला में एआई साक्षरता, विश्वास और शैक्षणिक स्व-प्रभावशीलता
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — गतिवायन संबंधी अक्षमताओं वाले विश्वविद्यालय छात्रों में शैक्षणिक स्व-प्रभावशीलता प्रोफ़ाइल और सूचित एआई उपयोग
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — बच्चों में जेनरेटिव एआई से सूचित रचनात्मक स्व-प्रभावशीलता वृद्धि (स्कोपिंग समीक्षा)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — बोलने की स्व-प्रभावशीलता एआई-सहायित अभ्यास से इच्छा तक के चिंता मार्ग को उलट देती है
-- [[faculty-ai-well-being-social-supports-2026]] — शिक्षक SEM: तकनीकी स्व-प्रभावशीलता एआई कल्याण का एक कमज़ोर भविष्यवक्ता
-- [[cen-self-efficacy-favorability-2026]] — स्व-प्रभावशीलता और अनुकूलता शिक्षण प्रणालियों और कागज़ अभ्यास से सीखने को आकार देती हैं (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — लेखन के लिए स्व-प्रभावशीलता पैमाने ने अधिक अनुवाद और समीक्षा प्रश्नों की भविष्यवाणी की, और नियोजन या पूरे निबंध के प्रत्यायोजन में कोई वृद्धि नहीं (Jelson एट अल. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — प्रौद्योगिकी-संवर्धित अधिगम में शिक्षार्थियों के अंतःक्रिया-चिह्नों से स्व-प्रभावशीलता विश्वास मापने के लिए मशीन लर्निंग का उपयोग
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — एआई स्व-प्रभावशीलता -> एआई साक्षरता -> एआई स्वीकृति, ज्ञान-मध्यस्थ हिस्से के मापन के साथ (İşbulan एट अल. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — शैक्षणिक स्व-प्रभावशीलता ने कम के बजाय अधिक एआई-अति-विश्वास का पूर्वानुमान लगाया
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — कथित उपयोगिता के लिए आवश्यक शर्त के रूप में स्व-प्रभावशीलता, बाधा-सीमाओं के साथ (Chu & Liu 2026)
-

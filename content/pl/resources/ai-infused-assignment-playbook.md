@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -47,16 +48,3 @@ Wykładowcy różnych dyscyplin, zwłaszcza w szkolnictwie wyższym i programach
 ## Uwagi i zastrzeżenia
 
 To przewodnik praktyczny, a nie badanie empiryczne; jego twierdzenia o korzystaniu z SI przez studentów opierają się na przywołanych źródłach zewnętrznych (BestColleges, Campbell, Digital Education Council, Flaherty), a nie na nowych danych. Ramy „budowania sieci” i ujęcie „iluzji rozumienia” pochodzą z szerszej literatury (Wigmore i wsp.; Williamson i wsp.) i są przedstawiane jako uzasadnienie pedagogiczne, a nie przetestowane wyniki samego podręcznika. Zadania są autorskimi szablonami — żadne nie jest opisane wraz z wielkością efektu, więc należy traktować je jako projekty do lokalnego zaadaptowania i oceny. Opublikowano 2026-10-07, wersja 1, na Zenodo na licencji CC BY 4.0; pobranie jest bezpłatne i nie wymaga konta. W momencie wprowadzania do bazy rekord ma tylko około 35 wyświetleń i około 14 pobrań, więc zewnętrzne użycie i recenzja są jeszcze nikłe.
-
-## Powiązane pojęcia
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

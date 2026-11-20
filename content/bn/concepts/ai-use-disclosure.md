@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -93,44 +95,3 @@ ai_assist:
 - **"শিক্ষার্থীরা অসৎ বলে এআই-ব্যবহার লুকায়।"** চালকগুলো নথিভুক্ত ও নির্দিষ্ট: **অর্থনীতির কেবল প্রায় 34% শিক্ষার্থী এআই-ব্যবহার স্বীকার করে**, প্রকাশ আরও বিরল, চালিত **শাস্তি-ভীতি** দ্বারা; আরেক গবেষণায় **66% কখনও বা বিরলভাবে প্রকাশ করে**, **একাডেমিক শাস্তির ভয় শীর্ষ কারণ**। তথ্য যে দিকে ইঙ্গিত করে তা নীতি-নকশা, চরিত্র নয়।
 - **"প্রকাশের দাবি একটি স্বল্প-খরচের নিয়ন্ত্রণ।"** **74% অননুগতি-হার** তৈরি রেকর্ডটিকে কোনো রেকর্ড না থাকার চেয়েও খারাপ করে তোলে: এটি এমন একটি ডেটাসেট, যা সম্পূর্ণ দেখায় কিন্তু নয়, ফলে প্রতিষ্ঠান এমন নমুনার ভিত্তিতে সিদ্ধান্ত নিচ্ছে, যাকে বিশ্বাস করা যায় না।
 - **"মডেল কীভাবে ব্যবহৃত হলো তা প্রকাশ করাই যথেষ্ট।"** [[authorial-warrant-ai-supported-scholarship-2026|মিরোনচুক (2026)]] যুক্তি দেন, প্রকাশ মডেল-ব্যবহার নথিভুক্ত করে, কিন্তু দায়িত্বশীল ব্যবহারের জন্য দাবি-স্তরের লেখক-অধিপত্র দরকার — অবদানকারীর সেই সক্ষমতা, যিনি দাবিগুলো বুঝতে, ন্যায্যতা দিতে ও রক্ষা করতে পারেন — যা [[cognitive-offloading|জ্ঞানীয় প্রতিনিধিত্ব]], যেখানে আউটপুট মৌলিক সিদ্ধান্ত গড়ে, থেকে রুটিন প্রতিনিধিত্ব আলাদা করে, যা করে না।
-
-## সংযুক্ত ধারণা
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — যে ক্ষতি প্রকাশ দৃশ্যমান করার কথা
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — কেন শিক্ষার্থীরা প্রকাশ না করে লুকাতে বেছে নেয়
-
-## সংযুক্ত নিবন্ধ
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — একটি SEM বিভাজন: শনাক্তকরণ-নিশ্চয়তা বনাম ঘোষণায় অনুচিত ব্যবহার প্রকাশের ঝুঁকি (Liu প্রমুখ 2026)
-
-- [[wu-lam-genai-writing-assessment-professors-2026]] — উল্টো দিক: শিক্ষার্থীদের জানানো কখন এআই তাদের কাজ গ্রেড করে, এবং আপলোডের আগে সম্মতি চাওয়া
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — শনাক্তকরণের বাইরে: অনলাইন মূল্যায়নে শিক্ষার্থীরা কীভাবে এআই ব্যবহার ও লুকায়
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — শিক্ষার্থীর এআই-প্রকাশ, কলঙ্ক ও স্ব-নিয়ন্ত্রিত শিখন
-- [[vetter-hidden-cost-disclosure-genai-2026]] — প্রকাশের লুকানো খরচ: প্রকাশ ও প্রশিক্ষকের অভিযোগ
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — এআই ব্যবহার-ঘোষণায় শিক্ষার্থীর অননুগতি
-- [[teichmann-detecting-undetectable-misconduct-2026]] — শনাক্তকরণের বদলে শিক্ষা হিসেবে ঘোষণা
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — মূল্যায়নে নকশা-সীমা হিসেবে সততার খরচ
-- [[student-perspectives-ai-writing-grading-2026]] — কে আমার কাজ গ্রেড করবে? উচ্চশিক্ষায় স্বচ্ছ এআই-সহায়ক লেখা-মূল্যায়ন নিয়ে শিক্ষার্থীর দৃষ্টিভঙ্গি
-- [[qian-governing-genai-higher-ed-policy-2026]] — 50টি উদ্ভাবনী মার্কিন বিশ্ববিদ্যালয়ে সহায়তা ও ভুল-উপস্থাপনের সীমান্ত হিসেবে প্রকাশ (কিয়ান 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — আইন স্কুল নীতিতে প্রকাশ ও এআই-উদ্ধৃতি নিয়ে কোনো ঐকমত্য নেই (গুটোভস্কি ও হার্লি 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — এআই-লিখিত ভর্তি-প্রবন্ধ ব্যাপক, কিন্তু দণ্ডিত
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — তেরোটি পরীক্ষা: এআই-ব্যবহার প্রকাশ করলে প্রকাশকারীর বিশ্বাসযোগ্যতা কমে, বৈধতার মধ্য দিয়ে
-- [[authorial-warrant-ai-supported-scholarship-2026]] — যখন প্রকাশ-নীতি যথেষ্ট নয়: এআই-সহায়ক পাণ্ডিত্যে লেখক-অধিপত্র ও বিচার (মিরোনচুক 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — এআই প্রকাশ-লেবেল, অনুভূত প্রামাণিকতা ও এআই-উৎপন্ন শিক্ষামূলক ভিডিওতে বিশ্বাস

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -119,43 +121,3 @@ ai_assist:
 **“任何模拟研究都可推广到临床实践。”** 本页所综述的证据基础（**19 项研究，N = 1,253，多为执照前学生**）主要基于课堂与实验室，而从模拟胜任力到受监督实践的转化，恰恰是 AI 辅助模拟本身不会排练的那一步。
 
 **“护理的 AI 胜任力意味着会操作工具，所以培训应当从工具开始。”** 框架文献走向相反。综述者发现被一致处理的维度是伦理知识、责任、应用与评价技能；技术与操作使用正是该领域最少发言的地方。一个先买工具许可证的项目，建的是地图上证据最薄的部分，而它可能用来替代课程的具名框架——N.U.R.S.E.S.、AI-ABCs 与 CARE——恰恰是那些没有评价方法的框架。
-
-## 关联概念
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## 关联文章
-
-- [[hardie-genai-nursing-scoping-review-2026]] — 护理教育中的应用、态度与伦理：一项 103 项研究的范围综述（Hardie 等 2026）
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — 学习者对生成式人工智能支持的护理模拟与技能训练的体验：一项元综合
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — 护理教育中 AI 的系统综述（2010–2025）
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理教育中的 AI 驱动模拟：混合方法系统综述
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、结构性缺口与职业认同的重构
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 经 TAM 看护理学生与教师的 AI 体验
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 健康科学学生中的 AI 认知与职业焦虑
-- [[genai-counter-learner-groupthink-2025]] — 用生成式 AI 对抗跨专业 PBL 中的群体思维
-- [[dabkowski-nursing-academics-genai-2026]] — 护理学者谈 GenAI：政策模糊、职业价值与向监考评价的漂移
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 护理评价中的远程监考：监控、公平与一个建立在感知上的威慑案例
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — 把护理 AI 能力框架映射为 12 个 KAS 子维度的范围综述
-- [[rony-nursing-educators-ai-tpack-2025]] — 孟加拉国护理教育者论 AI 就绪、障碍与数据治理：以 TPACK 解读
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 对 18 篇综述的伞形综述：伦理、课程转型与整合障碍
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — 护理学生谈 AI 使用的公开秘密：个性化学习、时间与数字鸿沟
-- [[agency-gap-ai-writing]] — 与医学和护理学生的随机对照试验：反应式与主动式智能体设计及主动性差距
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 名护理学生：GenAI 互动、教育性互动，以及一个恰好识别的中介模型
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — 对 Rony 等的已发表回应：机构生态、就绪度与 AI 监督
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — 教师与学生共同设计护理教育分析仪表盘
-- [[federated-learning-at-risk-student-prediction-2026]] — 跨健康专业项目的隐私保护风险预测，以及为何引入的阈值在护理中失灵
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -50,7 +52,6 @@ ai_assist:
 
 - **الوفرة ليست استخدامًا.** مع 406 طلاب في الصفوف 5–8 كتبوا مرتين، مرة بلا أدوات رقمية ومرة بالذكاء الاصطناعي التوليدي اختياريًا، انخفض إشباع الاستقلالية (Δ = −0.28) بينما بقي متوسط التنظيم مستقرًا، ولم تتنبّأ درجة استخدام الذكاء الاصطناعي بأي عضوية في ملمح ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder وGrahl (2026)]]).
 
-
 والاستقلالية، لا السهولة، هي ما حمل مكسب الدافع هنا. فقد وجدت [[rct|تجربة عشوائية مضبوطة]] بثلاثة أذرع أن مدرّساً يحجب التلميحات، فأبقى المتعلّمين يبنون حلّهم بأنفسهم، كان الذراع الوحيد الذي رفع الدافع الجوهري (2.82 مقابل 2.42)، بينما لم يفعله ChatGPT غير المقيَّد الذي يقدّم الإجابة (2.64، p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 ويشتدّ اختبار تكويني بالنقطة: فمن بين 498 طالباً جامعياً في الطب، كان استخدام الذكاء الاصطناعي التوليدي مرتبطاً بإشباع الحاجات ارتباطاً ضعيفاً فقط (β = 0.155) وثبت أنه غير لازم للمشاركة المرتفعة، بينما كان إشباع حاجة الكفاءة الشرط المحوري في أقوى تكوين ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
@@ -73,46 +74,8 @@ ai_assist:
 
 **الحاجات الثلاث لا تُمارَس بالتساوي في بحوث الذكاء الاصطناعي التوليدي.** صنّف [[pan-generative-ai-student-motivation-sdt-review-2026|Pan وAbuhassna وJiang (2026)]] 39 دراسة وفق تصنيف من 20 نشاطًا فوجدوا 14 نشاطًا حاضرًا، منها سبعة أنواع متعلقة بالكفاءة مقابل خمسة للاستقلالية واثنان للترابط. وقد غاب ستة أنشطة عن كل دراسة، ومعظمها يطلب من الطالب أن يحكم على الأداة أو يتحدّاها: ابتكار مسائل صعبة، وتوقّع مخرجات الأداة، وتصحيح تلك المخرجات، والمناظرة معها. والترابط هو الحاجة التي تختبرها الأدبيات أقل من غيرها.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«نوع الدافع أقل أهمية من مقداره.»** وجدت دراسة امتدّت عاماً **ثلاثة ملامح دافعية — المنقطع، والمتطوّر، والمحدَّد ذاتياً — مستقرة عبر الزمن**، وأظهر الطلاب الذين بلغوا الملمح **المحدَّد ذاتياً** **أعلى مكاسب في [[ai-literacy]]**. فجودة الدافع تنبّأت بالتعلّم، ولم تكن الملامح تنزلق صعوداً ببساطة.
 - **«دعم الاستقلالية يعني إزالة البنية.»** آلية SDT هي الاستقلالية والكفاءة والترابط معاً، ويُظهر الدليل الطولي أن إشباعها تنبّأ بالمكاسب لا أنه رافقها فحسب. فالاستقلالية بلا دعم للكفاءة تسامح، ولا تستوفي شروط النظرية.
 - **«[[conversational-ai|روبوت محادثة]] يستطيع توفير الحاجات الثلاث تلقائياً.»** وجدت دراسة أن ChatGPT قد يدعم الاستقلالية والترابط والكفاءة في تعلّم اللغات — وهو احتمال لا خاصية. فأي تفاعل بعينه يدعمها هو سؤال تجريبي عن كيفية استخدامه.
-
-## المفاهيم المرتبطة
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## المقالات المرتبطة
-- [[family-school-autonomy-support-genai-2026]] — دعم الاستقلالية بين الأسرة والمدرسة للاستخدام المسؤول للذكاء الاصطناعي التوليدي لدى الأطفال
-- [[dual-ai-learning-pathways-sdt-2026]] — ضغط المدرسة الثانوية/دعم الاستقلالية ومسارات تعلّم الذكاء الاصطناعي المزدوجة (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — تحليلات التعلّم والذكاء الاصطناعي التوليدي في صنع قرار تصميم التعلّم
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — تجارب الطلاب مع ChatGPT في تعلّم اللغة الإنجليزية
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — خصائص المتعلّم × تفاعلات صيغة الحوار TTS
-- [[liang-ai-learning-motivation-sdt-2026]] — تحليل الانتقال الكامن بـSDT لدافع تعلّم الذكاء الاصطناعي لدى الطلاب (2,086 طالباً في المرحلة الثانوية)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — دافع الطلاب وإشباع الحاجات في صفوف الذكاء الاصطناعي التوليدي (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — استخدام الذكاء الاصطناعي التوليدي مرتبط ارتباطاً ضعيفاً بإشباع الحاجات وغير لازم للمشاركة المرتفعة (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — مساران مزدوجان من تعاون المدرّس مع الذكاء الاصطناعي إلى المشاركة في العمل، مُعدَّلان بالكفاءة الرقمية
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — حجب التلميحات حافظ على الاستقلالية حيث لم يفعل تقديم الإجابة
-
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — وفرة الذكاء الاصطناعي، وانحدار الاستقلالية، والملامح الدافعية في الصفوف 5–8 (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 دراسة مصنَّفة وفق تصنيف من 20 نشاطًا؛ الكفاءة أكثر ما تُمارس والترابط أقل
-
-

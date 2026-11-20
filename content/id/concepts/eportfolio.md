@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -76,29 +78,3 @@ Karena e-portofolio mengedepankan **proses, refleksi, dan pemahaman yang ditunju
 **Bagi peneliti**
 
 - Rancang untuk isolasi komponen ketika mempelajari paket AI-plus-portofolio; jika tidak, bidang ini akan mengakumulasi efek kombinasi yang tidak dapat diuraikannya.
-
-## Konsep terkait
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Artikel terkait
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Persepsi siswa tentang pengembangan multiliterasi menggunakan penilaian portofolio berbantuan AI (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT yang diselaraskan dengan penilaian e-portofolio untuk berbicara EFL dan literasi umpan balik (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian berbasis portofolio dan kompetensi di era AI
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Penilaian autentik yang tangguh terhadap AI generatif, termasuk portofolio kontribusi sosial
-- [[beyond-detection-authentic-assessment-ai-2025]] — Portofolio beranotasi / pertahanan lisan sebagai penilaian yang tahan AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Portofolio Simbiotik bagi pembelajar hibrida
-- [[pbl-structural-conditions-ai-2026]] — Portofolio sebagai jawaban sebagian atas penilaian dalam skala besar
-- [[learn-framework-responsible-genai-pbl-2026]] — Portofolio pembelajaran personal sebagai jejak belajar yang dapat dinilai

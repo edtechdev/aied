@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -154,75 +156,3 @@ Dezvoltarea poate fi organizată și în jurul unui nucleu invariant și al unei
 **"Vinovăția legată de folosirea IA indică încălcarea regulilor."** Ea urmează ascunderea, nu dezvăluirea: limitarea folosirii IA din disconfort a corelat cu ascunderea ei, nu cu un comportament interzis. A citi vinovăția ca dovadă de conduită necorespunzătoare îi identifică deci greșit sursa, iar tratarea ei ca semnal de conformare va împinge comportamentul și mai departe din câmpul vederii.
 
 **"O rată scăzută de răspuns la sondaj înseamnă că profesorii nu au sentimente puternice."** Lucrarea își citește cele **109 răspunsuri (o rată de 3,5%)** ca informative în sine despre starea dezbaterii etice: un răspuns scăzut la o întrebare despre disconfort este o constatare despre acel disconfort, nu absența lui. Iar o integrare a GenAI încadrată pur ca perfecționare ratează întrebarea de identitate pe care unii profesori o pun de fapt: care este rostul predării într-o lume cu GenAI.
-
-## Concepte conexe
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Elicitarea metaforei și designul analogiei în dezvoltarea corpului didactic
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - Umbrelă: oameni și publicuri în educația cu IA (învățăcei, profesori, designeri, administratori, factori de decizie)
-
-## Articole conexe
-- [[jordan-faculty-ai-oer-creation-2025]] — De la prompt la practică: o inițiativă centrată pe cadre didactice pentru explorarea creării de OER sprijinite de IA (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analiză critică a discursului asupra sfaturilor de aliniere cu GenAI: dezvoltatorii reîncadrați ca formatori de tehnologie
-- [[crompton-faculty-technology-integration-standards-2026]] — Standarde pentru corpul didactic privind integrarea tehnologiei (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensiuni etice ale IA: viziunile corpului didactic și ale studenților
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Cum construiesc (și limitează) metaforele profesorilor de inginerie înțelegerea IA
-- [[fear-awe-genai-metaphor-workshops-2025]] — Teama și uimirea: înțelegerea IA generative prin metaforă (atelier de metafore pentru profesori, personal și studenți)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Patru criterii și patru metafore pentru predarea alfabetizării critice în IA
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Guvernarea nevăzutului: alfabetizarea în IA în rândul profesorilor de limbi
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI ca criză de identitate, nu ca decalaj de competențe
-- [[zuo-instructor-power-genai-writing-2026]] — Relații de putere percepute de instructorii universitari care se confruntă cu GenAI în scriere (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Modelul triunghiului reflexiv: IA ca mediator cognitiv
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Cunoașterea TPACK-21 autopercepută de corpul didactic pentru GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Dezvoltare profesională Intelligent-TPACK: prezența prezice câștigurile, participarea autopercepută nu
-- [[instructional-design-proficiency-masters-math-2026]] — Modelul sălii de clasă inteligente și bucla D-T-E care îmbunătățesc competența de design instrucțional la masteratul în matematică (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitectura rolurilor în activitățile de grup diferențiate proiectate cu IA (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiențele și percepțiile profesorilor universitari despre GAI: vulnerabilitate, regândirea evaluării, învățarea studenților în pericol (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — De la teamă la inovație: un institut de șase săptămâni pentru corpul didactic, pedagogia simbiotică și condițiile instituționale pe care nu le-a putut oferi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Complexul vinovăției legate de IA: vinovăție anticipatorie, ascundere și diferențe după etapa de carieră în rândul personalului academic (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Sondajul AAC&U/Elon pe 1.057 membri ai corpului didactic din SUA: nepregătire instituțională, guvernanță subțire și decalajul de politică de 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Dezvoltatorii academici ca mediatori digitali în învățământul superior din Sudul global: dezvoltarea ca praxis sociotehnic
-- [[physics-faculty-learning-community-ai-2026]] — O serie de ateliere pentru folosirea eficace a IA în vremuri incerte: construirea unei comunități de învățare a corpului didactic de fizică
-- [[faculty-ai-well-being-social-supports-2026]] — Starea de bine a corpului didactic legată de IA urmează alfabetizarea în IA, nu autoeficacitatea tehnologică
-- [[ai-competence-framework-landscape-2026]] — Verificați ce descriu nivelurile unui cadru înainte de a-l adopta
-
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Poate educația să stabilească agenda pentru IA? Inovație simulată și direcții pedagogice în formarea profesorilor
-
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 profesori de chimie într-un program de șase săptămâni
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Peste 150 de profesori de limbi din 28 de țări, pe 20 de săptămâni
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 profesori scandinavi; câștig de 0,20 SD în beneficiile percepute
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 de profesori după un program de învățare GenAI, cu nevoile medind implicarea
-- [[bodek-prompted-to-explore-microlearning-2026]] — un model de microînvățare pentru dezvoltarea cadrelor didactice în IA generativă
-- [[bursic-ai-residency-education-curriculum-2026]] — o rezidență în IA în educația medicală
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 de resurse; dezvoltarea educatorilor ca una dintre cele patru teme
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 de profesori care cer dezvoltare condusă de foști profesori
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% își califică personalul și cadrele didactice existente
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 de educatori care legitimează IA din umbră unde îndrumarea a lipsit
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — lacune de capacitate care declanșează dezvoltarea cadrelor didactice și decizii de angajare
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — dezvoltare repetată ca unul dintre cele cinci straturi de sprijin
-- [[chen-future-faculty-development-ai-2027]] — Șapte roluri didactice, două fundamente universale și echipa didactică drept unitate de dezvoltare
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Spațiul judecății, ancheta dialogică și un audit în trei coloane asupra locului unde judecata s-a mutat într-un instrument
-- [[jiang-faculty-development-japan-2027]] — Dubla pistă a dezvoltării profesionale în Japonia: participarea a crescut, formatele colegiale nu
-- [[tian-transnational-faculty-development-governance-2027]] — Dezvoltarea transnațională a cadrelor didactice: conectivitatea este episodică, coordonarea este munca
-- [[ho-invariant-core-faculty-development-2027]] — Nucleu invariant, margine schimbătoare: mecanismul învățării înaintea tehnologiei

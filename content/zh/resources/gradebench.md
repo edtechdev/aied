@@ -22,6 +22,7 @@ ai_assist:
 translation_of: resources/gradebench
 source_updated: "2026-11-17T13:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,9 +44,3 @@ GradeBench 就[[automated-assessment|自动化评分]]提出一个狭窄而有�
 ## 说明与注意事项
 
 GradeBench 由 Pensive 发布，这是一家商业 AI 评分平台，因此基准和产品属于同一个所有者；任务构造有文档记录且经得起检验，但要把它的框架当作厂商视角来看。它覆盖评分量规至少有四项的 STEM 考试，因而排除了论文、简答和讨论帖——也就是多数[[humanities-education|人文学科]]评分真正发生的那些形式。评分项精确匹配是一个严格的指标：两位评分者可能对某一项判断不同，却都对学生是对的。这些分数描述的是 2026 年 11 月可用的模型版本，并且会变化。
-
-## 关联概念
-
-- [[automated-assessment]] — 这项基准所衡量的实践
-- [[assessment-validity]] — 排行榜分数只是其代理的那个判准
-- [[benchmark]] — 它所属的那一类更广泛的工具

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -46,10 +47,3 @@ Aux apprenants autonomes qui travaillent sur des contenus difficiles, ainsi qu'a
 ## Notes et réserves
 
 La gratuité couvre le logiciel, pas l'inférence : les apprenants apportent leurs clés de fournisseur, un abonnement, une CLI Claude Code locale ou tout point de terminaison compatible OpenAI, et paient le fournisseur sans marge ; un compteur en direct estime uniquement les coûts d'API connus. Les enregistrements, les conversations et les clés restent sur la machine sous forme de fichiers simples, mais le projet avertit que le stockage local ne signifie pas un traitement hors ligne, puisque les requêtes au modèle, la dictée optionnelle et la recherche web atteignent toutes des services externes. L'installeur Windows x64 n'est pas signé, donc Windows affichera un avertissement. Aucune étude d'efficacité n'est rapportée, si bien que l'argument repose sur la justification énoncée plutôt que sur des résultats mesurés ; le dépôt comptait environ 4 800 étoiles lors de la vérification du 2 novembre 2026.
-
-## Concepts liés
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

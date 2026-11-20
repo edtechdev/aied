@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -86,32 +88,3 @@ El ABP se conecta con el [[active-learning|aprendizaje activo]], el [[experienti
 - **«Personalizar la herramienta mejora el resultado.»** El tipo de herramienta moderó el efecto de forma significativa (**QM = 14,301, p < 0,001**), y la dirección es contraintuitiva: un **chatbot general usado directamente agrupó más alto (g = 0,970)** que los sistemas **personalizados e integrados en plataformas de curso, pacientes virtuales o agentes (g = 0,455)**. La herramienta desnuda superó a la diseñada, lo que va en contra de suponer que los productos hechos a propósito son la mejor compra.
 - **«Lo difícil para el estudiantado es la apertura.»** En los datos de percepción del estudiantado, **la apertura fue el tema positivo principal (22,3%)** mientras que **las instrucciones poco claras encabezaron los negativos (23,7%)**. El estudiantado agradeció la libertad y objetó la ambigüedad, una distinción que importa porque la solución es distinta: un encuadre de la tarea más claro, no menos trabajo abierto.
 - **«Quienes disfrutaron aprendieron más.»** El aprendizaje percibido se correlacionó con las puntuaciones de los cuestionarios solo de forma **modesta (r = 0,161-0,315)**. La satisfacción y el aprendizaje medido se relacionan débilmente aquí, así que una evaluación positiva del ABP no es por sí misma evidencia de que se alcanzaran los objetivos de aprendizaje.
-
-## Conceptos conectados
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Marco general: pedagogías y estrategias docentes en la educación en IA
-- [[arts-and-media-education]]
-
-## Artículos conectados
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El aprendizaje basado en problemas y basado en proyectos como marcos prometedores para la educación apoyada por IA generativa: evidencia emergente de una revisión sistemática y un metaanálisis de tres niveles
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
-- [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Formación en alfabetización en IA para el profesorado
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
-- [[educational-robotics-pathways-2026]] — Trayectorias hacia el aprendizaje de la robótica educativa potenciada por IA (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — El ABP es una estrategia dominante de aprendizaje del pensamiento computacional
-- [[creative-project-approach-ai-early-childhood-2025]] — El Enfoque por Proyectos Creativo: agentes de IA y robótica dentro del Enfoque por Proyectos en la primera infancia (Yang, Li y Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD con agentes de IA en el ABP de software en equipo
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: un estudio de diseño inmersivo en RV con un agente docente integrado, evaluado frente al ABP tradicional (Jin et al. 2026)

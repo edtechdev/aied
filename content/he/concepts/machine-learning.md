@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -78,34 +80,3 @@ ai_assist:
 **"בינה מלאכותית יוצרת הפכה את למידת המכונה הקלאסית למיושנת בחינוך."** הן עושות עבודות שונות. חיזוי מצבי לומד, הערכת קושי פריטים ותחזית התקדמות נותרו בעיות למידת מכונה קלאסיות, והספרות של מעקב ידע וכיול פריטים שמאגר הידע הזה מתעד אינה נענית על-ידי מודל לשוני. בינה מלאכותית יוצרת היא תת-קבוצה של למידת מכונה ולא תחליף לה.
 
 **"הכשרת מורים צריכה ללמד סטודנטים על LLM במקום על למידת מכונה."** הגבלת האוריינות לשכבה היוצרת מותירה את העוסקים בתחום בלי יכולת לחקור את המערכות החזאיות שמקבלות החלטות על הסטודנטים שלהם — וזה בדיוק המקום שבו מתרכזות השגיאות בעלות ההשלכות.
-
-## מושגים מקושרים
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## מאמרים מקושרים
-
-- [[at-risk-students-ml-prediction]] — Supervised ML classification to identify students at risk of withdrawal
-- [[trace-course-grade-prediction-2026]] — Transformer jointly predicting courses and grades (TRACE)
-- [[precision-education-student-digital-twins-2026]] — AI-powered student digital twins for preventive, career-aligned pathways
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantics-constrained counterfactual recourse for actionable intervention
-- [[interactive-online-learning-ai-2025]] — DMO-GRU hybrid for interactive online-learning prediction
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS (BKT vs DRL)
-- [[pedagogical-safety-rl]] — Formal framework for pedagogical safety in educational reinforcement learning
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of deep-learning automated proctoring
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

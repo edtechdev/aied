@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -69,7 +71,6 @@ La théorisation du côté enseignant fait désormais le même engagement en fav
 - **L'agentivité épistémique relationnelle et la dépendance épistémique.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] proposent un compte rendu critique-intégratif des cas où la dépendance médiatisée par l'IA préserve le jugement plutôt qu'elle ne le déplace. Ils opérationnalisent la frontière entre dépendance productive et dépendance nuisible par six critères diagnostiques (contestabilité, récupérabilité, transfert, traçabilité, responsabilité distribuée, pluralité épistémique) et retracent quatre voies sociotechniques (autorité fluide, délégation sans friction, synthèse opaque, dépendance institutionnalisée). Leur proposition normative, l'**agentivité épistémique relationnelle**, prolonge les lignes de l'autonomie relationnelle et de la co-agency épistémique en conservant une asymétrie explicite — l'IA peut façonner le raisonnement sans responsabilité réciproque ni autorité légitime — tout en intégrant la responsabilité et la justice épistémique au niveau institutionnel. Comme théorie de l'apprentissage avec l'IA, elle fait passer la question du champ de « l'IA aide-t-elle ou nuit-elle ? » à « quelles actions épistémiques sont préservées, transformées ou déplacées ? », et elle fait de la *conception de la dépendance* plutôt que du simple usage l'objet de l'intervention pédagogique et institutionnelle.
 
 La production du modèle accède au statut de connaissance collective sans la garantie communautaire que ce statut exige — ce que Webb et coll. (2026) appellent le pseudo-cPCK, et la raison pour laquelle le domaine a besoin d'un nouveau construit théorique plutôt que d'une meilleure interface ([[webb-pck-genai-2026|Webb et al., 2026]]).
-
 
 ## Avancer la théorie établie
 
@@ -124,54 +125,3 @@ Le développement théorique et la [[philosophy-of-ai-in-education|philosophie d
 **« Appliquer une théorie établie à l'IA, c'est du développement théorique. »** Le problème d'usage de la théorie dit le contraire : l'application n'est pas un avancement, et le schéma récurrent du champ consiste à emprunter des construits pour s'en servir comme vocabulaire plutôt que comme prédictions testables. La distinction compte parce qu'un cadre emprunté incapable de produire une différence falsifiable est une décoration, pas une théorie.
 
 **« Les taxonomies existantes de la fonction pédagogique de l'IA couvrent déjà ce que font ces systèmes. »** Elles n'en couvrent pas grand-chose. Parmi 154 publications dotées d'une fonction d'application classable, **90 (58,4 %) échappaient aux quatre catégories** du cadre antérieur, ce qui explique pourquoi les travaux plus récents croisent la fonction avec le contrôle délégué, la position épistémique et la pédagogie intégrée. Une taxonomie qui classe mal près de trois cas sur cinq ne peut pas servir de vocabulaire commun au champ, et l'écart est un constat sur le phénomène plutôt qu'un défaut d'un article.
-
-## Concepts liés
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Articles liés
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Étendre la taxonomie fonctionnelle : 90 des 154 publications classables (58,4 %) tombent hors des quatre catégories d'origine (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée intermédiaire pour l'interaction humain-IA, avec quatre mécanismes et six propositions testables (Yan et Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : l'adaptation fondée sur la maîtrise peut interrompre la pratique avant que les apprenants ne sachent quand s'abstenir d'agir (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Le générativisme comme nouvelle théorie de l'apprentissage
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Vers une théorie de la co-agency épistémique
-- [[du-yuan-epistemic-dependence-2026]] — L'agentivité épistémique relationnelle et la frontière entre dépendance productive et dépendance nuisible (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — La ligne de base cognitive absente (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Les communs cognitifs et la régénération de l'expertise
-- [[genai-performance-vs-learning]] — Performance vs. learning
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI Literacy (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Gérance des diplômes et gérance cognitive
-- [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans la co-régulation
-- [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
-- [[strydom-human-gai-paradigms-2026]] — Sept paradigmes d'engagement humain-IAG ancrés dans les croyances épistémologiques
-- [[critical-thinking-paradox-genai-learning-2026]] — Le paradoxe de la pensée critique
-- [[dollinger-equitable-assessment-ai-2026]] — Évaluation équitable à l'ère de l'IA générative
-- [[shaw-nave-cognitive-surrender-2026]] — Théorie des trois systèmes et reddition cognitive : comment l'IA refaçonne le raisonnement humain (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualiser la communauté d'enquête à l'ère de l'IA générative
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Expériences et perceptions des enseignants du supérieur face à l'IAG : vulnérabilité, repenser l'évaluation, apprentissage des étudiants en péril (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors : schémas fondés sur des assertions pour un codage auditable des dialogues éducatifs
-- [[metacognitive-ownership-human-ai-regulation-2026]] — La propriété métacognitive : définition du construit, frontières et un programme de recherche
-- [[synthetic-position-self-authorship-2026]] — La position synthétique : une proposition issue du soi dialogique nommant la promotion synthétique et la suspension authoriale, avec une prédiction d'interaction croisée
-- [[capability-decision-model-teacher-readiness-2026]] — Modèle de préparation des enseignants falsifiable et centré sur la capacité, avec quatre conditions de désaveu
-- [[ai-connectedness-adolescent-mental-health-2026]] — La connexité à l'intelligence artificielle : un construit tridimensionnel avec six propositions falsifiables à tester ultérieurement
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Le cycle de partenariat cognitif
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Difficultés désirables et échec productif appliqués à l'agentivité interprétative dans les séjours d'études à l'étranger
-
-- [[webb-pck-genai-2026]] — Trois vignettes et un nouveau construit, le pseudo-cPCK, pour une production qui imite une connaissance collectivement validée sans garantie (Webb et coll. 2026)
-

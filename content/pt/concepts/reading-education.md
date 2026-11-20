@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -98,33 +100,3 @@ A fluência nos anos iniciais do fundamental é a exceção até agora: em uma e
 - **"Texto gerado por IA é mais fácil porque é gerado para um nível."** A evidência aponta na direção contrária quanto à saída de modelos: modelos de fronteira usam em excesso construções associadas a custo de compreensão.
 - **"Ler com IA é um único comportamento."** A escala AIR encontra quatro motivos distintos, e eles preveem tipos diferentes de uso.
 - **"Se a IA pode reescrever o texto, o nível de leitura deixa de importar."** A diferenciação muda mais o apoio em torno de uma passagem do que a complexidade estrutural da passagem, o que é uma intervenção diferente de baixar seu nível.
-
-## Conceitos conectados
-
-- [[ai-education]] — o guarda-chuva sob o qual este domínio se situa
-- [[language-learning]] — a leitura em L2 se sobrepõe, mas a aquisição é o objeto ali
-- [[writing-education]] — o lado da composição do letramento
-- [[english-education]] — leitura e legibilidade em EAP/EFL/ESL
-- [[educational-nlp]] — a camada de medição de texto da qual a legibilidade depende
-- [[assessment]] — avaliação de leitura e validade das pontuações
-- [[motivation]] — por que os leitores usam IA, e o que isso faz com o processamento
-- [[scaffolding]] — camadas de apoio em materiais de leitura diferenciados
-- [[neurodiversity]] — dislexia e dificuldade de leitura
-- [[accessibility]] — texto legível por humanos versus por máquinas
-- [[generative-ai]] — a tecnologia por trás dos textos gerados e adaptados
-
-## Artigos conectados
-
-- [[air-scale-motivations-ai-reading-2026]] — uma escala validada de motivos para ler com GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — avaliação de leitura mediada por IA em uma sala de aula de EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — materiais de leitura de EAP diferenciados
-- [[llm-children-reading-story-generation]] — histórias infantis de leitura com nível controlado
-- [[text-simplification-its]] — avaliar a simplificação de texto para tutoria
-- [[clara-developmental-appropriateness-children-stories-2026]] — dificuldade de desenvolvimento além das fórmulas de legibilidade
-- [[bird-multimodal-educational-literature-2026]] — classificar literatura por Key Stage
-- [[clark-ai-generated-language-readability-2026]] — por que a linguagem gerada por IA é mais difícil de ler
-- [[sidorkin-ai-generated-course-readings-2026]] — leituras de curso sob medida geradas por IA
-- [[airri-machine-resistant-reading-interface-2026]] — interfaces de leitura resistentes a máquinas e seu custo de legibilidade
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — feedback do ChatGPT na leitura no ensino secundário
-- [[dabaghi-ai-dyslexia-education-review-2026]] — IA para aprendizes com dislexia
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Uso de LLM, anotações e compreensão de leitura em escolas secundárias: a comparação randomizada

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,47 +78,3 @@ ai_assist:
 - **"নকশা শিক্ষার্থীরা উৎসাহী গ্রহণকারী।"** একই কোহর্ট দেখায় **71% প্রতিদিন বা সাপ্তাহিক GenAI ব্যবহার করেন, 65% তাতে অবিশ্বাস করেন, এবং 85% তার আউটপুট পরিবর্তন করেন**। ঘন ব্যবহার ও কম আস্থা একসঙ্গে থাকে, তাই যে সরঞ্জামের মূল্য-প্রস্তাব আস্থা ধরে নেয় সে ব্যবহারকারীদের ভুল পড়েছে।
 - **"GenAI সাধারণভাবে নকশা-প্রক্রিয়াজুড়ে সহায়ক।"** অনুদৈর্ঘ্য স্টুডিও-অধ্যয়নজুড়ে নির্মিত GAI-A প্ল্যাটফর্ম **কেবল দুটি উৎপাদনশীল ব্যবহার** পায়: প্রাথমিক ভাবনায় ভিজ্যুয়াল উদ্দীপক হিসেবে GenAI, এবং বিকাশের সময় সমাধান-ক্ষেত্রের **সমবায়-প্রসারক** হিসেবে। উপযোগিতা ছিল পর্যায়-নির্দিষ্ট।
 - **"সৃজনশীলতার লাভ মাপার জন্য অতিরিক্ত অস্পষ্ট।"** একটি **31-শিক্ষার্থীর উপদলে** সৃজনশীল-চিন্তার স্কোর **77.23 থেকে 94.68 (d = 0.82)**-এ বেড়েছে। লাভটি মাপযোগ্য এবং একটি উপদলে সীমিত, যা দাবিটির সৎ রূপ।
-
-## সংযুক্ত ধারণা
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: স্টুডিও-ফিডব্যাকের জন্য শিল্পকর্ম-সচেতন এআই সমালোচনা কর্মক্ষেত্র; অনুকরণ-ভিত্তিক প্রস্তুতি অধ্যয়ন, শিখন-লাভ নয়
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — একটি স্থাপত্য-নকশা পরীক্ষা যেখানে DALL-E 3 কার্যপ্রবাহ সাধারণ সৃজনশীল স্ব-কার্যকারিতা নামিয়ে আনে
-- [[human-ai-collaboration-design-education-rubric-2026]] — একটি প্রক্রিয়া-রুব্রিক এআই-যাচাইকে গ্রেডেড বস্তু করতে পারে
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — এআই প্রযুক্তিগত ব্যাঘাত-সচেতনতা, নকশা-চিন্তার মানসিকতা ও নকশা শিক্ষার্থীদের নকশা-উদ্ভাবন সক্ষমতা
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — নকশা শিক্ষার্থীদের এআই এজেন্ট ব্যবহারের অভিপ্রায়ে মনোভাবই প্রয়োজনীয় দ্বার, কাজ–প্রযুক্তি-উপযোগিতা দ্বিতীয় পথ হিসেবে (Chu ও Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — নির্ভরতার ধরন ঠিক করে প্রম্পট-সাক্ষরতা সম্পৃক্ততায় পরিণত হয় কি না

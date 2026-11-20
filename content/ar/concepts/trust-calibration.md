@@ -26,6 +26,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -133,7 +135,6 @@ contributors: [editor]
 
 المعايرة حالة لا نتيجة، والنتيجة التي تُجيزها لها صفحتها الخاصة. توثّق [[automation-bias]] الخطأ المحدّد، أي قبول حكم آلي دون فحصه: مدرّس يأخذ إشارة لوحة معلومات بقيمتها الظاهرة، أو مُقيّم يقبل درجة آلية على نص لم يُعِد قراءته.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 **«ثقة أكبر تعني استخداماً أفضل للأداة.»** تتباعد الثقة والمعايرة، والارتباط يسير في الاتجاه المعاكس. فمن بين **432 طالباً جامعياً** يحلّون مسائل بايثون باقتراحات دقيقة وأخرى مُضلِّلة عمداً، تنبّأت الثقة الأكبر بـ**اعتماد أقل ملاءمة** (**r = -.42**)، وقبل الطلاب **86.03%** من الاقتراحات المُضلِّلة. الثقة المعمّمة ليست الهدف؛ الثقة المطابِقة هي.
@@ -145,58 +146,3 @@ contributors: [editor]
 **«التحقق سهل، فالطلاب الذين يهتمون سيفعلونه.»** التحقق رخيص ونادر الإنجاز. ففي دراسة تتبّع سلبي لـ**900 أمريكي بالغ**، نقر القراء الذين رأوا ملخّصاً مُنتَجاً بالذكاء الاصطناعي على مصدر مذكور داخله في **1% من الزيارات** فقط، ونقروا على أي رابط نتيجة بنحو نصف المعدل مقارنة بمن لم يروا ملخّصاً. فالملخّص يكبح التحقق بدل أن [[prompt-engineering|يحفّزه]]، لذا يجب بناء التحقق في المهمة لا افتراضه من الاجتهاد.
 
 **«يمكن للقارئ الحصيف فصل العرض عن الجوهر.»** السيولة هي ما يكتسب ثقة غير مستحقة، ولهذا فالمعايرة مشكلة تصميم لا مهارة متعلّم فقط. فالنظام الذي تشير واجهته إلى السلطة سيُوثَق به على ذلك المستوى بصرف النظر عن التعليمات المخالفة.
-
-## المفاهيم المرتبطة
-
-- [[automation-bias]] — خطأ القبول الذي تُرخّصه الثقة غير المعايَرة
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## المقالات المرتبطة
-- [[children-verification-ai-suggestions-game-2026]] — سلوكيات التحقق لدى الأطفال في التعاون القائم على اللعب بين الإنسان والذكاء الاصطناعي
-- [[student-perspectives-ai-writing-grading-2026]] — وجهات نظر الطلاب في تقويم الكتابة الشفاف المعان بالذكاء الاصطناعي (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — المعايرة مُعاد تأطيرها: حجب موقف النظام وقائي لا تصحيحي
-- [[du-yuan-epistemic-dependence-2026]] — ستة معايير تشخيصية تفصل الاعتماد المثمر عن التبعية الضارة (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — معالجة الثقة في أنظمة الذكاء الاصطناعي عبر التعليم: منظور ديدكتيكي
-- [[pearls-epistemic-verification-2026]] — إطار PEARLS للفاعلية المعرفية والتحقق من مخرجات الذكاء الاصطناعي (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — دين الثقافة الفاعلية: الفجوة البنيوية في ثقافة الذكاء الاصطناعي الناتجة عن الوكلاء المستقلين (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — الثقة والاعتماد على الذكاء الاصطناعي في التعليم
-- [[calibrating-trustworthiness-llm-education-2026]] — معايرة الجدارة بالثقة: تصميم مقاييس بالتشارك للنماذج اللغوية الكبيرة في التعليم
-- [[llm-fallacy-misattribution]] — مغالطة النماذج اللغوية الكبيرة وإسناد الكفاءة الخطأ
-- [[ai-partner-science-epistemic-vigilance]] — اليقظة المعرفية كمفتاح للتعزيز المثمر
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — الاعتماد المفرط على الذكاء الاصطناعي مُصوَّراً كنظام معقّد متكيّف
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — معيوب لكن لا يُنسى: الاستقبال النقدي للطلاب لتشبيهات الذكاء الاصطناعي التوليدي المُخصَّصة حسب الاهتمام في تعليم الحوسبة
-- [[trust-calibration-chatbots-design-problem-2026]] — معايرة الثقة مُعاد تأطيرها كمشكلة تصميم: تصنيف ثنائي الأبعاد للمستخدمين وثماني فرضيات تصميمية (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — حقن الأوامر في التصحيح الوسيط بالذكاء الاصطناعي: أداة أخفت تحذيراتها وناقضتها (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — الاستدلال الخاضع للثقة والتقويم القابل للتفسير بحكم التصميم، مع ثقة تُركت دون قياس (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — ترشيح درجات الذكاء الاصطناعي بالثقة ومعدل الإيجابية الكاذبة الخاص به
-- [[bounded-reliance-ai-writing-feedback-2026]] — الاعتماد المحدود: منظور مصداقية المصدر لتفاعل متعلمي الإنجليزية كلغة أجنبية مع التغذية الراجعة الكتابية المُنتَجة بالذكاء الاصطناعي
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — الثقة في الأنظمة المُمكَّنة بالذكاء الاصطناعي: التعريفات والقياس وعوامل التصميم عبر 33 دراسة تجريبية (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — من التشخيص إلى التشخيص الفوقي: المدرّسون يُقيّمون الاستدلالات التشخيصية المُنتَجة بالذكاء الاصطناعي (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — مُحفّز تأمّل يخفض قبول النصيحة الخاطئة من الذكاء الاصطناعي (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — معايرة الثقة كوسيط في سلسلة من الدعم الظرفي إلى مكاسب النقل المدرَكة (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — الثقة كمحور من ثقافة الذكاء الاصطناعي إلى الاستخدام المستمر، تُضعَّف بقلق الذكاء الاصطناعي (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — تناوب الأدوار كهيكل للتعامل النقدي مع توصيات الذكاء الاصطناعي (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المُنتَجة بالذكاء الاصطناعي في مقررات علم البيانات
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — أداة موجّهة للطلاب تُصحّح الثقة في تقنيات التعليم بالذكاء الاصطناعي كأربعة عوامل، مع الثقة في مصدر الفائدة المدركة (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — كيف يصمّم الأطفال روبوتات محادثة جديرة بالثقة ويستدلّون عليها
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — عندما تتفق نصيحة الذكاء الاصطناعي مع الحكم البشري أو تخالفه: الثقة والكفاءة الذاتية والمرونة النفسية والاستجابات التكيفية في التربية البدنية
-
-- [[kim-overtrust-ai-literacy-2026]] — الثقة المفرطة ترتبط بالكفاءة الذاتية وتوقّع الأداء لا بثقافة الذكاء الاصطناعي لدى 300 طالب
-

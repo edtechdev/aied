@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -47,6 +48,3 @@ ai_assist:
 ## Σημειώσεις και επιφυλάξεις
 
 Ο ρυθμός είναι και το επιχείρημα και ο κίνδυνος. Οι κατασκευές μιας ημέρας στοχεύουν ένα πραγματικό πρόβλημα τάξης, όχι ένα ερευνητικό ερώτημα, οπότε τίποτα εδώ δεν φέρει αξιολόγηση και ένας ισχυρισμός για το τι κάνει μια εφαρμογή θα πρέπει να δοκιμαστεί στην τάξη. Τριάντα δύο δημόσια αποθετήρια βρίσκονται στον οργανισμό GitHub ενώ η γκαλερί απαριθμεί 34, όλα Apache-2.0 με διαθέσιμο πηγαίο κώδικα, ώστε μια εφαρμογή να μπορεί να διαβαστεί και να φιλοξενηθεί τοπικά. Ο τοπικά πρώτος σχεδιασμός είναι ισχυρισμός προς επαλήθευση ανά εφαρμογή, και ένας εκπαιδευτικός θα πρέπει να το επιβεβαιώσει πριν βάλει οποιοδήποτε εργαλείο για μαθητές μπροστά σε τάξη.
-
-## Συνδεδεμένες έννοιες
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -57,7 +59,6 @@ ai_assist:
 
 مسئلہ حل کرنا [[critical-thinking|تنقیدی سوچ]] اور [[computational-thinking|کمپیوٹیشنل سوچ]] کا عملی نتیجہ ہے، اور [[problem-based-learning|مسئلہ پر مبنی سیکھنے]] اور [[inquiry-based-learning|تفتیش پر مبنی سیکھنے]] کے فریم ورکس کے ذریعے پروان چڑھتا ہے۔ یہ ایسے [[scaffolding]] پر منحصر ہے جو علمی مطالبہ برقرار رکھے، [[self-regulated-learning|خود ضابطگی]] اور [[metacognition|میٹا کوگنیشن]] نگرانی پر تاکہ [[cognitive-offloading|علمی منتقلی]] سے بچا جائے، اور ایسی [[collaborative-learning|باہمی]] ساختوں پر جن میں انسان اور AI مل کر کام کریں۔ [[cognitive-psychology|علمی نفسیات]] اور [[transfer-of-learning|سیکھنے کی منتقلی]] کا لٹریچر اس بات کی نظریاتی بنیاد فراہم کرتا ہے کہ طالب علم کے پیدا کردہ مسائل اور غور طلب فیڈبیک زیادہ پائیدار [[learning-gains|مسئلہ حل کرنے کے فائدے]] کیوں پیدا کرتے ہیں۔ ایسی مہارتیں حاصل کرنے کے لیے حل شدہ مثالوں اور مشق کے توازن کا انحصار خود مواد پر ہے: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] دکھاتے ہیں کہ عام قابلِ منتقلی مسئلہ حل کرنے کی مہارتیں مثال سے جڑی مشق (حل شدہ مثالوں اور مسائل کو باری باری) سے سب سے بہتر سیکھی جاتی ہیں، کیونکہ حل شدہ مثالیں وہ استقرائی معلومات دیتی ہیں جو درست قاعدہ حاصل کرنے اور عام کرنے کے لیے درکار ہیں، جبکہ خالص مشق عمومی طریقہ کار کے بجائے جھوٹے طور پر باہم جڑی خصوصیات کو مضبوط کرنے کا خطرہ رکھتی ہے۔
 
-
 ## LLM ایجنٹس کے ساتھ باہمی مسئلہ حل کرنے کی نقل
 
 - **شریک سے مخصوص [[llm]] ایجنٹس کے ساتھ باہمی مسئلہ حل کرنے کی نقل۔** Fang (2026) حقیقی شرکاء کے مکالمے پر انفرادی LLM ایجنٹس کی تربیت کرتے ہیں تاکہ باہمی مسئلہ حل کرنے کو دوبارہ پیدا کیا جا سکے، اور [[simulation|نقلی ماحولوں]] کی تصدیق [[network-analysis|علمی نیٹ ورک تجزیے]] سے کرتے ہیں، اور دکھاتے ہیں کہ نقلی اور حقیقی مکالمے اعداد و شمار کے لحاظ سے ناقابلِ امتیاز ہیں (ENA فاصلہ 0.17؛ permutation p = 0.65)۔ یہ اکیسویں صدی کی اس مہارت کے لیے مستند باہمی مسئلہ حل کرنے کے مکالمے کو مطالعہ کرنے اور پیدا کرنے کا قابلِ پیمانہ طریقہ پیش کرتا ہے — جس کے مضمرات تحقیق اور مشق کے ماحول کے ڈیزائن دونوں کے لیے ہیں۔
@@ -90,28 +91,3 @@ ai_assist:
 **محققین کے لیے**
 
 - شریک سے مخصوص ایجنٹ نقلیں باہمی ضابطگی کے مطالعے کا ایک مضبوط آلہ ہیں۔ انہیں اسی طرح پیش کریں، نہ کہ بغیر نگرانی طلبہ کے باہمی تعاون کے بارے میں ثبوت کے طور پر۔
-
-## منسلک تصورات
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## منسلک مضامین
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — تعامل کے نمونے (سوپا گیا استدلال بمقابلہ مشترکہ تشریح) اور کارکردگی–ضابطگی کا تبادلہ
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR ماڈل جو جنریٹیو AI کو ذہین سیکھنے کے ساتھی کے طور پر پیش کرتا ہے
-- [[llm-critical-thinking-teamwork-review]] — تنقیدی سوچ، ٹیم ورک اور مسئلہ حل کرنے کو فروغ دینے والے LLMs کا PRISMA جائزہ
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — باہمی مسئلہ حل کرنے کے لیے sequence-mined موافق سہارے
-- [[genai-assisted-problem-posing-physics-2026]] — GenAI کے ساتھ خود ضابطہ سیکھنے کی حکمت عملی کے طور پر مسئلہ پیش کرنا
-- [[genai-feedback-design-multisite-experiment]] — تاخیری منتقلی پر غور طلب/مخلوط فیڈبیک براہ راست AI سے بہتر
-- [[dai-chatbots-problem-posing-primary-2026]] — چیٹ بوٹس تفتیش پر مبنی سیکھنے میں ابتدائی طلبہ کا مسئلہ پیش کرنا بہتر بناتے ہیں
-- [[llm-computational-thinking-physics-2026]] — فزکس میں کمپیوٹیشنل مسئلہ حل کرنے کے قابلِ پیمانہ جانچنے والے کے طور پر LLMs
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — ابتدائی ریاضی کے LLM ٹیوٹرنگ نظام میں قاعدہ سے رہنمائی یافتہ بمقابلہ ad-hoc سہارا (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

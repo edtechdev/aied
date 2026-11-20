@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -43,7 +44,3 @@ Den passer til undervisere og læringsdesignere, der vil have afgrænsede, genta
 ## Noter og forbehold
 
 Gratisniveauet er begrænset til 10.000 AI-kreditter og tre apps; ubegrænsede apps og avancerede modeller starter på Pro-niveauet, og LTI-integration, single sign-on og avanceret analyse er listet på Enterprise-niveauet, så de funktioner, en institution mest har brug for, er dem, der koster. Repositoriet er licenseret **AGPL-3.0** ifølge dets `LICENSE`-fil, hvilket betyder noget for alle, der vil selvhoste eller modificere det, og dets README siger stadig LGPL fra før den ændring, så læs licensfilen snarere end README'en. Institutioner bør også bekræfte deres egne databehandlingsvilkår, før de sender studerendes arbejde gennem en hostet tredjepartstjeneste.
-
-## Relaterede begreper
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

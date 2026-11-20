@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -78,39 +80,3 @@ AI採点は、高リスクな仕事において急速に進歩しています。
 - **「理科教育におけるAIには因果的な証拠がない」** GCSE理科のAI復習プラットフォームの**4週間のランダム化評価**は、**Hedges' g = 0.33**という因果的な推定を与え、効果が教科によって異なる証拠はありませんでした。効果は控えめであり、かつ因果的です。
 - **「アクセスを与えれば伸びはついてくる」** **伸びを駆動するのはアクセスそのものではなく、構造化されたアクセスです**。チームが報告した成長は、個人による無制限のアクセスでは平均**17%**でしたが、アクセスが構造化された場合は**34%と31%**でした。介入は構造でした。
 - **「科学のシミュレーションには専門的なソフトウェアが必要である」** **4要素の自然言語のプロンプト**が、**手で操作する拡張現実の物理シミュレーション**を生成できます。シミュレーション作成の障壁はプロンプト設計まで下がり、必要な技能はプログラミングから現象の特定へと移りました。
-
-## 関連する概念
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## 関連する記事
-
-- [[ai-methodologies-science-education-research-2026]] — AIの方法論が理科教育の研究をどう変容させうるかを省察するための7段階の認識論的な繰り返しの枠組み(Martinら2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — 理科と化学教育におけるAIのシステマティックレビュー
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAMにおける探究に基づく学習のためのChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 光合成と呼吸におけるAI支援を受けた誘導的な探究
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 熱と温度のための概念変化のテキスト対AI対話
-- [[ai-grading-handwritten-physics-2026]] — 手書きの物理の評価の大規模なAI採点
-- [[avraamidou-ai-colonization-science-education]] — 理科教育のAIによる植民地化についての批判的な論評
-- [[pre-service-science-teachers-ai-perceptions-2026]] — 養成段階の理科教師のAIに対する認識と受容
-- [[ai-assisted-inquiry-ssi-climate]] — 気候変動についての社会科学的な課題におけるAI支援を受けた探究
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 革新の速さでAI個別指導を評価する。GCSE理科におけるAI個別指導プラットフォームの実践者主導のミクロランダム化試験
-- [[llm-benchmark-secondary-science-topics-2026]] — 中学校と高校の理科の話題に対するLLMの理解のベンチマーク
-- [[nature-of-science-generative-ai-2026]] — 生成的人工知能の時代における理科の本質。認識論的な権威、物質性、そして相乗的な応答
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — カリキュラム、指導、評価の一貫性としての科学的リテラシーに関する枠組みの章（Zhai ら 2026）
-- [[ai-university-physics-education-review-2026]] — 大学物理のAIレビューでは、構造化されたチームアクセスが無制限の個人アクセスを上回った
-- [[genai-learning-motivation-meta-analysis-2026]] — 動機づけの区間がゼロを横切った唯一の領域（g = 0.109、k = 3）
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — 一般的な AI への慣れは GeoAI のレディネスに移らなかった
-

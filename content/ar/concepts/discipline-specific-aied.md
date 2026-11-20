@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -123,51 +125,3 @@ ai_assist:
 - **«المجال الدراسي يهمّ أساسًا في أمثلة المحتوى.»** وجد بحث على **560 طالبًا** أن الانتماء التخصصي **يتنبّأ بمدى تكرار استخدام الطلاب [[generative-ai|للذكاء الاصطناعي التوليدي]] ومدى علانية ذلك الاستخدام**. فالمجال يشكّل ما إذا كانت الأداة تُستخدم أصلًا وما إذا كان ذلك الاستخدام يُفصح عنه، لا فقط ما يُسأل عنه.
 - **«التعددية التخصصات هدف مؤسسي عام.»** **شكل «التعددية التخصصات» نفسه محدَّد بالمجال**: فقد وجد [[xia-ai-interdisciplinary-higher-education-review-2026|استعراض Xia وآخرين (2026)]] [[meta-analysis-systematic-review|المنهجي]] أن الصورة التي يتخذها تتنوّع بحسب الميدان. فالتعريف المؤسسي الواحد يقرأ بعض التخصصات التي يغطيها قراءة خاطئة على الأقل.
 - **«للتعليم المهني قاعدة بحثية مماثلة للتخصصات الأكاديمية.»** الخيط المهني **هو الأنحف في تلك الأدلة**: فاستعراض منهجي لـ**26 دراسة** في التعليم والتدريب المهني وجد **أيًّا منها لم يُجرَ في مواقع العمل** — المواقع التي تُمارَس فيها الكفاءة فعلًا. فغياب الأدبيات فجوة، لا نتيجة صفرية.
-
-## المفاهيم المتصلة
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## المقالات المتصلة
-
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — مراجعة منهجية للذكاء الاصطناعي في التعليم العالي متعدد التخصصات (59 دراسة)
-- [[llms-text-linguistics-teaching-2026]] — النماذج اللغوية الكبيرة في تدريس لغويات النص
-- [[fowlin-operationalizing-learning-principles-ai]] — تشغيل مبادئ التعلّم بالذكاء الاصطناعي في تعليم المهن الصحية
-- [[designing-ai-professional-development-itpack-2026]] — التطوير المهني في الذكاء الاصطناعي القائم على التكامُل الذكي-TPACK
-- [[teaching-the-teachers-genai-tpk-review-2026]] — المعرفة التقنية التربوية الخاصة بـGenAI في إعداد المعلّمين
-- [[human-centered-ai-teacher-educators-2026]] — التعلّم المهني في ثقافة الذكاء الاصطناعي النقدية لمُعِدّي المعلّمين
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — الإدراك التفسيري في تعليم العلوم الإنسانية والاجتماعية
-- [[becker-chatgpt-typology-physics-2026]] — تصنيف استخدام ChatGPT في تعليم الفيزياء
-- [[code-review-genai-cs1]] — مراجعة الشيفرة بـGenAI في CS1
-- [[ai-writing-support-stage-ownership-2026]] — دعم الكتابة بالذكاء الاصطناعي القائم على المرحلة والملكية
-- [[ai-engineering-education-balancing-act]] — عمل الموازنة للذكاء الاصطناعي في تعليم الهندسة
-- [[ai-literacy-career-adaptability-business-2026]] — ثقافة الذكاء الاصطناعي والقدرة على التكيّف المهني في تعليم الأعمال
-- [[jiang-genai-activity-theory-disciplines-2026]] — نظرية النشاط: الفروق المجالية في استخدام GenAI والإفصاح عنه (560 طالبًا)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — المحاكاة المدفوعة بالذكاء الاصطناعي في تعليم التمريض: مكاسب في المعرفة والثقة، وآثار غير متسقة على المهارة النفسية الحركية
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI سقالةً أو اختصارًا في تعلّم تقنية المعلومات للدراسات العليا
-- [[ai-vocational-education-training-review]] — أول مراجعة منهجية للذكاء الاصطناعي في التعليم والتدريب المهني
-- [[genai-architectural-design-studios]] — النماذج التوليدية في استوديو التصميم: المثير، وتوسيع فضاء الحلول، والتثبيت
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — قواعد إيقاف التمكّن التي تُصادق على قاعدة معمّاة تعميمًا مفرطًا بوصفها كفاءة

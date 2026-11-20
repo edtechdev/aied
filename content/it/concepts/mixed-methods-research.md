@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -75,26 +77,3 @@ I metodi misti si collocano tra le tradizioni [[quantitative-research|quantitati
 - **"I metodi misti sono una scelta di nicchia nella ricerca sull'IA in educazione."** Su **394 studi sull'IA generativa nell'istruzione superiore**, i metodi misti sono stati il **disegno di ricerca più comune (213 studi, 54%)**, seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%). Il disegno dominante del campo non è quello che i suoi dibattiti metodologici presuppongono.
 - **"Evidenza osservativa e di colloquio può sostenere un'affermazione di sistema."** Abbinare l'osservazione del sistema e le discussioni con gli [[administrator|amministratori]] a una **valutazione randomizzata quadriennale di 8.708 studenti su otto semestri**, potenziata per rilevare effetti di **0,05 deviazioni standard**, mostra ciò che il filone qualitativo non può fare da solo: rilevare in modo affidabile un effetto piccolo. Mescolare i metodi non è un modo per trasferire potenza tra i filoni.
 - **"La triangolazione significa che due metodi deboli producono un'affermazione forte."** Il valore dell'abbinamento è che ciascun filone risponde a una domanda diversa. Un disegno che esegue entrambi e poi riporta il risultato qualitativo come conferma di quello quantitativo non ha triangolato, ha ripetuto.
-
-## Concetti collegati
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Articoli collegati
-
-- [[genai-over-reliance-learning-2026]] — Dal potenziamento alla dipendenza eccessiva (indagini + colloqui)
-- [[t2i-competence-paradox-2026]] — Il paradosso della competenza (focus group + indagine + colloqui)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Lacuna fiducia–utilità (indagine + colloqui)
-- [[same-ai-different-pathways]] — Meccanismi dell'apprendimento mediato dall'IA tra contesti
-- [[genai-feedback-design-multisite-experiment]] — Progettazione di feedback di IA generativa centrata sull'essere umano (multisito)
-- [[hazra-safetutors-pedagogical-safety-2026]] — La sicurezza dei tutor di IA e i danni pedagogici
-- [[becker-chatgpt-typology-physics-2026]] — Una tipologia qualitativa dell'adozione di ChatGPT in fisica
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER e un RoBERTa sottoposto a fine-tuning hanno assegnato valenza opposta allo stesso post di Bluesky (Geraili Meykola et al., 2026)

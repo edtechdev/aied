@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -56,9 +58,7 @@ Nell'IA nell'educazione, il riscontro centrale è che il *formato* e l'*interatt
 
 I testi di confutazione sono un membro del kit di strumenti del cambiamento concettuale, accanto ad analogie, eventi discrepanti e dialogo interattivo. Il loro vantaggio è essere **scalabili, a basso costo e dimostratamente efficaci**; il loro limite è che i testi statici non possono adattarsi allo studente. Il dialogo con l'IA colma il divario di adattamento ma introduce una dipendenza dal progetto ([[personalized-learning|personalizzazione]], qualità dei prompt) e, in alcuni studi, nessun vantaggio rispetto a un testo ben costruito. La relazione tra testo di confutazione e dialogo con l'IA è quindi complementare: il testo offre una correzione di base affidabile su larga scala; il dialogo personalizzato con l'IA offre una correzione più forte, rapida e motivante quando è ben progettato.
 
-
 I due studi dietro quella dipendenza dal progetto differiscono per più del dominio. Corbett e Tangen hanno randomizzato 375 adulti dai 19 ai 78 anni e hanno preso di mira la misconception con il punteggio più alto di ciascun partecipante in un unico dialogo di tre turni; il vantaggio del dialogo rispetto alla confutazione da manuale scolastico si è mantenuto a 10 giorni ma era rientrato a due mesi ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett e Tangen, 2026]]). I 413 studenti di decima classe di Akdoğan ad Ankara hanno ricevuto una singola sessione con prompt scriptato anziché personalizzato, e la condizione interattiva non ha mostrato alcun vantaggio rispetto al controllo, mentre sia i testi scritti da esperti sia quelli generati dall'IA sì ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan, 2025]]). A separare i risultati sono la personalizzazione e la finestra di ritenzione, non l'interattività in quanto tale, e la curva di decadimento è il risultato pratico: un dialogo compra settimane di correzione, non un cambiamento duraturo delle convinzioni.
-
 
 ### Temi chiave della ricerca
 
@@ -81,23 +81,3 @@ Per gli educatori, i testi di confutazione restano un modo affidabile e a bassa 
 **«Più informazione sulla concezione corretta risolve la resistenza.»** Il volume di informazione corretta è proprio l'intervento che già fallisce. Il cambiamento concettuale richiede che il modello esistente di chi apprende sia reso esplicito e trovato insufficiente, che è una mossa didattica diversa dall'aggiungere prove.
 
 **«Misconception e ignoranza ordinaria richiedono lo stesso rimedio.»** Ne richiedono di diversi: l'ignoranza si affronta fornendo conoscenza, mentre una misconception va prima scalzata. Trattare la seconda come la prima è il motivo per cui una lezione ben spiegata può lasciare intatto il modello originale dello studente.
-
-## Concetti collegati
-- [[pedagogical-patterns]] — Sequenze di confutazione, inclusi due risultati direttamente in conflitto
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Articoli collegati
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. interactive AI dialogue
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training as an adjacent refutation-style intervention
-- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
-- [[ai-learning-companions-framework]] — AI companions and misconception correction

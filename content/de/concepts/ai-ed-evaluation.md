@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -116,68 +118,3 @@ Kontextkonditionierte Benchmarks sind nötig: [[zhang-tutormoments-2026|Zhang et
 - **„Das Bewertungskriterium ist eine Formalie."** Strenger Abgleich bewertete dieselben 2.250 Tutoringdialoge mit **42,1%**, wo ein menschlich kalibrierter LLM-as-judge **81,3%** vergab ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — das Kriterium verschiebt die Zahl stärker als das Tutor-Modell, die Strategie oder die Pipeline.
 - **„Erkennung und Generierung sind vergleichbare Fähigkeiten."** **Erkennung ist nicht Generierung.** Bei TutorCaseBench wählte das beste von **11 Modellen** in **63,0% der Vier-Optionen-Items** eine dokumentierte Strategie, erfüllte ein dokumentiertes Implementierungskriterium aber weit seltener. Die richtige Antwort unter vier auszuwählen und sie zu produzieren sind verschiedene Aufgaben.
 - **„Modell-Scores sind ohne validiertes Instrument bedeutsam."** Kursmaßgeschneiderte Prüfungen wurden für **71 Klassen** erzeugt und gegen von Menschen verfasste AP-Statistik-Items mit einem **bayesianischen hierarchischen 2PL**-Modell gebenchmarkt — das Instrument wurde angepasst, bevor die Scores interpretiert wurden.
-
-## Verbundene Konzepte
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
-- [[assessment-validity]] — Validität der Interpretation in der Evaluation von KI in der Bildung
-- [[educational-measurement]] — Messtheorie zur Bewertung von Lernen
-- [[psychometrically-aware-ai]] — Psychometrie auf KI-basiertes Assessment anwenden
-- [[benchmark]] — Standardisierte Benchmarks zur Bewertung von KI-Systemen
-- [[automated-assessment]] — KI-basierte Benotungs- und Bewertungssysteme
-- [[learning-analytics]] — Datengetriebene Analyse von Lernverhalten
-- [[research-methods-aied]] — Forschungsmethoden für KI in der Bildung
-- [[learning-gains]] — Messung von Lernzuwächsen durch KI-Werkzeuge
-- [[formative-assessment]] — Laufendes Assessment zur Steuerung des Unterrichts
-- [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
-- [[authentic-assessment]] — Assessment realer, übertragbarer Leistung
-- [[human-in-the-loop-ai]] — Menschliche Aufsicht über KI-Evaluation
-- [[trust-calibration]] — Vertrauen in KI-Systeme kalibrieren
-- [[hallucination-risk]] — Risiko erfundener Inhalte in KI-Ausgaben
-- [[intelligent-tutoring]] — Bewertung von KI-Tutoringsystemen
-- [[agentic-ai]] — Bewertung des Verhaltens autonomer KI-Agenten
-
-## Verbundene Artikel
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: Evaluierung von LLM-Tutoren an Lernenden mit herausforderndem Verhalten (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Diagnostizierung des pädagogischen Kontingenzverständnisses in Online-Tutoring-Videos
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Was Plattform-Scores vermissen lassen: mehrdimensionale Evaluation von KI-Lehragenten
-- [[assessment-latent-structure-human-llm-2026]] — Messen Assessment-Instrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Bewertung der Qualität KI-generierter Prüfungen: eine großangelegte Feldstudie
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolische pädagogische Ausrichtung (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — Dreistufiges Klassifikations-Benchmark für LLM-Tutoring-Agenten (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — Evaluation von VLMs auf DrawEduMath: Fehlerinhalte am schwersten (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking von pädagogischem Wissen von LLMs (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — Validierung LLM-basierter Unterrichtsbeobachtung: Verlässlichkeit vs. Genauigkeit (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-Premise-OER-KI-Wissensbasis-Assistenten: mehrdimensionale Evaluation
-- [[ground-truth-reliability-aied]] — Modernisierung der Ground Truth: Vier Verschiebungen zur Verbesserung von Verlässlichkeit und Validität
-- [[calibrating-trustworthiness-llm-education-2026]] — Kalibrierung der Vertrauenswürdigkeit: Metriken und Visualisierungen gemeinsam gestalten
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluation der Lehrfähigkeit von LLMs
-- [[machines-misread-pedagogical-quality]] — Warum Maschinen pädagogische Qualität falsch lesen: Mensch-Maschine-Ausrichtung
-- [[cong-confidence-asag-2026]] — Automatische Benotung von Kurzantworten mit LLMs
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop-Prompt-Engineering für formatives Assessment
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking von LLMs zur Diagnose kognitiver Fähigkeiten von Lernenden
-- [[tutoring-effectiveness-index]] — Der Tutoring Effectiveness Index: Vorhersage der Qualität von Mathematik-Tutoren auf LLM-Basis
-- [[jeon-isd-agent-bench-2026]] — ISD-Agenten-Benchmark
-- [[tool-invariant-framework-agentic-ai]] — Ein werkzeuginvariantes Rahmenwerk für das Lehren und Bewerten rechnerischer Methoden
-- [[valid-student-simulation-llm-2026]] — Auf dem Weg zu gültiger Simulation von Lernenden mit großen Sprachmodellen
-- [[llm-difficulty-calibration-programming-exams-2026]] — Von evaluierten Modellen zu Evaluationshilfsmitteln
-- [[socratic-tests-conversational-assessment]] — Das theoretische Fundament sokratischer Tests
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
-- [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen
-- [[genai-educational-outcomes-meta-analysis]] — Metaanalyse der Bildungsergebnisse generativer KI
-- [[zhang-tutormoments-2026]] — Wenn Hilfe nicht hilft: Evaluation von KI-Tutoren für produktives Ringen
-- [[elbench-education-llm-benchmark-2026]] — ELBench: Bildungs-LLM-Benchmark
-- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillierung eines selbst erklärenden LM für Learning Analytics
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytische Evaluation von adaptiver + KI-Bildungstechnologie
-- [[xiong-ai-educational-measurement-review-2026]] — Die Rolle der KI über Benotung, Psychometrie und Assessment hinweg
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluation von KI-Tutoring im Tempo der Innovation: von Praktikerinnen und Praktikern geleitete mikrorandomisierte Studien einer KI-Tutoring-Plattform im GCSE-Naturwissenschaftsunterricht
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: prozessbasierte Qualitätsbewertung von Mathematikaufgaben
-- [[durable-skills-measurement-ai-teammates-2026]] — Auf dem Weg zur skalierbaren Messung dauerhafter Kompetenzen
-- [[pivot-generative-video-tutors-stem-2026]] — Von der Inhaltserzeugung zur Lernunterstützung: pädagogisch geführte generative Video-Tutoren für das Lernen in MINT
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen gleichwertige GRE-Lernzuwächse
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken verfehlen: eine strukturelle Prüfung synthetischer Bildungsdaten
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle zur pädagogischen Bewertung neuartiger KI-gestützter Bildungsfragen
-- [[llm-judge-evaluation-educational-ai-2026]] — Wenn Bewerter „Wolf" rufen: Lehren aus der LLM-as-Judge-Evaluation im Produktionseinsatz im Bildungsbereich
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Eine bibliometrische Karte kann aufdecken, was eine Evaluationskultur belohnt
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: Evaluationskriterien prägen den gemessenen Erfolg im LLM-Mathematik-Tutoring (Lee et al. 2026)

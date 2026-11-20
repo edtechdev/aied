@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -69,45 +71,3 @@ Knowles-এর অ্যান্ড্রাগজিক্যাল মডে�
 - **"একটি ভালো সরঞ্জামই প্রাপ্তবয়স্ক শিক্ষার্থীদের জন্য যথেষ্ট।"** গবেষণায় দেখা গেছে **কোনো একক প্রাপ্তবয়স্ক-শিখন এআই ব্যবস্থা সব নকশা-নির্দেশিকা পূরণ করেনি** — সম্পূর্ণ ইকোসিস্টেম দরকার ছিল। প্রাপ্তবয়স্করা দায়িত্ব, বিরতিহীন সময়সূচি ও ভিন্ন ভিন্ন লক্ষ্য নিয়ে আসেন, তাই একটি একক পণ্য পুরো নকশা-ক্ষেত্র ঢাকতে পারে না।
 - **"'প্রাপ্তবয়স্ক' স্তরে ডিজিটাল সাক্ষরতা ধরে নেওয়া যায়।"** [[community-centered-ai-education-adults|মিডওয়েস্টার্ন একটি কেস স্টাডি]] একটি অবহেলিত সম্প্রদায়ের **54 জন প্রাপ্তবয়স্কের** জন্য এআই-সাক্ষরতা কর্মসূচি সহনকশা করে দেখে, সমতা-মুখী প্রাপ্তবয়স্ক এআই শিক্ষাকে **প্রথমে মৌলিক ডিজিটাল সাক্ষরতা ও তথ্য-আস্থা মোকাবিলা করতে হবে**। বয়স ডিজিটাল দক্ষতার প্রক্সি নয়।
 - **"গ্রহণ একটি অনুপ্রেরণার সমস্যা।"** [[ai-literacy]] ও তথ্য-গোপনীয়তা ঘিরে [[trust|আস্থা]] গড়া গ্রহণ প্রত্যাশার আগে আসতে হবে। ইচ্ছা আসে নিজের তথ্যের ভাগ্য নিয়ে আত্মবিশ্বাস থেকে, প্রযুক্তি নিয়ে উৎসাহ থেকে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-adult-learning-guidelines-dis2026]] — প্রাপ্তবয়স্ক শিখন সমর্থনে এআই প্রযুক্তি নকশার নির্দেশিকা
-- [[andragogy-cognitive-delegation-genai-2026]] — কী স্ব-পরিচালিত রয়ে গেছে? জেনারেটিভ এআই-মধ্যস্থ প্রাপ্তবয়স্ক শিখনে জ্ঞানভিত্তিক প্রতিনিধিত্বের মধ্য দিয়ে অ্যান্ড্রাগজির পুনর্বিবেচনা
-- [[ai-lifelong-learning-policy]] — আজীবন শিখনে কৃত্রিম বুদ্ধিমত্তা: প্রাপ্তবয়স্ক শিক্ষা-নীতিতে সুযোগ ও চ্যালেঞ্জ
-- [[sovereign-hive-titl-further-education-2026]] — Sovereign Hive এবং Further Education-এ সমতার জন্য Tutor-in-the-Loop (TITL) কাঠামো
-- [[community-centered-ai-education-adults]] — প্রাপ্তবয়স্কদের জন্য সম্প্রদায়-কেন্দ্রিক এআই শিক্ষার সহনকশা: একটি মিডওয়েস্টার্ন কেস স্টাডি
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — দূরশিক্ষা প্রতিষ্ঠানের জন্য শিখনের নতুন ব্যবস্থা? AIDA বাস্তবায়নের ছয়-গবেষণা পর্যালোচনা
-- [[institutional-governance-ai-universities]] — নীতি-বিচ্ছিন্নতা, নাকি প্রাতিষ্ঠানিক সামঞ্জস্য? বিশ্ববিদ্যালয় ও ব্যবসায়িক বিদ্যালয়ে এআই-এর প্রাতিষ্ঠানিক শাসন
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — কম্পিউটেশনাল চিন্তার জন্য জেনারেটিভ এআই-বর্ধিত শিখন-অভিজ্ঞতা: একটি নিয়মতান্ত্রিক স্কোপিং পর্যালোচনা ও নকশা-নির্দেশিকা
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — সিলেবাস-বিশ্লেষণের মাধ্যমে এআই-সহায়ক সফটওয়্যার ইঞ্জিনিয়ারিংয়ের উদীয়মান পাঠ্যক্রমের মানচিত্রণ
-- [[learner-ai-interaction-patterns-oop]] — অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং কোর্সে শিক্ষার্থী-এআই মিথস্ক্রিয়ার ধরন ও একাডেমিক কর্মক্ষমতা
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শিখন সমর্থনে এআই ব্যবস্থার নকশা
-- [[kim-ai-andragogy-2026]] — অ্যান্ড্রাগজি সমর্থনে এআই প্রয়োগ (Kim প্রমুখ 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — সম্পৃক্ততার একটি পরিসরের জন্য নকশা: গভীর সক্রেটিক সংলাপকে বেশি পুরস্কৃত পথ করুন

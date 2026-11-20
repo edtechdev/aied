@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -115,50 +117,3 @@ ai_assist:
 **গবেষকদের জন্য**
 
 - কাঠামোর সঞ্চয় নয়, তত্ত্বের মধ্যে নিষ্পত্তির জন্য নকশা করুন। পরিপক্বতা প্রকাশ পায় প্রতিদ্বন্দ্বী পূর্বাভাসের নিষ্পত্তিতে, শব্দভাণ্ডারের বৃদ্ধিতে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাবিজ্ঞান ও শিক্ষাদান কৌশল
-
-## সংযুক্ত নিবন্ধ
-- [[yan-agentivism-learning-theory-ai-2026]] — মানব-এআই মিথস্ক্রিয়ার জন্য একটি মধ্য-পরিসরের শিখন তত্ত্ব, চারটি প্রক্রিয়া ও ছয়টি পরীক্ষণযোগ্য প্রস্তাবসহ (Yan ও Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — বিভ্রান্তিকর অতিসাধারণীকরণ: শিক্ষার্থীরা কখন একটি কাজ থেকে বিরত থাকবে তা জানার আগেই অভিযোজিত দক্ষতা-ব্যবস্থা অনুশীলন থামিয়ে দিতে পারে (An, McLaren ও Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — এআই-কে মানুষ-এআই সহ-নিয়ন্ত্রণে জ্ঞানীয় সঙ্গী হিসেবে স্থাপন করে; সারা জীবনব্যাপী বিকাশগত কাঠামো
-- [[ensemble-cognition-philosophy-ai-education]] — সমন্বিত জ্ঞান: চিন্তাকে মানুষ-এআই মিথস্ক্রিয়া হিসেবে নতুনভাবে ধারণা করার দার্শনিক কাঠামো
-- [[self-directed-growth-generative-ai-learning-analytics]] — স্ব-নির্দেশিত প্রবৃদ্ধি ও A2PL মডেল, যা জেনএআই দিয়ে স্ব-নির্দেশিত শেখা সম্প্রসারিত করে
-- [[generativism-learning-theory]] — জেনারেটিভ এআই যুগের জন্য নতুন শিখন তত্ত্ব প্রস্তাব করে, চিরায়ত চারটি পুনর্বিবেচনা করে
-- [[ai-vocational-education-training-review]] — ভোকেশনাল শিক্ষায় এআই-তে গঠনবাদ/আচরণবাদ তত্ত্ব-চর্চার ফাঁক নথিভুক্ত করেছে
-- [[genai-educational-outcomes-meta-analysis]] — ৫৩টি গবেষণার PRISMA মেটা-বিশ্লেষণ: অর্জন, চিন্তা, লেখা ও প্রেরণায় সম্মিলিত লাভ, প্রতিক্রিয়া সবচেয়ে বড় প্রক্রিয়া (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — মধ্যস্থতাকারী এজেন্ট হিসেবে জেনারেটিভ এআই
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শেখা সমর্থনের জন্য এআই ব্যবস্থার নকশা
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য এলএলএম-এর শিক্ষাবিজ্ঞানিক দিকনির্দেশনা
-- [[lukesova-clue-before-correction-2026]] — সংশোধনের আগে সূত্র: স্বায়ত্তশাসিত ভাষা শেখায় ChatGPT
-- [[rachatasumrit-example-problem-ratio-2026]]

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,7 +62,3 @@ Enterprise, sehingga fitur yang paling dibutuhkan institusi justru yang berbayar
 atau memodifikasinya, dan README-nya masih menyebut LGPL dari sebelum perubahan itu, jadi bacalah berkas
 lisensinya alih-alih README. Institusi juga sebaiknya mengonfirmasi ketentuan pemrosesan datanya sendiri
 sebelum mengalirkan pekerjaan siswa melalui layanan pihak ketiga yang hosted.
-
-## Konsep terkait
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -78,33 +80,3 @@ Fowlin et al. (2026) operationalisieren diese Verteilung als zweiphasige Abfolge
 - **„Ein geteiltes Dokument bedeutet geteilte Kognition.“** Volumenbasierte Profile von **97 Lernenden** unterschieden sich in **Vorwissen und Autorschaft**, aber **nicht im Prompting auf aktiver Rollen- oder Verständnisebene**. Beteiligungsvolumen maß Exposition, nicht die Verteilung kognitiver Arbeit — Nutzungs[[learning-analytics|analytik]] eines kollaborativen Werkzeugs sagt daher wenig darüber, wer dachte.
 - **„Alle lagern gleichermaßen an KI aus.“** Novizinnen und Novizen unter Lehrkräften **delegieren einen großen Teil der kognitiven Last des Instruktionsdesigns an das KI-System** und gelangen zu einer **KI-dominanten Verteilung**, in der sie Antworten weitgehend annehmen, während erfahrene und KI-kundige Lehrkräfte anders verteilen. Expertise zeigt sich darin, wo die Last liegt, nicht nur darin, wie viel KI genutzt wird.
 - **„Mehr KI-Beteiligung bedeutet mehr Unterstützung.“** Eine KI-dominante Verteilung ist das Muster, auf das zu achten ist, weil der Anteil der menschlichen kognitiven Arbeit schrumpft, während das Outputvolumen steigt. Das System kann genau dann leistungsfähiger aussehen, wenn die nutzende Person weniger tut.
-
-## Verbundene Konzepte
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Verbundene Artikel
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirische Studie zu kollaborativer Problemlösung zwischen Mensch und KI durch die Linse verteilter Kognition und Koregulation
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — KI als pädagogischer Mediator, der Kognition über menschliche und nicht-menschliche Akteure verteilt
-- [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner im koregulierten Denken
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble-Cognition-Rahmen, der Denken als Mensch-KI-Interaktion neu konzeptualisiert
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthumane lernende Person mit über biologische und künstliche Systeme verteilter Kognition
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalisierung verteilter Kognition neben erfahrungsbasiertem und situiertem Lernen
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lehrkraft-KI-Interaktion im Unterrichtsentwurf: KI-dominante vs. komplementäre verteilte Kognition nach Erfahrung und Kompetenz (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum: wie die Zugangskonfiguration Gruppenkognition verteilt (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: fünf Interaktionstypen und vier Rollen aus selbstgesteuerter ChatGPT-Nutzung
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Transaktives Gedächtnis mit GenAI: Arbeitsteilung und reflexive Transformation vermitteln kritisches Denken (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Warum die einzelne lernende Person die falsche Analyseebene ist
-- [[rivera-novoa-genai-extended-cognition-2026]] — Erweiterte Kognition im Naturwissenschaftslernen: GenAI ist standardmäßig substitutiv, durch Design komplementär (Rivera-Novoa & Duarte Arias 2026)

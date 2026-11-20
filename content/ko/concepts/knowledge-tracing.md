@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -56,7 +58,6 @@ ai_assist:
 - **스냅샷 전용 추적.** [[skill-acquisition-without-temporal-info|Nagai 외(2026)]]는 학습자 기능 집합 사이의 포함 관계로부터 의사 시간적 순서를 유도하여, 확장하는 기능 집합을 학습 진행으로 다루어 단일 시점 스냅샷도 추적 가능하게 합니다 — 그러나 이 정식화는 기능이 결코 잃히지 않는다고 가정하므로, 퇴행하는 학습자를 위한 배치는 먼저 명시적 망각 메커니즘이 필요합니다.
 - **지식 구성 요소의 세분성 자체가 모델링 결정입니다.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny와 Meurers(2026)]]는 1,059명의 7학년 학생이 낸 153,819건의 첫 시도 응답에서 언어 교습 위계의 11개 수준에 걸쳐 19개의 지식 구성 요소 모형을 비교했습니다. 승자는 예측 대상에 따라 달라집니다. 세밀한 Actionable Element ID는 학생 차단 예측(RMSE 0.4083)에서 앞섰고, 의미적으로 근거한 Property ID + Exercise Type은 문항 차단 예측(RMSE 0.4243)에서 앞섰습니다. 세밀한 식별자는 또한 거의 영에 가까운 평균 학습률을 보였습니다(Actionable Element ID 0.000).
 
-
 ## 다른 개념들과의 관계
 
 지식 추적은 [[student-modeling]]과 밀접하게 관련되어 있습니다 — 지식 추적은 구체적으로 인지적 지식을 시간에 걸쳐 모델링하는 반면, 학생 모델링은 학습자의 모든 측면([[affective-computing|정의적]] 상태, [[student-engagement|참여]], 선호)을 표현하는 더 넓은 관행입니다. 지식 추적은 다음에 무엇을 가르칠지 알아야 하는 [[adaptive-learning]]과 [[personalized-learning]] 시스템으로, 그리고 숙달 추정을 사용해 적절한 문제를 선택하는 [[intelligent-tutoring]] 플랫폼으로 흘러듭니다. 이것은 대시보드와 개입 설계를 위해 [[learning-analytics]]에, 세밀한 기능 [[assessment]]를 위해 [[cognitive-diagnosis]]에 연결됩니다. 지식 추적의 구인은 또한 [[simulating-students|시뮬레이션된 학생]]에 정보를 줍니다 — 시뮬레이션된 학습자의 인지 상태는 지식 추적이 모델링하는 동일한 숙달/소멸 역동성으로 흔히 형식화되므로, [[simulation]]은 추적 방법이 실제 응답 데이터로부터 일반적으로 *추론하는* 지식 상태를 *생성하는* 한 방식입니다.
@@ -66,7 +67,6 @@ ai_assist:
 **주의: 숙달은 정확성이 아니다.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, Stamper(2026)]]는 BKT의 2상태(학습됨/학습되지 않음) 가정이 *기만적 과잉 일반화*에 의해 위반될 수 있음을 보여 줍니다 — 학습자는 숨겨진 적용 제약이 위반될 때 숙달된 것처럼 보이면서도 기술을 체계적으로 오적용할 수 있습니다. 이것은 숙달 추정이 [[adaptive-learning|적응]] 정지 규칙을 구동할 때 행동 정확성만이 아니라 조건부 이해(행동을 *보류할 시점* 알기)를 추적해야 한다고 주장합니다.
 
 **공정성 주의: 모형화되지 않은 기술은 추적된 상태를 집단 전체에 불리하게 편향시킵니다.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar 외(2026)]]는 두 학년도에 걸친 8,549명 학생의 MATHia 로그에 대한 베이지안 지식 추적이 총체적으로는 약하게만 편향되었음을 발견했습니다 — 통계적 동등성 −0.077(2021–2022)과 −0.066(2022–2023) — 독해 비중이 큰 기술에서 훨씬 큰 격차가 있었음에도 그렇습니다. 불균등 영향은 0.885와 0.878이었고, 독해 집단 간 교정 차이는 작은 크기(.0046과 .0054)에도 유의했습니다. 피해는 기술 수준의 편향에 집중됩니다: 분석된 50개 기술 중 36개가 신생 독자에게 불리하게 편향되었고, 독해 비중이 큰 "지수 적용" 모형이 통계적 동등성 −0.262와 불균등 영향 0.609로 선두였습니다.
-
 
 **관련된 주의는 추적 모형이 배치에 대비해 *어떻게* 검증되는지에 관한 것입니다.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, Carvalho(2025)]]는 BKT, BKT-with-Forgetting, Additive Factors Model을 다중 세션 연속 재학습 데이터에 적합하고, 모든 세션에 사후적으로 적합될 때(수용 가능한 AUC ≈ 0.74–0.79) 학습 추세를 재현함을 발견했습니다; 그러나 **시간 기반 교차 검증** — 한 세션으로 훈련하여 다음을 예측하는, 현실적인 적용 설정 — 하에서는 세 모형 모두 미래 성능을 약 47–58% 과대추정하고, [[retrieval-spacing-interleaving|간격 효과]]를 포착하지 못하며, 연습 조건 전반에 걸쳐 잘못된 서수 순서까지 예측할 수 있습니다. 말해 주듯, 명시적 망각 메커니즘이 *없는* 모형이 세션이 누적됨에 따라 망각 증강 버전만큼이나 잘 수행하여, 망각이 다른 매개변수(예: AFM의 학생별 절편)에 부분적으로 흡수되었을 뿐 진정으로 모델링되지 않았음을 시사합니다. 저자들은 이것을 학습 대 수행 구분에 묶습니다: 널리 쓰이는 모형은 높은 순간 성과를 높은 장기 유지 가능성과 혼동합니다. 실무적 함의는 사후 적합에서 좋아 보이는 추적기가 그 숙달 추정을 소비하는 적응 시스템을 오도할 수 있으므로, 워크포워드 평가와 유지 간격, 간격, 세션 간 망각을 다루는 모형을 주장한다는 것입니다.
 
@@ -103,40 +103,3 @@ ai_assist:
 **"한 데이터셋에서 최고인 모형이 여러분의 강좌에 최고인 모형이다."** 정확도는 환경 특수적입니다. OKT는 실제 [[engineering-education|공학]] 프로그램 LMS 자료(학생 2,416명, 결과 966개)에서 **AUC 89.81%**에 도달해 DKT, DKVMN, EKT, SimpleKT를 앞섰지만, ASSISTments에서는 경쟁력 있는 결과에 그쳤습니다. 한 데이터셋 계열에서 이기는 같은 구조가 다른 계열에서는 평범하므로, 다른 곳에서 나온 대표 AUC는 여러분의 학생에 관한 약한 증거입니다.
 
 **"망각의 증거가 없으면 지식은 지속된다."** 망각은 모형화할 만한 기본값입니다. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, Carvalho(2025)]]는 다중 세션 서열에 걸쳐 BKT, 망각을 포함한 BKT, 가법 요인 모형을 적합해, 유지가 표현될 때 모형 적합도가 달라지며 이 모형들이 *검증되는* 방식과 *배포되는* 방식이 다르다는 것을 발견했습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념의 포괄 개념
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 지원 결정에 공급되는 세밀한 숙달 추정
-
-## 연결된 문서
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응형 숙달은 학습자가 행동을 보류할 시점을 알기 전에 연습을 멈출 수 있다(An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교습(2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화 매핑을 활용한 성과 기반 지식 추적
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 의미적으로 근거 지어진 추적으로, KC 보정된 상태를 추천을 위한 RL 환경으로 사용
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
-- [[crediting-assisted-work-inflates-mastery-2026]] — 어떤 증거 규칙이 숙달 주장을 결정하는가(Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — 단일 경로 LLM은 8명 학습자에 대해 훈련된 심층 모형보다 높게 지식을 추적하며, 비용은 그 일부이다(Lee와 Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — 수학 지식 추적에서 학생 이력의 압축

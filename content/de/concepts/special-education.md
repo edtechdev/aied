@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -70,33 +72,3 @@ Sonderpädagogik ist eine Domäne, in der KI-Fähigkeit zu Personalisierung und 
 - **„[[usability-research|Gebrauchstauglichkeitsbewertungen]] validieren ein assistives Werkzeug."** Praktikerinnen und Praktiker bewerteten ein co-gestaltetes Social-Story-Werkzeug als **hoch gebrauchstauglich (SUS 86,8)** und nannten seine **Bilder generisch westlich** und seinen **Verhaltenstracker fehlangepasst an zielverbundene klinische Urteilskraft**. Hohe Gebrauchstauglichkeit bestand neben substanziellen Mängeln, ein SUS-Wert ist also keine Bestätigung der Passung.
 - **„Generische Benchmarks sagen Ihnen, wie ein Tutor mit sonderpädagogischen Fällen umgeht."** Von **923 fallgegründeten Dialogen** aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte **das beste von 11 Modellen** ein dokumentiertes Kriterium — und **damit ist die Grenze dessen erreicht, was ein Tutor-Benchmark abdeckt**. Standardevaluationen erreichen die Fälle nicht, bei denen Praktikerinnen und Praktiker am meisten Hilfe brauchen.
 - **„Neurodivergente Lernende brauchen Nachteilsausgleiche, keine Designanforderungen."** [[neurodivergent-computing-students|Zastudil et al.]] fanden, dass neurodivergente Informatik-Studierende **strukturierte Aufgaben, kleine konsistente Teams und explizite Rollendefinitionen** brauchen — allgemeine Designanforderungen, die allen nützen, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Verbundene Artikel
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: Bewertung von LLM-Tutoren an Studierenden mit herausforderndem Verhalten (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI-kognitive Entlastung für Studierende mit Lernbehinderungen
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-gestützte Fragengenerierung für gehörlose und schwerhörige Lernende
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: Ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
-- [[adapted-stories-social-story-intervention-2026]] — KI-gestützte Social-Story-Intervention für die Sonderpädagogik: Die Gestaltung von AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Ein Vision-Language-Modell plant Shoebox-Tasks für einen Nao-Roboter (Kudláčková 2026)

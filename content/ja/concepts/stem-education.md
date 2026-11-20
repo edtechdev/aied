@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -88,51 +90,3 @@ STEM の構造化された知識表象、検証可能な答え、計算思考思
 - **「知的チュータリングは STEM 全体で一様に機能する。」** **20の刊行物（2020年〜2026年4月）**の構造化された物語レビューは、特に**リアルタイムの診断的な**チュータリングに最も明快な測定上の優位を見出しました。証拠は**限定的で条件的**であり、それをすべての数学 ITS に一般化することは、レビューされた範囲を過大に述べることになります。
 - **「シミュレーションはハンズオンの貧弱な代替物である。」** シミュレーション群は**カリキュラムに整合した STEM の知識でハンズオン群を上回りました（M = 3.00 対 2.06、t(28) = 2.23、p = .034、d = 0.82）**。シミュレーションは本物を下回る後退策ではありませんでした。
 - **「AI 支援の文献ワークフローは主に時間を節約する。」** **80の文書にわたる20人の学生**の結果は、**実験パラメータの90%超の抽出、文献レビュー時間の約65%の短縮、影響力のある研究を特定する学生の能力の50%の向上**を示しました。能力の伸びがより大きな結果であり、時間の節約はより小さなものでした。
-
-## 関連する概念
-
-- [[learner-identity]] — 発展しつつある、学問的・職業的・創造的・学業的な学習者のアイデンティティ
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — 化学教育と AI：実験、形成的評価、LLM の限界、実験の哲学
-- [[biology-education]] — 生物学教育と AI：実験の教務助手、生物学における AI リテラシー、批判的思考、専門化された道具
-
-## 関連する記事
-
-- [[ai-pedagogical-accompaniment-amico]] — STEM のアイデンティティを支える AI による教育学的な伴走
-- [[lnenicka-secondary-students-genai-stem-2026]] — STEM にわたって生徒が実際に生成 AI ツールで何をしているか
-- [[dai-chatbots-problem-posing-primary-2026]] — 初等理科における生成 AI チャットボットと問題設定
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM における探究的学習のための ChatGPT
-- [[niri-steam-ai-literacy-review-2026]] — AI リテラシーのための STEAM 教育：システマティックレビュー
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 深い学習のための適応的な AI ベースの STEM プログラム
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 教員志願者の ChatGPT 受容プロファイル
-- [[zhang-ct-ai-training-test-2026]] — 計算思考思考の AI 訓練テスト（CTAT）
-- [[liu-tool-tutor-crutch-programming-2026]] — 道具、チューター、それとも杖：AI 支援によるプログラミングに関するグラウンデッド・セオリー
-
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — 理科・化学教育における AI のシステマティックレビュー
-
-- [[ai-information-extraction-undergraduate-thesis-2026]] — 学部生の卒業研究と研究に基づく学習を支える AI による情報抽出（An ら 2026）
-- [[simulation-assisted-drone-learning-stem-2026]] — 教員と AI が共同設計した足場かけを用いたシミュレーション支援のドローン学習
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 研究にわたる AI 支援による STEM 教授の統合された効果、最大の伸びは高校（Doğan ら 2026）
-
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM におけるデジタルツイン：レビューされたすべての研究が動作する試作を出荷したが、学習を測定したものは少ない
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 45分のプロンプティングと誤り点検のセッションが物理学の事後テスト得点を上げた（*d* = 0.814）
-- [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 ITS の証拠は限定的で条件的である

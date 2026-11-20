@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -69,7 +71,6 @@ ai_assist:
 
 - **O ritmo também é alvo de scaffolding.** [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] combina scaffolding de conteúdo com uma camada temporal de cotas semanais de tempo, painéis de progresso e verificações ao fim de cada seção; sem o ritmo, quase 25 por cento de mais de 600 estudantes começaram na última semana e 95 por cento deles fracassaram.
 
-
 ## A conexão com a ZDP
 
 A [[sociocultural-learning|Zona de Desenvolvimento Proximal de Vygotsky]] fornece a fundação teórica: o scaffolding visa o espaço entre o que os estudantes conseguem fazer de forma independente e o que conseguem alcançar com apoio. As ferramentas de IA deveriam operar nessa zona — apoio suficiente para permitir o progresso, não tanto que a aprendizagem seja contornada. Uma configuração que inverte a direção usual da adaptação aparece no curso de pós-graduação de Sidorkin (2026), em que o estudante, e não o sistema, definia o nível de apoio: as leituras semanais eram geradas sob demanda, e os estudantes ajustavam o nível de compreensão por prompting iterativo (ritmo, definições, densidade de vocabulário, profundidade). A análise de três registros de leitura descobriu marcadores definicionais 3,4× a 8,7× mais frequentes nas respostas da IA após prompts orientados à compreensão do que no texto explicativo de base, com os casos mais claros construindo uma camada definicional e depois uma processual numerada, o que torna a densidade do scaffold uma propriedade mensurável do pedido do estudante, e não apenas da estimativa de maestria de um sistema. Exigir ao menos três perguntas de acompanhamento por leitura tornou esse ajuste rotineiro, transformando o texto numa interação que trazia à tona lacunas de compreensão que o instrutor de outro modo não veria.
@@ -82,12 +83,7 @@ O scaffolding conecta-se ao [[cognitive-offloading|Excesso de Dependência]] (sc
 
 Os agentes precisam fazer scaffolding dinamicamente, não estaticamente: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identificam que scaffolds automatizados correm o risco de permanecer estáticos, em vez de serem retirados à medida que a competência cresce, e recomendam scaffolds dinâmicos que se adaptam e desvanecem — uma guarda-chave para a [[agentic-ai|IA agêntica]]. O CoMeT (Hou et al. 2026) fornece tanto a separação quanto a garantia de *quando* desvanecer: seu apoio sobe um degrau cada vez que um estudante não o usa e cai para o degrau mais leve na adoção, mantendo a demanda [[metacognition|metacognitiva]] estatisticamente equivalente à de um tutor que retém respostas (p_TOST = ,004), ao mesmo tempo que entrega um artefato em 48,1% das sessões contra 23,7% — mais trabalho do sistema, não menos. O disparador que ele validou é a mira, e não a profundidade: depois de uma demonstração completa, o tutor depois concedeu 30,3% do que ainda estava aberto; depois de um artefato colado, 25,9%; depois de uma afirmação crua, 20,4%; e depois de um pedido para construir, 33,7%; enquanto turnos não mirados na decisão sob apoio obtiveram concessão posterior 40,3% das vezes contra 28,8% dos turnos mirados (diferença de 11,5 pontos, intervalo bootstrap de 95% [2,1, 22,4]). A adoção era esparsa — 37,0% depois da primeira pergunta e 21,8% depois da terceira —, de modo que uma regra de desvanecimento atrelada ao esforço do estudante leria uma não resposta como prontidão.
 
-
 **O desvanecimento pode ser treinado para fora de um tutor.** Um tutor de RL multi-turno recompensado apenas pelo problema atual e uma variante mascarada de transferência próxima pararam de desvanecer o apoio e de atribuir trabalho independente, embora nada penalizasse nenhuma das duas coisas, porque o retorno de ambos está além de um episódio de diálogo ([[assistance-dilemma-rl-tutoring-2026|Macina, Kapur & Sachan, 2026]]). Um horizonte de recompensa que termina com o problema apagará o desvanecimento que um desenho especifica.
-
-
-
-
 
 Uma quarta zona torna visível a fonte do scaffold: [[scan-framework-task-assignment-generative-ai-2025|Tsim e Gutoreva (2025)]] acrescentam \"conhecido pela GenAI\" às zonas de Vygotsky, de modo que uma tarefa cai em Substituir, Complementar, Auxiliar ou Inegociável — e Inegociável contém o que precisa de uma pessoa porque é normativo, tácito ou arriscado demais para ser entregue.
 - **Posicione a IA pela fase da ideia, não pelo curso.** O enquadramento de posicionamento de seis movimentos mantém a IA fora da primeira tentativa difícil e da verificação final sem ajuda, ao mesmo tempo que a autoriza entre elas para dicas, exemplos e treino; se a IA fizer a tarefa parecer sem esforço, ela está no lugar errado ([[brcic-effortless-trap-productive-struggle-2026|Brcic & Frljic, 2026]]).
@@ -123,65 +119,3 @@ O scaffold pode situar-se na tarefa, e não na ferramenta. Numa turma de mecâni
 - **"O scaffolding é um nível constante de apoio."** A anotação especialista de **207 consultas** mostrou que a necessidade de scaffolding era **fortemente dependente da fase, subindo de cerca de 16,1% dos enunciados do estudante no início** do encontro. Um único nível de scaffold fica mal alocado nas duas pontas da mesma consulta.
 - **"Qualquer condição de controle estruturada é uma comparação justa para o scaffolding."** No [[summative-assessment|exame]], o braço com scaffolding ainda superou uma alternativa genuína de divulgação progressiva (**71,8% versus 55,6%**), de modo que o ganho foi medido contra uma alternativa [[pedagogy|pedagógica]] real, e não contra nada.
 - **"Os efeitos do scaffolding são gerais."** O ganho foi de **16,4 pontos percentuais (P = 3,30e-4)**, com a maior melhora em **comunicação (Hedges' g = -0,79)**. O efeito se concentrou em um desfecho, de modo que uma média entre desfechos subestima onde funciona e superestima onde não funciona.
-
-## Conceitos conectados
-- [[pedagogical-patterns]] — Onde na sequência o apoio pertence, e por que tentar-antes-da-ajuda é a regra portadora de carga
-- [[problem-based-learning]] — O PBL embute scaffolds de desvanecimento em torno de problemas mal estruturados
-- [[learning-by-teaching]] — Fazer scaffolding da construção de conhecimento pela explicação
-- [[sociocultural-learning]] — Fundação vygotskiana: ZDP e aprendizagem socialmente mediada
-- [[cognitive-offloading]] — Scaffolding que nunca desvanece cria dependência excessiva
-- [[feedback]] — O scaffolding entrega feedback formativo à medida que o apoio desvanece
-- [[ai-literacy]] — Reconhecer quando o scaffolding apoia vs. desloca a aprendizagem
-- [[intelligent-tutoring]] — ITSs adaptam a intensidade do scaffold às estimativas de maestria
-- [[socratic-method]] — Questionamento que retém respostas diretas
-- [[metacognition]] — Scaffolds que constroem automonitoramento e autorregulação
-- [[adaptive-learning]] — Sistemas adaptativos modulam o apoio dentro da ZDP do estudante
-- [[learning-design]] — O scaffolding é uma estratégia central de desenho instrucional
-- [[help-seeking]] — O scaffolding molda quando e como os estudantes pedem ajuda
-- [[teacher-role]] — Os professores fazem scaffolding, e então desvanecem à medida que a competência cresce
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação em IA
-- [[agentic-ai]]
-- [[productive-failure]] — Falência produtiva
-
-## Artigos conectados
-- [[kumar-genai-computing-education-systematic-review-2026]] — A retirada do scaffold como mecanismo que aplica a verificação (framework VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliando um sistema multiagente de LLM orientado ao scaffolding para treinamento de entrevista clínica
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Comentários de IA temporizados por entropia como scaffolding de conhecimento e emocional dentro do vídeo (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — Prompting guiado com LLM como intervenção estruturada de aprendizagem
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding de engajamento crítico culturalmente responsivo com GenAI
-- [[rethinking-scaffolding-llm-tutors]] — Padrões de desenho para scaffolding em tutores de LLM
-- [[concept-catalyst-engineering-scaffolds]] — Scaffolds do Concept Catalyst para mudança conceitual
-- [[correct-answer-trap-ai-tutor]] — Quando as dicas ajudam vs. quando encorajam a dependência excessiva
-- [[critical-thinking-genai-scaffolding]] — Fazendo scaffolding do pensamento crítico com GenAI
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Rascunho de narrativas com scaffolding pelo Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Da substituição ao scaffolding: rompendo o ciclo de dano autorreforçador
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Scaffolding preferido na modelagem matemática apoiada por IA
-- [[agentic-ai-pedagogical-best-practice-2026]] — Scaffolds dinâmicos (com desvanecimento) como guarda-chave para a IA agêntica
-- [[zhang-tutormoments-2026]] — Quando a ajuda é inútil: avaliando tutores de IA quanto à luta produtiva
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falência produtiva
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direcionamento pedagógico de LLMs para a falência produtiva
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Tornando a tutoria por IA produtiva: prática de matemática baseada em maestria
-- [[brcic-effortless-trap-productive-struggle-2026]] — IA com e sem proteções: a regra de posicionamento (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — Desenho experimental apoiado por IA em química prática
-- [[scaffolding-systematic-reviews-2026]] — Fazendo scaffolding de revisões sistemáticas com mentoria e IA (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agência de futuros professores durante interações com GenAI no desenho para aprendizagem (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — A IA ao longo das pedagogias da prática na formação de professores de matemática: o feedback estruturado de ensaio elevou as perguntas de investigação (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — A integração da IA como desenho instrucional: a crítica da saída da IA precisa ser atribuída, e a análise disciplinar vem primeiro
-- [[ai-literacy-tool-design-programming-education-2026]] — Um Coach de Estudo com IA e orçamento de dicas: uso de GenAI com e sem scaffolding, e por que a restrição isoladamente não produziu aprendizagem (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: o scaffolding reenquadrado como decidir a que sub-zona uma tarefa pertence
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — A correção automatizada como scaffolding formativo: ela se converte em ganho apenas onde o déficit visado é decomponível, confiável e sensivelmente escalável (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Scaffolding adaptativo de laço fechado que rastreia a fronteira atual do estudante na prática musical, com a detecção de erros como triagem (Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — A forma do scaffold precisa corresponder à capacidade desenvolvimental das crianças, e não apenas à tarefa (Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Os scaffolds precisam exigir tradução representacional e verificação, já que os estudantes não conseguem verificar o que não compreendem (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — A GenAI como scaffold de prompting que faz a ponte da intuição visual para a prova dedutiva em geometria, onde a visualização isoladamente é insuficiente (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examinando a variação em como tutores de IA guiados resolvem impasses dos estudantes
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Treinar o estudante como scaffolding para o uso de GenAI na resolução de problemas de STEM (Huang et al. 2026)
-
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)
-
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Camadas de scaffolding de conteúdo e temporal em um curso auto-ritmado, com taxas de início tardio e de reprovação por momento de estudo
-- [[assistance-dilemma-rl-tutoring-2026]] — O dilema da assistência: treinar um tutor de RL multi-turno cujo horizonte de recompensa termina com o problema treina o desvanecimento para fora (Macina, Kapur & Sachan 2026)
-- [[stone-gpt5-kinematics-sensemaking-2026]] — uma rubrica avaliativa, e não um modelo melhor, moveu o diálogo dos estudantes da busca por receitas para o pensar em voz alta (Stone, Zhang & Utter, 2026)
-- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — Uma escada fixa de desvanecimento escrita em um prompt de sistema de autoria do instrutor
-- [[kozachek-orchestrating-scaffolding-agents-2026]] — Agentes de scaffold específicos por mecanismo atrás de um orquestrador: a ordem de entrega previu o crescimento do mapa conceitual, metacognitivo primeiro e conceitual por último
-

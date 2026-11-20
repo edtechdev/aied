@@ -23,6 +23,8 @@ ai_assist:
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,7 +49,6 @@ Wazo limehamia kutoka pendekezo hadi mapendekezo yanayorudiwa katika hifadhi hii
 
 Msamiati wa kubuni mahususi zaidi unatokana na Thapa na Lewis, ambao ahadi zao nne zinaelekeza hoja hadi kubuni kwa kazi: hoja ya kutafakari, kubuni kwa kazi ya hatua, ushirikiano wa mazungumzo, na uwazi wa kutathmini. Katika mazoezi, wanafunzi wanaeleza maamuzi ya tafsiri badala ya tu kuwasilisha hitimisho, wanawasilisha kazi zinazokua katika sehemu za ukaguzi, wanashiriki katika mazungumzo ya [[oral-assessment|mdomo au ya mazungumzo]] kuhusu ufikiri wao, na wanafanya kazi dhidi ya vigezo wanaweza kujitekeleza wenyewe — nchi ya [[feedback-literacy|ujuzi wa maoni]] na [[self-assessment]]. Pendekezo la Boysen (2026) la mazoezi ya kujifunza wazi linatafsiri mantiki ile ile kuwa njia ya ukaguzi: mpango wa kujifunza wa pamoja uliowekwa kabla ya mradi kuanza, mpango wa uchanganuzi wa kujifunza unaoitia vyanzo vinavyohitajika na vinavyokatazwa, na rasimu na historia za toleo zilizorekodiwa, zilizohifadhiwa kupitia Fuatilia Mabadiliko na matoleo ya faili yaliyohifadhiwa, ambazo hufichua mchakato wa kazi na kueleza ni nini kiliamua kila marekebisho. Anaiweka hii kama [[self-regulated-learning|kujidhibiti]] kuwa inayoonekana.
 
-
 Njia iliyochaguliwa kwa ushahidi wa mchakato inabadilisha kile kinachoweza kuthibitishwa: katika utafiti ule ule wa AI ya kizalishaji wa wanafunzi 79, ufuatiliaji na upangaji wa kina kikuu vilikuwa ya kawaida zaidi katika sehemu za kufikiri-kwa-sauti huku udhibiti wa kina kikuu ukiwa wa kawaida zaidi katika kumbukumbu za mwingiliano, hivyo hakuna rekodi moja inayoshika mchakato wote ([[metacognitive-processes-genai-interaction-logs-2026|Li na Liu (2026)]]). Alama zinaweza pia kutofautiana na alama kabisa: katika mazungumzo 150 ya mwanafunzi–AI, 41% yalibeba alama ya kazi ya haswa 1.00 huku ushirikiano wa kiakili unaoweza kuchunguzwa ukibadilika, hivyo alama zilizolingana zinaweza kuficha michakato tofauti ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace inajibu tatizo lile lile kwa uandishi uliojumuishwa na AI kwa kulinganisha vipimo vya mchakato vya kiwango cha kibofya na bidhaa ya mwisho na alama za mwingiliano wa AI, ikionyesha kwamba kunakili kwa kuchapa kinaweza kutambulika tu wakati bidhaa na mchakato vinasomwa pamoja ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), mfano halisi wa upimaji wa tabia ambao uwanja bado hauna.
 
 Akaunti za wataalam na za miundo zinajaza bidhaa. Mfumo wa LEARN wa Uden na Hwang (2026), uliolengwa kwa [[problem-based-learning|tathmini ya kujifunza kwa msingi wa matatizo]] [[assessment]], unaomba rubriki zinazozingatia mchakato, hoja za mdomo, uwasilishaji wa hatua, na alama za ufikiri zilizo na [[ai-use-disclosure|ufichuzi wa matumizi ya AI]], na unatendea tafakari kupitia vitabu vya kujifunza na itifaki za kufikiri-kwa-sauti kama injini ya [[metacognition|metaji]] ya mlolongo. Moganadas na wenzake (2026) wanafanya tathmini ya mchakato yenye uwazi wa AI kuwa moja ya mapendekezo matano yanayoweza kufanyiwa utafiti, yakihitaji nyaraka, uthibitishaji, na hoja ya kutafakari badala ya marufuku au matumizi ya kifaa cha kugundua. Padhy (2026) anapendekeza kushika historia ya marekebisho, mifumo ya mwingiliano, na muda-kwa-kazi, pamoja na ufichuzi wenye uwazi. Goldstein, Marae-Haj na Zidan (2026) wanaonyesha bidhaa zile zile zikitoka katika mazoezi baada ya mgogoro wa [[trust]]: rekodi za kuashiria, historia ya toleo la hati, michango ya kikundi iliyofuatiliwa, na "vitabu vya safari" vya kutafakari vilivyohifadhiwa kwa daftari za kikemia — pamoja na utafiti rahisi kwamba kazi ya nyumbani iliyoandikwa haikuweza tena kutoa ushahidi wa kujifunza.
@@ -59,7 +60,6 @@ Mawasilisho ya vituo yalikuwa ya kawaida kivitendo: katika mihula sita ya kozi z
 - **"Ushahidi wa mchakato unahitaji utaratibu maalum wa tathmini."** Baadhi yake ni mchana mmoja wa vifaa: utafiti wa waandishi **77** wa insha za chuo ulitumia kihariri cha CodeMirror kinachorekodi uingizaji, kufuta, kuchagua, kukata, kunakili na kubandika pamoja na mihuri ya muda, kando ya paneli ya mazungumzo ya ndani kwenye API chaguo-msingi, na kunasa **361** ujumbe. Ufuatiliaji ule ule ulionyesha kuwa **14** majibu ya maswali ya upangaji yalibandikwa kwenye insha za mwisho, jambo ambalo hakuna ripoti ya kiwango cha bidhaa ingelidhihirisha. Kikomo cha kweli kiko kwenye chombo: maneno yaliyoandikwa huhesabiwa kama ya mwanafunzi hata yakiwa yameandikwa upya kutoka kwenye jibu, hivyo mpaka kati ya kuandika na kufikiri hauonekani. [[jelson-students-chatgpt-essay-writing-2026|Kurekodi mchakato ni rahisi zaidi kuliko kuubuni]].
 
 **Ufuatiliaji wa mchakato ni maoni tu ikiwa mwanafunzi anausoma dhidi ya kazi.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] waliwapa wanafunzi kumi na mmoja wa tafsiri [[visualization|mionekano]] ya Inputlog na kurekodiwa kwa skrini pamoja na kikao kimoja cha dakika 30 cha tafakari. Sehemu ya marekebisho ya kiwango cha maana ilipanda kutoka 18.1% hadi 28.4% (t(10) = 4.259, p = 0.002) wakati jumla ya marekebisho hayakubadilika kwa kiasi kikubwa, yakishuka kutoka 1,292.91 hadi 1,052.36 (p = 0.248). Ufuatiliaji haukuwafanya wanafunzi kuhariri zaidi, bali kwa njia tofauti tu, na hiyo ndio hoja ya ushahidi wa mchakato katika tokeo moja.
-
 
 ## Mlia tofauti na uhalisia, na na kuweka alama
 
@@ -90,45 +90,3 @@ Akaunti ya Thapa na Lewis ni ya dhana: hakuna washiriki, hakuna ukusanyaji wa da
 - **"Alama ya juu inamaanisha mwanafunzi alifanya kazi tuliyobuni."** Athari zinaweza **kutofautiana kabisa na alama**: katika **mazungumzo 150 ya mwanafunzi na AI**, **asilimia 41 yalikuwa na alama ya kazi ya 1.00 hasa wakati ushiriki wa kiakili unaoonekana ukitofautiana**. Alama ilifika kikomo wakati mchakato uliopaswa kuizalisha haukufanya hivyo.
 - **"Data ya mchakato haiwezi kusimamiwa kwa kiwango kikubwa."** Nyaraka zinazohitajika zilithibitika kuwa za kutekelezeka kwa kiwango cha kozi katika **mihula sita ya kozi za mbinu za utafiti za shahada ya pili za si wakati mmoja za wiki sita zinazohudumia takribani walimu 440 wa K-12**. Upangaji ulikuwa unawezekana; pingamizi linakadiria gharama kupita kiasi.
 - **"Utatuzi wa matatizo ni jumla mno kupimwa kwa mchakato."** Unaweza kutekelezwa kama **hatua nne na ujuzi ndogo manane ya utambuzi**, ikiruhusu LLM kuzalisha **maswali na rubriki mahususi ya hatua**, zilizotumika na **walimu watano na wanafunzi 64**. Utengano ndio uliofanya mchakato uwe dhahiri na unaoweza kupimwa.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — Sehemu za hatua na ushahidi wa mchakato kama miundo iliyopangwa
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## Makala Zilizounganishwa
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Mapitio ya simulizi makini yanayodai kushindwa kwa chaguo-msingi ni msaada wa AI usiofifia kamwe unaoambatana na tathmini ya bidhaa pekee (Salameh 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Nyaraka za vituo za mazungumzo ya AI zilishikilia asilimia 96 ya ukamilishaji katika mihula sita na takribani walimu 440
-- [[rubrics-genai-process-based-assessment-2026]] — Vipimo vitatu vya rubriki kutoka mfano wa 3P wa Biggs: wakala na usimamizi, ngazi za msaada za mazungumzo, uhuru wa kiakili (Oviedo & Díaz 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — Insha ya mchakato iliyoandikwa kwa ushirikiano, iliyopewa alama, katika mafunzo ya digrii ya mwaka wa kwanza: kurudia na ushirikiano katika rubriki, GenAI inaruhusiwa ndani ya mipaka iliyoainishwa (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — utendaji sio kujifunza: mpango wa utafiti uliojengwa juu ya vipimo vya mchakato (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — waelimishaji wa walimu wanaoomba kazi za msingi wa mchakato zinazopinga AI, zilizojengwa juu ya hoja na tafakari (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — njia za maamuzi zilizo na maelezo, utetezi wa mdomo, na tofauti za rasimu zilizochaguliwa kwa hukumu inayoonekana
-- [[munoz-misconduct-allegation-evidence-2026]] — faili za kesi za matumizi mabaya zina nini, na ushahidi wa mchakato unaokosekana
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — ni uamuzi upi unaoweza kupotea ushahidi wa tathmini unapobadilishwa
-- [[beyond-detection-authentic-assessment-ai-2025]] — uhalisia lazima ubuniwe upya, si kudhibitiwa
-- [[authentic-products-authenticated-processes-2026]] — bidhaa za kweli na michakato iliyoizalisha
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — mtihani wa mdomo kama muundo unaopinga AI ambao hufanya ufikiri uwe hai
-- [[thapa-lewis-process-oriented-assessment-2026]] — uhalisia wa maarifa na ahadi nne za kubuni nyuma ya tathmini inayozingatia mchakato (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Ushahidi wa mchakato wa njia: kumbukumbu na kufikiri-kwa-sauti hufichua michakato tofauti
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Mazingira ya Uchanganuzi ya Mionekano Mingi kwa Uandishi Uliyounganishwa na AI
-- [[epistemic-ownership-ai-mediated-education-2026]] — Utendaji Sawa, Mchakato Tofauti: Umiliki wa Maarifa katika Elimu Inayopatanishwa na AI
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Kusaidia Walimu Kutambua Ujuzi wa Wanafunzi wa Kutatua Hisabati kupitia Maswali Yaliyozalishwa na LLM
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Kihariri cha CodeMirror pamoja na paneli ya mazungumzo iliyorekodiwa kiligeuza kikao kimoja cha insha kuwa ushahidi wa mchakato, pamoja na kikomo chake cha kuandika-dhidi-ya-kufikiri (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — Mionekano ya mchakato pamoja na kikao kimoja cha tafakari kilihamisha marekebisho kutoka uso hadi kiwango cha maana bila kuongeza kiasi cha kuhariri
-

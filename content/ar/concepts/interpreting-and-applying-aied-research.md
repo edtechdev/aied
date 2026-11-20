@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T06:32:21-05:00"
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -160,41 +162,3 @@ updated: "2026-11-08T06:32:21-05:00"
 **«الدرجات الأعلى أثناء استخدام الأداة تدلّ على أن الأداة علّمت أكثر.»** في دراسة رياضيات [[k-12|K-12]] واحدة، حصّل طلاب يتدرّبون مع [[conversational-ai|روبوت محادثة]] عامٍّ درجات تدريب أفضل ثم سجّلوا **نحو 17% أسوأ** في تقويم غير معان. فأداء التدريب المقيس بحضور الأداة هو المقياس المنفوخ؛ وغير المعان هو النتيجة، وواحد منهما فقط كان يرتفع.
 
 **«إذا كان الأثر حقيقيًا فلا تهمّ تفاصيل التنفيذ كثيرًا.»** إنها الأثر نفسه. فدراسة تتبّعت 30 طالبًا في مقرر واحد بمؤسسة واحدة، على نسخة من الأداة لم يعد أحد يستخدمها، أنتجت نتيجةً عن تهيئة لم تعد قائمة. وتحديد المعالجة والنسخة والسياق جزءٌ من الدعوى لا سياقٌ حولها.
-
-## مفاهيم مرتبطة
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — البحث التربوي بمساعدة الذكاء الاصطناعي
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## مقالات مرتبطة
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — مفترض الفعالية: تدقيق جنائي على 14 تحليلًا بعديًّا في التعليم بالذكاء الاصطناعي
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — آثار الذكاء الاصطناعي المُصحَّحة بتحيّز النشر نحو ثلث الحجم المُبلَّغ عنه
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT في التعليم: أثر يبحث عن سبب
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — معايير الاشتمال استُخدمت كعتبة صرامة، وعدم تجانس يتغيّر مع النموذج
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — عندما تبلغ موثوقية التصحيح الآلي سقف قياس المهمة
-- [[verification-quality-reliance-calibration-genai-2026]] — ما لا تقيسه أدبيات التحقّق والاعتماد
-- [[citation-errors-hallucinations-computing-education-2026]] — مراجع مُلفَّقة وصلت إلى الطباعة في 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — مكاسب تدريب، خسائر امتحان: مشكلة إزالة المساعدة في رياضيات التعليم من الروضة حتى الصف الثاني عشر
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — آثار لمجموعات فرعية تعبر فترات ثقتها صفرًا
-- [[chick-faculty-development-ethical-ai-2026]] — شروط مُمكِنة: إشارات سياسات، واشتراكات شخصية، ولا وقت
-- [[ai-tutoring-quality-k12-methodologies-2026]] — مقاييس مورّد مع معايرتها وعدد تجاربها المكشوفين
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — مكتشفات مرتبطة بنسخ النماذج، وحركة الميدان
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — أعداد الأدلّة المستقلة لـ16 منتجًا موجّهًا للطلاب مُستخدَمًا فعلًا
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — مراجعة يمكنها تكميم انحراف التبليغ في مجموعتها الخاصة

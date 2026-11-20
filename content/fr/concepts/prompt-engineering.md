@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -89,7 +91,6 @@ L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-
 - **L'identité du modèle, non le libellé de l'invite, pilote l'accord de codage LLM–humain.** Dans la décomposition contrôlée de [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et coll. (2026)]], le type d'invite était non significatif (F = 1,77, p = 0,136, η² partiel = 0,03), le facteur modèle portant un η² partiel de 0,19. Ajouter définitions ou instructions détaillées nuisait à la détection des listes, tout en réduisant les erreurs sur les jugements de définition correcte, et le prix ne suivait pas la qualité : Gemini 2.5 Pro à 178,13 $ sous-performait GPT-4.1 Full à 56,77 $.
 - **Injecter le nom de la théorie, non ses textes complets.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et coll. (2026)]] montrent que la formulation par nom de théorie battait les articles fournis sur l'utilité (4,40 contre 3,20) et le caractère concret (3,80 contre 2,40), les textes complets ne l'emportant que sur l'alignement théorique (4,60 contre 3,60).
 
-
 ## Connexions avec des concepts plus larges
 
 L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des invites bien conçues peuvent étayer la pensée des étudiants plutôt que la contourner. Elle recoupe la [[metacognition|métacognition]] et l'[[ai-literacy|IA littératie]], car formuler efficacement suppose de comprendre à la fois les capacités de l'IA et ses propres objectifs d'apprentissage. La recherche sur le [[cognitive-offloading|délestage cognitif]] relie directement la qualité des invites à la question de savoir si l'usage de l'IA soutient ou mine l'apprentissage.
@@ -108,57 +109,3 @@ L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des inv
 - **« La qualité des invites est un attribut de l'étudiant. »** **La cognition des invites suit la discipline, non l'étudiant** : [[student-ai-conversations-cognitive-engagement-2026|Chang et Li (2026)]] ont classé **60,087 invites issues de 116 cours** et constaté que la discipline prédisait la sophistication des invites. Apprendre aux étudiants à mieux formuler leurs invites traite une variation qui réside dans la matière enseignée.
 - **« Les étudiants développent leur propre pratique de formulation. »** Quand l'enseignant modélisait l'invite, **les étudiants la réutilisaient mot pour mot** — parmi **310 invites enregistrées dans douze groupes STEAM du collège**, la copie exacte de la consigne de l'enseignant était fréquente. La modélisation produit de la reproduction, et c'est pourquoi elle est un levier de conception du système plutôt qu'une compétence transférable.
 - **« La formulation est d'abord une compétence de l'apprenant, et ensuite une propriété du système. »** Cela déplace la formulation **vers un levier de conception de système adaptatif**, avec des effets mesurés sur **l'engagement et l'efficacité (28.1% contre 19.6% de conversion des exercices)**. Les affordances de formulation de l'interface ont davantage déplacé le comportement que l'enseignement de la formulation.
-
-## Concepts liés
-- [[pedagogical-patterns]] — La couche d'étayage à l'intérieur des séquences d'usage structuré
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement de grands modèles de langue, robotique, RAG, agents)
-
-## Articles liés
-- [[wang-teacher-student-centered-agents-physics-2026]] — Le rôle de l'agent et les invites de contraintes comme variable de conception dans l'apprentissage de la physique (Wang et coll. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Formulation ou ajustement fin pour la génération d'items de compréhension orale en L2 par GPT (Aryadoust et Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Ce que les étudiants demandent importe : profondeur d'interaction avec les grands modèles de langue, qualité des tâches et rappel immédiat (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+ : accompagnement en temps réel de la formulation d'invites éducatives à un grand modèle de langue
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Taxonomie fondée sur les tâches des tâches de grands modèles de langue pour la littératie critique en IA en journalisme
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege : mesurer et atténuer les disparités d'accessibilité dans l'accès aux grands modèles de langue
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis : traits fondés sur les données de la collaboration humain-IA
-- [[llms-text-linguistics-teaching-2026]] — Les grands modèles de langue dans l'enseignement de la linguistique textuelle
-- [[idea-framework-metacognitive-genai-2026]] — Le cadre IDEA pour un usage métacognitivement régulé de l'IA générative
-- [[lin-llm-interactive-lesson-generation]] — Génération par grands modèles de langue de leçons interactives de formation de tuteurs (Lin et coll. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — Les lignes directrices de l'UNESCO sur l'IA traduites en enseignement de la chimie ; dérive épistémique
-- [[isaza-chatgpt-engineering-prompting-2026]] — Les comportements de formulation prédisent la performance des étudiants en ingénierie
-- [[student-ai-conversations-cognitive-engagement-2026]] — Engagement cognitif de niveau Bloom associé à la discipline dans les conversations étudiant-IA (Chang et Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Les grands modèles de langue comme agents de conception pédagogique itérative
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Ingénierie des invites ou littératie de formulation : un cadre d'engagement avec l'IA générative centré sur l'humain en cinq phases, avec un cycle de littératie de formulation en cinq étapes (Miles, Haber-Curran et Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — L'ingénierie des invites et le choix du modèle comme prédicteurs de la qualité de la rétroaction par IA (Jacobsen et coll. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Évaluation de la focalisation de la rétroaction et de l'adaptivité pédagogique dans la rétroaction générée par grands modèles de langue sur les écrits des étudiants
-
-- [[middle-school-genai-steam-interactions-2026]] — Les groupes STEAM de collège ont copié mot pour mot la consigne de l'enseignant dans 47,1% des invites
-- [[ecd-prompts-automated-essay-scoring-2026]] — Employer la conception centrée sur les données probantes pour guider l'ingénierie des invites dans la mesure : une illustration avec la notation automatisée de dissertations
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Des invites vagues produisaient des boucles d'éclaircissement qui se répétaient, avec l'écart de frustration le plus important
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 étudiants sur ce qu'ils trouvent difficile : l'alignement sur l'intention, non la syntaxe des invites
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence en ingénierie des invites comme voie d'équité, avec une expérimentation d'échafaudage inter-modèles (Li et coll. 2026)
-
-- [[han-prompt-literacy-ai-dependence-design-2026]] — La littératie de formulation comme capacité perçue qui prédit encore l'engagement
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence en ingénierie des invites comme voie d'équité, avec une expérience d'échafaudage intermodèles (Li et al. 2026)

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -84,7 +86,6 @@ TeachLM은 희소한 재료가 진정한 학습자–튜터 상호작용이라�
 - **그리고 그 안에서 용량이 효과를 이끕니다(같은 연구).** 가중 성향 설계는 사용을 구역 내 MAP 성장 0.11 SD(전국 조건부 성장 지수 0.24 SD)와 연관 지었고, 깨끗한 용량 기울기를 보였습니다. 주 10~19문제에서 0.18 SD, 20문제 이상에서 0.31 SD였고, 주 3문제를 넘는 모든 용량이 유의했습니다(p < 0.01). 탐색적 하위 집단은 IEP 학생(+0.122 SD), [[multilingual-learning|영어 학습자]](+0.191 SD), 히스패닉 학생(+0.084 SD)에서 더 큰 연관을 보였습니다. 설계는 준실험적이며 사용에의 자기 선택이 저자들이 지목한 취약점이지만, 충실도와 용량-반응은 구속 조건 교훈을 직접 예시합니다.
 
 - **교실 규모에서 표준화 시험 성과 없이 근전이는 나타납니다.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google & Eedi (2026)]]는 영국 공립학교 10곳의 학생 1,179명을 10주간 네 개 군으로 무작위 배정했습니다. 지원 후 두 번째 진단 질문에 정답을 낸 비율은 56.5~56.9%로, 표준 교정 하의 43.4%보다 높았습니다. Star Maths 효과는 −0.01에서 +0.02 SD였습니다. 튜터는 94,385건의 초안 가운데 94.7%를 수정 없이 승인했고, 114,935건의 초안에서 6건의 오류가 학생에게 도달하기 전에 잡혔습니다.
-
 
 ### 주요 ITS 개념
 
@@ -182,86 +183,3 @@ AI 튜터를 배치하는 강사와 그것을 만드는 개발자에게, 이 지
 **"지능형 튜터링은 LLM이 대체한 LLM 이전 기술이다."** 계보는 연속적이며, ITS의 기여는 LLM 시대가 여전히 결여한 부분입니다. ITS는 학습자 모형, 인터페이스 제약, 숙달 추정을 제공했고, 그 구성요소에 LLM을 더한 현대 시스템은 LLM 단독을 능가합니다. 그래서 오래된 학문은 전임자가 아니라 재료입니다.
 
 **"AI 튜터는 한 종류의 것이다."** 튜터링은 힌트 생성에서 지속적 대화에 이르는 관계 강도의 스펙트럼을 가로지르며, 그 스펙트럼의 한 지점에서 나온 설계 결론이 다른 지점으로 전이되지 않습니다. 따라서 교육적 설계 질문은 언제나 "AI 튜터링이 작동하는가"가 아니라 "어떤 종류의 튜터링이, 어떤 과제를 하는가"입니다.
-
-## 연결된 개념
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## 연결된 문서
-
-- [[tararina-its-educational-achievement-systematic-review-2026]] — 89편 체계적 검토: 80%가 우위를 보고하지만, 비교 경계를 어떻게 긋느냐에 따라 85%에서 39%로 움직임
-- [[rai-calibrating-tutor-initiation-2026]] — 학생 90명: 선제적 개시는 반응적 지원보다 나을 것이 없었고(.14 대 .13) 선행지식이 높은 학생에게는 해가 됨 (Rai et al., 2026)
-- [[rotter-access-timing-scaffolding-2026]] — 학생 105명: 시간 제한 LLM 접근은 비보조 사후 검사에서 무제한 접근의 4.03 대비 5.11점 (Rotter et al., 2026)
-- [[west-spark-support-clarity-asynchronous-2026]] — Spark 사용자는 4,587건 설문에서 지원과 명확성을 약간 더 높게 보고, 작은 효과 (West et al. 2026)
-- [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026]] — AI Tutor Pro의 세 가지 학습 모드, 익명성 모형, 출처 제한 답변 (Owston 2026)
-- [[leite-its-k12-meta-analysis-2025]] — 미국 K-12 메타분석: 18개 실험, g = 0.271, 그리고 무엇이 그것을 조절하는가(Leite 등 2025)
-- [[rho-disengaged-conversational-behaviors-2026]] — 학생–AI 대화에서의 무관여 대화 행동과 학습 (Rho et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 튜터링이 강의실 능동 학습을 능가한다: 진정한 교육 환경에서 새로운 연구 기반 설계를 도입한 RCT (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 비계 지향 다중 에이전트 대형 언어 모델 시스템 평가
-- [[ko-hughes-vsd-student-centered-its-2026]] — 커뮤니티 칼리지 기초 수학에서 학생 중심 ITS의 가치 민감 설계
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 수업 조교의 프롬프트 엔지니어링 미세 개별화 (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉일반화: 적응적 숙달은 학습자가 언제 행동을 삼가야 하는지 알기 전에 연습을 멈출 수 있다 (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 튜터링은 단일한 것이 아니다: 우리가 실제로 아는 것 (Stanford SCALE/NSSA 브리프)
-- [[real-time-ai-feedback-technical-skills-2026]] — Kwara State 교육대학에서 기술 습득을 위한 실시간 AI 피드백: 인력 보조금으로 자리매김된 지역화 튜터
-- [[mishra-control-vs-agency-history-2025]] — 1960–70년대 전문가 시스템에서 인지 튜터까지 ITS 계보 추적
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI 튜터링을 생산적으로 만들기: 숙달 기반 수학 연습
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 한 번의 클릭 거리: 2년 학교 실험 속의 Khanmigo
-- [[yasir-llm-tutoring-agents-2026]] — KG 정답지로 LLM 피드백 에이전트 벤치마킹하기 (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — 대학 외국어 교육에서 강사가 설계한 AI 튜터 (자기결정이론)
-- [[measuring-llm-tutors-teach-vs-solve]] — LLM 튜터가 가르치는지 푸는지 측정하기
-- [[ai-tutoring-quality-k12-methodologies-2026]] — K-12 교육에서 AI 튜터링의 질을 높이기 위한 방법론
-- [[zhang-tutormoments-2026]] — 도움이 도움이 되지 않을 때: 생산적 고군분투를 위한 AI 튜터 평가
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 튜터링 (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서의 적응적 ICAP 비계 제공 (BKT 대 DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — 튜터링 특정 대 범용 AI: 지속적 학습 결과에 관한 증거
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors와 교육적 안전
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy 정서적 수학 튜터링
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL을 활용한 가상 튜터링: 수용과 학습에 관한 실험
-- [[learnlm-improving-gemini-learning]] — LearnLM: 학습을 위한 Gemini 개선
-- [[teachlm-post-training-llms-education]] — TeachLM: 진정한 학습 데이터로 LLM 사후 훈련하기
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화 사상을 활용한 결과 기반 지식 추적
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 혁신의 속도로 AI 튜터링 평가하기: GCSE 과학에서 실천자가 이끈 마이크로 무작위 시험
-- [[misconception-acquisition-dynamics-llms-2026]] — 옳은 풀이를 잃지 않으면서 많은 학생 오개념을 습득하는 튜터 모형
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 향상을 낸다
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 방벽인가 장애물인가? 프로그래밍용 AI 수업 조교에서 교육 양식과 맥락 인식의 효과
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 강좌 기반이고 LMS에 내장된 AI 튜터의 다학문 RCT: 정확 일치 표본에서 최종 성적 0.37 SD 하락, 플랫폼 참여 0.90 SD 하락, 수업 설계 통합은 없음 (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 교착을 해결하는 방식의 변이, 그리고 왜 확대가 깊이에 따라 변해야 하는지
-- [[lyu-data-driven-redesign-tutoring-2026]] — 지능형 튜터링 시스템을 위한 데이터 기반 재설계 과정 평가: 더 생산적인 작업 시간과 연습된 기능, 그러나 연습 투여량이 얇을 때는 학습 향상 차이 없음 (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: 장기 개인화 학습을 위한 이론 기반 틀(Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — 전 구역 교사 매개 AI 수학 도입: 약 51%의 참여 충실도와 주 2문제에서 0.11 SD, 주 20문제 이상에서 0.31 SD로의 투여량 기울기; IEP, EL, 히스패닉 학생에게 더 큰 탐색적 연관성
-- [[llm-tutors-process-synthesis-2026]] — LLM 튜터는 실제로 가르치는가? 튜터링 고리의 과정 중심 종합
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: 정답이 여러 개인 프로그래밍 문제에서 LLM 튜터의 반응성 격차를 드러내기(Cen과 Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — 학생의 추론을 지원하는가 대체하는가? AI 지원 증명 학습에서의 인지적 오프로딩(Chen 외 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 까다로운 행동을 보이는 학생에 대한 LLM 튜터 평가(Park 외 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — 손글씨 작업 위의 카메라: 시각적 접근과 능동적 수리(Kotalwar 외 2026)
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 기성 모형은 그 증거를 제공하지 못할 수 있다: Worden 외
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — 비원어민 영어 사용자 학생을 위한 다중 출처 AI 튜터
-- [[wu-hybrid-human-ai-tutoring-architecture-2026]] — 네 가지 하이브리드 튜터링 구조, 효과성·비용·도달의 "철의 삼각형", 미시/중시/거시 연구 의제 (Wu et al. 2026)
-
-- [[gnadlinger-educator-perspectives-its-design-2026]] — 지능형 튜터링 시스템의 메타시스템 설계에 교육자 관점 통합하기
-- [[asher-llm-tutoring-scaffolded-error-correction-2026]] — LLM 튜터링에서 비계화된 오류 정정이 개별화된 설명을 능가 (Asher et al., 2026)
-
-- [[learnlm-eedi-expanded-rct-2026]] — 확대된 영국 RCT: 10주에 근전이 이득은 있으나 표준화 시험 우위는 없음 (LearnLM Team, Google & Eedi 2026)
-

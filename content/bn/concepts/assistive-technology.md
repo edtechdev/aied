@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -60,27 +62,3 @@ ai_assist:
 - **"মধ্যম প্রভাব-আকার সঠিক সরঞ্জাম চিনিয়ে দেয়।"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang প্রমুখ]] দেখান এআই-ভিত্তিক হস্তক্ষেপ প্রতিবন্ধী শিক্ষার্থীদের শিখন-ফলাফলে (**g = 0.588**) মধ্যম ইতিবাচক প্রভাব দেয় — রোবট, সফটওয়্যার ও বুদ্ধিমান VR জুড়ে। এটি খুব ভিন্ন প্রয়োজন পরিবেশনকারী খুব ভিন্ন প্রযুক্তির গড়, তাই এটি শ্রেণিটিকে সমর্থন করে, তার ভেতরের পছন্দকে নয়।
 - **"রোগনির্ণয়-শর্তাধীন প্রবেশাধিকার একটি সমর্থনযোগ্য নকশা।"** অংশগ্রহণের জন্য আনুষ্ঠানিক রোগনির্ণয় দাবি করা বাস্তব প্রয়োজন-থাকা কিন্তু লেবেল-হীন শিক্ষার্থীদের বাদ দেয়, যা [[universal-design-for-learning|সর্বজনীন নকশার]] সঙ্গে সাংঘর্ষিক এবং প্রবেশাধিকারের খরচ শিক্ষার্থীর নথিপত্রের উপর চাপায়।
 - **"বেশি সহায়ক সরঞ্জাম মানে বেশি অন্তর্ভুক্তি।"** একটি স্কোপিং পর্যালোচনা পাঁচটি ডেটাবেসে **766টি রেকর্ড** পর্যালোচনা করে, আর ফলাফলের পরিমাণ প্রয়োজনের আচ্ছাদনের সমান নয় — প্রতি বাধায় গবেষণার সংখ্যাই বেশি তথ্যবহ।
-
-## সংযুক্ত ধারণা
-
-- [[accessibility]] — যে নকশা-ধর্মকে সহায়ক প্রযুক্তি কার্যকর করে
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[shin-ai-policies-sld-2026]] — বিশেষ শিখন-প্রতিবন্ধীদের জন্য এআই নীতি ও সহায়তা
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — প্রতিবন্ধী শিক্ষার্থীদের জন্য এআই হস্তক্ষেপের মেটা-বিশ্লেষণ
-- [[kutti-ai-voice-first-learning-companion]] — দৃষ্টিপ্রতিবন্ধী শিশুদের জন্য কণ্ঠ-প্রধান এআই
-- [[tactile-statistical-graphs-accessibility]] — এআই-উৎপন্ন স্পর্শভিত্তিক পরিসংখ্যান-গ্রাফ
-- [[text-simplification-its]] — বুদ্ধিমান টিউটরিংয়ের জন্য LLM-ভিত্তিক লেখা সরলীকরণ
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির/শ্রবণপ্রতিবন্ধী শিক্ষার্থীদের জন্য LLM প্রশ্ন-উৎপাদন
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX গণিত-প্রবেশযোগ্য পদার্থবিজ্ঞান ভিডিও ট্রান্সক্রিপশন
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — জেনারেটিভ এআই, ভার্চুয়াল বাস্তবতা এবং তার বাইরে: উচ্চশিক্ষায় নিউরোডাইভার্স শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির স্কোপিং পর্যালোচনা

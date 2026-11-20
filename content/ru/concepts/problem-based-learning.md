@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -79,41 +81,3 @@ PBL тесно связан с [[project-based-learning|project-based learning]]
 - **«Результаты PBL следует объединять с результатами проектного обучения.»** Трёхуровневый метаанализ держит **результативность продукта и решения в отдельной модели** именно потому, что она измеряет **совместную работу человека и ИИ**, а не собственное рассуждение учащегося. Их слияние приписало бы совместно произведённый артефакт студенту.
 - **«Совместные выигрыши — побочный эффект использования ИИ.»** Исследование обнаружило более высокое воспринимаемое совместное решение проблем (**M = 3,62 против 3,05, d = 0,88**) и совместное решение проблем (**3,40, d = 1,02**), причём **наибольшие эффекты взаимодействия — на совместном построении знаний и социальной регуляции**, — именно те измерения совместного процесса, которые предсказывает дизайн. Механизм — структурированное сотрудничество, а не инструмент.
 - **«PBL с ИИ в основном экономит время фасилитатора.»** Измеримые выигрыши лежат в качестве процесса по измерениям, которые существуют только тогда, когда групповая структура спроектирована для них. Реализация PBL, добавляющая ИИ без структурирования совместного построения знаний, не должна ожидать того же эффекта.
-
-## Связанные концепции
-
-- [[project-based-learning]]
-- [[case-based-learning]] — подготовленные кейсы и обсуждение кейсов, в отличие от открытого исследования в PBL
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Продуктивная неудача
-
-## Связанные статьи
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Обучение, основанное на проблемах, и проектное обучение как перспективные рамки для образования с поддержкой генеративного ИИ: новые данные из систематического обзора и трёхуровневого метаанализа
-- [[pbl-structural-conditions-ai-2026]] — PBL и структурные условия продуктивной интеграции ИИ (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Систематический обзор вовлечённости педагогов в ИИ в рамках PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — Виртуальный пациент на базе генеративного ИИ для занятий по медицинскому PBL (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — Рамка LEARN для ответственного использования генеративного ИИ в PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT как адаптивный скаффолдинг в PBL с ИИ-поддержкой (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL в биомедицинской инженерии в эпоху генеративного ИИ (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — PBL с поддержкой ИИ для вычислительного мышления
-- [[genai-counter-learner-groupthink-2025]] — Агент на базе генеративного ИИ противодействует групповому мышлению в межпрофессиональном PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — Чатботы на базе генеративного ИИ и формулирование задач в естествознании начальной школы
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для исследовательского обучения в STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: ИИ для поддержки проектирования задач в духе PF
-- [[genai-scenario-based-healthcare-education-2026]] — Систематический обзор генеративного ИИ в сценарном медицинском образовании (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Модуль CTD-PBL с поддержкой ИИ со 130 будущими преподавателями физики: TPACK и коллаборативное решение проблем (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Обучение, основанное на проблемах, с опосредованием фасилитатора и с опосредованием ИИ в фармакологическом образовании: квазиэкспериментальное исследование среди студентов-медиков второго курса

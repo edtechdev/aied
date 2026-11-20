@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -72,26 +74,3 @@ ai_assist:
 **«Студенти, які покинули інструмент, мали брак мотивації.»** Покидання часто є правильним прочитанням користувачем тієї ціни взаємодії, яку проєктувальник ніколи не вимірював. Оскільки інструмент, яким ніхто не користується, не може мати ефекту, частка покидань сама по собі є освітнім результатом.
 
 **«Тестування зручності — це те саме, що вимірювання навчання.»** Вони відповідають на різні питання, і жодне не замінює інше; режим відмови — трактувати будь-яке з них як достатнє для впровадження.
-
-## Пов’язані поняття
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Пов’язані статті
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Дослідження юзабіліті гуманоїдного робота-оповідача на основі LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: юзабіліті застосунку на основі генеративного ШІ
-- [[supplynet-visual-exploratory-learning]] — Дослідження користувачів SupplyNet
-- [[anvil-ai-educational-animations]] — Юзабіліті згенерованих ШІ освітніх анімацій
-- [[code-anchor-multi-view-visualization]] — Дослідження мислення вголос багатовидових візуалізацій коду
-- [[learn-framework-responsible-genai-pbl-2026]] — Рамкова основа LEARN і оцінка методом мислення вголос
-- [[feedback-futures-genai]] — Як здобувачі обробляють згенерований ШІ зворотний зв’язок
-- [[llm-chatbots-cs-multiple-choice]] — Чатботи на основі LLM для завдань із вибором відповіді в CS
-- [[conversational-ai-agents-umbrella-review-2026]] — Зонтичний огляд розмовних агентів ШІ

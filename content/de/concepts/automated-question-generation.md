@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -96,56 +98,3 @@ AQG ist ein zentraler Befähiger [[adaptive-learning|adaptiven]] und [[personali
 **„Aufgabengenerierung personalisiert das Üben von selbst."** Sie erzeugt Angebot, und Personalisierung ist ein Zuordnungsproblem. Mehr Aufgaben zu produzieren sagt Ihnen nicht, welche Aufgabe eine gegebene lernende Person als Nächstes sehen sollte, und die Frage der adaptiven Auswahl ist ein eigener Mechanismus mit eigener Evidenz.
 
 **„Generierung skaliert Assessment, ohne zu verändern, was Assessment misst."** Sie verändert die Zusammensetzung dessen, was gemessen wird, weil die Aufgaben, die sich gut generieren lassen, keine repräsentative Stichprobe der Aufgaben sind, die gut messen. Leicht zu generierende Formate werden die schwerer zu generierenden fortschreitend verdrängen, was das Konstrukt still umformt.
-
-## Verbundene Konzepte
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Verbundene Artikel
-
-- [[genai-medical-education-transformation-review-2026]] — Scoping-Review von 153 Berichten zur medizinischen Ausbildung über KI-gestützte Item-Generierung im Vergleich zur Item-Qualität von Lehrenden
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Großangelegte Feldvalidierung der Qualität KI-generierter Prüfungen mittels IRT
-- [[generate-then-validate-question-gen]] — Fragengenerierung nach dem Generate-Then-Validate-Verfahren
-- [[kt4eqg-personalized-question-generation]] — Personalisierte Fragengenerierung mittels Knowledge Tracing
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-gestützte Fragengenerierung für gehörlose und schwerhörige Lernende
-- [[llm-educational-question-cognitive-depth]] — Kognitive Tiefe von LLM-generierten Fragen
-- [[slidesqaqa-pedagogical-question-generation]] — Pädagogische Fragengenerierung für Foliensatz-Q&A
-- [[code-gen]] — CODE-GEN: RAG-basierte Fragengenerierung mit Human-in-the-Loop
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ-Riddles-Benchmark
-- [[taklif-ai-interest-based-personalized-assignments]] — Interessenbasierte personalisierte Aufgaben
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-basierte Schwierigkeitskalibrierung
-- [[self-referential-l2-writing-llm-assessment]] — Selbstreferenzielle analytische Schreibbewertung
-- [[cross-dataset-bloom-question-classification]] — Datensatzübergreifende Klassifikation von Bloom-Fragen
-- [[llm-chatbots-cs-multiple-choice]] — LLM-Chatbots und CS-Multiple-Choice-Aufgaben
-- [[socratic-tests-conversational-assessment]] — Sokratische Tests: dialogbasierte Leistungsbeurteilung
-- [[llm-turing-test-italian-legal-exams-2026]] — LLM-Turing-Test in juristischen Prüfungen
-- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Itemschwierigkeit mithilfe von LLMs und baumbasiertem ML
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Prozessbasierte Qualitätsbewertung von Mathematikaufgaben
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Ein agentischer Tutor, der seinen Lernenden in einer Mensch-KI-Co-Learning-Schleife kennenlernt
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automatisierung konstruktiver Leistungsbeurteilung mit Large Language Models: Auf dem Weg zu skalierbarer und wiederholter Bewertung praktischer Kompetenz
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluierung vortrainierter Modelle zur pädagogischen Bewertung neuartiger KI-gestützter Lernfragen
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Studierende konnten in einer benoteten Prüfung KI-generierte MCQs nicht von Items der Approbationsprüfung unterscheiden, und 18,2 % der generierten Items wurden bei der Überprüfung aussortiert (Vogt et al. 2026)
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Generierte Items, die ein Bewertungsraster für die Itemformulierung erfüllen, können ihr angestrebtes Kompetenzniveau dennoch verfehlen
-- [[islam-human-vs-ai-sba-dental-2026]] — Die Finalisierungszeit sank von 6,0 auf 1,0 Minuten pro Item, gemessen vom nutzbaren Entwurf bis zur Endfassung, nicht von Anfang bis Ende

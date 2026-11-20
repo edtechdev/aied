@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -63,39 +65,3 @@ AI 교육에서 디자인 씽킹은 [[human-ai-collaboration]]과 깊이 얽혀 
 **"디자인 씽킹은 단계별로 자동화할 과정입니다."** 그것은 문제를 틀짓고 다시 틀짓는 규율이며, 고착이 바로 그것을 봉쇄합니다. 틀을 검토하지 않은 채 단계를 자동화하면 잘못된 문제에 대해 유능한 산출을 만듭니다.
 
 **"학생에게 동의하는 AI 에이전트는 그들의 설계 추론을 [[student-support-and-success|뒷받침]]합니다."** 여기 문서화된 생산적 사용은 반대 방향으로 갑니다. [[ai-agents-constructive-conflict-design-education-2026|AI 에이전트와의 건설적 갈등]]은 재고를 강제하는 적대적 프롬프팅을 시험합니다. 순응적인 에이전트는 고착을 강화하고, 반대 지향적인 에이전트가 교육적 주장을 지닌 설계입니다.
-
-## 연결된 개념
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## 연결된 문서
-
-- [[genai-architecture-education]] — Gen-AI-tecture: 설계 과제에서 건축 학생들을 지원하기 위한 생성 AI 사용
-- [[genai-architectural-design-studios]] — 건축 설계 스튜디오에서의 생성 AI의 발전과 적용
-- [[social-robot-study-companions]] — 대학생들과 빌드 가능하고 오픈한 소셜 로봇 학습 동반자 공동 창작하기
-- [[gaide-vibe-coding-k12-teachers]] — 바이브 코딩을 통해 AI 기반 학습 기술을 만드는 K-12 교사를 위한 안내 틀
-- [[dot-framework-survey-2026]] — DOT 틀 설문: AI가 증강된 교육에서의 실무자 믿음과 행동
-- [[ai-agents-constructive-conflict-design-education-2026]] — 초심 상호작용 설계자들의 재고를 향상시키기 위해 AI 에이전트와 건설적 갈등을 enactment하기
-- [[genai-usage-design-students-survey]] — 디자인 학생들의 GenAI 사용에 관한 연구: 2025/2026년 폴리테크니코 디 밀라노에서의 설문 결과와 AI 실천 일지 분석
-- [[design-thinking-aigc-fashion-film-2026]] — AIGC 지원 패션 영상 디자인에서 학습 단계에 따른 디자인 씽킹 마인드셋(Liu 등 2026)

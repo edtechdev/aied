@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -83,49 +85,3 @@ ai_assist:
 **«Самый безопасный тьютор — тот, который чаще всего отказывает.»** Система, которая «отказывает равномерно», всё равно может закреплять неравенство — это вторая половина описания тихого провала на этой странице. Режим отказа — не только тьютор, который отвечает правильно и разрушает обучение; это и тьютор, чьи отказы распределяют поддержку неравномерно между студентами, и сплошная политика отказов обменивает видимый риск на невидимый.
 
 **«Любая работа по безопасности на уровне модели — мера по связям с общественностью.»** Часть её измерима. Работа по [[llm-unlearning-math-privacy|разучиванию математики]] применяет градиентное разучивание, чтобы вырезать идентифицирующую информацию и вредное содержание, сообщая о выдаче персональных данных до **0.1%** и токсичных частот до **0.0%** при сохранении способности. Контроли на уровне модели — один слой многослойной защиты: недостаточны сами по себе и не ничего.
-
-## Связанные концепты
-- [[guardrails]] — механизмы проектирования, реализующие безопасность
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Связанные статьи
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Рамка SCAFFOLD для направления диалога «студенты—ИИ», вместе с её аудиторным пилотом
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Спроектированные преподавателями слои безопасности: границы предметной области, фильтрация и переопределение
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: рамка проектирования безопасного и здравого ИИ для обучения
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

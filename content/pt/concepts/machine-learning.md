@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -78,35 +80,3 @@ O aprendizado de máquina também aparece na educação como uma *matéria*. Na 
 **"A IA generativa tornou o aprendizado de máquina clássico obsoleto na educação."** Eles fazem trabalhos diferentes. A predição de estados de quem aprende, a estimativa de dificuldade e a previsão de progresso continuam sendo problemas de ML clássico, e a literatura de rastreamento de conhecimento e de calibração de itens que este corpus documenta não é atendida por um modelo de linguagem. A IA generativa é um subconjunto do aprendizado de máquina, e não um substituto dele.
 
 **"A formação de professores deveria ensinar aos estudantes sobre LLMs e não sobre aprendizado de máquina."** Limitar o letramento à camada generativa deixa os profissionais incapazes de interrogar os sistemas preditivos que tomam decisões sobre seus estudantes — que é onde os erros consequentes se concentram.
-
-## Conceitos conectados
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Artigos conectados
-
-- [[at-risk-students-ml-prediction]] — Classificação supervisionada por ML para identificar estudantes em risco de abandono
-- [[trace-course-grade-prediction-2026]] — Transformer que prevê conjuntamente cursos e notas (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Gêmeos digitais de estudantes movidos por IA para trajetórias preventivas alinhadas à carreira
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recurso contrafactual com restrições semânticas para intervenção acionável
-- [[interactive-online-learning-ai-2025]] — Híbrido DMO-GRU para predição na aprendizagem interativa online
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Andaimento adaptativo do engajamento cognitivo em um ITS (BKT versus DRL)
-- [[pedagogical-safety-rl]] — Framework formal para segurança pedagógica na aprendizagem por reforço educacional
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revisão de uma década da supervisão automatizada por aprendizado profundo
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Rastreamento de conhecimento baseado em resultados com mapeamento de afinidade
-- [[bird-multimodal-educational-literature-2026]] — Fusão multimodal para classificar literatura educacional
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimando a dificuldade dos itens usando LLMs e ML baseado em árvores
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Um chatbot culturalmente consciente movido por IA para detecção de estresse e apoio ao bem-estar entre estudantes universitários paquistaneses usando PLN e aprendizado de máquina
-- [[synthetic-educational-data-structural-fidelity-2026]] — O que as Métricas de Fidelidade Perdem: Uma Verificação Estrutural dos Dados Educacionais Sintéticos
-

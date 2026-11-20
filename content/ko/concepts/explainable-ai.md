@@ -19,8 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -106,48 +106,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - **"사용자를 만족시키는 설명은 시스템을 설명한 것이다."** 같은 가독성 실패가 [[automated-assessment|자동화 평가]]의 보안 측면에도 나타납니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]의 레드팀 연구는 일상적인 채점 워크플로가 주입된 지시로 조작될 수 있음을 발견했습니다. 그럴듯한 서사와 감사 가능한 서사는 다른 산출물입니다.
 - **"일반 XAI 실천은 교육으로 전이된다."** [[xai-education-framework|XAI-ED 프레임워크]](Khosravi et al., 2022)는 교육이 범용 XAI를 넘어서는 **특유의 설명 가능성 수요**를 가진다고 주장합니다. 청중에 설명을 인증해야 하는 감사자가 아니라 설명에 따라 행동해야 하는 학습자가 포함되기 때문입니다.
 - **"충실성은 탐침 없이 주장할 수 있는 속성이다."** 측정된 충실성은 인간 평정과 함께 **루브릭 결정적 구간의 반사실적 삭제**를 요구합니다. 루브릭 정렬에 대한 주의가 **78.0%에 도달한 것은 GPT-4 제로샷의 41.7%, BERT의 32.1%와 비교한 결과**이며, 이는 해석 가능성에 관한 주장이 아니라 그런 탐침에서 나온 비교 결과입니다.
-
-## 연결된 개념
-
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 인용과 권위 신호가 잘못된 산출물에 대한 따름을 높였고, 일부 참조는 잘못 귀인되거나 허구였다
-
-- [[lund-socially-accountable-data-science-xai-2026]] — XAI를 책임의 실천으로 가르치기 위한 네 기둥 프레임워크(답변 책임, 책임, 집행, 반성) (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — 학생 중심 ITS의 가치 민감 설계(협력적 설명 대 원시 설명)
-- [[xai-education-framework]] — XAI-ED: 교육에서 설명 가능한 AI의 기초적 프레임워크 (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 교사의 신뢰와 수용을 구축하는 학문 영역 특정 설명 (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — 투명한 AI 보조 평가에 대한 학생 관점 (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — 해석 가능한 지식 추적
-- [[explainable-probabilistic-kt]] — 확률론적 임베딩을 통한 설명 가능한 지식 추적
-- [[neural-symbolic-knowledge-tracing]] — 신경-기호 지식 추적
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위해 블랙박스 모델을 자기 설명 LM으로 증류하기
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 프라이버시 보존 위험 모델링을 위한 연합·설명 가능 학습 분석
-- [[sc2r-counterfactual-recourse-educational-2026]] — 교육적 의사결정 지원을 위한 의미 제약 대안적 상정
-- [[fair-explainable-edu-recommendations]] — 공정하고 설명 가능한 교육 추천
-- [[multimodal-affective-its-presentation]] — 다중 모달 정서 피드백을 위한 해석 가능한 폐쇄 루프 ITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 고등교육에서 ChatGPT 도입의 설명
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 설명 가능성을 설계에 내장한 LLM 프레임워크: 자동 교수 평가를 위한 이중 렌즈 주의와 점수 매개변수화 설명 (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 탐지가 사용자에게 결코 보고되지 않은 AI 매개 채점에서의 프롬프트 인젝션 (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 질문의 교수학적 평가를 위한 사전 훈련 모델의 평가
-- [[decision-making-agent-student-decision-acceptance-2026]] — 교사 대 AI가 낸 채점 결정: 서면 근거 제시가 공정성 간극을 넓힘
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 한 코호트의 일곱 모형이 서로 다른 요인에 예측을 귀인했다: 기호적, 아기호적, 신경-기호 모형
-- [[kares-xai-evaluation-alignment-2027]] — 참가자 166명, 세 가지 현저성 방법: 만족도와 신뢰는 평평, 과제 수행과 충실성 지표는 불일치 (Kares et al., 2027)

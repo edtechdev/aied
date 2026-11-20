@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -160,41 +162,3 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 **«Notas más altas mientras se usa la herramienta indican que la herramienta enseñó más.»** En un estudio de matemáticas de [[k-12|K-12]], el estudiantado que practicaba con un [[conversational-ai|chatbot]] de propósito general obtuvo mejores notas de práctica y después puntuó **alrededor de un 17% peor** en la evaluación sin asistencia. El rendimiento en la práctica medido con la herramienta presente es la medida inflada; la medida sin asistencia es el resultado, y solo una de las dos estaba subiendo.
 
 **«Si el efecto es real, los detalles de implementación importan poco.»** Son el efecto. Un estudio que siguió a 30 estudiantes en un curso de una institución, sobre una versión de la herramienta que ya nadie usa, ha producido un hallazgo sobre una configuración que ya no existe. La especificación del tratamiento, la versión y el entorno forman parte de la afirmación y no son contexto alrededor de ella.
-
-## Conceptos conectados
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
-
-## Artículos conectados
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presunto eficaz: auditoría forense de 14 metaanálisis en AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Efectos de la IA ajustados por sesgo de publicación, alrededor de un tercio del tamaño reportado
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT en la educación: un efecto en busca de una causa
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Los criterios de inclusión usados como umbral de rigor, y una heterogeneidad que cambia con el modelo
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Cuando la fiabilidad de la calificación automatizada toca el techo de medición de la tarea
-- [[verification-quality-reliance-calibration-genai-2026]] — Lo que la literatura sobre verificación y dependencia no mide
-- [[citation-errors-hallucinations-computing-education-2026]] — Referencias fabricadas que llegaron a imprenta en 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Ganancias en la práctica, pérdidas en el examen: el problema de retirar la ayuda en matemáticas de K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Efectos de subgrupo cuyos intervalos de confianza cruzan el cero
-- [[chick-faculty-development-ethical-ai-2026]] — Condiciones habilitantes: señales de política, suscripciones personales, falta de tiempo
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Métricas de proveedor con su calibración y su número de experimentos declarados
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Hallazgos ligados a versiones de modelos, y la agitación del campo
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Recuentos de evidencia independiente para 16 productos de IA dirigidos al estudiantado que ya están en uso
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Sesgo de notificación medido en los 155 estudios de la propia revisión

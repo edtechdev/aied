@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -77,7 +79,6 @@ ai_assist:
 
 تحریک ٹیکنالوجی کے ادراک سے بھی آگے کام کرتی ہے، صرف اس کے ساتھ ساتھ نہیں۔ 340 طلبہ کے طبیعیات نمونے میں افادیت قدر نے محسوس کردہ افادیت کی پیش گوئی کی (β = 0.43) اور اندرونی قدر نے رویے کی (β = 0.20)، جبکہ محسوس کردہ لاگت نے استعمال کی آسانی (β = −0.16) اور رویہ (β = −0.27) کم کیا، بغیر ارادے تک کوئی براہ راست راستہ ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]])۔
 
-
 **تحریکی ضابطگی اس ادب کا سب سے پتلا تصور ہے۔** 39 مطالعات کے [[meta-analysis-systematic-review|منظم جائزے]] میں [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]] نے پایا کہ خود مختار تحریک 2 مطالعات میں ناپی گئی، شناخت شدہ ضابطگی اور کنٹرول شدہ تحریک ہر ایک 1 مطالعے میں، جبکہ بنیادی نفسیاتی ضروریات 17 مطالعات میں اور شمولیت 10 میں ناپی گئی۔ مصنفین اس خلا کو جائزے کا مرکزی مسئلہ قرار دیتے ہیں، کیونکہ ضابطگی پوچھتی ہے کہ طالب علم کی تحریک کیوں ہے، جبکہ ضرورت کی تکمیل صرف یہ بتاتی ہے کہ ماحول نے اسے سہارا دیا یا نہیں۔
 
 ## متعلقہ تصورات سے تعلق
@@ -89,57 +90,3 @@ ai_assist:
 - **"GenAI کا تحریکی اثر ایک صاف ستھرا، بڑا فائدہ ہے۔"** 42 مطالعات کے میٹا تجزیے (56 اثر سائز، 6,059 طلبہ) نے تحریک کا اثر g = 0.764 (95% CI [0.566, 0.962]) پایا **مگر I² = 93.7% کے ساتھ**۔ اتنی زیادہ ناہمیتی کا مطلب ہے کہ مجموعی عدد ایسے مطالعات کا بیان ہے جو آپس میں متفق نہیں، چنانچہ یہ متضاد طریقوں پر ایک اوسط ہے، نہ کوئی دہرایا جا سکنے والا اثر۔
 - **"مایوسی کم کرنا تحریک برقرار رکھنے کے مترادف ہے۔"** تین بازوؤں والے ایک [[rct|RCT]] نے پایا کہ سہارا یافتہ ٹیوٹر اور غیر محدود ChatGPT نے مایوسی **یکساں طور پر کم کی** (3.21 اور 3.13)۔ دو بہت مختلف ڈیزائنوں نے ایک ہی جذباتی نتیجہ پیدا کیا، چنانچہ مایوسی کا ڈیٹا ان میں فرق نہیں کر سکتا۔
 - **"تحریک دینے والا ڈیزائن اچھا ڈیزائن ہے۔"** **222 پہلے سال کے ہائی اسکول طلبہ** میں استاد–استاد مکالمے کی شکل نے متبادل کے مقابلے میں **ARCS تحریک زیادہ بڑھائی** جبکہ **مجموعی جانچ کو بہتر نہ کیا**۔ تحریک ہلی، پرکھا گیا معیار نہیں۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والوں سے متعلق تصورات کی چھتری
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — سماجی-جذباتی سیکھائی
-- [[reflection]]
-
-## منسلک مضامین
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — توقع–قدر کے عقائد بطور GenAI قبولیت کے پیش رو
-- [[liu-ai-assistance-reduces-persistence-2026]] — مختصر AI استعمال نے بعد کے بلا مدد مسائل پر استقامت کم کی (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — استدلالی لکھائی پر خودکار فیڈبیک: ثانوی طلبہ کی فیڈبیک قبولیت اور فیڈبیک ادراک کا کردار
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — کوشش کا تضاد اور بے رگڑ معاونت کا شیطانی چکر
-- [[cui-motivation-roles-metacognitive-genai-2026]] — علمی GenAI شمولیت میں تحریک اور کردار
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — جنس، تحریک اور GenAI کامیابی کے راستے
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI نصاب کے ڈیزائن کے لیے اساتذہ کی ڈیجیٹل قابلیت کا جائزہ (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — AI کے ساتھ تعلیم کے مستقبل کی تشکیل کی تحریک
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — سیکھنے والے کی خصوصیات × TTS مکالمے کی شکل کے تعاملات
-- [[student-perceptions-ai-study-productivity-2026]] — پڑھائی کی پیداواریت اور سیکھنے کے لیے مصنوعی ذہانت کے اوزاروں بارے طلبہ کے ادراک: ایک تلاشی سروے مطالعہ
-- [[liang-ai-learning-motivation-sdt-2026]] — طلبہ کی AI سیکھائی کی تحریک کا SDT مخفی منتقلی تجزیہ (2,086 ثانوی طلبہ)
-- [[wang-goal-setting-ai-engagement-2026]] — ہدف مقرری کا نظریہ: AI کی معاونت والی انگریزی سیکھائی میں استاد کی معاونت، کامیابی کے اہداف اور شمولیت (758 چینی طلبہ)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAI کے ساتھ ذمہ داری سے تدریس سیکھنے میں افادیت–قدر کی مداخلت کے اثرات (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — ابتدائی L2 GenAI لکھائی پروگرام میں تصوراتی طور پر مخصوص تحریکی فوائد (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR اسکیل: پڑھتے وقت AI کی طرف ہاتھ بڑھانے کے چار محرک خاندان
-- [[genai-math-relevance-intervention-2026]] — GenAI متعلقیت کے مکالمے نے متعلقیت بطور شناخت بڑھائی مگر کلاس کی دلچسپی نہ ہلی
-
-- [[genai-learning-motivation-meta-analysis-2026]] — سیکھائی کی تحریک پر GenAI کے اثر کا بے ترتیب اثرات میٹا تجزیہ (56 اثر سائز، 6,059 طلبہ)
-- [[ai-student-motivation-scoping-review-2026]] — AI اور طالب علم کی تحریک پر 156 مطالعات: 85.3% نے کوئی تحریکی نظریہ استعمال نہ کیا، اور تصور، سطح اور ملک کے لحاظ سے کوریج تنگ ہے
-- [[gai-advocacy-practice-art-education-2026]] — GAI وکالت میں پالیسی–عمل کے خلا طلبہ کے جانچے جانے والے دباؤ کا کام کرتے ہیں
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — سہارا یافتہ ٹیوٹر نے اندرونی تحریک بڑھائی جہاں غیر محدود ChatGPT نے نہیں بڑھائی
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — یکساں معیار والا AI اور مدرس کا فیڈبیک، تحریکی فرق تعلق کے راستے (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDT کی رہنمائی میں 39 مطالعات کا جائزہ: ضروریات اور شمولیت اکثر ناپی گئی، تحریکی ضابطگی تقریباً کبھی نہیں

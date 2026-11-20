@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -80,30 +82,3 @@ Parce que les portefeuilles électroniques mettent au premier plan le **processu
 **« Un résultat multivarié significatif prouve que le portefeuille était l'ingrédient actif. »** Il prouve que l'ensemble a fait bouger les résultats. L'étude combinait un outil d'IA, une structure de portefeuille et des tâches orales, et un plan de cette forme ne peut pas isoler le composant qui a produit le gain. L'affirmation défendable porte sur la combinaison, et la prudence des [[learning-gains|gains d'apprentissage]] s'applique : les gains rapportés doivent être rattachés à un composant avant de pouvoir être réutilisés.
 
 **« Les portefeuilles électroniques remplacent le besoin d'une évaluation sans aide. »** Ils la complètent. Un portefeuille atteste un processus et une progression dans le temps ; il n'atteste pas ce qu'un apprenant sait faire sans soutien, et confondre les deux réintroduit le problème de l'artefact-comme-substitut que le format avait été adopté pour résoudre.
-
-## Concepts liés
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## Articles liés
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Perceptions des étudiants du développement des multilittératies dans une évaluation par portefeuille assistée par l'IA (Ni et Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT associé à l'évaluation par portefeuille électronique pour l'expression orale en EFL et la littératie de la rétroaction (Laksana et coll. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Évaluation par portefeuille et par compétences à l'ère de l'IA
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Évaluation authentique robuste face à l'IA générative, y compris les portefeuilles de contribution sociale
-- [[beyond-detection-authentic-assessment-ai-2025]] — Portefeuilles annotés et soutenances orales comme évaluation résistante à l'IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Le portefeuille symbiotique pour les apprenants hybrides
-- [[pbl-structural-conditions-ai-2026]] — Les portefeuilles comme réponses partielles à l'évaluation à grande échelle
-- [[learn-framework-responsible-genai-pbl-2026]] — Portefeuilles d'apprentissage personnels comme traces d'apprentissage évaluables

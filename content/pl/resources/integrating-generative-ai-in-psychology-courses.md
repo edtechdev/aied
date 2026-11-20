@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -93,9 +94,3 @@ Wykładowcy psychologii na każdym etapie kariery oraz wykładowcy pokrewnych [[
 ## Uwagi i zastrzeżenia
 
 Darmowy PDF, bez konta. Prawa autorskie należą do STP, to nie licencja Creative Commons: kopie osobiste i klasowe są dozwolone z podaniem autorstwa, natomiast redystrybucja lub użycie komercyjne wymagają zgody autora. Rozdziały to relacje praktyków, nie badania — bez projektów, prób ani wielkości efektów — więc traktuj twierdzenia jako raporty z doświadczenia i cytuj rozdziały osobno.
-
-## Powiązane pojęcia
-
-- [[social-sciences-education]] — strona klastra, której sekcję psychologiczną ten tom wypełnia praktyką na poziomie kursów
-- [[ai-literacy]] — rozwojowe ujęcie, które redaktorzy nadają zbiorowi
-- [[academic-integrity]] — temat rozdziału o polityce i powód, dla którego kilka rozdziałów kursowych wbudowuje kroki weryfikacji

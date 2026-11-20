@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,6 +44,3 @@ ai_assist:
 ## 注意事项
 
 Google 声明：除非用户主动提交反馈，个人账号的内容不会用于训练其模型；Workspace 的上传、查询与回答即使提交了反馈也不会用于训练；[[privacy|数据不与第三方共享]]。但删除的笔记本无法恢复。上文的能力宣称都出自厂商之口，学区或机构应结合自己的数据处理协议而非产品页面来核实。2026 年的报道还提到一场关于生成式播客所用声音的诉讼（Google 已否认），这提醒我们音频产出会引发 [[legal-issues-and-risks|肖像与声音权问题]]（likeness questions），这与来源接地（source-grounding）的保护措施是两回事。生成的抽认卡、测验和摘要都应视为需要对照来源核对的草稿；另外，免费层的限额会不预告地变动。
-
-## 关联概念
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

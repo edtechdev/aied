@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -86,37 +88,3 @@ ai_assist:
 - **"ייצוגים מנטליים אינם ניתנים לצפייה, ולכן טענות קוגניטיביות על למידה הן הנחות."** שחזור תמונות מה**EEG** של לומדים במהלך סרטוני מדע מצא ש**נאמנות הייצוג עקבה אחרי ביצועי המבחן** (מקדם רגרסיה **0.8481, R² = 0.79**). ההנחה הקוגניטיביסטית של ייצוג פנימי ניתנת למדידה, והמדידה חזה את התוצאה.
 - **"R² גבוה פירושו שהייצוג מסביר את הלמידה."** R² = 0.79 הוא קשר חזק בין נאמנות לביצוע על אותו חומר. הוא אינו מבסס שהעלאת הנאמנות מעלה את הביצוע, וזו טענת ההתערבות.
 - **"רכיבי ידע הם פיקציית מודל נוחה."** ניתנות-לפירוק היא מה שמאפשר ל[[knowledge-tracing|מעקב אחר ידע]] ול[[cognitive-diagnosis|אבחון קוגניטיבי]] להתקיים, והשיטות עובדות במידה שההנחה מחזיקה. התייחסות אליה כפיקציה משליכה את הסיבה שהשיטות מייצרות אומדנים שמישים — בעוד התייחסות אליה כעובדה מגזימה במה שמודל מותאם אומר על נפש.
-
-## מושגים מקושרים
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — ממצאי השמירה שמשפחת הפרקטיקה הזו נשענת עליהם
-
-## מאמרים מקושרים
-
-- [[cognitive-shift-ai-education]] — המפנה הקוגניטיבי בחינוך בינה מלאכותית
-- [[sim-ai-summary-memory-distortion-2026]] — סיכומי AI מטעים שינו מה מבוגרים זכרו, בין אם הסיכום תויג כ-AI או כאדם
-- [[cogtax-cognitive-taxonomy]] — טקסונומיה קוגניטיבית לשימוש בבינה מלאכותית
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — סוכני מודל לשוני גדול פדגוגיים המעוגנים במעקב ידע
-- [[nie-personavlm-long-term-personalization-2026]] — מידול סטודנט וזיכרון של מודל לשוני גדול
-- [[ai-cognitive-partner-co-regulation-learning]] — בינה מלאכותית כשותפה קוגניטיבית בלמידה מוסדרת-משותפת
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — ארגון המאמץ, לא כמותו, עקב אחרי העומס והתסכול
-- [[crediting-assisted-work-inflates-mastery-2026]] — טענות שליטה ממעקב ידע תלויות באופן שבו מזכים עבודה מסייעת (Srivastava 2026)

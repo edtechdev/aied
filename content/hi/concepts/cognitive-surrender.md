@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -112,39 +114,3 @@ ai_assist:
 **"उपाय बेहतर AI है, क्योंकि समर्पण गलतियों से आता है।"** समर्पण बातचीत की *संरचना* से आता है: जो प्रणाली पहले एक संभाव्य उत्तर पैदा कर देती है वह शिक्षार्थी के अपना उत्तर बनाने का अवसर हटा देती है। सटीकता सुधारना गलत उत्तरों से होने वाली हानि घटाता है और मत बनाने के परित्याग पर कुछ नहीं करता, और वही हानि उपकरण के जाने के बाद भी बनी रहती है।
 
 **"महत्वपूर्ण मूल्यांकन सिखाना पर्याप्त है।"** यह आवश्यक है और यह बहुत देर से आता है। एक बार संभाव्य उत्तर स्क्रीन पर आ जाने के बाद, मूल्यांकन पुष्टि बन जाता है, यही कारण है कि यहाँ का डिज़ाइन साहित्य प्रणाली के आउटपुट के बाद उसकी जाँच करने के बजाय छात्र के प्रयास को आउटपुट से पहले रखता है।
-
-## संबंधित अवधारणाएँ
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## संबंधित लेख
-
-- [[shaw-nave-cognitive-surrender-2026]] — त्रि-तंत्र सिद्धांत और समर्पण का प्रयोगात्मक हस्ताक्षर
-- [[generative-ai-reduced-study-time-math]] — ALEKS में जनसंख्या-स्तरीय विस्थापन
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 में समर्पण/ऑफलोडिंग/एजेंसी ढाँचा
-- [[du-yuan-epistemic-dependence-2026]] — साधनात्मक बनाम निर्णय-युक्त सहायता
-- [[ai-advice-suppresses-ikt-suspension-2026]] — "मुझे नहीं पता" का ढहना
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — तंत्रिका जुड़ाव और स्वामित्व
-- [[genai-thoughtless-use-self-directed-learning-2026]] — विचारहीन उपयोग और स्व-निर्देशित सीखना
-- [[stamatoulis-genai-use-patterns-2026]] — कम-जाँच अपनाना बनाम मूल्यांकनात्मक एकीकरण
-- [[cognitive-washout-ai-skill-decay-2026]] — वापसी के बाद क्या होता है
-- [[ai-overreliance-complex-adaptive-system-2026]] — एक जटिल अनुकूली तंत्र के रूप में निर्भरता
-- [[brcic-effortless-trap-productive-struggle-2026]] — AI को ऐसे रखना कि कार्य प्रयासपूर्ण रहे
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — अंशांकन प्रशिक्षण
-- [[family-school-autonomy-support-genai-2026]] — निर्भर बनाम स्वायत्त ऑफलोडिंग
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — वर्कशीट-आधारित सहायक ने अप्रचार बढ़ाया नहीं, घटाया, समर्पण हस्ताक्षर के लिए एक सीमा-शर्त (Braun 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — प्राकृतिक परिवेश में पूरा-निबंध प्रत्यायोजन: 77 में से 15 निबंध पूरी तरह मॉडल-लिखित, 20 ने पूरा निबंध माँगा (Jelson एट अल. 2026)
-

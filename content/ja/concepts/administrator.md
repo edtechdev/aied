@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -50,10 +52,6 @@ ai_assist:
 - **ウェルビーイングと学生の経験:** [[ai-campus-wellbeing-tools|AIによるキャンパスのウェルビーイング・ツール]]は、組織が[[student-support-and-success|学生支援]]のためにAIをどう展開するかを検討し、管理者の選択を[[student-experience|学生の経験]]の成果に結びつけています。
 - **ガバナンスと規制:** 管理者の意思決定は、[[educational-policy-ai]]、[[governance]]、[[regulation]]と相互作用します。組織はAIの能力を、利用可能な枠組み、評価のルール、データガバナンス基準に翻訳します([[genai-policies-higher-ed-computing|組織におけるGenAI政策の分析]]を参照)。
 
-## 関連する概念
-
-管理者の視点は、[[educational-policy-ai]](政策形成)、[[governance]]と[[regulation]](ガバナンス)、[[edtech-platform]](調達とインフラ)、[[learning-analytics]](組織のデータ)、[[higher-ed]]につながります。管理者の意思決定は、このナレッジベースの他の箇所で扱う[[educational-development]]、[[teacher-role]]、[[ai-literacy]]の営みを可能にも制約もします。
-
 ## よくある誤解
 
 **管理者向け**
@@ -70,32 +68,3 @@ ai_assist:
 - **「導入の数字は準備態勢を測る。」** 宣言された利用とガバナンスの下での利用は異なる量であり、証拠は両者を切り分けています。機関は全体の約半数で戦略的意図を報告する一方、リーダーシップ能力は1割未満です。教職員がAIを利用していると示す調査が教えてくれるのは、個人がすでに許可なく行ってしまったことであり、機関が支えたり監督したりできることではありません。
 - **「調達は事務的な手続きである。」** 能力を構築するのではなく購入する場合、後に何が可能になるかを決めるのは、データの所有権、監査へのアクセス、そしてそもそもそのツールを評価できるかどうかといった契約条件です。購買業務として行われるベンダーの決定は、機関がまだ問いかけていない評価上の問いを閉ざしてしまいます。
 - **「ガバナンスは導入の後からでよい。」** この順序づけの主張はよく見られますが、ここでは裏づけがありません。証拠は逆のパターンを記録しており、政策とリーダーシップの構造が、すでに起きている利用の後を追っています。展開後に構築するものとして位置づけられたガバナンスは、影響力がより小さい立場から構築されるガバナンスです。
-
-## 関連する概念
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — 包括的概念: AI教育における人と受け手(学習者、教師、設計者、管理者、政策担当者)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — 管理者が運営する組織の業務: アドバイジング、働きかけ、紹介、割り当て
-
-## 関連する記事
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — 4つの問いからなる調達のスクリーニング。リスク管理ではなく学生の権利として枠づけられている

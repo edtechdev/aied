@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -126,36 +128,3 @@ Bernstein와 Sibia(2026)는 [[generative-ai|생성형 AI]]가 만들어낸 비�
 - **"교사의 오해는 증거를 제시하면 교정된다."** **이탈리아 교육자 123명**을 대상으로 한 시험에서 불일치는 **인지적 학습 양식(교사의 78%가 시각/청각 적합성을 옹호)**과 포용 및 모둠 활동(68%), 에듀테크 과부하(54%)에 가장 강하게 몰렸습니다. 가장 강한 불일치는 증거에 가장 완강한 것들이었고, 그래서 단언보다 [[refutation-text|반박]]이 낫습니다.
 - **"증거에 대한 교사의 반대는 모두 저항이다."** 같은 문항을 **증거를 다시 제시하기 전에 교사의 맥락을 인정하는** 대화형 AI를 통해 전달했을 때, **반대의 41%는 실제 맥락 제약**에 관한 것이었습니다. 학급 규모, 특수 요구, 교육과정 요구입니다. 겉으로 보이는 오해의 상당 부분은 정확한 이의 제기였습니다.
 - **"오해는 대화로부터 신뢰성 있게 탐지될 수 있다."** **프롬프트된 분절 241개 가운데 221개(91.7%)가 전문가 다수 투표로 전략적 오해로 확인되었고**(Fleiss κ = 0.9487), 집단 간 **유의미한 차이는 없었습니다**. 높은 신뢰성은 전문가 판정 아래에서 달성 가능하며, 그 주장이 의존하는 조건이 바로 그것입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 특정하게 품고 있는 신념과 맞서는 개념 변화 순서
-- [[learners]] — 학습자: 학습자 측 개념의 포괄적 개념
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## 연결된 문서
-- [[rudolph-ai-myths-critical-higher-ed]] — 과대광고를 믿지 마라: 여덟 가지 AI 신화와 고등교육에서의 비판적 접근의 필요성
-- [[student-rationalization-ai-writing]] — AI 글쓰기에 대한 학생의 정당화
-- [[genai-skill-bypass-literacy]] — 생성형 AI 역량 우회와 리터러시
-- [[trust-reliance-ai-education-2026]] — AI 교육에서의 신뢰와 의존
-- [[contextual-sycophancy-ai-literacy]] — 맥락적 아첨과 AI 리터러시
-- [[sycophantic-ai-social-interaction-2026]] — 사회적 상호작용에서의 아첨적 AI
-- [[llm-fallacy-misattribution]] — LLM 오류 귀인 (Kim 등)
-- [[student-reception-genai-analogies-computing-2026]] — 결함 있으나 기억에 남는: 컴퓨팅 교육에서 흥미-개인화된 생성형 AI 비유에 대한 학생의 비판적 수용
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: 개념적으로는 틀리고 사실적으로는 그럴듯한, 유창하고 권위 있는 설명 (Miličević 등 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 제출된 파일에 숨겨진 지시는 시각적 경고 없이 AI 채점 성적을 올릴 수 있다 (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — 아동의 AI 안전 오개념: 로봇과의 우정이 프라이버시 보장으로 오해됨 (Leisten 등 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

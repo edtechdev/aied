@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -84,7 +86,6 @@ Desain human-in-the-loop menjadi sentral dalam diskusi basis pengetahuan tentang
 - **Dibingkai ulang sebagai mitra analitik yang suportif.** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] membingkai ulang AI human-in-the-loop dari gerbang persetujuan menjadi mitra analitik yang suportif yang kesalahan klasifikasi dan kasus batasnya menjadi masukan bagi negosiasi makna manusia, bukan cacat yang harus disaring. Dalam pengodean tingkat kalimat mereka atas 18,883 sampel berlabel, model mendeteksi keberadaan konstruk pada akurasi keseluruhan 81.94% tetapi tidak pernah menilai kualitas atau relevansi, sehingga kasus yang diperselisihkan dikembalikan ke penyempurnaan buku kode manusia.
 - **Agensi pembelajar.** Menjaga manusia dalam lingkaran mempertahankan [[agency]] dan mendukung [[self-regulated-learning]], melawan [[cognitive-offloading|ketergantungan berlebih]] yang dapat diinduksi bantuan yang sepenuhnya otonom.
 
-
 - **Siswa sendiri menempatkan manusia di ujung berisiko tinggi.** Di antara 93 mahasiswa, 81.7% lebih memilih penilaian manusia untuk makalah akhir yang bernilai 40% dari nilai, 75 dari 93 menginginkan AI membantu alih-alih menggantikan penilai, dan 69 menginginkan penilaian AI selalu ditinjau manusia ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
 - **Kepercayaan dan kalibrasi.** Pengawasan manusia yang transparan mendukung [[trust-calibration]] — pembelajar dan instruktur tahu bahwa manusia yang berkualifikasi berdiri di belakang sistem itu.
 - **Kriteria yang terlihat sebelum tinjauan menaikkan kesepakatan.** [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] menemukan bahwa memunculkan metrik keterpercayaan kepada peninjau saat mereka membandingkan respons LLM menaikkan kesepakatan antar-penilai dari alpha Krippendorff 0.3987 menjadi 0.4931, sementara menambahkan lebih banyak ukuran menambah beban kognitif tanpa imbal hasil.
@@ -129,64 +130,3 @@ Seberapa kuat pengaman itu bergantung pada [[automation-bias]]. Kesempatan forma
 - **"Menampilkan rekomendasi sistem membantu manusia mengawasinya."** **Menahan jawaban yang disukai sebuah sistem bersifat protektif alih-alih korektif**: dalam sebuah debat multiagen yang **tidak pernah mengungkap posisi yang direkomendasikan**, peralihan yang merugikan ke jawaban AI **menurun**. Pengungkapan mengundang kepatuhan; penahanan mendukung pertimbangan.
 - **"Human-in-the-loop harus berarti satu manusia, satu keputusan."** Sebuah ruang kelas multiagen dengan [[teacher-role|Teacher]] Agent, TA Agent, dan arketipe teman sekelas diterapkan di Universitas Tsinghua dengan **lebih dari 500 siswa dan lebih dari 100,000 catatan pembelajaran**. Supervisi berskala melalui pengaturan itu, bukan dengan memperbanyak supervisor.
 - **"Meninjau keluaran AI itu intuitif."** Dalam sebuah **studi within-subject dengan 23 pendidik**, pendekatan berbasis tinjauan **meningkatkan setiap prinsip CTML (rata-rata penilaian 3.07 menjadi 3.86, p < .01)**, dengan pendidik menilai efisiensi produksi secara positif. Tinjauan adalah keterampilan yang meningkat di bawah metode yang terstruktur.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Di mana tinjauan manusia berada dalam urutan yang telah diuji, dan apa yang belum pernah diuji secara terpisah
-- [[automation-bias]] — Apa yang menentukan apakah manusia dalam lingkaran benar-benar campur tangan
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — pertimbangan manusia di dalam alur dukungan otomatis
-
-## Artikel terkait
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Arsitektur HITL empat lapis untuk AI generatif dalam pendidikan sains (Zhai et al. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Pengode yang memvalidasi segmen perilaku LLM sebagai instrumentasi penelitian (Fonteles et al. 2026)
-- [[lee-learner-question-types-ai-education-2026]] — Klasifikasi pertanyaan berlabel pakar: manusia mengendalikan pelabelan, augmentasi, dan analisis kesalahan (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Supervisi dan tata kelola manusia sebagai lapisan ketiga desain mata kuliah GAI agentik (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Desain peka nilai untuk ITS yang berpusat pada siswa (pembelajar dalam lingkaran tutoring)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Penilaian berbantuan AI HITL dalam asesmen menulis nasional berskala besar (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Kerangka SCAN: memikirkan ulang distribusi tugas AI dalam pelatihan medis (Tsim et al. 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM tidak menilai esai seperti manusia (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — Aplikasi AI dalam Mendukung Andragogi (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Merancang Perancah bagi Tinjauan Sistematis dengan Mentoring dan AI (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Penilaian dan umpan balik berbantuan AI yang disupervisi instruktur
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang tepat bagi profil siswa yang beragam? Sebuah evaluasi berskala besar
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multiagen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Kerangka tripartit: memilah umpan balik menurut status epistemik dan lima prinsip batas bagi keterlibatan AI (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — Intervensi Social Story Berbantuan AI untuk Pendidikan Khusus: Desain AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Skema Berbasis Asersi untuk Pengodean Wacana Pendidikan yang Dapat Diaudit
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Dari Klasifikasi Sentimen ke Umpan Balik yang Dapat Ditindaklanjuti dan Bertanggung Jawab: Tinjauan Pelingkupan dan Peta Bukti NLP dalam Evaluasi Pengajaran oleh Siswa, 2015–2026
-
-- [[llm-grading-assistants-public-health-2026]] — Pengulangan penilaian LLM yang identik pada hari berbeda mereproduksi hanya pada alpha Krippendorff 0.625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Mahasiswa lebih memilih penilaian manusia untuk pekerjaan berisiko tinggi dan AI sebagai asisten, bukan pengganti
-- [[student-query-demand-hybrid-ai-support-2026]] — Apa yang Sebenarnya Ditanyakan Siswa: Struktur Permintaan dan Potensi Otomatisasi dalam Sistem Dukungan Hibrida
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Memikirkan Ulang Pendekatan "In-The-Loop" dalam AI Pendidikan: Perspektif Ilmu Pembelajaran
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Menahan jawaban yang disukai sistem memangkas penyerahan diri pada nasihat AI yang salah, secara protektif alih-alih korektif
-- [[capodieci-humanities-hil-2026]] — Memisahkan di mana pemeriksaan manusia berada dari siapa yang mengarang prosesnya, dalam pembelajaran humaniora (Capodieci et al. 2026)

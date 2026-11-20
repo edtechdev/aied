@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -103,36 +105,3 @@ ai_assist:
 **"인출 연습은 곧 퀴즈이며, 어떤 퀴즈든 해당됩니다."** 기제는 답을 알아보는 것이 아니라 기억에서 산출하는 것이며, 그래서 선택형 재인 과제는 같은 활동의 더 약한 판본입니다. 끝없는 재인 문항을 생성하는 AI는 이름은 맞고 기제는 틀린 활동을 생성한 것입니다.
 
 **"이 기법들은 잘 명세되어 있으니 AI도 충실히 전달할 수 있습니다."** AI는 그것들을 조용히 무력화할 수도 있습니다. 간격 두기는 체계가 요구에 따라 가장 쉽게 공급할 수 있는 자료를 보류할 것을 요구하고, 인출은 답하지 않을 것을 요구합니다. 따라서 기법의 효과는 순응적인 어시스턴트가 부과할 유인이 없는 제약에 달려 있습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 간격을 둔 인출 순서, 그리고 인출(encoding) 중 도움을 받는 것의 기억 유지 대가
-- [[desirable-difficulties]] — 이 세 기법이 구현하는 원리
-- [[cognitive-psychology]] — 세 기법 모두의 이론적 본향인 기억, 부호화, 인출
-- [[prior-knowledge]] — 학습자가 이미 가진 것의 활성화로서의 인출 연습
-- [[metacognition]] — 유창함이 학습을 반영하는지 판단하기
-- [[self-regulated-learning]] — AI가 예약하거나 답해 줄 수 있는 것을 꾸준히 공부하기
-- [[mastery-learning]] — 숙달 임계값 이후의 기억 유지, 그리고 그것을 유지하는 간격 연습
-- [[knowledge-tracing]] — 일정 결정을 만들거나 놓치는 모델들
-- [[cognitive-offloading]] — 인출이 도구에 위임될 때의 실패 양식
-- [[transfer-of-learning]] — 이 기법들이 다루는 수행–학습 격차
-- [[formative-assessment]] — 인출 사건으로서의 도구가 닫힌 점검 지점
-- [[productive-failure]] — 도움을 받기 전에 시도하기
-- [[learners]] — 유창함이 아닌 지속적인 학습의 가치
-
-## 연결된 문서
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: 7주에 걸친 적응적 간격 인출 대 고정 인출 대 학습자 주도 AI
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 일정 수립과 근거 기반 플래시카드 상호작용 분류 체계
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: 설명 깊이는 과제 질은 예측하지만 즉시 회상은 예측하지 않는다
-- [[rachatasumrit-example-problem-ratio-2026]] — 사실에는 인출 연습, 기술에는 풀이된 예시; 내용–처치 상호작용
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 시간 기반 검증 하에서 간격 효과를 포착하지 못하는 지식 추적 모델들
-- [[bilingual-llm-lecture-companion-srl-2026]] — 간격 연습의 작성 비용을 제거하는 자동 플래시카드 생성
-- [[student-cheat-sheets-make-or-take]] — 생성적 공부로서의 컨닝 페이퍼 만들기; AI로 구성을 외주화하기
-- [[knowloop-confusion-to-consolidation-2026]] — 명확화가 드러내지 못한 격차를 드러내는 되돌려 가르치기 공고화
-- [[simulating-learner-task-selection]] — 과제 선택 제약 하에서 모델링된 학습자 전략으로서의 혼합과 묶음
-- [[nie-personavlm-long-term-personalization-2026]] — 종단적 학생 기억과 간격 반복·망각 곡선에 대한 열린 관계
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 학습하는 방법 틀의 도구 층에 있는 인출 연습
-- [[agentic-ai-pedagogical-best-practice-2026]] — 인출 연습을 우회하는 미리 가져오기 에이전트들; 의도적 마찰에 대한 논거
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AI 튜터가 말할 때: 무작위 현장 실험으로부터의 증거
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT가 생성한 사전 질문이 기억과 텍스트 이해를 향상시킨다

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,11 +48,3 @@ K–12-opettajat, jotka ovat käyttäneet [[generative-ai|generatiivista tekoäl
 Member ja Builder ovat ilmaisia (Builder: 50 sovellusta, 50 MB); Pro maksaa \$10 kuukaudessa tai \$60 vuodessa 500 sovelluksesta. Pääsy on freemium.
 
 Yksityisyys on vahvempi väite, mutta se siirtää vastuun opettajille. Teacher Hive ei luo opiskelijatilejä, kysy opiskelijoilta henkilötietoja eikä aja analytiikka- tai mainoskomentoja julkaistuissa sovelluksissa. Koska sovellukset ovat julkisia linkin kautta, ehdot tekevät opettajista vastuullisia varmistamaan, etteivät heidän sovelluksensa kerää nimiä, sähköposteja, opiskelijatunnuksia tai sijaintia. Saavutettavuuden kattavuus (WCAG 2.2 AA) koskee Teacher Hiven omia sivuja, ei opettajien tekemiä sovelluksia, joita ei ole testattu. Avoimen lähdekoodin lisenssiä ei ilmoiteta, eikä käytettävyyttä ja tietojen säilytystä taata.
-
-## Liittyvät käsitteet
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

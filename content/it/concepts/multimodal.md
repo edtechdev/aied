@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -71,7 +73,6 @@ Quando i tutor basati su LLM devono risolvere problemi che incorporano il signif
 - **Il tetto è basso sulla matematica autentica da curriculum dipendente da figure — e il rifiuto è il ripiego calibrato.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] hanno valutato sei modelli multimodali su 376 item [[math-education|della scuola secondaria di primo grado]] che richiedono un'immagine e le cui figure portano vincoli critici per il compito.
 Con le immagini, i modelli di ragionamento o4-mini risolvevano il 57,7% degli item e o3 il 52,4%, contro il 34,0%-42,6% della famiglia non di ragionamento; quando la figura veniva sottratta i modelli rifiutavano anziché indovinare nel 95,4%-98,9% delle esecuzioni — un pattern di astensione che un tutor può trattare come segnale di contesto mancante anziché come errore del discente.
 
-
 L'implicazione pratica di design è un **checkpoint di ancoraggio visivo** nel tutoring multimodale: un passaggio deliberato in cui il sistema descrive ciò che vede prima di tentare una soluzione, dando allo studente o a un supervisore umano la possibilità di correggere gli errori percettivi.([[syal-multimodal-dialogue-stem-2026]])
 
 [[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]] aggiungono un vincolo preliminare: un'equazione, un grafico o un'unità possono comparire in un report senza essere mai stati recuperati dal documento elaborato, quindi un disaccordo con il docente può essere un fallimento di estrazione anziché di ragionamento — il che rende il formato di consegna parte del design della valutazione.
@@ -92,7 +93,6 @@ L'AI multimodale amplia sia il *contenuto* della valutazione sia il *segnale* us
 
 La multimodalità ha un secondo senso: fondere segnali dal corpo di chi apprende anziché dal contenuto, dove eye tracking, EEG, attività elettrodermica, variabilità della frequenza cardiaca e posa della telecamera alimentano stime di attenzione, coinvolgimento e carico cognitivo. Quel filone di sensing vive in [[sensor-and-gaze-analytics]], e i suoi problemi di validità e consenso non sono quelli che solleva il contenuto multimodale.
 
-
 ## AI multimodale per l'apprendimento linguistico e accessibile
 
 I sistemi multimodali ampliano anche l'accesso e la [[personalized-learning|personalizzazione]]. Gli strumenti di apprendimento basati su audio e [[video-education|video]] guidati dall'AI adattano la velocità di riproduzione, producono riassunti video multimodali e supportano la pratica della pronuncia.([[ai-guided-learning-audiovideo-2026]]) I grafi di conoscenza multimodali ragionano attraverso immagini e testo per compiti educativi,([[multimodal-knowledge-graph-educational-reasoning]]) e le rappresentazioni multimodali migliorano l'[[inclusive-learning|apprendimento inclusivo]] traducendo l'informazione attraverso le modalità (ad es. da testo ad audio o a elementi visivi). Le applicazioni di dominio includono la correzione e la diagnosi della matematica scritta a mano,([[llm-cognitive-diagnosis-handwritten-math]]) il [[affective-tutoring|tutoring affettivo]] con segnali multimodali,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) l'apprendimento da testo a immagine in campi specializzati,([[nuclear-diffusion-text-to-image-learning-2026]]) e la rilevazione in classe multimodale e attenta alla privacy.([[privacy-aware-classroom-incident-recognition-2026]]) Bird (2026) dimostra una forma di multimodalità interna al testo: fondere un transformer ELECTRA messo a punto con l'analisi di tratti di linguistica computazionale per classificare la letteratura inglese per Key Stage del Regno Unito, dove il modello fuso (F1 0,996) superava di gran lunga ogni baseline unimodale — evidenza che combinare forme rappresentazionali, anche all'interno del testo, può superare gli approcci a modello singolo.
@@ -107,7 +107,6 @@ I sistemi multimodali ampliano anche l'accesso e la [[personalized-learning|pers
 6. **Adeguare la pipeline al contenuto.** L'assistente da laboratorio di cybersecurity con LLM multimodale di Patel et al. (2025) gestiva meglio le slide visivamente dense, mentre una pipeline OCR-più-LLM forniva un valore didattico paragonabile su slide centrate sul testo a un costo computazionale significativamente inferiore ([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]]).
 7. **Raccogliere più flussi non significa integrarli.** Una revisione di 23 studi sull'IA per l'[[embodied-learning|apprendimento incarnato]] ha ordinato il lavoro multimodale in tre livelli — flussi raccolti in parallelo, flussi allineati su una linea temporale condivisa, flussi fusi dentro un unico modello che stima lo stato del discente — e ha collocato la maggior parte degli studi al primo, abbinando immagine a testo o movimento a testo senza mai unirli. Uno studio allineava affetto facciale, sguardo e rilevamento del volto a posteriori; l'avvicinamento più vicino alla fusione modellava stati congiunti da segnali di bracciale e scheletrici con un processo di Markov, ed eseguiva dopo la sessione anziché informare il feedback ricevuto dagli studenti. Nessun sistema recensito fondeva i propri input durante l'uso ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
 
-
 ## Idee sbagliate comuni
 
 **"Un modello multimodale gestisce problemi multimodali."** L'accuratezza degrada bruscamente quando il significato è portato dalla figura anziché dal testo. Un tutor di [[physics-education|fisica]] risponde a problemi testuali circa il **96%** delle volte ma scende a circa il **74%** sui problemi che incorporano il significato nei diagrammi — l'**effetto di interferenza multimodale**. Ventidue punti di capacità spariscono esattamente dove vive il contenuto disciplinare.
@@ -117,63 +116,3 @@ I sistemi multimodali ampliano anche l'accesso e la [[personalized-learning|pers
 **"La capacità multimodale è un'unica scala, quindi il modello migliore in assoluto è il migliore per il compito ricco di immagini."** La capacità è specifica per compito, e un modello che guida nei [[benchmark|benchmark]] generali può restare indietro sui diagrammi di forze. Per le discipline ricche di immagini il test rilevante è quello con il significato incorporato nella figura.
 
 **"I limiti del tutoring solo testuale sono un fastidio, non un problema di [[curriculum-design|curriculum]]."** Nelle discipline in cui il diagramma *è* il problema — fisica, chimica, geometria, ingegneria, medicina — il confine di competenza di un tutor solo testuale cade attraverso il contenuto valutato anziché ai suoi margini.
-
-## Concetti collegati
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Ombrello: tecnologie e tecniche di AI (modelli, addestramento di LLM, robotica, RAG, agentico)
-- [[virtual-and-augmented-reality]] — gesto, voce e input spaziale come canali di apprendimento
-- [[speech-and-voice-technologies]]
-
-- [[sensor-and-gaze-analytics]]
-
-- [[arts-and-media-education]]
-
-## Articoli collegati
-- [[elkington-human-centred-assessment-value-2026]] — Valutazione centrata sulla persona, assemblaggi e vincoli generativi (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
-- [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
-- [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
-- [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting as epistemic work in AI literacy
-- [[multimodal-item-parameter-estimation-2026]] — Estimating IRT item parameters with multimodal LLMs
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
-- [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
-- [[multimodal-affective-its-presentation]] — Multimodal signals in affective intelligent tutoring
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective multimodal math tutoring
-- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Text-to-image learning in nuclear engineering education
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 tasks over 1,174 artworks show VLM capability as a dimension-specific profile, weakest in affective interpretation and viewpoint-dependent spatial reasoning (Zhu et al. 2026)
-
-- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
-
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice

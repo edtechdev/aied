@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -49,7 +51,6 @@ Il GBL è fondato sulle teorie della [[motivation|motivazione]], dello [[student
 - **Gli studenti come progettisti di giochi anziché come giocatori:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] hanno fatto progettare a 22 studenti di primaria di 8-12 anni un escape board game aumentato sul tema della disinformazione, sommando [[project-based-learning|apprendimento basato su progetti]] e [[design-thinking|design thinking]] al framework delle escape room Room2Educ8. L'[[ai-literacy|alfabetizzazione all'IA]] composita su un questionario DigComp 3.0 di 20 item è salita da 3,684 a 4,309 su una scala a 5 punti, t(21) = −21,086, p < ,001, con tutte e cinque le aree di competenza in miglioramento. La classe ha generato 11 proposte con prompt di IA e le ha fuse in un unico gioco realizzabile. [[self-report-measures|Autodichiarazione]], una sola classe, nessun gruppo di controllo.
 
 - **Dividere l'IA in un coach di dialogo e un motore di difficoltà.** Un ambiente Roblox potenziato dall'IA per il pensiero computazionale della secondaria superiore accoppiava un personaggio non giocante GPT-4, limitato a due o tre frasi e obbligato a non dare risposte, con un motore a regole che fissava la difficoltà in base al tempo di soluzione e al tasso di errore ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang e Kanjug, 2026]]).
-
 
 ### Gamification
 
@@ -88,33 +89,3 @@ Il GBL e la gamification si collegano insieme alla [[educational-robotics|roboti
 - Alza la qualità progettuale del campo anziché il suo volume; un tasso del 7% di studi di alta qualità è il vincolo che limita ciò che se ne può concludere.
 
 - **Il feedback conversazionale in una simulazione alza il carico germano senza abbassare quello estraneo.** In un gioco di simulazione aziendale di cinque settimane con **234 studenti**, gli utenti abituali di un chatbot di feedback basato su GPT-4o riportavano un **carico cognitivo germano significativamente più alto** rispetto agli utenti con accesso che non lo usavano (β = −,468, p < ,001) e rispetto al controllo con feedback statico (β = −,253, p = ,028) — mentre **il carico estraneo non mostrava alcun effetto** in nessuna delle due specificazioni (F(1, 219) = 0,499, p = ,481). Entrambi i carichi **sono calati nelle cinque settimane** (estraneo β = −,388, p < ,001), un effetto di novità misurato sul carico cognitivo anziché sul coinvolgimento ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger e Liening, 2026]]). Il punto progettuale è che il feedback portava [[personalized-learning|personalizzazione]], segnalazione, segmentazione e struttura di feed-forward su 19 indicatori concreti — la superficie del chatbot da sola non è il trattamento.
-
-## Concetti collegati
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Ombrello: pedagogie e strategie didattiche nell'istruzione sull'IA
-- [[virtual-and-augmented-reality]] — la pratica immersiva e gamificata si sovrappone nella progettazione e nelle evidenze
-
-## Articoli collegati
-- [[karampa-students-game-designers-ai-literacy-2026]] — Studenti di primaria progettano un escape board game; l'alfabetizzazione all'IA cresce in un laboratorio di e-course
-- [[ai-game-based-learning-systematic-review-2026]] — Revisione sistematica di 55 studi sull'apprendimento basato sul gioco supportato dall'IA: esiti positivi, una base di evidenze sottile
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
-
-- [[xie-genai-mystery-game-legal-education-2026]] — Gioco di ruolo investigativo scritto dalla GenAI contro la lezione, nell'educazione giuridica (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Progettazione e validazione preliminare di un ambiente di apprendimento basato sul gioco potenziato dall'IA per il pensiero computazionale
-

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -71,36 +73,3 @@ ai_assist:
 **「既有知識の少ない学生には、より多くの AI 支援が必要だ。」** それは格差を広げる可能性が最も高い方向です。測定された外部化のパターンは、既有知識が最も薄いところに執筆の喪失が集中することを示しています。置き換えに気づく力が最も乏しい学習者に成果物を供給する支援は、欠けている知識を築くはずの活動を取り除いてしまいます。
 
 **「既有知識はコースが動かせない固定の入力である。」** 既有知識は新しい学習において最も重く重みづけされた要因であり、それゆえ背景条件ではなく、最もてこの効く課題となります。領域知識が単なる共変量ではなく、それ自体が介入であるのはそのためです。
-
-## 関連概念
-
-- [[learners]] — 学習者: 学習者側の概念を束ねる包括的ページ
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure（生産的な失敗）
-- [[retrieval-spacing-interleaving]] — 学習者が既に知っていることが、検索練習に何ができるかをどう決めるか
-
-## 関連記事
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — 自動化と学習の緊張関係（既有知識活性化のリスク）
-- [[genai-mindtool-generative-learning]] — マインドツールとしての生成 AI: 既有知識への促しと活性化
-- [[nie-personavlm-long-term-personalization-2026]] — LLM による学生モデリングと記憶
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble による認知的負荷分散について
-- [[cognitive-offloading-llm-synthesis-writing]] — LLM を用いた総合的文章執筆における認知的負荷分散
-- [[bridging-instructional-design-framework-math]] — 数学のための教授設計の枠組み
-- [[knowledge-building-tutor-learning-2026]] — 既有知識ではなく知識構築がチューターの学習を予測し、知識を構築した既有知識の低いチューターは追いつく
-- [[rachatasumrit-example-problem-ratio-2026]]
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 既有知識が事後テストを担い（η²p = .63）、適応的な課題選択は何も担わなかった（Sibley ら 2026）
-

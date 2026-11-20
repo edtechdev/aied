@@ -27,6 +27,8 @@ ai_assist:
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -92,43 +94,3 @@ translation_note: "Автоматичний переклад цієї англі
 - **«Високий бал означає, що студент виконав ту роботу, яку ми спроєктували.»** Сліди можуть **прямо розходитися з оцінками**: у **150 розмовах студентів зі ШІ** **41% мали оцінку завдання рівно 1.00, тоді як спостережувана когнітивна участь варіювалася**. Оцінка насичується, тоді як процес, який мав її породити, — ні.
 - **«Процесуальними даними неможливо керувати в масштабі.»** Обов’язкова документація виявилася здійсненною в масштабі курсу за **шість семестрів шеститижневих асинхронних магістерських курсів дослідницьких методів, що обслуговували приблизно 440 викладачів K-12**. Логістика була розв’язною; заперечення перебільшує витрати.
 - **«Розв’язування задач надто холістичне, щоб оцінювати його за процесом.»** Його можна операціоналізувати як **чотири етапи та вісім діагностичних піднавичок**, дозволяючи LLM генерувати **питання та рубрики, специфічні для етапу**, — використано з **п’ятьма викладачами та 64 студентами**. Саме декомпозиція зробила процес читабельним і оцінюваним.
-
-## Пов’язані поняття
-- [[pedagogical-patterns]] — Поетапні контрольні точки та процесуальні докази як упорядковані проєкти
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## Пов’язані статті
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Критичний наративний огляд, що стверджує: типова невдача — це підтримка ШІ, яка ніколи не згасає, у парі з оцінюванням лише за продуктом (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — Оцінюваний процесуальний твір, написаний спільно, в учнівстві першого курсу: ітерація та співпраця в рубриці, GenAI дозволено в межах заявлених кордонів (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — успішність — це не навчання: дослідницька програма, побудована на процесуальних показниках (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — викладачі-методисти, які просять завдання, стійкі до ШІ та засновані на обґрунтуванні й рефлексії (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — анотовані сліди рішень, усний захист та розбіжності між чернетками, відібрані заради видимого судження
-- [[munoz-misconduct-allegation-evidence-2026]] — що містять файли справ про порушення та яких процесуальних доказів їм бракує
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — який висновок під ризиком, коли докази оцінювання підміняються
-- [[beyond-detection-authentic-assessment-ai-2025]] — автентичність потрібно перепроєктовувати, а не поліціювати
-- [[authentic-products-authenticated-processes-2026]] — автентичні продукти та процеси, які їх породили
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — усний іспит як формат, стійкий до ШІ, який оживляє міркування
-- [[thapa-lewis-process-oriented-assessment-2026]] — епістемічна автентичність та чотири проєктувальні зобов’язання за оцінюванням, орієнтованим на процес (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Процесуальні докази, залежні від каналу: журнали та міркування вголос розкривають різні процеси
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: багатовіконне аналітичне середовище для письма з інтеграцією ШІ
-- [[epistemic-ownership-ai-mediated-education-2026]] — Та сама успішність, інший процес: епістемічна власність в освіті, опосередкованій ШІ
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: підтримка викладачів у діагностиці навичок розв’язування математичних задач за допомогою згенерованих LLM питань
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Документація контрольних точок діалогу зі ШІ тримала 96% завершення за шість семестрів і близько 440 викладачів
-- [[rubrics-genai-process-based-assessment-2026]] — Три виміри рубрики з моделі 3P Біггса: агентність і нагляд, діалогічний скаффолдинг, когнітивний суверенітет (Oviedo & Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Редактор CodeMirror плюс журнальована панель чату перетворили одну сесію есе на процесуальний доказ, із його межею між набором і мисленням (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — візуалізації процесу плюс одна рефлексійна сесія змістили редагування з поверхневого на рівень значення, не збільшивши обсяг правок

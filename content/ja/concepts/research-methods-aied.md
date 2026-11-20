@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -201,56 +203,3 @@ Google Scholarの関連度ランキングは動的であるため、これを含
 **「寛容な測定規則は些細な方法論上の選択である。」** それは知見を変えます。完了をすべて認定する規則は、後の支援のないパフォーマンスを**技能難度の定数とほとんど変わらない水準で予測し（プールされたAUC 0.604 対 0.595）**、一方で**学生と技能の組の93.9%を習得済みと宣言しました（厳格な規則では72.8%）**。その規則は、誰が準備できたと宣言されるかに21ポイントの差を生みながら、それを示す予測上の改善をほとんど伴いませんでした。
 
 **「統計的有意性は、介入が機能したかを決着させる。」** それが決着させるのは、効果が検出可能であったかどうかです。それが*学習*の効果であったかは、成果の測定、比較、そしてそれが取られた条件に依存します。だからこそ、このページの各節における設計と報告の選択は、分析と同じ重みを持つのです。
-
-## 関連する概念
-
-- [[longitudinal-research|縦断研究]]
-- [[interpreting-and-applying-aied-research|AIED研究の解釈と応用]]
-- [[ai-ed-evaluation|AI教育の評価]]
-- [[rct|RCT]]
-- [[benchmark|ベンチマーク]]
-- [[meta-analysis-systematic-review|メタ分析・システマティックレビュー]]
-- [[ai-assisted-educational-research|AI支援教育研究]] — AI支援教育研究
-- [[educational-measurement|教育測定]]
-- [[assessment-validity|評価の妥当性]]
-- [[simulation|シミュレーション]]
-- [[ai-education|AI教育]]
-- [[higher-ed|高等教育]]
-- [[limitations-in-aied-research|AIED研究の限界]]
-- [[learning-gains|学習成果]]
-- [[theory-development-aied|AI教育における理論構築]] — AI教育における理論構築
-- [[qualitative-research|質的研究]] — 質的研究
-- [[quantitative-research|量的研究]] — 量的研究
-- [[mixed-methods-research|混合研究法]] — 混合研究法
-- [[design-based-research|デザインベース研究]] — デザインベース研究
-- [[usability-research|ユーザビリティ研究]] — ユーザビリティ研究
-- [[self-report-measures|自己報告尺度]]
-- [[learning-sciences|学習科学]]
-
-## 関連する記事
-
-- [[ai-methodologies-science-education-research-2026]] — AI の方法論が科学教育研究をどう変容させうるかについて省察するための 7 段階の認識論的反復枠組み（Martin et al., 2026）
-- [[access-not-enough-ai-tutoring-2026]] — アクセスだけでは不十分: 人間の支援が AI 個別指導へのエンゲージメントを改善する
-- [[genai-can-harm-teaching-rct-2026]] — 生成 AI は教授を害しうる
-- [[genai-over-reliance-learning-2026]] — 強化から過度の依存へ: 混合方法研究
-- [[acceptance-ai-english-tools-2026]] — AI 支援による英語学習ツールの受容
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI チューターの安全性と教育学的な害
-- [[zerkouk-comprehensive-review-its-2025]] — 知的個別指導システムの包括的レビュー
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI 支援による協働学習モデルのためのデザインベース研究
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: LLM の教授能力の評価
-- [[ground-truth-reliability-aied]] — 正解ラベルの現代化: 信頼性と妥当性への 4 つの転換
-- [[llm-student-simulation-teacher-insights]] — LLM は人間の学習者を効果的にシミュレートできるか
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 教育における AI 研究の透明な報告のための 10 領域 30 項目（Allison 2026）
-- [[ai-lms-middle-school-longitudinal]] — AI 統合学習管理システム: 縦断的研究
-- [[ai-in-the-wild-college]] — AI in the Wild: 真正な相互作用の大規模分析
-- [[same-ai-different-pathways]] — 同じ AI、異なる経路: メカニズムの解明
-- [[tep-aied-model-reporting-2026]] — 教育における AI 研究を厳密に報告するための TEP-AIED モデル（Hwang, Xie, Wah & Gasevic 2026）
-- [[t2i-competence-paradox-2026]] — コンピテンス・パラドックス: 美術とデザインにおけるテキストから画像への生成 AI
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育における ChatGPT: 原因を求める効果
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — AI の学習への効果のメタメタ分析
-- [[oneill-presumed-effective-meta-analysis-2026]] — 効果があると推定されて: 欠陥のある AIED メタ分析の監査
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実性の指標が見落とすもの: 合成的教育データの構造的検証
-
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて: 正解が既知のプローブ、シミュレートされた採点者に対する効果仕込みのチェック、22 のプロンプト済みモデル（Porcaro 2026）
-

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -87,35 +89,3 @@ Filosofin om AI i utbildningen och [[theory-development-aied|teoriutveckling ino
 
 - Ange vilken uppfattning om lärande din utvärdering förutsätter, eftersom en mätt förbättring bara är ett utbildningsgott i förhållande till någon redogörelse för vad utbildning är till för.
 - Finansiera det filosofiska arbetet vid sidan av det empiriska: frågor om vad som räknas som en elevs prestation fastställer de framgångskriterier som de empiriska studierna sedan använder.
-
-## Anslutna begrepp
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Kemiundervisning och AI: laborationer, formativ bedömning, LLM:ers gränser, experimentfilosofi
-
-## Anslutna artiklar
-
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI i kinesisk högre utbildning: integritet och engagemang
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ett filosofiskt ramverk för människa–AI-kognition
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogisk symbios och den posthuman eleven
-- [[videla-embodied-ai-education-choreography]] — Förkroppsligad, postkognitivistisk kritik av kroppslös AI i utbildningen
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Utvecklingskritisk modell för tolkningskognition inom humaniora
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemisk samhandling som en filosofi för lärande med maskiner
-- [[avraamidou-ai-colonization-science-education]] — Kritisk-feministisk filosofi som ifrågasätter AI-koloniseringen av utbildningen
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generativ AI som medierande agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ekologisk lärandevetenskaplig inramning av GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Experimentfilosofi i kemi med AI
-- [[strydom-human-gai-paradigms-2026]] — Inramning av människa–AI-dynamik: sju paradigm för GAI-engagemang (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternativ AI-filosofi: daoism som metod för AI i utbildningen
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Människocentrerad' AIEd läst som en antropocentrisk diskurs med kommersiella användningar (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Kan maskiner utföra emotionellt arbete? Debatten 1950–1996, och varför imitation underbestämmer omsorg

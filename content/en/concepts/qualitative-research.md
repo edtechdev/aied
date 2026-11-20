@@ -7,6 +7,8 @@ research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 > **Qualitative research** — the family of empirical methods that study how people *experience, interpret, and make meaning* of phenomena, typically through words, observations, and artifacts rather than numbers. In [[ai-education|AI in education]], qualitative methods reveal *how* students and teachers actually experience [[generative-ai|AI tools]] — the meanings, tensions, harms, and mechanisms that standardized measures miss. Because AI-in-education is fast-moving and its effects are often mediated by context, perception, and contested constructs like [[trust|trust]] and [[agency|agency]], qualitative work is essential alongside [[quantitative-research|quantitative]] designs (see [[research-methods-aied|research methods]]).
@@ -93,41 +95,3 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 **"Saturation is a property of the number of participants."** It is a property of the analysis: you stop when new data stop producing new codes. Two studies with identical sample sizes can be equally far from saturation, which is why a report that cites a participant count as evidence of adequacy has not demonstrated anything about coverage.
 
 **"Quantitative and qualitative findings compete."** They answer different questions: a survey tells you how many students distrust a tutor, and interviews tell you why. Treating them as rival accounts of the same thing produces the false choice that review sections keep reproducing.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## Connected Articles
-- [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
-- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
-- [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
-- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
-- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
-- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — EFL learners' emotional engagement in GenAI-assisted writing: a longitudinal multiple-case study

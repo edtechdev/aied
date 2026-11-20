@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -122,46 +124,3 @@ ai_assist:
 **「ガードレールの閾値は調整すべき工学的な選択である。」** 閾値は分配上の費用を伴う政策の決定です。毒性のカットオフを0.3から0.7へ動かすと、ラベル付けされるプロンプトは**35.62%から12.4%**に減り、詐欺検出器では**15件の誤警報と18件の見逃しが2件と36件**になりました。どのカットオフもトレードオフを取り除きません。それは機関がどちらの誤りを好むかを決めるだけで、その決定は既定の定数ではなく機関に属します。
 
 **「公平性の監査はガードレールの十分性とは別の関心事である。」** 拒否と支援のパターンは、一律に適用されても便益を不均等に分配し、平均の害の率は誰がそれを吸収したかを隠します。監査は後から発注する研究ではなく、ガードレールの仕様の一部でなければなりません。
-
-## 関連概念
-
-- [[pedagogical-safety]] — ガードレールが実装する目標
-- [[prompt-engineering]] — 答えではなくヒントの設計技法
-- [[rag]] — ガードレールとしての知識の接地
-- [[human-in-the-loop-ai]] — 教員のQAと監視
-- [[llm-training-and-fine-tuning]] — 学習・整合の層
-- [[reinforcement-learning]] — 安全な振る舞いのための報酬形成
-- [[bias-mitigation]] — 公平性のためのガードレールの監査
-- [[ai-sycophancy]] — ガードレールが耐えねばならない操作のリスク
-- [[scaffolding]] — ガードレールが保全する教育学的メカニズム
-- [[socratic-method]] — 答えではなくヒントの相互作用モード
-- [[hallucination-risk]] — ガードレールが減らすでっち上げのリスク
-- [[cognitive-offloading]] — ガードレールが防ぐ過度の依存の害
-- [[k-12]] — ガードレールが最も重要な文脈
-- [[ethics]] — 規範的な基盤
-- [[governance]] — 政策の層
-- [[intelligent-tutoring]] — 守られるシステム
-- [[misconceptions]] — ガードレールが確認せねばならない知識
-- [[trust]] — よく設計されたガードレールの帰結
-- [[llm]] — 制約されるモデルの層
-
-## 関連記事
-
-- [[reflection-agent-fidelity-career-2026]] — 検証できるところで忠実である:ランダム化試験におけるシステムプロンプトに対する振り返りエージェントの監査
-- [[scaffolding-student-ai-dialogue-framework-2026]] — 学生–AI対話を操るためのSCAFFOLD枠組みとその教室パイロット
-- [[generative-ai-guardrails-harm-learning]] — ガードレールに関する標準的なフィールドRCT
-- [[eduzone-llm-safety-k12]] — K-12のLLM安全性枠組み
-- [[eduguard-safe-rag-llm-tutor]] — チューターのためのRAGに基づく安全性
-- [[paternalistic-filter-llm-history-education]] — バイアスのためのガードレールの監査
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL整合された導かれた学習
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 分類法整合の事後学習
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 安全性のリスクとしてのへつらい
-- [[ai-tutor-authoring-promptdecipher]] — 教員主導のQA
-- [[llm-unlearning-math-privacy]] — モデルレベルの忘却
-- [[pedagogical-safety-rl]] — 教育学的安全性のための報酬形成
-- [[residencyrl-clinical-rl-training-2026]] — 臨床訓練における安全性整合のRL
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 初等数学のためのLLM指導システムにおける規則誘導対場当たり的な足場かけ(Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design:コンピューティング教育におけるAIのための枠組み
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks?プログラミング教育のためのAIティーチングアシスタントにおける教育学的スタイルと文脈認識の効果
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 実際の教室で観察された20のAIツールにおいて学生の思考へのリスクが製品の種類ごとにどう変わったか
-- [[ai-security-literacy-k12-framework-2026]] — AIセキュリティ・リテラシー：生態系に基づくコンピテンシー枠組みとK-12の学習プラットフォーム

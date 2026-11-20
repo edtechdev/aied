@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -37,7 +38,3 @@ K-12:lle: tuntisuunnitelma-, työarkki-, [[special-education|IEP-tavoite]]-, mat
 
 ## Huomioita
 Projekti väittää käyttävänsä paikallisesti asennettua tekoälypalvelinta nopeuden vuoksi ja että data käsitellään paikallisesti eikä sitä koskaan tallenneta, sekä noudattavansa opetusministeriön ohjeita; [tiimisivu](https://teacherserver.com/index-team.php) nimeää Zafer Unalin, Etelä-Floridan yliopiston professorin, perustajaksi ja kehittäjäksi, sekä neljän muiden yliopistojen tiedekunnan jäsenen neuvoa-antavan toimikunnan. Nuo väitteet kannattaa silti varmistaa ennen käyttöä opiskelijoiden töiden kanssa. Käyttö vaatii rekisteröitymisen, ja mukana on myöhemmin maksullinen alusta omien työkalujen rakentamiseen.
-
-## Liittyvät käsitteet
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

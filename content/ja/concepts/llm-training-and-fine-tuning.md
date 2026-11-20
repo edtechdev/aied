@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -165,73 +167,3 @@ Mistral-7Bから16個のPython知識コンポーネントをアンラーニン�
 - **「学習の伸びを決める主な要因はモデルである」** モデルとプロンプトの選択は、LLM と学生の学習の伸びの間の隔たりの**およそ 15%** しか説明しません。残りの 85% を最適化することが仕事であり、それは重みの中にはありません。
 - **「ローカルのモデルはホストされたものに劣るので、検索はより劣った梃子である」** 三つの構成での評価では、**第一級の設計決定はモデルではなく検索**でした。**検索なし**のローカル LLM は**52.3% の精度**にとどまり、TF-IDF のベースラインを下回りました。検索を加えることで、同じモデルはモデルの交換では到底届かなかった閾値を超えました。
 - **「訓練データが多ければ、より良い教授行動になる」** 書式を改善する一方でフィードバックの生成を悪化させた評価のファインチューニングは、その縮図的な反例です。似て見える目標に対して最適化すると、代理指標を改善しながら、欲しかったものを劣化させることがあります。
-
-## 関連する概念
-
-- [[llm]] — これらのモデルが何であるか。このページはそれらがどう作られるか
-- [[ai-technologies]] — 傘。AIの技術と技法
-- [[rag]] — 訓練の前の段階、検索
-- [[prompt-engineering]] — 最も安い梃子、そして打ち破るべき基盤
-- [[reinforcement-learning]] — 事後訓練のRLの段階
-- [[intelligent-tutoring]] — 主要な応用分野
-- [[adaptive-learning]] — モデルへの適応とは区別される、学習者への適応
-- [[automated-assessment]] — ファインチューニングされた採点モデルが着地する場所
-- [[automated-essay-scoring]] — 採点の証拠の大部分が来る課題
-- [[ai-feedback-quality]] — ファインチューニングが修正するものとしないもの
-- [[educational-nlp]] — 隣接する方法の系列
-- [[simulating-students]] — 同じ機械の学習者側の応用
-- [[student-modeling]] — 模擬の下にあるモデル化の層
-- [[open-source]] — ローカルでのファインチューニングを可能にする、開かれた重み
-- [[benchmark]] — これらのシステムがどう評価されるか、そしてその限界
-- [[assessment-validity]] — なぜ良い指標がやはり悪い道具を意味しうるのか
-- [[pedagogical-safety]] — 訓練が保証しないもの
-- [[ai-sycophancy]] — 事後訓練が狙える一つの挙動
-- [[hallucination-risk]] — ファインチューニングが治せない失敗モード
-- [[privacy]] — 訓練データと学習の取消しに対する制約
-- [[human-in-the-loop-ai]] — 自動化を手の届くものにする代替策
-- [[metacognition]] — 事後訓練のための教授的な目標
-- [[scaffolding]] — 報酬関数が符号化しようとする挙動
-- [[ai-education]] — この仕事が仕える分野
-
-## 関連する記事
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL–SFT–RL のパイプライン。CDPKで 96.52%、Gemini-3 Proを上回る
-- [[learnlm-improving-gemini-learning]] — Gemini の事後訓練の内部における教授的なインストラクションへの追従
-- [[teachlm-post-training-llms-education]] — 10万時間の本物の家庭教師のデータによる事後訓練
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 教授的な決定を狙った、タクソノミーに整合した事後訓練
-- [[swim-student-writing-simulation-2026]] — ルーブリックのプロンプト設計に対するSFTとGRPO。報酬の設計の詳細を含む
-- [[misconception-acquisition-dynamics-llms-2026]] — 誤概念の訓練にとって拘束的な要件としてのステップ水準の痕跡
-- [[jeon-isd-agent-bench-2026]] — 25,795のシナリオにわたる理論に接地した教授設計のエージェント
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — モデルをソクラテス的な導き手として整合させる発見的RL
-- [[special-r1-rl-special-education]] — 特別な教育の整合のための強化学習
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 個別化のためのLLMに導かれた強化学習
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — 教授的な大規模推論モデル
-- [[omniedu-open-educational-foundation-models-2026]] — モデル規模を越えて、例ごとに一つの目標となる挙動
-- [[garrod-edu-qurating-educational-data-curation-2026]] — 訓練のために教育的なデータをキュレーションする
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRAのランクの効果とアダプターのパラメータあたりの伸び
-- [[aiawe-automated-writing-evaluation]] — 規模が成功を予測しなかった、LoRAで適応されたAWE
-- [[llm-graders-computer-science-exams-2026]] — 約3,900の例に対する一つのアダプターが人間の採点者と同等に達する
-- [[iks-instruct-dataset-indian-knowledge]] — 24,795例のインストラクションデータセットとゼロに近い基盤のベースライン
-- [[llm-children-reading-story-generation]] — 読解レベルの制御のための規模よりも制御可能性
-- [[bert-discourse-english-teaching-2026]] — どの層をファインチューニングするか、そしてなぜ4が12に勝つか
-- [[nuclear-diffusion-text-to-image-learning-2026]] — パラメータ数ではなくアーキテクチャが、ファインチューニングが機能するかを決める
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 忠実さの監査を伴う20億パラメータのモデルへの蒸留
-- [[llm-unlearning-math-privacy]] — 個人情報と有害な内容の勾配に基づく学習の取消し
-- [[reflection-level-classification-hungarian-essays-2026]] — 古典的なベースラインと埋め込みのベースラインに対するファインチューニング済みTransformer
-- [[multimodal-item-parameter-estimation-2026]] — マルチモーダルな項目からIRT曲線を学習する
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 人間をループの中に置く方策としての確信度による振り分け
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 第一義的な決定としての検索。エネルギーとVRAMの報告を含む
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23の研究。プロンプト設計13、ファインチューニング7、ハイブリッド3
-- [[gpt-item-generation-l2-listening-2026]] — プロンプト設計は頭打ちになり、次にファインチューニングが残りを加える
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — 採点では勝ち、フィードバックでは敗れたファインチューニング
-- [[educational-llm-alignment]] — モデルとプロンプトの選択に対する約15%の天井
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 訓練なしの代替案としてのルーブリックに導かれたプロンプト設計
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — 誤概念の模擬のためのプロンプトレベルのペルソナの制御
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 明示的な訓練の要件としての追従
-- [[contextual-sycophancy-ai-literacy]] — プロンプト設計と整合を生き延びる追従
-- [[hazra-safetutors-pedagogical-safety-2026]] — 持続的な対話にわたって劣化する安全性
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — 訓練されていない最先端モデルからの、約35%の使えないヒント
-- [[simulated-students-tutoring-dialogues-2026]] — 模擬された学生が学生のように振る舞うかどうか
-- [[inside-llm-student-simulator-reasoning-2026]] — 学生のように振る舞い考えるモデルのファインチューニング
-- [[history-aware-student-simulation]] — 学習者の軌跡に条件づけられた模擬
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — カリキュラムで構造化されたデータは標本効率が高い

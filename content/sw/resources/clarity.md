@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/clarity
 source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,6 +44,3 @@ Kiharuhi cha kivinjari hufanya kazi kwa ndani katika ukurasa na haipaki rasimu. 
 ## Kitu cha kujua kabla ya kuipitisha
 
 Hifadhi inachapisha itifaki ya tathmini, mifano ya kabla-na-baada katika `samples/`, na faili za rejea nyuma ya ujuzi, ili mhiti anaweza kuchunguza jinsi kanuni zinavyofanya kazi badala ya kuchukua dai kwa imani; ukurasa hapa haurudii matokeo yoyote yaliyopimwa. Mwandishi ni Addy Osmani, leseni ni MIT, na kazi ni huru badala ya bidhaa ya taasisi yoyote. Ni changa na inayofanya kazi: iliundwa Agosti 2026, mabadiliko 54, matoleo matatu na ya karibuni katika toleo 0.2.1 Septemba hiyo, na nyota takribani 250 zilipokaguliwa Septemba 2026. Wachangiaji watatu wamefikisha mabadiliko. Maelekezo ya ujuzi yanapakia katika wakala ambaye msomaji tayari anaendesha, hivyo maelezo ya kawaida ya [[prompt-engineering|uhandisi wa ilani]] yanatumika: ubora wa kukosoa kunategemea rasimu iliyotolewa.
-
-## Dhana Zilizounganishwa
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -46,13 +47,3 @@ ai_assist:
 - تساهم المكتبات المشاركة بـ **\$1,000 لكل نشر كشك سنويًا**؛ والتجربة نفسها محدودة بالمواقع التي تقدّمت.
 - بيان الخصوصية ادّعاء البرنامج لا نتيجة مدقّقة؛ وينبغي للمكتبة أن تتحقق من شروط الاحتفاظ وحماية الأطفال في اتفاقية معالجة البيانات الخاصة بها.
 - المرحلتان الثانية والثالثة في خارطة الطريق، أي السماح للمكتبات بابتلاع الأرشيفات المحلية وحكم الأنظمة الناتجة، مخطّطتان لا منفّذتان.
-
-## المفاهيم المتصلة
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

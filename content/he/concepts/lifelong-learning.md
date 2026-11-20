@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,30 +81,3 @@ ai_assist:
 
 - דווחו אפקטי תעסוקה לפי טווח גילים ולא כמספר עקירה מצטבר; הניגוד בין 16% ל‑8% הוא הממצא.
 - חקרו היכן העבודה המעצבת נעלמת, כיוון שזה המנגנון שבאמצעותו רווחים נוכחיים הופכים למחסורים עתידיים.
-
-## מושגים מקושרים
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## מאמרים מקושרים
-
-- [[ai-adult-learning-guidelines-dis2026]] — הנחיות לעיצוב טכנולוגיות AI לתמיכה בלמידת מבוגרים
-- [[ai-guided-learning-audiovideo-2026]] — למידה מודרכת בינה מלאכותית לרכישת כישורים
-- [[learnity-graphs-lifelong-learning-framework-2026]] — לחשוב מחדש על ההשכלה הגבוהה עם גרפי Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — אנדרגוגיה והאצלה קוגניטיבית בלמידה מתווכת בינה מלאכותית
-- [[ai-lifelong-learning-policy]] — בינה מלאכותית בלמידה לאורך החיים: הזדמנויות ואתגרים במדיניות חינוך מבוגרים
-- [[community-centered-ai-education-adults]] — תכנון משותף של חינוך AI ממוקד קהילה למבוגרים
-- [[cognitive-commons-ai-expertise-regeneration]] — הטרגדיה של הנחיל הקוגניטיבי: בינה מלאכותית וחידוש המומחיות
-- [[kim-ai-andragogy-2026]] — נקודות מבט של לומדים מבוגרים על בינה מלאכותית כסוכן למידה שיתופית באנדרגוגיה (Kim et al. 2026)

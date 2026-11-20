@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -93,28 +95,3 @@ ai_assist:
 **للباحثين**
 
 - محاكاة الوكلاء المخصوصين بالمشاركين أداة قوية لدراسة التنظيم التعاوني. أبلِغ عنها على هذا النحو لا كدليل على تعاون طلابي غير مُشرَف عليه.
-
-## المفاهيم المرتبطة
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## المقالات المرتبطة
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ملفات التفاعل (الاستدلال المُنزَل مقابل التفسير المتضافر) والمقايضة بين الكفاءة والتنظيم
-- [[ai-assisted-collaborative-learning-model-dbr]] — نموذج بحث تصميمي يُمركز الذكاء الاصطناعي التوليدي كشريك تعلّم ذكي
-- [[llm-critical-thinking-teamwork-review]] — مراجعة PRISMA للنماذج اللغوية الكبيرة التي تُنمّي التفكير النقدي والعمل الجماعي وحل المشكلات
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — سقال تكيّفية مستنبطة من تنقيب التسلسل لحل المشكلات التعاوني
-- [[genai-assisted-problem-posing-physics-2026]] — صياغة المشكلات كاستراتيجية تعلّم مُنظّم ذاتياً مع الذكاء الاصطناعي التوليدي
-- [[genai-feedback-design-multisite-experiment]] — التغذية الراجعة التأملية/الهجينة تتفوّق على الذكاء الاصطناعي المباشر في الانتقال المتأخر
-- [[dai-chatbots-problem-posing-primary-2026]] — روبوتات المحادثة تُحسّن صياغة المشكلات لدى طلاب المرحلة الابتدائية في التعلّم القائم على الاستقصاء
-- [[llm-computational-thinking-physics-2026]] — النماذج اللغوية الكبيرة كمُقيّمين قابلين للتوسّع لحل المشكلات الحسابية في الفيزياء
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — السقالة الموجَّهة بالقواعد مقابل العشوائية في نظام تدريس بالنماذج اللغوية الكبيرة لرياضيات المرحلة الابتدائية (لو وآخرون 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

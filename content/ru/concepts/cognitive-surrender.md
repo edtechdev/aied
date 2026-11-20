@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -87,7 +89,6 @@ ai_assist:
 - **Собственный вклад модели.** [[sycophantic-ai-social-interaction-2026|Подобострастие]] — дополнение к капитуляции: ассистент, который соглашается, уклоняется в сторону рамки пользователя или излагает утверждение бегло, не даёт учащемуся ничего, против чего можно было бы возразить.
 - **Отстранение — нерешённая половина вопроса.** [[cognitive-washout-ai-skill-decay-2026|Работа о когнитивном вымывании]] указывает, что почти все эти исследования измеряют познание *во время* использования ИИ и почти ни одно не измеряет, что происходит, когда ассистент убирают, — а это ровно тот вопрос, который ставят экзамен, сбой или проверка лицензии.
 
-
 - **«Делегирование эссе целиком остаётся гипотетическим за пределами лаборатории».** Оно произошло в односессионном онлайн-исследовании без какой-либо политики и без поощрения. Из **77** студентов колледжа, писавших эссе, **15 (19,5%)** сдали работы, **на 100%** написанные моделью, не набрав ни слова в редакторе, а **20** участников прямо попросили целое эссе — самый частый код в схеме. Самый активный пользователь отправил **27** запросов. [[jelson-students-chatgpt-essay-writing-2026|Капитуляция проявилась как паттерн запросов]], а не как единичный обнаруживаемый акт.
 
 ## Проектирование и преподавание против капитуляции
@@ -116,38 +117,3 @@ ai_assist:
 **«Средство - лучший ИИ, поскольку капитуляция следует из ошибок.»** Капитуляция следует из *структуры* взаимодействия: система, выдающая правдоподобный ответ первой, устраняет повод для учащегося сформировать свой. Повышение точности снижает вред от неверных ответов и ничего не делает с отказом от формирования суждения - тем вредом, который сохраняется после того, как инструмент убран.
 
 **«Обучения критическому оцениванию достаточно.»** Оно необходимо и приходит слишком поздно. Как только правдоподобный ответ оказывается на экране, оценивание становится подтверждением - вот почему литература о проектировании ставит попытку студента перед выводом системы, а не аудит после него.
-
-## Связанные концепции
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[shaw-nave-cognitive-surrender-2026]] — Трисистемная теория и экспериментальная подпись капитуляции
-- [[generative-ai-reduced-study-time-math]] — вытеснение на уровне популяции в ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — структура капитуляция/перекладывание/агентность в PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — инструментальная помощь в сравнении с суждение-несущей
-- [[ai-advice-suppresses-ikt-suspension-2026]] — крушение «я не знаю»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — нейронная вовлечённость и авторство
-- [[genai-thoughtless-use-self-directed-learning-2026]] — бездумное использование и самонаправляемое обучение
-- [[stamatoulis-genai-use-patterns-2026]] — усвоение с низкой проверяемостью в сравнении с оценочной интеграцией
-- [[cognitive-washout-ai-skill-decay-2026]] — что происходит после отстранения
-- [[ai-overreliance-complex-adaptive-system-2026]] — опора как популяционный процесс
-- [[brcic-effortless-trap-productive-struggle-2026]] — размещение ИИ так, чтобы задание оставалось трудным
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — тренировка калибровки
-- [[family-school-autonomy-support-genai-2026]] — зависимое перекладывание в сравнении с автономным
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Ассистент, огороженный рабочим листом, снизил перекладывание, а не повысил его: граничное условие для подписи капитуляции (Braun 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Естественное делегирование эссе целиком: 15 из 77 эссе полностью написаны моделью, 20 запросов на готовое эссе (Jelson et al. 2026)

@@ -23,7 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -113,63 +114,3 @@ Les systèmes multimodaux élargissent aussi l'accès et l'[[personalized-learni
 **« La capacité multimodale est une échelle unique, donc le meilleur modèle global est le meilleur pour la tâche riche en images. »** La capacité dépend de la tâche, et un modèle en tête sur les [[benchmark|repères]] généraux peut être en retard sur des diagrammes de forces. Pour les disciplines riches en images, le test pertinent est celui où le sens est inscrit dans la figure.
 
 **« Les limites du tutorat purement textuel sont une nuisance et non un problème de [[curriculum-design|programme]]. »** Dans les disciplines où le diagramme *est* le problème — physique, chimie, géométrie, ingénierie, médecine — la frontière de compétence d'un tuteur purement textuel traverse le contenu évalué au lieu de s'arrêter à ses bords.
-
-## Concepts liés
-
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement de grands modèles de langue, robotique, RAG, agentique)
-- [[virtual-and-augmented-reality]] — le geste, la voix et l'entrée spatiale comme canaux d'apprentissage
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-## Articles liés
-
-- [[elkington-human-centred-assessment-value-2026]] — L'évaluation centrée sur l'humain, les assemblages et les contraintes génératives (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composition de messages d'intérêt public vidéo sur l'éthique de l'IA comme pédagogie de littératie critique en IA (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Modélisation transformer multimodale sensible à l'équité pour l'estimation en temps réel de l'attention des étudiants
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — Performance des modèles vision-langage sur les travaux mathématiques manuscrits d'étudiants (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Guide de l'éducateur sur l'apprentissage multimodal avec l'IA générative (modèle MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — L'effet d'interférence multimodale et la récupération par dialogue structuré en STIM
-- [[multimodal-ai-feedback-learning]] — La rétroaction multimodale par l'IA égale les éducateurs sur l'apprentissage, les dépasse sur les perceptions
-- [[multimodal-prompting-ai-literacy]] — La sollicitation multimodale des étudiants comme travail épistémique dans la littératie en IA
-- [[multimodal-item-parameter-estimation-2026]] — Estimation des paramètres d'items IRT avec des grands modèles de langue multimodaux
-- [[ai-guided-learning-audiovideo-2026]] — Soutien à l'apprentissage audio-vidéo guidé par l'IA
-- [[multimodal-knowledge-graph-educational-reasoning]] — Graphes de connaissances multimodaux pour le raisonnement éducatif
-- [[mllm-scientific-visualization-literacy]] — La littératie des grands modèles de langue multimodaux pour la visualisation scientifique
-- [[multimodal-affective-its-presentation]] — Les signaux multimodaux dans le tutorat intelligent affectif
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutorat mathématique multimodal affectif
-- [[llm-cognitive-diagnosis-handwritten-math]] — Diagnostic cognitif des mathématiques manuscrites par grands modèles de langue
-- [[nuclear-diffusion-text-to-image-learning-2026]] — L'apprentissage texte-image dans l'enseignement du génie nucléaire
-- [[privacy-aware-classroom-incident-recognition-2026]] — Détection multimodale en classe respectueuse de la vie privée
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Enseignement multimodal par OCR en cybersécurité
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24 : évaluer comparativement les grands modèles de langue multimodaux pour l'audit de diapositives
-- [[ai-grading-handwritten-physics-2026]] — Notation par IA d'évaluations de physique manuscrites (Olympiade)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — La composition multimodale par l'IA et la pensée critique dans l'écriture au primaire (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Au-delà de la génération et de l'exactitude : diagnostiquer et améliorer la chaîne de pensée visuelle pour la résolution de problèmes de géométrie
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE : 12 tâches portant sur 1 174 œuvres d'art montrent la capacité des modèles vision-langage comme un profil propre à chaque dimension, la plus faible en interprétation affective et en raisonnement spatial dépendant du point de vue (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Évaluation assistée par IA des comptes rendus de travaux pratiques de physique : potentiel, limites et soutien à la pratique enseignante
-
-- [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe le plus souvent : les rôles de détection représentent 62,5 % des rôles codés, et aucun système examiné n'a fusionné les flux multimodaux pendant que les apprenants l'utilisaient (Kim et Han 2026)

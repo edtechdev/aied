@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -45,6 +46,3 @@ Onderwijsontwerpers en docenten die een ontwerpbeslissing met het bijbehorende b
 ## Opmerkingen en kanttekeningen
 
 Lees het vertrouwenspaneel op elke pagina. Taalmodellen onderhouden de wiki onder één menselijke beheerder, geen persoon heeft een pagina nagekeken, en de site noemt een pagina een goed onderbouwde aanwijzing in plaats van een bevinding. Claims dragen een ontwerpniveau, een code voor effectgrootte en een code voor degelijkheid, en "geen effectgrootte gedrukt" betekent dat de bron er geen rapporteerde, niet dat er geen is. De inhoud is CC BY-SA 4.0, dus hergebruik moet dezelfde licentie dragen, en de code is MIT.
-
-## Gerelateerde concepten
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

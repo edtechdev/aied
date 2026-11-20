@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -103,45 +105,3 @@ ai_assist:
 - **"ভাষা শিক্ষকরা হয় উৎসাহে গ্রহণ করেন, নয়তো আদৌ না।"** [[li-language-educators-genai-review-2026|23টি গবেষণার পদ্ধতিগত পর্যালোচনা]] (Li প্রমুখ) প্যাটার্ন হিসেবে পায় **সতর্ক, প্রস্তুতি-প্রথম গ্রহণযোগ্যতা**। শিক্ষকরা ছিলেন বিবেচনাপূর্ণভাবে সন্দিহান, উৎসাহী ও অস্বীকারকারীতে বিভক্ত নন।
 - **"সামগ্রিক প্রভাবটি পরিশ্রমের যৌক্তিকতা প্রমাণ করে।"** **33টি TEFL গবেষণার** একটি মেটা-বিশ্লেষণ পেয়েছে একটি **ছোট-থেকে-মাঝারি সামগ্রিক প্রভাব (g = 0.38, trim-and-fill-এ 0.28-এ নামে)** যা **শিক্ষাস্তরের সঙ্গে বৃদ্ধি পায়**। সংশোধনের পর প্রভাবটি সংযত এবং উচ্চতর স্তরে কেন্দ্রীভূত, তাই প্রারম্ভিক শিক্ষার্থীদের জন্য দাবি সম্মিলিত পরিসংখ্যান দ্বারা সমর্থিত নয়।
 - **"যেকোনো এআই ব্যবহার ভাষা শেখার জন্য সমানভাবে ফলপ্রসূ।"** একই কাজ **প্রযুক্তিকে উৎপাদনের দিকে ঝুঁকানোর** পক্ষে যুক্তি দেয় — ভোগের বদলে লেখা ও বলা। এআই-এর উপস্থিতির চেয়ে মাধ্যমই প্রভাবটি বেশি নির্ধারণ করেছে।
-
-## সংযুক্ত ধারণা
-
-- [[language-learning]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[alharbi-ethical-genai-eap-2026]] — উচ্চশিক্ষায় EAP-র ভিতরে নৈতিক জেনারেটিভ এআই সংযোজন
-- [[feedback-literacy-scripts-eap-writing]] — জেনএআই EAP লেখা সংশোধনে প্রতিক্রিয়া-সাক্ষরতা স্ক্রিপ্ট ও দ্বিতীয়-মূল্যায়নকারীর ব্যবস্থা
-- [[genai-differentiated-eap-reading-materials-2026]] — একীভূত থেকে ভিন্নতর উপকরণ: জেনএআই-সমর্থিত EAP পাঠ-উপকরণ অভিযোজন
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: শিক্ষাবিদ্যা-অভিযোজিত ইংরেজি টিউটরিংয়ের জন্য ট্যাক্সোনমি-সামঞ্জস্যপূর্ণ পোস্ট-ট্রেনিং
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL শেখার মডেল হিসেবে ই-পোর্টফোলিও মূল্যায়নের সঙ্গে ChatGPT-র সামঞ্জস্য
-- [[irwin-muller-efl-peer-feedback-literacy]] — EFL সহপাঠী-প্রতিক্রিয়ায় জেনারেটিভ এআই-এর অবস্থাননির্ণয়
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL প্রসঙ্গে এআই-উৎপন্ন বনাম মানব-উন্নত মূল্যায়ন কাজ
-- [[acceptance-ai-english-tools-2026]] — উচ্চশিক্ষায় এআই-সহায়ক ইংরেজি ভাষা শেখার সরঞ্জামের গ্রহণযোগ্যতা
-- [[ai-tools-arab-english-classrooms]] — আরব বিশ্ববিদ্যালয়ের ইংরেজি শ্রেণিকক্ষে এআই সরঞ্জাম
-- [[self-referential-l2-writing-llm-assessment]] — স্ব-সূচক বিশ্লেষণমূলক মূল্যায়নের দিকে: এলএলএম দিয়ে L2 লেখা মূল্যায়নের প্রোফাইল-ভিত্তিক পদ্ধতি
-- [[ai-interlocutor-l2-spoken-dialogue]] — সংলাপ-সঙ্গী যখন এআই, তখন কী বদলায়? L2 কথ্য সংলাপ
-- [[genai-linguistic-diversity-academic-writing]] — একাডেমিক লেখালেখি ও প্রকাশনায় জেনারেটিভ এআই ও ভাষিক বৈচিত্র্য
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — অদৃশ্যকে শাসন করা: ভাষা শিক্ষকদের মধ্যে এআই সাক্ষরতা
-- [[structural-silence-underrepresented-language-ai-2026]] — কাঠামোগত নীরবতা: এআই অবকাঠামোয় অনুপ্রতিনিধিত ভাষা
-- [[liu-emerging-tech-tefl-review-2026]] — TEFL-এর জন্য উদীয়মান প্রযুক্তি
-- [[bird-multimodal-educational-literature-2026]] — শিক্ষামূলক সাহিত্য শ্রেণিবদ্ধে বহুমাধ্যম সংযোজন
-- [[li-language-educators-genai-review-2026]] — জেনএআই নিয়ে ভাষা প্রশিক্ষকদের অনুশীলন ও বিকাশ
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — EFL তর্কমূলক প্রবন্ধের সহপাঠী ও এআই সংশোধন সংলাপমূলক অবস্থানে ভিন্ন (Zhao ও Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — এআই-এর উপর অতিনির্ভরতা (54টি গবেষণার 50%) ও হ্রাসপ্রাপ্ত সমালোচনামূলক চিন্তা প্রতিবেদিত সীমাবদ্ধতাগুলির শীর্ষে

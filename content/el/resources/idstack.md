@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -39,6 +40,3 @@ ai_assist:
 ## Τι να ξέρετε πριν το υιοθετήσετε
 
 Το πρόσθετο απαιτεί Claude Code και φλοιό bash για εγκατάσταση· το PowerShell και το cmd δεν μπορούν να τρέξουν το σενάριο εγκατάστασης, και συνιστάται Python 3 για τις τάσεις βαθμολογίας. Τα δεδομένα του μαθήματος μένουν στον φάκελο του έργου στον υπολογιστή του ίδιου του αναγνώστη, και τον εγκαταλείπουν μόνο μέσω μιας ενσωμάτωσης που καλεί ο χρήστης, όπως μια κλήση στο Canvas API. Η ζωντανή συμπερασματολογία της επέκτασης Chrome χρειάζεται το δικό του δωρεάν κλειδί API του Google AI Studio, αν και μια λειτουργία προσομοίωσης το επιδεικνύει χωρίς αυτό. Το έργο χαρακτηρίζεται beta στην έκδοση 3.5.1.0 και προειδοποιεί για ασυμβατότητες ανάμεσα σε δευτερεύουσες εκδόσεις, και δημοσιεύεται από τον λογαριασμό savvides στο GitHub και όχι από κατονομασμένο συγγραφέα.
-
-## Συνδεδεμένες έννοιες
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

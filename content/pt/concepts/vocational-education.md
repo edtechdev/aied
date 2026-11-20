@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -92,29 +94,3 @@ O que é distintivo na IA na EFP é uma lacuna entre o que o setor diz que quer 
 **"Quem aprende vai depender demais da IA no treinamento prático."** A evidência piloto aponta para o contrário. Pilotos exploratórios (**N = 30**, Itália e China, **20 sessões delimitadas**) constataram participantes tratando o sistema como uma ferramenta de apoio delimitada, com **nenhuma expectativa relatada de substituição ou dependência**. Isso é exploratório e pequeno, e de fato sugere que o enquadramento dos aprendizes profissionais de uma ferramenta como equipamento, e não como autoridade, é um recurso em torno do qual vale desenhar.
 
 **"A aprovação do aprendiz a uma tarefa simulada significa que ela avaliou a coisa certa."** De **33 aprendizes pesquisados, 21 (64%)** concordaram que a tarefa de voz era realista e a mesma proporção disse que ela dava uma forma clara de comunicar o que sabiam — e nenhum discordou que falar em tempo real se adequava a essa [[authentic-assessment|avaliação autêntica]]. Realismo e clareza de comunicação valem a pena saber e não são validade: uma tarefa pode parecer autêntica e ainda falhar em amostrar o desempenho ocupacional que ela representa.
-
-## Conceitos conectados
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Artigos conectados
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Renovação curricular adaptativa de CTE, cinco dimensões e seis testes de liderança
-- [[ai-vocational-education-training-review]] — Primeira revisão sistemática de IA na EFP: propósitos, teoria e eficácia empírica
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: aprendizagem baseada em projetos imersiva e criatividade em design
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: avaliação oral off-line com apoio de IA em TVET
-- [[ai-pedagogical-accompaniment-amico]] — Protótipo Amico de modo duplo: princípios de design e indicadores observáveis
-- [[ai-autonomous-learning-accomplishment-2026]] — Aprendizagem autônoma assistida por IA e realização reduzida, mediada pela resistência
-- [[astra-atco-training-simulator]] — Simpilotos autônomos para treinamento escalável de ATCO
-- [[crewscaler-ai-upskilling-framework]] — Framework de ponta a ponta acelerado por IA para requalificação profissional rápida
-- [[genai-xr-architectural-design-education-2026]] — Contracaso: IA generativa mais RV multiusuário com autoeficácia de design em declínio
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — O apoio de TIC percebido como alavanca institucional em faculdades profissionais

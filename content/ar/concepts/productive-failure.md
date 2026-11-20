@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -100,36 +102,3 @@ ai_assist:
 - **«حجب المساعدة يُحبِط المتعلّمين ويكلّف الدافعية.»** وجدت تجربة [[rct|عشوائية مضبوطة]] بثلاثة أذرع أن مدرّسًا يحجب التلميحات **ساوى ChatGPT غير المقيَّد في خفض الإحباط و**الدافعية — فظهر الثمن **في التفضيل وحده**. فالمتعلّمون لم يستمتعوا به ولم يتضرّروا منه، وهذا يعني أن بيانات التفضيل كانت سترفض التصميم الذي نجح.
 - **«إحباط أكثر يعني تعلّمًا أكثر.»** كان المدرّس المتدرّج **أكثر إحباطًا بـ0.42 نقطة على السلّم من المدرّس الذي أجاب عند الطلب (p < .001) و0.29 أقل إحباطًا من** الذراع الأكثر إحباطًا. فالمدى المنتج وسط لا قمة، أي أن «الصعوبة المرغوبة» لا تُجيز تصعيب المهمة إلى ما لا نهاية.
 - **«الفشل المنتج يعني أن على المعلّمين ألا يساعدوا.»** التصميم يحجب *الجواب* بينما يوفّر البنية والتدرّج. فحجب تلميح وحجب دعم تدخّلان مختلفان، والأول وحده هو ما لديه أدلة هنا.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — المحاولة قبل التعليم بوصفها تسلسلًا كاملًا، بقاعدة أدلة رقيقة
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — الحالات كفضاء مشكلة مشترك للمحاولة الأولى
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## المقالات المرتبطة
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — حجب الحلول تجنّب كلفة الإحباط لكنه خسر في تفضيل الطلاب
-
-- [[kim-ai-productive-failure-adult-2026]] — تصميم أنظمة الذكاء الاصطناعي لدعم التعلّم القائم على الفشل المنتج
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه التربوي لنماذج اللغة الكبيرة من أجل الفشل المنتج
-- [[rhaimi-productivemath-2025]] — ProductiveMath: ذكاء اصطناعي لدعم تصميم مسائل الفشل المنتج
-- [[wang-safety-gap-productive-struggle-2026]] — فجوة الأمان: استعادة الكفاح المنتج
-- [[lukesova-clue-before-correction-2026]] — الدليل قبل التصحيح: ChatGPT من أجل التعلّم المستقل
-- [[pedagogy-ai-mistakes]] — تربية أخطاء الذكاء الاصطناعي

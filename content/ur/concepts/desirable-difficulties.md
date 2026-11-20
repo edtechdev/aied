@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -104,49 +106,3 @@ TutorMoments فائدہ مند مشکل کے اصولوں کو جانچی معی
 **"علمی رگڑ اور پیداواری جدوجہد ایک ہی خیال ہیں۔"** وہ مختلف ادب سے آتے ہیں اور مختلف پیش گوئیاں کرتے ہیں۔ پیداواری جدوجہد کا تعلق اُس کوشش طلب معنی سازی سے ہے جو فہم بناتی ہے؛ علمی رگڑ کا تعلق اُس عدم توازن سے ہے جو کام کے مطالبے اور سیکھنے والے کے موجودہ وسائل کے درمیان ہے۔ اِنہیں مترادف سمجھنے سے تشخیصی سوال ہاتھ سے نکل جاتا ہے — کیا یہ سیکھنے والا ایسی جدوجہد کر رہا ہے جو بناتی ہے، یا ایسی رکاوٹ میں ہے جو صرف قیمت چکاتی ہے؟
 
 **"اگر جدوجہد ہٹانے سے فوری کارکردگی بڑھی، تو مداخلت کامیاب رہی۔"** یہی وہ توازن ہے جس کے بارے میں پورا صفحہ ہے: معاونت کی موجودگی میں ناپی گئی کارکردگی، بعد کی بلا معاونت کارکردگی کے مقابل منظم طور پر پھولی ہوئی ہوتی ہے۔ کسی بھی ایسے AI کی جانچ جو محنت کم کرتا ہے، تاخیر پر اور اوزار کے بغیر کرنی چاہیے، ورنہ وہ مشق کے ہٹنے کو سیکھائی کے پیدا ہونے کے طور پر رپورٹ کرے گی۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — کوشش طلب ترتیب روانی والی ترتیب سے کیوں بہتر ہے
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — وہ ناکامی جسے پیداواری رگڑ روکنے کے لیے ڈیزائن کی گئی ہے
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — پیداواری ناکامی
-- [[retrieval-spacing-interleaving]] — وہ عملی تکنیکیں جو اِس اصول کو عملی شکل دیتی ہیں: جانچ کا اثر، وقفے، آمیزش
-
-## منسلک مضامین
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT بہ طورِ علمی بیساکھی: فائدہ مند مشکل ہٹانے کا تاخیر والا بے ترتیب امتحان (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — بے رگڑ AI کے خلاف: فائدہ مند رگڑ بچانے کی اُلٹی-U دلیل
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI اوزاروں میں پیوست پیداواری رگڑ سیکھائی کی معاونت کرتی ہے
-- [[zhang-tutormoments-2026]] — جب مدد مددگار نہ ہو: پیداواری جدوجہد کے لیے AI ٹیوٹرز کی جانچ
-- [[kim-ai-productive-failure-adult-2026]] — پیداواری ناکامی پر مبنی سیکھائی کی معاونت کے لیے AI نظام ڈیزائن کرنا
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — پیداواری ناکامی کے لیے LLM کی پیدگوجیکل رہنمائی
-- [[wang-safety-gap-productive-struggle-2026]] — حفاظتی خلا: پیداواری جدوجہد کی بحالی
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF مسائل کے ڈیزائن کی معاونت کے لیے AI
-- [[making-ai-annoying-constrained-writing-2026]] — AI کو جان بوجھ کر اکتاہٹ بھرا بنانا: AI کی معاونت والی تحریر میں بندی (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — عکاس AI شمولیت میں مہارت بچانے والے انحصار کی طرف کھلے سوالات
-- [[structured-reflection-ai-explanatory-feedback-2026]] — پہلے ہی تفصیل والے AI فیڈبیک میں خود وضاحت کے پرامپٹس: وقت دوگنا، سیکھائی میں کوئی اضافہ نہیں (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — جنریٹو AI کی سیکھائی کی سزا: گھر کے کام کے اسکور بڑھتے ہیں جبکہ امتحان کے اسکور گرتے ہیں، پوری قیمت دو سال بعد (Strömberg, Lei & Wu 2026)

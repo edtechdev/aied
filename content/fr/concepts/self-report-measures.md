@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -63,7 +65,6 @@ La conséquence est un ensemble d'affirmations qui se ressemblent dans une secti
 
 Deux implications s'ensuivent pour quiconque lit ou conçoit cette recherche. Premièrement, la question de savoir si un instrument d'auto-déclaration mesure même le construit qu'il nomme est une question empirique, à laquelle répond la validation plutôt que la plausibilité des items. Deuxièmement, le sens de la tentation dans l'IA en éducation est constant : les outils sont évalués par ce que les utilisateurs ressentent à leur égard, et le ressenti est précisément la part que l'auto-déclaration capte au moindre coût. L'[[self-assessment|auto-évaluation]] est un membre de cette famille plus large plutôt qu'un synonyme de celle-ci : là où les mesures d'auto-déclaration atteignent les attitudes, la confiance et la satisfaction, l'auto-évaluation tourne spécifiquement l'estimation de l'apprenant vers sa propre compétence, sa confiance ou son apprentissage.
 
-
 Un second mode d'échec est l'effondrement discriminant entre deux construits auto-déclarés : régresser la capacité à l'IA auto-déclarée aux côtés du contrôle comportemental perçu mesuré comme efficacité peut comparer un facteur de confiance générale avec lui-même, ce qui explique pourquoi les critères sont fixés à l'avance — un rapport hétérotrait–monotrait inférieur à ,85 et un test de modèles emboîtés contraignant la corrélation capacité–contrôle à l'unité ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 Un instrument validé peut rendre cette limite précise plutôt que vague. Le questionnaire d'auto-évaluation de la littératie en IA (AIL-SAQ) de [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan et Srikoon (2025)]] est une échelle de 15 items confirmée par une structure stable à trois facteurs sur deux échantillons (n = 335 exploratoire, n = 579 confirmatoire) et un alpha de Cronbach global de ,934. Ses auteurs sont explicites : elle enregistre la compréhension, les attitudes et la conscience perçues plutôt que la compétence démontrée, et l'exactitude de l'auto-évaluation dépend de la capacité métacognitive encore en maturation chez les enfants, si bien que l'estime de soi d'un enfant est un signal plus faible que celle d'un adulte.
@@ -73,7 +74,6 @@ Le choix opposé est aussi défendable : PAUSE est un auto-contrôle de délesta
 ## L'écart perception–comportement
 
 Le résultat d'auto-déclaration le plus fort de cette littérature n'est pas que l'auto-déclaration soit biaisée en général, mais que le comportement rapporté et le comportement observé divergent de manières spécifiques et documentées.
-
 
 Les profils dérivés de l'auto-déclaration se comportent de la même manière. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] ont regroupé 14 003 dossiers d'étudiants sur des indicateurs comportementaux et psychologiques auto-déclarés plutôt que sur des traces d'interaction du système de gestion de l'apprentissage, et les six profils obtenus se séparaient nettement sur la note finale (η² = 0,770), une séparation que les auteurs avertissent être en partie une reformulation de ce que les étudiants ont déclaré.
 
@@ -88,7 +88,6 @@ Les estimations comportementales montrent la même scission. [[predicting-attrit
 Parfois, demander et observer sont mis face à face. [[student-llm-interaction-taxonomy-review-2026|Une revue de portée de 46 catégorisations issues de 33 études]] a montré que la littérature se partageait à peu près également entre données d'auto-déclaration et données de journaux d'interaction, et a conclu que les catégories « reflètent souvent l'approche de mesure autant que l'interaction elle-même » — les études d'auto-déclaration captant les perceptions et les intentions tandis que les études fondées sur les journaux captent le comportement conversationnel observable, les deux étant rarement intégrées. Le [[tracing-genai-literacy-interaction-patterns|travail sur les données de processus relatif à la littératie à l'IA générative]] en donne la version constructive : le fait qu'un étudiant formule de façon itérative, affine les sorties et gère les [[hallucination-risk|hallucinations]] est observable dans les journaux d'interaction et non dans un questionnaire.
 
 Une revue structurée de 2026 et une [[meta-analysis-systematic-review|méta-analyse]] exploratoire des mesures de l'usage compétent de l'[[generative-ai|IA générative]] mettent un chiffre poolé sur cet écart dans la direction opposée : en poolant trois corrélations subjectif–objectif de même échantillon directement rapportées (N rapporté combiné = 2 765), on obtient r = ,055 (IC Hartung–Knapp à 95% [−,047, ,156]), et en ajoutant les corrélations inter-facteurs d'une quatrième étude, on n'atteint que r = ,079. Les trois effets primaires provenaient d'un unique programme de recherche, la corrélation et la valeur p rapportées par le plus gros contributeur n'ont pu être conciliées, et la revue conclut que l'auto-déclaration ne peut se substituer aux scores de performance objectifs — tout en notant que les instruments de performance sont eux-mêmes étroits, couvrant les connaissances fondamentales plutôt que les comportements de supervision et de dépendance qui importent au travail ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
-
 
 Une revue systématique en deux phases met un taux sur cette divergence au niveau des conclusions : sur 51 paires de même construit issues de 47 rapports, 30 concordaient, 11 divergeaient et 10 étaient mixtes. La divergence allait dans les deux sens : cinq contrastes associaient un résultat auto-déclaré nul à un résultat de performance positif, contre deux dans le sens inverse ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
@@ -173,58 +172,3 @@ Les réponses constructives sont constantes, et aucune n'exige d'abandonner les 
 - **« Les données d'enquête sont faibles mais à peu près non biaisées. »** La structure des réponses borne l'estimation avant même le biais : une enquête obtient **112 réponses à un taux de réponse de 31 %**, ou **90 réponses sur 572 invitations**. Le vivier de répondants est un sous-ensemble auto-sélectionné, le chiffre décrit donc ce sous-ensemble.
 - **« Les enquêtes sont une méthode minoritaire dans ce domaine. »** Une revue de cadrage de **394 études sur l'IA générative dans l'enseignement supérieur** trouve **les échelles d'enquête comme méthode d'évaluation la plus fréquemment rapportée (269 études, 68,3 %)**, devant les tests et les quiz. La preuve dominante du domaine est l'auto-déclaration.
 - **« L'auto-déclaration et les construits mesurés concordent. »** **La charge cognitive auto-déclarée ne différait pas significativement entre des profils de délégation allant de 80 % à 2 % de rédaction de dissertation**, alors que les plus gros délégataires différaient de façon mesurable. La mesure subjective restait plate là où le comportement variait d'un facteur quarante.
-
-## Concepts liés
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Articles liés
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 participants, trois méthodes de saillance : satisfaction et confiance stables, performance à la tâche et métriques de fidélité en désaccord (Kares et al., 2027)
-- [[capability-decision-model-teacher-readiness-2026]] — Critères de validité discriminante pour séparer la capacité à l'IA auto-déclarée des croyances d'efficacité
-- [[high-school-genai-acceptance-tam-physics-2026]] — Un seul score d'intention, deux usages opposés
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Le mode d'administration d'un instrument d'auto-déclaration change ce qu'il mesure
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — L'engagement prédit une performance perçue plutôt que mesurée dans un modèle de cheminement avec IA agentique (Pramod et Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Mesures parallèles auto-déclarées et objectives de la littératie en IA des enseignants
-- [[jin-glat-genai-literacy-assessment]] — GLAT : une alternative fondée sur la performance à l'auto-déclaration
-- [[genai-student-experiences-uk-he-survey-2026]] — L'usage de l'IA générative par les étudiants sondé dans les institutions britanniques
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies façonnées selon que les données provenaient de l'auto-déclaration ou des journaux
-- [[tracing-genai-literacy-interaction-patterns]] — Données de processus caractérisant la littératie à l'IA générative
-- [[engagement-intensity-learner-modeling]] — L'usage auto-déclaré comme signal de modélisation de l'apprenant
-- [[predicting-attrition-competitive-programming]] — Confiance auto-déclarée contre comportement de pratique
-- [[ai-use-critical-thinking-medical-students-2026]] — Biais de méthode commune dans un modèle de médiation à source unique
-- [[genai-motivation-engagement-2026]] — PLS-SEM fondé uniquement sur l'auto-déclaration de la motivation et de l'engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Sondage de 81 étudiants de premier cycle en physique sur l'usage et la confiance envers l'IA
-- [[hawkins-feedback-literacy-ai-essay-writing]] — L'enregistrement d'écran et le rappel stimulé comme remède à l'auto-déclaration
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Auto-déclaration plus données de traces sur l'apprentissage autorégulé
-- [[adaptive-pretesting-retention]] — Indicateurs d'effort comportemental dérivés des journaux
-- [[ai-vocational-education-training-review]] — Revue rapportant le déséquilibre entre mesures objectives et auto-déclaration
-- [[student-genai-use-views-writing|L'usage de l'IA générative par les étudiants et leurs points de vue sur l'écriture]] — Sondage plus entretiens dans un seul département de sociologie
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Des profils dérivés de l'auto-déclaration se comportent de la même manière
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revue en deux phases chiffrant le désaccord entre auto-déclaration et performance sur un même construit (Fan et al. 2026)
-- [[competent-generative-ai-use-measures-review-2026]] — Au-delà de la littératie en IA : une revue structurée et une méta-analyse exploratoire des mesures de l'usage compétent de l'IA générative
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE : un outil d'autoréflexion préservant la confidentialité pour le délestage cognitif associé à l'IA
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Un instrument d'auto-évaluation de 15 items pour des étudiants de fin de primaire, explicite sur ce que la compétence perçue peut établir
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revue montrant que 31 des 33 instruments de littératie en IA des enseignants reposent sur l'auto-déclaration et qu'aucun n'est fondé sur la performance
-- [[jelson-students-chatgpt-essay-writing-2026]] — L'appropriation perçue séparait la délégation de la dissertation entière de tout le reste, tandis que la trace séparait bien davantage (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — des perceptions rapportées dans 32 études sur 66, contre 8 qui mesuraient des compétences d'investigation
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8 % des outils de littératie en IA rapportent des preuves de fiabilité et moins de 20 % des preuves de validité
-
-- [[huang-genai-academic-information-resources-2026]] — Des journaux de bibliothèque et des attitudes de sondage pointant dans des directions différentes
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — L'apprentissage et l'engagement perçus ont progressé sur chaque mesure de sondage tandis que les notes d'examen ne bougeaient pas
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Une échelle professorale de 300 items avec α = 0,997 prédite à 99,68 % de précision sans aucune analyse factorielle

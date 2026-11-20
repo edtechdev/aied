@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,7 +46,6 @@ Ide ini telah bergerak dari proposisi menjadi rekomendasi yang berulang di selur
 
 Kosakata desain yang paling eksplisit datang dari Thapa dan Lewis, yang empat komitmennya membawa argumen itu ke dalam desain tugas: justifikasi reflektif, desain tugas bertahap, keterlibatan dialogis, dan transparansi evaluatif. Dalam praktik, siswa menjelaskan keputusan interpretif alih-alih hanya menyajikan kesimpulan, mengirimkan pekerjaan yang berkembang lintas titik pemeriksaan, mengambil bagian dalam pertukaran [[oral-assessment|lisan atau dialogis]] tentang penalaran mereka, dan bekerja dengan kriteria yang dapat mereka terapkan sendiri — wilayah [[feedback-literacy|literasi umpan balik]] dan [[self-assessment|penilaian diri]]. Usulan Boysen (2026) untuk praktik pembelajaran terbuka menerjemahkan logika yang sama menjadi jejak audit: rencana pembelajaran bersama yang ditetapkan sebelum proyek dimulai, rencana analisis pembelajaran yang menyebutkan sumber yang diwajibkan dan yang dilarang, serta draf dan riwayat versi yang terdokumentasi, yang dipertahankan melalui Track Changes dan versi berkas tersimpan, yang memaparkan proses kerja dan menjelaskan apa yang menginformasikan setiap revisi. Ia membingkainya sebagai [[self-regulated-learning|pengaturan diri]] yang dibuat terlihat.
 
-
 Saluran yang dipilih untuk bukti proses mengubah apa yang dapat dibuktikan: dalam studi AI generatif yang sama dengan 79 siswa, pemantauan dan perencanaan berkedalaman lebih tinggi lebih umum dalam unit think-aloud sementara regulasi berkedalaman lebih tinggi lebih umum dalam log interaksi, sehingga tidak ada satu rekaman pun yang menangkap seluruh proses ([[metacognitive-processes-genai-interaction-logs-2026|Li dan Liu (2026)]]). Jejak juga dapat menyimpang dari skor secara langsung: di 150 percakapan siswa–AI, 41% membawa skor tugas tepat 1.00 sementara partisipasi kognitif yang teramati bervariasi, sehingga skor yang cocok dapat menyembunyikan proses yang berbeda ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace menjawab masalah yang sama untuk penulisan terintegrasi AI dengan menyelaraskan ukuran proses tingkat-ketukan dengan produk akhir dan dengan jejak interaksi AI, menunjukkan bahwa pengetikan-salin hanya dapat diidentifikasi ketika produk dan proses dibaca bersama ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), sebuah contoh konkret dari pengukuran jejak perilaku yang masih belum dimiliki bidang ini.
 
 Uraian praktisi dan kerangka mengisi artefaknya. Kerangka LEARN dari Uden dan Hwang (2026), yang diarahkan pada [[problem-based-learning|pembelajaran berbasis masalah]] [[assessment]], menuntut rubrik berfokus proses, justifikasi lisan, pengiriman bertahap, dan jejak penalaran dengan [[ai-use-disclosure|pengungkapan penggunaan AI]], dan memperlakukan refleksi melalui jurnal belajar dan protokol think-aloud sebagai mesin [[metacognition|metakognitif]] dari urutan itu. Moganadas dan kolega (2026) menjadikan asesmen berorientasi proses yang transparan-AI sebagai salah satu dari lima proposisi yang dapat diteliti, menuntut dokumentasi, verifikasi, dan justifikasi reflektif alih-alih larangan atau penggunaan detektor. Padhy (2026) merekomendasikan penangkapan riwayat revisi, pola interaksi, dan waktu-dalam-tugas, dipasangkan dengan pengungkapan yang transparan. Goldstein, Marae-Haj dan Zidan (2026) melaporkan artefak yang sama muncul dari praktik setelah krisis [[trust|kepercayaan]]: catatan prompt, riwayat versi dokumen, kontribusi kelompok yang terpantau, dan "jurnal perjalanan" reflektif yang disimpan di buku catatan fisik — di samping temuan lugas bahwa pekerjaan tertulis take-home tidak lagi dapat membuktikan pembelajaran.
@@ -54,7 +55,6 @@ Perkakas konkret sedang muncul: [[stepwise-teacher-diagnosis-math-2026|Kim et al
 Pengiriman titik pemeriksaan menjadi rutin dalam praktik: di enam semester rangkaian metode penelitian pascasarjana asinkron enam minggu yang melayani sekitar 440 guru [[k-12]], pengiriman itu rata-rata mencapai 96% penyelesaian, dan iterasi berikutnya yang menambahkan templat prompt eksplisit menghasilkan refleksi yang lebih panjang dan tampak lebih substantif [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 - **"Bukti proses membutuhkan rezim penilaian khusus."** Sebagian darinya hanyalah satu sore instrumentasi: studi atas **77** penulis esai mahasiswa memakai editor CodeMirror yang mencatat penyisipan, penghapusan, seleksi, potongan, salinan, dan tempelan dengan cap waktu, di samping panel obrolan internal pada API bawaan, dan menangkap **361** pesan. Jejak yang sama menunjukkan bahwa **14** respons terhadap kueri perencanaan ditempelkan ke esai akhir, yang tidak akan terungkap oleh laporan tingkat-produk mana pun. Batas jujurnya ada pada instrumennya: kata yang diketik dihitung sebagai milik siswa bahkan ketika diparafrasakan dari respons, sehingga batas antara mengetik dan berpikir tidak terlihat. [[jelson-students-chatgpt-essay-writing-2026|Mencatat prosesnya lebih murah daripada merancang untuknya]].
-
 
 **Jejak proses hanya menjadi umpan balik jika pembelajar membacanya terhadap tugasnya.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] memberi sebelas mahasiswa penerjemahan [[visualization|visualisasi]] Inputlog dan rekaman layar plus satu sesi refleksi 30 menit. Porsi revisi tingkat-makna naik dari 18.1% ke 28.4% (t(10) = 4.259, p = 0.002) sementara total revisi tidak berubah secara signifikan, turun dari 1,292.91 ke 1,052.36 (p = 0.248). Jejak itu tidak membuat siswa lebih banyak menyunting, hanya menyunting secara berbeda, yang merupakan argumen untuk bukti proses dalam satu hasil.
 
@@ -87,43 +87,3 @@ Uraian Thapa dan Lewis bersifat konseptual: tanpa partisipan, tanpa pengumpulan 
 - **"Skor tinggi menyiratkan siswa mengerjakan pekerjaan yang kami rancang."** Jejak dapat **menyimpang dari skor secara langsung**: di **150 percakapan siswa-AI**, **41% membawa skor tugas tepat 1.00 sementara partisipasi kognitif yang teramati bervariasi**. Skornya menjenuh sementara proses yang seharusnya menghasilkannya tidak.
 - **"Data proses tidak terkelola dalam skala besar."** Dokumentasi yang diwajibkan terbukti layak pada skala kursus di **enam semester kursus metode penelitian pascasarjana asinkron enam minggu yang melayani sekitar 440 guru K-12**. Logistiknya dapat dipecahkan; keberatannya melebih-lebihkan biayanya.
 - **"Pemecahan masalah terlalu holistik untuk dinilai melalui proses."** Ia dapat dioperasionalkan sebagai **empat tahap dan delapan sub-keterampilan diagnostik**, memungkinkan LLM menghasilkan **pertanyaan dan rubrik spesifik tahap** — dipakai dengan **lima guru dan 64 siswa**. Dekomposisilah yang membuat prosesnya terbaca dan dapat dinilai.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Titik pemeriksaan bertahap dan bukti proses sebagai desain berurutan
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## Artikel terkait
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Tinjauan naratif kritis yang berargumen bahwa kegagalan bawaannya adalah dukungan AI yang tak pernah memudar dipasangkan dengan penilaian hanya-produk (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — Esai proses kolaboratif yang dinilai di program magang gelar tahun pertama: iterasi dan kolaborasi dalam rubrik, GenAI diizinkan dalam batas yang dinyatakan (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — kinerja bukan pembelajaran: agenda penelitian yang dibangun di atas ukuran proses (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — pendidik guru meminta tugas berbasis proses yang tahan-AI yang dibangun di atas justifikasi dan refleksi (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — jejak keputusan beranotasi, pembelaan lisan, dan perbedaan draf yang dipilih untuk pertimbangan yang terlihat
-- [[munoz-misconduct-allegation-evidence-2026]] — apa yang terkandung dalam berkas kasus pelanggaran, dan bukti proses yang tidak dimilikinya
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — inferensi mana yang berisiko ketika bukti penilaian disubstitusikan
-- [[beyond-detection-authentic-assessment-ai-2025]] — keautentikan harus dirancang ulang, bukan diawasi
-- [[authentic-products-authenticated-processes-2026]] — produk autentik dan proses yang menghasilkannya
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — ujian lisan sebagai format tahan-AI yang membuat penalaran hidup
-- [[thapa-lewis-process-oriented-assessment-2026]] — keautentikan epistemik dan empat komitmen desain di balik asesmen berorientasi proses (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Bukti proses yang bergantung saluran: log dan think-aloud mengungkap proses yang berbeda
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Lingkungan Analitik Multi-Tampilan untuk Penulisan Terintegrasi AI
-- [[epistemic-ownership-ai-mediated-education-2026]] — Kinerja Sama, Proses Berbeda: Kepemilikan Epistemik dalam Pendidikan yang Dimediasi AI
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Mendukung Guru dalam Mendiagnosis Keterampilan Pemecahan Masalah Matematis Siswa melalui Pertanyaan yang Dihasilkan LLM
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Dokumentasi titik pemeriksaan dialog AI bertahan pada 96% penyelesaian di enam semester dan sekitar 440 guru
-- [[rubrics-genai-process-based-assessment-2026]] — Tiga dimensi rubrik dari model 3P Biggs: agensi dan pengawasan, perancah dialogis, kedaulatan kognitif (Oviedo & Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Editor CodeMirror plus panel obrolan tercatat mengubah satu sesi esai menjadi bukti proses, dengan batas mengetik-versus-berpikirnya (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - visualisasi proses plus satu sesi refleksi menggeser revisi dari tingkat permukaan ke tingkat makna tanpa menambah volume penyuntingan

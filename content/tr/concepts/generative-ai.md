@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -50,7 +52,6 @@ Eğitimci araç kullanımının bir sayımı, ilginin üretimde toplandığını
 ### Bilgi tabanının üretici YZ kapsamı
 
 80’den fazla makaleyle üretici YZ, bilgi tabanının en büyük teknoloji dizisidir. 394 çalışması boyunca, sürümü belirtilmemiş ChatGPT 94 çalışmada, ChatGPT-3/3,5 ailesi 66 çalışmada ve ChatGPT-4 ailesi 52 çalışmada yer aldı; bu da bildirilen yeteneklerin çoğunun o zamandan beri aşılmış model kuşaklarını betimlediği anlamına gelir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]). Araştırmalar etkililik çalışmalarını ([[genai-meta-analysis-programming-learning|meta-analizler]]), güvenlik kaygılarını ([[hazra-safetutors-pedagogical-safety-2026|özel öğretmen zararları]], [[eduguard-safe-rag-llm-tutor|koruyucu çerçeveleme]]) ve tasarım ilkelerini ([[instructional-guidance-genai-learning|öğretimsel rehberlik]]) kapsar.
-
 
 22 çalışmalık üç düzeyli bir meta-analiz, GenAI destekli problem ve [[project-based-learning|proje tabanlı öğrenmenin]] öğrenen-içi çıktılar üzerinde büyük havuzlanmış bir etki ürettiğini (g = 0,819) bulur, ancak bir PET-PEESE düzeltmesi bunu g = 0,378’e indirir; gömülme de önemliydi, genel sohbet robotları g = 0,970 ile havuzlanırken özel veya API sistemleri g = 0,455’te kaldı ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
@@ -94,46 +95,3 @@ PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinle
 - Havuzlanmış etki büyüklüklerine göre yol haritası çizilmemelidir. 14 meta-analizin denetimi hiçbirinin iddialarını gerekçelendirmediğini bulmuştur; dolayısıyla manşet bir *g* değerine dayanan ürün iddiası, incelemeden geçmeyen bir metodolojiye dayanır.
 - Temel oran, iyileştirilmeden önce ölçülmelidir. %0,68’lik bir görülme oranı, kalite işinin çoğunun kuyrukta gerçekleştiği anlamına gelir ve bir konuşlandırmanın kabul edilebilir olup olmadığını kuyruk performansı belirler.
 - Yayımlanan her kıyaslama sayısıyla birlikte sürüm, tarih ve görev türü raporlanmalıdır; çünkü bunları atlayan bir yetenek iddiası yeniden üretilebilir değildir.
-
-## Bağlı kavramlar
-
-- [[llm]] — üretici YZ’nin altında yatan model sınıfı
-- [[prompt-engineering]] — çıktıların nasıl şekillendirildiği
-- [[rag]] — erişimle güçlendirilmiş temelleme
-- [[ai-literacy]] — onu etkin kullanmak için gereken yetkinlik
-- [[ai-education]] — daha geniş alan
-- [[intelligent-tutoring]] — konuşmaya dayalı ve üretici özel öğretmen sistemleri
-- [[cognitive-offloading]] — üretici YZ’nin güçlendirdiği aşırı bağımlılık riski
-- [[hallucination-risk]] — üretilen içeriğin çekirdek bir güvenilirlik riski
-- [[academic-integrity]] — akıcı üretimden kaynaklanan dürüstlük kaygıları
-- [[automated-assessment]] — puanlama ve geri bildirimde üretici modeller
-- [[ai-technologies]] — YZ tekniklerinin ve modellerinin şemsiyyesi
-- [[higher-ed]] — temel bir kullanım bağlamı
-- [[k-12]] — temel bir kullanım bağlamı
-- [[reflection]]
-
-## Bağlı makaleler
-
-- [[bicer-genai-pd-math-creativity-2026]] — Sekiz kırsal hizmet içi öğretmenle GenAI rehberli bir matematik mesleki gelişim durum çalışması
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Havuzlanmış g = 0,819, PET-PEESE altında 0,378’e düşüyor; özel araçlar (0,455) sohbet robotlarının (0,970) gerisinde kaldı
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Zarardan yarara uzanan öngörü aralığıyla GenAI’nın öğrenme güdülenmesi üzerindeki etkisine ilişkin meta-analiz
-- [[typology-generative-ai-tools-education-2026]] — Eğitim için Üretici YZ Araçlarının Tiplemesi
-- [[generative-ui-education-learning-interactives-2026]] — Üretici Arayüzü Eğitim için Kullanmak: Uyarlanmış Öğrenme Etkileşimli Öğeleri
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Klinik Görüşme Eğitimi için İskelelemeye Yönelik Çok Aracılı Büyük Dil Modeli Sisteminin Değerlendirilmesi
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Öğrenme için Güvenli ve Sağlam YZ Tasarım Çerçevesi
-- [[genai-educational-outcomes-meta-analysis]] — GenAI öğrenme çıktılarına ilişkin meta-analiz
-- [[genai-meta-analysis-programming-learning]] — Programlama öğrenmesinde GenAI’ye ilişkin meta-analiz
-- [[genai-performance-vs-learning]] — GenAI ile performansa karşı öğrenme
-- [[hazra-safetutors-pedagogical-safety-2026]] — YZ özel öğretmen aracılarının zararları
-- [[eduguard-safe-rag-llm-tutor]] — Güvenli bir RAG LLM özel öğretmenine koruyucu çerçeveleme
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Öğrenme Ortamı Üretimi
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Görme engelli öğrenenler için yardımcı GenAI
-- [[li-language-educators-genai-review-2026]] — Dil eğitimcilerinin GenAI ile uygulamaları ve gelişimi
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Yeni YZ destekli eğitim sorularının pedagojik değerlendirmesi için ön eğitimli modellerin değerlendirilmesi

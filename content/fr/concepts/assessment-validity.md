@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -69,7 +71,6 @@ ai_assist:
 - **Validité orientée vers la décision pour la notation par l'IA à grande échelle :** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] illustrent une vision de la validité orientée vers la décision, dans l'évaluation nationale d'écriture Acredita EB : au lieu de demander seulement si les [[automated-assessment|scores de l'IA]] concordent avec ceux des humains, ils demandent si les erreurs de l'IA peuvent changer une décision de certification. Les seuils de notation automatisés par la [[item-response-theory|théorie de la réponse à l'item et la méthode Bookmark]] reproduisaient fidèlement les seuils opérationnels, et la sous-notation systématique par l'IA était neutralisée en orientant les résultats d'échec de l'IA vers un [[human-in-the-loop-ai|examen humain]] — cela notablement face à un standard de référence lui-même contesté, puisque dix experts notant les mêmes 50 textes n'ont jamais atteint l'unanimité sur aucun item de la grille.
 - **Les préoccupations de validité du côté des étudiants lorsque l'IA sert de notateur :** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] ajoute la voix de l'apprenant à la question de la validité : 13 étudiants d'informatique, dont la tâche d'écriture manuscrite avait été notée par ChatGPT, se sont demandé si un notateur d'IA pouvait valablement interpréter l'intention, l'effort et les normes de notation institutionnelles — l'un demandant avec à-propos : « If ChatGPT [is] checking the exams, why are we going to university? »
 - **L'autorisation ne dégrade pas à elle seule la tâche, et les taux d'usage sont le mauvais signal de validité :** [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] ont interrogé 85 étudiants enseignants dont les évaluations autorisaient explicitement l'IA générative, et ont constaté que l'engagement dans l'évaluation était élevé et statistiquement non affecté par le fait que les étudiants l'aient utilisée ou non (moyenne 4.21/5, SD 0.46 ; U de Mann–Whitney = 781.5, r = 0.07, p = 0.536). Avec 62.4% (53) refusant d'utiliser l'IA générative du tout, et l'usage des adoptants largement confiné à la relecture (43.8%) et aux vérifications de clarté (34.4%), le taux d'adoption renseigne peu sur le point de savoir si l'évaluation justifiait encore une inférence sur l'apprentissage — et un non-usage motivé par la crainte d'une accusation de plagiat injustifiée (41.5% des non-adoptants) n'est pas davantage une preuve de validité.
-
 
 - **La validité du cadre d'échantillonnage lorsqu'un test de niveau scolaire est lu comme une preuve de système :** [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] donnent à l'inférence allant des scores aux affirmations portant sur un *système* un traitement quantitatif. Une évaluation pilote menée auprès de 1,198 étudiants volontaires dans 171 écoles salvadoriennes, sur le Test for Schools fondé sur PISA, a produit des résultats annoncés comme comparables à ceux de l'Allemagne et de la Suède, mais l'instrument produit des estimations pour une école et n'est pas administré dans le cadre d'échantillonnage national, avec ses normes de taux de réponse, ses limites d'exclusion et sa pondération — si bien qu'une comparaison entre une estimation de niveau scolaire et une moyenne nationale comporte au moins trois sources d'incertitude non rapportées (erreur d'échantillonnage de niveau scolaire, erreur d'échantillonnage de la moyenne nationale, et erreur de raccordement de l'équivalence des échelles). Plutôt que de tester l'affirmation sur l'apprentissage, les auteurs la bornent : avec les 5.5% supérieurs de la distribution salvadorienne en [[math-education|mathématiques]] correspondant à la moyenne allemande en l'absence de tout apprentissage, et la participation volontaire étant réputée biaiser les tests de [[learning-gains|réussite]] vers le haut, les preuves publiées ne peuvent séparer un effet réel d'un échantillon sélectionné. C'est un échec de l'inférence de validité de la comparaison, et non des étudiants ni de l'instrument.
 
@@ -161,84 +162,3 @@ Winstone, Gravett et Elkington cadrent le problème de l'évaluation à l'ère d
 - **« Le biais de notation des LLM est une raison de l'abandonner. »** Dans une **évaluation nationale de l'écriture à grande échelle**, un notateur LLM a montré un **biais conservateur systématique (sous-notation)** — problématique comme note finale et potentiellement **utile comme signal de filtrage**. Un biais de direction connue est un instrument différent d'un instrument imprévisible.
 - **« L'inflation des notes après l'IA relève de la spéculation. »** Dans une **étude par doubles différences portant sur plus de 500 000 notes réparties sur 319 cours (2018-2025)**, les cours comportant davantage de tâches exposées à l'IA (écriture, codage) **ont vu la part des notes A augmenter**. L'effet se concentrait là où les tâches étaient exposées.
 - **« Les enseignants ont largement adopté l'IA. »** **62,4 % (53)** ont refusé d'utiliser l'IA générative du tout, et l'usage des adoptants était **largement confiné à la relecture (43,8 %) et aux vérifications de clarté (34,4 %)**. Le schéma d'adoption est prudent et étroit, ce qui change ce qu'une argumentation de validité doit couvrir.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Pourquoi des preuves de processus sont proposées lorsque la production n'identifie plus l'auteur
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## Articles liés
-- [[nissan-nursing-empathy-computer-vision-2026]] — Même vidéo, lectures opposées : un détecteur de sourires notait la chaleur là où les observateurs notaient l'incongruité (Nissan et al., 2026)
-- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Au-delà de la protection contre l'IA : la suffisance des preuves plutôt que la pureté de l'artefact comme question de validité (Bayraktar 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — L'accord n'est pas la robustesse : des juges conditionnés par une grille peuvent s'accorder alors que leurs grilles restent exploitables (Roy et al. 2026)
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — De la police de la provenance à la conception pour la preuve : quatre propositions testées contre la recherche et la politique (Ansari 2026)
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — La similarité de plongement corrélée aux scores humains à 0.198 au mieux
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — L'IA portable dissout la séparabilité et l'observabilité, de sorte qu'un candidat surveillé peut ne pas démontrer une capacité sans assistance (Corbin, Sharpe & Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — La susceptibilité au niveau du programme au passage ou à l'échec, et les critères de notation qui laissent passer des valeurs fabriquées (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — L'autorisation seule ne dégrade pas la validité : engagement non affecté par l'usage de GenAI ; la réflexion résiste à la substitution générique
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers-espace
-- [[opraise-automated-marking-ai-assessment-2026]] — Rapport OpRaise : notation par l'IA de 761 dissertations universitaires réparties sur trois universités britanniques
-- [[kumar-genai-computing-education-systematic-review-2026]] — Lorsque l'IA génère l'artefact noté : le problème de validité de l'enseignement de l'informatique et les preuves de refonte
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Examens à emporter : évaluer la phase qualitative, déplacer le rappel en classe (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Notation assistée par l'IA avec intervention humaine dans une évaluation nationale d'écriture à grande échelle (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Génération de variantes d'évaluation équivalentes du point de vue du construit (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Le déplacement des tâches par l'IA comme mécanisme d'inflation des notes (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Des agents d'IA réalisant des tâches de LMS ; hypothèse de production humaine et validité agentique (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et pour les LLM ? (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Un cadre multimodal pour la cognition incarnée dans les explications orales
-- [[assessing-quality-ai-generated-exams-field-2025]] — Évaluer la qualité des examens générés par l'IA : une étude de terrain à grande échelle
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Jugements de valeur dans la notation des travaux assistés par GenAI : honnêteté, confiance, validité et transparence dans les deux sens (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — La procédure de faute comme problème de validité
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — La validité de l'évaluation sous information imparfaite : un modèle de régions de réponse
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Quelle inférence est menacée ? Séparer cinq pressions de validité et vérifier ce qu'une refonte affaiblit (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — L'évaluation en STIM comme problème de validité, de conception et de définition des capacités, et non comme problème de triche : preuves de processus, examens oraux et fidélité des tâches générées par l'IA (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — L'IA dans l'enseignement de la physique des particules : problèmes de recherche et compétences fondamentales
-- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Les perspectives des étudiants sur l'évaluation de l'écriture transparente assistée par l'IA dans l'enseignement supérieur
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Borner l'affirmation sur l'apprentissage du pilote de tutorat par l'IA au Salvador (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Ce que contiennent réellement les dossiers d'allégation de faute comme preuves, et pourquoi la qualité des preuves ne prédit pas les issues (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Exactitude des détecteurs de 0.69 et 0.61 sur 192 textes ; échec sur l'écriture hybride et risque de classification erronée de l'anglais langue étrangère (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Interdictions sur-inclusives : la transcription n'est pas la génération, si bien que la règle sanctionne ce qu'elle n'était pas conçue pour attraper (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — L'intégrité rendue visible par le jugement évaluatif plutôt que par la détection (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Les grands modèles de langue peuvent-ils reproduire les bandes de notes de l'enseignement supérieur ? Étude intermodèles de la calibration et des biais de notation dans l'écriture authentique des étudiants
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Évaluation assistée par IA des rapports de travaux pratiques de physique expérimentale : potentiel, limites et soutien à la pratique enseignante
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Quatre cibles d'inférence et trois erreurs d'attribution lorsqu'un produit est lu comme une preuve de la capacité de l'apprenant (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors : schémas d'assertions pour un codage auditable des dialogues éducatifs
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Les notations étudiantes de l'alignement curriculaire suivent la difficulté des items (rho = 0.762) plutôt que le contenu (Vogt et al. 2026)
-- [[genai-english-proficiency-validity-2026]] — La cible a-t-elle encore bougé ? GenAI et la validité des scores de compétence en anglais
-
-- [[llm-grading-assistants-public-health-2026]] — La répétition de la notation des mêmes travaux cinq jours plus tard a donné un alpha de Krippendorff de 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Indice de vulnérabilité à l'IA : l'essentiel des points notés reposent sur une paternariat invérifiable, si bien que la validité repose sur des preuves suffisantes aux étapes clés plutôt que sur une sécurité maximale
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Une métrique d'adaptativité pédagogique a augmenté tandis que les notations d'experts en aveugle chutaient : la validité de la mesure n'implique pas la validité de l'optimisation (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Le construit de résultat déplace l'estimation : g = 1.958 pour le produit conjoint humain-IA
-- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 notateurs sollicités par invite affrontent des sondes dont la bonne réponse est connue, et la plupart peuvent être convaincus (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Le contexte de l'apprenant change les notes d'un notateur LLM sur un travail identique, et l'accord avec l'enseignant ne l'enregistre pas (Porcaro 2026, article VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Le format de la tâche et les consignes d'usage de l'IA comme ce que l'artefact peut attester (Liu & Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Au-delà de la notation des réponses : un cadre de supervision cognitive conscient de l'IA pour la notation automatisée des réponses brèves en mathématiques
-
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Des items satisfaisant 87.71% des critères de rédaction ne correspondaient à leur niveau de compétence visé que dans 25.93% des cas
-- [[webb-davies-voice-first-written-assessment-2026]] — Une évaluation écrite en deux étapes qui sécurise le raisonnement sous observation avant de noter une soumission rédigée à domicile, avec une soutenance conditionnelle en cas de liens peu clairs (Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — L'évaluation en boîte noire : fenêtres de processus, l'erreur comme preuve et l'intégrité par la visibilité (Winstone, Gravett & Elkington 2026)

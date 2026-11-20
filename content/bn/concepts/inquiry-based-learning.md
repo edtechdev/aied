@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -64,7 +66,6 @@ IBL-এর প্রশ্ন-চালিত, প্রক্রিয়া-�
 
 বাইরের মাঠ-পরিবেশে একই বাধ্যবাধকতা স্থানিক হয়ে ওঠে: GenAI শিক্ষার্থীরা প্রমাণের মুখোমুখি হওয়ার আগেই তারা কী লক্ষ্য করবে তা পূর্ব-গঠন করতে পারে, তাই একটি মাঠ-প্রথম ক্রম — যা পর্যবেক্ষণ ও প্রাথমিক ব্যাখ্যা লিপিবদ্ধ না হওয়া পর্যন্ত উৎপন্ন ব্যাখ্যা আটকে রাখে — অনুসন্ধানকে রক্ষা করে ([[geoscience-field-learning-genai-2026|Choi, 2026]])।
 
-
 **একটি 66-গবেষণার মানচিত্র উৎপাদনশীল এআইকে তদন্তের পাশে রাখে, আর সবচেয়ে কম অভিমুখীকরণে।** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya প্রমুখ (2026)]] GenAI-ব্যবহারকে পাঁচটি অনুসন্ধান-পর্যায়ে কোড করে দেখেছেন সমর্থন সবচেয়ে বেশি রিপোর্ট হয়েছে তদন্তে (45টি গবেষণা, 68.2%), তারপর সিদ্ধান্তে (29, 43.9%), আলোচনায় (28, 42.4%) ও ধারণাকরণে (27, 40.9%), আর অভিমুখীকরণ সবার শেষে (20, 30.3%)। এগারোটি গবেষণা পাঁচটি পর্যায়ই ঢেকেছে, 19টি একটি ঢেকেছে এবং নয়টি কোনোটির নাম দেয়নি। কেবল 8টি গবেষণা (12.1%) অনুসন্ধান-দক্ষতা মেপেছে, এবং তাদের 4টিতে তুলনামূলক শর্ত ছিল, তাই এটি একটি মানচিত্র যেখানে সরঞ্জাম রাখা হয়েছিল, অনুসন্ধান কী লাভ করেছে তা নয়।
 
 ## সাধারণ ভ্রান্ত ধারণা
@@ -76,39 +77,3 @@ IBL-এর প্রশ্ন-চালিত, প্রক্রিয়া-�
 **"অনুসন্ধান সংজ্ঞা অনুযায়ী অসংগঠিত।"** প্রশিক্ষক স্ক্যাফোল্ড করেন, আর গঠনটি থাকে প্রশ্ন-নকশা ও প্রতিফলন-চক্রে, বিষয়বস্তু পরিবেশনে নয়। স্ক্যাফোল্ড সরিয়ে দিলে অনুসন্ধান বেশি প্রামাণিক হয় না; তা স্ক্যাফোল্ডহীন হয়ে যায়।
 
 **"শিক্ষার্থীরা আগ্রহী হলে তাদের প্রশ্ন ভালো গঠিত হবে।"** একটি সহজে মোকাবিলাযোগ্য প্রশ্ন তৈরি করাই সেই দক্ষতা যা বিকশিত হচ্ছে, যে কারণে যে ব্যবস্থা ভালো প্রশ্ন সরবরাহ করে, সে সেই অনুসন্ধান-দক্ষতাই সম্পাদন করেছে যা শেখানোর জন্য এই কাজটি আছে।
-
-## সংযুক্ত ধারণা
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — উৎপাদনশীল ব্যর্থতা
-
-## সংযুক্ত নিবন্ধ
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM-এ অনুসন্ধান-ভিত্তিক শিখনের জন্য ChatGPT (পদ্ধতিগত পর্যালোচনা)
-- [[dai-chatbots-problem-posing-primary-2026]] — প্রাথমিক বিজ্ঞানে GenAI চ্যাটবট ও সমস্যা-উপস্থাপন
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM-চালিত পরিবেশে IBL-ধরণ (ব্লুমের দৃষ্টিকোণ)
-- [[mujib-ai-ibl-creative-math-2026]] — এআই-সমর্থিত IBL ও সৃজনশীল গাণিতিক কর্মক্ষমতা
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI ও উচ্চতর-ক্রম চিন্তার মেটা-বিশ্লেষণ
-- [[niri-steam-ai-literacy-review-2026]] — এআই-সাক্ষরতার জন্য STEAM শিক্ষা
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শিখন সমর্থনের জন্য এআই ব্যবস্থার নকশা
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য LLM-এর শিক্ষাগত পরিচালনা
-- [[lukesova-clue-before-correction-2026]] — সংশোধনের আগে সূত্র: স্বায়ত্তশাসিত ভাষা-শিখনের জন্য ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — সালোকসংশ্লেষণ ও শ্বসনে এআই-সমর্থিত পরিচালিত অনুসন্ধান (বিজ্ঞান শিক্ষক-শিক্ষা)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — স্নাতক থিসিস ও গবেষণা-ভিত্তিক শিখন সমর্থনে এআই-চালিত তথ্য-নিষ্কাশন (An প্রমুখ 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — জলবায়ু পরিবর্তন নিয়ে আর্থ-বৈজ্ঞানিক ইস্যুতে এআই-সমর্থিত অনুসন্ধান
-- [[geoscience-field-learning-genai-2026]] — একটি মাঠ-প্রথম শিক্ষণ-মডেল যা GenAI-কে শিক্ষার্থীদের লক্ষ্য করা পূর্ব-গঠন থেকে বিরত রাখে (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — মানব সহায়ক বনাম এআই-মধ্যস্থ সমস্যা-ভিত্তিক শিখন: সমান বিষয়বস্তু-লাভ, সহায়ক ছাড়া দুর্বল সমালোচনামূলক চিন্তা (Shetty ও Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — পাঁচটি অনুসন্ধান-পর্যায়জুড়ে উৎপাদনশীল এআইয়ের 66-গবেষণার মানচিত্র, যার কেবল 8টি গবেষণা অনুসন্ধান-দক্ষতা মেপেছে

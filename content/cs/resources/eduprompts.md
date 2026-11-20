@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/eduprompts
 source_updated: "2026-11-11T00:15:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -49,7 +50,3 @@ Pro učitele K-12, instruktážní kouče a návrháře kurikula, kteří chtěj
 Přejmenování je živý přechod, ne hotový stav. Google v září 2026 oznámil, že Skills nahrazují Gems, a podpora Gems končí postupně: osobní účty v listopadu 2026, zákazníci Workspace business, enterprise a nonprofit v březnu 2027 a zákazníci Workspace education v červnu 2027. Google uvádí, že stávající Gems se do Skills migrují automaticky, a Skills se nyní spouštějí napsáním `/` a názvu do promptového pole Gemini. Odkazy na tomto webu stále míří na cesty `/gem/`, takže záložka se může přesměrovat nebo rozbít, jak konverze postupuje — než prompt zařadíte do kurzu, ověřte, že se načte.
 
 Do každého rozhodnutí o nasazení patří dvě skutečnosti o přístupu. Skills jsou dostupné ve všech úrovních předplatného Google AI, ale zavádění je zatím pro osoby 18+ a přístup pro mladší 18 let je popsán jako „již brzy“; kopírování promptu vyžaduje účet Google a Gemini, takže to není anonymní nástroj pro žáky. Knihovna je kurátorovaný soubor promptů, ne ověřená instrukce: každá položka je výchozí bod, jehož výstup je stále třeba kontrolovat, a tvrzení o kvalitě sbírky jsou tvrzeními kurátora. Otevřená licence uvedena není, takže prompty lze v Gemini kopírovat a upravovat, ale instituce si z ní nemůže udělat fork a hostovat ji.
-
-## Související pojmy
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

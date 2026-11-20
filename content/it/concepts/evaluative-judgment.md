@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -76,14 +78,12 @@ La letteratura [[collaborative-learning|collaborativa]] e valutativa della knowl
 
 - **Uno strumento di feedback può impalcare il giudizio mentre i docenti ne conservano la parte relazionale.** Con 21 docenti dell'istruzione superiore che usavano PolyFeed, il modello ha fatto emergere le componenti omesse (20 su 21 avevano saltato "Meeting Learning Objective") e 12 hanno riscritto il testo di ChatGPT, concentrandosi nella dimensione della relazione studente–docente ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
-
 - **La fonte del feedback plasma quale dimensione del giudizio si sviluppa.** In uno studio di caso su dottorandi di statistica, ChatGPT-4o forniva guida procedurale ma non poteva segnalare un file dati errato o un test applicato male, mentre il dialogo tra pari coglieva l'errore sui dati in tempo reale e costringeva a giustificare la scelta del metodo ([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]]).
 - **La revisione strutturata tra pari e con l'IA scala la calibrazione.** Il modello PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] combina revisione tra pari, revisione dell'IA e riflessione strutturata, ed è stato testato nel più grande studio finora condotto sull'uso del feedback dell'IA da parte degli studenti (654 studenti, dieci corsi di scrittura). Tratta il *confronto* tra il proprio giudizio, quello dei pari e quello dell'IA come il terreno di addestramento, posizionando il giudizio valutativo come esito di apprendimento esplicito anziché sottoprodotto implicito.
 - **Il feedback dell'IA aiuta solo se l'alfabetizzazione esiste già.** Un quadro concettuale proposto da leader della competenza sul feedback [[zhan-boud-dawson-genai-feedback-engagement|(Boud, Dawson & Yan)]] analizza il feedback attraverso sollecitazione, elaborazione e attuazione, usando due casi contrastanti IELTS-con-ChatGPT: uno studente con bassa [[feedback-literacy|competenza sul feedback]] ha usato un prompt vago, ricevuto un output generico e si è fidato o ha copiato eccessivamente, mentre uno studente alfabetizzato ha usato l'IA in modo critico e ha imparato. L'IA generativa abbassa le barriere cognitive ed emotive alla richiesta di feedback ma può essere essa stessa allucinata, distorta o generica — ed è per questo che si sostiene che i [[teacher-role|docenti]] dovrebbero modellare la pianificazione valutativa e allenare il giudizio, non solo il [[prompt-engineering|prompting]].
 - **Il giudizio sostenibile, non il feedback momentaneo, è la lacuna.** Una [[meta-analysis-systematic-review|revisione esplorativa]] della valutazione autentica [[zhan-boud-du-authentic-assessment-scoping-review-2025|(Zhan, Boud & Du)]] ha trovato il feedback formativo dell'IA abbondante ma il **feedback sostenibile** — trasferibile a contesti futuri — presente in soli 4 dei 23 studi formativi. Il feedback che chiude il compito attuale lasciando chi apprende incapace di giudicare il lavoro futuro è il fallimento del giudizio valutativo nella sua forma più chiara.
 
 - **Giudizio preso in prestito: ricevere un'interpretazione senza praticare l'interpretazione.** [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman e Thorén (2026)]] nominano la modalità di fallimento che questa pagina tratta come il lavoro che resta a chi apprende. Laddove uno strumento di studio genera la sintesi, la struttura e la prioritizzazione, a chi apprende vengono serviti i *prodotti* del ragionamento saltando lo sforzo interpretativo che produce giudizio — il loro "giudizio preso in prestito". La distinzione conta perché non è una questione di qualità dell'output. Uno strumento di studio basato sull'IA può essere interamente citato alle fonti caricate dallo studente e comunque preconfigurare la rilevanza, quindi il giudizio si esercita solo dove il sistema richiede a chi apprende di prendere posizione, confrontare interpretazioni concorrenti e spiegarne la scelta.
-
 
 - **Criticare le bozze generate ha costruito il giudizio degli educatori.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] hanno trovato che l'alfabetizzazione valutativa di otto coordinatori di corso è cresciuta mentre criticavano le rubriche e le tempistiche generate da uno strumento GPT-4.1 rispetto agli standard disciplinari, mentre tutti e otto rifiutavano l'automazione end-to-end — lo strumento rafforzava il giudizio accademico anziché sostituirlo.
 - **La valutazione può essere progettata per premiare il giudizio anziché l'output.** Il [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|modello a regioni di risposta]] formalizza il perché: la riprogettazione abbassa il guadagno derivante dall'esternalizzazione nascosta e accresce il valore del ragionamento, della spiegazione e della critica visibili. Chiedere agli studenti di spiegare quali suggerimenti dell'IA hanno accettato e rifiutato trasforma la decisione stessa in evidenza valutabile.
@@ -96,9 +96,7 @@ La letteratura [[collaborative-learning|collaborativa]] e valutativa della knowl
 
 Il rischio più chiaro è la surrogazione, ed è evidenziato nella letteratura sul feedback anziché solo teorizzato. Quando lo strumento fornisce la rubrica, il feedback e il monitoraggio, la pratica [[metacognition|metacognitiva]] e valutativa di chi apprende viene surrogata anziché supportata — la valutazione diventa un'esibizione del giudizio che lo studente non ha mai esercitato, la stessa modalità di fallimento del [[cognitive-offloading|sovraccarico cognitivo]] espressa nel registro valutativo. Il feedback diretto dell'IA generativa nell'esperimento multisito spingeva esattamente verso questa esternalizzazione passiva. La pressione della valutazione la compone: laddove l'autovalutazione o la riflessione sull'uso dell'IA è essa stessa valutata, gli studenti possono produrre la riflessione che la rubrica vuole anziché il ragionamento, così che il giudizio genuino richiede di rendere l'esercizio consequenziale — una decisione che si manifesta in un lavoro successivo, una spiegazione orale, o una motivazione documentata che sia essa stessa esaminata.
 
-
 Lo stesso ragionamento ammette una versione strutturale. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman e Thorén (2026)]] nominano il **patterning** come il lavoro di sviluppo che organizza la complessità in strutture che chi apprende trova significative, e sostengono che un sistema che pre-ordina la rilevanza rimuove le condizioni che quel lavoro richiede. Il loro termine per il risultato è **giudizio preso in prestito**: chi apprende valuta materiale che il sistema ha già strutturato, così il giudizio viene eseguito ma mai guadagnato. L'articolo è un'analisi teorica senza dati propri — la piattaforma Tentaklar illustra il meccanismo anziché testarlo — quindi la modalità di fallimento è argomentata dalla progettazione, non osservata negli studenti.
-
 
 La surrogazione ha una versione lato docente, ed è ciò che ha portato diversi professori di scrittura a rifiutare del tutto l'esternalizzazione della correzione. Cinque dei ventiquattro dicevano che correggere è come un docente arriva a capire i propri studenti, quindi delegarla costa quella comprensione e non solo le ore ([[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]]). Diciotto dei ventiquattro trattavano il giudizio umano come ciò che coglie gli errori dello strumento e ne detiene la responsabilità.
 
@@ -119,56 +117,3 @@ La surrogazione ha una versione lato docente, ed è ciò che ha portato diversi 
 - **«L'errore del valutatore è rumore casuale.»** **Il giudizio del valutatore porta con sé una direzione misurabile propria**: cinque addetti alle ammissioni che separavano **50 saggi di ammissione umani da 50 scritti dall'IA** hanno raggiunto un **AUC 0,70**, cioè sapevano distinguere le fonti solo debolmente — e poiché nessuno vagliava le consegne, quel **giudizio non assistito era l'intero meccanismo di controllo**, con ogni saggio segnalato che recava **1,5 punti percentuali in meno** di probabilità di ammissione. Un segnale debole è diventato una penalità reale.
 - **«La revisione tra pari e quella dell'IA sono sostituti.»** Il modello PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combina la revisione tra pari con la revisione dell'IA** per strutturare la calibrazione. Combinarle è il design, il che implica che nessuna delle due da sola la fornisce.
 - **«La qualità del giudizio è una proprietà di chi giudica.»** Il risultato sulle ammissioni colloca il problema nella disposizione — un giudizio non validato applicato con delle conseguenze e senza una fase di vaglio — anziché nell'abilità degli individui.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Il passo di valutazione che gli studenti compiono sull'output dell'IA all'interno di queste sequenze
-- [[ai-education]] — IA nell'educazione (ombrello)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Articoli collegati
-- [[elkington-human-centred-assessment-value-2026]] — Valutazione centrata sull'umano, assemblaggi e vincoli generativi (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Perché i professori di scrittura rifiutano di esternalizzare la correzione: è così che imparano a conoscere i loro studenti
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
-
-- [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin
-- [[genai-feedback-design-multisite-experiment]] — Hybrid self/peer/AI feedback preserves agency and judgment better than direct AI feedback
-- [[pairr-ai-peer-review-2025]] — Peer-and-AI review with structured reflection as calibration at scale
-- [[zhan-boud-dawson-genai-feedback-engagement]] — How feedback literacy governs whether AI feedback teaches or substitutes
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — The sustainability gap in AI feedback
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Evaluative judgment as one of the design strands replacing detection-led enforcement
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Making visible reasoning and judgment the thing the rubric rewards
-- [[learner-centered-feedback-ai]] — Teacher evaluative judgment with AI feedback tools
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy for AI-assisted writing
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Judgment as the evaluative core of integrity: annotated decision trails, oral defense, version history (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Panels weighing evidence without codified standards: the institution's own judgment problem (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
-
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Il giudizio separava la qualità solo quando era cablato alla revisione (Z = 2,80 e 2,50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Le revisioni dei docenti sono diventate criteri di validazione riutilizzabili (Tang et al. 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Il patterning rimosso dal compito, e il giudizio che viene preso in prestito
-

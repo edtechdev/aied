@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -107,50 +109,3 @@ Disiplin yang kurang terwakili ini akan memperoleh manfaat dari halaman konsep k
 - **"Disiplin terutama penting untuk contoh konten."** Riset pada **560 siswa** menemukan afiliasi disipliner **memprediksi seberapa sering dan seberapa terbuka siswa memakai** [[generative-ai|AI generatif]]. Disiplin membentuk apakah alat itu dipakai sama sekali dan apakah penggunaan itu diungkapkan, bukan hanya tentang apa alat itu ditanyai.
 - **"Interdisiplinaritas adalah tujuan institusional generik."** **Bentuk "interdisipliner" itu sendiri ditentukan disiplin**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] dalam tinjauan [[meta-analysis-systematic-review|PRISMA]]-nya menemukan bentuk yang diambilnya bervariasi menurut bidang. Satu definisi institusional tunggal salah membaca setidaknya sebagian disiplin yang dicakupnya.
 - **"Pendidikan kejuruan memiliki basis riset yang sebanding dengan disiplin akademik."** Untaian kejuruan **paling tipis dalam bukti itu**: tinjauan sistematis atas **26 studi** dalam pendidikan dan pelatihan kejuruan menemukan **tidak satu pun dilakukan di pengaturan tempat kerja** — pengaturan tempat kompetensi itu benar-benar dijalankan. Ketiadaan literatur adalah celah, bukan hasil nol.
-
-## Konsep terkait
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Artikel terkait
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Tinjauan sistematis AI dalam pendidikan tinggi interdisipliner (59 studi)
-- [[llms-text-linguistics-teaching-2026]] — LLM dalam pengajaran linguistik teks
-- [[fowlin-operationalizing-learning-principles-ai]] — Mengoperasionalkan prinsip pembelajaran dengan AI dalam pendidikan profesi kesehatan
-- [[designing-ai-professional-development-itpack-2026]] — Pengembangan profesional AI berbasis Intelligent-TPACK
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK khusus GenAI dalam pendidikan guru
-- [[human-centered-ai-teacher-educators-2026]] — Pembelajaran profesional literasi AI kritis bagi pendidik guru
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Kognisi interpretatif dalam pendidikan humaniora dan ilmu sosial
-- [[becker-chatgpt-typology-physics-2026]] — Tipologi penggunaan ChatGPT dalam pendidikan fisika
-- [[code-review-genai-cs1]] — Tinjauan kode GenAI dalam CS1
-- [[ai-writing-support-stage-ownership-2026]] — Dukungan penulisan AI berbasis tahap dan kepemilikan
-- [[ai-engineering-education-balancing-act]] — Tindakan penyeimbangan AI dalam pendidikan teknik
-- [[ai-literacy-career-adaptability-business-2026]] — Literasi AI dan adaptabilitas karier dalam pendidikan bisnis
-- [[jiang-genai-activity-theory-disciplines-2026]] — Teori aktivitas: perbedaan disipliner dalam penggunaan dan pengungkapan GenAI (560 siswa)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulasi bertenaga AI dalam pendidikan keperawatan: keuntungan pengetahuan dan kepercayaan diri, efek tidak konsisten pada keterampilan psikomotor
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI sebagai perancah atau jalan pintas dalam pembelajaran TI pascasarjana
-- [[ai-vocational-education-training-review]] — Tinjauan sistematis pertama AI dalam pendidikan dan pelatihan kejuruan
-- [[genai-architectural-design-studios]] — Model generatif di studio desain: stimulus, perluasan ruang solusi, dan fiksasi
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aturan penghentian penguasaan yang mensertifikasi aturan yang digeneralisasi berlebihan sebagai kompetensi

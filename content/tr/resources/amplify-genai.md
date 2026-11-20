@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,10 +49,3 @@ AWS'te hâlihazırda iş yükü çalıştıran ve ticari bir kurumsal asistana t
 ## Notlar ve uyarılar
 
 Lisansı ücretsiz, çalıştırması değil: kurum AWS'ye ve model sağlayıcılarına öder. Model seçimi Amazon Bedrock (Anthropic, Mistral) ya da OpenAI ve Microsoft Azure üzerinden yürür ve kendi yerel modellerinizi çalıştırma uygulanmamıştır. Proje, bireysel kurulumları destekleyemeyeceğini açıkça belirtir ve kuruluşları ticari ortaklara yönlendirir — yani gerçekçi maliyet personel ya da bir yüklenici içerir. Üç depolu bir kurulumdur (ön uç, arka uç, altyapı) ve binlerce değil onlarca yıldızı vardır; yukarıdaki maliyet karşılaştırması da kontrollü bir çalışma değil Vanderbilt'in kendi deneyimidir. Çıkarımı sahip oldukları donanımda tutmayı yeğleyen kurumlar [MindRouter](/aied/resources/mindrouter/)'a bakmalı ve ikisini birlikte okumalı: Amplify satıcı modellerinin üzerinde bir uygulama katmanı, MindRouter ise kendi GPU'larınızın üzerinde bir ağ geçididir.
-
-## Bağlı kavramlar
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

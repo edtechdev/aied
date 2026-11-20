@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -126,37 +128,3 @@ Ezek a cáfolatok szándékosan a [[refutation-text|cáfoló szöveg]] formájá
 - **„A tanárok tévhitei bizonyítékok bemutatásával korrigálhatók.”** Egy **123 olasz pedagógussal** végzett pilotban az egyet nem értés leginkább a **kognitív tanulási stílusoknál** csúcsosodott (a tanárok **78%-a** védte a vizuális/hallási párosítást), az inklúziónál és a csoportmunkánál (68%), valamint az oktatástechnológiai túlterhelésnél (54%). A legerősebb egyet nem értések épp a bizonyítékoknak leginkább ellenállók voltak, ezért jobb a [[refutation-text|cáfolat]], mint az állítás.
 - **„A tanárok bizonyítékokkal szembeni ellenvetései mind ellenállás.”** Amikor ugyanezeket a tételeket egy beszélgetős MI közvetítette, amely **a bizonyítékok újrabevezetése előtt érvényesítette a tanár kontextusát**, **az ellenvetések 41%-a valódi kontextuális korlátokra vonatkozott** — osztálylétszám, sajátos nevelési igény, tantervi követelmények. A látszólagos tévhit jelentős része pontos ellenvetés volt.
 - **„A tévhitek párbeszédből megbízhatóan felismerhetők.”** **A 241 generált szegmensből 221-et (91,7%) szakértői többségi szavazás stratégiai tévhitként igazolt (Fleiss' κ = 0,9487)**, **jelentős különbség nélkül** a csoportok között. Magas megbízhatóság szakértői döntéshozatal mellett elérhető, és az állítás erre a feltételre támaszkodik.
-
-## Kapcsolódó fogalmak
-
-- [[pedagogical-patterns]] — A konceptuális változás sorozatai, amelyek szembesítenek egy konkrét, tartott hiedelmet
-- [[learners]] — Tanulók: a tanulói oldali fogalmak gyűjtőfogalma
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Kapcsolódó cikkek
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Ne higgyen a hype-nak: nyolc MI-mítosz és a kritikus megközelítés szükségessége a felsőoktatásban
-- [[student-rationalization-ai-writing]] — A diákok racionalizálása a MI-vel való írásról
-- [[genai-skill-bypass-literacy]] — A generatív MI készségmegkerülése és az írástudás
-- [[trust-reliance-ai-education-2026]] — Bizalom és támaszkodás a MI-oktatásban
-- [[contextual-sycophancy-ai-literacy]] — Kontextuális hízelgés és MI-írástudás
-- [[sycophantic-ai-social-interaction-2026]] — Hízelgő MI a társas interakcióban
-- [[llm-fallacy-misattribution]] — Az LLM-téveszme és a téves attribúció (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Hibás, de emlékezetes: a diákok kritikus fogadtatása az érdeklődés szerint személyre szabott generatív MI-analógiákról a számítástechnika oktatásában
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: gördülékeny, tekintélyt sugárzó magyarázatok, amelyek fogalmilag, nem ténybelileg tévesek (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — A benyújtott fájlba rejtett utasítások látható figyelmeztetés nélkül emelhetik a MI által adott jegyet (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Gyerekek MI-biztonsági tévhitei: a robottal való barátságot adatvédelmi garanciaként félreolvasni (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Beszélgetős MI-diagnosztika tanítási tévhitekhez, bizonyítékokra alapozott párbeszéddel (Miranda & Calvani 2026)

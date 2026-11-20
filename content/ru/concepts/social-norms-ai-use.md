@@ -28,6 +28,8 @@ ai_assist:
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -66,9 +68,7 @@ translation_note: "Автоматический перевод данной ан
 
 Норма, которая заставляет людей, ничего не сделавших, чувствовать вину, действует через упреждение. Это реальный регуляторный механизм, и он невидим для любого аудита политики, который смотрит только на то, что преподаватели и студенты делают.
 
-
 Опрос 409 студентов бакалавриата встраивает тот же механизм в регрессию: воспринимаемое раскрытие сверстников и комфорт с преподавателями были самыми сильными предикторами собственного раскрытия студента, опережая моральное отстранение ([[qu-wang-disclose-or-not-genai-2026|Qu and Wang (2026)]]). То, что студент считает нормой, — это то, что, по его мнению, делают сверстники, а это именно то впечатление, которое исследование восприятия выше показывает систематически грубым. Раскрытие, согласно этим данным, — ответ на предполагаемую норму, а не на письменное правило или личный этический стандарт.
-
 
 ## Местное правилоустройство: дисциплины и аудитории
 
@@ -114,39 +114,3 @@ translation_note: "Автоматический перевод данной ан
 **«Наблюдение уладило бы норму, сделав использование видимым».** Сделать поведение видимым не решает, какой норме следует быть; это меняет то, что люди готовы раскрывать. Измеренная картина — уже избирательное раскрытие, поэтому режим мониторинга, применённый к нему, измеряет сокрытие, а не поведение.
 
 **«Нормы неформальны, поэтому они вне институционального охвата».** Они поддерживаются локально и локально изменяемы, что делает их более податливыми, чем политику: явная практика команды курса — рычаг именно потому, что там и устанавливается действующее правило.
-
-## Связанные концепции
-
-- [[academic-integrity]] — формальное правилоустройство, рядом с которым растут эти нормы
-- [[ai-use-disclosure]] — практика, которую нормы регулируют наиболее прямо
-- [[framing-ai-use-for-students]] — как аудитория заявляет свои ожидания
-- [[reducing-ai-misuse]] — учебный аналог формирования норм
-- [[learner-identity]] — кем считается учащийся, когда использование ИИ становится видимым
-- [[ai-detection]] — технический ответ, который в основном не работает
-- [[remote-proctoring]] — наблюдение как предпринятая замена норм
-- [[trust]] — то, от чего зависят и нормы, и раскрытие
-- [[equity-in-ai-education]] — кто берёт на себя социальную цену
-- [[help-seeking]] — поведение, которое стыд подавляет первым
-- [[group-work]] — где договариваются о групповых нормах
-- [[student-experience]] — проживаемая сторона всего этого
-- [[anxiety-and-stress]] — аффективный осадок
-- [[governance]] — формальный слой, под которым находятся эти нормы
-- [[ethics]] — литература, которой меньше всего есть сказать студентам
-
-## Связанные статьи
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 студентов бакалавриата: воспринимаемое раскрытие сверстников и комфорт с преподавателем предсказывали раскрытие сильнее морального отстранения (Qu & Wang 2026)
-

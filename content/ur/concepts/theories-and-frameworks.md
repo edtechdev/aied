@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -115,7 +117,6 @@ ai_assist:
 
 فریم ورک ثبوت نہیں ہیں۔ وہ عموماً LLM سے پہلے کے سیاق سے مستعار لیے جاتے ہیں اور جس نے بھی انہیں لاگو کیا اُسی نے انہیں اپنے سیاق کے مطابق مقامی بنایا، وہ اچھے برانڈنگ کے طور پر بھی کام دے سکتے ہیں، اور مرحلہ وار ماڈل چیک باکس اپنانے کی دعوت دیتے ہیں جو سیکھنے کا ثبوت دینے کے بجائے سطحوں سے گزرنے کی رپورٹ پیش کرتا ہے۔ فریم ورک پر ٹکے دعوے [[limitations-in-aied-research|میدان کی بین الشعبہ حدود]]، اُس [[assessment-validity|رواداری]] کے ساتھ پڑھے جانے چاہئیں جس نے نتیجہ ناپا، اور [[self-report-measures|خود رپورٹ]] کی معلوم حدود کے ساتھ۔
 
-
 میکانزم سے نظریے تک ہم آہنگی پھر بھی فیصلہ کن ہو سکتی ہے: AI کی معاونت والے [[game-based-learning|کھیل پر مبنی سیکھنے]] کے 55 مطالعات کی موضوعاتی ترکیب نے پایا کہ کارگر ہونا اس پر منحصر تھا کہ AI کا میکانزم اُس تدریس کو عملی جامہ پہناتا ہے یا نہیں جس کی خدمت اسے کرنی تھی، نہ کہ الگورتھمی نفاست پر ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]])۔
 
 ## عام غلط فہمیاں
@@ -127,32 +128,3 @@ ai_assist:
 **"سیکھنے کے نظریات، طالب علم کے ماڈل اور اپنانے کے فریم ورک ایسے عدسے ہیں جو آپس میں بدلے جا سکتے ہیں۔"** وہ مختلف سوالات کے جواب دیتے ہیں — سیکھنا کیسے ہوتا ہے، طالب علم کی حالت کیا ہے، اور کوئی مشق کیوں پھیلتی ہے — اور ان کے ثبوت کی اقسام اسی کے مطابق مختلف ہیں۔ غلط تہہ چننا ایسا مطالعہ پیدا کرتا ہے جو درست متغیر کو غلط پیش گوئی کے خلاف ناپتا ہے، جو صفر نتیجہ پڑھا جاتا ہے جبکہ وہ زمرے کی غلطی ہے۔
 
 **"زیادہ فریم ورک یعنی زیادہ پختہ میدان۔"** AI کے دور کے لیے بنائے گئے فریم ورک جانچے جانے سے تیز تر جمع ہوتے ہیں، اور تردید کے بغیر جمع ہونا پیش رفت کے بجائے ایک علامت ہے۔ پختگی مقابل پیش گوئیوں کے حل ہونے سے ظاہر ہوتی ہے، الفاظ کے ذخیرے کی افزائش سے نہیں۔
-
-## منسلک تصورات
-
-- [[theory-development-aied]] — میدان میں نظریہ تعمیر کرنا اور اس کی نظرثانی
-- [[philosophy-of-ai-in-education]] — معیاری اور تصوراتی تہہ
-- [[learning-theories]] — سیکھنے کے نظریے کی چھتری
-- [[learning-sciences]] — ہمسایہ میدان جہاں سے زیادہ نظریہ مستعار لیا جاتا ہے
-- [[limitations-in-aied-research]] — ثبوت کی بنیاد کیا سہارا دے سکتی ہے اور کیا نہیں
-- [[tpack]] — استاد کے علم کا فریم ورک
-- [[technology-acceptance-model]] — اپنانے کے فریم ورک
-- [[item-response-theory]] — ایک پیمائشی ماڈل
-- [[universal-design-for-learning]] — ایک ڈیزائن فریم ورک
-- [[research-methods-aied]] — نظریہ کیسے جانچا جاتا ہے
-
-## منسلک مضامین
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — افورڈنس کی درجہ بندی میں چوتھے زمرے کے طور پر جذباتی افورڈنس تجویز
-- [[ai-game-based-learning-systematic-review-2026]] — 55 AI کھیل پر مبنی سیکھنے کے مطالعات میں کارگری کا سبب الگورتھمی نفاست نہیں بلکہ میکانزم سے نظریے کی ہم آہنگی تھی
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed فریم ورک کے ذریعے AIED کی چار دہائیاں
-- [[educating-minds-generative-ai-2026]] — جنریٹیو AI اور سیکھنے کی نظریہ بھاری ترکیب
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — استاد کی پیشہ ورانہ ترقی پر سرگرمی کے نظریے کا اطلاق
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — سرگرمی کا نظریہ اور اساتذہ کا اپنانا
-- [[generativism-learning-theory]] — جنریٹیو AI کے دور کے لیے تجویز کردہ سیکھنے کا نظریہ
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — علمی مشترکہ ایجنسی کے نظریے کی طرف
-- [[absent-cognitive-baseline-2026]] — AI کے ساتھ پیدا ہونے والے طلبہ کی خود جانچ میں ساختی خلا کا نظریہ
-- [[yan-agentivism-learning-theory-ai-2026]] — انسان-AI تعامل کے لیے درمیانی درجے کا سیکھنے کا نظریہ
-- [[ai-literacy-instrument-development-systematic-review-2026]] — ایک نوجوان تصور میں آلے کی تیاری
-- [[mishra-control-vs-agency-history-2025]] — میدان کا بنیادی کنٹرول بمقابلہ ایجنسی تناؤ

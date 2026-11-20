@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -44,7 +45,3 @@ Profesori și [[learning-design|designeri instrucționali]] din K-12 și învă�
 ## Note și precauții
 
 Centrul este îndrumare, nu un produs de conformitate: site-ul nu face nicio afirmație de conformitate pentru propria țintă WCAG 2.2 AA, răspunde cu „nu” la întrebarea „utilizarea acestor fișiere face site-ul meu conform?”, și spune că o recenzie de inginerie nu înlocuiește autorizarea școlii sau recenzia juridică. Raftul de securitate trimite la axe-core, Gitleaks, ZAP și Playwright; acestea sunt referințe, nu software inclus, iar cele invazive sunt destinate unei ținte de unică folosință sau autorizate explicit. Citirea nu cere cont. Reconstruirea paginilor HTML cere Python și `markdown-it-py`, care este o dependență de build, nu una pentru vizitator. Repository-ul este licențiat MIT, în timp ce lucrările de artă și materialele terților și proiectele linkuite își păstrează propriii termeni, documentați în `CREDITS.md`.
-
-## Concepte conexe
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -93,34 +95,3 @@ Eğitim için bu iki yöne keser. Empati pratiği yapmak üzere YZ kullanan bir 
 - **“Gülümseme sıcaklık demektir.”** Sıkıntı verici bir klinik karşılaşmada gözlemciler gülümsemeyi uyumsuzluk, bir yüz hareketi dedektörü ise olumlu duygu olarak okur. Eksik değişken bağlamdır.
 - **“Öz bildirim ölçekleri empatiyi ölçer.”** Bir eğilimi ya da benlik kavramını ölçerler; bir karşılaşmadaki davranışı ölçmezler.
 - **“Daha sürükleyici her zaman daha iyidir.”** Sürükleyici yöntemler daha büyük kazanımlar gösterir, ama birkaç kat maliyet ve süreyle, ve karşılaştırmalar maruziyeti eşitlemez.
-
-## Bağlı kavramlar
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Bağlı makaleler
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — IRI'de rol yapma %13,2, VR %11,6, YZ diyaloğu %8,8; maruz kalma süresi karıştırılmış (Zwoliński ve ark., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Fiziksel temas algılama gözlemcilerle uyuştu; gülümseme algılama negatif çıktı (Nissan ve ark., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13 alışveriş sonrası öz değerlendirilen yetkinlik d = 0,58 arttı; kontrol grubu yok (Müller ve ark., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 çalışma; güven kazanımları yaygın, empati kanıtı sınırlı (Ismail ve Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — Uyarılma hattı olarak EDA ve üretici görseller; empati ölçülmek yerine iddia edilmiş (Lim ve ark., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — YZ'nin empatik kapasitesine inanç, destek sağlama isteğinin azalmasını yordadı (Shastry ve Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Faktör yapısı tasarımıyla eşleşmeyen 42 maddelik bir eğilim ölçeği (Kang ve ark., 2026)
-- [[empathy-coaching-chatbot]] — Empatik dil, hissedilen anlayışı artırdı; bu da davranış değişikliğinden çok katılımı yordadı (Siyan ve ark., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — İstemde belirtilen rol ve hamleler, algılanan empatide büyük bir fark üretti (Wang ve ark., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Hemşirelik öğrencileri klinik stres sırasında YZ'yi duygusal destek olarak tanımladı (Akbaba ve ark., 2026)

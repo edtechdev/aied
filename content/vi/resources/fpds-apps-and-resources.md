@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -48,7 +49,3 @@ Giảng viên và nhân viên [[educational-development|phát triển giáo dụ
 ## Ghi chú và lưu ý
 
 Việc đọc không cần tài khoản, và các học phần Canvas cùng danh sách kiểm tra mà trang liên kết là công khai. Các huấn luyện viên trên Playlab cùng các Gem và sổ của Gemini là dịch vụ bên thứ ba và có cần tài khoản. Các thẻ được hiển thị từ `apps.json`, nên danh sách đầy đủ cần JavaScript và bản dự phòng không có script chỉ nêu tên tám trong mười lăm mục; liên kết ngắn `tinyurl.com/fpdapps` và một mã QR ở đầu trang mở nó trên điện thoại. Kho mã là phần mềm cấp phép MIT, còn các hướng dẫn mà nó liên kết mang giấy phép riêng, trong đó cuốn sách Pressbooks nằm dưới một giấy phép Creative Commons phi thương mại. Không có lịch xuất bản, nên trang thay đổi mà không báo trước.
-
-## Khái niệm liên quan
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,7 +40,6 @@ ai_assist:
 ## Giriş
 
 Eğitimde YZ benimsemesi salt bir sınıf kararı değildir; kurumsal bir karardır da. Yöneticiler — rektör yardımcıları, dekanlar, baş bilgi teknolojileri sorumluları ve kurumsal liderler — öğretim üyelerinin ve öğrencilerin YZ kullandığı koşulları belirler; pedagojik fırsatı yönetişim, kaynak sağlama ve riskle dengeleyerek.
-
 
 [[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]], tam olarak yöneticilerin karşılaştığı karar için taşınabilir bir tedarik tarama listesi sunar: bir YZ ürününü yayımlamadan önce hangi problemin çözüldüğünü, yönetişim kapasitesinin var olup olmadığını, kurumun şeffaf davranıp davranmadığını ve yayımın öğrenciler için değer yaratıp yaratmadığını sorun; seçimi bir tedarik işlemi değil, öğrencilerin hakları, seçimleri, finansları ve gelecekleri hakkında bir seçim olarak çerçeveler.
 
@@ -69,34 +70,3 @@ Yönetici görüşü [[educational-policy-ai]] (politika oluşumu), [[governance
 - İmzalamadan önce bir aracın neye göre değerlendirilebileceğini sorun. Sözleşme sonuçlara, denetim verisine veya kullanım ayrıntısına erişime izin vermiyorsa, kurum değerlendiremeyeceği bir yeteneği satın almıştır.
 - Onaylanmış kullanımı değil fiili kullanımı anketleyin, çünkü ikisi ayrışır ve risk taşıyan sayı, hâlihazırda maruz olduğunuz onaylanmamış olandır.
 - Kaldıraç hâlâ varken politikayı yayımın önüne koyun. Kullanım yaygınlaştığında politika, çoktan yerleşmiş bir pratikle müzakereye dönüşür.
-
-## Bağlı kavramlar
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Şemsiye: YZ eğitimindeki kişiler ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — yöneticilerin yürüttüğü kurumsal süreçler: danışmanlık, erişim, yönlendirme ve dağıtım
-
-## Bağlı makaleler
-
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — Eğitim liderliğinde YZ: kapsamlı bir sınıflandırma
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — YZ için öngörülü yönetişim ve liderlik
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — Birleşik Krallık yükseköğretim politikasında ve kurumsal karar almada YZ
-- [[ai-campus-wellbeing-tools]] — Kampüs iyi oluşu için YZ kaynaklı araçlar
-- [[genai-policies-higher-ed-computing]] — Bilişim alanında kurumsal GenAI politikası
-- [[institutional-change-framework-ai]] — YZ için kurumsal değişim çerçevesi
-- [[edtech-privacy-deferral-2026]] — “Sonra Düzeltiriz”: Eğitim, YZ ve Eğitim Teknolojisinde Öğrenci Gizliliğinin Ertelenmesi
-
-- [[students-at-stake-ai-deployment-risks-2026]] — Risk yönetimi değil, öğrencilerin hakları olarak çerçevelenen dört soruluk bir tedarik tarama listesi

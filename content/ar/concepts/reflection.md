@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -164,45 +166,3 @@ ai_assist:
 - **«[[automated-assessment|التقويم الآلي]] يحلّ مشكلة النطاق.»** تبلغ المصنّفات نحو 70% في مستوى التأمل في مدوّنة موسومة جيدًا باختلال طبقي شديد، وهذا السقف في متناول نص معقول.
 - **«الملفات الإلكترونية تأملية بطبيعتها.»** الحاوية ليست الفعل؛ فملف مجمَّع من منتجات مصقولة يمكن ألا يحتوي أي تأمل.
 - **«التأمل لا يحتاج تعليمًا.»** كل من مدوّنة المقالات المجرية وتجربة المعلمين قبل الخدمة تفترض أن المستوى والجودة مكتسبان، وأن التحضير يغيّر النواتج.
-
-## المفاهيم المتصلة
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## المقالات المتصلة
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — تجربة مسجَّلة مسبقًا بـ302 بالغًا: مطالبات التأمل ضاعفت الوقت على التغذية الراجعة وقلّصت حجم التدريب 40% دون رفع المكسب لكل مسألة (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — نموذج تأمل خماسي واعٍ بالذكاء الاصطناعي التوليدي مبني على مطالبات وتكرارات موثقة لا على النص النهائي (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 مقالًا موسومًا، اختلال طبقي شديد، النماذج السطحية عند 71% والمحوّلات عند 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 دورة مرمَّزة لتفسير لماذا ترك شريك تأمل بالذكاء الاصطناعي مستخدميه أقل التزامًا (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — تأمل الذات والتعاون والمجتمع مع الذكاء الاصطناعي وسيطًا معرفيًا (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 معلم K–12: الوقت عقبة المبتدئ، وتتبّع الأداء عقبة الخبير (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — أربع ممارسات للذكاء الاصطناعي التوليدي وإحدى عشرة عملية، كل منها قادر على دعم التفكير التأملي أو إحلاله (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — تجربة ميدانية عشوائية 2×2 على إدامة روتين التدوين التأملي (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — اختبار 2×2 لتدريب الاستراتيجيات مقابل شريك تأمل سقراطي بنموذج لغوي كبير (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — أداة تأمل ذاتي غير تشخيصية بلا درجة مركّبة (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — الاستخدام التأملي للذكاء الاصطناعي بناءً مقيسًا يربط القبول بالكفاءة الذاتية والانخراط (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — التأمل المنظم مدخلًا حيًّا يعاير دورة التغذية الراجعة التالية (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — تأمل موجَّه داخل التقويم الذاتي لاستخدام أخلاقي للذكاء الاصطناعي التوليدي (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 معلمًا عن الإدراك وإعادة التوزيع وإعادة الانخراط تأمليًا بعد استخدام الذكاء الاصطناعي (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — ورقة موقف: لا دليل على أن مطالبات التأمل تبني مراقبة ذاتية متينة (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — ملفات WordPress إلكترونية 16 أسبوعًا مع الذكاء الاصطناعي التوليدي مزوّدًا للتغذية الراجعة ومُجمِّعًا (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT مواءَم لتقويم الملف الإلكتروني، Wilks' λ = 0.476، partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — سقالة واحدة رفعت العمق التحليلي والتقييمي بينما بقي تخطيط العمل مسطّحًا (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — خريطة 26 دراسة: التأمل أقل المراحل خدمةً في دورة التعلّم الخدمي (Yusuf et al. 2026)

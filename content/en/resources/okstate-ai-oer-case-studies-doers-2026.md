@@ -22,6 +22,7 @@ ai_assist:
     role: drafting
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 AI + OER Case Studies is an open anthology edited by Kathy Essmiller and published by Oklahoma State
 University Libraries in 2026, collecting eleven cases on where [[generative-ai|generative AI]] meets
@@ -58,11 +59,3 @@ discuss their process in passing, generally following the OER Commons guidance. 
 each chapter keeps its author's disciplinary voice, punctuation and regional spelling, so the prose
 does not read uniformly. Above all, every chapter documents one local project and no two share an
 instrument or a comparison, so the volume offers practice to adapt rather than evidence to cite.
-
-## Connected Concepts
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

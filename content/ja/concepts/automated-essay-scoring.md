@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,43 +96,3 @@ AESは、[[automated-assessment|自動化された評価]]、[[writing-education
 - **「自動採点の結果は、学生が書いたものを反映している。」** 順序的な信号は**観察されたのではなく製造されうる**ものです。テンプレート生成、**元の長さの 20-40% への短縮**、キーワードの除去によって作られた合成のレベル 1 小論文です。構成された極端な事例で検証されたシステムは、実際に出会う分布で試されたことがないかもしれません。
 - **「報告すべき指標は総合的な正確さである。」** **偏ったルーブリックの分布は、総合的な採点の指標を誤らせうる**ものです。ルーブリックの次元の自動評価は、しばしば片寄ったラベルの分布を持つ分類の課題であり、そこでは高い正確さと有用な識別とが分かれます。
 - **「現場での展開は評価されていない。」** 実際の高リスクな展開（**ウルグアイの Acredita EB、2024 年**）からの現場の証拠が存在します。これはこの文献で最も強い形の証拠であり、採点の正確さに関するほとんどの研究が決して提供しないものです。
-
-## 関連する概念
-
-- [[bias-mitigation|偏りの軽減]]
-- [[equity-in-ai-education|AI教育における公平性]]
-- [[automated-assessment|自動化された評価]]
-- [[language-learning|言語学習]]
-- [[educational-measurement|教育測定]]
-- [[k-12|K-12]]
-- [[prompt-engineering|プロンプト工学]]
-- [[writing-education|ライティング教育]]
-- [[ai-literacy|AIリテラシー]]
-- [[assessment-validity|評価の妥当性]]
-
-## 関連する記事
-
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — ルーブリックを考慮した思考の連鎖とPPOの組み合わせ:平均QWKが0.5253から0.5410へ、規模による小幅な改善(Xu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — 監査可能な採点:証拠に紐づけたフィードバックと教師レビューのフラグを備え、マクロQWKは0.738(Xin 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — ハンガリー人の学生の小論文における省察の水準の自動分類
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT:論証的な小論文のためのモジュール化された自動ライティング評価システム
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — 自動小論文採点による教育の革新:高校の物理学の小論文における批判的思考を評価するための多次元の枠組み
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise報告:3つの英国の大学にわたる761編の大学の小論文のAI採点
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模なライティング評価におけるAI支援採点のための人間在環(ヒューマン・イン・ザ・ループ)枠組み
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES:LLMを用いた報酬に整合した一貫した小論文採点
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMは人間のように小論文を採点しない(Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 自動採点から学習の診断へ:英語のライティングにおけるAI支援による形成的評価のメカニズムの研究
-- [[llm-essay-scoring-feature-weighting-2026]] — LLMに基づく小論文採点における特徴の重みづけのパターン(Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — 小論文の評価におけるLLMを評価するための枠組み(Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — いつ信じるかを知る:自己確信度、重みづけられた確率的採点、アンサンブルがLLMの採点の一致を改善する
-- [[swim-student-writing-simulation-2026]] — ライティングの生成器のための密な訓練報酬として用いられる、凍結されたAES検証器
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22 のプロンプト済み採点器が、正解の知られたプローブに出会い、その大半は言いくるめられうる（Porcaro 2026）
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300 人のクラスの教師がアンプラグドの AES アプリを 92.5 の SUS と評価し、最終的な得点ではなく信頼性の警告を求める（Ribeiro et al. 2026）
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — 大規模言語モデルによる自動小論文採点の最適化:言語的特徴とプロンプトエンジニアリングを統合して採点精度を高める

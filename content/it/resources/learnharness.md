@@ -27,6 +27,7 @@ ai_assist:
 translation_of: resources/learnharness
 source_updated: "2026-11-02T07:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -45,10 +46,3 @@ Chi apprende in modo indipendente su materiali difficili, e docenti o sviluppato
 ## Note e avvertenze
 
 Gratuito copre il software, non l'inferenza: chi apprende porta le chiavi del provider, un abbonamento, una CLI locale di Claude Code o qualsiasi endpoint compatibile OpenAI, e paga il provider senza ricarichi; un contatore in tempo reale stima solo i costi API noti. Registri, chat e chiavi restano sulla macchina come file semplici, ma il progetto avverte che l'archiviazione locale non significa elaborazione offline, poiché le richieste ai modelli, la dettatura opzionale e la ricerca web raggiungono tutti servizi esterni. L'installer Windows x64 non è firmato, quindi Windows avviserà. Non è riportato alcuno studio di efficacia, quindi il caso si regge sulla motivazione dichiarata anziché su esiti misurati; il repository aveva circa 4.800 stelle al momento della verifica, il 2 novembre 2026.
-
-## Concetti collegati
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

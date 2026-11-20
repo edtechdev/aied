@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -43,9 +44,3 @@ Lehrende, die entscheiden, ob ein Bewertungswerkzeug Noten ungeprüft freigeben 
 ## Anmerkungen und Einschränkungen
 
 GradeBench wird von Pensive veröffentlicht, einer kommerziellen KI-Bewertungsplattform, Benchmark und Produkt haben also denselben Eigentümer; die Aufgabenkonstruktion ist dokumentiert und vertretbar, aber betrachten Sie die Rahmung als die des Anbieters. Er deckt STEM-Klausuren mit Bewertungsrastern aus mindestens vier Kriterien ab, was Aufsätze, Kurzantworten und Diskussionsbeiträge ausschließt — die Formate, in denen der größte Teil der Bewertung in den [[humanities-education|Geisteswissenschaften]] stattfindet. Die exakte Rasterübereinstimmung ist eine strenge Metrik: Zwei Bewertende können bei einem Kriterium uneinig sein und beide Recht haben, was die Leistung des Studierenden betrifft. Die Werte beschreiben Modellversionen, die im November 2026 verfügbar waren, und werden sich verändern.
-
-## Verbundene Konzepte
-
-- [[automated-assessment]] — die Praxis, die der Benchmark misst
-- [[assessment-validity]] — das Kriterium, für das ein Leaderboard-Wert als Proxy dient
-- [[benchmark]] — die weitere Klasse von Instrumenten, zu der dieses gehört

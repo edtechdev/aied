@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -76,29 +78,3 @@ ai_assist:
 **محققین کے لیے**
 
 - AI+پورٹ فولیو کے مجموعوں کا مطالعہ کرتے وقت اجزاء کو الگ کرنے کے لیے ڈیزائن کریں؛ ورنہ شعبہ ایسے مجموعی اثرات جمع کرتا رہے گا جنہیں وہ تحلیل نہیں کر سکتا۔
-
-## منسلک تصورات
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## منسلک مضامین
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — کثیر خواندگی کی نشوونما کے لیے AI کی معاونت والی پورٹ فولیو جانچ کے بارے میں طلبہ کے تصورات (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL بولنے اور فیڈبیک خواندگی کے لیے ای-پورٹ فولیو جانچ کے ساتھ ہم آہنگ ChatGPT (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں پورٹ فولیو اور قابلیت پر مبنی جانچ
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — جنریٹو AI کے سامنے مضبوط مستند جانچ، بشمول سماجی شراکت کے پورٹ فولیو
-- [[beyond-detection-authentic-assessment-ai-2025]] — AI سے مزاحم جانچ کے طور پر تشریح شدہ پورٹ فولیو / زبانی دفاع
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — ہائبرڈ سیکھنے والوں کے لیے Symbiotic پورٹ فولیو
-- [[pbl-structural-conditions-ai-2026]] — پیمانے پر جانچ کے جزوی جوابات کے طور پر پورٹ فولیو
-- [[learn-framework-responsible-genai-pbl-2026]] — ذاتی سیکھنے کے پورٹ فولیو بطور قابلِ جانچ سیکھنے کے نشانات

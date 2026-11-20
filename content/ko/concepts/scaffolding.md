@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -45,7 +47,6 @@ ai_assist:
 - **성공으로 간주되는 것을 정하는 것은 도구가 아니라 기능이다:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]]는 [[special-education|특수 교육]]에서의 AI 지원을 위한 세 기능 틀을 제안합니다. *보상*은 실행 기능상의 요구를 줄여 학습자가 참여할 수 있게 합니다(성공 = 지원이 남아 있는 동안의 접근). *비계*는 현재 능력을 약간 넘어서는 수행을 뒷받침합니다(성공 = 표적화된 지원을 받은 의사결정). *발달*은 도구 없이도 쓸 수 있는 전략을 만듭니다(성공 = 걷히기나 전이 이후의 전략 사용). 각 기능은 서로 다른 평가 기준을 지니며, 이 분야의 반복되는 오류는 지원이 있는 동안의 과제 완수를 발달로 보고하는 것입니다. 이는 해석적 범주를 지닌 서술적 검토이며, 종합된 효과 추정이 아닙니다.
 - **[[medical-education|임상]] 면담 훈련에서 필요 유발 적응 스캐폴딩:** MeduAI-SP [[rct|무작위 시험]]([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]; N = 100명의 3학년 의대생)은 스캐폴딩을 적응적 필요 유발 지원으로 구현했습니다. 국면 수준 평가 에이전트가 학습자가 막혔는지, 핵심 병력을 빠뜨렸는지, 성급한 종결 위험이 있는지, 라포를 해치는지를 표시하고, 그때만 [[pedagogical-agent|튜터 에이전트]]가 [[socratic-method|소크라테스식]] 프롬프트를 냈습니다. 207건의 면담에 대한 전문가 주석은 스캐폴딩 필요가 국면에 강하게 의존하며, 면담 초기 학생 발화의 약 16.1%에서 후기의 34.8%로 상승함을(전체 24.1% 표시) 보였습니다. 이는 초보자 면담 지원이 초기 정보 수집보다 통합과 진단 추론 단계에서 가장 필요하다는 경험적 증거입니다. 스캐폴딩 조건은 구조화된 점진적 공개 통제 조건보다 최종 OSCE 정합 [[summative-assessment|시험]]에서 더 나은 성과를 냈고(71.8% 대 55.6%; β = 16.4퍼센트 포인트; P = 3.30e-4), 의사소통에서 이득이 가장 컸습니다(Hedges' g = −0.79).
 - **힌트 시스템:** [[correct-answer-trap-ai-tutor|AI 튜터 힌트 연구]]는 힌트가 도움이 되는 시점과 [[cognitive-offloading|과잉 의존]]을 부추기는 시점을 살핍니다.
-
 
 - **프롬프트 층으로서의 정서적 스캐폴딩, 인지적 스캐폴딩 단독과 비교 측정.** 인터페이스와 수업을 고정한 채, 정서적 버전은 학생들에게 세 시점에서 느낌을 보고하게 하고 그 보고를 사용하여 어조, 정서적 스캐폴딩, 인지적 도전을 통제 및 가치 평가에 따라 조정했으며, 온도를 0.7로 두어 적응이 응답을 지시하기보다 안내하게 했습니다. 대화 기록에서 그것은 SRL 프롬프트 단독보다 수행 국면과 [[reflection|자기 성찰]] 작업을 더 많이 얻었고, 즐거움은 더 많고 지루함은 더 적었습니다. 25분짜리 한 회기에서 [[learning-gains|학습 성과]]나 자기 효능감에는 아무것도 더하지 못했습니다([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 - **실수 이후 회복을 높이는 비계.** 6,000명의 중학생 현장 실험에서 AI 지원은 진도를 늦추고 시도한 문항 수를 줄였지만, 오류 이후 다음 시도의 정답률을 높이고 정답으로 돌아가는 데 필요한 시도를 줄였습니다. 답 제공이 아닌 '생산적 둔화'입니다([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
@@ -79,7 +80,6 @@ ai_assist:
 에이전트는 정적으로가 아니라 동적으로 비계를 세워야 합니다. [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]]은 자동화된 비계가 숙달이 성장함에 따라 철회되기보다 정적인 상태로 남을 위험이 있음을 확인하고, 적응하고 걷히는 동적 비계를 권고합니다. 이는 [[agentic-ai]]의 핵심 가드레일입니다. CoMeT(Hou et al. 2026)은 *언제* 걷힐 것인지에 대한 분리와 근거를 함께 제공합니다. 학습자가 지원을 쓰지 않을 때마다 그 지원은 한 단계씩 오르고, 지원이 쓰이면 가장 옅은 단계로 내려가며, [[metacognition|메타인지 부하]]는 답을 삼키는 튜터와 통계적으로 동등하게 유지되고(p_TOST = .004) 세션의 48.1%에서 산출물이 전달됩니다(23.7% 대비). 더 많은 시스템 노동이지 덜한 노동이 아닙니다. 그것이 검증한 촉발 요인은 깊이가 아니라 목표입니다. 완전한 시연 뒤 튜터는 나중에 열려 있던 것의 30.3%를 양보했고, 붙여 넣은 산출물 뒤에는 25.9%, 맨 주장 뒤에는 20.4%, 만들기를 요청한 뒤에는 33.7%였던 반면, 지원 아래 의사결정을 겨냥하지 않은 국면은 나중 양보가 40.3%로, 겨냥한 국면의 28.8%보다 높았습니다(11.5포인트 차이, 95% 부트스트랩 구간 [2.1, 22.4]). 수용은 드물었습니다. 첫 요청 뒤 37.0%, 세 번째 요청 뒤 21.8%였으므로, 학습자 노력에 연동된 걷히기 규칙은 무응답을 준비 신호로 읽을 것입니다.
 
 **걷히기는 튜터에게서 훈련으로 사라질 수 있습니다.** 현재 문제에만 보상받은 다중 턴 RL 튜터와 마스킹된 근전이 변형은 아무것도 그것을 벌하지 않았음에도 지원을 걷고 독립 작업을 할당하는 것을 멈췄는데, 그들의 보상이 한 대화 에피소드 너머에 있기 때문입니다([[assistance-dilemma-rl-tutoring-2026|Macina, Kapur & Sachan, 2026]]). 문제와 함께 끝나는 보상 지평은 설계가 명시한 걷히기를 지워 버릴 것입니다.
-
 
 네 번째 영역은 비계의 출처를 가시적으로 만듭니다. [[scan-framework-task-assignment-generative-ai-2025|Tsim과 Gutoreva (2025)]]는 비고츠키의 영역에 'GenAI가 아는 영역'을 더해, 과제가 대체, 보완, 보조, 양보 불가 중 어디에 속하는지를 정합니다. 그리고 양보 불가는 규범적이거나 암묵적이거나 넘기기에는 너무 위험하여 사람을 필요로 하는 것을 붙잡습니다.
 - **아이디어의 국면으로 AI를 배치하라, 강좌 단위가 아니라.** 여섯 가지 배치 틀은 첫 어려운 시도와 최종 무보조 점검에는 AI를 배제하고, 그 사이에는 힌트, 예시, 연습을 위해 허용합니다. AI가 과제를 손쉽게 느끼게 만든다면 그것은 잘못된 자리에 있습니다([[brcic-effortless-trap-productive-struggle-2026|Brcic & Frljic, 2026]])).
@@ -115,63 +115,3 @@ ai_assist:
 - **"스캐폴딩은 일정한 수준의 지원이다."** **207건의 면담**에 대한 전문가 주석은 스캐폴딩 필요가 **국면에 강하게 의존하며, 면담 초기에는 학생 발화의 약 16.1%에서 상승**했음을 보였습니다. 단일한 비계 수준은 같은 면담의 양 끝에서 모두 잘못 배분됩니다.
 - **"어떤 구조화된 통제 조건이든 스캐폴딩의 공정한 비교다."** 스캐폴딩 조건은 **구조화된 점진적 공개 통제** 조건보다 최종 OSCE 정합 [[summative-assessment|시험]]에서 더 나은 성과를 냈으므로(**71.8% 대 55.6%**), 이득은 아무것도 없는 것과 비교된 것이 아니라 실제 [[pedagogy|교수법적]] 대안과 비교되어 측정되었습니다.
 - **"스캐폴딩 효과는 일반적이다."** 이득은 **16.4퍼센트 포인트(P = 3.30e-4)**였고, 가장 큰 향상은 **의사소통(Hedges' g = -0.79)**에서 나타났습니다. 효과가 하나의 결과에 집중되었으므로, 결과들을 평균하면 그것이 작동하는 곳을 과소평가하고 작동하지 않는 곳을 과대평가합니다.
-
-## 연결된 개념
-- [[pedagogical-patterns]] — 지원이 순서의 어디에 속하는가, 그리고 왜 도움 전 시도가 하중을 지탱하는 규칙인가
-- [[problem-based-learning]] — PBL은 잘 구조화되지 않은 문제를 둘러싸 걷히는 비계를 내장한다
-- [[learning-by-teaching]] — 설명을 통한 지식 구축의 비계
-- [[sociocultural-learning]] — 비고츠키적 기반: ZPD와 사회적으로 매개되는 학습
-- [[cognitive-offloading]] — 걷히지 않는 스캐폴딩은 과잉 의존을 만든다
-- [[feedback]] — 스캐폴딩은 지원이 걷힐 때 형성적 피드백을 전달한다
-- [[ai-literacy]] — 스캐폴딩이 학습을 뒷받침하는지 대체하는지 알아차리기
-- [[intelligent-tutoring]] — ITS는 비계 강도를 숙달 추정에 적응시킨다
-- [[socratic-method]] — 직접 답을 삼키는 질문
-- [[metacognition]] — 자기 점검과 자기조절을 세우는 비계
-- [[adaptive-learning]] — 적응 시스템은 학습자의 ZPD 안에서 지원을 조절한다
-- [[learning-design]] — 스캐폴딩은 핵심 교수 설계 전략이다
-- [[help-seeking]] — 스캐폴딩은 학습자가 도움을 요청하는 때와 방식을 형성한다
-- [[teacher-role]] — 교사는 비계를 세우고 숙달이 성장함에 따라 걷는다
-- [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
-- [[agentic-ai]]
-- [[productive-failure]] — 생산적 실패
-
-## 연결된 문서
-- [[stone-gpt5-kinematics-sensemaking-2026]] — 더 나은 모델이 아니라 채점 루브릭이 학생 대화를 레시피 찾기에서 소리 내어 생각하기로 옮겼다(Stone, Zhang & Utter, 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — 검증을 집행하는 메커니즘으로서의 비계 철회(VIE 프레임워크)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템 평가
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — 영상 내 지식·정서적 스캐폴딩으로서의 엔트로피 시점 AI 댓글(Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — 구조화된 학습 개입으로서의 안내된 LLM 프롬프트
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI를 활용한 문화적으로 반응적인 비판적 참여 스캐폴딩
-- [[rethinking-scaffolding-llm-tutors]] — LLM 튜터의 스캐폴딩 설계 패턴
-- [[concept-catalyst-engineering-scaffolds]] — 개념 변화를 위한 Concept Catalyst 비계
-- [[correct-answer-trap-ai-tutor]] — 힌트가 도움이 되는 때와 과잉 의존을 부추기는 때
-- [[critical-thinking-genai-scaffolding]] — GenAI로 비판적 사고를 받치기
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge를 활용한 서사 초고 작성의 비계
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 대체에서 스캐폴딩으로: 자기강화 해악 고리 끊기
-- [[preferred-scaffolding-ai-mathematical-modeling]] — AI 지원 수학적 모델링에서 선호되는 스캐폴딩
-- [[agentic-ai-pedagogical-best-practice-2026]] — 에이전트형 AI의 가드레일로서의 동적(걷히는) 비계
-- [[zhang-tutormoments-2026]] — 도움이 도움이 되지 않을 때: 생산적 투쟁을 위한 AI 튜터 평가
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI 튜터링을 생산적으로 만들기: 숙달 기반 수학 연습
-- [[brcic-effortless-trap-productive-struggle-2026]] — 가드레일 유무에 따른 AI: 배치 규칙(Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — 실용 화학에서 AI 지원 실험 설계
-- [[scaffolding-systematic-reviews-2026]] — 멘토링과 AI로 체계적 고찰을 받치기(Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — 학습 설계에서 GenAI 상호작용 중 예비 교사의 주체성(Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 수학 교사 교육에서 AI와 실천의 교수법들: 구조화된 리허설 피드백이 탐색적 질문을 높였다(Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — 교수 설계로서의 AI 통합: AI 출력에 대한 비판은 과제로 부여되어야 하며, 학문 분석이 먼저다
-- [[ai-literacy-tool-design-programming-education-2026]] — 힌트 예산 AI 학습 코치: 비계 대 제한 없는 GenAI 사용, 그리고 왜 제약만으로는 학습이 나오지 않았는가(Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 과제가 어느 하위 영역에 속하는지를 결정하는 문제로 재규정된 스캐폴딩
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 형성적 비계로서의 자동 채점: 표적 결핍이 분해 가능하고 신뢰로우며 민감하게 척도화되는 곳에서만 이득으로 전환된다(Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 음악 연습에서 학습자의 현재 경계를 추적하는 폐쇄 루프 적응 스캐폴딩, 오류 탐지는 분류(Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 비계 형태는 과제뿐 아니라 아동의 발달 역량과 맞아야 한다(Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 비계는 표상 번역과 검증을 요구해야 한다. 학생은 이해하지 못하는 것을 검증할 수 없기 때문이다(Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — 기하에서 시각화만으로는 불충분한, 시각적 직관에서 연역 증명으로 잇는 질문 비계로서의 GenAI(Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 막힘을 해결하는 방식의 변화 검토
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — STEM 문제 해결에서 GenAI 사용을 위한 비계로서의 학습자 훈련(Huang et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — 자기 주도 강좌의 내용 및 시간 스캐폴딩 층, 학습 시점별 늦은 시작과 실패율
-- [[assistance-dilemma-rl-tutoring-2026]] — 지원 딜레마: 보상 지평이 문제와 함께 끝나는 다중 턴 RL 튜터를 훈련하면 걷히기가 훈련으로 사라진다 (Macina, Kapur & Sachan 2026)
-- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — 교수자가 작성한 시스템 프롬프트에 새겨 넣은 고정된 걷히기 사다리
-- [[kozachek-orchestrating-scaffolding-agents-2026]] — 오케스트레이터 뒤의 메커니즘별 비계 에이전트: 제공 순서가 개념 지도 성장을 예측했다. 메타인지가 먼저, 개념이 마지막
-

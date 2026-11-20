@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -81,7 +83,6 @@ Questo pattern si generalizza in tutto il campo:
 
 - La perdita è ora misurabile, e segue il lavoro anziché lo strumento. In 26.811 studenti cinesi della scuola secondaria, l'IA generativa ha alzato i voti dei compiti del 18% e ridotto il tempo di completamento del 30%, mentre i voti degli esami [[summative-assessment|a libro chiuso]] sono scesi del 20% entro sei mesi. Il calo si concentrava nel circa 81% degli utenti i cui tempi di completamento indicavano esternalizzazione dei compiti, e gli utenti che mantenevano tempi di lavoro comparabili ai non utenti imparavano altrettanto efficacemente ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei e Wu (2026)]]). La variabile che prediceva l'apprendimento non era l'uso dell'IA ma se chi apprendeva eseguisse ancora la costruzione.
 
-
 - Le implementazioni dell'IA che enfatizzano il feedback adattivo e l'efficienza sottoservono frequentemente gli obiettivi di agentività di chi apprende, riflessione critica e decisione autonoma che il costruttivismo implica. ([[ai-vocational-education-training-review]])
 
 ### La trappola del nome: l'output dell'IA generativa non è apprendimento generativo
@@ -124,59 +125,3 @@ Il costruttivismo plasma anche il modo in cui l'alfabetizzazione sull'IA stessa 
 - **«Si può riconoscere l'insegnamento costruttivista dalle domande che vengono poste.»** Un classificatore DeBERTa **ha classificato le domande fattuali di trasmissione della conoscenza con una precisione del 96,67%, ma le domande di facilitazione solo con il 78,79%**, e **ogni modello ha confuso i due ruoli di ordine superiore**. Il costrutto che conta di più è quello che il rilevamento automatizzato gestisce peggio.
 - **«I tratti superficiali di una lezione ne rivelano la pedagogia.»** Il fallimento del classificatore non è un dettaglio implementativo. I ruoli di facilitatore e di costruttivista sono i casi difficili proprio perché sono definiti da ciò che l'insegnante fa con il pensiero di chi apprende, e quella relazione non è recuperabile dal solo testo della domanda.
 - **«Il costruttivismo significa che l'insegnante non spiega.»** La teoria colloca l'apprendimento nella costruzione che chi apprende fa a partire dall'esperienza, il che è compatibile con l'istruzione diretta. Trattarlo come un divieto di dire fraintende sia la teoria sia le evidenze sugli esempi svolti.
-
-## Concetti collegati
-
-- [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
-- [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[theory-development-aied]] — Theory Development in AI in Education
-- [[productive-failure]]
-
-## Articoli collegati
-
-- [[lee-learner-question-types-ai-education-2026]] — Learner questions classified into three constructivist roles: transmitter, facilitator, co-learner (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: constructionism framework for artifact construction
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory and measurement program for learning-by-construction with GenAI
-- [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
-- [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
-- [[genai-mindtool-generative-learning]] — GenAI as a thinking tool supporting learner construction
-- [[ai-agents-constructive-conflict-design-education-2026]] — Adversarial AI agents prompting constructive reconsideration
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy and the ICAP engagement framework
-- [[ai-internal-feedback-evaluative-judgments]] — AI-supported comparison generating evaluative judgments
-- [[icap-cognitive-engagement-llm-agents]] — ICAP and cognitive engagement with LLM agents
-- [[conversational-ai-tutors-framework]] — Scaffolding dialogue in AI tutors
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied inquiry with an AI facilitator
-- [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
-- [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-
-- [[synthetic-position-self-authorship-2026]] — Simulated AI counter-positions rehearse dialogue's form but withhold the resistance that compels revision
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La penalità di apprendimento: voti dei compiti su del 18%, esami a libro chiuso giù del 20%, concentrata tra chi esternalizza i compiti
-
-

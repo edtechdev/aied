@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -132,7 +134,6 @@ ai_assist:
 - مناسب انحصار کو حقیقتِ حال کے مقابل رویے کے نتیجے کے طور پر ناپیں، بھروسے کے اسکور کے طور پر نہیں۔ جس ایک مطالعے نے دونوں ناپے، اُن میں منفی تعلق تھا۔
 - ابتدا میں غلط رہنے والے شرکاء کی بازیابی کی شرحیں مجموعی درستگی سے الگ رپورٹ کریں، کیونکہ مجموعی عدد اُس موقع سے کم تعداد کو چھپا دیتا ہے جو سب سے زیادہ اہم ہے۔
 
-
 **جو سیکھنے والے سب سے زیادہ مضبوط نظر آتے ہیں، وہی ہیں جنہوں نے ٹول پر زیادہ بھروسا کیا۔** جنوبی کوریا کے 300 یونیورسٹی طلبہ کے سروے میں [[kim-overtrust-ai-literacy-2026|Kim, Kim اور Zhang (2026)]] نے پایا کہ حد سے زیادہ بھروسے کا تعلق [[self-efficacy|تعلیمی خود اعتمادی]] (r = 0.230)، [[motivation|داخلی تحریک]] (r = 0.224) اور کارکردگی کی توقع (r = 0.360) سے تھا، اور AI خواندگی (r = 0.051) سے نہیں۔ متوالی ماڈل میں خود اعتمادی نے حد سے زیادہ بھروسے کی براہِ راست پیش گوئی B = 0.3901 پر کی (95% CI [0.2190, 0.5612])، جو اُس کے کل اثر 0.3397 سے زیادہ ہے، جسے مصنفین دباؤ پڑھتے ہیں۔ کیلیبریشن سیکھنے والے کے اعتماد سے نہیں پڑھی جا سکتی۔
 
 کیلیبریشن ایک کیفیت ہے، نتیجہ نہیں، اور جس نتیجے کی وہ اجازت دیتی ہے اُس کا اپنا صفحہ ہے۔ [[automation-bias|آٹومیشن تعصب]] اُس مخصوص غلطی کو دستاویز کرتا ہے جو کسی خودکار فیصلے کو جانچے بغیر قبول کرنے سے ہوتی ہے: کوئی استاد ڈیش بورڈ کے جھنڈے کو بلا تحقیق درست مان لے، یا کوئی جانچنے والا ایسی تحریر پر مشین کا اسکور قبول کر لے جسے اُس نے دوبارہ نہیں پڑھا۔
@@ -148,56 +149,3 @@ ai_assist:
 **"جانچ آسان ہے، لہٰذا جو طلبہ پروا کرتے ہیں وہ کریں گے۔"** جانچ سستی ہے اور شاذ و نادر ہی کی جاتی ہے۔ **900 امریکی بالغوں** کے غیر فعال ٹریکنگ مطالعے میں، جن قارئین نے AI خلاصہ دیکھا اُنہوں نے اُس کے اندر حوالہ دیے گئے ماخذ پر صرف **1% وزٹس** میں کلک کیا، اور کسی بھی نتیجے کے لنک پر اُن سے تقریباً آدھی بار کلک کیا جنہوں نے کوئی خلاصہ نہیں دیکھا۔ خلاصہ تصدیق کو دباتا ہے، اُسے [[prompt-engineering|ابھارتا]] نہیں، لہٰذا جانچ کو کام کے اندر تعمیر کرنا ہو گا، محنت سے فرض نہیں کرنا۔
 
 **"پیشکش اور حقیقت کو ایک محتاط قاری الگ کر سکتا ہے۔"** روانی ہی وہ چیز ہے جو بے بنیاد بھروسا کما لیتی ہے، اسی لیے کیلیبریشن صرف سیکھنے والے کی مہارت نہیں بلکہ ڈیزائن کا مسئلہ بھی ہے۔ جس نظام کا انٹرفیس اختیار کا اشارہ دے، اُس پر اسی سطح پر بھروسا کیا جائے گا، خلاف ورزی کی ہدایات کے باوجود۔
-
-## منسلک تصورات
-
-- [[automation-bias]] — وہ قبولیت کی غلطی جس کی غلط کیلیبریٹ شدہ بھروسا اجازت دیتا ہے
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## منسلک مضامین
-- [[children-verification-ai-suggestions-game-2026]] — گیم پر مبنی انسانی-AI اشتراک میں بچوں کے تصدیقی رویے
-- [[student-perspectives-ai-writing-grading-2026]] — شفاف AI معاون تحریری جانچ پر طلبہ کے نقطہ نظر (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — کیلیبریشن کی نئی فریمنگ: نظام کا موقف روکنا حفاظتی ہے، اصلاحی نہیں
-- [[du-yuan-epistemic-dependence-2026]] — بار آور انحصار کو نقصان دہ تابع داری سے الگ کرنے والے چھ تشخیصی معیار (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — تعلیم کے ذریعے AI نظاموں میں بھروسے کو مخاطب کرنا: ایک تدریسی نقطہ نظر
-- [[pearls-epistemic-verification-2026]] — علمی ایجنسی اور AI آؤٹ پٹ کی تصدیق کے لیے PEARLS فریم ورک (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — ایجنٹک خواندگی کا قرض: خود مختار ایجنٹوں سے پیدا ہونے والا ساختی AI خواندگی کا خلا (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — تعلیم میں AI پر بھروسا اور انحصار
-- [[calibrating-trustworthiness-llm-education-2026]] — اعتباریت کی کیلیبریشن: تعلیم میں LLMs کے لیے مشترکہ طور پر پیمانے ڈیزائن کرنا
-- [[llm-fallacy-misattribution]] — LLM کی مغالطہ اور قابلیت کی غلط نسبت
-- [[ai-partner-science-epistemic-vigilance]] — بار آور افزودگی کی کلید کے طور پر علمی چوکسی
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI پر حد سے زیادہ انحصار بطور پیچیدہ موافقتی نظام
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — ناقص مگر یاد رہنے والا: کمپیوٹنگ تعلیم میں دلچسپی کے مطابق ذاتی بنائی گئی GenAI تشبیہات کی طلبہ کی تنقیدی پذیرائی
-- [[trust-calibration-chatbots-design-problem-2026]] — اعتماد کی کیلیبریشن بطور ڈیزائن مسئلہ: دو جہتی صارف نوعیات اور آٹھ ڈیزائن تجاویز (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI کے ذریعے جانچ میں پرامپٹ انجیکشن: ایک ٹول جس نے اپنی ہی انتباہات کو دبایا اور اُن سے متصادم ہوا (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — بھروسے سے مشروط استنتاج اور ڈیزائن ہی سے تشریح پذیر جانچ، جس میں بھروسا ناپا نہیں گیا (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — AI گریڈز کی اعتماد کے ذریعے چھانٹی اور اُس کی غلط مثبت شرح
-- [[bounded-reliance-ai-writing-feedback-2026]] — محدود انحصار: AI سے پیدا کردہ تحریری فیڈبیک کے ساتھ EFL طلبہ کی شمولیت پر ماخذ کی سند کا نقطہ نظر
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI سے فعال نظاموں میں بھروسا: 33 تجربی مطالعات میں تعریفیں، پیمائش اور ڈیزائن عوامل (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — تشخیص سے میٹا تشخیص تک: اساتذہ کا AI سے پیدا کردہ تشخیصی استنتاجات کا جائزہ (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — ایک غور و فکر کا پرامپٹ غلط AI مشورے کی قبولیت کم کرتا ہے (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — سیاقی معاونت سے ادراک شدہ منتقلی فوائد تک کے زنجیر میں واسطے کے طور پر اعتماد کی کیلیبریشن (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — بھروسا بطور محور جو AI خواندگی سے مسلسل استعمال تک لے جاتا ہے، اور AI بے چینی سے کمزور ہوتا ہے (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AI سفارشات کو تنقیدی طور پر برتنے کی ساخت کے طور پر کردار کی گردش (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسز میں طلبہ کا LLMs کا استعمال اور AI سے پیدا کردہ سوال کی مشکل کی حدود
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — طلبہ کے لیے آلہ جو AI-EdTech میں بھروسے کو چار عوامل کے طور پر تصدیق کرتا ہے، بھروسے کو ادراک شدہ افادیت کے بالائی حصے میں رکھتے ہوئے (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — بچے قابلِ اعتماد AI چیٹ بوٹس کیسے ڈیزائن کرتے اور اُن پر استدلال کرتے ہیں
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — جب AI مشورہ انسانی فیصلے سے متفق یا مختلف ہو: جسمانی تعلیم میں بھروسا، خود اعتمادی، نفسیاتی مضبوطی اور موافقتی ردِ عمل
-- [[kim-overtrust-ai-literacy-2026]] - 300 طلبہ میں حد سے زیادہ بھروسے کا تعلق خود اعتمادی اور کارکردگی کی توقع سے تھا، AI خواندگی سے نہیں

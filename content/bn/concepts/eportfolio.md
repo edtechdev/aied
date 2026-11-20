@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,31 +78,3 @@ ai_assist:
 **গবেষকদের জন্য**
 
 - এআই-প্লাস-পোর্টফোলিও প্যাকেজ অধ্যয়নে উপাদান-বিচ্ছিন্নতার জন্য নকশা করুন; নইলে ক্ষেত্রটি এমন সংমিশ্রণ-প্রভাব জমায় যা সে বিশ্লেষণ করতে পারে না।
-
-## সংযুক্ত ধারণা
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — এআই-সহায়িত পোর্টফোলিও মূল্যায়নে বহু-সাক্ষরতা বিকাশ নিয়ে শিক্ষার্থীদের ধারণা (Ni ও Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL কথ্য-ভাষা ও প্রতিক্রিয়া-সাক্ষরতায় ই-পোর্টফোলিও মূল্যায়নের সঙ্গে মিলিত ChatGPT (Laksana প্রমুখ 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই যুগে পোর্টফোলিও- ও দক্ষতা-ভিত্তিক মূল্যায়ন
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — জেনারেটিভ এআই-সহনশীল প্রামাণিক মূল্যায়ন, সামাজিক অবদান-পোর্টফোলিওসহ
-- [[beyond-detection-authentic-assessment-ai-2025]] — এআই-প্রতিরোধী মূল্যায়ন হিসেবে টীকাযুক্ত পোর্টফোলিও / মৌখিক পক্ষসমর্থন
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — হাইব্রিড শিক্ষার্থীদের জন্য সহজীবী পোর্টফোলিও
-- [[pbl-structural-conditions-ai-2026]] — মাপে মূল্যায়নের আংশিক উত্তর হিসেবে পোর্টফোলিও
-- [[learn-framework-responsible-genai-pbl-2026]] — মূল্যায়নযোগ্য শিখন-চিহ্ন হিসেবে ব্যক্তিগত শিখন-পোর্টফোলিও

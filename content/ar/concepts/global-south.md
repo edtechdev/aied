@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -72,37 +74,3 @@ ai_assist:
 - **«تفتقر السياقات محدودة الموارد إلى إطار لأخلاقيات الذكاء الاصطناعي وتحتاج إلى إطار مستورد.»** **يفكّر معلّمو STEAM في الخدمة في سياق محدود الموارد في أخلاقيات الذكاء الاصطناعي من خلال الهوية المهنية وواقعيات الصف والأعراف الثقافية لا المبادئ الرسمية**. فالتفكير موجود وسياقي؛ وقائمة مبادئ كلية تنتقل إليه انتقالًا ضعيفًا.
 - **«نوع الحوكمة يتنبّأ بإدماج الذكاء الاصطناعي في الجامعات.»** وجد تحليل مقارن للمحتوى في **45 جامعة نيجيرية** (فيدرالية وولائية وخاصة) أن إدماج الذكاء الاصطناعي يتنبّأ به **عمر المؤسسة وموقعها الجغرافي — لا نوع الحوكمة**. فافتراض أن المؤسسات العامة والخاصة تتباعد يُنقَض.
 - **«الفجوة الرقمية هي العائق الرئيسي.»** وجدت دراسة حالة [[qualitative-research|نوعية]] على **21 طالب بكالوريوس من ذوي الإعاقة البصرية في ثلاث جامعات فلسطينية** أن الذكاء الاصطناعي التوليدي يسدّ الحواجز **الرقمية والجغرافية والاجتماعية الاقتصادية** في الوقت نفسه. فالحواجز متعدّدة الطبقات، ومعالجة الوصول كعائق وحيد تترك الأخرى بلا مساس.
-
-## مفاهيم مرتبطة
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## مقالات مرتبطة
-- [[genai-assessment-african-higher-education-review-2026]] — إعادة التفكير في التقويم في عصر الذكاء الاصطناعي التوليدي: مراجعة منهجية للأدبيات عن التعليم الجامعي الأفريقي
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — التراكيب المؤسسية واللامساواة الرقمية وإدماج الذكاء الاصطناعي في التعليم الجامعي النيجيري
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — نموذج اجتماعي-معرفي موحّد لتعليم الهندسة (بنغلاديش)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: تخطيط الدروس الفيتنامي
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: مجموعة بيانات أنظمة المعرفة الهندية
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: مقياس مرجعي علمي وتقني وهندسي ورياضي من غانا
-- [[genai-minoritized-knowledges-disability]] — تهميش المعارف المهمّشة
-- [[llm-cultural-relevance-k12]] — نماذج اللغة الكبيرة في التربية ذات الصلة الثقافية من رياض الأطفال حتى الصف 12
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — إدماج الذكاء الاصطناعي التوليدي في التعليم الجامعي البنغلاديشي من خلال البنائية (Alam وآخرون 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — الذكاء الاصطناعي التوليدي المسانِد للمتعلّمين من ذوي الإعاقة البصرية
-- [[culturally-aware-student-stress-chatbot-2026]] — روبوت محادثة واعٍ ثقافيًا مدعوم بالذكاء الاصطناعي لكشف الإجهاد ودعم العافية بين طلاب الجامعات الباكستانية باستخدام معالجة اللغات الطبيعية وتعلّم الآلة
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — تحديد حدود دعوى التعلّم في تجربة الإرشاد بالذكاء الاصطناعي في السلفادور (Restrepo Morales وآخرون 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — المطوّرون الأكاديميون كوسطاء رقميين في المؤسسات التاريخية المحرومة في جنوب أفريقيا: اللامساواة الرقمية مقابل الاستعمارية الخوارزمية
-- [[ai-ethical-awareness-ghana-students-2026]] — الوعي الأخلاقي بالذكاء الاصطناعي لدى طلاب الجامعات الغانية
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — المبادئ الأخلاقية للذكاء الاصطناعي في التعليم: التفكير الأخلاقي السياقي للمعلمين
-
-- [[gouroubera-genai-benin-2026]] — 633 طالبًا في بنين: استخدام أسبوعي 92.3 في المئة، وعبء العمل المحرّك الأبرز، فالوصول لم يعد القيد الملزم (Gouroubera et al. 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,7 +70,6 @@ ai_assist:
 
 دراسات الحالة والمحاكاة هي صيغ التدريس الأقرب إلى هذه الأدبيات، لكن أدبيات الإدارة لا تعزل تدخلاً قائماً على دراسات الحالة؛ انظر [[case-based-learning|التعلّم القائم على الحالات]] لبيداغوجيته وحدوده.
 
-
 ## تضمينات لمعلّمي الأعمال
 
 - **أدمِج منهجًا مدفوعًا بالمنهج ومستنبطًا من الطلاب.** تُظهر [[drummond-genai-business-schools-framework-2026|الأطر المستنبطة من الطلاب]] و[[rook-plumb-genai-curricula-student-insights-2026|بصائر الطلاب]] أن الطلاب يُريدون مهارات الذكاء الاصطناعي التوليدي للمسار المهني واستخدامه دون مخالفة غير مقصودة — صمّم برامجًا تنسج ثقافةَ الذكاء الاصطناعي والحكمَ الأخلاقي والتطبيقَ الأصيل في بِنَى الدرجات.
@@ -81,41 +82,3 @@ ai_assist:
 - **«الطلاب يريدون الذكاء الاصطناعي لأنهم يريدون طرقًا مختصرة.»** وجد إطارٌ مستنبط من الطلاب أن الطلاب **مشاركين بدرجة عالية وواعون بحاجتهم إلى مهارات الذكاء الاصطناعي للمسارات المهنية**، مع رغبتهم في الوقت نفسه **استخدام الذكاء الاصطناعي دون ارتكاب سوء سلوك أكاديمي غير مقصود**. فالطلب على الكفاءة بحدود واضحة لا على إذن بتجنّب العمل.
 - **«إضافة وحدات ذكاء اصطناعي إلى منهج الأعمال تلتقط الفائدة.»** وجد بحث في التوافق البنائي أن **غلبة المنافع أو المخاطر تشكّلها درجة تكامل المنهج** — والتمييز العملي هو **أدمِج لا تُلحِق**. فالوحدة الملحقة تترك تصميم التقويم على حاله.
 - **«تطور الأداة يتغلب على التعلّم الإلكتروني التقليدي.»** وجدت دراسة تصوّرات على **130 طالبًا** أن **دعم روبوت المحادثة ودعم الوكيل كليهما صُنّفا فوق التعلّم الإلكتروني التقليدي** في التعزيز والتخصيص واتخاذ القرار. ويجدر الانتباه إلى ما يقيسه ذلك: *تصوّر* الطالب مقابل خط أساس تقليدي، لا التعلّم مقابل ذلك.
-
-
-## مفاهيم مرتبطة
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — دراسات الحالة وطريقة الحالة ومناقشتها
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## مقالات مرتبطة
-
-- [[ai-decision-checkpoints-bpm-education-2026]] — نقاط تحقّق قرار الذكاء الاصطناعي لإدارة العمليات الأعمالية المُعزَّزة بالذكاء الاصطناعي: إطار وتجسيد تعليمي
-
-- [[csaszar-ai-management-education-2026]] — آثار الذكاء الاصطناعي على تعليم الإدارة: تحليل استراتيجي قائم على القيمة (كاسزار وآخرون 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: دعم ذكاء اصطناعي توليدي وكيل في مقرر تجارة إلكترونية، والمنافع والمخاطر المُدرَكة (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — إطار مستنبط من الطلاب للذكاء الاصطناعي التوليدي في كليات الأعمال (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — عقد من الذكاء الاصطناعي في تعليم الأعمال (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — التوافق البنائي للذكاء الاصطناعي التوليدي في التعليم الأعمالي العالي (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — بصائر الطلاب على إدماج الذكاء الاصطناعي التوليدي في المناهج (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — الدوافع التنظيمية لتبنّي الذكاء الاصطناعي في التعليم العالي (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — إطار CAIS-GBL لوكلاء حواريين بالذكاء الاصطناعي في ألعاب المحاكاة الأعمالية (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — الاتفاق والخطأ في التصحيح الآلي لمنشورات الطلاب التسويقية
-- [[shi-genai-experiential-learning-management-education-2026]] — ثلاث آليات للذكاء الاصطناعي التوليدي لإعادة تشكيل بيداغوجيا تعليم الإدارة
-- [[alam-process-oriented-collaborative-essays-2026]] — مقالات تعاونية موجّهة بالعملية في تلمذة محلّل الأعمال: تصحيح التكرار الموثّق لا الموضوع
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — روبوت محادثة RAG بناه المساق حرّك التوقعات لا النواتج

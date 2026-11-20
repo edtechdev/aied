@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,49 +96,3 @@ ai_assist:
 - **「教師はAIで授業全体を生成するだろう。」** 教師が最も多く委ねたのは（**60%**）、**授業全体の計画の生成**ではなく、**自分で輪郭を描いた授業の内容の隙間を埋めること**でした。委ねる単位は授業ではなく、隙間です。
 - **「幼い子どもは、AI支援のメディアリテラシーから得るものが少ない。」** AI支援群は、**メディアの読み（+3.50）、書き（+1.67）、メディアリテラシー全体（+5.17、いずれも p < .01）で大きな伸び**を示し、群間の効果量は d = 1.12 以上でした。この年齢帯での伸びはわずかではなく、大きいものでした。
 - **「自動化された観察は、あらゆる面で人間の評定者と一致する。」** 一致は**全体としては中程度（重み付き κ = 0.681）でしたが、構成要素に条件づけられていました**。収束が見られたのは**情緒的支援**の領域と**フィードバックの質**であり、それ以外ではありませんでした。領域を平均すると、その道具がどこで失敗するかが見えなくなります。
-
-## 関連する概念
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## 関連する記事
-- [[early-childhood-ai-holistic-competencies-review-2026]] — AIの時代に幼児期を形づくる：コンピテンシー、教育学、生態的な支援（Pei 2026）
-- [[preservice-early-childhood-genai-magnetism-2026]] — 科学活動の設計における幼児教育の養成課程の学生の生成AIとの関わり:磁気の事例
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA:AI は子どもの物語の発達的適切さを評価できるか
-- [[preschool-teachers-ai-behavioral-intention-2026]] — 幼児教育の場における AI 利用の幼稚園教諭の行動意図（Duan ら 2026）
-- [[ai-play-framework-early-childhood-2026]] — AI-Play:幼児期におけるアンプラグドな AI 概念
-- [[ai-toys-child-development-2026]] — AI 対応のおもちゃと子どもの発達
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 幼稚園におけるロボット工学を通じた計算論的思考
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 初等の分数における AI を活用したパーソナライズ学習
-- [[elementary-writing-genai-systematic-review-2026]] — 生成AIの時代における初等の作文指導
-- [[awareness-technological-isomorphism]] — 初等数学における技術的同型性
-- [[icub-humanoid-storytelling-llm-hri-2025]] — 子どもとの LLM 人型ロボットによる物語り
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 早期の社会情動的学習における人間とAIの補完性（Raave ら 2026）
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI（PL-AI）:プレKと幼稚園のための遊び中心の AI リテラシーカリキュラム（Lee 2026）
-- [[demir-akar-ai-media-literacy-children-2026]] — 子どものための AI ベースの批判的メディアリテラシー・プログラム
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクトアプローチ:AI エージェントとロボット工学を早期学習に合わせるための枠組み（Yang, Li & Lee 2025）
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと対話する子どもと大人の最初の神経画像による比較:6〜7歳において制御・注意・記憶のネットワークの統合がより弱い
-- [[ai-rated-classroom-observation-scores-2026]] — 私がコード化するか AI がコード化するか:香港の幼稚園における AI 評価の CLASS Pre-K スコアと訓練を受けた人間の評価者の比較（Fong ら 2026）
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — 初等英語教育におけるAI媒介ツール：教育学的機能と教員の編成に関するスコーピングレビュー
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — デジタル教育の文脈における養成段階の幼児教育教員のデジタル・メディアリテラシー:研究動向の計量書誌学的分析
-- [[yim-ai-literacy-primary-schools-review-2025]] — 小学校における人工知能リテラシー教育:4つの柱、コンストラクショニズムに基づく指導、自己報告に偏重したエビデンス基盤 (Yim & Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — 初等理科教育研究のマッピング:5つの応用クラスター、教師による媒介、希薄な認識論的成果 (Barokah et al. 2026)

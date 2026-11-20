@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
+connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -136,35 +138,3 @@ ai_assist:
 - **"연습 점수가 높으면 학습이 더 많다."** ChatGPT 사용자는 CS1 연습에서 71.84% 대 29.85%를 득점한 반면 개념 이득은 집단 간 통계적으로 동일했습니다.
 - **"탐지기가 무결성 사건을 해결할 수 있다."** 일곱 개 탐지기는 비원어민 영어 작문자의 에세이에서 평균 61.22% 위양성을 보였고, 97%가 적어도 하나에 의해 플래그되었습니다.
 - **"매일 사용하면 [[ai-literacy|AI 리터러시]]를 가정할 수 있다."** 보고된 사용은 중등 학교 매년 오른 반면 판단된 신뢰성은 평평했고, 연구 과업에서의 신중함은 4학년에만 나타났습니다.
-
-## 연결된 개념
-
-- [[scaffolding]] — 답 엔진 대 힌트 우선 튜터
-- [[help-seeking]] — 구체적 질문을 던지는 것은 인터페이스가 가르칠 수 있는 기술
-- [[feedback-literacy]] — 학생이 코멘트로 무엇을 하는지가 그것이 작업을 바꾸는지를 결정
-- [[self-regulated-learning]] — 도구 없는 계획, 모니터링, 평가
-- [[desirable-difficulties]] — 무제한 어시스턴트가 제거하는 분투
-- [[process-oriented-assessment]] — 산출물이 아니라 흔적을 채점
-- [[self-report-measures]] — 설문이 포착하는 것, 그리고 그것이 학습 결과가 아닌 이유
-- [[ai-detection]] — 분류기 출력이 판정이 아니라 검토를 위한 증거인 이유
-- [[learning-analytics]] — 아웃리치의 조기 신호로서의 LMS 흔적
-- [[student-support-and-success]] — 학사 상담, 아웃리치, 그리고 넛징의 한계
-- [[equity-in-ai-education]] — 자료가 공개 전에 검증될 때 누가 이득을 보는가
-- [[writing-education]] — 에세이 기반 강좌의 평가 계약
-- [[stem-education]] — 물리, 컴퓨팅, 공학의 관문 시퀀스
-
-## 연결된 문서
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Python 학생 132명의 2×2 시험에서, 전체 맥락을 갖춘 소크라테스식 어시스턴트가 가장 덜 지지적인 것으로 평가됨
-- [[genai-use-changing-institutional-policy-physics-2026]] — 정책 등급이 아니라 과업 설계가 학생들이 어떤 GenAI 기능을 사용하는지를 결정
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — 학부생 130명; ChatGPT 없이 작성한 노트가 더 다양하고 통합적
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 접근이 아니라 프롬프트 구조가 이득을 담당; 5부분 비계가 평가된 품질을 3.32에서 4.60으로 높임
-- [[llm-math-homework-offloading-traces-2026]] — 1학년 23명; 제출 59건 중 53건이 모델의 산출물을 재현하거나 형식만 수정
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 연구 31건, 학생 1,585명; 무결성이 교육자와 학생의 우려가 갈리는 곳
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 3파에 걸친 학생 342명; 개인 내 의존이 이후의 낮은 주체성을 예측
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 연구 123건; 주체성 지원 패턴과 주체성 침식 패턴이 공존
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 1학년 551명이 높은 자기보고 긴장과 함께 높은 승인을 보고
-- [[thulin-chatbot-mental-health-students-2026]] — 15.4%가 정신건강 이유로 챗봇을 사용한 적이 있고, 사용은 돌봄 장벽을 추적
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 응답자 1,477명; 자기평가 학습과 3행동 참여 지수의 상관은 0.052
-- [[kumar-chatgpt-academic-assignments-2025]] — 학생 304명; 디지털 리터러시가 자기보고 수행을 β = 0.393으로 예측, 윤리 의식은 β = −0.006
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 학부생은 윤리에서 평균 3.527로 대학원생 4.627과 대비, 훨씬 더 넓은 퍼짐

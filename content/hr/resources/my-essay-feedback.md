@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -47,12 +48,3 @@ Nastavnici pisanja na prvoj godini i odsjeci za engleski koji žele AI povratne 
 ## Napomene i upozorenja
 
 Stranica izvješćuje o više od 12,000 studenata, više od 700 kolegija i više od 41,000 pregledanih eseja — brojke koje navodi dobavljač, a ne neovisna revizija. Sukladnost s FERPA-om, spremnost za GDPR i pristupačnost također su vlastite tvrdnje dobavljača; eseji prolaze kroz Azure OpenAI, a stranica navodi da se ne koriste za treniranje modela, što bi okrug trebao potvrditi u ugovoru o obradi podataka, a ne preuzeti s marketinške stranice. Cijene su freemium i mijenjaju se prema publici: besplatan prvi semestar za nove nastavnike (na zahtjev, ograničeno na tri po školi), oko \$12–15 po studentu za semestar nakon toga i plaćena razina po pregledu za pojedine studente, s prvim pregledom besplatnim. Usporedna tablica s ChatGPT Plus, Packbackom i Grammarlyjem dobavljačeva je vlastita. Partnerstvo s UC Davisom na projektu PAIRR istraživačka je suradnja, a ne objavljeni dokaz da platforma poboljšava pisanje.
-
-## Povezani pojmovi
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

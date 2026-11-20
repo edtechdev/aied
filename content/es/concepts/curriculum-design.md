@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-09-25"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -109,57 +111,3 @@ El diseño curricular conecta directamente con el [[learning-design|diseño del 
 - **«Un [[llm]] puede mapear un currículo una vez validado con alta fiabilidad.»** GPT-o3-mini distribuyó **el 100% entre siete habilidades empresariales para cada una de 48 evaluaciones**, alcanzando un **alfa de Krippendorff de 0,81** frente a las ponderaciones de personas expertas, y la **concordancia** se rompió en determinadas habilidades. Una fiabilidad global alta con una concordancia desigual es el patrón que hay que comprobar antes de fiarse del mapeo.
 - **«Integrar la alfabetización en IA significa añadir una asignatura.»** LearnAI muestra la forma integrada: una **capa de amplia exposición con presentaciones breves dentro de 18 cursos existentes de cinco disciplinas (293 estudiantes)**. La exposición se distribuyó a lo largo del currículo en lugar de reunirse en una unidad.
 - **«El estudiantado llega sabiendo ya evaluar los medios de forma crítica.»** Solo el **13,8% del estudiantado encuestado de educación y periodismo** decía que sus asignaturas abordaban el análisis crítico de medios, frente al **97,8% que lo valoraba como importante**. La brecha entre valorar una habilidad y recibir formación en ella es la oportunidad curricular.
-
-## Conceptos conectados
-- [[pedagogical-partnerships]] — Alianzas pedagógicas
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — marco: pedagogías y estrategias de enseñanza en la educación con IA
-- [[recommender-systems-and-learning-paths]]
-
-## Artículos conectados
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mapeo de habilidades ponderado y validado por expertos para la acreditación
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre IA generativa para la alineación constructiva (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Abordar la confianza en los sistemas de IA a través de la educación: una perspectiva didáctica
-- [[refrain-amplify-genai-curriculum-2026]] — Marco curricular de abstenerse y luego amplificar para secuenciar la IA generativa (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de niveles de preparación laboral para la fabricación inteligente en la era de la IA
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Reescribir el currículo: cambio pedagógico impulsado por la IA generativa
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Marco de habilidades en IA: 26 habilidades evaluables para el mapeo curricular
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — Cuando decir no produce mejores vídeos: doble filtro para una creación de contenidos con IA pedagógicamente fundamentada
-- [[niri-steam-ai-literacy-review-2026]] — Educación STEAM para la alfabetización en IA: revisión sistemática
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparar al estudiantado y al profesorado para un futuro impulsado por la IA: revisión sistemática de la educación preuniversitaria en IA (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Plataforma impulsada por IA que genera problemas de modelado matemático (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — La IA en la educación en física de partículas: problemas de investigación y habilidades fundamentales
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus tareas. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en computación en la era de la IA generativa
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - los marcos de competencia convergen en cinco dimensiones sin un vocabulario compartido ni una homologación
-- [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los currículos de residencia: entrevistas cualitativas con doce líderes médicos
-- [[rodafinos-llm-curriculum-audit-2026]] — Auditoría curricular asistida por modelos de lenguaje grandes en psicología: un método basado en prompts

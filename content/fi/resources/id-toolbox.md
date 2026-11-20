@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -36,7 +37,3 @@ Ennen rakentamista: valitse kirjoitusohjelmien välillä painotettujen kriteerie
 
 ## Miksi se on olemassa
 Curt Zilbersher, joka on suunnitellut yrityskoulutusta kaksikymmentäkahdeksan vuotta, kuvaa samojen pienten ratkaisemattomien ongelmien toistuvan uransa varrella – kerronnan sanojen laskeminen, kurssin [[edtech-platform|LMS]]-rajan ylittäneen aineiston löytäminen, tekstityskattavuuden auditoiminen käsin – ja rakentaa niihin korjaukset ja antaa ne ilmaiseksi. Sivusto järjestää myös ilmaisen vuosittaisen kyselyn siitä, miten opetussuunnittelijat todella käyttävät viikkonsa.
-
-## Liittyvät käsitteet
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

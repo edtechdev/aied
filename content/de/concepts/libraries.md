@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -74,22 +76,3 @@ Die älteste Funktion der Bibliothek — Zugang zu ermöglichen, den Einzelne ni
 - **Studierende haben die Bibliothek aufgegeben.** Suchmaschinen bleiben der dominierende Ausgangspunkt, und neun Jahre an Ausleihdaten zeigen keinen Strukturbruch im Ausleihverhalten.
 - **Die Finanzierung ist die einzige Hürde.** Kompetenzlücken und schlechte Datenqualität werden häufiger genannt als Geld, was dies zu einem Kapazitätsproblem ebenso wie zu einem Budgetproblem macht.
 - **Eine wachsende Literatur bedeutet, dass sich das Feld wandelt.** Das Publikationsvolumen stieg, ohne dass eine Veränderung der Praxis gemessen wurde; die Übersichtsarbeiten finden Enthusiasmus, der dem Effekt vorausläuft.
-
-## Verbundene Konzepte
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Einführung künstlicher Intelligenz in wissenschaftlichen Bibliotheken: eine systematische Übersicht über aktuelle Praxis, Herausforderungen und Forschungsperspektiven
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Die Integration von KI-Kompetenz in die Unterweisung in Informationskompetenz an wissenschaftlichen Bibliotheken kartieren
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Wie künstliche Intelligenz die Informationskompetenz an wissenschaftlichen Bibliotheken umformt
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Künstliche Intelligenz und Informationssuche: ein vergleichender Blick auf KI-Chatbots, Suchmaschinen und Bibliotheksressourcen als Informationsquellen bei Universitätsstudierenden
-- [[huang-genai-academic-information-resources-2026]] — Generative künstliche Intelligenz formt die nachhaltige Nutzung akademischer Informationsressourcen durch Universitätsstudierende um
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Studierendenansprache wissenschaftlicher Bibliothekarinnen und Bibliothekare zur Förderung von Informationskompetenz und KI-Unterweisung an nigerianischen Hochschulen

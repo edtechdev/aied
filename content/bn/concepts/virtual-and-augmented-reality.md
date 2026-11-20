@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -75,7 +77,6 @@ VR/AR-এর সবচেয়ে শক্তিশালী প্রমা�
 
 অ্যাভাটার ও ডিজিটাল মানুষ সেই স্তরের মানব-মুখ, আর [[ai-avatars-and-synthetic-instructors]] সেই সব ঘটনা একত্র করে যেখানে বাস্তবসম্মততা কার্যকারিতার পূর্বাভাস দিতে ব্যর্থ হয়েছে: SOPHIE একই অ্যাভাটারের পেছনে বিভিন্ন ব্যাকএন্ডে যোগাযোগে অভিন্ন স্কোর করেছে, আর TriKoNet-এর শিক্ষার্থীরা ফটোরিয়ালিস্টিক ব্যক্তিত্ব প্রত্যাখ্যান করেছে।
 
-
 একই যুক্তি ব্যাখ্যা করে কেন উপস্থিতি স্বয়ংক্রিয়ভাবে ভালো নয়। মোশন সিকনেস, UI-এর অসামঞ্জস্য, হার্ডওয়্যারের খরচ, এবং অসম ডিভাইস-প্রাপ্যতা ঠিক করে কে আদৌ একটি নিমজ্জনকারী পরিবেশ ব্যবহার করতে পারবে, এজন্যই এই মাধ্যমের [[equity-in-ai-education|সমতা]]-প্রশ্নগুলো [[accessibility]] ও [[inclusive-learning]]-এর সঙ্গে যুক্ত, তাদের থেকে আলাদা নয়।
 
 ## সাধারণ ভুল ধারণা
@@ -83,38 +84,3 @@ VR/AR-এর সবচেয়ে শক্তিশালী প্রমা�
 - **"ঘটনাটি অনুভব করা মানে তা বোঝা।"** একটি পাইলটে দেখা গেছে শিক্ষার্থীরা হাতের অঙ্গভঙ্গির মাধ্যমে তরঙ্গদৈর্ঘ্য ও বিস্তার **অনুভব** করার কথা স্লাইডারের চেয়ে বেশি জোরালোভাবে জানিয়েছে — কিন্তু **তা উপলব্ধি মেপেছে, অর্জন নয়**। অনুভূত বোধটি হলো সামর্থ্য, আর তা বোঝাপড়া তৈরি করেছে কি না তা আলাদা পরীক্ষা।
 - **"উচ্চ ব্যবহারযোগ্যতা-স্কোর একটি শিক্ষামূলক VR সরঞ্জামকে বৈধতা দেয়।"** Meta Quest 3-এ **১০ জন শিক্ষার্থীর এক ঘণ্টার সেশনে** গবেষণাটি **System Usability Scale-এ ভালো ব্যবহারযোগ্যতা ও ন্যূনতম সিমুলেশন সিকনেস** জানিয়েছে। ব্যবহারযোগ্যতা ও স্বাচ্ছন্দ্য পূর্বশর্ত, এবং কোনোটিই শেখার পরিমাপ নয়।
 - **"শিক্ষার্থীদের সম্মতি সামর্থ্যের প্রমাণ।"** **২৯ জন দ্বিতীয় বর্ষের মেডিকেল-ইমেজিং শিক্ষার্থীর** সঙ্গে ২৯ জনই **সম্মত হয়েছে অঙ্গভঙ্গিটি তাদের তরঙ্গদৈর্ঘ্য কী তা "অনুভব" করতে সাহায্য করেছে (গড় 4.52)**। একটি অনুভূতি নিয়ে সর্বসম্মত সম্মতি অভিজ্ঞতা সম্পর্কে স্ব-প্রতিবেদন, আর সামর্থ্যের দাবির জন্য এমন ফলাফল দরকার যা শিক্ষার্থীর নিজের বোঝাপড়া সম্পর্কে নিজের বিচারের উপর নির্ভর করে না।
-
-## সংযুক্ত ধারণা
-
-- [[simulation]] — নিমজ্জনকারী পরিবেশ সাধারণত যা প্রদর্শন করে; মডেল, মাধ্যম নয়
-- [[embodied-learning]] — যে প্রক্রিয়াটি মাধ্যমটির কাজে লাগানোর কথা
-- [[multimodal]] — শিখন-চ্যানেল হিসেবে অঙ্গভঙ্গি, কণ্ঠ ও স্থানিক ইনপুট
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — যে ক্ষেত্রে নিমজ্জনকারী অনুশীলন সবচেয়ে প্রতিষ্ঠিত
-- [[generative-ai]] — নতুন রচনা-স্তর
-- [[prompt-engineering]] — অ-প্রোগ্রামাররা কীভাবে নিমজ্জনকারী সরঞ্জাম বানায় ও পরিমার্জন করে
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — হেডসেটের ভেতরে দিশার গ্রাউন্ডিং
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — বিশ্বস্ততা, এবং তার সীমা সম্পর্কে শিক্ষার্থীর সচেতনতা
-- [[cognitive-offloading]] — অতিরিক্ত ভার হিসেবে বিলম্ব ও অস্থিরতা
-- [[edtech-platform]] — সমন্বয়, বিলম্ব ও বহু-সাইট উপস্থিতি
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-ar-physics-simulation-prompt-2026]] — চার-উপাদানের প্রম্পট যা হাত-নিয়ন্ত্রিত AR পদার্থবিজ্ঞান সিমুলেশন তৈরি করে; ২৯-শিক্ষার্থীর পাইলট, কেবল-উপলব্ধি প্রমাণ
-- [[mixed-reality-engineering-learning]] — প্রকৌশল বলবিদ্যায় মিশ্র-বাস্তবতা অ্যাপ বনাম ভৌত টুলকিট বনাম শ্রেণিকক্ষ; অংশগ্রহণ বেড়েছে, জটিল ভিজ্যুয়ালায়ন তবুও কঠিন
-- [[medgame-llm-medical-education-gamification]] — এআই দিয়ে খেলাধুলাপূর্ণ মেডিকেল প্রশিক্ষণ
-- [[tech-enhanced-tabletop-cybersecurity-education]] — সাইবার নিরাপত্তা শিক্ষায় অগমেন্টেড টেবিলটপ দৃশ্যকল্প
-- [[genai-xr-architectural-design-education-2026]] — সহযোগী স্থাপত্য নকশা শিক্ষায় জেনারেটিভ এআই ও এক্সটেন্ডেড রিয়ালিটি: একটি অন্বেষণমূলক স্টুডিও গবেষণা
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: এলএলএম-সমর্থিত শিক্ষণ-সহায়কসহ নিমজ্জনকারী VR নকশা স্টুডিও, প্রচলিত PBL-এর বিপরীতে মূল্যায়িত (Jin প্রমুখ 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: VR মঞ্চ-আলোকসজ্জা শিক্ষায় এলএলএম-সহায়ক বহুমাত্রিক নির্দেশনা, এবং কোথায় গ্রাউন্ডিং ভেঙেছে (Liang প্রমুখ 2026)

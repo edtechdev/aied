@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -92,43 +94,3 @@ ai_assist:
 - **«Высокий балл подразумевает, что студент выполнил ту работу, которую мы спроектировали.»** Следы могут **прямо расходиться с баллами**: среди **150 диалогов «студент–ИИ»** **41% имели балл за задание ровно 1.00, тогда как наблюдаемое когнитивное участие различалось**. Балл насыщается, а процесс, который должен был его произвести, — нет.
 - **«Данные о процессе неуправляемы в масштабе.»** Обязательная документация оказалась осуществимой в масштабе курса на **шести семестрах шестинедельных асинхронных магистерских курсов по методам исследования, обслуживавших примерно 440 учителей K-12**. Логистика была разрешима; возражение преувеличивает издержки.
 - **«Решение задач слишком целостно, чтобы оценивать его процессом.»** Его можно операционализировать как **четыре стадии и восемь диагностических под-навыков**, позволяя LLM генерировать **вопросы и рубрики для каждой стадии**, — использовано с **пятью преподавателями и 64 студентами**. Именно декомпозиция сделала процесс читаемым и оцениваемым.
-
-## Связанные понятия
-- [[pedagogical-patterns]] — поэтапные контрольные точки и свидетельства процесса как упорядоченные дизайны
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## Связанные статьи
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Критический нарративный обзор, утверждающий, что провал по умолчанию — поддержка ИИ, которая никогда не затухает, в паре с оцениванием только продукта (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — оцениваемое, совместно написанное процессное сочинение в первом курсе степени-подобной программы: итерация и сотрудничество в рубрике, GenAI разрешён в заявленных границах (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — результативность не есть обучение: программа исследований, построенная на мерах процесса (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — преподаватели педагогического образования, просящие об устойчивых к ИИ, процессных задачах, построенных на обосновании и рефлексии (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — аннотированные следы решений, устная защита и различия черновиков, отобранные ради видимого суждения
-- [[munoz-misconduct-allegation-evidence-2026]] — что содержат дела о нарушениях и каких свидетельств процесса им не хватает
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — какой вывод находится под риском при подмене свидетельств оценивания
-- [[beyond-detection-authentic-assessment-ai-2025]] — аутентичность должна быть перепроектирована, а не отполирована
-- [[authentic-products-authenticated-processes-2026]] — аутентичные продукты и процессы, которые их породили
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — устной экзамен как устойчивый к ИИ формат, делающий рассуждение живым
-- [[thapa-lewis-process-oriented-assessment-2026]] — эпистемическая аутентичность и четыре дизайнерских обязательства за ориентированным на процесс оцениванием (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — процессные свидетельства, обусловленные каналом: журналы и «мышление вслух» раскрывают разные процессы
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
-- [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Документация контрольных точек диалога с ИИ удержалась на 96% завершения на шести семестрах и около 440 учителях
-- [[rubrics-genai-process-based-assessment-2026]] — Три измерения рубрики из модели 3P Биггса: агентность и надзор, диалогический скаффолдинг, когнитивный суверенитет (Oviedo & Díaz 2026)
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: поддержка преподавателей в диагностике навыков математического решения задач с помощью генерируемых LLM вопросов
-- [[jelson-students-chatgpt-essay-writing-2026]] — Редактор CodeMirror плюс логированная чат-панель превратили одну сессию написания эссе в свидетельство процесса, с его пределом «набор против мышления» (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — Визуализации процесса плюс одна сессия рефлексии сдвинули правки с поверхностного на смысловой уровень, не увеличив их объём

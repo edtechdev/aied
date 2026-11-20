@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -59,7 +60,3 @@ tidak pernah melatih model di luar, dan pengalihan hak keluaran kepada pembuatny
 perjanjian pemrosesan data, bukan hanya halaman pemasaran; perbandingan kemampuannya terhadap MagicSchool
 dan chatbot utama adalah milik Playlab sendiri, bertanggal pertengahan 2026. Platform ini tumbuh dari
 kerja pemrograman pengguna akhir yang terkait dengan Scratch dan MIT Media Lab.
-
-## Konsep terkait
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

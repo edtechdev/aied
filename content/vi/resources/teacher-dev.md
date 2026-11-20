@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,6 +48,3 @@ Giáo viên K-12 muốn một công cụ cho một vấn đề cụ thể mà kh
 ## Ghi chú và lưu ý
 
 Nhịp độ vừa là lời chào hàng vừa là rủi ro. Những bản dựng một ngày nhắm tới một vấn đề thật trong lớp, không phải một câu hỏi nghiên cứu, nên không có gì ở đây mang theo một đánh giá, và một tuyên bố về việc ứng dụng làm được gì nên được kiểm nghiệm trên lớp. Ba mươi hai kho mã công khai nằm trong tổ chức GitHub trong khi thư viện liệt kê 34, tất cả theo Apache-2.0 với mã nguồn có sẵn, nên một ứng dụng có thể được đọc và tự vận hành. Thiết kế ưu tiên cục bộ là một tuyên bố cần kiểm chứng theo từng ứng dụng, và giáo viên nên xác nhận trước khi đưa bất kỳ công cụ dành cho sinh viên ra trước lớp.
-
-## Khái niệm liên quan
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

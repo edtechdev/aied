@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -45,12 +46,3 @@ Undervisere, instruksjonsdesignere og fakultetsutviklere kan beskrive en leksjon
 ## Merknader og forbehold
 
 Forfatterne kaller Primer en eksperimentell prototype, ikke et gjennomprøvd klasseromsprodukt. Det er ikke evaluert som et læringstiltak i klasserom, og ingen har gjennomgått det mot FERPA, COPPA, delstatlig personvernlov for studenter eller distriktspolicy, så en institusjon som bruker det med studenter, eier den gjennomgangen. Programvaren har MIT-lisens og er gratis, men å kjøre en simulering krever modelltilgang, som koster penger. Fordi den er modelluavhengig og kjører på lokale eller åpne vektmodeller, kan den tas i bruk der personvernreglene er strengere. En whitepaper om arkitekturen og promptene er lenket fra prosjektsiden. Da den ble sjekket i november 2026, hadde repoen 98 stjerner og 16 forks.
-
-## Tilknyttede begreper
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

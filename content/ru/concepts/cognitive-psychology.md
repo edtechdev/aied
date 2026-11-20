@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -85,40 +87,3 @@ ai_assist:
 - **«Ментальные представления ненаблюдаемы, так что когнитивистские утверждения об обучении — допущения».** Реконструкция изображений из **ЭЭГ** учащихся во время научных видео обнаружила, что **точность представления отслеживала результаты теста** (коэффициент регрессии **0.8481, R² = 0.79**). Когнитивистская посылка о внутреннем представлении измерима, и измерение предсказало результат.
 - **«Высокий R² означает, что представление объясняет обучение».** R² = 0.79 — сильная связь между точностью и результативностью на одном и том же материале. Она не устанавливает, что повышение точности повышает результативность, а это и есть утверждение о вмешательстве.
 - **«Компоненты знания — удобная модельная фикция».** Разложимость — то, что делает возможными [[knowledge-tracing]] и [[cognitive-diagnosis]], и методы работают в той мере, в какой это допущение выполняется. Трактовка его как фикции отбрасывает причину, по которой методы дают пригодные оценки, — а трактовка как факта преувеличивает то, что подогнанная модель говорит о разуме.
-
-## Связанные понятия
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — the retention findings this practice family rests on
-
-## Связанные статьи
-
-- [[sim-ai-summary-memory-distortion-2026]] — Вводящие в заблуждение резюме ИИ меняли то, что запомнили взрослые, независимо от того, была ли метка «ИИ» или «человек»
-
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Организация усилия, а не объём усилия, отслеживала нагрузку и фрустрацию
-- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
-- [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — Утверждения об освоении из трассировки знаний зависят от того, как засчитывается работа с подсказками (Srivastava 2026)
-

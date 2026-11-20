@@ -25,6 +25,8 @@ ai_assist:
     role: drafting
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [assessment-validity, process-oriented-assessment, formative-assessment, productive-failure, help-seeking, learning-analytics, privacy, summative-assessment]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, roe-assessment-twins-2026, crediting-assisted-work-inflates-mastery-2026, black-box-assessment-winstone-2026, jin-genai-learning-analytics-feedback-literacy]
 ---
 
 > **Synthesis:** Nakamura names a tension inside the shift toward [[process-oriented-assessment|assessing learning processes]] rather than products. GenAI tutors record prompts, revisions and admissions of confusion, and those records look like stronger evidence than a finished submission. But the features that make a record informative, exploration, expressed uncertainty and visible error, are the ones a learner has most reason to manage once the record may be graded. He calls this the Observability–Authenticity Paradox: reactivity to evaluation damages both the learning and the inference the record was meant to support.
@@ -78,25 +80,6 @@ In a density unit, if every exchange counted, students would stop voicing the mi
 - The design principles are untested, and their costs, including less data for student support and more administrative choreography, are not quantified.
 - The fairness analysis is a framework: no group comparisons are reported, and the moderators are reasoned rather than demonstrated.
 - Practical questions remain open: logs in integrity cases, episode length, contesting an automated inference. Examples come mainly from science, and transfer to mathematics and engineering design is untested.
-
-## Connected Concepts
-
-- [[assessment-validity]]: argument-based validity and extrapolation are the diagnostic frame
-- [[process-oriented-assessment]]: the reform the paradox constrains
-- [[formative-assessment]]: teacher monitoring as the counter-model
-- [[productive-failure]]: the learning benefit that reactivity threatens
-- [[help-seeking]]: the discretionary indicator most likely to disappear
-- [[learning-analytics]]: the trace infrastructure behind the argument
-- [[privacy]]: contextual integrity and intellectual privacy
-- [[summative-assessment]]: grading and credentialing, where the risk peaks
-
-## Connected Articles
-
-- [[thapa-lewis-process-oriented-assessment-2026]]: makes the positive case for process evidence that this commentary qualifies
-- [[roe-assessment-twins-2026]]: validity-first redesign of tasks under generative AI
-- [[crediting-assisted-work-inflates-mastery-2026]]: evidence that what a tutoring log credits can misstate mastery
-- [[black-box-assessment-winstone-2026]]: structural rather than discursive responses to the assessment problem
-- [[jin-genai-learning-analytics-feedback-literacy]]: student perceptions of generative AI learning analytics in feedback
 
 ## Citation
 

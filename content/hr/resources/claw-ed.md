@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,6 +43,3 @@ Projekt je namjerno neovisan o modelu. Dokumentira lokalne Ollama modele, jeftin
 ## Napomene i upozorenja
 
 Softver je besplatan i [[open-source|otvorenog koda]] pod MIT licencijom za izvorni kod, iako komponente trećih strana zadržavaju svoje uvjete, a njegovo pokretanje znači plaćanje vlastite inferencije ako se rabi hostani model. Projekt se naziva betom koju pregledavaju nastavnici i u svojem README-u izravno kaže da prolazak kroz CI ne dokazuje kvalitetu poučavanja na živim modelima, što je pravi način čitanja zelene testne suite u ovom području: ona provjerava softver, a ne [[pedagogy|pedagogiju]]. Održava ga MacxLabs i prihvaća primjere lekcija koje su pregledali nastavnici kao doprinose.
-
-## Povezani pojmovi
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -83,34 +85,3 @@ ai_assist:
 - **"כוונה אסטרטגית יוצרת יכולת."** רק **7% מהמוסדות** יצרו תפקידי מנהיגות AI בכירים למרות ש-**49% רואים ב-AI עדיפות אסטרטגית**. הפער הוא בין הצהרה למבנה, והוא הכשל החוזר של ניהול שינוי ב-AI.
 - **"אימוץ כלי AI הוא אירוע."** **קיימות היא תכונה של הארגון, לא של הכלי** — ניסוי ההודעות הטקסטואליות ב-CSUN ממחיש את סולם הזמן. ההערכה נמשכה ארבע שנים כיוון שעמידות היא מה שהיה צריך להיבדק.
 - **"מוסדות צריכים להגיב מהר יותר, לא לצפות מראש."** **מנהיגות צופה-פנים** היא החוט המשלים: [[baroudi-anticipatory-governance-ai-higher-ed-2026|סקירת ההיקף]] מוצאת שמוסדות חייבים לעבור מממשל **תגובתי לממשל מבוסס-ראיית-נוע**. תגובה מוסמכת לטכנולוגיה שכבר הגיעה היא מה שהראיות מתעדות ככושל.
-
-## מושגים מחוברים
-
-- [[governance]] — מבני המדיניות והפיקוח שניהול שינוי מבצע
-- [[educational-policy-ai]] — כוונת מדיניות בינה מלאכותית לאומית ומוסדית שניהול שינוי חייב לתרגם לפרקטיקה
-- [[educational-development]] — בניית יכולת חברי הסגל והנטייה הפדגוגית לאינטגרציית בינה מלאכותית
-- [[administrator]] — מנהיגות וממשל מונע כסוכני שינוי
-- [[ai-literacy]] — יכולת חוצת-תחום שמבססת אימוץ מוסדי אחראי
-- [[equity-in-ai-education]] — הבטחת רווחי שינוי המתחלקים באופן אחיד בין מוסדות ולומדים
-- [[technology-acceptance-model]] — נהגי אימוץ שמסבירים כיצד שינוי מתפשט
-- [[academic-integrity]] — עוגן רגולטורי מרכזי סביבו מאורגנת רפורמת ההערכה
-- [[student-support-and-success]] — קיום תכנית תמיכה מעבר ליישום ניסיוני
-
-## מאמרים מחוברים
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — קיום תמיכת סטודנטים מבוססת בינה מלאכותית: מחקר יישום והשפעה בת ארבע שנים של צ'אטבוט מוסדי (Mata, Russell & Page 2026)
-- [[institutional-change-framework-ai]] — מסגרת בת שישה מימדים להתאמת מודלי שינוי מוסדי לבינה מלאכותית כטכנולוגיית הגעה
-- [[leveraging-complex-systems-leading-for-transformative-change]] — מסגרת SPARK ומנהיגות מורכבות לשינוי טרנספורמטיבי
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — קונצנזוס דלפי גלובלי על ממשל GenAI בת שמונה תחומים
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — סקירת היקף של ממשל מונע ומנהיגות
-- [[ai-adaptation-gap-higher-education-2026]] — פערי בעלי עניין בשימוש, בגישות ובאמון בבינה מלאכותית בין סטודנטים, סגל הוראה וצוות
-- [[ai-uk-higher-education-policy-2026]] — כוונת מדיניות לאומית מול יכולת מוסדית בהשכלה גבוהה בבריטניה
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — נהגים ארגוניים וטכנולוגיים לאימוץ בינה מלאכותית
-- [[adarkwah-genai-unesco-policy-2026]] — ניתוח מסגרת UNESCO של מדיניות GenAI מוסדית
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — טרנספורמציה דיגיטלית של אוניברסיטת אמנויות ליברליות לעבר מודל ממוקד-מחקר בעידן GenAI (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — מתווכים דיגיטליים שמתרגמים אסטרטגיית בינה מלאכותית מוסדית לפרקטיקה מעוגנת תחת מחסור תשתיתי
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? דוח מסדנה מקוונת על הערכת מדעי המחשב בעידן הבינה המלאכותית היצרנית
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — עבודת שטח חוצת-מערכות על האופן שבו יישום ופעולות המורה קובעים אם מוצר בינה מלאכותית עוזר
-- [[dot-framework-survey-2026]] — ראיות סקר שפיתוח מקצועי חייב לכסות מחזור עיצוב שלם ולא שימוש בכלי לבדו
-- [[flipped-classroom-ai-assessment-math-2026]] — קשת דיפוזייה בת עשור שנים מיזמה אישית למימון מרכזי
-- [[packard-thinking-partner-framework-adult-learners-2026]] — תקצבו 15 עד 20 שעות עיצוב מחדש לכל קורס משולב-AI לפני התאמה שוטפת במתמטיקה לתואר ראשון (Law 2026)

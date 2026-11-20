@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,8 +39,3 @@ Dersi herhangi bir metin düzenleyicide yazın ve biçimi destekleyen herhangi b
 ## Kimler için
 
 İçeriğinin bir araç değişikliğinden sağ çıkmasını isteyen öğretim tasarımcıları ve kurs oluşturucuları, kullanıcılarının çoktan anladığı bir içe ve dışa aktarma biçimi isteyen eLearning satıcıları ve okunabilir bir biçim üzerine YZ destekli yazım kuran herkes. Katkıda bulunanlar arasında LXD Integral'den Dan Bashaw var ve biçimin v1.8'e kadar uzanan herkese açık bir değişiklik günlüğü bulunuyor.
-
-## Bağlı kavramlar
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

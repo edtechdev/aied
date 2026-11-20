@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -102,7 +104,6 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 
 교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다.
 
-
 **하나의 AI 리터러시 프레임워크를 고르는 것은 아무도 상호 대조하지 않은 어휘를 고르는 일입니다.** K-12 프레임워크 50개에 대한 범위 검토에서 [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach 등(2026)]]은 역량 정의가 인지적, 정의적, 행동적, 윤리적, 사회적 차원으로 수렴하는 반면 라벨과 구성개념은 정렬되지 않았음을 발견했습니다. ABCE 프레임워크만이 홍콩, 상하이, 대만에서 검증된 공유 측정 전통에 가까웠고, 학년 간 진전은 반복해서 제안되었으나 어디에서도 시험되지 않았습니다.
 
 ## 흔한 오해
@@ -110,58 +111,3 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 - **"[[llm|LLM]]은 높은 신뢰도로 타당화되면 교육과정을 매핑할 수 있다."** GPT-o3-mini는 **48개 평가 각각에 대해 일곱 기업 역량 전반에 100%를 배분**하여 전문가 가중치에 대해 **Krippendorff's alpha 0.81**에 이르렀고, **일치도**는 특정 역량에서 무너졌습니다. 전체 신뢰도가 높으면서 일치도가 고르지 않은 것이 매핑을 신뢰하기 전에 점검해야 할 양상입니다.
 - **"AI 리터러시를 내장한다는 것은 강좌를 추가한다는 뜻이다."** LearnAI는 내장형을 보여 줍니다. **다섯 학문의 기존 강좌 18개 안에 짧은 발표로 이루어진 폭넓은 노출 층위(학생 293명)** 입니다. 노출은 한 단원에 모인 것이 아니라 교육과정 전반에 분산되었습니다.
 - **"학생들은 이미 미디어를 비판적으로 평가할 수 있는 상태로 온다."** 응답한 교육·저널리즘 학생 중 **13.8%만이** 수강 과목에서 비판적 미디어 분석을 다루었다고 답한 반면, **97.8%가 그것을 중요하다고 평가**했습니다. 기술을 가치 있게 여기는 것과 그것을 배우는 것 사이의 격차가 교육과정의 기회입니다.
-
-## 연결된 개념
-- [[pedagogical-partnerships]] — 교수 파트너십
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — 상위 개념: AI 교육의 교수법과 교수 전략
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI 기반 구성적 정렬 지침의 비판적 담론 분석(McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — 교육을 통한 AI 시스템의 신뢰 다루기: 교수법적 관점
-- [[refrain-amplify-genai-curriculum-2026]] — 생성 AI를 배열하는 물림-후-증폭 교육과정 프레임워크(Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — 열공학에서의 프로젝트 기반 AI 교육 교육과정
-- [[ying-genai-journalism-assessment-2026]] — 교실 설계에서 뉴스룸 실천으로: 생성형 AI를 다루는 평가 개입 설계
-- [[rook-plumb-genai-curricula-student-insights-2026]] — 대학 교육과정에 생성형 AI 통합하기: 학생의 시선
-- [[zhou-constructive-alignment-genai-business-2026]] — 실험에서 통합으로: 구성적 정렬의 렌즈를 통한 경영 고등교육에서의 생성형 AI 내재화
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대 스마트 제조를 위한 Workforce Readiness Level 프레임워크
-- [[rewriting-curriculum-genai-pedagogy-2026]] — 교육과정 다시 쓰기: 생성형 AI가 이끄는 교수법적 변화
-- [[critical-media-literacy-education-2026]] — 기술, 교육, 비판적 미디어 리터러시: 가능성, 도전, 기회
-- [[reshaping-cs-education-genai]] — 생성형 AI 시대의 학부 컴퓨터 과학 교육 재구성
-- [[ase-26-agentic-software-engineering-curriculum]] — 하나의 학문으로서의 에이전트형 소프트웨어 공학을 위한 ASE-26 교육과정
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — 강의계획서 분석을 통한 AI 지원 소프트웨어 공학의 새 교육과정 지형 그리기
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 교육에서 형평성 있는 AI 리터러시 틀 설계를 위한 델파이 연구 결과로서의 비계적 AI 리터러시(SAIL) 틀
-- [[curriculum-as-code-instructional-design-2026]] — 코드로서의 교육과정: STEM 교육을 위한 AI 지원 수업 설계 구조
-- [[tracing-genai-literacy-interaction-patterns]] — 생성형 AI 리터러시 추적하기: 학문적 글쓰기에서의 학생-AI 상호작용 양상
-- [[finkelstein-principled-ai-education-2025]] — 교육에서의 AI에 대해 생각하는 원칙 있는 방식: 목표와 모형에 근거한 교육자와 정책 입안자를 위한 지침
-- [[hingle-collaborative-ai-literacy-2025]] — AI 리터러시 촉진을 위한 협력 학습 활동에 관한 체계적 고찰
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 교육과정 매핑을 위한 26가지 평가 가능 AI 기술 프레임워크
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: 학제를 넘는 적시의 AI 공동 창작
-- [[ai-video-dual-gatekeeping-2026]] — "아니오"라고 말하는 것이 더 나은 영상을 만든다: 교수법에 뿌리내린 AI 영상 제작을 위한 이중 관문
-- [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육: 체계적 문헌고찰
-- [[caruana-pre-university-ai-education-slr-2026]] — AI로 이끄는 미래를 위한 학습자와 교사 준비하기: 대학 전 AI 교육에 관한 체계적 문헌고찰(Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — 수학적 모델링 문제를 생성하는 AI 기반 플랫폼(ADDIE, RAG)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 인증을 위한 가중치 기반의 전문가 검증 역량 매핑
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — 아동 STEAM 미술 교육을 위한 ChatGPT 지원 수업 계획: 이점, 도전, 방법, 그리고 프롬프트 틀에 관한 실험 연구
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 과학 교육 전문가의 관점에서 본 AI 지원 수업 계획의 적합성
-- [[ai-particle-physics-education-redesign-2026]] — 입자 물리 교육에서의 AI: 연구 문제와 기초 역량
-- [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 역량 프레임워크는 공유 어휘나 상호 대조 없이 다섯 차원에 수렴합니다
-- [[bursic-ai-residency-education-curriculum-2026]] — 레지던시 교육과정에 AI를 통합하는 장벽: 의사 리더 12명과의 질적 면담
-
-- [[rodafinos-llm-curriculum-audit-2026]] — 심리학에서의 대형 언어 모델 지원 교육과정 감사: 프롬프트 기반 방법

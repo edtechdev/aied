@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -66,40 +68,3 @@ Designtänkande i AI-utbildning är djupt sammanflätat med [[human-ai-collabora
 **"Designtänkande är en process som ska automatiseras steg för steg."** Det är en disciplin för att rama in och omforma problem, vilket är vad fixeringen stänger av. Att automatisera stegen medan ramen lämnas ogranskad ger kompetent output för fel problem.
 
 **"AI-agenter som håller med [[student-support-and-success|elevstödet]] förstärker deras designresonemang."** Den produktiva användning som dokumenteras här går åt andra hållet: [[ai-agents-constructive-conflict-design-education-2026|konstruktiva konflikter med AI-agenter]] prövar motståndsinriktad prompting som tvingar fram omprövning. En medhållande agent förstärker fixeringen; en avvikelseorienterad är den design som har ett utbildningsanspråk bakom sig.
-
-## Anslutna begrepp
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Anslutna artiklar
-
-- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026

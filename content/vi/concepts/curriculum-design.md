@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -105,56 +107,3 @@ Thiết kế chương trình kết nối trực tiếp với [[learning-design|t
 - **"Một [[llm]] có thể lập bản đồ một chương trình khi đã được kiểm chứng với độ tin cậy cao."** GPT-o3-mini phân bổ **100% trên bảy kỹ năng doanh nghiệp cho mỗi bài trong 48 bài đánh giá**, đạt **Krippendorff's alpha 0.81** so với trọng số chuyên gia — và **sự đồng thuận** vỡ ra ở những kỹ năng cụ thể. Độ tin cậy tổng thể cao với sự đồng thuận không đồng đều là mô thức cần kiểm tra trước khi tin vào bản đồ đó.
 - **"Nhúng năng lực AI nghĩa là thêm một khóa học."** LearnAI cho thấy hình thức nhúng: một **tầng tiếp xúc rộng gồm các bài trình bày ngắn bên trong 18 khóa học hiện có xuyên năm ngành học (293 sinh viên)**. Sự tiếp xúc được phân tán khắp chương trình thay vì gom vào một đơn vị.
 - **"Sinh viên đến đã có khả năng đánh giá truyền thông một cách phản biện."** Chỉ **13.8% sinh viên giáo dục và báo chí được khảo sát** nói khóa học của họ đề cập phân tích truyền thông phản biện, so với **97.8% đánh giá nó quan trọng**. Khoảng cách giữa việc coi trọng một kỹ năng và việc được dạy nó chính là khe mở của chương trình.
-
-## Khái niệm liên quan
-- [[pedagogical-partnerships]] — Quan hệ đối tác sư phạm
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Ôm trùm: các phương pháp sư phạm và chiến lược giảng dạy trong giáo dục AI
-- [[recommender-systems-and-learning-paths]]
-
-## Bài viết liên quan
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Lập bản đồ kỹ năng có trọng số, được chuyên gia kiểm chứng cho kiểm định
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Phân tích diễn ngôn phản biện về hướng dẫn dùng GenAI cho căn chỉnh kiến tạo (McInnes và cộng sự 2026)
-- [[icet-ml-education-trust-2026]] — Đề cập niềm tin vào các hệ thống AI qua giáo dục: một góc nhìn didactic
-- [[refrain-amplify-genai-curriculum-2026]] — Khuôn khổ chương trình giữ-lại-rồi-khuếch-đại để sắp trình tự GenAI (Torres-Sahli và cộng sự 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Chương trình giáo dục AI theo dự án trong kỹ thuật nhiệt
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Khuôn khổ Mức Sẵn sàng Lực lượng Lao động cho sản xuất thông minh trong kỷ nguyên AI
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Viết lại chương trình: thay đổi sư phạm do GenAI dẫn dắt
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Khuôn khổ Kỹ năng AI: 26 kỹ năng có thể đánh giá để lập bản đồ chương trình
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: đồng sáng tạo AI đúng lúc xuyên các ngành học
-- [[ai-video-dual-gatekeeping-2026]] — Khi nói không tạo ra video tốt hơn: kiểm soát kép cho việc tạo nội dung AI có nền tảng sư phạm
-- [[niri-steam-ai-literacy-review-2026]] — Giáo dục STEAM cho năng lực AI: tổng quan hệ thống
-- [[caruana-pre-university-ai-education-slr-2026]] — Chuẩn bị cho người học và giáo viên một tương lai do AI dẫn dắt: tổng quan hệ thống về giáo dục AI trước đại học (Caruana và cộng sự 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Nền tảng có AI tạo ra các bài toán mô hình hóa toán học (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI trong giáo dục vật lý hạt: các vấn đề nghiên cứu và kỹ năng nền tảng
-- [[computing-assessment-genai-workshop-report-2026]] — AI có thể làm bài tập về nhà của bạn. Giờ thì sao? Báo cáo từ một hội thảo trực tuyến về đánh giá tin học trong kỷ nguyên AI sinh tạo
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - các khuôn khổ năng lực hội tụ về năm chiều mà không có từ vựng chung hay đối chiếu chéo
-- [[bursic-ai-residency-education-curriculum-2026]] — Các rào cản đối với việc tích hợp AI vào chương trình nội trú: phỏng vấn định tính với mười hai lãnh đạo y khoa

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -43,7 +44,3 @@ To kreator ogólnego przeznaczenia, a nie produkt edukacyjny: przydaje się wyk�
 ## Uwagi i zastrzeżenia
 
 Platforma ma bezpłatny plan, ale oparty na kredytach: konta dostają 1 000 kredytów SI miesięcznie, a budowanie, edycja, generowanie obrazów i funkcje SI w aplikacji je wydają. Subskrypcja dodaje możliwość dokupienia kredytów, które nie wygasają. Każdy kurs, który zamierza oprzeć się na platformie, powinien sprawdzić aktualne warunki, ponieważ bezpłatne użycie jest licznikowe, a nie nieograniczone, i powinien traktować aplikacje tworzone przez studentów jako treść z własnymi pytaniami o obsługę danych.
-
-## Powiązane pojęcia
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

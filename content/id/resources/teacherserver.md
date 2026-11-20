@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -50,7 +51,3 @@ timnya](https://teacherserver.com/index-team.php) menyebut Zafer Unal, profesor 
 Florida, sebagai pendiri dan pengembang, bersama dewan penasihat berisi empat anggota fakultas dari
 universitas lain. Klaim itu tetap layak diverifikasi sebelum dipakai dengan pekerjaan siswa. Akses
 memerlukan pendaftaran, dan ada platform pendamping berbayar untuk membangun alat Anda sendiri.
-
-## Konsep terkait
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

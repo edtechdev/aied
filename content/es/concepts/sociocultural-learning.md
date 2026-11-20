@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -75,32 +77,3 @@ La línea sociocultural está estrechamente acoplada a la teoría de la [[cognit
 **«Añadir una herramienta a un grupo solo cambia la eficiencia del grupo.»** Cambia la división del trabajo, que es la unidad que analiza la teoría. Un grupo que canaliza la mayor parte de sus preguntas hacia un agente ha redistribuido el trabajo cognitivo aunque el resultado no cambie.
 
 **«La cognición distribuida implica que la persona individual no importa.»** Implica que la contribución de la persona no puede leerse solo a partir del rendimiento individual; la unidad de análisis es el sistema de actividad, no la persona aislada.
-
-## Conceptos conectados
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Artículos conectados
-- [[youth-enter-chat-llm-student-talk-2026]] — Cuando la juventud entra en el chat: validación de medidas del habla estudiantil basadas en LLM
-- [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
-- [[golrang-propact-pair-programming-2026]] — Tutoría colaborativa con IA
-- [[finkelstein-principled-ai-education-2025]] — Marcos fundamentados de educación con IA
-- [[stanford-evidence-base-ai-k12-2026]] — Base de evidencia de Stanford sobre IA en K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Revisión rápida de Sídney sobre IA generativa en PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo y corregulación
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Las pistas generadas por LLM igualaron a las de tutores humanos en ganancias de aprendizaje de matemáticas (Pardos y Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Desvanecer según aquello a lo que apunta el turno de quien aprende, no según la profundidad de la respuesta

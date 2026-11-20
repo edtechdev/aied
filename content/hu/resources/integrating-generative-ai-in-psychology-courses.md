@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -93,9 +94,3 @@ Pszichológiaoktatóknak bármely karrierszakaszban, és a szomszédos [[social-
 ## Megjegyzések és fenntartások
 
 Ingyenes PDF, fiók nélkül. A szerzői jog az STP-é, nem Creative Commons licenc: személyes és osztálytermi másolatok engedélyezettek a szerző megjelölésével, míg a továbbterjesztéshez vagy kereskedelmi használathoz a szerző engedélye kell. A fejezetek gyakorlati beszámolók, nem tanulmányok — nincsenek tervezések, minták vagy hatásméretek —, így az állításokat tapasztalati beszámolóként kezelje, és a fejezeteket egyenként idézze.
-
-## Kapcsolódó fogalmak
-
-- [[social-sciences-education]] — a klaszteroldal, amelynek pszichológiai szakaszát ez a kötet kurzusszintű gyakorlattal tölti meg
-- [[ai-literacy]] — a fejlődési keretezés, amelyet a szerkesztők a gyűjteménynek adnak
-- [[academic-integrity]] — a szabályzati fejezet tárgya, és az oka, hogy több kurzusfejezet ellenőrzési lépéseket épít be

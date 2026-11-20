@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -92,7 +94,6 @@ LoRA na jamaa zake ni mahali watengenezaji wengi wa kielimu wanafanya kazi kweli
 
 **Gharama ya marekebisho na hamu ya data vinapimika, na vyote viwili vinapendelea mizunguko midogo, iliyolengwa.** Jung et al. (2025) walirekebisha Mistral-7B-Instruct-v0.2 kwa LoRA kuwa CLST, kifuatiliaji cha maarifa, na wanaripoti bili ya kiwango cha kipindi ya takriban **masaa 6.8 na 1.7 kWh** kwenye RTX A6000 kwa mzunguko wa sampuli 21k, dhidi ya **sekunde 50 na 3.47 Wh** kwa msingi wa AKT — takriban **mara 490** ufanisi zaidi wa nishati ([[jung-clst-cold-start-knowledge-tracing-2025|Jung et al. (2025)]]). Marekebisho hayo hayo yalibaki sahihi kwenye data nyembamba: usawazishaji wa matokeo ulirejeshwa kadri seti ya mafunzo ilikua kutoka **wanafunzi 16 hadi 64**, na CLST ilishinda mfano wa pili bora kwa hadi **24.52%** ikiwa na wanafunzi 8 tu wa mafunzo, na kufanya ukingo wa usahihi kuwa biashara yenye gharama badala ya ushindi wa bure.
 
-
 Mbinu mbili za karibu zinakamilisha hatua ya marekebisho. **Ufupishaji (Distillation)** hufupasha mfumo mkubwa au wa sanduku jeusi kuwa mdogo unaoweza kutumika. Mchakato wa hatua mbili ulifupasha kipimo cha ML cha sanduku jeusi kilichofaa na tafsiri yake ya baada ya tukio katika LLM ndogo ya wazi, na "mwanafunzi" wa vigezo 2B akafikia upatikanaji wa karibu bila hasara ya uso wa athari ya oracle (r > .90). Matokeo hayo yanaripotiwa chini ya tathmini ya uaminifu-kwanza ambayo hukagua kila simulizi dhidi ya uchanganuzi unaodai kuelezea ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Kusahau (Unlearning)** huondoa maudhui yaliyolengwa baada ya mafunzo: kusahau kulitekelezwa kwa mifano mitatu ili kuondoa PII na maudhui ya madhara, kujaribiwa katika mpangilio mbili wa kuondoa (PII-kwanza na maudhui ya madhara-kwanza) ([[llm-unlearning-math-privacy]]) — chombo chenye umuhimu mfano inapokumbuka kitu ambayo haipaswi kubeba.
 
 ## Mafunzo ya baadae: kuunda tabia, si muundo tu
@@ -164,73 +165,3 @@ Ukurasa huu ni mwenzake wa *jinsi mfano unavyofanywa* ya [[llm]], ambayo inashug
 - **"Mfano wa ndani utafanya vibaya kuliko ule unaohudumiwa, hivyo upataji ni kianzio kidogo."** Katika tathmini ya usanidi tatu, **upataji, si mfano, ulikuwa uamuzi wa kwanza wa muundo**: LLM ya ndani **bila upataji ilifikia usahihi wa 52.3% pekee, chini ya msingi wa TF-IDF**. Kuongeza upataji kulikusogeza mfano ule ule kupita kizingiti ambacho hakuna kubadilisha mfano kungefikia peke yake.
 
 - **"Data zaidi ya mafunzo inamaanisha tabia bora ya kufundisha."** Urekebishaji mahususi wa tathmini ulioboresha muundo huku ukiboronga uzalishaji wa maoni ni mfano mdogo wa kinyume: uboreshaji dhidi ya lengo linalofanana kwa uso unaweza kuboresha mbadala na kudhoofisha kile ulichokitaka.
-
-## Dhana Zilizounganishwa
-
-- [[llm]] — mifano hii ni nini; ukurasa huu ni jinsi yanavyofanywa
-- [[ai-technologies]] — kioo: teknolojia na mbinu za AI
-- [[rag]] — upatikanaji, hatua kabla ya mafunzo
-- [[prompt-engineering]] — kigeuzi cha bei rahisi zaidi, na kiwango cha msingi cha kushinda
-- [[reinforcement-learning]] — hatua ya RL ya mafunzo ya baadae
-- [[intelligent-tutoring]] — kikoa kuu cha matumizi
-- [[adaptive-learning]] — kurekebisha kwa wenye kujifunza, tofauti na kurekebisha mifano
-- [[automated-assessment]] — mahali mifano ya kupima alama yaliyorekebishwa yanapofika
-- [[automated-essay-scoring]] — kazi ambayo ushahidi mwingi wa kupima alama unatokana nayo
-- [[ai-feedback-quality]] — kile urekebishaji mahususi hufanya na kile hafanyi
-- [[educational-nlp]] — familia ya mbinu za karibu
-- [[simulating-students]] — matumizi ya upande wa mwanafunzi ya mifumo hiyo hiyo
-- [[student-modeling]] — safu ya kuunda chini ya uigizaji
-- [[open-source]] — uzito wa wazi ni kile kinachofanya urekebishaji mahususi wa ndani uwezekanavyo
-- [[benchmark]] — jinsi mifumo hii hupimwa, na mipaka yake
-- [[assessment-validity]] — kwa nini kipimo kizuri bado kinaweza kuashiria chombo kibovu
-- [[pedagogical-safety]] — kile mafunzo hayahakikishi
-- [[ai-sycophancy]] — tabia ambayo mafunzo ya baadae yanaweza kulenga
-- [[hallucination-risk]] — mtindo wa kushindwa ambao urekebishaji mahususi hauwezi kuponya
-- [[privacy]] — kizuizi juu ya data ya mafunzo na juu ya kusahau
-- [[human-in-the-loop-ai]] — mbadala ambao hufanya uotomatiki kuwa na gharama nafuu
-- [[metacognition]] — lengo la kipolojia kwa mafunzo ya baadae
-- [[scaffolding]] — tabia ambayo kazi za zawadi zinajitahidi kuweka kanuni
-- [[ai-education]] — uwanja ambao kazi hii inahudumia
-
-## Makala Zilizounganishwa
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Data iliyopangwa kwa mtaala ni nafuu kwa sampuli
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — mchakato wa RL–SFT–RL: 96.52% kwenye CDPK, kupita Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — kufuata maelekezo ya kipolojia ndani ya mafunzo ya baadae ya Gemini
-- [[teachlm-post-training-llms-education]] — mafunzo ya baadae kwa masaa 100,000 ya data halisi ya ualumu
-- [[tact-pedagogically-adaptive-esl-tutoring]] — mafunzo ya baadae yanayolingana na taxonomy yanayolenga uamuzi wa kipolojia
-- [[swim-student-writing-simulation-2026]] — SFT na GRPO dhidi ya uundaji wa ilani wa rubriki, pamoja na undani wa ubunifu wa zawadi
-- [[misconception-acquisition-dynamics-llms-2026]] — nyenzo za kiwango cha hatua kama sharti linalofunga la mafunzo ya dhana potofu
-- [[jeon-isd-agent-bench-2026]] — mawakala wa muundo wa mafunzo waliotokana na nadharia katika hali 25,795
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — RL ya heuristic ya kulinganisha mifano kama viongozi wa Socratic
-- [[special-r1-rl-special-education]] — kujifunza kwa nguvu kwa ulinganisho wa elimu mahususi
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — kujifunza kwa nguvu kwa uongozu wa LLM kwa ubinafsishaji
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — mfano mkubwa wa mantiki ya kipolojia
-- [[omniedu-open-educational-foundation-models-2026]] — tabia moja lengwa kwa kila mfano, katika viwango vya mifano
-- [[garrod-edu-qurating-educational-data-curation-2026]] — kupanga data ya kielimu kwa mafunzo
-- [[lora-finetuned-control-systems-course-qa-2026]] — athari za kiwango cha LoRA na faida kwa kila kigezo cha kifaa
-- [[aiawe-automated-writing-evaluation]] — AWE iliyorekebishwa na LoRA ambapo kiwango hakikutabiri mafanikio
-- [[llm-graders-computer-science-exams-2026]] — kifaa kimoja kwenye mifano ~3,900 yakifikia usawa na mwanadamu anayewapa alama
-- [[iks-instruct-dataset-indian-knowledge]] — seti ya data ya maelekezo yenye mifano 24,795 na kiwango cha msingi cha karibu sifuri
-- [[llm-children-reading-story-generation]] — udhibiti juu ya kiwango kwa udhibiti wa kiwango cha kusoma
-- [[bert-discourse-english-teaching-2026]] — tabaka zipi za kurekebisha mahususi, na kwa nini nne zilishinda kumi na mbili
-- [[nuclear-diffusion-text-to-image-learning-2026]] — muundo, si idadi ya vigezo, huamua kama urekebishaji mahususi unafanya kazi
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — ufupishaji katika mfano wa 2B na ukaguzi wa uaminifu
-- [[llm-unlearning-math-privacy]] — kusahau kulitekelezwa kwa gradient kwa PII na maudhui ya madhara
-- [[reflection-level-classification-hungarian-essays-2026]] — transfoma zilizorekebishwa dhidi ya vipimo vya kitamaduni na vya embedding
-- [[multimodal-item-parameter-estimation-2026]] — kujifunza mikondo ya IRT kutoka vitu vya njia nyingi
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — kuelekeza kwa ujasiri kama sera ya binadamu-katika-mzunguko
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — upatikanaji kama uamuzi wa kiwango cha kwanza, na nishati na VRAM zilizoripotiwa
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — masomo 23: uundaji wa ilani 13, urekebishaji mahususi 7, mseto 3
-- [[gpt-item-generation-l2-listening-2026]] — uundaji wa ilani unapata ukingo, kisha urekebishaji mahususi unaongeza mengine
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — urekebishaji mahususi ulishinda katika kupima alama na ukashindwa katika maoni
-- [[educational-llm-alignment]] — kizingiti cha ~15% juu ya chaguo la mfano na la ilani
-- [[yasar-llms-iterative-pedagogical-design-2026]] — uundaji wa ilani ulioongozwa na rubriki kama mbadala bila mafunzo
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — udhibiti wa persona wa kiwango cha ilani kwa uigizaji wa dhana potofu
-- [[eduframetrap-llm-sycophancy-educational-safety]] — ujifanyi mzuri kama sharti wazi la mafunzo
-- [[contextual-sycophancy-ai-literacy]] — ujifanyi mzuri unaodumu baada ya uundaji wa ilani na ulinganisho
-- [[hazra-safetutors-pedagogical-safety-2026]] — usalama unapopungua katika mazungumzo ya kudumu
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — vidokezo ~35% visivyotumika kutoka mfano wa mipaka usiofunzwa
-- [[simulated-students-tutoring-dialogues-2026]] — kama wanafunzi walioigwa hutenda kama wanafunzi
-- [[inside-llm-student-simulator-reasoning-2026]] — kurekebisha mfano kutenda na kufikiri kama mwanafunzi
-- [[history-aware-student-simulation]] — uigizaji uliowekwa kwenye njia ya mwanafunzi

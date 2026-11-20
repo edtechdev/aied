@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -39,7 +40,3 @@ Kursy wchodzą przez połączenie z API Canvas, plik IMS Common Cartridge, pakie
 ## Co warto wiedzieć przed wdrożeniem
 
 Wtyczka wymaga Claude Code i powłoki bash do instalacji; PowerShell i cmd nie uruchomią skryptu instalacyjnego, a Python 3 jest zalecany do śledzenia trendów ocen. Dane kursu zostają w katalogu projektu na maszynie czytelnika i opuszczają ją tylko przez integrację, którą użytkownik sam wywoła, na przykład zapytanie do API Canvas. Wnioskowanie na żywo w rozszerzeniu Chrome wymaga własnego, bezpłatnego klucza API Google AI Studio, choć tryb symulacji pokazuje je bez klucza. Projekt określa się jako beta w wersji 3.5.1.0 i ostrzega przed zmianami łamiącymi zgodność między wersjami minor, a jest publikowany na koncie savvides na GitHubie, a nie przez nazwanego autora.
-
-## Powiązane pojęcia
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -93,30 +95,3 @@ Bu bilgi tabanındaki bir fakülte düzeyinde durum çalışması örgütsel kat
 
 - Sonuçların yanında vibe coding koşulunu (saf ya da kod-görünür) bildirin ve [[self-report-measures|öz bildirilen]] başarı yerine uzmanların değerlendirdiği, arayüz odaklı görevler kullanın; böylece sonuçlar çalışmalar arasında karşılaştırılabilir olur.
 - Erişim argümanı sınanıyorsa yapıt sayısını ya da geliştirici sayısını değil, yapıt çeşitliliğini ölçün.
-
-## Bağlı kavramlar
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Bağlı makaleler
-
-- [[vibe-coding-writing-cs-achievement-2026]] — Bilgisayar Bilimi Başarısı ve Yazma Becerileri Vibe Coding Yeterliliğini Yordar (CHI 2026 ampirik çalışma)
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe coding iki mühendislik simülasyonunu saatler içinde inşa etti; bir protokol hatasını teşhis etmek için hâlâ öğretmen gerekti
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
-- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — YZ iç girişimciliği: kendi araçlarını geliştiren fakülte ve bu dürtünün hayatta kalıp kalmadığına karar veren örgütsel etkinleştiriciler (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

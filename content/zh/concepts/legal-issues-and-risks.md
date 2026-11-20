@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -98,43 +100,3 @@ ai_assist:
 **"检测提供了程序所需要的证据。"** 检测提供的是一个分数。证据层面的问题是这项指控能否被举证，而[[ai-detection|检测文献]]表明这些工具既不给出一项纪律程序所需要的可靠性，也不给出它所需要的那类可解释分类。把程序建立在检测器上，就是把它建立在最薄弱的一环上。
 
 **"风险还只是假设，政策会跟上。"** 风险正在当下被不均衡地分配，而承受它们的恰恰是最无力质疑一项程序的学生。机构调查的能力与学生回应的能力之间的不对称，是当下的伤害而非未来的伤害。
-
-## 关联概念
-
-- [[academic-integrity]] — 其执行承载风险的行为框架
-- [[ai-detection]] — 错误指控案件核心的工具
-- [[remote-proctoring]] — 考评中的监控及其数据保护问题
-- [[assessment-validity]] — 证据能否支持从它得出的主张
-- [[privacy]] — 学生数据的收集、保留与后续处理
-- [[regulation]] — 机构必须履行的法定与监管义务
-- [[governance]] — 内部政策设计与执法一致性
-- [[educational-policy-ai]] — 机构 AI 政策作为意外风险的来源
-- [[ai-use-disclosure]] — 披露预期及其不可执行的边界
-- [[accessibility]] — 规则移除辅助工具时的合理调整
-- [[assistive-technology]] — 过度包含问题中心的工具
-- [[neurodiversity]] — 最易受过度宽泛禁令影响的学生
-- [[equity-in-ai-education]] — 检测与监控的差异化负担
-- [[student-experience]] — 先于法律代价的人的代价
-- [[hallucination-risk]] — 捏造依据作为职业与机构责任
-- [[reducing-ai-misuse]] — 相较于指控的预防性替代
-
-## 关联文章
-
-- [[munoz-misconduct-allegation-evidence-2026]] — 违规指控卷宗实际包含什么证据，以及自然正义要求
-- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器准确率、混合文本的失效与 EFL 误分类风险
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 检测工具在第二组文本样本上的可靠性
-- [[bassett-ai-detectors-education-2026]] — 为何没有哪个检测阈值是对的：错误权衡论证
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 证据变得不可检测时对违规程序的重新评估
-- [[wright-transcription-not-generation-2026]] — 过度包含的 AI 规则、残障便利与合理调整
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 远程监考的梳理，含隐私与监控关切
-- [[automated-online-exam-proctoring-decade-review-2026]] — 自动化监考研究的十年
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — AI 时代的学术不端与监考
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 政策清晰作为可辩护执法的前提
-- [[qian-governing-genai-higher-ed-policy-2026]] — 创新型美国大学的政策与支持生态
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 关于治理碎片化的专家共识
-- [[sharma-judgment-visible-genai-assessment-2026]] — 通过可见的判断而非监控实现诚信
-- [[shin-ai-policies-sld-2026]] — 特定学习障碍学生的政策空缺
-- [[li-genai-assessment-language-equity-2026]] — 语言公平作为规则设计问题：支持—替代边界、间接歧视与可复核性（Li 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 学生通过间接提示注入攻击 AI 评分器，分数在未被察觉的情况下被改变（Humble 2026）
-- [[coates-governing-academic-integrity-indicators-2025]] — 用于认证考评的治理指标与改革计划（Coates、Croucher 与 Calderon 2025）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 名美国教师：个人政策远超机构政策，结构性回应薄弱（Watson 与 Rainie 2026）

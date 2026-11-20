@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -58,7 +60,6 @@ ai_assist:
 - "اساتذہ AI استعمال کرنے میں بااعتماد ہیں" — ایک خود عقیدہ، قابلیت کا ثبوت نہیں۔
 
 اس تحقیق کو پڑھنے یا ڈیزائن کرنے والے کے لیے دو مضمرات ہیں۔ پہلا، یہ کہ خود رپورٹ کا آلہ اپنے نامزد تصور کی پیمائش کر رہا ہے یا نہیں، یہ ایک تجربی سوال ہے، جس کا جواب توثیق دیتی ہے، آئٹمز کی معقولیت نہیں۔ دوسرا، تعلیم میں AI میں لالچ کی سمت مستقل ہے: ٹولز کی جانچ اس سے ہوتی ہے کہ صارفین ان کے بارے میں کیسا محسوس کرتے ہیں، اور احساس ہی وہ حصہ ہے جسے خود رپورٹ سب سے سستے طریقے سے پکڑتی ہے۔ [[self-assessment]] اسی وسیع خاندان کا ایک رکن ہے، اس کا مترادف نہیں: جہاں خود رپورٹ پیمائشیں رویوں، اعتماد اور اطمینان تک پہنچتی ہیں، خود جانچ سیکھنے والے کے اندازے کو خاص طور پر اس کی اپنی مہارت، اعتماد یا سیکھنے پر لاگو کرتی ہے۔
-
 
 دوسرا ناکامی کا طریقہ دو خود رپورٹ تصورات کے درمیان تفریقی انہدام ہے: خود بتائی گئی AI قابلیت کو خود اعتمادی کے طور پر ناپے گئے سمجھے گئے رویوں کے کنٹرول کے ساتھ ریگریس کرنا ایک ہی عمومی اعتماد کے عنصر کا خود سے موازنہ ہو سکتا ہے، اسی لیے معیار پیشگی طے کیے جاتے ہیں — heterotrait–monotrait تناسب .85 سے کم اور ایک نیسٹڈ ماڈل جانچ جو قابلیت–کنٹرول تعلق کو یکتائی پر محدود کرے ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]])۔
 
@@ -107,7 +108,6 @@ ai_assist:
 
 ساتھ لے جانے والا نمونہ: جب سیکھنا مقصد ہو، تو اطمینان غلط چیزوں کا جواب دیتا ہے۔ جو نظام جلدی جواب دیتا ہے، فوراً متفق ہوتا ہے اور محنت کم کرتا ہے، اسے بلند درجہ ملے گا، اور یہی خصوصیات وہ ہیں جنہیں علمی ذخیرہ کم ہوتی [[desirable-difficulties|پیداواری رگڑ]] اور AI کی معاونت والے کام پر پھولی ہوئی کارکردگی سے جوڑتا ہے۔ بتایا گیا اطمینان اور ناپا گیا سیکھنا دشمن نہیں؛ وہ صرف ایک دوسرے کے متبادل نہیں، اور پہلے کو دوسرے کا ثبوت سمجھنا وہ سب سے عام پھسلاؤ ہے جسے یہ صفحہ دستاویز کرتا ہے۔
 
-
 **جنریٹو AI کی چھان بین کے ادب میں ادراک کی پیمائشیں مہارت کی پیمائشوں سے زیادہ ہیں۔** 66 مطالعات کے جائزے میں [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وغیرہ (2026)]] نے پایا کہ صارف کے ادراکات سب سے زیادہ رپورٹ شدہ نتیجہ کا شعبہ تھے (32 مطالعات، 48.5%)، اس کے بعد جذباتی نتائج 25 پر، جبکہ صرف 8 مطالعات (12.1%) نے چھان بین کی مہارتیں ناپیں اور ان میں سے 4 کے پاس موازنے کی شرط تھی۔ مصنفین نے ثبوت کی کوئی یقینیت درج نہیں کی، اس لیے ادراک کی گنتیاں یہ بتاتی ہیں کہ کیا پوچھا گیا، یہ نہیں کہ کیا حاصل ہوا۔
 
 ## خود رپورٹ آلہ قابلِ اعتبار کب ہوتا ہے
@@ -118,7 +118,6 @@ ai_assist:
 - **اعتماد اور ساخت۔** عنصری طور پر تصدیق شدہ آلات اس کارپس میں بار بار آتے ہیں، [[teacher-education-ai-literacy-sdt-2026|خود تعیناتی نظریے پر مبنی اساتذہ کی AI خواندگی کی پیمائشوں]] سے لے کر [[technology-acceptance-model|TAM]] اور SEM سے ماڈل کیے گئے قبولیت کے پیمانوں تک، جیسے [[acceptance-ai-english-tools-2026|AI کی معاونت والے زبان کے ٹولز کے مطالعات]] میں۔
 - **عدم تغیر، جب گروہوں کا موازنہ ہو۔** جو پیمانہ مختلف آبادیوں میں مختلف برتاؤ کرے وہ موازنے کی حمایت نہیں کر سکتا۔ [[same-ai-different-pathways|ملٹی گروپ SEM کام]] اپنے بالواسطہ اثرات کے ساتھ ساتھ پیمائشی عدم تغیر کی جانچ (تشکیلی، میٹرک، اسکیلر) رپورٹ کرتا ہے، اور [[genai-thoughtless-use-self-directed-learning-2026|سوئٹزرلینڈ–چین موازنے]] نے پایا کہ صرف داخلی قدر میٹرک عدم تغیر تک پہنچی، اسکیلر تک نہیں — یہ حد چھپائی نہیں گئی بلکہ بیان کی گئی، اور یہ محدود کرتی ہے کہ اس کے بین الملکی فرق کا مطلب کیا ہو سکتا ہے۔
 - **کارکردگی کا متبادل، جہاں قابلیت ہی تصور ہو۔** GLAT کے 20 کثیر الانتخابی آئٹم اسی لیے موجود ہیں کہ خود رپورٹ قابلیت کا دعویٰ نہیں اٹھا سکتی۔
-
 
 **اس میدان کے بیشتر آلات اعتماد رپورٹ کرتے ہیں اور تقریباً کوئی اعتبار رپورٹ نہیں کرتا۔** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وغیرہ (2026)]] Su وغیرہ کے 36 AI خواندگی مطالعات کے جائزے کا حوالہ دیتے ہیں، جس نے پایا کہ 63.8% آلات اعتماد کا ثبوت رپورٹ کرتے ہیں اور 20% سے کم اعتبار کا ثبوت۔ اسی جائزے نے 50 [[k-12|K-12]] فریم ورکوں میں صرف ایک جنریٹو AI سے مخصوص آلہ پایا، 27 آئٹمز والا GAIAS۔ یہ کہ کوئی پیمانہ اندرونی طور پر مستقل ہو، یہ نہیں بتاتا کہ وہ اُس تصور کی پیمائش کرتا ہے جو اس کے عنوان میں لکھا ہے۔
 
@@ -162,55 +161,3 @@ ai_assist:
 - **"سروے کا ثبوت کمزور ہے مگر تقریباً غیر جانبدار۔"** جواب کی ساخت تعصب سے پہلے اندازے کو محدود کرتی ہے: ایک سروے میں **112 جوابات 31% جواب کی شرح پر** آتے ہیں، یا **572 دعوتوں میں سے 90 جوابات**۔ جواب دہندگان کا مجموعہ ایک خود منتخب ذیلی مجموعہ ہے، اس لیے عدد اسی ذیلی مجموعے کو بیان کرتا ہے۔
 - **"اس میدان میں سروے اقلیتی طریقہ ہیں۔"** **394 GenAI اعلیٰ تعلیمی مطالعات** کے اسکوپنگ جائزے نے پایا کہ **سروے کے پیمانے سب سے زیادہ رپورٹ شدہ جانچ کا طریقہ تھے (269 مطالعات، 68.3%)**، جو امتحانات اور کوئز سے آگے ہیں۔ میدان کا غالب ثبوت خود رپورٹ ہے۔
 - **"خود رپورٹ اور ناپے گئے تصورات متفق ہوتے ہیں۔"** **خود بتایا گیا علمی بوجھ ان منتقلی پروفائلوں کے پار نمایاں طور پر مختلف نہیں تھا جو مضمون کی مصنفیت میں 80% سے 2% تک پھیلے ہوئے تھے**، جبکہ سب سے زیادہ منتقلی کرنے والے قابلِ پیمائش حد تک مختلف تھے۔ جہاں رویہ چالیس گنا بدلا، وہاں ساپیکش پیمائش ہموار رہی۔
-
-## منسلک تصورات
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## منسلک مضامین
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — ایک ارادے کا اسکور، دو متضاد استعمال
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — خود رپورٹ آلے کا انتظامی طریقہ بدلتا ہے کہ وہ کیا ناپتا ہے
-- [[capability-decision-model-teacher-readiness-2026]] — خود بتائی گئی AI قابلیت کو خود اعتمادی کے عقائد سے الگ کرنے کے تفریقی اعتبار کے معیار
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — ایجنٹک AI کے راستے کے ماڈل میں شمولیت ناپی گئی کارکردگی کے بجائے سمجھی گئی کارکردگی کی پیش گوئی کرتی ہے (Pramod اور Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — اساتذہ کی AI خواندگی کی متوازی خود رپورٹ اور معروضی پیمائشیں
-- [[jin-glat-genai-literacy-assessment]] — GLAT: خود رپورٹ کا کارکردگی پر مبنی متبادل
-- [[genai-student-experiences-uk-he-survey-2026]] — برطانوی اداروں میں طلبہ کے GenAI استعمال کا سروے
-- [[student-llm-interaction-taxonomy-review-2026]] — درجہ بندیاں اس بات سے تشکیل پاتی ہیں کہ ڈیٹا خود رپورٹ سے آیا یا لاگز سے
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI خواندگی کی خصوصیت بتانے والا عمل کا ڈیٹا
-- [[engagement-intensity-learner-modeling]] — خود بتایا گیا استعمال بطور سیکھنے والے کی ماڈلنگ کا اشارہ
-- [[predicting-attrition-competitive-programming]] — خود بتایا گیا اعتماد بمقابلہ مشق کا رویہ
-- [[ai-use-critical-thinking-medical-students-2026]] — یک ماخذ ثالثی ماڈل میں مشترکہ طریقہ تعصب
-- [[genai-motivation-engagement-2026]] — محرکات اور شمولیت کا صرف خود رپورٹ پر مبنی PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — AI استعمال اور اعتماد پر 81 طبیعیات انڈر گریجویٹس کا سروے
-- [[hawkins-feedback-literacy-ai-essay-writing]] — اسکرین ریکارڈنگ اور ابھارے گئے یاد کے بطور خود رپورٹ کا تدارک
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — خود ضابطگی سیکھنے پر خود رپورٹ کے ساتھ نشان ڈیٹا
-- [[adaptive-pretesting-retention]] — لاگز سے اخذ کردہ رویے کی محنت کے اشارے
-- [[ai-vocational-education-training-review]] — خود رپورٹ/معروضی پیمائش کے عدم توازن کی رپورٹ دینے والا جائزہ
-- [[student-genai-use-views-writing|تحریر کے لیے GenAI کا طالب علم استعمال اور رائے]] — ایک سماجیات شعبے میں سروے کے ساتھ انٹرویوز
-- [[competent-generative-ai-use-measures-review-2026]] — AI خواندگی سے آگے: قابلِ استعمال جنریٹو AI استعمال کے پیمانوں کا منظم جائزہ اور تلاشی میٹا تجزیہ
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI سے منسلک علمی منتقلی کے لیے رازداری بچانے والا خود عکاسی کا آلہ
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — بالائی پرائمری طلبہ کے لیے 15 آئٹمز والا خود جانچ آلہ، جو صریح ہے کہ سمجھی گئی قابلیت کیا ثابت کر سکتی ہے
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — جائزہ جو پاتا ہے کہ اساتذہ کی AI خواندگی کے 33 میں سے 31 آلات خود رپورٹ ہیں اور کوئی کارکردگی پر مبنی نہیں
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — خود رپورٹ سے اخذ کیے گئے پروفائل اسی طرح برتاؤ کرتے ہیں
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — ہم تصور خود رپورٹ بمقابلہ کارکردگی کے اختلاف پر شرح لگانے والا دو مرحلوں کا جائزہ (Fan وغیرہ 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — سمجھی گئی ملکیت نے پوری مضمون کی تفویض کو باقی سب سے الگ کیا، جبکہ نشان نے بہت زیادہ الگ کیا (Jelson وغیرہ 2026)
-- [[huang-genai-academic-information-resources-2026]] — لائبریری کے لاگز اور سروے کے رویّے مختلف سمتیں دکھاتے ہیں
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66 میں سے 32 مطالعات میں ادراکات بتائے گئے، جبکہ 8 نے چھان بین کی مہارتیں ناپیں
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - AI خواندگی کے 63.8% آلات اعتماد کا ثبوت رپورٹ کرتے ہیں اور 20% سے کم اعتبار کا

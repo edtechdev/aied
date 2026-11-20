@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -61,29 +63,3 @@ ai_assist:
 - **"מודל שמציין טוב מודד את אותו הדבר."** על **אותו מכשיר הערכה**, מבני התגובה של בני אדם ושל מודלים לשוניים גדולים **מתפזרים** — מודל יכול לציין טוב ובכל זאת למדוד משהו אחר ממה שהמכשיר מתכוון. התאמת ציונים היא התצפית; שקילות מבנה היא טענה נפרדת שדורשת ראיה ברמת המבנה.
 - **"כיול ניתן לקרוא מהנתון דיוק בודד."** **נתון דיוק בודד יכול להסתיר מודל שרק נראה מכויל**: בקשה מ-GPT-4o ומ-Gemini 2.0 Flash להסיק ממדים של סגנון למידה מדיאלוגים של **153 סטודנטים לתואר ראשון** הניבה **דיוק בינוני שהתנהג אחרת תחת מדדים מאוזנים**. דיוק מצטבר הסתיר דיפרנציאל שמדדים מאוזנים חשפו.
 - **"צנרות ציון אוטומטיות אינן יכולות לשחזר הליך פסיכומטרי."** המחברים שיחזרו צנרת מבוססת בצורה אוטומטית (**67% סבירות של מענה נכון על לפחות 7 פריטי מחוון לקיפול הנמוך ולפחות 10 לגבוה**), ומאפשרים להשוות ציוני פריט של AI ואנושיים על אותו בסיס. ההליך היה ניתן לשחזור; שאלת המבנה נותרת.
-
-## מושגים מחוברים
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## מאמרים מחוברים
-- [[genai-reliance-scale-problem-solving-2026]] — A validated scale for students’ reliance on generative AI during problem solving (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate accuracy was majority-class prediction once per-class recall was checked (Zamanifard, Goudarzi & Robb 2026)

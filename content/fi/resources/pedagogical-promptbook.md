@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -37,6 +38,3 @@ Luvut kattavat [[learning-design|opetussuunnittelun]] ja opetuskäytännön eiv�
 ## Mitä on tiedettävä ennen käyttöä
 
 Kirja on avoimesti saatavilla CC BY -lisenssillä, mikä on opetusmateriaalien sallivin pää: opettajat voivat kopioida, mukauttaa ja käyttää [[prompt-engineering|kehotteita]], myös kaupallisesti, kunhan he nimeävät ne asianmukaisesti. Tämä tekee suoraviivaiseksi kehotteen lokalisoimisen tiettyä kurssia tai [[pedagogical-agent|agenttikokoonpanoa]] varten, mitä vastaavien kokoelmien rajoittavammat lisenssit eivät salli. Sen on julkaissut EdTech Books vuonna 2026 PDF-latauksella ja DOI-tunnuksella 10.59668/2340, ja sen on toimittanut David Wiley. Koska jokainen luku raportoi arviointiasetelman tuloksen ohella, se toimii myös mallina opettajille, jotka haluavat testata omia kehotteitaan jonkun toisen harkinnan omaksumisen sijaan.
-
-## Liittyvät käsitteet
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

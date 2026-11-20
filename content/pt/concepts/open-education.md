@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa.*
@@ -92,42 +94,3 @@ O segundo lembra que um sistema generativo pode ser aberto e seu conteúdo, fech
 **"A IA torna o conteúdo tão barato que os REA ficam obsoletos."** A leitura oposta está disponível e é mais bem sustentada. Se a geração é quase gratuita, os bens escassos passam a ser a licença, a trilha de atribuição, o processo de revisão e a plataforma mantida. É por isso que essa literatura converge para governança e infraestrutura, e não para produção.
 
 **"Acrescentar ferramentas de IA a uma tarefa aberta melhora a aprendizagem."** O único teste quase experimental aqui encontrou crescimento percebido de habilidade nos dois braços, sem diferença detectável entre eles, junto com conclusão mais alta e notas marginalmente menores na turma com IA. A IA mudou o que os estudantes produziram e não mudou o que relataram aprender.
-
-## Conceitos conectados
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Artigos conectados
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Cinco enquadramentos para os REA quando a IA generativa entra na produção (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — REA como bens públicos digitais e o argumento da infraestrutura governada (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Por que vinte e cinco anos de abertura deixaram intacto o centro institucional (Deimann e Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Pedagogia aberta com e sem ferramentas de IA em duas turmas (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Quatorze modelos de prática educacional aberta e onde a IA se situa neles (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — Letramento em IA de professores e prática de ensino aberto em 30 províncias chinesas (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — Um quadro de sete pilares para a integração responsável de REA e IA (Rodés-Paragarino e Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Mentoria e produção de REA com IA em um laboratório virtual (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — Uma rubrica de sete princípios para revisar REA de letramento em IA (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Interatividade em REA como argumento de design e não como achado (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Cooperação internacional em educação aberta como caso instrumental (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — Um recomendador híbrido para REA diante de uma linha de base mais forte do que se alega (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Transformação digital na aprendizagem aberta como transformação pedagógica (Panda, 2026)
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Abordagem para o ensino de física usando IA local com RAG para geração de materiais educacionais abertos (Beznosko et al., 2026)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — O texto responde: REA aprimorado por chatbot em Composition II assíncrona (Powell et al., 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — Do prompt à prática: uma iniciativa centrada no corpo docente para explorar a criação de REA apoiada por IA (Jordan et al., 2025)

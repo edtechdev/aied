@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,16 +48,3 @@ Giảng viên ở nhiều ngành, đặc biệt trong giáo dục đại học v
 ## Ghi chú và lưu ý
 
 Đây là hướng dẫn thực hành, không phải nghiên cứu thực nghiệm; những tuyên bố về việc sinh viên dùng AI dựa trên các nguồn bên ngoài được trích dẫn (BestColleges, Campbell, Digital Education Council, Flaherty) chứ không phải dữ liệu mới. Khuôn khổ "kiến tạo mạng lưới" và cách đóng khung "ảo tưởng về hiểu biết" được lấy từ tài liệu rộng hơn (Wigmore và cộng sự; Williamson và cộng sự) và được trình bày như lý lẽ sư phạm, không phải kết quả đã kiểm nghiệm của chính sổ tay. Các bài tập là mẫu do tác giả soạn — không bài nào được báo cáo kèm cỡ hiệu ứng, nên cần coi chúng là những thiết kế để điều chỉnh và đánh giá tại chỗ. Xuất bản 2026-10-07, v1, trên Zenodo theo CC BY 4.0; tải miễn phí không cần tài khoản. Tính đến thời điểm thu thập, bản ghi chỉ có khoảng 35 lượt xem và khoảng 14 lượt tải, nên nó chưa được dùng hay bình duyệt nhiều ở bên ngoài.
-
-## Khái niệm liên quan
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

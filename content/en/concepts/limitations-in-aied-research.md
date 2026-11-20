@@ -12,6 +12,8 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 > **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Methodological limits are measurable rather than impressionistic: in a critical review of 80 HCI studies of [[critical-thinking|critical thinking]] with AI, 42 (52%) ran no control group and most of the rest relied on self-report, so the field's positive findings rest on designs that cannot separate AI's effect from ordinary reflection ([[critical-review-critical-thinking-hci-research-ai-2026|Inie et al., 2026]]). Outcome coding is uneven in the same way: a systematic review of 103 higher-education studies sorted those 103 studies into a four-level outcome typology and placed 56% of it in a single conditional pattern, where confidence and motivation rose without a matching gain in durable competence ([[generative-ai-higher-education-systematic-review-2026|Hawi et al., 2026]]).. Recognizing these limits is essential for reading the literature critically and for designing stronger studies.
@@ -35,10 +37,8 @@ The [[research-methods-aied|research methods]] literature details the strengths 
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
 
-
 - **Cross-national belief comparisons carry a measurement risk.** A five-country survey of 1,405 [[k-12]] teachers used automated machine translation without back-translation or measurement-invariance testing and measured [[academic-integrity|plagiarism]] and [[creativity|creativity]] concern with single items, so its country contrasts cannot be read as equivalent constructs ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 - **Synthesis-level rigor is a separate axis from primary-study rigor.** A meta-analysis can satisfy its own inclusion criteria and still pool studies that differ in design, implementation fidelity and outcome measure without weighting any of that. [[ai-supported-instruction-stem-meta-analysis-2026|Doğan and colleagues (2026)]] state plainly that they used no formal quality appraisal tool and treated the inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally to the pooled [[stem-education|STEM]] estimate. Heterogeneity is model-dependent, so a single quoted figure misleads: the same data yield I² = 82.98% under a fixed-effect model and 15.75% under random effects, leaving a reader unable to judge how inconsistent the pooled evidence is. Appraise a synthesis on how it handled dependent effect sizes, quality, and heterogeneity, not only on whether it followed a search protocol.
-
 
 - **Retrieval design sets a synthesis's headline numbers.** In a scoping review of 195 [[teacher-education|teacher education]] studies, digital competence and [[tpack|TPACK]] were explicit search descriptors while instructional design and assessment had no equivalent, so the reported 46.5% and 1.9% characterize the studies the search returned rather than the field ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
@@ -122,49 +122,3 @@ A practical consequence of these limits is that several widely used educational 
 - **"Limitations sections are boilerplate."** Methodological limits are **measurable rather than impressionistic**: in a critical review of **80 HCI studies** of critical thinking with AI, **42 (52%) ran no control group**. A precise count is what makes the limit actionable.
 - **"Heterogeneity is a single number you can quote."** The same review shows a reporting hazard: heterogeneity is quoted as **I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model**. The same data yields a nine-point story or a two-point story depending on the model chosen, so a quoted I² without its model is uninterpretable.
 - **"A large reported effect is the number to trust."** A headline like an effect from **30 students in one course at one site** is the common form of a fragile claim, and the count of studies without controls shows how often that fragility goes unreported.
-
-## Connected Concepts
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-
-## Connected Articles
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
-- [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
-- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: publication-bias-adjusted AI effects ~1/3 of reported size
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and a heterogeneity figure that changes with the model (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — A cluster-randomized classroom trial whose performance outcome did not reach significance (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Data augmentation can manufacture the headline metric
-- [[tischkau-ai-simulated-patient-formats-2026]] — Feasibility as its own outcome class: 26% recruitment, 100% completion, outcomes defined after collection

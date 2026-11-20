@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -100,34 +102,3 @@ ai_assist:
 **“如果 AI 正在损害孩子的学习，家长会察觉。”** 他们恰恰是最难察觉的人。在 [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu（2026）]] 的数据中，作业分数在六个月内上升了 **18%**，而 [[summative-assessment|闭卷考试]] 分数下降了 **20%**，在家中可见的正是那个上升的数字。看着作业的家长看到的是进步，而持久的结果在下降。
 
 **“家中的 AI 使用是一个家长许可问题。”** 它是素养与倡导问题。家长自身的 AI 素养决定了他们能对学校配发的工具提出什么质询，而家庭之间的接入不平等决定了哪些孩子能获得成人的中介。
-
-## 关联概念
-
-- [[developmental-psychology]]
-- [[stakeholders]] — 教育中 AI 受众与行动者的总括页面
-- [[early-childhood-elementary-ai-education]] — 家庭与家庭使用被研究得最多的发展阶段领域
-- [[ai-use-disclosure]] — 披露实践，以及什么能传到家庭的问题
-- [[ai-literacy]] — 家长自身的能力，以及定义这些能力的校本框架
-- [[equity-in-ai-education]] — 收益与负担如何在家庭之间分配
-- [[digital-divide]] — 接入、技能与结果各层在家庭中的体现
-- [[conversational-ai]] — AI 在家庭场景中采取的主要形态
-- [[self-determination-theory]] — 作为家庭指导框架的自主性支持
-- [[cognitive-offloading]] — 依赖式与自主式卸载，以及家长为何看不出差别
-- [[intelligent-tutoring]] — AI 中介亲子辅导背后的模型
-
-## 关联文章
-
-- [[ai-connectedness-adolescent-mental-health-2026]] — 青少年与 AI 的联结，以及 AI 纽带何时替代未被满足的照护者承认
-- [[paratutor-parent-child-tutoring]] — 面向中国家庭数学辅导中 23 组亲子二人组的角色分离 LLM 支持
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 固定同伴角色伙伴与教师在台湾 19 名小学生中的对比
-- [[family-school-autonomy-support-genai-2026]] — 把家校协同当作未经检验假设的综述
-- [[raise-framework-ai-education-reporting-2026]] — 覆盖知情同意、参与者背景与接入公平的报告义务
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 名教师谈管辖、家长与孩子和 AI 伙伴的关系
-- [[ai-play-framework-early-childhood-2026]] — 通过以家庭为中心的编程一小时活动检验的不插电 AI 素养
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 家长为受访者之一；非正式场景中的工具成本与语言门槛
-- [[creative-project-approach-ai-early-childhood-2025]] — 面向幼儿的实体智能体，附成本、接入与隐私方面的注意事项
-- [[demir-akar-ai-media-literacy-children-2026]] — 面向 36 名四年级学生的数据隐私、安全交流与媒体伦理校本课程
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 取消面向家庭的步骤后采用率从 45% 升至 83%
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 作业外包、考试下滑，以及监测投入的理由
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 年龄无关的 AI 素养层级与三层数字鸿沟
-- [[llm-family-education-activity-theory-2026]] — 通过活动理论视角刻画基于 LLM 的家庭教育：HCI 文献范围综述

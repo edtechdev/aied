@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -43,9 +44,3 @@ Docenti che decidono se lasciare che uno strumento di correzione rilasci voti se
 ## Note e avvertenze
 
 GradeBench è pubblicato da Pensive, una piattaforma commerciale di correzione con IA, quindi il benchmark e il prodotto condividono lo stesso proprietario; la costruzione dei task è documentata e difendibile, ma considera l'inquadramento come quello del fornitore. Copre esami STEM con rubriche di almeno quattro item, il che esclude saggi, risposte brevi e post di discussione — i formati in cui avviene la maggior parte della correzione nelle [[humanities-education|discipline umanistiche]]. La corrispondenza esatta con la rubrica è una metrica severa: due correttori possono essere in disaccordo su un item ed entrambi avere ragione sullo studente. I punteggi descrivono versioni di modelli disponibili a novembre 2026 e cambieranno.
-
-## Concetti collegati
-
-- [[automated-assessment]] — la pratica che il benchmark misura
-- [[assessment-validity]] — il criterio di cui un punteggio in classifica è un proxy
-- [[benchmark]] — la classe più ampia di strumenti a cui appartiene

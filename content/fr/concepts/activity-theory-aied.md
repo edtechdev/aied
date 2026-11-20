@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -90,26 +92,3 @@ Pour les concepteurs et les éducateurs, la théorie de l'activité conseille de
 **« Si l'on change les croyances de l'enseignant, la pratique suivra. »** L'unité du changement est plus grande que la personne. Les interventions qui modifient les normes, la répartition de la charge de travail et les règles partagées changent la pratique plus fiablement que celles qui visent la conviction individuelle, parce que l'objet de l'activité se produit collectivement. Cela explique aussi pourquoi les adoptants individuellement enthousiastes reviennent en arrière lorsque leur département ne bouge pas avec eux.
 
 **« La théorie de l'activité est une lentille descriptive sans conséquences pour la conception. »** Elle oriente la conception vers les contradictions entre les éléments du système — l'outil qui entre en conflit avec les règles, la division du travail qui entre en conflit avec l'objet —, c'est-à-dire là où le changement s'actionne réellement. Une lentille qui localise les contradictions vous donne un endroit où intervenir, pas seulement un vocabulaire.
-
-## Concepts liés
-- [[sociocultural-learning]] — la famille théorique à laquelle appartient la théorie de l'activité (vygotskienne, historico-culturelle)
-- [[learning-theories]] — le nœud qui situe la théorie de l'activité parmi les théories de l'apprentissage
-- [[distributed-cognition]] — insistance partagée sur une cognition médiée par les outils et distribuée contextuellement
-- [[situated-learning]] — insistance partagée sur le contexte et la participation à l'activité
-- [[agency]] — comment l'IA redistribue l'autonomie humaine dans le système d'activité
-- [[teacher-role]] — la théorie de l'activité analyse fréquemment l'adoption et la pratique des enseignants
-- [[learning-analytics]] — la CHAT ancre la conception de l'analytique
-- [[generative-ai]] — l'artefact d'IA qui entre dans les systèmes d'activité éducatifs et les perturbe
-- [[technology-acceptance-model]] — le compte concurrent de l'adoption fondé sur les croyances individuelles
-
-## Articles liés
-- [[jiang-genai-activity-theory-disciplines-2026]] — Différences disciplinaires dans l'usage et la déclaration de GenAI vus à travers la lentille de la théorie de l'activité
-- [[genai-runaway-object-math-higher-ed]] — Analyse par la CHAT de GenAI refaçonnant les systèmes d'activité d'enseignement et de recherche
-- [[raffaghelli-situated-ai-ethics-2026]] — Une éthique situationnelle de l'IA fusionnant la théorie des systèmes écologiques et la CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — La théorie de l'activité comme lentille sur l'adoption de l'IA par les enseignants (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Les perspectives des enseignants du primaire et du secondaire sur l'usage de l'IA vues par la théorie de l'activité
-- [[ai-disruption-engineering-education-chat-2026]] — Le changement des normes étudiantes dans l'enseignement de l'ingénierie par la CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Refonte CHAT-SDT du développement professionnel des enseignants
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — Pipeline d'analytique de l'apprentissage ancré dans la CHAT pour la littératie en IA
-- [[llm-family-education-activity-theory-2026]] — Revue de cadrage de 53 études d'IHM : les LLM ont redistribué le travail éducatif familial, les règles étant surtout anticipées plutôt que mises en œuvre
-- [[generative-ai-mediational-agent-sociocultural-2026]] — L'IA générative comme agent médiationnel : ni outil ni collaborateur

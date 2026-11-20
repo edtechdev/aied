@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -156,41 +158,3 @@ Powyższe kontrole nie są mądrością ludową; pochodzą z udokumentowanych po
 **„Wyższe oceny przy korzystaniu z narzędzia oznaczają, że narzędzie nauczyło więcej".** W jednym badaniu matematyki w [[k-12|K-12]] studenci ćwiczący z ogólnego przeznaczenia [[conversational-ai|chatbotem]] uzyskali lepsze oceny z ćwiczeń, a potem wypadli **około 17% gorzej** w ocenianiu bez wsparcia. Wynik ćwiczeń mierzony z obecnym narzędziem jest miarą zawyżoną; wynik bez wsparcia jest wynikiem, a rosnął tylko jeden z nich.
 
 **„Jeśli efekt jest realny, szczegóły wdrożenia nie mają większego znaczenia".** To one są efektem. Badanie, które objęło 30 studentów na jednym kursie w jednej instytucji, na wersji narzędzia, której nikt już nie używa, dało ustalenie o konfiguracji, która już nie istnieje. Specyfikacja warunku, wersja i otoczenie są częścią twierdzenia, a nie kontekstem wokół niego.
-
-## Połączone koncepcje
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Badania edukacyjne wspomagane przez SI
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Połączone artykuły
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Przypuszczalnie skuteczne: audyt forensyczny 14 metaanaliz AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Efekty SI skorygowane o stronniczość publikacyjną to około jednej trzeciej raportowanej wielkości
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT w edukacji: efekt szukający przyczyny
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kryteria włączenia jako próg rygoru i heterogeniczność, która zmienia się z modelem
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Gdy rzetelność automatycznego oceniania spotyka pułap pomiarowy zadania
-- [[verification-quality-reliance-calibration-genai-2026]] — Czego literatura o weryfikacji i poleganiu nie mierzy
-- [[citation-errors-hallucinations-computing-education-2026]] — Sfabrykowane referencje, które trafiły do druku w latach 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Zyski z ćwiczeń, straty na egzaminie: problem usuwania wsparcia w matematyce K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Efekty podgrupowe, których przedziały ufności przechodzą przez zero
-- [[chick-faculty-development-ethical-ai-2026]] — Warunki umożliwiające: sygnały polityki, osobiste subskrypcje, brak czasu
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Wskaźniki dostawcy z ujawnioną kalibracją i liczbą eksperymentów
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Ustalenia powiązane z wersjami modeli i zmienność dziedziny
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Liczba niezależnych dowodów dla 16 produktów SI skierowanych do uczniów, już używanych
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Przegląd może skwantyfikować stronniczość raportowania we własnym korpusie

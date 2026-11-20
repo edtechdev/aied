@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -39,7 +40,3 @@ ai_assist:
 
 ## Σημειώσεις
 Η πρόσβαση στον δημιουργό είναι φραγμένη: η σελίδα εκκίνησης ζητά διεύθυνση email και θέση σε εργαστήριο υποδοχής, ή κωδικό πρόσκλησης. Οι ισχυρισμοί συμμόρφωσής του (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), η υπόσχεση ότι η δουλειά σας δεν εκπαιδεύει ποτέ εξωτερικά μοντέλα και η εκχώρηση δικαιωμάτων εξόδου στον δημιουργό ανήκουν στη συμφωνία επεξεργασίας δεδομένων, όχι μόνο στη σελίδα μάρκετινγκ· η σύγκριση δυνατοτήτων του απέναντι στο MagicSchool και στα μεγάλα chatbots είναι του ίδιου του Playlab, με ημερομηνία τα μέσα του 2026. Προέκυψε από εργασία προγραμματισμού τελικού χρήστη συνδεδεμένη με το Scratch και το MIT Media Lab.
-
-## Συνδεδεμένες έννοιες
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

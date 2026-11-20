@@ -15,6 +15,8 @@ ai_assist:
 translation_of: concepts/executive-function
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,35 +107,3 @@ Ayasrah 及其同事为该构念提供了一件测量工具，它由对 18 位�
 - "AI 使用越多意味着执行功能越弱。" Sharma 及其同事发现这种关联是经由学业压力发生的，而横断面设计无法确定方向。依赖与能力丧失是相关，而不是已被证明的因果。
 - "执行功能是一件可测量的事。" 卡片分类、Flanker 测验与自评量表测量的是不同过程，且常常不一致。
 - "自评量表能诊断缺陷。" EFB-LDS-AI 测量的是自报的依赖与感知到的努力减少，其作者明确把它与临床缺陷区分开。
-
-## 关联概念
-
-- [[metacognition]] — 知识与监控，区别于负荷之下的能力
-- [[cognitive-offloading]] — 任务交给模型时被委托出去的东西
-- [[self-regulated-learning]] — 计划与监控应用于自己的学习
-- [[cognitive-psychology]] — 工作记忆及其衍生出的任务测量
-- [[developmental-psychology]] — 该构念在童年期如何变化
-- [[special-education]] — 支持、合理便利与两者的伦理
-- [[neurodiversity]] — 讨论 ADHD 支持所处的框架
-- [[scaffolding]] — 略微超出独立能力范围的支持
-- [[assistive-technology]] — 对某种能力加以补偿的工具
-- [[conversational-ai]] — 多数训练研究采用的交付形式
-- [[generative-ai]] — 这里测量其依赖程度的工具
-- [[teacher-role]] — 依赖可能让位的那种支持
-- [[higher-ed]] — 多数测量工作完成的地方
-- [[k-12]] — 在青少年中测量依赖的地方
-- [[longitudinal-research]] — 这批证据最缺少的设计
-
-## 关联文章
-
-- [[genai-reliance-executive-functioning-2026]] — 青少年对生成式 AI 的依赖被定义为偏好而非努力
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 补偿、支架与发展作为三种工具功能
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 十项聊天机器人研究，1,606 名参与者，最多一个月的追踪
-- [[sidorkin-extended-executive-cognition-2025]] — 延展执行认知作为高等教育学习成果（框架）
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 认知灵活性预测面试等级，抑制则不能
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — 一份 35 条目的自评量表，测量 AI 中介的学习困难
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — 面向 ADHD 学生的 AI 支持，并点名其中的伦理取舍
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 学业压力中介 ChatGPT 依赖与执行功能障碍
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人在扫描仪中与 ChatGPT 对话
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 生成式 AI 时代的认知外包：把外包与执行功能联系起来的综述
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 记笔记在延迟理解与回忆上胜过聊天机器人

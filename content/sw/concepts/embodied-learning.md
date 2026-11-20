@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,7 +47,6 @@ Kujifunza kwa mwili kunahusiana kwa karibu na [[active-learning]], [[experientia
 
 - **Mwezeshaji wa lugha pekee huvuta uchunguzi kuelekea kile kinachoweza kusemwa.** Katika maabara ya shahada ya uzamili ya fluid-statics, wanafunzi walijenga mfano wa buoyancy kwa mikono kabla mwezeshaji aliyetegemea Gemini hajaunga ili kuutumia kwenye jambo jipya. Katika jozi tatu AI ilishikilia mlolongo wa ISLE, lakini iliposukumwa "tuambie tu" ilizalisha thamani za misa ambazo hakuna aliyepima, na mshiriki mmoja wa mbali alikamilisha mzunguko sahihi kimwili ambao ulikuwa safi lakini bila mwili ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). Somo la ubuni ni mfuatano badala ya uingizwaji: jenga mfano katika mwili kwanza, kisha acha mfano wa lugha ufanye kazi ya kuutumia.
 
-
 ### Akili ya uwili na ukosoaji wa AI isiyo na mwili
 
 Mnyororo wa pili, wa kina zaidi wa nadharia, wa utafiti wa uwili wa hifadhi ya maarifa unahusu jukumu la *mwili* katika kujifunza kunakosaidiwa na [[sociocultural-learning|AI]] — si kupitia roboti za kimwili, bali kupitia swali la iwapo mifumo ya [[ai-technologies|AI]] yenyewe ni (au inaweza kuwa) ya uwili. Kazi hii inachanganya utawala wa mifano ya AI ya kielelezo, isiyo na mwili iliyojengwa juu ya usindikaji wa taarifa za kufikiri:
@@ -58,7 +59,6 @@ Mnyororo wa pili, wa kina zaidi wa nadharia, wa utafiti wa uwili wa hifadhi ya m
 
 - **Fasihi yenye mwili zaidi hupima mwili kidogo zaidi.** Kati ya lebo 32 za matokeo, matokeo ya kiakili yalichukua 43.8%, ya kihisia 34.4% na ya kiakili-mwendo 21.9%, mpangilio ulioshikilia kati ya karatasi 16 zilizokadiriwa juu zaidi (24.0% ya lebo 25). Waandishi wanalishutumu ugumu wa kuchagua vipimo vya kiakili-mwendo na tabia ya kutanguliza faida za kiakili, si athari dhaifu kwa ujuzi wa mwili. Hakuna mfumo uliopitiwa ulioundwa kwa wanafunzi wanaotenda pamoja; ushirikiano unaoonekana ni ushirikiano kati ya [[teacher-role|mwalimu]] na AI ([[kim-ai-embodied-learning-review-2026|Kim na Han (2026)]]).
 
-
 Kujifunza kwa mwili kinaungana na [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], na [[social-emotional-learning]].
 
 ## Dhana Potofu za Kawaida
@@ -66,35 +66,3 @@ Kujifunza kwa mwili kinaungana na [[educational-robotics]], [[educational-roboti
 - **"Mwili ndio unaofanya kujifunza kwa mwili kufanya kazi."** Uchanganuzi wa jumla wa **masudio 11 ya RALL (N = 595, g = 0.83, I² = 84.4%)** uligundua kwamba **umbo la roboti, namna, uhuru na jukumu la kijamii hakuruhusu** matokeo ya kujifunza [[language-learning|lugha ya pili]]. Sifa za umwilisho hazikuwa kiungo tendaji, na utofauti ulikuwa mkubwa vya kutosha (I² = 84.4%) kwamba athari iliyounganishwa inaeleza seti mchanganyiko sana ya uingiliaji.
 - **"Athari kubwa hutatua utaratibu."** g = 0.83 na washiriki 595 katika masudio 11 ni ishara halisi na haitambui kile iliyoizalisha. Kwa kuwa sifa za ubuni hazikuruhusu athari, utaratibu unaowezekana upo katika shughuli ya ufundishaji badala ya vifaa, jambo linalobadilisha kile cha kuwekeza.
 - **"Umwilisho hauwezi kupimwa, hivyo unabaki wa kinadharia."** Ufuatiliaji wa mwili unaweza kugeuza udhibiti kuwa **ishara inayopimika**: katika uigaji wa mseto wa uhalisia wa usanisinuru ambapo lebo za mwendo zilisogeza mawakala wa wanafunzi katika mfano ulioonyeshwa, mtiririko wa LLM uliweka lebo **sehemu 470** za tabia ya udhibiti. Kigezo kinaweza kutekelezwa hata pale ambapo ni vigumu kukifafanua.
-
-## Dhana Zilizounganishwa
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — mtindo ambao unajaribu kutumia uwili moja kwa moja
-
-## Makala Zilizounganishwa
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis ya kujifunza lugha kwa roboti ya uwili lililoboreshwa na AI
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Uigaji wa usanisinuru unaofuatiliwa kwa mwendo ukichanganuliwa kwa mtiririko wa LLM (Fonteles et al. 2026)
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI kama mwezeshaji baada ya mifano iliyojengwa kwa mkono: AI ya msingi wa lugha haiwezi kufuata uchunguzi wa mwili (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — AI katika kujifunza kwa mwili mara nyingi huchunguza tu: majukumu ya kuhisi 62.5% ya lebo za jukumu, na hakuna mfumo uliopitiwa uliounganisha mitiririko ya hali nyingi wakati wanafunzi wakiitumia (Kim & Han 2026)
-

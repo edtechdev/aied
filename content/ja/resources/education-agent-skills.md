@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -42,8 +43,3 @@ ai_assist:
 ## 注記と注意点
 
 教育スキル、ドキュメント、カリキュラム資料は CC BY-SA 4.0 でライセンスされているため、再利用と翻案は開かれていますが、派生物には同じライセンスを付す必要があります。デプロイする場合に重要な運用上の詳細が 2 つあります。ホストされた MCP エンドポイントは誰にでも開かれているわけではなくトークンを必要とし、サーバーは SKILL.md ファイルではなくコミット済みのスナップショットを提供するため、バンドルを再ビルドしてコミットせずに追加したスキルは、再デプロイしてもライブサーバーには現れません。このライブラリは、教育者でありカリキュラム設計者でもある Gareth Manning によって構築されており、ライセンス条件は特に教育コンテンツに適用されます。
-
-## 関連する概念
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

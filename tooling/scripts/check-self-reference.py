@@ -59,13 +59,17 @@ def changed_files():
         ["git", "-C", WIKI, "status", "--porcelain"], capture_output=True, text=True
     ).stdout
     files = []
+    rels = []
     for line in out.splitlines():
         if not line.strip():
             continue
         path = line[3:].strip()
         if path.startswith(f"content/{LOCALE}/") and path.endswith(".md"):
-            files.append(os.path.join(WIKI, path))
-    return files
+            rels.append(path)
+    # A connected-list-only migration does not touch the prose this gate checks.
+    import connected_migration
+    skip = connected_migration.migration_only_set(rels)
+    return [os.path.join(WIKI, p) for p in rels if p not in skip]
 
 
 def all_files():

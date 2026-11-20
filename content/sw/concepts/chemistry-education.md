@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -69,40 +71,3 @@ Elimu ya kemia inakaa ndani ya uwanja mpana wa [[stem-education]] na inashiriki 
 **"Kuongeza AI kwenye somo la uchunguzi lililopo hakuwezi kudhuru."** Kunaweza, na ulinganisho unaoonyesha faida ni mwembamba zaidi kuliko unavyosikika. [[context-based-ai-secondary-chemistry-2026|Abdikayumova na Madybekova]] waliunganisha **mfumo wa mafunzo wa 7E** na simulizi za PhET *na* ufundishaji wa ChatGPT kwa kemia ya Daraja 10 na wakapata mafanikio na ushirikiano wa juu zaidi kuliko uchunguzi peke yake au mafunzo ya kawaida. Tiba ni mchanganyiko uliopangwa, yaani mfumo wa mafunzo pamoja na simulizi pamoja na ufundishaji, na si chatbot peke yake, na chatbot iliyoongezwa kwenye uchunguzi usiopangwa haijajaribiwa na tokeo hilo.
 
 **"Kemia ni somo ambapo jibu linaweza kuthibitishwa, kwa hivyo makosa ya AI hayana madhara."** Majibu yanayoweza kuthibitishwa ndiyo njia ambayo mawazo potofu hupita bila kuonekana: mwanafunzi anayepokea thamani sahihi kutoka kwa mfano uliofikiri vibaya hana njia ya kugundua upungufu huo, na tathmini inarekodi mafanikio. Katika taaluma ya kihisabati, kipimo kinachoweza kuthibitishwa ni ushahidi hafifu zaidi unaopatikana wa ufahamu.
-
-## Dhana Zinazohusiana
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Elimu ya Baiolojia na AI: wasaidizi wa ufundishaji wa maabara, ujuzi wa AI katika baiolojia, mawazo ya kushindua, zana mahususi
-
-## Makala Zinazohusiana
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

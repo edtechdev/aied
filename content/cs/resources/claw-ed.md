@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -42,6 +43,3 @@ Projekt je záměrně nezávislý na modelu. Dokumentuje vedle sebe lokální mo
 ## Poznámky a upozornění
 
 Software je zdarma a [[open-source|open source]] pod licencí MIT pro svůj původní kód, ovšem komponenty třetích stran si zachovávají vlastní podmínky, a provoz znamená platit za vlastní inferenci modelu, pokud použijete hostovaný model. Projekt se označuje za učiteli recenzovanou betu a v README výslovně uvádí, že projití CI neprokazuje kvalitu výuky u živých modelů; to je správný způsob, jak v této oblasti číst zelenou sadu testů: ověřuje software, nikoli [[pedagogy|pedagogiku]]. Udržuje jej MacxLabs a přijímá učiteli recenzované vzorové hodiny jako příspěvky.
-
-## Související pojmy
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

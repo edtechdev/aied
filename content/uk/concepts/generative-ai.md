@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -104,48 +106,3 @@ ai_assist:
 - Не будуйте дорожню карту на узагальнених розмірах ефекту. Аудит 14 метааналізів виявив, що жоден не обґрунтував своїх тверджень, тож продуктове твердження, що спирається на заголовний *g*, спирається на методологію, яка не витримує перевірки.
 - Вимірюйте базову частоту, перш ніж її оптимізувати. Частота 0.68% означає, що більшість роботи з якості відбувається в хвості, а продуктивність на хвості визначає, чи є розгортання прийнятним.
 - Повідомляйте версію, дату й тип завдання з кожним показником, який публікуєте, бо твердження про спроможність без них не є відтворюваним.
-
-## Пов’язані поняття
-
-- [[llm]] — клас моделей, що лежить в основі генеративного ШІ
-- [[prompt-engineering]] — як формуються результати
-- [[rag]] — обґрунтування з доповненням пошуком
-- [[ai-literacy]] — компетентність, потрібна для ефективного використання
-- [[ai-education]] — ширше поле
-- [[intelligent-tutoring]] — розмовні та генеративні системи тьюторства
-- [[cognitive-offloading]] — ризик надмірної залежності, який підсилює генеративний ШІ
-- [[hallucination-risk]] — основний ризик надійності створюваного змісту
-- [[academic-integrity]] — занепокоєння щодо доброчесності через плавну генерацію
-- [[automated-assessment]] — генеративні моделі в оцінюванні та зворотному зв’язку
-- [[ai-technologies]] — зонтична категорія методів і моделей ШІ
-- [[higher-ed]] — основний контекст впровадження
-- [[k-12]] — основний контекст впровадження
-
-- [[reflection]]
-
-## Пов’язані статті
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Метааналіз впливу генеративного ШІ на мотивацію навчання, із предиктивним інтервалом, що охоплює шкоду й вигоду
-
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Метааналіз навчальних результатів генеративного ШІ
-- [[genai-meta-analysis-programming-learning]] — Метааналіз генеративного ШІ в навчанні програмуванню
-- [[genai-performance-vs-learning]] — Продуктивність проти навчання з генеративним ШІ
-- [[hazra-safetutors-pedagogical-safety-2026]] — Шкоди від агентів тьюторства на основі ШІ
-- [[eduguard-safe-rag-llm-tutor]] — Обмеження безпечного RAG-тьютора на основі ВММ
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Асистивний генеративний ШІ для здобувачів з вадами зору
-- [[li-language-educators-genai-review-2026]] — Практики та розвиток викладачів мови із генеративним ШІ
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оцінювання попередньо навчених моделей для педагогічної оцінки нових навчальних запитань із допомогою ШІ
-- [[bicer-genai-pd-math-creativity-2026]] — Кейс-дослідження професійного розвитку з математики за участі генеративного ШІ з вісьмома сільськими вчителями-практиками
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Узагальнений g = 0.819, що падає до 0.378 за PET-PEESE; кастомні інструменти (0.455) поступалися чат-ботам (0.970)
-

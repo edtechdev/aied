@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -79,33 +81,3 @@ La sostenibilidad y la IA en la educación se sitúan en la intersección de la 
 - **«El conocimiento abstracto sobre IA predice la capacidad del profesorado para enseñar sostenibilidad.»** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] encontró que el **uso práctico de la IA** por parte del profesorado en contextos de ciencias y energía verde, y su **implicación en el desarrollo de materiales alineados con la EDS** —**más que el conocimiento o las actitudes abstractas sobre la IA**—, predecían su capacidad. Saber sobre IA y saber construir con ella divergían, y la vía práctica predecía más.
 - **«El diseño didáctico asistido por IA bajo una pedagogía de la sostenibilidad produce pedagogía de la sostenibilidad.»** El mismo trabajo encontró que el [[learning-design|diseño didáctico]] asistido por IA bajo la pedagogía del desarrollo sostenible **restringía** el diseño de formas concretas en lugar de ampliarlo. Un modelo entrenado con materiales convencionales reproduce encuadres convencionales a menos que el trabajo de diseño lo corrija.
 - **«La sostenibilidad es un tema, no un eje transversal.»** Como ambas vías recorren todos los niveles, la sostenibilidad aparece en la [[higher-ed|educación superior]], en K-12 y en contextos profesionales, lo que significa que es un tema fundacional que debe abordarse dentro de cada disciplina en lugar de enseñarse como una asignatura aparte.
-
-## Conceptos conectados
-
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Artículos conectados
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA portátil más imágenes de contaminación generadas por IA elevaron la activación, sin medir la custodia ambiental (Lim et al., 2024)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudio sueco de encuesta y grupos focales que sostiene que la ética de la colaboración, y no el marco de la trampa, debería guiar las decisiones institucionales sobre IA generativa
-- [[daniel-ai-sustainability-scoping-review-2026]] — Revisión de alcance de la IA para la sostenibilidad y la IA sostenible en la educación superior
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Enfoque crítico con los valores sobre la educación sostenible y la IA
-- [[liu-ai-sustainable-engineering-education-2026]] — Marco AI-SEE para una educación en ingeniería sostenible
-- [[riandi-teacher-ai-green-energy-education-2026]] — Implicación docente en la integración de la IA para la educación en energía verde
-- [[talebzadeh-ai-green-education-2026]] — El papel de la IA en la educación verde
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asistentes de base de conocimiento con IA sostenible
-- [[llm-environmental-impact-student-usage-2026]] — Impactos ambientales del uso de LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada
-- [[caruana-pre-university-ai-education-slr-2026]] — Revisión sistemática de la literatura sobre educación en IA preuniversitaria (encuadre del ODS 4)

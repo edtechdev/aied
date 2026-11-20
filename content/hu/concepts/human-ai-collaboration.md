@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -97,68 +99,3 @@ Az ember–MI együttműködés kapcsolódik a [[human-in-the-loop-ai|emberi fel
 - **„Az együttműködés azt jelenti, hogy a MI elvégzi a munka egy részét.”** **A tanuló megtartja a döntő szerepet**, és ez az írásra is kiterjed: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash és Connell Pensky (2025)]] megmutatják, hogy ez akkor is fennáll, ha az elrendezést erre tervezték. A munkamegosztás nem együttműködés, hacsak az ember meg nem tartja az ítélőképességet.
 - **„A fordított elrendezésben a MI magyaráz.”** **A diákok, akik a MI-t tanították, jobban magyaráztak** — a fordított osztályterem meghatározása **M = 4,18 vs. 3,29**, a tanítási tevékenységek **M = 4,91 vs. 3,06, mindkettő p < 0,001**. A tanulás a magyarázónál halmozódott fel.
 - **„Az emberi és a MI-hozzájárulás helyettesítői egymásnak.”** Két 2026-os vizsgálat az osztálytermi együttműködés **kiegészítő feleit** térképezi fel, ami a tervezési problémát felosztásként keretezi, nem helyettesítésként.
-
-## Kapcsolódó fogalmak
-- [[pedagogical-partnerships]] — Pedagógiai partnerségek
-- [[community-of-inquiry]] — Vizsgálódó közösség (a jelenlétek mint ember–GenAI szociotechnikai teljesítmények)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Kémiaoktatás és MI: laborok, formatív értékelés, az LLM-ek korlátai, a kísérletezés filozófiája
-- [[biology-education]] — Biológiaoktatás és MI: laboratóriumi tanársegédek, MI-írástudás a biológiában, kritikai gondolkodás, specializált eszközök
-- [[human-in-the-loop-ai]] — felügyelet
-- [[agentic-ai]] — autonómia
-- [[productive-failure]]
-
-## Kapcsolódó cikkek
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Három ágensszerep egy narratív tudományos játékban, és hogy melyiknek milyen értékelési kritérium kell (Humburg és mtsai. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — A GenAI többágenses rendszerrel végzett páros munka nyerte a tervezési projektet, miközben a kritikai gondolkodás tudatossága csak az egyedül dolgozóknál nőtt (Chu és mtsai. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — A többágenses vita a preferált válasz visszatartásával csökkentette a hibás MI-tanácshoz való igazodást, de nem korrekciós módon
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: az együttműködési kompetencia mint a tartományi, MI- és metakognitív kompetencia dinamikus konfigurációja, emergens tanulói ügynökséggel (Dang és mtsai. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Középiskolai tanárok korlátozott szakértőként terveznek tantermi chatbotokat emberi felügyelet alatt
-- [[ai-integration-instructional-design-collaboratory-2026]] — Tizenkét tanárképzési kurzusmegvalósítás az MI-integrációt tanulástervezési problémaként kezeli
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: az ember–MI szakértelem-skálázás első RCT-je kezdő tutoroknál
-- [[think-first-chatgpt-later-2026]] — Először gondolkodj, ChatGPT csak utána: független emberi kreativitás
-- [[principal-trait-analysis-human-ai-skills-2026]] — Az ember–MI együttműködés adatvezérelt „vonásai”
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tanár–MI interakciós minták az óravázlat-tervezésben a tapasztalat és az MI-jártasság mentén (Choi és mtsai. 2026)
-- [[tang-chatbots-learning-design-2026]] — A tervezők a beágyazott chatbotot az eredmények és a pedagógia összehangolásának ellenőrzésére használják, nem tartalomgenerálásra
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — A helyettesítéstől a vázolásig: a önmegerősítő kárciklus megtörése
-- [[generative-ai-mediational-agent-sociocultural-2026]] — A generatív MI mint mediációs ágens
-- [[conversational-ai-agents-umbrella-review-2026]] — A konverzációs MI-ágensek ernyőáttekintése az oktatásban
-- [[ai-overreliance-complex-adaptive-system-2026]] — A MI-vel szembeni túlzott támaszkodás komplex adaptív rendszerként modellezve
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Szerep-adaptív MI-kísérő az általános iskolai könyvbeszélgetéshez; a rögzített szerepű ágensek affektív plafonja (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Tanár–MI közös tervezés tanulási feladatokon: tendenciák és perspektívák (Wang és mtsai. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — A szerepek architektúrája a MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — A GenAI mint ágens és együttműködési tér a kiscsoportos dinamikában (Xu és mtsai. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Vázolás-orientált többágenses nagy nyelvi modell rendszer értékelése klinikai interjúképzéshez
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etikai képzési ágensek: csoportos etikaoktatás elősegítése szerepjátékkal és vitával az etikai reflexió és feltárás érdekében
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: az automatizálás, a kiegészítés és az együttműködés mint a feladatkiosztás folytonossága
-- [[bounded-reliance-ai-writing-feedback-2026]] — Korlátozott támaszkodás: forráshitelességi perspektíva az EFL-diákok MI-generált írásvisszajelzéssel való elköteleződésére
-- [[human-ai-collaboration-academic-writing-2026]] — Ötrészes strukturált EFL-írási munkafolyamat; az ellenőrzési és felelős használati rutinok hajtották a páros írás és a digitális kritikai gondolkodás nyereségét
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Szerepfordítás: a diákok egy GAI kezdő tanulót tanítanak, felülmúlva azokat a társaikat, akik GAI-tanárt kérdeznek
-- [[iqbal-human-genai-support-essay-revision-2026]] — A támogatás típusa alakította a revíziós stratégiákat és a pontszámokat, de egyetlen stratégia sem jósolta a nyereséget; a GenAI-nyereség feladatspecifikus lehet
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Az emberi és MI vitamoderátorok egyenértékűen értékelve; a hasznosság és az elégedettség eltérően hajtja az újraválasztást
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — A lecke-tanulmányozás építi a tanárképzők kapacitását dialogikus MI-elköteleződés tervezésére; a promptmérnökség mint pedagógiai gondolkodás
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Öt diák–GenAI összefonódási típus, és hogy miért maradnak marginálisak a szerzőséget megosztók (Sun, Dohn és Rehm 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — A tanár–MI együttműködés ellentétes útjai a munkával való elköteleződéshez a pszichológiai rendelkezésre álláson és a munkától való elidegenedésen át, a digitális kompetencia által határolva
-- [[wang-agentic-translation-education-2026]] — Tervezési protokoll, amely a fordítóképzést a MI-hangszerelés, a stratégiai ítélőképesség és a kritikai értékelés kompetenciái felé irányítja (még empirikus adat nélkül)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Az affektív riasztás olyan jelzés, amelyet a tanár értelmez, nem utasítás, amelyet követni kell
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — A szerzőség legitimációs hiánya az ember–MI közös alkotásban

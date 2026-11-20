@@ -23,6 +23,7 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 Primer is an [[open-source|open-source system]] for building an educational [[simulation|simulation]] by describing a lesson to an AI instead of programming one. The educator's judgment sets what the simulation teaches: an interview draws out what the instructor knows about the lesson and the students, a design document makes that knowledge reviewable, and nothing is built until the educator approves it.
@@ -40,12 +41,3 @@ Instructors, instructional designers and faculty developers can describe a lesso
 ## Notes and caveats
 
 The authors call Primer an experimental prototype rather than a vetted classroom product. It has not been evaluated as a learning intervention in classrooms, and no one has reviewed it for FERPA, COPPA, state student-privacy law or district policy, so an institution that uses it with students owns that review. The software is MIT-licensed and free, but running a simulation needs model access, which costs money. Because it is model-agnostic and runs on local or open-weight models, it can be deployed where privacy rules are tighter. A white paper on the architecture and prompts is linked from the project page. The repository had 98 stars and 16 forks when checked in November 2026.
-
-## Connected Concepts
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

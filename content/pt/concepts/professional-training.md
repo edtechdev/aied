@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -107,46 +109,3 @@ A formação profissional difere da educação acadêmica em seu foco em habilid
 **"O treinamento em letramento em IA se generaliza entre papéis."** A maioria dos instrumentos não mede competência específica do papel: em uma revisão sistemática de **33 instrumentos de letramento em IA de professores**, **29 (87,9%)** visavam conceitos gerais de IA enquanto apenas **4 (12,1%)** tratavam do uso [[pedagogy|pedagógico]] ou ocupacional que o trabalho de fato exige. Um programa construído sobre instrumentos gerais está medindo um proxy.
 
 **"Um simulador substitui o treinamento no local de trabalho."** Ele desenvolve procedimento e remove a consequência, o que é valioso e é exatamente a parte que não pode ser transferida — a consequência é o currículo no trabalho crítico de segurança.
-
-## Conceitos conectados
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — onde a prática imersiva está mais estabelecida
-
-## Artigos conectados
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Uma única conversa com GPT-4o elevou a competência de comunicação autoavaliada em d = 0,58, sem grupo controle (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — Em 17 estudos, ganhos de confiança foram comuns e a evidência de empatia, escassa (Ismail & Zafira, 2026)
-- [[bodek-prompted-to-explore-microlearning-2026]] — Microlearning de doze semanas mais uma comunidade no Teams: o uso relatado de IA generativa subiu após o programa (Bodek et al. 2026)
-- [[prunuske-cognitive-windows-research-meetings-2026]] — Das atualizações de dados às janelas cognitivas: reuniões de pesquisa na era da inteligência artificial
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — IA e o futuro da força de trabalho de engenharia e computação
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Framework de Nível de Prontidão para o Trabalho para manufatura inteligente na era da IA
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Framework de habilidades de IA da HiBob validado com instrutores e empregadores
-- [[cognitive-commons-ai-expertise-regeneration]] — A tragédia dos bens comuns cognitivos: IA e regeneração da expertise
-- [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com IA generativa
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Pesquisa comparativa mostrando que condições institucionais, e não contexto nacional, explicam as lacunas de prontidão do corpo docente para IA generativa (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Formadores de professores codesenham um modelo de letramento em IA adaptativo e um questionário reflexivo (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisão mostrando que os instrumentos de letramento em IA de professores estão atrás da IA generativa, marcando o alvo de treinamento (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — DP de três horas elevou a utilidade e a facilidade de uso percebidas de professores alemães, mas não a intenção de usar IA para diferenciação
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Revisão de IA na formação inicial de professores de matemática do primário: treinamento breve focado em ferramentas não basta
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Pesquisa ligando treinamento prévio em IA e frequência de uso às percepções positivas de professores do primário turcos
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — A rotação de papéis como mecanismo estruturante da preparação profissional com apoio de IA
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Questões abertas rumo à confiança sustentadora de habilidade no engajamento reflexivo com IA
-- [[jongkind-genai-patient-medical-communication-2026]] — Uso de um paciente de GenAI para treinamento de comunicação médica de estudantes de graduação em medicina: um estudo quase-experimental
-- [[cowhitt-deliberative-instructional-agents-2026]] — Agentes instrucionais deliberativos para a aprendizagem profissional de professores, com condições de responsabilidade para DP mediado por IA
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Quando a prática de IA de uma profissão técnica corre à frente de sua via de ensino
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Professores pediram treinamento ancorado na disciplina e separaram uso frequente de letramento

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -71,32 +73,3 @@ ai_assist:
 - স্বাক্ষরের আগে জিজ্ঞেস করুন একটি সরঞ্জাম কোন জিনিসে মূল্যায়ন করা যাবে। যদি চুক্তি ফলাফল, নিরীক্ষা-ডেটা বা ব্যবহারের বিস্তারিতে প্রবেশাধিকার না দেয়, প্রতিষ্ঠান এমন সক্ষমতা কিনেছে যা সে যাচাই করতে পারে না।
 - অনুমোদিত ব্যবহার নয়, প্রকৃত ব্যবহার জরিপ করুন, কারণ দুটি আলাদা হয়ে যায় এবং অননুমোদিত সংখ্যাটিই সেই ঝুঁকি বহন করে যার মুখে আপনি ইতিমধ্যে আছেন।
 - যেখানে সুবিধা এখনও আছে সেখানে মোতায়েনের আগে নীতি সাজান। ব্যবহার ব্যাপক হয়ে গেলে নীতি হয়ে যায় ইতিমধ্যে থিতিয়ে পড়া অনুশীলনের সঙ্গে দরকষাকষি।
-
-## সংযুক্ত ধারণা
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — ছাতা: এআই শিক্ষায় মানুষ ও শ্রোতা (শিক্ষার্থী, শিক্ষক, নকশাকার, প্রশাসক, নীতিনির্ধারক)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — প্রশাসকেরা যে প্রাতিষ্ঠানিক প্রক্রিয়াগুলো চালান: উপদেশদান, যোগাযোগ, রেফারাল ও বরাদ্দ
-
-## সংযুক্ত নিবন্ধ
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — শিক্ষা-নেতৃত্বে এআই: ব্যাপক শ্রেণিবিন্যাস
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — এআই-এর জন্য প্রত্যাশামূলক সুশাসন ও নেতৃত্ব
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — যুক্তরাজ্যের উচ্চশিক্ষা নীতিতে এআই ও প্রাতিষ্ঠানিক সিদ্ধান্তগ্রহণ
-- [[ai-campus-wellbeing-tools]] — ক্যাম্পাস-সুস্থতার জন্য এআই-চালিত সরঞ্জাম
-- [[genai-policies-higher-ed-computing]] — কম্পিউটিং শিক্ষায় প্রাতিষ্ঠানিক GenAI নীতি
-- [[institutional-change-framework-ai]] — এআই-এর জন্য প্রাতিষ্ঠানিক পরিবর্তন-কাঠামো
-- [[edtech-privacy-deferral-2026]] — "পরে ঠিক করে নেব": শিক্ষা, এআই এবং এডটেকে শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ
-- [[students-at-stake-ai-deployment-risks-2026]] — চার-প্রশ্নের ক্রয়-যাচাই, ঝুঁকি-ব্যবস্থাপনার বদলে শিক্ষার্থীদের অধিকার হিসেবে নির্মিত

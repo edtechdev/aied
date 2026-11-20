@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -63,7 +65,6 @@ A consequência é um conjunto de afirmações que parecem semelhantes em uma se
 
 Duas implicações seguem para quem lê ou projeta essa pesquisa. Primeiro, se um instrumento de autorrelato está mesmo medindo seu construto nomeado é uma questão empírica, respondida por validação, e não pela plausibilidade dos itens. Segundo, a direção da tentação na IA na educação é consistente: ferramentas são avaliadas por como os usuários se sentem em relação a elas, e o sentimento é precisamente a parte que o autorrelato captura de forma mais barata. A [[self-assessment|autoavaliação]] é membro dessa família mais ampla, e não sinônimo dela: onde as medidas de autorrelato alcançam atitudes, confiança e satisfação, a autoavaliação volta a estimativa de quem aprende especificamente para sua própria habilidade, confiança ou aprendizagem.
 
-
 Um segundo modo de falha é o colapso discriminante entre dois construtos autorrelatados: regredir a capacidade autorrelatada com IA junto do controle comportamental percebido, medido como eficácia, pode comparar um fator geral de confiança consigo mesmo, e é por isso que os critérios são fixados de antemão — uma razão heterotraço–monotraço abaixo de 0,85 e um teste de modelo aninhado restringindo a correlação capacidade–controle à unidade ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 Um instrumento validado pode tornar esse limite preciso em vez de vago. O Questionário de Autoavaliação de Letramento em IA (AIL-SAQ) de [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan e Srikoon (2025)]] é uma escala de 15 itens confirmada com uma estrutura estável de três fatores em duas amostras (n = 335 exploratória, n = 579 confirmatória) e um alfa de Cronbach geral de 0,934. Seus autores são explícitos de que ela registra entendimento, atitudes e consciência percebidos, e não habilidade demonstrada, e de que a acurácia da autoavaliação depende de habilidade metacognitiva que ainda está amadurecendo em crianças, de modo que a autoestimativa de uma criança é um sinal mais fraco que a de um adulto.
@@ -90,11 +91,7 @@ Uma revisão estruturada e [[meta-analysis-systematic-review|metanálise]] explo
 
 Uma revisão sistemática de duas fases quantifica essa divergência no nível das conclusões: de 51 pares de mesmo construto provenientes de 47 relatos, 30 concordaram, 11 discordaram e 10 foram mistos. A discordância correu nos dois sentidos: cinco contrastes parearam um resultado nulo de autorrelato com um resultado positivo de desempenho, contra dois no sentido inverso ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
-
 Uma biblioteca universitária colocou os dois fluxos contra as mesmas proposições e os encontrou apontando para lados diferentes. Os empréstimos anuais de material impresso caíram de 406.120 em 2017 para 46.339 em 2025, e os tomadores únicos, de 30.033 para 7.278, mas a queda começou antes do período de IA generativa, e o ponto de quebra de janeiro de 2023 não mostrou mudança de nível ou de inclinação. A pesquisa depositou o peso explicativo nos construtos: a demanda por leitura profunda previu a intenção de continuidade do impresso em H1 β = 0,908, enquanto o caminho de substituição hipotetizado foi próximo de zero (H4 β = 0,038, *p* = 0,631), e os recursos de IA da plataforma representaram 0,53% das operações no primeiro semestre de 2026. Os respondentes não puderam ser vinculados aos registros de empréstimo sob as regras de governança de dados, de modo que a divergência só pode ser lida no nível populacional, e não pessoa a pessoa ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
-
-
-
 
 A própria literatura de instrumentos pode ser lida como evidência da escala da lacuna. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore e Maat (2026)]] avaliaram 33 instrumentos de letramento em IA de professores e concluíram que 31 (93,9%) eram escalas de autorrelato de confiança percebida, apenas dois (6,1%) testavam conhecimento objetivamente, e nenhum usava tarefas baseadas em desempenho entre 2019 e 2025. Sua conclusão é a que esta página continua a alcançar por outras direções: pontuações de autorrelato indexam confiança em vez de capacidade, de modo que não podem substituir competência quando grupos ou programas são comparados.
 
@@ -103,7 +100,6 @@ As medidas de desfecho herdam a mesma lacuna. [[pramod-agentic-ai-motivational-p
 A intenção é o caso mais agudo dessa lacuna, porque uma única pontuação de intenção pode cobrir comportamentos opostos. Reaplicando itens a 68 dos 340 estudantes e entrevistando oito, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] constataram que a mesma intenção declarada cobria uso orientado à aprendizagem, orientado ao atalho e uso misto — os usuários de atalho citando baixa confiança, e não desinteresse.
 
 - **"Os estudantes relatam o que fizeram."** O rastro contradisse a pesquisa numa direção útil. Em um estudo de redação em que **15 de 77 (19,5%)** submeteram ensaios sem nenhuma palavra digitada, a propriedade percebida caiu apenas nesse grupo que delegou integralmente, enquanto os escritores que usaram o modelo para planejar ou revisar relataram propriedade no nível dos estudantes que nunca o abriram. O autorrelato, portanto, distinguiu os extremos e achatou tudo entre eles, que é o que uma medida de percepção consegue fazer e o que não consegue. [[jelson-students-chatgpt-essay-writing-2026|A lacuna percepção–comportamento, medida por teclas]].
-
 
 ## Satisfação e aprendizagem percebida como desfechos
 
@@ -122,11 +118,7 @@ O caso within-subject mais limpo da literatura mediu ambas as quantidades nos me
 
 As notas de prova contaram uma história diferente: a frequência de uso não foi associada ao desempenho no modelo simples (−5,577, EP 5,566) e foi negativamente associada no modelo completo (−13,918, EP 7,834, p = 0,076). Os autores não tratam o nulo como prova de dano, já que estudantes com dificuldades podem usar mais a IA; o que o estudo de fato mostra é movimento significativo em toda medida perceptual sem movimento correspondente no desempenho avaliado.
 
-
 **Medidas de percepção superam medidas de habilidade na literatura de investigação com IA generativa.** Em uma revisão de 66 estudos, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] encontraram as percepções dos usuários como o domínio de desfecho mais relatado (32 estudos, 48,5%), seguidas dos desfechos afetivos com 25, enquanto apenas 8 estudos (12,1%) mediram habilidades de investigação e 4 deles tinham condição de comparação. Os autores não atribuíram grau algum de certeza à evidência, de modo que as contagens de percepção descrevem o que foi perguntado, e não o que foi alcançado.
-
-
-
 
 ## O que torna um instrumento de autorrelato crível
 
@@ -137,11 +129,7 @@ Quatro propriedades separam uma pesquisa que consegue sustentar uma afirmação 
 - **Invariância, quando grupos são comparados.** Uma escala que se comporta de forma diferente entre populações não consegue sustentar uma comparação. O trabalho de [[same-ai-different-pathways|SEM multigrupo]] relata testes de invariância de medição (configuracional, métrica, escalar) junto com seus efeitos indiretos, e a [[genai-thoughtless-use-self-directed-learning-2026|comparação Suíça–China]] concluiu que apenas o valor intrínseco alcançou invariância métrica, e não escalar — uma limitação declarada em vez de escondida, e que restringe o que suas diferenças entre países podem significar.
 - **Uma alternativa de desempenho onde competência é o construto.** Os 20 itens de múltipla escolha do GLAT existem precisamente porque o autorrelato não consegue carregar uma afirmação de competência.
 
-
 **A maioria dos instrumentos nesse espaço relata confiabilidade e quase nenhum relata validade.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citam a revisão de Su et al. de 36 estudos de letramento em IA, que constatou que 63,8% das ferramentas relatavam evidência de confiabilidade e menos de 20% relatavam evidência de validade. A mesma revisão encontrou apenas um instrumento específico de IA generativa, o GAIAS de 27 itens, entre 50 frameworks de [[k-12|K-12]]. Uma escala ser internamente consistente não diz nada sobre se ela mede o construto nomeado em seu título.
-
-
-
 
 Uma pesquisa recente com docentes mostra a falha em sua forma extrema. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administraram 300 itens a 315 docentes universitários, relataram α = 0,997 para a escala total e não conduziram análise fatorial alguma, ainda assim um modelo Naive Bayes classificou corretamente 314 de 315 respondentes (acurácia 0,9968) em faixas de competência baixa, média e alta. Um instrumento cujos itens se comportam como quase duplicatas pode ser previsto quase perfeitamente a partir de um punhado de variáveis demográficas e institucionais porque carrega pouca informação independente: os autores constataram que a afiliação foi o maior contribuinte global em sua análise SHAP, e os pontos de corte que definiam as três faixas não foram retidos.
 
@@ -188,61 +176,3 @@ As respostas construtivas da base de conhecimento são consistentes, e nenhuma d
 - **"A evidência de survey é fraca, mas mais ou menos não enviesada."** A estrutura de resposta limita a estimativa antes do viés: uma pesquisa obtém **112 respostas com taxa de resposta de 31%**, ou **90 respostas de 572 convites**. O conjunto de respondentes é um subconjunto autosselecionado, de modo que o número descreve esse subconjunto.
 - **"Pesquisas são um método minoritário neste campo."** Uma revisão de escopo de **394 estudos de GenAI no ensino superior** constatou **escalas de survey como o método de avaliação mais frequentemente relatado (269 estudos, 68,3%)**, à frente de testes e quizzes. A evidência dominante do campo é autorrelato.
 - **"Autorrelato e construtos medidos concordam."** **A carga cognitiva autorrelatada não diferiu significativamente entre perfis de descarga que iam de 80% a 2% na autoria de ensaios**, enquanto os que mais descarregavam diferiram de forma mensurável. A medida subjetiva ficou plana onde o comportamento variou por um fator de quarenta.
-
-## Conceitos conectados
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Artigos conectados
-- [[high-school-genai-acceptance-tam-physics-2026]] — Uma pontuação de intenção, dois usos opostos
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — O modo de administração que um instrumento de autorrelato usa muda o que ele mede
-- [[capability-decision-model-teacher-readiness-2026]] — Critérios de validade discriminante para separar a capacidade autorrelatada com IA das crenças de eficácia
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — O engajamento prediz desempenho percebido, e não medido, em um modelo de caminho de IA agêntica (Pramod e Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — Medidas paralelas autorrelatadas e objetivas de letramento em IA de professores
-- [[jin-glat-genai-literacy-assessment]] — GLAT: uma alternativa baseada em desempenho ao autorrelato
-- [[genai-student-experiences-uk-he-survey-2026]] — Uso de IA generativa por estudantes pesquisado entre instituições do Reino Unido
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomias moldadas por se os dados vieram de autorrelato ou de logs
-- [[tracing-genai-literacy-interaction-patterns]] — Dados de processo caracterizando o letramento em IA generativa
-- [[engagement-intensity-learner-modeling]] — Uso autorrelatado como sinal de modelagem de quem aprende
-- [[predicting-attrition-competitive-programming]] — Confiança autorrelatada versus comportamento de prática
-- [[ai-use-critical-thinking-medical-students-2026]] — Viés de método comum em um modelo de mediação de fonte única
-- [[genai-motivation-engagement-2026]] — PLS-SEM apenas com autorrelato de motivação e engajamento
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Pesquisa com 81 estudantes de graduação em física sobre uso e confiança em IA
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Gravação de tela e recordação estimulada como remédio ao autorrelato
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Autorrelato mais dados de rastro sobre aprendizagem autorregulada
-- [[adaptive-pretesting-retention]] — Indicadores comportamentais de esforço derivados de logs
-- [[ai-vocational-education-training-review]] — Revisão relatando o desequilíbrio entre medidas de autorrelato e objetivas
-- [[student-genai-use-views-writing|Uso e visões de estudantes sobre IA generativa para escrita]] — Pesquisa mais entrevistas em um departamento de sociologia
-- [[competent-generative-ai-use-measures-review-2026]] — Além do letramento em IA: uma revisão estruturada e metanálise exploratória de medidas para o uso competente de IA generativa
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: uma ferramenta de autorreflexão que preserva a privacidade para o descarregamento cognitivo associado à IA
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Um instrumento de autoavaliação de 15 itens para estudantes dos anos finais do ensino fundamental, explícito sobre o que a competência percebida pode estabelecer
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisão concluindo que 31 de 33 instrumentos de letramento em IA de professores são de autorrelato e nenhum é baseado em desempenho
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Perfis derivados do autorrelato se comportam da mesma forma
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisão de duas fases que quantifica a discordância entre autorrelato e desempenho no mesmo construto (Fan et al. 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — A propriedade percebida separou a delegação integral do ensaio de todo o resto, enquanto o rastro separou muito mais (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — percepções relatadas em 32 de 66 estudos contra 8 que mediram habilidades de investigação
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8% das ferramentas de letramento em IA relatam evidência de confiabilidade e menos de 20% relatam evidência de validade
-- [[huang-genai-academic-information-resources-2026]] — Logs de biblioteca e atitudes de pesquisa apontando para direções diferentes
-- [[kares-xai-evaluation-alignment-2027]] — 166 participantes, três métodos de saliência: satisfação e confiança estáveis, desempenho na tarefa e métricas de fidelidade discordando (Kares et al., 2027)
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — A aprendizagem e o engajamento percebidos subiram em toda medida de pesquisa enquanto as notas de prova não se moveram
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Uma escala docente de 300 itens com α = 0,997 prevista com 99,68% de acurácia sem nenhuma análise fatorial
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Testes de sinal significativos com uma mediana inalterada em uma escala validada
-- [[tischkau-ai-simulated-patient-formats-2026]] — Uma escala pré-pós provisória que compara expectativas com memórias, com alfas de subescala de −0,39 a 0,87 (Tischkau et al. 2026)
-

@@ -36,6 +36,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -47,6 +48,3 @@ ai_assist:
 ## इसे अपनाने से पहले क्या जानना चाहिए
 
 सब कुछ [[open-source|ओपन सोर्स]] MIT के अंतर्गत है और स्थानीय [[ai-literacy|एआई साक्षरता]] या [[self-directed-learning|स्व-निर्देशित अध्ययन]] के लिए एक शुरुआती बिंदु के रूप में निःशुल्क लिया जा सकता है। अपनाना बड़े पैमाने पर और तेज़ गति से हो रहा है: सितंबर 2026 में जाँचने पर लगभग 270,000 स्टार और 23,000 फोर्क, सबसे हाल का कमिट 18 सितंबर 2026 को। चेतावनी दायरे की है। ये कौशल एक [[human-ai-collaboration|इंजीनियर]] के कार्य संदर्भ को मानते हैं, इन्हें इंजीनियरिंग, उत्पादकता, पदावनत (deprecated) और प्रगति में (in-progress) श्रेणियों में व्यवस्थित किया गया है, इसलिए कुछ प्रविष्टियाँ स्पष्ट रूप से अधूरी या सेवानिवृत्त हैं, और README एक न्यूज़लेटर साइन-अप का काम भी करता है। शिक्षण और प्रश्न-पूछने वाले कौशलों को हस्तांतरणीय भाग मानें, और इनमें से किसी एक को विद्यार्थियों के सामने रखने से पहले उसे फिर से लिखने की अपेक्षा रखें।
-
-## संबंधित अवधारणाएँ
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

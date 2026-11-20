@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -35,7 +37,6 @@ ai_assist:
 ## تعارف
 
 سیکھنے کی منتقلی تعلیمی [[research-methods-aied|تحقیق]] کی بنیادی فکر ہے، اور AI ٹولز نے اسے فوری اہمیت دے دی ہے۔ تعلیم میں AI کے مطالعات میں دستاویز کیا گیا واضح تجرباتی نمونہ ایک **منتقلی کا تضاد** ہے: AI استعمال کرنے والے طلبہ عام طور پر اُن کاموں پر فوری، قابلِ پیمائش فائدہ دکھاتے ہیں جن میں AI دستیاب ہو، مگر AI ہٹانے اور طلبہ کو آزادانہ فہم ظاہر کرنا پڑنے پر یہ فائدے اکثر برقرار نہیں رہتے — یا اُلٹ پڑ جاتے ہیں۔ یہ نمونہ [[cognitive-offloading|حد سے زیادہ انحصار]]، علمی بوجھ کے نظریے اور [[metacognition|میٹا کوگنیشن]] کو کارفرما میکانزم کے طور پر نشان زد کرتا ہے، اور [[intelligent-tutoring|AI ٹیوٹرنگ]] کے ڈیزائن پر بحث سے براہِ راست جڑتا ہے۔
-
 
 تیاری منتقلی نہیں ہے: AI کی معاونت والی بولنے کی مشق کم بولنے کی [[anxiety-and-stress|بے چینی]] اور انسانوں سے بات چیت کی زیادہ آمادگی سے منسلک تھی، مگر کسی بھی مطالعے نے انسانی بولنا نہیں دیکھا، جس سے AI کی مشق سے انسانی مواصلاتی صلاحیت تک کا راستہ ایک غیر آزمودہ پیدگوجیکل تجویز رہ جاتا ہے ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]])۔
 
@@ -68,7 +69,6 @@ AI استعمال کرنے والے طلبہ عام طور پر اُن کامو�
 **حد سے زیادہ انحصار / مہارت کا اُلٹ۔** جوابات دیے گئے نو آموز اسکیما نہیں بناتے۔ عام AI جوابات دیتا ہے؛ موثر ٹیوٹرنگ ساختی رہنمائی دیتی ہے۔ جب نو آموزوں کو ماہر کی سطح کے شارٹ کٹ دیے جائیں تو سیکھنا درہم برہم ہو جاتا ہے — [[desirable-difficulties]] کا اصول اُلٹا کر کے۔
 
 **ٹول پر منحصر کارکردگی۔** طلبہ AI ٹول کی مخصوص سہولتوں کے لیے بہتر کام کر سکتے ہیں ([[prompt-engineering|پرامپٹ انجینئرنگ]]، تیار شدہ کوڈ کے ڈھانچے پر انحصار) بجائے شعبے کی عمومی مہارت بنانے کے — یہ [[cognitive-offloading-speedup-illusion|علمی منتقلی]] کی ایک شکل ہے جو نتیجہ خیز محسوس ہوتی ہے مگر پائیدار سیکھنے کو ہٹا دیتی ہے۔
-
 
 محفوظ کلاس روم غلط عادت بھی سکھا سکتا ہے: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] خبردار کرتے ہیں کہ پہلے سے طے شدہ قواعد والی [[simulation|سمولیشنز]] غیر یقینی کو چھانٹ دیتی ہیں اور قاعدہ پابندی کو مضبوط کرتی ہیں، چنانچہ اُن کے اندر بننے والی فیصلہ سازی کی عادتیں حقیقی ماحول میں متضاد مفادات اور نامکمل معلومات سے واسطہ پڑنے پر علمی بوجھ بن سکتی ہیں۔
 **تہہ کے لحاظ سے منتقلی اور انتقال۔** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] [[generative-ai|GenAI]] کی معاونت والی تحریر میں Salomon, Perkins & Globerson کے 'ٹیکنالوجی کے ساتھ اثرات بمقابلہ اثرات' کے فرق کو براہِ راست جانچتے ہیں: آٹھ ہفتوں کے نیم تجربے نے پایا کہ کھلی AI تعاون نے معاونت والی تحریر کی کارکردگی کو زیادہ سے زیادہ کیا مگر *سب سے کم* آزادانہ، بغیر AI قریبی منتقلی کے نتائج پیدا کیے، جبکہ غور و فکر کے ساتھ محدود معاونت نے آزادانہ قابلیت برقرار رکھی۔ منتقلی کی گہری تہوں (استدلال، ساخت) نے سطحی تہوں (گرامر) سے بدتر منتقلی کی پیش گوئی کی۔ یہ براہِ راست کلاس روم ثبوت ہے کہ AI کی *ساتھ* معاونت والی کارکردگی کے فوائد *بغیر* معاونت آزاد کارکردگی میں منتقل نہیں ہوتے — اور یہ کہ تفویض کی گہرائی، نہ صرف یہ کہ AI استعمال ہوتا ہے یا نہیں، منتقلی کی شکل طے کرتی ہے۔
@@ -113,36 +113,3 @@ AI استعمال کرنے والے طلبہ عام طور پر اُن کامو�
 **"منتقلی زیادہ قابل ماڈلز سے آتی ہے۔"** منتقلی اُن شرائط سے آتی ہے جو اسے پیدا کرتی ہیں — مشق کی عمومیت، سیاق کی تنوع، اور یہ کہ سیکھنے والے نے استدلال خود پیدا کیا۔ ماڈل کی صلاحیت معاونت والی کارکردگی کی حد بلند کرتی ہے اور ماڈل جانے کے بعد جو باقی رہتا ہے، اُس کے لیے خاص کچھ نہیں کرتی۔
 
 **"رہنمائی ہمیشہ منتقلی کو سہارا دیتی ہے، پس زیادہ رہنمائی بہتر ہے۔"** وہ رہنمائی جو استدلال خود انجام دے، اُس عمل کا متبادل بن جاتی ہے جس پر منتقلی منحصر ہے۔ فرق اُس مدد میں ہے جو سیکھنے والے سے اگلا قدم خود پیدا کرواتی ہے اور اُس مدد میں جو وہ اُس کے لیے پیدا کرتی ہے — اور اُس لکیر کے منتقلی والے رخ پر صرف پہلی ہے۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وہ نتیجہ جس پر اِن میں سے بیشتر سلسلے بالآخر جانچے جاتے ہیں
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — پیداوری ناکامی
-
-## منسلک مضامین
-- [[yan-agentivism-learning-theory-ai-2026]] — انسانی-AI تعامل کے لیے درمیانی درجے کا سیکھنے کا نظریہ، چار میکانزم اور چھ قابلِ آزمائش تجاویز کے ساتھ (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی معاونت والی تحریر میں تہہ کے لحاظ سے علمی منتقلی (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — کارکردگی اور سیکھنے کا فرق اور پائیدار منتقلی
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — نتیجہ خیز ناکامی کے لیے LLM کی پیدگوجیکل رہنمائی
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — ذراتی طبیعیات کی تعلیم میں AI: تحقیقی مسائل اور بنیادی مہارتیں
-- [[shi-genai-experiential-learning-management-education-2026]] — دلیل دیتے ہیں کہ محفوظ کلاس روم سمولیشنز ایسی فیصلہ سازی کی عادتیں بنا سکتی ہیں جو اُن سے باہر ناکام ہو جائیں
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI کی معاونت والی بولنے کی مشق نے انسانوں کی طرف آمادگی بڑھائی مگر کسی مطالعے نے انسانی بولنا نہیں دیکھا
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: ڈیسک پر فعال روبوٹک جسمانی شکل کے ذریعے افزودہ سیکھنا
-- [[cognitive-washout-ai-skill-decay-2026]] — علمی بہاؤ: مدد ہٹنے کے بعد کا وقفہ اور 22 ہفتوں کا پیمائشی پروٹوکول (Yajee 2026)

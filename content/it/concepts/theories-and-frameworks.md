@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -130,31 +132,3 @@ L'allineamento tra meccanismo e teoria può comunque essere decisivo: una sintes
 **"Teorie dell'apprendimento, modelli dello studente e quadri di adozione sono lenti intercambiabili."** Rispondono a domande diverse — come avviene l'apprendimento, qual è lo stato dello studente, e perché una pratica si diffonde — e i loro tipi di evidenza differiscono di conseguenza. Scegliere lo strato sbagliato produce uno studio che misura la variabile giusta rispetto alla previsione sbagliata, il che si legge come un risultato nullo quando è un errore di categoria.
 
 **"Più quadri di riferimento significa un campo più maturo."** I quadri coniati per l'era dell'IA si accumulano più in fretta di quanto vengano testati, e l'accumulo senza falsificazione è un sintomo anziché un progresso. La maturità si mostra quando previsioni concorrenti vengono risolte, non con la crescita del vocabolario.
-
-## Concetti collegati
-
-- [[theory-development-aied]] — costruire e rivedere teoria nel campo
-- [[philosophy-of-ai-in-education]] — lo strato normativo e concettuale
-- [[learning-theories]] — l'ombrello della teoria dell'apprendimento
-- [[learning-sciences]] — il campo vicino da cui la maggior parte della teoria è presa a prestito
-- [[limitations-in-aied-research]] — cosa la base di evidenze può e non può sostenere
-- [[tpack]] — quadro di riferimento sulla conoscenza dell'insegnante
-- [[technology-acceptance-model]] — quadri di riferimento sull'adozione
-- [[item-response-theory]] — un modello di misurazione
-- [[universal-design-for-learning]] — un quadro di riferimento di progetto
-- [[research-methods-aied]] — come la teoria viene verificata
-
-## Articoli collegati
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Affordance emotive proposte come quarta categoria in una tassonomia di affordance
-- [[ai-game-based-learning-systematic-review-2026]] — L'allineamento tra meccanismo e teoria, non la raffinatezza algoritmica, ha determinato l'efficacia in 55 studi sull'apprendimento basato sul gioco con IA
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — quattro decenni di AIED attraverso il framework AI×Ed
-- [[educating-minds-generative-ai-2026]] — sintesi densa di teoria sull'IA generativa e l'apprendimento
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teoria dell'attività applicata allo sviluppo professionale degli insegnanti
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teoria dell'attività e adozione da parte degli insegnanti
-- [[generativism-learning-theory]] — una teoria dell'apprendimento proposta per l'era dell'IA generativa
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — verso una teoria della co-agentività epistemica
-- [[absent-cognitive-baseline-2026]] — teorizzare un divario strutturale nell'autovalutazione degli studenti nativi digitali con l'IA
-- [[yan-agentivism-learning-theory-ai-2026]] — una teoria dell'apprendimento di medio raggio per l'interazione umano-IA
-- [[ai-literacy-instrument-development-systematic-review-2026]] — sviluppo di strumenti per un costrutto giovane
-- [[mishra-control-vs-agency-history-2025]] — la tensione fondativa del campo tra controllo e agentività

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -71,34 +73,3 @@ ai_assist:
 **«Студентам із меншими попередніми знаннями потрібно більше підтримки ШІ.»** Це напрям, який найімовірніше розширить розрив, бо виміряний патерн перекладання концентрує втрату авторства там, де попередні знання найтонші. Підтримка, що постачає роботу здобувачеві, найменш здатному помітити підміну, усуває діяльність, яка мала б побудувати відсутнє знання.
 
 **«Попередні знання — це фіксований вхід, який курс не може зрушити.»** Це найвагоміший чинник нового навчання, що робить їх будування завданням із найвищим важелем, а не фоновою умовою — саме тому предметне знання є втручанням саме по собі, а не лише коваріатою.
-
-## Пов’язані поняття
-
-- [[learners]] — Здобувачі: головна категорія для понять на боці здобувача
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Продуктивна невдача
-- [[retrieval-spacing-interleaving]] — як те, що здобувач уже знає, визначає, що може зробити практика відтворення
-
-## Пов’язані статті
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Напруження між автоматизацією та навчанням (ризик активації попередніх знань)
-- [[genai-mindtool-generative-learning]] — GenAI як розумовий інструмент: праймування та активація попередніх знань
-- [[nie-personavlm-long-term-personalization-2026]] — Моделювання студента та пам’ять на базі LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble про когнітивне розвантаження
-- [[cognitive-offloading-llm-synthesis-writing]] — Когнітивне розвантаження в письмі-синтезі за допомогою LLM
-- [[bridging-instructional-design-framework-math]] — Рамка навчального проєктування для математики
-- [[knowledge-building-tutor-learning-2026]] — будуювання знань, а не попередні знання, передбачає навчання репетитора, і репетитори зі слабкими попередніми знаннями, які будують знання, доганяють однокурсників
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Попередні знання несли посттест (η²p = .63), тоді як адаптивний вибір завдань не ніс нічого (Sibley et al. 2026)

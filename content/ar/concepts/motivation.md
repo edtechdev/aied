@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -54,7 +56,6 @@ ai_assist:
 
 - **جودة تغذية راجعة متساوية لا تعني أثرًا تحفيزيًا متساويًا.** وجدت تجربة عشوائية مضبوطة بثلاث أذرع مع 312 كاتبًا في السنة الأولى أن التغذية الراجعة المولَّدة بالذكاء الاصطناعي وتغذية المدرّس حسّنتا المقالات المراجعة بالهامش نفسه: d = 0.60 و0.59، متكافئتان داخل نطاق ±0.35 انحراف معياري محدد مسبقًا. ومع ذلك رفعت تغذية المدرّس الدافعية الداخلية أكثر من تغذية الذكاء الاصطناعي (5.16 مقابل 4.90، d = 0.31)، ووسّطت الصلة المُدرَكة بالمصدر تلك الفجوة (غير مباشر 0.25، فاصل ثقة 95% [0.12, 0.40]) مع بقاء أثر مباشر ضئيل جدًا ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu وآخرون (2026)]]). وجرى الأداء عبر الانخراط بالتغذية الراجعة لا عبر الكفاءة الذاتية، التي لم يكن مسارها غير المباشر دالًا. وحيث فصلت تجربة Bassner الاستقلالية عن توريد الإجابة، تُثبّت هذه جودة المخرج وتضع الفرق التحفيزي في هوية مَن يجيب المتعلّم.
 
-
 وسبب وصول القارئ إلى الذكاء الاصطناعي متغير قابل للقياس في ذاته: إذ يُحلّل مقياس AIR أربع دوافع للقراءة بمساعدة الذكاء الاصطناعي التوليدي — الموجهة بالمهمة، والبحث عن الشعور الجيد، والترجمة، والجهد المنخفض — وكان الجهد المنخفض وحده، أي استخدام الذكاء الاصطناعي عند التعب أو الانفصال، مرتبطًا سلبًا بالحاجة إلى المعرفة (r = −.18) ([[air-scale-motivations-ai-reading-2026|بران وإتغار وسيدي (2026)]]).
 
 **التحفيز في الانخراط بوساطة الذكاء الاصطناعي** يفحص كيف تتغير نوعية التحفيز (لا كمه فقط) مع الذكاء الاصطناعي. جمع **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|إيساييفا وآخرون]]** بين نظرية تحديد الذات و[[network-analysis|التحليل الشبكي المعرفي]] لدراسة الانخراط مع [[generative-ai|الذكاء الاصطناعي التوليدي]]. وتتبّع **[[liang-ai-learning-motivation-sdt-2026|ليانغ وآخرون (2026)]]** التحفيز نمائيًا عبر تحليل الانتقال الكامن على **2,086 طالبًا [[k-12|ثانويًا]]** في منهج ذكاء اصطناعي مدته سنة، فوجد ثلاث فئات ثابتة (المنفصل، والمتطور، والحاسم الذاتي) وأن الوصول إلى فئة الحسم الذاتي تنبّأ بأكبر مكاسب في [[ai-literacy|ثقافة الذكاء الاصطناعي]]. واستخدم **[[wang-goal-setting-ai-engagement-2026|وانغ ووانغ (2026)]]** نظرية تحديد الأهداف مع **758 متعلّمًا [[higher-ed|جامعيًا]] لـ[[multilingual-learning|الإنجليزية]]**، وأظهرا أن **دعم المدرّس** يدفع الانخراط بمساعدة الذكاء الاصطناعي في المقام الأول عبر أهداف التفوّق في الإتقان والتفوّق في الأداء (توجهات التفوّق لا التجنّب). وتُظهر هذه الدراسات معًا أن التحفيز في سياقات الذكاء الاصطناعي نمائي ومسند اجتماعيًا بسقالة معًا — فهو يتحول مع الوقت ويستجيب لدعم المدرّس وتأطير الأهداف، لا لتصميم الأداة وحده.
@@ -86,7 +87,6 @@ ai_assist:
 
 **تنظيم الدافعية أرقّ بنية في هذه الأدبيات.** عبر 39 دراسة، وجد [[pan-generative-ai-student-motivation-sdt-review-2026|Pan وAbuhassna وJiang (2026)]] أن الدافعية المستقلة قيست في دراستين، والتنظيم المحدَّد والدافعية المضبوطة في دراسة واحدة لكل منهما، مقابل 17 دراسة قاست الحاجات النفسية الأساسية و10 قاست الانخراط. ويسمّي المؤلفون تلك الفجوة المشكلة المركزية للمراجعة، لأن التنظيم يسأل عن *سبب* دافعية الطالب بينما إشباع الحاجة يسأل فقط عمّا إذا كان السياق قد دعمه.
 
-
 ## Connections to related concepts
 
 التحفيز هو البناء الأصلي لـ[[self-determination-theory|نظرية تحديد الذات]]، التي تُحدّد الحاجات النفسية (الاستقلالية، والكفاءة، والارتباط) التي تُسند التحفيز الداخلي. وهو يتصل بـ[[student-experience|تجربة الطالب]] كطبقة خبرية للانخراط المتحفّز، وبـ[[student-engagement|تفاعل الطلاب]] كبُعد قابل للقياس له، وبـ[[affective-computing|الحوسبة الوجدانية]] للآليات العاطفية التي تُشكّل التحفيز. ويتصل التحفيز كذلك بـ[[cognitive-offloading|الاعتماد المُفرط]] (الذكاء الاصطناعي يُنقص [[desirable-difficulties|الكفاح المُنتج]])، و[[self-regulated-learning|التعلّم الذاتي التنظيم]] (المتعلّمون المتحفّزون ينظّمون أنفسهم)، و[[teacher-role|دور المدرّس]] (التحفيز يسري على المعلّمين كذلك على الطلاب).
@@ -96,58 +96,3 @@ ai_assist:
 - **«أثر الذكاء الاصطناعي التوليدي على الدافعية مكسب كبير نظيف.»** وجد تحليل تلوي لـ42 دراسة (56 حجم أثر، 6,059 طالبًا) أثرًا على الدافعية قدره g = 0.764 (فترة ثقة 95% [0.566, 0.962]) **لكن مع I² = 93.7%**. فتباين بهذا الارتفاع يعني أن الرقم المجمَّع يصف مجموعة دراسات تختلف إحداها عن الأخرى، فهو متوسط على معالجات غير متسقة لا أثر قابل للتكرار.
 - **«خفض الإحباط هو نفسه استدامة الدافعية.»** وجدت [[rct|تجربة عشوائية مضبوطة]] بثلاث أذرع أن مدرّسًا مسندًا بسقالة وChatGPT غير المقيَّد **خفضا الإحباط بالقدر نفسه** (3.21 و3.13). فتصميمان مختلفان جدًا أنتجا النتيجة الوجدانية ذاتها، لذا لا تستطيع بيانات الإحباط التمييز بينهما.
 - **«التصميم المحفّز تصميم جيد.»** فبين **222 طالبًا في السنة الأولى الثانوية**، رفع صيغة الحوار بين المدرّس والمدرّس دافعية ARCS **أكثر** من البديل مع **عدم تحسين التقييم العام**. فقد تحركت الدافعية ولم تتحرك الجودة المحكَّمة.
-
-## المفاهيم المرتبطة
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[self-directed-learning]]
-
-- [[reflection]]
-
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-## المقالات المرتبطة
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — معتقدات التوقّع-القيمة كسوابق لقبول الذكاء الاصطناعي التوليدي
-- [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender, motivation, and GenAI achievement trajectories
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: four motive families for reaching for AI while reading
-- [[genai-math-relevance-intervention-2026]] — GenAI relevance dialogue raised relevance as identification but left class interest flat
-- [[genai-learning-motivation-meta-analysis-2026]] — Random-effects meta-analysis of GenAI's effect on learning motivation (56 effect sizes, 6,059 students)
-- [[ai-student-motivation-scoping-review-2026]] — 156 studies on AI and student motivation: 85.3% used no motivational theory, and coverage is narrow in construct, level, and country
-- [[gai-advocacy-practice-art-education-2026]] — فجوات السياسة والممارسة في مناصرة الذكاء الاصطناعي التوليدي تعمل ضاغطًا يقيّمه الطلاب
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — مدرّس مسند بسقالة رفع الدافعية الداخلية حيث لم يفعل ChatGPT غير المقيَّد
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — تغذية راجعة متكافئة الجودة من الذكاء الاصطناعي ومن المدرّس، مع فجوة تحفيزية تمرّ عبر الصلة المُدرَكة (Liu وآخرون 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - مراجعة موجَّهة بنظرية تحديد الذات لـ39 دراسة: الحاجات والانخراط يُقاسان كثيرًا، وتنظيم الدافعية تقريبًا لا يُقاس

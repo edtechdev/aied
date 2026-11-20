@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,11 +48,3 @@ Guru K–12 yang telah menggunakan [[generative-ai|AI generatif]] untuk membangu
 Member dan Builder gratis (Builder: 50 aplikasi, 50 MB); Pro adalah \$10 per bulan atau \$60 per tahun untuk 500 aplikasi. Aksesnya freemium.
 
 Privasi adalah klaim yang lebih kuat, tetapi klaim itu memindahkan tanggung jawab kepada guru. Teacher Hive tidak membuat akun siswa, tidak meminta informasi pribadi siswa, dan tidak menjalankan skrip analitik atau iklan di dalam aplikasi yang diterbitkan. Karena aplikasi bersifat publik lewat tautan, ketentuannya menjadikan guru bertanggung jawab memastikan aplikasi mereka tidak mengumpulkan nama, surel, ID siswa, atau lokasi. Cakupan aksesibilitas (WCAG 2.2 AA) berlaku untuk halaman Teacher Hive sendiri, bukan untuk aplikasi buatan guru, yang belum diuji. Tidak ada lisensi sumber terbuka yang dinyatakan, dan waktu aktif serta retensi data tidak dijamin.
-
-## Konsep terkait
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

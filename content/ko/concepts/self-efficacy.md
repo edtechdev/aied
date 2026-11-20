@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -90,50 +92,3 @@ ai_assist:
 - **"확신이 낮은 상태의 AI 사용 증가는 무해한 대처 전략입니다."** 같은 발견이 그 경로를 **더 낮은 점수**와 연결하므로, 그 대처 패턴은 중립적 선택이 아니라 측정 가능한 비용을 지닙니다.
 - **"리터러시만으로 확신이 자랍니다."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]]는 이미 ChatGPT를 사용하는 **대학생 450명**을 설문하여 **리터러시와 확신 사이의 축으로서 신뢰**를 발견합니다. 경로가 신뢰를 지나가므로, 신뢰를 다루지 않고 리터러시만 높이는 것은 메커니즘을 그대로 둡니다.
 - **"자기효능감 유형은 장애 집단에서 획일적입니다."** 스페인의 **운동 장애가 있는 대학생 102명**에 대한 잠재 프로파일 분석은 **세 가지 프로파일**을 발견했으며, 낮은 집단이 **29.4%**였고 나머지는 중간 및 높은 프로파일에 나뉘었습니다. 집단을 하나의 모집단으로 다루면 서로 다른 동기 상태들을 평균 내어 지웁니다.
-
-## 연결된 개념
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-## 연결된 문서
-- [[confident-but-absent-ai-use-absenteeism-2026]] — 일반적 AI 사용이 높은 자기효능감과 높은 결석과 함께 움직였으나, 자기효능감은 출석을 예측하지 못함 (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 고등교육에서의 AI 챗봇: 기대와 증거의 비교 (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — 기술 의존이 커지는 가운데 상승하는 자신감: 오도하는 AI 시대 결과로서의 자기효능감 (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI가 지원하는 e-멘토링이 EFL 예비 교사의 자기효능감과 정서 지능을 높임 (준실험적)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC 가능성과 학생 자기조절
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI 리터러시, AI 준비도, 그리고 경력 적응성
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정이론을 통한 AI 리터러시 교사 교육 (SDT)
-- [[social-robot-study-companions]] — 학습 동반자로서의 사회적 로봇
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP 틀
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — 생성형 AI 사용 양상과 학업 자기효능감
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS 척도: AI 리터러시 강좌에서 역량 강화와 윤리 인식이 PBL과 만족도를 매개함 (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — 경쟁 프로그래밍에서의 학생 중도 이탈 예측
-- [[genai-xr-architectural-design-education-2026]] — 협력적 건축 디자인 교육에서의 생성형 AI와 확장 현실: 탐색적 스튜디오 연구
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 지속적인 ChatGPT 사용에 이르는 연쇄 경로에서의 AI 리터러시, 신뢰, 학업 자기효능감
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 운동장애 대학생이 보고한 AI 사용과 학업 자기효능감 유형
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 아동의 생성형 AI로부터 보고된 창조적 자기효능감 이득 (범위 검토)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — 말하기 자기효능감이 AI 보조 연습에서 의향으로 가는 불안 경로를 역전시킴
-- [[faculty-ai-well-being-social-supports-2026]] — 교수진 SEM: AI 웰빙의 약한 예측 변수로서의 기술적 자기효능감
-- [[cen-self-efficacy-favorability-2026]] — 자기효능감과 호감도가 튜터링 시스템과 종이 연습으로부터의 학습을 형성함 (Cen et al. 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — 학생의 추론을 지원하는가 대체하는가? AI 보조 증명 학습에서의 인지적 오프로딩(Chen 외 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — 쓰기 자기효능감 척도는 번역과 검토 질의가 더 많음을 예측했고, 계획이나 글 전체의 위임은 늘지 않았다 (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — 기술 강화 학습에서 학습자의 상호작용 흔적으로 자기효능감 신념을 측정하기 위한 기계학습의 활용
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI 자기효능감 -> AI 리터러시 -> AI 수용, 지식 매개 몫을 측정함 (İşbulan et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — 학업 자기효능감이 AI 과신을 낮추기보다 오히려 높인다고 예측함
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — 유용성의 필요조건으로서의 자기효능감, 병목 임계값 포함(Chu & Liu 2026)
-- [[wang-ai-assisted-blended-teaching-crop-breeding-2026]] — 자기효능감은 AI 집단과 통제 집단을 d = 2.84로 갈라놓았으나 시험 점수는 움직이지 않음
-- [[petricini-ai-literacy-communication-equity-2026]] — 생산적 재보정으로 읽힌 역량 하락
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — LLM이 주석을 단 코드를 읽자 확신이 독립성 쪽으로 이동함

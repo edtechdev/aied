@@ -26,6 +26,8 @@ ai_assist:
 translation_of: concepts/student-support-and-success
 source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -107,53 +109,3 @@ Bu literatürde kalıcılık teknik değil örgütsel bir özelliktir. CSUN prog
 **“Sonuç merdiveni çöker: etkileşim, elde tutmadır.”** Her basamak farklı bir şeyi ölçer (kaydolma, yanıt verme, devam etme, tamamlama) ve bir program alt basamakları hareket ettirirken üst basamakları düz bırakabilir. Yanıt veren payı başarı olarak raporlamak, tam olarak bu yerine koymayı işler.
 
 **“Bir eşitlik kaygısı, veriyi kullanmayı bırakmak için bir nedendir.”** Puanlara göre dikkatle hareket etmek için bir nedendir. Bir yordayıcıya göre hareket etmek hem destek hem de kuşku dağıtabilir ve risk, modelin en olumsuz sınıflandırdığı öğrencilerde yoğunlaşır; bu da çareyi ölçümü terk etmek değil, kullanımın yönetişimi yapar.
-
-## Bağlı kavramlar
-
-- [[higher-ed]] — bu sayfanın altında yer aldığı sektör çatısı
-- [[student-experience]] — YZ'nin öğrencinin kendi deneyimine nasıl yansıdığı
-- [[learning-gains]] — öğrenmenin gerçekleşip gerçekleşmediği, bu sayfanın ölçmediği öğretimsel sonuç
-- [[learning-analytics]] — tahmin, erken uyarı ve öngörücü analitik
-- [[student-modeling]] — risk tahmininin altındaki modelleme katmanı
-- [[knowledge-tracing]] — ayrıntılı beceri ve ustalık tahmini
-- [[recommender-systems-and-learning-paths]] — dersler, kaynaklar ve yollar önermek
-- [[help-seeking]] — öğrencilerin destek istemeye nasıl geldiği
-- [[well-being]] — kampüs ruh sağlığı, önleme ve müdahale
-- [[career-development-and-readiness]] — tamamlamadan sonraki sonuç
-- [[administrator]] — destek sistemlerini sahiplenen ve işleten rol
-- [[stakeholders]] — kurumsal YZ kararlarında söz sahibi olanlar
-- [[change-management]] — pilot sonrasında programı sürdürmek
-- [[governance]] — kurumsal YZ için politika ve gözetim
-- [[educational-policy-ai]] — kurumsal dağıtım için politika bağlamı
-- [[equity-in-ai-education]] — sistemin kime ulaştığı ve kimi kaçırdığı
-- [[privacy]] — öğrenci kayıtları, veri paylaşımı ve birleşik yaklaşımlar
-- [[human-in-the-loop-ai]] — otomatik bir destek akışı içinde insan yargısı
-- [[rct]] — buradaki en güçlü kanıtın arkasındaki tasarım
-
-## Bağlı makaleler
-
-- [[cefa-ai-learner-support-review-2026]] — YZ destekli öğrenen desteği üzerine 61 çalışmalık inceleme: uyarlanabilir sistemler ve tahmin baskın; geçiş aşaması ve çeşitli öğrenenler yok
-- [[mata-sustaining-ai-enabled-student-support-2026]] — bir üniversite destek sohbet robotunun dört yıllık rastgele değerlendirmesi: görev tamamlama harekete geçti, mezuniyet ve GPA geçmedi
-- [[chatbot-outreach-course-performance-2026]] — önceden kaydedilmiş çok dönemli ulaşım denemesi: daha yüksek A/B oranları, mütevazı DFW kaymaları, bir demografik istisna
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 sentetik senaryo: destek önerilerinde öğrenci ihtiyacına sınırlı duyarlılık ve modeller arası tutarsızlık
-- [[sc2r-counterfactual-recourse-educational-2026]] — eyleme dönüştürülebilirlik açığı: kaynak yönlendirme uygulanabilir ve denetlenebilir olmalı, yalnızca model geçerli değil
-- [[fairness-theatre-early-warning-systems-2026]] — 168.550 kayıttan oluşturulmuş satıcı bir erken uyarı sistemi üzerinde altı sonradan adillik müdahalesi
-- [[at-risk-students-ml-prediction]] — okulu bırakmadan önce öğrencileri tanımlayan denetimli sınıflandırıcılar
-- [[predicting-attrition-competitive-programming]] — terki öngören davranış günlükleri artı psikografik anket
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — ham öğrenci verisi paylaşılmadan kurumlar arası birleşik risk modellemesi
-- [[precision-education-student-digital-twins-2026]] — bir vizyon olarak dijital ikizler ve "önleyici öğrenci başarısı"
-- [[learning-analytics-to-educational-interventions-2026]] — analitikten müdahaleye döngüyü kapatmak için yedi olanaklı kılan etken
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — yardım isteme maliyetini düşürmeyi hedefleyen derse özgü bir asistan
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — özel ders alımı öğrenmeden ayrı test edildi
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — önerilen öğrenme nesnelerine eşlenen altı davranış profili
-- [[trace-course-grade-prediction-2026]] — planlama için dersler ve notların birlikte tahmini
-- [[zhang-ml-student-progress-programming-2026]] — yorumlanabilir modül düzeyinde ilerleme tahmini
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — yükseköğretimde YZ, liderlik ve hizmet sunumuna dair 155 çalışma
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — eğitim liderliğinde YZ'nin on alanlı taksonomisi
-- [[students-at-stake-ai-deployment-risks-2026]] — öğrenci tarafı risk yüzeyi: kabul ve yardım, öğrenci başarısı hizmetleri ve öğretim
-- [[ai-campus-wellbeing-tools]] — önleme ve müdahale arasında uzanan kampüs esenliği desteği
-- [[shastry-gray-empathy-offloading-2026]] — Empati devretme üzerine dört çalışma: YZ’nin duygusal destek sağlayabileceğine inanmak, insanların kendilerinin sağladığını azaltıyor (Shastry & Gray 2026)
-- [[coursegraph-cs-course-comparison-2026]] — aktarma kredisi ve mobilite için ders denkliği
-- [[credentials-carry-evidence-ai-agents-2026]] — bir ajan işi yapabildiğinde tamamlama kaydının ne anlama geldiği
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — YZ destekli kopya çekme riskini erken öngörmek ve düşük riskli ulaşım çalışmaları için eşik ödünleşimi
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Kurumsal bir YZ çalışma asistanının beş ortak tasarım çalışması: önce erişilebilirlik, en sonda değer temelli direnç

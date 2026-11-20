@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,7 +49,3 @@ Belirli bir sorun için abonelik, herkes için bir öğrenci hesabı ya da önce
 ## Notlar ve uyarılar
 
 Hız hem satış argümanıdır hem de risktir. Tek günde yapılan geliştirmeler bir araştırma sorusunu değil gerçek bir sınıf sorununu hedefler, bu nedenle buradaki hiçbir şey bir değerlendirme taşımaz ve bir uygulamanın ne yaptığına dair her iddia sınıfta test edilmelidir. GitHub organizasyonunda 32 halka açık depo bulunurken galeri 34 uygulama listeler; hepsi Apache-2.0 altındadır ve kaynak kodu erişilebilirdir, böylece bir uygulama okunabilir ve kendi sunucunuzda barındırılabilir. Yerel öncelikli tasarım, uygulama başına doğrulanması gereken bir iddiadır ve bir öğretmen öğrenciye dönük herhangi bir aracı sınıfın karşısına koymadan önce bunu teyit etmelidir.
-
-## Bağlı kavramlar
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

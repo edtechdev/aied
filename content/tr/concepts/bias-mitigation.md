@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,7 +38,6 @@ ai_assist:
 ## Giriş
 
 Önyargı azaltma önemlidir, çünkü [[ai-education|eğitimde yapay zeka]] tarafsız değildir: baskın dil ve kültür verisi üzerinde eğitilmiş sistemler, ana dili konuşanı olmayan yazarları cezalandıran YZ temelli puanlamadan farklı gruplara farklı yanıt veren [[llm|LLM]] öğretmenlerine kadar marjinalleştirilmiş öğrenenleri sistematik biçimde dezavantajlı konuma getirebilir. Önyargı, [[automated-assessment|Otomatik Puanlama]]’da, [[automated-essay-scoring]]’de, [[knowledge-tracing]]’de, öneri sistemlerinde ve [[conversational-ai|konuşma tabanlı YZ]] öğretmenlerinde görülen yatay bir kaygıdır.
-
 
 [[solyst-youth-systematic-evaluation-genai-2026|Solyst ve ark. (2026)]], önyargı azaltmanın yalnızca mühendislikle değil öğretimle de mümkün olduğunu gösterir: bir metinden görüntüye modelinin çıktılarını sorgulamaya yönlendirilen gençler, temsil üzerine sistematik değerlendirmeler üretti ve müdahaleden önce insan görüntüleri için istekleri beyaza kaymıştı.
 
@@ -65,7 +66,6 @@ Bilgi tabanının araştırması, önyargının hattın birden fazla noktasında
 - **Alt grup denetimleri, otomatik bir kodlayıcıda eşitliği belgeleyebilir** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman ve Borman (2026)]], ince ayarlı bir BERT kompozisyon kodlayıcısının stereotip tehdidi altındaki öğrenciler için 0,92, tehdit altında olmayanlar için 0,94 doğruluğa ulaştığını ve her iki grupta 0,98 geri çağırma elde ettiğini buldu. Cinsiyet doğruluğu 0,95’e karşı 0,93 ve ücretsiz veya indirimli öğle yemeği grupları 0,95’e karşı 0,94 düzeyinde kümelenirken, İngilizce öğrenenler (%8) ve bireyselleştirilmiş eğitim planı olan öğrenciler (%10) alt örneklemler çok küçük olduğu için alt grup analizinden çıkarıldı.
 
 **Toplam doğruluk, zorlanan öğrencileri bulamayan bir modeli gizleyebilir.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar vd. (2026)]], tek bir Estonya kohortunda üç model ailesi eğitti ve kohortu iki biçimde böldü. Dengeli kümede aileler karşılaştırılabilirdi. Dengesiz bölmede, birinci çeyreğin altında 125 öğrenciye karşı üstünde 328 öğrenci varken, karar ağaçları, bir Bayes ağı ve rastgele ormanlar %80 kesinlikte düşük performanslılar için %8, %12 ve %16 geri çağırma elde etti ve yalnızca nöro-sembolik model %50’yi geçti.
-
 
 ## Azaltma yaklaşımları
 
@@ -104,61 +104,10 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 - **Sistemleri açıklanabilir kılın:** YZ kararlarına ilişkin şeffaflık, önyargının saptanması ve düzeltilmesi için esastır.
 - **Teknik ve insan azaltmasını birleştirin:** önyargı giderimi algoritmalarını insan-çalışmalı gözetimle eşleştirin, özellikle yüksek riskli veya düşük güvenli durumlarda.
 
-
 Bu sayfadaki her şey sistemin içindeki önyargıyla ilgilidir. [[automation-bias]], çıktısını okuyan kişideki önyargıyla ilgilidir — insanın tek başına ulaşsaydı sorgulayacağı bir öneriyi kabul etmesi — ve model doğru olsa bile varlığını sürdürür.
-
 
 ## Yaygın yanlış anlamalar
 
 - **"Önyargı bir puanlama ve geri bildirim sorunudur."** Önyargı **puanlama dışındaki görev sınıflarına** girer: **28 öğrencilik yazılım mühendisliği sınıflarını dört takıma atayan üç LLM, erkekleri referans dağılıma göre en az %80 daha az sıklıkta** yönlendirdi. Takım oluşturma, puanlamaya benzer büyüklükte önyargı taşıdı.
 - **"İlgili beceriyi sağlamak önyargıyı ortadan kaldırır."** Beceri sağlamak önyargıyı **azalttı ancak ortadan kaldırmadı**: **beceri temelli atamaların %99,2'si iki temel gerçek takımdan biriyle eşleşti, ancak cinsiyet eşit derecede geçerli seçenekler arasında yine de belirleyici oldu (OR 2,53**). Neredeyse kusursuz görev eşleşmesi bir cinsiyet etkisiyle bir arada bulundu; bu nedenle birincil ölçütteki doğruluk adilliğin kanıtı değildir.
 - **"Tek bir azaltma yaklaşımı yeterlidir."** Araştırma **tamamlayıcı stratejileri** örnekler (aralarında adillik duyarlı modelleme de vardır), çünkü oluşum aşamasında giren önyargı, çıktı metnine yönelik bir düzeltmeyle ele alınmaz.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — bu sayfanın kapsamadığı okuyucu tarafı başarısızlık: bir öneriyi denetlemeden kabul etmek
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı makaleler
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Sinir-sembolik pedagojik hizalama (NSPA)
-- [[ai-scoring-language-bias-physics]] — YZ temelli puanlamada dil önyargısı
-- [[gender-bias-transfer-llm-writing]] — LLM destekli yazmada cinsiyet önyargısı aktarımı
-- [[paternalistic-filter-llm-history-education]] — Ataerkil süzgeç ve farklı retler
-- [[fair-explainable-edu-recommendations]] — Adil ve açıklanabilir eğitim önerileri
-- [[temporal-smoothness-debiased-kt]] — Önyargısı giderilmiş bilgi izleme
-- [[ground-truth-reliability-aied]] — YZ güvenilirliği için zemin gerçeğinin modernleştirilmesi
-- [[data-annotations-pedagogical-hints]] — Pedagojik ipucu olarak veri açıklamaları
-- [[xai-education-framework]] — Eğitimde açıklanabilir YZ
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-becerileri gizliliği ve önyargı denetimi
-- [[genai-minoritized-knowledges-disability]] — Üretici YZ ve azınlıkta kalmış bilgilerin marjinalleştirilmesi
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — İşaretlenmiş Pedagojiler: otomatik yazma geri bildiriminde stereotiple uyumlu önyargılar
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Eğitimde yapay zeka için etik değerler ve normlar
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — sınıf dengesizliği altında üç model ailesi düşük performanslıları belirleyemedi, oysa dengeli ölçütler sağlıklı görünüyordu
-

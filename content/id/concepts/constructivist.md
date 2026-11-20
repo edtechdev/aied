@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -94,7 +96,6 @@ Ini mencerminkan hierarki [[icap-framework|ICAP]] — keterlibatan konstruktif d
 - **Alat berpikir di atas mesin jawaban** — menggunakan GenAI sebagai [[genai-mindtool-generative-learning]] di mana pembelajar menggerakkan alatnya, bukan alat yang menggantikan pembelajar.([[genai-mindtool-generative-learning]])
 - **Konflik konstruktif** — agen AI adversarial yang menantang desain atau penalaran pembelajar, mendorong pertimbangan ulang dan konstruksi alternatif yang lebih mendalam, dalam tradisi tutorial Sokratik.([[ai-agents-constructive-conflict-design-education-2026]])
 
-
 - **Oposisi tersimulasi bukanlah oposisi.** Posisi lawan yang dapat disuarakan sesuai permintaan tetapi tidak pernah melawan hanya melatih koreografi dialog sambil menahan apa yang membuatnya kuat: ia tidak memiliki perwujudan, taruhan, atau paparan terhadap konsekuensi, sehingga tidak seperti liyan manusia ia tidak menawarkan jalan menuju perbaikan ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Umpan balik internal melalui perbandingan** — membiarkan pembelajar membandingkan karyanya sendiri dengan contoh yang dihasilkan AI sehingga tindakan membandingkan itu sendiri menghasilkan pembelajaran.([[ai-internal-feedback-evaluative-judgments]])
 - **Pemberian prompt yang sadar tipe pertanyaan** — mengklasifikasikan pertanyaan pembelajar ke dalam peran konstruktivis agar sistem dapat dengan sengaja menaikkan seorang siswa dari pencarian informasi menuju penyelidikan eksploratif dan dialogis alih-alih mencerminkan kedalaman kognitif apa pun yang tersirat dari pertanyaan itu. Karena maksud fasilitator dan rekan-belajar tetap sulit dibedakan bagi pengklasifikasi otomatis, desain ini mempertahankan manusia untuk memvalidasi kategorisasinya sebelum kategorisasi itu menggerakkan [[feedback]] atau [[scaffolding]].([[lee-learner-question-types-ai-education-2026]])
@@ -116,54 +117,3 @@ Konstruktivisme juga membentuk bagaimana literasi AI itu sendiri diajarkan. Jika
 - **"Anda dapat mendeteksi pengajaran konstruktivis dari pertanyaan yang diajukan."** Sebuah pengklasifikasi DeBERTa **mengklasifikasikan pertanyaan faktual penyampai pengetahuan dengan presisi 96.67% tetapi pertanyaan fasilitator hanya 78.79%**, dan **setiap model mengacaukan dua peran tingkat lebih tinggi itu**. Konstruk yang paling penting justru yang paling buruk ditangani deteksi otomatis.
 - **"Ciri permukaan sebuah pelajaran mengungkap pedagoginya."** Kegagalan pengklasifikasi itu bukan detail implementasi. Peran fasilitator dan konstruktivis adalah kasus sulit justru karena keduanya didefinisikan oleh apa yang dilakukan guru dengan pemikiran pembelajar, dan relasi itu tidak dapat dipulihkan dari teks pertanyaan semata.
 - **"Konstruktivisme berarti guru tidak menjelaskan."** Teori ini menempatkan pembelajaran pada konstruksi pembelajar dari pengalaman, yang kompatibel dengan pengajaran langsung. Memperlakukannya sebagai larangan untuk memberi tahu salah membaca teori itu maupun bukti tentang contoh yang dikerjakan.
-
-## Konsep terkait
-- [[community-of-inquiry]] — Community of Inquiry (berakar pada pragmatisme konstruktivis/Deweyan)
-- [[cognitive-psychology]] — Kognitivisme, kutub klasik ketiga teori belajar
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
-- [[theory-development-aied]] — Pengembangan Teori dalam AI dalam Pendidikan
-- [[productive-failure]]
-
-## Artikel terkait
-- [[lee-learner-question-types-ai-education-2026]] — Pertanyaan pembelajar diklasifikasikan ke dalam tiga peran konstruktivis: penyampai, fasilitator, rekan-belajar (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — Menempatkan konstruksionisme (Papert) berhadapan dengan tutor kognitif dalam sejarah AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: kerangka konstruksionisme untuk konstruksi artefak
-- [[ai-writes-code-student-writes-model-2026]] — Kepengarangan model: teori dan program pengukuran untuk belajar-dengan-mengonstruksi bersama GenAI
-- [[ai-vocational-education-training-review]] — Konstruktivisme dinyatakan tetapi AI behavioris mendominasi di VET; "Turing Trap"
-- [[generative-refusal-ai-tools-for-thought]] — Alat AI yang menahan generasi untuk melindungi pemikiran konstruktif
-- [[genai-mindtool-generative-learning]] — GenAI sebagai alat berpikir yang mendukung konstruksi pembelajar
-- [[ai-agents-constructive-conflict-design-education-2026]] — Agen AI adversarial yang mendorong pertimbangan ulang konstruktif
-- [[hingle-collaborative-ai-literacy-2025]] — Literasi AI kolaboratif dan kerangka keterlibatan ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — Perbandingan berbantuan AI yang menghasilkan penilaian evaluatif
-- [[icap-cognitive-engagement-llm-agents]] — ICAP dan keterlibatan kognitif dengan agen LLM
-- [[conversational-ai-tutors-framework]] — Perancah dialog dalam tutor AI
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Penyelidikan berwujud dengan fasilitator AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Penilaian autentik dan konstruksi pengetahuan
-- [[teacher-ai-teaming-five-levels]] — Tingkat kolaborasi guru–AI dalam desain
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Ko-agensi epistemik antara pembelajar dan mesin
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Jalur Menuju Pembelajaran Robotika Pendidikan Berbasis AI (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agen generatif yang menyimulasikan evolusi kognitif siswa
-
-- [[synthetic-position-self-authorship-2026]] — Posisi lawan AI tersimulasi melatih bentuk dialog tetapi menahan resistensi yang memaksa revisi
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran: nilai pekerjaan rumah naik 18%, ujian tanpa buku turun 20%, terkonsentrasi pada pengalihdaya pekerjaan rumah

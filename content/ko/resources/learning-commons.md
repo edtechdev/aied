@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -49,12 +50,3 @@ ai_assist:
 ## 유의 사항과 한계
 
 [[open-source|소스]]가 개방적이라고 해서 데이터가 개방적인 것은 아닙니다. Knowledge Graph와 Evaluator 코드는 MIT이고 Agent Skills는 Apache-2.0이지만, 각 데이터셋은 자체 접근 라벨 — Open, Open + Gated, Gated — 을 가지며, Gated 콘텐츠는 저장소가 제시하는 개방형 라이선스의 적용을 명시적으로 받지 않으므로 재사용 권리를 전제하기 전에 데이터셋 목록을 확인해야 합니다. 프롬프트 내용은 CC BY 4.0이지만, 그것이 사용하는 주석이 달린 CLEAR 및 PERSUADE 2.0 코퍼스는 CC BY-NC-SA 4.0입니다. 플랫폼과 그 배후의 데이터셋에는 계정이 필요합니다. 2026-11-04에 확인한 저장소 활동: Knowledge Graph 167개 스타, Evaluators 88개, Agent Skills 41개. 이 이니셔티브는 CZI가 자금을 대며, 문제를 규정하는 방식은 자금 제공자 자신의 것입니다.
-
-## 연결된 개념
-
-- [[curriculum-design]] — 생성 콘텐츠를 표준과 교육과정에 정렬하기 위해 존재하는 그래프
-- [[open-source]] — MIT와 Apache-2.0 코드, 데이터는 데이터셋별 라이선스
-- [[educational-nlp]] — 평가기는 LLM 출력 위의 텍스트 측정 계층
-- [[agentic-ai]] — 모델이 수행할 워크플로를 묶은 스킬
-- [[edtech-platform]] — Curriculum Sync가 교육과정을 학습관리시스템에 불러옴
-- [[llm]] — 평가의 대상이자 스킬의 소비자

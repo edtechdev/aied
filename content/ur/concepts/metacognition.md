@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -58,7 +60,6 @@ ai_assist:
 
 انحصار ناکامی نہیں ہے: [[du-yuan-epistemic-dependence-2026|Du اور Yuan (2026)]] AI کی وساطت والی سیکھنے کا جائزہ چھ تشخیصی معیاروں پر لگاتے ہیں — قابلِ چیلنج ہونا، بازیابی پذیری، منتقلی، سراغ لگا سکنا، تقسیم شدہ ذمہ داری اور علمی تکثیریت — اور اُن آلہ جاتی معاونت میں فرق کرتے ہیں جو آؤٹ پٹ پیدا کرنے میں مدد دیتی ہے اور اُس فیصلہ اُٹھانے والی معاونت میں جو وہ معیار فراہم کرتی ہے جن پر آؤٹ پٹ پرکھا جاتا ہے۔
 **گورننس کے سوال کا نام رکھنا۔** [[metacognitive-ownership-human-ai-regulation-2026|Lin اور Chang (2026)]] **میٹا کوگنیشن ملکیت** تجویز کرتے ہیں — یعنی اُن معیارات، [[evaluative-judgment|جائزہ فیصلوں]] اور اعمال کی سیکھنے والے کی گورننس جن میں AI حصہ ڈالتا ہے — اور معیارات کی تخصیص، نگرانی اور فیصلے کی گورننس، اور کنٹرول کی اجازت کاری کو الگ کرتے ہیں، اور مختلف طریقے سے عمل کرنے کا حقیقت پسندانہ موقع لازم قرار دیتے ہیں۔
-
 
 کلیدی نتائج:
 - **Kosmyna et al. (2025):** جن طلبہ نے مضمون لکھنے میں AI کی معاونت لی، اُن میں سے **83% اپنے ہی مضامین کے اقتباسات یاد نہیں کر سکے**، جبکہ AI استعمال نہ کرنے والوں میں یہ تناسب 11% تھا — جو ظاہر کرتا ہے کہ تیاری کے دوران اُن کا مواد سے واسطہ نہیں رہا۔
@@ -99,7 +100,6 @@ ai_assist:
 - **ایک انتخابی فائدہ: منصوبہ بندی اور نگرانی کے بغیر میٹا کوگنیشن علم۔** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] نے 68 [[teacher-education|پری سروس اساتذہ]] کو دو گروہوں میں تقسیم کیا: ایک گروہ جس نے ایک تخلیقی AI نئے سیکھنے والے کو الٹے کلاس روم کی وضاحت کی (n=33)، اور ایک گروہ جس نے ایک تخلیقی AI استاد سے سوالات پوچھے (n=35)۔ نئے سیکھنے والے والے گروہ نے میٹا کوگنیشن علم اور سیکھنے کی حکمت عملیوں پر زیادہ اسکور کیا (p < 0.001، Cohen's *d* = 0.41) مگر منصوبہ بندی اور نگرانی پر نہیں (M = 4.01 بمقابلہ 3.78، p = 0.062)، حالانکہ اُسی گروہ کی وضاحت اور اطلاق کے اسکور بڑھے (r = 0.474 اور r = 0.642) جبکہ حقائق کی یادداشت نے گروہوں میں فرق نہ ڈالا (p = 0.416)۔ یہ تقسیم تعارف میں بیان کردہ دو اجزاء کی پیروی کرتی ہے: کسی ایسے شخص کو وضاحت کرنا جو واپس سوال کرے، اِس بات کا اعلانیہ ادراک پیدا کرتا ہے کہ آپ کیا جانتے ہیں، مگر ڈیزائن میں کوئی چیز سیکھنے والے کو راستہ مقرر کرنے یا پیش رفت جانچنے پر نہ لائی، جسے مصنفین کردار کے بجائے کام کے ڈیزائن اور علمی بوجھ سے منسوب کرتے ہیں۔ AI کے ساتھ [[learning-by-teaching]] اِس لیے میٹا کوگنیشن علم پر ایک لیور ہے، خود بخود [[self-regulated-learning|ضابطگی]] پر نہیں، اور مصنفین صریح منصوبہ بندی کے پرامپٹس اور پیش رفت کے فیڈبیک کے اضافے کی سفارش کرتے ہیں۔
 - **بلند آواز سوچنا ابتدائی ادراک کو سہارا دیتا ہے مگر گہرا جائزہ نہیں۔** [[karaki-think-aloud-ethical-genai-2026|Karaki اور Baroudi (2026)]] نے 44 پہلے سال کے انٹرپرینیورشپ طلبہ کے ساتھ [[mixed-methods-research|مخلوط طریقوں]] والا عملی تحقیق کا مطالعہ کیا جو AI کی معاونت والے کورس ورک کے دوران بلند آواز سوچنے کا طریقہ استعمال کر رہے تھے۔ بلند آواز سوچنے نے طلبہ کی پرامپٹ سازی، تصدیق کے طریقے اور اخلاقی فیصلہ سازی زیادہ نمایاں کر دی، مگر AI کے آؤٹ پٹ کا [[critical-thinking|تنقیدی جائزہ]] "اکثر سطحی حد پر ہی رہا، خصوصاً اُن طلبہ میں جنہیں اضافی معاونت درکار تھی" — طلبہ عمومی یا غیر ہم آہنگ جوابات پہچان لیتے تھے مگر پھر بھی اُن پر بھاری انحصار کرتے رہتے۔ خود بتائی گئی میٹا کوگنیشن آگاہی تین سروے شدہ تعبیرات میں سب سے بلند تھی (M = 3.79)، مگر مداخلت کے بعد کا واحد سروے ادراک کو تبدیلی سے الگ نہیں کر سکتا۔ مصنفین کا نتیجہ — کہ بلند آواز سوچنا کوئی خودمختار حل نہیں اور اُسے AI خواندگی، پرامپٹ سازی اور تصدیق کی حکمت عملیوں کی صریح تعلیم کے ساتھ ملانا ضروری ہے — اوپر کی عمل-ثبوت لائن کو *ریکارڈ کیا قید کرتے ہیں* سے *محض بلند آواز بولنا کیا بدلتا ہے* تک بڑھا دیتا ہے۔
 - **پہلے کی میٹا کوگنیشن تربیت AI غور و فکر ساتھی کے فائدے کا دروازہ ہے۔** 60 پری سروس اساتذہ کے ساتھ 2 × 2 تجربے میں، [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] نے میٹا کوگنیشن × ٹول کا نمایاں تعامل پایا: ایک AI [[socratic-method|سقراطی]] ساتھی نے روایتی ڈیجیٹل ٹولز کو صرف تربیت کے بعد 0.56 پوائنٹ سے پیچھے چھوڑا، اور تربیت کے بغیر کوئی برتری نہ تھی (ΔM = −0.03)۔
-
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] دبانے والے بیان کو ورک شیٹس کے خلاف ایک پہلے سے رجسٹرڈ سببی امتحان (N = 317) فراہم کرتے ہیں۔ بے ترتیبی 0.84 بڑھی (95% معتبر وقفہ 0.47 تا 1.21) اور ماڈل میں سب سے واضح اثر تھی، جبکہ گہری کارروائی براہِ راست کے بجائے منتقلی سے تنقیدی سوچ تک چلنے والے زنجیر کے ذریعے گری۔ مصنف اِس حالت کا نام علمی سکون رکھتے ہیں، جس میں نگرانی اور حکمت عملی کا انتخاب خاموش ہو جاتے ہیں جبکہ کارروائی جاری رہتی ہے، اور اُس کی وجہ سیکھنے والے میں نہیں بلکہ ماحول کی فراہم کردہ سہولتوں میں تلاش کرتے ہیں۔
 
@@ -170,64 +170,3 @@ AI یہ فیصلہ کرنے کی **میٹا کوگنیشن حد** بدل سکت�
 - **"AI کی معاونت سے بنیادی صلاحیت برقرار رہتی ہے۔"** جن طلبہ نے مضمون لکھنے میں AI کی معاونت لی وہ **83% اپنے ہی مضامین کے اقتباسات یاد نہیں کر سکے، بمقابلہ 11% اُن کے جو AI استعمال نہیں کر رہے تھے**، جو ظاہر کرتا ہے کہ **تیاری کے دوران اُن کا مواد سے واسطہ نہیں رہا**۔ شمولیت تیاری کے عمل میں ہوتی ہے، اور اُسے نظر انداز کرنا بعد میں ظاہر ہوتا ہے۔
 - **"منتقلی ہر چیز کو خراب کر دیتی ہے۔"** لاگت **عالمگیر کے بجائے محدود** دکھائی دیتی ہے: منتقلی **اُس مخصوص مہارت کو خراب کرتی ہے جس کی مشق ہو رہی ہو، بنیادی ڈومین عمومی صلاحیتوں کو نہیں**، اور یہ **ساتھ** کسی چیز والے منتقلی ٹیسٹوں پر ظاہر ہوتی ہے۔ یہ مقامیت اہم ہے، کیونکہ یہ بتاتی ہے کہ کس چیز کی حفاظت کرنی ہے، عمومی زوال سے خبردار کرنے کے بجائے۔
 - **"پیدا کرنے کی صلاحیت سے یاد رکھنے کی صلاحیت لازم آتی ہے۔"** 83% بمقابلہ 11% کا یادداشت کا فرق براہِ راست جوابی مثال ہے: دونوں حالتوں میں آؤٹ پٹ پیدا ہوا اور یادداشت کا نشان بے حد مختلف رہا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وہ غور و فکر کے مراحل جو یہ ترتیبیں اندر شامل کرتی ہیں
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — سیکھنے کے فیصلے اور وہ روانی کا بھرم جسے بازیابی مشق درست کرتی ہے
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — دو گھنٹے کی AI خواندگی ورکشاپ نے درمیانی اسکول طلبہ کے LLM تعامل کی ضابطگی بدلی، اُن کی خود بتائی گئی میٹا کوگنیشن کے برعکس (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — کمپیوٹر کی معاونت والی مسلسل ترجمانی میں طالب علم اور AI کا تعامل
-- [[du-yuan-epistemic-dependence-2026]] — AI کی وساطت والی سیکھنے میں علمی انحصار (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — طلبہ کیا پوچھتے ہیں، یہی اہم ہے: LLM تعامل کی گہرائی، کام کا معیار اور فوری یادداشت (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی معاونت والی تحریر میں تہہ کے لحاظ سے حساس علمی منتقلی (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM میں LLM کی وساطت سے مدد مانگنا: تہہ دار، آلہ جاتی اور تصدیق شدہ
-- [[cui-motivation-roles-metacognitive-genai-2026]] — میٹا کوگنیشن GenAI شمولیت میں محرک اور کردار
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — میٹا کوگنیشن تربیت بہترین علمی منتقلی میں سہولت دیتی ہے (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — علمی منتقلی میں میٹا کوگنیشن بصیرتیں: طریقہ کار، مداخلتیں اور تعلیمی مضمرات (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — میٹا کوگنیشن کے لحاظ سے ضابطہ GenAI استعمال کے لیے IDEA فریم ورک
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: انسان مرکز AI میٹا کوگنیشن سیکھنے کا ماڈل (ایجنسی اور غور و فکر والی سیکھنا)
-- [[metacognitively-discordant-completion-genai-2026]] — میٹا کوگنیشن کے لحاظ سے متصادم تکمیل اور عدم فہم کا باشعور تسلیم
-- [[ai-metacognition-stem-review]] — STEM میں میٹا کوگنیشن کے لیے سہارا دینے والے AI ٹولز
-- [[ai-making-us-stupid]] — کیا AI ہمیں کندھا بنا رہا ہے؟ علمی منتقلی پر تنقید
-- [[stanford-evidence-base-ai-k12-2026]] — عمومی مقصد کا AI استدلال مکمل کر کے میٹا کوگنیشن کو دباتا ہے
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI مشورہ "مجھے نہیں معلوم" کہنے کی آمادگی کو دبا دیتا ہے، غلط مشورے اور درستگی کے ترغیبات کے باوجود
-- [[agentic-ai-pedagogical-best-practice-2026]] — ایجنٹک AI اور تدریسی بہترین عمل: خودکاری اور سیکھنے کے درمیان تناؤ
-- [[cognitive-offloading-speedup-illusion]] — انسانی-AI تعامل میں علمی منتقلی اور رفتار کے بھرم کی وہم
-- [[lodge-loble-cognitive-offloading-2026]] — AI، علمی منتقلی اور تعلیم کے لیے مضمرات (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — AI کی غلطیوں کی تدریس: اعلیٰ درجے کی سوچ پروان چڑھانا (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — پیداواری ناکامی پر مبنی سیکھنے کو سہارا دینے کے لیے AI نظام ڈیزائن کرنا
-- [[lukesova-clue-before-correction-2026]] — اصلاح سے پہلے اشارہ: خودمختار زبان سیکھنے کے لیے ChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — پرامپٹ خواندگی چکر میں پرامپٹنگ کے عمل اور تخلیق کاری کی نشوونما پر غور و فکر (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — ایک غور و فکر کے پرامپٹ نے غلط AI مشورے کی قبولیت کم کی اور ادراک کی کیلیبریشن بہتر بنائی (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — خودکار اسکورنگ نے نگرانی مضبوط کی مگر منصوبہ بندی نہیں، اور خود بتایا گیا غور و فکر غیر پیداواری رہا (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — تصدیق کی خواندگی کا کام صرف میٹا کوگنیشن خود ضابطگی کے ذریعے (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — نظرثانی کی حکمت عملی کا انتخاب بیرونی سہارے نے چلایا، میٹا کوگنیشن فیصلے کی درستگی نے نہیں (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — ایک انتخابی فائدہ: میٹا کوگنیشن علم بڑھا جبکہ منصوبہ بندی اور نگرانی نہ بڑھیں (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — غور و فکر سے بھرا استعمال AI تک رسائی کے ساتھ بڑھا اور تنقیدی سوچ کی پیش گوئی کی، علم کے فائدے کی نہیں (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — انطباقی STEM سیکھنے کی سب سے مضبوط پیش گو کے طور پر میٹا کوگنیشن آگاہی (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — تشخیص سے میٹا تشخیص تک: AI سے پیدا شدہ اندازوں کا جائزہ لینے والے اساتذہ (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — غور و فکر والے AI تعامل میں مہارت برقرار رکھنے والے انحصار کی طرف کھلے سوالات
-- [[dang-human-ai-collaboration-competency-2026]] — انسان-AI تعاون میں سیکھنے والے کی ایجنسی کا طریقہ کار میٹا کوگنیشن، نہ کہ تدریس (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — میٹا کوگنیشن ملکیت: معیارات، فیصلوں اور اعمال کی سیکھنے والے کی گورننس کے لیے ایک تعبیر
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — لاگز اور بلند آواز سوچنا GenAI کی معاونت والی سیکھنے میں مختلف میٹا کوگنیشن عمل قید کرتے ہیں
-- [[ai-cognitive-partner-reflective-thought-2026]] — جب طلبہ AI کو علمی ساتھی سمجھیں تو غور و فکر والی سوچ کے چار طریقے اور گیارہ عمل
-- [[karaki-think-aloud-ethical-genai-2026]] — بلند آواز سوچنے نے پرامپٹ سازی، تصدیق اور اخلاقی استدلال نمایاں کیا، مگر تنقیدی جائزہ سطحی رہا؛ کوئی خودمختار حل نہیں
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — پری سروس اساتذہ کی غور و فکر والی مشق میں میٹا کوگنیشن تربیت اور AI پر مبنی سقراطی سہارا: دو مطالعوں والا تجربی ڈیزائن
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — علمی سکون: معطل میٹا کوگنیشن شمولیت اور بڑھتی بے ترتیبی کا تجربی بیان (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — تین سطحی میٹا تجزیہ: مجموعی g = 0.624، جو درستگی کی درجہ بندی والی نگرانی کے لیے غیر نمایاں ہو جاتا ہے (Li et al. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC ماڈل: میٹا کوگنیشن منتقلی بمقابلہ آن لوڈنگ، اور پائیدار سیکھنے سے الگ کام کی کارکردگی (Fan et al. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — نگرانی منتقلی کا راستہ روکنے سے زیادہ اُسے بدلتی ہے
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — جب نگرانی چھوڑ دی جاتی ہے، اور اُس کی قیمت کیا ہے

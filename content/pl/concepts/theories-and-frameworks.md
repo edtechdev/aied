@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -126,31 +128,3 @@ Dopasowanie mechanizmu do teorii może jednak być rozstrzygające: synteza tema
 **„Teorie uczenia się, modele uczącego się i ramy adopcji to wymienne soczewki".** Odpowiadają na różne pytania — jak zachodzi uczenie się, jaki jest stan uczącego się i dlaczego praktyka się rozprzestrzenia — a ich typy dowodów różnią się odpowiednio. Wybór niewłaściwej warstwy daje badanie, które mierzy właściwą zmienną wobec niewłaściwego przewidywania, co czyta się jako wynik zerowy, gdy w istocie jest błędem kategorii.
 
 **„Więcej ram oznacza dojrzalszą dziedzinę".** Ramy ukute dla ery SI kumulują się szybciej, niż są testowane, a akumulacja bez falsyfikacji jest objawem, a nie postępem. Dojrzałość ujawnia się w rozstrzyganiu konkurencyjnych przewidywań, a nie we wzroście słownika.
-
-## Połączone koncepcje
-
-- [[theory-development-aied]] — budowanie i rewidowanie teorii w dziedzinie
-- [[philosophy-of-ai-in-education]] — warstwa normatywna i pojęciowa
-- [[learning-theories]] — parasol dla teorii uczenia się
-- [[learning-sciences]] — sąsiednia dziedzina, z której zapożycza się większość teorii
-- [[limitations-in-aied-research]] — co baza dowodowa może, a czego nie może wspierać
-- [[tpack]] — rama wiedzy nauczyciela
-- [[technology-acceptance-model]] — ramy adopcji
-- [[item-response-theory]] — model pomiarowy
-- [[universal-design-for-learning]] — rama projektowa
-- [[research-methods-aied]] — jak teoria jest testowana
-
-## Połączone artykuły
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Afordancje emocjonalne zaproponowane jako czwarta kategoria taksonomii afordancji
-- [[ai-game-based-learning-systematic-review-2026]] — Dopasowanie mechanizmu do teorii, a nie wyrafinowanie algorytmiczne, decydowało o skuteczności w 55 badaniach uczenia się opartego na grach ze SI
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — cztery dekady AIED przez ramę AI×Ed
-- [[educating-minds-generative-ai-2026]] — synteza generatywnej SI i uczenia się silnie osadzona w teorii
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teoria aktywności zastosowana do doskonalenia zawodowego nauczycieli
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teoria aktywności a adopcja przez nauczycieli
-- [[generativism-learning-theory]] — teoria uczenia się zaproponowana dla ery generatywnej SI
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — ku teorii epistemicznej współsprawczości
-- [[absent-cognitive-baseline-2026]] — teoretyzowanie strukturalnej luki w samoocenie studentów wychowanych z SI
-- [[yan-agentivism-learning-theory-ai-2026]] — teoria uczenia się średniego zasięgu dla interakcji człowiek–SI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — rozwój instrumentu w młodym konstrukcie
-- [[mishra-control-vs-agency-history-2025]] — fundamentalne napięcie kontrola–sprawczość w dziedzinie

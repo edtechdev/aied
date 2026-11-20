@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -87,49 +89,3 @@ ai_assist:
 **«المدرّب الأكثر أمانًا هو الأكثر رفضًا.»** النظام الذي «يرفض بالتساوي» قد يُرسّخ عدم المساواة، وهو النصف الثاني من وصف الصفحة للإخفاق الهادئ. فنمط الفشل ليس فقط مدرّبًا يجيب صوابًا ويقوّض التعلّم؛ بل أيضًا مدرّبًا توزّع رفوضه الدعم不均匀 بين الطلاب، وسياسة رفض شاملة تقايض خطرًا مرئيًا بخطر غير مرئي.
 
 **«أي عمل سلامة على مستوى النموذج إجراء علاقات عامة.»** بعضه قابل للقياس. فـ[[llm-unlearning-math-privacy|عمل إلغاء تعلّم الرياضيات]] يطبّق إلغاء تعلّم قائمًا على التدرج لتجريد المعلومات المعرِّفة والمحتوى الضار، مُبلِّغًا عن مخرجات معلومات شخصية محددة عند **0.1%** ومعدّلات سمّية عند **0.0%** مع الحفاظ على القدرة. فضوابط مستوى النموذج طبقة واحدة من دفاع متعدد الطبقات — غير كافية وحدها، وليست لا شيء.
-
-## المفاهيم المرتبطة
-- [[guardrails]] — آليات التصميم التي تنفّذ الأمان
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## المقالات المرتبطة
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — إطار SCAFFOLD لتوجيه حوار الطلاب-الذكاء الاصطناعي، مع تطبيقه الصفّي
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — طبقات أمان بتصميم المعلمين: حدود المجال، والترشيح، والتجاوز
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: إطار تصميم لذكاء اصطناعي آمن وسليم للتعلّم
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

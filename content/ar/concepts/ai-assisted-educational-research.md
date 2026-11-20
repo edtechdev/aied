@@ -30,6 +30,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-11T07:40:00-05:00"
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -210,47 +212,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## المفاهيم المرتبطة
-
-- [[research-methods-aied]] — المظلة للتصاميم المستخدمة لدراسة الذكاء الاصطناعي في التعليم
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## المقالات المرتبطة
-
-- [[ai-methodologies-science-education-research-2026]] — إطار تأملي من سبع مراحل لكيف قد تحوّل منهجيات الذكاء الاصطناعي طبيعة البحث في تعليم العلوم (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — رواية فريق مراجعة متعدد المجالات عن الإرشاد والتكامل المنتقي للذكاء الاصطناعي (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — كيف استخدم 28 طالب دراسات عليا الذكاء الاصطناعي التوليدي عبر سير عمل البحث، والإرشادات التي يقترحونها (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — تدقيق على مستوى الحقل للمراجع الملفّقة في أدبيات تعليم الحوسبة (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — إطار تبليغ للمراجعات المنهجية بمساعدة الذكاء الاصطناعي، وفجوة المسؤولية التي يوثقها (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — تقرير ورشة CHIIR 2026 عن الذكاء الاصطناعي التوليدي والبحث الأكاديمي (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — دراسة حالة لمحقّق منفرد عن وكيل دائم في مساحة عمل بحثية (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — أدلة بيبلومترية على أن الكتابة بمساعدة الذكاء الاصطناعي تصاحب فرقًا بحثية أصغر وأحدث (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — معيار مدته 30 يومًا يقيّم وكلاء المعلمين مقابل متعلّم محاكى (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — محاكٍ عصبي رمزي يعيد إنتاج صراع المبتدئ الحقيقي (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — لماذا يتخلى المحاكون عن مفهوم خاطئ تحت أي تغذية راجعة، وكيف يُصلحه التدريب (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — تدقيق مسجَّل مسبقًا يستخدم متعلّمًا محاكى ثابتًا لاختبار ما إذا كانت النفاسة تقيس البيداغوجيا (Fan et al., 2026)

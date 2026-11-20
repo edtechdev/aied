@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
@@ -81,26 +83,3 @@ Jakość rusztowania ma znaczenie niezależnie od dostępu. Eksperymentalne por�
 - **„Satysfakcja i postrzegane korzyści świadczą o tym, że narzędzie SI do nauki o danych działa".** Uczniowie intensywnie korzystali z LLM-ów przy debugowaniu i pytaniach pojęciowych i **deklarowali wysoką satysfakcję, podczas gdy ich postrzegane korzyści z głębokiego uczenia się malały w ciągu semestru**. Satysfakcja się utrzymała, a samooceniana trajektoria uczenia się spadła, więc żadna z tych liczb osobno nie jest wynikiem.
 - **„Nieograniczony model jest równie dobry jak korepetytor, który prowadzi".** Zysk pochodził ze szkolenia w rusztowaniu — wyraźnych instrukcji dotyczących wskazówek krok po kroku i weryfikacji — które pobiło sam dostęp do tego samego modelu w samodzielnych wynikach i w kalibracji samooceny. Efekt niosło prowadzenie oraz szkolenie w zakresie korzystania z niego.
 - **„Wystarczy zabezpieczenie przed udzielaniem odpowiedzi".** Zbudowany do tego celu korepetytor opakowany wokół hostowanego API, z promptem systemowym każącym **prowadzić, a nie odpowiadać**, wdrożono na semestralnym kursie R dla studentów psychologii, gdzie **76% do 84%** studentów używało go w tygodniach istotnych dla egzaminu. To adopcja, a nie dowód, że zabezpieczenie dało uczenie się: zabezpieczenie na poziomie promptu jest jedną z kilku dźwigni i samo nie daje uczenia się.
-
-## Połączone koncepcje
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Połączone artykuły
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Narzędzie agentowe generujące kontrolowalne syntetyczne zbiory danych do spersonalizowanej praktyki statystycznej
-- [[ai-tutor-statistical-programming-adoption-2026]] — Korepetytor R zbudowany do tego celu; adopcja podążała za kalendarzem egzaminów
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Etykiety trudności LLM-a śledzą poziomy Blooma, a nie wyniki uczniów
-- [[tactile-statistical-graphs-accessibility]] — Otwarty potok generujący dotykowe wykresy statystyczne z kontrolą nauczyciela
-- [[guided-llm-scaffolding-independent-learning]] — Prowadzone rusztowanie wygrało z nieograniczonym dostępem w samodzielnych wynikach
-- [[lund-socially-accountable-data-science-xai-2026]] — Wprowadzanie odpowiedzialności społecznej do technicznego programu nauki o danych

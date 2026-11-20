@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,7 +80,6 @@ ai_assist:
 
 علم بنیاد دلیل دیتی ہے کہ صداقت کو پولیسنگ کے بجائے ڈیزائن کرنا چاہیے، اور [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj اور Zidan (2026)]] عملی میدان سے اُلٹا ثبوت فراہم کرتے ہیں: اعتماد کے ایک بحران کے بعد جس میں پری سروس اساتذہ نے خام AI سے پیدا شدہ کام اپنے نام جمع کرایا، سات اسرائیلی کالجوں کے استادِ اساتذہ نے جانچ کو عمل کے ثبوت (پرامپٹ، دستاویز کے ورژن کی تاریخ، نگرانی شدہ گروپ شراکتیں) اور کلاس میں کارکردگی کے گرد دوبارہ ڈیزائن کیا — مگر کئی نے یہ بھی بتایا کہ وہ آخری حربے کے طور پر نگرانی والے امتحانات اور اطروحوں پر متوقع زبانی دفاع کی طرف لوٹ گئے، ایک شریک نے امتحانات کی واپسی کو ذاتی طور پر تکلیف دہ مگر ناگزیر کہا۔ ڈیزائن کو اولیت دینے والے مؤقف کے سامنے یہ دریافت ایک ناکامی کی صورت ہے، حل نہیں: جہاں صداقت کو پیشگی دوبارہ ڈیزائن نہ کیا جائے، وہاں ناقابلِ جانچ جمع شدہ کام کا عملی جواب دوبارہ قائم کیا گیا کنٹرول ہے — نگرانی کا دوسرا نام — جو ویسے ہی فارمیٹس واپس لے آتا ہے جن سے مستند جانچ کا ادب آگے بڑھنا چاہتا ہے۔ یہ متبادل کی محسوس قیمت بھی دکھاتا ہے: شرکا نے بتایا کہ اُن کی گھر لے جانے والی تحریری جانچ اب سیکھنے کا ثبوت ہی نہیں دے سکتی تھی، اور عمل کی دستاویز سازی قائم کرنے میں حقیقی محنت لگی۔
 
-
 دوسری ناکامی کی صورت خود دوبارہ ڈیزائن کے اندر بیٹھی ہے: پانچ آن لائن زبان کی [[pedagogy|تدریس]] کے طریقوں میں صداقت سے متعلق تناؤ اساتذہ کے بیانات پر چھا گیا (20 میں سے 11)، جن میں کام کی حقیقت پسندی کا کٹاؤ بھی شامل ہے — یعنی سرگرمیاں مستند ہونے کے بجائے AI کے خلاف مزاحم بنانے کے لیے دوبارہ ڈیزائن کی گئیں ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi اور Khan (2026)]])۔
 
 اِس پسپائی کی ایک ثبوتی قیمت ہے جو کیس فائل کے شواہد نظر آتی ہے۔ [[munoz-misconduct-allegation-evidence-2026|Munoz وغیرہ (2026)]] نے 1,162 جنریٹو-AI بدعنوانی کے الزامات کو کوڈ کیا اور پایا کہ سب سے مضبوط ثبوتی اقسام تفتیش یا نگرانی سے پیدا ہوتی ہیں، خود الزام سے نہیں، اور مسودوں، نگرانی کی ملاقاتوں اور پریزنٹیشنوں جیسا عمل کا ثبوت صرف وہاں ظاہر ہوتا ہے جہاں یہ عمل پہلے سے موجود ہوں — اس لیے غیر دوبارہ ڈیزائن شدہ جانچ میں وہ عمل کا ثبوت جو یہ ادب تجویز کرتا ہے دستیاب ہی نہیں ہوتا، اور مقدمات کمزور اقسام پر ٹکے رہتے ہیں۔ اُس کی جگہ جو چیز آتی ہے وہ اُن کے کارپس کا سب سے کمزور مواد ہے: [[ai-detection|ڈیٹیکٹر]] کا آؤٹ پٹ کسی بھی قسم سے کم ترین ثبوتی درجہ بندی لے کر آیا، اور [[hadra-ai-detector-accuracy-efl-2026|Hadra وغیرہ (2026)]] وجہ دکھاتے ہیں، 192 متنوں پر 0.69 (Originality) اور 0.61 (Turnitin) کی میکرو درستگی، انسانی–AI مشترکہ تحریر پر تقریباً مکمل ناکامی، اور EFL طلبہ کے کام کو AI سمجھنے کا سرحدی رجحان۔ [[wright-transcription-not-generation-2026|Wright (2026)]] قاعدے کے ڈیزائن کی جہت جوڑتا ہے: پلیٹ فارم کی شناخت کی بنیاد پر لکھی گئی ممانعتیں، فعل کی بنیاد پر لکھی گئی ممانعتوں کے بجائے، تعریفی حادثے سے حد سے زیادہ شامل ہوتی ہیں، اس لیے ایک زیرِ نگرانی فارمیٹ اُس طالب علم کو سزا دے سکتا ہے جس نے وہ کام نہیں کیا جسے روکنے کے لیے قاعدہ بنایا گیا تھا، اور سب سے زیادہ اُن طلبہ پر پڑتا ہے جو [[accessibility|رسائی]] کے لیے ٹرانسکرپشن اوزار پر انحصار کرتے تھے۔ مجموعی طور پر دیکھیں تو پسپائی دستیاب کم ترین ثبوتی شواہد کو اُس عمل کے ثبوت کی جگہ رکھ دیتی ہے جو مستند ڈیزائن بہرحال پہلے پیدا کر دیتا۔
@@ -105,63 +106,3 @@ ai_assist:
 - **"صداقت کا تعلق حقیقت پسندانہ کاموں سے ہے۔"** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud اور Du (2025)]] کا **37 تجرباتی مطالعات (2000-2024)** والا [[meta-analysis-systematic-review|اسکوپنگ ریویو]] ایک **چھ جہتوں والا** ڈیزائن ماڈل تجویز کرتا ہے، اور **37 میں سے صرف 3 مطالعات نے سماجی صداقت** پر بات کی — یعنی یہ کہ آیا جانچ طلبہ کو سماجی تبدیلی میں حصہ ڈالنے میں مدد دیتی ہے۔ حقیقت پسندی ایک جہت ہے اور سب سے ترقی یافتہ جہت پر بمشکل تحقیق ہوئی ہے۔
 - **"مستند جانچ AI کا مقابلہ کرتی ہے۔"** نمائش قابلِ پیمائش اور بڑی ہے: ایک **تین سالہ نفسیات کی ڈگری** **90% پاس ہونے کے قابل** ثابت ہوئی، ChatGPT نے **40 کورس ورک جانچوں میں سے 36 پر مناسب آؤٹ پٹ** دیا، اور صرف باقی جانچیں بچ سکیں۔ ڈگری کی بیشتر جانچ AI سے پوری ہو سکتی تھی۔
 - **"اگر کام حقیقی دنیا کا ہو تو دوبارہ ڈیزائن اختیاری ہے۔"** 36 میں سے 40 والا نتیجہ ایسے کورس ورک پر ملا جس کی صداقت غالباً متنازع نہیں تھی۔ کام کی حقیقت پسندی نے AI کے مکمل کرنے سے حفاظت نہیں کی؛ اِس نے حفاظت کی کہ کس چیز کی جانچ کی جاتی ہے۔
-
-## منسلک تصورات
-- [[learner-identity]] — بدلتی ہوئی تعلیمی، پیشہ ورانہ، تخلیقی اور علمی سیکھنے والے کی شناختیں
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — اختتامی جانچ: AI کے خلاف مزاحم فارمیٹس (زبانی، نگرانی والے، بند کتاب والے امتحانات)
-- [[arts-and-media-education]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[thapa-lewis-process-oriented-assessment-2026]] — عمل پر مبنی جانچ اور علمی صداقت بطورِ وہ چیز جس کی تصدیق کام کو کرنی چاہیے
-- [[ivory-psychology-assessment-integrity-2026]] — جو AI پاس نہ کر سکا: موجودگی، بصری مصنوعات، اور طالب علم کا اپنا ڈیٹا (Ivory وغیرہ 2026)
-- [[paternalistic-filter-llm-history-education]] — تاریخ کی تعلیم میں پدرانہ AI استعمال اور طالب علم کی شناخت
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — مستند جانچ کے لیے ڈیزائن: ایک اسکوپنگ ریویو
-- [[beyond-detection-authentic-assessment-ai-2025]] — پکڑ دھکڑ سے آگے: مستند جانچ
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[authentic-products-authenticated-processes-2026]] — مستند مصنوعات، تصدیق شدہ عمل
-- [[tool-invariant-framework-agentic-ai]] — کمپیوٹیشنل طریقوں کی تدریس اور جانچ کے لیے ٹول سے غیر متاثر فریم ورک
-- [[cong-confidence-asag-2026]] — اعتماد سے آگاہ خودکار مختصر جواب کی گریڈنگ
-- [[llm-fallacy-misattribution]] — LLM کی مغالطہ اور قابلیت کی غلط نسبت
-- [[universities-ai-era-rethinking]] — AI کے دور میں یونیورسٹیوں پر نظرِ ثانی
-- [[ssaho-ai-academic-integrity-review-2025]] — AI کی بدعنوانی کے مقابلے کے لیے متعدد جانچ کے طریقے
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحانات کو مستند، AI کے خلاف مزاحم جانچ کے طور پر نئے سرے سے دیکھنا
-- [[roe-assessment-twins-2026]] — GenAI کے دور میں جانچ کے اعتبار کو مضبوط کرنے کے لیے جڑواں جانچیں (Roe, Perkins اور Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — جنریٹو AI سے منسلک مستقبل میں معیاری سیکھنے کی یقین دہانی کے لیے موافقت پذیر صلاحیتیں (Lodge وغیرہ 2026)
-- [[asynchronous-oral-assessment-2026]] — AI کے دور میں غیر ہم وقت زبانی جانچ (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI تعامل کے ذریعے سیکھنے کی جانچ (DRI + Visible Expertise)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — وہ صداقت کے معیار جنہوں نے طالب علم گروپوں کو GenAI استعمال کم کرنے پر آمادہ کیا
-- [[teacher-educators-ai-integration-preservice-2026]] — وہ AI اعتماد کا بحران جس نے استادِ اساتذہ کو نگرانی والے امتحانات اور زبانی دفاع کی طرف دھکیل دیا (Goldstein وغیرہ 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — دیانت پر مبنی ڈیزائن اور مستند جانچ میں فرق: فیصلے کو نظر آنا ممکن بنانا (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — بدعنوانی کے الزام کی فائلوں میں بطورِ ثبوت درحقیقت کیا ہوتا ہے، اور کون سا عمل کا ثبوت اُن میں نہیں (Munoz وغیرہ 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — ڈیٹیکٹر کی درستگی اور مشترکہ تحریر میں ناکامی: پتہ لگانا کمزور فال بیک ثبوت کیوں ہے (Hadra وغیرہ 2026)
-- [[wright-transcription-not-generation-2026]] — حد سے زیادہ شامل AI ممانعتیں: ٹرانسکرپشن، جنریشن نہیں (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — جنریٹو AI کے ساتھ مستند جانچ کا ڈیزائن: اعلیٰ تعلیم میں Assessment Authentifire کا پائلٹ مطالعہ
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — کام کی حقیقت پسندی کا کٹاؤ: آن لائن زبان کی تدریس میں AI کے خلاف مزاحم دوبارہ ڈیزائن صداقت کو گھسا رہا ہے
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — مستند دکھنے والے فارمیٹس (ریکارڈ شدہ پریزنٹیشن، ریموٹ گروپ پروجیکٹس، ڈیجیٹل مصنوعات) 53,915 آئٹمز میں زیادہ اسکور کرتے ہیں: صداقت تصنیف کی تصدیق نہیں کرتی

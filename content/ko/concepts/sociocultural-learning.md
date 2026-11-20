@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -45,7 +47,6 @@ ai_assist:
 ZPD(비고츠키)는 [[intelligent-tutoring|AI 튜터링]]에서 가장 널리 적용되는 사회문화적 개념입니다. 학습자가 혼자서 할 수 있는 것과 도움을 받아 할 수 있는 것 사이의 공간입니다. 학습은 교수가 이 영역을 겨냥할 때 가장 효과적으로 일어납니다 — 발달을 밀기에 충분히 도전적이면서 진전을 가능하게 하기에 충분히 지원되는. 이것은 [[scaffolding]]의 이론적 기반입니다. 역량이 성장함에 따라 물러나는 일시적이고 조절 가능한 지원. AI 교육에서 ZPD는 학습이 넘겨지지 않고 전진하도록 [[intelligent-tutoring|AI 튜터]]가 얼마나 많은 지원을 제공해야 하는지의 중심 설계 질문을 틀 짓습니다 — [[stanford-evidence-base-ai-k12-2026]]를 참조하십시오.
 
 기계가 만든 도움도 그 영역 안에 들어올 수 있습니다. 네 가지 수학 과목에 걸친 [[adult-learning|성인 학습자]] 274명의 무작위 연구에서, ChatGPT가 생성한 풀이 과정 힌트는 사전-사후 이득 17.00%를 냈고 힌트가 없을 때는 1.85%, 인간 튜터가 작성한 힌트는 11.62%였으며, 두 도움 조건은 통계적으로 분리되지 않았습니다([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos와 Bhandari, 2024]]). 오류율은 그 동등성을 조건화합니다. 생성된 힌트의 32%가 품질 점검을 통과하지 못했으며, 자기 일관성 [[prompt-engineering|프롬프팅]]이 그것을 세 대수 과목에서는 거의 0으로, 통계학에서는 13%로 낮추었습니다. 세 번에 한 번 틀리는 더 잘 아는 타자도 여전히 매개 행위자이며, 그래서 학습자가 그 위에 쌓기 전에 기계의 기여를 점검해야 합니다.
-
 
 ## AI 교육에서의 사회문화적 학습
 
@@ -78,32 +79,3 @@ ZPD(비고츠키)는 [[intelligent-tutoring|AI 튜터링]]에서 가장 널리 �
 **"집단에 도구를 더하면 집단의 효율만 바뀐다."** 그것은 분업을 바꾸며, 분업이 이 이론이 분석하는 단위입니다. 질문 대부분을 에이전트로 보내는 집단은 산출물이 그대로여도 인지적 작업을 재분배한 것입니다.
 
 **"분산 인지는 개인이 중요하지 않다는 뜻이다."** 그것은 개인의 기여를 개인 수행만으로 읽어 낼 수 없다는 뜻입니다. 분석 단위는 고립된 개인이 아니라 활동 체계입니다.
-
-## 연결된 개념
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## 연결된 문서
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: LLM 기반 학생 발화 측정의 검증
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개 주체로서의 생성형 AI
-- [[golrang-propact-pair-programming-2026]] — 협력적 AI 튜터링
-- [[finkelstein-principled-ai-education-2025]] — 원칙에 기반한 AI 교육 틀
-- [[stanford-evidence-base-ai-k12-2026]] — K-12에서의 AI를 위한 스탠퍼드 증거 기반
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12에서의 생성형 AI에 관한 시드니 신속 고찰
-- [[ai-cognitive-partner-co-regulation-learning]] — 인지적 동반자이자 공동 조절자로서의 AI
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT 힌트는 인간 튜터 힌트와 구별되지 않았다: 성인 학습자 274명의 무작위 연구
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 적응적 비계의 우연성: 영역을 떠나는 신호는 겨냥이다

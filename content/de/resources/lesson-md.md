@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -39,8 +40,3 @@ Schreiben Sie eine Lektion in einem beliebigen Texteditor und importieren Sie si
 ## Für wen es gedacht ist
 
 Instructional Designer und Kurserstellende, die wollen, dass ihre Inhalte einen Werkzeugwechsel überleben, eLearning-Anbieter, die ein Import- und Exportformat wollen, das ihre nutzenden Personen bereits verstehen, und alle, die KI-gestütztes Autorenschaften auf einem lesbaren Format aufbauen. Zu den Beitragenden gehört Dan Bashaw von LXD Integral, und das Format hat ein öffentliches Changelog bis v1.8.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

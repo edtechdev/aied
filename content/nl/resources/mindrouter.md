@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -47,9 +48,3 @@ Onderzoekscomputing en centrale IT met bestaande GPU-capaciteit, centra voor ond
 ## Notities en kanttekeningen
 
 Gratis en open source onder Apache-2.0, maar de kosten verschuiven in plaats van te verdwijnen: hardware, elektriciteit en de personeelstijd om een cluster te draaien. De software is jong naar de maatstaven van infrastructuur — drie bijdragers, één instelling van herkomst en releases genummerd in honderden tags — dus een college zou het naast een bestaande dienst moeten beproeven en niet als enige weg naar een model. Gepubliceerde evaluatie van het plannings- en quotagedrag onder echte campusbelasting staat niet in de repository; het PEARC-artikel is de plek voor het eigen verhaal van de auteurs.
-
-## Gerelateerde concepten
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

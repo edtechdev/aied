@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -92,16 +93,3 @@ adapter et à évaluer localement. Publié le 2026-10-07, v1, sur Zenodo sous li
 téléchargement libre sans compte. Au moment de l'ingestion, la fiche n'affiche qu'environ 35 vues
 et 14 téléchargements, si bien qu'elle a encore peu fait l'objet d'un usage externe ou d'une
 évaluation par les pairs.
-
-## Concepts liés
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

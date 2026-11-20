@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -116,61 +118,3 @@ Kara kutu bir tahminci ayrıca küçük, kendini açıklayan bir modele damıtı
 - **“Sadık bir model en karmaşık yöntemi gerektirir.”** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], **sadık temsilin en karmaşık yaklaşımı gerektirmediğini** örnekler. Karmaşıklık sadakatin vekili değildir ve ilgili yapıyı yakalayan daha basit bir model daha iyi bir araç olabilir.
 - **“Öğrenen modelleri iz verisi gerektirir.”** Öngörücü bir öğrenen modeli iz verisi yerine **kayıt yapısına** dayanabilir: TRACE her dönemi **sırasız bir ders sepeti** olarak kodlar ve bundan öngörür. Öngörücü sinyal, kurumun idari kaydında yaşayabilir.
 - **“Duyuşsal durum fizyolojik algılama gerektirir.”** Bir matematik öğretmeni **duyguyu konuşma metninden ve yüz ifadesinden** çıkarmış ve toplanan durumu öğretim kararlarına eşlemiştir. Duygu sinyali, öğrenenlerin zaten ürettiği şeylerden geri kazanılabilmiştir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramların çatısı
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — risk tahmininin ve destek hedeflemenin altındaki modeller
-- [[sensor-and-gaze-analytics]]
-
-## Bağlı makaleler
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aldatıcı aşırı genelleme: uyarlanabilir ustalık, öğrenenler bir eylemi ne zaman geri tutacaklarını bilmeden alıştırmayı sonlandırabilir (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Öğrenci Yeterlilik Değerlendirmesi için Destek Müdahalelerinin Nedensel Modellemesi
-- [[turano-ai-tutoring-not-a-monolith-2026]] — YZ Öğretmenliği Tek Biçimli Değil: Gerçekten Ne Bildiğimiz (Stanford SCALE/NSSA brifingi)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM öğretmenleri geçerli alternatifleri aşırı reddeder, yanlışı aşırı doğrular (Yasir ve ark. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Öğrenci Risk Tahmininden SC2R'ye: Karşıolgusal Kaynak Yönlendirme
-- [[graph-its-adaptive-algorithms-2026]] — Dinamik Alanlar için Grafik Tabanlı Akıllı Öğretmenlik (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Öğrenme analitiği için kendini açıklayan LM'nin damıtılması
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM tabanlı öğrenci simülatörlerinin eğitimi
-- [[predicting-attrition-competitive-programming]] — Rekabetçi programlamada öğrenci terkini öngörmek
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Yakınlık eşlemeli sonuç temelli bilgi izleme
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID Gömelerinin Ötesinde: Bilişsel Teşhis için Süreç Temelli Dil Modellemesi
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — kompakt öğrenen durumu ve bir tavsiye ortamı olarak kalibre edilmiş izleyici
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan-YZ Ortak Öğrenme Döngüsünde Öğrenenini Öğrenen Aracı Öğretmen
-
-- [[ai-game-based-learning-systematic-review-2026]] — Sinsi değerlendirme 0,848–0,913 AUC'ye ulaştı, ancak 55 çalışma boyunca önyargı denetimleri neredeyse hiç yapılmadı
-
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Diyalog temelli öğrenme stili çıkarımı dengeli ölçütlerde başarısız oluyor (Zamanifard, Goudarzi ve Robb 2026)

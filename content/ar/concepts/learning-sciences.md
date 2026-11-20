@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,46 +112,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - لا توقف التدريب على الصحة وحدها. نمذج شرط الحجب كمهارة مستقلة، وإلا صدّق النظام على تعميم مفرط.
 - اجعل النسبة معاملًا لا ثابتًا، لأن الدليل يقول إن الأمثل معتمد على المحتوى.
 - أبلغ عن البناء الذي يقيسه معيارك، منفصلًا عن البناء الذي يقيسه تحقّقك.
-
-## المفاهيم المرتبطة
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## المقالات المرتبطة
-
-- [[competent-generative-ai-use-measures-review-2026]] — مراجعة وتلخيص تحليلي استكشافي لمقاييس الاستخدام الكفء للذكاء الاصطناعي التوليدي (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — الصحة تحجب قاعدة غير مكتملة: قواعد إتقان التوقف في التعلّم التكيّفي (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — تدقيق افتراضي مقابل للإشارات الديموغرافية في تقويم الطلاب بالنماذج اللغوية الكبيرة (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — سلاسل ماركوفي وتنقيب أنماط على 29,064 نشاطًا في 554 مقررًا (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — فحص ذاتي غير تشخيصي يحافظ على الخصوصية للتفريغ المرتبط بالذكاء الاصطناعي (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — الحكم دون أمثلة سابقة: الذكاء الاصطناعي ذو الغرض العام في السياسات، مقروءًا عبر أساس Redbox البرمجي (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — لماذا تعتمد أفضل نسبة مثال إلى مسألة على المحتوى (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — المعلمون يصممون روبوتات محادثة خبير محدود، بتفويض انتقائي للتعليم (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK للذكاء الاصطناعي التوليدي لدى أعضاء هيئة التدريس: معرفة محتوى قوية، ومعرفة تقنية متكاملة ضعيفة (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: تجربة مضبوطة عشوائيًا للتعليم الحيّ البشري-الذكاء الاصطناعي على نطاق واسع (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — دلفي مسجَّل مسبقًا بثلاثين خبيرًا حول عمليات التعلّم التي يعزّزها GenAI والتي يهدّدها
-- [[three-pathways-student-ai-interaction-2026]] — تصنيف لتفاعل الطالب مع الذكاء الاصطناعي: 64% سلبي أو معاملاتي، و36% حوار استراتيجي
-- [[agent-type-feedback-style-self-directed-learning-2026]] — نمط التغذية الراجعة لا نوع الوكيل حرّك الانخراط التنظيمي الذاتي
-- [[metacognitive-processes-genai-interaction-logs-2026]] — دليل العملية مشروط بالقناة
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — توزيع استخدام GenAI خيار مؤسسي
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — الاعتماد داخل الشخص يسبق انخفاض الوكالة المُدركة
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — التحليل التسلسلي الزمني مع تنقيب العمليات وضع الذكاء الاصطناعي في محور تفاعل المجموعة أو على مسار خطّي بحسب تركيب التصوّرات المسبقة (Wang وآخرون 2026)

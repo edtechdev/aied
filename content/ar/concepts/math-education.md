@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -51,7 +53,6 @@ ai_assist:
 
 **مكاسب طرح المسائل سطحية.** مع 57 معلّمًا للرياضيات قبل الخدمة يطرحون مسائل قسمة الكسور قبل استخدام Gemini ومعه، ارتفعت درجات سلم التقدير من 5.95 إلى 6.65 من 8. وقع المكسب في السياق واللغة بينما لم يكن لنوع المسألة وقابليتها للحل مجال للحركة، وارتفع استدعاء معنى لقسمة الكسور من حد أدنى 1.00 إلى 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi، 2026]]).
 
-
 **ثمنٌ على الرضا.** إن توجيه مدرّس خاص من النماذج اللغوية الكبيرة عبر خطة [[productive-failure|فشل منتج]] بدل تركه يجيب رفع وفاء الاستراتيجية وأنتج 2.6 محاولة حل لكل جلسة في دراسة على 17 طالبًا في المرحلة الثانوية، ومع ذلك قوّم الطلاب مدرّس الفشل المنتج بأنه أقل نفعًا من خط الأساس ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
 **يمكن للدعم الاجتماعي العاطفي أن يشتري كفاءةً لا تحصيلًا.** فإضافة طبقة تأمل بالنماذج اللغوية الكبيرة إلى مدرّس جبر للصف السابع تركت التعلّم وقلق [[anxiety-and-stress|الرياضيات الحالي]] دون تغيير بين الفرعين (حُلّل 42 من 252 طالبًا بعد الاضطرابات)، لكن طلاب شرط التأمل بلغوا تعلّمًا مكافئًا بوقت أقل وتلميحات مطلوبة أقل ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
@@ -75,7 +76,6 @@ ai_assist:
 وتضع ترتيبية تحديات المجال قدرة المعلّم أولًا. فقد أحصت [[meta-analysis-systematic-review|مراجعة منهجية]] ثانية، لـ54 دراسة من 2017-2025، التكامل التقني التربوي وجاهزية المعلّم في 38، ومخاطر [[equity-in-ai-education|الإنصاف]] والوصول في 34، وحدود الاستدلال العميق في 29، وتربطها باستجابات تعليمية في إطار ثلاثي الأبعاد ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
 **الشمول خاصية تصميمية لا نتيجة جانبية للقدرة.** تقرن مراجعة لـ38 مصدرًا [[universal-design-for-learning|التصميم الشامل للتعلّم]] بـ[[samr-model|نموذج SAMR]]، وتجد أن الذكاء الاصطناعي يستطيع إعادة تعريف مهمة رياضية مع تركها غير متاحة للطلاب الذين لا تلائمهم لغتهم أو جهازهم أو اتصالهم ([[jita-ai-mathematics-classrooms-inclusion-2026|Jita وJita وOmoniyi، 2026]]).
-
 
 **الرياضيات في التعليم العالي** تستكشف أثر الذكاء الاصطناعي في ممارسة الرياضيات المتقدمة. فطبّق **[[genai-runaway-object-math-higher-ed|Bui et al.]]** نظرية [[sociocultural-learning|الاجتماعية الثقافية]] على [[generative-ai|الذكاء الاصطناعي التوليدي]] في رياضيات الجامعة، محلّلين الذكاء الاصطناعي كـ«كائن جامح» يُحوّل الممارسة الأكاديمية بطرق تتفوّق على [[governance|المؤسسية]] والمعايير التربوية.
 
@@ -116,64 +116,3 @@ ai_assist:
 **«الرياضيات مجال سهل للذكاء الاصطناعي لأن أجوبتها قابلة للتحقق.»** قابلية التحقق هي ما يجعل الرياضيات ساحة اختبار جيدة، لا ما يجعلها آمنة. فلأن الجواب النهائي قابل للتحقق، يمكن للطالب أن يُصادق على حلٍّ لم يبنه هو — وهذا تحديدًا هو مسار تجاوز الاستدلال في المادة مع بقاء الدرجة نظيفة. فالخاصية التي تجذب الباحثين هي نفسها التي تجعل التفريغ المعرفي غير مرئي.
 
 **«يمكن لنموذج قادر أن يعيّن [[item-response-theory|صعوبة مفردات الرياضيات]].»** بل يجب معايرتها مقابل الاستجابات. في دراسة لصعوبة المفردات شملت **5,170 مفردة من رياض الأطفال إلى الصف الخامس** مُعايَرة وفق نموذج Rasch لنظرية الاستجابة للمفردة، قُورنت تقديرات الصعوبة المولَّدة بالنموذج في حالة الصفر بالمعايرة التجريبية تحديدًا لأن الصعوبة المُعلَنة والصعوبة المقيسة كميتان مختلفتان.
-
-## المفاهيم المتصلة
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## المقالات المتصلة
-- [[ledezma-geometry-task-design-genai-preservice-2026]] — مهام الهندسة المصمَّمة بالذكاء الاصطناعي التوليدي لدى معلّمين ابتدائيين مرتقبين: طلب معرفي عالٍ وتعليمات مغلقة وخطأ مقياس مُضمَّن (Ledezma et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — ما لا يُظهره التسليم: التفريغ المعرفي المتعقِّد في العمل الرياضي للطلاب مع النماذج اللغوية الكبيرة (Kontorovich & Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — دعم استدلال الطلاب أم استبداله؟ التفريغ المعرفي في تعلّم البرهان المدعوم بالذكاء الاصطناعي (Chen et al. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — تحليل التواصل الرياضي بين معلّمي الرياضيات في مرحلة ما قبل الخدمة والذكاء الاصطناعي التوليدي: دراسة حالة في مقرر الجبر المجرّد
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — العوائق الرمزية في حساب التفاضل والتكامل الجامعي عنق زجاجة تمثيلي، مع أخطاء رمزية مُرمَّزة أقل بعد السقالة بالذكاء الاصطناعي (Nursit et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — دمج الذكاء الاصطناعي في تعليم الرياضيات: تحديات التنفيذ والتبعات التربوية (Manto et al. 2026)
-- [[ai-mathematics-education-prisma-review-2026]] — الذكاء الاصطناعي في تعليم الرياضيات: مراجعة منهجية للأدبيات قائمة على PRISMA (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — تصحيح آلي ببرمجيات لمفردات رياضية في امتحان شهادة المدارس العليا في الاقتصاد باستخدام نموذج تشابه سياقي
-- [[mindful-llm-math-tutoring-2026]] — ما وراء حل المسائل: نماذج لغوية كبيرة للدعم الانفعالي والتأملي في تعلّم الرياضيات
-- [[making-ai-tutoring-productive-mastery-math-2026]] — جعل التدريس الخصوصي بالذكاء الاصطناعي منتجًا: ممارسة الرياضيات القائمة على التمكن
-- [[chudziak-ai-math-tutoring-platform]] — منصة تدريس خصوصي للرياضيات مدعومة بالذكاء الاصطناعي (Chudziak & Kostka 2025)
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — منصة التمكن ALEKS: المسائل النصية هي الأكثر قابلية للتأثر بالذكاء الاصطناعي
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه التربوي للنماذج اللغوية الكبيرة لفشل منتج
-- [[instructional-design-proficiency-masters-math-2026]] — نموذج الفصل الذكي وحلقة D-T-E تُحسّن كفاءة تصميم التعليم في الرياضيات لطلاب الماجستير (Zhu et al. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — سقالة موجّهة بالقواعد مقابل ارتجالية في نظام تدريس خصوصي بالنماذج اللغوية الكبيرة لرياضيات المرحلة الابتدائية (Looi et al. 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة المفردات باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة الشجري
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[genai-practice-platform-maths-feedback-2026]] — منصة تمرين اختيارية بالذكاء الاصطناعي التوليدي في صف رياضيات بـ157 طالبًا: تغذية راجعة فورية مقدَّرة، وتبنّي محدود بـ34 مستخدمًا نشطًا
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — تقويم أثر الردود المولَّدة بالذكاء الاصطناعي على التحصيل الأكاديمي: منظور أخلاقي والكفاءة الذاتية
-- [[teachers-instrumental-orchestration-ai-math-2026]] — عمل التنسيق الصفي في رياضيات المرحلة الثانوية: قراءة لوحات المعلومات وتصحيح تغذية الذكاء الاصطناعي الراجعة
-- [[decision-making-agent-student-decision-acceptance-2026]] — لا يزال الطلاب يفضّلون قرار التصحيح الذي يتخذه المعلّم
-- [[genai-learning-motivation-meta-analysis-2026]] — المكاسب الدافعية في الرياضيات تقوم على أربع دراسات (g = 0.711)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — الذكاء الاصطناعي في فصول الرياضيات: استراتيجية تآزرية للتنوع والشمول

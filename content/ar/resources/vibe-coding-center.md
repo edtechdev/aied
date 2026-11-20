@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -44,7 +45,3 @@ ai_assist:
 ## ملاحظات وتحفظات
 
 المركز إرشاد لا منتج امتثال: فالموقع لا يقدّم ادعاء مطابقة لهدفه WCAG 2.2 AA، ويجيب عن «هل يجعل استخدام هذه الملفات موقعي ممتثلًا؟» بـ«لا»، ويقول إن مراجعة هندسية لا تحلّ محل تفويض المدرسة أو المراجعة القانونية. ويشير رفّ الأمن إلى axe-core وGitleaks وZAP وPlaywright؛ وهذه مراجع لا برمجيات محزومة، والمتوغّلة منها مقصودة لهدف قابل للتخلّص منه أو مصرّح به صراحةً. والقراءة لا تحتاج حسابًا. وإعادة بناء صفحات HTML تحتاج Python و`markdown-it-py`، وهي اعتماد بناء لا اعتماد زائر. والمستودع بترخيص MIT، بينما تحتفظ الأعمال الفنية من أطراف ثالثة والمشروعات المرتبطة بشروطها، موثّقة في `CREDITS.md`.
-
-## المفاهيم المتصلة
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

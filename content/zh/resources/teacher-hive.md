@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -47,11 +48,3 @@ ai_assist:
 Member 和 Builder 免费（Builder：50 个应用，50 MB）；Pro 为每月 \$10 或每年 \$60，可建 500 个应用。访问方式为免费增值。
 
 隐私是更强的说法，但它把责任转移给了教师。Teacher Hive 不创建学生账户，不向学生索取个人信息，也不在已发布的应用内运行任何分析或广告脚本。由于应用通过链接公开，条款要求教师负责确保其应用不收集姓名、电子邮件、学号或位置。无障碍覆盖（WCAG 2.2 AA）适用于 Teacher Hive 自己的页面，而不适用于教师制作的应用，后者未经测试。未声明开源许可，正常运行时间和数据保留也没有保证。
-
-## 关联概念
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -25,7 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -322,57 +323,3 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
 - **"היושרה היא בעיקר בעיית זיהוי."** **ראיונות scroll-back עם 26 סטודנטים** חושפים שסטודנטים שופטים את דרכם דרך הערכה עם GenAI על פני **ספקטרום**, ובקרב **157 סטודנטים**, *איך* משתמשים ב‑GenAI — **שילוב הערכתי לתמיכה בהבנה לעומת** החלפה — ניבא את התוצאה. אופן השימוש מפריד בין סטודנטים בחדות רבה יותר מאשר עצם השימוש.
 - **"דוברי אנגלית לא-ילידית הם סיכון הרמאות."** **סקירת PRISMA של 25 מחקרים** מוסיפה גורם סיכון שהדיון בזיהוי משמיט: דוברים לא-ילידיים הראו **נטייה גבוהה להפר יושרה כשהתקשו** עם הדרישה הלשונית. זו בעיית תמיכה לשונית שנקראת בטעות בעיית יושרה.
 - **"מדיניות שאוסרת GenAI מסיימת את השאלה."** סטודנטים מדווחים על ספקטרום של שיפוטים ולא על דפוס של ציות לכלל, ולכן כלל שאינו פוגש את ההנמקה ההערכתית שהסטודנטים כבר עושים לא יישמר בעקביות.
-
-## מושגים מחוברים
-
-- [[learners]] — לומדים: המכסה למושגי צד-הלומד
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[formative-assessment]] — הערכה עיצובית: פריטים המיוצרים, המאומתים והמסתגלים בבינה מלאכותית בקנה-מידה גדול
-- [[automated-assessment]] — ציון וניקוד אוטומטי על פני מודליות הערכה
-- [[authentic-assessment]] — משימות אותנטיות עמידות-בפני-בינה-מלאכותית ומבוססות-תהליך
-- [[assessment-validity]] — תקפות של הערכות תחת בינה מלאכותית יוצרת
-- [[educational-measurement]] — תיאוריית מדידה התומכת בהערכת בינה מלאכותית
-- [[automated-essay-scoring]] — Automated essay scoring
-- [[automated-question-generation]] — Automated question generation
-- [[oral-assessment]] — הערכה בעל-פה: פורמטים חיים ומוקלטים המתנגדים להחלפת בינה מלאכותית
-- [[summative-assessment]] — הערכה מסכמת: פורמטים עמידים-בפני-בינה-מלאכותית (בעל-פה, בפיקוח, ספר סגור)
-- [[item-response-theory]] — IRT לפרשנות תגובות הערכה בעידן הבינה המלאכותית
-- [[psychometrically-aware-ai]] — ציון בינה מלאכותית מודע-פסיכומטרית
-- [[learning-analytics]] — אנליטיקה המחברת נתוני הערכה ללמידה
-- [[feedback]] — לולאות משוב הסוגרות את המחזור מההערכה ללמידה
-- [[feedback-literacy]] — אוריינות משוב של הלומד
-- [[academic-integrity]] — יושרה והדיון על זיהוי בינה מלאכותית
-- [[ai-detection]] — זיהוי טקסט המיוצר-על-ידי-בינה-מלאכותית
-- [[ai-ed-evaluation]] — שיטות ובנצ'מרקים להערכת מעריכים אוטומטיים
-- [[eportfolio]] — הערכת תיק-עבודות אלקטרוני מבוססת-תהליך
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## מאמרים מחוברים
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — תוכנית של שנה שמגדירה אוריינות הערכה רב-מודלית ומודדת מה זז ומה לא
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[mccorkle-aligned-genai-course-policy-2025]] — הרשאות בינה מלאכותית ברמת-המשימה הנגזרות ממה שנמדד (מק'קורקל 2025)
-- [[usher-faraon-who-grades-best-2026]] — השוואה בין ציון ChatGPT, ציון עמיתים וציון מדריך לאורך רמות איכות הפרויקט (אשר ופאראון 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
-- [[competency-based-education-genai-production-2026]] — Competency-based education after generative AI
-- [[genai-assessment-governance]] — Evidence-centered governance of generative AI in assessment
-- [[ssaho-ai-academic-integrity-review-2025]] — סקירת יושרה בבינה מלאכותית: זיהוי חייב להיות מצורף לעיצוב-מחודש של ההערכה
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks (26 students, scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[koretsky-genai-stem-assessment-2026]] — מסגרת תלת-קודקודית ליישור הערכה מחדש
-- [[rubrics-genai-process-based-assessment-2026]] — קריטריוני רובריקה שמדרגים את האינטראקציה, לא את הארטיפקט

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -97,33 +99,3 @@ ai_assist:
 
 - সাংস্কৃতিক বিষয়বস্তু উপস্থিতি-অনুপস্থিতি হিসেবে নয়, স্তর অনুযায়ী প্রতিবেদন করুন, কারণ 94%-বনাম-6% উপস্থিতি কোন 6% তা কিছুই বলে না।
 - পাইলট প্রতিবেদনের সময় শিক্ষক-ধারণার ফলাফল ও শিক্ষার্থী-ফলাফল স্পষ্টভাবে আলাদা করুন।
-
-## সংযুক্ত ধারণা
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাবিজ্ঞান ও শিক্ষণ-কৌশল
-
-## সংযুক্ত নিবন্ধ
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — খসড়ার আগে শিক্ষকদের সাংস্কৃতিক প্রেক্ষাপট নিয়ে সাক্ষাৎকার নেওয়া পাঠ-পরিকল্পনাকারী (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — সাংস্কৃতিকভাবে প্রাসঙ্গিক K-12 শিক্ষাবিজ্ঞানের জন্য এলএলএম
-- [[civic-education-ai-lesson-plans]] — নাগরিক শিক্ষায় এআই-উৎপন্ন পাঠ-পরিকল্পনা
-- [[ojeda-ramirez-community-based-ai-learning]] — সম্প্রদায়-ভিত্তিক এআই শিখন
-- [[genai-minoritized-knowledges-disability]] — জেনারেটিভ এআই ও প্রান্তিক জনগোষ্ঠীর জ্ঞানের প্রান্তিকীকরণ
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: ঘানার STEM বেঞ্চমার্ক
-- [[cross-cultural-student-perceptions-genai-computing]] — জেনএআই-ব্যবহারের আন্তঃসাংস্কৃতিক ধারণা
-- [[international-students-conversational-ai-adaptation]] — আন্তর্জাতিক শিক্ষার্থী ও কথোপকথনভিত্তিক এআই
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: ভিয়েতনামি পাঠ-পরিকল্পনা
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ও মেশিন লার্নিং ব্যবহার করে পাকিস্তানি বিশ্ববিদ্যালয় শিক্ষার্থীদের মধ্যে চাপ শনাক্তকরণ ও সুস্থতা সহায়তায় একটি এআই-চালিত সাংস্কৃতিকভাবে সচেতন চ্যাটবট

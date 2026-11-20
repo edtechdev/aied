@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -81,32 +83,3 @@ ai_assist:
 - **«Прокторинг защищает академическую честность».** **Обоснование через честность не выдержало самого крупного испытания.** На **четырёх волнах и 1 760 студентах в 105 курсах** прокторинг **повышал тревожность на экзамене (β = 0.60, p < 0.001), но не дал** обнаружимого выигрыша в честности. Измеренный эффект был на студентах, а не на списывании.
 - **«Лучшая способность обнаружения означает лучший прокторинг».** Десятилетний систематический обзор **80 рецензированных исследований (2014–2024)** обнаруживает, что передовой ML/DL прокторинг **выявляет списывание** точнее и ничего не говорит о том, меняет ли его развёртывание поведение. Результативность обнаружения — свойство классификатора, а не режима оценивания.
 - **«Поведенческие сигналы — надёжные индикаторы нарушения».** Системы **отслеживают семнадцать ориентиров тела на кадр** с YOLOv11, чтобы вывести признаки **отклонения позы, тренда головы и движения верхней части тела**. Эти конструкты — прокси, и помеченная поза является классификацией тела, а не наблюдением проступка.
-
-## Связанные концепции
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Связанные статьи
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Носимый ИИ устраняет поведенческий сигнал, на который опирается прокторинг (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Десятилетний систематический обзор автоматизированного прокторинга онлайн-экзаменов
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Всесторонний обзор академической недобросовестности при автоматизированном прокторинге
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Страх перед Большим Братом: негативные побочные эффекты прокторинга на тревожность на экзамене
-- [[biology-degree-integrity-genai-cheating-2026]] — Могут ли студенты списать путь к степени по биологии? Исследование случая уязвимости оценок биологических курсов к академической недобросовестности в эпоху генеративного ИИ
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Под наблюдением: отображение практик дистанционного прокторинга в оценивании студентов-медсестёр
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% студентов помечены как группа высокого риска на экзамене под прокторингом, проходимом лично, при прогнозировании риска по следам LMS за начало семестра

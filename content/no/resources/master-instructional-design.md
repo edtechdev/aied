@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -40,7 +41,3 @@ Ferdigheten leveres med en støttende rigg: to underagenter, én for inntakssamt
 ## Vilkår og forbehold
 
 Lisensen er Creative Commons BY-NC-ND 4.0, og forfatterens oppgitte vilkår betyr noe for de fleste institusjonelle lesere: personlig, ikke-kommersiell studie og faglig utvikling er velkommen, mens kommersiell bruk, videredistribusjon og hvitmerking krever en kommersiell lisens. Repoet rapporterer 314 av 320 poeng på tvers av ti selvdesignede utfordringer, som er forfatterens egen evaluering og ikke en uavhengig, og samme forfatter selger konsulenttjenester og verksteder på rammeverket. Prosjektet beskrives som et personlig foretak uten tilknytning til arbeidsgiverne hans, og siste commit er datert april 2026.
-
-## Tilknyttede begreper
-
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

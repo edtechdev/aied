@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -62,7 +64,6 @@ Na escrita de resposta a texto nos anos finais do ensino fundamental, [[correnti
 
 **Os professores querem a nota apresentada como revisável, não como final.** Nove professores brasileiros experientes de redação do ensino médio avaliaram um aplicativo de correção automatizada de redações do [[ai-education|AIED]]-Unplugged e o classificaram com notas altas — SUS mediano 92,5, medianas do TAM de 7 para utilidade, facilidade de uso, relevância e intenção de uso, 6 para qualidade do resultado. Eles ofereceram, sem que fossem solicitados, que o relatório devesse trazer um aviso na tela de que não é plenamente confiável e precisa ser revisado antes que um estudante o veja; um professor leu essa obrigação como um recurso positivo ([[ribeiro-teachers-writing-analytics-adoption-2026|Ribeiro et al. (2026)]]). Pediram mais detalhe, não menos: diagnósticos por competência, um resumo global, um campo para seus próprios comentários e exemplos concretos de como melhorar. Onde a pesquisa de validade discute taxas de concordância, esses usuários pediram que a interface codificasse a divisão de julgamento entre sistema e professor.
 
-
 **A discordância em relação a quem corrige é sistemática, não aleatória.** Modelos GPT e Llama prontos para uso concordavam apenas fracamente com as notas humanas (QWK ≈ 0,17–0,28 contra 0,72 entre dois avaliadores humanos) e enviesavam em uma direção dependente da qualidade — mais altas para redações curtas e pouco desenvolvidas e mais baixas para redações longas e fortes que traziam erros superficiais menores ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 
 **A avaliação de L2 e autorreferencial** explora contextos de escrita não nativa. A **[[self-referential-l2-writing-llm-assessment|avaliação de L2 baseada em perfil]]** usa uma abordagem autorreferencial que compara a escrita do estudante com seu próprio trabalho anterior, em vez de com normas de falantes nativos.
@@ -80,7 +81,6 @@ A confiança no nível do token, a pontuação ponderada por probabilidade e o e
 
 **O [[benchmark|benchmark]] humano, e o que ele pode e não pode autorizar.** [[opraise-automated-marking-ai-assessment-2026|O estudo OpRaise]] é o teste mais forte desta base de conhecimento sobre se a correção por LLM está pronta para uso rotineiro, e sua resposta depende do benchmark, não do modelo. Ele comparou três sistemas de fronteira (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), cada um sob 27 configurações de prompt cruzando especificidade de rubrica, calibração e estratégia de pontuação, contra as notas moderadas de 761 redações autênticas de Psicologia de 125 estudantes em três [[higher-ed|universidades]] do Reino Unido. As notas humanas foram adotadas como ground truth porque o julgamento acadêmico é o padrão socialmente aceito, e os autores observam que avaliadores humanos concordam apenas moderadamente entre si — o que limita quão forte a concordância IA-humano poderia razoavelmente ser exigida. Contra esse benchmark, a concordância na faixa de grau do Reino Unido variou de **35 a 65 por cento por instituição** (63 por cento em Cambridge, 53 por cento em Nottingham, 35 por cento em Manchester Metropolitan) e não se transferiu entre elas, de modo que a recomendação central do relatório é a validação local com os próprios materiais de [[assessment|avaliação]] de cada instituição. Duas descobertas se generalizam além deste corpus. Primeiro, confiabilidade e concordância se separam: todos os modelos repontuaram de forma quase idêntica (ICC 1,00, 1,00, 0,97) e os modelos concordaram entre si mais de perto do que com os humanos (ICC de três modelos 0,91), mas os três concordaram na faixa de grau em apenas **56 por cento** das submissões — autoconsistência não é validade. Segundo, as notas da IA se comprimiram para o meio da escala (uma pontuação de compressão de 0,47–0,82, com o cruzamento onde IA e humano concordam em média ficando na casa dos 50 altos a 60 baixos), tornando a IA menos precisa exatamente nas fronteiras de nota que separam Firsts de Upper Seconds e aprovações de reprovações. Amplitude de vocabulário, conectivos, complexidade de frase e extensão do texto previram as notas da IA com efeitos pequenos mas significativos, enquanto sua relação com as notas humanas era amplamente irrelevante — uma demonstração direta da preocupação de [[ai-scoring-language-bias-physics|viés linguístico]], e uma que nenhuma estratégia de prompting testada removeu.
 
-
 **A AES como sinal de treinamento em vez de juíza.** Modelos de pontuação costumam ser estudados como avaliadores, mas o SWIM usa um como função de recompensa: [[swim-student-writing-simulation-2026|Do, Kontak e Sachan (2026)]] congelam um verificador AES multitraço e o pontuam contra redações de estudantes geradas, transformando o perfil de traços previsto em uma recompensa densa por redação (a distância média normalizada por traços em relação ao perfil-alvo) para o GRPO, deliberadamente não a própria métrica Quadratic Weighted Kappa, porque o QWK é definido sobre um lote de pares alvo-predição e não é um sinal por amostra, enquanto recompensas de correspondência exata são esparsas demais no cenário multitraço. Os ganhos foram rechecados contra um pontuador DeBERTa e um verificador apenas de avaliação contra o qual a política nunca treinou (0,598 contra 0,479 para SFT, e 0,647 contra 0,501), que é a verificação que separa o controle genuíno de proficiência da adaptação ao [[reinforcement-learning|modelo de recompensa]]. Para a pesquisa em AES, isso é uma segunda exigência de validade: um pontuador usado como alvo de treinamento está sendo otimizado contra, de modo que sua própria ponderação de traços e seus vieses de língua se propagam para tudo que o gerador aprende — as mesmas assimetrias de ponderação de características (precisão gramatical, sofisticação lexical e complexidade sintática ponderadas com mais força pelos modelos do que pelos avaliadores humanos) documentadas em outra parte desta página, agora moldando o treinamento em vez de apenas as notas.
 **Pontuação e feedback querem métodos diferentes, então um sistema deveria separá-los.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] construíram um sistema de redações argumentativas do TOEFL como três módulos — pontuação, feedback de superfície sobre gramática e mecânica, e feedback profundo sobre organização, coerência e argumentação — em vez de um único modelo fazendo os três trabalhos. O que ganha em um módulo perde em outro: o [[llm-training-and-fine-tuning|ajuste supervisionado]] do GPT-4o em 120 redações de um conjunto proprietário de 480 pontuadas por benchmark, testado nas 360 restantes, alcançou kappa quadrático ponderado de 0,84 e RMSE de 0,44 na escala de 0-5, à frente da linha de base de Wang e Gayed (2024) (QWK 0,78, RMSE 0,57), mas o mesmo ajuste produziu saída inutilizável nos módulos de feedback, onde foi o prompting direto do Claude 3.7 que gerou comentários aprovados pelos professores.
 **O prompt, e não a rubrica, carrega a maior parte do ganho.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao e Min (2026)]] elevaram a concordância com os rótulos do CEFR de um kappa de 0.488 para 0.829 ao acrescentar exemplos de calibração pontuados e uma justificativa obrigatória, enquanto uma rubrica detalhada fornecida sozinha a derrubou para 0.460.
@@ -94,48 +94,8 @@ Sistemas abertos também fazem parte desse quadro: o AiAWE pontua redações arg
 
 - **"O modelo com prompting que mais concorda é o melhor corretor de redações."** No ASAP 2.0, a concordância publicada entre os dois avaliadores especialistas é **κ 0,745**, e nenhuma estimativa pontual de modelo com prompting a alcançou: os 22 variaram de **0,155** a **0,727**, e para **18** todo o intervalo ficou abaixo. Um corretor DeBERTa ajustado chegou a **0,809** e uma regra que conta apenas o comprimento da redação chegou a **0,636**, acima de **16 dos 22** modelos, embora todo modelo mantivesse concordância além do comprimento. [[porcaro-ai-grading-benchmark-2026|A linha de base a superar é o corretor treinado, não o modelo da moda]].
 
-
 ## Ideias equivocadas comuns
 
 - **"Os resultados da correção automatizada refletem a escrita do estudante."** O sinal ordinal pode ser **fabricado, e não observado** — redações sintéticas de nível 1 construídas por geração a partir de modelo, degradação para **20-40% do comprimento original** e remoção de palavras-chave. Um sistema validado em extremos construídos pode nunca ter sido testado na distribuição que vai encontrar.
 - **"A acurácia agregada é a métrica a relatar."** **Uma distribuição de rubrica enviesada pode fazer as métricas agregadas de pontuação enganarem**: a avaliação automatizada de uma dimensão de rubrica é frequentemente uma tarefa de classificação com distribuição de rótulos desequilibrada, em que alta acurácia e discriminação útil se separam.
 - **"Implantações de campo não foram avaliadas."** Existe evidência de campo de uma implantação real de alto impacto (**o Acredita EB do Uruguai, 2024**), que é a forma mais forte de evidência nesta literatura e a que a maioria dos estudos de acurácia de pontuação nunca fornece.
-
-## Conceitos conectados
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Artigos conectados
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — Cadeia de pensamento consciente da rubrica mais PPO: QWK médio de 0.5253 a 0.5410, com pequenos ganhos de escala (Xu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — Pontuação auditável: QWK macro de 0.738 com feedback ancorado em evidências e um sinalizador de revisão pelo professor (Xin 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — Classificação automática do nível de reflexão em redações de estudantes húngaros
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: um sistema modularizado de avaliação automatizada de escrita para redações argumentativas
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Inovação educacional por meio da correção automatizada de redações: um framework multidimensional para avaliar pensamento crítico em redações de física do ensino médio
-- [[opraise-automated-marking-ai-assessment-2026]] — Relatório OpRaise: correção por IA de 761 redações universitárias em três universidades do Reino Unido
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Um framework com humano no circuito para pontuação assistida por IA em avaliação de escrita em larga escala
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: pontuação de redações consistente e alinhada por recompensa com LLMs
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs não corrigem redações como humanos (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Da pontuação automatizada ao diagnóstico de aprendizagem: um estudo de mecanismo da avaliação formativa assistida por IA na escrita em inglês
-- [[llm-essay-scoring-feature-weighting-2026]] — Padrões de ponderação de características na pontuação de redações baseada em LLM (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework para avaliar LLMs na avaliação de redações (Liu, Ye e Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Saiba quando confiar: autoconfiança, pontuação probabilística ponderada e ensembling melhoram a concordância da pontuação por LLM
-- [[swim-student-writing-simulation-2026]] — um verificador AES congelado usado como recompensa densa de treinamento para um gerador de escrita
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas de resposta conhecida, e a maioria pode ser convencida a subir a nota (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Professores de turmas de 300 estudantes avaliam um aplicativo AES desconectado com SUS 92,5 e pedem um aviso de confiabilidade, não uma nota final (Ribeiro et al. 2026)
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Otimizando a correção automatizada de redações conduzida por grandes modelos de linguagem: integrando características linguísticas e engenharia de prompts para aumentar a acurácia da pontuação

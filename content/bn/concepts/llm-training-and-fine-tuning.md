@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -159,73 +161,3 @@ LoRA ও তার আত্মীয়েরাই যেখানে অধ�
 - **"শিখন-লাভের প্রধান নির্ধারক মডেল।"** এলএলএম ও শিক্ষার্থীর শিখন-লাভের মধ্যকার ফাঁকের মাত্র **প্রায় 15%** মডেল ও প্রম্পট-নির্বাচন ব্যাখ্যা করে। বাকি 85% অনুকূলিত করাই আসল কাজ, আর তা ওজনে নেই।
 - **"স্থানীয় মডেল হোস্ট করা মডেলের চেয়ে খারাপ করবে, তাই রিট্রিভাল কম গুরুত্বপূর্ণ লিভার।"** তিন-বিন্যাসের মূল্যায়নে **রিট্রিভাল, মডেল নয়, প্রথম-ক্রমের নকশা-সিদ্ধান্ত** ছিল: **রিট্রিভাল ছাড়া স্থানীয় এলএলএম কেবল 52.3% নির্ভুলতায় পৌঁছায়, যা একটি TF-IDF ভিত্তিরেখার নিচে**। রিট্রিভাল যোগ করলে একই মডেল এমন সীমা ছাড়ায় যা কোনো মডেল-বদল একা ছুঁতে পারত না।
 - **"বেশি প্রশিক্ষণ-ডেটা মানে ভালো শিক্ষণ-আচরণ।"** যে মূল্যায়ন-ফাইন-টিউন ফরম্যাটিং উন্নত করে প্রতিক্রিয়া-তৈরি খারাপ করে, সেটিই ক্ষুদ্র পরিসরে বিপরীত উদাহরণ: একই রকম দেখতে একটি লক্ষ্যের বিপরীতে অনুকূলন প্রক্সিকে উন্নত করে আর আপনি যা চেয়েছিলেন তা অবনত করে।
-
-## সংযুক্ত ধারণা
-
-- [[llm]] — এই মডেলগুলো কী; এই পাতা বলে সেগুলো কীভাবে তৈরি হয়
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল
-- [[rag]] — রিট্রিভাল, প্রশিক্ষণের আগের ধাপ
-- [[prompt-engineering]] — সবচেয়ে সস্তা লিভার, এবং যে ভিত্তিরেখা ছাড়তে হবে
-- [[reinforcement-learning]] — পোস্ট-প্রশিক্ষণের RL ধাপ
-- [[intelligent-tutoring]] — প্রধান প্রয়োগ-ক্ষেত্র
-- [[adaptive-learning]] — শিক্ষার্থীর সঙ্গে অভিযোজন, মডেল অভিযোজনের থেকে আলাদা
-- [[automated-assessment]] — ফাইন-টিউন করা স্কোরিং মডেল যেখানে পৌঁছায়
-- [[automated-essay-scoring]] — যে কাজ থেকে স্কোরিং-প্রমাণের বেশিরভাগ আসে
-- [[ai-feedback-quality]] — ফাইন-টিউনিং কী ঠিক করে আর কী করে না
-- [[educational-nlp]] — নিকটবর্তী পদ্ধতি-পরিবার
-- [[simulating-students]] — একই যন্ত্রপাতির শিক্ষার্থী-দিকের প্রয়োগ
-- [[student-modeling]] — সিমুলেশনের নিচের মডেলিং-স্তর
-- [[open-source]] — ওপেন ওজনই স্থানীয় ফাইন-টিউনিং সম্ভব করে
-- [[benchmark]] — এই ব্যবস্থাগুলো কীভাবে মূল্যায়িত হয়, এবং তার সীমা
-- [[assessment-validity]] — কেন ভালো মাপকাঠিও খারাপ যন্ত্র বোঝাতে পারে
-- [[pedagogical-safety]] — প্রশিক্ষণ যা নিশ্চিত করে না
-- [[ai-sycophancy]] — পোস্ট-প্রশিক্ষণ যে আচরণ লক্ষ্য করতে পারে
-- [[hallucination-risk]] — যে ব্যর্থতা ফাইন-টিউনিং সারাতে পারে না
-- [[privacy]] — প্রশিক্ষণ-ডেটা ও আনলার্নিংয়ের বাধা
-- [[human-in-the-loop-ai]] — যে পশ্চাত্পদ স্বয়ংক্রিয়করণকে সাশ্রয়ী করে
-- [[metacognition]] — পোস্ট-প্রশিক্ষণের একটি পেডাগজিক্যাল লক্ষ্য
-- [[scaffolding]] — যে আচরণ পুরস্কার-ফাংশনগুলো এনকোড করতে চায়
-- [[ai-education]] — যে ক্ষেত্রের এই কাজ সেবা করে
-
-## সংযুক্ত নিবন্ধ
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL–SFT–RL পাইপলাইন: CDPK-তে 96.52%, Gemini-3 Pro-কে ছাড়িয়ে
-- [[learnlm-improving-gemini-learning]] — জেমিনির পোস্ট-প্রশিক্ষণের ভেতরে পেডাগজিক্যাল নির্দেশনা-অনুসরণ
-- [[teachlm-post-training-llms-education]] — প্রকৃত টিউটরিং ডেটার 100,000 ঘণ্টায় পোস্ট-প্রশিক্ষণ
-- [[tact-pedagogically-adaptive-esl-tutoring]] — শ্রেণিবিন্যাস-সারিবদ্ধ পোস্ট-প্রশিক্ষণ, পেডাগজিক্যাল সিদ্ধান্তকে লক্ষ্য করে
-- [[swim-student-writing-simulation-2026]] — রুব্রিক প্রম্পটিংয়ের বিপরীতে SFT ও GRPO, পুরস্কার-নকশার বিবরণসহ
-- [[misconception-acquisition-dynamics-llms-2026]] — ভুল-ধারণা প্রশিক্ষণের বাধ্যতামূলক শর্ত হিসেবে ধাপ-স্তরের চিহ্ন
-- [[jeon-isd-agent-bench-2026]] — 25,795 দৃশ্যপট জুড়ে তত্ত্ব-ভিত্তিক নির্দেশনা-নকশা এজেন্ট
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — মডেলকে সক্রেটিক পথপ্রদর্শক হিসেবে সারিবদ্ধ করতে হিউরিস্টিক RL
-- [[special-r1-rl-special-education]] — বিশেষ শিক্ষার সমতার জন্য রিইনফোর্সমেন্ট লার্নিং
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — ব্যক্তিগতকরণের জন্য এলএলএম-নির্দেশিত রিইনফোর্সমেন্ট লার্নিং
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — একটি পেডাগজিক্যাল বৃহৎ যুক্তি-মডেল
-- [[omniedu-open-educational-foundation-models-2026]] — প্রতি উদাহরণে একটি লক্ষ্য-আচরণ, মডেল-স্কেল জুড়ে
-- [[garrod-edu-qurating-educational-data-curation-2026]] — প্রশিক্ষণের জন্য শিক্ষামূলক ডেটা পরিচর্যা
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA র‍্যাংকের প্রভাব ও প্রতি অ্যাডাপ্টার-প্যারামিটারে লাভ
-- [[aiawe-automated-writing-evaluation]] — LoRA-অভিযোজিত AWE, যেখানে স্কেল সাফল্যের পূর্বাভাস দেয়নি
-- [[llm-graders-computer-science-exams-2026]] — ~3,900 উদাহরণে একটি অ্যাডাপ্টার, মানব-গ্রেডারের সমানে
-- [[iks-instruct-dataset-indian-knowledge]] — 24,795-উদাহরণের নির্দেশনা-ডেটাসেট ও প্রায়-শূন্য ভিত্তি-ভিত্তিরেখা
-- [[llm-children-reading-story-generation]] — পাঠ্য-স্তর নিয়ন্ত্রণে স্কেলের বদলে নিয়ন্ত্রণযোগ্যতা
-- [[bert-discourse-english-teaching-2026]] — কোন স্তর ফাইন-টিউন করবেন, এবং কেন চার বারোটিকে ছাড়ায়
-- [[nuclear-diffusion-text-to-image-learning-2026]] — প্যারামিটার-সংখ্যা নয়, স্থাপত্যই ঠিক করে ফাইন-টিউনিং কাজ করবে কি না
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 2B মডেলে ডিস্টিলেশন, বিশ্বস্ততা-নিরীক্ষাসহ
-- [[llm-unlearning-math-privacy]] — PII ও ক্ষতিকর বিষয়বস্তুর গ্রেডিয়েন্ট-ভিত্তিক আনলার্নিং
-- [[reflection-level-classification-hungarian-essays-2026]] — ফাইন-টিউন করা ট্রান্সফর্মার বনাম চিরায়ত ও এমবেডিং ভিত্তিরেখা
-- [[multimodal-item-parameter-estimation-2026]] — মাল্টিমোডাল আইটেম থেকে IRT বক্ররেখা শেখা
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — মানব-চক্রের নীতি হিসেবে আত্মবিশ্বাস-রাউটিং
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — প্রথম-ক্রমের সিদ্ধান্ত হিসেবে রিট্রিভাল, শক্তি ও VRAM রিপোর্টসহ
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23টি গবেষণা: প্রম্পটিং 13, ফাইন-টিউনিং 7, হাইব্রিড 3
-- [[gpt-item-generation-l2-listening-2026]] — প্রম্পটিং মঞ্চে থামে, তারপর ফাইন-টিউনিং বাকিটা যোগ করে
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — ফাইন-টিউনিং স্কোরিংয়ে জিতেছে, প্রতিক্রিয়ায় ব্যর্থ
-- [[educational-llm-alignment]] — মডেল ও প্রম্পট-নির্বাচনে ~15% সীমা
-- [[yasar-llms-iterative-pedagogical-design-2026]] — প্রশিক্ষণহীন বিকল্প হিসেবে রুব্রিক-নির্দেশিত প্রম্পটিং
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — ভুল-ধারণা সিমুলেশনে প্রম্পট-স্তরের ব্যক্তিত্ব-নিয়ন্ত্রণ
-- [[eduframetrap-llm-sycophancy-educational-safety]] — স্পষ্ট প্রশিক্ষণ-শর্ত হিসেবে তোষণ
-- [[contextual-sycophancy-ai-literacy]] — প্রম্পটিং ও সমতা সত্ত্বেও টিকে থাকা তোষণ
-- [[hazra-safetutors-pedagogical-safety-2026]] — দীর্ঘায়িত সংলাপে নিরাপত্তার অবনতি
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — প্রশিক্ষণহীন ফ্রন্টিয়ার মডেল থেকে ~35% অব্যবহারযোগ্য সূত্র
-- [[simulated-students-tutoring-dialogues-2026]] — সিমুলেট করা শিক্ষার্থী শিক্ষার্থীর মতো আচরণ করে কি না
-- [[inside-llm-student-simulator-reasoning-2026]] — শিক্ষার্থীর মতো অভিনয় ও চিন্তা করতে একটি মডেল ফাইন-টিউন করা
-- [[history-aware-student-simulation]] — শিক্ষার্থীর গতিপথে শর্তযুক্ত সিমুলেশন
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — পাঠ্যক্রম-কাঠামোবদ্ধ ডেটা নমুনা-সাশ্রয়ী

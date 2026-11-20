@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -93,9 +94,3 @@ Psychologiedocenten in elke carrièrefase, en docenten in aangrenzende [[social-
 ## Opmerkingen en kanttekeningen
 
 Gratis pdf, geen account. Het copyright is van STP, niet een Creative Commons-licentie: persoonlijke en klaslokaalkopieën zijn toegestaan met naamsvermelding, terwijl herdistributie of commercieel gebruik de toestemming van de auteur vereist. Hoofdstukken zijn praktijkverslagen, geen studies — geen ontwerpen, steekproeven of effectgroottes — dus beschouw claims als ervaringsverslagen en citeer hoofdstukken afzonderlijk.
-
-## Gerelateerde concepten
-
-- [[social-sciences-education]] — de clusterpagina waarvan de psychologiesectie door dit boekdeel wordt gevuld met praktijk op vakniveau
-- [[ai-literacy]] — de ontwikkelingsgerichte framing die de redacteuren aan de collectie geven
-- [[academic-integrity]] — het onderwerp van het beleidshoofdstuk, en de reden waarom verschillende vakhoofdstukken verificatiestappen inbouwen

@@ -9,6 +9,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 > **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health|Harry et al. (2026)]], [[multimodal-affective-its-presentation|Suen et al. (2026)]], and [[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]. Emotional risks of [[student-ai-interaction|AI interaction]] also matter, including [[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]] and [[shame-guilt-ai-regulation-computing-education|Hamilton et al. (2026)]].
@@ -27,7 +29,6 @@ reviewed_by: [editor]
 ## Sensing emotion to adapt instruction
 
 Affective computing aims to make AI systems emotionally aware so they can respond to how learners feel, not just what they do. In education this means sensing frustration, confusion, confidence, boredom, or engagement and adapting instruction accordingly. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstrates the approach by modeling affect from two modalities — conversational text and real-time facial expression — and mapping aggregated emotional state to [[pedagogy|pedagogical]] strategies before [[prompt-engineering|prompting]] the tutor.
-
 
 The signals themselves are ambiguous: a single expressive channel cannot reliably distinguish distress, effort, embarrassment, fatigue, or strategic self-presentation without the person, task, culture and situation that produced them — "contextual under interpretation" — so a classifier reading the visible signal alone risks recommendations that are plausible but pedagogically wrong ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
@@ -57,33 +58,3 @@ Affective computing sits at the intersection of [[affective-tutoring|affective t
 - **"More engagement means more learning."** A brain-sensing study found a **constrained, adaptive interface raised cognitive engagement (p = .018) while the unrestricted chatbot produced higher learning gains**. The interface that engaged more taught less. Engagement is not a proxy for learning, and optimizing it can move the outcome the wrong way.
 - **"Emotional support is a soft add-on to cognitive support."** In a small classroom [[rct]] (**42 completers of 252 participants**), the mindful version reached **similar algebra learning in less time and with fewer requested hints** than cognitive support alone. The affective component changed efficiency rather than ceiling, which is a different and more interesting claim than "it helps learning."
 - **"Small-sample affective findings transfer."** 42 completers from 252 participants is a both encouraging and fragile design: the completion rate is itself a finding about who persisted, and the effect is bounded to that group.
-
-## Connected Concepts
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-## Connected Articles
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
-- [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reframing AI-supported emotion regulation: signals need context, not autonomous interpretation

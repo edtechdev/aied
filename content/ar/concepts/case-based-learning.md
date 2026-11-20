@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -91,34 +93,3 @@ ai_assist:
 - **"الحالة الواقعية تعلّم بنفسها."** الواقعية توفّر السياق. والأسئلة والمقارنات ومهام التبرير توفّر التعلّم.
 - **"الحالات المولَّدة بالذكاء الاصطناعي جاهزة للاستخدام."** قد تكون الحالات المولَّدة فصيحة ومعقولة وخاطئة. وهي تحتاج مراجعة خبير وفحصًا للاستدلال الذي تدعو إليه.
 - **"إن استمتع الطلاب بالمناقشة فقد نجحت الحالة."** الاندماج ليس نقلًا. ويجب قياس الناتج على مهمة لم يكن الطلاب يستطيعون إنجازها من قبل.
-
-## المفاهيم المتصلة
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## المقالات المتصلة
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — نموذج لغوي كبير مسنَد أمسك خمس حالات ما حول الجراحة دون تلفيق محتوى
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT قلّص زمن إنشاء حالات التمريض دون فرق جودة مقيس
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — ست تجارب عشوائية مضبوطة للتعلّم القائم على المشكلات والحالات المدعوم بالذكاء الاصطناعي؛ اثنتان فقط اختبرتا الحالات
-- [[scaffolding-critical-engagement-genai-minority-students]] — نمذجة المعلّم بالحالات المتقابلة في مقرر ذكاء اصطناعي توليدي
-- [[ai-standardized-patient-scaffolding-medical-2026]] — التعلّم القائم على الحالات إلى جانب المرضى الافتراضيين والممثّلين
-- [[genai-medical-education-transformation-review-2026]] — التعلّم القائم على الحالات والاستدلال السريري بين فئات التطبيق في المراجعة
-- [[hardie-genai-nursing-scoping-review-2026]] — التعلّم القائم على الحالات داخل محور المحاكاة في مراجعة تمريض
-- [[lorteau-sarro-ai-legal-education-2025]] — الذكاء الاصطناعي يكمّل التدريس السقراطي والمحاكاة القانونية
-- [[csaszar-ai-management-education-2026]] — دراسات الحالة والمحاكاة في تعليم الإدارة، دون تحليل لمنهج الحالات

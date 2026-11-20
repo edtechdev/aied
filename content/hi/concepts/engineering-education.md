@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -84,39 +86,3 @@ ai_assist:
 - **"इंजीनियरिंग छात्रों में एआई अपनाना एक तकनीक-स्वीकृति समस्या है।"** [[socio-cognitive-genai-adoption-engineering-2026|Asag और Al Mamun]] TAM को [[technology-acceptance-model|UTAUT]] के साथ जोड़कर बांग्लादेशी इंजीनियरिंग छात्रों का अपनाना मॉडल करते हैं, जो प्रसरण का **64% समझाता है**, इसलिए एक ठोस हिस्सा स्वीकृति-संरचनाओं से बाहर, उन सामाजिक और संज्ञानात्मक कारकों में बैठता है जिन्हें मॉडल नहीं घेरता।
 - **"छात्र एआई का उपयोग उसके लिए करते हैं जिसमें वह सबसे अच्छा है।"** [[ai-engineering-education-balancing-act|Kudina (2026)]] ने पाया कि **100 इंजीनियरिंग छात्रों** ने एलएलएम को **लेखन-सहायता** के लिए सबसे अधिक महत्व दिया, इंजीनियरिंग तर्क के लिए नहीं। उपकरण के लिए उनके रूपक उससे आगे थे जो उसने दिया, और उनका वास्तविक उपयोग क्षमता के बजाय सुविधा का पीछा करता था।
 - **"एक समृद्ध उपकरण-स्टैक डिज़ाइन परिणाम सुधारता है।"** **27-छात्र** वाले वास्तुशिल्प डिज़ाइन स्टूडियो में जनरेटिव-एआई और [[virtual-and-augmented-reality|XR]] पाइपलाइन उपयोग करने वाले दलों ने **बेहतर उत्पाद के बिना दबी हुई प्रभावकारिता** दिखाई। उपकरण-समृद्धि कलाकृति को अपरिवर्तित छोड़ते हुए आत्मविश्वास की कीमत ले सकती है।
-
-## संबंधित अवधारणाएँ
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## संबंधित लेख
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — स्टैटिक्स बेंचमार्क: हल करना और त्रुटि-पहचान संतृप्त हो जाते हैं, दबाव-प्रतिरोध नहीं
-
-- [[mechanical-engineering-ai-curriculum-2026]] — थर्मल इंजीनियरिंग में परियोजना-आधारित AI शिक्षा पाठ्यक्रम
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — इंजीनियरिंग संकाय रूपक AI समझ का निर्माण (और सीमित) करते हैं
-- [[tam-critical-use-genai-engineering-2026]] — इंजीनियरिंग/CS छात्रों के लिए आलोचनात्मक उपयोग के साथ विस्तारित TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — इंजीनियरिंग शिक्षा के लिए एकीकृत सामाजिक-संज्ञानात्मक मॉडल (बांग्लादेश)
-- [[ethical-use-ai-engineering-education-review-2026]] — इंजीनियरिंग शिक्षा में AI का नैतिक उपयोग: एक व्यवस्थित समीक्षा
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — मौखिक व्याख्याओं में देहात्मक संज्ञान के लिए एक बहुजँनु ढाँचा
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI और इंजीनियरिंग एवं कंप्यूटिंग कार्यबल का भविष्य
-- [[ai-engineering-education-balancing-act]] — इंजीनियरिंग शिक्षा में AI का उपयोग: एक संतुलन कला
-
-- [[structured-ai-demonstrations-engineering-mechanics]] — इंजीनियरिंग यांत्रिकी में संरचित AI प्रदर्शन
-- [[isaza-chatgpt-engineering-prompting-2026]] — इंजीनियरिंग शिक्षा में ChatGPT
-- [[liu-ai-sustainable-engineering-education-2026]] — स्थिर इंजीनियरिंग शिक्षा के लिए AI-SEE ढाँचा (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — सहयोगी वास्तुशिल्प डिज़ाइन शिक्षा में जनरेटिव AI और विस्तारित वास्तविकता: एक अन्वेषणात्मक स्टूडियो अध्ययन

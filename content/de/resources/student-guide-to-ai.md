@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -49,11 +50,3 @@ Studierende in jedem Fach und Lernende der oberen Sekundarstufe. Fakultätsmitgl
 Der Leitfaden ist [[formative-assessment|formativ]] gerahmt und sagt das auch: Ergebnisse sind eine Momentaufnahme von Gewohnheiten, keine Note, kein Persönlichkeitsmerk und keine Vorhersage, und Lernenden wird gesagt, sie nicht öffentlich zu teilen.
 
 Die Rahmung rund um KI beruht auf belegten Umfrage- und Experimentalbefunden, dass das Auslagern von Anstrengung dazu führen kann, dass Lernende weniger behalten – das ist die [[cognitive-offloading|Auslagerungs]]-Frage, der der Leitfaden entgegenwirken will, nicht die er beilegen will. Das PDF des Field Guide liegt hinter einem kurzen Formular, das Name, Rolle, Institution und E-Mail-Adresse erfragt; die Module des Lehrkräfte-Leitfadens und das Papier zum pädagogischen Framework laden direkt herunter. Die interaktive Version läuft in Gemini Notebook und braucht ein Google-Konto. Die Herausgeberzahlen von mehr als 40.000 PDF-Downloads über etwa 4.000 Institutionen in 180 Ländern, und über 130 eigenen Campus-Ausgaben, sind die ihren, ebenso wie die Empfehlungen von ALA, NASPA, EDUCAUSE, OLC, CAA, dem Gardner Institute und RTI International.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

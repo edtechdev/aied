@@ -23,12 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
 > **طلب المساعدة** — عملية المتعلّم في إدراك الحاجة إلى عون وطلبه استراتيجيًا، وكيف تجري تلك العملية في بيئات التعلُّم المدعومة بالذكاء الاصطناعي. في [[ai-education|الذكاء الاصطناعي في التعليم]]، يعدّ طلب المساعدة محوريًا في ما إذا كانت أدوات الذكاء الاصطناعي تدعم التعلُّم أو تُضعفه: فإن *جودة* طلب المساعدة (متى، وكيف، وما يطلبه المتعلّمون) تشكّل النتائج تشكيلًا قويًا، ومدرّبو الذكاء الاصطناعي والتلميحات والوكلاء [[pedagogy|البيداغوجية]] مصمّمة بالضبط لإثارة طلب مساعدة منتج لا طلب أجوبة.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 يمكن للتواصل الاستباقي أن يرفع طلب المساعدة دون أي تغيير في مواد التعلُّم. فقد أجرت تجربة مسجّلة مسبقًا في مقررات بكالوريوس واسعة الانتساب مراسلةَ الطلاب عبر روبوت دردشة أكاديمي ووجدت تبنّيًا أكبر للتدريس الفاحص والتعليم التكميلي؛ ونسب تحليل الوساطة 17.8% من أثر الدرجة إلى ذلك الارتفاع في طلب المساعدة (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
@@ -117,11 +118,9 @@ ai_assist:
 
 يتصدّى [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] للسلف السلوكي لطلب المساعدة في [[cs-education|تعليم البرمجة بمعونة الذكاء الاصطناعي]]: فالمدرّبون البشريون يتكيفون مع سلوك المتعلّمين المرئي لا مع طلباتهم الصريحة فحسب، بينما يفتقر مدرّبو الذكاء الاصطناعي إلى ذلك السياق. و**TutorTrace** مجموعة بيانات وخطٌّ يجعلان السياق السلوكي للمتعلّمين قابلًا للحساب في الزمن الحقيقي من قياسات بعدية منخفضة المستوى لبيئة التطوير المتكاملة (أربعة عمليات نشر، N=480؛ نحو 180 ألف حدث، و13,633 مقطعًا سلوكيًا، و27 مقياسًا)، مشتّقًا تصنيفًا لنشاط المتعلّم *قبل* أول استعلام ذكاء اصطناعي، و*بين* استعلامين متتاليين، و*عبر* الجلسة. وهذا يتيح للأنظمة أن تصنّف ما إذا كان الاستعلام يعكس طلب مساعدة **موجَّهًا** (مسبوقًا بعمل مستقل) أو طلب مساعدة **تابعًا** (بلا عمل مستقل) — AUROC=.717 على التنبؤ المحتفظ به للاختبار — وأن تتنبأ بالاستعلامات الوشيكة (AUROC=.726). ووجد تقييم صفّي مبدئي أن المثيرات الواعية بالسلوك خفّضت الفواصل بين الاستعلامات بلا عمل مستقل من 50.0% إلى 20.7%. وهذا يربط قياسات [[learning-analytics]] بالقياس عن بعد بـ[[intelligent-tutoring|التدريس الفاحص التكيفي]]، مُظهرًا أن السياق السلوكي يمكن تشغيله على نطاق واسع لمسقالدة *كيف* يطلب الطلاب المساعدة لا مجيبًا أسئلتهم الصريحة فحسب.
 
-
 **مسار طلب المساعدة يتنبأ بالنقل، لا مستواه فحسب.** رمّز [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] 880 دورًا من 112 طالبًا في المرحلة الثانوية وهم يحاكون مسائل رياضية بنموذج لغوي كبير، فوجد أن المزيج الساكن لا يفيد: فقد كانت 81.5% من الأدوار طلبات، و2.2% فقط تقييمًا صريحًا، و54% من الطلبات موجّهة نحو الفهم مقابل 46% طلبًا للأجوبة. وتنبأ الأداء في اختبار بعدي أُجري دون ذكاء اصطناعي بميل التغيّر داخل الجلسة لا بمستواه. فقد تراجع طلب المساعدة الموجّه نحو الفهم (M = −0.20) عبر المحادثة، وأضاف ذلك المسار ΔR2 = .110 إلى نموذج يحتوي أصلًا على درجة الاختبار القبلي (β = .34, p < .001). أما سمات التفاعل الساكنة فأضافت ΔR2 = .023 فقط (p = .684). ولهذا يجب أن تُقرأ جودة طلب المساعدة كمنحنى: فالجلسة التي تُفتح بأسئلة مفاهيمية ثم تستقرّ إلى طلبات أجوبة تدلّ على أداء أضعف دون عون، ولم تعوّض ذلك زيادة متواضعة في التنظيم الذاتي الصريح (M = +0.103).
 
 **خطّ معالجة ثانٍ يطرح السؤال نفسه من جهة البنية التحتية.** يرى [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] أن التبادل بين الإنسان والذكاء الاصطناعي صنف بيانات قائم بذاته: فتمثيلهم يسجّل الحالة الحوسبية التي أثارت الطلب، والطلب، والاستجابة، وتقييم المستخدم لها، والتنفيذ الذي تلاه، ككائن واحد. ثم تُصنَّف الاستعلامات، من ذلك السياق، إلى استعادة بعد خطأ، وخطوة تالية متعثّرة، وعون مفاهيمي، أو تحقّق. وفي نشر لـJupyterLab مع 35 طالبًا امتدّ على 140 زوجًا من طالب-تكليف، ارتبطت أعداد التفاعل المجرّدة بالخلايا المنفَّذة بنجاح عند r = 0.12 فقط، بينما كان 37 زوجًا يملك الوصول ولم يستخدمه قط، واستخدمه 26 خارج الشرط المخصَّص لهم.
-
 
 ## انعكاسات على التصميم والبحث
 
@@ -136,51 +135,3 @@ ai_assist:
 - **"الطلاب الذين يحتاجون المساعدة لا يطلبونها."** أرسلت **تجربة مسجّلة مسبقًا** في مقررات جامعية كبيرة الالتحاق رسائل إلى الطلاب عبر روبوت محادثة أكاديمي، فوجدت **تبنّيًا أكبر** لدعم التعليم الخصوصي والدعم التكميلي. فقد حرّك التنبيه السلوك، وكان الحاجز هو [[prompt-engineering|التذكير]] لا الرغبة.
 - **"طلبات المساعدة تتعلّق بالتعلّم."** يعقّد **طلب الدعم التشغيلي** ذلك الافتراض: فمن بين **4,093 استعلامًا**، سأل **20.4% على الأقل عن حالة تسليم معلّق لا عن معرفة**. أي أن خُمس الطلب على المساعدة كان إداريًا.
 - **"استخدام مدرّب ذكاء اصطناعي يعني مراقبة تعلّمك."** في دراسة على **98 طالبًا في الصف التاسع** يستخدمون مدرّبًا بالذكاء الاصطناعي التوليدي، **غلب على التفاعلات طلبات أداتية بلا أي مراقبة أو تقييم تقريبًا لتعلّمهم**. فطلب الأجوبة ليس طلب مساعدة بالمعنى الذي يعنيه هذا البناء.
-
-## المفاهيم المرتبطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — التواصل المؤسسي وتخصيص الدعم، إلى ما هو أبعد من طلب المساعدة داخل المقرر
-
-## المقالات المرتبطة
-- [[leite-its-k12-meta-analysis-2025]] — أي دعائم التدريس تحمل الأثر: الأمثلة والتلميحات عند الطلب لا المثيرات التلقائية
-- [[taufer-human-ai-interaction-haidl-2026]] — التفاعلات بوصفها بيانات من الدرجة الأولى: تصنيف الاستعلام بالحالة التنفيذية المحيطة به
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — مسار طلب المساعدة، لا مستواه، يتنبأ بالأداء الرياضي غير المدعوم
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — طول التلميح مقيسًا مقابل صحة التسليم التالي والمحاولات والزمن في مقرر برمجة حيّ
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — وكيل عون لم يسأله أحد (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — طلب مساعدة بوساطة نموذج لغوي كبير في العلوم والتقنية والهندسة والرياضيات: طبقي، وأداتي، ومُتحقَّق منه
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
-- [[regulating-ai-tutor-adolescent-srl]] — فجوة النية-السلوك في طلب مساعدة GenAI عند المراهقين والتعلُّم المنظّم ذاتيًا
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
-- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
-- [[uneven-impact-generative-ai-student-learning-2026]] — الاعتماد المبكر: استشارة GenAI قبل التفكير المستقل أو البحث أو مدرّس تتنبأ بالمنفعة وبالضرر (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System

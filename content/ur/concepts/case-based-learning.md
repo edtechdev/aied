@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -91,34 +93,3 @@ ai_assist:
 - **"حقیقت پسندانہ کیس خود ہی سکھا دیتا ہے۔"** حقیقت پسندی سیاق فراہم کرتی ہے۔ سوالات، موازنے اور جواز کے کام سیکھنے کو فراہم کرتے ہیں۔
 - **"AI سے پیدا شدہ کیسز استعمال کے لیے تیار ہوتے ہیں۔"** پیدا شدہ کیسز روانی والے، معقول اور غلط ہو سکتے ہیں۔ اُنہیں ماہرانہ جائزے اور اُس استدلال کی جانچ چاہیے جس کی وہ دعوت دیتے ہیں۔
 - **"اگر طلبہ کو بحث پسند آئی تو کیس کامیاب رہا۔"** شمولیت منتقلی نہیں ہے۔ نتیجہ ایسے کام پر ناپا جانا چاہیے جو طلبہ پہلے مکمل نہیں کر سکتے تھے۔
-
-## منسلک تصورات
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## منسلک مضامین
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — ایک گراؤنڈڈ LLM نے پیری آپریٹو کے پانچ کیسز کو بغیر من گھڑت مواد کے سنبھالا
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT نے نرسنگ کیس بنانے کا وقت کم کیا، بغیر ناپے جانے والے معیار کے فرق کے
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI سے چلنے والی PBL/CBL کی چھ RCTs؛ صرف دو نے CBL جانچا
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI کورس میں متضاد کیسز کے ساتھ استاد کی نمونہ سازی
-- [[ai-standardized-patient-scaffolding-medical-2026]] — مجازی اور نقلی مریضوں کے ساتھ ساتھ کیس پر مبنی سیکھنا
-- [[genai-medical-education-transformation-review-2026]] — جائزے کے اطلاقی زمروں میں کیس پر مبنی سیکھنا اور طبی استدلال
-- [[hardie-genai-nursing-scoping-review-2026]] — نرسنگ جائزے کے نقل کے موضوع کے اندر کیس پر مبنی سیکھنا
-- [[lorteau-sarro-ai-legal-education-2025]] — AI سقراطی تدریس اور قانونی نقلوں کا تکملہ ہے
-- [[csaszar-ai-management-education-2026]] — انتظامی تعلیم کی کیس اسٹڈیز اور نقلیں، بغیر کیس طریقے کے تجزیے کے

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -87,57 +89,3 @@ ai_assist:
 - **"로봇이기 때문에 계산적 사고를 가르친다."** **53개 연구**에 대한 체계적 검토는 **문제 기반 학습, 이야기하기, 스캐폴딩**이 가장 자주 쓰인 전략임을 발견했습니다. 결과를 나른 것은 교수법이었고, 그것이 연구들이 실제로 한 일입니다.
 - **"물리적 로봇은 화면 기반 대안을 전반적으로 앞선다."** 향상은 **과제 의존적**이었습니다. [[aifred-desk-robotic-ai-guidance-2026|Orlando 외, 2026]]에서 단기 전이 점수가 **60% 더 높았고**(4.4/10, p = .003), 저자들은 이를 **일반적 대체가 아니라 공간적 동일 위치**에 돌립니다. 이 주장은 특정 과제에서의 동일 위치에 관한 것이지 물리성 일반에 관한 것이 아닙니다.
 - **"유치원의 계산적 사고는 의미 있기에는 너무 이르다."** 검토된 증거는 유치원 로보틱스를 직접 다룹니다. 즉 이 연령대는 부적합하다고 가정된 것이 아니라 연구되어 왔습니다.
-
-## 연결된 개념
-- [[early-childhood-elementary-ai-education]] — 초기 아동기 및 초등 AI 교육
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모델, LLM 훈련, 로보틱스, RAG, 에이전트)
-
-## 연결된 문서
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — 정규 교육에서의 Pepper 로봇에 관한 범위 검토
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI가 강화된 구현형 로봇 보조 언어 학습의 메타분석
-- [[white-wu-robotics-ai-education-2026]] — 교육에서의 로보틱스와 AI
-- [[computational-thinking-educational-robotics-secondary-2026]] — 계산적 사고와 교육 로보틱스
-- [[roboblockly-conversational-block-robotics-ct-2026]] — 대화형 블록 기반 로보틱스 환경 RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — LLM 기반 로봇 시뮬레이션 환경 EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — 생성형 사회적 로봇을 위한 지식 기반 설계
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — 고등교육용 생성형 사회적 로봇 Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — 디지털 스토리텔링 로봇 MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — 교실용 LLM 사회적 로봇 RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 로봇 매개 역할극을 통한 따돌림 예방 REMind
-- [[task-context-trust-educational-hri-2026]] — 교육 HRI에서의 과제 맥락과 신뢰
-- [[human-autonomy-agency-hri-review-2025]] — HRI에서의 인간 자율성과 주도성
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub 서사 HRI
-- [[pepper-robot-sign-language-lis-2025]] — Pepper와 수화
-- [[social-robot-study-companions]] — 학습 동반자로서의 사회적 로봇
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 창의적 글쓰기에서의 로봇-LLM 통합
-- [[game-based-gamified-robotics-education-review-2026]] — 게임 기반 및 게이미피케이션된 로보틱스 교육
-- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로보틱스 교육 Bots and Blocks
-- [[educational-robotics-pathways-2026]] — AI 기반 교육 로보틱스 학습으로의 경로 (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 유치원에서의 로봇 매개 CT
-- [[ai-toys-child-development-2026]] — AI 기반 장난감과 아동 발달
-- [[creative-project-approach-ai-early-childhood-2025]] — 창의적 프로젝트 접근법: 코딩 및 생성형 사회적 로봇을 유아기 프로젝트에 통합하기 (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — 각본화된 시연부터 일대일 공감 대화까지 기능적으로 구별되는 다섯 가지 교실 로봇 유형 (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: 농촌 K–12 로보틱스 프로그램의 제약을 하드웨어가 아닌 기술 멘토십 역량과 허브 지리로 다루는 허브 기반 프레임워크 (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — 고등학생에게 강화학습과 휴머노이드 로보틱스 가르치기: 저비용 개방형 플랫폼에서의 전문가 검증 교육과정 설계
-- [[aifred-desk-robotic-ai-guidance-2026]] — 책상 거치형 로봇 프로젝터: 노트북 ChatGPT가 잃어버린 곳에서 동일 배치 안내가 전이를 보존했다
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 시각-언어 모형이 Nao 로봇을 위해 Shoebox Tasks를 계획한다(Kudláčková 2026)

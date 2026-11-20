@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,12 +48,3 @@ K-12나 고등교육에서 정독, 문서 연구, 미디어 분석을 운영하�
 ## 참고사항과 유의점
 
 계정은 무료이며, 문서는 공개하거나 초대한 그룹과 공유할 수 있습니다. AI 파트너는 OpenAI 대규모 언어 모델로 실행되므로, 선택한 구절과 질문이 플랫폼 자체 호스팅을 떠나 해당 공급자의 약관을 따릅니다. 교육구는 미성년자와 함께 쓰기 전에 데이터 처리 약정을 읽어야 합니다. 출력은 사이트가 아직 확장 중이라고 말하는 토큰 한도로 제한되며, 파트너 디렉터리는 로그인 뒤에 있고, AI 표면은 제품에서 빠르게 움직이는 부분입니다. 여기 기술된 어떤 기능이든 2026년 11월 사이트의 상태로 취급하고 확정된 기능 집합으로 보지 마십시오.
-
-## 연결된 개념
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

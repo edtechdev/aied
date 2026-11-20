@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -48,7 +49,3 @@ K-12-Lehrkräfte, die ein Werkzeug für ein bestimmtes Problem wollen, ohne Abon
 ## Anmerkungen und Vorbehalte
 
 Das Tempo ist zugleich das Versprechen und das Risiko. Ein-Tages-Bauten zielen auf ein echtes Problem im Unterricht und nicht auf eine Forschungsfrage, sodass nichts hier eine Evaluation trägt und eine Aussage darüber, was eine App leistet, im Unterricht geprüft werden sollte. In der GitHub-Organisation liegen 32 öffentliche Repositories, während die Galerie 34 listet, alle unter Apache-2.0 mit verfügbarem Quellcode, sodass eine App gelesen und selbst gehostet werden kann. Dass eine App lokal arbeitet, ist eine Behauptung, die pro App zu prüfen ist, und eine Lehrkraft sollte sich vergewissern, bevor sie ein Werkzeug für Lernende vor eine Klasse stellt.
-
-## Verbundene Konzepte
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

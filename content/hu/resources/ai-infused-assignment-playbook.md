@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,16 +48,3 @@ Tantárgyaktól függetlenül oktatók, különösen a felsőoktatásban és a s
 ## Megjegyzések és fenntartások
 
 Ez gyakorlati útmutató, nem empirikus tanulmány; a diákok MI-használatára vonatkozó állításai idézett külső forrásokon (BestColleges, Campbell, Digital Education Council, Flaherty) nyugszanak, nem új adatokon. A „hálózatépítés” keretrendszer és az „a megértés illúziója” megfogalmazás a szélesebb szakirodalomból származik (Wigmore és mtsai; Williamson és mtsai), és pedagógiai indoklásként jelenik meg, nem a kézikönyv tesztelt eredményeként. A feladatok szerzői sablonok – egyik sem szerepel hatásmérettel, ezért helyben adaptálandó és értékelendő tervekként kezelendők. Megjelent 2026-10-07-én, v1, a Zenodon, CC BY 4.0 alatt; fiók nélkül ingyen letölthető. A betöltés idején a rekord csak ~35 megtekintést és ~14 letöltést mutat, így kevés külső használat vagy szakmai bírálat érte még.
-
-## Kapcsolódó fogalmak
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

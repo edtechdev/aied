@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -66,34 +68,3 @@ Die Professionen haben einen Vorteil, der den Disziplinen fehlt: eine externe In
 **„Simulation ist ein Ersatz für das Praktikum.“** Simulation übt ein definiertes Szenario unter kontrollierten Bedingungen ein, und die Reviews finden sie genau deshalb als führende Anwendung, weil sie begrenzt ist. Was sie nicht liefert, ist das ungeskriptete Urteilsvermögen, das die Betreuung überhaupt erst sichtbar machen soll.
 
 **„Das Erkennen von KI-Nutzung löst das Zertifizierungsproblem.“** Detektion beantwortet, ob ein Werkzeug benutzt wurde, nicht ob der Prüfling praktizieren kann, und die Pflegeliteratur zeigt bereits Studiengänge, die Prüfungsaufsicht wählen, weil sie die zweite Frage nicht beantworten können.
-
-## Verbundene Konzepte
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## Verbundene Artikel
-
-- [[llm-turing-test-italian-legal-exams-2026]] — Blinder Turing-Test zu italienischen Anwalts-, Richter- und Notarprüfungen im Vergleich mit Expertenbewertungen
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Vergleich von GenAI-Richtlinien juristischer Fakultäten anhand von fünf Faktoren und ein Governance-Rahmen
-- [[hardie-genai-nursing-scoping-review-2026]] — Scoping Review über 103 Studien zu Anwendungen, Einstellungen und Ethik in der Pflegeausbildung
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, strukturelle Lücken und die Neukonstitution professioneller Identität
-- [[dabkowski-nursing-academics-genai-2026]] — Uneindeutige Richtlinien, professionelle Werte und die Drift zu beaufsichtigten Prüfungen
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote-Proctoring bei Prüfungen in der Pflegeausbildung: Überwachung, Chancengerechtigkeit und Abschreckung
-- [[genai-medical-education-transformation-review-2026]] — Scoping Review über 153 GenAI-Berichte zur medizinischen Ausbildung
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Stratifizierte Multi-Rater-Evaluation LLM-basierter virtueller standardisierter Patienten gegen die OSCE-Praxis
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Curricula zu KI im Gesundheitswesen lehren Ethik (80,6 %), aber selten Datenherkunft (22,2 %)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 Lehramtsstudierende: flache GenAI-Nutzung, Sorgen um die Integrität, Beurteilungskompetenz
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — KI in der Lehrerbildung: Rahmenmodelle, empirische Befunde und Ethik
-- [[critsly-design-education-ai-critique-2026]] — KI-Kritik-Tools lesen den Prozess statt des Ergebnisses
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Nutzung von KI in wissenschaftlichen Bibliotheken: ein systematischer Review

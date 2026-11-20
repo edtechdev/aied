@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -112,11 +114,9 @@ ai_assist:
 
 - **تفریق دوسری سمت بھی چل سکتی ہے (2026):** 12 ہفتے کے پیشہ ورانہ انٹیریئر ڈیزائن کورس میں، اندرونی LLM تدریسی معاون والے عمیق VR اسٹوڈیو نے روایتی [[project-based-learning|منصوبہ پر مبنی]] تدریس کے مقابلے علمی (d = 0.90) اور رویے کی (d = 0.75) شمولیت بڑھائی جبکہ جذباتی شمولیت میں کوئی معنی خیز فرق نہ رہا (d = 0.38) — اوپر کے L2 تحریر کے کیس کا الٹ ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]])۔ یہاں علمی اور رویے کے فوائد *کم* رپورٹ شدہ علمی بوجھ کے ساتھ آئے، جسے مصنفین معاون کے تلاش اور بین الشعبہ جاتی انضمام کی کوشش جذب کر لینے سے منسوب کرتے ہیں۔ تحریر کے کیس کے ساتھ ملا کر پڑھیں تو یہ دو مطالعات تجویز کرتے ہیں کہ AI معاون مداخلت کون سی شمولیت کی جہت ہلائے گی، یہ ڈیزائن کی خاصیت ہے — گفتگو سے بھرپور عمیق [[collaborative-learning|تعاون]] بمقابلہ تنہا تحریری معاونت — نہ کہ عمومی طور پر AI معاونت کی، اور یہ کہ بلند وفاداری یا ذہین فیڈبیک سے جذباتی برتری فرض نہیں کی جا سکتی۔
 
-
 - **AI خواندگی شمولیت پر نفسیاتی وسائل کے ذریعے کام کرتی ہے (2026):** ژینگژو، چین کے 1,198 انڈرگریجویٹس کی ایک ہم آہنگ ثالثی مطالعه ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) نے شمولیت کو [[ai-literacy]] کا نتیجہ ماڈل کیا، اوزار استعمال کرنے کا ضمنی پیدا وار نہیں۔ AI خواندگی نے سیکھنے کی شمولیت کی پیش گوئی براہِ راست اور نفسیاتی سرمایہ بنا کر بالواسطہ بھی کی، اور بالواسطہ راستہ کل اثر کا تقریباً نصف لے گیا — جزوی ثالثی، چنانچہ ٹیکنالوجی کی قابلیت شمولیت میں صرف جزوی طور پر اُن نفسیاتی وسائل کے ذریعے بدلتی ہے جو وہ پیدا کرتی ہے۔ پیشہ ورانہ وابستگی، جو شناخت پر مبنی متغیر ہے، نفسیاتی سرمایہ سے شمولیت کے ربط میں ثالثی کرتی رہی بغیر اپنا کوئی براہِ راست اثر، اور نفسیاتی سرمایہ کا شمولیت میں ترجمہ اُن طلبہ کے لیے نمایاں طور پر مضبوط تھا جو خود کو اِس پیشے میں جانے والا سمجھتے تھے۔ یہ نمونہ اوپر کے اِس نکتے کی دستیاب صاف ترین مثال ہے کہ سیکھنے والوں کی خصوصیات شرط لگاتی ہیں کہ AI شمولیت پر کیسے اثر ڈالتا ہے۔
 
 - **AI کی پہلے از کلاس مشق زندہ شرکت بڑھا سکتی ہے (2026):** 759 MBA طلبہ کے ساتھ پہلے سے رجسٹرڈ میدانی تجربے نے پایا کہ آواز پر مبنی AI مباحثہ ساتھی کے ساتھ تیاری نے بعد کی نشستوں میں رضاکارانہ حصہ تقریباً 31% بڑھایا، مگر صرف دوسرے استعمال کے بعد؛ پہلے استعمال کے بعد شرکت کم رہی ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]])۔
-
 
 - **کٹ جانا ایک باری سطح کا اقدام ہے، مستقل حالت نہیں:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] نے Math Nation میں ایک AI تدریسی ایجنٹ کو دیے گئے 5,522 طالب علم جملوں کو مکالماتی کٹ جانے کی چھ اقسام میں کوڈ کیا (False Answering، Mocking، Ghosting، Mirroring، Withholding، Random/Noisy) اور پایا کہ شمولیت کی شرح 75.7% جملوں پر غالب رہی۔ False Answering اور Mocking کے بعد کے امتحانی اسکوروں کے ساتھ پھیلاؤ پر مبنی تعلقات انسانی تشریح شدہ حساسیت کی جانچ میں قائم نہ رہے۔ ترتیبی تجزیہ ہی شمولیت سے متعلق نتیجہ ہے: سب سے زیادہ کارکردگی والا جھرمٹ درمیانی کٹ جانے کو مضبوط واپسی بہ شمولیت کی منتقلیوں کے ساتھ ملا رہا تھا (Withholding → Engagement p = 0.83)، جبکہ سب سے کم والے میں واپسی کے بغیر مستقل خود حلقے دکھائی دیے (Engagement self-loop p = 0.96)۔ Withholding ہی کٹ جانے کی وہ واحد قسم تھی جو حل ہونے کے بجائے برقرار رہنے کی طرف مائل تھی — استقامت بمقابلہ مرمت، نہ کہ موجودگی بمقابلہ غیر موجودگی، وہ فرق ہے جو شمولیت کے سفرناموں کو الگ کرتا ہے۔
 
@@ -148,67 +148,3 @@ ai_assist:
 
 - جہت اور آلہ دونوں رپورٹ کریں، اور ننگی اسم سے گریز کریں۔ چونکہ خود اعلان اور لاگ مختلف ہوتے ہیں، "شمولیت بڑھی" کو اُسی جملے میں اپنی عملی تعریف درکار ہے۔
 - جذبے سے کامیابی کا استنتاج نہ نکالیں۔ کلسٹر بے ترتیب کا منقسم نتیجہ دونوں کو رپورٹ کرنے کا نمونہ ہے، بشمول غیر معنی خیز نتیجے کے۔
-
-## منسلک تصورات
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[pedagogical-partnerships]] — تدریسی شراکت داریاں
-- [[community-of-inquiry]] — کمیونٹی آف انکوائری (ایجنسی والی شمولیت بطور CoI جہت)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — آن لائن تدریس اور سیکھنا
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — چھتری: AI تعلیم میں لوگ اور سامعین (سیکھنے والے، اساتذہ، ڈیزائنرز، منتظمین، پالیسی ساز)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI فیڈبیک خواندگی اور ایجنسی والی شمولیت: تین موجوں والا بے ترتیب انٹرسیپٹ پینل (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — کٹے ہوئے مکالماتی رویے اور طلبہ-AI مکالموں میں سیکھنا (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — آواز پر مبنی AI پہلے از کلاس مشق نے رضاکارانہ کلاس حصہ ~31% بڑھایا، مگر صرف دوسرے استعمال کے بعد (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI استعمال زیادہ کلاس غیر حاضری کے ساتھ چلا جبکہ خود اعتمادی نے اِس کی پیش گوئی نہ کی، ہم مرتبہ کا اثر غالب متعلقہ عامل (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — جب یونیورسٹیاں GAI کی وکالت کریں مگر عمل کم رہے: فنون کی تعلیم میں طلبہ کے اندازے اور تخلیقی عمل کی شمولیت
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — سر تک محدود EEG، آنکھوں کی ٹریکنگ اور EDA پانچ سطحی شمولیت درجہ بندیوں کی پیش گوئی کرتے ہیں، جبکہ سیکھنے والوں کی اپنی تعریفیں نقشہ بدل دیتی ہیں (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — حقیقی وقت میں طلبہ کی توجہ کے تخمینے کے لیے انصاف سے واقف ملٹی موڈل ٹرانسفارمر ماڈلنگ
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — اعلیٰ تعلیم میں AI: شمولیت کا منظم جائزہ + تدریسی طریقوں کا ثالثی کردار
-- [[genai-motivation-engagement-2026]] — جنریٹو AI کا طلبہ کے محرک اور شمولیت پر اثر
-- [[critical-engagement-code-completion]] — Tab لگانا یا نہ لگانا: AI کوڈ مکمل کرنے میں تنقیدی شمولیت کی پیمائش
-- [[icap-cognitive-engagement-llm-agents]] — تعاونی مکالمے میں علمی شمولیت کی پیمائش
-- [[genai-tutor-engagement-patterns]] — سب طلبہ یکساں شامل نہیں ہوتے: کثیر ادارتی نمونے
-- [[polished-artifacts-fragile-engagement-2026]] — چمکدار مصنوعات، نازک شمولیت
-- [[ai-availability-student-motivation]] — "اِتنی کوشش کیوں کریں؟": AI کی دستیابی محرک کو کیسے تشکیل دیتی ہے
-- [[genai-performance-vs-learning]] — کارکردگی کے فوائد کو سیکھنے سے الگ کرنا
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI کے ساتھ تنقیدی شمولیت کا سہارا
-- [[engagement-intensity-learner-modeling]] — شمولیت کی شدت بطور سیکھنے والے کی ماڈلنگ کا اشارہ
-- [[learning-engagement-assistant-lea]] — لرننگ انگیجمنٹ اسسٹنٹ
-- [[engagement-assessment-video]] — ویڈیو سیکھائی میں شمولیت کی جانچ
-- [[engagement-forecasting-its]] — اصولوں سے تجزیات تک: کوشش اور پیش رفت کی پیش گوئی
-- [[interactive-learning-dashboards-engagement]] — متعامل سیکھنے کے ڈیش بورڈز اور شمولیت
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — سیکھنے والوں کی خصوصیات × TTS مکالمے کی شکل کے تعاملات
-- [[wang-goal-setting-ai-engagement-2026]] — ہدف مقرر کرنے کا نظریہ: استاد کی معاونت، کامیابی کے اہداف اور AI معاون انگریزی سیکھائی میں شمولیت (758 چینی طلبہ)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI قابلیت اور جذبہ بطور چیٹ بوٹ شمولیت کے محرک (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — طلبہ-AI مکالموں میں شعبے سے منسلک Bloom سطح کی علمی شمولیت (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — ابتدائی سطح پر جہت کے لحاظ سے مخصوص شمولیتی فوائد (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — عمیق VR PBL اسٹوڈیو میں علمی اور رویے کی شمولیت بلند، جذباتی شمولیت ہموار (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — کلسٹر بے ترتیب ثانوی ریاضی کا تجربہ: حسبِ ضرورت چیٹ بوٹ کے ساتھ حالاتی دلچسپی بڑھی جبکہ امتحانی کارکردگی نہیں (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI خواندگی شمولیت کو براہِ راست اور نفسیاتی سرمایہ کے ذریعے چلاتی ہے، پیشہ ورانہ وابستگی سے مزید بڑھی (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ مساوی GRE سیکھنے کے فوائد دیتے ہیں
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — AI ٹیوٹر تک رسائی نے ریکارڈ شدہ پلیٹ فارم شرکت 0.90 SD کم کی جبکہ ہوم ورک جمع کرانا قائم رہا (Liu et al. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — خود اعلان شدہ اور مشاہدہ شدہ AI شمولیت پروفائل باہم مطابقت نہ رکھ سکے، اور صرف رویے نے کوئز اسکوروں کی پیروی کی (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI کے تحت چار متوقع شمولیت کی ترتیبیں، اور اوزار اُنہیں کیوں بڑھاتا ہے

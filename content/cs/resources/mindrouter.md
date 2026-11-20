@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -47,9 +48,3 @@ Výzkumné výpočetní skupiny a centrální IT s existující kapacitou GPU, c
 ## Poznámky a upozornění
 
 Zdarma a open source pod Apache-2.0, ale náklady se přesouvají, nemizí: hardware, elektřina a čas personálu na provoz clusteru. Software je na poměry infrastruktury mladý — tři přispěvatelé, jediná výchozí instituce a vydání číslovaná ve stovkách tagů — takže škola by ho měla pilotovat vedle stávající služby, ne jako jedinou cestu k modelu. Publikované hodnocení chování plánování a kvót při skutečné kampusové zátěži v repozitáři není; místem, kde hledat vlastní popis autorů, je článek z PEARC.
-
-## Související pojmy
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

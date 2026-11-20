@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -39,6 +40,3 @@ A gyűjtemény bevezetője a promptot olyan retorikai műfajként keretezi, amel
 ## Amit a használat előtt tudni kell
 
 A teljes könyv ingyenes PDF-ben és ePub-ban, az egyes fejezetek pedig külön, saját DOI-val jelennek meg. Kiadás: 2026. július, a WAC Clearinghouse WAC Repository sorozatában, 402 oldal, szerkesztői Anuj Gupta és Brian Gogan, a gyűjtemény DOI-ja 10.37514/TWR-B.2026.2999. A licenc Creative Commons BY-NC-ND 4.0, így az olvasók megtekinthetik, személyes példányt nyomtathatnak és linkelhetik a könyvet, de nem sokszorosíthatják más oldalon, és engedély nélkül nem adaptálhatják; egy kurzusnak, amely módosított promptszöveget akar, saját változatot kell írnia, nem újranyomtatnia ezeket. Minden fejezet promptját platformokon át tesztelték, a könyv azonban nem közöl kontrollált eredmény-összehasonlítást, így a promptokat szakértői tervezésként kezelje, nem validált beavatkozásként.
-
-## Kapcsolódó fogalmak
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

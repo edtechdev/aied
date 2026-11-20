@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -94,35 +96,3 @@ ai_assist:
 
 - صرّح بتصوّر التعلّم الذي يفترضه تقويمك، لأن المكسب المقيس خير تعليمي فقط نسبةً إلى تصوّر لما التعليم من أجله.
 - موّل العمل الفلسفي إلى جانب العمل التجريبي: فأسئلة ما يُحتسب إنجازًا للمتعلّم تضع معايير النجاح التي تستخدمها الدراسات التجريبية بعد ذلك.
-
-## المفاهيم المرتبطة
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقويم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب
-
-## المقالات المرتبطة
-
-- [[genai-chinese-higher-education-integrity-2026]] — الذكاء الاصطناعي التوليدي في التعليم العالي الصيني: النزاهة والمشاركة
-- [[ensemble-cognition-philosophy-ai-education]] — الإدراك التآزري: إطار فلسفي للإدراكية البشرية–الاصطناعية
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — التعايش البيداغوجي والمتعلّم ما بعد الإنساني
-- [[videla-embodied-ai-education-choreography]] — نقد متجسّد وما بعد إدراكي للذكاء الاصطناعي غير المتجسّد في التعليم
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — نموذج نمو-نقدي للإدراكية التأويلية في العلوم الإنسانية
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — الفاعلية المعرفية المشتركة كفلسفة للتعلّم مع الآلات
-- [[avraamidou-ai-colonization-science-education]] — فلسفة نسوية نقدية تستوضح استعمار الذكاء الاصطناعي للتعليم
-- [[generative-ai-mediational-agent-sociocultural-2026]] — الذكاء الاصطناعي التوليدي كوسيط فاعل
-- [[young-people-learning-generative-ai-rapid-review-2026]] — تأطير علوم التعلّم البيئي للذكاء الاصطناعي التوليدي
-- [[philosophy-experimentation-ai-chemistry-2026]] — فلسفة التجريب في الكيمياء مع الذكاء الاصطناعي
-- [[strydom-human-gai-paradigms-2026]] — تأطير ديناميات الإنسان-الذكاء الاصطناعي: سبع نماذج تفاعل مع الذكاء الاصطناعي التوليدي (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — فلسفة بديلة للذكاء الاصطناعي: الطاوية منهجًا للذكاء الاصطناعي في التعليم
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — مَن يفعل، مَن يعلم، مَن يجيب؟ تحليل خطابي معان بالمجموعات اللغوية للفاعلية والمسؤولية المعرفية والمساءلة في أبحاث الذكاء الاصطناعي التوليدي في التعليم العالي
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — قراءة الذكاء الاصطناعي الإنسان-المحور في التعليم بوصفه خطاب إنساني-مركزية له استخدامات تجارية (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — هل تستطيع الآلات أداء العمل الانفعالي؟ جدل 1950–1996، ولماذا لا يحسم التقليد الرعاية

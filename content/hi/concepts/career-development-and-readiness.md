@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -73,37 +75,3 @@ ai_assist:
 - **"AI की चिंता एक सामान्य प्रवृत्ति है जिसे आश्वासन से दूर किया जा सकता है।"** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] SEM के माध्यम से पुष्टि करते हैं कि AI की चिंता **करियर अनुकूलन-क्षमता के क्षरण से होकर करियर निर्णयों को बाधित करती है (कुल प्रभाव का 63.35%)**। क्रियाविधि विशिष्ट है: चिंता अनुकूलन की क्षमता हटाकर काम करती है, इसलिए भावनाओं को लक्षित आश्वासन उस मध्यस्थ को चूक जाता है जो प्रभाव ढोता है।
 - **"करियर अनुकूलन-क्षमता तकनीकी योग्यता के मुकाबले गौण कोमल कौशल है।"** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] दिखाते हैं कि करियर अनुकूलन-क्षमता **AI की चिंता घटाती है**, जिससे वह परवर्ती परिणाम नहीं बल्कि पूर्ववर्ती हस्तक्षेप बनती है। अनुकूलनशीलता बनाना क्रियाविधि को संबोधित करता है; उसे सुविधा मानना मध्यस्थ को अक्षुण्ण छोड़ देता है।
 - **"AI के बारे में चिंता समान रूप से वितरित है।"** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] पाते हैं कि AI की चिंता और AI के प्रति नकारात्मक दृष्टिकोण **1,057 छात्रों** में स्नातक-पश्चात नौकरी-खोज की चिंता का पूर्वानुमान करते हैं, और **महिलाओं तथा सामाजिक-विज्ञान के छात्रों** के लिए स्वरूप भिन्न हैं। एकसमान हस्तक्षेप सहायता का गलत आवंटन करता है।
-
-## संबंधित अवधारणाएँ
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — पूर्णता के बाद के परिणाम: दृढ़ता, प्रतिधारण और स्नातकता
-
-## संबंधित लेख
-
-- [[boyd-swan-employer-responses-genai-2026]] — लगभग 1,750 अमेरिकी नियुक्ति पेशेवरों के सर्वेक्षण-प्रयोग में विकल्प-फ़्रेमिंग ने साक्षात्कार और वेतन-वार्ता की तत्परता घटाई, उच्च-GPA आवेदकों में सबसे अधिक (Boyd-Swan & Reynolds 2026)
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — आठ फोकस समूह: उपयोगकर्ता दक्षता और परिष्कार को श्रेय देते हैं, गैर-उपयोगकर्ता मौलिकता और टीमवर्क को (सहायित स्वायत्तता बनाम धीमी रचनात्मकता)
-- [[kong-ai-employability-cognitive-engagement-2026]] — एक कथात्मक समीक्षा का रचना-नक्शा: AI-समर्थित अधिगम से रोज़गार-योग्यता तक
-
-- [[ai-free-gates-engineering-students-india-2026]] — AI-मुक्त प्रवेश द्वारों से AI-प्रथम कार्य तक: भारत में अभियांत्रिकी छात्र AI दिशानिर्देशों के बिना विश्वविद्यालय शिक्षा और परिसर प्लेसमेंट कैसे पार करते हैं
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM प्रमाण कि एआई साक्षरता करियर अनुकूलनशीलता के माध्यम से पहचानी गई रोज़गार-योग्यता तक पहुँचती है, जिसमें ग्रोथ माइंडसेट कुछ नहीं जोड़ती (हेंद्रावन और लेस्तारी 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — मूल्यांकन और श्रम-क्षमता के व्यापार-विनिमय कार्य-दर-कार्य तय किए गए (मैककॉर्कल 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — करियर अनुकूलन-क्षमताएँ एआई चिंता को कम करती हैं
-- [[ai-literacy-career-adaptability-business-2026]] — व्यवसाय शिक्षा में एआई साक्षरता और करियर अनुकूलनशीलता
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — महाविद्यालय स्नातकों के लिए एआई कौशल: प्रशिक्षक और नियोक्ता की प्राथमिकताएँ
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — स्मार्ट विनिर्माण के लिए श्रम बाज़ार तैयारी
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — एआई और इंजीनियरिंग/कंप्यूटिंग श्रम बाज़ार का भविष्य
-- [[post-covid-ict-career-aspirations]] — कोविड-19 के बाद ICT करियर आकांक्षाएँ
-- [[kim-ai-anxiety-comprehensive-analysis]] — एआई चिंता और प्रतिस्थापन का भय
-- [[duan-ai-anxiety-career-decisions-college-2026]] — एआई चिंता करियर अनुकूलनशीलता के माध्यम से करियर निर्णयों को बिगाड़ती है (63.35% मध्यस्थता)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — एआई चिंता और अभिवृत्तियाँ नौकरी खोजने की चिंता का पूर्वानुमान लगाती हैं (1,057 विद्यार्थी)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — एआई चिंता स्वास्थ्य विज्ञान में नौकरी-खोज चिंता का पूर्वानुमान लगाती है (r=0.233, 821 विद्यार्थी)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — चार एआई-अभिवृत्ति प्रोफ़ाइल: करियर क्राफ़्टिंग और रोज़गार-योग्यता ने संलग्नता को ट्रैक किया, चिंता को नहीं
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — संकाय के पूर्वानुमान रोज़गार के बारे में प्रमाण नहीं, भविष्यवाणी हैं

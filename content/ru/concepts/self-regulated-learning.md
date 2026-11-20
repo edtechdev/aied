@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -190,68 +192,3 @@ SRL — это процесс, посредством которого учащ�
 - **«Любое адаптивное проектирование поддерживает регуляцию одинаково».** **Рандомизированный полевой эксперимент 2x2 с 179 студентами за 22 дня** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] сравнил два принципа проектирования и обнаружил различие в механизме, поэтому «адаптивный» не является единым воздействием.
 - **«Тревожность подрывает регуляцию».** В исследовании со смешанными методами (**107 студентов**) более высокая [[anxiety-and-stress|тревожность в отношении ИИ]] была **положительно связана с проверкой и перепроверкой**. Тревожность работала как сигнал к проверке, то есть как регуляция, а не её отсутствие.
 - **Метакогнитивная SRL предсказывала учебно значимую нагрузку, а [[ai-feedback-quality|обратная связь ИИ]] нет.** В пятинедельном полевом исследовании с **234 студентами и 1 147 наблюдениями** метакогнитивная саморегуляция была существенным положительным предиктором **релевантной когнитивной нагрузки** (β = 0.363, p < 0.001 при анализе по намерению лечить; 0.346, p < 0.001 по фактическому использованию). Постороннюю нагрузку она значимо не предсказывала, тогда как сам доступ к диалоговой обратной связи ИИ не предсказывал ни того, ни другого. Только **устойчивая** работа с обратной связью различала студентов по релевантной нагрузке, а нерегулярное использование нет (β = −0.219, p = 0.116), что помещает действующий компонент в регуляцию обработки учащимся, а не в поставку обратной связи ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger и Liening, 2026]]).
-
-## Связанные концепции
-- [[learners]] — Учащиеся: зонтичная категория для концепций со стороны учащегося
-- [[metacognition]] — когнитивный мониторинг, на который опирается SRL
-- [[self-assessment]]
-- [[self-efficacy]] — убеждение фазы предвосхищения, определяющее усилие
-- [[scaffolding]] — градуированная поддержка, сохраняющая регулятивное требование
-- [[feedback]] — входные данные, вокруг которых регулируют учащиеся
-- [[feedback-literacy]] — способность действовать на основе обратной связи
-- [[help-seeking]] — стратегическое поведение SRL
-- [[motivation]] — взаимный партнёр саморегуляции
-- [[cognitive-offloading]] — риск, когда ИИ устраняет регулятивную работу
-- [[generative-ai]] — технология, которая может поддерживать или прерывать SRL
-- [[ai-literacy]] — регулятивная компетентность в использовании ИИ
-- [[self-directed-learning]] — более широкая конструкция автономии
-- [[agency]] — способность учащегося действовать намеренно, центральная для регуляции, интеграции и позиционирования
-- [[adaptive-learning]] — персонализация, которая может поддерживать регуляцию
-- [[formative-assessment]] — непрерывная обратная связь для регуляции
-- [[learning-by-teaching]] — стратегия, строящая саморегуляцию
-- [[intelligent-tutoring]] — системы, создающие опору для SRL
-- [[llm]] — базовая модель ИИ-инструментов
-- [[retrieval-spacing-interleaving]] — планирование, самотестирование и выбор стратегий обучения, которые делают учащиеся
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Связанные статьи
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Метаанализ саморегулируемого обучения с поддержкой ИИ: g = 0.76 по 34 исследованиям, с модерацией типа инструмента и педагогической роли (Zhang и др., 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Зависимость от генеративного ИИ и воспринимаемые результаты обучения: путь через регуляцию усилий (Li, Zhang & Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Точность по категориям сегментированной LLM SRL в телесно воплощённом классе (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Чего не показывает сданная работа: усложнение когнитивного оффлоадинга в математической работе студентов с LLM (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Чрезмерная атрибуция саморегуляции моделью по поверхностным признакам при картировании учебной программы (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — Аффордансы AIGC и саморегуляция учащихся
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Грамотность взаимодействия с ИИ: управление чат-ботом потребовало той самой SRL, которую он должен был поддерживать (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — Модель рефлексии 5P для эпохи GenAI (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Чувствительный к уровням когнитивный оффлоадинг при письме с помощью GenAI (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — Учебная агентность в различных масштабах: регуляция, интеграция, позиционирование
-- [[rented-self-decoupling-performance-becoming-2026]] — Арендованное «я»: аренда, отображённая на модели SRL Уинни, с десятью положениями и внутри-учащимися индексами
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI как контекстно-осведомлённый учебный партнёр во времени
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Как учащиеся регулируют обучение с помощью чат-бота genAI
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Опора или обходной путь? Двойная роль GenAI в SRL
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Опосредованный LLM поиск помощи в STEM: многослойный, инструментальный и верифицированный
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Обратная связь GenAI и SRL: воспринимаемый источник имеет значение
-- [[ai-anxiety-strategic-regulation-writing-2026]] — От тревожности из-за ИИ к стратегической регуляции
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Смешанные доказательства по метакогниции/саморегуляции с GenAI
-- [[agentic-ai-pedagogical-best-practice-2026]] — Агентный ИИ и напряжённость саморегуляции
-- [[decreasing-digital-distraction-college-online-learning-2026]] — SRL и более низкая цифровая отвлекаемость в онлайн-обучении (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Делаем результаты машинного обучения доступными для преподавателей в смешанных аудиториях
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: ориентированный на учащегося цикл идентификации задач, обоснования и послезадачной рефлексии
-- [[learning-analytics-genai-secondary-writing-2026]] — Использование учебной аналитики для поддержки письма учащихся средней школы с генеративным ИИ
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Валидированный инструмент для поддерживаемой ИИ саморегуляции в адаптивном обучении STEM, с метакогнитивной осведомлённостью как сильнейшим предиктором
-- [[iqbal-human-genai-support-essay-revision-2026]] — Условие поддержки, а не метакогнитивное суждение, определило выбор стратегии правки в эксперименте по правке эссе
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Лонгитюд: рефлексивное использование ИИ предсказывало критическое мышление, но не прирост знаний, без эффекта Мэтью
-- [[genai-literacy-srl-special-education-2026]] — Грамотность в области GenAI связана с поведением саморегулируемого обучения главным образом через учебную агентность
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — Тип поддержки переключает медиатор: самоэффективность в ИИ против саморегулируемого обучения
-- [[genai-learning-procrastination-planned-behavior-2026]] — Прокрастинация обучения с помощью GenAI: разрыв между намерением и поведением, который усиливает тревожность
-- [[genai-srl-l2-writing-scale-2026]] — Валидированная шестимерная шкала GenAI-SRL для письма на L2, с регуляцией окружения как отдельным измерением и 12-пунктовой короткой формой, оптимизированной муравьиным алгоритмом
-- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — Модель проектного гибридного обучения с использованием ИИ для повышения саморегулируемого обучения учащихся
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — ИИ-ассистент преподавателя в роли первого отвечающего вытеснил ответы сокурсников, а вместе с ними и ко-регуляцию, усиливавшую вклад саморегуляции в оценку (Davis et al. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Разнообразие предпосылок меняло то, как ложился метакогнитивный промпт: та же функция промптов, противоположная устойчивая оценка выхода ИИ (Wang и др., 2026)
-- [[gouroubera-genai-benin-2026]] — Прокрастинация росла вместе с использованием (β = 0.525) рядом с воспринимаемым приростом, отделяя отсрочку, вызванную ИИ, от отсрочки, связанной с ИИ (Gouroubera и др., 2026)

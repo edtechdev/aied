@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -73,26 +75,3 @@ Usability-Forschung teilt Methoden der Datenerhebung mit [[qualitative-research|
 **„Studierende, die ein Werkzeug aufgeben, hatten keine Motivation."** Aufgabe ist oft die korrekte Lesart der Nutzenden von Interaktionskosten, die das Design nie gemessen hat. Da ein Werkzeug, das niemand nutzt, keine Wirkung haben kann, ist die Abbruchrate selbst ein Bildungsoutcome.
 
 **„Usability-Testing ist dasselbe wie Lernen zu messen."** Sie beantworten unterschiedliche Fragen, und keines ersetzt das andere; der Fehlermodus besteht darin, eines von beiden als ausreichend für die Übernahme zu behandeln.
-
-## Verbundene Konzepte
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Verbundene Artikel
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Eine Usability-Studie zu einem LLM-gestützten erzählenden Humanoiden
-- [[rhaimi-productivemath-2025]] — ProductiveMath: Usability einer generativen KI-App
-- [[supplynet-visual-exploratory-learning]] — SupplyNet-Nutzungsstudie
-- [[anvil-ai-educational-animations]] — Usability KI-erzeugter Bildungsanimationen
-- [[code-anchor-multi-view-visualization]] — Lautes-Denken-Studie zu Multi-View-Code-Visualisierungen
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN-Rahmenwerk und Lautes-Denken-Evaluation
-- [[feedback-futures-genai]] — Wie Lernende KI-erzeugtes Feedback verarbeiten
-- [[llm-chatbots-cs-multiple-choice]] — LLM-Chatbots für Multiple-Choice-Fragen in der Informatik
-- [[conversational-ai-agents-umbrella-review-2026]] — Überblicksreview zu konversationellen KI-Agenten

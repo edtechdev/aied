@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -156,41 +158,3 @@ ai_assist:
 **"उपकरण के साथ उच्च अंक दर्शाते हैं कि उपकरण ने अधिक सिखाया।"** एक [[k-12|K-12]] गणित अध्ययन में सामान्य-प्रयोजन [[conversational-ai|चैटबॉट]] के साथ अभ्यास करने वाले विद्यार्थियों ने बेहतर अभ्यास अंक पाए और फिर सहायता-रहित मूल्यांकन पर **लगभग 17% बदतर** स्कोर किया। उपकरण की उपस्थिति में मापा गया अभ्यास प्रदर्शन फुलाया हुआ माप है; सहायता-रहित प्रदर्शन परिणाम है, और उनमें से केवल एक बढ़ रहा था।
 
 **"यदि प्रभाव वास्तविक है, तो कार्यान्वयन विवरण अधिक मायने नहीं रखते।"** वे ही प्रभाव हैं। एक संस्थान के एक पाठ्यक्रम के 30 विद्यार्थियों का अनुसरण करने वाले अध्ययन ने, उपकरण के उस संस्करण पर जिसे अब कोई उपयोग नहीं करता, ऐसे विन्यास के बारे में निष्कर्ष निकाला है जो अब अस्तित्व में नहीं है। उपचार विनिर्देश, संस्करण और परिवेश दावे का हिस्सा हैं, उसके चारों ओर का संदर्भ नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI-सहायक शैक्षणिक शोध
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## संबंधित लेख
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — एक समीक्षा अपने ही कॉर्पस में रिपोर्टिंग पूर्वाग्रह को मात्रात्मित कर सकती है
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14 AIED मेटा-विश्लेषणों का फ़ोरेंसिक ऑडिट
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — प्रकाशन-पूर्वाग्रह-समायोजित AI प्रभाव रिपोर्ट किए गए आकार का लगभग एक-तिहाई
-- [[weidlich-chatgpt-effect-search-cause-2025]] — शिक्षा में ChatGPT: कारण की तलाश में एक प्रभाव
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — कठोरता सीमा के रूप में उपयोग किए गए समावेश मानदंड, और मॉडल के साथ बदलती विषमता
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — जब स्वचालित स्कोरिंग विश्वसनीयता कार्य की मापन सीमा से मिलती है
-- [[verification-quality-reliance-calibration-genai-2026]] — सत्यापन और निर्भरता साहित्य क्या नहीं मापती
-- [[citation-errors-hallucinations-computing-education-2026]] — 2025–2026 में प्रकाशन तक पहुँचे गढ़े गए संदर्भ
-- [[stanford-evidence-base-ai-k12-2026]] — अभ्यास लाभ, परीक्षा हानि: K-12 गणित में सहायता-हटाने की समस्या
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — उपसमूह प्रभाव जिनके विश्वास अंतराल शून्य को पार करते हैं
-- [[chick-faculty-development-ethical-ai-2026]] — सक्षम करने वाली शर्तें: नीति संकेत, व्यक्तिगत सदस्यताएँ, कोई समय नहीं
-- [[ai-tutoring-quality-k12-methodologies-2026]] — अपने अंशांकन और प्रयोग गणना के साथ विक्रेता माप
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — मॉडल संस्करणों से जुड़े निष्कर्ष, और क्षेत्र की भागम-भाग
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — पहले से उपयोग में 16 छात्र-सामने AI उत्पादों के स्वतंत्र-प्रमाण गणना

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -163,64 +165,3 @@ Politische Entscheidungsträger können die Einführung mit einer vorab konzipie
 - **„Hochschulen haben echte KI-Politik.“** **Rechtsform ist seltener als Rechtssprache.** In einem **Scoping-Review von 160 Dokumenten** trugen **2,5% der Instrumente rechtliche Kraft, während 57,5% Leitlinien oder Toolkits waren**. Nahezu ein Viertel von hundert Dokumenten an KI-Steuerung ist unverbindliche Leitlinie.
 - **„Institutionelle Vorsicht spiegelt Evidenz.“** Vorsicht wird **auf Zeitdruck statt auf Evidenz** zurückgeführt: Die ABA-Umfrage von 2024 erhielt Antworten von nur etwa **15% der akkreditierten Schulen**, sodass der vorsichtige Konsens auf einer nicht repräsentativen Stichprobe ruht.
 - **„Politikabdeckung lässt sich aus einer repräsentativen Umfrage kartieren.“** KI-Politik und -Leitlinien wurden von **allen 48 CAHIIM-akkreditierten Programmen** in einem Bereich erhoben — eine vollständige Zensus-Erhebung einer Nische, die mehr über diese Nische aussagt als über Politik im Allgemeinen.
-
-## Verbundene Konzepte
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
-- [[biology-education]] — Biologiebildung und KI: Labor-Lehrende-Assistenten, KI-Kompetenz in Biologie, kritisches Denken, spezialisierte Werkzeuge
-- [[stakeholders]] — Überblicksseite: Menschen und Zielgruppen in der KI-Bildung (Lernende, Lehrkräfte, Designende, Administration, Politik)
-- [[student-support-and-success]] — der politische Kontext für den Einsatz institutioneller Unterstützung
-
-## Verbundene Artikel
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEs Vier-Länder-Review: 84 von 194 Staaten verankern MIL jenseits technischer Fähigkeiten in Curricula, und menschliche Faktoren entschieden die Ergebnisse in allen vier Systemen (Cerioli, 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO- und OECD-Texte teilen ein Governance-Vokabular und keine operationalen Definitionen; dreiundzwanzig Jurisdiktionen konvergieren ohne eine einzige
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die argumentiert, dass eine Partnerschaftsethik — nicht ein Täuschungsrahmen — institutionelle GenAI-Entscheidungen leiten sollte
-- [[generative-ai-governance-education-scoping-review-2026]] — Governance generativer KI im Bildungswesen: ein Scoping Review zu Prinzipien, Mechanismen und Risiken (Elmahjub et al. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Regeln auf Lehrveranstaltungsebene, die Studierende nicht miteinander in Einklang bringen können
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Befragung von US-Lehrkräften und Schulleitungen zu KI-Policy-Abdeckung, Handlungsspielraum und fünf Spielzügen für den Unterricht (Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Wenn Universitäten GAI befürworten, die Praxis aber hinterherhinkt: Einschätzungen von Studierenden und Engagement im kreativen Prozess in der Kunstpädagogik
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — KI-Richtlinien angehender Englischlehrkräfte für den Unterricht: was sie erlaubten, einschränkten und verboten (Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Framework für KI-gestützte Bewertung im Large-Scale-Schreibassessment
-- [[mccorkle-aligned-genai-course-policy-2025]] — Erlaubte und nicht erlaubte GenAI-Nutzungen Aufgabe für Aufgabe aus dem ableiten, was bewertet wird (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — Wie Lehrende KI in 31.000 Kurssyllabi regulieren (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — KI-Aufgabenverdrängung als Mechanismus der Noteninflation (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Globale Delphi-Studie zur Governance generativer KI in der Hochschulbildung
-- [[qian-governing-genai-higher-ed-policy-2026]] — Orientierungshilfen statt Policy: von Lehrenden festgelegte Syllabus-Regeln und ein Unterstützungsökosystem aus vier Einheiten an 50 innovativen US-Universitäten (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Fünf-Faktoren-Vergleich von GenAI-Policies an Law Schools in einem Sektor, der Policy ohne Evidenzbasis macht (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Transkription ist nicht Generation: überinklusive KI-Regeln, Formatkonversion und Nachteilsausgleich bei Behinderung (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Antizipatorische Governance für KI in der Hochschulbildung (Scoping Review)
-- [[institutional-ai-policy-health-informatics-2026]] — KI-Policy-Dokumente in allen 48 akkreditierten Masterstudiengängen der Gesundheitsinformatik: überwiegend Orientierungshilfen, zentriert auf akademische Integrität (Eldredge et al. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — Kognitive Stewardship für KI-vermittelte Leistungsbeurteilung (Policy-Audit an 30 Universitäten)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — Das Policy-Defizit in der Forschung zu KI × SEL
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI im Bildungswesen
-- [[perrotta-zero-shot-governance-2026]] — Zero-Shot-Governance: Allzweck-KI in der Policy (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Eingrenzung der Lernwirkungsansprüche von El Salvadors KI-Tutoring-Pilotprojekt (Restrepo Morales et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 US-Hochschullehrende: 87 % schreiben ihre eigenen Aufgabenregeln vor dem Hintergrund dünner institutioneller und fachbereichsbezogener Vorgaben (Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — Eine zweckbasierte Grenze zwischen Unterstützung und Substitution mit kalibrierter Offenlegung und Entscheidungsrubriken (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt Injection in KI-vermittelter Benotung: unentdeckt veränderte Noten und die Antwort auf Policy-Ebene (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 130 Governance-Indikatoren zur Authentifizierung von Leistungsbeurteilung und der externe Druck, den Reformen brauchen (Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — Policy-Ebene versus Aufgabendesign: wofür Studierende GenAI in drei Physik-Assessments nutzten (Quince & Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — Höhere Nutzung generativer KI auf Länderebene ging mit größeren PISA-Rückgängen 2022-2025 einher — eine Korrelation, die nach Kontrolle der Vorleistung verschwand (Guerra & Aslanov 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Englands EdTech Impact Testbed als antizipatorische Governance: Pilotprojekte, die promissorische Evidenz erzeugen (Williamson et al
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Beschaffung legt die Datenumgebung fest, noch bevor es um Pädagogik geht
-- [[chan-ai-policy-gap-2026]] — 56 Dokumente von 46 Förderern: eine Policy-Ebene der Forschungsförderer mit 12 förderungsspezifischen Instrumenten (Chan 2026)
-- [[jiang-faculty-development-japan-2027]] — Japans gesetzliches Mandat zur Lehrendenfortbildung: die Abdeckung stieg, während Workshops, Peer-Observation und Peer-Review stagnierten oder zurückgingen (Jiang, Wang & Taguchi 2026)
-- [[making-ai-work-for-students-ofs-2026]] — OfS und Advance HE (2026): 244 Mitarbeitende und 91 Studierende an 127 Institutionen zu Detektion, Assessment-Design, AI Literacy und Strategie

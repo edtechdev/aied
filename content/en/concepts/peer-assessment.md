@@ -10,6 +10,8 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 > **Peer assessment** — the practice in which students evaluate, grade, or give [[feedback|feedback]] on one another's work, through written peer review, peer grading, peer code review, or group and team assessment. In [[writing-education|writing]] [[pedagogy|pedagogy]] it is a long-standing best practice: students learn both from receiving criteria-based feedback and from providing it, and peer talk about shared work correlates with deeper learning, audience awareness, and social development. In the AI era it is being re-examined as an [[assessment|assessment design]] choice rather than a single activity — a human complement to [[ai-feedback-quality|AI-generated feedback]], a training ground for [[feedback-literacy|feedback literacy]], and a site where [[academic-integrity|academic integrity]] and [[agency|student agency]] are renegotiated.
@@ -62,7 +64,6 @@ The pattern generalizes to professional writing. [[gift-ai-pairr-business-writin
 
 The most rigorous test of how much design matters is a multisite cluster-randomized experiment. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] randomized 48 sections across 4 universities — 1,176 first-year undergraduates in [[biology-education|biology]], [[chemistry-education|chemistry]], and [[physics-education|physics]] — to four conditions for scientific argumentation: peer feedback only, direct GenAI feedback, reflective GenAI feedback (self-evaluation then AI critique), and a hybrid of self-evaluation → peer feedback → GenAI critique. Direct GenAI beat peer feedback on immediate argument quality but showed weaker [[transfer-of-learning|transfer]]; reflective and hybrid designs produced stronger feedback uptake and self-regulated learning; the hybrid showed the clearest advantage on conceptual learning; both outperformed direct GenAI on delayed AI-free transfer. GenAI's value, the authors conclude, depends less on access than on whether the environment preserves student agency and ownership during revision.
 
-
 Sequencing AI feedback before peer discussion, rather than after it, also raised outcomes: against peer feedback alone, 122 Chinese EFL students given AI-plus-peer integrated feedback reported higher affective, behavioral and cognitive engagement (partial η² = 0.29, 0.28, 0.32) and outperformed on all four IELTS writing dimensions, largest for task achievement (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 That pattern — an early advantage that does not hold — recurs when the comparison is teacher feedback against AI-assisted peer feedback rather than GenAI alone. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, and Luo (2026)]] ran an eight-week quasi-experiment with 61 Chinese L2 writers (244 graded texts) working from one five-dimension checklist, with one class receiving teacher written feedback and the other AI-assisted peer feedback. Teacher feedback produced far more comments — 316 items against 185 in the first task, concentrated on vocabulary and technical details — and the slightly larger immediate gain, but its improvement fell sharply by the second task while the AI-assisted peer class held steady and finished with the higher revision score. The AI-assisted peer comments were fewer but stayed anchored in content and structure, and their early lexical-diversity edge did not persist; neither mode moved syntactic complexity. The authors read the two as complementary [[scaffolding|scaffolds]] and propose an AI–Peer–Teacher hybrid, in which AI marks surface errors during drafting, peers negotiate content in revision, and the teacher targets what neither reached.
@@ -92,50 +93,3 @@ The open questions are about the strength of the evidence, not only about design
 - **"Peer review is a cheaper substitute for instructor feedback."** [[learning-by-teaching|Learning by teaching]] is the mechanism, and it shows up even among machines: peer-learning-like discourse among over **2.4 million AI agents** was mostly **assertion rather than inquiry**. Producing critique is a different act from receiving it.
 
 - **Reflective peer and self forms as the record behind a group grade.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] used one peer-reflective form per teammate plus one self-reflective form per student in a postgraduate Business Project Management unit, alongside a 30-minute meeting with each team in which members were asked whether their contribution was original. The forms were not graded as feedback exchange. They were the per-person evidence that let the instructor defend an individual mark inside a 40% team assessment. The framework's mark rise from 27/40 to 31/40 is confounded with a new lecturer and its integrity claim is unquantified, so the transferable part is the record-keeping structure, not the effect size.
-
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — PAIRR and combined peer-plus-AI feedback: the sequences and their comparative evidence
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Connected Articles
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Integrated AI-plus-peer feedback raised all three engagement dimensions and all four IELTS writing dimensions
-
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR in a business writing course: peer review, chatbot feedback, reflection (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. human peers for scaffolding self-regulated feedback and feedback literacy (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI as Trainer and Synthesizer in EFL peer feedback on speaking (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Multisite experiment comparing peer-only, direct, reflective, and hybrid GenAI feedback (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-scaffolded GenAI peer feedback in collaborative argumentation (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-mediated group assessment: cooperation, restraint, non-enactment (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Oral code review interviews as harm reduction for GenAI in CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Automated multimodal presentation coaching as a scalable alternative to peer feedback (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-generated discussion summaries broaden peer exposure in online forums (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and relational trust in students' GenAI disclosure (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — self/peer reflective forms as per-person evidence behind a group grade (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Role vocabulary from 654 students: tutor 28.6%, collaborator 23.1%, tool 9.9%, robot 7.7%
-

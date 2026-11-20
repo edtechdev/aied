@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -117,54 +119,3 @@ Verdrängung hat eine lehrkörperseitige Version, und sie ist es, was mehrere Sc
 - **„Evaluatorischer Fehler ist zufälliges Rauschen."** **Das Urteil von Bewertenden trägt eine eigene messbare Richtung**: Fünf Zulassungsverantwortliche, die **50 menschliche von 50 KI-Zulassungsaufsätzen** unterscheiden sollten, erreichten **AUC 0,70**, konnten die Quellen also nur schwach unterscheiden — und weil niemand die Einreichungen screenete, war **dieses ungestützte Urteil der gesamte Durchsetzungsmechanismus**, wobei jeder markierte Aufsatz eine um **1,5 Prozentpunkte geringere Zulassungswahrscheinlichkeit** trug. Ein schwaches Signal wurde zu einer realen Strafe.
 - **„Peer-Review und KI-Review sind Substitute."** Das PAIRR-Modell [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **kombiniert Peer-Review mit KI-Review**, um Kalibrierung zu strukturieren. Sie zu kombinieren ist das Design, was impliziert, dass keines allein es liefert.
 - **„Urteilsqualität ist eine Eigenschaft der urteilenden Person."** Der Zulassungsbefund verortet das Problem in der Anordnung — ein unvalidiertes Urteil, das folgenreich angewandt wird, ohne Screeningstufe —, nicht in der Fähigkeit der Individuen.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Der Bewertungsschritt, den Studierende an KI-Ausgabe innerhalb dieser Sequenzen vollziehen
-- [[ai-education]] — KI in der Bildung (Dachbegriff)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[elkington-human-centred-assessment-value-2026]] — Menschzentriertes Assessment, Assemblagen und generative Beschränkungen (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Warum Schreibprofessorinnen und -professoren das Auslagern der Benotung ablehnen: es ist die Weise, auf die sie ihre Lernenden kennenlernen
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus Peer-Feedback als Übungsplätze für verschiedene Dimensionen evaluativen Urteilsvermögens
-- [[ai-internal-feedback-evaluative-judgments]] — Wie KI-gestütztes internes Feedback evaluatives Urteilsvermögen entwickelt, und wo das Schlussfolgern dünn bleibt
-- [[genai-feedback-design-multisite-experiment]] — Hybrides Selbst-/Peer-/KI-Feedback bewahrt Handlungsfähigkeit und Urteil besser als direktes KI-Feedback
-- [[pairr-ai-peer-review-2025]] — Peer-und-KI-Review mit strukturierter Reflexion als Kalibrierung im Maßstab
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Wie Feedback-Kompetenz bestimmt, ob KI-Feedback lehrt oder substituiert
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Die Nachhaltigkeitslücke bei KI-Feedback
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Evaluatives Urteilsvermögen als einer der Designstränge, die detektionsgestützte Durchsetzung ersetzen
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Sichtbares Schlussfolgern und Urteil zu dem machen, was die Rubrik belohnt
-- [[learner-centered-feedback-ai]] — Evaluatives Urteil der Lehrenden mit KI-Feedbackwerkzeugen
-- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: Authentizität neu gestaltet statt überwacht
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Neu konzipierte Assessmentvalidität für das Zeitalter generativer KI
-- [[du-yuan-epistemic-dependence-2026]] — Anfechtbarkeit, Wiederherstellbarkeit und die Kriterien, die Vertrauen von Abhängigkeit trennen
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback-Kompetenz für KI-assistiertes Schreiben
-- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Perspektiven von Studierenden auf transparente KI-gestützte Schreibbewertung in der Hochschulbildung
-- [[sharma-judgment-visible-genai-assessment-2026]] — Urteil als der evaluative Kern von Integrität: annotierte Entscheidungsspuren, mündliche Verteidigung, Versionshistorie (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Gremien, die Beweise ohne kodifizierte Standards wägen: das eigene Urteilsproblem der Institution (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detektorungenauigkeit und Versagen bei hybridem Schreiben: menschliches Urteil als die empfohlene Ersatzlösung für das Verdikt (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Funktion, nicht Plattform: beurteilen, was ein Werkzeug getan hat, statt was es ist (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms und die Discernment Rate: die Begründungsspur hinter KI-gestützter Arbeit benoten (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Zulassungsaufsätze sind verbreitet, werden aber bestraft
-- [[authentic-assessments-generative-ai-pilot-2026]] — Entwurf authentischer Assessments mit generativer KI: eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — der Agency Check (glaubwürdig, relevant, akzeptabel, nuanciert), der jede KI-Interaktion strukturiert
-- [[judgment-centred-software-engineering-education-2026]] — Ein Post-Hype-Review und Framework für KI-gestützte Software-Engineering-Bildung
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Urteil trennte Qualität nur, wenn es an Überarbeitung gekoppelt war (Z = 2,80 und 2,50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Die Überarbeitungen der Lehrenden wurden zu wiederverwendbaren Validierungskriterien (Tang et al. 2026)
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning aus der Aufgabe entfernt, und das Urteil, das geliehen wird
-- [[yan-accountable-judgement-language-assessment-2026]] — Verantwortbares Urteil für Sprach- und Übersetzungsassessment, mit kultureller Mediation als bewerteter Dimension

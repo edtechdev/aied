@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -84,27 +86,3 @@ GenAI מערערת את ההנחה שמנדטים של נוכחות ניתנים
 **"הנוכחות מתפלגת באופן אחיד לאורך הקוהורט."** היא נפרדת *בתוך* התנאי ולא בין תנאים. בכמו-ניסוי עם **63 סטודנטים לתואר ראשון סיניים (33 עם צ'אטבוט GPT-4o mini, 30 בלי)** שהעירו קריאות משותפות לאורך חמש משימות שבועיות, הנוכחות התפצלו לפי הישגי הקבוצה: קבוצות בעלות-הישגים גבוהים יזמו **1407 בקשות משוב לאורך 2319 הערות (60.7%)** לעומת **737 לאורך 2167 (34.0%)** בקבוצות בעלות-הישגים נמוכים. גישה לאותו כלי שיחזרה פער קיים בהתנהגות החברתית שהמסגרת מודדת.
 
 **"הוספת צ'אטבוט לקורס מקוון מוסיפה נוכחות."** היא משנה את התמהיל. הערך של המסגרת תחת GenAI הוא בכך שהיא הופכת את התחלופה לגלויה: נוכחות שמסופקת על ידי מודל היא תצורה אחרת של אותו מבנה, ונתוני הקוהורט מראים שהתחלופה משתלמת באופן לא אחיד.
-
-## מושגים מחוברים
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## מאמרים מחוברים
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — סקירת היקף של 21 מחקרים: ראיות הנוכחות אינן אחידות, נוכחות הוראה היא הפחות נחקרת, ותצורת העיצוב ממיינת את התוצאות (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[llm-facilitation-timing-online-discussions]] — מנחים אנושיים מול מנחי LLM: מודלים מתערבים ביתר להיטות מאשר מומחים אנושיים (Tsirmpas et al. 2026)

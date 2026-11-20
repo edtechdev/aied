@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -65,32 +67,3 @@ ai_assist:
 - **«جودة الاسترجاع هي المشكلة كلها.»** الاسترجاع ضروري وغير كافٍ. فالإجابة المؤسَّسة سجّلت **9.05 من 10 مع فترة ثقة بوتستراب على الفرق لا تشمل الصفر**، وكانت **أكثر تأسيسًا في المادة التي رآها المجيب فعلًا (98% مقابل 81%)** — فالمكسب المقيس في الأمانة للدليل، والدليل نفسه يجب أن يكون صحيحًا لتكون لهذه الأمانة معنى.
 - **«الاسترجاع من صفحة واحدة يعمّم.»** تضاعفت الفجوتان **نحو ثلاثة أضعاف في الأسئلة التي تحتاج مادة من أكثر من صفحة** (درجات الأسئلة العابرة للصفحات 9.93 مقابل خط أساس أدنى). فالاستدلال عبر مستندات متعددة هو حيث تتدهور الأنظمة المؤسَّسة، وهو بالضبط حيث تطرح المقررات أصعب أسئلتها.
 - **«الاسترجاع يزيل الحاجة إلى التدقيق.»** تسترجع [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] من مواد معتمدة لوحدة واحدة لتخدم الطلاب الذين يترددون في سؤال شخص — وهو نطاق يمكن الدفاع عنه. فالمدوّنات الضيقة المعتمدة هي ما يجعل التأسيس ذا معنى؛ والوسم وحده لا يفعل.
-
-## المفاهيم المرتبطة
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — مظلّة: تقنيات وأساليب الذكاء الاصطناعي (النماذج، تدريب النماذج اللغوية الكبيرة، الروبوتات، RAG، الوكلاء)
-
-## المقالات المرتبطة
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — مساعد درس مؤسَّس على المنهج لم يتجاوز توفير الوقت الذي حققه روبوت محادثة عام
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: التوليد المعزَّز بالاسترجاع في تعليم علوم الحاسب النظرية — إطار تقييم شامل لتحليل الخوارزميات ونظرية التعقيد
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — تقليل الحواجز أمام الدعم الأكاديمي: تقييم نظام RAG خاص بمقرر لمعالجة فجوات طلب المساعدة في التعليم العالي
-- [[wiki-llm-indexing-ml-classes-2026]] — إمكانية تعلّم معزّز في مقررات تعلّم الآلة باستخدام فهرسة Wiki LLM
-- [[on-premises-rag-tutoring-business-education-2026]] — تدريس بـRAG متعدد المقررات داخل المؤسسة في تعليم الأعمال

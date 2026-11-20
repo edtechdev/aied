@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -111,52 +113,3 @@ Penggeseran memiliki versi di sisi guru, dan itulah yang membalikkan beberapa pr
 - **"Kesalahan evaluator adalah derau acak."** **Pertimbangan evaluator membawa arah yang terukur dengan sendirinya**: lima petugas penerimaan yang memisahkan **50 esai penerimaan manusia dari 50 esai AI** mencapai **AUC 0.70**, artinya mereka hanya lemah membedakan sumbernya — dan karena tidak ada yang menyaring kiriman itu, **pertimbangan tanpa bantuan tersebut adalah seluruh mekanisme penegakannya**, dengan setiap esai yang ditandai membawa probabilitas penerimaan **1.5 poin persentase lebih rendah**. Sinyal lemah menjadi penalti nyata.
 - **"Tinjauan sejawat dan tinjauan AI adalah substitusi."** Model PAIRR [[pairr-ai-peer-review-2025|(Sperber dan rekan, 2025)]] **menggabungkan tinjauan sejawat dengan tinjauan AI** untuk menstrukturkan kalibrasi. Menggabungkan keduanya adalah desainnya, yang menyiratkan tidak satu pun dari keduanya memasoknya sendiri.
 - **"Kualitas pertimbangan adalah sifat penilainya."** Temuan penerimaan menempatkan masalahnya pada tata letaknya — pertimbangan yang tidak tervalidasi diterapkan pada konsekuensi tanpa tahap penyaringan — bukan pada kemampuan individu.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Langkah penilaian yang dijalankan siswa atas keluaran AI di dalam urutan-urutan ini
-- [[ai-education]] — AI dalam pendidikan (payung)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Artikel terkait
-- [[elkington-human-centred-assessment-value-2026]] — Penilaian berpusat manusia, assemblage, dan kendala generatif (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Mengapa profesor menulis menolak menyerahkan penilaian: itulah cara mereka mengenal siswanya
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus umpan balik sejawat sebagai lahan latihan bagi dimensi pertimbangan evaluatif yang berbeda
-- [[ai-internal-feedback-evaluative-judgments]] — Bagaimana umpan balik internal berbantuan AI mengembangkan pertimbangan evaluatif, dan di mana penalaran tetap tipis
-- [[genai-feedback-design-multisite-experiment]] — Umpan balik hibrida diri/sejawat/AI mempertahankan agensi dan pertimbangan lebih baik daripada umpan balik AI langsung
-- [[pairr-ai-peer-review-2025]] — Tinjauan sejawat-dan-AI dengan refleksi terstruktur sebagai kalibrasi pada skala besar
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Bagaimana literasi umpan balik menentukan apakah umpan balik AI mengajar atau menggantikan
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Kesenjangan keberlanjutan dalam umpan balik AI
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Pertimbangan evaluatif sebagai salah satu untaian desain yang menggantikan penegakan yang dipimpin deteksi
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Menjadikan penalaran dan pertimbangan yang terlihat sebagai hal yang diimbalai rubrik
-- [[learner-centered-feedback-ai]] — Pertimbangan evaluatif guru dengan alat umpan balik AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui deteksi: keautentikan dirancang ulang alih-alih diawasi
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Mengonseptualkan ulang validitas penilaian untuk era AI generatif
-- [[du-yuan-epistemic-dependence-2026]] — Keterbantahan, keterpulihan, dan kriteria yang memisahkan kebergantungan dari ketergantungan
-- [[rethinking-ai-writing-feedback-literacy]] — Literasi umpan balik untuk menulis berbantuan AI
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang Seharusnya Menilai Karya Saya? Perspektif Mahasiswa tentang Penilaian Menulis Berbantuan AI yang Transparan di Pendidikan Tinggi
-- [[sharma-judgment-visible-genai-assessment-2026]] — Pertimbangan sebagai inti evaluatif integritas: jejak keputusan beranotasi, pembelaan lisan, riwayat versi (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Panel menimbang bukti tanpa standar terkodifikasi: masalah pertimbangan institusi itu sendiri (Munoz dan rekan 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Ketidakakuratan detektor dan kegagalan tulisan hibrida: pertimbangan manusia sebagai pengganti putusan yang direkomendasikan (Hadra dan rekan 2026)
-- [[wright-transcription-not-generation-2026]] — Fungsi, bukan platform: menilai apa yang dilakukan alat alih-alih apa alatnya (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms dan Discernment Rate: menilai jejak penalaran di balik kerja berbantuan AI (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Esai penerimaan yang ditulis AI tersebar luas tetapi dihukum
-- [[authentic-assessments-generative-ai-pilot-2026]] — Merancang Penilaian Autentik dengan AI Generatif: Studi Percontohan Assessment Authentifire di Pendidikan Tinggi
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Agency Check (kredibel, relevan, dapat diterima, bernuansa) yang menstrukturkan setiap interaksi AI
-- [[judgment-centred-software-engineering-education-2026]] — Tinjauan Pasca-Hype dan Kerangka untuk Pendidikan Rekayasa Perangkat Lunak yang Diperkuat AI
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Pertimbangan hanya memisahkan kualitas ketika terhubung ke revisi (Z = 2.80 dan 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Revisi instruktur menjadi kriteria validasi yang dapat dipakai ulang (Tang dan rekan 2026)
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning dihilangkan dari tugas, dan pertimbangan yang dipinjam

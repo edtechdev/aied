@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -71,40 +73,3 @@ ai_assist:
 **"موجودہ تحقیقی سبق میں AI شامل کرنا نقصان نہیں دے سکتا۔"** دے سکتا ہے، اور فائدہ دکھانے والا موازنہ اِس سے زیادہ تنگ ہے جتنا لگتا ہے۔ [[context-based-ai-secondary-chemistry-2026|Abdikayumova اور Madybekova]] نے جماعت 10 کی کیمسٹری کے لیے **7E تدریسی ماڈل** کو PhET نقالیوں *اور* ChatGPT ٹیوٹرنگ کے ساتھ ملایا اور محض تحقیقی یا روایتی تدریس سے نمایاں طور پر زیادہ کامیابی اور شمولیت پائی۔ مداخلت وہ منظم امتزاج ہے — ایک تدریسی ماڈل، نقالیاں اور ٹیوٹرنگ — نہ کہ چیٹ بوٹ تنہا، اور غیر منظم تحقیق میں شامل کیا گیا چیٹ بوٹ اُس نتیجے سے جانچا ہی نہیں گیا۔
 
 **"کیمسٹری ایسا مضمون ہے جہاں جواب جانچا جا سکتا ہے، چنانچہ AI کی غلطیاں بے ضرر ہیں۔"** جانچے جانے والے جوابات ہی وہ راستہ ہیں جس سے غلط استدلال پکڑا نہیں جاتا: جس طالب علم کو برے استدلال والے ماڈل سے درست قدر ملے، اُس کے پاس اُس کمی کو پکڑنے کا کوئی ذریعہ نہیں، اور جانچ کامیابی درج کر لیتی ہے۔ مقداری ضابطے میں قابلِ تصدیق اختتامی نقطہ سمجھ کا سب سے کمزور دستیاب ثبوت ہے۔
-
-## منسلک تصورات
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب میں تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص ٹول
-
-## منسلک مضامین
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — سائنس/کیمسٹری تعلیم میں AI کا منظم جائزہ
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO کے AI رہنما خطوط کو کیمیائی تعلیم پر منتقل کرنا
-- [[context-based-ai-secondary-chemistry-2026]] — ثانوی کیمسٹری میں سیاق پر مبنی + AI (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — عملی کیمسٹری میں AI کی معاونت والا تجرباتی ڈیزائن
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT سے بڑھی تشکیلی جانچ میں مدرس اور AI کے کردار
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI کے ساتھ کیمسٹری میں تجربہ کرنے کا فلسفہ
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

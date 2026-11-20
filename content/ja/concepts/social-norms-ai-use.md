@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -105,39 +107,3 @@ AI 倫理に関する専門的な文献と、それが届くはずの教室の�
 **「監視は利用を見えるようにすることで規範を解決するだろう。」** 行動を見えるようにすることは、規範が何であるべきかを解決しません。それは人々が何を開示しようとするかを変えます。測定されているパターンはすでに選択的な開示であり、それに適用された監視体制は、行為ではなく隠蔽を測ることになります。
 
 **「規範は非公式であるから、機関の手の届かないところにある。」** それらは局所的に執行され、局所的に変えられます。それゆえ方針よりも扱いやすいのです。コースチームの明示的な実践がレバーになるのは、そこが実際に働く規則の定まる場所だからです。
-
-## 関連概念
-
-- [[academic-integrity]] — これらの規範が並んで成長する正式な規則書
-- [[ai-use-disclosure]] — 規範が最も直接に規制する実践
-- [[framing-ai-use-for-students]] — 教室が期待をどう述べるか
-- [[reducing-ai-misuse]] — 規範設定への教授上の対応
-- [[learner-identity]] — AI 利用が見えるようになるとき、学習者が何者と見なされるか
-- [[ai-detection]] — ほとんど失敗する技術的な対応
-- [[remote-proctoring]] — 規範の代用として試みられた監視
-- [[trust]] — 規範と開示の両方が依存するもの
-- [[equity-in-ai-education]] — 社会的な代償を吸収する人々
-- [[help-seeking]] — 恥が最初に抑圧する行為
-- [[group-work]] — 集団の規範が交渉される場所
-- [[student-experience]] — これらすべての生きられた側面
-- [[anxiety-and-stress]] — 情動的な残滓
-- [[governance]] — これらの規範がその下に位置する正式な層
-- [[ethics]] — 学生に言うことが最も少ない文献
-
-## 関連記事
-
-- [[student-perception-ai-use-collaboration]] — 相手の AI 利用に関する学生の知覚の正確さと、協働の成績との関係
-- [[shame-guilt-ai-regulation-computing-education]] — コンピューティング教育における AI 利用の社会的な調節者としての恥と罪悪感
-- [[chirikov-regulate-ai-syllabi-2026]] — 教員がどう大学で AI を規制するか：31,000 のコースシラバスからのエビデンス
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 罪悪感コンプレックス：学術的な技術導入における道徳的な情動と倫理的なジレンマ
-- [[agarwal-ethical-values-norms-aied-2026]] — 教育における人工知能のための倫理的価値と規範の同定
-- [[conijn-fear-big-brother-proctored-exams-2022]] — 大きな兄の恐怖：試験監督付き試験の潜在的な負の副作用
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 監視の下で：看護の評価における遠隔試験監督の実践の写像
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 不完全な情報の下での評価設計：生成AI、開示、そして学生の応答
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 検出不可能なものを検出すること：生成AIの後の不正行為の手続き
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — カンニングか競争か。マーケティング教育における AI
-- [[chen-zou-genai-group-assessment-agency-2026]] — 生成AIが支援する集団評価における行為主体性
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit の談話分析：教員—学生の接触は検出と執行の争いに集中する（Yüce ら 2026）
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 名の学部生：知覚された仲間の開示と教員の安心感が、道徳的離脱より先に開示を予測した（Qu & Wang 2026）
-

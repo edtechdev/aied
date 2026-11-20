@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -194,87 +196,3 @@ ai_assist:
 **«Οι εκπαιδευτικοί είναι ήδη συν-σχεδιαστές της ΤΝ, άρα η μετάβαση είναι σε εξέλιξη.»** Η φιλοδοξία είναι πραγματική· η περιγραφή δεν είναι ακόμη. Η συστηματική ανασκόπηση των [[wang-teacher-ai-co-design-review-2026|Wang, Liu και Islam (2026)]] για τον συν-σχεδιασμό μαθησιακών εργασιών από εκπαιδευτικό και ΤΝ βρίσκει ότι η στάση συν-σχεδιαστή **παραμένει άνιση**, με την κυρίαρχη μορφή να είναι ακόμη η ΤΝ ως βοηθός ή παραγωγός περιεχομένου. Το να διαβαστεί αυτή η ανασκόπηση ως μαρτυρία ολοκληρωμένης μετατόπισης θα έκρυβε το χάσμα ανάμεσα στους εκπαιδευτικούς που συνιστά μια σελίδα σαν αυτή και στους εκπαιδευτικούς που έχουν πραγματικά τα περισσότερα ιδρύματα.
 
 **«Το πώς αναθέτει ένας εκπαιδευτικός σε ένα chatbot ελάχιστα μετράει, αφού το μοντέλο κάνει τη δουλειά.»** Το μοτίβο ανάθεσης είναι η παρέμβαση. Στον σχεδιασμό μαθημάτων STEAM τεχνών για παιδιά, οι [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo και Tahir (2025)]] βρήκαν πειραματικά ότι η κάλυψη κενών περιεχομένου σε ένα μάθημα *σκιαγραφημένο από τον ίδιο* διατήρησε τη σχεδιαστική αυτονομία του εκπαιδευτικού ενώ παράλληλα ανέβασε την ποιότητα του σχεδίου όπως την αξιολόγησαν ειδικοί (διάμεσος 20,5 έναντι 17,6, p = 0,002, μεγάλο μέγεθος επίδρασης), υπερέχοντας της εναλλακτικής να παρέχει το μοντέλο τη σκιαγράφηση. Ίδιο μοντέλο, ίδια εργασία, διαφορετική κατανομή εργασίας, ουσιωδώς διαφορετικό αποτέλεσμα.
-
-## Συνδεδεμένες έννοιες
-
-- [[pedagogical-partnerships]] — Παιδαγωγικές συνεργασίες
-- [[learner-identity]] — εξελισσόμενες επιστημονικές, επαγγελματικές, δημιουργικές και ακαδημαϊκές ταυτότητες μαθητή
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — Ομπρέλα: παιδαγωγικές και διδακτικές στρατηγικές στην εκπαίδευση με ΤΝ
-- [[stakeholders]] — Ομπρέλα: άνθρωποι και κοινά στην εκπαίδευση με ΤΝ (μαθητές, εκπαιδευτικοί, σχεδιαστές, διοικητικοί, υπεύθυνοι χάραξης πολιτικής)
-- [[reflection]]
-
-## Συνδεδεμένα άρθρα
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Τέσσερις δυναμικές ταυτότητας, παραγωγική αμφιθυμία και το θεσμικό κόστος της σχεσιακής εργασίας
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 αγγλικά σχολεία δευτεροβάθμιας: η προετοιμασία μαθήματος έπεσε 25.3 λεπτά την εβδομάδα χωρίς ανιχνεύσιμη απώλεια ποιότητας (Roy και συν., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — Τυχαιοποιημένη δοκιμή στο ASSISTments: οι περιλήψεις ΤΝ αύξησαν την ολοκλήρωση εργασιών αλλά όχι τις βαθμολογίες σε επίπεδο τάξης (Lim και συν., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Έκτακτοι ακαδημαϊκοί σηκώνουν το έργο ακεραιότητας χωρίς την αρμοδιότητα
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Το παράδοξο του περισσότερο ανθρώπινου: σενάρια ειδικών για το 2030 βρίσκουν ότι ο κορεσμός της ΤΝ εντείνει αντί να εκτοπίζει το ανθρώπινο παιδαγωγικό έργο (Malyn-Smith και συν. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Έξι παρατηρούμενα μαθήματα μαθηματικών λυκείου επεκτείνουν την εργαλειακή ενορχήστρωση με τρεις νέους τύπους (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Απαντώντας σε ειδοποιήσεις συναισθήματος που παράγει η ΤΝ: παρέμβαση εκπαιδευτικών και εμπλοκή μαθητών στην τάξη μαθηματικών
-- [[edustories-classroom-case-studies-2026]] — Edustories: μια συλλογή μελετών περίπτωσης από πρακτικές πραγματικών τάξεων
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Οι εκπαιδευτικοί σχεδιάζουν chatbots τάξης ως περιορισμένους ειδικούς και διατηρούν την αυθεντία
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — Η γενετική ΤΝ ως «frenemy»: οι εκπαιδευτικοί προτιμούν ημι-αυτονομία, η χρησιμότητα οδηγεί την υιοθέτηση, η αποστροφή κινδύνου αφορά τη χρήση από τους φοιτητές (Dai και συν. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — Λήψη αποφάσεων διδάσκοντα με υποστήριξη ΤΝ στην τριτοβάθμια εκπαίδευση
-- [[chirikov-regulate-ai-syllabi-2026]] — Πώς ρυθμίζουν οι διδάσκοντες την ΤΝ σε 31.000 προγράμματα μαθημάτων· ρύθμιση σε επίπεδο εργασίας (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Η φιλοσοφική ηγεσία ως τριφασικός διδακτικός ρόλος: ηθική κρίση, παιδαγωγική καθοδήγηση, μετάφραση πολιτικής (Socorro Márquez και συν., 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Συμπεριφορά καινοτομίας στη διδασκαλία με ΤΝ σε πανεπιστημιακούς εκπαιδευτικούς (SEM AI-TPACK· Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Η γενετική ΤΝ ως κρίση ταυτότητας και όχι κενό δεξιοτήτων
-- [[lodge-loble-cognitive-offloading-2026]] — ΤΝ, γνωστική αποφόρτιση και συνέπειες για την εκπαίδευση (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — ΤΝ και πρακτική διδακτικού σχεδιασμού: μια συστηματική ανασκόπηση (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Μπορεί η ΤΝ να παρέχει κατάλληλη υποστήριξη σε διαφορετικά προφίλ φοιτητών; Μια αξιολόγηση μεγάλης κλίμακας
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Φανταστικοί μαθητές και αυτόνομη ΤΝ στην αξιολόγηση
-- [[wang-teacher-ai-co-design-review-2026]] — Συν-σχεδιασμός μαθησιακών εργασιών από εκπαιδευτικό και ΤΝ: τάσεις και προοπτικές (Wang και συν. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Εμπειρίες και αντιλήψεις πανεπιστημιακών εκπαιδευτικών για τη γενετική ΤΝ: ευπάθεια, επανεξέταση της αξιολόγησης, μάθηση φοιτητών σε κίνδυνο (Farazouli και συν. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Αξιακές κρίσεις στη βαθμολόγηση εργασίας με υποστήριξη γενετικής ΤΝ: εντιμότητα, εμπιστοσύνη, εγκυρότητα και αμφίδρομη διαφάνεια (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Κάνοντας τα ευρήματα μηχανικής μάθησης προσβάσιμα στους εκπαιδευτικούς σε μεικτές τάξεις
-- [[li-language-educators-genai-review-2026]] — Πρακτικές και ανάπτυξη εκπαιδευτικών γλωσσών με γενετική ΤΝ
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Εντάσεις ταυτότητας και έντεχνη επιλεκτικότητα στη διδασκαλία με ΤΝ (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Παρέμβαση εκπαιδευτικού σε διδασκαλία με ΤΝ στην προσχολική και σχολική εκπαίδευση: μια συστηματική ανασκόπηση
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Ακαδημαϊκοί σύμβουλοι ανάπτυξης ως ψηφιακοί διαμεσολαβητές: ανασυγκρότηση ρόλου, συναισθηματική εργασία και κρίση σε ιδρύματα της Νότιας Αφρικής
-- [[where-ai-enters-teacher-work-2026]] — Πού μπαίνει η τεχνητή νοημοσύνη στην εργασία του εκπαιδευτικού
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: ο εκπαιδευτικός ως μεσολαβητής ανάμεσα στους μαθητές και την ΤΝ, οιονεί πείραμα 19 τάξεων όπου η εκπαίδευση και η έμμεση μείωση προσπάθειας οδηγούν τα κέρδη (Rodrigues και συν. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Διδακτική διακυβέρνηση μέσω σχεδιασμού: ένα πλαίσιο για την ΤΝ στην εκπαίδευση πληροφορικής
-- [[teachers-configure-educational-chatbots-2026]] — Θα διδάξει όπως προβλέπεται; Πώς οι εκπαιδευτικοί διαμορφώνουν εκπαιδευτικά chatbots ΤΝ
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Διαμεσολάβηση εκπαιδευτικού στα μαθηματικά: πέντε πρακτικές κριτικής διαμεσολάβησης, μετατοπιζόμενη αυθεντία και το αλγοριθμικό χάσμα δωρεάν έναντι premium
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Ετοιμότητα εκπαιδευτικού μέσω σχεδιασμού: η ετοιμότητα ως σχεδιαστική ικανότητα και όχι ως υιοθέτηση ή αυτοπεποίθηση (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Ανατροφοδότηση εκπαιδευτικού με υποστήριξη ChatGPT: οι εκπαιδευτικοί επιμελούνται τα προσχέδια της ΤΝ αντί να τα αναμεταδίδουν
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Από την ικανότητα στη δράση: οι απόψεις των εκπαιδευτικών για τους σκοπούς της εκπαίδευσης στην ΤΝ
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Άνθρωποι έναντι συντονιστών συζήτησης με ΤΝ: ισοδύναμες αξιολογήσεις, διαφορετικές οδοί προς την επανάχρηση
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Γενετική ΤΝ στην εκπαίδευση προγραμματισμού: μια συστηματική ανασκόπηση όπου οι ρόλοι των διδασκόντων μελετώνται λιγότερο
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Από πάροχοι πληροφορίας σε σχεδιαστές μάθησης: ηευταγωγικές διδακτικές πρακτικές στην εκπαίδευση ενισχυμένη με ΤΝ
-- [[falhs-teacher-expertise-reflection-2025]] — Πώς τα επίπεδα εξειδίκευσης διαμορφώνουν προτιμήσεις και ανάγκες αναστοχασμού: προς συστήματα αναστοχασμού με ΤΝ για την ενδυνάμωση των εκπαιδευτικών (Falhs και συν. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Διαγνωστικό συνομιλιακής ΤΝ για διδακτικές παρανοήσεις με διάλογο θεμελιωμένο σε τεκμήρια (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Η χρήση ΤΝ δεν είχε άμεση επίδραση στην επίδοση των εκπαιδευτικών· η συμπεριφορά ιθαγένειας τη διαμεσολάβησε (Sherly και συν. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 επεισόδια που δείχνουν την αυθεντία να διατηρείται, να μοιράζεται ή να παραχωρείται στον σχεδιασμό μαθήματος με ΤΝ
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Αντιλήψεις φοιτητών για τους πίνακες συζήτησης: μελέτη του Μοντέλου Αποδοχής Τεχνολογίας για τον σχεδιασμό αναλυτικών μάθησης με ΤΝ
-- [[gnadlinger-educator-perspectives-its-design-2026]] — Προς την ενσωμάτωση των προοπτικών των εκπαιδευτικών στον μετα-συστημικό σχεδιασμό ευφυών συστημάτων διδασκαλίας
-- [[chen-future-faculty-development-ai-2027]] — Ο εκπαιδευτικός ως μαέστρος της εμπειρογνωμοσύνης άλλων, με ρόλους κατανεμημένους σε μια ομάδα διδασκαλίας
-- [[li-instructor-designed-ai-rct-2026]] — Η ΤΝ που σχεδιάζει ο διδάσκων βελτιώνει τη μάθηση σε τυχαιοποιημένη δοκιμή σε 19 πανεπιστήμια (Li και συν., 2026)

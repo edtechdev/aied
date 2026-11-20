@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -99,7 +101,6 @@ ai_assist:
 
 ويشدّد نقطتان أخريان المخاطر العملية. أولاً، الإشارة الإحصائية الكامنة تتقلص مع تحسين النماذج باتجاه النثر البشري، فسباق التسلح هو سباق لا تستطيع مؤسسة الفوز به. ثانياً، الحالة الحدّية التجريبية صارخة: ففي دراسة ميدانية سرّية، نجحت 94% من المخرجات المولّدة بالكامل بالذكاء الاصطناعي دون أن يُلاحظها أحد عبر نظام [[summative-assessment|امتحان]] حيّ عبر خمس وحدات في علم النفس، وتفوّق عمل الذكاء الاصطناعي في المتوسط على الطلاب الحقيقيين. ويضيف [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed وTemimi (2026)]] الالتياح المغاير الذي يحدد متى تكون المراقبة مجدية أصلاً: فلأن الحساسية ترفع الإيجابيات الكاذبة معها الموجبات الحقيقية، فإن الرادع العقلاني هو التمييز — الفجوة بين الإشارة إلى الاستخدام المخفي والإشارة إلى العمل المشروع. وحيث تُنشئ حساسية إضافية إيجابيات كاذبة جديدة أكثر من الموجبات الحقيقية الجديدة، تجعل المزيد من المراقبة الإخفاء أكثر جاذبيةً نسبياً، فتعاقب الطلاب الأمناء أسرع مما تُعرّف المستخدمين المخفيين. وأثر التصميم هو أن الكواشف والقواعد وإجراءات الإفصاح لا ينبغي أن تُبنى منفصلةً.
 
-
 والتكيّف في وقت الاختبار هو المثال المضاد الذي تغفله هذه الحجة. ففي مواجهة مطالبات أدوات التحويل إلى بشري المحسَّنة لتتفادى كل كاشف بدوره، انهار الكشف المُوجَّه بإشراف — فأمسك Pangram بـ27.0% من النص العدائي — بينما حافظت طريقة موجبة-غير موسومة تتكيّف على دفعات استدلال غير موسومة في وقت الاختبار على 93.3% ([[ren-test-time-adaptation-ai-text-detection-2026|Ren وRaghavan وGarg (2026)]]). وأنتجت تجربتهم في الانحراف البشري الإيجابيات الكاذبة التي تُحذر منها هذه الصفحة: فانخفض استدعاء كاشف ثابت على النص البشري من 85.9% إلى 73.4% عبر عقد محاكى.
 
 - **خمس أدوات، ومخطوطة واحدة، وإجابات غير متوافقة — والمؤسسات التي توقفت عن استخدامها.** قدّم [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] مخطوطة واحدة من تأليف بشري إلى خمسة كواشف تجارية في اليوم ذاته وتلقى تصنيفات تمتد من "0% بشري" (Winston AI) إلى "مولّد بشرياً" (التصنيف الفئوي لـGPTZero، المطبوع إلى جانب رقمه 42% ذكاءً اصطناعياً)، مع Copyleaks عند 80.4% ذكاءً اصطناعياً وOriginality.ai عند "81% على الأرجح ذكاءً اصطناعي" وأداة خامسة عند 34% ذكاءً اصطناعياً / 66% بشرياً — ثلاث مخرجات تميل للذكاء الاصطناعي واثنتان تميلان للبشري على نص متطابق، بلا أساس مُصدَّق لمعاملة تصويت الأغلبية عبر أنظمة احتكارية دليلاً على الأصل. وتوثّق الورقة ذاتها التراجع المؤسسي: فعطّلت Vanderbilt كاشف الذكاء الاصطناعي في Turnitin في أغسطس 2023، محسوبةً حساب معدل إيجابية كاذبة قدره 1% على نحو 75,000 ورقة؛ وأعلنت جامعة Curtin عن تعطيل مماثل في 2025؛ وأوقفت جامعة واترلو وظيفة كشف الذكاء الاصطناعي في Turnitin في سبتمبر 2025 بعد تدقيق داخلي صُنِّف فيه عمل مكتوب بشرياً على أنه مولّد 100% بالذكاء الاصطناعي؛ وعطّلت جامعة كيب تاون درجة الذكاء الاصطناعي من أكتوبر 2025؛ وتلتها جامعة الولاية الحرة في يوليو 2026؛ وأفادت جامعة ويتواترسراند أنها لم تتبنَّ مثل هذه الأدوات قط؛ وألغت محكمة في نيويورك نتيجة مخالفة سلوكية ارتكزت على درجة كاشف. وتُكمل نتائجان إجرائيتان الحالة: فاستخراج PDF شديد التلف أعاد تصنيفاً يبعد خمس نقاط مئوية عن نتيجة النص النظيف، ومخرج كاشف مؤرشف يُثبت ما أبلغته واجهة لكنه لا يستطيع إعادة إنشاء حالة النموذج الاحتكاري التي أنتجته.
@@ -108,7 +109,6 @@ ai_assist:
 - **مخرجات الكواشف هي أضعف دليل في الملف، وجودة الدليل لا تحسم القضايا.** بترميز 1,162 تهمة مخالفة سلوكية بالذكاء الاصطناعي التوليدي، حصلت مخرجات الكواشف على أقل تقديرات قوة إثباتية وانخفضت إلى 0.5% من العناصر بحلول 2025. ولم تُظهر جودة الدليل أي علاقة بالنتائج لأن السيرورة لم تضبط عتبة إثباتية ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
 - **يغيّر الطلاب أعمالهم للنجاة من الكشف، لا إجاباتهم فحسب.** يُوثّق التقرير تخدير الطلاب لإجاباتهم لتفادي اتهام كاذب، وعودة المدرّسين إلى الحكم غير الرسمي — مما يُسميه AI-DAR — بمجرد أن تُثبت الكواشف المسوّقة عدم موثوقيتها ([[tench-ai-policy-isnt-a-playbook-2026|Tench وWeinstein وJames, 2026]]).
 - **الكاشف مُطفأ، ولم يبقَ سوى الحدس.** فقد المُصحّحون بالساعات في مؤسسة ما كاشف الذكاء الاصطناعي لديهم لأنه أشار إلى أدوات تدقيق القواعد، فتُركوا يقرؤون بحثًا عن مراجع ملفَّقة (تسعة عشر من عشرين) وانفصالٍ عن مواد المقرر ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora وAndriamora, 2026]]).
-
 
 ## ما بعد الكشف: إعادة تصميم التقويم
 
@@ -140,53 +140,3 @@ ai_assist:
 **«السؤال الذي يجيب عنه الكاشف هو هل الكتابة بشرية أم آلية.»** تلك الثنائية سقيمة مفهومياً لا صعبة الحساب فحسب. فمساعدة الكتابة توجد على سلسلة متصلة، وسياسة معظم المؤسسات تسمح ببعضها، ولا عتبة على درجة مخرَج تُقابل حدًّا يمكن الدفاع عنه. والإخفاق المقيس إخفاقُ سياسة: فالفئات التي تعد بها الكواشف غير موجودة في العمل الذي يقدّمه الطلاب فعلاً.
 
 **«نظام الكشف يحمي النزاهة.»** بل قد يُقوّضها. فالكشف يُنشئ مناخ شك يُقوّض [[trust|الثقة]] بين الطلاب والهيئة، وأدبيات [[academic-integrity|النزاهة]] التي يوردها هذا المتن تضع الروافع المتينة في إعادة تصميم التقويم لا في المراقبة. كما أن آلية سباق التسلح تعني أن النظام يظل يكلّف أكثر بينما يقيس أقل: فمعدلات الإشارة في خط الأساس امتدت من **0.0% إلى 100.0%** عبر كثافات التحرير، وهذا ليس إشارة تمييز.
-
-## المفاهيم المرتبطة
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## المقالات المرتبطة
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 موقعًا لتحسين النصوص تُؤدّي المشروعية: الكشف والتهرّب سوق تجارية واحدة (Roe وآخرون 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — فرضية أن الإنفاذ يُرشّح بحسب رأس المال الأكاديمي لا بحسب السلوك
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — ثمانية نماذج لغوية كبيرة ترتّب ست تقنيات لمكافحة الغش؛ وكشف الذكاء الاصطناعي يأتي أخيراً
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — عشرون مصحّحاً بين الحدس والكواشف الميتة والمراجع الملفَّقة
-- [[tench-ai-policy-isnt-a-playbook-2026]] — مسح وطني ممثل للمدرّسين والمديرين في الولايات المتحدة حول تغطية سياسة الذكاء الاصطناعي والوكالة وخمس "مسرحيات" صفية (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — التقييم في عصر الذكاء الاصطناعي
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: كاشف استعادة المطالبة الكامنة
-- [[ivory-psychology-assessment-integrity-2026]] — الكشف هو الرافعة الخطأ: حدّ النجاح هو ما قرر تقييم عمل الذكاء الاصطناعي إنجازاً (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — تقييم نماذج اللغة الكبيرة في كشف المحتوى المولّد بها
-- [[beyond-detection-authentic-assessment-ai-2025]] — ما بعد الكشف: التقويم الأصيل
-- [[responsible-assessment-ai-era-stanford-2026]] — التقويم المسؤول في عصر الذكاء الاصطناعي
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — نزاهة التأليف المشترك وصلاحية التقويم
-- [[student-rationalization-ai-writing]] — تبرير الطلاب لكتابتهم بالذكاء الاصطناعي
-- [[socially-fluent-ai-identity-detection]] — كشف هوية الذكاء الاصطناعي ذي الطلاقة الاجتماعية
-- [[ssaho-ai-academic-integrity-review-2025]] — مراجعة موثوقية كشف الانتحال/المحتوى المولّد بالذكاء الاصطناعي
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — لماذا لا تصلح مخرجات الكواشف أساساً لنتيجة مخالفة سلوكية
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — التمييز لا معدل الإمساك، ومتى تنقلب المراقبة
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin وOriginality على 192 نصاً: كلاهما دون درجة F1 كلية 0.55 وغير فعّالين تقريباً على الكتابة الهجينة
-- [[van-vlasselaer-ai-detector-reliability-2026]] — أربعة كواشف مقابل 160 ورقة مضبوطة بحقيقة أرضية؛ أدّى Pangram وحده، وأشار مع ذلك إلى 45.5% من الرسائل المقدَّمة حياً
-- [[munoz-misconduct-allegation-evidence-2026]] — مخرجات الكواشف هي أضعف أنواع الأدلة تقييماً في 1,162 ملف قضية مخالفة سلوكية حقيقية
-- [[wright-transcription-not-generation-2026]] — قواعد "استخدام الذكاء الاصطناعي" الشاملة تخلط النسخ بالتوليد
-- [[sharma-judgment-visible-genai-assessment-2026]] — إحالة الكشف إلى طبقة تكميلية خلف الحكم المرئي
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — الكشف كإشارة مشروطة، ولماذا تُضيف استجابات الأمن تبايناً غير جوهري للبنى (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — مقالات القبول المكتوبة بالذكاء الاصطناعي واسعة الانتشار لكنها مُعاقَبة
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — تسع سمات إحصائية أسلوبية قابلة للتفسير: ROC-AUC 0.870 لكن أربعة من 18 مستنداً كُتب باستقلال أُشار إليها (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — مخطوطة بشرية واحدة، خمسة كواشف، تصنيفات من "0% بشري" إلى "مولّد بشرياً"، إلى جانب التراجع المؤسسي الموثّق عن الكشف (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: النزاهة الأكاديمية في عصر الذكاء الاصطناعي التوليدي
-- [[student-llm-code-detection-cs1-2026]] — تتقارب أكواد نماذج اللغة الكبيرة على الواجبات المقيدة بإحكام (1-14 صيغة AST لكل 1,000 ملف) لا على الحرة - وقابلية الكشف تتبع تصميم المهمة
-- [[kazakh-ai-text-detectors-2026]] — غير مُتحقَّق أم مُتَّهم زورًا؟ تقييم كواشف النصوص المولّدة بالذكاء الاصطناعي على الكازاخية

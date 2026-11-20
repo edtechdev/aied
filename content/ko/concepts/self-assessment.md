@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -106,35 +108,3 @@ AI는 이 기법에 관해 세 가지를 변화시킵니다. 그것은 문항과
 **"AI [[feedback|피드백 루프]]를 더하면 자기평가가 자동으로 개선된다."** 피드백 루프는 학생이 비교하는 대상을 바꾸며, 보정을 개선할 수도 있고 시스템의 판단에 고정시킬 수도 있습니다. 여기의 비교 연구(**1학년 학부생 118명, 생성형 AI 집단 56명과 동료 집단 62명**, 한 학기 세 주기)는 루프가 일하는지 사회적 비교가 일하는지를 검증하도록 설계되었으며, 그 답은 "루프이기 때문에 루프가 한다"가 아닙니다.
 
 **"자기평가는 시험의 부드러운 대안이다."** 그것은 다른 목표입니다. 자기평가는 자신의 작업을 판단하는 조절 기술을 기르고, 시험은 판단되는 역량을 측정합니다. 하나를 다른 하나로 대체하는 연구는 수행을 평가하는 능력과 수행 자체를 혼동합니다.
-
-## 연결된 개념
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-
-## 연결된 문서
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — 자기주도적 성장 프레임워크의 중심에 놓인 자기평가 (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 발달 단계별 AI 리터러시 자료, 수용과 타당성의 측정을 포함 (2026)
-- [[chatgpt-critical-creative-thinking-review]] — AI 피드백을 동료, 교수, 자기평가와 삼각 측정하기 (2026)
-- [[yasir-llm-tutoring-agents-2026]] — 피드백이 모형의 자기 평가된 추론 타당성에 의존해서는 안 되는 이유 (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 4학년부터 6학년을 위한 검증된 15문항 AI 리터러시 자기평가 질문지, 아동 자기보고의 초인지적 한계와 함께 (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사 AI 리터러시 도구 33개 중 31개가 자기보고, 2개가 지식을 객관적으로 검사, 수행 과업을 사용한 것은 없음 (Zainal, Mohd Matore & Maat 2026)

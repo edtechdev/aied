@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -89,34 +91,3 @@ ai_assist:
 
 - דווחו מדדי העדפה ומדדי תוצאה יחד, ואמרו במפורש כאשר למחקר יש רק את הראשון.
 - דווחו יישור זמני במפורש, בהינתן שחוסר יישור בין תוכן הווידאו ל[[cognitive-psychology|עיבוד הקוגניטיבי]] מופיע בנתונים הנוירוניים.
-
-## מושגים מחוברים
-
-- [[online-teaching-and-learning]] — וידאו כמדיה ליבה של הוראה מקוונת והיברידית
-- [[generative-ai]] — המנוע של וידאו המיוצר ומותאם-אישית על ידי בינה מלאכותית
-- [[personalized-learning]] — התאמה אישית כמניע המשיכה של וידאו בינה מלאכותית
-- [[adaptive-learning]] — יצירת וקצב וידאו אדפטיביים
-- [[multimodal]] — וידאו המשלב מודאליות חזותית, קולית וטקסטואלית
-- [[learning-analytics]] — אנליטיקה על מעורבות ותשומת לב בוידאו
-- [[student-engagement]] — המעורבות שהתאמת וידאו אישית שואפת להגביה
-- [[pedagogical-agent]] — אווטארים/מציגים של בינה מלאכותית כסוכנים פדגוגיים וירטואליים
-- [[llm]] — מודלים לשוניים גדולים העומדים בבסיס יצירת הסקריפט והווידאו
-- [[trust]] — אמון הלומד במציגים ובתוכן של בינה מלאכותית
-
-## מאמרים מחוברים
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: generating MOOC-quality industry-personalized lecture videos at scale (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
-- [[engagement-assessment-video]] — Engagement assessment in video learning
-- [[savvy-student-attention-video-learning]] — Student attention visualization for video-based learning
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companions for self-regulated learning
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
-- [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! הדרכה חזותית דינמית לשקופיות מסופרות ב-AI

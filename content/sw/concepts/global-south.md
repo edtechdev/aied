@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -61,9 +63,7 @@ Rekodi ya upanuzi ni sehemu ya picha hiyo, na ni ya kukasirisha. Programu zinazo
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi na van der Merwe (2026)]] wanadai kutoka darasa la Daraja 9 la Afrika Kusini kwamba [[educational-policy-ai|sera ya kitaasisi]] inayozuia kwanza hufunga milango ya hali ambazo AI inaweza kupanua badala ya kuchukua nafasi ya walimu chini ya uhaba wa kielimu, na kwamba data ya mwingiliano ambayo wajifunzaji huzalisha huhifadhiwa chini ya taratibu za utawala wa kigeni.
 
-
 Upatikanaji unaweza kufikia kikomo kabla ya uwezo kufanya hivyo: miongoni mwa wanafunzi 633 katika vyuo nane vya Benin, asilimia 92.3 walitumia AI ya kizalishaji kila wiki na mzigo wa kazi, si ufaafu unaohisiwa, ndio ulioongoza kupitishwa, hivyo mgawanyiko hauhusu tena hasa kufikia zana ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
-
 
 ## Dhana Potofu za Kawaida
 
@@ -72,37 +72,3 @@ Upatikanaji unaweza kufikia kikomo kabla ya uwezo kufanya hivyo: miongoni mwa wa
 - **"Aina ya utawala hutabiri ujumuishaji wa AI katika vyuo vikuu."** Uchanganuzi wa maudhui wa kulinganisha wa **vyuo vikuu 45 vya Nigeria** (shirikishi, vya serikali za majimbo na vya kibinafsi) uligundua ujumuishaji wa AI ukitabiriwa na **umri wa taasisi na eneo la kijiografia, si aina ya utawala**. Dhana kwamba taasisi za umma na za kibinafsi hutofautiana inapingwa.
 
 - **"Mgawanyiko wa kidijitali ndio kizuizi kikuu."** Utafiti wa kisa wa [[qualitative-research|kitabia]] wa **wanafunzi 21 wa shahada ya kwanza wenye ulemavu wa kuona katika vyuo vikuu vitatu vya Palestina** uligundua GenAI huziba vizuizi vya **kidijitali, kijiografia na kijamii-kichumi** kwa wakati mmoja. Vizuizi vimewekwa katika tabaka, na kuchukulia upatikanaji kama kizuizi kimoja huacha vingine bila kuguswa.
-
-## Dhana Zilizounganishwa
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Makala Zilizounganishwa
-- [[genai-assessment-african-higher-education-review-2026]] — Kufikiria upya tathmini katika enzi ya AI ya kizalishaji: Mapitio ya kimfumo ya fasihi ya elimu ya juu ya Afrika
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Miundo ya taasisi, ukosefu wa usawa wa kidijitali, na ujumuishaji wa AI katika elimu ya juu ya Nigeria
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Mfano mmoja wa kihisia-kiakili kwa elimu ya uhandisi (Bangladesh)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Kupanga Masomo kwa Vietnam
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Seti ya Data ya Mifumo ya Maarifa ya India
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Kigezo cha STEM cha Ghana
-- [[genai-minoritized-knowledges-disability]] — Kutengwa kwa maarifa yaliyotengwa kidogo
-- [[llm-cultural-relevance-k12]] — LLM kwa Mbinu za Kufundisha za K-12 Zinazofaa Kitamaduni
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Ujumuishaji wa GenAI katika elimu ya juu ya Bangladeshi kupitia ujenzi (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI ya Msaada kwa wanafunzi wenye ulemavu wa kuona
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Inayojua Kitamaduni Inayoendeshwa na AI kwa Kugundua Mvutano na Msaada wa Ustawi Miongoni mwa Wanafunzi wa Vyuo vya Pakistan kwa Kutumia NLP na Kujifunza kwa Mashine
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Kuzuia dai la kujifunza la jaribio la mafunzo ya AI la El Salvador (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Wataalam wa maendeleo ya kitaaluma kama waapatanishi wa kidijitali katika HDI za Afrika Kusini: ukosefu wa usawa wa kidijitali dhidi ya ukoloni wa algoriti
-- [[ai-ethical-awareness-ghana-students-2026]] — Ufahamu wa maadili ya akili bandia wa wanafunzi wa vyuo vya Ghana
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Kanuni za maadili za AI katika elimu: mantiki ya maadili ya muktadha ya walimu
-
-- [[gouroubera-genai-benin-2026]] — Wanafunzi 633 nchini Benin: matumizi ya kila wiki 92.3%, mzigo wa kazi ndio kichocheo kikuu, hivyo upatikanaji si kizuizi tena (Gouroubera et al. 2026)
-

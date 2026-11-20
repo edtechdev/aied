@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/learning-commons
 source_updated: "2026-11-05T02:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -49,12 +50,3 @@ Müfredat ve [[assessment|değerlendirme]] ürünlerine YZ özellikleri katan ge
 ## Notlar ve uyarılar
 
 [[open-source|kaynağın]] açık olması verileri açık yapmaz. Bilgi Grafiği ve Değerlendirici kodu MIT, Agent Skills Apache-2.0'dır; her veri kümesi kendi erişim etiketini taşır — Open, Open + Gated veya Gated — ve Gated içerik, deponun atıf yaptığı açık lisanslar kapsamında açıkça yer almaz, bu yüzden yeniden kullanım haklarını varsaymadan önce veri kümesi kataloğunu kontrol edin. Değerlendirici istem içeriği CC BY 4.0'dır, ama kullandığı etiketlenmiş CLEAR ve PERSUADE 2.0 korpusları CC BY-NC-SA 4.0'dır. Platform ve arkasındaki veri kümeleri bir hesap gerektirir.
-
-## Bağlı kavramlar
-
-- [[curriculum-design]] — grafik, üretilen içeriği standartlara ve müfredatlara hizalamak için vardır
-- [[open-source]] — MIT ve Apache-2.0 kodu, veri kümesi başına veri lisanslamasıyla
-- [[educational-nlp]] — değerlendiriciler, LLM çıktısı üzerinde bir metin ölçüm katmanıdır
-- [[agentic-ai]] — bir iş akışını modelin yürütmesi için paketleyen beceriler
-- [[edtech-platform]] — Curriculum Sync, müfredatları bir öğrenme yönetim sistemine yükler
-- [[llm]] — değerlendirmenin hedefi ve becerilerin tüketicisi

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -68,23 +70,3 @@ ai_assist:
 **"मास्टरी लर्निंग वह शिक्षाशास्त्र है जिसे AI अंततः संभव बनाता है।"** इसकी यांत्रिकी AI से काफी पहले की है, Bloom ने यह ढाँचा दशकों पहले औपचारिक रूप दिया, और AI इसे मूल्यांकन तथा गति-निर्णयों के स्वचालन से व्यवहार्य बनाता है, पहले असंभव डिज़ाइन को साकार करके नहीं। यह पुनर्रचना मायने रखती है क्योंकि स्वचालन नियम-चयन विरासत में लेता है, और निर्णय नियम में ही रहता है।
 
 **"मास्टरी के अंतर्गत अधिक बार मूल्यांकन थ्रेशोल्ड को अधिक विश्वसनीय बनाता है।"** आवृत्ति अनुमान को सुधारती है और गलत निर्दिष्ट नियम को ठीक नहीं करती। सहायता-प्राप्त कार्य शामिल घटनाओं से मास्टरी की अधिक बार पुनर्गणना उसी गलत उत्तर पर तेज़ी से अभिसरित होती है।
-
-## संबंधित अवधारणाएँ
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — मास्ट्री चक्रों के भीतर अभ्यास-इंजन के रूप में पुनर्प्राप्ति और विराम
-
-## संबंधित लेख
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली मास्ट्री अभ्यास को इससे पहले रोक सकती है कि शिक्षार्थी जान लें कि क्रिया को कब रोकना है (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — ज़िम्मेदार, व्याख्यात्मक शिक्षार्थी-मॉडलिंग के लिए गहरी सीख में मास्ट्री/अ-मास्ट्री नियम डालना
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — सहायता-सहित कार्य का श्रेय मास्ट्री को फुलाता है: कौन-सा साक्ष्य-नियम तय करता है कि किसे दक्ष घोषित किया जाए (Srivastava 2026)
-- [[simulating-learner-task-selection]] — मास्टरी लर्निंग में शिक्षार्थियों की कार्य-चयन रणनीतियों और प्रणाली-बाधाओं का सिमुलेशन करना (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — ज्ञान-ट्रैकिंग अगले सत्र के प्रदर्शन को अधिक आँकती है और विराम-प्रभाव चूक जाती है (शूत्ज़े, यान एंड कार्वाल्हो 2025)

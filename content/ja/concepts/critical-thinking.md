@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -106,59 +108,3 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 AIの利用が[[critical-thinking|批判的思考]]を助けるのか害するのかは、どのメカニズムが測定されるかによって決まります。31件の研究と16,357名の学習者を統合した2026年のメタ分析的な構造方程式モデルは、**逆向きにほぼ等しい大きさで走る2つの間接経路**を見出しました。AIの利用は依存を高め、それが批判的思考を下げ（β = −0.212）、また[[motivation|学習の動機づけ]]を高め、それが批判的思考を上げました（β = +0.217）。経路はほぼ正確に相殺され（間接効果の合計 β = 0.004）、小さな正の直接効果（β = 0.149）と40%の分散の説明が残りました。（[[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]]）
 
 この文献のゼロ次の相関は有意ではなく（r = 0.156、95% CI [−0.040, 0.353]）、それは研究が結果だけを測定するときに相殺がどのように見えるかを示しています。設計上の含意は、[[cognitive-offloading|オフローディング]]が道具の性質ではなく、課題の設定の仕方の性質だということです。端から端までの答えを差し控える道具と、評価を強制するメタ認知的チェックポイントが、バランスを動機づけの経路へと押しやります。
-
-## 関連する概念
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — 化学教育とAI:実験室、形成的評価、LLMの限界、実験の哲学
-- [[biology-education]] — 生物学教育とAI:実験のティーチングアシスタント、生物学におけるAIリテラシー、批判的思考、専門化されたツール
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## 関連する記事
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — 批判的思考は曝露ではなく、分業と出力の作り直しを通じて流れる
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30人の専門家による合意:批判的思考が報告書で最も高い混乱評価を受ける(平均4.00)
-- [[pearls-epistemic-verification-2026]] — 認識論的エージェンシーとAI出力の検証のためのPEARLS枠組み(Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援の執筆における層感受性の認知的オフローディング(Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — GenAI統合学習における批判的思考のパラドックス
-- [[pedagogy-ai-mistakes]] — AIの誤りの教授法:高次の思考を育てる(Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — 三系理論と認知的降伏:AIが人間の推論をどう変えるか(Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇:AIと専門性の再生
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAIと高次の思考のメタ分析
-- [[avraamidou-ai-colonization-science-education]] — 科学教育のAI植民地化を妨げる
-- [[li-mroziak-reorienting-critical-ai-literacy]] — 批判的AIリテラシーの再方向づけ
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM駆動環境におけるIBLパターン(ブルームの視点)
-- [[probing-ai-generated-physics-solutions-2026]] — 学生がAI生成の物理の解答を批評する準備をする
-- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る:コンピューティング教育における関心に合わせたGenAI類推の学生の批判的受容
-- [[daoism-ai-education-philosophy-2026]] — 別のAI哲学:教育におけるAIの方法としての道家
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体化された知性を通じた持続可能な学習の育成(E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — 複雑適応系としてモデル化されたAIへの過度の依存
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — AI支援のマルチモーダル執筆における次元別の批判的思考の伸び(Lu他 2027)
-- [[lftutor-logical-fallacy-education-2026]] — 構造化された多ターン対話を通じた誤謬認識の教授
-- [[caeai-ai-companions-learning-over-performance-2026]] — 学習を性能より重んじる:伴走的ツールが何を最適化し測定されるべきか
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — メタ認知的自己制御を通じたAIの足場かけ、オフローディング、検証リテラシー(Davor他 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAIの依存が経営学学生における利用と批判的思考の結びつきを縛る(Shojaei他 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 内省プロンプトが誤ったAI助言の受容と帰属バイアスを減らす(Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 批判的な人間–AI相互作用の構造としての役割の交代(Kenzhebayeva他 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 大学の化学教育における検証中心のGenAI統合(Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — 教師が選定したChatGPTフィードバックが高次の推敲を通じて批判的思考を高めた(Chen他 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 1学期のAIアクセスで批判的思考は横ばい。内省的な利用がそれを予測した(Melanou他 2026)
-
-- [[genai-dependence-research-creativity-2026]] — 大学院生1,157人においてGenAI依存が批判的思考と正に関連
-- [[genai-use-critical-thinking-moderation-2026]] — フィードバックリテラシーを介したGenAI利用から批判的思考へ。直接の経路は内省性の低い学生にのみ
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 媒介の証拠の悲観的な読み：摩擦の喪失、自動化バイアス、効率性の枠組み
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — 108件の文書のナラティブレビュー：効果の符号は事前知識と課題のタイミングを追う（AMCIF 枠組み）
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI依存と動機づけは批判的思考に等しく逆向きの効果を持ち、正味ではわずかな増加を残す（MASEM、31研究、学習者16,357名）
-

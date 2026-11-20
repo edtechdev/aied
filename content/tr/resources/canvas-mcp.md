@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -42,8 +43,3 @@ Bir dersin çevresindeki rutin okuma ve mesajlaşmayı bir ajanın üstlenmesini
 ## Notlar ve uyarılar
 
 Kurulum yereldir: Python 3.11 ya da daha yenisi, bir Canvas API tokenı ve URL'si ile bir MCP istemcisi gerekir; Claude Desktop için çift tıklanabilir bir eklenti de var. Genel barındırılan sunucu kullanımdan kaldırıldı, bu yüzden paylaşılan bir kurulum, kurumun kendi kimlik doğrulamasının arkasında kendi barındırmayı gerektirir. Yazma araçları kapılıdır — yazma araçları açıkça izin verilmedikçe HTTP sunucuları salt okunurdur, silme işlemleri onay tokenı gerektirir ve kod yürütme kapalı yönde başarısız olan bir korumalı alanda çalışır. Gizlilik kontrolleri isteğe bağlıdır: yanıt anonimleştirme, e-posta maskeleme ve PII filtreleme etkinleştirilmelidir ve README bunların FERPA yükümlülüklerini destekleyebileceğini ama uyumluluğu tesis etmediğini özenle belirtir; bu, kuruluma ve YZ sağlayıcısına bağlıdır. Sunucuda telemetri yoktur, ancak Canvas ve seçilen istemci kendi günlüklerini tutar. Proje MIT lisanslıdır, etkin olarak geliştirilmektedir ve güncel araç adları ile yapılandırma konusunda yetkili kaynak projenin kendi kılavuzlarıdır.
-
-## Bağlı kavramlar
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

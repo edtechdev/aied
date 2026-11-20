@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -92,25 +94,3 @@ ai_assist:
 **"עיצובים ביהביוריסטיים נחותים פשוט לעומת קונסטרוקטיביסטיים."** הם מתאימים היטב למטרות מסוימות — שוטחות, שליפה עובדתית, אוטומטיות פרוצדורלית — שבהן משוב מידי וחזרה הם באמת מה שהמשימה דורשת. הטעות אינה המכניקה; היא השימוש במכניקה שתנאי-התוקף שלה (הלומד חייב להפיק את התגובה) חדל מלהתקיים בשקט.
 
 **"מכיוון שהתיאוריה נשללה, מערכות הבנויות עליה יכולות להישפט לפי תוצאות בלבד."** תוצאות הן בדיוק מה ששקילות פלט משחיתה. מערכת יכולה לדווח תוצאות התנהגותיות מצוינות בעוד הלמידה עברה למקום אחר, ולכן מערכות מושפעות-ביהביוריזם זקוקות למדידה ללא-סיוע יותר מכל סוג אחר.
-
-## מושגים מקושרים
-
-- [[constructivist]]
-- [[cognitive-psychology]] — קוגניטיביזם, הקוטב הקלאסי השלישי של תיאוריית הלמידה
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## מאמרים מקושרים
-
-- [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
-- [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
-- [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
-- [[sequenced-ai-feedback-learning]] — משוב רמזים מסודר הניב תוצאות נמוכות ממשוב פתרון-מלא מיידי בניסוי אקראי עם 199 משתתפים

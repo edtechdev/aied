@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -125,72 +127,3 @@ A tervezés jobban moderálja a hatásokat, mint a technológia Zhang és munkat
 - **„A MI-alapú óravázlattervezés időt ad vissza a tanároknak.”** A tervezési idő valóban csökkent, heti 3,32 óráról 2,51-re az eszközzel, de **a medián tanár az órák csak 21-40%-át tervezte a nulláról**. Időt takarítottak meg, és a tervezés nem lett lényegesen alaposabb - a megtakarítás felhalmozódott, ahelyett hogy újrabefektették volna.
 - **„A MI-vel való társtervezés jól alátámasztott.”** A [[wang-teacher-ai-co-design-review-2026|tanár-MI együttműködésben történő tanulásifeladat-tervezés]] szisztematikus áttekintése **megerősíti a mintát nagy léptékben, 28 tanulmányon**, ami egy következetes gyakorlatot ír le, nem pedig felülmúló kimeneteket mutat be.
 - **„A rubrika rögzített bemenet.”** A rubrika **közvetítő felületként működik az emberi pedagógiai szándék és a gépi következtetés között**: az értékelési kritériumok **felülvizsgálhatóként** kezelése az, ami lehetővé teszi, hogy az eszköz hordozza az oktató szándékát. Egy rögzített rubrika a gép alapértelmezett keretezését viszi át az értékelésbe.
-
-## Kapcsolódó fogalmak
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - Pedagógiai partnerségek
-- [[online-teaching-and-learning]] - Online tanítás és tanulás
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - Gyűjtőfogalom: pedagógiák és tanítási stratégiák a MI-oktatásban
-- [[stakeholders]] - Gyűjtőfogalom: emberek és közönségek a MI-oktatásban (tanulók, tanárok, tervezők, adminisztrátorok, döntéshozók)
-
-## Kapcsolódó cikkek
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Mért tervezési időmegtakarítás, együtt azzal a megállapítással, hogy a tanárok az órák csak 21-40%-át tervezik a nulláról
-- [[powerful-learning-with-emerging-technology-2025]] — Hatékony tanulás feltörekvő technológiával
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Tanuláselemzés és generatív MI a tanulástervezési döntéshozatalban
-- [[tang-chatbots-learning-design-2026]] — Chatbotok használata a tanulástervezésben: a tervezők az eredményeknél és a pedagógiánál időznek, nem a tartalomgenerálásnál (Tang és mtsai. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tanár-MI interakciós minták az óravázlattervezésben tapasztalat és MI-jártasság szerint (Choi és mtsai. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — MI a felsőoktatásban: elköteleződés és a tanítási módszerek közvetítő szerepe
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonómia (határobjektum) a generatív MI tanulási tevékenységek osztályozására
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — MI-webágensek: autonóm webágens értékeli az óravázlatokat és előre jelzi a diáklemorzsolódást, mielőtt a diákok részt vennének (Wang, Mitchell és Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: keretrendszer a kognitívan aktivált MI-támogatáshoz a fizikában
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Tervezés elérésre: hét kar és a diák egyedül a MI-vel
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Amikor a nemet mondás jobb videókat hoz: kettős kapuőrzés a pedagógiailag megalapozott MI-tartalomkészítésben
-- [[rhaimi-productivemath-2025]] — ProductiveMath: MI a produktív kudarc feladattervezésének támogatására
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — MI és oktatástervezési gyakorlat: szisztematikus áttekintés (Kibar és Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Grafikonlapú intelligens tutorálás dinamikus tartományokra (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — A MI szándékos idegesítővé tétele: korlátozás a MI-támogatott írásban (Konradt, Boote és Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Okosterem-modell és D-T-E hurok a matematika M.Ed. oktatástervezési jártasságának javítására (Zhu és mtsai. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — MI-vezérelt platform matematikai modellezési feladatok generálására (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Tanár-MI együttműködés a tanulási feladatok tervezésében: irányzatok és perspektívák (Wang és mtsai. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — A szerepek architektúrája a MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Az LLM-ek mint az iteratív pedagógiai tervezés ágensei
-- [[zeivots-postdigital-co-design-genai-2025]] — A generatív MI mint megbízhatatlan munkatárs a közös tervezésben
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Háromszintű meta-analízis: a GenAI visszajelzésen és tanulóvezérelt tervezésen keresztül hat, nem egységes beavatkozásként (Zhang és mtsai. 2026)
-- [[williams-coding-curriculum-critique-2026]] — A tanterv kódolása: bírálat arról, hogyan hagyja magát az MI a tanulástervezésen
-- [[chng-ai-instructional-design-2023]] — Hogyan hagyja magát az MI a tanulástervezésen

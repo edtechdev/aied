@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -104,54 +106,3 @@ Kriittinen ajattelu leikkaa [[scaffolding|tukemisen]] (tekoälytuen suunnittelu,
 - **"Parempi kehote tuottaa parempaa kriittistä ajattelua."** **Jäsennelty dialogin ohjaus, ei parempi kehote**, erottaa harhaluulojen ohjaajan väittelychatbotista: jokaisen vuoron ohjaaminen **Toulmin-pohjaisen intentiotunnistuksen** läpi teki työn. Mekanismi on vuorovaikutuksen rakenne eikä sanamuoto.
 - **"GenAI:n käyttö nostaa kriittistä ajattelua suoraan."** GenAI:n käytön yhteys **itse raportoituun** kriittiseen ajatteluun kulki **lähes kokonaan GenAI-[[feedback-literacy|palautelukutaidon]] kautta** — **421 kiinalaisella perusopiskelijalla** palautelukutaito välitti **71 %** yhteydestä. Lukutaito on polku.
 - **"Meta-analyyttinen vaikutus on yhdenmukainen."** **29 kokeessa** GenAI nosti korkeamman asteen ajattelua kohtalaisesti (**g = 0,609**), kriittisen ajattelun ollessa **ES = 0,691**. Kohtalaiset yhdistetyt vaikutukset heterogeenisten interventioiden yli tukevat kategoriaa eivätkä tiettyä suunnittelua.
-
-## Liittyvät konseptit
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Kemian opetus ja tekoäly: laboratoriot, formatiivinen arviointi, LLM:ien rajat, kokeellisuuden filosofia
-- [[biology-education]] — Biologian opetus ja tekoäly: laboratorio-opetusavustajat, tekoälylukutaito biologiassa, kriittinen ajattelu, erikoistyökalut
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Liittyvät artikkelit
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kriittinen ajattelu kulkee työnjaon ja tuotoksen uudelleentyöstämisen kautta, ei altistuksen
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 asiantuntijan konsensus: kriittinen ajattelu saa raportin korkeimman häiriöluokituksen (keskiarvo 4,00)
-- [[pearls-epistemic-verification-2026]] — PEARLS-viitekehys episteemiselle toimijuudelle ja tekoälyn tuotoksen verifioinnille (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kerrosherkkä kognitiivinen siirtokuormitus GenAI-avusteisessa kirjoittamisessa (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Kriittisen ajattelun paradoksi GenAI-integroidussa oppimisessa
-- [[pedagogy-ai-mistakes]] — Tekoälyn virheiden pedagogiikka: korkeamman asteen ajattelun vaaliminen (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teoria ja kognitiivinen antautuminen: miten tekoäly muovaa ihmisen päättelyä (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitiivisen yhteisomaisuuden tragedia: tekoäly ja asiantuntijuuden uudistuminen
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI:n ja korkeamman asteen ajattelun meta-analyysi
-- [[avraamidou-ai-colonization-science-education]] — Tekoälyn kolonisoiman tiedekasvatuksen häirintä
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Kriittisen tekoälylukutaidon uudelleensuuntaaminen
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-kuviot LLM-vetoisissa ympäristöissä (Bloomin näkökulma)
-- [[probing-ai-generated-physics-solutions-2026]] — Opiskelijoiden valmentaminen arvostelemaan tekoälyn tuottamia fysiikan ratkaisuja
-- [[student-reception-genai-analogies-computing-2026]] — Puutteellinen mutta mieleenpainuva: opiskelijoiden kriittinen vastaanotto kiinnostuspohjaisesti personoiduille GenAI-analogioille tietojenkäsittelyn opetuksessa
-- [[daoism-ai-education-philosophy-2026]] — Vaihtoehtoinen tekoälyfilosofia: daoismi menetelmänä tekoälylle koulutuksessa
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Kestävän oppimisen edistäminen kehollisella älykkyydellä (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Tekoälyyn liiallinen nojautuminen monimutkaisena adaptiivisena järjestelmänä
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Ulottuvuuskohtaiset kriittisen ajattelun voitot tekoälyavusteisessa multimodaalisessa kirjoittamisessa (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — harhaluulojen tunnistamisen opettaminen jäsennellyn monivuoroisen dialogin kautta
-- [[caeai-ai-companions-learning-over-performance-2026]] — oppiminen suorituksen sijaan: mihin kumppanien tulisi optimoitua ja mitä mitata
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tekoälyn tukeminen, siirtokuormitus ja verifiointilukutaito metakognitiivisen itsesäätelyn kautta (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-riippuvuus rajaa käytön ja kriittisen ajattelun yhteyttä liiketalouden opiskelijoilla (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflektiokehote leikkaa virheellisen tekoälyneuvon hyväksymistä ja attribuutiovinoumaa (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Roolirotaatio rakenteena kriittiselle ihmisen ja tekoälyn vuorovaikutukselle (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verifiointikeskeinen GenAI-integraatio yliopiston kemian opetuksessa (Vega-Baudrit ja Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — opettajan kuratoima ChatGPT-palaute nosti kriittistä ajattelua korkeamman asteen revision kautta (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — lukukausi tekoälyn käyttöä jätti kriittisen ajattelun tasolle; reflektiivinen käyttö ennusti sitä (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — GenAI-riippuvuus positiivisesti yhteydessä kriittiseen ajatteluun 1 157 jatko-opiskelijalla
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI:n käytöstä kriittiseen ajatteluun palautelukutaidon kautta, suora polku vain vähemmän reflektiivisille opiskelijoille
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Moderaationäytön pessimistinen luenta: kitkan menetys, automaatioharha, tehokkuuskehys
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narratiivinen katsaus 108 dokumenttiin: vaikutuksen suunta seuraa aiempaa tietämystä ja tehtävän ajoitusta (AMCIF-viitekehys)

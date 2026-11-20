@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -101,69 +103,3 @@ Spolupráce člověka s AI se pojí s [[human-in-the-loop-ai]] (dohled), [[agent
 - **„Spolupráce znamená, že AI udělá část práce."** **Rozhodující roli si ponechává studující** a to se přenáší i do psaní: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash a Connell Pensky (2025)]] ukazují, že to platí, když je uspořádání pro tento účel navrženo. Dělba práce není spoluprací, dokud si člověk zachovává úsudek.
 - **„V převráceném uspořádání vysvětluje AI."** **Studenti, kteří učili AI, vysvětlovali lépe** — definice převrácené třídy na **M = 4,18 versus 3,29**, výukové aktivity na **M = 4,91 versus 3,06, obojí p < 0,001**. Učení přirostlo vysvětlujícímu.
 - **„Příspěvky člověka a AI jsou substituty."** Dvě studie z roku 2026 mapují **komplementární poloviny** třídní spolupráce, což rámuje designový problém jako alokaci, nikoli nahrazení.
-
-## Související koncepty
-- [[pedagogical-partnerships]] — Pedagogická partnerství
-- [[community-of-inquiry]] — Community of Inquiry (přítomnosti jako sociotechnické výkony člověka a GenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Chemické vzdělávání a AI: laboratoře, formativní hodnocení, limity LLM, filozofie experimentování
-- [[biology-education]] — Biologické vzdělávání a AI: laboratorní asistenti, gramotnost v AI v biologii, kritické myšlení, specializované nástroje
-- [[human-in-the-loop-ai]] — dohled
-- [[agentic-ai]] — autonomie
-- [[productive-failure]]
-
-## Související články
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tři role agentů v narativní vědecké hře a kritérium hodnocení, které každá potřebuje (Humburg et al. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Práce ve dvojicích s multiagentním systémem GenAI vyhrála designový projekt, zatímco povědomí o kritickém myšlení vzrostlo jen u těch, kdo pracovali sami (Chu et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Debata více agentů se zadrženou preferovanou odpovědí snížila podřízení se nesprávné radě AI, ale nikoli korektivně
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: kompetence ke spolupráci jako dynamická konfigurace domény, AI a metakognitivní kompetence s emergentní agenturností studujícího (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Středoškolští učitelé navrhují třídní chatbory jako ohraničené experty pod lidským dohledem
-- [[ai-integration-instructional-design-collaboratory-2026]] — Dvanáct implementací kurzů přípravy učitelů pojímá integraci AI jako problém návrhu výuky
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: první RCT škálování odbornosti od člověka k začínajícím tutorům
-- [[think-first-chatgpt-later-2026]] — Nejprve myslet, ChatGPT potom: nezávislá lidská kreativita
-- [[principal-trait-analysis-human-ai-skills-2026]] — Daty řízené „rysy" spolupráce člověka s AI
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Vzorce interakce učitel–AI při navrhování lekcí napříč zkušeností a zdatností v AI (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Designéři používají vestavěného chatbota ke kontrolám sladění výstupů a pedagogiky, nikoli ke generování obsahu
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Od substituce ke scaffoldu: přerušení sebezesilujícího cyklu újmy
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generativní AI jako zprostředkující agent
-- [[conversational-ai-agents-umbrella-review-2026]] — Zastřešující přehled konverzačních agentů AI ve vzdělávání
-- [[ai-overreliance-complex-adaptive-system-2026]] — Nadměrná závislost na AI modelovaná jako komplexní adaptivní systém
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — AI společník adaptující roli pro čtenářské besedy na základní škole; afektivní strop agentů s fixní rolí (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Spolunávrh učebních úloh učitelem a AI: trendy a perspektivy (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura rolí v diferencovaných skupinových aktivitách navržených AI (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI jako agent a kolaborativní prostor v dynamice malých skupin (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Hodnocení multiagentního systému velkých jazykových modelů orientovaného na scaffolding pro výcvik klinického rozhovoru
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti pro výcvik etiky: usnadňování skupinového etického vzdělávání hraním rolí a diskusí pro etickou reflexi a zkoumání
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automatizace, augmentace a spolupráce jako kontinuum zadávání úkolů
-- [[bounded-reliance-ai-writing-feedback-2026]] — Ohraničené spoléhání: perspektiva věrohodnosti zdroje na zapojení studentů EFL se zpětnou vazbou k psaní generovanou AI
-- [[human-ai-collaboration-academic-writing-2026]] — Pětidílný strukturovaný pracovní postup psaní EFL; rutiny ověřování a odpovědného používání řídily zisky v párovém psaní a digitálním kritickém myšlení
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Obrácení rolí: studenti učí GAI začátečníka a předčí vrstevníky, kteří kladou otázky GAI učiteli
-- [[iqbal-human-genai-support-essay-revision-2026]] — Typ podpory utvářel revizní strategie a skóre, ale žádná strategie nepředpovídala zisk; zisky GenAI mohou být specifické pro úkol
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Lidští a AI moderátoři debat hodnoceni ekvivalentně; užitečnost versus spokojenost řídí opakované použití různě
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Studie lekce buduje kapacitu vzdělavatelů učitelů navrhovat dialogické zapojení AI; prompt engineering jako pedagogické myšlení
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Pět typů provázanosti studenta a GenAI a proč ty, které rozdělují autorství, zůstávají marginální (Sun, Dohn a Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Protichůdné cesty spolupráce učitel–AI k pracovní angažovanosti přes psychologickou dostupnost a odcizení v práci, ohraničené digitální kompetencí
-- [[wang-agentic-translation-education-2026]] — Designový protokol přesměrovávající vzdělávání překladatelů k orchestraci AI, strategickému úsudku a kompetencím kritického hodnocení (zatím bez empirických dat)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Afektivní upozornění je podnět, který učitel interpretuje, nikoli instrukce k poslechu
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Deficit legitimizace autorství při spolutvorbě člověka a AI

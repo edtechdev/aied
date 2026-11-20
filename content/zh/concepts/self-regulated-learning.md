@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -209,73 +211,3 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - **元认知 SRL 能预测与学习相关的负荷，而[[ai-feedback-quality|人工智能反馈]]不能。**在一项为期五周、包含**234 名学生与 1,147 次观测**的现场研究中，元认知自我调节是**相关认知负荷**的显著正向预测因子（β = .363，p < .001，意向治疗分析；.346，p < .001，基于使用量），且未显著预测无关负荷，而单纯获得会话式人工智能反馈对两者都不预测。只有**持续**使用反馈才在相关负荷上区分学生，不规律使用则不能（β = −.219，p = .116），这把有效成分定位在学习者对加工的调节，而非反馈供给之中（[[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel、Geiger 与 Liening，2026]]）。
 
 把 LLM 配置为伙伴，首先是一个自我调节问题，其次才是工具选择问题。在 117 份关于 LLM 用于语言学习的公开叙述中，编排了多步交互的 24 份，其个性化程度远高于其余 93 份（70.8% 对 15.1%），报告的感知收益也更多（3.29 对 1.96）；然而 68.4% 的人在赞扬模型时没有指明任何可测量的改进，只有 10.3% 报告了这样的改进（[[lasekan-chatbot-language-learning-partner-2026|Lasekan 等（2026）]]）。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[metacognition]] — SRL 所依赖的认知监控
-- [[self-assessment]]
-- [[self-efficacy]] — 一种驱动努力的前思阶段信念
-- [[scaffolding]] — 保留调节要求的渐退式支持
-- [[feedback]] — 学习者围绕其进行调节的输入
-- [[feedback-literacy]] — 对反馈采取行动的能力
-- [[help-seeking]] — 一种策略性 SRL 行为
-- [[motivation]] — 自我调节的互惠伙伴
-- [[cognitive-offloading]] — 人工智能移除调节工作时的风险
-- [[generative-ai]] — 既能支撑也能短路 SRL 的技术
-- [[ai-literacy]] — 人工智能使用中的调节胜任力
-- [[self-directed-learning]] — 更宽的自主性构念
-- [[agency]] — 学习者带着意图行动的能力，是调节、整合与定位的核心
-- [[adaptive-learning]] — 可以支持调节的个性化
-- [[formative-assessment]] — 供调节之用的持续反馈
-- [[learning-by-teaching]] — 一种建构自我调节的策略
-- [[intelligent-tutoring]] — 为 SRL 搭支架的系统
-- [[llm]] — 人工智能工具的底层模型
-- [[retrieval-spacing-interleaving]] — 学习者所做的排程、自我测验与学习策略选择
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-
-## 关联文章
-- [[futterer-srl-genai-support-rct-2026]] — 371 名德国学生：反思与策略提示相较标准 ChatGPT 没有带来任何增益（Fütterer 等，2026）
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] —— AI 辅助自我调节学习的元分析：34 项研究中 g = 0.76，工具类型与教学角色调节该效应（Zhang 等 2026）
-- [[li-genai-dependency-effort-regulation-2026]] —— 生成式 AI 依赖与感知学习结果：努力调节路径（Li、Zhang 与 Yang 2026）
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 具身课堂中大语言模型切分 SRL 的逐类准确率（Fonteles 等 2026）
-- [[llm-math-homework-offloading-traces-2026]] — 提交物没有显示的东西：复杂化学生数学作业中的大语言模型认知卸载（Kontorovich 与 Wallach 2026）
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 课程映射中由表层线索导致的自我调节过度归因（Jayalath 等 2026）
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance 与学生自我调节
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 人工智能互动素养：驾驭一个聊天机器人，要求它本应支持的 SRL（Brunnström 与 Palmqvist，2026）
-- [[5p-reflection-model-genai-2026]] — 面向生成式人工智能时代的 5P 反思模型（Kadel 等，2026）
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成式人工智能辅助写作中的层次敏感型认知卸载（Chen，2026）
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — 跨尺度的学习者自主性：调节、整合、定位
-- [[rented-self-decoupling-performance-becoming-2026]] — 被租用的自我：租用映射到 Winne 的 SRL 模型，附十条命题与学习者内指标
-- [[song-genai-learning-partner-srl-over-time-2026]] — 生成式人工智能作为依情境而知的、随时间演进的学习伙伴
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — 学生如何用生成式人工智能聊天机器人调节学习
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — 支架还是捷径？生成式人工智能在 SRL 中的双重角色
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM 中的大语言模型中介求助：分层、工具性且经验证
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — 生成式人工智能反馈与 SRL：感知来源要紧
-- [[ai-anxiety-strategic-regulation-writing-2026]] — 从人工智能焦虑到策略性调节
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 生成式人工智能在元认知/自我调节上的混杂证据
-- [[agentic-ai-pedagogical-best-practice-2026]] — 能动性人工智能与自我调节的张力
-- [[decreasing-digital-distraction-college-online-learning-2026]] — 在线学习中的 SRL 与更低的数字分心（Shi 等，2026）
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 在混合课堂中把机器学习发现变得对教师可及
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：一个面向学习者的任务识别、论证与任务后反思环路
-- [[learning-analytics-genai-secondary-writing-2026]] — 用学习分析支持中学生以生成式人工智能进行写作
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — 一项用于自适应 STEM 学习的人工智能支持自我调节的验证工具，以元认知意识为最强预测因子
-- [[iqbal-human-genai-support-essay-revision-2026]] — 在一次论文修订实验中，支持条件而非元认知判断驱动了修订策略的选择
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 纵向：反思性人工智能使用预测批判性思维而非知识增益，且无马太效应
-- [[genai-literacy-srl-special-education-2026]] — 生成式人工智能素养主要经由学习自主性与自我调节学习行为相关
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — 支持类型翻转了中介：人工智能自我效能对自我调节学习
-- [[genai-learning-procrastination-planned-behavior-2026]] — 生成式人工智能辅助的学习拖延：一种被焦虑强化的意图–行为缺口
-- [[genai-srl-l2-writing-scale-2026]] — 一项经验证的六维度二语写作生成式人工智能–SRL 量表，环境调节作为其独立维度，并有 12 题的蚁群优化简版
-- [[borchers-srl-language-generalization-2025]] — 大语言模型把 SRL 预测泛化到新语言：域内可以，跨域不行（Borchers 等 2025）
-- [[ai-project-hybrid-learning-self-regulated-2026]] — 用人工智能强化学生自我调节学习的项目式混合学习模型
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — 人工智能助教作为首位回应者挤占了同伴回复，也随之挤占了放大自我调节成绩价值的共同调节（Davis 等 2026）
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] —— 先备概念多样性改变了元认知提示的落地方式：相同的提示功能，对 AI 产出的持续评价却相反（Wang 等 2026）
-- [[gouroubera-genai-benin-2026]] — 拖延随使用而上升（β = 0.525），与感知收益并存，把 AI 促成的延迟与仅仅关于 AI 的延迟区分开来（Gouroubera 等 2026）
-- [[lasekan-chatbot-language-learning-partner-2026]] — 编排式的 LLM 使用产生了更丰富的配置，却几乎没有学习的证据
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 自我报告的调节与一项认知灵活性的任务测量

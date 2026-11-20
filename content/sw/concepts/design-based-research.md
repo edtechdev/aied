@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -77,30 +79,3 @@ DBR ni mbinu ya alama ya [[learning-sciences|sayansi za kujifunza]] — uwanja w
 **"Kwa kuwa DBR huzalisha kitu kinachofanya kazi, imeonyesha ufanisi."** Ubuni unaofanya kazi katika tovuti iliouzalisha kwa pamoja umeonyesha uwezekano wa ndani, ambayo ni dai tofauti na ufanisi. Kitu hicho kinabeba marekebisho yaliyofanywa kwa muktadha huo, na kuki hamisha kunahamisha dharia ambazo hazikuwahi kutajwa kama dharia.
 
 **"Kuchukulia kifaa kama kitu cha ubuni kinachoweza kuboreshwa ni kupotoka kutoka DBR."** Ni tabia ya kurudia ya DBR ikitumika kwenye upimaji badala ya uingiliaji: utafiti mmoja katika korpusi hii ulichukulia rubriki yenyewe kama kitu cha ubuni, ukizunguka kupitia kuboresha kwa pamoja na [[llm|LLM]]. Nyongeza hiyo inafaa kutajwa kwa sababu inafanya maendeleo ya kifaa chenyewe kuwa sehemu ya ushahidi.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Makala Zilizounganishwa
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR kwa Mfano wa Kujifunza kwa Ushirikiano Unaosaidiwa na AI
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR kwa mafunzo ya ujuzi wa AI katika elimu ya walimu
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR kwa viwango vya muunganishaji wa teknolojia ya waelimishaji
-- [[human-centered-ai-teacher-educators-2026]] — AI Inayoelekezwa na Binadamu kwa waelimishaji wa walimu (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Masudio sita ya DBR yanayotekeleza AIDA katika Chuo Kikuu Huria
-- [[critical-thinking-genai-scaffolding]] — DBR kwa ngazi za msaada za ufikiri wa kukosoa za GenAI
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR kwa mtaala wa ujuzi wa AI uliounganishwa na sayansi (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): mtaala wa ujuzi wa AI unaozunguka kucheka kwa awali-K na chekechea (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM kama mawakala wa ubini wa mbinu za kufundisha za kurudia

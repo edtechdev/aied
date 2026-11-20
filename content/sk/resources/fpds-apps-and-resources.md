@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -48,7 +49,3 @@ Pre vyučujúcich a pracovníkov [[educational-development|vzdelávacieho rozvoj
 ## Poznámky a výhrady
 
 Na čítanie nie je potrebný účet a kurzy v Canvas aj kontrolné zoznamy, na ktoré odkazuje, sú verejné. Kouči na Playlab a Gemy a notebooky Gemini sú služby tretích strán, ktoré účet potrebujú. Karty sa vykresľujú z `apps.json`, takže celý zoznam vyžaduje JavaScript a záložná verzia bez skriptov uvádza osem z pätnástich; krátky odkaz `tinyurl.com/fpdapps` a QR kód v hlavičke ho otvoria na telefóne. Repozitár je softvér pod licenciou MIT, kým sprievodcovia, na ktoré odkazuje, majú vlastné licencie, vrátane knihy v Pressbooks pod nekomerčnou licenciou Creative Commons. Harmonogram publikovania neexistuje, takže stránka sa mení bez oznámenia.
-
-## Prepojené pojmy
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

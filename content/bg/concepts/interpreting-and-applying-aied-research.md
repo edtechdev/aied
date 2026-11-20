@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -156,41 +158,3 @@ ai_assist:
 **„По-високите оценки при използване на инструмента показват, че инструментът е научил повече.“** В едно проучване по математика в [[k-12|K-12]] студентите, упражняващи с [[conversational-ai|чатбот]] с общо предназначение, получават по-добри оценки за упражненията и след това се справят с **около 17% по-зле** на оценяване без подкрепа. Представянето в упражненията, измерено в присъствието на инструмента, е завишената мярка; резултатът без подкрепа е изходът и само един от двата се покачва.
 
 **„Ако ефектът е реален, подробностите на внедряването нямат голямо значение.“** Те са ефектът. Проучване, проследило 30 студенти в един курс в една институция, върху версия на инструмента, която никой вече не използва, е произвело откритие за конфигурация, която вече не съществува. Спецификацията на третирането, версията и средата са част от твърдението, а не контекст около него.
-
-## Свързани концепции
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Подпомагано от AI образователно изследване
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Свързани статии
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: щателен одит на 14 мета-анализа в AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — AI ефектите, коригирани за публикационно отклонение, са около една трета от докладвания размер
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Критериите за включване като праг за строгост и хетерогенност, която се променя с модела
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Когато надеждността на автоматизираното оценяване срещне тавана на измерване на задачата
-- [[verification-quality-reliance-calibration-genai-2026]] — Какво не измерва литературата за верификацията и зависимостта
-- [[citation-errors-hallucinations-computing-education-2026]] — Измислени референции, достигнали до печат през 2025–2026 г.
-- [[stanford-evidence-base-ai-k12-2026]] — Печалби в упражненията, загуби на изпита: проблемът с премахването на помощта в математиката в K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Ефекти за подгрупи, чиито доверителни интервали пресичат нулата
-- [[chick-faculty-development-ethical-ai-2026]] — Позволяващи условия: сигнали от политиката, лични абонаменти, липса на време
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Показатели на доставчик с разкрити калибриране и брой експерименти
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Открития, обвързани с версии на модели, и турбуленцията в областта
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Броят на независимите доказателства за 16 AI продукта за студенти, вече в употреба
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Един преглед може да измери изкривяването при докладването в собствения си корпус

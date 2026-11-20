@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -73,7 +75,6 @@ Pengajuan soal mengubah pembelajar menjadi pengarang soal: 76% dari 49 siswa fis
 
 **Video generatif sebagai data eksperimen sintetis.** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] menghasilkan skenario video dengan PixVerse, Grok Imagine, dan Pippit untuk tiga rezim gaya resistif — gesekan konstan, hambatan linier, dan hambatan kuadratik — mengekstraksi kinematika dengan alat [[open-source]] Tracker, dan mencocokkan model analitisnya dengan kuadrat terkecil nonlinier. Data sintetis itu sesuai dengan persamaan gerak klasik dan memulihkan parameter yang bermakna secara fisik, dan temuan praktis yang berulang adalah bahwa kekhususan prompt mengatur koherensi fisik: deskripsi yang lebih rinci menghasilkan dinamika yang lebih koheren. Alur kerja ini mencerminkan praktik eksperimental dari konstruksi model hingga validasi [[quantitative-research|kuantitatif]], dan membingkai ulang [[prompt-engineering|perumusan prompt]] sebagai tahap desain eksperimen alih-alih sekadar kemudahan. Yang belum ditunjukkannya adalah pembelajaran: validasi di sini adalah kesesuaian antara gerak yang dihasilkan dan model penulis, bukan pertimbangan pengukuran siswa, sehingga pendekatan ini mewarisi pertanyaan [[assessment-validity|validitas]] yang harus dijawab setiap data yang dihasilkan dan digunakan sebagai bukti.
 
-
 **Simulasi khusus untuk topik yang tidak dicakup PhET.** Model HTML/JavaScript yang dihasilkan LLM memungkinkan instruktur membuat simulasi yang dibutuhkan mata kuliah, bukan yang terdekat yang sudah diterbitkan, dengan tunduk pada validasi teknis dan fisik; dalam uji coba, 53 siswa dalam 26 pasangan membangun dan menyempurnakan model jatuh bebas mereka tanpa memerlukan latar belakang pemrograman ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 Sebuah prompt empat elemen yang dapat digunakan ulang — alat, tampilan, kontrol tangan, optimasi — memungkinkan guru tanpa kode menghasilkan simulasi AR berbasis peramban yang gerakan cubit-dan-bentangnya menggerakkan fisikanya; dalam uji coba dengan 29 siswa, gerakan itu membantu semua 29 orang "merasakan" panjang gelombang (rata-rata 4.52) dan 86% melaporkan keterlibatan yang lebih besar ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
@@ -110,59 +111,3 @@ Pendidikan fisika berada dalam domain [[stem-education]] yang lebih luas tetapi 
 - **"Siswa memercayai AI cukup untuk mengandalkannya tanpa kritis."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad dan Bentley]] menemukan **kesenjangan kepercayaan-kegunaan 50 poin**: **91% menggunakan AI untuk tugas kuliah tetapi hanya 41% memercayainya**. Penggunaan yang luas hidup berdampingan dengan kepercayaan yang rendah, sehingga intervensi yang bertujuan membangun antusiasme menangani variabel yang salah.
 - **"Siswa fisika adalah satu populasi."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] mengembangkan tipologi dua profil dari **1,189 respons survei**: **70% "Pengguna Pragmatis" dan 30% "Bukan-Pengguna Skeptis"**. Satu kebijakan kelas harus melayani dua kelompok dengan sikap yang berlawanan.
 - **"Kesenjangan antara penggunaan dan kepercayaan itu irasional."** Kedua angka mengukur hal yang berbeda — apakah alat itu membantu Anda menyelesaikan pekerjaan, dan apakah Anda percaya alat itu melakukannya dengan benar. Siswa membedakan kegunaan dari keandalan, yang merupakan pembedaan analitis yang tepat dan bukan kontradiksi.
-
-## Konsep terkait
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
-
-## Artikel terkait
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Penerimaan GenAI dimodelkan pada fisika Grade 10
-- [[genai-video-engineering-physics-workflow-2026]] — Dari Prompt ke Hukum Fisika: Alur Kerja AI Generatif untuk Pendidikan Fisika Teknik
-- [[wang-teacher-student-centered-agents-physics-2026]] — Agen fisika berpusat guru vs. berpusat siswa yang dirancang melalui prompt (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — Menggunakan AI untuk menghasilkan simulasi fisika / laboratorium virtual dengan cepat (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Kerangka untuk Augmentasi AI yang Teraktivasi secara Kognitif dalam Fisika
-- [[ai-grading-handwritten-physics-2026]] — Penilaian AI atas asesmen fisika tulisan tangan (Olimpiade)
-- [[ai-particle-physics-education-redesign-2026]] — AI dalam Pendidikan Fisika Partikel: Masalah Penelitian dan Keterampilan Fondasional
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: mengubah FCI, FMCE, dan EMCS menjadi diagnostik kognitif 14 tujuan (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skeptisisme vs. Kenyamanan: Persepsi dan Penggunaan Large Language Model oleh Siswa Fisika Sebelum dan Sesudah Pengajaran
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Penilaian Berbantuan AI atas Laporan Laboratorium Fisika Eksperimen: Potensi, Keterbatasan, dan Dukungan bagi Praktik Pengajaran
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 pasangan tanya-jawab fisika sekolah menengah Bengali yang dipetakan ke graf kurikulum 1,760 simpul, dengan keuntungan adaptasi model kecil
-- [[ai-university-physics-education-review-2026]] — Kecerdasan buatan dalam pendidikan fisika universitas: tinjauan sistematis studi empiris
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Pelatihan GenAI terstruktur untuk revisi soal fisika: uji acak terkendali (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Tutor yang dirancang baik mengalahkan pembelajaran aktif di kelas
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Prakonsepsi energi menentukan posisi negosiasi kueri AI dalam jaringan kelompok: simpul integrasi ketika anggota tidak sepakat, jalur linier kueri-lalu-baca ketika mereka sepakat (Wang et al. 2026)
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Pola penggunaan dan dukungan yang dipersepsikan di kalangan calon insinyur

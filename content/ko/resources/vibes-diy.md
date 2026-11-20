@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,8 +49,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 이 플랫폼에는 무료 등급이 있지만 크레딧 기반입니다. 계정에는 매월 AI 크레딧 1,000개가 주어지며, 빌드, 편집, 이미지 생성, 앱 내 AI 기능을 사용할 때마다 소모됩니다. 구독을 추가하면 더 많은 크레딧을 구매할 수 있으며 이 크레딧은 만료되지 않습니다. 무료 사용량은 무제한이 아니라 측정되므로 이 플랫폼에 의존하려는 수업은 현재 이용약관을 확인해야 하고, 학생이 만든 앱을 자체적인 데이터 처리 문제가 있는 콘텐츠로 다루어야 합니다.
-
-## 연결된 개념
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

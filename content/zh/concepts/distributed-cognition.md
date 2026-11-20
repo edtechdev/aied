@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -81,35 +83,3 @@ Fowlin 等（2026）把这种分配操作化为一个两阶段序列：先在没
 - **"共享文档就意味着共享认知。"** 对 **97 名学习者**基于数量的画像在**先前知识与作者身份**上有差异，但在**主动角色提示或理解层提示**上没有差异。参与量测量的是接触程度，而不是认知工作的分布，因此协作工具的[[learning-analytics|使用分析]]几乎说明不了谁在思考。
 - **"所有人都同样地把工作外包给 AI。"** 新手教师把教学设计认知负荷的很大一部分**交给 AI 系统**，形成一种**以 AI 为主导的分配**，其中他们大体上接受 AI 的回应；而经验丰富、且了解 AI 的教师则以不同方式分配认知工作。专业知识体现在负荷被放在哪里，而不只体现在用了多少 AI。
 - **"AI 参与越多，支持越多。"** 以 AI 为主导的分配正是需要警惕的形态，因为人的认知工作份额在缩小，而产出量在上升。系统可以显得越来越能干，恰恰是在使用者做得越来越少的时候。
-
-## 关联概念
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## 关联文章
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 以分布式认知 + 共同调节视角对人—AI 协作解题的实证研究
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI 作为教学中介，在人类与非人类行动者之间重新分配认知
-- [[ai-cognitive-partner-co-regulation-learning]] — AI 作为共同调节思维中的认知伙伴
-- [[ensemble-cognition-philosophy-ai-education]] — 把思维重新概念化为人—AI 互动的合奏认知框架
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 认知分布于生物与人工系统之中的后人本学习者
-- [[fowlin-operationalizing-learning-principles-ai]] — 与经验学习和情境学习并列的分布式认知操作化
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：AI 与专业知识再生
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 课程设计中的师—AI 互动：按经验与熟练度划分的 AI 主导型与互补型分布式认知（Choi 等，2026）
-- [[xu-genai-collaborative-space-2026]] — GenAI 作为行动者与协作空间：访问配置如何分配群体认知（Xu 等，2026）
-- [[cognitive-distribution-student-genai-interaction-2026]] — 认知分布框架：来自自主 ChatGPT 使用的五种互动类型与四种角色
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — 与 GenAI 的交互记忆：劳动分工与反思性转化中介批判性思维（Akgun & Toker 2026）
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — 为什么个体学习者是错误的分析单位
-- [[rivera-novoa-genai-extended-cognition-2026]] — 科学学习中的延展认知：GenAI 默认是替代性的，按设计才是互补性的（Rivera-Novoa 与 Duarte Arias 2026）
-

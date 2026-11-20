@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -95,51 +97,3 @@ AI משנה משוב בשני כיוונים שמעלים את הימור של �
 - **"משוב AI משפר חשיבה ביקורתית ישירות."** ב**421 סטודנטים תת-חוג סינים**, מתאמים של שימוש GenAI עם חשיבה ביקורתית [[self-report-measures|מדווחת-עצמית]] **עבר דרך אוריינות משוב**. האוריינות היא המתווך, ולכן התערבות שמוסיפה משוב AI בלי לבנות את היכולת לקרוא אותו מטפלת באיבר הלא נכון.
 - **"אוריינות היא תנאי מוקדם, לא תוצאה."** ב**פאנל תלת-גלי עם חותך-אקראי של 399 סטודנטים תת-חוג סינים**, אוריינות משוב AI חזה מעורבות סוכנית **מאוחרת יותר** (**β = 0.222**), ולכן הלולאה פועלת בשני הכיוונים. היא דינמית ולא שער שמועברים בו פעם אחת.
 - **"ניתנות-לפעולה היא מה שמשנה כתיבה."** לאורך שלושה מחזורי כתיבה-משוב-תיקון ב**שתי כיתות שלמות של 48 סטודנטים כל אחת**, **ההבנה הייתה הממד** שנשא את תשואת התיקון. משוב שסטודנט אינו מצליח לפענח אינו משתפר בכך שהופכים אותו לניתן-לפעולה יותר.
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — שלבי הביקורת-המכריעים שהרצפים האלה בונים לזרימת העבודה
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[reflection]]
-
-## מאמרים מקושרים
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — אוריינות משוב AI ומעורבות סוכנית: פאנל תלת-גלי עם חותך-אקראי (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — יצירת דגימות עבודה מדורגות-רובריקה כדי ללמד אוריינות משוב (Pennington & Hock 2026)
-
-- [[ai-peer-feedback-stem-teacher-education-2026]] — קליטה סלקטיבית ללא שיפור ארטיפקט: פער תרגום המשוב (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — משוב AI ללא מסגרת מורה מעלה את מוטלת אוריינות המשוב (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — אוריינות משוב מתווכת משוב AI → למידה מוסדרת-עצמית (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — אוריינות משוב חוזה ציון חיבור בכתיבה מוגברת-AI (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — סולם אוריינות משוב AI וחיזוי קליטה (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — מסגרת GenAI כמאפשר מעורבות משוב (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — תסריטי אוריינות משוב ואימון כיול לכתיבה בסיוע AI (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — תסריטי אוריינות משוב + מדרג-שני בתיקון כתיבה EAP (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — כלי משוב אוטומטי AI לפיתוח אוריינות משוב (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — מיקום GenAI במשוב עמיתים באנגלית כשפה זרה כדי לאמן אוריינות משוב (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — פיגום משוב מוסדר-עצמי: GenAI מול עמיתים אנושיים (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — אנליטיקת למידה GenAI במשוב, פרספקטיבת אוריינות משוב (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — הערכת GenAI בונה אורייות פסיכולוגיות, משוב ו-AI (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — פרקטיקות ותפיסות מורים של משוב AI ממ קדם-לומד
-- [[care-full-feedback-genai]] — עיצוב משוב זהיר עם GenAI
-- [[ai-generated-feedback-higher-ed]] — משוב מיוצר-AI בהשכלה גבוהה
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI מעבד מחדש את היחסים בין סטודנטים, חינוכים, עמיתים וחומרים במערכת המשוב (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — משוב AI וחשיבה ביקורתית בכתיבה
-- [[repeated-ai-writing-feedback-semester]] — משוב כתיבה AI חוזר לאורך סמסטר
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? פרספקטיבות סטודנטים על הערכת כתיבה בסיוע AI שקופה בהשכלה גבוהה
-- [[genai-use-critical-thinking-moderation-2026]] — שימוש GenAI לחשיבה ביקורתית רץ דרך אוריינות משוב GenAI, מתחזק עם חשיבה רפלקטיבית
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — הבנה, ולא ניתנות-לפעולה, נשאה את תשואת התיקון
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — הערכת משוב עמיתים ומשוב צ'אטבוט על אותה טיוטה בתוך משימת רפלקציה אחת

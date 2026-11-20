@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -128,70 +130,3 @@ ai_assist:
 - **LLM, читающие кликстримы против названных стратегий обучения.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et al. (2026)]] выстраивают конвейер [[llm|LLM]], который находит в трассе учащегося свидетельства стратегии, судит о её соблюдении и цитирует действия, лежащие в основе суждения, достигая общей оценки качества 0,735 в более сложной симуляции против 0,704 у плоской базовой линии.
 - **«Аналитике нужны кликстрим-трассы.»** Состояния знаний можно оценивать в рамках обучения, ориентированного на результаты, **прослеживая результаты курса напрямую по данным о взаимодействии в LMS и результатам освоения**, используя отображения сродства OBE, — сигнал даёт институциональная запись.
 - **«Предсказание без окна для действия полезно.»** Предсказание прогресса наиболее применимо, когда оно **интерпретируемо и соединено с окном для действия**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries и Koprinska (2025)]] предсказывают результаты на уровне модулей, а это форма, на которую советник может действовать, в отличие от сырого балла.
-
-## Связанные концепции
-
-- [[automation-bias]] — Почему флаг, который существует, применяется без проверки
-
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — сторона поддержки, которую питает предсказание: направления к специалистам, распределение ресурсов и результаты, которые они меняют или не меняют
-- [[sensor-and-gaze-analytics]]
-
-## Связанные статьи
-
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: интерпретация кликстримов через определённые в литературе стратегии обучения (Radmehr et al. 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Обмены «человек–ИИ» как структурированные записи: число промптов почти не несёт сигнала о прогрессе
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Замечание и оркестровка ИИ-анализов в коллективную аргументацию (Lee, Park & Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
-
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Федеративная и объяснимая аналитика обучения для моделирования академического риска с сохранением приватности (Villegas-Ch и др., 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris, 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić, 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Аналитика обучения и генеративный ИИ в принятии решений о конструкциях обучения
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Байесовская когнитивная диагностика для персонализированных траекторий обучения
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Тонко настроенные агенты LLM, специфичные для каждого участника, воспроизводящие диалоги совместного решения проблем (Fang, 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Синтетический бенчмарк ASTRA для репетиторства с несколькими агентами и совместной работы со сбалансированным участием
-- [[determinants-chatgpt-use-higher-education-2026]] — Детерминанты будущего использования ChatGPT по данным машинного обучения и SHAP в высшем образовании
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Трассировка знаний по результатам обучения с отображением сродства
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — Марковские цепи и добыча шаблонов для 29 064 запланированных видов деятельности в 554 курсах, раскрывающая грамматику проектирования, ведущую роль в которой играют усвоение и закрепляющая практика
-- [[pulla-parsons-problem-tool-2026]] — Pulla: поведенческая инструментация на уровне процесса и анализ трудностей для преподавателя в задачах Парсонса (Prol и др., 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — «We'll Fix It Later»: Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Предсказание риска списывания с помощью ИИ по трассам в LMS за начало семестра (AUC 0,763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas и др., 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Показатели завершения могут скрывать обвал вовлечённости
-- [[kim-ai-embodied-learning-review-2026]] — ИИ в воплощённом обучении в основном наблюдает: сенсорные роли составляют 62,5% кодированных ролевых меток, и ни одна рассмотренная система не объединяла мультимодальные потоки, пока учащиеся её использовали (Kim & Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Исследование микропреподавания с активным контролем, изолирующее слой объяснения: интерпретация сдвинулась, действие — нет (Liu et al. 2026)

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -73,11 +74,3 @@ kerangka pedagogisnya diunduh langsung. Versi interaktifnya berjalan di Gemini N
 Google. Angka penerbit lebih dari 40.000 unduhan PDF di sekitar 4.000 institusi di 180 negara, dan lebih
 dari 130 edisi kampus kustom, adalah milik mereka, begitu pula dukungan dari ALA, NASPA, EDUCAUSE, OLC,
 CAA, Gardner Institute dan RTI International.
-
-## Konsep terkait
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

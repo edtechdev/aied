@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -49,7 +51,6 @@ ai_assist:
 
 상황 학습은 [[embodied-learning]](둘 다 인지가 맥락과 행동에 기반함을 강조합니다), [[distributed-cognition]](사람, 도구, 맥락에 분산된 학습), [[experiential-learning]], 그리고 [[constructivist]] 이론과 긴밀하게 연결됩니다. AI 교육에서 그것은 맥락이 분리되고 구체화되지 않은 학습에 대한 비판의 토대가 됩니다. 학습자를 실제적 실천에 닻을 붙잡아 두는 AI 설계는 지속 가능한 학습이 요구하는 상황성을 보존합니다.
 
-
 - **기반 구조로서의 시나리오와 재사용 가능한 자산.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos(2026)]]는 상황 학습을 시나리오 — 목표, 역할 전문화 에이전트, 질의 가능한 지식, 상태를 지닌 워크벤치 — 로 운용하며, 나아가 과정 기록과 경험 흔적을 출처와 함께 보존하여 이후 시나리오가 이전 실천을 검색할 수 있게 하는 자산 기억을 더합니다. 사전 등록된 세 개 팔 무작위 시험 두 건에서 법적 추론에서 기본 어시스턴트보다 7.0점의 학습 이득 우위를 보였고(d = 0.56), 경쟁 프로그래밍에서는 기준 숙달에 도달한 비율이 더 높았으며(68% 대 45%), 같은 모형에 교사 역할을 하도록 프롬프트한 경우에는 감지 가능한 이득이 없었습니다. 상황과 작업 공간이 대화적 설명보다 학습을 더 많이 나른다는 주장을 시험한 드문 사례입니다.
 
 ## 흔한 오해
@@ -58,32 +59,3 @@ ai_assist:
 - **"실제성은 과업의 속성이다."** 실제성은 활동과 실제 공동체의 정당한 작업 사이의 관계입니다. 과업은 정교할 수 있으면서도 여전히 학교적인 형태일 수 있습니다. 교사가 성적을 위해 평가하고, 그것이 대표한다고 주장하는 세계에서는 아무런 결과도 낳지 않는 것입니다.
 - **"과업에서 드러나는 평가는 평가가 없다는 뜻이다."** 그것은 기준이 교실의 것이 아니라 공동체의 것이라는 뜻입니다. 그 일을 하는 사람들에게 그 작업이 받아들여지는지가 기준입니다. 그것은 루브릭보다 다르고 대개 더 엄격한 기준입니다.
 - **"도제 학습에는 물리적 환경이 필요하다."** 그 메커니즘은 정당한 주변적 참여입니다. 실천의 가장자리에서 실제 책임을 지고 중심으로 옮겨가는 것입니다. 온라인과 시뮬레이션 환경은 그것을 지원할 수도 있고, 참여를 결코 부여하지 않은 채 주변부만 흉내 낼 수도 있습니다. 차이는 학습자의 기여가 실제로 사용되는지에 있습니다.
-
-## 연결된 개념
-
-- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학업적 학습자 정체성
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — 실제적 맥락으로 가는 하나의 경로로서의 몰입형 환경
-
-## 연결된 문서
-
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — 시나리오와 출처를 지닌 재사용 자산이 두 시험에서 기본 어시스턴트를 이겼습니다
-
-- [[vargas-situated-learning-ai-review-2024]] — 상황 학습과 교육에서의 AI에 관한 PRISMA 체계적 검토(이 페이지의 주요 참고 문헌)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수법 설계의 주체로서의 LLM

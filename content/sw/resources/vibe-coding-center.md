@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -44,7 +45,3 @@ Walimu na [[learning-design|wabunifu wa mafunzo]] katika K-12 na elimu ya juu am
 ## Vidokezo na tahadhari
 
 Kituo ni mwongozo, si bidhaa ya utiifu: tovuti haitoi dai la kukidhi lengo lake la WCAG 2.2 AA, hujibu "je, kutumia faili hizi hufanya tovuti yangu ikidhi mahitaji?" kwa hapana, na inasema mapitio ya uhandisi hayachukui nafasi ya idhini ya shule au mapitio ya kisheria. Rafu ya usalama inaelekeza kwenye axe-core, Gitleaks, ZAP na Playwright; hizo ni marejeleo badala ya programu iliyofungashwa, na zile zinazovamia zimekusudiwa kwa lengo la kutupwa au lililoruhusiwa wazi. Kusoma hakuhitaji akaunti. Kujenga upya kurasa za HTML kunahitaji Python na `markdown-it-py`, ambayo ni tegemezi la ujenzi na si tegemezi la mgeni. Hazina ina leseni ya MIT, wakati sanaa ya wahusika wengine na miradi iliyounganishwa huhifadhi masharti yao wenyewe, yaliyoandikwa katika `CREDITS.md`.
-
-## Dhana zinazohusiana
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

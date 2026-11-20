@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 Most campus AI discussions start with which model to buy and stop before the harder question: where it runs, who meters it, and who can see the logs. MindRouter is an answer to that second question. It is a self-hosted gateway that sits in front of a heterogeneous cluster of [[llm|LLM]] servers (vLLM and Ollama nodes on GPUs the institution owns) and exposes one API that speaks the OpenAI, Anthropic and Ollama dialects, translating between them so existing client code keeps working.
@@ -39,9 +40,3 @@ Research computing and central IT groups with existing GPU capacity, teaching an
 ## Notes and caveats
 
 Free and open source under Apache-2.0, but the cost moves rather than disappears: hardware, electricity, and the staff time to run a cluster. The software is young by infrastructure standards, with three contributors, a single originating institution and releases numbered in the hundreds of tags, so a college should pilot it beside an existing service rather than as the only path to a model. Published evaluation of the scheduling and quota behavior under real campus load is not in the repository; the PEARC paper is the place to look for the authors' own account.
-
-## Connected Concepts
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

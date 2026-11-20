@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,6 +42,3 @@ Bölümler tek bir ders yerine [[learning-design|instructional design]] ve öğr
 ## Kullanmadan önce bilinmesi gerekenler
 
 Kitap, CC BY lisansı altında açık erişimlidir; bu, öğretim materyalleri için aralığın izin veren ucudur: eğitmenler [[prompt-engineering|prompts]] adına uygun şekilde atıfta bulunmaları koşuluyla, bunları ticari olarak dahil kopyalayabilir, uyarlayabilir ve kullanabilir. Bu, benzer koleksiyonlardaki daha kısıtlayıcı lisansların izin vermediği şeyi mümkün kılar: bir istek metnini belirli bir kurs veya [[pedagogical-agent|agent]] kurulumuna göre yerelleştirmek basittir. Kitap, 2026'da EdTech Books üzerinde bir PDF indirmesi ve 10.59668/2340 DOI numarasıyla, David Wiley editörlüğünde yayımlanmıştır. Her bölüm yalnızca sonucu değil değerlendirme tasarımını da bildirdiğinden, başkasının yargısını benimsemek yerine kendi istek metinlerini sınamak isteyen eğitmenler için de bir model işlevi görür.
-
-## Bağlı kavramlar
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

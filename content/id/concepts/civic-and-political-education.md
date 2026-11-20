@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,28 +89,3 @@ Sebuah program penelitian akan memerlukan ukuran dasar dan pascaintervensi atas 
 **"Prompt yang lebih baik akan menghasilkan pelajaran kewargaan yang lebih baik."** Varian interaktif membuat perbedaan yang minimal, dan ketiga chatbot menghasilkan struktur yang sama di 53 standar. Kualitas prompt tidak memulihkan tekstur disiplin.
 
 **"Sudah ada cukup bukti untuk memandu praktik."** Yang ada cukup untuk membenarkan kehati-hatian. Satu analisis konten, satu sintesis dokumenter, satu [[mixed-methods-research|studi metode campuran]] kecil, dan beberapa tulisan konseptual atau kebijakan tidak menetapkan apa yang berhasil.
-
-## Konsep terkait
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — Payung: apa yang perlu diketahui pembelajar tentang sistem AI
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — disinformasi dan persuasi yang dihasilkan sebagai kerugian sosial
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Artikel terkait
-
-- [[civic-education-ai-lesson-plans]] — 310 rencana pelajaran yang dihasilkan AI untuk 53 standar kewargaan: 90% tataran rendah, 94% tanpa konten multikultural (Trust dkk. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Tata kelola perbatasan algoritmik dan lima tuntutan literasi digital kewargaan di Afrika Selatan (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Wawancara pakar dan survei mahasiswa tentang literasi media kritis dan kewargaan partisipatif (Santos-Albardía dkk. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Tujuan guru Finlandia untuk pendidikan AI dibaca melalui kualifikasi, sosialisasi, dan subjektifikasi
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Visi literasi sains, termasuk kehidupan kewargaan dan keterlibatan demokratis (Zhai dkk. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Editorial yang menamai deepfake dan disinformasi otomatis sebagai ancaman demokratis (Rudolph dkk. 2025)
-- [[ai-lifelong-learning-policy]] — Kebijakan pendidikan orang dewasa dan tujuan kewargaan pembelajaran sepanjang hayat (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 dokumen tata kelola; demokrasi dan supremasi hukum disebut dalam 92, berkekuatan hukum dalam empat (Elmahjub dkk. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Perkara demokratis dalam istilah teori politik: praktik yang tererosi, mekanisme, dan taruhan otoritarianisme

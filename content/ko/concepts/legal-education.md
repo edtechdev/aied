@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -91,30 +93,3 @@ Gutowski와 Hurley는 0–5 루브릭으로 정책을 다섯 차원에서 평가
 - **"로스쿨은 이미 입장을 정했다."** 대부분은 **대체로 금지적인 입장**을 채택했고, 종종 **기술을 연구할 시간을 벌기 위한 것**으로 설명했으며, **거의 모든 정책이 개별 교수자에게 재량을 유보**했습니다. 교수자 재정의 조항이 붙은 금지는 정해진 입장이 아니라 기본값이 있는 유예입니다.
 - **"설문 증거가 이 분야를 기술한다."** **ABA의 2024년 설문은 ABA 인증 로스쿨의 약 15%에 해당하는 29개 교만 응답**했고, **800명**의 실무자를 대상으로 한 LexisNexis 설문은 다른 모집단을 측정합니다. 어느 것도 법학 교육을 대표한다고 다룰 수 없으나, 둘 다 그런 것처럼 인용됩니다.
 - **"AI 권고를 보류하는 것은 중립적이다."** 법 맥락 실험에서 **재판부 민사 사건의 비전문 의사결정자 186명**은 시스템이 자기 입장을 보류했을 때 잘못된 AI 입장에 훨씬 덜 따랐습니다(**5.7%에서 8.2%, 42.0%에서 60.5%**). 보류는 중립성을 낳지 않았고 따름의 큰 감소를 낳았으며, 그것 자체가 하나의 효과입니다.
-
-## 연결된 개념
-
-- [[academic-integrity]] — 지원된 작업에 적용되는 행위 틀
-- [[assessment-validity]] — 지원된 수행이 의도된 역량을 측정하는지 여부
-- [[authentic-assessment]] — 독자적 분석을 요구하는 설계
-- [[ai-use-disclosure]] — 여전히 합의에 이르지 않은 귀속과 보고 규범
-- [[governance]] — 로스쿨이 실천하는 교수진 거버넌스와 정책 수립
-- [[educational-policy-ai]] — 연구의 대상이 되는 기관 AI 정책
-- [[critical-thinking]] — 판례 학습법이 길러 내려는 추론
-- [[case-based-learning]] — 판례 학습법과 사례 토론을 하나의 교수법으로
-- [[socratic-method]] — 학생의 예비 학습에 의존하는 대화
-- [[experiential-learning]] — 클리닉과 실습 기반 훈련
-- [[professional-training]] — 면허 직역이라는 더 넓은 범주
-- [[career-development-and-readiness]] — 실무 준비도라는 명시된 목적
-- [[ai-literacy]] — 전문가의 의무로서의 기술 역량
-- [[hallucination-risk]] — 이 분야의 전형적 실패인 날조된 인용
-- [[legal-issues-and-risks]] — 거버넌스가 실패할 때 기관이 마주하는 것
-
-## 연결된 문서
-
-- [[lorteau-sarro-ai-legal-education-2025]] — 법학 교육에서의 인공지능: 82편 문헌 범위 검토(Lorteau & Sarro 2025)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템 입장의 보류는 법 맥락 결정에서 과잉 의존을 억제하지만 판단을 기르지는 않는다 (법학 학생이 아닌 비전문 의사결정자)
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI가 작성한 추리 역할극 게임 대 강의: 무작위 시험(Xie 등 2026)
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 로스쿨 생성 AI 정책의 다섯 요인 비교와 거버넌스 틀
-- [[llm-turing-test-italian-legal-exams-2026]] — 이탈리아 변호사·판사·공증인 시험에 대한 블라인드 튜링 테스트, 전문가 채점과 비교

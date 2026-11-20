@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -36,7 +38,6 @@ Elimu ya SSH ni eneo tofauti la somo katika hifadhi hii ya maarifa, linalokamili
 
 Elimu ya kiraia na kisiasa ni eneo la somo ndugu kwa taaluma hizi badala ya tawi lao, na [[civic-and-political-education]] linashughulikia eneo hilo kwa haki yake yenyewe. Ushahidi wa hifadhi hii ya maarifa katika eneo hilo ni mwembamba: vyanzo vinane vinagusa mada hiyo na hakuna hata kimoja kinachopima kujifunza kwa kiraia.
 
-
 ### Jinsi AI inavyoonekana katika elimu ya sayansi za binadamu na jamii
 
 - **Kubadilisha upya ufahamu wa tafsiri.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] anadai AI ya kizalishaji hutenda kama *mpatanishi wa maarifa* ambayo hubadilisha upya kujenga maana, uandishi, na [[agency]] ya mwanafunzi katika elimu ya SSH. Inatambua mabadiliko matatu — upitishaji wa ufahamu wa tafsiri nje ya mtu, kuchanganywa kwa uandishi, na kutokea kwa wakala wa maarifa unaosambazwa — na njia tatu za maendeleo (tafsiri inayotegemea AI, iliyoboreshwa na AI, iliyo mahususi kwa AI). Hii inaweka msingi wa mfano wa [[pedagogy|maendeleo-mahususi]] wa kufundisha kwa kuhifadhi kina cha tafsiri.
@@ -54,7 +55,6 @@ Elimu ya kiraia na kisiasa ni eneo la somo ndugu kwa taaluma hizi badala ya tawi
 Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto zaidi — uandishi wa asili, uamuzi wa tafsiri, uchanganuzi mahususi, na kujenga maana unaojali muktadha. Hifadhi hii ya maarifa inatendea eneo hili kama tuzo muhimu kwa ufafanuzi wa zana, unaotegemea ujuzi wa AI: inauliza iwapo kujifunza kunaoungwa mkono na AI kuhifadhi [[critical-thinking]], uwajibikisho wa maarifa, na uhuru wa tafsiri, na kuungana na [[critical-pedagogy]] na [[ai-literacy]].
 
 Ufundishaji wa sayansi za binadamu umeanza kutumia AI ya wakala kwa kukusanya vyanzo na kuandika rasimu, jambo linalohamisha swali la tathmini la taaluma hiyo kutoka kama maandishi yalizalishwa hadi kama tafsiri inaweza kuhusishwa na mwanafunzi ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
-
 
 ## Maana kwa waelimishaji wa sayansi za binadamu na jamii
 
@@ -74,33 +74,3 @@ Ufundishaji wa sayansi za binadamu umeanza kutumia AI ya wakala kwa kukusanya vy
 **"Uchanganuzi mahususi ndio AI inautishia zaidi, hivyo unapaswa kuzuiwa."** Uchanganuzi mahususi pia ndio matumizi ya kusudi yanaukuza zaidi, pale kazi inapobuniwa kuongeza kina badala ya kukipunguza. Mfano wa [[human-in-the-loop-ai|binadamu-katika-mzunguko]] unaweka mchango wa taaluma katika hukumu ya mwanafunzi badala ya pato la zana.
 
 **"Mfano wa matumizi ya jumla ni muhimu kwa usomi wa maandishi kama ilivyo kwa muhtasari."** Ufafanuzi unahitaji msimamo wa msomaji, na tabaka la msaada linalotoa usomaji limefanya tendo la ufafanuzi ambalo taaluma ipo kufundisha.
-
-## Dhana Zilizounganishwa
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-
-## Makala Zilizounganishwa
-
-- [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Mfano wa maendeleo-mahususi wa ufahamu wa tafsiri kwa elimu ya SSH
-- [[paternalistic-filter-llm-history-education]] — Matumizi ya LLM na ufikiri wa kihistoria katika elimu ya historia
-- [[genai-impact-chinese-students-hss]] — Athari ya GenAI kwa wanafunzi wa sayansi za binadamu na jamii
-- [[acceptance-ai-english-tools-2026]] — Kukubali AI miongoni mwa wanafunzi wa lugha na sayansi za binadamu
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Ukaguzi wa kikokotozi wa vitengo 15,587 vya Go8 vya Sanaa na Sayansi za Binadamu: 58.6% ya vipengele vya tathmini vya 2026 vilivyowekwa wazi sana kwa AI, vilivyokusanywa katika insha na ripoti
-
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Muundo wa kazi na maelekezo ya matumizi ya AI kama kile ambacho zao linaweza kushuhudia (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — AI ya wakala katika kujifunza sayansi za binadamu, na mabadiliko kutoka uandishi wa maandishi hadi uhusishaji wa tafsiri (Capodieci et al. 2026)
-

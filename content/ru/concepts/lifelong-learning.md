@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -76,30 +78,3 @@ ai_assist:
 
 - Сообщайте эффекты занятости по возрастным группам, а не в виде агрегатной цифры вытеснения; находка — это контраст 16% против 8%.
 - Изучайте, где исчезает формирующая работа, поскольку именно так текущие выигрыши превращаются в будущие дефициты.
-
-## Связанные концепции
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Связанные статьи
-
-- [[ai-adult-learning-guidelines-dis2026]] — Рекомендации по проектированию технологий ИИ для поддержки обучения взрослых
-- [[ai-guided-learning-audiovideo-2026]] — Обучение под руководством ИИ для освоения навыков
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Переосмысление высшего образования с помощью графов Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — Андрагогика и когнитивная делегация в опосредованном ИИ обучении
-- [[ai-lifelong-learning-policy]] — ИИ в непрерывном обучении: возможности и вызовы в политике образования взрослых
-- [[community-centered-ai-education-adults]] — Со-проектирование ориентированного на сообщество образования с ИИ для взрослых
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедия когнитивного достояния: ИИ и регенерация экспертизы
-- [[kim-ai-andragogy-2026]] — Взгляды взрослых учащихся на ИИ как агента совместного обучения в андрагогике (Kim et al. 2026)

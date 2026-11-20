@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-16"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 **Vibe-Coded Classroom Examples** is José Antonio Bowen's gallery of just over thirty simulations, games and visualizations that teachers built by prompting an AI model, grouped by discipline and each one opening the running tool rather than a screenshot. It sits on the Teaching with AI site that accompanies Bowen and C. Edward Watson's book, and it gives the most concrete answer yet to the question of what [[vibe-coding|vibe coding]] produces in a classroom.
@@ -39,12 +40,3 @@ Instructors in any discipline who want a worked example of their own kind of too
 ## Notes and caveats
 
 These are teaching demos, not evaluated interventions: the page reports no learning-outcome evidence for any of them, and several are its author's own builds rather than independent classroom use. Build quality tracks the model and the number of iterations, so an example that worked in one model version can drift or break later, and generated tools state facts wrongly often enough that the page's own checklist is to verify every number against the sources the tool lists. The gallery mixes Bowen's work with other educators' contributions and third-party links that can rot. Reading needs no account; the page is free, while Bowen's workshops and consulting are paid.
-
-## Connected Concepts
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

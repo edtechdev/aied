@@ -6,6 +6,8 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 > **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research. Rather than how much X predicts Y on average, they ask how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average. The method shows that one AI tool lands very differently across subgroups: five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|generative-AI]]-acceptance profiles among Taiwanese pre-service teachers.
@@ -53,7 +55,6 @@ No single statistic selects the solution; retention is a judgment made from seve
 - **Stability under resampling.** Bootstrap stability is the honest check on whether profiles would recur in a new sample: mean adjusted Rand index was 0.385 for the Ukrainian six-class solution but 0.989 across 100 random initializations in the trust-in-AI study — the same nominal design, very different evidential weight.
 - **Bootstrap likelihood ratio tests (BLRT)** and the Lo–Mendell–Rubin test are standard companions to BIC and entropy in the wider mixture-modeling literature, but the profile studies examined do not report them. Where a page reports only BIC and entropy, treat the class count as provisional.
 
-
 - **The likelihood-ratio check most profile studies omit.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retained four profiles (entropy 0.824) from 379 business students and reported the Lo–Mendell–Rubin decision: significant at four (p = 0.035) and nonsignificant at five (p = 0.376).
 - **Retention defended with the rival solution and a likelihood-ratio test.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] report that a four-profile solution fit the 102 students slightly better but did not improve significantly and left a smallest class at 12.7 percent, so they retain three profiles (entropy .89) rather than the numerically better-fitting model. Reporting the losing solution and what disqualified it is what makes the retained class count a judgment readers can check, and the study's purpose-built 12-item AI-use measure — validated on a separate sample of 85 that the authors call preliminary — marks the other boundary of its evidence.
 
@@ -82,26 +83,3 @@ Four cautions, each stated in the source pages:
 - **"Latent profile analysis discovers groups that exist."** LPA converts learner diversity from a rhetorical claim into a measurable finding, and the profiles are a **model of a continuum divided at chosen boundaries**, not natural kinds. The number of profiles is an analytic decision.
 - **"Any member of the latent-variable family is fine."** Which one you use **follows the indicators**: **LCA for categorical indicators**, LPA for continuous. Choosing the method first and the indicators second makes the result an artifact of the choice.
 - **"Profiles are comparable across studies."** Chen and colleagues profiled **128 Taiwanese pre-service teachers** on five [[technology-acceptance-model|TAM]]/UTAUT2 constructs, while Acquah and colleagues profiled **509 Ghanaian undergraduates**. Different indicators in different populations do not produce commensurable profile labels.
-
-## Connected Concepts
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Connected Articles
-- [[ai-attitude-latent-profiles-career-development-2026]] — Lo–Mendell–Rubin retention evidence for four AI-attitude profiles in 379 business students
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Three-wave latent profile transition analysis of psychological adaptation
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
-- [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchical and k-means clustering into four GenAI adoption personas
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four teacher AI-belief profiles from 40,680 teachers in 49 systems, with alignment stability

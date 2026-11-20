@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -88,39 +90,3 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 - **"心理表征不可观察，因此关于学习的认知主张只是假设。"** 从学习者在科学视频中的 **EEG** 重建图像，发现**表征保真度追踪测试表现**（回归系数 **0.8481，R² = 0.79**）。认知主义关于内部表征的前提是可测量的，而该测量预测了结果。
 - **"高 R² 意味着表征解释了学习。"** R² = 0.79 表示保真度与同一材料上的表现之间强关联。它并未确立提高保真度会提高表现，而那才是干预主张。
 - **"知识成分只是一种方便的建模虚构。"** 可分解性正是使[[knowledge-tracing]]与[[cognitive-diagnosis]]成为可能的东西，而方法在假设成立的程度内有效。把它当作虚构，就丢弃了这些方法产出可用估计的理由；把它当作事实，则夸大了拟合模型对心智所能说明的东西。
-
-## 关联概念
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — 这一实践族所依托的保持力发现
-
-## 关联文章
-
-- [[sim-ai-summary-memory-distortion-2026]] — 误导性的 AI 摘要改变了成年人记住的内容，与摘要标注为 AI 还是人类写作无关
-- [[cognitive-shift-ai-education]] — AI教育中的认知转向
-- [[cogtax-cognitive-taxonomy]] — 面向AI使用的认知分类法
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 基于知识追踪的教学型LLM智能体
-- [[nie-personavlm-long-term-personalization-2026]] — LLM学生建模与记忆
-- [[ai-cognitive-partner-co-regulation-learning]] — 共同调节学习中作为认知伙伴的AI
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition：作为人机交互的思维
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 努力的组织方式，而非努力的量，追踪了负荷与挫折感
-- [[crediting-assisted-work-inflates-mastery-2026]] — 知识追踪的掌握判断取决于有辅助的工作如何被计入（Srivastava 2026）

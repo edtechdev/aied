@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -56,6 +57,3 @@ serupa. Buku ini diterbitkan di EdTech Books pada 2026 dengan unduhan PDF dan DO
 David Wiley. Karena setiap bab melaporkan desain evaluasinya sekaligus hasilnya, buku ini juga berfungsi
 sebagai model bagi dosen yang ingin menguji prompt mereka sendiri alih-alih mengadopsi penilaian orang
 lain.
-
-## Konsep terkait
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

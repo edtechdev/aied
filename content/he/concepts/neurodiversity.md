@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -92,33 +94,3 @@ ai_assist:
 - **"מחקר נוירו-מגוון הוא פינה נישתית ב‑[[ai-education|AIED]]."** התחום **התארגן מחדש סביב [[generative-ai|בינה מלאכותית יוצרת]] — 15 מתוך 40 המחקרים** — עם פורמטים אימרסיביים במקום השני ב-11. הספרות נעה עם הטכנולוגיה במקום להצטבר סביב שאלות יציבות.
 - **"יותר AI לדיסלקציה פירושו תמיכה טובה יותר."** [[dabaghi-ai-dyslexia-education-review-2026|הסקירה הבין-תחומית של AI לדיסלקציה (Dabaghi, D'Urso ו-Sciarrone, 2026)]] מכסה **72 מחקרים בין 2018 ל-2024** ומוצאת ש‑AI משמש על פני טווח רחב של מטרות. רוחב היישום אינו ראיה ליעילות באף אחת מהן.
 - **"התאמות הן המסגרת הנכונה עבור לומדים נוירו-מגוונים."** [[neurodivergent-computing-students|סקר של 24 סטודנטים נוירו-מגוונים במחשוב ו-20 עמיתים נוירוטיפיים]] עם ארבעה ראיונות עומק מצא צרכים שהם **דרישות תכן כלליות** — מטלות מובנות, צוותים קטנים ועקביים, תפקידים מפורשים — ולא התאמות אישיות הניתנות לאחר אבחון.
-
-## מושגים מקושרים
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## מאמרים מקושרים
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — למסגר מחדש ערך חינוכי ב-EdTech לכיתות יסוד נוירו-כוללניות: סקירת היקף
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent computing students on structure, ambiguity, and collaboration
-- [[genai-reliance-executive-functioning-2026]] — Executive-functioning difficulties, perceived usefulness, and the route to AI reliance
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — תהליכים מונעי-גלאי יכולים להרתיע שימוש לגיטימי בהתאמות

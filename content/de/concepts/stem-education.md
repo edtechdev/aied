@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -88,48 +90,3 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - **„Intelligentes Tutoring wirkt in MINT einheitlich."** Ein strukturiertes narratives Review von **20 Publikationen (2020–April 2026)** fand den klarsten gemessenen Vorteil speziell für **Echtzeit-diagnostisches** Tutoring. Die Evidenz ist **begrenzt und bedingt**, und sie auf alle Mathematik-ITS zu verallgemeinern, überzeichnet das, was begutachtet wurde.
 - **„Simulation ist ein blasser Ersatz für praktische Arbeit."** Die Simulationsgruppe **übertraf die praktische Gruppe bei curriculumangeglichenem MINT-Wissen (M = 3.00 gegenüber 2.06; t(28) = 2.23, p = .034, d = 0.82)**. Die Simulation war kein Rückfall hinter das echte Ding.
 - **„Ein KI-gestützter Literaturarbeitsablauf spart vor allem Zeit."** Ergebnisse von **20 Studierenden über 80 Dokumente** zeigten **über 90% Extraktion experimenteller Parameter, rund 65% weniger Zeit für die Literaturübersicht und einen Anstieg der Fähigkeit, einflussreiche** Arbeiten zu erkennen, um 50%. Der Kompetenzgewinn war das größere Ergebnis, die Zeitersparnis das kleinere.
-
-## Verbundene Konzepte
-
-- [[learner-identity]] — sich entwickelnde disziplinäre, professionelle, kreative und akademische Identitäten der Lernenden
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
-- [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in Biologie, kritisches Denken, spezialisierte Werkzeuge
-
-## Verbundene Artikel
-
-- [[ai-pedagogical-accompaniment-amico]] — KI-ermöglichte pädagogische Begleitung unterstützt MINT-Identität
-- [[lnenicka-secondary-students-genai-stem-2026]] — Was Schülerinnen der Sekundarstufe tatsächlich mit GenAI-Werkzeugen über MINT hinweg tun
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und Problemstellung in der Grundschul-Naturwissenschaft
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT für erkundungsbasiertes Lernen in STEAM
-- [[niri-steam-ai-literacy-review-2026]] — STEAM-Bildung für KI-Kompetenz: systematisches Review
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptives KI-basiertes MINT-Programm für tiefes Lernen
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — ChatGPT-Akzeptanzprofile angehender Lehrkräfte
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Werkzeug, Tutor oder Krücke: Grounded-Theory-Studie zu KI-unterstützter Programmierung
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematisches Review zu KI in Naturwissenschaft/Chemiebildung
-- [[ai-information-extraction-undergraduate-thesis-2026]] — KI-gestützte Informationsextraktion unterstützt Thesis im Grundstudium und forschungsbasiertes Lernen (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulationsgestütztes Drohnenlernen mit von Lehrkraft und KI mitgestalteten Gerüsten
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Gepoolter Effekt KI-unterstützter MINT-Instruktion über 35 Studien, mit den größten Gewinnen in der Oberstufe (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digitale Zwillinge in MINT: jede gesichtete Studie lieferte einen funktionierenden Prototyp, wenige maßen Lernen
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Eine 45-minütige Prompting- und Fehlerprüfungs-Sitzung hob die Physik-Nachtestwerte (*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematik-ITS-Evidenz ist begrenzt und bedingt

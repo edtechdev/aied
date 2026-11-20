@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -91,7 +93,6 @@ ai_assist:
 
 وضعت مكتبة جامعية واحدة التيارين أمام الدعاوى نفسها فوجدتهما يشيران إلى اتجاهين متباعدين. فهبطت الإعارات المطبوعة السنوية من 406,120 في 2017 إلى 46,339 في 2025، وهبط المستعيرون الفريدون من 30,033 إلى 7,278، لكن الانحدار بدأ قبل فترة الذكاء الاصطناعي التوليدي، ولم تُظهر نقطة الانقطاع في يناير 2023 أي تغيّر في المستوى أو الميل. ووضع الاستبيان الثقل التفسيري على البنى: فتنبّأ الطلب على القراءة العميقة بنيّة استمرار الطباعة عند H1 β = 0.908، بينما كان مسار الإحلال المفترض قريبًا من الصفر (H4 β = 0.038، *p* = 0.631)، وكانت سمات الذكاء الاصطناعي في المنصة 0.53% من العمليات في النصف الأول من 2026. ولم يكن ممكنًا ربط المجيبين بسجلات الإعارة بموجب قواعد حوكمة البيانات، فلا يمكن قراءة التباعد إلا على مستوى الجمهرة لا شخصًا بشخص ([[huang-genai-academic-information-resources-2026|Huang وآخرون (2026)]]).
 
-
 ويمكن قراءة أدبيات الأدوات نفسها دليلًا على حجم الفجوة. قيّم [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] 33 أداة لثقافة الذكاء الاصطناعي لدى المعلّمين فوجدوا أن 31 (93.9%) كانت مقاييس تقرير ذاتي للثقة المدركة، وأن اثنتين فقط (6.1%) اختبرتا المعرفة موضوعيًا، وأن أياً منها لم تستخدم مهام أدائية بين 2019 و2025. ونتيجتهم هي التي تبلغها هذه الصفحة من اتجاهات أخرى: درجات التقرير الذاتي تفهرس الثقة لا القدرة، لذا فهي لا تصلح بديلًا عن الكفاءة عند مقارنة المجموعات أو البرامج.
 
 ومقاييس النتيجة ترث الفجوة نفسها. ينمذج [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] المسار من [[agentic-ai|الذكاء الاصطناعي الوكلي]] عبر الدافعية و[[community-of-inquiry|الحضور الاجتماعي]] إلى ما يسمّونه أداء التعلّم بمعامل 0.671 — أقوى علاقة في الدراسة — ويقرّ قسم الحدود الخاص بهم بأن هذا المتغيّر التابع يعكس تصوّرات المتعلّمين لا نتائج الامتحانات أو أداء المهام أو [[learning-analytics|تحليلات التعلّم]]. وهذا هو النمط الذي ينبغي قراءته بحذر في نماذج المسارات عمومًا: فالمعامل الكبير على نتيجة مدركة يكمّم إلى أي مدى يعتقد الطلاب باستمرار أن شيئًا ما ساعدهم، ولا يقول شيئًا بعد عمّا إذا كان قد ساعدهم فعلًا.
@@ -99,7 +100,6 @@ ai_assist:
 والنيّة أشدّ حالات تلك الفجوة، لأن درجة نيّة واحدة قد تغطّي سلوكين متعاكسين. فبإعادة تطبيق البنود على 68 من أصل 340 طالبًا ومقابلة ثمانية منهم، وجد [[high-school-genai-acceptance-tam-physics-2026|Xue و Xu و Qi و Lu (2026)]] أن النيّة المُعلَنة نفسها تغطّي استخدامًا تعلّميًا واستخدامًا اختصاريًا واستخدامًا مختلطًا — ومستخدمو الاختصار يعزون ذلك إلى ثقة منخفضة لا إلى عدم اهتمام.
 
 - **«يبلّغ الطلاب عمّا فعلوه.»** ناقض الأثرُ الاستبيانَ في اتجاه مفيد. في دراسة مقال قدّم فيها **15 من 77 (19.5%)** مقالات بلا كلمات مكتوبة، هبطت الملكية المدركة في تلك المجموعة المفوِّضة كليًا وحدها، بينما أبلغ الكتّاب الذين استخدموا النموذج في التخطيط أو المراجعة عن ملكية بمستوى الطلاب الذين لم يفتحوه أبدًا. فميّز التقرير الذاتي الطرفين وسطّح كل ما بينهما، وهو ما يستطيعه مقياس تصوّر وما لا يستطيعه. [[jelson-students-chatgpt-essay-writing-2026|فجوة التصوّر–السلوك، مقيسة بضربات المفاتيح]].
-
 
 ## Satisfaction and perceived learning as outcomes
 
@@ -114,7 +114,6 @@ ai_assist:
 
 **مقاييس التصوّر تفوق مقاييس المهارة في أدبيات الاستقصاء بالذكاء الاصطناعي التوليدي.** في مراجعة من 66 دراسة، وجد [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وآخرون (2026)]] أن تصوّرات المستخدمين أكثر مجالات النواتج إبلاغًا (32 دراسة، 48.5%)، تليها النواتج الوجدانية بـ25، بينما قاست 8 دراسات فقط (12.1%) مهارات الاستقصاء وكان لأربع منها شرط مقارنة. ولم يُقيّم المؤلفون أي يقين في الأدلة، فتعكس أعداد التصوّر ما جرى سؤاله لا ما جرى تحقيقه.
 
-
 ## What makes a self-report instrument credible
 
 أربع خصائص تفصل استبانة قادرة على دعم ادعاء عن أخرى غير قادرة.
@@ -125,7 +124,6 @@ ai_assist:
 - **بديل أدائي حيث تكون الكفاءة هي البنية.** فإن مفردات GLAT العشرينية متعددة الخيارات موجودة بالضبط لأن التقرير الذاتي لا يستطيع حمل ادعاء كفاءة.
 
 **معظم الأدوات في هذا الفضاء تُبلغ عن الموثوقية ولا تكاد أي منها تُبلغ عن الصدق.** يستشهد [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وآخرون (2026)]] بمراجعة Su وآخرين لـ36 دراسة في ثقافة الذكاء الاصطناعي، وجدت أن 63.8% من الأدوات تُبلغ عن دليل موثوقية وأقل من 20% تُبلغ عن دليل صدق. ووجدت المراجعة نفسها أداة واحدة فقط خاصة بالذكاء الاصطناعي التوليدي، هي GAIAS ذات 27 بندًا، بين 50 إطارًا لـ[[k-12|الصفوف من الروضة إلى الثاني عشر]]. فاتساق المقياس الداخلي لا يقول شيئًا عمّا إذا كان يقيس البنية المسمّاة في عنوانه.
-
 
 ## Sampling, response, and non-response
 
@@ -167,58 +165,3 @@ ai_assist:
 - **«أدلة الاستبانة ضعيفة لكنها خالية من التحيّز تقريبًا.»** بنية الاستجابة تحدّد التقدير قبل التحيّز: فاستبانة تحصل على **112 استجابة بمعدل استجابة 31%**، أو **90 استجابة من 572 دعوة**. فمجموعة المستجيبين مجموعة فرعية اختيرت ذاتيًا، والرقم يصف تلك المجموعة.
 - **«الاستبانات أسلوب هامشي في هذا المجال.»** وجدت [[mapping-genai-higher-ed-scoping-review|مراجعة نطاق]] على **394 دراسة عن الذكاء الاصطناعي التوليدي في التعليم العالي** أن **سلالم الاستبانة أكثر أساليب التقويم إبلاغًا (269 دراسة، 68.3%)**، متقدّمةً على الاختبارات والاستقصاءات القصيرة. فدليل المجال المهيمن هو التقرير الذاتي.
 - **«التقرير الذاتي والبنى المقيسة يتفقان.»** **لم يختلف الحِمل المعرفي المُبلَّغ عنه ذاتيًا اختلافًا دالًّا عبر ملامح تفريغ تراوحت من 80% إلى 2% في تأليف المقال**، بينما اختلف أكبر المُفرِّغين اختلافًا قابلًا للقياس. فالمقياس الذاتي كان مستويًا حيث تباين السلوك بمعامل أربعين.
-
-
-## المفاهيم المرتبطة
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## المقالات المرتبطة
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — درجة نيّة واحدة، واستخدامان متعاكسان
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — وضع التطبيق الذي تستخدمه أداة التقرير الذاتي يغيّر ما تقيسه
-
-- [[capability-decision-model-teacher-readiness-2026]] — معايير الصدق التمييزي لفصل القدرة على الذكاء الاصطناعي المبلَّغ عنها ذاتيًا عن معتقدات الفعالية
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — مقاييس متوازية للتقرير الذاتي والموضوعية لثقافة الذكاء الاصطناعي لدى المعلّمين
-- [[jin-glat-genai-literacy-assessment]] — GLAT: بديل أدائي عن التقرير الذاتي
-- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
-- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
-- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
-- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
-- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
-- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
-- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
-- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
-- [[student-genai-use-views-writing|استخدام الطلاب للذكاء الاصطناعي التوليدي في الكتابة وآراؤهم فيه]] — Survey plus interviews in one sociology department
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — مراجعة من مرحلتين تضع معدّلًا لتباعد التقرير الذاتي متماثل البنية عن الأداء (Fan et al. 2026)
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — الملامح المستمدّة من التقرير الذاتي تتصرف بالطريقة نفسها
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — الملكية المدركة فصلت تفويض المقال كاملًا عن كل ما عداه، بينما فصل الأثر أكثر بكثير (Jelson وآخرون 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - تصوّرات مبلَّغ عنها في 32 من 66 دراسة مقابل 8 قاست مهارات الاستقصاء
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% من أدوات ثقافة الذكاء الاصطناعي تُبلغ عن دليل موثوقية وأقل من 20% تُبلغ عن دليل صدق
-- [[huang-genai-academic-information-resources-2026]] — سجلات المكتبة ومواقف الاستقصاء تشير في اتجاهين مختلفين
-
-

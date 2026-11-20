@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -94,46 +96,3 @@ ai_assist:
 - संचित प्रभाव आकारों के विरुद्ध रोडमैप न बनाएँ। 14 मेटा-विश्लेषणों के ऑडिट में किसी ने भी अपने दावों को न्यायसंगत नहीं ठहराया, इसलिए शीर्षक *g* पर टिका उत्पाद दावा ऐसी कार्यविधि पर टिका है जो जाँच में नहीं टिकती।
 - आधार-दर का मापन उसे अनुकूलित करने से पहले करें। 0.68% घटना दर का अर्थ है कि अधिकांश गुणवत्ता कार्य पूँछ में होता है, और पूँछ का प्रदर्शन ही तय करता है कि परिनियोजन स्वीकार्य है या नहीं।
 - प्रत्येक बेंचमार्क संख्या के साथ संस्करण, तिथि और कार्य प्रकार रिपोर्ट करें, क्योंकि इनके बिना क्षमता दावा पुनरुत्पादनीय नहीं है।
-
-## संबंधित अवधारणाएँ
-
-- [[llm]] — जनरेटिव-AI के अंतर्निहित मॉडल वर्ग
-- [[prompt-engineering]] — आउटपुट कैसे आकार लिए जाते हैं
-- [[rag]] — पुनर्प्राप्ति-संवर्धित ग्राउंडिंग
-- [[ai-literacy]] — इसे प्रभावी ढंग से उपयोग करने के लिए आवश्यक क्षमता
-- [[ai-education]] — व्यापक क्षेत्र
-- [[intelligent-tutoring]] — संवादात्मक और जनरेटिव ट्यूटरिंग प्रणालियाँ
-- [[cognitive-offloading]] — जनरेटिव-AI द्वारा बढ़ाया गया अति-निर्भरता जोखिम
-- [[hallucination-risk]] — निर्मित सामग्री का एक मूल विश्वसनीयता जोखिम
-- [[academic-integrity]] — प्रवाहशील निर्माण से इमानदारी चिंताएँ
-- [[automated-assessment]] — ग्रेडिंग और प्रतिक्रिया में जनरेटिव मॉडल
-- [[ai-technologies]] — AI तकनीकों और मॉडलों का छत्र
-- [[higher-ed]] — एक प्राथमिक तैनाती संदर्भ
-- [[k-12]] — एक प्राथमिक तैनाती संदर्भ
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[bicer-genai-pd-math-creativity-2026]] — आठ ग्रामीण सेवा-रत शिक्षकों के साथ जनरेटिव-AI-निर्देशित गणित व्यावसायिक-विकास केस अध्ययन
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — संचित g = 0.819, PET-PEESE के अंतर्गत 0.378 तक गिरता हुआ; अनुकूलित उपकरण (0.455) चैटबॉट (0.970) से पीछे
-
-- [[genai-learning-motivation-meta-analysis-2026]] — सीखने की प्रेरणा पर जनरेटिव-AI के प्रभाव का मेटा-विश्लेषण, एक भविष्यवाणी अंतराल के साथ जो हानि से लाभ तक फैला है
-- [[typology-generative-ai-tools-education-2026]] — शिक्षा के लिए जनरेटिव-AI उपकरणों की टाइपोलॉजी
-- [[generative-ui-education-learning-interactives-2026]] — शिक्षा के लिए जनरेटिव-UI का लाभ उठाना: अनुरूप सीखने के इंटरैक्टिव
-- [[ai-standardized-patient-scaffolding-medical-2026]] — मूल्यांकन: चिकित्सा साक्षात्कार प्रशिक्षण के लिए मड्गद-उन्मुख बहु-एजेंट बड़े भाषा मॉडल प्रणाली
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: सीखने के लिए सुरक्षित और स्वस्थ AI के लिए एक डिज़ाइन ढाँचा
-- [[genai-educational-outcomes-meta-analysis]] — जनरेटिव-AI सीखने के परिणामों का मेटा-विश्लेषण
-- [[genai-meta-analysis-programming-learning]] — प्रोग्रामिंग सीखने में जनरेटिव-AI का मेटा-विश्लेषण
-- [[genai-performance-vs-learning]] — जनरेटिव-AI के साथ प्रदर्शन बनाम सीखना
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ट्यूटरिंग एजेंटों की हानियाँ
-- [[eduguard-safe-rag-llm-tutor]] — एक सुरक्षित RAG LLM ट्यूटर को गार्डरेल करना
-- [[cogevol-learning-environment-generation-2026]] — कोजेवोल: सीखने के वातावरण निर्माण
-- [[khlaif-assistive-genai-visually-impaired-2026]] — दृष्टिबाधित शिक्षार्थियों के लिए सहायक जनरेटिव-AI
-- [[li-language-educators-genai-review-2026]] — भाषा शिक्षकों की प्रथाएँ और जनरेटिव-AI के साथ विकास
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — नए AI-सहायित शैक्षिक प्रश्नों के शिक्षाशास्त्रीय मूल्यांकन के लिए पूर्व-प्रशिक्षित मॉडल का मूल्यांकन

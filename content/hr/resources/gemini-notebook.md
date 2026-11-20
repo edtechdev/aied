@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,6 +43,3 @@ Postavljajte pitanja kroz cijeli skup izvora, sažimajte dugačke dokumente i sl
 ## Napomene i upozorenja
 
 Google navodi da se sadržaj osobnih računa ne rabi za treniranje njegovih modela osim ako korisnik pošalje povratnu informaciju, da se podaci, upiti i odgovori iz Workspacea ne rabe za treniranje čak i kad se povratna informacija da, i da se [[privacy|podaci ne dijele s trećim stranama]]; izbrisane bilježnice, međutim, ne mogu se vratiti. Gore navedene tvrdnje o mogućnostima dobavljačeve su vlastite, pa bi ih okrug ili ustanova trebali potvrditi prema svojem sporazumu o obradi podataka, a ne prema stranici proizvoda. Izvještavanje u 2026. opisivalo je i tužbu zbog glasa rabljenog u generiranim podcastima, koju je Google osporio, što je podsjetnik da audio rezultati otvaraju [[legal-issues-and-risks|pitanja o slici i identitetu]] neovisno od zaštitnih mjera utemeljenja u izvorima. Generirane kartice, kvizove i sažetke tretirajte kao nacrte koje treba provjeriti prema izvorima i imajte na umu da se ograničenja besplatnog paketa mijenjaju bez najave.
-
-## Povezani pojmovi
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

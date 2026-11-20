@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -126,36 +128,3 @@ Aceste refutări sunt scrise deliberat în forma [[refutation-text|textului de r
 - **„Concepțiile greșite ale profesorilor pot fi corectate prezentând dovezi."** Într-un pilot cu **123 de educatori italieni**, dezacordul s-a grupat cel mai puternic pe **stilurile cognitive de învățare (78% dintre profesori au apărat potrivirea vizual/auditivă)**, incluziune și munca în grup (68%) și supraîncărcarea cu tehnologie educațională (54%). Cele mai puternice dezacorduri au fost cele mai rezistente la dovezi, motiv pentru care [[refutation-text|refutarea]] învinge afirmația.
 - **„Obiecțiile profesorilor la dovezi sunt toate rezistență."** Când aceiași itemi au fost livrați printr-o IA conversațională care **a validat contextul profesorului înainte de a reintroduce dovezile**, **41% dintre obiecții priveau constrângeri contextuale reale** — dimensiunea clasei, nevoi speciale, cerințele curriculumului. O parte substanțială din aparenta concepție greșită era o obiecție corectă.
 - **„Concepțiile greșite pot fi detectate în mod fiabil din dialog."** **Din 241 de segmente promptate, 221 (91,7%) au fost confirmate ca concepții greșite strategice prin votul majoritar al experților (κ Fleiss = 0,9487)**, fără **diferențe semnificative** între grupuri. Fiabilitatea înaltă este realizabilă sub arbitraj expert, iar aceasta este condiția de care depinde afirmația.
-
-## Concepte conexe
-
-- [[pedagogical-patterns]] — Secvențele de schimbare conceptuală care confruntă o credință specifică deținută
-- [[learners]] — Cursanții: umbrela pentru conceptele din perspectiva cursantului
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Articole conexe
-- [[rudolph-ai-myths-critical-higher-ed]] — Nu crede hype-ul: opt mituri despre IA și nevoia unei abordări critice în învățământul superior
-- [[student-rationalization-ai-writing]] — Raționalizarea de către studenți a scrierii cu IA
-- [[genai-skill-bypass-literacy]] — Ocolirea abilităților prin IA generativă și alfabetizarea
-- [[trust-reliance-ai-education-2026]] — Încredere și dependență în educația cu IA
-- [[contextual-sycophancy-ai-literacy]] — Sycophancy contextuală și alfabetizarea în IA
-- [[sycophantic-ai-social-interaction-2026]] — IA servilă în interacțiunea socială
-- [[llm-fallacy-misattribution]] — Atribuirea greșită a erorii LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Defectuoase, dar memorabile: receptarea critică a studenților față de analogiile IA generative personalizate pe interese în educația informatică
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: explicații fluente și autoritare care sunt greșite conceptual, nu factual (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Instrucțiunile ascunse într-un fișier trimis pot crește nota dată de IA fără avertisment vizibil (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Concepțiile greșite ale copiilor despre siguranța IA: prietenia cu un robot interpretată ca garanție de confidențialitate (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversațional cu IA pentru concepțiile greșite despre predare, cu dialog fundamentat în dovezi (Miranda & Calvani 2026)

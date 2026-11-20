@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -116,37 +118,3 @@ ai_assist:
 **"সমাধান উন্নত AI, কারণ আত্মসমর্পণ ত্রুটি থেকে আসে।"** আত্মসমর্পণ আসে মিথস্ক্রিয়ার *কাঠামো* থেকে: যে সিস্টেম প্রথমে একটি বিশ্বাসযোগ্য উত্তর তৈরি করে, সে শিক্ষার্থীর নিজে একটি তৈরি করার উপলক্ষ সরিয়ে দেয়। নির্ভুলতা উন্নত করা ভুল উত্তর থেকে ক্ষতি কমায়, কিন্তু বিচার গঠন পরিত্যাগের কিছুই করে না, আর সেই ক্ষতিই সরঞ্জাম চলে যাওয়ার পর টিকে থাকে।
 
 **"সমালোচনামূলক মূল্যায়ন শেখানোই যথেষ্ট।"** এটি প্রয়োজনীয় এবং এটি খুব দেরিতে আসে। স্ক্রিনে একটি বিশ্বাসযোগ্য উত্তর এলে মূল্যায়ন নিশ্চিতকরণে পরিণত হয়, এই কারণেই এখানকার নকশা-সাহিত্য শিক্ষার্থীর প্রচেষ্টাকে সিস্টেমের আউটপুটের আগে রাখে, পরে তা নিরীক্ষা করার বদলে।
-
-## সংযুক্ত ধারণা
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory ও আত্মসমর্পণের পরীক্ষামূলক স্বাক্ষর
-- [[generative-ai-reduced-study-time-math]] — ALEKS-এ জনসংখ্যা-স্তরের স্থানচ্যুতি
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12-এ আত্মসমর্পণ/অফলোডিং/এজেন্সি কাঠামো
-- [[du-yuan-epistemic-dependence-2026]] — যন্ত্রগত বনাম বিচার-বহনকারী সহায়তা
-- [[ai-advice-suppresses-ikt-suspension-2026]] — "আমি জানি না"-এর ধস
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — স্নায়বিক সম্পৃক্তি ও মালিকানা
-- [[genai-thoughtless-use-self-directed-learning-2026]] — অবিচিন্তিত ব্যবহার ও স্ব-নির্দেশিত শিখন
-- [[stamatoulis-genai-use-patterns-2026]] — কম-যাচাই গ্রহণ বনাম মূল্যায়নমূলক সংযুক্তি
-- [[cognitive-washout-ai-skill-decay-2026]] — প্রত্যাহারের পর কী ঘটে
-- [[ai-overreliance-complex-adaptive-system-2026]] — জনসংখ্যা-প্রক্রিয়া হিসেবে নির্ভরতা
-- [[brcic-effortless-trap-productive-struggle-2026]] — AI এমনভাবে স্থাপন করা যাতে কাজ শ্রমসাধ্য থাকে
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — ক্যালিব্রেশন প্রশিক্ষণ
-- [[family-school-autonomy-support-genai-2026]] — নির্ভরশীল বনাম স্বায়ত্তশাসিত অফলোডিং
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — ওয়ার্কশিট-ভিত্তিক সহকারী অফলোডিং বাড়ানোর বদলে কমিয়েছে, আত্মসমর্পণ-স্বাক্ষরের একটি সীমা-শর্ত (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — নৈসর্গিক গোটা-প্রবন্ধ অর্পণ: 77টির মধ্যে 15টি প্রবন্ধ পুরোপুরি মডেল-লেখা, 20টি সম্পূর্ণ প্রবন্ধের অনুরোধ (Jelson প্রমুখ 2026)

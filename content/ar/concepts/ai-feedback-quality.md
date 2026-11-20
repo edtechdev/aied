@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -51,7 +53,6 @@ ai_assist:
 يعزل مقارنة مُضبَّطة مكوّن التغذية الراجعة عن النظام التكيّفي: مع نظام [[intelligent-tutoring|تدريس ذكيّ]] تشخيصي واحد، ارتفع المتعلّمون الذين تلقّوا تغذية راجعة آلية في الزمن الحقيقي من 1.90 إلى 3.54 في تقويم رياضي من أربع نقاط مقابل 1.90 إلى 2.85 بدونها (F(1, 76) = 9.24، p = .003، d = 0.73) ([[intelligent-tutoring-mathematics-education-review-2026|أوغونساكين وآخرون (2026)]]).
 
 **تهيمن التغذية الراجعة على الممارسة لكن جودتها نادراً ما تكون الناتج.** كانت التغذية الراجعة والتدريس أكثر الاستخدامات المنفَّذة تكراراً عبر 394 دراسة للذكاء الاصطناعي التوليدي في التعليم العالي، ومع ذلك كانت جودة التغذية الراجعة من أقل النواتج استهدافاً ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
-
 
 - **قد تؤذي سلسلة تغذية راجعة داعمة التعلّم.** وجد [[sequenced-ai-feedback-learning|كاو وآخرون (2026)]] أن تسلسل التشجيع ← التلميحات ← الجواب الصحيح خفّض درجات الاختبار البعدي (B = −0.83، p = .02) على الرغم من رفع التشجيع المُدرك، مع تنبّؤ إعادة التسليم المتكرّرة بأداء أسوأ (B = −0.33، p = .001)، لذا فإن الاندماج والرضا ليسا بديلين عن [[learning-gains|التعلّم]].
 - **حرّكت دورة تغذية راجعة نحوية ومراجعة الكتابة والثقة والوعي ما وراء اللغوي.** وجد [[wordofa-genai-grammar-instruction-efl-2026|Wordofa وAbo (2026)]] أن شرط المسوّدة–التأمل–المراجعة المدعوم بالذكاء الاصطناعي تفوّق على التعليم التقليدي في أبعاد الكتابة الخمسة جميعها بعد التباين المشترك لدرجات الاختبار القبلي (F(5, 77) = 20.885، η² الجزئي = 0.576)، مع [[self-efficacy|فعالية ذاتية]] في الكتابة عند η² الجزئي = 0.254.
@@ -106,7 +107,6 @@ ai_assist:
 - **جانب القارئ من الأبعاد نفسها.** وصف أربعة وعشرون أستاذاً جامعياً في الكتابة مخرَجاً معقّداً وطويلاً أكثر من اللازم وغامضاً وغير عملي، ووجد اثنان أنه يثني على نقاط القوة ما لم يُطَلَب منه البحث عن نقاط الضعف أولاً ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). وقال سبعة إن الوصول إلى تغذية راجعة مقبولة استلزم مطالبات متكرّرة، وهو ما يستهلك الوقت الذي كان مكسب عبء العمل يُفترض أن يوفّره.
 - **تفوّق الطول في التنبؤ على كل خاصية أخرى مقيسة في الرسالة.** عبر ثلاث نشرات لنظام تلميحات بنماذج اللغة الكبيرة في مقرر برمجة حيّ، تنبّأ كل انحراف معياري مقداره 204.9 حرفاً بصحّة أقل في الإرسال التالي (−0.733)، وبمحاولات متبقية أكثر (0.187)، وبانتظار أطول قبل إعادة الإرسال (0.226)، بينما كان تقدير Flesch-Kincaid غير مؤكد في الأولين ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). وقد أهمّت الصيغة أيضاً، لكن كمقايضة: فالتلميحات التشخيصية أنتجت إرسالات تالية صحيحة أكثر ومحاولات أقل، وإعادة إرسال أبطأ.
 
-
 ### الصلة بالمفاهيم الأوسع
 
 ترتبط جودة تغذية الذكاء الاصطناعي الراجعة ارتباطاً أساسياً بـ[[formative-assessment]] و[[feedback|حلقة التغذية الراجعة]] — فالتغذية الراجعة عالية الجودة تُغلق الفجوة بين الأداء الحالي والمنشود. وتتقاطع مع [[automated-assessment|التصحيح الآلي]] (الذي يُولّد الدرجات التي تقوم عليها التغذية الراجعة)، و[[ai-literacy]] (على الطلاب تقييم جودة التغذية الراجعة نقدياً)، و[[cognitive-offloading|الاعتماد المفرط]] (يمكن أن يُزيح القبول غير النقدي لتغذية الذكاء الاصطناعي الراجعة التعلّم). وفي [[writing-education]]، تكون جودة التغذية الراجعة بالغة الأهمية بشكل خاص بالنظر إلى الدور المتزايد للذكاء الاصطناعي في تقويم الكتابة.
@@ -117,73 +117,9 @@ ai_assist:
 
 يمكن أن تكون الإجابة صحيحة في الدور الأول وخاطئة في الثالث: فعبر 11 نموذجًا، انقلب 12.7 بالمئة إلى إجابة غير صحيحة تحت ضغط السلطة، لذا يجب تنقيط جودة التغذية الراجعة عبر تفاعل كامل لا عند الاستجابة الأولى ([[liu-educational-sycophancy-2026|Liu وKorolova (2026)]]).
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **"الطلاب يجدون تغذية الذكاء الاصطناعي الراجعة مقبولة، فهي جيدة."** **جودة الإدراك لدى الطلاب أكثر اختلاطاً مما يُشير إليه القبول**: **وجد 77 من 93 طالباً جامعياً أن التغذية الراجعة بالذكاء الاصطناعي سهلة الفهم، لكن 68 وجدوها متكرّرة و79** وجدوا شيئاً آخر ناقصاً. فالفهم وعدم الرضا تعايشا في الفوج ذاته.
 - **"آثار التغذية الراجعة متواضعة."** وجد **تحليل تجميعي لـ53 دراسة** أن تغذية الذكاء الاصطناعي التوليدي أنتجت **أكبر أثر في الدراسة (g = 1.27)**، مقابل **g = 0.40** للأثر العام للذكاء الاصطناعي التوليدي. فالتغذية الراجعة أقوى آلية مقيسة، وهذه صورة مختلفة عن مناظرة التفاؤل العامة.
 - **"التغذية الراجعة هي التدخّل كله."** تعزل مقارنة مُضبَّطة المكوّن: فمع نظام [[intelligent-tutoring|تدريس]] تشخيصي نفسه، اختلف المتعلّمون الذين تلقّوا **مكوّن التغذية الراجعة** اختلافاً قابلاً للقياس. وفصل التغذية الراجعة عن النظام التكيّفي هو ما يجعل الدعوى قابلة للإسناد.
 - **الوصول والانخراط تدخّلان مختلفان.** فصل [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]] الاثنين عبر **234 طالباً و1,147 ملاحظة أسبوعية** في محاكاة أعمال استمرّت خمسة أسابيع. فالتكليف بتغذية راجعة [[conversational-ai|حوارية]] بالذكاء الاصطناعي أنتج **لا أثر** على الحمل المعرفي المُلائم (β = .019، p = .807) ولا على الحمل الدخيل (β = .071، p = .481). أما **الاستخدام المنتظم الفعلي** فارتبط بحمل مُلائم أعلى بدرجة معتبرة من غير المستخدمين في التجربة (β = −.468، p < .001) ومن الضوابط (β = −.253، p = .028)، بينما **لم ينفصل الاستخدام غير المنتظم عن المنتظم** (p = .116). فأحكام الجودة القائمة على تباين نيّة المعالجة ستقلّل من شأن تدخّل تغذية راجعة جزئي التبنّي، ولا تستطيع مقاييس الرضا أو الوصول أن تحلّ محلّ بيانات الانخراط.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — الجودة لا تتنبّأ بالمراجعة: التسلسلات التي تجعل تغذية الذكاء الاصطناعي الراجعة قابلة للاستخدام
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## المقالات المرتبطة
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — تلميحات أطول من نماذج اللغة الكبيرة تنبّأت بنواتج فورية أسوأ؛ الصيغة قايضت محاولات أقل بإعادة إرسال أبطأ
-- [[wu-lam-genai-writing-assessment-professors-2026]] — أساتذة عن جودة تغذية الذكاء الاصطناعي الراجعة: تملّق افتراضي، وطول، وغموض، وبطء في التنقيح
-- [[genai-l2-written-feedback-scoping-review-2026]] — 27 دراسة فقط من 51 أبلغت عن موجّهاتها؛ و16 تجربة بلا مجموعة ضابطة
-- [[ai-feedback-violin-intonation-2026]] — تغذية الذكاء الاصطناعي الراجعة على النبرة مُتحقَّق منها مقابل 2,208 انحرافات في درجة النغمة مقيسة آلياً (أكسوي 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: نظام تقييم كتابة آلي معياري للمقالات الحجاجية
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — تقييم ملاحظات ChatGPT داخل مقاطع الفيديو: الجودة اللغوية والدلالية والإدراكية (وانغ ودو وجين 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — تغلّبت تغذية الذكاء الاصطناعي الراجعة على محرّرين بشريين في رسائل الممارسة (ليرا وآخرون 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: توليد التغذية الراجعة بالنماذج اللغوية الكبيرة مع المربّين في الحلقة (زهاو وآخرون 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — موثوقية ملاحظة الفصل الدراسي بالنماذج اللغوية الكبيرة وحدودها (ميلو وآخرون 2026)
-- [[learner-centered-feedback-ai]] — ممارسات المعلمين وتصوّراتهم للتغذية الراجعة المتمركزة حول المتعلّم بالذكاء الاصطناعي (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — التغذية الراجعة المُنتَجة بالذكاء الاصطناعي في التعليم العالي
-- [[teaching-feedback-classification-benchmark]] — معيار تصنيف التغذية الراجعة التعليمية
-- [[becerra-aicofe-feedback-2026]] — AICoFE: تغذية راجعة تعاونية بالذكاء الاصطناعي
-- [[cong-confidence-asag-2026]] — تصحيح الأجوبة القصيرة الواعي بالثقة
-- [[choi-anchor-aes-prompting-2025]] — موجّهات AES القائمة على المراسي
-- [[ai-assistance-discretionary-feedback]] — مساعدة الذكاء الاصطناعي للتغذية الراجعة التقديرية
-- [[sequenced-ai-feedback-learning]] — التغذية الراجعة المتسلسلة بالذكاء الاصطناعي والتعلّم
-- [[eduframetrap-llm-sycophancy-educational-safety]] — التملّق خطر على السلامة التعليمية: لماذا يحتاج مدرّبو النماذج اللغوية الكبيرة إلى معايير تملّق
-- [[contextual-sycophancy-ai-literacy]] — الكلفة الخفية للتملّق السياقي: تدخّل في ثقافة الذكاء الاصطناعي
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — بيداغوجيات موسومة: التحيز في تغذية الكتابة الآلية
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — هندسة الموجّهات واختيار النموذج كمنبّئين بجودة تغذية الذكاء الاصطناعي الراجعة (ياكوبسن وآخرون 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — وسوم مصدر معشّاة على تغذية GPT-4 متطابقة: يخفض المعلّمون تصنيف التغذية الراجعة المنسبة إلى الذكاء الاصطناعي (مرتنز وآخرون 2026)
-- [[peer-group-vs-ai-feedback-2026]] — تحليل مقارن للتغذية الراجعة لمجموعة الأقران والتغذية الراجعة المُنتَجة بالذكاء الاصطناعي في تقويم الأقران: رؤى في جودة التغذية الراجعة وتصوّرات الطلاب في التعليم العالي
-- [[ai-assisted-physics-lab-report-assessment-2026]] — التقويم المساعد بالذكاء الاصطناعي لتقارير مختبرات الفيزياء التجريبية: الإمكانات والحدود والدعم للممارسة التعليمية
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — تقييم تركيز التغذية الراجعة والتكيّف البيداغوجي في التغذية الراجعة المُولَّدة بالنماذج اللغوية الكبيرة على كتابة الطلاب
-- [[risk-adaptive-genai-feedback-programming-2026]] — إطار متكيّف مع المخاطر ومقيَّد بالأدلة للتغذية الراجعة بالذكاء الاصطناعي التوليدي في تعليم البرمجة
-- [[real-time-ai-feedback-technical-skills-2026]] — تفسير «Clarify» بلغة المتعلّم ودفعات مساندة في مدرّب في الزمن الحقيقي: ما يجعل التغذية الراجعة المتزامنة قابلة للاستخدام (موريتالا وأحمد وأولومورين 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — المعلّم مقابل التغذية الراجعة بين الأقران المساعدة بالذكاء الاصطناعي: التصحيح الموثوق للأخطاء يتلاشى والتركيز الثابت يصمد، وما يفعله الطلاب بكلٍّ منهما (تانغ ولي ولو 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — وسوم مصدر عمياء ثم مُفصَح عنها على تغذية راجعة متطابقة: يصنّف الطلاب التغذية الراجعة الموسومة كذكاء اصطناعي أدنى ويقرأون التغذية الراجعة البشرية منخفضة التصنيف كذكاء اصطناعي
-
-- [[intelligent-tutoring-mathematics-education-review-2026]] — مراجعة سردية للتدريس الذكي في الرياضيات: مكاسب التغذية الراجعة في الزمن الحقيقي وشروط التنفيذ
-- [[agent-type-feedback-style-self-directed-learning-2026]] — أساليب التغذية الراجعة السقراطية مقابل التوجيهية: مراقبة الاستيعاب مقابل إعطاء الأولوية، وكلفة الحمل المعرفي
-- [[when-students-prefer-ai-scoring-feedback-2026]] — جودة تغذية الذكاء الاصطناعي الراجعة كما يدركها الطلاب: مفهومة لكن متكرّرة، موثوقة للميكانيكا لا للتفسير
-- [[lin-rag-lesson-generation-tutor-training-2026]] — دروس تدريب مدرّبين مُولَّدة باسترجاع معزّز طابقت الدروس التي أنشأها البشر عندما كانت التغذية الراجعة حاضرة؛ ظهرت أفضلية الإنسان فقط دون تغذية راجعة
-
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — ثلاثة أبعاد تقييم عبر 68 دراسة، ومواءمة سلم التقييم هي الرقيقة (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — تباين على مستوى المعيار وعلى مستوى المراجع في 157 رسالة تغذية راجعة مُقيَّمة (Vanhoyweghen et al. 2026)
-- [[liu-educational-sycophancy-2026]] — الصحة تعتمد على التفاعل: معدل انقلاب 12.7 بالمئة تحت الدفع المضاد (Liu وKorolova 2026)

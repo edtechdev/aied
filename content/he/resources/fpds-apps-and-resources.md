@@ -40,6 +40,7 @@ translation_of: resources/fpds-apps-and-resources
 updated: "2026-11-16T19:19:10-05:00"
 source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -57,7 +58,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 הקריאה אינה דורשת חשבון, וקורסי ה‑Canvas ורשימות הבדיקה שאליהם הוא מקשר ציבוריים. מאמני Playlab וה‑Gems והמחברות של Gemini הם שירותי צד-שלישי שכן דורשים חשבון. הכרטיסים מרונדרים מ‑`apps.json`, ולכן הרשימה המלאה דורשת JavaScript והחלופה ללא-סקריפט מכנה שמונה מתוך חמישה-עשר; הקישור הקצר `tinyurl.com/fpdapps` וקוד QR בכותרת פותחים אותו בטלפון. המאגר הוא תוכנה ברישיון MIT, בעוד המדריכים שאליו הוא מקשר נושאים את הרישיונות שלהם, וספר ה‑Pressbooks ביניהם תחת רישיון Creative Commons לא-מסחרי. אין לוח זמנים לפרסום, ולכן העמוד משתנה ללא הודעה.
-
-## מושגים מחוברים
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

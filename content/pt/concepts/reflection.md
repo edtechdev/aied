@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -165,45 +167,3 @@ Um prompt inicial que sobrevive à maioria dos modos de falha acima: *(1) O que 
 - **"A [[automated-assessment|avaliação automatizada]] resolve o problema de escala."** Classificadores alcançam cerca de 70% no nível de reflexão em um corpus bem anotado com desequilíbrio severo de classes, e esse teto está ao alcance de texto plausível.
 - **"Portfólios são reflexivos por natureza."** O recipiente não é o ato; um portfólio montado com produtos polidos pode não conter nenhuma reflexão.
 - **"A reflexão não precisa ser ensinada."** Tanto o corpus húngaro de ensaios quanto o experimento com professores em formação inicial pressupõem que nível e qualidade são aprendidos, e que a preparação muda os resultados.
-
-## Conceitos conectados
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Artigos conectados
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Experimento pré-registrado com 302 adultos: prompts de reflexão dobraram o tempo sobre o feedback e cortaram o volume de prática em 40% sem elevar o ganho por problema (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Modelo de reflexão de cinco partes ciente da GenAI, construído sobre prompts e iterações documentados em vez do texto final (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 ensaios anotados, desequilíbrio severo de classes, modelos rasos em 71% e transformers em 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 turnos codificados para explicar por que um parceiro de reflexão com IA deixou os usuários menos comprometidos (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflexão individual, colaborativa e comunitária com a IA como mediadora cognitiva (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 professores K–12: o tempo é o obstáculo do novato, o acompanhamento do desempenho o do experiente (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Quatro práticas de GenAI e onze processos, cada um capaz de apoiar ou substituir o pensamento reflexivo (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Experimento de campo randomizado 2×2 sobre sustentar uma rotina de diário reflexivo (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Teste 2×2 de treinamento em estratégias contra um parceiro de reflexão LLM socrático (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Ferramenta de autorreflexão não diagnóstica, sem pontuação composta (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Uso reflexivo de IA como construto medido, ligando aceitação a autoeficácia e engajamento (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Reflexão estruturada como entrada viva que recalibra o próximo ciclo de feedback (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Reflexão guiada dentro da autoavaliação para uso ético de GenAI (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 professores sobre reconhecer, redistribuir e reengajar reflexivamente após o uso de IA (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Artigo de posição: nenhuma evidência de que prompts de reflexão construam automonitoramento durável (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — E-portfólios no WordPress ao longo de 16 semanas com GenAI como provedora de feedback e sintetizadora (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT alinhado à avaliação por e-portfólio, λ de Wilks = 0.476, η² parcial = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Um andaime elevou a profundidade analítica e avaliativa enquanto o planejamento de ações ficou plano (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Mapeamento de 26 estudos: a reflexão é a fase menos atendida do ciclo de aprendizagem-serviço (Yusuf et al. 2026)

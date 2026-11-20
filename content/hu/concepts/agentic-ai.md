@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -185,62 +187,3 @@ Az ügynöki MI sem nem csodaszer, sem nem elkerülhetetlen kár: értéke a ter
 **„Az oktatási ügynöki rendszerek pedagógiailag megalapozottak, mert oktatáskutatók építik őket.”** A bizonyíték mást mond: egy áttekintő tanulmány szerint **az ügynöki MI-vizsgálatoknak csak 29%-a (474-ből 138)** alapozta kifejezetten oktatási elméletre a rendszerét. A technikailag és a pedagógiailag orientált munka közötti tudományági szakadék a terület állapota, nem egy szerző egyéni mulasztása, így a működő demó a várt kimenet, és a *tanulásért* működő demó a kisebbségi eset.
 
 **„A személyre szabó és elmélyítő tanulást nyújtó ágens nettó nyereség a csevegőbothoz képest.”** Sajátos cserét hordoz: az ügynöki rendszerek fenyegetik az [[agency|önállóságot]], és [[cognitive-offloading|eltolják]] a tanulás alapját képező kognitív erőfeszítést, és mivel több lépést végeznek felügyelet nélkül, nehezebb észrevenni ezt az eltolódást. Az automatizálás kontra tanulás feszültség a kategória központi analitikai problémája, nem az előnyeihez fűzött mellékmegjegyzés.
-
-## Kapcsolódó fogalmak
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Kapcsolódó cikkek
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — 60 kézzel írt vizsga ügynöki javítása: r = 0,97 összesítve, a kappa 0,65-re esik az értékelő tételeken
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — A tanuló mint részt vevő tag: többágenses szervezet, amely az értékelési érvényességet emeli (Fan és mtsai. 2026)
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Az autonómia, a kompetencia, a kapcsolódás és a társas jelenlét mint az ügynöki MI-től az elköteleződéshez vezető utak (Pramod és Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — MI-ágensek, örömteli értékelés és harmadik tér
-- [[ilieva-agentic-genai-higher-education-2026]] — Az AGAI-HE keretrendszer: kötött, ember által felügyelt ügynöki GAI a felsőoktatásban (Ilieva és mtsai. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Kritikai integráló áttekintés, amely bevezeti az AOE bizonyíték- és felügyeleti keretrendszert
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Nézet az inkluzív ügynöki többágenses MI-ökoszisztémákról a felsőoktatásban
-- [[baradziej-agentic-ai-higher-education-2026]] — Szisztematikus áttekintés az ügynöki MI szerepeiről a felsőoktatásban (48 tanulmány; hat szerep; háromrészes felelős integrációs keretrendszer)
-- [[kostopoulos-agentic-ai-education-2025]] — Ügynöki MI az oktatásban: a jelenlegi állás és a jövő irányai (IEEE Access felmérés; operatív definíció és taxonómia)
-- [[agentic-ai-education-scoping-review]] — Áttekintő tanulmány az ügynöki MI-ről az oktatásban (474 tanulmány)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Az automatizálás és a tanulás közötti feszültség
-- [[tool-invariant-framework-agentic-ai]] — Számítási módszerek tanítása és értékelése az ügynöki MI korában
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: oktatástervező ágensek benchmarkolása
-- [[adversarial-stress-testing-role-playing-agents]] — Szerepjátszó ágensek ellenséges stressztesztelése
-- [[ai-agents-constructive-conflict-design-education-2026]] — Konstruktív konfliktusú MI-ágensek a designtanulásban
-- [[ai-tpack-teacher-multi-agent-workflow]] — Tanári TPACK és többágenses munkafolyamatok
-- [[code-gen]] — Kódgeneráló ágensek
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagógiai LLM-ágens benchmark
-- [[guided-llm-scaffolding-independent-learning]] — Irányított LLM-állványozás az önálló tanuláshoz
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptív tanulóágensek
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Játékosított kiberbiztonsági tanulóágensek
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Ügynöki MI a klinikai szimulációban
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Szellemdidákok és az ügynöki MI ellenőrzési rése (Bozkurt és mtsai. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — MI-ágensek LMS-feladatok elvégzésekor; érvényességi kudarc az emberi előállítási feltevésen keresztül (Hadjisolomou és El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — MI-webágensek: egy leíró ágens mint tanulási élmény értékelő (előre jelzi a lemorzsolódást, tervezési visszajelzést ad, mielőtt a diákok belépnek)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD MI-ágensekkel szoftveres PBL-ben; automatizálás kontra megértés
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Állványozásorientált többágenses nagy nyelvi modell rendszer értékelése klinikai interjú képzéshez
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etikai képzőágensek: csoportalapú etikaoktatás elősegítése szerepjátékkal és vitával az etikai reflexió és feltárás érdekében
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — MI-megközelítések összehasonlítása az automatizált készségkinyeréshez: a beágyazásoktól az ügynöki rendszerekig a mérnökképzésben

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -39,6 +40,3 @@ Phần Giới thiệu của tuyển tập đóng khung một prompt như một t
 ## Những điều cần biết trước khi dùng nó
 
 Toàn bộ sách miễn phí ở dạng PDF và ePub, và từng chương được công bố riêng với DOI của nó. Sách xuất bản tháng 7 năm 2026 bởi WAC Clearinghouse trong loạt WAC Repository, 402 trang, do Anuj Gupta và Brian Gogan biên tập, với DOI tuyển tập 10.37514/TWR-B.2026.2999. Giấy phép là Creative Commons BY-NC-ND 4.0, nên người đọc có thể xem, in bản cá nhân và liên kết tới sách, nhưng không được tái tạo nó trên trang khác hay điều chỉnh mà không xin phép; một khóa học muốn sửa cách diễn đạt prompt nên tự viết phiên bản của mình thay vì in lại những prompt này. Prompt của mỗi chương đã được kiểm nghiệm trên các nền tảng, dù sách không báo cáo so sánh có đối chứng nào về kết quả, nên hãy coi các prompt là thiết kế của chuyên gia chứ không phải can thiệp đã được kiểm chứng.
-
-## Khái niệm liên quan
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

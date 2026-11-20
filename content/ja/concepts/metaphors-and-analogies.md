@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -124,37 +126,3 @@ ai_assist:
 - **「隠喩は中立的な挿絵である。」** あらゆる隠喩はある特徴を選び、他を隠します。その選択は主体性、信頼、責任についての想定を運びます。
 - **「AIが生成した類推はすぐ使える。」** 生成された類推は、構造的に誤っていたり、文化的に狭かったり、教授上適合しなかったりしえます。教師の検討か、学生の批判課題が必要です。
 - **「学生が類推を楽しめば、概念を学んだことになる。」** 関与と学習は別の成果です。ここでの証拠基盤は大部分が質的で、学習の伸びを確立していません。
-
-## 関連する概念
-
-- [[ai-literacy]] — 批判的AIリテラシーと隠喩に基づく教授の傘。
-- [[critical-thinking]] — 構造的な推論の一形態としての類推の批判。
-- [[misconceptions]] — 欠陥のある類推が持続する誤解の源となること。
-- [[student-ai-interaction]] — 学生がAIの説明をどう解釈し監査するか。
-- [[pedagogical-agent]] — 説明や類推を生成するAIチューター。
-- [[learning-design]] — 類推に基づく教材の選択と配列。
-- [[educational-development]] — 教員開発における隠喩の引き出し。
-- [[engineering-education]] — 工学における教員と学生の隠喩。
-- [[cs-education]] — コンピューティング教育における類推の使用と批判。
-- [[cognitive-offloading]] — 道具と助手の隠喩、およびその危険。
-- [[trust-calibration]] — 擬人的な役割と置き違えられた信頼。
-- [[equity-in-ai-education]] — 誰の源泉領域が馴染みのあるものとされるか。
-- [[teacher-role]] — AIが生成した説明に対する教員の判断。
-- [[explainable-ai]] — システムの説明と教授上の類推。
-- [[student-engagement]] — 個人化された類推の関与への効果。
-- [[higher-ed]] — このクラスターのほとんどの研究の場。
-
-## 関連する記事
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 批判的AIリテラシーを教えるための四つのメタファーと基準
-- [[student-reception-genai-analogies-computing-2026]] — 学生がGenAI生成のアナロジーを監査し、破綻した対応関係を修復する
-- [[fear-awe-genai-metaphor-workshops-2025]] — 学生・教員・職員とともに取り組むメタファー分析ワークショップ
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学部教員のメタファーがAI理解を構築し、同時に制約する
-- [[genai-professionalization-metaphors-2026]] — GenAIと専門的学習についての学生のメタファーによる概念化
-- [[thermomix-genai-education-analogy-2026]] — AIへの委任とAIによる学習を表す調理マシン・アナロジー
-- [[anvil-ai-educational-animations]] — コンピューティングのためのAI生成アナロジーと教学アニメーション
-- [[ai-engineering-education-balancing-act]] — 学生の「オラクル」と「チューター」のメタファーはLLMの能力を超えている
-- [[code-anchor-multi-view-visualization]] — メタファー的な可視化による足場かけとその正当性の問題
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — リテラシーの証拠としての、ある学生の「フィードバックの自動販売機」メタファー
-- [[daoism-ai-education-philosophy-2026]] — 教育におけるAIへの対抗メタファーとしての「Zhenren」
-- [[rodak-hire-ai-future-focused-literacy-2026]] — 雇われたアシスタントというメタファーと、学生が作成した業務範囲

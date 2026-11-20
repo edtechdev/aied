@@ -13,6 +13,8 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 > **Developmental psychology** — the study of how cognitive, linguistic, social, emotional and motivational capacities change with age, and of the constraints those changes place on what a learner can do and what support they need. In [[ai-education|AI in education]] it supplies the question behind every age claim: not "does this tool work" but "does it work for a mind at this stage, doing this particular thing". It explains why the same [[generative-ai|generative AI]] tool is a reasonable study aid for a 20-year-old and a developmental risk for a 7-year-old, and to mark where such claims rest on hypothesis rather than measured outcome.
@@ -87,36 +89,3 @@ Policy and procurement documents use "age-appropriate" as if it were a property 
 - **"If two age groups differ, development explains it."** Cross-sectional age differences confound cohort, curriculum, device access and context. Only designs that follow the same learners can separate change from difference.
 - **"A tool that supports performance is developing the capacity."** Compensation, scaffolding and development are distinct functions; only the last is expected to persist once the tool is removed.
 - **"AI toys are neutral play materials."** The agency-redistribution argument says otherwise: the toy's responsiveness shapes who is doing the imagining.
-
-## Connected Concepts
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12 AI literacy studies: a four-band progression with no study following the same learners across levels (Guo, Ali & Wong, 2026)
-- [[ai-toys-child-development-2026]] — AI-enabled toys redistribute agency in play (Xu, Girouard & Shi)
-- [[clara-developmental-appropriateness-children-stories-2026]] — Developmental-appropriateness scoring from a 122-label taxonomy
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scoping review of GenAI and children's creative thinking
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Compensation, scaffolding and development as three tool functions
-- [[genai-reliance-executive-functioning-2026]] — Adolescent GenAI reliance as preference over effort
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Children and adults conversing with ChatGPT in the scanner
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — What adolescents disclose to chatbots, not how much they use them
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI connectedness as an ethically asymmetric bond (theory)
-- [[ai-play-framework-early-childhood-2026]] — Play-based unplugged AI literacy for pre-K and kindergarten
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Two age-tiered editions of an AI literacy guidebook
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice early childhood educators designing with GenAI
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Chatbot training for executive functions, ten studies
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Dependence, stress and executive dysfunction in university students

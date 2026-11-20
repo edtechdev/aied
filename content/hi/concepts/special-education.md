@@ -18,6 +18,8 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -66,33 +68,3 @@ confidence: high
 - **"[[usability-research|उपयोगिता]] रेटिंग सहायक उपकरण को वैध ठहराती है।"** चिकित्सकों ने सह-डिज़ाइन किए गए Social Story उपकरण को **अत्यधिक उपयोगी (SUS 86.8)** बताया, फिर भी उसकी **तस्वीरें सामान्य रूप से पश्चिमी** और उसका **व्यवहार ट्रैकर लक्ष्य-जुड़े नैदानिक निर्णय से बेमेल** कहा। उच्च उपयोगिता ठोस विफलताओं के साथ रही, इसलिए SUS स्कोर उपयुक्तता का समर्थन नहीं है।
 - **"सामान्य बेंचमार्क बताते हैं कि ट्यूटर विशेष-शिक्षा मामलों को कैसे संभालता है।"** विशेष-शिक्षा और शैक्षिक-मनोविज्ञान साहित्य से लिए गए **923 मामला-आधारित संवादों** में से **11 मॉडलों में सर्वश्रेष्ठ** ने प्रलेखित मानदंड संतुष्ट किया, और **चुनौतीपूर्ण व्यवहार वहाँ है जहाँ ट्यूटर बेंचमार्क रुक जाते हैं**। मानक मूल्यांकन उन मामलों तक नहीं पहुँचते जिनमें चिकित्सकों को सबसे अधिक सहायता चाहिए।
 - **"तंत्रिका-विविध शिक्षार्थियों को समायोजन चाहिए, डिज़ाइन आवश्यकताएँ नहीं।"** [[neurodivergent-computing-students|Zastudil एट अल.]] ने पाया कि तंत्रिका-विविध कंप्यूटिंग छात्रों को **संरचित असाइनमेंट, छोटी स्थिर टीमें और स्पष्ट भूमिका परिभाषाएँ** चाहिए, सामान्य डिज़ाइन आवश्यकताएँ जो सभी को लाभ देती हैं, नैदानिकी के बाद दिए जाने वाले व्यक्तिगत समायोजन नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## संबंधित लेख
-- [[seung-basham-cognitive-offloading-swld-2026]] — SWLD वाले छात्रों के लिए GenAI संज्ञानात्मक अफलोडिंग
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — बहरे और कम श्रवण वाले शिक्षार्थियों के लिए LLM-संचालित प्रश्न निर्माण
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव AI, वर्चुअल रियलिटी और उससे आगे: उच्च शिक्षा में तंत्रिका-विविध छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों की एक स्कोपिंग समीक्षा
-- [[adapted-stories-social-story-intervention-2026]] — विशेष शिक्षा के लिए AI-सहायित सोशल स्टोरी हस्तक्षेप: AdaptED Stories का डिज़ाइन
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: चुनौतीपूर्ण व्यवहार वाले छात्रों पर LLM ट्यूटरों का मूल्यांकन (Park एट अल. 2026)
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — एक विज़न-भाषा मॉडल Nao रोबोट के लिए Shoebox Tasks की योजना बनाता है (Kudláčková 2026)

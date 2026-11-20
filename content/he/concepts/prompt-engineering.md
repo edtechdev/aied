@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -94,59 +96,3 @@ ai_assist:
 - **"איכות ההנחיה היא תכונה של הסטודנט."** **קוגניציית ההנחיה עוקבת אחר תחום הדעת, לא אחר הסטודנט**: [[student-ai-conversations-cognitive-engagement-2026|Chang ו‑Li (2026)]] סיווגו **60,087 הנחיות מ‑116 קורסים** ומצאו שתחום הדעת ניבא את תחכום ההנחיה. לימוד סטודנטים להנחות טוב יותר מתייחס לשונות שיושבת בחומר הנלמד.
 - **"סטודנטים מפתחים פרקטיקת הנחיה משלהם."** כאשר המרצה הדגים את ההנחיה, **הסטודנטים השתמשו בה מחדש כפי שהיא** — בקרב **310 הנחיות מוקלטות משתים-עשרה קבוצות STEAM של חטיבת ביניים**, העתקה מדויקת של הוראת המרצה הייתה נפוצה. הדגמה מייצרת שחזור, ולכן היא מנוף של תכן מערכת ולא מיומנות ניתנת-להעברה.
 - **"הנחיה היא קודם מיומנות לומד ורק אחר כך תכונת מערכת."** הדבר מעביר את ההנחיה **למנוף של תכן מערכת אדפטיבית**, עם אפקטים נמדדים על **מעורבות ויעילות (28.1% לעומת 19.6% המרת תרגילים)**. היכולות ההנחייתיות של הממשק הזיזו התנהגות יותר מאשר הוראה בהנחיה.
-
-## מושגים קשורים
-
-- [[pedagogical-patterns]] — שכבת הפיגום בתוך סדרות שימוש מובנות
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — מטריה: טכנולוגיות וטכניקות בינה מלאכותית (מודלים, אימון LLM, רובוטיקה, RAG, סוכנים)
-
-## מאמרים קשורים
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — הנחיות תפקיד ואילוצי סוכן כמשתנה התכן בלמידת פיזיקה (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — הנחיה לעומת מכוון-עדין לייצור פריטי שמיעה בשפה שנייה מבוסס GPT (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — מה שתלמידים שואלים חשוב: עומק אינטראקציית LLM, איכות משימה וזכירה מיידית (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: אימון בזמן אמת להנחיית LLM חינוכית
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — טקסונומיה מבוססת-משימה של משימות LLM לאוריינות בינה מלאכותית ביקורתית בעיתונות
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[idea-framework-metacognitive-genai-2026]] — מסגרת IDEA לשימוש מוסדר-מטאקוגניטיבי בבינה מלאכותית גנרטיבית
-- [[lin-llm-interactive-lesson-generation]] — ייצור LLM של שיעורי אימון חונכים אינטראקטיביים (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — הנחיות UNESCO לבינה מלאכותית בתרגום לחינוך כימי; סטייה אפיסטמית
-- [[isaza-chatgpt-engineering-prompting-2026]] — התנהגויות הנחיה חוזות לביצועי סטודנטים להנדסה
-- [[student-ai-conversations-cognitive-engagement-2026]] — מעורבות קוגניטיבית ברמת בלום הקשורה-תחום בשיחות תלמיד-בינה מלאכותית (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs כסוכנים של תכן פדגוגי איטרטיבי
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — הנדסת הנחיות לעומת אוריינות הנחיה: מסגרת מעורבות GenAI מונחית-אדם בת חמש שלבים עם מחזור אוריינות הנחיה בת חמישה שלבים (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — הנדסת הנחיות ובחירת מודל כחוזי איכות משוב בינה מלאכותית (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-
-- [[middle-school-genai-steam-interactions-2026]] — קבוצות STEAM של בית ספר ביניים העתיקו את הוראת המרצה כפי שהיא ב-47.1% מההנחיות
-- [[ecd-prompts-automated-essay-scoring-2026]] — שימוש בעיצוב-ממוקד-ראיה להנחיית הנדסת-ההנחיות במדידה: המחשה עם ניקוד-חיבורים אוטומטי
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 סטודנטים על מה שהם מוצאים קשה: יישור כוונה, לא תחביר הנחיה
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — הנחיות מעורפלות יצרו לולאות הבהרה החוזרות על עצמן עם פער התסכול הגדול ביותר
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — כשירות הנדסת הנחיות כמסלול שוויון, עם ניסוי פיגום חוצה-מודלים (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — אוריינות הנחיה כיכולת נתפסת שעדיין חוזה מעורבות
-

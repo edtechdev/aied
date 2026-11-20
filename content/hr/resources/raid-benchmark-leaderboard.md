@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,9 +42,3 @@ Istraživači koji evaluiraju metode otkrivanja, administratori koji pišu polit
 ## Napomene i upozorenja
 
 Benchmark mjeri otkrivanje strojno generiranog teksta, a ne nepoštenje: student koji koristi AI za planiranje, izradu nacrta ili reviziju proizvodi tekst koji detektori nisu izgrađeni da uhvate, a student koji [[language-learning|piše na drugom jeziku]] poznat je rizik lažno pozitivnih koji ljestvica ne može pokazati. RAID je istraživački artefakt koji održava akademski tim; pokrivenost prati generativne modele u njegovu testnom skupu, pa noviji modeli mogu biti nedovoljno zastupljeni dok se benchmark ne osvježi. Ljestvica rangira detektore, a ne prakse rukovanja podacima njihovih dobavljača, a visok AUROC ne govori ništa o tome je li slanje studentskih radova toj usluzi zakonito ili etično u vašoj jurisdikciji.
-
-## Povezani pojmovi
-
-- [[ai-detection]] — obitelj metoda koju benchmark evaluira
-- [[academic-integrity]] — kontekst politike u kojemu se rezultati detektora koriste
-- [[benchmark]] — šira klasa instrumenata kojoj ovo pripada

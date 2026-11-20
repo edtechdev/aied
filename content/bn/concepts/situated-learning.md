@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -57,29 +59,3 @@ ai_assist:
 - **"প্রামাণিকতা কাজের একটি বৈশিষ্ট্য।"** প্রামাণিকতা কার্যক্রম ও একটি বাস্তব সম্প্রদায়ের বৈধ কাজের মধ্যেকার সম্পর্ক। একটি কাজ বিস্তৃত হতে পারে তবুও বিদ্যালয়-আকৃতির — একজন শিক্ষক দ্বারা মূল্যায়িত, একটি নম্বরের জন্য, যে জগতের প্রতিনিধিত্ব করার দাবি করে সেখানে কোনো পরিণতি ছাড়াই।
 - **"কাজ থেকে মূল্যায়ন উঠে আসা মানে কোনো মূল্যায়ন নেই।"** তার অর্থ মানদণ্ডটি সম্প্রদায়ের, শ্রেণিকক্ষের নয়: কাজটি যারা করে তাদের কাছে গ্রহণযোগ্য কি না। এটি রুব্রিকের চেয়ে ভিন্ন এবং সাধারণত কঠোরতর মান।
 - **"শিক্ষানবিশি করতে শারীরিক পরিবেশ দরকার।"** কার্যপ্রণালী হলো বৈধ প্রান্তিক অংশগ্রহণ — প্রকৃত দায়িত্ব নিয়ে অনুশীলনের কিনারা থেকে তার কেন্দ্রের দিকে এগোনো। অনলাইন ও সিমুলেটেড পরিবেশ এটি সমর্থন করতে পারে, বা প্রান্তের অনুকরণ করতে পারে কখনও অংশগ্রহণ না দিয়েই, আর পার্থক্যটি হলো শিক্ষার্থীর অবদান সত্যিই ব্যবহৃত হয় কি না।
-
-## সংযুক্ত ধারণা
-- [[learner-identity]] — বিকশিত শাস্ত্রীয়, পেশাগত, সৃজনশীল ও একাডেমিক শিক্ষার্থী-পরিচয়
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — প্রকৃত প্রসঙ্গে পৌঁছানোর একটি পথ হিসেবে নিমজ্জনমূলক পরিবেশ
-
-## সংযুক্ত নিবন্ধ
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — দৃশ্যপট যোগ পুনর্ব্যবহারযোগ্য উৎস-বহনকারী সম্পদ দুটি পরীক্ষায় সাধারণ সহায়ককে হারিয়েছে
-
-- [[vargas-situated-learning-ai-review-2024]] — শিক্ষায় পরিস্থিতিভিত্তিক শিখন ও এআই-এর PRISMA পদ্ধতিগত পর্যালোচনা (এই পাতার প্রধান সূত্র)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্তিমূলক শিক্ষাগত নকশার এজেন্ট হিসেবে LLM

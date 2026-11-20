@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -87,28 +89,3 @@ Programu ya utafiti ingehitaji vipimo vya msingi na vya baada ya kujifunza kwa u
 **"Ilani bora zitazalisha masomo bora ya uraia."** Toleo la maingiliano lilileta tofauti ndogo sana, na chatbot zote tatu zilizalisha muundo ule ule katika viwango 53. Ubora wa ilani haukuirejesha muundo wa kitaaluma.
 
 **"Kuna ushahidi wa kutosha kuongoza utendaji."** Kuna wa kutosha kuhalalisha tahadhari. Uchambuzi mmoja wa maudhui, muunganisho mmoja wa nyaraka, [[mixed-methods-research|utafiti mmoja mdogo wa mbinu mchanganyiko]], na vipande kadhaa vya dhana au sera havithibitishi kinachofanya kazi.
-
-## Dhana zinazohusiana
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — Mwavuli: kile wanafunzi wanahitaji kujua kuhusu mifumo ya AI
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — upotoshaji na ushawishi uliozalishwa kama madhara ya kijamii
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Makala zinazohusiana
-
-- [[civic-education-ai-lesson-plans]] — mipango 310 ya masomo iliyozalishwa na AI kwa viwango 53 vya uraia: 90% ya ngazi ya chini, 94% bila maudhui ya kitamaduni (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Utawala wa mipaka kwa algoriti na mahitaji matano ya uelewa wa kidijitali wa kiraia nchini Afrika Kusini (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Mahojiano ya wataalamu na utafiti wa wanafunzi kuhusu uelewa wa kihakiki wa vyombo vya habari na uraia shirikishi (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Malengo ya walimu wa Kifini kwa elimu ya AI yanayosomwa kupitia sifa, ujamaishaji, na ubinafsishaji
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Maono ya uelewa wa sayansi, yakiwemo maisha ya kiraia na ushiriki wa kidemokrasia (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Uhariri unaotaja deepfake na upotoshaji wa kiotomatiki kama vitisho vya kidemokrasia (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — Sera ya elimu ya watu wazima na lengo la kiraia la kujifunza maisha yote (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — Nyaraka 160 za utawala; demokrasia na utawala wa sheria vikitajwa katika 92, nguvu ya kisheria katika nne (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Hoja ya kidemokrasia kwa lugha ya nadharia ya kisiasa: mazoea yanadhoofika, mbinu, na hatari za kimabavu

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -103,40 +105,3 @@ ai_assist:
 **「飽和は参加者数の性質である」。** それは分析の性質です。新しいデータが新しいコードを生まなくなる時に止めます。同じ標本サイズの二つの研究が、飽和から等しく遠いこともあります。だからこそ、参加者数を妥当性の証拠として挙げる報告は、網羅性について何も示していないのです。
 
 **「量的知見と質的知見は競合する」。** 両者は異なる問いに答えます。調査はどれだけの学生がチューターを信用しないかを教え、インタビューはなぜを教えます。両者を同じものについての競合する説明として扱うことは、レビューの節が繰り返し再生産している偽の二者択一を生みます。
-
-## 関連する概念
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AIに支援された教育研究
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## 関連する記事
-- [[chain-behind-claim-warrantability-2026]] — AIに支援された質的分析のための保証可能性の基準
-- [[liu-tool-tutor-crutch-programming-2026]] — 道具か、チューターか、杖か: AIに支援されたプログラミングのグラウンデッド・セオリー
-- [[trio-ethnography-llm-programming-education]] — LLMに支援されたプログラミングにおける解釈の進化のトリオ・エスノグラフィー
-- [[absent-cognitive-baseline-2026]] — AIネイティブな生徒の自己評価における構造的隔たりの理論化
-- [[t2i-competence-paradox-2026]] — テキスト-to-画像GenAI利用における能力のパラドックス
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 物理学教育における信頼と有用性のギャップ
-- [[genai-teacher-feedback-comparison]] — GenAIと教師のフィードバックの比較: 生徒の知覚
-- [[hazra-safetutors-pedagogical-safety-2026]] — AIチューターの安全性と教授法的な害
-- [[zha-ai-literacy-biology-case-study]] — 生物学の授業におけるAIリテラシー統合のケーススタディ
-- [[becker-chatgpt-typology-physics-2026]] — 物理学におけるChatGPT採用の質的な類型
-- [[scaffolding-critical-engagement-genai-minority-students]] — 少数民族の生徒の間でのプロンプトエンジニアリングにおける協同的な談話
-- [[human-vs-llm-ordered-coding]] — 質的データに対する人間とLLMの順序付きコーディングの比較
-- [[agreement-not-quality-llm-coding-verification]] — LLMの質的コーディングにおける一致は質ではない
-- [[same-ai-different-pathways]] — 文脈をわたるAI媒介の学びのメカニズムの解明
-- [[drummond-genai-business-schools-framework-2026]] — ケーススタディによる生徒の視点から得られたGenAIの枠組み
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — 批判的AIチューター: 力づけるのか隷属させるのか
-- [[genai-runaway-object-math-higher-ed]] — 高等教育の数学における暴走する対象としてのGenAI
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 視覚に障害のある学習者のための支援的なGenAI
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — EFL学習者のGenAI支援ライティングにおける感情的関与:縦断的な複数ケーススタディ

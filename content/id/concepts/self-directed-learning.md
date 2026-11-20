@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,13 +51,11 @@ Pembelajaran mandiri adalah tetangga dekat [[self-regulated-learning|pembelajara
 
 - **Penggunaan tanpa panduan pada skala populasi.** Di antara 4,062 siswa di 136 sekolah menengah Jerman, penggunaan GenAI untuk menyelesaikan tugas dan yang berorientasi belajar sama-sama meningkat sepanjang satu tahun ajaran (d = 0.35 dan 0.33), dengan hanya 5% siswa yang tidak pernah menggunakan alat itu; capaian awal yang lebih rendah memprediksi lebih banyak penggunaan berikutnya di keenam mata pelajaran, namun tidak satu pun bentuk penggunaan memprediksi capaian sesudahnya ([[scherer-self-directed-genai-use-secondary-2026|Scherer dkk. (2026)]]).
 
-
 - **Offloading kognitif dan delegasi.** [[andragogy-cognitive-delegation-genai-2026|Andragogi dan delegasi kognitif]] serta [[learning-by-chatting-genai-impact|belajar dengan mengobrol bersama GenAI]] menelaah bagaimana pembelajar dapat mendelegasikan kerja kognitif kepada AI dengan cara yang melewati pemrosesan penuh usaha yang dibutuhkan SDL — sebuah mode kegagalan dari alat yang sebenarnya mendukung otonomi. [[critical-thinking-genai-scaffolding|Merancah berpikir kritis dengan GenAI]] dan [[test-driven-ai-assisted-learning|pembelajaran berbantuan AI yang digerakkan tes]] memodelkan desain yang lebih produktif.
 
 ## Pembedaan SDL–SRL dalam praktik
 
 Karena SDL menekankan pengarahan yang diinisiasi pembelajar, intervensi untuk melindunginya berfokus pada pelestarian [[agency]] dan efikasi diri alih-alih sekadar meregulasi perilaku dari momen ke momen. Bukti bahwa penggunaan AI tanpa berpikir menggerus motivasi dan efikasi diri — sumber daya psikologis yang menjadi sandaran SDL — mengisyaratkan bahwa mendorong [[ai-literacy|penggunaan AI yang bertanggung jawab]] bukan sekadar persoalan integritas melainkan persoalan perkembangan: melindungi kapasitas siswa mengarahkan pembelajarannya sendiri.
-
 
 ## Perancahan Ekstraksi AI untuk Pembelajaran Berbasis Riset
 
@@ -87,30 +87,3 @@ Karena SDL menekankan pengarahan yang diinisiasi pembelajar, intervensi untuk me
 **Bagi peneliti**
 
 - Laporkan konstruk mana yang menjadi sasaran intervensi; hasil SDL dan SRL tidak boleh dipertukarkan.
-
-## Konsep terkait
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Artikel terkait
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Penggunaan GenAI tanpa berpikir dan pembelajaran mandiri (SEM, perbedaan gender)
-- [[ai-lifelong-learning-policy]] — Kebijakan AI dan pembelajaran sepanjang hayat
-- [[self-directed-growth-generative-ai-learning-analytics]] — Pertumbuhan mandiri dengan GenAI dan analitik pembelajaran
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisis hasil pendidikan AI generatif
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogi dan delegasi kognitif dengan GenAI
-- [[kim-ai-andragogy-2026]] — Aplikasi AI dalam mendukung andragogi (Kim dkk. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[scherer-self-directed-genai-use-secondary-2026]] — Penggunaan AI generatif mandiri dan perkembangan akademik di antara siswa sekolah menengah: studi longitudinal satu tahun berskala besar
-
-- [[llm-goal-selection-self-directed-learning-2026]] — Model tidak memilih tujuan belajar seperti manusia dalam tugas pilihan bebas (Molinaro dkk. 2026)

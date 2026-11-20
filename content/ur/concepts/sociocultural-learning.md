@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -76,32 +78,3 @@ ZPD (Vygotsky) وہ سماجی ثقافتی تصور ہے جو [[intelligent-tut
 **"گروہ میں اوزار شامل کرنا صرف گروہ کی کارکردگی بدلتا ہے۔"** یہ محنت کی تقسیم بدلتا ہے، جو نظریے کا تجزیاتی اکائی ہے۔ جو گروہ اپنے بیشتر سوالات کسی ایجنٹ کی طرف بھیجے، اُس نے علمی کام دوبارہ تقسیم کر دیا ہے، چاہے اخراج ویسا ہی رہے۔
 
 **"تقسیم شدہ علم کا مطلب فرد کی کوئی اہمیت نہیں۔"** اِس کا مطلب یہ ہے کہ فرد کا حصہ محض انفرادی کارکردگی سے نہیں پڑھا جا سکتا؛ تجزیے کی اکائی سرگرمی کا نظام ہے، تنہا شخص نہیں۔
-
-## منسلک تصورات
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## منسلک مضامین
-- [[youth-enter-chat-llm-student-talk-2026]] — جب نوجوان گفتگو میں آتے ہیں: طلبہ کی گفتگو کے LLM پر مبنی پیمانوں کی تصدیق
-- [[generative-ai-mediational-agent-sociocultural-2026]] — جنریٹیو AI بطور وساطتی ایجنٹ
-- [[golrang-propact-pair-programming-2026]] — باہمی AI ٹیوٹرنگ
-- [[finkelstein-principled-ai-education-2025]] — اصولی AI تعلیم کے فریم ورک
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 میں AI کے لیے Stanford کی شہادتی بنیاد
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 میں GenAI کا Sydney تیز جائزہ
-- [[ai-cognitive-partner-co-regulation-learning]] — AI بطور علمی ساتھی اور شریک ضابطگی
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM کے لکھے اشارے ریاضی سیکھنے کے فوائد میں انسانی ٹیوٹر کے اشاروں کے برابر رہے (Pardos اور Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — واپسی اِس پر کہ سیکھنے والے کا مرحلہ کس چیز کو نشانہ بناتا ہے، اِس پر نہیں کہ جواب کتنا گہرا ہے

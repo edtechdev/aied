@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -113,38 +115,3 @@ ai_assist:
 **「誤りから降伏が生じるのだから、解決策はより良いAIである。」** 降伏は相互作用の*構造*から生じます。もっともらしい答えを先に出すシステムは、学習者が自分で答えを生み出す機会を取り除きます。正確さを改善することは、誤った答えによる害を減らしますが、判断を形成することを放棄することには何も働きかけません。それが、道具がなくなった後も残る害なのです。
 
 **「批判的な評価を教えるだけで十分である。」** それは必要ですが、あまりに遅く届きます。もっともらしい答えが画面に出てしまえば、評価は確認になります。だからこそ、この分野の設計文献は、システムの出力を後から監査するのではなく、学習者の試みをシステムの出力の前に置くのです。
-
-## 関連する構成概念
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## 関連する記事
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — 自然な状況での小論文全体の委任：77 本の小論文のうち 15 本が完全にモデルが執筆し、20 件が小論文全体の要求だった
-
-- [[shaw-nave-cognitive-surrender-2026]] — 三システム理論と降伏の実験的な特徴
-- [[generative-ai-reduced-study-time-math]] — ALEKSにおける集団水準の置き換え
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12における降伏/オフローディング/エージェンシーの枠組み
-- [[du-yuan-epistemic-dependence-2026]] — 手段的な支援と判断を伴う支援
-- [[ai-advice-suppresses-ikt-suspension-2026]] — 「分からない」の崩壊
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 神経的な関与と所有
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 思慮なき使用と自律学習
-- [[stamatoulis-genai-use-patterns-2026]] — 検証の乏しい受容と評価的な統合
-- [[cognitive-washout-ai-skill-decay-2026]] — 撤回後に何が起こるか
-- [[ai-overreliance-complex-adaptive-system-2026]] — 集団の過程としての依存
-- [[brcic-effortless-trap-productive-struggle-2026]] — 課題が労力を要するものにとどまるようAIを配置すること
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — 較正訓練
-- [[family-school-autonomy-support-genai-2026]] — 依存的オフローディングと自律的オフローディング
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — ワークシートに接地されたアシスタントはオフローディングを上げるのではなく下げた、降伏の特徴にとっての境界条件(Braun 2026)

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -46,13 +47,3 @@ Javne knjižnice koje žele ugostiti kiosk (program prima prijave za pilot lokac
 - Knjižnice sudionice doprinose **\$1,000 po postavljanju kioska godišnje**; sam je pilot ograničen na lokacije koje su se prijavile.
 - Izjava o privatnosti tvrdnja je programa, a ne revidirani nalaz; knjižnica bi trebala potvrditi uvjete zadržavanja i sigurnosti djece u vlastitom ugovoru o obradi podataka.
 - Druga i treća faza plana, koje knjižnicama omogućuju unos lokalnih arhiva i upravljanje nastalim sustavima, planirane su, ali nisu isporučene.
-
-## Povezani pojmovi
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

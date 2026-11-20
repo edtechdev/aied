@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -45,12 +46,3 @@ AI Teaching Assistant Pro는 교과 자료를 교수 산출물로 바꿉니다. 
 ## 참고 사항
 
 두 앱 모두 무료이고 개인 정보를 요구하지 않지만, "비공개이고 익명"은 "데이터 없음"과 같지 않습니다. Contact North의 정책은 ChatGPT 상호작용 로그와 Google Analytics 데이터를 수집하고, 캐나다 서버에 저장하며, OpenAI가 그것으로 훈련하는 것을 허용하지 않고, 상호작용 데이터를 OpenAI와 공유하며 OpenAI는 최대 30일 동안 보관한다고 밝힙니다. AI Tutor Pro는 부모나 보호자의 허락 없이 18세 미만 사용자에게 권장되지 않습니다. 벤더의 상호작용 수치는 독립적인 사용 데이터가 아니라 자체 마케팅 수치이며, Slide Builder의 베타 표시는 교실에서 쓰기 전에 그 출력을 확인해야 함을 뜻합니다. 오픈소스 라이선스가 명시되어 있지 않아, 기관이 수정할 수 있도록 코드를 이용할 수는 없습니다.
-
-## 연결된 개념
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -39,6 +40,3 @@ ai_assist:
 ## Čo treba vedieť pred použitím
 
 Celá kniha je zadarmo v PDF a ePub a jednotlivé kapitoly vychádzajú samostatne s vlastnými DOI. Vydanie je z júla 2026 vo WAC Clearinghouse v sérii WAC Repository, 402 strán, zostavili Anuj Gupta a Brian Gogan, DOI zbierky 10.37514/TWR-B.2026.2999. Licencia je Creative Commons BY-NC-ND 4.0, takže čitatelia môžu knihu prezerať, tlačiť osobné kópie a odkazovať na ňu, ale nesmú ju reprodukovať na inom webe ani prispôsobovať bez povolenia; kurz, ktorý chce upravené znenie promptu, by si mal napísať vlastnú verziu, nie pretlačiť tieto. Prompt každej kapitoly sa testoval naprieč platformami, hoci kniha neuvádza kontrolované porovnanie výsledkov, takže prompty berte ako odborný návrh, nie ako validovanú intervenciu.
-
-## Prepojené pojmy
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

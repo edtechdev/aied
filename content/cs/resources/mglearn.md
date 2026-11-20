@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -44,7 +45,3 @@ Je určena pro učitele K–12 a pro rozvojové pracovníky, kteří je školí,
 ## Poznámky a upozornění
 
 Obsah je licencován CC BY-NC 4.0 a základní kód MIT: použití ve výuce, místní hostování a úpravy jsou povoleny s uvedením zdroje, zatímco prodej materiálů nebo jejich zabalení do placeného školení vyžaduje písemné svolení TCEA. Díla jiných autorů jsou z licence vyňata a literární aktivity nepřetiskují žádný text z děl chráněných autorským právem. Projekt uvádí, že obsah i překlady vznikly s generativní AI pod redakčním dohledem a že překlady jsou strojově podpořené a označené k místnímu posouzení vzdělavatelem před použitím ve výuce, což stojí za to brát vážně, než je okres přijme ve velkém. Každá aktivita běží v prohlížeči studenta bez přihlášení a bez sběru dat.
-
-## Související pojmy
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

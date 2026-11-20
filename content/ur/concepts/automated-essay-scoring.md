@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -70,7 +72,6 @@ ai_assist:
 
 **انسانی [[benchmark|بینچ مارک]]، اور وہ کس چیز کی اجازت دے سکتا ہے اور کس کی نہیں۔** [[opraise-automated-marking-ai-assessment-2026|OpRaise مطالعہ]] اِس علمی ذخیرے میں سب سے مضبوط امتحان ہے کہ LLM مارکنگ معمول کے استعمال کے لیے تیار ہے یا نہیں، اور اُس کا جواب ماڈل کے بجائے بینچ مارک پر منحصر نکلتا ہے۔ اُس نے تین سرکردہ نظاموں (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash) کا، ہر ایک کو 27 پرامپٹ ترتیبوں کے تحت جو روبرک کی تفصیل، کیلیبریشن اور اسکورنگ حکمت عملی کو عبور کرتے تھے، تین برطانوی [[higher-ed|یونیورسٹیوں]] کے 125 طلبہ کے 761 اصلی نفسیات مضامین کے معتدل نشانوں سے موازنہ کیا۔ انسانی نشانوں کو بنیادی سچ تسلیم کیا گیا کیونکہ تعلیمی فیصلہ سماجی طور پر تسلیم شدہ معیار ہے، اور مصنفین نوٹ کرتے ہیں کہ انسانی نشان زد کرنے والے آپس میں صرف معتدل حد تک متفق ہوتے ہیں — جو اِس بات کی حد مقرر کرتا ہے کہ AI اور انسان کے اتفاق سے کتنی مضبوطی معقول طور پر توقع کی جا سکتی ہے۔ اُس بینچ مارک کے مقابلے میں برطانوی ڈگری بینڈ پر اتفاق **ادارے کے لحاظ سے 35 سے 65 فیصد** تک رہا (کیمبرج میں 63 فیصد، ناٹنگھم میں 53 فیصد، مانچسٹر میٹروپولیٹن میں 35 فیصد) اور اداروں کے درمیان منتقل نہیں ہوا، لہٰذا رپورٹ کی مرکزی سفارش کسی ادارے کے اپنے [[assessment]] مواد پر مقامی توثیق ہے۔ دو نتائج اِس کارپس سے آگے عام ہیں۔ پہلا، اعتبار اور اتفاق الگ الگ سمت کھینچتے ہیں: ہر ماڈل نے تقریباً یکساں طور پر دوبارہ مارکنگ کی (ICC 1.00، 1.00، 0.97) اور ماڈلز آپس میں انسانوں سے زیادہ قریب متفق ہوئے (تین ماڈلز کا ICC 0.91)، پھر بھی تینوں صرف **56 فیصد** جمع شدہ کاموں پر ڈگری بینڈ سے متفق ہوئے — خود مستقل مزاجی اعتبار نہیں ہے۔ دوسرا، AI کے نشان پیمانے کے وسط کی طرف سکڑ گئے (سکڑاؤ کا اسکور 0.47–0.82، اور وہ مقام جہاں AI اور انسان اوسطاً متفق ہوتے ہیں اوپر کے پچاس کی دہائی سے نیچے کے ساٹھ کی دہائی میں تھا)، جس سے AI بالکل اُن گریڈ حدود پر سب سے کم درست ہوا جو Firsts کو Upper Seconds سے اور پاس کو فیل سے جدا کرتی ہیں۔ الفاظ کی وسعت، رابطے، جملے کی پیچیدگی اور متن کی طوالت نے AI کے نشانوں کی چھوٹی مگر معنوی اثرات کے ساتھ پیش گوئی کی، جبکہ انسان کے نشانوں سے اُن کا تعلق بڑی حد تک نہ ہونے کے برابر تھا — جو [[ai-scoring-language-bias-physics|لسانی تعصب]] کی تشویش کا براہِ راست مظاہرہ ہے، اور ایسا مظاہرہ جسے کسی آزمائی گئی پرامپٹنگ حکمت عملی نے دور نہیں کیا۔
 
-
 **AES بطور تربیتی اشارہ، نہ کہ بطور منصف۔** اسکورنگ ماڈلز کا مطالعہ عام طور پر بطور جائزہ لینے والے کیا جاتا ہے، مگر SWIM ایک کو انعامی فعل کے طور پر استعمال کرتا ہے: [[swim-student-writing-simulation-2026|Do, Kontak and Sachan (2026)]] ایک کثیر الخصوصیات AES تصدیق کنندہ کو منجمد کرتے ہیں اور اُسے تیار شدہ طالب علم مضامین پر اسکور کرتے ہیں، اور پیش گوئی شدہ خصوصیت پروفائل کو GRPO کے لیے فی مضمون گاڑھا انعام (ہدف پروفائل سے اوسط خصوصیت-معیاری فاصلہ) بنا دیتے ہیں — جان بوجھ کر Quadratic Weighted Kappa میٹرک نہیں، کیونکہ QWK ہدف اور پیش گوئی کے جوڑوں کے ایک بیچ پر متعین ہوتا ہے اور فی نمونہ اشارہ نہیں، جبکہ عین مطابق جواب کے انعام کثیر الخصوصیات سیاق میں بہت کم ہوتے ہیں۔ حصولیابیوں کو ایک DeBERTa اسکورر اور ایک صرف-جائزہ تصدیق کنندہ کے خلاف دوبارہ جانچا گیا جس پر پالیسی نے کبھی تربیت نہیں کی (SFT کے 0.479 کے مقابلے 0.598، اور 0.501 کے مقابلے 0.647)، اور یہی وہ جانچ ہے جو حقیقی مہارت پر قابو کو [[reinforcement-learning|انعامی ماڈل]] سے مطابقت سے الگ کرتی ہے۔ AES تحقیق کے لیے یہ دوسرا اعتباری مطالبہ ہے: تربیتی ہدف کے طور پر استعمال ہونے والا اسکورر وہ ہوتا ہے جس کے خلاف اصلاح کی جا رہی ہو، لہٰذا اُس کا اپنا خصوصیات کا وزن اور زبان کے تعصبات ہر اُس چیز میں منتقل ہو جاتے ہیں جو جنریٹر سیکھتا ہے — وہی خصوصیات کے وزن کی ناہمواریاں (گرامر کی درستگی، لغوی نفاست اور نحوی پیچیدگی جنہیں ماڈل انسانی جانچنے والوں سے زیادہ وزن دیتے ہیں) جو اِس صفحے پر کہیں اور دستاویز ہیں، اب صرف نشانوں کے بجائے تربیت کی تشکیل کر رہی ہیں۔
 **اسکورنگ اور فیڈبیک مختلف طریقے مانگتے ہیں، لہٰذا نظام کو اُنہیں الگ کرنا چاہیے۔** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] نے ایک TOEFL استدلالی مضمون کا نظام تین ماڈیولز کے طور پر بنایا — اسکورنگ، گرامر اور تحریری میکانیات پر سطحی فیڈبیک، اور تنظیم، ربط اور استدلال پر گہرا فیڈبیک — بجائے ایک ہی ماڈل کے جو تینوں کام کرے، اور پایا کہ ایک ماڈیول میں جو جیتتا ہے وہ دوسرے میں ہارتا ہے: 480 بینچ مارک اسکور شدہ مضامین کے ملکیتی مجموعے میں سے 120 پر GPT-4o کی زیرِ نگرانی [[llm-training-and-fine-tuning|فائن ٹیوننگ]]، اور باقی 360 پر جانچ، نے 0-5 پیمانے پر 0.84 کا quadratic weighted kappa اور 0.44 کا RMSE حاصل کیا، جو Wang and Gayed (2024) کی بنیاد (QWK 0.78، RMSE 0.57) سے آگے تھا، پھر بھی اُسی فائن ٹیوننگ نے فیڈبیک ماڈیولز کے لیے ناقابلِ استعمال پیداوار دی، جہاں Claude 3.7 کی براہِ راست پرامپٹنگ وہ تبصرے پیدا کر رہی تھی جنہیں اساتذہ نے منظور کیا۔
 
@@ -88,39 +89,3 @@ AES [[automated-assessment]]، [[writing-education]] اور [[generative-ai]] ک
 - **''خودکار اسکورنگ کے نتائج طالب علم کی تحریر کی عکاسی کرتے ہیں۔''** ترتیبی اشارہ **مشاہدے کے بجائے مصنوعی طور پر تیار** کیا جا سکتا ہے — سانچے کی تخلیق، **اصل طوالت کے 20-40%** تک گراوٹ اور کلیدی الفاظ کے اخراج سے بنائے گئے ترکیبی سطح-1 مضامین۔ جو نظام تعمیر شدہ انتہاؤں پر توثیق ہو، ممکن ہے اُس توزیع پر کبھی جانچا ہی نہ گیا ہو جس سے اُسے واسطہ پڑے گا۔
 - **''مجموعی درستگی وہ میٹرک ہے جو رپورٹ کرنا چاہیے۔''** **روبرک کی جھکی ہوئی تقسیم مجموعی اسکورنگ میٹرکس کو گمراہ کن بنا سکتی ہے**: روبرک کی کسی جہت کی خودکار تشخیص اکثر ایک درجہ بندی کا کام ہوتی ہے جس میں لیبلوں کی تقسیم یک طرفہ ہو، جہاں زیادہ درستگی اور کارآمد امتیاز الگ الگ ہو جاتے ہیں۔
 - **''میدانی نفاذ کا جائزہ نہیں لیا گیا۔''** ایک حقیقی اعلیٰ داؤ والے نفاذ (**یوراگوئے کا Acredita EB، 2024**) سے میدانی ثبوت موجود ہے، جو اِس ادب میں ثبوت کی سب سے مضبوط شکل ہے اور وہی جسے اسکورنگ کی درستگی کے زیادہ تر مطالعات کبھی فراہم نہیں کرتے۔
-
-## منسلک تصورات
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## منسلک مضامین
-- [[reflection-level-classification-hungarian-essays-2026]] — ہنگریائی طالب علم مضامین میں غور و فکر کی سطح کی خودکار درجہ بندی
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: استدلالی مضامین کے لیے ایک ماڈیولر خودکار تحریری جانچ نظام
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — خودکار مضمون جانچ کے ذریعے تعلیمی جدت: ہائی اسکول فزکس مضامین میں تنقیدی سوچ کی جانچ کا کثیر الجہتی فریم ورک
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise رپورٹ: تین برطانوی یونیورسٹیوں کے 761 یونیورسٹی مضامین کی AI مارکنگ
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی تحریری جانچ میں AI معاون اسکورنگ کے لیے انسانی-در-لوپ فریم ورک
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: LLM کے ساتھ انعامی ہم آہنگی والی مستقل مضمون اسکورنگ
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM مضامین کی گریڈنگ انسانوں کی طرح نہیں کرتے (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — خودکار اسکورنگ سے سیکھنے کی تشخیص تک: انگریزی تحریر میں AI معاون تکوینی جانچ کا میکانزم مطالعہ
-- [[llm-essay-scoring-feature-weighting-2026]] — LLM پر مبنی مضمون اسکورنگ میں خصوصیات کے وزن کے نمونے (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — مضمون جانچ میں LLM کے جائزے کا فریم ورک (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — کب بھروسا کریں: خود اعتمادی، وزن والی احتمالی اسکورنگ اور اینسمبلنگ LLM اسکورنگ کا اتفاق بہتر کرتے ہیں
-- [[swim-student-writing-simulation-2026]] — تحریری جنریٹر کے لیے گاڑھے تربیتی انعام کے طور پر استعمال شدہ منجمد AES تصدیق کنندہ
-- [[porcaro-ai-grading-benchmark-2026]] — اتفاق سے آگے: 22 پرامپٹ شدہ گریڈر ایسے پروبز سے ملتے ہیں جن کا درست جواب معلوم ہے، اور زیادہ تر کو بہلا کر اوپر اٹھایا جا سکتا ہے (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300 طلبہ کی کلاسوں کے اساتذہ ایک unplugged AES ایپ کو 92.5 SUS دیتے ہیں اور حتمی اسکور کے بجائے اعتبار کا انتباہ مانگتے ہیں (Ribeiro et al. 2026)

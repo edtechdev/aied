@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -119,56 +121,3 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 KI-Ethikunterricht wird oft mit einer Annahme begründet, die niemand prüft: dass [[ethics|Ethikunterricht]] irgendetwas verändert. Ein systematischer Review mit Metaanalyse aus dem Jahr 2024 über 66 Studien und 9.978 Studierende ist der beste verfügbare Test dieser Annahme für Bildung im Allgemeinen. Ethikinterventionen hoben ethische und moralische Ergebnisse gegenüber Kontrollbedingungen um g = 0.55, und 73% der wahren Effekte übertrafen die vorab registrierte hilfreiche Schwelle — doch **das Vermittlungsformat trug die Moderation**: diskussionsbasierte und diskussions-plus-didaktische Formate wirkten (g = 0.56 und g = 0.68), während reine Vorlesungsvermittlung sich nicht von null unterschied (g = 0.10). Online-Vermittlung war nicht von persönlicher Vermittlung zu unterscheiden.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
 
 Die Übertragung auf die Ethik von KI ist eine Schlussfolgerung und kein Befund dieser Studie, aber eine starke: Ein KI-Ethikmodul, das als Vorlesung über Bias und Integrität vermittelt wird, ist nach dieser Evidenz das schwächste verfügbare Format.
-
-## Verbundene Konzepte
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — Erklärungen zu KI-Nutzung und Offenlegung
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Prüfen, Grenzen von LLMs, Philosophie des Experimentierens
-- [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
-
-- [[civic-and-political-education]]
-
-## Verbundene Artikel
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die dafür plädiert, dass institutionelle genAI-Entscheidungen von einer Partnerschaftsethik und nicht von einem Betrugs-Frame geleitet werden sollten
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Ethisches Bewusstsein verstärkte die KI-Angst, wo kein Bewältigungsrahmen vermittelt wurde: reine indirekte Mediation bei 584 Studierenden
-- [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Voraussetzungen für vertrauenswürdige LA-basierte Interventionen (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Wie Studierende KI in Online-Prüfungen einsetzen und verschleiern
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung der KI-Nutzung durch Studierende, Stigmatisierung und selbstreguliertes Lernen
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Die verborgenen Kosten der Offenlegung
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nichteinhaltung von KI-Nutzungserklärungen durch Studierende
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Sichtweisen von Lehrenden und Studierenden auf ethische Dimensionen von AI
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethischer Einsatz von AI in der Ingenieurausbildung: Eine systematische Übersichtsarbeit
-- [[ai-ethics-education-public-discourse]] — Längsschnittanalyse des öffentlichen Diskurses über AI-Ethik im Bildungswesen
-- [[ethical-ai-higher-ed-game-theory]] — Spieltheoretischer Rahmen für den ethischen Einsatz von KI in der Hochschulbildung
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Krise der Ethikkosten bei der Jobsuche von CS-Studierenden
-- [[xai-education-framework]] — Erklärbare KI im Bildungsbereich (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
-- [[raffaghelli-situated-ai-ethics-2026]] — Situierte KI-Ethik: ein kulturhistorischer Rahmen für Bildung
-- [[ethically-mediated-ai-tpack-china-2026]] — KI-ethisches Wissen als integrativer Mediator im AI-TPACK von Hochschullehrenden (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — KI-Ethik und professionelles Urteilsvermögen: Eine bibliometrische Analyse (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — Analyse des UNESCO-Politikrahmens für generative KI
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ist es ethisch vertretbar, dass Lehrkräfte KI einsetzen, um Schülerinnen und Schülern Feedback zu geben?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Lücken in der ethischen KI-Kompetenz bei Lernenden, Lehrenden und in der Bildungspolitik überbrücken
-- [[alharbi-ethical-genai-eap-2026]] — Ethische Integration generativer KI in Englisch für akademische Zwecke (English for Academic Purposes)
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Ansatz für nachhaltige Bildung und AI (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Ethische Bedingungen für den Einsatz von LLM in der Prüfungsvorbereitung (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinale GenAI-Nutzung, Ethik und Richtlinien in der Lehrkräftebildung (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für AI im Bildungsbereich
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer steht Rede und Antwort? Agency, epistemische Verantwortung und Rechenschaftspflicht in der Forschung zu generativer KI in der Hochschulbildung
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethisches Bewusstsein, Reflexion und berichtete verantwortungsvolle Praxis entwickelten sich über drei jährliche Erhebungswellen weitgehend unabhängig voneinander (Ayanwale et al
-- [[qi-information-ethics-ai-judgment-2026]] — Informationsethische Bildung und ethische Urteilsfähigkeit hinsichtlich künstlicher Intelligenz bei Hochschulstudierenden
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — Ethisch reflektiertes Lernen in einem KI-gestützten Klassenzimmer
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethikunterricht wirkt (g = 0.55), doch diskussionsbasierte Vermittlung wirkt, während reine Vorlesungsvermittlung nicht wirkt

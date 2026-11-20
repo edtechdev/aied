@@ -17,6 +17,8 @@ ai_assist:
 translation_of: concepts/undergraduate-education
 source_updated: "2026-11-15T06:35:59-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
+connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -136,35 +138,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **"练习分数更高就意味着学到更多。"** 在 CS1 练习上，ChatGPT 使用者得分 71.84% 对 29.85%，而各臂之间的概念增益在统计上完全相同。
 - **"检测器可以了结一桩诚信案件。"** 七种检测器对非英语母语者作文的平均假阳性率为 61.22%，97% 的作文至少被一种检测器标记。
 - **"日常使用意味着[[ai-literacy|AI 素养]]可以假定。"** 自报使用率在中学每一年都在上升，而判断的可靠性始终持平；对检索任务的谨慎直到四年级才出现。
-
-## 关联概念
-
-- [[scaffolding]] — 先给提示的辅导系统与答案引擎之别
-- [[help-seeking]] — 提出具体问题是一项界面可以教授的技能
-- [[feedback-literacy]] — 学生如何处理一条评语，决定它是否改变作品
-- [[self-regulated-learning]] — 不带工具的计划、监控与评估
-- [[desirable-difficulties]] — 无限制助手所移除的那种费力
-- [[process-oriented-assessment]] — 评定过程轨迹而非成品
-- [[self-report-measures]] — 调查捕获了什么，以及它为何不是学习结果
-- [[ai-detection]] — 分类器输出为何是复核线索而非结论
-- [[learning-analytics]] — LMS 轨迹作为外展联络的早期信号
-- [[student-support-and-success]] — 学业指导、外展与助推的限度
-- [[equity-in-ai-education]] — 材料在发布前经核实，谁从中获益
-- [[writing-education]] — 论文类课程中的评估契约
-- [[stem-education]] — 物理、计算与工程中的基础课程序列
-
-## 关联文章
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 在一项 132 名 Python 学生的 2×2 试验中，具备完整上下文的苏格拉底式助手被评为支持性最低
-- [[genai-use-changing-institutional-policy-physics-2026]] — 决定学生使用哪些 GenAI 功能的是任务设计，而非政策层级
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — 130 名本科生；不用 ChatGPT 写出的笔记更多样、更具整合性
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 带来增益的是提示结构而非访问权限；五段式支架把评分质量从 3.32 提高到 4.60
-- [[llm-math-homework-offloading-traces-2026]] — 23 名一年级学生；59 份提交中有 53 份照搬了模型的乘积，或仅改动形式
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 项研究、1,585 名学生；诚信是教育者与学生关切分歧之处
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 342 名学生、三个波次；个体内依赖预测后续能动性更低
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 项研究；支持能动性与侵蚀能动性的模式并存
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 551 名一年级学生报告高认可度，同时自报高压力
-- [[thulin-chatbot-mental-health-students-2026]] — 15.4% 曾因心理健康原因使用聊天机器人，且使用与就医障碍相关
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 名受访者；自评学习与三行为投入指数的相关系数为 0.052
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 名学生；数字素养以 β = 0.393 预测自报表现，伦理意识为 β = −0.006
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 本科生伦理均分 3.527，研究生 4.627，且分散度大得多

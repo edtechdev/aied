@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -42,7 +43,3 @@ Waalimu na [[learning-design|wabunifu wa mafunzo]] wanaotaka mfano uliofanyiwa k
 ## Vidokezo na tahadhari
 
 Miundo inaelezwa kama iliyoshirikiwa kwa uwazi, lakini hakuna leseni inayotajwa kwenye kurasa za miundo au galari, hivyo utumiaji upya unahitaji idhini ya mwandishi badala ya ruhusa inayodhaniwa. Chanzo ni cha umma, hata hivyo — hazina za akaunti hiyo zina HTML na JavaScript nyuma ya miundo, pamoja na mafunzo ya kufanya kazi na mawakala wa uandishi wa msimbo katika elimu, hivyo msomaji anaweza kukagua programu badala ya kuionyesha tu. Viungo kadhaa vinaelekeza kwenye anwani za onyesho la uwekaji la Netlify badala ya tovuti ya mradi; hizo zimejengwa kwa ajili ya mapitio na zinaweza kuisha, wakati miundo ya GitHub Pages ndiyo thabiti. Miundo mingine hutegemea modeli ya Jev ya TypeSafe AI na huonyesha uwezekano wake, hivyo tabia ya msingi ni hukumu ya modeli badala ya kanuni isiyobadilika. Njia ya ugumu unaostahili ni hoja — msuguano kama kipengele — na ukurasa unaiwasilisha bila kuripoti tathmini ya iwapo wanafunzi hujifunza zaidi.
-
-## Dhana zinazohusiana
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

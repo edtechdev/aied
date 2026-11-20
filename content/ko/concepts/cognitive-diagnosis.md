@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -85,44 +87,3 @@ ai_assist:
 - **"모형이 학생 오류를 시뮬레이션할 수 있으므로 진단도 할 수 있습니다."** 병목은 그 반대입니다. 모형은 **오답 추적의 95.2%에서 풀이를 구성**했고 특정 Eedi 오개념을 **0.92 정확도**로 시뮬레이션했지만, 모형을 제한한 것은 오류 시뮬레이션이 아니라 **정답 풀이의 제공**이었습니다. 그럴듯한 오답을 생성하는 것이 그것을 알아보는 것보다 쉽습니다.
 - **"진단에는 손으로 만든 오개념 목록이 필요합니다."** 정답과 오답 명제 논리 정식화 **6,106쌍**에서 한 작업 흐름은 **5,156쌍(84.44%)을 설명하는 248개의 변환 군집**을 발견했고, 참조 집합의 손으로 고른 실수는 **4,370개(71.57%)**에 그쳤습니다. 발견은 전문가 큐레이션과 같거나 능가했고 양상 논리로도 전이되었으므로, 목록은 출발점이지 상한이 아닙니다.
 - **"진단은 오개념의 이름을 붙일 때만 유용합니다."** 학습자가 어떤 강의 성과를 달성했는지 진단하는 일은 성과를 지식 개념으로 다루고, 전문가 검증된 친화 매핑을 통해 개념 관계를 공급합니다. 성과 기반 프로그램에는 그것이 더 실행 가능한 단위입니다. 더 거칠더라도 그렇습니다.
-
-## 연결된 개념
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## 연결된 문서
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — 손글씨 수학으로부터 인지 기능을 진단하는 LLM의 기준 측정
-- [[correct-answer-trap-misconceptions]] — 정답의 덫
-- [[llm-misconception-difficulty-easy-trap]] — 쉬운 덫: LLM이 오개념 기반 난이도를 과소평가하는 이유
-- [[llm-student-misconception-identification]] — 학생 오개념의 LLM 식별
-- [[student-math-competence-clustering]] — 학생 수학 역량 모델링을 위한 군집화
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — 명시적 문제 해결사 모델링을 위한 인지 에이전트 컴파일
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: 시뮬레이션된 학습자로부터의 진단
-- [[huang-interpretable-knowledge-tracing-2026]] — 해석 가능한 지식 추적
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM 개념 트리 + 계층적 숙련도 추론
-- [[yasir-llm-tutoring-agents-2026]] — LLM 튜터에서 진단과 되먹임의 분리
-- [[zhang-ct-ai-training-test-2026]] — AI 훈련 검사에서의 계산적 사고(CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 개인화된 학습 경로를 위한 베이지안 인지 진단
-- [[personalized-neural-cognitive-architecture-search-2026]] — 학습자 프로파일을 위한 AutoML 개인화 신경 인지 구조 탐색
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화 매핑을 활용한 성과 기반 지식 추적
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — 프라이버시를 보존하는 이질적 다중 LLM 연합 진단
-- [[llm-common-modeling-mistakes-formalisms-2026]] — LLM 생성, 알고리즘적으로 검증된 버그 수정 변환으로 규모의 흔한 모델링 실수를 채굴하기(Killich 외 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — 역학 인지 진단: 기존 물리 개념 목록으로부터 14개 학습 목표의 DINA 기반 진단(Le 외 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM 지식 개념 주석과 보정된 개념 수준 지식 상태
-- [[llm-distractor-generation-student-reasoning-2026]] — 진단 문항 설계 과제로서의 오개념 기반 오답 추적
-- [[misconception-acquisition-dynamics-llms-2026]] — 오류가 풀이에 들어가는 곳이 진단적 병목이다
-- [[pivot-generative-video-tutors-stem-2026]] — 내용 생성에서 학습 지원으로: STEM 학습을 위한 교수법 안내 생성 영상 튜터
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: 학습과 교수를 위한 개방형 기반 모형
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — 의미 있는 학습을 위한 문화적으로 내장된 AI를 통한 진단 평가의 재구상

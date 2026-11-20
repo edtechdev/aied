@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -156,41 +158,3 @@ A fenti ellenőrzések nem népi bölcsesség; dokumentált kudarcokból szárma
 **„A magasabb jegyek az eszköz használata közben azt jelzik, hogy az eszköz többet tanított."** Egy [[k-12|K-12]] matematikai tanulmányban az általános célú [[conversational-ai|chatbot]] használatával gyakorló diákok jobb gyakorlati jegyeket szereztek, majd **nagyjából 17%-kal rosszabbul** teljesítettek a támogatás nélküli értékelésen. Az eszköz jelenlétében mért gyakorlati teljesítmény a felfújt mérő; a támogatás nélküli az eredmény, és csak az egyikük emelkedett.
 
 **„Ha a hatás valódi, a megvalósítás részletei nem számítanak sokat."** Ezek a hatás. Egy tanulmány, amely 30 diákot követett egy kurzusban, egy intézményben, az eszköz olyan verzióján, amelyet ma senki nem használ, egy olyan konfigurációról termelt eredményt, amely már nem létezik. A kezelés specifikációja, a verzió és a környezet az állítás részei, nem körülötte lévő kontextus.
-
-## Kapcsolódó fogalmak
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Kapcsolódó cikkek
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Feltételezett hatás: 14 AIED-meta-analízis forenzikus auditja
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Publikációs torzítással korrigált MI-hatások a jelentett méret nagyjából egyharmada
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT az oktatásban: okot kereső effekt
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — A bevonási kritériumok mint szigorúsági küszöb, és a modellel változó heterogenitás
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Amikor az automatizált pontozás megbízhatósága eléri a feladat mérési plafonját
-- [[verification-quality-reliance-calibration-genai-2026]] — Amit az ellenőrzési és támaszkodási szakirodalom nem mér
-- [[citation-errors-hallucinations-computing-education-2026]] — Hamisított hivatkozások, amelyek 2025–2026-ban nyomdába jutottak
-- [[stanford-evidence-base-ai-k12-2026]] — Gyakorlati nyereségek, vizsgaveszteségek: a támogatás eltávolításának problémája a K-12 matematikában
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Alcsoport-hatások, amelyeknek a konfidenciaintervalluma átlépi a nullát
-- [[chick-faculty-development-ethical-ai-2026]] — Lehetővé tevő feltételek: szabályozási jelzések, személyes előfizetések, nincs idő
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Szállítói mérőszámok, feltárt kalibrációval és kísérletszámmal
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Modellverziókhoz kötött eredmények, és a terület mozgása
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Független bizonyítékok száma 16, már használatban lévő, diáknak szóló MI-termékre
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Egy áttekintés számszerűsítheti a jelentési torzítást a saját korpuszában

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -156,56 +158,3 @@ Innerhalb der methodologischen Landschaft der Wissensbasis sind Metaanalyse und 
 - **„Ein signifikanter gebündelter Effekt bedeutet, dass die Intervention wirkt."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu und Kolleginnen und Kollegen kommen in ihrer Metaanalyse zu KI-Bildung in K-12]] (**16 Studien, 57 Effektstärken, g = 0.892**) zu einem großen Effekt, den die Autorinnen und Autoren jedoch qualifizieren. Sechzehn Studien sind eine schmale Basis, und ein großer Effekt über diese Basis ist eine Hypothese mit weitem Intervall.
 - **„Reviewende berichten die Qualität des Felds standardmäßig korrekt."** Zu den Aufgaben eines Reviews gehört, **methodische Qualität offenzulegen**, und Reviews **finden routinemäßig, dass das Feld auf unterpowerten, vorexperimentellen oder quasi-experimentellen Designs** mit unmittelbaren Post-Tests beruht. Die gebündelte Zahl erbt diese Schwächen.
 - **„Bündeln erhöht immer das Evidenzgewicht."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen und Weis Metaanalyse]] über **40 Studien** zu Fremdsprachenkompetenzen bündelt über sehr verschiedene Technologien, und der Mittelwert beschreibt keine der spezifischen Interventionen, die er enthält.
-
-## Verbundene Konzepte
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Verbundene Artikel
-
-- [[edurev-100741-tpack-genai-review]] — Systematischer Review zu GenAI im Studierendenlernen aus einer TPACK-Perspektive
-- [[genai-meta-analysis-programming-learning]] — Metaanalyse der Wirkung von GenAI auf Produktivität und Lernen in der Programmierung
-- [[ai-vocational-education-training-review]] — Erster systematischer Review zu KI in der beruflichen Aus- und Weiterbildung
-- [[ai-collaborative-learning-systematic-review]] — PRISMA-systematischer Review zu KI-gestütztem kollaborativem Lernen
-- [[genai-higher-education-systematic-review-2026]] — Systematischer Review zu GenAI in der Hochschulbildung
-- [[zerkouk-comprehensive-review-its-2025]] — Umfassender systematischer Review zu intelligenten Tutoringsystemen
-- [[chatgpt-critical-creative-thinking-review]] — Systematischer Review zu ChatGPT und kritischem/kreativem Denken
-- [[stanford-evidence-base-ai-k12-2026]] — Evidenzbasis für KI in K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Metaanalyse der Wirkungen von KI-Kompetenz-Interventionen
-- [[genai-writing-performance-meta-analysis-2026]] — Metaanalyse zu GenAI-unterstütztem L2-Schreiben: ein großer gepoolter Effekt, untergraben durch extreme Heterogenität und einen qualitätsgetriebenen Moderator
-- [[ai-literacy-heptagon-2026]] — Integrativer Literaturreview zu Dimensionen von KI-Kompetenz (PRISMA-geleitet)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematischer Review zu GenAI in der szenariobasierten Gesundheitsberufsbildung (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping-Review, das 22 KI-Integrationsstudien mit FACETS + SAMR klassifiziert; die meisten sitzen bei Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
-- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — KI zur Unterstützung von Menschen mit Legasthenie in der Bildung
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (Kritik des Medienvergleichs)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Metaanalyse: biasadjustierte KI-Effekte ~1/3 der berichteten Größe
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensische Prüfung von 14 AIED-Metaanalysen
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Intervention durch Lehrende in K-12-KI-basiertem Unterricht: ein systematischer Review
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Metaanalyse digitaler und KI-Werkzeuge für Fremdsprachenfähigkeiten: der Designmoderator mehr als verdoppelt quasi-experimentelle Effektschätzungen
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Metaanalyse zu GenAI in der Hochschulbildung: Kurzinterventions-Effekte brechen zusammen, wenn die Dauer wächst
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Metaanalyse zu KI-Bildung in K-12: großer Effekt mit Null-Moderatoren und auf die Messung zurückgeführter Heterogenität
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Systematischer Review zu GenAI in der Programmierbildung: dünne Unterrichtsberichterstattung in 26 von 46 Studien
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — Scoping-Review über 123 Studien, das GenAI, kognitive Entlastung und Handlungsfähigkeit der Lernenden in der Hochschulbildung kartiert
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Eine Metaanalyse zu den Effekten generativer künstlicher Intelligenz auf Lern-, kognitive und sprachliche Ergebnisse
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Verantwortliche Nutzung generativer KI durch Studierende im akademischen Schreiben: ein Scoping Review zu Grenzen, Bildungsansätzen und Evidenzlücken
-
-- [[kim-ai-embodied-learning-review-2026]] — KI im embodied learning beobachtet meist: Sensing-Rollen in 62,5% der kodierten Rollen-Tags, und kein begutachtetes System führte multimodale Ströme zusammen, während Lernende es nutzten (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Warum vier Studien keine Adoptionsentscheidung tragen können

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -71,12 +73,10 @@ ai_assist:
 
 - **סוכנות היא שכבה מעוצבת, לא תכונה של הטכנולוגיה.** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] ממיינים סימולציות לפי הפרקטיקה המיוצגת, המצב המדומה, האופן שבו סוכנות והסתגלות מופצות, והאופן שבו הלמידה מתוזמרת — ולא לפי רמת הטבילה.
 
-
 - **דיגיט-טווין הוא סימולציה עם חשבון חומרה, והחשבון קובע מי יכול להשתתף.** סקירה [[meta-analysis-systematic-review|שיטתית]] של 11 מחקרים על דיגיט-טווינים ב[[engineering-education|הנדסה]] וב[[higher-ed|השכלה גבוהה]] STEM מצאה שכל יישום סיפק אב-טיפוס עובד עם סנכרון בזמן אמיתי, אך רק שלושה דיווחו על [[learning-gains|תשואות למידה]] מובהקות סטטיסטית. מתקנים פיזיים הגבילו את הגישה ל-1–3 סטודנטים במקביל בחמישה מחקרים, וחוסר אינטראקציה חברתית היה האתגר הפדגוגי המצוטט ביותר, בשישה ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 - **סימולציה מבוססת-סוכנים יכולה למדל תיאוריית [[metacognition|מטאקוגניציה]] כמערכת ניתנת-לבדיקה.** מסגרת מבוססת-סוכנים בהשראת דיגיט-טווין, המשלבת את מודל AMERT בן חמש הרמות עם סימולציית NetLogo, אפשרה לחוקרים לגוון ארכיטיפים של לומדים ותנאי משימה ולהתבונן במסלולי מטאקוגניציה, אם כי המחברים מדגישים שהפלט הוא יצירת השערות ולא ראיה על לומדים אמיתיים ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). הסימולציה הופכת למעבדה וירטואלית לתיאוריה שאחרת קשה להתבונן בה.
 
 - **תכנית הלימודים היא היחידה שקובעת את ערכה של סימולציה.** מודל הגשר הקוריקולרי טוען שהתשואה על סימולציה תלויה באופן שבו חוויות מסודרות לאורך תכנית — שימוש חוזר בהקשר, שונות בדרישות החשיבה, וראיה שמזינה התקדמות — ולא בנאמנות הפלטפורמה ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
-
 
 ### קשרים
 
@@ -90,55 +90,8 @@ ai_assist:
 
 המסגרת עוברת כמבחן ולא כקטלוג. שלוש שאלות מכריעות כל פונקציה: מה יעבור לסוכן, האם המורה יוכל לתקן כשל, ומי יכול להידרש לעמוד מאחורי דברי הסוכן. פונקציה שאין לה תשובה לשלישית אינה מועמדת. כשהוא מיושם על ההכנה, המבחן מניב שש הכרעות — אבחון ולוגיסטיקה ניתנים להאצלה, מטרות מוצהרות ניתנות להאצלה חלקית, וחוזה הבדיון, הבטיחות הפסיכולוגית ותנאי ההערכה נדחים. בתחקור המאמר מציג שלוש עמדות שסוכן עשוי לאחוז בהן — מומחה, דמות, ומייאוטית — ומדווח על כשל המצב המייאוטי: סוכן שנבנה ללמד בכך שלעולם אינו עונה השאיר סטודנטים מתוסכלים. זוהי מסגרת עיצוב, לא מחקר תוצאות. המחברים מציינים שלא נאספו נתונים למחקר, והפריסה המדווחת היא ניסיון מוקדם שנקרא דרך תצפיותיו של המורה עצמו.
 
-
 ## תפיסות מוטעות נפוצות
 
 - **"סימולציה זולה יותר ולכן היא האפשרות השנייה בטיבה."** טייסי-סימולציה אוטונומיים של [[llm|מודל שפה גדול]] **מחליפים את שחקני-התפקיד האנושיים המתמחים שמאיישים סימולציות שליטה בתעבורה אווירית, ובכך מסירים צוואר-בקבוק של קיבולת אימון** — האילוץ היה איוש, לא נאמנות. במקום שבו שחקני-תפקיד אנושיים נדירים, סימולציית המודל אינה תחליף אלא האפשרות היחידה הזמינה.
 - **"סימולטורים צריכים להתנהג כמו מקרים ממוצעים."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] מזווגים סוכן מדיניות עם **סימולטורי מטופלים מבוססי מודל שפה גדול שנבנו לפעול באופן עוין**. סימולטור שמעוצב להיות משתף-פעולה הופך את התרגול של הלומד לקל יותר מהמרפאה, וזה ההיפך ממה שאימון צריך.
 - **"תרחישים כתובים-תסריט מלמדים קבלת החלטות תחת אי-ודאות."** הסוכנים הקונטקסטואליים מרובי-הסוכנים של SupplyNet מייצרים **דינמיקות שמתגלות מהחלטות הלומד ולא מתוכננות-תסריט**. תרחישים כתובים מתרגלים מסלול ידוע; אלה המתגלים מתרגלים את ההחלטה.
-## מושגים מקושרים
-
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות בינה מלאכותית (מודלים, אימון מודל שפה גדול, רובוטיקה, RAG, סוכנות)
-- [[virtual-and-augmented-reality]] — המודל, לא המודאליות — סביבות סוחפות בדרך כלל מרנדרות סימולציה
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## מאמרים מקושרים
-
-- [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robot-mediated role-play game for bystander intervention (applied drama)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review (authenticity gap, stepped continuum)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM education: prototypes all worked, learning gains mostly did not
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — מעבדה וירטואלית נתמכת-בינה מלאכותית ללמידת פיזיקה הפוכה: השפעה על הישגים, מוטיבציה ועומס קוגניטיבי בתיכון
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — מסגרת בת ארבע שכבות המפרידה בין הפרקטיקה המיוצגת, המצב המדומה, סוכנות והסתגלות, ותזמור
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — מהאימוץ טכנולוגי לקוהרנטיות קוריקולרית: סימולציה נתמכת-טכנולוגיה כגשר בחינוך למקצועות הבריאות
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — מה שמורה אינו יכול להאציל לסוכן שיחתי לאורך מחזור הסימולציה
-

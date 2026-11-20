@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -79,25 +81,3 @@ Für Lehrende bleiben Refutationstexte ein verlässlicher, niedrigschwelliger We
 **„Mehr Information über die richtige Vorstellung behebt den Widerstand."** Die Menge korrekter Information ist die Intervention, die bereits scheitert. Konzeptueller Wandel erfordert, dass das bestehende Modell der lernenden Person explizit gemacht und als unzureichend befunden wird, was ein anderer instruktionaler Schritt ist als das Hinzufügen von Evidenz.
 
 **„Missverständnisse und gewöhnliche Unwissenheit brauchen dasselbe Gegenmittel."** Sie brauchen unterschiedliche: Unwissenheit wird durch Wissenszufuhr adressiert, ein Missverständnis muss zuerst aus dem Sattel gehoben werden. Das Zweite wie das Erste zu behandeln ist der Grund, warum eine gut erklärte Lektion das ursprüngliche Modell einer oder eines Studierenden intakt lassen kann.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Widerlegungsfolgen, einschließlich zwei direkt widersprüchlicher Ergebnisse
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Verbundene Artikel
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalisierter KI-Dialog gegenüber Lehrbuch-Widerlegung bei der Überzeugungskorrektur
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Conceptual-Change-Text von Expertinnen/Experten bzw. KI gegenüber interaktivem KI-Dialog
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generierte Missverständnisse für kollaboratives Lernen
-- [[chatgpt-inoculation-training-verification-2026]] — Inokulationstraining als benachbarte, widerlegungsartige Intervention
-- [[critical-genai-use-predictors]] — Empfiehlt Refutationstexte zur Adressierung konzeptueller Missverständnisse
-- [[ai-learning-companions-framework]] — KI-Begleiter und Korrektur von Missverständnissen

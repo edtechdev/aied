@@ -9,6 +9,8 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 > **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for how teaching happens (in contrast to [[learning-theories|learning theories]], which explains how learning happens). In [[ai-education|AI in education]], pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. Individual pedagogies are documented and treated as the instructional lens through which AI's design and classroom use are evaluated.
 
@@ -90,47 +92,3 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - **"Technical AI knowledge is what teachers need most."** Across **46 teachers and 2,832 students**, **teacher pedagogical AI knowledge** predicted students' perceptions of AI for social good. Pedagogical knowledge outperformed technical knowledge, which inverts where most training investment goes.
 - **"AI's main contribution in education is instructional."** A **PRISMA review of 28 studies** found AI most often enhanced **instructional planning and assessment design** — the clearest contribution is **offloading administrative work**, not teaching. A case built around instructional gains is building on the weaker branch of the evidence.
 - **"AI literacy instruction transfers automatically to better teaching."** A three-level meta-analysis of **59 studies (172 effect sizes)** found **knowledge-focused interventions (g ≈ .97)** clearly outperformed other approaches at moving knowledge. Moving knowledge is the measured outcome; whether it reached practice is the next question.
-
-## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Metaphor and analogy as teaching technique
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Case method and contrasting cases as teaching techniques
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — AI tools trained to follow pedagogical principles
-
-## Connected Articles
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
-- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
-- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
-- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
-- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
-- [[cognitive-distribution-student-genai-interaction-2026]] — Student-AI interaction as shifting cognitive distribution, not fixed dependence (53.3% extension)

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -41,11 +42,3 @@ Pre pracovníkov [[educational-policy-ai|politiky]] a vedúcich OER v knižnicia
 ## Poznámky a výhrady
 
 Licencovanie kapitol je pasca. Zbierka je CC BY 4.0, ale jednotliví autori si zachovávajú autorské práva a vybrali si vlastné licencie Creative Commons, takže kapitola môže byť reštriktívnejšia, než naznačuje stránka knihy; kapitola o revízii učebnice je CC BY-NC-SA 4.0 a pri opätovnom použití treba kontrolovať kapitolu, nie úvodné strany. Autori nemali predpísaný postup zverejňovania použitia AI, takže väčšina kapitol svoj proces spomína len mimochodom, zvyčajne podľa usmernenia OER Commons. Redakčnou voľbou si každá kapitola zachováva disciplinárny hlas svojho autora, interpunkciu a regionálny pravopis, takže próza nevyznieva rovnako. Predovšetkým, každá kapitola dokumentuje jeden miestny projekt a žiadne dve nezdieľajú nástroj ani porovnanie, takže zväzok ponúka prax na prispôsobenie, nie dôkazy na citovanie.
-
-## Prepojené pojmy
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

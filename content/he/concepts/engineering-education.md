@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -88,37 +90,3 @@ ai_assist:
 - **"אימוץ AI בקרב סטודנטים להנדסה הוא בעיית קבלת טכנולוגיה."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] משלבים TAM עם [[technology-acceptance-model|UTAUT]] כדי לדגמן את אימוץ הסטודנטים הבנגלדשים להנדסה, ו**מסבירים 64%** מהשונות — ולכן חלק מהותי יושב מחוץ לבניות הקבלה, בגורמים חברתיים וקוגניטיביים שהמודל אינו מכסה.
 - **"סטודנטים משתמשים ב-AI במה שהוא הכי טוב בו."** [[ai-engineering-education-balancing-act|Kudina (2026)]] מצא ש**100 סטודנטים להנדסה** העריכו ביותר את המודלים הלשוניים הגדולים ל**תמיכה בכתיבה**, לא להסקה הנדסית. המטפורות שלהם לכלי עלו על מה שהוא סיפק, והשימוש בפועל עקב אחרי נוחות ולא אחרי יכולת.
 - **"מערך כלים עשיר יותר משפר תוצאות עיצוב."** בסטודיו עיצוב אדריכלי עם **27 סטודנטים**, צוותים שהשתמשו בצנרת בינה מלאכותית יוצרת בתוספת [[virtual-and-augmented-reality|XR]] הראו **יעילות מדוכאת ללא מוצר משופר**. עושר כלים יכול לעלות בביטחון ולהשאיר את הארטפקט ללא שינוי.
-
-## מושגים מחוברים
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## מאמרים מחוברים
-- [[apostolakis-trusstutor-bench-statics-2026]] — בנצ'מרק סטטיקה: פתרון וזיהוי שגיאות רוויים, התנגדות ללחץ לא
-
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

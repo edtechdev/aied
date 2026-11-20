@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -70,37 +72,3 @@ ai_assist:
 - **"저자원 맥락에는 AI 윤리 틀이 없으므로 하나를 수입해야 한다."** 저자원 맥락의 재직 중등 STEAM 교사들은 **형식적 원리가 아니라 전문적 정체성, 교실 현실, 문화 규범을 통해 AI 윤리에 관해 추론합니다**. 그 추론은 이미 존재하며 상황화되어 있고, 보편적 원리 목록은 그것 위에 잘 전이되지 않습니다.
 - **"거버넌스 유형이 대학의 AI 통합을 예측한다."** **나이지리아 대학 45곳**(연방, 주, 사립)에 관한 비교 내용 분석은 AI 통합이 **거버넌스 유형이 아니라 기관의 연령과 지리적 위치**에 의해 예측된다는 것을 발견했습니다. 공립과 사립 기관이 갈라진다는 가정은 반박됩니다.
 - **"디지털 격차가 주요 장벽이다."** **세 팔레스타인 대학에 걸친 저시력 학부생 21명**에 관한 [[qualitative-research|질적]] 사례 연구는 GenAI가 **디지털적, 지리적, 사회경제적** 장벽을 동시에 메운다는 것을 발견했습니다. 장벽은 겹겹이며, 접근을 유일한 장애물로 다루면 나머지는 그대로 남습니다.
-
-## 연결된 개념
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## 연결된 문서
-- [[genai-assessment-african-higher-education-review-2026]] — 생성형 AI 시대의 평가 재고: 아프리카 고등 교육에 관한 체계적 문헌 검토
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 나이지리아 고등 교육에서의 제도 구조, 디지털 불평등, AI 통합
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 공학 교육을 위한 통합 사회인지 모형(방글라데시)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: 베트남 수업 계획
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems 자료
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: 가나 STEM 벤치마크
-- [[genai-minoritized-knowledges-disability]] — 소수화된 지식의 소외
-- [[llm-cultural-relevance-k12]] — 문화적으로 적합한 K-12 교수법을 위한 LLM
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — 구성주의를 통한 방글라데시 고등 교육에서의 GenAI 통합(Alam 등 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 저시력 학습자를 위한 보조 GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 머신러닝을 사용한 파키스탄 대학생의 스트레스 탐지와 웰빙 지원을 위한 AI 기반 문화 인식 챗봇
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — 엘살바도르의 AI 교습 파일 학습 주장의 경계 짓기(Restrepo Morales 등 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 남아프리카 HDI에서의 디지털 매개자로서의 학업 개발자: 디지털 불평등 대 알고리즘 식민성
-- [[ai-ethical-awareness-ghana-students-2026]] — 가나 대학생의 인공지능 윤리 인식
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — 교육에서의 인공지능 윤리 원리: 교사들의 맥락적 윤리적 추론
-
-- [[gouroubera-genai-benin-2026]] — 베냉 학생 633명: 주간 사용 92.3퍼센트, 업무량이 지배적 동인이라 접근은 더 이상 구속 조건이 아니다(Gouroubera 등 2026)

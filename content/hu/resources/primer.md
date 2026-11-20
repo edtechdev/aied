@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -45,12 +46,3 @@ Az oktatók, oktatástervezők és felsőoktatási fejlesztők részletesen leí
 ## Megjegyzések és fenntartások
 
 A szerzők a Primert kísérleti prototípusnak nevezik, nem ellenőrzött osztálytermi terméknek. Nem értékelték tanulási beavatkozásként osztálytermekben, és senki nem vizsgálta FERPA, COPPA, állami diákmagánügyi törvények vagy tankerületi szabályzat szempontjából, így az az intézmény, amely diákokkal használja, maga felelős ezért a vizsgálatért. A szoftver MIT-licencű és ingyenes, de a szimuláció futtatásához modellhozzáférés kell, ami pénzbe kerül. Mivel modellfüggetlen, és helyi vagy nyílt súlyú modelleken fut, ott is telepíthető, ahol szigorúbbak az adatvédelmi szabályok. Az architektúráról és a promptokról szóló tanulmány a projektoldalról érhető el. A tárolónak 98 csillaga és 16 elágazása volt a 2026. novemberi ellenőrzéskor.
-
-## Kapcsolódó fogalmak
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

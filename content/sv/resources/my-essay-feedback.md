@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -47,12 +48,3 @@ Lärare i förstaårets skrivkurser och engelska institutioner som vill ha AI-å
 ## Noteringar och förbehåll
 
 Sajten rapporterar 12 000+ studenter, 700+ kurser och 41 000+ granskade uppsatser – siffror från leverantören, inte en oberoende revision. FERPA-efterlevnad, GDPR-beredskap och tillgänglighet är likaså leverantörens egna påståenden; uppsatser går via Azure OpenAI, och sajten uppger att de inte används för att träna modeller, vilket ett distrikt bör bekräfta i personuppgiftsbiträdesavtalet i stället för att ta från marknadsföringssidan. Prissättningen är freemium och varierar efter målgrupp: en gratis första termin för nya lärare (på begäran, begränsat till tre per skola), cirka \$12–15 per student och termin därefter, och en betald nivå per granskning för enskilda studenter med den första granskningen gratis. Jämförelsetabellen mot ChatGPT Plus, Packback och Grammarly är leverantörens egen. Ett partnerskap med UC Davis i PAIRR-projektet är ett forskningssamarbete, inte publicerade bevis för att plattformen förbättrar skrivande.
-
-## Anslutna begrepp
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

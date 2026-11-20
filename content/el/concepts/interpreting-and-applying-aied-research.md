@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -156,41 +158,3 @@ ai_assist:
 **«Υψηλότεροι βαθμοί ενώ χρησιμοποιείται το εργαλείο δείχνουν ότι το εργαλείο δίδαξε περισσότερα.»** Σε μια μελέτη μαθηματικών [[k-12|K-12]], μαθητές που εξασκούνταν με έναν γενικού σκοπού [[conversational-ai|chatbot]] κέρδισαν καλύτερους βαθμούς εξάσκησης και μετά βαθμολογήθηκαν **περίπου 17% χειρότερα** σε αξιολόγηση χωρίς υποστήριξη. Η επίδοση εξάσκησης μετρημένη με το εργαλείο παρόν είναι το διογκωμένο μέτρο· η έκβαση χωρίς υποστήριξη είναι η έκβαση, και μόνο μία από τις δύο ανέβαινε.
 
 **«Αν η επίδραση είναι πραγματική, οι λεπτομέρειες εφαρμογής δεν έχουν μεγάλη σημασία.»** Είναι η επίδραση. Μια μελέτη που παρακολούθησε 30 μαθητές σε ένα μάθημα σε ένα ίδρυμα, σε μια έκδοση του εργαλείου που κανείς δεν χρησιμοποιεί τώρα, παρήγαγε ένα εύρημα για μια διαμόρφωση που δεν υπάρχει πια. Ο προσδιορισμός της θεραπείας, η έκδοση και το πλαίσιο είναι μέρος του ισχυρισμού και όχι πλαίσιο γύρω του.
-
-## Συνδεδεμένες Έννοιες
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Έρευνα στην εκπαίδευση με υποστήριξη ΤΝ
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Συνδεδεμένα Άρθρα
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ιατροδικαστικός έλεγχος 14 μετα-αναλύσεων AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Επιδράσεις της ΤΝ διορθωμένες ως προς τη μεροληψία δημοσίευσης, περίπου το ένα τρίτο του αναφερόμενου μεγέθους
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT στην εκπαίδευση: μια επίδραση σε αναζήτηση αιτίας
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Τα κριτήρια ένταξης ως κατώφλι αυστηρότητας, και ετερογένεια που αλλάζει με το μοντέλο
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Όταν η αξιοπιστία της αυτοματοποιημένης βαθμολόγησης συναντά το ανώτατο όριο μέτρησης της εργασίας
-- [[verification-quality-reliance-calibration-genai-2026]] — Τι δεν μετρά η βιβλιογραφία επαλήθευσης και εξάρτησης
-- [[citation-errors-hallucinations-computing-education-2026]] — Κατασκευασμένες αναφορές που έφτασαν στην εκτύπωση το 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Κέρδη στην εξάσκηση, απώλειες στην εξέταση: το πρόβλημα της αφαίρεσης της υποστήριξης στα μαθηματικά K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Επιδράσεις υποομάδων των οποίων τα διαστήματα εμπιστοσύνης διασχίζουν το μηδέν
-- [[chick-faculty-development-ethical-ai-2026]] — Συνθήκες εφικτότητας: σήματα πολιτικής, προσωπικές συνδρομές, καθόλου χρόνος
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Μέτρα προμηθευτή με τη βαθμονόμηση και τον αριθμό πειραμάτων τους αποκαλυμμένα
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Ευρήματα δεμένα με εκδόσεις μοντέλων, και η αναταραχή του πεδίου
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Μετρήσεις ανεξάρτητων τεκμηρίων για 16 προϊόντα ΤΝ για μαθητές που βρίσκονται ήδη σε χρήση
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Μια ανασκόπηση μπορεί να ποσοτικοποιήσει τη στρέβλωση αναφοράς στο δικό της σώμα

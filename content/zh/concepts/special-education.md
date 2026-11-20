@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -70,34 +72,3 @@ ai_assist:
 - **“[[usability-research|可用性]]评分验证了一件辅助工具。”** 从业者对一件他们共同设计的 Social Story 工具给出了一次可用性通过评价（SUS 86.8），却批评其刻板的西式图像与一个错失目标挂钩临床判断的行为追踪器。高可用性与实质性的失败并存，因此 SUS 分数不是对契合度的认可。
 - **“通用基准能告诉你一个辅导者如何处理特殊教育案例。”** 在取自特殊教育与教育心理学文献的 **923 段基于案例的对话**中，**11 个模型中最好的一个**满足了一项有记录的标准，而**那正是辅导者基准所能覆盖的边缘**。标准评估触及不到从业者最需要帮助的那些案例。
 - **“神经多样性学习者需要的是调适，而不是设计要求。”** [[neurodivergent-computing-students|Zastudil 等人]]发现，神经多样的计算专业学生需要**结构化的作业、小而稳定的小组与明确的角色定义**，这些是惠及所有人的一般设计要求，而不是诊断之后授予的个人调整。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## 关联文章
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：对有挑战行为的学生评价 LLM 辅导者（Park 等 2026）
-- [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的 GenAI 认知卸载
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向聋人与重听学习者的 LLM 驱动出题
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其他：面向高等教育中神经多样学生的数字辅助技术范围综述
-- [[adapted-stories-social-story-intervention-2026]] — 面向特殊教育的 AI 辅助 Social Story 干预：AdaptED Stories 的设计
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 一个视觉-语言模型为 Nao 机器人规划 Shoebox Tasks（Kudláčková 2026）

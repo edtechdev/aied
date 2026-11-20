@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -77,7 +79,6 @@ Intervensi nilai-guna tidak selalu bermanfaat: versi berperancah tidak menghasil
 
 Motivasi juga beroperasi di hulu persepsi teknologi, bukan hanya di sampingnya. Dalam sampel fisika 340 siswa, nilai guna memprediksi kegunaan terpersepsi (β = 0.43) dan nilai intrinsik memprediksi sikap (β = 0.20), sementara biaya terpersepsi menurunkan kemudahan penggunaan (β = −0.16) dan sikap (β = −0.27) tanpa jalur langsung ke niat ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
 
-
 **Regulasi motivasional adalah konstruk tertipis dalam literatur ini.** Di sepanjang 39 studi, [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna dan Jiang (2026)]] menemukan motivasi otonom diukur dalam 2 studi, dengan regulasi teridentifikasi dan motivasi terkendali masing-masing dalam 1 studi, dibandingkan 17 studi yang mengukur kebutuhan psikologis dasar dan 10 yang mengukur keterlibatan. Para penulis menyebut celah itu masalah utama tinjauan tersebut, karena regulasi menanyakan mengapa seorang siswa termotivasi sementara pemenuhan kebutuhan hanya menanyakan apakah lingkungannya mendukung mereka.
 
 ## Koneksi ke konsep terkait
@@ -89,58 +90,3 @@ Motivasi adalah konstruk induk dari [[self-determination-theory]], yang menetapk
 - **"Efek motivasi GenAI adalah keuntungan yang bersih dan besar."** Meta-analisis 42 studi (56 ukuran efek, 6,059 siswa) menemukan efek motivasi g = 0.764 (95% CI [0.566, 0.962]) **tetapi dengan I² = 93.7%**. Heterogenitas setinggi itu berarti angka gabungan menggambarkan sekumpulan studi yang saling tidak sepakat, jadi itu rata-rata atas perlakuan yang tidak konsisten alih-alih efek yang reprodusibel.
 - **"Mengurangi frustrasi sama dengan mempertahankan motivasi."** Sebuah [[rct|RCT]] tiga lengan menemukan tutor berperancah dan ChatGPT tanpa batasan **sama-sama memangkas frustrasi** (3.21 dan 3.13). Dua desain yang sangat berbeda menghasilkan hasil afektif yang sama, jadi data frustrasi tidak dapat membedakan keduanya.
 - **"Desain yang memotivasi adalah desain yang baik."** Pada **222 siswa sekolah menengah tahun pertama**, format dialog guru-ke-guru **menaikkan motivasi ARCS lebih banyak** daripada alternatifnya sementara **tidak memperbaiki evaluasi keseluruhan**. Motivasi bergerak dan mutu yang dinilai tidak.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung untuk konsep-konsep sisi pembelajar
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Pembelajaran Sosial-Emosional
-
-- [[reflection]]
-
-## Artikel terkait
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Keyakinan ekspektansi-nilai sebagai anteseden penerimaan GenAI
-- [[liu-ai-assistance-reduces-persistence-2026]] — Penggunaan AI yang singkat mengurangi ketekunan pada soal tanpa bantuan berikutnya (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Umpan balik otomatis pada tulisan argumentatif: peran reseptivitas dan persepsi umpan balik siswa menengah
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Paradoks usaha dan lingkaran setan bantuan tanpa gesekan
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivasi dan peran dalam keterlibatan GenAI metakognitif
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender, motivasi, dan lintasan capaian GenAI
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Menilai Kompetensi Digital Guru untuk Desain Kurikulum GenAI (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivasi untuk membentuk masa depan pendidikan dengan AI
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaksi karakteristik pembelajar × format dialog TTS
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[liang-ai-learning-motivation-sdt-2026]] — Analisis transisi laten SDT atas motivasi belajar AI siswa (2,086 siswa menengah)
-- [[wang-goal-setting-ai-engagement-2026]] — Teori penetapan tujuan: dukungan guru, tujuan capaian, dan keterlibatan dalam pembelajaran bahasa Inggris berbantuan AI (758 siswa Tiongkok)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Efek intervensi nilai-guna dalam belajar mengajar secara bertanggung jawab dengan GenAI (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Keuntungan motivasi spesifik-konstruk dalam program menulis L2 GenAI di sekolah dasar (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — Skala AIR: empat keluarga motif untuk meraih AI saat membaca
-- [[genai-math-relevance-intervention-2026]] — Dialog relevansi GenAI menaikkan relevansi sebagai identifikasi tetapi membiarkan minat kelas datar
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analisis efek-acak efek GenAI terhadap motivasi belajar (56 ukuran efek, 6,059 siswa)
-- [[ai-student-motivation-scoping-review-2026]] — 156 studi tentang AI dan motivasi siswa: 85.3% tidak menggunakan teori motivasional, dan cakupannya sempit dalam konstruk, jenjang, dan negara
-- [[gai-advocacy-practice-art-education-2026]] — Celah kebijakan-praktik dalam advokasi GAI bertindak sebagai stresor yang dinilai siswa
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Tutor berperancah menaikkan motivasi intrinsik di tempat ChatGPT tanpa batasan tidak
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Umpan balik AI dan instruktur dengan mutu setara, dengan celah motivasional yang berjalan melalui keterhubungan (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - Tinjauan 39 studi berpedoman SDT: kebutuhan dan keterlibatan sering diukur, regulasi motivasional hampir tidak pernah

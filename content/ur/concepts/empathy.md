@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -93,34 +95,3 @@ AI تین الگ مقامات پر داخل ہوتا ہے، اور انہیں م
 - **”مسکراہٹ کا مطلب گرم جوشی ہے۔“** تکلیف دہ کلینیکل ملاقات میں ناظرین مسکراہٹ کو بے ربطی پڑھتے ہیں، اور چہرے کے عضلات کا ڈیٹیکٹر اسے مثبت جذبہ پڑھتا ہے۔ سیاق ہی گمشدہ متغیر ہے۔
 - **”خود رپورٹ پیمانے ہمدردی ناپتے ہیں۔“** وہ ایک خصلت یا خود فہمی ناپتے ہیں؛ وہ ملاقات میں رویہ نہیں ناپتے۔
 - **”زیادہ غرق کرنے والا ہمیشہ بہتر ہے۔“** غرق کرنے والے طریقے بڑے اضافے دکھاتے ہیں، مگر کئی گنا قیمت اور دورانیے پر، اور موازنے نمائش کو برابر نہیں کرتے۔
-
-## منسلک تصورات
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## منسلک مضامین
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — IRI پر رول پلے 13.2%، VR 11.6%، AI گفتگو 8.8%، جس میں نمائش کا وقت ملا ہوا ہے (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — جسمانی رابطے کی تشخیص ناظرین سے متفق؛ مسکراہٹ کی تشخیص منفی رہی (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13 تبادلوں کے بعد خود جانچی قابلیت d = 0.58 بڑھی، بغیر کنٹرول گروہ (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 مطالعات؛ اعتماد میں اضافے عام، ہمدردی کے ثبوت محدود (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA اور جنریٹو تصویریں بطور arousal پائپ لائن، ہمدردی دعویٰ شدہ نہ کہ ناپی گئی (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — AI کی ہمدردانہ صلاحیت پر یقین نے سہارا دینے کی کم رضامندی کی پیش گوئی کی (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42 آئٹم کا خصلتی پیمانہ جس کی عنصری ساخت اس کے ڈیزائن سے میل نہ کھائی (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — ہمدردانہ زبان نے محسوس کیا جانے والا فہم بڑھایا، جس نے رویے کی تبدیلی کے بجائے مشغولیت کی پیش گوئی کی (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — پرامپٹ میں متعین کردار اور چالوں نے سمجھی جانے والی ہمدردی میں بڑا فرق پیدا کیا (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — نرسنگ طلبہ نے کلینیکل دباؤ کے دوران AI کو جذباتی سہارا بتایا (Akbaba et al., 2026)

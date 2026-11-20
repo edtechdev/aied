@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -98,56 +100,3 @@ ai_assist:
 - **"প্রম্পট-গুণমান একটি শিক্ষার্থী-বৈশিষ্ট্য।"** **প্রম্পট-সংজ্ঞান শাস্ত্র অনুসরণ করে, শিক্ষার্থীকে নয়**: [[student-ai-conversations-cognitive-engagement-2026|চ্যাং ও লি (2026)]] **116 কোর্সের 60,087টি প্রম্পট** শ্রেণিবদ্ধ করে দেখেন শাস্ত্রই প্রম্পটের পরিশীলিততার পূর্বাভাস দেয়। শিক্ষার্থীদের ভালো প্রম্পট করতে শেখানো এমন একটি ভেদ মেটায় যা বিষয়বস্তুর ভেতরেই বসে।
 - **"শিক্ষার্থীরা নিজেরাই প্রম্পটিং-অভ্যাস গড়ে তোলে।"** প্রশিক্ষক যখন প্রম্পটের আদল দেখান, **শিক্ষার্থীরা তা হুবহু পুনর্ব্যবহার করে** — **বারোটি মাধ্যমিক STEAM দলের 310টি রেকর্ডকৃত প্রম্পটের** মধ্যে প্রশিক্ষকের নির্দেশার হুবহু অনুলিপি সাধারণ ছিল। আদল দেখানো অনুলিপি তৈরি করে, তাই এটি স্থানান্তরযোগ্য দক্ষতা নয়, ব্যবস্থা-নকশার হাতল।
 - **"প্রম্পটিং প্রথমে শিক্ষার্থী-দক্ষতা, পরে ব্যবস্থার বৈশিষ্ট্য।"** এটি প্রম্পটিংকে **অভিযোজিত ব্যবস্থা-নকশার হাতলে** সরায়, **সম্পৃক্ততা ও দক্ষতায় (অনুশীলন-রূপান্তর 28.1% বনাম 19.6%)** মাপা প্রভাবসহ। ইন্টারফেসের প্রম্পটিং-সুবিধা প্রম্পটিং-নির্দেশনার চেয়ে আচরণ বেশি বদলেছে।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — কাঠামোবদ্ধ-ব্যবহারের ক্রমের ভেতরের স্ক্যাফোল্ডিং স্তর
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, LLM প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
-
-## সংযুক্ত নিবন্ধ
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 শিক্ষার্থী কী কঠিন মনে করে: প্রম্পট-বাক্যরীতি নয়, অভিপ্রায়-মিলকরণ
-- [[wang-teacher-student-centered-agents-physics-2026]] — পদার্থবিজ্ঞান শিখনে নকশা-চলক হিসেবে এজেন্ট-ভূমিকা ও সীমা-প্রম্পট (ওয়াং প্রমুখ 2026)
-- [[gpt-item-generation-l2-listening-2026]] — GPT-ভিত্তিক L2 শ্রবণ-আইটেম উৎপাদনে প্রম্পটিং বনাম ফাইন-টিউনিং (আরিয়াদৌস্ত ও ওং 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — শিক্ষার্থীরা কী জিজ্ঞাসা করে তা গুরুত্বপূর্ণ: LLM মিথস্ক্রিয়া-গভীরতা, কাজের গুণমান ও তাৎক্ষণিক স্মরণ (সিলিগকিরিস 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: শিক্ষামূলক LLM প্রম্পটিংয়ের জন্য রিয়েল-টাইম কোচিং
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — সাংবাদিকতায় সমালোচনামূলক এআই সাক্ষরতার জন্য LLM কাজের কাজ-ভিত্তিক শ্রেণিবিন্যাস
-- [[prompt-privilege-equitable-ai-access-2026]] — প্রম্পট-বিশেষাধিকার: LLM প্রবেশাধিকারে অক্ষমতা-বৈষম্য মাপা ও প্রশমিত করা
-- [[principal-trait-analysis-human-ai-skills-2026]] — প্রধান বৈশিষ্ট্য-বিশ্লেষণ: মানব-এআই সহযোগিতার তথ্য-চালিত বৈশিষ্ট্য
-- [[llms-text-linguistics-teaching-2026]] — লেখ-ভাষাবিজ্ঞান শিক্ষায় LLM
-- [[idea-framework-metacognitive-genai-2026]] — অধি-সংজ্ঞানাত্মকভাবে নিয়ন্ত্রিত GenAI ব্যবহারের IDEA কাঠামো
-- [[lin-llm-interactive-lesson-generation]] — ইন্টারঅ্যাকটিভ টিউটর-প্রশিক্ষণ পাঠের LLM উৎপাদন (লিন প্রমুখ 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — রসায়ন শিক্ষায় অনূদিত ইউনেস্কো এআই নির্দেশিকা; জ্ঞানতাত্ত্বিক বিচ্যুতি
-- [[isaza-chatgpt-engineering-prompting-2026]] — প্রম্পটিং-আচরণ প্রকৌশল-শিক্ষার্থীর কর্মক্ষমতার পূর্বাভাস দেয়
-- [[student-ai-conversations-cognitive-engagement-2026]] — শিক্ষার্থী-এআই সংলাপে শাস্ত্র-সম্পর্কিত ব্লুম-স্তরের সংজ্ঞানাত্মক সম্পৃক্ততা (চ্যাং ও লি 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্ত শিক্ষাবৈজ্ঞানিক নকশার এজেন্ট হিসেবে LLM
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — প্রম্পট প্রকৌশল বনাম প্রম্পট সাক্ষরতা: পাঁচ-পর্যায়ের মানব-কেন্দ্রিক GenAI সম্পৃক্তি কাঠামো ও পাঁচ-ধাপের প্রম্পট সাক্ষরতা চক্র (মাইলস, হেবার-কুরান ও আরার 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — এআই-প্রতিক্রিয়ার গুণমানের পূর্বাভাসক হিসেবে প্রম্পট প্রকৌশল ও মডেল-নির্বাচন (ইয়াকবসেন প্রমুখ 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — শিক্ষার্থী-লেখনীতে LLM-উৎপাদিত প্রতিক্রিয়ায় প্রতিক্রিয়া-কেন্দ্র ও শিক্ষাবৈজ্ঞানিক অভিযোজনযোগ্যতার মূল্যায়ন
-
-- [[middle-school-genai-steam-interactions-2026]] — মাধ্যমিক STEAM দলগুলো 47.1% প্রম্পটে প্রশিক্ষকের নির্দেশা হুবহু অনুলিপি করে
-- [[ecd-prompts-automated-essay-scoring-2026]] — মাপজোখে প্রম্পট প্রকৌশল পরিচালনায় প্রমাণ-কেন্দ্রিক নকশা: স্বয়ংক্রিয় রচনা-স্কোরিংয়ের উদাহরণ
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — অস্পষ্ট প্রম্পট আত্ম-পুনরাবৃত্ত স্পষ্টীকরণ-চক্র তৈরি করে, সবচেয়ে বড় হতাশা-ফাঁকসহ
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — সমতার পথ হিসেবে প্রম্পট প্রকৌশল-সামর্থ্য, একটি আন্তঃ-মডেল স্ক্যাফোল্ডিং পরীক্ষাসহ (লি প্রমুখ 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — অনুভূত সক্ষমতা হিসেবে প্রম্পট-সাক্ষরতা, যা তবু সম্পৃক্ততার পূর্বাভাস দেয়

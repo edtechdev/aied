@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,7 +49,6 @@ Historia ya uwanja huu si mwendelezo wa mstari bali mfululizo wa maamuzi ya kuba
 **Mafunzo kwa enzi ya GenAI.** Mijadala ya leo kuhusu AI ya kizalishaji inaakisi kwa karibu misongo hii ya kihistoria. GenAI mara nyingi inawekwa kama mwalimu wa kielektroniki wa kizazi kijacho (kupanua Anderson), ikizua wasiwasi kuhusu ufuatiliaji, ukusanyaji wa data, na usanifu. Vinginevyo inaweza kuwa zana ya wakala wa kubuni (kupanua Papert), ikitaka tufikiri upya [[assessment|tathmini]] na tukubali matokeo yenye utata zaidi. Kama [[mishra-control-vs-agency-history-2025|Mishra et al.]] wanavyohitimisha, nguvu za taasisi zinapendelea kurudi kwa mbinu zinazoimarisha miundo iliyopo — na lugha na sitiari tunazochagua zitaumba uwezekano wa mustakabali. [[rismanchian-ai-education-four-decades-aixed-2026|Mfumo wa AI×Ed wa Rismanchian & Doroudi]] unatoa msingi wa kivitendo kwa hisia hii: wakiweka makala kutoka maandiko ya AIED (1985, 1993, 2021, 2024) na IJAIED (2004, 2014, 2021) kwenye mihimili miwili — jukumu la AI (zana ya matumizi dhidi ya mfano wa akili ya binadamu) na mtumiaji wa mwisho — wanafuatilia uwanja uliohamia kutoka mchanganyiko mbalimbali, ukijumuisha utafiti mwingi wa mapema unaotumia AI kama mfano wa akili ya binadamu (mifano ya kikokotozi ya kujifunza, microworlds za Papert, mifano ya mawakala ya upatikanaji wa maarifa), kuelekea msisitizo wa karibu wa pekee wa matumizi ya zana ifikapo miaka ya 2000. Kwa kushangaza, enzi ya AI ya kizalishaji inaonekana kupunguza mkondo huo kwa sehemu: katika AIED 2024, makala tatu kati ya nne katika kvadranti ya "AI-kama-mfano" ya uwanja huu zilikuwa za msingi wa LLM, ikijumuisha kazi ya karatasi bora juu ya [[learning-by-teaching|mawakala wanafundishwa]] wa msingi wa LLM.
 
 **Rekodi ya majarida inageuka mara mbili.** Mfano wa mada wa kimuundo wa makala 5,387 za *Computers & Education* (1976–2026) ulipata AI katika rekodi 390 (7.2%), katika mada 17 kati ya 18. Uwezekano wa kila mwaka kwamba makala ilihusiana na AI ulipanda 21.8% kwa mwaka hadi 1989, ukashuka 3.7% kila mwaka hadi 2018, kisha ukapanda 40.1% kila mwaka hadi 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). Geuko la 2018 linatangulia ChatGPT kwa miaka minne, hivyo enzi ya kizalishaji iliongeza kasi ya mkondo uliokuwa ukiendelea badala ya kuanzisha mmoja.
-
 
 ## Athari za karibuni za AI ya kizalishaji
 
@@ -97,29 +98,3 @@ Kufika kwa [[generative-ai|AI ya kizalishaji]] — familia pana inayojumuisha [[
 
 - Tumia makusanyo ya kihistoria kama msingi badala ya kuchukulia sasa kama kulinganisha pekee kunakopatikana. Maandiko ya AIED ya 1985, 1993, 2021 na 2024 na IJAIED ya 2004, 2014 na 2021 ni sampuli ya muda iliyo tayari ya madai ya uwanja wenyewe.
 - Taja nasaba unapodai ugeni. Dai kwamba mfumo "unabinafsisha kujifunza" au "unamfano wa mwanafunzi" ni geni tu kuhusiana na mapokeo maalum ya awali, na mapokeo hayo yameandikwa.
-
-## Dhana Zilizounganishwa
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Makala Zilizounganishwa
-- [[mishra-control-vs-agency-history-2025]] — Udhibiti dhidi ya Wakala: Kuchunguza Historia ya AI katika Elimu
-- [[prezenski-human-centered-ai-aided-learning]] — Kujifunza kunakosaidiwa na AI kinachozingatia binadamu (kinashiriki milki ya Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Chipukizi cha kufahamu na utaalam wa AI (ufafanuzi wa kihistoria)
-- [[programming-its]] — Kupanga Mfumo wa Ualimu wa Akili
-- [[lak2026-hint-button-unproductive-use]] — Kutembelea upya kitufe cha vidokezo katika walimu wa kielektroniki
-- [[socrates-students-instructors-llms-lbt-2025]] — Kujifunza kwa kufundisha kwa LLM (nasaba ya ujenzi wa Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Miaka hamsini ya AI kufikia kompyuta katika elimu: mgeuko wa mada katika rekodi ya jarida (Wu et al. 2026)
-

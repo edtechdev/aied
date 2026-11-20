@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -47,12 +48,3 @@ Studenter som arbetar sig igenom en text eller en problemuppsättning och vill b
 ## Noteringar och förbehåll
 
 Inget pris eller konto publiceras för det elevvända verktyget, medan institutionell driftsättning – moln, lokalt eller hybrid – erbjuds via ett skräddarsytt förslag och ett möte; betrakta ”gratis” som läget för den publika demon i november 2026, inte som en garanti. Text och bilder går till en hostad tjänst som drivs av Claude, och sajten säger själv till användare att ta bort namn, belopp, adresser och företagsnamn före uppladdning, vilket flyttar avidentifieringsbördan till den som laddar upp i stället för till plattformen. Sessioner raderar sig själva efter en timme om de inte exporteras. Det bakomliggande företaget marknadsför också en bredare bedömningsplattform för resonemangsgrafer till institutioner, och dess påståenden om att skilja deduktiva, induktiva, abduktiva och analogiska grafer kommer från fyra referenstexter – sajten kallar det en demonstration, med validering i skala som ännu återstår.
-
-## Anslutna begrepp
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

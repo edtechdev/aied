@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -137,62 +139,3 @@ PISA 2022-2025 کا ملکی سطح کا تجزیہ پایا کہ جن ممال�
 - **"یونیورسٹیوں کے پاس حقیقی AI پالیسی ہے۔"** **قانونی شکل قانونی زبان سے کمابیش نایاب ہے۔** ایک **160 دستاویزوں کے اسکوپنگ جائزے** میں، **2.5% آلات قانونی قوت رکھتے تھے جبکہ 57.5% رہنمائی یا ٹول کٹس تھے**۔ سو دستاویزوں کے برابر AI گورننس کا تقریباً چوتھائی حصہ غیر پابند رہنمائی ہے۔
 - **"ادارہ جاتی احتیاط ثبوت کی عکاسی کرتی ہے۔"** احتیاط کی وجہ **ثبوت کے بجائے وقت کا دباؤ** بتایا جاتا ہے: ABA کے 2024 سروے میں صرف تقریباً **15% تسلیم شدہ اسکولوں** سے جوابات آئے، چنانچہ محتاط اتفاقِ رائے ایک غیر نمائندہ نمونے پر ٹکا ہے۔
 - **"پالیسی کی پہنچ کا نقشہ نمائندہ سروے سے بنایا جا سکتا ہے۔"** AI پالیسی اور رہنمائی ایک ہی شعبے کے **تمام 48 CAHIIM سے تسلیم شدہ پروگراموں** سے جمع کی گئی — کسی خاص گوشے کی مکمل گنتی، جو اُس گوشے کے بارے میں زیادہ معلومات دیتی ہے بہ نسبت عمومی طور پر پالیسی کے۔
-
-## منسلک تصورات
-
-- [[pedagogical-partnerships]] — تدریسی شراکت داریاں
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — کیمسٹری کی تعلیم اور AI: لیبز، تکوینی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب میں تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص اوزار
-- [[stakeholders]] — چھتری تصور: AI تعلیم میں لوگ اور مخاطب (سیکھنے والے، اساتذہ، ڈویلپرز، منتظمین، پالیسی ساز)
-- [[student-support-and-success]] — ادارہ جاتی معاونت کی تعیناتی کا پالیسی سیاق
-
-## منسلک مضامین
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO اور OECD متون ایک گورننس لغت رکھتے ہیں اور کوئی عملی تعریف نہیں؛ تئیس دائرہ ہائے اختیار بغیر اُس کے اکٹھے ہو جاتے ہیں
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — سویڈن کا سروے اور فوکس گروپ مطالعہ جو دلیل دیتا ہے کہ ادارہ جاتی genAI فیصلوں کی رہنمائی شراکت کی اخلاقیات کرے، بے ایمانی کا فریم نہیں
-- [[generative-ai-governance-education-scoping-review-2026]] — تعلیم میں تخلیقی AI کی گورننس: اصولوں، میکانزموں اور خطرات کا اسکوپنگ جائزہ (Elmahjub et al. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — یونٹ کی سطح کے قواعد جنہیں طلبہ آپس میں نہیں ملا سکتے
-- [[tench-ai-policy-isnt-a-playbook-2026]] — AI پالیسی کی پہنچ، ایجنسی اور کلاس روم کے پانچ ڈراموں پر امریکی اساتذہ اور پرنسپلز کا قومی نمائندہ سروے (Tench، Weinstein اور James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — جب یونیورسٹیاں GAI کی وکالت کریں مگر عمل کم پڑے: فن کی تعلیم میں طلبہ کے اندازے اور تخلیقی عمل کی شمولیت
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — پیشہ ورانہ تربیت کے زیرِ عمل انگریزی اساتذہ کی کلاس روم AI پالیسیاں: اُنہوں نے کس کی اجازت دی، کسے محدود کیا اور کس پر پابندی لگائی (Nash اور Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی تحریری جانچ میں AI معاون اسکورنگ کے لیے انسانی نگرانی والا فریم ورک
-- [[mccorkle-aligned-genai-course-policy-2025]] — جائز اور ناجائز GenAI استعمالات کو جانچے جانے والے امر سے کام بہ کام اخذ کرنا (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — مدرسین 31,000 کورس نصابات میں AI کو کیسے ضابطہ دیتے ہیں (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — AI کے ذریعے کام کی بے دخلی بطور گریڈ افراط کا میکانزم (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — اعلیٰ تعلیم میں تخلیقی AI کی گورننس پر عالمی Delphi
-- [[qian-governing-genai-higher-ed-policy-2026]] — پالیسی پر رہنمائی کا غلبہ: مدرسین کے مقرر کردہ نصابی قواعد اور 50 اختراعی امریکی یونیورسٹیوں میں چار یونٹ کا معاون ماحول (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — ثبوت کی بنیاد کے بغیر پالیسی بنانے والے شعبے میں قانونی اسکولوں کی GenAI پالیسیوں کا پانچ عاملی موازنہ (Gutowski اور Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — نقل، تخلیق نہیں: حد سے گیر AI قواعد، فارمیٹ تبدیلی اور معذوری کے لیے ایڈجسٹمنٹ (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — اعلیٰ تعلیم میں AI کے لیے متوقع گورننس (اسکوپنگ جائزہ)
-- [[institutional-ai-policy-health-informatics-2026]] — تمام 48 تسلیم شدہ ہیلتھ انفارمیٹکس ماسٹرز پروگراموں میں AI پالیسی دستاویزات: زیادہ تر رہنمائی، تعلیمی دیانت کے گرد مرکوز (Eldredge et al. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — AI کے ذریعے جانچ کے لیے علمی سرپرستی (30 یونیورسٹیوں کا پالیسی آڈٹ)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — AI × SEL تحقیق میں پالیسی کا خسارہ
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی اقدار اور اصول
-- [[perrotta-zero-shot-governance-2026]] — زیرو شاٹ گورننس: پالیسی میں عام مقصد کا AI (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — ایل سلواڈور کے AI ٹیوٹرنگ پائلٹ کے سیکھنے والے دعوے کی حد بندی (Restrepo Morales et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 امریکی فیکلٹی: 87% اپنے اسائنمنٹ قواعد خود لکھتے ہیں جبکہ ادارہ جاتی اور شعبہ جاتی ہدایات پتلی ہیں (Watson اور Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — مقصد پر مبنی معاونت–جگہ لینے کی حد، کیلیبریٹ شدہ افشا اور فیصلے کے معیارات کے ساتھ (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI کے ذریعے جانچ میں پرامپٹ انجیکشن: گریڈز بغیر پکڑے گئے بدل گئے، اور پالیسی سطح کا جواب (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — جانچ کی تصدیقِ شناخت کے لیے 130 گورننس اشارے، اور اُس بیرونی دباؤ کی ضرورت جو اصلاح کو درکار ہے (Coates، Croucher اور Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — پالیسی کا درجہ بمقابلہ کام کا ڈیزائن: تین فزکس جانچوں میں طلبہ نے GenAI کس لیے استعمال کیا (Quince اور Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — زیادہ ملکی سطح کا تخلیقی-AI استعمال بڑی PISA 2022-2025 کمی کے ساتھ چلا، ایسا تعلق جو پچھلی کارکردگی کو کنٹرول کرنے پر غائب ہو گیا (Guerra اور Aslanov 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — انگلینڈ کا EdTech Impact Testbed بطور متوقع گورننس: ایسے پائلٹ جو وعدہ خیز ثبوت پیدا کرتے ہیں (Williamson et al
-- [[pandey-davies-he-governance-administrative-ai-2026]] — خریداری تدریس سے پہلے ڈیٹا کا ماحول طے کرتی ہے
-- [[chan-ai-policy-gap-2026]] — 46 مالی فراہم کنندگان کے 56 دستاویز: فنڈنگ کے لیے مخصوص 12 آلات کے ساتھ ایک تحقیقی فنڈر پالیسی پرت (Chan 2026)

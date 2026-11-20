@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,7 +47,6 @@ L'identità dello studente riguarda chi uno studente comprende di essere, e chi 
 L'identità è un costrutto motivazionale e sviluppoale distinto da (ma collegato a) abilità e credenze correlate. Laddove l'[[self-efficacy|autoefficacia]] riguarda *so farlo?*, l'identità riguarda *chi sono — e chi sto diventando?* Si costruisce attraverso partecipazione, riconoscimento e paternità — vedendosi riflessi in un dominio e vedendo confermata quella visione di sé. L'IA rimodella le condizioni in cui l'identità si forma perché cambia *chi compie il lavoro*, *che cosa conta come contributo proprio* e *se uno studente si sente riconosciuto come autore del proprio apprendimento*. Questo rende l'identità una preoccupazione di progetto di primo ordine anziché un fattore "morbido" periferico.
 
 - **Paternità e competenza sotto minaccia.** Quando l'IA produce testi, immagini o codice, gli studenti possono domandarsi se il risultato è davvero "loro" — una sfida alla dimensione di paternità dell'identità. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** documentano un *paradosso della competenza* in studenti di arte e design che usano IA generativa da testo a immagine: gli strumenti appaiono facili e utili, eppure il loro uso minaccia al tempo stesso l'**identità creativa** che gli studenti traggono dal lavoro manuale e dalla paternità, producendo una tensione reale tra facilità e valore di sé.
-
 
 Una condizione di paternità distinta, non solo una minaccia alla paternità: quando il dialogo auto-formativo viene abitualmente delegato a un modello conversazionale, sostengono gli autori, il lavoro integrativo dell'autorialità è *delegato* anziché non sviluppato o assente — un sé densamente espresso eppure non autorevole, per il quale dicono che i costrutti esistenti non hanno posto ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Vergogna e uso nascosto.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** mostrano che studenti di informatica provano vergogna e senso di colpa intorno all'uso dell'IA, che funzionano da regolatori sociali che spingono al *nascondere* e alla rivelazione selettiva — comportamenti che possono frammentare l'identità accademica e minare l'impegno onesto verso l'apprendimento.
@@ -92,38 +93,3 @@ L'identità dello studente si collega all'[[agency|agenzia]] (l'identità si ese
 **"L'assistenza dell'IA abbassa le barriere e quindi allarga la partecipazione."** Può abbassare la barriera a produrre lavoro mentre restringe la barriera a rivendicarne la paternità. A uno studente che consegna un artefatto fluente che non ha scritto è stato dato accesso all'esito e negato il riconoscimento che costruisce l'identità alle spalle.
 
 **"Riconoscere l'identità di un discente è una questione di rappresentazione nei contenuti."** La rappresentazione conta e il riconoscimento si esercita nella pratica: di chi vengono raccolte le domande, a chi viene accreditato il contributo, e chi viene trattato come capace. Un [[curriculum-design|curricolo]] può essere rappresentativo e comunque negare il riconoscimento che la formazione dell'identità richiede.
-
-## Concetti collegati
-
-- [[learners]] — Studenti: l'ombrello per i concetti sul lato studentesco
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Articoli collegati
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 undergraduates on what they keep doing themselves, and why purpose rarely decides it
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
-
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

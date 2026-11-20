@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,10 +43,3 @@ Voditelji uprave, prorektori i glavni informacijski direktori koji odlučuju št
 ## Napomene i upozorenja
 
 Okvir i mjesto licencirani su **CC BY-NC-SA 4.0**, pa je prilagodba dopuštena za nekomercijalnu upotrebu uz navođenje izvora i dijeljenje pod istim uvjetima; mjesto nudi i vlastiti predložak za navođenje. Njegovo usklađivanje s OECD-om, NIST-om, ISO/IEC 42001, Aktom EU-a o umjetnoj inteligenciji, FERPA-om i HIPAA-om vlastita je usporedba izdavača i tako je treba čitati. Prateća su mjesta zasebni projekti, nekoliko njih istog autora, i vrijedi ih poznavati kao skup: [Campus AI Exchange](https://www.campusaiexchange.com/) je središte u kojem se nalaze [interaktivne karte](https://www.campusaiexchange.com/ai-policies-guidelines-map) institucionalnih politika o umjetnoj inteligenciji i smjernica za razred, [samoprocjena upravljanja umjetnom inteligencijom](https://www.campusaiexchange.com/ai-governance-assessment), karte upravljanja podacima i stajališta o umjetnoj inteligenciji te knjižnica izvora. Oko njega su [campusaigovernance.com](https://campusaigovernance.com/) (devet područja upravljanja umjetnom inteligencijom), [campusairisks.com](https://campusairisks.com/) (NIST-ov okvir za upravljanje rizicima umjetne inteligencije primijenjen na ta područja), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), [predložak plana usvajanja umjetne inteligencije](https://unit-ai-adoption-plan.netlify.app/) na razini sastavnice i kratki pregled [agentne umjetne inteligencije za rukovoditelje](https://campusaiframework.com/sites). Strateški kompas kolao je i kao zajednički Google dokument za koji je potreban Google račun. Pri ulasku se pojavljuje kratko neobavezno pitanje o ulozi i ustanovi; e-adresa je neobavezna, a cijelo se mjesto može čitati i bez nje.
-
-## Povezani pojmovi
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

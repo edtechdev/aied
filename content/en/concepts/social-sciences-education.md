@@ -15,6 +15,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
 ---
 
 > **Social science education** — the teaching of disciplines that study people in aggregate: politics and civics, economics and management, sociology, geography and environmental studies. AI enters these fields twice over, as an instrument that changes the methods students learn and as an object of study, because algorithmic systems now govern the institutions the disciplines describe. The cluster sits under [[discipline-specific-aied|AI in the disciplines]] beside [[humanities-education|humanities education]] and [[stem-education|STEM education]]. Coverage is thin and uneven: business and management has the largest literature, civic education has sources but almost no measured learning, and environmental education is split between AI as a teaching aid and AI as a cost.
@@ -84,44 +86,3 @@ Geography reaches the literature only through [[environmental-education|environm
 **"Civic education's problem is that students will believe what a chatbot says."** The documented problem is thinner than that: AI-generated civics material defaults to recall-level tasks and drops multicultural content entirely, so the risk is a curriculum that stops teaching judgment before any student is misled.
 
 **"Environmental education can treat AI's footprint as an ethics topic."** Footprint is a design parameter: latency, model size and hosting decide it, and the reporting literature treats it as measurable rather than exhortatory.
-
-## Connected Concepts
-
-- [[discipline-specific-aied]]
-- [[humanities-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[civic-and-political-education]]
-- [[environmental-education]]
-- [[assessment-validity]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[civic-education-ai-lesson-plans]] — 310 AI-generated lesson plans against 53 civics standards: 90% lower-order, 94% with no multicultural content
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Algorithmic border governance and five demands of civic digital literacy in South Africa
-- [[csaszar-ai-management-education-2026]] — The effects of AI on management education: a value-based strategy analysis
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools
-- [[mesny-innovative-assessment-grading-management-2026]] — Innovative assessment and grading in management education
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy as the only significant predictor of essay grade in a simulated AI-assisted writing task
-- [[critical-genai-use-predictors]] — Knowledge (self-report and objective), epistemic orientation and intellectual values predict critical GenAI use
-- [[student-genai-use-views-writing]] — 504 sociology students: selective use, and a guidance gap (81% had instructions, 46% found them clear)
-- [[wells-genai-research-assistant-sociology-2026]] — 24 students in a sociology research methods course: Copilot for 6 of 18 workshops, barred from the proposal
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 24 Swedish teachers in writing-heavy disciplines reasoning about AI-generated work in assessment
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT replaces peer assessment in a second-year psychology media assignment
-- [[ai-tutor-statistical-programming-adoption-2026]] — Preregistered longitudinal study of "R-Tutor" in a psychology statistics course
-- [[mental-health-literacy-students-llms-2026]] — 150 psychology students against four LLMs on 30 mental-health statements
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 undergraduates, six ethical vignettes, and whether AI literacy predicts judgment
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training: 1,033 turns, disclosure responding to empathy and exploration
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 undergraduates across five universities: AI use roughly doubled, and psychology supplied 30% of the sample
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 ChatGPT-4 items in an Experimental Psychology course: reliability held, Bloom coverage did not
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o as a simulated client for counselor trainees: lower anxiety, agreeable and culturally flat client
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 286 psychology students and trainees: three to four latent classes in every domain
-- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] — 20 sociology items across ChatGPT, DeepSeek and Gemini: kappa 0.91 to 1.00, disagreement on the applied items
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 sociology students: ChatGPT as a thinking companion, and the voice they feared losing
-- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] — 216 social science students: training associated with lower confidence, not higher

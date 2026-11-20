@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -155,80 +157,3 @@ GenAI فیڈبیک کے 51 دوسری زبان کے مطالعات کی چھان
 **"طلبہ AI فیڈبیک پر عمل کرتے ہیں جب وہ دیا جائے۔"** قبولیت انتخابی ہے۔ [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston اور Long (2026)]] نے دو انڈرگریجویٹ [[biology-education|بیالوجی]] ٹیموں کا سراغ لیا جو تجویز کا تعارف استاد کے بنائے AI فیڈبیک کے خلاف نظرِ ثانی کر رہی تھیں: 22 میں سے 10 تبصروں پر کام ہوا، حذف کرنا اضافے سے زیادہ رہا، اور وہ تبصرے جو طلبہ سے ربط یا دعوے کی حمایت کا فیصلہ مانگتے تھے مکمل طور پر نظرانداز ہوئے۔
 
 **"ایک ماڈل استاد کے فیڈبیک کے نمونے کی جگہ لے سکتا ہے۔"** شواہد میں اُس نے ایسا نہیں کیا۔ ایک استاد کو مسودے کے مراحل میں سراغ کرنے سے فیڈبیک توجہ کی **پانچ** اقسام پر نمایاں حرکت ملی — *تعریف* ابتدائی مسودوں میں **26.9%** سے آخری مسودوں میں **84.9%** تک بڑھی — جبکہ قریب ترین ماڈل تین پر ہلا اور سب سے چھوٹا کسی پر نہیں، اور کسی ماڈل نے نمونہ دہرایا نہیں۔ استاد کا فیڈبیک مسودے کے مرحلے کے مطابق زور کو دوبارہ تقسیم کرتا ہے؛ ماڈل کا فیڈبیک اپنی تقسیم برقرار رکھنے کو مائل ہے۔ دوسرے کو پہلے کے برابر سمجھنا رفتار کھو دینا ہے۔
-
-## منسلک تصورات
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## منسلک مضامین
-
-- [[favero-thinking-not-writing-chatbot-2026]] — Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — 32 طلبہ کا نیم تجربہ: عمل اور صنف کی تدریس نے معلوماتی، کثیرالوسیط اور AI کی مدد والی تحریر بہتر کی (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 تحریری پروفیسر AI سے جانچ پر: فیڈبیک کے فوائد، نمبروں کا بہاؤ، کوئی ادارہ جاتی اصول نہیں
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51 مطالعات کا اسکوپنگ جائزہ: پرامپٹ کی شفافیت کے خلا اور AI بہ اضافہ استاد کسی ایک سے بہتر کیوں
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — زیرِ تربیت اساتذہ کی کلاس روم AI پالیسیاں: تناؤ اور الجھنیں
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی تحریری جانچ میں AI کی مدد والی جانچ کے لیے انسان در حلقہ فریم ورک
-- [[llm-comparative-judgment-writing-screening-2026]] — عالمگیر تحریری اسکریننگ کے لیے بڑے لسانی ماڈل کے تقابلی فیصلے کی درستگی
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی مدد والی تحریر میں تہہ حساس علمی منتقلی (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — AI تحریری اوزار محنت کم کرتے ہوئے بھی تحریری مہارت بہتر کر سکتے ہیں (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs مضامین کو انسانوں کی طرح نہیں جانچتے (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — ہم سب اور AI جائزہ + غور (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — AI خواندگی کا ماورائے انسانی نقطہ نظر
-- [[choi-anchor-aes-prompting-2025]] — اینکر پر مبنی خودکار مضمون جانچ
-- [[aiawe-automated-writing-evaluation]] — AIAWE: خودکار تحریری جانچ
-- [[agency-gap-ai-writing]] — AI کی مدد والی تحریر میں ایجنسی کا خلا
-- [[ai-writing-support-stage-ownership-2026]] — منصوبہ بندی سے نظرِ ثانی تک: مختلف مراحل میں AI تحریری معاونت
-- [[genai-teacher-feedback-comparison]] — جنریٹو AI اور استاد کے فیڈبیک کا موازنہ
-- [[student-rationalization-ai-writing]] — "یہ ٹھیک ہے کیونکہ…": طلبہ کے جواز بنانے کی وحشی مغربی زمین
-- [[care-full-feedback-genai]] — نگہداشت بھرے فیڈبیک کے طریقے
-- [[self-referential-l2-writing-llm-assessment]] — خود حوالہ جاتی L2 تحریری جانچ
-- [[becerra-aicofe-feedback-2026]] — AI ہم سب فیڈبیک نظام
-- [[repeated-ai-writing-feedback-semester]] — بار بار AI فیڈبیک کا طلبہ جائزہ
-- [[ai-feedback-critical-thinking-writing-2026]] — تنقیدی سوچ بہتر بنانے کے لیے AI کی پیدا کردہ فیڈبیک کا استعمال
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: ذاتی نوعیت کے خودکار تحریری فیڈبیک میں لسانی تعصبات
-- [[bassett-ai-detectors-education-2026]] — سکے کا ایک رخ ہمارا: تعلیم میں AI ڈیٹیکٹر (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — علمی مٹا دینا: AI کی مدد والی تحریر کے تحت پیچیدگی کا غائب ہو جانا
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — ابتدائی تحریر میں کثیرالوسیط AI تحریر اور تنقیدی سوچ (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — طلبہ کا تحریر کے لیے GenAI کا استعمال اور اُس پر رائے (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — ابتدائی L2 محرکات، شمولیت اور کارکردگی کے لیے GenAI کی مدد والا تحریری پروگرام (Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — طلبہ کی مارکیٹنگ پوسٹس کی خودکار جانچ میں مطابقت اور غلطی
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — پرامپٹنگ خواندگی اور اندرونی محرکات گہری نظرِ ثانی چلاتے ہیں جبکہ بیرونی احکام کا کوئی براہِ راست اثر نہیں (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — طلبہ کی تحریر پر LLM کی پیدا کردہ فیڈبیک میں توجہ اور پيدگوجی موافقت کا جائزہ
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 8 ہفتے کے نیم تجربے میں استاد کا فیڈبیک بمقابلہ AI کی مدد والا ہم سب فیڈبیک بطور متفاوت L2 سہارے (Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — GenAI تحریری کارکردگی کا میٹا تجزیہ: بڑا یکجا شدہ اثر، نازک مقدار، طریقہ کار پيدگوجی پر فوقیت (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — AI تحریری تخصیص اور نظریے اور ڈیزائن کے عدم توازن کا منظم جائزہ (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — تعلیمی تحریر میں منظم انسانی اور AI تعاون اور ڈیجیٹل تنقیدی سوچ (Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — ایک ہی مسودے کی انسانی اور AI نظرِ ثانی مختلف مکالماتی موقف لیتی ہے: ہم سب فیڈبیک مکالماتی گنجائش بند کرتا ہے، AI نظرِ ثانی اُسے متوازن رکھتی ہے (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: پیشگی شمولیت پر AI کی پیداوار کی مشروطیت نے محنت کو تحریر کی طرف منتقل کیا بغیر وقت یا درستگی کی قیمت کے (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — L2 تحریر کے لیے چھ جہتوں والا GenAI-SRL پیمانہ، ماحولیاتی ضابطگی (اوزار کی حکمرانی) بطور الگ جہت
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — AI کو ہم سب فیڈبیک کے ساتھ جوڑنا شمولیت اور تحریری نمبر بڑھاتا ہے
-- [[when-students-prefer-ai-scoring-feedback-2026]] — طلبہ زیادہ اہمیت والے سرے پر انسان چاہتے ہیں
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — بیالوجی انڈرگریجویٹس کا سائنسی تحریر کی نظرِ ثانی کے لیے AI سے بہتر فیڈبیک کا استعمال: قبولیت اور رکاوٹیں (Weston اور Long 2026)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — تعلیمی تحریر میں جنریٹو AI کا ذمہ دارانہ طلبہ استعمال: حدود، تعلیمی طریقوں اور شواہد کے خلا کا اسکوپنگ جائزہ
-- [[porcaro-ai-grading-benchmark-2026]] — اتفاق سے آگے: 22 پرامپٹ شدہ جانچنے والے ایسے پروبس سے ملتے ہیں جن کا درست جواب معلوم ہے، اور اُن میں سے بیشتر کو بہلا کر اوپر کیا جا سکتا ہے (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — سیکھنے والے کا سیاق ایک LLM جانچنے والے کے نمبر یکساں کام پر بدل دیتا ہے، چھ ماڈلز پر ایک ہی مد میں ابلیشن سے ناپا گیا (Porcaro 2026، مقالہ VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — ٹریس سے ناپی گئی تفویض: 137 پورے کام کے استفسار، 15 طلبہ ایسے مضامین جمع کرائے جن میں اپنے ٹائپ کیے کوئی الفاظ نہ تھے (Jelson et al. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI دور کی تحریری شمولیت کی دو جہتیں: رِگور اور استاد کی کمیٹمنٹ
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 سیکشن، 10 کورس، 654 طلبہ: PAIRR کی نمایاں تعیناتی اور اُس کا صرف فیڈبیک والا پرامپٹ

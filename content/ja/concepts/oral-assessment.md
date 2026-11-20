@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -92,38 +94,3 @@ ai_assist:
 - **「口頭評価は規模に対応できない。」** [[code-review-genai-cs1|CS1 の口頭コードレビューの研究]]では、**週 1 回 15 分の面接が各課題の成績の 70% を担い**、貼り付けた文字数の総文字数に対する比率も依然として情報を持っていました。コストは現実であり、その設計はコースの規模で実装可能です。
 - **「口頭試験は筆記より甘い。」** 報告されたパイロットでは、得点が**対面の多肢選択試験のそれを上回りました。中間試験の中央値は 92.5 対 70（p < .001）、期末試験は 94.2 対 86.4（p = .002）です**。口頭評価は寛大な選択肢ではありませんでした。
 - **「模擬的な遭遇は、段階的開示のケースと等価である。」** [[ai-standardized-patient-scaffolding-medical-2026|医学部 3 年生 100 人を対象とした RCT]]では、模擬患者システムが**段階的開示のケース教材と比較されました**。等価性の想定ではなく、等価性の直接的な検証です。
-
-## 関連する概念
-- [[pedagogical-patterns]] — 口頭と口頭試問による検証の順序、そしてそれらが示すものと示さないもの
-- [[assessment]] — この形式が位置するより広い領域
-- [[authentic-assessment]] — インテグリティの議論を成立させるデザインの伝統
-- [[assessment-validity]] — 形式が測ると主張できるものと主張できないもの
-- [[academic-integrity]] — 口頭試問を再び注目させる圧力
-- [[automated-assessment]] — 口頭パフォーマンスの機械による提供と採点
-- [[ai-detection]] — 代替の対応、そしてなぜそれが弱いか
-- [[speech-and-voice-technologies]] — 口頭システムが動く音声のパイプライン
-- [[multimodal]] — 統合されたエビデンスとしての身振りと話し言葉
-- [[anxiety-and-stress]] — ライブのパフォーマンスの情動的なコスト
-- [[feedback]] — 口頭試問が学習者に自分の理解について伝えるもの
-- [[higher-ed]] — このエビデンスのほぼすべてが由来する場
-
-## 関連する記事
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — 分岐しないAI対話タスクは、タスク要求をスピーキングの構成概念と不一致にしてしまう。
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ライブの口頭試問ももはや例外ではない。AIグラスとイヤホンが密かにリアルタイムの指示を届ける(Corbin, Sharpe & Dawson 2026)。
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 口頭試験と口頭による評価の活用を再考する(Fenton 2025)。
-- [[asynchronous-oral-assessment-2026]] — 非同期型口頭評価における学術的誠実性、エンゲージメント、専門的コミュニケーション。
-- [[ai-supported-oral-assessment-tvet-2026]] — 職業教育におけるAI支援型口頭評価の設計。
-- [[aivaluate-anxiety-assessment-2026]] — AIを介したパフォーマンス評価における不安と経験。
-- [[code-review-genai-cs1]] — プログラミング入門コースにおける口頭コードレビュー面接。
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明の評価における証拠としてのジェスチャー。
-- [[socratic-tests-conversational-assessment]] — 口頭評価としての自動対話型テスト。
-- [[tool-invariant-framework-agentic-ai]] — AI支援による成果物の口頭ディフェンス。
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 模擬患者システムの下で行う口頭臨床面接。
-- [[pgr-students-genai-uses-qualitative-2026]] — 生成AIの下での博士論文口頭試問。
-- [[computing-assessment-genai-workshop-report-2026]] — AIはあなたの宿題をこなせる。では、どうするのか。生成AI時代のコンピューティング評価に関するオンラインワークショップからの報告。
-- [[assessment-feedback-trilemma-model-2026]] — いかなる形式にも固定的な位置づけを認めず、実施可能性を教育的な優先課題として捉え直す。
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — ビジネス統計コースにおける日程調整の回避策としての、AIが足場掛けを行うペア口頭試問。
-- [[deng-certification-consultation-university-teaching-2026]] — 生成AI以降の大学教育は、講義と探究を超えて、学習者が評価者となる認定とコンサルテーションのパラダイムへ進む。
-- [[webb-davies-voice-first-written-assessment-2026]] — 自宅で書かれた提出物を採点する前に観察下で推論過程を確保する二段階の筆記評価であり、結び付きが不明瞭な場合には条件付きの口頭試問を課す(Webb-Davies, Ratner & Bassett 2026)。
-- [[challen-conversational-assessment-chat-exams-2026]] — スケーラブルな対話型評価——2エージェントLLMパイプラインによるチャットベース試験。

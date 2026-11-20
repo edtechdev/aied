@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -105,35 +107,3 @@ ai_assist:
 **"תרגול אחזור פירושו מבחנים, וכל מבחן נחשב."** המנגנון הוא הפקת תשובה מן הזיכרון ולא זיהוי שלה, ולכן משימת זיהוי אמריקאית היא גרסה חלשה של אותה פעילות. AI שמייצר בלי סוף פריטי זיהוי ייצר פעילות בעלת השם הנכון והמנגנון הלא נכון.
 
 **"AI יכול להעביר את הטכניקות האלה בנאמנות, כיוון שהן מוגדרות היטב."** הוא יכול גם להביס אותן בשקט. ריווח דורש שהמערכת תמנע מן החומר שהיא הכי מסוגלת לספק על-פי דרישה, ואחזור דורש שהיא לא תענה — ולכן יעילות הטכניקה תלויה באילוצים שלסייע מסכים אין כל תמריץ להטיל.
-
-## מושגים קשורים
-
-- [[pedagogical-patterns]] — Spaced retrieval sequences, and the retention cost of assisting during encoding
-- [[desirable-difficulties]] — the principle these three techniques operationalize
-- [[cognitive-psychology]] — memory, encoding and retrieval as the theoretical home of all three
-- [[prior-knowledge]] — retrieval practice as activation of what the learner already holds
-- [[metacognition]] — judging whether fluency reflects learning
-- [[self-regulated-learning]] — studying consistently what an AI can schedule or answer for you
-- [[mastery-learning]] — retention after the mastery threshold, and the spacing that sustains it
-- [[knowledge-tracing]] — the models that make or miss scheduling decisions
-- [[cognitive-offloading]] — the failure mode when retrieval is delegated to a tool
-- [[transfer-of-learning]] — the performance–learning gap the techniques address
-- [[formative-assessment]] — closed-tool checkpoints as retrieval events
-- [[productive-failure]] — attempting before receiving help
-- [[learners]] — the stakes of durable rather than fluent learning
-
-## מאמרים קשורים
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: adaptive spaced retrieval vs fixed retrieval vs learner-directed AI over seven weeks
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 scheduling and a taxonomy of grounded flashcard interactions
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: explanation depth predicts task quality but not immediate recall
-- [[rachatasumrit-example-problem-ratio-2026]] — Retrieval practice for facts, worked examples for skills; the content–treatment interaction
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge-tracing models fail to capture the spacing effect under time-based validation
-- [[bilingual-llm-lecture-companion-srl-2026]] — Automatic flashcard generation removing the authoring cost of spaced practice
-- [[student-cheat-sheets-make-or-take]] — Constructing a cheat sheet as generative study; offloading the construction with AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation surfacing gaps clarification did not
-- [[simulating-learner-task-selection]] — Interleaving and Blocking as modeled learner strategies under task-selection constraints
-- [[nie-personavlm-long-term-personalization-2026]] — Longitudinal student memory and its open relation to spaced repetition and forgetting curves
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Retrieval practice in the Tools layer of a learning-to-learn framework
-- [[agentic-ai-pedagogical-best-practice-2026]] — Pre-fetching agents bypass retrieval practice; the case for intentional friction
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment

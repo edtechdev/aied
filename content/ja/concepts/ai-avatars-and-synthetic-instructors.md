@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -122,50 +124,3 @@ AIアバターは、モデルによって駆動される、レンダリングさ
 **「アバターの外見は化粧品にすぎない。」** アイデンティティの手がかりは信頼性の評定と助言の実際の受容を変え、年配の黒人女性のアバターでは不利が複合しました。([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) 設定は教授上および[[equity-in-ai-education|公平性]]上の決定です。
 
 **「模擬患者は標準化患者からコストを引いたものである。」** 訓練生の心理士は、自分の仮想患者を協力的で、すでに療法が進んだ「理想的な」ケースと見出しました。それは行動上の柔軟性の欠如を過小に表象しています。([[ai-psychotherapy-training-avatars]]) コストは下がりますが、ケースの妥当性が自動的に続くわけではありません。
-
-## 関連する概念
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## 関連する記事
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — 受容側のエビデンス: 学習者653人、透明性が信頼の最も強い予測因子(Wang et al. 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — アバターのアイデンティティの手がかりが信頼性と助言の受容をシフトさせる(Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — 実践ベースの教員養成における対話の中の学生アバター(Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — AIリテラシーのワークショップにおける、性別ごとのディープフェイクの作成と通報
-- [[elevate-genai-virtual-tutors]] — 教師によるガバナンス層を備えたローカルファーストの3Dアバターチューター(ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — 臨床コミュニケーションのためのLLM判定者を伴うアバター患者
-- [[genai-simulate-patient-history-pbl-2026]] — PBLの病歴聴取チュートリアルにおける生成AI患者アバター
-- [[ai-psychotherapy-training-avatars]] — 心理療法訓練におけるACTの忠実度練習のための患者アバター
-- [[aclime-pedagogical-agents-extended-reality-2026]] — 拡張現実における教授学的エージェント: プレゼンス、リアリズム、負荷(ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 傍観者の介入のための、操られるアバターを用いたロボット媒介のロールプレイ
-- [[personalized-ai-generated-videos-preference-2026]] — クローン化された講師による映像の個人化と学生の選好
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 教室シミュレーションにおいて表象を主体性から切り離す4層の枠組み
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 科目フィードバックのインタビューのために提案された対話型音声エージェント
-- [[trikonet-trivalence-co-creativity-2026]] — 社会技術ネットワークにおける共創的な教授学的アバター(TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654人の学生のうち51.7%だけが提示された擬人化の役割を選び、1人はそれをフィードバックの自動販売機と呼んだ
-
-- [[wu-singing-syllabus-avatars-2026]] — 仮想アバターを用いた歌うシラバスの設計: AI支援によるシラバスの再作成

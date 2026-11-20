@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -119,51 +121,3 @@ A **Simbiose Pedagógica** de [[elsayed-pedagogical-symbiosis-posthuman-learner|
 **"Mais teorias significam um campo mais bem compreendido."** Acumulação sem adjudicação é o oposto de progresso. As teorias propostas para a era da IA se multiplicam mais rápido do que são testadas, e o sinal de maturidade é a resolução de previsões concorrentes — o que exige desenhos que consigam distingui-las, e não catálogos que as acomodem.
 
 **"Educação sobre IA é o mesmo que IA na educação, teoricamente falando."** Elas se apoiam em vertentes diferentes: uma pergunta como quem aprende chega a compreender a IA como assunto, a outra como a IA muda a forma como a aprendizagem acontece. Confundi-las produz revisões de literatura que misturam duas bases de evidência distintas e não relatam um quadro coerente de nenhuma das duas.
-
-## Conceitos conectados
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-
-## Artigos conectados
-- [[yan-agentivism-learning-theory-ai-2026]] — Uma teoria de aprendizagem de alcance médio para a interação humano-IA, com quatro mecanismos e seis proposições testáveis (Yan e Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Supergeneralização enganosa: o domínio adaptativo pode encerrar a prática antes de quem aprende saber quando se abster de uma ação (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — Investigação e regulação aumentadas por IA em sistemas híbridos (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Posiciona a IA como parceira cognitiva na corregulação humano-IA; framework desenvolvimental ao longo da vida
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: um framework filosófico que reconceitua o pensamento como interação humano–IA
-- [[self-directed-growth-generative-ai-learning-analytics]] — Crescimento Autodirigido e o modelo A2PL estendendo a aprendizagem autodirigida com IA generativa
-- [[generativism-learning-theory]] — Propõe uma nova teoria de aprendizagem para a era da IA generativa, revisitando as quatro clássicas
-- [[ai-vocational-education-training-review]] — Documentou a lacuna entre teoria e prática construtivismo/behaviorismo na IA para EFP
-- [[genai-educational-outcomes-meta-analysis]] — Metanálise PRISMA de 53 estudos: ganhos agrupados em desempenho, pensamento, escrita e motivação, com o feedback como maior mecanismo (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — A IA generativa como agente mediacional
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falha produtiva
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direção pedagógica de LLMs para a falha produtiva
-- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para aprendizagem autônoma de línguas
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — Práticas pedagógicas e integração da IA generativa ao longo do espectro das teorias de aprendizagem: uma revisão sistemática

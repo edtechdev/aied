@@ -27,7 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -186,50 +187,6 @@ AI 写作的规模效应见于第二项文献计量研究。[[ai-assisted-writin
 - **“LLM 论文与软件论文被评价得一样好。”** 自 2023 年以来，**38.0% 的软件与产品论文完全没有报告任何评价，而 LLM 论文为 9.3%**。差距很大，且与“更新的工具会被更严格地检验”这一假设相反。
 - **“按任务分层就能消除这一差距。”** **差距在分层之后依然存在**：在筛选与选择任务中，软件论文平均有 **3.2 个实质性评价条目，其中 39.3% 一个也没有**，而 LLM 论文平均更多。这一差异是论文类别的系统性属性，而非任务的属性。
 - **“评价为正就意味着该工作流程达到了它应有的标准。”** 在 **118 项仅有正面评价的 LLM 论文中，52% 仍报告了至少一项担忧，即该工作流程低于其角色所要求的标准**。一半的正面评价包含了对自身的否定。
-
-## 关联概念
-
-- [[research-methods-aied]] — 用于研究教育中 AI 的设计的总括
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## 关联文章
-
-- [[ai-methodologies-science-education-research-2026]] — 一个关于 AI 方法论如何变革科学教育研究的七阶段反思框架（Martin 等，2026）
-- [[scaffolding-systematic-reviews-2026]] — 一个跨学科综述团队关于指导与选择性 AI 整合的记述（Wang 等，2026）
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28 名研究生如何在研究工作流程各环节使用 GenAI，以及他们建议的指引（Dai 与 Chan，2026）
-- [[citation-errors-hallucinations-computing-education-2026]] — 对计算教育文献中伪造引用的领域规模审计（Denny 等，2026）
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — 一个 AI 辅助系统综述的报告框架，及其记录的问责缺口（Zabaleta 与 Lin，2026）
-- [[genai-academic-search-workshop]] — 一份关于生成式 AI 与学术检索的 CHIIR 2026 研讨会报告（Liu、Arguello、Hoeber 等，2026）
-- [[persistent-ai-agents-academic-research]] — 一项关于研究工作空间中持久化智能体的单一研究者案例研究（Alzahrani，2026）
-- [[ai-assisted-writing-research-teams]] — AI 辅助写作伴随更小、更年轻研究团队的文献计量证据（Wang 等，2026）
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 一个用模拟学习者评估导师智能体的 30 天基准（Lee 等，2026）
-- [[beagle-grounded-learner-emulation-2026]] — 一个复现真实新手挣扎的神经符号模拟器（Wang 等，2026）
-- [[llm-student-simulation-misconception-faithfulness]] — 模拟器为何在任何反馈下放弃误解，以及训练如何修复（Do、Sonkar 与 Sachan，2026）
-- [[llm-judged-helpfulness-pedagogy-signal]] — 一项用固定模拟学习者检验帮助性是否测量教学的预注册审计（Fan 等，2026）
 
 ## 引用
 

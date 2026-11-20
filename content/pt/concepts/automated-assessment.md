@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -65,7 +67,6 @@ A correção automatizada é uma das aplicações mais maduras e amplamente impl
 - **Benchmarking de modelos GenAI para correção aberta:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] compararam onze modelos GenAI e de embeddings de frases com dois avaliadores humanos especialistas em 1.885 respostas abertas a 24 questões de engenharia de software. Apenas o GPTo1 alcançou concordância quase perfeita (Kappa de Fleiss 0,82, poucos falsos positivos e falsos negativos entre as categorias de nota), com Claude3 e PaLM2 logo atrás; modelos [[generative-ai|GenAI]] sensíveis ao contexto lidaram de forma robusta com respostas curtas e formuladas de formas diversas, enquanto modelos baseados em referência e embeddings (ex., 345 falsos positivos do BERT) penalizaram sistematicamente respostas corretas mas formuladas de modo divergente — evidência de que a escolha do modelo, e não apenas o formato da correção, molda a confiabilidade para [[assessment|avaliação aberta]].
 - **Exemplares de prompt decidem a concordância da correção:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi et al. (2026)]] automatizaram o raciocínio diagnóstico hierárquico (HDR), uma tarefa de competência aplicada em que os estudantes encontram e explicam erros deliberadamente inseridos num caso curto. Usando GPT-4o sem fine-tuning, a equipe gerou novos problemas e pontuou as descrições dos estudantes: problemas gerados e escritos por humanos tinham a mesma consistência interna (α de Cronbach = 0,78) e não mostravam diferença significativa de distribuição de notas entre 100 participantes, e a correlação do formato com um controle de compreensão de leitura ficou baixa (α = 0,36 e 0,41). A precisão da correção dependia do prompt, e não do modelo — sem exemplos resolvidos, a precisão da Q2 caía a 0,42, enquanto acrescentar exemplares corrigidos e incorretos pontuados por humanos elevava a concordância a 98% ou mais em todas as questões (Q1 e Q2 em 100%) — contra um custo humano medido de 138 minutos de correção especializada para 117 respostas mais 30 minutos de consenso.
 
-
 O próprio modo de raciocínio de um modelo é uma segunda alavanca de configuração: em 32 submissões anonimizadas de exame de mestrado em saúde pública, o mesmo ChatGPT passou de kappa ponderado 0,269 no modo rápido para 0,718 no modo de raciocínio, enquanto o Kimi alcançou 0,571 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **[[agentic-ai|Multi-agente]] na codificação de respostas abertas de professores, onde o framework, e não o modelo, carrega a confiabilidade:** [[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al. (2026)]] estendem a avaliação automatizada além do trabalho estudantil para a codificação do próprio conhecimento de conteúdo (CK) e do [[pedagogy|pedagógico]] conhecimento de conteúdo (PCK) dos professores, perguntando se a IA consegue reproduzir a codificação humana treinada das respostas escritas de 268 [[k-12|professores de matemática do ensino fundamental]] dos EUA sobre razões e relações proporcionais. Um LLM multiagente construído para o propósito, o GradeOpt, atribui três papéis apoiados por GPT-4o — um Corretor que aplica o manual de codificação humana, um Refletor que diagnostica cada discordância com o código humano, e um Refinador que incorpora pontos de clarificação de volta ao manual por até seis rodadas — e se aproximou bastante dos codificadores humanos treinados em CK (κ = ,88 e ,85), alcançando concordância substancial nos itens de PCK, muito mais interpretativos (κ = ,68; κ ponderado = ,79). Duas baselines de NLP e um modelo GPT-4o de prompt único nunca superaram κ = ,39 ou κ ponderado = ,55 em PCK, de modo que os autores atribuem a confiabilidade ao refinamento das instruções contra o manual de codificação, e não à escala do modelo, e recomendam revisão especializada sempre que níveis de codificação adjacentes se confundam, já que os erros residuais do GradeOpt eram tipicamente códigos adjacentes, e não erros grosseiros.
 - **Correção de exames de formato misto (2026):** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] avaliaram o ChatGPT-5 contra a correção de docentes humanos num exame de farmácia de 21 itens (16 estudantes) abrangendo múltipla escolha, selecione-tudo-que-se-aplica, preencha-a-lacuna, listagem, resposta curta e redação. A concordância foi substancial a quase perfeita para tipos de item objetivos (CCC 0,935–1,000 — auxiliada pelo fornecimento das respostas corretas durante a correção), mas colapsou para itens de listagem (0,621–0,708), resposta curta (≈0 a negativo) e redação (0,341–0,854); fornecer uma rubrica estruturada não melhorou consistentemente a concordância do exame completo (71,1% sem vs. 68,2% com). O estudo aguça um ponto metodológico que reaparece por toda a avaliação automatizada — acurácia percentual moderada frequentemente coexiste com baixa [[assessment-validity|concordância]] — de modo que a acurácia isolada superestima a confiabilidade, e recomenda [[human-in-the-loop-ai|correção híbrida]] para itens complexos, subjetivos ou de alto impacto.
@@ -107,7 +108,6 @@ A avaliação automatizada costuma pontuar o que os estudantes produzem, deixand
 
 Quatro temas organizam o corpus: **Avaliação**, modelos que pontuam professores a partir de feedback de estudantes e dados de survey; **Engajamento**, ferramentas que classificam estudantes por nível de engajamento em contextos on-line, presenciais e híbridos; **Expressão**, codificação de sentimento e de tópicos do feedback escrito dos estudantes; e **Experiência**, captura por sensores e vídeo do comportamento observável em sala de aula. O desempenho docente foi o alvo mais comum, em 11 dos 21 estudos. Os autores não realizaram [[meta-analysis-systematic-review|metanálise]], porque a heterogeneidade metodológica e de desfechos inviabilizou o agrupamento, e 7 dos 21 estudos tinham 100 participantes ou menos — de modo que a revisão mapeia um campo fragmentado, em vez de estimar quão bem a IA julga o ensino.
 
-
 ## Qualidade e justiça
 
 A qualidade da avaliação automatizada depende de [[assessment-validity]] e de [[bias-mitigation]]. A pesquisa sobre [[ai-scoring-language-bias-physics|viés de língua]] mostra que a correção automatizada pode desfavorecer sistematicamente certas populações de estudantes.
@@ -118,7 +118,6 @@ A automação também reenquadra a correção como administração rotineira, e 
 
 - **A discordância da IA como diagnóstico de rubrica.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al. (2026)]] integraram um corretor LLM ao PrairieLearn para que os instrutores vejam a discordância ao nível de item com sua própria correção e então revisem a rubrica antes de escalar. A concordância IA–humano alcançou 99,4% numa questão de bug de item único e caiu para 65% num problema de matriz de Markov com seis soluções válidas.
 
-
 ### Cenários de implantação e o que cada um exige
 
 Quanto alinhamento uma instituição deve exigir depende do que o sistema tem permissão para decidir. Num estudo de [[mixed-methods-research|métodos mistos]] de [[opraise-automated-marking-ai-assessment-2026|761 redações reais de graduação em três universidades do Reino Unido]], três modelos de fronteira com 27 configurações de prompt cada alcançaram apenas 35–65% de concordância com avaliadores humanos na faixa de grau, e a acurácia não se transferiu entre instituições — de modo que o relatório trata os usos candidatos como cenários distintos, e não como uma única decisão. **Garantia de qualidade da correção humana**, em que a IA corrige em paralelo e diferenças significativas disparam revisão humana, é a mais conservadora. **Um assistente de correção**, que ordena ou categoriza submissões por qualidade ou incerteza prevista, triando casos complexos ou expandindo comentários humanos breves em feedback mais completo, é um meio-termo genuíno. **IA como corretor primário**, com revisão humana de uma amostra ou das distribuições de notas, foi julgada aceitável apenas se o desempenho do sistema melhorar, e nenhum grupo de [[stakeholders|partes interessadas]] endossou a IA como corretor único.
@@ -128,7 +127,6 @@ Três requisitos decorrem para qualquer um deles. Como o alinhamento é específ
 Combinar os três modelos não removeu esse erro: como seus erros eram correlacionados — na mesma direção em 63,4% dos trabalhos —, o conjunto de [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] foi estatisticamente indistinguível do melhor modelo isolado, deixando a compressão de tendência central compartilhada em vigor.
 
 Se um LLM pode substituir um avaliador humano é algo que pode ser testado, e não suposto. Em 523 configurações sobre 631 respostas de estudantes, substituir o melhor par LLM-prompt por um de dois avaliadores humanos manteve a concordância do grupo não inferior em 88,3% de 103 critérios, mas apenas 14,6% das 20.464 configurações testadas por critério superaram esse patamar ([[baumartz-rubric-aes-llm-ensembles-2026|Baumartz et al. (2026)]]).
-
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] fornece os critérios que esses requisitos pressupõem, argumentando que o que torna a automação defensável é o *estado epistêmico* da tarefa, e não o que a tecnologia consegue realizar tecnicamente. Seu framework limita a IA à verificação delimitada de afirmações factuais e procedimentais — todos os quatro critérios de critérios documentados inequívocos, comparação direta com conhecimento estabelecido, nenhuma avaliação de abordagens alternativas válidas e uma única resposta correta ou conjunto pré-especificado de respostas aceitáveis devem valer simultaneamente, com a ambiguidade escalando para um humano por padrão — e torna o envolvimento da IA nesse nível condicional a cinco princípios não negociáveis que devem valer todos de uma vez: a base de conhecimento deve ser curada pelo avaliador e fundamentada nos materiais do módulo, e não no conhecimento paramétrico do modelo; avaliadores humanos revisam toda saída da IA antes que chegue aos estudantes e detêm sobreposição absoluta com responsabilidade não compartilhada; o feedback deve carregar proveniência e atribuição claras; e a segurança deve ser desenhada contra uso adversarial desde o início, com sanitização de entrada para instruções escondidas em texto branco ou pequeno, codificações, imagens ou metadados de documentos, já que a circunvenção bem-sucedida de um sistema automatizado se espalha pelas turmas de estudantes. O mesmo artigo é explícito que seus princípios não foram testados para viabilidade simultânea e que o tempo do avaliador para curadoria, infraestrutura de segurança e supervisão de alta frequência pode deslocar o esforço da equipe em vez de reduzi-lo — uma cautela que fica ao lado do requisito de validação local acima.
 
@@ -157,7 +155,6 @@ A avaliação automatizada conecta-se a [[assessment-validity]] (garantia de qua
 
 - **"Um único kappa é o caso de um corretor."** É uma verificação, e um benchmark de **22 modelos com prompting** em três corpora públicos mostra por quê. Todos os modelos passaram em sondas cuja resposta certa é conhecida: um pedido educado de nota máxima, uma instrução de correção forjada, uma resposta em branco, uma palavra sem sentido, uma objeção nua. **Catorze** foram sinalizados por ganhar mais de **5% da escala** com uma nota, até **83,2%** em código, e **sete** creditaram respostas em branco ou sem sentido, de modo que [[porcaro-ai-grading-benchmark-2026|a cifra de concordância e os testes de falha precisam ser lidos juntos]]. Um sistema de correção implantado tem mais uma entrada a testar: compartilhar a estimativa de um [[student-modeling|modelo do estudante]] com o corretor deslocou as notas em **0,28 a 0,75 ponto** em trabalho idêntico, e [[porcaro-ai-grader-reliability-2026|a ablação que o encontrou]] deixou a concordância entre avaliadores quase inalterada.
 
-
 - **A concordância de rotulagem depende do framework.** Contra as tags de docentes em 62 questões de farmácia, uma ferramenta de mapeamento curricular por IA alcançou kappa 0,69 para estados de doença e 0,57 para Bloom, mas apenas 0,24 para subdomínios COEPA, e a comparação permitiu múltiplas tags aos docentes contra a escolha única da ferramenta ([[stewart-tag-question-categorization-competency-2026|Stewart et al., 2026]]).
 
 ## Ideias equivocadas comuns
@@ -166,79 +163,3 @@ A avaliação automatizada conecta-se a [[assessment-validity]] (garantia de qua
 - **"O juiz é a fonte da falta de confiabilidade."** Em 378 decisões com dados fixos, uma reexecução mudou **2,9 a 6,1 por cento** dos resultados sob um método semirrígido e **13,5 a 15,9 por cento** sob adjudicação livre, enquanto trocar a IA juíza acrescentou apenas cerca de 3 pontos ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — o procedimento, e não o juiz, define a reprodutibilidade.
 - **"Relatar confiança é um refinamento opcional."** Uma nota que dissesse estar **70% segura** mudaria o modo como é usada, e a ausência dessa informação força o leitor a tratar todas as notas como igualmente certas.
 - **"A correção automática de respostas curtas é uma área assentada."** Uma revisão de escopo da correção automática de respostas curtas em [[science-education|ciências]] (**2017 ao início de 2024**) documenta a história do campo, que é um registro do que foi tentado, e não do que foi validado.
-
-## Conceitos conectados
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Avaliação somativa: formatos resistentes à IA (orais, supervisionados, provas de livro fechado)
-
-## Artigos conectados
-- [[llm-structured-assessment-diagnostic-quality-2026]] — Subdimensões de rubrica de LLM são quase redundantes e o feedback raramente nomeia concepções errôneas (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — Relatório OpRaise: correção por IA de 761 redações universitárias em três universidades do Reino Unido
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Correção assistida por IA humano-no-controle numa avaliação nacional de escrita em grande escala (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validade do julgamento comparativo por Large Language Model para triagem universal de escrita
-- [[usher-faraon-who-grades-best-2026]] — Comparando correção por ChatGPT, colegas e instrutor entre níveis de qualidade de projeto (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Avaliando a qualidade de exames gerados por IA: um estudo de campo em grande escala
-- [[automated-formative-assessments-a-level-sciences]] — Avaliações formativas automatizadas em ciências de A-level
-- [[cong-confidence-asag-2026]] — Correção automática de resposta curta sensível à confiança
-- [[ai-scoring-language-bias-physics]] — Viés de língua da IA na correção de física
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibração de dificuldade baseada em LLM para exames de programação
-- [[choi-anchor-aes-prompting-2025]] — Prompting para correção automatizada de redações baseada em âncoras
-- [[cotal-formative-assessment-scoring-2026]] — Correção de avaliação formativa CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Correção automatizada de exames de Linux Bash com LLMs
-- [[confidence-aware-student-drawing-assessment]] — Avaliação sensível à confiança de figuras desenhadas por estudantes
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: avaliação automática de diagramas matemáticos gerados
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs. racionais de LLM para avaliação de qualidade de ensino baseada em rubricas
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizando a avaliação do aprendiz: predição de familiaridade baseada em EEG
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: geração de rubricas de avaliação por IA
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Correção e feedback supervisionados pelo instrutor com assistência de IA
-- [[ai-grading-handwritten-physics-2026]] — Correção por IA de avaliações manuscritas de física (Olimpíada)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Quem deveria corrigir meu trabalho? Perspectivas dos estudantes sobre avaliação de escrita com IA transparente no ensino superior
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Framework tripartite: ordenando o feedback por estado epistêmico e os cinco princípios de fronteira para o envolvimento da IA (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Avaliação de red team de injeção de prompt escondida em submissões de estudantes contra correção mediada por IA (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Framework LLM explicável por desenho para avaliação automatizada de professores com inferência gated por confiança (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — correção manuscrita de matemática semiaberta com filtro de confiança para reverificação humana
-- [[llm-grade-bands-calibration-bias-2026]] — Modelos de linguagem grandes conseguem reproduzir faixas de nota do ensino superior? Estudo cross-modelo de calibração e viés de correção em escrita estudantil real
-- [[sophie-clinical-communication-ai-assessment-2026]] — Treinamento clínico de comunicação escalável baseado em IA e avaliação automatizada
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automatizando a avaliação construtiva com Large Language Models: rumo à avaliação escalável e repetida de competência prática
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Avaliando foco de feedback e adaptatividade pedagógica no feedback gerado por LLM sobre escrita estudantil
-- [[llm-graders-computer-science-exams-2026]] — Onde os corretores LLM acertam e quebram: evidência de dois exames de ciência da computação
-- [[llm-automated-coding-teacher-pck-2026]] — LLM multiagente (GradeOpt) codificando respostas abertas de CK e PCK de professores, confiabilidade vinda do refinamento de prompt contra um manual de codificação
-- [[ai-marking-accuracy-gcse-physics-2026]] — Correção por IA comparada com notas de banca de exame e julgamento de professores em física de GCSE
-
-- [[llm-grading-assistants-public-health-2026]] — Modo de raciocínio elevou a concordância LLM-humano de kappa ponderado 0,269 para 0,718
-- [[machine-human-marking-agreement-institutions-2026]] — A concordância entre máquina e humano na correção de trabalhos de graduação é específica de modelo, prompt e instituição
-- [[wargaming-adjudication-ai-judged-grading-2026]] — O dedo na balança: usar práticas tradicionais de adjudicação de wargaming para melhorar avaliações e correções julgadas por IA (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas de resposta conhecida, e a maioria pode ser convencida a subir a nota (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Avaliar o ensino em vez do trabalho do estudante, sem agrupar
-- [[stewart-tag-question-categorization-competency-2026]] — Rotulagem curricular por IA: kappa 0,69 em estados de doença, 0,57 em Bloom, 0,24 em subdomínios COEPA (Stewart et al. 2026)
-- [[zhao-ai-supported-grading-rubric-refinement-2026]] — A discordância IA–instrutor como sinal de desenvolvimento de rubrica no PrairieLearn (Zhao et al. 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — A redação da rubrica como superfície de ataque: 46,4% dos exploits verificados pontuaram alto, reduzidos a 36,0% pelo refinamento da rubrica (Roy et al. 2026)
-- [[baumartz-rubric-aes-llm-ensembles-2026]] — AES baseada em rubricas com ensembles de LLM, testada contra a concordância de avaliadores humanos (Baumartz et al., 2026)
-- [[zammel-mllm-kinematics-graph-grading-2026]] — Um gráfico de cinemática distorcido com 10/10, e cortes sem convenção de coordenadas: atribuições ao nível de critério que correram além da imagem (Zammel et al. 2026)

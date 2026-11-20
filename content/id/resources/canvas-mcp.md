@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,8 +43,3 @@ Dosen yang menginginkan agen menangani pembacaan dan pengiriman pesan rutin sepu
 ## Catatan dan peringatan
 
 Penyiapannya lokal: Python 3.11 atau lebih baru, token dan URL API Canvas, dan klien MCP, dengan ekstensi yang dapat diklik dua kali untuk Claude Desktop. Server publik yang dihosting telah dihentikan, sehingga penerapan bersama berarti menghosting sendiri di belakang autentikasi institusi sendiri. Alat tulis dibatasi — server HTTP bersifat hanya-baca kecuali alat tulis diizinkan secara eksplisit, penghapusan memerlukan token konfirmasi, dan eksekusi kode berjalan di sandbox yang gagal tertutup. Kontrol privasi bersifat opsional: anonimisasi respons, penyamaran surel dan penyaringan PII harus diaktifkan, dan README berhati-hati bahwa hal itu dapat mendukung kewajiban FERPA tanpa menetapkan kepatuhan, yang bergantung pada penerapan dan penyedia AI. Tidak ada telemetri di server, tetapi Canvas dan klien yang dipilih menyimpan lognya sendiri. Proyek ini berlisensi MIT, aktif dikembangkan, dan panduannya sendiri adalah otoritas atas nama alat dan konfigurasi terkini.
-
-## Konsep terkait
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

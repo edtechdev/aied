@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -48,12 +49,3 @@ ai_assist:
 ## 说明与注意事项
 
 以 GPL v3 或更高版本开源，但免费不意味着运行免费：模型 API 要有人付钱，评分质量取决于模型选择和提示词设计。使用远程提供商时，自由文本答案会离开 Moodle 服务器，所以院校的数据协议决定了什么可以发送；无法把学生作业送出去的站点可以选择自托管 Ollama。仓库没有说明任何已发表的准确率或一致性研究，所以不应在假定 LLM 评分等同于人工评分的前提下采用这个插件——在任何分数具有分量之前，必须在本校对照人工分数确立[[assessment-validity|效度]]。配套行为是硬依赖：只安装题型会让题目无法评分。
-
-## 关联概念
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

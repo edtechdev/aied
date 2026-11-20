@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -46,13 +47,3 @@ Folkbibliotek som vill vara värd för en kiosk (programmet tar emot ansökninga
 - Deltagande bibliotek bidrar med **\$1 000 per kioskdriftsättning och år**; själva piloten är begränsad till de sajter som ansökte.
 - Integritetsutlåtandet är programmets påstående, inte ett granskat fynd; ett bibliotek bör bekräfta villkoren för lagring och barnsäkerhet i sitt eget personuppgiftsavtal.
 - Färdplanens andra och tredje fas, som låter bibliotek ta in lokala arkiv och styra de resulterande systemen, är planerade snarare än levererade.
-
-## Anslutna begrepp
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -47,11 +48,3 @@ K-12-undervisere, der har brugt [[generative-ai|generativ AI]] til at bygge et l
 Member og Builder er gratis (Builder: 50 apps, 50 MB); Pro koster \$10 om måneden eller \$60 om året for 500 apps. Adgang er freemium.
 
 Privatliv er den stærkere påstand, men den flytter ansvaret over på underviserne. Teacher Hive opretter ingen elevkonti, beder ikke eleverne om personlige oplysninger og kører ingen analyse- eller reklamescripts i publicerede apps. Fordi apps er offentlige via link, gør vilkårene underviserne ansvarlige for at sikre, at deres apps ikke indsamler navne, e-mails, elev-ID'er eller placering. Tilgængelighedsdækningen (WCAG 2.2 AA) gælder Teacher Hives egne sider, ikke undervisernes apps, som ikke er testet. Der angives ingen open source-licens, og oppetid og dataopbevaring garanteres ikke.
-
-## Relaterede begreper
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

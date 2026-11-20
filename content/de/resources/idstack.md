@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -40,7 +41,3 @@ Kurse gelangen herein über eine Canvas-API-Verbindung, eine IMS-Common-Cartridg
 ## Was vor der Einführung zu wissen ist
 
 Das Plugin erfordert zur Installation Claude Code und eine Bash-Shell; PowerShell und cmd können das Einrichtungsskript nicht ausführen, und Python 3 wird für Verlaufskurven der Bewertungen empfohlen. Kursdaten bleiben im Projektordner auf der eigenen Maschine der lesenden Person und verlassen ihn nur durch eine von der nutzenden Person aufgerufene Integration, etwa einen Canvas-API-Aufruf. Die Live-Inferenz der Chrome-Erweiterung braucht den eigenen kostenlosen Google-AI-Studio-API-Schlüssel der lesenden Person, wobei ein Simulationsmodus sie ohne einen solchen demonstriert. Das Projekt bezeichnet sich als Beta bei Version 3.5.1.0 und warnt vor Änderungen, die zwischen Nebenversionen brechen, und es erscheint unter dem savvides-GitHub-Konto statt unter einem benannten Autor.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

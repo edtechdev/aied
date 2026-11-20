@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -88,34 +90,3 @@ ai_assist:
 
 - Сообщайте измерения предпочтений и результатов вместе и прямо указывайте, когда в исследовании есть только первое.
 - Сообщайте временное согласование явно, учитывая, что рассогласование между содержанием видео и [[cognitive-psychology|когнитивной обработкой]] проявляется в нейронных данных.
-
-## Связанные концепции
-
-- [[online-teaching-and-learning]] — видео как основная среда онлайн- и гибридного обучения
-- [[generative-ai]] — движок сгенерированного ИИ и персонализированного видео
-- [[personalized-learning]] — персонализация как драйвер притягательности ИИ-видео
-- [[adaptive-learning]] — адаптивная генерация видео и его темп
-- [[multimodal]] — видео, сочетающее визуальную, аудиальную и текстовую модальности
-- [[learning-analytics]] — аналитика вовлечённости и внимания при работе с видео
-- [[student-engagement]] — вовлечённость, повысить которую стремится персонализация видео
-- [[pedagogical-agent]] — аватары/ведущие ИИ как виртуальные педагогические агенты
-- [[llm]] — большие языковые модели, лежащие в основе генерации сценариев и видео
-- [[trust]] — доверие учащегося к ведущим и содержанию на основе ИИ
-
-## Связанные статьи
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: генерация персонализированных по отраслям лекционных видео качества MOOC в масштабе (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Сгенерированные ChatGPT комментарии внутри видео: тайминг по энтропии, разрывы в качестве по сравнению с человеческими комментариями (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Студенты предпочитают персонализированные сгенерированные ИИ видео неперсонализированным записанным людьми (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Восприятия/предпочтения студентов относительно сгенерированного ИИ учебного видео в вычислительном образовании
-- [[ai-video-dual-gatekeeping-2026]] — Двойная фильтрация для педагогически обоснованного создания ИИ-видео
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: адаптивная генерация педагогического видео
-- [[engagement-assessment-video]] — Оценка вовлечённости в видеообучении
-- [[savvy-student-attention-video-learning]] — Визуализация внимания студентов для обучения на основе видео
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Как идентичность аватара формирует эпистемическое доверие в опосредованном ИИ обучении
-- [[bilingual-llm-lecture-companion-srl-2026]] — Двуязычные компаньоны по лекциям на базе LLM для саморегулируемого обучения
-- [[adhd-video-segmentation-computing-education]] — Временная сегментация видео под индивидуальные различия
-- [[ai-psychotherapy-training-avatars]] — Аватары ИИ в обучении психотерапии
-- [[gemini-lualatex-physics-video-transcription-2026]] — Расшифровка видео лекции по физике в доступный текст
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Взгляд туда! Динамическое визуальное руководство для озвученных ИИ слайдов

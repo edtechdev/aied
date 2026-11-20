@@ -10,6 +10,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 > **Culturally relevant pedagogy** — introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. It rests on three pillars: **academic success** (rigorous standards that honor cultural identity), **cultural competence** (critical consciousness about culture and power), and **[[critical-pedagogy|sociopolitical consciousness]]** (empowering students to challenge inequitable systems). As AI tools enter classrooms, CRP has become a central lens for evaluating whether [[generative-ai|AI]] amplifies or erases non-dominant cultural knowledge.
@@ -87,34 +89,3 @@ Grounded in the research, educators and designers can apply CRP to AI:
 **"Institutional AI-use policy determines what students consider ethical."** Culture does more work than policy text. A cross-cultural survey of Canadian and South Korean [[cs-education|computing]] students found that **culture, not policy, drove perceptions of AI-use ethicality** — identical behaviors were judged differently across cohorts. A single institution-wide policy therefore does not produce a shared ethic, and treating it as though it does will misread your students.
 
 **"A four-teacher pilot showing teachers feel more confident is evidence the approach works."** It is evidence about teacher perception, which is worth having and is not the same thing. In that pilot teachers' confidence in spotting cultural responsiveness opportunities improved and **78% found AI suggestions helpful for diversifying materials** — while the authors concede that the cultural adaptation lives **in the prompt rather than in the NLP pipeline**, and that cultural appropriateness was assessed rather than engineered. Confidence plus helpfulness is not demonstrated cultural relevance for students.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Connected Articles
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Lesson planner that interviews teachers about cultural context before drafting (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
-- [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-

@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 conText is the cleanest small demonstration of a direction [[intelligent-tutoring|AI tutoring]] mostly talks about and rarely implements: the model does not answer the student's question, it asks the next one, and the student's ideas are drawn as a graph while they talk. Upload a photo of a notebook page, a PDF or a text, and the tool first says what it understood, then starts a spoken [[socratic-method|Socratic]] dialogue. Every idea the student names appears as a node in a live [[knowledge-graph|knowledge graph]]; edges appear as the conversation connects them, and the panel reports how many ideas remain unconnected.
@@ -39,12 +40,3 @@ Students working through a reading or a problem set who want to be questioned ra
 ## Notes and caveats
 
 No price or account is published for the student-facing tool, while institutional deployment (cloud, on-premises or hybrid) is offered through a bespoke proposal and a meeting; treat "free" as the state of the public demo in November 2026, not a guarantee. Text and images go to a hosted service powered by Claude, and the site itself tells users to strip names, amounts, addresses and company names before uploading, which shifts the burden of de-identification onto the person uploading rather than the platform. Sessions self-delete after an hour unless exported. The underlying company also markets a broader reasoning-graph assessment platform to institutions, and its claims about distinguishing deductive, inductive, abductive and analogical graphs come from four reference texts. The site calls that a demonstration, with validation at scale still to come.
-
-## Connected Concepts
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

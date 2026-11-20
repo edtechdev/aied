@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -74,37 +76,3 @@ IRT أساس لـ[[educational-measurement|القياس التربوي]] و[[ass
 - **«المعيار الذي يجتازه معظم النماذج معيار جيد.»** قد **يتشبّع** المعيار المحاذى للمعايير: ففي مجموعات علوم محاذية لمعايير NGSS للمرحلة المتوسطة والثانوية، **سجّل معظم النماذج المفتوحة الأوزان فوق 90%**، فبقيت مقاييس المفردة الكلاسيكية ضعيفة. فالتشبّع لا يعني أن النماذج ممتازة؛ بل يعني أن المفردات لم تعد مميّزة.
 - **«صعوبة المفردة خاصية جوهرية في المفردة.»** مسبار سببي **حرّر 50 سؤال اختبار لكل مجموعة بيانات** نحو فرضية أو بعيدًا عنها وجد أن **تحريرات زيادة الصعوبة خفّضت الدقة الوسطية بمقدار 15.27 و23.88 نقطة مئوية** على GSM8K وBBH-structured. فالصعوبة علاقة بين المفردة والنموذج، وهي تتحرك عندما تتحرك المفردة.
 - **«IRT للتنقيط على المتعلّمين فقط.»** يستخدم [[assessing-quality-ai-generated-exams-field-2025|تقويم الامتحانات المولَّدة بالذكاء الاصطناعي]] **نموذج 2PL هرميًا بايزيًا مع مفردات مرساة قبلية لوضع 1,686 طالبًا**، وهذا ضمان جودة للتقييم نفسه لا تنقيطًا للطالب.
-
-## المفاهيم المتصلة
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## المقالات المتصلة
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — إطار استجابة موحّد للأسئلة وحوارات التدريس الخصوصي
-
-- [[explaining-question-difficulty-natural-language-2026]] — شرح صعوبة أسئلة النماذج اللغوية الكبيرة باللغة الطبيعية عبر IRT والتحريرات السببية (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — أثر عيوب كتابة المفردة على صعوبة IRT وتمييزه (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — النمذجة السببية لتدخّلات الدعم في تقويم كفاءة الطالب
-- [[assessment-latent-structure-human-llm-2026]] — هل تقيس أدوات التقييم الشيء نفسه للبشر والنماذج اللغوية الكبيرة؟ (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — التحقق الميداني واسع النطاق بـIRT للامتحانات المولَّدة بالذكاء الاصطناعي
-- [[jin-glat-genai-literacy-assessment]] — GLAT يستخدم التحقق بـIRT/2PL (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — تنبؤ النماذج اللغوية الكبيرة بصعوبة المفردة
-- [[llm-psychometric-calibration-cdp]] — مواءمة تقييم النماذج اللغوية الكبيرة مع المعايرة القياسية النفسية
-- [[llm-difficulty-calibration-programming-exams-2026]] — معايرة صعوبة النماذج اللغوية الكبيرة في امتحانات البرمجة
-- [[multimodal-item-parameter-estimation-2026]] — تقدير مُعاملات المفردة متعدد الوسائط
-- [[huang-interpretable-knowledge-tracing-2026]] — تتبّع معرفة قابل للتفسير
-- [[irt-human-genai-mcq-responses]] — استخدام IRT لفصل استجابات الاختيار من متعدد للبشر والذكاء الاصطناعي التوليدي
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة المفردة باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة القائم على الأشجار
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ما وراء تضمينات التشخيص المعرفي: نمذجة لغوية مؤسَّسة على العملية للتشخيص المعرفي
-- [[bayesian-consensus-irt-item-banks-2026]] — المعايرة الإجماعية البايزية لبنك مفردات IRT متطوّر باستمرار (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — تدقيق ميداني يُظهر ندرة استخدام IRT/راش كدليل تحقق أساسي في أدوات قياس ثقافة المعلّمين بالذكاء الاصطناعي
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس الخصوصي بالذكاء الاصطناعي والبشري يُنتجان مكاسب تعلّم مكافئة في GRE
-- [[llm-benchmark-secondary-science-topics-2026]] — معيار محاذى للمعايير قد يتشبّع

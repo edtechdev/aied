@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -71,9 +73,7 @@ ICAP è alla base delle critiche alle metriche superficiali di "coinvolgimento":
 
 Sebbene ICAP descriva una gerarchia, lo spostamento più consequenziale per l'apprendimento è il salto dalle modalità *Attiva* a quella *Costruttiva* (Chi & Boucher, 2023). Il coinvolgimento attivo (applicare la conoscenza a scenari simili ma non identici) prepara gli studenti, ma è il coinvolgimento costruttivo — generare spiegazioni, riassunti o nuovi artefatti — che li mette in grado di creare nuova conoscenza. Questo è il cuore del problema per l'IA nell'istruzione: uno strumento che mantiene gli studenti nella modalità Attiva (es. cliccare attraverso una pratica adattiva) può sembrare produttivo ma non li spinge mai verso la generazione costruttiva che produce una comprensione durevole. Gli interventi collaborativi e focalizzati sull'alfabetizzazione che costruiscono deliberatamente il balzo Attivo→Costruttivo tendono a mostrare i guadagni maggiori. ([[hingle-collaborative-ai-literacy-2025]])
 
-
 La parte "guadagni maggiori" di quell'affermazione è un'inferenza dal framework, non un confronto eseguito dalla rassegna. La revisione di nove studi che la sostiene (2015–2023) conta quante volte gli interventi *includevano* ciascuna modalità (9 passiva, 5 attiva, 7 costruttiva, 8 interattiva), non riporta alcuna dimensione dell'effetto per modalità, e nota che nessuno studio incluso si basava su una sola modalità, quindi nulla in essa isola il salto Attivo→Costruttivo ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). L'ordinamento è di Chi; ciò che la revisione aggiunge è che i professionisti combinano le modalità anziché sceglierne una.
-
 
 ### ICAP come segnale di impalcatura adattiva negli ITS
 
@@ -103,27 +103,3 @@ L'enfasi di ICAP sul coinvolgimento generativo e a livello di processo è stata 
 **"Un tutor IA produce automaticamente impegno interattivo perché conversa."** La conversazione è il mezzo, non la modalità. Un dialogo in cui il sistema fornisce ogni contributo sostanziale è passivo per il discente che indossa un'interfaccia interattiva, che è la stessa confusione che la [[student-engagement|letteratura sull'impegno]] documenta tra attività comportamentale e investimento cognitivo.
 
 **"Le modalità ICAP più alte sono sempre migliori."** Costano di più, e l'ordinamento riguarda l'apprendimento per unità di elaborazione rilevante, non ciò a cui una lezione dovrebbe sempre puntare. La fluenza fondativa può richiedere ripetizione attiva prima che il lavoro costruttivo sia possibile; l'errore è fermarsi lì, non passarvi attraverso.
-
-## Concetti collegati
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Articoli collegati
-
-- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement with human vs. LLM annotation
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
-- [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
-- [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
-- [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction

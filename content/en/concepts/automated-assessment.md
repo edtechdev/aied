@@ -20,6 +20,8 @@ ai_assist:
     role: revision
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 > **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — and ranges from direct automated grading to confidence-aware systems that report calibrated uncertainty alongside their scores.
@@ -59,7 +61,6 @@ Automated grading is one of the most mature and widely-deployed [[ai-education|A
 - **Bias and fairness:** [[ai-scoring-language-bias-physics|Language bias in physics scoring]] documents how automated grading can disadvantage non-native speakers — connecting to [[bias-mitigation|bias mitigation]] and [[equity-in-ai-education|equity]].
 - **Benchmarking GenAI models for open-ended grading:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] benchmarked eleven GenAI and sentence-embedding models against two expert human graders on 1,885 open-ended responses to 24 software-engineering questions. Only GPTo1 reached almost-perfect agreement (Fleiss' Kappa 0.82, low false positives and false negatives across grade categories), with Claude3 and PaLM2 close behind; context-sensitive [[generative-ai|GenAI]] models robustly handled short, diversely-phrased student answers, while reference-based embedding models (e.g., BERT's 345 false positives) systematically penalized correct-but-divergently-worded responses — evidence that model choice, not just grading format, shapes reliability for free-text [[assessment|open-ended assessment]].
 - **Prompt exemplars decide scoring agreement:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi et al. (2026)]] automated hierarchical diagnostic reasoning (HDR), an applied-competence task in which learners find and explain deliberately embedded errors in a short case. Using GPT-4o with no fine-tuning, the team generated new problems and scored student descriptions: generated and human-authored problems carried the same internal consistency (Cronbach's α = 0.78) and showed no significant score-distribution difference across 100 participants, and the format's correlation with a reading-comprehension control stayed low (α = 0.36 and 0.41). Scoring accuracy depended on the prompt rather than the model — without worked examples Q2 precision fell to 0.42, while adding human-scored correct and incorrect exemplars lifted agreement to 98% or higher on every question (Q1 and Q2 at 100%) — against a measured human cost of 138 minutes of expert scoring for 117 responses plus 30 minutes of consensus.
-
 
 A model's own reasoning mode is a second configuration lever: on 32 anonymized public-health master's exam submissions the same ChatGPT moved from weighted kappa 0.269 in fast mode to 0.718 in thinking mode, while Kimi reached 0.571 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **[[agentic-ai|Multi-agent]] coding of teachers' open-ended responses, where the framework rather than the model carries reliability:** [[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al. (2026)]] extend automated assessment beyond student work to the coding of teachers' own content knowledge (CK) and [[pedagogy|pedagogical]] content knowledge (PCK), asking whether AI can reproduce the trained human coding of 268 U.S. [[k-12|middle school]] mathematics teachers' written responses about ratios and proportional relationships. A purpose-built multi-agent LLM, GradeOpt, assigns three GPT-4o-backed roles — a Grader that applies the human coding manual, a Reflector that diagnoses each disagreement with the human code, and a Refiner that folds clarification points back into the manual over up to six rounds — and matched trained human coders closely on CK (κ = .88 and .85) while reaching substantial agreement on the far more interpretive PCK items overall (κ = .68; weighted κ = .79). Two NLP baselines and a single-prompt GPT-4o model never exceeded κ = .39 or weighted κ = .55 on PCK, so the authors attribute reliability to refining instructions against the coding manual rather than to model scale, and recommend expert review wherever adjacent coding levels blur, since GradeOpt's residual errors were typically adjacent codes rather than wild misses.
@@ -112,7 +113,6 @@ Automation also reframes grading as routine administration rather than pedagogic
 
 - **AI disagreement as rubric diagnostics.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al. (2026)]] integrated an LLM grader into PrairieLearn so instructors see item-level disagreement with their own marking, then revise the rubric before scaling. AI–human agreement reached 99.4% on a single-item bug question and fell to 65% on a Markov-matrix problem with six valid solutions.
 
-
 ### Deployment scenarios and what each one requires
 
 How much alignment an institution should demand depends on what the system is allowed to decide. In a [[mixed-methods-research|mixed-methods]] study of [[opraise-automated-marking-ai-assessment-2026|761 authentic undergraduate essays at three UK universities]], three frontier models with 27 prompt configurations each reached only 35–65 percent agreement with human markers on the degree band, and accuracy did not transfer between institutions — so the report treats candidate uses as distinct scenarios rather than one decision. **Quality assurance of human marking**, where AI marks in parallel and significant differences trigger human review, is the most conservative. **A marking assistant**, ranking or categorizing submissions by predicted quality or uncertainty, triaging complex cases, or expanding brief human comments into fuller feedback, is a genuine middle ground. **AI as primary marker**, with human review of a sample or of mark distributions, was judged acceptable only if system performance improves, and no [[stakeholders|stakeholder]] group endorsed AI as a sole marker.
@@ -122,7 +122,6 @@ Three requirements follow for any of them. Because alignment is model- and insti
 Combining the three models did not remove that error: because their mistakes were correlated — the same direction on 63.4% of assignments — the [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] ensemble was statistically indistinguishable from the best single model, leaving the shared central-tendency compression in place.
 
 Whether an LLM can stand in for a human rater can be tested rather than assumed. Across 523 configurations on 631 student responses, substituting the best LLM-prompt pairing for one of two human raters left group agreement no lower on 88.3% of 103 criteria, yet only 14.6% of the 20,464 configurations tried per criterion cleared that bar ([[baumartz-rubric-aes-llm-ensembles-2026|Baumartz et al. (2026)]]).
-
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] supplies the criteria those requirements presuppose, arguing that what makes automation defensible is the *epistemic status* of the task rather than what the technology can technically perform. His framework limits AI to bounded verification of factual and procedural claims: all four of unambiguous documented criteria, direct comparison against established knowledge, no assessment of alternative valid approaches, and a single correct answer or pre-specified acceptable set must hold simultaneously. Ambiguity escalates to a human by default. AI involvement at that level is conditional on five non-negotiable principles that must all hold at once. The source collection must be assessor-curated and grounded in module materials rather than the model's parametric knowledge. Human assessors review every AI output before it reaches students and hold absolute override with unshared accountability. Feedback must carry clear provenance and attribution. Security must be designed against adversarial use from the start, with input sanitisation for instructions hidden in white or small text, encodings, images or document metadata, since successful circumvention of an automated system spreads through student cohorts. The same paper is explicit that its principles are untested for simultaneous feasibility and that assessor time for curation, security infrastructure and high-frequency oversight may shift staff effort rather than reduce it — a caution that sits alongside the local-validation requirement above.
 
@@ -154,7 +153,6 @@ Automated assessment connects to [[assessment-validity|assessment validity]] (qu
 
 - **"A single kappa is the case for a grader."** It is one check, and a benchmark of **22 prompted models** on three public datasets shows why. Every model met probes whose right answer is known: a polite request for full marks, a forged grading instruction, a blank answer, a nonsense word, a bare objection. **Fourteen** were flagged for gaining more than **5% of the scale** from a note, up to **83.2%** on code, and **seven** credited blank or meaningless answers, so [[porcaro-ai-grading-benchmark-2026|the agreement figure and the failure tests have to be read together]]. A deployed grading system has one more input to test: sharing a [[student-modeling|learner model]]'s estimate with the grader shifted marks by **0.28 to 0.75 points** on identical work, and [[porcaro-ai-grader-reliability-2026|the ablation that found it]] left rater agreement almost unchanged.
 
-
 - **Tagging agreement depends on the framework.** Against faculty tags on 62 pharmacy questions, an AI curricular-mapping tool reached kappa 0.69 for disease states and 0.57 for Bloom's, but only 0.24 for COEPA subdomains, and the comparison allowed faculty multiple tags against the tool's single choice ([[stewart-tag-question-categorization-competency-2026|Stewart et al., 2026]]).
 
 ## Common Misconceptions
@@ -163,80 +161,3 @@ Automated assessment connects to [[assessment-validity|assessment validity]] (qu
 - **"The judge is the source of unreliability."** On 378 fixed-dice rulings, a re-run changed **2.9 to 6.1 per cent** of outcomes under a semi-rigid method and **13.5 to 15.9 per cent** under free adjudication, while swapping the judge AI added only about 3 points ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — the procedure, not the judge, sets reproducibility.
 - **"Confidence reporting is a nicety."** A score that said it was **70% sure** would change how it is used, and the absence of that information forces the reader to treat all scores as equally certain.
 - **"Short-answer auto-marking is a settled area."** A scoping review of short-answer auto-marking in [[science-education|science]] (**2017 to early 2024**) documents the field's history, which is a record of what has been attempted rather than of what has been validated.
-
-## Connected Concepts
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-
-## Connected Articles
-
-- [[stewart-tag-question-categorization-competency-2026]] — AI curricular tagging: kappa 0.69 on disease states, 0.57 on Bloom's, 0.24 on COEPA subdomains (Stewart et al. 2026)
-- [[zhao-ai-supported-grading-rubric-refinement-2026]] — AI–instructor disagreement as a rubric-development signal in PrairieLearn (Zhao et al. 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — Rubric wording as attack surface: 46.4% of verified exploits scored high, cut to 36.0% by rubric refinement (Roy et al. 2026)
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[ai-scoring-language-bias-physics]] — AI scoring language bias in physics
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based automated essay scoring prompting
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL formative assessment scoring
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux Bash exams with LLMs
-- [[confidence-aware-student-drawing-assessment]] — Confidence-aware assessment of student-drawn figures
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
-- [[ai-marking-accuracy-gcse-physics-2026]] — AI marking compared with examination-board marks and teacher judgment in GCSE physics
-
-- [[llm-grading-assistants-public-health-2026]] — Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Assessing teaching rather than student work, without pooling
-- [[baumartz-rubric-aes-llm-ensembles-2026]] — Rubric-based AES with LLM ensembles, tested against human rater agreement (Baumartz et al., 2026)
-- [[zammel-mllm-kinematics-graph-grading-2026]] — A distorted kinematics graph at 10/10, and cutoffs with no coordinate convention: criterion-level awards that outran the image (Zammel et al. 2026)

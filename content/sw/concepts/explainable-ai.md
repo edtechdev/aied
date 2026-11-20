@@ -18,9 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -87,9 +86,7 @@ Onyo mawili yanapunguza hili zaidi, wote wawili yanayofanya kitu kuu katika mcha
 
 **Inayoelezekana kwa ubini** ni jibu moja kwa tatizo la uaminifu wa baada ya tukio. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang na Fang (2025)]] wanabainisha msomaji wa maelezo na uwakilishi uliounganishwa na alama iliyotabiriwa ule ule unaoamua [[assessment|tathmini]], na hivyo alama ya chini katika [[formative-assessment|maswali ya kiumbo]] hutoa maelezo yanayotaja maswali ya kuchunguza yasiyo ya kutosha, na kuunganisha na uangalifu wa lenzi mbili kwenye viwango vya mtaala na hatua za rubriki mahususi za taaluma. Ulinganifu wa uangalifu-kwa-rubriki unafikia 78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT, na uaminifu hupimwa na kufuta kwa counterfactual sehemu muhimu za rubriki pamoja na alama za binadamu kwenye orodha ya ukaguzi iliyoungwa na rubriki, na kutoa alama ya uaminifu wa maelezo ya 0.78 — ongezeko la 0.31 juu ya BERT-base. Ukaguzi pia unaonyesha mahali madai ya usanifu yanapungua: kwenye ishara za kihisia mfano hutoa 28.4% ya uzito wa uangalifu dhidi ya 15.2% ya mtaalam (ulinganifu 0.53), na hali moja ya kushindwa ikitoa 28% kwa tokeni "kukasirika", ambayo waandishi wanasoma kuwa na mifano kupita kiasi ya kihisia badala ya kielimu na wanaita kama eneo la kuboresha. Kujumlisha maelezo katika njia ya uamuzi huyafanya kuwa ya kweli zaidi ya maelezo ya baada ya tukio; haifanyi sahihi.
 
-
 **Kile mfano unachosema kilitumia kinategemea familia kama vile data.** Katika mifano saba kwenye kohorti moja, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] waligundua mbinu za ishara zikiegemea vipengele vya kiakili na vya [[motivation|motisha]], mifano ya chini ya ishara kwenye vipengele vya kiakili, maarifa yaliyojifunza na jinsia, na zote mbili zikipuuza kwa kiasi kikubwa vipengele vya metaji, wakati mfano wa neva-ishara ulitumia seti iliyounganishwa zaidi. Wanafunzi wale wale na viashiria vile vile vilizalisha maelezo tofauti ya kile kilichokuwa muhimu, hivyo ulinganifu na [[learning-theories|nadharia ya kujifunza]] unakuwa dai kuhusu ugawaji wa sifa badala ya usahihi.
-
 
 ## Kufundisha kuelezekana kama mazoezi ya uwajibikisho
 
@@ -107,47 +104,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - **"Maelezo yanayoridhisha watumiaji yameeleza mfumo."** Kushindwa kule kule kwa kusomeka kunaonekana kwenye upande wa usalama wa [[automated-assessment|tathmini ya kiotomatiki]]: [[humble-prompt-injection-ai-grading-red-team-2026|upimaji mkuu wa Humble (2026)]] uligundua kuwa mtiririko wa kawaida wa kupima alama unaweza kuendeshwa kwa maagizo yaliyoingizwa. Simulizi linalowezekana na linaloweza kukaguliwa ni bidhaa tofauti.
 - **"Mazoezi ya jumla ya XAI yanahamishwa kwenye elimu."** [[xai-education-framework|Mfumo wa XAI-ED]] (Khosravi et al., 2022) unasisitiza kuwa elimu ina **mahitaji ya kipekee ya kuelezekana** zaidi ya XAI ya jumla, kwa sababu hadhira inajumuisha wanafunzi wanaopaswa kutenda kwa maelezo badala ya wakaguzi wanaopaswa kuyathibitisha.
 - **"Uaminifu ni sifa unayoweza kudai bila kupima."** Uaminifu uliopimwa unahitaji **kufuta kwa counterfactual sehemu muhimu za rubriki** pamoja na alama za binadamu. Ulinganifu wa uangalifu-kwa-rubriki unaofikia **78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT** ni matokeo ya kulinganisha kutoka kwa upimaji wa aina hiyo, si kutoka kwa dai kuhusu uwezekano wa kufasiriwa.
-
-## Dhana Zilizounganishwa
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Makala Zilizounganishwa
-- [[lund-socially-accountable-data-science-xai-2026]] — Mfumo wa nguzo nne (uwezekano wa kujibu, uwajibikisho, utekelezaji, kujifikiria) kwa kufundisha XAI kama mazoezi ya uwajibikisho (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Ubini unaotambua thamani wa ITS inayozingatia mwanafunzi (maelezo ya ushirikiano dhidi ya ya bila kuchakatwa)
-- [[xai-education-framework]] — XAI-ED: mfumo wa msingi wa AI inayoelezekana katika elimu (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Maelezo mahususi ya taaluma yanajenga uaminifu na kukubalika kwa walimu (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Mitazamo ya wanafunzi juu ya tathmini inayosaidiwa na AI yenye uwazi (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Ufuatiliaji wa maarifa unaoweza kuelezekana
-- [[explainable-probabilistic-kt]] — Ufuatiliaji wa maarifa unaoelezekana kupitia uwekaji wa uwezekano
-- [[neural-symbolic-knowledge-tracing]] — Ufuatiliaji wa maarifa wa neva-alama
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Kugawanya mifano ya sanduku jeusi katika LM zinazojieleza wenyewe kwa uchanganuzi wa kujifunza
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Uchanganuzi wa kujifunza wa mfumo uliosambazwa na unaoelezekana kwa uundaji wa mfano wa hatari unaohifadhi faragha
-- [[sc2r-counterfactual-recourse-educational-2026]] — Marejesho ya counterfactual yenye vikwazo vya maana kwa msaada wa maamuzi ya kielimu
-- [[fair-explainable-edu-recommendations]] — Mapendekezo ya kielimu ya haki na yanayoelezekana
-- [[multimodal-affective-its-presentation]] — ITS ya mzunguko uliofungwa inayoelezekana kwa maoni ya kihisia ya njia nyingi
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Kueleza kupokea ChatGPT katika elimu ya juu
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Mfumo wa LLM unaoelezekana kwa ubini: uangalifu wa lenzi mbili na maelezo yaliyobainishwa na alama kwa tathmini ya kiotomatiki ya walimu (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Uingizaji wa ilani katika kupima kunakowasilishwa na AI, ambapo ugunduzi haukuripotiwa kwa mtumiaji (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano iliyofunzwa awali kwa tathmini ya kielimu ya maswali mapya ya kielimu yanayosaidiwa na AI
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Maamuzi ya kupima ya mwalimu dhidi ya ya AI: maelezo ya maandishi yalipanua pengo la usawa
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Rejea na ishara za mamlaka zilipandisha kukubali pato lisilo sahihi, baadhi ya marejeo yakihusishwa vibaya au kuwa ya kubuni
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — mifano ya ishara, ya chini ya ishara na ya neva-ishara kwenye kohorti moja ilihusisha utabiri wao na vipengele tofauti
-

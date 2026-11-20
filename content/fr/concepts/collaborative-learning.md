@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -124,66 +126,3 @@ Le statut de pair se gagne socialement. La capacité mathématique n'entrait gu�
 - **« Donner de l'IA aux groupes signifie plus de collaboration. »** Une revue de portée de **18 études** cartographie un compromis à travers le travail de groupe : l'IA générative soutenait **le développement des connaissances, la génération d'idées et l'efficacité communicationnelle** tout en portant un coût relationnel dans les mêmes interventions. Le gain d'efficacité et le coût relationnel arrivent ensemble.
 - **« L'apprentissage collaboratif soutenu par l'IA dispose d'un appui méta-analytique. »** Le **seul** contraste méta-analytique disponible pour le travail collaboratif soutenu par l'IA se situe **à l'intérieur** d'interventions d'APP/APPj soutenues par l'IA générative plutôt qu'estimé directement ; c'est donc une composante d'un effet plus large, non une mesure de la collaboration.
 - **« Un partenaire LLM préserve le raisonnement propre du groupe. »** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash et Connell Pensky (2025)]] l'ont testé à l'échelle de la classe avec des étudiants d'introduction aux sciences sociales, précisément parce que la préservation est une question ouverte et non un postulat.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — La collaboration partagée avec IA scriptée et ses conceptions de rôles éprouvées
-- [[pedagogical-partnerships]] — Partenariats pédagogiques
-- [[group-work]] — Travail en groupe
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en IA éducation
-
-## Articles liés
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consensus de 30 experts constate un risque social unilatéral : les processus de collaboration vulnérables sans voie d'amélioration
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données probantes émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT : tuteur collaboratif adaptatif proactif pour la programmation en binôme
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz : médiation disciplinaire par IA dans les équipes de projet étudiantes
-- [[academic-league-of-ai-2026]] — Academic League of AI : éducation à l'IA collaborative et par projets
-- [[icap-cognitive-engagement-llm-agents]] — Cadre ICAP étendu pour mesurer l'engagement dans le dialogue collaboratif
-- [[llm-facilitation-timing-online-discussions]] — Synchronisation de la facilitation par LLM dans les discussions collaboratives en ligne
-- [[ba-ai-agents-cscl-review-2026]] — Revue des agents d'IA dans l'apprentissage collaboratif soutenu par ordinateur
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — L'IA générative et le travail de groupe des étudiants : une revue de cadrage (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Référentiel synthétique ASTRA pour le tutorat multi-agents et la collaboration à participation équilibrée
-- [[xu-genai-collaborative-space-2026]] — L'IA générative comme agent et comme espace collaboratif dans la dynamique des petits groupes (Xu et al. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
-- [[chen-zou-genai-group-assessment-agency-2026]] — L'IA générative comme infrastructure de coordination dans les groupes d'étudiants : usages intensifiés, contenus et non mis en œuvre
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agents de formation à l'éthique : faciliter l'éducation éthique en groupe par le jeu de rôle et la discussion pour la réflexion et l'exploration éthiques
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Les travaux à orientation sociale sur la collaboration avec l'IA ne sont jamais devenus un thème dominant parmi 1 048 publications
-- [[lin-ai-peer-collaborative-mathematics-2026]] — Ce qui fait qu'un agent LLM se lit comme un pair : sécurité, raisonnement tâtonnant, imperfection appropriée
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La configuration épistémique du groupe décidait où siégeait l'IA : un carrefour d'intégration dans les groupes à préconceptions diverses, un chemin linéaire requête-puis-traitement dans les autres, à connaissances antérieures égales (Wang et coll. 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Les dyades avec un système multi-agents ont produit les meilleurs projets tandis que le travail individuel produisait les plus grands gains de pensée critique
-- [[nixon-social-cost-ai-teammate-2026]] — Un test randomisé du coût relationnel : la réactivité entre pairs et le sentiment d'appartenance baissent quand une IA rejoint l'équipe (Nixon et al. 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — Dissertations collaboratives orientées vers le processus : itération et collaboration notées, avec GenAI autorisée dans des limites (Alam & Jackson 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,37 +89,3 @@ Privasi terhubung dengan [[learning-analytics]] (pengumpul data), [[personalized
 - **"Literatur proctoring menetapkan etika proctoring."** Tinjauan atas **80 studi** menemukan **35% tidak mengungkapkan kumpulan datanya, 40% mengevaluasi satu model, 30% tidak dapat direproduksi dan hanya 25%** memenuhi standar pelaporan. Basis bukti tipis justru pada pertanyaan-pertanyaan yang perlu dijawab institusi sebelum penerapan.
 - **"Privasi adalah kotak centang kepatuhan alih-alih kendala desain."** Hampir setiap alat AI yang mempersonalisasi, memprediksi, atau menilai bergantung pada data siswa, yang menjadikan minimalisasi data sebagai keputusan desain. Alat yang memerlukan data tidak memiliki pengaturan privasi opsional; ia memiliki ketergantungan data yang dipilih oleh desainnya.
 - **Kesadaran akan praktik data tidak mengikuti dari melihatnya.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] menemukan **66% dari 47 siswa kelas 7** memilih opsi paling tidak protektif pada [[conversational-ai|chatbot]] yang membaca tulisan mereka, dan **47%** mengabaikan pengaruh algoritmik sebagai "sekadar seru" — diukur **satu bulan setelah** pelajaran di mana kelas menonton perilaku tercatatnya sendiri diproyeksikan langsung, bereaksi bahwa itu "menakutkan," dan beberapa tetap tinggal melewati jam istirahat untuk terus menggunakan platform. Pengajaran privasi yang membuat mekanismenya terlihat tanpa membuat biayanya konkret membiarkan sikap tidak berubah. Penulis mencatat bahwa skor rendah di sini mungkin **lebih andal daripada skor tinggi**, karena tidak ada jawaban yang diharapkan secara sosial untuk butir-butir ini sementara tanggung jawab dan tata kelola mengundang respons yang terdengar benar.
-
-## Konsep terkait
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — catatan siswa, berbagi data lintas kantor, dan pemodelan risiko federasi
-
-## Artikel terkait
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Sebayar untuk prompt Anda: kebocoran kontekstual di platform chat AI (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analitik pembelajaran federasi dan terjelaskan untuk pemodelan risiko akademik yang menjaga privasi (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Dari analitik pembelajaran ke intervensi pendidikan: pemungkin intervensi berbasis LA yang tepercaya (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Utang literasi agentic: kesenjangan literasi AI struktural akibat agen otonom (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonimisasi dan persetujuan untuk data pembelajaran autentik
-- [[bassett-ai-detectors-education-2026]] — Kepala kita menang, ekor Anda kalah: detektor AI dalam pendidikan (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnosis kognitif LLM federasi yang menjaga privasi
-- [[agarwal-ethical-values-norms-aied-2026]] — Nilai dan norma etis untuk AI dalam pendidikan
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Apa yang ditangkap sistem proctoring, dan absennya literatur privasi dari basis bukti
-- [[edtech-privacy-deferral-2026]] — "Kami Akan Memperbaikinya Nanti": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech

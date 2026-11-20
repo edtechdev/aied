@@ -10,6 +10,8 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 > **Remote proctoring** — the monitoring of examinations when students take them away from a supervised physical venue, ranging from a human proctor watching via webcam or control center to fully automated AI-based proctoring systems (AIPS) that use machine/deep learning to verify identity and flag suspicious behavior. It is the primary means of preserving [[summative-assessment|summative assessment]] validity and [[academic-integrity|academic integrity]] in [[online-teaching-and-learning|online and distance learning]], where in-person invigilation is often unfeasible — but it raises serious concerns about [[privacy|privacy]], academic surveillance, equity, fairness, and the erosion of [[trust|trust]], costs that can themselves harm the learning environment it is meant to protect.
@@ -68,30 +70,3 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - **"Proctoring protects academic integrity."** **The integrity rationale did not survive the largest test.** Across **four waves and 1,760 students in 105 courses**, proctoring **raised test anxiety (β = 0.60, p < 0.001) but had no** detectable integrity benefit. The measured effect was on the students, not on cheating.
 - **"Better detection capability means better proctoring."** A decade-long systematic review of **80 peer-reviewed studies (2014-2024)** finds advanced ML/DL proctoring **detects cheating more** accurately and says nothing about whether deploying it changes conduct. Detection performance is a property of the classifier, not of the assessment regime.
 - **"Behavioural signals are reliable indicators of misconduct."** Systems **track seventeen body landmarks per frame** with YOLOv11 to derive **posture-deviation, head-trend and upper-body-motion** features. Those constructs are proxies, and a flagged posture is a classification about a body rather than an observation of a transgression.
-
-## Connected Concepts
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI removes the behavioral signal proctoring depends on (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces

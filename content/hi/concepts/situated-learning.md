@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -58,30 +60,3 @@ ai_assist:
 - **"प्रामाणिकता कार्य का गुण है।"** प्रामाणिकता गतिविधि और किसी वास्तविक समुदाय के वैध काम के बीच का संबंध है। कोई कार्य विस्तृत हो सकता है और फिर भी विद्यालय-आकार का रह सकता है: शिक्षक द्वारा मूल्यांकित, अंक के लिए, और जिस संसार का वह प्रतिनिधित्व करने का दावा करता है उसमें उसका कोई परिणाम नहीं।
 - **"कार्य से उभरता मूल्यांकन मतलब मूल्यांकन नहीं है।"** इसका अर्थ है कि मानक समुदाय का है, कक्षा का नहीं: क्या काम उन लोगों के लिए स्वीकार्य है जो वह काम करते हैं। यह रूब्रिक से भिन्न और सामान्यतः कठोर मानक है।
 - **"शिक्षुता के लिए भौतिक स्थल आवश्यक है।"** क्रियाविधि वैध परिधीय सहभागिता है: वास्तविक उत्तरदायित्व के साथ अभ्यास के किनारे से उसके केंद्र की ओर बढ़ना। ऑनलाइन और सिम्युलेटेड स्थल इसका समर्थन कर सकते हैं या परिधि का अनुकरण कर सकते हैं और सहभागिता कभी न दें, और अंतर यह है कि अधिगमकर्ता का योगदान वास्तव में उपयोग होता है या नहीं।
-
-## संबंधित अवधारणाएँ
-- [[learner-identity]] — विकसित होती अनुशासनात्मक, व्यावसायिक, सृजनात्मक और शैक्षणिक शिक्षार्थी पहचानें
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — प्रामाणिक संदर्भ तक पहुँच का एक मार्ग के रूप में immersive वातावरण
-
-## संबंधित लेख
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — परिदृश्य और पुनःप्रयोज्य उद्गम-युक्त संपत्तियाँ दो परीक्षणों में सादे सहायक से बेहतर
-
-- [[vargas-situated-learning-ai-review-2024]] — शिक्षा में स्थिति-आधारित शिक्षण और एआई का PRISMA व्यवस्थित समीक्षा (इस पेज का प्राथमिक संदर्भ)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — पुनरावृत्त शैक्षणिक डिज़ाइन के एजेंट के रूप में LLM

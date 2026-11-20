@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-11-05"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 **Public AI Libraries** is a 2025–2026 national pilot that puts a shared AI workstation, called a kiosk, into [[libraries|public libraries]] across the United States. It is a partnership of the Library of Congress, Metagov and Public Knowledge, joined by the Utah and New Jersey state libraries; eight libraries in five states were running a kiosk when the program page was last read. The premise is provisioning rather than training: the [[digital-divide|library supplies the access]] that individual patrons cannot buy, in a staffed place where someone can help.
 
@@ -41,13 +42,3 @@ Public libraries that want to host a kiosk (the program takes applications for p
 - Participating libraries contribute **\$1,000 per kiosk deployment per year**; the pilot itself is limited to the sites that applied.
 - The privacy statement is the program's claim, not an audited finding; a library should confirm retention and child-safety terms in its own data-processing agreement.
 - The roadmap's second and third phases, letting libraries ingest local archives and govern the resulting systems, are planned rather than shipped.
-
-## Connected Concepts
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

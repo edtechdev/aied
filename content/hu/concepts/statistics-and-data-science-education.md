@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -82,26 +84,3 @@ A vázolás minősége a hozzáféréstől függetlenül számít. A vezetett é
 - **„Az elégedettség és az észlelt haszon azt jelzi, hogy egy adattudományi MI-eszköz működik.”** A diákok intenzíven használták az LLM-eket hibakeresésre és fogalmi kérdésekre, és **magas elégedettségről számoltak be, miközben az észlelt mélytanulási hasznuk a félév során csökkent**. Az elégedettség kitartott, az önértékelt tanulási pálya viszont esett, tehát egyik adat önmagában sem az eredmény.
 - **„Egy korlátlan modell ugyanolyan jó, mint egy vezetett tutor.”** A nyereség a vázolásra vonatkozó képzésből jött — kifejezett útmutatás a lépésenkénti tippekhez és az ellenőrzéshez —, amely felülmúlta az azonos modellhez való puszta hozzáférést az önálló teljesítményben és az önértékelés kalibrációjában. A hatást a vezetés és a használatára vonatkozó képzés hordozta.
 - **„A válaszadás elleni védelem elég.”** Egy célra szabott tutor, amelyet egy hosztolt API köré csomagoltak, rendszerprompttal arra, hogy **vezessen, ne válaszoljon**, egy féléves R-kurzuson működött pszichológia szakos alapképzéses hallgatók számára, ahol a diákok **76%–84%**-a használta a vizsga szempontjából releváns heteken. Ez bevezetés, nem annak bizonyítéka, hogy a védelem tanulást eredményezett: a promptszintű védelem egy a több kar közül, és önmagában nem hoz létre tanulást.
-
-## Kapcsolódó fogalmak
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Kapcsolódó cikkek
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Ágensalapú eszköz, amely áttekinthető szintetikus adatkészleteket generál személyre szabott statisztikai gyakorláshoz
-- [[ai-tutor-statistical-programming-adoption-2026]] — Célra szabott R-tutor; a bevezetés követte a vizsganaptárt
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Az LLM nehézségi címkéi a Bloom-szinteket követik, nem a diákok teljesítményét
-- [[tactile-statistical-graphs-accessibility]] — Nyílt forráskódú folyamat, amely tanári ellenőrzéssel generál tapintható statisztikai diagramokat
-- [[guided-llm-scaffolding-independent-learning]] — A vezetett vázolás felülmúlta a korlátlan hozzáférést az önálló teljesítményben
-- [[lund-socially-accountable-data-science-xai-2026]] — A társadalmi elszámoltathatóság beágyazása a technikai adattudományi tantervbe

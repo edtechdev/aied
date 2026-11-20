@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -117,45 +119,3 @@ ai_assist:
 - **"लूप में कोई मनुष्य इसे ठीक कर देता है।"** लूप उतना ही अच्छा है जितना हस्तक्षेप का अवसर, और स्कोरिंग अध्ययनों ने एंकरिंग नहीं मापी है।
 - **"यह छात्रों की समस्या है।"** ज्ञानकोश जिन भी डिज़ाइनों का वर्णन करता है, उन सबमें मंज़ूरी देने वाले शिक्षक, रेटर, एनोटेटर और प्रशासक हैं।
 - **"यह चरित्र-दोष है जिसे बेहतर प्रशिक्षण हटा देता है।"** प्रशिक्षण मदद करता है, पर वही व्यक्ति इस पर निर्भर अलग व्यवहार करता है कि सत्यापन सस्ता है या नहीं, आउटपुट प्रवाहपूर्ण है या नहीं, और असहमति की क़ीमत है या नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[trust-calibration]] — वह निर्भरता-स्थिति जिसकी विफलता को स्वचालन पूर्वाग्रह कहता है
-- [[bias-mitigation]] — प्रणाली-पक्षीय प्रतिरूप: मॉडल के भीतर का पूर्वाग्रह
-- [[cognitive-offloading]] — मानसिक कार्य का प्रत्यायोजन, जिसका एक परिणाम बिना जाँच की स्वीकृति है
-- [[human-in-the-loop-ai]] — वह सुरक्षा-उपाय जिसकी ताक़त यह विफलता तय करती है
-- [[explainable-ai]] — वह पारदर्शिता-हस्तक्षेप जिसे ज्ञानकोश प्रस्तावित करता है और शायद ही परखता है
-- [[learning-analytics]] — डैशबोर्ड और प्रारंभिक चेतावनी, जहाँ चूक-त्रुटियाँ केंद्रित होती हैं
-- [[recommender-systems-and-learning-paths]] — यह क्रमबद्ध करना कि आगे क्या करना है, जिसका छात्र बस पालन कर सकता है
-- [[automated-assessment]] — वह स्कोर जिसे मनुष्य दोबारा पढ़े बिना स्वीकार कर सकता है
-- [[scaffolding]] — ऐसी जाँचें जो स्वीकृति से सस्ती रहें
-- [[self-efficacy]] — वह लक्षण जिस पर मानक भविष्यवाणी टिकती है
-- [[ai-detection]] — समय के दबाव में मनुष्यों द्वारा आँका गया पता लगाना
-- [[remote-proctoring]] — मॉडल द्वारा उठाया और व्यक्ति द्वारा तय किया गया संदेह
-- [[ai-literacy]] — जहाँ श्रेणीबद्ध कौशल के रूप में सत्यापन रहेगा
-
-## संबंधित लेख
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — शिक्षकों को पतले डेटा पर बनी अनुशंसाओं के सामने झुकने से चेतावनी
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — AI स्कोरों से रेटर एंकरिंग को अनपरीक्षित जोखिम बताता है और ब्लाइंडिंग प्रस्तावित करता है
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — डैशबोर्ड, सतही-लक्षण प्रतिपुष्टि और ट्रैफ़िक लाइटें सामान्य पैटर्न के रूप में
-- [[factria-responsible-institutional-analytics-2026]] — ग्यारह हितधारक, चार मामले, अनुशंसा देने से इनकार करता चैटबॉट
-- [[ludia-udl-ai-thought-partner-2026]] — उपकरण के क्षेत्र-ज्ञान पर भरोसे से कमज़ोर पड़ता शिक्षक-सुरक्षा-उपाय
-- [[extended-minds-coupling-flexibility-2026]] — अस्वीकार का औपचारिक अधिकार पर्यवेक्षण नहीं, अगर स्वचालन पूर्वाग्रह उसे हरा दे
-- [[ground-truth-reliability-aied]] — LLM एनोटेशन, चक्रीय सत्यापन और मूक लेबल-बहाव
-- [[polished-artifacts-fragile-engagement-2026]] — घटे ज्ञानमीमांसीय प्रयास का सामाजिक-संज्ञानात्मक सूत्र के रूप में स्वचालन पूर्वाग्रह
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — पुनरावर्ती मानव-AI कार्य में चार विफलता-विधियों में से एक
-- [[eight-mode-ai-engagement-typology-2026]] — Oracle विधि और उसका विशिष्ट जोखिम
-- [[assessing-student-drive-framework-2025]] — स्वचालन पूर्वाग्रह के विरुद्ध सुरक्षा-उपाय के रूप में सक्रिय मानव एजेंसी
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 अध्ययन: AI बाहरी या संघटक कार्य को विस्थापित करता है या नहीं
-- [[geoscience-field-learning-genai-2026]] — साक्ष्य-बद्ध क्षेत्र-कार्य में एंकरिंग, पुष्टि और स्वचालन पूर्वाग्रह
-- [[ahmadfard-interactive-oer-review-2026]] — शिक्षार्थी और शिक्षक एजेंसी को क्षीण करने वाले जोखिमों में गिना गया स्वचालन पूर्वाग्रह
-- [[alshahrani-health-sciences-ai-use-2026]] — 310 छात्रों की नैतिक चिंताएँ स्पष्ट प्रशिक्षण के पक्ष में
-- [[ai-literacy-legal-translation-2026]] — गुणवत्ता-भ्रम के दबावों के विरुद्ध पोस्ट-एडिटिंग श्रेणीबद्ध कौशल के रूप में
-- [[morales-cevallos-ai-forensic-science-education-2026]] — समीक्षित फ़ॉरेंसिक-AI अध्ययनों में दर्ज स्वचालन पूर्वाग्रह
-- [[rana-genai-design-thinking-2025]] — मानव निर्णय को केंद्र में रखते स्कैफ़ोल्ड
-- [[kim-overtrust-ai-literacy-2026]] — भविष्यवाणी उलटी: आत्मविश्वासी छात्रों ने उपकरण पर अधिक भरोसा किया
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — स्वचालन-पूर्वाग्रह अनुसंधान पर बना ढाँचा, उसका परीक्षण नहीं
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — आलोचनात्मक नागरिकता को क्षीण करने वाले तीन तंत्रों में से एक
-- [[academic-erasure-complexity-ai-writing-2026]] — AI उपयोग की निगरानी के भावनात्मक श्रम में स्वचालन पूर्वाग्रह
-- [[llm-fallacy-misattribution]] — निकटतम भेद: प्रणाली पर अति-निर्भरता बनाम प्रत्यक्षित व्यक्तिगत योग्यता

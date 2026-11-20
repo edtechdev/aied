@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -117,7 +119,6 @@ CogEvolution جامد شخصیت کے بجائے علمی حرکیات کو ما
 
 ایک تیز تر اعتبار کا امتحان یہ پوچھتا ہے کہ آیا ماڈل انسانی *انتخاب* کی نقل کرتا ہے بھی یا نہیں: ایک موافق [[self-directed-learning|خود ہدایت سیکھنے]] کے کھیل میں، پانچ فرنٹیئر ماڈلوں نے ایک ہی حل کا فائدہ اٹھایا جہاں 175 انسانی شرکا نے مختلف مقاصد کے تحت کھوج کی، چنانچہ سیکھنے والوں کی نمائندگی کرنے والا ماڈل اُس رویے کو چھوڑ بیٹھا جس کی نقل کے لیے سمولیشن موجود ہے ([[llm-goal-selection-self-directed-learning-2026|Molinaro وغیرہ (2026)]]).
 
-
 سمولیشن سیکھنے والے کے انتخاب کو بھی پیشگی جانچ سکتی ہے: [[simulating-learner-task-selection|Noh وغیرہ (2026)]] نے دو حقیقی ٹیوٹرنگ ڈیٹا سیٹوں پر Additive Factors Model اور Bayesian [[knowledge-tracing]] فٹ کیا اور 1,000 نقل شدہ سیکھنے والوں کو آٹھ حکمت عملیوں کے تحت مہارتیں چننے دیں، جہاں خطرے سے بچنے والے قاعدے نے باقیوں کے مقابلے میں تقریباً تیس گنا زیادہ ضرورت سے زیادہ مشق پیدا کی اور مہارت سے ذرا نیچے کی قید نے اسے 1.8 گنا تک کم کر دیا۔
 
 دوسرا جانچ کا انداز [[metacognition|میٹا کوگنیشن]] اور جذباتی ہے۔ [[meds-math-education-digital-shadows-2026|MEDS (Esposito وغیرہ، 2026)]] ایک 28,000 ریکارڈ کا ڈیٹا سیٹ ہے — 14 [[llm|ماڈلوں]] میں سے ہر ایک کے لیے 2,000 مصنوعی شخصیتیں، ہر ایک کو بیک وقت انسانی شخصیت اور بنیادی اسسٹنٹ دونوں کے طور پر چلایا گیا — جو 18 ہائی اسکول [[problem-solving|ریاضی کے مسائل]] پر درستگی کے ساتھ [[self-report-measures|خود رپورٹ شدہ]] اعتماد اور وہ [[self-efficacy]] اور [[anxiety-and-stress|ریاضی کی بے چینی]] کے اسکور درج کرتا ہے جو اُن سیکھنے والوں کی طرف سے ہوتے جن کی وہ نمائندگی کرتا ہے۔ اس کا جانچ کا اشارہ کیلیبریشن کا خلا ہے: Qwen خاندان اور Ministral 3B نے 0.90 سے زیادہ اعتماد کا دعویٰ کیا جبکہ درستگی تقریباً 0.55 پر ٹھہری رہی، جبکہ Grok 4.1 Fast، DeepSeek Chat اور Mistral Small کی کئی اقسام کم اعتماد والے تھے اور Ministral 14B اور Anita 24B معقول حد تک ہم آہنگ رہے۔ یہی رنز وفاداری کی ایک خاموش ناکامی بھی سامنے لاتے ہیں: انسانی حالت والی شخصیتوں نے وسیع، معقول اسکور تقسیمیں دیں، مگر بنیادی اسسٹنٹس نے تقریباً یکساں، پراعتماد، کم بے چینی والے جوابات دیے — یعنی ایک طے شدہ خود نگاری، نقل شدہ سیکھنے والے کی نہیں۔ یہ اوپر والی تجویز کنندہ جانچ کو آگے بڑھاتا ہے کیونکہ یہ جانچتا ہے کہ ماڈل اپنی قابلیت اور جذبات کے بارے میں کیا دعویٰ کرتا ہے، اور اس صفحے کی اعتبار کی تنبیہ کو ایک غیر متوقع سمت سے تیز کرتا ہے: چونکہ MEDS کی شخصیتیں نمونہ لینے کے بجائے تعمیر کے لحاظ سے وزن شدہ ہیں، اس کے مصنفین ڈیٹا سیٹ کو پرامپٹ سے مشروط [[generative-ai|GenAI]] رویے کی جانچ کے لیے ایک مشاہداتی وسیلہ قرار دیتے ہیں اور واضح طور پر حقیقی [[student-experience|طالب علم ڈیٹا]] کا نعم البدل نہیں۔
@@ -135,59 +136,3 @@ CogEvolution جامد شخصیت کے بجائے علمی حرکیات کو ما
 - **”LLM طلبہ کافی اچھے نائب ہیں۔“** **سمولیشن سب سے آسان طلبہ کو محیط ہوتی ہیں، اور بہت کم کی تصدیق ہوتی ہے**: **بارہ اساتذہ** جنہوں نے LLM طلبہ کو پڑھایا، نے **حد سے زیادہ پیچیدہ زبان، غائب جذبات** اور حقیقی سیکھنے والوں سے دیگر انحرافات کی شکایت کی۔ نائب آسان کیس کی ماڈلنگ کرتا ہے۔
 - **”علمی خلا والا نقل شدہ طالب علم اُس خلا والے سیکھنے والے کی طرح برتاؤ کرتا ہے۔“** **Mistral-7B میں 16 نشانہ بنائے گئے علمی اجزا دبانے سے درستگی 10% بھولنے کے تناسب پر تقریباً 0.75 سے 40% پر 0.5 سے نیچے آ گئی**، جبکہ بنیادی ماڈل برقرار رہا۔ یہ بگاڑ انجنیئر کیا گیا تھا، اور یہی اسے نقل کے بجائے کنٹرول شدہ مداخلت بناتا ہے۔
 - **”شخصیت کا استحکام ماڈل کے انتخاب کا مسئلہ ہے۔“** یہ **تعامل کے ڈیزائن کا مسئلہ** ہے: **پانچ LLM کو تین پرامپٹ ڈیزائنوں اور ADHD کی شدت والی چار شخصیتوں کے ساتھ** ملا کر، سکرپٹ شدہ فرق ماڈل کے بجائے پرامپٹ کے ڈیزائن کی پیروی کرتا رہا۔ بہتر ماڈل چننا غیر مستحکم شخصیت کو ٹھیک نہیں کرتا۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — AI کی مدد سے تعلیمی تحقیق
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## منسلک مضامین
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: درجہ بند منصوبہ بندی نقل شدہ طلبہ کو لمبے افق پر پروفائل کے مطابق رکھتی ہے (Radmehr وغیرہ 2026)
-- [[rudolph-llm-simulated-counselling-clients-2026]] — نقل شدہ مشاورتی مؤکل تیزی سے مسئلہ بتا دیتے ہیں، چنانچہ تربیت پانے والے سہولت بخش اعتدال چھوڑ دیتے ہیں
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: رول پلے سے سیکھنے والے کے رویے کی ماڈلنگ تک، وفادار طالب علم سمولیشن کے لیے
-- [[tutorloop-sensor-cognitive-feedback-2026]] — سمولیٹر سے تربیت یافتہ ری انفورسمنٹ لرننگ ٹیوٹر آف لائن نئے حقیقی کام پر منتقل ہوا (Xu اور Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — کیا LLM انسانی سیکھنے والوں کی سمولیشن کر سکتے ہیں؟ اساتذہ کی بصیرتیں
-- [[llm-student-simulation-misconception-faithfulness]] — طلبہ کی سمولیشن یا چاپلوسانہ مسئلہ حل کرنا؟
-- [[llm-educational-simulation-adhd]] — LLM پر مبنی تعلیمی سمولیشن اور طالب علم کی شخصیت کا استحکام
-- [[simulating-students-java-programming-errors-llms]] — طلبہ کی Java پروگرامنگ کی غلطیوں کی سمولیشن
-- [[adaptive-virtual-patient-psychotherapy-training]] — سائیکو تھراپی کی تربیت کے لیے موافق ورچوئل مریض
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI معیاری مریض
-- [[simulating-students-diverse-cognitive-levels-2025]] — ناقص پن کو قبول کرنا: متنوع علمی سطحوں کی سمولیشن
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: مصنوعی مکالموں کے لیے فائن ٹیون شدہ مستند طالب علم ماڈل
-- [[educasim-cs1-instructional-practice]] — EducaSim: جنریٹو ایجنٹ اساتذہ کی مشق کے لیے CS1 سیکشن کی سمولیشن کرتے ہیں
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — ریاضی کے اساتذہ کی تربیت میں مشق کی پیدگوجی میں AI کا ذمہ دارانہ انضمام
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: طلبہ کے علمی ارتقا کی سمولیشن کرنے والا جنریٹو ایجنٹ
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — کیا AI متنوع طالب علم پروفائلوں کے لیے مناسب سہارا دے سکتا ہے؟ ایک بڑے پیمانے کا جائزہ
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — فائن ٹیون شدہ شریک کے لحاظ سے مخصوص LLM ایجنٹ اشتراکی مسئلہ حل کرنے کے مکالمے دہراتے ہیں (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM پر مبنی طالب علم سمولیٹروں کی تربیت
-- [[ai-web-agents-lesson-design-2025]] — AI ویب ایجنٹ: اسکول چھوڑنے کی پیش گوئی اور ڈیزائن پر تنقید کے لیے ایک اکیلا بیان کرنے والا ایجنٹ طلبہ کی تقسیم کی سمولیشن سے بہتر ہے
-- [[simulating-learner-task-selection]] — مہارت کی سیکھائی میں سیکھنے والوں کی ٹاسک انتخاب کی حکمت عملیوں اور نظام کی قید کی سمولیشن (Noh، Chowdhary، Ooge، Aleven اور Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — پائیدار مہارتوں کی قابلِ توسیع پیمائش کی طرف
-- [[agent-based-educational-science-2026]] — ایجنٹ پر مبنی تعلیمی سائنس کی طرف: سمولیشن کا آلہ بطور تحقیقی اوزار (Zhang، Jiang اور Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: نقل شدہ طلبہ اور AI اسسٹنٹس میں ریاضی کی کارکردگی، اعتماد اور بے چینی کا 28,000 ریکارڈ کا جائزہ
-- [[swim-student-writing-simulation-2026]] — طالب علم کے تحریری سمولیٹر کے لیے پرامپٹنگ بمقابلہ SFT بمقابلہ انعام پر مبنی تربیت
-- [[misconception-acquisition-dynamics-llms-2026]] — سمولیٹر کے پاس کوئی غلط فہمی قائم رکھنے کے لیے تربیتی ڈیٹا میں کیا ہونا ضروری ہے
-- [[llm-distractor-generation-student-reasoning-2026]] — ماڈل کس طرح غلط طالب علم استدلال کی سمولیشن کرتے ہیں، اس کا ٹریس کی سطح پر تجزیہ
-- [[llm-simulating-student-scientific-thinking-2026]] — 8,820 سبق میں شامل سائنس خیالات کے سامنے چھ ماڈل: کہاں نقل شدہ استدلال نوجوان سیکھنے والوں کے دائرے، الفاظ اور یقین سے تجاوز کرتا ہے
-- [[simulated-students-tutoring-dialogues-2026]] — نو طالب علم سمولیشن طریقوں کا سات میٹرک والا بینچ مارک، تین ٹیوٹروں والے انسانی جائزے کے ساتھ
-- [[simulating-novice-students-machine-unlearning-2026]] — مشین اَن لرننگ بطور طریقہ کہ سمولیٹر کو مستحکم نوزائیدہ علمی سطح پر رکھا جائے، اور تدریسی گفتگو کے ذریعے دوبارہ سیکھنا
-- [[student-development-agent-risk-free-simulation-2025]] — کثیر ایجنٹ پلیٹ فارم پر طلبہ کے کورس کے بعد کے ترقیاتی نتائج کی پیش گوئی، اُنہیں مداخلت کے سامنے لائے بغیر
-- [[preservice-teachers-noticing-ai-simulations-2026]] — مساوی علامت والی چیٹ بوٹ سمولیشن میں پری سروس اساتذہ کی تین ہفتوں کی توجہ، تشریح اور تشکیل، اور ڈیزائن کیسے طے کرتا ہے کہ وہ کیا نوٹ کریں
-- [[beagle-grounded-learner-emulation-2026]] — ایک نیورو سمبولک سمولیٹر جو SRL ساخت کو پرامپٹ کے بجائے معماری کے ذریعے نافذ کرتا ہے، اور انسانی ٹیورنگ ٹیسٹ پاس کرتا ہے
-- [[llm-goal-selection-self-directed-learning-2026]] — خود ہدایت سیکھنے کے کام میں لسانی ماڈل کا مقصد کا انتخاب انسانوں سے مختلف ہے

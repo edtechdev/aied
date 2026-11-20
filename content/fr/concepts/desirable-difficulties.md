@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -107,50 +109,3 @@ TutorMoments opérationnalise les principes des difficultés souhaitables comme 
 **« Friction cognitive et lutte productive sont la même idée. »** Elles viennent de littératures différentes et font des prédictions différentes. La lutte productive concerne la construction de sens exigeante qui bâtit la compréhension ; la friction cognitive concerne la discordance entre ce qu'une tâche exige et ce que les ressources actuelles de l'apprenant soutiennent. Les traiter comme des synonymes fait perdre la question diagnostique — cet apprenant lutte-t-il d'une manière qui construit, ou est-il bloqué d'une manière qui ne coûte que du temps ?
 
 **« Si retirer la lutte augmente la performance immédiate, l'intervention a fonctionné. »** C'est l'arbitrage dont toute cette page traite : la performance mesurée en présence du soutien est systématiquement gonflée par rapport à la performance ultérieure sans aide. Toute évaluation d'une IA qui réduit l'effort doit mesurer à distance et sans l'outil, sinon elle rapportera la suppression de la pratique comme une production d'apprentissage.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Pourquoi l'ordre exigeant surpasse l'ordre fluide
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — L'échec que la friction productive est conçue pour prévenir
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — L'échec productif
-- [[retrieval-spacing-interleaving]] — les techniques opérationnelles qui instancient ce principe : effet de test, espacement, entrelacement
-
-## Articles liés
-
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT comme béquille cognitive : un test randomisé différé de la suppression de la difficulté souhaitable (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Contre l'IA sans friction : l'argument du U inversé en faveur de la préservation d'une friction bénéfique
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Une friction productive intégrée aux outils d'IA générative soutient l'apprentissage
-- [[zhang-tutormoments-2026]] — Quand l'aide est inutile : évaluer les tuteurs d'IA au regard de la lutte productive
-- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
-- [[wang-safety-gap-productive-struggle-2026]] — Le Safety Gap : restaurer la lutte productive
-- [[rhaimi-productivemath-2025]] — ProductiveMath : l'IA au service de la conception de problèmes d'échec productif
-- [[making-ai-annoying-constrained-writing-2026]] — Rendre l'IA agaçante exprès : la contrainte dans l'écriture soutenue par l'IA (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Invites d'auto-explication ajoutées à une rétroaction d'IA déjà élaborée : temps doublé, aucun gain d'apprentissage (Asher, Gold et Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La pénalité d'apprentissage de l'IA générative : les scores de devoirs montent tandis que ceux des examens baissent, le coût complet après deux ans (Strömberg, Lei et Wu 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Questions ouvertes vers une dépendance préservant les compétences dans l'engagement réflexif avec l'IA

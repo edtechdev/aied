@@ -24,7 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -110,53 +111,3 @@ La vie privée peut être intégrée au pipeline plutôt qu'à la politique : un
 **« Ouvert contre propriétaire est un détail de licence sans effet sur les résultats. »** Le modèle de plateforme façonne ce que les institutions peuvent faire du système : les plateformes [[open-source|ouvertes]] telles qu'OATutor — un tuteur adaptatif sous licence MIT avec une bibliothèque de contenus d'algèbre sous Creative Commons, une estimation de la maîtrise par [[knowledge-tracing]] et des tests A/B intégrés — permettent à un département d'instrumenter et de modifier sa propre [[pedagogy|pédagogie]], ce qu'une plateforme fermée ne permet pas. La licence détermine qui peut mener l'expérience.
 
 **« Une plateforme qui fonctionne dans un établissement fonctionnera telle qu'adoptée. »** Les effets de plateforme passent par la gouvernance locale : architecture privilégiant la vie privée, minimisation des données, journaux auditables et accès fondé sur les rôles sont ce qui rend une plateforme intégrée à l'IA déployable tout court, et ce sont des décisions institutionnelles plutôt que des fonctionnalités que l'on peut déduire d'une démonstration commerciale.
-
-## Concepts liés
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Articles liés
-
-- [[typology-generative-ai-tools-education-2026]] — Ce que 211 éducateurs déclaraient utiliser : 50 outils en neuf catégories
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Rendre le tutorat par l'IA productif : la pratique mathématique fondée sur la maîtrise
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away : Khanmigo dans une expérience scolaire de deux ans
-- [[access-not-enough-ai-tutoring-2026]] — L'adoption et l'engagement sont les contraintes déterminantes pour les plates-formes de tutorat par l'IA
-- [[oatutor-open-source-adaptive-tutor-2023]] — Une plateforme de tutorat adaptatif à code ouvert pour une recherche réplicable
-- [[mooc-to-maic]] — Passer du MOOC aux classes d'IA multi-agents pilotées par LLM
-- [[ai-lms-middle-school-longitudinal]] — LMS intégrant l'IA pour le collège, avec un soutien borné et plaçant la vie privée en premier
-- [[taklif-ai-interest-based-personalized-assignments]] — Plateforme de devoirs personnalisés fondés sur les intérêts
-- [[edusim-llm-robotic-simulation-education-2026]] — Une plateforme de simulation roboto-LLM pour l'éducation
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Une plateforme d'enseignement par robot social génératif dans l'enseignement supérieur
-- [[hypergamification-game-engine-lms]] — Un LMS fondé sur un moteur de jeu intégrant la gamification
-- [[edtech-design-time-generative-ui]] — Concevoir l'edtech pour une interface générative
-- [[lata-ferpa-compliant-local-llm-autograder]] — Plateforme de correction automatique locale par LLM conforme au FERPA
-- [[vismatic-secure-sandbox-cs-education]] — Un bac à sable sécurisé pour l'enseignement de l'informatique
-- [[learnmate2-llm-adaptive-learning]] — Plateforme d'apprentissage adaptatif personnalisé alimenté par LLM
-- [[privacy-aware-classroom-incident-recognition-2026]] — Vision par ordinateur respectueuse de la vie privée dans les plates-formes de classe
-- [[raza-farooq-aied-review-2020-2025]] — Revue complète de la recherche et des systèmes d'IA en éducation
-- [[credentials-carry-evidence-ai-agents-2026]] — Des titres qui portent leurs preuves pour un travail d'agents d'IA
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — « On corrigera plus tard » : l'éducation, l'IA et le report de la protection de la vie privée des élèves dans l'edtech
-- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les mesures de fidélité manquent : un contrôle structurel des données éducatives synthétiques

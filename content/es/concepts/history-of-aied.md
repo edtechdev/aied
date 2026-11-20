@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -100,29 +102,3 @@ La llegada de la [[generative-ai|IA generativa]] —una familia amplia que inclu
 **«Personalizar significa adaptar la dificultad a cada estudiante.»** Ese es solo uno de dos sentidos incompatibles, y confundirlos oculta una elección política. En el primer sentido el resultado se mantiene fijo y solo varía el camino, un linaje que va de las máquinas de enseñar de Skinner a la tutoría basada en el dominio. En el segundo los propios resultados se diversifican, a medida que el estudiantado persigue intereses individuales sin las restricciones del currículo estándar (Zhao, 2024). Un [[intelligent-tutoring|ITS]] implementa el primero; el [[constructivist|construccionismo]], el segundo. Una herramienta descrita como «personalizada» no le ha dicho nada hasta que sepa cuál de los dos sentidos usa.
 
 **«“Inteligencia artificial” era simplemente el nombre obvio para el campo.»** El término fue una elección deliberada. Cuando McCarthy planificó el proyecto de Dartmouth de 1956 prefería *inteligencia artificial* a *cibernética*, en parte para distanciar el trabajo de la tradición de la retroalimentación analógica de Wiener. Esa única decisión enmarcó las máquinas en comparación directa con la cognición humana, y el encuadre antropomórfico que instaló sigue moldeando las prioridades de investigación, el lenguaje de los productos y las preguntas éticas que se hace el público.
-
-## Conceptos conectados
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Artículos conectados
-
-- [[mishra-control-vs-agency-history-2025]] — Control frente a agencia: explorar la historia de la IA en la educación
-- [[prezenski-human-centered-ai-aided-learning]] — Aprendizaje asistido por IA centrado en las personas (dialoga con el legado de Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Bienes cognitivos comunes y pericia con IA (encuadre histórico)
-- [[programming-its]] — Programar sistemas de tutoría inteligente
-- [[lak2026-hint-button-unproductive-use]] — Revisitar el botón de pista en los tutores cognitivos
-- [[socrates-students-instructors-llms-lbt-2025]] — Aprender enseñando con LLM (el linaje construccionista de Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Cincuenta años de temas en Computers & Education: la prevalencia de la IA giró al alza tras 2018, cuatro años antes de ChatGPT

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -86,39 +88,3 @@ Elevidentitet forbinder til [[agency|handlekraft]] (identitet udøves gennem han
 **"AI-hjælp sænker barriererne og udvider derfor deltagelsen."** Den kan sænke barrieren for at producere arbejde, mens den indsnævrer barrieren for at gøre krav på forfatterskab. En studerende, der afleverer et flydende artefakt, de ikke har forfattet, har fået adgang til udfaldet og er blevet nægtet den anerkendelse, der bygger identiteten bag det.
 
 **"At anerkende en lærendes identitet handler om repræsentation i indholdet."** Repræsentation betyder noget, og anerkendelse udøves i praksis: hvis spørgsmål der bliver taget op, hvis bidrag der bliver krediteret, og hvem der bliver behandlet som kompetent. Et [[curriculum-design|curriculum]] kan være repræsentativt og stadig tilbageholde den anerkendelse, som identitetsdannelse kræver.
-
-## Forbundne begreber
-
-- [[learners]] — De lærende: paraplyen for de lærendesidens begreber
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Forbundne artikler
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 bachelorstuderende om, hvad de bliver ved med at gøre selv, og hvorfor formålet sjældent afgør det
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Skam og skyld som sociale regulatorer af AI-brug
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive kapaciteter for en levedygtig professionel identitet i en GenAI-fremtid
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] — AI-muliggjort pædagogisk ledsagelse, der understøtter STEM-identitet
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — At designe for autentisk evaluering
-- [[paternalistic-filter-llm-history-education]] — Paternalistisk AI-brug og elevidentitet i historieundervisningen
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise for fakultetet (læreridentitet)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-baseret lærertræning og professionel identitet
-- [[genai-professionalization-metaphors-2026]] — GenAI-konceptualiseringer og studerendes professionelle identitet
-
-- [[synthetic-position-self-authorship-2026]] — Forfatterskabsudsættelse: uddelegeret forfatterskab som et selv, der er tæt stemt, men ikke forfattet (konceptuel analyse)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

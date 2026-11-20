@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -55,9 +57,7 @@ La knowledge base documenta diverse famiglie di teorie dell'apprendimento, ciasc
 
 Le teorie dell'apprendimento sono in ultima analisi valutate dai loro esiti, e il concetto di [[learning-gains|guadagni di apprendimento]] della knowledge base è il punto in cui la teoria incontra l'evidenza. Ciascuna teoria fa una previsione diversa su ciò che *conta* come apprendimento e su come misurarlo: il comportamentismo prevede guadagni osservabili di prestazione in compiti di esercitazione e feedback; il costruttivismo prevede una comprensione più profonda che si trasferisce a problemi nuovi; la teoria socioculturale prevede guadagni nella partecipazione e nella [[problem-solving|risoluzione di problemi]] mediata; la teoria del carico cognitivo prevede guadagni solo quando l'istruzione rispetta i limiti della memoria di lavoro. Le scelte di misurazione, dunque, decidono quale previsione teorica una valutazione può confermare. Nell'era dell'IA, la netta divergenza tra la prestazione assistita dall'IA e i [[learning-gains|guadagni di apprendimento]] non assistiti (vedi [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) può essere letta attraverso questa lente: una lettura comportamentista vede i punteggi gonfiati nei compiti a casa come un successo, mentre una lettura costruttivista, focalizzata sulla comprensione duratura, vede la stessa evidenza come un fallimento dell'apprendimento.
 
-
 **L'evidenza aggregata è positiva, e misura un costrutto più ristretto di quello che le teorie misurano.** Una [[meta-analysis-systematic-review|meta-analisi]] PRISMA di 53 studi colloca l'assistenza della GenAI a g = 0,40 sul rendimento accademico, 0,72 sul [[critical-thinking|pensiero di ordine superiore]], 0,76 sulla scrittura e 0,81 sulla motivazione, con il feedback della GenAI come meccanismo più ampio a g = 1,27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Questi sono guadagni sugli strumenti che gli studi inclusi hanno scelto, quindi chiudono una lettura comportamentista o cognitivista del "funziona" e lasciano non verificata la previsione costruttivista sulla comprensione durevole e trasferibile. Anche i sottogruppi nazionali divergevano, dal g = 0,71 della Cina al g = 0,01 non significativo della Turchia, quindi la stima aggregata è una media da verificare localmente anziché una proprietà dello strumento.
-
 
 ### Perché le teorie dell'apprendimento contano per l'IA nell'educazione
 
@@ -120,51 +120,3 @@ Accanto alle famiglie classiche, la knowledge base documenta teorie scritte spec
 **Per i ricercatori**
 
 - Progettare per l'arbitraggio tra teorie anziché per l'accumulo di quadri. La maturità si manifesta come previsioni concorrenti risolte, non come crescita del vocabolario.
-
-## Concetti collegati
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Ombrello: pedagogie e strategie didattiche nell'educazione con IA
-
-## Articoli collegati
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Una teoria dell'apprendimento di medio raggio per l'interazione umano–IA, con quattro meccanismi e sei proposizioni verificabili (Yan e Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sovra-generalizzazione ingannevole: il dominio adattivo può interrompere la pratica prima che chi apprende sappia quando astenersi da un'azione (An, McLaren e Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — Indagine e regolazione aumentate dall'IA in sistemi ibridi (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Posiziona l'IA come partner cognitivo nella co-regolazione umano–IA; quadro evolutivo lungo l'arco della vita
-- [[ensemble-cognition-philosophy-ai-education]] — Cognizione d'insieme: un quadro filosofico che riconcettualizza il pensiero come interazione umano–IA
-- [[self-directed-growth-generative-ai-learning-analytics]] — La Crescita Autodiretta e il modello A2PL che estende l'apprendimento autodiretto con l'IA generativa
-- [[generativism-learning-theory]] — Propone una nuova teoria dell'apprendimento per l'era dell'IA generativa, rivedendo le quattro classiche
-- [[ai-vocational-education-training-review]] — Ha documentato la lacuna teoria-pratica tra costruttivismo e comportamentismo nell'IA per la formazione professionale
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisi PRISMA di 53 studi: guadagni aggregati su rendimento, pensiero, scrittura e motivazione, con il feedback come meccanismo più ampio (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — L'IA generativa come agente di mediazione
-- [[kim-ai-productive-failure-adult-2026]] — Progettare sistemi di IA per supportare l'apprendimento basato sul fallimento produttivo
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direzione pedagogica degli LLM per il fallimento produttivo
-- [[lukesova-clue-before-correction-2026]] — Indizio prima della correzione: ChatGPT per l'apprendimento autonomo delle lingue
-- [[rachatasumrit-example-problem-ratio-2026]]

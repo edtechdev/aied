@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -49,7 +50,3 @@ AI のセクションには、Playlab 上の 4 つの対話型コーチが入っ
 ## 注記
 
 読むのにアカウントは不要で、リンクされている Canvas コースとチェックリストも公開されています。Playlab のコーチ、Gemini Gems、ノートブックは第三者によるサービスなので、こちらはアカウントが必要です。カードは `apps.json` から描画されるため、完全な一覧には JavaScript が必要で、スクリプトなしの代替表示には 15 のうち 8 つだけが名前として出ます。短縮リンク `tinyurl.com/fpdapps` とヘッダーの QR コードから、スマートフォンでも開けます。リポジトリは MIT ライセンスのソフトウェアですが、リンクされているガイドはそれぞれのライセンスに従い、そのうち Pressbooks の書籍は非営利のクリエイティブ・コモンズ・ライセンスの下にあります。発表の予定はないため、ページは予告なく変わります。
-
-## 関連する概念
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

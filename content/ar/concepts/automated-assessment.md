@@ -27,6 +27,8 @@ source_updated: "2026-11-04T15:25:17-05:00"
 updated: "2026-11-08T10:26:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,7 +70,6 @@ contributors: [editor]
 - **الانحياز والإنصاف:** يُوثّق [[ai-scoring-language-bias-physics|انحياز اللغة في تصحيح الفيزياء]] كيف يمكن للتصحيح الآلي أن يُضعف الناطقين بغير الإنجليزية — مرتبطاً بـ[[bias-mitigation]] و[[equity-in-ai-education]].
 - **معايرة مرجعية لنماذج الذكاء الاصطناعي التوليدي في التصحيح المفتوح النهاية:** [[pecuchova-automated-grading-open-ended-genai-2026|بيتشكوفا وبنكو ودرليك (2025)]] عايروا أحد عشر نموذجاً توليديا ونموذج تضمين جمل ضد مُقيِّمين بشريين خبيرين على 1,885 استجابة مفتوحة النهاية لـ24 سؤالاً في هندسة البرمجيات. فقط GPTo1 بلغ اتفاقاً شبه مثالي (كابا Fleiss 0.82، موجبات وسلبيات كاذبة منخفضة عبر فئات الدرجات)، مع Claude3 وPaLM2 قريبين منه؛ تعاملت نماذج [[generative-ai|الذكاء الاصطناعي التوليدي]] الحساسة للسياق بقوة مع إجابات طلابية قصيرة متنوعة الصياغة، في حين عاقبت النماذج المرجعية القائمة على التضمين (مثل 345 موجبة كاذبة لـBERT) بشكل منهجي الاستجابات الصحيحة المختلفة الصياغة — دليل على أن اختيار النموذج، لا صيغة التصحيح وحدها، يُشكّل الموثوقية في [[assessment|التقييم المفتوح النهاية]] النصي.
 - **أمثلة التحفيز تحدّد اتفاق التصحيح:** [[automated-constructive-assessment-hdr-llm-2026|تاكاهاشي وزملاؤه (2026)]] أتمتوا الاستدلال التشخيصي الهرمي (HDR)، وهي مهمة كفاءة تطبيقية يجد فيها المتعلّمون أخطاءً مُدسّة ويشرحونها في حالة قصيرة. باستخدام GPT-4o دون ضبط دقيق، ولّد الفريق مسائل جديدة وصحّح أوصاف الطلاب: حملت المسائل المُولَّدة والمنسوبة لبشر اتساقاً داخلياً واحداً (ألفا كرونباخ = 0.78) ولم تُظهر فارقاً ذا دلالة إحصائية في توزيع الدرجات عبر 100 مشارك، وبقيت ارتباط الصيغة بضابط فهم القراءة منخفضاً (α = 0.36 و0.41). اعتمدت دقة التصحيح على طريقة التحفيز لا النموذج — دون أمثلة مُنجَزة هبطت دقة Q2 إلى 0.42، في حين رفعت إضافة أمثلة صحيحة وخاطئة صحّحها بشر الاتفاق إلى 98% أو أعلى في كل سؤال (Q1 وQ2 عند 100%) — مقابل كلفة بشرية مقيسة بلغت 138 دقيقة من تصحيح خبير لـ117 استجابة زائد 30 دقيقة توافقاً.
-
 
 طريقة استدلال النموذج نفسه رافعة إعداد ثانية: على 32 إجابة مجهولة الهوية لامتحان ماجستير في الصحة العامة انتقل ChatGPT نفسه من كابا موزونة 0.269 في الوضع السريع إلى 0.718 في وضع التفكير، بينما بلغ Kimi 0.571 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **[[agentic-ai|تشفير متعدد الوكلاء]] لاستجابات المدرِّسين المفتوحة النهاية، حيث الإطار لا النموذج هو من يحمل الموثوقية:** يُوسّع [[llm-automated-coding-teacher-pck-2026|كوبر-جينكتورك وزملاؤه (2026)]] التقويم الآلي إلى ما هو أبعد من عمل الطلاب ليشمل تشفير محتوى المعرفة (CK) ومعرفة المحتوى [[pedagogy|التربوي]] (PCK) للمدرِّسين أنفسهم، سائلين هل يستطيع الذكاء الاصطناعي إعادة إنتاج التشفير البشري المدرب لاستجابات مكتوبة لـ268 مدرس رياضيات أمريكياً في [[k-12|المرحلة المتوسطة]] حول النسب والعلاقات التناسبية. يُسند نموذج لغوي كبير مبني لهذا الغرض، GradeOpt، ثلاثة أدوار مدعومة بـGPT-4o — مُصحِّح يطبق دليل التشفير البشري، وعاكس يُشخِّص كل خلاف مع الشيفرة البشرية، ومُحسِّن يطوي نقاط التوضيح في الدليل عبر ما يصل إلى ست جولات — وطابق المشفّرين البشريين المدربين عن قرب في CK (κ = .88 و.85) بينما بلغ اتفاقاً جوهرياً في بنود PCK الأكثر تأويلاً بكثير إجمالاً (κ = .68؛ κ الموزونة = .79). لم تتجاوز خطوط أساس NLP ونموذج GPT-4o أحادي التحفيز أبداً κ = .39 أو κ موزونة = .55 في PCK، فتُنسب الموثوقية من المؤلفين إلى صقل التعليمات مقابل دليل التشفير لا إلى حجم النموذج، ويوصون بمراجعة الخبراء أينما تتداخل مستويات التشفير المتجاورة، إذ كانت أخطاء GradeOpt المتبقية عادةً شيفرات متجاورة لا أخطاءً فادحة.
@@ -113,7 +114,6 @@ contributors: [editor]
 تعتمد جودة التقويم الآلي على [[assessment-validity]] و[[bias-mitigation]]. تُظهر بحوث [[ai-scoring-language-bias-physics|انحياز اللغة]] أن التصحيح الآلي يمكن أن يُضعف بشكل منهجي فئات معينة من الطلاب.
 **المعيار نفسه قابل للخطأ.** [[ai-marking-accuracy-gcse-physics-2026|بوزداغ وكيو (2026)]] يُصحّحون أوراق فيزياء GCSE بنظام ذكاء اصطناعي ويقارنونها بعلامات مجلس الامتحان الرسمية وحكم المدرِّسين ذوي الخبرة معاً، معاملين الاتفاق مع المجلس كبديل للدقة لا الدقة نفسها.
 
-
 ### سيناريوهات النشر وما يتطلبه كل منها
 
 تعتمد درجة المواءمة التي ينبغي أن تطالب بها مؤسسة على ما يُسمح للنظام بتقريره. في دراسة [[mixed-methods-research|مختلطة المناهج]] على [[opraise-automated-marking-ai-assessment-2026|761 مقالاً جامعياً أصيلاً في ثلاث جامعات بريطانية]]، لم تبلغ ثلاثة نماذج رائدة بـ27 إعداد تحفيز لكل منها سوى 35–65 بالمئة اتفاقاً مع المقيِّمين البشريين على نطاق الدرجة، ولم تنتقل الدقة بين المؤسسات — لذلك تعامل التقرير الاستخدامات المرشحة كسيناريوهات متمايزة لا كقرار واحد. **ضمان جودة التصحيح البشري**، حيث يُصحِّح الذكاء الاصطناعي بالتوازي وتُطلق الفوارق الكبيرة مراجعةً بشرية، هو الأكثر تحفظاً. **مساعد التصحيح**، الذي يرتب التسليمات أو يصنفها بالجودة أو عدم اليقين المتوقع، أو يفصل الحالات المعقَّدة، أو يُوسّع التعليقات البشرية الموجزة إلى تغذية راجعة أتمّ، هو أرضية وسطى حقيقية. **الذكاء الاصطناعي كمُصحِّح أساسي**، مع مراجعة بشرية لعيّنة أو لتوزيعات العلامات، حُكم بقبوله فقط إذا تحسّن أداء النظام، ولم تُقرّ أي مجموعة [[stakeholders|أصحاب مصلحة]] بالذكاء الاصطناعي كمُصحِّح منفرد.
@@ -143,83 +143,9 @@ contributors: [editor]
 
 - **«كابا واحدة هي الحجة على مُقيِّم.»** إنها فحص واحد، ويُظهر معيار قياس لـ**22 نموذجاً موجَّهاً** على ثلاث مدوّنات عامة لماذا. استوفى كل نموذج فحوصاً إجابتها الصحيحة معروفة: طلب مهذّب بالدرجة الكاملة، وتعليمة تصحيح مزوّرة، وإجابة فارغة، وكلمة بلا معنى، واعتراض مجرّد. وقد أُشير إلى **أربعة عشر** نموذجاً لكسبها أكثر من **5% من المقياس** من ملاحظة، حتى **83.2%** في الكود، بينما منح **سبعة** الدرجة لإجابات فارغة أو بلا معنى، لذا [[porcaro-ai-grading-benchmark-2026|يجب قراءة رقم الاتفاق واختبارات الفشل معاً]]. ولنظام تصحيح منشور مدخل آخر يجب اختباره: أدّت مشاركة تقدير [[student-modeling|نموذج متعلّم]] مع المُقيِّم إلى إزاحة الدرجات بـ**0.28 إلى 0.75 نقطة** على العمل نفسه، ولم تُغيّر تقريباً [[porcaro-ai-grader-reliability-2026|الاستئصال الذي وجد ذلك]] اتفاق المقيِّمين.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«الدرجة الآلية رقم موثوق واحد.»** صُحّح امتحان عملي في الرؤية الحاسوبية (**570 طالبًا مُصحَّحًا مرتين**) تحت **171 إعدادًا**، وامتحان تعلّم آلي ثانٍ تحت إعدادات أخرى — فالإعداد هو ما قاد الدرجة. فالدرجة المعروضة كرقم تخفي الإعداد الذي أنتجها.
 - **«المُقيِّم هو مصدر عدم الموثوقية.»** في 378 حكمًا بنرد ثابت، غيّرت إعادة التشغيل **2.9 إلى 6.1 بالمئة** من النواتج تحت طريقة شبه صارمة و**13.5 إلى 15.9 بالمئة** تحت تحكيم حر، بينما أضاف تبديل مُقيِّم الذكاء الاصطناعي نحو 3 نقاط فقط ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — فالإجراء، لا المُقيِّم، هو ما يحدّد قابلية إعادة الإنتاج.
 - **«الإبلاغ عن الثقة ترف.»** درجة تقول إنها **واثقة بنسبة 70%** ستغيّر طريقة استخدامها، وغياب تلك المعلومة يُرغم القارئ على معاملة كل الدرجات كأنها متساوية اليقين.
 - **«التصحيح الآلي للإجابات القصيرة مجال محسوم.»** مراجعة نطاقية للتصحيح الآلي للإجابات القصيرة في [[science-education|العلوم]] (**2017 إلى أوائل 2024**) توثّق تاريخ المجال، وهو سجلّ لما جُرِّب لا لما تُحقِّق من صحته.
-
-## المفاهيم المرتبطة
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — التقييم الختامي: صيغ مقاومة للذكاء الاصطناعي (امتحانات شفوية، تحت مراقبة، كتب مغلقة)
-
-## المقالات المرتبطة
-- [[llm-structured-assessment-diagnostic-quality-2026]] — أبعاد معيار LLM الفرعية شبه زائدة عن الحاجة والتغذية الراجعة نادراً ما تُسمّي المفاهيم الخاطئة (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — تقرير OpRaise: تصحيح الذكاء الاصطناعي لـ761 مقالاً جامعياً عبر ثلاث جامعات بريطانية
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — التصحيح بمساعدة الذكاء الاصطناعي مع الإنسان في الحلقة في تقييم كتابة وطني واسع النطاق (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[usher-faraon-who-grades-best-2026]] — مقارنة تصحيح ChatGPT والأقران والمدرِّس عبر مستويات جودة المشروع (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[ai-scoring-language-bias-physics]] — AI scoring language bias in physics
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based automated essay scoring prompting
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL formative assessment scoring
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux Bash exams with LLMs
-- [[confidence-aware-student-drawing-assessment]] — Confidence-aware assessment of student-drawn figures
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[tripartite-feedback-framework-ai-assessment-2026]] — إطار ثلاثي: فرز التغذية الراجعة بحسب الحالة المعرفية والمبادئ الخمسة الحدية لإشراك الذكاء الاصطناعي (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
-- [[ai-marking-accuracy-gcse-physics-2026]] — AI marking compared with examination-board marks and teacher judgment in GCSE physics
-
-- [[porcaro-ai-grading-benchmark-2026]] — ما بعد الاتفاق: 22 مُقيِّماً موجَّهاً يجتازون فحوصاً إجابتها الصحيحة معروفة، ومعظمهم يمكن استدراجه (بوركارو 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — تقويم التدريس لا عمل الطالب، دون تجميع
-
-
-- [[llm-grading-assistants-public-health-2026]] — Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — اتفاق الآلة والإنسان في تصحيح مهام طلاب البكالوريوس خاص بالنموذج والمطالبة والمؤسسة
-- [[wargaming-adjudication-ai-judged-grading-2026]] — الإبهام على الميزان: استخدام ممارسات تحكيم المناورات الحربية التقليدية لتحسين تقويمات وتصحيح يحكمها الذكاء الاصطناعي (Epstein 2026)

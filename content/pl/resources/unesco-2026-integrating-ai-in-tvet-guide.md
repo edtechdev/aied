@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -41,12 +42,3 @@ Liderzy instytucji TVET decydujący, co zrobić najpierw; nauczyciele i trenerzy
 ## Uwagi i zastrzeżenia
 
 To wytyczne, a nie ewaluacja. Przewodnik nie podaje danych o wynikach, a jego przykłady instytucjonalne — model uczenia z SI zintegrowanej z treścią w College of the North Atlantic w Kanadzie i kenijski standard praktyk przemysłowych TVET z 2023 — to opisowe ramki źródłowane raportami projektów, a nie niezależnymi próbami. Aneksy nazywają się orientacyjnymi; skala dojrzałości jest pomocą w dyskusji, a nie instrumentem pomiaru. Zawody o krytycznym znaczeniu dla bezpieczeństwa i zawody regulowane dostają rozdział, ale argumentuje on stanowisko o nadzorze człowieka, a nie oferuje szczegółowości na poziomie regulacji. Licencja CC BY-SA 3.0 IGO pozwala na adaptację i przedruk z podaniem autorstwa i na tych samych warunkach.
-
-## Powiązane pojęcia
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

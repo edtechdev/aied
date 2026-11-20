@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -47,16 +48,3 @@ Undervisere på tvers av fag, særlig i høyere utdanning og profesjonsutdanning
 ## Merknader og forbehold
 
 Dette er en praktisk veiledning, ikke en empirisk studie; påstandene om studentenes AI-bruk hviler på siterte eksterne kilder (BestColleges, Campbell, Digital Education Council, Flaherty) snarere enn på nye data. Rammeverket «nettverksbygging» og innrammingen «illusjonen av forståelse» er hentet fra den bredere litteraturen (Wigmore et al.; Williamson et al.) og presenteres som pedagogisk begrunnelse, ikke som testede utfall av spillboken selv. Oppgavene er forfattede maler – ingen av dem rapporteres med effektstørrelser, så de bør behandles som design som skal tilpasses og evalueres lokalt. Publisert 2026-10-07, v1, på Zenodo under CC BY 4.0; gratis nedlasting uten konto. Ved innlasting viser oppføringen bare omkring 35 visninger og omkring 14 nedlastinger, så den har ennå sett lite ekstern bruk eller fagfellevurdering.
-
-## Tilknyttede begreper
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

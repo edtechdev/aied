@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -93,45 +95,3 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 - **„Das Hinzufügen von Quellenangaben und Provenienz macht ein System vertrauenswürdiger.“** In einem Debattenszenario mit [[agentic-ai|Multi-Agenten]] **führte das Hinzufügen von Quellenangaben und Autoritätssignalen zur Position der KI dazu, dass ein korrektes Urteil statt in 15,0 % in 31,8 % der Fälle verworfen wurde**. Provenienz war keine neutrale Information: Sie machte die falsche Antwort überzeugender. Glaubwürdigkeitssignale müssen Belege für Richtigkeit sein, nicht Dekoration um eine Behauptung herum.
 - **„Co-Design mit Nutzenden validiert das Design.“** Co-Design beantwortet eine andere Frage als die Wirksamkeit. Wenn ein Tool im Co-Design mit Lernenden entwickelt wird und **96 % angeben, dass sie es beibehalten wollen**, ist das ein Befund zur Akzeptanz. Ob sich das Lernen verbessert hat, ist eine davon getrennte Messung, und beide können in entgegengesetzte Richtungen weisen, ohne dass eine der beiden falsch wäre.
 - **„Agents sind die nächste Leistungsstufe."** Die [[instructional-agents-multi-agent-course-gen|Instructional Agents]]-Ablation ist das aufschlussreiche Gegenbeispiel: Die Single-Agent-Baseline schnitt **am schlechtesten** ab, und die Full Co-Pilot-Konfiguration **übertraf die Autonomous**-Konfiguration. Mehr Autonomie war nicht das bessere Design — das Co-Pilot-Arrangement war es. Architekturentscheidungen müssen evaluiert werden, statt anzunehmen, dass sie mit steigender Leistungsfähigkeit von selbst besser werden.
-
-## Verbundene Konzepte
-
-- [[edtech-platform]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[universal-design-for-learning]]
-- [[assessment-validity]]
-- [[ai-ed-evaluation]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[sustainability]]
-- [[privacy]]
-
-## Verbundene Artikel
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[learnlm-improving-gemini-learning]]
-- [[savvy-student-attention-video-learning]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[oneill-presumed-effective-meta-analysis-2026]]
-- [[a4l-analytics-pipeline]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[vocabulary-difficulty-prediction]]
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten die Deferenz zu falscher KI-Ratschläge; prüfen Sie die Herkunft am Nutzungspunkt

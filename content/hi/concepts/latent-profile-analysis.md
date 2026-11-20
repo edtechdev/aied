@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -91,26 +93,3 @@ LPA यह मानती है कि नमूना उपसमूहो�
 - **"अव्यक्त प्रोफ़ाइल विश्लेषण उन समूहों की खोज करता है जो मौजूद हैं।"** LPA शिक्षार्थी विविधता को अलंकारिक दावे से मापनीय निष्कर्ष में बदल देता है, और प्रोफ़ाइल **चुनी गई सीमाओं पर विभाजित एक सातत्य का मॉडल** हैं, प्राकृतिक प्रकार नहीं। प्रोफ़ाइलों की संख्या एक विश्लेषणात्मक निर्णय है।
 - **"अव्यक्त-चर परिवार का कोई भी सदस्य ठीक है।"** आप किसे उपयोग करते हैं यह **संकेतकों का अनुसरण करता है**: **श्रेणीबद्ध संकेतकों के लिए LCA**, सतत के लिए LPA। पहले विधि और बाद में संकेतक चुनना परिणाम को चुनाव की कलाकृति बना देता है।
 - **"प्रोफ़ाइल अध्ययनों के पार तुलनीय हैं।"** Chen और सहयोगियों ने **128 ताइवानी पूर्व-सेवा शिक्षकों** को पाँच [[technology-acceptance-model|TAM]]/UTAUT2 संरचनाओं पर प्रोफ़ाइल किया, जबकि Acquah और सहयोगियों ने **509 घानाई स्नातकों** को। भिन्न जनसंख्याओं में भिन्न संकेतक समरूप प्रोफ़ाइल लेबल उत्पन्न नहीं करते।
-
-## संबंधित अवधारणाएँ
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## संबंधित लेख
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 व्यापार छात्रों में चार AI-अभिवृत्ति प्रोफ़ाइल के लिए Lo–Mendell–Rubin बरकरार रखने का प्रमाण
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — मनोवैज्ञानिक अनुकूलन की तीन-तरंग लैटेंट प्रोफ़ाइल संक्रमण विश्लेषण
-- [[liang-ai-learning-motivation-sdt-2026]] — एक वर्ष में तीन प्रेरणा प्रोफ़ाइल का लैटेंट संक्रमण विश्लेषण
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means प्रोफ़ाइल; सिल्हूट बनाम Calinski–Harabasz असहमति; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — चार GenAI अपनाने व्यक्तित्वों में पदानुक्रमित और k-means क्लस्टरिंग
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 प्रणालियों में 40,680 शिक्षकों की चार शिक्षक AI-विश्वास प्रोफ़ाइल, संरेखण स्थायित्व के साथ

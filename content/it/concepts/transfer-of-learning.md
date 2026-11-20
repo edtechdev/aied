@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -100,9 +102,7 @@ Questo si allinea con la ricerca sul [[intelligent-tutoring|tutoring con IA]] ch
 3. **Differenze individuali:** gli studenti con [[prior-knowledge|conoscenze pregresse]] solide subiscono una perdita di transfer minore dei novizi?
 4. **Rimediazione delle abilità:** sessioni esplicite di pratica "senza IA" possono invertire la dipendenza dallo strumento?
 
-
 Il problema della scala temporale ha ora una formalizzazione. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] chiama *washout cognitivo* l'intervallo successivo al ritiro del supporto e gli attribuisce quattro esiti candidati: rimbalzo elastico, plateau parziale, impalcatura latente e iper-recupero. La reversibilità, sostiene l'articolo, è ciò che determina la gravità, e propone un protocollo preregistrabile a tre bracci e ventidue settimane per misurarla. Gli studi sopra hanno testato il transfer a poche ore dalla fine dell'assistenza, quindi le settimane successive sono la parte della prima domanda aperta di questa pagina che resta genuinamente non misurata.
-
 
 ### Collegamenti ai concetti correlati
 
@@ -117,39 +117,3 @@ Il transfer dell'apprendimento si collega alla [[metacognition|metacognizione]] 
 **"Il transfer viene da modelli più capaci."** Il transfer viene dalle condizioni che lo producono — la generalità della pratica, la variabilità dei contesti e la misura in cui il discente ha generato il ragionamento da sé. La capacità del modello alza il tetto della performance assistita e non fa nulla di particolare per ciò che rimane quando il modello non c'è.
 
 **"La guida sostiene sempre il transfer, quindi più guida è meglio."** La guida che svolge il ragionamento si sostituisce al processo da cui dipende il transfer. La distinzione è tra l'aiuto che lascia al discente la generazione del passo successivo e l'aiuto che lo genera per lui — e solo il primo sta dal lato del transfer di quella linea.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — L'esito su cui la maggior parte di queste sequenze è in definitiva giudicata
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-
-## Articoli collegati
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
-
-
-- [[cognitive-washout-ai-skill-decay-2026]] — Washout cognitivo: l'intervallo successivo al ritiro e un protocollo di misurazione di 22 settimane (Yajee 2026)
-

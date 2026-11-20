@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -46,7 +48,6 @@ L'equità nell'[[ai-education|IA in educazione]] affronta tre preoccupazioni che
 - **Il digital divide:** l'[[digital-divide|accesso diseguale]] agli strumenti di apprendimento basati sull'IA lungo linee socioeconomiche, regionali e nazionali è una barriera fondamentale. L'evidenza documenta come i benefici della [[generative-ai|IA generativa]] siano distribuiti in modo non uniforme tra paesi e istituzioni.
 - **La qualità dello strumento fa parte del divario, non solo l'accesso allo strumento:** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] ha sottoposto 50 prompt di matematica tre volte ciascuno ai livelli gratuito e premium dello stesso modello e ha rilevato che il livello gratuito era inaccurato in 49 delle sue 150 risposte (**32,7%**) contro 18 su 150 (**12%**) per il livello premium (χ2(1) = 17,5, p < 0,001); gli insegnanti della scuola meno dotata delle due dello studio hanno definito il modello gratuito "borderline inutile per la matematica". Gli autori leggono questo come un divario algoritmico che estende il [[digital-divide|digital divide]] oltre l'accesso ai dispositivi fino alla qualità dello strumento stesso, così che una scuola con "accesso all'IA" potrebbe comunque consegnare agli studenti un tutor materialmente meno affidabile, con l'avvertenza degli stessi autori che il confronto era esplorativo e i prompt non erano randomizzati, rendendo l'entità del divario indicativa anziché stabilita. Lo stesso studio mostra che la direzione del divario non è fissata dallo strumento: dove gli insegnanti richiedevano agli studenti di confrontare l'output dell'IA con il proprio lavoro e pre-promptavano il modello a non fornire le soluzioni, l'output diventava un artefatto da criticare, mentre le classi non mediate vedevano gli studenti consultare prima l'algoritmo e l'insegnante diventare un validatore ("Non sono più l'oracolo; sono l'editor").
 - **L'accesso non basta:** [[access-not-enough-ai-tutoring-2026|fornire strumenti di IA senza affrontare le barriere strutturali]] non chiude i divari — l'accesso deve essere accompagnato da competenze, supporto e condizioni che abilitino un uso genuino.
-
 
 Un supporto differenziato non è evidenza di beneficio equo: una revisione del tutoraggio IA nella [[math-education|matematica]] rileva che le affermazioni di inclusività non sono supportate perché gli studi raramente verificano se i guadagni sono distribuiti in modo coerente tra gruppi di abilità, genere, status socioeconomico, lingua, disabilità e area geografica, lasciando non stabilito che questi sistemi riducano i divari di rendimento ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Il tutoraggio umano-IA differenziato è evidenza che i modelli ibridi possono ridurre i divari — quando l'allocazione segue il bisogno.** Uno studio difference-in-discontinuities (635 studenti, classi 5–8; i performer al di sotto della mediana ricevevano tutoraggio umano *proattivo*, quelli al di sopra ricevevano supporto *reattivo* su richiesta, rispetto a una baseline di autunno con sola IA) ha rilevato che il tutoraggio ibrido aumentava il tempo sul compito del 25%, la competenza nelle abilità del 36% e la crescita accademica del 61% complessivamente — e che i due bracci ottenevano guadagni di engagement e competenza *comparabili* attraverso meccanismi diversi. Il dettaglio rilevante per l'equità: il tutoraggio proattivo mostrava una crescita media marginalmente più alta (75%, p = .065) concentrata tra gli studenti più lontani al di sotto della soglia — il pattern di compressione del divario anziché di sollevamento uniforme — mentre un tutor per sessione serviva entrambi i gruppi. Gli autori sono adeguatamente cauti: il disegno DiDC è quasi-sperimentale, il taglio dicotomico della mediana manca la variazione del bisogno all'interno del gruppo, e l'effetto del 75% è marginale. ([[gurung-hybrid-human-ai-tutoring-2026]])
@@ -74,9 +75,7 @@ La preparazione conta più della preferenza, e il diritto di rifiutare è distri
 
 In una revisione di scoping di 394 studi sulla GenAI nell'istruzione superiore, equità e accesso erano tra gli esiti presi di mira meno spesso, insieme alla [[metacognition|metacognizione]], all'etica e alla [[creativity|creatività]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
-
 Un audit di equità su larga scala del [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Bayesian knowledge tracing di MATHia]], condotto su due anni scolastici di log di 8.549 studenti, ha rilevato una parità statistica aggregata di −0,077 nel 2021–2022 anche se 36 delle 50 competenze erano distorte a sfavore dei lettori emergenti, con un bias a livello di competenza fino a −0,262 ("apply exponent", un divario del 26% nella padronanza prevista). Il quadro aggregato quasi equo nascondeva un bias concentrato nelle componenti di conoscenza a forte carico di lettura, e gli autori sostengono che gli audit a livello di sistema da soli non siano sufficienti.
-
 
 - **Impatto differenziato:** gli strumenti di IA possono ampliare i divari se progettati senza una lente di equità — [[genai-higher-education-systematic-review-2026|revisioni sistematiche]] e [[ai-scoring-language-bias-physics|studi sul bias di punteggio]] mostrano benefici e danni non uniformi tra i gruppi di studenti. L'evidenza aggregata del beneficio porta lo stesso confine: [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] stimano un guadagno complessivo da moderato a grande per gli studenti universitari su 35 studi (g=0,53, IC al 95% [0,48, 0,64]) affermando al contempo che l'accesso iniquo agli strumenti ad alto costo è uno dei rischi che quelle dimensioni dell'effetto non possono catturare, e test di Egger significativi per la performance accademica e le competenze professionali lasciano irrisolti l'asimmetria del funnel plot e gli effetti degli studi piccoli.
 - **Apprendimento equivalente attraverso due ordini di grandezza di costo.** StudentBench ha rilevato che il tutoraggio IA aggregato era statisticamente equivalente al tutoraggio umano esperto mentre la dispersione tra i tutor andava da \$0,005 a \$1,40 per punto percentuale di guadagno di apprendimento e un modello aperto eguagliava i guadagni umani a un costo per punto 918× inferiore (\$0,0052 contro \$4,81), rendendo il costo per unità di apprendimento una variabile di accesso anziché solo di qualità ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
@@ -93,7 +92,6 @@ Un audit di equità su larga scala del [[stinar-fairness-unmodeled-reading-skill
 - **Privilegio del prompt:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] documentano il "prompt privilege" — chi formula le richieste in modo abile ottiene sistematicamente output LLM migliori di chi esprime la stessa intenzione in modo meno agile — rendendo la competenza di [[prompt-engineering|prompting]] una risorsa silenziosamente non uniforme. Il loro Prompt Equity Transformer sposta l'ottimizzazione del prompt nel sistema, trattando l'output equo come una proprietà di accessibilità anziché richiedere un prompting esperto ai novizi.
 
 - **La competenza, non l'accesso, è il punto in cui il divario si riapre.** Tra 380 studenti universitari, il capitale digitale familiare era correlato ai guadagni accademici percepiti in larga misura attraverso la competenza nel prompt engineering, che correlava 0,793 con tali guadagni ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al. (2026)]]).
-
 
 - **Il divario di gestione dell'interazione.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström e Palmqvist (2026)]] giungono a una conclusione ambivalente sulla GenAI come livellatore: poiché l'uso produttivo richiede di riconoscere una risposta eccessivamente astratta, richiedere una semplificazione e strutturare una sessione attorno a obiettivi piccoli, la GenAI non guidata "può essere più vantaggiosa per gli studenti già avvantaggiati" — quelli con forti abitudini di studio e fiducia nel dirigere un'IA — mentre gli studenti con abilità di studio più deboli o minore [[self-efficacy|autoefficacia]] accademica incontrano complessità e frustrazione aggiuntive. Anziché sostituirsi ai partner di conversazione accademica mancanti, lo strumento introduce una nuova competenza la cui acquisizione crea il proprio divario; gli autori concludono che la responsabilità di insegnarla non può poggiare sul solo studente ([[ai-literacy]], [[self-regulated-learning]]).
 
@@ -140,77 +138,3 @@ L'equità ha anche una dimensione ambientale e computazionale: l'accesso disegua
 - **"Il problema di equità è l'accesso agli strumenti."** **La qualità dello strumento fa parte del divario, non solo l'accesso allo strumento**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] ha sottoposto **50 compiti di matematica** e ha trovato differenze di qualità che seguono lo strumento anziché l'utente.
 - **"Il tutoraggio ibrido umano-IA non può ridurre i divari."** **Il tutoraggio umano-IA differenziato è evidenza che i modelli ibridi possono ridurre i divari — quando l'allocazione segue il bisogno.** Uno studio difference-in-discontinuities (**635** partecipanti) ha trovato che il tutoraggio proattivo mostrava una **crescita media marginalmente più alta (75%, p = .065) concentrata tra gli studenti più lontani al di sotto della soglia**. Il guadagno si concentrava dove il bisogno era maggiore.
 - **"Un effetto medio ti dice se l'equità è migliorata."** L'intuizione è che la **regola di allocazione** determinava l'esito di equità: un intervento che aiuta tutti in modo uguale lascia i divari invariati, e uno che aiuta in proporzione al bisogno li riduce.
-
-## Concetti collegati
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Learners: l'ombrello per i concetti relativi a chi apprende
-- [[digital-divide]] — Accesso diseguale agli strumenti e all'infrastruttura dell'IA lungo linee socioeconomiche, regionali e nazionali
-- [[bias-mitigation]] — Metodi per rilevare e correggere il bias nei tutor, correttori e recommender basati sull'IA
-- [[accessibility]] — Design che rende utilizzabili da chi apprende con disabilità gli strumenti di apprendimento basati sull'IA
-- [[assistive-technology]] — Strumenti che supportano chi apprende con disabilità in contesti mediati dall'IA
-- [[culturally-relevant-pedagogy]] — Insegnamento che riflette i contesti culturali di chi apprende anziché imporre norme dominanti
-- [[language-learning]] — Inclusione linguistica di studenti multilingui e di lingue sotto-rappresentate
-- [[inclusive-learning]] — Apprendimento accessibile ed equo per tutti gli studenti
-- [[universal-design-for-learning]] — Progettare per la variabilità di chi apprende fin dall'inizio
-- [[neurodiversity]] — Supportare chi apprende neurodivergente nell'IA in educazione
-- [[special-education]] — Soddisfare i bisogni di chi apprende con disabilità nella progettazione dei sistemi di IA
-- [[ai-literacy]] — Le competenze di cui chi apprende ha bisogno per beneficiare dell'IA in modo equo
-- [[educational-policy-ai]] — Politiche istituzionali che incorporano l'equità come principio guida
-- [[governance]] — Supervisione e responsabilità per un'IA equa
-- [[agency]] — Garantire che l'IA dia potere anziché sostituire la voce degli studenti
-- [[stakeholders]] — Ombrello: persone e pubblici nell'IA in educazione (studenti, insegnanti, progettisti, amministratori, decisori politici)
-- [[parents-and-families]]
-- [[student-support-and-success]] — quali sistemi di supporto vengono raggiunti, e i rischi dell'agire su un punteggio di rischio
-
-## Articoli collegati
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — How GenAI visual bias enters multimodal assessment, and why counter-narrating it is a teacher competency
-- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rent paid in money, self and standards, and licenses that end at graduation
-- [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
-
-- [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
-- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural silence: underrepresented languages in AI infrastructure
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
-- [[ai-lifelong-learning-policy]] — AI and lifelong-learning policy
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps?
-- [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity in AI-mediated academic writing
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Female-coded chatbot as role model reducing math gender stereotypes
-- [[paternalistic-filter-llm-history-education]] — Paternalistic filtering in LLM-based history education
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
-- [[ground-truth-reliability-aied]] — Ground-truth reliability in AIED
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[demographic-signals-llm-student-assessment-2026]] — Implicit (conversation-history) demographic signals shift LLM scoring, feedback and answering (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty on AI's present and future: 81% expect wider digital inequities, 26% do not use the tools
-- [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — The right to refuse is unevenly distributed: refusal as evidence of institutional under-preparation (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Free-tier vs premium-model accuracy gap in mathematics: 32.7% vs 12% (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Pooled GenAI learning gains (g=0.53) and the inequitable access to high-cost tools they cannot capture
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics AI-tutoring review finding inclusiveness and achievement-gap claims unsupported
-- [[gurung-hybrid-human-ai-tutoring-2026]] — Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — District AI-math rollout with larger exploratory associations for IEP, English-learner, and Hispanic students (multimodal/multilingual supports; causality untested)
-- [[gyekye-selves-apprenticeship-2026]] — Apprentices of color equated fairness with cultural flatness; agency constructed through refusal and negotiation; Recognition Bandwidth and Institutional AI Literacy
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Teacher-mediated delivery reaches students the AI never touches
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detection fires hardest on multilingual writers
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La competenza media il beneficio che gli studenti traggono dall'accesso agli LLM (Li et al. 2026)
-

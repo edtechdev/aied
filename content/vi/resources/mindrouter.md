@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,9 +48,3 @@ Các nhóm điện toán nghiên cứu và CNTT trung tâm đã có năng lực 
 ## Ghi chú và lưu ý
 
 Miễn phí và mã nguồn mở theo Apache-2.0, nhưng chi phí dịch chuyển chứ không biến mất: phần cứng, điện năng và thời gian nhân sự để vận hành một cụm. Theo chuẩn hạ tầng, phần mềm này còn non — ba người đóng góp, một cơ sở khởi nguồn duy nhất, và các bản phát hành được đánh số tới hàng trăm thẻ — nên một trường đại học nên thí điểm nó bên cạnh một dịch vụ hiện có thay vì coi nó là con đường duy nhất tới một mô hình. Đánh giá công bố về hành vi lập lịch và hạn ngạch dưới tải thực tế của khuôn viên không có trong kho mã; bài báo PEARC là nơi để tìm lời kể của chính các tác giả.
-
-## Khái niệm liên quan
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

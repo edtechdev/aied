@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -110,33 +112,3 @@ Isso também introduz um risco de nomenclatura que vale declarar com clareza. A 
 **"Acrescentar um laço de [[feedback|feedback]] de IA melhora a autoavaliação automaticamente."** Um laço de feedback muda aquilo com que o estudante se compara, o que pode melhorar a calibragem e também ancorá-lo no julgamento do sistema. O estudo comparativo aqui (**118 graduandos do primeiro ano, 56 em um grupo GenAI e 62 em um grupo de pares**, três ciclos ao longo de um semestre) é desenhado justamente para testar se o laço ou a comparação social faz o trabalho — e a resposta não é "o laço, por ser um laço".
 
 **"A autoavaliação é uma alternativa mais suave à testagem."** É um alvo diferente. A autoavaliação desenvolve a habilidade regulatória de julgar o próprio trabalho; um teste mede a capacidade que está sendo julgada. Pesquisa que substitui uma pela outra confunde a capacidade de avaliar o desempenho com o desempenho em si.
-
-## Conceitos conectados
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Artigos conectados
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Autoavaliação colocada no centro de um framework de crescimento autodirigido (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Materiais de letramento em IA escalonados por nível de desenvolvimento, com medição de aceitação e validade (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulando o feedback de IA com avaliação por pares, do instrutor e autoavaliação (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Por que o feedback não deve se apoiar na autoavaliação que o modelo faz da validade de seu raciocínio (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Um questionário validado de autoavaliação de letramento em IA com 15 itens para o 4º ao 6º ano, com os limites metacognitivos do autorrelato infantil (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 de 33 instrumentos de letramento em IA de professores são de autorrelato, dois testam conhecimento objetivamente, nenhum usa tarefas de desempenho (Zainal, Mohd Matore & Maat 2026)

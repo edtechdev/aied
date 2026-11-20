@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -35,7 +37,6 @@ ai_assist:
 Sanal ve artırılmış gerçeklik bir **modalite**dir, model değil: öğrenme ortamının öğrene ulaştığı katmanın kendisidir. Bu durum onu, öncelikle modellenen şey olan [[simulation]]'dan farklı bir eksen yapar. İkisi sık sık birbirine karıştırılır, çünkü sürükleyici ortamlar simülasyonların yaygın taşıyıcılarıdır; ancak ikisi birbirinden bağımsız olarak değişir — masaüstü bir hasta simülatörü VR olmadan simülasyondur ve gerçek bir alet üzerindeki bir AR kaplaması, simülasyon olmadan VR'dir. Eksenleri ayırı tutmanın nedeni tasarımdır: uygulamayı risksiz hale getirme kararı ile onu bedenselleştirme kararı birbirinden farklıdır; ikisi farklı maliyetler, farklı başarısızlık biçimleri ve farklı kanıtlar taşır. VR/AR, bir simülasyonun **taşıma katmanıdır** ve [[game-based-learning|oyun temelli öğrenmenin]] yakın bir akrabasıdır; öğrenmenin [[embodied-learning|bedensel]] ve [[situated-learning|durumsal]] açıklamalarını işlerselleştirir ve [[experiential-learning|deneyimsel]] ile [[active-learning]] uygulamasının içinde yer alır.
 
 YZ bu modaliteyi şimdi iki ucundan şekillendirir. İçeriği *üretir*, çünkü [[generative-ai|üretici YZ]] yapılandırılmış bir doğal dil istek metnini çalıştırılabilir bir AR veya VR eserine dönüştürerek üretimi eskiden sınırlayan uzman programlama becerisini ortadan kaldırır. Ve ortamın içinde *yaşar*: [[agentic-ai|aracılar]], [[pedagogical-agent|pedagogik aracılar]] ve [[rag|getirilmiş alan bilgisi]], içinde rehberlik sağlar — eller serbest, gerçek zamanlı, öğrenenin gözlük taktığında danışamayacağı kaynaklara dayalı.
-
 
 [[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang ve Ju (2026)]], genç İngilizceyi yabancı dil olarak öğrenenlerle YZ-VR ile güçlendirilmiş bir tersyüz edilmiş sınıfı sınar ve İngilizce başarısında, [[metacognition|üstbilişsel]] [[self-regulated-learning|öz düzenlemede]] ve motivasyonda kazanımlar bildirir; teknoloji okuryazarlığı, öğrenenlerin sürükleyici bileşenden ne kadar kazandığını düzenler.
 
@@ -82,38 +83,3 @@ Aynı mantık, varlık hissinin neden otomatik olarak iyi olmadığını açıkl
 - **“Olguyu hissetmek onu anlamak demektir.”** Bir pilot çalışma, öğrencilerin dalga boyu ve genliği bir el hareketiyle **hissetmeyi** bir kaydırıcıdan daha güçlü bildirdiğini buldu, ancak **ölçülen algıydı, başarı değil**. Hissedilen duyu olanaktır ve anlayış üretip üretmediği ayrı bir sınavdır.
 - **“Yüksek kullanılabilirlik puanları bir eğitim VR aracını doğrular.”** Meta Quest 3 üzerinde **10 öğrenciyle bir saatlik bir oturumda**, çalışma **Sistem Kullanılabilirlik Ölçeğinde iyi kullanılabilirlik ve minimal simülasyon hastalığı** bildirdi. Kullanılabilirlik ve konfor ön koşuldur ve ikisi de bir öğrenme ölçüsü değildir.
 - **“Öğrencilerin hemfikir olması olanağın kanıtıdır.”** **29 ikinci sınıf tıbbi görüntüleme öğrencisiyle**, 29’unun tamamı **hareketin dalga boyunun ne olduğunu “hissetmelerine” yardımcı olduğunu kabul etti (ortalama 4,52)**. Bir his üzerinde oybirliği, deneyim hakkında öz bildirimdir ve olanak iddiası, öğrencinin kendi anlayışına ilişkin yargısına bağlı olmayan bir sonuç gerektirir.
-
-## Bağlı kavramlar
-
-- [[simulation]] — sürükleyici ortamların genellikle gösterdiği şey; modalite değil, model
-- [[embodied-learning]] — modalitenin yararlanması beklenen mekanizma
-- [[multimodal]] — öğrenme kanalları olarak jest, ses ve uzamsal girdi
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — sürükleyici uygulamanın en kökleşmiş olduğu ortam
-- [[generative-ai]] — yeni üretim katmanı
-- [[prompt-engineering]] — programcı olmayanların sürükleyici araçları nasıl kurup iyileştirdiği
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — gözlüğün içinde dayanaklı rehberlik
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — gerçekçilik ve öğrenenin onun sınırlarına ilişkin farkındalığı
-- [[cognitive-offloading]] — yabancı yük olarak gecikme ve istikrarsızlık
-- [[edtech-platform]] — senkronizasyon, gecikme ve çok yerleşkeli varlık
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Bağlı makaleler
-
-- [[genai-ar-physics-simulation-prompt-2026]] — elle kontrollü AR fizik simülasyonları üreten dört öğeli istek metni; 29 öğrencili pilot, yalnızca algıya dayalı kanıt
-- [[mixed-reality-engineering-learning]] — mühendislik mekaniğinde karma gerçeklik uygulamalarına karşı fiziksel araç kitleri ve sınıf ortamı; katılım artıyor, karmaşık görselleştirme hâlâ zor
-- [[medgame-llm-medical-education-gamification]] — YZ ile oyunlaştırılmış tıbbi eğitim
-- [[tech-enhanced-tabletop-cybersecurity-education]] — siber güvenlik eğitiminde artırılmış masaüstü senaryolar
-- [[genai-xr-architectural-design-education-2026]] — İşbirlikçi Mimarlık Tasarımı Eğitiminde Üretici YZ ve Genişletilmiş Gerçeklik: Keşif Amaçlı Bir Stüdyo Çalışması
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: LLM destekli bir öğretmen yardımcısıyla sürükleyici VR tasarım stüdyosu, geleneksel PBL'ye karşı değerlendirildi (Jin ve ark. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: VR sahne ışıklandırma eğitiminde LLM destekli çok kipli öğretim ve dayanağın nerede çöktüğü (Liang ve ark. 2026)

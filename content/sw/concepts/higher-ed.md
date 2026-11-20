@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -98,67 +100,3 @@ Utafiti wa [[educational-development]] unachunguza jinsi waelimishaji wanavyopit
 - **"Kupitishwa kwa AI kitaasisi kumekomaa."** **Tabaka la ishara limejaa huku tabaka la muundo likiwa niembamba**: **100% wana kikosi kazi cha AI na shahada ya uzamili ya AI, lakini 12% tu wana uongozi wa AI wa ngazi ya juu** na 5% tu wanahitaji hatua zaidi ya kitaasisi. Matangazo yamezidi miundo kwa kiwango cha ukubwa mmoja.
 - **"Umaarufu unatabiri ukomavu wa AI kitaasisi."** Usanifu ulithibitika **kuwa haujitegemei na umaarufu (uhusiano wa cheo r ≈ 0.04)**, ukiwa na **tofauti kubwa za kikanda (ANOVA F = 5.86, p < .001)**. Sifa si kipimo mbadala cha utayari, na jiografia inatabiri zaidi kuliko hadhi.
 - **"Jinsi AI inavyogawanya kazi ya maarifa ni sawa katika taasisi zote."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn na Rehm (2026)]] waligawa **masudio 102 ya majaribio ya elimu ya juu** kulingana na jinsi kazi ya maarifa ilivyogawanywa, na tofauti ndiyo ugunduzi badala ya maelezo ya ziada.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Kiwango ambapo ushahidi mwingi wa mpangilio uliopimwa ulizalishwa
-- [[online-teaching-and-learning]] — Ufundishaji na Kujifunza Mtandaoni
-- [[generative-ai]] — Teknolojia na mifano ya AI ya kizalishaji
-- [[llm]] — Mifano mikubwa ya lugha
-- [[student-experience]] — Uzoefu wa mwanafunzi na AI katika elimu ya juu
-- [[educational-development]] — Maendeleo ya waelimishaji na utayari wa AI
-- [[academic-integrity]] — Uadilifu wa kitaaluma katika mwili wa wanafunzi wenye uwezo wa AI
-- [[ai-literacy]] — Ujuzi wa AI kwa wanafunzi na waelimishaji
-- [[assessment-validity]] — Uhalali wa tathmini katika enzi ya GenAI
-- [[educational-policy-ai]] — Sera ya elimu kuhusu AI
-- [[regulation]] — Udhibiti wa AI katika elimu
-- [[remote-proctoring]] — Uangalizi wa mbali na uadilifu wa mitihani ya kiotomatiki
-- [[self-directed-learning]] — Kujifunza kwa kujiongoza kwa AI
-- [[problem-based-learning]] — Kujifunza kwa msingi wa matatizo kwa AI
-- [[teacher-role]] — Jukumu la mwalimu linalobadilika katika madarasa ya AI
-- [[stakeholders]] — Kiolezo: watu na hadhira katika elimu ya AI (wanafunzi, walimu, wabuni, wasimamizi, watengenezaji sera)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — ushauri, ufikishaji wa habari, rufaa, na mgawanyo wa msaada — upande wa taasisi wa mafanikio ya wanafunzi
-
-## Makala Zilizounganishwa
-
-- [[airri-machine-resistant-reading-interface-2026]] — Perturbed-image assignments raised LLM completion failure from 7.4% to 55.6%: content design as an integrity route
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI glasses and hearing aids defeat an in-room exam ban: dual transparency with no gaze or posture cue
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — A functional-domain taxonomy of higher-education AI applications, 58.4% of which fall outside the 2019 categories
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Write method-specific guidance, not one campus-wide AI policy
-- [[ai-literacy-determinants-university-students-2026]] — Perceived resources and teacher support explained 29% of AI-literacy variance; demographics did not
-- [[faculty-ai-well-being-social-supports-2026]] — Fund AI literacy, not just tool confidence, for faculty
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Mfumo wa Utayari wa Waelimishaji wa EPIQ-AI
-- [[ai-in-the-wild-college]] — AI katika Mazingira Halisi: Matumizi ya AI na Wanafunzi wa Chuo Kikuu
-- [[institutional-change-framework-ai]] — Mabadiliko ya Taasisi katika Enzi ya AI
-- [[genai-availability-grades-satisfaction]] — Upatikanaji wa GenAI na Kuridhika kwa Wanafunzi
-- [[ai-assessment-scale-reform]] — Kipimo cha Tathmini ya AI na Mageuzo
-- [[universities-ai-era-rethinking]] — Kufikiria Upya Vyuo Vikuu katika Enzi ya AI
-- [[teacher-ai-adoption-confidence]] — Kupitishwa kwa AI Miongoni mwa Walimu
-- [[enright-staff-perspectives-genai-2026]] — Mitazamo ya wafanyakazi kuhusu GenAI katika elimu ya juu
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Viendeshi vya shirika vya kupitishwa kwa AI katika elimu ya juu
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — AI katika maoni kwa wanafunzi: maadili
-- [[beyond-detection-authentic-assessment-ai-2025]] — Zaidi ya ugunduzi: kubuni upya tathmini halisi katika ulimwengu unaopitishwa na AI
-- [[genai-student-experiences-uk-he-survey-2026]] — Uzoefu wa GenAI miongoni mwa wanafunzi wa elimu ya juu wa UK (dodoso)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Waelimishaji dhidi ya waajiri kuhusu ujuzi wa AI kwa wahitimu wa chuo kikuu
-- [[generative-ai-reduced-study-time-math]] — Kupungua kwa muda wa kujifunza kwa 26.9% miongoni mwa wanafunzi wa chuo kikuu
-- [[ai-uk-higher-education-policy-2026]] — Sera ya AI ya elimu ya juu ya UK
-- [[ai-tools-academic-work-cheating-2026]] — Zana za AI, kazi ya kitaaluma, na udanganyifu
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kutathmini ubora wa mitihani iliyozalishwa na AI: somo la uwanja la kiwango kikubwa
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Kuzingatia upya mitihani ya mdomo kama tathmini halisi, inayostahimili AI
-- [[roe-assessment-twins-2026]] — Mapacha ya tathmini kwa kuimarisha uhalali wa tathmini katika enzi ya GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Mitazamo ya Wanafunzi kuhusu Zana za Akili Bandia kwa Tija ya Kujifunza na Kujifunza: Somo la Utafiti la Kuchunguza
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — somo la fenomenografia la dhana za walimu wa vyuo vikuu kuhusu AI
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Mabadiliko ya kidijitali ya chuo kikuu cha sanaa za kihisia kuelekea mfano wenye utafiti mkubwa katika enzi ya GenAI (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapitio ya kimfumo ya muunganisho wa AI katika elimu ya juu kupitia miundo ya FACETS + SAMR (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Uzoefu na mitazamo ya walimu wa vyuo vikuu kuhusu GAI: udhaifu, kufikiria upya tathmini, kujifunza kwa wanafunzi kwa hatari (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Matumizi ya GenAI na watafiti wa baada ya shahada ya uzamili katika mtiririko wa kazi wa utafiti na miongozo inayoelekezwa kwa ujuzi wa AI (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — Ukali wa ushiriki kama ishara ya kuundwa kwa mwanafunzi kwa ajili ya mafunzo ya maadili ya AI ya kufaa (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — Uandishi unaosaidiwa na AI unasogeza timu za utafiti kuelekea ushirikiano mdogo, wenye watu wengi wachanga, wenye nukuu nyingi (Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ufundishaji wa AI na wa binadamu huzalisha maendeleo ya kujifunza ya GRE yanayolingana
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Aina za Msaidizi na Mwezeshaji zinatawala utafiti wa GenAI katika elimu ya juu; aina za mwisho za kugusana zinabaki nadra kwa sababu za taasisi badala ya kiufundi (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Ramani ya upande wa mwanafunzi ya uwekaji wa AI katika kujiunga, misaada ya kifedha, huduma za wanafunzi na utoaji wa elimu, pamoja na kichujio cha manunuzi cha maswali manne (Student Defense 2026)
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): Kielelezo cha Usanifu wa AI katika vyuo 100 vilivyo na vyeo vya juu; matamshi yanazidi muundo, upanuzi haujitegemei umaarufu

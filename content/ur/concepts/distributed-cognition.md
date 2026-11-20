@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -75,33 +77,3 @@ Fowlin وغیرہ (2026) اِس تقسیم کو دو مرحلوں کی ترتی�
 - **"مشترک دستاویز کا مطلب مشترک ادراک ہے۔"** **97 سیکھنے والوں** کے مقدار پر مبنی پروفائل **پیشگی علم اور مصنفیت** میں مختلف تھے مگر **فعال کردار یا سمجھ کی سطح کے پرامپٹ میں نہیں**۔ شرکت کی مقدار نے نمائش ناپی، علمی کام کی تقسیم نہیں — چنانچہ تعاونی ٹول کے استعمال کے [[learning-analytics|تجزیات]] اِس بارے میں بہت کم بتاتے ہیں کہ کون سوچ رہا تھا۔
 - **"ہر کوئی AI پر یکساں منتقلی کرتا ہے۔"** نئے اساتذہ **تدریسی ڈیزائن کا بڑا حصہ AI نظام کو سونپ دیتے ہیں**، اور **AI غالب تقسیم** تک پہنچتے ہیں جس میں وہ زیادہ تر جوابات قبول کر لیتے ہیں، جبکہ تجربہ کار اور AI سے واقف اساتذہ مختلف طریقے سے تقسیم کرتے ہیں۔ ماہریت اِس میں ظاہر ہوتی ہے کہ بوجھ کہاں رکھا جاتا ہے، صرف اِس میں نہیں کہ کتنا AI استعمال ہوا۔
 - **"AI کی زیادہ شمولیت کا مطلب زیادہ سہارا ہے۔"** AI غالب تقسیم وہ نمونہ ہے جس پر نظر رکھنی چاہیے، کیونکہ انسان کا علمی کام میں حصہ سکڑتا جاتا ہے جبکہ پیداوار کی مقدار بڑھتی ہے۔ نظام ٹھیک اُس وقت زیادہ قابل دکھ سکتا ہے جب صارف کم کر رہا ہو۔
-
-## منسلک تصورات
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## منسلک مضامین
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — تقسیم شدہ ادراک اور شریک ضابطے کی عینک سے انسان–AI تعاونی مسئلہ حل کرنے کا تجربی مطالعہ
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI بطور تدریسی وسیط جو ادراک کو انسانی اور غیر انسانی عاملوں میں دوبارہ تقسیم کرتا ہے
-- [[ai-cognitive-partner-co-regulation-learning]] — AI بطور علمی ساتھی شریک ضابطہ سوچ میں
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition فریم ورک جو سوچ کو انسان–AI تعامل کے طور پر نئے سرے سے تصور کرتا ہے
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — پس انسانیت پسند سیکھنے والا جس کا ادراک حیاتیاتی اور مصنوعی نظاموں میں تقسیم شدہ ہے
-- [[fowlin-operationalizing-learning-principles-ai]] — تقسیم شدہ ادراک کو تجرباتی اور سیاقی سیکھنے کے ساتھ عملی شکل دینا
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکہ کا المیہ: AI اور ماہریت کی دوبارہ پیدائش
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — سبق کی تیاری میں استاد–AI تعامل: تجربے اور مہارت کے حساب سے AI غالب بمقابلہ تکمیلی تقسیم شدہ ادراک (Choi وغیرہ 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI بطور عامل اور تعاونی فضا: رسائی کی ترتیب گروہی ادراک کیسے تقسیم کرتی ہے (Xu وغیرہ 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: خود رہنمائی والے ChatGPT استعمال سے پانچ تعامل اقسام اور چار کردار
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI کے ساتھ ٹرانزیکٹیو یادداشت: محنت کی تخصیص اور عکاسانہ تبدیلی تنقیدی سوچ میں وسیط ہیں (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — انفرادی سیکھنے والا تجزیے کی غلط اکائی کیوں ہے
-- [[rivera-novoa-genai-extended-cognition-2026]] — سائنس کی سیکھائی میں توسیعی ادراک: GenAI طے شدہ طور پر متبادل، ڈیزائن سے تکمیلی (Rivera-Novoa اور Duarte Arias 2026)

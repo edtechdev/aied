@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -99,36 +101,3 @@ ai_assist:
 - **«Удержание помощи фрустрирует учащихся и стоит мотивации».** Трёхрукавное [[rct|РКИ]] обнаружило, что тьютор, удерживающий подсказки, **сравнялся с неограниченным ChatGPT по снижению фрустрации и** мотивации — цена проявилась **только в предпочтении**. Учащимся это нравилось меньше, и они от этого не страдали, а значит данные о предпочтениях отвергли бы дизайн, который работал.
 - **«Больше фрустрации — больше обучения».** Эскалирующий тьютор был **на 0.42 балла шкалы более фрустрирующим, чем тьютор, отвечавший по запросу (p < .001), и на 0.29 менее фрустрирующим, чем** самый фрустрирующий рукав. Продуктивный диапазон — это середина, а не максимум, поэтому «желательная трудность» не даёт права делать задачу труднее бесконечно.
 - **«Продуктивная неудача означает, что преподаватели не должны помогать».** Дизайн удерживает *ответ*, поставляя структуру и эскалацию. Удержать подсказку и удержать поддержку — разные вмешательства, и только первое из них имеет здесь доказательства.
-
-## Связанные понятия
-
-- [[pedagogical-patterns]] — попытка до обучения как полная последовательность, с её тонкой базой свидетельств
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — кейсы как общее пространство задачи для первой попытки
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Связанные статьи
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Удержание решений избежало цены фрустрации, но проиграло по предпочтению студентов

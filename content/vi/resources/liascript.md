@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,7 +44,3 @@ Dự án cũng công bố một **[tác tử giảng dạy](https://github.com/L
 ## Ghi chú và lưu ý
 
 LiaScript miễn phí, không có gói trả phí và không cần tài khoản, và được phát triển công khai theo BSD-3-Clause, nên các cơ sở giáo dục có thể tự vận hành và sửa đổi nó. Tính năng Lớp học Trực tiếp đáng được xem xét trước khi bạn dựa vào nó ở quy mô lớn, vì việc đồng bộ thời gian thực dùng một dịch vụ chia sẻ chứ không phải hiển thị thuần cục bộ. Tác tử giảng dạy còn non và ít được dùng, nên hãy coi nó là một nguyên mẫu đang hoạt động chứ không phải một sản phẩm được hỗ trợ.
-
-## Khái niệm liên quan
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]

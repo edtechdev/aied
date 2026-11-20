@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -72,29 +74,3 @@ Pengajaran humaniora telah mulai menggunakan AI agentik untuk perakitan sumber d
 **"Analisis kritis adalah yang paling diancam AI, jadi ia harus dibatasi."** Analisis kritis juga merupakan hal yang paling dikembangkan oleh penggunaan yang disengaja, ketika tugas dirancang untuk memperdalam alih-alih meratakannya. Model [[human-in-the-loop-ai|human-in-the-loop]] menempatkan kontribusi disiplin ini pada pertimbangan pembelajar alih-alih pada keluaran alat.
 
 **"Model serbaguna sama bergunanya untuk kajian tekstual seperti untuk peringkasan."** Interpretasi menuntut posisi pembaca, dan lapisan bantuan yang menyediakan pembacaan telah melakukan tindakan interpretatif yang justru menjadi alasan disiplin ini diajarkan.
-
-## Konsep terkait
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-## Artikel terkait
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Model developmental-critical kognisi interpretatif untuk pendidikan SSH
-- [[paternalistic-filter-llm-history-education]] — Penggunaan LLM dan penalaran historis dalam pendidikan sejarah
-- [[genai-impact-chinese-students-hss]] — Dampak GenAI pada mahasiswa humaniora dan ilmu sosial
-- [[acceptance-ai-english-tools-2026]] — Penerimaan AI di kalangan pembelajar bahasa dan humaniora
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit komputasional atas 15,587 unit Seni dan Humaniora Go8: 58.6% butir penilaian 2026 sangat terekspos AI, terkonsentrasi pada esai dan laporan
-- [[genai-values-education-affordances-risks-2026]] — AI generatif dalam Pendidikan Nilai: Affordance, Risiko Etis, dan Implikasi bagi Pengajaran (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Format tugas dan instruksi penggunaan AI sebagai apa yang dapat dibuktikan artefak (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — AI agentik dalam pembelajaran humaniora, dan pergeseran dari kepengarangan teks ke atribusi interpretasi (Capodieci et al. 2026)

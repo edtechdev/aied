@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -88,26 +90,3 @@ ai_assist:
 - **"满意度与自感收益说明一件数据科学 AI 工具在起作用。"** 学生大量使用 LLM 来调试和问概念性问题，**报告了很高的满意度，而自感的深度学习收益在整个学期中下降**。满意度维持住了，自评的学习轨迹却掉了下去，所以任何一个数字单独都不是结果。
 - **"不受限制的模型与受引导的辅导器一样好。"** 一项实验比较发现，**就聚焦推理的脚手架——分步提示、验证——进行显式训练，比不受限的访问带来更好的独立**表现。效果来自引导，以及关于如何使用引导的训练。
 - **"防住直接给答案就够了。"** 一位专为本科心理学学生打造、包裹在托管 API 之外、以系统提示要求**引导而非作答**的辅导器，被部署在一门为期一学期的 R 课程中，**76% 到 84%** 的学生在考试相关周使用过它。这是采用，而不是防护产生了学习的证据：提示层面的防护只是若干杠杆之一，它本身并不产生学习。
-
-## 关联概念
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## 关联文章
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — 为个性化统计练习生成可检视合成数据集的智能体式工具
-- [[ai-tutor-statistical-programming-adoption-2026]] — 专门打造的 R 辅导器；采用率跟随考试日历
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM 难度标注对应 Bloom 层级，而非学生表现
-- [[tactile-statistical-graphs-accessibility]] — 生成触觉统计图表并配教师审阅的开源流水线
-- [[guided-llm-scaffolding-independent-learning]] — 受引导的脚手架在独立表现上胜过不受限的访问
-- [[lund-socially-accountable-data-science-xai-2026]] — 把社会可问责性嵌入技术性数据科学课程

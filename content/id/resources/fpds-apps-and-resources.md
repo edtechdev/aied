@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -72,7 +73,3 @@ QR di header membukanya di ponsel. Repositorinya adalah perangkat lunak berlisen
 panduan yang ditautkannya membawa lisensinya masing-masing, termasuk buku Pressbooks di antaranya dengan
 lisensi Creative Commons nonkomersial. Tidak ada jadwal penerbitan, sehingga halamannya berubah tanpa
 pemberitahuan.
-
-## Konsep terkait
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

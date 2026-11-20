@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -90,57 +92,3 @@ Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuín
 - **"A robótica ensina pensamento computacional por ser robótica."** Uma revisão sistemática de **53 estudos** descobriu que **aprendizagem baseada em problemas, contação de histórias e andaimento** eram as estratégias mais usadas — a pedagogia carregou o resultado, e é isso que os estudos de fato fizeram.
 - **"Robôs físicos superam alternativas em tela em todos os aspectos."** Os ganhos foram **dependentes da tarefa**: uma nota de transferência de curto prazo **60% maior** para [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4,4/10, p = ,003), que os autores atribuem à **colocação espacial conjunta em vez de à substituição geral**. A afirmação é sobre co-localização em tarefas específicas, não sobre fisicalidade em geral.
 - **"O pensamento computacional no jardim de infância é cedo demais para significar algo."** A evidência revisada cobre diretamente a robótica no jardim de infância, o que significa que a faixa etária é estudada em vez de presumida inadequada.
-
-## Conceitos conectados
-- [[early-childhood-elementary-ai-education]] — Educação em IA na primeira infância e no ensino fundamental
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
-
-## Artigos conectados
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Revisão de escopo do robô Pepper na educação formal
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Metanálise da aprendizagem de línguas assistida por robôs incorporados potencializada por IA
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-- [[computational-thinking-educational-robotics-secondary-2026]] — Pensamento computacional e robótica educacional
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: ambiente de robótica em blocos com IA conversacional
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: ambiente de simulação de robôs baseado em LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — Desenho baseado em conhecimento para robôs sociais generativos
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: robô social generativo para o ensino superior
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: robô de contação de histórias digital
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: robô social com LLM para a sala de aula
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: dramatização mediada por robô para prevenção do bullying
-- [[task-context-trust-educational-hri-2026]] — Contexto da tarefa e confiança na HRI educacional
-- [[human-autonomy-agency-hri-review-2025]] — Autonomia e agência humanas na HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — HRI narrativa com o iCub
-- [[pepper-robot-sign-language-lis-2025]] — Pepper e língua de sinais
-- [[social-robot-study-companions]] — Robôs sociais como companheiros de estudo
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integração robô-LLM na escrita criativa
-- [[game-based-gamified-robotics-education-review-2026]] — Educação em robótica baseada em jogos e gamificada
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: curso de robótica baseado em projetos
-- [[educational-robotics-pathways-2026]] — Caminhos para aprender robótica educacional com IA (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Pensamento computacional mediado por robôs no jardim de infância
-- [[ai-toys-child-development-2026]] — Brinquedos com IA e desenvolvimento infantil
-- [[creative-project-approach-ai-early-childhood-2025]] — A Abordagem do Projeto Criativo: integrando robôs de codificação e robôs sociais generativos em projetos de primeira infância (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — Cinco tipos funcionalmente distintos de robô de sala de aula, da demonstração roteirizada ao diálogo empático um-a-um (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: um framework baseado em hubs que trata a capacidade de mentoria técnica e a geografia dos hubs, e não o hardware, como a restrição dos programas rurais de robótica do K–12 (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — Ensinando aprendizado por reforço e robótica humanoide a estudantes do ensino médio: um desenho curricular validado por especialistas numa plataforma aberta de baixo custo
-- [[aifred-desk-robotic-ai-guidance-2026]] — Um projetor robótico de mesa: a orientação colocada no mesmo local preservou a transferência onde o ChatGPT de laptop a perdeu
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Um modelo de visão-linguagem planeja Shoebox Tasks para um robô Nao (Kudláčková 2026)

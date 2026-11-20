@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -95,38 +97,3 @@ Kushindwa kwa zao unahusiana na [[learning-theories]] (ujenzi), [[desirable-diff
 - **"Kuzuia msaada kunawakatisha tamaa wanafunzi na kunagharimu motisha."** [[rct|Jaribio la nasibu]] la mikono mitatu liligundua kuwa mwalimu anayezuia vidokezo **alilingana na ChatGPT isiyo na vikomo katika kupunguza kukatishwa tamaa na** motisha; gharama ilionekana **kwenye mapendeleo peke yake**. Wanafunzi hawakufurahia vile vile na hawakuteseka kwa ajili yake, ambayo inamaanisha data ya mapendeleo ingekataa ubuni uliofanya kazi.
 - **"Kukatishwa tamaa zaidi kunamaanisha kujifunza zaidi."** Mwalimu anayepandisha kiwango alikuwa **pointi 0.42 zaidi za kukatisha tamaa kuliko mwalimu aliyekuwa akijibu inapoomba (p < .001) na 0.29 chini ya** kikundi cha kukatisha tamaa zaidi. Wigo wenye tija ni wa kati, si wa juu zaidi, hivyo "ugumu unaotakiwa" hautoi ruhusa ya kufanya kazi kuwa ngumu bila kikomo.
 - **"Kushindwa kwa zao kunamaanisha walimu hawapaswi kusaidia."** Ubuni unazuia *jibu* huku ukitoa muundo na kupandisha kiwango. Kuzuia kidokezo na kuzuia msaada ni uingiliaji tofauti, na wa kwanza peke yake ndio wenye ushahidi hapa.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Jaribio kabla ya mafunzo kama mlolongo kamili, pamoja na msingi wake dhaifu wa ushahidi
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — Kesi kama nafasi ya pamoja ya tatizo kwa jaribio la kwanza
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Makala Zilizounganishwa
-
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI ya Kuunga Mkono Kujifunza Kulingana na Kushindwa kwa Zao
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Kuelekeza kwa Mbinu za Kufundisha LLM kwa Kushindwa kwa Zao
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI ya Kuunga Mkono Kubuni ya Matatizo ya PF
-- [[wang-safety-gap-productive-struggle-2026]] — Pengo la Usalama: Kurejesha Majitahizi ya Zao
-- [[lukesova-clue-before-correction-2026]] — Vidokezo Kabla ya Marekebisho: ChatGPT kwa Kujifunza kwa Kujitegemea
-- [[pedagogy-ai-mistakes]] — Mbinu za Kufundisha za Makosa ya AI
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Kuzuia suluhisho kuliepusha gharama ya kukatishwa tamaa lakini kukashindwa kwenye mapendeleo ya wanafunzi

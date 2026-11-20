@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/vibes-diy
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,8 +48,3 @@ Bu, bir eğitim ürünü değil, genel amaçlı bir inşa aracıdır: küçük, 
 ## Notlar ve uyarılar
 
 Platformun ücretsiz bir katmanı vardır ancak kredi temellidir: hesaplar ayda 1.000 YZ kredisi alır ve inşa etme, düzenleme, görüntü üretme ve uygulama içi YZ özellikleri bunları harcar. Bir abonelik, süresi dolmayan daha fazla kredi satın alma seçeneği ekler. Platforma bel bağlamayı düşünen her kurs, ücretsiz kullanımın sınırsız değil ölçülü olduğundan güncel koşulları kontrol etmeli ve öğrenci üretimi uygulamaları kendi veri işleme soruları olan içerik olarak görmelidir.
-
-## Bağlı kavramlar
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -62,51 +64,8 @@ ai_assist:
 
 নিয়ন্ত্রণ স্বয়ংক্রিয়ভাবে নিচের দিকে অনূদিত হয় না: যেখানে রাজ্য-স্তরের এআই নিয়ম রয়েছে সেখানে কাজ করা 32টি অর্থায়ন-সংস্থা সাধারণ নীতি প্রকাশ করেছে, কিন্তু সেই নিয়ম বহনকারী কোনো অর্থায়ন-নির্দিষ্ট দলিল নয় ([[chan-ai-policy-gap-2026|Chan, 2026]])।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"প্রাতিষ্ঠানিক এআই নীতি হলো যেখানে নিয়মগুলো থাকে।"** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson ও Rainie-এর (2026)]] **1,057 জন মার্কিন প্রশিক্ষকের** সমীক্ষা মাপে, কার্যকর নিয়ম প্রাতিষ্ঠানিক স্তরের কত নিচে বসে: **87% উত্তরদাতা নিজেদের নির্দেশনা লেখেন**। কার্যকর নীতি বেশিাংশে প্রশিক্ষক-রচিত, যার মানে নথিভুক্ত প্রাতিষ্ঠানিক স্তর দেখতে যা মনে হয় তার চেয়ে কম বর্ণনা করে।
 - **"নীতি লেখা ঝুঁকিপূর্ণ পৃষ্ঠকে ঢেকে দেয়।"** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] দেখান কেন মূল্যায়ন-সরঞ্জাম নিয়ন্ত্রিত শ্রেণিতে পড়ে: একটি রেড-টিম পরীক্ষায় জমা-ফাইলে লুকানো **পাঁচটি পরোক্ষ প্রম্পট-ইনজেকশনের দুটি** সফল হয়েছে। যে নিয়ম সরঞ্জামের নাম বলে কিন্তু ইনজেকশন-পৃষ্ঠের নাম বলে না, তা শোষণটি অসমাধানই রেখে দেয়।
 - **"বিদ্যমান নিয়ম সম্প্রসারণ করলেই এজেন্টিক ব্যবস্থা ঢাকা পড়ে।"** **12টি বিশ্ববিদ্যালয়ের** নথি-বিশ্লেষণে [[wong-sun-agentic-ai-assessment-governance-2026|Wong ও Sun (2026)]] পান, **কোনো তুলনামূলক নীতি সেই এজেন্টকে সম্বোধন করেনি যা শিখন-ব্যবস্থাপনা ব্যবস্থায় লগ ইন করে**। শাসন-ফাঁকটি কাঠামোগত: প্রমাণপত্রধারী স্বায়ত্তশাসিত অভিনেতার জন্য বিদ্যমান শ্রেণিগুলোর কোনো ঘর নেই।
-
-## সংযুক্ত ধারণা
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — নিয়ন্ত্রণ ও শাসন অস্পষ্ট বা অতিরিক্ত-ব্যাপক হলে আইনি ঝুঁকি
-
-## সংযুক্ত নিবন্ধ
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — যুক্তরাজ্যের উচ্চশিক্ষা নীতিতে এআই
-- [[oecd-digital-education-outlook-2026]] — OECD ডিজিটাল এডুকেশন আউটলুক 2026
-- [[genai-declaration-frameworks-higher-education]] — এআই ঘোষণা-কাঠামো
-- [[genai-assessment-governance]] — GenAI-র অধীনে মূল্যায়ন শাসন
-- [[league-ethical-governance-student-data-2026]] — শিক্ষার্থী-তথ্যের নৈতিক শাসন
-- [[student-regulatory-awareness-genai]] — GenAI নিয়ে শিক্ষার্থীর নিয়ন্ত্রক-সচেতনতা
-- [[dot-framework-survey-2026]] — প্রযুক্তি-গ্রহণ কাঠামো
-- [[raza-farooq-aied-review-2020-2025]] — AIED গবেষণার ব্যাপক পর্যালোচনা
-- [[qian-governing-genai-higher-ed-policy-2026]] — বাধ্যতামূলক নীতির বদলে নির্দেশনা: 50টি উদ্ভাবনী মার্কিন বিশ্ববিদ্যালয়ে অভ্যন্তরীণ এআই নিয়ম (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — পাঁচ মাত্রায় স্কোর করা আইন বিদ্যালয়ের GenAI নীতি: পূর্বনির্ধারিতভাবে নিষেধমূলক, প্রশিক্ষকের বিবেচনা, পর্যায়ক্রমিক পুনর্বিবেচনা (Gutowski ও Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — অতিরিক্ত-ব্যাপক এআই নিষেধাজ্ঞা এবং তারা যে যুক্তিসঙ্গত-সমন্বয় দায় স্পর্শ করতে পারে (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — মূল্যায়ন-নিয়মে ভাষা-পটভূমি: সহায়তা–প্রতিস্থাপন সীমানা সমতার প্রশ্ন হিসেবে (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — এআই মূল্যায়নকারীর উপর প্রম্পট-ইনজেকশন আক্রমণ এবং মানক সহনশীলতা-পরীক্ষার পক্ষে যুক্তি (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — শাসন-সংস্কারের শর্ত হিসেবে বাহ্যিক নিয়ন্ত্রক চাপ (Coates, Croucher ও Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — সরু প্রাতিষ্ঠানিক নীতি-স্তরের বিপরীতে 87% প্রশিক্ষক নিজেদের নিয়ম লেখেন (Watson ও Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "পরে ঠিক করে নেব": শিক্ষা, এআই এবং EdTech-এ শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — কোনো তুলনামূলক নীতি সেই এআই এজেন্টকে সম্বোধন করেনি যা LMS-এ লগ ইন করে বা শিক্ষার্থীর প্রমাণপত্র ধারণ করে (Wong ও Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — উল্লম্ব অননুবাদ: রাজ্য-নিয়ম আছে, অথচ তাদের অধীন অর্থায়নকারীরা কোনো বাধ্যতামূলক দলিল জারি করে না (Chan 2026)
-

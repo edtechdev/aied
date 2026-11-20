@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -133,67 +135,3 @@ Một cách định khung gần gũi là **quyền chủ động tri thức lu�
 - **"Học sinh thực thi quyền chủ động khi họ dùng AI tự do."** Một **lược đồ 14 phạm trù mã hóa 6,788 lượt được ChatGPT hỗ trợ** đặt **59% số lượt của học sinh lớp bảy** vào các phạm trù không đại diện cho việc dùng có quyền chủ động. Khối lượng sử dụng và quyền chủ động là những thước đo khác nhau.
 - **"Các mô hình hiện nay hỗ trợ quyền chủ động của người học tốt."** **Được đánh giá qua mười mô hình, hỗ trợ quyền chủ động là chỗ chúng làm tệ nhất sau học tập**: ImpactBench đo **Quyền chủ động và Mục đích ở 56.0%** trên các tiêu chí tích cực. Quyền chủ động là chiều mà các hệ thống AI xử lý kém nhất, không phải một sản phẩm phụ của năng lực.
 - **"Trung gian hóa của giáo viên là một ràng buộc với quyền chủ động."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] theo dõi **mười giáo viên toán trung học qua một can thiệp ChatGPT-4 kéo dài tám tuần** và sự trung gian hóa là cơ chế chứ không phải chướng ngại.
-
-## Khái niệm liên quan
-- [[learners]] — Người học: ôm trùm cho các khái niệm phía người học
-- [[pedagogical-partnerships]] — Quan hệ đối tác sư phạm
-- [[learner-identity]] — bản sắc người học đang tiến hóa theo ngành học, nghề nghiệp, sáng tạo và học thuật
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — hướng đi chung của tương tác có AI trung gian
-- [[agentic-ai]] — AI tự chủ có thể tái phân phối quyền chủ động trong nhóm
-- [[chemistry-education]] — Giáo dục hóa học và AI: phòng thí nghiệm, đánh giá định hình, giới hạn của LLM, triết học thực nghiệm
-- [[social-emotional-learning]] — Học tập cảm xúc-xã hội
-- [[cognitive-surrender]]
-
-## Bài viết liên quan
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Một khảo sát đại diện quốc gia về giáo viên và hiệu trưởng Hoa Kỳ về phạm vi chính sách AI, quyền chủ động và năm kịch bản lớp học (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Một bàn tay giúp đỡ hay một đối tác chi phối? Nhận thức cá nhân về sự phụ thuộc GenAI và quyền chủ động của con người trong học tập cộng tác
-- [[yan-agentivism-learning-theory-ai-2026]] — Một lý thuyết học tập tầm trung cho tương tác người–AI, với bốn cơ chế và sáu mệnh đề có thể kiểm chứng (Yan và Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Quyền chủ động của người học như phẩm chất nổi lên của việc phối hợp năng lực miền, AI và siêu nhận thức, không phải một nút độc lập (Dang và cộng sự 2026)
-- [[learner-agency-ai-simulation-2026]] — Tiếp cận lựa chọn so với quyền chủ động được thực thi: thanh trượt, một tác tử AI tùy chọn và việc học trong một mô phỏng đàn chim
-- [[guarded-adoption-genai-higher-education-2026]] — Tiếp nhận có phòng vệ GenAI trong giáo dục đại học
-- [[ai-agents-joyful-assessment-third-space-2026]] — Tác tử AI, đánh giá vui vẻ và không gian thứ ba
-- [[ai-mediated-research-agency-formation-2026]] — Hình thành quyền chủ động nghiên cứu có AI trung gian trong đào tạo khoa học giai đoạn đầu sự nghiệp
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Giảm tải nhận thức nhạy cảm theo tầng trong viết có GenAI hỗ trợ (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Giáo dục AI ở trường thu hẹp khoảng cách sẵn sàng về tâm lý nhưng không về nhận thức
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Quyền chủ động tri thức luận quan hệ và sáu tiêu chí phân tách sự phụ thuộc có ích khỏi sự phụ thuộc có hại (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Đồng hành sư phạm có AI hỗ trợ, nuôi dưỡng bản sắc STEM
-- [[t2i-competence-paradox-2026]] — Nghịch lý năng lực: bản sắc sáng tạo trong việc dùng GenAI văn bản-thành-ảnh
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Quyền chủ động nổi lên của người học trong cộng tác người–AI ngầm: nhân vật hỗ trợ so với đối lập
-- [[de-barba-srl-genai-2026]] — Quyền chủ động của người học qua các quy mô: điều tiết, tích hợp, định vị
-- [[mishra-control-vs-agency-history-2025]] — Kiểm soát so với quyền chủ động như căng thẳng thiết yếu trong lịch sử AIED
-- [[daoism-ai-education-philosophy-2026]] — Triết học AI thay thế: Đạo giáo như phương pháp cho AI trong giáo dục
-- [[human-autonomy-agency-hri-review-2025]] — Tính tự chủ và quyền chủ động của con người trong HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Thiết kế dựa trên tri thức cho robot xã hội sinh tạo
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Nuôi dưỡng quyền chủ động của học sinh trong công việc liên quan đến học tập
-- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ và sự đầu hàng nhận thức: AI định hình lại lập luận của con người như thế nào (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Quyền chủ động của giáo viên trước khi vào nghề trong các tương tác GenAI khi thiết kế việc học (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Tầm nhìn giải phóng: quyền chủ động như tổng bằng không với quyền chủ động của công cụ
-- [[chen-zou-genai-group-assessment-agency-2026]] — Ba mô thức quyền chủ động trong đánh giá nhóm có GenAI trung gian: tăng cường, tiết chế và không được thực thi
-- [[ai-integrated-teaching-identity-tensions]] — Tính chọn lọc có nguyên tắc như quyền chủ động của giáo viên trong giảng dạy tích hợp AI (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Từ chối như bằng chứng chẩn đoán: không sử dụng như một quan hệ định cảnh và quyền từ chối AI không đồng đều (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — quyền uy tri thức luận được khẳng định qua ngắt lời, sửa lỗi và từ chối thay vì dùng công cụ tối đa
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ai hành động, ai biết, ai trả lời? Phân tích diễn ngôn có hỗ trợ ngữ liệu về quyền chủ động, trách nhiệm tri thức luận và trách nhiệm giải trình trong nghiên cứu giáo dục đại học về AI sinh tạo
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Các câu hỏi mở hướng tới sự phụ thuộc duy trì kỹ năng trong tham gia AI có phản tư
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Năng lực so với quyền chủ động như các mục đích của giáo dục AI, và heuristic quyền chủ động AI có hiểu biết (Fagerlund và cộng sự 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Trung gian hóa của giáo viên như điều kiện giữ GenAI là hiện vật để phê phán thay vì một quyền uy (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Quyền chủ động của giáo viên như nguồn lực được huy động qua thiết kế, với sự sẵn sàng được đánh giá từ hiện vật thay vì mức sử dụng (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Cân bằng quyền chủ động của giáo viên và học sinh trong các công cụ đồng điều phối để ghép cặp năng động theo thời gian thực (Yang và cộng sự 2026)
-- [[porath-interpretive-authority-2026]] — Ma trận Quyền uy Diễn giải và Mô hình Tích hợp Quyền uy Sinh thái: bốn cấu hình về ai diễn giải, và các tầng sinh thái làm chúng dịch chuyển
-- [[gyekye-selves-apprenticeship-2026]] — Sinh viên da màu trong các chương trình học việc tự viết nên bản thân qua AI bằng từ chối, thương lượng và công nhận ("độ phẳng văn hóa"); Năng lực AI Thể chế và Băng thông Công nhận
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Quyền chủ động tri thức luận chia sẻ trong 6,788 lượt viết khoa học trung học có ChatGPT hỗ trợ (Chang và cộng sự
-- [[jelson-students-chatgpt-essay-writing-2026]] — Quyền sở hữu được cảm nhận chỉ giảm khi ủy thác toàn bộ bài luận; người dùng để lập kế hoạch và duyệt lại ngang với người không dùng (Jelson và cộng sự 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Ai đang suy nghĩ? Mô tả quyền chủ động của con người trong tương tác AI của sinh viên năm thứ nhất

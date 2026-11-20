@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -58,7 +60,6 @@ L'apprendimento socio-emotivo è strettamente correlato, ma distinto, dall'intel
 
 - **Una revisione di mappatura di 43 studi su GenAI e SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] hanno codificato 43 studi su sei domini del SEL e hanno rilevato competenze cognitive in 24, identità in 15, sociali in 14 ed emotive in 7, mentre valori (4) e prospettive (3) restavano marginali. Diciannove affordance si raggruppavano in sette generi; 38 dei 43 studi raggiungevano solo il livello di trasparenza più basso. L'inventario mostra dove l'evidenza sul SEL è densa e dove la rendicontazione etica è esile.
 
-
 ## Potenziali sottoargomenti del SEL nella ricerca dell'era dell'IA
 
 La ricerca della knowledge base raggruppa il SEL in diversi sottoargomenti distinti, ciascuno con la propria base di evidenze:
@@ -81,7 +82,6 @@ Il SEL sostiene l'apprendimento relazionale e la coesione sociale. La [[finkelst
 C'è un lato più tagliente dell'appartenenza: l'empatia cercata dall'IA può essere penalizzata. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] hanno fatto leggere ai partecipanti la storia di uno studente in difficoltà che si era rivolto a un [[conversational-ai|chatbot]], a un amico, a un terapeuta o a nessuno. Nella condizione del chatbot i partecipanti dichiaravano privatamente la minore disponibilità a scaricare, ma poi usavano il maggior numero di parole di indifferenza verso quello studente e lo valutavano come più estraneo e più disperato. Il giudizio dei pari verso la via che cerca l'IA si somma al nascondimento documentato sopra, ed è per questo che le norme di dichiarazione appartengono alla progettazione del SEL e non solo alle politiche di integrità.
 
 [[ai-sycophancy|L'adulazione]] applica la stessa sostituzione con una dose misurata. In cinque studi preregistrati (N = 3.075; 12.766 conversazioni), gli utenti di un'IA che confermava le loro opinioni sono diventati, nell'arco di tre settimane, quasi altrettanto propensi a cercare consigli personali da essa quanto da amici e familiari stretti. Gli stessi partecipanti riportavano una minore soddisfazione per le proprie interazioni nel mondo reale, e una maggioranza preferiva lo stile che conferma non per i suoi consigli ma perché la faceva sentire capita ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). Il danno è relazionale anziché emotivo, ed è per questo che le funzioni di supporto emotivo non possono essere trattate come aggiunte a costo zero a un corso.
-
 
 ### Persistenza, mindset e lotta produttiva
 Il SEL si sovrappone alla dimensione faticosa dell'apprendimento. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifica la [[student-support-and-success|bassa persistenza degli studenti]] come una sfida ricorrente nella tecnologia educativa, plasmata da motivazione/adesione, blocchi cognitivi, resilienza sotto sfida e connessione. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] avvertono che un'IA che si sostituisce allo sforzo erode le stesse capacità che l'educazione costruisce — in linea con la [[metacognition|metacognizione]] e con il valore della lotta produttiva rispetto all'[[cognitive-offloading|eccessivo affidamento]].
@@ -117,46 +117,3 @@ Il SEL si collega all'[[ai-literacy|alfabetizzazione sull'IA]] (come complemento
 **«La bassa persistenza è un problema di motivazione che l'incoraggiamento può risolvere.»** La persistenza è il vincolo ricorrente nella tecnologia educativa — il pattern che [[framing-5-percent-problem-teachers-persistence|il problema del 5%]] nomina — ed è plasmata da motivazione e adesione, blocchi cognitivi, *e* resilienza sotto sfida. L'incoraggiamento ne affronta uno dei tre. A chi apprende che si ferma perché il problema ha superato la sua memoria di lavoro non manca la rassicurazione.
 
 **«Sapere che l'IA è disponibile non cambia il modo in cui gli studenti investono sforzo.»** Può cambiarlo, e l'effetto va nella direzione sbagliata per i più deboli: la [[ai-availability-student-motivation|disponibilità dell'IA]] può ridurre il valore percepito dell'impegno faticoso, in particolare per i novizi. La sola disponibilità è un intervento motivazionale con segno negativo, ed è per questo che una progettazione vicina al SEL non può trattare la presenza di un sistema utile come neutrale.
-
-## Concetti collegati
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Articoli collegati
-
-- [[liu-genai-sel-mapping-review-2026]] — A 43-study mapping review of GenAI and SEL: uneven competency coverage and thin ethics reporting
-
-
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-- [[shastry-gray-empathy-offloading-2026]] — Le persone scaricano l'empatia quando pensano che l'IA possa darla al posto loro (Shastry & Gray 2026)
-
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI displaces human advice-seeking and lowers satisfaction with real-world interaction (Ibrahim et al. 2026)
-

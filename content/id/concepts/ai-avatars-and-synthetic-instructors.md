@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -118,47 +120,3 @@ Penyempitan itu penting. Para penulis Theelen menyatakannya langsung: kelancaran
 **"Penampilan avatar bersifat kosmetik."** Isyarat identitas mengubah penilaian kredibilitas dan pengambilan bimbingan yang sebenarnya, dengan penalti berlapis bagi avatar perempuan kulit hitam yang lebih tua.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Konfigurasi adalah keputusan pedagogis dan kesetaraan.
 
 **"Pasien yang disimulasikan adalah pasien terstandar, minus biayanya."** Psikolog peserta pelatihan menemukan pasien virtual mereka kooperatif dan sudah mahir dalam terapi, sebuah kasus "ideal" yang kurang merepresentasikan ketidakfleksibelan perilaku.([[ai-psychotherapy-training-avatars]]) Biaya turun; validitas kasus tidak otomatis menyusul.
-
-## Konsep terkait
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Artikel terkait
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Isyarat identitas avatar menggeser kredibilitas dan pengambilan bimbingan (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Avatar siswa dalam dialog pendidikan guru berbasis praktik (Hauk dkk. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Pembuatan dan pelaporan deepfake menurut gender dalam lokakarya literasi AI
-- [[elevate-genai-virtual-tutors]] — Tutor avatar 3D yang mengutamakan lokal dengan lapisan tata kelola guru (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Pasien avatar dengan hakim LLM untuk komunikasi klinis
-- [[genai-simulate-patient-history-pbl-2026]] — Avatar pasien genAI dalam tutorial anamnesis PBL
-- [[ai-psychotherapy-training-avatars]] — Avatar pasien untuk latihan kesetiaan ACT dalam pelatihan psikoterapi
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Agen pedagogis dalam realitas diperluas: kehadiran, realisme, dan beban (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Bermain peran yang dimediasi robot dengan avatar yang dikendalikan boneka untuk intervensi pengamat
-- [[personalized-ai-generated-videos-preference-2026]] — Personalisasi video dosen hasil kloning dan preferensi mahasiswa
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Kerangka empat lapis yang memisahkan representasi dari agensi dalam simulasi kelas
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Usulan agen suara percakapan untuk wawancara umpan balik mata kuliah
-- [[trikonet-trivalence-co-creativity-2026]] — Avatar pedagogis ko-kreatif dalam jaringan sosioteknis (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Hanya 51.7% dari 654 mahasiswa mengambil peran antropomorfik yang ditawarkan; satu menyebutnya mesin penjual umpan balik

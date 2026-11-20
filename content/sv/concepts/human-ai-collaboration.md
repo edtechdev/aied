@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -102,71 +104,3 @@ Människa–AI-samarbete kopplar till [[human-in-the-loop-ai]] (tillsyn), [[agen
 - **"Samarbete betyder att AI gör en del av arbetet."** **Eleven behåller den beslutande rollen**, och detta skalar till skrivande: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash och Connell Pensky (2025)]] visar att det håller när arrangemanget är designat för det. Arbetsdelning är inte samarbete om inte människan behåller omdömet.
 - **"AI gör förklaringen i ett flippat arrangemang."** **Elever som undervisade AI:n förklarade bättre** — definition av flippat klassrum på **M = 4,18 mot 3,29**, undervisningsaktiviteter på **M = 4,91 mot 3,06, båda p < 0,001**. Lärandet tillföll den som förklarade.
 - **"Mänskliga och AI-bidrag är substitut."** Två studier från 2026 kartlägger **kompletterande halvor** av klassrumssamarbete, vilket ramar in designproblemet som fördelning snarare än ersättning.
-
-## Anslutna begrepp
-
-- [[pedagogical-partnerships]] — Pedagogiska partnerskap
-- [[community-of-inquiry]] — Community of Inquiry (närvaro som människa–GenAI-sociotekniska prestationer)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Kemundervisning och AI: laboratorier, formativ bedömning, LLM:ers gränser, experimentfilosofi
-- [[biology-education]] — Biologiundervisning och AI: labbassistenter, AI-kompetens i biologi, kritiskt tänkande, specialiserade verktyg
-- [[human-in-the-loop-ai]] — tillsyn
-- [[agentic-ai]] — autonomi
-- [[productive-failure]]
-
-## Anslutna artiklar
-
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tre agentroller i ett narrativt naturvetenskapsspel, och vilket utvärderingskriterium var och en behöver (Humburg m.fl. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Pararbete med ett GenAI-multiagentsystem vann designprojektet medan medvetenheten om kritiskt tänkande bara steg för dem som arbetade ensamma (Chu m.fl. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Multiagentdebatt med det föredragna svaret undanhållet minskade eftergivenhet mot felaktiga AI-råd, men inte korrigerande
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: samarbetskompetens som en dynamisk konfiguration av domän-, AI- och metakognitiv kompetens, med elevhandlingsutrymme som emergent (Dang m.fl. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Gymnasielärare designar klassrumschattbotar som begränsade experter under mänsklig tillsyn
-- [[ai-integration-instructional-design-collaboratory-2026]] — Tolv kursgenomföranden inom lärarutbildningen behandlar AI-integration som ett instruktionsdesignproblem
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: första RCT:n för människa–AI som skalar expertis till novisa handledare
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
-- [[principal-trait-analysis-human-ai-skills-2026]] — Datadrivna "drag" i människa–AI-samarbete
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lärar–AI-interaktionsmönster i lektionsdesign över erfarenhet och AI-skicklighet (Choi m.fl. 2026)
-- [[tang-chatbots-learning-design-2026]] — Designers använder en inbäddad chattbot för samstämmighetskontroller av mål och pedagogik, inte för innehållsgenerering
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[conversational-ai-agents-umbrella-review-2026]] — Översiktsgenomgång av konversations-AI-agenter i utbildningen
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI-överberoende modellerat som ett komplext adaptivt system
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Rolladaptiv AI-kamrat för bokprat i grundskolan; affektivt tak för fasta rollagenter (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Lärar–AI-samdesign av lärandeuppgifter: trender och perspektiv (Wang m.fl. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Rollarkitektur i AI-designade differentierade gruppaktiviteter (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI som agent och samarbetsrum i smågruppsdynamik (Xu m.fl. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automatisering, förstärkning och samarbete som ett kontinuum för uppgiftstilldelning
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[human-ai-collaboration-academic-writing-2026]] — Femdelat strukturerat EFL-skrivarbetsflöde; verifierings- och ansvarsrutiner drev vinster i parskrivande och digitalt kritiskt tänkande
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Rollomkastning: elever undervisar en GAI-noviselev och överträffar kamrater som frågar en GAI-lärare
-- [[iqbal-human-genai-support-essay-revision-2026]] — Stödtypen formade revideringsstrategier och poäng, men ingen strategi förutsade vinst; GenAI-vinster kan vara uppgiftsspecifika
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Mänskliga och AI-debattmoderatorer bedömdes likvärdigt; nytta respektive tillfredsställelse driver återanvändning olika
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Lektionsstudier bygger lärarutbildares kapacitet att designa dialogiskt AI-engagemang; promptteknik som pedagogiskt tänkande
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Fem typer av elev–GenAI-sammanflätning, och varför de som fördelar författarskap förblir marginella (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Lärar–AI-samarbetets motriktade vägar till arbetsengagemang via psykologisk tillgänglighet och arbetsalienation, begränsade av digital kompetens
-- [[wang-agentic-translation-education-2026]] — Designprotokoll som omdirigerar översättarutbildning mot AI-orkestrering, strategiskt omdöme och kritisk utvärderingskompetens (ännu inga empiriska data)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — En affektiv varning är en signal läraren tolkar, inte en instruktion att lyda
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Författarskapslegitimeringsunderskottet i människa–AI-samskapande

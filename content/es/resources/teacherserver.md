@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -38,8 +39,3 @@ Para K-12: generadores de planes de clase, hojas de trabajo, objetivos del [[spe
 
 ## Notas
 El proyecto afirma contar con un servidor de IA instalado localmente para ganar velocidad, que los datos se procesan localmente y nunca se almacenan, y el cumplimiento de las directrices del Departamento de Educación; la [página del equipo](https://teacherserver.com/index-team.php) nombra a Zafer Unal, profesor de la Universidad del Sur de Florida, como fundador y desarrollador, junto a un consejo asesor de cuatro miembros del profesorado de otras universidades. Todavía conviene verificar esas afirmaciones antes de usarlo con trabajo del estudiantado. El acceso requiere registro, y existe una plataforma complementaria, de pago posterior, para construir sus propias herramientas.
-
-## Conceptos conectados
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -72,25 +74,3 @@ Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la
 - **« De meilleures visualisations produisent de meilleurs résultats. »** Les enseignants **préféraient systématiquement des visualisations plus simples et plus traditionnelles** (diagrammes en barres, camemberts, légendes) **même lorsque des conceptions complexes comme les cartes de chaleur livraient des aperçus plus détaillés**. L'artefact le plus informatif n'était pas celui qui était utilisé, si bien que l'adoption est un problème distinct de la qualité de conception.
 - **« Les étudiants regardent là où se trouve l'étayage. »** Une étude a constaté que les étudiants **passaient l'essentiel de leur regard sur le code malgré des étayages visuels élaborés** — les aides ne captaient simplement pas l'attention. Un soutien visuel présent mais non regardé ne change rien.
 - **« Engagement et compréhension progressent ensemble. »** Les participants trouvaient les bandes dessinées de données générées par l'IA **plus engageantes et plus compréhensibles, mais beaucoup signalaient aussi un risque de désinformation et une surcharge informationnelle**. Les deux réactions venaient du même artefact, si bien qu'un accueil favorable n'est pas une lecture vérifiée.
-
-## Concepts liés
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — la représentation spatiale et tridimensionnelle
-
-## Articles liés
-
-- [[interactive-learning-dashboards-engagement]] — Repenser les visualisations d'apprentissage comme outils d'engagement via des agents pédagogiques
-- [[mllm-scientific-visualization-literacy]] — Benchmarking multimodal LLMs for scientific visualization literacy
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Domain-adapted text-to-image models for nuclear concept visualization
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Efficacité, bénéfices et éthique des bandes dessinées de données assistées par l'IA
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[genai-visualization-education-framework-2026]] — Construire du sens, pas seulement des graphiques : un cadre cognitivo-instructionnel pour l'usage de l'IA générative dans l'enseignement de la visualisation

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -114,37 +116,3 @@ Lerntransfer verbindet sich mit [[metacognition|Metakognition]] (Selbstüberwach
 **„Transfer kommt von leistungsfähigeren Modellen."** Transfer kommt von Bedingungen, die ihn erzeugen — der Allgemeinheit der Übung, der Variabilität der Kontexte und dem Ausmaß, in dem die lernende Person das Schlussfolgern selbst erzeugt hat. Modellfähigkeit hebt die Decke der assistierten Leistung und tut nichts Bestimmtes für das, was bleibt, wenn das Modell weg ist.
 
 **„Anleitung stützt Transfer immer, also ist mehr Anleitung besser."** Anleitung, die das Schlussfolgern vollzieht, ersetzt den Prozess, von dem Transfer abhängt. Die Unterscheidung ist die zwischen Hilfe, die die lernende Person den nächsten Schritt erzeugen lässt, und Hilfe, die ihn für sie erzeugt — und nur die erste steht auf der Transferseite dieser Linie.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Das Ergebnis, nach dem die meisten dieser Sequenzen letztlich beurteilt werden
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Produktives Scheitern
-
-## Verbundene Artikel
-- [[yan-agentivism-learning-theory-ai-2026]] — Eine mittlere Lerntheorie für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan und Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtempfindliche kognitive Entlastung im GenAI-assistierten Schreiben (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Die Unterscheidung von Leistung und Lernen und dauerhafter Transfer
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — KI in der Teilchenphysik-Bildung: Forschungsprobleme und grundlegende Fähigkeiten
-- [[shi-genai-experiential-learning-management-education-2026]] — argumentiert, dass geschützte Klassenraum-Simulationen Entscheidungsgewohnheiten bilden können, die außerhalb davon versagen
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — KI-gestützte Sprechpraxis erhöhte die Bereitschaft gegenüber Menschen, doch keine Studie beobachtete menschliches Sprechen
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: gesteigertes Lernen durch funktionale robotische Verkörperung am Schreibtisch
-
-- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive Washout: das Intervall nach dem Rückzug und ein 22-Wochen-Messprotokoll (Yajee 2026)

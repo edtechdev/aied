@@ -12,6 +12,8 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 > **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and [[online-teaching-and-learning|online learning]] environments through which AI is delivered to learners and educators. In [[ai-education|AI in education]], the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026|Robinson et al., 2026]]) ([[oatutor-open-source-adaptive-tutor-2023|Pardos et al., 2023]])
@@ -96,52 +98,3 @@ Privacy can be built into the pipeline rather than the policy: a classroom incid
 **"Open versus proprietary is a licensing detail that does not affect outcomes."** The platform model shapes what institutions can do with the system: [[open-source|open]] platforms such as OATutor — an MIT-licensed adaptive tutor with a Creative Commons algebra content library, [[knowledge-tracing|knowledge tracing]] mastery estimation and built-in A/B testing — let a department instrument and modify its own [[pedagogy|pedagogy]], which a closed platform cannot. The license determines who may conduct the experiment.
 
 **"A platform that works at one institution will work as adopted."** Platform effects run through local governance: privacy-first architecture, data minimisation, auditable logs and role-based access are what make an AI-integrated platform deployable at all, and they are institutional decisions rather than features you can infer from a vendor demonstration.
-
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Connected Articles
-- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
-- [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
-- [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignment platform
-- [[edusim-llm-robotic-simulation-education-2026]] — An LLM-robotic simulation platform for education
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — A generative social-robot teaching platform in higher education
-- [[hypergamification-game-engine-lms]] — A game-engine-based LMS integrating gamification
-- [[edtech-design-time-generative-ui]] — Designing edtech for generative UI
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder platform
-- [[vismatic-secure-sandbox-cs-education]] — A secure sandbox platform for CS education
-- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

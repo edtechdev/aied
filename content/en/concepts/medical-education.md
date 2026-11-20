@@ -11,6 +11,8 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 > **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical [[simulation|simulation]], [[reinforcement-learning|reinforcement learning]] trainers, [[adaptive-learning|adaptive learning]], and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment. Nursing, the most heavily studied program in HPE, is covered in full under [[nursing-education|nursing education]], which develops the competence boundary, identity-formation, and workforce evidence that appears here only in outline.
@@ -59,7 +61,6 @@ A second governance gap sits on the production side. Policies in health-professi
 
 - **The shape of the field's own literature.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti and Gue (2026)]] map the ethical-AI-in-medical-education literature itself: 1,403 Web of Science publications from 1995 to 2026, negligible for two decades, then 113 in 2023, 256 in 2024 and 500 in 2025; 39 countries clear the authorship threshold, led by the United States (533 publications) over China (189) and England (95); and the most-cited works are capability tests — ChatGPT's performance on medical licensing examinations above all — rather than governance scholarship. Their reading is that the field has grown fast without growing evenly, and that empirical evaluation of [[governance|governance]] frameworks is the work the citation record is not rewarding. It is a useful caution for anyone treating the volume of published AI-in-medical-education research as evidence that its safe-use questions have been answered.
 
-
 A 153-report scoping review of GenAI in medical education maps applications — [[simulation|simulation]] and clinical skills largest (47 reports), ahead of assessment generation and feedback (22) and case-based learning and clinical reasoning (21) — yet only 13 reports carried a follow-up or retention signal and no patient-level outcome was found ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
 - **AI-powered PBL and CBL: six randomized trials, two of them CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] pooled four trials for knowledge (46%, 95% CI 0.18 to 0.73), three for satisfaction (0.7, 95% CI 0.47 to 0.92), and could not pool clinical reasoning because the instruments differed. Only two trials tested case-based learning and the review did not analyze the formats separately, so the result supports AI-supported problem designs without identifying which case features matter.
@@ -95,55 +96,3 @@ The sub-Saharan African evidence makes that gap concrete under material constrai
 A 2026 quasi-experiment in a Chinese virology laboratory course rebuilt the module around a course knowledge graph, a graph-grounded retrieval assistant, adaptive routing with published thresholds, and virtual simulation, then compared 30 students with 30 in the unchanged course. The experimental class scored 11.4 points higher on the final theory examination (d = 1.39) and 13.3 points higher on the laboratory operation checklist (d = 1.61).([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]])
 
 Two cautions travel with the numbers: allocation was by intact class, so clustering is unmodelled and the intervals are likely too narrow, and the four components were introduced together, so the effect belongs to the package rather than to the knowledge graph or the assistant.
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — the nursing strand of health-professions education
-- [[virtual-and-augmented-reality]] — immersive and AR clinical training
-
-## Connected Articles
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI-powered PBL and CBL in medical and dental education: six RCTs, only two CBL (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI-assisted digital pathology improves diagnostic performance and reduces experience-related performance gaps in pathology residents interpreting prostate biopsies
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Health AI curricula teach ethics (80.6%) but rarely data provenance (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Repeated runs do not reproduce the same grade
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping review mapping educational AI competency frameworks onto a 12-part KAS map
-- [[agency-gap-ai-writing]] — Reactive versus proactive AI writing agents in health-professions training: the agency gap
-- [[federated-learning-at-risk-student-prediction-2026]] — Federated at-risk prediction across HPE programs: a negligible privacy cost, and why an imported threshold misfires
-- [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-- [[alshahrani-health-sciences-ai-use-2026]] — Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula
-- [[ago-prompt-literacy-allied-health-2026]] — Prompt literacy across six Ghanaian allied-health programs: routine GenAI use without training, subscription and connectivity constraints, and a prompt-verification paradox where prior knowledge is thinnest (Ago et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

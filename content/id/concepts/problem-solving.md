@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,7 +59,6 @@ Bagi pendidik, keseimbangan bukti mengarah pada integrasi terstruktur yang beror
 
 Pemecahan masalah adalah hasil terapan dari [[critical-thinking|berpikir kritis]] dan [[computational-thinking|berpikir komputasional]], dan ditumbuhkan melalui kerangka [[problem-based-learning|pembelajaran berbasis masalah]] dan [[inquiry-based-learning|pembelajaran berbasis inkuiri]]. Ia bergantung pada [[scaffolding]] yang mempertahankan tuntutan kognitif, pada [[self-regulated-learning|regulasi diri]] dan pengawasan [[metacognition|metakognitif]] untuk menghindari [[cognitive-offloading|pelimpahan kognitif]], serta pada struktur [[collaborative-learning|kolaboratif]] tempat manusia dan AI bekerja bersama. [[cognitive-psychology|Psikologi kognitif]] dan literatur [[transfer-of-learning|transfer belajar]] menyediakan landasan teoretis bagi mengapa masalah yang dihasilkan siswa dan umpan balik reflektif menghasilkan [[learning-gains|keuntungan pemecahan masalah]] yang lebih bertahan. Keseimbangan antara contoh yang dikerjakan versus latihan untuk memperoleh keterampilan semacam itu sendiri bergantung pada konten: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] menunjukkan keterampilan pemecahan masalah yang dapat digeneralisasi paling baik dipelajari melalui latihan terintegrasi contoh (bergantian antara contoh yang dikerjakan dan masalah), karena contoh yang dikerjakan memasok informasi induktif yang dibutuhkan untuk memperoleh dan menggeneralisasi aturan yang benar, sementara latihan murni berisiko memperkuat fitur yang berkorelasi semu alih-alih prosedur umum.
 
-
 ## Mensimulasikan Pemecahan Masalah Kolaboratif dengan Agen LLM
 
 - **Mensimulasikan pemecahan masalah kolaboratif dengan agen [[llm]] yang spesifik per partisipan.** Fang (2026) melatih agen LLM individual pada dialog partisipan nyata untuk mereproduksi pemecahan masalah kolaboratif, dan memvalidasi [[simulation|simulasi]] itu dengan [[network-analysis|Epistemic Network Analysis]], yang menunjukkan dialog simulasi dan nyata secara statistik tak dapat dibedakan (jarak ENA 0.17; p permutasi = 0.65). Ini menawarkan cara yang terukur untuk mempelajari dan menghasilkan wacana pemecahan masalah kolaboratif yang autentik — dengan implikasi bagi penelitian maupun desain lingkungan latihan untuk keterampilan abad ke-21 ini.
@@ -90,28 +91,3 @@ Pemecahan masalah adalah hasil terapan dari [[critical-thinking|berpikir kritis]
 **Untuk peneliti**
 
 - Simulasi agen spesifik per partisipan adalah instrumen kuat untuk mempelajari regulasi kolaboratif. Laporkan sebagai demikian alih-alih sebagai bukti tentang kolaborasi siswa tanpa pengawasan.
-
-## Konsep terkait
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Artikel terkait
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Profil interaksi (penalaran yang dilimpahkan vs interpretasi bersama) dan pertukaran efisiensi–regulasi
-- [[ai-assisted-collaborative-learning-model-dbr]] — Model DBR yang memposisikan AI generatif sebagai mitra belajar cerdas
-- [[llm-critical-thinking-teamwork-review]] — Tinjauan PRISMA atas LLM yang menumbuhkan berpikir kritis, kerja tim, dan pemecahan masalah
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Perancah adaptif hasil penambangan urutan untuk pemecahan masalah kolaboratif
-- [[genai-assisted-problem-posing-physics-2026]] — Pengajuan masalah sebagai strategi pembelajaran teratur mandiri dengan GenAI
-- [[genai-feedback-design-multisite-experiment]] — Umpan balik reflektif/hibrida mengungguli AI langsung pada transfer tertunda
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot meningkatkan pengajuan masalah siswa sekolah dasar dalam pembelajaran berbasis inkuiri
-- [[llm-computational-thinking-physics-2026]] — LLM sebagai penilai terukur atas pemecahan masalah komputasional dalam fisika
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Perancah terpandu aturan vs ad hoc dalam sistem tutoring LLM untuk matematika sekolah dasar (Looi dkk. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

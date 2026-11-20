@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -156,76 +158,3 @@ Un exemple travaillé du modèle de cohorte vient d'une bibliothèque universita
 **« La culpabilité liée à l'usage de l'IA indique une transgression des règles. »** Elle suit la dissimulation plutôt que la déclaration : limiter son usage de l'IA par malaise était corrélé au fait de le cacher, et non à un comportement interdit. Lire la culpabilité comme preuve de manquement identifie donc mal sa source, et la traiter comme un signal de conformité poussera le comportement plus loin encore hors du regard.
 
 **« Un faible taux de réponse à l'enquête signifie que le corps enseignant n'a pas d'opinion arrêtée. »** L'article lit ses **109 réponses (un taux de 3,5 %)** comme informatives en elles-mêmes sur l'état du débat éthique : une faible réponse à une question sur le malaise est un constat sur ce malaise, non une absence de malaise. Et une intégration de l'IA générative formulée uniquement comme montée en compétences manque la question identitaire que certains enseignants posent réellement : quel est le sens de l'enseignement dans un monde façonné par l'IA générative.
-
-## Concepts liés
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-- [[metaphors-and-analogies]] — L'élicitation de métaphores et la conception d'analogies dans le développement éducatif
-
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — Ombrelle : les personnes et les publics de l'IA en éducation (apprenants, enseignants, concepteurs, administrateurs, responsables de politiques)
-
-## Articles liés
-
-- [[jordan-faculty-ai-oer-creation-2025]] — De l'invite à la pratique : une initiative centrée sur les enseignants pour explorer la création de REL assistée par IA (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analyse critique du discours des conseils d'alignement sur l'IAG : les développeurs recadrés en formateurs aux technologies
-- [[crompton-faculty-technology-integration-standards-2026]] — Les normes d'intégration des technologies destinées aux enseignants (RPC)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Les dimensions éthiques de l'IA : les points de vue des enseignants et des étudiants
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Comment les métaphores des enseignants d'ingénierie construisent (et limitent) la compréhension de l'IA
-- [[fear-awe-genai-metaphor-workshops-2025]] — Peur et émerveillement : donner sens à l'IA générative par la métaphore (atelier pour enseignants, personnel et étudiants sur les métaphores réunissant enseignants, personnel et étudiants)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Quatre critères et quatre métaphores pour enseigner la littératie critique en IA
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Gouverner l'invisible : la littératie en IA chez les enseignants de langues
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — L'IAG comme crise d'identité, et non comme écart de compétences
-- [[zuo-instructor-power-genai-writing-2026]] — Rapports de pouvoir perçus par des enseignants universitaires aux prises avec l'IA générative en écriture (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Le Reflective Triangle Model : l'IA comme médiateur cognitif
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Connaissance auto-perçue du TPACK-21 par les enseignants pour l'IAG (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Développement professionnel Intelligent-TPACK : l'assiduité prédit les gains, la participation perçue par soi-même ne le fait pas
-- [[instructional-design-proficiency-masters-math-2026]] — Un modèle de classe intelligente et une boucle D-T-E améliorant la maîtrise de la conception pédagogique dans un master en éducation en mathématiques (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture des rôles dans les activités de groupe différenciées conçues par l'IA (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Les expériences et perceptions de l'IAG chez les enseignants universitaires : vulnérabilité, remise en question de l'évaluation, apprentissage des étudiants en danger (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — De la peur à l'innovation : un institut de formation des enseignants de six semaines, une pédagogie symbiotique, et les conditions institutionnelles qu'il n'a pas pu réunir
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Le complexe de culpabilité liée à l'IA : culpabilité anticipée, dissimulation et différences selon l'étape de carrière chez le personnel académique (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Enquête AAC&U/Elon auprès de 1,057 enseignants américains : manque de préparation institutionnelle, gouvernance mince et écart de politique de 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les développeurs académiques comme médiateurs numériques dans l'enseignement supérieur du Sud global : le développement comme praxis socio-technique
-- [[physics-faculty-learning-community-ai-2026]] — Une série d'ateliers pour un usage efficace de l'IA en des temps incertains : bâtir une communauté d'apprentissage pour les enseignants de physique
-- [[faculty-ai-well-being-social-supports-2026]] — Le bien-être des enseignants face à l'IA suit la littératie en IA plutôt que l'auto-efficacité technologique
-- [[ai-competence-framework-landscape-2026]] — Vérifier ce que décrivent les niveaux d'un cadre avant de l'adopter
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — L'éducation peut-elle fixer l'agenda de l'IA ? Innovation simulée et fixation des directions pédagogiques en formation des enseignants
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 enseignants de chimie dans un programme de six semaines
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Plus de 150 enseignants de langues de 28 pays sur 20 semaines
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 enseignants scandinaves ; gain de 0.20 écart-type sur les bénéfices perçus
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 enseignants après un programme d'apprentissage sur l'IAG, les besoins médiatisant l'engagement
-- [[bodek-prompted-to-explore-microlearning-2026]] — un modèle de microapprentissage de développement professionnel pour l'IA générative
-- [[bursic-ai-residency-education-curriculum-2026]] — une résidence en IA en éducation médicale
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ressources ; le développement des éducateurs comme l'un des quatre thèmes
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 enseignants demandant un développement animé par d'anciens enseignants
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% de montée en compétences du personnel et du corps enseignant en poste
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 éducateurs légitimant l'IA de l'ombre là où les orientations manquaient
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — des déficits de compétences orientant le développement des enseignants et les décisions de recrutement
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — un développement répété comme l'une des cinq couches de soutien
-- [[chen-future-faculty-development-ai-2027]] — Sept rôles enseignants, deux fondations universelles et l'équipe pédagogique comme unité de développement
-- [[ji-judgement-space-dialogic-inquiry-2027]] — L'espace de jugement, l'enquête dialogique et un audit à trois colonnes de ce qui a bougé vers un outil
-- [[jiang-faculty-development-japan-2027]] — Le double dispositif japonais de développement pédagogique : la participation a augmenté, les formats collégiaux non
-- [[tian-transnational-faculty-development-governance-2027]] — Développement pédagogique transnational : la connectivité est épisodique, la coordination est le travail
-- [[ho-invariant-core-faculty-development-2027]] — Noyau invariant, frontière changeante : le mécanisme de l'apprentissage avant la technologie

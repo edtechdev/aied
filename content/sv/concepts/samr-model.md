@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -80,28 +82,3 @@ SAMR förstås bäst som en lins för integrationsdjup som används i planering 
 **"SAMR och TPACK är konkurrerande ramverk."** De beskriver olika saker: SAMR beskriver *graden av transformation* i en uppgift, medan [[tpack|TPACK]] beskriver den *kunskap* en lärare behöver för att integrera teknik väl. En lärare kan vara mycket TPACK-kompetent och ändå arbeta på substitutionsnivå, vilket är varför de två används tillsammans i stället för att väljas emellan.
 
 **"Ett verktyg som är transformativt på en nivå är transformativt på alla nivåer."** Samma generativa verktyg kan stödja en substitution i en kurs och en omdefiniering i en annan, eftersom nivån är en egenskap hos uppgiftsdesignen snarare än hos tekniken. Att tillskriva nivån till verktyget leder till adoptionsbeslut i stället för designbeslut.
-
-## Anslutna begrepp
-
-- [[ai-education]] — AI i utbildningen (paraply)
-- [[tpack]] — Teknologisk pedagogisk innehållskunskap
-- [[technology-acceptance-model]] — Modeller för teknikadoption
-- [[icap-framework]] — ICAP-ramverket för kognitivt engagemang
-- [[ai-technologies]] — AI-tekniker och -metoder
-- [[teacher-ai-competency]] — Lärarnas AI-kompetens
-- [[educational-development]] — Utveckling av undervisningen
-- [[learning-design]] — Lärandedesign
-- [[k-12]] — K-12-utbildning
-- [[higher-ed]] — Högre utbildning
-- [[generative-ai]] — Generativ AI
-
-## Anslutna artiklar
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI-integration i högre utbildning graderad med SAMR: mestadels substitution/augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP och SAMR som mappar de fyra scenarierna från matlagning till lärande
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR bland linserna för GenAI-driven kursplaneförändring
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR bland de ramverk som informerar fakultetens teknikstandarder
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Den posthumanistiska kritiken av SAMR:s humanistiska ontologi
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR:s tystnad om makt, dataägande och ansvarsutkrävande
-- [[genai-use-changing-institutional-policy-physics-2026]] — Elevers GenAI-användning under förändrad institutionell policy: användningsfunktioner mappade mot SAMR-nivåer (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI i matematikklassrum: en synergistisk strategi för mångfald och inkludering

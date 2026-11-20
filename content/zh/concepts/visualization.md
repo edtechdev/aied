@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -74,26 +76,3 @@ ai_assist:
 - **“更好的可视化产生更好的结果。”** 教师**系统性地偏好更简单、更传统可视化**（条形图、饼图、图例），**即便热力图这类复杂设计产生了更细致的洞见**。信息更丰富的制品并不是被使用的那个，因此采纳是与设计质量不同的问题。
 - **“学生会看支架所在之处。”** 一项研究发现，学生**尽管有精心设计的视觉支架，大部分注视仍落在代码上**：这些辅助设施根本没有抓住注意力。存在却无人观看的视觉支持，什么也改变不了。
 - **“参与与理解一起移动。”** 参与者认为 AI 生成的数据漫画**更有吸引力、更易理解，同时也有许多人指出了错误信息风险与信息过载**。两种反应来自同一件制品，因此正面的接受并不等于经过验证的阅读。
-
-## 关联概念
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — 空间与三维表示
-
-## 关联文章
-
-- [[interactive-learning-dashboards-engagement]] — 通过教学智能体把学习可视化重新构想为参与工具
-- [[mllm-scientific-visualization-literacy]] — 为科学可视化素养基准化多模态大语言模型
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 用于核概念可视化的经领域适配的文本转图像模型
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI 辅助数据漫画的有效性、收益与伦理
-- [[cfes-p24-multimodal-slide-auditing-2026]] — 面向多模态幻灯片审计的反事实基准
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 在混合课堂中让机器学习发现对教师可及
-- [[genai-visualization-education-framework-2026]] — 建构意义，而非仅图表：生成式 AI 在可视化教育中使用的认知—教学框架
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 新一代文献综述：面向新学者的实用 AI 指南

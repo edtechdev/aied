@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -118,47 +120,3 @@ AI اوتار کسی ماڈل سے چلنے والی پیش کی گئی یا م�
 **"اوتار کی ظاہری شکل سطحی ہے۔"** شناختی اشاروں نے اعتبار کے درجوں اور رہنمائی کی فعلی قبولیت کو بدلا، اور عمر رسیدہ سیاہ فام خواتین کے اوتاروں کے لیے سزائیں مرکب ہوتی گئیں۔([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) تشکیل تدریسی اور مساوات کا فیصلہ ہے۔
 
 **"سمولیشن شدہ مریض معیاری مریض ہے، بس کم قیمت۔"** زیرِ تربیت ماہرین نفسیات نے اپنے ورچوئل مریض کو تعاون کرنے والا اور تھراپی میں پہلے ہی آگے پایا، ایک "مثالی" کیس جو برتاؤ کی لچک کی کمی کو کم پیش کرتا ہے۔([[ai-psychotherapy-training-avatars]]) قیمت گرتی ہے؛ کیس کا اعتبار خود بخود نہیں آتا۔
-
-## منسلک تصورات
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## منسلک مضامین
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — اوتار کی شناختیں اعتبار اور رہنمائی کی قبولیت بدلتی ہیں (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — مشق پر مبنی اساتذہ کی تربیت میں طالب علم اوتاروں کی گفتگو (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — AI لیٹریسی ورکشاپ میں جنس کے لحاظ سے ڈیپ فیک بنانا اور رپورٹ کرنا
-- [[elevate-genai-virtual-tutors]] — مقامی اولیت والے تھری ڈی اوتار ٹیوٹر، استاد کی گورننس تہہ کے ساتھ (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — کلینیکل مواصلات کے لیے LLM جج کے ساتھ اوتار مریض
-- [[genai-simulate-patient-history-pbl-2026]] — PBL تاریخ لینے کے ٹیوٹوریل میں genAI مریض اوتار
-- [[ai-psychotherapy-training-avatars]] — سائیکوتھراپی تربیت میں ACT وفاداری کی مشق کے لیے مریض اوتار
-- [[aclime-pedagogical-agents-extended-reality-2026]] — توسیعی حقیقت میں تدریسی ایجنٹ: موجودگی، حقیقت پسندی اور بوجھ (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — تماشائی کی مداخلت کے لیے کٹھ پتلی اوتار کے ساتھ روبوٹ کی وساطت سے رول پلے
-- [[personalized-ai-generated-videos-preference-2026]] — کلون شدہ استاد کی ویڈیو ذاتی نوعیت اور طلبہ کی ترجیح
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — چار تہوں کا فریم ورک جو کلاس روم سمولیشن میں نمائندگی کو ایجنسی سے الگ کرتا ہے
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — کورس فیڈبیک انٹرویوز کے لیے تجویز کردہ گفتگو والا صوتی ایجنٹ
-- [[trikonet-trivalence-co-creativity-2026]] — سماجی-تکنیکی نیٹ ورکس میں شریک تخلیقی تدریسی اوتار (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 میں سے صرف 51.7% طلبہ نے دیے گئے انسانی نما کردار چنے؛ ایک نے اسے فیڈبیک کی وینڈنگ مشین کہا

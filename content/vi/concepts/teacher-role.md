@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -193,87 +195,3 @@ Quyền uy tri thức trong việc lập kế hoạch có AI hỗ trợ được
 **"Giáo viên đã là những người đồng thiết kế AI, nên sự chuyển dịch đang diễn ra."** Khát vọng là thật; phần mô tả thì chưa. Tổng quan hệ thống của [[wang-teacher-ai-co-design-review-2026|Wang, Liu và Islam (2026)]] về đồng thiết kế nhiệm vụ học tập giữa giáo viên và AI phát hiện lập trường đồng thiết kế **vẫn chưa đồng đều**, với mô thức chiếm ưu thế vẫn là AI như trợ lý hoặc nguồn tạo nội dung. Đọc tổng quan đó như bằng chứng về một sự chuyển dịch đã hoàn tất sẽ che giấu khoảng cách giữa những giáo viên mà một trang như thế này khuyến nghị và những giáo viên mà phần lớn các thể chế thực sự có.
 
 **"Cách một giáo viên ủy thác cho chatbot hầu như không quan trọng, vì mô hình làm công việc."** Mô thức ủy thác chính là can thiệp. Trong việc lập kế hoạch bài học nghệ thuật STEAM cho trẻ em, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo và Tahir (2025)]] phát hiện bằng thực nghiệm rằng việc lấp đầy các khoảng trống nội dung trong một bài học *do chính mình phác thảo* bảo tồn quyền tự chủ thiết kế của giáo viên trong khi vẫn nâng cao chất lượng bài học được chuyên gia đánh giá (trung vị 20.5 so với 17.6, p = 0.002, hiệu ứng lớn), vượt trội so với phương án để mô hình cung cấp dàn ý. Cùng mô hình, cùng nhiệm vụ, cách phân công lao động khác, kết quả khác biệt về vật chất.
-
-## Khái niệm liên quan
-- [[pedagogical-partnerships]] - Quan hệ đối tác sư phạm
-- [[learner-identity]] - bản sắc người học đang tiến hóa theo ngành học, nghề nghiệp, sáng tạo và học thuật
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] - Ôm trùm: các phương pháp sư phạm và chiến lược giảng dạy trong giáo dục AI
-- [[stakeholders]] - Ôm trùm: con người và các đối tượng trong giáo dục AI (người học, giáo viên, nhà thiết kế, nhà quản lý, nhà hoạch định chính sách)
-
-- [[reflection]]
-
-## Bài viết liên quan
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Bốn động thái bản sắc, sự lưỡng lự có ích, và cái giá thể chế của công việc quan hệ
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 trường trung học Anh: thời gian chuẩn bị bài giảm 25.3 phút mỗi tuần mà không phát hiện mất chất lượng (Roy và cộng sự, 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — Thử nghiệm ngẫu nhiên trên ASSISTments: tóm tắt do AI tạo tăng tỷ lệ hoàn thành bài tập nhưng không tăng điểm cấp lớp (Lim và cộng sự, 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Học giả theo hợp đồng gánh công việc liêm chính mà không có thẩm quyền
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Nghịch lý nhiều con người hơn: các kịch bản 2030 của chuyên gia cho thấy sự bão hòa AI làm tăng cường chứ không thay thế công việc sư phạm của con người (Malyn-Smith và cộng sự 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Sáu bài học toán trung học được quan sát mở rộng điều phối công cụ với ba kiểu mới (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Phản ứng với các cảnh báo cảm xúc do AI tạo ra: can thiệp của giáo viên và sự tham gia của học sinh trong lớp học toán
-- [[edustories-classroom-case-studies-2026]] — Edustories: Tuyển tập các tình huống thực tế từ thực hành lớp học
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Giáo viên thiết kế chatbot lớp học như những chuyên gia có giới hạn và giữ lại quyền uy
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI như "kẻ thù-và-bạn": giáo viên ưa thích bán tự chủ, tính hữu ích dẫn dắt việc tiếp nhận, ác cảm rủi ro nhắm vào việc sử dụng của sinh viên (Dai và cộng sự 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — Ra quyết định của giảng viên có AI hỗ trợ trong giáo dục đại học
-- [[chirikov-regulate-ai-syllabi-2026]] — Cách giảng viên quản lý AI qua 31,000 đề cương khóa học; quản lý ở cấp nhiệm vụ (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Lãnh đạo triết học như một vai trò giảng dạy ba giai đoạn: phán đoán đạo đức, hướng dẫn sư phạm, chuyển dịch chính sách (Socorro Márquez và cộng sự, 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Hành vi đổi mới giảng dạy với AI ở giảng viên đại học (SEM AI-TPACK; Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI như khủng hoảng bản sắc, không phải khoảng trống kỹ năng
-- [[lodge-loble-cognitive-offloading-2026]] — AI, giảm tải nhận thức và hàm ý cho giáo dục (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI và thực hành thiết kế giảng dạy: một tổng quan hệ thống (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI có thể cung cấp hỗ trợ phù hợp cho các hồ sơ sinh viên đa dạng không? Một đánh giá quy mô lớn
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Sinh viên ma và AI tác tử trong đánh giá
-- [[wang-teacher-ai-co-design-review-2026]] — Đồng thiết kế nhiệm vụ học tập giữa giáo viên và AI: xu hướng và góc nhìn (Wang và cộng sự 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Trải nghiệm và cảm nhận của giảng viên đại học về GAI: dễ bị tổn thương, suy nghĩ lại về đánh giá, việc học của sinh viên bị đe dọa (Farazouli và cộng sự 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Phán đoán giá trị khi chấm bài làm có GenAI hỗ trợ: trung thực, niềm tin, tính hợp lệ và minh bạch hai chiều (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Làm cho các phát hiện học máy dễ tiếp cận với giáo viên trong lớp học kết hợp
-- [[li-language-educators-genai-review-2026]] — Thực hành và phát triển của nhà giáo dục ngôn ngữ với GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Căng thẳng bản sắc và tính chọn lọc có nguyên tắc trong giảng dạy tích hợp AI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Can thiệp của giáo viên trong giảng dạy dựa trên AI ở K-12: một tổng quan hệ thống
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Nhà phát triển học thuật như những người trung gian số: tái cấu hình vai trò, lao động cảm xúc và phán đoán ở các cơ sở khó khăn về lịch sử ở Nam Phi
-- [[where-ai-enters-teacher-work-2026]] — Nơi trí tuệ nhân tạo bước vào công việc của giáo viên
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED không cần thiết bị: giáo viên như người đại diện giữa người học và AI, một bán thực nghiệm 19 lớp nơi đào tạo và việc giảm nỗ lực gián tiếp dẫn dắt mức tăng (Rodrigues và cộng sự 2026)
-- [[instructional-governance-design-computing-education-2026]] — Quản trị giảng dạy bằng thiết kế: một khuôn khổ cho AI trong giáo dục khoa học máy tính
-- [[teachers-configure-educational-chatbots-2026]] — Liệu nó có dạy như dự định? Cách giáo viên cấu hình các chatbot AI giáo dục
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Trung gian của giáo viên trong toán học: năm thực hành trung gian phê phán, quyền uy đang dịch chuyển, và sự chia tách thuật toán miễn phí so với cao cấp
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Sẵn sàng của giáo viên qua thiết kế: sẵn sàng như năng lực thiết kế, không phải mức tiếp nhận hay sự tự tin (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Phản hồi của giáo viên có ChatGPT hỗ trợ: giáo viên tuyển chọn các bản nháp AI thay vì chuyển tiếp chúng
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Từ năng lực đến quyền chủ động: quan điểm của giáo viên về mục đích của giáo dục AI
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Người điều hành tranh luận là con người so với AI: đánh giá tương đương, con đường dùng lại khác nhau
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI trong giáo dục lập trình: một tổng quan hệ thống trong đó vai trò giảng viên ít được nghiên cứu nhất
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Từ người cung cấp thông tin đến nhà thiết kế học tập: thực hành giảng dạy heutagogical trong giáo dục tăng cường AI
-- [[falhs-teacher-expertise-reflection-2025]] — Các mức chuyên môn định hình sở thích và nhu cầu phản tư như thế nào: hướng tới các hệ thống phản tư AI trao quyền cho giáo viên (Falhs và cộng sự 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Chẩn đoán bằng AI hội thoại cho việc dạy các hiểu lầm với đối thoại có nền tảng bằng chứng (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Việc dùng AI không có tác động trực tiếp lên hiệu suất giáo viên; hành vi công dân làm trung gian (Sherly và cộng sự 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 tình huống cho thấy quyền uy được giữ lại, chia sẻ hay nhường lại trong việc lập kế hoạch bài học có AI hỗ trợ
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Nhận thức của sinh viên về diễn đàn thảo luận: một nghiên cứu theo Mô hình Chấp nhận Công nghệ để định hướng thiết kế phân tích học tập có AI
-- [[gnadlinger-educator-perspectives-its-design-2026]] — Hướng tới việc đưa góc nhìn nhà giáo dục vào thiết kế siêu hệ thống của các hệ thống gia sư thông minh
-- [[chen-future-faculty-development-ai-2027]] — Giáo viên như người chỉ huy chuyên môn của người khác, với các vai trò được phân bổ trong một nhóm giảng dạy
-- [[li-instructor-designed-ai-rct-2026]] — AI do giảng viên thiết kế cải thiện việc học trong một thử nghiệm ngẫu nhiên trên 19 trường đại học (Li và cộng sự, 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -66,33 +68,3 @@ ai_assist:
 - **"[[usability-research|قابلِ استعمال]] ہونے کی درجہ بندی معاون ٹول کی تصدیق کرتی ہے۔"** پریکٹیشنرز نے شریک ڈیزائن کردہ Social Story ٹول کو **بہت زیادہ قابلِ استعمال (SUS 86.8)** بتایا پھر بھی اُس کی **تصاویر کو عمومی طور پر مغربی** اور اُس کے **رویہ ٹریکر کو ہدف سے جڑے کلینیکل فیصلے سے غیر مطابق** قرار دیا۔ زیادہ قابلِ استعمال ہونا ٹھوس ناکامیوں کے ساتھ موجود تھا، چنانچہ SUS اسکور موزونیت کی توثیق نہیں۔
 - **"عمومی بینچ مارک بتاتے ہیں کہ ٹیوٹر خصوصی تعلیم کے کیس کیسے سنبھالتا ہے۔"** خصوصی تعلیم اور تعلیمی نفسیات کے ادب سے لیے گئے **923 کیس پر مبنی مکالموں** میں **11 ماڈلوں میں بہترین** نے کوئی دستاویز شدہ کسوٹی پوری کی — اور **یہ اُس کنارے تک ہے جہاں تک ٹیوٹر کا بینچ مارک پہنچتا ہے**۔ معیاری جانچ اُن کیسوں تک نہیں پہنچتی جن میں پریکٹیشنرز کو سب سے زیادہ مدد درکار ہوتی ہے۔
 - **"عصبی متنوع سیکھنے والوں کو سہولتیں درکار ہیں، ڈیزائن کی شرطیں نہیں۔"** [[neurodivergent-computing-students|Zastudil وغیرہ]] نے پایا کہ عصبی متنوع کمپیوٹنگ طلبہ کو **منظم اسائنمنٹ، چھوٹی مستقل ٹیمیں اور واضح کردار کی تعریفیں** درکار ہیں — یہ عمومی ڈیزائن شرطیں جو سب کو فائدہ دیتی ہیں، نہ کہ تشخیص کے بعد دی گئی انفرادی تعدیلیں۔
-
-## منسلک تصورات
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## منسلک مضامین
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: چیلنجنگ رویوں والے طلبہ پر LLM ٹیوٹروں کی جانچ (Park وغیرہ 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — سیکھنے کی معذوری والے طلبہ کے لیے GenAI کی علمی منتقلی
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — بہرے و کم شنوائی والے سیکھنے والوں کے لیے LLM سے چلنے والی سوال کی پیدائش
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — جنریٹو AI، ورچوئل رئیلٹی اور آگے: اعلیٰ تعلیم میں عصبی متنوع طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیوں کا دائرہ کار جائزہ
-- [[adapted-stories-social-story-intervention-2026]] — خصوصی تعلیم کے لیے AI کی معاونت والی Social Story مداخلت: AdaptED Stories کا ڈیزائن
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — ایک وژن-لینگویج ماڈل Nao روبوٹ کے لیے Shoebox Tasks کا منصوبہ بناتا ہے (Kudláčková 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -78,30 +80,3 @@ ai_assist:
 - **"প্রাধান্য একাডেমিক সততা রক্ষা করে।"** **সততার যৌক্তিকতা সবচেয়ে বড় পরীক্ষায় টেকেনি।** **চারটি তরঙ্গ ও 105 কোর্সের 1,760 শিক্ষার্থী** জুড়ে প্রাধান্য **পরীক্ষা-উদ্বেগ বাড়িয়েছে (β = 0.60, p < 0.001) কিন্তু কোনো** শনাক্তযোগ্য সততা-লাভ দেয়নি। মাপা প্রভাব পড়েছে শিক্ষার্থীদের উপর, প্রতারণার উপর নয়।
 - **"ভালো শনাক্তকরণ-সক্ষমতা মানে ভালো প্রাধান্য।"** **80টি পিয়ার-পর্যালোচিত গবেষণার (2014-2024)** এক দশক-ব্যাপী পদ্ধতিগত পর্যালোচনা দেখে উন্নত ML/DL প্রাধান্য প্রতারণা **বেশি** নির্ভুলভাবে শনাক্ত করে, এবং তা স্থাপন করলে আচরণ বদলায় কি না সে সম্পর্কে কিছুই বলে না। শনাক্তকরণ-কর্মদক্ষতা শ্রেণিবিন্যাসকের বৈশিষ্ট্য, মূল্যায়ন-ব্যবস্থার নয়।
 - **"আচরণগত সংকেত অসদাচরণের নির্ভরযোগ্য সূচক।"** ব্যবস্থা YOLOv11 দিয়ে **প্রতি ফ্রেমে সতেরোটি শরীর-ল্যান্ডমার্ক** অনুসরণ করে **ভঙ্গি-বিচ্যুতি, মাথা-প্রবণতা ও ঊর্ধ্বাঙ্গ-গতি**-র বৈশিষ্ট্য বের করে। এই গঠনগুলো প্রক্সি, এবং চিহ্নিত ভঙ্গি একটি লঙ্ঘনের পর্যবেক্ষণ নয়, একটি শরীর সম্পর্কে শ্রেণিবিন্যাস।
-
-## সংযুক্ত ধারণা
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — পরিধানযোগ্য এআই প্রাধান্য যে আচরণগত সংকেতের উপর নির্ভর করে তা সরিয়ে দেয় (Corbin, Sharpe ও Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — স্বয়ংক্রিয় অনলাইন পরীক্ষা-প্রাধান্যের এক দশক-ব্যাপী পদ্ধতিগত পর্যালোচনা
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — স্বয়ংক্রিয় প্রাধান্যে একাডেমিক অসততার ব্যাপক পর্যালোচনা
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Big Brother-এর ভয়: পরীক্ষা-উদ্বেগে প্রাধান্যের নেতিবাচক পার্শ্বপ্রতিক্রিয়া
-- [[biology-degree-integrity-genai-cheating-2026]] — শিক্ষার্থীরা কি প্রতারণা করে জীববিজ্ঞানের ডিগ্রি নিতে পারে? জেনারেটিভ এআই-এর যুগে জীববিজ্ঞান কোর্সের গ্রেডের একাডেমিক অসততার প্রতি দুর্বলতার কেস স্টাডি
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — নজরদারির অধীনে: নার্সিং শিক্ষার্থী-মূল্যায়নে রিমোট প্রাধান্য-অনুশীলনের মানচিত্র
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — প্রাধান্যযুক্ত, মুখোমুখি পরীক্ষায় 44.2% শিক্ষার্থী উচ্চ-ঝুঁকি হিসেবে চিহ্নিত, ঝুঁকি পূর্বাভাসিত সেমেস্টারের প্রথম দিকের LMS চিহ্ন থেকে

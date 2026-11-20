@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -66,24 +68,3 @@ ai_assist:
 **“AI 生成使不会写作的学生也能讲故事。”** 它使*产出书面制品*成为可能，这是另一种收益。口头叙述、绘画与听写是通往同一目标的既有路径，且它们保留了生成所移除的作者身份。
 
 **“故事的教育价值在于打磨后的结果。”** 它在于建构，即讲述者所做的选择与排序。一个学生并未组织过的打磨故事，展示的是模型的能力，而不是学习者的能力。
-
-## 关联概念
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## 关联文章
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — 机器人学与教育中的 AI
-
-- [[ai-generated-interactive-fiction-education-2026]] — AI 生成的交互式小说：22 名学生试点中连贯性是薄弱维度
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 幼儿园图画书制作中，故事契合与合理性成为评判 AI 图像的标准（Konca 与 Yigit-Gencten，2026）
-

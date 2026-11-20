@@ -10,6 +10,8 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 > **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
@@ -70,29 +72,3 @@ The framework's own authors supply a role taxonomy for that condition: [[ai-comm
 **"Presence is distributed evenly across a cohort."** It separates *inside* the condition rather than between conditions. In a quasi-experiment with **63 Chinese undergraduates (33 with a GPT-4o mini chatbot, 30 without)** annotating shared readings across five weekly tasks, the presences diverged by group achievement: high-achieving groups initiated **1407 feedback requests across 2319 annotations (60.7%)** against **737 across 2167 (34.0%)** in low-achieving groups. Access to the same tool reproduced an existing gap in the social behavior the framework measures.
 
 **"Adding a chatbot to an online course adds a presence."** It changes the mix. The framework's value under GenAI is that it makes the substitution visible: a presence satisfied by a model is a different configuration of the same construct, and the cohort data show the substitution paying off unevenly.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## Connected Articles
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21-study scoping review: presence evidence is uneven, teaching presence is least studied, and design configuration sorts the outcomes (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[llm-facilitation-timing-online-discussions]] — Human versus LLM facilitators: models intervene more eagerly than expert humans (Tsirmpas et al. 2026)
-

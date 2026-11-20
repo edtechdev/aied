@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -53,7 +55,6 @@ Davis (1989) نے تجویز کیا، TAM اپنانے کی وضاحت دو بن
 ### منصوبہ بند رویے کا نظریہ (TPB)
 TPB ارادے کی وضاحت رویے، موضوعی اصولوں اور سمجھے جانے والے رویاتی قابو سے کرتا ہے۔ AI اپنانے کے مطالعات میں اُسے اکثر TAM/UTAUT کے ساتھ جوڑا جاتا ہے — مثلاً [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] TAM، TPB، UTAUT اور FATE ([[bias-mitigation|انصاف]]، جوابدہی، شفافیت، اخلاقیات) فریم ورک کو یکجا کر کے طلبہ کے ChatGPT اپنانے کے رویاتی اور [[ethics|اخلاقی]] محرکات کا ماڈل بناتے ہیں۔
 
-
 اپنانے کی تحقیق عام طور پر ارادے پر رک جاتی ہے؛ TPB کی ایک توسیع جس نے حقیقی ارادے کے باوجود تاخیر ناپی، 1,243 انڈرگریجویٹس میں GenAI کی معاونت والی سیکھنے کی تاخیر کا سب سے مضبوط منفی پیش گو سمجھے جانے والا رویاتی قابو پایا (β = −0.331)، اور ارادے–تاخیر کا رشتہ صرف درمیانی سے زیادہ سیکھنے کی GenAI بے چینی پر نمایاں تھا ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]])۔
 
 ### جدت کا پھیلاؤ (DOI)
@@ -73,7 +74,6 @@ TOE اپنانے کو تکنیکی، تنظیمی اور ماحولی سیاق �
 - **توقع کے ثالثوں کے ساتھ ایک علمی ثالث:** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] ترکی کے 622 انڈرگریجویٹس میں [[ai-literacy|AI خواندگی]] کو [[self-efficacy|AI خود اعتمادی]] اور قبولیت کے درمیان رکھتے ہیں۔ بالواسطہ راستہ نمایاں تھا (B = 0.15, 95% CI [0.12, 0.19]) اور براہِ راست راستہ برقرار رہا (B = 0.43, R² = 0.29)؛ قبولیت نے AI [[anxiety-and-stress|بے چینی]] کے ساتھ بھی کمزور منفی تعلق دکھایا (B = -0.34, R² = 0.05)۔ جہاں نیچے کا [[trust-calibration|زیادہ بھروسے]] کا کام اعتماد کو کارکردگی کی توقع کے ذریعے گزارتا ہے، یہ مطالعہ اُسے اُس راستے سے گزارتا ہے جو طلبہ ٹیکنالوجی کے بارے میں جانتے ہیں۔
 - **نفسیاتی متعلقات:** [[acceptance-ai-english-tools-2026|Wu et al.]] TAM پر کھڑے ہو کر محرک، [[self-efficacy]]، بے چینی اور خطرے کے تصور کو AI کی معاونت والی انگریزی سیکھنے کی قبولیت سے جوڑتے ہیں۔
 - **[[regulation|ریگولیٹری]] قابلیت کی تنقید:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] دلیل دیتے ہیں کہ اپنانے پر مرکوز TAM ماڈل استعمال کو ایک مستحکم فیصلہ سمجھتے ہیں، جبکہ مؤثر AI استعمال فیصلے، نظرثانی اور انتخابی اپنانے کا جاری عمل ہے — جو [[ai-literacy]] کو قبولیت کے بجائے ریگولیٹری قابلیت اور [[critical-thinking]] کے طور پر دوبارہ بیان کرتا ہے۔
-
 
 [[tpack|TPACK]] خاندان کی صلاحیت کو Theory of Planned Behavior جیسے عقیدے کے فریم ورکوں کے ساتھ متوازی پیش گو کے طور پر جوڑنا construct کے باہمی تداخل کو دعوت دیتا ہے اور صلاحیت، رویے اور قابو کی سببی ترتیب کو غیر فیصلہ شدہ چھوڑ دیتا ہے؛ Capability–Decision Model اس کے بجائے AI-TPACK صلاحیت کو رویے اور سمجھے جانے والے رویاتی قابو سے اوپر رکھتا ہے ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]])۔
 
@@ -104,9 +104,7 @@ TAM کا علمی زور AI استعمال کی جذباتی اور تعلقات
 
 پھر ضروری شرط کے تجزیے نے اثر کو تقاضے سے الگ کیا۔ آسانی، جو سب سے اوپر درجہ بند پیش گو تھی، مکمل ناکام رہی (d = 0, p = 0.592)۔ افادیت ضروری مگر چھوٹی تھی (d = 0.027, p = 0.011)۔ مصنفین اِس تقسیم کو راستے گتانک کو فرش سمجھنے کے خلاف احتیاط پڑھتے ہیں۔ مضبوط گتانک کہتا ہے کہ آسانی کی ایک اکائی اوسطاً ارادہ خریدتی ہے؛ صرف ضرورت بتاتی ہے کہ دوسرا عقیدہ غیر حاضر ہو سکتا ہے یا نہیں۔
 
-
 خطرے کا استعمال سے رشتہ نظام پر بھی منحصر ہے: 49 TALIS 2024 نظاموں میں جنہوں نے آئٹمز شامل کیے، سمجھی جانے والی AI افادیت تمام 49 میں AI استعمال کے ساتھ مثبت طور پر منسلک تھی، جبکہ سمجھا جانے والا خطرہ 40 میں منفی اور نو میں مثبت طور پر منسلک تھا ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]])۔
-
 
 **کارکردگی کی توقع ایسا رشتہ اُٹھا سکتی ہے جسے قبولیت کی تحقیق استعمال کے ارادے کے طور پر پڑھتی ہے۔** [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] میں کارکردگی کی توقع نے AI پر حد سے زیادہ بھروسے کی B = 0.6107 پر پیش گوئی کی اور وہ پہلا ثالث تھا جس کے ذریعے خود اعتمادی، داخلی محرک اور [[motivation|خارجی محرک]] حد سے زیادہ بھروسے تک پہنچے۔ صرف توقع کا بالواسطہ راستہ تینوں پیش گوؤں کے لیے مثبت تھا، خود اعتمادی کے لیے 0.1355 (95% CI [0.0542, 0.2330])، اس لیے توقع محض یہ پیش گوئی نہیں کر رہی تھی کہ طلبہ ٹول استعمال کریں گے یا نہیں۔
 
@@ -115,55 +113,3 @@ TAM کا علمی زور AI استعمال کی جذباتی اور تعلقات
 - **"TAM کے constructs اپنانے کی وضاحت کرتے ہیں۔"** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] نے بنگلہ دیش کے انجینئرنگ طلبہ کے لیے TAM کو UTAUT کے ساتھ یکجا کیا اور تغیر کا **64%** بیان کیا۔ بیک وقت کافی اور نامکمل: اپنانے کو چلانے والی تقریباً ایک تہائی چیز کلاسیکی قبولیت constructs سے باہر ہے۔
 - **"قبولیت کے ماڈلوں کو شعبے کی ترمیم کی ضرورت نہیں۔"** کلاسیکی constructs میں **سمجھی جانے والی مصنوعی خودمختاری** — کہ اساتذہ کتنا سمجھتے ہیں کہ GenAI کوئی سونپا گیا تدریسی کام کتنی خودمختاری سے کر سکتا ہے — اور **خطرے سے گریز** جوڑنے سے ماڈل ٹھوس طور پر بدلا۔ اصل constructs اُن ٹولز کے لیے بنے تھے جن میں ایجنسی نہیں، اور GenAI میں سمجھی جانے والی ایجنسی ہے۔
 - **"میٹا تجزیاتی اپنانے کا تخمینہ کسی بھی آبادی کو بیان کرتا ہے۔"** [[teo-ai-adoption-tertiary-meta-analysis-2026|اعلیٰ تعلیمی طلبہ کا میٹا تجزیہ]] آبادی کی سطح کا تخمینہ ہے؛ 64% بیان کرنے والا انجینئرنگ کا نتیجہ ایک مخصوص آبادی کا ہے۔ ایک کو دوسرے پر ڈالنا ایسا استحکام فرض کرتا ہے جو ثبوت قائم نہیں کرتا۔
-
-## منسلک تصورات
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## منسلک مضامین
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — مضمون مخصوص عقائد TAM تصورات سے اوپر رکھے گئے
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI بطور "frenemy": مصنوعی خودمختاری اور خطرے سے گریز اساتذہ کے لیے TAM کو بڑھاتے ہیں (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — نرسنگ میں AI کے تجربات؛ TAM کی نفسیاتی-سماجی توسیع
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — گروہ بندی کے ذریعے GenAI اپنانے کی شخصیات
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI اپنانے میں ہم آہنگ اور غیر ہم آہنگ راستے (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — جنس اور محرک کے لحاظ سے GenAI شمولیت میں فرق
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — اعلیٰ تعلیم میں تنظیمی AI اپنانے کا TOE + DOI ماڈل
-- [[tam-critical-use-genai-engineering-2026]] — انجینئرنگ/CS طلبہ کے لیے تنقیدی استعمال کے ساتھ توسیع شدہ TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — انجینئرنگ تعلیم کے لیے متحد سماجی-علمی ماڈل (TAM + UTAUT)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI بے چینی سے اسٹریٹجک ضابطگی تک
-- [[genai-reliance-types-scale]] — GenAI انحصار کی اقسام کا پیمانہ
-- [[llm-reliance-types-undergrad]] — انڈرگریجویٹس میں LLM انحصار کی اقسام
-- [[acceptance-ai-english-tools-2026]] — AI انگریزی ٹولز کی قبولیت
-- [[genai-chatgpt-adoption-ethics-students-2026]] — طلبہ کے ChatGPT اپنانے کے رویاتی اور اخلاقی محرکات
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT اور استاد کے چیٹ بوٹ کی محرک
-- [[pre-service-science-teachers-ai-perceptions-2026]] — گھانا کے زیرِ تربیت سائنس اساتذہ کے لیے UTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — زیرِ تربیت اساتذہ کے ChatGPT قبولیت کے پروفائلز (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — AI اپنانے کے عوامل کا میٹا تجزیہ؛ TAM/UTAUT پر تنقید
-- [[determinants-chatgpt-use-higher-education-2026]] — اعلیٰ تعلیم میں مستقبل کے ChatGPT استعمال کے ML/SHAP عوامل
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI سے بڑھایا گیا UTAUT2: عادت سب سے مضبوط پیش گو، چار اپنانے کے پروفائلز (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — عمر کے لحاظ سے درجہ بند AI خواندگی گائیڈ بکس کے لیے مواد کی سطح کا PE/EE/لطف انگیزی/ارادہ ماڈل، لطف انگیزی–ارادہ construct کے دستاویز شدہ باہمی تداخل کے ساتھ
-- [[risk-perception-genai-perceived-benefits-2026]] — TAM/UTAUT2 میں ضم شدہ CAT + PMT: سمجھے جانے والے GenAI فائدوں پر جہت مخصوص اور غیر یک رخی خطرے کے اثرات (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — TPACK صلاحیت کو Theory of Planned Behavior اپنانے کے ماڈلوں پر چپکانے کا ترتیب شدہ متبادل
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 نظاموں میں سمجھی جانے والی AI افادیت اور خطرے کے TALIS 2024 کے فرد مرکز پروفائلز
-- [[genai-learning-procrastination-planned-behavior-2026]] — TPB کی توسیع جو GenAI کی معاونت والی سیکھنے کی تاخیر اور ارادے–تاخیر کے رشتے پر بے چینی کی اعتدال پسندی ناپتی ہے
-- [[kim-overtrust-ai-literacy-2026]] - کارکردگی کی توقع نے محرک اور خود اعتمادی سے AI پر حد سے زیادہ بھروسے تک راستے میں ثالثی کی
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI خواندگی بطور خود اعتمادی اور قبولیت کے درمیان ثالث، غیر تصحیح شدہ بے چینی کے تعلق کے ساتھ (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM کو ٹاسک–ٹیکنالوجی فٹ کے ساتھ جوڑنا، نیز نیٹ ورک کی اہمیت کی درجہ بندی اور ضروری شرط کی حدیں (Chu اور Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM عقائد سے اوپر ڈیزائن کی خصوصیات، اور ایسی اہمیت جو ضرورت نہیں
-- [[pinedo-genai-adoption-marketing-students-2026]] — پہلے ہی اپنانے والی آبادی میں عادت UTAUT2 اٹھاتی ہے
-- [[stalboerger-faculty-perceptions-2026]] — 22 فیکلٹی، 12 فالو اپ: مانوسیت نے بعض کے لیے اخلاقی جانچ سخت کی، استعمال میں آسانی کی سمت اُلٹی (Stalboerger وغیرہ 2026)

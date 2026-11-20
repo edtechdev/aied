@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,6 +43,3 @@ Najjasnejším príkladom je `teach`, ktorý beží naprieč viacerými sedeniam
 ## Čo treba vedieť pred nasadením
 
 Všetko je [[open-source|open source]] pod MIT a zadarmo na použitie ako východisko pre miestnu [[ai-literacy|AI gramotnosť]] alebo [[self-directed-learning|samostatné štúdium]]. Osvojenie je veľké a rýchlo sa mení: približne 270 000 hviezd a 23 000 forkov pri kontrole v septembri 2026, s posledným commitom 18. septembra 2026. Výhrada sa týka rozsahu. Zručnosti predpokladajú pracovný kontext [[human-ai-collaboration|inženýra]], sú rozdelené do košov engineering, productivity, deprecated a in-progress, takže niektoré položky sú výslovne nedokončené alebo vyradené, a README slúži zároveň ako prihlásenie na newsletter. Učiace a vypytovacie zručnosti berte ako prenositeľnú časť a počítajte s tým, že ktorúkoľvek prepíšete, kým ju postavíte pred študentov.
-
-## Prepojené pojmy
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

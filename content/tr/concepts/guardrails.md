@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -123,47 +125,3 @@ Güvenlik rayları kendileri tarafsız değildir: [[paternalistic-filter-llm-his
 **"Güvenlik rayı eşikleri ayarlanacak mühendislik seçimleridir."** Bir eşik, dağılımsal maliyeti olan bir politika kararıdır. Toksisite eşiğini 0,3'ten 0,7'ye taşımak etiketli istek metinlerini **%35,62**'den **%12,4**'e düşürdü; bir dolandırıcılık dedektöründe ise **15 yanlış alarm ve 18 kaçırılmış dolandırıcılığı 2 ve 36** ile değiştirdi. Hiçbir eşik ödünleşimi ortadan kaldırmaz; yalnızca kurumun hangi hatayı tercih ettiğine karar verir ve bu karar bir varsayılan sabite değil kuruma aittir.
 
 **"Adalet denetimi, güvenlik rayı yeterliliğinden ayrı bir konudur."** Reddetme ve destek örüntüleri eşit uygulandığında bile yararı eşitsiz dağıtır ve ortalama bir zarar oranı hangi öğrencilerin bu zararı üstlendiğini gizler. Denetim, güvenlik rayı şartnamesinin bir parçası olmalıdır; sonradan sipariş edilen bir çalışma değil.
-
-## Bağlı kavramlar
-
-- [[pedagogical-safety]] — the goal that guardrails implement
-- [[prompt-engineering]] — the hint-not-answer design technique
-- [[rag]] — knowledge grounding as a guardrail
-- [[human-in-the-loop-ai]] — teacher QA and oversight
-- [[llm-training-and-fine-tuning]] — the training/alignment layer
-- [[reinforcement-learning]] — reward shaping for safe behavior
-- [[bias-mitigation]] — auditing guardrails for fairness
-- [[ai-sycophancy]] — the manipulation risk guardrails must resist
-- [[scaffolding]] — the pedagogical mechanism guardrails preserve
-- [[socratic-method]] — a hint-not-answer interaction mode
-- [[hallucination-risk]] — the fabrication risk guardrails reduce
-- [[cognitive-offloading]] — the over-reliance harm guardrails prevent
-- [[k-12]] — the context where guardrails matter most
-- [[ethics]] — the normative basis
-- [[governance]] — the policy layer
-- [[intelligent-tutoring]] — the systems being guarded
-- [[misconceptions]] — the knowledge guardrails must check
-- [[trust]] — the outcome of well-designed guardrails
-- [[llm]] — the model layer being constrained
-
-## Bağlı makaleler
-- [[ai-security-literacy-k12-framework-2026]] — YZ Güvenlik Okuryazarlığı: Ekosistem temelli Yetkinlik Çerçevesi ve K-12 Öğrenme Platformu
-
-
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,46 +107,3 @@ Bernstein 与 Sibia（2026）记录了 CS2 学生处理生成式人工智能解�
 - **“交互分类体系已经定局。”** **来自 33 项研究的 46 种分类中，相似的标签命名不同的现象**，这就是该综述提议以*交互片段*为单位的原因。从一种分类体系借来的编码方案，可能测量的是另一个构念。
 - **“学生把 AI 当作辅导者使用。”** 在 **38 名**完成无人监督议论文的本科生中，**76.32% 使用了单轮的“提问、得答案、停止”模式**，通常直接粘贴评估题目标题。主导模式是单轮检索，那不是辅导。
 - **“AI 使用越多，表明对材料的投入越大。”** 一项对 **200 个协同编程聊天会话**的分析发现，**78.8% 学生与生成式人工智能的交互运行在非掌握性的目标与策略上**。交互量测量的是学习取向之外的东西，因此会话计数是一个误导性的参与代理。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[human-ai-collaboration|人机协作]]
-- [[student-experience|学生经验]]
-- [[prompt-engineering|提示工程]]
-- [[learning-analytics|学习分析]]
-- [[cognitive-offloading|认知卸载]]
-- [[intelligent-tutoring|智能导学]]
-- [[metacognition|元认知]]
-- [[agency|能动性]]
-- [[generative-ai|生成式人工智能]]
-- [[llm|LLM]]
-- [[ai-literacy|人工智能素养]]
-
-## 关联文章
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 在 819 名学生中，使用频率与自评专业水平什么都没预测到
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 无人监督的学生—生成式人工智能评估中的认知外包对再分配（Yan 等，2026）
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “这是个陷阱吗？”：师范生在评估中对生成式人工智能的不采用（Zou 等，2026）
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — 学生—人工智能交互中询问类型的分析
-- [[student-llm-interaction-taxonomy-review-2026]] — 学生—LLM 交互分类体系综述
-- [[teacher-authored-prompts-student-ai-dialogue]] — 学生—人工智能对话中的教师撰写提示
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 建构认识论的人工智能素养
-- [[dura-llm-cs2]] — 祛魅、使用、反思、评价（DURA）：CS2 中的 LLM 整合
-- [[li-dbagent-llm-educational-agent-cs-2026]] — 计算机教育中基于 LLM 的教育智能体（DBagent）
-- [[isaza-chatgpt-engineering-prompting-2026]] — 经记录的提示与整合行为
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但难忘：学生对计算教育中兴趣个性化生成式人工智能类比的批判性接受
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — 绕过、卸载还是脚手架：大语言模型塑造学习的概念模型
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 当人工智能导学系统开口说话：来自一项随机实地实验的证据
-- [[context-prompts-physics-assignments-2026]] — 用情境提示驱动的人工智能物理作业
-- [[three-pathways-student-ai-interaction-2026]] — 学生—人工智能交互的三路径类型学：46% 被动审阅、18% 直接提问、36% 策略性对话
-
-- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个提示评分者面对答案已知的探针，而其中大多数可以说服上调（Porcaro 2026）
-- [[shen-ai-skill-formation-2026]] — 六种 AI 交互模式，在无辅助测验上从 86% 到 24%（Shen & Tamkin 2026）
-- [[cs-students-llm-conceptualizations-prompting-2026]] — 他们在向谁（或什么）提示？计算机专业学生如何概念化并使用 LLM
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 名本科生：按课程领域的使用（自然科学 88%、人文学科 52%、社会科学 36%）与作为首要任务的学习
-

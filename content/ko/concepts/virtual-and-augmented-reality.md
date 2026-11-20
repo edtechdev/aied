@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -76,7 +78,6 @@ VR/AR에 대한 가장 강한 증거는 비교적이고 [[discipline-specific-ai
 
 아바타와 디지털 휴먼은 그 계층의 인간적 얼굴이며, [[ai-avatars-and-synthetic-instructors]]는 사실성이 효과를 예측하지 못한 사례들을 모읍니다. SOPHIE는 같은 아바타 뒤에서 백엔드가 달라도 의사소통 점수가 동일했고, TriKoNet의 학생들은 사실적인 페르소나를 단호히 거부했습니다.
 
-
 같은 논리는 현장감이 자동적으로 좋은 것은 아닌 이유를 설명합니다. 멀미, UI 비일관성, 하드웨어 비용, 고르지 않은 기기 접근이 누가 몰입형 환경을 애초에 사용할 수 있는지를 결정합니다. 이것이 이 양태의 [[equity-in-ai-education|equity]] 질문들이 [[accessibility]]과 [[inclusive-learning]]에 분리되어 있지 않고 연결되는 이유입니다.
 
 ## 흔한 오해
@@ -84,40 +85,3 @@ VR/AR에 대한 가장 강한 증거는 비교적이고 [[discipline-specific-ai
 - **"현상을 느끼는 것이 그것을 이해하는 것입니다."** 한 파일럿에서 학생들은 손 제스처를 통해 파장과 진폭을 슬라이더보다 더 강하게 **느꼈다**고 보고했지만, **그것은 성취가 아니라 지각을 측정했습니다**. 느껴진 감각이 제공물이며, 그것이 이해를 낳았는지는 별개의 시험입니다.
 - **"높은 사용성 점수가 교육용 VR 도구를 검증합니다."** Meta Quest 3로 학생 10명과의 **한 시간 세션**에서 그 연구는 **시스템 사용성 척도상 좋은 사용성과 최소의 모의 훈련 멀미**를 보고했습니다. 사용성과 편안함은 전제 조건이며 둘 다 학습 측정치가 아닙니다.
 - **"학생들의 동의가 제공물의 증거입니다."** **2학년 의료 영상 학생 29명**과 함께, 29명 전원이 **그 제스처가 파장이 무엇인지 "느끼게" 도왔다고 동의했습니다(평균 4.52)**. 느낌에 대한 만장일치의 동의는 경험에 관한 자기보고이며, 제공물 주장에는 학생 자신의 이해에 대한 판단에 의존하지 않는 결과가 필요합니다.
-
-## 연결된 개념
-
-- [[simulation]] — 몰입형 환경이 흔히 표시하는 것. 양태가 아닌 모형
-- [[embodied-learning]] — 이 양태가 이용하려는 기제
-- [[multimodal]] — 학습 경로로서의 제스처, 음성, 공간 입력
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — 몰입형 연습이 가장 확립된 환경
-- [[generative-ai]] — 새로운 저작 계층
-- [[prompt-engineering]] — 비프로그래머가 몰입형 도구를 만들고 다듬는 방법
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — 헤드셋 안에서 안내를 그라운딩하기
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — 충실도, 그리고 그것의 한계에 대한 학습자의 인식
-- [[cognitive-offloading]] — 외재적 부하로서의 지연과 불안정
-- [[edtech-platform]] — 동기화, 지연, 다중 지점 현장감
-- [[arts-and-media-education]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## 연결된 문서
-
-- [[genai-ar-physics-simulation-prompt-2026]] — 손 조작 AR 물리 모의 훈련을 생성하는 네 요소 프롬프트. 29명 학생 파일럿, 지각 전용 증거
-- [[mixed-reality-engineering-learning]] — 공학 역학에서의 혼합 현실 앱 대 물리적 도구 상자 대 교실. 참여는 오르고 복잡한 시각화는 여전히 어려움
-- [[medgame-llm-medical-education-gamification]] — AI를 동반한 게임화된 의료 훈련
-- [[tech-enhanced-tabletop-cybersecurity-education]] — 사이버보안 교육에서의 증강 테이블탑 시나리오
-- [[genai-xr-architectural-design-education-2026]] — 협력적 건축 설계 교육에서의 생성 AI와 확장 현실: 탐색적 스튜디오 연구
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: LLM 기반 교수 조수를 동반한 몰입형 VR 설계 스튜디오, 전통적 PBL과 비교하여 평가(Jin 등 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: VR 무대 조명 교육에서의 LLM 지원 다중 양태 수업, 그리고 그라운딩이 무너진 곳(Liang 등 2026)

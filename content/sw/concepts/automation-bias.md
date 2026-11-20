@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -117,45 +119,3 @@ Sehemu kubwa ya hifadhi ya maarifa inaorodhesha upendeleo wa kiotomatiki katika 
 - **"Mtu aliye ndani ya mzunguko anaurekebisha."** Mzunguko ni bora kadiri fursa ya kuingilia ilivyo, na masomo ya upangaji alama hayakupima uwekaji nanga.
 - **"Ni tatizo la wanafunzi."** Walimu, wakadiriaji, wafafanuzi na watendaji ni wathibitishaji katika kila ubuni unaoelezwa na hifadhi ya maarifa.
 - **"Ni kasoro ya tabia ambayo mafunzo bora huiondoa."** Mafunzo husaidia, lakini mtu huyo huyo hutenda tofauti kutegemea kama uthibitishaji ni rahisi, kama matokeo ni fasaha, na kama kutokubaliana kuna gharama.
-
-## Dhana zinazohusiana
-
-- [[trust-calibration]] — hali ya utegemezi ambayo kushindwa kwake upendeleo wa kiotomatiki unaitaja
-- [[bias-mitigation]] — mwenzake wa upande wa mfumo: upendeleo ndani ya modeli
-- [[cognitive-offloading]] — ukabidhaji wa kazi ya kiakili, ambao kukubali bila ukaguzi ni matokeo yake moja
-- [[human-in-the-loop-ai]] — kizuizi ambacho nguvu yake kushindwa huku kunaiamua
-- [[explainable-ai]] — hatua ya uwazi ambayo hifadhi ya maarifa inaipendekeza na mara chache kuijaribu
-- [[learning-analytics]] — dashibodi na tahadhari za mapema, ambapo makosa ya kuacha yanajikita
-- [[recommender-systems-and-learning-paths]] — kupanga kile cha kufanya baadaye, ambacho mwanafunzi anaweza kufuata tu
-- [[automated-assessment]] — alama ambayo mtu anaweza kukubali bila kusoma tena
-- [[scaffolding]] — ukaguzi unaobaki rahisi kuliko kukubali
-- [[self-efficacy]] — sifa ambayo utabiri wa kawaida unategemea
-- [[ai-detection]] — utambuzi unaohukumiwa na watu chini ya shinikizo la muda
-- [[remote-proctoring]] — tuhuma inayobuliwa na modeli na kuamuliwa na mtu
-- [[ai-literacy]] — mahali uthibitishaji kama stadi inayopimwa ungekaa
-
-## Makala zinazohusiana
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — walimu wanaonywa dhidi ya kutegemea mapendekezo yaliyojengwa juu ya data chembamba
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — inataja uwekaji nanga wa wakadiriaji kwa alama za AI kama hatari isiyojaribiwa na inapendekeza kufanya bila kufahamu
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — dashibodi, maoni ya sifa za uso na taa za tahadhari kama muundo wa jumla
-- [[factria-responsible-institutional-analytics-2026]] — washikadau kumi na moja, kesi nne, chatbot inayokataa kupendekeza
-- [[ludia-udl-ai-thought-partner-2026]] — kizuizi cha mwalimu kilichodhoofishwa na kutumainia maarifa ya nyanja ya zana
-- [[extended-minds-coupling-flexibility-2026]] — haki ya kirasmi ya kukataa sio usimamizi ikiwa upendeleo wa kiotomatiki unaishinda
-- [[ground-truth-reliability-aied]] — ufafanuzi wa LLM, uthibitishaji wa mzunguko na kuteleza kwa kimya kwa lebo
-- [[polished-artifacts-fragile-engagement-2026]] — upendeleo wa kiotomatiki kama uzi wa kijamii na kiakili wa juhudi ndogo za kielimu
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — moja ya mbinu nne za kushindwa katika kazi ya kurudia ya binadamu na AI
-- [[eight-mode-ai-engagement-typology-2026]] — hali ya Oracle na hatari yake ya kawaida
-- [[assessing-student-drive-framework-2025]] — wakala makini wa kibinadamu kama kizuizi dhidi ya upendeleo wa kiotomatiki
-- [[sun-llm-nursing-education-professional-identity-2026]] — masomo 489 kuhusu kama AI inaondoa kazi isiyohusiana au inayounda
-- [[geoscience-field-learning-genai-2026]] — uwekaji nanga, uthibitisho na upendeleo wa kiotomatiki katika kazi ya uwandani inayofungamana na ushahidi
-- [[ahmadfard-interactive-oer-review-2026]] — upendeleo wa kiotomatiki ukitajwa kati ya hatari zinazodhoofisha wakala wa mwanafunzi na mwalimu
-- [[alshahrani-health-sciences-ai-use-2026]] — wasiwasi wa kimaadili wa wanafunzi 310 unasomwa kama hoja ya mafunzo ya wazi
-- [[ai-literacy-legal-translation-2026]] — uhariri wa baada ukifundishwa kama stadi inayopimwa dhidi ya shinikizo la udanganyifu wa ubora
-- [[morales-cevallos-ai-forensic-science-education-2026]] — upendeleo wa kiotomatiki umeandikwa katika masomo ya AI ya uchunguzi yaliyopitiwa
-- [[rana-genai-design-thinking-2025]] — viunzi vinavyoweka uamuzi wa kibinadamu katikati
-- [[kim-overtrust-ai-literacy-2026]] — utabiri uliopinduliwa: wanafunzi wenye kujiamini waliamini zana zaidi
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — mfumo uliojengwa juu ya utafiti wa upendeleo wa kiotomatiki, sio jaribio wake
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — moja ya mbinu tatu zinazodhoofisha uraia wa kihakiki
-- [[academic-erasure-complexity-ai-writing-2026]] — upendeleo wa kiotomatiki ndani ya kazi ya kihisia ya kusimamia matumizi ya AI
-- [[llm-fallacy-misattribution]] — tofauti iliyo karibu zaidi: utegemezi kupita kiasi kwa mfumo dhidi ya mtazamo wa umahiri binafsi

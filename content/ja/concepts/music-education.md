@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -72,26 +74,3 @@ AIによる評価を学生がどう受け取るかは、別の問いである。
 - **「AIフィードバックは教師の耳に取って代わる。」** イントネーションの研究は教師を外してピッチを改善させたが、著者らはそのツールを補完的なものと呼び、4週間にわたって1つの技能だけを測定した。Liは、測定された偏差は身体的な協調と同じではないと明確に論じている。
 - **「生成オーディオのツールは作曲を教える。」** 自律型ジェネレーターと対話型アシスタントを区別するBriotの議論が反論になる。プロンプトから曲へ、という方式は学生を出力の消費者として位置づけ、制約を課し様式を学習するシステムだけがパートナーとして機能する。
 - **「自動採点が教師平均と一致すれば、導入の準備はできている。」** 平均での一致は次元レベルの不一致を隠しうる。だからこそLin et al.は評価基準ごとの妥当性検証と人間による監督を推奨している。
-
-## 関連する概念
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## 関連する記事
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot (2026):脱物質化、ストリーミングの支払い、自律型ジェネレーターと対話型アシスタントの区別
-- [[ai-feedback-violin-intonation-2026]] — ヴァイオリン奏者12名、教師不在のAIピッチ分析4週間、イントネーションが144.75から207.33へ上昇
-- [[ai-vocal-pedagogy-2026]] — Li (2026):測定可能なピッチ偏差は身体的な協調ではない
-- [[embodied-string-learning-blindness-low-vision-musicians]] — 全盲・ロービジョンの弦楽器演奏者4名。視覚的実演に代わる触覚的・運動感覚的な手がかり
-- [[gpt4o-mini-music-analysis-scoring]] — 音楽分析の回答300件。few-shot chain-of-thoughtが教師平均に最も近く、RAGは過大採点、用語では弱い
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 音楽学を学ぶ学生34名によるゲーム化AIクイズ:内容より形式が評価を分けた
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — クロスモーダルな音声と楽譜の対応づけ、リズム誤差の再現率91.2%、120名の参加者がより速く改善
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 学部生850名、5回の調査:エンゲージメント、フロー、情緒知能の並行する成長
-- [[chatgpt-music-education-junior-high-2026]] — 台湾の中学生508名、歌詞学習のためのChatGPT
-- [[middle-school-genai-steam-interactions-2026]] — 数学と音楽のSTEAMモジュールに取り組む8年生12名

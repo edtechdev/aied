@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -42,10 +43,3 @@ Pro vedení univerzity, prorektory a CIO rozhodující, co podpořit; pro vedouc
 ## Poznámky a upozornění
 
 Rámec i web jsou licencovány **CC BY-NC-SA 4.0**, takže úpravy jsou povoleny pro nekomerční užití s uvedením autora a se stejnou licencí; web nabízí i vlastní navrhovanou citaci. Jeho sladění s OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA a HIPAA je vlastní srovnání vydavatele a tak je také třeba je číst. Doprovodné weby jsou samostatné projekty, několik z nich od téhož autora, a vyplatí se znát je jako celek: [Campus AI Exchange](https://www.campusaiexchange.com/) je rozcestník s [interaktivními mapami](https://www.campusaiexchange.com/ai-policies-guidelines-map) institucionálních politik AI a pokynů pro výuku, [sebehodnocením správy AI](https://www.campusaiexchange.com/ai-governance-assessment), mapami správy dat a postojů k AI a knihovnou zdrojů. Kolem něj stojí [campusaigovernance.com](https://campusaigovernance.com/) (devět domén správy AI), [campusairisks.com](https://campusairisks.com/) (rámec NIST AI Risk Management Framework aplikovaný na tyto domény), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), [šablona plánu osvojení AI](https://unit-ai-adoption-plan.netlify.app/) na úrovni útvaru a briefing o [agentní AI pro vedoucí pracovníky](https://campusaiframework.com/sites). Strategický kompas koluje také jako sdílený dokument Google, k jehož otevření je potřeba účet Google. Při vstupu se objeví krátká volitelná otázka o roli a instituci; e-mail je volitelný a celý web lze číst bez něj.
-
-## Související pojmy
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

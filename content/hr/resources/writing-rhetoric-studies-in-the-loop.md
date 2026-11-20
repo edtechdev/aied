@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -39,6 +40,3 @@ Uvod u zbirku uokviruje poticaj kao retorički žanr koji ima udjela u usklađiv
 ## Što treba znati prije upotrebe
 
 Cijela je knjiga besplatna u PDF-u i ePubu, a pojedina se poglavlja objavljuju zasebno sa svojim DOI-jem. Objavljena je u srpnju 2026. u izdanju WAC Clearinghousea u seriji WAC Repository, na 402 stranice, urednika Anuja Gupte i Briana Gogana, s DOI-jem zbirke 10.37514/TWR-B.2026.2999. Licencija je Creative Commons BY-NC-ND 4.0, pa čitatelji smiju pregledavati, ispisivati osobne primjerke i povezivati se na knjigu, ali je ne smiju reproducirati na drugom mjestu ni prilagođavati bez dopuštenja; kolegij koji želi izmijenjene formulacije poticaja trebao bi napisati vlastitu inačicu, a ne pretiskati ove. Poticaj iz svakog poglavlja ispitan je na više platformi, iako knjiga ne izvještava o kontroliranoj usporedbi ishoda, pa poticaje tretirajte kao stručni dizajn, a ne kao validiranu intervenciju.
-
-## Povezani pojmovi
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

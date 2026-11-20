@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -52,9 +53,3 @@ Docenten in het hoger onderwijs die willen dat [[learning-design|learning design
 - **Inference door derden.** Antwoorden worden gegenereerd via de Claude-API van Anthropic, met de API van OpenAI als back-up, onder commerciële voorwaarden die volgens het beleid per September 2026 training op API-invoer en -uitvoer uitsluiten. Een instelling zou dit via haar eigen overeenkomst moeten bevestigen, niet via een webpagina.
 - **Het is geen beoordelaar.** Zowel het beleid als de voorwaarden beschrijven oordelen van de assistent zoals "doel behaald" als hulpmiddelen voor de docent; cijfers en academische beslissingen blijven bij de docent en de instelling, en beslissingen over [[ai-use-disclosure|openbaarmaking van AI-gebruik]] aan studenten worden aan de docent overgelaten.
 - **In de VS gehost.** Data staat in Google Cloud Firestore met hosting door Vercel, en het beleid behandelt FERPA-verplichtingen waar de dienst onderwijsrecords verwerkt; gebruikers buiten de Verenigde Staten krijgen te horen dat hun data daar wordt verwerkt.
-
-## Gerelateerde concepten
-
-- [[learning-design]] — gestructureerd opdrachtdesign als het punt waarop AI-beleid concreet wordt.
-- [[guardrails]] — betrokkenheidsdrempels en gemaximeerde AI-hulp als ontwerpbeperkingen.
-- [[ai-use-disclosure]] — de docent, niet het platform, beslist hoe AI-gebruik aan studenten wordt openbaargemaakt.

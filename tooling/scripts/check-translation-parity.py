@@ -38,6 +38,8 @@ import subprocess
 import sys
 from collections import Counter
 
+import connected_migration
+
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 CONTENT = ROOT / 'content'
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources', 'pages')
@@ -45,7 +47,8 @@ COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources', 'pages')
 # Frontmatter that must match English byte for byte: these are machine identifiers, not prose.
 FACET_KEYS = ('technology', 'pedagogy', 'foundations', 'institutions', 'ethics',
               'assessment', 'audience', 'discipline', 'level', 'methods', 'confidence',
-              'resource_type', 'access', 'connected_resources', 'connected_faqs')
+              'resource_type', 'access', 'connected_resources', 'connected_faqs',
+              'connected_concepts', 'connected_articles')
 # `type` is deliberately absent: it is not a schema field, and 17 English pages lack it too.
 REQUIRED = ('title', 'translation_of', 'source_updated', 'translation_note', 'ai_assist')
 # Bidi control marks break link rendering and the corpus forbids them.
@@ -181,6 +184,12 @@ def changed_translated(max_twins=20000):
         if len(parts) == 4 and parts[0] == 'content' and parts[1] != 'en' \
                 and parts[2] in COLLECTIONS and parts[3].endswith('.md'):
             found.append((parts[1], parts[2], parts[3][:-3]))
+    # A connected-list-only migration moves lists to facets without touching narrative;
+    # it cannot introduce the drift this gate checks, so don't re-audit those pages.
+    skip = connected_migration.migration_only_set(
+        [f'content/{l}/{c}/{s}.md' for (l, c, s) in found])
+    found = [(l, c, s) for (l, c, s) in found
+             if f'content/{l}/{c}/{s}.md' not in skip]
     return found[:max_twins]
 
 
@@ -287,7 +296,11 @@ def check_pair(en_path, loc, collection, slug, body_changed=True):
         msg = f'{label}: paragraphs per section {got_paras}, English {en_paras}'
         (errors if current else warnings).append(msg)
 
-    en_shape, got_shape = connected_shape(en_counted), connected_shape(body_counted)
+    # Connected Concepts/Articles are frontmatter facets now (2026-11-19 migration); the
+    # body connected-list shape check only applies to pages that still carry body sections.
+    en_shape = connected_shape(en_counted) if re.search(
+        r'(?m)^## Connected (Concepts|Articles|Resources)\s*$', en_counted) else None
+    got_shape = connected_shape(body_counted)
     if en_shape and got_shape:
         # Entry COUNTS are not compared: a translated Connected list is curated per locale and
         # is allowed to be longer or shorter than English (the Spanish lists were rebuilt

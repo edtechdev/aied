@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -56,15 +57,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحفظات
 
 هذا دليل وسلسلة أدوات لممارس لا دراسة محكمة — فهو يقدم سير عمل ومبرره التعليمي الخاص («تدل الكتب الدراسية الذكية الطلاب على المفاهيم في سعيهم للمعرفة») لا دليلًا على نتائج التعلّم. وورقة بحث MicroSims هي أقرب شيء إلى سند تجريبي، وهي منشورة ذاتيًا على arXiv. وكلا المشروعين مفتوح المصدر (يُبلغ مستودع الكتب الدراسية الذكية برخصة MIT و38 نجمة؛ ويُبلغ MicroSims برخصة المشاع الإبداعي و13 نجمة) ويُصانان بنشاط. ورسوم المفاهيم والبنية المعجمية أولًا مفيدة فعلًا للقابلية للاكتشاف، لكن الدليل يفترض سير عمل تأليف تقنيًا إلى حد ما — MkDocs، وGit، وأدوات الذكاء الاصطناعي التوليدي — مما قد يكون عائقًا لبعض أعضاء هيئة التدريس. وحتى لحظة الاستيعاب، سجل MicroSims لا يزال على خارطة الطريق فحسب، فإيجاد محاكاة قائمة بعينها يتعلق ببحث الموقع وتنقله.
-
-## المفاهيم المرتبطة
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

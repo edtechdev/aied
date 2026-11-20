@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -83,32 +85,3 @@ GBL и геймификация вместе связаны с [[educational-rob
 - Повышайте качество дизайна области, а не её объём; доля 7% качественных работ — то связывающее ограничение, от которого зависит, какие выводы возможны.
 
 - **Разговорная обратная связь в симуляции повышает полезную нагрузку, не снижая посторонней.** В пятинедельной бизнес-симуляционной игре с **234 студентами** постоянные пользователи чат-бота обратной связи на базе GPT-4o сообщали о **значительно более высокой полезной когнитивной нагрузке**, чем пользователи с доступом, которые им не воспользовались (β = −.468, p < .001), и чем контрольная группа со статичной обратной связью (β = −.253, p = .028). **Посторонняя нагрузка не показала эффекта** ни в одной из спецификаций (F(1, 219) = 0.499, p = .481). Обе нагрузки **снижались на протяжении пяти недель** (посторонняя β = −.388, p < .001) — эффект новизны, измеренный по когнитивной нагрузке, а не по вовлечённости ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger и Liening, 2026]]). Проектный вывод в том, что обратная связь несла [[personalized-learning|персонализацию]], сигнализирование, сегментирование и структуру прямого хода по 19 конкретным индикаторам — сам чат-бот не является воздействием.
-
-## Связанные концепции
-
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Зонтичная концепция: педагогики и стратегии преподавания в образовании с ИИ
-- [[virtual-and-augmented-reality]] — иммерсивная и геймифицированная практика пересекаются в проектировании и доказательствах
-
-## Связанные статьи
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — Ученики начальной школы разрабатывают игру-эскейп; ИИ-грамотность растёт в рамках одной учебной лаборатории
-- [[ai-game-based-learning-systematic-review-2026]] — Систематический обзор 55 исследований обучения на основе игр с поддержкой ИИ: положительные результаты, тонкая база доказательств
-- [[game-based-gamified-robotics-education-review-2026]] — Робототехническое образование на основе игр и с геймификацией
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Робототехника и ИИ в образовании
-- [[genai-motivation-engagement-2026]] — Генеративный ИИ, мотивация и вовлечённость
-- [[nasa-tlx-workload-gamified-ai-2026]] — Нагрузка NASA-TLX в геймифицированных/ИИ-условиях
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Мотивация ARCS и поддерживаемая ИИ геймификация
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture in legal education (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Design and preliminary validation of an AI enhanced game based learning environment for computational thinking

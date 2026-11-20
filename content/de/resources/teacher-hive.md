@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -47,11 +48,3 @@ K–12-Lehrkräfte, die [[generative-ai|generative KI]] genutzt haben, um ein kl
 Member und Builder sind kostenlos (Builder: 50 Apps, 50 MB); Pro kostet \$10 pro Monat oder \$60 pro Jahr für 500 Apps. Der Zugang ist Freemium.
 
 Datenschutz ist die stärkere Behauptung, verschiebt aber die Verantwortung zu Lehrkräften. Teacher Hive legt keine Schülerkonten an, fragt Schülerinnen und Schüler nach keinen persönlichen Informationen und führt in veröffentlichten Apps keine Analyse- oder Werbeskripte aus. Weil Apps per Link öffentlich sind, machen die Bedingungen Lehrkräfte dafür verantwortlich, dass ihre Apps keine Namen, E-Mails, Schüler-IDs oder Standorte erfassen. Die Abdeckung der Barrierefreiheit (WCAG 2.2 AA) gilt für Teacher Hives eigene Seiten, nicht für von Lehrkräften gebaute Apps, die ungetestet sind. Es wird keine Open-Source-Lizenz genannt, und Betriebszeit und Datenaufbewahrung sind nicht garantiert.
-
-## Verbundene Konzepte
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

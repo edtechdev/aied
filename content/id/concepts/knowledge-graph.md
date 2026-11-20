@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -88,37 +90,3 @@ Graf pengetahuan terhubung dengan [[learning-design]] (menentukan apa yang diaja
 
 - Laporkan kontras graf-baseline pada tingkat algoritma. "Berbasis graf pengetahuan" bukanlah suatu perlakuan; strategi penelusurannya yang merupakan perlakuan.
 - Laporkan pemetaan aksioma-ke-sumber dan keterpisahan taksonomi bersama presisi dan recall, karena kegagalan audit di sini tidak terlihat oleh metrik graf konvensional.
-
-## Konsep terkait
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Graf aksioma sastra yang dibangun kurator berisi 1,455 aksioma dengan audit struktural dan tanpa catatan provenans (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Model pengetahuan hibrida berlapis berbasis ontologi untuk e-learning yang dipersonalisasi
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Graf Learnity untuk belajar sepanjang hayat
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: perancah penulisan naratif
-- [[quantum-education-its]] — Tutoring cerdas pendidikan kuantum (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Graf pengetahuan multimodal untuk penalaran pendidikan
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: perbandingan mata kuliah ilmu komputer
-- [[proprl-prerequisite-relation-learning]] — ProPrL: pembelajaran relasi prasyarat
-- [[knowledge-gap-detection-ai-tas]] — Deteksi kesenjangan pengetahuan dalam asisten pengajaran AI
-- [[visual-query-tracer-declarative-logic-learning]] — Penelusur kueri visual untuk pembelajaran logika deklaratif
-- [[fair-explainable-edu-recommendations]] — Rekomendasi pendidikan yang adil dan dapat dijelaskan
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Rekomendasi lintas domain CF–KG hibrida untuk sumber pengajaran multimodal
-- [[xie-hillm-cd-2026]] — HiLLM-CD: diagnosis kognitif yang digerakkan LLM
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring cerdas berbasis graf untuk domain dinamis (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: pembangkitan lingkungan belajar

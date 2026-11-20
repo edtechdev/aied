@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -52,11 +53,3 @@ Ohjeistus on rehellinen omasta asemastaan. Sen tekijät kutsuvat merkintöjä hy
 Kaksi muuta rajaa ovat opetuksen kannalta merkityksellisiä. Suositukset ovat suunnittelukehotteita, eivät testattuja interventioita; mikään sivustolla ei raportoi tulosta. Ja ikähaarukkarakenne asettaa kehitykselle karkean ruudukon, joka vaihtelee haarukoiden sisällä, kulttuurien ja kontekstien välillä, minkä opas itse myöntää.
 
 Käytäntöön kannattaa viedä sivuston oma kehys: pidä silmukka inhimillisenä ja selvitä sitten, mihin AI sopii sen sisään, sen sijaan että asettaisit inhimillisen tarkistuspisteen silmukkaan, joka kuuluu koneelle – sama huoli, jonka korpus kirjaa [[cognitive-offloading|siirtokuormituksen riskinä]], kun työkalu ottaa haltuunsa sen osan tehtävästä, joka teki kehityksellisen työn.
-
-## Liittyvät käsitteet
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

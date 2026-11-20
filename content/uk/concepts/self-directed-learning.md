@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -85,27 +87,3 @@ ai_assist:
 **Для дослідників**
 
 - Повідомляйте, на який конструкт було націлене втручання; результати SDL і SRL не слід використовувати взаємозамінно.
-
-## Пов’язані поняття
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Пов’язані статті
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Бездумне використання GenAI та самоспрямоване навчання (SEM, гендерні відмінності)
-- [[ai-lifelong-learning-policy]] — Політика щодо ШІ і навчання впродовж життя
-- [[self-directed-growth-generative-ai-learning-analytics]] — Самоспрямоване зростання з GenAI та аналітикою навчання
-- [[genai-educational-outcomes-meta-analysis]] — Мета-аналіз освітніх результатів генеративного ШІ
-- [[andragogy-cognitive-delegation-genai-2026]] — Андрагогія та когнітивне делегування з GenAI
-- [[kim-ai-andragogy-2026]] — Застосування ШІ для підтримки андрагогії (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[scherer-self-directed-genai-use-secondary-2026]] — Самоспрямоване використання генеративного ШІ та академічний розвиток учнів середньої школи: великомасштабне однорічне лонгітюдне дослідження
-- [[llm-goal-selection-self-directed-learning-2026]] — Моделі не вибирають навчальні цілі як люди в завданні вільного вибору (Molinaro et al. 2026)

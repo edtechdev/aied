@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -88,39 +90,3 @@ El desarrollo es una cuestión aparte: estos mecanismos se tratan como estables,
 - **«Las representaciones mentales son inobservables, así que las afirmaciones cognitivas sobre el aprendizaje son supuestos.»** Reconstruir imágenes a partir del **EEG** de quienes aprendían durante vídeos de ciencias encontró que **la fidelidad de la representación seguía el rendimiento en el test** (coeficiente de regresión **0,8481; R² = 0,79**). La premisa cognitivista de la representación interna es medible, y la medición predijo el resultado.
 - **«Un R² alto significa que la representación explica el aprendizaje.»** R² = 0,79 es una asociación fuerte entre la fidelidad y el rendimiento en el mismo material. No establece que elevar la fidelidad eleve el rendimiento, que es la afirmación de intervención.
 - **«Los componentes de conocimiento son una ficción de modelado conveniente.»** La descomponibilidad es lo que hace posibles el [[knowledge-tracing|seguimiento del conocimiento]] y el [[cognitive-diagnosis|diagnóstico cognitivo]], y los métodos funcionan en la medida en que el supuesto se cumple. Tratarlo como ficción descarta la razón por la que los métodos producen estimaciones utilizables, mientras que tratarlo como un hecho exagera lo que un modelo ajustado dice sobre una mente.
-
-## Conceptos conectados
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — los hallazgos sobre retención en los que se apoya esta familia de prácticas
-
-## Artículos conectados
-
-- [[sim-ai-summary-memory-distortion-2026]] — Los resúmenes engañosos de IA cambiaron lo que recordaban las personas adultas, independientemente de si el resumen se etiquetaba como escrito por IA o por una persona
-- [[cognitive-shift-ai-education]] — El giro cognitivo en la educación con IA
-- [[cogtax-cognitive-taxonomy]] — Una taxonomía cognitiva para el uso de la IA
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Agentes LLM pedagógicos fundamentados en el seguimiento del conocimiento
-- [[nie-personavlm-long-term-personalization-2026]] — Modelado del estudiante con LLM y memoria
-- [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo en el aprendizaje corregulado
-- [[ensemble-cognition-philosophy-ai-education]] — Cognición de conjunto: el pensamiento como interacción humano-IA
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — La organización del esfuerzo, no su cantidad, fue lo que siguió a la carga y la frustración
-- [[crediting-assisted-work-inflates-mastery-2026]] — Las afirmaciones de dominio del seguimiento del conocimiento dependen de cómo se acredita el trabajo asistido (Srivastava 2026)

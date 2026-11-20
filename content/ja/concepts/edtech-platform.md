@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -104,52 +106,3 @@ ai_assist:
 **「オープンか独自かは、成果に影響しないライセンスの細部である」** プラットフォームのモデルは、機関がそのシステムで何をできるかを形作ります。OATutor のような[[open-source|オープン]]なプラットフォームは、MIT ライセンスの適応個別指導にクリエイティブ・コモンズの代数内容ライブラリ、[[knowledge-tracing]]による習熟度推定、組み込みの A/B テストを備え、部門が自らの[[pedagogy|教授法]]を計測し変更することを可能にします。閉じたプラットフォームにはできません。ライセンスは、誰が実験を行えるかを決めるのです。
 
 **「ある機関で機能するプラットフォームは、採用されたまま機能する」** プラットフォームの効果は現地のガバナンスを通って流れます。プライバシー優先のアーキテクチャ、データ最小化、監査可能なログ、役割に基づくアクセス制御が、AI 統合型プラットフォームをそもそも展開可能にします。そしてこれらは制度上の決定であり、ベンダーのデモから推測できる機能ではありません。
-
-## 関連する概念
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## 関連する記事
-- [[typology-generative-ai-tools-education-2026]] — 211人の教育者が使っていると報告したもの:9つのカテゴリーの50のツール
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI 個別指導を生産的にする:習熟度ベースの数学練習
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away:2年間の学校実験における Khanmigo
-- [[access-not-enough-ai-tutoring-2026]] — 受容と関与は AI 個別指導プラットフォームの束縛的制約である
-- [[oatutor-open-source-adaptive-tutor-2023]] — 再現可能な研究のためのオープンソースの適応個別指導プラットフォーム
-- [[mooc-to-maic]] — MOOC から LLM 駆動のマルチエージェント AI 教室へ
-- [[ai-lms-middle-school-longitudinal]] — 境界づけられプライバシー優先の支援を備えた中学生向け AI 統合型 LMS
-- [[taklif-ai-interest-based-personalized-assignments]] — 興味ベースのパーソナライズ課題プラットフォーム
-- [[edusim-llm-robotic-simulation-education-2026]] — 教育のための LLM・ロボット・シミュレーション・プラットフォーム
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — 高等教育における生成的社会ロボットの教授プラットフォーム
-- [[hypergamification-game-engine-lms]] — ゲーミフィケーションを統合したゲームエンジンベースの LMS
-- [[edtech-design-time-generative-ui]] — 生成的 UI のためのエドテック設計
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA 準拠のローカル LLM 自動採点プラットフォーム
-- [[vismatic-secure-sandbox-cs-education]] — CS 教育のための安全なサンドボックス・プラットフォーム
-- [[learnmate2-llm-adaptive-learning]] — LLM 駆動のパーソナライズされた適応学習プラットフォーム
-- [[privacy-aware-classroom-incident-recognition-2026]] — 教室プラットフォームにおけるプライバシー配慮型コンピュータビジョン
-- [[raza-farooq-aied-review-2020-2025]] — AIED の研究とシステムの包括的レビュー
-- [[credentials-carry-evidence-ai-agents-2026]] — AI エージェントの作業のための証拠を携える資格証明
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — 「後で直します」:教育、AI、そしてエドテックにおける学生のプライバシーの先送り
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度の指標が見落とすもの:合成的な教育データの構造的検証

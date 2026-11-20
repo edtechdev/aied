@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -120,54 +122,3 @@ ai_assist:
 - **“基于正确性的适应性知道何时停止。”** [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]] 发现，从正确性推断掌握的系统有**过早终止练习**的风险：系统把一串正确读作理解，撤走了学习者仍然需要的练习。在成功时停止的适应性，可能恰好减掉产生保持的那些练习。
 - **“瓶颈在于适应做得多好。”** 在一项**为期两年的学区随机对照试验**中，约束性的因素是**采用率**：仅靠设计改动，把注册压缩为一步就把首次课程的采用率从约 **45% 提高到 83%**，意向治疗增益也随之增长。最聪明的适应，服务不到任何从未抵达它的人。
 - **“参与一旦建立就会持续。”** 一项符合 PRISMA 的 **44 项研究**综述发现，参与文献偏向行为性参与，在能动性参与上最薄弱，并报告了一种**新奇效应**：在 ALEX 及类似系统的纵向研究中，参与随时间下降。早期参与不是设计的稳定属性。
-
-## 关联概念
-
-- [[online-teaching-and-learning]] — 在线教学与学习
-- [[knowledge-tracing|知识追踪]]
-- [[personalized-learning|个性化学习]]
-- [[intelligent-tutoring|智能导学]]
-- [[student-modeling|学生建模]]
-- [[scaffolding|脚手架]]
-- [[cognitive-diagnosis|认知诊断]]
-- [[llm|LLM]]
-- [[learning-analytics|学习分析]]
-- [[higher-ed|高等教育]]
-- [[k-12]]
-- [[formative-assessment|形成性评估]]
-- [[behaviorism|行为主义]]
-- [[ai-technologies]] — 总括：人工智能技术与方法（模型、LLM 训练、机器人、RAG、智能体）
-- [[recommender-systems-and-learning-paths|推荐系统与学习路径]]
-
-## 关联文章
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS：面向个性化评估的动量感知自适应评分系统
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper，2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — 人工智能导学并非铁板一块：我们实际知道的（Stanford SCALE/NSSA 简报）
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — 自适应学习平台中学生参与的系统综述
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 虚拟导学与计算机辅助学习：一项关于采用率与学习的实验
-- [[making-ai-tutoring-productive-mastery-math-2026]] — 让人工智能导学变得有成效：基于掌握的数学练习
-- [[chudziak-ai-math-tutoring-platform]] — 自适应／个性化多智能体数学导学（Chudziak 与 Kostka，2025）
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — 重新定义个性化学习：系统综述
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — 针对学习者准备度校准的导学类人工智能对通用聊天机器人
-- [[context-based-ai-secondary-chemistry-2026]] — 中学化学中的情境化 7E 加人工智能教学
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 面向深度学习的自适应人工智能 STEM 项目
-- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的基于图的智能导学（2026）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 面向个性化学习路径的贝叶斯认知诊断
-- [[adaptive-scaffolding-cognitive-engagement-its]] — 智能导学系统中的自适应 ICAP 脚手架（BKT 对 DRL）
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 跨 14 项 RCT 合并自适应与人工智能赋能工具的元分析
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 系统综述：自适应路径位列主要的高等教育人工智能整合用例
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 自适应题目排序胜过固定排序：无辅助考试提高 0.156 个标准差，由参与而非难度中介（Chung 等，2026）
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人机协同学习循环中学习其学习者的智能体式导学系统
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — 策略使用由状态主导（平均 ICC 0.14），因此静态学习者画像丢弃了大部分信号

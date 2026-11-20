@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -57,22 +59,3 @@ ai_assist:
 **「AIの生成は、書けなかった学生にストーリーテリングを可能にする」** それは*書かれた成果物を生産すること*を可能にするのであり、別の便益です。口頭の語り、描画、口述は同じ目標への確立された経路であり、生成が取り除く著作性を保ちます。
 
 **「物語の教育上の価値は磨かれた結果にある」** それは構築にあります。語り手が行う選択と順序づけです。学生が構造化しなかった磨かれた物語は、学習者ではなくモデルの力量を示したことになります。
-
-## 関連する概念
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## 関連する記事
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — 教育におけるロボティクスとAI
-- [[ai-generated-interactive-fiction-education-2026]] — AI生成インタラクティブフィクション：22名の学生を対象としたパイロット研究で、一貫性が弱い次元として現れる。
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 未就学児の絵本制作において、物語への適合性と妥当性がAI画像を判断する基準となった（Konca & Yigit-Gencten, 2026）。

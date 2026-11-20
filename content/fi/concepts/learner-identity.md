@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -86,38 +88,3 @@ Oppijan identiteetti liittyy [[agency|toimijuuteen]] (identiteetti toteutuu toim
 **"Tekoälyavustus laskee esteitä ja siis laajentaa osallistumista."** Se voi laskea työn tuottamisen estettä samalla kun kaventaa tekijyyden vaatimisen estettä. Opiskelija, joka palauttaa sujuvan artefaktin, jota ei itse tehnyt, on saanut pääsyn tulokseen ja jäänyt vaille sitä tunnustusta, joka rakentaa identiteetin sen taustalla.
 
 **"Oppijan identiteetin tunnistaminen on sisällön edustavuuden kysymys."** Edustavuus merkitsee, ja tunnustus toteutetaan käytännössä: kenen kysymyksiin tartutaan, kenen panos kirjataan ja ketä pidetään kykenevänä. [[curriculum-design|Opetussuunnitelma]] voi olla edustava ja silti evätä sen tunnustuksen, jota identiteetin muodostuminen vaatii.
-
-## Liittyvät käsitteet
-
-- [[learners]] — Oppijat: oppijapuolen käsitteiden katto
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Liittyvät artikkelit
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 perusopiskelijaa siitä, mitä he tekevät itse, ja miksi tarkoitus harvoin ratkaisee sen
-- [[guarded-adoption-genai-higher-education-2026]] — Generatiivisen tekoälyn vartioitu käyttöönotto korkeakoulutuksessa
-- [[t2i-competence-paradox-2026]] — Kompetenssiparadoksi: luova identiteetti tekstistä kuvaksi -GenAI:n käytössä
-- [[shame-guilt-ai-regulation-computing-education]] — Häpeä ja syyllisyys tekoälyn käytön sosiaalisina säätelijöinä
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Mukautuvat kyvykkyydet elinkelpoiseen ammatilliseen identiteettiin GenAI-tulevaisuudessa
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagoginen symbioosi ja posthumanistinen oppija
-- [[ai-pedagogical-accompaniment-amico]] — Tekoälyavusteinen pedagoginen rinnalla kulkeminen STEM-identiteetin tukena
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Autenttisen arvioinnin suunnittelu
-- [[paternalistic-filter-llm-history-education]] — Paternalistinen tekoälyn käyttö ja opiskelijoiden identiteetti historianopetuksessa
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI tiedekunnan identiteettikriisinä (opettajan identiteetti)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-pohjainen opettajankoulutus ja ammatillinen identiteetti
-- [[genai-professionalization-metaphors-2026]] — GenAI-käsitteellistykset ja opiskelijoiden ammatillinen identiteetti
-- [[synthetic-position-self-authorship-2026]] — Tekijyyden keskeytys: delegoitu tekijyys minänä, joka on tiheästi äännetty mutta vailla tekijää (käsitteellinen analyysi)
-- [[vibe-coding-design-diversity-2026]] — Yksi työkalu, yksi maku? Miten vibe coding vaihtaa kollektiivisen monimuotoisuuden yksilölliseen luovuuteen

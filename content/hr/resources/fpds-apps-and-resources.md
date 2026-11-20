@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -48,7 +49,3 @@ Nastavnici i osoblje za [[educational-development|obrazovni razvoj]] na koledžu
 ## Napomene i upozorenja
 
 Čitanje ne zahtijeva račun, a Canvas kolegiji i kontrolni popisi na koje vodi javni su. Playlabovi treneri te Gemini Gemovi i bilježnice usluge su trećih strana koje ga ipak traže. Kartice se prikazuju iz `apps.json`, pa cijeli popis zahtijeva JavaScript, a rezervni prikaz bez skripte navodi osam od petnaest; kratka poveznica `tinyurl.com/fpdapps` i QR kod u zaglavlju otvaraju ga na telefonu. Repozitorij je softver pod MIT licencijom, dok vodiči na koje vodi nose vlastite licencije, među njima i knjiga u Pressbooksu pod nekomercijalnom licencijom Creative Commons. Raspored objavljivanja ne postoji, pa se stranica mijenja bez najave.
-
-## Povezani pojmovi
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

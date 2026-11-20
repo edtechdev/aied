@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -105,50 +107,3 @@ Faydalar önceki avantajı izlediği için öğrenen tarafı çalışma [[equity
 
 - Örneklemede öğrenen/öğrenci ayrımını açık tutun ve bu ayrımın kimleri dışarıda bıraktığını bildirin.
 - Kullanıcı kadar suçlananı da inceleyin; bu literatürün ince yarısı prosedür tarafıdır.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Öğrenenlerin YZ’yi nasıl algıladığı, onunla nasıl etkileşime girdiği ve ondan nasıl etkilendiği
-- [[learner-identity]] — Öğrenenlerin bir disipline ve YZ’ye kıyasla kim olmaya başladığı
-- [[agency]] — Öğrenenlerin hâlâ denetlediği ve seçtiği
-- [[student-ai-interaction]] — Öğrenenlerin YZ’den fiilen ne istediği ve diyalogların nasıl evrimleştiği
-- [[cognitive-offloading]] — Aşırı bel bağlama ve YZ’nin düşüncenin yerine geçmesi
-- [[self-regulated-learning]] — Kendi öğrenmesini planlama, izleme ve ayarlama
-- [[help-seeking]] — İyi yardım istemek ve öğrenenlerin istemediği zaman ortaya çıkan hata kipleri
-- [[metacognition]] — Neyi anladığını ve neyi anlamadığını bilmek
-- [[motivation]] — Öğrenenlerin neden direndiği veya neden bıraktığı
-- [[self-efficacy]] — Öğrenenlerin kendi yeteneklerine duyduğu güven
-- [[student-engagement]] — Davranışsal, duygusal ve bilişsel katılım
-- [[prior-knowledge]] — Desteğin öğrenmeye dönüşüp dönüşmeyeceğine karar veren arka plan bilgisi
-- [[student-modeling]] — Öğreneni sistemin içinde temsil etmek
-- [[knowledge-tracing]] — Beceri edinimini zaman içinde tahmin etmek
-- [[simulating-students]] — Geçici vekil olarak YZ tarafından simüle edilmiş öğrenenler
-- [[ai-literacy]] — Öğrenenlerin YZ’yi iyi kullanıp kullanmayacağına karar veren yetkinlik
-- [[equity-in-ai-education]] — Kimin fayda gördüğü ve kimin dışarıda kaldığı
-- [[well-being]] — YZ aracılı çalışmanın kaygı, stres ve duygusal maliyeti
-- [[misconceptions]] — Öğrenenlerin YZ’ye getirdiği zihinsel modeller
-- [[stakeholders]] — Aynı alanın diğer tarafı: öğretmenler, liderler, tasarımcılar
-- [[assessment]] — Hangi öğrenen yetilerinin hiç görünür kılındığı
-
-## Bağlı makaleler
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Bağımlılık örüntüleri ve değerlendirme okuryazarlığı öğrenci sonuçlarını böler
-- [[student-perceptions-ai-study-productivity-2026]] — Öğrenenler bağımlılık kaygılarıyla birlikte verimlilik kazanımları bildiriyor
-- [[student-llm-interaction-taxonomy-review-2026]] — Öğrenci–YZ etkileşiminin sınıflandırması
-- [[student-ai-conversations-cognitive-engagement-2026]] — Öğrenci–YZ sohbetinde disipline özgü örüntüler
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Bağımsız yetkinlik olmadan destekli performans kazanımları
-- [[genai-performance-vs-learning]] — Destekli performansın ve desteğiz öğrenmenin neden ayrı ölçülmesi gerektiği
-- [[shaw-nave-cognitive-surrender-2026]] — Bir kaza değil, bir eğilim olarak bilişsel teslimiyet
-- [[metacognitively-discordant-completion-genai-2026]] — Anlamadıklarını fark eden ve yine de teslim eden öğrenenler
-- [[verification-quality-reliance-calibration-genai-2026]] — Doğrulama kalitesi ve bel bağlama kalibrasyonu
-- [[simulating-students-llm-review-2026]] — Simüle edilmiş öğrenenler: mimari, mekanizmalar ve sınırlar
-- [[stanbkt-bayesian-knowledge-tracing]] — Bayesçi bilgi izlemede parametre tahmini
-- [[demographic-signals-llm-student-assessment-2026]] — YZ temelli değerlendirmede örtük ve açık demografik sinyaller
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — YZ okuryazarlığı, katılım ve psikolojik sermaye
-- [[genai-student-experiences-uk-he-survey-2026]] — Öğrenciler en az çabanın çekiciliğini betimliyor
-- [[mulisa-students-genai-integrity-perspectives-2026]] — GenAI’nin bir hile aracı mı yoksa bir öğrenme ortağı mı olduğuna ilişkin öğrenci görüşleri
-- [[munoz-misconduct-allegation-evidence-2026]] — Usulsüzlük iddia dosyalarının kanıt olarak fiilen içerdikleri
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı YZ kuralları ve onların yakaladığı öğrenciler
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uyumdan çok değerlendirici yargı olarak dürüstlük
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Uzaktan gözetimin öğrenciler için duygusal ve eşitlik maliyetleri

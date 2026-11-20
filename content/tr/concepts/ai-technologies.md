@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -59,7 +61,6 @@ Teknik çizgi, bilgi tabanının diğer temalarından ayrılamaz:
 
 **Araştırma ilgisi araç ekosisteminin dar bir diliminde yoğunlaşmaktadır.** 85 YZ aracını STEM ve mühendislik literatürüne karşı haritalandıran [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky ve ark. (2026)]], bunlardan yalnızca 36’sının araştırmada görünür olduğunu ve [[conversational-ai|konuşmaya dayalı YZ]]/LLM’lerin 927 makale–araç bağlantısının %73,7’sini oluşturduğunu, yerleşik bir laboratuvar bağlamında 23 yayın bulunduğunu bulmuştur.
 
-
 ## Eğitimde Yapay Zeka açısından çıkarımlar
 
 - **Teknik okuryazarlık eleştirel kullanımı destekler:** temel modelleri ve teknikleri anlamak, eğitimcilerin ve öğrenenlerin YZ’yi iyi kullanmasına ve eleştirel biçimde değerlendirmesine yardımcı olur (bkz. [[ai-literacy]]).
@@ -76,41 +77,3 @@ Teknik çizgi, bilgi tabanının diğer temalarından ayrılamaz:
 **“Teknik tercihler teknoloğun işidir, eğitimcinin değil.”** Sayfanın çerçevelemesi şudur: bir LLM inşa edemeseniz de mükemmel bir eğitimci olabilirsiniz ve teknik tercihleriniz yine de YZ’nin sınıfınızda neler yapabileceğini ve yapamayacağını şekillendirir. Bir sistemin yanıtlarını ders materyaline dayandırıp dayandırmaması, birinin vermesi gereken pedagojik sonuçları olan bir karardır.
 
 **“Daha yetenekli bir model alanın boşluklarını çözer.”** Orkestrasyon, bellek ve uzun ufuklu planlama yetenek değil mimari sorunlardır: belgelenen yokluk, araç kullanımını zaman içinde yöneten sistemlerin yokluğudur ve daha iyi bir model bunu kendi başına sağlamaz.
-
-## Bağlı kavramlar
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Bağlı makaleler
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM ve mühendislik eğitiminde 85 YZ aracının araştırmadaki görünürlüğü (Terkowsky ve ark. 2026)
-
-
-- [[agentic-ai-education-scoping-review]] — Eğitimde ajan YZ’nin kapsam derlemesi
-- [[genai-meta-analysis-programming-learning]] — Programlama öğreniminde GenAI’nin üretkenlik ve öğrenme üzerindeki etkisine dair meta analiz
-- [[cstutorbench-slm-tutors]] — Küçük dil modeli özel ders kıyas ölçütleri
-- [[educational-llm-alignment]] — LLM’leri eğitim için hizalamak
-- [[eduguard-safe-rag-llm-tutor]] — RAG temelli LLM eğitmenlerine güvence koymak
-- [[hazra-safetutors-pedagogical-safety-2026]] — YZ eğitmen güvenliği ve zararları
-- [[elbench-education-llm-benchmark-2026]] — Eğitim LLM kıyas ölçütü
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini üretken sosyal robot
-- [[benzion-ai-physics-simulations-virtual-lab]] — Sınıf için LLM tarafından üretilen fizik simülasyonları

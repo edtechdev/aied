@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -37,6 +38,3 @@ En **vurderingssuite**: en institutionel modenhedsselvvurdering af AI-parathed i
 
 ## Hvem det er til
 Forskningsledere, udvalg og politikontorer, der har brug for et evidensbaseret billede af, hvordan AI bruges og [[governance|styres]] i et forskningsmiljø, og en måde at følge [[change-management|forandring]] over tid. Den ledsager *Responsible AI in Academic Research: A Competency Framework for Research Training*, som definerer fem dimensioner af parathed, og er skrevet af Michael J. Zyphur, direktør for Instats.
-
-## Relaterede begreper
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

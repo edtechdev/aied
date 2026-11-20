@@ -27,7 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -77,39 +78,3 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 - **« Les erreurs sont évidentes quand elles apparaissent. »** Une IA diagnostiquant des mathématiques manuscrites pouvait **fabriquer des citations de preuves inexistantes tout en affirmant sa confiance**. La défaillance n'était pas une réponse plausible mais fausse ; c'était un étayage inventé présenté avec certitude, la variété la plus difficile à attraper parce qu'elle se lit précisément comme la preuve qu'un lecteur attentif souhaiterait.
 - **« Une production sans citation est un problème de mise en forme. »** Dans un cours de troisième cycle qui avait remplacé son manuel commercial par des lectures générées par l'IA, seules **environ 0,80 % des 4 487 pages journalisées portaient une citation intratextuelle de style APA**. C'est une absence de provenance sur l'ensemble, et non une omission occasionnelle, ce qui signifie que la vérification n'a aucun point de départ.
 - **« L'hallucination est un problème de génération de modèle que les modèles plus récents résolvent. »** La plage de taux va de 10 à 40 % sur 125 études, ce qui est une propriété de la tâche et du déploiement autant que du modèle. Réduire les taux est un progrès réel et ne change rien au fait qu'un lecteur doit pouvoir vérifier.
-
-## Concepts liés
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Articles liés
-
-- [[sim-ai-summary-memory-distortion-2026]] — Un résumé trompeur produit par l'IA a déformé la mémoire d'adultes à propos d'une vidéo, et l'étiquette IA ou humaine ne les a pas protégés
-
-- [[frontiers-gai-hallucination-dependence-2026]] — Étiqueter un dialogue d'IAG comme fabriqué a abaissé à la fois la confiance et la dépendance
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers la production de l'IA, certains cas cités étant mal attribués ou fictifs
-- [[ivory-psychology-assessment-integrity-2026]] — Citations fabriquées et productions auto-contradictoires dans des travaux d'étudiants acceptables (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS : des explications fluides et plausibles mais fausses au niveau conceptuel (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Des injections d'invites cachées relèvent les notes attribuées par l'IA sans être détectées, et les attaques détectées ne sont pas signalées (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Concevoir des évaluations authentiques avec l'IA générative : une étude pilote d'Assessment Authentifire dans l'enseignement supérieur

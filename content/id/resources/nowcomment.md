@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,12 +48,3 @@ Guru yang menjalankan bacaan cermat, studi dokumen, atau analisis media di K-12 
 ## Catatan dan peringatan
 
 Akun gratis, dan dokumen dapat bersifat publik atau dibagikan ke grup yang diundang. Mitra AI berjalan pada model bahasa besar OpenAI, jadi bagian dan pertanyaan yang dipilih meninggalkan hosting platform dan tunduk pada ketentuan penyedia itu — distrik harus membaca pengaturan pemrosesan data sebelum menggunakannya dengan anak di bawah umur. Keluaran dibatasi oleh batas token yang menurut situs masih diperluas, direktori mitra berada di balik login, dan permukaan AI adalah bagian produk yang bergerak cepat: perlakukan kapabilitas apa pun yang dijelaskan di sini sebagai keadaan situs pada November 2026, bukan rangkaian fitur yang sudah mapan.
-
-## Konsep terkait
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

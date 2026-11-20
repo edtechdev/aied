@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -86,26 +88,3 @@ AI موجودہ تعلیمی سرگرمی نظاموں میں نئے **اوزا�
 **"اگر آپ استاد کے عقائد بدلیں تو عمل پیچھے آ جائے گا۔"** تبدیلی کی اکائی فرد سے بڑی ہے۔ وہ مداخلتیں جو معیارات، کام کے بوجھ کی تقسیم اور مشترکہ قواعد بدلتی ہیں، ان سے زیادہ قابلِ اعتماد طور پر عمل بدلتی ہیں جو انفرادی یقین کو نشانہ بناتی ہیں، کیونکہ سرگرمی کا آبجیکٹ اجتماعی طور پر پیدا ہوتا ہے۔ یہی یہ بھی بتاتا ہے کہ انفرادی طور پر پرجوش اختیار کرنے والے کیوں واپس پلٹ جاتے ہیں جب ان کا شعبہ ان کے ساتھ نہیں چلتا۔
 
 **"سرگرمی کا نظریہ ایک توصیفی عدسہ ہے جس کے کوئی ڈیزائن نتائج نہیں۔"** یہ ڈیزائن کو نظام کے عناصر کے درمیان تضادات کی طرف لے جاتا ہے — وہ اوزار جو قواعد سے ٹکراتا ہے، وہ محنت کی تقسیم جو آبجیکٹ سے ٹکراتی ہے — اور تبدیلی دراصل وہیں سے آتی ہے۔ جو عدسہ تضادات کا پتہ لگاتا ہے، وہ آپ کو مداخلت کی جگہ دے رہا ہے، محض الفاظ نہیں۔
-
-## منسلک تصورات
-- [[sociocultural-learning]] — وہ نظریاتی خاندان جس سے سرگرمی کا نظریہ تعلق رکھتا ہے (ویگوتسکیان، ثقافتی-تاریخی)
-- [[learning-theories]] — وہ مرکزہ جو سرگرمی کے نظریے کو سیکھنے کے نظریات میں رکھتا ہے
-- [[distributed-cognition]] — اوزار کے ذریعے ثالثی شدہ، سیاق میں منقسم علمی عمل پر مشترک زور
-- [[situated-learning]] — سیاق اور سرگرمی میں شرکت پر مشترک زور
-- [[agency]] — AI انسانی ایجنسی کو سرگرمی نظام میں کیسے دوبارہ تقسیم کرتا ہے
-- [[teacher-role]] — سرگرمی کا نظریہ اکثر اساتذہ کے اختیار اور عمل کا تجزیہ کرتا ہے
-- [[learning-analytics]] — CHAT اینالیٹکس کے ڈیزائن کو لنگر دیتا ہے
-- [[generative-ai]] — وہ AI نمونہ جو تعلیمی سرگرمی نظاموں میں داخل ہو کر انہیں درہم برہم کرتا ہے
-- [[technology-acceptance-model]] — اختیار کا متضاد انفرادی-عقیدہ بیان
-
-## منسلک مضامین
-- [[jiang-genai-activity-theory-disciplines-2026]] — سرگرمی کے نظریے کے عدسے سے GenAI استعمال اور افشا میں شعبہ وار فرق
-- [[genai-runaway-object-math-higher-ed]] — GenAI کی تدریس اور تحقیق کے سرگرمی نظاموں کو نئے سانچے میں ڈھالنے کا CHAT تجزیہ
-- [[raffaghelli-situated-ai-ethics-2026]] — مقام پذیر AI اخلاقیات جو ماحولیاتی نظام نظریے کو CHAT کے ساتھ ملاتی ہے
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — اساتذہ کے AI اختیار پر سرگرمی کا نظریہ بطور عدسہ (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — سرگرمی کے نظریے کے ذریعے K-12 اساتذہ کے AI استعمال کے تناظر
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT کے ذریعے انجینئرنگ تعلیم میں طلبہ کے بدلتے معیارات
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — استاد کی پیشہ ورانہ ترقی کی CHAT-SDT نئی تشکیل
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI خواندگی کے لیے CHAT پر لنگر انداز لرننگ اینالیٹکس پائپ لائن
-- [[llm-family-education-activity-theory-2026]] — 53 HCI مطالعات کا اسکوپنگ ریویو: LLM نے خاندانی تعلیمی محنت دوبارہ تقسیم کی، جبکہ قواعد زیادہ تر متوقع رہے، نافذ نہیں
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI بطور ثالثی ایجنٹ: نہ اوزار نہ ساتھی کارکن

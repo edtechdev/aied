@@ -37,7 +37,7 @@ ai_assist:
 translation_of: "resources/master-instructional-design"
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
-
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -49,6 +49,3 @@ La skill è accompagnata da un harness di supporto: due subagenti, uno per le in
 ## Termini e avvertenze
 
 La licenza è Creative Commons BY-NC-ND 4.0, e i termini dichiarati dall'autore contano per la maggior parte dei lettori istituzionali: lo studio personale e lo sviluppo professionale non commerciali sono benvenuti, mentre l'uso commerciale, la ridistribuzione e il white-labeling richiedono una licenza commerciale. Il repository riporta 314 punti su 320 in dieci sfide autoprogettate, il che rappresenta una valutazione dell'autore stesso anziché una valutazione indipendente, e lo stesso autore vende consulenza e workshop sul framework. Il progetto è descritto come un'iniziativa personale non affiliata ai suoi datori di lavoro, e il suo ultimo commit risale ad aprile 2026.
-
-## Concetti collegati
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

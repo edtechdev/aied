@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback-literacy, formative-assessment, summative-assessment, peer-assessment, self-assessment, automated-assessment, assessment, authentic-assessment, assessment-validity, self-regulated-learning, ai-literacy, scaffolding, writing-education, reflection]
+connected_articles: [morris-same-feedback-different-source-2026, meyer-teacher-ai-feedback-writing-2026, liu-ai-feedback-motivational-pathways-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, guberman-control-or-support-grading-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, jansen-argumentative-writing-feedback-receptivity-2026, ai-agents-joyful-assessment-third-space-2026, student-perspectives-ai-writing-grading-2026, usher-faraon-who-grades-best-2026, layer-sensitive-cognitive-offloading-writing-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, farrokhnia-genai-feedback-student-revisions-2026, yilmaz-genai-feedback-srl-online-higher-ed-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, luo-eaton-ai-student-feedback-ethics-2026, metacognitive-training-optimal-cognitive-offloading-2026, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, mendoza-ai-feedback-feedback-literacy-srl, rethinking-ai-writing-feedback-literacy, jin-genai-learning-analytics-feedback-literacy, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, ai-generated-feedback-higher-ed, care-full-feedback-genai, ai-feedback-ecosystem-higher-education-2026, learner-centered-feedback-ai, genai-feedback-design-multisite-experiment, ai-feedback-critical-thinking-writing-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, zhao-learnlens-feedback-educators-loop, sequenced-ai-feedback-learning, becerra-aicofe-feedback-2026, automated-formative-assessments-a-level-sciences, fenton-oral-exams-ai-authentic-assessment-2025, marked-pedagogies-linguistic-bias-writing-feedback, shap-llm-rationales-teaching-quality-assessment, llm-adaptive-programming-error-explanations-2026, student-perceptions-ai-study-productivity-2026, yasar-llms-iterative-pedagogical-design-2026, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, tripartite-feedback-framework-ai-assessment-2026, structured-reflection-ai-explanatory-feedback-2026, bounded-reliance-ai-writing-feedback-2026, pivot-generative-video-tutors-stem-2026, llm-feedback-focus-adaptivity-student-writing-2026, nlp-student-evaluation-teaching-scoping-review-2026, nazaretsky-feedback-source-bias-2025, ai-powered-writing-feedback-awe-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, xu-automated-feedback-tutor-training-2025, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, porcaro-ai-grading-benchmark-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, xian-process-visualization-feedback-news-translation-2026, zhang-genai-l2-learning-meta-analysis-2026, wang-human-ai-vs-teacher-collaboration-instructional-design-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -92,7 +94,6 @@ A IA muda o feedback em três direções consequentes, cada uma elevando as apos
 Uma Análise Fatorial de Posto Mínimo de 12 fatores com rotação Promax sobre 108 variáveis não nulas e agrupamento K-means selecionado por silhueta produziu 10 tipos — Correção Direta, Afirmação Direcionada, Dica, Afirmação Não Verbal, Pergunta Retórica, Mostre Seu Trabalho, Comentário Genérico, Crítica Direta, Exemplo Resolvido e Positividade Não Específica.
 A prevalência foi de 26, 16, 4, 2 e 1 observações nos maiores agrupamentos.
 
-
 - **Letramento em feedback e calibração são alavancas separáveis.** Com 120 graduandos, um Roteiro de Letramento em Feedback (Filtrar–Raciocinar–Agir–Verificar) elevou a [[writing-education|qualidade da escrita]], a apropriação efetiva e a revisão profunda, uma Atividade de Calibração entre Avaliação e Desempenho melhorou a precisão da [[self-assessment|autoavaliação]] e reduziu a autoconfiança excessiva, e combiná-las produziu os maiores ganhos de escrita e a retenção mais forte após a retirada do apoio da IA ([[rethinking-ai-writing-feedback-literacy|Dai (2026)]]).
 - **Clareza não é eficácia.** Mensagens de erro de Python reescritas por LLM foram avaliadas como significativamente mais legíveis e menos exigentes cognitivamente que a saída-padrão do interpretador, mas não produziram ganho significativo na taxa de correção, nas tentativas ou no tempo até a correção ([[llm-adaptive-programming-error-explanations-2026|Moraru, Biswas & Gadiraju (2026)]]).
 
@@ -101,7 +102,6 @@ A prevalência foi de 26, 16, 4, 2 e 1 observações nos maiores agrupamentos.
 [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] fornecem um resultado experimental limpo sobre desenho de feedback com relevância direta para a AIED: **feedback verídico, imediato e tentativa a tentativa, atrelado à própria previsão prévia de quem aprende, é o que muda o comportamento — previsão ou crenças isoladas não bastam**. No desenho de quatro grupos, o feedback combinado a uma previsão de desempenho precedente melhorou a calibração e o comportamento, enquanto previsões sem feedback não fizeram nada, e acrescentar um rótulo explícito de excesso/falta de confiança não acrescentou mais nada. Os LLMs também podem servir como parceiros de calibração nesse processo: [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] concluíram que, após o refinamento da rubrica, os LLMs demonstraram maior consistência que alguns corretores humanos ao aplicar limiares de desempenho — útil para sessões de normatização e ambientes de [[formative-assessment|feedback formativo entre pares]], onde o modelo ajuda a calibrar o [[evaluative-judgment|julgamento avaliativo]] em vez de substituí-lo. Isso se alinha à visão de sistema de feedback desta base de conhecimento: o poder do feedback está em fechar a lacuna contra a estimativa *própria* de quem aprende (o emparelhamento provisão–apropriação), e o feedback eficaz deve ser imediato, preciso e explicitamente conectado ao que quem aprende previu — um princípio de desenho tanto para sistemas de feedback de IA quanto para o treinamento em [[feedback-literacy|letramento em feedback]].
 
 O esforço, porém, não é automaticamente o ingrediente que falta. Em um experimento entre sujeitos pré-registrado com 302 adultos norte-americanos aprendendo Python introdutório, [[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold & Carvalho (2025)]] parearam feedback explicativo personalizado do [[llm|Claude Sonnet 3.5]] com um prompt estruturado de autoexplicação em três passos — para cada seção de código incorreta, o que o código correto faz e por que a própria tentativa de quem aprende falhou — e a reflexão acrescentada não comprou nada. Participantes da [[reflection|Prática Reflexiva]] gastaram 4,1 minutos revisando feedback contra 2,1 minutos na Prática simples (t(267) = 11,30, p < ,001), o que deixou espaço para apenas 2,0 problemas de prática em vez de 3,4 (t(267) = 8,20, p < ,001); cada problema valia o mesmo de qualquer forma (Reflexão × número de problemas OR = 1,03, z = 0,23, p = ,486), de modo que a Prática terminou com domínio maior, 79% contra 65% (d = ,41), e nunca ficou atrás em itens de [[transfer-of-learning|transferência]] próxima, transferência distante ou avaliação de código. A reflexão também falhou em entregar o benefício metacognitivo que visava: os julgamentos de aprendizagem não diferiram entre os braços, e as condições de prática foram melhor calibradas (subconfiantes em 11 pontos, contra quem assistiu a vídeos 20 pontos autoconfiantes, d = −,93) e relataram menos [[cognitive-offloading|distração]] (d = −,80) que quem aprendeu de forma reflexiva, cujas reflexões tinham em média apenas 35 palavras. A leitura dos autores é que o feedback de IA já havia fornecido o [[scaffolding|andaime]] que a autoexplicação normalmente acrescenta — uma mensagem que nomeia o erro, explica a abordagem correta e descreve o conceito subjacente deixa pouco para um prompt de reflexão fazer. Escrever reflexões enquanto ainda se aprende sintaxe desconhecida competia diretamente com a repetição variada que constrói competência transferível. Isso localiza uma condição de fronteira para as [[desirable-difficulties|dificuldades desejáveis]] e o [[productive-failure|fracasso produtivo]] no eixo da profundidade de processamento: o esforço compensa quando impulsiona recuperação e aplicação adicionais, mas custa caro quando apenas prolonga o tempo de leitura. Isso também incide sobre como a [[ai-feedback-quality|qualidade do feedback]] interage com a [[self-regulated-learning|apropriação]]: quanto mais elaborado e direcionado o feedback, menor o espaço para uma camada adicional agregar valor, o que desloca a atenção do desenho de aprofundar um episódio para gastar os escassos minutos de prática em volume, variabilidade de problemas e no momento certo de refletir, em instantes como um platô detectado — o estudo testou uma única melhoria não validada, e os autores notam que essas variantes permanecem em aberto.
-
 
 - **Foco e [[adaptive-learning|adaptatividade]] são dimensões separáveis do feedback.** A anotação de comentários de professores e de LLM em três disciplinas universitárias de escrita com sete tipos de foco de feedback mostra que a maioria dos modelos cobre quase todo tipo, enquanto nenhum corresponde à distribuição do professor entre eles, e nenhum desloca seu foco ao longo das etapas de rascunho como um instrutor especialista faz ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
 - **Ganhos agregados podem esconder deslocamentos que se compensam.** Três meses de feedback do WISE Agent com 260 estudantes chineses do sexto ano não moveram nenhuma nota total de disposição ao pensamento crítico (t=-0,854, p=0,394), mas a Busca pela Verdade subiu (p<0,001) enquanto a Maturidade Cognitiva caiu (p=0,019) — queda que os autores leem como estudantes recalibrando uma compreensão superestimada. ([[ai-feedback-critical-thinking-writing-2026|Zhu et al. (2026)]])
@@ -132,7 +132,6 @@ A percepção central desta base de conhecimento sobre feedback é que **qualida
 
 Quais capacidades do lado do estudante importam é empiricamente separável: entre 1.507 estudantes do ensino médio que cada um recebeu uma única mensagem padronizada de feedback automatizado sobre um texto argumentativo, apenas o engajamento comportamental com o feedback e as atitudes instrumentais em relação a ele previram o desempenho de revisão — estudantes no 75º percentil em qualquer dimensão melhoraram cerca de 0,10 ou 0,11 pontos WLE mais que estudantes comparáveis no 25º, grosso modo do 46º ao 54º percentil — enquanto receptividade global, engajamento cognitivo e atitudes experienciais não se relacionaram a ele e a [[technology-acceptance-model|utilidade percebida]] não mediou o caminho de nenhuma dimensão para o desempenho. A utilidade agiu sobre o outro desfecho: o efeito da receptividade global sobre o interesse situacional passou inteiramente pela utilidade percebida (β indireto = 0,09, IC 95% [0,06, 0,13]), de modo que os ganhos de revisão acompanharam hábitos duráveis de agir sobre o feedback, enquanto o interesse acompanhou a avaliação de uma mensagem particular. ([[jansen-argumentative-writing-feedback-receptivity-2026]])
 
-
 Uma fonte pode diferir em como calibra, não em quão bem pontua: em um experimento randomizado, o feedback de IA com cadeia de pensamento superou um professor experiente em qualidade de rubrica, mas não produziu maiores ganhos de revisão, enquanto o feedback do professor permaneceu calibrado ao longo dos rascunhos e o feedback de IA generativa acompanhou a força da redação inicial ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]]).
 
 O quanto um estudante acredita sobre a fonte muda o que ele faz com palavras idênticas. Em um experimento de três condições, 148 adultos receberam feedback escrito por um único modelo sobre seu próprio código p5.js, rotulado como gerado por IA ou revisado por um assistente de ensino, com a entrega mantida em 60 segundos. Quem acreditou que um humano havia lido seu trabalho permaneceu mais tempo na tarefa (948 s contra 741 s, d = 0,61) e manteve a janela do tutorial em foco por mais tempo (850 s contra 662 s, d = 0,56), enquanto as avaliações de utilidade não se moveram e a qualidade do código não melhorou. Quase metade do grupo com atribuição humana não acreditou no rótulo, e esses participantes escreveram programas mais curtos e menos complexos que o grupo abertamente rotulado como IA. A credibilidade da fonte é parte da apropriação, e é frágil: uma fonte mal atribuída pode deprimir o engajamento abaixo da divulgação simples ([[morris-same-feedback-different-source-2026|Morris & Maes, 2026]]).
@@ -150,11 +149,9 @@ O feedback é um dos mecanismos mais consequentes e melhor evidenciados na educa
 
 - **"O tom é um detalhe da qualidade do feedback."** No benchmark, ele seguiu o número que recebeu: todo modelo, informado de uma nota que contradizia o trabalho, escreveu feedback cujo tom seguia aquela nota, e para **oito de 22** o deslocamento por ponto igualou ou excedeu o deslocamento com a qualidade do trabalho. Apenas a regra de tom foi validada contra anotadores treinados, em **1.655** respostas de tutores, de modo que a substância não foi medida. [[porcaro-ai-grading-benchmark-2026|Um corretor que escreve feedback a partir de uma nota errada branqueia o erro em elogio ou crítica]].
 
-
 **O feedback pode ser construído a partir do processo, e não do produto.** Em [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]], um braço recebeu [[visualization|visualizações]] personalizadas de sua própria atividade de teclado e tela com reflexão estruturada, enquanto o outro recebeu comentários escritos do instrutor sobre precisão, clareza e qualidade editorial. O braço de processo ganhou 5,64 pontos em uma avaliação editorial cega de 0–100, contra 1,91 do braço de produto, com uma interação Grupo × Tempo (F(1, 20) = 4,94, p = 0,038, eta quadrado parcial 0,198) e o ganho do próprio braço controle não significativo (p = 0,123). Onze estudantes por braço significa que a direção é o achado, e não o tamanho.
 
 - **A demanda por feedback de IA pode medir escassez, não preferência.** Em um curso Honors sobre avaliação, os estudantes acolheram o feedback gerado por IA principalmente porque haviam recebido tão pouco feedback do instrutor, e não porque o julgaram melhor, e queriam que ele fosse delimitado pelo julgamento do instrutor ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
-
 
 - **Feedback de IA validado por humanos melhorou as revisões, mas não a aprendizagem no pós-teste.** Em um ensaio randomizado com 354 graduandos e 1.366 redações, o feedback de assistentes de ensino mediado por IA elevou a qualidade da revisão (d de Cohen = 0,50) enquanto as notas do pós-teste permaneceram estáveis, e o ganho cresceu à medida que os assistentes adotaram mais sugestões ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
@@ -168,88 +165,3 @@ A síntese sobre L2 dá a essa hierarquia uma âncora empírica. Entre 48 estudo
 - **"Os estudantes não conseguem distinguir feedback de IA de feedback humano."** Conseguem, e o rótulo muda o julgamento: **assim que o rótulo foi revelado, as avaliações da variante de IA caíram e as da variante humana subiram — significativamente em Genuinidade (p < .01)**. A credibilidade do provedor moldou a avaliação de um feedback de estilo idêntico.
 - **"A aprovação em laboratório prevê o uso no semestre."** **Aprovação em laboratório não é uso no semestre**: **todos os 18 estudantes** reagiram positivamente à função de explicação por GenAI nas sessões de laboratório, **mas apenas metade a usou ao longo do período**. A lacuna entre intenção e uso é o problema de desenho.
 - **"O feedback corretivo imediato está resolvido com LLMs."** Gerá-lo dentro de um tutor é **viável, mas imperfeito**: em **6.926 transações registradas** na coleção Apprentice Tutor, o feedback era bom o bastante para implantar e não bom o bastante para presumir correção.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — Sequências de feedback testadas, incluindo por que feedback de IA de maior qualidade não produziu mais revisão
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[reflection]]
-
-## Artigos conectados
-- [[morris-same-feedback-different-source-2026]] — feedback idêntico, fonte atribuída diferente: o esforço subiu com a autoria humana acreditada, a qualidade não
-- [[meyer-teacher-ai-feedback-writing-2026]] — 391 estudantes alemães: nenhuma diferença significativa em qualquer desfecho; o imediatismo, e não a autoria, atraiu as melhores avaliações (Meyer et al., 2026)
-- [[liu-ai-feedback-motivational-pathways-2026]] — 247 graduandos: a qualidade percebida do feedback previu competência, autonomia e pertencimento (Liu et al., 2026)
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Feedback de IA validado por humanos elevou a qualidade da revisão (d = 0,50), mas não as notas do pós-teste (Lu et al. 2026)
-- [[guberman-control-or-support-grading-2026]] — Estudantes acolheram o feedback de IA porque o feedback era escasso, e não porque era melhor (Guberman 2026)
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Feedback de agentes que se repetia entre revisões (Humburg et al. 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Feedback automatizado sobre escrita argumentativa: o papel da receptividade ao feedback e da percepção de feedback de estudantes do ensino médio
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, avaliação prazerosa e terceiro espaço
-- [[student-perspectives-ai-writing-grading-2026]] — Perspectivas de estudantes sobre avaliação transparente de escrita assistida por IA (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparando correção por ChatGPT, por pares e por instrutor ao longo de níveis de qualidade de projeto (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descarregamento cognitivo sensível a camadas na escrita assistida por IA generativa (Chen 2026)
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Feedback de professor vs. de IA generativa: estudantes revisam menos com IA
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Feedback de IA generativa e aprendizagem autorregulada: a fonte percebida importa
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Feedback entre pares assistido por IA generativa na argumentação colaborativa
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ética da IA no feedback de estudantes
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Treinamento metacognitivo facilita o descarregamento cognitivo ótimo (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Escala de letramento em feedback de IA e previsão de apropriação (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — A IA generativa como habilitadora do engajamento dos estudantes com feedback (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — O letramento em feedback modera feedback de IA → AAR (Mendoza et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Roteiros de letramento em feedback para escrita assistida por IA (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Analytics de aprendizagem com IA generativa no feedback (Jin et al. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Ferramenta de feedback automatizado com IA para letramento em feedback (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — IA generativa no feedback entre pares em EFL para letramento em feedback (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — Feedback gerado por IA no ensino superior
-- [[care-full-feedback-genai]] — Desenho de feedback cuidadoso com IA generativa
-- [[ai-feedback-ecosystem-higher-education-2026]] — O ecossistema de feedback no ensino superior: a IA retrabalha as relações de feedback, e humanos como a alça (Bearman et al. 2026)
-- [[learner-centered-feedback-ai]] — Práticas de feedback de IA centradas em quem aprende
-- [[genai-feedback-design-multisite-experiment]] — Desenho de feedback de IA generativa multissítio
-- [[ai-feedback-critical-thinking-writing-2026]] — Feedback de IA e pensamento crítico na escrita
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — A avaliação com IA generativa constrói letramentos psicológico, de feedback e de IA
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: feedback fundamentado no currículo com supervisão de educadores (Zhao et al. 2025)
-- [[sequenced-ai-feedback-learning]] — Estudos sobre feedback de IA sequenciado
-- [[becerra-aicofe-feedback-2026]] — Sistemas de feedback entre pares com IA
-- [[automated-formative-assessments-a-level-sciences]] — Avaliações formativas automatizadas em ciências do A-level
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderando provas orais como avaliação autêntica e resistente à IA
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: viés no feedback automatizado de escrita
-- [[shap-llm-rationales-teaching-quality-assessment]] — Justificativas de SHAP vs. LLM para feedback de ensino baseado em rubrica
-- [[llm-adaptive-programming-error-explanations-2026]] — Explicações adaptativas de erros de programação por LLM
-- [[student-perceptions-ai-study-productivity-2026]] — Percepções de estudantes sobre ferramentas de inteligência artificial para produtividade de estudo e aprendizagem: um estudo exploratório de levantamento
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs como agentes de desenho pedagógico iterativo
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Framework tripartido: classificando o feedback por status epistêmico e os cinco princípios de fronteira para o envolvimento da IA (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefício ou gargalo? Reflexão estruturada sobre feedback explicativo de IA (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: uma perspectiva de credibilidade da fonte sobre o engajamento de estudantes de EFL com feedback de escrita gerado por IA
-- [[pivot-generative-video-tutors-stem-2026]] — Da geração de conteúdo ao apoio à aprendizagem: tutores de vídeo generativos guiados pela pedagogia para aprendizagem em STEM
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Avaliando foco de feedback e adaptatividade pedagógica no feedback gerado por LLM sobre escrita de estudantes
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da classificação de sentimento a feedback acionável e responsável: uma revisão de escopo e mapa de evidência de PLN na avaliação do ensino por estudantes, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Quem dá o feedback importa: rótulos de fonte deslocam avaliações quando o texto é mantido comparável (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — Sistema de feedback de escrita impulsionado por IA: uma revisão de ferramentas de avaliação automatizada de escrita (AWE)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — O que uma revisão faz à postura de quem escreve: o feedback de pares torna redações argumentativas mais contrativas, a revisão por IA mantém o equilíbrio Contrato/Expansão (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — Melhorando sistemas de feedback automatizado para treinamento de tutores em cenários de baixo recurso por meio de aumento de dados (Xu et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico por IA conversacional de concepções errôneas sobre o ensino com diálogo fundamentado em evidências (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Nomeia a negociação entre usabilidade, fontes e sustentabilidade, fazendo da sustentabilidade um polo de desenho
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompt enfrentam sondagens cuja resposta certa é conhecida, e a maioria deles pode ser convencida a subir a nota (Porcaro 2026)
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Feedback de IA e de instrutor são iguais na qualidade da revisão, e desiguais na motivação (Liu e Shi 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — Feedback gerado a partir de rastros de teclado e tela superou comentários escritos sobre o produto, 11 por braço
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálise de três níveis: a IA generativa funciona por meio do feedback e do desenho dirigido ao aprendiz, e não como uma intervenção uniforme (Zhang et al. 2026)
-- [[wang-human-ai-vs-teacher-collaboration-instructional-design-2026]] — Feedback do professor e de IA se dividem por dimensão e divergem na experiência de aprendizagem

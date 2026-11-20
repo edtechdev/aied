@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
 
@@ -148,72 +150,3 @@ ai_assist:
 **„Вината за употребата на AI показва нарушаване на правила.“** Тя следва прикриването, а не разкриването: ограничаването на употребата на AI поради неудобство корелираше със скриването й, а не със забранено поведение. Четенето на вината като доказателство за нарушение следователно идентифицира погрешно източника й, а третирането й като сигнал за съответствие ще избута поведението още по-далеч от погледа.
 
 **„Ниският дял на отговори в анкетата означава, че преподавателите нямат силни чувства.“** Статията чете своите **109 отговора (дял от 3,5%)** като сами по себе си информативни за състоянието на етичния дебат - ниският отговор на въпрос за дискомфорт е находка за този дискомфорт, а не липса на такъв. А интеграцията на GenAI, рамкирана само като повишаване на квалификацията, пропуска въпроса за идентичността, който някои преподаватели действително задават: какъв е смисълът на преподаването в свят с GenAI.
-
-## Свързани концепции
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Извличане на метафори и дизайн на аналогии в развитието на преподаватели
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - Чадър: хората и аудиториите в AI образованието (обучаеми, учители, дизайнери, администратори, политици)
-
-## Свързани статии
-- [[jordan-faculty-ai-oer-creation-2025]] — От подкана към практика: инициатива, центрирана върху преподавателите, за изследване на AI-подпомогнато създаване на OER (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Критичен дискурсен анализ на съветите за съответствие с GenAI: разработчиците, преформулирани като обучители по технологии
-- [[crompton-faculty-technology-integration-standards-2026]] — Стандарти за преподаватели за интеграция на технологии (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Етични измерения на AI: възгледите на преподаватели и студенти
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Как метафорите на преподавателите по инженерство конструират (и ограничават) разбирането за AI
-- [[fear-awe-genai-metaphor-workshops-2025]] — Страх и благоговение: осмисляне на генеративния AI чрез метафора (семинар за метафори с преподаватели, служители и студенти)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Четири критерия и четири метафори за преподаване на критична AI грамотност
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Управление на невидимото: AI грамотността сред учителите по езици
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI като криза на идентичността, а не дефицит на умения
-- [[zuo-instructor-power-genai-writing-2026]] — Властови отношения, възприемани от университетски преподаватели, борещи се с GenAI в писането (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Модел на рефлексивния триъгълник: AI като когнитивен медиатор
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Самовъзприемано знание по TPACK-21 на преподаватели за GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK професионално развитие: присъствието предсказва печалбите, самовъзприеманото участие не
-- [[instructional-design-proficiency-masters-math-2026]] — Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Опитът и възприятията на университетските преподаватели за GAI: уязвимост, преосмисляне на оценяването, застрашено студентско учене (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — От страх към иновация: шестседмичен институт за преподаватели, симбиотична педагогика и институционалните условия, които той не можа да осигури
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Комплексът за AI вина: предварителна вина, прикриване и различия по етап на кариерата сред академичния персонал (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Анкета на AAC&U/Elon с 1057 преподаватели в САЩ: институционална неподготвеност, тънко управление и пропастта в политиката 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Академичните разработчици като цифрови медиатори във висшето образование в глобалния юг: развитието като социотехническа праксис
-- [[physics-faculty-learning-community-ai-2026]] — Серия от семинари за ефективно използване на AI в несигурни времена: изграждане на учебна общност на физическия факултет
-- [[faculty-ai-well-being-social-supports-2026]] — Благополучието с AI при преподавателите следва AI грамотността, а не технологичната самоефективност
-- [[ai-competence-framework-landscape-2026]] — Проверете какво описват нивата на една рамка, преди да я приемете
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Може ли образованието да зададе дневния ред за AI? Симулирана иновация и педагогическо задаване на посока в подготовката на учители
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 учители по химия в шестседмична програма
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Над 150 учители по езици от 28 държави в 20 седмици
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2159 скандинавски учители; 0.20 SD придобивка във възприеманите ползи
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 учители след програма за учене с GenAI, с потребности, медииращи ангажирането
-- [[bodek-prompted-to-explore-microlearning-2026]] — модел за микрообучение в професионалното развитие по генеративен AI
-- [[bursic-ai-residency-education-curriculum-2026]] — AI пребиваване в медицинското образование
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ресурса; развитието на преподавателите като една от четирите теми
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 учители, искащи развитие, водено от бивши учители
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% повишават квалификацията на съществуващия персонал и преподаватели
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 преподаватели, легитимиращи сенчестия AI там, където насоките отсъстват
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Пропуски в способностите, движещи преподавателското развитие и решенията за наемане
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — Повтарящото се развитие като един от петте слоя подкрепа
-- [[chen-future-faculty-development-ai-2027]] — Седем преподавателски роли, две универсални основи и преподавателският екип като единица за развитие
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Пространството за преценка, диалогичното изследване и триколонен одит на това къде преценката се е преместила към инструмент
-- [[jiang-faculty-development-japan-2027]] — Двупистовият FD в Япония: участието нараства, докато колегиалните формати — не
-- [[tian-transnational-faculty-development-governance-2027]] — Трансгранично преподавателско развитие: свързаността е епизодична, координацията е работата
-- [[ho-invariant-core-faculty-development-2027]] — Инвариантно ядро, движещ се ръб: механизмът на учене преди технологията

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -89,33 +91,3 @@ ai_assist:
 
 - Повідомляйте показники уподобання та результатів разом і прямо зазначайте, коли в дослідженні є лише перші.
 - Явно повідомляйте часове узгодження, зважаючи на те, що неузгодження між змістом відео та [[cognitive-psychology|когнітивною обробкою]] проявляється в нейронних даних.
-
-## Пов’язані поняття
-
-- [[online-teaching-and-learning]] — відео як основний засіб онлайн- і змішаного навчання
-- [[generative-ai]] — двигун згенерованого та персоналізованого відео ШІ
-- [[personalized-learning]] — персоналізація як рушій привабливості відео ШІ
-- [[adaptive-learning]] — адаптивна генерація відео та темп
-- [[multimodal]] — відео, що поєднує візуальну, аудіо та текстову модальності
-- [[learning-analytics]] — аналітика залученості та уваги у відео
-- [[student-engagement]] — залученість, яку персоналізація відео має на меті підвищити
-- [[pedagogical-agent]] — аватари/ведущі ШІ як віртуальні педагогічні агенти
-- [[llm]] — великі мовні моделі, що лежать в основі генерації сценаріїв і відео
-- [[trust]] — довіра здобувача до ведучих і змісту на основі ШІ
-
-## Пов’язані статті
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: генерація персоналізованих за галуззю відео лекцій якості MOOC у масштабі (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Згенеровані ChatGPT коментарі всередині відео: таймінг за ентропією, розриви в якості проти людських коментарів (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Студенти віддають перевагу персоналізованим згенерованим ШІ відео над неособистими записаними людиною (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Сприйняття/вподобання студентів щодо згенерованого ШІ інструкційного відео в освіті з обчислювальної техніки
-- [[ai-video-dual-gatekeeping-2026]] — Подвійний контроль для педагогічно обґрунтованого створення відео ШІ
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: адаптивна генерація педагогічного відео
-- [[engagement-assessment-video]] — Оцінка залученості у відеонавчанні
-- [[savvy-student-attention-video-learning]] — Візуалізація уваги студентів для навчання на основі відео
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Як ідентичність аватара формує епістемічну довіру в опосередкованому ШІ навчанні
-- [[bilingual-llm-lecture-companion-srl-2026]] — Двомовні супутники лекцій на основі LLM для саморегульованого навчання
-- [[adhd-video-segmentation-computing-education]] — Часова сегментація відео для індивідуальних відмінностей
-- [[ai-psychotherapy-training-avatars]] — Аватари ШІ в навчанні психотерапії
-- [[gemini-lualatex-physics-video-transcription-2026]] — Транскрипція відео лекцій з фізики в доступний текст
-- [[pivot-generative-video-tutors-stem-2026]] — Від генерації змісту до підтримки навчання: керовані педагогікою генеративні відеотьютори для навчання STEM
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Дивись туди! Динамічне візуальне керівництво для озвучених ШІ слайдів

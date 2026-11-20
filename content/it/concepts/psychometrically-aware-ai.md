@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -61,29 +63,3 @@ L'AI consapevole della psicometria si colloca all'intersezione tra [[educational
 - **"Un modello che ottiene buoni punteggi sta misurando la stessa cosa."** **Sullo stesso strumento di valutazione**, le strutture di risposta umane e quelle delle LLM **divergono** — un modello può ottenere buoni punteggi misurando qualcosa di diverso da ciò che lo strumento intende. L'uguaglianza dei punteggi è l'osservazione; l'equivalenza dei costrutti è un'affermazione separata che richiede evidenza a livello di struttura.
 - **"La calibrazione si legge da un'unica cifra di accuratezza."** **Un'unica cifra di accuratezza può nascondere un modello solo apparentemente calibrato**: chiedere a GPT-4o e a Gemini 2.0 Flash di inferire dimensioni di stile di apprendimento dai dialoghi di **153 studenti universitari** ha prodotto un'**accuratezza moderata che si comportava diversamente sotto metriche bilanciate**. L'accuratezza aggregata nascondeva una differenza che le metriche bilanciate hanno esposto.
 - **"Le pipeline di valutazione automatizzata non possono riprodurre la procedura psicometrica."** Gli autori hanno riprodotto una pipeline consolidata in forma automatizzata (**una probabilità del 67% di rispondere correttamente ad almeno 7 item della rubric per il taglio inferiore e ad almeno 10 per quello superiore**), consentendo di confrontare i punteggi degli item prodotti dall'IA e dagli umani sullo stesso piano. La procedura era riproducibile; la questione del costrutto resta.
-
-## Concetti collegati
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Articoli collegati
-- [[genai-reliance-scale-problem-solving-2026]] — A validated scale for students’ reliance on generative AI during problem solving (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate accuracy was majority-class prediction once per-class recall was checked (Zamanifard, Goudarzi & Robb 2026)

@@ -10,6 +10,8 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 > **Activity theory** (Cultural-Historical Activity Theory, CHAT) — a Vygotskian framework that analyzes learning and work as *tool-mediated, object-oriented, collective activity systems* composed of subject, object, tools/mediating artifacts, community, rules, and division of labor. In [[ai-education|AI in education]], activity theory is used both as an **analytic lens** (to understand how AI reshapes the activity systems of teaching, learning, and research) and as a **design tool** (to diagnose systemic contradictions and redesign interventions). It frames AI systems — [[generative-ai|generative AI]] included — as *mediating artifacts* that reconfigure the division of labor, rules, and community of educational activity, for better and worse.
@@ -76,27 +78,3 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 **"If you change the teacher's beliefs, the practice will follow."** The unit of change is larger than the person. Interventions that alter norms, workload distribution and shared rules change practice more reliably than those aimed at individual conviction, because the object of the activity is produced collectively. This also explains why individually enthusiastic adopters revert when their department does not move with them.
 
 **"Activity theory is a descriptive lens with no design consequences."** It directs design at the contradictions between elements of the system — the tool that conflicts with the rules, the division of labor that conflicts with the object — which is where change is actually levered. A lens that locates contradictions is giving you a place to intervene, not merely a vocabulary.
-
-## Connected Concepts
-- [[sociocultural-learning]] — the theoretical family activity theory belongs to (Vygotskian, cultural-historical)
-- [[learning-theories]] — the hub that situates activity theory among learning theories
-- [[distributed-cognition]] — shared emphasis on tool-mediated, contextually distributed cognition
-- [[situated-learning]] — shared emphasis on context and participation in activity
-- [[agency]] — how AI redistributes human agency across the activity system
-- [[teacher-role]] — activity theory frequently analyzes teachers' adoption and practice
-- [[learning-analytics]] — CHAT anchors the design of analytics
-- [[generative-ai]] — the AI artifact that enters and disrupts educational activity systems
-- [[technology-acceptance-model]] — the contrasting individual-belief account of adoption
-
-## Connected Articles
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
-- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
-- [[llm-family-education-activity-theory-2026]] — Scoping review of 53 HCI studies: LLMs redistributed family educational labor, while rules were mostly anticipated rather than enacted
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI as a mediational agent: neither tool nor collaborator
-

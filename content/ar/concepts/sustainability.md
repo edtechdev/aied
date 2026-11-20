@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -79,32 +81,3 @@ ai_assist:
 - **«المعرفة المجرَّدة بالذكاء الاصطناعي تتنبّأ بقدرة المعلّمين على تعليم الاستدامة.»** وجد [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] أن **الاستخدام العملي للذكاء الاصطناعي** لدى المعلّمين في سياقات العلوم والطاقة الخضراء و**مشاركتهم في تطوير مواد متوافقة مع التعليم من أجل التنمية المستدامة** — **أكثر من المعرفة المجرَّدة بالذكاء الاصطناعي أو الاتجاهات** — تنبّأ بقدرتهم. فمعرفة الذكاء الاصطناعي والقدرة على البناء به افترقتا، والمسار العملي تنبّأ أكثر.
 - **«التصميم التعليمي المدعوم بالذكاء الاصطناعي في ظلّ بيداغوجيا استدامة يُنتج بيداغوجيا استدامة.»** وجد العمل نفسه أن [[learning-design|التصميم التعليمي]] المدعوم بالذكاء الاصطناعي في ظلّ بيداغوجيا التنمية المستدامة **قيّد** التصميم بطرق محدّدة بدلًا من أن يوسّعه. فالنموذج المدرَّب على مواد تقليدية يعيد إنتاج التأطيرات التقليدية ما لم يصحّح عمل التصميم ذلك.
 - **«الاستدامة موضوع، لا موضوع عابر للحدود.»** ولأن المسارين يجريان عبر المراحل، تظهر الاستدامة في [[higher-ed|التعليم العالي]] ومرحلة K-12 والسياقات المهنية — وهو ما يعني أنها موضوع تأسيسي يجب معالجته داخل كل تخصص بدلًا من تدريسه مادةً مستقلة.
-
-## المفاهيم المرتبطة
-
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## المقالات المرتبطة
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — دراسة مسحية ومجموعات تركيز سويدية تجادل بأن أخلاقيات الشراكة، لا إطار الغش، ينبغي أن توجّه قرارات المؤسسة بشأن الذكاء الاصطناعي التوليدي
-- [[daniel-ai-sustainability-scoping-review-2026]] — مراجعة محدَّدة النطاق للذكاء الاصطناعي من أجل الاستدامة والذكاء الاصطناعي المستدام في التعليم العالي
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — مقاربة نقدية قيمية للتعليم المستدام والذكاء الاصطناعي
-- [[liu-ai-sustainable-engineering-education-2026]] — إطار AI-SEE لتعليم الهندسة المستدام
-- [[riandi-teacher-ai-green-energy-education-2026]] — مشاركة المعلّمين في دمج الذكاء الاصطناعي لتعليم الطاقة الخضراء
-- [[talebzadeh-ai-green-education-2026]] — دور الذكاء الاصطناعي في التعليم الأخضر
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — مساعدو قاعدة معارف بالذكاء الاصطناعي المستدام
-- [[llm-environmental-impact-student-usage-2026]] — الآثار البيئية لاستخدام نماذج اللغة الكبيرة
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — تنمية التعلّم المستدام عبر الذكاء المُتجسّد
-- [[caruana-pre-university-ai-education-slr-2026]] — مراجعة منهجية للتعليم ما قبل الجامعي بالذكاء الاصطناعي (تأطير هدف التنمية المستدامة 4)

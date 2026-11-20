@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -127,33 +129,3 @@ La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una sín
 **«Las teorías del aprendizaje, los modelos de quien aprende y los marcos de adopción son lentes intercambiables.»** Responden a preguntas distintas —cómo ocurre el aprendizaje, cuál es el estado de quien aprende y por qué se difunde una práctica— y sus tipos de evidencia difieren en consecuencia. Elegir la capa equivocada produce un estudio que mide la variable correcta contra la predicción equivocada, lo que se lee como un resultado nulo cuando es un error de categoría.
 
 **«Más marcos significan un campo más maduro.»** Los marcos acuñados para la era de la IA se acumulan más rápido de lo que se prueban, y la acumulación sin falsación es un síntoma y no un progreso. La madurez se manifiesta en predicciones rivales que se resuelven, no en el crecimiento del vocabulario.
-
-## Conceptos conectados
-
-- [[theory-development-aied]] — construir y revisar teoría en el campo
-- [[philosophy-of-ai-in-education]] — la capa normativa y conceptual
-- [[learning-theories]] — el paraguas de la teoría del aprendizaje
-- [[learning-sciences]] — el campo vecino del que se toma prestada la mayor parte de la teoría
-- [[limitations-in-aied-research]] — lo que la base de evidencia puede y no puede sostener
-- [[tpack]] — marco de conocimiento docente
-- [[technology-acceptance-model]] — marcos de adopción
-- [[item-response-theory]] — un modelo de medición
-- [[universal-design-for-learning]] — un marco de diseño
-- [[research-methods-aied]] — cómo se pone a prueba la teoría
-
-## Artículos conectados
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Las posibilidades emocionales propuestas como cuarta categoría de una taxonomía de posibilidades
-- [[ai-game-based-learning-systematic-review-2026]] — La alineación entre mecanismo y teoría, y no la sofisticación algorítmica, determinó la eficacia en 55 estudios sobre aprendizaje basado en juegos con IA
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — cuatro décadas de AIED a través del marco IA×Ed
-- [[educating-minds-generative-ai-2026]] — síntesis con mucha carga teórica sobre IA generativa y aprendizaje
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — la teoría de la actividad aplicada al desarrollo profesional docente
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teoría de la actividad y adopción por el profesorado
-- [[generativism-learning-theory]] — una teoría del aprendizaje propuesta para la era de la IA generativa
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — hacia una teoría de la coagencia epistémica
-- [[absent-cognitive-baseline-2026]] — teorizar una brecha estructural en la autoevaluación del estudiantado nativo digital
-- [[yan-agentivism-learning-theory-ai-2026]] — una teoría del aprendizaje de rango medio para la interacción humano-IA
-- [[ai-literacy-instrument-development-systematic-review-2026]] — desarrollo de instrumentos en torno a un constructo joven
-- [[mishra-control-vs-agency-history-2025]] — la tensión fundacional del campo entre control y agencia
-
-- [[wells-genai-research-assistant-sociology-2026]] — Explorar el papel de la IA generativa como asistente de investigación en un curso de grado de métodos de investigación sociológica

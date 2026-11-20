@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
+connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -105,7 +107,6 @@ Como a programação é o domínio em que a assistência de IA é mais poderosa,
 
 - **A continuidade, e não a adoção, é onde se decide o valor da GenAI.** Uma revisão PRISMA de 45 estudos (2023–2025) encontra geração e depuração de código melhores ao lado de uma profundidade conceitual inalterada, e argumenta que o uso continuado depende de [[trust|confiança]] calibrada, habilidade de verificação e orientação institucional, e não de [[technology-acceptance-model|utilidade percebida]] ([[yalwa-genai-programming-education-sustained-use-2026|Yalwa et al., 2026]]).
 
-
 ### Equidade, cultura e quem entra na computação
 
 - **Ampliação da participação:** o [[suacode-african-students-motivations|SuaCode]] documenta as motivações para a programação baseada em smartphone entre estudantes africanos (menos de 1% dos concluintes do ensino médio têm habilidades fundamentais de programação), informando MOOCs acessíveis com apoio de IA para [[equity-in-ai-education|contextos de poucos recursos]].
@@ -142,93 +143,8 @@ O ensino de ciência da computação se conecta ao [[computational-thinking|pens
 
 - **"O efeito é o mesmo em qualquer etapa de um curso."** Ele cresceu com o trabalho: em **60 programas Java completos** corrigidos com uma rubrica de **14 níveis**, o efeito do rótulo foi **2,8 vezes** seu tamanho em respostas curtas no GPT-4.1-mini e **2,4 vezes** no Qwen, embora apenas **0,4 vezes** no Gemini. [[porcaro-ai-grader-reliability-2026|Tarefa e rubrica fazem parte do que o efeito mede]], então um tamanho validado em respostas curtas não se transfere para programas.
 
-
 ## Ideias equivocadas comuns
 
 - **"Estudantes que programam em par com IA estão aprendendo a programar."** Na coprogramação estudante-IA, **quase 80% das interações se apoiaram em estratégias que não geram aprendizagem, como terceirizar respostas**, e apenas **cerca de 1 em 9 mostrou engajamento epistêmico** profundo. O padrão dominante é transacionar por produto.
 - **"Agentes conversacionais para novatos se fundamentam na teoria da aprendizagem."** **Apenas 4 de 23 estudos fundamentam o desenho na [[learning-theories|teoria da aprendizagem]]**, de modo que a maior parte da base de evidências documenta o que um sistema fez sem uma teoria de por que deveria funcionar.
 - **"A literatura de ferramentas reflete a distribuição global do campo."** **17 de 23 protótipos são exclusivamente em inglês, apesar de a maior parte da pesquisa se originar fora** de contextos anglófonos. Os protótipos servem a uma população mais estreita do que a pesquisa.
-
-## Conceitos conectados
-
-- [[computational-thinking]]
-- [[vibe-coding]]
-- [[stem-education]]
-- [[information-technology]]
-- [[automated-assessment]]
-- [[prompt-engineering]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[teacher-education]]
-- [[professional-training]]
-- [[ai-education]]
-- [[collaborative-learning]]
-- [[prior-knowledge]]
-- [[scaffolding]]
-- [[assessment-validity]]
-
-## Artigos conectados
-
-- [[shakil-code-commits-complexity-genai-2026]] — Código, commits e complexidade na era da GenAI: um estudo longitudinal de projetos de conclusão em equipe
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Três implantações, três modelos, 173 mil submissões: como se comportaram as dicas em um curso real
-- [[kumar-genai-computing-education-systematic-review-2026]] — Revisão sistemática de 72 estudos: ganhos de eficiência que não se transferem, e o framework VIE
-- [[vibe-coding-writing-cs-achievement-2026]] — O desempenho em ciência da computação e as habilidades de escrita preveem a proficiência em vibe-coding (CHI 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[code-review-genai-cs1]] — Revisão de código CS1 de código gerado por IA
-- [[dura-llm-cs2]] — DURA: assistentes LLM para CS2
-- [[reshaping-cs-education-genai]] — remodelando currículos de graduação em computação para a GenAI
-- [[ase-26-agentic-software-engineering-curriculum]] — Currículo ASE-26 de engenharia de software agêntica
-- [[test-driven-ai-assisted-learning]] — Aprendizagem assistida por IA orientada por testes
-- [[genai-oop-programming-assessments-2026]] — Desempenho da GenAI em avaliações autênticas introdutórias de programação orientada a objetos (Lepp & Kaimre 2026)
-- [[trust-reliance-ai-education-2026]] — confiança versus dependência apropriada durante a resolução de problemas em Python
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — letramento epistêmico em IA na programação em par entre estudante e IA
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — aprender ensinando com ChatGPT
-- [[llm-programming-support-governance-cs-education]] — framework PEA para delimitar a assistência de LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revisão de escopo dos agentes conversacionais para programadores novatos
-- [[debugtracker-classroom-debugging]] — Depuração em sala de aula com o DebugTracker
-- [[llm-automated-grading-programming-comparison-2026]] — Comparação de correção automatizada com 18 modelos
-- [[ai-generated-traces-novice-programmers]] — Traços animados gerados por IA
-- [[student-misconceptions-conditionals-loops-taxonomy]] — taxonomia de ideias equivocadas sobre condicionais e laços
-- [[jost-llm-programming-education-learning-outcomes]] — Impacto dos LLMs nos resultados de aprendizagem em programação (Jošt et al.)
-- [[genai-meta-analysis-programming-learning]] — meta-análise sobre GenAI e aprendizagem de programação
-- [[golrang-propact-pair-programming-2026]] — modelagem de programação em par diádica
-- [[critical-engagement-code-completion]] — engajamento crítico com a complementação de código
-- [[suacode-african-students-motivations]] — programação baseada em smartphone do SuaCode na África
-- [[cross-cultural-student-perceptions-genai-computing]] — percepções interculturais da codificação assistida por IA
-- [[neurodivergent-computing-students]] — estudantes de computação neurodivergentes
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit + ML na formação de professores
-- [[computational-thinking-educational-robotics-secondary-2026]] — pensamento computacional e robótica educacional
-- [[roboblockly-conversational-block-robotics-ct-2026]] — programação em blocos corporificada do RoboBlockly
-- [[edusim-llm-robotic-simulation-education-2026]] — controle de robôs por linguagem natural do EduSim-LLM
-- [[llm-computational-thinking-physics-2026]] — apoio de LLM ao pensamento computacional em física
-- [[student-ai-inquiry-types-cs2-2026]] — Análise dos tipos de perguntas na interação estudante-IA
-- [[chatgpt-qiskit-homework-autogradable-2026]] — O ChatGPT resolve tarefas de Qiskit; desenho autocorrigível
-- [[llm-adaptive-programming-error-explanations-2026]] — Explicações adaptativas de erros de programação com LLM
-- [[soft-barriers-copying-ai-programming-2026]] — Resistência ao copiar-e-colar na programação assistida por IA
-- [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD com agentes de IA em um curso de PBL de software; produtividade versus compreensão
-- [[student-reception-genai-analogies-computing-2026]] — Defeituosas, mas memoráveis: a recepção crítica dos estudantes às analogias de GenAI personalizadas por interesse na educação em computação
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking das ideias equivocadas estratégicas dos modelos ao longo do currículo de CS
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team de injeção de prompt na correção mediada por IA: instruções ocultas que movem a nota sem detecção
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: geração aumentada por recuperação para o ensino de ciência da computação teórica — um framework abrangente de avaliação para análise de algoritmos e teoria da complexidade
-- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: recursos de ensino para um mundo ChatGPT
-- [[instructional-governance-design-computing-education-2026]] — Governança instrucional por desenho: um framework de IA na educação em computação
-- [[judgment-centred-software-engineering-education-2026]] — Uma revisão e um framework pós-burbulha para a educação em engenharia de software aumentada por IA
-- [[llm-graders-computer-science-exams-2026]] — Onde os corretores com LLM acertam e onde falham: evidências de duas provas de ciência da computação
-- [[student-llm-use-cs-subfields-2026]] — O uso de LLM variou de 89,6% em algoritmos a 15,2% em engenharia de software ao longo de 211 estudantes, acompanhando a tarefa e não o subcampo
-- [[educator-guided-llm-pedagogical-agent-2026]] — Feedback escalonado autoriado por educadores para o desenho conceitual de bancos de dados: diagnóstico oculto, divulgação controlada, 71,1% no nível-alvo ao longo de 383 episódios
-- [[socraticrepair-program-debugging-2026]] — SocraticRepair: tutoria socrática guiada por planejamento para depuração de programas e reparo de concepções errôneas
-- [[browser-sized-agents-slm-webllm-tutor-2026]] — Agentes do Tamanho do Navegador: pequenos modelos de linguagem e WebLLM para a educação em programação assistida por IA e aumentada por ferramentas
-- [[novice-se-students-oversight-genai-2026]] — Além da correção: como estudantes novatos de engenharia de software exercem supervisão sobre a IA generativa (Shakiba e Chaffey 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas cuja resposta certa é conhecida, e a maioria deles pode ser convencida a subir a nota (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — O contexto do estudante muda as notas de um corretor com LLM sobre o mesmo trabalho, e a concordância com o professor não registra isso (Porcaro 2026, Paper VI)
-- [[yalwa-genai-programming-education-sustained-use-2026]] — Uso sustentado da IA generativa (GenAI) na educação em programação: uma revisão sistemática

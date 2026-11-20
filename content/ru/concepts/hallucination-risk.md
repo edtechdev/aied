@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -69,37 +71,3 @@ ai_assist:
 - **«Ошибки очевидны, когда появляются».** ИИ, диагностирующий рукописную математику, мог **фабриковать цитаты-свидетельства, которых там не было, заявляя при этом уверенность**. Отказом был не правдоподобный, но неверный ответ; это была выдуманная поддержка, поданная с уверенностью, — труднейший для поимки вид, потому что он читается именно как свидетельство, которого хотел бы внимательный читатель.
 - **«Вывод без цитат — проблема форматирования».** В курсе магистратуры, заменившем коммерческий учебник сгенерированными ИИ материалами для чтения, лишь **около 0,80% из 4 487 зарегистрированных страниц несли внутритекстовую цитату в стиле APA**. Это отсутствие происхождения на уровне корпуса, а не случайный пропуск, и оно означает, что верификации не с чего начать.
 - **«Галлюцинация — проблема генерации модели, которую решат более новые модели».** Диапазон частот простирается на 10–40% по 125 исследованиям, что является свойством задачи и развёртывания в той же мере, что и модели. Снижение частоты — реальный прогресс, и оно не меняет того, что читатель должен быть способен проверить.
-
-## Связанные концепции
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Связанные статьи
-
-- [[frontiers-gai-hallucination-dependence-2026]] — Обозначение диалога GAI как сфабрикованного снизило доверие и зависимость вместе
-- [[sim-ai-summary-memory-distortion-2026]] — A misleading AI summary distorted adults' memory for a video, and the AI or human label did not protect them
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Сигналы достоверности повысили почтение к выводу ИИ, причём часть процитированных кейсов была приписана неверно или вымышлена
-- [[ivory-psychology-assessment-integrity-2026]] — Сфабрикованные цитаты и самопротиворечащие выводы внутри получающих проходной балл студенческих работ (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: бегло правдоподобные объяснения, неверные на концептуальном уровне (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Скрытые инъекции в промптах незаметно повышают оценки, выставленные ИИ, а обнаруженные атаки не доводятся до сведения пользователя (Humble 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: пилотное исследование Assessment Authentifire в высшем образовании

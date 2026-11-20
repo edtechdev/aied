@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -104,54 +106,3 @@ ai_assist:
 - **«Μια καλύτερη προτροπή παράγει καλύτερη κριτική σκέψη.»** **Ο δομημένος έλεγχος του διαλόγου, και όχι μια καλύτερη προτροπή**, διαχωρίζει έναν διδάσκοντα λογικών σφαλμάτων από ένα chatbot αντιπαράθεσης: η δρομολόγηση κάθε σειράς μέσω **ανίχνευσης πρόθεσης βασισμένης στο μοντέλο Toulmin** έκανε τη δουλειά. Ο μηχανισμός είναι η δομή της αλληλεπίδρασης και όχι η διατύπωση.
 - **«Η χρήση GenAI ανεβάζει άμεσα την κριτική σκέψη.»** Η σχέση της χρήσης GenAI με την **αυτοαναφερόμενη** κριτική σκέψη περνούσε **σχεδόν εξ ολοκλήρου μέσα από την [[feedback-literacy|επάρκεια σε ανατροφοδότηση]]** της GenAI — σε **421 κινέζους προπτυχιακούς**, η επάρκεια σε ανατροφοδότηση διαμεσολάβησε το **71%** της συσχέτισης. Η επάρκεια είναι η διαδρομή.
 - **«Η μετα-αναλυτική επίδραση είναι ομοιόμορφη.»** Σε **29 πειράματα**, η GenAI αύξησε μέτρια τη σκέψη ανώτερης τάξης (**g = 0.609**) με την κριτική σκέψη στο **ES = 0.691**. Μέτριες συγκεντρωτικές επιδράσεις σε ετερογενείς παρεμβάσεις υποστηρίζουν την κατηγορία και όχι έναν συγκεκριμένο σχεδιασμό.
-
-## Συνδεδεμένες έννοιες
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Εκπαίδευση στη χημεία και ΤΝ: εργαστήρια, διαμορφωτική αξιολόγηση, όρια των LLM, φιλοσοφία του πειραματισμού
-- [[biology-education]] — Εκπαίδευση στη βιολογία και ΤΝ: βοηθοί διδασκαλίας εργαστηρίων, επάρκεια σε ΤΝ στη βιολογία, κριτική σκέψη, εξειδικευμένα εργαλεία
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Συνδεδεμένα άρθρα
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Η κριτική σκέψη περνά μέσα από τον καταμερισμό εργασίας και την επεξεργασία της παραγωγής, όχι από την έκθεση
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Συναίνεση 30 ειδικών: η κριτική σκέψη φέρει την υψηλότερη βαθμολογία διατάραξης της αναφοράς (μέσος 4.00)
-- [[pearls-epistemic-verification-2026]] — Το πλαίσιο PEARLS για την επιστημική δράση και την επαλήθευση της παραγωγής ΤΝ (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Γνωστική εκφόρτωση ευαίσθητη στα στρώματα στη γραφή με υποστήριξη GenAI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Το παράδοξο της κριτικής σκέψης στη μάθηση με ενσωματωμένη GenAI
-- [[pedagogy-ai-mistakes]] — Η παιδαγωγική των λαθών της ΤΝ: καλλιεργώντας τη σκέψη ανώτερης τάξης (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Θεωρία τριών συστημάτων και γνωστική συνθηκολόγηση: πώς η ΤΝ ανασχηματίζει τον ανθρώπινο συλλογισμό (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Η τραγωδία των γνωστικών κοινών: ΤΝ και αναγέννηση της ειδικότητας
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Μετα-ανάλυση για τη GenAI και τη σκέψη ανώτερης τάξης
-- [[avraamidou-ai-colonization-science-education]] — Διαταράσσοντας την αποικιοποίηση της επιστημονικής εκπαίδευσης από την ΤΝ
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Επαναπροσανατολίζοντας την κριτική επάρκεια σε ΤΝ
-- [[luo-ibl-patterns-llm-bloom-2026]] — Μοτίβα μάθησης με βάση τη διερεύνηση σε περιβάλλοντα LLM (οπτική του Bloom)
-- [[probing-ai-generated-physics-solutions-2026]] — Προετοιμάζοντας τους μαθητές να ασκήσουν κριτική σε λύσεις φυσικής που παράγει η ΤΝ
-- [[student-reception-genai-analogies-computing-2026]] — Ελαττωματικές αλλά αξέχαστες: η κριτική πρόσληψη από φοιτητές αναλογιών GenAI εξατομικευμένων στο ενδιαφέρον στην εκπαίδευση πληροφορικής
-- [[daoism-ai-education-philosophy-2026]] — Εναλλακτική φιλοσοφία της ΤΝ: ο ταοϊσμός ως μέθοδος για την ΤΝ στην εκπαίδευση
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Καλλιεργώντας βιώσιμη μάθηση μέσω ενσώματης νοημοσύνης (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Η υπερεξάρτηση από την ΤΝ ως πολύπλοκο προσαρμοστικό σύστημα
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Κέρδη κριτικής σκέψης ανά διάσταση στην πολυτροπική γραφή με υποστήριξη ΤΝ (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — διδασκαλία της αναγνώρισης λογικών σφαλμάτων μέσω δομημένου πολυγυρικού διαλόγου
-- [[caeai-ai-companions-learning-over-performance-2026]] — μάθηση αντί επίδοσης: για τι θα πρέπει να βελτιστοποιούνται και να μετρώνται οι σύντροφοι
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Στηρικτική προσέγγιση με ΤΝ, εκφόρτωση και επάρκεια επαλήθευσης μέσω μεταγνωστικής αυτορρύθμισης (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Η εξάρτηση από τη GenAI οριοθετεί τον σύνδεσμο χρήσης–κριτικής σκέψης σε φοιτητές επιχειρήσεων (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Η προτροπή αναστοχασμού μειώνει την αποδοχή λανθασμένων συμβουλών ΤΝ και τη μεροληψία απόδοσης (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Η εναλλαγή ρόλων ως δομή για κριτική ανθρώπινη–ΤΝ αλληλεπίδραση (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Ενσωμάτωση GenAI με επίκεντρο την επαλήθευση στην πανεπιστημιακή εκπαίδευση στη χημεία (Vega-Baudrit και Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ανατροφοδότηση ChatGPT με επιμέλεια εκπαιδευτικού ανέβασε την κριτική σκέψη μέσω αναθεώρησης ανώτερης τάξης (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — ένα εξάμηνο πρόσβασης σε ΤΝ άφησε την κριτική σκέψη στάσιμη· η αναστοχαστική χρήση την προέβλεπε (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Η εξάρτηση από τη GenAI συσχετίζεται θετικά με την κριτική σκέψη σε 1.157 μεταπτυχιακούς φοιτητές
-- [[genai-use-critical-thinking-moderation-2026]] — Από τη χρήση GenAI στην κριτική σκέψη μέσω επάρκειας σε ανατροφοδότηση, με άμεση διαδρομή μόνο για τους λιγότερο αναστοχαστικούς φοιτητές
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Η απαισιόδοξη ανάγνωση των τεκμηρίων ρύθμισης: απώλεια τριβής, μεροληψία αυτοματισμού, πλαίσιο αποδοτικότητας
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Αφηγηματική ανασκόπηση 108 εγγράφων: το πρόσημο της επίδρασης ακολουθεί την προηγούμενη γνώση και τον χρονισμό της εργασίας (πλαίσιο AMCIF)

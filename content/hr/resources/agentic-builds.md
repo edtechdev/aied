@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,7 +43,3 @@ Nastavnici i [[learning-design|dizajneri nastave]] koji žele razrađen primjer 
 ## Napomene i upozorenja
 
 Radovi su opisani kao otvoreno dijeljeni, ali licencija nije navedena ni na stranicama radova ni na galeriji, pa ponovna upotreba traži autorovo dopuštenje, a ne pretpostavljeno odobrenje. Izvorni je kod ipak javan — repozitoriji tog računa drže HTML i JavaScript iza radova, plus tutorijal za rad s agentima za programiranje u obrazovanju, pa čitatelj može pregledati aplikaciju, a ne samo pokrenuti je. Nekoliko poveznica upućuje na adrese Netlifyjeva pregleda implementacije, a ne na stranicu projekta; one su izrađene za pregled i mogu isteći, dok su izrade na GitHub Pages stabilne. Neki radovi ovise o Jev modelu tvrtke TypeSafe AI i prikazuju njegove vjerojatnosti, pa je temeljno ponašanje prosudba modela, a ne fiksno pravilo. Put poželjnih teškoća argument je — trenje kao značajka — i stranica ga iznosi bez izvješća o evaluaciji uče li studenti više.
-
-## Povezani pojmovi
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

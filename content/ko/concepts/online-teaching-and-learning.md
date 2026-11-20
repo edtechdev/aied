@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -143,63 +145,3 @@ ai_assist:
 **"AI가 수행을 높이므로 학습도 높인다."** 온라인 환경에서도 발산은 교실과 같습니다. [[rct]]는 방어 장치 없는 AI 지원이 연습 수행을 높였지만 지원받지 않는 시험 점수는 *낮췄고*, "답 대신 힌트" 교사는 그 해를 제거했습니다. 온라인 강좌는 비동기 평가에 더 크게 의존하므로, 지원 수행과 비지원 수행 사이의 격차가 타당성이 갈리는 지점입니다.
 
 **"평가 타당성은 채점 정책의 문제다."** 그것은 매체가 만들어 내는 설계 문제입니다. 학습자가 없이도 산출물이 생산될 수 있을 때, 타당성은 그 과업이 학습자가 일을 했다는 증거를 산출하는지에 달려 있습니다. 과업을 재설계하는 것이 이 문제를 다루고, 비행에 대한 처벌을 강화하는 것은 다루지 못합니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 시스템이 시도를 볼 수 없어 순서 배열을 부담을 지우게 만드는 맥락
-- [[assessment-validity]] — 제출된 작업으로부터 학습으로의 추론의 타당성
-- [[agentic-ai]] — LMS를 포함한 도구와 플랫폼을 운용하는 자율 시스템
-- [[community-of-inquiry]] — 탐구 공동체
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## 연결된 문서
-
-- [[ai-agents-complete-lms-assessment-validity-2026]] — 자율 에이전트가 감독되지 않은 LMS 평가를 종단 간 완수: 평가 타당성 문제(Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — 평가 쌍둥이: GenAI에 취약한 과업을 같은 결과에 대한 가깝게 예정된 덜 취약한 것과 짝짓기
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 타당성 증거로서의 공동 저자됨 정직성, 규모 있는 검증으로서의 AI Viva
-- [[asynchronous-oral-assessment-2026]] — 비동기 구두 평가: 내장된 루브릭에 대해 채점된 시간 제한 미수정 녹음
-- [[brcic-effortless-trap-productive-struggle-2026]] — 손쉬움의 덫: 허용이나 금지가 아니라 AI의 배치
-- [[metacognitively-discordant-completion-genai-2026]] — 메타인지적으로 불화하는 완료: 이해 없이 제출된 정확한 작업
-- [[decreasing-digital-distraction-college-online-learning-2026]] — 낮은 디지털 주의 분산과 동시에 나타나는 자기규제 전략(학생 530명)
-- [[song-genai-learning-partner-srl-over-time-2026]] — 안정된 적성이자 변동하는 상태로서의 SRL; 한 학기 동안 쇠퇴하는 메타인지와 웰빙
-- [[genai-marketing-education-roles-2026]] — 교사, 팀메이트, 도구로서의 AI: 역할과 그 현존에 대한 효과
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 탐지를 넘어: 온라인 환경을 위한 평가 설계
-- [[reconceptualizing-community-inquiry-generative-ai]] — 생성 AI 시대의 탐구 공동체 재개념화
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — 고등 교육에서 온라인 학습에 AI 통합하기: 네 주제 비판적 문헌 검토
-- [[mooc-to-maic]] — MOOC에서 MAIC으로: LLM 기반 에이전트를 통한 온라인 교수와 학습의 재형성
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: 온라인 학습을 위한 개인화되고 적응적인 지원 시스템
-- [[llm-facilitation-timing-online-discussions]] — 온라인 토론에서의 인간과 LLM 촉진자 경향
-- [[elevate-genai-virtual-tutors]] — ELEVATE: 인간 중심 GenAI 가상 교사
-- [[conversational-ai-tutors-framework]] — 대화형 AI 교사로 가는 길
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Open University에서 AIDA 구현하기
-- [[ai-adult-learning-guidelines-dis2026]] — 성인 학습을 지원하는 AI 기술 설계를 위한 지침
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: 에이전트형 개인화 교습을 향해
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합 교실의 교사에게 ML 결과를 접근 가능하게 만들기
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — 학생이 개인화되지 않은 인간 녹음 영상보다 개인화된 AI 생성 영상을 선호(Tomlinson 등 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 온라인 토론 포럼에서의 AI 생성 요약 추동 학습 설계
-- [[ai-training-science-teacher-tpack-distance-2026]] — 캠퍼스 기반 학생 교사가 원격 교육 동료보다 AI 통합 과학교수를 위한 TPACK를 더 높게 보고(64.0% 대 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 역할 설계가 개입이며, 도구가 아니다
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 일하는 교사를 위한 6주 비동기 대학원 강좌: 압축이 아니라 형식을 재설계하기
-
-- [[aggarwal-genai-cybersecurity-2026]] — 두 캠퍼스의 학생 19명: 공동 등록이 일부에게 캠퍼스 간 상호작용을 낳지 못했다(Aggarwal 2026)

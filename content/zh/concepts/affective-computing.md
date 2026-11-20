@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -68,34 +70,3 @@ ai_assist:
 - **“投入度更高就意味着学习更多。”** 一项脑感知研究发现，一个**受约束的自适应界面提高了认知投入度（p = .018），而不受约束的聊天机器人却产生了更高的学习增益**。投入更多的那一个教得更少。投入度不是学习的代理，而以它为目标可能把结果推向错误的方向。
 - **“情感支持是认知支持之外的软性附加项。”** 在一项小型课堂 [[rct|随机对照试验]]（**252 名参与者中有 42 人完成**）中，正念版本在比单独认知支持**更短的时间内、以更少的请求提示**达到了相似的代数学习。情感成分改变的是效率而不是上限，这是一个与“它有助于学习”不同且更有意思的主张。
 - **“小样本的情感研究发现可以迁移。”** 252 名参与者中的 42 名完成者，是一个既令人鼓舞又脆弱的设计：完成率本身就是关于谁坚持下来的一个发现，而效应被限定在那一个群体内。
-
-## 关联概念
-
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — 社会情感学习
-
-## 关联文章
-
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 回应人工智能生成的情绪告警：数学课堂中教师的干预与学生的投入
-- [[wang-teacher-student-centered-agents-physics-2026]] — 物理学习中由提示设计的代理角色产生的共情感知（Wang 等，2026）
-- [[mindful-llm-math-tutoring-2026]] — 超越问题求解：面向数学学习中情绪性与反思性支持的大语言模型
-- [[emotion-aware-classroom-iot-monitoring-2026]] — 经由基于 IoT 的实时监控的情绪感知课堂质量评估（Nguyen 等，2026）
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：LLM 增强的学生焦虑评估（2026）
-- [[socratic-nuclear-ai-learning]] — 苏格拉底动用核武器：比较 AI 在学习中的互动策略
-- [[ai-emotion-regulation-sport-exercise-2026]] — 重新框定人工智能支持的情绪调节：信号需要语境，而非自主的解释

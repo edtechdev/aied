@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -131,66 +133,3 @@ Bu güvencenin ne kadar güçlü olduğu [[automation-bias|otomasyon yanlılığ
 - **"Sistemin önerisini göstermek, insanın onu denetlemesine yardımcı olur."** **Bir sistemin tercih ettiği yanıtı saklamak düzeltici değil koruyucudur**: **hiçbir zaman önerilen bir konumu açığa çıkarmayan** çok etmenli bir tartışmada, YZ'nin yanıtına zararlı geçiş **azaldı**. Açıklama boyun eğmeyi davet etti; saklama yargıyı destekledi.
 - **"İnsan-denetiminde olmak, tek insan ve tek karar anlamına gelmelidir."** Tsinghua Üniversitesinde [[teacher-role|Öğretmen]] Etmeni, Asistan Etmeni ve sınıf arkadaşı arketiplerinden oluşan çok etmenli bir sınıf, **500'den fazla öğrenci ve 100.000'den fazla öğrenme kaydıyla** konuşlandırıldı. Gözetim, gözeticileri çoğaltarak değil düzenleme yoluyla ölçeklenir.
 - **"YZ çıktısını gözden geçirmek sezgiseldir."** **23 eğitimciyle yürütülen bir denek-içi çalışmada**, gözden geçirmeye dayalı bir yaklaşım **her CTML ilkesini iyileştirdi (ortalama derecelendirme 3,07'den 3,86'ya, p < ,01)** ve eğitimciler üretim verimliliğini olumlu değerlendirdi. Gözden geçirme, yapılandırılmış bir yöntem altında gelişen bir beceridir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
-- [[automation-bias]] — İnsan döngüdeyken gerçekten müdahale edip etmediğine ne karar verir
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — human judgment inside an automated support flow
-
-## Bağlı makaleler
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Fen eğitiminde üretken YZ için dört katmanlı HITL mimarisi (Zhai ve ark. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — LLM davranış bölütlerini araştırma araçlaştırması olarak doğrulayan kodlayıcılar (Fonteles ve ark. 2026)
-
-
-- [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sistemin tercih ettiği yanıtın saklanması, yanlış YZ tavsiyesine yönelmeyi düzeltici değil koruyucu biçimde azalttı
-- [[capodieci-humanities-hil-2026]] — Beşeri bilimler öğreniminde insan kontrolünün nerede durduğunu, süreci kimin yazdığından ayırır (Capodieci ve ark. 2026)

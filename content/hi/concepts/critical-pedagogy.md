@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -94,35 +96,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - कक्षाओं में भागीदारी के ढंगों का वितरण रिपोर्ट करें, केवल औसत उपयोग नहीं, क्योंकि औसत यह छिपा देता है कि कोई आलोचनात्मक अभ्यास है या नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — उम्बरेला: एआई शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-
-## संबंधित लेख
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — मानवाधिकार शिक्षा, चिंतनशील अभ्यास, और व्यावसायिक गठन के रूप में एआई शासन का शिक्षण (कासा-माल्क्सू 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — महत्वपूर्ण एआई साक्षरता शिक्षाशास्त्र के रूप में बहुमाध्यमी संयोजन
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — तकनीक-समाधानवादी जनरेटिव एआई रचनात्मक-संरेखण सलाह का आलोचनात्मक प्रवचन विश्लेषण
-- [[benali-genai-academic-writing-2026]] — शैक्षणिक लेखन पाठ्यक्रम में न्यायोचितता-बाध्य संशोधन: AI दो प्रस्ताव अनुभागों तक सीमित, हर स्वीकृत या अस्वीकृत सुझाव लिखित रूप में न्यायोचित ठहराया गया (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — विज्ञान शिक्षा के "एआई उपनिवेशवाद" की आलोचनात्मक, नारीवादी आलोचना
-- [[li-mroziak-reorienting-critical-ai-literacy]] — महत्वपूर्ण एआई साक्षरता के सामुदायिक-आधारित अभ्यास के रूप में "एआई का विरोध"
-- [[ojeda-ramirez-community-based-ai-learning]] — सामुदायिक-आधारित अधिगम के माध्यम से एआई के ज्ञानात्मक प्राधिकार का पुनर्वितरण
-- [[raffaghelli-situated-ai-ethics-2026]] — एआई नैतिकता के लिए स्थितिज, सांस्कृतिक-ऐतिहासिक और पारिस्थितिक ढाँचा
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — मानविकी में व्याख्यात्मक संज्ञान के लिए विकासात्मक-आलोचनात्मक मॉडल
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — समाजवादी मानवतावादी एआई साक्षरता + उचित उपयोग
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — टिकाऊ शिक्षा और एआई के लिए मूल्य-आलोचनात्मक दृष्टिकोण (अलसुहैमी और अतल्लाह 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — शिक्षार्थी समृद्धि की ओर जनरेटिव एआई के डिज़ाइन के लिए मुक्तिदायी दृष्टिकोण
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — फ्रेयरे, रचनावाद और देखभाल-नैतिकता पर आधारित मानव-केंद्रित जनरेटिव एआई भागीदारी ढाँचा
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — वैश्विक दक्षिण में शिक्षाशास्त्रीय विकास में लागू आलोचनात्मक डिजिटल शिक्षाशास्त्र और उपनिवेश-मुक्त ज्ञानमीमांसाएँ

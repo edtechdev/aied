@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -37,7 +39,6 @@ ai_assist:
 ### تدریس کو ڈھالنے کے لیے جذبات کو محسوس کرنا
 
 جذباتی کمپیوٹنگ کا مقصد AI نظاموں کو جذباتی طور پر باشعور بنانا ہے تاکہ وہ صرف یہ نہ دیکھیں کہ طلبہ کیا کرتے ہیں، بلکہ یہ بھی سمجھیں کہ وہ کیسا محسوس کرتے ہیں۔ تعلیم میں اس کا مطلب ہے پریشانی، الجھن، خود اعتمادی، اکتاہٹ یا شمولیت کو محسوس کرنا اور تدریس کو اُس کے مطابق ڈھالنا۔ [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] اس نقطہ نظر کا مظاہرہ کرتا ہے: یہ دو ذرائع — گفتگو کا متن اور حقیقی وقت کے چہرے کے تاثرات — سے جذبہ ماڈل کرتا ہے اور مجموعی جذباتی کیفیت کو [[pedagogy|تدریسی]] حکمت عملیوں سے جوڑتا ہے، اور پھر ٹیوٹر کو [[prompt-engineering|پرامپٹ]] کرتا ہے۔
-
 
 اشارے بذاتِ خود مبہم ہیں: کوئی اکیلا اظہاری ذریعہ اُس شخص، کام، ثقافت اور صورتحال کے بغیر — جو اُنہیں پیدا کرتے ہیں — تکلیف، کوشش، شرمندگی، تھکن یا سوچی سمجھی خود پیشکشی کے درمیان قابلِ اعتماد امتیاز نہیں کر سکتا؛ یہ کیفیت "تشریح میں سیاق و سباق کا محتاج" ہونے کی ہے۔ چنانچہ صرف نظر آنے والے اشارے پڑھنے والا کوئی درجہ بند کرنے والا ایسی تجاویز دے سکتا ہے جو معقول لگیں مگر تدریسی طور پر غلط ہوں ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]])۔
 
@@ -67,33 +68,3 @@ ai_assist:
 - **"زیادہ شمولیت کا مطلب زیادہ سیکھنا ہے۔"** دماغی اشارے پڑھنے والی ایک تحقیق نے پایا کہ **ایک محدود، موافقت پذیر انٹرفیس نے علمی شمولیت بڑھائی (p = .018) جبکہ غیر محدود چیٹ بوٹ نے زیادہ سیکھنے کے فائدے پیدا کیے**۔ جس انٹرفیس نے زیادہ مشغول کیا، اُس نے کم سکھایا۔ شمولیت سیکھنے کا متبادل پیمانہ نہیں، اور اُس کو بہتر بنانا نتیجے کو غلط سمت میں لے جا سکتا ہے۔
 - **"جذباتی سہارا علمی سہارے پر ایک نرم اضافہ ہے۔"** ایک چھوٹے کلاس روم [[rct]] میں (**252 شرکاء میں سے 42 مکمل کرنے والے**)، ذہن سازی والا نسخہ صرف علمی سہارے کے مقابلے میں **کم وقت میں اور کم مدد طلب کر کے ملتی جلتی الجبرا سیکھنے** تک پہنچا۔ جذباتی جزو نے چھت کے بجائے کارکردگی بدلی، جو "یہ سیکھنے میں مدد کرتا ہے" سے مختلف اور زیادہ دلچسپ دعویٰ ہے۔
 - **"چھوٹے نمونے کے جذباتی نتائج منتقل ہو جاتے ہیں۔"** 252 شرکاء میں سے 42 مکمل کرنے والے ایک حوصلہ افزا بھی اور نازک بھی ڈیزائن ہیں: تکمیل کی شرح بذاتِ خود اِس بات کا نتیجہ ہے کہ کون ڈٹا رہا، اور اثر اسی گروہ تک محدود ہے۔
-
-## منسلک تصورات
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — سماجی جذباتی سیکھنا
-
-## منسلک مضامین
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI سے پیدا کردہ جذباتی انتباہوں کا جواب: ریاضی کے کلاس روم میں اساتذہ کی مداخلت اور طلبہ کی شمولیت
-- [[wang-teacher-student-centered-agents-physics-2026]] — طبیعیات کی سیکھنے میں پرامپٹ سے ڈیزائن کردہ ایجنٹ کرداروں سے ہمدردی کا ادراک (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — مسئلہ حل کرنے سے آگے: ریاضی کی سیکھنے میں جذباتی اور غور و فکر پر مبنی سہارے کے لیے بڑے لینگویج ماڈل
-- [[emotion-aware-classroom-iot-monitoring-2026]] — IoT پر مبنی حقیقی وقت کی نگرانی کے ذریعے جذبات سے واقف کلاس روم معیار کی جانچ (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: طلبہ کی بے چینی کی LLM سے افزودہ جانچ (2026)
-- [[socratic-nuclear-ai-learning]] — سقراط نے جوہری راستہ لیا: سیکھنے میں AI کے تعامل کی حکمت عملیوں کا موازنہ
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — AI کے سہارے جذبات کے ضبط کو نئے انداز میں دیکھنا: اشاروں کو سیاق و سباق چاہیے، خودمختار تشریح نہیں

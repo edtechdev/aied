@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -43,12 +45,10 @@ Pendidikan matematika telah menjadi domain utama bagi penelitian [[ai-education|
 
 **Desain tugas, bukan hanya tutoring.** Menganalisis 158 unit teks terkode dari 13 calon guru sekolah dasar, Ledezma et al. (2026) menemukan tugas geometri rancangan GenAI mengarah pada permintaan kognitif tinggi namun menuliskan instruksi tertutup, dan satu di antaranya menyematkan skala yang salah (4 m digambar sebagai 8 cm, dinyatakan sebagai 1 m = 4 cm) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al., 2026]]).
 
-
 **Notasi perseptual itu sendiri adalah variabel desain tugas:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang dkk. (2026)]] menemukan bahwa rancangan isyarat visual pada soal urutan operasi terbagi menjadi perancah dan kesulitan yang diinginkan. Dengan mencocokkan model BKT spesifik kondisi isyarat pada 19,952 titik data dari 688 siswa kelas enam, mereka menemukan spasi kongruen dengan warna netral (CSNC) sebagai perancah yang konsisten — satu-satunya kondisi yang berada di depan referensi tanpa isyarat pada pascates (B = 0.33, p = .011).
 Spasi netral dengan warna inkongruen (NSIC) menghasilkan tingkat tebakan terendah (0.190), tingkat pembelajaran tertinggi (0.0379), dan tingkat lupa terendah (0.0054).
 
 **Perolehan pengajuan soal hanya sedalam permukaan.** Dengan 57 calon guru matematika yang mengajukan soal pembagian pecahan sebelum dan dengan Gemini, skor rubrik naik dari 5.95 menjadi 6.65 dari 8. Perolehannya terletak pada konteks dan bahasa sementara jenis soal dan keterpecahannya tidak punya ruang untuk bergerak, dan pemunculan makna pembagian pecahan naik dari lantai 1.00 menjadi 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
-
 
 **Penalti kepuasan.** Mengarahkan tutor LLM melalui rencana [[productive-failure]] alih-alih membiarkannya menjawab meningkatkan kesetiaan strategi dan menghasilkan 2.6 upaya solusi per sesi dalam studi sekolah menengah dengan 17 siswa, namun siswa menilai tutor productive-failure kurang membantu dibandingkan baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
@@ -113,64 +113,3 @@ Pendidikan matematika berada di dalam domain [[stem-education]] yang lebih luas 
 **"Matematika adalah domain yang mudah bagi AI karena jawabannya dapat diperiksa."** Keterperiksaan adalah yang membuat matematika menjadi ladang uji yang baik, bukan yang membuatnya aman. Karena jawaban akhirnya dapat diverifikasi, siswa dapat memvalidasi solusi yang tidak mereka susun sendiri — yang justru merupakan cara penalaran mata pelajaran ini dilewati sementara nilainya tetap bersih. Sifat yang menarik peneliti adalah sifat yang membuat offloading tidak terlihat.
 
 **"[[item-response-theory|Tingkat kesulitan item]] untuk matematika dapat ditetapkan oleh model yang cakap."** Itu harus dikalibrasi terhadap respons. Dalam studi tingkat kesulitan item yang mencakup **5,170 item K-5** yang dikalibrasi dengan model IRT Rasch, penilaian kesulitan zero-shot hasil model dibandingkan dengan kalibrasi empiris justru karena kesulitan yang dinyatakan dan kesulitan yang terukur adalah kuantitas yang berbeda.
-
-## Konsep terkait
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Artikel terkait
-- [[ledezma-geometry-task-design-genai-preservice-2026]] — Tugas geometri rancangan GenAI dari calon guru sekolah dasar: tuntutan kognitif tinggi, instruksi tertutup, kesalahan skala yang tersemat (Ledezma et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Apa yang tidak ditunjukkan oleh pengumpulan: offloading kognitif yang mengompleks dalam pekerjaan matematis siswa dengan LLM (Kontorovich & Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Mendukung atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — Menganalisis Komunikasi Matematis antara Calon Guru Matematika dan GenAI: Studi Kasus pada Kursus Aljabar Abstrak
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Hambatan simbolik dalam kalkulus sarjana adalah leher botol representasional, dengan lebih sedikit kesalahan simbolik terkode setelah scaffolding AI (Nursit et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Integrasi AI dalam pendidikan matematika: tantangan implementasi dan implikasi pedagogis (Manto et al. 2026)
-- [[ai-mathematics-education-prisma-review-2026]] — Kecerdasan buatan dalam pendidikan matematika: Tinjauan literatur sistematis berbasis PRISMA (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Penilaian perangkat lunak otomatis atas item matematika ujian sertifikat sekolah menengah atas dalam ekonomi menggunakan model kemiripan kontekstual
-- [[mindful-llm-math-tutoring-2026]] — Melampaui Pemecahan Masalah: Model Bahasa Besar untuk Dukungan Emosional dan Reflektif dalam Pembelajaran Matematika
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[chudziak-ai-math-tutoring-platform]] — Platform tutoring matematika bertenaga AI (Chudziak & Kostka 2025)
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — Platform penguasaan ALEKS: soal berbasis teks paling rentan terhadap AI
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[instructional-design-proficiency-masters-math-2026]] — Model smart classroom dan loop D-T-E meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Scaffolding berbimbing aturan versus ad hoc dalam sistem tutoring LLM untuk matematika sekolah dasar (Looi et al. 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Memperkirakan tingkat kesulitan item menggunakan LLM dan ML berbasis pohon
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[genai-practice-platform-maths-feedback-2026]] — Platform latihan GenAI opsional di kelas matematika 157 siswa: umpan balik langsung dihargai, penyerapan terbatas pada 34 pengguna aktif
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — Menilai Pengaruh Respons Hasil AI terhadap Prestasi Akademik: Perspektif Etis dan Efikasi Diri
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Pekerjaan orkestrasi kelas dalam matematika sekolah menengah: membaca dasbor dan mengoreksi umpan balik AI
-- [[decision-making-agent-student-decision-acceptance-2026]] — Siswa tetap lebih memilih keputusan penilaian guru
-- [[genai-learning-motivation-meta-analysis-2026]] — Perolehan motivasional dalam matematika bertumpu pada empat studi (g = 0.711)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI di Kelas Matematika: Strategi Sinergis untuk Keberagaman dan Inklusivitas

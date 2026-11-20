@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -67,33 +69,3 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 - **«Una [[usability-research|valoración de usabilidad]] valida una herramienta de asistencia.»** Quienes ejercen la práctica dieron a una herramienta de Historias Sociales que habían codiseñado un aprobado de usabilidad (SUS 86,8) a la vez que criticaban sus imágenes genéricamente occidentales y un rastreador de conducta que no acertaba con el juicio clínico vinculado a las metas. Una alta usabilidad coexistió con fallos sustantivos, así que una puntuación SUS no es un aval de idoneidad.
 - **«Los puntos de referencia genéricos dicen cómo maneja un tutor los casos de educación especial.»** De **923 diálogos basados en casos** extraídos de la literatura de educación especial y de psicología educativa, **el mejor de 11 modelos** satisfizo un criterio documentado, y **ese es el límite de lo que cubre un punto de referencia de tutoría**. Las evaluaciones estándar no llegan a los casos en los que quienes ejercen la práctica más necesitan ayuda.
 - **«El estudiantado neurodivergente necesita adaptaciones, no requisitos de diseño.»** [[neurodivergent-computing-students|Zastudil et al.]] encontraron que el estudiantado neurodivergente de informática necesita **tareas estructuradas, equipos pequeños y consistentes y definiciones de roles explícitas**, requisitos generales de diseño que benefician a todo el mundo y no ajustes individuales concedidos tras un diagnóstico.
-
-## Conceptos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Artículos conectados
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores LLM con estudiantado de conducta desafiante (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — Delegación cognitiva de la IA generativa para estudiantes con dificultades de aprendizaje
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Generación de preguntas impulsada por LLM para estudiantes sordos y con dificultades auditivas
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de apoyo para estudiantes neurodivergentes en la educación superior
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modelo de visión-lenguaje planifica Shoebox Tasks para un robot Nao (Kudláčková 2026)
-- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para educación especial: el diseño de AdaptED Stories

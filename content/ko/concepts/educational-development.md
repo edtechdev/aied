@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -154,77 +156,3 @@ ai_assist:
 **"AI 사용에 대한 죄의식은 규칙 위반을 뜻한다."** 그것은 공개가 아니라 은폐를 따라갑니다. 불편함 때문에 AI 사용을 제한하는 것은 금지된 행동이 아니라 그것을 숨기는 것과 상관되었습니다. 따라서 죄의식을 부정행위의 증거로 읽는 것은 그 출처를 잘못 짚는 것이며, 준수 신호로 다루면 행동을 더 시야 밖으로 밀어냅니다.
 
 **"설문 응답률이 낮다는 것은 교수진이 강한 느낌을 갖지 않는다는 뜻이다."** 이 논문은 **응답 109건(3.5% 비율)**을 윤리 논쟁의 상태에 관해 그 자체로 정보를 준다고 읽습니다. 불편함에 관한 질문에 대한 낮은 응답은 그 불편함의 부재가 아니라 그 불편함에 관한 발견입니다. 그리고 순전히 기술 향상으로 틀 지어진 GenAI 통합은 일부 교수진이 실제로 던지고 있는 정체성 질문, 즉 GenAI 세상에서 가르침의 목적이 무엇인가를 놓칩니다.
-
-## 연결된 개념
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[metaphors-and-analogies]] — 교수진 개발에서의 은유 이끌어내기와 유추 설계
-
-## 연결된 문서
-
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 생성형 AI 정렬 조언에 관한 비판적 담론 분석: 개발자가 기술 트레이너로 재규정됨- [[jordan-faculty-ai-oer-creation-2025]] — 프롬프트에서 실천으로: AI 지원 OER 제작을 탐구하는 교수자 중심 이니셔티브 (Jordan 등, 2025)
-- [[crompton-faculty-technology-integration-standards-2026]] — 기술 통합을 위한 교수 표준(DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI의 윤리적 차원: 교수와 학생의 견해
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 공학계 교수의 은유가 AI 이해를 어떻게 구성하고 제약하는가
-- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: 은유를 통해 생성형 AI 이해하기(교수·직원·학생 은유 워크숍)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — 보이지 않는 것의 통치: 언어 교사들의 AI 리터러시
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 기술 격차가 아닌 정체성 위기로서의 생성형 AI
-- [[zuo-instructor-power-genai-writing-2026]] — 생성형 AI로 글쓰기를 다루는 대학 교수들이 인식한 권력 관계 (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — 인지적 매개자로서의 AI: 성찰 삼각형 모형
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 생성형 AI를 위한 교수 자기인식 TPACK-21 지식 (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 교수개발: 출석은 향상을 예측하지만 자기 인식 참여는 예측하지 못함
-- [[instructional-design-proficiency-masters-math-2026]] — 수학에서 교육학 석사(M.Ed.)의 수업 설계 역량을 향상시키는 스마트 교실 모형과 D-T-E 루프 (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차등화 집단 활동에서의 역할 구조 (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI에 관한 대학 교수들의 경험과 인식: 취약성, 평가에 대한 재고, 위험에 처한 학생 학습 (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — 두려움에서 혁신으로: 6주 교수 연수, 공생 교수법, 그리고 제공하지 못한 제도적 조건
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: 학술 직원의 예상 죄의식, 은폐, 경력 단계별 차이 (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 미국 교수 1,057명에 대한 AAC&U/Elon 설문: 제도적 미준비, 취약한 거버넌스, 87%/48% 정책 격차 (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 글로벌 사우스 고등교육에서 디지털 매개자로서의 학술 개발자: 사회기술적 실천으로서의 개발
-- [[physics-faculty-learning-community-ai-2026]] — 불확실한 시대에 AI를 효과적으로 활용하기 위한 워크숍 시리즈: 물리학 교수 학습 공동체 구축
-
-- [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙은 기술적 자기효능감이 아닌 AI 리터러시를 따름
-- [[ai-competence-framework-landscape-2026]] — 채택하기 전에 프레임워크의 수준이 무엇을 설명하는지 확인하기
-
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 교육이 AI 의제를 정할 수 있는가? 교사 교육에서의 시뮬레이션된 혁신과 교수법적 방향 설정
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 비판적 AI 리터러시를 가르치기 위한 네 가지 기준과 네 가지 은유
-- [[tian-transnational-faculty-development-governance-2027]] — 초국적 교수진 개발: 연결성은 일회적이고, 조정이 과제다
-- [[chen-future-faculty-development-ai-2027]] — 일곱 교사 역할, 두 가지 보편적 기초, 개발 단위로서의 교수팀
-- [[ji-judgement-space-dialogic-inquiry-2027]] — 판단 공간, 대화적 탐구, 그리고 판단이 도구로 옮겨간 지점에 대한 세 열 감사
-- [[ho-invariant-core-faculty-development-2027]] — 불변의 핵심, 변하는 가장자리: 기술보다 앞서는 학습 기제
-- [[jiang-faculty-development-japan-2027]] — 일본의 이중 트랙 FD: 참여는 늘었지만 동료적 형식은 그렇지 않았다
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 6주 프로그램의 화학 교사 105명
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 28개국 언어 교사 150명 이상과 20주
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 스칸디나비아 교사 2,159명, 지각된 혜택 0.20 SD 향상
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 전직 교사가 이끄는 개발을 요청한 교사 22명
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 기존 교직원과 교수진의 역량 강화 69%
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 지침이 없던 곳에서 섀도 AI를 정당화한 교육자 20명
-- [[bodek-prompted-to-explore-microlearning-2026]] — 생성형 AI를 위한 마이크로러닝 교수진 개발 모형
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — 다섯 지원 층 가운데 하나로서의 반복적 개발
-- [[bursic-ai-residency-education-curriculum-2026]] — 의학 교육에서의 AI 레지던시
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 자료 86건, 네 주제 가운데 하나인 교육자 개발
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 역량 격차가 교수진 개발과 채용 결정을 이끈다
-- [[yuan-teacher-need-satisfaction-genai-2026]] — GenAI 학습 프로그램 후 교사 146명, 욕구가 참여를 매개한다
-- [[sheridan-teaching-academics-genai-plans-2026]] — 20개 학문 분야, 24개국: 학술인은 자동화를 먼저 계획하고 시간과 정책을 제약으로 지목 (Sheridan et al. 2026)

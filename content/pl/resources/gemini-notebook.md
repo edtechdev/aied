@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -42,7 +43,3 @@ Zadawać pytania w całym zbiorze źródeł, streszczać długie dokumenty i pod
 ## Uwagi i zastrzeżenia
 
 Google oświadcza, że treści z kont osobistych nie są używane do trenowania jego modeli, chyba że użytkownik zgłosi informację zwrotną; że wgrane pliki, zapytania i odpowiedzi w Workspace nie są używane do trenowania nawet przy zgłoszonej informacji zwrotnej; oraz że [[privacy|dane nie są udostępniane stronom trzecim]]; usuniętych notatników nie da się jednak odzyskać. Powyższe twierdzenia o możliwościach pochodzą od dostawcy, a okręg lub instytucja powinny potwierdzić je w umowie powierzenia przetwarzania danych, a nie na stronie produktu. Relacje z 2026 roku opisywały też pozew dotyczący głosu użytego w generowanych podcastach, któremu Google zaprzeczył — przypomnienie, że wyjścia audio rodzą [[legal-issues-and-risks|pytania o podobiznę]] niezależnie od zabezpieczeń wiążących odpowiedzi ze źródłami. Generowane fiszki, quizy i streszczenia należy traktować jako szkice do sprawdzenia wobec źródeł, a limity bezpłatnego planu zmieniają się bez zapowiedzi.
-
-## Powiązane pojęcia
-
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

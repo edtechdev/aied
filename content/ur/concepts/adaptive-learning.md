@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -49,7 +51,6 @@ ai_assist:
 **انطباق کا محرک تدریسی بنیاد ہے، تکنیکی صلاحیت نہیں۔** 127 ذہین ٹیوٹرنگ مطالعات کے 15 سالہ جائزے سے پتہ چلتا ہے کہ زیادہ تر نظام ٹیکنالوجی کی جو صلاحیت رکھتی ہے اُس کے گرد بنائے گئے، کسی بیان کردہ تدریسی اصول کے گرد نہیں، اور یہ ITS کا اوسط فائدہ تقریباً 20% بتاتا ہے، جبکہ انسانی ٹیوٹرنگ میں یہ 98% تک پہنچتا ہے ([[zerkouk-comprehensive-review-its-2025|Zerkouk وغیرہ (2025)]])۔
 
 دو سالہ ضلعی RCT میں اصل پابندی انطباق کے میکانزم پر نہیں بلکہ شمولیت کی شرح پر لگی: اندراج کو ایک ہی مرحلے تک محدود کرنے سے محض ڈیزائن کی تبدیلیوں ہی پر پہلی نشست کی شرکت تقریباً 45% سے 83% ہو گئی، اور شرکت بڑھنے کے ساتھ ساتھ ارادۂ علاج (intent-to-treat) کے فوائد بھی بڑھتے گئے ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos وغیرہ (2026)]])۔
-
 
 44 مطالعات کے PRISMA کے مطابق جائزے سے پتہ چلتا ہے کہ شمولیت کا ادب [[student-engagement|رویے کی شمولیت]] کی طرف جھکا ہوا ہے اور ایجنسی والی شمولیت پر سب سے پتلا ہے، اور یہ نیاپن کے اثر کی اطلاع دیتا ہے — ALEKS اور W-Pal کے طویل مدتی مطالعات میں ٹول کا نیاپن ختم ہوتے ہی شمولیت وقت کے ساتھ گرتی گئی ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]])۔
 
@@ -109,53 +110,3 @@ ai_assist:
 
 - جس بھی اثر کے حجم کا حوالہ دیں، اُس کے ساتھ "انطباقی" کی عملی تعریف بھی بتائیں، کیونکہ ادب کی تعریفیں مختلف ہیں اور یکجا کیے گئے اعداد اِسی ابہام کو ورثے میں لیتے ہیں۔
 - اپنی توثیق میں مہارت کے معیار کو سیکھنے کے نتائج سے الگ رکھیں۔ اگر آپ کا توثیقی پیمانہ وہی اشارہ ہے جو انطباق چلاتا ہے تو یہ خودمختار شہادت نہیں۔
-
-## منسلک تصورات
-
-- [[online-teaching-and-learning]] — آن لائن تدریس اور سیکھنا
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیز اور تکنیکیں (ماڈل، LLM ٹریننگ، روبوٹکس، RAG، ایجنسی)
-- [[recommender-systems-and-learning-paths]]
-
-## منسلک مضامین
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: ذاتی نوعیت کی جانچ کے لیے رفتار سے آگاہ انطباقی درجہ بندی کا نظام
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دینے والا زیادہ عام کرنا: انطباقی مہارت مشق اُس وقت روک سکتی ہے جب سیکھنے والے یہ جاننے سے پہلے کہ کب عمل روکنا ہے (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ٹیوٹرنگ کوئی یک پارچہ چیز نہیں: ہم واقعی کیا جانتے ہیں (Stanford SCALE/NSSA بریف)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — انطباقی سیکھنے کے پلیٹ فارمز میں طلبہ کی شمولیت کا منظم جائزہ
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL کے ساتھ مجازی ٹیوٹرنگ: شرکت اور سیکھنے پر ایک تجربہ
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ٹیوٹرنگ کو نتیجہ خیز بنانا: مہارت پر مبنی ریاضی کی مشق
-- [[chudziak-ai-math-tutoring-platform]] — انطباقی/ذاتی نوعیت کی کئی ایجنٹوں والی ریاضی ٹیوٹرنگ (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — ذاتی نوعیت کی سیکھنے کی نئی تعریف: منظم جائزہ
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — سیکھنے والے کی تیاری کے مطابق کیلیبریٹ شدہ ٹیوٹرنگ والا AI بمقابلہ عام چیٹ بوٹس
-- [[context-based-ai-secondary-chemistry-2026]] — ثانوی کیمسٹری میں سیاق پر مبنی 7E + AI ہدایات
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — گہری سیکھنے کے لیے انطباقی AI پر مبنی STEM پروگرام
-- [[graph-its-adaptive-algorithms-2026]] — متحرک شعبوں کے لیے گراف پر مبنی ذہین ٹیوٹرنگ (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ذاتی نوعیت کے سیکھنے کے راستوں کے لیے Bayesian علمی تشخیص
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ایک ITS میں انطباقی ICAP سہارا (BKT بمقابلہ DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14 RCTs میں انطباقی + AI Enabled ٹولز کو یکجا کرنے والا میٹا تجزیہ
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — منظم جائزہ: اعلیٰ تعلیم میں AI انضمام کے سرکردہ استعمالات میں انطباقی راستے
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — انطباقی مسئلہ ترتیب مقررہ ترتیب سے بہتر: بغیر مدد کے امتحان پر +0.156 SD، جس کا واسطہ مشکل کے بجائے شمولیت ہے (Chung وغیرہ 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ایک ایجنسی ٹیوٹر جو انسانی-AI ہم سیکھنے کے چکر میں اپنے سیکھنے والے کو سیکھتا ہے
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — حکمتِ عملی کا استعمال حالت سے طے ہوتا ہے (اوسط ICC 0.14)، چنانچہ جامد سیکھنے والے پروفائل زیادہ تر اشارہ ضائع کر دیتے ہیں

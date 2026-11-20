@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -92,44 +94,3 @@ contributors: [editor]
 **«Підготовка зі ШІ-грамотності узагальнюється між ролями.»** Більшість інструментів не міряють роль-специфічну компетентність: у систематичному огляді **33 інструментів ШІ-грамотності викладачів** **29 (87,9%)** націлювалися на загальні поняття ШІ, тоді як лише **4 (12,1%)** стосувалися [[pedagogy|педагогічного]] чи професійного використання, якого робота насправді вимагає. Програма, побудована на загальних інструментах, міряє проксі.
 
 **«Симулятор — замінник навчання на робочому місці.»** Він розвиває процедуру й усуває наслідки, що цінно і є саме тим, що не переноситься — у роботі з критичною безпекою наслідки і є навчальною програмою.
-
-## Пов’язані поняття
-
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — де занурювальна практика найбільш утверджена
-
-## Пов’язані статті
-
-- [[prunuske-cognitive-windows-research-meetings-2026]] — Перенесення дослідницьких зустрічей від оновлень даних до когнітивних вікон в епоху штучного інтелекту
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Порівняльне опитування, що показує, що саме інституційні умови, а не національний контекст, пояснюють розриви в готовності викладачів до GenAI (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Викладачі-методисти спільно проєктують адаптивну модель ШІ-грамотності та рефлексивний опитувальник (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Огляд, що показує, що інструменти вимірювання ШІ-грамотності викладачів відстають від генеративного ШІ, позначаючи мішень підготовки (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Тригодинний профрозвиток підвищив сприйману корисність і легкість використання в німецьких викладачів, але не намір використовувати ШІ для диференціації
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Огляд ШІ в початковій підготовці викладачів з математики для початкової школи: коротка зосереджена на інструментах підготовка недостатня
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Опитування, що пов’язує попередню підготовку зі ШІ та частоту використання з позитивними сприйняттями турецьких викладачів початкової школи
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Ротація ролей як структуруючий механізм для професійної підготовки з підтримкою ШІ
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[jongkind-genai-patient-medical-communication-2026]] — Використання GenAI-пацієнта для навчання медичної комунікації студентів-медиків: квазіекспериментальне дослідження
-- [[cowhitt-deliberative-instructional-agents-2026]] — Деліберативні інструкційні агенти для професійного навчання викладачів, з умовами відповідальності для ШІ-опосередкованого ПР
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Коли практика ШІ технічної професії випереджає її навчальний шлях

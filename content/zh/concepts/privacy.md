@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -104,40 +106,3 @@ ai_assist:
 - **"监考文献确立了监考的伦理。"** 一项对 **80 项研究**的综述发现，**35% 未披露其数据集，40% 只评价单一模型，30% 无法复现，只有 25%** 达到了报告标准。这份证据基础恰好在机构部署前最需要回答的那些问题上薄弱。
 - **"隐私是一道合规勾选项，而不是设计约束。"** 几乎每一个个性化、预测或评价的 AI 工具都依赖学习者数据，这使数据最小化成为一个设计决定。一个离不开这些数据的工具，并没有一个可选的隐私设置，它有的是一项由设计所选定的数据依赖。
 - **对数据实践的知晓并不来自看见它们。**[[bergdahl-student-epistemic-agency-ai-2026|Bergdahl（2026）]]发现，**47 名七年级学生**中有 **66%** 在[[conversational-ai|聊天机器人]]读取其写作时选择了保护性最弱的选项。另有 **47%** 把算法影响当作"只是好玩"，而这发生在**一个月前**的一堂课之后，那堂课把本班自己被记录的行为实时投影出来，学生们反应说这"很吓人"，还有几位留到课间继续使用该平台。让机制可见、却没有让代价具体的隐私教学，留下的立场并未改变。作者指出，这里的低分可能**比高分更可靠**，因为这些问题没有社会期待的标准答案，而责任与治理则容易引出听起来正确的回应。
-
-## 关联概念
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — 学生记录、跨办公室数据共享与联邦式风险建模
-
-## 关联文章
-
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — 你的提示词值几便士：AI 聊天平台中的上下文泄露（Bekos 等 2026）
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 面向隐私保全学业风险建模的联邦式可解释学习分析（Villegas-Ch 等，2026）
-- [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信 LA 干预的使能因素（Svetec、Divjak 与 Kadoić，2026）
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — 智能体式素养债务：来自自主智能体的结构性 AI 素养缺口（Nama，2026）
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM：面向真实学习数据的匿名化与同意
-- [[bassett-ai-detectors-education-2026]] — 正面我赢、反面你输：教育中的 AI 检测器（Bassett et al. 2026）
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — 隐私保全的联邦式 LLM 认知诊断
-- [[agarwal-ethical-values-norms-aied-2026]] — AI 教育的伦理价值与规范
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 监考系统捕捉了什么，以及隐私文献在证据基础中的缺席
-- [[edtech-privacy-deferral-2026]] — 《We'll Fix It Later》：教育、AI 与 EdTech 中学生隐私的延迟
-- [[kaziya-learner-data-privacy-governance-2026]] — 把教师的隐私胜任力与机构采取行动的权限分离开来的框架
-- [[wells-genai-research-assistant-sociology-2026]] — 以机构授权的租用环境加一道认证门槛作为隐私设计

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -105,35 +107,3 @@ A única revisão que acopla offloading à função executiva é [[papasideri-co
 - "Mais uso de IA significa função executiva mais fraca." Sharma e colegas encontraram a associação passando pelo estresse acadêmico, e um design transversal não consegue estabelecer direção. Dependência e perda de capacidade são correlacionadas, não causalmente comprovadas.
 - "Função executiva é uma coisa mensurável." Classificação de cartas, o teste Flanker e inventários de autorrelato medem processos diferentes e frequentemente discordam.
 - "Escalas de autorrelato diagnosticam déficits." O EFB-LDS-AI mede dependência autorrelatada e redução de esforço percebida, que seus autores distinguem explicitamente de um déficit clínico.
-
-## Conceitos conectados
-
-- [[metacognition]] — conhecimento e monitoramento, distintos da capacidade sob carga
-- [[cognitive-offloading]] — o que é delegado quando uma tarefa é entregue a um modelo
-- [[self-regulated-learning]] — planejamento e monitoramento aplicados ao próprio estudo
-- [[cognitive-psychology]] — memória de trabalho e as medidas de tarefa construídas a partir dela
-- [[developmental-psychology]] — como o construto muda ao longo da infância
-- [[special-education]] — apoio, acomodação e a ética de ambos
-- [[neurodiversity]] — o enquadramento em que o apoio ao TDAH é discutido
-- [[scaffolding]] — apoio um pouco além da capacidade independente
-- [[assistive-technology]] — ferramentas que compensam uma capacidade
-- [[conversational-ai]] — o formato de entrega que a maioria dos estudos de treinamento usa
-- [[generative-ai]] — as ferramentas cuja dependência é medida aqui
-- [[teacher-role]] — o apoio que a dependência pode deslocar
-- [[higher-ed]] — onde a maior parte do trabalho de medição foi feita
-- [[k-12]] — onde a dependência é medida em adolescentes
-- [[longitudinal-research]] — o design que esta evidência majoritariamente não tem
-
-## Artigos conectados
-
-- [[genai-reliance-executive-functioning-2026]] — dependência de GenAI em adolescentes definida como preferência sobre o esforço
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — compensação, andaime e desenvolvimento como três funções da ferramenta
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — dez estudos com chatbots, 1.606 participantes, acompanhamento de um mês no máximo
-- [[sidorkin-extended-executive-cognition-2025]] — cognição executiva estendida como resultado do ensino superior (framework)
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — flexibilidade cognitiva prediz o nível da entrevista, inibição não
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — escala de autorrelato de 35 itens para dificuldades de aprendizagem mediadas por IA
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — apoio de IA a estudantes com TDAH, com as trocas éticas nomeadas
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — estresse acadêmico medeia dependência de ChatGPT e disfunção executiva
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — crianças e adultos conversando com ChatGPT no scanner
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — descarregamento cognitivo na era da IA generativa: a revisão que liga offloading à função executiva
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — anotações superaram um chatbot em compreensão e recordação tardias

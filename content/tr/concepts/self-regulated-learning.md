@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -196,69 +198,3 @@ Hangi desteğin söz konusu olduğu, ilişkiyi taşıyan aracıyı belirler: 3.0
 - **“Her uyarlanabilir tasarım düzenlemeyi eşit biçimde destekler.”** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu ve ark.nın]] **179 öğrenciyle 22 gün boyunca yürüttüğü 2x2 rastgele alan deneyi** iki tasarım ilkesini karşılaştırmış ve bunları mekanizma bakımından farklı bulmuştur; dolayısıyla "uyarlanabilir" tek bir müdahale değildir.
 - **“Kaygı düzenlemeyi zayıflatır.”** **107 öğrenciyle** yürütülen karma yöntemli bir çalışmada, daha yüksek [[anxiety-and-stress|YZ kaygısı]] **doğrulama ve yeniden denetlemeyle pozitif ilişkiliydi**. Kaygı doğrulamaya bir dürtü olarak işledi; bu, düzenlemenin yokluğu değil kendisidir.
 - Üstbilişsel öz düzenlemeli öğrenme, [[ai-feedback-quality|YZ geri bildiriminin]] öngörmediği yerde öğrenmeyle ilgili yükü öngördü. **234 öğrenci ve 1.147 gözlemle** beş haftalık bir alan çalışmasında üstbilişsel öz düzenleme, **konuyla ilgili bilişsel yükün** belirgin bir pozitif öngördürücüsüydü (β = 0,363, p < 0,001 tedavi niyeti; 0,346, p < 0,001 kullanıma dayalı) ve konu dışı yükü anlamlı biçimde öngörmedi; buna karşılık konuşmaya dayalı YZ geri bildirimine yalnızca erişim hiçbirini öngörmedi. Öğrencileri konuyla ilgili yükte ayıran şey yalnızca geri bildirimle **sürekli** angajmandı ve düzensiz kullanım ayrışmadı (β = −0,219, p = 0,116); bu da etkin bileşeni geri bildirim arzında değil, öğrenenin işlemeyi düzenlemesinde konumlandırır ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ve Liening, 2026]]).
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramların çatı başlığı
-- [[metacognition]] — SRL’nin dayandığı bilişsel izleme
-- [[self-assessment]]
-- [[self-efficacy]] — çabayı yönlendiren bir ön düşünme evresi inancı
-- [[scaffolding]] — düzenleyici talebi koruyan kademeli destek
-- [[feedback]] — öğrenenlerin çevresinde düzenleme yaptığı girdi
-- [[feedback-literacy]] — geri bildirime göre hareket etme kapasitesi
-- [[help-seeking]] — stratejik bir SRL davranışı
-- [[motivation]] — öz düzenlemenin karşılıklı eşi
-- [[cognitive-offloading]] — YZ düzenleyici işi ortadan kaldırdığında doğan risk
-- [[generative-ai]] — SRL’yi iskeleyleyebilen veya kısa devre yaptırabilen teknoloji
-- [[ai-literacy]] — YZ kullanımında düzenleyici yetkinlik
-- [[self-directed-learning]] — daha geniş özerklik yapısı
-- [[agency]] — öğrenenin niyetle hareket etme kapasitesi; düzenleme, bütünleştirme ve konumlanmanın merkezinde
-- [[adaptive-learning]] — düzenlemeyi destekleyebilen kişiselleştirme
-- [[formative-assessment]] — düzenleme için sürekli geri bildirim
-- [[learning-by-teaching]] — öz düzenleme inşa eden bir strateji
-- [[intelligent-tutoring]] — SRL’yi iskeleyleyen sistemler
-- [[llm]] — YZ araçlarının altındaki temel model
-- [[retrieval-spacing-interleaving]] — öğrenenlerin yaptığı planlama, öz testi ve çalışma stratejisi seçimleri
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Bağlı makaleler
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — YZ destekli öz düzenlemeli öğrenme meta-analizi: 34 çalışmada g = 0,76; araç türü ve pedagojik rol etkiyi düzenliyor (Zhang ve ark. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Üretken YZ bağımlılığı ve algılanan öğrenme çıktıları: çaba düzenlemesi yolu (Li, Zhang ve Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Gömülü bir sınıfta LLM ile bölütlenen SRL’nin kategori bazında doğruluğu (Fonteles ve ark. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Teslimin göstermediği: öğrencilerin LLM’lerle matematik çalışmalarında karmaşıklaşan bilişsel yük devri (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Müfredat eşlemesinde yüzeysel ipuçlarından öz düzenlemenin aşırı atfedilmesi (Jayalath ve ark. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Olanağı ve Öğrenci Öz Düzenlemesi
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — YZ-etkileşim okuryazarlığı: bir sohbet robotunu yönlendirmek, desteklemesi beklenen SRL’yi gerekli kıldı (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — Üretken YZ çağı için 5P yansıtma modeli (Kadel ve ark. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Üretken YZ destekli yazmada katmana duyarlı bilişsel yük devri (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — Ölçekler arasında öğrenen etkinliği: düzenleme, bütünleştirme, konumlanma
-- [[rented-self-decoupling-performance-becoming-2026]] — Kiralanan benlik: Winne’nin SRL modellerine eşlenen kira; on önerme ve öğrenen içi göstergeler
-- [[song-genai-learning-partner-srl-over-time-2026]] — Zaman içinde bağlama duyarlı bir öğrenme eşi ortakı olarak üretken YZ
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Öğrencilerin bir üretken YZ sohbet robotu ile öğrenmeyi nasıl düzenlediği
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — İskele mi kısa yol mu? SRL’de üretken YZ’nin çifte rolü
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM’de LLM aracılı yardım isteme: katmanlı, aletsel ve doğrulanmış
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Üretken YZ geri bildirimi ve SRL: algılanan kaynak önemlidir
-- [[ai-anxiety-strategic-regulation-writing-2026]] — YZ kaygısından stratejik düzenlemeye
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Üretken YZ ile üstbiliş/öz düzenleme konusunda karma kanıt
-- [[agentic-ai-pedagogical-best-practice-2026]] — Etmen YZ ve öz düzenleme gerilimi
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Çevrimiçi öğrenmede SRL ve daha düşük dijital dikkat dağılması (Shi ve ark. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Harmanlanmış sınıflardaki öğretmenlere makine öğrenmesi bulgularını erişilebilir kılmak
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: görev tanımlama, gerekçelendirme ve görev sonrası yansıtmadan oluşan öğrenciye dönük bir döngü
-- [[learning-analytics-genai-secondary-writing-2026]] — Ortaokul Öğrencilerinin Üretken YZ ile Yazmasını Desteklemek için Öğrenme Analitiği Kullanmak
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Uyarlamalı STEM öğrenmesinde YZ destekli öz düzenleme için doğrulanmış bir araç; üstbilişsel farkındalık en güçlü öngördürücü olarak
-- [[iqbal-human-genai-support-essay-revision-2026]] — Makale gözden geçirme deneyinde destek koşulu, üstbilişsel yargıdan çok gözden geçirme stratejisi seçimini yönlendirdi
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Boylamsal: yansıtıcı YZ kullanımı bilgi kazanımını değil eleştirel düşünmeyi öngördü, Matthew etkisi olmadan
-- [[genai-literacy-srl-special-education-2026]] — Üretken YZ okuryazarlığı, öz düzenlemeli öğrenme davranışlarıyla başta öğrenme etkinliği üzerinden ilişkiliydi
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — Destek türü aracıyı değiştirir: YZ öz yeterliliği / öz düzenlemeli öğrenme
-- [[genai-learning-procrastination-planned-behavior-2026]] — Üretken YZ destekli öğrenmede erteleme: kaygının güçlendirdiği bir niyet–davranış boşluğu
-- [[genai-srl-l2-writing-scale-2026]] — L2 yazma için çevresel düzenlemenin kendi boyutu olarak yer aldığı, 12 maddelik karınca kolonisi iyileştirmeli kısa biçimli doğrulanmış altı boyutlu bir Üretken YZ–SRL ölçeği
-- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers ve ark. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — Öğrencilerin Öz Düzenlemeli Öğrenmesini Artırmak için Yapay Zeka Kullanan Proje Tabanlı Hibrit Bir Öğrenme Modeli
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — İlk yanıtlayan bir YZ öğretim asistanı akran yanıtlarını ve onlarla birlikte öz düzenlemenin not değerini büyüten ortak düzenlemeyi yerinden etti (Davis ve ark. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Ön kavrayış çeşitliliği üstbilişsel bir istemin nasıl karşılandığını değiştirdi: aynı istem işlevleri, YZ çıktısına karşıt sürdürülen değerlendirme (Wang ve ark. 2026)
-- [[gouroubera-genai-benin-2026]] — Erteleme kullanımla birlikte yükseldi (β = 0,525), algılanan kazanımın yanında; YZ’nin olanaklı kıldığı gecikmeyi YZ hakkındaki gecikmeden ayırıyor (Gouroubera ve ark. 2026)

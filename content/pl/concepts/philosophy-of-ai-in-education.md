@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -89,34 +91,3 @@ Filozofia SI w edukacji i [[theory-development-aied|rozwój teorii w AIED]] są 
 
 - Nazwij pojęcie uczenia się, które zakłada Twoja ewaluacja, bo zmierzony zysk jest dobrem edukacyjnym tylko względem jakiegoś ujęcia tego, po co jest edukacja.
 - Finansuj pracę filozoficzną obok pracy empirycznej: pytania o to, co liczy się jako osiągnięcie uczącego się, ustalają kryteria sukcesu, których potem używają badania empiryczne.
-
-## Połączone koncepcje
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Edukacja chemiczna i SI: laboratoria, ocenianie kształtujące, granice LLM, filozofia eksperymentu
-
-## Połączone artykuły
-- [[genai-chinese-higher-education-integrity-2026]] — Generatywna SI w chińskim szkolnictwie wyższym: uczciwość i zaangażowanie
-- [[ensemble-cognition-philosophy-ai-education]] — Poznanie zespołowe: filozoficzne ramy poznania człowiek–SI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Symbioza pedagogiczna i postludzki uczący się
-- [[videla-embodied-ai-education-choreography]] — Ucieleśniona, postkognitywistyczna krytyka nieucieleśnionej SI w edukacji
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Rozwojowo-krytyczny model poznania interpretacyjnego w naukach humanistycznych
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemiczna współsprawczość jako filozofia uczenia się z maszynami
-- [[avraamidou-ai-colonization-science-education]] — Krytyczno-feministyczna filozofia kwestionująca kolonizację edukacji przez SI
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generatywna SI jako agent mediacyjny
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ekologiczne ramy nauk o uczeniu się dla generatywnej SI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filozofia eksperymentu w chemii z SI
-- [[strydom-human-gai-paradigms-2026]] — Ramowanie dynamiki człowiek–SI: siedem paradygmatów zaangażowania z GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternatywna filozofia SI: daoizm jako metoda dla SI w edukacji
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kto działa, kto wie, kto odpowiada? Analiza dyskursu wspomagana korpusem nad sprawczością, odpowiedzialnością epistemiczną i rozliczalnością w badaniach nad generatywną SI w szkolnictwie wyższym
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — „Zorientowany na człowieka" AIED czytany jako dyskurs antropocentryczny o komercyjnym zastosowaniu (Wang i Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Czy maszyny mogą wykonywać pracę emocjonalną? Debata 1950–1996 i dlaczego mimikra nie przesądza o trosce

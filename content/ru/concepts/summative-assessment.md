@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -82,43 +84,3 @@ ai_assist:
 - **«LLM не может оценивать по официальным стандартам».** Против **модерируемых официальных оценок** мультимодальная LLM, оценивавшая **10 364 рукописные** страницы олимпиады по физике и университетских работ, коррелировала сильно. Согласие по итогу может сохраняться при неточном оценивании на уровне пункта, — а значит полезный вопрос в том, где точность на уровне пункта действительно требуется.
 - **«Инфляция оценок от ИИ — спекуляция».** Квазиэксперимент [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] на **500 000+ оценок** делает механизм конкретным: после выхода ChatGPT **в курсах с большим числом задач, подверженных ИИ, выросла доля высоких оценок**. Эффект концентрировался там, где задачи были подвержены, — та закономерность, которую предсказал бы механизм.
 - **«Студентов, использующих ИИ, нельзя отличить от тех, кто его не использует, так что проверка происхождения безнадёжна».** Находка о том, что **не было значимой разницы в атрибуции источника** между сгенерированными ИИ и лицензионными экзаменационными заданиями, при корректном распознавании в **68,6–77,5 процента** и **18,2 процента** ошибочной атрибуции, касается провала распознавания, а не ненужности проверки происхождения. Если что, это повышает требование к проверенному происхождению.
-
-## Связанные концепции
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Связанные статьи
-- [[llm-grading-assistants-public-health-2026]] — Оценщики на LLM сжимают шкалу оценок и избегают крайностей в ответственном оценивании эссе
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Переосмысление устных экзаменов как аутентичного, устойчивого к ИИ итогового оценивания
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Штраф за обучение с генеративным ИИ: данные экзаменов с прокторингом в закрытой форме
-- [[chirikov-ai-grade-inflation-2026]] — Вытеснение заданий ИИ как механизм завышения оценок; курсы с большим объёмом домашних заданий (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Более быстрое выполнение, меньше обучения: необходимы измерения с прокторингом
-- [[generative-ai-guardrails-harm-learning]] — Генеративный ИИ без ограничителей вредит обучению
-- [[assessing-quality-ai-generated-exams-field-2025]] — Оценка качества сгенерированных ИИ экзаменов
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM не оценивают эссе как люди
-- [[llm-automated-assessment-student-self-explanations]] — LLM для автоматизированной оценки самообъяснений учащихся
-- [[cong-confidence-asag-2026]] — Автоматизированное оценивание коротких ответов
-- [[psyscore-essay-scoring-zpd-feedback]] — Психометрически осведомлённое адаптивное к чертам оценивание эссе
-- [[socratic-tests-conversational-assessment]] — Сократические тесты: динамическое, разговорное, мультимодальное оценивание
-- [[code-review-genai-cs1]] — Интервью с разбором кода в CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Ответственное оценивание в эпоху ИИ
-- [[test-driven-ai-assisted-learning]] — Обучение с помощью ИИ, управляемое тестами
-- [[genai-oop-programming-assessments-2026]] — Результативность GenAI на оцениваниях по объектно-ориентированному программированию
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: продуктивная борьба и иллюзия обучения
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Сгенерированные ИИ против разработанных человеком заданий по оцениванию в EFL
-- [[roe-assessment-twins-2026]] — Близнецы оценивания для усиления валидности оценивания в эпоху GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — Оценивание рукописных работ по физике с помощью ИИ (олимпиада)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Студенты не могут надёжно распознать задания, составленные ИИ

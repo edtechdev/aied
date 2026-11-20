@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -104,41 +106,3 @@ A divisão digital é uma preocupação central da pesquisa em [[equity-in-ai-ed
 - **"Se roda no navegador, está disponível."** A maioria das ferramentas de LLM para aulas pressupõe **áudio em inglês monolíngue e internet confiável**, o que exclui exatamente as salas de aula que misturam inglês com uma língua materna. Os dados UDISE+ da Índia colocaram o acesso à internet nas escolas muito abaixo do nível que essa suposição exige. Uma ferramenta construída sobre uma infraestrutura pressuposta exclui silenciosamente os contextos com a necessidade mais forte.
 - **"Letramento digital e uso de IA são a mesma variável mediadora."** Um estudo com **4.497 estudantes do 6º ano** na Holanda separou **duas vias mediadoras distintas** — uso de IA e letramento digital — ligando histórico e personalidade a ganhos de aprendizagem. Elas não são intercambiáveis, e intervenções que elevam uma não elevam automaticamente a outra.
 - **"[[simulation|Simulações]] removem a barreira de custo."** Uma revisão sistemática de **11 estudos de gêmeos digitais** no ensino superior de STEM encontrou custos de hardware de **\$2.000-\$15.000** por instalação. Um laboratório simulado pode reproduzir a conta de equipamentos que deveria evitar, de modo que o argumento de custo para a provisão virtual precisa ser verificado, e não pressuposto.
-
-## Conceitos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Artigos conectados
-- [[watanabe-genai-education-gap-europe-2026]] — A lacuna educacional no uso de IA generativa é menor do que a da internet foi? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estruturas institucionais, desigualdade digital e integração da IA no ensino superior nigeriano
-- [[ai-divide-ses-personality-primary-education-2026]] — NSE, personalidade e divisões da IA na educação primária (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED desconectada: a tutoria com o professor como intermediário alcança estudantes sem dispositivo (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — A educação em IA na escola estreita lacunas psicológicas, mas não cognitivas, de prontidão
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: mensurando e mitigando disparidades de acessibilidade no acesso a LLMs
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — O framework de letramento em IA andaimentado (SAIL)
-- [[oecd-digital-education-outlook-2026]] — Perspectivas da Educação Digital da OCDE 2026
-- [[aaai2026-prompting-literacy-k12]] — Ensinando o uso responsável de chatbots de IA a estudantes do K-12
-- [[structural-silence-underrepresented-language-ai-2026]] — Silêncio estrutural e línguas sub-representadas
-- [[sec-ai-literacy-narrative-review-2026]] — Competência socioemocional no letramento em IA
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizagem adaptativa baseada em IA para contextos multilíngues de baixos recursos
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisão sistemática da IA na educação em ciências/química
-- [[unesco-ai-guidelines-chemical-education-2026]] — Diretrizes de IA da UNESCO traduzidas para a educação em química; deriva epistêmica
-- [[lodge-loble-cognitive-offloading-2026]] — IA, descarregamento cognitivo e implicações para a educação (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Letramento em IA humanista socialista + uso justo
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: o acesso rural à robótica segue a geografia da mentoria, e não o acesso a dispositivos (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — A desigualdade digital como problema distributivo versus a colonialidade algorítmica como problema epistêmico, nas HDIs sul-africanas
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — IA para governo eletrônico: tecnologias de linguagem para a inclusão digital
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: um framework de agente de IA local-first para aprendizagem de língua materna de baixo custo rumo à equidade educacional
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Laboratórios de gêmeos digitais carregam uma conta de equipamentos que limita o acesso simultâneo

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,33 +68,3 @@ ai_assist:
 - **"[[usability-research|사용성]] 평정은 보조 도구를 검증합니다."** 실천가들은 공동 설계한 Social Story 도구를 **매우 사용성이 높다고(SUS 86.8)** 평정하면서도 그 **이미지가 일반적으로 서구적**이며 **행동 추적기가 목표 연계 임상 판단과 어긋난다**고 말했습니다. 높은 사용성은 실질적 결함과 공존했으므로, SUS 점수는 적합성에 대한 보증이 아닙니다.
 - **"일반적 벤치마크는 튜터가 특수교육 사례를 어떻게 다루는지 알려 줍니다."** 특수교육 및 교육심리 문헌에서 뽑은 **923개 사례 근거 대화**에서 **11개 모형 중 최선의 모형**이 문서화된 기준을 충족했으며, **도전적 행동은 튜터 벤치마크가 멈추는 지점**입니다. 표준 평가는 실천가들이 가장 도움이 필요한 사례에 도달하지 못합니다.
 - **"신경다양 학습자에게는 설계 요건이 아니라 수용 조치가 필요합니다."** [[neurodivergent-computing-students|Zastudil 등]]은 신경다양 컴퓨팅 학생들에게 **구조화된 과제, 작고 일관된 팀, 명시적 역할 정의**가 필요함을 발견했습니다. 진단 후에 부여되는 개별 조정이 아니라 모두에게 이익이 되는 일반적 설계 요건입니다.
-
-## 연결된 개념
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## 연결된 문서
-- [[seung-basham-cognitive-offloading-swld-2026]] — 학습장애 학생을 위한 GenAI 인지적 오프로딩
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 농인 및 난청 학습자를 위한 LLM 기반 문항 생성
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성형 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양 학생을 위한 디지털 보조 기술에 관한 범위 검토
-- [[adapted-stories-social-story-intervention-2026]] — 특수 교육을 위한 AI 보조 Social Story 개입: AdaptED Stories의 설계
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 시각-언어 모형이 Nao 로봇을 위해 Shoebox Tasks를 계획합니다(Kudláčková 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 도전적 행동을 보이는 학생에 대한 LLM 튜터 평가(Park 외 2026)

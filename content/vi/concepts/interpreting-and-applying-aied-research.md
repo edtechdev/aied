@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -156,41 +158,3 @@ Các bước kiểm tra ở trên không phải trí khôn dân gian; chúng đ�
 **"Điểm cao hơn khi dùng công cụ cho thấy công cụ đã dạy nhiều hơn."** Trong một nghiên cứu toán [[k-12|K-12]], học sinh luyện tập với một [[conversational-ai|chatbot]] đa dụng đạt điểm luyện tập tốt hơn và sau đó đạt điểm **kém hơn khoảng 17%** ở bài đánh giá không được hỗ trợ. Hiệu năng luyện tập đo khi có công cụ là thước đo bị thổi phồng; thước đo không được hỗ trợ mới là kết quả, và chỉ một trong hai đang tăng.
 
 **"Nếu hiệu ứng là thật, các chi tiết triển khai không quan trọng lắm."** Chúng chính là hiệu ứng. Một nghiên cứu theo dõi 30 sinh viên trong một khóa học ở một cơ sở, trên một phiên bản công cụ mà không ai dùng hiện nay, đã tạo ra một phát hiện về một cấu hình không còn tồn tại. Đặc tả can thiệp, phiên bản và bối cảnh là một phần của tuyên bố chứ không phải bối cảnh xung quanh nó.
-
-## Khái niệm liên quan
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Nghiên cứu giáo dục có hỗ trợ AI
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Bài viết liên quan
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Được cho là hiệu quả: kiểm toán pháp y 14 phân tích tổng hợp AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Hiệu ứng AI đã hiệu chỉnh thiên lệch công bố chỉ bằng khoảng một phần ba quy mô được báo cáo
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT trong giáo dục: một hiệu ứng đi tìm nguyên nhân
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Tiêu chí đưa vào được dùng làm ngưỡng chặt chẽ, và độ không đồng nhất thay đổi theo mô hình
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Khi độ tin cậy của chấm điểm tự động chạm trần đo lường của nhiệm vụ
-- [[verification-quality-reliance-calibration-genai-2026]] — Điều mà tài liệu về kiểm chứng và sự phụ thuộc không đo
-- [[citation-errors-hallucinations-computing-education-2026]] — Những tài liệu tham khảo bịa đặt đã lọt vào bản in trong 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Tăng điểm luyện tập, mất điểm thi: vấn đề gỡ bỏ hỗ trợ trong toán K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Hiệu ứng nhóm con có khoảng tin cậy cắt qua số không
-- [[chick-faculty-development-ethical-ai-2026]] — Điều kiện tạo khả năng: tín hiệu chính sách, thuê bao cá nhân, không có thời gian
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Chỉ số của nhà cung cấp được công bố kèm hiệu chỉnh và số thí nghiệm
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Phát hiện gắn với các phiên bản mô hình, và sự xáo trộn của lĩnh vực
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Số đếm bằng chứng độc lập cho 16 sản phẩm AI hướng đến học sinh đã được dùng
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Một tổng quan có thể định lượng độ lệch báo cáo trong chính bộ ngữ liệu của nó

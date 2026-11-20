@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -109,36 +111,3 @@ Zaman ölçeği sorusunun artık bir biçimselleştirmesi var. [[cognitive-washo
 **“Aktarım daha yetenekli modellerden gelir.”** Aktarım, onu üreten koşullardan gelir: alıştırmanın genelliği, bağlamların değişkenliği ve öğrenenin akıl yürütmeyi kendisinin üretme derecesi. Model yeteneği destekli performansın tavanını yükseltir ve model gittikten sonra kalan şey için özel olarak hiçbir şey yapmaz.
 
 **“Rehberlik aktarımı her zaman destekler, dolayısıyla daha çok rehberlik daha iyidir.”** Akıl yürütmeyi kendisi yürüten rehberlik, aktarımın bağlı olduğu sürecin yerine geçer. Ayrım, öğrenenin sonraki adımı üretmesini sürdüren yardım ile o adımı onun yerine üreten yardım arasındadır; o çizginin aktarım tarafında yalnızca birincisi vardır.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Bu dizilerin çoğunun nihayetinde yargılandığı sonuç
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Üretken Başarısızlık
-
-## Bağlı makaleler
-- [[yan-agentivism-learning-theory-ai-2026]] — Dört mekanizma ve altı sınanabilir önermiyle insan–YZ etkileşimi için orta düzey bir öğrenme kuramı (Yan ve Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI destekli yazmada katmana duyarlı bilişsel dış kaynaklığa yükleme (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Performans–öğrenme ayrımı ve kalıcı aktarım
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Üretken Başarısızlık için LLM’lerin Pedagojik Yönlendirilmesi
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — Parçacık Fiziki Eğitiminde YZ: Araştırma Problemleri ve Temel Beceriler
-- [[shi-genai-experiential-learning-management-education-2026]] — korumalı sınıf simülasyonlarının dışarısında başarısız olan karar alışkanlıkları oluşturabileceğini savunur
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — YZ destekli konuşma pratiği insanlara yönelik isteği yükseltmiş ama hiçbir çalışma insan konuşmasını gözlemlememiştir
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Masa Başında İşlevsel Robotik Gömülmeyle Geliştirilmiş Öğrenme
-- [[cognitive-washout-ai-skill-decay-2026]] — Bilişsel yıkanma: yardım sonrası aralık ve 22 haftalık bir ölçüm protokolü (Yajee 2026)

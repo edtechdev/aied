@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -139,57 +141,3 @@ ai_assist:
 援助要請は通常、一つの決定として研究されます。すなわち、問うことがそのコストに見合うかについての判断です。フィリピンの工学の学生と教育者392人を対象とした2026年のPLS-SEM研究は、[[generative-ai|生成AI]]が埋め込まれてしまえば、その決定はすでにほとんど下されていることを示唆します。**習慣が人間への援助要請の置き換えをβ = 0.711で予測した**一方、[[technology-acceptance-model|行動意図]]はβ = 0.039で予測し、そのパスは統計的にゼロと区別できませんでした。その標本の生成AI利用者の半数（49.6%）は、人に助けを求めることが少なくなったと報告し、行き詰まったときに最初の資源として人間を挙げたのは15.8%にとどまり、道具を挙げたのは30.4%でした。
 
 援助要請にどう足場かけするかについて、二つの含意が導かれます。第一に、態度を対象としたり、問うことをより魅力的にしたりする介入は、すでに自動化されたルーティンと競合します。彼らは信念ではなくルーティンを標的にする必要があります。第二に、置き換えを*減らした*唯一の構成概念は[[academic-integrity|学術的誠実性]]への懸念（β = −0.329）であり、これは人間への相談を保つことが、メッセージングよりも、必須の対人的なチェックポイント — ピアレビュー、口頭審査、監督下の実験室での援助 — を通じてより説得的に達成されることを示唆します。（[[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]）
-
-## 関連概念
-
-- [[learners]] — 学習者:学習者側の概念のための包括概念
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — コース内の援助要請を超えた制度的な働きかけと支援の配分
-
-## 関連記事
-
-- [[leite-its-k12-meta-analysis-2025]] — どの個別指導の支援が効果を担うか：自動の促しよりもオンデマンドの解答例とヒント
-
-- [[taufer-human-ai-interaction-haidl-2026]] — 一次データとしての相互作用：その周囲の実行状態によってクエリを分類する
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — 援助要請の水準ではなく軌跡が、支援なしの数学の成績を予測する
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — ライブのプログラミングコースで、ヒントの長さを次の提出の正しさ、試行回数、時間に対して測定
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 誰も求めなかったヘルパーエージェント(Humburgら 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry:LLMを活用したペンによるその場でのインタラクティブQ&Aシステム
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEMにおけるLLM媒介の援助要請:層状的、手段的、検証された
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away:2年間の学校実験におけるKhanmigo
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — コンピュータ支援学習によるオンライン指導:受講開始と学習の実験
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AIコースにおける学生–LLM対話のStudyChatデータセット
-- [[lak2026-hint-button-unproductive-use]] — 時期尚早なヒントの要求と表面的なヒントの読み方がITSにおける学習の伸びの低さを予測する
-- [[ai-fallibility-warning-help-seeking]] — AIの誤りうる性についての警告が数学指導システムにおける援助要請を増やす
-- [[regulating-ai-tutor-adolescent-srl]] — 青年期の生成AI援助要請と自己調整学習における意図–行動のギャップ
-- [[guided-llm-scaffolding-independent-learning]] — 導かれたLLMの足場かけが推論中心の援助要請と独立した学習を改善する
-- [[rethinking-scaffolding-llm-tutors]] — 現実世界のLLMチューター展開における足場かけと学生の受容の不一致
-- [[uneven-impact-generative-ai-student-learning-2026]] — 早い段階の依存:独立した思考、検索、教員より先に生成AIに相談することが便益と害の双方を予測する(Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — オンライン作文における資源リテラシー:ボトルネックは援助が必要なときの認識である(Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support:高等教育における援助要請の格差に対処するためのコース固有のRAGシステムの評価
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency:学習者のするに応じて段階的に高め漸減するAIチューター
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach:問題解決における的を絞ったAI援助要請への足場かけ
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask:ハイブリッド支援システムにおける需要の構造と自動化の可能性
-
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — 工学の静力学コースにおけるユーザー入力データを通じた学生の生成AI利用の検討
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — コンピュータ科学教育における自己調整学習と概念的理解を高めるマルチエージェント人工知能モデル...
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 学生が人に助けを求めることが少なくなるのを予測するのは意図ではなく習慣：49.6%が人間への援助要請の減少を報告、習慣のβは0.711、意図は0.039

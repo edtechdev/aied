@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,56 +83,3 @@ AI時代のCTの中心的な目標は、学生と教員をAIの出力の*受動�
 - **「AI支援は資源の乏しい環境で条件を均す」。** それは条件次第で可能です。**ナイジェリアの1年生学部生103名を対象とした14週間の準実験**では、AI支援の問題ベース学習(ChatGPTとTeachable Machine)が成果を生み、他の支援がないところでは「より有能な同僚」としてのAIがCTを担います。しかしそれは構造化された介入についての知見であり、学生に[[conversational-ai|チャットボット]]を渡すことの性質ではありません。
 - **「LLMはCTを信頼できる形で評価できない」。** [[llm-computational-thinking-physics-2026|物理のCT評価研究]]は、LLMが大規模履修コースにおいて、データの実践と計算による問題解決の実践の成長を採点する際に**人間の評価者と同様の結果を示せる**ことを見出しました。CT評価の規模拡大を妨げてきたのは評価者の処理能力であり、その制約は和らぎつつあります。それにより設計上の問いは、評価指標が従順さではなくCTを測っているかどうかへと移ります。
 - **「CTはロボティクスがたまたま教えるコーディング技能である」。** **95件の研究の[[meta-analysis-systematic-review|システマティックレビュー]]**は、ロボティクスがCT、創造性、問題解決を育むことを確認する一方で、**設定が成果を調整する**ことも示しています。[[game-based-learning|ゲームベース]]の実施は非公式の場に適し、ゲーミフィケーションは公式の場では異なります。CTは不均等に転移する実践の集合であり、転移の主張には実際に用いた課題設計が必要です。
-
-## 関連概念
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## 関連記事
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — AIトレーニングテストにおける計算論的思考(CTAT)
-- [[computational-thinking-aica-2026]] — 計算論的思考の水準とAIコーディングアシスタント(2026)
-- [[ai-writes-code-student-writes-model-2026]] — モデル著者性:GenAIを使った構築による学習の理論と測定
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI:生成物構築のための構成主義フレームワーク
-- [[astor-computational-thinking-meta-review-2026]] — 128件のシステマティックレビューのCTメタレビュー
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 幼稚園におけるロボティクスによるCTのシステマティックレビュー
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft:計算論的思考とデジタルリテラシーを高めるデジタルデザイン思考・学習プラットフォーム

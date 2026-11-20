@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -47,11 +48,3 @@ Aux responsables de programmes et de modules dans l'enseignement supérieur qui 
 Le modèle n'a pas été évalué à grande échelle. L'article précise qu'il n'existe encore ni échantillon, ni instrument, ni résultat mesuré, et que des pilotes sont nécessaires pour tester si les artefacts du premier temps accroissent la confiance des évaluateurs ou la cohérence interprétative, si les étudiants perçoivent le dispositif comme plus équitable, et comment une discipline fixe un seuil de suffisance sans transformer le premier temps en second examen.
 
 Deux coûts pratiques sont réels. Le premier temps exige des séances observées et une captation sécurisée à grande échelle, et l'enregistrement multilingue et la traduction sont des prérequis, non des suppléments. Et le jugement interprétatif est délibérément laissé aux correcteurs : le modèle suppose une expertise disciplinaire qui ne peut pas être automatisée, ce qui est une hypothèse de dotation en personnel autant que de conception.
-
-## Concepts liés
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,39 +84,3 @@ ai_assist:
 - **"मानसिक प्रतिनिधित्व अप्रेक्षणीय हैं, इसलिए सीख के बारे में संज्ञानात्मक दावे मान्यताएँ हैं।"** विज्ञान वीडियो के दौरान शिक्षार्थियों के **EEG** से छवियाँ पुनर्निर्मित करने पर पाया गया कि **प्रतिनिधित्व की निष्ठा परीक्षण-प्रदर्शन के साथ चली** (प्रतिगमन गुणांक **0.8481, R² = 0.79**)। आंतरिक प्रतिनिधित्व का संज्ञानात्मकतावादी आधार मापनीय है, और माप ने परिणाम की भविष्यवाणी की।
 - **"उच्च R² का अर्थ है कि प्रतिनिधित्व सीख की व्याख्या करता है।"** R² = 0.79 उसी सामग्री पर निष्ठा और प्रदर्शन के बीच एक मज़बूत संबंध है। यह स्थापित नहीं करता कि निष्ठा बढ़ाने से प्रदर्शन बढ़ता है, जो हस्तक्षेप-दावा है।
 - **"ज्ञान-घटक एक सुविधाजनक मॉडलिंग कल्पना हैं।"** विघटनीयता ही वह चीज़ है जो [[knowledge-tracing]] और [[cognitive-diagnosis]] को संभव बनाती है, और विधियाँ उतनी ही काम करती हैं जितनी यह मान्यता टिकती है। इसे कल्पना मानना उस कारण को छोड़ देता है कि विधियाँ उपयोगी अनुमान देती हैं, जबकि इसे तथ्य मानना इस बात को बढ़ा-चढ़ाकर कहता है कि फ़िट किया गया मॉडल मन के बारे में क्या बताता है।
-
-## संबंधित अवधारणाएँ
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — जिन पुनरावृत्ति निष्कर्षों पर यह अभ्यास-परिवार टिका है
-
-## संबंधित लेख
-
-- [[cognitive-shift-ai-education]] — शिक्षा में AI से संज्ञानात्मक बदलाव
-- [[cogtax-cognitive-taxonomy]] — AI उपयोग के लिए एक संज्ञानात्मक वर्गीकरण
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — ज्ञान ट्रैकिंग में आधारित शिक्षाशास्त्रीय LLM एजेंट
-- [[nie-personavlm-long-term-personalization-2026]] — LLM शिक्षार्थी मॉडलिंग और स्मृति
-- [[ai-cognitive-partner-co-regulation-learning]] — सह-नियमित सीखने में संज्ञानात्मक भागीदार के रूप में AI
-- [[ensemble-cognition-philosophy-ai-education]] — समुच्चय संज्ञान: विचार को मानव–AI अंतःक्रिया के रूप में
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — प्रयास का संगठन, प्रयास की मात्रा नहीं, भार और झुंझलाहट के साथ चला
-
-- [[sim-ai-summary-memory-distortion-2026]] — भ्रामक AI सारांशों ने बदला कि वयस्कों को क्या याद रहा, चाहे सारांश AI- या मानव-लिखित लेबल वाला हो
-- [[crediting-assisted-work-inflates-mastery-2026]] — ज्ञान-अनुरेखण से महारत के दावे इस पर निर्भर हैं कि सहायता-प्राप्त काम को कैसे श्रेय दिया जाता है (Srivastava 2026)
-

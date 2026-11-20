@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -77,41 +79,3 @@ PBL کا [[project-based-learning|منصوبے پر مبنی سیکھنے]] سے
 - **"PBL کے نتائج کو منصوبے پر مبنی سیکھنے کے نتائج کے ساتھ یکجا کر دینا چاہیے۔"** تین سطحی میٹا تجزیہ **پیداوار اور حل کی کارکردگی کو الگ ماڈل میں** رکھتا ہے، بالکل اِس لیے کہ وہ سیکھنے والے کی اپنی استدلال کی بجائے **انسانی-AI اشتراک** ناپتا ہے۔ اِنہیں ملانا مشترکہ طور پر پیدا شدہ نمونے کو طالب علم کے کھاتے میں ڈالنا ہوگا۔
 - **"اشتراکی فوائد AI استعمال کرنے کا ضمنی اثر ہیں۔"** ایک مطالعے نے زیادہ سمجھی گئی اشتراکی مسئلہ حل کرنے کی قابلیت (**M = 3.62 بمقابلہ 3.05، d = 0.88**) اور مشترکہ مسئلہ حل کرنا (**3.40، d = 1.02**) پایا، اور **سب سے بڑے تعامل کے اثرات مشترکہ علم کی تعمیر اور سماجی ضابطگی پر** پڑے — یعنی اشتراکی عمل کے وہی پہلو جن کی ڈیزائن پیش گوئی کرتا ہے۔ طریقہ کار ساختہ اشتراک ہے، اوزار نہیں۔
 - **"AI کے ساتھ PBL بنیادی طور پر سہولت کار کا وقت بچاتا ہے۔"** قابلِ پیمائش فوائد عمل کے معیار میں اُن پہلوؤں پر ہیں جو صرف اُس وقت موجود ہوتے ہیں جب گروہی ساخت اُن کے لیے ڈیزائن کی گئی ہو۔ وہ PBL نفاذ جو مشترکہ علم کی تعمیر کے بغیر AI جوڑے، اُسے وہی اثر متوقع نہیں رکھنا چاہیے۔
-
-## منسلک تصورات
-
-- [[project-based-learning]]
-- [[case-based-learning]] — تیار شدہ کیسز اور کیس کی بحث، PBL کے کھلے استفسار سے مختلف
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — پیداواری ناکامی
-
-## منسلک مضامین
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — جنریٹو AI کی معاونت والی تعلیم کے لیے امید افزا فریم ورک بہ طورِ مسئلہ پر مبنی اور منصوبے پر مبنی سیکھنا: منظم جائزے اور تین سطحی میٹا تجزیے سے ابھرتے ثبوت
-
-- [[pbl-structural-conditions-ai-2026]] — PBL اور پیداواری AI یکجے کی ساختی شرطیں (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — PBL میں AI کے ساتھ اساتذہ کی شمولیت کا منظم جائزہ (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — طبی PBL ٹیوٹوریلوں کے لیے GenAI مجازی مریض (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — PBL میں ذمہ دار GenAI کے لیے LEARN فریم ورک (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI سے بہتر بنائے گئے PBL میں ChatGPT بہ طورِ موافق سکافولڈنگ (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — GenAI کے دور میں بایو میڈیکل انجینئرنگ میں PBL (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — کمپیوٹیشنل سوچ کے لیے AI کی معاونت والا PBL
-- [[genai-counter-learner-groupthink-2025]] — GenAI ایجنٹ بین پیشہ ورانہ PBL میں گروہی سوچ کا توڑ کرتا ہے
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI چیٹ بوٹس اور ابتدائی سائنس میں مسئلہ تراشی
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM میں استفسار پر مبنی سیکھنے کے لیے ChatGPT
-- [[kim-ai-productive-failure-adult-2026]] — پیداواری ناکامی پر مبنی سیکھنے کی معاونت کے لیے AI نظام ڈیزائن کرنا
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — پیداواری ناکامی کے لیے LLM کی تدریسی رہنمائی
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF مسئلہ ڈیزائن کی معاونت کے لیے AI
-- [[genai-scenario-based-healthcare-education-2026]] — منظرنامے پر مبنی صحت کی تعلیم میں GenAI کا منظم جائزہ (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 130 قبل از خدمت طبیعیات اساتذہ کے ساتھ AI کی معاونت والا CTD-PBL ماڈیول: TPACK اور اشتراکی مسئلہ حل کرنا (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — فارماکولوجی تعلیم میں سہولت کار کی وساطت بمقابلہ AI کی وساطت والا مسئلہ پر مبنی سیکھنا: دوسرے سال کے طبی طلبہ میں نیم تجربی مطالعہ

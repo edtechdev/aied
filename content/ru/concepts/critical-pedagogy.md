@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -92,35 +94,3 @@ ai_assist:
 **Для исследователей**
 
 - Сообщайте распределение режимов вовлечения в классах, а не только среднее использование, поскольку среднее скрывает, существует ли критическая практика вообще.
-
-## Связанные концепции
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Зонтик: педагогики и стратегии преподавания в ИИ в образовании
-
-## Связанные статьи
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Образование в области прав человека, рефлексивная практика и преподавание управления ИИ как профессионального формирования (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Мультимодальная композиция как педагогика критической ИИ-грамотности
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Критический анализ дискурса техно-солюционистских советов по конструктивному согласованию с GenAI
-- [[benali-genai-academic-writing-2026]] — Ревизия с обязательным обоснованием в курсе академического письма: ИИ ограничен двумя разделами предложения, каждое предложение принято или отклонено письменно (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Критическая, феминистская критика «ИИ-колонизации» естественнонаучного образования
-- [[li-mroziak-reorienting-critical-ai-literacy]] — «Сопротивление ИИ» как укоренённая в сообществе практика критической ИИ-грамотности
-- [[ojeda-ramirez-community-based-ai-learning]] — Перераспределение эпистемического авторитета ИИ через общинное обучение
-- [[raffaghelli-situated-ai-ethics-2026]] — Ситуативная, культурно-историческая и экологическая рамка для этики ИИ
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Развитийно-критическая модель интерпретативного познания в гуманитарных науках
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Социалистическо-гуманистическая ИИ-грамотность + добросовестное использование
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Ценностно-критический подход к устойчивому образованию и ИИ (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Эмансипаторное видение проектирования генеративного ИИ в сторону процветания учащегося
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Ориентированная на человека рамка вовлечённости в GenAI, построенная на Фрейре, конструктивизме и этике заботы
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Критическая цифровая педагогика и деколониальные эпистемологии, применённые к академическому развитию в Глобальном Юге

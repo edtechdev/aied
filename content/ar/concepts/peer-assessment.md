@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,7 +47,6 @@ ai_assist:
 تتفق قاعدة البحوث على أن التقويم بالأقران يُنتج تعلماً وتختلف حول مقدار ما يعتمد على التصميم. فهو يمنح الطلاب جمهوراً أصيلاً، ويطوّر الحكم التقييمي عبر الاستجابة القائمة على المعايير، ويبني السياق الاجتماعي الذي يدعم [[student-engagement|الاندماج]] و[[motivation]]. وتعتمد جودته بشكل كبير على [[scaffolding]] — أي مدى تنظيمه، وما إذا كان الطلاب يحصلون على معايير واضحة وتدريب. هذه التبعية هي موضع دخول الذكاء الاصطناعي، كمكمّل متسق وقائم على معايير مرجعية للتغذية الراجعة المحددة والواعية بالسياق التي يقدمها الأقران، وبشكل متزايد كسقالة مبنية داخل عملية التقويم بالأقران نفسها.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] يجدا أن طلاب الإنجليزية لغةً أجنبية الذين راجعوا كتابة أقرانهم عبر حوار مفتوح مع [[generative-ai|ذكاء اصطناعي توليدي]] أنتجوا تغذية راجعة قيّمها المتلقّون بجودة أعلى، مع مكاسب في الاستجابة الوجدانية وثقافة التغذية الراجعة تفاوتت بحسب جودة الحوار.
-
 
 ## ما يتعلمه الطلاب من تقويم أقرانهم
 
@@ -77,7 +78,6 @@ ai_assist:
 
 أصرم اختبار لمدى أهمية التصميم هو تجربة معشاة بعناقيد متعددة المواقع. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] عشّأت 48 شعبةً عبر 4 جامعات — 1,176 طالباً في السنة الأولى في [[biology-education|الأحياء]]، و[[chemistry-education|الكيمياء]]، و[[physics-education|الفيزياء]] — على أربع شروط للمناظرة العلمية: تغذية الأقران وحدها، وتغذية الذكاء الاصطناعي التوليدي المباشرة، وتغذية الذكاء الاصطناعي التوليدي التأملية (تقييم ذاتي ثم نقد آلي)، وهجين من تقييم ذاتي ← تغذية أقران ← نقد بالذكاء الاصطناعي التوليدي. تفوّق الذكاء الاصطناعي التوليدي المباشر على تغذية الأقران في جودة المناظرة الفورية لكنه أظهر [[transfer-of-learning|نقلاً]] أضعف؛ أنتجت التصاميم التأملية والهجينة استيعاباً أقوى للتغذية الراجعة وتعلماً منظماً ذاتياً؛ وأظهر الهجين أوضح ميزة على التعلم المفاهيمي؛ وتفوق كلاهما على الذكاء الاصطناعي التوليدي المباشر في النقل المتأخر الخالي من الذكاء الاصطناعي. قيمة الذكاء الاصطناعي التوليدي، كما يخلص المؤلفون، تعتمد أقل على الوصول منها على ما إذا كانت البيئة تحافظ على وكالة الطالب وملكيته أثناء المراجعة.
 
-
 تسلسل تغذية الذكاء الاصطناعي الراجعة قبل مناقشة الأقران، بدل بعدها، رفع النتائج أيضاً: مقابل تغذية الأقران وحدها، أفاد 122 طالباً صينياً في EFL أُعطوا تغذية راجعة مدمجة بالذكاء الاصطناعي والأقران باندماج عاطفي وسلولي ومعرفي أعلى (partial η² = 0.29، 0.28، 0.32) وتفوقوا في أبعاد الكتابة الأربعة جميعها في IELTS، وأكبرها في تحقيق المهمة (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 ذلك النمط — ميزة مبكرة لا تصمد — يتكرر عندما تكون المقارنة بين تغذية المدرِّس وتغذية الأقران المدعومة بالذكاء الاصطناعي بدل الذكاء الاصطناعي التوليدي وحده. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, and Luo (2026)]] أجروا تجربة شبه تجريبية مدتها ثمانية أسابيع مع 61 كاتباً صينياً للغة الثانية (244 نصاً مُصحَّحاً) يعملون من قائمة تحقق واحدة ذات خمسة أبعاد، مع صف يتلقى تغذية راجعة مكتوبة من المدرِّس والآخر تغذية أقران مدعومة بالذكاء الاصطناعي. أنتجت تغذية المدرِّس تعليقات أكثر بكثير — 316 بنداً مقابل 185 في المهمة الأولى، مركزةً على المفردات والتفاصيل التقنية — والمكسب الفوري الأكبر قليلاً، لكن تحسنها هبط حدةً بحلول المهمة الثانية في حين ثبت صف الأقران المدعوم بالذكاء الاصطناعي وأنهى بدرجة مراجعة أعلى. كانت تعليقات الأقران المدعومين أقل لكنها بقيت راسيةً في المحتوى والبنية، ولم تصمد ميزتهما المبكرة في تنوع المفردات؛ ولم تُحرك أي من الطريقتين التعقيد النحوي. يقرأ المؤلفان الطريقتين كـ[[scaffolding|سقالتين]] متكاملتين ويقترحان هجيناً ذكاءً اصطناعياً–أقران–مدرِّس، يُشير فيه الذكاء الاصطناعي إلى الأخطاء السطحية أثناء الصياغة، ويتفاوض الأقران حول المحتوى في المراجعة، ويستهدف المدرِّس ما لم يبلغه أيٌّ منهما.
@@ -106,48 +106,3 @@ ai_assist:
 - **«كشف الغش هو غرض [[oral-assessment|التقويم الشفهي]].»** كانت المخرجات المقيسة الفهمَ والتحفيز، لا تقليل النص الملصوق. فالحكم على التصميم بمعدل كشفه يقرأ خطأً ما أنجزه.
 - **«مراجعة الأقران بديل أرخص لتغذية المدرّس الراجعة.»** [[learning-by-teaching|التعلّم بالتعليم]] هو الآلية، ويظهر حتى بين الآلات: كان خطاب يشبه تعلّم الأقران بين أكثر من **2.4 مليون وكيل ذكاء اصطناعي** معظمه **تقريرًا لا استقصاءً**. فإنتاج النقد فعل مختلف عن تلقّيه.
 - **النماذج التأملية للأقران والذات كسجل خلف درجة جماعية.** استخدم [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] نموذجًا تأمليًا واحدًا للأقران لكل زميل بالإضافة إلى نموذج تأملي ذاتي واحد لكل طالب في وحدة إدارة مشاريع أعمال في الدراسات العليا، إلى جانب اجتماع مدته 30 دقيقة مع كل فريق سُئل فيه الأعضاء هل كانت مساهمتهم أصيلة. ولم تُقيَّم النماذج كتبادل تغذية راجعة. بل كانت الدليلَ الفردي الذي مكّن المدرّس من الدفاع عن علامة فردية داخل تقويم فريقي بنسبة 40%. وارتفاع علامة الإطار من 27/40 إلى 31/40 مشوب بمحاضر جديد، وادعاؤه في النزاهة غير مُكمَّم، لذا فالجزء القابل للنقل هو بنية حفظ السجلات لا حجم الأثر.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — PAIRR وتغذية الأقران زائد الذكاء الاصطناعي المدمجة: التسلسلات ودليلها المقارن
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## المقالات المرتبطة
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — رفعت التغذية الراجعة المدمجة بالذكاء الاصطناعي والأقران أبعاد الاندماج الثلاثة وأبعاد الكتابة الأربعة في IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — مقارنة تصحيح ChatGPT والأقران والمدرِّس عبر مستويات جودة المشروع (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR في مقرر كتابة أعمال: مراجعة الأقران، وتغذية الشاتبوت، والتأمل (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. human peers for scaffolding self-regulated feedback and feedback literacy (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI as Trainer and Synthesizer in EFL peer feedback on speaking (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Multisite experiment comparing peer-only, direct, reflective, and hybrid GenAI feedback (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-scaffolded GenAI peer feedback in collaborative argumentation (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-mediated group assessment: cooperation, restraint, non-enactment (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Oral code review interviews as harm reduction for GenAI in CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Automated multimodal presentation coaching as a scalable alternative to peer feedback (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-generated discussion summaries broaden peer exposure in online forums (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and relational trust in students' GenAI disclosure (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — نماذج تأملية ذاتية وأقرانية كدليل فردي خلف درجة جماعية (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — مفردات الأدوار لدى 654 طالبًا: مدرّب 28.6%، متعاون 23.1%، أداة 9.9%، روبوت 7.7%

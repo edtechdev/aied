@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -60,27 +62,3 @@ ai_assist:
 - **「中程度の効果量が正しいツールを特定する。」** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhangら]]は、AIに基づく介入が障害のある学生の学習成果に中程度の正の効果（**g = 0.588**）をもたらすことを、ロボット、ソフトウェア、知的な VR にわたって見出しました。それは非常に異なるニーズに奉仕する非常に異なる技術にわたる平均であり、カテゴリーを支えるものであって、その中の選択を支えるものではありません。
 - **「診断を条件とするアクセスは弁護可能な設計である。」** 参加に正式な診断を求めることは、ニーズはあるがラベルを持たない学習者を排除し、[[universal-design-for-learning|普遍的な設計]]と衝突し、アクセスのコストを学生の文書化に押しつけます。
 - **「支援ツールが多いほど包摂が進む。」** スコーピングレビューは5つのデータベースにわたる**766件の記録**を絞り込みましたが、成果の量はニーズの網羅と同じではありません。障壁ごとの研究の数がより情報量の多い数値なのです。
-
-## 関連する概念
-
-- [[accessibility|アクセシビリティ]] — 支援技術が具体化する設計上の特性
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## 関連する記事
-
-- [[shin-ai-policies-sld-2026]] — 特定の学習障害のある学生のための AI 政策と配慮
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 障害のある学生のための AI 介入のメタ分析
-- [[kutti-ai-voice-first-learning-companion]] — 視覚障害のある子どもたちのための音声優先の AI
-- [[tactile-statistical-graphs-accessibility]] — AI が生成した触覚的な統計グラフ
-- [[text-simplification-its]] — 知的チューターシステムのための LLM に基づくテキストの単純化
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 聴覚障害のある／難聴の学習者のための LLM による問題生成
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX による数学にアクセス可能な物理学の動画の文字起こし
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 視覚障害のある学習者のための支援的な生成 AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成 AI、仮想現実、そしてその先：高等教育における神経多様性のある学生のためのデジタルな支援技術のスコーピングレビュー

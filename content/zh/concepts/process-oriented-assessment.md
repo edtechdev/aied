@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -101,48 +103,3 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - **“高分意味着学生做了我们设计的作业。”** 轨迹可能与分数**直接背离**：在 **150 段学生与 AI 的对话**中，**41% 的作业分数恰为 1.00，而可观察的认知参与各不相同**。分数饱和，而本应产出它的过程没有。
 - **“过程数据在规模上无法管理。”** 要求的文档记录被证明在课程规模上可行：在 **六个学期的六周异步研究生研究方法课程、约 440 名 K-12 教师**中，检查点提交平均完成率为 96%。后勤是可解决的；这一反对意见高估了成本。
 - **“问题解决过于整体，无法按过程评估。”** 它可以被操作化为 **四个阶段与八个诊断性子技能**，使一个大语言模型能生成**针对特定阶段的问题与评分规则**，并在**五位教师与 64 名学生**中使用。分解正是让过程变得可读、可评估的东西。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 分阶段检查点与过程证据作为序列化设计
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## 关联文章
-- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — 三条证据流、配对任务，以及作为元能力的统筹
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — 一篇批判性叙事综述，主张默认的失效是永不淡出的 AI 支持与仅以产品评估相配（Salameh 2026）
-
-- [[alam-process-oriented-collaborative-essays-2026]] — 一份一年级学位学徒中的、有评分的协作过程论文：评分规则中包含迭代与协作，GenAI 在明确边界内被允许（Alam 与 Jackson 2026）
-- [[genai-performance-vs-learning]] — 表现不是学习：一个建立在过程测量上的研究议程（Yan 等 2026）
-- [[human-centered-ai-teacher-educators-2026]] — 教师教育者要求建立在论证与反思之上的、抗 AI 的、基于过程的任务（Baran 等 2026）
-- [[sharma-judgment-visible-genai-assessment-2026]] — 为可见的判断而被选择的带注释决策轨迹、口头答辩与草稿差异
-- [[munoz-misconduct-allegation-evidence-2026]] — 不当行为案例文件包含什么，以及它们缺少什么过程证据
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 当评估证据被替换时，何种推断处于风险
-- [[beyond-detection-authentic-assessment-ai-2025]] — 真实性必须被重新设计，而非被监管
-- [[authentic-products-authenticated-processes-2026]] — 真实的产品与产生它们的过程
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 口试作为一种使推理在场的抗 AI 形式
-- [[thapa-lewis-process-oriented-assessment-2026]] — 认识论真实性与过程导向评估背后的四项设计承诺（Thapa 与 Lewis 2026）
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 渠道条件性的过程证据：日志与出声思维揭示不同过程
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace：一个面向 AI 整合写作的多视图分析环境
-- [[epistemic-ownership-ai-mediated-education-2026]] — 相同的表现，不同的过程：AI 中介教育中的认识论所有权
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：通过大语言模型生成的问题支持教师诊断学生的数学问题求解技能
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 六个学期、约 440 名教师中，对 AI 对话的检查点文档记录保持 96% 的完成率
-- [[rubrics-genai-process-based-assessment-2026]] — 源自 Biggs 3P 模型的三个评分规则维度：能动性与监督、对话性脚手架、认知主权（Oviedo 与 Díaz 2026）
-- [[jelson-students-chatgpt-essay-writing-2026]] — 一个 CodeMirror 编辑器加一个被记录的聊天面板，把一次论文写作会话变成过程证据，及其打字对思考的局限（Jelson 等 2026）
-- [[xian-process-visualization-feedback-news-translation-2026]] — 过程可视化加一次反思会话，在未增加修改量的情况下把修订从表层转向意义层
-- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面评估：先在观察下确认推理，再给在家中写成的提交评分，对关联不清者设条件式口试（Webb-Davies、Ratner 与 Bassett 2026）
-- [[black-box-assessment-winstone-2026]] — 黑箱评估：过程窗口、把错误当作证据，以及通过可见性实现的诚信（Winstone、Gravett 与 Elkington 2026）
-- [[francis-pace-framework-genai-assessment-2026]] — PACE：在四级能动性量表上给过程评分（Francis 等，2026）

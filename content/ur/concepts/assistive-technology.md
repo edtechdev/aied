@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -60,27 +62,3 @@ ai_assist:
 - **"درمیانی اثر کا حجم صحیح اوزار کی نشاندہی کرتا ہے۔"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] پاتے ہیں کہ AI پر مبنی مداخلتیں روبوٹ، سافٹ ویئر اور ذہین VR کے ذریعے معذوری رکھنے والے طلبہ کے سیکھنے کے نتائج پر درمیانی مثبت اثر ڈالتی ہیں (**g = 0.588**)۔ یہ بہت مختلف ٹیکنالوجیز کا اوسط ہے جو بہت مختلف ضروریات پوری کرتی ہیں، چنانچہ یہ زمرے کی حمایت کرتا ہے، اُس کے اندر انتخاب کی نہیں۔
 - **"تشخیص پر مشروط رسائی ایک قابلِ دفاع ڈیزائن ہے۔"** شرکت کے لیے رسمی تشخیص لازمی کرنا اُن طلبہ کو خارج کر دیتا ہے جن کی ضروریات حقیقی ہیں مگر لیبل کوئی نہیں، جو [[universal-design-for-learning|آفاقی ڈیزائن]] سے متصادم ہے اور رسائی کی لاگت طالب علم کے کاغذی ثبوت پر ڈال دیتا ہے۔
 - **"زیادہ معاون اوزار کا مطلب زیادہ شمولیت ہے۔"** ایک اسکوپنگ جائزے نے پانچ ڈیٹا بیسز میں **766 ریکارڈ** چھانے، اور پیداوار کا حجم ضرورت کی کوریج کے برابر نہیں — فی رکاوٹ مطالعات کی گنتی زیادہ معلوماتی عدد ہے۔
-
-## منسلک تصورات
-
-- [[accessibility]] — وہ ڈیزائن خصوصیت جسے معاون ٹیکنالوجی عملی شکل دیتی ہے
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## منسلک مضامین
-
-- [[shin-ai-policies-sld-2026]] — مخصوص سیکھنے کی معذوری رکھنے والے طلبہ کے لیے AI پالیسیاں اور سہولتیں
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — معذوری رکھنے والے طلبہ کے لیے AI مداخلتوں کا میٹا تجزیہ
-- [[kutti-ai-voice-first-learning-companion]] — بصری معذوری رکھنے والے بچوں کے لیے صوتی مرکز AI
-- [[tactile-statistical-graphs-accessibility]] — AI سے پیدا کردہ لمسی شماریاتی گراف
-- [[text-simplification-its]] — ذہین ٹیوٹرنگ کے لیے LLM پر مبنی متن کی آسانی
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — بہرے/سماعت میں کمزور طلبہ کے لیے LLM سے سوالات کی تخلیق
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX سے ریاضی تک قابلِ رسائی طبیعیات ویڈیو کی نقل
-- [[khlaif-assistive-genai-visually-impaired-2026]] — بصری معذوری رکھنے والے طلبہ کے لیے معاون GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — جنریٹو AI، ورچوئل رئیلٹی اور آگے: اعلیٰ تعلیم میں نیورو ڈائیورژنٹ طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیز کا اسکوپنگ جائزہ

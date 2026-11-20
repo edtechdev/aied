@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -81,43 +83,3 @@ ai_assist:
 **«تحليل أصحاب المصلحة تمرين طور مبكر.»** التوترات تستمر إلى التشغيل، لأن الأدوار تظل تفسّر النظام نفسه تفسيرًا مختلفًا. فطبقة [[personalized-learning|التخصيص]] الموجّهة للطالب ولوحة النزاهة الموجّهة لهيئة التدريس بيانات واحدة تُرى من موضعين، والنزاع يتكرر كلما عُدّل أحد الموضعين.
 
 **«هوية عبر الجماهير تعني أن رسالة واحدة تخدمهم جميعًا.»** التواصل عبر الجماهير يتطلب ترجمة القرار نفسه إلى صيغ مختلفة دون تحريفه، وهو أكثر من إعادة كتابة رسالة واحدة بأربع طرق.
-
-
-## المفاهيم المرتبطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — من يملك دعوى على قرارات دعم الذكاء الاصطناعي المؤسسي
-
-## المقالات المرتبطة
-
-- [[genai-student-experiences-uk-he-survey-2026]] — تجارب الطلاب مع الجيل التوليدي في التعليم العالي بالمملكة المتحدة
-- [[ai-uk-higher-education-policy-2026]] — الذكاء الاصطناعي في سياسة التعليم العالي بالمملكة المتحدة (الطلاب والمؤسسات)
-- [[ai-campus-wellbeing-tools]] — أدوات مدفوعة بالذكاء الاصطناعي لسلامة الحرم الجامعي
-- [[ai-tpack-mathematics-teacher-education-2026]] — جهوزية AI-TPACK في تعليم معلمي الرياضيات
-- [[genai-policies-higher-ed-computing]] — سياسة الجيل التوليدي المؤسسية في الحوسبة
-- [[ethical-ai-higher-ed-game-theory]] — إطار لعبة التنسيق للاستخدام الأخلاقي للذكاء الاصطناعي في التعليم العالي
-- [[student-rationalization-ai-writing]] — تبرير الطلاب لاستخدام الذكاء الاصطناعي في الكتابة الأكاديمية
-- [[ai-changing-teaching-workflows]] — كيف يغيّر الذكاء الاصطناعي سير عمل التعليم
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — تصورات أصحاب المصلحة للجيل التوليدي في التعليم العالي (هامبل وموزيليوس 2026)
-- [[edtech-privacy-deferral-2026]] — «سوف نصلحه لاحقًا»: التعليم والذكاء الاصطناعي وتأجيل خصوصية الطلاب في تكنولوجيا التعليم

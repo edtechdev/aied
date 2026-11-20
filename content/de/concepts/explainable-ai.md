@@ -23,7 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -109,48 +110,3 @@ Für Erklärbarkeit spezifisch sind die Aufgaben, die zählen, jene, die Erklär
 ## Zitation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Verbundene Konzepte
-
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Verbundene Artikel
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 Teilnehmende, drei Saliency-Methoden: Zufriedenheit und Vertrauen unverändert, Aufgabenleistung und Faithfulness-Metriken widersprechen sich (Kares et al., 2027)
-- [[lund-socially-accountable-data-science-xai-2026]] — Ein viersäuliges Framework (Antwortbarkeit, Verantwortung, Durchsetzung, Reflexivität) zum Lehren von XAI als Praxis der Verantwortlichkeit (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-Sensitive Design studierendenzentrierter ITS (kollaborative versus rohe Erklärungen)
-- [[xai-education-framework]] — XAI-ED: das grundlegende Framework für erklärbare KI in der Bildung (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domänenspezifische Erklärungen bauen Vertrauen und Akzeptanz der Lehrkräfte auf (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Studierendenperspektiven auf transparentes KI-unterstütztes Assessment (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretierbares Knowledge Tracing
-- [[explainable-probabilistic-kt]] — Erklärbares Knowledge Tracing über probabilistische Einbettungen
-- [[neural-symbolic-knowledge-tracing]] — Neural-symbolisches Knowledge Tracing
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillieren von Black-Box-Modellen in selbsterklärende LMs für Learning Analytics
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federierte und erklärbare Learning Analytics für datenschutzbewahrende Risikomodellierung
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantisch eingeschränkter kontrafaktischer Regress für Bildungs-Entscheidungsunterstützung
-- [[fair-explainable-edu-recommendations]] — Faire und erklärbare Bildungsempfehlungen
-- [[multimodal-affective-its-presentation]] — Interpretierbares Closed-Loop-ITS für multimodales affektives Feedback
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Erklärung der ChatGPT-Einführung in der Hochschulbildung
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Erklärbar-durch-Design-LLM-Framework: Aufmerksamkeit über zwei Linsen und score-parametrisierte Erklärungen für automatisiertes Lehrenden-Assessment (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injektion in KI-vermittelter Benotung, wo Erkennung der Nutzerin nie gemeldet wurde (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für pädagogisches Assessment neuer KI-unterstützter Bildungsfragen
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Lehrkraft- versus KI-getroffene Benotungsentscheidungen: eine schriftliche Begründung erweiterte die Fairness-Lücke
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zitate und Autoritätssignale erhöhten die Nachgiebigkeit gegenüber falscher Ausgabe, einige Referenzen waren falsch zugeordnet oder fiktiv
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — symbolische, subsymbolische und neuronalsymbolische Modelle auf einer Kohorte schrieben ihre Vorhersagen unterschiedlichen Faktoren zu

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -68,34 +70,3 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - **«La calidad de la recuperación es todo el problema.»** La recuperación es necesaria y no suficiente. La respuesta fundamentada obtuvo **9,05 de 10 con un intervalo de confianza bootstrap de la diferencia que excluye el cero** y estuvo **más a menudo fundamentada en el material que quien respondía realmente veía (98% frente a 81%)**, así que la ganancia medida está en la fidelidad a la evidencia, y la evidencia tiene que ser correcta para que esa fidelidad signifique algo.
 - **«La recuperación de una sola página generaliza.»** Ambas brechas **casi se triplicaron en las preguntas que exigían material de más de una página** (puntuaciones entre páginas de 9,93 frente a una línea base más baja). El razonamiento multidocumento es donde los sistemas fundamentados se degradan, y es justo donde los cursos plantean las preguntas más difíciles.
 - **«La recuperación elimina la necesidad de escrutinio.»** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales aprobados de un único módulo para atender a estudiantes que dudan en preguntar a una persona: un alcance defendible. Las colecciones estrechas y aprobadas de fuentes son lo que hace significativa la fundamentación; la etiqueta por sí sola no.
-
-## Conceptos conectados
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Paraguas: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
-
-## Artículos conectados
-
-- [[hughes-rag-ai-feedback-implementation-2026]] — La RAG elevó la calidad y la utilidad percibidas de la retroalimentación, no su accionabilidad, en dos cohortes de posgrado
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un asistente de planificación de clases fundamentado en el currículo cuyo ahorro de tiempo no superó al de un chatbot general
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Generación Aumentada por Recuperación para la educación en ciencias de la computación teóricas -- Un marco integral de evaluación para el análisis de algoritmos y la teoría de la complejidad
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de curso para abordar las disparidades en la búsqueda de ayuda en la educación superior
-- [[wiki-llm-indexing-ml-classes-2026]] — Potencial para mejorar el aprendizaje en cursos de aprendizaje automático mediante la indexación con wiki y LLM
-- [[on-premises-rag-tutoring-business-education-2026]] — Tutoría RAG multidcurso en local para la educación empresarial
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — La curación del índice y el alcance de la recuperación como trabajo de despliegue

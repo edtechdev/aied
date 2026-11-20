@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -116,45 +118,3 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 **"坚持度低是鼓励就能修复的动机问题。"** 坚持是教育技术中反复出现的约束，即[[framing-5-percent-problem-teachers-persistence|5% 问题]]所命名的那个模式，它由动机与认同、认知障碍、*以及*挑战下的韧性共同塑造。鼓励只处理三者之一。一个因为问题超出了工作记忆而停下的学习者，缺的不是安慰。
 
 **"知道 AI 可用不会改变学生投入努力的方式。"** 它会，而且效应对最弱的学习者朝不利方向走：[[ai-availability-student-motivation|AI 可得性]]会降低费力参与的价值感，对新手尤其如此。仅仅可得性本身就是一个符号为负的动机干预，这就是为什么与 SEL 相邻的设计不能把有个有帮助的系统在场当作中性的。
-
-## 关联概念
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## 关联文章
-
-- [[liu-genai-sel-mapping-review-2026]] — 对 GenAI 与 SEL 的 43 项研究映射综述：胜任力覆盖不均，伦理报告单薄
-
-- [[sec-ai-literacy-narrative-review-2026]] — 把社会情感能力整合进 AI 素养
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views：留意信任鸿沟：教师与学生的看法
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework：支架式 AI 素养（SAIL）框架
-- [[teacher-education-ai-literacy-sdt-2026]] — 面向 AI 素养的教师教育（SDT）
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — 学生对 AI 的依赖、自我效能与资源管理
-- [[self-efficacy-tutoring-learning]] — 自我效能与偏好在辅导学习中塑造结果
-- [[shame-guilt-ai-regulation-computing-education]] — 羞耻与内疚作为 AI 使用的社会调节器
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 从替代到支架
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI 聊天机器人与集体效能
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy：情感数学辅导
-- [[ai-campus-wellbeing-tools]] — AI 驱动的校园幸福感工具
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 研究中的政策赤字
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 早期社会情感学习中的人—AI 互补性（Raave 等 2026）
-- [[parlant-emotional-micro-interventions-2026]] — 实时情绪微干预与面向教学者的短语手册
-- [[shastry-gray-empathy-offloading-2026]] — 人们在认为 AI 能给予共情时就把它外包出去（Shastry & Gray 2026）
-
-- [[sycophantic-ai-social-interaction-2026]] — 谄媚式 AI 取代人类的建议寻求，并降低对现实互动的满意度（Ibrahim 等 2026）
-

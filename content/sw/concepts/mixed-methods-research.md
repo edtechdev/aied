@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,7 +45,6 @@ Katika masomo 394 ya [[generative-ai|GenAI]] katika elimu ya juu, mbinu mchangan
 
 - **Tawi la kimahesabu lililozalishwa na mashine.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] walizalisha tawi la kimahesabu la BREQ kutoka kwa maandishi ya mahojiano ya washiriki chini ya ubuni wa muunganiko, njia ya uunganishaji ambayo haitegemei kazi ya binadamu peke yake. Mahusiano ya LLM–binadamu yalitoka wastani hadi juu (ρ = .5 hadi .73), RMSE za ngazi ya kipengele, mtu, na jaribio zilipima umbali kutoka majibu ya binadamu, na vipengele 6, 7, na 11 vilivyoandikwa kwa mtindo hasi vilionyesha faida ya wazi zaidi ya upimilishaji wa pembe tatu, vikionyesha pale ushahidi wa mahojiano na wa dodoso unapotofautiana.
 
-
 ## Jinsi mbinu mchanganyiko zinavyoonekana katika hifadhi ya maarifa
 
 - **Kuelezea mbinu.** [[same-ai-different-pathways]] unaunganisha mwelekeo ili kufungua mbinu za kujifunza zinazosababishwa na AI katika miktadha ya taaluma–taasisi, ambapo tofauti za kimahesabu peke yaze zingekuwa ngumu kueleweka.
@@ -72,26 +73,3 @@ Utafiti wa mbinu mchanganyiko upo kati ya mienendo ya [[quantitative-research|ki
 - **"Ushahidi wa uchunguzi na wa mahojiano unaweza kubeba dai la mfumo."** Kuunganisha uchunguzi wa mfumo na majadiliano na watendaji dhidi ya **tathmini ya nasibu ya miaka minne ya wanafunzi 8,708 katika mihula minane**, yenye uwezo wa kugundua athari za **mkengeuko wa kawaida wa 0.05**, kunaonyesha kile ambacho tawi la kina haliwezi kufanya peke yake: kugundua athari ndogo kwa kuaminika. Kuchanganya mbinu si njia ya kuhamisha uwezo kati ya matawi.
 
 - **"Uthibitishaji wa pande tatu unamaanisha mbinu mbili dhaifu hufanya dai imara."** Thamani ya kuunganisha ni kwamba kila tawi hujibu swali tofauti. Ubuni unaoendesha vyote viwili kisha kuripoti ugunduzi wa kina kama uthibitisho wa ule wa kiwango haukufanya uthibitishaji wa pande tatu, umerudia tu.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Makala Zilizounganishwa
-
-- [[genai-over-reliance-learning-2026]] — Kutoka kuboresha hadi kutegemea kupita kiasi (dodoso + mahojano)
-- [[t2i-competence-paradox-2026]] — Paradokso ya uwezo (vikundi vya mazungumzo + dodoso + mahojano)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Pengo la uaminifu–ufaafu (dodoso + mahojano)
-- [[same-ai-different-pathways]] — Mbinu za kujifunza zinazosababishwa na AI katika miktadha tofauti
-- [[genai-feedback-design-multisite-experiment]] — Kubuni kwa maoni ya GenAI yanayozingatia binadamu (maeneo mengi)
-- [[hazra-safetutors-pedagogical-safety-2026]] — Usalama wa mwalimu wa AI na madhara ya kielimu
-- [[becker-chatgpt-typology-physics-2026]] — Taksonomia ya kina ya kupitishwa kwa ChatGPT katika fizikia
-- [[edtech-privacy-deferral-2026]] — "Tutarekebisha Baadaye": Elimu, AI, na Kuahirisha Faragha ya Mwanafunzi katika EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER na RoBERTa iliyoboreshwa ziliweka upande tofauti wa hisia kwa chapisho moja la Bluesky (Geraili Meykola et al., 2026)

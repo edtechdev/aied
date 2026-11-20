@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -98,46 +100,3 @@ Uma revisão sistemática interdisciplinar de 2026 (Dabaghi, D'Urso & Sciarrone,
 - **"O modelo mais novo vai resolver isso."** A geração do modelo não é a restrição vinculante. O ChatGPT-5 igualou o corpo docente humano em itens objetivos de provas de farmácia (CCC 0,935–1,000), mas não em itens de resposta curta (≈0) nem em redações (0,341–0,854), e **uma rubrica estruturada não fechou a lacuna de forma confiável**. Ganhos de capacidade em tarefas fechadas não se transferiram proporcionalmente para o trabalho aberto, que é onde a maior parte da avaliação de fato vive.
 - **"Os dados de uso mostram que está funcionando."** No mapeamento de 394 estudos, o ChatGPT com versão não especificada apareceu em 94 estudos e a família 3/3.5 em 66 — de modo que boa parte das alegações publicadas de capacidade descreve **gerações de modelo já superadas**, e muitos estudos não relatam a versão. O comportamento relatado está amarrado a um modelo e a uma data específicos, o que torna alegações sem data sobre "IA generativa" não falseáveis em vez de gerais.
 - **"É seguro porque especialistas anotaram o corpus."** Um corpus de 4.815 mensagens estudante-IA anotado por múltiplos especialistas encontrou apenas cerca de 0,68% de mensagens com o conteúdo prejudicial ou fora da tarefa que o esquema de codificação foi construído para detectar. Isso é um achado sobre a taxa base, não sobre segurança: eventos raros são raros, e as caudas de falha de um sistema são exatamente os casos que um corpus desse tamanho tem dificuldade de caracterizar.
-
-## Conceitos conectados
-
-- [[llm]] — a classe de modelo subjacente à IA generativa
-- [[prompt-engineering]] — como os produtos são moldados
-- [[rag]] — fundamentação aumentada por recuperação
-- [[ai-literacy]] — a competência necessária para usá-la com eficácia
-- [[ai-education]] — o campo mais amplo
-- [[intelligent-tutoring]] — sistemas de tutoria conversacionais e generativos
-- [[cognitive-offloading]] — o risco de excesso de confiança que a IA generativa amplifica
-- [[hallucination-risk]] — um risco central de confiabilidade do conteúdo gerado
-- [[academic-integrity]] — preocupações de integridade decorrentes da geração fluente
-- [[automated-assessment]] — modelos generativos na correção e no feedback
-- [[ai-technologies]] — o guarda-chuva das técnicas e modelos de IA
-- [[higher-ed]] — um contexto primário de implantação
-- [[k-12]] — um contexto primário de implantação
-- [[reflection]]
-
-## Artigos conectados
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-análise do efeito da GenAI sobre a motivação para aprender, com um intervalo de predição abrangendo do dano ao benefício
-
-- [[typology-generative-ai-tools-education-2026]] — Tipologia das ferramentas de IA generativa para a educação
-- [[generative-ui-education-learning-interactives-2026]] — Aproveitando a IU generativa para a educação: interativos de aprendizagem feitos sob medida
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliação de um sistema multiagente de LLM orientado ao andaimento para treinamento de entrevista clínica
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: um framework de desenho para IA segura e sólida para a aprendizagem
-- [[genai-educational-outcomes-meta-analysis]] — Meta-análise dos resultados de aprendizagem com GenAI
-- [[genai-meta-analysis-programming-learning]] — Meta-análise da GenAI na aprendizagem de programação
-- [[genai-performance-vs-learning]] — Desempenho versus aprendizagem com GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Danos dos agentes de tutoria com IA
-- [[eduguard-safe-rag-llm-tutor]] — Salvaguardas para um tutor LLM com RAG seguro
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: geração de ambientes de aprendizagem
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI assistiva para estudantes com deficiência visual
-- [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
-- [[bicer-genai-pd-math-creativity-2026]] — Um estudo de caso de desenvolvimento profissional em matemática guiado por GenAI com oito professores rurais em serviço
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g agregado de 0,819 caindo para 0,378 sob PET-PEESE; ferramentas personalizadas (0,455) ficaram abaixo dos chatbots (0,970)
-- [[idea-model-doctoral-education-genai-2026]] — Doutorandos redesenham os próprios cursos: 76,5% sustentaram um redesenho de curso, 73,5% ainda usando prática apoiada por IA no acompanhamento

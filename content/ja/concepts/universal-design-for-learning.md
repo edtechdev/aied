@@ -19,6 +19,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -95,34 +97,3 @@ UDLは「学習者を直す」を「デザインを直す」に変えます。AI
 **「UDLとは、平均的な学生に向けてより注意深く設計することである。」** 中核的な主張は逆です。学習者の多様性は例外ではなく規範であるため、設計は苦労する学習者向けに一つの経路を修正するのではなく、当初から多くの経路を提供します。後付けの修正こそがUDLが置き換えるために存在するものであり、よく調整された単一の経路は依然として単一の経路です。
 
 **「AIが代替形式を生成できるのだから、AIはUDLを自動化する。」** それは表現の原則を安価にし、関与と表出を手つかずで残します。テキストを音声に変換することは三つの手段のうち一つに取り組むことであり、コースは完全に多形式でありながら、すべての学生に同じ単一の方法で学習を示すことを要求しつづけられます。
-
-## 関連概念
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — 傘：AI教育における教授法と教授方略
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## 関連記事
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のためのGenAIによる認知的オフローディング
-- [[authentic-products-authenticated-processes-2026]] — 真正な成果物から認証されたプロセスへ
-- [[tactile-statistical-graphs-accessibility]] — アクセシビリティのための触覚式統計グラフ
-- [[neurodivergent-computing-students]] — ニューロダイバージェントなコンピューティング専攻の学生
-- [[ai-learning-tools-engineering-education-needs]] — ニーズと注意状態を認識するAI学習ツールの設計
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、仮想現実、そしてその先へ：高等教育におけるニューロダイバージェントな学生のためのデジタル支援技術に関するスコーピングレビュー
-- [[faculty-accessible-course-design-ai-2026]] — 「AIは私が使ってきた選択肢を減らしている」：ChatGPTの世界におけるアクセシブルなコース設計についての教員の認識の探究
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — クウェートの高等教育機関における人工知能と学習のためのユニバーサルデザイン：インクルーシブ教育のためのAI活用フレームワークに向けて
-- [[mcdonald-inclusive-assessment-genai-2026]] — GenAI時代のインクルーシブな評価設計：教育法と実践の前進

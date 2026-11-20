@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -82,26 +84,3 @@ Tuen laatu on merkityksellistä pääsystä riippumatta. Kokeellinen vertailu oh
 - **”Tyytyväisyys ja koettu hyöty osoittavat, että datatieteen tekoälytyökalu toimii.”** Oppijat käyttivät LLM:iä runsaasti virheenkorjaukseen ja käsitekysymyksiin ja **raportoivat korkeaa tyytyväisyyttä, samalla kun heidän kokemansa syväoppimisen hyöty laski lukukauden aikana**. Tyytyväisyys pysyi ja itsearvioitu oppimispolku laski, joten kumpikaan luku yksinään ei ole tulos.
 - **”Rajoittamaton malli on yhtä hyvä kuin ohjattu tuutori.”** Hyöty tuli tuen koulutuksesta — eksplisiittisestä opetuksesta vaiheittaisiin vihjeisiin ja varmistamiseen — joka voitti pelkän pääsyn samaan malliin itsenäisessä suoriutumisessa ja itsearvioinnin kalibroinnissa. Ohjaus ja koulutus sen käyttämiseen kantoivat vaikutuksen.
 - **”Vastausten antamisen estäminen riittää.”** Kurssikohtainen tuutori isännöidyllä API:lla, ohjeistettuna tönäisemään vastausten antamisen sijaan, otettiin käyttöön **76%–84%**:lla psykologian kandidaateista tentin kannalta relevanteilla viikoilla lukukauden mittaisella R-ohjelmoinnin kurssilla. Se on omaksumista, ei näyttöä siitä, että suojaus tuotti oppimista: kehotetason suojaus on yksi monista vipuvarsista eikä yksinään tuota oppimista.
-
-## Liittyvät konseptit
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Liittyvät artikkelit
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agenttinen työkalu, joka tuottaa tarkasteltavia synteettisiä aineistoja personoituun tilastoharjoitteluun
-- [[ai-tutor-statistical-programming-adoption-2026]] — Erityisesti rakennettu R-tuutori; omaksuminen seurasi tenttikalenteria
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM:n vaikeustasomerkinnät seuraavat Bloomin tasoja, eivät oppijoiden suoriutumista
-- [[tactile-statistical-graphs-accessibility]] — Avoimen lähdekoodin putki, joka tuottaa tuntoaistisia tilastokaavioita opettajan tarkistuksella
-- [[guided-llm-scaffolding-independent-learning]] — Ohjattu tukeminen voitti rajoittamattoman pääsyn itsenäisessä suoriutumisessa
-- [[lund-socially-accountable-data-science-xai-2026]] — Sosiaalisen vastuullisuuden upottaminen teknisen datatieteen opetussuunnitelmaan

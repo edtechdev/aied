@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -98,7 +100,6 @@ Wakala wa mwanafunzi sio tabia ya kipekee ya mtu tu — pia ni **mchakato unaoto
 
 - **"Kutumia AI zaidi kunapunguza hisia ya umiliki wa wanafunzi."** Si kwa mstari mmoja. Katika utafiti wa insha ulio na vifaa, umiliki unaohisiwa ulishuka tu kwa kundi lililokabidhi insha nzima, wakati wanafunzi waliotumia mfano kwa kupanga au kukagua walilingana na umiliki wa wanafunzi ambao hawakuwahi kuufungua. Kundi lile lile pia lilipata alama za juu zaidi za usomaji wa insha, hivyo bidhaa ilionekana bora zaidi kadiri uandishi ulipopungua. Wakala ulifuata jinsi zana ilivyotumika badala ya kama ilitumika. [[jelson-students-chatgpt-essay-writing-2026|Uandishi ni kazi ya ukabidhishaji, si ya matumizi]].
 
-
 Kwa miktadha ya ushirikiano, hii inaweka upya swali la ubunifu: si *kama* AI inaweza kushiriki kama mwenzio, bali *jinsi* ushiriki wake wa mtindo unaosawazisha ukali wa maarifa, usalama wa kihisia, na hisia ya wanafunzi ya umiliki. Mgogoro wenye mpaka (changamoto yenye vikomo, iliyounganishwa na hatua za kuunganisha na kurekebisha) na usomi wazi wa meta-ushirikiano ni ulinzi unaopendekezwa.
 
 Usooma wa muundo wa wakala unaonekana katika [[ai-agents-joyful-assessment-third-space-2026|mfumo wa tathmini yenye furaha wa El Khoury na Ma]], ambapo wakala unachukuliwa kama sifa ya ubunifu badala ya motisha: wanafunzi wanachagua mpangilio wa kazi, kuweka mwendo, na kuashiria wakati mwingiliano unapokwisha, hivyo msaada unapatikana wakati uwajibikisho wa kazi unabaki na mwanafunzi. Mbinu wanayotaja ni tathmini — kujifunza bila hadhira na kuchagua wakati wa kuanza unabadilisha maana ya kazi, kutoka hukumu hadi kitu ambacho mwanafunzi anaweza kuunda — na wanadai kuwa uzoefu unaojirudia wa mabadiliko huo ndiyo unaothibitisha hisia za wakati wa uwezo kuwa mwelekeo wa kila siku kuelekea tathmini.
@@ -134,70 +135,3 @@ Mfumo unaohusiana kwa karibu ni **wakala pamoja wa maarifa** ([[du-yuan-epistemi
 - **"Wanafunzi hutumia wakala wanapotumia AI kwa uhuru."** **Mpango wa makundi 14 ulioweka kodi kwenye mazungumzo 6,788 yaliyosaidiwa na ChatGPT** uliweka **asilimia 59 ya mazungumzo ya wanafunzi wa darasa la saba** katika makundi ambayo hayawakilishi matumizi ya wakala. Kiasi cha matumizi na wakala ni vipimo tofauti.
 - **"Miundo ya sasa inasaidia wakala wa mwanafunzi vizuri."** **Zilizopimwa kwenye miundo kumi, kusaidia wakala ndiko wanakofanya vibaya zaidi baada ya kujifunza**: ImpactBench ilipima **Wakala na Kusudi kwa 56.0%** kwenye vigezo chanya. Wakala ni kipimo ambacho mifumo ya AI inashughulikia vibaya zaidi, si zao la uwezo.
 - **"Upatanishi wa mwalimu ni kizuizi cha wakala."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] alifuatia **walimu kumi wa hisabati ya sekondari katika muingiliano wa wiki nane wa ChatGPT-4** na upatanishi huo ni utaratibu badala ya kizuizi.
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: chombo kwa dhana za upande wa mwanafunzi
-- [[pedagogical-partnerships]] — Ushirikiano wa Kieledu
-- [[learner-identity]] — utambulisho wa mwanafunzi wa taaluma, kitaalamu, ubunifu, na kitaaluma zinavyobadilika
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — mwelekeo wa pamoja wa mwingiliano unaoendeshwa na AI
-- [[agentic-ai]] — AI huru ambayo inaweza kugawa upya wakala katika vikundi
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya maendeleo, mipaka ya LLM, falsafa ya majaribio
-- [[social-emotional-learning]] — Kujifunza Kijamii-Kihisia
-- [[cognitive-surrender]]
-
-## Makala Zilizounganishwa
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Dodoso ya kitaifa ya waelimishaji na wakuu wa shule wa Marekani kuhusu mipaka ya sera ya AI, wakala, na mbinu tano za darasa (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Mkono wa msaada au mwenzio mkuu? Maoni ya kibinafsi ya kutegemea GenAI na wakala wa binadamu katika kujifunza kwa ushirikiano
-- [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kati ya kujifunza kwa mwingiliano wa kibinadamu-AI, yenye mbinu nne na mapendekezo sita ya kupimwa (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Wakala wa mwanafunzi kama ubora unaotokea wa kuunganisha uwezo wa taaluma, AI na metaji, si nodi ya pekee (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — Upatikanaji wa chaguo dhidi ya wakala unaotekelezwa: sliders, mwakala wa AI wa hiari na kujifunza katika simulation ya kundi
-- [[guarded-adoption-genai-higher-education-2026]] — Kukubali kwa Ulinzi kwa AI ya Kizalishaji katika Elimu ya Juu
-- [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini yenye furaha, na nafasi ya tatu
-- [[ai-mediated-research-agency-formation-2026]] — Uundaji wa wakala wa utafiti unaoendeshwa na AI katika mafunzo ya kisayansi ya mwanzo wa kazi
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kupunguza mzigo wa kiakili wenye ufadhili wa tabaka katika uandishi unaosaidiwa na GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Elimu ya AI ya shule inapunguza pengo la utayari la kisaikolojia lakini si la kiakili
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Wakala pamoja wa maarifa na vigezo sita vinavyotenganisha utegemezi wenye tija na utegemezi wenye madhara (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Upatanishi wa kieledu unaosaidiwa na AI unaosaidia utambulisho wa STEM
-- [[t2i-competence-paradox-2026]] — Paradoksi ya uwezo: utambulisho wa ubunifu katika matumizi ya GenAI ya maandishi-hadi-picha
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Wakala wa mwanafunzi unaotokea katika ushirikiano wa kibinadamu-AI usiojulikana: wakala wa msaada dhidi ya wa kupingana
-- [[de-barba-srl-genai-2026]] — Wakala wa mwanafunzi katika viwango: udhibiti, ujumuishaji, nafasi
-- [[mishra-control-vs-agency-history-2025]] — Udhibiti dhidi ya wakala kama msongo wa mawazo wa msingi katika historia ya AIED
-- [[daoism-ai-education-philosophy-2026]] — Falsafa ya AI Mbadala: Daoism kama Mbinu ya AI katika Elimu
-- [[human-autonomy-agency-hri-review-2025]] — Uhuru wa Binadamu na Wakala katika HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Ubunifu Unaotegemea Maarifa ya Roboti za Kijamii Zinazozalisha
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Kuimarisha wakala wa mwanafunzi katika kazi inayohusiana na kujifunza
-- [[shaw-nave-cognitive-surrender-2026]] — Nadharia ya Mifumo Mitatu na kujisalimisha kwa kiakili: jinsi AI inavyobadilisha mantiki ya binadamu (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Wakala wa mwalimu wanaojiandaa katika mwingiliano wa GenAI katika ubunifu kwa kujifunza (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Maono ya kukomboa: wakala kama wa jumla ya sifuri na wakala wa zana
-- [[chen-zou-genai-group-assessment-agency-2026]] — Miundo mitatu ya wakala katika tathmini ya kikundi inayoendeshwa na GenAI: iliyoongezwa, iliyozuiwa, na isiyotekelezwa
-- [[ai-integrated-teaching-identity-tensions]] — Uteuzi wa kanuni kama wakala wa mwalimu katika ualimu unaojumuisha AI (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Kukataa kama ushahidi wa uchunguzi: kutotumia kama mahusiano ya hali na haki isiyo sawa ya kukataa AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — mamlaka ya maarifa yanayothibitishwa kupitia kukata, kurekebisha na kukataa badala ya matumizi makubwa ya zana
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Nani Anatenda, Nani Anajua, Nani Anajibu? Uchanganuzi wa Mazungumzo Unaosaidiwa na Korpusi ya Wakala, Uwajibikisho wa Maarifa, na Uwajibikisho katika Utafiti wa Elimu ya Juu ya AI ya Kizalishaji
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Maswali Wazi Kuelekea Utegemezi Unaodumisha Ujuzi katika Mahusiano ya AI Yanayofikiria
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Uwezo dhidi ya wakala kama malengo ya elimu ya AI, na heuristi ya wakala wa AI ulio na maarifa (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Upatanishi wa mwalimu kama hali inayofanya GenAI kuwa kitu cha kukosoa badala ya mamlaka (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Wakala wa mwalimu kama rasilimali inayotumika kupitia ubunifu, na utayari unahukumiwa kutoka vitu badala ya matumizi (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Kusawazisha wakala wa mwalimu na mwanafunzi katika zana za ushirikiano wa pamoja kwa kuunganisha kwa wakati halisi (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Jedwali la Mamlaka ya Tafsiri na Mfano wa Ujumuishaji wa Mamlaka wa Kiikolojia: mipango minne ya nani anayetafsiri, na tabaka za kiikolojia zinazozibadilisha
-- [[gyekye-selves-apprenticeship-2026]] — Wanafunzi wa rangi katika programu za ufundi walijiandika wenyewe kupitia AI kupitia kukataa, majadiliano, na utambuzi ("useja wa kitamaduni"); Usomi wa AI wa Taasisi na Upana wa Utambuzi
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Wakala pamoja wa maarifa katika mazungumzo 6,788 yaliyosaidiwa na ChatGPT ya uandishi wa sayansi wa shule ya sekondari (Chang et al.)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Umiliki unaohisiwa ulishuka tu pale insha nzima ilipokabidhiwa; watumiaji wa kupanga na kukagua walilingana na wasiotumia (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Nani Anafanya Kufikiri? Kuainisha Wakala wa Binadamu katika Mwingiliano wa AI wa Wanafunzi wa Mwaka wa Kwanza
-

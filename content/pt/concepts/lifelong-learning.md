@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -79,30 +81,3 @@ A aprendizagem ao longo da vida se conecta a [[adult-learning|aprendizagem de ad
 **"Aprendizagem ao longo da vida significa que adultos fazem mais cursos."** Fazer cursos é uma forma de entrega de uma exigência mais ampla: manter e reconstruir competência à medida que as tarefas mudam. Uma força de trabalho que precisa de regeneração contínua não está carente de oferta de cursos; está carente das oportunidades de prática onde a nova competência de fato se forma.
 
 **"A aprendizagem ao longo da vida é uma responsabilidade pessoal, então o desenho institucional é secundário."** O problema da regeneração é estrutural — diz respeito a onde o trabalho formativo existe — e os indivíduos não conseguem criar o trabalho de que o próprio desenvolvimento deles depende. Enquadrá-lo como motivação não explica nada sobre a queda de 16% concentrada na base da distribuição de idade.
-
-## Conceitos conectados
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Artigos conectados
-
-- [[ai-adult-learning-guidelines-dis2026]] — Diretrizes para projetar tecnologias de IA que apoiem a aprendizagem de adultos
-- [[ai-guided-learning-audiovideo-2026]] — Aprendizagem guiada por IA para aquisição de competências
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Repensando o ensino superior com grafos Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogia e delegação cognitiva na aprendizagem mediada por IA
-- [[ai-lifelong-learning-policy]] — IA na aprendizagem ao longo da vida: oportunidades e desafios na política de educação de adultos
-- [[community-centered-ai-education-adults]] — Codesign de educação em IA centrada na comunidade para adultos
-- [[cognitive-commons-ai-expertise-regeneration]] — A tragédia dos bens comuns cognitivos: IA e regeneração da expertise
-- [[kim-ai-andragogy-2026]] — Perspectivas de adultos aprendizes sobre a IA como agente de aprendizagem colaborativa na andragogia (Kim et al. 2026)

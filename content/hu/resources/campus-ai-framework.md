@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,10 +43,3 @@ Kabinetvezetők, rektorhelyettesek és CIO-k, akik eldöntik, mit támogassanak;
 ## Megjegyzések és fenntartások
 
 A keretrendszer és az oldal **CC BY-NC-SA 4.0** licenc alatt áll, így az adaptálás nem kereskedelmi használatra, névvel való hivatkozással és azonos licencfeltételekkel megengedett; az oldal saját javasolt hivatkozási szöveget ad. Az OECD-vel, a NIST-tel, az ISO/IEC 42001-gyel, az EU MI-rendeletével, a FERPA-val és a HIPAA-val való összhang a kiadó saját összehasonlítása, és így kell olvasni. A társoldalak külön projektek, több közülük ugyanattól a szerzőtől, és érdemes együtt ismerni őket: a [Campus AI Exchange](https://www.campusaiexchange.com/) a hub, amely az intézményi MI-szabályzatok és osztálytermi útmutatások [interaktív térképeit](https://www.campusaiexchange.com/ai-policies-guidelines-map), az [MI-irányítási önértékelést](https://www.campusaiexchange.com/ai-governance-assessment), adatgazdálkodási és MI-álláspont térképeket, valamint egy forráskönyvtárat tart. Körülötte a [campusaigovernance.com](https://campusaigovernance.com/) (kilenc MI-irányítási terület), a [campusairisks.com](https://campusairisks.com/) (a NIST MI-kockázatkezelési keretrendszere ezekre a területekre alkalmazva), a [campusaioperations.com](https://campusaioperations.com/), a [campusairegistry.com](https://campusairegistry.com/), egy egységszintű [MI-bevezetési terv sablon](https://unit-ai-adoption-plan.netlify.app/) és egy [ügynöki MI vezetőknek](https://campusaiframework.com/sites) szóló tájékoztató áll. A Stratégiai Iránytű megosztott Google-dokumentumként is terjed, amelynek megnyitásához Google-fiók kell. Belépéskor egy rövid, opcionális kérdés jelenik meg a szerepről és az intézményről; az e-mail opcionális, és az egész oldal olvasható nélküle.
-
-## Kapcsolódó fogalmak
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

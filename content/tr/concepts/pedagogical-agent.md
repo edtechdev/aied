@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,7 +38,6 @@ ai_assist:
 ## Giriş
 
 Pedagojik ajan, bilişsel ve [[metacognition|üstdüşünümsel]] süreçleri desteklemek için öğrenenleri diyalog, sorular ya da istek metinleri yoluyla sürece çeken bir öğrenme sistemi içindeki etkileşimli yapay zeka bileşenidir. Pasif [[visualization|gösterge panolarından]] ya da durağan geri bildirimden farklı olarak pedagojik ajanlar, kanıta dayalı özel ders stratejileri kullanır — örneğin [[feedback]] vermeden önce öğrenenin kendi [[assessment|değerlendirmelerini]] çıkarma ya da Sokratik diyalog yoluyla [[scaffolding]] ile [[problem-solving]] destekleme. Çatı kavram artık tek bir konuşmaya dayalı [[intelligent-tutoring|zeki özel ders öğretmeninden]], ders veren, akıl hocası olan, işbirliğini kolaylaştıran ve hatta kurs üretimini orkestre eden, hepsi on yıllara dayanan zeki özel ders sistemleri [[research-methods-aied|araştırmasına]] dayanan rol uzmanlığına sahip [[agentic-ai|ajan]] filolarına kadar her şeyi kapsar.
-
 
 - **Açıklama yerine düzenleme rolü üstlenen bir ajan.** Chen ve ark. (2026), bir grubun paylaşılan düzenleme durumunu teşhis edip buna göre yönlendirme yapmak üzere SSRLAgent’ı geliştirmiş ve içerik desteği sağlayan bir ajanı her iki koşulda da sabit tutmuştur ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen ve ark., 2026]]). İki kolda da bir ajan ve yapılandırılmış bir platform bulunduğundan kazanımlar, konuşmaya dayalı bir ajanın varlığına değil, düzenleme yönlendirmelerindeki [[adaptive-learning|uyarlanabilirlik]]e bağlanır.
 
@@ -66,7 +67,6 @@ Ajanın yüzeyi, pedagojisinden ayrı bir tasarım eksenidir. [[ai-avatars-and-s
 **Değerlendirme ve kıyaslamalar.** Bir pedagojik ajanı ölçmek, pedagojiyi sınamayı gerektirir, içeriği değil. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]], ajanlardan belirli bir öğrenen kişiliğine uyarlanmış bir ders hazırlamalarını isteerek Pedagojik İçerik Bilgisini kıyaslar; sistemlerin içerikte güçlü ama onu uyarlamada zayıf olduğunu bulur ve LLM hakemlerinin güçlü sistemleri yanlış sıraladığını ortaya koyar. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]], ajanları profesyonel pedagojik yargı, [[situated-learning|bağlama gömülü]] çok turlu özel ders ve tuval tarzı iş akışı tamamlama boyutlarında değerlendirir; modellerin profesyonel öğretme standartlarının gerisinde kaldığını gösterir. [[ai-generated-interactive-fiction-education-2026|YZ tarafından üretilen etkileşimli kurgu]] bir tasarım değerlendirme boyutu ekler: tutarlılık ve sınav tümleşimi, üretim yeteneği değil, [[student-experience|öğrenci deneyimi]] için faydalılığı sınırlayan şeydir.
 **Çok turlu bağlamda kişilik dayanıklılığını zorlu sınayın.** [[adversarial-stress-testing-role-playing-agents|Shouqi ve ark. (2026)]], otomatik bir Hakemle rol yapma ajanlarına karşı altı kademeli saldırı yürütmüştür; çok stratejili sınama, tek stratejili tabana göre dayanıklılığı 0,17–0,20 düşürmüş ve kritik hatalar 5–6. turdan sonra kümelenmiştir; bu nedenle kısa ya da tek turlu değerlendirmeler kişilik kararlılığını ve etik bağlılığı olduğundan yüksek tahmin eder.
 
-
 - **Yanılabilir önerileri tam da amaç olan bir akran ajanı.** Copa, günlük bağlamına yerleşik getirimi GPT-4o ve on beş parçalık göreve özgü bir bilgi tabanıyla eşleştirir ve her öğrenci kesitini etken biçimde özetler: öğrencinin modelini uzman bir sürümle karşılaştırır, ifade edilen sorunu teşhis eder ve neyin getirilmesi gerektiğini adlandırır. 16 öğrencili bir sınıf çalışması ve iki odak grubu boyunca tüm katılımcılar rehberliğinin problem çözmelerini desteklediğini ve doğru olduğunu söylemiş, tümü yeniden kullanacağını belirtmiştir. Birkaçı ayrıca doğrudan yanıt istemiş, bazıları ise modelleri kötüleşene kadar bir önerinin doğru olduğunu varsaymıştır. Yazarlar bunu, bir ajanı yanıt vermek yerine değerlendirmeyi teşvik etmek üzere tasarlamanın maliyeti olarak okur ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn ve ark., 2025]]).
 
 ## Pratik öneriler
@@ -90,64 +90,3 @@ Daha iyi geri bildirim, daha iyi öğrenme anlamına gelmez: bir ajanı bilgi ta
 - **“Yazma amacı, bir pedagojik ajanın ne yaptığını belirler.”** **Yazma amacı, hayata geçen pedagojiyi garanti etmez.** **27 ortaokul öğretmeni** öğretmene dönük bir sohbet botu yazım aracını yapılandırdığında, 108 bot düzeyi ölçütün değerlendirmesi hayata geçen davranışın öğretmenlerin amaçladığından ayrıldığını göstermiştir. Pedagojiyi araç aracılamıştır.
 - **“Tartışmayı yöneten bir pedagojik ajan çözülmüş bir roldür.”** [[ethics-training-agents-group-ethics-discussion-2026|Etik Eğitimi Ajanları (Seo ve ark., 2026)]], bir ajandan öğretmek yerine **tartışmayı yönetmesi** istendiğinde ne olduğunu gösterir; bu, soruları yanıtlamaktan nitelikçe farklı bir talep olup literatürün çözülmemiş saydığı bir konudur.
 - **“Bilgisayar destekli öğretime ilişkin kanıt tabanı zayıftır.”** Bir sentez (**2025, 34 derleme**) CAI kullanımını öğretim ve öğrenme desteği (**derlemelerin %97,1’i**), psikolojik ve motivasyonel destek (**%91,2**) ve **üstdüşüncesel** destek boyunca nicelleştirir. Gözden geçirilen uygulama yelpazesi geniştir; bu da boşluğu kapsam değil, hayata geçen nitelik sorunu yapar.
-
-## Bağlı kavramlar
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Bağlı makaleler
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — Öğrenci merkezli ajan rolü, performans, yük, akış ve empati boyutlarında öğretmen merkezli rolü geride bırakır (Wang ve ark. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: AR/VR ortamındaki pedagojik ajanlar için kavramsal çerçeve — akıl hocası karşısında rol yapma ortağı, gerçekçilik, varlık, bilişsel yük (Ross ve Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: öğretim uygulaması için üretici öğrenci ajanları
-- [[conversational-ai-agents-umbrella-review-2026]] — Eğitimde konuşmaya dayalı YZ ajanlarının çatı derlemesi
-- [[conversational-agents-novice-programmers-scoping-2025]] — Yeni başlayan programcılar için konuşma ajanlarının kapsam taraması
-- [[ba-ai-agents-cscl-review-2026]] — Bilgisayar destekli işbirlikçi öğrenmede yapay zeka ajanları derlemesi
-- [[kim-ai-productive-failure-adult-2026]] — Verimli Başarısızlığa Dayalı Öğrenmeyi Destekleyen Yapay Zeka Sistemlerinin Tasarlanması
-- [[preferred-scaffolding-ai-mathematical-modeling]] — YZ destekli matematiksel modellemede tercih edilen iskeleleme
-- [[llm-adaptive-programming-error-explanations-2026]] — Programlama hatalarının LLM uyarlamalı açıklamaları
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — İlkokul kitap üzerine konuşma için role uyumlu YZ arkadaşı; sabit rollü ajanların duyuşsal tavanı (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etik Eğitimi Ajanları: Rol Yapma ve Tartışma ile Etik Yansıtma ve Keşfi Destekleyen Grup Temelli Etik Eğitiminin Kolaylaştırılması
-- [[teachers-configure-educational-chatbots-2026]] — İstemek Anlamına Geldiğinde Öğretir mi? Öğretmenlerin Eğitim Amaçlı YZ Sohbet Botlarını Nasıl Yapılandırdığı
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Özelleştirilmiş ajan geri bildirim niteliğini artırdı ama öz düzenlemeyi ya da sonuçları artırmadı; kazanım avantajı yalnızca buyurucu geri bildirim altında

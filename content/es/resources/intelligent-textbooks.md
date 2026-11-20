@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -50,16 +51,3 @@ Para profesorado y diseñadores instruccionales que quieran construir o mantener
 ## Notas y advertencias
 
 Es una guía de un profesional y su cadena de herramientas, no un estudio revisado por pares: presenta un flujo de trabajo y su propia justificación educativa («los libros de texto inteligentes guían a los estudiantes por los conceptos en su búsqueda del conocimiento») en lugar de evidencias de resultados de aprendizaje. El artículo de investigación sobre MicroSims es lo más cercano a un respaldo empírico, y está autopublicado en arXiv. Ambos proyectos son de código abierto (el repositorio intelligent-textbooks declara licencia MIT y 38 estrellas; MicroSims declara licencia Creative Commons y 13 estrellas) y se mantienen de forma activa. Los grafos de conceptos y la estructura que parte del glosario son realmente útiles para la descubribilidad, pero la guía presupone un flujo de autoría bastante técnico —MkDocs, Git y herramientas de IA generativa—, lo que puede ser una barrera para parte del profesorado. En el momento de la ingesta el registro de MicroSims sigue estando únicamente en la hoja de ruta, así que encontrar una simulación concreta ya existente depende de la búsqueda y la navegación propias del sitio.
-
-## Conceptos conectados
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

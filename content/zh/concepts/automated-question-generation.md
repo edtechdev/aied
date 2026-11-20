@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -95,55 +97,3 @@ AQG 是 [[adaptive-learning|自适应]]与 [[personalized-learning|个性化]]�
 **“题目生成自然地个性化练习。”** 它生成供给，而个性化是一个匹配问题。产出更多题目并不能告诉你某个学习者接下来该看哪一道，而自适应选择是一个单独的机制，有它自己的证据。
 
 **“生成使评估规模化，而不改变评估所测量的东西。”** 它改变了所测量之物的构成，因为容易生成的题目并不是能良好评估的题目的代表性样本。易生成的格式会逐步挤出更难生成的格式，从而悄然重塑构念。
-
-## 关联概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## 关联文章
-- [[genai-medical-education-transformation-review-2026]] — 对 153 篇 AI 题目生成与教师题目质量的医学教育报告范围综述
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — 通过 IRT 对 AI 生成考试质量的大规模实地验证
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate 题目生成
-- [[kt4eqg-personalized-question-generation]] — 通过知识追踪的个性化题目生成
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向聋人与听力受损学习者的 LLM 驱动题目生成
-- [[llm-educational-question-cognitive-depth]] — LLM 生成题目的认知深度
-- [[slidesqaqa-pedagogical-question-generation]] — 幻灯片问答的教学式题目生成
-- [[code-gen]] — CODE-GEN：基于 RAG、人在环中的题目生成
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles 基准
-- [[taklif-ai-interest-based-personalized-assignments]] — 基于兴趣的个性化作业
-- [[llm-difficulty-calibration-programming-exams-2026]] — 基于 LLM 的难度校准
-- [[self-referential-l2-writing-llm-assessment]] — 自指式分析性写作评估
-- [[cross-dataset-bloom-question-classification]] — 跨数据集的 Bloom 题目分类
-- [[llm-chatbots-cs-multiple-choice]] — LLM 聊天机器人与计算机选择题
-- [[socratic-tests-conversational-assessment]] — 苏格拉底测验：对话式评估
-- [[llm-turing-test-italian-legal-exams-2026]] — LLM 图灵测验在法律考试中的应用
-- [[razavi-powers-item-difficulty-llm-2026]] — 用 LLM 与基于树的机器学习估计题目难度
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA：基于过程的数学题目质量评估
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人—AI 共同学习循环中学习其学习者的代理式导师
-- [[automated-constructive-assessment-hdr-llm-2026]] — 用大语言模型自动化建构性评估：走向可扩展且可重复的实践能力评价
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
-- [[bloom-classifier-ai-assisted-questions-2026]] — 对新型 AI 辅助教育题目作教学性评估的预训练模型评估
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生在一场评分考试中无法区分 AI 生成选择题与执业考试题目，且 18.2% 的生成题目在审阅中被剔除（Vogt 等，2026）
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 通过写作评分量表的生成题目仍可能偏离其欲测的能力层级
-- [[islam-human-vs-ai-sba-dental-2026]] — 单题定稿时间从 6.0 分钟降到 1.0 分钟，从可用草稿计起而非端到端

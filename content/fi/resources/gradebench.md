@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -43,9 +44,3 @@ Opettajat, jotka päättävät, saako arviointityökalu julkaista arvosanoja ilm
 ## Huomioita ja varauksia
 
 GradeBenchin julkaisee Pensive, kaupallinen tekoälyarviointialusta, joten benchmarkillä ja tuotteella on sama omistaja; tehtävien rakentaminen on dokumentoitu ja perusteltavissa, mutta pidä kehystystä toimittajan omana. Se kattaa STEM-kokeet, joiden rubriikeissa on vähintään neljä kohtaa, mikä sulkee pois esseet, lyhyet vastaukset ja keskustelupostaukset — muodot, joissa suurin osa [[humanities-education|humanististen aineiden]] arvioinnista tapahtuu. Tarkka rubriikkivastaavuus on tiukka mittari: kaksi arvioijaa voi olla eri mieltä yhdestä kohdasta ja olla molemmat oikeassa opiskelijasta. Pistemäärät kuvaavat marraskuussa 2026 saatavilla olevia malliversioita ja tulevat muuttumaan.
-
-## Liittyvät käsitteet
-
-- [[automated-assessment]] — käytäntö, jota benchmark mittaa
-- [[assessment-validity]] — kriteeri, jonka vastineena leaderboardin pistemäärä toimii
-- [[benchmark]] — laajempi mittausvälineiden luokka, johon tämä kuuluu

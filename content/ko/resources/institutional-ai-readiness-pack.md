@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -40,7 +41,3 @@ ai_assist:
 ## 누구를 위한 것인가
 
 연구 환경 전반에서 AI가 어떻게 사용되고 [[governance|거버넌스]]되는지에 대한 근거 기반의 그림과 [[change-management|변화]]를 시간의 흐름에 따라 추적하는 방법이 필요한 연구 리더, 위원회, 정책 사무소를 위한 것입니다. 준비도의 다섯 차원을 정의하는 *Responsible AI in Academic Research: A Competency Framework for Research Training*의 동반 자료이며, Instats의 소장인 Michael J. Zyphur가 작성했습니다.
-
-## 연결된 개념
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

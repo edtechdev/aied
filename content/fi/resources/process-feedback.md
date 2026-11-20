@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,7 +42,3 @@ Se on suunnattu yksittäisille opettajille ja opiskelijoille, jotka voivat käyt
 ## Huomioita ja varauksia
 
 Ilmainen kattaa yksittäisen luokkahuoneen työnkulut; institutionaalinen hinnoittelu on erillinen ja sidottu käyttöönoton laajuuteen, tiedonkäsittelyyn, tukeen ja vaatimustenmukaisuuteen eikä opiskelija- tai opettajakohtaiseen maksuun. Koska raportti näyttää prosessin eikä aikomusta, pelkkä kopioi-liitä ei ole väärinkäytös – projektin oma ohjeistus sanoo, että opiskelija voi liittää omaa aiempaa tekstiään, eikä opiskelijoille pitäisi antaa seuraamuksia pelkästä liittämisestä. Käyttöönottoluvut ja 5,0:n Chrome Web Store -arvosana ovat projektin omaa markkinointia; laajennuskaupan arvostelut eivät ole riippumatonta näyttöä oppimistuloksista. Lue raportit näyttönä keskustelua varten – niin työkalu on suunniteltu ja niin kehittäjä sen kuvaa.
-
-## Liittyvät käsitteet
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

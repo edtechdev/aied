@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,12 +43,3 @@ Giảng viên ở bất kỳ ngành nào muốn có một ví dụ đã làm xon
 ## Ghi chú và lưu ý
 
 Đây là bản demo dạy học, không phải những can thiệp đã được đánh giá: trang không báo cáo bằng chứng nào về kết quả học tập cho bất kỳ mục nào, và một số mục là bản dựng của chính tác giả trang chứ không phải việc dùng độc lập trong lớp. Chất lượng bản dựng bám theo mô hình và số vòng lặp, nên một ví dụ từng chạy được ở một phiên bản mô hình có thể trôi hoặc hỏng về sau, và công cụ được tạo ra nêu sai sự thật đủ thường xuyên đến mức chính danh sách kiểm tra của trang là phải đối chiếu từng con số với các nguồn mà công cụ liệt kê. Thư viện trộn công trình của Bowen với đóng góp của các nhà giáo khác và những liên kết bên thứ ba có thể chết. Đọc không cần tài khoản; trang miễn phí, còn workshop và tư vấn của Bowen thì tính phí.
-
-## Khái niệm liên quan
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

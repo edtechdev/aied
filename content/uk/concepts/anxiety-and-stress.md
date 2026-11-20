@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -120,56 +122,3 @@ ai_assist:
 - **«Тривожність через ШІ є суто шкідливою.»** Ця тривожність **не є суто негативною**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] виявляє, що **тривожність через ШІ може бути продуктивною**, і вища тривожність пов’язана зі стратегічнішою регуляцією. Тривожність діє як сигнал до пильного розгляду, а не лише як тягар.
 - **«Усі тривожні студенти реагують однаково.»** **Чотири регуляційні типи** Kim — **некритична опора 18.7%, вибіркова інтеграція 34.6%, оцінювальна трансформація 31.8%, стратегічне відкидання 14.9%** — показують, що викликана тривожністю пильність породжує **чотири різні** патерни. Втручання, націлене на «тривожних студентів», пропускає те, що найбільша окрема група — це вибіркова інтеграція.
 - **«Тривожність завжди пригнічує участь.»** Це перерамкування має **межу в мовленні**: серед **708 вивчаючих англійську** зв’язок між тривожністю в мовленні та готовністю мовити становив **-0.371 за низької самоефективності в мовленні, але +0.137 за високої**. Тривожність може супроводжувати готовність, коли самоефективність висока, тож напрям ефекту залежить від упевненості.
-
-## Пов’язані поняття
-- [[career-development-and-readiness]] — кар’єрна готовність як захисний фактор проти тривожності через ШІ
-- [[well-being]] — широка парасолька, яку це поняття розвиває глибоко
-- [[remote-proctoring]] — головне джерело стресу від спостереження й безпідставних звинувачень
-- [[social-emotional-learning]] — емоційні компетентності, що залучені
-- [[affective-computing]] — ШІ читає емоційний стан
-- [[affective-tutoring]] — ШІ реагує на афект
-- [[academic-integrity]] — вимір доброчесності та звинувачень у списуванні
-- [[privacy]] — занепокоєння спостереженням, що лежить під стресом від прокторингу
-- [[student-experience]] — тривожність як частина досвіду здобувача
-- [[motivation]] — вплив тривожності на засвоєння та залученість
-- [[self-regulated-learning]] — зв’язок із продуктивною тривожністю
-- [[ai-literacy]] — побудова спроможності, що зменшує необґрунтовану тривожність
-- [[equity-in-ai-education]] — непропорційний стрес у вразливих студентів
-- [[ethics]] — справедливість спостереження й безпідставних звинувачень
-- [[teacher-role]] — тривожність на боці викладача
-- [[assessment]] — тривожність оцінювання, опосередкованого ШІ
-- [[social-norms-ai-use]] — афективна ціна видимості
-
-## Пов’язані статті
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Схожий на екзаменатора агент одночасно підвищив виміряне мовлення й тривожність
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Компетентність підвищує етичну свідомість, етична свідомість підвищує тривожність через ШІ: опосередкування лише непряме серед 584 студентів
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Тривожність через ШІ як продуктивний сигнал стратегічної регуляції
-- [[aivaluate-anxiety-assessment-2026]] — Тривожність студентів в оцінюванні на основі виконання, опосередкованому ШІ
-- [[ai-campus-wellbeing-tools]] — Інструменти на основі ШІ для кампусного добробуту
-- [[affective-text-wearable-student-health]] — Афективний текст і датчики на тілі для здоров’я студентів
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Автоматичний прокторинг, тривожність тих, хто складає тести, безпідставні звинувачення
-- [[automated-online-exam-proctoring-decade-review-2026]] — Декількадесятілітній огляд автоматичного прокторингу іспитів
-- [[moral-panic-genai-classroom]] — Тривожність викладацького складу та моральна паніка щодо генеративного ШІ
-- [[acceptance-ai-english-tools-2026]] — Тривожність формує прийняття інструментів ШІ
-- [[teacher-education-ai-literacy-sdt-2026]] — Підготовка викладачів, ШІ-грамотність і тривожність
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Використання ШІ, переплетене з тривожністю, довірою, упевненістю
-- [[qu-wang-disclose-or-not-genai-2026]] — Дилема розкриття як джерело стресу студентів
-- [[kim-ai-anxiety-comprehensive-analysis]] — Комплексний аналіз тривожності через ШІ та інтервенцій
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Кар’єрні адаптаційні здібності зменшують тривожність через ШІ
-- [[duan-ai-anxiety-career-decisions-college-2026]] — Тривожність через ШІ погіршує кар’єрні рішення через кар’єрну адаптивність
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — Тривожність через ШІ і ставлення передбачають тривожність пошуку роботи
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Тривожність через ШІ передбачає тривожність пошуку роботи в охороноздоровчих науках
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Досвід і сприйняття викладачів університетів щодо GAI: уразливість, переосмислення оцінювання, навчання студентів під ризиком (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Сприймана підтримка школи знижує тривожність навчання зі ШІ здебільшого через оцінки «контроль–цінність» (69,5% опосередковано); перехресна перевірка ШНМ (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Комплекс провини щодо ШІ: антиципаційна провина перевершує постфактумне розкаяння серед академічного персоналу (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Опитування AAC&U/Elon серед 1 057 викладачів США: прогнози надмірної залежності, занепокоєння доброчесністю та зменшеної ролі викладацького складу (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Від страху до допитливості: шеститижневий інститут для викладачів, що проводить їх через загрозу ідентичності (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Відчуття самозванця й етичний дискомфорт академічних розробників як афективна праця в опосередкованій ШІ роботі
-- [[parlant-emotional-micro-interventions-2026]] — Емоційні мікроінтервенції в реальному часі на боці викладача, закріплені в теорії когнітивної оцінки
-
-- [[ai-employment-threat-career-anxiety-2026]] — Загроза заміщення ШІ та тривожність кар’єрного рішення: сприймана працездатність опосередковує, мислення зростання модерує
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Тиск використання ШІ послаблює зв’язок між навичками ШІ та адаптацією студентів першого курсу
-- [[ai-attitude-latent-profiles-career-development-2026]] — Профіль, високий і за тривожністю через ШІ, і за сприйнятою якістю ШІ, а не за чимось одним
-- [[ai-speaking-practice-communicative-readiness-2026]] — Зв’язок тривожності в мовленні з готовністю спілкуватися змінює напрямок за високої самоефективності в мовленні
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Сприйманий інтелект помічника ШІ знижує академічну тривожність через прогрес у навчальних цілях (студенти медицини)

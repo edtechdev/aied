@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,7 +72,6 @@ ai_assist:
 ### כימות חישובי ופסיכומטרי
 שיטות כמותיות כוללות גם מדידה ישירה של מבנים באמצעות מכשירים — התחום של [[educational-measurement]] ו[[item-response-theory]]. ה[[jin-glat-genai-literacy-assessment|GLAT]] של מאגר הידע הוא מכשיר כמותי בן 20 פריטים שאומת באמצעות IRT; [[educational-measurement|מכשירי מדידה]] ב[[ai-literacy|אוריינות AI]], קבלה וביטחון עצמי מספקים את הסולמות המאומתים שעליהם מסתמכים מחקר הסקרים והניסויים.
 
-
 ביבליומטריה היא משפחה כמותית נוספת: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] ממפים 1,403 פרסומים ב[[medical-education]] דרך רשתות שיתוף-הופעה של מדינה, מוסד ומילת מפתח, וקוראים את צורתה של ספרות במקום להעריך את מחקריה — וזה מה שהופך את מסקנתם, שספרות ה[[governance]] לא עמדה בקצב בדיקת היכולות, לטענה על התחום ולא על למידה.
 
 ## כיצד מחקר כמותי מופיע במאגר הידע
@@ -97,33 +98,3 @@ ai_assist:
 - **"אומדן כוונה-לטיפול מתאר מה הכלי עושה."** בניסוי גישה שהוקצה באשכולות, שבו **כ-15% מהסטודנטים בכיתות הטיפול השתמשו בחונך אי-פעם**, אומדן ה-ITT משקף **את האפקט של הצגת** הכלי ולא את האפקט של השימוש בו. שימוש נמוך הופך נתון ITT לאמירה על היישום, ודיווחו כאפקט של הכלי מגזים במה שנמדד.
 - **"ביצועים במשימה הם התוצאה."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] מקצה באקראי **120 סטודנטים** ללימוד בסיוע AI או ללימוד מסורתי ומודד **שמירה** — העיצוב שמפריד בין ביצועים מיידיים ללמידה עמידה. מחקר שעוצר במשימה מדד את הכמות הקלה יותר.
 - **"השוואות בין-מאגריות הן פשוטות."** בדיקה מבנית של נתונים חינוכיים סינתטיים מצאה ש**ניתוח כל מאגר בסף שלו הפך ניגוד שהתקיים בנקודת עבודה משותפת**. הסימן של ההשוואה היה תלוי בבחירה אנליטית, וזה בדיוק סוג השברירות שנקודת עבודה רשומה-מראש נועדה למנוע.
-
-## מושגים מקושרים
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## מאמרים מקושרים
-
-- [[access-not-enough-ai-tutoring-2026]] — מחקר שדה אקראי של תמיכה אנושית בצירוף חונכות AI
-- [[genai-can-harm-teaching-rct-2026]] — בינה מלאכותית יוצרת יכולה לפגוע בהוראה: RCT
-- [[acceptance-ai-english-tools-2026]] — קבלת כלי למידת אנגלית בסיוע בינה מלאכותית
-- [[tian-genai-learning-adoption-pathways-2026]] — מסלולי אימוץ GenAI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — אוריינות AI של מורים באמצעות תיאוריית ההגדרה העצמית
-- [[jin-glat-genai-literacy-assessment]] — GLAT: מבחן אוריינות GenAI שאומת ב-IRT
-- [[ai-lms-middle-school-longitudinal]] — מחקר אורכי של LMS עם שילוב AI
-- [[adaptive-pretesting-retention]] — מבחן טרום מסתגל ושימור
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al.
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -39,6 +40,3 @@ ai_assist:
 ## গ্রহণের আগে যা জানা দরকার
 
 প্লাগইন ইনস্টল করতে Claude Code ও একটি bash শেল দরকার; PowerShell ও cmd সেটআপ স্ক্রিপ্ট চালাতে পারে না, আর স্কোর-প্রবণতার জন্য Python 3 সুপারিশ করা হয়। কোর্স-ডেটা পাঠকের নিজের মেশিনে প্রকল্প-ফোল্ডারেই থাকে, এবং সেখান থেকে বের হয় কেবল ব্যবহারকারীর আহ্বান করা কোনো ইন্টিগ্রেশনের মাধ্যমে, যেমন একটি Canvas API কল। Chrome এক্সটেনশনের লাইভ ইনফারেন্সের জন্য পাঠকের নিজের বিনামূল্যের Google AI Studio API কী দরকার, যদিও একটি সিমুলেশন মোড তা ছাড়াই দেখায়। প্রকল্পটি নিজেকে সংস্করণ 3.5.1.0-এ বিটা বলে এবং ছোট সংস্করণগুলোর মধ্যে ভাঙন-সৃষ্টিকারী পরিবর্তনের সতর্কতা দেয়, আর এটি কোনো নামযুক্ত লেখকের বদলে savvides GitHub অ্যাকাউন্টের অধীনে প্রকাশিত।
-
-## সংযুক্ত ধারণা
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

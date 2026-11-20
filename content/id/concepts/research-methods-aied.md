@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -197,53 +199,3 @@ Dalam praktiknya, penelitian AI dalam pendidikan jarang jatuh dengan rapi ke dal
 **"Aturan pengukuran yang longgar adalah pilihan metodologis kecil."** Ia mengubah temuan. Memberi kredit atas penyelesaian apa pun memprediksi kinerja mandiri berikutnya **hanya sedikit di atas konstanta kesulitan keterampilan (AUC gabungan 0.604 terhadap 0.595)** sambil menyatakan **93.9% pasangan siswa-keterampilan telah dikuasai dibandingkan 72.8%** di bawah aturan ketat. Aturan itu menghasilkan selisih 21 poin dalam siapa yang dinyatakan siap dan hampir tidak ada peningkatan prediktif untuk ditunjukkan.
 
 **"Signifikansi statistik menentukan apakah suatu intervensi berhasil."** Ia menentukan apakah suatu efek dapat terdeteksi. Apakah itu efek *pembelajaran* bergantung pada ukuran hasil, perbandingan, dan kondisi saat pengukuran dilakukan — itulah sebabnya pilihan desain dan pelaporan di bagian-bagian halaman ini sama beratnya dengan analisisnya.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Pengembangan Teori dalam AI di Bidang Pendidikan
-- [[qualitative-research]] — Penelitian Kualitatif
-- [[quantitative-research]] — Penelitian Kuantitatif
-- [[mixed-methods-research]] — Penelitian Metode Campuran
-- [[design-based-research]] — Penelitian Berbasis Desain
-- [[usability-research]] — Penelitian Kegunaan
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Artikel terkait
-
-- [[ai-methodologies-science-education-research-2026]] — Kerangka iterasi epistemik tujuh fase untuk merefleksikan bagaimana metodologi AI dapat mentransformasi penelitian pendidikan sains (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Akses Tidak Cukup: Dukungan Manusia Meningkatkan Keterlibatan dengan Tutoring AI
-- [[genai-can-harm-teaching-rct-2026]] — AI Generatif Dapat Merugikan Pengajaran
-- [[genai-over-reliance-learning-2026]] — Dari Peningkatan ke Ketergantungan Berlebih: Studi Metode Campuran
-- [[acceptance-ai-english-tools-2026]] — Penerimaan Alat Pembelajaran Bahasa Inggris Berbantuan AI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Keselamatan Tutor AI dan Kerugian Pedagogis
-- [[zerkouk-comprehensive-review-its-2025]] — Tinjauan Komprehensif Sistem Tutoring Cerdas
-- [[ai-assisted-collaborative-learning-model-dbr]] — Penelitian Berbasis Desain untuk Model Pembelajaran Kolaboratif Berbantuan AI
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Mengevaluasi Kemampuan Mengajar LLM
-- [[ground-truth-reliability-aied]] — Memodernisasi Kebenaran Dasar: Empat Pergeseran Menuju Reliabilitas dan Validitas
-- [[llm-student-simulation-teacher-insights]] — Dapatkah LLM Secara Efektif Menyimulasikan Pembelajar Manusia?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 butir dalam sepuluh ranah untuk pelaporan transparan studi AI dalam pendidikan (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — Sistem Manajemen Pembelajaran Terintegrasi AI: Studi Longitudinal
-- [[ai-in-the-wild-college]] — AI di Alam Bebas: Analisis Skala Besar atas Interaksi Autentik
-- [[same-ai-different-pathways]] — AI yang Sama, Jalur Berbeda: Mengurai Mekanisme
-- [[tep-aied-model-reporting-2026]] — Model TEP-AIED untuk melaporkan penelitian AI dalam pendidikan secara ketat (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Paradoks Kompetensi: GenAI Teks-ke-Gambar dalam Seni dan Desain
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dalam Pendidikan: Efek yang Mencari Penyebab
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analisis efek AI terhadap pembelajaran
-- [[oneill-presumed-effective-meta-analysis-2026]] — Dianggap Efektif: audit meta-analisis AIED yang cacat
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: probe yang jawaban benarnya diketahui, pemeriksaan efek tertanam pada penilai tersimulasi, dan 22 model yang diprompt (Porcaro 2026)

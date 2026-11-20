@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -119,7 +121,6 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 
 **La trajectoire de la recherche d'aide prédit le transfert, et pas seulement son niveau.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] ont codé 880 tours de parole de 112 élèves du secondaire modélisant des problèmes de mathématiques avec un LLM et ont trouvé la composition statique peu informative : 81,5 % des tours étaient des demandes, seulement 2,2 % des évaluations explicites, et 54 % des demandes orientées vers la compréhension contre 46 % vers la réponse. La performance à un post-test passé sans IA était prédite par la pente intra-séance plutôt que par son niveau. La recherche d'aide orientée vers la compréhension a décliné (M = −0,20) au fil de la conversation, et cette trajectoire a ajouté ΔR2 = 0,110 à un modèle contenant déjà le score au pré-test (β = 0,34, p < 0,001). Les traits statiques de l'interaction n'ajoutaient que ΔR2 = 0,023 (p = 0,684). La qualité de la recherche d'aide doit donc se lire comme une courbe : une séance qui s'ouvre sur des questions conceptuelles et se stabilise sur des demandes de réponse marque une performance sans assistance plus faible, et une hausse modeste de l'autorégulation explicite (M = +0,103) ne la compensait pas.
 
-
 **Un second pipeline pose la même question du côté de l'infrastructure.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] soutiennent qu'un échange humain-IA est une classe de données à part entière : leur représentation enregistre l'état computationnel qui a suscité la requête, la requête, la réponse, l'évaluation qu'en fait l'utilisateur et l'exécution qui a suivi, comme un seul objet. Les requêtes sont ensuite classées en récupération d'erreur, étape suivante bloquée, aide conceptuelle ou validation à partir de ce contexte. Dans un déploiement JupyterLab de 35 étudiants couvrant 140 paires étudiant-devoir, de simples décomptes d'interaction ne corrélaient avec les cellules exécutées avec succès qu'à r = 0,12, tandis que 37 paires avaient accès à l'outil et ne l'ont jamais utilisé et 26 l'ont utilisé hors de leur condition assignée.
 
 - Lorsqu'un dossier de tutorat peut être noté, retenir une demande est rationnel : l'absence de recherche d'aide ne peut donc pas être lue comme une absence de besoin, le même indicateur de journal signifiant quelque chose de différent sous évaluation ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
@@ -138,52 +139,3 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 - **« Les étudiants qui ont besoin d'aide ne la demandent pas. »** Une **expérience préenregistrée** dans des cours de premier cycle à fort effectif a adressé des messages aux étudiants via un agent conversationnel académique et a constaté **un recours plus élevé au tutorat et aux dispositifs de soutien complémentaire**. L'incitation a déplacé le comportement, si bien que l'obstacle était la [[prompt-engineering|sollicitation]] plutôt que la volonté.
 - **« Les demandes d'aide portent sur l'apprentissage. »** **La demande de soutien opérationnel** complique cette hypothèse : sur **4 093 requêtes**, au moins **20,4 % portaient sur le statut d'une remise en attente plutôt que sur un savoir**. Un cinquième de la demande d'aide était administratif.
 - **« Utiliser un tuteur d'IA signifie surveiller son propre apprentissage. »** Dans une étude portant sur **98 élèves de 9e année** utilisant un tuteur GenAI, les interactions étaient **dominées par des demandes instrumentales avec presque aucune surveillance ni évaluation de leur propre apprentissage**. Demander des réponses n'est pas de la recherche d'aide au sens où ce construit l'entend.
-
-## Concepts liés
-
-- [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — La démarche institutionnelle et l'allocation des soutiens, au-delà de la recherche d'aide dans le cours
-
-## Articles liés
-- [[leite-its-k12-meta-analysis-2025]] — Quels soutiens de tutorat portent l'effet : exemples et indices à la demande plutôt qu'invites automatiques
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Les interactions comme données de première classe : classer une requête par l'état d'exécution qui l'entoure
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — La trajectoire de la recherche d'aide, et non son niveau, prédit la performance en mathématiques sans assistance
-
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Longueur des indices mesurée à l'aune de l'exactitude de la soumission suivante, des tentatives et du temps, dans un cours de programmation en direct
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Un agent d'aide que personne n'a sollicité (Humburg et al. 2025)
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry : un système interactif de questions-réponses in situ au stylo exploitant les LLM
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Recherche d'aide médiée par les LLM en STIM : stratifiée, instrumentale et vérifiée
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutorat virtuel avec l'apprentissage assisté par ordinateur : une expérience sur le recours et l'apprentissage
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Le jeu de données StudyChat des dialogues étudiant-LLM dans un cours d'IA
-- [[lak2026-hint-button-unproductive-use]] — Les demandes d'indices prématurées et la lecture superficielle des indices prédisent de moindres gains d'apprentissage dans un STI
-- [[ai-fallibility-warning-help-seeking]] — Un avertissement sur la faillibilité de l'IA accroît la recherche d'aide dans un système de tutorat en mathématiques
-- [[regulating-ai-tutor-adolescent-srl]] — L'écart entre intention et comportement dans la recherche d'aide à l'IA générative et l'apprentissage autorégulé chez les adolescents
-- [[guided-llm-scaffolding-independent-learning]] — Un étayage guidé par LLM améliore la recherche d'aide axée sur le raisonnement et l'apprentissage indépendant
-- [[rethinking-scaffolding-llm-tutors]] — Le décalage entre étayage et recours étudiant dans les déploiements réels de tuteurs à LLM
-- [[uneven-impact-generative-ai-student-learning-2026]] — Dépendance précoce : consulter l'IA générative avant toute pensée indépendante, recherche ou enseignant prédit à la fois bénéfice et préjudice (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Littératie des ressources en rédaction en ligne : le goulot d'étranglement est de reconnaître quand une aide est nécessaire (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — L'étayage adaptatif doit être contingent : un tuteur d'IA qui intensifie et s'efface selon ce que fait l'apprenant
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examiner la variation dans la manière dont les tuteurs d'IA guidés résolvent les impasses des étudiants
-- [[student-query-demand-hybrid-ai-support-2026]] — Ce que les étudiants demandent réellement : structure de la demande et potentiel d'automatisation dans un système de soutien hybride

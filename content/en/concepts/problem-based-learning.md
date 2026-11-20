@@ -10,6 +10,8 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 > **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[reflection|metacognitive reflection]] — have emerged as the same conditions under which [[generative-ai|generative AI]] integration becomes educationally productive rather than substitutive.
@@ -69,41 +71,3 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - **"PBL outcomes should be pooled with project-based learning outcomes."** The three-level meta-analysis keeps **product and solution performance in a separate model** precisely because it measures **human-AI collaboration** rather than the learner's own reasoning. Merging them would attribute a jointly-produced artifact to the student.
 - **"Collaborative gains are a side effect of using AI."** A study found higher perceived collaborative problem solving (**M = 3.62 vs. 3.05, d = 0.88**) and shared problem solving (**3.40, d = 1.02**), with **the largest interaction effects on shared knowledge building and social regulation** — the collaborative process dimensions design predicts. The mechanism is the structured collaboration, not the tool.
 - **"PBL with AI mainly saves facilitator time."** The measurable gains sit in process quality on dimensions that only exist when the group structure is designed for them. A PBL implementation that adds AI without structuring shared knowledge building should not expect the same effect.
-
-## Connected Concepts
-
-- [[project-based-learning]]
-- [[case-based-learning]] — Prepared cases and case discussion, distinct from PBL's open inquiry
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Productive Failure
-
-## Connected Articles
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

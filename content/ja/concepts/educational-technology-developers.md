@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -89,45 +91,3 @@ ai_assist:
 - **「引用と来歴を加えるとシステムの信頼性が高まる。」** [[agentic-ai|マルチエージェント]]の討論設定では、AIの主張に引用と権威のシグナルを加えることで、**正しい判断の放棄が15.0%から31.8%へ上昇しました**。来歴は中立な情報ではありませんでした。誤った答えをより説得的にしたのです。信頼性の手がかりは、主張を飾る装飾ではなく、正しさのエビデンスである必要があります。
 - **「利用者との共同設計は設計を妥当化する。」** 共同設計が答えるのは、有効性とは別の問いです。ツールを学生と共同設計し、**96%が残してほしいと答えた**場合、それは受容性についての知見です。学習が改善したかどうかは別の測定であり、両者はどちらも誤りではないまま、正反対の方向を指すことがあります。
 - **「エージェントは次の能力段階である。」** [[instructional-agents-multi-agent-course-gen|Instructional Agents]]のアブレーションが有用な反例です。単一エージェントのベースラインが**最下位**となり、Full Co-Pilotの構成が**Autonomousの構成を上回りました**。より高い自律性がより良い設計だったのではなく、co-pilotの配置がそうだったのです。アーキテクチャの選択は、能力が上がれば改善すると仮定するのではなく、評価しなければなりません。
-
-## 関連概念
-
-- [[edtech-platform|教育テクノロジーのプラットフォーム]]
-- [[learning-design|学習設計]]
-- [[curriculum-design|カリキュラム設計]]
-- [[design-based-research|デザインに基づく研究]]
-- [[educational-development|教育開発]]
-- [[open-source|オープンソース]]
-- [[learning-analytics|学習アナリティクス]]
-- [[intelligent-tutoring|インテリジェントチューター]]
-- [[human-in-the-loop-ai|人間の判断を組み込んだ AI]]
-- [[human-ai-collaboration|人間と AI の協働]]
-- [[teacher-ai-competency|教師の AI コンピテンシー]]
-- [[technology-acceptance-model|技術受容モデル]]
-- [[universal-design-for-learning|学びのユニバーサルデザイン]]
-- [[assessment-validity|評価の妥当性]]
-- [[ai-ed-evaluation|AI を活用した教育の評価]]
-- [[governance|ガバナンス]]
-- [[educational-policy-ai|AI に関する教育政策]]
-- [[sustainability|持続可能性]]
-- [[privacy|プライバシー]]
-
-## 関連記事
-
-- [[oatutor-open-source-adaptive-tutor-2023]] — オープンソースの適応的個別指導システム OATutor
-- [[moodle-ai-tutoring-deep-learning]] — Moodle における深層学習を用いた AI 個別指導
-- [[learnlm-improving-gemini-learning]] — 学習のための Gemini の改良
-- [[savvy-student-attention-video-learning]] — ビデオ学習における学生の注意の SAVVY
-- [[xai-teachers-trust-edtech-recommendations-2026]] — edtech の推薦に対する教師の信頼と説明可能な AI
-- [[oneill-presumed-effective-meta-analysis-2026]] — 「効果があると推定される」メタ分析の監査
-- [[a4l-analytics-pipeline]] — A4L アナリティクスパイプライン
-- [[stanbkt-bayesian-knowledge-tracing]] — ベイズ知識追跡 StanBKT
-- [[instructional-agents-multi-agent-course-gen]] — コース生成のためのマルチエージェント Instructional Agents
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズド e ラーニングのための階層的ハイブリッド知識モデル
-- [[credential-cognitive-stewardship-ai-assessment]] — AI 評価における認証と認知的スチュワードシップ
-- [[reclaiming-epistemic-agency-co-agency-2026]] — エージェンシーと共主体性を通じた認識論的な主体性の回復
-- [[genai-mindtool-generative-learning]] — 生成 AI を心の道具とした生成的学習
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 遠隔教育機関のための新しい学習体系：6 つの研究によるレビュー
-- [[vocabulary-difficulty-prediction]] — 語彙困難度予測
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 計算機科学教育のための持続可能な AI ナレッジベース
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 信用性の手がかりは誤った AI の助言への服従を高めた。使う時点で出所を検証せよ

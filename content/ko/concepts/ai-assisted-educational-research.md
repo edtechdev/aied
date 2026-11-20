@@ -26,8 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
-
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -110,7 +110,6 @@ AI 지원 교육 연구는 이 분야가 AI 도구를 자신의 작업에 돌리
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 외(2026)]]은 최초의 직접적인 LLM 대 인간 연역 코딩 분해를 제공하며, 이론-개념 에세이에 대해 240개 설계 셀, 8,040개 자료 행, 60,060개 프롬프트에 걸쳐 네 모형을 프롬프팅했습니다. 모형 정체성이 분산을 지배했습니다: 상관 분산의 부분 에타제곱 0.19, 편향 모형에서 F = 578.36이었고 프롬프트 유형은 유의하지 않았습니다. 품질은 가격과 갈라졌습니다 — Claude Sonnet 4는 가장 낮은 모형 오차 로짓(-1.90)을 기록해 GPT-4.1 Mini의 -1.05와 대비되었고, Gemini 2.5 Pro는 178.13달러를 쓰고도 56.77달러의 GPT-4.1 Full에 뒤졌습니다.
 
 [[ober-persistence-pedagogical-agent-dialogues-2026|Ober 외(2026)]]는 구성개념 수준의 코딩 정합을 체계적으로 지도화하며, 학생들이 [[pedagogical-agent|교수 에이전트]]와 나눈 대화의 다섯 구성개념에 걸쳐 두 명의 훈련된 인간 코더를 상대로 여덟 가지 ChatGPT-4o 구성을 실행했습니다. 자기 일관성 kappa는 구성 전반에서 0.865–0.890이었지만 인간–LLM kappa는 0.000–0.419에 그쳤으므로, 인간 정렬 없는 일관성은 그 구성개념의 조작화 — 모형이 아니라 도구 — 를 표시하는 진단 신호입니다.
-
 
 ## 데이터 분석과 인식론적 이해관계
 
@@ -211,47 +210,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## 연결된 개념
-
-- [[research-methods-aied]] — 교육에서의 AI를 연구하는 데 쓰이는 설계의 포괄
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## 연결된 문서
-
-- [[ai-methodologies-science-education-research-2026]] — AI 방법론이 과학 교육 연구의 본질을 어떻게 변형할 수 있는지에 대한 7단계 성찰 프레임워크(Martin 외, 2026)
-- [[scaffolding-systematic-reviews-2026]] — 멘토링과 선택적 AI 통합에 관한 한 학제 간 검토 팀의 설명(Wang 외, 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28명의 대학원생이 연구 워크플로 전반에 걸쳐 생성 AI를 사용한 방식, 그리고 그들이 제안하는 지침(Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — 컴퓨팅 교육 문헌에서 날조된 참고문헌에 대한 분야 규모 감사(Denny 외, 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — AI 지원 체계적 검토를 위한 보고 프레임워크, 그리고 그것이 문서화하는 책임 간극(Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — 생성 AI와 학술 검색에 관한 CHIIR 2026 워크숍 보고서(Liu, Arguello, Hoeber 외, 2026)
-- [[persistent-ai-agents-academic-research]] — 연구 작업 공간에서의 지속적 에이전트에 대한 단일 조사자 사례 연구(Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — AI 지원 글쓰기가 더 작고 젊은 연구 팀과 동반한다는 서지계량 증거(Wang 외, 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 시뮬레이션된 학습자에 대해 튜터 에이전트를 평가하는 30일 벤치마크(Lee 외, 2026)
-- [[beagle-grounded-learner-emulation-2026]] — 진정한 초심자의 고투를 재현하는 신경-상징 시뮬레이터(Wang 외, 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — 왜 시뮬레이터들이 어떤 피드백 아래서도 오개념을 버리는지, 그리고 훈련이 그것을 고치는 방식(Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — 유용성이 교수법을 측정하는지를 검사하기 위해 고정된 시뮬레이션된 학습자를 사용하는 사전 등록 감사(Fan 외, 2026)

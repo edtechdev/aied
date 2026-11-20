@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -44,7 +46,6 @@ A literatura empírica mostra consistentemente que a gestão de mudanças eficaz
 Um obstáculo recorrente à mudança é a lacuna entre a intenção da política top-down e a realidade da sala de aula. A [[genai-policies-higher-ed-computing|análise comparativa de políticas]] descobriu que, enquanto 63% das políticas de universidades R1 dos EUA incentivam o uso de GenAI, metade dos planos de curso de computação a proíbem abertamente, deixando os instrutores improvisando regras locais inconsistentes. Similarmente, a [[ai-uk-higher-education-policy-2026|revisão de política de ensino superior do Reino Unido]] documenta uma divisão entre instituições intensivas em pesquisa e lideradas pelo ensino, com a orientação nacional criticada por carecer de especificidade e poder de enforcement, enquanto a [[institutional-governance-ai-universities|análise de governança institucional]] mostra que políticas de âmbito universitário enfatizam segurança de dados e mitigação de riscos, enquanto políticas de nível [[k-12|escolar]] (quando existem) focam na pedagogia — um desalinhamento estrutural que fica aquém das expectativas de acreditação para integração unificada de [[curriculum-design|currículo]], política, avaliação e infraestrutura.
 
 Uma resposta publicada a um estudo de enfermagem torna explícita a unidade de análise: [[shankar-institutional-ecosystems-ai-nursing-2026|Shankar (2026)]] argumenta que um framework como o [[tpack]] captura educadores individuais e deixa a instituição fora do modelo. Lido pela ciência da implementação, a adoção depende de quatro níveis ao mesmo tempo: a intervenção, o cenário organizacional interno, o ambiente político externo e os indivíduos envolvidos. A proposta concreta é operacionalizar o Consolidated Framework for Implementation Research como uma lista de verificação de prontidão que cobre engajamento da liderança, infraestrutura disponível e capacidade docente antes de qualquer ferramenta ser adotada, o que desloca a pergunta de quem precisa de treinamento para se a organização está pronta para implantar.
-
 
 ## Gestão de mudanças na pesquisa em educação em IA
 
@@ -85,35 +86,3 @@ A gestão de mudanças é o complemento institucional da integração ao nível 
 - **"A intenção estratégica cria capacidade."** Apenas **7% das instituições** criaram cargos seniores de liderança em IA, apesar de **49% verem a IA como prioridade estratégica**. A lacuna está entre a declaração e a estrutura, e é a falha recorrente da gestão de mudanças em IA.
 - **"Adotar uma ferramenta de IA é um evento."** **A sustentabilidade é uma propriedade da organização, não da ferramenta** — o ensaio de mensagens de texto da CSUN ilustra a escala de tempo. A avaliação durou quatro anos porque a durabilidade era o que precisava ser testada.
 - **"As instituições precisam reagir mais rápido, não antecipar."** A **liderança antecipatória** é o fio complementar: a [[baroudi-anticipatory-governance-ai-higher-ed-2026|revisão de escopo]] constata que as instituições precisam passar de uma governança **reativa para uma baseada em previsão**. Reagir com competência a uma tecnologia que já chegou é o que a evidência documenta falhando.
-
-## Conceitos conectados
-
-- [[governance]] — as estruturas de política e supervisão que a gestão de mudanças operacionaliza
-- [[educational-policy-ai]] — a intenção de política de IA nacional e institucional que a gestão de mudanças precisa traduzir em prática
-- [[educational-development]] — construir capacidade docente e orientação pedagógica para a integração da IA
-- [[administrator]] — liderança e governança antecipatória como agentes de mudança
-- [[ai-literacy]] — capacidade transversal que fundamenta a adoção institucional responsável
-- [[equity-in-ai-education]] — garantir que os benefícios da mudança se distribuam uniformemente entre instituições e estudantes
-- [[technology-acceptance-model]] — motivadores de adoção que explicam como a mudança se espalha
-- [[academic-integrity]] — âncora regulatória central em torno da qual a reforma da avaliação se organiza
-- [[student-support-and-success]] — sustentar um programa de apoio além do piloto
-
-## Artigos conectados
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Pensadores parceiros: um framework para o aprendizado de adultos com GenAI
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustentando apoio estudantil habilitado por IA: estudo de implementação e impacto de quatro anos de um chatbot institucional (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — framework de seis dimensões para adaptar modelos de mudança institucional à IA como tecnologia de chegada
-- [[leveraging-complex-systems-leading-for-transformative-change]] — framework SPARK e liderança da complexidade para mudança transformativa
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — consenso Delphi global sobre governança de GenAI em oito áreas
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — revisão de escopo sobre governança antecipatória e liderança
-- [[ai-adaptation-gap-higher-education-2026]] — lacunas de partes interessadas em uso, atitudes e confiança em IA entre estudantes, corpo docente e equipe
-- [[ai-uk-higher-education-policy-2026]] — intenção de política nacional vs. capacidade institucional no ensino superior do Reino Unido
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — motivadores organizacionais e tecnológicos da adoção de IA
-- [[adarkwah-genai-unesco-policy-2026]] — análise do framework da UNESCO sobre políticas institucionais de GenAI
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformação digital de uma universidade de artes liberais rumo a um modelo intensivo em pesquisa na era da GenAI (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Mediadores digitais traduzindo a estratégia institucional de IA em prática fundamentada sob escassez de infraestrutura
-- [[computing-assessment-genai-workshop-report-2026]] — \"A IA Pode Fazer Sua Lição. E Agora?\" Relatório de um workshop online sobre avaliação em computação na era da IA generativa
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — trabalho de campo cross-sistemas sobre como a implementação e as ações do professor decidem se um produto de IA ajuda
-- [[dot-framework-survey-2026]] — evidência de pesquisa de que o desenvolvimento profissional precisa cobrir um ciclo completo de desenho, e não apenas o uso da ferramenta
-- [[flipped-classroom-ai-assessment-math-2026]] — Um arco de difusão de uma década, da iniciativa individual ao financiamento central em matemática de graduação (Law 2026)
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 professores de design: o uso de GAI eleva tanto a autoeficácia quanto a ansiedade em relação à IA, e o apoio organizacional decide qual caminho domina (Ding et al., 2026)

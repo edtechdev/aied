@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -97,54 +99,3 @@ ai_assist:
 - **"הנחיה טובה יותר מפיקה חשיבה ביקורתית טובה יותר."** **שליטה מובנית בדיאלוג, ולא הנחיה טובה יותר**, מבדילה חונך כשלים מצ'אטבוט דיבייט: ניתוב כל תור דרך **זיהוי כוונה מבוסס-טולמין** עשה את העבודה. המנגנון הוא מבנה האינטראקציה ולא הניסוח.
 - **"שימוש ב-GenAI מעלה חשיבה ביקורתית ישירות."** הקשר של שימוש ב-GenAI לחשיבה ביקורתית **מדווחת-עצמית** עבר **כמעט כולו דרך [[feedback-literacy|אוריינות משוב]] של GenAI** — ב-**421 סטודנטים סיניים לתואר ראשון**, אוריינות המשוב תיווכה **71%** מהקשר. האוריינות היא הנתיב.
 - **"האפקט המטא-אנליטי אחיד."** לאורך **29 ניסויים**, GenAI העלה חשיבה מסדר גבוה במידה מתונה (**g = 0.609**) עם חשיבה ביקורתית ב-**ES = 0.691**. אפקטים מאוגרים מתונים על פני התערבויות הטרוגניות תומכים בקטגוריה ולא בעיצוב מסוים.
-
-## מושגים מחוברים
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — חינוך כימיה ו-AI: מעבדות, הערכה פורמטיבית, מגבלות LLM, פילוסופיה של התנסות
-- [[biology-education]] — חינוך ביולוגיה ו-AI: עוזרי מעבדת הוראה, אורייות AI בביולוגיה, חשיבה ביקורתית, כלים מתמחים
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## מאמרים מחוברים
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונצנזוס של 30 מומחים: חשיבה ביקורתית נושאת את דירוג השיבוש הגבוה ביותר של הדו"ח (ממוצע 4.00)
-- [[pearls-epistemic-verification-2026]] — מסגרת PEARLS לסוכנות אפיסטמית ואימות פלט AI (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — פריקת-עומס קוגניטיבי רגישה-שכבה בכתיבה בסיוע-GenAI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — פרדוקס החשיבה הביקורתית בלמידה משולבת-GenAI
-- [[pedagogy-ai-mistakes]] — הפדגוגיה של טעויות AI: טיפוח חשיבה מסדר-גבוה (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — תורת Tri-System וכניעה קוגניטיבית: כיצד AI מהדס חשיבה אנושית (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — הטרגדיה של הנחיל הקוגניטיבי: AI וחדשות מומחיות
-- [[zhao-genai-higher-order-thinking-meta-2026]] — מטא-אנליזה של GenAI וחשיבה מסדר-גבוה
-- [[avraamidou-ai-colonization-science-education]] — שיבוש הקולוניזציה של AI בחינוך מדעי
-- [[li-mroziak-reorienting-critical-ai-literacy]] — כיוון-מחודש לאורייות AI ביקורתית
-- [[luo-ibl-patterns-llm-bloom-2026]] — דפוסי IBL בסביבות מונעות-LLM (נקודת מבט של Bloom)
-- [[probing-ai-generated-physics-solutions-2026]] — הכנת תלמידים לביקורת פתרונות פיזיקה מיוצרים AI
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — פילוסופיית AI חלופית: דאואיזם כמתודה ל-AI בחינוך
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — הסתמכות-יתרה על AI ממודלת כמערכת מותאמת-מורכבת
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — רווחים ספציפיים-ממד בחשיבה ביקורתית בכתיבה מולטימודלית נתמכת-AI (Lu ואח' 2027)
-- [[lftutor-logical-fallacy-education-2026]] — הוראת זיהוי כשלים לוגיים דרך דיאלוג מבנה רב-תורי
-- [[caeai-ai-companions-learning-over-performance-2026]] — למידה על פני ביצועים: על מה חברים צריכים להיות ממוטבים ונדדים
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — פיגום AI, פריקת-עומס, ואורייות אימות דרך ויסות-עצמי מטאקוגניטיבי (Davor ואח' 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — תלות GenAI מגבילה את הקשר שימוש-לחשיבה-ביקורתית בסטודנטים עסקים (Shojaei ואח' 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — פרומפט הגה מקטין קבלת ייעוץ AI שגוי וטיית-ייחוס (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — רוטציית תפקידים כמבנה לאינטראקציה אנושית-AI ביקורתית (Kenzhebayeva ואח' 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — אינטגרציית GenAI ממוקדת-אימות בחינוך כימיה אוניברסיטאי (Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — משוב ChatGPT שאוצר על ידי המורה העלה חשיבה ביקורתית דרך תיקון מסדר-גבוה (Chen ואח' 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — סמסטר של גישת AI השאיר חשיבה ביקורתית שטוחה; שימוש מהגה נבא אותה (Melanou ואח' 2026)
-- [[genai-dependence-research-creativity-2026]] — תלות GenAI קשורה חיובית לחשיבה ביקורתית ב-1,157 סטודנטים מתקדמים
-- [[genai-use-critical-thinking-moderation-2026]] — שימוש GenAI לחשיבה ביקורתית דרך אורייות משוב, עם נתיב ישיר רק לסטודנטים פחות מהגהים
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — החשיבה הביקורתית עוברת דרך חלוקת עמל ועיבוד מחדש של הפלט, לא דרך חשיפה
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — הקריאה הפסימית של ראיות התיווך: אובדן חיכוך, הטיית אוטומציה, ומסגרת היעילות
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — סקירה נרטיבית של 108 מסמכים: סימן האפקט עוקב אחרי ידע קודם ותזמון המשימה (מסגרת AMCIF)

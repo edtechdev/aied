@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -92,35 +94,3 @@ Sous l'angle de la pédagogie critique, les éducateurs ne sont pas des transmet
 **« La pédagogie critique est une critique formulée depuis l'extérieur de la pratique. »** C'est une posture quant au rôle de l'éducateur : demander à qui profite l'éducation, quel savoir est privilégié, et comment l'école reproduit ou résiste au pouvoir. Appliquée à l'adoption de l'IA, cela signifie interroger les logiques corporatives et capitalistes qui façonnent les achats — des questions qu'un enseignant peut poser sur les choix de sa propre institution, et pas seulement sur la technologie dans l'abstrait.
 
 **« Centrer les épistémologies marginalisées est un ajout de contenu curriculaire. »** Cela change ce qui compte comme savoir, ce qui est une question sur la structure du cours plutôt qu'une lecture supplémentaire. Les ajouts de contenu laissent le cadre intact ; la prétention de la pédagogie critique porte sur le cadre.
-
-## Concepts liés
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'IA en éducation
-
-## Articles liés
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Éducation aux droits humains, pratique réflexive et enseignement de la gouvernance de l'IA comme formation professionnelle (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composition multimodale comme pédagogie de la littératie critique en IA
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analyse critique du discours des conseils techno-solutionnistes sur l'alignement constructif avec l'IA générative
-- [[benali-genai-academic-writing-2026]] — Une révision qui exige la justification dans un cours d'écriture académique : l'IA limitée à deux sections de la proposition, chaque suggestion acceptée ou rejetée par écrit (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Critique critique et féministe de la « colonisation par l'IA » de l'enseignement des sciences
-- [[li-mroziak-reorienting-critical-ai-literacy]] — « Résister à l'IA » comme praxis communautairement enracinée de la littératie critique en IA
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistribuer l'autorité épistémique de l'IA par l'apprentissage ancré dans la communauté
-- [[raffaghelli-situated-ai-ethics-2026]] — Cadre situé, culturel-historique et écologique pour l'éthique de l'IA
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Modèle développemental-critique pour la cognition interprétative en sciences humaines
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Littératie en IA socialo-humaniste et usage loyal
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Approche axiologique-critique de l'éducation durable et de l'IA (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Vision émancipatoire de la conception de l'IA générative au service de l'épanouissement de l'apprenant
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Cadre d'engagement centré sur l'humain avec l'IA générative, fondé sur Freire, le constructionnisme et une éthique du care
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pédagogie numérique critique et épistémologies décoloniales appliquées au développement académique dans le Sud global

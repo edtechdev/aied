@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -53,7 +55,6 @@ ai_assist:
 **במדגם שכבר אימץ, ההרגל נושא את המודל והציפיות שותקות.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] בדקו UTAUT2 על 310 [[business-education|סטודנטים לשיווק]] בשתי אוניברסיטאות באמריקה הלטינית: הרגל ניבא כוונה ב-β = 0.426 ושימוש ב-β = 0.412, וכוונה ניבאה שימוש ב-0.324. ציפיית ביצועים (0.037), ציפיית מאמץ (0.054) והשפעה חברתית (0.048) לא היו מובהקים, במודל שהסביר R² = 0.665 של כוונה ו-0.707 של שימוש. המחברים קוראים את הנתיבים האפסיים כהגבלת שונות באוכלוסייה שכבר אימצה את הכלי; התוצאה היא שימוש [[self-report-measures|מדווח-עצמי]], לא התנהגות מתועדת.
 
 **חרדה, לא השפעה חברתית, נשאה את הנתיב האפקטיבי בהקשר דל-משאבים.** הרחבת UTAUT עם 350 סטודנטים לתואר ראשון במדעי הרוח בגאנה מצאה שציפיית ביצועים היא המנבא החזק ביותר לכוונה (β = 0.377) וציפיית מאמץ שנייה (β = 0.281), השפעה חברתית אפסית (β = −0.038), וחרדת למידה דיגיטלית ב-β = −0.281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). ציפיית מאמץ גם הפחיתה חרדה (β = −0.126), ולכן קלות שימוש פעלה בחלקה באמצעות הורדתה.
-
 
 ### תיאוריית ההתנהגות המתוכננת (TPB)
 TPB מסבירה כוונה באמצעות גישה, נורמות סובייקטיביות, ושליטה התנהגותית נתפסת. היא מצורפת כמעט-כלל ל-TAM/UTAUT במחקרי אימוץ AI — לדוגמה, [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] משלבים TAM, TPB, UTAUT, ומסגרת FATE ([[bias-mitigation|הוגנות]], אחריות, שקיפות, אתיקה) כדי למדל את המניעים ההתנהגותיים וה[[ethics|אתיים]] של אימוץ ChatGPT בקרב סטודנטים.
@@ -89,7 +90,6 @@ TOE מעצבת אימוץ כמושפע מהקשרים הטכנולוגי, האר
 
 במחקר ריאיונות דו-גלי של 22 חברי סגל, למידה נוספת על AI הפכה חלק מהם ליותר זהירים ולא ליותר מקבלים, והיפכה את הכיוון שהמודל מניח מן הניסיון לקלות שימוש ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
-
 ## מגבלות והרחבות
 
 ההתמקדות הקוגניטיבית של TAM גם תופסת פחות מדי ממדים רגשיים ויחסיים של שימוש בבינה מלאכותית. [[akbaba-nursing-ai-experiences-tam-2026|מחקר איכותני של סטודנטים וסגל סיעוד]] מצא שליד ארבעת מבני ה-TAM הקלסיים, משתתפים — בעיקר סטודנטים — תיארו את הבינה המלאכותית כמקור של תמיכה פסיכוסוציאלית: נחמה רגשית במתח ומרחב חסוי להרהור. זה מרחיב את התועלת הנתפסת מעבר לרווחי ביצועים ל[[well-being|רווחה]] בהכשרה מקצועית תובענית [[professional-training|מקצועית]], ומציע שמודלי אימוץ צריכים להתייחס לגורמים אפקטיביים ופסיכוסוציאליים, לא רק לתועלת אינסטרומנטלית.
@@ -110,67 +110,12 @@ TOE מעצבת אימוץ כמושפע מהקשרים הטכנולוגי, האר
 
 ניתוח תנאים הכרחיים הפריד אז השפעה מדרישה. קלות שימוש, המנבא המדורג ראשון, נכשלה לחלוטין (d = 0, p = 0.592). תועלת הייתה הכרחית אך קטנה (d = 0.027, p = 0.011). המחברים קוראים את הפיצול כאזהרה מפני התייחסות למקדם נתיב כרצפה. מקדם חזק אומר שיחידת קלות קונה כוונה בממוצע; רק הכרחיות אומרת האם האמונה האחרת יכולה להיעדר.
 
-
 הקישור של סיכון לשימוש תלוי גם במערכת: ב-49 מערכות TALIS 2024 שהנפיקו את הפריטים, תועלת AI נתפסת התקשרה חיובית לשימוש בינה מלאכותית בכל 49, בעוד סיכון נתפס התקשר שלילית ב-40 וחיובית בתשע ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
 **ציפיית ביצועים יכולה לשאת יחס שמחקר הקבלה קורא ככוונת שימוש.** במחקר של [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] ציפיית ביצועים ניבאה אמון-יתר ב-AI ב-B = 0.6107 והייתה המתווך הראשון שדרכו מסוגלות עצמית, מוטיבציה פנימית ו[[motivation|מוטיבציה חיצונית]] הגיעו לאמון-יתר. הנתיב העקיף של הציפייה בלבד היה חיובי לכל שלושת המנבאים, 0.1355 (95% CI [0.0542, 0.2330]) למסוגלות עצמית, ולכן הציפייה לא רק ניבאה האם סטודנטים ישתמשו בכלי.
-
 
 ## תפיסות מוטעות נפוצות
 
 - **"המבנים של TAM מסבירים אימוץ."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] שילבו TAM עם UTAUT עבור סטודנטים להנדסה בבנגלדש והסבירו **64%** מן השונות. משמעותי ובלתי-שלם בעת ובעונה אחת: כשליש ממה שמניע אימוץ יושב מחוץ למבני הקבלה הקלסיים.
 - **"מודלי קבלה אינם זקוקים להתאמה תחומית."** הוספת **אוטונומיה מלאכותית נתפסת** — כמה עצמאית מורים מאמינים ש-GenAI יכול לבצע משימה הוראית מוקצית — ו**הימנעות מסיכון** למבנים הקלסיים שינתה את המודל מהותית. המבנים המקוריים נבנו לכלים ללא סוכנות, ול-GenAI יש סוכנות נתפסת.
 - **"אומדן אימוץ מטא-אנליטי מתאר כל אוכלוסייה."** ה[[teo-ai-adoption-tertiary-meta-analysis-2026|מטא-אנליזה של סטודנטים להשכלה שלישית]] היא האומדן ברמת-האוכלוסייה; התוצאה ההנדסית שמסבירה 64% היא אוכלוסייה ספציפית. ייבוא האחד אל תוך האחר מניח יציבות שהראיות אינן מבססות.
-
-## מושגים מחוברים
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## מאמרים מחוברים
-- [[high-school-genai-acceptance-tam-physics-2026]] — אמונות ספציפיות-תחום ממוקמות במעלה הזרם של תפיסות TAM
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
-- [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
-
-- [[kim-overtrust-ai-literacy-2026]] — ציפיית ביצועים תיווכה את הנתיב ממוטיבציה וממסוגלות עצמית לאמון-יתר ב-AI
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — אוריינות AI כמתווך בין מסוגלות עצמית לקבלה, עם קשר חרדה לא-מתוקן (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM מחובר להתאמת משימה–טכנולוגיה, עם דירוג חשיבות ברשת עצבית וספי תנאים הכרחיים (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — תכונות עיצוב במעלה הזרם של אמונות TAM, וחשיבות שאינה הכרחיות
-- [[pinedo-genai-adoption-marketing-students-2026]] — ההרגל נושא את UTAUT2 באוכלוסייה שכבר אימצה
-- [[stalboerger-faculty-perceptions-2026]] — 22 חברי סגל, 12 מעקבים: היכרות הקשיחה בחינה אתית אצל חלקם, והיפכה את כיוון קלות השימוש (Stalboerger et al. 2026)
-

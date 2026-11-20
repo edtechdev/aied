@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -72,7 +74,6 @@ Pola itu menggeneralisasi ke penulisan profesional. [[gift-ai-pairr-business-wri
 
 Uji paling ketat tentang seberapa besar desain menentukan adalah eksperimen acak klaster multisitus. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] mengacak 48 kelas di 4 universitas — 1,176 mahasiswa sarjana tahun pertama dalam [[biology-education|biologi]], [[chemistry-education|kimia]], dan [[physics-education|fisika]] — ke empat kondisi untuk argumentasi ilmiah: umpan balik sejawat saja, umpan balik GenAI langsung, umpan balik GenAI reflektif (evaluasi diri lalu kritik AI), dan hibrida evaluasi diri → umpan balik sejawat → kritik GenAI. GenAI langsung mengalahkan umpan balik sejawat pada kualitas argumentasi segera tetapi menunjukkan [[transfer-of-learning|transfer]] yang lebih lemah; desain reflektif dan hibrida menghasilkan serapan umpan balik dan pembelajaran mandiri yang lebih kuat; hibrida menunjukkan keunggulan paling jelas pada pembelajaran konseptual; keduanya mengungguli GenAI langsung pada transfer tertunda tanpa AI. Nilai GenAI, simpul para penulis, kurang bergantung pada akses daripada pada apakah lingkungannya mempertahankan agensi dan kepemilikan siswa selama revisi.
 
-
 Mengurutkan umpan balik AI sebelum diskusi sejawat, bukan sesudahnya, juga meningkatkan hasil: dibandingkan umpan balik sejawat saja, 122 siswa EFL Tiongkok yang diberi umpan balik terintegrasi AI-plus-sejawat melaporkan keterlibatan afektif, perilaku, dan kognitif yang lebih tinggi (η² parsial = 0.29, 0.28, 0.32) dan mengungguli pada keempat dimensi menulis IELTS, terbesar pada pencapaian tugas (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 Pola itu — keunggulan awal yang tidak bertahan — berulang ketika pembandingnya adalah umpan balik guru terhadap umpan balik sejawat berbantuan AI, bukan GenAI semata. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, dan Luo (2026)]] menjalankan kuasi-eksperimen delapan minggu dengan 61 penulis L2 Tiongkok (244 teks dinilai) yang bekerja dari satu daftar periksa lima dimensi, dengan satu kelas menerima umpan balik tertulis guru dan kelas lain umpan balik sejawat berbantuan AI. Umpan balik guru menghasilkan jauh lebih banyak komentar — 316 butir berbanding 185 pada tugas pertama, terkonsentrasi pada kosakata dan detail teknis — dan keuntungan segera yang sedikit lebih besar, tetapi peningkatannya turun tajam pada tugas kedua sementara kelas sejawat berbantuan AI tetap stabil dan berakhir dengan skor revisi lebih tinggi. Komentar sejawat berbantuan AI lebih sedikit tetapi tetap berjangkar pada isi dan struktur, dan keunggulan keragaman leksikal awalnya tidak bertahan; tidak ada mode yang menggeser kompleksitas sintaksis. Para penulis membaca keduanya sebagai [[scaffolding|perancah]] yang saling melengkapi dan mengusulkan hibrida AI–Sejawat–Guru, di mana AI menandai kesalahan permukaan selama penyusunan draf, sejawat menegosiasikan isi dalam revisi, dan guru menyasar apa yang tidak terjangkau keduanya.
@@ -102,48 +103,3 @@ Pertanyaan terbukanya adalah tentang kekuatan bukti, bukan hanya tentang desain.
 - **"Tinjauan sejawat adalah pengganti yang lebih murah bagi umpan balik instruktur."** [[learning-by-teaching|Belajar dengan mengajar]] adalah mekanismenya, dan itu muncul bahkan di antara mesin: wacana yang mirip pembelajaran sejawat di antara lebih dari **2.4 juta agen AI** sebagian besar berupa **asersi alih-alih penyelidikan**. Menghasilkan kritik adalah tindakan yang berbeda dari menerimanya.
 
 - **Formulir reflektif sejawat dan diri sebagai catatan di balik nilai kelompok.** [[issa-teamwork-framework-academic-integrity-2024|Issa dan Hall (2024)]] menggunakan satu formulir reflektif sejawat per anggota tim plus satu formulir reflektif diri per siswa dalam unit Manajemen Proyek Bisnis pascasarjana, bersama pertemuan 30 menit dengan setiap tim di mana anggota ditanya apakah kontribusi mereka orisinal. Formulir-formulir itu tidak dinilai sebagai pertukaran umpan balik. Mereka adalah bukti per orang yang memungkinkan instruktur mempertahankan nilai individual di dalam penilaian tim sebesar 40%. Kenaikan nilai kerangka itu dari 27/40 menjadi 31/40 tercampur dengan dosen baru dan klaim integritasnya tidak terkuantifikasi, sehingga bagian yang dapat ditransfer adalah struktur pencatatan, bukan ukuran efeknya.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — PAIRR dan umpan balik gabungan sejawat-plus-AI: urutannya dan bukti komparatifnya
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Artikel terkait
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Umpan balik terintegrasi AI-plus-sejawat menaikkan ketiga dimensi keterlibatan dan keempat dimensi menulis IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — Membandingkan penilaian ChatGPT, sejawat, dan instruktur di seluruh tingkat kualitas proyek (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — Sistem Umpan Balik Sejawat AI
-- [[ai-internal-feedback-evaluative-judgments]] — Mengurai Perkembangan Pertimbangan Evaluatif Mahasiswa Sarjana
-- [[learner-centered-feedback-ai]] — Meningkatkan Umpan Balik Berpusat Siswa dengan AI
-- [[genai-linguistic-diversity-academic-writing]] — AI Generatif dan Keragaman Linguistik dalam Penulisan Akademik
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR dalam mata kuliah penulisan bisnis: tinjauan sejawat, umpan balik chatbot, refleksi (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. sejawat manusia untuk merancah umpan balik mandiri dan literasi umpan balik (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI sebagai Trainer dan Synthesizer dalam umpan balik sejawat EFL pada keterampilan berbicara (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Eksperimen multisitus yang membandingkan umpan balik GenAI sejawat-saja, langsung, reflektif, dan hibrida (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Umpan balik sejawat GenAI dengan perancah prompt dalam argumentasi kolaboratif (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agensi dalam penilaian kelompok yang dimediasi GenAI: kerja sama, penahanan, ketidakberwujudan (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Wawancara tinjauan kode lisan sebagai pengurangan dampak buruk GenAI di CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Pembinaan presentasi multimodal otomatis sebagai alternatif yang dapat diskalakan bagi umpan balik sejawat (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Ringkasan diskusi yang dihasilkan AI memperluas paparan sejawat di forum daring (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Pengaruh sejawat dan kepercayaan relasional dalam pengungkapan GenAI oleh siswa (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Tinjauan sistematis LLM untuk berpikir kritis, kerja tim, dan pemecahan masalah (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Wacana yang mirip pembelajaran sejawat di antara 2.4 juta agen AI (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Audit atas 14 meta-analisis AIED dan 59 studi primer (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Umpan balik guru vs. umpan balik sejawat berbantuan AI dalam penulisan L2: kuantitas, fokus, dan lintasan peningkatan pada dua tugas (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — formulir reflektif diri/sejawat sebagai bukti per orang di balik nilai kelompok (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Kosakata peran dari 654 siswa: tutor 28.6%, kolaborator 23.1%, alat 9.9%, robot 7.7%

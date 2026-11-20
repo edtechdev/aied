@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -45,10 +46,3 @@ Pre samostatne sa učiacich, ktorí pracujú s náročným materiálom, a pre vy
 ## Poznámky a výhrady
 
 Zadarmo je softvér, nie inferencia: študenti prinášajú kľúče poskytovateľa, predplatné, lokálny CLI Claude Code alebo akýkoľvek koncový bod kompatibilný s OpenAI a platia poskytovateľovi bez prirážky; živý merač odhaduje len známe náklady API. Záznamy, chaty a kľúče zostávajú na stroji ako obyčajné súbory, ale projekt upozorňuje, že lokálne úložisko neznamená offline spracovanie, keďže požiadavky na model, voliteľné diktovanie aj webový výskum dosahujú externé služby. Inštalátor pre Windows x64 nie je podpísaný, takže Windows upozorní. Žiadna štúdia účinnosti nie je uvedená, takže argument stojí na vyhlásenom odôvodnení, nie na nameraných výsledkoch; repozitár mal pri kontrole 2. novembra 2026 približne 4 800 hviezd.
-
-## Prepojené pojmy
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

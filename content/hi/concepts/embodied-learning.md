@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -66,35 +68,3 @@ ai_assist:
 - **"शरीर ही वह चीज़ है जिससे अधिष्ठित अधिगम काम करता है।"** **11 RALL अध्ययनों (N = 595, g = 0.83, I² = 84.4%)** के मेटा-विश्लेषण में पाया गया कि **रोबोट आकृति, माध्यम, स्वायत्तता और सामाजिक भूमिका ने द्वितीय-[[language-learning|भाषा अधिगम]] परिणामों को मॉडरेट नहीं किया**। अधिष्ठितता की विशेषताएँ सक्रिय घटक नहीं थीं, और विषमता इतनी ऊँची थी (I² = 84.4%) कि संयुक्त प्रभाव बहुत मिश्रित हस्तक्षेपों के समुच्चय का वर्णन करता है।
 - **"बड़ा प्रभाव क्रियाविधि तय कर देता है।"** 11 अध्ययनों में 595 प्रतिभागियों के साथ g = 0.83 वास्तविक संकेत है और यह नहीं बताता कि उसे क्या उत्पन्न किया। चूँकि डिज़ाइन-विशेषताओं ने प्रभाव को मॉडरेट नहीं किया, संभावित क्रियाविधि हार्डवेयर के बजाय शिक्षाशास्त्रीय गतिविधि में बैठती है, और इससे बदल जाता है कि किसमें निवेश करना है।
 - **"अधिष्ठितता मापी नहीं जा सकती, इसलिए वह सैद्धांतिक रहती है।"** शरीर-ट्रैकिंग नियमन को **मापनीय संकेत** में बदल सकती है: एक मिश्रित-वास्तविकता प्रकाश-संश्लेषण सिम्युलेशन में, जहाँ गति-टैग छात्र एजेंटों को प्रक्षेपित मॉडल पर खिसकाते थे, एक LLM पाइपलाइन ने नियमन व्यवहार के **470 खंडों** को लेबल किया। संरचना को परिचालित किया जा सकता है, चाहे उसे परिभाषित करना कठिन हो।
-
-## संबंधित अवधारणाएँ
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — वह माध्यम जो अधिष्ठान का सीधे दोहन करने का प्रयास करता है
-
-## संबंधित लेख
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — मौखिक व्याख्याओं में अधिष्ठित संज्ञान के लिए एक मल्टीमोडल ढाँचा
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — अधिष्ठित बुद्धिमत्ता के माध्यम से स्थायी सीखना बढ़ावा देना (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper और संकेत भाषा
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — रचनात्मक लेखन में रोबोट-LLM एकीकरण
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI-संवर्धित अधिष्ठित रोबोट-सहायित भाषा सीखने का मेटा-विश्लेषण
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — गति-ट्रैक किया गया प्रकाश संश्लेषण अनुकरण, एक LLM पाइपलाइन से विश्लेषित (Fonteles एट अल. 2026)
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — हाथ से बने मॉडलों के बाद AI सहायक: भाषा-आधारित AI अधिष्ठित पूछताछ का अनुसरण नहीं कर सकती (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — अधिष्ठित सीख में AI मुख्यतः निरीक्षण करती है: संकेतित भूमिका टैगों में संवेदन भूमिकाएँ 62.5%, और किसी भी समीक्षित प्रणाली ने शिक्षार्थियों के उपयोग के दौरान मल्टीमोडल धाराओं को नहीं जोड़ा (Kim & Han 2026)
-

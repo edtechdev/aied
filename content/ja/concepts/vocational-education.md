@@ -21,6 +21,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -82,31 +84,3 @@ AI in VETで独特なのは、その分野が求めると言うものと実際�
 **開発者にとって**
 
 **「シミュレーション課題を学習者が支持したということは、その課題が正しいものを測定していたことを意味する」。** **調査した学習者33名のうち21名（64%）**が、音声課題は現実的であることに同意し、同じ割合が、自分の知っていることを伝える明確な方法を与えてくれたと述べた。また、リアルタイムで話すことがこの[[authentic-assessment|真正な評価]]に適しているという点に反対した者はいなかった。現実性と伝達の明確さは知る価値のある情報だが、妥当性そのものではない。課題が真正に感じられたとしても、その代わりを務めるはずの職務遂行を適切にサンプリングできていないことはありうる。
-
-## 関連概念
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## 関連記事
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 適応的なCTEカリキュラム更新、5つの次元と6つのリーダーシップ上の試練
-
-- [[ai-vocational-education-training-review]] — VETにおけるAIの最初のシステマティックレビュー：目的、理論、実証的効果
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL：没入的なプロジェクトベース学習とデザインの創造性
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice：TVETにおけるオフラインAI支援の口頭評価
-- [[ai-pedagogical-accompaniment-amico]] — Amicoのデュアルモードプロトタイプ：デザイン原則と観察可能な指標
-- [[ai-autonomous-learning-accomplishment-2026]] — ハーディネスに媒介されたAI支援の自律学習と達成感の低下
-- [[astra-atco-training-simulator]] — 拡張可能なATCO訓練のための自律的な模擬操縦士
-- [[crewscaler-ai-upskilling-framework]] — 迅速な専門職スキルアップのためのAI加速されたエンドツーエンドフレームワーク
-- [[genai-xr-architectural-design-education-2026]] — 反事例：デザインの自己効力感が低下するGenAI＋多人数XR
-
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — 職業院校における制度上の梃子としての知覚された ICT 支援
-

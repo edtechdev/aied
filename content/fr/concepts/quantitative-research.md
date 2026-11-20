@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -67,7 +69,6 @@ Les expériences assignent aléatoirement des apprenants à des conditions (par 
 ### La recherche longitudinale
 Les conceptions longitudinales suivent les mêmes apprenants dans le temps, captant le changement, la croissance et l'apprentissage durable que la mesure à un instant unique manque. [[ai-lms-middle-school-longitudinal|Une étude longitudinale sur un LMS]] suit des étudiants sur une année scolaire. Les conceptions longitudinales sont essentielles pour distinguer la performance gonflée par l'IA de l'[[genai-performance-vs-learning|apprentissage durable]].
 
-
 Les comparaisons entre jeux de données ont besoin d'un point de travail fixe : un contrôle structurel de données éducatives synthétiques a constaté qu'analyser chaque jeu de données à son propre seuil inversait un contraste qui tenait à un point partagé, et que sa comparaison par substitut n'exigeait que les données synthétiques et des permutations d'elles-mêmes — un nul fondé sur les permutations plutôt qu'un seuil absolu ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### La quantification computationnelle et psychométrique
@@ -101,36 +102,3 @@ Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont compl�
 - **« Une estimation en intention de traiter décrit ce que fait l'outil. »** Dans un essai randomisé par groupes sur l'accès où **environ 15% des étudiants des classes traitées ont un jour utilisé le tuteur**, l'estimation en intention de traiter reflète **l'effet d'introduire** l'outil plutôt que l'effet de l'utiliser. Une appropriation faible fait d'un chiffre en intention de traiter un énoncé sur la mise en œuvre, et le présenter comme un effet de l'outil surestime ce qui a été mesuré.
 - **« La performance à la tâche est le résultat. »** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomise **120 étudiants** entre étude assistée par IA et étude traditionnelle et mesure la **rétention** — la conception qui sépare la performance immédiate de l'apprentissage durable. Une étude qui s'arrête à la tâche a mesuré la quantité la plus facile.
 - **« Les comparaisons entre jeux de données sont simples. »** Un contrôle structurel de données éducatives synthétiques a constaté qu'**analyser chaque jeu de données à son propre seuil inversait un contraste qui tenait à un point de travail partagé**. Le signe de la comparaison dépendait d'un choix analytique, ce qui est le type de fragilité qu'un point de travail préenregistré existe pour prévenir.
-
-## Concepts liés
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Articles liés
-
-- [[access-not-enough-ai-tutoring-2026]] — Une étude de terrain randomisée sur le soutien humain associé au tutorat par IA
-- [[genai-can-harm-teaching-rct-2026]] — L'IA générative peut nuire à l'enseignement : un essai randomisé
-- [[acceptance-ai-english-tools-2026]] — L'acceptation des outils d'apprentissage de l'anglais assistés par l'IA
-- [[tian-genai-learning-adoption-pathways-2026]] — Les trajectoires d'adoption de l'IA générative (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — La littératie IA des enseignants par la théorie de l'autodétermination
-- [[jin-glat-genai-literacy-assessment]] — GLAT : un test de littératie en IA générative validé par la TRI
-- [[ai-lms-middle-school-longitudinal]] — Une étude longitudinale sur un LMS intégrant l'IA au collège
-- [[adaptive-pretesting-retention]] — Le pré-test adaptatif et la rétention
-- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Un essai randomisé par groupes sur l'accès exige une vérification de l'appropriation
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — L'analyse bibliométrique comme autre famille quantitative : Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Usage de l'intelligence artificielle générative et interaction éducative interpersonnelle chez les étudiants en soins infirmiers : l'apprentissage autorégulé comme médiateur statistique
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Conscience de la disruption technologique par l'IA, état d'esprit de conception et compétence d'innovation en design chez les étudiants en design

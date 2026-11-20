@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,32 +80,3 @@ ai_assist:
 
 - Повідомляйте про ефекти зайнятості за віковими смугами, а не як сукупну цифру витіснення; контраст 16% проти 8% і є знахідкою.
 - Досліджуйте, де зникає формуюча робота, оскільки саме це — механізм, яким поточні здобутки стають майбутніми дефіцитами.
-
-## Пов’язані поняття
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Пов’язані статті
-
-- [[ai-adult-learning-guidelines-dis2026]] — Настанови для проєктування технологій ШІ, що підтримують навчання дорослих
-- [[ai-guided-learning-audiovideo-2026]] — Навчання під керівництвом ШІ для засвоєння навичок
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Переосмислення вищої освіти через графи Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — Андрагогіка та когнітивна делегація в опосередкованому ШІ навчанні
-- [[ai-lifelong-learning-policy]] — ШІ в навчанні протягом життя: можливості та виклики в політиці освіти дорослих
-- [[community-centered-ai-education-adults]] — Спільне проєктування орієнтованої на спільноту освіти зі ШІ для дорослих
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедія когнітивного спільного: ШІ та відродження експертизи
-
-- [[kim-ai-andragogy-2026]] — Погляди дорослих здобувачів на ШІ як агента спільного навчання в андрагогіці (Kim та співавт. 2026)
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -126,37 +128,3 @@ BernsteinとSibia（2026）は、[[generative-ai|生成AI]]が生成する類推
 - **「教員の誤概念は証拠を提示すれば訂正できる。」** **123人のイタリアの教育者**によるパイロットでは、不一致は**認知的学習スタイル（教員の78%が視覚／聴覚の一致を擁護）**、包摂とグループ学習（68%）、EdTechの過負荷（54%）に最も強く集まりました。最も強い不一致こそ証拠に最も抵抗するものであり、だからこそ[[refutation-text|反論]]が主張に勝るのです。
 - **「証拠に対する教員の異議はすべて抵抗である。」** 同じ項目が、**証拠を再提示する前に教員の文脈を承認する**対話型 AI を通じて届けられたとき、**異議の41%は現実の文脈上の制約**、すなわち学級規模、特別なニーズ、カリキュラムの要求に関わっていました。見かけの誤概念のかなりの部分は正確な異議だったのです。
 - **「誤概念は対話から信頼性をもって検出できる。」** **241のプロンプトされたセグメントのうち221（91.7%）が、専門家の多数決で戦略的な誤概念として確認されました（Fleissの κ = 0.9487）**。群間の差は**有意ではありませんでした**。高い信頼性は専門家の裁定の下で達成可能であり、その主張が依存するのはその条件です。
-
-## 関連する概念
-
-- [[pedagogical-patterns]] — 特定の抱かれた信念に対峙する概念変化の配列
-- [[learners]] — 学習者：学習者側の概念を束ねる上位概念
-
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## 関連する記事
-- [[rudolph-ai-myths-critical-higher-ed]] — 宣伝を信じるな：高等教育における批判的アプローチの必要性と8つのAI神話
-- [[student-rationalization-ai-writing]] — AIライティングに関する学生の合理化
-- [[genai-skill-bypass-literacy]] — 生成AIによるスキルの迂回とリテラシー
-- [[trust-reliance-ai-education-2026]] — AI教育における信頼と依存
-- [[contextual-sycophancy-ai-literacy]] — 文脈に応じたお追従とAIリテラシー
-- [[sycophantic-ai-social-interaction-2026]] — 社会的相互作用におけるお追従するAI
-- [[llm-fallacy-misattribution]] — LLMの誤謬の誤った帰属（Kimら）
-- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：計算機教育における興味にパーソナライズされた生成AI類推に対する学生の批判的受容
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：事実的ではなく概念的に誤っている、流暢で権威的な説明（Miličevićら、2026年）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 提出ファイルの中の隠された指示が、目に見える警告なくAI採点の成績を上げうる（Humble 2026）
-- [[children-ai-safety-misconceptions-2026]] — 子どものAI安全に関する誤概念：ロボットとの友情がプライバシーの保証と誤解される（Leistenら、2026年）
-- [[etq-ai-conversational-teacher-training-2026]] — 教員の誤概念のための証拠に基づく対話による対話型AI診断（Miranda & Calvani 2026）

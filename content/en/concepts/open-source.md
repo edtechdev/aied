@@ -14,6 +14,8 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 reviewed_by: [editor]
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 > **Open Source** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations, openly licensed corpora can be indexed and fine-tuned without publisher permission, and open benchmark and dataset releases make [[research-methods-aied|research]] replicable. The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.
@@ -76,47 +78,3 @@ The word itself is contested upstream. [[deimann-rethinking-openness-ai-2026|Dei
 **"Closed frontier models are simply better, so open alternatives are a fallback."** The gap is narrower than that assumption implies. In [[cdpk-pedagogy-benchmark-llms|the Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spanning 97 models, open-weight **DeepSeek R1 reached 86.65%**, against a top-10 made up mostly of closed reasoning models — and the cost–accuracy comparison runs further in the open direction. The remaining argument for openness is therefore about control and auditability, not about a capability sacrifice.
 
 **"Releasing the weights is releasing the work."** The stronger open contributions release the pipeline. OmniEdu publishes capability-balanced supervision over a 69,999-example mixture rather than final weights alone, lifting every scale of an open 4B/9B/27B K–12 family, with the tuned 4B model gaining **55 points** of MathTutorBench [[scaffolding|scaffolding]] performance; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] likewise documents its RL and fine-tuning procedure, including 440 mined hard negatives and 40,000 generated responses. Weights without the recipe reproduce an outcome without reproducing the method.
-
-## Connected Concepts
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Connected Articles
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistant on consumer hardware (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — MIT-licensed adaptive tutor with a CC BY OpenStax content library (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Open 32B pedagogical model outperforming far larger proprietary systems (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Drop-in FERPA-compliant local-LLM autograder
-- [[programming-its]] — Self-hosted open-weight LLM for GDPR/EU AI Act compliance in a Python ITS
-- [[aiawe-automated-writing-evaluation]] — LoRA-adapted open-weight model for automated writing evaluation
-- [[stanbkt-bayesian-knowledge-tracing]] — Open Python package for full Bayesian knowledge tracing
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Fully open-source agentic tutoring framework with learner memory
-- [[vismatic-secure-sandbox-cs-education]] — Open containerized sandbox for process-oriented assessment
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutor with an open codebase
-- [[cdpk-pedagogy-benchmark-llms]] — Open pedagogy benchmark across 97 models and the cost–accuracy frontier
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Open dataset and prototype for trace-based multi-agent tutoring evaluation
-- [[mllm-scientific-visualization-literacy]] — Open models below the human baseline on visualization literacy
-- [[iks-instruct-dataset-indian-knowledge]] — Open multilingual dataset for culturally grounded instruction
-- [[aied-carbon-footprint-reporting]] — Open-source method for reporting LLM environmental cost
-- [[egai-power-systems-education]] — Open executable module library for engineering AI
-- [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching

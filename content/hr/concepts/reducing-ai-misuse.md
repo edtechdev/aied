@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -108,54 +110,3 @@ Obrazovne poluge izgledaju drukčije kada se čestitost tretira kao praksa koju 
 **„Otkrivanje zloupotrebe i kažnjavanje strategija je prevencije.“** Prevencija mora pokriti i sam alat za ocjenjivanje. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleovo (2026.)]] crveno-timsko ocjenjivanje našlo je da su dvije od pet strategija neizravnog ubacivanja poticaja ugrađenih u datoteku predaje podigle ocjenu eseja koji nije prolazio. Tijek rada koji otkriva zloupotrebu među učenicima, a vjeruje nepregledanom sadržaju predaje, branjen je samo s jedne strane.
 
 **„Zloupotreba je problem motivacije učenika.“** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher i Calderon (2025.)]] podižu obvezujuće ograničenje na višu razinu, tretirajući upravljanje, a ne ponašanje učenika, kao ono što treba mijenjati, i predlažu okvir od 130 pokazatelja čestitosti. A šteta za učenje mjerljiva je na razini opsega: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei i Wu (2026.)]] našli su da je prenošenje domaće zadaće podiglo ocjene iz zadaće za 18%, dok je *snizilo* ocjene na ispitu bez literature za 20%: dizajnerski propust koji se pojavljuje upravo u jazu o kojem govori ova stranica.
-
-## Povezani koncepti
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Povezani članci
-
-
-- [[ivory-psychology-assessment-integrity-2026]] — Tragovi dokaza u sustavu kontrole verzija i reproducibilni analitički dokumenti kao odvraćanje od zloupotrebe (Ivory i sur. 2026.)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Uskraćivanje preporuke uvelike je spriječilo pretjerano oslanjanje, a da nije izgradilo prosudbu koju štiti
-- [[generative-ai-guardrails-harm-learning]] — Generativna umjetna inteligencija bez ograda može naškoditi učenju
-- [[genai-performance-vs-learning]] — Razlikovanje dobitaka u uspjehu od učenja
-- [[ai-assessment-scale-reform]] — Skala procjene s umjetnom inteligencijom i reforma procjene
-- [[critical-thinking-genai-scaffolding]] — Postupno podupiranje kritičkog mišljenja generativnom umjetnom inteligencijom
-- [[aaai2026-prompting-literacy-k12]] — Učenje upotrebe umjetne inteligencije za učenje (modul pismenosti o umjetnoj inteligenciji za K-12)
-- [[genai-declaration-frameworks-higher-education]] — Strukturiranje transparentnosti: okviri izjava o generativnoj umjetnoj inteligenciji
-- [[absent-cognitive-baseline-2026]] — Odsutna kognitivna osnovica
-- [[ai-literacy-power-knowledge]] — Pismenost o umjetnoj inteligenciji: vježba u znanju i moći
-- [[contextual-sycophancy-ai-literacy]] — Skriveni trošak kontekstualnog podlizivanja: intervencija u pismenosti o umjetnoj inteligenciji
-- [[sycophantic-ai-social-interaction-2026]] — Podliziva umjetna inteligencija čini ljudsku interakciju s vremenom napornijom i manje zadovoljavajućom
-- [[ssaho-ai-academic-integrity-review-2025]] — Izgradnja kulture i preoblikovanje procjene umjesto nadzora putem otkrivanja
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Kognitivna predaja, produktivno trenje i metakognitivna nejednakost
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Promišljanje usmenih ispita kao autentične procjene otporne na umjetnu inteligenciju
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Kazna za učenje od generativne umjetne inteligencije: prenošenje domaće zadaće šteti učenju
-- [[ai-overreliance-complex-adaptive-system-2026]] — Pretjerano oslanjanje na umjetnu inteligenciju modelirano kao složeni prilagodljivi sustav
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Uklanjanje ograda uklonilo je štetu bez poboljšanja ocjena na ispitu
-- [[munoz-misconduct-allegation-evidence-2026]] — Što spisi o optužbama za nedolično ponašanje doista sadrže kao dokaz
-- [[wright-transcription-not-generation-2026]] — Preširoka pravila o umjetnoj inteligenciji i učenici koje zahvaćaju
-- [[sharma-judgment-visible-genai-assessment-2026]] — Čestitost kao procjenjivačka prosudba, a ne usklađenost
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Učenici o tome je li generativna umjetna inteligencija alat za varanje ili partner u učenju
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Što daljinski nadzor ispita čini učenicima i jednakosti
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Prevencija situacijskog kriminala protiv varanja uz pomoć umjetne inteligencije: sa 183 na 27 slučajeva i pet disciplinski specifičnih preoblikovanja (Leaton Gray, Edsall i Parapadakis 2025.)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Što preporučuje 38 studija o glasovima učenika: suoblikovana jasnoća i obrazovno rasuđivanje umjesto otkrivanja (Ji 2026.)
-- [[li-genai-assessment-language-equity-2026]] — Gdje jezična potpora prestaje, a zamjena počinje za pisce koji engleski uče kao dodatni jezik (Li 2026.)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Ubacivanje poticaja kao put zloupotrebe protiv ocjenjivanja umjetnom inteligencijom (Humble 2026.)
-- [[coates-governing-academic-integrity-indicators-2025]] — Upravljanje kao obvezujuće ograničenje čestitosti: okvir od 130 pokazatelja (Coates, Croucher i Calderon 2025.)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Odgovorna upotreba generativne umjetne inteligencije studenata u akademskom pisanju: pregled opsega granica, obrazovnih pristupa i praznina u dokazima
-- [[guo-overreliance-genai-feedback-2026]] — Kognitivno opterećenje vodi preko rasterećenja u pretjerano oslanjanje, a praćenje mijenja put

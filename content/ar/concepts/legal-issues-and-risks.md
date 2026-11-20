@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -98,44 +100,3 @@ ai_assist:
 **«الكشف يوفّر الدليل الذي تحتاجه الإجراءات.»** الكشف يوفّر درجة. والمسألة الإثباتية هي هل يمكن إثبات الاتهام أصلًا، و[[ai-detection|أدبيات الكشف]] تُظهر أن الأدوات لا تنتج الموثوقية ولا الفئة القابلة للتأويل التي تتطلبها عملية تأديبية. فبناء الإجراء على كاشف يبنيه على أضعف حلقة.
 
 **«المخاطر افتراضية، والسياسة ستلحق بالركب.»** المخاطر تُوزَّع الآن على نحو غير متساوٍ، والطلاب الذين يستوعبونها هم الأقل قدرة على الطعن في إجراء. فعدم التماثل بين قدرة المؤسسة على التحقيق وقدرة الطالب على الرد ضرر حاضر لا مستقبلي.
-
-
-## المفاهيم المرتبطة
-
-- [[academic-integrity]] — إطار السلوك الذي يحمل تنفيذه الخطر
-- [[ai-detection]] — الأداة في مركز قضايا الاتهام الباطل
-- [[remote-proctoring]] — الرقابة في التقويم وأسئلة حماية البيانات الخاصة بها
-- [[assessment-validity]] — ما إذا كان الدليل يستطيع إثبات الادعاء المُستنبط منه
-- [[privacy]] — جمع بيانات الطلاب والاحتفاظ بها ومعالجتها لاحقاً
-- [[regulation]] — الالتزامات القانونية والتنظيمية التي يجب على المؤسسات الوفاء بها
-- [[governance]] — تصميم السياسات الداخلية واتساق التنفيذ
-- [[educational-policy-ai]] — سياسة الذكاء الاصطناعي المؤسسية كمصدر للتعرّض غير المقصود
-- [[ai-use-disclosure]] — توقعات الإفصاح وحدودها غير القابلة للتنفيذ
-- [[accessibility]] — التعديل المعقول حيث تُزيل قاعدة أداة معينة
-- [[assistive-technology]] — الأدوات في مركز مشكلة التوسّع المفرط
-- [[neurodiversity]] — الطلاب الأكثر تعرّضاً للحظور الواسعة المفرطة في نطاقها
-- [[equity-in-ai-education]] — العبء التفاضلي للكشف والرقابة
-- [[student-experience]] — الثمن البشري الذي يسبق الثمن القانوني
-- [[hallucination-risk]] — السلطة المُختلقة كمسؤولية مهنية ومؤسسية
-- [[reducing-ai-misuse]] — البديل الوقائي للاتهام
-
-## المقالات المرتبطة
-
-- [[munoz-misconduct-allegation-evidence-2026]] — ما تحتويه فعلاً ملفات اتهام المخالفات، ومتطلب العدالة الطبيعية
-- [[hadra-ai-detector-accuracy-efl-2026]] — دقة الكاشف، وفشل النص الهجين، وخطر التصنيف الخطأ لمتعلمي الإنجليزية كلغة أجنبية
-- [[van-vlasselaer-ai-detector-reliability-2026]] — موثوقية أدوات الكشف عبر مجموعة ثانية
-- [[bassett-ai-detectors-education-2026]] — Why no detection threshold can be right: the error-tradeoff argument
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Misconduct procedures reassessed when evidence has become undetectable
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules, disability accommodation and reasonable adjustment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring mapped, with privacy and surveillance concerns
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring research
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and proctoring in the AI era
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Policy clarity as a precondition for defensible enforcement
-- [[qian-governing-genai-higher-ed-policy-2026]] — Policy and support ecosystems across innovative US universities
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Expert consensus on fragmented governance
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity through visible judgment rather than surveillance
-- [[shin-ai-policies-sld-2026]] — The policy void for students with specific learning disabilities
-- [[li-genai-assessment-language-equity-2026]] — Language equity as a rule-design problem: the support–substitution boundary, indirect discrimination and reviewability (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Students attacking AI graders by indirect prompt injection, with grades changed undetected (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Governance indicators and reform program for authenticating assessment (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty: individual policies far outrun institutional ones, structural response thin (Watson & Rainie 2026)

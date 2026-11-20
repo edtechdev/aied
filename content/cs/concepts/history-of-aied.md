@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -97,29 +99,3 @@ Nástup [[generative-ai|generativní AI]] — široké rodiny zahrnující [[llm
 
 - Používejte historické korpusy jako výchozí bod, místo abyste přítomnost pokládali za jediné dostupné srovnání. Sborníky AIED z let 1985, 1993, 2021 a 2024 a IJAIED z let 2004, 2014 a 2021 jsou hotovým longitudinálním vzorkem vlastních tvrzení oboru.
 - Když tvrdíte novost, citujte linii. Tvrzení, že systém „personalizuje učení" nebo „modeluje studujícího", je nové jen ve vztahu ke konkrétní předchozí tradici, a tato tradice je zdokumentovaná.
-
-## Související koncepty
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Související články
-
-- [[mishra-control-vs-agency-history-2025]] — Kontrola versus agenturnost: zkoumání historie AI ve vzdělávání
-- [[prezenski-human-centered-ai-aided-learning]] — Učení s podporou AI zaměřené na člověka (navazuje na Andersonův odkaz)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitivní společenství a odbornost v AI (historické rámování)
-- [[programming-its]] — Programování inteligentních tutorovacích systémů
-- [[lak2026-hint-button-unproductive-use]] — Znovu k tlačítku nápovědy v kognitivních tutorech
-- [[socrates-students-instructors-llms-lbt-2025]] — Učení vyučováním s LLM (linie Papertova konstrukcionismu)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Padesát let témat *Computers & Education*: výskyt AI se obrátil vzhůru po roce 2018, čtyři roky před ChatGPT

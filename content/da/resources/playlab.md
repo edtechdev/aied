@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -39,7 +40,3 @@ K-12-lærere og distrikter, der vil have klassekontroller og pensumforankring ud
 
 ## Noter
 Adgang til builderen er gated: get-started-siden beder om en e-mailadresse og en plads i en onboarding-workshop eller en invitationskode. Dets compliancepåstande (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), løftet om at dit arbejde aldrig træner eksterne modeller og tildelingen af outputrettigheder til skaberen hører hjemme i databehandleraftalen, ikke kun på marketingsiden; dets kapabilitetssammenligning med MagicSchool og de store chatbots er Playlabs egen og dateret midten af 2026. Det voksede ud af end-user-programmeringsarbejde knyttet til Scratch og MIT Media Lab.
-
-## Relaterede begreper
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

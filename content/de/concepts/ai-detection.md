@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -141,55 +143,3 @@ Die konstruktive Frage verschiebt sich von „wie verhindern wir, dass Studieren
 **„Die Frage, die ein Detektor beantwortet, ist, ob Schreiben menschlich oder KI ist."** Diese Binärität ist begrifflich unhaltbar statt bloß schwer zu berechnen. Schreibassistenz liegt auf einem Kontinuum, die Politik der meisten Institutionen erlaubt einen Teil davon, und kein Schwellenwert auf einem Ausgabewert bildet eine verteidigbare Grenze ab. Das gemessene Versagen ist ein Politikversagen: die Kategorien, die Detektoren versprechen, existieren in der Arbeit, die Studierende tatsächlich einreichen, nicht.
 
 **„Ein Erkennungsregime schützt Integrität."** Es kann sie untergraben. Erkennung fördert ein Klima des Verdachts, das [[trust|Vertrauen]] zwischen Studierenden und Personal erodiert, und die [[academic-integrity|Integrität]]-Literatur, die dieser Korpus berichtet, verortet die dauerhaften Hebel in der Neugestaltung des Assessments statt in der Überwachung. Der Mechanismus des Wettrüstens bedeutet zudem, dass das Regime fortlaufend mehr kostet, während es weniger misst: die Basis-Markierungsraten reichten über Bearbeitungsintensitäten hinweg von **0,0 % bis 100,0 %**, was kein Diskriminationssignal ist.
-
-## Verbundene Konzepte
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Verbundene Artikel
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 Humanizer-Websites, die Legitimität inszenieren: Erkennung und Umgehung als ein einziger kommerzieller Markt (Roe et al. 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Eine Hypothese, der zufolge die Durchsetzung nach akademischem Kapital filtert, nicht nach Verhalten
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Acht LLMs bringen sechs Maßnahmen gegen Täuschungsversuche in eine Rangfolge; KI-Erkennung landet auf dem letzten Platz
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Zwanzig Korrektoren über Intuition, tote Detektoren und fabrizierte Literaturangaben
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Befragung von US-Lehrkräften und Schulleitungen zur Abdeckung durch AI-Richtlinien, zu Handlungsspielräumen und zu fünf Unterrichtsstrategien (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation im Zeitalter der AI
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detektor zur Wiederherstellung latenter Prompts
-- [[ivory-psychology-assessment-integrity-2026]] — Erkennung ist der falsche Hebel: Die Bestehensgrenze entschied darüber, ob KI-gestützte Arbeiten als Leistung bewertet wurden (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Evaluierung von LLMs zur Erkennung LLM-generierter Inhalte
-- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: Authentische Leistungsbewertung
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolle Leistungsbeurteilung im AI-Zeitalter
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integrität der Koautorschaft und Validität der Leistungsbeurteilung
-- [[student-rationalization-ai-writing]] — Rationalisierung des KI-gestützten Schreibens durch Studierende
-- [[socially-fluent-ai-identity-detection]] — Erkennung der Identität sozial gewandter KI
-- [[ssaho-ai-academic-integrity-review-2025]] — Review zur Zuverlässigkeit KI-basierter Plagiats-/KI-Inhaltserkennung
-- [[bassett-ai-detectors-education-2026]] — Kopf gewinne ich, Zahl verlierst du: KI-Detektoren im Bildungswesen (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Warum Detektorergebnisse eine Feststellung von Fehlverhalten nicht begründen können
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Trennschärfe statt Aufdeckungsquote, und wann Überwachung nach hinten losgeht
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin und Originality bei 192 Texten: beide unter einem Makro-F1 von 0,55 und bei hybrid verfassten Texten nahezu unbrauchbar
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Vier Detektoren im Test gegen 160 Papers mit gesicherter Ground Truth; nur Pangram lieferte brauchbare Ergebnisse, markierte jedoch 45,5 % der real eingereichten Abschlussarbeiten
-- [[munoz-misconduct-allegation-evidence-2026]] — Detektorergebnisse sind der am schwächsten bewertete Evidenztyp in 1.162 realen Fallakten zu Fehlverhalten
-- [[wright-transcription-not-generation-2026]] — Pauschale Regeln zur „AI-Nutzung“ setzen Transkription mit Generierung gleich
-- [[sharma-judgment-visible-genai-assessment-2026]] — Detektion zu einer ergänzenden Ebene hinter sichtbarer Urteilsbildung herabgestuft
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Erkennung als bedingtes Signal und warum Sicherheitsmaßnahmen konstruktirrelevante Varianz hinzufügen (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Bewerbungsaufsätze sind weit verbreitet, werden aber sanktioniert
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Neun interpretierbare stilometrische Merkmale: ROC-AUC 0,870, aber vier von 18 eigenständig verfassten Dokumenten wurden als auffällig markiert (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Ein menschlich verfasstes Manuskript, fünf Detektoren, Klassifikationen von „0% human“ bis „Human Generated“, dazu der dokumentierte institutionelle Rückzug aus der Detektion (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Akademische Integrität im Zeitalter generativer KI
-- [[student-llm-code-detection-cs1-2026]] — LLM-Code konvergiert bei stark eingeschränkten Aufgaben (1–14 AST-Formen pro 1.000 Dateien), nicht jedoch bei freien Aufgaben — die Erkennbarkeit folgt dem Aufgabendesign
-- [[kazakh-ai-text-detectors-2026]] — Ungeprüft oder fälschlich beschuldigt? Evaluation von Detektoren für KI-generierte Texte im Kasachischen
-- [[making-ai-work-for-students-ofs-2026]] — OfS und Advance HE (2026): 244 Mitarbeitende und 91 Studierende an 127 Hochschulen zu Erkennung, Prüfungsdesign, KI-Kompetenz und Strategie

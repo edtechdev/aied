@@ -30,9 +30,8 @@ ai_assist:
 translation_of: concepts/ai-assisted-educational-research
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
-
-
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -113,7 +112,6 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] מספקים את הפירוק הישיר הראשון של קידוד דדוקטיבי ב-LLM מול אדם, בהנחיית ארבעה מודלים על פני 240 תאי עיצוב, 8,040 שורות נתונים ו-60,060 הנחיות במאמרי מושגי-תאוריה. זהות המודל שלטה בשונות: אטא-בריבוע חלקי 0.19 בשונות המתאם ו-F = 578.36 במודל ההטיה, בעוד סוג ההנחיה לא היה מובהק. האיכות התפצלה מהמחיר — Claude Sonnet 4 רשם את לוגיט שגיאת המודל הנמוך ביותר (-1.90) לעומת -1.05 של GPT-4.1 Mini, ו-Gemini 2.5 Pro עלה 178.13 דולר ובכל זאת נפל מ-GPT-4.1 Full ב-56.77 דולר.
 
 [[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]] ממפים באופן שיטתי את הסכמת הקידוד ברמת המבנה, בהריצם שמונה קונפיגורציות של ChatGPT-4o מול שני מקודדים אנושיים מאומנים על פני חמישה מבנים בשיחות סטודנטים עם [[pedagogical-agent|סוכן פדגוגי]]. קאפה של עקביות-עצמית נעה 0.865–0.890 בין הקונפיגורציות, בעוד קאפה בין אדם ל-LLM השתרעה רק 0.000–0.419, כך שעקביות בלי הלימה אנושית היא אות אבחוני שמסמן את האופרציונליזציה של המבנה — את המכשיר, לא את המודל.
-
 
 ## ניתוח נתונים והמהלכים האפיסטמיים
 
@@ -214,48 +212,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## מושגים קשורים
-
-- [[research-methods-aied]] — המטרייה למבנים המשמשים לחקר AI בחינוך
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## מאמרים קשורים
-
-- [[ai-methodologies-science-education-research-2026]] — a seven-phase reflective framework for how AI methodologies may transform science education research (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — one interdisciplinary review team's account of mentoring and selective AI integration (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — how 28 postgraduate students used GenAI across the research workflow, and the guidelines they suggest (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — a field-scale audit of fabricated references in the computing-education literature (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — a reporting framework for AI-assisted systematic reviews, and the accountability gap it documents (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — a CHIIR 2026 workshop report on generative AI and academic search (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — a single-investigator case study of a persistent agent in a research workspace (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — bibliometric evidence that AI-assisted writing accompanies smaller, younger research teams (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — a 30-day benchmark that evaluates tutor agents against a simulated learner (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that reproduces genuine novice struggle (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — why simulators abandon a misconception under any feedback, and how training fixes it (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — a pre-registered audit that uses a fixed simulated learner to test whether helpfulness measures pedagogy (Fan et al., 2026)
-

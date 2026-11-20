@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -39,8 +40,3 @@ ai_assist:
 ## 适用对象
 
 面向希望内容在更换工具后仍然存续的教学设计者和课程创作者；面向希望提供用户已经理解的导入导出格式的 eLearning 厂商；以及任何在可读格式之上构建 AI 辅助编写能力的人。贡献者包括 LXD Integral 的 Dan Bashaw，该格式有公开的更新日志，目前已到 v1.8。
-
-## 关联概念
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

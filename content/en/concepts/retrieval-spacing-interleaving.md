@@ -12,6 +12,8 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 > **Retrieval, spacing and interleaving** — the three concrete study techniques that make practice effortful and, as a result, make what is learned durable. Retrieval practice asks the learner to produce an answer from memory rather than recognize one; spacing distributes that practice across time instead of massing it into one session; interleaving mixes problem types instead of blocking them. What unites them is a shared signature: each lowers performance *during* practice while raising retention *after* it — the [[transfer-of-learning|performance–learning gap]] in operational form. They are the workhorses of [[cognitive-psychology|cognitive psychology]], and in [[ai-education|AI-supported learning]] they are the specific behaviors that [[generative-ai|generative AI]] most easily erases, because an [[llm|LLM]] that answers on demand removes the retrieval, flattens the schedule, and smooths away the mixing. These are the concrete techniques. The principle behind them, Bjork's effort-learning trade-off and why harder practice produces more durable learning, is treated on [[desirable-difficulties|desirable difficulties]]; each technique differs in what its studies measured and in how AI implements or undermines it.
@@ -93,36 +95,3 @@ Interleaving rests on the same theoretical family as the other two techniques an
 **"Retrieval practice means quizzing, and any quizzing counts."** The mechanism is producing an answer from memory rather than recognising one, which is why a multiple-choice recognition task is a weaker version of the same activity. An AI that generates endless recognition items has generated activity of the right name and the wrong mechanism.
 
 **"AI can faithfully deliver these techniques, since they are well specified."** It can also quietly defeat them. Spacing requires the system to withhold the material it is most able to supply on demand, and retrieval requires it not to answer — so the technique's effectiveness depends on constraints an agreeable assistant has no incentive to impose.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Spaced retrieval sequences, and the retention cost of assisting during encoding
-- [[desirable-difficulties]] — the principle these three techniques operationalize
-- [[cognitive-psychology]] — memory, encoding and retrieval as the theoretical home of all three
-- [[prior-knowledge]] — retrieval practice as activation of what the learner already holds
-- [[metacognition]] — judging whether fluency reflects learning
-- [[self-regulated-learning]] — studying consistently what an AI can schedule or answer for you
-- [[mastery-learning]] — retention after the mastery threshold, and the spacing that sustains it
-- [[knowledge-tracing]] — the models that make or miss scheduling decisions
-- [[cognitive-offloading]] — the failure mode when retrieval is delegated to a tool
-- [[transfer-of-learning]] — the performance–learning gap the techniques address
-- [[formative-assessment]] — closed-tool checkpoints as retrieval events
-- [[productive-failure]] — attempting before receiving help
-- [[learners]] — the stakes of durable rather than fluent learning
-
-## Connected Articles
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: adaptive spaced retrieval vs fixed retrieval vs learner-directed AI over seven weeks
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 scheduling and a taxonomy of grounded flashcard interactions
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: explanation depth predicts task quality but not immediate recall
-- [[rachatasumrit-example-problem-ratio-2026]] — Retrieval practice for facts, worked examples for skills; the content–treatment interaction
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge-tracing models fail to capture the spacing effect under time-based validation
-- [[bilingual-llm-lecture-companion-srl-2026]] — Automatic flashcard generation removing the authoring cost of spaced practice
-- [[student-cheat-sheets-make-or-take]] — Constructing a cheat sheet as generative study; offloading the construction with AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation surfacing gaps clarification did not
-- [[simulating-learner-task-selection]] — Interleaving and Blocking as modeled learner strategies under task-selection constraints
-- [[nie-personavlm-long-term-personalization-2026]] — Longitudinal student memory and its open relation to spaced repetition and forgetting curves
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Retrieval practice in the Tools layer of a learning-to-learn framework
-- [[agentic-ai-pedagogical-best-practice-2026]] — Pre-fetching agents bypass retrieval practice; the case for intentional friction
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT-generated prequestions improve memory and text comprehension

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -80,35 +82,3 @@ AI 교육에서의 변화 관리는 긍정적·부정적 시사점을 함께 지
 - **"전략적 의도가 역량을 만듭니다."** **기관의 7%만이** 고위 AI 리더십 직책을 만들었습니다. **49%가 AI를 전략적 우선순위로 보는데도** 그렇습니다. 간극은 선언과 구조 사이에 있으며, 이것이 AI 변화 관리에서 되풀이되는 실패입니다.
 - **"AI 도구 도입은 하나의 사건입니다."** **지속가능성은 도구가 아니라 조직의 속성입니다**: 캘리포니아 주립대학교 노스리지에서 비생성형 AI 문자 메시징 챗봇에 대한 4년의 무작위 평가가 그 시간 규모를 보여 줍니다. 평가가 4년간 진행된 것은 내구성이 바로 시험해야 할 것이었기 때문입니다.
 - **"기관은 예측하기보다 더 빨리 대응해야 합니다."** **선제적 리더십**은 상호 보완적인 흐름입니다. [[baroudi-anticipatory-governance-ai-higher-ed-2026|범위 검토]]는 기관이 **사후 대응에서 선견** 기반 거버넌스로 전환해야 한다고 발견합니다. 이미 도착한 기술에 유능하게 대응하는 것이 증거가 실패로 기록하는 일입니다.
-
-## 연결된 개념
-
-- [[governance]] — 변화 관리가 작동하게 하는 정책과 감독 구조
-- [[educational-policy-ai]] — 변화 관리가 실천으로 옮겨야 하는 국가 및 기관 차원의 AI 정책 의도
-- [[educational-development]] — AI 통합을 위한 교수진 역량과 교수법적 지향의 구축
-- [[administrator]] — 변화 주체로서의 리더십과 선제적 거버넌스
-- [[ai-literacy]] — 책임 있는 기관 도입을 떠받치는 횡단적 역량
-- [[equity-in-ai-education]] — 변화의 이익이 기관과 학습자에 걸쳐 고르게 돌아가도록 보장하기
-- [[technology-acceptance-model]] — 변화가 어떻게 퍼지는지를 설명하는 도입의 동인
-- [[academic-integrity]] — 평가 개혁이 조직되는 중심적 규제적 닻
-- [[student-support-and-success]] — 파일럿 이후에도 지원 프로그램을 지속하기
-
-## 연결된 문서
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — AI 지원 학생 지원의 지속: 기관 챗봇에 대한 4년의 이행과 영향 연구(Mata, Russell & Page 2026)
-- [[institutional-change-framework-ai]] — AI를 도착 기술에 맞춰 기관 변화 모형을 적응시키는 여섯 차원 체계
-- [[leveraging-complex-systems-leading-for-transformative-change]] — 변혁적 변화를 위한 SPARK 체계와 복잡계 리더십
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 여덟 영역의 생성형 AI 거버넌스에 대한 글로벌 델파이 합의
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — 선제적 거버넌스와 리더십에 대한 범위 검토
-- [[ai-adaptation-gap-higher-education-2026]] — 학생, 교수진, 직원에 걸친 AI 사용, 태도, 신뢰의 이해관계자 격차
-- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육에서의 국가 정책 의도 대 기관 역량
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — AI 도입의 조직적·기술적 동인
-- [[adarkwah-genai-unesco-policy-2026]] — 기관 생성형 AI 정책에 대한 UNESCO 체계 분석
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — 생성형 AI 시대에 연구 집약적 모형을 향한 인문대학의 디지털 변혁(Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 인프라 부족 속에서 기관 AI 전략을 구체적 실천으로 옮기는 디지털 중재자
-- [[computing-assessment-genai-workshop-report-2026]] — "AI가 여러분의 숙제를 할 수 있습니다. 이제 무엇을 할까요?" 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 이행과 교사의 행동이 AI 제품이 도움이 되는지를 결정하는지에 관한 교차 시스템 현장 조사
-- [[dot-framework-survey-2026]] — 전문성 개발이 도구 사용만이 아니라 전체 설계 주기를 다뤄야 함을 보여 주는 조사 증거
-- [[flipped-classroom-ai-assessment-math-2026]] — 학부 수학에서 개별적 이니셔티브에서 중앙 자금 지원으로의 10년에 걸친 확산 궤적(Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — AI 통합 과정 재설계에 과정당 15~20시간이 드는 비용과 성인 학습자를 위한 사고 파트너 체계 (Packard 외 2026)
-- [[ding-genai-colleague-teacher-depletion-2026]] — 디자인 교사 436명: 생성형 AI 사용은 자기효능감과 AI 불안을 모두 높이며, 조직 지원이 어느 경로가 지배할지를 결정한다(Ding et al., 2026)

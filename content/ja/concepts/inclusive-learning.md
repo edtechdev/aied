@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -100,49 +102,3 @@ ai_assist:
 **「苦労している学生は、もっと上手にプロンプトを打てばよい。」** それはシステムの欠陥を学習者の欠陥に転換します。基礎となる課題を固定したままで、モデルの精度は**読み書き能力の低い言い回しで82.4%、専門家の言い回しで83.4%**に上がっただけであり、1ポイントの差でした。一方で、より良い[[prompt-engineering|プロンプト]]を求めることは既存の排除の上に新たな排除を加えます。てこの作用点は、言語の変異を扱うシステム側にあり、矯正的なプロンプト訓練ではありません。
 
 **「十分な資源のある教室向けに作られたツールは、翻訳すれば資源の乏しい文脈でも機能する。」** 文脈は設計の制約を変えます。[[suacode-african-students-motivations|SuaCode]]は、**コーディング技能を持つ人が1%未満**であるアフリカの資源の乏しい文脈の学生に、デスクトップの実験室用マシンではなくスマートフォン向けに作ることで届きました。それは同じものの小型版ではなく、別の設計です。
-
-## 関連概念
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — 具体的なアクセスの層(字幕、代替テキスト、支援技術との互換性)
-- [[assistive-technology]] — 学生が内容にアクセスするために使うツールの層
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## 関連記事
-- [[prompt-privilege-equitable-ai-access-2026]] — プロンプトの特権: LLMへのアクセスの格差の測定と緩和
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — ろう者および難聴の学習者のためのLLMによる問題生成
-- [[text-simplification-its]] — 知的な個別指導のためのテキスト平易化
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: 視覚障害のある子どものための音声優先のコンパニオン
-- [[tactile-statistical-graphs-accessibility]] — 触覚的な3D印刷の統計グラフ
-- [[pepper-robot-sign-language-lis-2025]] — 手話によるコミュニケーションを支えるPepperロボット
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — GeminiとLuaLaTeXによる数学にアクセシブルな物理学動画の書き起こし
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 視覚障害のある学習者のための支援的な生成AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、バーチャルリアリティ、そしてその先へ: 高等教育における神経多様性のある学生のためのデジタル支援技術に関するスコーピングレビュー

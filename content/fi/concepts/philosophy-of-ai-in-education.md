@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -89,35 +91,3 @@ Tekoälyn filosofia koulutuksessa ja [[theory-development-aied|teorian kehittäm
 
 - Kerro se oppimiskäsitys, jonka arviointisi olettaa, koska mitattu parannus on koulutuksellinen hyvä vain suhteessa johonkin käsitykseen siitä, mitä koulutus on varten.
 - Rahoita filosofista työtä empiirisen työn rinnalla: kysymykset siitä, mikä lasketaan oppijan saavutukseksi, asettavat ne onnistumiskriteerit, joita empiiriset tutkimukset sitten käyttävät.
-
-## Liittyvät käsitteet
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Kemianopetus ja tekoäly: laboratoriot, formatiivinen arviointi, LLM:ien rajat, kokeilun filosofia
-
-## Liittyvät artikkelit
-
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI kiinalaisessa korkeakoulutuksessa: rehellisyys ja sitoutuminen
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble-kognitio: filosofinen viitekehys ihmisen ja tekoälyn kognitiolle
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagoginen symbioosi ja posthumanistinen oppija
-- [[videla-embodied-ai-education-choreography]] — Kehollinen, postkognitivistinen kritiikki kehottomasta tekoälystä koulutuksessa
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Tulkitsevan kognition kehityskriittinen malli humanistisissa tieteissä
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Episteeminen yhteistoimijuus koneiden kanssa oppimisen filosofiana
-- [[avraamidou-ai-colonization-science-education]] — Kriittisfeministinen filosofia, joka kyseenalaistaa koulutuksen tekoälykolonisaation
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generatiivinen tekoäly medioivana agenttina
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI:n ekologinen oppimistieteellinen kehystys
-- [[philosophy-experimentation-ai-chemistry-2026]] — Kokeilun filosofia kemiassa tekoälyn kanssa
-- [[strydom-human-gai-paradigms-2026]] — Ihmisen ja tekoälyn dynamiikan kehystäminen: seitsemän GAI-sitoutumisparadigmaa (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Vaihtoehtoinen tekoälyfilosofia: daoismi menetelmänä tekoälylle koulutuksessa
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kuka toimii, kuka tietää, kuka vastaa? Korpusavusteinen diskurssianalyysi toimijuudesta, episteemisestä vastuusta ja vastuuvelvollisuudesta generatiivisen tekoälyn korkeakoulututkimuksessa
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — "Ihmiskeskeinen" AIED antroposentrisenä diskurssina, jolla on kaupallisia käyttötarkoituksia (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Voivatko koneet tehdä emotionaalista työtä? Vuosien 1950–1996 väittely ja miksi jäljittely alimäärää välittämisen

@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -41,6 +42,3 @@ translation_note: "Автоматический перевод данной ан
 ## Что знать перед использованием
 
 Книга находится в открытом доступе под лицензией CC BY, что представляет собой разрешительный конец спектра для учебных материалов: преподаватели могут копировать, адаптировать и использовать [[prompt-engineering|промпты]], в том числе в коммерческих целях, при условии корректного указания авторства. Это делает несложной адаптацию промпта для конкретного курса или конфигурации [[pedagogical-agent|агента]], чего не позволяют более ограничительные лицензии на похожие сборники. Книга издана на EdTech Books в 2026 году, есть загрузка в формате PDF и DOI 10.59668/2340; редактор — David Wiley. Поскольку в каждой главе сообщается и план оценивания, и результат, книга также служит образцом для преподавателей, которые хотят тестировать собственные промпты, вместо того чтобы принимать на веру чужое суждение.
-
-## Связанные концепции
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

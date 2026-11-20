@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -189,60 +191,3 @@ AI trong giáo dục kết nối với mọi khái niệm trong cơ sở kiến 
 **"Vì AI là đa dụng, một phát hiện ở bất kỳ đâu đều áp dụng ở mọi nơi."** Tính phổ quát của công nghệ không tạo ra tính phổ quát của bằng chứng. Các nhánh ngành học, cấp độ và bối cảnh tồn tại vì cùng một công cụ hành xử khác nhau giữa chúng, và một phát hiện không đổi được mang qua ranh giới là một sự ngoại suy.
 
 **"Độ chín của lĩnh vực có thể đọc được từ khối lượng xuất bản."** Khối lượng và độ chín tách rời nhau; nhánh phương pháp nghiên cứu ghi nhận những điểm yếu thiết kế lặp lại mà khối lượng không khắc phục được, và các khung lý thuyết sinh sôi nhanh hơn tốc độ chúng được kiểm chứng.
-
-## Khái niệm liên quan
-- [[primary-education]] — AI trong giáo dục tiểu học
-- [[secondary-education]] — AI trong trung học cơ sở và trung học phổ thông
-- [[undergraduate-education]] — AI trong bậc đại học
-- [[graduate-education]] — AI trong bậc thạc sĩ và tiến sĩ
-- [[pedagogical-patterns]] — Những chuỗi đã được thử nghiệm vận hành hóa các phương pháp sư phạm của lĩnh vực
-- [[ai-literacy]] — ôm trùm: hiểu, sử dụng và đánh giá AI
-
-- [[automation-bias]] — thất bại phía người đọc: chấp nhận một phán đoán tự động mà không kiểm chứng nó
-- [[human-ai-collaboration]] — ôm trùm: cách con người và AI làm việc cùng nhau
-- [[pedagogy]] — ôm trùm: các phương pháp và chiến lược giảng dạy
-
-- [[case-based-learning]] — Phương pháp tình huống, thảo luận tình huống và các tình huống đối chiếu
-- [[metaphors-and-analogies]] — Ẩn dụ định hình sự hiểu biết về AI như thế nào và phép loại suy hỗ trợ giảng dạy ra sao
-- [[learning-theories]] — ôm trùm: việc học diễn ra như thế nào
-- [[ai-technologies]] — ôm trùm: các mô hình, kỹ thuật và hệ thống
-- [[discipline-specific-aied]] — ôm trùm: AI xuyên suốt các lĩnh vực môn học và cấp độ
-- [[assessment]] — ôm trùm: AI đánh giá người học và định hình lại tính hợp lệ như thế nào
-- [[feedback]] — ôm trùm: phản hồi được tạo ra, chuyển giao và sử dụng như thế nào
-- [[stakeholders]] — ôm trùm: những tác nhân là ai
-- [[learners]] — ôm trùm: các khái niệm phía người học (trải nghiệm, bản sắc, quyền chủ động, tương tác, mô hình người học)
-- [[ai-ed-evaluation]] — ôm trùm: cách chúng ta biết AI có hiệu quả hay không
-- [[research-methods-aied]] — ôm trùm: các phương pháp nghiên cứu hiệu quả
-- [[ai-assisted-educational-research]] — Nghiên cứu Giáo dục có Hỗ trợ AI
-- [[governance]] — ôm trùm: lớp thể chế và quy định
-- [[educational-policy-ai]] — ôm trùm: chính sách, hướng dẫn và triển khai
-- [[equity-in-ai-education]] — ôm trùm: công bằng, tiếp cận và hòa nhập
-- [[learning-sciences]] — lĩnh vực thực nghiệm đứng sau AIED
-- [[ethics]] — các chiều đạo đức của AI trong giáo dục
-- [[misconceptions]] — các mô hình tinh thần mà mọi người mang đến AI
-- [[interpreting-and-applying-aied-research]] — đọc một nghiên cứu, và đưa một phát hiện vào thực tiễn
-- [[limitations-in-aied-research]] — các giới hạn xuyên suốt của nền tảng bằng chứng
-- [[meta-analysis-systematic-review]] — điều mà các tổng quan và phân tích tổng hợp xác lập
-- [[history-of-aied]] — lĩnh vực đã tiến hóa như thế nào
-- [[philosophy-of-ai-in-education]] — các nền tảng triết học
-- [[theories-and-frameworks]] — bản đồ các nút lý thuyết và khuôn khổ
-- [[theory-development-aied]] — xây dựng và sửa đổi lý thuyết
-
-- [[sensor-and-gaze-analytics]] — ôm trùm: cảm nhận người học qua giác mắt, EEG và các tín hiệu thiết bị đeo
-- [[ai-avatars-and-synthetic-instructors]] — ôm trùm: con người tổng hợp giảng dạy, làm gia sư, mô phỏng và hỗ trợ
-- [[civic-and-political-education]] — lĩnh vực môn học: năng lực cho đời sống công cộng, với một nền tảng bằng chứng mỏng
-
-## Bài viết liên quan
-
-Các tổng quan toàn lĩnh vực về AI trong giáo dục — những nghiên cứu khảo sát toàn bộ lĩnh vực hay toàn bộ một cấp độ giáo dục thay vì một chủ đề:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Sự tiến hóa của nghiên cứu AI-và-giáo dục qua bốn thập kỷ (khuôn khổ AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kiểm soát đối đầu quyền chủ động: một lịch sử của AI trong giáo dục
-- [[genai-higher-education-systematic-review-2026]] — AI sinh tạo trong giáo dục đại học: tổng quan hệ thống 125 nghiên cứu
-- [[stanford-evidence-base-ai-k12-2026]] — Nền tảng bằng chứng về AI ở K-12: 52 nghiên cứu nhân quả mạnh được rút ra từ 1,686 bài trong kho (cập nhật tháng 11 năm 2026)
-- [[genai-educational-outcomes-meta-analysis]] — AI sinh tạo và kết quả giáo dục: phân tích tổng hợp toàn diện
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 nghiên cứu trung học; mức tăng đến ở nơi sinh viên phán đoán đầu ra, không phải nơi công cụ tạo ra bài làm
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 học viên thạc sĩ; sự sẵn sàng đạt tới tự hiệu quả qua hỗ trợ của người hướng dẫn
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Tổng quan 61 nguồn về đạo đức, phản hồi và quản trị trong hướng dẫn luận án tiến sĩ
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar sau đại học một nhóm; mức tăng học tập tự điều hướng mà không có bài kiểm tra không hỗ trợ
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 sinh viên; khoảng cách đại học–sau đại học về đạo đức và tự điều chỉnh

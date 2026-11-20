@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -164,45 +166,3 @@ ai_assist:
 - **«[[automated-assessment|Автоматическое оценивание]] решает проблему масштаба».** Классификаторы достигают примерно 70% по уровню рефлексии в хорошо размеченном корпусе с сильным дисбалансом классов, и этот потолок достижим для правдоподобного текста.
 - **«Портфолио рефлексивны по своей природе».** Контейнер — не действие; портфолио, собранное из отполированных продуктов, может не содержать рефлексии вовсе.
 - **«Рефлексии не нужно учить».** И венгерский корпус эссе, и эксперимент с будущими преподавателями предполагают, что уровень и качество приобретаются, и что подготовка меняет результаты.
-
-## Связанные понятия
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — предварительно зарегистрированный эксперимент с 302 взрослыми: промпты рефлексии удвоили время работы с обратной связью и сократили объём практики на 40%, не повысив прирост на задачу (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — учитывающая GenAI пятичастная модель рефлексии, построенная на документированных промптах и итерациях, а не на итоговом тексте (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1954 размеченных эссе, сильный дисбаланс классов, неглубокие модели на 71% и трансформеры на 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17930 реплик закодированы, чтобы объяснить, почему партнёр по рефлексии на базе ИИ оставил пользователей менее приверженными (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — саморефлексия, совместная и общественная рефлексия с ИИ как когнитивным посредником (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 преподавателей K–12: время — препятствие новичка, отслеживание успеваемости — эксперта (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — четыре практики GenAI и одиннадцать процессов, каждый из которых может поддерживать или заменять рефлексивную мысль (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — рандомизированный полевой эксперимент 2×2 о поддержании рутины рефлексивного ведения дневника (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — тест 2×2 обучения стратегиям против сократического партнёра по рефлексии на базе LLM (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — недиагностический инструмент саморефлексии без составного балла (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — рефлексивное использование ИИ как измеренная конструкция, связывающая принятие с самоэффективностью и вовлечённостью (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — структурированная рефлексия как живой вход, перекалибровывающий следующий цикл обратной связи (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — управляемая рефлексия внутри самооценивания для этичного использования GenAI (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 преподавателей о признании, перераспределении и рефлексивном повторном включении после использования ИИ (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — позиционная статья: нет свидетельств того, что промпты рефлексии строят устойчивое самонаблюдение (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16 недель электронных портфолио на WordPress с GenAI как поставщиком обратной связи и синтезатором (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT, согласованный с оцениванием электронного портфолио, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — одна опора повысила аналитическую и оценочную глубину, тогда как планирование действий осталось без изменений (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — карта 26 исследований: рефлексия — наименее охваченная фаза цикла обучения через служение (Yusuf et al. 2026)

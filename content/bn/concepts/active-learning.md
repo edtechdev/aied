@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
@@ -66,7 +68,6 @@ ai_assist:
 
 সক্রিয় শিখনকে সুনির্দিষ্টভাবে কার্যকর করে [[icap-framework|ICAP কাঠামো]] (Interactive–Constructive–Active–Passive), যা শিক্ষার্থীর আচরণকে জ্ঞানীয় সম্পৃক্ততার ধরন ও জ্ঞান-পরিবর্তন দিয়ে শ্রেণিবদ্ধ করে। ICAP অনুযায়ী, কথ্য ভাষায় "সক্রিয় শিখন" আসলে তিনটি আলাদা, ক্রমবদ্ধ সম্পৃক্ততার স্তর জুড়ে: *সক্রিয়* (উপাদানে কাজ করা, যেমন নোট নেওয়া বা প্রম্পটের উত্তর দেওয়া), *গঠনমূলক* (প্রদত্তের বাইরে নতুন আউটপুট তৈরি, যেমন স্ব-ব্যাখ্যা বা আঁকা) এবং *আন্তঃক্রিয়* (সংলাপের মধ্য দিয়ে অর্থ সহ-নির্মাণ)। শিক্ষায় এআই-এর জন্য এটি জরুরি, কারণ একটি এআই সরঞ্জাম "সক্রিয়" বলে ভান করতে পারে অথচ শিক্ষার্থীকে সবচেয়ে অগভীর মোডে রাখতে পারে: ড্যাশবোর্ডে ক্লিক করা বা উৎপন্ন উত্তর মেনে নেওয়া সর্বোচ্চ সক্রিয়, গঠনমূলক বা আন্তঃক্রিয় নয়। ICAP তাই সক্রিয় শিখনের কেন্দ্রীয় নকশা-লক্ষ্যকে ধারালো করে—**শিক্ষার্থীকে সক্রিয় থেকে গঠনমূলক ও আন্তঃক্রিয় সম্পৃক্ততার দিকে ঠেলে দেওয়া**—এবং এমন এআই ব্যবস্থার বিরুদ্ধে সতর্ক করে যা শিক্ষার্থীর *বদলে উত্তর দেয়*, তাকে নিষ্ক্রিয় রাখে।([[icap-cognitive-engagement-llm-agents]])([[hingle-collaborative-ai-literacy-2025]]) এটি সক্রিয় শিখনকে সরাসরি [[icap-framework]], [[student-engagement]] ও [[collaborative-learning]]-এর সঙ্গে যুক্ত করে, যার সর্বোচ্চ ICAP মোড আন্তঃক্রিয় সংলাপ।
 
-
 ## ব্যবহারিক নির্দেশনা
 
 - **শিক্ষার্থীকে চক্রে রাখুন।** এআই মিথস্ক্রিয়া এমনভাবে নকশা করুন যাতে শিক্ষার্থী আউটপুটের উপর ও সঙ্গে কাজ করে (আন্তঃক্রিয়, scaffolding-যুক্ত মোড), তৈরি করা উত্তর গ্রহণ না করে; সম্পূর্ণ অটোমেশন পরিমাপযোগ্যভাবে জ্ঞানীয় সম্পৃক্ততা কমায়।
@@ -87,51 +88,3 @@ ai_assist:
 - **"এআই-সমর্থিত অনুসন্ধান স্বয়ংক্রিয়ভাবে উচ্চতর-ক্রম।"** **120 জন অষ্টম শ্রেণির শিক্ষার্থীর** একটি কোয়াসি-পরীক্ষায় দেখা গেল, এআই-সমর্থিত [[inquiry-based-learning|অনুসন্ধান-ভিত্তিক শিখন]] সৃজনশীল গণিত-কর্মদক্ষতা **এবং** একটি সংকীর্ণ মাপ—হস্তক্ষেপটি কিছু ফলাফল সরিয়েছে, সব নয়। উচ্চতর-ক্রম লেবেলের সঙ্গে সম্পর্ক উচ্চতর-ক্রম কাজের সমান নয়।
 - **"শিক্ষার্থীদের শিক্ষাদান নকশা করা একটি প্রযুক্তিগত ব্যায়াম।"** উল্টে দেওয়া গবেষণায় **345 জন শিক্ষার্থী** 700 শিক্ষার্থীর একটি কোর্সে প্রত্যেকে একটি কথোপকথন-এজেন্ট নকশা করে, যা সহপাঠীকে তিনটি ডিজাইন প্যাটার্ন শেখাবে। সক্রিয় শিখন এসেছিল নকশা-কাজ থেকে, যা প্রম্পট-প্রকৌশল নয়, [[pedagogy|শিক্ষাত্ত্বিক]] যুক্তি।
 - **"সম্পৃক্ততার ফলাফলই শিখনের ফলাফল।"** একই প্রমাণভিত্তি সতর্ক করে যে **নিয়ন্ত্রণ-গোষ্ঠীহীন, স্বেচ্ছাসেবী-নমুনার** নকশা কেবল সম্পৃক্ততার দাবিকে সমর্থন করে। শিক্ষার্থীরা খোলা-প্রান্তের নকশা-স্বাধীনতাকে মূল্য দিয়েছে (**22.3%** শীর্ষ ইতিবাচক থিম) আর সবচেয়ে বেশি অভিযোগ করেছে অস্পষ্ট নির্দেশনা নিয়ে (**23.7%**)—দুটোই অভিজ্ঞতা সম্পর্কে।
-
-## সংযুক্ত ধারণা
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাতত্ত্ব ও শিক্ষাদান-কৌশল
-
-## সংযুক্ত নিবন্ধ
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — এআই টিউটরিং শ্রেণিকক্ষের সক্রিয় শিখনকে ছাড়িয়ে যায়: একটি প্রামাণিক শিক্ষা-পরিবেশে নতুন গবেষণা-ভিত্তিক নকশা প্রবর্তনকারী RCT (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — অর্থনীতির জন্য সক্রিয়-শিখন GenAI কাঠামো (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — এআই মিথস্ক্রিয়া মোডের EEG গবেষণা (আন্তঃক্রিয় > অটো)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: বহু-এজেন্ট সিমুলেশনের মাধ্যমে দৃশ্য অন্বেষণমূলক শিখন
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: পর্যায়ভিত্তিক কথোপকথন-ভিত্তিক বক্তৃতা-পরবর্তী পুনরালোচনা
-- [[academic-league-of-ai-2026]] — Academic League of AI: প্রকল্প-ভিত্তিক সক্রিয় শিখন
-- [[mujib-ai-ibl-creative-math-2026]] — এআই-সমর্থিত IBL ও সৃজনশীল গণিত-কর্মদক্ষতা
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — শিক্ষার্থী-বৈশিষ্ট্য × TTS সংলাপ-বিন্যাস মিথস্ক্রিয়া
-- [[instructional-guidance-genai-learning]] — প্রম্পটযুক্ত বনাম প্রম্পটহীন এআই পর্যালোচনা: কাঠামো, মডেল-প্রবেশাধিকার নয়, খোলা-প্রান্তের স্কোর সরিয়েছে
-- [[assigned-ai-preclass-student-engagement-2026]] — শ্রেণি-পূর্ব এআই মহড়া দ্বিতীয় ব্যবহারের পর শ্রেণি-অংশগ্রহণ 31% বাড়িয়েছে, প্রথমবারে নয়

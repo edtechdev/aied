@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -90,51 +92,3 @@ ai_assist:
 - **«Обратная связь ИИ напрямую улучшает критическое мышление.»** У **421 китайского студента бакалавриата** связь использования GenAI с [[self-report-measures|самооценочным]] критическим мышлением **проходила через грамотность в сфере обратной связи**. Посредником является грамотность, поэтому вмешательство, добавляющее обратную связь ИИ без развития способности её читать, работает не с тем членом.
 - **«Грамотность — это предпосылка, а не результат.»** **Трёхволновая панель со случайным пересечением на 399 китайских студентах бакалавриата** обнаружила, что грамотность в сфере обратной связи ИИ предсказывает **последующую** агентную вовлечённость (**β = 0.222**), так что петля работает в обе стороны. Это динамика, а не ворота, которые проходят один раз.
 - **«Именно пригодность к действию заставляет обратную связь менять письмо.»** На трёх циклах «обратная связь — доработка» в **двух целых классах по 48 студентов** **понимание было тем измерением**, которое несло выигрыш от доработки. Обратную связь, которую студент не может разобрать, не улучшить тем, что она станет пригоднее к действию.
-
-## Связанные концепты
-
-- [[pedagogical-patterns]] — Шаги критической оценки, которые эти последовательности встраивают в рабочий процесс
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Связанные статьи
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Грамотность в сфере обратной связи ИИ и агентная вовлечённость: трёхволновая панель со случайным пересечением (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Генерация образцов работы, оценённых по рубрике, для обучения грамотности в сфере обратной связи (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Избирательное усвоение без улучшения артефакта: пробел перевода обратной связи (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Обратная связь ИИ без framing преподавателя повышает планку грамотности в сфере обратной связи (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Грамотность в сфере обратной связи модерирует связь «обратная связь ИИ → саморегулируемое обучение» (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Грамотность в сфере обратной связи предсказывает оценку эссе в письме с усилением ИИ (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Шкала грамотности в сфере обратной связи ИИ и прогнозирование усвоения (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Структура «GenAI как enabler вовлечения в обратную связь» (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Скрипты грамотности в сфере обратной связи и тренировка калибровки для письма с поддержкой ИИ (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Скрипты грамотности в сфере обратной связи + второй оценивающий при доработке письма в академическом английском (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Инструмент автоматизированной обратной связи ИИ для развития грамотности в сфере обратной связи (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Позиционирование GenAI во взаимной обратной связи EFL для тренировки грамотности в сфере обратной связи (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Опоры для саморегулируемой обратной связи: GenAI против человеческих сверстников (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Аналитика обучения на GenAI в обратной связи, с точки зрения грамотности в сфере обратной связи (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Оценивание на GenAI строит психологическую, обратной связи и ИИ-грамотности (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Практики и восприятие обратной связи ИИ, центрированной на учащемся, среди преподавателей
-- [[care-full-feedback-genai]] — Проектирование заботливой (care-full) обратной связи с GenAI
-- [[ai-generated-feedback-higher-ed]] — Генерируемая ИИ обратная связь в высшем образовании
-- [[ai-feedback-ecosystem-higher-education-2026]] — ИИ перестраивает отношения между студентами, педагогами, сверстниками и материалами в экосистеме обратной связи (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — Обратная связь ИИ и критическое мышление в письме
-- [[repeated-ai-writing-feedback-semester]] — Повторяющаяся обратная связь ИИ по письму в течение семестра
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-
-- [[genai-use-critical-thinking-moderation-2026]] — Связь использования GenAI с критическим мышлением проходила через грамотность в сфере обратной связи на базе GenAI, усиливаясь с ростом рефлексивного мышления
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Понимание, а не пригодность к действию, несло выигрыш от доработки
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Assessing peer and chatbot feedback on the same draft inside one reflection task

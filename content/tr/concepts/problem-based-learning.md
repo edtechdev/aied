@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -35,7 +37,6 @@ ai_assist:
 ## Giriş
 
 PBL, tıp eğitiminde doğdu (McMaster Üniversitesi, 1960’lar) ve o zamandan beri [[medical-education|sağlık meslekleri]], mühendislik ve [[k-12]] alanlarına yayıldı. Öğrenen, öğrenme ihtiyaçlarını teşhis etme, kaynakları belirleme ve çözümler kurma sorumluluğunu üstlenir; kolaylaştırıcı süreci iskeleler. PBL’nin ayırt edici iddiası, müfredatın itici gücünün *problem* olduğudur — başka yerde öğretilen içeriğin bir örneği değil, içeriğin öğrenildiği bağlamın kendisidir.
-
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng’ambi ve van der Merwe (2026)]] doğrudan bir karşılaştırma sunar: on problem temelli sohbet diyaloğu sürdürmüş ve daha derin açıklamaya ulaşmış, otuz yapılandırılmış prosedürel sohbet ise sor, cevapla, teşekkür et biçimine çöküp sonlanmıştır.
 
@@ -79,42 +80,3 @@ PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayı
 - **“İşbirlikçi kazanımlar YZ kullanmanın yan etkisidir.”** Bir çalışma daha yüksek algılanan işbirlikçi problem çözme (**M = 3,62 vs. 3,05, d = 0,88**) ve paylaşılan problem çözme (**3,40, d = 1,02**) bulmuş; **en büyük etkileşim etkileri paylaşılan bilgi inşası ve sosyal düzenleme üzerinde** olmuştur, yani tasarımın öngördüğü işbirlikçi süreç boyutlarında. Mekanizma araç değil, yapılandırılmış işbirliğidir.
 
 - **“YZ ile PBL esas olarak kolaylaştırıcı zamanı kazandırır.”** Ölçülebilir kazanımlar, yalnızca grup yapısı bunun için tasarlandığında var olan boyutlarda süreç niteliğindedir. YZ’yi paylaşılan bilgi inşasını yapılandırmadan ekleyen bir PBL uygulaması aynı etkiyi beklememelidir.
-
-## Bağlı kavramlar
-
-- [[project-based-learning]]
-- [[case-based-learning]] — PBL’nin açık sorgulamasından ayrı olarak hazırlanmış vakalar ve vaka tartışması
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Verimli Başarısızlık
-
-## Bağlı makaleler
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan ve ark. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool ve ark. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra ve ark. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi ve ark. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto ve ark. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

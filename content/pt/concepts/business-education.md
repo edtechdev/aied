@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -70,7 +72,6 @@ Negócios é um dos campos em que a adoção da IA generativa é mais rápida, p
 
 Estudos de caso e simulações são os formatos de ensino mais próximos desta literatura, mas a evidência de administração não isola uma intervenção baseada em casos; veja [[case-based-learning]] para a pedagogia e seus limites.
 
-
 ## Implicações para instrutores de negócios
 
 - **Integre a IA de forma impulsionada pelo currículo e informada pelos estudantes.** [[drummond-genai-business-schools-framework-2026|Frameworks informados pelos estudantes]] e [[rook-plumb-genai-curricula-student-insights-2026|percepções dos estudantes]] mostram que os estudantes querem competências em IA generativa para a carreira e usar a IA sem faltas não intencionais — desenhe programas que entranhem letramento em IA, julgamento ético e aplicação autêntica nas estruturas de graduação.
@@ -83,39 +84,3 @@ Estudos de caso e simulações são os formatos de ensino mais próximos desta l
 - **"Os estudantes querem IA porque querem atalhos."** Um framework informado pelos estudantes constatou que os estudantes estavam **altamente engajados e conscientes de que precisam de competências em GenAI para as carreiras**, ao mesmo tempo que queriam **usar a IA sem cometer inadvertidamente má conduta acadêmica**. A demanda é por competência com limites claros, não por permissão para evitar trabalho.
 - **"Acrescentar módulos de IA a um currículo de negócios captura o benefício."** A pesquisa sobre alinhamento construtivo constatou que **se benefícios ou riscos dominavam era moldado pelo grau de integração curricular** — a distinção operativa é **integrar, não anexar**. Um módulo pregado por fora deixa o desenho da avaliação inalterado.
 - **"A sofisticação da ferramenta supera o e-learning convencional."** Um estudo de percepção com **130 estudantes** constatou que **tanto o apoio do chatbot quanto o do agente foram avaliados acima do e-learning tradicional** em melhoria, personalização e tomada de decisão. Vale notar o que isso mede: a *percepção* dos estudantes contra uma linha de base convencional, não a aprendizagem contra ela.
-
-## Conceitos conectados
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — Estudos de caso, método de caso e discussão de casos
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Artigos conectados
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: uma heurística hermenêutica para a sabedoria prática na educação em negócios (Heron & Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — Pontos de controle de decisão sobre IA para gestão de processos de negócio aumentada por IA: framework e exemplificação educacional
-- [[csaszar-ai-management-education-2026]] — Os efeitos da IA na educação em administração: uma análise estratégica baseada em valor (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: apoio de IA generativa agêntica em uma disciplina de comércio eletrônico, benefícios e riscos percebidos (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Framework informado pelos estudantes para IA generativa em escolas de negócios (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Uma década de IA na educação em negócios (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Alinhamento construtivo da IA generativa no ensino superior de negócios (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Percepções dos estudantes sobre integrar IA generativa aos currículos (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Direcionadores organizacionais da adoção de IA no ensino superior (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Framework CAIS-GBL para agentes conversacionais de IA em jogos de simulação de negócios (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Concordância e erro na correção automatizada de publicações de marketing de estudantes
-- [[shi-genai-experiential-learning-management-education-2026]] — três mecanismos de IA generativa para reconfigurar a pedagogia da educação em administração
-- [[alam-process-oriented-collaborative-essays-2026]] — Ensaios colaborativos orientados ao processo em um aprendizagem de Analista de Negócios: avaliar a iteração documentada, não o tema
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Um chatbot de RAG construído para o curso moveu expectativas, não resultados
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — Oito coortes de finanças, 75.404 notas de questões: ganhos pós-ChatGPT confinados a quizzes sem supervisão e a itens conceituais (Rodríguez Longarela & McGrath 2026)

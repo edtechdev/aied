@@ -19,6 +19,8 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 connected_resources: [pressing-prompts, teacherserver]
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -98,69 +100,3 @@ connected_resources: [pressing-prompts, teacherserver]
 - **"संस्थागत एआई अपनाना परिपक्व हो चुका है।"** **प्रतीकात्मक स्तर संतृप्त है जबकि संरचनात्मक स्तर पतला है**: **100% के पास एआई टास्क फ़ोर्स और मास्टर एआई डिग्री है, पर केवल 12% के पास कार्यपालक एआई नेतृत्व है** और केवल 5% एक और संस्थागत कदम की आवश्यकता रखते हैं। घोषणाएँ संरचनाओं से परिमाण के क्रम में आगे निकल गई हैं।
 - **"प्रतिष्ठा संस्थागत एआई परिपक्वता की भविष्यवाणी करती है।"** संस्थागतिकरण **प्रतिष्ठा से स्वतंत्र (रैंक सहसंबंध r ≈ 0.04)** सिद्ध हुआ, साथ में उल्लेखनीय **क्षेत्रीय भिन्नता (ANOVA F = 5.86, p < .001)**। प्रतिष्ठा तैयारी का प्रतिनिधि नहीं है, और भूगोल स्थिति से अधिक बताता है।
 - **"एआई ज्ञान-सिद्धांतिक कार्य कैसे बाँटती है, यह सभी संस्थाओं में एकसमान है।"** [[sun-student-genai-entanglement-literacy-demands-2026|सन, डोहन और रेहम (2026)]] ने **102 अनुभवजन्य उच्च-शिक्षा अध्ययनों** का वर्गीकरण इस आधार पर किया कि ज्ञान-सिद्धांतिक कार्य कैसे विभाजित था, और यह भिन्नता ही निष्कर्ष है, कोई विवरण नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — वह स्तर जहाँ परीक्षित अनुक्रम प्रमाण का अधिकांश भाग उत्पन्न हुआ
-- [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और अधिगम
-- [[generative-ai]] — जनरेटिव AI तकनीकें और मॉडल
-- [[llm]] — बड़े भाषा मॉडल
-- [[student-experience]] — उच्च शिक्षा में AI के साथ छात्र अनुभव
-- [[educational-development]] — संकाय विकास और AI तैयारी
-- [[academic-integrity]] — AI-सक्षम छात्र वर्ग में शैक्षणिक सत्यनिष्ठा
-- [[ai-literacy]] — छात्रों और संकाय के लिए AI साक्षरता
-- [[assessment-validity]] — GenAI युग में मूल्यांकन वैधता
-- [[educational-policy-ai]] — AI पर शैक्षणिक नीति
-- [[regulation]] — शिक्षा में AI का विनियमन
-- [[remote-proctoring]] — दूरस्थ प्रॉक्टरिंग और स्वचालित परीक्षा सत्यनिष्ठा
-- [[self-directed-learning]] — AI के साथ स्व-निर्देशित अधिगम
-- [[problem-based-learning]] — AI के साथ समस्या-आधारित अधिगम
-- [[teacher-role]] — AI कक्षाओं में विकसित होती शिक्षक भूमिका
-- [[stakeholders]] — छत्र: AI शिक्षा में व्यक्ति और दर्शक (शिक्षार्थी, शिक्षक, डिज़ाइनर, प्रशासक, नीति-निर्माता)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — परामर्श, आउटरीच, रेफ़रल और सहायता आवंटन — छात्र सफलता की संस्थागत पक्ष
-
-## संबंधित लेख
-
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI संकाय तैयारी ढाँचा
-- [[ai-in-the-wild-college]] — AI in the Wild: महाविद्यालय छात्रों का AI उपयोग
-- [[institutional-change-framework-ai]] — AI युग में संस्थागत परिवर्तन
-- [[genai-availability-grades-satisfaction]] — GenAI उपलब्धता और छात्र संतुष्टि
-- [[ai-assessment-scale-reform]] — AI मूल्यांकन पैमाना और सुधार
-- [[universities-ai-era-rethinking]] — AI युग में विश्वविद्यालयों पर पुनर्विचार
-- [[teacher-ai-adoption-confidence]] — शिक्षकों में AI अपनाना
-- [[enright-staff-perspectives-genai-2026]] — उच्च शिक्षा में GenAI पर कर्मचारियों के दृष्टिकोण
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — उच्च शिक्षा में AI अपनाने के संगठनात्मक प्रेरक
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — छात्र फीडबैक में AI: नीतिशास्त्र
-- [[beyond-detection-authentic-assessment-ai-2025]] — पहचान से परे: AI-माध्यमित संसार में प्रामाणिक मूल्यांकन का पुनर्डिज़ाइन
-- [[genai-student-experiences-uk-he-survey-2026]] — यूके उच्च-शिक्षा छात्रों में GenAI अनुभव (सर्वेक्षण)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — महाविद्यालय स्नातकों के AI कौशल पर शिक्षक बनाम नियोक्ता
-- [[generative-ai-reduced-study-time-math]] — महाविद्यालय छात्रों में 26.9% अध्ययन-समय गिरावट
-- [[ai-uk-higher-education-policy-2026]] — यूके उच्च-शिक्षा AI नीति
-- [[ai-tools-academic-work-cheating-2026]] — AI उपकरण, शैक्षणिक कार्य और कपटकृत्य
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI-जनित परीक्षाओं की गुणवत्ता का आकलन: एक बड़े पैमाने पर क्षेत्र अध्ययन
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — प्रामाणिक, AI-प्रतिरोधी मूल्यांकन के रूप में मौखिक परीक्षाओं पर पुनर्विचार
-- [[roe-assessment-twins-2026]] — GenAI युग में मूल्यांकन वैधता सुदृढ़ करने हेतु मूल्यांकन जुड़वाँ
-- [[student-perceptions-ai-study-productivity-2026]] — अध्ययन उत्पादकता और अधिगम हेतु कृत्रिम बुद्धिमत्ता उपकरणों पर छात्रों की धारणाएँ: एक अन्वेषणात्मक सर्वेक्षण अध्ययन
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — विश्वविद्यालय शिक्षकों की AI संकल्पनाओं का घटना-वर्णनात्मक अध्ययन
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — GenAI युग में एक उदार कला विश्वविद्यालय का अनुसंधान-केंद्रित मॉडल की ओर डिजिटल रूपांतरण (किन 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS + SAMR ढाँचों के माध्यम से उच्च शिक्षा में AI एकीकरण का व्यवस्थित समीक्षा मानचित्रण (अल-शेख आदि 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI के विषय में विश्वविद्यालय शिक्षकों के अनुभव और धारणाएँ: आक्रांतता, मूल्यांकन पर पुनर्विचार, जोखिम में छात्र अधिगम (फ़राज़ुली आदि 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — अनुसंधान कार्यप्रवाह में स्नातकोत्तर अनुसंधानकर्ताओं का GenAI उपयोग और AI-साक्षरता-उन्मुख दिशा-निर्देश (दाई और चान 2026)
-- [[engagement-intensity-learner-modeling]] — अनुकूली AI नीति-शास्त्र शिक्षण हेतु शिक्षार्थी-मॉडलिंग संकेत के रूप में संलग्नता तीव्रता (ओह, टॉल्टन और बुई 2026)
-- [[ai-assisted-writing-research-teams]] — AI-सहायित लेखन अनुसंधान टीमों को छोटी, कनिष्ठ-प्रधान, अत्यधिक उद्धृत सहयोगों की ओर मोड़ता है (वां आदि 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI और मानव ट्यूटरिंग समतुल्य GRE अधिगम लाभ देती है
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — सहायक और सक्षमकर्ता रूपें उच्च-शिक्षा GenAI अनुसंधान में प्रबल हैं; सीमांत गूँज प्रकार संस्थागत कारणों से नहीं, तकनीकी कारणों से दुर्लभ रहते हैं (सन, डोहन और रेहम 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — प्रवेश, वित्तीय सहायता, छात्र सेवाओं और शिक्षा वितरण में AI परिनियोजन का छात्र-पक्षीय मानचित्र, एक चार-प्रश्नवाली खरीद-जाँच सहित (स्टूडेंट डिफेंस 2026)
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 शीर्ष-रैंक्ड विश्वविद्यालयों में AI संस्थागतिकरण सूचकांक; प्रवचन संरचना से आगे, अपनाना प्रतिष्ठा से स्वतंत्र
-- [[airri-machine-resistant-reading-interface-2026]] — विक्षोभित-छवि असाइनमेंट ने एलएलएम पूर्णता विफलता 7.4% से 55.6% तक बढ़ाई: सत्यनिष्ठा के मार्ग के रूप में सामग्री-डिज़ाइन
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — एआई चश्मे और श्रवण यंत्र कक्ष-परीक्षा प्रतिबंध को विफल करते हैं: दोहरी पारदर्शिता, कोई दृष्टि या मुद्रा संकेत नहीं
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — उच्च-शिक्षा एआई अनुप्रयोगों का कार्यात्मक-क्षेत्र वर्गीकरण, जिनमें से 58.4% 2019 की श्रेणियों से बाहर हैं
-- [[ai-ethics-tensions-online-pedagogy-2026]] — विधि-विशिष्ट मार्गदर्शन लिखें, एक परिसर-व्यापी एआई नीति नहीं
-- [[ai-literacy-determinants-university-students-2026]] — अनुभूत संसाधन और शिक्षक सहायता ने एआई-साक्षरता प्रसरण का 29% समझाया; जनसांख्यिकी ने नहीं
-- [[faculty-ai-well-being-social-supports-2026]] — संकाय के लिए एआई साक्षरता को वित्त दें, केवल उपकरण-आत्मविश्वास को नहीं

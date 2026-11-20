@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -125,36 +127,3 @@ Những phản bác này cố ý viết theo hình thức [[refutation-text]] đ
 - **"Quan niệm sai lầm của giáo viên sửa được bằng cách trình bày bằng chứng."** Trong thử nghiệm với **123 nhà giáo dục Ý**, bất đồng tụ mạnh nhất ở **phong cách học tập nhận thức (78% bảo vệ ghép kênh thị giác/thính giác)**, hòa nhập và làm việc nhóm (68%), quá tải công nghệ giáo dục (54%). Những bất đồng mạnh nhất kháng bằng chứng nhất, nên [[refutation-text|phản bác]] tốt hơn khẳng định.
 - **"Mọi phản đối của giáo viên với bằng chứng đều là kháng cự."** Khi cùng các mục đó được đưa qua AI hội thoại **xác nhận bối cảnh của giáo viên trước khi đưa lại bằng chứng**, **41% phản đối liên quan ràng buộc bối cảnh thực** — sĩ số lớp, nhu cầu đặc biệt, yêu cầu chương trình. Phần đáng kể cái trông như quan niệm sai lầm thực ra là phản đối chính xác.
 - **"Phát hiện được quan niệm sai lầm đáng tin cậy từ đối thoại."** **Trong 241 đoạn được nhắc, 221 (91,7%) được xác nhận là quan niệm sai lầm chiến lược bằng bỏ phiếu đa số chuyên gia (κ của Fleiss = 0,9487)**, **không khác biệt đáng kể** giữa các nhóm. Độ tin cậy cao đạt được dưới phân xử chuyên gia, và đó là điều kiện tuyên bố này phụ thuộc vào.
-
-## Khái niệm liên quan
-
-- [[pedagogical-patterns]] — Trình tự thay đổi khái niệm đối diện một niềm tin cụ thể đang được giữ
-- [[learners]] — Người học: chiếc ô cho các khái niệm phía người học
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Bài viết liên quan
-- [[rudolph-ai-myths-critical-higher-ed]] — Đừng tin lời quảng bá: tám huyền thoại về AI và nhu cầu tiếp cận phê phán trong giáo dục đại học
-- [[student-rationalization-ai-writing]] — Sự biện minh của sinh viên về viết bằng AI
-- [[genai-skill-bypass-literacy]] — GenAI vượt qua kỹ năng và năng lực
-- [[trust-reliance-ai-education-2026]] — Niềm tin và sự phụ thuộc trong giáo dục AI
-- [[contextual-sycophancy-ai-literacy]] — Nịnh bợ theo ngữ cảnh và năng lực AI
-- [[sycophantic-ai-social-interaction-2026]] — AI nịnh bợ trong tương tác xã hội
-- [[llm-fallacy-misattribution]] — Quy gán sai ngụy biện LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Khiếm khuyết nhưng dễ nhớ: sinh viên phê phán phép loại suy GenAI cá nhân hóa trong giáo dục khoa học máy tính
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: lời giải thích trôi chảy, có thẩm quyền nhưng sai về khái niệm (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Chỉ dẫn ẩn trong tệp nộp nâng được điểm do AI chấm mà không có cảnh báo (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Quan niệm sai lầm của trẻ về an toàn AI: tình bạn với robot bị đọc nhầm là bảo đảm riêng tư (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Chẩn đoán bằng AI hội thoại cho quan niệm sai lầm về giảng dạy (Miranda & Calvani 2026)

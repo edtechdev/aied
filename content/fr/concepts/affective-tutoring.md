@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -117,24 +119,3 @@ Le tutorat affectif recoupe les [[hazra-safetutors-pedagogical-safety-2026|SafeT
 
 - Rapportez la ligne de base contre laquelle votre taux de victoire est mesuré, et indiquez clairement qu'il s'agit d'un jugement comparatif. Mesurez ensuite ce dont le champ a réellement besoin : le transfert vers des contextes non adaptatifs, la rétention après retrait du tuteur, et la persistance des gains lorsque le canal émotionnel est coupé.
 - Validez les profils affectifs contre un jugement d'expert avant de les utiliser comme variables indépendantes.
-
-## Concepts liés
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Articles liés
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — On déleste l'empathie dès qu'on pense que l'IA peut la fournir (Shastry & Gray 2026)

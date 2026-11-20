@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,7 +43,6 @@ GBL מעוגנת בתיאוריות [[motivation|מוטיבציה]], [[student-e
 - **חינוך רובוטיקה:** [[game-based-gamified-robotics-education-review-2026|סקירה שיטתית השוואתית]] של למידה מבוססת משחק ומִשחוח בחינוך רובוטיקה מצאה GBL נפוצה יותר בהקשרים לא-פורמליים, בעוד מִשחוח דומיננט בכיתות פורמליות ועדיף [[project-based-learning|למידה מבוססת-פרויקטים]].
 - **משחקים מתווכי-רובוט:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] הוא משחק משחק-תפקידים מתווך-רובוט להתערבות אנטי-בריונות, ו[[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] משתמש ב[[storytelling-in-education|סיפור-סיפורים דיגיטלי]] אינטראקטיבי כדי להמריץ מוטיבציה.
 - **סוכנים [[conversational-ai|שיחתיים]] של AI במשחקי סימולציה:** Wenzel, Geiger, ו-Liening (2026) מפיקים את מסגרת CAIS-GBL — ארבעה עקרונות עיצוב וחמש-עשרה תכונות עיצוב לסוכנים שיחתיים של AI בלמידה מבוססת-משחק דיגיטלית — ממטא-דרישות מונעות-תיאוריה החולמות על מעורבות קוגניטיבית, מוטיבציונית, [[affective-computing|אפקטיבית]], ו[[sociocultural-learning|סוציו-תרבותית]], עם עמדת שוויון ([[equity-in-ai-education]]) בעיצוב. הסוכן המומשטח שלהם (Lara) במשחק סימולציה עסקית קובל בחיוב למעורבות קוגניטיבית ול[[community-of-inquiry|נוכחות חברתית]] ולתמיכת [[self-regulated-learning|למידה עצמית-מוסדרת]], ומתייחס לפער הנפוץ של משוב [[formative-assessment|מעצב]] מוגבל ורפלקציה מובנית במשחקי סימולציה.
-
 
 - **יעילות AI-GBL:** [[meta-analysis-systematic-review|סקירה שיטתית]] של 55 מחקרי למידה מבוססת-משחק נתמכת-AI מוצאת השפעות חיוביות על ידע, מוטיבציה פנימית ומעורבות אפקטיבית, אך רק 4 מחקרים (7%) עמדו בסף האיכות-הגבוהה שלה ורק 4 (7%) היו [[rct|ניסויים מבוקרים אקראיים]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). היעילות תלתה ביישור מנגנון ה-AI עם [[learning-theories|תיאוריית למידה]] מצוינת.
 - **סטודנטים כמעצבי-משחק ולא כשחקנים:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] הובילו 22 תלמידי יסודי בני 8–12 בעיצוב משחק-לוח בריחה מוגבר על מידע-כזב, בערימה של [[project-based-learning|למידה מבוססת-פרויקטים]] עם [[design-thinking|חשיבת עיצוב]] ומסגרת חדר-הבריחה Room2Educ8. אוריינות [[ai-literacy|בינה מלאכותית]] מרוכבת בשאלון DigComp 3.0 בן 20 פריטים עלתה מ-3.684 ל-4.309 בסולם בן 5 נקודות, t(21) = −21.086, p < .001, וכל חמשת תחומי-הכשירות השתפרו. הכיתה הפיקה 11 הצעות עם פרומפטים של AI ומיזגה אותן למשחק אחד שניתן לבנות. [[self-report-measures|דיווח-עצמי]], כיתה אחת, וללא קבוצת ביקורת.
@@ -87,31 +88,3 @@ GBL ומִשחוח יחד מתחברים ל[[educational-robotics|רובוטיק
 - העלו את איכות-העיצוב של התחום ולא את נפחו; שיעור איכות של 7% הוא האילוץ המחייב למה שאפשר להסיק.
 
 - **משוב שיחתי בסימולציה מעלה עומס רלוונטי בלי להוריד עומס זר.** במשחק סימולציה עסקי בן חמישה שבועות עם **234 סטודנטים**, משתמשים קבועים בצ'אטבוט-משוב מבוסס GPT-4o דיווחו על **עומס קוגניטיבי רלוונטי גבוה יותר באופן מובהק** מאשר בעלי-גישה שלא התערבו (β = −.468, p < .001) ומאשר הבקרה עם משוב סטטי (β = −.253, p = .028) — בעוד **לעומס הזר לא היה אפקט** באף אחת מהמפרטות (F(1, 219) = 0.499, p = .481). שני העומסים **ירדו לאורך חמשת השבועות** (זר β = −.388, p < .001), אפקט-חדשנות שנמדד על עומס קוגניטיבי ולא על מעורבות ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]). נקודת-העיצוב היא שהמשוב נשא [[personalized-learning|התאמה-אישית]], איתות, פילוח ומבנה מזין-קדימה על פני 19 מדדים קונקרטיים — משטח-הצ'אטבוט לבדו אינו הטיפול.
-
-## מושגים מחוברים
-- [[educational-robotics|רובוטיקה חינוכית]]
-- [[student-engagement|מעורבות סטודנטים]]
-- [[motivation|מוטיבציה]]
-- [[self-determination-theory|תיאוריית ההגדרה העצמית]]
-- [[active-learning|למידה פעילה]]
-- [[simulation|סימולציה]]
-- [[project-based-learning|למידה מבוססת פרויקטים]]
-- [[computational-thinking|חשיבה חישובית]]
-- [[cs-education|מדעי המחשב]]
-- [[pedagogy|פדגוגיה]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך בינה מלאכותית
-- [[virtual-and-augmented-reality|מציאות מדומה ומוגברת]] — תרגול סוחף וממושחק חופף בעיצוב ובראיה
-
-## מאמרים מחוברים
-- [[karampa-students-game-designers-ai-literacy-2026]] — תלמידי יסודי מעצבים משחק-לוח בריחה; אוריינות בינה מלאכותית עולה בתוך מעבדת-קורס אחת
-- [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
-- [[xie-genai-mystery-game-legal-education-2026]] — משחק תפקידים מסתורי שנכתב ב-GenAI מול הרצאה בחינוך משפטי (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — עיצוב ואימות ראשוני של סביבת למידה מבוססת-משחק מוגברת-AI לחשיבה חישובית

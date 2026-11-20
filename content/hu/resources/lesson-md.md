@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -36,7 +37,3 @@ A **LESSON.md** nyílt formátum blokkalapú e-learning-tartalomhoz: Markdown-f�
 
 ## Kinek szól
 Oktatástervezők és kurzusalkotók, akik azt akarják, hogy tartalmuk túléljen egy eszközváltást, e-learning-szállítók, akiknek olyan import- és exportformátum kell, amelyet felhasználóik már értenek, és bárki, aki MI-támogatott szerzőséget épít egy olvasható formátumra. Közreműködői között van Dan Bashaw (LXD Integral), a formátumnak pedig nyilvános változásnaplója van a v1.8-ig.
-
-## Kapcsolódó fogalmak
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

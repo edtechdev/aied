@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -39,7 +40,3 @@ K-12 শিক্ষক ও জেলা, যাঁরা অবকাঠাম�
 
 ## টীকা
 বিল্ডারে প্রবেশ সীমিত: get-started পাতা একটি ইমেইল ঠিকানা ও একটি অনবোর্ডিং ওয়ার্কশপে স্থান, কিংবা একটি ইনভাইট কোড চায়। এর সম্মতি-দাবিগুলো (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), আপনার কাজ কখনো বাইরের মডেল প্রশিক্ষণে ব্যবহার হবে না এই প্রতিশ্রুতি, এবং ফলাফলের অধিকার নির্মাতাকে দেওয়া — এগুলো কেবল বিপণন-পাতায় নয়, ডেটা-প্রক্রিয়াকরণ চুক্তিতেও থাকা উচিত; MagicSchool ও প্রধান চ্যাটবটগুলোর সঙ্গে এর সক্ষমতা-তুলনা Playlab-এর নিজের, 2026-এর মাঝামাঝি তারিখের। এটি Scratch ও MIT Media Lab-এর সঙ্গে যুক্ত এন্ড-ইউজার প্রোগ্রামিং কাজ থেকে জন্ম নিয়েছে।
-
-## সংযুক্ত ধারণা
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

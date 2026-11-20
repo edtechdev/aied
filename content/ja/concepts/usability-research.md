@@ -18,6 +18,8 @@ ai_assist:
   date: '2026-10-11'
   agent: hermes-agent
 updated: "2026-11-19T06:40:00-05:00"
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -70,26 +72,3 @@ updated: "2026-11-19T06:40:00-05:00"
 **「ツールを放棄した学生は動機づけが足りなかった」。** 放棄はしばしば、設計者が一度も測定しなかった相互作用コストに対するユーザーの正しい読みです。誰も使わないツールは効果を持ちえないため、放棄率はそれ自体が教育的な成果です。
 
 **「ユーザビリティテストは学習の測定と同じである」。** 両者は異なる問いに答えるものであり、どちらも他方の代わりにはなりません。失敗の型は、どちらか一方を採用の十分条件として扱うことです。
-
-## 関連概念
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## 関連記事
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM駆動のストーリーテリング人型ロボットのユーザビリティ調査
-- [[rhaimi-productivemath-2025]] — ProductiveMath：生成的AIアプリのユーザビリティ
-- [[supplynet-visual-exploratory-learning]] — SupplyNetユーザー調査
-- [[anvil-ai-educational-animations]] — AI生成教育アニメーションのユーザビリティ
-- [[code-anchor-multi-view-visualization]] — 複数ビュー型コード可視化のシンクアラウド研究
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARNフレームワークとシンクアラウド評価
-- [[feedback-futures-genai]] — 学習者がAI生成フィードバックをどう処理するか
-- [[llm-chatbots-cs-multiple-choice]] — コンピュータサイエンス多肢選択問題のためのLLMチャットボット
-- [[conversational-ai-agents-umbrella-review-2026]] — 会話型AIエージェントのアンブレラレビュー

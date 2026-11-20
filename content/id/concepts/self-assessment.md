@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,7 +80,6 @@ Tahap perkembangan menetapkan satu batas pada akurasi, dan pembelajar termuda ad
 
 Wajah pengukuran juga muncul dalam rancangan evaluasi, tempat instrumen penilaian diri dipakai sebagai ukuran hasil. Satu studi tentang penilaian berbantuan AI atas laporan kompleks di [[higher-ed|pendidikan tinggi]] secara eksplisit mengevaluasi pembelajaran dengan instrumen literasi umpan balik dan penilaian diri tervalidasi di samping kinerja berikutnya dan perbandingan kontrol. Itu dapat dipertahankan bila instrumennya mengukur keyakinan yang menjadi pokok studi, seperti [[self-efficacy]] atau kompetensi yang dipersepsikan, dan menyesatkan bila diperlakukan sebagai pengganti capaian. Kritik yang berulang terhadap [[ai-ed-evaluation|studi intervensi AI]] berlaku dengan kekuatan penuh di sini.
 
-
 Mengukur agensi melalui kuesioner pasca-tugas dan [[self-efficacy]] spesifik tugas berisiko penalaran sirkular: estimasi pembelajar dibaca kembali sebagai bukti kapasitas yang seharusnya ditunjukkannya, dan alternatifnya adalah analitik dinamis yang melacak bagaimana penilaian diri dipakai lintas siklus berturut-turut ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]]).
 
 ## Apa yang diubah AI generatif
@@ -107,33 +108,3 @@ Ia juga memperkenalkan bahaya penamaan yang layak dinyatakan terus terang. **Eva
 **"Menambahkan [[feedback|lingkaran umpan balik]] AI otomatis memperbaiki penilaian diri."** Lingkaran umpan balik mengubah apa yang dibandingkan siswa, yang dapat memperbaiki kalibrasi dan juga dapat menjangkarkannya pada pertimbangan sistem. Studi komparatif di sini (**118 mahasiswa tahun pertama, 56 dalam kelompok GenAI dan 62 dalam kelompok sejawat**, tiga siklus sepanjang satu semester) dirancang tepat untuk menguji apakah lingkarannya atau perbandingan sosialnya yang bekerja — dan jawabannya bukan "lingkarannya, karena ia lingkaran."
 
 **"Penilaian diri adalah alternatif yang lebih lunak daripada tes."** Ia sasaran yang berbeda. Penilaian diri mengembangkan keterampilan regulatif menilai karya sendiri; tes mengukur kapabilitas yang sedang dinilai. Penelitian yang menggantikan yang satu dengan yang lain mencampuradukkan kapasitas mengevaluasi kinerja dengan kinerja itu sendiri.
-
-## Konsep terkait
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Artikel terkait
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Penilaian diri ditempatkan di pusat kerangka pertumbuhan yang diarahkan sendiri (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Materi literasi AI bertingkat perkembangan, dengan pengukuran penerimaan dan validitas (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulasi umpan balik AI dengan penilaian sejawat, instruktur, dan diri (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Mengapa umpan balik tidak boleh bersandar pada validitas penalaran yang dinilai sendiri oleh model (Yasir dkk. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Kuesioner penilaian diri literasi AI 15 butir yang tervalidasi untuk Kelas 4 sampai 6, dengan batas metakognitif laporan diri anak (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 dari 33 instrumen literasi AI guru adalah laporan diri, dua menguji pengetahuan secara objektif, tidak ada yang memakai tugas kinerja (Zainal, Mohd Matore & Maat 2026)

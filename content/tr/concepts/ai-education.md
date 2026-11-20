@@ -31,6 +31,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -190,60 +192,3 @@ Eğitimde YZ, bilgi tabanındaki her kavrama bağlanır — bu, diğer tüm kavr
 **“YZ genel amaçlı olduğu için herhangi bir yerdeki bulgu her yerde geçerlidir.”** Teknolojinin genelliği, kanıtın genelliğini yaratmaz. Disiplin, düzey ve bağlam dalları, aynı aracın bunlar arasında farklı davranması nedeniyle vardır; bir sınırın ötesine değiştirilmeden taşınan bulgu ise bir ekstrapolasyondur.
 
 **“Alanın olgunluğu yayın hacminden okunabilir.”** Hacim ile olgunluk ayrışır; araştırma yöntemleri dalı, hacmin gidermediği yinelenen tasarım zayıflıklarını belgeler ve çerçeveler test edildiklerinden daha hızlı çoğalır.
-
-## Bağlı kavramlar
-- [[primary-education]] — İlköğretimde YZ
-- [[secondary-education]] — Ortaokul ve lisede YZ
-- [[undergraduate-education]] — Lisans düzeyinde YZ
-- [[graduate-education]] — Yüksek lisans ve doktora düzeyinde YZ
-- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
-- [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
-
-- [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
-- [[human-ai-collaboration]] — umbrella: how people and AI work together
-- [[pedagogy]] — umbrella: teaching methods and strategies
-
-- [[case-based-learning]] — Case method, case discussion, and contrasting cases
-- [[metaphors-and-analogies]] — How metaphor shapes AI understanding and how analogy supports instruction
-- [[learning-theories]] — umbrella: how learning happens
-- [[ai-technologies]] — umbrella: models, techniques, and systems
-- [[discipline-specific-aied]] — umbrella: AI across subject areas and levels
-- [[assessment]] — umbrella: how AI assesses learners and reshapes validity
-- [[feedback]] — umbrella: how feedback is generated, delivered, and used
-- [[stakeholders]] — umbrella: who the actors are
-- [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
-- [[ai-ed-evaluation]] — umbrella: how we know whether AI works
-- [[research-methods-aied]] — umbrella: efficacy research methods
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[governance]] — umbrella: the institutional and regulatory layer
-- [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
-- [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion
-- [[learning-sciences]] — the empirical field behind AIED
-- [[ethics]] — the ethical dimensions of AI in education
-- [[misconceptions]] — the mental models people bring to AI
-- [[interpreting-and-applying-aied-research]] — reading a study, and carrying a finding into practice
-- [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
-- [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
-- [[history-of-aied]] — how the field evolved
-- [[philosophy-of-ai-in-education]] — the philosophical foundations
-- [[theories-and-frameworks]] — the map of theory and framework nodes
-- [[theory-development-aied]] — building and revising theory
-
-- [[sensor-and-gaze-analytics]] — umbrella: sensing learners through gaze, EEG and wearable signals
-- [[ai-avatars-and-synthetic-instructors]] — umbrella: synthetic humans teaching, tutoring, simulating and assessing
-- [[civic-and-political-education]] — subject area: literacy for public life, with a thin evidence base
-
-## Bağlı makaleler
-
-Eğitimde yapay zekâ üzerine alan çapında derlemeler — tek bir konu yerine tüm alanı ya da tüm bir eğitim düzeyini tarayan çalışmalar:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — K-12'de YZ üzerine kanıt tabanı: 1.686 havuz makalesinden çıkarılan 52 güçlü nedensel çalışma (Kasım 2026 güncellemesi)
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 ortaöğretim çalışması; kazanımlar öğrencilerin çıktıyı yargıladığı yerde, aracın işi ürettiği yerde değil
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 yüksek lisans öğrencisi; hazırlık, öz-yeterliliğe danışman desteği yoluyla ulaştı
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Doktora danışmanlığında etik, geri bildirim ve yönetişim üzerine 61 kaynaklık derleme
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Tek gruplu lisansüstü semineri; yardımsız test olmadan öz yönelimli öğrenme kazanımları
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 öğrenci; etik ve öz düzenlemede lisans–lisansüstü arası açık

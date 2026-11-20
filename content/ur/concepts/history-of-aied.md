@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -46,7 +48,6 @@ ai_assist:
 **ذاتی نوعیت کی دو صورتیں۔** [[personalized-learning|ذاتی نوعیت]] کی دو الگ تشریحات ہیں جو اِنہی تصورات پر منطبق ہوتی ہیں۔ پہلی یکساں نتائج برقرار رکھتے ہوئے راستہ بدلتی ہے (Skinner کی تدریسی مشینوں میں جڑی؛ Khan Academy کا مہارت تک ٹیوٹرنگ کا تصور)۔ دوسری متنوع نتائج کو گلے لگاتی ہے — طلبہ اپنی انفرادی دلچسپیوں اور صلاحیتوں کے پیچھے چلتے ہیں، معیاری نصاب کی حدود سے آزاد (Zhao, 2024)۔ ITS ماڈل پہلی کی حمایت کرتا ہے؛ تعمیریت دوسری کی۔
 
 **GenAI دور کے لیے سبق۔** جنریٹو AI کے بارے میں آج کی بحثیں اِنہی تاریخی تناؤ کی گہری عکاسی کرتی ہیں۔ GenAI کو اکثر اگلی نسل کے ذہین ٹیوٹر کے طور پر پیش کیا جاتا ہے (Anderson کو آگے بڑھاتے ہوئے)، جس سے نگرانی، ڈیٹا جمع کرنے اور معیار بندی کے تحفظات اُٹھتے ہیں۔ متبادل طور پر یہ تخلیقی ایجنسی کا اوزار بن سکتا ہے (Papert کو آگے بڑھاتے ہوئے)، جس کے لیے ہمیں جانچ پر نئے سرے سے سوچنا اور زیادہ مبہم نتائج قبول کرنا ہو گا۔ جیسا کہ [[mishra-control-vs-agency-history-2025|Mishra et al.]] نتیجہ اخذ کرتے ہیں، ادارہ جاتی قوتیں بار بار ایسے طریقوں کو ترجیح دیتی ہیں جو موجودہ ڈھانچوں کو مضبوط کرتے ہیں — اور ہماری چنی ہوئی زبان اور استعارے آئندہ امکانات کی تشکیل کریں گے۔ [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi کا AI×Ed فریم ورک]] اِس وجدان کو تجرباتی بنیاد دیتا ہے: AIED کی کارروائیوں (1985، 1993، 2021، 2024) اور IJAIED (2004، 2014، 2021) کے مقالات کو دو محوروں پر رکھ کر — AI کا کردار (اطلاقی اوزار بمقابلہ انسانی ذہانت سے تشبیہ) اور آخری صارف — وہ ایسے میدان کا نقشہ کھینچتے ہیں جو متنوع آمیزے سے، جس میں انسانی ذہانت سے تشبیہ کے طور پر AI استعمال کرنے والی کافی ابتدائی تحقیق شامل تھی (سیکھنے کے کمپیوٹیشنل ماڈل، Papert کے مائیکرو ورلڈز، علم کے حصول کے ایجنٹ پر مبنی ماڈل)، 2000 کی دہائی تک تقریباً مکمل طور پر اطلاقی، اوزاری استعمال کی طرف سرک گیا۔ قابلِ ذکر بات یہ ہے کہ جنریٹو-AI دور اِس رجحان کو جزوی طور پر اُلٹتا دکھائی دیتا ہے: AIED 2024 میں میدان کے "AI-بطور-تشبیہ" چوتھائی حصے کے چار میں سے تین مقالات LLM پر مبنی تھے، بشمول LLM پر مبنی [[learning-by-teaching|قابلِ تعلیم ایجنٹس]] پر بہترین مقالے کے۔
-
 
 **جریدے کا ریکارڈ دو بار مڑتا ہے۔** *Computers & Education* کے 5,387 مضامین (1976–2026) کے ساختی موضوعاتی ماڈل نے 390 ریکارڈز (7.2%) میں AI پایا، جو اُس کے 18 میں سے 17 موضوعات میں پھیلا ہوا تھا۔ کسی مضمون کے AI سے متعلق ہونے کی سالانہ مشکلات 1989 تک ہر سال 21.8% بڑھیں، 2018 تک سالانہ 3.7% گریں، پھر 2025 تک سالانہ 40.1% چڑھیں ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]])۔ 2018 کا موڑ ChatGPT سے چار سال پہلے آتا ہے، اس لیے جنریٹو دور نے پہلے سے جاری رجحان کو تیز کیا، نیا شروع نہیں کیا۔
 
@@ -98,29 +99,3 @@ ai_assist:
 
 - تاریخی ذخیروں کو بنیاد کے طور پر استعمال کریں، موجودہ کو واحد دستیاب موازنہ سمجھنے کے بجائے۔ AIED کی 1985، 1993، 2021 اور 2024 کی کارروائیاں اور IJAIED کے 2004، 2014 اور 2021 کے شمارے میدان کے اپنے دعوؤں کا تیار طویل مدتی نمونہ ہیں۔
 - نیا پن کا دعویٰ کرتے وقت نسب کا حوالہ دیں۔ یہ دعویٰ کہ کوئی نظام "سیکھنے کو ذاتی نوعیت دیتا ہے" یا "طالب علم کا ماڈل بناتا ہے" صرف کسی مخصوص سابقہ روایت کے مقابلے میں نیا ہوتا ہے، اور وہ روایت دستاویزی ہے۔
-
-## منسلک تصورات
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## منسلک مضامین
-
-- [[mishra-control-vs-agency-history-2025]] — کنٹرول بمقابلہ ایجنسی: تعلیم میں AI کی تاریخ کی کھوج
-- [[prezenski-human-centered-ai-aided-learning]] — انسان-مرکوز AI کی مدد سے سیکھنا (Anderson کی وراثت سے بحث)
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکہ اور AI مہارت (تاریخی فریمنگ)
-- [[programming-its]] — ذہین ٹیوٹرنگ نظاموں کی پروگرامنگ
-- [[lak2026-hint-button-unproductive-use]] — علمی ٹیوٹرز میں ہنٹ بٹن کا دوبارہ جائزہ
-- [[socrates-students-instructors-llms-lbt-2025]] — LLMs کے ساتھ تدریس کے ذریعے سیکھنا (Papert کی تعمیریت کا نسب)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Computers & Education کے پچاس سال کے موضوعات: AI کا پھیلاؤ 2018 کے بعد اوپر مڑا، ChatGPT سے چار سال پہلے

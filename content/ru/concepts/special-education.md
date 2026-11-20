@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -69,33 +71,3 @@ ai_assist:
 - **«[[usability-research|Юзабилити]]-оценки подтверждают вспомогательный инструмент.»** Практики дали совместно спроектированному инструменту социальных историй проходной балл юзабилити (SUS 86.8), но при этом указали на его шаблонную западную образность и трекер поведения, не отвечавший клиническому суждению, привязанному к цели. Высокая юзабилити сосуществовала с содержательными провалами, поэтому оценка SUS не является подтверждением пригодности.
 - **«Общие бенчмарки показывают, как репетитор справляется со случаями из специального образования.»** Из **923 диалогов, привязанных к случаям** из литературы по специальному образованию и педагогической психологии, **лучшая из 11 моделей** удовлетворила документированный критерий, — и **это граница того, что охватывает бенчмарк репетитора**. Стандартные оценки не доходят до случаев, где практики больше всего нуждаются в помощи.
 - **«Нейроотличным учащимся нужны приспособления, а не требования дизайна.»** [[neurodivergent-computing-students|Zastudil и др.]] обнаружили, что нейроотличным студентам-вычислителям нужны **структурированные задания, небольшие стабильные команды и явные определения ролей** — общие требования дизайна, полезные всем, а не индивидуальные поправки, выдаваемые после диагноза.
-
-## Связанные концепции
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Связанные статьи
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: оценка LLM-репетиторов на учащихся со сложным поведением (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — модель «видение — язык» планирует Shoebox Tasks для робота Nao (Kudláčková 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -64,44 +66,8 @@ ai_assist:
 
 প্রবেশাধিকার সক্ষমতার আগেই পরিপূর্ণ হতে পারে: বেনিনের আটটি বিশ্ববিদ্যালয়ের 633 জন শিক্ষার্থীর মধ্যে 92.3 শতাংশ সাপ্তাহিক জেনারেটিভ এআই ব্যবহার করতেন এবং অনুভূত উপযোগিতা নয়, কাজের চাপই গ্রহণকে চালিয়েছিল, তাই বিভাজন আর প্রধানত সরঞ্জামে পৌঁছানোর বিষয় নয় ([[gouroubera-genai-benin-2026|Gouroubera প্রমুখ, 2026]])।
 
-
 ## সাধারণ ভ্রান্তধারণা
 
 - **"স্বল্প-সম্পদ প্রসঙ্গে এআই-নীতিশাস্ত্রের কাঠামো নেই, একটি আমদানি করা দরকার।"** একটি স্বল্প-সম্পদ প্রসঙ্গে কর্মরত মাধ্যমিক STEAM শিক্ষকেরা **আনুষ্ঠানিক নীতির বদলে পেশাগত পরিচয়, শ্রেণিকক্ষের বাস্তবতা ও সাংস্কৃতিক রীতিনীতির মধ্য দিয়ে এআই-নীতিশাস্ত্র নিয়ে যুক্তি দেন**। যুক্তিটি আছে এবং তা অবস্থিত; একটি সর্বজনীন নীতি-তালিকা তার ওপর খারাপভাবে স্থানান্তরিত হয়।
 - **"শাসন-ধরন বিশ্ববিদ্যালয়ে এআই-সংযোজন পূর্বানুমান করে।"** **45টি নাইজেরীয় বিশ্ববিদ্যালয়ের** (ফেডারেল, রাজ্য ও বেসরকারি) একটি তুলনামূলক বিষয়বস্তু-বিশ্লেষণ দেখে এআই-সংযোজন পূর্বানুমানিত হয় **প্রতিষ্ঠানের বয়স ও ভৌগোলিক অবস্থান দিয়ে — শাসন-ধরন দিয়ে নয়**। সরকারি ও বেসরকারি প্রতিষ্ঠান আলাদা হবে এই ধারণা খণ্ডিত।
 - **"ডিজিটাল বিভাজনই মূল বাধা।"** **তিনটি ফিলিস্তিনি বিশ্ববিদ্যালয় জুড়ে 21 জন দৃষ্টিপ্রতিবন্ধী স্নাতকের** একটি [[qualitative-research|গুণগত]] কেস স্টাডি দেখে GenAI **ডিজিটাল, ভৌগোলিক ও আর্থসামাজিক** বাধা একইসঙ্গে সেতু করে। বাধাগুলো স্তরে স্তরে সাজানো, আর প্রবেশাধিকারকে একমাত্র বাধা ধরে নিলে বাকিগুলো অপরিবর্তিত থাকে।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## সংযুক্ত নিবন্ধ
-- [[genai-assessment-african-higher-education-review-2026]] — জেনারেটিভ এআই-এর যুগে মূল্যায়ন নিয়ে নতুন ভাবনা: আফ্রিকীয় উচ্চশিক্ষার একটি পদ্ধতিগত সাহিত্য-পর্যালোচনা
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — নাইজেরীয় উচ্চশিক্ষায় প্রাতিষ্ঠানিক কাঠামো, ডিজিটাল অসমতা ও এআই-সংযোজন
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — প্রকৌশল শিক্ষার জন্য ঐক্যবদ্ধ সামাজিক-সংজ্ঞানাত্মক মডেল (বাংলাদেশ)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: ভিয়েতনামি পাঠ-পরিকল্পনা
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: ভারতীয় জ্ঞান-ব্যবস্থা ডেটাসেট
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: ঘানা STEM বেঞ্চমার্ক
-- [[genai-minoritized-knowledges-disability]] — প্রান্তিক জ্ঞানের প্রান্তিকীকরণ
-- [[llm-cultural-relevance-k12]] — সাংস্কৃতিকভাবে প্রাসঙ্গিক K-12 শিক্ষাবিজ্ঞানের জন্য LLM
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — নির্মিতিবাদের মধ্য দিয়ে বাংলাদেশি উচ্চশিক্ষায় GenAI-সংযোজন (Alam প্রমুখ 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ও মেশিন লার্নিং ব্যবহার করে পাকিস্তানি বিশ্ববিদ্যালয় শিক্ষার্থীদের মধ্যে চাপ শনাক্তকরণ ও সুস্থতা-সহায়তার জন্য একটি এআই-চালিত সাংস্কৃতিকভাবে সচেতন চ্যাটবট
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — এল সালভাদরের এআই-টিউটরিং পাইলটের শিখন-দাবিকে সীমাবদ্ধ করা (Restrepo Morales প্রমুখ 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — দক্ষিণ আফ্রিকীয় HDI-তে ডিজিটাল মধ্যস্থ হিসেবে একাডেমিক ডেভেলপার: ডিজিটাল অসমতা বনাম অ্যালগরিদমিক ঔপনিবেশিকতা
-- [[ai-ethical-awareness-ghana-students-2026]] — ঘানার বিশ্ববিদ্যালয় শিক্ষার্থীদের কৃত্রিম বুদ্ধিমত্তা-নৈতিক সচেতনতা
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — শিক্ষায় এআই-এর নৈতিক নীতি: শিক্ষকদের প্রসঙ্গগত নৈতিক যুক্তি
-
-- [[gouroubera-genai-benin-2026]] — বেনিনে 633 শিক্ষার্থী: সাপ্তাহিক ব্যবহার 92.3 শতাংশ, কাজের চাপ প্রধান চালক, তাই প্রবেশাধিকার আর বাঁধনশর্ত নয় (Gouroubera প্রমুখ 2026)
-

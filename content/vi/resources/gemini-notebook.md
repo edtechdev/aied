@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,6 +43,3 @@ ai_assist:
 ## Ghi chú và lưu ý
 
 Google nêu rằng nội dung của tài khoản cá nhân không được dùng để huấn luyện mô hình trừ khi người dùng gửi phản hồi, rằng các tệp tải lên, truy vấn và câu trả lời trong Workspace không được dùng để huấn luyện kể cả khi có phản hồi, và rằng [[privacy|dữ liệu không được chia sẻ với bên thứ ba]]; tuy vậy, các sổ đã xóa không thể khôi phục. Những tuyên bố về năng lực ở trên là của chính nhà cung cấp, và một quận hay cơ sở giáo dục nên xác nhận chúng với thỏa thuận xử lý dữ liệu của mình chứ không phải với một trang sản phẩm. Báo chí năm 2026 cũng đưa tin về một vụ kiện liên quan tới giọng nói dùng trong các podcast được tạo ra, mà Google phủ nhận, một lời nhắc rằng đầu ra âm thanh đặt ra [[legal-issues-and-risks|những câu hỏi về hình ảnh cá nhân]] tách khỏi các biện pháp bảo vệ nền tảng nguồn. Hãy coi các thẻ ghi nhớ, trắc nghiệm và bản tóm tắt được tạo ra là bản nháp cần kiểm tra với nguồn, và lưu ý rằng hạn mức của gói miễn phí thay đổi mà không báo trước.
-
-## Khái niệm liên quan
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

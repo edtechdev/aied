@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -61,7 +63,6 @@ Mbinu za kufundisha za ujuzi mahusisi ni tofauti na [[critical-thinking]]. Ufiki
 
 - **Mazungumzo ya kulinganisha yanayolenga ufanisi kama ufutaji wa muktadha.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] wanatekeleza mfano wa pande tatu za Fairclough kwa vipande 14 vya fasihi ya kijivu (Novemba 2022 – Aprili 2025) vinavyowashauri wataalam wa elimu ya juu kutumia AI ya kizalishaji ([[generative-ai|AI ya kizalishaji]]) kwa kulinganisha kwa ujenzi, na wanagundua mazungumzo ya teknosolojia ambapo zana inaonyeshwa kama binadamu kama "mtaalam wa elimu na msaidizi" na wafanyakazi wa kitaaluma wanawekwa kama wanaotoa "utaalam wa mada" huku mfumo unafanya kazi ya kufundisha. Uchanganuzi unataja ufutaji wa muktadha wa hali, wa taaluma na wa mahusisi kama moja ya hali tatu za kushindwa — pamoja na utendaji (kulinganisha kunakuaonekana kulinganishwa tu) na kulinganisha kwa kina kidogo kunachochanganya kipimo cha ujenzi na kile kilicholinganishwa — ushahidi kwamba hata ushauri kuhusu ubini wa mitaala ([[learning-design|ubini wa mitaala]]), kwa kuonekana suala la kiufundi la upole, linaenda na mantiki ya kupunguza umuhimu wa kisiasa ambayo wanadharia wa mbinu za kufundisha za ujuzi mahusisi wanakisia mahali pengine.
 
-
 - **Mbinu za kuboresha hazitoshi peke yake.** Mbinu za ubini zinazolenga binadamu kama ubini unaohisi maadili ni hazitoshi: zinaacha viendeshaji vya mfumo — mifumo ya tathmini ya tija ya kazi na motisha ya kiuchumi — bila kuguswa, na [[agency]] inaweza kuwa ya jumla ya sifuri, kwa hivyo uwezo uliopitishwa kwa zana ni uwezo ambao mwanafunzi haubaki nao ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 
 - **Elimu ya haki za binadamu kama jaribio la utawala wa AI kama uundaji.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] anafanya kazi kupitia mfumo wa Umoja wa Mataifa wa *kuhusu, kupitia, kwa ajili ya* katika programu ya sheria na kuweka ugumu si katika teknolojia bali katika mbinu za kufundisha: wanafunzi walitoa kazi za maandishi zilizoboreshwa na mipango ya vipindi iliyoboreshwa bila mahusiano ambayo vitu hivyo vinapaswa kuthibitisha, na ufikiri mahusisi zaidi ulionekana katika maandishi ya mwisho wa kozi badala ya majadiliano ya darasa. Hitimisho lake inaelekeza nafasi ya mwalimu badala ya kuipunguza — [[governance|utawala wa AI]] unakuwa uwajibikisho wa kitaalamu ambao wanafunzi wanafundishwa kupinga, na [[llm|zana]] inaelekezwa badala ya kuzuiwa.
@@ -94,7 +95,6 @@ Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wa
 
 - Fanya uhalali kuwa kitu kinachopimwa. Katika kipimo cha kozi kilichotumia mtiririko wa uandishi, urekebishaji na kutafakari wa [[benali-genai-academic-writing-2026|Benali na Díaz García (2026)]] na wanafunzi 96 wa mwaka wa mwisho katika makundi 24, AI ilizuiliwa kwa sehemu mbili za pendekezo la utafiti na kila pendekezo la AI lililokubaliwa au kukataliwa ilibidi kuhalalishwa kwa maandishi. Ripoti za kutafakari za wanafunzi zinaelezea kazi hiyo ya uthibitishaji, si uandishi, kama iliyozalisha msimamo mahusisi, ndiyo sababu rekodi ya uamuzi ndiyo kitu cha kupima.
 
-
 **Kwa watengenezaji na wasimamizi**
 
 - Tarajia mbinu mahusisi ichunguze muundo wako wa motisha badala ya orodha yako ya vipengele, na ijibu swali kuhusu maarifa ya nani yanayosimbwa na matokeo ya chaguo-msingi.
@@ -102,35 +102,3 @@ Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wa
 **Kwa watafiti**
 
 - Ripoti mgawanyo wa hali za ushiriki katika madarasa, si matumizi ya wastani tu, kwa kuwa wastani huficha kama mazoezi yoyote mahusisi yapo.
-
-## Dhana Zilizounganishwa
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Chanio: mbinu za kufundisha na mbinu za kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Elimu ya haki za binadamu, mazoezi ya kutafakari, na kufundisha utawala wa AI kama uundaji wa kitaalamu (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Uandishi wa mchanganyiko kama mbinu ya kufundisha ya ujuzi mahusisi wa AI
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Uchanganuzi mahusisi wa mazungumzo ya ushauri wa kulinganisha kwa ujenzi wa GenAI ya teknosolojia
-- [[benali-genai-academic-writing-2026]] — Urekebishaji unaolazimisha uhalali katika kozi ya uandishi wa kitaaluma: AI ilizuiliwa kwa sehemu mbili za pendekezo, kila pendekezo lililokubaliwa au kukataliwa kwa maandishi (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Ukosoaji mahusisi, wa kike, wa "utawala wa kikoloniale wa AI" juu ya elimu ya sayansi
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "Kumpinga AI" kama mazoezi ya ujuzi mahusisi wa AI yaliyo na mizizi ya jamii
-- [[ojeda-ramirez-community-based-ai-learning]] — Kugawa upya mamlaka ya ujuzi ya AI kupitia kujifunza kwa msingi wa jamii
-- [[raffaghelli-situated-ai-ethics-2026]] — Mfumo uliowekwa katika hali, wa kihistoria-kitamaduni na wa kiikolojia kwa maadili ya AI
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Mfano wa maendeleo-mahusisi kwa ufahamu wa kubainisha katika sayansi za binadamu na jamii
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Ujuzi wa AI wa kibinadamu wa kisoshalisti + matumizi ya haki
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Mbinu inayotegemea maadili kwa elimu endelevu na AI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Maono ya ukombozi kwa kubuni AI ya kizalishaji kuelekea kustawi kwa mwanafunzi
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Mfumo wa mahusiano ya GenAI unaolenga binadamu uliojengwa juu ya Freire, ujenzi na maadili ya malezi
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Mbinu za Kufundisha za Kidijitali Mahusisi na njia za kujua za kidekolonia zilizotekelezwa katika maendeleo ya kitaaluma katika Kusini ya Dunia

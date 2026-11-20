@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
@@ -86,47 +88,3 @@ ai_assist:
 - **"کم اعتماد کے ساتھ زیادہ AI استعمال ایک بے ضرر مقابلہ کرنے کی حکمت عملی ہے۔"** یہی دریافت اُس رخ کو **کم اسکور** سے جوڑتی ہے، اس لیے اِس مقابلہ کرنے کے نمونے کی ایک قابلِ پیمائش قیمت ہے، یہ غیر جانبدارانہ انتخاب نہیں۔
 - **"اکیلی خواندگی اعتماد بناتی ہے۔"** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] نے **450 یونیورسٹی طلبہ** کا سروے کیا جو پہلے ہی ChatGPT استعمال کرتے ہیں اور **اعتماد کو خواندگی اور اعتماد کے درمیان محور** پایا۔ راستہ اعتماد سے گزرتا ہے، اس لیے اعتماد کو چھوئے بغیر خواندگی بڑھانا طریقہ کار کو اَن چھیڑا چھوڑ دیتا ہے۔
 - **"معذور آبادی میں خود اعتمادی کے پروفائل یکساں ہوتے ہیں۔"** اسپین میں **حرکاتی معذوری والے 102 یونیورسٹی طلبہ** کے لیٹنٹ پروفائل تجزیے نے **تین پروفائل** پائے، جن میں کم گروپ **29.4%** پر تھا اور باقی درمیانے اور بلند پروفائل میں بٹا ہوا تھا۔ گروپ کو ایک آبادی مان لینا الگ الگ محرک حالتوں کی اوسط نکال دیتا ہے۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — سماجی-جذباتی سیکھنا
-
-## منسلک مضامین
-- [[ai-proof-learning-cognitive-offloading-2026]] — طلبہ کے استدلال کی حمایت یا اُس کا متبادل؟ AI کی مدد والی ثبوت سیکھنے میں علمی منتقلی (Chen وغیرہ 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — عمومی AI استعمال زیادہ خود اعتمادی اور زیادہ غیر حاضری کے ساتھ چلا، پھر بھی خود اعتمادی نے حاضری کی پیش گوئی نہ کی (Franco وغیرہ 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — اعلیٰ تعلیم میں AI چیٹ بوٹ: توقعات کا ثبوت سے موازنہ (Thoeni اور Fryer 2026)
-- [[genai-performance-vs-learning]] — اعتماد بڑھتا ہوا جبکہ ٹیکنالوجی پر انحصار بڑھ رہا ہے: AI کے دور میں خود اعتمادی بطورِ گمراہ کن نتیجہ (Yan وغیرہ 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI کی مدد سے ای-مینٹورنگ EFL پری سروس اساتذہ کی خود اعتمادی اور جذباتی ذہانت بڑھاتی ہے (شبه تجرباتی)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC دستیابی اور طالب علم کی خود ضابطگی
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI خواندگی، AI تیاری اور کیریئر کی موافقت پذیری
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — AI خواندگی کے لیے استاد کی تعلیم (SDT)
-- [[social-robot-study-companions]] — سماجی روبوٹ بطورِ مطالعے کے ساتھی
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP فریم ورک
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — GenAI استعمال کے نمونے اور تعلیمی خود اعتمادی
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS پیمانہ؛ AI خواندگی کورسز میں PBL سے اطمینان تک بااختیاری اور اخلاقی آگاہی کی ثالثی (Zhu اور Kong 2026)
-- [[predicting-attrition-competitive-programming]] — مقابلہ جاتی پروگرامنگ میں طلبہ کے اخراج کی پیش گوئی
-- [[genai-xr-architectural-design-education-2026]] — مشترکہ معماری ڈیزائن تعلیم میں جنریٹو AI اور توسیع شدہ حقیقت: ایک تلاشی اسٹوڈیو مطالعہ
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ChatGPT کے مسلسل استعمال تک سلسلہ وار زنجیر میں AI خواندگی، اعتماد اور تعلیمی خود اعتمادی
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — حرکاتی معذوری والے یونیورسٹی طلبہ میں تعلیمی خود اعتمادی کے پروفائل اور بتایا گیا AI استعمال
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — بچوں میں جنریٹو AI سے تخلیقی خود اعتمادی میں بتایا گیا اضافہ (اسکوپنگ ریویو)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — بولنے کی خود اعتمادی AI کی مدد والی مشق سے رضامندی تک بے چینی کے راستے کو اُلٹ دیتی ہے
-- [[faculty-ai-well-being-social-supports-2026]] — فیکلٹی SEM: ٹیکنالوجیکل خود اعتمادی AI بہبود کا کمزور پیش گو
-- [[cen-self-efficacy-favorability-2026]] — خود اعتمادی اور پسندیدگی ٹیوٹرنگ نظاموں اور کاغذی مشق سے سیکھنے کو شکل دیتی ہیں (Cen وغیرہ 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — تحریر کی خود اعتمادی کا پیمانہ زیادہ Translating اور Reviewing استفسارات کی پیش گوئی کرتا ہے، Planning یا پورے مضمون کی تفویض میں اضافہ نہیں (Jelson وغیرہ 2026)
-- [[kim-overtrust-ai-literacy-2026]] - تعلیمی خود اعتمادی نے AI پر کم کے بجائے زیادہ حد سے زیادہ بھروسے کی پیش گوئی کی
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — ٹیکنالوجی سے بڑھی ہوئی سیکھنے میں سیکھنے والوں کے تعامل کے نشانات سے خود اعتمادی کے یقین کی پیمائش کے لیے مشین لرننگ کا استعمال
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI خود اعتمادی -> AI خواندگی -> AI قبولیت، علم کی ثالثی والا حصہ ناپا گیا (İşbulan وغیرہ 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — خود اعتمادی بطور سمجھی گئی افادیت کی ضروری شرط، بوتل نیک کی حدوں کے ساتھ (Chu & Liu 2026)

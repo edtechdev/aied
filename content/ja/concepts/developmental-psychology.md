@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -91,36 +93,3 @@ pre-Kと幼稚園を対象とする、遊びに基づくアンプラグド型フ
 - **「2つの年齢群に差があれば、それは発達で説明される」** 横断的な年齢差には、コホート、カリキュラム、デバイスへのアクセス、文脈が交絡している。変化と違いを分離できるのは、同じ学習者を追跡する設計だけである。
 - **「遂行を支援するツールは、その能力を発達させている」** 補償・足場かけ・発達は異なる機能であり、ツールが取り除かれた後も残ると期待されるのは最後のものだけである。
 - **「AI玩具は中立的な遊びの素材である」** エージェンシー再配分の議論はそうではないと言う。玩具の応答性が、誰が想像しているのかを形づくる。
-
-## 関連する概念
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## 関連する記事
-
-- [[guo-ai-literacy-developmental-paces-2026]] — 118件のK–12 AIリテラシー研究:同じ学習者を段階をまたいで追跡した研究がない4段階の進行(Guo, Ali & Wong, 2026)
-- [[ai-toys-child-development-2026]] — AI搭載玩具は遊びにおけるエージェンシーを再配分する(Xu, Girouard & Shi)
-- [[clara-developmental-appropriateness-children-stories-2026]] — 122ラベルのタクソノミーによる発達的適切性のスコアリング
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAIと子どもの創造的思考に関するスコーピングレビュー
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 補償・足場かけ・発達という3つのツールの機能
-- [[genai-reliance-executive-functioning-2026]] — 努力よりも選好としての青年期のGenAI依存
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — スキャナ内でChatGPTと会話する子どもと成人
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — 青年がチャットボットに何を開示するか(どれだけ使うかではない)
-- [[ai-connectedness-adolescent-mental-health-2026]] — 倫理的に非対称な絆としてのAIとのつながり(理論)
-- [[ai-play-framework-early-childhood-2026]] — pre-Kと幼稚園向けの遊びに基づくアンプラグド型AIリテラシー
-- [[age-tiered-ai-literacy-guidebooks-2026]] — AIリテラシーガイドブックの2つの年齢帯別版
-- [[preservice-early-childhood-genai-magnetism-2026]] — GenAIを使って設計する幼児教育の職前教員
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 実行機能のためのチャットボット訓練、10件の研究
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 大学生における依存、ストレス、実行機能不全

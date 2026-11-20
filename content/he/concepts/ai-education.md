@@ -41,6 +41,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -200,58 +202,3 @@ ai_assist:
 **"מכיוון ש-AI היא כללית-מטרה, ממצא שנמצא במקום אחד חל בכל מקום."** הכלליות של הטכנולוגיה אינה יוצרת כלליות של הראיות. זרמי הדיסציפלינה, הרמה וההקשר קיימים מפני שאותו כלי מתנהג אחרת בכל אחד מהם, וממצא שהועבר ללא שינוי מעבר לגבול הוא אקסטרפולציה.
 
 **"אפשר לקרוא את בגרות השדה מהיקף הפרסומים שלו."** היקף ובגרות מתפצלים; זרם שיטות המחקר מתעד חולשות עיצוב חוזרות שהיקף אינו מתקן, ומסגרות מתרבות מהר יותר משנבחנות.
-
-## מושגים מחוברים
-
-- [[primary-education|חינוך יסודי]] — בינה מלאכותית בבית הספר היסודי
-- [[secondary-education|חינוך תיכוני]] — בינה מלאכותית בחטיבת הביניים ובתיכון
-- [[undergraduate-education|תואר ראשון]] — בינה מלאכותית בלימודי תואר ראשון
-- [[graduate-education|תואר שני ושלישי]] — בינה מלאכותית בלימודי מוסמך ודוקטורט
-- [[ai-literacy|אוריינות AI]] — מטרייה: הבנה, שימוש והערכה של בינה מלאכותית
-- [[human-ai-collaboration|שיתוף פעולה בין אדם לבינה מלאכותית]] — מטרייה: כיצד אנשים ובינה מלאכותית עובדים יחד
-- [[pedagogy|פדגוגיה]] — מטרייה: שיטות ואסטרטגיות הוראה
-- [[learning-theories|תיאוריות למידה]] — מטרייה: כיצד מתרחשת הלמידה
-- [[ai-technologies|טכנולוגיות]] — מטרייה: מודלים, טכניקות ומערכות
-- [[discipline-specific-aied|בינה מלאכותית בתחומי הדעת]] — מטרייה: בינה מלאכותית על פני תחומי דעת ורמות
-- [[assessment|הערכה]] — מטרייה: כיצד בינה מלאכותית מעריכה לומדים ומעצבת מחדש את התוקף
-- [[feedback|משוב]] — מטרייה: כיצד משוב נוצר, נמסר ומשמש
-- [[stakeholders|בעלי עניין]] — מטרייה: מי השחקנים
-- [[learners|לומדים]] — מטרייה: המושגים בצד הלומד (חוויה, זהות, סוכנות, אינטראקציה, מידול לומד)
-- [[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]] — מטרייה: כיצד אנחנו יודעים אם בינה מלאכותית עובדת
-- [[research-methods-aied|שיטות מחקר ב-AIED]] — מטרייה: שיטות מחקר של יעילות
-- [[governance|ממשל]] — מטרייה: השכבה המוסדית והרגולטורית
-- [[educational-policy-ai|מדיניות חינוכית לבינה מלאכותית]] — מטרייה: מדיניות, הנחיות ויישום
-- [[equity-in-ai-education|שוויון]] — מטרייה: הוגנות, נגישות והכלה
-- [[learning-sciences|מדעי הלמידה]] — השדה האמפירי שמאחורי הבינה המלאכותית בחינוך
-- [[ethics|אתיקה]] — הממדים האתיים של בינה מלאכותית בחינוך
-- [[misconceptions|תפיסות שגויות]] — המודלים המנטליים שאנשים מביאים איתם לבינה מלאכותית
-- [[interpreting-and-applying-aied-research|כיצד לפרש וליישם את המחקר הזה]] — קריאת מחקר בודד והעברת ממצא אל הפרקטיקה
-- [[limitations-in-aied-research|המגבלות הרוחביות של בסיס הראיות]] — גבולות רוחביים של בסיס הראיות
-- [[meta-analysis-systematic-review|מטא-אנליזה וסקירה שיטתית]] — מה שהסקירות והמטא-אנליזות קובעות
-- [[history-of-aied|ההיסטוריה של התחום]] — כיצד התפתח התחום
-- [[philosophy-of-ai-in-education|הפילוסופיה של בינה מלאכותית בחינוך]] — היסודות הפילוסופיים
-- [[theories-and-frameworks|תיאוריות ומסגרות]] — מפת צמתי התיאוריה והמסגרת
-- [[theory-development-aied|פיתוח תיאוריה]] — בנייה ותיקון של תיאוריה
-- [[pedagogical-patterns]] — דפוסים פדגוגיים: הרצפים הנבדקים המממשים את המתודולוגיות של התחום
-- [[ai-assisted-educational-research]] — מחקר חינוכי בסיוע בינה מלאכותית
-- [[automation-bias]] — כשל בצד הקורא: קבלת שיפוט אוטומטי בלי לבדוק אותו
-- [[case-based-learning]] — שיטת מקרה, דיון במקוםה ומקרים מנוגדים
-- [[metaphors-and-analogies]] — כיצד מטפורה מעצבת הבנה של AI וכיצד אנלוגיה תומכת בהוראה
-- [[sensor-and-gaze-analytics]] — מטרייה: חישת לומדים באמצעות מבט, EEG ואותות לבישים
-- [[ai-avatars-and-synthetic-instructors]] — מטרייה: בני אדם סינתטיים שמלמדים, חונכים, מדמים ומעריכים
-- [[civic-and-political-education]] — תחום דעת: אוריינות לחיים ציבוריים, עם בסיס ראיות דק
-
-## מאמרים מחוברים
-
-סקירות חוצות-תחום של בינה מלאכותית בחינוך: המחקרים שסוקרים את כל התחום או רמה חינוכית שלמה ולא נושא אחד:
-
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 מחקרי GenAI בחינוך תיכוני: רווחים היכן שתלמידים השוו תוצרים, דעיכה היכן שהכלי הפיק את העבודה (Pérez-Montesdeoca et al. 2026)
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — מוכנות מחקרית בתואר שני מגיעה דרך תמיכת מנחה, לא דרך שימוש בכלי (Luo et al. 2026)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — אתיקה של הנחיית דוקטורט ב-GenAI: לגיטימיות לפי משימה, חשיפה פרופורציונלית, ממשל בנקודות ציון (Guanilo Pareja et al. 2026)
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — סמינר לתואר שני: סוכנות מואצלת ולא נכנעת כאשר שומר סף בקיא בודק את הפלט (Chen 2026)
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — תדירות שימוש היא מדד שגוי לכשירות בין רמות; אתיקה וויסות עצמי נושאים את הקשר (Zaripova et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis

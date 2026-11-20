@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 **Education Agent Skills** is a library of 165 agent skills for teachers, school leaders, and people building education tools. The skills are grouped into twenty domains spanning pedagogy, learning science, [[curriculum-design|curriculum]], assessment, and regeneration, and each one is written to be loaded by an [[agentic-ai|agent]] rather than read as a document.
@@ -38,8 +39,3 @@ The project's distinguishing claim is its grounding: skills cite the evidence th
 ## Notes and caveats
 
 The educational skills, documentation, and curriculum materials are licensed CC BY-SA 4.0, so reuse and adaptation are open while derivatives must carry the same license. Two operational details matter if you deploy it. The hosted MCP endpoint requires tokens rather than being open to anyone, and because the server serves a committed snapshot rather than the SKILL.md files, a skill you add without rebuilding and committing the bundle will not appear on the live server even after a redeploy. The library is built by Gareth Manning, an educator and curriculum designer, and the licensing terms apply to the educational content specifically.
-
-## Connected Concepts
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

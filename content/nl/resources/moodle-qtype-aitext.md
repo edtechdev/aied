@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -48,12 +49,3 @@ Moodle-beheerders en -ontwikkelaars die de site al draaien, docenten die AI-beoo
 ## Notities en kanttekeningen
 
 Open source onder GPL v3 of later, maar gratis betekent niet gratis om te draaien: iemand betaalt voor de model-API, en de kwaliteit van de beoordeling hangt af van modelkeuze en promptontwerp. Vrije-tekstantwoorden verlaten de Moodleserver wanneer een externe aanbieder wordt gebruikt, dus de dataovereenkomst van de instelling bepaalt wat mag worden verstuurd; de zelfgehoste Ollama-route bestaat voor sites die het werk van studenten niet naar buiten kunnen sturen. De repository vermeldt geen gepubliceerde nauwkeurigheids- of overeenstemmingsstudie, dus de plugin moet niet worden aangenomen in de veronderstelling dat LLM-beoordeling gelijk is aan menselijke beoordeling — [[assessment-validity|validiteit]] moet lokaal tegen menselijke scores worden vastgesteld voordat een cijfer gewicht draagt. De bijbehorende gedragingen zijn een harde afhankelijkheid: alleen het vraagtype installeren laat vragen onbeoordeelbaar.
-
-## Gerelateerde concepten
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

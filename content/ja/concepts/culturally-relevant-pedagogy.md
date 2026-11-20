@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -97,33 +99,3 @@ CRP の背後にある*内容*と*評価*の隔たりに取り組む、ナレッ
 **「機関のAI利用方針が、学生が何を倫理的と考えるかを決める。」** 方針の文言よりも文化のほうが強く作用します。カナダと韓国の[[cs-education|コンピューティング]]を学ぶ学生を対象とした異文化間調査では、**AI利用の倫理性についての知覚を左右したのは方針ではなく文化**であり、同一の行動が集団ごとに異なる判断を受けていました。したがって全学一律の方針は共有された倫理を生み出さず、生み出すものとして扱えば、自分の学生を読み違えることになります。
 
 **「教員4人のパイロットで教師の自信が高まったことは、その手法が有効である証拠である。」** それは教師の知覚についての証拠であり、得る価値はありますが、有効性の証拠とは別物です。このパイロットでは、文化的応答性の機会を見いだすことへの教師の自信が高まり、**78%が教材の多様化にAIの提案が役立つと評価しました**。しかし著者らは、文化的適応が**NLPパイプラインではなくプロンプトの中に**存在すること、そして文化的適切さが作り込まれたのではなく評価されただけであることを認めています。自信と有用感を足し合わせたものは、学生にとっての文化的関連性が実証されたことにはなりません。
-
-## 関連概念
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — 傘概念：AI 教育における教授法と教授戦略
-
-## 関連論文
-
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
-- [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 下書きの前に文化的文脈について教師に聞き取る授業計画ツール（Zhai ら 2026）

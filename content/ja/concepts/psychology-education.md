@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -99,27 +101,3 @@ ai_assist:
 - **「心理学教育におけるAIは主に臨床ツールに関するものである。」** 研究の最大の割合は[[writing-education|ライティング]]、フィードバック、学習習慣に関わるものであり、臨床ツールは小さく新しく、別個の流れである。
 - **「信頼性の高い生成問題は使える問題である。」** 高次の成果を網羅しない信頼性は、間違ったものをよく測るテストを生み出す。
 - **「訓練生はAIに賛成か反対かのどちらかである。」** 潜在クラスの証拠は、領域ごとに4つ以上のプロファイルがあり、ツールによって異なることを示している。
-
-## 関連する概念
-
-- [[social-sciences-education]] — この分野が属するクラスターのページであり、社会学の証拠が置かれている場所
-- [[humanities-education]] — 同じアセスメント問題を抱える、隣接する解釈的分野
-- [[ai-literacy]] — 心理学教育の研究の大半が実際に測定している構成概念
-- [[assessment-validity]] — あらゆるAI支援アセスメントの判断基準
-- [[feedback]] — ここで最も強い研究が依拠するメカニズム
-- [[self-efficacy]] — 継続使用を媒介する傾向
-- [[student-ai-interaction]] — 学生がそうしていると語る姿とは対照的な、実際のツールの関わり方
-
-## 関連する記事
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 2年次心理学のメディア課題でChatGPTがピア評価を置き換える
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 生成された80問:信頼性は高く、73.75%が想起
-- [[ai-tutor-statistical-programming-adoption-2026]] — 心理学の統計科目におけるR-Tutorの事前登録縦断研究
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — クライアントとしてのGPT-4o:不安は下がるが、同調的で文化的に平板
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — すべての領域で3〜4の潜在クラス
-- [[mental-health-literacy-students-llms-2026]] — 30の記述で150人の心理学学生と4つのLLMを比較
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531人の学部生、6つのヴィネット、リテラシーは判断を予測するか
-- [[critical-genai-use-predictors]] — 知識、認識論的志向、価値観が批判的使用を予測する
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 信頼と自己効力感が継続使用を担い、不安がそれにブレーキをかける
-- [[hawkins-feedback-literacy-ai-essay-writing]] — エッセイ成績の唯一有意な予測因子としてのフィードバック・リテラシー
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991人の学生、2年を隔てて:使用は2倍、不正という認識は低下

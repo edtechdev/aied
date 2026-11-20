@@ -16,6 +16,8 @@ ai_assist:
     role: drafting
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 > **Synthesis**: Metaphors and analogies do two jobs in AI education. They are sense-making devices through which educators and students decide what AI *is* (a tool, an assistant, a black box, an oracle), and they are instructional devices that map a familiar source domain onto an unfamiliar target concept. Research shows that those two jobs are connected: the metaphors people hold shape what they expect from AI, which features they notice, and whether they trust or fear it. The same structure-mapping logic explains why an analogy can make a technical idea memorable while quietly misrepresenting it. A flawed GenAI-generated analogy can be more useful than a polished one when students know the source domain well enough to audit the mapping and repair it. The practical lesson is to choose metaphors for the feature being taught, check structural fit and cultural accessibility, and treat the comparison as an object of critique rather than a finished explanation. The evidence is mostly [[qualitative-research|qualitative]], conceptual, and small-scale; the field has little causal evidence that metaphor-based teaching improves learning.
@@ -119,37 +121,3 @@ The risk of overclaiming is real in both directions. A teacher who treats a meta
 - **"Metaphors are neutral illustrations."** Every metaphor selects some features and hides others. The choice carries assumptions about agency, trust, and responsibility.
 - **"AI-generated analogies are ready to use."** Generated analogies can be structurally wrong, culturally narrow, or pedagogically mismatched. They need teacher review or a student critique task.
 - **"If students enjoy the analogy, they learned the concept."** Engagement and learning are separate outcomes. The evidence base here is mostly qualitative and does not establish a learning gain.
-
-## Connected Concepts
-
-- [[ai-literacy]] — the umbrella for critical AI literacy and metaphor-based teaching.
-- [[critical-thinking]] — analogy critique as a form of structural reasoning.
-- [[misconceptions]] — flawed analogies as a source of durable misconceptions.
-- [[student-ai-interaction]] — how students interpret and audit AI explanations.
-- [[pedagogical-agent]] — AI tutors that generate explanations or analogies.
-- [[learning-design]] — selecting and sequencing analogy-based materials.
-- [[educational-development]] — metaphor elicitation in faculty development.
-- [[engineering-education]] — faculty and student metaphors in engineering.
-- [[cs-education]] — analogy use and critique in computing education.
-- [[cognitive-offloading]] — tool and assistant metaphors and their risks.
-- [[trust-calibration]] — anthropomorphic roles and misplaced trust.
-- [[equity-in-ai-education]] — whose source domains count as familiar.
-- [[teacher-role]] — instructor judgment over AI-generated explanations.
-- [[explainable-ai]] — system explanation versus pedagogical analogy.
-- [[student-engagement]] — engagement effects of personalized analogies.
-- [[higher-ed]] — the setting of most studies in this cluster.
-
-## Connected Articles
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four metaphors and criteria for teaching critical AI literacy
-- [[student-reception-genai-analogies-computing-2026]] — Students audit GenAI-generated analogies and repair broken mappings
-- [[fear-awe-genai-metaphor-workshops-2025]] — Metaphor-analysis workshops with students, academics, and staff
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering faculty metaphors construct and constrain AI understanding
-- [[genai-professionalization-metaphors-2026]] — Students' metaphorical conceptualizations of GenAI and professional learning
-- [[thermomix-genai-education-analogy-2026]] — A kitchen-machine analogy for delegation and learning with AI
-- [[anvil-ai-educational-animations]] — AI-generated analogies and instructional animations for computing
-- [[ai-engineering-education-balancing-act]] — Students' "oracle" and "tutor" metaphors exceed LLM capabilities
-- [[code-anchor-multi-view-visualization]] — Metaphorical visualization scaffolds and their legitimacy problem
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — A student's "vending machine of feedback" metaphor as literacy evidence
-- [[daoism-ai-education-philosophy-2026]] — "Zhenren" as a counter-metaphor for AI in education
-- [[rodak-hire-ai-future-focused-literacy-2026]] — The hired-assistant metaphor and a student-written scope of work

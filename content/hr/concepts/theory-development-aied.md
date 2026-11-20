@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -118,53 +120,3 @@ Razvoj teorije i [[philosophy-of-ai-in-education|filozofija umjetne inteligencij
 
 - Dizajnirajte kontraste konfiguracija ako namjeravate dati teorijski doprinos. Ispitivanje prosječnog učinka objavljeno kao razvoj teorije najčešći je i najmanje koristan proizvod područja.
 - Svakom okviru koji uvedete pridružite izričite opovrgljive propozicije i izvijestite koje bi ih razlike među konfiguracijama opovrgle.
-
-## Povezani koncepti
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Povezani članci
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — proširenje funkcionalne taksonomije: 90 od 154 klasificiranih publikacija (58,4 %) pada izvan izvornih četiriju kategorija (Ranieri i Biagini 2026.)
-- [[yan-agentivism-learning-theory-ai-2026]] — teorija učenja srednjeg dosega za interakciju čovjeka i umjetne inteligencije, s četiri mehanizma i šest provjerljivih propozicija (Yan i Gašević 2026.)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — obmanjujuća pregeneralizacija: adaptivno ovladavanje može zaustaviti vježbu prije nego što učenici znaju kada treba suzdržati radnju (An, McLaren i Stamper 2026.)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — generativizam kao nova teorija učenja
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — prema teoriji epistemičke sudjelotvornosti
-- [[du-yuan-epistemic-dependence-2026]] — relacijska epistemička djelotvornost i granica produktivnog oslanjanja i štetne ovisnosti (Du i Yuan 2026.)
-- [[absent-cognitive-baseline-2026]] — odsutna kognitivna osnovica (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — kognitivno zajedničko dobro i regeneracija stručnosti
-- [[genai-performance-vs-learning]] — izvedba nasuprot učenju
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — epistemička pismenost o umjetnoj inteligenciji (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — vjerodajnice i kognitivno upravljanje
-- [[ai-cognitive-partner-co-regulation-learning]] — umjetna inteligencija kao kognitivni partner u suregulaciji
-- [[epistemic-proactivity-math]] — epistemička proaktivnost u matematici
-- [[strydom-human-gai-paradigms-2026]] — sedam paradigmi angažiranosti čovjeka i generativne umjetne inteligencije utemeljenih u epistemološkim uvjerenjima
-- [[critical-thinking-paradox-genai-learning-2026]] — paradoks kritičkog mišljenja
-- [[dollinger-equitable-assessment-ai-2026]] — pravedna procjena pod generativnom umjetnom inteligencijom
-- [[shaw-nave-cognitive-surrender-2026]] — teorija triju sustava i kognitivna predaja: kako umjetna inteligencija preoblikuje ljudsko rezoniranje (Shaw i Nave 2026.)
-- [[reconceptualizing-community-inquiry-generative-ai]] — rekonceptualizacija zajednice istraživanja u doba generativne umjetne inteligencije
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — iskustva i percepcije generativne umjetne inteligencije sveučilišnih nastavnika: ranjivost, promišljanje procjene, učenje studenata u opasnosti (Farazouli i sur. 2026.)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — alternativna filozofija umjetne inteligencije: daoizam kao metoda za umjetnu inteligenciju u obrazovanju
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: sheme utemeljene na tvrdnjama za provjerljivo kodiranje obrazovnih dijaloga
-- [[metacognitive-ownership-human-ai-regulation-2026]] — metakognitivno vlasništvo: definicija konstrukta, granice i istraživački program
-
-- [[synthetic-position-self-authorship-2026]] — sintetička pozicija: dijaloški prijedlog selfa koji imenuje sintetičku promociju i autorsku suspenziju s unakrsnim predviđanjem
-- [[capability-decision-model-teacher-readiness-2026]] — opovrgljiv model spremnosti nastavnika koji polazi od sposobnosti, s četiri uvjeta opovrgavanja
-- [[ai-connectedness-adolescent-mental-health-2026]] — povezanost s umjetnom inteligencijom: trodimenzionalni konstrukt sa šest opovrgljivih propozicija za kasnije testiranje
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — ciklus kognitivnog partnerstva
-- [[friction-paradox-generative-ai-education-abroad-2026]] — poželjne teškoće i produktivni neuspjeh primijenjeni na interpretativnu djelotvornost u obrazovanju u inozemstvu
-- [[webb-pck-genai-2026]] — Tri vinjete i novi konstrukt, pseudo-cPCK, za izlaz koji oponaša kolektivno validirano znanje bez jamstva (Webb et al. 2026)

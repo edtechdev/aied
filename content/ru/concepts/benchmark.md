@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -83,38 +85,3 @@ ai_assist:
 - **«Позиция в таблице лидеров говорит, насколько хорош репетитор.»** StudentBench **рандомизирует 2383 взрослых между условиями тьюторства ИИ, живого экспертного человеческого тьюторства и видео** и оценивает относительно человеческих репетиторов, а не относительно других систем. Бенчмарк, выровненный на другие модели, отвечает на вопрос, который никому не был нужен.
 - **«Симулированные персоны — адекватная основа для оценки репетитора.»** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] обосновывает оценку **документированной литературой случаев, а не симулированными персонами**, используя **923 диалога**. Сфабрикованные персоны студентов позволяют системе проходить случаи, которых не бывает.
 - **«Бенчмаркам можно доверять, не проверяя судью.»** Галлюцинация оценивалась как **импликация относительно извлечённых фрагментов с открытой лицензией (κ = 0.76 с экспертным суждением)** — судья был валидирован против экспертов до того, как его баллы использовались. Невалидированный автоматический судья производит числа неизвестного смысла.
-
-## Связанные концепции
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Связанные статьи
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: оценка LLM-репетиторов на учащихся со сложным поведением (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Бенчмарк владения английским на 624 заданиях, сообщающий способность модели как калиброванный уровень (Min и др. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Измеряют ли инструменты оценивания одно и то же для людей и для LLM? (Strugatski и др. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Педагогический бенчмарк: педагогические знания LLM (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: бенчмаркинг агентов проектирования обучения на базе LLM
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Ассистенты базы знаний ИИ на локальных OER: многомерный бенчмарк
-- [[authentic-products-authenticated-processes-2026]] — От аутентичных продуктов к аутентифицированным процессам: аутентичное оценивание в насыщенном ИИ высшем образовании
-- [[llm-cognitive-diagnosis-handwritten-math]] — Бенчмаркинг больших языковых моделей для диагностики когнитивных навыков студентов по рукописным математическим работам
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: бенчмарк с длинным горизонтом для педагогических агентов на базе LLM с моделируемыми учащимися
-- [[responsible-assessment-ai-era-stanford-2026]] — Ответственное оценивание в эпоху ИИ: ключевые выводы конференции, ориентированной на будущее
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: моделирование тонких признаков для целостного оценивания эссе
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: бенчмаркинг мультимодальных LLM для аудита слайдов
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: бенчмарк для оценивания сгенерированных математических диаграмм
-- [[eeg-familiarity-automated-assessment-2026]] — Автоматизация оценивания учащихся: предсказание знакомства на основе ЭЭГ
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: конструирование бенчмарка через аннотирование в первую очередь и генерацию задач, а также не-избыточность на уровне измерений по 12 задачам на художественных изображениях (Zhu и др. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: репетиторство с ИИ и репетиторство с человеком дают эквивалентный прирост в обучении по GRE
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оценка предобученных моделей для педагогической оценки новых образовательных вопросов, созданных с помощью ИИ
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Восемь принципов проектирования для бенчмарков репетиторов на базе ИИ, выведенных из метрики, которую оптимизировали до повторения (Domínguez Figaredo и Fernández De la Cruz 2026)

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,11 +42,3 @@ Lue se joukkona projektikuvauksia eikä arviointina. Kirja etenee kolmessa osass
 ## Huomioita ja varauksia
 
 Lukujen lisensointi on ansa. Kokoelma on CC BY 4.0, mutta yksittäiset tekijät pitävät tekijänoikeuden ja valitsivat omat Creative Commons -lisenssinsä, joten luku voi olla rajoittavampi kuin kirjan etusivu antaa ymmärtää; oppikirjan uudistamista käsittelevä luku on CC BY-NC-SA 4.0, ja uudelleenkäytön on tarkistettava luku eikä alkulehdet. Tekijöillä ei ollut vaadittua tekoälyn ilmoitusmenettelyä, joten useimmat luvut käsittelevät prosessiaan ohimennen, yleensä OER Commonsin ohjeistusta noudattaen. Toimituksellisesta valinnasta jokainen luku säilyttää tekijänsä tieteenalan äänen, välimerkit ja alueellisen oikeinkirjoituksen, joten proosa ei lue yhtenäisesti. Ennen kaikkea jokainen luku dokumentoi yhden paikallisen projektin, eikä kaksi jaa välinettä tai vertailua, joten teos tarjoaa mukautettavaa käytäntöä eikä viitattavaa näyttöä.
-
-## Liittyvät käsitteet
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -39,7 +41,6 @@ ai_assist:
 
 - **Снижается при студийной работе GenAI плюс XR:** в студии [[arts-and-media-education|design studio]] на 27 студентов команды, использовавшие конвейер [[generative-ai|GenAI]] и многопользовательского XR, показали более крупные относительные снижения до–после в уверенности в дизайнерской самоэффективности (β = −1.675, p = 0.021) и ожидании исхода (β = −2.088, p = 0.002), чем команды, продолжавшие обычный рабочий процесс, без значимого различия в ослеплённой оценке их презентаций жюри ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Обогащённые инструментами среды могут угнетать веру в собственную эффективность даже когда сама работа оценивается как эквивалентная.
 - **ИИ-самоэффективность и готовность к карьере:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] показывает, что ИИ-самоэффективность модерирует связь между ИИ-грамотностью и готовностью к ИИ: грамотность переводится в готовность только когда учащиеся обладают уверенностью в использовании ИИ, а самоэффективность напрямую предсказывает [[career-development-and-readiness|career adaptability]].
-
 
 - **Уверенность — не всегда рычаг.** Поперечный SEM 502 преподавателей университета обнаружил, что технологическая самоэффективность — малый предиктор [[well-being|благополучия]] в отношении ИИ (β = 0.082), тогда как ИИ-грамотность доминировала (β = 0.713), ограничивая утверждение о том, что уверенность служит воротами результатов ИИ: для благополучия знание перевесило уверенность ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
@@ -89,47 +90,3 @@ ai_assist:
 - **«Больше использования ИИ при низкой уверенности — безвредная стратегия совладания».** Та же находка связывает это направление с **более низкими баллами**, так что паттерн совладания имеет измеримую цену, а не является нейтральным выбором.
 - **«Одна грамотность строит уверенность».** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] опросил **450 студентов университетов**, уже использующих ChatGPT, и находит **доверие как поворотное звено между грамотностью и уверенностью**. Путь идёт через доверие, поэтому повышение грамотности без работы с доверием оставляет механизм нетронутым.
 - **«Профили самоэффективности однородны в популяции с инвалидностью».** Латентный профильный анализ **102 студентов университетов с двигательными нарушениями** в Испании обнаружил **три профиля**, причём низкая группа составила **29,4%**, а остальные разделились между умеренным и более высокими профилями. Рассмотрение группы как одной популяции усредняет различные мотивационные состояния.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: зонтичная категория для концепций на стороне учащегося
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Социально-эмоциональное обучение
-
-## Связанные статьи
-- [[ai-proof-learning-cognitive-offloading-2026]] — Поддержка или замена рассуждений студентов? Когнитивная отгрузка в обучении доказательствам с поддержкой ИИ (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Общее использование ИИ шло вместе с более высокой самоэффективностью и более высоким абсентеизмом, однако самоэффективность не предсказывала посещаемость (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — Уверенность растёт при растущей технологической зависимости: самоэффективность как вводящий в заблуждение исход эпохи ИИ (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — Электронное наставничество с поддержкой ИИ повышает самоэффективность и эмоциональный интеллект будущих преподавателей EFL (квазиэкспериментальное)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Паттерны использования GenAI и академическая самоэффективность
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Шкала AI-PBLS; расширение прав и этическая осведомлённость, опосредующие PBL→удовлетворённость на курсах ИИ-грамотности (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ИИ-грамотность, доверие и академическая самоэффективность в серийной цепи к продолжению использования ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Профили академической самоэффективности и заявленное использование ИИ среди студентов университета с моторными ограничениями
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Заявленные приросты креативной самоэффективности от генеративного ИИ у детей (скопинговый обзор)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Самоэффективность в говорении разворачивает путь тревоги от практики с поддержкой ИИ к готовности
-- [[faculty-ai-well-being-social-supports-2026]] — SEM преподавателей: технологическая самоэффективность — слабый предиктор благополучия в отношении ИИ
-- [[cen-self-efficacy-favorability-2026]] — Самоэффективность и благоприятность формируют обучение с тьюторских систем и на бумаге (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Шкала самоэффективности письма предсказывала больше запросов «Перевод» и «Рецензирование», но не больше «Планирования» или делегирования эссе целиком (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Использование машинного обучения для измерения веры в самоэффективность по следам взаимодействия учащихся в обучении с поддержкой технологий
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — ИИ-самоэффективность -> ИИ-грамотность -> принятие ИИ, с измеренной долей, опосредованной знанием (İşbulan et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — Академическая самоэффективность предсказывала более высокое, а не более низкое чрезмерное доверие к ИИ
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — самоэффективность как необходимое условие воспринимаемой полезности, с пороговыми значениями (Chu & Liu 2026)

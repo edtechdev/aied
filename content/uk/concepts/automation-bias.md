@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -117,45 +119,3 @@ ai_assist:
 - **«Людина в циклі це виправляє.»** Цикл лише настільки добрий, наскільки добра можливість втрутитися, а дослідження оцінювання не виміряли якоріння.
 - **«Це проблема студентів.»** Викладачі, оцінювачі, анотатори й адміністратори — це підписувачі в кожному дизайні, який описує корпус.
 - **«Це вада характеру, яку знімає краще навчання.»** Навчання допомагає, але та сама людина поводиться інакше залежно від того, чи перевірка дешева, чи вихід гладкий і чи несе незгода ціну.
-
-## Пов’язані поняття
-
-- [[trust-calibration]] — стан покладання, чий збій називає упередженість до автоматизації
-- [[bias-mitigation]] — відповідник на боці системи: упередженість усередині моделі
-- [[cognitive-offloading]] — делегування розумової праці, одним із наслідків якого є неперевірене прийняття
-- [[human-in-the-loop-ai]] — запобіжник, чию силу вирішує цей збій
-- [[explainable-ai]] — втручання прозорості, яке корпус пропонує і рідко тестує
-- [[learning-analytics]] — панелі та ранні попередження, де концентруються помилки пропуску
-- [[recommender-systems-and-learning-paths]] — ранжування того, що робити далі, за чим студент може просто піти
-- [[automated-assessment]] — бал, який людина може прийняти, не перечитавши
-- [[scaffolding]] — перевірки, що лишаються дешевшими за прийняття
-- [[self-efficacy]] — риса, на якій тримається стандартне передбачення
-- [[ai-detection]] — виявлення, яке люди оцінюють під тиском часу
-- [[remote-proctoring]] — підозра, піднята моделлю й розсуджена людиною
-- [[ai-literacy]] — де жила б перевірка як оцінювана навичка
-
-## Пов’язані статті
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — викладачів застерігають від підкорення рекомендаціям, побудованим на тонких даних
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — називає якоріння оцінювачів балами ШІ неперевіреним ризиком і пропонує сліпе оцінювання
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — панелі, зворотний зв’язок за поверховими ознаками та світлофори як загальна картина
-- [[factria-responsible-institutional-analytics-2026]] — одинадцять заінтересованих сторін, чотири кейси, чат-бот, що відмовляється рекомендувати
-- [[ludia-udl-ai-thought-partner-2026]] — запобіжник освітянина, ослаблений довірою до предметних знань інструмента
-- [[extended-minds-coupling-flexibility-2026]] — формальне право відкинути не є наглядом, якщо упередженість до автоматизації його долає
-- [[ground-truth-reliability-aied]] — анотування LLM, циклічна валідація і тихий дрейф позначок
-- [[polished-artifacts-fragile-engagement-2026]] — упередженість до автоматизації як соціально-когнітивна нитка зниженого епістемічного зусилля
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — один із чотирьох режимів відмови в рекурсивній роботі людини зі ШІ
-- [[eight-mode-ai-engagement-typology-2026]] — режим «Оракула» та його характерний ризик
-- [[assessing-student-drive-framework-2025]] — активна людська суб’єктність як запобіжник проти упередженості до автоматизації
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 досліджень про те, чи витісняє ШІ сторонню чи конститутивну роботу
-- [[geoscience-field-learning-genai-2026]] — якоріння, підтвердження та упередженість до автоматизації в польовій роботі, прив’язаній до свідчень
-- [[ahmadfard-interactive-oer-review-2026]] — упередженість до автоматизації серед ризиків, що підривають суб’єктність здобувача й викладача
-- [[alshahrani-health-sciences-ai-use-2026]] — етичні занепокоєння 310 студентів як аргумент за явну підготовку
-- [[ai-literacy-legal-translation-2026]] — постредагування як оцінювана навичка проти тиску ілюзії якості
-- [[morales-cevallos-ai-forensic-science-education-2026]] — упередженість до автоматизації задокументована в оглянутих дослідженнях судового ШІ
-- [[rana-genai-design-thinking-2025]] — опори, що утримують людське судження в центрі
-- [[kim-overtrust-ai-literacy-2026]] — передбачення обернене: упевнені студенти довіряли інструменту більше
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — рамка, побудована на дослідженнях упередженості до автоматизації, а не їхня перевірка
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — один із трьох механізмів, що підривають критичне громадянство
-- [[academic-erasure-complexity-ai-writing-2026]] — упередженість до автоматизації всередині афективної праці поліціювання використання ШІ
-- [[llm-fallacy-misattribution]] — найближче розрізнення: надмірне покладання на систему проти уявної особистої компетентності

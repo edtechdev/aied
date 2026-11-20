@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -69,24 +71,3 @@ ai_assist:
 - **"רנדומליזציה מבטיחה אומדן תקף של מה שהכלי עושה."** רנדומליזציה מאזנת מתווכים; היא אינה מבטיחה שמישהו השתמש בטיפול. ניסוי ברנדומליזציה קבוצתית עם הצטברות נמוכה מעריך **את אפקט הצעת** הכלי, וכוונה-לטיפול וטיפול-במטופלים עונים על שאלות שונות.
 - **"ניסוי גדול הוא תמיד התכנון הטוב יותר."** יש הטוענים שניסויים קונבנציונליים בקנה מידה גדול **אינם יכולים לעמוד בקצב של פלטפורמות חונכות שמשתנות מהותית במהלך מחקר**, ומשתמשים במקומם בתכנונים מונחי-מורים שנשארים תקפים כשהמערכת מתפתחת. ניסוי של מטרה נעה יכול להיות בעל כוח מלא ובכל זאת למדוד מערכת שכבר אינה קיימת.
 - **"RCTs וראיות תצפיתיות ניתנים להחלפה."** RCT עם **1,174 משתתפים** מצא ש-GenAI **סגר כשלושת-רבעיים מפער פרודוקטיביות מבוסס-חינוך** — טענה סיבתית מדויקת על פני תקופה מסוימת. תצפית מסבירה מנגנון ואימוץ; היא אינה יכולה לשאת את האומדן הזה, וה-RCT אינו יכול להסביר מדוע.
-
-## מושגים מחוברים
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — התכנון שמאחורי הראיות החזקות ביותר לתמיכת סטודנטים
-
-## מאמרים מחוברים
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — זמן תכנון שיעור ירד ל-0.76 מזה של קבוצת ההשוואה ב-108 בתי ספר יסודיים, במנה של 7% שימוש בכלי
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — תוצאה שנמדדה לאחר השהיה, לא בסוף המפגש

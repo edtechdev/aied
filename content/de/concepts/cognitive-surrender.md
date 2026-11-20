@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -116,39 +118,3 @@ Die Evidenz für Kapitulation als benanntes Konstrukt stützt sich stark auf ein
 **„Die Lösung ist bessere KI, da Kapitulation aus Fehlern folgt.“** Kapitulation folgt aus der *Struktur* der Interaktion: Ein System, das zuerst eine plausible Antwort produziert, nimmt der lernenden Person die Gelegenheit, selbst eine zu erzeugen. Die Genauigkeit zu verbessern reduziert den Schaden falscher Antworten und ändert nichts an der Aufgabe, ein Urteil zu bilden, und das ist der Schaden, der bleibt, wenn das Werkzeug weg ist.
 
 **„Kritische Bewertung zu lehren genügt.“** Es ist notwendig, und es kommt zu spät. Sobald eine plausible Antwort auf dem Bildschirm steht, wird Bewertung zur Bestätigung; deshalb setzt die Designdesignliteratur hier den Versuch der Studierenden vor die Ausgabe des Systems, statt sie danach zu prüfen.
-
-## Verbundene Konzepte
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Verbundene Artikel
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und die experimentelle Signatur der Kapitulation
-- [[generative-ai-reduced-study-time-math]] — Verdrängung auf Populationsebene in ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — das Kapitulation/Entlastung/Handlungsfähigkeit-Rahmenwerk in PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — instrumentelle gegenüber urteilstragender Hilfe
-- [[ai-advice-suppresses-ikt-suspension-2026]] — der Zusammenbruch von „Ich weiß es nicht"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuronale Engagiertheit und Autorschaft
-- [[genai-thoughtless-use-self-directed-learning-2026]] — gedankenloser Gebrauch und selbstgesteuertes Lernen
-- [[stamatoulis-genai-use-patterns-2026]] — Nutzung mit geringer Verifikation gegenüber evaluativer Integration
-- [[cognitive-washout-ai-skill-decay-2026]] — was nach dem Entzug passiert
-- [[ai-overreliance-complex-adaptive-system-2026]] — Vertrauen als Populationsprozess
-- [[brcic-effortless-trap-productive-struggle-2026]] — KI so platzieren, dass die Aufgabe anstrengend bleibt
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Kalibrierungstraining
-- [[family-school-autonomy-support-genai-2026]] — abhängige gegenüber autonomer Entlastung
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Ein arbeitsblattgebundener Assistent senkte die Entlastung, statt sie zu erhöhen: eine Randbedingung der Kapitulationssignatur (Braun 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Natürliche Abgabe ganzer Aufsätze: 15 von 77 Aufsätzen vollständig vom Modell geschrieben, 20 Anfragen nach einem kompletten Aufsatz (Jelson et al. 2026)
-

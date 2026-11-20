@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,6 +46,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## Notes and caveats
 
 كل ادعاء قدرة هنا تسويق البائع نفسه، بما فيه "موثوق به في أكثر من 10,000 مدرسة حول العالم"، وهو ما ينبغي أن تتحقق منه مقاطعة مقابل اتفاق معالجة البيانات خاصتها. ويقرّر البائع أنه يجرد المعرفات الشخصية قبل إرسال العمل إلى OpenAI بموجب اتفاق على عدم الاحتفاظ به أو التدريب عليه، ولا يُظهر الطلاب أي إعلانات، ولا يبيع البيانات أبدًا، ويحمل شهادتي iKeepSafe وCommon Sense Privacy. ويقرّر Snorkl بصراحةً أيضًا أنه لا يمنح درجات: فهو يقيّم الشروح مقابل معايير يحدّدها المعلّم بوصفها تغذية راجعة تكوينية، ويحفظ المعلّم التصحيح. وعامل أحكام الذكاء الاصطناعي تلك إشارات تكوينية خاضعة لأسئلة الصدق والتحيز المعتادة، والالتزام البيئي نيةً مصرّح بها لا تعويضًا مقيسًا.
-
-## المفاهيم المرتبطة
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

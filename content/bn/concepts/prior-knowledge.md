@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -72,34 +74,3 @@ ai_assist:
 **"কম পূর্বজ্ঞানসম্পন্ন শিক্ষার্থীর বেশি এআই সহায়তা দরকার।"** এই অভিমুখই ব্যবধান বাড়ানোর সম্ভাবনা সবচেয়ে বেশি, কারণ পরিমাপিত অফলোডিং নিদর্শন রচয়িতা-ক্ষতি কেন্দ্রীভূত করে যেখানে পূর্বজ্ঞান সবচেয়ে পাতলা। যে সহায়তা সেই শিক্ষার্থীকে কাজ জোগায় যে প্রতিস্থাপন ধরতে সবচেয়ে অক্ষম, তা সেই ক্রিয়াটিই সরিয়ে দেয় যা ঘাটতি জ্ঞান গড়ত।
 
 **"পূর্বজ্ঞান একটি স্থির ইনপুট যা কোর্স নড়াতে পারে না।"** এটি নতুন শেখায় সবচেয়ে ভারী ওজনযুক্ত কারণ, যা এটি গড়ে তোলাকে পটভূমি-শর্ত নয় বরং সর্বোচ্চ-লিভারেজের কাজ করে তোলে — এই কারণেই ডোমেইন-জ্ঞান কেবল সহচলক নয়, নিজেই হস্তক্ষেপ।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-দিকের ধারণাগুলোর ছাতা
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — উৎপাদনশীল ব্যর্থতা
-- [[retrieval-spacing-interleaving]] — শিক্ষার্থী ইতিমধ্যে কী জানে তা নির্ধারণ করে পুনরুদ্ধার-অনুশীলন কী করতে পারে
-
-## সংযুক্ত নিবন্ধ
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — স্বয়ংক্রিয়তা ও শেখার মধ্যকার টানাপোড়েন (পূর্বজ্ঞান সক্রিয়করণের ঝুঁকি)
-- [[genai-mindtool-generative-learning]] — mindtool হিসেবে GenAI: পূর্বজ্ঞান প্রাইমিং ও সক্রিয়করণ
-- [[nie-personavlm-long-term-personalization-2026]] — LLM শিক্ষার্থী-মডেলিং ও স্মৃতি
-- [[lodge-loble-cognitive-offloading-2026]] — জ্ঞানীয় অফলোডিং নিয়ে Lodge ও Loble
-- [[cognitive-offloading-llm-synthesis-writing]] — LLM সংশ্লেষণ-লেখনে জ্ঞানীয় অফলোডিং
-- [[bridging-instructional-design-framework-math]] — গণিতের জন্য একটি শিক্ষাদান-নকশা কাঠামো
-- [[knowledge-building-tutor-learning-2026]] — পূর্বজ্ঞান নয়, জ্ঞান-নির্মাণই টিউটর-শেখার পূর্বাভাস দেয়, আর জ্ঞান গড়া নিম্ন-পূর্বজ্ঞান টিউটররা সমকক্ষে ওঠে
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — পূর্বজ্ঞান পরবর্তী পরীক্ষা বহন করেছে (η²p = .63), অভিযোজিত কাজ-বাছাই কিছুই নয় (Sibley প্রমুখ 2026)

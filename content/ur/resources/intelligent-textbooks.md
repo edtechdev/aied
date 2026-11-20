@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -49,15 +50,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 یہ ایک عمل کرنے والے کی رہنما اور ٹول چین ہے، ہم مرتبہ جانچا ہوا مطالعہ نہیں — یہ ایک بہاؤ اور اپنی تعلیمی توجیہہ پیش کرتی ہے (”انٹیلیجنٹ ٹیکسٹ بکس طلبہ کو علم کی تلاش میں تصورات سے گزارتی ہیں“)، سیکھنے کے نتائج کی شہادت نہیں۔ تجرباتی پشت پناہی کے لحاظ سے MicroSim کا تحقیقی مقالہ سب سے قریب ہے، اور وہ بھی arXiv پر خود شائع شدہ ہے۔ دونوں منصوبے اوپن سورس ہیں (intelligent-textbooks ریپو MIT لائسنس اور 38 stars بتاتی ہے؛ MicroSims Creative Commons لائسنس اور 13 stars) اور فعال طور پر برقرار رکھے جاتے ہیں۔ تصوراتی گراف اور فرہنگ-اول ڈھانچہ دریافت کے لیے واقعی مفید ہیں، مگر رہنما کافی تکنیکی لکھائی کے بہاؤ کی توقع رکھتی ہے — MkDocs، Git اور جنریٹو AI کے اوزار — جو کچھ اساتذہ کے لیے رکاوٹ ہو سکتا ہے۔ اندراج کے وقت MicroSims کی رجسٹری ابھی صرف roadmap پر ہے، اس لیے کوئی مخصوص موجود سمیولیشن ڈھونڈنے کے لیے سائٹ کی اپنی سرچ اور نیویگیشن پر انحصار ہے۔
-
-## منسلک تصورات
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

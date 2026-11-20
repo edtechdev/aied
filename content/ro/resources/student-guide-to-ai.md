@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -48,11 +49,3 @@ Studenți la orice disciplină și elevi din ciclul superior de liceu. Corpul di
 Ghidul este cadrat [[formative-assessment|formativ]] și o spune: punctajele sunt o fotografie a obiceiurilor, nu o notă, un trăsătură sau o predicție, iar studenții sunt sfătuiți să nu le partajeze public.
 
 Cadrarea despre IA se sprijină pe dovezi citate din sondaje și experimente că externalizarea efortului poate lăsa studenții cu mai puțin — întrebarea despre [[cognitive-offloading|descărcarea cognitivă]] pe care ghidul este scris să o contracare, nu să o încheie. PDF-ul ghidului de teren stă în spatele unui scurt formular care cere nume, rol, instituție și e-mail; modulele pentru profesori și lucrarea despre cadrul pedagogic se descarcă direct. Versiunea interactivă rulează în Gemini Notebook și cere un cont Google. Cifrele editorului de peste 40.000 de descărcări PDF în circa 4.000 de instituții din 180 de țări și peste 130 de ediții de campus personalizate sunt ale lor, la fel ca și aprecierile din partea ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute și RTI International.
-
-## Concepte conexe
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

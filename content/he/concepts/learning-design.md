@@ -32,6 +32,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -134,73 +136,3 @@ Fowlin et al. (2026) מוסיפים מהלך תפעולי להחלטה היכן 
 - **"תכנון שיעורים ב-AI מחזיר זמן למורים."** מורים בבתי ספר יסודיים שבהם הוגרל הניסוי **השקיעו 2.51 שעות בשבוע בהכנת שיעורים עם הכלי לעומת 3.32 שעות בלעדיו**, ובכל זאת **המורה החציוני תכנן מאפס רק 21% עד 40% מהשיעורים**. הזמן נחסך והתכנון לא נעשה יסודי יותר באופן מהותי: החיסכון הצטבר ולא הושקע מחדש.
 - **"עיצוב משותף עם AI מבוסס היטב בראיות."** סקירה שיטתית של [[wang-teacher-ai-co-design-review-2026|עיצוב משותף של מורה-AI של משימות למידה]] **מאשרת את הדפוס בקנה מידה על פני 28 מחקרים**, מה שמתאר פרקטיקה עקבית ולא מדגים תוצאות עדיפות.
 - **"המחוון הוא קלט קבוע."** המחוון מתפקד כ**ממשק מתווך בין כוונה פדגוגית אנושית לבין הסקת מכונה**: התייחסות לקריטריוני הערכה כ**ניתנים לשינוי** היא מה שמאפשר למכשיר לשאת את כוונת המחנך. מחוון קבוע מעביר את המסגור המוגדר-כברירת-מחדל של המכונה אל תוך ההערכה.
-
-## מושגים מחוברים
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — שותפויות פדגוגיות
-- [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-- [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך עם בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
-
-## מאמרים מחוברים
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — חיסכון מדוד בזמן תכנון לצד הממצא שמורים מתכננים מאפס רק 21% עד 40% מהשיעורים
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA ו-GenAI בקבלת החלטות עיצוב-למידה
-- [[tang-chatbots-learning-design-2026]] — שימוש בצ'אטבוט בעיצוב למידה: מעצבים שוהים על תוצאות ופדגוגיה ולא על יצירת תוכן (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — דפוסי אינטראקציה מורה-AI בעיצוב שיעור על פני ניסיון ומיומנות AI (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI בהשכלה גבוהה: מעורבות + תפקיד מתווך של שיטות הוראה
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — טקסונומיה (עצם גבול) לסיווג פעילויות למידה GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: סוכן אינטרנט אוטונומי מעריך עיצובי שיעור וחוזה נשירת סטודנטים לפני שתלמידים מתערבים (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: מסגרת להגברה AI קוגניטיבית-מופעלת בפיזיקה
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: שבעה מנופים והתלמיד לבד עם AI
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: שמירה כפולה ליצירת תוכן AI מפוגמת פדגוגית
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI לתמיכה בעיצוב בעיות כישלון פרודוקטיבי
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: הגבלה בכתיבה בתמיכת AI (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — מודל כיתה-חכמה ולולאת D-T-E המשפרים מיומנות עיצוב הוראה במתמטיקה ב-M.Ed. (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — פלטפורמה המופעלת על ידי AI מייצרת בעיות מידול מתמטי (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — עיצוב-משותף של מורה-AI למשימות למידה: מגמות ופרספקטיבות (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — ארכיטקטורת תפקידים בפעילויות קבוצתיות מובחנות מעוצבות-AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — מטא-אנליזה תלת-רמתית: GenAI פועל דרך משוב ועיצוב מונחה-לומד, ולא כהתערבות אחידה (Zhang et al. 2026)
-
-- [[williams-coding-curriculum-critique-2026]] — קידוד תוכנית הלימודים: ביקורת על "How AI Makes Its Mark on Instructional Design" (Williams & Prishtina, 2026)
-- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design (Chng et al., 2023)

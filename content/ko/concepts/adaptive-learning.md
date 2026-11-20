@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -104,55 +106,3 @@ ai_assist:
 - **"정확성 기반 적응은 언제 멈출지 안다."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]]는 정확성에서 숙달을 추론하는 시스템이 **연습을 너무 일찍 종료할** 위험이 있다고 밝혔습니다. 시스템은 정답 연속을 이해로 읽고 학습자에게 여전히 필요했던 연습을 거둬들입니다. 성공에서 멈추는 적응은 유지에 필요한 바로 그 시행들을 빼앗을 수 있습니다.
 - **"병목은 적응의 품질이다."** **2년 지역구 RCT**에서 구속 조건은 **참여**였습니다. 등록을 한 단계로 축약한 것만으로 첫 세션 참여율이 약 **45%에서 83%**로 올랐고 의도-처치 이득도 그에 따라 커졌습니다. 아무리 정교한 적응도 거기에 도달하지 못하는 사람에게는 아무것도 아닙니다.
 - **"참여는 일단 형성되면 지속된다."** **44개 연구**를 검토한 PRISMA 정렬 검토는 참여 문헌이 [[student-engagement|행동적 참여]]에 치우쳐 주체적 참여에서 가장 얇다고 보고하며, **참신성 효과**를 보고합니다. ALEKS 같은 시스템의 종단 연구에서 도구의 참신함이 사라지면 참여가 감소했습니다. 초기 참여는 설계의 안정적 속성이 아닙니다.
-
-## 연결된 개념
-
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모형, LLM 훈련, 로보틱스, RAG, 에이전트)
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: 개인화 평가를 위한 모멘텀 인식 적응형 평정 시스템
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응형 숙달은 학습자가 행동을 보류할 시점을 알기 전에 연습을 멈출 수 있다(An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 교습은 하나가 아니다: 우리가 실제로 아는 것(Stanford SCALE/NSSA 브리프)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — 적응 학습 플랫폼의 학생 참여에 대한 체계적 검토
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL을 통한 가상 교습: 이용률과 학습에 관한 실험
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI 교습을 생산적으로: 숙달 기반 수학 연습
-- [[chudziak-ai-math-tutoring-platform]] — 적응/개인화 다중 에이전트 수학 교습(Chudziak와 Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — 개인화 학습의 재정의: 체계적 검토
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — 학습자 준비도에 보정된 교습 특정 AI 대 일반 챗봇
-- [[context-based-ai-secondary-chemistry-2026]] — 중등 화학의 맥락 기반 7E + AI 수업
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 심층 학습을 위한 적응 AI 기반 STEM 프로그램
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교습(2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 개인화된 학습 경로를 위한 베이지안 인지 진단
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서의 적응 ICAP 비계(BKT 대 DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14개 RCT에 걸쳐 적응 + AI 지원 도구를 묶은 메타 분석
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 체계적 검토: 적응 경로와 추천 시스템이 고등교육 AI 통합의 선도적 활용 사례
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 적응 문제 순서화가 고정 순서화를 이기다: 비보조 시험에서 +0.156 SD, 난이도가 아니라 참여에 의해 중재(Chung 외 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — 전략 사용은 상태 지배적이므로(평균 ICC 0.14), 정적 학습자 프로파일은 신호의 대부분을 버립니다

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -46,13 +47,3 @@ Azok a közkönyvtárak, amelyek kioszkot szeretnének üzemeltetni (a program j
 - A részt vevő könyvtárak **kioszktelepítésenként évi \$1,000-rel** járulnak hozzá; maga a kísérleti program a jelentkező helyszínekre korlátozódik.
 - Az adatvédelmi nyilatkozat a program állítása, nem auditált megállapítás; a könyvtárnak saját adatkezelési megállapodásában kell megerősítenie a megőrzési és gyermekbiztonsági feltételeket.
 - Az ütemterv második és harmadik fázisa, amely lehetővé teszi a könyvtáraknak helyi archívumok betöltését és a létrejövő rendszerek irányítását, tervezett, nem leszállított.
-
-## Kapcsolódó fogalmak
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -51,11 +52,3 @@ Für Programm- und Modulverantwortliche in der Hochschulbildung, die ausführlic
 Das Modell wurde nicht im großen Maßstab evaluiert. Das Paper sagt ausdrücklich, dass es noch keine Stichprobe, kein Instrument und kein gemessenes Ergebnis gibt und dass Pilotstudien nötig sind, um zu prüfen, ob die Artefakte der Stufe 1 die Sicherheit der Beurteilenden oder die interpretative Konsistenz erhöhen, ob Studierende das Design als gerechter erleben und wie ein Fach eine Hinlänglichkeitsschwelle setzt, ohne Stufe 1 zu einer zweiten Prüfung zu machen.
 
 Zwei praktische Kosten sind real. Stufe 1 verlangt beobachtete Sitzungen und gesicherte Erfassung im großen Maßstab, und mehrsprachige Aufzeichnung und Übersetzung sind Voraussetzungen, keine Zusätze. Und das interpretative Urteil bleibt bewusst bei den Korrigierenden: Das Modell setzt Fachexpertise voraus, die sich nicht automatisieren lässt – eine Personalannahme ebenso wie eine Designannahme.
-
-## Verbundene Konzepte
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -92,30 +94,3 @@ AI 把新的**工具/中介制品**引入既有的教育活动系统，这同时
 **"只要改变教师的信念，实践就会跟上。"** 变革的单位大于个人。改变规范、工作量分配与共享规则的干预，比针对个体信念的干预更可靠地改变实践，因为活动的客体是集体生产出来的。这也解释了为什么个体上热情高涨的采纳者，在所在院系不随之移动时会退回原状。
 
 **"活动理论只是一种描述性透镜，没有设计后果。"** 它把设计引向系统各元素之间的矛盾，即与规则冲突的工具、与客体冲突的劳动分工，而变革真正被撬动之处正在那里。一个能定位矛盾的透镜，给你的是一个可以介入的位置，而不只是一套词汇。
-
-## 关联概念
-
-- [[sociocultural-learning]] — 活动理论所属的理论家族（维果茨基式、文化历史式）
-- [[learning-theories]] — 把活动理论置于学习理论之中的枢纽
-- [[distributed-cognition]] — 共享对工具中介、情境化分布认知的强调
-- [[situated-learning]] — 共享对情境与活动参与的强调
-- [[agency]] — AI 如何在活动系统中重新分配人的能动性
-- [[teacher-role]] — 活动理论常分析教师的采纳与实践
-- [[learning-analytics]] — CHAT 为分析的设计锚定
-- [[generative-ai]] — 进入并扰动教育活动系统的 AI 制品
-- [[technology-acceptance-model]] — 相对照的个体信念式采纳解释
-
-## 关联文章
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — 经活动理论透镜看 GenAI 使用与披露的学科差异
-- [[genai-runaway-object-math-higher-ed]] — 对 GenAI 重塑教学与研究活动系统的 CHAT 分析
-- [[raffaghelli-situated-ai-ethics-2026]] — 将生态系统理论与 CHAT 融合的情境化 AI 伦理
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 作为教师采纳 AI 透镜的活动理论（SEM）
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 教师经活动理论看 AI 使用的视角
-- [[ai-disruption-engineering-education-chat-2026]] — 经 CHAT 看工程教育中学生规范的变迁
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 教师专业发展的 CHAT-SDT 重新设计
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — 面向 AI 素养的 CHAT 锚定学习分析流水线
-
-- [[llm-family-education-activity-theory-2026]] — 53 项 HCI 研究的范围综述：LLM 重新分配了家庭教育劳动，而规则大多是预期而非施行
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI 作为中介能动者：既非工具也非合作者
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -112,41 +114,3 @@ Mstari wa pili wa utafiti unachukua AI kama mshiriki badala ya zana, na matokeo 
 **"AI husaidia zaidi inaporatibu kikundi."** Msaada wa uratibu na msaada wa kiubunifu huvutia pande tofauti. Kupunguza gharama ya uratibu wa kushirikiana kunaweza kupunguza shinikizo kwa kikundi kujadiliana maana, ambao ndio mchakato unaotathminiwa. Biashara ya ufanisi na udhibiti ni mvutano wa msingi wa kubuni, si maelezo ya kiufundi.
 
 **"Kazi ya kikundi ni ngumu kwa sababu ya watu."** Sehemu yake ni muundo wa kazi, ndiyo sababu AI hubadilisha wasifu wa ugumu badala ya kuurahisi tu: chombo kinachojibu maswali haraka hubadilisha kile kikundi kinachotumia muda wake, na kama hilo ni uboreshaji inategemea ujuzi ambao kazi ilijengwa kuukuza.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Maandishi ya majukumu kwa vikundi vinavyoshiriki AI moja
-- [[ai-education]] — AI katika elimu (mtawanyiko)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Makala Zilizounganishwa
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — Mifumo mitatu ya wakala wa wanafunzi katika tathmini ya kikundi inayosababishwa na GenAI
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Wakala wa mwanafunzi unaoibuka AI inapojiunga na kikundi: tabia za kusaidia dhidi ya za kupingana
-- [[genai-counter-learner-groupthink-2025]] — Mwakala wa AI anayeongeza migogoro kupinga ufikiri wa kikundi katika timu za PBL
-- [[xu-genai-collaborative-space-2026]] — Upatikanaji wa pamoja dhidi ya wa faragha wa GenAI katika timu
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Mifumo ya ushirikiano na biashara ya utendaji wa kazi dhidi ya kujidhibiti
-- [[golrang-propact-pair-programming-2026]] — ProPACT: kuchukua jozi kama kitu cha uchanganuzi katika programu ya jozi
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Upatanishi wa AI wa kuonyesha dhana katika timu za wanafunzi za taaluma mbalimbali
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM kama washiriki wa ukosoaji: kupinga kikamilifu huhifadhi migogoro ya kiakili
-- [[polished-artifacts-fragile-engagement-2026]] — Vitu vilivyosuguliwa, ushirikiano wa maarifa unaoweza kuvunjika
-- [[breideband-community-builder-cobi-2026]] — Uchanganuzi wa majadiliano wa ngazi ya darasa kwa ushirikiano wa kikundi
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI kama mpatanishi wa kitaaluma wa ushirikiano
-- [[neurodivergent-computing-students]] — Mahitaji ya wanafunzi wenye tofauti za neva kwa kujifunza kwa ushirikiano
-- [[academic-league-of-ai-2026]] — Utawala wa wanafunzi wa kidemokrasia na timu za mradi kwa elimu ya AI
-- [[teacher-student-agency-orchestration]] — Uratibu wa pamoja wa wakala wa mwalimu na mwanafunzi kwa wakati halisi
-- [[dollinger-equitable-assessment-ai-2026]] — Tathmini ya usawa katika nyakati za AI
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Wakala wa Mafunzo ya Maadili: Kuwezesha Elimu ya Maadili ya Msingi wa Kikundi kwa Kuigiza Majukumu na Majadiliano kwa Ajili ya Tafakari na Uchunguzi wa Maadili

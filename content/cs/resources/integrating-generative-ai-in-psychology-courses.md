@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -92,9 +93,3 @@ Vyučující psychologie v jakékoli fázi kariéry a vyučující v příbuzný
 ## Poznámky a upozornění
 
 PDF zdarma, bez účtu. Copyright patří STP, nikoli licenci Creative Commons: osobní a třídní kopie jsou povoleny s uvedením zdroje, zatímco redistribuce nebo komerční užití vyžaduje svolení autora. Kapitoly jsou zprávy praktiků, nikoli studie — žádné designy, vzorky ani velikosti efektu — takže tvrzení berte jako zprávy ze zkušenosti a citujte kapitoly jednotlivě.
-
-## Související pojmy
-
-- [[social-sciences-education]] — stránka klastru, jejíž psychologickou sekci tento svazek plní praxí na úrovni kurzů
-- [[ai-literacy]] — vývojové rámování, které editoři sbírce dávají
-- [[academic-integrity]] — předmět politické kapitoly a důvod, proč několik kapitol o kurzech vestavuje kroky ověřování

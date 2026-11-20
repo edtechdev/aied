@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -105,48 +107,3 @@ ai_assist:
 - কেবল সঠিকতার ভিত্তিতে অনুশীলন থামাবেন না। আটকে রাখার শর্তকে আলাদা দক্ষতা হিসেবে মডেল করুন, নাহলে ব্যবস্থা অতিসাধারণীকরণে সনদ দেবে।
 - অনুপাতকে ধ্রুবকের বদলে প্যারামিটার হতে দিন, কারণ প্রমাণ বলছে সর্বোত্তমটি বিষয়বস্তু-নির্ভর।
 - আপনার মানদণ্ড কোন গঠন মাপে এবং আপনার বৈধকরণ কোন গঠন মাপে — দুটো আলাদা করে জানান।
-
-## সংযুক্ত ধারণা
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[competent-generative-ai-use-measures-review-2026]] — সক্ষম জেনারেটিভ-এআই ব্যবহারের পরিমাপ নিয়ে পর্যালোচনা ও অন্বেষণমূলক মেটা-বিশ্লেষণ (Verí ২০২৬)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — সঠিকতা যা অসম্পূর্ণ নিয়ম ঢাকে: অভিযোজিত শিখনে দক্ষতা-থামার নিয়ম (An, McLaren ও Stamper ২০২৬)
-- [[demographic-signals-llm-student-assessment-2026]] — এলএলএম শিক্ষার্থী-মূল্যায়নে জনতাত্ত্বিক সংকেতের পাল্টা-তথ্যগত নিরীক্ষা (Rooein, Benedetto ও Hovy ২০২৬)
-- [[learning-paths-patterns-learning-design-2026]] — ৫৫৪টি কোর্সের ২৯,০৬৪টি কার্যকলাপে মার্কভ শৃঙ্খল ও ধরন-খনন (Divjak, Svetec ও Horvat ২০২৬)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — এআই-সংশ্লিষ্ট অফলোডিংয়ের জন্য গোপনীয়তা-রক্ষাকারী, অ-নির্ণায়ক স্ব-পরীক্ষা (Alam ২০২৬)
-- [[perrotta-zero-shot-governance-2026]] — জিরো-শট শাসন: নীতিতে সাধারণ-উদ্দেশ্যের এআই, Redbox কোডবেস দিয়ে পড়া (Perrotta ২০২৬)
-- [[rachatasumrit-example-problem-ratio-2026]] — কেন সেরা উদাহরণ–সমস্যা অনুপাত বিষয়বস্তুর উপর নির্ভর করে (Rachatasumrit, Koedinger ও Carvalho ২০২৫)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — শিক্ষকরা সীমিত-পরিধির বিশেষজ্ঞ চ্যাটবট নকশা করেন, শিক্ষাদানের বাছাই করা অর্পণসহ (Reichert প্রমুখ ২০২৬)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — প্রশিক্ষকদের জেনএআই TPACK: শক্তিশালী বিষয়বস্তু-জ্ঞান, দুর্বল প্রযুক্তি-সংযোজিত জ্ঞান (Sutedjo, Chowdhury ও Liu ২০২৬)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: স্কেলে মানব–এআই সরাসরি টিউটরিংয়ের একটি এলোমেলো পরীক্ষা (Wang প্রমুখ ২০২৪)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — কোন শিখন-প্রক্রিয়া জেনএআই বাড়ায় আর কোনটিকে হুমকিতে ফেলে, তা নিয়ে ৩০-বিশেষজ্ঞের পূর্বনিবন্ধিত ডেলফি
-- [[three-pathways-student-ai-interaction-2026]] — শিক্ষার্থী-এআই মিথস্ক্রিয়ার একটি শ্রেণিবিন্যাস: ৬৪% নিষ্ক্রিয় বা লেনদেনমূলক, ৩৬% কৌশলগত সংলাপ
-- [[agent-type-feedback-style-self-directed-learning-2026]] — প্রতিক্রিয়ার ধরন, এজেন্টের প্রকার নয়, স্ব-নিয়ন্ত্রক সম্পৃক্তি বদলেছে
-- [[metacognitive-processes-genai-interaction-logs-2026]] — প্রক্রিয়া-প্রমাণ চ্যানেল-শর্তাধীন
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — জেনএআই ব্যবহারের বণ্টন একটি প্রাতিষ্ঠানিক পছন্দ
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — ব্যক্তি-ভেতরের নির্ভরতা অনুভূত এজেন্সি কমার আগে আসে
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — lag ক্রমিক বিশ্লেষণ ও প্রক্রিয়া-খনন পূর্বধারণার গঠন অনুযায়ী এআই-কে গোষ্ঠী-মিথস্ক্রিয়ার কেন্দ্রে বা রৈখিক পথে বসায় (Wang প্রমুখ ২০২৬)

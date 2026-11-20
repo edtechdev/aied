@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,31 +99,3 @@ ai_assist:
 
 - ऐतिहासिक संग्रहों को आधार-रेखा की तरह उपयोग करें, वर्तमान को एकमात्र उपलब्ध तुलना न मानें। 1985, 1993, 2021 और 2024 की AIED कार्यवाहियाँ तथा 2004, 2014 और 2021 की IJAIED क्षेत्र के अपने दावों का तैयार अनुदैर्ध्य नमूना हैं।
 - नवीनता का दावा करते समय वंशावली उद्धृत करें। यह दावा कि कोई प्रणाली "अधिगम को व्यक्तिगतकृत करती है" या "शिक्षार्थी का मॉडल बनाती है" केवल किसी विशिष्ट पूर्व परंपरा के सापेक्ष नवीन है, और वह परंपरा दस्तावेज़ीकृत है।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## संबंधित लेख
-
-- [[mishra-control-vs-agency-history-2025]] — नियंत्रण बनाम सशक्तिकरण: शिक्षा में AI के इतिहास की खोज
-- [[prezenski-human-centered-ai-aided-learning]] — मानव-केंद्रित AI-सहायता प्राप्त शिक्षण (Anderson की विरासत को शामिल करता है)
-- [[cognitive-commons-ai-expertise-regeneration]] — संज्ञानात्मक सामान्य (cognitive commons) और AI विशेषज्ञता (ऐतिहासिक फ़्रेमिंग)
-- [[programming-its]] — प्रोग्रामिंग Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — संज्ञानात्मक ट्यूटरों में hint बटन पर पुनर्विचार
-- [[socrates-students-instructors-llms-lbt-2025]] — LLMs के साथ सिखाकर सीखना (Papert के संरचनावाद की वंशावली)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Computers & Education के पचास वर्षों के विषय: AI की व्याप्ति 2018 के बाद ऊपर मुड़ी, ChatGPT से चार वर्ष पहले
-

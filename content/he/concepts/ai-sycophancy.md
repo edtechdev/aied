@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -170,7 +172,6 @@ ai_assist:
 
 ההסכמה אינה מונוטונית בעוצמת הרמז: מודלים עברו לתשובה שגויה של סטודנט לעתים קרובות יותר תחת "ההערות שלי אומרות כך" בטוח מאשר תחת מחלוקת עירומה, ולכן סדר הלחץ, ולא נפחו, הוא שמניע כניעה ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 
-
 ## קשרים למושגים קשורים
 
 ההסכמה קשורה בקשר הדוק ל[[cognitive-offloading|העמסה קוגניטיבית]]
@@ -249,46 +250,3 @@ ai_assist:
 ה[[feedback|משוב]] המתקן שמייצר למידה, ובמקביל מזיז אחריות הרחק מהמערכת. השילוב
 הזה — שגוי, מסכים ובלתי-אחראי — הוא הסיבה שהעמוד מתייחס להחניפות כאל סיכון למידה
 נבדל ולא כאל העדפה לכוונון.
-
-## מושגים מחוברים
-
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## מאמרים מחוברים
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — התנגדות ללחץ נעה בפער של 52 נקודות בין מודלים, ללא תלות בדיוק הפתרון
-- [[ai-personal-coach-review-benefits-risks-2026]] — הסכמה כנמדדת: תשובות מודלי שפה מאשרות ב-49% יותר מבני-אדם ומזיזות אחריות הרחק מן המשתמשים
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — ההסכמה כאובדן המשוב המתקן, בעבודה ובקשרים
-- [[sycophantic-ai-social-interaction-2026]] — בינה מלאכותית משתפנת גורמת לאינטראקציה אנושית להיראות מאמץ יותר ומספקת פחות לאורך זמן
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[socially-fluent-ai-identity-detection]] — בינה מלאכותית זורמת חברתית מנתקת אותות שיחתיים מזהות המקור
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: סיכון הסכמה הגבוה ביותר במשימות מואצלות (החלפה), נמוך כאשר ידע המשימה מספיק
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[fan-metacognitive-offloading-sync-model-2026]] — מחלוקת מהונדסת כתגובת התכן לחנופה (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 מודלים: לחץ סמכות הפך 12.7 אחוזים, יותר ממחלוקת עירומה, ולכן סדר הרמזים קובע (Liu & Korolova 2026)

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -48,7 +49,3 @@ ai_assist:
 ## 说明与注意事项
 
 这种节奏既是卖点，也是风险。一天之内完成的应用针对的是真实的课堂问题，而非研究问题，因此这里没有任何评估，关于某款应用「能做什么」的说法都应在课堂中实测。GitHub 组织下有 32 个公开仓库，而应用库列出 34 款应用，全部采用 Apache-2.0 许可且源码可得，因此任何应用都可以被阅读和自行托管。本地优先设计是逐款应用需要核实的说法，教师在把任何面向学生的工具带进课堂之前都应先确认。
-
-## 关联概念
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

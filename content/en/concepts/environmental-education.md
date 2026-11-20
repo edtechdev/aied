@@ -11,6 +11,8 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 > **Environmental Education** — teaching about climate, sustainability and the natural world, which in [[ai-education|AI in education]] has become two things at once: a subject that AI can support through [[inquiry-based-learning|inquiry]] and [[situated-learning|situated]] learning, and a cost that AI imposes, since energy-intensive [[llm|language models]] run on every student laptop carry an environmental footprint of their own. The two halves are treated together, because [[sustainability|sustainability]] education delivered by a carbon-intensive tool raises a question no single frame answers on its own.
@@ -76,29 +78,3 @@ The [[meta-analysis-systematic-review|scoping review]] organizing this literatur
 - **"AI in environmental education mainly supplies information."** The measured gains are in **decision-making**: students working with an AI partner inside a structured [[inquiry-based-learning|inquiry]] task outperformed inquiry-only peers (**d = 0.69**) and traditional instruction (**d = 1.88**) on a decision-making measure, with gains **concentrated on the weakest steps**. The effect is in reasoning quality, at the points where students were weakest.
 - **"Inquiry alone is the active ingredient."** AI-assisted inquiry **improved climate decision-making over inquiry alone**, so the AI contribution was additional to the pedagogical structure rather than interchangeable with it.
 - **"Large effects from small samples are still large effects."** AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy **improved pre-service teachers' lesson plans with a d = 2.80 from 28** participants — the reviewers' own word is *implausibly large*, and an effect that size from that sample should be treated as a signal rather than an estimate.
-
-## Connected Concepts
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Connected Articles
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[llm-environmental-impact-student-usage-2026]] — Eco-feedback on latency–carbon trade-offs with 89 CS students
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantized assistant at 1.8 mWh per query
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: sustainability consciousness in engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Sustainable learning" as durable cognitive agency, not an environmental claim

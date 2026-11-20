@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -117,45 +119,3 @@ ai_assist:
 - **«إنسان في الحلقة يصلحه.»** الحلقة جيدة بقدر فرصة التدخّل، ودراسات التصحيح لم تقس الإرساء.
 - **«إنها مشكلة طلاب.»** المدرّسون والمُقيّمون والمعلّقون والإداريون هم الموقّعون في كل تصميم تصفه قاعدة المعارف.
 - **«إنه عيب شخصية يزيله تدريب أفضل.»** التدريب يساعد، لكن الشخص نفسه يتصرّف بشكل مختلف حسب كون التحقّق رخيصًا، وكون المخرَج طليقًا، وكون المعارضة تحمل كلفة.
-
-## المفاهيم المتصلة
-
-- [[trust-calibration]] — حالة الاعتماد التي يسمّي انحياز الأتمتة فشلها
-- [[bias-mitigation]] — النظير في جانب النظام: الانحياز داخل النموذج
-- [[cognitive-offloading]] — تفويض العمل الذهني، والقبول غير المفحوص أحد نتائجه
-- [[human-in-the-loop-ai]] — الضمانة التي يحدّد هذا الفشل قوّتها
-- [[explainable-ai]] — تدخّل الشفافية الذي تقترحه قاعدة المعارف ونادرًا ما تختبره
-- [[learning-analytics]] — اللوحات والإنذارات المبكرة، حيث تتركّز أخطاء الإغفال
-- [[recommender-systems-and-learning-paths]] — ترتيب ما ينبغي فعله تاليًا، وهو ما يستطيع الطالب أن يتبعه ببساطة
-- [[automated-assessment]] — الدرجة التي قد يقبلها إنسان دون إعادة قراءة
-- [[scaffolding]] — فحوص تبقى أرخص من القبول
-- [[self-efficacy]] — السمة التي يقوم عليها التنبّؤ المعتاد
-- [[ai-detection]] — كشف يحكم فيه البشر تحت ضغط الوقت
-- [[remote-proctoring]] — شكّ يثيره نموذج ويفصل فيه شخص
-- [[ai-literacy]] — حيث يقع التحقّق كمهارة مُقيَّمة
-
-## المقالات المتصلة
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — تحذير للمدرّسين من تأجيل الحكم إلى توصيات مبنية على بيانات رقيقة
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — يسمّي إرساء المُقيِّمين بدرجات الذكاء الاصطناعي خطرًا غير مختبَر ويقترح التعمية
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — اللوحات والتغذية الراجعة السطحية وإشارات المرور كنمط عام
-- [[factria-responsible-institutional-analytics-2026]] — أحد عشر صاحب مصلحة وأربع حالات وروبوت محاور يرفض التوصية
-- [[ludia-udl-ai-thought-partner-2026]] — ضمانة المربّي تُضعِفها الثقة بمعرفة الأداة بالمجال
-- [[extended-minds-coupling-flexibility-2026]] — الحق الرسمي في الرفض ليس إشرافًا إن أبطلته انحياز الأتمتة
-- [[ground-truth-reliability-aied]] — تعليق النماذج اللغوية الكبيرة والتحقّق الدائري وانحراف التسميات الصامت
-- [[polished-artifacts-fragile-engagement-2026]] — انحياز الأتمتة كخيط اجتماعي-معرفي للجهد المعرفي المخفَّض
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — أحد أربعة أنماط فشل في العمل التكراري بين الإنسان والذكاء الاصطناعي
-- [[eight-mode-ai-engagement-typology-2026]] — نمط العرّاف وخطره المميّز
-- [[assessing-student-drive-framework-2025]] — الفاعلية البشرية النشطة كضمانة ضد انحياز الأتمتة
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 دراسة عن كون الذكاء الاصطناعي يُزيح عملًا دخيلًا أم مكوّنًا
-- [[geoscience-field-learning-genai-2026]] — الإرساء وانحياز التأكيد وانحياز الأتمتة في العمل الميداني المقيَّد بالأدلة
-- [[ahmadfard-interactive-oer-review-2026]] — انحياز الأتمتة ضمن مخاطر تُنهك فاعلية المتعلّم والمدرّس
-- [[alshahrani-health-sciences-ai-use-2026]] — اهتمامات 310 طلاب أخلاقية تُقرأ كحجة لتدريب صريح
-- [[ai-literacy-legal-translation-2026]] — تعليم التحرير اللاحق كمهارة مُقيَّمة ضد ضغوط وهم الجودة
-- [[morales-cevallos-ai-forensic-science-education-2026]] — انحياز الأتمتة موثّق في دراسات الذكاء الاصطناعي الجنائي المراجَعة
-- [[rana-genai-design-thinking-2025]] — سقالات تُبقي الحكم البشري في المركز
-- [[kim-overtrust-ai-literacy-2026]] — التنبّؤ مقلوب: الطلاب الواثقون وثقوا بالأداة أكثر
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — إطار مبني على أبحاث انحياز الأتمتة لا اختبار لها
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — إحدى ثلاث آليات تُنهك المواطنة النقدية
-- [[academic-erasure-complexity-ai-writing-2026]] — انحياز الأتمتة داخل العمل الوجداني لضبط استخدام الذكاء الاصطناعي
-- [[llm-fallacy-misattribution]] — أقرب تمييز: الإفراط في الاعتماد على نظام مقابل الكفاءة الشخصية المدرَكة

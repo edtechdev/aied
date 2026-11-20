@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -97,38 +99,3 @@ Hampir setiap klaim kuat di sini bersandar pada satu studi pendek. Kedua studi p
 - **"Layanan suara berbayar mengungguli yang gratis."** **Kedua layanan gratis mengembalikan transkrip yang nyaris lengkap (cakupan 87.96% dan 88.34%, dengan word error rate 15.23% dan 15.00%)**, sementara kedua layanan berbayar hanya mengekspor pratinjau, pada cakupan 32%. Harga tidak memprediksi kegunaan, dan tingkat berbayar membatasi keluarannya alih-alih memperbaikinya.
 - **"Chatbot pembelajaran bahasa apa pun meningkatkan pelafalan."** Di **sepuluh studi**, **hanya chatbot yang dirancang untuk pembelajaran bahasa — Andy English bot dan Xiaoying — yang meningkatkan akurasi**, dengan perbandingan **penurunan kesalahan 14% pada satu kelompok kontrol**. Agen percakapan generik tidak menghasilkan keuntungan itu.
 - **"Keuntungan efikasi diri berarti keuntungan keterampilan."** Asosiasi antara teknologi dan hasilnya positif dengan **efikasi diri memediasi sebagian: jalur tidak langsung menyumbang 69.9% dari efek total sementara efek langsung tetap ada**. Sebagian besar efeknya berjalan melalui kepercayaan diri, yang merupakan mekanisme sekaligus peringatan.
-
-## Konsep terkait
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## Artikel terkait
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Keuntungan akurasi hanya dari chatbot pembelajaran bahasa, dan kegagalan ASR pada nama beraksen
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Agen suara telepon yang diarahkan pada saluran umpan balik itu sendiri
-- [[asr-english-speaking-feedback-metacognition-2026]] — Umpan balik berbicara ASR: kualitas mengalahkan kuantitas, dan kemampuan memoderasi siapa yang mendapat manfaat (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — Efikasi diri pelafalan memediasi umpan balik pelafalan GenAI dan kemauan berkomunikasi (1,701 pembelajar EFL)
-- [[llm-tts-dialogue-lesson-generation]] — Alur pelajaran LLM + TTS: narasi sintetis menyamai suara pengajar; dialog membantu pemahaman
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaksi gaya belajar × format dialog dalam pelajaran yang dihasilkan TTS (222 siswa)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Manusia versus lawan bicara AI: monolog terdukung, pengambilan, dan priming sintaksis dalam bahasa Jerman L2
-- [[kutti-ai-voice-first-learning-companion]] — Pendamping voice-first offline dengan deteksi kesulitan waktu-nyata untuk anak dengan gangguan penglihatan
-- [[agent-voice-accents-k12-group-learning]] — Aksen agen membentuk anthropomorfisasi dan kolaborasi dalam kerja kelompok K-12 (33 guru)
-- [[asynchronous-oral-assessment-2026]] — Penilaian lisan asinkron: penilaian berbicara yang dapat diskalakan, dengan catatan tentang keuntungan belajar
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Tinjauan yang membela ujian lisan sebagai penilaian autentik yang melindungi integritas
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: penilaian suara offline di bengkel vokasi di mana AI memunculkan bukti, bukan nilai
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Empat profil interaksi di antara peserta pelatihan interpreting yang menggunakan dukungan ASR/MT
-- [[gpt-item-generation-l2-listening-2026]] — Prompting versus penyetelan halus GPT untuk menghasilkan butir menyimak L2
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gestur plus ucapan: mengapa penilaian lisan yang hanya-ucapan melewatkan bukti pemahaman
-- [[ai-guided-learning-audiovideo-2026]] — Kecepatan audio adaptif, ringkasan video yang mempertahankan suara, dan umpan balik pelafalan tanpa label
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Penghasilan pertanyaan LLM untuk pembelajar tuli dan gangguan pendengaran
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Ketika Tutor AI Berbicara: Bukti dari Eksperimen Lapangan Acak
-- [[ai-mediated-input-medical-english-asr-2026]] — Transformasi Masukan Berbantuan AI dalam Bahasa Inggris Medis: Pengenalan Ucapan dan Keandalan Transkrip

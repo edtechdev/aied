@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -68,37 +70,3 @@ AI에 관한 생물 교육 연구는 하나의 긴장 주변에 모입니다. AI
 - **"학생은 AI와 인간 조교를 구별하지 못한다."** 가상 실험실 조교 연구는 **인간 조교가 ChatGPT보다 정확하고 효과적**이라는 것을 발견했지만, 학생들은 **40%의 경우 AI 응답을 선호**했고 **AI 출력을 45%의 경우에만 알아차렸습니다**. 탐지는 동전 던지기에 가까웠고 선호는 덜 정확한 원천 쪽으로 기울었으므로, 만족도 자료는 여기서 품질을 대신할 수 없습니다.
 - **"선호는 품질을 뜻한다."** 같은 연구가 둘을 직접 분리합니다. 선호된 출력이 더 나쁜 출력이었습니다. 정확성 측정 없이 학생 만족도를 보고하는 생물 AI 도구 평가는 잘못된 양을 보고하는 것입니다.
 - **"AI 리터러시는 별도 교과로 가르쳐야 한다."** 기계 학습 개념을 **고등학교 생물 수업에 내장**한 연구는 생물 맥락이 AI 학습을 **뒷받침**한다는 것을 발견했습니다. 이는 AI 리터러시를 독립 단원으로 덧붙이기보다 교육과정에 내장해야 한다는 근거입니다. 학문이 개념이 붙을 곳을 제공했습니다.
-
-## 연결된 개념
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## 연결된 문서
-
-- [[biology-degree-integrity-genai-cheating-2026]] — 학생들이 부정행위로 생물 학위를 딸 수 있을까? 생성 AI 시대 생물 강의 성적의 부정행위 취약성 사례 연구
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — 가상 실험실 교수 보조로서의 ChatGPT
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — 생물 교육에서의 AI 도구 검토
-- [[critical-thinking-biological-sciences-ai-2025]] — 생명과학과 AI에서의 비판적 사고
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — 챌린지 기반 생물/수학 수업에서의 ChatGPT
-- [[zha-ai-literacy-biology-case-study]] — 생물 수업에서의 AI 리터러시 교육
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 생성형 인공지능을 통해 예비 생물 교사의 PISA 정합 논증 기술 향상하기
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — 개방형 문항에서의 대규모 언어 모형 성능 평가: 답변과 채점 능력

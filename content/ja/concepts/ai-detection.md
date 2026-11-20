@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -138,55 +140,3 @@ Bassettらは、AIの検知は、監視と処罰によっては解決できな�
 **「検知器が答える問いは、その文章が人間のものかAIのものかである。」** その二分法は、計算が難しいだけでなく概念的に不健全です。執筆支援は連続体の上にあり、ほとんどの機関の政策はその一部を許容しており、出力スコアの閾値が擁護可能な境界に写像されることはありません。測定された失敗は政策の失敗です。検知器が約束するカテゴリは、学生が実際に提出する仕事の中に存在しないのです。
 
 **「検知の体制は誠実性を守る。」** それは誠実性を損ないうるものです。検知は学生と教職員の間の[[trust|信頼]]を侵食する疑いの気候を育て、このコーパスが報告する[[academic-integrity|誠実性]]の文献は、持続する梃子を監視ではなく評価の再設計に置いています。軍拡競争の仕組みはまた、この体制がより多くを測りながらより多くの費用をかけ続けることを意味します。基準の旗印率は編集の強度にわたって**0.0%から100.0%**に及びました。それは識別の信号ではありません。
-
-## 関連する概念
-
-- [[academic-integrity|学術的整合性]]
-- [[llm|LLM]]
-- [[generative-ai|生成的AI]]
-- [[assessment|評価]]
-- [[assessment-validity|評価の妥当性]]
-- [[authentic-assessment|真正な評価]]
-- [[ai-literacy|AIリテラシー]]
-- [[cognitive-offloading|認知的オフローディング]]
-- [[equity-in-ai-education|AI教育の公平性]]
-- [[bias-mitigation|偏見の緩和]]
-- [[higher-ed|高等教育]]
-- [[ai-education|教育におけるAI]]
-- [[legal-issues-and-risks|法的問題と危険]]
-
-## 関連する記事
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 正当性を演じる55のヒューマナイザーサイト：一つの商業市場としての検知と回避（Roe et al. 2026）
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 取り締まりが行為ではなく学術的資本で選別するという仮説
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — 8つのLLMが不正対策の6技法を順位づけ、AI検知は最下位
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 直観、使えない検知器、捏造された参考文献についての20人の採点者
-- [[tench-ai-policy-isnt-a-playbook-2026]] — AI政策の適用範囲、主体性、5つの教室での実践に関する米国の教師と校長の全国的代表調査(Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — AIの時代における評価
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt:潜在プロンプト復元型検知器
-- [[ivory-psychology-assessment-integrity-2026]] — 検知は誤った梃子:AIの成果物が達成として採点されたかどうかは合格の境界線が決めた(Ivoryら 2026)
-- [[llm-detecting-llm-generated-content-education]] — LLM生成コンテンツの検知におけるLLMの評価
-- [[beyond-detection-authentic-assessment-ai-2025]] — 検知を超えて:真正な評価
-- [[responsible-assessment-ai-era-stanford-2026]] — AIの時代における責任ある評価
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 共著の整合性と評価の妥当性
-- [[student-rationalization-ai-writing]] — 学生によるAI執筆の合理化
-- [[socially-fluent-ai-identity-detection]] — 社会的に流暢なAIの同一性検知
-- [[ssaho-ai-academic-integrity-review-2025]] — AIに基づく盗用・AIコンテンツ検知の信頼性に関するレビュー
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose:教育におけるAI検知器(Bassettら 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — なぜ検知器の出力は不正行為の認定を根拠づけられないか
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 捕獲率ではなく判別、そして監視が裏目に出るとき
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192テキストに対するTurnitinとOriginality:どちらもマクロF1が0.55を下回り、混合された執筆ではほぼ無用
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 正解のある論文160本に対する4つの検知器。Pangramのみが性能を発揮したが、実際の論文の45.5%に判定を下した
-- [[munoz-misconduct-allegation-evidence-2026]] — 検知器の出力は1,162件の実際の不正行為ファイルの中で最も評価の低い証拠の種類
-- [[wright-transcription-not-generation-2026]] — 包括的な「AI利用」規則は転写と生成を混同する
-- [[sharma-judgment-visible-genai-assessment-2026]] — 目に見える判断の背後にある補助的な層へ格下げされた検知
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 条件的な信号としての検知、そしてなぜ安全確保の対応が構築無関連の分散を加えるか(Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AIで書かれた入試エッセイは広まっているが罰せられる
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — 9つの解釈可能な文体計量学的特徴:ROC-AUC 0.870だが、独立して執筆された18本のうち4本に判定(Kumarら 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 1本の人間の原稿、5つの検知器、「0%人間」から「人間生成」までの判定、そして検知からの組織的な後退の記録(Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus:生成的AIの時代における学術的整合性
-- [[student-llm-code-detection-cs1-2026]] — LLMのコードは厳しく制約された課題では収束する(1,000ファイルあたり1–14種類のAST)が、自由な課題では収束しない。検知可能性は課題設計に従う
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
-- [[making-ai-work-for-students-ofs-2026]] — OfSとAdvance HE (2026)：127機関の職員244人と学生91人を対象とした、検知、評価設計、AIリテラシー、戦略に関する調査

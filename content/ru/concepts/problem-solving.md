@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -92,28 +94,3 @@ ai_assist:
 **Для исследователей**
 
 - Симуляции агентов, специфичных для участников, — сильный инструмент для изучения совместной регуляции. Сообщайте их как таковые, а не как свидетельство о совместной работе студентов без надзора.
-
-## Связанные понятия
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Связанные статьи
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — профили взаимодействия (переданные рассуждения vs согласованная интерпретация) и компромисс между эффективностью и регуляцией
-- [[ai-assisted-collaborative-learning-model-dbr]] — модель DBR, позиционирующая генеративный ИИ как интеллектуального партнёра в обучении
-- [[llm-critical-thinking-teamwork-review]] — обзор PRISMA по LLM, развивающим критическое мышление, командную работу и решение задач
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — адаптивные скаффолдинги на основе майнинга последовательностей для совместного решения задач
-- [[genai-assisted-problem-posing-physics-2026]] — формулирование задач как стратегия саморегулируемого обучения с GenAI
-- [[genai-feedback-design-multisite-experiment]] — рефлексивная/гибридная обратная связь превосходит прямой ИИ по отложенному переносу
-- [[dai-chatbots-problem-posing-primary-2026]] — чат-боты улучшают формулирование задач младшими школьниками при обучении на основе исследования
-- [[llm-computational-thinking-physics-2026]] — LLM как масштабируемые асессоры вычислительного решения задач в физике
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — скаффолдинг по правилам vs ad-hoc в LLM-системе тьюторства для математики в начальной школе (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

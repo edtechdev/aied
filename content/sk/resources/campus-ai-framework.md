@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,10 +43,3 @@ Pre členov vedenia, prorektorov a CIO, ktorí rozhodujú, čo podporiť; pre ve
 ## Poznámky a výhrady
 
 Rámec aj stránka sú licencované **CC BY-NC-SA 4.0**, takže prispôsobenie je povolené na nekomerčné použitie s uvedením autora a rovnakou licenciou; stránka ponúka vlastný navrhovaný spôsob uvedenia. Jeho zladenie s OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA a HIPAA je porovnaním samotného vydavateľa a tak ho treba aj čítať. Sesterské stránky sú samostatné projekty, niekoľko z nich od toho istého autora, a oplatí sa poznať ich ako súbor: [Campus AI Exchange](https://www.campusaiexchange.com/) je rozcestník s [interaktívnymi mapami](https://www.campusaiexchange.com/ai-policies-guidelines-map) inštitucionálnych politík AI a usmernení pre učebne, [sebahodnotením správy AI](https://www.campusaiexchange.com/ai-governance-assessment), mapami správy dát a postojov k AI a knižnicou zdrojov. Okolo neho stoja [campusaigovernance.com](https://campusaigovernance.com/) (deväť domén správy AI), [campusairisks.com](https://campusairisks.com/) (NIST AI Risk Management Framework aplikovaný na tie domény), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), šablóna [plánu osvojenia AI na úrovni útvaru](https://unit-ai-adoption-plan.netlify.app/) a briefing o [agentickej AI pre vedúcich pracovníkov](https://campusaiframework.com/sites). Strategický kompas koluje aj ako zdieľaný dokument Google, ktorý si vyžaduje účet Google. Pri vstupe sa objaví krátka nepovinná otázka o role a inštitúcii; e-mail je nepovinný a celá stránka je čitateľná bez neho.
-
-## Prepojené pojmy
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

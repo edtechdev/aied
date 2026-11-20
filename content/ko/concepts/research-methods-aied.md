@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -189,9 +191,7 @@ AIED 연구 전체에 영향을 미치는 **관통하는 한계**를 의식하�
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut(2026)]]는 이 넷과 구분되는 서지학적 갈래를 더합니다. 407건의 기록을 동시출현 단어와 공저 네트워크로 지도화하여 한 분야의 개념적 발달을 추적하는 것입니다. 저자는 그 위에 세운 SWOT 독해가 독립적인 분석 기법이 아니라 해석적 장치임을 분명히 밝히며, 이것이 이 전통에서 종합과 분석의 경계를 표시합니다.
 
-
 - **"통계는 계산되면 신뢰할 수 있다."** 그 벤치마크는 먼저 검사 자체를 검사합니다. 명명된 여섯 통계 집합을 제외한 모든 탐침과 모든 판정은 효과를 심어 놓은 경우와 심지 않은 경우의 모의 채점자에게 실행되었고, 검사가 심어 놓은 효과를 찾지 못한 측정은 결과가 아니라 미측정으로 보고되었습니다. 그 보고서는 자체 마크다운과 코드에서 생성되므로, 인쇄된 모든 숫자는 그것이 나온 파일과 필드에 연결되고 빌드 시 다시 계산됩니다. 실제 결과를 읽기 전에 [[porcaro-ai-grading-benchmark-2026|판정은 검사할 수 있는 설계 결정]]입니다.
-
 
 ## 흔한 오해
 
@@ -202,55 +202,3 @@ AIED 연구 전체에 영향을 미치는 **관통하는 한계**를 의식하�
 **"관대한 측정 규칙은 사소한 방법론적 선택입니다."** 그것은 발견을 바꿉니다. 어떤 완료든 인정하는 규칙은 이후의 무보조 수행을 **기술-난이도 상수보다 겨우 조금 높게** 예측했고(통합 AUC 0.604 대 0.595), **학생-기술 쌍의 93.9%를 숙달로 선언**한 반면 엄격한 규칙에서는 72.8%였습니다. 그 규칙은 누가 준비되었다고 선언되는지에서 21포인트 차이를 만들었지만 그에 걸맞은 예측 개선은 거의 없었습니다.
 
 **"통계적 유의성은 개입이 효과가 있었는지를 결정합니다."** 그것은 효과가 탐지 가능했는지를 결정할 뿐입니다. 그것이 *학습* 효과였는지는 결과 측정치, 비교, 그리고 그것이 취해진 조건에 달려 있습니다. 그래서 이 페이지의 각 절에 있는 설계와 보고의 선택이 분석만큼 무게를 지닙니다.
-
-## 연결된 개념
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — 교육에서의 인공지능의 이론 개발
-- [[qualitative-research]] — 질적 연구
-- [[quantitative-research]] — 양적 연구
-- [[mixed-methods-research]] — 혼합 방법 연구
-- [[design-based-research]] — 설계 기반 연구
-- [[usability-research]] — 사용성 연구
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## 연결된 문서
-
-- [[ai-methodologies-science-education-research-2026]] — AI 방법론이 과학교육 연구를 어떻게 변형할 수 있는지 성찰하기 위한 일곱 단계 인식론적 반복 틀(Martin 외 2026)
-- [[access-not-enough-ai-tutoring-2026]] — 접근만으로는 충분하지 않다: 인간 지원이 AI 튜터링과의 참여를 향상시킨다
-- [[genai-can-harm-teaching-rct-2026]] — 생성형 AI가 교수를 해칠 수 있다
-- [[genai-over-reliance-learning-2026]] — 향상에서 과의존으로: 혼합 방법 연구
-- [[acceptance-ai-english-tools-2026]] — AI 지원 영어 학습 도구의 수용
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터 안전과 교수법적 해
-- [[zerkouk-comprehensive-review-its-2025]] — 지능형 튜터링 시스템의 종합 고찰
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI 지원 협력 학습 모형을 위한 설계 기반 연구
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: LLM의 교수 능력 평가
-- [[ground-truth-reliability-aied]] — 정답의 현대화: 신뢰성과 타당성을 향한 네 가지 전환
-- [[llm-student-simulation-teacher-insights]] — LLM이 인간 학습자를 효과적으로 시뮬레이션할 수 있는가?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 교육에서의 AI 연구의 투명한 보고를 위한 열 영역 30개 항목(Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI 통합 학습 관리 시스템: 종단 연구
-- [[ai-in-the-wild-college]] — AI in the Wild: 실제 상호작용의 대규모 분석
-- [[same-ai-different-pathways]] — 같은 AI, 다른 경로: 메커니즘 풀어내기
-- [[tep-aied-model-reporting-2026]] — 교육에서의 AI 연구를 엄밀하게 보고하기 위한 TEP-AIED 모델(Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — 역량 역설: 예술과 디자인에서의 텍스트-이미지 GenAI
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 교육에서의 ChatGPT: 원인을 찾는 효과
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 학습에 대한 AI 효과의 메타-메타분석
-- [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정된 것들: 결함 있는 AIED 메타분석 감사
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
-
-- [[porcaro-ai-grading-benchmark-2026]] — 합의를 넘어서: 정답을 아는 탐침, 모의 채점자에 대한 효과 심기 검사, 22개 프롬프트 모형(Porcaro 2026)
-

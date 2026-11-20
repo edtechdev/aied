@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -85,36 +87,3 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 **„Mehr [[authentic-assessment|authentische Aufgaben]] sind schlichtweg besser."** Authentizität erhöht den Transferwert und das Bewertungsproblem gleichermaßen: Reale Systeme erzeugen variable, schwer zu bewertende Belege, und je authentischer die Aufgabe, desto weniger ähnelt das Ergebnis einer Punktzahl. Das Design muss beides zusammenhalten, weshalb die Reflexionsstruktur ebenso viel Gewicht trägt wie die Aufgabe selbst.
 
 **„[[intelligent-tutoring|KI-Tutoring]] passt zum erfahrungsbasierten Lernen genauso wie zu Vorlesungsinhalten."** Die Passung ist schwächer, denn ein Tutor kann Erklärungen liefern, nicht aber die Begegnung mit dem System. Sein natürlicher Platz in dieser [[pedagogy|Pädagogik]] liegt in den Phasen der Reflexion und der Begriffsbildung, in denen Lernende das Erlebte einordnen — nicht anstelle des eigenen Handelns. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] erzeugen die Begegnung, statt sie vorzugeben: Aus den Zielen der Lernenden baut GELLI zur Laufzeit situative Szenen mit Figuren, Unterstützung und Reflexion auf, und in einer Studie im Within-Subjects-Design mit 40 Japanischlernenden übertraf es von Fachleuten erstellte Videos beim Vokabelabruf (d = 0,45) und beim Selbstvertrauen (d = 0,45), nicht aber beim Sprechen.
-
-## Verbundene Konzepte
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
-- [[virtual-and-augmented-reality]] — immersives Üben als absichtsvolle Erfahrung
-- [[reflection]]
-
-## Verbundene Artikel
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Rollenspiele in der realen Welt erzielten größere Empathiezuwächse als VR- und LLM-Dialoge, allerdings war die Expositionszeit konfundiert (Zwoliński et al., 2026)
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce-Readiness-Level-Rahmenwerk für intelligente Fertigung im AI-Zeitalter
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Förderung nachhaltigen Lernens durch verkörperte Intelligenz (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in der Cybersecurity-Ausbildung
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotik und AI im Bildungswesen
-- [[ai-lms-middle-school-longitudinal]] — Längsschnittstudie zu einem KI-integrierten LMS
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — KI-Personas als Ersatz für Feldarbeit in der Community, mit einem Bewertungsraster aus fünf Indikatoren dafür, wo diese Substitution versagt (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematische Übersichtsarbeit, die Embodied Hands-on von Cognitive Hands-on in der KI-gestützten Designausbildung unterscheidet (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — ein Kurs für strategisches Management, der um drei Mechanismen generativer KI herum neu konzipiert wurde
-- [[gelli-experiential-language-learning-2026]] — GELLI: ein Generator für erfahrungsbasierte Sprachlerninteraktionen (Symonette et al. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — KI-gestütztes virtuelles Labor für Flipped Learning im Physikunterricht: Auswirkungen auf Leistung, Motivation und kognitive Belastung von Schülerinnen und Schülern der Sekundarstufe I
-- [[metacognitive-awareness-experiential-vs-instructional]] — Erfahrungsbasierte versus instruktionsbasierte Lerneinheiten für metakognitives Bewusstsein beim AI-gestützten Lernen (Benazet i Montobbio et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 Studien auf den Service-Learning-Zyklus abgebildet: KI wird bei Evaluation und Reflexion deutlich seltener (Yusuf et al. 2026)

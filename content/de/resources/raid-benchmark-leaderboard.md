@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -41,9 +42,3 @@ Forschende, die Erkennungsmethoden evaluieren, Verwaltungen, die Richtlinien ver
 ## Hinweise und Einschränkungen
 
 Der Benchmark misst die Erkennung maschinell erzeugten Textes, nicht Fehlverhalten: Studierende, die KI zum Planen, Gliedern oder Überarbeiten nutzen, erzeugen Text, den zu erkennen die Detektoren nicht gebaut wurden, und Studierende, die [[language-learning|in einer Zweitsprache schreiben]], sind ein bekanntes Falsch-Positiv-Risiko, das ein Leaderboard nicht abbilden kann. RAID ist ein Forschungsartefakt, das von einem akademischen Team gepflegt wird; die Abdeckung folgt den Generatormodellen im Testset, sodass neuere Modelle unterrepräsentiert sein können, bis der Benchmark aktualisiert wird. Das Leaderboard ordnet Detektoren in eine Rangfolge ein, nicht die Praktiken ihrer Anbieter im Umgang mit Daten, und ein hoher AUROC sagt nichts darüber aus, ob das Einreichen studentischer Arbeiten bei diesem Dienst in Ihrer Rechtsordnung rechtmäßig oder ethisch vertretbar ist.
-
-## Verbundene Konzepte
-
-- [[ai-detection]] — die Methodenfamilie, die der Benchmark evaluiert
-- [[academic-integrity]] — der Richtlinienkontext, in dem Detektorwerte verwendet werden
-- [[benchmark]] — die übergeordnete Klasse von Instrumenten, zu der RAID gehört

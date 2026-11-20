@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -74,57 +76,3 @@ Mada inayoainisha ni kwamba roboti zinafanikiwa zinapounga malengo halisi ya kuj
 - **"Roboti hufundisha mawazo ya kompyuta kwa sababu tu ni roboti."** Mapitio ya kimfumo ya **tafiti 53** yaligundua **kujifunza kulingana na matatizo, kuambatana hadithi na kutoa ngazi za msaada** kama mikakati inayotumika mara nyingi zaidi: mbinu ya kufundisha ndiyo iliyobeba matokeo, na ndiyo tafiti zilifanya kwa kweli.
 - **"Roboti za kimwili hushinda mbadala za skrini kote."** Faida zilitagemea **kazi**: alama ya uhamisho wa muda mfupi **juu kwa 60%** kwa [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4.4/10, p = .003) ambayo waandishi wanaiambatia kwa **kuwa mahali pamoja kijiografia badala ya ubadilishaji wa jumla**. Dai ni kuhusu kuwa mahali pamoja kwenye kazi mahususi, si kuhusu ukimwili kwa ujumla.
 - **"CT ya chekechea ni mapema mno kuwa na maana."** Ushahidi uliopitiwa unashughulikia roboti za chekechea moja kwa moja, ambayo inamaanisha kundi la umri linasomwa badala ya kudhaniwa halifai.
-
-## Dhana Zilizounganishwa
-- [[early-childhood-elementary-ai-education]] — Elimu ya AI ya utotoni na elimu ya msingi
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Makala Zilizounganishwa
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
-- [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Mfano wa lugha-kuona hupanga Kazi za Sanduku la Viatu kwa roboti ya Nao (Kudláčková 2026)

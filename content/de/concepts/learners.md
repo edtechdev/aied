@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -110,50 +112,3 @@ Lesen Sie sie mit [[stakeholders|Akteure]] für die Menschen um die lernende Per
 **„Studierende, die KI für Abkürzungen nutzen, versagen moralisch.“** Der Sog des geringsten Aufwands ist ein Design- und Policy-Problem und kein Charakterproblem — Studierende beschreiben ihn mit eigenen Worten, und die Literatur zu [[reducing-ai-misuse|Missbrauch]] und [[academic-integrity|Integrität]] verortet den Hebel im Aufgaben- und Umgebungsdesign. Wer es moralisch deutet, erklärt nichts darüber, warum sich dieselbe Person in zwei Kursen unterschiedlich verhält.
 
 **„Wenn ein Vorwurf des Fehlverhaltens erhoben wird, ist die Evidenz da.“** Die Fallakten zeigen eine schwächere Grundlage: Die am schwächsten bewertete Evidenz ist genau die, die zitiert wird, keine Evidenzschwelle entscheidet darüber, ob ein Fall weiterverfolgt wird, und dünne Fälle enden in Rechtsmittelverfahren. Nur die Nutzung durch Lernende zu dokumentieren und nicht ihre Betroffenheit von Anschuldigungen würde die Hälfte der Erfahrung abdecken.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Wie Lernende KI wahrnehmen, mit ihr interagieren und von ihr betroffen sind
-- [[learner-identity]] — Wer Lernende im Verhältnis zu einem Fach und zu KI werden
-- [[agency]] — Was Lernende noch kontrollieren und wählen
-- [[student-ai-interaction]] — Was Lernende tatsächlich von KI verlangen und wie sich Dialoge entwickeln
-- [[cognitive-offloading]] — Übervertrauen und die Substitution von KI für Denken
-- [[self-regulated-learning]] — Das eigene Lernen planen, überwachen und anpassen
-- [[help-seeking]] — Gut um Hilfe bitten, und die Fehlschlagmuster, wenn Lernende es nicht tun
-- [[metacognition]] — Wissen, was man versteht und was nicht
-- [[motivation]] — Warum Lernende durchhalten oder aufhören
-- [[self-efficacy]] — Die Zuversicht der Lernenden in die eigene Fähigkeit
-- [[student-engagement]] — Behaviorales, emotionales und kognitives Engagement
-- [[prior-knowledge]] — Das Hintergrundwissen, das entscheidet, ob Unterstützung zu Lernen wird
-- [[student-modeling]] — Die lernende Person im System repräsentieren
-- [[knowledge-tracing]] — Fähigkeitserwerb über die Zeit schätzen
-- [[simulating-students]] — LLM-simulierte Lernende als vorläufige Einspringer
-- [[ai-literacy]] — Die Fähigkeit, die entscheidet, ob Lernende KI gut nutzen
-- [[equity-in-ai-education]] — Wer profitiert und wer außen vor bleibt
-- [[well-being]] — Angst, Stress und die affektiven Kosten KI-vermittelten Lernens
-- [[misconceptions]] — Die mentalen Modelle, die Lernende an KI mitbringen
-- [[stakeholders]] — Die andere Seite desselben Felds: Lehrende, Leitungen, Gestaltende
-- [[assessment]] — Welche Fähigkeiten der lernenden Person überhaupt sichtbar gemacht werden
-
-## Verbundene Artikel
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Vertrauensmuster und Bewertungskompetenz spalten die Ergebnisse von Lernenden
-- [[student-perceptions-ai-study-productivity-2026]] — Lernende berichten von Effizienzgewinnen neben Sorgen vor Abhängigkeit
-- [[student-llm-interaction-taxonomy-review-2026]] — Eine Taxonomie lernorientierter Interaktion zwischen Studierenden und LLM
-- [[student-ai-conversations-cognitive-engagement-2026]] — Fachspezifische Muster in Gesprächen zwischen Studierenden und KI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Zuwächse in der gestützten Leistung ohne unabhängige Fähigkeit
-- [[genai-performance-vs-learning]] — Warum gestützte Leistung und ungestütztes Lernen getrennt gemessen werden müssen
-- [[shaw-nave-cognitive-surrender-2026]] — Kognitive Kapitulation als Disposition, nicht als Unfall
-- [[metacognitively-discordant-completion-genai-2026]] — Lernende, die bemerken, dass sie nicht verstehen, und dennoch einreichen
-- [[verification-quality-reliance-calibration-genai-2026]] — Qualität der Verifikation und Kalibrierung von Vertrauen
-- [[simulating-students-llm-review-2026]] — Simulierte Lernende: Architektur, Mechanismen und Grenzen
-- [[stanbkt-bayesian-knowledge-tracing]] — Parameterschätzung beim Bayesischen Knowledge Tracing
-- [[demographic-signals-llm-student-assessment-2026]] — Implizite und explizite demografische Signale in LLM-basiertem Assessment
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — KI-Kompetenz, Engagement und psychologisches Kapital
-- [[genai-student-experiences-uk-he-survey-2026]] — Studierende beschreiben den Sog des geringsten Aufwands
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Studierende zu der Frage, ob GenAI ein Betrugswerkzeug oder ein Lernpartner ist
-- [[munoz-misconduct-allegation-evidence-2026]] — Was Akten zu Fehlverhaltensanschuldigungen tatsächlich als Beleg enthalten
-- [[wright-transcription-not-generation-2026]] — Überinklusive KI-Regeln und die Lernenden, die sie damit erfassen
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrität als bewertendes Urteil statt als Compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Die emotionalen und gerechtigkeitsbezogenen Kosten von Fernaufsicht für Studierende

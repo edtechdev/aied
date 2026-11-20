@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 Amplify GenAI is the opposite bet from a campus-wide license to a commercial assistant: the institution runs the platform itself, inside its own Amazon Web Services account, and pays for what it uses. Vanderbilt built it for its own community, released it under MIT across three repositories, and now offers it to other organizations as an alternative to per-seat enterprise contracts, on the argument that the expensive part should be the models rather than the seat count.
@@ -40,10 +41,3 @@ Central IT and CIO offices that already run workloads in AWS and want a supporte
 ## Notes and caveats
 
 Free to license, not free to run: the institution pays AWS and the model providers. Model choice runs through Amazon Bedrock (Anthropic, Mistral) or OpenAI and Microsoft Azure, and running your own local models is not implemented. The project states plainly that it cannot support individual deployments and refers organizations to commercial partners, so the realistic cost includes staff or a contractor. It is a three-repository deployment (frontend, backend, infrastructure) with tens of stars rather than thousands, and the cost comparison above is Vanderbilt's own experience rather than a controlled study. Institutions that would rather keep inference on hardware they own should look at [MindRouter](/aied/resources/mindrouter/) and read the two together: Amplify is an application layer over vendor models, MindRouter is a gateway over your own GPUs.
-
-## Connected Concepts
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

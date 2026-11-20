@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -63,7 +64,3 @@ IMA או MarginNote, או כספת Obsidian מקושרת. הזיכרון נית�
 בבנצ'מרק TutorBench — מסוכמת ב[[zhao-deeptutor-agentic-personalized-tutoring-2026|עמוד המאמר]], והמגבלות שלו חלות גם
 כאן. כמו בכל ערימת קוד פתוח של בינה מלאכותית, הלקוח מספק מפתחות ספקי-דגם,
 ופריסת שולחן-עבודה או שרת דורשת Python 3.11 ו-Node.
-
-## מושגים מחוברים
-
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

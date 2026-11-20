@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -44,8 +45,3 @@ ai_assist:
 ## नोट्स
 
 लेखक Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); डिज़ाइन का औचित्य और मान्यता की सीमाएँ एक सहयोगी प्रीप्रिंट में दर्ज हैं, और स्रोत कोड सार्वजनिक है।
-
-## संबद्ध अवधारणाएँ
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
-

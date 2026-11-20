@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -49,12 +50,3 @@ ai_assist:
 ## 注意点と留保
 
 [[open-source|オープンソース]]であることは、データがオープンであることを意味しません。Knowledge Graph と Evaluators のコードは MIT、Agent Skills は Apache-2.0 ですが、各データセットは独自のアクセスラベル — Open、Open + Gated、Gated — を持ち、Gated のコンテンツはリポジトリが掲げるオープンライセンスの対象外であるため、再利用の権利を前提とする前にデータセット目録を確認してください。Evaluators のプロンプト内容は CC BY 4.0 ですが、使用している注釈付きの CLEAR および PERSUADE 2.0 コーパスは CC BY-NC-SA 4.0 です。プラットフォームとその背後のデータセットにはアカウントが必要です。
-
-## 関連する概念
-
-- [[curriculum-design]] — 生成コンテンツを標準とカリキュラムに整合させるために存在するグラフ
-- [[open-source]] — MIT と Apache-2.0 のコード、データはデータセットごとのライセンス
-- [[educational-nlp]] — 評価器は LLM 出力に対するテキスト計測の層
-- [[agentic-ai]] — モデルが実行するワークフローをまとめたスキル
-- [[edtech-platform]] — Curriculum Sync がカリキュラムを学習管理システムに読み込む
-- [[llm]] — 評価の対象であり、スキルの利用者

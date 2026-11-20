@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -117,45 +119,3 @@ ai_assist:
 - **"حلقے میں ایک انسان اسے ٹھیک کر دیتا ہے۔"** حلقہ اتنا ہی اچھا ہے جتنا مداخلت کا موقع، اور اسکورنگ کے مطالعات نے اینکرنگ نہیں ناپی۔
 - **"یہ طالب علم کا مسئلہ ہے۔"** اساتذہ، جانچنے والے، تشریح کار اور منتظمین ہر اس ڈیزائن میں منظوری دینے والے ہیں جو علمی ذخیرہ بیان کرتا ہے۔
 - **"یہ کردار کی خرابی ہے جسے بہتر تربیت دور کر دیتی ہے۔"** تربیت مدد دیتی ہے، مگر وہی شخص مختلف برتاؤ کرتا ہے اس پر منحصر کہ تصدیق سستی ہو یا نہ، آؤٹ پٹ روان ہو یا نہ، اور اختلاف کی قیمت ہو یا نہ۔
-
-## منسلک تصورات
-
-- [[trust-calibration]] — وہ انحصار کی حالت جس کی ناکامی کا نام آٹومیشن تعصب ہے
-- [[bias-mitigation]] — نظام کی طرف کا ہم منصب: ماڈل کے اندر تعصب
-- [[cognitive-offloading]] — ذہنی کام کی تفویض، جس کا ایک نتیجہ بے جانچ قبولیت ہے
-- [[human-in-the-loop-ai]] — وہ ضمانت جس کی طاقت یہ ناکامی طے کرتی ہے
-- [[explainable-ai]] — وہ شفافیت کی مداخلت جو علمی ذخیرہ تجویز کرتا ہے اور شاذ و نادر آزماتا ہے
-- [[learning-analytics]] — ڈیش بورڈ اور ابتدائی انتباہ، جہاں بھول کی غلطیاں جمع ہوتی ہیں
-- [[recommender-systems-and-learning-paths]] — آگے کیا کرنا ہے اس کی ترتیب، جسے طالب علم بس پیچھے چل سکتا ہے
-- [[automated-assessment]] — وہ اسکور جسے انسان دوبارہ پڑھے بغیر قبول کر سکتا ہے
-- [[scaffolding]] — ایسی جانچ جو قبولیت سے سستی رہے
-- [[self-efficacy]] — وہ خصوصیت جس پر معیاری پیش گوئی ٹکی ہے
-- [[ai-detection]] — وقت کے دباؤ میں انسانوں کا فیصلہ کردہ نشان دہی
-- [[remote-proctoring]] — ماڈل کا پیدا کردہ شبہ اور انسان کا فیصلہ
-- [[ai-literacy]] — جہاں تصدیق بطور درجہ بند ہنر رہے گی
-
-## منسلک مضامین
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — اساتذہ کو پتلی ڈیٹا پر بنی سفارشوں سے خبردار کیا گیا
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — AI اسکوروں سے اینکرنگ کو غیر آزمودہ خطرہ کہتا اور بلاکنگ تجویز کرتا ہے
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — ڈیش بورڈ، سطحی خصوصیات کا فیڈبیک اور ٹریفک لائٹس بطور عام نمونہ
-- [[factria-responsible-institutional-analytics-2026]] — گیارہ حصہ دار، چار کیسز، ایک چیٹ بوٹ جو سفارش سے انکار کرتا ہے
-- [[ludia-udl-ai-thought-partner-2026]] — معلم کی ضمانت جو اوزار کے شعبے کے علم پر بھروسے سے کمزور ہے
-- [[extended-minds-coupling-flexibility-2026]] — رد کرنے کا رسمی حق نگرانی نہیں اگر آٹومیشن تعصب اسے شکست دے
-- [[ground-truth-reliability-aied]] — LLM کی تشریح، چکری توثیق اور لیبل کا خاموش بہاؤ
-- [[polished-artifacts-fragile-engagement-2026]] — آٹومیشن تعصب بطور کم علمی محنت کا سماجی-علمی دھاگہ
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — چکری انسانی-AI کام میں چار ناکامی کے اندازوں میں ایک
-- [[eight-mode-ai-engagement-typology-2026]] — اوریکل انداز اور اس کا مخصوص خطرہ
-- [[assessing-student-drive-framework-2025]] — فعال انسانی ایجنسی بطور آٹومیشن تعصب کے خلاف محافظ
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 مطالعات کہ AI غیر متعلق کام ہٹاتا ہے یا تشکیل دینے والا
-- [[geoscience-field-learning-genai-2026]] — شواہد سے بندھے فیلڈ ورک میں اینکرنگ، تصدیقی اور آٹومیشن تعصب
-- [[ahmadfard-interactive-oer-review-2026]] — آٹومیشن تعصب ان خطرات میں جو سیکھنے والے اور استاد کی ایجنسی کھاتے ہیں
-- [[alshahrani-health-sciences-ai-use-2026]] — 310 طلبہ کی اخلاقی فکریں واضح تربیت کی دلیل کے طور پر
-- [[ai-literacy-legal-translation-2026]] — پوسٹ ایڈیٹنگ بطور درجہ بند ہنر، معیار کے وہم کے خلاف
-- [[morales-cevallos-ai-forensic-science-education-2026]] — جائزہ شدہ فرانزک-AI مطالعات میں آٹومیشن تعصب درج
-- [[rana-genai-design-thinking-2025]] — ایسے سکافولڈ جو انسانی فیصلے کو مرکز میں رکھیں
-- [[kim-overtrust-ai-literacy-2026]] — پیش گوئی اُلٹ گئی: بااعتماد طلبہ نے اوزار پر زیادہ بھروسا کیا
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — آٹومیشن تعصب کی تحقیق پر بنا فریم ورک، اس کا امتحان نہیں
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — تنقیدی شہریت کو کھانے والے تین میکانزموں میں سے ایک
-- [[academic-erasure-complexity-ai-writing-2026]] — AI کے استعمال کی پولیسنگ کی جذباتی محنت میں آٹومیشن تعصب
-- [[llm-fallacy-misattribution]] — قریب ترین امتیاز: نظام پر حد سے زیادہ انحصار بمقابلہ اپنی سمجھی جانے والی قابلیت

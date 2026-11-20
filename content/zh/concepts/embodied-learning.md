@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -67,33 +69,3 @@ ai_assist:
 - **"是身体让具身学习起作用。"** 一项对 **11 项 RALL 研究（N = 595, g = 0.83, I² = 84.4%）** 的元分析发现，**机器人形态、模态、自主性与社会角色并不调节**第二[[language-learning|语言学习]]的结果。具身特征不是那个有效成分，而异质性高到（I² = 84.4%）这个合并效应描述的是一组非常混杂的干预。
 - **"一个大的效应就确定了机制。"** 在 11 项研究、595 名参与者上得到 g = 0.83 是一个真实信号，而它并不能指认是什么产生了这一信号。既然设计特征并不调节效应，可信的机制位于教学活动之中，而非硬件之中，这就改变了应当投资于什么。
 - **"具身性无法测量，因此只能停留在理论层面。"** 身体追踪可以把调节变成**可测量的信号**：在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线标注了 **470 段**调节行为。即便构念难以定义，它也是可以被操作化的。
-
-## 关联概念
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — 试图直接利用具身性的那个模态
-
-## 关联文章
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 身体追踪在混合现实中把自我调节变成可测量的信号（Fonteles 等人 2026）
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口语解释中具身认知的多模态框架
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 通过具身智能促进可持续学习（E3-HOT）
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 具身积木编程
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo：交互式数字故事讲述机器人与学生动机
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 用于旁观者干预的机器人中介角色扮演游戏（应用戏剧）
-- [[pepper-robot-sign-language-lis-2025]] — 支持手语交流的 Pepper 机器人
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 机器人 LLM 集成与创意写作
-- [[robot-assisted-language-learning-meta-analysis-2026]] — 对 AI 增强的具身机器人辅助语言学习的元分析
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI 作为手工建模之后的促进者：基于语言的 AI 无法跟随具身探究（Tufino 与 Damiani 2026）
-- [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 大多在观察：感知角色占编码角色标签的 62.5%，且没有所综述的系统在学习者使用时融合多模态流（Kim 与 Han 2026）

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -98,47 +100,3 @@ Una revisione sistematica interdisciplinare del 2026 (Dabaghi, D'Urso e Sciarron
 - Non pianifichi la roadmap sulle dimensioni dell'effetto aggregate. Un audit di 14 meta-analisi ha rilevato che nessuna giustificava le proprie affermazioni, quindi un'affermazione di prodotto che poggia su un *g* di testata poggia su una metodologia che non regge l'ispezione.
 - Misuri la frequenza di base prima di ottimizzarla. Un tasso di incidenza dello 0,68% significa che la maggior parte del lavoro di qualità avviene nella coda, e la prestazione sulla coda è ciò che determina se un dispiegamento è accettabile.
 - Riporti versione, data e tipo di compito con ogni numero di benchmark che pubblica, perché un'affermazione di capacità che li omette non è riproducibile.
-
-## Concetti collegati
-
-- [[llm]] — la classe di modello su cui si fonda l'IA generativa
-- [[prompt-engineering]] — come vengono plasmati gli output
-- [[rag]] — l'ancoraggio tramite recupero aumentato
-- [[ai-literacy]] — la competenza necessaria per usarla efficacemente
-- [[ai-education]] — il campo più ampio
-- [[intelligent-tutoring]] — sistemi di tutoring conversazionali e generativi
-- [[cognitive-offloading]] — il rischio di eccesso di affidamento che l'IA generativa amplifica
-- [[hallucination-risk]] — un rischio di affidabilità centrale dei contenuti generati
-- [[academic-integrity]] — preoccupazioni di integrità derivanti dalla generazione fluida
-- [[automated-assessment]] — modelli generativi nella correzione e nel feedback
-- [[ai-technologies]] — l'ombrello delle tecniche e dei modelli di IA
-- [[higher-ed]] — un contesto di impiego primario
-- [[k-12]] — un contesto di impiego primario
-
-- [[reflection]]
-
-
-## Articoli collegati
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit
-
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[bicer-genai-pd-math-creativity-2026]] — Uno studio di caso di sviluppo professionale in matematica guidato dalla GenAI con otto insegnanti rurali in servizio
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g aggregato = 0,819 che scende a 0,378 con PET-PEESE; gli strumenti personalizzati (0,455) sotto i chatbot (0,970)

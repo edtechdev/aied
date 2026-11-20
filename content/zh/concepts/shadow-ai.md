@@ -18,6 +18,8 @@ ai_assist:
 translation_of: concepts/shadow-ai
 source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -111,23 +113,3 @@ IT 与政策人员可以把批准变成一项路由决定。一个列出获准�
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) —— Damien Eversmann，*Campus Technology*，2026 年 2 月。一篇实践者论证：未经批准的使用报告了一种未被满足的需求——教师起草教案，研究者用系里的经费卡在云端开 GPU，员工把敏感数据粘贴进消费级工具，只因为获准的路径更慢。
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) —— Jonathan 及同事，Springer，2026 年。对 214 名公共部门员工所做的 PLS-SEM，把影子 AI 视为连接治理条件与负责任使用的机制。
-
-## 关联概念
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## 关联文章
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] —— EDUCAUSE：94% 将 AI 用于工作，54% 知道政策，13% 衡量了投资回报
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] —— 教育者如何为未经批准的使用辩护的三步叙述
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] —— 375 位教育者、1,373 个应用、24 人将安全列为理由
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] —— 教师在政策真空中划定教学法边界
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] —— 教育者主导的采用，作为等待机构指引之外的另一种选择

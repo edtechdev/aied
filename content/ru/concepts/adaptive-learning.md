@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -105,56 +107,3 @@ ai_assist:
 
 - Сообщайте операциональное определение «адаптивного» рядом с любым размером эффекта, который вы цитируете, потому что определения в литературе расходятся, и объединённые числа наследуют эту неоднозначность.
 - Отличайте свой критерий владения от результатов обучения в собственной валидации. Если ваша мера валидации — тот же сигнал, который управляет адаптацией, это не независимое доказательство.
-
-## Связанные концепции
-
-- [[online-teaching-and-learning]] — онлайн-преподавание и обучение
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Зонтик: технологии и техники ИИ (модели, обучение LLM, робототехника, RAG, агентность)
-- [[recommender-systems-and-learning-paths]]
-
-## Связанные статьи
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: момент-осознанная адаптивная система оценивания для персонализированной оценки
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивая сверхгенерализация: адаптивное владение может прекратить практику прежде, чем учащиеся узнают, когда сдержать действие (An, McLaren и Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — ИИ-тьюторинг — не монолит: что мы на самом деле знаем (бриф Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Систематический обзор вовлечения студентов на платформах адаптивного обучения
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Виртуальный тьюторинг с КПО: эксперимент по восприятию и обучению
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Делаем ИИ-тьюторинг продуктивным: основанная на владении практика по математике
-- [[chudziak-ai-math-tutoring-platform]] — Адаптивный/персонализированный мультиагентный тьюторинг по математике (Chudziak и Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Переосмысление персонализированного обучения: систематический обзор
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — ИИ-тьюторинг, откалиброванный под готовность учащегося, в сравнении с общими чат-ботами
-- [[context-based-ai-secondary-chemistry-2026]] — Контекстное обучение 7E + ИИ в химии средней школы
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Адаптивная STEM-программа на базе ИИ для глубокого обучения
-- [[graph-its-adaptive-algorithms-2026]] — Графовый интеллектуальный тьюторинг для динамических областей (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Байесовская когнитивная диагностика для персонализированных учебных путей
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивный скаффолдинг ICAP в ITS (BKT против DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Метаанализ, объединяющий адаптивные + ИИ-инструменты по 14 РКИ
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Систематический обзор: адаптивные траектории среди ведущих случаев интеграции ИИ в высшем образовании
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Адаптивное секвенсирование задач превосходит фиксированное: +0.156 SD на экзамене без помощи, опосредовано вовлечением, а не сложностью (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: агентный тьютор, который учит своего учащегося в человеко-ИИ-цикле совместного обучения
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Использование стратегий определяется состоянием (средний ICC 0,14), поэтому статические профили учащихся отбрасывают большую часть сигнала
-

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,6 +64,3 @@ manusia, belum ada orang yang memeriksa halaman mana pun, dan situsnya menandai 
 petunjuk bersumber baik alih-alih temuan. Klaim membawa tingkat desain, kode ukuran efek dan kode
 kekakuan, dan “tidak ada ukuran efek tercetak” berarti sumbernya tidak melaporkannya, bukan bahwa tidak
 ada. Kontennya CC BY-SA 4.0, sehingga penggunaan ulang harus membawa lisensi yang sama, dan kodenya MIT.
-
-## Konsep terkait
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,34 +80,3 @@ ai_assist:
 **“信息素养是一次性的入学导览。”** 它是教学，而不是协助：学生带来的问题是评价与策略问题，例如这个来源是否可信、我该如何检索这个题目，而它们是可教的技能，而不是待办的事务。把这项服务当作协助，就把一门课程变成一张服务台，并失去那项持久的能力。
 
 **“谁为验证付费是别人的问题。”** 咨询负荷落在图书馆的人员编制上，而论文自己提出的问题是：要求图书馆承担它，是否会超出其人力。共同设计与伙伴关系正是文献所推荐的回应，因为验证成本是真实的，并且落在一个并未为此编制预算的单位上。
-
-## 关联概念
-
-- [[ai-literacy]]
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## 关联文章
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 嵌入式图书馆员研讨平台；312 次咨询以来源评价为首
-- [[genai-academic-search-workshop]] — CHIIR 2026 关于 GenAI 与学术检索的研讨会；馆员信任缺口
-- [[maybee-disruptive-partnerships-sap-2025]] — 学术图书馆员与学生作为伙伴共同设计 AI 素养
-- [[aarc-ai-research-competency-2026]] — 验证、引用、反思作为可教的研究承诺
-- [[pearls-epistemic-verification-2026]] — 六维验证协议；获取与正当性作为闸门
-- [[hingle-collaborative-ai-literacy-2025]] — 面向 AI 素养的协作学习；信息素养的益处的迁移
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 教师把归因与负责任使用排得最高，但 26 项技能中只教少数几项
-- [[bird-multimodal-educational-literature-2026]] — 为英语教师与图书馆员等非技术用户构建的文本复杂度工具
-- [[cognitive-offloading-llm-synthesis-writing]] — 当 AI 为学习者综合来源时，学习者外包了什么
-- [[citation-errors-hallucinations-computing-education-2026]] — 被捏造与错误的引用作为验证问题

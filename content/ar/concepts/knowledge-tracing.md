@@ -20,6 +20,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -102,39 +104,3 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - أبلِغ عن النتائج على أكثر من عائلة بيانات واحدة قبل ادعاء تفوّق معماري، لأن تباين OKT ينقلب بين بيانات LMS الهندسية وASSISTments.
 - أبلِغ عن قاعدة عدّ التمكّن كبارامتر للنتيجة، لا كحاشية منهجية.
-
-## المفاهيم المترابطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — تقدير تمكّن دقيق يُغذّي قرارات الدعم
-
-## المقالات المترابطة
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — التعميم المضلِّل: التمكّن التكيفي يمكن أن يوقف التدريب قبل أن يعرف المتعلّمون متى يُحجب فعل (آن وماكلارين وستامبر 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — التدريس الذكي القائم على الرسوم البيانية للمجالات الديناميكية (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — تتبّع معرفة قائم على النواتج بخريطة تقارب
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — تتبّع مُؤسَّس دلاليًا بحالات معايَرة بـ KC، مستخدمًا كبيئة RL للتوصية
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: مدرّس وكيلي يتعلّم متعلّمه في حلقة تعلّم مشتركة بين الإنسان والذكاء الاصطناعي
-- [[crediting-assisted-work-inflates-mastery-2026]] — قاعدة الأدلة التي تقرر ادعاء التمكّن (سريفاستافا 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — نموذج لغوي كبير بتمريرة واحدة يتتبّع المعرفة فوق النماذج العميقة المُدرَّبة على 8 متعلّمين، بجزء من الكلفة (لي وبارك 2026)
-- [[knowledge-tracing-compression-math-2026]] — ضغط تاريخ الطالب في تتبّع المعرفة الرياضية

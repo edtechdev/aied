@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -36,7 +37,3 @@ Než začnete stavět: vyberte mezi autorskými nástroji podle vážených krit
 
 ## Proč existuje
 Curt Zilbersher, který 28 let navrhuje firemní školení, popisuje tytéž malé nevyřešené problémy, jež se v jeho kariéře opakují — počítání slov komentáře, hledání podkladu, který posunul kurz za limit [[edtech-platform|LMS]], ruční audit pokrytí titulky — a staví na ně řešení a dává je zdarma. Web také pořádá bezplatný každoroční průzkum o tom, jak návrháři výuky skutečně tráví týden.
-
-## Související pojmy
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

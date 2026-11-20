@@ -27,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -211,47 +211,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## Concepts liés
-
-- [[research-methods-aied]] — le parapluie des dispositifs utilisés pour étudier l'IA en éducation
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Articles liés
-
-- [[ai-methodologies-science-education-research-2026]] — un cadre réflexif en sept phases portant sur la manière dont les méthodologies d'IA peuvent transformer la recherche en enseignement des sciences (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — le récit d'une équipe de revue interdisciplinaire sur le mentorat et l'intégration sélective de l'IA (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — comment 28 étudiants de troisième cycle ont utilisé GenAI dans l'ensemble du flux de travail de recherche, et les lignes directrices qu'ils suggèrent (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — un audit à l'échelle du champ des références fabriquées dans la littérature d'enseignement de l'informatique (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — un cadre de reporting pour les revues systématiques assistées par l'IA, et la lacune d'obligation de rendre compte qu'il documente (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — un rapport de l'atelier CHIIR 2026 sur l'IA générative et la recherche académique (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — une étude de cas d'un seul chercheur portant sur un agent persistant dans un espace de travail de recherche (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — des preuves bibliométriques que l'écriture assistée par l'IA accompagne des équipes de recherche plus petites et plus jeunes (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — un repère de référence de 30 jours qui évalue des agents tuteurs face à un apprenant simulé (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — un simulateur neuro-symbolique qui reproduit la véritable lutte du novice (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — pourquoi les simulateurs abandonnent une idée fausse sous toute rétroaction, et comment l'entraînement y remédie (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — un audit préenregistré qui utilise un apprenant simulé faible fixe pour tester si l'utilité mesure la pédagogie (Fan et al., 2026)

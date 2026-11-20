@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -118,9 +120,7 @@ ai_assist:
 - **Швидка застарілість** — ландшафт AI-інструментів змінюється швидко, тому огляди можуть швидко датуватися
 - **Обмеження обсягу** — пошук за однією базою даних або лише англійською може пропустити релевантні роботи. ([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
-
 Метааналіз із чотирьох досліджень показує той самий урок з боку малої вибірки. [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor and García Ortiz (2026)]] об’єднали 420 здобувачів із чотирьох контрольованих досліджень персоналізованого навчання на основі ШІ в інформатиці та інженерії й повідомили *g* = 1,01, 95% ДІ 0,33–1,68. Поправка Хартунга–Кнаппа, яка є обґрунтованою корекцією за такої малої кількості досліджень, розширила інтервал до −0,10–2,11 (*p* = .063), тож об’єднана оцінка більше не виключала відсутності ефекту. За *k* = 4 тести на упередженість публікації взагалі не запускаються, а достовірність GRADE оцінено як дуже низьку. Об’єднання чотирьох досліджень дає оцінку, яка не може нести рішення про впровадження, хоч би якою великою вона виглядала.
-
 
 **Метадослідження попереджає, що база синтезу в AIED наразі слабка.** Зростаюча сукупність критик документує, що заголовкові AI-ефекти галузі — особливо з ранніх метааналізів — надуті упередженістю публікації, некогерентністю конструкту та методологічними скороченнями. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], метааналізуючи 1 840 розмірів ефекту з 67 метааналізів, оцінюють скоригований на упередженість публікації AI-ефект приблизно в третину повідомленої величини (SMD ≈ 0,196), з крайньою неоднорідністю. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] перевіряє 14 високовпливових метааналізів AIED і виявляє, що жоден не мав когерентного конструкту, валідної оцінки упередженості публікації чи розв’язаної неоднорідності; дванадцять трактували залежні розміри ефекту як незалежні. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] показують, що більшість первинних порівнянь не має добре визначеного впливу, контролю та міри навчання. Це означає, що читачі мають сприймати об’єднані AIED-ефекти як верхні межі, доки якість синтезу не покращиться, — див. [[limitations-in-aied-research|Limitations in AIEd Research]] для повного аналізу.
 - **Стандарти звітування не встигають за автоматизацією.** PRISMA-LLM аналізує SciLitBench — корпус 888 праць про автоматизацію оглядів із 14 726 анотаціями — і документує швидкість зростання близько 4,7 % на місяць поряд із прогалиною підзвітності: з 2023 року 38,0 % праць про програмне забезпечення та продукти не повідомили про жодної оцінки, проти 9,3 % праць про LLM, і 52 % оцінок LLM лише з позитивними результатами повідомили про незакрите занепокоєння щодо високої планки. Оскільки LLM- і програмні конвеєри тепер беруть участь на етапах, які можуть змінювати доказову базу, рамка вимагає розкриття того, де в робочому процесі огляду діяла автоматизація, що було оцінено і які обмеження було перевірено, — пряме розширення проблеми прозорості, яку [[limitations-in-aied-research|AIED review critiques]] задокументували для метааналізів ефектів навчання. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
@@ -159,56 +159,3 @@ ai_assist:
 - **«Значущий об’єднаний ефект означає, що інтервенція працює.»** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Метааналіз AI-освіти K-12 від Yu та колег]] (**16 досліджень, 57 розмірів ефекту, g = 0,892**) виявив великий ефект, хоча автори його кваліфікують. Шістнадцять досліджень — вузька база, а великий ефект на такій базі є гіпотезою з широким інтервалом.
 - **«Оглядачі за замовчуванням точно повідомляють якість галузі.»** Робота огляду включає **розкриття методологічної якості**, і огляди **регулярно виявляють, що галузь спирається на недостатньо потужні, доекспериментальні або квазіекспериментальні дизайни** з негайними поствоїдовими тестами. Об’єднане число успадковує ці слабкості.
 - **«Об’єднання завжди підвищує вагу доказів.»** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Метааналіз Chen and Wei]] за **40 дослідженнями** навичок іноземної мови об’єднує дуже різні технології, і середнє не описує жодної з конкретних інтервенцій, які він містить.
-
-## Пов’язані поняття
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Пов’язані статті
-- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
-- [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
-- [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
-- [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI-supported L2 writing: a large pooled effect undermined by extreme heterogeneity and a quality-driven moderator
-- [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Meta-analysis of digital and AI tools for foreign-language skills: the design moderator more than doubles quasi-experimental effect estimates
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-analysis of GenAI in higher education: short-intervention effects collapse as duration grows
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-analysis of K-12 AI education: large effect with null moderators and heterogeneity attributed to measurement
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Systematic review of GenAI in programming education: thin instructional reporting in 26 of 46 studies
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123-study scoping review mapping GenAI, cognitive offloading and learner agency in higher education
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Метааналіз впливу генеративного штучного інтелекту на навчальні, когнітивні та мовні результати
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Відповідальне використання генеративного ШІ студентами в академічному письмі: огляд охоплення меж, освітніх підходів і прогалин у доказах
-
-- [[kim-ai-embodied-learning-review-2026]] — ШІ в тілесному навчанні переважно спостерігає: сенсорні ролі — 62,5% закодованих тегів ролей, і жодна оглянута система не поєднувала мультимодальні потоки під час роботи здобувача (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Чому чотири дослідження не можуть нести рішення про впровадження
-
-

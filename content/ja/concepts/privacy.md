@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -80,41 +82,3 @@ ai_assist:
 - **「監督の文献は、監督の倫理を確立している。」** **80の研究**のレビューは、**35%がデータセットを開示せず、40%が単一のモデルを評価し、30%は再現できず、25%のみが**報告の基準を満たしたことを見出しました。証拠基盤は、機関が展開の前に答える必要のある問いにおいて、まさに薄いのです。
 - **「プライバシーは、設計上の制約ではなく順守のチェックボックスである。」** 個人化し、予測し、評価するほとんどすべてのAIツールは学習者のデータに依存しており、そのことがデータの最小化を設計上の決定にします。データを必要とするツールには、任意のプライバシー設定があるのではなく、設計が選んだデータ依存があるのです。
 - **データ慣行についての認識は、それを見ることからは生じない。** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl(2026)]]は、**47人の第7学年の生徒のうち66%**が、自分の文章を読む[[conversational-ai|チャットボット]]について最も保護の弱い選択肢を選びました。さらに**47%**がアルゴリズムの影響を「ただ楽しいだけ」として退けたことを見出しました。測定は、クラスが自分の記録された行動をライブで投影して見て、「怖い」と反応し、数人が休み時間も残ってそのプラットフォームを使い続けた授業の**1か月後**に行われました。仕組みを見えるようにしても、そのコストを具体的にしなければ、プライバシー教育は姿勢を変えないのです。著者は、ここでの低いスコアは高いスコアよりも**信頼できる**かもしれないと述べています。これらの項目には社会的に期待される答えが存在しないのに対し、責任とガバナンスは正しそうな応答を誘うからです。
-
-## 関連する概念
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — 学生の記録、部署を超えたデータ共有、連合的なリスクモデリング
-
-## 関連する記事
-
-- [[stefanile-middle-secondary-ai-guidance-2026]] — 製品の利用規約が満たしていないCOPPAおよびGDPRの年齢下限(Stefanile, 2026)
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — あなたのプロンプトに1ペニー:AIチャットプラットフォームにおける文脈漏洩(Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — プライバシー保護型の学業リスクモデリングのための連合的かつ説明可能なラーニングアナリティクス(Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育介入へ:信頼できるLAベースの介入を可能にする要因(Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — エージェンティック・リテラシー債務:自律エージェントが生む構造的なAIリテラシー格差(Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM:真正な学習データの匿名化と同意
-- [[bassett-ai-detectors-education-2026]] — 表なら私たちの勝ち、裏ならあなたの負け:教育におけるAI検出器(Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — プライバシー保護型の連合LLM認知診断
-- [[agarwal-ethical-values-norms-aied-2026]] — 教育におけるAIの倫理的価値と規範
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 試験監督システムが取得するもの、そしてエビデンス基盤から欠落しているプライバシー研究
-- [[edtech-privacy-deferral-2026]] — 「後で直します」:教育、AI、そしてEdTechにおける学生プライバシーの先送り
-- [[kaziya-learner-data-privacy-governance-2026]] — 教員のプライバシーに関する能力と、それに基づいて行動する組織的権限とを分離する枠組み
-- [[wells-genai-research-assistant-sociology-2026]] — ライセンスされた機関テナンシーと認証ゲートを組み合わせたプライバシー設計

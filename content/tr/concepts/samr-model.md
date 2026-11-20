@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -81,29 +83,3 @@ SAMR, planlama ve değerlendirmede kullanılan bir tümleştirme derinliği merc
 **“SAMR ile TPACK birbiriyle yarışan çerçevelerdir.”** Farklı şeyleri tanımlarlar: SAMR bir görevdeki *dönüşüm derecesini*, [[tpack|TPACK]] ise bir öğretmenin teknolojiyi iyi tümleştirmek için ihtiyaç duyduğu *bilgiyi* tanımlar. Bir öğretmen yüksek düzeyde TPACK yetkin olup yine de Yerine Koyma düzeyinde çalışabilir; bu yüzden ikisi arasında seçim yapılmaz, birlikte kullanılır.
 
 **“Bir düzeyde dönüştürücü olan bir araç her düzeyde dönüştürücüdür.”** Aynı üretken araç bir derste bir Yerine Koymayı, başka bir derste bir Yeniden Tanımlamayı destekleyebilir, çünkü düzey teknolojinin değil görev tasarımının bir özelliğidir. Düzeyi araca atfetmek, tasarım kararlarının yerine benimseme kararları üretir.
-
-## Bağlı kavramlar
-
-- [[ai-education]] — Eğitimde YZ (şemsiye kavram)
-- [[tpack]] — Teknolojik Pedagojik İçerik Bilgisi
-- [[technology-acceptance-model]] — Teknoloji benimseme modelleri
-- [[icap-framework]] — Bilişsel katılımın ICAP çerçevesi
-- [[ai-technologies]] — YZ teknolojileri ve teknikleri
-- [[teacher-ai-competency]] — Öğretmen YZ yeterliliği
-- [[educational-development]] — Eğitsel gelişim
-- [[learning-design]] — Öğrenme tasarımı
-- [[k-12]] — K-12 eğitimi
-- [[higher-ed]] — Yükseköğretim
-- [[generative-ai]] — Üretici YZ
-
-## Bağlı makaleler
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — SAMR ile derecelendirilen yükseköğretimde YZ tümleştirmesi: çoğunlukla Yerine Koyma/Güçlendirme
-- [[thermomix-genai-education-analogy-2026]] — ICAP ve SAMR’ın dört "yemekten öğrenmeye" senaryosuna eşlenmesi
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Üretici YZ kaynaklı müfredat değişimi mercekleri arasında SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — Akademik personel teknoloji standartlarına bilgi veren çerçeveler arasında SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR’nin hümanist ontolojisinin posthümanist eleştirisi
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR’nin güç, veri mülkiyeti ve hesap verebilirlik konusundaki sessizliği
-- [[genai-use-changing-institutional-policy-physics-2026]] — Değişen kurumsal politikalara karşı öğrenci üretici YZ kullanımı: SAMR düzeylerine eşlenen kullanım işlevleri (Quince & Faulconer 2026)
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

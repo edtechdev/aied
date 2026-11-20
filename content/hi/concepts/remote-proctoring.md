@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -79,30 +81,3 @@ ai_assist:
 - **"प्रॉक्टरिंग शैक्षणिक सत्यनिष्ठा की रक्षा करती है।"** **सत्यनिष्ठा का औचित्य सबसे बड़े परीक्षण में टिक नहीं पाया।** **चार तरंगों और 105 पाठ्यक्रमों के 1,760 छात्रों** में प्रॉक्टरिंग ने **परीक्षा-चिंता बढ़ाई (β = 0.60, p < 0.001) पर कोई** पता लगाने योग्य सत्यनिष्ठा-लाभ नहीं दिया। मापा गया प्रभाव छात्रों पर था, नकल पर नहीं।
 - **"बेहतर पहचान क्षमता का अर्थ बेहतर प्रॉक्टरिंग है।"** **80 सहकर्मी-समीक्षित अध्ययनों (2014-2024)** की एक दशक-लंबी व्यवस्थित समीक्षा पाती है कि उन्नत ML/DL प्रॉक्टरिंग नकल को **अधिक** सही पकड़ती है और इस बारे में कुछ नहीं कहती कि उसे तैनात करने से आचरण बदलता है या नहीं। पहचान-प्रदर्शन वर्गीकरण-यंत्र का गुण है, मूल्यांकन-व्यवस्था का नहीं।
 - **"व्यवहारिक संकेत दुराचार के विश्वसनीय सूचक हैं।"** प्रणालियाँ **प्रति फ़्रेम सत्रह शारीरिक लैंडमार्क** को YOLOv11 से ट्रैक करके **मुद्रा-विचलन, सिर-प्रवृत्ति और ऊपरी-शरीर-गति** विशेषताएँ निकालती हैं। ये संरचनाएँ प्रतिनिधि हैं, और चिह्नित मुद्रा किसी उल्लंघन का अवलोकन नहीं, शरीर के बारे में एक वर्गीकरण है।
-
-## संबंधित अवधारणाएँ
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## संबंधित लेख
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — स्वचालित ऑनलाइन परीक्षा प्रॉक्टरिंग की दशक-लंबी व्यवस्थित समीक्षा
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — स्वचालित प्रॉक्टरिंग में शैक्षणिक बेईमानी की व्यापक समीक्षा
-- [[conijn-fear-big-brother-proctored-exams-2022]] — बड़े भाई का भय: परीक्षा चिंता पर प्रॉक्टरिंग के नकारात्मक दुष्प्रभाव
-- [[biology-degree-integrity-genai-cheating-2026]] — क्या छात्र जीव विज्ञान की डिग्री के लिए धोखे से आगे बढ़ सकते हैं? जनरेटिव एआई के युग में जीव विज्ञान पाठ्यक्रमों के अंकों की शैक्षणिक बेईमानी के प्रति संवेदनशीलता का एक केस स्टडी
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — निगरानी में: नर्सिंग छात्र मूल्यांकन में रिमोट प्रॉक्टरिंग प्रथाओं का नक्शा
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — प्रॉक्टर्ड, आमने-सामने की परीक्षा में 44.2% छात्रों को उच्च-जोखिम के रूप में लेबल किया गया, जिसका जोखिम सेमेस्टर की शुरुआत के LMS ट्रेस से भविष्यवाणी किया गया
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — पहनने योग्य एआई उस व्यवहारिक संकेत को हटा देता है जिस पर प्रॉक्टरिंग निर्भर है (Corbin, Sharpe और Dawson 2026)

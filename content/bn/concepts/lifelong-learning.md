@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -73,30 +75,3 @@ ai_assist:
 
 - কর্মসংস্থান-প্রভাব সমষ্টিগত সরণ-সংখ্যা হিসেবে নয়, বয়স-বন্ধ অনুযায়ী প্রতিবেদন করুন; 16% বনাম 8% বৈপরীত্যই ফলাফল।
 - গঠনমূলক কাজ কোথায় হারিয়ে যাচ্ছে তা অধ্যয়ন করুন, কারণ সেই কার্যকৌশলেই বর্তমান লাভ ভবিষ্যতের ঘাটতিতে পরিণত হয়।
-
-## সংযুক্ত ধারণা
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-adult-learning-guidelines-dis2026]] — প্রাপ্তবয়স্ক শিখন সমর্থনে এআই প্রযুক্তি নকশার নির্দেশিকা
-- [[ai-guided-learning-audiovideo-2026]] — দক্ষতা-অর্জনের জন্য এআই-নির্দেশিত শিখন
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity গ্রাফ দিয়ে উচ্চশিক্ষা পুনর্বিবেচনা
-- [[andragogy-cognitive-delegation-genai-2026]] — এআই-মধ্যস্থ শিখনে অ্যান্ড্রাগজি ও সংজ্ঞানাত্মক অর্পণ
-- [[ai-lifelong-learning-policy]] — আজীবন শিখনে এআই: প্রাপ্তবয়স্ক-শিক্ষা নীতিতে সুযোগ ও চ্যালেঞ্জ
-- [[community-centered-ai-education-adults]] — প্রাপ্তবয়স্কদের জন্য সম্প্রদায়-কেন্দ্রিক এআই শিক্ষার সহ-নকশা
-- [[cognitive-commons-ai-expertise-regeneration]] — সংজ্ঞানাত্মক কমন্সের ট্র্যাজেডি: এআই ও দক্ষতা-পুনরুৎপাদন
-- [[kim-ai-andragogy-2026]] — অ্যান্ড্রাগজিতে সহযোগিতামূলক শিখন-এজেন্ট হিসেবে এআই নিয়ে প্রাপ্তবয়স্ক শিক্ষার্থীদের দৃষ্টিভঙ্গি (Kim et al. 2026)

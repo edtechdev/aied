@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/teacherserver
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -39,8 +40,3 @@ translation_note: "Автоматический перевод данной ан
 ## Примечания
 
 Проект заявляет о локально установленном ИИ-сервере для обеспечения скорости работы и о том, что данные обрабатываются локально и никогда не сохраняются, а также о соответствии рекомендациям Министерства образования; на [странице команды](https://teacherserver.com/index-team.php) указан Зафер Унал (Zafer Unal), профессор Университета Южной Флориды, как основатель и разработчик, наряду с консультативным советом из четырёх преподавателей других университетов. Эти утверждения всё же стоит проверить перед использованием с работами студентов. Для доступа требуется регистрация, и существует сопутствующая платформа с последующей оплатой для создания собственных инструментов.
-
-## Связанные концепции
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

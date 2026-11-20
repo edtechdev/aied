@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -48,8 +49,3 @@ ai_assist:
 ## 说明
 
 产品官网没有署名任何个人，而是把需求转接到一个项目收件箱；DrawSplat 由 Miguel Guhlin 构建，他的个人网站记录了该项目的发布情况。这里的代码在许可意义上是自由的，而不只是免费：白板采用 GNU AGPL-3.0-or-later，SplatWorks 系列应用采用 GPL-3.0-only，学生设备上没有按席位收费的许可。读取你文件的工具都在浏览器本地运行，但云端保存以及任何专业学习请求确实会发送数据，因此在用于学生作业之前，请先查看存储清单页面。
-
-## 关联概念
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

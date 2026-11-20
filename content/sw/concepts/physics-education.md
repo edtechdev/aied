@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
@@ -47,7 +49,6 @@ Ukubalifu sasa umefanywa mfano badala ya kuelezwa: utafiti wa muundo wa usawa we
 **Kupokea AI na uaminifu kwa wanafunzi** huchunguza jinsi wanafunzi wa fizikia wanavyotumia zana za AI kikweli. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** waligundua pengo la pointi 50 kati ya matumizi na uaminifu: 91% wanatumia AI kwa kazi za kozi lakini 41% tu wanaitumaini, na wanafunzi wakitambua kwa hiari njia za kushindwa za AI katika hoja za kuona-na-mwendo na mizunguko. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** waliunda aina ya wasifu wawili — 70% "Watumiaji wa Kimatendo" na 30% "Wasiotumiaji wenye Shaka" — kutoka majibu 1,189 ya dodoso, wakionesha kuwa makundi yote mawili hufanya maamuzi yaliyopimwa ya kubadilisha hatari na manufaa. Masomo haya yanaendeleza utafiti wa [[ai-literacy]] na [[trust-calibration]], na yanapinga [[educational-policy-ai|sera za AI]] zinazofaa kwa kila mtu bila ubaguzi.
 
 **Matumizi ni ya kuchagua, na idhini inapita matumizi.** Katika dodoso la wanafunzi 209 wa uhandisi katika vyuo vikuu sita vya Kazakh, 36.1% waliripoti matumizi ya kawaida ya AI kwa ujumla, lakini 20.2% tu walitumia mara nyingi sana katika fizikia na taaluma maalum ([[nauryzbayeva-ai-physics-education-future-engineers-2026|Nauryzbayeva et al. (2026)]]). Matumizi yalijikita kwenye kazi za kutafuta maelezo — 55.1% kwa kufafanua mada ngumu na 51.4% kwa kazi za nyumbani — mbele ya kazi za maandishi kwa 43.5%. Fikra za uhandisi zilipata mchango mkubwa zaidi unaohisiwa kwa 61.1%, lakini chombo kilipima mifumo ya matumizi na [[self-report-measures|msaada unaohisiwa]] tu, si kujifunza. Hakuna chochote hapa kinachoonyesha kuwa AI iliboresha kujifunza fizikia, na waandishi wanasema hivyo.
-
 
 **Matumizi yenye muundo, si upokeaji tu.** Masomo ya upokeaji yaliyo juu yanaeleza nani anayetumia AI na kiasi gani anaamini. Mkondo tofauti unauliza ubunifu wa mafundisho unapaswa kufanya nini na matumizi hayo, na ushahidi wa taasisi nyingi kuhusu hilo umekuwa haba. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** waliendesha itifaki ya hatua nne ya Physics AI-Replication katika madarasa 11 ya aljebra na hesabu ya mabadiliko (calculus) katika taasisi nne: tambua tatizo gumu, pata maelezo na suluhisho la AI, omba matatizo ya mazoezi yanayofanana, kisha yatatue kwa kujitegemea kabla ya kukagua.
 
@@ -110,62 +111,3 @@ Elimu ya fizikia iko ndani ya uwanja mpana wa [[stem-education]] lakini ina mahu
 - **"Wanafunzi wanaamini AI vya kutosha kuitegemea bila uhakiki."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad na Bentley]] waligundua **pengo la pointi 50 kati ya matumizi na uaminifu**: **asilimia 91 wanatumia AI kwa kazi za kozi lakini asilimia 41 tu wanaiamini**. Matumizi yaliyoenea yanaendana na uaminifu mdogo, hivyo uingiliaji unaolenga kujenga shauku unashughulikia kigezo kibaya.
 - **"Wanafunzi wa fizikia ni kundi moja."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] walitengeneza typolojia ya wasifu wawili kutoka **majibu 1,189 ya dodoso**: **asilimia 70 "Watumiaji wa Kivitendo" na asilimia 30 "Wasiotumia Wenye Mashaka"**. Sera moja ya darasa inapaswa kuhudumia vikundi viwili vyenye misimamo kinyume.
 - **"Pengo kati ya matumizi na uaminifu haina mantiki."** Takwimu hizo mbili zinapima vitu tofauti: kama zana inakusaidia kumaliza kazi, na kama unaamini inafanya hivyo kwa usahihi. Wanafunzi wanatofautisha manufaa na uaminifu, ambayo ndiyo tofauti sahihi kiuchanganuzi na si ukinzani.
-
-## Dhana Zilizounganishwa
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya kiumbo, mipaka ya LLM, falsafa ya majaribio
-- [[biology-education]] — Elimu ya biolojia na AI: wasaidizi wa walimu wa maabara, ujuzi wa AI katika biolojia, ufikiri mahususi, zana maalum
-
-## Makala Zilizounganishwa
-
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Mfumo wa Kuimarisha AI kwa Kiamsha Kiakili katika Fizikia
-- [[ai-grading-handwritten-physics-2026]] — Kupima kwa AI tathmini za fizikia zilizoandikwa kwa mkono (Olimpiki)
-- [[ai-particle-physics-education-redesign-2026]] — AI katika Elimu ya Fizikia ya Chembechembe: Matatizo ya Utafiti na Ujuzi wa Msingi
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: kubadilisha FCI, FMCE na EMCS kuwa uchunguzi wa kiakili wa malengo 14 (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: jozi 1,834 za maswali na majibu za fizikia ya sekondari ya Kibengali zilizopangwa kwenye grafu ya mtaala ya nodi 1,760, pamoja na faida za kubadilisha mifano midogo
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)
-- [[high-school-genai-acceptance-tam-physics-2026]] — Kukubalika kwa GenAI kufanywa mfano katika fizikia ya Darasa la 10
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Mwalimu aliyebuniwa vizuri alishinda kujifunza kwa vitendo darasani
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Dhana za awali za nishati ziliamua mahali pa majadiliano ya maswali ya AI katika mtandao wa kikundi: kitovu cha muunganisho pale wanachama walipokosa kukubaliana, na njia ya mstari ya kuuliza kisha kusoma pale walipokubaliana (Wang et al. 2026)
-
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Mifumo ya matumizi na msaada unaohisiwa miongoni mwa wahandisi wa baadaye
-

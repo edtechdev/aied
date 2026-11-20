@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -84,7 +86,6 @@ ai_assist:
 
 عبر الأسرة كلها، تحدي الصدق المُحدِّد هو نفسه: ينبغي أن **يعكس تمثيل المتعلّم حالة المتعلّم الحقيقية** بأمانة بدل افتراضات النظام الافتراضية. وفي **نمذجة الطلاب** و[[knowledge-tracing|تتبّع المعرفة]]، يعني هذا أن النموذج ينبغي أن يستوعب فعلًا ما يعرفه متعلّم ([[ai-ed-evaluation|تقويم]] و[[assessment-validity|صدق القياس]]). وفي [[simulating-students|المحاكاة]]، يعني أن المتعلّم الاصطناعي ينبغي أن يُظهر نقصًا واقعيًا لا كفاءة النموذج الكاملة ولا توافقه [[ai-sycophancy|المتزلّف]]. والأنظمة التكيّفية التي تستهلك نماذج معيوبة ترث ذلك الخطأ وتُنشره.
 
-
 وصلت النماذج التي تستنتج حالة المتعلّم من اللعب إلى AUCs بلغت 0.848–0.913، لكن دراستين فقط من الـ55 التي راجعتها المراجعة دقّقتاها لتحيّز ديموغرافي، ودراسة واحدة فقط فحصت النتائج التفاضلية بحسب قدرة المتعلّم ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 وقد لا تكون بعض الإشارات المقصودة قابلة للاستعادة من الحوار أصلًا: فاستعاد النموذج التجريبي لإطار Learning Context المفاهيم الخاطئة بنسبة 91.4% و[[anxiety-and-stress|القلق]] بنسبة 100% لكن الضمير بنسبة 68.6% فقط والكفاءة اللغوية بنسبة 60%، فينبغي لنموذج واعٍ بالسياق أن يستوعب السمات بطيئة الظهور بدل انتظار كشف الحوار لها ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
@@ -106,11 +107,9 @@ ai_assist:
 
 ويستطيع اللغة أن تحلّ محلّ تمثيلات المعرف كتمثيل: فـPLCD يبني مخطّطات مفاهيم مشتقة من نماذج لغوية كبيرة ورسوم عمليات تمارين كمعارف سابقة، واصلًا دقة 83.51% على XES3G5M، بأكبر المكاسب في البداية الباردة — 4.60 نقطة ACC فوق KCD للمفاهيم الجديدة و4.00 للتمارين الجديدة — حيث لا تملك النماذج القائمة على المعرف تاريخًا ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 
-
 وتنفصل جودة المحاكي إلى محورين: فمسار «تجمع ثم تخصّص» يُدرّب أنماطًا سلوكية مشتركة قبل مواءم لكل طالب بلغ أمانة سلوكية 0.51 واستجابة للإرشاد 0.91 في الشطرنج، مقابل 0.23 و0.72 لخط أساس تمثيل أدوار متقدّم، مما يُظهر أن المحاكي ينبغي أن يُطابق طالبًا وأن يكون قابلًا للتوجيه معًا ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 وقد تكون درجات المخاطرة دقيقة لكن غير مسنودة: فوصل [[at-risk-students-ml-prediction|Gheisari and Salarian (2026)]] إلى دقة 99% في التنبؤ بالانسحاب من سجلات التسجيل والأداء، لكن على 1,027 سجلًا مُنظَّفًا لمؤسسة واحدة دون تحقق خارجي، ودون تدخّل مُختبر، مع تسمية تدقيق الإنصاف عملًا مستقبليًا — فالدرجة تسند الفرز لا حكمًا عن طالب.
-
 
 ونموذج متعلّم يتنبأ بالمخاطرة وحدها لا يكفي لدعم القرار: فربط نموذج مُعايَر للمخاطرة بلجوء بالبرمجة الصحيحة على أفعال متقطّعة — مُتحقَّق منه مقابل قيود التوقيت والميزانية وعدم القابلية للتغيير والتوفر — أنتج خطط تدخّل مدمجة حيث قبل التحسين وحده خططًا غير قابلة للتنفيذ ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -125,61 +124,3 @@ ai_assist:
 - **«النموذج الوفي يحتاج إلى أعقد طريقة.»** يُظهر [[zhang-ml-student-progress-programming-2026|Zhang وJeffries وKoprinska (2025)]] أن **التمثيل الوفي لا يقتضي** المقاربة الأعقد. فالتعقيد ليس بديلًا عن الوفاء، والنموذج الأبسط الذي يلتقط البنية ذات الصلة قد يكون الأداة الأفضل.
 - **«نماذج المتعلّم تحتاج بيانات التتبّع.»** يمكن لنموذج تنبؤي للمتعلّم أن يستند إلى **بنية التسجيل** بدل بيانات التتبّع: فـTRACE يُرمّز كل فصل دراسي كـ**سلة غير مرتّبة من المقررات** ويتنبأ من ذلك. فالإشارة التنبؤية قد تسكن في السجل الإداري للمؤسسة.
 - **«الحالة الوجدانية تقتضي استشعارًا فسيولوجيًا.»** فقد استنتج مدرّس رياضيات **الانفعال من نص الحوار وتعبير الوجه** وربط الحالة المجمَّعة بقرارات التدريس. فإشارة الوجدان كانت قابلة للاستعادة من ما كان المتعلّمون ينتجونه بالفعل.
-
-## المفاهيم المتصلة
-
-- [[learners]] — المتعلّمون: المظلة الجامعة لمفاهيم جانب المتعلّم
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — النماذج الكامنة تحت التنبؤ بالمخاطرة واستهداف الدعم
-
-- [[sensor-and-gaze-analytics]]
-
-
-## المقالات المتصلة
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — مدرّسو النماذج اللغوية الكبيرة يرفضون البدائل الصحيحة زيادةً ويُصدّقون الخاطئة (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — حالة متعلّم مدمجة زائد متتبّع مُعايَر كبيئة توصية
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-
-- [[ai-game-based-learning-systematic-review-2026]] — بلغ التقييم الخفي AUCs من 0.848–0.913، لكن تدقيق التحيّز كان شبه غائب عبر 55 دراسة
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — استنتاج أسلوب التعلّم من الحوار يُخفق على المقاييس المتوازنة (Zamanifard, Goudarzi & Robb 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -79,37 +81,3 @@ GenAI اور محرک کے 42 مطالعات کے میٹا تجزیے میں س�
 - **”سائنس کی تعلیم میں AI کے پاس کوئی سببی ثبوت نہیں۔“** GCSE سائنس میں AI نظرثانی پلیٹ فارم کا **چار ہفتے کا بے ترتیب جائزہ** **Hedges' g = 0.33** کا سببی اندازہ دیتا ہے، اور **اِس بات کا کوئی ثبوت نہیں کہ اثر مضمون کے لحاظ سے مختلف تھا**۔ اثر معتدل ہے اور وہ سببی ہے۔
 - **”طلبہ کو رسائی دے دیں اور اضافے خود آ جائیں گے۔“** **رسائی خود نہیں بلکہ منظم رسائی فائدہ چلاتی ہے**: ٹیم کی رپورٹ کردہ ترقی **غیر محدود انفرادی رسائی میں اوسطاً 17% مگر 34% اور 31% جب رسائی منظم تھی**۔ ڈھانچہ ہی مداخلت تھا۔
 - **”سائنسی سمولیشن کے لیے مخصوص سافٹ ویئر درکار ہے۔“** **چار عنصروں والا قدرتی زبان کا پرامپٹ** **ہاتھ سے چلائی جانے والی افزودہ حقیقت کی فزکس سمولیشن** پیدا کر سکتا ہے۔ سمولیشن لکھنے کی رکاوٹ پرامپٹ کے ڈیزائن تک گر گئی، جس سے مطلوبہ مہارت پروگرامنگ سے مظہر کی تفصیل بتانے کی طرف منتقل ہو گئی۔
-
-## منسلک تصورات
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## منسلک مضامین
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — سائنسی خواندگی کو نصاب، تدریس اور جانچ میں ہم آہنگی کے طور پر دیکھنے والا فریم ورک باب (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — AI کے طریقے سائنس کی تعلیم کی تحقیق کو کیسے بدل سکتے ہیں، اِس پر غور کے لیے سات مرحلوں والا علمی تکرار فریم ورک (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — سائنس اور کیمسٹری کی تعلیم میں AI کا منظم جائزہ
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM میں استفسار پر مبنی سیکھنے کے لیے ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — ضیائی تالیف اور تنفس میں AI معاونت والی رہنمائی شدہ استفسار
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — گرمی اور درجہ حرارت کے لیے تصوراتی تبدیلی کے متن بمقابلہ AI مکالمہ
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی گئی فزکس جانچوں کی بڑے پیمانے پر AI درجہ بندی
-- [[avraamidou-ai-colonization-science-education]] — سائنس کی تعلیم کی AI نوآبادیات پر تنقیدی تبصرہ
-- [[pre-service-science-teachers-ai-perceptions-2026]] — پیش خدمت سائنس اساتذہ کے AI تاثرات اور قبولیت
-- [[ai-assisted-inquiry-ssi-climate]] — موسمیاتی تبدیلی کے سماجی-سائنسی مسائل میں AI معاونت والا استفسار
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — جدت کی رفتار سے AI ٹیوٹرنگ کا جائزہ: GCSE سائنس میں AI ٹیوٹرنگ پلیٹ فارم کے عملی ماہرین کی زیرِ قیادت خرد بے ترتیب تجربات
-- [[llm-benchmark-secondary-science-topics-2026]] — مڈل اسکول اور ہائی اسکول کے سائنسی موضوعات کی LLM کی سمجھ کے لیے ایک بینچ مارک
-- [[nature-of-science-generative-ai-2026]] — جنریٹو مصنوعی ذہانت کے دور میں سائنس کی نوعیت: علمی مستندیت، مادیت، اور ایک ہم آہنگ جواب
-- [[ai-university-physics-education-review-2026]] — یونیورسٹی فزکس AI جائزے میں منظم ٹیمی رسائی غیر محدود انفرادی رسائی سے بہتر رہی
-- [[genai-learning-motivation-meta-analysis-2026]] — واحد مضمون جس کا محرکی وقفہ صفر کو عبور کرتا ہے (g = 0.109, k = 3)
-- [[laiskhanov-ai-gis-geography-education-2026]] — عمومی AI کی سہولت GeoAI کی تیاری میں منتقل نہیں ہوئی

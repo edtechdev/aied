@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -82,7 +84,6 @@ Birçok yazma eğitimi makalesi İngilizce öncelikli olsa da (örneğin [[marke
 
 YZ'nin İngilizce üstünlüğü bu akımın belirleyici bir özelliğidir. Modeller İngilizcede ve özellikle standart akademik İngilizcede en güçlü olduğundan, İngilizce eğitimi hem orantısız biçimde yararlanır (güçlü EAP iskelelemeleri) hem de kendine özgü riskler taşır (tek dilci yanlılık, Dünya İngilizcesi ve çok dilli yazarlara karşı ayrımcılık). Buradaki araştırmalar [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]] ve [[academic-integrity|academic integrity]] ile bağlantılıdır.
 
-
 Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limitations-in-aied-research|sınırlılıklarını]] öğrenen [[agency|özerkliğinde]] konumlandırır: 27 çalışmada (%50) YZ’ye [[cognitive-offloading|aşırı bel bağlama]] ve 25’inde (%46) azalan [[critical-thinking|eleştirel düşünme]], teknik sorunların başında gelen 22 çalışmadaki (%41) güvenilmez YZ üretimli çıktıya karşı ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi ve Vargas-Saritama (2026)]]).
 
 ## İngilizce / EAP / EFL-ESL öğretim görevlileri için çıkarımlar
@@ -102,43 +103,3 @@ Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limit
 - **“Dil öğretmenleri ya coşkuyla benimser ya hiç benimsemez.”** [[li-language-educators-genai-review-2026|23 çalışmanın sistematik derlemesi]] (Li ve ark.), örüntü olarak **temkinli, hazırlık öncelikli benimsemeyi** bulur. Öğretmenler coşkuncular ve reddedenler olarak bölünmüş değil, düşünülmüş biçimde ihtiyatlıydı.
 - **“Genel etki, harcanan çabayı meşrulaştırır.”** **33 TEFL çalışmasının** meta analizi **küçük-orta düzeyde genel bir etki (g = 0,38, trim-and-fill ile 0,28’e düşen)** buldu ve etki **eğitim düzeyiyle yükseldi**. Etki düzeltmeden sonra mütevazıdır ve daha yüksek düzeylerde yoğunlaşır; bu nedenle başlangıç düzeyindeki öğrenenler için bir iddia havuzlanmış rakamla desteklenmez.
 - **“Her YZ kullanımı dil öğrenimi için eşit derecede verimlidir.”** Aynı çalışma, **teknolojinin üretime doğru ağırlıklandırılmasını** savunur: tüketimden çok yazma ve konuşma. Kipi, YZ’nin varlığından daha çok etkiyi belirledi.
-
-## Bağlı kavramlar
-
-- [[language-learning]]
-- [[writing-education]]
-- [[reading-education]]
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## Bağlı makaleler
-
-- [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
-- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
-- [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: GenAI-Supported Adaptation of EAP Reading Materials
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
-- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[ai-limitations-efl-higher-education-review-2026]] — YZ’ye aşırı bel bağlama (54 çalışmanın %50’si) ve azalan eleştirel düşünme, bildirilen sınırlılıkların başında
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)

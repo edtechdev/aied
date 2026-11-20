@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -45,7 +46,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות וסייגים
 
 כל טענת היכולת כאן היא שיווק של הספק עצמו, כולל "מהימן ב-10,000+ בתי-ספר ברחבי העולם", שמחוז צריך לבדוק מול הסכם עיבוד-הנתונים שלו. הספק קובע שהוא מסיר מזהים אישיים לפני שליחת עבודה ל-OpenAI תחת הסכם לא לשמור או לאמן עליה, אינו מראה לסטודנטים פרסום, מעולם לא מוכר נתונים, ומחזיק בהסמכות iKeepSafe ו-Common Sense Privacy. Snorkl גם קובע בפשטות שהוא אינו מדרג: הוא מנקד הסברים מול קריטריונים שצוינו-על-ידי-מורה כמשוב מעצב, והמורה שומר על הדירוג. התייחסו לשיפוטי ה-AI האלה כאותות מעצבים הכפופים לשאלות התוקפות וההטיה הרגילות, ולמחויבות הסביבתית ככוונה מצוינת, לא כקיזוז נמדד.
-
-## מושגים מקושרים
-
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

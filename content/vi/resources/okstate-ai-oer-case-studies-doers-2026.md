@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,11 +42,3 @@ Nhân viên [[educational-policy-ai|chính sách]] và những người phụ tr
 ## Ghi chú và lưu ý
 
 Giấy phép của từng chương là cái bẫy. Tuyển tập là CC BY 4.0, nhưng từng tác giả giữ bản quyền và tự chọn giấy phép Creative Commons của mình, nên một chương có thể hạn chế hơn trang sách gợi ý; chương về sửa sách giáo trình là CC BY-NC-SA 4.0, và việc tái dùng phải kiểm tra chương chứ không phải phần đầu sách. Các tác giả không có quy trình khai báo AI bắt buộc, nên phần lớn chương chỉ nói qua về quy trình của mình, thường theo hướng dẫn của OER Commons. Theo lựa chọn biên tập, mỗi chương giữ giọng ngành học, cách chấm câu và cách viết chính tả theo vùng của tác giả, nên văn xuôi không đọc đồng nhất. Trên hết, mỗi chương ghi lại một dự án địa phương và không hai chương nào dùng chung một công cụ hay một phép so sánh, nên tuyển tập cung cấp thực hành để điều chỉnh chứ không phải bằng chứng để trích dẫn.
-
-## Khái niệm liên quan
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

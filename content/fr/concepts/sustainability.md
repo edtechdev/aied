@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -79,32 +81,3 @@ La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|é
 - **« Une connaissance abstraite de l'IA prédit la capacité des enseignants à enseigner la durabilité. »** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] a constaté que l'**usage pratique de l'IA** par les enseignants dans des contextes scientifiques et d'énergie verte et leur **participation à l'élaboration de matériels alignés sur l'EDD** — **davantage qu'une connaissance abstraite de l'IA ou des attitudes** — prédisaient leur capacité. Savoir des choses sur l'IA et savoir construire avec elle divergeaient, et la voie pratique prédisait davantage.
 - **« Une conception pédagogique assistée par l'IA sous une pédagogie de la durabilité produit une pédagogie de la durabilité. »** Les mêmes travaux ont constaté que la [[learning-design|conception pédagogique]] assistée par l'IA sous une pédagogie du développement durable **contraignait** la conception de manière spécifique plutôt que de l'élargir. Un modèle entraîné sur des matériels conventionnels reproduit des cadrages conventionnels, sauf si le travail de conception corrige cet effet.
 - **« La durabilité est un sujet, pas un thème transversal. »** Parce que les deux voies traversent les niveaux, la durabilité apparaît dans l'[[higher-ed|enseignement supérieur]], le K-12 et les contextes professionnels — ce qui signifie qu'elle est un thème fondateur qui doit être traité à l'intérieur de chaque discipline plutôt qu'enseigné comme une matière séparée.
-
-## Concepts liés
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Articles liés
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA portable et imagerie de pollution générée par l'IA ont augmenté l'activation, sans mesurer la responsabilité environnementale (Lim et al., 2024)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Enquête et groupes de discussion suédois soutenant que l'éthique du partenariat, et non le cadrage de la tricherie, doit guider les décisions institutionnelles sur l'IA générative
-- [[daniel-ai-sustainability-scoping-review-2026]] — Revue de cadrage sur l'IA pour la durabilité et l'IA durable dans l'enseignement supérieur
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Approche critique en valeur pour l'éducation durable et l'IA
-- [[liu-ai-sustainable-engineering-education-2026]] — Cadre AI-SEE pour l'enseignement de l'ingénierie durable
-- [[riandi-teacher-ai-green-energy-education-2026]] — Participation des enseignants à l'intégration de l'IA pour l'éducation à l'énergie verte
-- [[talebzadeh-ai-green-education-2026]] — Le rôle de l'IA dans l'éducation verte
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistants IA durables fondés sur une base de connaissances
-- [[llm-environmental-impact-student-usage-2026]] — Impacts environnementaux de l'usage des LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser l'apprentissage durable par l'intelligence incarnée
-- [[caruana-pre-university-ai-education-slr-2026]] — Revue systématique de l'éducation à l'IA préuniversitaire (cadrage ODD 4)

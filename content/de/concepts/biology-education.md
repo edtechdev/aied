@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -71,36 +73,3 @@ Biologiebildung liegt innerhalb der weiteren [[stem-education]]-Domäne und teil
 - **„Studierende können KI nicht von einem menschlichen Lehrassistenten unterscheiden."** Eine Studie zu einem virtuellen Labor-Lehrassistenten fand **menschliche Tutoren genauer und wirksamer als ChatGPT**, doch **bevorzugten Studierende die KI-Antwort in 40 % der Fälle** und konnten **KI-Ausgabe nur in 45 % der Fälle erkennen**. Die Erkennung lag nahe an einem Münzwurf, und die Präferenz lief zur weniger genauen Quelle — Zufriedenheitsdaten können hier also nicht für Qualität einstehen.
 - **„Präferenz zeigt Qualität an."** Dieselbe Studie trennt beides direkt: Die bevorzugte Ausgabe war die schlechtere. Jede Evaluation eines Biologie-KI-Werkzeugs, die Zufriedenheit der Studierenden ohne Genauigkeitsmaß berichtet, berichtet die falsche Größe.
 - **„KI-Kompetenz muss als eigenes Fach unterrichtet werden."** Das Einbetten von Konzepten maschinellen Lernens **in einen Biologiekurs der Oberstufe** ergab, dass der Biologiekontext das KI-Lernen **unterstützte** — ein Beleg dafür, KI-Kompetenz in das Curriculum einzubetten, statt eine eigenständige Einheit anzubolzen. Die Disziplin gab den Konzepten etwas, woran sie sich anhängen konnten.
-
-## Verbundene Konzepte
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Verbundene Artikel
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluierung der Leistung von Large Language Models bei offenen Fragen: Beantwortungs- und Benotungsfähigkeiten
-- [[biology-degree-integrity-genai-cheating-2026]] — Können Studierende sich zu einem Biologieabschluss betrügen? Eine Fallstudie zur Verwundbarkeit von Biologiekursnoten für akademische Unehrlichkeit im Zeitalter generativer KI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT als virtueller Labor-Lehrassistent
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review der KI-Werkzeuge in der biologischen Bildung
-- [[critical-thinking-biological-sciences-ai-2025]] — Kritisches Denken in Biowissenschaften und KI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-basierten Biologie-/Mathematikkursen
-- [[zha-ai-literacy-biology-case-study]] — KI-Kompetenz-Bildung in einem Biologiekurs
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Argumentationsfähigkeiten angehender Biologielehrkräfte, aligned mit PISA, durch generative künstliche Intelligenz verbessern

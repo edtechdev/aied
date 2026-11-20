@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -81,44 +83,3 @@ AI耐性のある形式は、成績を再考するのではなく成績を守る
 - **「LLM は公式の基準に沿って採点できない」** **調整済みの公式評点**に対して、**10,364ページ**の手書きの物理オリンピックと大学の解答を採点したマルチモーダル LLM は強く相関しました。結果の一致は、不正確な項目レベルの採点があっても保たれえます。つまり有用な問いは、項目レベルの精度が実際にどこで必要かです。
 - **「AI による評点の水増しは憶測である」** **50万件以上**の成績に関する[[chirikov-ai-grade-inflation-2026|Chirikov（2026）]]の準実験は、そのメカニズムを具体的に示します。ChatGPT の公開後、**AI への露出が多い課題を含むコースでは高い評点の割合が上昇しました**。効果は露出した課題に集中しており、それはメカニズムが予測するパターンです。
 - **「AI を使う学生と使わない学生は区別できないので、出所の確認は絶望的である」** AI 生成の項目と資格試験の項目の間で**出所の帰属に有意な差がなかった**という知見は、正しい認識が**68.6〜77.5%**、誤帰属率が**18.2%**であったことを含めて、認識が失敗することについてのものであり、出所の確認が不要であることではありません。むしろそれは、検証された出所への要求を高めます。
-
-## 関連する概念
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 関連する記事
-- [[llm-grading-assistants-public-health-2026]] — LLM 採点者は高リスクな小論文評価で成績尺度を圧縮し両端を避ける
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 本物で AI に頑健な総括的評価としての口述試験の再考
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成 AI の学習ペナルティ:監督下・閉鎖式の試験による証拠
-- [[chirikov-ai-grade-inflation-2026]] — 成績インフレのメカニズムとしての AI による課題の置き換え;宿題中心のコース(Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — より速い完成、より少ない学習:監督下の測定が不可欠
-- [[generative-ai-guardrails-harm-learning]] — ガードレールのない生成 AI は学習を損なう
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI が生成した試験の品質の評価
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM は人間のように小論文を採点しない
-- [[llm-automated-assessment-student-self-explanations]] — 学生の自己説明の自動評価のための LLM
-- [[cong-confidence-asag-2026]] — 短答式問題の自動採点
-- [[psyscore-essay-scoring-zpd-feedback]] — 心理測定を意識した特性適応型の小論文採点
-- [[socratic-tests-conversational-assessment]] — ソクラテス式テスト:動的で対話的、マルチモーダルな評価
-- [[code-review-genai-cs1]] — CS1 におけるコードレビュー面接
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 時代の責任ある評価
-- [[test-driven-ai-assisted-learning]] — テスト駆動の AI 支援学習
-- [[genai-oop-programming-assessments-2026]] — オブジェクト指向プログラミングの評価における GenAI のパフォーマンス
-- [[brcic-effortless-trap-productive-struggle-2026]] — Effortless Trap:生産的な苦闘と学習の錯覚
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL における AI 生成と人間作成の評価課題の比較
-- [[roe-assessment-twins-2026]] — GenAI 時代に評価の妥当性を強化するための評価の双子(Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — 手書きの物理の評価の AI 採点(オリンピック)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生は AI が作成した問題を確実に見分けられません

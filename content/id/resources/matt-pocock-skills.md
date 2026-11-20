@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,6 +70,3 @@ deprecated dan in-progress, sehingga beberapa entri secara eksplisit belum seles
 dipensiunkan, dan README-nya sekaligus menjadi pendaftaran buletin. Perlakukan skill mengajar dan
 bertanya sebagai bagian yang dapat dipindahkan, dan perkirakan untuk menulis ulang salah satunya sebelum
 menaruhnya di depan siswa.
-
-## Konsep terkait
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

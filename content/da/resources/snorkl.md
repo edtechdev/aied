@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -41,6 +42,3 @@ K-12-lærere, der vil høre ræsonnementet bag et svar, og administratorer, der 
 ## Noter og forbehold
 
 Enhver kapabilitetspåstand her er leverandørens egen markedsføring, herunder »betroet på mere end 10.000 skoler verden over«, som et distrikt bør tjekke mod sin databehandleraftale. Leverandøren oplyser, at den fjerner personlige identifikatorer, før arbejde sendes til OpenAI under en aftale om ikke at opbevare eller træne på det, ikke viser eleverne reklamer, aldrig sælger data og har iKeepSafe- og Common Sense Privacy-certificeringer. Snorkl siger også rent ud, at det ikke giver karakterer: det scorer forklaringer mod lærerspecificerede kriterier som formativ feedback, og læreren beholder bedømmelsen. Behandl disse AI-domme som formative signaler underlagt de sædvanlige spørgsmål om validitet og bias, og miljøtilsagnet som angivet hensigt, ikke en målt kompensation.
-
-## Relaterede begreper
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

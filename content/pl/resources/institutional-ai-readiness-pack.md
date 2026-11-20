@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -39,7 +40,3 @@ ai_assist:
 ## Dla kogo
 
 Liderzy badań, komitety i biura polityk, które potrzebują opartego na dowodach obrazu tego, jak SI jest używana i jak jest [[governance|nadzorowana]] w środowisku badawczym, oraz sposobu śledzenia [[change-management|zmian]] w czasie. Pakiet towarzyszy pracy *Responsible AI in Academic Research: A Competency Framework for Research Training*, która definiuje pięć wymiarów gotowości, i został napisany przez Michaela J. Zyphura, dyrektora Instats.
-
-## Powiązane pojęcia
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

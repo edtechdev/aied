@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 MyEssayFeedback puts the instructor between the student and the model. Rather than handing students a general chatbot, an instructor sets an assignment, chooses which kinds of feedback the AI may give, and then reads both the drafts and the students' written reflections on what the AI said. The design bets that the value of [[feedback|AI feedback]] lies in the revision conversation it starts, not in the volume of comments it produces.
@@ -39,12 +40,3 @@ First-year writing instructors and English departments who want AI feedback with
 ## Notes and caveats
 
 The site reports 12,000+ students, 700+ courses and 41,000+ essays reviewed. Those are vendor-reported figures, not an independent audit. FERPA compliance, GDPR readiness and accessibility are likewise the vendor's own claims; essays run through Azure OpenAI, and the site states they are not used to train models, which a district should confirm in the data processing agreement rather than take from the marketing page. Pricing is freemium and shifts by audience: a free first term for new instructors (by request, limited to three per school), about \$12 to 15 per student per term afterwards, and a paid per-review tier for individual students with the first review free. The comparison table against ChatGPT Plus, Packback and Grammarly is the vendor's own. A UC Davis partnership on the PAIRR project is a research collaboration, not published evidence that the platform improves writing.
-
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

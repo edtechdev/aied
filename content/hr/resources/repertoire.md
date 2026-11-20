@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -52,9 +53,3 @@ Nastavnici u visokom obrazovanju koji žele da [[learning-design|oblikovanje uč
 - **Inferencija treće strane.** Odgovori se generiraju putem Claude API-ja tvrtke Anthropic, uz API tvrtke OpenAI kao rezervu, pod komercijalnim uvjetima za koje politika kaže da od rujna 2026. isključuju treniranje na API ulazima i izlazima. Institucija bi to trebala potvrditi kroz vlastiti ugovor, a ne kroz web-stranicu.
 - **Nije ocjenjivač.** Politika i uvjeti oboje opisuju prosudbe asistenta, poput „cilj je postignut“, kao pomoć nastavniku; ocjene i akademske odluke ostaju nastavniku i instituciji, a odluke o [[ai-use-disclosure|otkrivanju upotrebe umjetne inteligencije]] studentima prepuštene su nastavniku.
 - **Hostano u SAD-u.** Podaci su u Google Cloud Firestore, uz hosting na Vercel, a politika se bavi FERPA obvezama ondje gdje usluga obrađuje obrazovne zapise; korisnicima izvan Sjedinjenih Država poručuje se da se njihovi podaci obrađuju tamo.
-
-## Povezani pojmovi
-
-- [[learning-design]] — strukturirani dizajn zadaća kao točka u kojoj politika umjetne inteligencije postaje konkretna.
-- [[guardrails]] — ograde za angažman i ograničena pomoć umjetne inteligencije kao ograničenja u vrijeme dizajniranja.
-- [[ai-use-disclosure]] — nastavnik, a ne platforma, odlučuje kako se upotreba umjetne inteligencije prijavljuje studentima.

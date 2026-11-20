@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,7 +88,6 @@ AI 교육에서 플랫폼은 여러 가지 뚜렷한 기능을 수행합니다:
 
 플랫폼의 기여는 범용 모형에 없는 구조인 경우가 많습니다. [[learnmate2-llm-adaptive-learning|LearnMate^2]]는 LLM을 학습 계획, 맥락 내 도움, 수행 반응형 활동으로 감싸고, 참가자 16명 비교에서 Khan Academy와 Gemini 2.5 Pro를 조합한 것보다 퀴즈 둘 모두에서 앞섰습니다(M = 13.375 대 10.875, p = .0126; 7.875 대 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]]은 초보자를 위해 자연어 지시를 CoppeliaSim 로봇 행동으로 번역하며, 108개 사례에서 단순 과제의 100%를 성공했지만 복잡한 과제는 88.9%에 그쳤습니다.
 
-
 ## 설계와 연구를 위한 함의
 
 1. **역량뿐 아니라 수용을 위해 설계하십시오.** 플랫폼의 효과성은 학습자가 실제로 그것과 참여하는지에 달려 있습니다; 지원 구조, 온보딩, 일정이 AI 자체만큼 중요합니다.([[access-not-enough-ai-tutoring-2026]])
@@ -107,53 +108,3 @@ AI 교육에서 플랫폼은 여러 가지 뚜렷한 기능을 수행합니다:
 **"오픈소스 대 독점은 결과에 영향을 주지 않는 라이선스 세부 사항이다."** 플랫폼 모델은 기관이 그 시스템으로 무엇을 할 수 있는지를 규정합니다. OATutor 같은 [[open-source|오픈]] 플랫폼은 MIT 라이선스의 적응형 튜터로, 크리에이티브 커먼즈 대수 콘텐츠 라이브러리와 [[knowledge-tracing|지식 추적]] 숙달 추정, 내장된 A/B 테스트를 갖추어 학과가 자체 [[pedagogy|교수법]]을 계측하고 수정할 수 있게 합니다. 폐쇄형 플랫폼은 그렇게 할 수 없습니다. 라이선스가 실험을 수행할 수 있는 주체를 결정합니다.
 
 **"한 기관에서 작동하는 플랫폼은 도입한 곳에서도 작동한다."** 플랫폼의 효과는 지역의 거버넌스를 거쳐 나타납니다. 프라이버시 우선 아키텍처, 데이터 최소화, 감사 가능한 로그, 역할 기반 접근은 AI 통합 플랫폼을 애초에 배치 가능하게 만드는 조건이며, 이는 공급업체 시연에서 추론할 수 있는 기능이 아니라 기관의 결정입니다.
-
-## 연결된 개념
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## 연결된 문서
-
-- [[typology-generative-ai-tools-education-2026]] — 211명의 교육자가 사용한다고 보고한 것: 9개 범주의 50개 도구
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI 튜터링을 생산적으로 만들기: 숙련도 기반 수학 연습
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: 2년간의 학교 실험에서의 Khanmigo
-- [[access-not-enough-ai-tutoring-2026]] — 수용과 참여가 AI 튜터링 플랫폼의 구속적 제약이다
-- [[oatutor-open-source-adaptive-tutor-2023]] — 재현 가능한 연구를 위한 오픈소스 적응형 튜터링 플랫폼
-- [[mooc-to-maic]] — MOOC에서 LLM 기반 다중 에이전트 AI 교실로
-- [[ai-lms-middle-school-longitudinal]] — 제한되고 프라이버시 우선인 지원을 갖춘 중학교용 AI 통합 LMS
-- [[taklif-ai-interest-based-personalized-assignments]] — 흥미 기반 개인화 과제 플랫폼
-- [[edusim-llm-robotic-simulation-education-2026]] — 교육용 LLM 로봇 시뮬레이션 플랫폼
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — 고등교육의 생성형 소셜 로봇 교수 플랫폼
-- [[hypergamification-game-engine-lms]] — 게임화를 통합한 게임 엔진 기반 LMS
-- [[edtech-design-time-generative-ui]] — 생성형 UI를 위한 교육기술 설계
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA를 준수하는 로컬 LLM 자동 채점 플랫폼
-- [[vismatic-secure-sandbox-cs-education]] — 컴퓨터 과학 교육용 보안 샌드박스 플랫폼
-- [[learnmate2-llm-adaptive-learning]] — LLM 기반 개인화 적응형 학습 플랫폼
-- [[privacy-aware-classroom-incident-recognition-2026]] — 교실 플랫폼의 프라이버시 인식 컴퓨터 비전
-- [[raza-farooq-aied-review-2020-2025]] — AIED 연구와 시스템에 대한 종합 검토
-- [[credentials-carry-evidence-ai-agents-2026]] — AI 에이전트 작업을 위한 증거를 담은 자격증
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": 교육기술에서 AI와 학생 프라이버시 유예
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 데이터에 대한 구조적 검증

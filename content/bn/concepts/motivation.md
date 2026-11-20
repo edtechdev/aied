@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -77,7 +79,6 @@ ai_assist:
 
 প্রেরণা প্রযুক্তি-ধারণারও উজানে কাজ করে, কেবল তার পাশে নয়। 340-শিক্ষার্থীর একটি পদার্থবিজ্ঞান নমুনায় উপযোগিতা-মূল্য অনুভূত উপযোগিতার পূর্বানুমান করেছে (β = 0.43) এবং অন্তর্নিহিত মূল্য মনোভাবের (β = 0.20), যেখানে অনুভূত ব্যয় ব্যবহার-সহজতা (β = −0.16) ও মনোভাব (β = −0.27) কমিয়েছে ইচ্ছার প্রতি কোনো সরাসরি পথ ছাড়াই ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ও Lu (2026)]])।
 
-
 **প্রেরণামূলক নিয়ন্ত্রণ এই সাহিত্যের সবচেয়ে পাতলা গঠন।** 39টি গবেষণা জুড়ে [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna ও Jiang (2026)]] দেখেন স্বায়ত্তশাসিত প্রেরণা মাপা হয়েছে 2টি গবেষণায়, চিহ্নিত নিয়ন্ত্রণ ও নিয়ন্ত্রিত প্রেরণা 1টি করে, যেখানে মৌলিক মনস্তাত্ত্বিক প্রয়োজন মাপা হয়েছে 17টি গবেষণায় এবং সম্পৃক্ততা 10টিতে। লেখকেরা এই ফাঁককে পর্যালোচনার কেন্দ্রীয় সমস্যা বলেন, কারণ নিয়ন্ত্রণ জিজ্ঞেস করে শিক্ষার্থী কেন প্রেরণাপ্রাপ্ত, যেখানে প্রয়োজন-সন্তুষ্টি কেবল জিজ্ঞেস করে পরিবেশ তাদের সমর্থন করেছে কি না।
 
 ## সংশ্লিষ্ট ধারণার সঙ্গে সংযোগ
@@ -89,57 +90,3 @@ ai_assist:
 - **"GenAI-এর প্রেরণা-প্রভাব একটি পরিষ্কার, বড় লাভ।"** 42টি গবেষণার একটি মেটা-বিশ্লেষণ (56 প্রভাব-আকার, 6,059 শিক্ষার্থী) প্রেরণা-প্রভাব পেয়েছে g = 0.764 (95% CI [0.566, 0.962]) **কিন্তু I² = 93.7% সহ**। এত উচ্চ বৈষম্য মানে পুল করা সংখ্যাটি এমন গবেষণার সেট বর্ণনা করে যা পরস্পরের সঙ্গে অমিল, তাই এটি অসঙ্গত চিকিৎসার ওপর একটি গড়, পুনরুৎপাদনযোগ্য প্রভাব নয়।
 - **"হতাশা কমানো প্রেরণা টিকিয়ে রাখার সমান।"** একটি তিন-শাখার [[rct|RCT]] দেখে একটি স্ক্যাফোল্ডকৃত টিউটর ও অবাধ ChatGPT **সমানভাবে হতাশা কমিয়েছে** (3.21 ও 3.13)। দুটি খুব ভিন্ন নকশা একই আবেগীয় ফল দিয়েছে, তাই হতাশার ডেটা তাদের মধ্যে পার্থক্য করতে পারে না।
 - **"প্রেরণাদায়ক নকশা ভালো নকশা।"** **222 জন প্রথম-বর্ষের উচ্চ-বিদ্যালয় শিক্ষার্থীর মধ্যে**, একটি শিক্ষক-থেকে-শিক্ষক সংলাপ-বিন্যাস বিকল্পের চেয়ে **ARCS প্রেরণা বেশি বাড়িয়েছে** **সামগ্রিক মূল্যায়ন না বাড়িয়েও**। প্রেরণা নড়েছে, বিচারকৃত গুণমান নড়েনি।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-দিকের ধারণাগুলোর ছাতা
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — সামাজিক-আবেগিক শিখন
-- [[reflection]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI গ্রহণযোগ্যতার পূর্বসূরি হিসেবে প্রত্যাশা-মূল্য বিশ্বাস
-- [[liu-ai-assistance-reduces-persistence-2026]] — সংক্ষিপ্ত এআই ব্যবহার পরে সহায়তাহীন সমস্যায় অধ্যবসায় কমিয়েছে (Liu প্রমুখ 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — যুক্তিপূর্ণ লেখনে স্বয়ংক্রিয় ফিডব্যাক: মাধ্যমিক শিক্ষার্থীদের ফিডব্যাক-গ্রাহ্যতা ও ফিডব্যাক-ধারণার ভূমিকা
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — পরিশ্রম-বিরোধাভাস ও ঘর্ষণহীন সহায়তার দুষ্টচক্র
-- [[cui-motivation-roles-metacognitive-genai-2026]] — মেটাকগনিটিভ GenAI সম্পৃক্ততায় প্রেরণা ও ভূমিকা
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — লিঙ্গ, প্রেরণা ও GenAI অর্জন-গতিপথ
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI পাঠ্যক্রম-নকশার জন্য শিক্ষক-ডিজিটাল-দক্ষতা মূল্যায়ন (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — এআই দিয়ে শিক্ষার ভবিষ্যৎ গড়ার প্রেরণা
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — শিক্ষার্থী-বৈশিষ্ট্য × TTS সংলাপ-বিন্যাস মিথস্ক্রিয়া
-- [[student-perceptions-ai-study-productivity-2026]] — অধ্যয়ন-উৎপাদনশীলতা ও শিখনের জন্য কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম সম্পর্কে শিক্ষার্থীদের ধারণা: একটি অন্বেষণমূলক সমীক্ষা
-- [[liang-ai-learning-motivation-sdt-2026]] — শিক্ষার্থীদের এআই শিখন-প্রেরণার SDT সুপ্ত রূপান্তর-বিশ্লেষণ (2,086 মাধ্যমিক শিক্ষার্থী)
-- [[wang-goal-setting-ai-engagement-2026]] — লক্ষ্য-নির্ধারণ তত্ত্ব: এআই-সহায়তাপ্রাপ্ত ইংরেজি শিখনে শিক্ষক-সহায়তা, অর্জন-লক্ষ্য ও সম্পৃক্ততা (758 চীনা শিক্ষার্থী)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAI দিয়ে দায়িত্বের সঙ্গে শেখানোর শিখনে উপযোগিতা-মূল্য হস্তক্ষেপের প্রভাব (Boos, Eder ও Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — একটি প্রাথমিক L2 GenAI লেখন কর্মসূচিতে গঠন-নির্দিষ্ট প্রেরণা-লাভ (Lu প্রমুখ 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR স্কেল: পড়ার সময় এআই-এর কাছে হাত বাড়ানোর চারটি উদ্দেশ্য-পরিবার
-- [[genai-math-relevance-intervention-2026]] — GenAI প্রাসঙ্গিকতা-সংলাপ অভিন্নতা হিসেবে প্রাসঙ্গিকতা বাড়িয়েছে কিন্তু শ্রেণি-আগ্রহ সমতল রেখেছে
-
-- [[genai-learning-motivation-meta-analysis-2026]] — শিখন-প্রেরণায় GenAI-এর প্রভাবের দৈব-প্রভাব মেটা-বিশ্লেষণ (56 প্রভাব-আকার, 6,059 শিক্ষার্থী)
-- [[ai-student-motivation-scoping-review-2026]] — এআই ও শিক্ষার্থী-প্রেরণা নিয়ে 156টি গবেষণা: 85.3% কোনো প্রেরণামূলক তত্ত্ব ব্যবহার করেনি, এবং কভারেজ গঠন, স্তর ও দেশে সংকীর্ণ
-- [[gai-advocacy-practice-art-education-2026]] — GAI প্রতিপালনে নীতি-অনুশীলনের ফাঁক শিক্ষার্থীদের মূল্যায়িত একটি চাপ হিসেবে কাজ করে
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — স্ক্যাফোল্ডকৃত টিউটর অন্তর্নিহিত প্রেরণা বাড়িয়েছে যেখানে অবাধ ChatGPT বাড়ায়নি
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — সমান-গুণমানের এআই ও প্রশিক্ষক ফিডব্যাক, প্রেরণামূলক ব্যবধান সম্পর্কের মধ্য দিয়ে প্রবাহিত (Liu প্রমুখ 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39টি গবেষণার SDT-নির্দেশিত পর্যালোচনা: প্রয়োজন ও সম্পৃক্ততা প্রায়ই মাপা হয়েছে, প্রেরণামূলক নিয়ন্ত্রণ প্রায় কখনও নয়

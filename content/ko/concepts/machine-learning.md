@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -74,34 +76,3 @@ ai_assist:
 **"생성 AI가 교육에서 고전적 머신러닝을 구식으로 만들었습니다."** 둘은 다른 일을 합니다. 학습자 상태의 예측, 난이도 추정, 진도 예측은 여전히 고전적 ML 문제이며, 이 코퍼스가 기록하는 지식 추적과 문항 보정 문헌은 언어 모델로 대체되지 않습니다. 생성 AI는 머신러닝의 부분 집합이지 그것의 대체물이 아닙니다.
 
 **"교사 교육은 머신러닝이 아니라 LLM에 관해 학생들에게 가르쳐야 합니다."** 리터러시를 생성 층위로 제한하면 실무자들은 자신의 학생에 관해 결정을 내리는 예측 시스템을 심문할 수 없게 됩니다. 중대한 오류가 집중되는 곳이 바로 그곳입니다.
-
-## 연결된 개념
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## 연결된 문서
-
-- [[at-risk-students-ml-prediction]] — 자퇴 위험 학생 식별을 위한 지도 ML 분류
-- [[trace-course-grade-prediction-2026]] — 강좌와 성적을 공동으로 예측하는 트랜스포머 (TRACE)
-- [[precision-education-student-digital-twins-2026]] — 예방적이고 경력에 정렬된 경로를 위한 AI 기반 학생 디지털 트윈
-- [[sc2r-counterfactual-recourse-educational-2026]] — 실행 가능한 개입을 위한 의미 제약 대안적 상정
-- [[interactive-online-learning-ai-2025]] — 상호작용 온라인 학습 예측을 위한 DMO-GRU 혼합 구조
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서 인지 참여의 적응형 스캐폴딩 (BKT 대 DRL)
-- [[pedagogical-safety-rl]] — 교육 강화 학습의 교수학적 안전을 위한 형식적 프레임워크
-- [[automated-online-exam-proctoring-decade-review-2026]] — 심층 학습 자동 감독의 10년 검토
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화 매핑을 활용한 성과 기반 지식 추적
-- [[bird-multimodal-educational-literature-2026]] — 교육 문헌 분류를 위한 다중 모달 융합
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 ML을 활용한 문항 난이도 추정
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 머신러닝을 사용한 파키스탄 대학생의 스트레스 탐지와 웰니스 지원을 위한 문화 인식 AI 챗봇
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 데이터에 대한 구조적 점검

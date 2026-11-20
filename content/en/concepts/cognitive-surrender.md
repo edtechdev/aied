@@ -15,6 +15,8 @@ connected_videos: [cognitive-offloading-vs-surrender]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 > **Cognitive surrender** — adopting an AI system's output without doing the reasoning that would let you evaluate it. Where [[cognitive-offloading|cognitive offloading]] asks *how much* mental work a learner delegates and whether the delegation is calibrated, surrender asks whether the learner keeps the evaluative role at all: the answer arrives, is accepted, and becomes the person's own position without the checking that would have constituted [[critical-thinking|judgment]]. The term comes from [[shaw-nave-cognitive-surrender-2026|Shaw and Nave's (2026) Tri-System Theory]], which locates it as a distinct failure from both offloading and [[ai-misuse-learning-harm|over-reliance]].
@@ -103,37 +105,3 @@ The evidence for surrender as a named construct rests heavily on one program of 
 **"The fix is better AI, since surrender follows from errors."** Surrender follows from the *structure* of the interaction: a system that produces a plausible answer first removes the occasion for the learner to generate one. Improving accuracy reduces the harm from wrong answers and does nothing about the abandonment of forming a judgment, which is the harm that persists after the tool is gone.
 
 **"Teaching critical evaluation is sufficient."** It is necessary and it arrives too late. Once a plausible answer is on screen, evaluation becomes confirmation — which is why the design literature here puts the student's attempt before the system's output rather than auditing it afterwards.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and the experimental signature of surrender
-- [[generative-ai-reduced-study-time-math]] — population-level displacement in ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — the surrender/offloading/agency framework in PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — instrumental versus judgment-bearing assistance
-- [[ai-advice-suppresses-ikt-suspension-2026]] — the collapse of "I don't know"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neural engagement and ownership
-- [[genai-thoughtless-use-self-directed-learning-2026]] — thoughtless use and self-directed learning
-- [[stamatoulis-genai-use-patterns-2026]] — low-verification uptake versus evaluative integration
-- [[cognitive-washout-ai-skill-decay-2026]] — what happens after withdrawal
-- [[ai-overreliance-complex-adaptive-system-2026]] — reliance as a population process
-- [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
-- [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — A worksheet-grounded assistant lowered offloading rather than raising it, a boundary condition for the surrender signature (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistic whole-essay delegation: 15 of 77 essays entirely model-written, 20 requests for a complete essay (Jelson et al. 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -76,32 +78,3 @@ ai_assist:
 **«Критичний аналіз — це те, чому ШІ найбільше загрожує, тож його слід обмежити».** Критичний аналіз — це також те, що найбільше розвиває навмисне використання, коли завдання спроєктоване поглиблювати, а не сплощувати його. Модель із [[human-in-the-loop-ai|людиною в циклі]] розміщує внесок дисципліни в судженні здобувача, а не у виводі інструмента.
 
 **«Універсальна модель така сама корисна для текстової науки, як і для підсумовування».** Інтерпретація вимагає позиції читача, і допоміжний шар, який постачає прочитання, виконав інтерпретаційний акт, якого дисципліна й існує навчати.
-
-## Пов’язані поняття
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-## Пов’язані статті
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Розвивально-критична модель інтерпретаційної пізнання для освіти SSH
-- [[paternalistic-filter-llm-history-education]] — Використання LLM та історичне міркування в освіті з історії
-- [[genai-impact-chinese-students-hss]] — Вплив GenAI на студентів гуманітарних і соціальних наук
-- [[acceptance-ai-english-tools-2026]] — Сприйняття ШІ серед тих, хто вивчає мови та гуманітарні дисципліни
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Обчислювальний аналіз 15 587 навчальних одиниць Go8 з мистецтва та гуманітарних наук: 58,6% завдань оцінювання 2026 року сильно залежать від ШІ, зосереджених в есе та звітах
-- [[genai-values-education-affordances-risks-2026]] — Генеративний ШІ в освіті з цінностей: можливості, етичні ризики та наслідки для викладання (Chen 2026)
-
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Формат завдання та інструкції щодо використання ШІ як те, що артефакт може засвідчити (Liu & Liu 2026)
-
-- [[capodieci-humanities-hil-2026]] — Агентний ШІ в навчанні гуманітарних наук і зсув від авторства тексту до приписування інтерпретації (Capodieci et al. 2026)
-

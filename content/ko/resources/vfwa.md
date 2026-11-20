@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -51,11 +52,3 @@ VFWA는 설치하는 제품이 아니라, 웹사이트와 워킹페이퍼, 실�
 이 모델은 대규모로 평가된 적이 없습니다. 논문은 아직 표본도, 도구도, 측정된 결과도 존재하지 않는다고 명확히 밝히며, 파일럿이 필요하다고 말합니다. 1단계 산출물이 평가자의 확신이나 해석의 일관성을 높이는지, 학생이 이 설계를 더 공정하게 경험하는지, 그리고 1단계를 두 번째 시험으로 만들지 않으면서 학문 분야가 충분성 기준을 어떻게 설정하는지를 시험해야 합니다.
 
 실질적 비용 두 가지는 실제입니다. 1단계는 감독 세션과 규모에서의 안전한 포착을 요구하며, 다국어 녹음과 번역은 부가물이 아니라 전제 조건입니다. 그리고 해석적 판단은 의도적으로 채점자에게 남겨집니다. 모델은 자동화할 수 없는 학문적 전문성을 전제하며, 이는 설계상의 가정인 동시에 인력 운영상의 가정입니다.
-
-## 연결된 개념
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

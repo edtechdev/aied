@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -106,38 +108,3 @@ AI의 오용은 AI의 사용과 다릅니다. 사용은 AI를 학습의 보완�
 **"연습 성과가 오르고 있다면 도구가 작동하는 것이다."** 약 1,000명의 고등학교 수학 학생을 대상으로 한 인과적 현장 RCT에서 방어 장치 없는 ChatGPT식 튜터는 지원받는 연습 성과를 **+48%** 높이면서 지원받지 않는 [[summative-assessment|폐서 시험]] 점수는 **17%** 낮췄습니다. 방향이 반대이므로, 연습 수치를 성과로 읽는 어떤 평가든 그것이 탐지하려는 바로 그 해를 인증하게 됩니다.
 
 **"AI를 쓰는 학습자들은 주로 걸리는 것을 걱정한다."** 그들이 밝힌 우려는 발달적입니다. 한 연구에서 **참가자(106명)의 51%** 가 GenAI 사용이 개인적 발달을 저해할 수 있다고 우려했으며, 규칙 위반이 아니라 [[critical-thinking|비판적 사고]], 창의성, 자율성의 상실을 지목했습니다. 제도적 담론을 지배하는 [[academic-integrity|정직성]] 틀은 학생들 스스로가 택하는 틀이 아닙니다.
-
-## 연결된 개념
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## 연결된 문서
-
-- [[rho-disengaged-conversational-behaviors-2026]] — 학생-AI 대화에서의 이탈적 대화 행동과 학습(Rho et al. 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 생성형 AI의 무비판적 사용과 대학생의 자기주도 학습: 성차에 관한 다집단 SEM 분석
-- [[generative-ai-guardrails-harm-learning]] — 안전장치 없는 생성형 AI는 학습을 해칠 수 있다
-- [[genai-performance-vs-learning]] — 수행 향상과 학습의 구분
-- [[ai-availability-student-motivation]] — AI의 이용 가능성과 학생 동기
-- [[genai-skill-bypass-literacy]] — 생성형 AI의 역량 우회와 리터러시
-- [[cognitive-shift-ai-education]] — AI 교육에서의 인지적 전환
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 학생-AI 협력에서의 인지적 오프로딩과 프롬프팅
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지적 공동 자원의 비극: AI와 전문성 재생
-- [[lodge-loble-cognitive-offloading-2026]] — AI, 인지적 오프로딩, 그리고 교육에 대한 함의(Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — 복잡적응 시스템으로 모델링된 AI 과의존
-- [[academic-erasure-complexity-ai-writing-2026]] — 학문적 소거: AI 지원 글쓰기 아래에서 사라지는 복잡성
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI 의존이 자기효능감과 교수자 지원에서 학습 소진으로의 경로를 완전 매개한다(Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — 이른 의지는 부정적 영향을 예측하고 인지적 의지는 긍정적 영향을 예측하며, 평가 리터러시는 AI에게 먼저 묻는 해를 완화하지 않고 강화한다(Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: 인공지능과 함께 가르치는 실천적 접근
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 부정행위 틀이 아니라 파트너십 윤리가 기관의 genAI 결정을 이끌어야 한다고 주장하는 스웨덴 설문 및 포커스 그룹 연구

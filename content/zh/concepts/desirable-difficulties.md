@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -106,50 +108,3 @@ TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormom
 **“认知摩擦与生产性挣扎是同一个想法。”** 它们来自不同的文献，并做出不同的预测。生产性挣扎关乎构建理解的努力式意义建构；认知摩擦关乎任务所要求的东西与学习者当前资源所能支持的东西之间的不匹配。把两者当作同义词，会丢掉那个诊断性问题：这个学习者是在以建设性的方式挣扎，还是被以只有代价的方式卡住？
 
 **“如果移除挣扎提高了即时表现，干预就成功了。”** 这正是本页全篇所讨论的权衡：在支持在场时测得的表现，相对于日后无辅助的表现被系统性地抬高。对任何减少费力的 AI 的评估，都必须在延迟之后、且在没有工具的条件下测量，否则它就会把练习的移除报告为学习的产出。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 为何费力的顺序胜过流畅的顺序
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — 生产性摩擦所要防止的那种失效
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — 生产性失败
-- [[retrieval-spacing-interleaving]] — 把这一原则实例化的操作技术：测验效应、间隔、交错
-
-## 关联文章
-
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT 作为认知拐杖：移除可取困难的一次延迟随机检验（Barcaui 2025）
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 反对无摩擦 AI：保留有益摩擦的倒 U 形论证
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 内建于 GenAI 工具的生产性摩擦支持学习
-- [[zhang-tutormoments-2026]] — 当帮助变得无益：为生产性挣扎评价 AI 导师
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向生产性失败的 LLM 教学性引导
-- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
-- [[rhaimi-productivemath-2025]] — ProductiveMath：支持生产性失败问题设计的 AI
-- [[making-ai-annoying-constrained-writing-2026]] — 故意把 AI 做得烦人：AI 支持写作中的约束（Konradt, Boote & Taub 2026）
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 迈向反思性 AI 投入中技能保全性依赖的开放问题
-- [[structured-reflection-ai-explanatory-feedback-2026]] — 在已充分展开的 AI 反馈上加入自解释提示：时间翻倍，学习无增益（Asher、Gold 与 Carvalho 2025）
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 的学习惩罚：作业分数上升而考试分数下降，完整代价在两年后（Strömberg、Lei 与 Wu 2026）

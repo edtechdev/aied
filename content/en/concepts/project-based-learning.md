@@ -8,6 +8,8 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 > **Project-based learning (PBL)** — an active, learner-centered [[pedagogy|pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student [[agency|autonomy]], collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
@@ -70,31 +72,3 @@ PBL connects to [[active-learning|active learning]], [[experiential-learning|exp
 - **"Customising the tool improves the outcome."** Tool type moderated the effect significantly (**QM = 14.301, p < .001**), and the direction is counterintuitive: a **general chatbot used directly pooled higher (g = 0.970)** than systems **customised into course platforms, virtual patients or agents (g = 0.455)**. The bare tool outperformed the engineered one, which argues against assuming that purpose-built products are the better purchase.
 - **"Students find open-endedness the hard part."** In the student-perception data, **open-endedness was the top positive theme (22.3%)** while **unclear instructions topped the negatives (23.7%)**. Students welcomed the freedom and objected to the ambiguity — a distinction that matters because the fix is different: clearer task framing, not less open-ended work.
 - **"Students who enjoyed it learned more."** Perceived learning correlated with quiz scores only **modestly (r = 0.161-0.315)**. Satisfaction and measured learning are weakly related here, so a positive PBL evaluation is not by itself evidence the learning objectives were met.
-
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[arts-and-media-education]]
-
-## Connected Articles
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)

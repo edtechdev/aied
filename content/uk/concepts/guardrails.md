@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -127,45 +129,3 @@ ai_assist:
 **«Пороги ґардрейлів — інженерні вибори, які треба налаштувати.»** Поріг — це політичне рішення з розподільчою ціною. Зсув порогу токсичності з 0,3 на 0,7 скоротив позначені запити з **35,62% до 12,4%**; на детекторі шахрайства це обміняло **15 хибних тривог і 18 пропущених шахрайств на 2 і 36**. Жоден поріг не усуває компромісу — він лише вирішує, яку помилку установа віддає перевазі, і це рішення належить установі, а не константі за умовчанням.
 
 **«Аудит справедливості — окреме питання від достатності ґардрейлів.»** Взірці відмов і підтримки розподіляють користь нерівномірно навіть за рівномірного застосування, а середня частка шкоди приховує, хто її поглинає. Аудит має бути частиною специфікації ґардрейлу, а не дослідженням, замовленим після.
-
-## Пов’язані поняття
-
-- [[pedagogical-safety]] — мета, яку реалізують ґардрейли
-- [[prompt-engineering]] — прийом проєктування «підказка, а не відповідь»
-- [[rag]] — заземлення знань як ґардрейл
-- [[human-in-the-loop-ai]] — QA та нагляд за участі викладача
-- [[llm-training-and-fine-tuning]] — шар навчання/узгодження
-- [[reinforcement-learning]] — формування винагород для безпечної поведінки
-- [[bias-mitigation]] — аудит ґардрейлів на справедливість
-- [[ai-sycophancy]] — небезпека маніпуляції, якій ґардрейли мають опиратися
-- [[scaffolding]] — педагогічний механізм, який ґардрейли зберігають
-- [[socratic-method]] — режим взаємодії «підказка, а не відповідь»
-- [[hallucination-risk]] — небезпека фабрикації, яку ґардрейли зменшують
-- [[cognitive-offloading]] — шкода від надмірної залежності, якій ґардрейли запобігають
-- [[k-12]] — контекст, де ґардрейли мають найбільше значення
-- [[ethics]] — нормативна основа
-- [[governance]] — політичний шар
-- [[intelligent-tutoring]] — системи, які ґардрейли охороняють
-- [[misconceptions]] — знання, які ґардрейли мають перевіряти
-- [[trust]] — результат добре спроєктованих ґардрейлів
-- [[llm]] — шар моделі, який обмежується
-
-## Пов’язані статті
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: екосистемна рамка компетенцій і навчальна платформа K-12
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — фреймворк SCAFFOLD для керування діалогом студент–ШІ, з його пілотом в аудиторії
-- [[generative-ai-guardrails-harm-learning]] — канонічний польовий РКД щодо ґардрейлів
-- [[eduzone-llm-safety-k12]] — фреймворк безпеки LLM для K-12
-- [[eduguard-safe-rag-llm-tutor]] — безпека на основі RAG для репетиторів
-- [[paternalistic-filter-llm-history-education]] — аудит ґардрейлів на упередженість
-- [[singh-eduqwen-pedagogical-rl-2026]] — узгоджене за допомогою RL кероване навчання
-- [[tact-pedagogically-adaptive-esl-tutoring]] — узгоджене з таксономією пострайнгове навчання
-- [[eduframetrap-llm-sycophancy-educational-safety]] — підлабузництво як небезпека для безпеки
-- [[ai-tutor-authoring-promptdecipher]] — керований викладачами QA
-- [[llm-unlearning-math-privacy]] — забуття на рівні моделі
-- [[pedagogical-safety-rl]] — формування винагород для педагогічної безпеки
-- [[residencyrl-clinical-rl-training-2026]] — узгоджене з безпекою RL у клінічній підготовці
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — як небезпека для мислення студентів варіювалася за категорією продукту серед 20 інструментів ШІ, спостережених у реальних аудиторіях

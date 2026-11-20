@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -92,41 +94,3 @@ Bernstein और Sibia (2026) यह प्रलेखित करते ह�
 - **"अंतःक्रिया वर्गीकरण तय हो चुके हैं।"** **33 अध्ययनों के 46 वर्गीकरणों में, समान लेबल अलग-अलग घटनाओं के नाम हैं**, इसीलिए समीक्षा इकाई के रूप में *अंतःक्रिया प्रसंग* का प्रस्ताव करती है। एक वर्गीकरण से उधार ली गई कोडिंग योजना किसी अलग संरचना को माप रही हो सकती है।
 - **"छात्र AI का उपयोग ट्यूटर के रूप में करते हैं।"** अनिरीक्षित तार्किक निबंध पूरे कर रहे **38 स्नातकों** में, **76.32% ने एकल-टर्न पूछो, उत्तर लो, रुक जाओ पैटर्न** का उपयोग किया, सामान्यतः मूल्यांकन का शीर्षक पेस्ट करके। प्रमुख पैटर्न एकल-टर्न पुनर्प्राप्ति है, जो ट्यूटरिंग नहीं है।
 - **"अधिक AI उपयोग सामग्री के साथ अधिक जुड़ाव दर्शाता है।"** **200 सह-प्रोग्रामिंग चैट सत्रों** के विश्लेषण ने पाया कि **78.8% छात्र-GenAI अंतःक्रियाएँ गैर-महारत लक्ष्यों और रणनीतियों पर चलीं**। अंतःक्रिया की मात्रा ने सीखने की दिशा के अलावा कुछ और मापा, इसलिए सत्र-गणना एक भ्रामक जुड़ाव प्रतिनिधि है।
-
-## संबंधित अवधारणाएँ
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## संबंधित लेख
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — अनुपशासित छात्र–GenAI मूल्यांकन में संज्ञानात्मक आउटसोर्सिंग बनाम पुनःआवंटन (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "क्या यह एक जाल है?": मूल्यांकनों में छात्र शिक्षकों का GenAI गैर-अपनाना (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — छात्र-AI अंतःक्रिया में पूछताछ के प्रकारों का विश्लेषण
-- [[student-llm-interaction-taxonomy-review-2026]] — छात्र-LLM अंतःक्रिया वर्गीकरण समीक्षा
-- [[teacher-authored-prompts-student-ai-dialogue]] — छात्र-AI संवाद में शिक्षक-रचित प्रॉम्प्ट
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — ज्ञान-आत्मक AI साक्षरता का निर्माण
-- [[dura-llm-cs2]] — डिमिस्टिफ़ाई, यूज़, रिफ्लेक्ट, असेस (DURA): CS2 में LLM एकीकरण
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS शिक्षा में LLM-आधारित शैक्षणिक एजेंट (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — लॉग किए गए प्रॉम्प्टिंग और एकीकरण व्यवहार
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — त्रुटिपूर्ण लेकिन यादगार: कंप्यूटिंग शिक्षा में रुचि-व्यक्तिगत GenAI समानताओं की छात्र समालोचनात्मक स्वीकृति
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — बायपास, ऑफलोड, या स्कैफोल्ड: बड़े भाषा मॉडल सीखने को कैसे आकार देते हैं इसकी एक वैचारिक मॉडल
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — जब AI शिक्षक बोलते हैं: एक यादृच्छिक क्षेत्र प्रयोग से प्रमाण
-- [[context-prompts-physics-assignments-2026]] — संदर्भ प्रॉम्प्ट का उपयोग करके कृत्रिम बुद्धिमत्ता संचालित भौतिकी असाइनमेंट
-- [[three-pathways-student-ai-interaction-2026]] — छात्र-AI अंतःक्रिया की तीन मार्ग वर्गीकरण: 46% निष्क्रिय समीक्षा, 18% प्रत्यक्ष प्रश्न, 36% रणनीतिक संवाद
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 छात्रों में उपयोग आवृत्ति और स्व-आँकी विशेषज्ञता ने कुछ भी भविष्यवाणी नहीं की
-
-- [[porcaro-ai-grading-benchmark-2026]] — सहमति से आगे: 22 प्रॉम्प्ट किए गए ग्रेडर ऐसे प्रोब का सामना करते हैं जिनका सही उत्तर ज्ञात है, और उनमें से अधिकांश को तर्क से ऊपर उठाया जा सकता है (Porcaro 2026)

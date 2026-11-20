@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -77,38 +79,3 @@ NLP חינוכי תומך הן בניתוח שפת לומד ([[student-modeling]
 - **"דמיון סמנטי יכול לסנן התאמת תכנית."** בסינון **3,837 זוגות יעד-תקציר ברפואת שיניים**, אחזור באמצעות הטמעה בתוספת בדיקת היסק-שפה-טבעית **שפט 22.9% מן הפריטים** כמתאימים — דמיון סמנטי הוא **אות חלש** להתאמה. התאמה נושאית שוטפת והתאמה אמיתית של מטרת-למידה הן יחסים שונים.
 - **"סיווג ברמת-משמעות הוא היחידה הטבעית."** **מידול שיעור-שלם מנצח סיווג ברמת-משמעות**: ניקוד תמלילים שלמים במקום משמעות מבודדות **הרים זיהוי שרשרת-היגיון ב-14.2 נקודות אחוז**. הקשר לאורך השיעור נושא מידע שכל תור בודד הורס.
 - **"הרחבת NLP על הערות הערכה מפיקה השפעה."** סקירת היקף PRISMA-ScR ומפת ראיות של **421 מחקרים** (2015–2026) המיישמים NLP על הערכת הוראה פתוחה של תלמידים מצאה הרחבה **בלי להגיע לשימוש**. נפח תפוקת השיטה אינו אימוץ, והפער הוא בשלב הפריסה ולא במידול.
-
-## מושגים מקושרים
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות AI (מודלים, אימון LLM, רובוטיקה, RAG, סוכני)
-
-## מאמרים מקושרים
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — אשכולות הטמעה שמארגנים לפי ניסוח ולא לפי פיזיקה
-- [[lee-learner-question-types-ai-education-2026]] — סיווג טרנספורמרי של שאלות לומד לתפקידים קונסטרוקטיביסטיים (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — סיווג יחסי דיבור אוטומטי עם BERT להוראת אנגלית
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — מאגר הנתונים StudyChat של דיאלוגים תלמיד–LLM בקורס AI
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — יישור פדגוגי נוירו-סימבולי (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP והצדקות LLM לאיכות הוראה מבוססת-מחוון
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — זיקוק LM מסביר-עצמית לאנליטיקת למידה
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — LLM רב-סוכני (GradeOpt) מקודד ידע תכני ופדגוגי של מורים; מקודדים קלאסיים והנחיה נאיבית נכשלים ב-PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — הערכת מודלים מאומנים מראש להערכה פדגוגית של שאלות חינוכיות חדשות בסיוע AI
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: צנור חשיבה סלקטיבית לתיוג קונספט-ידע דקת-גרגל
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: מאגר דפי-תשובות בכתב-יד לניתוח מסמכים היברידיים רועשים
-- [[nlp-reading-lists-dental-education-2026]] — עיבוד שפה טבעית להתאמת קריאות עם מטרות-למידה ולהערכת איזון-נושאים בחינוך רפואת-שיניים

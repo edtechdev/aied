@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -94,32 +96,3 @@ ai_assist:
 - **“এআই-উৎপাদিত পাঠ্য সহজ, কারণ তা একটি স্তরের জন্য উৎপন্ন।”** মডেল-ফলাফলের ক্ষেত্রে প্রমাণ উল্টো দিকে যায়: অগ্রগামী মডেলগুলো বোঝাপড়া-ব্যয়ের সঙ্গে যুক্ত গঠন অতিরিক্ত ব্যবহার করে।
 - **“এআই-সহ পড়া একটিই আচরণ।”** AIR স্কেল চারটি পৃথক উদ্দেশ্য খুঁজে পায়, আর তারা ভিন্ন ধরনের ব্যবহার পূর্বানুমান করে।
 - **“এআই পাঠ্য পুনর্লিখন করতে পারলে পঠন-স্তর আর গুরুত্বপূর্ণ নয়।”** পৃথকীকরণ অনুচ্ছেদের চারপাশের সহায়তা বদলায়, অনুচ্ছেদের কাঠামোগত জটিলতা বদলে নয়, যা তার স্তর নামানোর চেয়ে ভিন্ন হস্তক্ষেপ।
-
-## সংযুক্ত ধারণা
-
-- [[ai-education]] — এই ক্ষেত্র যে ছাতার নিচে বসে
-- [[language-learning]] — L2 পঠন ওভারল্যাপ করে, কিন্তু সেখানে অর্জনই বস্তু
-- [[writing-education]] — সাক্ষরতার রচনা-দিক
-- [[english-education]] — EAP/EFL/ESL পঠন ও পঠনযোগ্যতা
-- [[educational-nlp]] — পাঠ্য-পরিমাপের স্তর, যার ওপর পঠনযোগ্যতা নির্ভর করে
-- [[assessment]] — পঠন মূল্যায়ন ও স্কোর-বৈধতা
-- [[motivation]] — পাঠকেরা কেন এআই ব্যবহার করে, আর তাতে প্রক্রিয়াকরণের কী হয়
-- [[scaffolding]] — পৃথকীকৃত পঠন-উপকরণে সহায়তা-স্তর
-- [[neurodiversity]] — ডিসলেক্সিয়া ও পঠন-কঠিনতা
-- [[accessibility]] — মানব-পঠনযোগ্য বনাম যন্ত্র-পঠনযোগ্য পাঠ্য
-- [[generative-ai]] — উৎপাদিত ও অভিযোজিত পাঠ্যের পেছনের প্রযুক্তি
-
-## সংযুক্ত নিবন্ধ
-
-- [[air-scale-motivations-ai-reading-2026]] — জেনএআই-সহ পড়ার উদ্দেশ্যের একটি বৈধায়িত স্কেল
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL শ্রেণিকক্ষে এআই-মধ্যস্থ পঠন মূল্যায়ন
-- [[genai-differentiated-eap-reading-materials-2026]] — পৃথকীকৃত EAP পঠন-উপকরণ
-- [[llm-children-reading-story-generation]] — স্তর-নিয়ন্ত্রিত শিশু-পঠন গল্প
-- [[text-simplification-its]] — টিউটরিংয়ের জন্য পাঠ্য সরলীকরণ মূল্যায়ন
-- [[clara-developmental-appropriateness-children-stories-2026]] — পঠনযোগ্যতা-সূত্রের বাইরে বিকাশমূলক কঠিনতা
-- [[bird-multimodal-educational-literature-2026]] — Key Stage অনুযায়ী সাহিত্য শ্রেণিবিন্যাস
-- [[clark-ai-generated-language-readability-2026]] — এআই-উৎপাদিত ভাষা কেন পড়া কঠিন
-- [[sidorkin-ai-generated-course-readings-2026]] — উপযোগী এআই-উৎপাদিত কোর্স-পাঠ্য
-- [[airri-machine-resistant-reading-interface-2026]] — যন্ত্র-প্রতিরোধী পঠন-ইন্টারফেস ও তাদের পঠনযোগ্যতা-ব্যয়
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — মাধ্যমিক পঠনে ChatGPT ফিডব্যাক
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ডিসলেক্সিয়াযুক্ত শিক্ষার্থীদের জন্য এআই

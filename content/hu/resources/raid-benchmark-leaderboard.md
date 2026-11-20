@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -41,9 +42,3 @@ Kutatóknak, akik detektálási módszereket értékelnek; adminisztrátoroknak,
 ## Megjegyzések és fenntartások
 
 A benchmark a géppel generált szöveg detektálását méri, nem a tisztességtelenséget: a diák, aki MI-t használ tervezéshez, vázlatkészítéshez vagy átdolgozáshoz, olyan szöveget állít elő, amelynek elkapására a detektorokat nem építették, a [[language-learning|második nyelven író]] diák pedig ismert téves pozitív kockázat, amelyet a ranglista nem tud megmutatni. A RAID egy akadémiai csapat által karbantartott kutatási artefaktum; a lefedettség a teszthalmazában lévő generátor modelleket követi, így az újabb modellek alulreprezentáltak lehetnek, amíg a benchmarkot nem frissítik. A ranglista a detektorokat rangsorolja, nem a szállítóik adatkezelési gyakorlatát, és a magas AUROC semmit nem mond arról, hogy a diákmunkák beküldése az adott szolgáltatáshoz jogszerű-e vagy etikus-e az Ön joghatóságában.
-
-## Kapcsolódó fogalmak
-
-- [[ai-detection]] — a módszercsalád, amelyet a benchmark értékel
-- [[academic-integrity]] — a szakpolitikai kontextus, ahol a detektorpontszámokat használják
-- [[benchmark]] — az eszközök tágabb osztálya, amelyhez ez tartozik

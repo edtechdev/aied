@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,6 +44,3 @@ Giảng viên và nhà nghiên cứu giáo dục đại học muốn một bản
 ## Ghi chú
 
 Cấp phép Apache 2.0, ở phiên bản 1.6.9 tính đến tháng 9 năm 2026 với khoảng 40,000 sao GitHub. Đánh giá đã công bố đứng sau nó — mức cải thiện trung bình 10.8% trên các chỉ số cá nhân hóa so với các đường cơ sở mạnh và lập luận tác tử tổng quát mạnh hơn 29.4% trên năm mô hình nền, trên bộ đánh giá TutorBench — được tóm tắt trong [[zhao-deeptutor-agentic-personalized-tutoring-2026|trang bài viết]], và những hạn chế của trang đó cũng áp dụng ở đây. Như với mọi bộ công cụ AI mã nguồn mở, bạn tự cung cấp khóa nhà cung cấp mô hình, và một bản triển khai trên máy tính để bàn hay máy chủ cần Python 3.11 và Node.
-
-## Khái niệm liên quan
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

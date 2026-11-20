@@ -12,6 +12,8 @@ level: [adult learning, higher ed]
 confidence: high
 reviewed_by: [editor]
 connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 > **Vocational education and training** — the segment of education that prepares people for named occupations, trades and technical roles, organized around practice-proximal competence rather than disciplinary knowledge. Where workplace learning describes [[lifelong-learning|upskilling]] for the already employed, VET includes initial preparation for a trade; where [[higher-ed|higher education]] names degree study, VET is often non-degree and framed by national qualification frameworks. Its defining features are that learners are assessed on what they can do with equipment, that instruction happens near the workshop, [[simulation|simulator]] or worksite, and that the human trainers who carry practical instruction are frequently the binding constraint. In AI research VET appears both as a distinct [[learners|learner population]] — one whose academic confidence is tied to demonstrated skill and occupational identity — and as a distinct evidence base, thinner and more fragmented than the school or university literature.
@@ -79,29 +81,3 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 **"Learners will over-rely on AI in practical training."** The pilot evidence points the other way. Exploratory pilots (**N = 30**, Italy and China, **20 bounded sessions**) found participants treating the system as a bounded support tool, with **no reported expectation of substitution or dependency**. That is exploratory and small, and it does suggest that vocational learners' framing of a tool as equipment rather than as an authority is a resource worth designing around.
 
 **"Learner approval of a simulated task means it assessed the right thing."** Of **33 surveyed learners, 21 (64%)** agreed the voice task was realistic and the same proportion said it gave a clear way to communicate what they knew — and none disagreed that speaking in real time suited this [[authentic-assessment|authentic assessment]]. Realism and communication clarity are worth knowing and are not validity: a task can feel authentic and still fail to sample the occupational performance it stands in for.
-
-## Connected Concepts
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Connected Articles
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Adaptive CTE curriculum renewal, five dimensions and six leadership tests
-- [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET
-- [[ai-pedagogical-accompaniment-amico]] — Amico dual-mode prototype: design principles and observable indicators
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-assisted autonomous learning and reduced accomplishment, mediated by hardiness
-- [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
-- [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Perceived ICT support as an institutional lever in vocational colleges

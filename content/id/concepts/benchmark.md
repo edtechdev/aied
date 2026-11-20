@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,38 +88,3 @@ Stabilitas lintas-jalankan tingkat butir bertahan pada konsistensi 79.0%-85.4%, 
 - **"Posisi di papan peringkat memberi tahu seberapa baik seorang tutor."** StudentBench **mengacak 2,383 orang dewasa ke kondisi tutor AI, tutor manusia ahli langsung, dan video** dan menilai terhadap tutor manusia alih-alih terhadap sistem lain. Tolok ukur yang diskalakan terhadap model lain menjawab pertanyaan yang tidak perlu dijawab siapa pun.
 - **"Persona simulasi adalah dasar yang memadai untuk evaluasi tutor."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] mendasarkan evaluasi pada **literatur kasus terdokumentasi alih-alih persona simulasi**, menggunakan **923 dialog**. Persona siswa yang difabrikasi memungkinkan sistem lulus kasus yang tidak pernah terjadi.
 - **"Tolok ukur dapat dipercaya tanpa memeriksa hakimnya."** Halusinasi dinilai sebagai **entailment terhadap potongan berlisensi terbuka yang diambil (κ = 0.76 dengan penilaian ahli)** — hakimnya divalidasi terhadap ahli sebelum skornya digunakan. Hakim otomatis yang tidak tervalidasi menghasilkan angka yang maknanya tidak diketahui.
-
-## Konsep terkait
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Artikel terkait
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: mengevaluasi tutor LLM pada siswa dengan perilaku menantang (Park dkk. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Tolok ukur kemahiran bahasa Inggris 624 butir yang melaporkan kemampuan model sebagai tingkat terkalibrasi (Min dkk. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski dkk. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Pedagogy Benchmark: pengetahuan pedagogis LLM (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: menilai agen desain pembelajaran berbasis LLM
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asisten basis pengetahuan OER AI on-premise: tolok ukur multi-dimensi
-- [[authentic-products-authenticated-processes-2026]] — Dari produk autentik ke proses terautentikasi: penilaian autentik di pendidikan tinggi yang kaya AI
-- [[llm-cognitive-diagnosis-handwritten-math]] — Menilai Model Bahasa Besar untuk Mendiagnosis Keterampilan Kognitif Siswa dari Pekerjaan Matematika Tulisan Tangan
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Tolok Ukur Horizon Panjang untuk Agen LLM Pedagogis dengan Siswa Simulasi
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang Bertanggung Jawab di Era AI: Wawasan Utama dari Konferensi Berorientasi Masa Depan
-- [[anvil-ai-educational-animations]] — ANVIL: Analogi dan Video untuk Dosen
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Memodelkan Ciri Berbutir Halus untuk Penilaian Esai Holistik
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Menilai LLM Multimodal untuk Audit Slide
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: tolok ukur untuk mengevaluasi diagram matematika yang dihasilkan
-- [[eeg-familiarity-automated-assessment-2026]] — Mengotomatiskan Penilaian Siswa: Prediksi Keakraban Berbasis EEG
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation untuk Pendidikan Ilmu Komputer Teoretis -- Kerangka Evaluasi Komprehensif untuk Analisis Algoritma dan Teori Kompleksitas
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: konstruksi tolok ukur anotasi-dulu dan pembangkitan tugas, serta non-redundansi tingkat dimensi pada 12 tugas citra artistik (Zhu dkk. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutor AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model terlatih untuk penilaian pedagogis soal pendidikan baru berbantuan AI
-- [[llm-benchmark-secondary-science-topics-2026]] — Sebuah Tolok Ukur untuk Pemahaman LLM tentang Topik Sains Sekolah Menengah Pertama dan Atas
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Delapan prinsip desain untuk tolok ukur tutor AI, diturunkan dari metrik yang dioptimalkan menjadi pengulangan (Domínguez Figaredo & Fernández De la Cruz 2026)

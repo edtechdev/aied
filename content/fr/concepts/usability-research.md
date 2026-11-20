@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -73,26 +75,3 @@ La recherche sur l'utilisabilité partage ses méthodes de collecte de données 
 **« Les étudiants qui abandonnent un outil manquaient de motivation. »** L'abandon est souvent la lecture correcte, par l'utilisateur, d'un coût d'interaction que le concepteur n'a jamais mesuré. Comme un outil que personne n'utilise ne peut avoir d'effet, le taux d'abandon est en soi un résultat éducatif.
 
 **« Tester l'utilisabilité revient à mesurer l'apprentissage. »** Ils répondent à des questions différentes et ni l'un ni l'autre ne remplace l'autre ; le mode de défaillance consiste à tenir l'un ou l'autre pour suffisant en vue de l'adoption.
-
-## Concepts liés
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Articles liés
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Une étude d'utilisabilité d'un humanoïde conteur propulsé par un LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath : utilisabilité d'une application d'IA générative
-- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Utilisabilité des animations éducatives générées par l'IA
-- [[code-anchor-multi-view-visualization]] — Étude par réflexion à voix haute de visualisations de code multi-vues
-- [[learn-framework-responsible-genai-pbl-2026]] — Cadre LEARN et évaluation par réflexion à voix haute
-- [[feedback-futures-genai]] — Comment les apprenants traitent la rétroaction générée par l'IA
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Revue parapluie des agents conversationnels d'IA

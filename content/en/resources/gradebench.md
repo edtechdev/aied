@@ -17,6 +17,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 GradeBench asks a narrow, useful question about [[automated-assessment|automated assessment]]: given a student's handwritten answer, the instructor's rubric, a reference solution and the rubric items the instructor actually selected, does a frontier model select the same items? The gold labels are real instructor and TA rubric selections from exams and quizzes, not re-graded model output.
@@ -36,9 +37,3 @@ Instructors deciding whether to let a grading tool release marks unreviewed, ass
 ## Notes and caveats
 
 GradeBench is published by Pensive, a commercial AI grading platform, so the benchmark and the product share an owner; the task construction is documented and defensible, but treat the framing as the vendor's. It covers STEM exams with rubrics of at least four items, which excludes essays, short answers and discussion posts — the formats where most [[humanities-education|humanities]] grading happens. Exact rubric match is a strict metric: two graders can disagree on an item and both be right about the student. The scores describe model versions available in November 2026 and will move.
-
-## Connected Concepts
-
-- [[automated-assessment]] — the practice the benchmark measures
-- [[assessment-validity]] — the criterion a leaderboard score is a proxy for
-- [[benchmark]] — the wider class of instruments this belongs to

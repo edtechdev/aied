@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -127,46 +129,3 @@ Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma 
 **"Limiares de salvaguarda são escolhas de engenharia a serem ajustadas."** Um limiar é uma decisão de política com um custo distribucional. Mover um corte de toxicidade de 0,3 para 0,7 reduziu os prompts rotulados de **35,62% para 12,4%**; em um detector de golpes, trocou **15 falsos alarmes e 18 golpes não detectados por 2 e 36**. Nenhum corte elimina o trade-off — ele apenas decide qual erro a instituição prefere, e essa decisão pertence à instituição, não a uma constante padrão.
 
 **"A auditoria de justiça é uma preocupação separada da adequação das salvaguardas."** Padrões de recusa e de apoio distribuem benefício de forma desigual mesmo quando aplicados uniformemente, e uma taxa média de dano esconde quem absorve esse dano. A auditoria tem de fazer parte da especificação da salvaguarda, não um estudo encomendado depois.
-
-## Conceitos conectados
-
-- [[pedagogical-safety]] — o objetivo que as salvaguardas implementam
-- [[prompt-engineering]] — a técnica de desenho dica-não-resposta
-- [[rag]] — ancoragem em conhecimento como salvaguarda
-- [[human-in-the-loop-ai]] — QA e supervisão do professor
-- [[llm-training-and-fine-tuning]] — a camada de treinamento/alinhamento
-- [[reinforcement-learning]] — modelagem de recompensa para comportamento seguro
-- [[bias-mitigation]] — auditoria das salvaguardas por justiça
-- [[ai-sycophancy]] — o risco de manipulação que as salvaguardas devem resistir
-- [[scaffolding]] — o mecanismo pedagógico que as salvaguardas preservam
-- [[socratic-method]] — um modo de interação dica-não-resposta
-- [[hallucination-risk]] — o risco de fabricação que as salvaguardas reduzem
-- [[cognitive-offloading]] — o dano de dependência excessiva que as salvaguardas previnem
-- [[k-12]] — o contexto onde as salvaguardas mais importam
-- [[ethics]] — a base normativa
-- [[governance]] — a camada de política
-- [[intelligent-tutoring]] — os sistemas sendo protegidos
-- [[misconceptions]] — o conhecimento que as salvaguardas devem verificar
-- [[trust]] — o resultado de salvaguardas bem desenhadas
-- [[llm]] — a camada de modelo sendo restringida
-
-## Artigos conectados
-
-- [[ai-security-literacy-k12-framework-2026]] — Letramento em segurança de IA: framework de competências baseado em ecossistema e plataforma de aprendizagem K-12
-- [[reflection-agent-fidelity-career-2026]] — Fiel onde pode ser verificado: auditando um agente de reflexão contra seu prompt de sistema em um ensaio randomizado
-- [[scaffolding-student-ai-dialogue-framework-2026]] — O framework SCAFFOLD para conduzir o diálogo estudantes–IA, com seu piloto em sala de aula
-- [[generative-ai-guardrails-harm-learning]] — o RCT de campo canônico sobre salvaguardas
-- [[eduzone-llm-safety-k12]] — framework de segurança de LLM no K-12
-- [[eduguard-safe-rag-llm-tutor]] — segurança baseada em RAG para tutores
-- [[paternalistic-filter-llm-history-education]] — auditoria de salvaguardas por viés
-- [[singh-eduqwen-pedagogical-rl-2026]] — aprendizagem guiada alinhada por RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — pós-treinamento alinhado a taxonomia
-- [[eduframetrap-llm-sycophancy-educational-safety]] — a adulação como risco de segurança
-- [[ai-tutor-authoring-promptdecipher]] — QA conduzido pelo professor
-- [[llm-unlearning-math-privacy]] — desaprendizagem no nível do modelo
-- [[pedagogical-safety-rl]] — modelagem de recompensa para segurança pedagógica
-- [[residencyrl-clinical-rl-training-2026]] — RL alinhado à segurança no treinamento clínico
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Andaimes guiados por regras vs. ad-hoc em um sistema de tutoria com LLM para matemática do primário (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Governança instrucional por desenho: um framework para IA na educação em computação
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Salvaguardas ou obstáculos? Efeitos do estilo pedagógico e da consciência de contexto em assistentes de ensino com IA para programação
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — como o risco ao pensamento dos estudantes variou por categoria de produto ao longo de 20 ferramentas de IA observadas em salas de aula reais

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -103,41 +105,3 @@ ai_assist:
 **\"اشباع شرکاء کی تعداد کی خاصیت ہے۔\"** یہ تجزیے کی خاصیت ہے: آپ اُس وقت رکتے ہیں جب نیا ڈیٹا نئے کوڈ پیدا کرنا بند کر دے۔ یکساں نمونے کے حجم والے دو مطالعات اشباع سے یکساں دور ہو سکتے ہیں، اِس لیے ایسی رپورٹ جو کفایت کے ثبوت کے طور پر شرکاء کی گنتی پیش کرے، اُس نے کوریج کے بارے میں کچھ ثابت نہیں کیا۔
 
 **\"مقداری اور معیاری نتائج آپس میں مقابلہ کرتے ہیں۔\"** وہ مختلف سوالات کے جواب دیتے ہیں: سروے بتاتا ہے کہ کتنے طلبہ ٹیوٹر پر بھروسا نہیں کرتے، اور انٹرویو بتاتے ہیں کہ کیوں۔ اُنہیں ایک ہی چیز کے حریف بیانات سمجھنا وہ جھوٹا انتخاب پیدا کرتا ہے جسے جائزوں کے حصے بار بار دہراتے ہیں۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI کی معاونت والی تعلیمی تحقیق
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## منسلک مضامین
-- [[chain-behind-claim-warrantability-2026]] — AI کی معاونت والے معیاری تجزیے کے لیے جواز پذیری کا معیار
-- [[liu-tool-tutor-crutch-programming-2026]] — ٹول، ٹیوٹر، یا بیساکھی: AI کی معاونت والی پروگرامنگ کی گراؤنڈڈ تھیوری
-- [[trio-ethnography-llm-programming-education]] — LLM کی معاونت والی پروگرامنگ میں تفسیر کے ارتقا کی سہ رکنی ایتھنوگرافی
-- [[absent-cognitive-baseline-2026]] — AI کے ساتھ پروان چڑھنے والے طلبہ کی خود جانچ میں ساختی خلا کو نظریہ بنانا
-- [[t2i-competence-paradox-2026]] — متن سے تصویر تک GenAI استعمال میں قابلیت کی ضد
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — فزکس کی تعلیم میں بھروسے اور افادیت کا خلا
-- [[genai-teacher-feedback-comparison]] — GenAI اور استاد کے فیڈبیک کا موازنہ: طلبہ کے ادراک
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ٹیوٹر کی حفاظت اور تدریسی نقصانات
-- [[zha-ai-literacy-biology-case-study]] — حیاتیات کی کلاس میں AI خواندگی کے ادغام کی کیس اسٹڈی
-- [[becker-chatgpt-typology-physics-2026]] — فزکس میں ChatGPT اپنانے کی معیاری نوع بندی
-- [[scaffolding-critical-engagement-genai-minority-students]] — نسلی اقلیتی طلبہ میں پرامپٹ انجینئرنگ پر تعاونی گفتار
-- [[human-vs-llm-ordered-coding]] — معیاری ڈیٹا کی انسانی اور LLM ترتیب وار کوڈنگ کا موازنہ
-- [[agreement-not-quality-llm-coding-verification]] — LLM معیاری کوڈنگ میں اتفاق معیار نہیں
-- [[same-ai-different-pathways]] — سیاق و سباق میں AI کی ثالثی شدہ سیکھائی کے میکانزم کھولنا
-- [[drummond-genai-business-schools-framework-2026]] — کیس اسٹڈی کے ذریعے طلبہ کی معلومات پر مبنی GenAI فریم ورک
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — تنقیدی AI ٹیوٹر: بااختیار یا غلام
-- [[genai-runaway-object-math-higher-ed]] — اعلیٰ تعلیم کی ریاضی میں GenAI بطور بھاگتی ہوئی شے
-- [[khlaif-assistive-genai-visually-impaired-2026]] — بصارت سے محروم سیکھنے والوں کے لیے معاون GenAI
-
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — GenAI کی معاونت والی تحریر میں EFL سیکھنے والوں کی جذباتی شمولیت: ایک طولانی کثیر کیس مطالعہ

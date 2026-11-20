@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback-literacy, formative-assessment, summative-assessment, peer-assessment, self-assessment, automated-assessment, assessment, authentic-assessment, assessment-validity, self-regulated-learning, ai-literacy, scaffolding, writing-education, reflection]
+connected_articles: [morris-same-feedback-different-source-2026, meyer-teacher-ai-feedback-writing-2026, liu-ai-feedback-motivational-pathways-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, guberman-control-or-support-grading-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, jansen-argumentative-writing-feedback-receptivity-2026, ai-agents-joyful-assessment-third-space-2026, student-perspectives-ai-writing-grading-2026, usher-faraon-who-grades-best-2026, layer-sensitive-cognitive-offloading-writing-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, farrokhnia-genai-feedback-student-revisions-2026, yilmaz-genai-feedback-srl-online-higher-ed-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, luo-eaton-ai-student-feedback-ethics-2026, metacognitive-training-optimal-cognitive-offloading-2026, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, mendoza-ai-feedback-feedback-literacy-srl, rethinking-ai-writing-feedback-literacy, jin-genai-learning-analytics-feedback-literacy, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, ai-generated-feedback-higher-ed, care-full-feedback-genai, ai-feedback-ecosystem-higher-education-2026, learner-centered-feedback-ai, genai-feedback-design-multisite-experiment, ai-feedback-critical-thinking-writing-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, zhao-learnlens-feedback-educators-loop, sequenced-ai-feedback-learning, becerra-aicofe-feedback-2026, automated-formative-assessments-a-level-sciences, fenton-oral-exams-ai-authentic-assessment-2025, marked-pedagogies-linguistic-bias-writing-feedback, shap-llm-rationales-teaching-quality-assessment, llm-adaptive-programming-error-explanations-2026, student-perceptions-ai-study-productivity-2026, yasar-llms-iterative-pedagogical-design-2026, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, tripartite-feedback-framework-ai-assessment-2026, structured-reflection-ai-explanatory-feedback-2026, bounded-reliance-ai-writing-feedback-2026, pivot-generative-video-tutors-stem-2026, llm-feedback-focus-adaptivity-student-writing-2026, nlp-student-evaluation-teaching-scoping-review-2026, nazaretsky-feedback-source-bias-2025, ai-powered-writing-feedback-awe-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, xu-automated-feedback-tutor-training-2025, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, porcaro-ai-grading-benchmark-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, xian-process-visualization-feedback-news-translation-2026, zhang-genai-l2-learning-meta-analysis-2026, wang-human-ai-vs-teacher-collaboration-instructional-design-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -95,7 +97,6 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 
 - **משוב מודע-תפקיד.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] הראו ש[[prompt-engineering|prompting]] אותו LLM להעריך את אותו ארטיפקט תלמידי תחת תפקידים שונים — מורה, מבקר-עמיתים, בוחן מענק — ייצר משוב מובהן באופן איכותני: מורים היו מעודדים ומוכווני-תהליך, עמיתים תומכים ושיחתיים, בוחני מענק רשמיים ומוכווני-תוצאות. הבדלים הללו היו אפיסטמיים, לא רק סגנוניים, והבליטו היבטים שונים של פרקטיקת התכן — עדות שהנחיה מודעת-תפקיד יכולה לייצר משוב הערכה מודע-תפקיד ולא תגובה גנרית בודדת.
 
-
 - **ניתן לסווג משוב מורים אמפירית לעשרה סוגים.** [[lee-feedback-taxonomy-math-data-mining-2025|Lee et al. (2025)]] קידדו 100 הודעות משוב שנכתבו בידי מורים על תשובות פתוחות במתמטיקה בחטיבת הביניים עם שישה קודדים מומחים. ניתוח גורמים מינימלי מדורג בן 12 גורמים עם רוטציית Promax על 108 משתנים לא-ריקים ואשכול K-means שנבחר לפי silhouette הניב 10 סוגים — תיקון ישיר, אישור ממוקד, רמז, אישור לא-מילולי, שאלה רטורית, הצג את העבודה, הערה גנרית, ביקורת ישירה, דוגמה פתורה, וחיוביות לא-ספציפית. השכיחות נעה 26, 16, 4, 2 ו-1 תצפיות באשכולות הגדולים ביותר.
 
 - **אוריינות המשוב וכיול הם מנופים נפרדים.** עם 120 סטודנטים לתואר ראשון, סקריפט אוריינות המשוב (Filter–Reason–Act–Check) הגביר [[writing-education|איכות הכתיבה]], ספיגה יעילה, ועריכה מעמיקה, פעילות כיול הערכה-ביצועים שיפרה את דיוק ה[[self-assessment|הערכה העצמית]] וחתכה ביטחון-יתר, והשילוב ביניהם ייצר את רווחי הכתיבה הגדולים ביותר ואת השימור החזק ביותר לאחר שמשאב בינה מלאכותית הוסר ([[rethinking-ai-writing-feedback-literacy|Dai (2026)]]).
@@ -127,7 +128,6 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 
 פרדיגמת "הערכה ללומדה" ממסגרת מחדש את המשוב כפילוסופיה כוללת ולא כרכיב. [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] מסנתזים את ספרות ההשכלה הגבוהה הרחבה כדי למסגר [[formative-assessment|formative]], משוב שוטף ומותאם-אישית כמרכזי לפילוסופיה הזו, מאיזנים בין מטרות פורמטיביות לסוּמַטיביות ומקדימים את [[agency|student agency]], [[regulation|ויסות עצמי]], וכישרון [[metacognition|metacognitive]]. הם מציינים, עם זאת, שב[[business-education|management education]] פרקטיקות עשירות-משוב נותרו מאומצות באופן לא-שווה: הערכה עצמית ועמיתים (אתר של משוב עמיתים) שולטות בספרות, בעוד שהערכה מחדש — שמשתמשת בסיכויים שניים המונעים-משוב לשיפור לומדה — נעדרת כמעט לחלוטין.
 
-
 - **פעילות מוכחת אינה פעילות מיושמת.** בסקירת היקף של 421 מחקרים המחילים NLP על הערות הערכת תלמידים פתוחות, 61.3% ייצרו פלט ברמה של תוצאה מוכחת או גבוהה יותר, אך רק 11.6% הראו עדות שמשתמשים מכוונים העריכו או השתמשו בו ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva, 2026)]]).
 
 ### הצמדת אספקה-ספיגה
@@ -135,7 +135,6 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 התובנה המרכזית על המשוב במאגר הידע היא ש**איכות המשוב ואוריינות המשוב הם שני צדדים של מערכת אחת**: משוב באיכות גבוהה הוא אינרטני ללא נמען בעל אוריינות, ותלמיד בעל אוריינות מרוויח מעט מאוד ממשוב גרוע. [[ai-feedback-quality]] מכסה את צד האספקה (האם המשוב מדויק, עדכני, ניתן-לפעולה?), בעוד ש[[feedback-literacy]] מכסה את צד הספיגה (האם התלמיד יכול לשפוט ולפעול לפיו?). לולאת המשוב היא מה שמחברת ביניהם — המנגנון שבו משוב באיכות, שהתקבל על ידי לומד בעל אוריינות, סוגר את הפער. תכן משוב בינה מלאכותית יעיל פירושו תכן גם של המערכת וגם של התלמיד.
 
 אילו קיבולות בצד התלמיד חשובות נפרדות אמפירית: בין 1,507 תלמידים תיכון שקיבלו כל אחד מסר משוב ממוחשב סטנדרטי על טקסט ארגומנטטיבי, רק מעורבות התנהגותית במשוב וגישות אינסטרומנטליות כלפיו חזה ביצוע עריכה — תלמידים באחוזון ה-75 בכל אחד משני הממדים השתפרו בכ-0.10 או 0.11 נקודות WLE יותר מתלמידים ברי-השוואה באחוזון ה-25, בערך מאחוזון ה-46 ל-54 — בעוד שקיבולת גלובלית, מעורבות קוגניטיבית וגישות ניסיוניות לא היו קשורות לכך, ו[[technology-acceptance-model|perceived usefulness]] לא תיווך נתיב של אף ממד לביצועים. שימושיות פעלה על התוצאה האחרת במקום זאת: השפעת הקיבולת הגלובלית על עניין מצבי עברה כולה דרך השימושיות הנתפסת (indirect β = 0.09, 95% CI [0.06, 0.13]), כך שרווחי העריכה עקפו הרגלי פעולה עמידים על משוב בעוד עניין עקב אחר הערכת מסר מסוים. ([[jansen-argumentative-writing-feedback-receptivity-2026]])
-
 
 מקור יכול להשתנות באופן שבו הוא מכייל, לא במידה שהוא מנקד: בניסוי רנדומלי, משוב בינה מלאכותית שרשרת-מחשבה הניח את מורה מנוסה על איכות הרובריקה אך לא ייצר רווחי עריכה גדולים יותר, בעוד שמשוב המורה נשאר מכויל על פני טיוטות ומשוב GenAI עקב אחר חוזק החיבור הראשוני ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]]).
 
@@ -157,81 +156,3 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 - **"סטודנטים אינם יכולים להבחין בין משוב AI למשוב אנושי."** הם יכולים, והתווית משנה את השיפוט: **לאחר חשיפת התווית, דירוגי הגרסה מבוססת ה‑AI ירדו ושל הגרסה האנושית עלו — באופן מובהק עבור Genuineness (p < .01)**. אמינות הספק עיצבה את ההערכה של משוב בסגנון זהה.
 - **"אישור במעבדה מנבא שימוש בסמסטר."** **אישור במעבדה אינו שימוש בסמסטר**: **כל 18 הסטודנטים** הגיבו בחיוב לפונקציית ההסבר של GenAI במפגשי מעבדה, **ובכל זאת רק מחציתם השתמשו בה במהלך הסמסטר**. פער הכוונה-שימוש הוא בעיית העיצוב.
 - **"משוב תיקון מיידי נפתר עם LLMs."** יצירתו בתוך חונך היא **אפשרית אך לא מושלמת**: על פני **6,926 עסקאות מתועדות** במאגר Apprentice Tutor, המשוב היה טוב מספיק לפריסה ולא טוב מספיק כדי להניח את נכונותו.
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — סדרות משוב שנבדקו, כולל מדוע משוב בינה מלאכותית באיכות גבוהה יותר לא ייצר יותר עריכה
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[reflection]]
-
-## מאמרים מקושרים
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — משוב סוכני שחזר על עצמו לאורך תיקונים (Humburg et al. 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ethics of AI in student feedback
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts for AI-assisted writing (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback (Jin et al. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for feedback literacy (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI in EFL peer feedback for feedback literacy (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
-- [[ai-feedback-ecosystem-higher-education-2026]] — The feedback ecosystem in higher education: AI reworks feedback relations, and humans as the loop (Bearman et al. 2026)
-- [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
-- [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
-- [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
-- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or bottleneck? Structured reflection on AI explanatory feedback (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
-- [[assessment-feedback-trilemma-model-2026]] — נוקב בשם את המחיר בין שמישות, מקורות וקיימות, והופך את הקיימות לקוטב עיצוב
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — מעבר להסכמה: 22 מעריכים מונחים עומדים בבדיקות שתשובתן הנכונה ידועה, ורובם ניתנים לשכנוע (Porcaro 2026)
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — משוב AI ומשוב מרצה שווים באיכות התיקון, לא שווים במוטיבציה (Liu & Shi 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - משוב שנוצר מעקבות הקלדה ומסך גבר על הערות תוצר, 11 בכל זרוע

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -90,39 +92,3 @@ ai_assist:
 **«ИИ делает контент настолько дешёвым, что OER устарели».** Возможно и противоположное прочтение, и оно лучше подкреплено. Если генерация почти бесплатна, дефицитными благами становятся лицензия, цепочка атрибуции, процедура рецензирования и поддерживаемая платформа. Поэтому эта литература сходится на управлении и инфраструктуре, а не на производстве.
 
 **«Добавление ИИ-инструментов в открытое задание улучшает обучение».** Единственная квазиэкспериментальная проверка здесь обнаружила воспринимаемый рост навыков в обеих группах без обнаружимой разницы между ними, наряду с более высокой долей завершения и несколько более низкими баллами в группе с ИИ. ИИ изменил то, что студенты производили, и не изменил того, чему, по их словам, они научились.
-
-## Связанные концепции
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Связанные статьи
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Пять рамок для OER, когда генеративный ИИ входит в производство (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER как цифровые общественные блага и аргумент в пользу управляемой инфраструктуры (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Почему двадцать пять лет открытости оставили институциональную середину нетронутой (Deimann и Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Открытая педагогика с ИИ-инструментами и без них в двух учебных группах (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Четырнадцать моделей открытой образовательной практики и место ИИ в них (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — ИИ-грамотность учителей и практика открытого преподавания в 30 китайских провинциях (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — Семистолповая рамка ответственной интеграции OER и ИИ (Rodés-Paragarino и Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Наставничество и производство ИИ-OER в виртуальной лаборатории (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — Рубрика из семи принципов для экспертизы OER по ИИ-грамотности (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Интерактивность в OER как аргумент дизайна, а не результат (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Международное сотрудничество в открытом образовании как инструментальный кейс (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — Гибридный рекомендатель для OER на фоне более сильного базового уровня, чем заявлено (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Цифровая трансформация в открытом обучении как педагогическая трансформация (Panda, 2026)

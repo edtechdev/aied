@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -81,26 +83,3 @@ Stödstrukturernas kvalitet spelar roll oberoende av tillgång. En experimentell
 - **"Tillfredsställelse och upplevd nytta visar att ett datavetenskapsverktyg fungerar."** Eleverna använde LLM:er flitigt för felsökning och begreppsfrågor och **rapporterade hög tillfredsställelse, medan deras upplevda djupinlärningsnytta minskade under terminen**. Tillfredsställelsen hölls uppe och den självskattade lärandebanan föll, så ingen av siffrorna är ensam utfallet.
 - **"En oinskränkt modell är lika bra som en guidad handledare."** Vinsten kom från träning i stöttning — explicit instruktion i stegvisa tips och verifiering — som slog vanlig tillgång till samma modell i självständig prestation och i kalibrering av självskattning. Vägledningen, och träningen i hur man använder den, bar effekten.
 - **"Det räcker att skydda mot att svaret ges."** En specialbyggd handledare lindad kring ett hostat API, systempromptad att **vägleda i stället för att svara**, användes i en terminslång R-kurs för psykologistudenter på grundnivå, där **76% till 84%** av eleverna använde den under tentamensrelevanta veckor. Det är adoption, inte evidens för att skyddet producerade lärande: skydd på promptnivå är en av flera spakar och producerar inte i sig lärande.
-
-## Anslutna begrepp
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Anslutna artiklar
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentiskt verktyg som genererar inspekterbara syntetiska dataset för individualiserad statistikövning
-- [[ai-tutor-statistical-programming-adoption-2026]] — Specialbyggd R-handledare; användningen följde tentamenskalendern
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM:s svårighetsetiketter följer Bloom-nivåer, inte elevernas prestation
-- [[tactile-statistical-graphs-accessibility]] — Öppen källkods-pipeline som genererar taktila statistiska diagram med lärargranskning
-- [[guided-llm-scaffolding-independent-learning]] — Guidad stöttning slog oinskränkt tillgång på självständig prestation
-- [[lund-socially-accountable-data-science-xai-2026]] — Att bädda in social ansvarsskyldighet i det tekniska datavetenskapliga läroplanen

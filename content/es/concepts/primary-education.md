@@ -16,6 +16,8 @@ ai_assist:
     date: "2026-11-15"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -138,32 +140,3 @@ La educación primaria se sitúa dentro de [[k-12]] y hereda sus problemas de [[
 - **«Los niños reciben a los chatbots con un escepticismo saludable».** La confianza se formó rápido en el estudio anterior: una mayoría aceptó las respuestas del sistema y más de un tercio lo trató como un docente o un amigo.
 
 - **«Los niños pequeños reciben una versión más fácil del mismo programa de alfabetización en IA».** Lo que cambia entre franjas es el tipo de tarea, no su dificultad: historias y hacer cosas al principio, crítica y rendición de cuentas después.
-
-## Conceptos conectados
-
-- [[developmental-psychology]] — por qué la edad cambia lo que una tarea puede pedir, no solo lo difícil que es
-- [[math-education]] — la disciplina con más ensayos de IA en primaria y más resultados nulos
-- [[reading-education]] — fluidez, decodificación y efectos de dosis en los primeros grados
-- [[writing-education]] — retroalimentación automatizada, revisión y los límites de la puntuación con rúbricas
-- [[digital-divide]] — brechas de dispositivos, conectividad y habilidades que deciden quién se beneficia
-- [[equity-in-ai-education]] — efectos diferenciales por ingresos, estatus lingüístico y ruralidad
-- [[teacher-role]] — orquestación, mediación y el trabajo que la IA añade al día de un docente
-- [[curriculum-design]] — secuenciar la alfabetización en IA a lo largo de los cursos en lugar de añadir un módulo
-- [[privacy]] — datos de la infancia, retención y protección arquitectónica más que contractual
-- [[assessment]] — qué cuenta como evidencia de que un aprendiz de primaria ganó algo
-
-## Artículos conectados
-
-- [[ai-elementary-language-education-review-2026]] — 31 estudios sobre IA en el aprendizaje de lenguas en primaria, concentrados en expresión oral, alfabetización y vocabulario
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 estudios de K-12 organizados en el marco de desarrollo PACES
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — 16 intervenciones que enseñan la IA en sí misma, agrupadas en g = 0.892
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 estudios de primaria; la alfabetización en IA como cuatro hilos enseñados de forma desigual, evaluados sobre todo por encuesta
-- [[barokah-ai-elementary-science-review-2026]] — 103 publicaciones que mapean cinco grupos de aplicación en ciencias de primaria; resultados epistémicos escasos
-- [[karampa-students-game-designers-ai-literacy-2026]] — 22 estudiantes construyen un juego de escape sobre desinformación; la alfabetización en IA sube de 3.684 a 4.309
-- [[llm-comparative-judgment-writing-screening-2026]] — 1,208 estudiantes de los grados 3 a 6; puntuación por pares con LLM
-- [[melo-llm-classroom-observation-teach-2026]] — 8,618 evaluaciones de IA frente a valoraciones expertas de TEACH Primary
-- [[age-tiered-ai-literacy-guidebooks-2026]] — guías por edad, 831 participantes; la aceptación no es aprendizaje
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — los niños de 6 y 7 años muestran una conectividad frontoparietal más débil que los adultos
-- [[tutor-case-bench-challenging-behaviors-2026]] — 923 casos documentados; el mejor modelo alcanza una respuesta documentada el 55.8 % de las veces
-- [[llm-simulating-student-scientific-thinking-2026]] — las ideas simuladas de estudiantes se alejan más de las reales en los grados de primaria
-- [[human-ai-complementarity-social-emotional-learning-2026]] — los agentes sostienen el tono y el procedimiento; el profesorado lidera la reflexión

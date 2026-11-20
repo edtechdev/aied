@@ -9,6 +9,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 > **Usability research** — the empirical study of how users interact with a software system, and of its usability, usefulness, and user experience (UX). Drawn from human–computer interaction (HCI), usability research evaluates whether an AI educational tool is usable, learnable, efficient, and satisfying — the qualities that determine whether learners actually adopt and benefit from it. It is distinct from, but complementary to, [[qualitative-research|qualitative inquiry]] into learning phenomena and [[quantitative-research|quantitative efficacy]]: usability research focuses on the *interaction between person and system*, not on learning outcomes per se.
@@ -59,27 +61,3 @@ Usability research shares data-collection methods with [[qualitative-research|qu
 **"Students who abandon a tool lacked motivation."** Abandonment is often the user's correct read of an interaction cost the designer never measured. Since a tool no one uses cannot have an effect, the abandonment rate is an educational outcome in its own right.
 
 **"Usability testing is the same as measuring learning."** They answer different questions and neither substitutes for the other; the failure mode is treating either as sufficient for adoption.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
-- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
-- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
-- [[feedback-futures-genai]] — How learners process AI-generated feedback
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-

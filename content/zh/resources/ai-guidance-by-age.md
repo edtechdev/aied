@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -52,11 +53,3 @@ verified: [citation]
 还有两个限制对教学很重要。建议是设计提示，不是经过检验的干预；网站上没有任何内容报告结果。而且年龄段结构把一张粗网格强加于发展之上，而发展在同一阶段内部、跨文化和跨情境都有差异，指南本身也承认这一点。
 
 值得带入实践的是该网站自己的框架：让循环保持在人这一边，然后再确定 AI 在其中适合放在哪里，而不是把人的检查点放进一个属于机器的循环里——这正是语料库在工具接管了原本承担发展性工作的那部分任务时，记为[[cognitive-offloading|认知外包]]风险的同一种担忧。
-
-## 关联概念
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,29 +68,3 @@ RL은 에이전트가 단일 정답이 아니라 장기적 학습을 최적화�
 **"지평이 길수록 그냥 더 좋다."** 그것은 짧은 지평이 할 수 없는 것을 가능하게 하며, 보상이 전체 시퀀스에 걸쳐 옳아야 함을 요구합니다. [[residencyrl-clinical-rl-training-2026|ResidencyRL]]은 동시대 대화 시스템의 ≤12턴 지평을 훨씬 넘어서는 **60턴 전체 임상 대면**을 최적화하는데, 이는 잘못 규정된 목표의 비용을 낮추는 것이 아니라 높입니다.
 
 **"교수가 순차적이므로 RL은 교습에 알맞은 형식주의다."** 순차성은 필요 조건이지 충분 조건이 아닙니다. 구속하는 제약은 보상의 타당성입니다. 목표가 잘 규정되고 정책이 약한 편이, 목표가 틀린 상태에서 정책이 강한 편을 이깁니다.
-
-## 연결된 개념
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모형, LLM 훈련, 로보틱스, RAG, 에이전트)
-
-## 연결된 문서
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: 교수법적 지시 따르기를 위한 RLHF
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서의 적응형 ICAP 비계 (BKT 대 DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

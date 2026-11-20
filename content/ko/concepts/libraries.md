@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -74,22 +76,3 @@ ai_assist:
 - **학생들은 도서관을 떠났다.** 검색 엔진이 여전히 지배적인 출발점이며, 9년간의 대출 기록은 대출에 어떤 단절적 변화도 없음을 보여줍니다.
 - **재정이 유일한 장벽이다.** 기술 격차와 낮은 데이터 품질이 돈보다 더 자주 언급되며, 이는 예산 문제인 만큼 역량 문제이기도 합니다.
 - **문헌이 늘어난다는 것은 이 분야가 변혁 중이라는 뜻이다.** 출판량은 늘었지만 실천에서 측정된 변화는 없었습니다. 검토 연구들은 효과보다 열의가 앞선다고 봅니다.
-
-## 연결된 개념
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adoption of artificial intelligence in academic libraries: A systematic review of current practices, challenges, and research opportunities
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and AI Instruction in Nigerian Tertiary Institutions

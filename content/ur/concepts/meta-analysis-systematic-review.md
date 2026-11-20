@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -59,7 +61,6 @@ ai_assist:
 **جب کوئی جائزہ تعدد بتائے تو مطالعات نہیں، ریکارڈ گنیں۔** ایک اسکوپنگ جائزے میں جو 21,720 ریکارڈ سے 31 مطالعات تک پہنچا، پانچ مطالعات نے 192 عملی ریکارڈ میں سے 62 فراہم کیے، اس لیے فیصد استخراج شدہ مواد کو بیان کرتے ہیں، نہ کہ آزاد مشاہدات یا پھیلاؤ کو ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]])۔
 - **موڈریٹر اور شرائط کی نشاندہی** — میٹا تجزیہ جانچتا ہے کہ اثرات [[learners|سیکھنے والوں کی آبادی]]، شعبے، AI نظام کی قسم یا مطالعے کے ڈیزائن کے لحاظ سے مختلف ہوتے ہیں یا نہیں، اور ظاہر کرتا ہے کہ کوئی ٹول کس کے لیے اور کن حالات میں کام کرتا ہے۔ مگر کوئی موڈریٹر صرف اُتنا ہی قابل اعتماد ہوتا ہے جتنے اُس کے پیچھے کے مطالعات: [[genai-writing-performance-meta-analysis-2026|GenAI کی معاونت والی L2 تحریر کے 2026 کے میٹا تجزیے]] میں طریقہ کار کے کنٹرول میں صرف ایک ہی موڈریٹر بچا، یعنی مطالعات کی تعصب کے خطرے کی درجہ بندی، جبکہ تدریسی ماڈل کا وہ فرق جو ذیلی گروہ کے تجزیے میں نمایاں لگ رہا تھا، مطالعے کا معیار اور نمونے کا حجم شامل ہوتے ہی ڈھیر ہو گیا۔ اثر طریقہ کار کے معیار نے اٹھایا، تدریس نے نہیں — اس لیے ظاہری تدریسی موڈریٹر بھی یکجا شدہ تخمینوں جیسی جانچ کے مستحق ہیں۔ بے اثر موڈریٹر اُلٹی سمت میں یہی سبق دیتے ہیں۔ [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|غیر ملکی زبان کی مہارتوں کے لیے ڈیجیٹل اور AI ٹیکنالوجیز کے Chen اور Wei کے میٹا تجزیے]] (40 مطالعات، 3,367 شرکاء، یکجا شدہ g = 0.962) میں جو موڈریٹر بچے وہ مطالعے کا ڈیزائن (نیم تجربات g = 1.019 بمقابلہ حقیقی تجربات g = 0.474)، مداخلت کی مدت اور ٹولز کی تعداد تھے، جبکہ زبان کی مہارت کی قسم، ٹیکنالوجی کی قسم، تعلیمی سطح، سیاق اور نمونے کا حجم گروہوں کے درمیان کوئی نمایاں فرق نہ دکھا سکے، جس سے مصنفین یہ نتیجہ نکالتے ہیں کہ اثر کو کسی ٹیکنالوجی کے لیبل یا مہارت کی قسم سے منسوب نہیں کیا جا سکتا۔ [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|K-12 AI تعلیم کے بارے میں Yu اور ساتھیوں کا میٹا تجزیہ]] (16 مطالعات، 57 اثرات کے حجموں، g = 0.892) نے اپنے تینوں آزمودہ موڈریٹر (اشاعت کا ذریعہ، اشاعت کا سال، اسکول کی سطح) بے اثر پائے اور بچی ہوئی متغیریت (I2 = 94.68%) کو اِس بات کا ثبوت پڑھا کہ میدان [[ai-literacy]] کی پیمائش کے طریقے پر ہی متفق نہیں ہوا۔ جب موڈریٹر بے اثر لوٹے اور متغیریت بلند رہے، تو ترکیب کا نتیجہ اکثر نتیجے کے construct یا بنیادی مطالعات کے ڈیزائنوں کے بارے میں ہوتا ہے، اُتنا ہی جتنا مداخلت کے بارے میں۔
 - **طریقہ کار کے معیار کو بے نقاب کرنا** — جائزے معمول کے مطابق پاتے ہیں کہ میدان کم طاقت والے، تجربے سے پہلے کے یا نیم تجرباتی ڈیزائنوں اور فوری بعد کے ٹیسٹوں پر انحصار کرتا ہے، جو نتائج کو محتاط بنا دیتا ہے۔([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) واقعی کیا کیا گیا، اُس کی پتلی رپورٹنگ بھی اِسی تصویر کا حصہ ہے، اور یہ طے کرتی ہے کہ کوئی بعد کی ترکیب کیا کہہ سکتی ہے: [[yalcin-genai-programming-education-systematic-review-2026|پروگرامنگ کی تعلیم میں GenAI کے Yalcin اور ساتھیوں کے منظم جائزے]] اپنے 46 مطالعات میں سے 26 میں کوئی تدریسی طریقہ شناخت نہیں کر سکا، اور 46 میں سے 32 کانفرنس کارروائیوں میں شائع ہوئے تھے، اس لیے جائزہ اپنے کارپس کے آدھے سے کم حصے کے لیے تدریس کو کوڈ کر سکا اور ملی جلی اثر کے ثبوت پر ختم ہوتا ہے (کچھ مطالعات نے امتحان اور کوڈنگ کی کارکردگی میں بہتری دکھائی، جبکہ دیگر نے انسٹرکٹر کے فیڈبیک کے مقابلے میں کوئی نمایاں فرق نہ پایا)۔ ترکیب اپنے میدان کی رپورٹنگ کی عادات ورثے میں لیتی ہے۔
-
 
 چھانٹی کی معتبریت construct پر منحصر ہو سکتی ہے: GenAI کے 123 مطالعات کے PRISMA-ScR اسکوپنگ جائزے میں، [[cognitive-offloading|منتقلی]] اور [[agency|سیکھنے والے کی ایجنسی]]، عنوان/خلاصہ کا اتفاق (Fleiss' κ = 0.7103) مکمل متن پر κ = 0.4884 تک گر گیا، جسے مصنفین وسیع GenAI کی مطابقت اور میکانزم سے ٹھوس مطابقت کے درمیانی تفسیری فرق سے منسوب کرتے ہیں ([[genai-cognitive-offloading-learner-agency-review-2026|Wang et al. (2026)]])۔
 
@@ -153,54 +154,3 @@ ai_assist:
 - **"ایک نمایاں یکجا شدہ اثر کا مطلب ہے کہ مداخلت کام کرتی ہے۔"** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu اور ساتھیوں کے K-12 AI تعلیم کے میٹا تجزیے]] (**16 مطالعات، 57 اثرات کے حجموں، g = 0.892**) نے بڑا اثر پایا، حالانکہ مصنفین اُسے مشروط کرتے ہیں۔ سولہ مطالعات ایک تنگ بنیاد ہیں، اور اُس بنیاد پر بڑا اثر ایک مفروضہ ہے جس کا وقفہ وسیع ہے۔
 - **"جائزہ لینے والے بطور ڈیفالٹ میدان کے معیار کو درست بتاتے ہیں۔"** جائزے کے کام میں **طریقہ کار کے معیار کو بے نقاب کرنا** شامل ہے، اور جائزے **معمول کے مطابق پاتے ہیں کہ میدان کم طاقت والے، تجربے سے پہلے کے یا نیم تجرباتی ڈیزائنوں** اور فوری بعد کے ٹیسٹوں پر انحصار کرتا ہے۔ یکجا شدہ عدد اُن کمزوریوں کا وارث ہوتا ہے۔
 - **"یکجائی ہمیشہ ثبوت کا وزن بڑھاتی ہے۔"** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen اور Wei کا میٹا تجزیہ]] غیر ملکی زبان کی مہارتوں کے لیے **40 مطالعات** کو بہت مختلف ٹیکنالوجیز پر یکجا کرتا ہے، اور اوسط اپنے اندر کی کسی مخصوص مداخلت کو بیان نہیں کرتا۔
-
-## منسلک تصورات
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI کی معاونت والی تعلیمی تحقیق
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## منسلک مضامین
-- [[edurev-100741-tpack-genai-review]] — طالب علم کی سیکھنے میں GenAI کا TPACK نقطہ نظر سے منظم جائزہ
-- [[genai-meta-analysis-programming-learning]] — پروگرامنگ میں GenAI کے پیداواریت اور سیکھنے پر اثر کا میٹا تجزیہ
-- [[ai-vocational-education-training-review]] — پیشہ ورانہ تعلیم اور تربیت میں AI کا پہلا منظم جائزہ
-- [[ai-collaborative-learning-systematic-review]] — AI کی طاقت والی باہمی تعلیم کا PRISMA منظم جائزہ
-- [[genai-higher-education-systematic-review-2026]] — اعلیٰ تعلیم میں GenAI کا منظم جائزہ
-- [[zerkouk-comprehensive-review-its-2025]] — ذہین ٹیوٹرنگ نظاموں کا جامع منظم جائزہ
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT اور تنقیدی/تخلیقی سوچ کا منظم جائزہ
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 میں AI کے لیے ثبوت کی بنیاد
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI خواندگی کے مداخلات کے اثرات کا میٹا تجزیہ
-- [[genai-writing-performance-meta-analysis-2026]] — GenAI کی معاونت والی L2 تحریر کا میٹا تجزیہ: ایک بڑا یکجا شدہ اثر جسے شدید متغیریت اور معیار سے چلنے والا موڈریٹر کمزور کرتا ہے
-- [[ai-literacy-heptagon-2026]] — AI خواندگی کے جہتوں کا تالیفی ادبی جائزہ (PRISMA کی رہنمائی والا)
-- [[genai-scenario-based-healthcare-education-2026]] — منظرنامے کی بنیاد پر صحت کی دیکھ بھال کی تعلیم میں GenAI کا منظم جائزہ (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS + SAMR سے 22 AI انضمام مطالعات کی درجہ بندی کرنے والا نقشہ سازی جائزہ؛ بیشتر Substitution/Augmentation پر
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی اقدار اور اصول
-- [[li-language-educators-genai-review-2026]] — زبان کے اساتذہ کے GenAI کے ساتھ طریقے اور ترقی
-- [[dabaghi-ai-dyslexia-education-review-2026]] — تعلیم میں ڈسلیکسیا والے لوگوں کی مدد کے لیے AI
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — تعلیم میں ChatGPT: ایک اثر جو وجہ کی تلاش میں ہے (میڈیا موازنے کی تنقید)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — میٹا میٹا تجزیہ: تعصب کے بعد ایڈجسٹ AI اثرات بتائی گئی مقدار کا تقریباً 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — مفروضہ مؤثر: 14 AIED میٹا تجزیوں کا فرانزک آڈٹ
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI پر مبنی تدریس میں استاد کی مداخلت: ایک منظم جائزہ
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — غیر ملکی زبان کی مہارتوں کے لیے ڈیجیٹل اور AI ٹولز کا میٹا تجزیہ: ڈیزائن کا موڈریٹر نیم تجرباتی اثر کے تخمینوں کو دوگنے سے زیادہ کر دیتا ہے
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — اعلیٰ تعلیم میں GenAI کا میٹا تجزیہ: قلیل مدتی مداخلتوں کے اثرات مدت بڑھنے کے ساتھ ڈھیر ہو جاتے ہیں
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI تعلیم کا میٹا تجزیہ: بڑا اثر، بے اثر موڈریٹر، اور پیمائش سے منسوب متغیریت
-- [[yalcin-genai-programming-education-systematic-review-2026]] — پروگرامنگ کی تعلیم میں GenAI کا منظم جائزہ: 46 میں سے 26 مطالعات میں پتلی تدریسی رپورٹنگ
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 مطالعات کا اسکوپنگ جائزہ جو اعلیٰ تعلیم میں GenAI، علمی منتقلی اور سیکھنے والے کی ایجنسی کا نقشہ بناتا ہے
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — جنریٹو مصنوعی ذہانت کے سیکھنے، علمی اور لسانی نتائج پر اثرات کا میٹا تجزیہ
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — علمی تحریر میں جنریٹو AI کا ذمہ دار طالب علم استعمال: حدود، تعلیمی طریقوں اور ثبوت کے خلا کا اسکوپنگ جائزہ
-- [[kim-ai-embodied-learning-review-2026]] — جسمانی سیکھنے میں AI زیادہ تر مشاہدہ کرتا ہے: کوڈ شدہ کردار ٹیگز کا 62.5% حسی کردار، اور کسی جائزہ شدہ نظام نے سیکھنے والوں کے استعمال کے دوران ملٹی موڈل ندیاں یکجا نہیں کیں (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — چار مطالعات اپنانے کا فیصلہ کیوں نہیں اٹھا سکتے

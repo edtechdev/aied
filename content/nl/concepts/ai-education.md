@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -189,60 +191,3 @@ AI in het onderwijs verbindt met elk concept in de kennisbank — het is het vak
 **„Omdat AI algemeen inzetbaar is, geldt een bevinding overal."** Algemeenheid van de technologie schept geen algemeenheid van het bewijs. De stromen discipline, niveau en context bestaan omdat dezelfde tool zich daar anders gedraagt, en een ongewijzigde bevinding over een grens heen is een extrapolatie.
 
 **„De volwassenheid van het vakgebied valt af te lezen uit het publicatievolume."** Volume en volwassenheid lopen uiteen; de stroom onderzoeksmethoden documenteert terugkerende ontwerpzwaktes die volume niet verhelpt, en kaders vermenigvuldigen sneller dan ze worden getest.
-
-## Verbonden concepten
-
-- [[primary-education]] — AI in het basisonderwijs
-- [[secondary-education]] — AI in het voortgezet onderwijs
-- [[undergraduate-education]] — AI in bacheloropleidingen
-- [[graduate-education]] — AI in master- en doctoraalopleidingen
-- [[pedagogical-patterns]] — De geteste sequenties die de pedagogieën van het vakgebied operationeel maken
-- [[ai-literacy]] — overkoepeling: AI begrijpen, gebruiken en evalueren
-
-- [[automation-bias]] — de lezerskant van de fout: een geautomatiseerd oordeel accepteren zonder het te controleren
-- [[human-ai-collaboration]] — overkoepeling: hoe mensen en AI samenwerken
-- [[pedagogy]] — overkoepeling: onderwijsmethoden en strategieën
-- [[case-based-learning]] — Casusmethode, casusbespreking en contrasterende casussen
-- [[metaphors-and-analogies]] — Hoe metaforen het begrip van AI vormen en hoe analogieën onderwijs ondersteunen
-- [[learning-theories]] — overkoepeling: hoe leren gebeurt
-- [[ai-technologies]] — overkoepeling: modellen, technieken en systemen
-- [[discipline-specific-aied]] — overkoepeling: AI over vakgebieden en niveaus
-- [[assessment]] — overkoepeling: hoe AI leerlingen beoordeelt en validiteit hervormt
-- [[feedback]] — overkoepeling: hoe feedback wordt gegenereerd, afgeleverd en gebruikt
-- [[stakeholders]] — overkoepeling: wie de actoren zijn
-- [[learners]] — overkoepeling: de leerlinggerichte concepten (ervaring, identiteit, agency, interactie, leerlingmodellen)
-- [[ai-ed-evaluation]] — overkoepeling: hoe we weten of AI werkt
-- [[research-methods-aied]] — overkoepeling: methoden van effectiviteitsonderzoek
-- [[ai-assisted-educational-research]] — AI-ondersteund educatief onderzoek
-- [[governance]] — overkoepeling: de institutionele en regelgevende laag
-- [[educational-policy-ai]] — overkoepeling: beleid, begeleiding en implementatie
-- [[equity-in-ai-education]] — overkoepeling: eerlijkheid, toegang en inclusie
-- [[learning-sciences]] — het empirische veld achter AIED
-- [[ethics]] — de ethische dimensies van AI in het onderwijs
-- [[misconceptions]] — de mentale modellen die mensen naar AI meebrengen
-- [[interpreting-and-applying-aied-research]] — een studie lezen, en een bevinding in de praktijk brengen
-- [[limitations-in-aied-research]] — allesomvattende grenzen van de kennisbasis
-- [[meta-analysis-systematic-review]] — wat de reviews en meta-analyses vaststellen
-- [[history-of-aied]] — hoe het vakgebied evolueerde
-- [[philosophy-of-ai-in-education]] — de filosofische grondslagen
-- [[theories-and-frameworks]] — de kaart van theorie- en frameworkknopen
-- [[theory-development-aied]] — theorie bouwen en herzien
-
-- [[sensor-and-gaze-analytics]] — overkoepeling: leerlingen waarnemen via blik, EEG en draagbare signalen
-- [[ai-avatars-and-synthetic-instructors]] — overkoepeling: synthetische mensen die onderwijzen, tutoren, simuleren en beoordelen
-- [[civic-and-political-education]] — vakgebied: geletterdheid voor het publieke leven, met een dunne bewijsbasis
-
-## Verbonden artikelen
-
-Veldbrede reviews van AI in het onderwijs — de studies die het hele vakgebied of een heel onderwijsniveau onderzoeken in plaats van één onderwerp:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — De evolutie van AI-en-onderwijsonderzoek over vier decennia (AIxEd-framework)
-- [[mishra-control-vs-agency-history-2025]] — Controle versus agency: een geschiedenis van AI in het onderwijs
-- [[genai-higher-education-systematic-review-2026]] — Generatieve AI in het hoger onderwijs: systematisch review van 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — De kennisbasis over AI in K-12: 52 sterke causale studies uit 1.686 repositorypapers (update november 2026)
-- [[genai-educational-outcomes-meta-analysis]] — Generatieve AI en educatieve uitkomsten: uitgebreide meta-analyse
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 studies in het voortgezet onderwijs; winst waar studenten output beoordelen, niet waar de tool het werk produceert
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 masterstudenten; gereedheid bereikte zelfeffectiviteit via steun van de supervisor
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — review van 61 bronnen over ethiek, feedback en governance bij doctoraatsbegeleiding
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — graduaatseminar met één groep; winst in zelfgericht leren zonder onbegeleide toets
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studenten; kloof tussen bachelor en master in ethiek en zelfregulatie

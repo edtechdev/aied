@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -61,22 +63,3 @@ Storytelling verbindet sich mit [[student-engagement|Engagement der Lernenden]],
 **„KI-Generierung macht Storytelling für Lernende verfügbar, die nicht schreiben könnten.“** Sie macht *das Herstellen eines schriftlichen Artefakts* verfügbar, was ein anderer Nutzen ist. Mündliches Erzählen, Zeichnen und Diktieren sind die etablierten Wege zum selben Ziel, und sie bewahren die Urheberschaft, die die Generierung entfernt.
 
 **„Der Bildungswert einer Geschichte liegt im polierten Ergebnis.“** Er liegt in der Konstruktion — der Auswahl und Anordnung, die eine erzählende Person vornimmt. Eine polierte Geschichte, die die lernende Person nicht strukturiert hat, belegt die Kompetenz des Modells und nicht die der Lernenden.
-
-## Verbundene Konzepte
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Verbundene Artikel
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
-- [[ai-generated-interactive-fiction-education-2026]] — KI-generierte interaktive Fiktion: Kohärenz als schwache Dimension in einer Pilotstudie mit 22 Studierenden
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — Bilderbucherstellung im Vorschulbereich, bei der Passung zur Geschichte und Plausibilität zu den Kriterien für die Beurteilung von KI-Bildern wurden (Konca & Yigit-Gencten, 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -86,38 +88,3 @@ Tożsamość uczącego się łączy się z [[agency|sprawczością]] (tożsamoś
 **„Wsparcie SI obniża bariery, a więc poszerza uczestnictwo".** Może obniżyć barierę produkowania pracy, jednocześnie zawężając barierę roszczenia sobie autorstwa. Student, który oddaje płynny artefakt, którego nie napisał, otrzymał dostęp do wyniku i odmówiono mu uznania, które buduje stojącą za nim tożsamość.
 
 **„Uznanie tożsamości uczącego się to kwestia reprezentacji w treści".** Reprezentacja ma znaczenie, a uznanie jest wykonywane w praktyce: czyje pytania są podejmowane, czyj wkład jest przypisywany i kto jest traktowany jako zdolny. [[curriculum-design|Program nauczania]] może być reprezentatywny i nadal odmawiać uznania, którego wymaga formowanie tożsamości.
-
-## Połączone koncepcje
-
-- [[learners]] — Uczący się: parasol dla koncepcji po stronie uczącego się
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Połączone artykuły
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 studentów studiów licencjackich o tym, co robią sami, i dlaczego cel rzadko o tym decyduje
-- [[guarded-adoption-genai-higher-education-2026]] — Ostrożna adopcja generatywnej SI w szkolnictwie wyższym
-- [[t2i-competence-paradox-2026]] — Paradoks kompetencji: tożsamość twórcza w korzystaniu z generatywnej SI tekst-na-obraz
-- [[shame-guilt-ai-regulation-computing-education]] — Wstyd i poczucie winy jako regulatory społeczne korzystania z SI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Zdolności adaptacyjne dla żywotnej tożsamości zawodowej w przyszłości z GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Symbioza pedagogiczna i postludzki uczący się
-- [[ai-pedagogical-accompaniment-amico]] — Wsparcie pedagogiczne oparte na SI wspierające tożsamość STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Projektowanie na rzecz oceniania autentycznego
-- [[paternalistic-filter-llm-history-education]] — Paternalistyczne korzystanie z SI a tożsamość studenta w edukacji historycznej
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generatywna SI jako kryzys tożsamości kadry (tożsamość nauczyciela)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Szkolenie nauczycieli oparte na TPK a tożsamość zawodowa
-- [[genai-professionalization-metaphors-2026]] — Konceptualizacje generatywnej SI a tożsamość zawodowa studentów
-
-- [[synthetic-position-self-authorship-2026]] — Zawieszenie autorskie: delegowane autorstwo jako jaźń gęsto wypowiedziana, lecz nieautorska (analiza koncepcyjna)
-- [[vibe-coding-design-diversity-2026]] — Jedno narzędzie, jeden smak? Jak vibe coding wymienia zbiorową różnorodność na indywidualną kreatywność

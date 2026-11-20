@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -74,28 +76,3 @@ AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[c
 - **"שפת היעד צריכה לשלוט מהיום הראשון."** ב**סקירה שיטתית של 24 מחקרים**, לומדים ביקשו **ביטויים מוקשרים והסברים בשפתם שלהם כגשר אל שפת היעד** — שימוש שהסוקרים מסווגים כאפשרות-משנה חדשה באמת ולא כפתרון עוקף. תמיכה בשפת הבית תפקדה כ[[scaffolding|פיגום]], לא כהימנעות.
 - **"הערכת שפה ב‑AI מוטה נגד כותבים רב-לשוניים."** כאן ההטיה עקבתה אחר **קו הבסיס האנושי ולא אחר המודל**: שיפוט משווה מבוסס‑LLM על **כתיבה אינפורמטיבית בכיתות ג-ו התכנס עם רוברים של חוקרים (r = .59-.73)** והראה את אותו דפוס שהראו המדרגים האנושיים. זו אינה ראיה להוגנות במונחים מוחלטים — היא ראיה שהמודל לא הוסיף עיוות חדש על גבי הקיים.
 - **"הפלט באיכות תרגום הוא החלק השימושי."** שימוש הגשר הוא הסברתי וממוקם, לא מחליפי. כלי שמחליף את ההפקה של הלומד עצמו מסיר את התרגול שהגשר נועד לאפשר.
-
-## מושגים מחוברים
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## מאמרים מחוברים
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — צ׳אטבוטים של GenAI מאפשרים טרנסלשונות, שימוש שכלי שפה קודמים לא תמכו בו
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics

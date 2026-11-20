@@ -24,6 +24,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -175,77 +177,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«التدريس الذكي تقنية ما قبل النماذج اللغوية الكبيرة استبدلتها النماذج.»** النسب متصل، ومساهمة أنظمة ITS هي ما يفتقده عصر النماذج اللغوية الكبيرة. فقد وفّرت ITS نموذج المتعلّم وقيود الواجهة وتقديرات التمكّن؛ والأنظمة الحديثة التي تضيف نموذجًا لغويًا كبيرًا إلى تلك المكونات تتفوّق على النموذج وحده، وهذا يجعل التخصص الأقدم مكوّنًا لا سلفًا.
 
 **«مدرّس الذكاء الاصطناعي نوع واحد من الأشياء.»** يمتد التدريس على طيف من شدة العلاقة، من توليد التلميحات إلى الحوار الممتد، واستنتاجات التصميم من نقطة على ذلك الطيف لا تنتقل إلى أخرى. فسؤال التصميم البيداغوجي هو دائمًا «أي نوع من التدريس، يؤدي أي مهمة» لا «هل التدريس بالذكاء الاصطناعي يعمل».
-
-## المفاهيم المرتبطة
-
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## المقالات المرتبطة
-
-- [[rho-disengaged-conversational-behaviors-2026]] — سلوكيات المحادثة المنفصلة والتعلّم في حوارات الطالب مع الذكاء الاصطناعي (Rho وآخرون 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — التدريس بالذكاء الاصطناعي يتجاوز التعلّم النشط داخل الصف: تجربة معشاة تُدخل تصميمًا بحثيًا جديدًا في وسط تعليمي أصيل (Kestin وآخرون 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقويم نظام متعدد الوكلاء مبني على نماذج اللغة الكبيرة وموجه بالسقالة لتدريب المقابلات الإكلينيكية
-- [[ko-hughes-vsd-student-centered-its-2026]] — التصميم الحساس للقيمة لأنظمة ITS متمركزة حول الطالب في رياضيات التطوير بكليات المجتمع
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — التخصص الدقيق القائم على الأوامر لمساعد تعليمي بالذكاء الاصطناعي (Basu وKakar وGoel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — التعميم المخادع: قد يُوقف الإتقان التكيفي الممارسة قبل أن يعرف المتعلّمون متى يمتنعون عن فعل (An وMcLaren وStamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — التدريس بالذكاء الاصطناعي ليس كتلة واحدة: ما نعرفه فعلًا (منشور Stanford SCALE/NSSA)
-- [[real-time-ai-feedback-technical-skills-2026]] — التغذية الراجعة بالذكاء الاصطناعي في الزمن الحقيقي لاكتساب المهارات التقنية في كليات تعليم ولاية Kwara: مدرس موضعي مؤطَّر كإعانة كوادر
-- [[mishra-control-vs-agency-history-2025]] — ينسب أنظمة ITS من أنظمة خبراء الستينيات والسبعينيات إلى المدرسين المعرفيين
-- [[making-ai-tutoring-productive-mastery-math-2026]] — جعل التدريس بالذكاء الاصطناعي مثمرًا: ممارسة رياضيات قائمة على الإتقان
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — على نقرة واحدة: Khanmigo في تجربة مدرسية على سنتين
-- [[yasir-llm-tutoring-agents-2026]] — تقييم وكلاء التغذية الراجعة لنماذج اللغة الكبيرة بأرض حقيقة من رسم المعرفة (Yasir وآخرون 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — مدرسو الذكاء الاصطناعي المصممون من المدرسين في تعليم اللغات الأجنبية الجامعي (نظرية تحديد الذات)
-- [[measuring-llm-tutors-teach-vs-solve]] — قياس ما إذا كان مدرسو نماذج اللغة الكبيرة يعلّمون أم يحلّون
-- [[ai-tutoring-quality-k12-methodologies-2026]] — منهجيات تحسين جودة التدريس بالذكاء الاصطناعي في تعليم K-12
-- [[zhang-tutormoments-2026]] — حين تكون المساعدة غير مفيدة: تقويم مدرسي الذكاء الاصطناعي على الصراع المنتج
-- [[graph-its-adaptive-algorithms-2026]] — التدريس الذكي القائم على الرسوم للمجالات الديناميكية (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — السقالة التكيفية بـICAP في نظام ITS (BKT مقابل DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — الذكاء الاصطناعي الخاص بالتعليم مقابل العام: أدلة على نواتج التعلّم الدائمة
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors والسلامة البيداغوجية
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — تدريس MathBuddy العاطفي للرياضيات
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — التعليم الافتراضي مع التعليم بمساعدة الحاسوب: تجربة في التبنٍ والتعلّم
-- [[learnlm-improving-gemini-learning]] — LearnLM: تحسين Gemini للتعلّم
-- [[teachlm-post-training-llms-education]] — TeachLM: تدريب نماذج اللغة الكبيرة لاحقًا ببيانات تعلّم أصيلة
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — تتبع المعرفة القائم على النواتج مع خرائط الأُلفة
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — تقويم التدريس بالذكاء الاصطناعي بسرعة الابتكار: تجارب مصغّرة معشاة يقودها الممارسون لمنصة تدريس بالذكاء الاصطناعي في علوم GCSE
-- [[misconception-acquisition-dynamics-llms-2026]] — نماذج مدرسة تكتسب كثيرًا من مفاهيم الطلاب الخاطئة دون فقد حلها الصحيح
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس بالذكاء الاصطناعي والتعليم البشري يُخرجان مكاسب تعلّم مكافئة في GRE
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — حواجز حماية أم حواجز طريق؟ آثار الأسلوب البيداغوجي والوعي بالسياق في مساعدي تعليم الذكاء الاصطناعي للبرمجة
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — تجربة معشاة متعددة المجالات لمدرس ذكاء اصطناعي مؤسَّس على المقرر ومدمج في نظام إدارة التعلّم: الدرجات النهائية أقل بـ0.37 انحراف معياري في عيّنة المطابقة التامة، ومشاركة المنصة أقل بـ0.90 انحراف معياري، بلا تكامل تعليمي (Liu وآخرون 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — تنوع كيفية حل مدرسي الذكاء الاصطناعي المرشدين لعطالات الطلاب، ولماذا يجب أن يتغير التصعيد مع العمق
-- [[lyu-data-driven-redesign-tutoring-2026]] — تقويم عملية إعادة تصميم مدفوعة بالبيانات لأنظمة التدريس الذكية: وقت أكثر إنتاجية على المهمة ومهارات متقنة، لكن دون فرق في مكسب التعلّم حين تكون جرعة الممارسة ضعيفة (Lyu وآخرون 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: إطار قائم على نظرية للتعلّم المتخصص طويل الأمد (Li وآخرون 2026)
-- [[alam-goblins-math-platform-2026]] — طرح رياضي بالذكاء الاصطناعي موسّط بالمدرسين على مستوى المقاطعة: إخلاص انخراظ ~51% وتدرج جرعة من 0.11 SD (مسألتان أسبوعيًا) إلى 0.31 SD (20+ أسبوعيًا)؛ ارتباطات استكشافية أكبر لطلاب IEP وEL والهيسبانيين
-- [[llm-tutors-process-synthesis-2026]] — هل تعلّم معلّو النماذج اللغوية فعلًا؟ تركيب متمركز حول السيرورة في حلقة التدريس
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: الكشف عن فجوات استجابة مدرّسي النماذج اللغوية الكبيرة في مسائل البرمجة متعددة الحلول (Cen & Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — دعم استدلال الطلاب أم استبداله؟ الإفراغ المعرفي في تعلّم البراهين بمساعدة الذكاء الاصطناعي (Chen وآخرون 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: تقويم مدرّسي النماذج اللغوية الكبيرة في التعامل مع طلاب ذوي سلوكيات صعبة (Park وآخرون 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — كاميرا على العمل اليدوي: الوصول البصري والإصلاح الاستباقي (Kotalwar وآخرون 2026)
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — غير أن النماذج الجاهزة قد لا توفّر ذلك الدليل: Worden وآخرون
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — مدرّس ذكاء اصطناعي متعدد المصادر للطلاب غير الناطقين بالإنجليزية
-- [[leite-its-k12-meta-analysis-2025]] — تحليل بعدي أمريكي لـK-12: 18 تجربة، g = 0.271، وما يعايرها (Leite وآخرون 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — تجربة عشوائية بريطانية موسّعة: مكاسب نقل قريب دون ميزة في الاختبارات المعيارية بعد 10 أسابيع (فريق LearnLM في Google وEedi 2026)

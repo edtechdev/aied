@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -64,7 +66,6 @@ ai_assist:
 
 وجدت مراجعة نطاق من 21 دراسة أن الأدلة غير متكافئة عبر الحضورات الثلاثة: فالحضور الاجتماعي دُرس في 13 دراسة، والمعرفي في 10، والتعليمي في 5 فقط، وكل دراسة للحضور التعليمي فحصته إلى جانب حضور آخر. وتجمّع الحضور المعرفي في الاستكشاف والتكامل، وكان الحلّ أقلّ وضوحاً، وارتبطت تصاميم المناقشة أو المهام بالحضور المعرفي بينما ارتبطت الوكلاء التربويون والتصاميم المعبّرة اجتماعياً بالحضور الاجتماعي ([[doo-genai-community-of-inquiry-scoping-review-2026|دو وبارك، 2026]]).
 
-
 تقف الآن أدلّة شبكية تجريبية تحت هذه الادّعاءات: ففي شبه تجربة حيث علّق 63 طالبًا جامعيًا صينيًا (33 مع، 30 بدون روبوت محادثة GPT-4o mini) قراءاتٍ مشتركة على CollaboRead عبر خمس مهام أسبوعية. أظهر [[network-analysis|تحليل الشبكة المعرفية]] الصفّ المساعد يربط الحضور الاجتماعي بالتكامل والحلّ بينما ربط الصفّ الضابط الحضور الاجتماعي بالإشعال والاستكشاف (محور X U = 25.00، p = 0.01، r = 1.00؛ محور Y U = 13.00، p = 1.00، r = 0.04). وكانت المشاركة المعرفية والعاطفية [[self-report-measures|المُبلَّغ عنها ذاتيًا]] أعلى في الصفّ المساعد. ثم تفصل الحضورات داخل الشرط لا بينها: فقد بادرت المجموعات عالية التحصيل بـ 1407 طلب تغذية راجعة عبر 2319 تعليقًا (60.7%) مقابل 737 عبر 2167 (34.0%) في المجموعة منخفضة التحصيل، التي بقيت في حلقة ذاتية الإحالة واستفادت من السقالة استفادةً ضعيفة.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 بدل أداة أو شريك حواري أو «حضور رابع» تخميني، يُفهم الذكاء الاصطناعي التوليدي أفضل ما يُفهم بوصفه **شرطًا معرفيًا** — أثرًا سائدًا يُعيد تشكيل كيف تُنفَّذ الحضورات وتُفسَّر وتُستدَلّ عليها وتُحكَم عبر المخرجات المرئية ومنطقات بيانات التدريب والخوارزمية والمنصّة غير المرئية على حدٍّ سواء.
@@ -86,32 +87,3 @@ ai_assist:
 **"الحضور موزّع بالتساوي على الدفعة."** إنه ينفصل *داخل* الشرط لا بين الشروط. ففي شبه تجربة مع **63 طالبًا صينيًا في المرحلة الجامعية (33 مع روبوت محادثة GPT-4o mini و30 دونه)** يعلّقون قراءات مشتركة عبر خمس مهام أسبوعية، تباعدت الحضورات بحسب تحصيل المجموعة: فالمجموعات عالية التحصيل بدأت **1407 طلبات تغذية راجعة عبر 2319 تعليقًا (60.7%)** مقابل **737 عبر 2167 (34.0%)** في المجموعات منخفضة التحصيل. فالوصول إلى الأداة ذاتها أعاد إنتاج فجوة قائمة في السلوك الاجتماعي الذي يقيسه الإطار.
 
 **"إضافة روبوت محادثة إلى مقرر إلكتروني تضيف حضورًا."** إنها تغيّر الخليط. وقيمة الإطار في ظل الذكاء الاصطناعي التوليدي أنه يجعل الاستبدال مرئيًا: فالحضور الذي يوفّره نموذج تهيئة مختلفة للمفهوم ذاته، وبيانات الدفعة تُظهر أن الاستبدال يثمر بشكل غير متساوٍ.
-
-## المفاهيم المرتبطة
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## المقالات المرتبطة
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — مراجعة نطاق من 21 دراسة: أدلة الحضور غير متكافئة، والحضور التعليمي الأقل دراسة، وتهيئة التصميم تفرز النواتج (دو وبارك 2026)
-
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
-- [[llm-facilitation-timing-online-discussions]] — ميسّرون بشريون مقابل نماذج لغوية كبيرة: النماذج تتدخّل بحماس أكبر من الخبراء البشر (تسيرمباس وآخرون 2026)
-

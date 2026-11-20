@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -87,43 +89,3 @@ ai_assist:
 - **「モデルは学習者の誤りを模擬できるのだから、診断もできる。」** ボトルネックはその逆です。モデルは**誤答選択肢のトレースの95.2%**で解を構築し、特定のEediの誤概念を**0.92の精度**で模擬しましたが、モデルを制限したのは誤りの模擬ではなく**正しい解を与えること**でした。もっともらしい誤答を生成することは、誤答を認識することより易しいのです。
 - **「診断には手作業で構築した誤概念カタログが必要である。」** 命題論理の形式化の正解と誤りの**6,106組**に対して、あるワークフローは**5,156組(84.44%)を説明する248の変換クラスタ**を発見し、参照セットの手選びの誤りによる**4,370組(71.57%)**と比較されました。発見は専門家のキュレーションに匹敵するかそれを上回り、様相論理にも転移しました。したがってカタログは出発点であり、上限ではありません。
 - **「診断は誤概念を名指ししてこそ有用である。」** 学習者がどのコース成果を達成したかを診断することは、成果を知識概念として扱い、専門家による検証済みの親和性マッピングを通じて概念間の関係を提供します。成果ベースのプログラムにとっては、粒度が粗くても、そちらの方が行動に移せる単位です。
-
-## 関連概念
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## 関連記事
-- [[llm-cognitive-diagnosis-handwritten-math]] — 手書きの数学からの認知的技能の診断におけるLLMのベンチマーク
-- [[correct-answer-trap-misconceptions]] — 正解の罠
-- [[llm-misconception-difficulty-easy-trap]] — Easy Trap。なぜLLMは誤概念に起因する難しさを過小評価するのか
-- [[llm-student-misconception-identification]] — 学生の誤概念のLLMによる特定
-- [[student-math-competence-clustering]] — 学生の数学的な能力のモデリングのためのクラスタリング
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — 明示的な問題解決者のモデリングのための認知的エージェントのコンパイル
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench。シミュレートされた学習者からの診断
-- [[huang-interpretable-knowledge-tracing-2026]] — 解釈可能な知識追跡
-- [[xie-hillm-cd-2026]] — HiLLM-CD。LLMの概念の木と階層的な熟達の推論
-- [[yasir-llm-tutoring-agents-2026]] — LLMの家庭教師における診断とフィードバックの切り離し
-- [[zhang-ct-ai-training-test-2026]] — AI訓練テストにおける計算論的思考（CTAT）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 個別化された学習経路のためのベイジアンな認知的診断
-- [[personalized-neural-cognitive-architecture-search-2026]] — 学習者のプロファイルのためのAutoMLによる個別化されたニューラルな認知的アーキテクチャ探索
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 親和性の対応づけによる成果に基づく知識追跡
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — プライバシーを保護する異質なマルチLLMの連合診断
-- [[llm-common-modeling-mistakes-formalisms-2026]] — LLMが生成しアルゴリズムによって検証された修正の変換を用いた、規模におけるよくあるモデリングの誤りの採掘（Killichら 2026）
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic。既存の物理学の概念目録から14の学習目標のDINAに基づく診断（Leら 2026）
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLMによる知識概念の注釈と較正された概念レベルの知識状態
-- [[llm-distractor-generation-student-reasoning-2026]] — 診断的な項目設計の課題としての誤概念に基づく妨害項
-- [[misconception-acquisition-dynamics-llms-2026]] — 誤りが解法に入り込む箇所が診断的な障害である
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support。STEM学習のための教育法に導かれた生成的ビデオ家庭教師
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn。人間とAIの共学習のループにおいてその学習者を学ぶエージェント的な家庭教師
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu。学習と教育のための開かれた基盤模型
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Rethinking Diagnostic Assessment Through Culturally Embedded AI for Meaningful Learning

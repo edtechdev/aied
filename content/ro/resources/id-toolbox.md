@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -36,7 +37,3 @@ ai_assist:
 
 ## De ce există
 Curt Zilbersher, care a proiectat training corporativ timp de douăzeci și opt de ani, descrie aceleași mici probleme nerezolvate care revin de-a lungul carierei sale — numărarea cuvintelor de narare, găsirea elementului care a împins un curs peste o limită a [[edtech-platform|LMS]]-ului, auditarea manuală a acoperirii subtitrărilor — și construiește remediile, dăruindu-le. Site-ul găzduiește și un sondaj anual gratuit despre cum își petrec de fapt săptămâna designerii instrucționali.
-
-## Concepte conexe
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

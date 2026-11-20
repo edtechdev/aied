@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -118,60 +120,3 @@ pedagogy: [tpack]
 - **«Сприйняття ШІ майбутніми викладачами — це єдина настанова.»** **128 майбутніх викладачів** були розподілені за чотирма групами сприйняття ChatGPT, включно з **«Опірливими скептиками» (14,06%), які повідомляли про високу сприйману легкість використання, але дуже низький поведінковий** намір. Легкість використання й намір розійшлися в цій групі, тож втручання, орієнтоване на [[usability-research|зручність]], залишило б їх незмінними.
 - **«ШІ допомагає майбутнім викладачам переважно зі знанням змісту.»** **Огляд з визначення обсягу 55 досліджень** виявляє, що ШІ посилює **проєктування навчального процесу, предметне викладання та практичне викладання** — здатності до дизайну й практики, а не експертизу в змісті.
 - **«Огляд з визначення обсягу 55 досліджень встановлює користь.»** Він документує, про що повідомляють у полі. Широта заявленого посилення — це твердження про консенсус літератури, і 55 досліджень в огляді з визначення обсягу не є узгодженим ефектом.
-
-## Пов’язані поняття
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — Освіта з хімії та ШІ: лабораторії, формативне оцінювання, межі LLM, філософія експериментування
-
-## Пов’язані статті
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — ШІ в підготовці викладачів: педагогічні рамки, емпіричні докази й етика, 2020-2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — Як керований професійний розвиток із генеративним ШІ підтримує залученість викладачів із математичною креативністю, предметним знанням та педагогічним предметним знанням
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Майбутні викладачі англійської створюють політики щодо ШІ в аудиторії: дозволене, обмежене та заборонене використання (Nash та Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 студентів-викладачів: поверхневе впровадження генеративного ШІ, тривожність щодо доброчесності та грамотність в оцінюванні, яка не переноситься
-- [[pishtari-teacher-ai-training-learning-design-2026]] — Підтримка чатбота ШІ та навчання в проєктуванні навчання викладачами
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Педагогічне знання про ШІ як пріоритетний важіль для професійного навчання викладачів (Shen та співавт. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Відповідальне використання генеративного ШІ майбутніми викладачами: наслідки для навчального плану (Kohnke та співавт. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Огляд з визначення обсягу ШІ в розвитку майбутніх викладачів
-- [[designing-ai-professional-development-itpack-2026]] — Рамка професійного розвитку на основі Intelligent-TPACK
-- [[human-centered-ai-teacher-educators-2026]] — Професійне навчання критичній ШІ-грамотності в педагогів-методистів
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK, специфічне для генеративного ШІ, у підготовці викладачів
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Знання викладачів про ШІ в плануванні уроків із генеративним ШІ
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Патерни взаємодії викладача зі ШІ залежно від педагогічного досвіду та майстерності в галузі ШІ в проєктуванні уроків (Choi та співавт. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Готовність майбутніх викладачів на основі Intelligent-TPACK
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK у підготовці викладачів математики
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Домен етики та довіра діючих викладачів
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Робототехніка на Micro:bit у початковій підготовці вчителів
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Автентичне оцінювання з опосередкованим ШІ в передпрофесійній освіті
-- [[science-educators-ai-literacy-postqualification-2026]] — ШІ-грамотність викладачів природничих наук та програми після отримання кваліфікації
-- [[context-based-ai-secondary-chemistry-2026]] — Контекстно орієнтована інструкція 7E + ШІ в хімії середньої школи
-- [[educasim-cs1-instructional-practice]] — EducaSim: інтерактивні симулякри для навчальної практики з CS1
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Профілі сприйняття ChatGPT майбутніми викладачами
-- [[motivation-shape-future-education-ai-switzerland-china]] — Мотивація формувати майбутнє освіти зі ШІ
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Кероване дослідження з підтримкою ШІ в підготовці викладачів природничих наук
-- [[reflective-triangle-model-teacher-ai-2026]] — Модель «Рефлексивного трикутника»: ШІ як когнітивний посередник
-- [[sahab-model-genai-constructivist-id-2026]] — Модель SAHAB: конструктивістське проєктування навчального процесу з генеративним ШІ
-- [[riandi-teacher-ai-green-energy-education-2026]] — Участь викладачів в інтеграції ШІ для освіти з зеленої енергетики (Riandi та співавт. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Поздовжнє використання генеративного ШІ, етика та політика в підготовці викладачів (Parker та співавт. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Модель розумної аудиторії та петля D-T-E, що покращують майстерність проєктування навчального процесу в магістерській програмі з математики (Zhu та співавт. 2026)
-- [[li-language-educators-genai-review-2026]] — Практики та розвиток викладачів мов із генеративним ШІ
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — Спільне оцінювання викладачами згенерованого ШІ контенту як професійний розвиток (Gat, Usher та Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Порівняння на кампусі та на відстані для 186 студентів-викладачів природничих наук: TPACK, пов’язаний зі ШІ, та рівні навчання
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — відстежує, як майбутні викладачі будують кордони зі ШІ в семестровій етнографії грамотності
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Неструктурований генеративний ШІ знизив якість планів уроків майбутніх викладачів нижче за клас без генеративного ШІ
-- [[capability-decision-model-teacher-readiness-2026]] — Вимірюйте здатність, а не впевненість
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Гейтагогічна дворівнева модель, що пов’язує власну рефлексивну регуляцію викладачів з агентністю здобувачів
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Викладачі K-12 вчаться читати первинні дослідження про ШІ та оспорювати районні мандати
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Pre-service teachers as the learners: groups that disagreed about energy made the AI a center of conceptual talk, groups that agreed treated it as a lookup and resented proactive nudges (Wang et al. 2026)
-- [[webb-pck-genai-2026]] — Why a model amplifies a novice's thin PCK, and why the remedy is collective rather than an AI-literacy module (Webb et al. 2026)

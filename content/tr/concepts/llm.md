@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -66,45 +68,3 @@ Varlık tanıma (NER) kodlama kanıtı, tek bir en iyi model yerine göreve bağ
 - **“Modelin ham yeteneği, hataları ne kadar iyi teşhis edebileceğini belirler.”** Bunu **temellendirme** belirler: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora ve MacLellan (2025)]], GPT-4’e öğretmen arayüzünün verilmesinin hata teşhisini **belirgin biçimde değiştirdiğini** göstermiştir. Modele öğrenenin bağlamı hakkında verilen şey, hangi model olduğundan daha fazla iş yapar.
 - **“Her öncü model bir [[pedagogical-agent|öğrenme ortağı]] olarak aynı davranır.”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ve Connell Pensky (2025)]], tam olarak bu aileler işbirlikçi olarak birbirinin yerine geçemediği için bir sınıf karşılaştırmasında **üç öncü aileyi** (ChatGPT, Gemini ve Claude) incelemiştir.
 - **“Daha iyi modeller daha az [[scaffolding|iskeleleme]] gerektiği anlamına gelir.”** GPT-4, **anlamsal olarak kesin ve yinelemeli biçimde birlikte inceltilmiş bir rubrikle** iskelelendiğinde [[design-based-research|tasarım temelli araştırmada]] insan [[evaluative-judgment|değerlendirici yargısına]] yaklaşabilmiştir. Yaklaşıklık, tek başına modelden değil, yinelemeler boyunca inceltilen rubrikten gelmiştir.
-
-## Bağlı kavramlar
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan tabanlı)
-
-## Bağlı makaleler
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — YZ tarafından üretilen sınavların kalitesinin değerlendirilmesi: geniş ölçekli bir alan çalışması
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — YZ çeşitli öğrenci profilleri için uygun destek sunabilir mi? Geniş ölçekli bir değerlendirme
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Yinelemeli pedagojik tasarımın ajanları olarak LLM’ler
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç tabanlı makine öğrenmesiyle madde güçlüğünün tahmin edilmesi
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Veri Bilimi Derslerinde Öğrencilerin LLM Kullanımı ve YZ Üretimi Soru Güçlüğünün Sınırları
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Eğitim Diyaloglarının Denetlenebilir Kodlaması için İddia Temelli Şemalar
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — 11 LLM üzerinden yağcılık: YZ kullanıcıları insanlardan %49 daha fazla olumladı, güveni ve süregelen kullanımı artırdı

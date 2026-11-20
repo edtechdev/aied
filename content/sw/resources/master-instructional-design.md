@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -44,6 +45,3 @@ Ujuzi huu unasafirishwa na msaada wa vifaa: mawakala wawili wadogo, mmoja kwa ma
 ## Masharti na kanusho
 
 Leseni ni Creative Commons BY-NC-ND 4.0, na masharti yaliyoainishwa na mwandishi yanamuhimu kwa wasomaji wengi wa taasisi: masomo ya kibinafsi, yasiyo ya kibiashara na maendeleo ya kitaalamu yanakaribishwa, huku matumizi ya kibiashara, usambazaji upya na uwekaji chapa nyeupe yakihitaji leseni ya kibiashara. Hifadhi inaripoti 314 kati ya pointi 320 katika changamoto kumi zilizobuniwa na mwenyewe, ambayo ni tathmini ya mwandishi mwenyewe badala ya huru, na mwandishi huyo huu anauza ushauri na warsha kuhusu mfumo. Mradi unaelezewa kama juhudi ya kibinafsi isiyo na uhusiano na waajiri wake, na ahadi yake ya mwisho inatoka Aprili 2026.
-
-## Dhana Zilizounganishwa
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

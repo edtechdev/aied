@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -152,75 +154,3 @@ Kohorttimallista on käytännön esimerkki yliopistokirjastosta. [[jordan-facult
 **"Syyllisyys tekoälyn käytöstä osoittaa sääntöjen rikkomista."** Se seuraa salaamista eikä ilmoittamista: tekoälyn käytön rajoittaminen epämukavuuden vuoksi korreloi sen piilottamisen kanssa eikä kielletyn käyttäytymisen kanssa. Syyllisyyden lukeminen näytöksi väärinkäytöksestä tunnistaa siis sen lähteen väärin, ja sen käsitteleminen vaatimustenmukaisuussignaalina työntää käyttäytymisen entistä kauemmas näkyvistä.
 
 **"Matala kyselyn vastausaste tarkoittaa, ettei opettajilla ole vahvoja tunteita."** Artikkeli lukee **109 vastaustaan (3,5 prosentin vastausaste)** itsessään kertovaksi eettisen keskustelun tilasta: matala vastausaste epämukavuutta koskevaan kysymykseen on löydös tuosta epämukavuudesta eikä sen puuttumisesta. Ja pelkäksi osaamisen päivittämiseksi kehystetty generatiivisen tekoälyn integraatio ohittaa identiteettikysymyksen, jota osa opettajista todella esittää: mitä järkeä opettamisessa on generatiivisen tekoälyn maailmassa.
-
-## Liittyvät käsitteet
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-- [[metaphors-and-analogies]] — metaforan esiin nostaminen ja analogian suunnittelu opettajakunnan kehittämisessä
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - katto: ihmiset ja yleisöt tekoälykoulutuksessa (oppijat, opettajat, suunnittelijat, hallinnoijat, päättäjät)
-
-## Liittyvät artikkelit
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Kehotteesta käytäntöön: opettajakeskeinen aloite tekoälytuetun OER-tuotannon tutkimiseen (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kriittinen diskurssianalyysi generatiivisen tekoälyn linjausohjeista: kehittäjät uudelleenkehystettyinä teknologiakouluttajiksi
-- [[crompton-faculty-technology-integration-standards-2026]] — Opettajastandardit teknologian integroinnille (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Tekoälyn eettiset ulottuvuudet: opettajien ja opiskelijoiden näkemykset
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Miten insinöörialan opettajien metaforat rakentavat (ja rajoittavat) tekoälyn ymmärtämistä
-- [[fear-awe-genai-metaphor-workshops-2025]] — Pelko ja kunnioitus: generatiivisen tekoälyn ymmärtäminen metaforien kautta (opettajien, henkilökunnan ja opiskelijoiden metaforatyöpaja)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — neljä kriteeriä ja neljä metaforaa kriittisen tekoälylukutaidon opettamiseen
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Näkymättömän hallinta: kieltenopettajien tekoälylukutaito
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generatiivinen tekoäly identiteettikriisinä, ei taitoaukkona
-- [[zuo-instructor-power-genai-writing-2026]] — Yliopisto-opettajien kokemat valtasuhteet heidän painiskellessaan generatiivisen tekoälyn kanssa kirjoittamisessa (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle -malli: tekoäly kognitiivisena välittäjänä
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Opettajien itse koettu TPACK-21-tietämys generatiivisesta tekoälystä (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-ammatillinen kehittäminen: osallistuminen ennustaa kehitystä, itse koettu osallistuminen ei
-- [[instructional-design-proficiency-masters-math-2026]] — Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Yliopisto-opettajien kokemukset ja käsitykset generatiivisesta tekoälystä: haavoittuvuus, arvioinnin uudelleenajattelu, uhattu opiskelijoiden oppiminen (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Pelosta innovaatioon: kuuden viikon opettajainstituutti, symbioottinen pedagogiikka ja institutionaaliset edellytykset, joita se ei voinut tarjota
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Tekoälysyyllisyyden kompleksi: ennakoiva syyllisyys, salaaminen ja uravaiheiden erot akateemisessa henkilöstössä (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U:n ja Elonin kysely 1 057 yhdysvaltalaiselle opettajalle: institutionaalinen valmistautumattomuus, ohut hallinto ja 87 %:n ja 48 %:n politiikkakuilu (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akateemiset kehittäjät digitaalisina välittäjinä eteläisen pallonpuoliskon korkeakoulutuksessa: kehittäminen sosioteknisenä praxiksena
-- [[physics-faculty-learning-community-ai-2026]] — Työpajasarja tekoälyn tehokkaasta käytöstä epävarmoina aikoina: fysiikan opettajien oppimisyhteisön rakentaminen
-- [[faculty-ai-well-being-social-supports-2026]] — Opettajien tekoälyhyvinvointi seuraa tekoälylukutaitoa eikä teknologista itsetehokkuutta
-- [[ai-competence-framework-landscape-2026]] — Tarkista, mitä viitekehyksen tasot kuvaavat, ennen kuin otat sen käyttöön
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — voiko koulutus asettaa tekoälyagendan? Simuloitu innovaatio ja pedagoginen suunnannäyttö opettajankoulutuksessa
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 kemian opettajaa kuusiviikkoisessa ohjelmassa
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Yli 150 kieltenopettajaa 28 maasta 20 viikon ajan
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2 159 skandinaavista opettajaa; 0,20 SD:n nousu koetuissa hyödyissä
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 opettajaa GenAI-oppimisohjelman jälkeen, tarpeiden välittäessä sitoutumista
-- [[bodek-prompted-to-explore-microlearning-2026]] — mikro-oppimisen malli opettajakunnan kehittämiseen generatiivista tekoälyä varten
-- [[bursic-ai-residency-education-curriculum-2026]] — tekoälyresidenssi lääketieteen koulutuksessa
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 resurssia; kasvattajien kehittäminen yhtenä neljästä teemasta
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 opettajaa pyytämässä entisten opettajien vetämää kehittämistä
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % päivittää nykyisen henkilöstön ja opettajakunnan osaamista
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 kasvattajaa legitimoimassa varjotekoälyä ohjauksen puuttuessa
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — kyvykkyyskuilut ohjaamassa opettajakunnan kehittämistä ja rekrytointipäätöksiä
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — toistuva kehittäminen yhtenä viidestä tukikerroksesta
-- [[chen-future-faculty-development-ai-2027]] — Seitsemän opettajaroolia, kaksi yleistä perustaa ja opetustiimi kehittämisen yksikkönä
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Harkintatila, dialoginen tutkinta ja kolmisarakkeinen auditointi siitä, mihin harkinta on siirtynyt työkalulle
-- [[jiang-faculty-development-japan-2027]] — Japanin kaksiraiteinen FD: osallistuminen nousi, kollegiaaliset formaatit eivät
-- [[tian-transnational-faculty-development-governance-2027]] — Ylikansallinen opettajakunnan kehittäminen: yhteydet ovat episodisia, koordinointi on työ
-- [[ho-invariant-core-faculty-development-2027]] — Muuttumaton ydin, muuttuva reuna: oppimisen mekanismi ennen teknologiaa

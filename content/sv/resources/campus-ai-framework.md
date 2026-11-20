@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -42,10 +43,3 @@ Ledningsgrupper, prorektorer och CIO:er som avgör vad som ska stödjas; AI-ansv
 ## Anteckningar och förbehåll
 
 Ramverket och webbplatsen är licensierade under **CC BY-NC-SA 4.0**, så anpassning är tillåten för icke-kommersiellt bruk med angivande av källa och samma licens; webbplatsen tillhandahåller sin egen föreslagna källhänvisning. Dess överensstämmelse med OECD, NIST, ISO/IEC 42001, EU:s AI-förordning, FERPA och HIPAA är utgivarens egen jämförelse och bör läsas som sådan. Systerwebbplatserna är separata projekt, flera av samma författare, och är värda att känna som en uppsättning: [Campus AI Exchange](https://www.campusaiexchange.com/) är navet, med [interaktiva kartor](https://www.campusaiexchange.com/ai-policies-guidelines-map) över lärosätens AI-policyer och klassrumsvägledning, [självbedömning av AI-styrning](https://www.campusaiexchange.com/ai-governance-assessment), kartor över datastyrning och AI-positioner samt ett resursbibliotek. Runt det ligger [campusaigovernance.com](https://campusaigovernance.com/) (nio domäner för AI-styrning), [campusairisks.com](https://campusairisks.com/) (NIST:s ramverk för AI-riskhantering tillämpat på dessa domäner), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), en [mall för AI-införandeplan](https://unit-ai-adoption-plan.netlify.app/) på enhetsnivå och en briefing om [agentisk AI för ledningsgrupper](https://campusaiframework.com/sites). Den strategiska kompassen cirkulerar också som ett delat Google-dokument, vilket kräver ett Google-konto för att öppnas. En kort frivillig onboardingsfråga om roll och lärosäte visas vid inträde; e-post är frivilligt och hela webbplatsen går att läsa utan den.
-
-## Anslutna begrepp
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

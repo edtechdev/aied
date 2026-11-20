@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -72,7 +74,6 @@ ai_assist:
 3. **স্বয়ংক্রিয় কোডিং বৈধতা-যাচাই করুন।** বড় লগ-ডেটাসেটে [[llm|LLM]]-ভিত্তিক শ্রেণিবিন্যাস শক্তিশালী কিন্তু নেটওয়ার্ক-গঠন ব্যাখ্যার আগে মানুষ-কোডিংয়ের সঙ্গে মিলিয়ে দেখতে হবে (আন্তঃ-রেটার একমতি রিপোর্ট করুন)।
 4. **পার্থক্যের জন্য নকশা করুন।** নেটওয়ার্ক বিশ্লেষণ প্রায়ই দেখায় *একই* এআই সরঞ্জাম শিক্ষার্থী-উপদলে ভিন্ন মিথস্ক্রিয়া-নিদর্শন তৈরি করে — যা এক-মাপ-সবার-জন্য মূল্যায়নের বদলে অভিযোজনশীল নকশার পথ দেখায়।
 
-
 ## অনুকৃত সহযোগী সংলাপের ENA বৈধতা যাচাই
 
 - **অনুকৃত সংলাপের বৈধতা হিসেবে ENA।** Fang (2026) জ্ঞানতাত্ত্বিক নেটওয়ার্ক বিশ্লেষণ প্রয়োগ করে মূল্যায়ন করেন সূক্ষ্ম-সমন্বিত LLM এজেন্টরা বাস্তব সহযোগী [[problem-solving|সমস্যা-সমাধান]] সংলাপের গঠন পুনরুৎপাদন করে কি না। অনুকৃত সন্নিহিততা-ভেক্টরকে অভিজ্ঞতাভিত্তিক নেটওয়ার্কের সঙ্গে তুলনা করে তিনি 0.17 ENA-দূরত্ব রিপোর্ট করেন — শূন্য-বণ্টনের 95তম শতাংশিক প্রান্তসীমার ভেতরে, পারমিউটেশন p-মান 0.65 — যা [[quantitative-research|পরিমাণগত]] যাচাই হিসেবে বয়ানের উৎপাদনশীল [[simulation|অনুকরণের]] বিশ্বস্ততার প্রতি ENA-এর ক্ষমতা প্রদর্শন করে, শিক্ষা-গবেষণায় ENA/SNA/TNA-এর অন্যান্য প্রয়োগের পাশাপাশি।
@@ -82,28 +83,3 @@ ai_assist:
 - **"নেটওয়ার্ক বিশ্লেষণ নিরপেক্ষ, কারণ এটি গণনামূলক।"** **কোডিং ভিত্তি**: সব নেটওয়ার্ক-প্রকরণ কাঁচা ডেটা (উক্তি, ঘটনা, সম্পর্ক) নির্ভরযোগ্যভাবে পৃথক নোডে কোড করার ওপর নির্ভর করে, আর স্বয়ংক্রিয় কোডিং তার সংজ্ঞা তাদের কাছ থেকে পায় যারা সেগুলো ঠিক করেছে। [[visualization|ভিজ্যুয়ালাইজেশন]] একটি উদ্ভবশীল গঠনের মতো দেখায় অথচ তার নোডগুলো ব্যাখ্যামূলক পছন্দ।
 - **"নেটওয়ার্ক-গঠনের পরিবর্তন নিজেই স্বয়ংক্রিয়ভাবে শিখন-লাভ।"** **বিশ জন মিশ্র-শাস্ত্রের স্নাতকোত্তর শিক্ষার্থী** নিয়ে একটি কেস-আলোচনায় **আকার-3 ভাগকৃত-পদের অংশ 5.2% থেকে 8.0%-এ বেড়েছে** অথচ **বিষয়বস্তু-টোকেন পাঠ-পরবর্তী স্তরের প্রায় 0.65 গুণে নেমেছে**। দুটি গঠনগত পরিমাপ বিপরীত দিকে গেছে, তাই "নেটওয়ার্ক বদলেছে" কোনো ফলাফল নয় যতক্ষণ না আপনি বলবেন কোন পরিমাপে এবং কেন তা গুরুত্বপূর্ণ।
 - **"বেশি পদ ভাগ করা মানে ভালো সহযোগিতা।"** ভাগকৃত-পদের অংশ বাড়ার সঙ্গে বিষয়বস্তু-টোকেন বৈচিত্র্য কমা একটি ছোট শব্দভাণ্ডারে মিলে যাওয়ার সঙ্গে সঙ্গতিপূর্ণ। ঐকমত্য ও সংকীর্ণতা গঠনগতভাবে সদৃশ, তাই পরিমাপটির যে বিষয়বস্তু থেকে তা গণনা হয়েছে তা দরকার।
-
-## সংযুক্ত ধারণা
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## সংযুক্ত নিবন্ধ
-- [[caeai-response-length-ai-ethics-education-2026]] — উত্তর-দৈর্ঘ্য, আভিধানিক সামঞ্জস্য নয়, অংশগ্রহণকারী–মরফিম নেটওয়ার্কে ভাগকৃত-পদ পরিসংখ্যান চালায় (Shao প্রমুখ 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — স্ক্যাফোল্ডেড EFL লেখায় শিক্ষার্থী-চ্যাটবট মিথস্ক্রিয়ার TNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI-সাক্ষরতা মিথস্ক্রিয়া-নিদর্শনের ENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — মানব-এআই সহযোগী সমস্যা-সমাধানের ENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — সংজ্ঞানাত্মক অফলোডিং ও প্রম্পটিং (SNA/নেটওয়ার্ক পদ্ধতি)
-- [[youtube-frames-chatgpt-education]] — শিক্ষায় ChatGPT-এর YouTube ফ্রেমের ENA
-- [[agency-gap-ai-writing]] — এআই-সমর্থিত লেখায় এজেন্সি-ফাঁক (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — বিশ্বস্ততা-মেট্রিক কী মিস করে: কৃত্রিম শিক্ষাগত ডেটার একটি গঠনগত যাচাই
-- [[dang-human-ai-collaboration-competency-2026]] — ENA শিক্ষকদের দক্ষতা-আলাপও মানচিত্রায়িত করে

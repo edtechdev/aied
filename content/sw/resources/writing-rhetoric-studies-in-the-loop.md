@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,6 +44,3 @@ Utangulizi wa mkusanyiko unafafanua ilani kama aina ya sanaa ya habari yenye mas
 ## Cha kujua kabla ya kuitumia
 
 Kitabu chote kinapatikana bila malipo katika PDF na ePub, na sura binafsi zinachapishwa kando na DOI zao wenyewe. Uchapishaji ni Julai 2026 na WAC Clearinghouse katika mfululizo wake wa WAC Repository, kurasa 402, kimehaririwa na Anuj Gupta na Brian Gogan, na DOI ya mkusanyiko ni 10.37514/TWR-B.2026.2999. Leseni ni Creative Commons BY-NC-ND 4.0, hivyo wasomaji wanaweza kutazama, kuchapisha nakala za kibinafsi na kuunganisha na kitabu, lakini hawawezi kuirudia katika tovuti nyingine au kuibadilisha bila ruhusa; kozi inayotaka maneno ya ilani yaliyobadilishwa inapaswa kuandika toleo lake mwenyewe badala ya kuchapisha tena hivi. Ilani ya kila sura ilipimwa katika majukwaa, hata kama kitabu hakiripoti ulinganisho wowote uliodhibitiwa wa matokeo, hivyo itendee ilani kama ubuni wa wataalam badala ya uingiliaji uliyothibitishwa.
-
-## Dhana Zilizounganishwa
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

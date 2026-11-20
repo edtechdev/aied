@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -41,7 +42,3 @@ Het richt zich op individuele docenten en studenten, die het zonder institutione
 ## Opmerkingen en kanttekeningen
 
 Gratis geldt voor de werkstromen van een individuele klas; institutionele prijzen bestaan afzonderlijk en hangen samen met de omvang van de implementatie, dataverwerking, ondersteuning en compliance, niet met een bedrag per student of per docent. Omdat een verslag een proces toont en geen bedoeling, is kopiëren en plakken op zichzelf geen wangedrag — de eigen richtlijnen van het project zeggen dat een student de eigen eerdere tekst kan plakken, en dat studenten niet alleen om het plakken mogen worden bestraft. De adoptiecijfers en de beoordeling van 5,0 in de Chrome Web Store zijn marketing van het project zelf; reviews in een extensiestore zijn geen onafhankelijk bewijs van leeruitkomsten. Lees de verslagen als bewijs voor een gesprek, want zo is het hulpmiddel ontworpen en zo beschrijft de ontwikkelaar het.
-
-## Gerelateerde concepten
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

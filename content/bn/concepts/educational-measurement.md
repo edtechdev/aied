@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -113,7 +115,6 @@ ai_assist:
 - **অ-আত্ম-প্রতিবেদন পরিমাপই সঠিকটি নয়।** 51টি একই-নির্মিতি জোড়ার দুই-পর্যায়ের পর্যালোচনায় 41.2% অসঙ্গত বা মিশ্র সিদ্ধান্তে পৌঁছেছে, এবং যুক্তি দেয় পরীক্ষা, রেটিং ও চিহ্ন ভিন্নধর্মী, কোনো মানদণ্ড-মান নয়, প্রত্যেকের নিজস্ব বৈধতা-যুক্তি দরকার ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan প্রমুখ (2026)]])।
 - **বৈধতা — ভুল জিনিস পরিমাপ।** বৈধতা জিজ্ঞাসা করে সরঞ্জামটি কি দাবি করা নির্মিতি পরিমাপ করে। সাধারণ ব্যর্থতার মধ্যে আছে **নির্মিতির নিম্ন-প্রতিনিধিত্ব** (একটি এআই-সাক্ষরতা পরীক্ষা যা কেবল কারিগরি জ্ঞান নমুনা করে, নীতিশাস্ত্র বাদ দেয়) এবং **নির্মিতি-অপ্রাসঙ্গিক ভেদাঙ্ক** (এমন আইটেম যা লক্ষ্য দক্ষতার বদলে পঠন-সাবলীলতাকে পুরস্কৃত করে)। [[ai-scoring-language-bias-physics|এআই স্কোরিং ও ভাষা-পক্ষপাত]] দেখায় কীভাবে পৃষ্ঠ-বৈশিষ্ট্য — ভাষা, শব্দচয়ন, ধরন — স্বয়ংক্রিয় স্কোরকে অভীষ্ট নির্মিতির সঙ্গে অসম্পর্কিতভাবে চালিত করতে পারে। [[assessment-validity]] এই হুমকিগুলোর বিরুদ্ধে রক্ষাকবচ।
 
-
 - **একটি স্কেল অভীষ্ট সংখ্যক ফ্যাক্টর ফেরাতে পারে, অভীষ্ট নির্মিতি পরিমাপ না করে।** [[ai-empathy-scale-psychometric-evaluation-2026|Kang, Lee ও Kang (2026)]] 42-আইটেম এআই সহানুভূতি স্কেল থেকে ছয়টি ফ্যাক্টর রাখেন, কিন্তু আইটেমগুলো ছয়টি অভীষ্ট উপ-ফ্যাক্টর পুনরুদ্ধার করেনি — Prosocial Intention কোনো ফ্যাক্টর গঠন করেনি — তাই কাঠামোটি সাময়িক হিসেবে উপস্থাপিত।
 - **আত্ম-প্রতিবেদনের ব্যবধান।** আত্ম-প্রতিবেদন পরিমাপ *অনুভূত* দক্ষতা ধারণ করে, প্রকৃত দক্ষতা নয়। জ্ঞানভাণ্ডার বারবার দেখায় আত্ম-প্রতিবেদিত এআই সাক্ষরতা কর্মক্ষমতা-ভিত্তিক পরিমাপ থেকে তীক্ষ্ণভাবে ভিন্ন ([[ai-literacy-assessment-misalignment]], শিক্ষকদের ~40% অতিরিক্ত-অনুমান) এবং আত্ম-প্রতিবেদন প্রকৃত এআই-সহায়ক কর্মক্ষমতা পূর্বানুমান করতে ব্যর্থ হয় যেখানে কর্মক্ষমতা-পরীক্ষা সফল ([[jin-glat-genai-literacy-assessment|GLAT]])। আত্ম-প্রতিবেদনের ওপর নির্ভর করা পরিমাপ পদ্ধতিগতভাবে নির্মিতিকে অতিরঞ্জিত করে প্রকৃত দক্ষতা-ব্যবধান লুকাতে পারে।
 - **পুলকৃত অনুমান ভঙ্গুর।** কেবল একই-নমুনার আত্মগত–বস্তুনিষ্ঠ এআই-সাক্ষরতা সম্পর্ক পুল করা একটি 2026 কাঠামোবদ্ধ পর্যালোচনা (N = 2,765) দেয় r = .055 (Hartung-Knapp 95% CI [−.047, .156]); k = 3-এ, ভিন্নতা-অনুমানকারীদের মতবিরোধ এবং একটি গবেষণার 77.2% ওজন বহন করায় এটি কোনো দক্ষতা-সীমা নির্ধারণ করতে পারে না ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]])।
@@ -127,7 +128,6 @@ ai_assist:
 
 সংক্ষেপে, শিক্ষামূলক পরিমাপ যা নমুনা করে না তা **মিস** করতে পারে (প্রক্রিয়া, স্থায়িত্ব, প্রবেশাধিকার, আবেগ) এবং যা দুর্বলভাবে নমুনা করে তা **ভুল** করতে পারে (আত্ম-উপলব্ধি, পৃষ্ঠ-বৈশিষ্ট্য, আন্তঃ-জনসংখ্যা নির্মিতি)। তাই শিক্ষায়-এআই ফলাফল পড়তে শুধু *কী* পরিমাপ হয়েছে তা নয়, *কীভাবে* — এবং সরঞ্জামটি কী ধরে নিতে ব্যর্থ হতে পারে তা জিজ্ঞাসা করতে হয়।
 
-
 - **নিরীক্ষাযোগ্য কোডিং সংজ্ঞাগত ত্রুটিকে মডেল-ত্রুটি থেকে আলাদা করে।** EduBehaviors একটি নির্মিতিকে আলাদাভাবে টীকাকৃত পর্যবেক্ষণযোগ্য আচরণ এবং একটি স্পষ্ট সমষ্টিকরণ-নিয়মে বিভক্ত করে, যাতে একজন পর্যালোচক দেখতে পারেন কোন প্রমাণ একটি লেবেল তৈরি করেছে এবং নতুন মডেল-কল ছাড়াই নিয়ম বদলের পর লেবেল পুনরুদ্ধার করতে পারেন; এটি Teacher TalkMoves-এ macro-F1 0.673-এ পৌঁছেছে, সরাসরি [[llm|LLM]] প্রম্পটিংয়ের সঙ্গে প্রতিযোগিতামূলক ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado প্রমুখ, 2026]])।
 
 ## সংযোগ
@@ -140,70 +140,3 @@ ai_assist:
 - **"মডেল প্রশ্নের কাঠিন্য অনুমান করতে পারে।"** চারটি ফ্রন্টিয়ার মডেল **2,548টি গণিত প্রশ্নে IRT ভূ-সত্যের** বিপরীতে স্কোর করা হয়: তারা **আপেক্ষিক কাঠিন্যে 68.6%**-এ পৌঁছে কিন্তু পরম ক্রমাঙ্কনে **সুযোগের নিচে** নেমে যায়। র‍্যাংকিং ও ক্রমাঙ্কন আলাদা সামর্থ্য, এবং মূল্যায়ন-নকশার প্রয়োজন দ্বিতীয়টি।
 - **"শ্রেণিবিন্যাসমূলক লেবেল একটি প্রশ্ন কত কঠিন তা পূর্বানুমান করে।"** **265টি গণিত প্রশ্ন** জুড়ে, অভীষ্ট ব্লুম স্তর **কাঠিন্যের ভেদাঙ্কের 5%-এরও কম** ব্যাখ্যা করেছে। ব্লুম স্তর দিয়ে একটি প্রশ্ন লেবেল করলে তার অভিজ্ঞতাভিত্তিক কাঠিন্য সম্পর্কে প্রায় কিছুই জানা যায় না।
 - **"প্রশ্নের গুণ তার শব্দচয়ন থেকে বিচার করা হয়।"** **উৎপন্ন প্রশ্ন শব্দচয়নে নয়, সমাধান-পথে বিচার করুন**: প্রতিটি প্রশ্নের **যাচাইকৃত যুক্তি-বৃক্ষ** এনকোড করলে দ্বিতীয়-সেরা পদ্ধতির চেয়ে একটি ব্যবধানে উন্নতি হয়। সংকেত বহন করেছিল যুক্তি-কাঠামো, পৃষ্ঠ-পাঠ নয়।
-
-## সংযুক্ত ধারণা
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — এআই-সহায়ক শিক্ষা গবেষণা
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## সংযুক্ত নিবন্ধ
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]]
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]]
-- [[jin-glat-genai-literacy-assessment]]
-- [[icap-cognitive-engagement-llm-agents]]
-- [[roe-assessment-twins-2026]]
-- [[ai-literacy-heptagon-2026]]
-- [[ai-literacy-assessment-misalignment]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[acceptance-ai-english-tools-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[multimodal-item-parameter-estimation-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[ai-writes-code-student-writes-model-2026]]
-- [[assessing-student-drive-framework-2025]]
-- [[xiong-ai-educational-measurement-review-2026]]
-- [[questionnaire-teachers-genai-uses-validation-2026]]
-- [[personalized-neural-cognitive-architecture-search-2026]]
-- [[razavi-powers-item-difficulty-llm-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]]
-- [[proiqa-math-item-quality-assessment-2026]]
-- [[competent-generative-ai-use-measures-review-2026]]
-- [[bayesian-consensus-irt-item-banks-2026]]
-- [[el-salvador-ai-tutoring-selection-claim-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]]
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]]
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]]
-- [[mental-health-literacy-students-llms-2026]]
-- [[studentbench-ai-human-tutoring-gre-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]]
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]]
-- [[synthetic-educational-data-structural-fidelity-2026]]
-
-- [[ai-empathy-scale-psychometric-evaluation-2026]]
-- [[genai-srl-l2-writing-scale-2026]]
-- [[bloom-taxonomy-llm-item-classification-2026]]
-- [[llm-benchmark-secondary-science-topics-2026]]
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]]
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]]
-- [[chang-ai-cognitive-offloading-scale-2026]] — এআই সংজ্ঞানাত্মক অফলোডিং স্কেলের বৈধকরণ, এবং যে বৈধতা-যাচাইগুলো তা বাদ দেয়

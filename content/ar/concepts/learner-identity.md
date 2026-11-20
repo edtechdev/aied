@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T06:32:21-05:00"
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -91,39 +93,3 @@ updated: "2026-11-08T06:32:21-05:00"
 **«مساعدة الذكاء الاصطناعي تخفض الحواجز ومن ثمّ توسّع المشاركة.»** قد تخفض الحاجز إلى إنتاج العمل بينما تُضيّق الحاجز إلى ادّعاء التأليف. فالطالب الذي يقدّم أثرًا فصيحًا لم يؤلفه قد أُعطي وصولًا إلى النتيجة وسُلِب التقدير الذي يبني الهوية خلفها.
 
 **«الاعتراف بهوية المتعلّم مسألة تمثيل في المحتوى.»** التمثيل مهم، والتقدير يُنفَّذ في الممارسة: أسئلة من تُلتقط، ومساهمة من تُنسب، ومن يُعامَل بوصفه قادرًا. فقد يكون [[curriculum-design|المنهج]] تمثيليًا ومع ذلك يحجب التقدير الذي يتطلّبه تكوين الهوية.
-
-## المفاهيم المتصلة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## المقالات المتصلة
-
-- [[guarded-adoption-genai-higher-education-2026]] — التبني الحَذِر للذكاء الاصطناعي التوليدي في التعليم العالي
-- [[t2i-competence-paradox-2026]] — مفارقة الكفاءة: الهوية الإبداعية في استخدام الذكاء الاصطناعي التوليدي من النص إلى الصورة
-- [[shame-guilt-ai-regulation-computing-education]] — الخجل والذنب بوصفهما منظّمين اجتماعيين لاستخدام الذكاء الاصطناعي
-- [[lodge-adaptive-capabilities-genai-future-2026]] — القدرات التكيفية لهوية مهنية قابلة للاستدامة في مستقبل للذكاء الاصطناعي التوليدي
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — التعاضد التربوي والمتعلّم ما بعد الإنساني
-- [[ai-pedagogical-accompaniment-amico]] — الرفقة التربوية المُمكَّنة بالذكاء الاصطناعي تدعم هوية العلوم والتقنية والهندسة والرياضيات
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — التصميم للتقويم الأصيل
-- [[paternalistic-filter-llm-history-education]] — الاستخدام الأبوي للذكاء الاصطناعي وهوية الطالب في تعليم التاريخ
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — الذكاء الاصطناعي التوليدي بوصفه أزمة هوية لأعضاء الهيئة التدريسية (هوية المعلّم)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — تدريب المدرّسين القائم على المعرفة التربوية التقنية والهوية المهنية
-- [[genai-professionalization-metaphors-2026]] — تصورات الذكاء الاصطناعي التوليدي وهوية الطالب المهنية
-
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (تحليل مفاهيمي)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 طالبًا جامعيًا عن ما يواصلون فعله بأنفسهم، ولماذا نادرًا ما يحسم الغرض ذلك

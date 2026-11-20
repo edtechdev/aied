@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -80,29 +82,3 @@ AI in VET에서 독특한 것은 부문이 원한다고 말하는 것과 실제�
 **"학습자는 실습 훈련에서 AI에 과잉 의존할 것이다."** 시험 적용 증거는 반대를 가리킵니다. 탐색적 시험(**N = 30**, 이탈리아와 중국, **경계 지어진 20회 세션**)에서 참가자들은 시스템을 경계 지어진 지원 도구로 다루었고, **대체나 의존에 대한 기대는 보고되지 않았습니다**. 탐색적이고 규모가 작지만, 직업교육 학습자가 도구를 권위가 아니라 장비로 틀 짓는다는 점은 설계에서 활용할 자원임을 시사합니다.
 
 **"시뮬레이션 과제에 대한 학습자 승인은 그것이 옳은 것을 평가했다는 뜻이다."** **조사된 학습자 33명 가운데 21명(64%)**이 음성 과제가 현실적이라고 동의했고 같은 비율이 자신이 아는 것을 전달하는 명확한 방법을 주었다고 말했으며, 실시간 발화가 이 [[authentic-assessment|실제적 평가]]에 더 맞는다는 데 반대한 사람은 없었습니다. 현실성과 소통 명료성은 알아 둘 가치가 있지만 타당성은 아닙니다. 과제는 실제적으로 느껴지면서도 그것이 대신하는 직업 수행을 표집하지 못할 수 있습니다.
-
-## 연결된 개념
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## 연결된 문서
-
-- [[ai-vocational-education-training-review]] — AI in VET의 첫 체계적 검토: 목적, 이론, 실증적 효과
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: 몰입적 프로젝트 기반 학습과 설계 창의성
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: TVET에서의 오프라인 AI 지원 구어 평가
-- [[ai-pedagogical-accompaniment-amico]] — Amico 이중 양태 원형: 설계 원칙과 관찰 가능한 지표
-- [[ai-autonomous-learning-accomplishment-2026]] — hardiness가 매개하는 AI 지원 자율 학습과 감소된 성취
-- [[astra-atco-training-simulator]] — 확장 가능한 ATCO 훈련을 위한 자율 sim-pilots
-- [[crewscaler-ai-upskilling-framework]] — 신속한 전문적 역량 향상을 위한 AI 가속 종단간 체계
-- [[genai-xr-architectural-design-education-2026]] — 반례: 설계 자기효능감 저하를 동반한 GenAI + 다중 사용자 XR
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 적응적 CTE 교육과정 갱신: 다섯 차원과 여섯 리더십 시험
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — 직업 대학에서 제도적 지렛대로서의 지각된 ICT 지원

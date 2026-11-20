@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -133,67 +135,3 @@ O încadrare strâns înrudită este **agentivitatea epistemică relațională**
 - **„Studenții își exercită agentivitatea când folosesc liber IA.”** O **schemă cu 14 categorii care a codificat 6.788 de replici asistate de ChatGPT** a plasat **59% dintre replicile elevilor de clasa a șaptea** în categorii care nu reprezintă utilizare agentică. Volumul utilizării și agentivitatea sunt măsuri diferite.
 - **„Modelele actuale sprijină bine agentivitatea învățăcelului.”** **Evaluate comparativ pe zece modele, sprijinirea agentivității este domeniul în care se descurcă cel mai rău după învățare**: ImpactBench a măsurat **Agentivitatea și Scopul la 56,0%** pe criteriile pozitive. Agentivitatea este dimensiunea pe care sistemele de IA o gestionează cel mai slab, iar nu un produs secundar al capacității.
 - **„Medierea profesorului este o constrângere asupra agentivității.”** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] a urmărit **zece profesori de matematică din secundar pe parcursul unei intervenții de opt săptămâni cu ChatGPT-4**, iar medierea este mecanismul, nu obstacolul.
-
-## Concepte conexe
-- [[learners]] — Cursanții: umbrela pentru conceptele din partea celui care învață
-- [[pedagogical-partnerships]] — Parteneriate pedagogice
-- [[learner-identity]] — identități de învățăcel disciplinare, profesionale, creative și academice în evoluție
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — direcția comună a interacțiunii mediate de IA
-- [[agentic-ai]] — IA autonomă care poate redistribui agentivitatea în grupuri
-- [[chemistry-education]] — Educația chimiei și IA: laboratoare, evaluare formativă, limitele LLM, filosofia experimentului
-- [[social-emotional-learning]] — Învățare social-emoțională
-- [[cognitive-surrender]]
-
-## Articole conexe
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Un sondaj național reprezentativ al profesorilor și directorilor din SUA despre acoperirea politicilor de IA, agentivitate și cinci scenete de clasă (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — O mână de ajutor sau un partener dominant? Percepții individuale despre dependența de GenAI și agentivitatea umană în învățarea colaborativă
-- [[yan-agentivism-learning-theory-ai-2026]] — O teorie de nivel mediu a învățării pentru interacțiunea om-IA, cu patru mecanisme și șase propoziții testabile (Yan și Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Agentivitatea învățăcelului ca calitate emergentă a coordonării competențelor de domeniu, IA și metacognitive, nu ca nod de sine stătător (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Acces la alegere versus agentivitate pusă în act: glisoare, un agent IA opțional și învățarea într-o simulare de stol
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agenți de IA, evaluare bucuroasă și al treilea spațiu
-- [[ai-mediated-research-agency-formation-2026]] — Formarea agentivității în cercetare mediată de IA în pregătirea științifică la început de carieră
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descărcare cognitivă sensibilă la strat în scrierea asistată de GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Educația școlară cu IA îngustează decalajele psihologice, dar nu pe cele cognitive de pregătire
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Agentivitate epistemică relațională și șase criterii care separă dependența productivă de cea dăunătoare (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Acompaniament pedagogic cu IA care sprijină identitatea STEM
-- [[t2i-competence-paradox-2026]] — Paradoxul competenței: identitatea creativă în utilizarea GenAI text-la-imagine
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Agentivitatea emergentă a învățăcelului în colaborarea implicită om-IA: persoane de sprijin versus contrariene
-- [[de-barba-srl-genai-2026]] — Agentivitatea învățăcelului la mai multe scări: reglare, integrare, poziționare
-- [[mishra-control-vs-agency-history-2025]] — Control versus agentivitate ca tensiune esențială în istoria AIED
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Autonomia și agentivitatea umană în HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Favorizează agentivitatea studenților în munca relevantă pentru învățare
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agentivitatea profesorului în formare în timpul interacțiunilor cu GenAI în designul pentru învățare (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Viziune emancipatoare: agentivitatea ca joc cu sumă nulă față de agentivitatea instrumentului
-- [[chen-zou-genai-group-assessment-agency-2026]] — Trei tipare de agentivitate în evaluarea de grup mediată de GenAI: intensificată, reținută și nepusă în act
-- [[ai-integrated-teaching-identity-tensions]] — Selectivitatea principială ca agentivitate a profesorului în predarea integrată cu IA (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refuzul ca dovadă diagnostică: nefolosirea ca relație situată și dreptul inegal de a refuza IA (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — autoritate epistemică afirmată prin întrerupere, corectare și refuz, iar nu prin utilizare maximală a instrumentului
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competență versus agentivitate ca scopuri ale educației cu IA și euristica agentivității informate în IA (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Medierea profesorului ca condiție care menține GenAI un artefact pentru critică, iar nu o autoritate (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Agentivitatea profesorului ca resursă mobilizată prin design, cu pregătirea judecată după artefacte, iar nu după utilizare (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Echilibrarea agentivității profesorului și a studentului în instrumentele de co-orchestrare pentru formarea dinamică a perechilor în timp real (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Matricea Autorității Interpretative și Modelul Integrării Ecologice a Autorității: patru configurații ale cine interpretează și straturile ecologice care le deplasează
-- [[gyekye-selves-apprenticeship-2026]] — Studenți de culoare în programe de ucenicie și-au construit sinele prin IA prin refuz, negociere și recunoaștere („platitudine culturală”); Alfabetizare Instituțională în IA și Lățime de Recunoaștere
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Agentivitate epistemică partajată în 6.788 de replici asistate de ChatGPT de scriere științifică în secundar (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Proprietatea percepută a scăzut doar acolo unde a fost delegat întregul eseu; utilizatorii pentru planificare și revizuire i-au egalat pe neutilizatori (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

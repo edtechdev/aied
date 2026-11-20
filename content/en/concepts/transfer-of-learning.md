@@ -9,6 +9,8 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 > **Transfer of Learning** — the extent to which knowledge or skills acquired in one context (e.g., practice with an AI tool) persist and apply in a different context (e.g., independent performance without the tool). In [[ai-education|AI in education]], transfer is the central open question: whether performance gains students show *with* AI tools translate into durable learning they can demonstrate *without* them.
@@ -25,7 +27,6 @@ reviewed_by: [editor]
 ## Introduction
 
 Transfer of learning is a foundational concern in education [[research-methods-aied|research]], and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition|metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
-
 
 Readiness is not transfer: AI-assisted spoken practice was associated with lower speaking [[anxiety-and-stress|anxiety]] and higher willingness to communicate with humans, yet neither study observed human speaking, leaving the route from AI rehearsal to human communicative ability an untested pedagogical proposal ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
@@ -58,7 +59,6 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 **Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties|desirable difficulties]] principle in reverse.
 
 **Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
-
 
 A protected classroom can also teach the wrong habit: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] warn that [[simulation|simulations]] with rules fixed in advance filter out uncertainty and reinforce rule-following, so decision habits formed inside them can become a cognitive liability once students meet competing interests and incomplete information in real settings.
 **Layer-sensitive offloading and transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] directly tests Salomon, Perkins & Globerson's "effects with vs. effects of technology" distinction in [[generative-ai|GenAI]]-assisted writing: an eight-week quasi-experiment found open AI collaboration maximized supported-writing performance but produced the *lowest* independent no-AI near-transfer outcomes, while bounded support with reflection preserved independent competence. Deeper offloading layers (reasoning, structure) predicted worse transfer than surface layers (grammar). This is direct classroom evidence that AI's *with*-support performance gains do not transfer to *of*-support independent performance — and that the depth of delegation, not just whether AI is used, shapes transfer.
@@ -103,36 +103,3 @@ Transfer of learning connects to [[metacognition|metacognition]] (self-monitorin
 **"Transfer comes from more capable models."** Transfer comes from conditions that produce it — the generality of the practice, the variability of the contexts, and the extent to which the learner generated the reasoning themselves. Model capability raises the ceiling on assisted performance and does nothing in particular for what remains when the model is gone.
 
 **"Guidance always supports transfer, so more guidance is better."** Guidance that performs the reasoning substitutes for the process transfer depends on. The distinction is between help that keeps the learner generating the next step and help that generates it for them — and only the first is on the transfer side of that line.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — The outcome most of these sequences are ultimately judged on
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-
-## Connected Articles
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
-- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive washout: the post-withdrawal interval and a 22-week measurement protocol (Yajee 2026)

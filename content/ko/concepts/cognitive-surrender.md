@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -84,7 +86,6 @@ ai_assist:
 - **모형 자신의 기여.** [[sycophantic-ai-social-interaction-2026|아부성]]은 항복의 보완물입니다. 동의하고, 사용자의 틀로서 몸을 숙이거나, 주장을 유창하게 진술하는 보조자는 학습자에게 밀어붙일 거리를 아무것도 주지 않습니다.
 - **철회는 해결되지 않은 절반입니다.** [[cognitive-washout-ai-skill-decay-2026|인지적 쇠퇴에 관한 연구]]는 이 연구의 거의 전부가 AI 사용 *중*의 인지를 측정하고, 보조자가 제거된 뒤에 무슨 일이 일어나는지는 거의 측정하지 않는다고 지적합니다. 그것은 바로 시험이나 정전, 자격 검토가 던지는 질문입니다.
 
-
 - **"에세이 전체 위탁은 실험실 밖에서는 가설에 머문다."** 정책도 장려도 없는 한 회기 온라인 연구에서 그것은 실제로 일어났습니다. 대학 글쓰기 학습자 **77명** 가운데 **15명(19.5%)**이 편집기에서 한 글자도 입력하지 않고 모델이 **100%** 작성한 에세이를 제출했으며, **20명**은 완전한 에세이를 곧바로 요청했는데 이는 그 계획에서 가장 많이 쓰인 코드였습니다. 가장 많이 쓴 참가자는 **27개**의 질의를 제출했습니다. [[jelson-students-chatgpt-essay-writing-2026|항복은 하나의 탐지 가능한 행위가 아니라 요청 패턴으로 나타났습니다]].
 
 ## 항복에 맞서 설계하고 가르치기
@@ -113,37 +114,3 @@ ai_assist:
 **"항복은 오류에서 비롯되므로 더 나은 AI가 해법이다."** 항복은 상호작용의 *구조*에서 비롯됩니다. 그럴듯한 답을 먼저 산출하는 시스템은 학습자가 자신의 답을 생성할 계기를 제거합니다. 정확도를 개선하는 것은 틀린 답의 피해를 줄일 뿐, 판단 형성의 포기를 건드리지 못하며, 바로 그 피해가 도구가 사라진 뒤에도 남습니다.
 
 **"비판적 평가를 가르치는 것으로 충분하다."** 그것은 필요하지만 너무 늦게 도착합니다. 그럴듯한 답이 화면에 올라오면 평가는 확인이 됩니다. 그래서 이 분야의 설계 문헌은 시스템의 산출물을 사후에 감사하는 대신 학생의 시도를 산출물보다 앞에 둡니다.
-
-## 연결된 개념
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## 연결된 문서
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory와 항복의 실험적 서명
-- [[generative-ai-reduced-study-time-math]] — ALEKS에서의 인구 규모 대체
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12의 항복/과도 의존/행위성 틀
-- [[du-yuan-epistemic-dependence-2026]] — 도구적 대 판단을 담은 지원
-- [[ai-advice-suppresses-ikt-suspension-2026]] — "모른다"의 붕괴
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 신경적 참여와 소유권
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 생각 없는 사용과 자기주도 학습
-- [[stamatoulis-genai-use-patterns-2026]] — 저검증 수용 대 평가적 통합
-- [[cognitive-washout-ai-skill-decay-2026]] — 철회 후에 무슨 일이 일어나는가
-- [[ai-overreliance-complex-adaptive-system-2026]] — 인구 과정으로서의 의존
-- [[brcic-effortless-trap-productive-struggle-2026]] — 과제가 힘겹게 남도록 AI를 배치하기
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — 조정 훈련
-- [[family-school-autonomy-support-genai-2026]] — 의존적 대 자율적 과도 의존
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 학습지에 근거한 보조자가 과도 의존을 높이지 않고 낮춘 사례로, 항복 서명의 경계 조건(Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — 자연적 에세이 전체 위탁: 77편 중 15편이 전부 모델 작성, 완전한 에세이 요청 20건(Jelson et al. 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -70,33 +72,3 @@ ai_assist:
 - **"도입 수치는 준비도를 측정한다."** 선언된 사용과 거버넌스가 작동하는 사용은 서로 다른 양이며, 이 페이지의 근거는 그 둘을 구분합니다. 기관의 약 절반이 전략적 의도를 보고하지만 리더십 역량은 10분의 1에 못 미칩니다. 교직원이 AI를 사용한다는 설문 결과는 개인이 허락 없이 이미 해 온 일을 알려줄 뿐, 기관이 무엇을 지원하고 감독할 수 있는지는 알려주지 않습니다.
 - **"조달은 행정적 절차에 불과하다."** 역량을 직접 구축하지 않고 구매할 때에는 계약 조건이 나중에 무엇이 가능한지를 결정합니다. 데이터 소유권, 감사 접근권, 그리고 그 도구를 평가할 수 있는지 여부가 여기에 해당합니다. 구매 업무로 처리된 공급업체 결정은 기관이 아직 던지지 않은 평가 질문들을 미리 닫아 버립니다.
 - **"거버넌스는 도입을 뒤따를 수 있다."** 순서에 관한 이런 주장은 흔하지만 이 페이지의 근거는 이를 뒷받침하지 않습니다. 근거는 정반대의 양상을 기록하며, 정책과 리더십 구조가 이미 진행 중인 사용을 뒤쫓고 있습니다. 배포 이후에 구축할 것으로 설정된 거버넌스는 협상력이 더 적은 위치에서 세워지는 거버넌스입니다.
-
-## 연결된 개념
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — 관리자가 운영하는 기관적 과정: 상담, 외부 연계, 의뢰, 배분
-
-## 연결된 문서
-
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 교육 리더십에서의 AI: 포괄적 분류 체계
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI를 위한 예측적 거버넌스와 리더십
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 고등교육에서 AI 도입의 조직적 동인과 혁신 속성 탐구
-- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책과 기관 의사결정 속의 AI
-- [[ai-campus-wellbeing-tools]] — 캠퍼스 웰빙을 위한 AI 기반 도구
-- [[genai-policies-higher-ed-computing]] — 컴퓨팅 분야의 기관 차원 생성형 AI 정책
-- [[institutional-change-framework-ai]] — AI를 위한 기관 변화 틀
-- [[edtech-privacy-deferral-2026]] — "나중에 고치면 돼요": 에듀테크에서 교육, AI, 그리고 학생 프라이버시 문제의 미루기
-- [[students-at-stake-ai-deployment-risks-2026]] — 학생의 권리로 규정된 네 가지 질문의 조달 심사 기준 (위험 관리가 아니라)

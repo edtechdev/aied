@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -118,24 +120,3 @@ Favero 等人（2025）警告，与 AI 辅导者的情感[[student-engagement|�
 **“从面部检测情绪的辅导者知道学生的状态。”** 情感是被推断的，不是被观察的，而推断恰在风险最高处最弱。[[ecnuclaw-k12-personalized-companion|Zhou、Li 与 Zhang（2026）]]在一个五维学习者画像中维持一个情感维度，却用关键词词典填充它，因此一个用词典未收录的词语表达挫败的学生根本不会被画像，而该画像也未与专家判断验证过。面部捕获还增加了一条连续视频流与一种文本推断所没有的隐私暴露。
 
 **“在不同时刻取得的情感测量可以互换。”** [[epistemic-emotions-collaborative-problem-solving|Anindho 等（2026）]]发现有序情感表现出短程持续性与方向性转换，而探测捕获的报告，即围绕好奇与困惑的自环，是与自捕获的报告（挫败与惊讶）不同的测量。把两者平均成一个汇总频次，就丢弃了承载信号的序列。
-
-## 关联概念
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## 关联文章
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — 人们认为 AI 能提供共情时就会卸下共情（Shastry 与 Gray 2026）

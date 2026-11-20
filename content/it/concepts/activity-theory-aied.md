@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -92,28 +94,3 @@ Per progettisti ed educatori, la teoria dell'attività consiglia di guardare olt
 **"Se cambi le convinzioni del docente, la pratica seguirà."** L'unità del cambiamento è più grande della persona. Gli interventi che alterano norme, distribuzione del carico di lavoro e regole condivise cambiano la pratica in modo più affidabile di quelli mirati alla convinzione individuale, perché l'oggetto dell'attività è prodotto collettivamente. Questo spiega anche perché gli adottanti individualmente entusiasti tornano indietro quando il loro dipartimento non si muove con loro.
 
 **"La teoria dell'attività è una lente descrittiva senza conseguenze progettuali."** Orienta la progettazione verso le contraddizioni tra gli elementi del sistema — lo strumento che confligge con le regole, la divisione del lavoro che confligge con l'oggetto — ed è lì che il cambiamento viene effettivamente fatto leva. Una lente che localizza le contraddizioni ti sta dando un luogo dove intervenire, non soltanto un vocabolario.
-
-## Concetti collegati
-- [[sociocultural-learning]] — la famiglia teorica a cui la teoria dell'attività appartiene (vygotskiana, culturale-storica)
-- [[learning-theories]] — l'hub che situa la teoria dell'attività tra le teorie dell'apprendimento
-- [[distributed-cognition]] — enfasi condivisa sulla cognizione mediata da strumenti e distribuita contestualmente
-- [[situated-learning]] — enfasi condivisa sul contesto e la partecipazione all'attività
-- [[agency]] — come l'IA ridistribuisce l'agentività umana nel sistema di attività
-- [[teacher-role]] — la teoria dell'attività analizza frequentemente l'adozione e la pratica dei docenti
-- [[learning-analytics]] — la CHAT ancora la progettazione degli analytics
-- [[generative-ai]] — l'artefatto di IA che entra nei sistemi di attività educativa e li perturba
-- [[technology-acceptance-model]] — il resoconto individuale contrastante dell'adozione
-
-## Articoli collegati
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
-- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
-
-- [[llm-family-education-activity-theory-2026]] — Revisione di scoping di 53 studi HCI: gli LLM hanno ridistribuito il lavoro educativo familiare, mentre le regole erano per lo più anticipate anziché attuate
-- [[generative-ai-mediational-agent-sociocultural-2026]] — La GenAI come agente mediatorio: né strumento né collaboratore
-

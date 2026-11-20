@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -67,44 +69,3 @@ ai_assist:
 - **"기관 AI 정책이 규칙이 사는 곳이다."** **미국 교수진 1,057명**을 대상으로 한 [[watson-rainie-ai-challenge-faculty-survey-2026|Watson과 Rainie(2026)]]의 조사는 실효 규칙이 제도 층위보다 얼마나 아래에 있는지 측정합니다. **응답자의 87%가 자신의 지침을 직접 작성**했습니다. 작동하는 정책은 대체로 교수진이 쓴 것이며, 이는 문서화된 제도 층위가 보이는 것보다 적게 기술한다는 뜻입니다.
 - **"정책을 쓰면 위험한 표면이 덮인다."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble(2026)]]은 평가 도구가 규제 대상에 속해야 하는 이유를 보여 줍니다. 레드팀 시험에서 제출물 안에 숨긴 **다섯 개의 간접 프롬프트 주입 가운데 두 개**가 성공했습니다. 도구는 지명하지만 주입 표면은 지명하지 않는 규칙은 그 취약점을 그대로 둡니다.
 - **"에이전트형 시스템은 기존 규칙을 확장하면 덮인다."** **12개 대학**의 문서 분석에서 [[wong-sun-agentic-ai-assessment-governance-2026|Wong과 Sun(2026)]]은 **학습관리시스템에 로그인하는 에이전트를 다룬 비교 대상이 없음**을 발견했습니다. 거버넌스 간극은 구조적입니다. 기존 범주에는 자격 증명을 지닌 자율 행위자를 넣을 자리가 없습니다.
-
-## 연결된 개념
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — 규제와 거버넌스가 불분명하거나 지나치게 포괄적일 때의 법적 노출
-
-## 연결된 문서
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책에서의 AI
-- [[oecd-digital-education-outlook-2026]] — OECD 디지털 교육 전망 2026
-- [[genai-declaration-frameworks-higher-education]] — AI 선언 체계
-- [[genai-assessment-governance]] — 생성형 AI 시대의 평가 거버넌스
-- [[league-ethical-governance-student-data-2026]] — 학생 데이터의 윤리적 거버넌스
-- [[student-regulatory-awareness-genai]] — 생성형 AI에 대한 학생의 규제 인식
-- [[dot-framework-survey-2026]] — 기술 수용 체계
-- [[raza-farooq-aied-review-2020-2025]] — AIED 연구에 대한 종합적 고찰
-- [[qian-governing-genai-higher-ed-policy-2026]] — 구속력 있는 정책이 아닌 지침: 혁신적인 미국 대학 50곳의 내부 AI 규칙(Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 다섯 차원으로 채점한 법학전문대학원 생성형 AI 정책: 기본적으로 금지적이며 교원 재량권과 주기적 검토를 갖춤(Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 금지와 그것이 유발할 수 있는 합리적 조정 의무(Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — 평가 규칙에서의 언어 배경: 평등의 문제로서의 지원–대체 경계(Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 채점자에 대한 프롬프트 인젝션 공격과 표준화된 회복탄력성 시험의 필요성(Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 거버넌스 개혁의 조건이 되는 외부 규제 압력(Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 빈약한 기관 정책 층위에 맞서 자신의 규칙을 작성하는 교수진의 87%(Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 교육, AI, 그리고 에듀테크에서 학생 프라이버시의 유예
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — 어떤 비교 정책도 AI 에이전트가 LMS에 로그인하거나 학생 자격 증명을 보유하는 경우를 다루지 않았다(Wong과 Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — 수직적 비번역: 주 규칙은 존재하지만 그 아래의 자금 제공자는 구속력 있는 수단을 발행하지 않는다(Chan 2026)

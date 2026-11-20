@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -42,6 +43,3 @@ Professores da educação básica que querem ouvir o raciocínio por trás de um
 ## Notas e ressalvas
 
 Toda afirmação de capacidade aqui é marketing do próprio fornecedor, incluindo "confiável em mais de 10.000 escolas no mundo", que um distrito deveria verificar em seu acordo de processamento de dados. O fornecedor declara que remove identificadores pessoais antes de enviar os trabalhos à OpenAI, sob um acordo de não retenção e não uso para treinamento, não mostra publicidade aos estudantes, nunca vende dados e detém as certificações iKeepSafe e Common Sense Privacy. A Snorkl também afirma com clareza que não atribui notas: ela pontua explicações segundo critérios definidos pelo professor como feedback formativo, e o professor mantém a correção. Trate esses julgamentos de IA como sinais formativos, sujeitos às questões usuais de validade e viés, e o compromisso ambiental como intenção declarada, não como compensação medida.
-
-## Conceitos conectados
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -75,31 +77,3 @@ ai_assist:
 - **"বিমূর্ত এআই-জ্ঞান শিক্ষকদের টেকসইতা শেখানোর সক্ষমতার পূর্বাভাস দেয়।"** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] দেখেন বিজ্ঞান ও সবুজ-শক্তি প্রেক্ষিতে শিক্ষকদের **এআই-এর ব্যবহারিক ব্যবহার** এবং **ESD-সামঞ্জস্যপূর্ণ উপাদান তৈরিতে তাদের সম্পৃক্ততা** — **বিমূর্ত এআই-জ্ঞান বা মনোভাবের চেয়ে বেশি** — তাদের সক্ষমতার পূর্বাভাস দেয়। এআই সম্পর্কে জানা আর তা দিয়ে বানাতে পারা আলাদা হয়ে গেছে, আর ব্যবহারিক পথ বেশি পূর্বাভাস দিয়েছে।
 - **"টেকসইতা-শিক্ষাদান-পদ্ধতির অধীনে এআই-সহায়ক শিক্ষাদান-নকশা টেকসইতা-শিক্ষাদান তৈরি করে।"** একই কাজ দেখে টেকসই উন্নয়ন শিক্ষাদান-পদ্ধতির অধীনে এআই-সহায়ক [[learning-design|শিক্ষাদান-নকশা]] নকশাকে বিস্তৃত না করে নির্দিষ্টভাবে **সীমিত** করে। চিরাচরিত উপাদানে প্রশিক্ষিত একটি মডেল চিরাচরিত কাঠামো পুনরুৎপাদন করে, যদি না নকশা-কাজ তা সংশোধন করে।
 - **"টেকসইতা একটি বিষয়, আড়াআড়ি প্রতিপাদ্য নয়।"** যেহেতু দুটি পথই স্তর জুড়ে চলে, টেকসইতা [[higher-ed|উচ্চশিক্ষা]], K-12 ও পেশাগত প্রেক্ষিতে দেখা যায় — যার মানে এটি একটি ভিত্তিমূলক প্রতিপাদ্য যা প্রতিটি শাখার ভেতরে সম্বোধন করতে হয়, আলাদা বিষয় হিসেবে পড়াতে নয়।
-
-## সংযুক্ত ধারণা
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — সুইডিশ সার্ভে ও ফোকাস-গ্রুপ গবেষণা, যুক্তি দেয় প্রতারণার কাঠামো নয়, অংশীদারত্ব-নীতিশাস্ত্রই প্রাতিষ্ঠানিক genAI সিদ্ধান্ত চালানো উচিত
-- [[daniel-ai-sustainability-scoping-review-2026]] — উচ্চশিক্ষায় টেকসইতার জন্য এআই ও টেকসই এআই নিয়ে স্কোপিং পর্যালোচনা
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — টেকসই শিক্ষা ও এআই-এর মূল্য-সমালোচনামূলক দৃষ্টিভঙ্গি
-- [[liu-ai-sustainable-engineering-education-2026]] — টেকসই প্রকৌশল শিক্ষার জন্য AI-SEE কাঠামো
-- [[riandi-teacher-ai-green-energy-education-2026]] — সবুজ শক্তি শিক্ষায় এআই-সংহতিতে শিক্ষকের সম্পৃক্ততা
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — টেকসই এআই জ্ঞানভাণ্ডার-সহায়ক
-- [[llm-environmental-impact-student-usage-2026]] — LLM ব্যবহারের পরিবেশগত প্রভাব
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — দৈহিক বুদ্ধিমত্তার মাধ্যমে টেকসই শেখা লালন
-- [[caruana-pre-university-ai-education-slr-2026]] — বিশ্ববিদ্যালয়-পূর্ব এআই শিক্ষার SLR (SDG 4 কাঠামো)

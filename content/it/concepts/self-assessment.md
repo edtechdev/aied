@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -110,35 +112,3 @@ Introduce anche un rischio di denominazione che vale la pena enunciare chiaramen
 **«Aggiungere un [[feedback|ciclo di feedback]] IA migliora automaticamente l'autovalutazione.»** Un ciclo di feedback cambia ciò contro cui lo studente confronta, il che può migliorare la calibrazione e può anche ancorarlo al giudizio del sistema. Lo studio comparativo qui (**118 studenti universitari del primo anno, 56 in un gruppo GenAI e 62 in un gruppo tra pari**, tre cicli lungo un semestre) è progettato proprio per verificare se faccia il lavoro il ciclo o il confronto sociale — e la risposta non è «il ciclo, per il fatto di essere un ciclo».
 
 **«L'autovalutazione è un'alternativa più morbida al test.»** È un bersaglio diverso. L'autovalutazione sviluppa l'abilità regolatoria di giudicare il proprio lavoro; un test misura la capacità che viene giudicata. Una ricerca che sostituisce l'una con l'altro confonde la capacità di valutare la prestazione con la prestazione stessa.
-
-## Concetti collegati
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-
-## Articoli collegati
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item AI literacy self-assessment questionnaire for Grades 4 to 6, with the metacognitive limits of child self-report (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 of 33 teacher AI literacy instruments are self-report, two test knowledge objectively, none use performance tasks (Zainal, Mohd Matore & Maat 2026)

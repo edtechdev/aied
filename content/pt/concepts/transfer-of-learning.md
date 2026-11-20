@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -39,7 +41,6 @@ ai_assist:
 ## Introdução
 
 A transferência da aprendizagem é uma preocupação fundacional na [[research-methods-aied|pesquisa]] em educação, e as ferramentas de IA a tornaram urgente. O padrão empírico definidor documentado ao longo dos estudos de IA em educação é um **paradoxo da transferência**: os estudantes que usam IA tipicamente mostram ganhos imediatos e mensuráveis nas tarefas em que a IA está disponível, mas esses ganhos frequentemente deixam de persistir — ou até se invertem — quando a IA é removida e os estudantes precisam demonstrar compreensão de forma independente. Esse padrão implica a [[cognitive-offloading|dependência excessiva]], a Teoria da Carga Cognitiva e a [[metacognition|metacognição]] como os mecanismos em ação, e se conecta diretamente aos debates sobre o desenho da [[intelligent-tutoring|tutoria por IA]].
-
 
 Prontidão não é transferência: a prática falada assistida por IA foi associada a menor [[anxiety-and-stress|ansiedade]] de falar e maior vontade de se comunicar com humanos, mas nenhum dos estudos observou a fala humana, deixando a rota do ensaio com IA para a capacidade comunicativa humana como uma proposta pedagógica não testada ([[ai-speaking-practice-communicative-readiness-2026|Wang e Li (2026)]]).
 
@@ -72,7 +73,6 @@ Os cinco estudos mostram um padrão de **transferência negativa ou nula** quand
 **Dependência excessiva / reversão de especialização.** Novatos que recebem respostas não constroem esquemas. A IA geral fornece respostas; a tutoria eficaz fornece orientação estruturada. Quando novatos recebem atalhos de nível especialista, a aprendizagem é rompida — o princípio das [[desirable-difficulties|dificuldades desejáveis]] às avessas.
 
 **Desempenho dependente da ferramenta.** Os estudantes podem otimizar para as affordances específicas da ferramenta de IA ([[prompt-engineering|prompt engineering]], dependência da estrutura de código gerada) em vez de construir generalização de domínio — uma forma de [[cognitive-offloading-speedup-illusion|descarregamento cognitivo]] que parece produtiva, mas desloca a aprendizagem durável.
-
 
 Uma sala de aula protegida também pode ensinar o hábito errado: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai e Zhang (2026)]] advertem que [[simulation|simulações]] com regras fixadas com antecedência filtram a incerteza e reforçam o seguimento de regras, portanto hábitos de decisão formados dentro delas podem se tornar um passivo cognitivo quando os estudantes encontram interesses concorrentes e informação incompleta em contextos reais.
 **Descarregamento sensível a camadas e transferência.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] testa diretamente a distinção de Salomon, Perkins e Globerson entre "efeitos com vs. efeitos da tecnologia" na escrita assistida por [[generative-ai|IA generativa]]: um quase-experimento de oito semanas concluiu que a colaboração aberta com IA maximizou o desempenho de escrita apoiada, mas produziu os *menores* desfechos de transferência próxima independentes sem IA, enquanto o apoio delimitado com reflexão preservou a competência independente. Camadas de descarregamento mais profundas (raciocínio, estrutura) previram pior transferência que as camadas de superfície (gramática). Essa é evidência direta de sala de aula de que os ganhos de desempenho de apoio *com* a IA não se transferem ao desempenho independente *de* apoio sem ela — e de que a profundidade da delegação, e não apenas se a IA é usada, modela a transferência.
@@ -116,36 +116,3 @@ A transferência da aprendizagem se conecta à [[metacognition|metacognição]] 
 **"A transferência vem de modelos mais capazes."** A transferência vem das condições que a produzem — a generalidade da prática, a variabilidade dos contextos e a medida em que o próprio aprendiz gerou o raciocínio. A capacidade do modelo eleva o teto do desempenho assistido e não faz nada em particular pelo que resta quando o modelo se vai.
 
 **"Orientação sempre apoia a transferência, então mais orientação é melhor."** A orientação que executa o raciocínio substitui o processo do qual a transferência depende. A distinção é entre a ajuda que mantém o aprendiz gerando o próximo passo e a ajuda que o gera por ele — e só a primeira está do lado da transferência dessa linha.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — O desfecho pelo qual a maioria dessas sequências é em última análise julgada
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Fracasso produtivo
-
-## Artigos conectados
-- [[yan-agentivism-learning-theory-ai-2026]] — Uma teoria de aprendizagem de alcance médio para a interação humano–IA, com quatro mecanismos e seis proposições testáveis (Yan e Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descarregamento cognitivo sensível a camadas na escrita assistida por IA generativa (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Distinção desempenho–aprendizagem e transferência durável
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Condução pedagógica de LLMs para o fracasso produtivo
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — IA na educação em física de partículas: problemas de pesquisa e competências fundamentais
-- [[shi-genai-experiential-learning-management-education-2026]] — argumenta que simulações de sala de aula protegidas podem formar hábitos de decisão que falham fora delas
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — A prática de fala assistida por IA elevou a vontade para com humanos, mas nenhum estudo observou a fala humana
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: aprendizagem aumentada por meio de incorporação robótica funcional na mesa
-- [[cognitive-washout-ai-skill-decay-2026]] — Washout cognitivo: o intervalo posterior à retirada e um protocolo de medição de 22 semanas (Yajee 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -79,37 +81,3 @@ ai_assist:
 - **"学生想要 AI 是因为想走捷径。"** 一个由学生提供输入的框架发现，学生**高度投入，并意识到自己需要 GenAI 技能以应对职业**，同时也希望**在不无意中构成学术不端的前提下使用 AI**。他们要求的是有清晰边界的能力，而不是逃避工作的许可。
 - **"在商科课程里加几个 AI 模块就能获得收益。"** 关于建设性对齐的研究发现，**收益还是风险占主导，取决于课程整合的程度**，关键区分是**整合，而不是附加**。一个外挂的模块留下了未被改动的评估设计。
 - **"工具的精致程度胜过常规电子学习。"** 一项 **130 名学生**的感知研究发现，**聊天机器人支持与智能体支持在提升、个性化与决策支持上都高于传统电子学习**。值得注意的是这测量的是什么：学生*感知*相对于一个常规基线，而不是学习相对于它。
-
-## 关联概念
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — 案例研究、案例方法与案例讨论
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## 关联文章
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL：商科教育中实践智慧的诠释学启发式（Heron & Meekins 2026）
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI 增强业务流程管理的 AI 决策检查点：框架与教学实例化
-- [[csaszar-ai-management-education-2026]] — AI 对管理教育的影响：一项基于价值的战略分析（Csaszar 等 2026）
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE：电子商务课程中的智能体式 GAI 支持，感知到的收益与风险（Ilieva et al. 2026）
-- [[drummond-genai-business-schools-framework-2026]] — 面向商学院 GenAI 的以学生为据框架（Drummond & Dale 2026）
-- [[espino-ai-business-education-review-2026]] — 商科教育中 AI 的十年（Espino & Espino 2026）
-- [[zhou-constructive-alignment-genai-business-2026]] — 商科高等教育中 GenAI 的建构性对齐（Zhou et al. 2026）
-- [[rook-plumb-genai-curricula-student-insights-2026]] — 关于把 GenAI 整合进课程的学生视角（Rook & Plumb 2026）
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育中 AI 采纳的机构驱动因素（Al-Rahmi 2026）
-- [[conversational-agents-business-simulation-gaming-2026]] — 商科模拟游戏中 AI 对话智能体的 CAIS-GBL 框架（Wenzel et al. 2026）
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — 学生营销帖自动评分中的一致性与误差
-- [[shi-genai-experiential-learning-management-education-2026]] — 重构管理教育教学法的三种生成式 AI 机制
-- [[alam-process-oriented-collaborative-essays-2026]] — 商业分析学徒制中过程导向的协作论文：给有记录的迭代打分，而非给主题打分
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 一门课程自建的 RAG 聊天机器人移动的是期望，而非结果

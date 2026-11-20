@@ -25,7 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -117,37 +118,3 @@ ai_assist:
 **"حل بہتر AI ہے، کیونکہ سپردگی غلطیوں سے نکلتی ہے۔"** سپردگی تعامل کی *ساخت* سے نکلتی ہے: ایسا نظام جو پہلے ایک قابلِ یقین جواب پیش کر دے، سیکھنے والے کے لیے اپنا جواب بنانے کا موقع ہی ختم کر دیتا ہے۔ درستگی بہتر کرنا غلط جوابات کے نقصان کو کم کرتا ہے اور فیصلہ بنانے کے ترک سے کچھ نہیں کرتا، اور یہی وہ نقصان ہے جو ٹول جانے کے بعد بھی رہتا ہے۔
 
 **"تنقیدی جانچ سکھانا کافی ہے۔"** یہ ضروری ہے اور بہت دیر سے آتی ہے۔ جب اسکرین پر ایک قابلِ یقین جواب آ چکا ہو، تو جانچ تصدیق بن جاتی ہے - اسی لیے یہاں کا ڈیزائن ادب طالب علم کی کوشش کو نظام کے نتائج سے پہلے رکھتا ہے، بعد میں اس کا آڈٹ نہیں کرتا۔
-
-## منسلک تصورات
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## منسلک مضامین
-
-- [[shaw-nave-cognitive-surrender-2026]] — سہ نظام نظریہ اور سپردگی کا تجرباتی دستخط
-- [[generative-ai-reduced-study-time-math]] — ALEKS میں آبادی کی سطح پر منقطعی
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 میں سپردگی/بوجھ اتارنا/خودآگہی کا فریم ورک
-- [[du-yuan-epistemic-dependence-2026]] — اوزاری بمقابلہ فیصلہ رکھنے والی معاونت
-- [[ai-advice-suppresses-ikt-suspension-2026]] — "مجھے نہیں معلوم" کا خاتمہ
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — عصبی مشغولیت اور ملکیت
-- [[genai-thoughtless-use-self-directed-learning-2026]] — بے سوچے استعمال اور خود ہدایت شدہ سیکھنا
-- [[stamatoulis-genai-use-patterns-2026]] — کم تصدیق والا اپنانا بمقابلہ جانچ پڑتال والا انضمام
-- [[cognitive-washout-ai-skill-decay-2026]] — واپسی کے بعد کیا ہوتا ہے
-- [[ai-overreliance-complex-adaptive-system-2026]] — انحصار بطور آبادیاتی عمل
-- [[brcic-effortless-trap-productive-struggle-2026]] — AI کو ایسے رکھنا کہ کام محنت طلب رہے
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — کیلبریشن تربیت
-- [[family-school-autonomy-support-genai-2026]] — منحصر بمقابلہ خود مختار بوجھ اتارنا
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — ورک شیٹ پر مبنی معاون نے بوجھ اتارنا بڑھانے کے بجائے کم کیا، جو سپردگی کے دستخط کے لیے ایک حدی شرط ہے (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — قدرتی ماحول میں مکمل مضمون کی تفویض: 77 میں سے 15 مضامین مکمل طور پر ماڈل نے لکھے، 20 درخواستیں مکمل مضمون کے لیے (Jelson et al. 2026)

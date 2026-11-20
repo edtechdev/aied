@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -40,6 +41,3 @@ Taito toimitetaan tukikehyksen kanssa: kaksi alaagenttia, yksi alkukartoituksia 
 ## Ehdot ja varaukset
 
 Lisenssi on Creative Commons BY-NC-ND 4.0, ja tekijän ilmoittamat ehdot ovat merkityksellisiä useimmille instituutiolukijoille: henkilökohtainen, ei-kaupallinen opiskelu ja ammatillinen kehittyminen ovat tervetulleita, kun taas kaupallinen käyttö, uudelleenjakelu ja valkoinen merkintä vaativat kaupallisen lisenssin. Repositorio raportoi 314 pistettä 320:stä kymmenessä itse suunnitellussa haasteessa, mikä on tekijän oma arviointi eikä riippumaton, ja sama tekijä myy konsultointia ja työpajoja kehyksestä. Projekti kuvataan henkilökohtaiseksi hankkeeksi, joka ei ole sidoksissa hänen työnantajiinsa, ja sen viimeisin commit on huhtikuulta 2026.
-
-## Liittyvät käsitteet
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

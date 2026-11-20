@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -113,35 +115,3 @@ ai_assist:
 **«Перенесення походить від спроможніших моделей.»** Перенесення походить від умов, що його продукують, — загальності практики, варіативності контекстів і того, наскільки міркування згенерував сам здобувач. Спроможність моделі піднімає стелю асистованої продуктивності й нічого особливого не робить для того, що залишається, коли модель зникає.
 
 **«Настанови завжди підтримують перенесення, тож більше настанов краще.»** Настанови, що виконують міркування, заміщують процес, від якого залежить перенесення. Розрізнення — між допомогою, яка зберігає за здобувачем генерацію наступного кроку, і допомогою, яка генерує його замість нього, — і лише перша на боці перенесення цієї межі.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Результат, за яким зрештою судять більшість із цих послідовностей
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Продуктивний провал
-
-## Пов’язані статті
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Теорія навчання середнього рівня для взаємодії людини зі ШІ, із чотирма механізмами та шістьма перевірними тезами (Yan and Gašević 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Чутливе до шарів когнітивне перекладання на інструмент у письмі з підтримкою GenAI (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Відмінність між результативністю та навчанням і тривале перенесення
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Педагогічне керування LLM для продуктивного провалу
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — ШІ в освіті з фізики частинок: дослідницькі проблеми та фундаментальні навички
-- [[shi-genai-experiential-learning-management-education-2026]] — стверджує, що захищені симуляції в аудиторії можуть формувати звички прийняття рішень, які зазнають невдачі за їхніми межами
-- [[ai-speaking-practice-communicative-readiness-2026]] — Практика усного мовлення з підтримкою ШІ підвищила готовність спілкуватися з людьми, але жодне дослідження не спостерігало людського усного мовлення
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: посилене навчання через функціональне роботизоване втілення на робочому столі
-- [[cognitive-washout-ai-skill-decay-2026]] — Когнітивне вимивання: інтервал після вилучення підтримки та 22-тижневий протокол вимірювання (Yajee 2026)

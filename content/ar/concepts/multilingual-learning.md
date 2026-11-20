@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -74,28 +76,3 @@ ai_assist:
 - **«ينبغي أن تهيمن اللغة الهدف من اليوم الأول.»** في **مراجعة منهجية لـ24 دراسة**، طلب المتعلّمون **عبارات وتفسيرات مسيَّقة بلغتهم الخاصة كجسر إلى اللغة الهدف** — وهو استخدام يصنّفه المُراجِعان كإتاحة فرعية جديدة فعلًا لا كحلّ بديل. فدعم لغة البيت عمل [[scaffolding|كسقالة]] لا كتفادٍ.
 - **«التقويم اللغوي بالذكاء الاصطناعي منحاز ضد الكُتّاب متعددي اللغات.»** هنا تبع الانحياز **الخط الأساسي البشري لا النموذج**: فالحكم المقارن القائم على النماذج اللغوية الكبيرة على **كتابة تفسيرية للصفوف 3-6 تقارب مع معايير الباحثين (r = .59-.73)** وأظهر النمط نفسه الذي أظهره المُقيِّمون البشريون. وهذا ليس دليلًا على العدالة بمطلقها — بل دليل على أن النموذج لم يُدخل تشويهًا جديدًا فوق القائم.
 - **«مخرج الترجمة عالي الجودة هو الجزء المفيد.»** فاستخدام الجسر تفسيري وظرفي لا استبدالي. والأداة التي تحلّ محل إنتاج المتعلّم ذاته تُزيل الممارسة التي كان الجسر يهدف إلى تمكينها.
-
-## المفاهيم المرتبطة
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## المقالات المرتبطة
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — روبوتات محادثة الذكاء الاصطناعي التوليدي تتيح الترجمة التبادلية، وهو استخدام لم تدعمه أدوات اللغة السابقة
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics

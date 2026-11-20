@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -108,7 +110,6 @@ AI는 인식론적 수준에서 타당도에 도전합니다. [[end-of-assessmen
 
 **AI가 평가 가능한 산출물을 생성할 때.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot와 Nanthaamornphong (2026)]]는 타당도 문제에 가장 날카로운 학문 분야의 사례를 제공합니다. [[cs-education|컴퓨팅 교육]]에서는 채점되는 산출물인 소스 코드를 AI가 생산하므로, 도구 사용, 학습, 평가가 하나의 상호작용으로 융합하며 제출된 코드베이스는 더 이상 학습과 위임을 구분하지 못합니다. 72개 연구에 걸쳐, 그들은 보조 없는 수행으로 전이되지 않는 효율성 향상(21개 연구), AI의 도움이 숙련이 되는지를 [[prior-knowledge]]이 조절하는 현상(6개 연구), 그리고 탐지 연구가 증거 기반에서 사실상 부재함(3개 연구)을 발견하는 반면, 평가 재설계는 비교적 잘 입증되어 있습니다(25개 연구). 실천을 위한 그들의 결론은 구성에 특수하면서 저기술적입니다. 강의당 고부담 평가 최소한 한 개에 구술 구성 요소나 다른 과정 가시적 요소를 추가하라는 것인데, 이는 해당 검토에서 가장 레버리지가 큰 단일 개입입니다. 그리고 AI 출력에 대한 비판적 [[student-engagement|참여]]를 선택적 태도가 아니라 채점되고 관찰 가능한 구성 요소로 요구하라는 것입니다([[academic-integrity]], [[assessment]]).
 
-
 [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]]은 초등 고학년 논증 글쓰기를 위한 [[automated-essay-scoring|자동 작문 평가]] 시스템인 eRevise의 타당도 논증을 루이지애나의 8개 교구에서 교사 34명과 학생 609명에 걸쳐 복제하고 확장하며, 동일한 [[sociocultural-learning|사회문화적]] 메커니즘이 하나가 아닌 세 가지 작문 결과에 걸쳐 성립하는지를 시험합니다.
 
 자동화된 교수 평가는 같은 문제의 제도적 버전입니다. [[xu-ai-teaching-evaluation-systematic-review-2026|Xu와 동료들]]은 2015년부터 2025년까지의 실증 연구 60개를 검토하여 신뢰도, 타당도 또는 입증된 교육적 영향을 보고한 19개로 좁혔습니다. 나머지는 기법을 시연한 것이었습니다. 그들의 발견은 다음과 같습니다. 인간 채점자와의 일치가 검증으로 제시되고, 편향은 교수자 집단 간 차이 나는 수행으로 검증되기보다 훨씬 자주 논의되며, 인간–AI 노동 분업은 설계되기보다 주장됩니다. 학생의 교수 평가는 이미 알려진 점수 편향을 안고 있으므로, 모델을 추가하는 것은 그 편향을 물려받아 숫자 뒤에 숨기는 것입니다.
@@ -116,7 +117,6 @@ AI는 인식론적 수준에서 타당도에 도전합니다. [[end-of-assessmen
 ## 불완전한 정보 하에서의 타당도
 
 가장 날카로운 최근의 재프레이밍은 생성형 AI 문제를 증거의 문제로 다룹니다. 학생은 작업이 어떻게 생산되었는지를 알고 있습니다. 기관은 산출물과 기껏해야 과정의 일부 흔적을 관찰합니다. 이 산출물–과정 간극을 [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed와 Temimi (2026)]]는 불완전한 정보 하에서의 평가 타당도로 정형화합니다. 이 관점에서 문제는 규칙이 위반되었는지가 아니라, 평가가 학생의 추론, 노력, 판단에 관한 신빙성 있는 증거를 여전히 산출하는지입니다. 그리고 금지, 모니터링, 공개, 재설계라는 각 [[governance|제도적]] 메커니즘은, 그것이 어떤 학생 대응을 가장 매력적으로 만드느냐에 따라 평가됩니다. 타당도의 렌즈는 또한 하나의 거짓된 구분을 녹입니다. 무결성과 타당도는 한 문제를 양끝에서 본 것일 뿐입니다. 부정행위의 판정은 그 작업이 무엇을 증거하는지에 관한 타당도 주장 그 자체이기 때문입니다.
-
 
 웨어러블 AI는 증거 격차를 넓히기보다 마지막 격차를 닫습니다. [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]]은 AI 안경과 이어버드가 외부 신호 없이 도움을 제공하므로, 응시자가 현장에 있고 감독 아래 있으면서도 도움 없는 역량을 보여주지 못할 수 있다고 주장합니다. 이는 감독 형식이 전제한 분리 가능성과 관찰 가능성을 녹입니다.
 
@@ -175,93 +175,3 @@ Winstone, Gravett, Elkington은 생성형 AI 평가 문제를 리텔과 웨버�
 2026년의 한 개념적 틀은 [[generative-ai|생성형 AI]]가 타당도에 균일한 영향을 미치지 않는다고 주장합니다. 같은 도구가 평가가 어떻게 구성되느냐에 따라 참여 증폭제가 되거나 인지적 대체물이 되기 때문입니다. 이 틀은 두 차원을 교차합니다. 학생이 얼마나 많은 **인지적 책임**을 유지하는가, 그리고 평가자가 얼마나 많은 **과정**을 볼 수 있는가입니다. 네 가지 조건이 따르며, 그중 둘은 함정입니다. *인지적 대체물*(낮은 책임, 낮은 가시성)은 능력 없는 수행을 산출합니다. *제약된 참여*(낮은 책임, 높은 가시성)는 모델 출력의 무비판적 수용을 기록하는 가시적 추론 흔적조차 여전히 대체의 증거임을 보여줍니다. 증거 포착 없는 책임은 거울상의 실패입니다. 교육적으로는 건전하지만 증거로는 쓸모없습니다.([[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]])
 
 실천적 주장은 좁고 검증 가능합니다. 타당도는 증거가 주장되는 추론을 정당화하는지에 달려 있지, AI가 관여했는지에 달려 있지 않습니다. AI 지원 실천이 인증되는 역량 *그 자체*인 곳에서는, 도구를 배제하는 것이 진정성을 보호하기보다 떨어뜨립니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 산출물이 더 이상 저자를 식별하지 못할 때 왜 과정 증거가 제안되는가
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## 연결된 문서
-
-- [[ivory-psychology-assessment-integrity-2026]] — 프로그램 차원의 합격/불합격 취약성과 날조된 값이 합격하도록 두는 채점 기준 (Ivory 등 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 허용만으로는 타당도가 저하되지 않는다: 생성형 AI 사용의 영향을 받지 않는 참여도; 성찰은 일반적 대체에 저항한다
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 즐거운 평가, 그리고 제3의 공간
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 보고서: 영국 대학 세 곳의 대학 에세이 761편에 대한 AI 채점
-- [[kumar-genai-computing-education-systematic-review-2026]] — AI가 채점되는 산출물을 생성할 때: 컴퓨팅 교육의 타당도 문제와 재설계 증거
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 테이크홈 시험: 질적 단계를 평가하고 회상은 수업 내로 옮겨라 (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 국가 필기 평가에서의 HITL AI 지원 채점 (Curi 등 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — 구성 동등 평가 변형 생성 (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — 성적 인플레이션의 메커니즘으로서의 AI 과제 대체 (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS 과제를 완수하는 AI 에이전트; 인간 생산 가정과 에이전트적 타당도 (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — 평가 도구는 인간과 LLM에게 같은 것을 측정하는가? (Strugatski 등 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 구술 설명에서 구체화된 인지를 위한 다중 양식 틀
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI가 생성한 시험의 품질 평가: 대규모 현장 연구
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — 생성형 AI 지원 작업 채점에서의 가치 판단: 정직성, 신뢰, 타당도, 양방향 투명성 (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 타당도 문제로서의 불법행위 절차
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 불완전한 정보 하에서의 평가 타당도: 반응 영역 모델
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 어떤 추론이 위험한가? 다섯 가지 타당도 압력을 구분하고 재설계가 약화시키는 것을 점검하기 (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — 부정행위가 아닌 타당도, 설계, 능력 정의의 문제로서의 STEM 평가: 과정 증거, 구술 시험, AI 생성 과제의 충실도 (Koretsky 등 2026)
-- [[ai-particle-physics-education-redesign-2026]] — 입자 물리학 교육에서의 AI: 연구 문제와 기초 기술
-- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — 엘살바도르 AI 튜터링 파일럿의 학습 주장 구속하기 (Restrepo Morales 등 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — 불법행위 고발 파일에 실제로 담긴 증거는 무엇이며, 왜 증거의 질이 결과를 예측하지 못하는가 (Munoz 등 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192개 텍스트에 대한 탐지기 정확도 0.69와 0.61; 혼합 글쓰기 실패와 EFL 오분류 위험 (Hadra 등 2026)
-- [[wright-transcription-not-generation-2026]] — 과도하게 포섭하는 금지 규정: 전사는 생성이 아니므로, 규칙은 잡으려 설계되지 않은 것을 제재한다 (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — 탐지가 아닌 평가적 판단을 통해 가시화된 무결성 (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — 대규모 언어 모델은 고등교육 성적 등급대를 재현할 수 있는가? 진정한 학생 글쓰기의 교정과 채점 편향에 관한 교차 모델 연구
-- [[ai-assisted-physics-lab-report-assessment-2026]] — 실험 물리학 실험 보고서의 AI 지원 평가: 가능성, 한계, 교수 실천을 위한 지원
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — 산출물이 학습자 능력의 증거로 읽힐 때의 네 가지 추론 대상과 세 가지 귀속 오류 (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM의 학생 사용과 데이터 과학 강의에서 AI 생성 문항 난이도의 한계
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 감사 가능한 코딩을 위한 주장 기반 스키마
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 교육과정 정합성에 대한 학생 평가는 내용(rho = 0.762)이 아니라 문항 난이도를 따른다 (Vogt 등 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — 동일한 제출물에 대한 5일 후 반복 채점이 Krippendorff's alpha 0.625를 산출했다
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI 취약성 지수: 평가되는 성적의 대부분이 검증 불가능한 저작권 위에 놓이므로, 타당도는 최대의 보안이 아니라 핵심 단계의 충분한 증거에 달려 있다
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — 교수법적 적응성 지표는 상승한 반면 맹검 전문가 평가는 하락했다: 측정 타당도가 최적화 타당도를 함의하지는 않는다 (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — 표적이 또 움직였는가? GenAI와 영어 능력 점수의 타당도
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — 임베딩 유사도는 인간 점수와 최대 0.198 상관했다
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 웨어러블 AI는 분리 가능성과 관찰 가능성을 녹인다
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 결과 구성이 추정치를 움직인다: 인간-AI 공동 산물은 g = 1.958
-
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — 출처를 단속하는 것에서 증거를 설계하는 것으로: 연구와 정책에 맞서 시험한 네 가지 명제 (Ansari 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — 합의를 넘어서: 22개 프롬프트 채점자가 정답을 아는 탐침을 만나고, 대부분은 설득될 수 있다 (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — 학습자 맥락이 동일한 작업에 대한 LLM 채점자의 점수를 바꾸고, 교사와의 합의는 그것을 포착하지 못한다 (Porcaro 2026, Paper VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — 산출물이 무엇을 증거할 수 있는지로서의 과제 형식과 AI 사용 지침 (Liu & Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — 응답 채점을 넘어서: 수학 단답형 자동 채점을 위한 AI 인식 인지 감독 프레임워크
-- [[nissan-nursing-empathy-computer-vision-2026]] — 같은 영상, 상반된 판독: 미소 탐지기는 관찰자들이 부조화를 평가한 곳에서 온기를 평가했다 (Nissan 등, 2026)
-- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — AI 방어를 넘어서: 타당도의 질문은 산출물 순도가 아니라 증거 충분성 (Bayraktar 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — 일치는 견고성이 아니다: 루브릭 조건부 채점자들은 루브릭이 악용 가능한 상태로 남아 있어도 일치할 수 있다 (Roy 등 2026)
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 작성 기준의 87.71%를 통과한 문항도 의도된 역량 수준과 일치한 것은 25.93%에 불과했다
-- [[webb-davies-voice-first-written-assessment-2026]] — 관찰 아래에서 추론을 확보한 뒤 집에서 쓴 제출물을 채점하는 2단계 쓰기 평가, 연결이 불분명하면 조건부 구술 시험 (Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — 블랙박스 평가: 과정 창, 증거로서의 오류, 가시성을 통한 무결성 (Winstone, Gravett & Elkington 2026)
-- [[williams-coding-curriculum-critique-2026]] — 교육과정 코딩: "AI가 수업 설계에 흔적을 남기는 방식"에 대한 비판
-- [[islam-human-vs-ai-sba-dental-2026]] — 임계값 준수는 올라간 반면 평균 변별도는 떨어졌다. 시험 수준 신뢰도 없이 기술적으로 계산됨
-- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE (2026): 127개 기관의 교직원 244명과 학생 91명이 탐지, 평가 설계, AI 리터러시, 전략에 대해 응답
-- [[xu-ai-teaching-evaluation-systematic-review-2026]] — 60개 연구 검토, 검증 증거를 갖춘 것은 19개: 채점자와의 일치는 타당도가 아니다
-- [[zammel-mllm-kinematics-graph-grading-2026]] — 이미지가 확립하지 못하는 그래프에 만점 부여, 그리고 좌표 규약이 명시되지 않은 곡률 임계값 (Zammel 등 2026)
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — 감독 시험에 결코 도달하지 못한 비감독 퀴즈 획득: 악용 가능 격차의 60% 실현, 오픈북 우위 두 배 (Rodríguez Longarela & McGrath 2026)
-- [[wood-learning-consequential-assessment-2026]] — 분리 가능한 세 가지 역량 주장, 진술된 이유와 작업 사이의 정합성을 증거 시험으로 삼음
-- [[performance-without-capability-genai-assessment-validity-2026]] — 가시적 과정이 왜 여전히 대체를 기록할 수 있는지 설명하는 2차원 틀 (인지적 책임, 과정 가시성)
-

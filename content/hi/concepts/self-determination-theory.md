@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -72,37 +74,3 @@ SDT सीधे [[motivation]] से, जो इसका जनक रचन�
 - **"प्रेरणा की मात्रा से अधिक प्रेरणा का प्रकार कम मायने रखता है।"** एक वर्ष-लंबे अध्ययन में **तीन प्रेरणा प्रोफ़ाइल, असंलग्न (Disengaged), विकासशील (Developing), स्वनिर्धारित (Self-Determined), समय के साथ स्थिर** पाए गए, और जो छात्र **स्वनिर्धारित** प्रोफ़ाइल तक पहुँचे उन्होंने **सबसे बड़े [[ai-literacy]] लाभ** दिखाए। प्रेरणा की गुणवत्ता ने सीख की भविष्यवाणी की, और प्रोफ़ाइल केवल ऊपर की ओर नहीं बहती रहीं।
 - **"स्वायत्तता समर्थन का अर्थ है संरचना हटाना।"** SDT की कार्यविधि स्वायत्तता, सक्षमता और संबद्धता मिलकर है, और अनुदैर्ध्य साक्ष्य दिखाता है कि उनकी पूर्ति ने लाभ की भविष्यवाणी की, केवल साथ नहीं चली। सक्षमता-समर्थन के बिना स्वायत्तता ढीलापन है, और वह सिद्धांत की शर्तें पूरी नहीं करती।
 - **"कोई [[conversational-ai|चैटबॉट]] तीनों आवश्यकताएँ स्वतः पूरी कर सकता है।"** एक अध्ययन में पाया गया कि ChatGPT भाषा अधिगम में स्वायत्तता, संबद्धता और सक्षमता का समर्थन कर सकता है, यह एक संभावना है, कोई गुण नहीं। कोई दिया गया आदान-प्रदान उनका समर्थन करता है या नहीं, यह इस बात का अनुभवजन्य प्रश्न है कि उसका उपयोग कैसे होता है।
-
-## संबंधित अवधारणाएँ
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## संबंधित लेख
-
-- [[family-school-autonomy-support-genai-2026]] — बच्चों के जनरेटिव AI के उत्तरदायी उपयोग के लिए परिवार-विद्यालय स्वायत्तता समर्थन
-- [[dual-ai-learning-pathways-sdt-2026]] — उच्च विद्यालय दबाव/स्वायत्तता समर्थन और AI अधिगम के दोहरे मार्ग (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — अधिगम डिज़ाइन निर्णय-निर्माण में LA और GenAI
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — अंग्रेज़ी भाषा अधिगम में छात्रों के ChatGPT अनुभव
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — शिक्षार्थी विशेषताएँ × TTS संवाद-प्रारूप इंटरैक्शन
-- [[liang-ai-learning-motivation-sdt-2026]] — छात्रों की AI अधिगम प्रेरणा का SDT संरक्षित संक्रमण विश्लेषण (2,086 माध्यमिक शिक्षार्थी)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAI कक्षाओं में छात्र प्रेरणा और आवश्यकता संतुष्टि (Schweder, Hagenauer & Raufelder 2026)
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI उपयोग का आवश्यकता संतुष्टि से दुर्बल संबंध और उच्च भागीदारी के लिए अनावश्यकता (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — शिक्षक–AI सहयोग से कार्य भागीदारी तक दोहरे मार्ग, जिन्हें डिजिटल दक्षता ने मध्यस्थता दी
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — संकेत रोकने से स्वायत्तता बची, उत्तर देने से नहीं
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — कक्षा 5–8 में AI उपलब्धता, स्वायत्तता में गिरावट और प्रेरणा प्रोफ़ाइल (श्वेडर एंड ग्राह्ल 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 20-गतिविधि वर्गीकरण के विरुद्ध कोडित 39 अध्ययन; सक्षमता का सर्वाधिक अभ्यास, संबद्धता का सबसे कम

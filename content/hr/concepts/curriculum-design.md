@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -105,56 +107,3 @@ Oblikovanje kurikuluma izravno se povezuje s [[learning-design|oblikovanjem uče
 - **„[[llm|LLM]] može kartirati kurikulum nakon što se jednom validira uz visoku pouzdanost.“** GPT-o3-mini raspodijelio je **100 % preko sedam poduzetničkih vještina za svaku od 48 procjena**, postigavši **Krippendorffovu alfu od 0,81** u odnosu na stručne pondere — a **slaganje** se slomilo na pojedinim vještinama. Visoka ukupna pouzdanost uz neujednačeno slaganje obrazac je koji treba provjeriti prije nego što se kartiranju povjeruje.
 - **„Ugrađivanje pismenosti o umjetnoj inteligenciji znači dodati kolegij.“** LearnAI pokazuje ugrađeni oblik: **sloj široke izloženosti kratkim prezentacijama unutar 18 postojećih kolegija u pet disciplina (293 studenta)**. Izloženost je bila raspodijeljena kroz kurikulum, a ne skupljena u jedinicu.
 - **„Studenti dolaze već sposobni kritički vrednovati medije.“** Samo **13,8 % anketiranih studenata obrazovanja i novinarstva** reklo je da se njihov studij bavio kritičkom medijskom analizom, prema **97,8 % koji su je ocijenili važnom**. Jaz između vrednovanja vještine i poučavanja njoj kurikularna je prilika.
-
-## Povezani koncepti
-- [[pedagogical-partnerships]] — Pedagoška partnerstva
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Krovni pojam: pedagogije i nastavne strategije u UI obrazovanju
-- [[recommender-systems-and-learning-paths]]
-
-## Povezani članci
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Ponderirano kartiranje vještina validirano od stručnjaka za akreditaciju
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritička analiza diskursa smjernica za genAI u konstruktivnom usklađivanju (McInnes i sur. 2026.)
-- [[icet-ml-education-trust-2026]] — Rješavanje pitanja povjerenja u UI sustave kroz obrazovanje: didaktička perspektiva
-- [[refrain-amplify-genai-curriculum-2026]] — Kurikularni okvir „suzdržati, zatim pojačati“ za slijed genAI-a (Torres-Sahli i sur. 2026.)
-- [[mechanical-engineering-ai-curriculum-2026]] — Projektno utemeljen kurikulum UI obrazovanja u toplinskom inženjerstvu
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Okvir razine spremnosti za radnu snagu za pametnu proizvodnju u doba umjetne inteligencije
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Preoblikovanje kurikuluma: pedagoška promjena vođena genAI-om
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Okvir UI vještina: 26 procjenjivih vještina za kartiranje kurikuluma
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: pravovremeno UI suoblikovanje kroz discipline
-- [[ai-video-dual-gatekeeping-2026]] — Kada „ne“ daje bolje videozapise: dvostruka kontrola za pedagoški utemeljeno UI stvaranje sadržaja
-- [[niri-steam-ai-literacy-review-2026]] — STEAM obrazovanje za pismenost o umjetnoj inteligenciji: sustavni pregled
-- [[caruana-pre-university-ai-education-slr-2026]] — Priprema učenika i nastavnika za budućnost vođenu umjetnom inteligencijom: sustavni pregled predsveučilišnog UI obrazovanja (Caruana i sur. 2026.)
-- [[ai-modeling-problem-generation-platform-2026]] — UI platforma koja generira zadatke matematičkog modeliranja (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — Umjetna inteligencija u obrazovanju čestične fizike: istraživački problemi i temeljne vještine
-- [[computing-assessment-genai-workshop-report-2026]] — UI može napraviti tvoju zadaću. Što sad? Izvješće s mrežne radionice o procjeni u računalnom obrazovanju u doba generativne umjetne inteligencije
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - okviri kompetencija usklađuju se oko pet dimenzija bez zajedničkog rječnika ili unakrsnog preslikavanja
-- [[bursic-ai-residency-education-curriculum-2026]] — Prepreke integraciji umjetne inteligencije u kurikulume specijalizacije: kvalitativni intervjui s dvanaest liječnika voditelja

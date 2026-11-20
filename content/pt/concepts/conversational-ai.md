@@ -19,8 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -57,7 +57,6 @@ O aproveitamento se dividiu pelo desempenho: grupos de alto desempenho solicitar
 Agentes conversacionais são usados para corrigir, e seu comportamento avaliativo diverge do dos humanos: o ChatGPT foi o mais indulgente de três avaliadores dos mesmos 52 projetos de graduação (M = 91,46 contra 83,13 do instrutor) e não compartilhou lógica de correção alguma com os pares (r = 0,05), embora os estudantes valorizassem sua interatividade dialógica ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
 **Os usuários leem a credibilidade do agente socialmente.** A competência percebida do ChatGPT predizia diretamente a credibilidade do seu feedback, enquanto o calor humano percebido atuava apenas por meio da empatia semelhante à humana (SEM, 230 estudantes), segundo [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] — um agente conversacional conquista credibilidade como parceiro social, e não apenas como fonte de respostas.
 
-
 **Andamiar o lado do estudante na conversa.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] acrescentam a uma interface de chat um monitor de especificidade das perguntas e um modelo de revisão, e intervêm apenas em perguntas vagas: em um estudo entre sujeitos com 40 estudantes universitários aprendendo programação web, os usuários do HelpCoach escreveram primeiras perguntas significativamente mais específicas (57,3% contra 40,5%) e retiveram mais conhecimento uma semana depois (ganho médio 1,9 contra 0,3 de 6, d = 1,100). O benefício de retenção não passou por respostas de chatbot mais direcionadas, que não diferiram por condição — deixando o mecanismo como hipótese aberta em vez de via demonstrada.
 
 **O papel que o agente desempenha molda a interação.** O desenho de CAI não é neutro em relação a sua persona: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] concluiu que um companheiro fixo de \"par estudante\" na conversa sobre livros do ensino fundamental sustentou interações mais longas, mas dominou a conversa (menor participação do estudante em palavras/frases) e bateu em um \"teto afetivo" — igualando um professor humano em recordação factual, mas ficando aquém em reflexão emocional e voltada ao futuro — argumentando que a CAI deveria adaptar seu papel (par, assistente de professor, conselheiro parental) em vez de permanecer monolítica. [[xu-genai-collaborative-space-2026|Xu et al.]] estendem isso a pequenos grupos, mostrando que a IA generativa age tanto como um *agente* quanto como um *espaço colaborativo* em dinâmicas colaborativas síncronas e assíncronas, em que o desenho da interação decide se ela anda ou suplanta a cognição de grupo. O tom também pode ser definido por um classificador externo, e não apenas pela conversa: o [[culturally-aware-student-stress-chatbot-2026|Sukoon (Bashir & Afzal, 2026)]] treina uma Random Forest com 20 variáveis de pesquisa para atribuir um nível de estresse baixo, moderado ou alto, e essa saída seleciona uma de três camadas de resposta inspiradas no Stepped Care Model — calorosa e encorajadora em estresse baixo, aterradora e sem julgamento em estresse alto — antes que uma LLM [[open-source|de código aberto]] (GLM-4.5-Air via OpenRouter) assuma o diálogo com o histórico completo da conversa e um prompt de sistema culturalmente adaptado reenviado a cada turno. Os autores escolheram deliberadamente um modelo [[multilingual-learning|multilíngue]] de acesso livre para manter a implementação viável em universidades regionais, e observam que o urdu aparece por meio de prompt engineering, e não por um pipeline genuinamente bilíngue — uma limitação que importa sempre que a adequação cultural é reivindicada como propriedade do sistema em vez de resultado avaliado.
@@ -65,7 +64,6 @@ Agentes conversacionais são usados para corrigir, e seu comportamento avaliativ
 **O comportamento conversacional acompanha o provedor, não o ajuste.** Ao longo de 1.971 transcrições de IA e 135 humanas avaliadas em seis regras fixas extraídas das [[learning-sciences|ciências da aprendizagem]], os modelos de um mesmo provedor se agruparam, sem sobreposição entre as faixas de família, o que os autores leem como comportamento de ensino seguindo práticas de treinamento de todo o provedor, e não o ajuste de modelos individuais ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 **A modalidade da interface mudou a conversa sem mudar o resultado.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] randomizaram 981 adultos para texto, uma voz neutra ou uma voz emocionalmente envolvente durante quatro semanas de uso diário do GPT-4o, cruzadas com tópicos abertos, não pessoais ou pessoais. Nenhuma condição moveu significativamente a solidão, a socialização no mundo real, a dependência emocional ou o uso problemático; a voz envolvente foi avaliada como a mais antropomórfica, mas produziu mais solidão e menos dependência, e o texto produziu o maior conteúdo emocional e autorrevelação em ambas as direções. O tempo voluntário, e não o desenho atribuído, acompanhou o dano, o que sustenta que as escolhas de voz e persona moldam a troca, enquanto a duração molda a consequência.
-
 
 A consistência das respostas é um problema de infraestrutura, e não de prompting: a similaridade de respostas dentro do modelo ficou entre 0,715–0,795 contra 0,443–0,604 entre modelos, e acrescentar histórico de chat mudava o conteúdo das respostas mesmo para a mesma mensagem focal ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]).
 **Perspectivas dos estudantes.** O uso no mundo real mostra que a adoção depende do [[ai-literacy|letramento em IA]] e da [[usability-research|experiência de usuário]] mais do que da capacidade técnica. Um estudo [[mixed-methods-research|de métodos mixtos]] centrado no humano do \"Jordan Chatbot\", um agente [[pedagogy|pedagógico]] baseado em GPT-4o em um curso de direito australiano, concluiu que os estudantes têm atitudes positivas e percebem ganhos de conhecimento, ao mesmo tempo que apoiam fortemente os requisitos de [[academic-integrity]]; mais de um terço das interações ocorreu fora do horário, confirmando o valor da disponibilidade 24/7 ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notavelmente, o letramento em IA — e não a proficiência tecnológica geral — predizia a disposição e a confiança para usar o chatbot, e a usabilidade (um desenho intrusivo de pop-up) era a maior barreira entre os não usuários, à frente da confiança, da preferência pela equipe e do medo de violar a integridade acadêmica.([[colbran-student-perspectives-genai-chatbots-2026]]) O estudo recomenda desenho centrado no humano, políticas explícitas de IA e rótulos de avaliação, treinamento de equipe e de estudantes e monitoramento contínuo de erros — evidência de que uma implementação eficaz de CAI é tanto um problema de desenho e letramento quanto um problema técnico. Na outra ponta da faixa de idade, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] estudaram crianças de 6 a 14 anos interagindo com a AMA, um chatbot delimitado por tema e adaptado à idade (astronomia, tênis e calçados, dinossauros), encontrando ampla abertura e alta confiança na IA como fonte de informação — as crianças chegavam a testar sua credibilidade com perguntas de resposta conhecida — junto a lacunas de engajamento crítico e de consciência de segurança digital que argumentam a favor de um desenho de IA conversacional sensível à idade e consciente da confiança, e de instrução explícita sobre [[privacy|privacidade]].
@@ -108,54 +106,3 @@ A literatura de treinamento de funções executivas é pequena e jovem. A revis�
 ## Citação
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
-## Conceitos conectados
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-- [[executive-function]]
-
-## Artigos conectados
-- [[rho-disengaged-conversational-behaviors-2026]] — Comportamentos conversacionais desengajados em diálogos entre estudantes e IA (Rho et al. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustentando o apoio estudantil viabilizado por IA: estudo de implementação e impacto de quatro anos de um chatbot institucional (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparando a correção por ChatGPT, por pares e pelo instrutor em diferentes níveis de qualidade de projeto (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — Agentes de LLM com o framework 5E para aquisição de gramática de inglês como segunda língua (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Perspectivas dos estudantes sobre chatbots de GenAI (métodos mixtos)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Personas de adoção para chatbots de IA
-- [[conversational-ai-agents-umbrella-review-2026]] — Revisão guarda-chuva dos agentes de IA conversacional na educação
-- [[conversational-ai-tutors-framework]] — Framework de tutores de IA conversacional
-- [[measuring-llm-tutors-teach-vs-solve]] — Medindo se os tutores de LLM ensinam ou resolvem
-- [[stanford-evidence-base-ai-k12-2026]] — IA específica de tutoria versus IA geral
-- [[rethinking-scaffolding-llm-tutors]] — Repensando o andaimento nos tutores de LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revisão de escopo de agentes conversacionais para programadores novatos
-- [[ba-ai-agents-cscl-review-2026]] — Revisão sobre agentes de IA na aprendizagem colaborativa apoiada por computador
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gênero e motivação no desempenho com GenAI
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Companheiro de IA adaptativo por papel para conversa sobre livros no ensino fundamental; o teto afetivo de agentes de papel fixo (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — A GenAI como agente e como espaço colaborativo em dinâmicas de pequenos grupos (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Um chatbot culturalmente consciente movido por IA para detecção de estresse e apoio ao bem-estar entre estudantes universitários paquistaneses usando NLP e aprendizado de máquina
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: a tutoria por IA e a tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiando a busca de ajuda direcionada à IA durante a resolução de problemas
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Dez estudos de chatbot voltados às funções executivas
-- [[fang-chatbot-psychosocial-extended-use-2025]] — Texto, voz neutra e voz envolvente ao longo de quatro semanas: a modalidade mudou a troca, não o resultado psicossocial (Fang et al. 2025)
-- [[ai-conversational-interfaces-information-seeking-2026]] — O chatbot respondeu a perguntas sobre programas mais rápido e com mais exatidão do que o site, exceto quando a resposta era um contato nomeado

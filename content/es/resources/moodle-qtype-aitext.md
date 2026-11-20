@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -44,12 +45,3 @@ Administraciones y desarrolladores de Moodle que ya operan el sitio, profesorado
 ## Notas y advertencias
 
 Código abierto bajo GPL v3 o posterior, pero gratis no significa gratis de ejecutar: alguien paga la API del modelo, y la calidad de la calificación depende de la elección del modelo y del diseño de la instrucción. Las respuestas de texto libre salen del servidor de Moodle cuando se usa un proveedor remoto, así que el acuerdo de datos de la institución rige lo que se puede enviar; la vía Ollama autoalojada existe para sitios que no pueden enviar el trabajo del estudiantado fuera. El repositorio no declara ningún estudio publicado de precisión o concordancia, así que el plugin no debería adoptarse suponiendo que la calificación por LLM equivale a la calificación humana. La [[assessment-validity|validez]] tiene que establecerse localmente frente a puntuaciones humanas antes de que cualquier nota tenga peso. Los comportamientos complementarios son una dependencia dura: instalar el tipo de pregunta solo deja las preguntas sin calificar.
-
-## Conceptos conectados
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

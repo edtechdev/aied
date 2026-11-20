@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -40,6 +41,3 @@ A készség kísérő keretrendszerrel jár: két alügynökkel, egy a belépő 
 ## Feltételek és fenntartások
 
 A licenc Creative Commons BY-NC-ND 4.0, és a szerző megadott feltételei a legtöbb intézményi olvasónak számítanak: a személyes, nem kereskedelmi tanulás és szakmai fejlődés üdvözlendő, a kereskedelmi használat, az újra terjesztés és a white-labeling viszont kereskedelmi licencet igényel. A repó tíz saját tervezésű kihíváson 320 pontból 314-et jelent, ami a szerző saját értékelése, nem független mérés, és ugyanez a szerző tanácsadást és workshopokat ad el a keretrendszerre. A projektet személyes vállalkozásként írja le, munkáltatóitól függetlenül, utolsó commitja pedig 2026 áprilisából származik.
-
-## Kapcsolódó fogalmak
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

@@ -22,6 +22,7 @@ ai_assist:
     role: drafting
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 Integrating AI in TVET is a UNESCO-UNEVOC guide for institutions that train technicians,
 tradespeople and other skilled workers, developed with the UNEVOC Network and international
@@ -59,12 +60,3 @@ independent trials. The annexes call themselves indicative; the maturity scale i
 not a measurement instrument. Safety-critical and regulated occupations get a chapter, but it argues
 a position on human oversight rather than offering regulation-level detail. The CC BY-SA 3.0 IGO
 license permits adaptation and republication with attribution and share-alike.
-
-## Connected Concepts
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

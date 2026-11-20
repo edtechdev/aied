@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -71,29 +73,3 @@ ai_assist:
 **「価値教育は、内容としてモデルに手渡せる。」** [[genai-values-education-affordances-risks-2026|Chen (2026)]]は、価値教育を三つの条件、すなわち応答責任、模範性、呼びかけを備えた関係的な実践として捉え直し、GenAIのアフォーダンスのそれぞれが一つの関係を置き換えるものとして読み解きます。シミュレートされた視点は、害を被りうる利害関係者を置き換えるのです。
 
 **「人文科学は、他の分野と同じ評価の問題に直面している。」** 成果物が異なります。テキストが何を意味するのかについての主張であり、対抗的な読みに対して擁護されるそれは、調査結果の報告ではありませんし、モデルがレポートを書けるようになったからといって報告になるわけでもありません。
-
-## 関連する概念
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## 関連する記事
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH教育のための解釈的な認知の発達的・批判的なモデル
-- [[capodieci-humanities-hil-2026]] — 人文科学の学習におけるエージェント型 AI と、テキストの著作から解釈の帰属への移行
-- [[paternalistic-filter-llm-history-education]] — 歴史教育におけるLLMの利用、フィルター、歴史的な推論
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — ツールから方法へ：歴史の授業におけるAIリテラシー
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — ナレッジグラフとLLMを用いた文学創作のための根拠に基づく足場かけ
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587件のGo8のArts and Humanities科目の計算による監査:2026年の評価項目の58.6%がAIに高度に晒されている
-- [[corbin-essay-time-genai-2026]] — 評価対象のエッセイはすでに主張と証拠の報告書へと狭まっていた
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — 学部カリキュラム全体でGenAIリテラシーを必修化するリベラルアーツ教育機関
-- [[genai-values-education-affordances-risks-2026]] — 関係的実践としての価値教育と、生成的AIの各アフォーダンスが置き換えるもの
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — 成果物が証拠立てられるものとしての課題の形式と AI 利用の指示
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — 評価的判断によって結び付けられた、一つの課題としてのインテグリティと批判的デジタルリテラシー

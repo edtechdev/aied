@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -52,7 +54,6 @@ AI ٹیوٹرنگ میں مصنوعی ذہانت — بالخصوص [[llm|بڑے
 [[llm|LLM]] کے ابھرنے نے ٹیوٹرنگ کے میدان میں ایک پیداواری تناؤ پیدا کیا ہے۔ روایتی ذہین ٹیوٹرنگ سسٹم (ITS) درستگی اور شفافیت پیش کرتے ہیں — آپ ٹھیک ٹھیک جانتے ہیں کہ نظام نے کوئی فیصلہ کیوں کیا — مگر لچک سے محروم ہیں۔ LLM ٹیوٹر قدرتی مکالمہ اور وسیع علم پیش کرتے ہیں مگر ہیلوسینیشن کر سکتے ہیں، حد سے زیادہ سکافولڈنگ کر سکتے ہیں، یا سیکھنے کو مکمل طور پر نظرانداز کر سکتے ہیں۔ جدید [[research-methods-aied|تحقیق]] تیزی سے **مخلوط طریقوں** کی کھوج کر رہی ہے جو ساختی ITS اجزا کو LLM کی لچک سے جوڑتے ہیں۔ [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] اسے Apprentice Tutor College Algebra ITS میں ٹھوس طور پر دکھاتے ہیں: GPT-4 کو پرامپٹ کے اندر ٹیوٹر کی انٹرفیس ساخت اور Bayesian [[knowledge-tracing]] مہارت کے تخمینے فراہم کرنے سے عامل بندی (factoring) پر منطقی غلطی کی تشخیص 40% سے 81% تک بڑھ گئی (اور مجموعی طور پر غلطی کی شناخت 87.8% تک)، اور تقریباً 66% اشارے غلطی کے ہدف پر مرکوز رہے — یہ براہِ راست ثبوت ہے کہ LLM کو ITS کے ساختی فریم ورک میں رکھنا تخلیق کو زمین سے جوڑتا ہے، ہیلوسینیشن والی تشخیص کو روکتا ہے، اور سیاق سے واقف اصلاحی فیڈبیک دیتا ہے، اگرچہ تقریباً ایک تہائی اشارے بہت عام، غلط، یا جواب ظاہر کرنے والے رہے۔
 
 ماڈل میں پیدگوجی کی تربیت دینا اسے پرامپٹ کرنے سے الگ راستہ ہے: LearnLM نے پیدگوجیکل ڈیٹا Gemini کی [[llm-training-and-fine-tuning|بعد از تربیت]] میں ملایا، تعلیمی ماہرین نے اسے GPT-4o (+31%)، Claude 3.5 Sonnet (+11%) اور بنیادی Gemini 1.5 Pro (+13%) پر ترجیح دی، اور — چونکہ مشترکہ تربیت تھی، بعد میں فائن ٹیوننگ نہیں — یہ فائدے مستقبل کے بنیادی ماڈل کی ریلیز پر بھی برقرار رہتے ہیں ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]])۔
-
 
 TeachLM دلیل پیش کرتا ہے کہ کمیاب جزو مستند سیکھنے والے-ٹیوٹر کا تعامل ہے: ایک کے مقابل ایک ٹیوٹرنگ کے 100,000 گھنٹوں پر فائن ٹیون کیا گیا، اس نے طالب علم کے بولنے کا وقت تقریباً دوگنا کر دیا اور مکالمے کے مرحلے 50% بڑھا دیے، جبکہ اس سے پہلے کا پرامپٹ سے ترتیب دیا گیا ٹیوٹر انسانی ٹیوٹرز تک یہ فاصلہ پاٹ نہ سکا ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]])۔
 - **حوالہ جاتی حکمتِ عملیاں فراہم کرنا کمزور ٹیوٹرز کو اوپر اٹھاتی ہیں، مضبوط کو نہیں۔** ماڈلز کو کیس لٹریچر کی دستاویزی حکمتِ عملی دینے سے 11 میں سے 10 ماڈلز کی فوری جواب کی کامیابی اوسطاً 9.9 پوائنٹ بڑھی — Llama 4 Maverick 41.0% سے 64.8% تک — جبکہ سب سے مضبوط ماڈل 71.3% پر جوں کا توں رہا ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]])۔
@@ -153,7 +154,6 @@ AI ٹیوٹر تعینات کرنے والے مدرسین اور انہیں بن
 
 **علمی اجزا کے ماڈل کو سیکھنے کے منحنی خطوط کے خلاف جانچیں، پھر ڈیٹا جو دکھائے اس سے دوبارہ ڈیزائن کریں۔** ایک کلاسی کراس اوور مطالعے نے Huang et al. کے ڈیٹا پر مبنی دوبارہ ڈیزائن کے عمل کو مڈل اسکول ریاضی ITS کے چار یونٹوں پر لاگو کیا جو موضوع کے لحاظ سے چنے گئے تھے، دوبارہ ڈیزائن کے لیے موزونیت کے لحاظ سے نہیں۔ DataShop میں سیکھنے کے منحنی تجزیے نے ایک غیر ماڈل شدہ انٹرپولیشن مہارت اور علامت سنبھالنے کے گڈمڈ معاملات بے نقاب کیے؛ ان KCs کو الگ کرنے اور مہارت شدہ مرحلہ چھوڑنے کے ساتھ مرکوز مشق شامل کرنے سے کام پر زیادہ پیداواری وقت (38.9 بمقابلہ 31.6 فعال منٹ، p < .001) اور اسی کلاس وقت میں پانچ اضافی مہارتیں حاصل ہوئیں — مگر سیکھنے کے فائدے میں کوئی فرق نہیں۔ اس نل نتیجے کی وضاحت مشق کی پتلی مقدار (دونوں حالتوں میں AFM مہارت 70% سے کم) اور ایسا بعد از امتحان ہے جس میں نئی الگ کی گئی مہارت کے آئٹمز نہ تھے۔ ڈویلپرز کے لیے دو سبق: بعد از امتحان کو نئی دریافت شدہ مہارتوں کا احاطہ کرنا چاہیے، اور موافقت کے فوائد کی حد وہ مشق ہے جو طلبہ واقعی حاصل کرتے ہیں۔ ([[lyu-data-driven-redesign-tutoring-2026]])
 
-
 مؤثر ٹیوٹرنگ مسلسل موافقت مانگتی ہے: [[zhang-tutormoments-2026|Zhang et al. (2026)]] جانچتے ہیں کہ کیا LM ٹیوٹر اساتذہ کے نشان زد کردہ فیصلہ کن مقامات پر سیکھنے والوں کی بدلتی فہم کے مطابق ڈھلتے ہیں۔ وہ پاتے ہیں کہ فرنٹیئر ماڈل حد سے زیادہ مددگار ہونے کی طرف جھکتے ہیں اور سختی پر شاذ و نادر ہی زور دیتے ہیں، اور یہ کہ جانچ سے واقف پرامپٹنگ بہتری لاتی ہے مگر موافقت کو مکمل طور پر حل نہیں کرتی۔ ہر اضافی تعطل کا مرحلہ اگلے مرحلے کی بحالی کے امکانات 12.7% کم کرتا تھا، اور سوال کرنا گہرائی کے ساتھ قدر کھو دیتا تھا (scripted question × depth AOR = 0.78) جبکہ طالب علم کی غلطی سے خطاب زیادہ فائدہ مند ہوتا گیا (AOR = 1.14) — ٹیوٹر کی بڑھتی ہوئی کارروائی، نہ کہ صرف جواب روکنے کا رویہ، تعطل کے جاری رہنے کے ساتھ بدلنا چاہیے ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]])۔ اس موافقت کی RL سے چلنے والی شاخ کا منظم نظریہ [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] دیتے ہیں، جن کے تعلیم میں RL کی 89 مطالعات کے جائزے میں کلاسیکی RL پالیسیاں ڈیپ RL سے زیادہ مستقل طور پر مؤثر نکلیں اور RL موافقت نے رہنمائی سے جڑے کاموں (اشارے، [[feedback]]) میں مواد کی ترتیب سے زیادہ بار معنی خیز فوائد دیے — یہ ثبوت کہ ITS سکافولڈنگ کو کیسے موافق بناتا ہے، اس سے کم اہم نہیں کہ وہ کون سا الگورتھم استعمال کرتا ہے۔
 - **علمی مصروفیت کی قسم کو موافق بنانا، صرف شدت کو نہیں۔** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] نے مشکل مستقل رکھی اور حل شدہ مثال کی شکل بدلی — رہنمائی والی (فعال) یا خرابی والی (تعمیری) — BKT قاعدے اور ڈیپ-RL پالیسی کے ذریعے، اور دونوں بے ترتیب تقسیم سے بہتر رہے (بعد از امتحان 72.3 اور 72.5 بمقابلہ 65.7)۔
 
@@ -162,7 +162,6 @@ AI ٹیوٹر تعینات کرنے والے مدرسین اور انہیں بن
 - **طریقہ کار والے ڈومینز کے لیے قاعدہ سے جڑی LLM ٹیوٹرنگ۔** Looi, Liu اور Sun (2026) ابتدائی [[math-education|ریاضی]] میں LLM ٹیوٹرز کی عدم تسلسل اور پیدگوجیکل دھندلے پن کا سامنا ایک قاعدہ سے رہنمائی والے نظام کے ڈیزائن سائنس مطالعے سے کرتے ہیں جو تین تہوں کے ڈھانچے پر بنا ہے — *تشخیص → نیت کا انتخاب → محدود جواب کی تخلیق*۔ وہ **قاعدہ سے رہنمائی والی سکافولڈنگ** (قابلِ جانچ، قابلِ تکرار قواعد کے تابع) اور **موقع پر مبنی سکافولڈنگ** (مددگار حرکت مگر جس کا جانچنا یا دہرانا مشکل) کے فرق کو رسمیت دیتے ہیں۔ شخصیہ پر مبنی نقل شدہ مکالموں اور 40 پانچویں جماعت کے طلبہ کے کلاسی پائلٹ سے جانچے جانے پر، قاعدہ سے رہنمائی والی سکافولڈنگ نے تعامل کا تسلسل بہتر کیا، جلد جواب دینے اور جلدی بند کرنے کو کم کیا، اور علمی مصروفیت برقرار رکھی — جبکہ کلاسی پائلٹ نے وہ تعاملی پیچیدگیاں، بکھرے ہوئے ان پٹ اور توجہ کے اتار چڑھاؤ سامنے لائے جو [[simulation]] نے نہ دیکھے۔ یہ [[guardrails|گارڈ ریل]] کا ٹھوس نقشہ ہے: اچھی طرح متعین طریقہ کار والے ڈومینز میں [[llm]] ٹیوٹرز کو قابو میں رکھنا۔
 - **[[agentic-ai|ملٹی ایجنٹ]] ٹیوٹرنگ اور [[automated-assessment|خودکار جانچ]]۔** ملٹی ایجنٹ ٹیوٹرنگ نظاموں کی جانچ مصنوعی، ٹریس پر مبنی تشخیص سے ہو رہی ہے۔ ASTRA اکیلے ٹیوٹر، جوڑی ٹیوٹر اور جوڑی ملٹی ایجنٹ ترتیبوں کو سماجی طور پر متفاوت ایجنٹوں کے ساتھ سہارا دیتا ہے، جس سے [[cs-education|تعارفی پروگرامنگ]] میں تعامل اور شرکت کے توازن کا قابلِ تکرار تجزیہ ممکن ہوتا ہے۔ متوازی طور پر، سیاق سے واقف پرامپٹنگ [[collaborative-learning|باہمی تعاون سے مسئلہ حل کرنے]] کی مہارتوں کی کوڈنگ کو عمل کے ڈیٹا سے خودکار بناتی ہے، جو بڑے پیمانے کی ٹیوٹرنگ جانچ کو سہارا دیتی ہے۔
 - **سیکھنے والے کی اقدار کے ساتھ ڈیزائن کریں، صرف اس کی کارکردگی کے لیے نہیں۔** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design کا کام]] کمیونٹی کالج کے طلبہ اور مدرسین کے ساتھ ڈیولپمنٹل ریاضی میں دکھاتا ہے کہ ITS کی [[ethics|اخلاقی]] جہتیں الگ سے جوڑی جانے والی چیزیں نہیں: طلبہ اور مدرسین کو براہِ راست شامل کرنے سے 16 قدر سے ہم آہنگ خصوصیات پیدا ہوئیں جو [[explainable-ai|قابلِ وضاحت]] پن (فہم کی جانچ کی تفسیر، سیکھنے کے راستے سے ربط، ماڈل کے اعتماد کا اظہار)، [[agency|سیکھنے والے کا کنٹرول]] (دوبارہ جانچ، نظرثانی، رفتار اور AI معاونت کی سطح پر کنٹرول) اور [[privacy]] (ڈیٹا کے دوبارہ استعمال پر کنٹرول، [[learning-analytics|سیکھنے کے تجزیات]] اور [[affective-computing|جذباتی]] حالتوں کو بانٹنے کے لیے اجازت کے پرامپٹ) پر پھیلی ہیں۔ مطالعہ ایک مستقل ڈیزائن تناؤ کو فریم کرتا ہے — [[agency|طالب علم کی خودمختاری]] بمقابلہ نظام کی رہنمائی والی سکافولڈنگ — اور نوٹ کرتا ہے کہ بیشتر ادارے موافق ٹیوٹرنگ مکمل طور پر بند رکھتے ہیں، اس لیے قدر سے آگاہ ڈیزائن اس بات پر بھی منحصر ہے کہ ITS کی AI صلاحیتیں واقعی کیسے (اور آیا) تعینات ہوتی ہیں۔
-
 
 - **قابلِ تعلیم ایجنٹ اور غیر مصروف مکالمے کی درجہ بندی:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] نے Math Nation (Algebra اور Geometry) میں GPT-4-Turbo قابلِ تعلیم ایجنٹ چلایا، جہاں طلبہ نے شناخت کیا کہ دو حل شدہ مثالوں میں سے کس میں غلط فہمی ہے، اصلاح کا جواز دیا، اور ایجنٹ کو سکھایا — [[learning-by-teaching|سکھا کر سیکھنے]] کا ڈھانچہ، جس میں ایک الگ رہنما ایجنٹ وضاحت کے معیار کو نمبر دیتا ہے۔ 6,933 مسائل کھلنے اور 22,143 تعاملات درج ہونے کے دوران، انہوں نے چھ زمروں والا مکالماتی غیر مصروفیت کلاسیفائر بنایا (human-in-the-loop: 1,682 تشریح شدہ جملے، فائن ٹیون شدہ LLaMA 3، weighted F1 = 0.910، model-vs-human κ = 0.624) اور اسے 246 مڈل اسکول طلبہ کے مطالعے کے لیے استعمال کیا۔ طریقہ کار کا حصہ تلاش جتنا ہی اہم ہے: جب کلاسیفائر کارپس کا بیشتر حصہ لیبل کرے تو پھیلاؤ کے نتائج کو انسانی تشریح شدہ ذیلی مجموعے کے خلاف آزمایا جانا چاہیے — اور یہاں سرخی والا تعلق (False Answering اور Mocking سے زیادہ بعد از امتحان کی پیش گوئی) عین اسی آزمائش میں غائب ہو گیا۔
 
@@ -175,76 +174,3 @@ AI ٹیوٹر تعینات کرنے والے مدرسین اور انہیں بن
 **'ذہین ٹیوٹرنگ LLM سے پہلے کی ٹیکنالوجی تھی جس کی جگہ LLM نے لے لی۔'** یہ سلسلہ مسلسل ہے اور ITS کا حصہ وہی ہے جو LLM کے دور میں اب بھی غائب ہے۔ ITS نے سیکھنے والے کا ماڈل، انٹرفیس کی قیود اور مہارت کے تخمینے دیے؛ جدید نظام جو ان اجزا میں LLM شامل کرتے ہیں وہ تنہا LLM سے بہتر ہیں، جو پرانے شعبے کو پیشرو کے بجائے جزو بنا دیتا ہے۔
 
 **'AI ٹیوٹر ایک ہی قسم کی چیز ہے۔'** ٹیوٹرنگ رشتہ داری کی شدت کے اسپیکٹرم پر پھیلی ہے، اشارہ پیدا کرنے سے لے کر مسلسل مکالمے تک، اور اس اسپیکٹرم کے ایک نقطے کے ڈیزائن نتائج دوسرے پر منتقل نہیں ہوتے۔ اس لیے پیدگوجیکل ڈیزائن کا سوال ہمیشہ یہ ہوتا ہے کہ 'کس قسم کی ٹیوٹرنگ، کون سا کام کرتے ہوئے'، نہ کہ 'کیا AI ٹیوٹرنگ کام کرتی ہے'۔
-
-## منسلک تصورات
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## منسلک مضامین
-- [[leite-its-k12-meta-analysis-2025]] — امریکی K-12 میٹا تجزیہ: 18 تجربات، g = 0.271، اور اسے کیا معتدل کرتا ہے (Leite et al. 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — توسیع شدہ برطانوی RCT: قریبی منتقلی کے فوائد مگر 10 ہفتوں میں معیاری امتحان کی برتری نہیں (LearnLM Team، Google اور Eedi 2026)
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: کثیر الحل پروگرامنگ مسائل پر LLM ٹیوٹرز کے ردِ عمل کے خلا بے نقاب کرنا (Cen & Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — طلبہ کی استدلال کی معاونت یا اس کا متبادل؟ AI کی معاونت والے پروف سیکھنے میں علمی منتقلی (Chen et al. 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: چیلنج کرنے والے رویوں والے طلبہ پر LLM ٹیوٹرز کا جائزہ (Park et al. 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — ہاتھ سے لکھے کام پر کیمرہ: بصری رسائی اور پیش قدم مرمت (Kotalwar et al. 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — غیر مصروف مکالماتی رویے اور طالب علم-AI مکالموں میں سیکھنا (Rho et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ٹیوٹرنگ کلاسی فعال سیکھنے سے بہتر: ایک RCT جو مستند تعلیمی ماحول میں نئی تحقیقی ڈیزائن متعارف کراتا ہے (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — طبی انٹرویو کی تربیت کے لیے سکافولڈنگ پر مبنی ملٹی ایجنٹ بڑے زبان ماڈل نظام کا جائزہ
-- [[ko-hughes-vsd-student-centered-its-2026]] — کمیونٹی کالج ڈیولپمنٹل ریاضی میں طالب علم مرکز ITS کا قدر سے آگاہ ڈیزائن
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI تدریسی معاون کی پرامپٹ انجینئرنگ سے مائیکرو-ذاتی نوعیت (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دینے والا زیادہ عام کرنا: موافق مہارت مشق اُس وقت ختم کر سکتی ہے جب سیکھنے والے یہ جاننے سے پہلے کہ کب عمل روکنا ہے (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ٹیوٹرنگ ایک یک پارچہ نہیں: ہم واقعی کیا جانتے ہیں (Stanford SCALE/NSSA بریف)
-- [[real-time-ai-feedback-technical-skills-2026]] — Kwara State کالجوں آف ایجوکیشن میں تکنیکی مہارت کے حصول کے لیے فوری AI فیڈبیک: مقامی ٹیوٹر بطور عملے کی امداد
-- [[mishra-control-vs-agency-history-2025]] — ITS کے سلسلے کو 1960-70 کی دہائی کے ماہر نظاموں سے علمی ٹیوٹرز تک لے جاتا ہے
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ٹیوٹرنگ کو پیداواری بنانا: مہارت پر مبنی ریاضی کی مشق
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — ایک کلک کی دوری پر: دو سالہ اسکولی تجربے میں Khanmigo
-- [[yasir-llm-tutoring-agents-2026]] — KG حقیقت کے خلاف LLM فیڈبیک ایجنٹس کی جانچ (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — یونیورسٹی غیر ملکی زبان کی تعلیم میں مدرس کے ڈیزائن کردہ AI ٹیوٹرز (خود ارادگی کا نظریہ)
-- [[measuring-llm-tutors-teach-vs-solve]] — یہ ناپنا کہ LLM ٹیوٹر سکھاتے ہیں یا حل کرتے ہیں
-- [[ai-tutoring-quality-k12-methodologies-2026]] — K-12 تعلیم میں AI ٹیوٹرنگ کے معیار کو بہتر بنانے کے طریقہ ہائے کار
-- [[zhang-tutormoments-2026]] — جب مدد بے مدد ہو: پیداواری رگڑ کے لیے AI ٹیوٹرز کا جائزہ
-- [[graph-its-adaptive-algorithms-2026]] — متحرک ڈومینز کے لیے گراف پر مبنی ذہین ٹیوٹرنگ (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS میں موافق ICAP سکافولڈنگ (BKT بمقابلہ DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — ٹیوٹرنگ کے لیے مخصوص بمقابلہ عام مقصد والا AI: پائیدار سیکھنے کے نتائج پر ثبوت
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors اور پیدگوجیکل حفاظت
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy جذباتی ریاضی کی ٹیوٹرنگ
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL کے ساتھ ورچوئل ٹیوٹرنگ: قبولیت اور سیکھنے کا تجربہ
-- [[learnlm-improving-gemini-learning]] — LearnLM: سیکھنے کے لیے Gemini کو بہتر بنانا
-- [[teachlm-post-training-llms-education]] — TeachLM: مستند سیکھنے کے ڈیٹا سے LLM کی بعد از تربیت
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — الحاق میپنگ کے ساتھ نتائج پر مبنی نالج ٹریسنگ
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — جدت کی رفتار سے AI ٹیوٹرنگ کا جائزہ: GCSE سائنس میں AI ٹیوٹرنگ پلیٹ فارم کے پریکٹیشنر کی زیرِ قیادت مائیکرو-رینڈمائزڈ ٹرائلز
-- [[misconception-acquisition-dynamics-llms-2026]] — ایسے ٹیوٹر ماڈلز جو درست حل کرنا کھوئے بغیر طلبہ کی بہت سی غلط فہمیاں حاصل کر لیتے ہیں
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ سے GRE سیکھنے کے برابر فوائد
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — گارڈ ریل یا رکاوٹیں؟ پروگرامنگ کے لیے AI تدریسی معاونین میں پیدگوجیکل انداز اور سیاق سے آگاہی کے اثرات
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — کورس سے زمین والے، LMS میں شامل AI ٹیوٹر کا کثیر المضامین RCT: عین مطابق نمونے میں حتمی نمبر 0.37 SD کم، پلیٹ فارم شرکت 0.90 SD کم، تدریسی انضمام کے بغیر (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — رہنمائی والے AI ٹیوٹرز طالب علم کے تعطل کو کیسے حل کرتے ہیں اس میں فرق، اور کارروائی گہرائی کے ساتھ کیوں بدلنی چاہیے
-- [[lyu-data-driven-redesign-tutoring-2026]] — ذہین ٹیوٹرنگ نظاموں کے ڈیٹا پر مبنی دوبارہ ڈیزائن کے عمل کا جائزہ: کام پر زیادہ پیداواری وقت اور زیادہ مشق شدہ مہارتیں، مگر مشق کی پتلی مقدار پر سیکھنے کے فائدے میں کوئی فرق نہیں (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: طویل مدتی ذاتی نوعیت کے سیکھنے کے لیے نظریے سے آگاہ فریم ورک (Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — پورے ضلع میں استاد کی وساطت والا AI ریاضی رول آؤٹ: ~51% شمولیت کی وفاداری اور 0.11 SD (2 مسائل/ہفتہ) سے 0.31 SD (20+/ہفتہ) تک مقدار کا میلان؛ IEP، EL اور ہسپانوی طلبہ کے لیے بڑے تلاشی تعلقات
-- [[llm-tutors-process-synthesis-2026]] — کیا LLM ٹیوٹر واقعی سکھاتے ہیں؟ ٹیوٹرنگ دور کی عمل پر مرکوز ترکیب
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — پھر بھی آف دی شیلف ماڈلز وہ ثبوت فراہم نہ کر سکیں: Worden et al
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — غیر مادری انگریزی بولنے والے طلبہ کے لیے کثیر المصدر AI ٹیوٹر

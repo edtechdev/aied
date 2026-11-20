@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -82,29 +84,3 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 - **“Ağ analizi hesaplamalı olduğu için nesneldir.”** **Kodlama temeldir**: tüm ağ varyantları ham verilerin (söylemler, olaylar, ilişkiler) ayrık düğümlere güvenilir biçimde kodlanmasına dayanır ve otomatik kodlama tanımlarını onları kimin belirlediğinden miras alır. [[visualization|Görselleştirme]] ortaya çıkan bir yapı gibi görünür, oysa düğümleri yorumsal tercihlerdir.
 - **“Ağ yapısındaki bir değişim kendi başına öğrenme kazancıdır.”** **Yirmi karma disiplinli lisansüstü öğrencisiyle** yürütülen bir vaka tartışmasında **boyut-3 ortak terim payı %5,2’den %8,0’a yükselirken içerik belirteçleri okuma sonrası düzeylerinin kabaca 0,65 katına düşmüştür**. İki yapısal ölçüt zıt yönlerde hareket etmiştir; bu nedenle “ağ değişti” ifadesi, hangi ölçüt boyunca ve neden önemli olduğu söylenene kadar bir bulgu değildir.
 - **“Daha fazla terim paylaşmak daha iyi işbirliği demektir.”** Ortak terim payının yükselmesi ile içerik belirteçi çeşitliliğinin düşmesi, daha küçük bir sözcük dağarcığında yakınsamayla tutarlıdır. Uzlaşı ile daralma yapısal olarak benzerdir; bu yüzden ölçütün, hesaplandığı içeriğe ihtiyacı vardır.
-
-## Bağlı kavramlar
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Bağlı makaleler
-- [[caeai-response-length-ai-ethics-education-2026]] — Katılımcı–morfem ağlarında paylaşılan terim istatistiklerini belirleyen, sözcüksel hizalanma değil yanıt uzunluğudur (Shao ve diğerleri 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — İskelelenen EFL yazma etkinliğinde öğrenen–sohbet robotu etkileşimlerinin TNA’sı
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI okuryazarlığı etkileşim örüntülerinin ENA’sı
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — İnsan-YZ işbirlikçi problem çözmenin ENA’sı
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Bilişsel yük aktarımı ve istek metni oluşturma (SNA/ağ yöntemleri)
-- [[youtube-frames-chatgpt-education]] — Eğitimde ChatGPT’nin YouTube çerçevelerinin ENA’sı
-- [[agency-gap-ai-writing]] — YZ destekli yazmada etkinlik (ajans) boşluğu (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Doğruluk Ölçütlerinin Gözden Kaçırdığı: Sentetik Eğitim Verisi Üzerine Yapısal Bir İnceleme
-
-- [[dang-human-ai-collaboration-competency-2026]] — ENA eğitimcilerin yetkinlik söylemini de haritalar

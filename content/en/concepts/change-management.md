@@ -15,6 +15,8 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 > **Change management** — the deliberate set of processes, governance structures, and leadership practices through which [[higher-ed|higher education]] institutions plan, implement, and sustain the integration of AI into teaching, learning, and [[assessment|assessment]]. Because [[generative-ai|generative AI]] arrived as an "arrival technology" that entered classrooms before [[pedagogy|pedagogical]] evidence accumulated, change management in [[ai-education|AI education]] must support continuous adaptation under uncertainty rather than one-time adoption, balancing institutional stability with emergent innovation and shared governance across [[administrator|administrators]], [[teacher-role|faculty]], students, and [[educational-policy-ai|policymakers]].
@@ -75,35 +77,3 @@ Change management is the institutional complement to classroom-level integration
 - **"Strategic intent creates capacity."** Only **7% of institutions** have created senior AI leadership roles despite **49% viewing AI as a strategic priority**. The gap is between declaration and structure, and it is the recurring failure of AI change management.
 - **"Adopting an AI tool is an event."** **Sustainability is a property of the organization, not the tool** — the CSUN text-messaging trial illustrates the timescale. The evaluation ran four years because durability is what needed testing.
 - **"Institutions need to react faster, not anticipate."** **Anticipatory leadership** is the complementary thread: the [[baroudi-anticipatory-governance-ai-higher-ed-2026|scoping review]] finds institutions must shift from **reactive to foresight**-based governance. Reacting competently to a technology that has already arrived is what the evidence documents failing.
-
-## Connected Concepts
-
-- [[governance]] — the policy and oversight structures change management operationalizes
-- [[educational-policy-ai]] — national and institutional AI policy intent that change management must translate into practice
-- [[educational-development]] — building faculty capacity and pedagogical orientation for AI integration
-- [[administrator]] — leadership and anticipatory governance as change agents
-- [[ai-literacy]] — cross-cutting capability underpinning responsible institutional adoption
-- [[equity-in-ai-education]] — ensuring change benefits accrue evenly across institutions and learners
-- [[technology-acceptance-model]] — adoption drivers that explain how change spreads
-- [[academic-integrity]] — central regulatory anchor around which assessment reform is organized
-- [[student-support-and-success]] — sustaining a support program past the pilot
-
-## Connected Articles
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 design teachers: GAI use raises both self-efficacy and AI anxiety, and organizational support decides which path dominates (Ding et al., 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — global Delphi consensus on eight-area GenAI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — scoping review of anticipatory governance and leadership
-- [[ai-adaptation-gap-higher-education-2026]] — stakeholder gaps in AI use, attitudes, and trust across students, faculty, and staff
-- [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
-- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment

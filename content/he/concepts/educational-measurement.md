@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -45,7 +47,6 @@ ai_assist:
 
 - **קושי חזוי על ידי בינה מלאכותית וכיול:** [[llm-difficulty-calibration-programming-exams-2026|כיול קושי באמצעות מודלי שפה]] ו[[llm-item-difficulty-prediction|חיזוי קושי שאלות]] משתמשים במודלי שפה גדולים כדי לאמוד את קושי השאלה, דבר שיש לאמת מול אומדנים פסיכומטריים (ראו [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] מוסיפים מבחן בקנה מידה גדול של כיתות K–5 להנחה זו: על פני 5,170 שאלות במתמטיקה ובקריאה, שכוילו תחת מודל ה-Rasch IRT, דירוגי הקושי של GPT-4o בשיטת zero-shot התואמו בחוזק בינוני עד גבוה עם הקושיים האמיתיים (r = 0.83 במתמטיקה, r = 0.81 בקריאה), אך היו אחידים פחות בין כיתות, ולא עלו על רגרסור דמי-ממוצע-כיתה עבור כיתות K ו-1. גישה מבוססת תכונות — תכונות קוגניטיביות ולשוניות שחולצו על ידי מודל שפה גדול והוזנו למודלים עץ-מבוססים — הגיעו להתאמות של עד r = 0.87, כאשר רמת הכיתה וספירת המילים היו החוזים המובילים. המחקר ממחיש הן את ההבטחה והן את הגבולות של קושי חזוי על ידי בינה מלאכותית כקלט למדידה, ומציע זרימת עבודה מעשית בת שבעה שלבים לאנשי מקצוע בתחום הבדיקות.
 - **קושי בלי אבחנה.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] מדרגים ארבעה מודלים חזיתיים מול אמת-קרקע של IRT על 2,548 פריטי מתמטיקה: הם מגיעים ל-68.6 אחוז בקושי יחסי אך נופלים מתחת לאקראיות בשיפוט האבחנה, ונראה שהם מבלבלים בין השניים, וחזו נכון ב-85.4 אחוז מהמקרים בתשובות נכונות לעומת 12.6 אחוז בלבד בתשובות שגויות.
-
 
 - **כאשר תוויות קושי הנוצרות אינן מודדות קושי.** ביקורת תקפות-בניות של 311 שאלות הנוצרות על ידי מודלי שפה גדולים ופרוסות בסביבה אמיתית מצאה שתווית הקושי הנוצרת התואמה עם רמת הבלום שלה (הנוצרת יחד עמה) ב-ρ=0.90, אך עם הקושי האמפירי (האינדקס 1−p של תיאוריית הבחינות הקלסית) רק ב-ρ=0.06, בעוד שאורך האפשרויות סטה בכיוון הפוך (ρ=−0.18) — תוצאה של "תוויות כצורת-פני השטח" שמגבילה את הקריאות האופטימיות לגבי קושי חזוי על ידי בינה מלאכותית מלמעלה ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **איכות המדידה של מבחן סינתטי נשענת על צינור הייצור שלו.** סט שנבנה בידי פאנל של שלושה שופטים מבוססי-LLM וללא [[human-in-the-loop-ai|פיקוח אנושי]] במהלך ייצור הפריטים הראה איכות פריטית חלשה, וכיוון שהפריטים סינתטיים לחלוטין המחברים קוראים להשוואות פריטים שאוצרו בני אדם לפני שהציונים ייקראו כמדידה ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
@@ -138,7 +139,6 @@ ai_assist:
 - **הסכמת המעריכים קובעת את התקרה המעשית.** אימות בקנה מידה גדול על [[human-in-the-loop-ai-scoring-national-assessment-2026|*Acredita EB*]] של אורוגוואי מצא שהסכמת מעריכים אנושיים היא עצמה קובעת את התקרה המעשית לניקוד באמצעות בינה מלאכותית: מבין עשרה מומחים שניקדו 50 טקסטים באופן עצמאי, אף פריט רובריקה לא הגיע להסכמה עקיבית עם הקונצנזוס, המעריך הסוטה ביותר נפל בדרך-כלל מתחת ל-80% הסכמה בעוד שהטוב ביותר עלה על 90%, ו-Cohen's Kappa הייתה slight או fair בלבד עבור כמה פריטים מוטים העונים עליהם כמעט כל התשובות. המחברים שופטים אפוא ציונים אוטומטיים מול תקן-ייחוס שהוא עצמו בלתי-מושלם — עשרה מעריכים, ציון תפעולי בודד עבור רוב התשובות, ופריטים מספר באזור המקובל של 70% — אזהרה לכל טענת מדידה הבנויה על תוויות תפעוליות של מעריך בודד.
 - **המדד הלא-דיווח-עצמי אינו המדד הנכון.** סקירה דו-שלבית של 51 זוגות בנייה-אחת מצאה ש-41.2% הגיעו למסקנות חלוקות או מעורבות, וטוענת שמבחנים, דירוגים ועקבות הם הטרוגניים ולא תקן קריטריון, וכל אחד מהם זקוק לארגומנט תקפות משלו ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
-
 - **תקפות — מדידת הדבר הלא-נכון.** תקפות שואלת אם מכשיר מודד את הבנייה שהוא טוען שהיא מודדת. כשלים נפוצים כוללים **תת-ייצוג בנייה** (מבחן אוריינות AI שדגם רק ידע טכני, ומפספס אתיקה) ו**שונות לא-רלוונטית-לבנייה** (שאלה שמתגמלת שטף קריאה במקום את הכישור המטרה). [[ai-scoring-language-bias-physics|ניקוד באמצעות בינה מלאכותית והטיה לשונית]] מראה כיצד תכונות פני-שטח — שפה, ניסוח, סגנון — יכולות להוביל ציונים אוטומטיים בדרכים שאינן קשורות לבנייה המטרה. [[assessment-validity]] היא המעקה מפני איומים אלה.
 
 - **סקלה יכולה להחזיר את מספר הפקטורים המיועד בלי למדוד את הבניות המיועדות.** [[ai-empathy-scale-psychometric-evaluation-2026|Kang, Lee and Kang (2026)]] שמרו שישה פקטורים מסקלת אמפתיה-AI בת 42 פריטים, אך הפריטים לא שיחזרו את שישת תת-הפקטורים המיועדים — Prosocial Intention לא ייצר פקטור — ולכן המבנה מוצג כזמני.
@@ -171,70 +171,3 @@ ai_assist:
 - **"מודלים יכולים להעריך את קושי הפריט."** ארבעה מודלים חזיתיים נבחנו מול **אמת-קרקע של IRT על 2,548 פריטי מתמטיקה**: הם מגיעים ל-**68.6% בקושי יחסי** אך נופלים **מתחת לאקראיות** בכיול מוחלט. דירוג וכיול הן יכולות נפרדות, והשנייה היא מה שעיצוב הערכה זקוק לו.
 - **"תווית טקסונומית חוזה כמה פריט קשה."** לאורך **265 פריטי מתמטיקה**, רמת Bloom המיועדת הסבירה **פחות מ-5% מהשונות בקושי**. תיוג פריט לפי רמת Bloom אינו אומר כמעט דבר על הקושי האמפירי שלו.
 - **"איכות פריט נשפטת לפי הנוסח שלו."** **שפטו פריטים שנוצרו על פי נתיב הפתרון, לא על פי הנוסח**: קידוד **עץ ההיסקים המאומת** של כל פריט העלה את הביצועים מעל השיטה השנייה בטובה בפער ניכר. מבנה ההיסק נשא את האות, לא טקסט השטח.
-
-## מושגים מחוברים
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## מאמרים מחוברים
-
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
-- [[icap-cognitive-engagement-llm-agents]] — Measuring cognitive engagement with an extended ICAP framework
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity under GenAI
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs performance AI literacy misalignment
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[acceptance-ai-english-tools-2026]] — AI acceptance measures for English learning tools
-- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
-- [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half EFA/CFA validation with invariance, HTMT and DIF checks, including an honest account of playfulness-intention construct overlap
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration: divide-and-conquer recalibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: model self-confidence, probabilistic scoring and ensembles as scoring reliability levers
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item self-assessment questionnaire for upper-primary AI literacy (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic appraisal of 33 teacher AI literacy instruments across COSMIN-style quality domains (Zainal et al. 2026)
-- [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item AI empathy scale whose six factors did not recover the six intended subfactors
-- [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing; ant-colony-optimized 12-item short form tracks the full scale (r = 0.910–0.944) but narrows content coverage
-- [[bloom-taxonomy-llm-item-classification-2026]] — האם סיווגים קוגניטיביים חוזים התנהגות פריטית אמפירית? יישור טקסונומיית Bloom עם המאפיין הפסיכומטרי של פריטי מתמטיקה לאומיים מרוכזים בכיתות 4–12
-- [[llm-benchmark-secondary-science-topics-2026]] — איכות המדידה של מבחן סינתטי נשענת על צינור הייצור שלו
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — קושי בלי אבחנה
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — זוגות בנייה-אחת חולקים ב-41.2% מהמקרים, ומדדי ביצועים זקוקים לארגומנט תקפות משלהם (Fan et al. 2026)
-- [[chang-ai-cognitive-offloading-scale-2026]] — אימות סקלת ההסתמכות הקוגניטיבית של AI, עם בדיקות התקפות שהיא משמיטה

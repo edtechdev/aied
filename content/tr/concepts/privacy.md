@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -87,38 +89,3 @@ Gizlilik, [[learning-analytics]] (veri toplayıcı), [[personalized-learning]] (
 - **“Gizlilik bir uyum onay kutusudur, bir tasarım kısıtı değil.”** Kişiselleştiren, öngören veya değerlendiren neredeyse her YZ aracı öğrenen verisine bağlıdır; bu da veri minimizasyonunu bir tasarım kararı yapar. Veriyi gerektiren bir aracın isteğe bağlı bir gizlilik ayarı yoktur; tasarımın seçtiği bir veri bağımlılığı vardır.
 
 - **Veri uygulamalarına ilişkin farkındalık, onları görmekten doğmaz.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]], yazılarını okuyan [[conversational-ai|sohbet robotları]]nda **47 yedinci sınıf öğrencisinin %66’sının** en az koruyucu seçeneği seçtiğini ve **%47’sinin** algoritmik etkiyi “sadece eğlence” diye reddettiğini bulmuştur; bu ölçüm, sınıfın kendi günlüğe kaydedilmiş davranışının canlı olarak yansıtıldığını izlediği, “korkutucu” diye tepki verdiği ve birkaçının teneffüste de platformu kullanmaya devam ettiği bir dersten **bir ay sonra** yapılmıştır. Mekanizmayı görünür kılıp maliyeti somutlaştırmayan gizlilik eğitimi, tutumu değiştirmeden bırakır. Yazar, buradaki düşük puanların yüksek olanlardan **daha güvenilir olabileceğini** not eder; çünkü bu maddelerde sosyal olarak beklenen bir yanıt yoktur, oysa sorumluluk ve yönetişim doğru gelen yanıtı davet eder.
-
-## Bağlı kavramlar
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — öğrenci kayıtları, birimler arası veri paylaşımı ve feder risk modellemesi
-
-## Bağlı makaleler
-
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — İstemlerinize bir kuruş: YZ sohbet platformlarında bağlamsal sızıntı (Bekos ve ark. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch ve ark. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett ve ark. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

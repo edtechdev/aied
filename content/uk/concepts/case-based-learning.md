@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -91,34 +93,3 @@ ai_assist:
 - **«Реалістичний кейс навчає сам по собі.»** Реалізм дає контекст. Навчання дають запитання, порівняння та завдання на обґрунтування.
 - **«Згенеровані ШІ кейси готові до використання.»** Згенеровані кейси можуть бути плавними, правдоподібними й хибними. Вони потребують експертного перегляду та перевірки міркування, до якого запрошують.
 - **«Якщо студентам подобається дискусія, кейс спрацював.»** Залученість не є перенесенням. Результат треба вимірювати на завданні, яке студенти не могли виконати раніше.
-
-## Пов’язані поняття
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Пов’язані статті
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — Обґрунтований LLM утримав п’ять періопераційних кейсів без вигадування змісту
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT скоротив час створення сестринських кейсів без виміряної різниці в якості
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Шість РКД навчання на основі задач і кейсів із підтримкою ШІ; лише два перевіряли кейси
-- [[scaffolding-critical-engagement-genai-minority-students]] — Моделювання викладачем із контрастними кейсами в курсі GenAI
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Навчання на основі кейсів поряд із віртуальними та симульованими пацієнтами
-- [[genai-medical-education-transformation-review-2026]] — Навчання на основі кейсів і клінічне мислення серед категорій застосування огляду
-- [[hardie-genai-nursing-scoping-review-2026]] — Навчання на основі кейсів усередині теми симуляції сестринського огляду
-- [[lorteau-sarro-ai-legal-education-2025]] — ШІ доповнює сократівське викладання та правові симуляції
-- [[csaszar-ai-management-education-2026]] — Кейс-стаді та симуляції в управлінській освіті без аналізу методу кейсів

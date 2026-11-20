@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -93,7 +95,6 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 
 - **Condições de contorno.** As vertentes convergem na mesma contenção. A IA é melhor evidenciada para objetivos estruturados e repetíveis — comunicação fundacional, anamnese, educação em saúde, aquisição de conhecimento — e menos evidenciada para habilidade psicomotora complexa, interação carregada de emoção e formação profissional de longo prazo. A aceitação é consistentemente moderada a alta, mas a aceitação do feedback *por IA* é condicionada pela confiança: quem aprende prefere fontes humanas percebidas como benevolentes à IA percebida como meramente competente. As revisões também são geograficamente estreitas, dominadas por desenhos sem controle e por [[self-report-measures|autorrelato]] e — na revisão de simulação — mostram um padrão positivo quase uniforme que levanta preocupações de viés de publicação.
 
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -127,40 +128,3 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 **"Qualquer estudo de simulação se generaliza para a prática clínica."** A base de evidências revisada aqui — **19 estudos, N = 1.253, em sua maioria estudantes de pré-licenciatura** — é largamente de sala de aula e de laboratório, e a tradução da competência simulada para a prática supervisionada é exatamente o passo que uma simulação assistida por IA não ensaia por si mesma.
 
 **"A competência em IA para enfermagem significa lidar com as ferramentas, então o treinamento deveria começar por elas."** A literatura de frameworks corre no sentido oposto. As dimensões que os revisores encontraram consistentemente abordadas são conhecimento em ética, responsabilidade, aplicação e habilidades de avaliação; o uso técnico e operacional é onde o campo tem menos a dizer. Um programa que compra licenças de ferramentas primeiro está construindo a parte do mapa com a evidência mais fina, e os frameworks nomeados que poderia adotar em vez de um currículo, N.U.R.S.E.S., AI-ABCs e CARE, são precisamente os que não têm métodos de avaliação.
-
-## Conceitos conectados
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Artigos conectados
-- [[hardie-genai-nursing-scoping-review-2026]] — Aplicações, atitudes e ética na educação em enfermagem: uma revisão de escopo de 103 estudos (Hardie et al. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — As experiências de quem aprende com simulação e treinamento de habilidades apoiados por IA generativa na educação em enfermagem: uma metassíntese
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Revisão sistemática da IA na educação em enfermagem (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulação movida por IA na educação em enfermagem: revisão sistemática com métodos mixtos
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, lacunas estruturais e a reconstituição da identidade profissional
-- [[akbaba-nursing-ai-experiences-tam-2026]] — As experiências com IA de estudantes e do corpo docente de enfermagem pelo TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Percepções sobre IA e ansiedade profissional entre estudantes de ciências da saúde
-- [[genai-counter-learner-groupthink-2025]] — IA generativa para combater o pensamento de grupo na PBL interprofissional
-- [[dabkowski-nursing-academics-genai-2026]] — Acadêmicos de enfermagem sobre a GenAI: ambiguidade de política, valores profissionais e a deriva rumo à avaliação invigilada
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Supervisão remota na avaliação em enfermagem: vigilância, equidade e um caso de dissuasão construído sobre a percepção
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Revisão de escopo que mapeia frameworks de competência em IA sobre 12 subdimensões KAS para currículos de enfermagem
-- [[rony-nursing-educators-ai-tpack-2025]] — Educadores de enfermagem em Bangladesh sobre prontidão para IA, barreiras e governança de dados, lidos pelo TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Revisão guarda-chuva de 18 revisões: ética, transformação curricular e barreiras de integração
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Estudantes de enfermagem sobre o segredo aberto do uso de IA: aprendizagem personalizada, tempo e a divisão digital
-- [[agency-gap-ai-writing]] — ECR com estudantes de medicina e enfermagem: desenho de agente reativo versus proativo e a lacuna de agência
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1.020 estudantes de enfermagem: interação com GenAI, interação educacional e um modelo de mediação apenas identificado
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Uma resposta publicada a Rony et al.: ecossistemas institucionais, prontidão e supervisão de IA
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Corpo docente e estudantes codesenham um painel de analytics de educação em enfermagem
-- [[federated-learning-at-risk-student-prediction-2026]] — Predição de risco preservadora de privacidade entre programas de profissões de saúde, e por que um limiar importado erra o alvo na enfermagem

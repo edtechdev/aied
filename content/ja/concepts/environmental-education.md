@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -86,29 +88,3 @@ ai_assist:
 - **「環境教育におけるAIは主に情報を提供する。」** 測定された伸びは**意思決定**にあります。構造化された[[inquiry-based-learning|探究]]課題の中でAIパートナーと作業した学生は、探究のみの同級生（**d = 0.69**）と伝統的な指導（**d = 1.88**）を意思決定の指標で上回り、伸びは**最も弱い段階に集中**しました。効果は、学生が最も弱かった地点における推論の質にあります。
 - **「探究それ自体が有効成分である。」** AI支援の探究は**探究のみよりも気候の意思決定を改善**しました。したがってAIの寄与は教育学的構造に追加されたものであり、それと交換可能ではありませんでした。
 - **「小さな標本からの大きな効果は、やはり大きな効果である。」** 持続可能性の教育法の下でのAI支援の[[learning-design|教授設計]]は、**28名**の参加者から**d = 2.80**で教員養成課程の学生の授業案を改善しました。査読者自身の言葉は*信じがたいほど大きい*であり、その標本からその大きさの効果は、推定値ではなくシグナルとして扱うべきです。
-
-## 関連する概念
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## 関連する記事
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[llm-environmental-impact-student-usage-2026]] — Eco-feedback on latency–carbon trade-offs with 89 CS students
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantized assistant at 1.8 mWh per query
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: sustainability consciousness in engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Sustainable learning" as durable cognitive agency, not an environmental claim

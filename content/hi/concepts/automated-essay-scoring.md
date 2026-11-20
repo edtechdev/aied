@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -86,42 +88,3 @@ AES [[automated-assessment]], [[writing-education]] और [[generative-ai]] क
 - **"स्वचालित स्कोरिंग परिणाम छात्र लेखन को दर्शाते हैं।"** क्रमिक संकेत **देखा नहीं, निर्मित** हो सकता है: टेम्पलेट जनन से बने संश्लेषित स्तर-1 निबंध, **मूल लंबाई के 20 से 40%** तक अपकर्षण और कीवर्ड हटाव। निर्मित चरम बिंदुओं पर मान्य प्रणाली का उस वितरण पर परीक्षण कभी न हुआ हो जिससे वह मिलेगी।
 - **"समग्र सटीकता रिपोर्ट करने का मीट्रिक है।"** **तिरछा रूब्रिक वितरण समग्र स्कोरिंग मीट्रिक को भ्रामक बना सकता है**: रूब्रिक आयाम का स्वचालित मूल्यांकन अक्सर असंतुलित लेबल वितरण वाला वर्गीकरण कार्य होता है, जहाँ उच्च सटीकता और उपयोगी विभेदन अलग हो जाते हैं।
 - **"फील्ड तैनातियों का मूल्यांकन नहीं हुआ है।"** फील्ड साक्ष्य एक वास्तविक उच्च-दांव तैनाती (**उरुग्वे का Acredita EB, 2024**) से मौजूद है, जो इस साहित्य में साक्ष्य का सबसे मज़बूत रूप है और वही जो स्कोरिंग सटीकता के अधिकांश अध्ययन कभी नहीं देते।
-
-## संबंधित अवधारणाएँ
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## संबंधित लेख
-
-- [[reflection-level-classification-hungarian-essays-2026]] — हंगेरियाई विद्यार्थी निबंधों में चिंतन-स्तर का स्वचालित वर्गीकरण
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: तर्कसंगत निबंधों के लिए एक मॉड्यूलीकृत स्वचालित लेखन मूल्यांकन प्रणाली
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — शैक्षणिक नवाचार स्वचालित निबंध स्कोरिंग के माध्यम से: उच्च विद्यालय भौतिकी निबंधों में समालोचनात्मक चिंतन के मूल्यांकन के लिए एक बहु-विमीय ढाँचा
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise रिपोर्ट: तीन ब्रिटिश विश्वविद्यालयों में 761 विश्वविद्यालयीय निबंधों का AI अंकन
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — बड़े पैमाने के लेखन मूल्यांकन में AI-सहायित स्कोरिंग के लिए एक मानव-इन-द-लूप ढाँचा
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: LLM के साथ पुरस्कार-संरेखित सुसंगत निबंध स्कोरिंग
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM मानवों की तरह निबंध ग्रेड नहीं करते (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — स्वचालित स्कोरिंग से सीखने के निदान तक: अंग्रेज़ी लेखन में AI-समर्थित प्रतिपादक मूल्यांकन का एक तंत्र अध्ययन
-- [[llm-essay-scoring-feature-weighting-2026]] — LLM-आधारित निबंध स्कोरिंग में विशेषता-भारण पैटर्न (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — निबंध मूल्यांकन में LLM के मूल्यांकन के लिए ढाँचा (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — जानें कब भरोसा करें: आत्मविश्वास, भारित संभाव्य स्कोरिंग और एनसेंबलिंग LLM स्कोरिंग सहमति सुधारते हैं
-- [[swim-student-writing-simulation-2026]] — एक लेखन जनरेटर के लिए घना प्रशिक्षण पुरस्कार के रूप में उपयोग किया गया एक स्थिर AES सत्यापक
-
-- [[porcaro-ai-grading-benchmark-2026]] — सहमति से आगे: 22 प्रॉम्प्ट किए ग्रेडर ऐसी प्रोब से मिलते हैं जिनका सही उत्तर ज्ञात है, और उनमें से ज़्यादातर को बहकाया जा सकता है (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300-छात्र कक्षाओं के शिक्षक एक Unplugged AES ऐप को 92.5 SUS देते हैं और अंतिम स्कोर के बजाय विश्वसनीयता-चेतावनी माँगते हैं (Ribeiro एट अल. 2026)
-

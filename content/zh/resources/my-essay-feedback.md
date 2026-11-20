@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -47,12 +48,3 @@ MyEssayFeedback 把教师放在学生和模型之间。教师不是把通用聊�
 ## 说明与注意事项
 
 网站报告有 12,000 多名学生、700 多门课程、41,000 多篇作文经过审阅——这些是供应商自报的数字，不是独立审计。FERPA 合规、GDPR 准备和无障碍同样是供应商自己的说法；作文经 Azure OpenAI 处理，网站称它们不会被用于训练模型，学区应当在数据处理协议中确认这一点，而不是从营销页面采信。定价是 freemium，并随受众而变：新教师第一学期免费（需申请，每校限三个），之后每学生每学期约 \$12–15，另有面向个别学生的按次付费层，首次审阅免费。与 ChatGPT Plus、Packback 和 Grammarly 的对比表是供应商自己的。与 UC Davis 在 PAIRR 项目上的合作是研究协作，不是该平台能改善写作的已发表证据。
-
-## 关联概念
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

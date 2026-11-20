@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -66,45 +68,3 @@ Knowlesのアンドラゴジーモデルに根ざし、成人学習は、学習�
 - **「1つの良いツールが成人学習者に資する。」** 研究は、**すべての設計指針を満たす単一の成人学習AIシステムは存在しなかった**ことを見出しました。生態系全体が必要だったのです。成人は義務、断続的なスケジュール、異質な目標を抱えてやってくるため、単一の製品では設計空間を覆えません。
 - **「デジタルリテラシーは成人水準で前提にできる。」** [[community-centered-ai-education-adults|中西部のケーススタディ]]は、十分なサービスを受けていない地域社会の**成人54人**のためにAIリテラシー・プログラムを共同設計し、公平性を志向する成人向けAI教育はまず**基礎的なデジタルリテラシーとデータへの信頼**に取り組まなければならないことを見出しました。年齢はデジタルな流暢さの代理変数ではありません。
 - **「導入は動機づけの問題である。」** データのプライバシーをめぐる[[ai-literacy]]と[[trust|信頼]]の構築は、導入を期待するに先立って必要です。意欲は技術への熱意からではなく、自分のデータがどうなるかについての確信から生まれます。
-
-## 関連する概念
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — オンライン教育と学習
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## 関連する記事
-
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 関与の幅に合わせて設計する：深いソクラテス的対話をより報酬の大きい道筋にする

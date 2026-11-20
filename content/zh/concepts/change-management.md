@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,35 +87,3 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 - **"战略意图会创造能力。"** 尽管 **49% 的机构**把 AI 视为战略重点，只有 **7% 的机构**设立了高级 AI 领导岗位。缺口在宣言与结构之间，而这正是 AI 变革管理反复出现的失败。
 - **"采纳一个 AI 工具是一个事件。"** **可持续性是组织的属性，而非工具的属性**：对加州州立大学北岭分校一个非生成式 AI 短信聊天机器人的四年随机评估说明了这个时间尺度。评估之所以持续四年，是因为需要被检验的正是持久性。
 - **"机构需要反应更快，而不是预见。"** **前瞻性领导力**是互补的那条线索：[[baroudi-anticipatory-governance-ai-higher-ed-2026|范围综述]]发现机构必须从**被动反应转向以预见为基础**的治理。对一项已经到来的技术作出胜任的反应，正是证据所记录的失败。
-
-## 关联概念
-
-- [[governance]] —— 变革管理所操作化的政策与监督结构
-- [[educational-policy-ai]] —— 变革管理必须转化为实践的国家与机构 AI 政策意图
-- [[educational-development]] —— 为 AI 整合建设教师能力和教学取向
-- [[administrator]] —— 作为变革推动者的领导力与前瞻性治理
-- [[ai-literacy]] —— 支撑负责任的机构采用的跨领域能力
-- [[equity-in-ai-education]] —— 确保变革收益在不同机构和学习者之间均匀分配
-- [[technology-acceptance-model]] —— 解释变革如何扩散的采用驱动因素
-- [[academic-integrity]] —— 评估改革围绕其组织的核心监管锚点
-- [[student-support-and-success]] —— 把一个支持项目维持到试点之后
-
-## 关联文章
-
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 名设计教师：生成式 AI 使用同时提高自我效能与 AI 焦虑，而组织支持决定哪条路径占主导（Ding 等，2026）
-- [[mata-sustaining-ai-enabled-student-support-2026]] —— 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata, Russell & Page 2026）
-- [[institutional-change-framework-ai]] —— 把机构变革模型适配到作为"到来了的技术"的 AI 的六维框架
-- [[leveraging-complex-systems-leading-for-transformative-change]] —— SPARK 框架与面向变革性变革的复杂性领导力
-- [[crompton-governing-genai-higher-ed-delphi-2026]] —— 八领域 GenAI 治理的全球德尔菲共识
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] —— 前瞻性治理与领导力的范围综述
-- [[ai-adaptation-gap-higher-education-2026]] —— 学生、教师和员工在 AI 使用、态度与信任上的利益相关者差距
-- [[ai-uk-higher-education-policy-2026]] —— 英国高等教育中的国家政策意图与机构能力
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] —— AI 采用的组织与技术驱动因素
-- [[adarkwah-genai-unesco-policy-2026]] —— 机构 GenAI 政策的 UNESCO 框架分析
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] —— GenAI 时代一所文理学院向研究密集型模式的数字化转型（Qin 2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] —— 在基础设施匮乏下把机构 AI 战略翻译为落地实践的数字中介者
-- [[computing-assessment-genai-workshop-report-2026]] —— "AI 能做你的作业。现在怎么办？"——一场关于生成式 AI 时代计算评估的在线工作坊报告
-- [[instruction-partners-ai-in-action-learning-tour-2026]] —— 跨系统实地工作：实施与教师行动如何决定一个 AI 产品是否有帮助
-- [[dot-framework-survey-2026]] —— 专业发展必须覆盖完整设计周期而不仅是工具使用的调查证据
-- [[flipped-classroom-ai-assessment-math-2026]] —— 本科数学中从个人倡议到中心资助的十年扩散弧线（Law 2026）
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 在持续调整之前，为每一门 AI 整合课程预算 15 至 20 小时的重设计时间

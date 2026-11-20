@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -57,7 +59,6 @@ ai_assist:
 
 **يريد المدرّسون أن تُقدَّم الدرجة كقابلة للمراجعة لا نهائية.** قيّم تسعة مدرّسي كتابة برازيليين ذوي خبرة في المرحلة الثانوية تطبيقاً لتقويم المقالات الآلي من [[ai-education|AIED]]-Unplugged وقيّموه تقديراً عالياً — وسيط SUS 92.5، ووسائط TAM عند 7 لمنفعته وسهولة استخدامه وصلته ونية استخدامه، و6 لجودة النتيجة. وقد تطوّعوا، دون سؤال، بأنه ينبغي للتقرير أن يحمل تحذيراً على الشاشة بأنه ليس موثوقاً تماماً ويجب مراجعته قبل أن يراه الطالب؛ وقرأ أحد المدرّسين ذلك الالتزام كميزة إيجابية ([[ribeiro-teachers-writing-analytics-adoption-2026|ريبيرو وآخرون (2026)]]). وطلبوا تفصيلاً أكثر لا أقل: تشخيصات لكل كفاءة، وملخصاً شاملاً، وحقلاً لتعليقاتهم الخاصة، وأمثلة ملموسة لكيفية التحسّن. وحيث يجادل بحث الصدق حول معدلات الاتفاق، طلب هؤلاء المستخدمون من الواجهة أن تُرمِّز تقسيم الحكم بين النظام والمدرّس.
 
-
 **الخلاف مع المقيّمين البشريين منتظم لا عشوائي.** اتفقت نماذج GPT وLlama جاهزة الاتفاق ضعيفاً فقط مع الدرجات البشرية (QWK ≈ 0.17–0.28 مقابل 0.72 بين مقيّمين بشريين) وانحازت في اتجاه معتمد على الجودة — أعلى للمقالات القصيرة غير المتطورة وأدنى للطويلة القوية الحاملة أخطاء سطحية طفيفة ([[llms-do-not-grade-essays-like-humans-2026|ماثيو وآخرون (2026)]]).
 
 **التقييم بلغة ثانية والمرجعي الذاتي** يستكشف سياقات كتابة غير الأصليين. ويستخدم **[[self-referential-l2-writing-llm-assessment|التقييم المرجعي الذاتي لكتابة اللغة الثانية]]** مقاربة مرجعية ذاتية تقارن كتابة الطالب بأعماله السابقة لا بمعايير المتحدث الأصلي.
@@ -92,42 +93,3 @@ ai_assist:
 - **«نتائج التقويم الآلي تعكس كتابة الطالب.»** يمكن أن تكون الإشارة الترتيبية **مصنوعة لا ملاحَظة** — مقالات اصطناعية من المستوى الأول بُنيت بالتوليد القالبي، وبالتدهور إلى **20-40% من الطول الأصلي**، وبإزالة الكلمات المفتاحية. فالنظام المُتحقَّق منه على أطراف مُنشأة قد لا يكون قد اختُبر قط على التوزيع الذي سيلاقيه.
 - **«الدقة المجمّعة هي المقياس الذي يُبلَّغ عنه.»** **توزيع سلم تقييم منحرف قد يجعل مقاييس التقييم المجمّعة مُضلِّلة**: فالتقييم الآلي لبُعد من سلم التقييم مهمة تصنيف غالبًا بتوزيع تسميات مختلّ، وحيث تفترق الدقة العالية والتمييز النافع.
 - **«النشر الميداني لم يُقيَّم.»** توجد أدلة ميدانية من نشر حقيقي عالي الأهمية (**Acredita EB في أوروغواي، 2024**)، وهو أقوى شكل من الأدلة في هذه الأدبيات وأكثره غيابًا في دراسات دقة التصحيح.
-
-
-## المفاهيم المرتبطة
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## المقالات المرتبطة
-- [[reflection-level-classification-hungarian-essays-2026]] — تصنيف مستوى التأمل الآلي في مقالات الطلاب الهنغاريين
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: نظام تقييم كتابة آلي معياري للمقالات الحجاجية
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — الابتكار التعليمي من خلال تقويم المقالات الآلي: إطار متعدد الأبعاد لتقييم التفكير النقدي في مقالات الفيزياء للمرحلة الثانوية
-- [[opraise-automated-marking-ai-assessment-2026]] — تقرير OpRaise: تصحيح الذكاء الاصطناعي لـ761 مقالة جامعية عبر ثلاث جامعات بريطانية
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — إطار بشري في الحلقة للتصحيح المُساعَد بالذكاء الاصطناعي في تقويم الكتابة واسع النطاق
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: تقويم مقالات ثابت مواءَم للمكافأة بالنماذج اللغوية الكبيرة
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — النماذج اللغوية الكبيرة لا تُقوّم المقالات كما يفعل البشر (ماثيو وآخرون 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — من التصحيح الآلي إلى تشخيص التعلّم: دراسة آلية للتقويم التكويني المُساعَد بالذكاء الاصطناعي في كتابة الإنجليزية
-- [[llm-essay-scoring-feature-weighting-2026]] — أنماط ترجيح الخصائص في تقويم المقالات القائم على النماذج اللغوية الكبيرة (وانغ وآخرون 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — إطار لتقييم النماذج اللغوية الكبيرة في تقويم المقالات (ليو ويي ويان 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — اعرف متى تثق: الثقة الذاتية والتقييم الاحتمالي المرجَّح والتجميع تُحسّن اتفاق تقويم النماذج اللغوية الكبيرة
-- [[swim-student-writing-simulation-2026]] — مدقّق تقويم مقالات آلي مجمّد مستخدم كمكافأة تدريب كثيفة لمولّد كتابة
-
-- [[porcaro-ai-grading-benchmark-2026]] — ما بعد الاتفاق: 22 مُقيِّماً موجَّهاً يجتازون فحوصاً إجابتها الصحيحة معروفة (بوركارو 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — مدرّسو صفوف من 300 طالب يُقيّمون تطبيق تقويم مقالات آلي 92.5 SUS ويطلبون تحذيراً بالموثوقية لا درجة نهائية (ريبيرو وآخرون 2026)
-

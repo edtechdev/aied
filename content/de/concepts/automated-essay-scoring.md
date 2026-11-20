@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -97,42 +99,3 @@ Offene Systeme gehören ebenfalls zu diesem Bild: AiAWE bewertet argumentative A
 - **„Ergebnisse automatisierter Bewertung spiegeln das Schreiben der Studierenden."** Das ordinale Signal kann **hergestellt statt beobachtet** sein — synthetische Level-1-Aufsätze, gebaut durch Vorlagenerzeugung, Degradierung auf **20–40% der Originallänge** und Entfernen von Schlüsselwörtern. Ein System, das an konstruierten Extremen validiert wurde, ist möglicherweise nie an der Verteilung getestet worden, auf die es treffen wird.
 - **„Aggregierte Genauigkeit ist die Kennzahl, die zu berichten ist."** **Eine schiefe Rubrikverteilung kann aggregierte Bewertungskennzahlen irreführend machen**: Die automatisierte Evaluation einer Rubrikdimension ist oft eine Klassifikationsaufgabe mit einseitiger Labelverteilung, bei der hohe Genauigkeit und brauchbare Diskrimination auseinanderfallen.
 - **„Feldeinsätze sind nicht evaluiert worden."** Feldbelege existieren aus einem realen folgenreichen Einsatz (**Uruguays Acredita EB, 2024**), was die stärkste Evidenzform in dieser Literatur ist und die, die die meisten Studien zur Bewertungsgenauigkeit nie liefern.
-
-## Verbundene Konzepte
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Verbundene Artikel
-
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — Rubrikbewusste Chain-of-Thought plus PPO: durchschnittlicher QWK von 0,5253 auf 0,5410, mit geringen Zuwächsen durch Skalierung (Xu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — Auditierbare Bewertung: 0,738 Makro-QWK mit evidenzverankertem Feedback und einem Flag zur Überprüfung durch Lehrkräfte (Xin 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatische Klassifikation des Reflexionsniveaus in Essays ungarischer Lernender
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: ein modularisiertes System zur automatisierten Bewertung argumentativer Aufsätze
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Bildungsinnovation durch automatisierte Essay-Bewertung: Ein mehrdimensionaler Rahmen zur Beurteilung kritischen Denkens in Physik-Essays der Oberstufe
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise-Bericht: KI-Bewertung von 761 universitären Essays an drei UK-Universitäten
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Framework für die KI-gestützte Bewertung von Schreibtexten in Large-Scale-Assessments
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: belohnungsorientierte konsistente Aufsatzbewertung mit LLMs
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs bewerten Aufsätze nicht wie Menschen (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Von der automatisierten Bewertung zur Lerndiagnose: eine Mechanismenstudie zur KI-gestützten formativen Beurteilung beim Schreiben auf Englisch
-- [[llm-essay-scoring-feature-weighting-2026]] — Muster der Merkmalsgewichtung bei der LLM-basierten Essay-Bewertung (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework zur Evaluation von LLMs in der Aufsatzbewertung (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wissen, wann man vertrauen sollte: Selbstvertrauen, gewichtete probabilistische Bewertung und Ensembling verbessern die Übereinstimmung von LLM-Bewertungen
-- [[swim-student-writing-simulation-2026]] — ein eingefrorener AES-Verifizierer, der als dichtes Belohnungssignal für das Training eines Schreibgenerators dient
-- [[porcaro-ai-grading-benchmark-2026]] — Jenseits der Übereinstimmung: 22 promptgesteuerte Bewertungssysteme treffen auf Testaufgaben mit bekannter richtiger Antwort, und die meisten lassen sich zu höheren Bewertungen überreden (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Lehrkräfte von Klassen mit 300 Schülerinnen und Schülern bewerten eine Unplugged-AES-App mit 92,5 SUS und fordern einen Warnhinweis zur Reliabilität statt einer endgültigen Punktzahl (Ribeiro et al. 2026)
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Optimierung der durch große Sprachmodelle gestützten automatisierten Aufsatzbewertung: Integration linguistischer Merkmale und Prompt Engineering zur Verbesserung der Bewertungsgenauigkeit

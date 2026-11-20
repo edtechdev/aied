@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -110,39 +112,3 @@ La distinción merece conservarse. La puntuación de una tabla de clasificación
 - **«La posición en la clasificación indica lo bueno que es un tutor.»** StudentBench **asigna al azar a 2.383 adultos a tutoría con IA, tutoría humana experta en vivo y una condición de vídeo**, y puntúa contra tutores humanos y no contra otros sistemas. Un punto de referencia escalado contra otros modelos responde a una pregunta que nadie necesitaba responder.
 - **«Las personas simuladas son una base adecuada para evaluar tutores.»** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] ancla la evaluación en **literatura de casos documentada en lugar de personas simuladas**, con **923 diálogos**. Las personas estudiantes fabricadas permiten que un sistema supere casos que no ocurren.
 - **«Se puede confiar en los puntos de referencia sin comprobar a quien juzga.»** La alucinación se puntuó como **implicación lógica respecto a los fragmentos de licencia abierta recuperados (κ = 0,76 con el juicio experto)**: quien juzgaba se validó contra personas expertas antes de usar sus puntuaciones. Un juez automático sin validar produce números de significado desconocido.
-
-## Conceptos conectados
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Artículos conectados
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores con LLM ante estudiantado con conductas desafiantes (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Un punto de referencia de competencia en inglés de 624 ítems que informa de la capacidad del modelo como un nivel calibrado (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo para los humanos y para los LLM? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — El Punto de Referencia Pedagógico: conocimiento pedagógico de los LLM (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: evaluación de agentes de diseño instruccional basados en LLM
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asistentes de base de conocimiento con IA sobre REA en local: punto de referencia multidimensional
-- [[authentic-products-authenticated-processes-2026]] — De productos auténticos a procesos autenticados: la evaluación auténtica en la educación superior rica en IA
-- [[llm-cognitive-diagnosis-handwritten-math]] — Evaluación de grandes modelos de lenguaje para diagnosticar las habilidades cognitivas del estudiantado a partir de trabajo matemático manuscrito
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: un punto de referencia de horizonte largo para agentes pedagógicos LLM con estudiantes simulados
-- [[responsible-assessment-ai-era-stanford-2026]] — Evaluación responsable en la era de la IA: ideas clave de una conferencia orientada al futuro
-- [[anvil-ai-educational-animations]] — ANVIL: analogías y vídeos para el profesorado
-- [[icle-plus-plus-essay-scoring]] — ICLE++: modelado de rasgos finos para la calificación holística de ensayos
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: evaluación de LLM multimodales para la auditoría de diapositivas
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: punto de referencia para evaluar diagramas matemáticos generados
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizar la evaluación del estudiantado: predicción de familiaridad basada en EEG
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: generación aumentada por recuperación para la enseñanza teórica de la informática -- un marco de evaluación integral para el análisis de algoritmos y la teoría de la complejidad
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: construcción de puntos de referencia con anotación primero y generación de tareas, y no redundancia a nivel de dimensión en 12 tareas de imágenes artísticas (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
-- [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de temas de ciencias de secundaria por parte de los LLM
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — 11 configuraciones frente a 1.696 competencias de referencia: la regla de emparejamiento movió la recuperación entre 11 y 72 puntos porcentuales

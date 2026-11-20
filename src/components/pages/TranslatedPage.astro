@@ -13,6 +13,7 @@ import SourceButtons from '../SourceButtons.astro';
 import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
+import { CONNECTED_HEADINGS } from '../../i18n/sectionHeadings';
 import { localizeHref, localizeHtml } from '../../i18n/config';
 import { localizedFields, localizedField } from '../../i18n/localizedTitles';
 
@@ -55,7 +56,7 @@ const rendered = renderMarkdown(entry.body || '', {
 // Connected FAQs and Connected resources come from frontmatter, exactly as they do on
 // the English page, so a translation carries the same sections and TOC entries.
 const byId = new Map(
-  [...faqs, ...resources].map((c) => [c.id.replace(/\.md$/, ''), c] as const),
+  [...faqs, ...resources, ...concepts, ...articles].map((c) => [c.id.replace(/\.md$/, ''), c] as const),
 );
 const connectedFaqs = (data.connected_faqs || [])
   .map((id: string) => byId.get(id.replace(/\.md$/, '')))
@@ -63,8 +64,20 @@ const connectedFaqs = (data.connected_faqs || [])
 const connectedResources = (data.connected_resources || [])
   .map((id: string) => byId.get(id.replace(/\.md$/, '')))
   .filter(Boolean);
+// Connected Concepts / Articles now come from frontmatter too (2026-11-19), so the
+// renderer shows each target's own translated title — no per-locale gloss to maintain.
+const connectedConcepts = (data.connected_concepts || [])
+  .map((id: string) => byId.get(id.replace(/\.md$/, '')))
+  .filter(Boolean);
+const connectedArticles = (data.connected_articles || [])
+  .map((id: string) => byId.get(id.replace(/\.md$/, '')))
+  .filter(Boolean);
+const ccHeading = CONNECTED_HEADINGS[locale]?.connectedConcepts ?? 'Connected Concepts';
+const caHeading = CONNECTED_HEADINGS[locale]?.connectedArticles ?? 'Connected Articles';
 
 const toc = rendered.headings.filter((h) => h.depth <= 3);
+if (connectedConcepts.length > 0) toc.push({ text: ccHeading, slug: 'connected-concepts', depth: 2 });
+if (connectedArticles.length > 0) toc.push({ text: caHeading, slug: 'connected-articles', depth: 2 });
 if (connectedFaqs.length > 0) toc.push({ text: chrome.metadataLabels.connected_faqs, slug: 'connected-faqs', depth: 2 });
 if (connectedResources.length > 0) toc.push({ text: chrome.metadataLabels.connected_resources, slug: 'connected-resources', depth: 2 });
 const kindLabels: Record<string, string> = { concepts: chrome.concepts, resources: chrome.resources, faqs: chrome.faqs };
@@ -130,6 +143,26 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
            the default locale, so the English pages render exactly as before. -->
       <Fragment set:html={localizeHtml(rendered.html, locale)} />
     </div>
+
+    <ConnectedList
+      id="connected-concepts"
+      heading={ccHeading}
+      items={connectedConcepts.map((c: any) => ({
+        href: localizeHref(`/aied/concepts/${c.id.replace('.md', '')}/`, locale),
+        title: localizedField(localized, 'concepts', c.id.replace('.md', ''), { title: c.data.title }).title,
+        kind: 'concept' as const,
+      }))}
+    />
+
+    <ConnectedList
+      id="connected-articles"
+      heading={caHeading}
+      items={connectedArticles.map((a: any) => ({
+        href: localizeHref(`/aied/articles/${a.id.replace('.md', '')}/`, locale),
+        title: localizedField(localized, 'articles', a.id.replace('.md', ''), { title: a.data.title }).title,
+        kind: 'article' as const,
+      }))}
+    />
 
     <ConnectedList
       id="connected-faqs"

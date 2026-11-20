@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -112,23 +114,3 @@ IT와 정책 담당자는 승인을 라우팅 결정으로 바꿀 수 있습니�
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, 2026년 2월. 비승인 사용은 충족되지 않은 필요를 보고한다는 실무자의 논증입니다. 교수진이 수업안을 작성하고, 연구자가 학과 카드로 클라우드 GPU를 띄우고, 직원이 민감 데이터를 소비자용 도구에 붙여넣는 것은 승인된 경로가 더 느렸기 때문입니다.
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan과 동료들, Springer, 2026. 공공 부문 직원 214명에 대한 PLS-SEM으로, 섀도 AI를 거버넌스 조건과 책임 있는 사용을 잇는 기제로 다룹니다.
-
-## 연결된 개념
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## 연결된 문서
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE: 94%가 업무에 AI 사용, 54%가 정책을 앎, 13%가 ROI 측정
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 교육자가 비승인 사용을 정당화하는 과정의 3단계 설명
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 교육자 375명, 앱 1,373개, 보안을 이유로 든 24명
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 정책 공백 속에서 교수법적 경계를 긋는 교사들
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — 기관 지침을 기다리는 것의 대안인 교육자 주도 도입

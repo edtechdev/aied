@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -83,41 +85,3 @@ Fallstudien und Simulationen sind die Lehrformate, die dieser Literatur am näch
 - **„Studierende wollen KI, weil sie Abkürzungen suchen."** Ein studierendeninformiertes Rahmenwerk fand Studierende **hoch engagiert und sich bewusst, dass sie GenAI-Fähigkeiten für ihre Karriere brauchen**, während sie zugleich **KI nutzen wollten, ohne unbeabsichtigt akademisches Fehlverhalten zu begehen**. Die Nachfrage gilt Kompetenz mit klaren Grenzen, nicht der Erlaubnis, Arbeit zu vermeiden.
 - **„KI-Module zu einem Wirtschaftscurriculum hinzuzufügen erfasst den Nutzen."** Forschung zur konstruktiven Ausrichtung fand, dass **ob Nutzen oder Risiken dominierten, vom Grad der Curriculumsintegration geformt wurde** — die operative Unterscheidung lautet **integrieren, nicht anfügen**. Ein aufgesetztes Modul lässt das Assessmentdesign unverändert.
 - **„Werkzeugausgereiftheit schlägt konventionelles E-Learning."** Eine **Wahrnehmungsstudie mit 130 Studierenden** fand, dass **sowohl Chatbot- als auch Agentenunterstützung über traditionellem E-Learning** bei Verbesserung, Personalisierung und Entscheidungsunterstützung bewertet wurden. Bemerkenswert ist, was das misst: die *Wahrnehmung* von Studierenden gegen eine konventionelle Baseline, nicht Lernen gegen sie.
-
-## Verbundene Konzepte
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — Fallstudien, Fallmethode und Falldiskussion
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Verbundene Artikel
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: eine hermeneutische Heuristik für praktische Weisheit in der Wirtschaftspädagogik (Heron & Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints für AI-gestütztes Business Process Management: Rahmenwerk und bildungsbezogene Instanziierung
-- [[csaszar-ai-management-education-2026]] — Die Auswirkungen von AI auf die Managementausbildung: eine wertbasierte Strategieanalyse (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentische GAI-Unterstützung in einem E-Commerce-Kurs, wahrgenommene Vorteile und Risiken (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Auf Studierendenperspektiven basierender Rahmen für GenAI an Business Schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Ein Jahrzehnt AI in der betriebswirtschaftlichen Bildung (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive Alignment von GenAI in der betriebswirtschaftlichen Hochschulbildung (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Erkenntnisse von Studierenden zur Integration von GenAI in Curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organisatorische Treiber der KI-Adoption in der Hochschulbildung (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL-Framework für KI-Konversationsagenten in Unternehmensplanspielen (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Übereinstimmung und Fehler bei der automatisierten Bewertung von Marketingbeiträgen Studierender
-- [[shi-genai-experiential-learning-management-education-2026]] — drei Mechanismen generativer AI zur Neugestaltung der Didaktik in der Managementausbildung
-- [[alam-process-oriented-collaborative-essays-2026]] — Prozessorientierte kollaborative Essays in einer Ausbildung zum Business Analyst: Bewertet wird die dokumentierte Iteration, nicht das Thema
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Ein im Rahmen einer Lehrveranstaltung entwickelter RAG-Chatbot veränderte Erwartungen, nicht Lernergebnisse
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — Acht Kohorten im Finanzbereich, 75.404 Aufgabenbewertungen: Leistungszuwächse nach ChatGPT beschränken sich auf unbeaufsichtigte Quizze und auf konzeptbezogene Items (Rodríguez Longarela & McGrath 2026)

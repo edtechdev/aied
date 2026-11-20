@@ -7,6 +7,8 @@ pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 > **Game-based learning (GBL)** — the use of games themselves (digital or physical) as the medium and context for learning, where the game's mechanics, challenges, and progression carry educational content. Learners learn *through* playing. Relatedly, **gamification** applies game-design elements (points, badges, levels, leaderboards) to non-game learning activities without turning them into full games. In AI and [[educational-robotics|robotics]] education, both approaches are used to make technical content engaging and motivating.
@@ -77,33 +79,3 @@ GBL and gamification together connect to [[educational-robotics|educational robo
 **"Positive effects on motivation and knowledge are mutually reinforcing."** They are separately measured and, in the wider literature, separately scheduled: [[student-engagement|engagement and achievement]] move on different timelines, so a game that raises intrinsic motivation has demonstrated one outcome. Treating the motivational result as corroborating the knowledge result inflates a two-part finding into a stronger one than the design supports.
 
 **"If a game engages students, the learning follows from the fun."** Fun is the delivery mechanism for the repetition a game makes tolerable, not the mechanism of learning. A game that adds engagement without adding productive practice has added the part that was never in short supply.
-
-## Connected Concepts
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[virtual-and-augmented-reality]] — immersive and gamified practice overlap in design and evidence
-
-## Connected Articles
-- [[karampa-students-game-designers-ai-literacy-2026]] — Primary students design an escape board game; AI literacy rises within one e-course lab
-- [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture in legal education (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Design and preliminary validation of an AI enhanced game based learning environment for computational thinking
-
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: A Game-Based Tool for Teaching Prompt Engineering Through Text-to-Image Generation in K–12 Settings

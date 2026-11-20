@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -74,34 +76,3 @@ ai_assist:
 **「情報リテラシーは一度きりの導入セッションである。」** それは援助ではなく教育です。学生が持ち込む問いは評価と戦略の問題であり、この出典は信頼できるか、どう検索すればよいかという、取引として片づけるものではなく教えうる技能です。サービスを援助として扱うことは、カリキュラムをヘルプデスクに変え、持続する能力を失わせます。
 
 **「検証の費用を誰が払うかは他人の問題である。」** 相談の負荷は図書館の人員に落ち、論文自身の問いは、図書館にそれを担わせることが定員を超えるかどうかです。共同設計と協力が文献の勧める対応であるのは、検証の費用が現実であり、それを予算に入れていなかった単位に落ちるからです。
-
-## 関連する概念
-
-- [[ai-literacy]]
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## 関連する記事
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 埋め込み型司書のゼミプラットフォーム。出典評価が主導した312件の相談
-- [[genai-academic-search-workshop]] — 生成AIと学術検索に関するCHIIR 2026のワークショップ。司書の信頼のギャップ
-- [[maybee-disruptive-partnerships-sap-2025]] — 学生を協力者としてAIリテラシーを共同設計する学術司書
-- [[aarc-ai-research-competency-2026]] — 教えられる研究の誓約としての検証、引用、省察
-- [[pearls-epistemic-verification-2026]] — 6次元の検証プロトコル。門としてのアクセスと正当性
-- [[hingle-collaborative-ai-literacy-2025]] — AIリテラシーのための協働学習。情報リテラシーの恩恵は移転する
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 教員は属性の帰属と責任ある利用を最高位に置くが、26のスキルのうち教えるのはわずか
-- [[bird-multimodal-educational-literature-2026]] — 英語の教員や司書など、非技術系の利用者向けに構築されたテキスト複雑度ツール
-- [[cognitive-offloading-llm-synthesis-writing]] — AIが出典を統合するとき学習者が外部委託するもの
-- [[citation-errors-hallucinations-computing-education-2026]] — 検証の問題としてのでっち上げられ誤った引用

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -100,49 +102,3 @@ GenAI-मध्यस्थ समीक्षा उपकरण की भा�
 - **"[[oral-assessment|मौखिक मूल्यांकन]] का उद्देश्य नकल पकड़ना है।"** मापे गए परिणाम समझ और प्रेरणा थे, चिपकाए गए पाठ की कमी नहीं। डिज़ाइन को उसकी पहचान-दर से आँकना यह गलत पढ़ता है कि उसने क्या हासिल किया।
 - **"सहकर्मी समीक्षा प्रशिक्षक प्रतिपुष्टि का सस्ता विकल्प है।"** [[learning-by-teaching|पढ़ाकर सीखना]] तंत्र है, और वह मशीनों में भी दिखता है: **24 लाख से अधिक एआई एजेंटों** के बीच सहकर्मी-अधिगम जैसा प्रवचन मुख्यतः **कथन था, पूछताछ नहीं**। आलोचना उत्पन्न करना ग्रहण करने से भिन्न कार्य है।
 - **समूह ग्रेड के पीछे रिकॉर्ड के रूप में चिंतनशील सहकर्मी और स्व-फ़ॉर्म।** [[issa-teamwork-framework-academic-integrity-2024|इस्सा एंड हॉल (2024)]] ने स्नातकोत्तर बिज़नेस प्रोजेक्ट मैनेजमेंट इकाई में प्रत्येक साथी के लिए एक सहकर्मी-चिंतनशील फ़ॉर्म और प्रत्येक छात्र के लिए एक स्व-चिंतनशील फ़ॉर्म का उपयोग किया, साथ में प्रत्येक टीम के साथ 30 मिनट की बैठक जिसमें सदस्यों से पूछा गया कि उनका योगदान मौलिक था या नहीं। फ़ॉर्म प्रतिपुष्टि-आदान-प्रदान के रूप में ग्रेड नहीं किए गए। वे प्रति-व्यक्ति प्रमाण थे जिससे प्रशिक्षक 40% टीम मूल्यांकन के भीतर व्यक्तिगत अंक का बचाव कर सके। ढाँचे का अंक 27/40 से 31/40 तक बढ़ना एक नए व्याख्याता के साथ उलझा हुआ है और इसका अखंडता-दावा अमात्रात्मक है, इसलिए स्थानांतरणीय हिस्सा रिकॉर्ड-रखरखाव संरचना है, प्रभाव-आकार नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — PAIRR और संयुक्त सहकर्मी-प्लस-AI प्रतिपुष्टि: क्रमबद्धताएँ और उनका तुलनात्मक प्रमाण
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## संबंधित लेख
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — एकीकृत AI-प्लस-सहकर्मी प्रतिपुष्टि ने सभी तीन सहभागिता आयामों और सभी चार IELTS लेखन आयामों को बढ़ाया
-
-- [[usher-faraon-who-grades-best-2026]] — परियोजना गुणवत्ता स्तरों पर ChatGPT, सहकर्मी और प्रशिक्षक ग्रेडिंग की तुलना (Usher और Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — सहकर्मी और AI समीक्षा + प्रतिबिंब (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI सहकर्मी प्रतिपुष्टि प्रणालियाँ
-- [[ai-internal-feedback-evaluative-judgments]] — स्नातक छात्रों के मूल्यांकनात्मक निर्णय विकास का उद्घाटन
-- [[learner-centered-feedback-ai]] — AI के साथ शिक्षार्थी-केंद्रित प्रतिपुष्टि का संवर्धन
-- [[genai-linguistic-diversity-academic-writing]] — शैक्षणिक लेखन में जनरेटिव AI और भाषाई विविधता
-- [[gift-ai-pairr-business-writing-2025]] — एक व्यावसायिक लेखन पाठ्यक्रम में PAIRR: सहकर्मी समीक्षा, चैटबॉट प्रतिपुष्टि, प्रतिबिंब (MacArthur आदि 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — स्व-नियमित प्रतिपुष्टि और प्रतिपुष्टि साक्षरता को स्कैफोल्ड करने के लिए GenAI बनाम मानव सहकर्मी (Gu आदि 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — बोलने पर EFL सहकर्मी प्रतिपुष्टि में प्रशिक्षक और संश्लेषक के रूप में GenAI (Irwin और Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — केवल-सहकर्मी, प्रत्यक्ष, प्रतिबिंबात्मक और संकर GenAI प्रतिपुष्टि की तुलना करने वाला बहु-स्थल प्रयोग (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — सहयोगी तर्क में प्रॉम्प्ट-स्कैफोल्ड की गई GenAI सहकर्मी प्रतिपुष्टि (Chang आदि 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI-मध्यस्थ समूह मूल्यांकन में एजेंसी: सहयोग, संयम, अप्रयोग (Chen और Zou 2026)
-- [[code-review-genai-cs1]] — CS1 में GenAI के लिए हानि-न्यूनीकरण के रूप में मौखिक कोड-समीक्षा साक्षात्कार (Fowles आदि 2026)
-- [[multimodal-affective-its-presentation]] — सहकर्मी प्रतिपुष्टि का मापनीय विकल्प के रूप में स्वचालित बहु-माध्यम प्रस्तुति कोचिंग (Suen और Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-जनित चर्चा सारांश ऑनलाइन मंचों में सहकर्मी संपर्क का विस्तार करते हैं (Hao और Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — छात्रों के GenAI प्रकटीकरण में सहकर्मी प्रभाव और संबंधगत विश्वास (Qu और Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — आलोचनात्मक चिंतन, टीमवर्क और समस्या समाधान के लिए LLM की व्यवस्थित समीक्षा (Martínez-Peláez आदि 2025)
-- [[ai-agents-peer-learning-discourse]] — 2.4 मिलियन AI एजेंटों के बीच सहकर्मी-सीखने जैसी वार्ता (Chen आदि 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — 14 AIED मेटा-विश्लेषणों और 59 प्राथमिक अध्ययनों का ऑडिट (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 लेखन में शिक्षक प्रतिपुष्टि बनाम AI-सहायक सहकर्मी प्रतिपुष्टि: मात्रा, फोकस और दो कार्यों में सुधार की प्रक्षेपवक्राएँ (Tang, Li और Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — समूह ग्रेड के पीछे प्रति-व्यक्ति प्रमाण के रूप में स्व/सहकर्मी चिंतनशील फ़ॉर्म (इस्सा एंड हॉल 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 छात्रों से भूमिका-शब्दावली: ट्यूटर 28.6%, सहयोगी 23.1%, उपकरण 9.9%, रोबोट 7.7%

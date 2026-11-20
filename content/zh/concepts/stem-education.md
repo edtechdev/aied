@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -88,46 +90,3 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - **"智能辅导在 STEM 中普遍有效。"** 一项对 **20 篇出版物（2020 年至 2026 年 4 月）**的结构化叙事综述发现，最清晰的已测量优势具体出现在**实时诊断**式辅导上。证据是**有界且有条件的**，把它推广到所有数学 ITS 会夸大被综述的范围。
 - **"模拟是动手实践的一种苍白替代。"** 模拟组**在与课程对齐的 STEM 知识上比动手组增益更大（M = 3.00 对 2.06；t(28) = 2.23，p = .034，d = 0.82）**。模拟并不是一个表现低于真实事物的退路。
 - **"AI 辅助的文献工作流主要是省时间。"** **20 名学生、80 份文档**的结果显示，**实验参数的提取率超过 90%，文献综述时间减少约 65%，学生识别有影响力工作的能力提高 50%**。能力上的增益是更大的结果，时间节省是较小的那个。
-
-## 关联概念
-- [[learner-identity]] — 不断演化的学科性、职业性、创造性与学术性学习者身份
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — 化学教育与 AI：实验室、形成性评估、LLM 的局限、实验哲学
-- [[biology-education]] — 生物教育与 AI：实验室教学助手、生物中的 AI 素养、批判性思维、专门工具
-
-## 关联文章
-- [[ai-pedagogical-accompaniment-amico]] — 支持 STEM 身份的 AI 使能教学陪伴
-- [[lnenicka-secondary-students-genai-stem-2026]] — 中学生实际用 GenAI 工具做什么（横跨 STEM）
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI 聊天机器人与小学科学中的问题提出
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM 中探究式学习的 ChatGPT
-- [[niri-steam-ai-literacy-review-2026]] — 面向 AI 素养的 STEAM 教育：系统综述
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 支持深层学习的自适应 AI 型 STEM 项目
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 职前教师 ChatGPT 接受度剖面
-- [[zhang-ct-ai-training-test-2026]] — 计算思维在 AI 训练测试（CTAT）中的表现
-- [[liu-tool-tutor-crutch-programming-2026]] — 工具、辅导者还是拐杖：AI 辅助编程的扎根理论
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — 科学／化学教育中 AI 的系统综述
-- [[ai-information-extraction-undergraduate-thesis-2026]] — 支持本科论文与研究式学习的 AI 驱动信息提取（An et al. 2026）
-- [[simulation-assisted-drone-learning-stem-2026]] — 采用教师—AI 共同设计支架的模拟辅助无人机学习
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 项研究中 AI 支持的 STEM 教学的合并效应，增益在高中最大（Doğan et al. 2026）
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 中的数字孪生：每项被综述的研究都交付了一个可运行的原型，很少测量学习
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 一次 45 分钟的提示与错误核查课程抬高了物理后测分数（*d* = 0.814）
-- [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 ITS 的证据是有界且有条件的

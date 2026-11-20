@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -91,35 +93,3 @@ ai_assist:
 - **«Оцінка за наміром лікувати описує те, що робить інструмент.»** У групово-рандомізованому дослідженні доступу, де **близько 15% студентів у експериментальних класах хоч раз скористалися тьютором**, оцінка ITT відображає **ефект запровадження** інструмента, а не ефект його використання. Низьке uptake робить показник ITT твердженням про впровадження, і подання його як ефекту інструмента завищує виміряне.
 - **«Продуктивність у завданні — це результат.»** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] рандомізує **120 студентів** до навчання з підтримкою ШІ або традиційного й вимірює **утримання** — дизайн, що відділяє негайну продуктивність від тривалого навчання. Дослідження, яке зупиняється на завданні, виміряло легшу величину.
 - **«Міжнабірні порівняння є простими.»** Структурна перевірка синтетичних освітніх даних виявила, що **аналіз кожного набору за власним порогом обернув контраст, який тримався за спільної робочої точки**. Знак порівняння залежав від аналітичного вибору — саме та крихкість, яку попередньо зареєстрована робоча точка покликана запобігти.
-
-## Пов’язані поняття
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Пов’язані статті
-
-- [[access-not-enough-ai-tutoring-2026]] — A randomized field study of human support plus AI tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI adoption pathways (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[jin-glat-genai-literacy-assessment]] — GLAT: an IRT-validated GenAI literacy test
-- [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
-- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Групово-рандомізоване дослідження доступу потребує перевірки фактичного використання
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Бібліометричний аналіз як кількісна родина: Sriram та ін.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Використання генеративного ШІ та міжособистісна освітня взаємодія серед студентів медсестринства: саморегульоване навчання як статистичний медіатор
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Усвідомлення технологічного руйнування від ШІ, мисленнєва установка дизайну та дизайнова інноваційна компетентність серед студентів дизайну

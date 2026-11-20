@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -66,24 +68,3 @@ Para un tratamiento más completo del diseño experimental en la IA en la educac
 - **«La aleatorización garantiza una estimación válida de lo que hace la herramienta.»** La aleatorización equilibra los factores de confusión; no garantiza que alguien haya usado el tratamiento. Un ensayo aleatorizado por grupos con adopción baja estima **el efecto de ofrecer** la herramienta, y la intención de tratar y el efecto en quienes la usaron responden a preguntas distintas.
 - **«Un ensayo grande es siempre el mejor diseño.»** Hay quien sostiene que los ensayos convencionales a gran escala **no pueden seguir el ritmo de plataformas de tutoría que cambian de forma sustancial durante un estudio**, y usa en su lugar diseños dirigidos por docentes que siguen siendo válidos a medida que el sistema evoluciona. Un ensayo sobre un blanco móvil puede tener buena potencia y aun así medir un sistema que ya no existe.
 - **«Los ECA y la evidencia observacional son intercambiables.»** Un ECA con **1.174 participantes** encontró que la IA generativa **cerró cerca de tres cuartas partes de una brecha de productividad basada en la educación**: una afirmación causal precisa para un periodo concreto. La observación explica el mecanismo y la adopción; no puede sostener esa estimación, y el ECA no puede explicar por qué.
-
-## Conceptos conectados
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — el diseño que sustenta la evidencia más sólida sobre apoyo al estudiantado
-
-## Artículos conectados
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — El tiempo de planificación de clases cayó a 0,76 del grupo de comparación en 108 escuelas primarias, con una dosis del 7% de uso de la herramienta
-- [[generative-ai-education-productivity-gaps]] — ¿Reduce la IA generativa las brechas de productividad basadas en la educación? Evidencia de un experimento aleatorizado
-- [[genai-can-harm-teaching-rct-2026]] — La IA generativa puede perjudicar la enseñanza: un ECA
-- [[access-not-enough-ai-tutoring-2026]] — El acceso no basta: el apoyo humano mejora la implicación con la tutoría de IA
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluar la tutoría con IA al ritmo de la innovación: microensayos aleatorizados dirigidos por docentes de una plataforma de tutoría con IA en ciencias del GCSE
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Aleatorización por grupos a nivel de instructor: una caída de 0,37 DE en las notas finales y de 0,90 DE en la participación en la plataforma, con un 15% de adopción e inferencia sobre 34 conglomerados (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Un resultado medido tras un retraso, no al final de la sesión

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -47,12 +48,3 @@ ai_assist:
 ## ملاحظات وتحفظات
 
 الحسابات مجانية، ويمكن أن تكون المستندات عامة أو مشتركة مع مجموعة مدعوّة. وشركاء الذكاء الاصطناعي يعملون على نماذج OpenAI اللغوية الكبيرة، لذا تغادر المقاطع والأسئلة المختارة استضافة المنصة نفسها وتخضع لشروط ذلك المزوّد — وينبغي للمنطقة قراءة ترتيب معالجة البيانات قبل استخدامه مع القاصرين. والناتج محدود بحدّ رموز يقول الموقع إنه لا يزال يوسّعه، ودليل الشركاء خلف تسجيل دخول، وأسطح الذكاء الاصطناعي جزء سريع الحركة من المنتج: فاعتبر أي قدرة موصوفة هنا حالة الموقع في نوفمبر 2026 لا مجموعة ميزات مستقرّة.
-
-## المفاهيم المتصلة
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,7 +46,3 @@ ai_assist:
 
 ## টীকা
 পণ্য-সাইটটি কোনো ব্যক্তির নাম বলে না এবং অনুরোধগুলো একটি প্রকল্প-ইনবক্সে পাঠায়; DrawSplat তৈরি করেছেন Miguel Guhlin, যাঁর সাইট এর প্রকাশগুলো নথিভুক্ত করে। কোডটি লাইসেন্সের অর্থে বিনামূল্যে, কেবল দামের অর্থে নয়: হোয়াইটবোর্ড GNU AGPL-3.0-or-later এবং SplatWorks অ্যাপগুলো GPL-3.0-only, শিক্ষার্থীর ডিভাইসে কোনো প্রতি-আসন লাইসেন্স নেই। যে সরঞ্জামগুলো আপনার ফাইল পড়ে সেগুলো ব্রাউজারেই স্থানীয়ভাবে চলে, কিন্তু ক্লাউড-সেভ এবং যে-কোনো পেশাগত-শিক্ষা অনুরোধ ডেটা পাঠায়, তাই শিক্ষার্থীর কাজ নিয়ে ব্যবহারের আগে স্টোরেজ-তালিকার পাতাটি দেখে নিন।
-
-## সংযুক্ত ধারণা
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -110,53 +112,3 @@ ai_assist:
 - **「バイアスは採点とフィードバックの問題である。」** バイアスは**採点以外のタスククラス**にも入り込みます。28人の学生からなるソフトウェア工学の授業を4つのチームに割り当てる3つのLLMは、男性を**参照分布よりも少なくとも80%低い頻度で**回しました。チーム編成は、採点に匹敵する規模のバイアスを運んでいたのです。
 - **「該当するスキルを与えればバイアスは除かれる。」** スキルを与えることは**バイアスを減らしたが、除きはしませんでした**。**スキルに基づく割り当ての99.2%は2つのグラウンドトゥルースチームのいずれかに一致したが、同等に有効な選択肢の間では依然として性別が決定しました(OR 2.53)**。ほぼ完璧なタスク一致が性別効果と共存していたのです。したがって、主要な基準での正確さは、公平性の証拠にはなりません。
 - **「一つの緩和アプローチで十分である。」** この研究は、**相補的な戦略**を例示しています。編成の段階で入り込むバイアスは、出力テキストを標的にした修正では対処されないからです。
-
-## 関連する概念
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — このページが扱わない読み手側の失敗：確認せずに推薦を受け入れること
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## 関連する記事
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 神経記号的教授法整合(NSPA)
-- [[ai-scoring-language-bias-physics]] — AI採点における言語バイアス
-- [[gender-bias-transfer-llm-writing]] — LLM支援の執筆における性別バイアスの転移
-- [[paternalistic-filter-llm-history-education]] — 父権主義的フィルターと差別的拒否
-- [[fair-explainable-edu-recommendations]] — 公正で説明可能な教育推薦
-- [[temporal-smoothness-debiased-kt]] — デバイアスされた知識追跡
-- [[ground-truth-reliability-aied]] — AIの信頼性のためのグラウンドトゥルースの現代化
-- [[data-annotations-pedagogical-hints]] — 教授法的手がかりとしてのデータ注釈付け
-- [[xai-education-framework]] — 教育における説明可能なAI
-- [[antiskillbench-persona-skills-privacy-2026]] — ペルソナ・スキルのプライバシーとバイアス監査
-- [[genai-minoritized-knowledges-disability]] — GenAIと周辺化された知識の周辺化
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: 自動執筆フィードバックにおけるステレオタイプに沿ったバイアス
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AIは多様な学生プロファイルに適切な支援を提供できるか: 大規模評価
-- [[bias-representation-text-to-image-education-2026]] — AI生成のテキストから画像へのバイアスと表象: 体系的レビュー(Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — 教育におけるAIの倫理的価値と規範
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — クラスの不均衡のもとで、3 つのモデル系列は均衡した指標が健全に見えるまま低成績者を識別できなかった
-

@@ -25,6 +25,8 @@ translation_of: concepts/trust-calibration
 source_updated: "2026-11-04T18:35:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -143,57 +145,3 @@ contributors: [editor]
 **«Проверка проста, поэтому те, кому не всё равно, будут её делать.»** Проверка дешева и выполняется редко. В пассивном трекинг-исследовании **900 взрослых жителей США** читатели, видевшие резюме, сгенерированное ИИ, переходили по источнику, процитированному внутри него, лишь в **1% посещений** и переходили по любой ссылке результата примерно вдвое реже, чем читатели, не видевшие резюме. Резюме подавляет проверку, а не [[prompt-engineering|побуждает]] к ней, поэтому проверку нужно встраивать в задачу, а не предполагать из добросовестности.
 
 **«Подачу и содержание можно разделить внимательным читателем.»** Именно беглость зарабатывает незаслуженное доверие, поэтому калибровка — проблема проектирования, а не только навык обучающегося. Система, чей интерфейс сигнализирует авторитет, будет пользоваться доверием на этом уровне независимо от инструкций об обратном.
-
-## Связанные концепции
-
-- [[automation-bias]] — ошибка принятия, которую допускает некалиброванное доверие
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## Связанные статьи
-
-- [[children-verification-ai-suggestions-game-2026]] — Поведение детей при проверке в игровом человеко-ИИ сотрудничестве
-- [[student-perspectives-ai-writing-grading-2026]] — Взгляды студентов на прозрачное оценивание письменных работ с поддержкой ИИ (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Калибровка переосмыслена: сокрытие позиции системы защищает, а не исправляет
-- [[du-yuan-epistemic-dependence-2026]] — Шесть диагностических критериев, разделяющих продуктивную опору и вредную зависимость (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[pearls-epistemic-verification-2026]] — Фреймворк PEARLS для эпистемической активности и проверки выводов ИИ (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — Избыточная опора на ИИ, смоделированная как сложная адаптивная система
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[trust-calibration-chatbots-design-problem-2026]] — Калибровка доверия, переосмысленная как проблема проектирования: двумерная типология пользователей и восемь положений о проектировании (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — фильтрация оценок ИИ по уверенности и частота её ложных срабатываний
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Доверие к системам с ИИ: определения, измерение и факторы проектирования в 33 эмпирических исследованиях (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — От диагностики к метадиагностике: преподаватели оценивают генерируемые ИИ диагностические заключения (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Промпт на рефлексию снижает принятие неверных советов ИИ (Ren 2026)
-- [[kim-overtrust-ai-literacy-2026]] — чрезмерное доверие коррелировало с самоэффективностью и ожиданием результативности, но не с ИИ-грамотностью, у 300 студентов
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Калибровка доверия как посредник в цепочке от контекстуальной поддержки к воспринимаемому приросту в переносе (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Доверие как поворот от ИИ-грамотности к продолжению использования, ослабленное тревожностью относительно ИИ (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Ротация ролей как структура для критического обращения с рекомендациями ИИ (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Ориентированный на студентов инструмент, валидирующий доверие к ИИ-эдтеху как четыре фактора, с доверием выше воспринимаемой полезности (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — Как дети проектируют заслуживающих доверия ИИ-чат-ботов и рассуждают о них
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Когда совет ИИ согласуется или не согласуется с человеческим суждением: доверие, самоэффективность, психологическая устойчивость и адаптивные реакции в физическом воспитании

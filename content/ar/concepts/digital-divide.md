@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -52,7 +54,6 @@ ai_assist:
 - **تبديل الأكواد إقصاءٌ خاص بذاته.** تفترض أغلب أدوات المحاضرة القائمة على [[llm|النموذج اللغوي الكبير]] صوتًا إنجليزيًا أحادي اللغة وإنترنت موثوقًا، مُستثنيةً الصفوف التي تمزج الإنجليزية بلغة المنزل؛ وبيانات UDISE+ الهندية وضعت وصول المدارس إلى الإنترنت قرب 54% مع فجوة حضري-ريفي قدرها 24 نقطة، ويجيب رفيق ثنائي اللغة بالنسخ على الجهاز والتخزين المحلي أولًا ([[bilingual-llm-lecture-companion-srl-2026|Malhotra، 2026]]).
 
 - **الخدمات الرقمية العامة تُعيد إنتاج الفجوة.** منصّة eCitizen للخدمات الحكومية الإلكترونية في كينيا إنجليزية في معظمها بسواحيلية محدودة وواجهة نصية فقط، وهو ما يستثني الشباب محدودي الثقافة الكتابية وذوي الإعاقة البصرية والريفيين؛ وتشير مقابلات وطاولة مستديرة من أحد عشر مشاركًا عبر أربع منصّات معيشية (Ajira Digital, KRA iTax, HELB, YEDF) إلى تقنيات اللغة والتصميم المستند إلى WCAG 2.1 كرافعتَي إدماج ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
-
 
 ### يعمّق الذكاء الاصطناعي الفجوات (ويستطيع سدّها)
 
@@ -104,41 +105,3 @@ ai_assist:
 - لا تعامل توزيع الأجهزة كأنه يسدّ الفجوة. فالفجوات القابلة للقياس تقع في مهارة الصياغة ولغة الواجهة والاتصال، ولا يُصلح العتاد أيًا منها.
 - انشر البنية التحتية التي تفترضها الأداة. فالشرط المعلن بوضوح يتيح لسياق محدود الموارد تقدير ملاءمته قبل الاستثمار.
 - احسب كلفة النشر الكاملة لا ترخيص البرمجيات. فدليل التوائم الرقمية يُظهر أن فاتورة العتاد قد تبقى بعد الافتراضية.
-
-## المفاهيم المتصلة
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## المقالات المتصلة
-- [[amol-ai-egovernance-digital-inclusion-2026]] — الذكاء الاصطناعي للحكم الإلكتروني: توظيف تقنيات اللغة للإدماج الرقمي
-- [[watanabe-genai-education-gap-europe-2026]] — هل فجوة التعليم في استخدام الذكاء الاصطناعي التوليدي أصغر مما كانت فجوة الإنترنت؟ (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — البنى المؤسسية واللامساواة الرقمية وإدماج الذكاء الاصطناعي في التعليم العالي النيجيري
-- [[ai-divide-ses-personality-primary-education-2026]] — الحالة الاقتصادية والاجتماعية والشخصية وفجوات الذكاء الاصطناعي في التعليم الابتدائي (Wang وآخرون 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: تدريس خصوصي بالمعلّم كوسيط يبلغ الطلاب بلا جهاز (Rodrigues وآخرون 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — تعليم المدرسة بالذكاء الاصطناعي يضيّق فجوات الجاهزية النفسية لا المعرفية
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: قياس تفاوتات الوصول في الوصول إلى النماذج اللغوية الكبيرة والتخفيف منها
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access

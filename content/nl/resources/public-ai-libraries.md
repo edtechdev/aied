@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -46,13 +47,3 @@ Openbare bibliotheken die een kiosk willen hosten (het programma neemt aanvragen
 - Deelnemende bibliotheken dragen **\$1,000 per kioskuitrol per jaar** bij; het proefproject zelf is beperkt tot de locaties die zich hebben aangemeld.
 - De privacyverklaring is de bewering van het programma, geen gecontroleerde bevinding; een bibliotheek moet de bewaar- en kinderveiligheidstermen in haar eigen verwerkingsovereenkomst bevestigen.
 - De tweede en derde fase van de roadmap, waarin bibliotheken lokale archieven kunnen inlezen en de resulterende systemen kunnen besturen, zijn gepland en niet uitgerold.
-
-## Gerelateerde concepten
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

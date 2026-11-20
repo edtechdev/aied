@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -196,87 +198,3 @@ Autoritet znanja u planiranju potpomognutom umjetnom inteligencijom pregovara se
 **„Nastavnici su već suosmišljivači umjetne inteligencije, pa je tranzicija u tijeku.“** Težnja je stvarna; opis još nije. [[wang-teacher-ai-co-design-review-2026|Sistematski pregled sudizajna nastavnika i umjetne inteligencije u zadatcima učenja Wanga, Liua i Islama (2026)]] nalazi da suradnički stav **ostaje neujednačen**, a prevladavajući je način još uvijek umjetna inteligencija kao pomoćnik ili generator sadržaja. Čitanje tog pregleda kao dokaza dovršenog pomaka prikrilo bi jaz između nastavnika koje stranica poput ove preporučuje i nastavnika koje većina institucija doista ima.
 
 **„Kako nastavnik delegira chatbotu jedva da je važno, jer model obavlja posao.“** Obrazac delegiranja jest intervencija. U planiranju nastave umjetnosti u STEAM-u za djecu, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo i Tahir (2025)]] eksperimentalno su našli da je popunjavanje sadržajnih praznina u *samostalno ocrtanoj* lekciji sačuvalo nastavnikovu dizajnersku autonomiju i pritom podiglo kvalitetu plana prema ocjeni stručnjaka (medijan 20,5 prema 17,6; p = ,002; velik učinak), nadmašujući alternativu da model sam sastavi okvir. Isti model, isti zadatak, drukčija podjela rada, bitno drukčiji rezultat.
-
-## Povezani koncepti
-- [[pedagogical-partnerships]] - Pedagoška partnerstva
-- [[learner-identity]] - identitet učenika koji se razvija u disciplinarnom, profesionalnom, kreativnom i akademskom smislu
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] - Krov: pedagogije i strategije poučavanja u obrazovanju s umjetnom inteligencijom
-- [[stakeholders]] - Krov: ljudi i publike u obrazovanju s umjetnom inteligencijom (učenici, nastavnici, dizajneri, administratori, kreatori politika)
-- [[reflection]]
-
-## Povezani članci
-
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Četiri dinamike identiteta, produktivna ambivalencija i institucionalni trošak relacijskog rada
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 engleskih srednjih škola: priprema lekcije skraćena za 25,3 minute tjedno bez otkrivenog gubitka kvalitete (Roy i sur. 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — RCT na ASSISTmentsu: UI sažeci podigli su dovršetak zadataka, ali ne i rezultate na razini razreda (Lim i sur. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Honorarni akademski djelatnici nose posao čestitosti bez ovlasti
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoks više ljudskosti: stručni scenariji za 2030. nalaze da zasićenost umjetnom inteligencijom pojačava, a ne istiskuje ljudski pedagoški rad (Malyn-Smith i sur. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Šest promatranih srednjoškolskih lekcija matematike proširuje instrumentalnu orkestraciju trima novim tipovima (Noh i Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Odgovor na emocionalna upozorenja koja generira umjetna inteligencija: nastavnikova intervencija i angažman učenika u razredu matematike
-- [[edustories-classroom-case-studies-2026]] — Edustories: zbirka studija slučaja iz stvarne razredne prakse
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Nastavnici osmišljavaju razredne chatbote kao ograničene stručnjake i zadržavaju autoritet
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — Generativna umjetna inteligencija kao „frenemy“: nastavnici preferiraju poluautonomiju, korisnost pokreće usvajanje, averzija prema riziku usmjerena je na upotrebu studenata (Dai i sur. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — Odlučivanje predavača potpomognuto umjetnom inteligencijom u visokom obrazovanju
-- [[chirikov-regulate-ai-syllabi-2026]] — Kako nastavnici reguliraju umjetnu inteligenciju u više od 31.000 silabusa; regulacija na razini zadatka (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Filozofsko vodstvo kao trofazna nastavnička uloga: etička prosudba, pedagoško vođenje, prevođenje politike (Socorro Márquez i sur. 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Ponašanje inovacije poučavanja s umjetnom inteligencijom među sveučilišnim nastavnicima (AI-TPACK SEM; Bai i Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generativna umjetna inteligencija kao identitetska kriza, a ne jaz u vještinama
-- [[lodge-loble-cognitive-offloading-2026]] — Umjetna inteligencija, kognitivno rasterećenje i implikacije za obrazovanje (Lodge i Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — Umjetna inteligencija i praksa nastavnog dizajna: sistematski pregled (Kibar i Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Može li umjetna inteligencija pružiti primjerenu podršku raznolikim profilima studenata? Evaluacija na velikoj razini
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Duhovi studenti i agentska umjetna inteligencija u procjeni
-- [[wang-teacher-ai-co-design-review-2026]] — Sudizajn nastavnika i umjetne inteligencije u zadatcima učenja: trendovi i perspektive (Wang i sur. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Iskustva i percepcije generativne umjetne inteligencije kod sveučilišnih nastavnika: ranjivost, preispitivanje procjene, učenje studenata pod rizikom (Farazouli i sur. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Vrijednosne prosudbe u ocjenjivanju rada potpomognutog generativnom umjetnom inteligencijom: poštenje, povjerenje, valjanost i dvosmjerna transparentnost (Luo i Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Približavanje nalaza strojnog učenja nastavnicima u mješovitim razredima
-- [[li-language-educators-genai-review-2026]] — Prakse i razvoj jezičnih edukatora s generativnom umjetnom inteligencijom
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Identitetske napetosti i načelna selektivnost u poučavanju integriranom s umjetnom inteligencijom (Adiozaman i Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Nastavnička intervencija u nastavi od K-12 utemeljenoj na umjetnoj inteligenciji: sistematski pregled
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademski razvojni djelatnici kao digitalni posrednici: rekonfiguracija uloge, afektivni rad i prosudba u južnoafričkim povijesno zapostavljenim institucijama
-- [[where-ai-enters-teacher-work-2026]] — Gdje umjetna inteligencija ulazi u nastavnički rad
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED bez struje: nastavnik kao posrednik između učenika i umjetne inteligencije, kvazieksperiment u 19 razreda gdje dobitke pokreću obuka i neizravno smanjenje truda (Rodrigues i sur. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Nastavno upravljanje kroz dizajn: okvir za umjetnu inteligenciju u računalnom obrazovanju
-- [[teachers-configure-educational-chatbots-2026]] — Hoće li poučavati kako je namijenjeno? Kako nastavnici konfiguriraju obrazovne AI chatbote
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Nastavničko posredovanje u matematici: pet praksi kritičkog posredovanja, pomicanje autoriteta i algoritamski jaz između besplatne i premijske verzije
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Nastavnička spremnost kroz dizajn: spremnost kao dizajnerska sposobnost, a ne usvajanje ili samopouzdanje (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Povratne informacije nastavnika uz pomoć ChatGPT-a: nastavnici odabiru nacrte umjetne inteligencije umjesto da ih prenose
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Od kompetencije do djelotvornosti: stajališta nastavnika o svrhama obrazovanja o umjetnoj inteligenciji
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Ljudski moderatori nasuprot AI moderatorima rasprave: jednake ocjene, različiti putovi do ponovne upotrebe
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Generativna umjetna inteligencija u programskom obrazovanju: sistematski pregled u kojem su uloge nastavnika najmanje proučavane
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Od pružatelja informacija do dizajnera učenja: heutagoška praksa poučavanja u obrazovanju potpomognutom umjetnom inteligencijom
-- [[falhs-teacher-expertise-reflection-2025]] — Kako razine ekspertize oblikuju preferencije i potrebe za refleksijom: prema sustavima refleksije s umjetnom inteligencijom za osnaživanje nastavnika (Falhs i sur. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Dijagnostika konverzacijske umjetne inteligencije za nastavne zablude uz dijalog utemeljen na dokazima (Miranda i Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Upotreba umjetne inteligencije nije imala izravan učinak na nastavničku izvedbu; posredovalo je organizacijsko ponašanje građanstva (Sherly i sur. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 epizode koje pokazuju autoritet zadržan, podijeljen ili prepušten u planiranju lekcija uz umjetnu inteligenciju
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Studentske percepcije raspravnih foruma: studija modela prihvaćanja tehnologije kao osnova za dizajn UI analitike učenja
-- [[gnadlinger-educator-perspectives-its-design-2026]] — K uključivanju perspektiva edukatora u metasustavni dizajn inteligentnih tutorskih sustava
-- [[chen-future-faculty-development-ai-2027]] — Nastavnik kao dirigent tuđe stručnosti, s ulogama raspodijeljenima po nastavničkom timu
-- [[li-instructor-designed-ai-rct-2026]] — Umjetna inteligencija koju su osmislili nastavnici poboljšava učenje u randomiziranom pokusu na 19 sveučilišta (Li i sur. 2026)

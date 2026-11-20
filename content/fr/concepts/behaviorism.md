@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -93,25 +95,3 @@ Le behaviorisme apparaît aussi dans la manière dont les apprenants rencontrent
 **« Les conceptions behavioristes sont simplement inférieures aux constructivistes. »** Elles conviennent bien à des cibles précises — fluidité, rappel factuel, automaticité procédurale — là où la rétroaction immédiate et la répétition sont réellement ce que la tâche exige. L'erreur n'est pas le mécanisme ; c'est d'employer un mécanisme dont la condition de validité (l'apprenant doit produire la réponse) a cessé de tenir sans qu'on s'en aperçoive.
 
 **« Puisque la théorie est discréditée, les systèmes bâtis sur elle peuvent être jugés sur les seuls résultats. »** Les résultats sont exactement ce que l'équivalence de sortie corrompt. Un système peut rapporter d'excellents résultats comportementaux alors que l'apprentissage s'est déplacé ailleurs ; les systèmes d'influence behavioriste ont donc besoin de la mesure sans assistance plus que tout autre type.
-
-## Concepts liés
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Le cognitivisme, le troisième pôle classique de la théorie de l'apprentissage
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Articles liés
-
-- [[ai-vocational-education-training-review]] — Les dispositifs d'IA behavioristes dominent la pratique de l'EFP malgré le constructivisme préconisé ; le « piège de Turing »
-- [[generativism-learning-theory]] — Le behaviorisme parmi les quatre théories dominantes que l'IA générative invite à repenser
-- [[ccct-cooperative-learning-technique]] — Le behaviorisme évoqué dans la conception d'apprentissage coopératif pour l'enseignement supérieur
-- [[wang-multi-agent-systems-learning-designers-2025]] — Un persona behavioriste parmi les approches de conception collaboratives multi-agents
-- [[sequenced-ai-feedback-learning]] — Une rétroaction séquencée par indices a sous-performé face à une rétroaction immédiate par solution complète dans une expérience randomisée à 199 participants

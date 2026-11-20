@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,32 +77,3 @@ ai_assist:
 **教育者とコースの設計者にとって**
 
 **「生涯学習は個人の責任であり、制度設計は二次的なものである。」** 再生の問題は構造的な問題である。すなわち、形成的な仕事がそもそもどこに存在するのかに関わる問題であり、個人は自らの発達が必要とする仕事を生み出すことはできない。これを動機づけの問題として捉えても、年齢分布の下部に集中した16%の減少については何も説明できない。
-
-## 関連する概念
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## 関連する記事
-
-- [[ai-adult-learning-guidelines-dis2026]] — 大人の学習を支えるAI技術を設計するための指針
-- [[ai-guided-learning-audiovideo-2026]] — 技能習得のためのAIに導かれる学習
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnityグラフで高等教育を再考する
-- [[andragogy-cognitive-delegation-genai-2026]] — AIを媒介とした学習におけるアンドラゴジーと認知的委託
-- [[ai-lifelong-learning-policy]] — 生涯学習におけるAI。成人教育方策における機会と課題
-- [[community-centered-ai-education-adults]] — 大人のためのコミュニティ中心のAI教育の共同設計
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇。AIと専門性の再生
-
-- [[kim-ai-andragogy-2026]] — アンドラゴジーにおける協働学習エージェントとしてのAIに対する成人学習者の視点（Kim et al. 2026）
-

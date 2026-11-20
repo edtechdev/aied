@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -75,26 +77,3 @@ Mixed Methods sitzt zwischen den [[quantitative-research|quantitativen]] und [[q
 - **„Beobachtungs- und Interviewbelege können eine Systemaussage tragen.“** Stellt man Systembeobachtung und Gespräche mit [[administrator|Administratoren]] einer **vierjährigen randomisierten Evaluation von 8.708 Lernenden über acht Semester** gegenüber, die auf den Nachweis von Effekten von **0,05 Standardabweichungen** ausgelegt war, zeigt sich, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt zuverlässig nachzuweisen. Methoden zu mischen ist kein Weg, um Teststärke zwischen den Strängen zu übertragen.
 - **„Triangulation bedeutet, dass zwei schwache Methoden eine starke Aussage ergeben.“** Der Wert der Kombination liegt darin, dass jeder Strang eine andere Frage beantwortet. Ein Design, das beide durchführt und dann den qualitativen Befund als Bestätigung des quantitativen berichtet, hat nicht trianguliert, sondern lediglich wiederholt.
 - **Konvergenz kann eine Aufnahmeregel sein, kein Narrativ.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] zählte eine Neugestaltungspriorität nur dann, wenn sie in mindestens zwei von fünf unabhängigen Quellen und in einer umsetzungsorientierten Quelle auftrat, sodass bloße Wahrnehmung sie nicht zur Priorität erheben konnte.
-
-## Verbundene Konzepte
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Verbundene Artikel
-
-- [[genai-over-reliance-learning-2026]] — Von der Verstärkung zur Über-Verlassenheit (Befragungen + Interviews)
-- [[t2i-competence-paradox-2026]] — Das Kompetenz-Paradox (Fokusgruppen + Befragung + Interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Vertrauens–Nützlichkeits-Lücke (Befragung + Interviews)
-- [[same-ai-different-pathways]] — Mechanismen KI-vermittelten Lernens über Kontexte hinweg
-- [[genai-feedback-design-multisite-experiment]] — Menschenzentriertes GenAI-Feedbackdesign (Multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
-- [[becker-chatgpt-typology-physics-2026]] — Eine qualitative Typologie der ChatGPT-Aneignung in der Physik
-- [[edtech-privacy-deferral-2026]] — „We'll Fix It Later“: Bildung, KI und das Aufschieben von Datenschutz für Lernende in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER und ein feinabgestimmtes RoBERTa ordneten derselben Bluesky-Notiz entgegengesetzte Valenz zu (Geraili Meykola et al., 2026)

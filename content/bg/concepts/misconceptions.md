@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
 
@@ -123,35 +125,3 @@ Bernstein and Sibia (2026) показват, че генерираните от 
 - **„Заблудите на преподавателите могат да се коригират чрез представяне на доказателства.“** В пилот с **123 италиански преподаватели** несъгласието се струпва най-силно около **когнитивните стилове на учене (78% от преподавателите защитават съответствието визуален/слухов)**, приобщаването и груповата работа (68%) и претоварването с образователни технологии (54%). Най-силните несъгласия бяха тези, които най-упорито се съпротивляват на доказателства, поради което [[refutation-text|опровержението]] побеждава твърдението.
 - **„Възраженията на преподавателите срещу доказателства са все съпротива.“** Когато същите айтеми бяха представени чрез разговорен AI, който **валидира контекста на преподавателя, преди да въведе отново доказателствата**, **41% от възраженията се отнасяха до реални контекстуални ограничения** — размер на класа, специални потребности, изисквания на учебната програма. Значителна част от привидната заблуда беше точно възражение.
 - **„Заблудите могат да се откриват надеждно от диалог.“** **От 241 подсказани сегмента, 221 (91,7%) бяха потвърдени като стратегически заблуди чрез експертно гласуване по мнозинство (Fleiss' κ = 0,9487)**, с **без значими разлики** между групите. Висока надеждност е постижима при експертно арбитриране и точно това е условието, от което зависи твърдението.
-
-## Свързани концепции
-- [[pedagogical-patterns]] — Последователностите за концептуална промяна, които се изправят срещу конкретно поддържано убеждение
-- [[learners]] — Учещи: чадърът за понятията, свързани с учащите
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Свързани статии
-- [[rudolph-ai-myths-critical-higher-ed]] — Не вярвайте на шумотевицата: осем мита за AI и нуждата от критичен подход във висшето образование
-- [[student-rationalization-ai-writing]] — Рационализация на AI писането от студенти
-- [[genai-skill-bypass-literacy]] — Заобикаляне на умения чрез GenAI и грамотност
-- [[trust-reliance-ai-education-2026]] — Доверие и разчитане в AI образованието
-- [[contextual-sycophancy-ai-literacy]] — Контекстуално ласкателство и AI грамотност
-- [[sycophantic-ai-social-interaction-2026]] — Ласкателен AI в социалното взаимодействие
-- [[llm-fallacy-misattribution]] — Погрешно приписване на заблудата на LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Дефектни, но запомнящи се: критичното възприемане от студенти на интересово персонализирани GenAI аналогии в обучението по информатика
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: гладки, авторитетни обяснения, които са погрешни концептуално, а не фактически (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Скрити инструкции във файл за предаване могат да повишат оценка, дадена от AI, без видимо предупреждение (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Заблуди на децата за безопасността на AI: приятелство с робот, погрешно разбрано като гаранция за поверителност (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Разговорен AI диагностик за преподавателски заблуди с доказателствено обоснован диалог (Miranda & Calvani 2026)

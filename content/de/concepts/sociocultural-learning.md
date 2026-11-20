@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -80,35 +82,3 @@ Der soziokulturelle Strang ist eng mit [[cognitive-offloading|Cognitive-Load-The
 **„Ein Werkzeug zu einer Gruppe hinzuzufügen verändert nur die Effizienz der Gruppe."** Es verändert die Arbeitsteilung, die die Einheit ist, die die Theorie analysiert. Eine Gruppe, die die meisten ihrer Fragen an einen Agenten leitet, hat die kognitive Arbeit umverteilt, selbst wenn die Ausgabe unverändert bleibt.
 
 **„Verteilte Kognition impliziert, dass das Individuum keine Rolle spielt."** Es impliziert, dass der Beitrag des Individuums nicht allein aus individueller Leistung abgelesen werden kann; die Analyseeinheit ist das Tätigkeitssystem, nicht die Person isoliert.
-
-## Verbundene Konzepte
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Verbundene Artikel
-
-- [[youth-enter-chat-llm-student-talk-2026]] — Wenn Jugendliche in den Chat kommen: Validierung LLM-basierter Maße für Sprechhandlungen von Lernenden
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Agent
-- [[golrang-propact-pair-programming-2026]] — Kollaboratives KI-Tutoring
-- [[finkelstein-principled-ai-education-2025]] — Prinzipiengeleitete KI-Bildungs-Rahmenwerke
-- [[stanford-evidence-base-ai-k12-2026]] — Stanforder Evidenzbasis für KI in K-12
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Von LLM verfasste Hinweise erreichten menschliche Tutorhinweise bei Mathematik-Lernzuwächsen (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Ausblenden nach dem, worauf der Zug der lernenden Person zielt, nicht nach der Tiefe der Antwort
-
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney-Rapid-Review zu GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner und Koregulation

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -69,44 +71,3 @@ NER কোডিং-প্রমাণ একক সেরা মডেলের
 - **"মডেলের কাঁচা সক্ষমতাই নির্ধারণ করে সে কতটা ভালোভাবে ত্রুটি নির্ণয় করতে পারবে।"** **ভিত্তি (grounding)** করে: [[reddig-maclellan-personalized-feedback-llm-2026|রেডিগ, অরোরা ও ম্যাকলেলান (২০২৫)]] দেখান, GPT-4-কে টিউটর ইন্টারফেস সরবরাহ করা তার ত্রুটি-নির্ণয় **উল্লেখযোগ্যভাবে বদলে** দেয়। শিক্ষার্থীর প্রসঙ্গ সম্পর্কে মডেলকে কী দেওয়া হয়, তা কোন মডেল তার চেয়ে বেশি কাজ করে।
 - **"যেকোনো ফ্রন্টিয়ার মডেল [[pedagogical-agent|শিখন-সঙ্গী]] হিসেবে একই আচরণ করে।"** [[oppenheimer-llms-collaborative-learning-partners-2026|ওপেনহাইমার, ক্যাশ ও কনেল পেনস্কি (২০২৫)]] শ্রেণিকক্ষ-তুলনায় **তিনটি ফ্রন্টিয়ার পরিবার** — ChatGPT, Gemini ও Claude — অধ্যয়ন করেছেন, ঠিক এই কারণেই যে পরিবারগুলো সহযোগী হিসেবে বিনিময়যোগ্য নয়।
 - **"ভালো মডেল মানে কম [[scaffolding|স্ক্যাফোল্ডিং]] দরকার।"** একটি আর্থবহুল সুনির্দিষ্ট, পুনরাবৃত্তভাবে সহ-পরিমার্জিত রুব্রিক দিয়ে **স্ক্যাফোল্ড করা** GPT-4 মানব [[evaluative-judgment|মূল্যায়নমূলক বিচারের]] কাছাকাছি যেতে পারে [[design-based-research|নকশা-ভিত্তিক গবেষণায়]]। সেই নৈকট্য এসেছে পুনরাবৃত্তিতে পরিমার্জিত রুব্রিক থেকে, কেবল মডেল থেকে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, এলএলএম প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
-
-## সংযুক্ত নিবন্ধ
-- [[assessing-quality-ai-generated-exams-field-2025]] — এআই-উৎপন্ন পরীক্ষার মান মূল্যায়ন: একটি বৃহৎ-মাপের ক্ষেত্র-গবেষণা
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — এআই কি বৈচিত্র্যময় শিক্ষার্থী-প্রোফাইলের জন্য উপযুক্ত সহায়তা দিতে পারে? একটি বৃহৎ-মাপের মূল্যায়ন
-- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্ত শিক্ষামূলক নকশার এজেন্ট হিসেবে এলএলএম
-- [[razavi-powers-item-difficulty-llm-2026]] — এলএলএম ও ট্রি-ভিত্তিক এমএল ব্যবহার করে আইটেম-কাঠিন্য অনুমান
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ডেটা সায়েন্স কোর্সে শিক্ষার্থীদের এলএলএম ব্যবহার ও এআই-উৎপন্ন প্রশ্ন-কাঠিন্যের সীমা
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: শিক্ষামূলক সংলাপের নিরীক্ষাযোগ্য কোডিংয়ের জন্য দাবি-ভিত্তিক স্কিমা
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — ১১টি এলএলএম জুড়ে তোষামোদ: এআই মানুষদের চেয়ে ৪৯% বেশি সমর্থন করেছে, যা বিশ্বাস ও ধারাবাহিক ব্যবহার বাড়ায়

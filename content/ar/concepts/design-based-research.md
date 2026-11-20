@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -82,30 +84,3 @@ ai_assist:
 **«لأن DBR ينتج مصنوعًا عاملًا، فقد أثبت فعاليته.»** التصميم الذي يعمل في الموقع الذي أنتجه بالمشاركة أثبت جدوى محلية، وهي ادعاء مختلف عن الفعالية. فالمصنوع يحمل التكييفات التي أُجريت لذلك السياق، ونقله ينقل افتراضات لم تُصرَّح قط كافتراضات.
 
 **«معاملة الأداة كمصنوع تصميمي قابل للمراجعة خروج عن DBR.»** بل هو الطابع التكراري لـDBR مطبَّقًا على القياس لا على التدخّل: فقد عاملت دراسة في هذه المدوّنة السلم الوصفي نفسه كمصنوع، دورةً في صقل مشترك مع [[llm|نموذج لغوي كبير]]. وهذا الامتداد جدير بالذكر لأنه يجعل تطوّر الأداة نفسها جزءًا من الدليل.
-
-## المفاهيم المرتبطة
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## المقالات المرتبطة
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — بحث قائم على التصميم لنموذج تعلّم تعاوني مُساعَد بالذكاء الاصطناعي
-- [[genai-literacy-training-teacher-education-dbr-2026]] — بحث قائم على التصميم لتدريب ثقافة الذكاء الاصطناعي في تعليم المعلّمين
-- [[crompton-faculty-technology-integration-standards-2026]] — بحث قائم على التصميم لمعايير دمج التقنية لأعضاء هيئة التدريس
-- [[human-centered-ai-teacher-educators-2026]] — الذكاء الاصطناعي المُوجَّه بالإنسان لمعلّمي المعلّمين (بحث قائم على التصميم)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — ست دراسات بحث قائم على التصميم تُنفّذ AIDA في الجامعة المفتوحة
-- [[critical-thinking-genai-scaffolding]] — بحث قائم على التصميم لسقالة التفكير النقدي بالذكاء الاصطناعي التوليدي
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — بحث قائم على التصميم لمنهج ثقافة ذكاء اصطناعي مُدمج بالعلوم (مور وزملاؤه 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): منهج ثقافة ذكاء اصطناعي مُوجَّه باللعب لما قبل الروضة والروضة (لي 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — النماذج اللغوية الكبيرة كوكلاء للتصميم التربوي التكراري

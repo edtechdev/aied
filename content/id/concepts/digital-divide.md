@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -51,18 +53,15 @@ Pergeseran ke inferensi tepi (edge inference) menambahkan dimensi perangkat kera
 
 - **Layanan digital publik mereproduksi kesenjangan.** Platform e-government eCitizen Kenya terutama berbahasa Inggris dengan bahasa Swahili terbatas dan antarmuka hanya teks, sehingga mengecualikan kaum melek huruf rendah, penyandang gangguan penglihatan, dan pemuda pedesaan; wawancara ditambah meja bundar sebelas orang di empat platform penghidupan (Ajira Digital, KRA iTax, HELB, YEDF) menunjuk teknologi bahasa dan desain berbasis WCAG 2.1 sebagai tuas inklusi ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-
 ### AI memperdalam (dan dapat menutup) kesenjangan
 
 AI menambahkan lapisan baru pada implikasi keadilan teknologi. Bias algoritmik dapat berdampak tidak proporsional pada pembelajar dari komunitas marginal, dan [[ai-literacy|literasi AI]] — kemampuan memahami, mengevaluasi secara kritis, dan memitigasi bias serta risiko AI — itu sendiri merupakan faktor kunci apakah AI memperlebar atau mempersempit jurang. [[research-methods-aied|Penelitian]] menunjukkan pendidik dengan literasi AI lebih tinggi lebih efektif dalam mengidentifikasi dan memitigasi hasil yang bias. Kesenjangan digital di era AI karena itu bukan sekadar masalah penyediaan teknis melainkan pertanyaan tentang keadilan dan partisipasi: siapa yang dapat mengakses AI, siapa yang dapat menggunakannya secara kritis, dan siapa yang memperoleh manfaat.
-
 
 Untaian panjang dalam literatur menelusuri bagaimana konsep itu sendiri bergeser dari akses ke **keadilan digital**, yang kini didefinisikan dalam empat dimensi — literasi digital, keterjangkauan, konten yang peka kelompok, dan ketersediaan infrastruktur — dan membaca AI konsumen sebagai gelombang baru kesenjangan yang menguntungkan pengguna yang sudah mampu mengaudit keluaran mesin ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
 **Kepribadian, bukan hanya SES, membentuk kesenjangan era AI.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] menganalisis data survei dan registri nasional dari **4,497 siswa Kelas 6** di Belanda, memisahkan dua jalur mediasi — penggunaan AI dan literasi digital — yang menghubungkan latar belakang dan kepribadian siswa dengan [[learning-gains|kinerja akademik]]. Temuan kunci mereka membingkai ulang kesenjangan klasik: **literasi digital, bukan intensitas penggunaan AI, yang memediasi** kaitan antara kepribadian dan kinerja, dan muncul kesenjangan keterampilan digital baru yang lebih didorong oleh **ciri kepribadian daripada status sosial ekonomi**. Keuntungan SES atas kinerja beroperasi secara independen dari [[student-engagement|keterlibatan]] AI. Ini memperumit pembingkaian akses-dan-SES atas kesenjangan digital, mengarahkan pada pembentukan keterampilan dan dukungan disposisional sebagai tuas yang relevan bagi keadilan di samping akses perangkat dan alat.
 
 **Kesenjangan ini memiliki lapisan [[metacognition|metakognitif]].** Karena memanfaatkan AI secara produktif menuntut [[prior-knowledge|pengetahuan awal]] dan [[self-regulated-learning|regulasi diri]], siswa yang sudah memiliki keduanya paling diuntungkan sementara mereka yang paling membutuhkan latihan justru mendelegasikan pembelajarannya sendiri — "kesenjangan keadilan metakognitif" yang dapat memperlebar jurang capaian bahkan pada akses yang setara ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
-
 
 Pengajaran AI terstruktur di sekolah adalah katalis psikologis tetapi bukan pemerata kognitif: pada 752 siswa sekolah menengah pertama Hong Kong, [[curriculum-design|kurikulum]] selama setahun mempersempit jurang kepercayaan diri dan motivasi namun membiarkan perbedaan literasi AI objektif antara pembelajar beragensi tinggi dan rendah tetap utuh ([[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]]).
 **Kesenjangan juga beroperasi pada tingkat institusional.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] menunjukkan bahwa dalam sistem pendidikan tinggi Nigeria, kapasitas integrasi AI terkonsentrasi pada institusi yang lebih tua di kawasan Barat Daya dan bertambah melalui ikatan jaringan yang saling memperkuat (kolaborasi internasional × kemitraan industri, r = 0.74) — artinya institusi "yang tidak punya" (biasanya universitas negeri yang lebih baru) menghadapi hambatan struktural untuk memasuki jaringan yang justru akan membantu mereka mengejar ketertinggalan. Ketidaksetaraan digital karenanya direproduksi bukan hanya lintas pembelajar individu tetapi lintas struktur [[governance|institusional]] yang membentuk siapa yang dapat berpartisipasi dalam ekonomi pengetahuan yang ditransformasi AI.
@@ -104,43 +103,3 @@ Kesenjangan digital adalah kekhawatiran inti penelitian [[equity-in-ai-education
 - Jangan memperlakukan distribusi perangkat sebagai penutup kesenjangan. Jurang yang terukur berada pada keterampilan merumuskan, bahasa antarmuka, dan konektivitas, dan tidak satu pun darinya diperbaiki oleh perangkat keras.
 - Publikasikan infrastruktur yang diasumsikan suatu alat. Persyaratan yang dinyatakan dengan jelas memungkinkan latar dengan sumber daya terbatas menilai kesesuaian sebelum berinvestasi.
 - Hitung biaya penerapan penuh, bukan lisensi perangkat lunak. Bukti digital-twin menunjukkan tagihan perangkat keras dapat bertahan dari virtualisasi.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Artikel terkait
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI untuk eGovernance: memanfaatkan teknologi bahasa untuk inklusi digital
-
-- [[watanabe-genai-education-gap-europe-2026]] — Apakah jurang pendidikan dalam penggunaan AI generatif lebih kecil daripada jurang internet? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Struktur institusional, ketidaksetaraan digital, dan integrasi AI dalam pendidikan tinggi Nigeria
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, kepribadian, dan kesenjangan AI dalam pendidikan dasar (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: tutor dengan guru sebagai proksi menjangkau siswa tanpa perangkat (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Pendidikan AI di sekolah mempersempit jurang kesiapan psikologis tetapi tidak kognitif
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: mengukur & memitigasi disparitas aksesibilitas dalam akses LLM
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Kerangka literasi AI berperancah (SAIL)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Mengajarkan Penggunaan Chatbot AI yang Bertanggung Jawab kepada Siswa K-12
-- [[structural-silence-underrepresented-language-ai-2026]] — Kesenyapan Struktural dan Bahasa yang Kurang Terwakili
-- [[sec-ai-literacy-narrative-review-2026]] — Kompetensi Sosial-Emosional dalam Literasi AI
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — Platform Pembelajaran Adaptif Berbasis AI untuk Konteks Multibahasa dengan Sumber Daya Rendah
-- [[ai-science-chemistry-education-systematic-review-2025]] — Tinjauan sistematis AI dalam pendidikan sains/kimia
-- [[unesco-ai-guidelines-chemical-education-2026]] — Pedoman AI UNESCO yang diterjemahkan ke pendidikan kimia; penyimpangan epistemik
-- [[lodge-loble-cognitive-offloading-2026]] — AI, pengalihan beban kognitif, dan implikasinya bagi pendidikan (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Literasi AI humanis sosialis + penggunaan yang wajar
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: akses robotika pedesaan mengikuti geografi mentoring, bukan akses perangkat (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Ketidaksetaraan digital sebagai masalah distributif vs. kolonialitas algoritmik sebagai masalah epistemik, di HDI Afrika Selatan
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: Kerangka Agen AI Lokal-Utama untuk Pembelajaran Bahasa Rumah Berbiaya Rendah menuju Keadilan Pendidikan
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Laboratorium digital twin membawa tagihan peralatan yang membatasi akses bersamaan

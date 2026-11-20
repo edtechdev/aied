@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation, numbers]
+connected_concepts: [reading-education, metacognition, self-regulated-learning, learning-design]
+connected_articles: [gardella-copilot-fast-forgettable-2026, chen-genai-programming-understanding-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 > **Synthesis:** Kreijkes and colleagues ran a preregistered experiment in seven English secondary schools to ask whether a chatbot helps students understand a history passage better than taking notes does. Every student worked through two of three conditions — a chatbot, note-taking, or both together — and returned three days later for closed-book tests. Note-taking beat the chatbot on every measure, and the combination beat the chatbot on two of three. Students nevertheless found the chatbot easier, more helpful and more enjoyable, and preferred it. The paper's explanation is not that chatbots harm reading but that the activity students liked best did more of the cognitive work for them.
@@ -71,19 +73,6 @@ The 4,929 prompts are the paper's other contribution to [[learning-design|learni
 - The tests covered mastery of the assigned passages only; the authors suggest notes may support command of the text while the chatbot supports exploration beyond it.
 - Participants received instructions and a demonstration but no training, so the copying may reflect a missing skill rather than a fixed property of chatbots.
 - The sample was Year 10 students in seven self-selected English schools working with two history passages and GPT-3.5 turbo, which limits generalization to other ages, texts and systems.
-
-## Connected Concepts
-
-- [[reading-education]] — comprehension and retention as separate outcomes of reading instruction
-- [[metacognition]] — learners' weak judgment about which activities produce learning
-- [[self-regulated-learning]] — sequencing tool use so the student does the work
-- [[learning-design]] — prompt patterns as a design surface for tasks
-
-## Connected Articles
-
-- [[gardella-copilot-fast-forgettable-2026]] — a controlled study in which speed with a copilot did not become learning
-- [[chen-genai-programming-understanding-2026]] — two groups of programming students diverging in understanding
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — a generative use of the model that improved later retrieval
 
 ## Citation
 

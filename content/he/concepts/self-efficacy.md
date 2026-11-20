@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
@@ -90,46 +92,3 @@ ai_assist:
 - **"יותר שימוש ב-AI עם ביטחון נמוך הוא אסטרטגיית התמודדות בלתי-מזיקה."** אותו ממצא מקשר את הניתוב הזה ל**ציונים נמוכים יותר**, ולכן לדפוס ההתמודדות יש עלות מדידה ולא בחירה נייטרלית.
 - **"אוריינות לבדה בונה ביטחון."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] סקר **450 סטודנטים אוניברסיטאיים** שכבר משתמשים ב-ChatGPT ומוצא **אמון כציר בין אוריינות לביטחון**. הנתיב עובר דרך אמון, ולכן העלאת אוריינות בלי לטפל באמון מותירה את המנגנון ללא שינוי.
 - **"פרופילי יעילות עצמית אחידים באוכלוסייה עם מוגבלות."** ניתוח פרופיל סמוי של **102 סטודנטים אוניברסיטאיים עם מוגבלות מוטורית** בספרד מצא **שלושה פרופילים**, כשהקבוצה הנמוכה ב**29.4%** והשאר מתפצל בין פרופילים בינוניים וגבוהים. התייחסות לקבוצה כאוכלוסייה אחת ממצעת על פני מצבים מוטיבציוניים נבדלים.
-
-## מושגים מקושרים
-
-- [[learners|לומדים]] — לומדים: המטרייה למושגים מצד הלומד
-- [[self-directed-learning|למידה מונחית עצמית]]
-- [[motivation|מוטיבציה]]
-- [[self-regulated-learning|וויסוס עצמי]]
-- [[student-experience|חוויית הסטודנט]]
-- [[ai-literacy|אוריינות AI]]
-- [[agency|סוכנות]]
-- [[educational-robotics|רובוטיקה חינוכית]]
-- [[self-report-measures|אמצעי דיווח עצמי]]
-- [[social-emotional-learning|למידה חברתית-רגשית]] — למידה חברתית-רגשית
-
-## מאמרים מקושרים
-- [[ai-proof-learning-cognitive-offloading-2026]] — תמיכה בהנמקה של הסטודנטים או החלפתה? העמסה חוץ-קוגניטיבית בלמידת הוכחות בסיוע AI (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — שימוש כללי ב-AI נודד עם יעילות עצמית גבוהה יותר והיעדרות גבוהה יותר, אך יעילות עצמית לא חזה נוכחות (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוטים של AI בהשכלה גבוהה: השוואה של ציפיות לראיות (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — ביטחון עולה בעוד תלות טכנולוגית גדלה: יעילות עצמית כתוצאת עידן AI מטעה (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — e-mentoring נתמך AI מעלה את יעילות העצמית והאינטליגנציה הרגשית של מורים טרום-שירות ללימודי אנגלית (קוואלי-נסיוני)
-- [[aigc-affordance-student-self-regulation-2026]] — הזדמנויות AIGC ווויסוס עצמי של סטודנטים
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — אוריינות AI, מוכנות AI וגמישות קריירה
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — חינוך מורים לאוריינות AI (SDT)
-- [[social-robot-study-companions]] — רובוטים חברתיים כשותפי למידה
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — מסגרת HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — דפוסי שימוש ב-GenAI ויעילות עצמית אקדמית
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — סולם AI-PBLS; העצמה ומודעות אתית המתווכות PBL לשביעות רצון בקורסי אוריינות AI (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — חיזוי נשירת סטודנטים בתכנות תחרותי
-- [[genai-xr-architectural-design-education-2026]] — בינה מלאכותית יוצרת ומציאות מורחבת בחינוך עיצוב ארכיטקטוני שיתופי: מחקר סטודיו חקרני
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — אוריינות AI, אמון ויעילות עצמית אקדמית בשרשרת טורה לשימוש מתמשך ב-ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — פרופילים של יעילות עצמית אקדמית ושימוש מדווח ב-AI בקרב סטודנטים אוניברסיטאיים עם מוגבלות מוטורית
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — רווחים מדווחים ביעילות עצמית יצירתית מבינה מלאכותית יוצרת בילדים (סקירת היקף)
-- [[ai-speaking-practice-communicative-readiness-2026]] — ביטחון עצמי בדיבור הופך את הנתיב החרדתי מתרגול בסיוע AI למוכנות
-- [[faculty-ai-well-being-social-supports-2026]] — SEM של סגל: יעילות עצמית טכנולוגית כחוזה חלש לרווחה AI
-- [[cen-self-efficacy-favorability-2026]] — יעילות עצמית ונוחות מעצבות למידה ממערכות חונכות ומתרגול בנייר (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — סולם היעילות העצמית בכתיבה חזה יותר שאילתות Translating ו-Reviewing, ולא יותר Planning או האצלת המאמר כולו (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — מדידת אמונת יעילות עצמית בלמידת מכונה מתוך עקבות אינטראקציה של לומדים בלמידה מתוגברת טכנולוגיה
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — יעילות עצמית ב-AI → אוריינות AI → קבלה של AI, עם מדידת החלק המתווך בידע (İşbulan et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — יעילות עצמית אקדמית חזה יותר אמון יתר ב-AI ולא פחות
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — יעילות עצמית כתנאי הכרחי לתועלת נתפסת, עם ספי צוואר-בקבוק (Chu & Liu 2026)

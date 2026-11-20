@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -98,34 +100,3 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 **"UDL 意味着更用心地为平均学生设计。"** 核心主张恰恰相反：学习者变异是常态而非例外，因此设计从一开始就提供多条路径，而不是为挣扎者修一条路。修补正是 UDL 要取代的东西，而一条调校良好的单一路径仍然是一条单一路径。
 
 **"AI 让 UDL 自动实现，因为它能生成替代格式。"** 它让表征原则变便宜，却把参与与表达留在原地。把文本转成音频只是处理了三种手段中的一种；一门课程如今可以完全多格式，却仍要求每个学生以同一种方式展示学习。
-
-## 关联概念
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — 总括：AI教育中的教学法与教学策略
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## 关联文章
-- [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的GenAI认知外包
-- [[authentic-products-authenticated-processes-2026]] — 从真实作品到经过验证的过程
-- [[tactile-statistical-graphs-accessibility]] — 面向可及性的触觉统计图表
-- [[neurodivergent-computing-students]] — 神经多样性计算学生
-- [[ai-learning-tools-engineering-education-needs]] — 设计需求与注意感知的 AI 学习工具
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其后：面向高等教育中神经多样性学生的数字辅助技术范围综述
-- [[faculty-accessible-course-design-ai-2026]] — 《AI is reducing options I had used》：探索教授对 ChatGPT 世界中可及课程设计的感知
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — 科威特高等教育机构中的人工智能与通用学习设计：迈向一个面向包容教育的 AI 赋能框架
-- [[mcdonald-inclusive-assessment-genai-2026]] — 生成式 AI 时代的包容性评估设计：推进教学法与实践

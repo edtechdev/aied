@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -96,39 +98,3 @@ ai_assist:
 - **"구두 평가는 규모를 늘릴 수 없다."** [[code-review-genai-cs1|CS1 구두 코드 리뷰 연구]]에서 **매주 15분짜리 면접이 각 과제 성적의 70%를 차지**했고, 붙여넣기 대 전체 문자 수는 여전히 정보를 주었습니다. 비용은 실제이며, 이 설계는 강좌 규모에서 실행 가능합니다.
 - **"구두 시험은 서면보다 무르다."** 보고된 시범에서 점수는 **대면 객관식 시험의 점수를 넘었습니다. 중간고사 중위수 92.5 대 70(p < .001), 기말고사 중위수 94.2 대 86.4(p = .002)**. 구두 평가는 관대한 선택지가 아니었습니다.
 - **"시뮬레이션 면담은 점진적 공개 사례와 동등하다."** [[ai-standardized-patient-scaffolding-medical-2026|3학년 의대생 100명을 대상으로 한 무작위 대조 시험]]에서 시뮬레이션 환자 시스템은 **점진적 공개 사례 자료와** 비교되었습니다. 동등성을 가정한 것이 아니라 직접 검정한 것입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 구두 및 비바 보체 검증 순서, 그리고 그것이 보여 주는 것과 보여 주지 않는 것
-- [[assessment]] — 이 형식이 놓인 더 넓은 분야
-- [[authentic-assessment]] — 정직성 논증을 만드는 설계 전통
-- [[assessment-validity]] — 형식이 측정한다고 주장할 수 있는 것과 없는 것
-- [[academic-integrity]] — 구두 평가를 다시 주목받게 만든 압력
-- [[automated-assessment]] — 구두 수행의 기계적 전달과 채점
-- [[ai-detection]] — 다른 대응이자 더 약한 이유
-- [[speech-and-voice-technologies]] — 구두 시스템이 돌아가는 음성 파이프라인
-- [[multimodal]] — 결합된 증거로서의 제스처와 말
-- [[anxiety-and-stress]] — 실시간 수행의 정서적 대가
-- [[feedback]] — 비바 보체가 학습자에게 알려 주는 자신의 이해에 대한 것
-- [[higher-ed]] — 이 증거의 거의 전부가 나오는 배경
-
-## 연결된 문서
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 구두 시험과 평가의 사용 재고(Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — 비동기 구두 평가: 정직성, 참여, 전문적 의사소통
-- [[ai-supported-oral-assessment-tvet-2026]] — 직업 교육에서 AI 지원 구두 평가 설계
-- [[aivaluate-anxiety-assessment-2026]] — AI를 매개로 한 수행 기반 평가에서의 불안과 경험
-- [[code-review-genai-cs1]] — 입문 프로그래밍 강좌에서의 구두 코드 리뷰 면접
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 구두 설명 평가에서 증거로서의 제스처
-- [[socratic-tests-conversational-assessment]] — 구두 평가로서의 자동화된 대화형 시험
-- [[tool-invariant-framework-agentic-ai]] — AI 지원 작업의 구두 변론
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 시뮬레이션 환자 시스템 아래서의 구두 임상 면담
-- [[pgr-students-genai-uses-qualitative-2026]] — 생성형 AI 아래서의 박사 비바 보체
-- [[computing-assessment-genai-workshop-report-2026]] — AI가 네 숙제를 할 수 있다. 이제 무엇을 할 것인가? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
-- [[ai-second-language-listening-speaking-assessment-2025]] — 분기 없는 AI 대화 과제는 과제 요구를 말하기 구인과 어긋나게 한다
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 생생한 비바 보체도 더는 면역이 아니다: AI 안경과 이어버드가 은밀한 실시간 프롬프트를 전달한다(Corbin, Sharpe & Dawson 2026)
-- [[assessment-feedback-trilemma-model-2026]] — 어떤 형식에도 고정된 위치를 부여하지 않고 실현 가능성을 교육적 우선순위로 재구성한다
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — 비즈니스 통계 강좌에서 일정 우회책으로서의 AI 비계 짝 구두 평가
-- [[deng-certification-consultation-university-teaching-2026]] — 생성형 AI 이후의 대학 교수: 강의와 탐구를 넘어 학습자가 평가자가 되는 인증-자문 패러다임으로
-- [[webb-davies-voice-first-written-assessment-2026]] — 가정 작성 제출물을 채점하기 전에 관찰 아래 추론을 확보하는 2단계 서면 평가, 연결이 불분명하면 조건부 비바 보체(Webb-Davies, Ratner & Bassett 2026)
-- [[challen-conversational-assessment-chat-exams-2026]] — 확장 가능한 대화형 평가: 2에이전트 LLM 파이프라인을 갖춘 채팅 기반 시험

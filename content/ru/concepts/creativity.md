@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -93,43 +95,3 @@ ai_assist:
 - **«Противоречие, создаваемое студентам, даёт творческий прирост».** **Трение — не творческий прирост.** Контрарианские персоны ИИ направляли дискурс вызова и рефлексии в **38,2% групп**, но не дали **измеримого улучшения творческой результативности**. Дискурс изменился, а измеренный результат — нет.
 - **«Литература K-12 устанавливает, что генеративный ИИ улучшает креативность».** Скоупинг-обзор по руководству PRISMA, охватывающий **45 исследований (2017-2025)**, показывает, что генеративный ИИ в основном **улучшает** креативность и **редко её измеряет**. Доминирующая находка области — вывод из воспринимаемого улучшения, а не измерение результата.
 - **«Больше зависимости от генеративного ИИ означает больше творческой выдачи».** Среди **1 157 китайских аспирантов** зависимость от генеративного ИИ была **положительно связана с самоотчётной исследовательской креативностью**, — а связь эта с **самоотчётом**, самой слабой из доступных мер конструкта.
-
-## Связанные концепции
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Связанные статьи
-
-
-- [[wei-genai-configurations-creative-phases-2026]] — Конфигурации генеративного ИИ по фазам творчества: эксперимент 2 × 2 о творческой результативности и немедленном знании в образовании искусства и дизайна
-
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Генерация изображений GenAI оставила проектную результативность неизменной, но снизила общую творческую самоэффективность
-- [[bicer-genai-pd-math-creativity-2026]] — Как профессиональное развитие, управляемое генеративным ИИ, поддерживает вовлечённость преподавателей в математическую креативность, знание содержания и педагогическое знание содержания
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Опора на аксиомы для литературного творчества: посылки как единица между темой и текстом, валидированные только в плане (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Эмерджентная субъектность учащегося в неявной коллаборации человек–ИИ: поддерживающие против контрарных персон
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT и критическое и творческое мышление: систематический обзор
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Интеграция робота и LLM и творческое письмо
-- [[t2i-competence-paradox-2026]] — Парадокс компетентности ИИ текст-в-изображение среди студентов искусства и дизайна
-- [[mujib-ai-ibl-creative-math-2026]] — Поддерживаемое ИИ обучение на основе исследования и творческая математическая результативность
-- [[flowcode-ai-creative-coding]] — Flowcode: среда на базе ИИ, подпирающая итерации в творческих вычислениях
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: тривалентная модель потенциальной ко-креативности в социотехнических сетях
-- [[genai-creativity-k12-scoping-review-2026]] — Скоупинговый обзор PRISMA 45 исследований K–12: четыре применения GenAI для креативности, гомогенизация и разрыв в измерении
-- [[multi-agent-llm-social-learning]] — Помощь двух моделей восстановила разнообразие идей, которое сплющивала одна модель (Kumar и др. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Функциональная против экзистенциальной зависимости от GenAI и креативность исследований у 1 157 студентов магистратуры
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Совпадающая креативность, расходящееся нейронное вовлечение: дети против взрослых в разговоре с ChatGPT в фМРТ-сканере
-- [[ai-dependence-creativity-motivation-literacy-2026]] — Зависимость от ИИ и четыре мотивации использования по-разному связаны с самооценённой креативностью (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source

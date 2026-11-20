@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -78,33 +80,3 @@ Fowlin и др. (2026) операционализируют это распре�
 - **«Общий документ означает общее познание».** Профили **97 учащихся**, построенные по объёму, различались **предшествующим знанием и авторством**, но **не подсказками, ориентированными на активную роль или на уровень понимания**. Объём участия измерял подверженность воздействию, а не распределение когнитивной работы, поэтому [[learning-analytics|аналитика]] использования совместного инструмента мало говорит о том, кто думал.
 - **«Все перекладывают на ИИ одинаково».** Начинающие преподаватели **делегируют большую долю когнитивной нагрузки проектирования обучения системе ИИ**, приходя к **доминированию ИИ** в распределении, при котором они по большей части принимают ответы, тогда как опытные и знающие ИИ преподаватели распределяют иначе. Экспертиза проявляется в том, куда помещается нагрузка, а не только в том, сколько используется ИИ.
 - **«Больше участия ИИ означает больше поддержки».** Доминирование ИИ в распределении — это шаблон, за которым нужно следить, потому что доля когнитивной работы человека сокращается, тогда как объём выдачи растёт. Система может выглядеть более способной именно тогда, когда пользователь делает меньше.
-
-## Связанные понятия
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Связанные статьи
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirical study of human–AI collaborative problem-solving through a distributed cognition + co-regulation lens
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as a pedagogical mediator redistributing cognition across human and non-human actors
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated thinking
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition framework reconceptualizing thinking as human–AI interaction
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Транзактивная память с GenAI: разделение труда и рефлексивная трансформация опосредуют критическое мышление (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Почему отдельный учащийся — неверная единица анализа
-- [[rivera-novoa-genai-extended-cognition-2026]] — Расширенное познание в обучении естественным наукам: GenAI субститутивен по умолчанию, дополнителен по замыслу (Rivera-Novoa & Duarte Arias 2026)

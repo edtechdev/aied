@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,12 +48,3 @@ Instructori de scriere din primul an și departamente de engleză care vor feedb
 ## Note și precauții
 
 Site-ul raportează peste 12.000 de studenți, peste 700 de cursuri și peste 41.000 de eseuri revizuite — cifre raportate de furnizor, nu un audit independent. Conformitatea FERPA, pregătirea GDPR și accesibilitatea sunt de asemenea afirmațiile furnizorului; eseurile trec prin Azure OpenAI, iar site-ul afirmă că nu sunt folosite pentru a antrena modele, ceea ce un district școlar ar trebui să confirme în acordul de prelucrare a datelor, nu să preia din pagina de marketing. Prețul este freemium și variază după public: un prim semestru gratuit pentru instructorii noi (la cerere, limitat la trei pe școală), aproximativ \$12–15 per student pe semestru după aceea, și un nivel plătit per revizuire pentru studenții individuali, cu prima revizuire gratuită. Tabelul comparativ cu ChatGPT Plus, Packback și Grammarly este al furnizorului. Un parteneriat cu UC Davis pe proiectul PAIRR este o colaborare de cercetare, nu o dovadă publicată că platforma îmbunătățește scrierea.
-
-## Concepte conexe
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,7 +51,6 @@ ai_assist:
 **অভিযোজন চালায় শিক্ষাগত ভিত্তি, প্রযুক্তিগত সক্ষমতা নয়।** 127টি বুদ্ধিমান টিউটরিং গবেষণার 15 বছরের পর্যালোচনা দেখে বেশিরভাগ ব্যবস্থা প্রযুক্তি কী করতে পারে তার চারপাশে নির্মিত, সুস্পষ্ট শিক্ষাগত নীতির চারপাশে নয়, এবং গড় ITS লাভ রাখে প্রায় 20%, যেখানে মানব টিউটরিংয়ে তা 98% পর্যন্ত ([[zerkouk-comprehensive-review-its-2025|Zerkouk প্রমুখ (2025)]])।
 
 দুই বছরের একটি জেলা-পর্যায়ের RCT-তে অভিযোজন-প্রক্রিয়া নয়, গ্রহণই ছিল বাঁধা সীমা: ভর্তিকে এক ধাপে নামিয়ে আনা কেবল নকশা-পরিবর্তনেই প্রথম-সেশন গ্রহণ প্রায় 45% থেকে 83%-এ তুলেছে, এবং গ্রহণ বাড়ার সঙ্গে অভিপ্রেত-চিকিৎসা লাভও বেড়েছে ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos প্রমুখ (2026)]])।
-
 
 44টি গবেষণার একটি PRISMA-সামঞ্জস্যপূর্ণ পর্যালোচনা দেখে সম্পৃক্ততা-সাহিত্য [[student-engagement|আচরণগত সম্পৃক্ততার]] দিকে ঝুঁকে আছে এবং এজেন্টিক সম্পৃক্ততায় সবচেয়ে পাতলা, এবং একটি নবীনতা-প্রভাব রিপোর্ট করে — ALEKS ও W-Pal-এর দীর্ঘকালীন গবেষণায় সরঞ্জামের নবীনতা ফুরালে সময়ের সঙ্গে সম্পৃক্ততা কমে ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng ও Fryer (2026)]])।
 
@@ -109,54 +110,3 @@ ai_assist:
 
 - আপনি যে প্রভাব-আকারই উদ্ধৃত করুন না কেন তার পাশে "অভিযোজনশীল"-এর কার্যকরী সংজ্ঞা রিপোর্ট করুন, কারণ সাহিত্যের সংজ্ঞাগুলো ভিন্নমুখী এবং পুল করা সংখ্যা সেই অস্পষ্টতা উত্তরাধিকারসূত্রে পায়।
 - আপনার নিজের যাচাইয়ে আয়ত্ত-মানদণ্ডকে শিখন-ফলাফল থেকে আলাদা করুন। যদি আপনার যাচাই-মাপ সেই একই সংকেত হয় যা অভিযোজন চালায়, তবে তা স্বতন্ত্র প্রমাণ নয়।
-
-## সংযুক্ত ধারণা
-
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, LLM প্রশিক্ষণ, রোবোটিকস, RAG, এজেন্টিক)
-- [[recommender-systems-and-learning-paths]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: ব্যক্তিগতকৃত মূল্যায়নের জন্য একটি গতিবেগ-সচেতন অভিযোজনশীল রেটিং ব্যবস্থা
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — প্রতারক অতিসাধারণীকরণ: অভিযোজনশীল আয়ত্ত শিক্ষার্থীরা কখন কাজ থেকে বিরত থাকতে হবে জানার আগেই অনুশীলন বন্ধ করতে পারে (An, McLaren ও Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — এআই টিউটরিং একক কিছু নয়: আমরা আসলে কী জানি (Stanford SCALE/NSSA ব্রিফ)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — অভিযোজনশীল শিখন প্ল্যাটফর্মে শিক্ষার্থী-সম্পৃক্ততার পদ্ধতিগত পর্যালোচনা
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL-সহ ভার্চুয়াল টিউটরিং: গ্রহণ ও শিখনের একটি পরীক্ষা
-- [[making-ai-tutoring-productive-mastery-math-2026]] — এআই টিউটরিংকে উৎপাদনশীল করা: আয়ত্ত-ভিত্তিক গণিত অনুশীলন
-- [[chudziak-ai-math-tutoring-platform]] — অভিযোজনশীল/ব্যক্তিগতকৃত বহু-এজেন্ট গণিত টিউটরিং (Chudziak ও Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — ব্যক্তিগতকৃত শিখনের পুনর্সংজ্ঞা: পদ্ধতিগত পর্যালোচনা
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — শিক্ষার্থীর প্রস্তুতির সঙ্গে ক্রমাঙ্কিত টিউটরিং-নির্দিষ্ট এআই বনাম সাধারণ চ্যাটবট
-- [[context-based-ai-secondary-chemistry-2026]] — মাধ্যমিক রসায়নে প্রসঙ্গ-ভিত্তিক 7E + এআই নির্দেশনা
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — গভীর শিখনের জন্য অভিযোজনশীল এআই-ভিত্তিক STEM কর্মসূচি
-- [[graph-its-adaptive-algorithms-2026]] — গতিশীল ক্ষেত্রের জন্য গ্রাফ-ভিত্তিক বুদ্ধিমান টিউটরিং (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ব্যক্তিগতকৃত শিখন-পথের জন্য বায়েসীয় সংজ্ঞানাত্মক নির্ণয়
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি ITS-এ অভিযোজনশীল ICAP স্ক্যাফোল্ডিং (BKT বনাম DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14টি RCT জুড়ে অভিযোজনশীল + এআই-সক্ষম সরঞ্জাম পুল করা মেটা-বিশ্লেষণ
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — পদ্ধতিগত পর্যালোচনা: উচ্চশিক্ষায় এআই সংযুক্তির শীর্ষ ব্যবহার-ক্ষেত্রের মধ্যে অভিযোজনশীল পথ
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — অভিযোজনশীল সমস্যা-ক্রমবিন্যাস স্থির ক্রমবিন্যাসকে ছাড়িয়ে যায়: সহায়তাহীন পরীক্ষায় +0.156 SD, কঠিনতার বদলে সম্পৃক্ততার মাধ্যমে মধ্যস্থতাকৃত (Chung প্রমুখ 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: একটি এজেন্টিক টিউটর যা মানুষ-এআই সহ-শিখন লুপে তার শিক্ষার্থীকে শেখে
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — কৌশল-ব্যবহার অবস্থা-প্রধান (গড় ICC 0.14), তাই স্থির শিক্ষার্থী-প্রোফাইল সংকেতের বেশিরভাগ অংশ ফেলে দেয়

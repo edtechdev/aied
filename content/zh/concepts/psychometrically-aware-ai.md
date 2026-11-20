@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -61,30 +63,3 @@ ai_assist:
 - **"得分好的模型测量的是同一样东西。"** 在**同一份评估工具**上，人类与大语言模型的反应结构**出现分歧**，因此一个模型可以得分很好，却测量着不同于工具所意图的东西。分数匹配是观察；构念等值是一个独立的主张，需要结构层面的证据。
 - **"校准可以从一个准确率数字上读出来。"** **单一准确率数字可以掩盖一个只是看起来已校准的模型**：让 GPT-4o 与 Gemini 2.0 Flash 从 **153 名本科生**的对话推断学习风格维度，产生了**中等准确率，而它在均衡指标下表现不同**。聚合准确率掩盖了一个被均衡指标暴露出来的差异。
 - **"自动评分流水线无法复现心理测量程序。"** 作者以自动化形式复现了一条既有流水线（**下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道**），使 AI 与人工题项得分可以在同一基础上比较。程序是可复现的；构念问题仍然存在。
-
-## 关联概念
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## 关联文章
-
-- [[genai-reliance-scale-problem-solving-2026]] — 一个经过验证的量表，用于测量学生在问题解决中对生成式 AI 的依赖（Hou et al. 2025）
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment：大规模写作评估中 AI 辅助评分的人在回路框架
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)：评估工具对人类与大语言模型测量的是否是同一东西？（Strugatski 等人 2026）
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration：让 LLM 评价与心理测量校准对齐
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty：LLM 的题目难度预测
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading：置信度感知的自动简答评分
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation：多模态项目参数估计
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI：生成式人工智能支持的胜任力导向教育
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)：手写物理评估（奥赛）的 AI 评分
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML：用大语言模型与基于树的机器学习估计题目难度
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs：测绘 AI 素养工具语料：55 个构念、jangle 与 jingle 对、基于大语言模型的编码
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses：学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 一旦检查按类别的召回率，中等准确率其实就是主导标签预测（Zamanifard、Goudarzi 与 Robb 2026）

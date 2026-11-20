@@ -29,6 +29,7 @@ verified: [links]
 translation_of: resources/gemini-notebook
 source_updated: "2026-09-22T04:10:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,7 +47,3 @@ Uliza maswali kwenye seti yote ya vyanzo, fupisha hati ndefu, na fuatilia rejea 
 ## Vidokezo na tahadhari
 
 Google inasema kuwa maudhui ya akaunti ya kibinafsi hayatumiki kufundisha mifano yake isipokuwa mtumiaji awasilishe maoni, kwamba upakiaji wa Workspace, maswali na majibu hayatumiki kwa mafunzo hata wakati maoni yanapatikana, na kwamba [[privacy|data haishirikiwi na wahusika wa tatu]]; hata hivyo, daftari zilizofutwa haziwezi kurejeshwa. Madai ya uwezo yaliyo juu ni ya muuzaji yenyewe, na wilaya au taasisi inapaswa kuyathibitisha dhidi ya makubaliano yake ya usindikaji wa data badala ya ukurasa wa bidhaa. Ufunzaji katika 2026 pia ulieleza mashtaka kuhusu sauti iliyotumiwa katika podikasti zinazozalishwa, ambayo Google ilikanusha, ukumbusho kwamba matokeo ya sauti yanaibua maswali ya [[legal-issues-and-risks|mfano]] tofauti na ulinzi wa msingi wa vyanzo. Chukua kadi za kukumbuka, mitihani midogo na muhtasari yanayozalishwa kama rasimu za kukaguliwa dhidi ya vyanzo, na tambua kuwa vikomo vya daraja la bila malipo vinabadilika bila taarifa.
-
-## Dhana Zilizounganishwa
-
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

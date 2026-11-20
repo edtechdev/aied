@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -110,33 +112,3 @@ AI 改变了这项技术的三件事。它可以生成题目和量规，使反�
 **"加入一个 AI [[feedback|反馈回路]]就会自动改善自我评价。"** 反馈回路改变学生据以比较的对象，这可能改善校准，也可能把他们锚定在系统的判断上。此处的比较研究（**118 名一年级本科生，56 人在 GenAI 组、62 人在同伴组**，一学期三个循环）正是为检验起作用的是回路还是社会比较而设计，而答案并不是"回路因为它是回路"。
 
 **"自我评价是测试的温和替代。"** 它是另一个目标。自我评价发展判断自己作品的调节技能；测试测量被判断的能力。用其一替代其二的研究，把评价表现的能力与表现本身混为一谈。
-
-## 关联概念
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## 关联文章
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — 把自我评价置于自我主导成长框架的中心（2026）
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 按发展分层的 AI 素养材料，含接受度与效度测量（2026）
-- [[chatgpt-critical-creative-thinking-review]] — 用同伴、教师与自我评价对 AI 反馈作三角互证（2026）
-- [[yasir-llm-tutoring-agents-2026]] — 反馈为何不应建立在模型自评的推理有效性之上（Yasir 等 2026）
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 面向 4 至 6 年级的经验证 15 题 AI 素养自我评价问卷，含儿童自我报告的元认知局限（Thianwan & Srikoon 2025）
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 种教师 AI 素养工具中 31 种为自我报告，两种客观测试知识，无一使用表现任务（Zainal, Mohd Matore & Maat 2026）

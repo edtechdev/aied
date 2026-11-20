@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -43,6 +44,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 مفت سطح 10,000 AI کریڈٹس اور تین ایپس تک محدود ہے؛ لامحدود ایپس اور جدید ماڈلز Pro سطح سے شروع ہوتے ہیں، اور LTI انٹیگریشن، single sign-on اور جدید تجزیات Enterprise سطح پر درج ہیں، اس لیے ادارے کو جن خصوصیات کی سب سے زیادہ ضرورت ہے وہی قیمت لیتی ہیں۔ ریپوزٹری اپنی `LICENSE` فائل کے مطابق **AGPL-3.0** کے تحت لائسنس یافتہ ہے، جو ہر اس شخص کے لیے اہم ہے جو خود میزبانی یا ترمیم کا ارادہ رکھتا ہو، اور اس کا README اب بھی اس تبدیلی سے پہلے کی طرح LGPL کہتا ہے، اس لیے README کے بجائے لائسنس فائل پڑھیں۔ اداروں کو طالب علم کا کام ہوسٹڈ فریقِ ثالث کی خدمت سے گزارنے سے پہلے اپنی ڈیٹا پروسیسنگ کی شرائط بھی جانچ لینی چاہئیں۔
-
-## منسلک تصورات
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -89,34 +91,3 @@ ai_assist:
 
 - Δηλώστε την αντίληψη της μάθησης που προϋποθέτει η αξιολόγησή σας, επειδή ένα μετρούμενο κέρδος είναι εκπαιδευτικό αγαθό μόνο σε σχέση με κάποια αντίληψη για το τι υπηρετεί η εκπαίδευση.
 - Χρηματοδοτήστε τη φιλοσοφική εργασία μαζί με την εμπειρική: τα ερωτήματα για το τι μετράει ως επίτευγμα του μαθητή θέτουν τα κριτήρια επιτυχίας που χρησιμοποιούν μετά οι εμπειρικές μελέτες.
-
-## Συνδεδεμένες Έννοιες
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Εκπαίδευση στη χημεία και ΤΝ: εργαστήρια, διαμορφωτική αξιολόγηση, όρια των LLM, φιλοσοφία του πειράματος
-
-## Συνδεδεμένα Άρθρα
-- [[genai-chinese-higher-education-integrity-2026]] — Γενετική ΤΝ στην κινεζική τριτοβάθμια εκπαίδευση: ακεραιότητα και εμπλοκή
-- [[ensemble-cognition-philosophy-ai-education]] — Νοημοσύνη συνόλου: ένα φιλοσοφικό πλαίσιο για την ανθρώπινη–ΤΝ νόηση
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Παιδαγωγική συμβίωση και ο μετα-ανθρώπινος μαθητής
-- [[videla-embodied-ai-education-choreography]] — Ενσώματη, μετα-γνωστικιστική κριτική της ασώματης ΤΝ στην εκπαίδευση
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Αναπτυξιακό-κριτικό μοντέλο ερμηνευτικής νόησης στις ανθρωπιστικές επιστήμες
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Η επιστημική συν-δράση ως φιλοσοφία της μάθησης με μηχανές
-- [[avraamidou-ai-colonization-science-education]] — Κριτική-φεμινιστική φιλοσοφία που αμφισβητεί την αποικιοποίηση της εκπαίδευσης από την ΤΝ
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Η γενετική ΤΝ ως διαμεσολαβητικός δρων
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Οικολογική πλαισίωση των επιστημών μάθησης για τη γενετική ΤΝ
-- [[philosophy-experimentation-ai-chemistry-2026]] — Φιλοσοφία του πειράματος στη χημεία με ΤΝ
-- [[strydom-human-gai-paradigms-2026]] — Πλαισιώνοντας τη δυναμική ανθρώπου-ΤΝ: επτά παραδείγματα εμπλοκής με τη γενετική ΤΝ (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Εναλλακτική φιλοσοφία της ΤΝ: ο ταοϊσμός ως μέθοδος για την ΤΝ στην εκπαίδευση
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — Η «ανθρωποκεντρική» AIED διαβασμένη ως ανθρωποκεντρικός λόγος με εμπορικές χρήσεις (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Μπορούν οι μηχανές να επιτελέσουν συναισθηματική εργασία; Η συζήτηση 1950–1996, και γιατί η μίμηση υποπροσδιορίζει τη φροντίδα

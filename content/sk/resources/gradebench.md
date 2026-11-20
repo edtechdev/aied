@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -43,9 +44,3 @@ Vyučujúci, ktorí rozhodujú, či nechajú hodnotiaci nástroj zverejniť zná
 ## Poznámky a výhrady
 
 GradeBench vydáva Pensive, komerčná platforma na hodnotenie AI, takže benchmark a produkt majú spoločného vlastníka; konštrukcia úloh je zdokumentovaná a obhájiteľná, ale rámcovanie považujte za rámcovanie dodávateľa. Pokrýva STEM skúšky s rubrikami najmenej štyroch položiek, čo vylučuje eseje, krátke odpovede a diskusné príspevky — formáty, kde sa odohráva väčšina hodnotenia v [[humanities-education|humanitných vedách]]. Presná zhoda s rubrikou je prísna metrika: dvaja hodnotitelia sa môžu na položke nezhodnúť a obaja môžu mať pravdu o študentovi. Skóre opisujú verzie modelov dostupné v novembri 2026 a budú sa meniť.
-
-## Prepojené pojmy
-
-- [[automated-assessment]] — prax, ktorú benchmark meria
-- [[assessment-validity]] — kritérium, ktorého je skóre rebríčka zástupným ukazovateľom
-- [[benchmark]] — širšia trieda nástrojov, do ktorej patrí

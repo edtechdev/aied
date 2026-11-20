@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -42,7 +43,3 @@ Lehrende und [[learning-design|Instructional Designer]], die ein ausgearbeitetes
 ## Anmerkungen und Vorbehalte
 
 Die Builds werden als offen geteilt beschrieben, aber weder auf den Build- noch auf den Galerieseiten wird eine Lizenz genannt, eine Wiederverwendung braucht also die Erlaubnis des Autors statt einer angenommenen Freigabe. Der Quellcode ist allerdings öffentlich – die Repositories des Kontos enthalten das HTML und JavaScript hinter den Builds sowie ein Tutorial für die Arbeit mit Coding-Agenten in der Bildung, sodass eine Leserin eine App prüfen kann, statt sie nur auszuführen. Mehrere Links verweisen auf Netlify-Deploy-Preview-Adressen statt auf eine Projektseite; die sind für die Durchsicht gebaut und können ablaufen, während die GitHub-Pages-Builds die stabilen sind. Einige Builds hängen vom Jev-Modell von TypeSafe AI ab und zeigen dessen Wahrscheinlichkeiten, das zugrunde liegende Verhalten ist also das Urteil eines Modells statt einer festen Regel. Der Pfad der wünschenswerten Schwierigkeiten ist ein Argument – Reibung als Feature –, und die Seite stellt es dar, ohne eine Evaluation dazu zu berichten, ob Studierende mehr lernen.
-
-## Verbundene Konzepte
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

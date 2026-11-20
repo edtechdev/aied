@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -82,30 +84,3 @@ DBR היא השיטה החתימתית של [[learning-sciences|מדעי הלמ�
 **"מכיוון ש-DBR מייצר ארטיפקט שעובד, הוא הדגים אפקטיביות."** עיצוב שעובד באתר שייצר אותו איתו הדגים כדאיות מקומית, וזו טענה שונה מאפקטיביות. הארטיפקט נושא את ההתאמות שנעשו לאותו הקשר, והעברתו מעבירה הנחות שמעולם לא הוצהרו כהנחות.
 
 **"התייחסות לכלי כאל ארטיפקט-עיצוב שניתן לשכלל היא סטייה מ-DBR."** זהו האופי האיטרטיבי של DBR כשהוא מיושם על המדידה ולא על ההתערבות: מחקר אחד במאגר הזה התייחס לרובריקה עצמה כארטיפקט, בסבב שיפור-משותף עם [[llm|מודל לשוני]]. ההרחבה הזו ראויה לציון משום שהיא הופכת את פיתוחו של הכלי עצמו לחלק מן הראיה.
-
-## מושגים מחוברים
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## מאמרים מחוברים
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR עבור מודל למידה שיתופית בסיוע בינה מלאכותית
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR להכשרת אוריינות בינה מלאכותית בחינוך מורים
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR לסטנדרטים לשילוב טכנולוגיה של סגל הוראה
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
-- [[critical-thinking-genai-scaffolding]] — DBR לפיגום חשיבה ביקורתית עם בינה מלאכותית יוצרת
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR לתכנית לימודים משולבת-מדע לאוריינות בינה מלאכותית (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

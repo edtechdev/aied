@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -56,7 +58,6 @@ Digabungkan dari 53 studi, pendidikan berbantuan GenAI mengungguli pendekatan no
 
 Meta-analisis tiga tingkat atas 22 studi menemukan pembelajaran berbasis masalah dan [[project-based-learning|berbasis proyek]] yang didukung GenAI menghasilkan efek gabungan besar pada hasil internal pembelajar (g = 0.819), meskipun koreksi PET-PEESE menurunkannya menjadi g = 0.378; cara penyematan juga penting, dengan chatbot umum bergabung pada g = 0.970 dibandingkan g = 0.455 untuk sistem khusus atau API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
-
 Meta-analisis terpisah atas 42 studi yang khusus tentang motivasi menempatkan efek gabungan lebih rendah (g = 0.764) dan melaporkan interval prediksi 95% yang membentang [−0.689, 2.217], sehingga keunggulan [[motivation|motivasional]] tidak andal positif untuk latar baru ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 UI generatif adalah kapabilitas terbaru dalam untaian ini: model yang mengeluarkan artefak interaktif yang berfungsi — slider, simulasi yang dapat dimanipulasi — alih-alih prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], tim Google Research, melaporkan bahwa UI generatif siap pakai belum cukup presisi secara pedagogis untuk konstruk kompleks, tetapi menguraikan tujuan pembelajaran menjadi sasaran bertingkat progresif dan membungkus pembangkitan dalam putaran kritik dan perbaikan diri menghasilkan interaktif yang dinilai guru ahli sebagai layak. Pendekatan mereka adalah desain orkestrasi: guru menyatakan tujuan, menyetujuinya, dan memilih di antara simulasi kandidat, sehingga kendala pengikat pada [[simulation|materi belajar interaktif]] yang dibuat khusus bergeser dari produksi ke spesifikasi, dan [[guardrails|pagar pengaman pedagogis]] tertanam dalam pipeline pembangkitan alih-alih diserahkan pada kewaspadaan guru sesudahnya.
@@ -95,45 +96,3 @@ Tinjauan sistematis interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu P
 - Jangan menyusun peta jalan berdasarkan ukuran efek gabungan. Audit atas 14 meta-analisis menemukan tidak satu pun yang membenarkan klaimnya, sehingga klaim produk yang bersandar pada *g* utama bersandar pada metodologi yang tidak bertahan saat diperiksa.
 - Instrumentasikan laju dasar sebelum mengoptimalkannya. Tingkat kejadian 0.68% berarti sebagian besar pekerjaan kualitas terjadi di ekor, dan kinerja ekor itulah yang menentukan apakah suatu penerapan dapat diterima.
 - Laporkan versi, tanggal, dan jenis tugas bersama setiap angka tolok ukur yang Anda terbitkan, karena klaim kapabilitas yang menghilangkannya tidak dapat direproduksi.
-
-## Konsep terkait
-
-- [[llm]] — kelas model yang mendasari AI generatif
-- [[prompt-engineering]] — bagaimana keluaran dibentuk
-- [[rag]] — pendasaran yang diperkuat pengambilan
-- [[ai-literacy]] — kompetensi yang dibutuhkan untuk menggunakannya secara efektif
-- [[ai-education]] — bidang yang lebih luas
-- [[intelligent-tutoring]] — sistem tutoring percakapan dan generatif
-- [[cognitive-offloading]] — risiko ketergantungan berlebih yang diperkuat AI generatif
-- [[hallucination-risk]] — risiko keandalan inti dari konten yang dihasilkan
-- [[academic-integrity]] — kekhawatiran integritas dari pembangkitan yang lancar
-- [[automated-assessment]] — model generatif dalam penskoran dan umpan balik
-- [[ai-technologies]] — payung teknik dan model AI
-- [[higher-ed]] — konteks penerapan utama
-- [[k-12]] — konteks penerapan utama
-- [[reflection]]
-
-## Artikel terkait
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analisis efek GenAI terhadap motivasi belajar, dengan interval prediksi yang membentang dari bahaya hingga manfaat
-
-- [[typology-generative-ai-tools-education-2026]] — Tipologi Alat AI Generatif untuk Pendidikan
-- [[generative-ui-education-learning-interactives-2026]] — Memanfaatkan UI Generatif untuk Pendidikan: Interaktif Pembelajaran yang Disesuaikan
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multi-Agen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Kerangka Desain untuk AI yang Aman dan Sehat untuk Pembelajaran
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisis hasil pembelajaran GenAI
-- [[genai-meta-analysis-programming-learning]] — Meta-analisis GenAI dalam pembelajaran pemrograman
-- [[genai-performance-vs-learning]] — Kinerja vs. pembelajaran dengan GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Bahaya agen tutoring AI
-- [[eduguard-safe-rag-llm-tutor]] — Pagar pengaman untuk tutor RAG LLM yang aman
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Pembangkitan Lingkungan Belajar
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI asistif untuk pembelajar dengan gangguan penglihatan
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model terlatih untuk penilaian pedagogis pertanyaan pendidikan baru yang dibantu AI
-- [[bicer-genai-pd-math-creativity-2026]] — Studi kasus PD matematika yang dipandu GenAI dengan delapan guru dalam jabatan di pedesaan
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g gabungan = 0.819 turun ke 0.378 di bawah PET-PEESE; alat khusus (0.455) berkinerja lebih rendah daripada chatbot (0.970)

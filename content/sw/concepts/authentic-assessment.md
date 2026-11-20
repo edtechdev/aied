@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -102,64 +104,3 @@ Kurejea hubeba gharama ya ushahidi ambayo ushahidi wa faili unaifanya kuonekana.
 - **"Uhalisi unahusu kazi zinazofanana na halisi."** [[meta-analysis-systematic-review|Mapitio ya wigo]] ya [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud na Du (2025)]] ya **masudio 37 ya kimajaribio (2000-2024)** yanapendekeza mfano wa ubuni wa **vipimo sita**, na **masudio 3 tu kati ya 37** yalishughulikia uhalisi wa kijamii, yaani kama tathmini inasaidia wanafunzi kuchangia mabadiliko ya kijamii. Uhalisia ni kipimo kimoja na kipimo kilichoendelea zaidi hakijasomwa kwa karibu.
 - **"Tathmini halisi inapinga AI."** Mfiduo unapimika na ni mkubwa: **shahada ya miaka mitatu ya saikolojia** ilithibitika kuwa **asilimia 90 inaweza kupitishwa**, huku ChatGPT ikitoa **pato la kutosha katika tathmini 36 kati ya 40 za kazi za kozi**, na tathmini zilizobaki peke yake zikistahimili. Sehemu kubwa ya tathmini ya shahada ilikuwa inaweza kutoshelezwa na AI.
 - **"Ubunifu upya ni wa hiari ikiwa kazi ni ya ulimwengu halisi."** Matokeo ya 36 kati ya 40 yalipatikana kwenye kazi za kozi ambazo uhalisi wake haukuwa na shaka. Uhalisia wa kazi haukulinda dhidi ya ukamilishaji wa AI; ubuni wa kile kinachotathminiwa ndio uliolinda.
-
-## Dhana Zilizounganishwa
-- [[learner-identity]] — utambulisho wa mwanafunzi wa taaluma, wa kitaaluma, wa kibunifu, na wa kielimu vinavyobadilika
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Tathmini ya jumla: muundo unaostahimili AI (mitihani ya mdomo, iliyosimamiwa, ya kitabu kilichofungwa)
-- [[arts-and-media-education]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-- [[thapa-lewis-process-oriented-assessment-2026]] — tathmini inayoelekea mchakato na uhalisi wa kielimu kama kile ambacho kazi inapaswa kuthibitisha
-- [[ivory-psychology-assessment-integrity-2026]] — Kile AI haikuweza kupita: uwepo, vitu vya kuona, na data ya mwanafunzi mwenyewe (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — Matumizi ya AI ya kibaba na utambulisho wa mwanafunzi katika elimu ya historia
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Kubuni kwa Tathmini Halisi: Mapitio wa Wigo
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Tathmini Halisi
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment katika Zama za AI
-- [[authentic-products-authenticated-processes-2026]] — Bidhaa Halisi, Michakato Iliyothibitishwa
-- [[tool-invariant-framework-agentic-ai]] — Mfumo Usio na Zana kwa Kufundisha na Kutathmini Mbinu za Kikokotozi
-- [[cong-confidence-asag-2026]] — Kupima jibu fupi kiotomatiki kwa ufahamu wa ujasiri
-- [[llm-fallacy-misattribution]] — Dhana Potofu ya LLM na Kukosa Kuwajibikia Uwezo
-- [[universities-ai-era-rethinking]] — Kufikiria Upya Vyuo katika Zama za AI
-- [[ssaho-ai-academic-integrity-review-2025]] — Mbinu nyingi za tathmini za kupinga makosa ya AI
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Kufikiria upya mitihani ya mdomo kama tathmini halisi, inayostahimili AI
-- [[roe-assessment-twins-2026]] — Mapacha ya tathmini za kuimarisha uhalali wa tathmini katika zama za GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Uwezo unaobadilika wa kuhakikisha kujifunza kwa ubora katika mustakabali uliounganishwa na gen AI (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Tathmini za Mdomo Zisizo na Wakati katika Zama za AI (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: kutathmini kujifunza kupitia mwingiliano wa GenAI (DRI + Utaalam Unaoona)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Vigezo vya uhalisi ambavyo vilisababisha vikundi vya wanafunzi kupunguza matumizi ya GenAI
-- [[teacher-educators-ai-integration-preservice-2026]] — Mgogoro wa uaminifu wa AI ambao ulisukuma waelimishaji wa walimu kurudi kwenye mitihani iliyosimamiwa na utetezi wa mdomo (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Ubunifu unaoelekea uadilifu kutofautishwa na tathmini halisi: kufanya hukumu kuonekana (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Faili za madai ya makosa zinajumuisha nini kama ushahidi, na ushahidi wa mchakato unaokosekana (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Usahihi wa kigunduzi na kushindwa kwa uandishi wa mseto: kwa nini kugundua ni ushahidi dhaifu wa akiba (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Marufuku ya AI yanayopanuka: kunukuli si uzalishaji (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Kubuni Tathmini Halisi na Akili Bandia Inayozalisha: Uchunguzi wa Jaribio wa Assessment Authentifire katika Elimu ya Juu
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Uozaji wa uhakika wa kazi: kubuni upya kwa kustahimili AI unaoondoa uhalisi katika ufundishaji wa lugha mtandaoni
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Miundo inayoonekana halisi (uwasilishaji uliorekodiwa, miradi ya kikundi ya mbali, vitu vya kidijitali) ina alama za juu katika vipengele 53,915: uhalisi hauthibitishi uandishi

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -45,7 +46,3 @@ Aux enseignants et aux [[learning-design|concepteurs pédagogiques]] qui travail
 ## Remarques et réserves
 
 Le centre est un accompagnement, non un produit de conformité : le site ne revendique aucune conformité à sa propre cible WCAG 2.2 AA, répond « non » à la question « l'utilisation de ces fichiers rend-elle mon site conforme ? », et précise qu'une revue d'ingénierie ne remplace ni l'autorisation de l'école ni une revue juridique. Le volet sécurité renvoie à axe-core, Gitleaks, ZAP et Playwright ; ce sont des références plutôt que des logiciels fournis, et les outils invasifs sont destinés à une cible jetable ou explicitement autorisée. La lecture ne demande aucun compte. Reconstruire les pages HTML exige Python et `markdown-it-py`, une dépendance de construction et non une dépendance pour le visiteur. Le dépôt est sous licence MIT, tandis que les illustrations de tiers et les projets liés conservent leurs propres conditions, documentées dans `CREDITS.md`.
-
-## Concepts liés
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

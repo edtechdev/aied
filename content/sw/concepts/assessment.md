@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -98,55 +100,3 @@ Mapendekezo katika fasihi hii yanasukuma zaidi ya kubuni-upya-ndani-ya-mfumo-wa-
 - **"Uadilifu ni hasa tatizo la ugunduzi."** **Mahojiano ya kurudi nyuma na wanafunzi 26** yanaonyesha kuwa wanafunzi huhukumu njia yao katika tathmini na GenAI kwa **spektra**, na kote ya **wanafunzi 157**, *jinsi* GenAI inavyotumika, **muunganisho wa tathmini kwa kusaidia ufahamu dhidi ya** uingizwaji, ulitabiri tokeo. Hali ya matumizi huwatenganisha wanafunzi kwa ukali zaidi kuliko uwepo wa matumizi.
 - **"Wazungumzaji wa asili wa Kiingereza ndio hatari ya udanganyifu."** Mapitio ya PRISMA ya masudio 25 yanaongeza kigezo cha hatari ambacho mjadala wa ugunduzi unaacha: wasemaji wasio wa asili walionyesha **tabia kubwa ya kuvunja uadilifu walipokuwa wakihangaika** na mahitaji ya lugha. Hilo ni tatizo la msaada wa lugha linalosomwa vibaya kama tatizo la unyoofu.
 - **"Sera inayokataza GenAI hutatua swali."** Wanafunzi wanaripoti spektra ya hukumu badala ya mtindo wa kufuata kanuni, kwa hivyo kanuni isiyoshirikisha ufikiri wa tathmini ambao wanafunzi tayari wanaufanya haitafuatwa kwa uthabiti.
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: muundo mkuu wa dhana za upande wa mwanafunzi
-- [[pedagogical-partnerships]] — Ushirikiano wa mbinu za kufundisha
-- [[formative-assessment]] — Tathmini ya mchakato: maswali yaliyozalishwa, yaliyothibitishwa na yanayobadilika kwa kiwango kikubwa
-- [[automated-assessment]] — Kugawa alama na kupata pointi kiotomatiki katika hali mbalimbali za tathmini
-- [[authentic-assessment]] — Kazi halisi za msingi wa mchakato zinazostahimili AI
-- [[assessment-validity]] — Uhalali wa tathmini chini ya AI inayozalisha
-- [[educational-measurement]] — Nadharia ya upimaji inayoimarisha tathmini ya AI
-- [[automated-essay-scoring]] — Upataji pointi wa kiotomatiki wa insha
-- [[automated-question-generation]] — Uzalishaji wa kiotomatiki wa maswali
-- [[oral-assessment]] — Tathmini ya mdomo: mifumo ya moja kwa moja na iliyorekodiwa inayopinga kubadilishwa kwa AI
-- [[summative-assessment]] — Tathmini ya jumla: mifumo inayopinga AI (mdomo, inayofuatiliwa, mitihani ya bila vitabu)
-- [[item-response-theory]] — IRT kwa kutafsiri majibu ya tathmini katika zama za AI
-- [[psychometrically-aware-ai]] — Upataji pointi wa AI wenye ufahamu wa kipsikometriki
-- [[learning-analytics]] — Uchanganuzi unaounganisha data ya tathmini na kujifunza
-- [[feedback]] — Mizunguko ya maoni inayofunga mzunguko wa tathmini-hadi-kujifunza
-- [[feedback-literacy]] — Ujuzi wa maoni wa mwanafunzi
-- [[academic-integrity]] — Uadilifu na mjadala kuhusu ugunduzi wa AI
-- [[ai-detection]] — Kugundua maandishi yaliyozalishwa na AI
-- [[ai-ed-evaluation]] — Mbinu na viwango vya kulinganisha vya kutathmini watoaji alama wa kiotomatiki
-- [[eportfolio]] — Tathmini ya kwingineko ya kielektroniki ya msingi wa mchakato
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Makala Zilizounganishwa
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Programu ya mwaka mmoja inayofafanua ujuzi wa tathmini ya hali nyingi na kupima kile kilichosogea, na kile hakikusogea
-- [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini ya furaha, na nafasi ya tatu
-- [[mccorkle-aligned-genai-course-policy-2025]] — Ruhusa za AI za kiwango cha kazi zinazotokana na kile kinachotathminiwa (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Kulinganisha kugawa alama kwa ChatGPT, marika, na mkufunzi katika viwango tofauti vya ubora wa mradi (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye uwajibikisho katika zama za AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Zaidi ya ugunduzi: tathmini halisi
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Uadilifu wa uandishi-wote na uhalali wa tathmini
-- [[competency-based-education-genai-production-2026]] — Elimu inayotegemea ujenzi baada ya AI inayozalisha
-- [[genai-assessment-governance]] — Utawala unaozingatia ushahidi wa AI inayozalisha katika tathmini
-- [[ssaho-ai-academic-integrity-review-2025]] — Mapitio ya uadilifu wa AI: ugunduzi lazima uunganishwe na kubuni upya tathmini
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: kuthmini kujifunza kupitia mwingiliano wa GenAI (DRI + Utaalamu Unaoonwa)
-- [[walton-bearman-assessment-judgment-2025]] — Hukumu katika kazi ya wanafunzi na GenAI katika kazi za tathmini (wanafunzi 26, kurudia nyuma)
-- [[stamatoulis-genai-use-patterns-2026]] — Mifumo ya matumizi ya GenAI (muunganisho wa kutathmini dhidi ya kupitisha bila uhakiki) na matokeo
-- [[luo-dawson-value-judgments-grading-2026]] — Hukumu za thamani katika kugawa alama kazi zilizosaidiwa na GenAI: ukweli, uaminifu, uhalali, na uwazi wa pande mbili (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Kukadiria ugumu wa swali kwa kutumia LLM na ML inayotegemea mti
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[koretsky-genai-stem-assessment-2026]] — Mfumo wa vipeo vitatu vya kupanga upya tathmini
-- [[rubrics-genai-process-based-assessment-2026]] — Vigezo vya rubriki vinavyopima mwingiliano, si bidhaa

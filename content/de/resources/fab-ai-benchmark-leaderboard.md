@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -40,9 +41,3 @@ Politische Entscheidungsträger und Beschaffungsteams, die Modelle für national
 ## Anmerkungen und Einschränkungen
 
 Ein Leaderboard misst Modelle anhand der eigenen Aufgaben des Benchmarks: Ein hoher Pädagogik-Score ist ein Beleg für diese Items, nicht für ein Klassenzimmer. Die Preisspalte verrechnet Input- und Output-Token-Preise im Verhältnis 3:1 — das ist eine Modellierungsentscheidung und nicht das, was ein konkreter Einsatz kosten wird. Die Abdeckung von Sprachen und von lokal gehosteten Modellen verändert sich, sobald neue Modelle erscheinen, und die niedrigen Werte kleiner Modelle spiegeln zum Teil ebenso das Aufgabenformat wie die tatsächliche Fähigkeit wider. Der Bezugsrahmen von Fab AI betrifft ausdrücklich Länder mit niedrigem und mittlerem Einkommen, daher bildet das Item-Set des Benchmarks diesen Kontext ab und sollte nicht als allgemeines Bildungsranking gelesen werden. Prüfen Sie die Veröffentlichungsdaten: Mehrere Einträge stammen aus der Zeit vor der aktuellen Modellgeneration.
-
-## Verbundene Konzepte
-
-- [[benchmark]] — die umfassendere Klasse von Instrumenten, zu der dies gehört
-- [[digital-divide]] — die Rahmenbedingung, die die Preis- und Open-Weight-Spalten sichtbar machen sollen
-- [[equity-in-ai-education]] — die politische Frage, zu der das Leaderboard Erkenntnisse liefert

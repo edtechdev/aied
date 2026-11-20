@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -82,39 +84,3 @@ ai_assist:
 一个项目层面的框架把机构层面的步骤讲明了，尽管它尚未作为项目被评估。[[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale（2026）]]提出六个阶段：感知、利益相关者验证、项目诊断、课程重设计、实施与能力，以及结果审视。每个阶段都带有明确的决策权与可问责的产出，而 AI 被限制在四项有界的支持功能之内：跨劳动力市场信息的模式识别、胜任力映射、为人工评估生成课程选项，以及实施指标的监测。其价值在于，它点明了职业就绪战略通常留作隐含的那些治理步骤。
 
 一项对 1,445 名中国大学生的调查勾出了一条从有用性信念经由 AI 使用通往职业探索的路径。生成式 AI 的被感知有用性以 β = 0.569 预测使用，而职业自我效能仅以 β = 0.082 预测使用。使用随后以 β = 0.423 与职业探索行为相关联，自我效能仍是探索本身最强的认知预测因素（β = 0.285），该模型解释了探索中 50.5% 的方差（[[lu-career-cognitions-genai-exploration-2026|Lü 等人（2026）]]）。这些间接路径是统计性的、横断面的，而非纵向的。
-
-## 关联概念
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — 紧随完成之后的结果：坚持、留存与毕业
-
-## 关联文章
-
-- [[ai-free-gates-engineering-students-india-2026]] — 从免 AI 的关卡到 AI 优先的工作：印度工科学生如何在没有 AI 准则的情况下穿行大学教育与校园招聘
-- [[boyd-swan-employer-responses-genai-2026]] —— 对约 1,750 名美国招聘专业人员的调查实验：替代框架降低了面试与薪资谈判意愿，对高 GPA 申请者影响最大（Boyd-Swan 与 Reynolds 2026）
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM 证据表明 AI 素养经职业适应性抵达感知可雇佣性，而成长型思维毫无增益（Hendrawan & Lestari 2026）
-- [[mccorkle-aligned-genai-course-policy-2025]] — 评价与劳动力胜任力的权衡逐任务决定（McCorkle 2025）
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 职业适应力减少 AI 焦虑
-- [[ai-literacy-career-adaptability-business-2026]] — 商业教育中的 AI 素养与职业适应性
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] —— 八个焦点小组：使用者归功于效率与打磨，非使用者归功于原创性与团队合作（受协助的自主 vs 缓慢的创造力）
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 面向大学毕业生的 AI 技能：教师与雇主的优先级
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — 智能制造中的劳动力就绪
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI 与工程/计算劳动力的未来
-- [[post-covid-ict-career-aspirations]] — COVID-19 之后的 ICT 职业志向
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 焦虑与被取代的恐惧
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI 焦虑经职业适应性损害职业决策（63.35% 中介）
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 焦虑与态度预测求职焦虑（1,057 名学生）
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI 焦虑预测健康科学中的求职焦虑（r=0.233，821 名学生）
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — 四种 AI 态度画像：职业塑造与可雇佣性追随投入度，而非焦虑
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — 教师的预测是关于就业的预测，而不是证据
-- [[kong-ai-employability-cognitive-engagement-2026]] —— 一篇叙事综述从 AI 支持的学习到可雇佣性的构念地图
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — 一个六阶段、尚未评估的过程框架，用于让项目与 AI 时代的劳动力市场对齐
-- [[lu-career-cognitions-genai-exploration-2026]] — 1,445 名中国学生：AI 有用性、使用与职业探索在同一个横断面模型中

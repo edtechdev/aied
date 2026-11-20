@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -115,55 +117,3 @@ ai_assist:
 - **"评价者误差是随机噪声。"** **评价者判断自身带有可测量的方向**：五名招生官在 **50 篇人类与 50 篇 AI 招生文书**之间作区分，达到 **AUC 0.70**，即只能弱弱地分辨来源；而由于无人筛检提交材料，那种**无辅助的判断就是全部的执法机制**，每篇被标记的文书带来**低 1.5 个百分点的录取概率**。一个弱信号变成了真实的惩罚。
 - **"同伴评审与 AI 评审是替代品。"** PAIRR 模型[[pairr-ai-peer-review-2025|（Sperber 等，2025）]]**把同伴评审与 AI 评审结合起来**以结构化校准。结合起来才是设计，这意味着任何一方单独都不提供它。
 - **"判断质量是评判者的属性。"** 招生研究的结果把问题定位在安排之中，即一个未经效度验证的判断在无筛检环节的情况下被施加于有后果的决定，而不是定位在个体能力上。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 学生在这些序列中对 AI 输出执行的评价步骤
-- [[ai-education]] — 教育中的 AI（总纲）
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## 关联文章
-- [[elkington-human-centred-assessment-value-2026]] — 以人为中心的评估、装配体与生成性约束（Elkington 2026）
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 为什么写作教授拒绝把评分外包：那是他们了解学生的方式
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT 与同伴反馈作为评价性判断力不同维度的训练场
-
-- [[ai-internal-feedback-evaluative-judgments]] — AI 支持的内反馈如何发展评价性判断力，以及推理在何处仍然单薄
-- [[genai-feedback-design-multisite-experiment]] — 混合式自评/同伴/AI 反馈比直接 AI 反馈更好地保全主体性与判断
-- [[pairr-ai-peer-review-2025]] — 同伴与 AI 评审加结构化反思，作为规模化的校准
-- [[zhan-boud-dawson-genai-feedback-engagement]] — 反馈素养如何决定 AI 反馈是教会还是取代
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — AI 反馈中的可持续性缺口
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 评价性判断力作为取代以检测为主导的执法的设计线索之一
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 使可见的推理与判断成为量规所奖励之物
-- [[learner-centered-feedback-ai]] — 教师使用 AI 反馈工具时的评价性判断
-- [[beyond-detection-authentic-assessment-ai-2025]] — 超越检测：重新设计真实性，而非加以监管
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 为生成式 AI 时代重新构想评价效度
-- [[du-yuan-epistemic-dependence-2026]] — 可争议性、可恢复性，以及区分依赖与依靠的标准
-- [[rethinking-ai-writing-feedback-literacy]] — AI 辅助写作的反馈素养
-- [[student-perspectives-ai-writing-grading-2026]] — 谁该给我的作业评分？学生对透明 AI 辅助写作评价的看法
-- [[sharma-judgment-visible-genai-assessment-2026]] — 判断作为诚信的评价核心：注释化的决策轨迹、口头答辩、版本历史（Sharma 2026）
-- [[munoz-misconduct-allegation-evidence-2026]] — 无成文标准地衡量证据：机构自身的判断问题（Munoz 等 2026）
-- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器不准确与混合作文失败：人的判断被建议取代判决（Hadra 等 2026）
-- [[wright-transcription-not-generation-2026]] — 功能，而非平台：判断一个工具做了什么，而非它是什么（Wright 2026）
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms 与洞察率：为 AI 辅助工作背后的推理轨迹评分（Austin 2026）
-- [[ai-written-admissions-essays-penalized-2026]] — AI 撰写的招生文书广泛存在但受到惩罚
-- [[authentic-assessments-generative-ai-pilot-2026]] — 用生成式 AI 设计真实性评价：高等教育中评价真实性认证的试点研究
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 结构化每一次 AI 互动的主体性检查（可信、相关、可接受、细致）
-- [[judgment-centred-software-engineering-education-2026]] — AI 增强软件工程教育的热潮后回顾与框架
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 判断力只有与修改相连时才区分质量（Z = 2.80 与 2.50）
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — 教师的修改成为可复用的验证标准（Tang 等 2026）
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning 被从任务中移除，以及随之被借走的判断
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,7 +40,6 @@ ai_assist:
 YZ’de çok kiplilik, yalnızca metin yerine farklı temsil biçimleri üzerinde çalışma kapasitesini ifade eder. Modern [[generative-ai]] ve [[llm]] sistemleri giderek artan ölçüde metne ek olarak görüntü, ses ve video kabul eder ve üretir, eğitim için yeni olanaklar ve yeni riskler açıyor. Anlamın kipler arasında — yalnızca sözcüklerde değil — yapıldığını ileri süren sosyal göstergebilimsel teoriye dayanarak, çok kipli YZ, [[teacher-role|öğretimin]], öğrenmenin ve değerlendirmenin nasıl tasarlandığını ve değerlendirildiğini değiştirir.([[multimodal-learning-genai]])
 
 ## Eğitimde çok kipli YZ’nin üç yüzü
-
 
 ### 1. Çok kipli öğrenme ve içerik üretimi
 
@@ -106,60 +107,3 @@ Pratik tasarım çıkarımı, çok kipli öğretimde bir **görsel temellendirme
 **“Çok kipli yetenek tek bir merdivendir, dolayısıyla genelde en iyi model görüntü açısından zengin görev için de en iyisidir.”** Yetenek göreve özgüdür ve genel [[benchmark|kıyaslamalarda]] önde olan bir model kuvvet diyagramlarında geride kalabilir. Görüntü açısından zengin disiplinler için ilgili test, anlamın şekle gömüldüğü testtir.
 
 **“Yalnızca metin tabanlı öğretim sınırları bir [[curriculum-design|müfredat]] sorunu değil, bir sıkıntıdır.”** Diyagramın *problemin kendisi* olduğu disiplinlerde (fizik, kimya, geometri, mühendislik, tıp) yalnızca metin tabanlı bir eğitmenin yetkinlik sınırı, değerlendirilen içeriğin kenarlarından değil, ortasından geçer.
-
-## Bağlı kavramlar
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, YZ eğitimi, robotik, RAG, etken)
-- [[virtual-and-augmented-reality]] — jest, ses ve uzamsal girdi öğrenme kanalları olarak
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-## Bağlı makaleler
-
-- [[elkington-human-centred-assessment-value-2026]] — İnsan merkezli değerlendirme, bir araya gelmeler ve üretici kısıtlar (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Eleştirel YZ okuryazarlığı pedagojisi olarak YZ etiği üzerine video PSA bestesi (Burriss ve ark. 2026)
-- [[student-attention-estimation-fairness-2026]] — Gerçek Zamanlı Öğrenci Dikkat Tahmini için Adillik Farkında Çok Kipli Transformer Modelleme
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — El yazımı öğrenci matematik çalışmasında VLM performansı (DrawEduMath, Lucy ve ark. 2026)
-- [[multimodal-learning-genai]] — Üretken YZ ile çok kipli öğrenmeye dair eğitimci rehberi (MMLD-AI modeli)
-- [[syal-multimodal-dialogue-stem-2026]] — STEM’de Çok Kipli Girişim Etkisi ve yapılandırılmış diyalog toparlanması
-- [[multimodal-ai-feedback-learning]] — Çok kipli YZ geri bildirimi öğrenmede eğitimcilerle eşleşir, algılarda aşar
-- [[multimodal-prompting-ai-literacy]] — YZ okuryazarlığında bilgilsel iş olarak öğrencilerin çok kipli istek istemesi
-- [[multimodal-item-parameter-estimation-2026]] — Çok kipli YZ’lerle IRT madde parametrelerinin tahmin edilmesi
-- [[ai-guided-learning-audiovideo-2026]] — YZ rehberliğinde ses-video öğrenme desteği
-- [[multimodal-knowledge-graph-educational-reasoning]] — Eğitimsel akıl yürütme için çok kipli bilgi grafikleri
-- [[mllm-scientific-visualization-literacy]] — Bilimsel görselleştirme için çok kipli YZ okuryazarlığı
-- [[multimodal-affective-its-presentation]] — Duygu temelli akıllı öğretimde çok kipli sinyaller
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Duygu temelli çok kipli matematik öğretimi
-- [[llm-cognitive-diagnosis-handwritten-math]] — El yazımı matematiğin YZ bilişsel teşhisi
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Nükleer mühendislik eğitiminde metinden görüntüye öğrenme
-- [[privacy-aware-classroom-incident-recognition-2026]] — Mahremiyet farkında çok kipli sınıf algılaması
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Siber güvenlik eğitiminde çok kipli OCR öğretimi
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Slayt Denetimi için Çok Kipli YZ’lerin Kıyaslanması
-- [[ai-grading-handwritten-physics-2026]] — El yazımı fizik değerlendirmelerinin YZ puanlaması (Olimpiyat)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — İlkokul yazımında çok kipli YZ besteleme ve eleştirel düşünme (Lu ve ark. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Üretim ve Doğruluğun Ötesinde: Geometri Problem Çözümü için Görsel Düşünce Zincirinin Teşhisi ve Güçlendirilmesi
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1.174 sanat eseri üzerinde 12 görev, VLM yeteneğini boyuta özgü bir profil olarak gösterir, duygusal yorumlama ve bakış açısına bağlı uzamsal akıl yürütmede en zayıf (Zhu ve ark. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Deneysel Fizik Laboratuvar Raporlarının YZ Destekli Değerlendirmesi: Potansiyel, Sınırlar ve Öğretim Uygulamasına Destek
-- [[kim-ai-embodied-learning-review-2026]] — Bedensel öğrenmede YZ çoğunlukla gözlemliyor: kodlanmış rol etiketlerinin yüzde 62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenenler kullanırken çok kipli akışları birleştirmedi (Kim ve Han 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -95,35 +97,3 @@ ai_assist:
 **لمصمّمي البرامج**
 
 - تحقق من أن البرامج التطبيقية تحتوي عملًا تطبيقيًا لا بدائل مختبرية؛ فادعاء النقل يقوم على أصالة المواجهة.
-
-## المفاهيم المرتبطة
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — جامع: البيداغوجيات واستراتيجيات التعليم في تعليم الذكاء الاصطناعي
-- [[virtual-and-augmented-reality]] — الممارسة الغامرة كخبرة متعمَّدة
-
-- [[reflection]]
-
-## المقالات المرتبطة
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
-- [[gelli-experiential-language-learning-2026]] — GELLI: مولّد تفاعلات تعلّم لغوي تجريبي (Symonette et al. 2026)
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — مختبر افتراضي مدعوم بالذكاء الاصطناعي للتعلّم الفيزيائي المقلوب
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — الجلسات التجريبية مقابل التعليمية للوعي الما وراء معرفي في التعلّم المدعوم بالذكاء الاصطناعي (Benazet i Montobbio et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 دراسة مُسقَطة على دورة التعلّم الخدمي: الذكاء الاصطناعي يترقّق عند التقويم والتأمل (Yusuf et al. 2026)

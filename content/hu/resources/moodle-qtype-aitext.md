@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -48,12 +49,3 @@ Olyan Moodle-adminisztrátoroknak és fejlesztőknek, akik már üzemeltetik az 
 ## Megjegyzések és fenntartások
 
 Nyílt forráskód GPL v3 vagy újabb alatt, de az ingyenes nem jelenti azt, hogy futtatni ingyenes: valaki fizet a modell API-jáért, és az értékelés minősége a modellválasztástól és a prompttervezéstől függ. A szabad szöveges válaszok elhagyják a Moodle-kiszolgálót, ha távoli szolgáltatót használnak, ezért az intézmény adatmegállapodása szabályozza, mi küldhető; a saját hosztolású Ollama-útvonal azoknak az oldalaknak létezik, amelyek nem küldhetik ki a diákok munkáját. A repository nem említ publikált pontossági vagy egyezési vizsgálatot, ezért a bővítményt nem szabad azon feltevés alapján bevezetni, hogy az LLM-értékelés egyenértékű az emberi értékeléssel – a [[assessment-validity|érvényességet]] helyben, emberi pontszámokhoz kell megállapítani, mielőtt bármely jegy súlyt kap. A kísérő viselkedések kemény függőség: csak a kérdéstípus telepítése értékelhetetlen kérdéseket hagy.
-
-## Kapcsolódó fogalmak
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

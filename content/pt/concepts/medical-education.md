@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -79,7 +81,6 @@ Uma segunda lacuna de governança situa-se no lado da produção. As políticas 
 
 - **A forma da própria literatura do campo.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti e Gue (2026)]] mapeiam a própria literatura de ética da IA na educação médica: 1.403 publicações na Web of Science de 1995 a 2026, desprezíveis por duas décadas, depois 113 em 2023, 256 em 2024 e 500 em 2025; 39 países superam o limiar de autoria, liderados pelos Estados Unidos (533 publicações) sobre a China (189) e a Inglaterra (95); e as obras mais citadas são testes de capacidade — o desempenho do ChatGPT em provas de licenciamento médico acima de tudo — em vez de estudos de governança. Sua leitura é que o campo cresceu rápido sem crescer de forma homogênea, e que a avaliação empírica de frameworks de [[governance]] é o trabalho que o registro de citações não está recompensando. É uma cautela útil para qualquer pessoa que trate o volume de pesquisa publicada sobre IA na educação médica como evidência de que suas questões de uso seguro foram respondidas.
 
-
 Uma revisão de escopo de 153 relatórios de IA generativa na educação médica mapeia as aplicações — [[simulation|simulação]] e habilidades clínicas as maiores (47 relatórios), à frente de geração de avaliação e feedback (22) e aprendizagem baseada em casos e raciocínio clínico (21) —, mas apenas 13 relatórios carregavam um sinal de acompanhamento ou retenção e nenhum desfecho no nível do paciente foi encontrado ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
 - **ABP e ABC com IA: seis ensaios randomizados, dois deles de ABC.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] agruparam quatro ensaios para conhecimento (46%, IC 95% 0,18 a 0,73), três para satisfação (0,7, IC 95% 0,47 a 0,92), e não conseguiram agrupar raciocínio clínico porque os instrumentos diferiam. Apenas dois ensaios testaram aprendizagem baseada em casos e a revisão não analisou os formatos separadamente, de modo que o resultado apoia desenhos de problemas apoiados por IA sem identificar quais características de caso importam.
@@ -118,57 +119,3 @@ A evidência da África Subsaariana torna essa lacuna concreta sob restrição m
 Um quase-experimento de 2026 em um curso de laboratório de virologia na China reconstruiu o módulo em torno de um grafo de conhecimento do curso, um assistente de recuperação ancorado no grafo, roteamento adaptativo com limiares publicados e simulação virtual, e então comparou 30 estudantes com 30 no curso inalterado. A turma experimental pontuou 11,4 pontos a mais na prova teórica final (d = 1,39) e 13,3 pontos a mais no checklist de operação laboratorial (d = 1,61).([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]])
 
 Duas cautelas acompanham os números: a alocação foi por turma intacta, de modo que o agrupamento não foi modelado e os intervalos provavelmente são estreitos demais, e os quatro componentes foram introduzidos juntos, de modo que o efeito pertence ao pacote, e não ao grafo de conhecimento ou ao assistente.
-
-## Conceitos conectados
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — a vertente de enfermagem da educação em profissões de saúde
-- [[virtual-and-augmented-reality]] — treinamento clínico imersivo e com RA
-
-## Artigos conectados
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — ABP e ABC com IA na educação médica e odontológica: seis ECRs, apenas dois de ABC (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — Patologia digital assistida por IA melhora o desempenho diagnóstico e reduz lacunas de experiência entre residentes que interpretam biópsias de próstata
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Currículos de IA em saúde ensinam ética (80,6%), mas raramente proveniência de dados (22,2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Uma avaliação estratificada por múltiplos avaliadores de pacientes padronizados virtuais baseados em LLM com uma plataforma de geração de dados implantada
-- [[genai-medical-education-transformation-review-2026]] — Revisão de escopo de 153 relatórios de IA generativa na educação médica: a simulação lidera, durabilidade e desfechos de pacientes não medidos
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliando um sistema de LLM multiagente orientado a andaimes para o treinamento de entrevista clínica
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Avaliação por rubrica de 8 dimensões de agentes docentes de IA na educação médica
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, lacunas estruturais da educação em enfermagem e a reconstituição da identidade profissional (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Framework SCAN: repensando a distribuição de tarefas de IA no treinamento médico (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizando cognição experiencial, situada e distribuída com IA na educação em profissões de saúde
-- [[residencyrl-clinical-rl-training-2026]] — Treinamento por aprendizagem por reforço para habilidades clínicas na residência
-- [[medgame-llm-medical-education-gamification]] — Aprendizagem gamificada baseada em LLM para educação médica
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Simulação com IA agêntica para treinamento em braquiterapia
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transformando a educação em enfermagem com IA
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulação potencializada por IA na enfermagem: revisão sistemática de métodos mistos
-- [[wang-safety-gap-productive-struggle-2026]] — A lacuna de segurança: restaurando a luta produtiva
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: instrução de radiografia odontológica com humano no circuito (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática de IA generativa na educação em saúde baseada em cenários (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Treinamento e avaliação automatizada escaláveis de comunicação clínica baseados em IA
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Mapa bibliométrico da ética da IA na educação médica: a produção subiu de 113 (2023) para 500 (2025), 39 países, e as citações recompensam testes de capacidade em vez de governança (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Execuções repetidas não reproduzem a mesma nota
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Revisão de escopo que mapeia frameworks de competência educacional em IA sobre um mapa KAS de 12 partes
-- [[agency-gap-ai-writing]] — Agentes de escrita por IA reativos versus proativos no treinamento de profissões de saúde: a lacuna de agência
-- [[federated-learning-at-risk-student-prediction-2026]] — Predição federada de risco entre programas de HPE: um custo de privacidade desprezível, e por que um limiar importado erra o alvo
-- [[rony-nursing-educators-ai-tpack-2025]] — Educadores de enfermagem em Bangladesh sobre prontidão para IA, barreiras e governança de dados, lidos pelo TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Barreiras à integração da IA nos currículos de residência: entrevistas qualitativas com doze líderes médicos
-- [[alshahrani-health-sciences-ai-use-2026]] — Conectando tecnologia e pedagogia: análise transversal do uso de IA, efeitos acadêmicos autorrelatados e preocupações éticas entre estudantes de diversos currículos de ciências da saúde
-- [[ago-prompt-literacy-allied-health-2026]] — Letramento em prompts em seis programas de profissões de saúde afins de Gana: uso rotineiro de IA generativa sem treinamento, restrições de assinatura e conectividade, e um paradoxo de verificação de prompts onde o conhecimento prévio é mais escasso (Ago et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Grafo de conhecimento mais assistente ancorado no grafo e roteamento adaptativo em um laboratório de virologia: prova teórica +11,4 pontos, d = 1,39

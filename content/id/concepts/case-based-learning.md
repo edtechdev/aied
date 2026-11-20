@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -91,34 +93,3 @@ Ada juga risiko konseptual. Sebuah kasus dapat dikenang karena hidup dan mencolo
 - **"Kasus yang realistis mengajar dengan sendirinya."** Realisme memasok konteks. Pertanyaan, perbandingan, dan tugas pembenaran memasok pembelajarannya.
 - **"Kasus yang dihasilkan AI siap pakai."** Kasus yang dihasilkan dapat lancar, plausibel, dan salah. Kasus itu perlu tinjauan ahli dan pemeriksaan atas penalaran yang diundangnya.
 - **"Jika siswa menikmati diskusinya, kasusnya berhasil."** Keterlibatan bukan transfer. Hasilnya harus diukur pada tugas yang tidak dapat diselesaikan siswa sebelumnya.
-
-## Konsep terkait
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Artikel terkait
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — LLM yang berlandaskan konteks mempertahankan lima kasus perioperatif tanpa mengarang konten
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT memangkas waktu pembuatan kasus keperawatan tanpa perbedaan kualitas yang terukur
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Enam RCT PBL/CBL yang diperkuat AI; hanya dua yang menguji CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — Pemodelan guru dengan kasus kontras dalam kursus GenAI
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Pembelajaran berbasis kasus di samping pasien virtual dan tersimulasi
-- [[genai-medical-education-transformation-review-2026]] — Pembelajaran berbasis kasus dan penalaran klinis di antara kategori aplikasi tinjauan
-- [[hardie-genai-nursing-scoping-review-2026]] — Pembelajaran berbasis kasus di dalam tema simulasi sebuah tinjauan keperawatan
-- [[lorteau-sarro-ai-legal-education-2025]] — AI melengkapi pengajaran Sokratik dan simulasi hukum
-- [[csaszar-ai-management-education-2026]] — Studi kasus dan simulasi pendidikan manajemen, tanpa analisis metode kasus

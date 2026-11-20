@@ -36,6 +36,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -152,65 +154,3 @@ La fuerza de esa salvaguarda depende del [[automation-bias|sesgo de automatizaci
 - **«Mostrar la recomendación del sistema ayuda a la persona a supervisarlo.»** **Ocultar la respuesta preferida por el sistema es protector y no correctivo**: en un debate multiagente que **nunca reveló una posición recomendada**, la desviación perjudicial hacia la respuesta de la IA **se redujo**. Revelarla invitaba a la deferencia; ocultarla sostenía el juicio.
 - **«La intervención humana debe significar una persona y una decisión.»** Un aula multiagente con arquetipos de agente [[teacher-role|docente]], agente asistente y compañeros de clase se desplegó en la Universidad de Tsinghua con **más de 500 estudiantes y más de 100.000 registros de aprendizaje**. La supervisión escala a través del arreglo y no multiplicando supervisores.
 - **«Revisar la salida de la IA es intuitivo.»** En un **estudio intra-sujeto con 23 personas educadoras**, un enfoque basado en la revisión **mejoró todos los principios CTML (valoración media de 3,07 a 3,86, p < 0,01)**, y el profesorado valoró favorablemente la eficiencia de producción. La revisión es una habilidad que mejoró con un método estructurado.
-
-## Conceptos conectados
-- [[pedagogical-patterns]] — Dónde se sitúa la revisión humana en las secuencias probadas, y qué nunca se ha probado de forma aislada
-- [[automation-bias]] — Qué decide si la persona en el bucle interviene de verdad
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — el juicio humano dentro de un flujo de apoyo automatizado
-
-## Artículos conectados
-- [[shi-human-ai-complementarity-safety-2026]] — 416 evaluadores, 3.957 ítems: la asistencia que muestra primero al candidato redujo la detección de errores en los ítems en que el modelo se equivocaba del 36,7% al 20,6% (Shi et al., 2026)
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Arquitectura HITL de cuatro capas para la IA generativa en la educación científica (Zhai et al. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Codificadores que validan segmentos de conducta de LLM como instrumentación de investigación (Fonteles et al. 2026)
-- [[lee-learner-question-types-ai-education-2026]] — Clasificación de preguntas etiquetada por personas expertas: las personas gobiernan el etiquetado, el aumento de datos y el análisis de errores (Lee, Atif y Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — La supervisión y la gobernanza humanas como tercera capa del diseño de cursos con IA generativa agéntica (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Diseño sensible a los valores de un ITS centrado en el estudiante (quien aprende en el bucle de tutoría)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Calificación asistida por IA con intervención humana en una evaluación nacional de escritura a gran escala (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Marco SCAN: repensar la distribución de tareas con IA en la formación médica (Tsim et al. 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Andamiar revisiones sistemáticas con mentoría e IA (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Calificación y retroalimentación asistidas por IA y supervisadas por el profesorado
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles de estudiantado diversos? Una evaluación a gran escala
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Marco tripartito: clasificar la retroalimentación por su estatus epistémico y los cinco principios de frontera para la implicación de la IA (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para educación especial: el diseño de AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para una codificación auditable de diálogos educativos
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a la retroalimentación accionable y responsable: revisión de alcance y mapa de evidencia del PLN en la evaluación del profesorado por el estudiantado, 2015–2026
-
-- [[llm-grading-assistants-public-health-2026]] — Recalificaciones idénticas con LLM en días distintos reproducen solo un alfa de Krippendorff de 0,625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — El estudiantado de grado prefiere la calificación humana para el trabajo de altas consecuencias y la IA como asistente, no como sustituto
-- [[student-query-demand-hybrid-ai-support-2026]] — Qué pregunta realmente el estudiantado: estructura de la demanda y potencial de automatización en un sistema de apoyo híbrido
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Repensar los enfoques «in-the-loop» en la IA educativa: una perspectiva de las ciencias del aprendizaje
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la respuesta preferida por el sistema redujo la deferencia hacia consejos de IA incorrectos, de forma protectora y no correctiva
-- [[capodieci-humanities-hil-2026]] — Separa dónde se sitúa la comprobación humana de quién diseñó el proceso, en el aprendizaje de humanidades (Capodieci et al. 2026)

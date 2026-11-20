@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -91,52 +93,3 @@ ai_assist:
 - **"تغذية الذكاء الاصطناعي الراجعة تحسّن التفكير النقدي مباشرة."** عند **421 طالبًا جامعيًا صينيًا**، جرى ارتباط استخدام الذكاء الاصطناعي التوليدي بـ[[self-report-measures|التفكير النقدي المبلَّغ عنه ذاتيًا]] **عبر ثقافة التغذية الراجعة**. فالثقافة هي الوسيط، لذا فالتدخّل الذي يضيف تغذية راجعة بالذكاء الاصطناعي دون بناء القدرة على قراءتها يعالج الحد الخطأ.
 - **"الثقافة شرط مسبق لا نتيجة."** وجدت **لوحة ثلاثية الموجات ذات تقاطع عشوائي على 399 طالبًا جامعيًا صينيًا** أن ثقافة التغذية الراجعة بالذكاء الاصطناعي تتنبأ **لاحقًا** بالانخراط الوكيلي (**β = 0.222**)، فالحلقة تعمل في الاتجاهين. وهي دينامية لا بوابة تُعبر مرة واحدة.
 - **"القابلية للتنفيذ هي ما يغيّر الكتابة."** عبر ثلاث دورات كتابة–تغذية راجعة–مراجعة في **صفّين قائمين من 48 طالبًا لكل منهما**، كان **الفهم هو البعد** الذي حمل عائد المراجعة. والتغذية الراجعة التي لا يستطيع الطالب تحليلها لا تتحسّن بجعلها أكثر قابلية للتنفيذ.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — خطوات التقييم النقدي التي تبنيها هذه التسلسلات في سير العمل
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## المقالات المرتبطة
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — ثقافة التغذية الراجعة والانخراط الوكيلي: لوحة ثلاثية الموجات ذات تقاطع عشوائي (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — توليد عيّنات عمل مُقيَّمة بمقياس تقديري لتعليم ثقافة التغذية الراجعة (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Selective uptake without artifact improvement: the feedback translation gap (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI feedback without teacher framing raises the feedback-literacy bar (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → self-regulated learning (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy predicts essay grade in AI-enhanced writing (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of feedback engagement framework (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts and calibration training for AI-assisted writing (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Feedback literacy scripts + second-rater in EAP writing revision (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for developing feedback literacy (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning GenAI in EFL peer feedback to train feedback literacy (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback: GenAI vs. human peers (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback, feedback literacy perspective (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback
-- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI reworks the relations among students, educators, peers and materials in the feedback ecosystem (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[genai-use-critical-thinking-moderation-2026]] — جرى استخدام الذكاء الاصطناعي التوليدي إلى التفكير النقدي عبر ثقافة التغذية الراجعة للذكاء الاصطناعي التوليدي، تقوى مع التفكير التأملي
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — الفهم، لا القابلية للتنفيذ، هو ما حمل عائد المراجعة
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — تقويم تغذية الأقران وروبوت المحادثة على المسوّدة نفسها داخل مهمة تأمل واحدة

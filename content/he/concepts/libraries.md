@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -67,22 +69,3 @@ ai_assist:
 - **השאירו מסלול הסלמה אנושי בכל שירות AI.** הראיות תומכות ב-AI לאיתור ולניסוח, ובצוות אנושי לשיפוט בנוגע למקורות; עיצובים שמוחקים את השני כדי להרחיב את הראשון מסירים את החלק שהמבקר אינו יכול להשיג במקום אחר.
 - **מדדו את שינוי החיפוש במקום לסקור אותו.** רשומות ההשאלה והגילוי כבר קיימות; ספרייה שתזווג אותן לנתוני הוראה תדע יותר על השפעת AI ממה שסקר סטודנטים חד-פעמי יכול להראות.
 - **אל תחשבו אוריינות AI כאוריינות מידע.** הן חולקות צוות ומסגרות אך נבדלות במה שנמדד; ערבובן מייצר תוכנית שאינה מודדת את אף אחת מהן.
-
-## מושגים מחוברים
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## מאמרים מחוברים
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adoption of artificial intelligence in academic libraries: A systematic review of current practices, challenges, and research opportunities
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and AI Instruction in Nigerian Tertiary Institutions

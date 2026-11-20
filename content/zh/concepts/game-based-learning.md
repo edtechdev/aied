@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -91,36 +93,3 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 **“对动机与知识的正面效应相互强化。”** 它们被分开测量，在更广的文献中也被分开排期：[[student-engagement|参与与成就]]沿不同的时间线移动，因此一个提升内在动机的游戏只证明了一项结果。把动机结果当作对知识结果的佐证，就把一个两部分的发现膨胀成设计并不支持的东西。
 
 **“如果游戏吸引了学生，学习就从乐趣中自然发生。”** 乐趣是游戏使之可忍受的那种重复的交付机制，而不是学习的机制。一个增加了参与却没有增加生产性练习的游戏，只增加了从来不曾短缺的那一部分。
-
-## 关联概念
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — 总括：AI教育中的教学法与教学策略
-- [[virtual-and-augmented-reality]] — 沉浸式与游戏化练习在设计与证据上重叠
-
-## 关联文章
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — 小学生设计密室棋盘游戏；AI 素养在一门电子课程实验室中提升
-
-- [[ai-game-based-learning-systematic-review-2026]] — 55项AI支持游戏化学习研究的系统综述：结果正面，证据基础薄弱
-
-- [[game-based-gamified-robotics-education-review-2026]] — 基于游戏与游戏化的机器人教育
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — 机器人与教育中的 AI
-- [[genai-motivation-engagement-2026]] — 生成式 AI、动机与投入
-- [[nasa-tlx-workload-gamified-ai-2026]] — 跨游戏化/AI条件的NASA-TLX负荷
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS动机与AI支持的游戏化
-
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI 撰写的推理角色扮演游戏对讲授：法律教育中的随机试验（Xie 等 2026）
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — 面向计算思维的 AI 增强游戏化学习环境的设计与初步验证
-
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt：在 K–12 情境中通过文生图教授提示词工程的一款游戏化工具

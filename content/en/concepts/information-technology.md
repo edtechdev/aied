@@ -12,6 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 reviewed_by: [editor]
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 > **Information Technology Education** — the branch of computing education that prepares practitioners to select, deploy, secure, administer, and govern the socio-technical systems organizations actually run, rather than to study computation as a discipline in its own right. Its closest neighbor, and the source of most boundary confusion, is [[cs-education|CS education]]: computer [[science-education|science education]] centers on algorithms, programming, and formal foundations, whereas IT education centers on applied configuration, cybersecurity, data and information management, and the organizational [[governance|governance]] of those systems. [[generative-ai|Generative AI]] reaches the field twice over — as an object students must learn to evaluate, secure, and regulate, and as an instrument that tutors them, classifies their questions, and quietly rewrites the [[professional-training|professional]] pathways they are being prepared for.
@@ -75,27 +77,3 @@ What is distinctive about AI in this field is that the same technology is both t
 **"Most programmes having an AI document means AI governance is in place."** In an environmental scan of all **48 accredited** health informatics and health information management master's programs, **40 (83%)** had at least one publicly available AI document — but the finding is titled guidance, not policy. A published set of recommendations is not a governance mechanism: it neither assigns responsibility nor specifies what happens when a system fails.
 
 **"Students who cannot explain an AI-supported decision are misusing AI."** The alternative explanation is that they cannot articulate a decision they made correctly. IT work is full of competent practice whose rationale is tacit, and treating inarticulate competence as misconduct misdiagnoses a teaching target as a discipline problem — it needs explanation practice, not a policy.
-
-## Connected Concepts
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

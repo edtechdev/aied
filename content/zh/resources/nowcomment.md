@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -47,12 +48,3 @@ NowComment 把一段文本、一张图像或一段视频变成讨论的界面：
 ## 说明与注意事项
 
 账号免费，文档可以公开，也可以与受邀群组共享。AI 伙伴运行在 OpenAI 大语言模型上，所以选中的段落和问题会离开平台自己的托管，受该提供商条款约束——学区在让未成年人使用之前应阅读数据处理安排。输出受一个 token 上限限制，网站说仍在扩大；伙伴目录在登录之后；AI 界面是产品中变化很快的部分：把这里描述的任何能力当作 2026 年 11 月站点的状态，而不是定型的功能集。
-
-## 关联概念
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

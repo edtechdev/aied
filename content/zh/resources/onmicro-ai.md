@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -44,8 +45,3 @@ ai_assist:
 ## 说明与注意事项
 
 免费版限于 10,000 个 AI 额度与三个应用；无限应用与高级模型从 Pro 版开始，LTI 集成、单点登录与高级分析则列在 Enterprise 版中，也就是说机构最需要的功能恰恰是要付费的那些。仓库按其 `LICENSE` 文件采用 **AGPL-3.0** 许可，这对任何打算自托管或修改它的人都很重要，而其 README 在许可变更之前仍写着 LGPL，所以应读许可文件而非 README。机构在把学生作业交给托管第三方服务处理之前，还应确认自己的数据处理条款。
-
-## 关联概念
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -42,8 +43,3 @@ ai_assist:
 ## 说明与注意事项
 
 安装在本机进行：Python 3.11 或更新版本、一个 Canvas API 令牌和 URL，以及一个 MCP 客户端，另有一个可双击安装的 Claude Desktop 扩展。公开的托管服务器已经退役，所以共享部署意味着要在院校自己的认证之后自托管。写入工具是受限的——除非明确允许写入工具，HTTP 服务器是只读的，删除需要确认令牌，代码执行运行在一个出错即关闭的沙箱里。隐私控制需要主动开启：响应匿名化、电子邮件掩码和 PII 过滤必须手动启用，README 也谨慎地说明，这些可以支持 FERPA 义务，但并不构成合规，后者取决于部署方式和 AI 提供方。服务器里没有遥测，但 Canvas 和所选的客户端会保留各自的日志。项目以 MIT 许可发布，在活跃开发中，其自带的指南是当前工具名称与配置的权威。
-
-## 关联概念
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -88,25 +90,3 @@ ai_assist:
 **"رویہ پرست ڈیزائن تعمیری ڈیزائنوں سے محض کمتر ہیں۔"** وہ مخصوص اہداف پر خوب بیٹھتے ہیں — روانی، حقائق کی یاد، طریقہ کار کی خودکاری — جہاں فوری فیڈبیک اور دہرائی واقعی کام کی ضرورت ہیں۔ غلطی میکانزم میں نہیں؛ اُس میکانزم کے استعمال میں ہے جس کی درستگی کی شرط (کہ ردِعمل سیکھنے والا ہی پیدا کرے) خاموشی سے پوری ہونا بند ہو گئی ہے۔
 
 **"چونکہ نظریہ بدنام ہو چکا ہے، اُس پر بنے نظاموں کو محض نتائج سے جانچا جا سکتا ہے۔"** نتائج ہی وہ چیز ہیں جنہیں مصنوعی ہم شکلی خراب کرتی ہے۔ نظام شاندار رویے کے نتائج رپورٹ کر سکتا ہے جبکہ سیکھنا کہیں اور منتقل ہو چکا ہو، چنانچہ رویہ پرست اثر والے نظاموں کو سب سے زیادہ اُس بغیر مدد والی پیمائش کی ضرورت ہے۔
-
-## منسلک تصورات
-
-- [[constructivist]]
-- [[cognitive-psychology]] — معرفتیت، نظریۂ سیکھنا کا تیسرا کلاسیکی قطب
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## منسلک مضامین
-
-- [[ai-vocational-education-training-review]] — تعمیریت کے دعوے کے باوجود VET کے عمل میں رویہ پرست AI ڈیزائن غالب؛ "Turing Trap"
-- [[generativism-learning-theory]] — رویہ پرستی اُن چار غالب نظریات میں شامل جن پر جنریٹو AI دوبارہ غور پر [[prompt-engineering|اکسا رہا ہے]]
-- [[ccct-cooperative-learning-technique]] — اعلیٰ تعلیم کے تعاونی سیکھنے کے ڈیزائن میں رویہ پرستی کا حوالہ
-- [[wang-multi-agent-systems-learning-designers-2025]] — تعاونی کثیر ایجنٹ ڈیزائن نقطہ نظر میں رویہ پرست پرسونا
-- [[sequenced-ai-feedback-learning]] — 199 شرکا کے بے ترتیب تجربے میں ترتیب شدہ اشارے والا فیڈبیک فوری مکمل حل والے فیڈبیک سے کم کارآمد رہا

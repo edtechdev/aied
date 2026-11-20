@@ -16,6 +16,8 @@ ai_assist:
 translation_of: concepts/graduate-education
 source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -126,34 +128,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **“AI 可以无代价地取代引导者。”** 在 AI 主导的问题导向学习中多项选择题增益相当，但批判性思维与小组过程并非如此，且受调查教师中只有 15.8% 写过任何 AI 使用政策。
 
 - **“研究生层次的 [[ai-literacy|AI 素养]] 就是工具熟练度。”** 该研究生框架把认知基础、操作技能、高阶思维、元认知反思与伦理责任区分开来。
-
-## 关联概念
-
-- [[academic-integrity]] — 当文本可以被生成时的作者身份、披露与不端行为
-- [[assessment-validity]] — 一个成绩、一次答辩或一次临床评估能正当主张什么
-- [[ai-literacy]] — 研究生项目被期望在其毕业生身上认证的能力
-- [[cognitive-offloading]] — 支持思考的委托与取代思考的委托
-- [[evaluative-judgment]] — 导师指导本应培养、如今必须评估的能力
-- [[professional-training]] — 研讨室之外的临床、法律与管理训练
-- [[medical-education]] — 研究生层次 AI 试验的最大来源
-- [[business-education]] — 提供最强实验的 MBA 与管理硕士课程
-- [[career-development-and-readiness]] — 作为发展过程而非一次安置的就业能力
-- [[oral-assessment]] — 答辩、口试与口头保证作为个人能力的证据
-
-## 关联文章
-
-- [[genai-medical-education-transformation-review-2026]] — 覆盖入行至执业医学学位的 153 份报告；13 份带后续，且无病人层面的结果
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 研究生研究方法中的苏格拉底式记录；六个学期 96% 的检查点完成率
-- [[issa-teamwork-framework-academic-integrity-2024]] — 研究生商科单元中的受监督团队协作；分数从 40 分制中的 27 升至 31，未见不端行为计数
-- [[genai-dependence-research-creativity-2026]] — 1,157 名研究生；功能性依赖与创造力的关联远强于存在性依赖
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 个美国健康 AI 项目；80.6% 教授伦理，22.2% 教授数据来源
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 在线 MBA 中结构化 AI 辅导在 55 分中多得 6.63 分；语音与文本等价
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 名 MBA 学生；只有在第二次指定演练后参与度才上升约 31%
-- [[llm-grading-assistants-public-health-2026]] — 硕士短文考试评分加权 kappa 0.718，五天后重评一致性 0.625
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 项高等教育研究，勾勒支持能动性与侵蚀能动性的模式
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 项研究；教育者与学生在过度依赖上一致，在诚信上分歧
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 项研究，三项带教育证据，无一项在法医课堂中
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 名硕士生；就绪经由导师支持抵达研究自我效能（路径 β = 0.201）
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61 份文献的博士导师指导综述；基于任务的伦理、按比例的披露、里程碑治理
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 单组研讨课；自我导向学习从 80.62 升至 87.38，匹配记录八份
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 研究生在伦理与自主性上领先本科生（d = 1.47）；使用频率未能预测能力

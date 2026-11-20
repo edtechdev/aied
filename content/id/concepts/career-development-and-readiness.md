@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -37,7 +39,6 @@ Seiring AI mentransformasi pekerjaan, peran pendidikan dalam pengembangan karier
 
 ## Bagaimana pengembangan karier dan kesiapan muncul dalam basis pengetahuan
 - **Adaptabilitas karier menurunkan kecemasan AI.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] menunjukkan kemampuan adaptasi karier memprediksi kecemasan AI secara signifikan dan negatif di kalangan mahasiswa jurusan bahasa Inggris, dengan evaluasi diri inti memediasi sebagian hubungan itu; kelompok beradaptabilitas rendah menunjukkan kecemasan AI tertinggi. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] mengonfirmasi mekanismenya dengan SEM: kecemasan AI merusak keputusan karier sebagian besar melalui adaptabilitas karier yang tergerus (63.35% dari efek total), dan efikasi diri hanya menawarkan penyangga terbatas. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] menambahkan bahwa kecemasan AI dan sikap AI yang negatif memprediksi kecemasan mencari kerja pascakelulusan pada 1,057 siswa, dengan perempuan, mahasiswa bidang ilmu sosial, dan mahasiswa tahun kedua paling terdampak. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] memperluasnya ke mahasiswa ilmu kesehatan (821, r = 0.233). Kesiapan karier dengan demikian merupakan penyangga yang tervalidasi secara empiris terhadap [[anxiety-and-stress|kecemasan AI terkait karier]].
-
 
 - **Kesiapan menjejaki keterlibatan, bukan tingkat ancaman.** Dalam [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], profil yang paling cemas terhadap AI justru melaporkan perancangan karier (career crafting) tertinggi (4.222) dan employability yang dipersepsikan sendiri tertinggi (3.964), sejajar dengan profil yang menguntungkan tanpa perbedaan signifikan — jadi tingkat kecemasan tidak menandai kesiapan karier.
 - **Literasi AI perlu tetapi tidak cukup.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] berargumen literasi AI saja tidak cukup untuk kesiapan karier — siswa juga membutuhkan adaptabilitas dan evaluasi diri yang positif, yang menautkan [[ai-literacy]] secara langsung ke hasil karier. [[ai-literacy-graduate-employability-2026|Hendrawan dan Lestari (2026)]] mengujinya secara kuantitatif pada 455 mahasiswa tingkat akhir di Jakarta: adaptabilitas karier membawa efek tidak langsung yang signifikan (β = 0.173), dan pola pikir berkembang sama sekali tidak memoderasi jalur itu, sehingga adaptabilitaslah, bukan pola pikir, yang bekerja.
@@ -67,34 +68,3 @@ Pengembangan karier dan kesiapan terhubung ke [[professional-training]] (dimensi
 - **"Kecemasan AI adalah disposisi umum yang bisa diredakan dengan menenangkan."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] mengonfirmasi dengan SEM bahwa kecemasan AI **merusak keputusan karier sebagian besar melalui adaptabilitas karier yang tergerus (63.35% dari efek total)**. Mekanismenya spesifik: kecemasan bekerja dengan mencabut kapasitas untuk beradaptasi, sehingga penenangan yang diarahkan pada perasaan melewatkan mediator yang membawa efek itu.
 - **"Adaptabilitas karier adalah soft skill yang sekunder terhadap kompetensi teknis."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] menunjukkan adaptabilitas karier **menurunkan kecemasan AI**, yang menjadikannya intervensi hulu alih-alih hasil hilir. Membangun adaptabilitas menangani mekanismenya; memperlakukannya sebagai pelengkap yang bagus saja membiarkan mediatornya utuh.
 - **"Kecemasan tentang AI tersebar merata."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] menemukan kecemasan AI dan sikap AI yang negatif memprediksi kecemasan mencari kerja pascakelulusan pada **1,057 siswa**, dengan pola berbeda bagi **perempuan dan mahasiswa ilmu sosial**. Intervensi yang seragam salah mengalokasikan dukungan.
-
-## Konsep terkait
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — hasil yang menyusul penyelesaian studi: persistensi, retensi, dan kelulusan
-
-## Artikel terkait
-- [[ai-free-gates-engineering-students-india-2026]] — Dari Gerbang Bebas AI ke Kerja Berbasis AI: Bagaimana Mahasiswa Teknik di India Menavigasi Pendidikan Universitas dan Penempatan Kampus Tanpa Pedoman AI
-- [[boyd-swan-employer-responses-genai-2026]] — Eksperimen survei dengan ~1,750 profesional perekrutan AS: pembingkaian substitusi menurunkan kesediaan wawancara dan negosiasi gaji, paling besar bagi pelamar ber-IPK tinggi (Boyd-Swan & Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — Bukti PLS-SEM bahwa literasi AI mencapai employability yang dipersepsikan melalui adaptabilitas karier, dengan pola pikir berkembang tidak menambah apa pun (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Pertukaran penilaian versus kompetensi tenaga kerja diputuskan tugas demi tugas (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — kemampuan adaptasi karier menurunkan kecemasan AI
-- [[ai-literacy-career-adaptability-business-2026]] — literasi AI dan adaptabilitas karier dalam pendidikan bisnis
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Delapan kelompok fokus: pengguna mengkreditkan efisiensi dan penghalusan, bukan-pengguna mengkreditkan orisinalitas dan kerja tim (otonomi terbantu vs kreativitas lambat)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — keterampilan AI untuk lulusan perguruan tinggi: prioritas instruktur dan pemberi kerja
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — kesiapan tenaga kerja untuk manufaktur cerdas
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI dan masa depan tenaga kerja teknik/komputasi
-- [[post-covid-ict-career-aspirations]] — aspirasi karier TIK setelah COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — kecemasan AI dan ketakutan akan penggantian
-- [[duan-ai-anxiety-career-decisions-college-2026]] — kecemasan AI merusak keputusan karier melalui adaptabilitas karier (mediasi 63.35%)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — kecemasan dan sikap AI memprediksi kecemasan mencari kerja (1,057 siswa)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — kecemasan AI memprediksi kecemasan mencari kerja di ilmu kesehatan (r=0.233, 821 siswa)
-- [[ai-attitude-latent-profiles-career-development-2026]] — Empat profil sikap AI: perancangan karier dan employability menjejaki keterlibatan, bukan kecemasan
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Perkiraan fakultas adalah prediksi, bukan bukti tentang lapangan kerja
-- [[kong-ai-employability-cognitive-engagement-2026]] — Peta konstruk dari tinjauan naratif tentang pembelajaran yang didukung AI hingga employability

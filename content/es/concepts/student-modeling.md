@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -121,59 +123,3 @@ El modelado del estudiantado y la instrucción adaptativa alimentan la [[learnin
 - **«Un modelo fiel necesita el método más complejo.»** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] ilustran que **la representación fiel no requiere el enfoque más complejo**. La complejidad no es un indicador de fidelidad, y un modelo más simple que captura la estructura relevante puede ser el mejor instrumento.
 - **«Los modelos de quien aprende necesitan datos de rastro.»** Un modelo predictivo de quien aprende puede apoyarse en **la estructura de la matrícula** en lugar de en datos de rastro: TRACE codifica cada semestre como una **cesta desordenada de cursos** y predice a partir de ella. La señal predictiva puede vivir en el registro administrativo de la institución.
 - **«El estado afectivo requiere sensórica fisiológica.»** Un tutor de matemáticas **infirió la emoción a partir del texto conversacional y de la expresión facial** y asignó el estado agregado a las decisiones de tutoría. La señal afectiva era recuperable de lo que el estudiantado ya estaba produciendo.
-
-## Conceptos conectados
-
-- [[learners]] — Estudiantado: el paraguas de los conceptos del lado de quien aprende
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — los modelos que subyacen a la predicción de riesgo y a la focalización del apoyo
-- [[sensor-and-gaze-analytics]]
-
-## Artículos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado
-- [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: qué sabemos realmente (informe de Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — Los tutores con LLM rechazan en exceso alternativas válidas y validan en exceso lo incorrecto (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — De la predicción de riesgo del estudiantado a SC2R: recurso contrafactual
-- [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilación de un LM autoexplicativo para la analítica del aprendizaje
-- [[studentsim-llm-student-simulators]] — StudentSim: entrenamiento de simuladores del estudiantado basados en LLM
-- [[predicting-attrition-competitive-programming]] — Predicción del abandono del estudiantado en programación competitiva
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Seguimiento del conocimiento basado en resultados con mapeo de afinidad
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Más allá de las incrustaciones de ID: modelado del lenguaje fundamentado en procesos para el diagnóstico cognitivo
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — estado compacto de quien aprende más un trazador calibrado como entorno de recomendación
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de su estudiante en un bucle de coaprendizaje entre humano e IA
-
-- [[ai-game-based-learning-systematic-review-2026]] — La evaluación encubierta alcanzó AUC de 0,848–0,913, pero las auditorías de sesgo estuvieron casi ausentes en 55 estudios
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — La inferencia de estilo de aprendizaje basada en diálogo falla en métricas equilibradas (Zamanifard, Goudarzi y Robb, 2026)

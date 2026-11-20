@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -44,7 +45,3 @@ Opettajille ja opiskelijoille, jotka tarvitsevat työkalun nopeasti eivätkä vo
 
 ## Huomioita
 Tuotesivusto ei nimeä yksittäistä tekijää ja ohjaa pyynnöt projektin postilaatikkoon; DrawSplatin on rakentanut Miguel Guhlin, jonka sivusto dokumentoi sen julkaisut. Koodi on vapaa lisenssin eikä vain hinnan merkityksessä: valkotaulu on GNU AGPL-3.0-or-later ja SplatWorks-sovellukset GPL-3.0-only, ilman käyttäjäkohtaista lisenssiä opiskelijalaitteilla. Tiedostojasi lukevat työkalut toimivat paikallisesti selaimessa, kun taas pilvitallennus ja mahdollinen ammatillisen kehittämisen pyyntö lähettävät dataa, joten tarkista tallennusluettelosivu ennen kuin käytät sitä opiskelijoiden töiden kanssa.
-
-## Liittyvät käsitteet
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

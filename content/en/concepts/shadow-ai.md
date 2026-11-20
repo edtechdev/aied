@@ -16,6 +16,8 @@ ai_assist:
     role: drafting
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 > **Shadow AI** — the use of AI tools that an institution has not approved, vetted or even catalogued, by the people inside it. The term descends from shadow IT, but the object is different: shadow IT substituted unauthorized systems for approved ones, mostly in information processing, while shadow AI covers tools that generate content, support decisions and perform knowledge work. Control therefore shifts from managing access to regulating use, and the person using the tool is usually the one making the judgment call.
@@ -107,23 +109,3 @@ Three sources address shadow AI directly and cannot be ingested here: two closed
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, February 2026. A practitioner argument that unauthorized use reports an unmet need: faculty drafting lesson plans, researchers spinning up cloud GPUs on departmental cards, and staff pasting sensitive data into consumer tools because the approved path was slower.
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
-
-## Connected Concepts
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE: 94% used AI for work, 54% knew the policy, 13% measured ROI
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — a three-step account of how educators justify unsanctioned use
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 375 educators, 1,373 apps, 24 naming security as a reason
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — teachers drawing pedagogical boundaries in a policy vacuum
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — educator-led adoption as the alternative to waiting for institutional guidance

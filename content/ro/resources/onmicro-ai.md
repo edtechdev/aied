@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -43,7 +44,3 @@ Se potrivește instructorilor și designerilor de învățare care vor interacț
 ## Note și precauții
 
 Nivelul gratuit este limitat la 10.000 de credite IA și trei aplicații; aplicațiile nelimitate și modelele avansate încep la nivelul Pro, iar integrarea LTI, autentificarea unică și analitica avansată sunt listate la nivelul Enterprise, așa că funcțiile de care o instituție are cel mai mult nevoie sunt cele care au preț. Depozitul este licențiat **AGPL-3.0** conform fișierului său `LICENSE`, ceea ce contează pentru oricine intenționează să îl găzduiască sau să îl modifice, iar README-ul său încă spune LGPL, dinainte de acea schimbare, așa că citește fișierul de licență, nu README-ul. Instituțiile ar trebui să își confirme și propriii termeni de prelucrare a datelor înainte de a rută munca studenților printr-un serviciu terț găzduit.
-
-## Concepte conexe
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

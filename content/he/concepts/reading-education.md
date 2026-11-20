@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -94,32 +96,3 @@ ai_assist:
 - **"טקסט שנוצר ב-AI קל יותר משום שנוצר לרמה."** הראיות מצביעות בכיוון ההפוך לגבי פלט מודלים: מודלים חזיתיים משתמשים ביתר במבנים הקשורים לעלות הבנה.
 - **"קריאה עם AI היא התנהגות אחת."** סולם AIR מוצא ארבעה מניעים נבדלים, והם מנבאים סוגי שימוש שונים.
 - **"אם AI יכול לכתוב מחדש את הטקסט, רמת הקריאה כבר לא חשובה."** בידול משנה את התמיכה סביב קטע יותר מאשר את המורכבות המבנית שלו, וזו התערבות שונה מהורדת הרמה שלו.
-
-## מושגים מחוברים
-
-- [[ai-education]] — המטרייה שתחתיה יושב תחום זה
-- [[language-learning]] — קריאה ב-L2 חופפת, אך הרכישה היא המושא שם
-- [[writing-education]] — הצד המרכיב של האוריינות
-- [[english-education]] — קריאה וקריאוּת ב-EAP/EFL/ESL
-- [[educational-nlp]] — שכבת מדידת הטקסט שקריאוּת תלויה בה
-- [[assessment]] — הערכת קריאה ותוקף הציון
-- [[motivation]] — מדוע קוראים משתמשים ב-AI, ומה זה עושה לעיבוד
-- [[scaffolding]] — שכבות תמיכה בחומרי קריאה מובחנים
-- [[neurodiversity]] — דיסלקציה וקושי בקריאה
-- [[accessibility]] — טקסט קריא-לאדם מול קריא-למכונה
-- [[generative-ai]] — הטכנולוגיה שמאחורי טקסטים מיוצרים ומותאמים
-
-## מאמרים מחוברים
-
-- [[air-scale-motivations-ai-reading-2026]] — סולם מתוקף של מניעים לקריאה עם GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — הערכת קריאה בתיווך AI בכיתת EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — חומרי קריאה מובחנים ב-EAP
-- [[llm-children-reading-story-generation]] — סיפורי קריאה לילדים נשלטי-רמה
-- [[text-simplification-its]] — הערכת פישוט טקסט לצורכי חונכות
-- [[clara-developmental-appropriateness-children-stories-2026]] — קושי התפתחותי מעבר לנוסחאות קריאוּת
-- [[bird-multimodal-educational-literature-2026]] — סיווג ספרות לפי Key Stage
-- [[clark-ai-generated-language-readability-2026]] — מדוע שפה שנוצרה ב-AI קשה יותר לקריאה
-- [[sidorkin-ai-generated-course-readings-2026]] — קריאות קורס מותאמות שנוצרו ב-AI
-- [[airri-machine-resistant-reading-interface-2026]] — ממשקי קריאה עמידים-למכונה ומחיר הקריאוּת שלהם
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — משוב ChatGPT בקריאה בתיכון
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI עבור לומדים עם דיסלקציה

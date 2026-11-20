@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -41,12 +42,3 @@ Leiders van TVET-instellingen die beslissen wat eerst te doen, docenten en train
 ## Opmerkingen en kanttekeningen
 
 Het is begeleiding, geen evaluatie. De gids rapporteert geen uitkomstdata, en de institutionele voorbeelden — een model voor AI-leren geïntegreerd in de inhoud aan het College of the North Atlantic in Canada en de Keniaanse standaard voor industriële stages in TVET uit 2023 — zijn beschrijvende kaders die aan projectrapporten zijn ontleend, geen onafhankelijke trials. De bijlagen noemen zichzelf indicatief; de volwassenheidsschaal is een hulpmiddel voor discussie, geen meetinstrument. Veiligheidskritische en gereguleerde beroepen krijgen een hoofdstuk, maar dat beargumenteert een standpunt over menselijk toezicht in plaats van detail op het niveau van regelgeving te bieden. De licentie CC BY-SA 3.0 IGO staat aanpassing en herpublicatie toe met naamsvermelding en share-alike.
-
-## Gerelateerde concepten
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

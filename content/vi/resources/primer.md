@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -45,12 +46,3 @@ Giảng viên, nhà thiết kế giảng dạy và chuyên gia phát triển đ�
 ## Ghi chú và lưu ý
 
 Các tác giả gọi Primer là một nguyên mẫu thử nghiệm chứ không phải sản phẩm lớp học đã được thẩm định. Nó chưa được đánh giá như một can thiệp học tập trong lớp học, và chưa ai xem xét nó theo FERPA, COPPA, luật quyền riêng tư sinh viên của tiểu bang hay chính sách học khu, nên cơ sở nào dùng nó với sinh viên phải tự chịu trách nhiệm về việc xem xét đó. Phần mềm theo giấy phép MIT và miễn phí, nhưng chạy một mô phỏng cần quyền truy cập mô hình, thứ tốn tiền. Vì nó không phụ thuộc mô hình và chạy trên mô hình cục bộ hoặc trọng số mở, nó có thể được triển khai ở nơi quy định quyền riêng tư chặt hơn. Một sách trắng về kiến trúc và prompt được liên kết từ trang dự án. Kho mã có 98 sao và 16 bản fork khi kiểm tra vào tháng 11 năm 2026.
-
-## Khái niệm liên quan
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

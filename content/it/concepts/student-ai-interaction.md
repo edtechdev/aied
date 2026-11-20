@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -43,7 +45,6 @@ L'interazione studente-IA è la superficie osservabile dello [[student-engagemen
 ### Che cosa gli studenti chiedono all'IA
 
 - **Il rifiuto è una configurazione di interazione, non un'assenza di uso.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson e Lindgren (2026)]] hanno registrato tre studenti della scuola secondaria superiore mentre scrivevano la stessa storia ispirata a Kafka con la GenAI e hanno mappato tre assemblaggi distinti dalle registrazioni: paternità delegata al modello, co-scrittura critica reciproca, e una configurazione esplicita «IA e io — no grazie» in cui lo studente riorganizzava la propria pratica di scrittura allontanandosi dallo strumento. Il risultato per questa pagina è che lo *stesso* compito, la stessa aula e lo stesso strumento hanno prodotto tutti e tre, e buona parte di ciò che li separava stava nei momenti tra un prompt e l'altro — pause, riformulazioni, esitazione prima di accettare un suggerimento — che un log di chat da solo non cattura.
-
 
 Un filone centrale di ricerca misura i **tipi e la qualità delle richieste degli studenti**. Gli studi applicano tassonomie dei tipi di domanda — ad esempio la tassonomia a 18 tipi di Graesser e colleghi — per classificare le interazioni studente-IA, spesso usando classificatori few-shot per scalare l'analisi su centinaia o migliaia di interazioni. I risultati indicano che un piccolo sottoinsieme di tipi di domanda rappresenta la maggioranza delle richieste degli studenti, e che le domande che gli studenti pongono **cambiano sostanzialmente con il progredire di un compito** (ad es. [[student-ai-inquiry-types-cs2-2026]]). Questa dipendenza dal compito conta: la qualità dell'interazione non è un tratto fisso dello studente, ma è plasmata dal contesto del problema, dallo [[scaffolding]] e dalle affordances dello strumento di IA. Nelle fasce d'età più giovani, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] hanno rilevato che i bambini (6–14 anni) testavano attivamente la credibilità di un [[conversational-ai|chatbot]] ponendo domande di cui conoscevano la risposta (ad es. «quanto è grande un tirannosauro») — un'espressione di auto-agency epistemica — mentre il bambino modale poneva solo 1–3 domande e un bambino di prima elementare particolarmente brillante ne ha poste 21, a sottolineare quanto la variazione evolutiva e individuale plasmi le domande che chi apprende pone. Le tassonomie stesse non concordano ancora: su 46 categorizzazioni provenienti da 33 studi, etichette simili nominano fenomeni diversi, quindi la revisione propone l'*episodio di interazione* — uno scambio diretto a un obiettivo e delimitato temporalmente — come unità che abbraccia acquisizione di conoscenza, feedback valutativo, guida strategica, indagine dialogica, raffinamento di artefatti e co-regolazione ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 
@@ -90,47 +91,8 @@ Il non-uso è esso stesso uno schema di interazione che la [[pedagogy]] deve pre
 
 - **«Uno studente non può spostare il voto di un valutatore.»** Possono, ed è il fallimento più persistente della batteria: **17 di 22** modelli hanno alzato il proprio voto più dopo una contestazione nuda che dopo una richiesta di secondo esame, inclusi **sei degli otto** che avevano superato ogni controllo su gaming e risposte vuote. Il maggiore è stato Llama 3.2 3B a **+33,2% della scala**, e la richiesta di secondo esame ha di per sé abbassato i voti per **dieci** dei 17, quindi il contrasto non è l'effetto grezzo della contestazione. [[porcaro-ai-grading-benchmark-2026|I voti che uno studente può contestare hanno bisogno di un registro dello scambio]].
 
-
 ## Idee sbagliate comuni
 
 - **"Le tassonomie dell'interazione sono un fatto acquisito."** **Su 46 categorizzazioni tratte da 33 studi, etichette simili nominano fenomeni diversi**, ed è per questo che la revisione propone l'*episodio di interazione* come unità. Uno schema di codifica preso in prestito da una tassonomia può stare misurando un costrutto diverso.
 - **"Gli studenti usano l'IA come un tutor."** Tra **38 studenti universitari** che scrivevano saggi argomentativi senza supervisione, **il 76,32% ha usato un pattern a turno singolo chiedi-ottieni-risposta-fermati**, tipicamente incollando il titolo della prova. Il pattern dominante è il recupero a turno singolo, che non è tutoraggio.
 - **"Un uso maggiore dell'IA indica un maggiore coinvolgimento con il materiale."** Un'analisi di **200 sessioni di chat di co-programmazione** ha trovato che **il 78,8% delle interazioni studente-GenAI seguiva obiettivi e strategie non orientati alla padronanza**. Il volume dell'interazione misurava qualcos'altro rispetto all'orientamento all'apprendimento, quindi il conteggio delle sessioni è un proxy di coinvolgimento fuorviante.
-
-## Concetti collegati
-- [[learners]] — Chi apprende: l'ombrello per i concetti del lato di chi apprende
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Articoli collegati
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Usage frequency and self-rated expertise predicted nothing across 819 students
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
-
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-

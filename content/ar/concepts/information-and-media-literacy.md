@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -82,29 +84,3 @@ ai_assist:
 ## حدود الأدلة
 
 معظم الدراسات هنا صغيرة أو [[self-report-measures|تقريرية ذاتيًا]] أو كليهما: 236 طالبًا في مسح واحد، و36 طفلًا في تدخل واحد، و412 مكتبيًا يقيّمون أنفسهم. الظهور الببليومتري ليس ممارسة، ومؤلفو الدراسة العلمية القياسية يقولون ذلك صراحة. لا توجد دراسة في المدونة تقيّم منهجًا مشتركًا لثقافة المعلومات والإعلام، وأدوات الكشف وتدقيق الحقائق التي توصي بها أدبيات الممارسة غير مقيسة إلى حد كبير في هذه المصادر. ينبغي التعامل مع الادعاء بأن التحقق المدعوم بالذكاء الاصطناعي يحسّن النواتج كفرضية تصميم حتى يختبره أحد مقابل مجموعة ضابطة.
-
-## المفاهيم المرتبطة
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## المقالات المرتبطة
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19

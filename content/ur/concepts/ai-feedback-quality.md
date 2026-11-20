@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -41,12 +43,8 @@ AI فیڈبیک کا معیار محض درستگی کا معاملہ نہیں۔
 - **انسانی فیڈبیک سے موازنہ:** [[ai-generated-feedback-higher-ed|اعلیٰ تعلیم کے مطالعے]] بتاتے ہیں کہ AI کا پیدا کردہ فیڈبیک قابلِ قبول اور معاون محسوس ہوتا ہے — استاد کے فیڈبیک کے برابر۔ مگر قابلِ قبولیت سیکھنے کی تاثیر کی ضمانت نہیں۔ 42 تجرباتی مطالعات (2023–2025) کا PRISMA کے رہنما اصولوں پر [[meta-analysis-systematic-review|منظم جائزہ]] بھی یہی پاتا ہے کہ [[llm]] کی گریڈنگ اور فیڈبیک کا معیار کام پر منحصر ہے — مختصر، بہتر ساختہ جوابات میں تفصیلی روبرک کے ساتھ انسانی جانچنے والوں سے میل کھاتا ہے، مگر پیچیدہ، کھلے یا [[multilingual-learning|کثیر لسانی]] کام پر گر جاتا ہے، اور فیڈبیک کبھی کبھی بہت عمومی یا گریڈ سے غیر ہم آہنگ ہوتا ہے — اور پرامپٹ کا معیار، روبرک کی تفصیل، ماڈل کا ورژن اور جانچ کی زبان کو گریڈنگ اور فیڈبیک کے معیار کے غالب عوامل کے طور پر شناخت کرتا ہے ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])۔
 - **LLM کے تیار کردہ سبق کا مواد انسانی مواد کے برابر رہا — جب فیڈبیک موجود تھا۔** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] نے منتخب تحقیقی ذرائع پر [[rag|ریٹریول سے تقویت یافتہ]] پائپ لائن سے منظر نامے پر مبنی ٹیوٹر تربیتی سبق تیار کیے اور ایک بے ترتیب آٹھ حالتی تجربے (N = 208) میں اُن کا موازنہ بغور لکھے گئے انسانی سبق سے کیا۔ انسانی سبق نے بعد از امتحان بہتر کارکردگی دی (0.793 بمقابلہ 0.730)، مگر صرف اُس حالت میں جہاں کوئی فیڈبیک نہ تھا؛ فوری وضاحتی فیڈبیک کے ساتھ ذریعے کا فرق غائب ہو گیا، اور فیڈبیک کا مجموعی طور پر کوئی بنیادی اثر نہ رہا۔ مواد کی تیاری کے لیے یہ نتیجہ بتاتا ہے کہ انسان بمقابلہ LLM کا فرق دراصل سہارے کا فرق ہے: تیار کردہ مواد مسابقتی ہوتا ہے جب سیکھنے کا ماحول وہ وضاحتی فیڈبیک مہیا کرے جو سبق خود نہیں دیتا۔
 
-
-
 طلبہ کی محسوس کردہ معیار قابلِ قبولیت کے اشارے سے زیادہ ملی جلی ہے: 93 انڈرگریجویٹ میں سے 77 نے AI فیڈبیک کو سمجھنا آسان پایا، مگر 68 نے اُسے تکرار بھرا اور 79 نے خود سے متصادم پایا؛ صرف 31 نے مانا کہ یہ پیچیدہ یا تخلیقی تحریر کو گریڈ کرتا ہے، اور 81.7% نے گریڈ کے 40% وزن والے آخری مقالے کے لیے انسانی جانچ کو ترجیح دی ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]])۔
 - **فیڈبیک کے طریقہ کار کا مجموعی لنگر۔** 53 مطالعات کے میٹا تجزیے نے پایا کہ GenAI فیڈبیک نے مطالعے میں سب سے بڑا اثر پیدا کیا (g = 1.27)، جبکہ کامیابی کے لیے g = 0.40 تھا؛ اسے فہم، بروقت پہنچ اور معروضیت سے منسوب کیا گیا — اگرچہ طلبہ AI فیڈبیک پر عدم اعتماد کر سکتے ہیں اور اُس کے جذباتی ردِ عمل کی کمی علمی بوجھ بڑھا سکتی ہے ([[genai-educational-outcomes-meta-analysis|Dong (2026)]])۔
-
-
 
 ایک کنٹرول شدہ موازنے نے فیڈبیک کے حصے کو موافقت پذیر نظام سے الگ کیا: اسی تشخیصی [[intelligent-tutoring|ٹیوٹرنگ]] نظام کے ساتھ، خودکار وقتی فیڈبیک پانے والے سیکھنے والے چار درجے کے ریاضی جائزے پر 1.90 سے 3.54 تک پہنچے، جبکہ اُس کے بغیر 1.90 سے 2.85 تک (F(1, 76) = 9.24, p = .003, d = 0.73) ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]])۔
 
@@ -93,8 +91,6 @@ AI فیڈبیک کا معیار محض درستگی کا معاملہ نہیں۔
 
 - **پرامپٹ ڈیزائن اور ماڈل کا انتخاب بطور معیار کے ماپے گئے پیش گو:** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] 153 پری سروس اساتذہ کے سبق کی منصوبہ بندی کے اہداف کے لیے پیدا کردہ فیڈبیک پر درجہ بندی شدہ ریگریشن سے AI فیڈبیک کے معیار کے ذرائع کو تحلیل کرتے ہیں۔ تین ماڈلوں سے چار منظم طور پر بدلے گئے پرامپٹس کے تحت 240 فیڈبیک میں، ماڈل اکیلے نے نو زمرہ جاتی معیار کے درجات میں تغیر کا 26.9% واضح کیا اور پرامپٹ شامل کرنے سے یہ 42.8% ہو گیا (ΔR² = 15.9%)؛ سب سے مضبوط ماڈل-پرامپٹ امتزاج (345 فیڈبیک) کی تکرار میں ماڈل نے 18.4% اور پرامپٹ نے مزید 5.7% واضح کیا۔ سب سے بڑا واحد پرامپٹ اثر منفی تھا: شعبے کی مخصوص فنی اصطلاحات کی جگہ روزمرہ کی تشریحات رکھنے سے فیڈبیک کا معیار نمایاں طور پر گرا (β = −0.412)، جبکہ ٹھوس مثالیں شامل کرنا اور چین-آف-تھاٹ ہدایت ہٹانا پہلے مطالعے میں غیر اہم رہے۔ چنانچہ معیار "AI" کی مقررہ خصوصیت نہیں — وہ مشترکہ طور پر اِس بات سے پیدا ہوتا ہے کہ کون سا ماڈل چنا جائے اور کام کو کیسے بیان کیا جائے، اور دونوں سکھائے جا سکتے ہیں۔
 
-
-
 لہجہ ایک ایسا معیار ہے جس کی قیمت ہے: اسی ماڈل کے ساتھ، ہدایتی فیڈبیک نے بنیادی خصوصیات کو ترجیح دینے اور مخصوصیت پر زیادہ اسکور کیا، جبکہ [[socratic-method|سقراطی]] فیڈبیک نے فہم کی نگرانی بڑھائی — اور ہدایتی فیڈبیک میں علمی بوجھ زیادہ تھا ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]])۔
 
 فیڈبیک *کیسے پیدا ہوتا ہے* بھی اُس فہرست میں آنا چاہیے۔ استدلالی مضامین کے لیے ماڈیولر خودکار تحریری جانچ نظام میں، 90 استاد کے تشریح شدہ مضامین پر سپروائزڈ [[llm-training-and-fine-tuning|فائن ٹیوننگ]] نے ناقابلِ استعمال فیڈبیک پیدا کیا — فائن ٹیونڈ GPT-4o نے ہر استدلال پر اپنے 8,000 ٹوکن کے سیاق و سباق کی حد سے تجاوز کیا اور فائن ٹیونڈ LLaMA-3.3-70B نے ایسا JSON دیا جو پارس نہ ہو سکا — جبکہ Claude 3.7 کو سیدھا پرامپٹ کرنے سے 40 مضامین میں 630 مائیکرو تبصرے پیدا ہوئے جنہیں اُن کے اساتذہ نے 94.69% ضروری اور مؤثر قرار دیا، جس سے مصنفین یہ نتیجہ اخذ کرتے ہیں کہ غیر تعیینی تولیدی کام میں پرامپٹنگ فائن ٹیوننگ کو شکست دے سکتی ہے ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]])۔
@@ -137,65 +133,3 @@ AI فیڈبیک کا معیار بنیادی طور پر [[formative-assessment]
 - **"فیڈبیک کے اثرات معمولی ہیں۔"** **53 مطالعات کے میٹا تجزیے** نے پایا کہ GenAI فیڈبیک نے **مطالعے میں سب سے بڑا اثر (g = 1.27)** پیدا کیا، جبکہ مجموعی GenAI اثر کے لیے **g = 0.40** تھا۔ فیڈبیک سب سے مضبوط ماپا گیا طریقہ کار ہے، جو عمومی رجائیت کی بحث سے مختلف تصویر پیش کرتا ہے۔
 - **"فیڈبیک ہی پوری مداخلت ہے۔"** ایک کنٹرول شدہ موازنہ جزو کو الگ کرتا ہے: اسی تشخیصی [[intelligent-tutoring|ٹیوٹرنگ]] نظام کے ساتھ، **فیڈبیک کا جزو** پانے والے سیکھنے والے قابلِ پیمائش طور پر مختلف تھے۔ فیڈبیک کو موافقت پذیر نظام سے الگ کرنا ہی دعوے کو منسوب کرنے کے قابل بناتا ہے۔
 - **رسائی اور شمولیت الگ الگ مداخلتیں ہیں۔** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]] نے پانچ ہفتے کے کاروباری نقلی کھیل میں **234 طلبہ اور 1,147 ہفتہ وار مشاہدات** میں دونوں کو الگ کیا۔ [[conversational-ai|گفتگو والے AI]] فیڈبیک کی تفویض نے مفید علمی بوجھ (β = .019, p = .807) یا غیر متعلقہ بوجھ (β = .071, p = .481) پر **کوئی اثر** نہ ڈالا۔ **حقیقی باقاعدہ استعمال** تجرباتی غیر استعمال کنندگان (β = −.468, p < .001) اور کنٹرول (β = −.253, p = .028) سے نمایاں طور پر زیادہ مفید بوجھ سے منسلک تھا، جبکہ **بے قاعدہ استعمال باقاعدہ استعمال سے الگ نہ ہوا** (p = .116)۔ چنانچہ جو معیار کے فیصلے نیت-بہ-علاج کے موازنے پر ٹکیں وہ ایسی فیڈبیک مداخلت کو کم جانچیں گے جس کی وصولی جزوی ہو، اور اطمینان یا رسائی کے پیمانے شمولیت کے ڈیٹا کا متبادل نہیں بن سکتے۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — معیار نظرِ ثانی کی پیش گوئی نہیں کرتا: وہ ترتیبیں جو AI فیڈبیک کو قابلِ استعمال بناتی ہیں
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## منسلک مضامین
-
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — لمبے LLM اشاروں نے بدتر فوری نتائج کی پیش گوئی کی؛ شکل نے کم کوششوں کے بدلے سست دوبارہ جمع کرانا لیا
-- [[wu-lam-genai-writing-assessment-professors-2026]] — پروفیسرز AI فیڈبیک کے معیار پر: طے شدہ طور پر خوشامدی، طویل، مبہم اور بہتر بنانے میں سست
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51 مطالعات میں صرف 27 نے اپنے پرامپٹس بتائے؛ 16 تجربات میں کنٹرول گروپ نہ تھا
-- [[ai-feedback-violin-intonation-2026]] — سر کی درستی پر AI فیڈبیک 2,208 مشین سے ماپے گئے پچ انحرافات کے مقابل جانچا گیا (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: استدلالی مضامین کے لیے ماڈیولر خودکار تحریری جانچ نظام
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT کے ویڈیو کے اندر تبصروں کی جانچ: لسانی، معنوی اور ادراکی معیار (Wang, Du & Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — AI تحریری فیڈبیک نے مشقی خطوط پر انسانی ایڈیٹروں کو پیچھے چھوڑا (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: ماہرین تعلیم کو لوپ میں رکھ کر LLM فیڈبیک کی تیاری (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM کلاس روم مشاہداتی فیڈبیک کا اعتبار اور حدود (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — اساتذہ کے AI سیکھنے والے مرکز فیڈبیک کے عمل اور تصورات (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — اعلیٰ تعلیم میں AI کا پیدا کردہ فیڈبیک
-- [[teaching-feedback-classification-benchmark]] — تدریسی فیڈبیک کی درجہ بندی کا بینچ مارک
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI سے تقویت یافتہ باہمی فیڈبیک
-- [[cong-confidence-asag-2026]] — اعتماد سے آگاہ مختصر جواب کی گریڈنگ
-- [[choi-anchor-aes-prompting-2025]] — لنگر پر مبنی AES پرامپٹنگ
-- [[ai-assistance-discretionary-feedback]] — اختیاری فیڈبیک کے لیے AI کی مدد
-- [[sequenced-ai-feedback-learning]] — ترتیب وار AI فیڈبیک اور سیکھنا
-- [[eduframetrap-llm-sycophancy-educational-safety]] — خوشامد ایک تعلیمی سلامتی خطرہ ہے: LLM ٹیوٹرز کو خوشامد کے بینچ مارک کیوں چاہیے
-- [[contextual-sycophancy-ai-literacy]] — سیاق و سباق کی خوشامد کی چھپی ہوئی قیمت: AI خواندگی کی مداخلت
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — نشان زدہ تدریس: خودکار تحریری فیڈبیک میں تعصب
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — پرامپٹ انجینئرنگ اور ماڈل کا انتخاب بطور AI فیڈبیک کے معیار کے پیش گو (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — یکساں GPT-4 فیڈبیک پر بے ترتیب ذریعے کے لیبل: اساتذہ AI سے منسوب فیڈبیک کو کم قیمت دیتے ہیں (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — ہم مرتبہ گروپ اور AI کے پیدا کردہ فیڈبیک کا تقابلی تجزیہ: اعلیٰ تعلیم میں فیڈبیک کے معیار اور طلبہ کے تصورات پر بصیرتیں
-- [[ai-assisted-physics-lab-report-assessment-2026]] — تجرباتی فزکس لیبارٹری رپورٹوں کی AI کی مدد سے جانچ: امکانات، حدود اور تدریسی عمل کی مدد
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — طالب علم کی تحریر پر LLM کے پیدا کردہ فیڈبیک میں توجہ اور تدریسی موافقت کا جائزہ
-- [[risk-adaptive-genai-feedback-programming-2026]] — پروگرامنگ تعلیم میں پیدا کردہ AI فیڈبیک کے لیے خطرے کے مطابق ڈھلنے والا اور شہادت سے محدود فریم ورک
-- [[real-time-ai-feedback-technical-skills-2026]] — اپنی زبان میں "Clarify" وضاحت اور وقتی ٹیوٹر میں سہارے والے اشارے: ہم وقت فیڈبیک کو کیا قابلِ استعمال بناتا ہے (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — استاد بمقابلہ AI کی مدد سے ہم مرتبہ فیڈبیک: مستند غلطی درستی گرتی ہے، مستقل توجہ ٹھہرتی ہے، اور طلبہ ہر ایک کے ساتھ کیا کرتے ہیں (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — یکساں فیڈبیک پر پہلے اندھے پھر ظاہر کیے گئے ذریعے کے لیبل: طلبہ AI لیبل والے فیڈبیک کو کم درجہ دیتے ہیں اور کم درجہ انسانی فیڈبیک کو AI پڑھتے ہیں
-- [[intelligent-tutoring-mathematics-education-review-2026]] — ریاضی میں AI ٹیوٹرنگ کا بیانیہ جائزہ: وقتی فیڈبیک کے فوائد اور نفاذ کی شرطیں
-- [[agent-type-feedback-style-self-directed-learning-2026]] — سقراطی بمقابلہ ہدایتی فیڈبیک کے انداز: ترجیح کے مقابل فہم کی نگرانی، اور علمی بوجھ کی قیمت
-- [[when-students-prefer-ai-scoring-feedback-2026]] — طلبہ کی محسوس کردہ AI فیڈبیک معیار: قابلِ فہم مگر تکرار بھرا، میکینکس کے لیے بھروسا، تشریح کے لیے نہیں
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG سے پیدا کردہ ٹیوٹر تربیتی سبق فیڈبیک کی موجودگی میں انسانی سبق کے برابر رہے؛ انسانی برتری صرف فیڈبیک کے بغیر ظاہر ہوئی
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 68 مطالعات میں تین جانچ جہتیں، جن میں روبرک ہم آہنگی پتلی ہے (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157 جانچے گئے فیڈبیک پیغامات میں معیار کی سطح اور جانچنے والے کی سطح پر ہٹاؤ (Vanhoyweghen et al. 2026)
-- [[liu-educational-sycophancy-2026]] — درستگی تعامل پر منحصر ہے: دباؤ میں 12.7 فیصد پلٹاؤ کی شرح (Liu & Korolova 2026)

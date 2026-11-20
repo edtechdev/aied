@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -77,30 +79,3 @@ ai_assist:
 - **«Абстрактные знания об ИИ предсказывают способность преподавателей обучать устойчивости.»** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] обнаружила, что **практическое использование ИИ** преподавателями в контекстах науки и «зелёной» энергетики и их **участие в разработке материалов, согласованных с ОУР**, — **в большей степени, чем абстрактные знания об ИИ или установки**, предсказывали их способность. Знать об ИИ и уметь строить с ним расходились, и практический путь предсказывал больше.
 - **«ИИ-поддерживаемый дизайн обучения в рамках педагогики устойчивого развития производит педагогику устойчивого развития.»** Та же работа обнаружила, что ИИ-поддерживаемый [[learning-design|дизайн обучения]] в условиях педагогики устойчивого развития **ограничивал** дизайн определёнными способами, а не расширял его. Модель, обученная на обычных материалах, воспроизводит обычные трактовки, если сама работа над дизайном это не корректирует.
 - **«Устойчивость — тема, а не сквозная тема.»** Поскольку оба пути проходят через все уровни, устойчивость проявляется в [[higher-ed|высшем образовании]], K-12 и профессиональных контекстах, — а значит, это базовая тема, которую нужно рассматривать внутри каждой дисциплины, а не преподавать как отдельный предмет.
-
-## Связанные концепции
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Связанные статьи
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Шведское опросное и фокус-групповое исследование, утверждающее, что институциональными решениями о генеративном ИИ должна руководить этика партнёрства, а не рамка списывания
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)

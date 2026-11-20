@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,55 +112,3 @@ ai_assist:
 - **«إطار الغش طريقة كافية للتفكير في أخلاقيات الذكاء الاصطناعي التوليدي.»** يرى [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] أن المؤسسات ينبغي أن تحسم أسئلة الذكاء الاصطناعي التوليدي عبر **أخلاقيات الشراكة لا إطار الغش**. فالإطار يحدّد الأسئلة التي تُطرح، وإطار سوء السلوك لا يستطيع أن يسأل عن الغرض التعليمي.
 - **«أعضاء هيئة التدريس والطلاب يتفقون على ما هو أخلاقي.»** يجد [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç و Sever (2026)]]، في دراسة [[mixed-methods-research|بأساليب مختلطة]] لـ**971 طالبًا و135 عضو هيئة تدريس**، أن الأبعاد الأخلاقية تتباين بين المجموعتين. فالسياسة المكتوبة من منظور واحد ستخطئ في وصف الآخر.
 - **«التوافق الأخلاقي يسبق الاستخدام.»** **التبنّي يسبق الاتفاق الأخلاقي**: على مدى أربعة فصول دراسية في برنامج أمريكي لتعليم المعلّمين، **ارتفع استخدام الطلاب للذكاء الاصطناعي التوليدي من 57% إلى 83% في التحضير للتقويم**. فالمعايير تتشكّل بالممارسة لا العكس.
-
-## المفاهيم المرتبطة
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — إفصاحات استخدام الذكاء الاصطناعي والكشف عنه
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقويم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو المختبر التعليميون، وثقافة الذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصصة
-
-- [[civic-and-political-education]]
-
-## المقالات المرتبطة
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — دراسة مسح ومجموعات تركيز سويدية ترى أن أخلاقيات الشراكة، لا إطار الغش، ينبغي أن توجّه قرارات المؤسسات في الذكاء الاصطناعي التوليدي
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — الوعي الأخلاقي ضخّم قلق الذكاء الاصطناعي حيث لم يُدرّس إطار للتكيّف: وساطة غير مباشرة فقط بين 584 طالباً
-- [[learning-analytics-to-educational-interventions-2026]] — من تحليلات التعلّم إلى التدخلات التعليمية: مُمكّنات التدخلات القائمة على تحليلات التعلّم الجديرة بالثقة (سفيتك وديجاك وكادويتش 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — كيف يستخدم الطلاب الذكاء الاصطناعي ويخفونه في التقويم عبر الإنترنت
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — كشف الطلاب عن الذكاء الاصطناعي، والوصم، والتعلّم الذاتي التنظيم
-- [[vetter-hidden-cost-disclosure-genai-2026]] — التكلفة الخفية للكشف
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — عدم امتثال الطلاب لإفصاحات استخدام الذكاء الاصطناعي
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — آراء أعضاء هيئة التدريس والطلاب في الأبعاد الأخلاقية للذكاء الاصطناعي
-- [[ethical-use-ai-engineering-education-review-2026]] — الاستخدام الأخلاقي للذكاء الاصطناعي في تعليم الهندسة: مراجعة منهجية
-- [[ai-ethics-education-public-discourse]] — تحليل طولاني للخطاب العام في أخلاقيات الذكاء الاصطناعي في التعليم
-- [[ethical-ai-higher-ed-game-theory]] — إطار نظرية الألعاب للاستخدام الأخلاقي للذكاء الاصطناعي في التعليم العالي
-- [[cost-of-ethics-crisis-cs-ethics-education]] — أزمة تكلفة الأخلاقيات في البحث عن عمل طلاب علوم الحاسب
-- [[xai-education-framework]] — الذكاء الاصطناعي القابل للتفسير في التعليم (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — فلسفة بديلة للذكاء الاصطناعي: الطاوية كأسلوب للذكاء الاصطناعي في التعليم
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة المدرّسين الآليين والأضرار البيداغوجية
-- [[raffaghelli-situated-ai-ethics-2026]] — أخلاقيات الذكاء الاصطناعي السياقية: إطار تاريخي-ثقافي للتعليم
-- [[ethically-mediated-ai-tpack-china-2026]] — المعرفة الأخلاقية بالذكاء الاصطناعي كوسيط تكاملي في AI-TPACK لمعلّمي الجامعات (تشين وزملاؤه 2026)
-- [[ai-ethics-bibliometric-2026]] — أخلاقيات الذكاء الاصطناعي والحكم المهني: تحليل ببليومتري (مزلان وزملاؤه 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — تحليل إطار سياسة اليونسكو للذكاء الاصطناعي التوليدي
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — هل من الأخلاقي أن يستخدم المعلّمون الذكاء الاصطناعي في تغذية الطلاب الراجعة؟
-- [[fekete-ethical-ai-literacy-gaps-2026]] — سدّ فجوات ثقافة الذكاء الاصطناعي الأخلاقية بين الطلاب والمربّين والسياسات
-- [[alharbi-ethical-genai-eap-2026]] — التكامل الأخلاقي للذكاء الاصطناعي التوليدي في الإنجليزية للأغراض الأكاديمية
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — مقاربة ناقدة للقيمة في التعليم المستدام والذكاء الاصطناعي (السهيمي وعطا الله 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — الشروط الأخلاقية لتبنّي النماذج اللغوية الكبيرة في التحضير للامتحان (بيريث-بورتابيّا وزملاؤه 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — الاستخدام الطولي للذكاء الاصطناعي التوليدي والأخلاقيات والسياسات في تعليم المعلّمين (باركر وزملاؤه 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — القيم الأخلاقية والمعايير للذكاء الاصطناعي في التعليم
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — من يتصرّف، ومن يعرف، ومن يجيب؟ تحليل خطابي بمساعدة المجلّدات للفاعلية والمسؤولية المعرفية والمساءلة في أبحاث التعليم العالي حول الذكاء الاصطناعي التوليدي
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — الوعي الأخلاقي والتأمل والممارسة المسؤولة المُبلَّغ عنها نمت مستقلّة إلى حدّ كبير عبر ثلاث موجات سنوية (Ayanwale et al
-
-- [[qi-information-ethics-ai-judgment-2026]] — تعليم أخلاقيات المعلومات والحكم الأخلاقي للذكاء الاصطناعي لدى طلاب الجامعات

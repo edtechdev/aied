@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -78,10 +79,3 @@ Framework), [campusaioperations.com](https://campusaioperations.com/),
 रणनीतिक दिक्चुंबक एक साझे Google दस्तावेज़ के रूप में भी प्रचलित है, जिसे खोलने के लिए एक Google खाता
 आवश्यक है। प्रवेश पर भूमिका और संस्था के बारे में एक छोटा वैकल्पिक परिचय प्रश्न दिखाई देता है; ईमेल
 वैकल्पिक है और पूरी साइट उसके बिना भी पढ़ी जा सकती है।
-
-## संबद्ध अवधारणाएँ
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

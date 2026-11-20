@@ -33,6 +33,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,6 +45,3 @@ ai_assist:
 ## 채택하기 전에 알아야 할 것
 
 저장소는 평가 프로토콜, `samples/`의 전후 예시, 스킬 뒤에 있는 참고 파일을 공개하므로, 검토자는 주장을 믿기보다 규칙이 어떻게 작동하는지 직접 검사할 수 있습니다. 이 페이지에서는 측정된 결과를 재진술하지 않습니다. 저자는 Addy Osmani이며, 라이선스는 MIT이고, 이 작업은 어떤 기관의 제품이 아니라 독립적인 것입니다. 이 작업은 젊고 활발합니다. 2026년 8월에 시작되어 커밋 54개, 릴리스 3회가 있으며 최신 버전은 9월의 0.2.1이고, 2026년 9월 확인 시점에 별이 약 250개입니다. 기여자 3명이 변경 사항을 반영했습니다. 스킬 지침은 독자가 이미 실행하는 에이전트에 로드되므로, 일반적인 [[prompt-engineering|프롬프트 엔지니어링]] 주의 사항이 적용됩니다. 비평의 품질은 넘겨받은 초안에 달려 있습니다.
-
-## 연결된 개념
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

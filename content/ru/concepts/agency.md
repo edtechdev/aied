@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -104,7 +106,6 @@ ai_assist:
 
 Структурное прочтение автономности появляется в [[ai-agents-joyful-assessment-third-space-2026|рамке радостного оценивания Эль-Хури и Ма]], где автономность рассматривается как свойство проектирования, а не мотивация: студенты выбирают порядок задач, задают темп и сигнализируют, когда заканчивается взаимодействие, поэтому поддержка доступна, а ответственность за работу остаётся у учащегося. Механизм, который они называют, — это оценивание: rehearsal без аудитории и выбор, когда начинать, сдвигают то, что означает задача, — от приговора к чему-то, что студент может формировать, — и они утверждают, что именно повторный опыт этого сдвига превращает случайные чувства результативности в повседневную позицию по отношению к оцениванию.
 
-
 - **«Более частое использование ИИ снижает у студентов чувство авторства».** Не линейно. В инструментованном исследовании эссе воспринимаемое авторство падало только у группы, делегировавшей эссе целиком, тогда как студенты, использовавшие модель для планирования или проверки, сравнялись по авторству со студентами, вообще не открывавшими её. Та же группа получила более высокие оценки за читаемость эссе, так что артефакт выглядел лучше по мере истончения авторства. Автономность отслеживала то, как использовался инструмент, а не то, использовался ли он. [[jelson-students-chatgpt-essay-writing-2026|Авторство — функция делегирования, а не использования]].
 
 ## Автономность против идентичности учащегося
@@ -138,69 +139,3 @@ ai_assist:
 - **«Студенты осуществляют автономность, когда свободно используют ИИ».** Схема **из 14 категорий, кодировавшая 6 788 обращений с помощью ChatGPT**, отнесла **59% обращений семиклассников** к категориям, не представляющим агентное использование. Объём использования и автономность — разные меры.
 - **«Современные модели хорошо поддерживают автономность учащегося».** **При тестировании на десяти моделях поддержка автономности — это то, где они справляются хуже всего после обучения**: ImpactBench измерил **«Автономность и цель» на 56,0%** по положительным критериям. Автономность — то измерение, с которым системы ИИ справляются хуже всего, а не побочный продукт возможностей.
 - **«Посредничество преподавателя — ограничение автономности».** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] наблюдал за **десятью преподавателями математики средней школы на протяжении восьминедельного вмешательства с ChatGPT-4**, и посредничество здесь — механизм, а не препятствие.
-
-## Связанные понятия
-- [[learners]] — Учащиеся: зонтичное понятие для понятий со стороны учащегося
-- [[pedagogical-partnerships]] — Педагогические партнёрства
-- [[learner-identity]] — развивающиеся дисциплинарные, профессиональные, креативные и академические идентичности учащегося
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — общее направление опосредованного ИИ взаимодействия
-- [[agentic-ai]] — автономный ИИ, который может перераспределять автономность в группах
-- [[chemistry-education]] — Химическое образование и ИИ: лаборатории, формативное оценивание, пределы LLM, философия экспериментирования
-- [[social-emotional-learning]] — социально-эмоциональное обучение
-- [[cognitive-surrender]]
-
-## Связанные статьи
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Национально репрезентативный опрос преподавателей и директоров школ США о покрытии политики в области ИИ, автономности и пяти классных приёмах (Tench, Weinstein и James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Помогающая рука или доминирующий партнёр? Индивидуальные восприятия опоры на генеративный ИИ и человеческой автономности в совместном обучении
-- [[yan-agentivism-learning-theory-ai-2026]] — Среднего уровня теория обучения для взаимодействия человека и ИИ, с четырьмя механизмами и шестью проверяемыми положениями (Yan и Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Автономность учащегося как возникающее качество координации предметной, ИИ и метакогнитивной компетентности, а не как самостоятельный узел (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — Доступ к выбору против осуществлённой автономности: ползунки, необязательный агент ИИ и обучение в симуляции стайного поведения
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Школьное образование в области ИИ сужает психологические, но не когнитивные пробелы в готовности
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Отношенческая эпистемическая автономность и шесть критериев, разделяющих продуктивную опору от вредной зависимости (Du и Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Педагогическое сопровождение с поддержкой ИИ, поддерживающее STEM-идентичность
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Возникающая автономность учащегося в неявном взаимодействии человека и ИИ: поддерживающие против противоречащих персон
-- [[de-barba-srl-genai-2026]] — Автономность учащегося на разных масштабах: регуляция, интеграция, позиционирование
-- [[mishra-control-vs-agency-history-2025]] — Контроль против автономности как существенное напряжение в истории ИИ в образовании
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw и Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Автономность студентов-педагогов во время взаимодействий с генеративным ИИ в проектировании для обучения (Krushinskaia, Elen и Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Эмансипирующее видение: автономность как игра с нулевой суммой с автономностью инструмента
-- [[chen-zou-genai-group-assessment-agency-2026]] — Три паттерна автономности в опосредованном генеративным ИИ групповом оценивании: усиленный, сдержанный и неосуществлённый
-- [[ai-integrated-teaching-identity-tensions]] — Принципиальная избирательность как автономность преподавателя в интегрированном ИИ преподавании (Adiozaman и Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Отказ как диагностическое доказательство: неиспользование как ситуативное отношение и неравномерное право отклонить ИИ (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — эпистемический авторитет, утверждаемый через прерывание, исправление и отказ, а не через максимальное использование инструмента
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Компетентность против автономности как цели образования в области ИИ и эвристика осведомлённой автономности в отношении ИИ (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Посредничество преподавателя как условие, сохраняющее генеративный ИИ артефактом для критики, а не авторитетом (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Автономность преподавателя как ресурс, мобилизуемый через проектирование, с готовностью, оцениваемой по артефактам, а не по использованию (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Матрица интерпретационного авторитета и Экологическая модель интеграции авторитета: четыре конфигурации того, кто интерпретирует, и экологические уровни, которые их сдвигают
-- [[gyekye-selves-apprenticeship-2026]] — Студенты цвета в программах ученичества конструировали себя через ИИ посредством отказа, согласования и признания ("культурная плоскостность"); институциональная ИИ-грамотность и полоса признания
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Совместная эпистемическая автономность в 6 788 обращениях с помощью ChatGPT в научном письме средней школы (Chang et al., 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Воспринимаемое авторство падало только там, где делегировалось эссе целиком; планировавшие и проверявшие сравнялись с не-пользователями (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Кто делает мышление? Характеристика человеческой автономности во взаимодействиях первокурсников с ИИ

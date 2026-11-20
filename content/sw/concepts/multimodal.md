@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,7 +65,6 @@ Wakati watahiniwa wenye msingi wa LLM wanapaswa kutatua matatizo yanayoweka maan
 
 - **Kikomo ni cha chini kwenye hisabati inayotegemea picha na inayolingana na mtaala — na kukataa ni njia ya akiba iliyosawazishwa.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] walitathmini mifano sita ya modaliti nyingi kwenye vipengele 376 vinavyohitaji picha vya [[math-education|shule ya kati]] ambavyo michoro yake hubeba vikwazo muhimu vya kazi. Kwa picha, mifano ya kufikiri o4-mini ilitatua 57.7% ya vipengele na o3 52.4%, dhidi ya 34.0%–42.6% kwa familia isiyo ya kufikiri; picha ilipozuiwa mifano ilikataa badala ya kukisia katika 95.4%–98.9% ya marudio — mtindo wa kujiepusha ambao mkufunzi anaweza kuuchukulia kama ishara ya muktadha unaokosekana badala ya kosa la mwanafunzi.
 
-
 Athari ya kubuni ya kivitendo ni **kipima chini cha kuweka picha msingi** katika ufafanuzi wa modaliti nyingi: hatua ya makusudi ambapo mfumo unaeleza kile anaona kabla ya kujaribu ufumbuzi, na kumpa mwanafunzi au msimamizi wa binadamu nafasi ya kurekebisha makosa ya utambuzi.([[syal-multimodal-dialogue-stem-2026]])
 
 [[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]] wanaongeza kizuizi cha awali: mlinganyo, grafu au kitengo kinaweza kuonekana katika ripoti lakini hawezi kamwe kupatikana kutoka hati iliyochakatwa, hivyo kutokubaliana na mkufunzi kunaweza kuwa kushindwa kutoa badala ya hoja — na hufanya muundo wa kuwasilisha kuwa sehemu ya ubunifu wa tathmini.
@@ -83,7 +84,6 @@ AI ya modaliti nyingi inapanua *maudhui* ya tathmini na pia *ishara* inayotumika
 
 Modaliti nyingi ina maana ya pili: kuunganisha ishara kutoka mwili wa mwanafunzi badala ya kutoka maudhui, ambapo ufuatiliaji wa jicho, EEG, shughuli ya umeme wa ngozi, utofauti wa kiwango cha moyo, na mkao wa kamera hulisha makadirio ya umakini, ushirikiano, na mzigo wa kiakili. Mwelekeo huo wa kuhisi unaishi katika [[sensor-and-gaze-analytics]], na matatizo yake ya uhalali na ridhaa si yale yanayofufuliwa na maudhui ya modaliti nyingi.
 
-
 ## AI ya modaliti nyingi kwa lugha na ujifunzaji unaopatikana
 
 Mifumo ya modaliti nyingi pia inapanua upatikanaji na [[personalized-learning|ubinafsishaji]]. Zana za kujifunza za sauti-[[video-education|video]] zilizoongozwa na AI hubadilisha kasi ya kucheza, kuzalisha muhtasari wa video wa modaliti nyingi, na kusaidia mazoezi ya matamshi.([[ai-guided-learning-audiovideo-2026]]) Grafu za maarifa za modaliti nyingi hufanya hoja katika picha na maandishi kwa kazi za kielimu,([[multimodal-knowledge-graph-educational-reasoning]]) na uwakilishi wa modaliti nyingi huboresha [[inclusive-learning]] kwa kutafsiri habari katika modaliti (mfano, maandishi hadi sauti au picha). Matumizi ya nyanja yanajumuisha kupima alama na utambuzi wa hisabati iliyoandikwa kwa mkono,([[llm-cognitive-diagnosis-handwritten-math]]) [[affective-tutoring|ufafanuzi wa kihisia]] wenye ishara za modaliti nyingi,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) kujifunza kwa maandishi-hadi-picha katika nyanja maalum,([[nuclear-diffusion-text-to-image-learning-2026]]) na kugundua darasa kwa modaliti nyingi kwa ufahamu wa faragha.([[privacy-aware-classroom-incident-recognition-2026]]) Bird (2026) anaonyesha aina ya ndani ya maandishi ya modaliti nyingi: kuunganisha transformer ya ELECTRA iliyoboreshwa kwa ufano na uchanganuzi wa sifa za isimu ya kikokotozi ili kuainisha fasihi ya Kiingereza kwa Key Stage ya UK, ambapo mfano uliounganishwa (F1 0.996) ulizidi kila msingi wa modaliti moja — ushahidi kwamba kuunganisha aina za uwakilishi, hata ndani ya maandishi, kunaweza kuzidi mbinu za mfano mmoja.
@@ -98,7 +98,6 @@ Mifumo ya modaliti nyingi pia inapanua upatikanaji na [[personalized-learning|ub
 6. **Linganisha mfumo wa hatua na maudhui.** Msaidizi wa maabara ya usalama wa mtandao wa multimodal LLM alishughulikia slaidi za picha zilizojaa vizuri zaidi, wakati mfumo wa hatua wa OCR-pamoja-LLM ulitoa thamani ya kielimu inayolingana kwenye slaidi zilizozingatia maandishi kwa gharama ya kikokotozi ya chini zaidi.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 7. **Kukusanya mito kadhaa si kuunganisha.** Mapitio ya masudio 23 ya AI kwa [[embodied-learning|kujifunza kwa mwili]] yalipanga kazi za modaliti nyingi katika ngazi tatu — mito iliyokusanywa kwa sambamba, mito iliyowekwa kwenye mstari mmoja wa muda, mito iliyounganishwa ndani ya mfano mmoja unaokadiria hali ya mwanafunzi — na kuweka masudio mengi katika ngazi ya kwanza, yakichanganya picha na maandishi au mwendo na maandishi bila kuziunganisha kamwe. Somo moja liliunganisha hisia za uso, mtazamo, na utambuzi wa uso baada ya tukio; njia iliyokaribia zaidi kuunganisha ilimodeli hali za pamoja kutoka ishara za kifundo cha mkono na mifupa kwa mchakato wa Markov, na ikaendeshwa baada ya kipindi badala ya kujulisha maoni ambayo wanafunzi walipokea. Hakuna mfumo uliopitiwa uliounganisha ingizo zake wakati wa matumizi ([[kim-ai-embodied-learning-review-2026|Kim na Han (2026)]]).
 
-
 ## Dhana Potofu za Kawaida
 
 **"Mfano wa modaliti nyingi hushughulikia matatizo ya modaliti nyingi."** Usahihi hupungua kwa kasi pale maana inapobebwa na picha badala ya maandishi. Mwalimu wa [[physics-education|fizikia]] hujibu matatizo ya maandishi kwa **96%** ya wakati lakini hushuka hadi takriban **74%** kwenye matatizo yanayoweka maana katika michoro, yaani **Athari ya Kuingiliwa kwa Modaliti Nyingi**. Pointi ishirini na mbili za uwezo hupotea pale pale ambapo maudhui ya taaluma yanapoishi.
@@ -108,63 +107,3 @@ Mifumo ya modaliti nyingi pia inapanua upatikanaji na [[personalized-learning|ub
 **"Uwezo wa modaliti nyingi ni ngazi moja, hivyo mfano bora kwa jumla ndio bora kwa kazi yenye picha nyingi."** Uwezo ni mahususi kwa kazi, na mfano unaoongoza katika [[benchmark|vipimo vya jumla]] unaweza kubaki nyuma kwenye michoro ya nguvu. Kwa taaluma zenye picha nyingi, jaribio linalofaa ni lile lenye maana iliyowekwa katika picha.
 
 **"Mipaka ya ufundishaji wa maandishi tu ni usumbufu badala ya tatizo la [[curriculum-design|mtaala]]."** Katika taaluma ambapo mchoro *ndio* tatizo, yaani fizikia, kemia, jiometri, uhandisi na tiba, mpaka wa umahiri wa mwalimu wa maandishi tu huangukia ndani ya maudhui yanayotathminiwa badala ya kingo zake.
-
-## Dhana Zilizounganishwa
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Bambo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, ya wakala)
-- [[virtual-and-augmented-reality]] — ishara za kubofya, sauti na nafasi kama njia za kujifunza
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Makala Zilizounganishwa
-- [[elkington-human-centred-assessment-value-2026]] — Tathmini inayomweka binadamu katikati, miungano na vikwazo vya kizalisha (Elkington 2026)
-
-- [[kim-ai-embodied-learning-review-2026]] — AI katika kujifunza kwa mwili mara nyingi hutazama tu: majukumu ya kuhisi ni 62.5% ya lebo za jukumu zilizowekwa kodi, na hakuna mfumo uliopitiwa uliounganisha mito ya modaliti nyingi wakati wanafunzi wakiutumia (Kim & Han 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Uundaji wa video ya PSA kuhusu maadili ya AI kama mbinu za kufundisha ujuzi mahususi wa AI (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Uundaji wa Transformer ya Modaliti Nyingi Unaoelewa Usawa kwa Ukadiriaji wa Umakini wa Mwanafunzi wa Wakati Halisi
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — Utendaji wa VLM kwenye kazi za hisabati ya wanafunzi iliyoandikwa kwa mkono (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Mwongozo wa mwalimu kuhusu kujifunza kwa modaliti nyingi kwa kutumia AI ya kizalishaji (mfano wa MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — Athari ya Uingiliaji wa Modaliti Nyingi na uokoaji wa mazungumzo yaliyopangwa katika STEAM
-- [[multimodal-ai-feedback-learning]] — Maoni ya AI ya modaliti nyingi yanalingana na waelimishaji kwa kujifunza, yanazidi juu ya hisia
-- [[multimodal-prompting-ai-literacy]] — Kutoa ilani kwa modaliti nyingi kwa wanafunzi kama kazi ya epistemological katika ujuzi wa AI
-- [[multimodal-item-parameter-estimation-2026]] — Kukadiria vigezo vya kipimo vya IRT kwa LLM za modaliti nyingi
-- [[ai-guided-learning-audiovideo-2026]] — Msaada wa kujifunza za sauti-video unaoongozwa na AI
-- [[multimodal-knowledge-graph-educational-reasoning]] — Grafu za maarifa za modaliti nyingi kwa hoja za kielimu
-- [[mllm-scientific-visualization-literacy]] — Ujuzi wa LLM wa modaliti nyingi kwa taswira ya kisayansi
-- [[multimodal-affective-its-presentation]] — Ishara za modaliti nyingi katika ufafanuzi mahususi wa kihisia
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Ufafanuzi wa hisabati wa kihisia wa modaliti nyingi
-- [[llm-cognitive-diagnosis-handwritten-math]] — Utambuzi wa kiakili wa LLM wa hisabati iliyoandikwa kwa mkono
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Kujifunza kwa maandishi-hadi-picha katika elimu ya uhandisi wa nyuklia
-- [[privacy-aware-classroom-incident-recognition-2026]] — Kugundua darasa kwa modaliti nyingi kwa ufahamu wa faragha
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Maelekezo ya OCR ya modaliti nyingi katika elimu ya usalama wa mtandao
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Kupima Vipimo LLM za Modaliti Nyingi kwa Ukaguzi wa Slaidi
-- [[ai-grading-handwritten-physics-2026]] — Kupima alama na AI tathmini za fizikia zilizoandikwa kwa mkono (Olimpiki)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Kuunda kwa AI ya modaliti nyingi na ufikiri mahususi katika uandishi wa msingi (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Zaidi ya Kuzalisha na Usahihi: Kugundua na Kuimarisha Mnyororo wa Hoja wa Kuona kwa Kutatua Matatizo ya Jiometri
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: kazi 12 juu ya sanaa 1,174 zinaonyesha uwezo wa VLM kama wasifu mahususi wa kipengele, dhaifu zaidi katika tafsiri ya kihisia na hoja za nafasi zinazotegemea mtazamo (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Tathmini ya Ripoti za Maabara ya Fizikia ya Majaribio Inayosaidiwa na AI: Uwezekano, Vikomo, na Msaada kwa Mazoezi ya Kufundisha

@@ -12,6 +12,8 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 > **Librarians** — the library and information professionals who teach information literacy, staff research consultations, build collections and discovery systems, and increasingly sit as the human counterpart to AI search and recommendation tools. In the research they appear as the people who handle the credibility question a model cannot settle — whether a patent, a technical standard, or an industry report deserves to be relied on — and as partners in course and policy co-design. Their place in [[ai-education|AI in education]] is therefore double: as educators who teach source evaluation and search strategy, and as the [[human-in-the-loop-ai|human layer]] inside systems built around AI retrieval.
@@ -64,34 +66,3 @@ Two more strands set the limits of the role. [[pearls-epistemic-verification-202
 **"Information literacy is a one-off induction session."** It is instruction, not assistance: the questions students arrive with are evaluation and strategy problems — is this source credible, how do I search this — which are teachable skills rather than transactions to be completed. Treating the service as assistance converts a curriculum into a helpdesk and loses the durable capability.
 
 **"Who pays for verification is someone else's problem."** The consultation load lands on library staffing, and the paper's own question is whether asking libraries to carry it outruns their headcount. Co-design and partnership are the responses the literature recommends precisely because the verification cost is real and falls on a unit that did not budget for it.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Connected Articles
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Embedded-librarian seminar platform; 312 consultations led by source evaluation
-- [[genai-academic-search-workshop]] — CHIIR 2026 workshop on GenAI and academic search; librarian trust gap
-- [[maybee-disruptive-partnerships-sap-2025]] — Academic librarians co-designing AI literacy with students as partners
-- [[aarc-ai-research-competency-2026]] — Verify, cite, reflect as teachable research commitments
-- [[pearls-epistemic-verification-2026]] — Six-dimension verification protocol; access and legitimacy as gates
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative learning for AI literacy; information literacy benefits transfer
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors rank attribution and responsible use highest, but teach few of 26 skills
-- [[bird-multimodal-educational-literature-2026]] — Text-complexity tool built for non-technical users such as English teachers and librarians
-- [[cognitive-offloading-llm-synthesis-writing]] — What learners offload when AI synthesizes sources for them
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated and erroneous citations as a verification problem

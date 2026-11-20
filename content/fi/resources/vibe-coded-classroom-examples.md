@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,12 +43,3 @@ Kaikkien alojen kouluttajille, jotka haluavat oman alansa työkalusta valmiin es
 ## Huomioita ja varauksia
 
 Nämä ovat opetusdemoja, eivät arvioituja interventioita: sivu ei raportoi minkään niistä oppimistuloksia, ja useat ovat tekijänsä omia rakennelmia eivätkä itsenäistä luokkahuonekäyttöä. Rakentamisen laatu seuraa mallia ja iteraatioiden määrää, joten yhdellä malliversiolla toiminut esimerkki voi myöhemmin ajautua tai hajota, ja luodut työkalut esittävät faktoja väärin riittävän usein, että sivun oma tarkistuslista on varmistaa jokainen luku työkalun listaamista lähteistä. Galleria sekoittaa Bowenin työtä muiden kouluttajien panoksiin ja kolmannen osapuolen linkkeihin, jotka voivat rappeutua. Lukeminen ei vaadi tiliä; sivu on ilmainen, kun taas Bowenin työpajat ja konsultointi ovat maksullisia.
-
-## Liittyvät käsitteet
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

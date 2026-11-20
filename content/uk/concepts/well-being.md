@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -84,43 +86,3 @@ ai_assist:
 - **«Схвалення студентів свідчить, що благополуччя підтримується.»** Серед **551 студента першого року** **82.76% схвалили інтеграцію** цифрового та інтелектуального контенту — і **високе схвалення співіснувало з напругою, а тиск завдань ШІ послаблював користь**. Схвалення й напруга зростають разом, тож опитування задоволеності вводять в оману саме тут.
 - **«Підтримка благополуччя є культурно нейтральною.»** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] описують Sukoon, гібридний інструмент підтримки благополуччя, як **культурно вкорінений** — і власне рамкування сторінки відзначає його межі. Дизайн підтримки, який припускає універсального студента, неправильно читає популяцію.
 - **«Тиск завдань відокремлений від технології.»** Знахідка в тому, що **тиск завдань** ШІ послаблював користь від інтеграції, що розміщує робоче навантаження всередині ефектів технології, а не поряд із ними.
-
-## Пов’язані поняття
-- [[learners]] — Здобувачі: головна категорія для понять зі сторони здобувачів
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — служби підтримки в кампусі, що охоплюють консультування, роботу зі студентами та перенаправлення
-
-## Пов’язані статті
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 студентів високо оцінили чатботи й найбільше боялися втрати людського зв’язку
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Тертя, смисл і самотність як біологічний сигнал
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — Зв’язок між тривожністю щодо ШІ та академічною мотивацією
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Профілі та переходи психологічної адаптації в навчанні японської мови з підтримкою ШІ
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Критичний наративний синтез залученості в діалоговий ШІ та залежності
-- [[mindful-llm-math-tutoring-2026]] — За межами розв’язання задач: великі мовні моделі для емоційної та рефлексивної підтримки в навчанні математиці
-- [[sec-ai-literacy-narrative-review-2026]] — Інтеграція соціально-емоційних компетентностей у ШІ-грамотність
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Залученість студентів із GenAI (СТВ)
-- [[teacher-education-ai-literacy-sdt-2026]] — Освіта викладачів для ШІ-грамотності (СТВ)
-- [[genai-motivation-engagement-2026]] — Генеративний ШІ, мотивація та залученість
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Чатботи ШІ, колективна ефективність та співпраця
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: оцінювання студентської тривожності з ВММ (2026)
-- [[policy-deficit-ai-sel-2026]] — Дефіцит політики в дослідженнях ШІ × СОЕ
-- [[culturally-aware-student-stress-chatbot-2026]] — Культурно свідомий чатбот із підтримкою ШІ для виявлення стресу та підтримки благополуччя серед студентів пакистанських університетів із використанням NLP і машинного навчання
-- [[daoism-ai-education-philosophy-2026]] — Альтернативна філософія ШІ: даосизм як метод для ШІ в освіті
-- [[ai-emotional-intelligence-teacher-development-2026]] — Реляційне згущення як критерій підтриманого ШІ розвитку викладачів
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Високе схвалення ШІ-курсів, що співіснує з самооціненою напругою, та тиск завдань, який послаблює адаптацію
-- [[ai-connectedness-adolescent-mental-health-2026]] — Зв’язність із ШІ та психічне здоров’я підлітків: доповнювальний проти компенсаторного зв’язку, з передбаченням перевернутого U
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Сприйнята інтелектуальність помічника ШІ, просування до цілей та психічне здоров’я, із ШІ-грамотністю як модератором
-- [[ai-emotion-regulation-sport-exercise-2026]] — Концептуальне переосмислення регуляції емоцій із підтримкою ШІ через спорт, фізичні вправи та екологію кампусу
-- [[faculty-ai-well-being-social-supports-2026]] — Модель структурними рівняннями для ШІ-благополуччя викладачів: ШІ-грамотність домінує над самоефективністю
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — Тривожність іспиту перерозподіляється, а не усувається

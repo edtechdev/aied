@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -95,42 +97,3 @@ ai_assist:
 - **«تصنيفات التفاعل محسومة.»** **عبر 46 تصنيفًا من 33 دراسة، تُسمّي تسميات متشابهة ظواهر مختلفة**، ولهذا تقترح المراجعة *حلقة التفاعل* كوحدة. فمخطّط ترميز مستعار من تصنيف واحد قد يقيس بناءً مختلفًا.
 - **«الطلاب يستخدمون الذكاء الاصطناعي كمدرّس خصوصي.»** فمن بين **38 طالبًا جامعيًا** يُنجزون مقالات جدلية بلا إشراف، استخدم **76.32% نمط السؤال–تلقي الإجابة–التوقّف بدور واحد**، ولصقوا عنوان التقييم عادةً. فالنمط السائد استدعاء بدور واحد، وليس تدريسًا خصوصيًا.
 - **«مزيد من استخدام الذكاء الاصطناعي يدل على مزيد من الانخراط بالمادة.»** وجد تحليل **200 جلسة برمجة مشتركة** أن **78.8% من تفاعلات الطالب مع الذكاء الاصطناعي التوليدي رمت إلى أهداف واستراتيجيات غير تمكُّنية**. فحجم التفاعل قاس شيئًا غير التوجّه نحو التعلّم، لذا فعدُّ الجلسات وكيل انخراط مضلِّل.
-
-
-## المفاهيم المتصلة
-- [[learners]] — المتعلّمون: المفهوم الجامع لمفاهيم جانب المتعلّم
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## المقالات المتصلة
-- [[ai-chatbots-emotional-support-human-connection-2025]] — تكرار الاستخدام والخبرة المقيَّمة ذاتيًا لم يتنبّآ بشيء عبر 819 طالبًا
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — التفويض المعرفي مقابل إعادة التخصيص في تقييمات الطلاب غير المُشرَفة مع الذكاء الاصطناعي التوليدي (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — «هل هذه مصيدة؟»: عدم تبنّي معلّمي المستقبل للذكاء الاصطناعي التوليدي في التقييمات (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — تحليل أنواع الاستفسارات في تفاعل الطالب مع الذكاء الاصطناعي
-- [[student-llm-interaction-taxonomy-review-2026]] — مراجعة تصنيف تفاعل الطالب مع النماذج اللغوية الكبيرة
-- [[teacher-authored-prompts-student-ai-dialogue]] — المطالبات التي يكتبها المعلّمون في حوار الطالب مع الذكاء الاصطناعي
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — بناء ثقافة الذكاء الاصطناعي المعرفية
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): دمج النماذج اللغوية الكبيرة في CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — فاعل تعليمي قائم على النماذج اللغوية الكبيرة (DBagent) في تعليم علوم الحاسوب
-- [[isaza-chatgpt-engineering-prompting-2026]] — سلوكيات المطالبة والدمج المُسجَّلة
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — معيبة لكن لا تُنسى: الاستقبال النقدي للطلاب لتشبيهات ذكاء اصطناعي توليدي مخصّصة بالاهتمام في تعليم الحوسبة
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — تصنيف المسالك الثلاثة لتفاعل الطالب مع الذكاء الاصطناعي: 46% مراجعة انفعالية، و18% سؤال مباشر، و36% حوار استراتيجي
-
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-

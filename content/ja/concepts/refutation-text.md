@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,25 +77,3 @@ foundations: [misconceptions]
 **「正しい概念についての情報を増やせば、抵抗は治る。」** 正しい情報の量は、すでに失敗している介入です。概念変容は、学習者の既存のモデルを明示化させ、それが不十分であると見出させることを要求し、それは証拠を加えるのとは別の教授上の動きです。
 
 **「誤概念と通常の無知は同じ治療を要する。」** 異なる治療を要します。無知は知識を供給することで扱われ、誤概念はまず座を追われなければなりません。二つ目を一つ目として扱うからこそ、よく説明された授業が学生の元のモデルを無傷で残しうるのです。
-
-## 関連する概念
-
-- [[pedagogical-patterns]] — 直接に矛盾する二つの結果を含む、反論の列
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## 関連する記事
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. interactive AI dialogue
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training as an adjacent refutation-style intervention
-- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
-- [[ai-learning-companions-framework]] — AI companions and misconception correction

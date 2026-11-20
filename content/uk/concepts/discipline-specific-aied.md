@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -109,51 +111,3 @@ ai_assist:
 - **«Дисципліна важлива переважно для прикладів змісту».** Дослідження на **560 студентах** виявило, що дисциплінарна належність **передбачає, як часто і як відкрито студенти використовують** [[generative-ai|генеративний ШІ]]. Дисципліна формує, чи інструмент узагалі використовують і чи розкривають це використання, а не лише те, про що його запитують.
 - **«Міждисциплінарність — це загальна інституційна мета».** **Форма «міждисциплінарного» сама визначається дисципліною**: [[xia-ai-interdisciplinary-higher-education-review-2026|огляд Xia та співавт. (2026)]] у [[meta-analysis-systematic-review|систематичному огляді]] виявляє, що форма, якої він набирає, варіюється за галуззю. Єдине інституційне визначення хибно прочитує принаймні частину дисциплін, які охоплює.
 - **«Професійна освіта має дослідницьку базу, зіставну з академічними дисциплінами».** Професійний напрям **найтонший у цих доказах**: систематичний огляд **26 досліджень** у професійній освіті та підготовці не знайшов **жодного, проведеного в умовах робочого місця** — тих умовах, де компетенція насправді застосовується. Відсутність літератури є прогалиною, а не нульовим результатом.
-
-## Пов’язані поняття
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Пов’язані статті
-
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Систематичний огляд ШІ в міждисциплінарній вищій освіті (59 досліджень)
-- [[llms-text-linguistics-teaching-2026]] — LLM у викладанні текст-лінгвістики
-- [[fowlin-operationalizing-learning-principles-ai]] — Операціоналізація принципів навчання за допомогою ШІ в освіті для медичних професій
-- [[designing-ai-professional-development-itpack-2026]] — Професійний розвиток зі ШІ на основі інтелектуального TPACK
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Специфічний для GenAI ТПЗ у педагогічній освіті
-- [[human-centered-ai-teacher-educators-2026]] — Професійне навчання критичній ШІ-грамотності для викладачів-педагогів
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Інтерпретативна когніція в освіті з гуманітарних і соціальних наук
-- [[becker-chatgpt-typology-physics-2026]] — Типологія використання ChatGPT в освіті з фізики
-- [[code-review-genai-cs1]] — Огляд коду за допомогою GenAI в CS1
-- [[ai-writing-support-stage-ownership-2026]] — Підтримка письма зі ШІ за етапами та власність
-- [[ai-engineering-education-balancing-act]] — Балансування ШІ в інженерній освіті
-- [[ai-literacy-career-adaptability-business-2026]] — ШІ-грамотність і кар’єрна адаптивність в освіті з бізнесу
-- [[jiang-genai-activity-theory-disciplines-2026]] — Теорія діяльності: дисциплінарні відмінності у використанні GenAI і розкритті (560 студентів)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Симуляція на основі ШІ в освіті з медсестринства: приріст у знаннях і впевненості, непослідовні ефекти на психомоторну навичку
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI як скаффолд або скорочення шляху в навчанні ІТ на рівні післядипломної освіти
-- [[ai-vocational-education-training-review]] — Перший систематичний огляд ШІ в професійно-технічній освіті та навчанні
-- [[genai-architectural-design-studios]] — Генеративні моделі в дизайн-студії: стимул, розширення простору рішень і фіксація
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Правила зупинки за оволодінням, які сертифікують надмірно узагальнене правило як компетентність

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -88,33 +90,3 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 **« Des effets positifs sur la motivation et sur les connaissances se renforcent mutuellement. »** Ils sont mesurés séparément et, dans la littérature plus large, programmés séparément : [[student-engagement|l'engagement et la réussite]] évoluent selon des calendriers différents, si bien qu'un jeu qui élève la motivation intrinsèque a démontré un seul résultat. Traiter le résultat motivationnel comme une corroboration du résultat cognitif gonfle un constat en deux parties en une affirmation plus forte que la conception ne la soutient.
 
 **« Si un jeu engage les étudiants, l'apprentissage découle du plaisir. »** Le plaisir est le mécanisme de livraison de la répétition qu'un jeu rend tolérable, non le mécanisme de l'apprentissage. Un jeu qui ajoute de l'engagement sans ajouter de pratique productive a ajouté la partie qui n'a jamais manqué.
-
-## Concepts liés
-
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en éducation à l'IA
-- [[virtual-and-augmented-reality]] — la pratique immersive et ludique se recoupent dans leur conception et leurs données probantes
-
-## Articles liés
-
-- [[ai-game-based-learning-systematic-review-2026]] — Revue systématique de 55 études sur l'apprentissage par le jeu assisté par IA : des résultats positifs, une base de données probantes mince
-- [[game-based-gamified-robotics-education-review-2026]] — Enseignement de la robotique par le jeu et ludifié
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
-- [[white-wu-robotics-ai-education-2026]] — La robotique et l'IA en éducation
-- [[genai-motivation-engagement-2026]] — L'IA générative, la motivation et l'engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — Charge NASA-TLX dans les conditions ludifiées/IA
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS : motivation et ludification assistée par IA
-- [[xie-genai-mystery-game-legal-education-2026]] — Un jeu de rôle d'enquête écrit par l'IAG comparé au cours magistral en formation juridique (Xie et coll. 2026)
-
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Conception et validation préliminaire d'un environnement d'apprentissage par le jeu amélioré par l'IA pour la pensée computationnelle
-- [[karampa-students-game-designers-ai-literacy-2026]] — Des élèves du primaire conçoivent un jeu de plateau d'évasion ; la littératie en IA progresse en un seul atelier

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -86,57 +88,3 @@ ai_assist:
 - **"रोबोट होने भर से रोबोटिक्स कम्प्यूटेशनल सोच सिखाता है।"** **53 अध्ययनों** की व्यवस्थित समीक्षा ने **समस्या-आधारित अधिगम, कहानी-कहन और स्कैफ़ोल्डिंग** को सर्वाधिक प्रयुक्त रणनीतियाँ पाया: परिणाम शैक्षणिकी ने वहन किया, और अध्ययनों ने वास्तव में वही किया।
 - **"भौतिक रोबोट स्क्रीन-आधारित विकल्पों को हर जगह हराते हैं।"** लाभ **कार्य-निर्भर** थे: [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] के लिए अल्पकालिक स्थानांतरण स्कोर **60% अधिक** था (4.4/10, p = .003), जिसे लेखक **सामान्य प्रतिस्थापन के बजाय स्थानिक सह-स्थिति** के कारण मानते हैं। दावा विशिष्ट कार्यों पर सह-स्थिति का है, सामान्य रूप से भौतिकता का नहीं।
 - **"किंडरगार्टन CT अर्थपूर्ण होने के लिए बहुत जल्दी है।"** समीक्षित साक्ष्य किंडरगार्टन रोबोटिक्स को सीधे कवर करते हैं, जिसका अर्थ है कि यह आयु-वर्ग अध्ययन किया गया है, अनुपयुक्त मान लिया गया नहीं।
-
-## संबंधित अवधारणाएँ
-- [[early-childhood-elementary-ai-education]] — प्रारंभिक बचपन और प्राथमिक AI शिक्षा
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — छत्र: AI तकनीकें और तकनीकी (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-
-## संबंधित लेख
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — औपचारिक शिक्षा में Pepper रोबोट की स्कोपिंग समीक्षा
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI-संवर्धित देहधारित रोबोट-सहायित भाषा अधिगम का मेटा-विश्लेषण
-- [[white-wu-robotics-ai-education-2026]] — शिक्षा में रोबोटिक्स और AI
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — एक विज़न-लैंग्वेज मॉडल Nao रोबोट के लिए Shoebox Tasks की योजना बनाता है (Kudláčková 2026)
-- [[computational-thinking-educational-robotics-secondary-2026]] — संगणनात्मक चिंतन और शैक्षिक रोबोटिक्स
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — उत्पादक सामाजिक रोबोटों के लिए ज्ञान-आधारित डिज़ाइन
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — शैक्षिक HRI में कार्य संदर्भ और विश्वास
-- [[human-autonomy-agency-hri-review-2025]] — HRI में मानवीय स्वायत्तता और सक्रियता
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub कथा HRI
-- [[pepper-robot-sign-language-lis-2025]] — Pepper और सांकेतिक भाषा
-- [[social-robot-study-companions]] — अध्ययन साथी के रूप में सामाजिक रोबोट
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — रचनात्मक लेखन में रोबोट-LLM एकीकरण
-- [[game-based-gamified-robotics-education-review-2026]] — खेल-आधारित और गेमिफाइड रोबोटिक्स शिक्षा
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — AI-संचालित शैक्षिक रोबोटिक्स सीखने के मार्ग (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — किंडरगार्टन में रोबोट-माध्यमित CT
-- [[ai-toys-child-development-2026]] — AI-सक्षम खिलौने और बाल विकास
-- [[creative-project-approach-ai-early-childhood-2025]] — रचनात्मक परियोजना दृष्टिकोण: प्रारंभिक बचपन की परियोजनाओं में कोडिंग और उत्पादक सामाजिक रोबोटों का एकीकरण (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — कक्षा-रोबोट के पाँच कार्यात्मक रूप से विशिष्ट प्रकार, स्क्रिप्ट निर्धारित प्रदर्शन से एक-एक सहानुभूतिपूर्ण संवाद तक (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: एक केंद्र-आधारित ढाँचा जो ग्रामीण K–12 रोबोटिक्स कार्यक्रमों पर बाधा को तकनीकी मेंटरशिप क्षमता और केंद्र-भूगोल मानता है, हार्डवेयर नहीं (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — हाई-स्कूल छात्रों को रेनिफ़ोर्समेंट लर्निंग और मानवरूपी रोबोटिक्स सिखाना: कम लागत के खुले मंच पर एक विशेषज्ञ-मान्य पाठ्यक्रम डिज़ाइन
-- [[aifred-desk-robotic-ai-guidance-2026]] — एक डेस्क-माउंटेड रोबोट प्रोजेक्टर: सह-अवस्थित मार्गदर्शन ने वहाँ स्थानांतरण संरक्षित किया जहाँ लैपटॉप ChatGPT ने उसे खोया

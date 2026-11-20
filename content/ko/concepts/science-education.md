@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -65,9 +67,7 @@ AI 채점은 고부담 과제에서 빠르게 발전하고 있습니다. [[ai-gr
 
 교사의 준비도가 결정적입니다. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]]는 가나의 예비 과학교육 교사들이 AI에 대해 긍정적 태도와 강한 의도를 가지지만 실제 교실 사용은 중간 정도임을 발견했습니다. 이는 [[teacher-ai-competency]]와 [[governance|제도적]] 지원이 진짜 지렛대임을 보여주는 의도–사용 격차입니다. [[becker-chatgpt-typology-physics-2026|Becker et al.]]와 [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]는 물리 학생들이 비판적이지 않은 수용자가 아니라 도메인에 맞춰 보정된 회의주의자임을 기록합니다: 50포인트 신뢰–활용 격차(91% 사용, 41% 신뢰)와 획일적 정책에 도전하는 두 개의 뚜렷한 사용자 프로필(Pragmatic Users 대 Skeptical Non-Users)이 그것입니다. 기술 낙관론과 균형을 이루어, [[avraamidou-ai-colonization-science-education|Avraamidou]]는 과학 교육의 "AI 식민화" — 동의 없는 추출, 알고리즘적 단일 재배, 비인간화되고 이윤 중심의 개혁 — 을 경고하며, 이윤보다 정의를 우선하는 페미니스트적이고 인간 중심의 AI를 촉구합니다. 한편 [[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]의 18개 연구 체계적 검토는 [[ethics|윤리적]] 위험(편향, 환각, [[academic-integrity|표절]], 독립적 사고의 침식)과 [[teacher-education|교사 훈련]] 및 의식적 사용의 필요성을 강조합니다. 열세 개 문서 전체에 걸친 총체적 교훈은 과학 교육의 AI가 건전한 탐구, [[scaffolding]], [[assessment]] 설계 안에 내장될 때 향상을 제공하고, 학생들이 스스로 해야 하는 인식론적 작업을 대체할 때 학습을 저해한다는 것입니다.
 
-
 **일반적인 AI 친숙도는 그 학문 자체의 도구로 전이되지 않았습니다.** 카자흐스탄 한 대학의 지리학 학생 100명 가운데, AI와 GIS로 가르칠 준비도는 GIS 친숙도(ρ = 0.508)와 GeoAI 지식(ρ = 0.425)을 따랐으나 일반 AI 친숙도(ρ = 0.071, p = 0.485)는 따르지 않았습니다. 이는 도구 형태의 학문 분야에서의 [[teacher-education|교사 준비]]에 주는 교훈입니다([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov et al. (2026)]]). 67%가 어떤 형태로든 준비되었다고 답했으나 실제로 그 결합을 사용한 사람은 6%뿐이었고 43%만이 제공되는 교육이 충분하다고 판단했습니다. 이 평가는 [[self-report-measures|자기보고]]이며 타당화되지 않았으므로, 이 학생들이 자신에 관해 말하는 바를 기술할 뿐입니다.
-
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]는 범용 모델이 과학 콘텐츠 자체를 얼마나 잘 다루는지 묻습니다: 중학교(1,078 문항)와 고등학교(1,150 문항)의 NGSS 정렬 문항 세트에서, 9개의 오픈 웨이트 모델은 대부분 90%를 넘었고, 모델 크기는 정확도와 무관했으며, 한 과학교사가 표집한 240개 중 236개 문항(98.3%)이 정렬되어 있다고 판단하면서도 도형, 자료 해석, 수학적 표상의 부재를 지적했습니다. 텍스트 전용 문항은 모든 NGSS 성과 기대를 행사할 수 없습니다. 높은 [[item-response-theory|문항 난이도]]와 낮은 변별도는 문항이 개선되어야 하는지, 아니면 이 부류의 모델에게 중등 과학이 다루기 쉬워진 것인지를 열어 둡니다. 그리고 저자들은 다중 회차의 증거 기반 피드백이 결여된 표준이라고 촉구합니다.
 
@@ -80,39 +80,3 @@ GenAI와 동기에 관한 42개 연구 메타분석에서 가장 작은 교과 �
 - **"과학 교육에서 AI에는 인과적 증거가 없다."** GCSE 과학에서 AI 수정 플랫폼의 **4주 무작위 평가**는 **Hedges' g = 0.33**의 인과적 추정치를 제공하며, **효과가 과목에 따라 달랐다는 증거는 없습니다**. 효과는 완만하며 인과적입니다.
 - **"학생들에게 접근을 주면 이득이 따라온다."** **이득을 이끄는 것은 접근 자체가 아니라 구조화된 접근입니다**. 팀이 보고한 성장은 **무제한 개인 접근에서 평균 17%였으나 접근이 구조화되었을 때 34%와 31%**였습니다. 구조가 개입이었습니다.
 - **"과학적 시뮬레이션에는 전문 소프트웨어가 필요하다."** **네 요소로 된 자연어 프롬프트**가 **손으로 제어하는 증강 현실 물리 시뮬레이션**을 생성할 수 있습니다. 시뮬레이션 제작의 장벽이 프롬프트 설계로 낮아졌고, 이는 필요한 기술을 프로그래밍에서 현상 명세로 옮깁니다.
-
-## 연결된 개념
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## 연결된 문서
-- [[ai-methodologies-science-education-research-2026]] — AI 방법론이 과학교육 연구를 어떻게 변화시킬 수 있는지 성찰하기 위한 7단계 인식론적 반복 프레임워크 (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — 과학 및 화학 교육에서의 AI에 관한 체계적 문헌 고찰
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM 탐구 기반 학습을 위한 ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 광합성과 호흡에서 AI 지원 안내 탐구
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 열과 온도에 관한 개념 변화 텍스트와 AI 대화 비교
-- [[ai-grading-handwritten-physics-2026]] — 손글씨 물리학 평가의 대규모 AI 채점
-- [[avraamidou-ai-colonization-science-education]] — 과학교육의 AI 식민화에 관한 비평
-- [[pre-service-science-teachers-ai-perceptions-2026]] — 예비 과학교사의 AI 인식과 수용
-- [[ai-assisted-inquiry-ssi-climate]] — 기후 변화의 사회과학적 쟁점에 관한 AI 지원 탐구
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 혁신의 속도로 AI 튜터링 평가하기: GCSE 과학에서 AI 튜터링 플랫폼의 실천자 주도 마이크로 무작위 시험
-- [[llm-benchmark-secondary-science-topics-2026]] — 중·고등학교 과학 주제에 대한 LLM 이해력 벤치마크
-- [[nature-of-science-generative-ai-2026]] — 생성형 인공지능 시대의 과학의 본성: 인식론적 권위, 물질성, 시너지적 대응
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 교육과정, 수업, 평가에 걸친 일관성으로서의 과학 리터러시에 관한 틀 장(Zhai et al. 2026)
-- [[ai-university-physics-education-review-2026]] — 구조화된 팀 접근이 대학 물리 AI 검토에서 무제한 개인 접근을 앞섰다
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — 일반적인 AI 친숙도가 GeoAI 준비도로 전이되지 않았다
-
-- [[genai-learning-motivation-meta-analysis-2026]] — 동기 구간이 0을 가로지르는 유일한 영역(g = 0.109, k = 3)

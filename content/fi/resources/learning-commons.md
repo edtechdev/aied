@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -49,12 +50,3 @@ Kehittäjille, jotka rakentavat tekoälyominaisuuksia opetussuunnitelma- ja [[as
 ## Huomioita ja varauksia
 
 Avoimuus [[open-source|lähdekoodissa]] ei tee datasta avointa. Knowledge Graphin ja Evaluatorsin koodi on MIT ja Agent Skills on Apache-2.0, kun taas jokaisella datalla on oma käyttöluokansa – Open, Open + Gated tai Gated – ja Gated-sisältö ei kuulu niiden avoimien lisenssien piiriin, joihin repositorio viittaa, joten tarkista dataluettelosta uudelleenkäyttöoikeudet ennen kuin oletat niitä. Evaluatorsin kehotteiden sisältö on CC BY 4.0, mutta annotoidut CLEAR- ja PERSUADE 2.0 -korpukset, joita ne käyttävät, ovat CC BY-NC-SA 4.0. Alusta ja sen taustalla olevat datat vaativat tilin.
-
-## Liittyvät käsitteet
-
-- [[curriculum-design]] — graafi on olemassa, jotta tuotettu sisältö voidaan kohdistaa standardeihin ja opetussuunnitelmiin
-- [[open-source]] — MIT- ja Apache-2.0-koodia, datan lisensointi datakohtaisesti
-- [[educational-nlp]] — arvioijat ovat tekstinmittauskerros LLM-tuotoksen päällä
-- [[agentic-ai]] — taitoja, jotka paketoivat työnkulun mallin toteutettavaksi
-- [[edtech-platform]] — Curriculum Sync lataa opetussuunnitelmat oppimisen hallintajärjestelmään
-- [[llm]] — arvioinnin kohde ja taitojen käyttäjä

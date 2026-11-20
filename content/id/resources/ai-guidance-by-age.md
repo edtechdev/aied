@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -52,11 +53,3 @@ Panduan ini jujur tentang statusnya sendiri. Penulisnya menyebut entri sebagai h
 Dua batas lain penting untuk pengajaran. Rekomendasinya adalah pemicu desain, bukan intervensi yang teruji; tidak ada apa pun di situs yang melaporkan hasil. Dan struktur rentang usia memaksakan kisi kasar pada perkembangan yang bervariasi di dalam rentang, lintas budaya dan lintas konteks, yang diakui panduan itu sendiri.
 
 Pembingkaian yang layak dibawa ke praktik adalah milik situs itu sendiri: jaga lingkarannya tetap manusiawi, lalu tentukan di mana AI masuk di dalamnya, alih-alih menaruh titik pemeriksaan manusia di dalam lingkaran yang menjadi milik mesin — kekhawatiran yang sama yang dicatat korpus sebagai risiko [[cognitive-offloading|pengalihan beban kognitif]] ketika alat mengambil alih bagian tugas yang tadinya melakukan kerja perkembangan.
-
-## Konsep terkait
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

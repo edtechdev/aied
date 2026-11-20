@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -84,29 +86,3 @@ SAMR se comprend au mieux comme une lentille de profondeur d'intégration utilis
 **« SAMR et TPACK sont des cadres concurrents. »** Ils décrivent des choses différentes : SAMR décrit le *degré de transformation* d'une tâche, tandis que [[tpack|TPACK]] décrit le *savoir* dont un enseignant a besoin pour bien intégrer la technologie. Un enseignant peut être très compétent en TPACK et opérer néanmoins à la Substitution, ce qui explique qu'on les utilise ensemble plutôt qu'on ne choisisse entre eux.
 
 **« Un outil transformatif à un niveau est transformatif à tous les niveaux. »** Le même outil génératif peut soutenir une Substitution dans un cours et une Redefinition dans un autre, parce que le niveau est une propriété de la conception de la tâche plutôt que de la technologie. Attribuer le niveau à l'outil produit des décisions d'adoption à la place de décisions de conception.
-
-## Concepts liés
-
-- [[ai-education]] — L'IA dans l'éducation (ensemble)
-- [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Modèles d'adoption des technologies
-- [[icap-framework]] — Le cadre ICAP d'engagement cognitif
-- [[ai-technologies]] — Technologies et techniques d'IA
-- [[teacher-ai-competency]] — Compétence en IA de l'enseignant
-- [[educational-development]] — Développement éducatif
-- [[learning-design]] — Conception pédagogique
-- [[k-12]] — Enseignement primaire et secondaire
-- [[higher-ed]] — Enseignement supérieur
-- [[generative-ai]] — IA générative
-
-## Articles liés
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — L'intégration de l'IA dans l'enseignement supérieur notée avec SAMR : surtout Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP et SAMR projetant les quatre scénarios cuisine-apprentissage
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR parmi les lentilles du changement de curriculum mené par l'IA générative
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR parmi les cadres qui informent les standards technologiques du corps professoral
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — La critique posthumaniste de l'ontologie humaniste de SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Le silence de SAMR sur le pouvoir, la propriété des données et la responsabilité
-- [[genai-use-changing-institutional-policy-physics-2026]] — L'usage de l'IA générative par les étudiants sous des politiques institutionnelles changeantes : les fonctions d'usage projetées sur les niveaux SAMR (Quince et Faulconer 2026)
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — L'IA dans les classes de mathématiques : une stratégie synergique pour la diversité et l'inclusivité

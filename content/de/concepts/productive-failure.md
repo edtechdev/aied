@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -104,39 +106,3 @@ Produktives Scheitern verbindet sich mit [[learning-theories|Lerntheorien]] (Kon
 - **„Hilfe zurückzuhalten frustriert Lernende und kostet Motivation.“** Eine dreifacharmige [[rct|RCT]] fand, dass ein Hinweise zurückhaltender Tutor **beim Rückgang von Frustration mit uneingeschränktem ChatGPT gleichzog** und bei der Motivation — die Kosten zeigten sich **allein in der Präferenz**. Lernende hatten weniger Freude daran und litten nicht darunter, was bedeutet, dass Präferenzdaten das Design verworfen hätten, das funktionierte.
 - **„Mehr Frustration bedeutet mehr Lernen.“** Der eskalierende Tutor war **0,42 Skalenpunkte frustrierender als der Tutor, der auf Anfrage antwortete (p < .001), und 0,29 weniger frustrierend als** der frustrierendste Arm. Der produktive Bereich ist eine Mitte, kein Maximum, sodass „wünschenswerte Schwierigkeit“ es nicht rechtfertigt, die Aufgabe unbegrenzt schwerer zu machen.
 - **„Produktives Scheitern heißt, dass Lehrkräfte nicht helfen sollten.“** Das Design hält *die Antwort* zurück und liefert zugleich Struktur und Eskalation. Einen Hinweis zurückzuhalten und Unterstützung zurückzuhalten sind verschiedene Interventionen, und nur die erste ist diejenige mit Belegen an dieser Stelle.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Versuch-vor-Anweisung als volle Sequenz, mit ihrer dünnen Evidenzbasis
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — Fälle als gemeinsamer Problemraum für den ersten Versuch
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Verbundene Artikel
-
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung auf produktivem Scheitern beruhenden Lernens
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
-- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Designs von PF-Problemen
-- [[wang-safety-gap-productive-struggle-2026]] — Die Safety Gap: produktives Ringen zurückgewinnen
-- [[lukesova-clue-before-correction-2026]] — Hinweis vor der Korrektur: ChatGPT für autonomes Lernen
-- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhalten von Lösungen vermied die Frustrationskosten, verlor aber bei der Präferenz der Studierenden
-- [[shen-ai-skill-formation-2026]] — Median 3 Fehler ohne KI gegenüber 1 mit KI und 17 % höhere Quiz-Ergebnisse ohne Unterstützung (Shen & Tamkin 2026)

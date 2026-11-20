@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -84,7 +86,6 @@ Les agents doivent étayer dynamiquement, et non statiquement : [[agentic-ai-ped
 
 **L'atténuation peut être désapprise par un tuteur.** Un tuteur entraîné par apprentissage par renforcement multi-tours, récompensé uniquement sur le problème courant, et une variante masquée de quasi-transfert ont cessé d'atténuer le soutien et d'assigner un travail indépendant, bien que rien n'ait pénalisé ni l'un ni l'autre, parce que leur rendement se situe au-delà d'un seul épisode de dialogue ([[assistance-dilemma-rl-tutoring-2026|Macina, Kapur et Sachan, 2026]]). Un horizon de récompense qui s'arrête au problème effacera l'atténuation qu'une conception prescrit.
 
-
 Une quatrième zone rend visible la source de l'étayage : [[scan-framework-task-assignment-generative-ai-2025|Tsim et Gutoreva (2025)]] ajoutent « connu de l'IA générative » aux zones de Vygotsky, si bien qu'une tâche relève de Substitute, Complement, Aid ou Non-negotiable — et Non-negotiable recouvre ce qui exige une personne parce que c'est normatif, tacite ou trop risqué à déléguer.
 - **Placer l'IA selon la phase de l'idée, et non selon le cours.** Le cadre de placement en six gestes tient l'IA à l'écart de la première tentative difficile et de la vérification finale sans aide, tout en l'autorisant entre les deux pour les indices, les exemples et le forage ; si l'IA rend la tâche apparemment sans effort, elle est au mauvais endroit ([[brcic-effortless-trap-productive-struggle-2026|Brcic et Frljic, 2026]]).
 
@@ -116,60 +117,3 @@ L'étayage peut résider dans le devoir plutôt que dans l'outil. Dans une secti
 - **« L'étayage est un niveau de soutien constant. »** L'annotation par des experts de **207 consultations** a montré que le besoin d'étayage était **fortement dépendant de la phase, passant d'environ 16,1% des énoncés étudiants tôt** dans l'entretien. Un niveau d'étayage unique est mal alloué aux deux extrémités de la même consultation.
 - **« N'importe quelle condition de contrôle structurée est une comparaison équitable pour l'étayage. »** À l'[[summative-assessment|examen]], le bras étayé battait encore une véritable alternative à divulgation progressive (**71,8% contre 55,6%**), si bien que le gain était mesuré contre une véritable alternative [[pedagogy|pédagogique]] plutôt que contre rien.
 - **« Les effets de l'étayage sont généraux. »** Le gain était de **16,4 points de pourcentage (P = 3.30e-4)**, avec la plus forte amélioration en **communication (g de Hedges = -0.79)**. L'effet se concentrait sur un résultat, si bien qu'une moyenne sur les résultats sous-estime ce qui fonctionne et surestime ce qui ne fonctionne pas.
-
-## Concepts liés
-- [[pedagogical-patterns]] — Où, dans la séquence, le soutien a sa place, et pourquoi la tentative avant l'aide est la règle porteuse
-- [[problem-based-learning]] — L'apprentissage par problèmes intègre des étayages à atténuation autour de problèmes mal structurés
-- [[learning-by-teaching]] — L'étayage de la construction de connaissances par l'explication
-- [[sociocultural-learning]] — Fondement vygotskien : la ZPD et l'apprentissage socialement médiatisé
-- [[cognitive-offloading]] — Un étayage qui ne s'atténue jamais crée une dépendance excessive
-- [[feedback]] — L'étayage délivre une rétroaction formative à mesure que le soutien s'atténue
-- [[ai-literacy]] — Reconnaître quand l'étayage soutient plutôt qu'il ne déplace l'apprentissage
-- [[intelligent-tutoring]] — Les systèmes de tutorat intelligent adaptent l'intensité de l'étayage aux estimations de maîtrise
-- [[socratic-method]] — L'interrogation qui retient les réponses directes
-- [[metacognition]] — Des étayages qui construisent l'auto-suivi et l'autorégulation
-- [[adaptive-learning]] — Les systèmes adaptatifs modulent le soutien au sein de la ZPD de l'apprenant
-- [[learning-design]] — L'étayage est une stratégie fondamentale de conception pédagogique
-- [[help-seeking]] — L'étayage façonne quand et comment les apprenants demandent de l'aide
-- [[teacher-role]] — Les enseignants étayent, puis atténuent à mesure que la compétence croît
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en IA en éducation
-- [[agentic-ai]]
-- [[productive-failure]] — L'échec productif
-
-## Articles liés
-- [[kumar-genai-computing-education-systematic-review-2026]] — Le retrait de l'étayage comme mécanisme appliquant la vérification (cadre VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Évaluation d'un système multi-agents à grands modèles de langue orienté vers l'étayage pour la formation à l'entretien clinique
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Les commentaires d'IA calés par entropie comme étayage de connaissance et émotionnel dans la vidéo (Wang, Du et Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — La formulation guidée à un grand modèle de langue comme intervention d'apprentissage structurée
-- [[scaffolding-critical-engagement-genai-minority-students]] — Étayage culturellement adapté de l'engagement critique avec l'IA générative
-- [[rethinking-scaffolding-llm-tutors]] — Patrons de conception pour l'étayage dans les tuteurs à grands modèles de langue
-- [[concept-catalyst-engineering-scaffolds]] — Étayages Concept Catalyst pour le changement conceptuel
-- [[correct-answer-trap-ai-tutor]] — Quand les indices aident et quand ils encouragent la dépendance excessive
-- [[critical-thinking-genai-scaffolding]] — L'étayage de la pensée critique avec l'IA générative
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Rédaction narrative étayée avec Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — De la substitution à l'étayage : rompre le cycle de préjudice auto-renforcé
-- [[preferred-scaffolding-ai-mathematical-modeling]] — L'étayage préféré dans la modélisation mathématique assistée par IA
-- [[agentic-ai-pedagogical-best-practice-2026]] — Les étayages dynamiques (à atténuation) comme garde-fou pour l'IA agentique
-- [[zhang-tutormoments-2026]] — Quand l'aide est inutile : évaluer les tuteurs d'IA pour la lutte productive
-- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Orientation pédagogique des grands modèles de langue pour l'échec productif
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Rendre le tutorat par IA productif : pratique des mathématiques fondée sur la maîtrise
-- [[brcic-effortless-trap-productive-struggle-2026]] — IA sous surveillance ou sans surveillance : la règle de placement (Brcic et Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — La conception expérimentale assistée par IA en chimie pratique
-- [[scaffolding-systematic-reviews-2026]] — L'étayage des revues systématiques par le mentorat et l'IA (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — L'agentivité des enseignants en formation lors des interactions avec l'IA générative dans la conception pour l'apprentissage (Krushinskaia, Elen et Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — L'IA à travers les pédagogies de la pratique en formation des enseignants de mathématiques : une rétroaction structurée de répétition a accru les questions d'investigation (Bondurant et Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — L'intégration de l'IA comme conception pédagogique : la critique des sorties de l'IA doit être assignée, et l'analyse disciplinaire vient d'abord
-- [[ai-literacy-tool-design-programming-education-2026]] — Un accompagnateur d'étude d'IA à budget d'indices : usage étayé ou non de l'IA générative, et pourquoi la contrainte seule n'a pas produit d'apprentissage (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN : l'étayage recadré comme la décision de savoir à quelle sous-zone une tâche appartient
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — La notation automatisée comme étayage formatif : elle ne se convertit en gain que là où le déficit visé est décomposable, fiable et mis à l'échelle de façon sensible (Chen et Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — L'étayage adaptatif en boucle fermée qui suit la frontière actuelle de l'apprenant dans la pratique musicale, avec la détection d'erreur comme triage (Zhu et coll. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — La forme de l'étayage doit correspondre à la capacité développementale des enfants, pas seulement à la tâche (Niu et coll. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Les étayages doivent imposer la traduction représentationnelle et la vérification, puisque les étudiants ne peuvent vérifier ce qu'ils ne comprennent pas (Vega-Baudrit et Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — L'IA générative comme étayage par formulation qui fait le pont de l'intuition visuelle à la démonstration déductive en géométrie, là où la visualisation seule est insuffisante (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examen de la variation dans la manière dont les tuteurs d'IA guidés résolvent les impasses des étudiants
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Former l'apprenant comme étayage de l'usage de l'IA générative dans la résolution de problèmes en STIM (Huang et coll. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Couches d'étayage des contenus et du temps dans un cours à rythme libre, avec les taux de démarrage tardif et d'échec selon le moment d'étude
-- [[assistance-dilemma-rl-tutoring-2026]] — Le dilemme de l'assistance : entraîner un tuteur RL multi-tours dont l'horizon de récompense s'arrête au problème désapprend l'atténuation (Macina, Kapur et Sachan 2026)
-- [[stone-gpt5-kinematics-sensemaking-2026]] — une grille de notation, et non un meilleur modèle, a fait passer le dialogue des étudiants de la recherche de recettes à la pensée à voix haute (Stone, Zhang & Utter, 2026)

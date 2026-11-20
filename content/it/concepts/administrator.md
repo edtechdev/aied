@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -75,32 +77,3 @@ La prospettiva dell'amministratore si collega alle [[educational-policy-ai|polit
 - Chieda su che cosa uno strumento possa essere valutato prima di firmare. Se il contratto non consente l'accesso agli esiti, ai dati di audit o ai dettagli d'uso, l'istituzione ha acquistato una capacità che non può valutare.
 - Indaghi l'uso effettivo anziché l'uso autorizzato, perché i due divergono e il numero non autorizzato è quello che porta un rischio a cui si è già esposti.
 - Anticipi la politica rispetto al dispiegamento dove la leva esiste ancora. Una volta che l'uso è diffuso, la politica diventa negoziazione con una pratica già assestata.
-
-## Concetti collegati
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Ombrello: persone e pubblici nell'educazione all'IA (discenti, insegnanti, progettisti, amministratori, responsabili delle politiche)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — i processi istituzionali gestiti dagli amministratori: orientamento, contatto, segnalazione e allocazione
-
-## Articoli collegati
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — Uno screening di approvvigionamento in quattro domande, inquadrato come diritti degli studenti anziché come gestione del rischio

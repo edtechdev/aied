@@ -28,6 +28,8 @@ translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 updated: "2026-11-08T10:26:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -93,43 +95,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 - **«الدرجة العالية تعني أن الطالب أنجز العمل الذي صمّمناه.»** قد تتباعد الآثار عن الدرجات صراحةً: عبر **150 محادثة بين طالب وذكاء اصطناعي**، **حملت 41% منها درجة مهمة بالضبط 1.00 مع تباين المشاركة المعرفية المرئية**. فتشبع الدرجة بينما لا تفعل العملية التي كان يُفترض أن تُنتجها.
 - **«بيانات العملية غير قابلة للإدارة على النطاق.»** أثبت التوثيق المطلوب جدواه على نطاق المقرر عبر **ستة فصول دراسية من مقررات أساليب البحث للدراسات العليا اللاتزامنية ذات الستة أسابيع التي خدمت نحو 440 معلّمًا من مرحلة K-12**. فاللوجستيات كانت قابلة للحل؛ والاعتراض يبالغ في تقدير الكلفة.
 - **«حلّ المشكلات كلّي إلى حدّ يعذّر تقويمه بالعملية.»** يمكن تشغيله كـ**أربع مراحل وثماني مهارات تشخيصية فرعية**، بما يتيح لنموذج لغوي كبير توليد **أسئلة وسلالم خاصة بكل مرحلة** — استُخدمت مع **خمسة مدرّسين و64 طالبًا**. فالتفكيك هو ما جعل العملية مقروءة وقابلة للتقويم.
-
-## مفاهيم مترابطة
-- [[pedagogical-patterns]] — نقاط تحقق مرحلية ودليل عملية كتصاميم متسلسلة
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## مقالات مترابطة
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — مراجعة سردية نقدية ترى أن الإخفاق الافتراضي هو دعم ذكاء اصطناعي لا يتلاشى أبدًا مقرونًا بتقويم المنتج وحده (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
-- [[munoz-misconduct-allegation-evidence-2026]] — what misconduct case files contain, and the process evidence they lack
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — which inference is at risk when assessment evidence is substituted
-- [[beyond-detection-authentic-assessment-ai-2025]] — authenticity must be redesigned, not policed
-- [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
-- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
-- [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: دعم المدرّسين في تشخيص مهارات الطلاب في حلّ المشكلات الرياضية عبر أسئلة مولَّدة بالنماذج اللغوية الكبيرة
-- [[packard-thinking-partner-framework-adult-learners-2026]] — توثيق نقاط التحقق لحوار الذكاء الاصطناعي بلغ إنجازًا بنسبة 96% عبر ستة فصول دراسية ونحو 440 معلّمًا
-- [[rubrics-genai-process-based-assessment-2026]] — ثلاثة أبعاد لسلّم التقدير من نموذج Biggs 3P: الفاعلية والإشراف، والسقالة الحوارية، والسيادة المعرفية (Oviedo و Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — محرّر CodeMirror زائد لوحة محادثة مسجَّلة حوّلا جلسة مقال واحدة إلى دليل عملية، بحدّه بين الكتابة والتفكير (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — تصورات العملية زائد جلسة تأمل واحدة نقلت المراجعة من السطح إلى المعنى دون زيادة حجم التحرير

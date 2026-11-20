@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -84,45 +86,3 @@ Simüle konuşma üzerine çalışmaların çoğu, bir ajanın rolünü ne kadar
 - **“Simülasyon daha ucuzdur ve dolayısıyla ikinci en iyidir.”** Özerk [[llm|LLM]] sim-pilotları, **hava trafik kontrolü simülasyonlarında görev alan uzman insan rol oyuncularının yerini alarak bir eğitim kapasitesi darboğazını ortadan kaldırır**; kısıt sadakat değil, personeldi. İnsan rol oyuncularının kıt olduğu yerlerde LLM simülasyonu bir ikame değil, mevcut tek seçenektir.
 - **“Simülatörler ortalama vakalar gibi davranmalıdır.”** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin ve ark., 2026)]], bir politika ajanını **karşıt davranacak biçimde kurulmuş LLM hasta simülatörleriyle** eşleştirir. İşbirlikçi olacak biçimde tasarlanmış bir simülatör, öğrenenin pratiğini klinikten daha kolay kılar; bu da eğitimin ihtiyaç duyduğunun tam tersidir.
 - **“Betiklenmiş senaryolar belirsizlik altında karar vermeyi öğretir.”** SupplyNet’in bağlama duyarlı çok ajanlı ajanları, **betiklenmiş** diziler yerine öğrenen kararlarından **doğan dinamikler** üretir. Betiklenmiş senaryolar bilinen bir yolu prova eder; doğaçlama olanlar kararı prova eder.
-
-## Bağlı kavramlar
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deney felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim yardımcıları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özelleşmiş araçlar
-- [[ai-technologies]] — Çatı: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, etmen)
-- [[virtual-and-augmented-reality]] — modalite değil model — sürükleyici ortamlar çoğunlukla bir simülasyonu sunar
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Bağlı makaleler
-- [[learner-agency-ai-simulation-2026]] — Karmaşık sistem simülasyonunda parametre denetimi ve isteğe bağlı bir YZ ajanı: kazanımlar erişimi değil eyleme dönüşümü izledi
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Psikoterapi Eğitimi için Uyarlamalı Sanal Hastalar
-- [[ai-enabled-serious-games]] — YZ Destekli Ciddi Oyunlar
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Sıradan müdahaleci eğitimi için robot aracılı rol yapma oyunu (uygulamalı drama)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Senaryo temelli sağlık eğitiminde üretken YZ’nin sistematik derlemesi (Neto ve ark. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — İşletme simülasyon oyunlarında YZ konuşma ajanları için CAIS-GBL çerçevesi (Wenzel ve ark. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — İşbirlikçi problem çözme diyaloglarını yeniden üreten ince ayarlı katılımcıya özgü LLM ajanları (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Çok ajanlı özel ders ve katılım açısından dengelenmiş işbirliği için ASTRA sentetik kıyaslaması
-- [[simulation-assisted-drone-learning-stem-2026]] — Öğretmen–YZ birlikte tasarlanan iskelelemeyle simülasyon destekli drone öğrenimi
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Hemşirelikte YZ destekli simülasyon: karma yöntemli sistematik derleme (özgünlük boşluğu, kademeli süreklilik)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Ölçeklenebilir YZ temelli klinik iletişim eğitimi ve otomatik değerlendirme
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM eğitiminde dijital ikizler: prototiplerin tümü çalıştı, öğrenme kazanımları çoğunlukla çalışmadı
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Temsil edilen pratiği, simüle edilen durumu, ajanlık ve uyarlamayı ve düzenlemeyi ayıran dört katmanlı çerçeve
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — Teknoloji benimsemesinden müfredat tutarlılığına: sağlık meslekleri eğitiminde bir köprü olarak teknoloji destekli simülasyon
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Bir öğretmenin simülasyon döngüsü boyunca bir konuşma ajanına devredemeyeceği şey

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -64,25 +66,3 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - **„Eine mittlere Effektstärke identifiziert das richtige Werkzeug.“** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] finden, dass KI-basierte Interventionen einen mittleren positiven Effekt auf Lernleistungen von Studierenden mit Behinderungen erzielen (**g = 0,588**) — über Roboter, Software und intelligente VR hinweg. Das ist ein Durchschnitt über sehr unterschiedliche Technologien für sehr unterschiedliche Bedarfe, der die Kategorie stützt und nicht die Wahl innerhalb der Kategorie.
 - **„Ein Zugang, der eine Diagnose voraussetzt, ist ein vertretbares Design.“** Eine formale Diagnose zu verlangen, um teilnehmen zu dürfen, schließt Lernende mit realem Bedarf und ohne Etikett aus, was [[universal-design-for-learning|Universal Design for Learning]] widerspricht und die Kosten des Zugangs auf die Dokumentation der oder des Studierenden verlagert.
 - **„Mehr assistive Werkzeuge bedeuten mehr Inklusion.“** Ein Scoping Review prüfte **766 Datensätze** über fünf Datenbanken, und die Menge der Erträge ist nicht dasselbe wie die Abdeckung des Bedarfs — die Zahl der Studien pro Barriere ist die aussagekräftigere Größe.
-
-## Verbundene Konzepte
-- [[accessibility]] — die Gestaltungseigenschaft, die assistive Technologien operationalisieren
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Verbundene Artikel
-- [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Anpassungen für Studierende mit spezifischen Lernbehinderungen
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanalyse von KI-Interventionen für Studierende mit Behinderungen
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first AI for visually impaired children
-- [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
-- [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung

@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -50,7 +51,3 @@ Designers instrucionais e instrutores que querem uma decisão de desenho com a s
 ## Notas e ressalvas
 
 Leia o painel de confiança em cada página. Modelos de linguagem mantêm a wiki sob um único mantenedor humano, nenhuma pessoa verificou qualquer página, e o site rotula uma página como uma pista bem fundamentada, e não como um achado. As afirmações carregam um nível de desenho, um código de tamanho de efeito e um código de rigor, e "nenhum tamanho de efeito impresso" significa que a fonte não relatou nenhum, não que nenhum exista. O conteúdo é CC BY-SA 4.0, então o reúso precisa carregar a mesma licença, e o código é MIT.
-
-## Conceitos conectados
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

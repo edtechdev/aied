@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,7 +43,6 @@ Etkenlik, öğrenenler aktif ve kasıtlı katılımcılar olduğunda öğrenmeni
 **Etkenik araçlarla etkenliğin sıfır toplamlı görüşü:** [[emancipatory-ai-learner-flourishing-2026|Prieto ve Dimitriadis (2026)]], eğitim YZ araçlarına ne kadar etkenlik verilirse öğrenenlerin o kadar azını elinde tuttuklarını — etkenliğin etkili biçimde sıfır toplamlı bir oyun olduğunu — ve mevcut insan merkezli tasarım yaklaşımlarının (örn. değere duyarlı tasarım) yetersiz olduğunu savunur, çünkü aşırı bağımlılık ve yalıtım daha geniş sistemik faktörlerle ve en kolay yolu alma eğilimiyle yönlendirilir. Karmaşık sistemler içinde öğrenen gelişimine yönelik özgürleştirici tasarım vizyonları, öğrenen etkenliğini korumayı ve yetiştirmeyi üreten YZ tasarımının merkezi hedefi olarak görür, ardından düşünülen bir şey olarak değil.
 
 **Etkenlik yalnızca bir kapasite değil, bir amaçtır:** Yukarıdaki çerçevelemeler öğrenenlerin ne kadar etkenlik elinde tuttuğunu sorduğu yerlerde, [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund ve ark. (2026)]], [[ai-education]]'nin *ne için* olduğunu sorar. Anasınıfından 9. sınıfa kadar on üç Finlandiyalı öğretmenle YZ ile ve YZ hakkında öğretmenin amaçları hakkında görüşerek ve hesaplarını Biesta'nın eğitim amacının üç alanı (nitelik kazandırma, sosyalleşme, özneleşme) yoluyla okuyarak, yetkinliği en net ve en somut son olarak buldular: öğretmenler öğrencilerin YZ'yi sosyoteknik bir olgu olarak anlamalarını ve araçlarını kullanmasını istediler. YZ ile öz belirlenmiş ve kişisel olarak anlamlı etkileşim anlamına gelen özneleşme, önemli olarak onaylandı ancak somut öğretim stratejileri olmadan bırakıldı; öğretmenler tasarlanmış etkinlikler yerine genel tartışma ve tefekküre yöneldi. Yazarlar, özneleşmeyi merkeze alırken [[ai-literacy|yetkinlikleri]] açıklayıcı temeli olarak ele alan bir sezgisel olarak **bilgilendirilmiş YZ etkenliğini** önerir, öğrencilerin hangi seçeneklerin var olduğunu görmelerine ve neyi izleyeceklerini seçmelerine yardım eder. Pratik sonuç doğrudandır: beceriler öncelikli bir [[curriculum-design|müfredat]], hizmet etmesi amaçlanan etkenik amacı gölgede bırakabilir ve çare, listeye başka bir yetkinlik eklemekten çok YZ eğitiminin "nedenini" açık hale getirmektir.
-
 
 Gelişim yönü sabit değildir. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], İsveçli öğretim üyelerini Bearman ve ark.'nın (2025) "genellikle etkenlik istediklerini" ve "bağımlılığa direndiklerini" bildiren Avustralyalı öğrencileriyle karşılaştırır: burada birkaç öğrenci üreten YZ'ye bağımlı hale geldiğini anlattı ve bunu bir kayıp olarak adlandırdı; biri "her şey daha az zaman aldığı için dopamin etkisi yarattığını" ve "kötü davranışları ödüllendirdiğini" söyledi.
 
@@ -73,7 +74,6 @@ Maliyet hangi katmanın devredildiğine bağlıdır: sekiz haftalık bir yazma �
 - **Erken kariyer araştırmasında epistemik devretme:** [[ai-mediated-research-agency-formation-2026|Han ve Liu (2026)]], doktora ve doktora sonrası araştırmacılar arasındaki YZ bağımlılığını *epistemik devretme* olarak çerçeveler — problem çerçevelemenin, yöntem seçiminin ve yorumlayıcı otoritenin akıllı sisteme devredilmesi — ve bunun hem [[self-efficacy|araştırma öz yeterliliği]] hem de araştırma özerkliğiyle olumsuz biçimde ilişkili olduğunu, denetleyici desteğin kaybı tamponladığını buldu. Etkenlik tartışmalarını öğrenen özerkliğinden araştırmacının kendisinin oluşumuna genişletir.
 - **Tasarım değişkeni olarak yorumlayıcı otorite (kavramsal bir çerçeve).** [[porath-interpretive-authority-2026|Porath (2026)]], kim-karar-verir sorusunu *yorumlayıcı otoritenin* dağılımı olarak yeniden çerçeveler — problemleri kim tanımlar, yanıtları kim değerlendirir ve anlamanın ne zaman sağlandığına kim karar verir — hiyerarşik olmayan dört yapılandırmayı (insan-baskın, YZ-destekli, YZ-yönlendirici, diyalojik ortaklık) eşler; bunlar sınıfların tek bir görev içinde hareket ettiği yerlerdir ve kaymaları bireysel üstbilişten sosyokültürel anlatılara beş ekolojik katmanda temellendirir. Makalenin normatif iddiası, bu sayfanın kanıtıyla uyumludur: YZ-yönlendirici yapılandırmalar, ne kadar gelişmiş olursa olsun, verimli mücadeleyi ve üstbilişsel düzenlemeyi bastırabilir — bu sayfanın etkenliğin temeli olarak tanımladığı aynı kapasiteler. Kavramsal bir yazı olarak ampirik kanıt değil, tanısal bir kelime dağarcığı sunar.
 
-
 Etkenlik, [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Aşırı Bağımlılık]] ve [[metacognition]]'e bağlanır. [[educational-robotics|Robotikte]], [[intelligent-tutoring|öğretmenlikte]] ve [[pedagogical-agent|YZ öğrenme aracılarının]] tasarımında temel bir değerlendirmedir.
 
 - **Epistemik kontrol olarak sınırlı kullanım, isteksizlik değil.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]], 484 yanıtlı bir [[higher-ed|üniversite]] anketinde daha yüksek başarılı öğrencilerin daha düşük aktif YZ katılımı ve daha düşük [[self-report-measures|algılanan öğrenme]] etkisi gösterdiğini, *aynı zamanda* daha düşük YZ kaynaklı uzaklaşma bildirdiğini ve kendi kullanımlarını doğrulama yoğun olarak tarif ettiklerini bildirdi: çıktılar denetlendi, sonra kendi akıl yürütmelerine tabi kılındı. Kaçınma yerine etkenlik olarak okunduğunda örüntü, yargının kasıtlı biçimde elinde tutulmasıdır — öğrencilerin sonucun yazarlığını korurken aracı açıklık ve özetleme için kullanmasıdır.
@@ -84,7 +84,6 @@ Süregelen sınır çalışması, araç becerisinden çok etkenliği devretmeden
 - **Etkenliğin üç kipi vardır ve üçüncüsünü politika sağlar.** Yalnızca %18'i öğretmen ve %24'ü müdür olan okullarda [[educational-policy-ai|YZ politikası]] bildiren, çoğu eğitimci onlar adına hareket eden hiçbir vekil etkenlik olmadan bireysel etkenlik kullanır — kurumsal kurallarca sağlanan Bandura'nın üçüncü kipi ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein ve James, 2026]]).
 
 ## Etkenlik ortaya çıkan, etkileşimsel bir olgu olarak
-
 
 **Etkenlik tek bir kapasite değildir ve bu ayrım YZ aracılı uygulamaya da taşınır.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]], bir dönemlik YZ öğretiminin ardından 47 İsveçli 7. sınıf öğrencisiyle anket yaptı ve YZ *çıktısına* yönelen etkenliğin, onu üreten *sistemlere* uzanmadığını buldu. Ayrım **öğrencilerin tek tek içinde** korundu: %79'unun dokuz madde boyunca üç veya daha fazla puanlık bir aralığı vardı ve öğrenci başına ayrışma indeksi çıktıya yönelimli katılımı sistem yönelimli katılımın önüne koydu: **35 öğrencide bu yönde, 4 öğrencide ters yönde** (işaret testi, p < .001). **En kaynak eleştirel öğrencilerin %62'si** sohbet robotlarının kendi yazılarını okumasına ilişkin en az koruyucu seçeneği yine de onayladı ve örneklemde yalnızca bir öğrenci en yüksek gizlilik tutumunu seçti. Kritik olarak bu, öğrencilerin kendi günlüğe kaydedilmiş davranışlarını canlı olarak yansıtılmış izlediği bir dersten **bir ay sonra** ölçüldü: buna "korkutucu" dediler ve platformu kullanmaya devam etmek için teneffüs boyunca kaldılar. Etkenliğin ortaya çıkan, etkileşimsel bir özellik olması bununla tutarlıdır: uygulama başına yüzeye çıkar, uygulamalar arasında aktarılmaz ve bir dersin öne çıkardığı şey, ele almadığı kayda genellenmez.
 
@@ -103,7 +102,6 @@ Süregelen sınır çalışması, araç becerisinden çok etkenliği devretmeden
 
 Etkenliğin yapısal bir okuması, [[ai-agents-joyful-assessment-third-space-2026|El Khoury ve Ma'nın neşeli değerlendirme çerçevesinde]] görülür; burada etkenlik motivasyondan çok bir tasarım özelliği olarak ele alınır: öğrenciler görevlerin sırasını seçer, hızı belirler ve bir etkileşimin ne zaman bittiğini sinyaller, böylece destek mevcut olurken çalışmanın sorumluluğu öğrenende kalır. Adlandırdıkları mekanizma değerlendirmedir — kitle olmadan prova etmek ve ne zaman başlayacağı seçmek, bir görevin anlamını yargıdan bir öğrencinin şekillendirebileceği bir şeye kaydırır — ve bu kaymanın yinelenen deneyiminin, ara sıra hissedilen yetkinlik duygularını değerlendirmeye karşı gündelik bir duruşa dönüştüren şey olduğunu savunurlar.
 
-
 - **“YZ'yi daha çok kullanmak öğrencilerin yazarlık duygusunu azaltır.”** Doğrusal değil. Enstrümante edilmiş bir deneme çalışmasında algılanan sahiplik yalnızca denemelerin tamamını devreden grupta düştü; modeli planlama ya da gözden geçirme için kullanan öğrenciler ise onu hiç açmayan öğrencilerin sahipliğiyle eşleşti. Aynı grup deneme okunabilirliğinde de daha yüksek puan aldı, yani yazarlık incelirken ürün daha iyi göründü. Etkenlik, aracın kullanılıp kullanılmadığını değil nasıl kullanıldığını izledi. [[jelson-students-chatgpt-essay-writing-2026|Yazarlık, kullanımın değil devrin bir işlevidir]].
 
 ## Etkenlik ve öğrenen kimliği
@@ -118,7 +116,6 @@ Etkenliğin yapısal bir okuması, [[ai-agents-joyful-assessment-third-space-202
 Gerçekleştirilmiş etkenlik ile kalıcı kimlik arasındaki bu ayrım, reddetmeye de uygulanır. [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] tarif ettiği biçimde, değerlendirilen yazma için bir sohbet robotunu geri çevirmek, yardımsız akıl yürütme için onu yasaklamak, [[student-support-and-success|öğrenci desteğinde]] otomatik ön sıralamaya direnmek veya tedariki ertelemek, kalıcı tek bir eğilimden çok ayrı sistemlere yönelik ayrı ilişkilerdir ve kişisel, pedagojik, profesyonel, idari ve kurumsal düzeylere yayılır. Bu hakkın dağılımı eşitsizdir: akademik güveni olan öğrenciler ceza almadan geri çevrilebilir, oysa dil, erişilebilirlik veya hızlı geri bildirim desteğine ihtiyaç duyanlar reddi kaybedilmiş fırsat olarak okur ve güvende olan akademisyenler ilke gereği geri çevirirken gündelik personel benimseme baskısı hisseder. YZ altyapıda olduğunda, red bireysel vazgeçmeden tedarik, denetim ve itiraz edilebilirliğe kayar.
 
 - **Sadece bir karar değil, kimlik inşası olarak reddetme ([[sociocultural-learning|çıraklık]] öğrenmesinde renkli öğrenciler).** [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]], beş ortaokul çırağına 9 ay boyunca görüşmeye gitti ve onların kendilerini YZ yoluyla üç hamlede yazarlık ettiğini buldu: reddetme (kullanmama, kurumsal hizalama olarak), müzakere (kurumsal uyuşmazlıkları onarmak, gizlilik uzak bir soyutlama olarak) ve tanınma (adilliği görünür önyargının yokluğuyla eşitlemek — YZ yanıtlarında kimliklerinin temsil edilmediği bir "kültürel düzleşme"). Çalışmanın iki yorumlayıcı kavramı — Kurumsal YZ Okuryazarlığı ve Tanınma Bandı Genişliği — YZ kullanımını kurumsal olarak okunabilir kılma kapasitesini ve öğrencilerin YZ çıktılarında kendilerinin tanındığını görme alanını adlandırır. Beş öğrencili tek programlı anlatı sorgulaması; katkısı, YZ kullanımının, sınırlandırılmasının ve reddin, öğrenenlerin kendilerini yazarlar ve gelişmekte olan profesyoneller olarak nasıl anladıklarıyla iç içe geçtiğini göstermesidir.
-
 
 ## Ekolojik Ortak Etkenlik Çerçevesi: etkenliği epistemik bir tasarım problemi olarak
 
@@ -139,71 +136,3 @@ Yakından ilişkili bir çerçeveleme, **ilişkisel epistemik etkenliktir** ([[d
 - **“Öğrenciler YZ'yi serbestçe kullandıklarında etkenlik sergiler.”** **6.788 ChatGPT destekli turu kodlayan 14 kategorili bir şema**, **yedinci sınıf öğrencilerinin turlarının %59'unu** etkenik kullanımı temsil etmeyen kategorilere yerleştirdi. Kullanım hacmi ile etkenlik farklı ölçülerdir.
 - **“Mevcut modeller öğrenen etkenliğini iyi destekler.”** **On model üzerinde kıyaslandığında, etkenliği desteklemek öğrenmeden sonra en kötü oldukları alandır**: ImpactBench, **Etkenlik ve Amaç'ı olumlu ölçütlerde %56,0** olarak ölçtü. Etkenlik, YZ sistemlerinin en az iyi ele aldığı boyuttur; yetenekliliğin bir yan ürünü değildir.
 - **“Öğretmen aracılığı etkenlik üzerinde bir kısıttır.”** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]], **sekiz haftalık bir ChatGPT-4 müdahalesi boyunca on ortaokul matematik öğretmenini** izledi ve aracılık engel değil, mekanizmanın kendisidir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — shared direction of AI-mediated interaction
-- [[agentic-ai]] — autonomous AI that can redistribute agency in groups
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[social-emotional-learning]] — Social-Emotional Learning
-- [[cognitive-surrender]]
-
-## Bağlı makaleler
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
-- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix and Ecological Authority Integration Model: four configurations of who interprets, and the ecological layers that shift them
-- [[gyekye-selves-apprenticeship-2026]] — Students of color in apprenticeship programs authored themselves through AI via refusal, negotiation, and recognition ("cultural flatness"); Institutional AI Literacy and Recognition Bandwidth
-
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Shared epistemic agency in 6,788 ChatGPT-assisted turns of secondary-school science writing (Chang et al. 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Algılanan sahiplik yalnızca denemenin tamamı devredildiğinde düştü; planlama ve gözden geçirme kullanıcıları kullanmayanlarla eşleşti (Jelson ve ark. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

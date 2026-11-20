@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -92,54 +94,3 @@ AQG — ключевой фактор, обеспечивающий [[adaptive-l
 **«Генерация вопросов естественно персонализирует практику.»** Она генерирует предложение, а персонализация — задача сопоставления. Производство большего числа заданий не говорит, какое задание данный учащийся должен увидеть следующим, и вопрос адаптивного отбора — отдельный механизм со своей доказательной базой.
 
 **«Генерация масштабирует оценивание, не меняя того, что оно измеряет.»** Она меняет состав измеряемого, потому что задания, которые хорошо генерируются, не являются репрезентативной выборкой заданий, которые хорошо оценивают. Легко генерируемые форматы будут постепенно вытеснять труднее генерируемые, что тихо переформирует конструкт.
-
-## Связанные концепции
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Связанные статьи
-
-- [[genai-medical-education-transformation-review-2026]] — Обзорный анализ 153 отчётов по медицинскому образованию о генерации заданий ИИ против качества заданий преподавателей
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
-- [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
-- [[slidesqaqa-pedagogical-question-generation]] — Slide-deck Q&A pedagogical question generation
-- [[code-gen]] — CODE-GEN: RAG-based human-in-the-loop question generation
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles benchmark
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignments
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration
-- [[self-referential-l2-writing-llm-assessment]] — Self-referential analytic writing assessment
-- [[cross-dataset-bloom-question-classification]] — Cross-dataset Bloom question classification
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots and CS multiple-choice items
-- [[socratic-tests-conversational-assessment]] — Socratic tests: conversational assessment
-- [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students could not tell AI-generated MCQs from licensing-exam items in a graded exam, and 18.2% of generated items were eliminated in review (Vogt et al. 2026)

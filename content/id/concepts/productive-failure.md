@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -96,36 +98,3 @@ Kegagalan produktif terhubung ke [[learning-theories]] (konstruktivisme), [[desi
 - **"Menahan bantuan membuat siswa frustrasi dan mengorbankan motivasi."** Sebuah [[rct|RCT]] tiga lengan menemukan bahwa tutor yang menahan petunjuk **menyamai ChatGPT tanpa batas dalam pengurangan frustrasi dan** motivasi — biayanya muncul **hanya pada preferensi**. Siswa tidak menikmatinya sebesar itu dan tidak menderita karenanya, yang berarti data preferensi akan menolak desain yang justru berhasil.
 - **"Makin banyak frustrasi berarti makin banyak belajar."** Tutor yang meningkat eskalasinya **0.42 poin skala lebih membuat frustrasi daripada tutor yang menjawab atas permintaan (p < .001) dan 0.29 lebih sedikit membuat frustrasi daripada** lengan yang paling membuat frustrasi. Rentang produktifnya adalah bagian tengah, bukan maksimum, sehingga "kesulitan yang diinginkan" tidak memberi lisensi untuk membuat tugas makin sulit tanpa batas.
 - **"Kegagalan produktif berarti guru seharusnya tidak membantu."** Desainnya menahan *jawabannya* sambil menyediakan struktur dan eskalasi. Menahan petunjuk dan menahan dukungan adalah dua intervensi yang berbeda, dan hanya yang pertama adalah yang memiliki bukti di sini.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Mencoba-sebelum-pengajaran sebagai urutan penuh, dengan basis buktinya yang tipis
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — Kasus sebagai ruang masalah bersama untuk upaya pertama
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Artikel terkait
-
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah PF
-- [[wang-safety-gap-productive-struggle-2026]] — Kesenjangan Keselamatan: Memulihkan Pergulatan Produktif
-- [[lukesova-clue-before-correction-2026]] — Petunjuk Sebelum Koreksi: ChatGPT untuk Pembelajaran Otonom
-- [[pedagogy-ai-mistakes]] — Pedagogi Kekeliruan AI
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Menahan solusi menghindari biaya frustrasi tetapi kalah pada preferensi siswa

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,11 +44,3 @@ El público principal es el profesorado de K–12 que ha usado la [[generative-a
 Member y Builder son gratuitos (Builder: 50 aplicaciones, 50 MB); Pro cuesta \$10 al mes o \$60 al año para 500 aplicaciones. El acceso es freemium.
 
 La privacidad es la afirmación más sólida, pero traslada la responsabilidad al profesorado. Teacher Hive no crea cuentas de estudiantado, no pide información personal a los estudiantes y no ejecuta scripts de analítica ni de publicidad dentro de las aplicaciones publicadas. Como las aplicaciones son públicas por enlace, los términos hacen responsable al profesorado de garantizar que sus aplicaciones no recojan nombres, correos electrónicos, identificadores de estudiante ni ubicación. La cobertura de accesibilidad (WCAG 2.2 AA) se aplica a las páginas propias de Teacher Hive, no a las aplicaciones creadas por el profesorado, que no están probadas. No se declara ninguna licencia de código abierto, y no se garantizan la disponibilidad ni la retención de datos.
-
-## Conceptos conectados
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -104,54 +106,3 @@ Tư duy phản biện giao thoa với [[scaffolding|giàn giáo]] (thiết kế 
 - **"Một prompt tốt hơn tạo ra tư duy phản biện tốt hơn."** **Kiểm soát hội thoại có cấu trúc, không phải một prompt tốt hơn**, là điều phân tách một gia sư ngụy biện khỏi một chatbot tranh biện: định tuyến mỗi lượt qua **phát hiện ý định dựa trên Toulmin** là thứ làm nên công việc. Cơ chế là cấu trúc tương tác chứ không phải cách diễn đạt.
 - **"Việc dùng GenAI nâng tư duy phản biện một cách trực tiếp."** Liên hệ giữa việc dùng GenAI và tư duy phản biện **tự báo cáo** đi **gần như hoàn toàn qua [[feedback-literacy|năng lực phản hồi]] GenAI** — ở **421 sinh viên đại học Trung Quốc**, năng lực phản hồi làm trung gian **71%** của liên hệ. Chính năng lực đó là con đường.
 - **"Hiệu ứng tổng hợp phân tích là đồng nhất."** Trên **29 thí nghiệm**, GenAI nâng tư duy bậc cao ở mức vừa phải (**g = 0.609**) với tư duy phản biện ở **ES = 0.691**. Các hiệu ứng gộp vừa phải trên những can thiệp không đồng nhất ủng hộ phạm trù chứ không ủng hộ một thiết kế cụ thể.
-
-## Khái niệm liên quan
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Giáo dục hóa học và AI: phòng thí nghiệm, đánh giá định hình, giới hạn của LLM, triết học thực nghiệm
-- [[biology-education]] — Giáo dục sinh học và AI: trợ giảng phòng thí nghiệm, năng lực AI trong sinh học, tư duy phản biện, công cụ chuyên biệt
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Bài viết liên quan
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Tư duy phản biện đi qua phân công lao động và tái gia công đầu ra, không phải sự phơi nhiễm
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Đồng thuận của 30 chuyên gia: tư duy phản biện mang xếp hạng gián đoạn cao nhất của báo cáo (trung bình 4.00)
-- [[pearls-epistemic-verification-2026]] — Khuôn khổ PEARLS cho quyền chủ động tri thức luận và kiểm chứng đầu ra AI (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Giảm tải nhận thức nhạy cảm theo tầng trong viết có GenAI hỗ trợ (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Nghịch lý tư duy phản biện trong học tập tích hợp GenAI
-- [[pedagogy-ai-mistakes]] — Sư phạm của những lỗi AI: nuôi dưỡng tư duy bậc cao (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ và sự đầu hàng nhận thức: AI định hình lại lập luận của con người như thế nào (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Bi kịch của tài sản chung nhận thức: AI và việc tái tạo chuyên môn
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Phân tích tổng hợp về GenAI và tư duy bậc cao
-- [[avraamidou-ai-colonization-science-education]] — Phá vỡ sự thuộc địa hóa giáo dục khoa học của AI
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Định hướng lại năng lực AI phản biện
-- [[luo-ibl-patterns-llm-bloom-2026]] — Các mô thức IBL trong môi trường do LLM dẫn dắt (góc nhìn Bloom)
-- [[probing-ai-generated-physics-solutions-2026]] — Chuẩn bị cho sinh viên phê phán các giải pháp vật lý do AI tạo ra
-- [[student-reception-genai-analogies-computing-2026]] — Khiếm khuyết nhưng đáng nhớ: tiếp nhận phản biện của sinh viên đối với các phép loại suy GenAI cá nhân hóa theo sở thích trong giáo dục tin học
-- [[daoism-ai-education-philosophy-2026]] — Triết học AI thay thế: Đạo giáo như phương pháp cho AI trong giáo dục
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Nuôi dưỡng học tập bền vững qua trí tuệ nhập thể (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Sự phụ thuộc quá mức vào AI được mô hình hóa như một hệ thống thích ứng phức hợp
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Thu hoạch tư duy phản biện theo từng chiều trong viết đa phương thức có AI hỗ trợ (Lu và cộng sự 2027)
-- [[lftutor-logical-fallacy-education-2026]] — dạy nhận diện ngụy biện qua hội thoại nhiều lượt có cấu trúc
-- [[caeai-ai-companions-learning-over-performance-2026]] — học tập hơn hiệu năng: các companion nên được tối ưu hóa và đo lường cho điều gì
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Giàn giáo AI, giảm tải và năng lực kiểm chứng qua tự điều chỉnh siêu nhận thức (Davor và cộng sự 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Sự phụ thuộc GenAI giới hạn liên kết giữa sử dụng và tư duy phản biện ở sinh viên kinh doanh (Shojaei và cộng sự 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt phản tư cắt việc chấp nhận lời khuyên AI sai và thiên lệch quy kết (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Luân chuyển vai trò như cấu trúc cho tương tác người-AI phản biện (Kenzhebayeva và cộng sự 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Tích hợp GenAI lấy kiểm chứng làm trung tâm trong giáo dục hóa học đại học (Vega-Baudrit và Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — phản hồi ChatGPT do giáo viên tuyển chọn nâng tư duy phản biện qua sửa đổi bậc cao (Chen và cộng sự 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — một học kỳ tiếp cận AI để tư duy phản biện phẳng lì; việc sử dụng có phản tư dự báo nó (Melanou và cộng sự 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Sự phụ thuộc GenAI liên hệ dương với tư duy phản biện ở 1,157 sinh viên sau đại học
-- [[genai-use-critical-thinking-moderation-2026]] — Từ việc dùng GenAI đến tư duy phản biện qua năng lực phản hồi, với đường trực tiếp chỉ cho sinh viên ít phản tư hơn
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Cách đọc bi quan của bằng chứng điều tiết: mất ma sát, thiên lệch tự động hóa, khung hiệu quả
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Tổng quan tường thuật 108 tài liệu: dấu của hiệu ứng đi theo kiến thức trước đó và thời điểm nhiệm vụ (khuôn khổ AMCIF)

@@ -8,6 +8,8 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 > **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation|motivation]], and [[self-efficacy|self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.
@@ -52,7 +54,6 @@ Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tut
 ### Longitudinal research
 Longitudinal designs track the same learners over time, capturing change, growth, and durable learning that single-time-point measurement misses. [[ai-lms-middle-school-longitudinal|A longitudinal LMS study]] tracks students across a school year. Longitudinal designs are essential for distinguishing AI-inflated performance from [[genai-performance-vs-learning|durable learning]].
 
-
 Between-dataset comparisons need a fixed working point: a structural check of synthetic educational data found that analyzing each dataset at its own threshold reversed a contrast that held at a shared point, and that its surrogate comparison needed only the synthetic data and permutations of itself - a permutation-based null rather than an absolute threshold ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Computational and psychometric quantification
@@ -86,36 +87,3 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - **"An intent-to-treat estimate describes what the tool does."** In a group-randomized access trial where **about 15% of students in treated classrooms ever used the tutor**, the ITT estimate reflects **the effect of introducing** the tool rather than the effect of using it. Low uptake makes an ITT figure a statement about implementation, and reporting it as a tool effect overstates what was measured.
 - **"Performance on the task is the outcome."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomises **120 students** to AI-assisted or traditional study and measures **retention** — the design that separates immediate performance from durable learning. A study that stops at the task has measured the easier quantity.
 - **"Cross-dataset comparisons are straightforward."** A structural check of synthetic educational data found that **analyzing each dataset at its own threshold reversed a contrast that held at a shared working point**. The comparison's sign depended on an analytic choice, which is the kind of fragility a pre-registered working point exists to prevent.
-
-## Connected Concepts
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — A randomized field study of human support plus AI tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI adoption pathways (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[jin-glat-genai-literacy-assessment]] — GLAT: an IRT-validated GenAI literacy test
-- [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
-- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

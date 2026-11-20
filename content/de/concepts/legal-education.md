@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -97,29 +99,3 @@ In einem Experiment im Rechtskontext folgten 186 laische Entscheidungsträger in
 - **„Law Schools haben eine Position gefunden."** Die meisten nahmen **allgemein prohibitive Haltungen** ein, oft erklärt als **Zeitkauf zum Studium der Technologie**, während **fast alle Richtlinien den einzelnen Lehrenden Entscheidungsspielraum vorbehielten**. Ein Verbot mit Lehrenden-Override ist keine gefestigte Position, sondern ein Aufschub mit Vorgabewert.
 - **„Umfrageevidenz beschreibt das Feld."** Die **Befragung der ABA von 2024** zog Antworten von nur **29 Schulen, etwa 15% der von der ABA zugelassenen Law Schools** ein, und eine LexisNexis-Befragung von **800** Praktizierenden misst eine andere Population. Keine von beiden kann als repräsentativ für rechtswissenschaftliche Bildung behandelt werden, und beide werden so zitiert, als wären sie es.
 - **„Eine KI-Empfehlung zurückzuhalten ist neutral."** In einem Experiment im Rechtskontext folgten **186 laiche Entscheidungsträger in Zivilverfahren** einer falschen KI-Position deutlich seltener, wenn das System die eigene Position zurückhielt (**5,7–8,2% gegenüber 42,0–60,5%**). Zurückhalten erzeugte keine Neutralität; es erzeugte eine starke Verringerung der Gefolgschaft, was für sich genommen ein Effekt ist.
-
-## Verbundene Konzepte
-
-- [[academic-integrity]] — der auf unterstützte Arbeit angewandte Verhaltensrahmen
-- [[assessment-validity]] — ob unterstützte Leistung die beabsichtigte Kompetenz misst
-- [[authentic-assessment]] — Designs, die ununterstützte Analyse verlangen
-- [[ai-use-disclosure]] — Normen der Zuschreibung und Berichterstattung, weiterhin ohne Konsens
-- [[governance]] — Governance durch das Lehrpersonal und Richtlinienerstellung, wie Law Schools sie praktizieren
-- [[educational-policy-ai]] — institutionelle KI-Richtlinie als Untersuchungsgegenstand
-- [[critical-thinking]] — das Schlussfolgern, das die Fallmethode aufzubauen beabsichtigt
-- [[case-based-learning]] — die Fallmethode und Falldiskussion als Pädagogik
-- [[socratic-method]] — Dialog, abhängig von Vorbereitung der Studierenden
-- [[experiential-learning]] — Clinics und praxisbasiertes Training
-- [[professional-training]] — die weitere Familie lizenzierter Berufe
-- [[career-development-and-readiness]] — Praxisbereitschaft als der erklärte Zweck
-- [[ai-literacy]] — technologische Kompetenz als professionelle Pflicht
-- [[hallucination-risk]] — fabrizierte Zitierungen als charakteristisches Versagen des Felds
-- [[legal-issues-and-risks]] — was Institutionen erwartet, wenn Governance scheitert
-
-## Verbundene Artikel
-
-- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: ein Scoping-Review über 82 Arbeiten (Lorteau & Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Fünf-Faktoren-Vergleich von Richtlinien zu generativer KI an Law Schools und ein Governance-Rahmenwerk
-- [[llm-turing-test-italian-legal-exams-2026]] — Blinder Turing-Test bei italienischen Anwalts-, Richter- und Notarprüfungen, benchmarkt gegen Expertenbewertung
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zurückhalten der Systemposition unterdrückt Überabhängigkeit bei Entscheidungen im Rechtskontext, ohne Urteilsvermögen aufzubauen (laiche Entscheidungsträger, keine Jurastudierenden)
-- [[xie-genai-mystery-game-legal-education-2026]] — Von GenAI verfasstes Mystery-Rollenspiel versus Vorlesung: eine randomisierte Studie (Xie et al. 2026)

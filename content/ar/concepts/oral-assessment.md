@@ -29,6 +29,8 @@ ai_assist:
 translation_of: concepts/oral-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -93,36 +95,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 - **«التقييم الشفهي لا يتوسّع.»** في [[code-review-genai-cs1|دراسة مراجعة الشيفرة الشفهية في CS1]]، **حملت مقابلات أسبوعية مدّتها خمس عشرة دقيقة سبعين في المئة من درجة كل تكليف**، وظلّت نسبة الأحرف الملصوقة إلى الكل مُخبِرة. فالكلفة حقيقية والتصميم قابل للتنفيذ على نطاق المقرر.
 - **«الامتحانات الشفهية أرقّ من المكتوبة.»** في التجربة التجريبية المُبلَّغ عنها، **تجاوزت الدرجات درجات اختبارات الاختيار من متعدد الحضورية: وسيط منتصف المدة 92.5 مقابل 70 (p < .001) ووسيط النهائي 94.2 مقابل 86.4 (p = .002)**. فالتقييم الشفهي لم يكن الخيار المتسامح.
 - **«اللقاء المحاكى مكافئ لحالات الإفصاح التدريجي.»** في [[ai-standardized-patient-scaffolding-medical-2026|تجربة عشوائية مضبوطة على مئة طالب طب في السنة الثالثة]] قُورن نظام المريض المحاكى **بمادة حالة بالإفصاح التدريجي** — اختبار مباشر للتكافؤ لا افتراض له.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — تسلسلات التحقّق الشفهية ومناقشات المناقشة الحيّة، وما تُبرهن عليه وما لا تُبرهنه
-- [[assessment]] — الميدان الأوسع الذي تقع فيه هذه الصيغة
-- [[authentic-assessment]] — تقليد التصميم الذي يُقدّم حجّة النزاهة
-- [[assessment-validity]] — ما تستطيع الصيغة أن تدّعي قياسه وما لا تستطيع
-- [[academic-integrity]] — الضغط الذي أعاد الشفهي إلى الواجهة
-- [[automated-assessment]] — التقديم والتصحيح الآليان للأداء الشفهي
-- [[ai-detection]] — الاستجابة البديلة، ولماذا هي أضعف
-- [[speech-and-voice-technologies]] — خط أنابيب الكلام الذي يعمل عليه النظام الشفهي
-- [[multimodal]] — الإيماءة والكلام كدليل مقترن
-- [[anxiety-and-stress]] — الكلفة الانفعالية للأداء المباشر
-- [[feedback]] — ما تخبر به المناقشة الحيّة متعلّمًا عن فهمه هو
-- [[higher-ed]] — السياق الذي تأتي منه كل هذه الأدلة تقريبًا
-
-## المقالات المتصلة
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — مهام الحوار غير المتفرّعة بالذكاء الاصطناعي تخالف مطالب المهمة مع بناء التحدث
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — المناقشات الحيّة لم تعد محصّنة: نظارات وسدّادات أذن الذكاء الاصطناعي تسلّم مطالبات خفية في الزمن الحقيقي (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[assessment-feedback-trilemma-model-2026]] — ينفي عن أي صيغة موقعًا ثابتًا ويعيد تأطير الجدوى كأولوية تعليمية

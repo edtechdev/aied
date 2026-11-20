@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -63,9 +65,7 @@ ai_assist:
 
 İşletme, üretici YZ benimsemesinin en hızlı olduğu alanlardan biridir; bu nedenle işletme okulları öğrencileri YZ bütünleşik bir iş hayatına hazırlamak konusunda keskin bir baskıyla karşı karşıyadır. Araştırma, etkili bütünleşmenin **müfredat kaynaklı ve öğrenci kaynaklı** olduğunu vurgular — YZ araçları eklemek değil, programları yeniden tasarlamak; böylece üretici YZ okuryazarlığı, etik yargı ve otantik uygulama diploma yapıları boyunca dokunur. Bu, işletme eğitimini bilgi tabanının daha geniş [[ai-literacy|YZ okuryazarlığı]], [[teacher-role|eğitmen]] hazırlığı, [[assessment]] yeniden tasarımı ve YZ çağında [[curriculum-design|müfredat]] reformu temalarına bağlar.
 
-
 Vaka çalışmaları ve benzetimler bu literatüre en yakın öğretim biçimleridir, ancak yönetim kanıtları vaka temelli bir müdahaleyi yalıtmaz; pedagoji ve sınırları için [[case-based-learning]] sayfasına bakın.
-
 
 ## İşletme öğretmenleri için çıkarımlar
 
@@ -79,40 +79,3 @@ Vaka çalışmaları ve benzetimler bu literatüre en yakın öğretim biçimler
 - **“Öğrenciler kısayol istedikleri için YZ ister.”** Öğrenci kaynaklı bir çerçeve, öğrencilerin **yüksek düzeyde katıldığını ve kariyerleri için GenAI becerilerine ihtiyaç duyduklarının farkında olduklarını**, aynı zamanda **farkında olmadan akademik usulsüzlük yapmadan YZ kullanmak istediklerini** bulmuştur. Talep, işten kaçma izni değil, sınırları belirgin bir yetkinliktir.
 - **“İşletme müfredatına YZ modülleri eklemek yararı yakalar.”** Yapıcı hizalama araştırması, **yararların mı risklerin mi baskın olduğunun müfredat bütünleşme düzeyiyle şekillendiğini** bulmuştur; işlevsel ayrım **bütünleştir, ekleme**dir. Eklenmiş bir modül değerlendirme tasarımını değiştirmeden bırakır.
 - **“Araç gelişmişliği geleneksel e-öğrenmeyi geçer.”** **130 öğrencilik** bir algı çalışması, **hem sohbet robotu hem etken desteğinin geleneksel e-öğrenmenin üzerinde** puan aldığını bulmuştur: geliştirme, kişiselleştirme ve karar verme. Bunun neyi ölçtüğünü not etmek gerekir: geleneksel bir taban çizgisine karşı öğrenci *algısı*, ona karşı öğrenme değil.
-
-## Bağlı kavramlar
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — Vaka çalışmaları, vaka yöntemi ve vaka tartışması
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Bağlı makaleler
-
-- [[alam-process-oriented-collaborative-essays-2026]] — Bir İş Analisti çıraklığında süreç odaklı işbirlikçi denemeler: konu değil, belgelenmiş yineleme notlanır
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Ders içinde kurulmuş bir RAG sohbet robotu beklentileri hareket ettirdi, sonuçları değil
-
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-
-- [[csaszar-ai-management-education-2026]] — YZ’nin yönetim eğitimi üzerindeki etkileri: değere dayalı bir strateji analizi (Csaszar vd. 2026)
-
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,29 +72,3 @@ ai_assist:
 **"אופקים ארוכים יותר הם פשוט טובים יותר."** הם מאפשרים מה שאופקים קצרים אינם מאפשרים, והם דורשים שהתגמול יהיה נכון לאורך כל הרצף. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] מייעל **מפגשים קליניים שלמים בני 60 תורות**, הרבה מעבר לאופקים של ≤12 תורות במערכות-דיאלוג בנות-זמננו, מה שמעלה את עלות היעד המוגדר שלא כהלכה במקום להוריד אותה.
 
 **"RL הוא הפורמליזם המתאים לחונכות משום שהוראה היא סדרתית."** סדרתיות הכרחית ואינה מספקת; האילוץ המחייב הוא תקפות התגמול. יעד מוגדר היטב עם מדיניות חלשה גובר על מדיניות חזקה כנגד יעד שגוי.
-
-## מושגים מחוברים
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות בינה מלאכותית (מודלים, אימון מודלים לשוניים, רובוטיקה, הפקה מוגברת באחזור, סוכניות)
-
-## מאמרים מחוברים
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF למילוי הנחיות פדגוגיות
-- [[adaptive-scaffolding-cognitive-engagement-its]] — פיגום ICAP אדפטיבי במערכת הוראה חכמה (BKT מול DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

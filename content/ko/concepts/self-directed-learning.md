@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,29 +88,3 @@ SDL이 학습자가 주도하는 방향을 강조하기 때문에, 그것을 보
 **"AI를 쓰지 않는 것은 접근성의 부족을 뜻한다."** AI를 사용하지 않는 학생들이 밝히는 이유는 흔히 접근 장벽이 아니라 스스로 그 일을 해 보고자 하는 긍정적인 교육적 선택입니다. 미사용을 결핍으로 읽는 것은 [[student-experience]] 근거에서 이성적인 입장을 잘못 기술하는 일입니다.
 
 **"자기주도란 혼자 일하는 것이다."** 그것은 방향을 소유하는 일이며, 매우 지원이 많은 환경에서도 발휘될 수 있습니다. 구별되는 특징은 도움이 있는지 여부가 아니라 누가 목표를 정하고 조정하는가입니다.
-
-## 연결된 개념
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — 중등학생의 자기주도적 생성 AI 사용과 학업 발달: 대규모 1년 종단 연구
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 무분별한 GenAI 사용과 자기주도 학습(SEM, 성별 차이)
-- [[ai-lifelong-learning-policy]] — AI와 평생 학습 정책
-- [[self-directed-growth-generative-ai-learning-analytics]] — GenAI와 학습 분석을 통한 자기주도적 성장
-- [[genai-educational-outcomes-meta-analysis]] — 생성형 AI의 교육적 결과에 관한 메타분석
-- [[andragogy-cognitive-delegation-genai-2026]] — GenAI와 함께하는 성인교육학과 인지적 위임
-- [[kim-ai-andragogy-2026]] — 성인교육학을 지원하는 AI의 적용(Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — 모형은 자유 선택 과제에서 인간처럼 학습 목표를 선택하지 않는다(Molinaro 등 2026)

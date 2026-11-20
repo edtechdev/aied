@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -78,29 +80,3 @@ O julgamento comparativo baseado em LLM é um caso em que o viés acompanhou a l
 - **"A língua-alvo deve dominar desde o primeiro dia."** Em uma **revisão sistemática de 24 estudos**, os aprendizes pediram **frases e explicações contextualizadas na própria língua como ponte para a língua-alvo** — um uso que os revisores classificam como um subaffordance genuinamente novo, e não como um contorno. O apoio na língua de casa funcionou como [[scaffolding|andaimento]], não como esquiva.
 - **"A avaliação linguística por IA é enviesada contra escritores multilíngues."** Aqui o viés acompanhou a **linha de base humana em vez do modelo**: o julgamento comparativo por LLM em **escrita informativa do 3º ao 6º ano convergiu com rubricas de pesquisadores (r = 0,59–0,73)** e mostrou o mesmo padrão que os avaliadores humanos mostraram. Isso não é evidência de justiça em termos absolutos — é evidência de que o modelo não introduziu uma nova distorção sobre a que já existia.
 - **"A saída com qualidade de tradução é a parte útil."** O uso como ponte é explicativo e situado, não substitutivo. Uma ferramenta que substitui a produção do próprio aprendiz elimina a prática que a ponte deveria viabilizar.
-
-## Conceitos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Artigos conectados
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Chatbots de GenAI possibilitam a translinguagem, um uso que ferramentas linguísticas anteriores não ofereciam
-- [[llm-comparative-judgment-writing-screening-2026]] — Validade do julgamento comparativo por modelos de linguagem grandes para triagem universal de escrita
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizagem adaptativa baseada em IA para a Nigéria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Companheiro bilíngue de aula com LLM
-- [[structural-silence-underrepresented-language-ai-2026]] — Silêncio estrutural: línguas sub-representadas
-- [[llm-cultural-relevance-k12]] — Relevância cultural de LLMs no K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Engajamento crítico com IA generativa entre estudantes minoritários
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de dados de sistemas de conhecimento indiano
-- [[kutti-ai-voice-first-learning-companion]] — Companheiro de aprendizagem de voz primeiro
-- [[ai-scoring-language-bias-physics]] — Viés de língua na pontuação por IA em física
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Alternância de código quadrilíngue com IA conversacional em Curaçao e Aruba (Bush et al., 2026)

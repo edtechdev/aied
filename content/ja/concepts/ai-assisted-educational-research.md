@@ -22,7 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -181,50 +182,6 @@ AI執筆の規模の効果は、2件目の書誌計量学研究に現れます�
 - **「LLMの論文とソフトウェアの論文は、同等によく評価されている。」** 2023年以降、**ソフトウェアと製品の論文の38.0%が評価をまったく報告していないのに対し、LLMの論文では9.3%**でした。この隔たりは大きく、新しい道具ほど厳密に検証されていないという前提に反します。
 - **「課題ごとに層別すれば隔たりは解消する。」** **隔たりは層別しても残ります**。スクリーニングと選択では、ソフトウェアの論文は平均して**実質的な評価の項目が3.2件で、39.3%が一つも報告していない**のに対し、LLMの論文はより多くを報告しました。この差は課題の性質ではなく、論文の種類に固有の体系的な性質です。
 - **「肯定的な評価は、そのワークフローが意図された水準を満たしたことを意味する。」** **肯定的な評価のみを持つ118本のLLM論文のうち、52%が、そのワークフローが役割に求められる水準を下回ったという懸念を少なくとも一つ報告していました**。肯定的な評価の半数が、自らの反証を含んでいたのです。
-
-## 関連する概念
-
-- [[research-methods-aied]] — 教育におけるAIを研究するために用いられるデザインの包括的な枠組み
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## 関連する記事
-
-- [[ai-methodologies-science-education-research-2026]] — AI方法論が科学教育研究をどう変革しうるかについての7段階の内省的枠組み(Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — ある学際的なレビューチームによる、指導と選択的なAI統合の記述(Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28名の大学院生が研究ワークフロー全体でGenAIをどう用いたか、そして彼らが示唆する指針(Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — コンピュータ教育文献における捏造された参照の分野規模の監査(Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — AI支援によるシステマティックレビューのための報告枠組みと、それが記録する責任追及の隔たり(Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — 生成AIと学術検索に関するCHIIR 2026ワークショップ報告(Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — 研究の作業空間における持続的なエージェントの単独調査者による事例研究(Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — AI支援による執筆が、より小さく若い研究チームを伴うという書誌計量学的エビデンス(Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — エージェントチューターをシミュレートされた学習者に対して評価する30日間のベンチマーク(Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — 本物の初心者の苦闘を再現する、ニューロシンボリックなシミュレーター(Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — シミュレーターがあらゆるフィードバックの下で誤概念を放棄する理由と、訓練がそれを修正するしかた(Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — 固定されたシミュレートされた学習者を用いて、有用性の測定が教育性を測るかどうかをテストする事前登録された監査(Fan et al., 2026)
 
 ## 引用
 

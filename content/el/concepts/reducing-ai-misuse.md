@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -106,53 +108,3 @@ ai_assist:
 **«Η ανίχνευση της κατάχρησης και η τιμωρία της είναι στρατηγική πρόληψης.»** Η πρόληψη πρέπει να καλύπτει και τον ίδιο τον βαθμολογητή. Η αξιολόγηση red team του [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] βρήκε ότι δύο από πέντε στρατηγικές έμμεσης έγχυσης προτροπών ενσωματωμένες σε αρχείο υποβολής ανέβασαν τη βαθμολογία αποτυχημένου δοκιμίου. Μια ροή που ανιχνεύει την κατάχρηση από τους μαθητές ενώ εμπιστεύεται ανεξέταστο περιεχόμενο υποβολών είναι υπερασπισμένη από τη μία πλευρά μόνο.
 
 **«Η κατάχρηση είναι πρόβλημα κινήτρων των μαθητών.»** Οι [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher και Calderon (2025)]] ανεβάζουν τον δεσμευτικό περιορισμό ένα επίπεδο, αντιμετωπίζοντας τη διακυβέρνηση και όχι τη συμπεριφορά των μαθητών ως αυτό που πρέπει να αλλάξει, και προτείνουν ένα πλαίσιο δεικτών ακεραιότητας 130 στοιχείων. Και η μαθησιακή βλάβη είναι μετρήσιμη σε κλίμακα: οι [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei και Wu (2026)]] βρήκαν ότι η ανάθεση της εργασίας εξωτερικά αύξησε τις βαθμολογίες της εργασίας κατά 18% ενώ *μείωσε* τις βαθμολογίες στις εξετάσεις κλειστού βιβλίου κατά 20%, μια αποτυχία σχεδιασμού που εμφανίζεται ακριβώς στο χάσμα για το οποίο μιλά αυτή η σελίδα.
-
-## Συνδεδεμένες Έννοιες
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Συνδεδεμένα Άρθρα
-
-- [[ivory-psychology-assessment-integrity-2026]] — Ίχνη τεκμηρίων ελέγχου εκδόσεων και αναπαραγώγιμα έγγραφα ανάλυσης ως ανασταλτικά της κατάχρησης (Ivory και συν. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Η παρακράτηση σύστασης εμπόδισε σε μεγάλο βαθμό την υπερβολική εξάρτηση χωρίς να χτίσει την κρίση που προστατεύει
-- [[generative-ai-guardrails-harm-learning]] — Η γενετική ΤΝ χωρίς προστατευτικούς μηχανισμούς μπορεί να βλάψει τη μάθηση
-- [[genai-performance-vs-learning]] — Διακρίνοντας τα κέρδη επίδοσης από τη μάθηση
-- [[ai-assessment-scale-reform]] — Η Κλίμακα Αξιολόγησης με ΤΝ και η μεταρρύθμιση της αξιολόγησης
-- [[critical-thinking-genai-scaffolding]] — Υποστηρίζοντας την κριτική σκέψη με γενετική ΤΝ
-- [[aaai2026-prompting-literacy-k12]] — Μαθαίνοντας να χρησιμοποιείς την ΤΝ για μάθηση (ενότητα επάρκειας σε ΤΝ για K-12)
-- [[genai-declaration-frameworks-higher-education]] — Δομώντας τη διαφάνεια: πλαίσια δήλωσης γενετικής ΤΝ
-- [[absent-cognitive-baseline-2026]] — Η απούσα γνωστική βάση αναφοράς
-- [[ai-literacy-power-knowledge]] — Επάρκεια σε ΤΝ: άσκηση εξουσίας και γνώσης
-- [[contextual-sycophancy-ai-literacy]] — Το κρυφό κόστος της πλαισιακής κολακείας: παρέμβαση επάρκειας σε ΤΝ
-- [[sycophantic-ai-social-interaction-2026]] — Η κολακευτική ΤΝ κάνει την ανθρώπινη αλληλεπίδραση να φαίνεται πιο επίπονη και λιγότερο ικανοποιητική με τον χρόνο
-- [[ssaho-ai-academic-integrity-review-2025]] — Οικοδόμηση κουλτούρας και επανασχεδιασμός της αξιολόγησης αντί για αστυνόμευση με ανίχνευση
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Γνωστική παράδοση, παραγωγική τριβή και μεταγνωστική ανισότητα
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Επανεξετάζοντας τις προφορικές εξετάσεις ως αυθεντική, ανθεκτική στην ΤΝ αξιολόγηση
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Το μαθησιακό κόστος της γενετικής ΤΝ: η ανάθεση της εργασίας εξωτερικά βλάπτει τη μάθηση
-- [[ai-overreliance-complex-adaptive-system-2026]] — Η υπερβολική εξάρτηση από την ΤΝ ως πολύπλοκο προσαρμοστικό σύστημα
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Οι προστατευτικοί μηχανισμοί αφαίρεσαν τη βλάβη χωρίς να βελτιώσουν τις βαθμολογίες στις εξετάσεις
-- [[munoz-misconduct-allegation-evidence-2026]] — Τι περιέχουν πραγματικά ως τεκμήρια οι φάκελοι καταγγελίας παράπτωματος
-- [[wright-transcription-not-generation-2026]] — Υπερβολικά περιεκτικοί κανόνες ΤΝ και οι μαθητές που πιάνουν
-- [[sharma-judgment-visible-genai-assessment-2026]] — Η ακεραιότητα ως αξιολογική κρίση και όχι ως συμμόρφωση
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Οι μαθητές για το αν η γενετική ΤΝ είναι εργαλείο αντιγραφής ή συνεργάτης μάθησης
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Τι κάνει η απομακρυσμένη εποπτεία εξετάσεων στους μαθητές και στην ισότητα
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Πρόληψη περιστασιακού εγκλήματος κατά της αντιγραφής με ΤΝ: από 183 σε 27 υποθέσεις, και πέντε επανασχεδιασμοί ειδικοί για κλάδο (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Τι συνιστούν 38 μελέτες για τη φωνή των μαθητών: συν-δημιουργημένη σαφήνεια και εκπαιδευτική συλλογιστική αντί για ανίχνευση (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Πού τελειώνει η γλωσσική υποστήριξη και πού αρχίζει η υποκατάσταση για συγγραφείς EAL (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Η έγχυση προτροπών ως διάνυσμα κατάχρησης κατά της βαθμολόγησης με ΤΝ (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Η διακυβέρνηση ως δεσμευτικός περιορισμός της ακεραιότητας: ένα πλαίσιο δεικτών 130 στοιχείων (Coates, Croucher & Calderon 2025)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Υπεύθυνη χρήση γενετικής ΤΝ από φοιτητές στην ακαδημαϊκή γραφή: ανασκόπηση πεδίου για όρια, εκπαιδευτικές προσεγγίσεις και κενά τεκμηρίων
-- [[guo-overreliance-genai-feedback-2026]] — Το γνωστικό φορτίο περνά μέσα από την εκφόρτωση στην υπερβολική εξάρτηση, με την παρακολούθηση να αλλάζει τη διαδρομή

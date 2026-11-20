@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,24 +65,3 @@ Katika kazi zote zilizojadiliwa hapa, uwasilishaji wa data kwa michoro unajitoke
 - **"Uwasilishaji bora wa data kwa michoro huzalisha matokeo bora."** Walimu **walipendelea kwa utaratibu uwasilishaji rahisi na wa jadi zaidi** (ploti za baa, chati za pai, vielelezo) **hata pale miundo tata kama ramani za joto ilitoa maarifa ya kina zaidi**. Kifaa chenye taarifa zaidi hakikuwa kile kilichotumika, hivyo kupitishwa ni tatizo tofauti na ubora wa ubuni.
 - **"Wanafunzi huangalia pale ngazi za msaada zilipo."** Somo moja liligundua wanafunzi **walitumia sehemu kubwa ya mtazamo wao kwenye msimbo licha ya ngazi za msaada za kuona zilizoandaliwa kwa kina**; misaada hiyo haikuvuta umakini. Msaada wa kuona uliopo lakini usioangaliwa haubadilishi chochote.
 - **"Ushiriki na ufahamu husogea pamoja."** Washiriki waliona katuni za data zilizozalishwa na AI **zenye ushirikiano zaidi na zinaeleweka zaidi, lakini wengi pia walibainisha hatari ya taarifa potofu na mzigo wa taarifa**. Mitikio yote miwili ilitoka kwenye kifaa kimoja, hivyo mapokezi chanya si usomaji uliothibitishwa.
-
-## Dhana Zilizounganishwa
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — uwakilishi wa nafasi na wa vipengele vitatu
-
-## Makala Zilizounganishwa
-
-- [[interactive-learning-dashboards-engagement]] — Kufikiria upya michoro ya kujifunza kama zana za mahusiano kupitia mawakala wa kielimu
-- [[mllm-scientific-visualization-literacy]] — Kupima mifano ya MLLM kwa ujuzi wa uwasilishaji wa data ya kisayansi
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Mifano ya maandishi-hadi-picha iliyorekebishwa na kikoa kwa uwasilishaji wa dhana za nyuklia
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Ufanisi, faida, na maadili ya vicheko vya data vilivyosaidiwa na AI
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmark ya counterfactual kwa ukaguzi wa slaidi za multimodal
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Kufanya matokeo ya ML yaweze kufikiwa na walfunzi katika madarasa ya mchanganyiko
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

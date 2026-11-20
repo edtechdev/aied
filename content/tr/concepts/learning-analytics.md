@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -58,7 +60,6 @@ Sensör ve göz izleme analitiği, aynı öğrenen modellerini besleyen ikinci b
 
 **Yalnızca sırayı değil, kursların eşzamanlılığını modelleyin.** TRACE, bir dönemdeki her kursa aynı konumsal kodlamayı verir ve kurslarla notları birlikte tahmin etmek not tahmin hatasını 0,1339 MAE’ye düşürür — yalnızca not temelli bir transformatöre kıyasla %46,4 azalma — on yıllık kurumsal veri üzerinde ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
-
 **Etkileşim verisi, modelleme sorunundan önce bir temsil sorunudur.** [[taufer-human-ai-interaction-haidl-2026|Taufer ve ark. (2026)]], her insan-YZ alışverişini, isteği doğuran hesaplamayı, isteği, yanıtı, kullanıcının geri bildirimini ve ardından gelen yürütmeyi taşıyan tek bir yapılandırılmış kayıt olarak ele alır; bunu izole bir istek metni olarak değil. 35 öğrencili bir konuşlandırmada 140 öğrenci-ödev çifti üzerinde, tek başına etkileşim sayısı başarıyla yürütülen hücrelerle r = 0,12 düzeyinde ilişkiliydi ve aynı çağrı, çevresindeki duruma bağlı olarak bir hata kurtarma, bir sonraki adım, bir kavram denetimi ya da bir doğrulama olabilirdi. Erişimi olan otuz yedi çift hiç etkileşim üretmedi; bu nedenle bir günlükte YZ kullanımının yokluğu, ihtiyacın yokluğu olarak okunamaz.
 
 ### Öğrenme analitiği döngüsü
@@ -70,7 +71,6 @@ Sensör ve göz izleme analitiği, aynı öğrenen modellerini besleyen ikinci b
 [[qualitative-research|Nitel]] verilerin frekans kodlaması bir giriş noktasıdır, hüküm değil: on katılımcılı bir çalışmada bazı öğretim elemanları frekans kodlamalarını verimli bir başlangıç olarak okurken diğerleri bunların nadir ancak kritik yanıtları gizlediğine dair uyarıda bulundu; bu nedenle tasarım her toplu görünümü öğrenci metninin birebir kaydına bağlı tutar ([[wordstream-glass-learning-analytics|Nguyen ve ark. (2026)]]).
 
 ### Betimlemeden müdahaleye
-
 
 - **Kanıt tabanı henüz müdahale kanıtı değildir.** Öğrenci, disiplin, eğitici ve kurumsal düzeylerde dört çalışmayı sentezleyen [[learning-analytics-genai-learning-design|Rienties, Divjak ve Law (2026)]], alanın kesitsel, [[self-report-measures|öz bildirim]], söylem temelli ve uzman yargısına dayalı tasarımların egemenliğinde olduğunu bulur ve nedensel mekanizmaları ve daha uzun vadeli, dağılımsal sonuçları sınayan müdahale araştırması çağrısında bulunur.
 
@@ -111,7 +111,6 @@ Ağ yöntemleri öğrenme analitiğinin özünü oluşturur: [[network-analysis|
 
 - **Panoların neyi görünür kıldığı, öğretmenlerin ne yaptığına karar verir.** [[ai-supported-lecturer-decision-making-2026|Köroğlu ve ark. (2026)]], 27 ampirik çalışmayı (2016–2025) gözden geçirip YZ destekli öğretim elemanı karar vermesinin sekiz karar türü boyunca sosyoteknik bir taksonomisi oluşturdu: öğretimsel, öğretim programı, değerlendirme, geri bildirim, öğrenme ortamı, duygusal, idari ve etik. Öğrenme Analitiği Panoları en sık bildirilen sistemdi ve kodlama, davranışsal metin ve günlük kaydı verisinin bilgilendirebildiği öğretimsel, geri bildirim ve değerlendirme kararlarında desteğin yoğunlaştığını, duygusal, etik, öğretim programı ve öğrenme ortamı kararlarının ise nadiren desteklendiğini gösterdi. Yazarlar bunu bir yetenek sınırından çok bir dikkat etkisi olarak okurlar: sistemler davranışsal öğrenci verilerini görünür ve eyleme dönüştürülebilir kıldığı için motivasyon, [[metacognition]], duygu ve ortam kaygıları, verinin öğretim elemanlarını değerlendirmeye davet ettiği şeyin dışında kaldı.
 
-
 - **YZ analizlerini sınıf konuşmasına dönüştürmek başlı başına bir öğretmen becerisidir.** Dört ortaöğretim matematik dersinde bir öğretmenin 47 tüm sınıf düzenlemesi, öğrencilerin gerekçelerini seçip sıralayarak pano çıktısını kolektif argümantasyona dönüştürdü ve çalışma dört yinelenen tür adlandırır ([[ai-integrated-math-argumentation-teacher-noticing-2026|Lee, Park ve Lee (2026)]]).
 - **Bir öğretmenin yükünü hafifleten analitik, bir öğrenenin yükünü hafifleten analitik değildir.** [[embodied-learning|Bedensel öğrenme]] alanında YZ üzerine 23 çalışmanın derlemesinde, 40 rol etiketinin %62,5’i bir hareketi, yörüngeyi ya da eseri değerlendiren algılama rolleridir — ki bu iş aksi hâlde bir öğretmene düşerdi — ve yazarlar öğretmen iş yükündeki azalmanın öğrenen yükündeki azalma olarak okunmaması gerektiği uyarısını yapar. Gerekçeleri bu tür kodlamanın neyi gösterebileceğine dair bir sınırdır: bir sistemin yerine getirdiği işlevi kaydetmek onun öğrenen üzerindeki etkisi hakkında hiçbir şey söylemez; bu yüzden rol frekansları sistemin bilişi dışsallaştırdığını mı derinleştirdiğini mi belirleyemez ([[kim-ai-embodied-learning-review-2026|Kim ve Han, 2026]]).
 
@@ -131,70 +130,3 @@ Panolar ve erken uyarı sistemleri, [[automation-bias|otomasyon yanlılığı]] 
 - **Adlandırılmış öğrenme stratejilerine karşı tıklama akışlarını okuyan LLM’ler.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr ve ark. (2026)]], bir öğrencinin izinde bir stratejiye dair kanıtı bulan, uyumu yargılayan ve yargının arkasındaki eylemleri gösteren bir [[llm|LLM]] hattı kurar; daha zor bir benzetimde genel kalitede 0,735’e ulaşarak düz bir temel çizginin 0,704’ünü geçer.
 - **“Analitik tıklama akışı izleri gerektirir.”** Kazanım Odaklı Eğitim içinde bilgi durumları, OBE benzerlik eşlemeleri kullanılarak **kurs kazanımlarının doğrudan LMS etkileşim ve erişim verilerinden izlenmesi** yoluyla kestirilebilir: sinyali kurumsal kayıt sağlar.
 - **“Eylem penceresi olmadan tahmin yararlıdır.”** İlerleme tahmini en çok **yorumlanabilir olduğunda ve bir eylem penceresiyle eşleştirildiğinde** kullanışlıdır: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]] modül düzeyinde sonuçları tahmin eder; bu, ham bir puandan farklı olarak bir danışmanın eyleme geçebileceği bir biçimdir.
-
-## Bağlı kavramlar
-
-- [[automation-bias]] — Var olduğu için denetlenmeden harekete geçirilen bir işaret
-
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[sensor-and-gaze-analytics]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — tahminin beslendiği destek tarafı: yönlendirme, dağıtım ve bunların hareket ettirdiği ya da ettirmediği sonuçlar
-
-## Bağlı makaleler
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Human-AI exchanges as structured records: prompt counts carry almost no signal about progress
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Noticing and orchestrating AI analyses into collective argumentation (Lee, Park & Lee 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
-
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
-- [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
-- [[kim-ai-embodied-learning-review-2026]] — Bedensel öğrenmede YZ çoğunlukla gözler: kodlanan rol etiketlerinin %62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenen kullanırken çok kipli akışları birleştirmiyor (Kim ve Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Açıklama katmanını yalıtan etkin denetimli mikro-öğretim çalışması: yorum değişti, eylem değişmedi (Liu ve ark. 2026)
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: tıklama akışlarını literatürde tanımlı öğrenme stratejileri üzerinden yorumlamak (Radmehr ve ark. 2026)
-

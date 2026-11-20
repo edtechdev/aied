@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -118,42 +120,3 @@ Enfin, collecter n'est pas intégrer. Kim et Han ont trouvé que la plupart des 
 **« L'engagement est une seule chose, donc un seul score peut le représenter. »** Le construit comporte trois volets, et un capteur n'atteint surtout que le premier. E3Sense a trouvé que les apprenants le définissaient par des indicateurs cognitifs, comportementaux et émotionnels dans des proportions différentes, et que ces définitions changeaient la prédiction ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et coll., 2026]]). Un nombre unique cache quelle couche a été mesurée.
 
 **« Si le modèle est équitable sur la découpe de validation, il l'est en classe. »** Un régularisateur qui égalisait l'erreur de validation entre les groupes de genre a aggravé l'écart sur les sujets tenus à l'écart ([[student-attention-estimation-fairness-2026|Fragkiadakis et coll., 2026]]). L'équité est une propriété d'un déploiement, non d'un point de contrôle.
-
-## Concepts liés
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Articles liés
-
-- [[nissan-nursing-empathy-computer-vision-2026]] — la détection de contact physique suivait l'empathie évaluée par des observateurs, la détection de sourire l'inversait, le contact visuel et les cartes de chaleur étaient nuls (Nissan et coll. 2026)
-- [[gaze-informed-ai-children]] — la narration par LLM déclenchée par le regard a retenu les enfants sur une zone narrée 6.48 s contre 1.67 s, mais l'étude a mesuré l'attention plutôt que la compréhension (Wu et coll., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG porté sur la tête, oculométrie et EDA frontale ont prédit l'engagement auto-évalué à 75.0 % d'exactitude à un niveau près contre une base de 63.0 % (Anupkrishnan et coll., 2026)
-- [[engagement-assessment-video]] — EduGage a fusionné sept flux portables et de caméra en estimations d'engagement par segment (MAE 0.81) et plaide pour une instrumentation plus légère (Leng et coll., 2026)
-- [[student-attention-estimation-fairness-2026]] — un modèle d'attention multimodal a atteint une MAE de 0.283, et ses gains d'équité en validation se sont inversés sur des sujets tenus à l'écart (Fragkiadakis et coll., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — l'IA portable est doublement transparente, si bien que l'exclusion physique échoue et que l'application dérive vers l'arbitrage des corps des étudiants (Corbin et coll., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — quinze modèles de prédiction de familiarité par EEG sont tombés de 0.9853 à 0.6038 de F1 en validation indépendante des essais (Nanayakkara et Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — des images reconstruites par EEG suivaient la performance au test à R² = 0.79, avec un participant à forte reconstruction répondant incorrectement (Su et coll., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — une forêt aléatoire a prédit des catégories de notes d'examen à partir de l'EDA, du mouvement et de la température cutanée, signaux qui indexent l'activation plutôt que la compréhension (Yamazaki et Rimal, 2026)
-- [[affective-text-wearable-student-health]] — chez 458 étudiants portant une bague Oura, le registre émotionnel plutôt que le sujet de préoccupation suivait le sommeil et la variabilité cardiaque (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — le regard par webcam a piloté une rétroaction par apprentissage par renforcement pour 187 apprenants ; l'attention corrélait avec l'apprentissage à r = 0.017 tandis que la charge de travail corrélait négativement (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — des caractéristiques de pose YOLOv11 ont signalé un comportement suspect à 99.56 % sur un ensemble étiqueté sur mesure, sans tester la fraude ni l'équité (Arif et coll., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — la connectivité EEG diminuait avec le soutien externe à l'écriture chez 54 participants, cadrant la dépendance comme une dette cognitive accumulée (Kosmyna et coll., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — sur 23 études, les rôles de captation dominaient avec 62.5 % des étiquettes et aucun système recensé ne fusionnait des flux multimodaux en direct (Kim et Han, 2026)

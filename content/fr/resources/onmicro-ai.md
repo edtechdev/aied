@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -44,8 +45,3 @@ Il convient aux enseignants et concepteurs d'apprentissage qui veulent des inter
 ## Remarques et réserves
 
 L'offre gratuite est limitée à 10 000 crédits d'IA et trois applications ; les applications illimitées et les modèles avancés commencent à l'offre Pro, et l'intégration LTI, l'authentification unique et l'analytique avancée sont listées à l'offre Enterprise, si bien que les fonctionnalités dont une institution a le plus besoin sont celles qui ont un prix. Le dépôt est sous licence **AGPL-3.0** selon son fichier `LICENSE`, ce qui compte pour quiconque entend l'auto-héberger ou le modifier, et son README dit encore LGPL depuis avant ce changement ; lisez donc le fichier de licence plutôt que le README. Les institutions devraient aussi vérifier leurs propres conditions de traitement des données avant d'acheminer des travaux d'élèves par un service tiers hébergé.
-
-## Concepts liés
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -152,75 +154,3 @@ Een uitgewerkt voorbeeld van het cohortmodel komt uit een universiteitsbibliothe
 **"Schuldgevoel over AI-gebruik wijst op het overtreden van regels."** Het loopt gelijk op met verbergen in plaats van met openbaarmaking: AI-gebruik beperken uit onbehagen correleerde met het verbergen ervan, niet met verboden gedrag. Schuldgevoel lezen als bewijs van wangedrag identificeert dus de verkeerde bron, en het als compliancesignaal behandelen zal het gedrag verder uit het zicht duwen.
 
 **"Een lage respons op een enquête betekent dat docenten geen sterke gevoelens hebben."** Het artikel leest zijn **109 reacties (een respons van 3,5%)** zelf als informatief over de stand van het ethische debat - een lage respons op een vraag over onbehagen is een bevinding over dat onbehagen, niet de afwezigheid ervan. En een GenAI-integratie die louter als bijscholing wordt gekaderd, mist de identiteitsvraag die sommige docenten feitelijk stellen: wat het nut van lesgeven is in een GenAI-wereld.
-
-## Verbonden concepten
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-- [[metaphors-and-analogies]] — Metaforen eliciteren en analoogontwerp in docentontwikkeling
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - Overkoepeling: mensen en doelgroepen in AI-onderwijs (leerlingen, leraren, ontwerpers, beheerders, beleidsmakers)
-
-## Verbonden artikelen
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Van prompt naar praktijk: een docentgericht initiatief om AI-ondersteund OER-ontwerp te verkennen (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische discoursanalyse van advies over GenAI en alignment: ontwikkelaars herkaderd als technologietrainers
-- [[crompton-faculty-technology-integration-standards-2026]] — Standaarden voor docenten op het gebied van technologie-integratie (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethische dimensies van AI: visies van docenten en studenten
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hoe metaforen van engineeringdocenten het begrip van AI construeren (en beperken)
-- [[fear-awe-genai-metaphor-workshops-2025]] — Angst en ontzag: generatieve AI begrijpen via metafoor (metafoorworkshop voor docenten, medewerkers en studenten)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Vier criteria en vier metaforen voor het onderwijzen van kritische AI-geletterdheid
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Het onzichtbare besturen: AI-geletterdheid onder taalleraren
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als identiteitscrisis, niet als vaardigheidskloof
-- [[zuo-instructor-power-genai-writing-2026]] — Machtsverhoudingen zoals ervaren door docenten die worstelen met GenAI in schrijfonderwijs (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI als cognitieve bemiddelaar
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Zelfgerapporteerde TPACK-21-kennis van docenten voor GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-professionalisering: aanwezigheid voorspelt winst, zelf ervaren deelname niet
-- [[instructional-design-proficiency-masters-math-2026]] — Model voor slimme klaslokalen en D-T-E-lus die de instructional-designvaardigheid van M.Ed.-studenten in wiskunde verbetert (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architectuur van rollen in door AI ontworpen gedifferentieerde groepsactiviteiten (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Ervaringen en percepties van universitaire docenten over GAI: kwetsbaarheid, herdenken van beoordeling, leren van studenten in gevaar (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Van angst naar innovatie: een docenteninstituut van zes weken, symbiotische pedagogie en de institutionele voorwaarden die het niet kon leveren
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Het AI-schuldcomplex: anticiperend schuldgevoel, verberging en verschillen naar loopbaanfase onder academisch personeel (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-enquête onder 1.057 Amerikaanse docenten: institutionele onvoorbereidheid, dunne governance en de kloof van 87%/48% in beleid (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academische ontwikkelaars als digitale bemiddelaars in Global South-hoger onderwijs: ontwikkeling als sociotechnische praxis
-- [[physics-faculty-learning-community-ai-2026]] — Een workshopreeks voor effectief AI-gebruik in onzekere tijden: een leergemeenschap van natuurkundedocenten opbouwen
-- [[faculty-ai-well-being-social-supports-2026]] — AI-welzijn van docenten loopt gelijk op met AI-geletterdheid en niet met technologische zelfeffectiviteit
-- [[ai-competence-framework-landscape-2026]] — Controleer wat de niveaus van een raamwerk beschrijven voordat u het overneemt
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kan het onderwijs de AI-agenda bepalen? Gesimuleerde innovatie en pedagogische richtingbepaling in de lerarenopleiding
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 scheikundedocenten in een programma van zes weken
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ taaldocenten uit 28 landen over 20 weken
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 Scandinavische docenten; 0.20 SD winst in waargenomen voordelen
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 docenten na een GenAI-leerprogramma, met behoeften die betrokkenheid mediëren
-- [[bodek-prompted-to-explore-microlearning-2026]] — een microlearningmodel voor docentontwikkeling rond generatieve AI
-- [[bursic-ai-residency-education-curriculum-2026]] — een AI-residency in medisch onderwijs
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 bronnen; ontwikkeling van onderwijsgevenden als een van vier thema's
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 docenten die vragen om ontwikkeling door voormalige docenten
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% bouwt bestaand personeel en docenten bij
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 onderwijsgevenden die schaduw-AI legitimeerden waar richtlijnen ontbraken
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — capaciteitskloven die docentontwikkeling en aanwerving aansturen
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — herhaalde ontwikkeling als een van vijf steunlagen
-- [[chen-future-faculty-development-ai-2027]] — Zeven docentrollen, twee universele fundamenten, en het onderwijsteam als eenheid van ontwikkeling
-- [[ji-judgement-space-dialogic-inquiry-2027]] — De oordeelsruimte, dialogisch onderzoek en een driekolomsaudit van waar oordeel naar een tool is verschoven
-- [[jiang-faculty-development-japan-2027]] — Japanse dubbelsporige docentontwikkeling: deelname steeg terwijl collegiale formats dat niet deden
-- [[tian-transnational-faculty-development-governance-2027]] — Transnationale docentontwikkeling: connectiviteit is episodisch, coördinatie is het werk
-- [[ho-invariant-core-faculty-development-2027]] — Invariante kern, veranderende rand: het leermechanisme vóór de technologie

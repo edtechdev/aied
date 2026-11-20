@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -74,36 +76,3 @@ IRT adalah fondasi [[educational-measurement]] dan [[assessment-validity]], mend
 - **"Tolok ukur yang dilalui sebagian besar model adalah tolok ukur yang baik."** Tolok ukur yang selaras standar dapat **mengalami saturasi**: pada himpunan sains sekolah menengah dan sekolah menengah atas yang selaras NGSS, **sebagian besar model berbobot terbuka memperoleh skor di atas 90%**, sehingga metrik butir klasik menjadi buruk. Saturasi bukan berarti modelnya luar biasa; itu berarti butirnya tidak lagi membedakan.
 - **"Tingkat kesukaran butir adalah sifat intrinsik butir itu."** Sebuah probe kausal yang **menyunting 50 soal uji per kumpulan data** ke arah atau menjauhi sebuah hipotesis menemukan bahwa **suntingan peningkatan kesukaran menurunkan akurasi rata-rata sebesar 15.27 dan 23.88 poin persentase** pada GSM8K dan BBH-structured. Tingkat kesukaran adalah hubungan antara butir dan model, dan ia bergerak ketika butirnya bergerak.
 - **"IRT hanya untuk menskor siswa."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] menggunakan **model 2PL hierarkis Bayes dengan butir jangkar pra-tes untuk menempatkan 1,686 siswa**, yang merupakan jaminan mutu bagi penilaian itu sendiri alih-alih penskoran bagi siswa.
-
-## Konsep terkait
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Artikel terkait
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Kerangka Respons Terpadu untuk Soal dan Dialog Tutor
-- [[explaining-question-difficulty-natural-language-2026]] — Menjelaskan tingkat kesukaran soal LLM dalam bahasa alami melalui IRT dan suntingan kausal (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Dampak cacat penulisan butir terhadap tingkat kesukaran dan daya diskriminasi IRT (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Pemodelan Kausal Intervensi Dukungan untuk Penilaian Kompetensi Siswa
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validasi lapangan IRT skala besar atas ujian yang dihasilkan AI
-- [[jin-glat-genai-literacy-assessment]] — GLAT menggunakan validasi IRT/2PL (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — Prediksi tingkat kesukaran butir oleh LLM
-- [[llm-psychometric-calibration-cdp]] — Menyelaraskan penilaian LLM dengan kalibrasi psikometrik
-- [[llm-difficulty-calibration-programming-exams-2026]] — Kalibrasi tingkat kesukaran LLM pada ujian pemrograman
-- [[multimodal-item-parameter-estimation-2026]] — Estimasi parameter butir multimodal
-- [[huang-interpretable-knowledge-tracing-2026]] — Pelacakan pengetahuan yang dapat diinterpretasikan
-- [[irt-human-genai-mcq-responses]] — Menggunakan IRT untuk memisahkan respons MCQ manusia dan GenAI
-- [[razavi-powers-item-difficulty-llm-2026]] — Mengestimasi tingkat kesukaran butir menggunakan LLM dan ML berbasis pohon
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Melampaui Embedding ID: Pemodelan Bahasa Berbasis Proses untuk Diagnosis Kognitif
-- [[bayesian-consensus-irt-item-banks-2026]] — Kalibrasi konsensus Bayes atas bank butir IRT yang terus berkembang (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Audit lapangan yang menunjukkan IRT/Rasch jarang digunakan sebagai bukti validasi utama dalam instrumen literasi AI guru
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutor AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[llm-benchmark-secondary-science-topics-2026]] — Tolok ukur yang selaras standar dapat mengalami saturasi

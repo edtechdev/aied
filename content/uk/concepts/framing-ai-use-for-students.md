@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -101,38 +103,3 @@ ai_assist:
 **«Заборона інструмента усуває поведінку.»** Вона переносить її на інструменти, яких ви не бачите. Студенти вже віддають перевагу інструментам із приватним доступом над наданими установою, тож заборона виштовхує використання з єдиного середовища, де можливі підтримка, журналювання чи керівництво. Завдання фреймування - зробити дозволену поведінку привабливою, а не зробити заборонену поведінку важче спостережуваною.
 
 **«Фреймування - це переконання, тож воно більше риторика, ніж проєктування.»** Фреймування, яке описує ця сторінка, поєднане з проєктуванням: очікування, сформульовані чітко й повторно, *водночас із проєктуванням з урахуванням студентів*. Повідомлення, доставлені замість спроєктованого, - та версія, що зазнає невдачі, бо студенти читають різницю між заявленим зобов’язанням і справжнім.
-
-## Пов’язані поняття
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Пов’язані статті
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 експертів щодо послідовності: спочатку породжуй без генеративного ШІ, закріплюй з ним, потім мисли самостійно
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Прозоре обґрунтування кожного дозволеного та забороненого використання генеративного ШІ, завдання за завданням (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Заохочення належного використання генеративного ШІ, а не засудження його як завади
-- [[student-rationalization-ai-writing]] — «П’ять сайтів», де студенти раціоналізують використання ШІ в академічному письмі
-- [[student-regulatory-awareness-genai]] — Знати правила недостатньо: обізнаність про нормативні вимоги та фактичне використання
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Від тривожності щодо ШІ до стратегічної регуляції
-- [[chatgpt-inoculation-training-verification-2026]] — Повідомлення-інукуляція та поведінка перевірки
-- [[ai-fallibility-warning-help-seeking]] — Попередження про хисткість ШІ підвищує пошук допомоги
-- [[shame-guilt-ai-regulation-computing-education]] — Сором і вина як соціальні регулятори використання ШІ
-- [[access-not-enough-ai-tutoring-2026]] — Людська підтримка покращує залученість у тьюторство на основі ШІ
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Залученість із генеративним ШІ на основі SDT
-- [[ai-availability-student-motivation]] — Як доступність ШІ формує мотивацію студентів
-- [[youtube-frames-chatgpt-education]] — Як YouTube фреймує використання ChatGPT в освіті
-- [[ai-ethics-education-public-discourse]] — Публічний дискурс про етику ШІ в освіті
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Викладачі фреймують ШІ як критичне/відповідальне використання; роботодавці — як продуктивність
-- [[ssaho-ai-academic-integrity-review-2025]] — Побудова культури академічної доброчесності через чіткі очікування

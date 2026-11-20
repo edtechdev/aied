@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -89,48 +91,3 @@ OmniEdu випускає весь конвеєр, а не лише ваги: к�
 **«Закриті фронтирні моделі просто кращі, тож відкриті альтернативи — це запасний варіант.»** Розрив вужчий, ніж передбачає це припущення. У [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, побудований зі справжніх пунктів чилійських вчительських іспитів) на 97 моделях відкриті ваги **DeepSeek R1 досягли 86,65 %** проти першої десятки, що складалася переважно із закритих моделей мислення, — а порівняння вартості й точності веде ще далі у відкритому напрямку. Отже, аргумент на користь відкритості стосується контролю й аудитовності, а не жертви здатністю.
 
 **«Випустити ваги — це випустити роботу.»** Сильніші відкриті внески випускають конвеєр. OmniEdu публікує збалансоване за здатностями супервізування на суміші з 69 999 прикладів, а не лише фінальні ваги, піднімаючи кожен масштаб відкритої родини 4B/9B/27B для K–12, причому донавчена модель 4B виграла **55 пунктів** продуктивності [[scaffolding|скаффолдингу]] MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] так само документує свою процедуру RL і донавчання, включно з 440 вилученими складними негативами та 40 000 згенерованих відповідей. Ваги без рецепта відтворюють результат, не відтворюючи методу.
-
-## Пов’язані поняття
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Пов’язані статті
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Локальний помічник бази знань зі ШІ на основі OER на споживчому обладнанні (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — Адаптивний репетитор з ліцензією MIT із бібліотекою контенту OpenStax під CC BY (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Відкрита педагогічна модель 32B, що перевершує набагато більші пропрієтарні системи (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Локальний автооцінювач на базі LLM, сумісний із FERPA, який можна вставити замість існуючого
-- [[programming-its]] — Самохостований LLM з відкритими вагами для відповідності GDPR/Закону ЄС про ШІ в Python ITS
-- [[aiawe-automated-writing-evaluation]] — Модель із відкритими вагами, адаптована за допомогою LoRA, для автоматизованого оцінювання письма
-- [[stanbkt-bayesian-knowledge-tracing]] — Відкритий пакет Python для повного байєсівського відстеження знань
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Повністю відкрита агентна рамка репетиторства з пам’яттю здобувача
-- [[vismatic-secure-sandbox-cs-education]] — Відкрита контейнеризована пісочниця для оцінювання, орієнтованого на процес
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Репетитор математики, обізнаний з афектом, із відкритою кодовою базою
-- [[cdpk-pedagogy-benchmark-llms]] — Відкритий педагогічний бенчмарк на 97 моделях і фронтир вартості–точності
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Відкритий набір даних і прототип для оцінювання багатоагентного репетиторства на основі слідів
-- [[mllm-scientific-visualization-literacy]] — Відкриті моделі нижче людської базової лінії за грамотністю візуалізації
-- [[iks-instruct-dataset-indian-knowledge]] — Відкритий багатомовний набір даних для культурно закріпленої інструкції
-- [[aied-carbon-footprint-reporting]] — Метод з відкритим кодом для повідомлення навколишньосередовищної вартості LLM
-- [[egai-power-systems-education]] — Відкрита виконувана бібліотека модулів для інженерного ШІ
-- [[mooc-to-maic]] — Генерація курсів на основі LLM і змінна економіка виробництва курсів
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: відкриті базові моделі для навчання і викладання

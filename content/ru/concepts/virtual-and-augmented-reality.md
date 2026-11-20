@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -85,38 +87,3 @@ ai_assist:
 - **«Ощутить явление — значит понять его».** В пилоте студенты сообщали, что **ощущают** длину волны и амплитуду через жест рукой сильнее, чем через ползунок, — но **это измеряло восприятие, а не успеваемость**. Ощущение — это возможность среды, а произвело ли оно понимание — отдельная проверка.
 - **«Высокие оценки удобства валидируют образовательный VR-инструмент».** В **часовой сессии с 10 студентами** на Meta Quest 3 исследование сообщило о **хорошем удобстве по шкале удобства системы и минимальной симуляционной болезни**. Удобство и комфорт — предпосылки, и ни одно из них не является мерой обучения.
 - **«Согласие студентов — доказательство возможности среды».** С **29 студентами второго курса медицинской визуализации** все 29 **согласились, что жест помог им «ощутить», что такое длина волны (среднее 4.52)**. Единодушное согласие с ощущением — самоотчёт об опыте, и утверждение о возможности среды нуждается в результате, не зависящем от суждения студента о собственном понимании.
-
-## Связанные концепции
-
-- [[simulation]] — то, что иммерсивные среды обычно отображают; модель, а не модальность
-- [[embodied-learning]] — механизм, который модальность должна использовать
-- [[multimodal]] — жест, голос и пространственный ввод как каналы обучения
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — среда, где иммерсивная практика наиболее устоявшаяся
-- [[generative-ai]] — новый слой создания
-- [[prompt-engineering]] — как не-программисты строят и уточняют иммерсивные инструменты
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — опора руководства внутри шлема
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — точность воспроизведения и осознание учащимся её пределов
-- [[cognitive-offloading]] — задержка и нестабильность как посторонняя нагрузка
-- [[edtech-platform]] — синхронизация, задержка и присутствие в разных местах
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Связанные статьи
-
-- [[genai-ar-physics-simulation-prompt-2026]] — промпт из четырёх элементов, генерирующий управляемые жестами AR-симуляции по физике; пилот с 29 студентами, доказательства только о восприятии
-- [[mixed-reality-engineering-learning]] — приложения смешанной реальности против физических наборов инструментов против аудитории в механике инженерного дела; вовлечённость выше, сложная визуализация по-прежнему трудна
-- [[medgame-llm-medical-education-gamification]] — геймифицированное медицинское обучение с ИИ
-- [[tech-enhanced-tabletop-cybersecurity-education]] — дополненные настольные сценарии в образовании по кибербезопасности
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: иммерсивная студия дизайна в VR с ассистентом преподавания на базе LLM, оценённая против традиционного PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: мультимодальное обучение с помощью LLM в образовании по сценическому освещению в VR и где сломалась опора (Liang et al. 2026)

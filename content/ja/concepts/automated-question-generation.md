@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -93,56 +95,3 @@ AQGは[[adaptive-learning|アダプティブ]]学習と[[personalized-learning|�
 **「問題生成は自然に練習を個別化する」。** それは供給を生成し、個別化はマッチングの問題です。より多くの項目を作ることは、ある学習者が次にどの項目を見るべきかを教えません。適応的な選択の問いは、独自の証拠を持つ別の機構です。
 
 **「生成は評価を拡張するが、評価が測るものは変えない」。** それは測られるものの構成を変えます。よく生成される項目は、よく評価する項目の代表的な標本ではないからです。生成しやすい形式が生成しにくい形式を徐々に押し出し、それが静かに構成概念を形作り直します。
-
-## 関連する概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## 関連する記事
-
-- [[genai-medical-education-transformation-review-2026]] — 教員作成項目の品質と比較したAI項目生成に関する医学教育報告153件のスコーピングレビュー
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — IRTを用いたAI生成試験の品質の大規模な実地検証
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate問題生成
-- [[kt4eqg-personalized-question-generation]] — 知識追跡を用いた個人向け問題生成
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 聴覚障がい者向けのLLM問題生成
-- [[llm-educational-question-cognitive-depth]] — LLM生成問題の認知的深さ
-- [[slidesqaqa-pedagogical-question-generation]] — スライドデッキからの教授法的Q&A生成
-- [[code-gen]] — CODE-GEN: RAGを用いた人間参加型問題生成
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddlesベンチマーク
-- [[taklif-ai-interest-based-personalized-assignments]] — 関心に基づく個人向け課題
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLMによる難易度調整
-- [[self-referential-l2-writing-llm-assessment]] — 自己言及的な分析的作文評価
-- [[cross-dataset-bloom-question-classification]] — データセット横断的なブルーム問題分類
-- [[llm-chatbots-cs-multiple-choice]] — LLMチャットボットと計算機科学の多肢選択項目
-- [[socratic-tests-conversational-assessment]] — ソクラテス的テスト：対話的評価
-- [[llm-turing-test-italian-legal-exams-2026]] — 法律試験におけるLLMチューリングテスト
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木ベース機械学習を用いた項目難易度の推定
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: プロセスに基づく数学項目の品質評価
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 人間とAIの共同学習ループの中で学習者を学ぶエージェント的チューター
-- [[automated-constructive-assessment-hdr-llm-2026]] — 大規模言語モデルによる構成的評価の自動化：実践的能力のスケーラブルで反復的な評価に向けて
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス授業における学生のLLM利用とAI生成問題難易度の限界
-- [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援教育問題に対する教授法的評価のための事前訓練モデルの評価
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 生徒は評価対象試験においてAI生成の多肢選択問題とライセンス試験項目を見分けられず、生成項目の18.2%はレビューで除外された（Vogt et al. 2026）
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 作問ルーブリックを通過した生成項目でも、意図した能力水準に達しないことがある
-- [[islam-human-vs-ai-sba-dental-2026]] — 項目あたりの仕上げ時間は6.0分から1.0分に短縮されたが、これは使用可能な草稿から最終版までの測定であり、全工程の時間ではない

@@ -10,6 +10,8 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 > **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or [[pedagogy|pedagogical]] approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.
@@ -56,25 +58,3 @@ For the fuller treatment of experimental design in AI in education — including
 - **"Randomisation guarantees a valid estimate of what the tool does."** Randomization balances confounders; it does not ensure anyone used the treatment. A group-randomized trial with low uptake estimates **the effect of offering** the tool, and intent-to-treat and treatment-on-treated answer different questions.
 - **"A big trial is always the better design."** Some argue that conventional large-scale trials **cannot keep pace with tutoring platforms that change materially during a study**, and instead use teacher-led designs that stay valid as the system evolves. A trial of a moving target can be well powered and still measure a system that no longer exists.
 - **"RCTs and observational evidence are substitutable."** An RCT with **1,174 participants** found GenAI **closed about three-quarters of an education-based productivity gap** — a precise causal claim over a specific period. Observation explains mechanism and adoption; it cannot carry that estimate, and the RCT cannot explain why.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — the design behind the strongest student-support evidence
-
-## Connected Articles
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Lesson planning time fell to 0.76 of the comparison group's across 108 primary schools, on a 7% dose of tool use
-
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — An outcome measured after a delay, not at the end of the session

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -69,44 +71,3 @@ NERの符号化に関するエビデンスは、単一の最良モデルでは�
 - **「モデルの素の能力が、誤りをどれだけ診断できるかを決める。」** **接地**が決めます。[[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan（2025）]]は、GPT-4にチューターのインターフェースを与えることが**誤り診断を大きく変えた**ことを示しました。学習者の文脈についてモデルに何が与えられるかは、どのモデルであるかよりも大きな働きをします。
 - **「どのフロンティアモデルも[[pedagogical-agent|学習パートナー]]として同じように振る舞う。」** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky（2025）]]が教室での比較で**3つのフロンティア系列**（ChatGPT、Gemini、Claude）を扱ったのは、これらの系列が協働者として交換可能ではないからです。
 - **「より良いモデルはより少ない[[scaffolding|足場]]で済む。」** GPT-4は、**意味的に精密で、反復的に共調整されたルーブリック**で足場を組むことで、[[design-based-research|設計に基づく研究]]における人間の[[evaluative-judgment|評価的判断]]に近づきました。その近似は、モデル単独ではなく、反復を経て洗練されたルーブリックから生じました。
-
-## 関連する概念
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — 包括的概念：AI技術と技法（モデル、LLM学習、ロボティクス、RAG、エージェント性）
-
-## 関連する記事
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI生成試験の質の評価：大規模なフィールド研究
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AIは多様な学生プロファイルに適切な支援を提供できるか。大規模な評価
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教育設計のエージェントとしてのLLM
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木ベース機械学習による項目困難度の推定
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス授業における学生のLLM利用とAI生成問題の困難度の限界
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育的対話の監査可能な符号化のためのアサーションベーススキーマ
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — 11のLLMにおける追従性：AIは人間より49%多くユーザーを肯定し、信頼と継続利用を高める

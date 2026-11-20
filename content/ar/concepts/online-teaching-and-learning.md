@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -58,7 +60,6 @@ ai_assist:
 - **التعليم عن بعد.** برامج مصممة للمتعلمين الذين يدرسون عن بعد، غالباً على نطاق واسع وعبر أقاليم (مثل أكثر من 200 ألف متعلّم في الجامعة المفتوحة). والتعلم عن بعد هو المجال الأبرز لبروز دعم ذكاء اصطناعي متاح على مدار الساعة ومُدمج في السياق واستحالة المراقبة الحضورية. وتُظهر أدلة مقارنة من إعداد معلمي العلوم في جنوب أفريقيا أن الوسط ذاته مرتبط بالجاهزية: أبلغ [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] عن فجوة في TPACK [[self-report-measures|المبلّغ عنه ذاتياً]] لتعليم [[science-education|العلوم]] المدعوم بالذكاء الاصطناعي قدرها 64.0% مقابل 47.4% بين متدرّبي السنة النهائية في برامج قائمة على الحضور وأخرى للتعليم عن بعد، مع كون المعرفة البيداغوجية أضعف في المؤسستين. ويحذّر هذا النمط من أن برامج التعليم عن بعد لا يمكنها الافتراض بأن التدريب نفسه على الذكاء الاصطناعي ينتج الجاهزية نفسها، وأن تصميم التدريب لا وجوده هو ما يختلف.
 
 لم يُنتج تسجيل حرمين جامعيين مشتركين في مقرر لامتزامن واحد أي تفاعل بين الحرمين عند واحد من 19 طالبًا على الأقل، فالتسجيل المشترك واقعة جدولة لا تصميمًا يخلق سياق الأقران الذي يفترضه مقرر عبر الإنترنت ([[aggarwal-genai-cybersecurity-2026|Aggarwal، 2026]]).
-
 
 ## فرص الذكاء الاصطناعي وفوائده للتعليم عبر الإنترنت
 
@@ -145,60 +146,3 @@ ai_assist:
 **«الذكاء الاصطناعي يرفع الأداء، فهو يرفع التعلّم.»** في السياقات عبر الإنترنت يكون التباعد كالتباعد في الصفوف: فقد وجدت [[rct|تجربة عشوائية مضبوطة]] أن المساعدة غير المحروسة بالذكاء الاصطناعي رفعت أداء التدريب لكنها *خفضت* درجات الامتحان دون مساعدة، بينما أزال مدرّس «التلميح لا الإجابة» الضرر. وتعتمد المقررات عبر الإنترنت اعتماداً أكبر على التقويم اللامتزامن، فالفجوة بين الأداء المُساعَد وغير المُساعَد هي حيث تُكسَب الصلاحية أو تُفقَد.
 
 **«صلاحية التقويم مسألة سياسة تصحيح.»** إنها مسألة تصميم تنشأ من الوسيط: فحين يمكن إنتاج تسليم دون حضور المتعلّم، تتوقف الصلاحية على هل تنتج المهمة دليلاً على أن المتعلّم أنجز العمل. وإعادة تصميم المهمة تعالج هذا؛ أما تشديد عقوبة سوء السلوك فلا.
-
-## المفاهيم المرتبطة
-- [[pedagogical-patterns]] — السياق الذي يجعل التسلسل حاملاً للأعباء، بما أن النظام لا يستطيع رؤية محاولة
-- [[assessment-validity]] — صلاحية الاستدلال من العمل المقدَّم إلى التعلّم
-- [[agentic-ai]] — أنظمة مستقلة تشغّل الأدوات والمنصات، بما فيها أنظمة إدارة التعلّم
-- [[community-of-inquiry]] — جماعة الاستقصاء
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## المقالات المرتبطة
-- [[ai-agents-complete-lms-assessment-validity-2026]] — أكملت وكلاء مستقلون تقويمات أنظمة إدارة التعلّم غير الخاضعة للمراقبة من البداية إلى النهاية: مشكلة صلاحية تقويم (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — توائم التقويم: اقتران مهمة هشّة أمام GenAI بأخرى أقل هشاشةً مجدولة بقرب وعلى النواتج ذاتها
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — نزاهة التأليف المشترك دليلاً على الصلاحية، والمقابلة الشفوية الذكية تحققاً قابلاً للتطوير
-- [[asynchronous-oral-assessment-2026]] — تقويمات شفوية لامتزامنة: تسجيلات محدودة زمنياً غير مراجَعة تُعلَّم وفق معايير مضمّنة
-- [[brcic-effortless-trap-productive-struggle-2026]] — فخّ بلا جهد: تنظيم الذكاء الاصطناعي مكانياً لا الإذن به أو منعه
-- [[metacognitively-discordant-completion-genai-2026]] — الإتمام المتنافر ما وراء معرفياً: عمل صحيح يُقدَّم دون فهم
-- [[decreasing-digital-distraction-college-online-learning-2026]] — أي استراتيجيات التنظيم الذاتي تتزامن مع تشتّت رقمي منخفض (530 طالباً)
-- [[song-genai-learning-partner-srl-over-time-2026]] — التعلّم الذاتي التنظيم كميلاد ثابت وحالة متقلبة؛ ما وراء المعرفة والرفاهية تتراجع على مدى فصل دراسي
-- [[genai-marketing-education-roles-2026]] — الذكاء الاصطناعي كمدرّس وزملاء فريق وأداة: الأدوار وآثارها على الحضور
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — ما بعد الكشف: تصميم التقويم للسياقات عبر الإنترنت
-- [[reconceptualizing-community-inquiry-generative-ai]] — إعادة تصور جماعة الاستقصاء في عصر الذكاء الاصطناعي التوليدي
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — دمج الذكاء الاصطناعي في التعلّم عبر الإنترنت في التعليم العالي: مراجعة نقدية للأدبيات في أربعة موضوعات
-- [[mooc-to-maic]] — من MOOC إلى MAIC: إعادة تشكيل التعليم عبر الإنترنت من خلال وكلاء مدفوعين بنماذج اللغة الكبيرة
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: نظام دعم مخصص وتكيّفي للتعلّم عبر الإنترنت
-- [[llm-facilitation-timing-online-discussions]] — ميول الميسّر البشري والميسّر المبني على نماذج اللغة الكبيرة في النقاشات عبر الإنترنت
-- [[elevate-genai-virtual-tutors]] — ELEVATE: مدرّسون خصوصيون افتراضيون بالذكاء الاصطناعي التوليدي محورهم الإنسان
-- [[conversational-ai-tutors-framework]] — الطريق إلى مدرّسي الذكاء الاصطناعي الحواري
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — تنفيذ AIDA في الجامعة المفتوحة
-- [[ai-adult-learning-guidelines-dis2026]] — إرشادات تصميم تقنيات الذكاء الاصطناعي لدعم تعلّم الكبار
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: نحو تدريس خصوصي مخصص قائم على الوكلاء
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — جعل نتائج التعلّم الآلي متاحة للمدرّسين في الصفوف المدمجة
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — يفضّل الطلاب الفيديوهات المخصصة المولّدة بالذكاء الاصطناعي على غير المخصصة المسجلة بشرية (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — تصميم تعلّم مدفوع بالملخصات المولّدة بالذكاء الاصطناعي في منتديات النقاش عبر الإنترنت
-- [[ai-training-science-teacher-tpack-distance-2026]] — أبلغ طلاب معلمون في حرم جامعي قائم على الحضور عن TPACK أعلى لتعليم العلوم المدعوم بالذكاء الاصطناعي من أقرانهم في التعليم عن بعد (64.0% مقابل 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — تصميم الأدوار هو التدخل، لا الأداة
-- [[packard-thinking-partner-framework-adult-learners-2026]] — مقررات دراسات عليا لامتزامنة من ستة أسابيع للمعلمين العاملين: أعِد تصميم الصيغة بدلاً من ضغطها
-- [[aggarwal-genai-cybersecurity-2026]] — 19 طالبًا عبر حرمين: التسجيل المشترك لم يُنتج أي تفاعل بين الحرمين عند بعضهم (Aggarwal 2026)

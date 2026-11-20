@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -103,40 +105,3 @@ Knowledge Tracing ist eng mit [[student-modeling|Modellierung von Lernenden]] ve
 **„Das beste Modell auf einem Datensatz ist das beste Modell für Ihren Kurs."** Die Genauigkeit ist kontextspezifisch. OKT erreichte **89,81 % AUC** auf Live-LMS-Daten aus [[engineering-education|Ingenieurwesen]]-Studiengängen (2.416 Studierende, 966 Ergebnisse) und übertraf damit DKT, DKVMN, EKT und SimpleKT — während es auf ASSISTments lediglich mithalten konnte. Dieselbe Architektur, die auf einer Datensatzfamilie gewinnt, ist auf einer anderen unauffällig; eine anderswo erzielte AUC-Spitzenzahl ist daher nur ein schwacher Beleg für die Verhältnisse bei Ihren Studierenden.
 
 **„Wissen bleibt bestehen, solange es keine Hinweise auf Vergessen gibt."** Vergessen ist der Normalfall, den zu modellieren sich lohnt. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] passen BKT, BKT-with-Forgetting und das Additive Factors Model an eine Sequenz über mehrere Sitzungen an und finden, dass sich die Modellanpassung verändert, wenn Retention abgebildet wird, und dass sich die Art, wie diese Modelle *validiert* werden, von der Art unterscheidet, wie sie *eingesetzt* werden.
-
-## Verbundene Konzepte
-
-- [[learners]] — Learners: die Überblicksseite für die Konzepte auf der Seite der Lernenden
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — feinkörnige Beherrschungsschätzung, die Unterstützungsentscheidungen speist
-
-## Verbundene Artikel
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Übergeneralisierung: adaptive Beherrschung kann Übung stoppen, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ergebnisbasiertes Knowledge Tracing mit Affinitätsabbildung
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantisch verankertes Tracing mit KC-kalibrierten Zuständen, genutzt als Verstärkungslern-Umgebung für Empfehlungen
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Ein agentischer Tutor, der seine lernende Person in einer Mensch-KI-KoLern-Schleife lernt
-- [[crediting-assisted-work-inflates-mastery-2026]] — Welche Evidenzregel über eine Beherrschungsbehauptung entscheidet (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — Ein Einmal-Durchlauf-LLM verfolgt Wissen über tiefe Modelle hinaus, die auf 8 Lernenden trainiert wurden, zu einem Bruchteil der Kosten (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Komprimierung der Lernergeschichte im mathematischen Knowledge Tracing

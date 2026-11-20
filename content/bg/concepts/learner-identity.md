@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -41,7 +43,6 @@ ai_assist:
 Идентичността е мотивационен и развитиен конструкт, различен от (но свързан с) сродните способности и убеждения. Докато [[self-efficacy|самоефективността]] се отнася до *мога ли да направя това?*, идентичността се отнася до *кой съм аз — и кой ставам?* Тя се изгражда чрез участие, признание и авторство — чрез това да видиш себе си отразен в дадена област и тази себепредстава да бъде потвърдена. AI преоформя условията, при които идентичността се формира, защото променя *кой върши работата*, *какво се брои за собствен принос* и *дали обучаемият се чувства признат за автор на своето учене*. Това прави идентичността дизайнерски въпрос от първи ред, а не периферен „мек“ фактор.
 
 - **Авторството и компетентността под заплаха.** Когато AI произвежда текст, изображения или код, обучаемите може да се питат дали резултатът е наистина „техен“ — предизвикателство към измерението на авторството в идентичността. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** документират *парадокс на компетентността* при студенти по изкуство и дизайн, използващи GenAI за генериране на изображения от текст: инструментите се усещат лесни и полезни, но използването им едновременно застрашава **творческата идентичност**, която студентите извличат от ръчния занаят и авторството, създавайки истинско напрежение между лекотата и самооценката.
-
 
 Отделно условие за авторство, а не само заплаха за него: когато самоформиращият диалог редовно се делегира на разговорен модел, авторите твърдят, че интегративната работа по авторизирането е *делегирана*, а не недоразвита или отсъстваща — самост, плътно изразена, но неавторизирана, за която според тях съществуващите конструкции нямат място ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Срам и скрито използване.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** показват, че студентите по компютърни науки изпитват срам и вина около използването на AI, които функционират като социални регулатори, подтикващи към *прикриване* и избирателно разкриване — поведения, които могат да фрагментират академичната идентичност и да подкопаят честния ангажимент с ученето.
@@ -87,38 +88,3 @@ ai_assist:
 **„AI помощта сваля бариери и следователно разширява участието.“** Тя може да свали бариерата за производство на работа, докато стеснява бариерата за заявяване на авторство. Студент, който подава гладко произведение, което не е авторствал, е получил достъп до резултата и е лишен от признанието, което изгражда идентичността зад него.
 
 **„Признаването на идентичността на обучаемия е въпрос на представителство в съдържанието.“** Представителството има значение и признанието се осъществява в практиката: чии въпроси се приемат, чий принос се кредитира и кой се третира като способен. Една [[curriculum-design|учебна програма]] може да е представителна и все пак да отказва признанието, което формирането на идентичност изисква.
-
-## Свързани концепции
-
-- [[learners]] — Обучаеми: чадърът за концепциите от страната на обучаемия
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Свързани статии
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 студенти бакалаври за това какво продължават да правят сами и защо целта рядко решава
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Срамът и вината като социални регулатори на използването на AI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Адаптивни способности за жизнеспособна професионална идентичност в бъдеще с GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Педагогическа симбиоза и постчовешкият обучаем
-- [[ai-pedagogical-accompaniment-amico]] — Подкрепяно от AI педагогическо съпровождане за STEM идентичност
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Проектиране за автентично оценяване
-- [[paternalistic-filter-llm-history-education]] — Патерналистично използване на AI и студентска идентичност в обучението по история
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI като криза на идентичността за академичния състав (идентичност на преподавателя)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Обучение на преподаватели, основано на TPK, и професионална идентичност
-- [[genai-professionalization-metaphors-2026]] — Концептуализации на GenAI и професионална идентичност на студентите
-
-- [[synthetic-position-self-authorship-2026]] — Авторско суспендиране: делегираното авторство като плътно изразена, но неавторизирана самост (концептуален анализ)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

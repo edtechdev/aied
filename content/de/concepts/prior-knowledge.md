@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -79,36 +81,3 @@ Generative KI hat Vorwissen zu einer zentralen Designbetrachtung statt zu einer 
 **„Studierende mit weniger Vorwissen brauchen mehr KI-Unterstützung.“** Das ist die Richtung, die die Lücke am ehesten verbreitert, da das gemessene Auslagerungsmuster den Verlust von Autorschaft dort konzentriert, wo Vorwissen am dünnsten ist. Unterstützung, die der lernenden Person die Arbeit liefert, die die Substitution am wenigsten erkennen kann, entfernt die Aktivität, die das fehlende Wissen aufbauen würde.
 
 **„Vorwissen ist ein fester Input, den der Kurs nicht bewegen kann.“** Es ist der am stärksten gewichtete Faktor neuen Lernens, was den Aufbau von Vorwissen zur wirksamsten Aufgabe macht statt zu einer Hintergrundbedingung — der Grund, warum Domänenwissen selbst die Intervention ist und nicht bloß die Kovariate.
-
-## Verbundene Konzepte
-
-- [[learners]] — Lernende: das Dach für die lernendenseitigen Konzepte
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — wie das, was eine lernende Person bereits weiß, bestimmt, was Abrufübung tun kann
-
-## Verbundene Artikel
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Die Spannung zwischen Automatisierung und Lernen (Risiko der Vorwissensaktivierung)
-- [[genai-mindtool-generative-learning]] — GenAI als Mindtool: Vorwissen primen und aktivieren
-- [[nie-personavlm-long-term-personalization-2026]] — LLM-basierte Lernendenmodellierung und Gedächtnis
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble zur kognitiven Auslagerung
-- [[cognitive-offloading-llm-synthesis-writing]] — Kognitive Auslagerung beim Synthese-Schreiben mit LLM
-- [[bridging-instructional-design-framework-math]] — Ein Rahmenwerk des instruktionalen Designs für Mathematik
-- [[knowledge-building-tutor-learning-2026]] — Wissensaufbau sagt Tutorinnen- und Tutorlernen stärker voraus als Vorwissen, und Tutorinnen und Tutoren mit geringem Vorwissen holen auf, wenn sie Wissen aufbauen
-- [[rachatasumrit-example-problem-ratio-2026]]
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Vorwissen trug den Posttest (η²p = .63), während adaptive Aufgabenauswahl nichts trug (Sibley et al. 2026)
-

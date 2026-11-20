@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -89,25 +91,3 @@ LPA는 표본이 각각 지표에 고유한 평균과 분산을 가진 하위 �
 - **"잠재 프로파일 분석은 실재하는 집단을 발견합니다."** LPA는 학습자 다양성을 수사적 주장에서 측정 가능한 발견으로 전환하며, 프로파일은 **선택된 경계에서 나뉜 연속체의 모형**이지 자연적 종류가 아닙니다. 프로파일의 수는 분석적 결정입니다.
 - **"잠재 변수 계열의 어느 구성원이든 괜찮습니다."** 어느 것을 쓰는지는 **지표를 따릅니다**. **범주형 지표에는 LCA**, 연속 지표에는 LPA입니다. 방법을 먼저 고르고 지표를 나중에 고르면 결과는 그 선택의 인공물이 됩니다.
 - **"프로파일은 연구 간에 비교 가능합니다."** Chen과 동료들은 **타이완 예비교사 128명**을 다섯 [[technology-acceptance-model|TAM]]/UTAUT2 구성으로 프로파일링했고, Acquah와 동료들은 **가나 학부생 509명**을 프로파일링했습니다. 서로 다른 모집단의 서로 다른 지표는 상호 비교 가능한 프로파일 라벨을 낳지 않습니다.
-
-## 연결된 개념
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## 연결된 문서
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — 경영학 학생 379명의 네 가지 AI 태도 프로파일에 대한 Lo–Mendell–Rubin 유지 증거
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — 심리적 적응의 세 시점 잠재 프로파일 전이 분석
-- [[liang-ai-learning-motivation-sdt-2026]] — 1년에 걸친 세 가지 동기 프로파일의 잠재 전이 분석
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means 프로파일, 실루엣과 Calinski–Harabasz의 불일치, ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 네 가지 GenAI 도입 페르소나로의 위계적 및 k-means 군집화
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49개 시스템의 교사 40,680명으로부터의 네 가지 교사 AI 신념 프로파일, 일치 안정성 포함

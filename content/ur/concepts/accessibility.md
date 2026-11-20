@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -81,41 +83,3 @@ ai_assist:
 - **"رسائی کا مطلب سہولت ہے۔"** نیورو ڈائیورجنٹ طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیز کے **40 مطالعات** کے اسکوپنگ جائزے نے پایا کہ **28 نے رسمی تشخیص کو شرکت کی شرط بنایا**۔ یہ تشخیص-مشروط ماڈل ہے، اور یہ ہر اُس طالب علم کو خارج کر دیتا ہے جس کی ضروریات ہیں مگر لیبل نہیں — یعنی عالمگیر ڈیزائن کی ضد۔
 - **"درمیانی اثرات سوال طے کر دیتے ہیں۔"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] **29 مطالعات** کا میٹا تجزیہ کرتے ہیں اور درمیانی مثبت اثر پاتے ہیں، جو حقیقی ہے اور یہ بھی بتاتا ہے کہ کون سا ٹول کس ضرورت کے لیے، اِس بارے میں کچھ نہیں کہتا۔ متفاوت مداخلتوں کا اوسط کوئی سفارش نہیں ہے۔
 - **"رفتار اور فوری دستیابی سہولتیں ہیں۔"** تین فلسطینی یونیورسٹیوں کے **21 بصارت سے محروم انڈر گریجویٹ** طلبہ کی کیفیاتی کیس اسٹڈی میں طلبہ نے فوری دستیابی کو **سہولت کے بجائے رسائی کی بنیادی شرط** قرار دیا۔ باہر سے جو چیز آسودگی لگتی ہے، وہ شرکت کی پیش شرط ہے۔
-
-## منسلک تصورات
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — سیکھنے کے تغیر کے تمام پہلوؤں پر تعلیم ڈیزائن کرنے کی وسیع چھتری
-- [[special-education]] — تشخیص شدہ معذوریوں والے طلبہ کی تدریسی ڈومین
-- [[universal-design-for-learning]] — پیشگی ڈیزائن فریم ورک
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — ہیڈ سیٹ، حرکت کی متلی اور ڈیوائس تک رسائی طے کرتی ہے کہ کون اِسے استعمال کر سکتا ہے
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — حد سے وسیع قواعد، ناقص شواہد اور معقول ایڈجسٹمنٹ کا چھتری صفحہ
-- [[arts-and-media-education]]
-
-## منسلک مضامین
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 نخبہ یونیورسٹیوں میں سے 0% AI رسائی پالیسی شائع کرتی ہیں جبکہ 93% AI کیمپس خدمات تعینات کرتی ہیں
-- [[shin-ai-policies-sld-2026]] — مخصوص سیکھنے کی معذوریوں والے طلبہ کے لیے AI پالیسیاں اور سہولتیں
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — معذوری والے طلبہ کے لیے AI مداخلتوں کا میٹا تجزیہ
-- [[adhd-video-segmentation-computing-education]] — مقررہ وقفوں والی AI سے قطع شدہ ویڈیوز
-- [[text-simplification-its]] — ذہین ٹیوٹرنگ کے لیے LLM پر مبنی متن کی سادگی
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — سماعت سے محروم اور کم سننے والے طلبہ کے لیے LLM سوال سازی
-- [[kutti-ai-voice-first-learning-companion]] — بصارت سے محروم بچوں کے لیے آواز-اول ساتھی
-- [[tactile-statistical-graphs-accessibility]] — لمساتی 3D-پرنٹ شدہ شماریاتی گراف
-- [[pepper-robot-sign-language-lis-2025]] — اشاروں کی زبان کی معاونت کرنے والا Pepper روبوٹ
-- [[genai-minoritized-knowledges-disability]] — AI اور معذوری-مرکوز علم پر تنقیدی نقطۂ نظر
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX ریاضی-قابلِ رسائی طبیعیات ویڈیو نقل
-- [[khlaif-assistive-genai-visually-impaired-2026]] — بصارت سے محروم طلبہ کے لیے معاون GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — جنریٹو AI، ورچوئل ریئلٹی اور آگے: اعلیٰ تعلیم میں نیورو ڈائیورجنٹ طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیز کا اسکوپنگ جائزہ
-- [[wright-transcription-not-generation-2026]] — نقل، تخلیق نہیں: حد سے زیادہ شامل AI پابندیاں اور وہ معاون ٹولز جنہیں وہ پکڑ لیتی ہیں
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: رسائی معیارات، میٹرکس اور طالب علم ترجیحات کے آڑے یونیورسٹی لیکچر آڈیو ڈسکرپشن کا بینچ مارکنگ
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: انسانی قابلِ پڑھائی، مشین-مزاحم پڑھنے کے انٹرفیس کی طرف

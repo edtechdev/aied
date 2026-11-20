@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -49,7 +51,6 @@ ai_assist:
 ### تحقیق میں فیڈبیک لیٹریسی کیسے ظاہر ہوتی ہے
 
 - **فیڈبیک لیٹریسی بطور AI فیڈبیک کی قدر کا اعتدال کنندہ:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] دکھاتے ہیں کہ فیڈبیک لیٹریسی ChatGPT کی قبولیت اور [[self-regulated-learning]] کے درمیان رشتے میں اعتدال پیدا کرتی ہے: زیادہ مضبوط لیٹریسی والے طلبہ AI فیڈبیک سے زیادہ خود ضابطگی کا فائدہ محسوس کرتے ہیں، جبکہ کمزور لیٹریسی والے طلبہ میں اثرات کم سے کم یا منفی بھی ([[cognitive-offloading|حد سے زیادہ انحصار]]) ہوتے ہیں۔ فیڈبیک لیٹریسی اس بات کی شرط ہے کہ طلبہ AI فیڈبیک کو "سمجھ" سکیں۔
-
 
 - **فیڈبیک لیٹریسی بطور GenAI استعمال سے تنقیدی سوچ تک راستہ:** 421 چینی انڈرگریجویٹس میں GenAI استعمال کا [[self-report-measures|خود اطلاعی]] تنقیدی سوچ سے رشتہ تقریباً مکمل طور پر GenAI فیڈبیک لیٹریسی کے ذریعے چلا (β=0.185، کل اثر کا 71.98%)، اور یہ راستہ غور و فکر کے بڑھنے کے ساتھ مضبوط ہوا (اعتدال شدہ واسطے کا اشاریہ = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]])۔
 
@@ -97,50 +98,3 @@ AI فیڈبیک کو دو سمتوں میں بدلتا ہے اور دونوں ف
 - **"AI فیڈبیک براہِ راست تنقیدی سوچ کو بہتر بناتا ہے۔"** **421 چینی انڈرگریجویٹس** میں GenAI استعمال کا [[self-report-measures|خود اطلاعی]] تنقیدی سوچ سے رشتہ **فیڈبیک لیٹریسی کے ذریعے چلا**۔ لیٹریسی واسطہ ہے، لہٰذا وہ مداخلت جو AI فیڈبیک شامل کرے مگر اُسے پڑھنے کی صلاحیت نہ بنائے، غلط اصطلاح کو نشانہ بناتی ہے۔
 - **"لیٹریسی پیشگی شرط ہے، نتیجہ نہیں۔"** **399 چینی انڈرگریجویٹس کے تین مرحلوں والے بے ترتیب وقفہ پینل** نے پایا کہ AI فیڈبیک لیٹریسی **بعد کی** ایجنٹی شمولیت کی پیش گوئی کرتی ہے (**β = 0.222**)، لہٰذا چکر دونوں طرف چلتا ہے۔ یہ متحرک ہے، ایک بار پار کرنے والا دروازہ نہیں۔
 - **"عمل پذیری ہی وہ چیز ہے جو فیڈبیک سے تحریر بدلواتی ہے۔"** **48 طلبہ کی دو برقرار کلاسوں** میں تحریری فیڈبیک اور نظر ثانی کے تین چکروں میں **فہم وہ جہت تھی** جس نے نظر ثانی کا فائدہ اٹھایا۔ جو فیڈبیک طالب علم تجزیہ نہ کر سکے، اُسے زیادہ عمل پذیر بنا کر بہتر نہیں کیا جا سکتا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وہ تنقیدی جائزے کے مراحل جو یہ ترتیبیں ورک فلو میں شامل کرتی ہیں
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI فیڈبیک لیٹریسی اور ایجنٹی شمولیت: تین مرحلوں والا بے ترتیب وقفہ پینل (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — فیڈبیک لیٹریسی سکھانے کے لیے ربرک کے مطابق درجہ بند نمونہ کاموں کی تیاری (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — انتخابی استعمال مگر پیداوار میں بہتری نہیں: فیڈبیک کے ترجمے کی خلیج (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — استاد کے فریم کے بغیر AI فیڈبیک فیڈبیک لیٹریسی کی حد بلند کرتا ہے (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — فیڈبیک لیٹریسی AI فیڈبیک → خود ضابطہ سیکھنے میں اعتدال پیدا کرتی ہے (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — فیڈبیک لیٹریسی AI سے بہتر بنائی گئی تحریر میں مضمون کے گریڈ کی پیش گوئی کرتی ہے (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI فیڈبیک لیٹریسی پیمانہ اور استعمال کی پیش گوئی (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI بطور فیڈبیک شمولیت کے فریم ورک کا ممکن بنانے والا (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — AI کی مدد والی تحریر کے لیے فیڈبیک لیٹریسی اسکرپٹ اور انشانکن تربیت (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — EAP تحریر کی نظر ثانی میں فیڈبیک لیٹریسی اسکرپٹ + دوسرا جانچنے والا (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — فیڈبیک لیٹریسی کی نشوونما کے لیے AI خودکار فیڈبیک ٹول (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — فیڈبیک لیٹریسی کی تربیت کے لیے EFL ہم مرتبہ فیڈبیک میں GenAI کی تعیناتی (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — خود ضابطہ فیڈبیک کے سہارے: GenAI بمقابلہ انسانی ساتھی (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — فیڈبیک میں GenAI سیکھنے کے تجزیات، فیڈبیک لیٹریسی کا نقطہ نظر (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI جانچ نفسیاتی، فیڈبیک اور AI لیٹریسیاں بناتی ہے (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — AI سیکھنے والے مرکزی فیڈبیک کے بارے میں اساتذہ کے طریقے اور تصورات
-- [[care-full-feedback-genai]] — GenAI کے ساتھ نگہداشت بھرا فیڈبیک ڈیزائن
-- [[ai-generated-feedback-higher-ed]] — اعلیٰ تعلیم میں AI کی پیدا کردہ فیڈبیک
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI فیڈبیک ماحولی نظام میں طلبہ، معلمین، ہم مرتبہ افراد اور مواد کے درمیان رشتوں کو نئے سرے سے ترتیب دیتا ہے (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — تحریر میں AI فیڈبیک اور تنقیدی سوچ
-- [[repeated-ai-writing-feedback-semester]] — ایک سمسٹر میں بار بار AI تحریری فیڈبیک
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کسے جانچنا چاہیے؟ اعلیٰ تعلیم میں شفاف AI کی مدد والی تحریری جانچ کے بارے میں طلبہ کے نقطہ نظر
-
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI استعمال سے تنقیدی سوچ تک کا راستہ GenAI فیڈبیک لیٹریسی کے ذریعے چلا، غور و فکر کے ساتھ مضبوط ہوتا ہوا
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — فہم، نہ کہ عمل پذیری، نظر ثانی کا فائدہ اٹھائے لے گیا
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — ایک ہی عکاسی کے کام میں ایک ہی مسودے پر ہم مرتبہ اور چیٹ بوٹ فیڈبیک کا جائزہ

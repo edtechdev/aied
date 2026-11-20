@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -107,37 +109,3 @@ ai_assist:
 - **「パートナーシップとは学生の声を持ち上げることである。」** 教授学的パートナーシップは、定義された役割と相互の義務を伴う**範囲の定まった交渉された関係**であり、相談ではありません。役割、権限、決定の分け前を伴わない声は、構造的なものを何も変えません。
 - **「パートナーシップは採用できる姿勢である。」** それには制度的な条件が必要です。時間、学生パートナーへの認識、そしてパートナーが本当に影響を与えられる変化です。そうした条件なしに宣言されたパートナーシップは、中断すると称するヒエラルキーを再生産します。
 - **「権力の共有は教員開発にはなりえない。」** 文献の主張は、パートナーシップが開発であるのは、関係を通じて教育者の理解を変える*からだ*というものです。それを学生の利益としてのみ枠づけると、その機構を捨ててしまいます。
-
-## 関連する概念
-- [[pedagogy]] — 教授法と教授戦略
-- [[collaborative-learning]]
-- [[agency]] — 学習者の主体性
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## 関連する記事
-- [[guided-inquiry-genai-course-policy-2026]] — 生成 AI コース政策の共設計における探究型学習アプローチ
-- [[lo-co-creating-custom-gpts-sap-2026]] — 独自 GPT の共創——生成 AI イノベーションにおける学生パートナーとしての学部生のオートエスノグラフィー研究
-- [[williams-ingle-assessment-co-creation-ai-2025]] — 共創による評価設計——AI を評価する学生とスタッフのパートナーシップ
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — 教授学的信頼を保つための、students as partners 実践における AI への対応五原則
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — 青少年パートナーとの AI の共設計——関係的プライバシーの倫理枠組み
-- [[fawns-entangled-pedagogy-genai-students-2026]] — entangled pedagogy 枠組みを通じて、生成 AI をめぐる学生の複雑な現実を照らし出すこと
-- [[anastasia-shared-agency-partnership-framework-2026]] — 共有された主体性——教員と学生の協働のための主体性パートナーシップ枠組み
-- [[maybee-disruptive-partnerships-sap-2025]] — 破壊的パートナーシップ——情報学における学生との協働
-- [[student-centered-genai-responsible-framework-2026]] — 責任ある生成 AI 利用のための学生中心の枠組み
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 学生が 710 人規模で仲間のために AI チューターを構築: エンゲージメントは高く、学習の証拠は探索的（Zangari et al. 2026）
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -53,12 +55,9 @@ ai_assist:
 - **আদর্শ-নমুনার উৎস-ধারণা, বিষয়বস্তু নয়, দলীয় ধারণা-উৎপাদন গড়ে তোলে।** একই ChatGPT-উৎপাদিত আদর্শ-নমুনা মানব- বনাম এআই-উৎপাদিত হিসেবে লেবেল করলে 113 যুগলের একটি fNIRS হাইপারস্ক্যানিং গবেষণায় দলীয় সৃজনশীলতা বদলে যায়: মানব-আরোপণ উদ্দীপনা-কালে ধারণার অনন্যতা এবং প্রিমোটর ও সম্পূরক মোটর অঞ্চলে আন্তঃমস্তিষ্ক সমন্বয় বাড়ায়, এআই-আরোপণ কেবল ধারণা-পথের মধ্যে পরিবর্তন বাড়ায়, এবং নমুনাগুলো প্রত্যাহার করলে কোনো প্রভাবই টেকে না ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong প্রমুখ (২০২৬)]]).
 - **ক্ষমতা নয়, বিকাশগত বাস্তবায়ন শিশুদের এআই-সহায়িত সৃজনশীলতাকে পৃথক করে।** ChatGPT-এর সঙ্গে সহ-সৃষ্টিতে শিশু ও প্রাপ্তবয়স্কদের প্রথম নিউরোইমেজিং তুলনায় ৬–৭ বছরের শিশু ও প্রাপ্তবয়স্করা একটি MRI স্ক্যানারের ভেতরে একই পাঁচ মিনিটের কথ্য আলাপ চালায়। স্ক্যানারের বাইরে মাপা সৃজনশীলতা দল দুটির মধ্যে আলাদা ছিল না। তবুও প্রাপ্তবয়স্করা ফ্রন্টোপ্যারাইটাল নিয়ন্ত্রণ, স্যালিয়েন্স ও ডর্সাল অ্যাটেনশন নেটওয়ার্কে উল্লেখযোগ্যভাবে শক্তিশালী অন্তঃনেটওয়ার্ক সংযোগ দেখায়, এবং উচ্চতর সৃজনশীলতা প্রাপ্তবয়স্কদের মধ্যে শক্তিশালী ফ্রন্টোপ্যারাইটাল–স্যালিয়েন্স সংযোগের পূর্বাভাস দেয়, শিশুদের মধ্যে নয়। লেখকেরা এটিকে এআই সংলাপকালে সৃজনশীল জ্ঞান ভিন্নভাবে *বাস্তবায়িত* হওয়ার পার্থক্য হিসেবে পড়েন, ভিত্তিস্থ সক্ষমতার পার্থক্য নয়। এটি এমন একটি প্রশ্নও তোলে যার উত্তর এই পৃষ্ঠার স্ক্যাফোল্ডিং-পরামর্শকে এখনও দিতে হয়নি: এআই-সহায়িত সৃজনশীল কাজ যে নিয়ন্ত্রণ-যন্ত্র ব্যবহার করে, তা আসলে কখন পরিণত হয়? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus প্রমুখ (২০২৬)]])
 
-
 স্নাতক-গবেষণা থেকে একটি পাল্টা-ভার: 1,157 চীনা স্নাতকোত্তর শিক্ষার্থীর মধ্যে [[generative-ai|জেনএআই]] নির্ভরতা [[self-report-measures|স্ব-প্রতিবেদিত]] গবেষণা-সৃজনশীলতার সঙ্গে ইতিবাচকভাবে যুক্ত ছিল, কার্যকরী, কাজ-অভিমুখী নির্ভরতায় (β = 0.457) অস্তিত্বগত নির্ভরতার (β = 0.147) চেয়ে অনেক বেশি শক্তিশালীভাবে, এবং কার্যকরী পথের প্রায় 85.0% [[critical-thinking|সমালোচনামূলক চিন্তা]] বহন করে ([[genai-dependence-research-creativity-2026|Yin প্রমুখ (২০২৬)]]).
 
-
 একটি জাতীয় সমীক্ষা সেই ধাঁচকে জটিল করে: 5,764 চীনা বিশ্ববিদ্যালয় শিক্ষার্থীর মধ্যে এআই নির্ভরতা স্ব-প্রতিবেদিত সৃজনশীলতার সঙ্গে ঋণাত্মকভাবে সম্পর্কিত (r = −0.17), যেখানে পলায়ন ও সামাজিক প্রেরণা ঋণাত্মক পরোক্ষ পথ বহন করে আর উপকরণগত ও বিনোদন-প্রেরণা ইতিবাচক ([[ai-dependence-creativity-motivation-literacy-2026|Hou প্রমুখ (২০২৬)]]).
-
 
 - **দৈহিকতা অসমভাবে লাভ দেয়।** একটি ভৌত রোবট উচ্চ-সৃজনশীল মডেলের সঙ্গে জুড়ে মানব–মানব ও পাঠ্য-ভিত্তিক সহযোগিতার তুলনায় অনন্যতা উল্লেখযোগ্যভাবে বাড়ায়, অথচ চিত্রকল্প ও কণ্ঠে মানব ও পাঠ্য-ভিত্তিক অবস্থাগুলোই সুবিধা ধরে রাখে — একটি দৈহিকতা-বৈপরীত্য যেখানে রোবট এআই-এর আউটপুট বাড়ায় কিন্তু ধরন উন্নত করে না ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu ও Song (২০২৬)]]).
 
@@ -93,41 +92,3 @@ ai_assist:
 - **"শিক্ষার্থীদের উসকে দিলে সৃজনশীল লাভ হয়।"** **ঘর্ষণ সৃজনশীল লাভ নয়।** প্রতিকূল এআই পার্সোনা **38.2% দলে** চ্যালেঞ্জ-ও-প্রতিফলনের আলোচনা চালায়, তবুও **কোনো পরিমাপযোগ্য সৃজনশীল-কর্মক্ষমতা উন্নতি** তৈরি করে না। আলোচনা বদলেছে, মাপা ফলাফল বদলায়নি।
 - **"K-12 সাহিত্য প্রতিষ্ঠা করে যে জেনএআই সৃজনশীলতা উন্নত করে।"** **45 গবেষণার (২০১৭-২০২৫)** একটি PRISMA-নির্দেশিত স্কোপিং পর্যালোচনা দেখায় জেনএআই বেশিরভাগ ক্ষেত্রে সৃজনশীলতা **বাড়ায়** এবং বিরলভাবে তা **পরিমাপ করে**। ক্ষেত্রের প্রধান ফল হলো অনুভূত বর্ধন থেকে একটি অনুমান, যা ফলাফল-পরিমাপ নয়।
 - **"জেনএআই-এর উপর বেশি নির্ভরতা মানে বেশি সৃজনশীল উৎপাদন।"** **1,157 চীনা স্নাতকোত্তর শিক্ষার্থীর** মধ্যে জেনএআই নির্ভরতা **স্ব-প্রতিবেদিত গবেষণা-সৃজনশীলতার সঙ্গে ইতিবাচকভাবে যুক্ত** ছিল — এবং সম্পর্কটি **স্ব-প্রতিবেদনের** সঙ্গে, যা গঠনটির সবচেয়ে দুর্বল উপলব্ধ মাপ।
-
-## সংযুক্ত ধারণা
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[wei-genai-configurations-creative-phases-2026]] — সৃজনশীল পর্যায় জুড়ে জেনারেটিভ এআই বিন্যাস: শিল্প ও নকশা শিক্ষায় সৃজনশীল কর্মক্ষমতা ও তাৎক্ষণিক জ্ঞানের একটি ২ × ২ পরীক্ষা
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — জেনএআই চিত্র-উৎপাদন নকশা-কর্মক্ষমতা অপরিবর্তিত রাখে কিন্তু সাধারণ সৃজনশীল স্ব-কার্যকারিতা কমায়
-- [[bicer-genai-pd-math-creativity-2026]] — জেনারেটিভ এআই-নির্দেশিত পেশাগত উন্নয়ন কীভাবে শিক্ষকদের গাণিতিক সৃজনশীলতা, বিষয়বস্তু-জ্ঞান ও শিক্ষাবিজ্ঞানিক বিষয়বস্তু-জ্ঞান নিয়ে কাজে সহায়তা করে
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — সাহিত্য সৃষ্টির জন্য স্বতঃসিদ্ধ-ভিত্তিক স্ক্যাফোল্ডিং: বিষয় ও পাঠ্যের মধ্যবর্তী একক হিসেবে প্রাঙ্গণ, কেবল পরিকল্পনায় যাচাইকৃত (Liu ও Zhao ২০২৬)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — অন্তর্নিহিত মানব-এআই সহযোগিতায় উদ্ভূত শিক্ষার্থী-এজেন্সি: সহায়ক বনাম প্রতিকূল পার্সোনা
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT এবং সমালোচনামূলক ও সৃজনশীল চিন্তা: পদ্ধতিগত পর্যালোচনা
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — রোবট-এলএলএম সংযুক্তি ও সৃজনশীল লেখন
-- [[t2i-competence-paradox-2026]] — শিল্প ও নকশা শিক্ষার্থীদের মধ্যে টেক্সট-টু-ইমেজ এআই-এর সক্ষমতা-বৈপরীত্য
-- [[mujib-ai-ibl-creative-math-2026]] — এআই-সমর্থিত অনুসন্ধান-ভিত্তিক শিখন ও সৃজনশীল গাণিতিক কর্মক্ষমতা
-- [[flowcode-ai-creative-coding]] — Flowcode: সৃজনশীল কম্পিউটিংয়ে পুনরাবৃত্তির স্ক্যাফোল্ড দেওয়া একটি এআই-চালিত পরিবেশ
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: সামাজিক-প্রযুক্তিগত নেটওয়ার্কে সম্ভাব্য সহ-সৃজনশীলতার ত্রিমূল্য মডেল
-- [[genai-creativity-k12-scoping-review-2026]] — 45টি K–12 গবেষণার PRISMA স্কোপিং পর্যালোচনা: সৃজনশীলতার জন্য জেনএআই-এর চার ব্যবহার, সমরূপতা এবং পরিমাপ-ফাঁক
-- [[multi-agent-llm-social-learning]] — দুই-মডেল সহায়তা সেই ধারণাগত বৈচিত্র্য পুনরুদ্ধার করে যা একক মডেল সমান করে দিয়েছিল (Kumar প্রমুখ ২০২৬)
-
-- [[genai-dependence-research-creativity-2026]] — কার্যকরী বনাম অস্তিত্বগত জেনএআই নির্ভরতা এবং 1,157 স্নাতকোত্তর শিক্ষার্থীর গবেষণা-সৃজনশীলতা
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — সমান সৃজনশীলতা, ভিন্ন স্নায়বিক সম্পৃক্ততা: fMRI স্ক্যানারে ChatGPT-এর সঙ্গে শিশু বনাম প্রাপ্তবয়স্কদের কথোপকথন
-- [[ai-dependence-creativity-motivation-literacy-2026]] — এআই নির্ভরতা ও ব্যবহারের চার প্রেরণা স্ব-প্রতিবেদিত সৃজনশীলতার সঙ্গে ভিন্নভাবে সম্পর্কিত (Hou প্রমুখ ২০২৬)
-- [[ai-exemplar-attribution-creativity-education-2026]] — এআই যুগে সৃজনশীলতা শিক্ষাকে সমর্থন করা: আদর্শ-নমুনার অনুভূত উৎসের ভূমিকা

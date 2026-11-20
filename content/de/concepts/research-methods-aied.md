@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -204,56 +206,3 @@ In der Praxis fällt Forschung zu KI in der Bildung selten saufig in eine Tradit
 **„Eine großzügige Messregel ist eine kleine methodische Entscheidung."** Sie verändert den Befund. Jede Vollendung zu honorieren sagte spätere ungestützte Leistung **kaum über einer Fähigkeit-Schwierigkeit-Konstante vorher (gepoolte AUC 0,604 gegenüber 0,595)**, während sie **93,9% der Studierenden-Fähigkeits-Paare als gemeistert erklärte gegenüber 72,8%** unter einer strengen Regel. Die Regel erzeugte einen Unterschied von 21 Punkten darin, wer als bereit erklärt wurde, und fast keinen prädiktiven Gewinn dafür.
 
 **„Statistische Signifikanz entscheidet, ob eine Intervention gewirkt hat."** Sie entscheidet, ob ein Effekt nachweisbar war. Ob es ein *Lern*effekt war, hängt vom Ergebnismaß, vom Vergleich und von den Bedingungen ab, unter denen er erhoben wurde — weshalb die Design- und Berichtsentscheidungen in den Abschnitten dieser Seite so viel Gewicht tragen wie die Analyse.
-
-## Verbundene Konzepte
-
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Theorieentwicklung im Bereich AI in Education
-- [[qualitative-research]] — Qualitative Forschung
-- [[quantitative-research]] — Quantitative Forschung
-- [[mixed-methods-research]] — Mixed-Methods-Forschung
-- [[design-based-research]] — Design-Based Research
-- [[usability-research]] — Usability-Forschung
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Verbundene Artikel
-
-- [[ai-methodologies-science-education-research-2026]] — Ein siebenphasiges Rahmenwerk epistemischer Iteration zur Reflexion darüber, wie KI-Methodologien die Bildungsforschung transformieren könnten (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Zugang ist nicht genug: Menschliche Unterstützung verbessert das Engagement bei KI-Tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann dem Lehren schaden
-- [[genai-over-reliance-learning-2026]] — Von der Verstärkung zur Überabhängigkeit: Eine Mixed-Method-Studie
-- [[acceptance-ai-english-tools-2026]] — Akzeptanz KI-gestützter Werkzeuge für das Erlernen der englischen Sprache
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
-- [[zerkouk-comprehensive-review-its-2025]] — Umfassender Review intelligenter Tutoring-Systeme
-- [[ai-assisted-collaborative-learning-model-dbr]] — Designbasierte Forschung für ein KI-gestütztes kollaboratives Lernmodell
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Bewertung der Lehrfähigkeit von LLMs
-- [[ground-truth-reliability-aied]] — Ground Truth modernisieren: Vier Verschiebungen hin zu Verlässlichkeit und Validität
-- [[llm-student-simulation-teacher-insights]] — Können LLMs menschliche Lernende effektiv simulieren?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 Items in zehn Domänen für transparente Berichterstattung über KI-in-der-Bildung-Studien (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — KI-integriertes Lernmanagementsystem: Eine Längsschnittstudie
-- [[ai-in-the-wild-college]] — KI im Feld: Groß angelegte Analyse echter Studierendeninteraktionen
-- [[same-ai-different-pathways]] — Dieselbe KI, unterschiedliche Pfade: Mechanismen freilegen
-- [[tep-aied-model-reporting-2026]] — Das TEP-AIED-Modell für die rigorose Berichterstattung über KI-in-der-Bildung-Forschung (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: Text-zu-Bild-GenAI in Kunst und Design
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: Ein Effekt auf der Suche nach einer Ursache
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Meta-Analyse des KI-Effekts auf Lernen
-- [[oneill-presumed-effective-meta-analysis-2026]] — Vermutlich wirksam: fehlerhafter AIED-Meta-Analyse-Audit
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Fidelitätsmetriken übersehen: Eine strukturelle Prüfung synthetischer Bildungsdaten
-
-- [[porcaro-ai-grading-benchmark-2026]] — Jenseits der Übereinstimmung: Proben mit bekannter richtiger Antwort, Prüfungen mit eingepflanztem Effekt an simulierten Bewertenden und 22 gepromptete Modelle (Porcaro 2026)
-

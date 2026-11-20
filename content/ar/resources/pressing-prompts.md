@@ -30,7 +30,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
-
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -42,8 +42,3 @@ ai_assist:
 
 ## من أين أتى
 بدأ في جامعة Duke في 2024–2025 كحزمة تعلُّم أخلاقيات الذكاء الاصطناعي، صُممت بشكل مشترك من طلاب جامعيين وأمناء مكتبات وأعضاء هيئة تدريس وخبراء تقنية عبر مركز التعليم والتعلم ومكتبات Duke، وأُعيد إطلاقها بعد التغذية الراجعة وإعادة التصميم من Hannah Rozear وRemi Kalir وAria Chernik.
-
-## المفاهيم المرتبطة
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

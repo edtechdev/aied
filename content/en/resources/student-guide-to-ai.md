@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 The Student Guide to Artificial Intelligence is a free publication series from Elon University's
 Imagining the Digital Future Center, the American Association of Colleges and Universities and,
@@ -66,11 +67,3 @@ paper download directly. The interactive version runs in Gemini Notebook and nee
 account. Publisher figures of more than 40,000 PDF downloads across about 4,000 institutions in
 180 countries, and over 130 custom campus editions, are theirs, as are the endorsements from ALA,
 NASPA, EDUCAUSE, OLC, CAA, the Gardner Institute and RTI International.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -91,54 +93,3 @@ HPE, YZ’nin yararlarının (ölçeklenebilir pratik, uyarlamalı geri bildirim
 - **"Soru, LLM'lerin klinik eğitimde neler yapabileceğidir."** **47 ülkede 489 çalışma** üzerine eleştirel bütünleştirici bir derleme, soruyu **LLM'lerin neler yapabileceğinden** neye güvenilmesi gerektiğine kaydırır. Yetenek sorusu büyük ölçüde yanıtlanmıştır; yönetişim sorusu değil.
 - **"Standartlaştırılmış hastalar ölçeklenemeyecek kadar maliyetlidir."** **95 analiz edilmiş tıp öğrencisiyle randomize kontrollü bir çalışma**, klinik görüşme eğitiminde **çok etmenli YZ standartlaştırılmış hastaları** kullandı. Ele alınan kısıt, eğitilmiş insan aktörlerin bulunabilirliğidir; bu bir kadro sorunudur, sadakat sorunu değil.
 - **"Yayımlanmış bir YZ yetkinlik çerçevesini benimsemek müfredat sorusunu çözer."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang ve ark. (2026)]], 1.750 kaydı 23 çalışmaya süzerek — 15 derleme, 4 [[qualitative-research|nitel]] ve 4 [[quantitative-research|nicel]], 15 ülke ve 2022-2026 arası — bunları Bilgi, Tutum ve Beceri modeline eşledi. Uygulama alanları tıp eğitiminde (n = 11, yüzde 47,8), genel eğitimde (n = 9, yüzde 39,1) ve diğer eğitimde (n = 3, yüzde 13,0) yoğunlaştı ve karşılaştırdıkları adlandırılmış hemşirelik çerçeveleri — N.U.R.S.E.S., AI-ABCs ve CARE — ya pedagojik uygulama için açık yollar sunmuyor ya da değerlendirme yöntemleri olmadan izole becerileri kapsıyor. Kurdukları 12 alt boyutlu harita doğrulanmayı bekleyen bir öneridir; bu da onu yerleşik bir müfredat değil, karşısında öğretilecek bir şey yapar.
-
-## Bağlı Kavramlar
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — sağlık meslekleri eğitiminin hemşirelik dalı
-- [[virtual-and-augmented-reality]] — sürükleyici ve AR klinik eğitim
-
-## Bağlı Makaleler
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Tıp ve diş hekimliği eğitiminde YZ destekli PBL ve CBL: altı RKÇ, yalnızca ikisi CBL (Wei ve ark. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — YZ destekli dijital patoloji, patoloji asistanlarının prostat biyopsilerini yorumlamasında tanı performansını iyileştirir ve deneyime bağlı performans boşluklarını azaltır
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Sağlık YZ müfredatları etiği öğretiyor (%80,6) ancak veri kökenini nadiren (%22,2)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Konuşlandırılmış bir veri üretim platformuyla LLM tabanlı sanal standartlaştırılmış hastaların katmanlı çok puanlayıcılı değerlendirmesi
-- [[genai-medical-education-transformation-review-2026]] — 153 tıp eğitimi üretken YZ raporunun tarama derlemesi: simülasyon önde, kalıcılık ve hasta sonuçları ölçülmemiş
-- [[llm-grading-assistants-public-health-2026]] — Yinelenen çalıştırmalar aynı notu yeniden üretmez
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Klinik Görüşme Eğitimi için İskeleleme-Odaklı Çok Etmenli Büyük Dil Modeli Sisteminin Değerlendirilmesi
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Tıp eğitiminde YZ öğretim etmenlerinin 8 boyutlu rubrikle değerlendirilmesi
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM’ler, hemşirelik eğitimi yapısal boşlukları ve mesleki kimliğin yeniden yapılandırılması (Sun ve ark. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN çerçevesi: tıp eğitiminde YZ görev dağılımını yeniden düşünmek (Tsim ve ark. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Sağlık meslekleri eğitiminde deneyimsel, duruma gömülü ve dağıtık bilişin YZ ile uygulamaya konması
-- [[residencyrl-clinical-rl-training-2026]] — Uzmanlık eğitiminde klinik beceriler için pekiştirmeli öğrenme eğitimi
-- [[medgame-llm-medical-education-gamification]] — Tıp eğitimi için oyunlaştırılmış LLM temelli öğrenme
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Brakiterapi eğitimi için etmen YZ simülasyonu
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Hemşirelik eğitiminin YZ ile dönüştürülmesi
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Hemşirelikte YZ destekli simülasyon: karma yöntemler sistematik derlemesi
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: döngüde-insan dental radyografi öğretimi (Dong ve ark. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Senaryo tabanlı sağlık eğitiminde üretken YZ’nin sistematik derlemesi (Neto ve ark. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Ölçeklenebilir YZ tabanlı klinik iletişim eğitimi ve otomatik değerlendirme
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Tıp eğitiminde YZ etiğinin bibliyometrik haritası: çıktı 113’ten (2023) 500’e (2025) yükseldi, 39 ülke ve atıflar yönetişim yerine yetenek sınamasını ödüllendiriyor (Sriram ve ark. 2026)
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Eğitimsel YZ yetkinlik çerçevelerini 12 parçalı KAS haritasına eşleyen tarama derlemesi
-- [[agency-gap-ai-writing]] — Sağlık meslekleri eğitiminde tepkisel ve proaktif YZ yazma etmenleri: etmenlik boşluğu
-- [[federated-learning-at-risk-student-prediction-2026]] — HPE programları arasında federe risk altı tahmini: ihmal edilebilir gizlilik maliyeti ve ithal eşiğin neden yanlış ateşlediği
-- [[rony-nursing-educators-ai-tpack-2025]] — Bangladeş’te hemşirelik eğitimcilerinin YZ hazırbulunuşluğu, engelleri ve veri yönetişimi: TPACK üzerinden bir okuma
-- [[bursic-ai-residency-education-curriculum-2026]] — YZ’yi uzmanlık müfredatlarına entegre etmenin engelleri: on iki hekim lideriyle nitel görüşmeler
-- [[alshahrani-health-sciences-ai-use-2026]] — Teknoloji ile pedagojiyi köprülemek: farklı sağlık bilimleri müfredatlarındaki öğrenciler arasında YZ kullanımı, bildirilen akademik etkiler ve etik kaygılar üzerine kesitsel bir analiz

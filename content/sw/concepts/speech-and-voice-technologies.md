@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -96,38 +98,3 @@ Karibu kila dai dhaifu hapa linategemea utafiti mmoja mfupi. Masudio mawili ya m
 - **"Huduma za hotuba za kulipia zinashinda zile za bure."** **Huduma mbili za bure zilirejesha nakala karibu kamili (asilimia 87.96 na 88.34 ya maeneo yaliyofunikwa, na viwango vya makosa ya maneno vya asilimia 15.23 na 15.00)**, wakati huduma mbili za kulipia zilitoa hakikisho tu, kwa asilimia 32 ya maeneo yaliyofunikwa. Bei haikutabiri manufaa, na kiwango cha kulipia kilizuia pato badala ya kuliboresha.
 - **"Chatbot yoyote ya kujifunza lugha inaboresha matamshi."** Katika **tafiti kumi**, **ni chatbots zilizobuniwa kwa ajili ya kujifunza lugha peke yake, Andy English bot na Xiaoying, ziliboresha usahihi**, pamoja na **kupungua kwa asilimia 14 ya makosa katika kulinganisha moja la kikundi cha udhibiti**. Mawakala wa jumla wa mazungumzo hawakuzalisha faida hiyo.
 - **"Ongezeko la uwezo binafsi ni ongezeko la ujuzi."** Uhusiano kati ya teknolojia na matokeo ulikuwa chanya huku **uwezo binafsi ukipatanisha kwa sehemu: njia isiyo ya moja kwa moja ilichukua asilimia 69.9 ya athari ya jumla wakati athari ya moja kwa moja ilibaki**. Athari nyingi zilipitia ujasiri, ambao ni utaratibu na pia onyo.
-
-## Dhana Zilizounganishwa
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## Makala Zilizounganishwa
-
-- [[asr-english-speaking-feedback-metacognition-2026]] — Maoni ya kuzungumza ya ASR: ubora hushinda kiasi, na ustadi unadhibiti nani anayefaidika (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — Uwezo binafsi wa matamshi unapatanisha maoni ya matamshi ya GenAI na utayari wa kuwasiliana (wanafunzi 1,701 wa EFL)
-- [[llm-tts-dialogue-lesson-generation]] — Mfumo wa somo la LLM + TTS: usimulizi bandia ulilingana na sauti ya mwalimu; mazungumzo yalisaidia ufahamu
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Mwingiliano wa mtindo wa kujifunza × muundo wa mazungumzo katika masomo yaliyozalishwa na TTS (wanafunzi 222)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Mzungumzaji wa binadamu dhidi ya AI: monoloji iliyosaidiwa, upokeaji, na kuchochea kwa kisarufi katika Kijerumani la L2
-- [[kutti-ai-voice-first-learning-companion]] — Mshirika wa sauti-ya-kwanza bila mtandao mwenye kugundua shida kwa wakati halisi kwa watoto wenye ulemavu wa kuona
-- [[agent-voice-accents-k12-group-learning]] — Lafudhi ya wakala inaumba sifa za kibinadamu na ushirikiano katika kazi za vikundi za K-12 (walimu 33)
-- [[asynchronous-oral-assessment-2026]] — Tathmini za mdomo za asynchrono: tathmini ya hotuba inayoweza kupanuliwa, yenye onyo la mapato ya kujifunza
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mapitio yanayotetea mitihani ya mdomo kama tathmini halisi inayolinda uadilifu
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: tathmini ya sauti bila mtandao katika warsha za ufundi ambapo AI inaleta ushahidi, si alama
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Wasifu wanne wa mwingiliano kati ya wanafunzi wa mafunzo ya kutafsiri wanaotumia msaada wa ASR/MT
-- [[gpt-item-generation-l2-listening-2026]] — Kuweka ilani dhidi ya kuboresha GPT kwa uzalishaji wa vipengele vya kusikiliza vya L2
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ishara pamoja na hotuba: kwa nini tathmini ya mdomo ya hotuba-tu inapoteza ushahidi wa ufahamu
-- [[ai-guided-learning-audiovideo-2026]] — Kasi ya sauti inayobadilika, muhtasari wa video unaohifadhi sauti, na maoni ya matamshi bila lebo
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Uzalishaji wa maswali wa LLM kwa wanafunzi viziwi na wenye usikizi mgumu
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Faida za usahihi kutoka kwa chatbots za kujifunza lugha peke yake, na kushindwa kwa ASR kwenye majina yenye lafudhi
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Wakala wa sauti wa simu ulioelekezwa kwenye njia ya maoni yenyewe

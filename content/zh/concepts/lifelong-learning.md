@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,31 +85,3 @@ ai_assist:
 **“终身学习意味着成年人上更多课程。”** 上课是更宽要求的一种交付形式：在任务变化时维持并重建胜任力。一个需要持续再生的劳动力不缺课程供给，缺的是新胜任力真正得以形成的练习机会。
 
 **“终身学习是个人责任，因此制度设计是次要的。”** 再生问题是结构性的，它关乎形成性工作究竟在何处存在，而个人无法创造自身发展所需的工作。把它框定为动机，无法解释集中在年龄分布底部的 16% 下降。
-
-## 关联概念
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## 关联文章
-
-- [[ai-adult-learning-guidelines-dis2026]] — 面向成人学习支持的人工智能技术设计准则
-- [[ai-guided-learning-audiovideo-2026]] — 面向技能习得的人工智能引导学习
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 用学习图谱重新构想高等教育
-- [[andragogy-cognitive-delegation-genai-2026]] — 人工智能中介学习中的成人教育学与认知委托
-- [[ai-lifelong-learning-policy]] — 终身学习中的人工智能：成人教育政策中的机遇与挑战
-- [[community-centered-ai-education-adults]] — 为成人共同设计以社区为中心的人工智能教育
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：人工智能与专业能力的再生成
-- [[kim-ai-andragogy-2026]] — 成人学习者对 AI 作为成人教育学中协作学习智能体的看法（Kim 等，2026）
-

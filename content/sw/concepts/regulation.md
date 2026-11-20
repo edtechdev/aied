@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -59,55 +61,10 @@ Ukaguzi wa sera za faragha za [[edtech-platform|mifumo ya EdTech]] unatoa mfano 
 
 Udhibiti unaungana na [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], na [[academic-integrity]]. Ni safu ya taasisi inayounda jinsi mazoezi yote ya elimu ya AI yanavyofanya kazi. Udhibiti unazuia na kuwezesha: unaweka mipaka ya matumizi yanayokubalika ya AI huku ukianzisha masharti — kupitia [[ai-literacy]] na matarajio ya matumizi yenye uwajibikisho — ya muunganisho [[equity-in-ai-education|salama]], salama.
 
-
 Udhibiti hautafsiriwi chini kiotomatiki: mashirika 32 ya ufadhili yanayofanya kazi pale ambapo kanuni za AI za ngazi ya majimbo zipo yalichapisha sera za jumla lakini hakuna kifaa mahususi cha ufadhili kilichobeba kanuni hizo ([[chan-ai-policy-gap-2026|Chan, 2026]]).
-
 
 ## Dhana Potofu za Kawaida
 
 - **"Sera ya AI ya taasisi ndipo kanuni zinaishi."** Utafiti wa [[watson-rainie-ai-challenge-faculty-survey-2026|Watson na Rainie (2026)]] wa **waalimu 1,057 wa Marekani** unapima jinsi kanuni zinazofanya kazi zilivyo chini ya tabaka la kitaasisi: **87% ya waliojibu waliandika** mwongozo wao wenyewe. Sera inayofanya kazi kwa kiasi kikubwa imeandikwa na waelimishaji, jambo linalomaanisha kuwa tabaka la kitaasisi lililorekodiwa linaeleza kidogo kuliko linavyoonekana.
 - **"Kuandika sera kunafunika uso wenye hatari."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] anaonyesha kwa nini zana za tathmini ni sehemu ya seti inayodhibitiwa: katika jaribio la timu nyekundu, **mbili kati ya tano za sindano zisizo za moja kwa moja za ilani** zilizofichwa katika wasilisho zilifanikiwa. Kanuni inayotaja zana lakini si nyuso za sindano huacha unyonyaji bila kushughulikiwa.
 - **"Mifumo ya mawakala inafunikwa kwa kupanua kanuni zilizopo."** Katika uchanganuzi wa nyaraka za **vyuo vikuu 12**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong na Sun (2026)]] waligundua **hakuna kipimo cha kulinganisha kilichoshughulikia wakala anayeingia katika mfumo wa usimamizi wa kujifunza**. Pengo la utawala ni la kimuundo: kategoria zilizopo hazina nafasi kwa mwigizaji huru mwenye vitambulisho.
-
-## Dhana Zilizounganishwa
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — mzigo wa kisheria wakati udhibiti na utawala ni hafifu au wa kupita kiasi
-
-## Makala Zilizounganishwa
-
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — No comparator policy addressed an AI agent logging into an LMS or holding student credentials (Wong & Sun 2026)
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — AI katika sera ya elimu ya juu ya Uingereza
-- [[oecd-digital-education-outlook-2026]] — Mtazamo wa Elimu ya Kidijitali wa OECD 2026
-- [[genai-declaration-frameworks-higher-education]] — Miundo ya tamko la AI
-- [[genai-assessment-governance]] — Utawala wa tathmini chini ya GenAI
-- [[league-ethical-governance-student-data-2026]] — Utawala wa maadili wa data ya wanafunzi
-- [[student-regulatory-awareness-genai]] — Ufahamu wa udhibiti wa wanafunzi kuhusu GenAI
-- [[dot-framework-survey-2026]] — Miundo ya kupokea teknolojia
-- [[raza-farooq-aied-review-2020-2025]] — Mapitio kamili ya utafiti wa AIED
-- [[qian-governing-genai-higher-ed-policy-2026]] — Mwongozo juu ya sera inayofunga: kanuni za ndani za AI katika vyuo 50 vya uvumbuzi vya Marekani (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Sera ya GenAI ya shule ya sheria iliyopimwa kwa vipimo vitano: inazuia kwa chaguo-msingi, uamuzi wa mkufunzi, mapitio ya kila baada ya muda (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Vikatazi vya AI vinavyojumuisha kupita kiasi na wajibu wa marekebisho ya busara wanavyoweza kuhusisha (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Lugha ya nyuma katika kanuni za tathmini: mipaka ya msaada–ubadilishaji kama swali la usawa (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Mashambulizi ya kuingiza ilani kwa wapimaji wa AI na kesi ya majaribio ya uimara yaliyosifishwa (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Shinikizo la udhibiti wa nje kama sharti la mageuzi ya utawala (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Wanachuo 87% wanaandika kanuni zao wenyewe dhidi ya safu nyembamba ya sera ya taasisi (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "Tutarekebisha Baadaye": Elimu, AI, na Kuahirisha Faragha ya Wanafunzi katika EdTech"
-
-- [[chan-ai-policy-gap-2026]] — Kutotafsiriwa kwa wima: kanuni za majimbo zipo wakati wafadhili chini yao hawatoi kifaa chochote kinachofunga (Chan 2026)
-

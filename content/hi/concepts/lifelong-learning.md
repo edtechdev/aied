@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -73,32 +75,3 @@ ai_assist:
 
 - रोज़गार प्रभावों को समग्र विस्थापन आँकड़े के रूप में नहीं, आयु-वर्ग के अनुसार रिपोर्ट करें; 16% बनाम 8% का अंतर ही निष्कर्ष है।
 - अध्ययन करें कि रचनात्मक कार्य कहाँ लुप्त हो रहा है, क्योंकि वही वह कार्यविधि है जिससे वर्तमान लाभ भविष्य की कमियाँ बनते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## संबंधित लेख
-
-- [[ai-adult-learning-guidelines-dis2026]] — वयस्क सीख का सहारा देने वाली AI प्रौद्योगिकियों को डिज़ाइन करने के लिए दिशानिर्देश
-- [[ai-guided-learning-audiovideo-2026]] — कौशल अर्जन के लिए AI-निर्देशित सीख
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs के साथ उच्च शिक्षा का पुनर्विचार
-- [[andragogy-cognitive-delegation-genai-2026]] — AI-माध्यमित सीख में एन्ड्रैगॉजी और संज्ञानात्मक प्रत्यायोजन
-- [[ai-lifelong-learning-policy]] — आजीवन सीख में AI: वयस्क-शिक्षा नीति में अवसर और चुनौतियाँ
-- [[community-centered-ai-education-adults]] — वयस्कों के लिए समुदाय-केंद्रित AI शिक्षा का सह-डिज़ाइन
-- [[cognitive-commons-ai-expertise-regeneration]] — संज्ञानात्मक सामान्यों की दुर्दशा: AI और विशेषज्ञता का पुनर्जनन
-
-- [[kim-ai-andragogy-2026]] — एन्ड्रैगॉजी में सहयोगात्मक सीख एजेंट के रूप में AI पर वयस्क शिक्षार्थियों के दृष्टिकोण (Kim et al. 2026)
-

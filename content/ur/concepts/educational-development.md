@@ -31,6 +31,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -160,75 +162,3 @@ ai_assist:
 **"AI کے استعمال کے بارے میں گناہ کا احساس اصول توڑنے کی علامت ہے۔"** یہ ظاہر کرنے کے بجائے چھپانے کے ساتھ چلتا ہے: بے چینی کی وجہ سے AI کے استعمال کو محدود کرنا اسے چھپانے کے ساتھ متناسب تھا، ممنوع رویے کے ساتھ نہیں۔ چنانچہ گناہ کے احساس کو بدعنوانی کا ثبوت سمجھنا اس کے ماخذ کی غلط نشاندہی کرتا ہے، اور اسے تعمیل کا اشارہ سمجھنا رویے کو مزید نظروں سے اوجھل کر دے گا۔
 
 **"سروے میں کم جوابات کا مطلب ہے کہ فیکلٹی کے جذبات شدید نہیں۔"** مقالہ اپنے **109 جوابات (3.5% کی شرح)** کو خود اخلاقی بحث کی حالت کے بارے میں معلوماتی قرار دیتا ہے - تکلیف کے بارے میں سوال کا کم جواب اس تکلیف کے بارے میں ایک دریافت ہے، اس کی عدم موجودگی نہیں۔ اور خالصتاً اپ اسکلنگ کے طور پر پیش کیا گیا GenAI انضمام اس شناخت کے سوال کو کھو دیتا ہے جو کچھ فیکلٹی واقعی پوچھ رہی ہے: GenAI کی دنیا میں پڑھانے کا مقصد کیا ہے۔
-
-## منسلک تصورات
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — فیکلٹی کی ترقی میں استعارے کی دریافت اور تشبیہ کا ڈیزائن
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — چھتری: تعلیم میں AI کے لوگ اور سامعین (سیکھنے والے، اساتذہ، ڈیزائنرز، منتظمین، پالیسی ساز)
-
-## منسلک مضامین
-
-- [[crompton-faculty-technology-integration-standards-2026]] — ٹیکنالوجی انضمام کے لیے فیکلٹی معیارات (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI کی اخلاقی جہتیں: فیکلٹی اور طلبہ کے خیالات
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — انجینئرنگ فیکلٹی کے استعارے AI کی سمجھ کو کیسے تعمیر (اور محدود) کرتے ہیں
-- [[fear-awe-genai-metaphor-workshops-2025]] — خوف اور حیرت: استعارے کے ذریعے جنریٹو AI کو سمجھنا (فیکلٹی، عملہ اور طلبہ کی استعارہ ورکشاپ)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — تنقیدی AI خواندگی سکھانے کے لیے چار معیار اور چار استعارے
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — نظر نہ آنے والے کو گورن کرنا: زبان کے اساتذہ میں AI literacy
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI بطور شناخت کا بحران، مہارت کا خلا نہیں
-- [[zuo-instructor-power-genai-writing-2026]] — تحریر میں GenAI سے نبردآزما کالج اساتذہ کے محسوس کردہ طاقت کے تعلقات (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI بطور علمی واسطہ
-- [[sutedjo-faculty-genai-tpack-21-2026]] — GenAI کے لیے فیکلٹی کا خود محسوس کردہ TPACK-21 علم (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: حاضری بہتری کی پیش گوئی کرتی ہے، خود محسوس کردہ شرکت نہیں
-- [[instructional-design-proficiency-masters-math-2026]] — سمارٹ کلاس روم ماڈل اور D-T-E لوپ جو ریاضی میں M.Ed. انسٹرکشنل ڈیزائن کی مہارت بہتر بناتے ہیں (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — AI کے ڈیزائن کردہ تفریقی گروپ سرگرمیوں میں کرداروں کا ڈھانچہ (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — یونیورسٹی اساتذہ کے GAI کے تجربات اور تصورات: کمزوری، جائزے پر نظرثانی، خطرے میں طلبہ کی سیکھائی (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — خوف سے جدت تک: چھ ہفتوں کا فیکلٹی انسٹیٹیوٹ، symbiotic pedagogy، اور وہ اداراتی شرائط جو وہ فراہم نہ کر سکا
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI Guilt Complex: تعلیمی عملے میں پیشگی گناہ کا احساس، چھپانا اور کیریئر کے مرحلے کے فرق (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U اور Elon کا 1,057 امریکی فیکلٹی کا سروے: اداراتی عدم تیاری، پتلی گورننس اور 87% اور 48% کا پالیسی خلا (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — عالمی جنوب کی اعلیٰ تعلیم میں تعلیمی ڈویلپرز بطور ڈیجیٹل واسطے: ترقی بطور سماجی تکنیکی پریکسس
-- [[physics-faculty-learning-community-ai-2026]] — غیر یقینی وقت میں AI کے مؤثر استعمال کے لیے ورکشاپ سیریز: فزکس فیکلٹی لرننگ کمیونٹی بنانا
-
-- [[jordan-faculty-ai-oer-creation-2025]] — پرامپٹ سے مشق تک: AI سے معاون OER تخلیق کو تلاش کرنے کی فیکلٹی مرکوز پہل (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI alignment مشورے کا تنقیدی گفتار تجزیہ: ڈویلپرز کو ٹیکنالوجی تربیت کار کے طور پر دوبارہ پیش کیا گیا
-- [[faculty-ai-well-being-social-supports-2026]] — فیکلٹی کی AI بہبود تکنیکی خود اثر آفرمی کے بجائے AI literacy کے ساتھ چلتی ہے
-- [[ai-competence-framework-landscape-2026]] — کسی فریم ورک کو اپنانے سے پہلے دیکھیں کہ اس کی سطحیں کس چیز کو بیان کرتی ہیں
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — کیا تعلیم AI کے لیے ایجنڈا طے کر سکتی ہے؟ نقلی جدت اور استاد کی تعلیم میں پيدگوجیکل سمت کا تعین
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — چھ ہفتوں کے پروگرام میں 105 کیمیا اساتذہ
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 28 ملکوں کے 150 سے زیادہ زبان کے اساتذہ، 20 ہفتے
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 اسکینڈینیوین اساتذہ؛ سمجھے گئے فوائد میں 0.20 SD اضافہ
-- [[yuan-teacher-need-satisfaction-genai-2026]] — GenAI سیکھائی پروگرام کے بعد 146 اساتذہ، ضرورتوں نے مشغولیت میں ثالثی کی
-- [[bodek-prompted-to-explore-microlearning-2026]] — جنریٹو AI کے لیے مائیکرو لرننگ فیکلٹی ڈویلپمنٹ ماڈل
-- [[bursic-ai-residency-education-curriculum-2026]] — طبی تعلیم میں ایک AI ریزیڈنسی
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ذرائع؛ معلم کی ترقی چار موضوعات میں سے ایک
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 اساتذہ جو سابق اساتذہ کی زیرِ قیادت ترقی مانگتے ہیں
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% موجودہ عملے اور فیکلٹی کی upskilling
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 معلمین جو رہنمائی نہ ہونے پر shadow AI کو جائز بناتے ہیں
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — قابلیت کے خلا جو فیکلٹی کی ترقی اور بھرتی کے فیصلے چلاتے ہیں
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — بار بار دہرائی جانے والی ترقی بطور پانچ حمایتی تہوں میں سے ایک
-- [[chen-future-faculty-development-ai-2027]] — سات تدریسی کردار، دو عالمگیر بنیادیں، اور تدریسی ٹیم بطور ترقی کی اکائی
-- [[ji-judgement-space-dialogic-inquiry-2027]] — فیصلے کی جگہ، مکالماتی تحقیق، اور تین کالم والا آڈٹ کہ فیصلہ کہاں ٹول کی طرف گیا
-- [[jiang-faculty-development-japan-2027]] — جاپان کی دو راستہ FD: شرکت بڑھی جبکہ ساتھیوں والی صورتیں نہیں
-- [[tian-transnational-faculty-development-governance-2027]] — سرحد پار فیکلٹی ترقی: رابطہ وقفے وقفے کا، ہم آہنگی ہی اصل کام
-- [[ho-invariant-core-faculty-development-2027]] — غیر متغیر مرکز، بدلتا کنارہ: سیکھائی کا میکانزم ٹیکنالوجی سے آگے

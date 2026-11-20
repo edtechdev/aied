@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -37,7 +38,3 @@ En **vurderingspakke**: en institusjonell modenhetsvurdering av AI-beredskap med
 
 ## Hvem den er for
 Forskningsledere, komiteer og policykontorer som trenger et evidensbasert bilde av hvordan AI brukes og [[governance|styres]] i et forskningsmiljø, og en måte å følge [[change-management|endring]] over tid. Den følger *Responsible AI in Academic Research: A Competency Framework for Research Training*, som definerer fem dimensjoner av beredskap, og er skrevet av Michael J. Zyphur, direktør i Instats.
-
-## Tilknyttede begreper
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

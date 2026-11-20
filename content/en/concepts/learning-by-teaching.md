@@ -9,6 +9,8 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 > **Learning by teaching (LbT)** — the instructional framework, grounded in the protégé effect, in which students deepen their understanding by explaining material to a peer, tutee, or agent. Decades of work in LbT and peer tutoring show that explaining concepts, anticipating misunderstandings, and responding to questions consolidate understanding and support transfer. In the AI era, **teachable agents** — and increasingly **LLMs configured as novice tutees** — operationalize LbT at scale, positioning students as instructors who must explain, correct, and fill gaps.
@@ -107,32 +109,3 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 **"Asking an LLM to act confused is a trivial prompt."** It is a design problem, because the fallibility must be calibrated to the concept being taught and to the learner-tutor's current model. Random errors produce debugging practice; errors reflecting a specific plausible misconception produce conceptual restructuring, and only the second is the pedagogical target.
 
 **"Learning by teaching is a softer activity than being taught."** It is more demanding. Preparing to teach forces the organization of knowledge and the location of one's own gaps, which is why the approach surfaces misunderstandings that passive reception conceals — the difficulty is the mechanism rather than a cost to be minimized.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Explaining to an AI tutee: the best-evidenced sequence in the literature
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Connected Articles
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
-- [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -70,7 +72,6 @@ ai_assist:
 - **موازنے پر مبنی تربیت اسے قابلِ پیمائش طور پر بناتی ہے۔** 28 پری سروس [[teacher-role|اساتذہ]] کے ساتھ 14 ہفتے کے مطالعے میں، [[ai-internal-feedback-evaluative-judgments|AI سے پیدا شدہ مضبوط، اوسط اور کمزور نمونے]] نے طلبہ کے مسودوں کے حوالہ جاتی نکات سے تکراری موازنے کی بنیاد رکھی؛ جائزے کی توجہ سطحی لسانی خصوصیات سے مواد، تنظیم اور ہم آہنگی تک پھیل گئی — مگر استدلال پتلا رہا، اور مثال پر مبنی جواز دوگنا ہوا جبکہ سب سے نفیس تقابلی استدلال نایاب رہا۔ فیصلے کو سہارا دے کر وجود میں لایا جا سکتا ہے؛ وہ طلب پر خود نہیں آتا، اور حوالہ جاتی نکات کا معیار اہمیت رکھتا ہے۔
 - **فیڈبیک کا ڈیزائن طے کرتا ہے کہ ایجنسی بچتی ہے یا نہیں۔** 48 حصوں میں 1,176 فرسٹ ائیر انڈر گریجویٹس کے ساتھ کثیر المقام، کلسٹر-بے ترتیب میدانی تجربے نے سائنسی استدلال کے لیے [[genai-feedback-design-multisite-experiment|فیڈبیک کی چار حالتوں کا موازنہ]] کیا: صرف ہم مرتبہ، براہِ راست GenAI، عکاسانہ GenAI (پہلے خود جانچیں پھر تنقید)، اور مخلوط (خود جانچ + ہم مرتبہ + GenAI)۔ **مخلوط حالت نے دلیل کے معیار میں سب سے بڑا فائدہ دیا**؛ براہِ راست GenAI فیڈبیک نے غیر فعال قبولیت کا خطرہ پیدا کیا — طلبہ تشخیصی فیصلہ نظام کے حوالے کر رہے تھے — جبکہ عکاسانہ اور مخلوط ڈیزائنوں نے طالب علم کو پہلے اپنے کام کا جائزہ لینے پر مجبور کر کے [[agency|علمی ایجنسی]] محفوظ رکھی۔ مصنفین کی بنیادی دریافت یہ ہے کہ GenAI کی تعلیمی قدر AI تک رسائی پر کم اور اس پر زیادہ منحصر ہے کہ فیڈبیک کا ماحول نظرثانی کے دوران ایجنسی، فیصلہ اور ملکیت محفوظ رکھتا ہے یا نہیں۔
 
-
 - **ایک فیڈبیک اوزار فیصلے کو سہارا دے سکتا ہے جبکہ اساتذہ تعلقی حصہ اپنے پاس رکھیں۔** 21 اعلیٰ تعلیمی اساتذہ کے ساتھ PolyFeed استعمال کرتے ہوئے، ماڈل نے چھوڑے گئے اجزاء سامنے لائے (21 میں سے 20 نے "Meeting Learning Objective" چھوڑ دیا تھا) اور 12 نے ChatGPT متن دوبارہ لکھا، جو طالب علم–استاد کے تعلق کی جہت میں مرکوز تھا ([[learner-centered-feedback-ai|Aldino et al. (2026)]])۔
 
 - **فیڈبیک کا ماخذ طے کرتا ہے کہ فیصلے کی کون سی جہت پروان چڑھتی ہے۔** ڈاکٹری سطح کے شماریات کے کیس اسٹڈی میں، ChatGPT-4o نے طریقہ کار کی رہنمائی دی مگر غلط ڈیٹا فائل یا غلط لاگو ٹیسٹ کی نشاندہی نہ کر سکا، جبکہ ہم مرتبہ گفتگو نے غلط ڈیٹا حقیقی وقت میں پکڑا اور طریقے کے انتخاب کا جواز دینے پر مجبور کیا ([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]])۔
@@ -112,52 +113,3 @@ ai_assist:
 - **"جانچنے والے کی غلطی بے ترتیب شور ہے۔"** **جانچنے والوں کے فیصلے کی اپنی ایک قابلِ پیمائش سمت ہوتی ہے**: پانچ داخلہ افسران نے **50 انسانی اور 50 AI داخلہ مضامین** الگ کرتے ہوئے **AUC 0.70** حاصل کیا، یعنی وہ ماخذ کو صرف کمزور طریقے سے پہچان سکے — اور چونکہ کسی نے جمع شدہ کاموں کی چھانٹی نہ کی، وہ **غیر مدد شدہ فیصلہ ہی پورا نفاذ کا طریقہ کار** تھا، اور ہر نشان زدہ مضمون کے ساتھ داخلے کا امکان **1.5 فیصدی نقطے کم** تھا۔ ایک کمزور اشارہ حقیقی سزا بن گیا۔
 - **"ہم مرتبہ اور AI جائزہ ایک دوسرے کے متبادل ہیں۔"** PAIRR ماڈل [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] کیلیبریشن کو ڈھانچہ دینے کے لیے **ہم مرتبہ جائزے کو AI جائزے کے ساتھ جوڑتا ہے**۔ انہیں جوڑنا ہی ڈیزائن ہے، جس کا مطلب ہے کہ کوئی بھی اکیلا یہ فراہم نہیں کرتا۔
 - **"فیصلے کا معیار فیصلہ کرنے والے کی خاصیت ہے۔"** داخلے والی دریافت مسئلے کو ترتیب میں رکھتی ہے — ایک غیر توثیق شدہ فیصلہ جو نتیجے کے ساتھ لاگو ہو اور چھانٹی کا کوئی مرحلہ نہ ہو — افراد کی صلاحیت میں نہیں۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — ان ترتیبوں میں طلبہ AI آؤٹ پٹ پر جو جائزے کا مرحلہ ادا کرتے ہیں
-- [[ai-education]] — تعلیم میں AI (چھتری)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## منسلک مضامین
-- [[elkington-human-centred-assessment-value-2026]] — انسان مرکز جانچ، ترتیبوں اور جنریٹو قیدوں کا کردار (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — تحریر کے پروفیسر مارکنگ کی بیرونی سپردگی سے کیوں انکار کرتے ہیں: یہی وہ طریقہ ہے جس سے وہ اپنے طلبہ کو سمجھتے ہیں
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT بمقابلہ ہم مرتبہ فیڈبیک بطور تشخیصی فیصلے کی مختلف جہتوں کے تربیتی میدان
-- [[ai-internal-feedback-evaluative-judgments]] — AI کی مدد والا اندرونی فیڈبیک تشخیصی فیصلے کیسے پروان چڑھاتا ہے، اور کہاں استدلال پتلا رہتا ہے
-- [[genai-feedback-design-multisite-experiment]] — مخلوط خود/ہم مرتبہ/AI فیڈبیک براہِ راست AI فیڈبیک سے بہتر ایجنسی اور فیصلہ محفوظ رکھتا ہے
-- [[pairr-ai-peer-review-2025]] — منظم غور و فکر کے ساتھ ہم مرتبہ-اور-AI جائزہ بطور بڑے پیمانے پر کیلیبریشن
-- [[zhan-boud-dawson-genai-feedback-engagement]] — فیڈبیک خواندگی طے کرتی ہے کہ AI فیڈبیک سکھاتا ہے یا متبادل بنتا ہے
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — AI فیڈبیک میں پائیداری کا خلا
-- [[teichmann-detecting-undetectable-misconduct-2026]] — تشخیصی فیصلہ بطور ایک ڈیزائن دھاگہ جو پکڑ کی قیادت والے نفاذ کی جگہ لیتا ہے
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — نظر آنے والے استدلال اور فیصلے کو ربرک کا انعام یافتہ ہدف بنانا
-- [[learner-centered-feedback-ai]] — AI فیڈبیک اوزاروں کے ساتھ استاد کا تشخیصی فیصلہ
-- [[beyond-detection-authentic-assessment-ai-2025]] — پکڑ سے آگے: مستندیت کو نگرانی کے بجائے نئے سرے سے ڈیزائن کرنا
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — جنریٹو AI کے دور کے لیے جانچ کی درستی کا دوبارہ تصور
-- [[du-yuan-epistemic-dependence-2026]] — چیلنج پذیری، بازیابی، اور وہ معیار جو انحصار کو سپردگی سے الگ کرتے ہیں
-- [[rethinking-ai-writing-feedback-literacy]] — AI کی مدد والی تحریر کے لیے فیڈبیک خواندگی
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کون گریڈ کرے؟ اعلیٰ تعلیم میں شفاف AI کی مدد والی تحریری جانچ پر طلبہ کے نقطہ ہائے نظر
-- [[sharma-judgment-visible-genai-assessment-2026]] — فیصلہ بطور سالمیت کا تشخیصی مرکز: تشریح شدہ فیصلے کے نشانات، زبانی دفاع، ورژن کی تاریخ (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — پینلز بغیر ضابطہ بند معیار کے ثبوت تولتے ہوئے: ادارے کا اپنا فیصلہ کرنے کا مسئلہ (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — ڈیٹیکٹر کی غلطی اور مخلوط تحریر کی ناکامی: انسانی فیصلہ بطور فیصلے کا تجویز کردہ متبادل (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — فعل، نہ کہ پلیٹ فارم: یہ جانچنا کہ اوزار نے کیا کیا، یہ نہیں کہ وہ کیا ہے (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms اور Discernment Rate: AI کی مدد والے کام کے پیچھے استدلال کے نشانات کو گریڈ کرنا (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI سے لکھے داخلہ مضامین عام ہیں مگر سزا پاتے ہیں
-- [[authentic-assessments-generative-ai-pilot-2026]] — جنریٹو AI کے ساتھ مستند جانچ ڈیزائن کرنا: اعلیٰ تعلیم میں Assessment Authentifire کا پائلٹ مطالعہ
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Agency Check (قابلِ اعتبار، متعلقہ، قابلِ استعمال، باریک بین) جو ہر AI تعامل کو ڈھانچہ دیتا ہے
-- [[judgment-centred-software-engineering-education-2026]] — AI سے بڑھی سافٹ ویئر انجینئرنگ تعلیم کے لیے بعد از ہائپ جائزہ اور فریم ورک
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — فیصلے نے معیار کو صرف تب الگ کیا جب وہ نظرثانی سے جڑا تھا (Z = 2.80 اور 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — اساتذہ کی ترمیمات دوبارہ استعمال کے قابل تصدیقی معیار بن گئیں (Tang et al. 2026)
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — کام سے پیٹرننگ ہٹائی گئی، اور جو فیصلہ اُدھار لیا گیا

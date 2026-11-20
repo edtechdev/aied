@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -54,7 +56,6 @@ Considerando il cambiamento come sistemico anziché additivo, [[rewriting-curric
 
 La ponderazione cambia ciò che un'analisi curricolare riporta: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] hanno fatto distribuire a GPT-o3-mini il 100% su sette competenze aziendali per ciascuna di 48 valutazioni, raggiungendo un alfa di Krippendorff di 0,81 contro i pesi degli esperti, ma l'accordo diventava negativo per le competenze che le descrizioni non dichiarano mai esplicitamente (-0,19).
 
-
 **La struttura modulare sopravvive ai contenuti attuali.** Un pattern ricorre quando il campo si muove più rapidamente del ciclo di revisione: un nucleo stabile di [[ai-literacy|alfabetizzazione sull'IA]], valutazione critica, rilevamento dei bias ed [[ethics|etica]], con contenuti specialistici e relativi agli strumenti disponibili localmente allegati come moduli e rivisti ogni sei-dodici mesi ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). L'[[medical-education|educazione medica]] post-laurea è il caso dichiarato, ma il principio vale in generale: il programma si impegna su competenze che sopravvivono al ricambio degli strumenti e pianifica la sostituzione dello strato specifico per strumento.
 
 **L'integrazione dell'alfabetizzazione sull'IA** incorpora le competenze sull'IA attraverso le discipline. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fornisce un framework di alfabetizzazione sull'IA supportato, applicabile a tutte le età e fasi educative, che affronta i [[digital-divide|divari digitali]] di secondo e terzo livello. **[[tracing-genai-literacy-interaction-patterns]]** esamina come l'alfabetizzazione sull'IA si sviluppi attraverso i pattern di interazione. **[[hingle-collaborative-ai-literacy-2025]]** esplora approcci collaborativi allo sviluppo del curricolo di alfabetizzazione sull'IA, collegandosi a [[collaborative-learning|l'apprendimento collaborativo]].
@@ -65,7 +66,6 @@ L'integrazione nella pratica è in ritardo rispetto ai framework. [[critical-med
 
 Una revisione PRISMA di 39 studi STEAM (2016–2025) ha trovato uno squilibrio parallelo negli elementi di alfabetizzazione sull'IA: le implementazioni sviluppavano literacy tecniche — concetti fondamentali di IA, [[computational-thinking|pensiero computazionale]], [[statistics-and-data-science-education|literacy dei dati]] — mentre sotto-sviluppavano la consapevolezza etica, l'immaginazione creativa e il creare, gestire e progettare con l'IA, per cui l'audit di ogni unità rispetto a questi elementi è la risposta pratica ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
-
 La [[student-experience|voce degli studenti]] è un altro input progettuale: l'84% di 166 studenti di economia dell'ultimo anno voleva che GenAI fosse insegnato nelle proprie unità e l'85% lo riteneva essenziale per l'occupabilità, mentre solo il 7% lo aveva appreso dalla propria università ([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
 
 Una revisione di 42 studi sull'[[ai-education|educazione all'IA]] pre-universitaria trova i curricoli muoversi da contenuti tecnici verso modelli basati sulle competenze costruiti su framework come AI4K12 e le Cinque Grandi Idee dell'IA, con [[ai-literacy|l'alfabetizzazione sull'IA]] trattata come competenza trasversale mentre gli strumenti standardizzati per valutarla restano assenti ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
@@ -75,7 +75,6 @@ Insegnanti e datori di lavoro concordavano sull'importanza di una sola delle 26 
 La progettazione delle attività di machine learning nel K-12 resta in superficie: una revisione dietro il framework ICE-T ha rilevato che uso invisibile, interazione tramite pulsanti e deployment di modelli rappresentano quasi il 60% delle attività di apprendimento supervisionato codificate, la creazione a esito aperto compariva solo due volte, e le prospettive tecnica e sociale co-occorrevano in solo circa il 3% delle attività ([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
 
 **L'innovazione curricolare [[discipline-specific-aied|specifica per dominio]]** applica la progettazione curricolare a campi specifici. **[[genai-architecture-education]]** esplora come l'IA generativa rimodella la [[pedagogy|pedagogia]] della progettazione architettonica. **[[talebzadeh-ai-green-education-2026]]** esamina l'integrazione dell'IA nei curricoli di educazione verde. **[[connected-ai-lesson-planning-vietnam]]** e **[[llm-cultural-relevance-k12]]** affrontano la [[culturally-relevant-pedagogy|progettazione curricolare culturalmente responsiva]].
-
 
 **Integrare l'IA dentro la disciplina anziché accanto a essa.** Un curricolo di IA a tre livelli (introduttivo, applicativo, avanzato) ha inserito il [[machine-learning|machine learning]] dentro argomenti esistenti di ingegneria termica attraverso un corso di 39,1 ore, anziché aggiungere elettivi di informatica, evitando carico aggiuntivo per gli studenti di ingegneria meccanica e rilasciando apertamente programma, dati e codice ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 
@@ -105,7 +104,6 @@ La struttura, non la formulazione del prompt, è ciò che rende affidabile la re
 
 La progettazione curricolare si collega direttamente a [[learning-design|la progettazione dell'apprendimento]] — il curricolo definisce il cosa, l'insegnamento definisce il come. Si collega a [[ai-literacy|l'alfabetizzazione sull'IA]] perché integrare le competenze sull'IA è una sfida curricolare primaria, a [[teacher-role|il ruolo dell'insegnante]] e a [[educational-development|lo sviluppo educativo]] perché il cambiamento curricolare richiede la preparazione degli educatori, e a [[scaffolding|lo scaffolding]] perché i curricoli ben progettati supportano lo sviluppo delle competenze attraverso corsi e anni. I collegamenti con [[higher-ed|l'istruzione superiore]] e [[k-12|il K-12]] riflettono la rilevanza della progettazione curricolare attraverso i livelli educativi.
 
-
 **Scegliere un framework di alfabetizzazione sull'IA significa scegliere un vocabolario che nessuno ha raccordato.** In una revisione di scoping di 50 framework K-12, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] hanno trovato definizioni di competenza convergenti su dimensioni cognitive, affettive, comportamentali, etiche e sociali, mentre le etichette e i costrutti non si allineavano. Solo il framework ABCE si avvicinava a una tradizione di misurazione condivisa, validata tra Hong Kong, Shanghai e Taiwan, e la progressione tra i gradi scolastici era proposta ripetutamente e verificata da nessuna parte.
 
 ## Idee sbagliate comuni
@@ -113,57 +111,3 @@ La progettazione curricolare si collega direttamente a [[learning-design|la prog
 - **"Un [[llm|LLM]] può mappare un curricolo una volta validato con un'affidabilità alta."** GPT-o3-mini ha distribuito il **100% su sette competenze aziendali per ciascuna di 48 valutazioni**, raggiungendo un **alfa di Krippendorff di 0,81** contro i pesi degli esperti — e l'**accordo** crollava su competenze particolari. Affidabilità complessiva alta con accordo disomogeneo è il pattern da verificare prima di fidarsi della mappatura.
 - **"Integrare l'alfabetizzazione sull'IA significa aggiungere un corso."** LearnAI mostra la forma integrata: uno **strato a esposizione ampia di brevi presentazioni dentro 18 corsi esistenti in cinque discipline (293 studenti)**. L'esposizione era distribuita lungo il curricolo anziché raccolta in un'unità.
 - **"Gli studenti arrivano già capaci di valutare criticamente i media."** Solo il **13,8% degli studenti di educazione e giornalismo intervistati** diceva che i propri corsi affrontavano l'analisi critica dei media, contro il **97,8% che la riteneva importante**. Il divario tra valorizzare una competenza e riceverne l'insegnamento è lo spazio curricolare.
-
-## Concetti collegati
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[recommender-systems-and-learning-paths]]
-
-## Articoli collegati
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mappatura delle competenze ponderata e validata dagli esperti per l'accreditamento
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders

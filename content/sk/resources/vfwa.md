@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -51,11 +52,3 @@ Vedúci programov a modulov vo vysokom školstve, ktorí stále chcú, aby sa ro
 Model nebol hodnotený vo veľkom rozsahu. Práca výslovne uvádza, že zatiaľ neexistuje žiadna vzorka, nástroj ani meraný výsledok a že sú potrebné piloty na overenie, či artefakty z 1. fázy zvyšujú istotu hodnotiteľov alebo konzistenciu interpretácie, či študenti vnímajú dizajn ako spravodlivejší a ako si odbor stanoví prah dostatočnosti bez toho, aby sa 1. fáza zmenila na druhú skúšku.
 
 Dva praktické náklady sú reálne. 1. fáza vyžaduje pozorované sedenia a bezpečné zachytávanie vo veľkom rozsahu, pričom viacjazyčné nahrávanie a preklad sú predpokladom, nie doplnkom. A interpretačný úsudok je zámerne ponechaný hodnotiteľom: model predpokladá odbornosť, ktorú nemožno automatizovať, čo je rovnako personálny ako dizajnový predpoklad.
-
-## Prepojené pojmy
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

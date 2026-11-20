@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -102,49 +104,3 @@ ai_assist:
 **«الطلاب الذين يتعثّرون عليهم ببساطة أن يتعلّموا صياغة مطالبات أفضل.»** ذلك يحوّل عيبًا في النظام إلى عجز لدى المتعلّم. فمع تثبيت المهمة الأساسية، لم ترتفع دقة النموذج سوى من **82.4% للصياغة منخفضة الثقافة القرائية إلى 83.4% للصياغة الخبيرة** — فرق نقطة واحدة — بينما تُضيف [[prompt-engineering|المطالبة]] بصياغة أفضل استبعادًا جديدًا فوق الاستبعاد القائم. فالرافعة في معالجة النظام لتنوّع اللغة لا في تدريب علاجي على المطالبات.
 
 **«أداة بُنيت لصفوف غنية بالموارد ستخدم سياقات قليلة الموارد بمجرد ترجمتها.»** السياق يغيّر قيد التصميم. فـ[[suacode-african-students-motivations|SuaCode]] وصل إلى طلاب في سياقات أفريقية قليلة الموارد حيث **أقل من 1% يملكون مهارات برمجية** بالبناء للهواتف الذكية لا لأجهزة مختبر مكتبية، وهو تصميم مختلف لا نسخة أصغر من التصميم نفسه.
-
-## المفاهيم المتصلة
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — طبقة الوصول الملموسة (الترجمة المكتوبة، والنص البديل، وتوافق التقنية المساعدة)
-- [[assistive-technology]] — طبقة الأدوات التي يستخدمها الطلاب للوصول إلى المحتوى
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## المقالات المتصلة
-- [[prompt-privilege-equitable-ai-access-2026]] — امتياز المطالبات: قياس فوارق إمكانية الوصول في الوصول إلى النماذج اللغوية الكبيرة وتخفيفها
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — توليد أسئلة قائم على النماذج اللغوية لمتعلّمي الصمّ وضعاف السمع
-- [[text-simplification-its]] — تبسيط النص للتدريس الخصوصي الذكي
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: رفاق صوتي أولًا للأطفال ضعاف البصر
-- [[tactile-statistical-graphs-accessibility]] — رسوم إحصائية ثلاثية الأبعاد مطبوعة لمَسيةً
-- [[pepper-robot-sign-language-lis-2025]] — الروبوت Pepper دعمًا للتواصل بلغة الإشارة
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — نسخ فيديو فيزياء يمكن الوصول إليه رياضيًا بـGemini زائد LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — الذكاء الاصطناعي التوليدي المساعد لمتعلّمي ضعاف البصر
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — الذكاء الاصطناعي التوليدي والواقع الافتراضي وغيرهما: مراجعة استقصائية للتقنيات المساعدة الرقمية لطلاب ذوي التنوّع العصبي في التعليم العالي

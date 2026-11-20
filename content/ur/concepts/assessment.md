@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -100,55 +102,3 @@ AI [[assessment-validity|توثیق]] کے بنیادی سوالات اٹھات�
 - **"دیانت بنیادی طور پر پتہ لگانے کا مسئلہ ہے۔"** **26 طلبہ کے ساتھ اسکرول بیک انٹرویوز** ظاہر کرتے ہیں کہ طلبہ GenAI کے ساتھ جانچ میں ایک **طیف** کے ساتھ فیصلے کرتے ہوئے گزرتے ہیں، اور **157 طلبہ** میں GenAI *کیسے* استعمال ہوتی ہے — **فہم کی مدد کے لیے تشخیصی آمیزش بمقابلہ** متبادل — نے نتیجے کی پیش گوئی کی۔ استعمال کا انداز طلبہ میں استعمال کی موجودگی سے زیادہ واضح فرق ڈالتا ہے۔
 - **"غیر مادری انگریزی بولنے والے ہی دھوکہ دہی کا خطرہ ہیں۔"** **25 مطالعات کا PRISMA جائزہ** ایک ایسا خطرے کا عنصر شامل کرتا ہے جو پتہ لگانے کی بحث نظر انداز کر دیتی ہے: غیر مادری بولنے والے زبان کی طلب سے جدوجہد کے وقت دیانت کی خلاف ورزی کی **طرف زیادہ مائل** پائے گئے۔ یہ زبان کی معاونت کا مسئلہ ہے جسے دیانت کا مسئلہ سمجھ لیا گیا۔
 - **"GenAI کی ممانعت کرنے والی پالیسی سوال طے کر دیتی ہے۔"** طلبہ اصول کی پیروی کے نمونے کے بجائے فیصلوں کا ایک طیف بیان کرتے ہیں، چنانچہ ایسا اصول جو طلبہ پہلے سے کر رہے تشخیصی استدلال سے نہ جڑے، مستقل طور پر پیروی نہیں پائے گا۔
-
-## منسلک تصورات
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[pedagogical-partnerships]] — تدریسی شراکتیں
-- [[formative-assessment]] — تکوینی جانچ: بڑے پیمانے پر AI سے تخلیق شدہ، جانچے اور ڈھالے گئے سوالات
-- [[automated-assessment]] — جانچ کے تمام طریقوں میں خودکار گریڈنگ اور اسکورنگ
-- [[authentic-assessment]] — عمل پر مبنی، AI کے مقابلے میں مضبوط اصلی کام
-- [[assessment-validity]] — تخلیقی AI کے تحت جانچ کی توثیق
-- [[educational-measurement]] — AI جانچ کے پیچھے پیمائش کا نظریہ
-- [[automated-essay-scoring]] — خودکار مضمون اسکورنگ
-- [[automated-question-generation]] — خودکار سوال سازی
-- [[oral-assessment]] — زبانی جانچ: ایسے زندہ اور ریکارڈ شدہ فارمیٹس جو AI کے متبادل کا مقابلہ کرتے ہیں
-- [[summative-assessment]] — اختتامی جانچ: AI کے مقابلے میں مضبوط فارمیٹس (زبانی، نگرانی والے، بند کتاب امتحانات)
-- [[item-response-theory]] — AI کے دور کے جانچ جوابات کی تشریح کے لیے IRT
-- [[psychometrically-aware-ai]] — سائیکو میٹرک طور پر واقف AI اسکورنگ
-- [[learning-analytics]] — جانچ کے ڈیٹا کو سیکھنے سے جوڑنے والا تجزیہ
-- [[feedback]] — جانچ سے سیکھنے تک کا چکر مکمل کرنے والے فیڈبیک لوپس
-- [[feedback-literacy]] — سیکھنے والے کی فیڈبیک خواندگی
-- [[academic-integrity]] — دیانت اور AI کی شناخت کی بحث
-- [[ai-detection]] — AI سے تخلیق شدہ متن کا پتہ لگانا
-- [[ai-ed-evaluation]] — خودکار جانچنے والوں کی تشخیص کے طریقے اور بینچ مارک
-- [[eportfolio]] — عمل پر مبنی ای پورٹ فولیو جانچ
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## منسلک مضامین
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — ایک سال طویل پروگرام جو کثیر الجہتی جانچ کی خواندگی کی تعریف کرتا ہے اور ناپتا ہے کہ کیا بدلا اور کیا نہیں
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹس، خوشگوار جانچ اور تیسرا میدان
-- [[mccorkle-aligned-genai-course-policy-2025]] — جانچے جانے والے کام سے ماخوذ کام کی سطح پر AI کی اجازتیں (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — پروجیکٹ کے معیار کی سطحوں پر ChatGPT، ہم مرتبہ اور مدرس گریڈنگ کا موازنہ (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[beyond-detection-authentic-assessment-ai-2025]] — پتہ لگانے سے آگے: اصلی جانچ
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — شریک تصنیفی دیانت اور جانچ کی توثیق
-- [[competency-based-education-genai-production-2026]] — تخلیقی AI کے بعد قابلیت پر مبنی تعلیم
-- [[genai-assessment-governance]] — جانچ میں تخلیقی AI کی شواہد پر مرکوز گورننس
-- [[ssaho-ai-academic-integrity-review-2025]] — AI دیانت کا جائزہ: پتہ لگانے کے ساتھ جانچ کی نئی تشکیل لازم ہے
-- [[bassett-ai-detectors-education-2026]] — سکہ ہمارا، پانسہ بھی ہمارا: تعلیم میں AI ڈیٹیکٹرز (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: طالب علم کی بے چینی کی LLM سے بڑھائی گئی جانچ (2026)
-- [[graph-its-adaptive-algorithms-2026]] — متحرک شعبوں کے لیے گراف پر مبنی ذہین ٹیوٹرنگ (2026)
-- [[asynchronous-oral-assessment-2026]] — AI کے دور میں غیر ہم وقتی زبانی جانچ (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI تعامل کے ذریعے سیکھنے کی جانچ (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — جانچ کے کاموں میں GenAI کے ساتھ طلبہ کے کام میں فیصلہ سازی (26 طلبہ، اسکرول بیک)
-- [[stamatoulis-genai-use-patterns-2026]] — GenAI استعمال کے نمونے (تشخیصی آمیزش بمقابلہ کم تصدیق والا استعمال) اور نتائج
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI کی مدد سے تیار کام کی گریڈنگ میں قدری فیصلے: دیانت، اعتماد، توثیق اور دو طرفہ شفافیت (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM اور درخت پر مبنی ML سے سوال کی مشکل کا تخمینہ
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI آپ کا ہوم ورک کر سکتی ہے۔ اب کیا؟ تخلیقی AI کے دور میں کمپیوٹنگ کی جانچ پر ایک آن لائن ورکشاپ کی رپورٹ
-- [[koretsky-genai-stem-assessment-2026]] — جانچ کو از سر نو ہم آہنگ کرنے کے لیے تین کونوں کا فریم
-- [[rubrics-genai-process-based-assessment-2026]] — روبرک معیارات جو تعامل کو گریڈ کریں، تیار شدہ شے کو نہیں

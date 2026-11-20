@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -119,62 +121,3 @@ Como um modelo amplifica qualquer PCK pessoal que um professor já possui, os no
 - **"A aceitação da IA entre futuros professores é uma única atitude."** **128 futuros professores** foram perfilados em quatro grupos de aceitação do ChatGPT, incluindo **Céticos Resistentes (14,06%), que relataram alta facilidade de uso percebida mas intenção comportamental muito baixa**. Facilidade de uso e intenção se separaram nesse grupo, de modo que uma intervenção movida pela [[usability-research|usabilidade]] os deixaria inalterados.
 - **"A IA ajuda futuros professores principalmente com conhecimento de conteúdo."** Uma **revisão de escopo de 55 estudos** constata que a IA aumenta o **desenho instrucional, a instrução por disciplina e o ensino prático** — as capacidades de desenho e prática, e não a expertise de conteúdo.
 - **"Uma revisão de escopo de 55 estudos estabelece benefício."** Ela documenta o que é relatado no campo. A amplitude da melhoria relatada é uma afirmação sobre o consenso da literatura, e 55 estudos em uma revisão de escopo não são um efeito agrupado.
-
-## Conceitos conectados
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — Educação em química e IA: laboratórios, avaliação formativa, limites de LLM, filosofia da experimentação
-
-## Artigos conectados
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — IA na formação de professores: frameworks pedagógicos, evidência empírica e ética, 2020-2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — Como o desenvolvimento profissional guiado por IA generativa apoia o engajamento dos professores com a criatividade matemática, o conhecimento de conteúdo e o conhecimento pedagógico de conteúdo
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Futuros professores de inglês autoriando políticas de IA em sala de aula: usos permitidos, limitados e proibidos (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 professores em formação: adoção rasa de IA generativa, ansiedade de integridade e letramento em avaliação que não se transfere
-- [[pishtari-teacher-ai-training-learning-design-2026]] — Apoio e treinamento com chatbot de IA no desenho de aprendizagem dos professores
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — O conhecimento pedagógico de IA como alavanca prioritária para a aprendizagem profissional do professor (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Uso responsável de IA generativa por futuros professores: implicações de currículo (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Revisão de escopo da IA no desenvolvimento de futuros professores
-- [[designing-ai-professional-development-itpack-2026]] — Framework de desenvolvimento profissional baseado em TPACK inteligente
-- [[human-centered-ai-teacher-educators-2026]] — Aprendizagem profissional para letramento crítico em IA em formadores de professores
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK específico de IA generativa na formação de professores
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — O conhecimento de IA dos professores no planejamento de aulas com IA generativa
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Padrões de interação professor–IA ao longo da experiência docente e da proficiência em IA no desenho de aulas (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Prontidão em TPACK inteligente de futuros professores
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK na formação de professores de matemática
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Domínio de ética e confiança de professores em serviço
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Robótica com micro:bit na formação inicial de professores
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Avaliação autêntica mediada por IA na educação inicial
-- [[science-educators-ai-literacy-postqualification-2026]] — Letramento em IA de educadores de ciências e programas pós-qualificação
-- [[context-based-ai-secondary-chemistry-2026]] — Instrução 7E baseada em contexto + IA em química do ensino médio
-- [[educasim-cs1-instructional-practice]] — EducaSim: simulacros interativos para prática instrucional em CS1
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Perfis de aceitação do ChatGPT por futuros professores
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivação para modelar o futuro da educação com IA
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Investigação guiada apoiada por IA na formação de professores de ciências
-- [[reflective-triangle-model-teacher-ai-2026]] — Modelo Reflexivo Triangular: a IA como mediadora cognitiva
-- [[sahab-model-genai-constructivist-id-2026]] — Modelo SAHAB: desenho instrucional construtivista com IA generativa
-- [[riandi-teacher-ai-green-energy-education-2026]] — Envolvimento docente na integração de IA para a educação em energia verde (Riandi et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso longitudinal de IA generativa, ética e política na formação de professores (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Modelo de sala de aula inteligente e laço D-T-E melhorando a proficiência em desenho instrucional de M.Ed. em matemática (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com IA generativa
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — A avaliação colaborativa de conteúdo gerado por IA por professores como desenvolvimento profissional (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Comparação presencial versus [[online-teaching-and-learning|a distância]] do TPACK relacionado a IA e dos níveis de treinamento de 186 professores de ciências em formação
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — rastreia futuros professores construindo fronteiras de IA em uma etnografia de letramento de um semestre
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — A IA generativa sem andaimes rebaixou a qualidade dos planos de aula de futuros professores abaixo da turma sem IA generativa
-
-- [[capability-decision-model-teacher-readiness-2026]] — Meça a capacidade, e não a confiança
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Um modelo heutagógico de dupla camada que liga a regulação reflexiva dos próprios professores à agência dos estudantes
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Professores de K-12 aprendendo a ler pesquisa primária em IA e a contestar mandatos distritais
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Futuros professores como aprendizes: grupos que discordavam sobre energia fizeram da IA um centro da conversa conceitual; grupos que concordavam a trataram como consulta e ressentiram os empurrões proativos (Wang et al. 2026)
-- [[webb-pck-genai-2026]] — Por que um modelo amplifica o PCK fino de um novato, e por que o remédio é coletivo, e não um módulo de letramento em IA (Webb et al. 2026)
-- [[idea-model-doctoral-education-genai-2026]] — Doutorandos redesenham suas próprias disciplinas: 76,5% mantiveram um redesenho de disciplina, 73,5% ainda usando prática apoiada por IA no follow-up

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -44,7 +45,3 @@ Tanároknak és [[learning-design|oktatástervezőknek]] a K–12-ben és a fels
 ## Megjegyzések és fenntartások
 
 A központ útmutatás, nem megfelelőségi termék: az oldal semmilyen megfelelőségi állítást nem tesz a saját WCAG 2.2 AA céljára, a „megfelelővé teszik-e ezek a fájlok az oldalamat?” kérdésre nemmel válaszol, és kimondja, hogy a mérnöki átvizsgálás nem helyettesíti az iskolai engedélyezést vagy a jogi felülvizsgálatot. A biztonsági polc az axe-core-ra, a Gitleaks-re, a ZAP-ra és a Playwrightra mutat; ezek hivatkozások, nem csomagolt szoftverek, és az invazívakat eldobható vagy kifejezetten engedélyezett célponton kell használni. Az olvasáshoz nem kell fiók. A HTML-oldalak újraépítéséhez Python és a `markdown-it-py` kell, ami építési függőség, nem látogatói függőség. A repository MIT licencű, a harmadik féltől származó grafikák és a hivatkozott projektek viszont saját feltételeiket tartják, amelyeket a `CREDITS.md` dokumentál.
-
-## Kapcsolódó fogalmak
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

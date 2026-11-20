@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -39,7 +41,6 @@ ai_assist:
 ## מבוא
 
 העברת למידה היא דאגה יסודית ב[[research-methods-aied|מחקר]] חינוכי, וכלי בינה מלאכותית הפכו אותה לדחופה. הדפוס האמפירי המגדיר המתועד לאורך מחקרי בינה מלאכותית בחינוך הוא **פרדוקס ההעברה**: סטודנטים המשתמשים בבינה מלאכותית מציגים בדרך כלל שיפור מיידי וניתן-מדידה במשימות שבהן בינה מלאכותית זמינה, אך שיפור זה לעיתים קרובות אינו מתמיד — ואף מתהפך — כשמסירים את הבינה המלאכותית והסטודנטים צריכים להדגים הבנה בעצמם. הדפוס חושף [[cognitive-offloading|הסתמכות יתר]], תיאוריית העומס הקוגניטיבי, ו[[metacognition]] כמנגנונים הפועלים, ומתחבר ישירות לדיונים על עיצוב [[intelligent-tutoring|חונכות AI]].
-
 
 מוכנות אינה העברה: תרגול דיבור בסיוע בינה מלאכותית נלווה ל[[anxiety-and-stress|חשש דיבור]] נמוך יותר ולנכונות גבוהה יותר לתקשר עם בני אדם, אך אף אחד משני המחקרים לא צפה בדיבור אנושי, כך שהדרך מתרגול מול AI ליכולת תקשורת אנושית נותרת הצעה פדגוגית שאינה נבדקה ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
@@ -72,7 +73,6 @@ ai_assist:
 **הסתמכות יתר / היפוך מומחיות.** מתחילים שקבלו תשובות אינם בונים סכימות. AI כללי מספק תשובות; חונכות אפקטיבית מספקת הדרכה מובנית. כאשר מתחינים מקבלים קיצורי-דרך ברמת מומחה, הלמידה נפגעת — עקרון ה[[desirable-difficulties]] בעיוות.
 
 **ביצועים תלויים-כלי.** סטודנטים עשויים למטב עבור התכונות הספציפיות של כלי ה-AI ([[prompt-engineering|הנדסת הנחיות]], הסתמכות על מבנה קוד מיוצר) במקום לבנות הכללה בתחום — צורה של [[cognitive-offloading-speedup-illusion|הוצאה קוגניטיבית]] שמרגישה פרודוקטיבית אך דוחה למידה עמידה.
-
 
 כיתה מוגנת יכולה גם ללמד הרגל שגוי: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] מזהירים ש[[simulation|סימולציות]] עם כללים שנקבעו מראש מסננות אי-ודאות ומחזקות עמידה בכללים, כך שהרגלי קבלת החלטות שנוצרו בתוכן עשויים להפוך לחוב קוגניטיבי ברגע שהסטודנטים פוגשים אינטרסים מתחרים ומידע חלקי בהגדרות אמיתיות.
 **הוצאה קוגניטיבית רגישה-לשכבות והעברה.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] בודק ישירות את ההבחנה של Salomon, Perkins & Globerson בין "השפעות עם מול השפעות של טכנולוגיה" בכתיבה בסיוע [[generative-ai|GenAI]]: ניסוי כמעט-ניסויי בן שמונה שבועות מצא ששיתוף פעולה פתוח עם AI מיקסם ביצועי כתיבה נתמכים אך הניב את תוצאות ההעברה-הקרובה העצמאיות ללא AI הנמוכות *ביותר*, בעוד שתמיכה חסומה עם השתקפות שמרה על מיומנות עצמאית. שכבות הוצאה עמוקות יותר (היגיון, מבנה) חזו העברה גרועה יותר משכבות שטחיות (דקדוק). זו ראיה ישירה מכיתה שהשיפורים בביצועים הנתמכים *עם* AI אינם מועברים לביצועים העצמאיים *של*-תמיכה — ושעומק ההאצלה, לא רק האם נעשה שימוש ב-AI, מעצב את ההעברה.
@@ -116,36 +116,3 @@ ai_assist:
 **"העברה באה ממודלים מוכשרים יותר."** העברה באה מתנאים שמייצרים אותה — כלליות התרגול, השונות של ההקשרים, ומידת המידה שבה הלומד עצמו ייצר את ההנמקה. יכולת המודל מעלה את התקרה של הביצוע הנתמך ואינה עושה דבר מסוים למה שנשאר כשהמודל איננו.
 
 **"הדרכה תמיד תומכת בהעברה, ולכן יותר הדרכה טוב יותר."** הדרכה שמבצעת את ההנמקה מחליפה את התהליך שההעברה תלויה בו. ההבחנה היא בין עזרה שמשאירה את הלומד מייצר את הצעד הבא לבין עזרה שמייצרת אותו במקומו — ורק הראשונה נמצאת בצד ההעברה של הקו הזה.
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — התוצאה שלגביה רוב הרצפים האלה נשפטים בסופו של דבר
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-
-## מאמרים מקושרים
-- [[yan-agentivism-learning-theory-ai-2026]] — תיאוריית למידה בטווח-בינוני לאינטראקציה בין אדם ל-AI, עם ארבעה מנגנונים ושישה טענות ברירות-מבחן (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — הוצאה קוגניטיבית רגישה-לשכבות בכתיבה בסיוע GenAI (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — הבחנת ביצועים-למידה והעברה עמידה
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[shi-genai-experiential-learning-management-education-2026]] — טוען שסימולציות כיתתיות מוגנות יכולות ליצור הרגלי קבלת החלטות שנכשלים מחוץ להן
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — תרגול דיבור בסיוע AI הגביר נכונות כלפי בני אדם אך אף מחקר לא צפה בדיבור אנושי
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
-- [[cognitive-washout-ai-skill-decay-2026]] — שטיפה קוגניטיבית: המרווח שלאחר הסרת התמיכה ופרוטוקול מדידה בן 22 שבועות (Yajee 2026)

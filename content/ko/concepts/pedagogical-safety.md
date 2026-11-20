@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -80,50 +82,3 @@ ai_assist:
 **"가장 안전한 튜터는 가장 많이 거부하는 튜터다."** "고르게 거부하는" 시스템도 불평등을 고착시킬 수 있으며, 이것이 이 페이지가 말하는 조용한 실패의 후반부입니다. 실패 양상은 정답을 주면서 학습을 침식하는 튜터만이 아닙니다. 거부가 학습자들 사이에 지원을 불균등하게 배분하는 튜터도 여기에 해당하며, 일괄 거부 정책은 가시적인 위험을 비가시적인 위험과 맞바꿉니다.
 
 **"어떤 모델 수준 안전 작업이든 홍보용 조치에 불과하다."** 그중 일부는 측정 가능합니다. [[llm-unlearning-math-privacy|수학 언러닝]] 연구는 그래디언트 기반 언러닝으로 식별 정보와 유해 콘텐츠를 제거하여, 개인 식별 정보 출력을 **0.1%**까지, 유해성 비율을 **0.0%**까지 낮추면서 역량을 보존합니다. 모델 수준 통제는 계층적 방어의 한 층이며, 단독으로는 불충분하지만 아무것도 아닌 것은 아닙니다.
-
-## 연결된 개념
-
-- [[guardrails]] — 안전을 구현하는 설계 메커니즘
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## 연결된 문서
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — 학생-AI 대화를 조종하는 SCAFFOLD 프레임워크와 그것의 교실 파일럿
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 교사가 설계한 안전 계층: 영역 경계, 필터링, 개입
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: 안전하고 건전한 학습용 AI를 위한 설계 프레임워크
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

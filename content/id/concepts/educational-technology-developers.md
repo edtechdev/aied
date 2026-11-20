@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -89,45 +91,3 @@ Peran ini juga berbeda dari tetangganya. [[learning-design]] dan [[curriculum-de
 
 - Tanyakan bagaimana alat itu dievaluasi pada tugas yang hendak Anda gunakan, dan apakah evaluasinya co-pilot atau otonom. Keduanya tidak dapat dipertukarkan.
 - Tanyakan kapan evaluasi itu dilakukan. Klaim kapabilitas yang terikat pada versi model yang tidak dinyatakan cepat kedaluwarsa dan menggambarkan sistem yang tidak akan Anda jalankan.
-
-## Konsep terkait
-
-- [[edtech-platform]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[universal-design-for-learning]]
-- [[assessment-validity]]
-- [[ai-ed-evaluation]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[sustainability]]
-- [[privacy]]
-
-## Artikel terkait
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[learnlm-improving-gemini-learning]]
-- [[savvy-student-attention-video-learning]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[oneill-presumed-effective-meta-analysis-2026]]
-- [[a4l-analytics-pipeline]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[vocabulary-difficulty-prediction]]
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Isyarat kredibilitas meningkatkan kepatuhan pada saran AI yang salah; verifikasi provenans pada titik penggunaan

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -111,23 +113,3 @@ ITと方針担当の職員は、承認をルーティングの判断に変えら
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026-02-04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann、*Campus Technology*、2026年2月。未承認の利用は満たされていないニーズを報告しているという実務家の議論。教員が授業案を起草し、研究者が学科のカードでクラウドGPUを立ち上げ、職員が機微なデータを消費者向けツールに貼り付けるのは、承認された道が遅かったからである。
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathanら、Springer、2026年。公共部門の職員214人を対象としたPLS-SEMで、シャドーAIをガバナンス条件と責任ある利用を結ぶメカニズムとして扱う。
-
-## 関連する概念
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## 関連する記事
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE：94%が仕事でAIを利用、54%が方針を認識、13%がROIを測定
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 教育者が未承認の利用を正当化する過程の三段階の説明
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 教育者375人、アプリ1,373件、セキュリティを理由に挙げたのは24人
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 方針の空白の中で教育学的な境界線を引く教師たち
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — 組織の指針を待つのではなく、教育者主導で導入するという選択肢

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -42,7 +44,6 @@ ai_assist:
 텍스트–이미지 도구는 스튜디오의 반복적 워크플로가 가장 직접적으로 걸려 있는 사례이며, 증거는 득이나 실의 단순한 이야기가 아닙니다. [[t2i-competence-paradox-2026|Liu, Meng and Zhang(2026)]]은 예술 및 디자인 학생 417명을 교수 포커스 그룹 및 면담과 함께 조사하여, 성과 기대, 사회적 영향, 새로움의 가치, 창작 역량이 모두 텍스트–이미지 도구 사용 의도를 정적으로 예측한 반면 노력 기대와 촉진 조건은 부적으로 예측함을 발견했습니다 — 저자들은 이것을 용이성과 이용 가능성이 지속적 참여보다 빠른 산출을 가능하게 하는 강좌 과제에서의 지름길 지향적 사용으로 읽습니다. 주목할 만한 결과인 그들의 역량 역설은 이렇습니다: 창작 역량은 의도를 뒷받침하지만, 학생들이 저자됨, 독창성, 기술 보존을 효율성과 맞바꾸면서 더 선택적이고 절제된 실제 사용도 예측합니다. 그들은 창작 과정, 프롬프트 작성, 산출 평가를 둘러싼 [[ai-literacy|AI 리터러시]]를 다루는 교수법을, 스튜디오 과정과 노력을 평가 대상으로 삼으며 주장합니다.
 
 채택 문제에는 이 분야 특유의 답이 있습니다. [[zhu-creative-agency-trust-genai-art-2026|Zhu(2026)]]는 저장성 8개 기관의 미술 전공자 450명을 [[trust]]로 확장한 UTAUT 모형으로 조사했습니다. 신뢰는 행동 의도로 가는 가장 강한 경로였고(β = 0.425) 사회적 영향(0.155)을 앞섰으며, 메타인지적 통제는 신뢰(β = 0.099)보다 의도(β = 0.146)로 더 직접적으로 향했습니다. 저자들은 이를 이 분야의 이해관계로 읽습니다: 미술의 정지 규칙은 불명확하므로 창작 주체성을 지킨다는 것은 무엇을 남기고, 고치고, 버릴지를 반복해서 결정하는 일입니다. 학생 80명을 대상으로 한 무작위 후속 연구에서 맹검 전문가가 생성 이미지를 평정했고, 프롬프트를 쓴 학생은 의미 내용(d = 0.67), 시각 양식(d = 1.30), 공간 구성(d = 0.63)에서 더 높은 점수를 받았습니다.
-
 
 [[playing-bias-epistemic-games-text-to-image-2026|Foka(2026)]]는 비평을 재현 가능한 방법으로 바꿉니다. 해석하기, 심문하기, 드러내기라는 세 가지 인식적 게임이 스튜디오 논의를 인상적 반응에서 정당화된 편향 가설로 옮기며, BiasSlot 규칙은 하나의 편향 단서를 변화시키면서 고정된 모티프는 그대로 둡니다.
 
@@ -96,28 +97,3 @@ ai_assist:
 **"스튜디오 교수에서 AI는 비평을 대체한다."** 이 문헌의 구성주의적 틀은 정반대입니다. 설계된 "미소세계"는 **디자인 사고를 대체하지 않으면서 창의적 탐색 공간을 확장합니다**. 비평은 판단이 형성되는 자리이며, 후보 해를 공급하는 도구는 비평에 대한 필요를 줄이는 것이 아니라 비평이 다룰 재료를 늘립니다.
 
 **"학생들은 예술 교육에서 아직 AI를 쓰지 않으므로 교육과정이 속도를 정할 수 있다."** 이 코퍼스의 설문 증거는 **건축 학생의 거의 70%가 이미 AI 도구를 독립적으로 사용**한다고 밝힙니다. 교육과정은 이미 퍼진 실천을 따라잡는 중이며, 이는 과제를 도입에서 비판적 통합으로 바꿉니다.
-
-## 연결된 개념
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## 연결된 문서
-
-- [[project-based-digital-storytelling-art-design-2026]] — 426명의 학생이 참여한 15주 디지털 스토리텔링 캡스톤: 독창성은 강하고 통합은 약하며, AI는 저자가 아닌 도구(Tian 외 2026)
-- [[t2i-competence-paradox-2026]] — 예술 및 디자인 학생 417명의 텍스트–이미지 수용, 그리고 선택적 사용의 역량 역설(Liu, Meng & Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — 무대 조명을 위한 LLM 보조 VR 교수, 그리고 전문가와 초보자 표현 사이의 간극(Liang 외 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — 편향 놀이: 텍스트-이미지 모델을 해석하기 위한 인식적 게임 (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — 미술 학생의 창작 주체성, 신뢰, 전문가 평정 산출물 품질

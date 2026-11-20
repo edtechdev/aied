@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -54,7 +56,6 @@ ai_assist:
 
 چونکہ SDL سیکھنے والے کی طرف سے شروع کردہ سمت پر زور دیتا ہے، اُسے بچانے والی مداخلتیں [[agency|ایجنسی]] اور خود اعتمادی کو محفوظ رکھنے پر مرکوز ہوتی ہیں، نہ کہ محض لمحہ بہ لمحہ رویے کو ضابطہ کرنے پر۔ یہ شہادت کہ بے سوچے AI استعمال محرک اور خود اعتمادی — یعنی وہ نفسیاتی وسائل جن پر SDL کھڑا ہے — کو کھا جاتا ہے، ظاہر کرتی ہے کہ [[ai-literacy|ذمہ دار AI استعمال]] کو فروغ دینا صرف دیانت کا مسئلہ نہیں بلکہ نشوونما کا ہے: طلبہ کی اپنی سیکھنے کی ہدایت کی صلاحیت کا تحفظ۔
 
-
 ## AI اخراج بطور سہارا برائے تحقیقی سیکھنے
 
 - **AI اخراج بطور سہارا برائے تحقیقی سیکھنے۔** An اور ساتھی (2026) ایک AI سے چلنے والا معلومات نکالنے کا نظام ڈیزائن کرتے ہیں جو تحقیقی مطبوعات کو منظم، قابلِ سراغ ڈیٹا سیٹوں میں بدل دیتا ہے تاکہ [[stem-education|STEM]] میں انڈرگریجویٹ تھیسس کی تکمیل کی حمایت ہو، اور اسے ایک **علمی سہارا** کے طور پر رکھتے ہیں جو شہادت اور دعوے کے رشتوں کے معائنے کو ممکن بناتا ہے جبکہ نچلی سطح کے ڈیٹا ہینڈلنگ کے تقاضے کم کرتا ہے۔ 80 دستاویزات پر 20 طلبہ کے [[mixed-methods-research|ملی جلی طریقوں]] والے پائلٹ میں طلبہ نے ہدف شدہ پیرامیٹرز کا 90% سے زیادہ نکالا، [[self-report-measures|خود رپورٹ]] شدہ ادبی جائزے کا وقت تقریباً 65% گھٹا، اور مؤثر متغیرات کی شناخت کی صلاحیت 50% بڑھی — جو اِس خیال کی حمایت کرتا ہے کہ [[generative-ai|AI]] علمی بوجھ کو معمول کی خلاصہ سازی کے بجائے اعلیٰ درجے کی، خود ہدایت یافتہ تحقیقی استدلال کی طرف متوازن کر سکتا ہے۔
@@ -85,29 +86,3 @@ ai_assist:
 **محققین کے لیے**
 
 - بتائیں کہ کسی مداخلت نے کس تصور کو نشانہ بنایا؛ SDL اور SRL کے نتائج کو ایک دوسرے کے بدلے استعمال نہیں کرنا چاہیے۔
-
-## منسلک تصورات
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## منسلک مضامین
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — بے سوچے GenAI استعمال اور خود ہدایت یافتہ سیکھنا (SEM، صنفی فرق)
-- [[ai-lifelong-learning-policy]] — AI اور عمر بھر سیکھنے کی پالیسی
-- [[self-directed-growth-generative-ai-learning-analytics]] — GenAI اور سیکھنے کے تجزیات کے ساتھ خود ہدایت یافتہ ترقی
-- [[genai-educational-outcomes-meta-analysis]] — جنریٹیو AI کے تعلیمی نتائج کا میٹا تجزیہ
-- [[andragogy-cognitive-delegation-genai-2026]] — اینڈراگوگی اور GenAI کے ساتھ علمی تفویض
-- [[kim-ai-andragogy-2026]] — اینڈراگوگی کی حمایت میں AI کے اطلاقات (Kim وغیرہ 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — ماڈل آزاد انتخاب کے کام میں انسانوں کی طرح سیکھنے کے اہداف منتخب نہیں کرتے (Molinaro وغیرہ 2026)
-- [[scherer-self-directed-genai-use-secondary-2026]] — ثانوی اسکول طلبہ میں خود ہدایت یافتہ جنریٹو AI استعمال اور تعلیمی ترقی: ایک بڑے پیمانے، ایک سالہ طولانی مطالعہ

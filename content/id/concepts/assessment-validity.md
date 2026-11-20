@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -139,77 +141,3 @@ Stabilitas antar-jalan tidak dijamin, bagaimanapun: mengulang penilaian yang sam
 - **"Bias penilaian LLM adalah alasan untuk meninggalkannya."** Dalam **penilaian menulis nasional berskala besar**, penskor LLM menunjukkan **bias konservatif sistematis (menurunkan nilai)** — bermasalah sebagai nilai akhir dan berpotensi **berguna sebagai sinyal penyaringan**. Bias dengan arah yang diketahui adalah instrumen yang berbeda dari bias yang tidak dapat diprediksi.
 - **"Inflasi nilai setelah AI hanyalah spekulasi."** Dalam **studi difference-in-differences atas lebih dari 500,000 nilai di 319 mata kuliah (2018-2025)**, mata kuliah dengan lebih banyak tugas terpapar AI (menulis, coding) **mengalami kenaikan porsi nilai A**. Efeknya terkonsentrasi di tempat tugas terpapar.
 - **"Fakultas telah mengadopsi AI secara luas."** **62.4% (53)** memilih tidak menggunakan AI generatif sama sekali, dan penggunaan adopter **terbatas terutama pada penyuntingan (43.8%) dan pemeriksaan kejelasan (34.4%)**. Pola adopsinya hati-hati dan sempit, yang mengubah cakupan yang perlu ditangani argumen validitas.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Mengapa bukti proses diusulkan ketika keluaran tidak lagi mengidentifikasi penulis
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## Artikel terkait
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — Dari mengawasi provenans menjadi mendesain untuk bukti: empat proposisi yang diuji terhadap penelitian dan kebijakan (Ansari 2026)
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Kemiripan embedding berkorelasi dengan skor manusia paling tinggi 0.198
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI yang dapat dikenakan melarutkan keterpisahan dan keteramatan, sehingga kandidat yang diawasi tetap tidak dapat menunjukkan kemampuan tanpa bantuan (Corbin, Sharpe & Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — Kerentanan lulus/gagal di tingkat program dan kriteria penilaian yang membiarkan nilai fabrikasi lulus (Ivory dkk. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Izin semata tidak menurunkan validitas: keterlibatan tidak terpengaruh penggunaan GenAI; refleksi menolak substitusi generik
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[opraise-automated-marking-ai-assessment-2026]] — Laporan OpRaise: penilaian AI atas 761 esai universitas di tiga universitas Inggris
-- [[kumar-genai-computing-education-systematic-review-2026]] — Ketika AI menghasilkan artefak yang dinilai: masalah validitas pendidikan komputasi dan bukti desain ulang
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Ujian bawa pulang: nilai fase kualitatif, pindahkan hafalan ke kelas (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Penskoran berbantuan AI HITL dalam penilaian menulis nasional berskala besar (Curi dkk. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Pembangkitan varian penilaian yang setara konstruk (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Pergeseran tugas oleh AI sebagai mekanisme inflasi nilai (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Agen AI menyelesaikan tugas LMS; asumsi produksi manusia & validitas agentik (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski dkk. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Kerangka Multimodal untuk Kognisi Terwujud dalam Penjelasan Lisan
-- [[assessing-quality-ai-generated-exams-field-2025]] — Menilai kualitas ujian yang dihasilkan AI: studi lapangan berskala besar
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Pertimbangan nilai dalam menilai karya berbantuan GenAI: kejujuran, kepercayaan, validitas, dan transparansi dua arah (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Prosedur pelanggaran sebagai masalah validitas
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Validitas penilaian dalam informasi yang tidak sempurna: model wilayah respons
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Inferensi mana yang berisiko? Memisahkan lima tekanan validitas dan memeriksa apa yang dilemahkan desain ulang (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — Penilaian STEM sebagai masalah validitas, desain, dan definisi kemampuan, bukan masalah kecurangan: bukti proses, ujian lisan, dan kesetiaan tugas yang dihasilkan AI (Koretsky dkk. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — AI dalam Pendidikan Fisika Partikel: Masalah Penelitian dan Keterampilan Fondasional
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang Seharusnya Menilai Karya Saya? Perspektif Mahasiswa tentang Penilaian Menulis Berbantuan AI yang Transparan di Pendidikan Tinggi
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Membatasi klaim pembelajaran dari percontohan tutor AI El Salvador (Restrepo Morales dkk. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya dikandung berkas tuduhan pelanggaran sebagai bukti, dan mengapa kualitas bukti tidak memprediksi hasil (Munoz dkk. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Akurasi detektor 0.69 dan 0.61 pada 192 teks; kegagalan tulisan hibrida dan risiko salah klasifikasi EFL (Hadra dkk. 2026)
-- [[wright-transcription-not-generation-2026]] — Larangan yang terlalu inklusif: transkripsi bukan pembangkitan, sehingga aturan menghukum hal yang tidak dirancang untuk dicegahnya (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integritas yang dibuat terlihat melalui pertimbangan evaluatif alih-alih deteksi (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Dapatkah model bahasa besar mereproduksi band nilai pendidikan tinggi? Studi lintas model tentang kalibrasi dan bias penilaian pada tulisan siswa autentik
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Penilaian Berbantuan AI atas Laporan Laboratorium Fisika Eksperimental: Potensi, Keterbatasan, dan Dukungan bagi Praktik Pengajaran
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Empat sasaran inferensi dan tiga kesalahan atribusi ketika produk dibaca sebagai bukti kapasitas pembelajar (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh Siswa dan Batas Kesulitan Soal yang Dihasilkan AI di Mata Kuliah Ilmu Data
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Skema Berbasis Asersi untuk Pengodean Dialog Pendidikan yang Dapat Diaudit
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Penilaian siswa atas keselarasan kurikuler mengikuti kesulitan butir (rho = 0.762) alih-alih isi (Vogt dkk. 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — Penilaian ulang lima hari atas kiriman identik menghasilkan alpha Krippendorff 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Indeks Kerentanan AI: sebagian besar nilai yang dinilai bersandar pada kepengarangan yang tidak dapat diverifikasi, sehingga validitas bersandar pada bukti yang memadai pada tahap kunci alih-alih keamanan maksimal
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Metrik adaptivitas pedagogis naik sementara penilaian ahli tersamar turun: validitas pengukuran tidak menyiratkan validitas optimasi (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — Apakah Sasaran Bergeser Lagi? GenAI dan Validitas Skor Kemahiran Bahasa Inggris
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Konstruk hasil menggeser estimasi: g = 1.958 untuk produk bersama manusia–AI
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai berprompt menghadapi uji yang jawabannya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Konteks pembelajar mengubah nilai penilai LLM pada karya identik, dan kesepakatan dengan guru tidak mencatatnya (Porcaro 2026, Makalah VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Format tugas dan instruksi penggunaan AI sebagai apa yang dapat dibuktikan artefak (Liu & Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Melampaui Penskoran Respons: Kerangka Supervisi Kognitif Sadar AI untuk Penilaian Jawaban Singkat Matematika Otomatis

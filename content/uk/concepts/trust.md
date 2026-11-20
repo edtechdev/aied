@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -123,52 +125,3 @@ ai_assist:
 
 - Звітуйте довіру, сприйняття ризику й доречну залежність як окремі конструкти, бо вони коваріюють у неочевидних напрямах — зокрема негативно.
 - Звітуйте поведінковий результат (частку прийняття хибних підказок) поряд із самозвітною довірою; самі шкали довіри інвертують висновок.
-
-## Пов’язані поняття
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — соціальний ризик, на якому працюють норми та розкриття
-
-## Пов’язані статті
-
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Нерівномірне використання, подібна довіра: генеративний ШІ в Данії та Румунії (Lucau, Voicu & Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Сприйманий ризик корелює позитивно з наміром тривалого використання: поінформоване упровадження (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Прогалина довіри між викладачем і студентом щодо контролю й агентності в ШІ класів K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — Розкриття використання ШІ керується реляційними факторами та комфортом із викладачами, а не політикою
-- [[genai-teacher-feedback-comparison]] — GenAI і зворотний зв’язок викладача задовольняють різні, взаємодоповнювальні потреби в довірі
-- [[care-full-feedback-genai]] — Гідний довіри зворотний зв’язок як «дбайлива», реляційна практика
-- [[ai-fallibility-warning-help-seeking]] — Попередження про спроможність ШІ помилятися збільшує пошук допомоги в ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Ко-проєктування метрик і візуалізацій гідності довіри для LLM в освіті
-- [[ai-overreliance-complex-adaptive-system-2026]] — Надмірна залежність від ШІ, змодельована як складноподійна адаптивна система
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Прогалина між довірою та корисністю в інструментах ШІ для фізики
-- [[t2i-competence-paradox-2026]] — Парадокс компетентності в генерації зображень ШІ
-- [[task-context-trust-educational-hri-2026]] — Контекст завдання формує довіру в освітніх роботах більше, ніж зовнішній вигляд
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Ідентичність аватара та епістемічна довіра в навчанні, опосередкованому ШІ
-- [[contextual-sycophancy-ai-literacy]] — Контекстне підлабузництво та його межі для калібрування довіри
-- [[sycophantic-ai-social-interaction-2026]] — Підлабузничий ШІ робить людську взаємодію менш задовільною впродовж часу
-- [[ai-pedagogical-accompaniment-amico]] — Підзвітна педагогічна медіація та довіра в системах, уможливлених ШІ
-- [[best-response-student-ai-dialog-2026]] — Довіра в діалозі студента зі ШІ
-- [[ai-adaptation-gap-higher-education-2026]] — Сприймана корисність як найсильніший предиктор довіри до ШІ у вищій освіті
-- [[bassett-ai-detectors-education-2026]] — Довіра та недовіра до систем виявлення ШІ
-- [[genai-use-usefulness-student-experience-australia-2026]] — Досвід корисності GenAI серед студентів в австралійській вищій освіті (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Роблення висновків МН доступними для викладачів у змішаних аудиторіях
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Три профілі студентів, у яких довіра до ШІ відстежує стійкість і стрес, а не демографію (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[ai-empowerment-threat-genai-dependence-2026]] — Оцінювання посилення та загрози рухали довіру в протилежних напрямах, провадячи залежність від GenAI
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Використання GenAI однокурсниками знижує міжособистісну довіру через сприйману теплоту й компетентність, пом'якшуване ШІ-грамотністю
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Сигнали достовірності підвищували перемикання на неправильну позицію ШІ; приховування рекомендації це придушувало
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Структурна модель дає цій з’єднувальній ролі емпіричну перевірку
-- [[zhu-creative-agency-trust-genai-art-2026]] — Інструментальна довіра як найсильніший предиктор наміру використовувати GenAI у студентів мистецтва

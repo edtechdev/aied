@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -37,7 +38,3 @@ K–12-höz: óravázlat-, munkalap-, [[special-education|IEP-cél]]-, matematik
 
 ## Megjegyzések
 A projekt helyileg telepített MI-szervert állít a sebességért, azt, hogy az adatokat helyben dolgozza fel és soha nem tárolja, valamint az Oktatási Minisztérium irányelveinek való megfelelést; a [csapatoldal](https://teacherserver.com/index-team.php) Zafer Unalt, a University of South Florida professzorát nevezi meg alapítóként és fejlesztőként, négy más egyetemi oktatóból álló tanácsadó testület mellett. Ezeket az állításokat diák munkájával való használat előtt érdemes ellenőrizni. A hozzáférés regisztrációt igényel, és van egy később fizetőssé váló társplatform a saját eszközök építéséhez.
-
-## Kapcsolódó fogalmak
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

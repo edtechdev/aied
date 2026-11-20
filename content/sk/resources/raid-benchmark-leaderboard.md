@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -41,9 +42,3 @@ Výskumníci hodnotiaci metódy detekcie, administrátori píšuci politiku, kto
 ## Poznámky a výhrady
 
 Benchmark meria detekciu strojovo generovaného textu, nie pochybenie: študent, ktorý používa AI na plánovanie, osnovanie alebo revíziu, vytvára text, ktorý detektory neboli stavané chytať, a študent [[language-learning|píšuci v druhom jazyku]] je známym rizikom falošne pozitívnych výsledkov, ktoré rebríček nedokáže zobraziť. RAID je výskumný artefakt udržiavaný akademickým tímom; pokrytie sleduje generátorové modely v jeho testovacej sade, takže novšie modely môžu byť nedostatočne zastúpené, kým sa benchmark neobnoví. Rebríček hodnotí detektory, nie praktiky nakladania s dátami ich dodávateľov, a vysoké AUROC nehovorí nič o tom, či je odovzdávanie študentských prác tej službe zákonné alebo etické vo vašej jurisdikcii.
-
-## Prepojené pojmy
-
-- [[ai-detection]] — rodina metód, ktorú benchmark hodnotí
-- [[academic-integrity]] — politický kontext, v ktorom sa používajú skóre detektorov
-- [[benchmark]] — širšia trieda nástrojov, do ktorej patrí

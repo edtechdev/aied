@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -42,7 +43,3 @@ Undervisere og [[learning-design|undervisningsdesignere]] som vil ha et gjennoma
 ## Merknader og forbehold
 
 Byggene beskrives som åpent delt, men det oppgis ingen lisens på bygg- eller gallerisidene, så gjenbruk krever forfatterens tillatelse; ingen generell tillatelse kan forutsettes. Kilden er imidlertid offentlig – kontoens repoer inneholder HTML og JavaScript bak byggene, pluss en veiledning i å arbeide med kodeagenter i utdanning, så en leser kan granske en app i stedet for bare å kjøre den. Flere lenker peker på Netlify-adresser for distribusjonsforhåndsvisning i stedet for et prosjektnettsted; de er laget for gjennomgang og kan utløpe, mens GitHub Pages-byggene er de stabile. Noen bygg er avhengige av TypeSafe AIs Jev-modell og viser sannsynlighetene dens, så den underliggende atferden er en modells vurdering snarere enn en fast regel. Veien for ønskelige vanskeligheter er et argument – friksjon som en funksjon – og siden legger det fram uten å rapportere en evaluering av om studenter lærer mer.
-
-## Tilknyttede begreper
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

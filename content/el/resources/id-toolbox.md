@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -36,7 +37,3 @@ ai_assist:
 
 ## Γιατί υπάρχει
 Ο Curt Zilbersher, που σχεδιάζει εταιρική εκπαίδευση εδώ και είκοσι οκτώ χρόνια, περιγράφει τα ίδια μικρά άλυτα προβλήματα να επανέρχονται σε όλη την καριέρα του — μέτρημα λέξεων αφήγησης, εύρεση του στοιχείου που έσπρωξε ένα μάθημα πάνω από ένα όριο [[edtech-platform|LMS]], χειροκίνητο έλεγχο κάλυψης υποτίτλων — και χτίζει τις λύσεις και τις χαρίζει. Ο ιστότοπος τρέχει επίσης μια δωρεάν ετήσια έρευνα για το πώς περνούν πραγματικά την εβδομάδα τους οι σχεδιαστές διδασκαλίας.
-
-## Συνδεδεμένες έννοιες
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -95,34 +97,3 @@ ai_assist:
 **לחוקרים**
 
 - דווחו את התפלגות אופני המעורבות בכיתות, ולא רק שימוש ממוצע, מפני שהממוצע מסתיר אם קיימת פרקטיקה ביקורתית כלל.
-
-## מושגים מחוברים
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-
-## מאמרים מחוברים
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — חינוך זכויות אדם, פרקטיקה רפלקטיבית, והוראת ממשל בינה מלאכותית כהכשרה מקצועית (Kasa-Mälksoo 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — הלחנה רב-מודאלית כפדגוגיה של אוריינות AI ביקורתית
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — ניתוח דיסקורס ביקורתי של עצת יישור קונסטרוקטיבי טכנופתריסטית של GenAI
-- [[benali-genai-academic-writing-2026]] — עריכה כפויה-בהצדקה בקורס כתיבה אקדמית: בינה מלאכותית מוגבלת לשני סעיפים של הצעה, כל הצעה מתקבלת או נדחית בכתב (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — ביקורת ביקורתית, פמיניסטית של "הקולוניזציה של הבינה המלאכותית" של חינוך המדע
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "התנגדות לבינה מלאכותית" כפרקסיס מושרש-קהילה של אוריינות AI ביקורתית
-- [[ojeda-ramirez-community-based-ai-learning]] — חלוקה מחדש של סמכות האפיסטימית של בינה מלאכותית דרך למידה מבוססת-קהילה
-- [[raffaghelli-situated-ai-ethics-2026]] — מסגרת ממוקמת, תרבותית-היסטורית ואקולוגית לאתיקה של בינה מלאכותית
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — מודל התפתחותי-ביקורתי לקוגניציה אינטרפרטטיבית במדעי הרוח
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — אוריינות AI סוציאליסטית הומניסטית + שימוש הוגן
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — גישה ביקורת-ערכים לחינוך קיים ולבינה מלאכותית (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — חזון אמנציפטיבי לתכנון בינה מלאכותית יצירתית לפריחת הלומד
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — מסגרת מעורבות GenAI ממוקדת-אדם הבנויה על פריירה, קונסטרוקציוניזם ואתיקה של טיפול
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — פדגוגיה דיגיטלית ביקורתית ואפיסטימות דה-קולוניאליות הוחלות על פיתוח אקדמי בעולם הגלובלי הדרומי

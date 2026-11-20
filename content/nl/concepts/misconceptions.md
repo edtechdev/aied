@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -126,37 +128,3 @@ Deze weerleggingen zijn bewust in de vorm van een [[refutation-text|weerleggings
 - **"Misvattingen van docenten zijn te corrigeren door bewijs te presenteren."** In een pilot met **123 Italiaanse onderwijzers** clusterde de onenigheid het sterkst bij **cognitieve leerstijlen (78% van de docenten verdedigde visueel/auditief matchen)**, inclusie en groepswerk (68%) en EdTech-overload (54%). De sterkste meningsverschillen waren juist degenen die het meest weerbarstig tegen bewijs waren, en daarom verslaat [[refutation-text|weerlegging]] de bewering.
 - **"Bezwaren van docenten tegen bewijs zijn allemaal weerstand."** Toen dezelfde items werden aangeboden via een conversationele AI die **de context van de docent valideerde voordat het bewijs opnieuw werd geïntroduceerd**, betrof **41% van de bezwaren echte contextuele beperkingen** — klassengrootte, speciale behoeften, curriculumseisen. Een substantieel deel van de schijnbare misvatting was een accurate tegenwerping.
 - **"Misvattingen zijn betrouwbaar uit dialoog te detecteren."** **Van 241 gepromptde segmenten werden 221 (91,7%) door meerderheidsstemming van experts bevestigd als strategische misvattingen (Fleiss' κ = 0,9487)**, met **geen significante verschillen** tussen groepen. Hoge betrouwbaarheid is haalbaar onder expertadjudicatie, en dat is de voorwaarde waarvan de claim afhangt.
-
-## Verbonden concepten
-
-- [[pedagogical-patterns]] — De conceptuele-veranderingssequenties die een specifieke aangehouden overtuiging confronteren
-- [[learners]] — Lerenden: het overkoepelende begrip voor de concepten aan de lerendenkant
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Verbonden artikelen
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Geloof de hype niet: acht AI-mythes en de noodzaak van een kritische benadering in het hoger onderwijs
-- [[student-rationalization-ai-writing]] — Rationalisatie door studenten van AI-schrijven
-- [[genai-skill-bypass-literacy]] — Omzeiling van vaardigheden door GenAI en geletterdheid
-- [[trust-reliance-ai-education-2026]] — Vertrouwen en afhankelijkheid in AI-onderwijs
-- [[contextual-sycophancy-ai-literacy]] — Contextuele vleierij en AI-geletterdheid
-- [[sycophantic-ai-social-interaction-2026]] — Vleierige AI in sociale interactie
-- [[llm-fallacy-misattribution]] — LLM-drogreden en misattributie (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Gebrekkig maar memorabel: kritische ontvangst door studenten van interesse-gepersonaliseerde GenAI-analogieën in het informaticaonderwijs
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: vloeiende, gezaghebbende uitleg die conceptueel in plaats van feitelijk onjuist is (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Verborgen instructies in een ingediend bestand kunnen een AI-beoordeeld cijfer verhogen zonder zichtbare waarschuwing (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — AI-veiligheidsmisvattingen van kinderen: vriendschap met een robot gelezen als privacygarantie (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversationele AI-diagnostiek voor onderwijsmisvattingen met evidence-based dialoog (Miranda & Calvani 2026)

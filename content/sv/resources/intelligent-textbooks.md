@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -49,16 +50,3 @@ Lärare och instruktionsdesigners som vill bygga eller underhålla en kurslärob
 ## Anteckningar och förbehåll
 
 Detta är en praktikers guide och verktygskedja, inte en peer-reviewad studie – den presenterar ett arbetsflöde och sin egen pedagogiska motivering (”intelligenta läroböcker vägleder studenter genom begrepp på deras jakt på kunskap”) snarare än evidens för läranderesultat. MicroSim-forskningsartikeln är det närmaste empiriskt stöd som finns, och den är självpublicerad på arXiv. Båda projekten är öppen källkod (förrådet intelligent-textbooks anger MIT-licens och 38 stjärnor; MicroSims anger en Creative Commons-licens och 13 stjärnor) och aktivt underhållna. Begreppsgrafer och en ordliste-först-struktur är genuint användbara för upptäckbarhet, men guiden förutsätter ett ganska tekniskt författararbetsflöde – MkDocs, Git och verktyg för generativ AI – vilket kan vara ett hinder för en del lärare. Vid intagningen ligger registret för MicroSims fortfarande bara på färdplanen, så att hitta en specifik befintlig simulering bygger på sajtens egen sökning och navigering.
-
-## Anslutna begrepp
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

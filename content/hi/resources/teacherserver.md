@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -38,8 +39,3 @@ ai_assist:
 
 ## नोट्स
 परियोजना का दावा है कि गति के लिए एक स्थानीय रूप से स्थापित AI सर्वर है और डेटा को स्थानीय रूप से संसाधित किया जाता है और कभी संग्रहीत नहीं किया जाता, इसके साथ-साथ शिक्षा विभाग की दिशानिर्देशों का अनुपालन; [टीम पेज](https://teacherserver.com/index-team.php) ज़ाफ़र उनाल (Zafer Unal), यूनिवर्सिटी ऑफ़ साउथ फ़्लोरिडा के एक प्रोफ़ेसर, को संस्थापक और डेवलपर के रूप में नामित करता है, अन्य विश्वविद्यालयों के चार संकाय सदस्यों के सलाहकार बोर्ड के साथ। छात्र कार्य के साथ उपयोग से पहले इन दावों को सत्यापित करना अभी भी उचित है। पहुँच के लिए पंजीकरण आवश्यक है, और अपने स्वयं के उपकरण बनाने के लिए एक साथी भुगतान-बाद में प्लैटफ़ॉर्म है।
-
-## संबंधित अवधारणाएँ
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

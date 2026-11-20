@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -114,42 +116,3 @@ GenAI와 모둠 평가에 관한 가장 직접적인 발견은 [[chen-zou-genai-
 **"AI는 모둠을 조율할 때 가장 도움이 됩니다."** 조율 지원과 인식론적 지원은 반대 방향으로 당깁니다. 협력의 조율 비용을 줄이면 모둠이 의미를 협상해야 하는 압력이 낮아지는데, 바로 그 과정이 평가 대상입니다. 효율과 조절의 맞교환은 구현 세부가 아니라 핵심 설계 긴장입니다.
 
 **"모둠 활동이 어려운 것은 사람 때문입니다."** 그 일부는 과제 설계이며, 그래서 AI가 어려움을 단순히 덜어 주기보다 난이도의 윤곽을 바꿉니다. 질문에 빠르게 답하는 도구는 모둠이 시간을 쓰는 대상을 바꾸고, 그것이 개선인지는 과제가 어떤 기술을 기르도록 설계되었는지에 달려 있습니다.
-
-## 연결된 개념들
-
-- [[pedagogical-patterns]] — 하나의 AI를 공유하는 모둠을 위한 역할 스크립트
-- [[ai-education]] — AI in education(포괄 개념)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## 연결된 글들
-
-- [[nixon-social-cost-ai-teammate-2026]] — AI 팀원이 가장 많은 발언 시간을 차지하고, 인간 간 응답성과 소속감은 떨어진다(Nixon et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 매개 모둠 평가에서 학생 행위자성의 세 가지 유형
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — AI가 모둠에 합류할 때 떠오르는 학습자 행위자성: 지지적 대 반론적 페르소나
-- [[genai-counter-learner-groupthink-2025]] — PBL 팀의 집단사고에 대항하기 위해 논란을 주입하는 AI 에이전트
-- [[xu-genai-collaborative-space-2026]] — 팀에 걸친 공유 대 비공개 GenAI 접근
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 협력 양식과 과제 수행 대 자기조절 간 트레이드오프
-- [[golrang-propact-pair-programming-2026]] — ProPACT: 짝 프로그래밍에서 짝을 분석 단위로 다루기
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — 학제간 학생 팀에서 가정 표면화의 AI 중재
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — 비판의 동료로서의 LLM: 적극적 반박이 인지적 갈등을 보존함
-- [[polished-artifacts-fragile-engagement-2026]] — 다듬어진 산출물, 불안정한 인식론적 참여
-- [[breideband-community-builder-cobi-2026]] — 모둠 협동을 위한 학급 단위 담론 분석
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — 협동의 교수법적 중재자로서의 AI
-- [[neurodivergent-computing-students]] — 신경다양성 학생들의 협력 학습에 대한 요건
-- [[academic-league-of-ai-2026]] — AI 교육을 위한 민주적 학생 자치와 프로젝트 팀
-- [[teacher-student-agency-orchestration]] — 실시간에서의 교수자와 학생 행위자성의 공동 오케스트레이션
-- [[dollinger-equitable-assessment-ai-2026]] — AI 시대의 형평성 있는 평가
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 윤리 훈련 에이전트: 윤리적 성찰과 탐구를 위한 역할극과 토론으로 집단 기반 윤리 교육 촉진하기

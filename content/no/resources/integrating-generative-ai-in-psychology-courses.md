@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -93,9 +94,3 @@ Psykologiundervisere i alle karrierestadier, og undervisere i tilstøtende [[soc
 ## Merknader og forbehold
 
 Gratis PDF, ingen konto. Opphavsretten tilhører STP, ikke en Creative Commons-lisens: personlige kopier og kopier til klasserom er tillatt med kreditering, mens redistribusjon eller kommersiell bruk krever forfatterens tillatelse. Kapitlene er practitioner-beretninger, ikke studier — ingen design, utvalg eller effektstørrelser — så behandle påstander som erfaringsrapporter og siter kapitlene individuelt.
-
-## Tilknyttede begreper
-
-- [[social-sciences-education]] — cluster-siden der psykologidelen fylles med praksis på emnenivå av dette bindet
-- [[ai-literacy]] — den utviklingsmessige innrammingen redaktørene gir samlingen
-- [[academic-integrity]] — policykapittelets tema, og grunnen til at flere emnekapitler bygger inn verifiseringstrinn

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -46,7 +48,6 @@ Memperlakukan keduanya sebagai satu halaman akan mengaburkan perbedaan yang teru
 Batasnya tidak bersih di tepi-tepinya. Pemrograman statistika berada di dalam [[cs-education]] di sebagian besar institusi, dan beberapa artikel di sini diarsipkan di sana; pekerjaan aksesibilitas pada grafik statistika bertumpang tindih dengan [[special-education]] dan desain [[accessibility|yang aksesibel]]; ilmu data yang bertanggung jawab bertumpang tindih dengan [[cs-education]] dan [[ethics]]. Halaman ini adalah rumah bagi klaster tersebut, bukan klaim bahwa klaster itu tertutup rapat.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund dan kolega (2026)]] menandai tumpang tindih itu dari sisi kurikulum: empat pilar akuntabilitas (answerability, responsibility, enforcement, reflexivity) disilangkan dengan empat dimensi [[explainable-ai|XAI]], diajarkan melalui kartu model yang dinilai, audit penjelasan LIME dan SHAP, serta penilaian dampak, dengan para penulis mengakui bahwa penjelasan bukanlah akuntabilitas.
-
 
 ## Artefak yang Dihasilkan dan Pertanyaan Validitas
 
@@ -83,24 +84,3 @@ Kualitas perancah penting secara independen dari akses. Perbandingan eksperiment
 - **"Kepuasan dan manfaat yang dipersepsikan menunjukkan bahwa alat AI ilmu data berfungsi."** Siswa menggunakan LLM secara intensif untuk debugging dan pertanyaan konsep serta **melaporkan kepuasan tinggi, sementara manfaat pembelajaran mendalam yang mereka persepsikan menurun sepanjang semester**. Kepuasan bertahan dan lintasan belajar yang dinilai sendiri menurun, sehingga tidak satu pun dari kedua angka itu sendirian merupakan hasilnya.
 - **"Model tanpa batas sama baiknya dengan tutor terpandu."** Keuntungannya berasal dari pelatihan perancah — instruksi eksplisit dalam petunjuk bertahap dan verifikasi — yang mengalahkan akses biasa ke model yang sama pada kinerja mandiri dan pada kalibrasi penilaian diri. Panduannya, dan pelatihan tentang cara menggunakannya, yang membawa efek tersebut.
 - **"Menjaga agar tidak memberi jawaban sudah cukup."** Tutor yang dibangun khusus dan dibungkus di sekitar API terkelola, dengan system prompt untuk **membimbing alih-alih menjawab**, diterapkan dalam mata kuliah R selama satu semester untuk mahasiswa S1 psikologi, di mana **76% hingga 84%** siswa menggunakannya pada minggu-minggu yang relevan untuk ujian. Itu adalah adopsi, bukan bukti bahwa penjagaan tersebut menghasilkan pembelajaran: penjagaan pada tingkat prompt adalah satu tuas di antara beberapa dan dengan sendirinya tidak menghasilkan pembelajaran.
-
-## Konsep terkait
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Artikel terkait
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Alat agensik yang menghasilkan kumpulan data sintetis yang dapat diperiksa untuk latihan statistika yang terpersonalisasi
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tutor R yang dibangun khusus; adopsinya mengikuti kalender ujian
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Label kesulitan dari LLM mengikuti tingkat Bloom, bukan kinerja siswa
-- [[tactile-statistical-graphs-accessibility]] — Pipeline sumber terbuka yang menghasilkan grafik statistika taktil dengan tinjauan guru
-- [[guided-llm-scaffolding-independent-learning]] — Perancah LLM terpandu mengalahkan akses tanpa batas pada kinerja mandiri
-- [[lund-socially-accountable-data-science-xai-2026]] — Menanamkan akuntabilitas sosial dalam kurikulum ilmu data yang teknis

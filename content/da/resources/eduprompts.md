@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -49,7 +50,3 @@ K-12-lærere, undervisningscoaches og pensumdesignere, der vil have en fungerend
 Navneskiftet er en levende overgang, ikke en afsluttet. Google meddelte i september 2026, at Skills erstatter Gems, og støtten til Gems slutter i etaper: personlige konti i november 2026, Workspace-kunder i business, enterprise og nonprofit i marts 2027 og Workspace education-kunder i juni 2027. Google siger, at eksisterende Gems migreres automatisk til Skills, og Skills køres i øjeblikket ved at skrive `/` og navnet i Geminis promptfelt. Links på dette site peger stadig på `/gem/`-stier, så et bogmærke kan omdirigere eller gå i stykker, mens konverteringen skrider frem — kontrollér, at en prompt virker, før du sætter den i et kursus.
 
 To adgangsfakta hører med i enhver beslutning om ibrugtagning. Skills er tilgængelige på alle Google AI-abonnementsniveauer, men udrulningen er 18+ for nu, med adgang under 18 beskrevet som "kommer snart"; og kopiering af en prompt kræver en Google-konto og Gemini, så dette er ikke et anonymt værktøj til elever. Biblioteket er et kurateret sæt prompts, ikke valideret undervisning: hver post er et udgangspunkt, hvis output stadig skal kontrolleres, og samlingens kvalitetspåstande er kuratorens egne. Der angives ingen åben licens, så prompts kan kopieres og tilpasses i Gemini, men biblioteket er ikke noget, en institution kan forke og hoste.
-
-## Relaterede begreper
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

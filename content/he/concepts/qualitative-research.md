@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -88,7 +90,6 @@ ai_assist:
 [[network-analysis|אפיסטימית]] שמדגים אילו ממדים מתלוות ולא רשימה שטוחה של תמות.
 
 [[ober-prompt-engineering-interview-transcripts-2026|Ober et al. (2026)]] מדגימים גרסה היברידית שבה מידול נושאים מפגים ניתוח תמאטי ותוויות שנוצרות ב-LLM מזינות עידון ספר-קוד. על פני שש קבוצות מיקוד עם 13 מורים, הזרימה האנושית-מונעת עברה מספר-קוד גרסה 1 של שישה תמות ראשוניות מתיאוריה מונחת לספר גרסה 2 מעודן שהוסיף קטגוריית 'הוראה' חדשה, הפריד בין תעדוף מיומנות-שלמה לתעדוף תת-מיומנות, והפך ממדים חברתיים והקשרים למפורשים. שתי הטמעות GPT-4, ChatGPT-4o ו-Copilot, תייגו את הנושאים הנגזרים-מהנתונים בהבדלים קלים בלבד — תוויות זהות ב-33.3% (7 מתוך 21) מאשכולות ה-H של תקשורת וב-43.8% (7 מתוך 16) של אוריינות דיגיטלית — וביקורת אנושית לא מצאה הזיות.
-
 
 ### תיאוריה מונחת
 תיאוריה מונחת בונה תיאוריה *מן הנתונים* ולא בודקת מסגרת אפריורי, באמצעות קידוד
@@ -219,7 +220,6 @@ ai_assist:
 
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] מדווחים על תוצאות הקידוד החיוביות המכומתות הראשונות של מודל-שפה יחיד: על פני ארבעה מודלים, חמש הנחיות zero-shot ו-8,040 שורות, בני אדם ומודלים התכתבו ב-r = .75 בשיפוטי רשימות. ההסכמה ירדה ל-r = .56 עם עליית שגיאת לכל-מושג משוערת מ-.11 ל-.27 כשמודלים שפטו אם הגדרה נכונה, בעוד שההטיה נעה מ-0.027 לרשימה עד 0.254 להגדרה נכונה. זהות המודל, ולא הרחבת ההנחיה, הניעה את ההתכתבות עם קודדים אנושיים — במשימה בינארית מוגדרת-היטב זו, הנחיית zero-shot הגיעה להסכמה גבוהה כשהמודל נבחר היטב.
 
-
 **בעיית הפלט הזורם והיישות.**
 [[chain-behind-claim-warrantability-2026|הולסטר (2026)]] מחדד מדוע דיוק וגילוי הם
 סטנדרטים לא-מספיקים לעבודה איכותניית בסיוע בינה מלאכותית. מכיוון שמודלי שפה
@@ -244,11 +244,9 @@ ai_assist:
   מלאכותית דורש פסיקה ברמת-רשימת-בדיקה כנגד ייחוס אנושי ולא הסכמת סוכן-לסוכן
   כאות האיכות שלו. ([[llm-qualitative-coding-consensus-2026]])
 
-
 מסווג BERT מכוונן-בעדינות הפך לקודד האוטומטי הראשון שהגיע למהימנות בין-קודדים אנושית: [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye et al. (2026)]] מדווחים על כאפא כהן של 0.85 מול קודדים אנושיים במערך הנתונים המקודד-כפול מחוץ-למדגם (N = 134), לעומת 0.83 בין שני הקודדים האנושיים. BERT גם הגיע לדיוק 0.93, precision 0.92, recall 0.98 ו-F1 0.95, והכליל לחיבורים מצוות מחקר אחר בכאפא 0.86 (n = 150). המחברים מצרפים לתוצאה זרימת אימון–אימות–החלה–אימון-מחדש ששומרת מדגם אנושי מקודד-כפול כבדיקת המהימנות הקבועה.
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] מראים ש-GPT-4o יכול לייצר ספרי-קוד מעוגנים-תאורטית מבסיס הידע שלו בלבד, המכסים את כל שלושת השלבים המחזוריים של Zimmerman ושלושה מתוך ארבעה שלבים של Winne ו-Hadwin. עידון אנושי עדיין הכריע את השימושיות: שני קודדים אנושיים מיזגו הצעות חופפות כמו תכנון מול הצבת מטרות ומעקב מול הערכה, וספר-הקוד הסופי של למידה מוסדרת-עצמית התייצב על 11 מבנים ללא דוגמאות מומצאות. זרימת העבודה היא שיתוף פעולה ולא האצלה, כשהמודל מציע ובני האדם ממזגים ומשנים שמות.
-
 
 ## חוזקות ומגבלות
 
@@ -273,41 +271,3 @@ ai_assist:
 **"רוויה היא תכונה של מספר המשתתפים."** היא תכונה של הניתוח: מפסיקים כשנתונים חדשים מפסיקים להפיק קודים חדשים. שני מחקרים עם גדלי מדגם זהים יכולים להיות רחוקים באותה מידה מהרוויה, ולכן דוח שמצטט מספר משתתפים כראיה להספקה לא הוכיח דבר על כיסוי.
 
 **"ממצאים כמותניים ואיכותניים מתחרים."** הם עונים על שאלות שונות: סקר אומר לכם כמה סטודנטים אינם בוטחים בחונך, וראיונות אומרים לכם למה. התייחסות אליהם כאל תיאורים יריבים של אותו דבר מייצרת את הבחירה הכוזבת שפרקי סקירה ממשיכים לשחזר.
-
-## מושגים מחוברים
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## מאמרים מחוברים
-
-- [[chain-behind-claim-warrantability-2026]] — תקן יישות לניתוח איכותני בסיוע בינה מלאכותית
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
-- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
-- [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
-- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
-- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
-- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — מעורבות רגשית של לומדים EFL בכתיבה בסיוע GenAI: מחקר מקרה מרובה אורך

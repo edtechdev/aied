@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -72,26 +74,3 @@ ai_assist:
 - **«Смешанные методы — нишевый выбор в исследованиях ИИ в образовании».** По **394 исследованиям GenAI в высшем образовании** смешанные методы были **наиболее распространённым исследовательским планом (213 исследований, 54%)**, далее шли количественные (109, 28%) и качественные (72, 18%). Доминирующий план области — не тот, который предполагают её методологические споры.
 - **«Наблюдения и интервью могут нести утверждение о системе».** Сопоставление наблюдения за системой и обсуждений с [[administrator|администраторами]] с **четырёхлетним рандомизированным исследованием 8 708 студентов за восемь семестров**, обеспеченным мощностью для обнаружения эффектов в **0,05 стандартного отклонения**, показывает, чего качественная линия не может сделать в одиночку: надёжно обнаружить малый эффект. Смешение методов — не способ передать мощность между линиями.
 - **«Триангуляция означает, что два слабых метода дают сильное утверждение».** Ценность сочетания в том, что каждая линия отвечает на другой вопрос. План, который проводит обе и затем сообщает качественную находку как подтверждение количественной, не триангулировал, а пересказал.
-
-## Связанные концепции
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Связанные статьи
-
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
-- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER и дообученный RoBERTa присвоили противоположную валентность одному и тому же посту Bluesky (Geraili Meykola et al., 2026)

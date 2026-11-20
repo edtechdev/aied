@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -89,45 +91,3 @@ ai_assist:
 - **"인용과 출처를 더하면 시스템이 더 신뢰할 만해집니다."** [[agentic-ai|다중 에이전트]] 토론 상황에서 AI의 입장에 인용과 권위 신호를 더하자 **올바른 판단을 포기하는 비율이 15.0%에서 31.8%로 높아졌습니다**. 출처는 중립적인 정보가 아니었습니다. 그것은 틀린 답을 더 설득력 있게 만들었습니다. 신뢰도 단서는 주장을 둘러싼 장식이 아니라 정확성의 증거여야 합니다.
 - **"사용자와의 공동 설계가 설계를 검증합니다."** 공동 설계는 효능과 다른 질문에 답합니다. 도구를 학생들과 공동 설계하여 **96%가 계속 쓰기를 원한다**고 말한 것은 수용성에 관한 발견입니다. 학습이 향상되었는지는 별개의 측정이며, 둘 다 틀리지 않은 채 서로 반대 방향을 가리킬 수 있습니다.
 - **"에이전트는 다음 단계의 역량입니다."** [[instructional-agents-multi-agent-course-gen|Instructional Agents]]의 제거 실험이 유용한 반례입니다. 단일 에이전트 기준선이 **가장 낮은** 점수를 받았고, Full Co-Pilot 구성이 **Autonomous를 앞섰습니다**. 더 많은 자율성이 더 나은 설계가 아니었습니다. Co-Pilot 배치가 더 나았습니다. 아키텍처 선택은 역량이 높아지면 좋아진다고 가정할 것이 아니라 평가해야 합니다.
-
-## 연결된 개념
-
-- [[edtech-platform]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[universal-design-for-learning]]
-- [[assessment-validity]]
-- [[ai-ed-evaluation]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[sustainability]]
-- [[privacy]]
-
-## 연결된 문서
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[learnlm-improving-gemini-learning]]
-- [[savvy-student-attention-video-learning]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[oneill-presumed-effective-meta-analysis-2026]]
-- [[a4l-analytics-pipeline]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[vocabulary-difficulty-prediction]]
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 다중 에이전트 토론에서 인용과 권위 신호가 올바른 판단의 포기를 15.0%에서 31.8%로 높임 (Tuo 외 2026)

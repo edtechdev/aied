@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -82,50 +84,3 @@ ai_assist:
 - **「AI で支援された探究は自動的に高次である」** **120 人の 8 年生**を対象とした準実験では、AI で支援された[[inquiry-based-learning|探究学習]]が創造的な数学の成績と、より狭い一つの指標を高めました。つまり、処置は一部の成果を動かし、他の成果は動かさなかったのです。高次のラベルとの相関は、高次の課題であることと同じではありません。
 - **「学生が教える側を設計することは技術的な演習である」** 逆転の研究では、700 人の学生が履修するコースの**345 人**の学生が、三つのデザインパターンをピアに教える会話型エージェントをそれぞれ設計しました。アクティブラーニングはその設計作業から生じており、それはプロンプトエンジニアリングではなく[[pedagogy|教育学的]]な推論です。
 - **「関与についての知見は学習についての知見である」** 同じエビデンス基盤は、**統制群のない志願者の標本**という設計が関与に関する主張のみを支えると注意しています。学生は自由な設計の余地を評価し（上位の肯定的テーマ**22.3%**）、不明確な指示に最も不満を述べました（**23.7%**）。どちらも体験についてのものです。
-
-## 関連概念
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — 包括概念：教育におけるAIの教授法と教授方略
-
-## 関連記事
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 個別指導が授業内アクティブラーニングを上回る：本物の教育環境で新規の研究に基づく設計を導入した RCT（Kestin et al. 2025）
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — 経済学のためのアクティブラーニングの生成AI枠組み（Beck & Brodersen 2025）
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — AI の関与様態の脳波研究（インタラクティブ > auto）
-- [[supplynet-visual-exploratory-learning]] — SupplyNet：マルチエージェントシミュレーションによる視覚的探索的学習
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop：段階的な対話による講義後の復習
-- [[academic-league-of-ai-2026]] — Academic League of AI：プロジェクトベースのアクティブラーニング
-- [[mujib-ai-ibl-creative-math-2026]] — AI で支援された探究学習と創造的な数学の成績
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者の特性 × 音声合成対話形式のやり取り
-- [[instructional-guidance-genai-learning]] — 促された AI 復習と促されない AI 復習：開かれた回答の得点を動かしたのは、モデルへのアクセスではなく構造だった
-- [[assigned-ai-preclass-student-engagement-2026]] — 授業前の AI リハーサルは、2 回目の使用後に授業内の参加を 31% 高めたが、1 回目ではなかった

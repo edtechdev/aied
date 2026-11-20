@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -187,87 +189,3 @@ Az episztemikai tekintély az MI-támogatott tervezésben epizódról epizódra 
 **„A tanárok már most társtervezői az MI-nek, tehát az átmenet folyamatban van.”** A törekvés valós; a leírás még nem. [[wang-teacher-ai-co-design-review-2026|Wang, Liu és Islam (2026)]] tanár és MI közös tanulástervezéséről szóló szisztematikus áttekintése szerint a társtervezői álláspont **egyenetlen marad**, a domináns mód továbbra is az MI mint asszisztens vagy tartalomgenerátor. Ha ezt az áttekintést egy megvalósult váltás bizonyítékaként olvasnánk, elfednénk a rést azon tanárok között, akiket egy ilyen oldal ajánl, és azon tanárok között, akik a legtöbb intézményben valójában vannak.
 
 **„Nagyjából mindegy, hogyan delegál a tanár egy csevegőbotnak, hiszen a modell végzi a munkát.”** A delegálási minta maga a beavatkozás. A gyerekek STEAM-művészeti óráinak tervezésében [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo és Tahir (2025)]] kísérletileg azt találták, hogy a tartalmi hézagok kitöltése egy *önmaguk által felvázolt* órában megőrizte a tanár tervezési önállóságát, miközben mégis növelte a szakértők által értékelt tervminőséget (medián 20,5 szemben 17,6-tal, p = 0,002, nagy hatás), felülmúlva azt a lehetőséget, hogy a modell adja a vázlatot. Ugyanaz a modell, ugyanaz a feladat, más munkamegosztás, lényegesen más eredmény.
-
-## Kapcsolódó fogalmak
-
-- [[pedagogical-partnerships]] - Pedagógiai partnerségek
-- [[learner-identity]] - fejlődő tudományági, szakmai, kreatív és akadémiai tanulói identitások
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] - Esernyő: pedagógiák és tanítási stratégiák az MI-oktatásban
-- [[stakeholders]] - Esernyő: emberek és közönségek az MI-oktatásban (tanulók, tanárok, tervezők, adminisztrátorok, döntéshozók)
-- [[reflection]]
-
-## Kapcsolódó cikkek
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Négy identitásdinamika, produktív ambivalencia, és a kapcsolati munka intézményi költsége
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 angol középiskola: az óra-előkészítés heti 25,3 perccel csökkent, észlelt minőségromlás nélkül (Roy és mtsai., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — ASSISTments RCT: az MI-összefoglalók emelték a feladatbefejezést, de az osztályszintű pontszámokat nem (Lim és mtsai., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Az alkalmi akadémiai munkatársak viselik az integritási munkát, felhatalmazás nélkül
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Az inkább-emberi paradoxon: szakértői 2030-as forgatókönyvek szerint az MI telítettsége fokozza, nem kiszorítja az emberi pedagógiai munkát (Malyn-Smith és mtsai. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Hat megfigyelt középiskolai matematikaóra három új típussal egészíti ki az instrumentális összehangolást (Noh és Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Az MI által generált érzelmi riasztásokra válaszolva: a tanárok beavatkozása és a diákok elköteleződése a matematikaórán
-- [[edustories-classroom-case-studies-2026]] — Edustories: valós osztálytermi gyakorlatok esettanulmányainak gyűjteménye
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — A tanárok kötött szakértőként terveznek osztálytermi csevegőbotokat, és megtartják a tekintélyt
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — A GenAI mint „frenemy”: a tanárok a félautonómiát részesítik előnyben, a hasznosság vezérli a bevezetést, a kockázatkerülés a diákok használatára céloz (Dai és mtsai. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — MI-támogatott oktatói döntéshozatal a felsőoktatásban
-- [[chirikov-regulate-ai-syllabi-2026]] — Hogyan szabályozzák az oktatók az MI-t 31 000 kurzustantervben; feladatszintű szabályozás (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — A filozófiai vezetés mint háromfázisú tanítási szerep: etikai ítélet, pedagógiai útmutatás, szakpolitikai fordítás (Socorro Márquez és mtsai., 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — MI-tanítási innovációs viselkedés egyetemi tanárok körében (AI-TPACK SEM; Bai és Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — A GenAI mint identitásválság, nem készséghiány
-- [[lodge-loble-cognitive-offloading-2026]] — MI, kognitív leterhelés és az oktatásra vonatkozó következmények (Lodge és Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — MI és oktatástervezési gyakorlat: szisztematikus áttekintés (Kibar és Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Nyújthat-e az MI megfelelő támogatást sokféle diáktípusnak? Nagyszabású értékelés
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Szellemdidákok és ügynöki MI az értékelésben
-- [[wang-teacher-ai-co-design-review-2026]] — Tanár és MI közös tanulástervezése: trendek és nézőpontok (Wang és mtsai. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Egyetemi tanárok GAI-tapasztalatai és -észlelései: sebezhetőség, az értékelés újragondolása, veszélyben a diákok tanulása (Farazouli és mtsai. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Értékítéletek a GenAI-támogatott munka osztályozásában: becsületesség, bizalom, érvényesség és kétirányú átláthatóság (Luo és Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Az ML-eredmények elérhetővé tétele a tanároknak vegyes osztálytermekben
-- [[li-language-educators-genai-review-2026]] — Nyelvoktatók gyakorlata és fejlődése a GenAI-val
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Identitásfeszültségek és elvi szelektivitás az MI-integrált tanításban (Adiozaman és Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Tanári beavatkozás a K-12 MI-alapú oktatásban: szisztematikus áttekintés
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Oktatásfejlesztők mint digitális közvetítők: szerep-újrakonfigurálás, affektív munka és ítélőképesség dél-afrikai hátrányos helyzetű intézményekben
-- [[where-ai-enters-teacher-work-2026]] — Hol lép be a mesterséges intelligencia a tanári munkába
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: a tanár mint proxy a tanulók és az MI között, 19 osztályos kvázi-kísérlet, ahol a képzés és a közvetett erőfeszítéscsökkentés hajtja a nyereséget (Rodrigues és mtsai. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Oktatási irányítás tervezés útján: keretrendszer az MI-hez a számítástechnikai oktatásban
-- [[teachers-configure-educational-chatbots-2026]] — Úgy fog tanítani, ahogy tervezték? Hogyan konfigurálják a tanárok az oktatási MI-csevegőbotokat
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Tanári közvetítés a matematikában: öt kritikai közvetítési gyakorlat, eltolódó tekintély és az ingyenes kontra prémium algoritmikus szakadék
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Tanári felkészültség tervezés szerint: a felkészültség mint tervezési képesség, nem bevezetés vagy magabiztosság (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-támogatott tanári visszajelzés: a tanárok válogatják az MI-piszkozatokat, nem továbbítják őket
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — A kompetenciától az önállóságig: a tanárok nézetei az MI-oktatás céljairól
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Emberi kontra MI vitamoderátorok: egyenértékű értékelések, eltérő utak az újrafelhasználáshoz
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI a programozásoktatásban: szisztematikus áttekintés, amelyben az oktatói szerepeket vizsgálják a legkevésbé
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Az információszolgáltatóktól a tanulástervezőkig: heutaogóg tanítási gyakorlatok az MI-vel támogatott oktatásban
-- [[falhs-teacher-expertise-reflection-2025]] — Hogyan alakítja a szakértelem szintje a preferenciákat és a reflexiós igényeket: MI-reflexiós rendszerek felé a tanári felhatalmazásért (Falhs és mtsai. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Konverzációs MI-diagnosztika a tanítási tévhitekhez bizonyítékalapú párbeszéddel (Miranda és Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Az MI-használatnak nem volt közvetlen hatása a tanári teljesítményre; az állampolgári viselkedés mediálta (Sherly és mtsai. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 epizód mutatja, hogyan marad meg, oszlik meg vagy adódik át a tekintély az MI-támogatott óra tervezésében
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Diákészlelések a fórumokról: technológiaelfogadási modell vizsgálat az MI-alapú tanulási analitika tervezéséhez
-- [[gnadlinger-educator-perspectives-its-design-2026]] — A nevelői nézőpontok beépítése az intelligens tanulástámogató rendszerek metarendszer-tervezésébe
-- [[chen-future-faculty-development-ai-2027]] — A tanár mint mások szakértelmének karmestere, a szerepek tanítócsapaton belüli elosztásával
-- [[li-instructor-designed-ai-rct-2026]] — Az oktatók által tervezett MI javítja a tanulást egy 19 egyetemet átfogó randomizált vizsgálatban (Li és mtsai., 2026)

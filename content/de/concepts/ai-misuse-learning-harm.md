@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -120,37 +122,3 @@ Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) ha
 **„Wenn sich die Übungsleistung verbessert, funktioniert das Tool."** Im kausalen Feld-RCT mit rund 1.000 Mathematikschülerinnen und -schülern der Sekundarstufe steigerte ein nicht abgesicherter ChatGPT-artiger Tutor die Übungsleistung mit Unterstützung um **+48 %**, während er die Ergebnisse in der [[summative-assessment|Prüfung ohne Hilfsmittel]] ohne Unterstützung um **17 %** *senkte*. Die Richtungen sind entgegengesetzt — jede Evaluation, die die Übungszahl als Ergebnis liest, wird also genau den Schaden absegnen, den sie eigentlich aufdecken soll.
 
 **„Lernende, die KI nutzen, sorgen sich vor allem darum, erwischt zu werden."** Ihre geäußerten Sorgen betreffen die eigene Entwicklung. In einer Studie befürchteten **51 % der Teilnehmenden (n = 106)**, dass die Nutzung von GenAI die individuelle Entwicklung beeinträchtigen könnte; sie nannten Einbußen an [[critical-thinking|kritischem Denken]], Kreativität und Autonomie und nicht Regelverstöße. Das Framing der [[academic-integrity|Integrität]], das den institutionellen Diskurs dominiert, ist nicht dasjenige, zu dem die Lernenden selbst greifen.
-
-## Verbundene Konzepte
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Verbundene Artikel
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Befragungs- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt einer Betrugsrahmenung institutionelle GenAI-Entscheidungen leiten sollte
-- [[rho-disengaged-conversational-behaviors-2026]] — Desengagierte Gesprächsverhalten und Lernen in Dialogen zwischen Studierenden und KI (Rho et al. 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI ohne Leitplanken kann Lernen schaden
-- [[genai-performance-vs-learning]] — Leistungsgewinne von Lernen unterscheiden
-- [[ai-availability-student-motivation]] — KI-Verfügbarkeit und studentische Motivation
-- [[genai-skill-bypass-literacy]] — GenAI-Skill-Bypass und Literalität
-- [[cognitive-shift-ai-education]] — Kognitiver Wandel in der KI-Bildung
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Kognitive Entlastung in der Zusammenarbeit zwischen Studierenden und KI
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und die Regeneration von Expertise
-- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Entlastung und Implikationen für die Bildung (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Übermäßige KI-Abhängigkeit als komplexes adaptives System modelliert
-- [[academic-erasure-complexity-ai-writing-2026]] — Akademische Tilgung: das Verschwinden von Komplexität bei KI-gestütztem Schreiben
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — KI-Abhängigkeit mediiert den Weg von Selbstwirksamkeit und Lehrkräfteunterstützung zu Lern-Burnout vollständig (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Frühe Abhängigkeit sagt negative Auswirkungen voraus, während kognitive Abhängigkeit positive Auswirkungen voraussagt, und Evaluationskompetenz verstärkt den Schaden der ersten KI-Konsultation, statt ihn abzupuffern (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: ein praktischer Ansatz für den Unterricht mit Künstlicher Intelligenz

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -121,36 +123,3 @@ La littérature est inégale. Les études sur les métaphores des enseignants et
 Cela ne rend pas ces travaux inutiles. Cela rend les affirmations justement modestes. L'élicitation de métaphores peut révéler des présupposés que les enquêtes manquent. La critique d'analogies peut rendre visible la compréhension structurelle. Une métaphore bien choisie peut donner à une classe un objet commun de discussion. Mais le champ a encore besoin d'études qui comparent un enseignement fondé sur les métaphores à un enseignement ordinaire, qui mesurent le transfert plutôt que le rappel de la métaphore, et qui testent si l'approche se transpose entre les cultures et les disciplines.
 
 Le risque de surinterprétation est réel dans les deux sens. Un enseignant qui traite une métaphore comme une explication complète peut installer une idée fausse. Un chercheur qui traite la métaphore comme une simple décoration peut manquer un mécanisme par lequel les étudiants construisent, ou échouent à construire, un modèle mental. La position productive est de traiter la métaphore comme une représentation conçue, partielle et critiquable, et d'étudier ce que les apprenants en font.
-
-## Concepts liés
-
-- [[ai-literacy]] — le parapluie de la littératie critique en IA et de l'enseignement fondé sur les métaphores.
-- [[critical-thinking]] — la critique d'analogies comme forme de raisonnement structurel.
-- [[misconceptions]] — les analogies imparfaites comme source d'idées fausses durables.
-- [[student-ai-interaction]] — comment les étudiants interprètent et auditent les explications de l'IA.
-- [[pedagogical-agent]] — les tuteurs d'IA qui génèrent des explications ou des analogies.
-- [[learning-design]] — choisir et séquencer des matériaux fondés sur des analogies.
-- [[educational-development]] — l'élicitation de métaphores dans le développement professionnel des enseignants.
-- [[engineering-education]] — les métaphores des enseignants et des étudiants en ingénierie.
-- [[cs-education]] — l'usage et la critique d'analogies dans l'enseignement de l'informatique.
-- [[cognitive-offloading]] — les métaphores de l'outil et de l'assistant, et leurs risques.
-- [[trust-calibration]] — les rôles anthropomorphes et la confiance mal placée.
-- [[equity-in-ai-education]] — quels domaines sources passent pour familiers.
-- [[teacher-role]] — le jugement de l'enseignant sur les explications générées par l'IA.
-- [[explainable-ai]] — l'explication système par opposition à l'analogie pédagogique.
-- [[student-engagement]] — les effets d'engagement des analogies personnalisées.
-- [[higher-ed]] — le cadre de la plupart des études de ce groupe.
-
-## Articles liés
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Quatre métaphores et des critères pour enseigner la littératie critique en IA
-- [[student-reception-genai-analogies-computing-2026]] — Des étudiants auditent des analogies générées par l'IA et réparent les projections défaillantes
-- [[fear-awe-genai-metaphor-workshops-2025]] — Des ateliers d'analyse de métaphores avec des étudiants, des universitaires et du personnel
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Les métaphores du corps enseignant en ingénierie construisent et contraignent la compréhension de l'IA
-- [[genai-professionalization-metaphors-2026]] — Les conceptualisations métaphoriques de l'IA générative et de l'apprentissage professionnel chez les étudiants
-- [[thermomix-genai-education-analogy-2026]] — Une analogie d'appareil de cuisine pour la délégation et l'apprentissage avec l'IA
-- [[anvil-ai-educational-animations]] — Des analogies et des animations pédagogiques générées par l'IA pour l'informatique
-- [[ai-engineering-education-balancing-act]] — Les métaphores de l'« oracle » et du « tuteur » chez les étudiants dépassent les capacités des LLM
-- [[code-anchor-multi-view-visualization]] — Les étayages de visualisation métaphorique et leur problème de légitimité
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — La métaphore de la « machine distributrice de rétroaction » d'un étudiant comme preuve de littératie
-- [[daoism-ai-education-philosophy-2026]] — « Zhenren » comme contre-métaphore de l'IA en éducation

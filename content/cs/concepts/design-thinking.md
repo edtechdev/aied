@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -66,39 +68,3 @@ Design thinking ve vzdělávání v AI je hluboce provázán s [[human-ai-collab
 **„Design thinking je proces, který se dá automatizovat fázi po fázi."** Je to disciplína rámování a přerámovávání problémů, což fixace uzavírá. Automatizovat fáze, zatímco rámec zůstává neprozkoumaný, produkuje kompetentní výstup pro špatný problém.
 
 **„Agenti AI, kteří se studentem souhlasí, podporují [[student-support-and-success|podporu studentů]] v jeho designovém uvažování."** Produktivní použití zdokumentované zde jde opačným směrem: [[ai-agents-constructive-conflict-design-education-2026|konstruktivní konflikty s agenty AI]] testují adversariální promptování, které vynucuje přehodnocení. Přitakávající agent fixaci posiluje; agent orientovaný na nesouhlas je design, za nímž stojí vzdělávací tvrzení.
-
-## Související koncepty
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Související články
-- [[design-thinking-aigc-fashion-film-2026]] — Mindset design thinkingu napříč fázemi učení v designu módního filmu podporovaném AIGC (Liu et al. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: využití generativní AI na podporu studentů architektury při designových úlohách
-- [[genai-architectural-design-studios]] — Vývoj a aplikace generativní AI v ateliérech architektonického designu
-- [[social-robot-study-companions]] — Spoluvytváření sestavitelných a otevřených sociálních robotů jako studijních společníků s vysokoškolskými studenty
-- [[gaide-vibe-coding-k12-teachers]] — Vodící rámec pro učitele K-12 při vytváření výukových technologií poháněných AI prostřednictvím vibe codingu
-- [[dot-framework-survey-2026]] — Průzkum rámce DOT: přesvědčení a chování praktiků ve vzdělávání obohaceném AI
-- [[ai-agents-constructive-conflict-design-education-2026]] — Uskutečňování konstruktivních konfliktů s agenty AI pro podporu přehodnocování u začínajících interakčních designérů
-- [[genai-usage-design-students-survey]] — Studie používání GenAI studenty designu: analýza výsledků průzkumu a deníků praxí AI na Politecnico di Milano v letech 2025/2026

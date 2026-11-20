@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -104,54 +106,3 @@ Kritisch denken raakt aan [[scaffolding]] (AI-ondersteuning ontwerpen die de cog
 - **"Een betere prompt levert beter kritisch denken op."** **Gestructureerde dialoogsturing, niet een betere prompt**, onderscheidt een drogredentutor van een debatchatbot: elke beurt routeren via **Toulmin-gebaseerde intentiedetectie** deed het werk. Het mechanisme is de interactiestructuur, niet de formulering.
 - **"GenAI-gebruik verhoogt kritisch denken direct."** De relatie tussen GenAI-gebruik en **zelfgerapporteerd** kritisch denken liep **bijna volledig via GenAI-[[feedback-literacy|feedbackgeletterdheid]]** — bij **421 Chinese bachelorstudenten** medieerde feedbackgeletterdheid **71%** van het verband. De geletterdheid is het pad.
 - **"Het meta-analytische effect is uniform."** Over **29 experimenten** verhoogde GenAI hogere-orde denken gematigd (**g = 0.609**) met kritisch denken op **ES = 0.691**. Gematigde gepoolde effecten over heterogene interventies ondersteunen de categorie en niet een specifiek ontwerp.
-
-## Verbonden concepten
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Scheikundeonderwijs en AI: practica, formatieve beoordeling, beperkingen van LLM's, filosofie van het experiment
-- [[biology-education]] — Biologieonderwijs en AI: practicumassistenten, AI-geletterdheid in biologie, kritisch denken, gespecialiseerde tools
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Verbonden artikelen
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kritisch denken loopt via arbeidsverdeling en het herwerken van output, niet via blootstelling
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Een consensus van 30 experts: kritisch denken krijgt de hoogste disruptiescore van het rapport (gemiddelde 4.00)
-- [[pearls-epistemic-verification-2026]] — PEARLS-kader voor epistemische agency en het verifiëren van AI-output (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Laagspecifieke cognitieve offloading bij GenAI-ondersteund schrijven (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — De paradox van kritisch denken in GenAI-geïntegreerd leren
-- [[pedagogy-ai-mistakes]] — De pedagogie van AI-fouten: hogere-orde denken bevorderen (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-theorie en cognitieve overgave: hoe AI het menselijk redeneren hervormt (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — De tragedie van de cognitieve commons: AI en de regeneratie van expertise
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analyse van GenAI en hogere-orde denken
-- [[avraamidou-ai-colonization-science-education]] — De AI-kolonisatie van bètaonderwijs verstoren
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Kritische AI-geletterdheid heroriënteren
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-patronen in LLM-gedreven omgevingen (Blooms perspectief)
-- [[probing-ai-generated-physics-solutions-2026]] — Studenten voorbereiden op het bekritiseren van AI-gegenereerde natuurkundeoplossingen
-- [[student-reception-genai-analogies-computing-2026]] — Gebrekkig maar memorabel: de kritische ontvangst door studenten van op interesse gepersonaliseerde GenAI-analogieën in het informaticaonderwijs
-- [[daoism-ai-education-philosophy-2026]] — Alternatieve AI-filosofie: daoïsme als methode voor AI in het onderwijs
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Duurzaam leren bevorderen via belichaamde intelligentie (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Overmatige afhankelijkheid van AI gemodelleerd als een complex adaptief systeem
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimensiespecifieke winst in kritisch denken bij AI-ondersteund meertalig schrijven (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — drogredenen leren herkennen via gestructureerde meerbeurtsdialoog
-- [[caeai-ai-companions-learning-over-performance-2026]] — leren boven presteren: waarvoor companions moeten worden geoptimaliseerd en gemeten
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — AI-scaffolding, offloading en verificatiegeletterdheid via metacognitieve zelfregulering (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-afhankelijkheid begrenst de link tussen gebruik en kritisch denken bij bedrijfskundestudenten (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflectieprompt verlaagt acceptatie van onjuist AI-advies en attributiebias (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rolrotatie als structuur voor kritische mens-AI-interactie (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verificatiegerichte GenAI-integratie in universitair scheikundeonderwijs (Vega-Baudrit en Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — door docenten gecureerde ChatGPT-feedback verhoogde kritisch denken via hogere-orde revisie (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — een semester AI-toegang liet kritisch denken vlak; reflectief gebruik voorspelde het (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — GenAI-afhankelijkheid positief geassocieerd met kritisch denken bij 1,157 masterstudenten
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI-gebruik naar kritisch denken via feedbackgeletterdheid, met een direct pad alleen voor minder reflectieve studenten
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — De pessimistische lezing van het moderatiebewijs: verlies van wrijving, automatiseringsbias, efficiëntiekader
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narratieve review van 108 documenten: het teken van het effect volgt voorkennis en taaktiming (AMCIF-kader)

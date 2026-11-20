@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -184,9 +186,7 @@ Kwa mazoezi, utafiti wa AI katika elimu mara chache huanguka kwa uwazi katika mi
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] anaongeza uzi wa bibliometriki unaokaa kando na hizi nne: kuchora kumbukumbu 407 kwa mtandao wa maneno-mshirika na wa uandishi-mshirika ili kufuatilia maendeleo ya dhana ya uwanja. Mwandishi anaeleza wazi kuwa usomaji wa SWOT uliojengwa juu yake ni chombo cha tafsiri badala ya mbinu huru ya uchanganuzi, jambo linaloweka mpaka kati ya muunganisho na uchanganuzi katika mila hii.
 
-
 - **"Takwimu inaweza kuaminiwa mara tu inapohesabiwa."** Benchmark hukagua ukaguzi kwanza. Kila uchunguzi na kila hukumu isipokuwa seti sita zilizotajwa za takwimu ziliendeshwa kwenye wapimaji walioigwa wenye athari iliyopandwa na bila, na kipimo ambacho ukaguzi wake haukuona athari iliyopandwa kiliripotiwa kama kisichopimwa badala ya matokeo. Ripoti zake huzalishwa kutoka markdown na msimbo wake wenyewe, hivyo kila namba iliyochapishwa inaunganishwa na faili na uwanja ilikotoka na huhesabiwa upya wakati wa kujenga. [[porcaro-ai-grading-benchmark-2026|Hukumu ni uamuzi wa ubuni unaoweza kujaribiwa]] kabla matokeo yoyote halisi kusomwa.
-
 
 ## Dhana Potofu za Kawaida
 
@@ -197,55 +197,3 @@ Kwa mazoezi, utafiti wa AI katika elimu mara chache huanguka kwa uwazi katika mi
 **"Kanuni laini ya upimaji ni chaguo dogo la mbinu."** Hubadilisha ugunduzi. Kuhesabu ukamilishaji wowote kulitabiri utendaji wa baadaye bila msaada **karibu tu juu ya kigezo cha ugumu wa ujuzi (AUC ya pamoja 0.604 dhidi ya 0.595)** wakati kutangaza **asilimia 93.9 ya jozi za ujuzi wa mwanafunzi kama zilizobobea dhidi ya asilimia 72.8** chini ya kanuni kali. Kanuni ilizalisha tofauti ya pointi 21 katika nani alitangazwa kuwa tayari na karibu hakuna uboreshaji wa utabiri wa kuonyesha kwa hilo.
 
 **"Umuhimu wa kitakwimu huamua kama uingiliaji ulifanya kazi."** Huamua kama athari iligundulika. Kama ilikuwa athari ya *kujifunza* inategemea kipimo cha tokeo, ulinganisho na hali ilipopimwa, ndiyo sababu chaguo za muundo na ripoti katika sehemu za ukurasa huu zina uzito kama ule wa uchanganuzi.
-
-## Dhana Zilizounganishwa
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielumu Unaosaidiwa na AI
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Maendeleo ya Nadharia katika AI katika Elimu
-- [[qualitative-research]] — Utafiti wa Ubora
-- [[quantitative-research]] — Utafiti wa Kiasi
-- [[mixed-methods-research]] — Utafiti wa Mbinu Mchanganyiko
-- [[design-based-research]] — Utafiti Unaotegemea Ubini
-- [[usability-research]] — Utafiti wa Urahisi
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Makala Zilizounganishwa
-
-- [[ai-methodologies-science-education-research-2026]] — Mfumo wa awamu saba wa itereshaji ya kiakili kwa tafakari juu ya jinsi mbinu za AI zinaweza kubadilisha utafiti wa elimu ya sayansi (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Ufikiaji Haitoshi: Msaada wa Binadamu Unaboresha Ushirikiano na Ufundishaji wa AI
-- [[genai-can-harm-teaching-rct-2026]] — AI ya Kizalishaji Inaweza Kudhuru Ufundishaji
-- [[genai-over-reliance-learning-2026]] — Kutoka Kuboresha hadi Kutegemea Kupita Kiasi: Utafiti wa Mbinu Mchanganyiko
-- [[acceptance-ai-english-tools-2026]] — Kukubalika kwa Zana za Kujifunza Lugha ya Kiingereza Zinazosaidiwa na AI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Usalama wa Mwalimu wa AI na Madhara ya Kielimu
-- [[zerkouk-comprehensive-review-its-2025]] — Mapitio Kamili ya Mifumo ya Ufundishaji ya Akili
-- [[ai-assisted-collaborative-learning-model-dbr]] — Utafiti Unaotegemea Ubini kwa Mfumo wa Ujifunza wa Ushirikiano Unaosaidiwa na AI
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Kutathmini Uwezo wa Ufundishaji wa LLM
-- [[ground-truth-reliability-aied]] — Kuboresha Uaminifu ya Kweli ya Msingi: Mabadiliko Manne Kuelekea Uhalali na Uaminifu
-- [[llm-student-simulation-teacher-insights]] — Je, LLM Zinaweza Kusimulia Wanafunzi wa Kibinadamu kwa Ufanisi?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: vipengele 30 katika vikoa kumi kwa ripoti ya uwazi ya masudio ya AI katika elimu (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — Mfumo wa Usimamizi wa Kujifunza Uliounganishwa na AI: Utafiti wa Longitudinal
-- [[ai-in-the-wild-college]] — AI katika Mwitu: Uchanganuzi wa Kiwango Kikuu wa Mwingiliano Halisi
-- [[same-ai-different-pathways]] — AI Sawa, Njia Tofauti: Kufungua Mbinu
-- [[tep-aied-model-reporting-2026]] — Mfano wa TEP-AIED kwa kuripoti utafiti wa AI katika elimu kwa uzito (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Paradokso ya Uwezo: GenAI ya Maandishi-hadi-Picha katika Sanaa na Ubini
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT katika Elimu: Athari Inayotafuta Chanzo
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis ya athari ya AI kwenye kujifunza
-- [[oneill-presumed-effective-meta-analysis-2026]] — Kudhaniwa Kufaa: ukaguzi wa meta-analysis ya AIED yenye kasoro
-- [[synthetic-educational-data-structural-fidelity-2026]] — Kile Vipimo vya Uaminifu Vinakosa: Ukaguzi wa Kimuundo wa Data ya Kielimu ya Kisintetiki
-
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: uchunguzi wenye jibu sahihi linalojulikana, ukaguzi wa athari iliyopandwa kwa wapimaji walioigwa, na mifano 22 iliyoelekezwa (Porcaro 2026)
-

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -88,36 +90,3 @@ ai_assist:
 - **"工程学生的 AI 采纳是一个技术接受问题。"** [[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]把 TAM 与[[technology-acceptance-model|UTAUT]]整合起来，为孟加拉工程学生的采纳建模，**解释了 64% 的**方差，因此相当大的一部分落在接受构念之外，落在模型未覆盖的社会与认知因素之中。
 - **"学生把 AI 用在它最擅长的地方。"** [[ai-engineering-education-balancing-act|Kudina（2026）]]发现 **100 名工程学生**最看重 LLM 的**写作支持**，而不是工程推理。他们对这一工具的比喻超出了它实际交付的范围，而实际使用跟随的是便利，而不是能力。
 - **"更丰富的工具栈会改善设计结果。"** 在一个 **27 名学生**的建筑设计工作室中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队表现出**效能感下降，而作品并未改善**。工具的丰富可能以信心为代价，而工件原封不动。
-
-## 关联概念
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## 关联文章
-- [[apostolakis-trusstutor-bench-statics-2026]] — 静力学基准：求解与错误检测都已饱和，反驳抵抗力没有
-- [[mechanical-engineering-ai-curriculum-2026]] — 热工中的基于项目的 AI 教育课程
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师比喻建构（并限制）对 AI 的理解
-- [[tam-critical-use-genai-engineering-2026]] — 面向工程/计算机专业学生的、含批判性使用的扩展 TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 工程教育中的统一社会认知模型（孟加拉国）
-- [[ethical-use-ai-engineering-education-review-2026]] — 工程教育中 AI 的合乎伦理使用：一项系统综述
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口头解释中具身认知的多模态框架
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI 与工程及计算劳动力的未来
-- [[ai-engineering-education-balancing-act]] — 在工程教育中使用 AI：一种平衡之举
-- [[structured-ai-demonstrations-engineering-mechanics]] — 工程力学中的结构化 AI 演示
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT 在工程教育中的应用
-- [[liu-ai-sustainable-engineering-education-2026]] — 面向可持续工程教育的 AI-SEE 框架（Liu 等 2026）
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作建筑设计教育中的应用：一项探索性工作室研究

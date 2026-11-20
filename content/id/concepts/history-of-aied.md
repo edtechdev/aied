@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -46,7 +48,6 @@ Sejarah bidang ini bukanlah kemajuan linear melainkan rangkaian keputusan kontin
 **Dua bentuk personalisasi.** [[personalized-learning|Personalisasi]] memiliki dua tafsir berbeda yang memetakan ke visi-visi tersebut. Yang pertama mempertahankan hasil yang seragam sambil memvariasikan jalur (berakar pada mesin pengajaran Skinner; visi Khan Academy tentang tutoring hingga penguasaan). Yang kedua merangkul hasil yang beragam — pembelajar mengejar minat dan bakat individual, tanpa dibatasi batas [[curriculum-design|kurikulum]] standar (Zhao, 2024). Model ITS mendukung yang pertama; konstruksionisme yang kedua.
 
 **Pelajaran bagi era GenAI.** Perdebatan hari ini tentang AI generatif sangat mencerminkan ketegangan historis tersebut. GenAI sering diposisikan sebagai tutor cerdas generasi berikutnya (memperluas Anderson), memunculkan kekhawatiran tentang pengawasan, pengumpulan data, dan standardisasi. Atau ia dapat menjadi alat bagi agensi kreatif (memperluas Papert), yang menuntut kita memikirkan ulang penilaian dan menerima hasil yang lebih ambigu. Sebagaimana disimpulkan [[mishra-control-vs-agency-history-2025|Mishra dkk.]], kekuatan institusional berulang kali mengutamakan pendekatan yang memperkuat struktur yang ada — dan bahasa serta metafora yang kita pilih akan membentuk kemungkinan masa depan. [[rismanchian-ai-education-four-decades-aixed-2026|Kerangka AI×Ed Rismanchian & Doroudi]] memberi intuisi ini landasan empiris: dengan menempatkan makalah dari prosiding AIED (1985, 1993, 2021, 2024) dan IJAIED (2004, 2014, 2021) di sepanjang dua sumbu — peran AI (alat terapan vs. analogi bagi kecerdasan manusia) dan pengguna akhir — mereka melacak bidang yang bergerak dari campuran beragam, termasuk penelitian awal substansial yang menggunakan AI sebagai analogi bagi kecerdasan manusia (model komputasional pembelajaran, mikrodunia Papert, model berbasis agen untuk akuisisi pengetahuan), menuju fokus hampir eksklusif pada penggunaan terapan dan instrumental pada dekade 2000-an. Menariknya, era AI generatif tampak sebagian membalik lintasan itu: pada AIED 2024, tiga dari empat makalah di kuadran "AI-sebagai-analogi" bidang ini berbasis LLM, termasuk makalah terbaik tentang [[learning-by-teaching|agen yang dapat mengajar]] berbasis LLM.
-
 
 **Rekam jejak jurnal berbelok dua kali.** Sebuah model topik struktural atas 5,387 artikel *Computers & Education* (1976–2026) menemukan AI pada 390 rekaman (7.2%), di 17 dari 18 topiknya. Peluang tahunan bahwa sebuah artikel terkait AI naik 21.8% per tahun hingga 1989, turun 3.7% setiap tahun hingga 2018, lalu naik 40.1% per tahun hingga 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu dkk., 2026]]). Titik balik 2018 mendahului ChatGPT empat tahun, sehingga era generatif mempercepat tren yang sudah berjalan alih-alih memulainya.
 
@@ -98,30 +99,3 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 
 - Gunakan korpora historis sebagai garis dasar alih-alih memperlakukan masa kini sebagai satu-satunya pembanding yang tersedia. Prosiding AIED 1985, 1993, 2021 dan 2024 serta IJAIED 2004, 2014 dan 2021 adalah sampel longitudinal siap pakai atas klaim bidang ini sendiri.
 - Sebutkan garis keturunan ketika Anda mengklaim kebaruan. Klaim bahwa sebuah sistem "mempersonalisasi pembelajaran" atau "memodelkan pembelajar" hanya baru relatif terhadap tradisi sebelumnya yang spesifik, dan tradisi itu terdokumentasi.
-
-## Konsep terkait
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Artikel terkait
-
-- [[mishra-control-vs-agency-history-2025]] — Kendali vs. Agensi: menjelajahi sejarah AI dalam pendidikan
-- [[prezenski-human-centered-ai-aided-learning]] — Pembelajaran berbantuan AI yang berpusat pada manusia (menyentuh warisan Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognisi bersama dan keahlian AI (pembingkaian historis)
-- [[programming-its]] — Memprogram sistem tutoring cerdas
-- [[lak2026-hint-button-unproductive-use]] — Meninjau kembali tombol petunjuk pada tutor kognitif
-- [[socrates-students-instructors-llms-lbt-2025]] — Belajar dengan mengajar bersama LLM (garis keturunan konstruksionisme Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Lima puluh tahun topik Computers & Education: prevalensi AI berbelok naik setelah 2018, empat tahun sebelum ChatGPT

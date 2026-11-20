@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,12 +43,3 @@ Dosen di disiplin apa pun yang menginginkan contoh jadi dari jenis alat mereka s
 ## Catatan dan peringatan
 
 Ini adalah demo pengajaran, bukan intervensi yang dievaluasi: halaman ini tidak melaporkan bukti hasil belajar untuk satu pun di antaranya, dan beberapa merupakan karya penulisnya sendiri alih-alih penggunaan kelas yang independen. Kualitas karya mengikuti model dan jumlah iterasi, sehingga contoh yang berhasil pada satu versi model dapat melenceng atau rusak kemudian, dan alat yang dihasilkan cukup sering salah menyatakan fakta sehingga daftar periksa halaman itu sendiri menuntut pemeriksaan setiap angka terhadap sumber yang dicantumkan alat. Galeri ini mencampur karya Bowen dengan kontribusi pendidik lain dan tautan pihak ketiga yang dapat mati. Membaca tidak memerlukan akun; halamannya gratis, sementara lokakarya dan konsultasi Bowen berbayar.
-
-## Konsep terkait
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,7 +43,3 @@ Instructori și [[learning-design|designeri instrucționali]] care vor un exempl
 ## Note și precauții
 
 Construcțiile sunt descrise ca partajate deschis, dar nu este declarată nicio licență pe paginile construcțiilor sau ale galeriei, așa că reutilizarea cere permisiunea autorului, nu o licență presupusă. Sursa este însă publică — repository-urile contului conțin HTML-ul și JavaScript-ul din spatele construcțiilor, plus un tutorial pentru lucrul cu agenți de programare în educație, așa că un cititor poate inspecta o aplicație, nu doar o rula. Mai multe linkuri trimit la adrese de previzualizare de implementare Netlify, nu la un site de proiect; acelea sunt făcute pentru recenzie și pot expira, în timp ce construcțiile de pe GitHub Pages sunt cele stabile. Unele construcții depind de modelul Jev al TypeSafe AI și îi arată probabilitățile, așa că comportamentul de fond este judecata unui model, nu o regulă fixă. Traseul dificultăților dezirabile este un argument — frecarea ca funcționalitate — iar pagina îl prezintă fără să raporteze o evaluare a faptului dacă studenții învață mai mult.
-
-## Concepte conexe
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

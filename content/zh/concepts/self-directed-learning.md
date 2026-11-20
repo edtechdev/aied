@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,32 +92,3 @@ ai_assist:
 **"不使用 AI 说明缺乏可及性。"** 在不使用它的学生中，陈述的理由常常是一个积极的教育选择，即想自己做这份工作，而不是某种障碍。把不使用读作缺陷，误述了一个在 [[student-experience|学生体验]]证据中有理由的立场。
 
 **"自我导向意味着独自工作。"** 它意味着拥有方向，而这可以在一个支持度很高的环境中行使。区分性特征是谁设定并调整目标，而不是是否有帮助可得。
-
-## 关联概念
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## 关联文章
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — 中学生的自我导向生成式 AI 使用与学业发展：一项大规模一年期纵向研究
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 不加思考的 GenAI 使用与自我导向学习（SEM，性别差异）
-- [[ai-lifelong-learning-policy]] — AI 与终身学习政策
-- [[self-directed-growth-generative-ai-learning-analytics]] — GenAI 与学习分析下的自我导向成长
-- [[genai-educational-outcomes-meta-analysis]] — 生成式 AI 教育结果的元分析
-- [[andragogy-cognitive-delegation-genai-2026]] — GenAI 下的成人学与认知委托
-- [[kim-ai-andragogy-2026]] — 支持成人学的 AI 应用（Kim 等 2026）
-- [[an-goel-self-directed-modeling-2026]]
-
-- [[llm-goal-selection-self-directed-learning-2026]] — 在自由选择任务中，模型不会像人类那样选择学习目标（Molinaro 等 2026）
-

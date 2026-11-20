@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -91,35 +93,3 @@ Há também um risco conceitual. Um caso pode ser memorável porque é vívido, 
 - **"Um caso realista ensina por si só."** O realismo fornece contexto. As perguntas, as comparações e as tarefas de justificação fornecem a aprendizagem.
 - **"Casos gerados por IA estão prontos para uso."** Casos gerados podem ser fluentes, plausíveis e errados. Eles precisam de revisão especializada e de uma verificação do raciocínio que convidam.
 - **"Se os estudantes gostaram da discussão, o caso funcionou."** Engajamento não é transferência. O resultado precisa ser medido em uma tarefa que os estudantes não conseguiam completar antes.
-
-## Conceitos conectados
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Artigos conectados
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — Um LLM ancorado sustentou cinco casos perioperatórios sem fabricar conteúdo
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — O ChatGPT reduziu o tempo de criação de casos de enfermagem sem diferença de qualidade medida
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Seis ECRs de ABP/ABC com IA; apenas dois testaram ABC
-- [[scaffolding-critical-engagement-genai-minority-students]] — Modelagem docente com casos contrastantes em um curso de IA generativa
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Aprendizagem baseada em casos ao lado de pacientes virtuais e simulados
-- [[genai-medical-education-transformation-review-2026]] — Aprendizagem baseada em casos e raciocínio clínico entre as categorias de aplicação da revisão
-- [[hardie-genai-nursing-scoping-review-2026]] — Aprendizagem baseada em casos dentro do tema de simulação de uma revisão de enfermagem
-- [[lorteau-sarro-ai-legal-education-2025]] — A IA complementa o ensino socrático e as simulações jurídicas
-- [[csaszar-ai-management-education-2026]] — Estudos de caso e simulações na educação gerencial, sem uma análise do método de casos
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — O ensino de ética funciona (g = 0,55), mas a oferta baseada em discussão funciona e a oferta apenas expositiva não

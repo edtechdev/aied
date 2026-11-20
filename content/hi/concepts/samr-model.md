@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -80,28 +82,3 @@ SAMR को सबसे अच्छी तरह एक एकीकरण-ग
 **"SAMR और TPACK प्रतिस्पर्धी ढाँचे हैं।"** वे अलग-अलग चीज़ें बताते हैं: SAMR किसी कार्य में *रूपांतरण की मात्रा* बताता है, जबकि [[tpack|TPACK]] वह *ज्ञान* बताता है जो शिक्षक को प्रौद्योगिकी के अच्छे एकीकरण के लिए चाहिए। एक शिक्षक उच्च TPACK-सक्षम हो सकता है और फिर भी Substitution पर काम कर सकता है, इसीलिए दोनों को चुना नहीं, साथ में उपयोग किया जाता है।
 
 **"जो उपकरण एक स्तर पर रूपांतरणकारी है वह सभी स्तरों पर रूपांतरणकारी है।"** वही जनरेटिव उपकरण एक पाठ्यक्रम में Substitution और दूसरे में Redefinition का समर्थन कर सकता है, क्योंकि स्तर प्रौद्योगिकी का नहीं, कार्य-डिज़ाइन का गुण है। स्तर को उपकरण पर आरोपित करने से डिज़ाइन निर्णयों के स्थान पर अपनाने के निर्णय आ जाते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-education]] — शिक्षा में AI (मुख्य अवधारणा)
-- [[tpack]] — तकनीकी शिक्षाशास्त्रीय विषय-ज्ञान
-- [[technology-acceptance-model]] — प्रौद्योगिकी अपनाने के मॉडल
-- [[icap-framework]] — संज्ञानात्मक संलग्नता का ICAP ढाँचा
-- [[ai-technologies]] — AI प्रौद्योगिकियाँ और तकनीकें
-- [[teacher-ai-competency]] — शिक्षक की AI दक्षता
-- [[educational-development]] — शैक्षिक विकास
-- [[learning-design]] — सीखने का डिज़ाइन
-- [[k-12]] — के-12 शिक्षा
-- [[higher-ed]] — उच्च शिक्षा
-- [[generative-ai]] — जनरेटिव AI
-
-## संबंधित लेख
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — उच्च शिक्षा में AI एकीकरण का SAMR से मूल्यांकन: मुख्यतः प्रतिस्थापन/संवर्धन
-- [[thermomix-genai-education-analogy-2026]] — चार पाक-से-सीखने परिदृश्यों को मैप करते हुए ICAP और SAMR
-- [[rewriting-curriculum-genai-pedagogy-2026]] — GenAI-संचालित पाठ्यक्रम परिवर्तन के लेंसों में SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — संकाय प्रौद्योगिकी मानकों को आकार देने वाले ढाँचों में SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR की मानवतावादी अस्तित्ववाद की पोस्टह्यूमैनिस्ट आलोचना
-- [[reclaiming-epistemic-agency-co-agency-2026]] — शक्ति, डेटा स्वामित्व और उत्तरदायित्व पर SAMR की मौनता
-- [[genai-use-changing-institutional-policy-physics-2026]] — बदलती संस्थागत नीतियों के अंतर्गत छात्रों का GenAI उपयोग: उपयोग के कार्य SAMR स्तरों पर मैप किए गए (Quince और Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — गणित कक्षाओं में AI: विविधता और समावेशिता के लिए एक सहक्रियात्मक रणनीति

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -96,7 +98,6 @@ ai_assist:
 
 - **파트너십은 학생 학습뿐 아니라 연구 과정 자체로 확장됩니다.** [[potter-participatory-design-writing-analytics-2026|Potter 등(2026)]]은 GPT-4o가 보안 RAG 플랫폼에서 코드와 예비 주제의 초안을 작성하게 하고, 세 명의 핵심 연구자와 두 명의 외부 검증자가 해석적 권위를 유지하여 네 가지 최종 주제로 통합했습니다. 이 혼합 워크플로는 연구자의 노동을 제거한 것이 아니라 재분배했습니다.
 
-
 ## 연결
 
 인간-AI 협업은 [[human-in-the-loop-ai]](감독), [[agentic-ai]](자율성), [[teacher-role]](교사의 변화하는 업무), [[scaffolding]] 및 [[metacognition]](협업이 학습을 지원하는 방식), 그리고 [[cognitive-offloading|과잁 의존]](협업이 대체가 될 때의 실패 양상)과 연결됩니다. 이것은 [[ai-literacy]], [[self-regulated-learning]], [[student-experience]]에 걸친 핵심 주제입니다.
@@ -108,72 +109,3 @@ ai_assist:
 - **"협업이란 AI가 일의 일부를 하는 것이다."** **결정하는 역할은 학습자에게 남습니다.** 그리고 이는 글쓰기로도 확장됩니다. [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash, Connell Pensky (2025)]]는 그렇게 설계된 배치에서 그것이 유지됨을 보여줍니다. 인간이 판단을 지키지 않는다면 노동의 분업은 협업이 아닙니다.
 - **"뒤집힌 배치에서 설명하는 것은 AI다."** **AI를 가르친 학생들이 더 잘 설명했습니다.** 뒤집힌 교실의 정의는 **M = 4.18 대 3.29**, 교수 활동은 **M = 4.91 대 3.06(둘 다 p < 0.001)**이었습니다. 학습은 설명한 쪽에 쌓였습니다.
 - **"인간과 AI의 기여는 대체물이다."** 두 편의 2026년 연구가 교실 협업의 **상보적 두 절반**을 도표화하며, 이는 설계 문제를 대체가 아니라 배분으로 규정합니다.
-
-## 연결된 개념
-- [[pedagogical-partnerships]] — 교육학적 파트너십
-- [[community-of-inquiry]] — 탐구 공동체(인간-GenAI 사회기술적 성취로서의 존재)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성적 평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물학에서의 AI 리터러시, 비판적 사고, 전문 도구
-- [[human-in-the-loop-ai]] — 감독
-- [[agentic-ai]] — 자율성
-- [[productive-failure]]
-
-## 연결된 문서
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — 인간+AI 피드백이 수정 품질에서 인간 단독을 앞섰으나 사후 시험 차이는 없었다(Lu 외 2026)
-- [[nixon-social-cost-ai-teammate-2026]] — 대가는 인간-인간 유대에 떨어진다: AI 팀원이 동료 응답성과 소속감을 낮추었다(Nixon 외 2026)
-- [[bjet-many-hands-make-light-work-2026]] — GenAI 다중에이전트 시스템과의 짝 작업이 설계 프로젝트에서 이겼으나, 비판적 사고 인식은 혼자 작업한 사람들에게서만 상승했다(Chu 외 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: 영역, AI, 메타인지 역량의 동적 구성으로서의 협업 역량, 학습자 행위자성은 창발적(Dang 외 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 중등 교사들이 인간 감독 하에 제한된 전문가로서 교실 챗봇을 설계하다
-- [[ai-integration-instructional-design-collaboratory-2026]] — 12개의 교사교육 과정 구현이 AI 통합을 교수 설계 문제로 다루다
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: 초보 튜터에게 인간-AI 전문성 확장의 첫 RCT
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: 독립적 인간 창의성
-- [[principal-trait-analysis-human-ai-skills-2026]] — 인간–AI 협업의 데이터 기반 "특성"
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 경험과 AI 숙련도에 따른 수업 설계에서의 교사-AI 상호작용 패턴(Choi 외 2026)
-- [[tang-chatbots-learning-design-2026]] — 설계자들이 내장 챗봇을 콘텐츠 생성이 아닌 결과와 교육학에 대한 정합성 점검에 사용하다
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 대체에서 비계로: 자기강화 해악 순환의 타파
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개적 행위자로서의 생성 AI
-- [[conversational-ai-agents-umbrella-review-2026]] — 교육에서의 대화형 AI 에이전트에 대한 엄브렐라 리뷰
-- [[ai-overreliance-complex-adaptive-system-2026]] — 복잡 적응 시스템으로 모델링된 AI 과잁 의존
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 초등 북토크를 위한 역할 적응형 AI 동반자; 고정 역할 에이전트의 정서적 천장(Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교사–AI 공동 설계: 경향과 관점(Wang 외 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — AI 설계된 차별화 집단 활동에서의 역할 구조(Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — 소집단 역학에서 행위자이자 협업 공간인 GenAI(Xu 외 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 비계 지향 다중에이전트 대규모 언어 모델 시스템의 평가
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 윤리적 성찰과 탐구를 위한 역할 놀이와 토론으로 집단 기반 윤리 교육을 촉진하는 윤리 훈련 에이전트
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 과제 배정의 연속체로서의 자동화, 보강, 협업
-- [[bounded-reliance-ai-writing-feedback-2026]] — 제한된 의존: AI 생성 쓰기 피드백에 대한 EFL 학생 참여의 원천 신뢰성 관점
-- [[human-ai-collaboration-academic-writing-2026]] — 5부분으로 구성된 구조화된 EFL 쓰기 워크플로; 검증과 책임 있는 사용 루틴이 짝 쓰기와 디지털 비판적 사고 향상을 이끌었다
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 역할 역전: 학생들이 GAI 초보 학습자를 가르치며 GAI 교사에게 질문하는 동료들을 능가하다
-- [[iqbal-human-genai-support-essay-revision-2026]] — 지원 유형이 수정 전략과 점수를 형성했으나, 어떤 전략도 향상을 예측하지 못했다; GenAI 향상은 과제 특정적일 수 있다
-- [[kuhail-great-debaters-ai-facilitators-2026]] — 인간 대 AI 토론 진행자가 동등하게 평가되었다; 유용성 대 만족도가 재사용을 다르게 이끈다
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — 수업연구가 교사교육자의 대화적 AI 참여 설계 역량을 구축하다; 교육학적 사고로서의 프롬프트 엔지니어링
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — 다섯 가지 학생–GenAI 얽힘 유형, 그리고 저작권을 분배하는 유형이 주변에 머무는 이유(Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — 심리적 가용성과 업무 소외를 통한 교사–AI 협업의 상반된 업무 참여 경로, 디지털 역량에 의해 제한됨
-- [[wang-agentic-translation-education-2026]] — 번역 교육을 AI 오케스트레이션, 전략적 판단, 비판적 평가 역량으로 재지향하는 설계 프로토콜(아직 경험적 자료 없음)
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 서사형 과학 게임에서의 세 가지 에이전트 역할과 각각에 필요한 평가 기준(Humburg et al. 2025)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 선호 답을 숨긴 다중 에이전트 토론이 잘못된 AI 조언에 대한 위임을 줄였지만 교정적으로는 아니었다
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 정서 알림은 교사가 해석하는 단서이지 복종하라는 지시가 아니다
-
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — 인간-AI 공동 창작에서의 저자성 정당화 결핍

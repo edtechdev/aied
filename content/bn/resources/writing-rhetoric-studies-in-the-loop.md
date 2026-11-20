@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -39,6 +40,3 @@ ai_assist:
 ## ব্যবহারের আগে যা জানা দরকার
 
 পুরো বইটি PDF ও ePub-এ বিনামূল্যে, আর আলাদা অধ্যায়গুলো নিজস্ব DOI নিয়ে পৃথকভাবে প্রকাশিত। প্রকাশনা জুলাই 2026, WAC Clearinghouse-এর WAC Repository সিরিজে, 402 পাতা, সম্পাদনা Anuj Gupta ও Brian Gogan, সংগ্রহের DOI 10.37514/TWR-B.2026.2999। লাইসেন্স Creative Commons BY-NC-ND 4.0, তাই পাঠক দেখতে, ব্যক্তিগত কপি ছাপতে ও বইটিতে লিংক করতে পারেন, কিন্তু অনুমতি ছাড়া অন্য সাইটে পুনরুৎপাদন বা অভিযোজন করতে পারেন না; যে কোর্স পরিবর্তিত প্রম্পট-শব্দ চায়, তার এগুলো পুনর্মুদ্রণের বদলে নিজের সংস্করণ লেখা উচিত। প্রতিটি অধ্যায়ের প্রম্পট প্ল্যাটফর্মজুড়ে পরীক্ষিত, তবে বইটি ফলাফলের কোনো নিয়ন্ত্রিত তুলনা রিপোর্ট করে না, তাই প্রম্পটগুলোকে বৈধতাপ্রাপ্ত হস্তক্ষেপের বদলে বিশেষজ্ঞ-নকশা হিসেবে ধরুন।
-
-## সংযুক্ত ধারণা
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -94,27 +96,3 @@ ai_assist:
 **«Бихевиористские дизайны просто хуже конструктивистских».** Они хорошо подходят к конкретным целям — беглость, запоминание фактов, процедурный автоматизм, — где немедленная обратная связь и повторение действительно и есть то, что требует задача. Ошибка не в механизме; ошибка в использовании механизма, условие валидности которого (реакцию должен произвести учащийся) незаметно перестало выполняться.
 
 **«Поскольку теория дискредитирована, системы, построенные на ней, можно судить только по результатам».** Результаты — именно то, что портит эквивалентность результата. Система может сообщать отличные поведенческие результаты, тогда как обучение переместилось в другое место, поэтому системам с бихевиористским влиянием измерение без ассистента нужно больше, чем любому другому типу.
-
-## Связанные концепции
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Когнитивизм, третий классический полюс теории обучения
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Связанные статьи
-
-- [[ai-vocational-education-training-review]] — Бихевиористские проектные решения ИИ доминируют в практике VET, несмотря на исповедуемый конструктивизм; «ловушка Тьюринга»
-- [[generativism-learning-theory]] — Бихевиоризм среди четырёх доминирующих теорий, к пересмотру которых побуждает генеративный ИИ
-- [[ccct-cooperative-learning-technique]] — Бихевиоризм, цитируемый в проектировании кооперативного обучения для высшего образования
-- [[wang-multi-agent-systems-learning-designers-2025]] — Бихевиористская персона среди подходов к совместному проектированию мультиагентными системами
-
-- [[sequenced-ai-feedback-learning]] — Sequenced hint feedback underperformed immediate full-solution feedback in a 199-participant randomized experiment
-

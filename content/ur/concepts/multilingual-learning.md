@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -70,28 +72,3 @@ LLM پر مبنی تقابلی فیصلہ ایک ایسا معاملہ ہے جہ
 - **"ہدف زبان کو پہلے دن سے غالب ہونا چاہیے۔"** **24 مطالعات کے منظم جائزے** میں سیکھنے والوں نے **اپنی زبان میں سیاق و سباق والے فقرے اور وضاحتیں، ہدف زبان میں اُترنے کے پل کے طور پر** مانگیں — جائزہ لینے والے اِسے حقیقی نئی ذیلی سہولت سمجھتے ہیں، کوئی حیلہ نہیں۔ مادری زبان کی معاونت نے [[scaffolding|سکافولڈنگ]] کا کام کیا، بچنے کا ذریعہ نہیں بنی۔
 - **"AI کی زبان کی جانچ کثیر لسانی لکھاریوں کے خلاف متعصب ہے۔"** یہاں تعصب **ماڈل کے بجائے انسانی بنیادی سطح** کے ساتھ چلا: **درجات 3-6 کی معلوماتی تحریر** پر LLM پر مبنی تقابلی فیصلہ **محققین کے ربرکس سے ہم آہنگ رہا (r = .59-.73)** اور وہی نمونہ دکھایا جو انسانی جانچنے والوں نے دکھایا تھا۔ یہ مطلق معنوں میں انصاف کا ثبوت نہیں — یہ ثبوت ہے کہ ماڈل نے موجودہ تحریف کے اوپر کوئی نئی تحریف نہیں ڈالی۔
 - **"ترجمے کے معیار کا نتیجہ ہی مفید حصہ ہے۔"** پل کا استعمال وضاحتی اور سیاق و سباق میں جڑا ہوا ہے، متبادل نہیں۔ ایسا اوزار جو سیکھنے والے کی اپنی پیداوار کی جگہ لے لے، وہ مشق ختم کر دیتا ہے جسے پل نے ممکن بنانا تھا۔
-
-## منسلک تصورات
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## منسلک مضامین
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI چیٹ بوٹس زبانوں کے باہمی استعمال کی سہولت دیتے ہیں، ایسا استعمال جو پہلے کے زبان کے اوزاروں میں نہ تھا
-- [[llm-comparative-judgment-writing-screening-2026]] — عالمگیر تحریری اسکریننگ کے لیے بڑے زبان ماڈل کے تقابلی فیصلے کی درستی
-- [[multilingual-adaptive-learning-nigeria-2026]] — نائیجیریا کے لیے AI پر مبنی موافق سیکھنے کا پلیٹ فارم
-- [[bilingual-llm-lecture-companion-srl-2026]] — دو لسانی LLM لیکچر ساتھی
-- [[structural-silence-underrepresented-language-ai-2026]] — ساختی خاموشی: کم نمائندگی والی زبانیں
-- [[llm-cultural-relevance-k12]] — K-12 میں LLM کی ثقافتی مطابقت
-- [[scaffolding-critical-engagement-genai-minority-students]] — اقلیتی طلبہ میں GenAI کے ساتھ تنقیدی شمولیت
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: ہندوستانی علم کے نظام کا ڈیٹا سیٹ
-- [[kutti-ai-voice-first-learning-companion]] — آواز اول سیکھنے کا ساتھی
-- [[ai-scoring-language-bias-physics]] — طبیعیات میں AI اسکورنگ کا لسانی تعصب

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -193,7 +195,6 @@ ai_assist:
 
 - **«يمكن الوثوق بإحصاءة بمجرد احتسابها.»** المعيار يفحص الفحص نفسه. فكل مسبار وكل حكم، باستثناء ست مجموعات إحصائية مسمّاة، جرى تشغيله على مصحّحي أوراق محاكين بأثر مزروع وبلا أثر، وأي مقياس لم يجد فحصه الأثر المزروع أُبلغ عنه كغير مقيس لا كنتيجة. وتُولَّد تقاريره من ترميزه النصي وشيفرته نفسها، فيرتبط كل رقم مطبوع بالملف والحقل اللذين جاء منهما ويُعاد احتسابه عند البناء. [[porcaro-ai-grading-benchmark-2026|الحكم قرار تصميمي قابل للاختبار]] قبل قراءة أي نتيجة حقيقية.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 **«دقة عالية على معيار قياسي تُظهر الفعالية التعليمية.»** لا تُظهرها، والفجوة هي مشكلة القياس المركزية في المجال: فقد يسجّل نظام دقة عالية بينما لا ينتج تعلّمًا، لأن دقة المعيار تقيس أداء المهمة في الظروف التي حدّدها المعيار. أما الفعالية التعليمية فتقتضي ناتجًا للمتعلّم في ظروف لا تتحكم فيها التقنية.
@@ -203,56 +204,3 @@ ai_assist:
 **«قاعدة قياس متساهلة خيار منهجي طفيف.»** إنها تغيّر النتيجة. فاحتساب أي إتمام تنبّأ بالأداء غير المعان لاحقًا **بالكاد فوق ثابت صعوبة المهارة (AUC مجمّعة 0.604 مقابل 0.595)** بينما أعلن **93.9% من أزواج الطالب–المهارة متقنة مقابل 72.8%** تحت قاعدة صارمة. أنتجت القاعدة فرقًا بمقدار 21 نقطة في من يُعلَن جاهزًا ولم تُظهر تحسّنًا تنبؤيًا يُذكر.
 
 **«الدلالة الإحصائية تحسم هل نجح التدخّل.»** إنها تحسم هل كان الأثر قابلًا للكشف. أما هل كان أثرًا *تعلّميًا* فيتوقف على مقياس الناتج والمقارنة والظروف التي أُخذ فيها — ولهذا تحمل خيارات التصميم والإبلاغ في أقسام هذه الصفحة وزنًا مساويًا للتحليل.
-
-## مفاهيم مترابطة
-
-- [[interpreting-and-applying-aied-research|تفسير أبحاث AIED وتطبيقها]]
-- [[ai-ed-evaluation|تقييم AIEd]]
-- [[rct|الاختبارات العشوائية المضبوطة]]
-- [[benchmark|المعايير القياسية]]
-- [[meta-analysis-systematic-review|التحليل التجميعي والمراجعة المنهجية]]
-- [[ai-assisted-educational-research|البحث التعليمي بمساعدة الذكاء الاصطناعي]]
-- [[educational-measurement|القياس التعليمي]]
-- [[assessment-validity|صلاحية التقويم]]
-- [[simulation|المحاكاة]]
-- [[ai-education|الذكاء الاصطناعي في التعليم]]
-- [[higher-ed|التعليم العالي]]
-- [[limitations-in-aied-research|قيود أبحاث AIED]]
-- [[learning-gains|مكاسب التعلّم]]
-- [[theory-development-aied|تطوير النظرية في الذكاء الاصطناعي في التعليم]]
-- [[qualitative-research|البحث النوعي]]
-- [[quantitative-research|البحث الكمي]]
-- [[mixed-methods-research|المناهج المختلطة]]
-- [[design-based-research|البحث التصميمي]]
-- [[usability-research|أبحاث قابلية الاستخدام]]
-- [[self-report-measures|مقاييس التقرير الذاتي]]
-- [[learning-sciences|علوم التعلّم]]
-
-## مقالات مترابطة
-
-- [[ai-methodologies-science-education-research-2026]] — إطار تكراري معرفي من سبع مراحل للتأمل في كيف قد تحول مناهج الذكاء الاصطناعي أبحاث تعليم العلوم (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — الوصول وحده لا يكفي: الدعم البشري يحسّن التفاعل مع التدريس بالذكاء الاصطناعي
-- [[genai-can-harm-teaching-rct-2026]] — قد يضر الذكاء الاصطناعي التوليدي بالتعليم
-- [[genai-over-reliance-learning-2026]] — من التحسين إلى الاعتماد المفرط: دراسة بالمنهج المختلط
-- [[acceptance-ai-english-tools-2026]] — قبول أدوات تعلّم اللغة الإنجليزية بمساعدة الذكاء الاصطناعي
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة مدرس الذكاء الاصطناعي والأضرار البيداغوجية
-- [[zerkouk-comprehensive-review-its-2025]] — مراجعة شاملة لأنظمة التدريس الذكية
-- [[ai-assisted-collaborative-learning-model-dbr]] — بحث تصميمي لنموذج التعلّم التعاوني بمساعدة الذكاء الاصطناعي
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: تقييم قدرة نماذج اللغة على التعليم
-- [[ground-truth-reliability-aied]] — تحديث الحقيقة الأرضية: أربعة تحولات نحو الموثوقية والصلاحية
-- [[llm-student-simulation-teacher-insights]] — هل تستطيع نماذج اللغة محاكاة المتعلمين البشريين بفعالية؟
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 بندًا في عشرة مجالات للإبلاغ الشفاف عن دراسات الذكاء الاصطناعي في التعليم (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — نظام إدارة تعلّم متكامل مع الذكاء الاصطناعي: دراسة طولية
-- [[ai-in-the-wild-college]] — الذكاء الاصطناعي في البرية: تحليل واسع النطاق لتفاعلات أصيلة
-- [[same-ai-different-pathways]] — نفس الذكاء الاصطناعي، مسارات مختلفة: تفكيك الآليات
-- [[tep-aied-model-reporting-2026]] — نموذج TEP-AIED للإبلاغ عن أبحاث الذكاء الاصطناعي في التعليم بدقة (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — مفارقة الكفاءة: الذكاء الاصطناعي التوليدي من نص إلى صورة في الفن والتصميم
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT في التعليم: أثر يبحث عن سبب
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — تحليل تجميعي للتحليلات التجميعية لأثر الذكاء الاصطناعي على التعلّم
-- [[oneill-presumed-effective-meta-analysis-2026]] — مفترض الفعالية: تدقيق في تحليل تجميعي معيب في AIED
-- [[synthetic-educational-data-structural-fidelity-2026]] — ما تغفله مقاييس الأمانة: فحص بنيوي للبيانات التعليمية التركيبية
-
-- [[porcaro-ai-grading-benchmark-2026]] — ما هو أبعد من الاتفاق: مسابر تُعرف إجابتها الصحيحة، وفحوص أثر مزروع على مصحّحي أوراق محاكين، و22 نموذجًا موجَّهًا (Porcaro 2026)
-
-

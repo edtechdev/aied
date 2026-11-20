@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,22 +80,3 @@ ai_assist:
 - **学生已经抛弃了图书馆。** 搜索引擎仍是主要的起点，而九年的借阅记录显示借阅量没有任何断点式变化。
 - **资金是唯一的障碍。** 技能缺口与糟糕的数据质量被提及的次数多于钱，这使问题既是预算问题，也是能力问题。
 - **文献在增长就意味着这个领域正在变革。** 出版量上升，而实践中没有任何被测量的变化；这些综述发现热情跑在效果证据前面。
-
-## 关联概念
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## 关联文章
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — 学术图书馆中的人工智能采用：对当前实践、挑战与研究机会的系统综述
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — 描摹 AI 素养融入学术图书馆信息素养教学的路径
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — 人工智能如何重塑学术图书馆中的信息素养
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — 人工智能与信息寻求：AI 聊天机器人、搜索引擎与图书馆资源作为大学生信息来源的比较探索
-- [[huang-genai-academic-information-resources-2026]] — 生成式人工智能如何重塑大学生对学术信息资源的可持续使用
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — 尼日利亚高等教育机构学术图书馆员促进信息素养与 AI 教学的学生参与

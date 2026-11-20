@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -59,27 +61,3 @@ Nörodivergent öğrenciler için dijital yardımcı [[ai-technologies|teknoloji
 - **“Orta düzey bir etki büyüklüğü doğru aracı tanımlar.”** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang ve ark.]], YZ temelli müdahalelerin engelli öğrenciler için öğrenme sonuçları üzerinde robotlar, yazılım ve akıllı VR genelinde orta düzeyde olumlu bir etki ürettiğini bulur (**g = 0,588**). Bu, çok farklı ihtiyaçlara hizmet eden çok farklı teknolojiler üzerinden bir ortalamadır; dolayısıyla kategoriyi destekler, kategori içindeki bir seçimi değil.
 - **“Tanıya bağlı erişim savunulabilir bir tasarımdır.”** Katılım için resmî tanı istemek, gerçek ihtiyaçları olan ve etiketi olmayan öğrenenleri dışlar; bu [[universal-design-for-learning|evrensel öğrenme tasarımıyla]] çelişir ve erişim maliyetini öğrencinin belgelerine yükler.
 - **“Daha fazla yardımcı araç daha fazla kapsayıcılık demektir.”** Bir kapsam incelemesi beş veri tabanında **766 kaydı** taradı ve çıktı hacmi ihtiyacın karşılanmasıyla aynı şey değildir; her engel başına çalışma sayısı daha bilgilendirici olan rakamdır.
-
-## Bağlı kavramlar
-
-- [[accessibility]] — yardımcı teknolojinin işlevselleştirdiği tasarım niteliği
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Bağlı makaleler
-
-- [[shin-ai-policies-sld-2026]] — Özgün öğrenme güçlüğü olan öğrenciler için YZ politikaları ve düzenlemeler
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Engelli öğrenciler için YZ müdahalelerinin meta-analizi
-- [[kutti-ai-voice-first-learning-companion]] — Görme engelli çocuklar için ses öncelikli YZ
-- [[tactile-statistical-graphs-accessibility]] — YZ tarafından üretilen dokunsal istatistik grafikleri
-- [[text-simplification-its]] — Akıllı öğretim sistemleri için LLM tabanlı metin basitleştirme
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — İşitme engelli/ağır işitme engelli öğrenenler için LLM soru üretimi
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX ile matematik erişimli fizik video dökümü
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Görme engelli öğrenenler için yardımcı Üretken YZ
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Üretken YZ, sanal gerçeklik ve ötesi: Yükseköğretimde nörodivergent öğrenciler için dijital yardımcı teknolojilerin kapsam derlemesi

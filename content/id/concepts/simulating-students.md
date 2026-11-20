@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -89,9 +91,7 @@ Pembedaan kuncinya adalah antara **merepresentasikan siswa nyata** dan **menghas
 
 Keduanya saling melengkapi, bukan bersaing. Siswa simulasi berkesetiaan tinggi biasanya *mengandung* model siswa (keadaan epistemik, himpunan miskonsepsi, profil [[student-engagement|keterlibatan]]) dan menarik pada konstruk yang sama yang diformalkan [[student-modeling]] dan [[knowledge-tracing]]. Tantangan validitas bersama juga sama pada keduanya: representasi harus setia mencerminkan keadaan sebenarnya siswa, bukan perilaku bawaan sistem. Namun *tujuannya* berbeda — pemodelan siswa mendiagnosis siswa nyata untuk bertindak terhadapnya; simulasi memfabrikasi siswa untuk menguji atau melatih. Inilah sebabnya penelitian siswa simulasi semakin banyak digunakan untuk mengaudit AI (lihat di bawah) sementara penelitian pemodelan siswa tetap berorientasi pada [[adaptive-learning]] dan [[personalized-learning]] langsung.
 
-
 Pertanyaan cerminnya berjalan ke arah sebaliknya. [[ai-avatars-and-synthetic-instructors]] menyimulasikan orang yang mengajar alih-alih orang yang belajar, sehingga siswa simulasi membuka sebuah metode untuk diperiksa sementara instruktur sintetis berdiri di depan pembelajar, yang merupakan penerima manfaat sekaligus hakimnya.
-
 
 ### Kesetiaan dua sumbu: kecocokan perilaku dan responsivitas bimbingan
 
@@ -119,7 +119,6 @@ Di luar mengevaluasi pedagogi, siswa simulasi berfungsi sebagai **rangka uji unt
 
 Uji validitas yang lebih tajam menanyakan apakah model mereproduksi *pilihan* manusia sama sekali: dalam gim [[self-directed-learning|pembelajaran mandiri]] yang diadaptasi, lima model terdepan mengeksploitasi satu solusi sementara 175 peserta manusia menjelajah di berbagai tujuan, sehingga model yang menggantikan siswa meninggalkan perilaku yang justru menjadi alasan simulasi itu ada ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
 
-
 Simulasi juga dapat menguji terlebih dahulu pilihan siswa: [[simulating-learner-task-selection|Noh et al. (2026)]] mencocokkan Model Faktor Aditif dan [[knowledge-tracing]] Bayesian pada dua kumpulan data tutoring nyata dan membiarkan 1.000 siswa simulasi memilih keterampilan di bawah delapan strategi, di mana aturan yang menghindari risiko menghasilkan sekitar tiga puluh kali lipat praktik berlebih dibandingkan yang lain dan kendala tepat-di-bawah-penguasaan memotongnya menjadi 1.8×.
 
 Register audit kedua bersifat [[metacognition|metakognitif]] dan afektif. [[meds-math-education-digital-shadows-2026|MEDS (Esposito et al., 2026)]] adalah kumpulan data 28.000 catatan — 2.000 persona sintetis untuk masing-masing dari 14 [[llm|model]], setiap persona dijalankan baik sebagai persona manusia maupun sebagai asisten garis dasar — yang mencatat akurasi pada 18 [[problem-solving|soal matematika]] sekolah menengah bersama keyakinan [[self-report-measures|laporan diri]] dan skor [[self-efficacy|efikasi diri]] serta [[anxiety-and-stress|kecemasan matematika]] yang akan dilaporkan siswa yang digantikannya. Sinyal auditnya adalah celah kalibrasi: keluarga Qwen dan Ministral 3B menyatakan keyakinan di atas 0.90 sementara akurasi mandek di sekitar 0.55, sedangkan Grok 4.1 Fast, DeepSeek Chat, dan beberapa varian Mistral Small kurang percaya diri dan Ministral 14B serta Anita 24B tetap cukup selaras. Jalur yang sama menyingkap kegagalan kesetiaan yang lebih senyap: persona mode manusia menghasilkan distribusi skor yang lebar dan masuk akal, tetapi asisten garis dasar mengembalikan jawaban yang hampir identik, percaya diri, dan rendah kecemasan — potret diri bawaan, bukan milik siswa simulasi. Ini memperluas audit pemberi rekomendasi di atas dengan menyelidiki apa yang diklaim model tentang kompetensi dan afeknya sendiri, dan mempertajam peringatan validitas halaman ini dari arah yang tak terduga: karena persona MEDS dibobot secara konstruksi, bukan disampel dari populasi nyata, para penulisnya menyajikan kumpulan data ini sebagai sumber observasional untuk mengaudit perilaku [[generative-ai|GenAI]] yang dikondisikan prompt dan secara eksplisit bukan sebagai pengganti [[student-experience|data siswa]] nyata.
@@ -137,59 +136,3 @@ Pelatihan terhadap simulator juga dapat berpindah: agen pembelajaran penguatan T
 - **"Siswa LLM cukup baik sebagai proksi."** **Simulasi mencakup siswa yang paling mudah, dan sedikit yang divalidasi**: **dua belas guru** yang mengajari siswa LLM melaporkan **bahasa yang terlalu kompleks, emosi yang hilang**, dan penyimpangan lain dari siswa nyata. Proksi memodelkan kasus yang mudah ditangani.
 - **"Siswa simulasi dengan celah pengetahuan berperilaku seperti siswa dengan celah itu."** Menekan **16 komponen pengetahuan bertarget pada Mistral-7B menurunkan akurasi dari sekitar 0.75 pada rasio lupa 10% menjadi di bawah 0.5 pada 40%**, sementara model dasar bertahan. Degradasinya direkayasa, dan itulah yang menjadikannya manipulasi terkendali, bukan emulasi.
 - **"Stabilitas persona adalah masalah pilihan model."** Itu adalah **masalah desain interaksi**: menyilangkan **lima LLM dengan tiga desain prompt dan empat persona intensitas ADHD**, perbedaan terancang mengikuti desain prompt, bukan model. Memilih model yang lebih baik tidak memperbaiki persona yang tidak stabil.
-
-## Konsep terkait
-
-- [[learners]] — Siswa: payung bagi konsep-konsep sisi siswa
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artikel terkait
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: perencanaan hierarkis menjaga siswa simulasi tetap pada profilnya sepanjang horizon panjang (Radmehr et al. 2026)
-- [[rudolph-llm-simulated-counselling-clients-2026]] — Klien konseling simulasi mengungkap lebih cepat, sehingga peserta pelatihan melewati moderasi fasilitatif
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: Dari Role-Play ke Pemodelan Perilaku Siswa untuk Simulasi Siswa yang Setia
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Tutor pembelajaran penguatan terlatih simulator berpindah offline ke tugas nyata yang baru (Xu & Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — Dapatkah LLM Mensimulasikan Siswa Manusia? Wawasan Guru
-- [[llm-student-simulation-misconception-faithfulness]] — Mensimulasikan Siswa atau Pemecahan Masalah yang Sikofan?
-- [[llm-educational-simulation-adhd]] — Simulasi Pendidikan Berbasis LLM dan Stabilitas Persona Siswa
-- [[simulating-students-java-programming-errors-llms]] — Mensimulasikan Kesalahan Pemrograman Java Siswa
-- [[adaptive-virtual-patient-psychotherapy-training]] — Pasien Virtual Adaptif untuk Pelatihan Psikoterapi
-- [[medeasy-ai-standardized-patients]] — MedEasy: Pasien Terstandar AI
-- [[simulating-students-diverse-cognitive-levels-2025]] — Merangkul Ketidaksempurnaan: Mensimulasikan Tingkat Kognitif yang Beragam
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: model siswa autentik yang disetel halus untuk dialog sintetis
-- [[educasim-cs1-instructional-practice]] — EducaSim: agen generatif mensimulasikan sesi CS1 untuk praktik guru
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Integrasi AI yang Bertanggung Jawab ke dalam Pedagogi Praktik dalam Pendidikan Guru Matematika
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agen generatif mensimulasikan evolusi kognitif siswa
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang tepat untuk profil siswa yang beragam? Evaluasi skala besar
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agen LLM spesifik peserta yang disetel halus mereproduksi dialog pemecahan masalah kolaboratif (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: Melatih Simulator Siswa Berbasis LLM
-- [[ai-web-agents-lesson-design-2025]] — Agen Web AI: satu agen pendeskripsi mengalahkan simulasi distribusi siswa untuk memprediksi putus kuliah dan kritik desain
-- [[simulating-learner-task-selection]] — Mensimulasikan strategi pemilihan tugas siswa dan kendala sistem dalam pembelajaran penguasaan (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Menuju Pengukuran Keterampilan Tahan Lama yang Dapat Diskalakan
-- [[agent-based-educational-science-2026]] — Menuju Ilmu Pendidikan Berbasis Agen: aparatus simulasi sebagai instrumen penelitian (Zhang, Jiang & Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: audit 28.000 catatan atas kinerja matematika, keyakinan, dan kecemasan pada siswa simulasi dan asisten AI
-- [[swim-student-writing-simulation-2026]] — prompting versus SFT versus pelatihan berbasis imbalan untuk simulator menulis siswa
-- [[misconception-acquisition-dynamics-llms-2026]] — apa yang harus ada dalam data pelatihan sebelum simulator menyimpan miskonsepsi sama sekali
-- [[llm-distractor-generation-student-reasoning-2026]] — analisis tingkat jejak tentang bagaimana model mensimulasikan penalaran siswa yang salah
-- [[llm-simulating-student-scientific-thinking-2026]] — enam model terhadap 8.820 gagasan sains yang tertanam dalam pelajaran: di mana penalaran simulasi melampaui cakupan, kosakata, dan kepastian siswa muda
-- [[simulated-students-tutoring-dialogues-2026]] — tolok ukur tujuh metrik atas sembilan metode simulasi siswa, dengan evaluasi manusia oleh tiga tutor
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning sebagai cara menempatkan simulator pada tingkat pengetahuan pemula yang stabil, dan pembelajaran ulang melalui dialog pengajaran
-- [[student-development-agent-risk-free-simulation-2025]] — memprediksi hasil perkembangan pascakursus siswa pada platform multi-agen tanpa mengekspos mereka pada intervensi
-- [[preservice-teachers-noticing-ai-simulations-2026]] — tiga minggu calon guru memperhatikan, menafsirkan, dan membentuk dalam simulasi chatbot tanda sama dengan, dan bagaimana desain mengarahkan apa yang mereka perhatikan
-- [[beagle-grounded-learner-emulation-2026]] — simulator neuro-simbolik yang menegakkan struktur SRL secara arsitektural, bukan melalui prompting, dan lulus uji Turing manusia
-- [[llm-goal-selection-self-directed-learning-2026]] — Pemilihan Tujuan Model Bahasa Berbeda dari Manusia dalam Tugas Pembelajaran Mandiri

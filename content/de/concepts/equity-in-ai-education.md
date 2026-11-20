@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -141,78 +143,3 @@ Gerechtigkeit hat auch eine Umwelt- und Rechendimension: ungleicher Zugang zu re
 - **„Das Gerechtigkeitsproblem ist der Zugang zu Werkzeugen."** **Werkzeugqualität ist Teil der Spaltung, nicht nur der Werkzeugzugang**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] reichte **50 Mathematikaufgaben** ein und fand Qualitätsunterschiede, die dem Werkzeug folgen statt der nutzenden Person.
 - **„Hybrides Mensch-KI-Tutoring kann Lücken nicht schließen."** **Differenziertes Mensch-KI-Tutoring ist ein Beleg dafür, dass Hybridmodelle Lücken schließen können — wenn die Zuteilung dem Bedarf folgt.** Eine Difference-in-Discontinuities-Studie (**635** Teilnehmende) fand, dass proaktives Tutoring **marginal höheres durchschnittliches Wachstum (75 %, p = .065) zeigte, konzentriert bei Studierenden, die weiter unter dem Cut-off lagen**. Der Zuwachs konzentrierte sich dort, wo der Bedarf am größten war.
 - **„Ein Durchschnittseffekt sagt Ihnen, ob sich die Gerechtigkeit verbessert hat."** Die Einsicht ist, dass die **Zuteilungsregel** das Gerechtigkeitsergebnis bestimmte: eine Intervention, die allen gleichermaßen hilft, lässt Lücken unverändert, und eine, die proportional zum Bedarf hilft, verkleinert sie.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Lernende: der Überbegriff für die Konzepte auf Lernendenseite
-- [[digital-divide]] — Ungleicher Zugang zu KI-Werkzeugen und Infrastruktur über sozioökonomische Linien, Regionen und Nationen
-- [[bias-mitigation]] — Methoden zur Erkennung und Korrektur von Bias in KI-Tutoren, -Bewertenden und -Empfehlern
-- [[accessibility]] — Gestaltung, die KI-Lernwerkzeuge für Lernende mit Behinderungen nutzbar macht
-- [[assistive-technology]] — Werkzeuge, die Lernende mit Behinderungen in KI-vermittelten Settings unterstützen
-- [[culturally-relevant-pedagogy]] — Lehren, das die kulturellen Kontexte der Lernenden widerspiegelt, statt dominante Normen aufzuerlegen
-- [[language-learning]] — Sprachliche Inklusion mehrsprachiger Lernender und Lernender unterrepräsentierter Sprachen
-- [[inclusive-learning]] — Zugängliches und gerechtes Lernen für alle Lernenden
-- [[universal-design-for-learning]] — Gestaltung für die Variabilität der Lernenden von Anfang an
-- [[neurodiversity]] — Supporting neurodivergent learners in AI education
-- [[special-education]] — Bedürfnisse von Lernenden mit Behinderungen im KI-Systemdesign erfüllen
-- [[ai-literacy]] — Die Fähigkeiten, die Lernende brauchen, um gerechterweise von KI zu profitieren
-- [[educational-policy-ai]] — Institutionelle Politik, die Gerechtigkeit als Leitprinzip einbettet
-- [[governance]] — Aufsicht und Rechenschaft für gerechte KI
-- [[agency]] — Sicherstellen, dass KI die Stimme der Studierenden stärkt statt ersetzt
-- [[stakeholders]] — Überbegriff: Personen und Zielgruppen in der KI-Bildung (Lernende, Lehrende, Gestaltende, Verwaltung, Politik)
-- [[parents-and-families]]
-- [[student-support-and-success]] — wen Unterstützungssysteme erreichen, und die Risiken des Handelns auf Basis eines Risikoscores
-
-## Verbundene Artikel
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 35 von 61 Studien behandelten Gerechtigkeit, doch dokumentiert wurde Unterstützung, statt Disparitäten zu verringern (Aybar-Bellido et al., 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Wie der visuelle Bias von GenAI in multimodales Assessment gelangt und warum sein Gegenerzählen eine Lehrkompetenz ist
-- [[rented-self-decoupling-performance-becoming-2026]] — Das gemietete Selbst: Miete, gezahlt in Geld, Selbst und Standards, und Lizenzen, die mit dem Abschluss enden
-- [[verified-study-materials-learning-gains-2026]] — Verifiziert, nicht generiert: von Expertinnen und Experten geprüfte KI-Lernmaterialien und die Verteilung der Lerngewinne in einem Hochschulkurs
-
-- [[ai-literacies-young-adults-2025]] — Gerechtigkeit als Bereitstellungsproblem: junge Menschen erreichen, die formale Bildung verpasst
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise-Bericht: KI-Benotung von 761 Hochschulaufsätzen an drei britischen Universitäten
-- [[kumar-genai-computing-education-systematic-review-2026]] — Fähigkeitslücke versus Ressourcenlücke: zwei Gerechtigkeitsmechanismen, die unterschiedliche Abhilfen erfordern
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Ungeleitetes GenAI kann Lücken vergrößern: die Interaktionsmanagement-Kompetenz (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutionelle Strukturen, digitale Ungleichheit und KI-Integration in der nigerianischen Hochschulbildung
-- [[student-attention-estimation-fairness-2026]] — Fairnessbewusste multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit von Studierenden
-- [[school-ai-education-readiness-gaps-agency-2026]] — KI-Bildung an Schulen verengt psychologische, aber nicht kognitive Bereitschaftslücken
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt-Privileg: Messung und Milderung von Zugänglichkeitsdisparitäten beim LLM-Zugang
-- [[ai-scoring-language-bias-physics]] — Sprachbias in der KI-gestützten Bewertung
-- [[gender-bias-transfer-llm-writing]] — Übertragung von Geschlechterbias im LLM-gestützten Schreiben
-- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minoritierter Wissensformen
-- [[structural-silence-underrepresented-language-ai-2026]] — Strukturelle Stille: unterrepräsentierte Sprachen in der KI-Infrastruktur
-- [[genai-higher-education-systematic-review-2026]] — GenAI in der Hochschulbildung: systematischer Review
-- [[ai-lifelong-learning-policy]] — KI und Politik des lebenslangen Lernens
-- [[generative-ai-education-productivity-gaps]] — Verengt generative KI bildungsbasierte Produktivitätslücken?
-- [[genai-linguistic-diversity-academic-writing]] — Sprachliche Vielfalt im KI-vermittelten akademischen Schreiben
-- [[access-not-enough-ai-tutoring-2026]] — Zugang ist nicht genug
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Weiblich kodierter Chatbot als Rollenmodell, der Geschlechterstereotype in der Mathematik reduziert
-- [[paternalistic-filter-llm-history-education]] — Paternalistische Filterung in der LLM-gestützten Geschichtsbildung
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: KI-Unterstützung für Lernende mit Legasthenie
-- [[ground-truth-reliability-aied]] — Verlässlichkeit von Ground Truth in der AIED
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotypabgestimmter Feedback-Bias über Studierendenattribute hinweg
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Studierendenprofile liefern? Eine Evaluation im großen Maßstab
-- [[all-girls-genai-makerspace-gender-equity-2026]] — GenAI-Makerspace-Workshops für Mädchen und Geschlechtergerechtigkeit in der Informatik
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbehinderte Lernende
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturell sensibler Chatbot zur Stresserkennung und zum Wohlbefinden unter pakistanischen Hochschulstudierenden mit NLP und maschinellem Lernen
-- [[demographic-signals-llm-student-assessment-2026]] — Implizite (dialoghistorische) demografische Signale verlagern die LLM-Bewertung, -Rückmeldung und -Antwort (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 US-Fakultätsangehörige zu Gegenwart und Zukunft von KI: 81 % erwarten größere digitale Ungleichheiten, 26 % nutzen die Werkzeuge nicht
-- [[li-genai-assessment-language-equity-2026]] — Die Linie zwischen Unterstützung und Substitution ziehen: GenAI-Assessment-Regeln und die Compliance-Last von EAL-Studierenden
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Das Recht zu verweigern ist ungleich verteilt: Verweigerung als Beleg institutioneller Untervorbereitung (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Szenariobasiertes ethisches Urteil und KI-Kompetenz bei 531 Studierenden im Grundstudium
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring ergeben gleichwertige GRE-Lerngewinne
-- [[computing-assessment-genai-workshop-report-2026]] — KI kann Ihre Hausaufgaben machen. Und nun? Bericht eines Online-Workshops zum Assessment in der Informatik im Zeitalter generativer KI
-- [[genai-social-bias-software-engineering-education-2026]] — Generative KI kann soziale Biases in der Software-Engineering-Bildung verstärken
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Genauigkeitslücke zwischen kostenfreier Stufe und Premium-Modell in der Mathematik: 32,7 % gegenüber 12 % (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Gepoolte GenAI-Lerngewinne (g=0,53) und der ungerechte Zugang zu hochpreisigen Werkzeugen, den sie nicht erfassen können
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Review zu KI-Tutoring in der Mathematik, das Inklusivitäts- und Leistungslücken-Behauptungen als ungestützt findet
-- [[gurung-hybrid-human-ai-tutoring-2026]] — Hybrides Mensch-KI-Tutoring verbessern, indem die Rollen der menschlichen Tutorinnen und Tutoren nach dem Bedarf der Studierenden differenziert werden (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Einführung einer KI-Mathematikplattform in einem Schulbezirk mit größeren explorativen Assoziationen für Studierende mit IEP, Englischlernende und hispanische Studierende (multimodale/mehrsprachige Unterstützung; Kausalität ungetestet)
-- [[gyekye-selves-apprenticeship-2026]] — Auszubildende of Color setzten Gerechtigkeit mit kultureller Flachheit gleich; Handlungsfähigkeit durch Verweigerung und Aushandlung konstruiert; Recognition Bandwidth und Institutional AI Literacy
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Lehrkräftevermittelte Bereitstellung erreicht Studierende, die die KI nie berührt
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detektion trifft mehrsprachige Schreibende am härtesten
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Kompetenz vermittelt den Nutzen, den Studierende aus LLM-Zugang ziehen (Li et al. 2026)
-
-- [[mcdonald-inclusive-assessment-genai-2026]] — Inklusives Assessment-Design im Zeitalter von GenAI: Pädagogik und Praxis weiterentwickeln

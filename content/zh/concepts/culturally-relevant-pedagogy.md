@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -101,33 +103,3 @@ AI可以帮助教师使教学更具文化回应性，但若不加提示，它的
 **"机构的 AI 使用政策决定了学生认为什么是合乎伦理的。"** 文化做的事比政策文本更多。一项对加拿大与韩国[[cs-education|计算]]专业学生的跨文化调查发现，**驱动 AI 使用伦理感知的是文化而非政策**，相同行为在不同群体中被判定不同。因此一份全院统一的政策并不产生共享的伦理，而把它当作会产生共享伦理来对待，会误读你的学生。
 
 **"一项四名教师的试点显示教师更有信心，就是该方法有效的证据。"** 那是关于教师感知的证据，它值得拥有，但不是同一件事。在该试点中，教师识别文化回应性机会的信心提升了，且 **78% 认为 AI 建议有助于材料多元化**，而作者承认文化适应活在**提示中而非 NLP 流水线中**，且文化适当性是经过评估的，不是被工程化的。信心加有用性，并不等于对学生已证成的文化相关性。
-
-## 关联概念
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — 总括：AI教育中的教学法与教学策略
-
-## 关联文章
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 在起草前先向教师询问文化情境的教案规划器（Zhai等，2026）
-- [[llm-cultural-relevance-k12]] — 面向文化相关K-12教学法的LLM
-- [[civic-education-ai-lesson-plans]] — 公民教育中的AI生成教案
-- [[ojeda-ramirez-community-based-ai-learning]] — 基于共同体的AI学习
-- [[genai-minoritized-knowledges-disability]] — 生成式AI与少数派知识的边缘化
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles：加纳STEM基准
-- [[cross-cultural-student-perceptions-genai-computing]] — GenAI使用的跨文化感知
-- [[international-students-conversational-ai-adaptation]] — 国际学生与会话式AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED：越南课程规划
-- [[culturally-aware-student-stress-chatbot-2026]] — 一个基于NLP与机器学习的、面向巴基斯坦大学生的AI驱动文化感知压力检测与幸福支持聊天机器人

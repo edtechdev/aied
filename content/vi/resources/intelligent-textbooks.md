@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -49,16 +50,3 @@ Giảng viên và nhà thiết kế giảng dạy muốn xây hoặc duy trì m�
 ## Ghi chú và lưu ý
 
 Đây là hướng dẫn của người thực hành cùng chuỗi công cụ, không phải một nghiên cứu đã bình duyệt — nó trình bày một quy trình và lý lẽ giáo dục của chính nó (“sách giáo trình thông minh dẫn sinh viên qua các khái niệm trên hành trình tìm kiếm tri thức”) chứ không phải bằng chứng về kết quả học tập. Bài báo nghiên cứu MicroSim là thứ gần nhất với nền tảng thực nghiệm, và nó được tự công bố trên arXiv. Cả hai dự án đều mã nguồn mở (kho sách giáo trình thông minh báo giấy phép MIT và 38 sao; MicroSims báo một giấy phép Creative Commons và 13 sao) và được duy trì tích cực. Đồ thị khái niệm và cấu trúc lấy bảng thuật ngữ làm đầu thực sự hữu ích cho việc khám phá, nhưng hướng dẫn giả định một quy trình soạn thảo khá kỹ thuật — MkDocs, Git và công cụ AI tạo sinh — điều có thể là rào cản với một số giảng viên. Tính đến thời điểm thu thập, sổ đăng ký MicroSim vẫn chỉ nằm trong lộ trình, nên việc tìm một mô phỏng cụ thể đã có phụ thuộc vào tìm kiếm và điều hướng của chính trang.
-
-## Khái niệm liên quan
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

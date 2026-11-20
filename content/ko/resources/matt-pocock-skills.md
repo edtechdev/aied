@@ -36,6 +36,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,6 +48,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 채택하기 전에 알아야 할 것
 
 모든 것이 [[open-source|오픈 소스]]이며 MIT 라이선스 하에 제공되므로, 지역 차원의 [[ai-literacy|AI 리터러시]]나 [[self-directed-learning|자율 학습]]의 출발점으로 자유롭게 가져다 쓸 수 있습니다. 도입 규모는 크고 빠르게 움직입니다. 2026년 9월 확인 시점에 별은 약 270,000개, 포크는 23,000개였으며, 가장 최근 커밋은 2026년 9월 18일이었습니다. 다만 한계는 범위입니다. 이 스킬들은 [[human-ai-collaboration|엔지니어]]의 작업 맥락을 전제로 하고, 엔지니어링·생산성·지원 중단(deprecated)·진행 중 버킷으로 나뉘어 있어 일부 항목은 명시적으로 미완성이거나 폐기된 것입니다. 또 README는 뉴스레터 가입 화면을 겸합니다. 가르치고 질문하는 스킬들을 이전 가능한 부분으로 보고, 학생에게 내놓기 전에 그 어느 것이든 다시 써야 할 것이라고 예상하십시오.
-
-## 연결된 개념
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

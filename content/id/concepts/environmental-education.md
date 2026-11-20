@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,29 +88,3 @@ Secara bersama, studi-studi ini menggambarkan agenda keterampilan hijau yang dis
 - **"AI dalam pendidikan lingkungan terutama memasok informasi."** Perolehan yang terukur ada pada **pengambilan keputusan**: siswa yang bekerja dengan mitra AI di dalam tugas [[inquiry-based-learning|inkuiri]] terstruktur mengungguli rekan yang hanya berinkuiri (**d = 0.69**) dan pengajaran tradisional (**d = 1.88**) pada ukuran pengambilan keputusan, dengan perolehan **terkonsentrasi pada langkah terlemah**. Efeknya ada pada kualitas penalaran, di titik-titik ketika siswa paling lemah.
 - **"Inkuiri saja adalah bahan aktifnya."** Inkuiri berbantuan AI **memperbaiki pengambilan keputusan iklim dibandingkan inkuiri saja**, sehingga kontribusi AI bersifat tambahan terhadap struktur pedagogis alih-alih dapat dipertukarkan dengannya.
 - **"Efek besar dari sampel kecil tetap efek besar."** [[learning-design|Desain instruksional]] berbantuan AI di bawah Pedagogi Pembangunan Berkelanjutan **memperbaiki rencana pembelajaran guru prajabatan dengan d = 2.80 dari 28** partisipan — kata para peninjau sendiri adalah *tidak masuk akal besarnya*, dan efek sebesar itu dari sampel tersebut harus diperlakukan sebagai sinyal alih-alih estimasi.
-
-## Konsep terkait
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Artikel terkait
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Memisahkan AI untuk keberlanjutan dari AI yang berkelanjutan; kesenjangan Global South
-- [[ai-assisted-inquiry-ssi-climate]] — Inkuiri iklim berbantuan AI, d = 0.69 dibandingkan inkuiri saja
-- [[aied-carbon-footprint-reporting]] — Tinjauan pengungkapan AIED 2025 plus metode jejak sumber terbuka
-- [[llm-environmental-impact-student-usage-2026]] — Umpan balik ekologis atas trade-off latensi–karbon dengan 89 mahasiswa CS
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asisten terkuantisasi on-premise pada 1.8 mWh per kueri
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: kesadaran keberlanjutan dalam pendidikan teknik
-- [[riandi-teacher-ai-green-energy-education-2026]] — Penggunaan AI praktis dan pengembangan materi ESD memprediksi integrasi
-- [[talebzadeh-ai-green-education-2026]] — Desain berbantuan AI di bawah kendala Pedagogi Pembangunan Berkelanjutan
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Kontribusi AI bagi pendidikan berkelanjutan sebagai termediasi tata kelola
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Pembelajaran berkelanjutan" sebagai agensi kognitif yang tahan lama, bukan klaim lingkungan

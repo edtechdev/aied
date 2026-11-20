@@ -30,7 +30,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
-
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -49,8 +49,3 @@ ai_assist:
 
 ## ملاحظات
 لا يسمّي موقع المنتج أي مؤلف فردي ويوجّه الطلبات إلى صندوق بريد المشروع؛ وDrawSplat من بناء Miguel Guhlin، الذي يوثّق موقعه إطلاقاتها. والشيفرة حرة بمعنى الترخيص لا بمعنى السعر فقط: فالسبورة بترخيص GNU AGPL-3.0-or-later وتطبيقات SplatWorks بترخيص GPL-3.0-only، بلا ترخيص لكل مقعد على أجهزة الطلاب. والأدوات التي تقرأ ملفاتك تعمل محليًا في المتصفح، في حين أن الحفظ السحابي وأي طلب تعلّم مهني يرسلان بيانات فعلًا، فراجع صفحة جرد التخزين قبل استخدامها مع أعمال الطلاب.
-
-## المفاهيم المرتبطة
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

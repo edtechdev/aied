@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -85,47 +87,3 @@ Neno lenyewe linabishaniwa katika ngazi ya vyanzo. [[deimann-rethinking-openness
 **"Mifano ya mipaka iliyofungwa ni bora zaidi, kwa hivyo mifano huria ni mbadala wa akiba."** Pengo ni dogo kuliko dhana hiyo inavyodokeza. Katika [[cdpk-pedagogy-benchmark-llms|Kiwango cha Ufundishaji]] (CDPK + SEND, kilichojengwa kutoka vipengele halisi vya mtihani wa walimu wa Chile) kinachohusisha mifano 97, **DeepSeek R1** wa uzito wazi ilifikia **86.65%**, dhidi ya kumi bora inayoundwa zaidi na mifano ya kufikiri iliyofungwa, na ulinganisho wa gharama na usahihi unaenda mbali zaidi upande wa wazi. Hoja iliyosalia kwa ufunguzi kwa hivyo inahusu udhibiti na uwezo wa ukaguzi, si kujitoa uwezo.
 
 **"Kutoa uzito ni kutoa kazi."** Michango huria yenye nguvu hutoa mtiririko wote. OmniEdu inachapisha usimamizi uliosawazishwa wa uwezo juu ya mchanganyiko wa mifano 69,999 badala ya uzito wa mwisho peke yake, ikipandisha kila kiwango cha familia huria ya 4B/9B/27B ya K-12, huku mfano wa 4B uliorekebishwa ukipata **pointi 55** za utendaji wa [[scaffolding|scaffolding]] wa MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] vivyo hivyo inaeleza utaratibu wake wa RL na marekebisho ya ustadi, ikiwemo hasi ngumu 440 zilizochimbwa na majibu 40,000 yaliyozalishwa. Uzito bila mapishi huzalisha tokeo bila kuzalisha mbinu.
-
-## Dhana Zilizounganishwa
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Makala Zilizounganishwa
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Msaidizi wa hifadhi ya maarifa ya AI ya OER ya ndani ya eneo kwenye vifaa vya watumiaji (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — Mwalimu unaobadilika wa leseni ya MIT na maktaba ya maudhui ya OpenStax ya CC BY (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Mfano wazi wa 32B wa kielimu unazidi mifumo mikubwa zaidi ya biashara (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Kipanga alama cha ndani cha LLM chenye kuzingatia FERPA cha kuingia kwa haraka
-- [[programming-its]] — LLM wa uzito wazi uliojiweka kwa kuzingatia GDPR/Sheria ya AI ya EU katika ITS ya Python
-- [[aiawe-automated-writing-evaluation]] — Mfano wa uzito wazi uliorekebishwa na LoRA kwa tathmini ya uandishi otomatiki
-- [[stanbkt-bayesian-knowledge-tracing]] — Kifurushi cha wazi cha Python kwa ufuatiliaji wa maarifa kamili wa Bayesian
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Mfumo kamili wa ufundishaji wa wakala wa chanzo huria wenye kumbukumbu ya kijifunza
-- [[vismatic-secure-sandbox-cs-education]] — Sanduku ya kontena ya wazi kwa tathmini inayoelekezwa kwa mchakato
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Mwalimu wa hisabati anayejua hisia mwenye msimbo wa chanzo huria
-- [[cdpk-pedagogy-benchmark-llms]] — Wiana la wazi la ufundishaji katika mifano 97 na mpaka wa gharama–usahihi
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Seti ya data ya wazi na mfano wa kwanza kwa tathmini ya ufundishaji wa wakala wengi inayotegemea nyayo
-- [[mllm-scientific-visualization-literacy]] — Mifano ya wazi chini ya msingi wa binadamu kwa ujuzi wa uonyeshaji
-- [[iks-instruct-dataset-indian-knowledge]] — Seti ya data huria ya lugha nyingi kwa maagizo yanayotokana na kitamaduni
-- [[aied-carbon-footprint-reporting]] — Mbinu ya chanzo huria ya kuripoti gharama ya mazingira ya LLM
-- [[egai-power-systems-education]] — Maktaba ya moduli inayoweza kutekelezwa ya wazi kwa AI ya uhandisi
-- [[mooc-to-maic]] — Uzalishaji wa kozi unaoendeshwa na LLM na mabadiliko ya uchumi wa uzalishaji wa kozi
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Mifano ya Msingi ya Wazi kwa Kujifunza na Kufundisha

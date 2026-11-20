@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -117,45 +119,3 @@ Külliyatın büyük bir bölümü otomasyon önyargısını test etmeden bir te
 - **“Döngüdeki bir insan bunu düzeltir.”** Döngü ancak müdahale fırsatı kadar iyidir ve puanlama çalışmaları sabitlemeyi ölçmemiştir.
 - **“Bu bir öğrenci sorunudur.”** Külliyatın betimlediği her tasarımda onay verenler öğretmenler, puanlayıcılar, açıklayıcılar ve yöneticilerdir.
 - **“Daha iyi eğitimin ortadan kaldırdığı bir karakter kusurudur.”** Eğitim yardımcı olur, ama aynı kişi doğrulamanın ucuz olup olmamasına, çıktının akıcı olup olmamasına ve aynı fikirde olmamanın bir bedeli bulunup bulunmamasına göre farklı davranır.
-
-## Bağlı kavramlar
-
-- [[trust-calibration]] — otomasyon önyargısının başarısızlığını adlandırdığı yaslanma durumu
-- [[bias-mitigation]] — sistem tarafındaki karşılığı: modelin içindeki önyargı
-- [[cognitive-offloading]] — zihinsel işin devri; denetlenmeyen kabul bunun bir sonucudur
-- [[human-in-the-loop-ai]] — gücünü bu başarısızlığın belirlediği güvence
-- [[explainable-ai]] — külliyatın önerdiği ve nadiren test ettiği şeffaflık müdahalesi
-- [[learning-analytics]] — ihmal hatalarının yoğunlaştığı gösterge panelleri ve erken uyarılar
-- [[recommender-systems-and-learning-paths]] — sırada ne yapılacağını sıralamak; öğrenci bunu yalnızca izleyebilir
-- [[automated-assessment]] — insanın yeniden okumadan kabul edebileceği puan
-- [[scaffolding]] — kabulden daha ucuz kalan denetimler
-- [[self-efficacy]] — standart öngörünün dayandığı özellik
-- [[ai-detection]] — zaman baskısı altında insanların yargıladığı tespit
-- [[remote-proctoring]] — bir modelin ürettiği ve bir kişinin karara bağladığı şüphe
-- [[ai-literacy]] — notlandırılan bir beceri olarak doğrulamanın yaşayacağı yer
-
-## Bağlı makaleler
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — ince veri üzerine kurulu önerilere boyun eğmemeleri için uyarılan öğretmenler
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — puanlayıcıların YZ puanlarıyla sabitlenmesini test edilmemiş risk olarak adlandırır ve körleştirme önerir
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — genel örüntü olarak gösterge panelleri, yüzeysel özellik geri bildirimi ve trafik ışıkları
-- [[factria-responsible-institutional-analytics-2026]] — on bir paydaş, dört vaka, öneri yapmayı reddeden bir sohbet botu
-- [[ludia-udl-ai-thought-partner-2026]] — aracın alan bilgisine güvenmekle zayıflayan eğitimci güvencesi
-- [[extended-minds-coupling-flexibility-2026]] — otomasyon önyargısı onu bozuyorsa biçimsel bir ret hakkı gözetim değildir
-- [[ground-truth-reliability-aied]] — LLM açıklaması, döngüsel doğrulama ve sessiz etiket kayması
-- [[polished-artifacts-fragile-engagement-2026]] — azalan epistemik çabanın sosyal-bilişsel kolu olarak otomasyon önyargısı
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — özyinelemeli insan-YZ işinde dört başarısızlık biçiminden biri
-- [[eight-mode-ai-engagement-typology-2026]] — Kâhin biçimi ve karakteristik riski
-- [[assessing-student-drive-framework-2025]] — otomasyon önyargısına karşı güvence olarak etkin insan failliği
-- [[sun-llm-nursing-education-professional-identity-2026]] — YZ’nin dışsal mı kurucu mu işi yerinden ettiğine dair 489 çalışma
-- [[geoscience-field-learning-genai-2026]] — kanıta bağlı saha çalışmasında sabitleme, doğrulama ve otomasyon önyargısı
-- [[ahmadfard-interactive-oer-review-2026]] — öğrenen ve öğretmen failliğini aşındıran riskler arasında sayılan otomasyon önyargısı
-- [[alshahrani-health-sciences-ai-use-2026]] — açık eğitim gerekçesi olarak okunan 310 öğrencinin etik kaygıları
-- [[ai-literacy-legal-translation-2026]] — kalite yanılsaması baskılarına karşı notlandırılan beceri olarak öğretilen sonradan düzenleme
-- [[morales-cevallos-ai-forensic-science-education-2026]] — incelenen adli YZ çalışmalarında belgelenen otomasyon önyargısı
-- [[rana-genai-design-thinking-2025]] — insan yargısını merkezde tutan iskeleler
-- [[kim-overtrust-ai-literacy-2026]] — tersine dönen öngörü: kendine güvenen öğrenciler araca daha çok güvendi
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — otomasyon önyargısı araştırması üzerine kurulu bir çerçeve, onun testi değil
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — eleştirel yurttaşlığı aşındıran üç mekanizmadan biri
-- [[academic-erasure-complexity-ai-writing-2026]] — YZ kullanımını denetlemenin duygusal emeği içinde otomasyon önyargısı
-- [[llm-fallacy-misattribution]] — en yakın ayrım: bir sisteme aşırı yaslanmak ile algılanan kişisel yetkinlik

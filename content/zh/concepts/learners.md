@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -110,50 +112,3 @@ ai_assist:
 **“学生用 AI 走捷径是一种道德缺陷。”** 最小努力引力是设计与政策问题，而不是品格问题：学生用自己的话描述了它，而[[reducing-ai-misuse|滥用]]与[[academic-integrity|诚信]]文献把杠杆定位在任务与环境设计上。用道德来框定它，无法解释为什么同一个学生在两门课上行为不同。
 
 **“一旦提出不当行为指控，证据就在那里。”** 案卷显示的立足点更弱：被引用的是评级最弱的证据，没有任何证据底线决定案件是否推进，证据薄弱的案件最终走向申诉。只记录学习者的使用、而不记录他们如何遭遇指控，只覆盖了一半的经验。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — 学习者如何感知、与AI互动并受其影响
-- [[learner-identity]] — 学习者相对于一门学科和相对于AI正成为谁
-- [[agency]] — 学习者仍控制并选择什么
-- [[student-ai-interaction]] — 学习者实际向AI要求什么，以及对话如何演进
-- [[cognitive-offloading]] — 过度依赖与以AI替代思考
-- [[self-regulated-learning]] — 规划、监控并调整自己的学习
-- [[help-seeking]] — 求助得当，以及学习者求助不当时的失效模式
-- [[metacognition]] — 知道自己理解什么、不理解什么
-- [[motivation]] — 学习者为何坚持或停止
-- [[self-efficacy]] — 学习者对自身能力的信心
-- [[student-engagement]] — 行为性、情感性与认知性投入
-- [[prior-knowledge]] — 决定支持变成学习还是替代的背景知识
-- [[student-modeling]] — 在系统内部表征学习者
-- [[knowledge-tracing]] — 随时间估计技能习得
-- [[simulating-students]] — 作为临时替身的LLM模拟学习者
-- [[ai-literacy]] — 决定学习者能否用好AI的能力
-- [[equity-in-ai-education]] — 谁受益、谁被落下
-- [[well-being]] — AI介导学习的焦虑、压力与情感代价
-- [[misconceptions]] — 学习者带入AI的心理模型
-- [[stakeholders]] — 同一领域的另一面：教师、领导者、设计者
-- [[assessment]] — 哪些学习者能力最终变得可见
-
-## 关联文章
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — 依赖模式与评价素养分裂了学生结果
-- [[student-perceptions-ai-study-productivity-2026]] — 学习者报告效率增益，同时伴随依赖之忧
-- [[student-llm-interaction-taxonomy-review-2026]] — 面向学习的学生-LLM互动分类法
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生-AI聊天中的学科特异性模式
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 有受助表现增益而无独立能力
-- [[genai-performance-vs-learning]] — 为什么受助表现与无助学习必须分开测量
-- [[shaw-nave-cognitive-surrender-2026]] — 认知投降作为一种性情，而非意外
-- [[metacognitively-discordant-completion-genai-2026]] — 注意到自己并不理解却仍然提交的学习者
-- [[verification-quality-reliance-calibration-genai-2026]] — 核查质量与依赖校准
-- [[simulating-students-llm-review-2026]] — 模拟学生：架构、机制与局限
-- [[stanbkt-bayesian-knowledge-tracing]] — 贝叶斯知识追踪中的参数估计
-- [[demographic-signals-llm-student-assessment-2026]] — 基于LLM的评估中的隐性与显性人口学信号
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI素养、投入与心理资本
-- [[genai-student-experiences-uk-he-survey-2026]] — 学生描述"最省力"的引力
-- [[mulisa-students-genai-integrity-perspectives-2026]] — 学生论GenAI是作弊工具还是学习伙伴
-- [[munoz-misconduct-allegation-evidence-2026]] — 不当行为指控案卷实际包含什么作为证据
-- [[wright-transcription-not-generation-2026]] — 过度包容的AI规则与它捕获的学生
-- [[sharma-judgment-visible-genai-assessment-2026]] — 诚信作为评价性判断而非服从
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 远程监考对学生的情感与公平代价

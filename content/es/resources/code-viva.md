@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,8 +44,3 @@ Profesorado de cursos de programación que quiere evidencia de que un estudiante
 ## Notas y advertencias
 
 Todo se ejecuta en el navegador: el curso vive en el almacenamiento local con una exportación JSON, las preguntas viajan en la parte de un enlace que los navegadores no envían a los servidores, y las respuestas solo vuelven como códigos que el estudiantado elige enviar, de modo que ningún dato del estudiantado llega a un tercero. El generador de preguntas se basa en reglas y no en un modelo. Según la propia herramienta, su lector de código es heurístico, así que un formato inusual o las macros pueden ocultar una función, y una puntuación puede premiar conocer el vocabulario en lugar de entender el código, por lo que las puntuaciones son propuestas que el profesorado aprueba y por lo que aconseja mantener las apuestas bajas. No se publica ninguna licencia ni repositorio de código, y como los enlaces llevan las preguntas ocupan unos pocos kilobytes, suficiente para desbordar un cuadro de mensaje de un sistema de gestión del aprendizaje.
-
-## Conceptos conectados
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]
-

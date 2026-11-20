@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -115,7 +117,6 @@ Kaksi naapurisivua käsittelevät tarkoituksellisesti jotain muuta. [[philosophy
 
 Viitekehykset eivät ole näyttöä. Ne on yleensä lainattu LLM-aikaa edeltävistä konteksteista, ja niiden soveltaja lokalisoi ne; ne voivat toimia brändäyksenä, ja vaihemallit houkuttelevat valintaruutuomaksumiseen, joka raportoi liikettä tasojen läpi oppimisen sijaan. Viitekehykseen nojaavia väitteitä tulisi lukea rinnakkain [[limitations-in-aied-research|alan läpikäyvien rajoitusten]], tuloksen mitanneen instrumentin [[assessment-validity|validiteetin]] ja [[self-report-measures|itsearvioinnin]] tunnettujen rajojen kanssa.
 
-
 Mekanismin ja teorian linjaus voi silti olla ratkaisevaa: temaattinen synteesi 55 tekoälytuetusta [[game-based-learning|pelipohjaisen oppimisen]] tutkimuksesta havaitsi, että tehokkuus riippui siitä, toteuttiko tekoälymekanismi sen pedagogiikan, jota sen oli tarkoitus palvella, eikä algoritmisesta hienostuneisuudesta ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ja Yurt (2026)]]).
 
 ## Yleiset väärinkäsitykset
@@ -127,32 +128,3 @@ Mekanismin ja teorian linjaus voi silti olla ratkaisevaa: temaattinen synteesi 5
 **"Oppimisteoriat, oppijan mallit ja omaksumisviitekehykset ovat vaihdettavia linssejä."** Ne vastaavat eri kysymyksiin — miten oppiminen tapahtuu, mikä on oppijan tila ja miksi käytäntö leviää — ja niiden näyttötyypit eroavat vastaavasti. Väärän kerroksen valinta tuottaa tutkimuksen, joka mittaa oikeaa muuttujaa väärää ennustetta vasten, mikä näyttää nollatulokselta, vaikka kyse on kategoriavirheestä.
 
 **"Mitä enemmän viitekehyksiä, sitä kypsempi ala."** Tekoälyaikakaudelle kehitetyt viitekehykset kertyvät nopeammin kuin niitä testataan, ja kertyminen ilman kumoamista on oire eikä edistystä. Kypsyys näkyy siinä, että kilpailevat ennusteet ratkaistaan, ei sanaston kasvuna.
-
-## Liittyvät konseptit
-
-- [[theory-development-aied]] — teorian rakentaminen ja uudistaminen alalla
-- [[philosophy-of-ai-in-education]] — normatiivinen ja käsitteellinen kerros
-- [[learning-theories]] — oppimisteorian yläkäsite
-- [[learning-sciences]] — naapuriala, josta suurin osa teoriasta on lainattu
-- [[limitations-in-aied-research]] — mitä näyttöpohja voi tukea ja mitä ei
-- [[tpack]] — opettajan tietämyksen viitekehys
-- [[technology-acceptance-model]] — omaksumisviitekehykset
-- [[item-response-theory]] — mittausmalli
-- [[universal-design-for-learning]] — suunnittelukehys
-- [[research-methods-aied]] — miten teoriaa testataan
-
-## Liittyvät artikkelit
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionaaliset affordanssit ehdotettuina neljäntenä kategoriana affordanssitaksonomiassa
-- [[ai-game-based-learning-systematic-review-2026]] — Mekanismin ja teorian linjaus, ei algoritminen hienostuneisuus, ohjasi tehokkuutta 55 tekoälypohjaisen pelioppimistutkimuksen joukossa
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — neljä vuosikymmentä AIEDia AI×Ed-viitekehyksen kautta
-- [[educating-minds-generative-ai-2026]] — teoriaraskas synteesi generatiivisesta tekoälystä ja oppimisesta
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — toimintateoria sovellettuna opettajien ammatilliseen kehittämiseen
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — toimintateoria ja opettajien omaksuminen
-- [[generativism-learning-theory]] — generatiivisen tekoälyn aikakaudelle ehdotettu oppimisteoria
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — kohti episteemisen yhteistoimijuuden teoriaa
-- [[absent-cognitive-baseline-2026]] — tekoälyn kanssa kasvaneiden opiskelijoiden itsearvioinnin rakenteellisen aukon teoretisointi
-- [[yan-agentivism-learning-theory-ai-2026]] — keskikantaman oppimisteoria ihmisen ja tekoälyn vuorovaikutukselle
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrumenttien kehittäminen nuoren konstruktin ympärillä
-- [[mishra-control-vs-agency-history-2025]] — alan perustava kontrollin ja toimijuuden jännite

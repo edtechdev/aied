@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -45,13 +46,3 @@ Les bibliothèques publiques qui veulent héberger un kiosque (le programme acce
 - Les bibliothèques participantes contribuent **\$1,000 par déploiement de kiosque et par an** ; le pilote lui-même est limité aux sites qui ont posé leur candidature.
 - La déclaration de confidentialité est l'affirmation du programme, pas un constat audité ; une bibliothèque devrait confirmer les conditions de conservation et de sécurité des enfants dans son propre accord de traitement des données.
 - Les deuxième et troisième phases de la feuille de route, qui permettraient aux bibliothèques d'ingérer leurs archives locales et de gouverner les systèmes qui en résultent, sont planifiées plutôt que livrées.
-
-## Concepts liés
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

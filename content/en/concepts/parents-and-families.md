@@ -12,6 +12,8 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 reviewed_by: [editor]
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 > **Parents and families** — the household as a stakeholder in [[ai-education|AI in education]]: the caregivers who tutor their children at home, choose and pay for tools, supervise or fail to notice what those tools do, and receive whatever their school communicates about AI. The evidence covers AI-mediated parent–child [[intelligent-tutoring|tutoring]] and [[conversational-ai|conversational]] companions used in the home, the handoffs between home and school, parents' own [[ai-literacy|AI literacy]], and the [[equity-in-ai-education|equity]] consequences of home devices, connectivity and cost. Its scope is the family as an actor — what families do with AI, what reaches them from school, and what the research does and does not establish about the results.
@@ -42,7 +44,6 @@ The clearest design evidence on home tutoring comes from [[paratutor-parent-chil
 ## Companions and reading tools in the home
 
 Families more often meet AI as a companion app than as a tutoring system. [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] compared a fixed "student peer" companion (Whisper with GPT-3.5) against experienced homeroom teachers in book-talk sessions with 19 elementary students in Taoyuan, Taiwan — 12 in Grade 4 and seven in Grade 5, four sessions each. Students spent significantly more time with the AI, yet contributed a markedly lower proportion of words and sentences; for Grade 5 the share was less than a third of what they produced with the teacher, a pattern the paper calls conversational dominance. The companion was effective at eliciting factual recall and significantly weaker than the teacher at [[prompt-engineering|prompting]] emotional and future-oriented reflection — an affective ceiling. Liao's response is a role-adaptive framework in which one companion occupies Student Peer, Teacher Assistant and Parent Advisor roles, the last extending discussion into the home. The diagnosis behind it is a support vacuum: most companion designs stay focused on the student–AI dyad and give teachers and parents no defined place.
-
 
 **A share of adolescents prefer confiding in AI to their parents.** Cited Chinese data put 13.5% of young internet users preferring to confide in AI over their parents, and [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao's (2026)]] framework predicts AI bonding becomes compensatory substitution when caregivers fail to recognize an adolescent's identity-confirmation needs.
 
@@ -87,34 +88,3 @@ A 2026 [[meta-analysis-systematic-review|scoping review]] maps how far the field
 **"Parents will notice if AI is harming their child's learning."** They are the least positioned to notice. In [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu's (2026)]] data, homework scores rose **18%** while [[summative-assessment|closed-book exam]] scores fell **20%** within six months — and the rising number is the one visible at home. A parent watching homework sees improvement while the durable outcome declines.
 
 **"Home AI use is a parental-permission question."** It is a literacy and advocacy question. Parents' own AI literacy determines what they can interrogate about a school-issued tool, and access inequities across families shape which children get adult mediation at all.
-
-## Connected Concepts
-
-- [[developmental-psychology]]
-- [[stakeholders]] — the umbrella page for audiences and actors in AI in education
-- [[early-childhood-elementary-ai-education]] — the developmental domain where home and family use is most studied
-- [[ai-use-disclosure]] — disclosure practices and the question of what reaches families
-- [[ai-literacy]] — parents' own competencies and the school-built frameworks that define them
-- [[equity-in-ai-education]] — how benefits and burdens distribute across households
-- [[digital-divide]] — access, skills and outcomes layers as they apply at home
-- [[conversational-ai]] — the dominant form AI takes in family settings
-- [[self-determination-theory]] — autonomy support as the frame for family guidance
-- [[cognitive-offloading]] — dependent versus autonomous offloading, and why parents cannot see the difference
-- [[intelligent-tutoring]] — the model behind AI-mediated parent–child tutoring
-
-## Connected Articles
-- [[ai-connectedness-adolescent-mental-health-2026]] — Adolescent AI connectedness and when AI bonding substitutes for unmet caregiver recognition
-
-- [[paratutor-parent-child-tutoring]] — role-separated LLM support for 23 parent–child dyads in Chinese home math tutoring
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — fixed peer-role companion versus teacher with 19 elementary students in Taiwan
-- [[family-school-autonomy-support-genai-2026]] — review treating family–school coordination as an untested hypothesis
-- [[raise-framework-ai-education-reporting-2026]] — reporting obligations covering consent, participant context and equity of access
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 teachers on jurisdiction, parents and children's relationships with AI companions
-- [[ai-play-framework-early-childhood-2026]] — unplugged AI literacy tested through a family-centered Hour of Code event
-- [[all-girls-genai-makerspace-gender-equity-2026]] — parents among interviewees; tool cost and language barriers in informal settings
-- [[creative-project-approach-ai-early-childhood-2025]] — physical agents for young children, with cost, access and privacy caveats
-- [[demir-akar-ai-media-literacy-children-2026]] — school program on data privacy, safe communication and media ethics in 36 fourth graders
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — take-up rose from 45% to 83% when family-facing steps were removed
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — homework outsourcing, exam declines and the case for monitoring inputs
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — age-agnostic AI literacy levels and the three-level digital divide
-- [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature

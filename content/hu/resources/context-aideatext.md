@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,12 +48,3 @@ Azoknak a diákoknak, akik egy olvasmányon vagy feladatsoron dolgoznak, és azt
 ## Megjegyzések és fenntartások
 
 A diákoknak szóló eszközhöz nem tettek közzé árat vagy fiókot, míg az intézményi telepítést – felhő, helyszíni vagy hibrid – személyre szabott ajánlaton és megbeszélésen keresztül kínálják; kezeld az „ingyenes”-t a 2026. novemberi nyilvános demó állapotaként, nem garanciaként. A szöveg és a képek egy Claude-ra épülő hosztolt szolgáltatáshoz kerülnek, és az oldal maga kéri a felhasználókat, hogy feltöltés előtt távolítsák el a neveket, összegeket, címeket és cégneveket, ami az anonimizálás terhét a feltöltőre, nem a platformra tolja. A foglalkozások exportálás nélkül egy óra után törlődnek. A mögöttes cég intézményeknek szélesebb, gondolkodásgráf-alapú értékelési platformot is kínál, és a deduktív, induktív, abduktív és analógiás gráfok megkülönböztetésére vonatkozó állításai négy referenciaszövegből származnak – az oldal ezt demonstrációnak nevezi, a nagy léptékű validálás még várat magára.
-
-## Kapcsolódó fogalmak
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

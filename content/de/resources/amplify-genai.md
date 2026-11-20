@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -48,10 +49,3 @@ Zentrale IT und CIO-Büros, die bereits Workloads in AWS betreiben und eine von 
 ## Anmerkungen und Vorbehalte
 
 Kostenlos zu lizenzieren, nicht kostenlos zu betreiben: Die Einrichtung zahlt AWS und die Modellanbieter. Die Modellwahl läuft über Amazon Bedrock (Anthropic, Mistral) oder OpenAI und Microsoft Azure, und der Betrieb eigener lokaler Modelle ist nicht implementiert. Das Projekt erklärt ausdrücklich, dass es einzelne Bereitstellungen nicht unterstützen kann, und verweist Organisationen an kommerzielle Partner — die realistischen Kosten schließen also Personal oder einen Dienstleister ein. Es ist eine Bereitstellung aus drei Repositories (Frontend, Backend, Infrastruktur) mit Dutzenden statt Tausenden Sternen, und der obige Kostenvergleich ist Vanderbilts eigene Erfahrung, keine kontrollierte Studie. Einrichtungen, die Inferenz lieber auf eigener Hardware halten, sollten [MindRouter](/aied/resources/mindrouter/) ansehen und beide zusammen lesen: Amplify ist eine Anwendungsschicht über Anbietermodellen, MindRouter ein Gateway über den eigenen GPUs.
-
-## Verbundene Konzepte
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

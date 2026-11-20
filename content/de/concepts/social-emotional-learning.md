@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -116,42 +118,3 @@ SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Komp
 **„Geringe Persistenz ist ein Motivationsproblem, das Ermutigung beheben kann."** Persistenz ist die wiederkehrende Restriktion in der Bildungstechnologie — das Muster, das [[framing-5-percent-problem-teachers-persistence|das 5%-Problem]] benennt —, und sie wird geprägt von Motivation und Zustimmung, kognitiven Straßensperren *und* Resilienz unter Herausforderung. Ermutigung adressiert eines von drei. Eine lernende Person, die aufhört, weil das Problem ihr Arbeitsgedächtnis überstieg, leidet nicht an fehlender Beruhigung.
 
 **„Zu wissen, dass KI verfügbar ist, ändert nicht, wie Studierende Anstrengung investieren."** Es kann, und der Effekt läuft für die schwächsten Lernenden in die falsche Richtung: [[ai-availability-student-motivation|KI-Verfügbarkeit]] kann den wahrgenommenen Wert anstrengungsvollen Engagements senken, besonders bei Novizinnen und Novizen. Verfügbarkeit allein ist eine motivationale Intervention mit negativem Vorzeichen, weshalb SEL-nahes Design die Anwesenheit eines hilfreichen Systems nicht als neutral behandeln darf.
-
-## Verbundene Konzepte
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[liu-genai-sel-mapping-review-2026]] — Ein Mapping-Review über 43 Studien zu GenAI und SEL: ungleichmäßige Kompetenzabdeckung und dünne ethische Berichterstattung
-- [[sec-ai-literacy-narrative-review-2026]] — Integration sozial-emotionaler Kompetenzen in KI-Kompetenz
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Die Vertrauenslücke im Blick: Sicht von Lehrkraft und Studierenden
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Das gerüstete KI-Kompetenz-Framework (SAIL)
-- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Abhängigkeit von KI, Selbstwirksamkeit und Ressourcenmanagement bei Studierenden
-- [[self-efficacy-tutoring-learning]] — Selbstwirksamkeit und Sympathie prägen das Lernen durch Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Von der Substitution zum Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — KI-Chatbots und kollektive Wirksamkeit
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: affektives Mathematik-Tutoring
-- [[ai-campus-wellbeing-tools]] — KI-gestützte Campus-Wohlbefinden-Werkzeuge
-- [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der KI-×-SEL-Forschung
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Emotionale Mikro-Interventionen in Echtzeit und ein Phrasenbuch für Lehrende
-- [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie ab, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantische KI verdrängt die Suche nach menschlichem Rat und senkt die Zufriedenheit mit realer Interaktion (Ibrahim et al. 2026)

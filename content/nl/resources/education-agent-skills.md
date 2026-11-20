@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -41,7 +42,3 @@ De onderscheidende bewering van het project is de onderbouwing: skills citeren h
 ## Opmerkingen en kanttekeningen
 
 De onderwijsskills, documentatie en curriculummaterialen zijn gelicentieerd onder CC BY-SA 4.0, dus hergebruik en aanpassing zijn open, terwijl afgeleiden dezelfde licentie moeten dragen. Twee operationele details doen ertoe als u het uitrolt. Het gehoste MCP-eindpunt vereist tokens en staat niet open voor iedereen, en omdat de server een gecommitte momentopname aanbiedt en niet de SKILL.md-bestanden, verschijnt een skill die u toevoegt zonder de bundel opnieuw te bouwen en te committen niet op de live server, ook niet na een nieuwe deployment. De bibliotheek is gebouwd door Gareth Manning, een onderwijsontwikkelaar en curriculumontwerper, en de licentievoorwaarden gelden specifiek voor de onderwijsinhoud.
-
-## Gerelateerde concepten
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

@@ -10,6 +10,8 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 > **Early childhood education** — the use of artificial intelligence in the education of young children, from preschool through the first years of primary school (roughly ages 3 to 8). This covers AI-literacy and [[computational-thinking|computational thinking]] for young learners, AI-enabled toys and play, classroom robots, early [[personalized-learning|personalized learning]], and the developmental, safety, and equity considerations that apply to children rather than adolescents or adults. Later primary grades are on [[primary-education|primary education]].
@@ -62,7 +64,6 @@ This page covers the preschool and early-primary years, where play is the domina
 - **AI literacy as classroom interpretive work, not individual knowledge.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca and Yigit-Gencten (2026)]] coded 17 storytelling sessions in a Turkish preschool where the teacher wrote every Midjourney prompt and the class watched outputs on a shared screen. Children explained mismatches by attributing thought, hearing and intent to the system ("it couldn't think of it well enough"), debated prompt-output links, and voted on which images to keep. Because the teacher's questions decided which explanations were taken up, and sometimes closed inquiry altogether, early AI literacy here is distributed across the activity rather than held by a child.
 - **The pre-service literature has not organized around AI.** A bibliometric map of 86 publications on early childhood teachers' digital and media literacy found AI present but too scattered to form a thematic cluster, with digital competence at the center and media literacy only loosely attached ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova et al., 2026]]).
 
-
 ## Unplugged and constructionist routes, and what engagement proves
 
 The frameworks above present unplugged play as the developmentally appropriate entry to AI concepts. The wider primary literature treats it as a minority design. In the 25 studies [[yim-ai-literacy-primary-schools-review-2025|Yim and Su (2025)]] reviewed, agents appeared in 15 and software-focused devices in 8, while unplugged activities appeared in 3. Unplugged work here is a defensible [[pedagogy|pedagogical]] argument more than a measured one: the base for it is thinner than for agent- and device-based designs.
@@ -86,52 +87,3 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - **"Teachers will use AI to generate whole lessons."** Teachers delegated most often (**60%**) **to fill content gaps in a self-outlined lesson** rather than to generate whole plans. The unit of delegation is the gap, not the lesson.
 - **"Young children gain less from AI-supported media literacy."** The AI-supported group showed **large gains in media reading (+3.50), writing (+1.67) and total media literacy (+5.17, all p < .01)** with between-group effect sizes d = 1.12 or higher. The gains were large in this age band, not marginal.
 - **"Automated observation agrees with human raters across the board."** Agreement was **moderate overall (weighted κ = 0.681) but conditional on the construct**: convergence held for the **Emotional Support** domain and for **Quality of Feedback**, and not elsewhere. Averaging over the domains hides where the instrument fails.
-
-## Connected Concepts
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Connected Articles
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational thinking through robotics in kindergarten
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing instruction in the age of GenAI
-- [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
-
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — AI-mediated tools in primary English language education: a scoping review of pedagogical functions and teacher orchestration
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Digital and media literacy of pre-service early childhood teachers in the context of digital education: a bibliometric analysis of research trends
-- [[yim-ai-literacy-primary-schools-review-2025]] — Artificial intelligence literacy education in primary schools: four strands, constructionist teaching, and a self-report-heavy evidence base (Yim & Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — Mapping elementary science research: five application clusters, teacher mediation, and thin epistemic outcomes (Barokah et al. 2026)

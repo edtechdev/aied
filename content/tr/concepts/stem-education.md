@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -83,48 +85,3 @@ STEM’in yapılandırılmış bilgi temsili, doğrulanabilir cevapları ve hesa
 - **“Zeki öğretim STEM genelinde tekdüze işler.”** **20 yayının (2020-Nisan 2026)** yapılandırılmış bir anlatısal incelemesi, en net ölçülen avantajı özellikle **gerçek zamanlı tanılama** yapan öğretimde bulmuştur. Kanıt **sınırlı ve koşulludur**; bunu tüm matematik ITS’lerine genellemek, incelenenin ötesine geçer.
 - **“Simülasyon, uygulamalı çalışmanın soluk bir yedeğidir.”** Simülasyon grubu **müfredata uygun STEM bilgisinde uygulamalı gruptan daha fazla kazanmıştır (M = 3,00’a karşı 2,06; t(28) = 2,23, p = ,034, d = 0,82)**. Simülasyon, gerçek şeyin altında performans gösteren bir yedek değildi.
 - **“YZ destekli bir literatür iş akışı esas olarak zaman kazandırır.”** **80 belge üzerinde 20 öğrenciden** alınan sonuçlar **deneysel parametrelerin %90’ından fazlasının çıkarılmasını, literatür tarama süresinde kabaca %65 azalmayı ve öğrencilerin etkili çalışmaları belirleme becerisinde %50 artışı** göstermiştir. Yetenek kazancı daha büyük sonuçtu, zaman tasarrufu daha küçüğü.
-
-## Bağlı kavramlar
-
-- [[learner-identity]] — Evrilen disiplinsel, mesleki, yaratıcı ve akademik öğrenen kimlikleri
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deney felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim asistanları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özelleşmiş araçlar
-
-## Bağlı makaleler
-
-- [[ai-pedagogical-accompaniment-amico]] — STEM kimliğini destekleyen YZ destekli pedagojik eşlik
-- [[lnenicka-secondary-students-genai-stem-2026]] — Ortaokul öğrencilerinin STEM kapsamında GenAI araçlarıyla fiilen ne yaptığı
-- [[dai-chatbots-problem-posing-primary-2026]] — İlkokul fen bilgisinde GenAI sohbet robotları ve problem kurgulaması
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM’da sorgulamaya dayalı öğrenme için ChatGPT
-- [[niri-steam-ai-literacy-review-2026]] — YZ okuryazarlığı için STEAM eğitimi: sistematik inceleme
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Derin öğrenme için uyarlanabilir YZ tabanlı STEM programı
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Öğretmen adaylarının ChatGPT kabul profilleri
-- [[zhang-ct-ai-training-test-2026]] — YZ Eğitim Testinde Hesaplamalı Düşünme (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Araç, özel ders hocası mı dayaak mı: YZ destekli programlamanın temel kuramı
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Fen/kimya eğitiminde YZ üzerine sistematik inceleme
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Lisans tezi ve araştırma temelli öğrenmeyi destekleyen YZ destekli bilgi çıkarımı (An ve ark. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Öğretmen–YZ birlikte tasarlanmış iskelelerle simülasyon destekli İHA öğrenimi
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 çalışma kapsamında YZ destekli STEM öğretiminin birleştirilmiş etkisi; en büyük kazanımlar lisede (Doğan ve ark. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM’de dijital ikizler: incelenen her çalışma çalışan bir prototip sunmuş, çok azı öğrenmeyi ölçmüştür
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 45 dakikalık bir istem yazma ve hata denetimi oturumu fizik son test puanlarını yükseltti (*d* = 0,814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Matematik ITS kanıtı sınırlı ve koşulludur

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -93,48 +95,3 @@ ai_assist:
 - **「例題が多いほうが安全だ」。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger、Carvalho(2025)]]は例題と問題の比率を**内容と処遇の交互作用**として扱い、2×2の実験では最適値が**内容に依存した**。普遍的に正しい比率は存在しないため、固定された教授テンプレートは交互作用に逆らう賭けである。
 - **「[[misconceptions|誤概念]]の修正は、学習者に正しい答えを伝えるだけの話だ」。** 欠けている制約を明示する[[feedback|フィードバック]]を伴う短い「行動しない」練習により、誤適用は**0.0%-23.1%(Cohen's h 1.70-2.44)**まで減少し、**13件のK-12 *Decimal Point* データセット**の二次分析でも同じ構造的パターンが見いだされた。効果のあった介入は、標的を絞ったフィードバックを伴う弁別的練習であり、断定による訂正ではなかった。これは[[refutation-text|反駁]]の研究が一般に確立していることである。
 - **「Bloomのレベルが高いほど[[active-learning|アクティブラーニング]]が多い」。** 下位レベルでは習得が支配的で、**Bloomレベル1では活動の約50%**を占めたが、**レベル6では約20%**まで縮小した。認知的要求と活動タイプは連動するが同一の軸ではないため、課題にBloomレベルのタグを付けても、学習者がその課題で何をするのかは分からない。
-
-## 関連概念
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## 関連記事
-
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 生成AIが高める学習過程と脅かす学習過程についての30人の専門家による事前登録デルファイ
-- [[three-pathways-student-ai-interaction-2026]] — 学生とAIの相互作用の類型：64%が受動的または取引的、36%が戦略的な対話
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 自己調整的な関与を動かしたのは、エージェントの種類ではなくフィードバックの様式
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 過程の証拠はチャネルに条件づけられる
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — 生成AI利用の分布は制度的な選択である
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 個人内の依存は、知覚された主体性の低下に先行する
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — ラグ系列分析とプロセス・マイニングは、事前概念の構成に応じてAIをグループ相互作用のハブまたは線形の経路上に位置づけた（Wang et al. 2026）
-

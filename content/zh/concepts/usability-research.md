@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -73,26 +75,3 @@ ai_assist:
 **"放弃一个工具的学生缺乏动机。"** 放弃常常是用户对一项设计者从未测量过的交互成本所作的正确判断。因为一个没人使用的工具不可能有效应，放弃率本身就是一种教育结果。
 
 **"可用性测试等同于测量学习。"** 它们回答不同的问题，彼此都不能替代对方；失败的模式是把其中任何一个当作采纳的充分条件。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## 关联文章
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — 一项 LLM 驱动讲故事人形机器人的可用性研究
-- [[rhaimi-productivemath-2025]] — ProductiveMath：一款生成式 AI 应用的可用性
-- [[supplynet-visual-exploratory-learning]] — SupplyNet 用户研究
-- [[anvil-ai-educational-animations]] — AI 生成教育动画的可用性
-- [[code-anchor-multi-view-visualization]] — 多视图代码可视化的有声思维研究
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN 框架与有声思维评价
-- [[feedback-futures-genai]] — 学习者如何处理 AI 生成的反馈
-- [[llm-chatbots-cs-multiple-choice]] — 用于 CS 选择题的 LLM 聊天机器人
-- [[conversational-ai-agents-umbrella-review-2026]] — 对话式 AI 智能体的伞式综述

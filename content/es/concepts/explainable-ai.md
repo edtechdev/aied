@@ -27,7 +27,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -110,51 +111,6 @@ Para la explicabilidad en concreto, las tareas que importan son las que obligan 
 - **"Una explicación que satisface a los usuarios ha explicado el sistema."** El mismo fallo de legibilidad aparece en el lado de la seguridad de la [[automated-assessment|evaluación automatizada]]: [[humble-prompt-injection-ai-grading-red-team-2026|el red team de Humble (2026)]] encontró que un flujo de calificación cotidiano podía manipularse con instrucciones inyectadas. Una narrativa plausible y una auditable son artefactos distintos.
 - **"La práctica general de XAI se traslada a la educación."** El [[xai-education-framework|marco XAI-ED]] (Khosravi et al., 2022) insiste en que la educación tiene **necesidades de explicabilidad distintivas** más allá de la XAI general, porque la audiencia incluye estudiantes que deben actuar sobre la explicación y no auditores que deben certificarla.
 - **"La fidelidad es una propiedad que se puede afirmar sin sondearla."** La fidelidad medida requiere la **eliminación contrafactual de tramos críticos de la rúbrica** junto con valoraciones humanas. Que la alineación entre atención y rúbrica alcance el **78,0% frente al 41,7% de GPT-4 en zero-shot y el 32,1% de BERT** es un resultado comparativo de ese tipo de sondeo, no de una afirmación sobre interpretabilidad.
-
-## Conceptos conectados
-
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artículos conectados
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 participantes y tres métodos de saliencia: satisfacción y confianza planas, y desempeño en la tarea y métricas de fidelidad en desacuerdo (Kares et al., 2027)
-- [[lund-socially-accountable-data-science-xai-2026]] — Un marco de cuatro pilares (capacidad de respuesta, responsabilidad, exigibilidad, reflexividad) para enseñar la XAI como práctica de rendición de cuentas (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Diseño sensible a los valores de un ITS centrado en el estudiante (explicaciones colaborativas frente a explicaciones brutas)
-- [[xai-education-framework]] — XAI-ED: el marco fundacional de la IA explicable en educación (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Las explicaciones específicas del dominio construyen la confianza y la aceptación de los docentes (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Perspectivas del estudiantado sobre la evaluación asistida por IA transparente (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Rastreo del conocimiento interpretable
-- [[explainable-probabilistic-kt]] — Rastreo del conocimiento explicable mediante incrustaciones probabilísticas
-- [[neural-symbolic-knowledge-tracing]] — Rastreo del conocimiento neurosimbólico
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilar modelos de caja negra en modelos de lenguaje autoexplicativos para la analítica del aprendizaje
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica del aprendizaje federada y explicable para un modelado de riesgo que preserva la privacidad
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recurso contrafactual con restricciones semánticas para el apoyo a la decisión educativa
-- [[fair-explainable-edu-recommendations]] — Recomendaciones educativas justas y explicables
-- [[multimodal-affective-its-presentation]] — ITS de bucle cerrado interpretable para retroalimentación afectiva multimodal
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explicar la adopción de ChatGPT en la educación superior
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Marco LLM explicable por diseño: atención de doble lente y explicaciones parametrizadas por la puntuación para la evaluación docente automatizada (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompt en la calificación mediada por IA, donde la detección nunca se comunicó al usuario (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Decisiones de calificación tomadas por docentes frente a las tomadas por la IA: una justificación escrita amplió la brecha de justicia
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las citas y las señales de autoridad elevaron la deferencia hacia salidas incorrectas, con algunas referencias mal atribuidas o ficticias
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — modelos simbólicos, subsimbólicos y neuro-simbólicos sobre una misma cohorte atribuyeron sus predicciones a factores distintos
 
 ## Cita
 

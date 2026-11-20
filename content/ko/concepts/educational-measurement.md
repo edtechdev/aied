@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -123,7 +125,6 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 
 요약하자면, 교육 측정은 표집하지 않은 것을 **놓칠** 수 있고(과정, 지속성, 접근, 정서), 조잡하게 표집한 것을 **틀리게** 할 수 있습니다(자기 인식, 표면 특징, 모집단 간 구인). 따라서 AI 교육 발견을 읽는 것은 *무엇*이 측정되었는지뿐만 아니라 *어떻게* 측정되었는지, 그리고 그 검사 도구가 무엇을 포착하지 못했을 수 있는지를 묻는 것을 요구합니다.
 
-
 - **감사 가능한 부호화는 정의 오류와 모형 오류를 분리한다.** EduBehaviors는 한 구인을 개별적으로 주석되는 관찰 가능한 행동과 명시적인 집합 규칙으로 분해하여, 검토자가 어떤 증거가 라벨을 만들어냈는지 보고, 규칙 변경 후에도 새로운 모형 호출 없이 라벨을 재도출할 수 있게 합니다. 이것은 Teacher TalkMoves에서 macro-F1 0.673에 달하여 직접 [[llm|LLM]] 프롬프팅과 경쟁적이었습니다([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado 등, 2026)]]).
 
 ## 연결
@@ -136,72 +137,3 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - **"모델은 문항 난이도를 추정할 수 있다."** 네 개의 프런티어 모델이 **2,548개 수학 문항의 IRT 기준 진실**에 대고 채점되었습니다. 상대적 난이도에서는 **68.6%**에 이르지만 절대적 보정에서는 **우연 수준 아래로** 떨어집니다. 순위 매기기와 보정은 별개의 능력이며, 평가 설계에 필요한 것은 두 번째입니다.
 - **"분류학적 라벨은 문항이 얼마나 어려운지 예측한다."** **265개 수학 문항**에 걸쳐, 의도된 Bloom 수준은 **난이도 분산의 5% 미만**을 설명했습니다. 문항에 Bloom 수준 라벨을 붙이는 것은 그 경험적 난이도에 관해 거의 아무것도 알려 주지 않습니다.
 - **"문항의 질은 문장만 보고 판단한다."** **생성된 문항은 문장이 아니라 해법 경로로 판단하라**는 것이 요점입니다. 각 문항의 **검증된 추론 트리**를 부호화한 것이 두 번째로 좋은 방법보다 성능을 끌어올렸습니다. 신호를 운반한 것은 표면 텍스트가 아니라 추론 구조였습니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## 연결된 문서
-- [[guo-ai-literacy-developmental-paces-2026]] — 타당화된 K–12 AI 리터러시 검사 도구 아홉 개, IRT 아래 지식 검사 셋과 CTT 아래 자기보고 나머지, 어느 것도 과정을 포착하지 못함(Guo, Ali & Wong, 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 서술 평가에서 AI 지원 채점을 위한 인간 참여 프레임워크
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — 학생 역량 평가를 위한 지원 개입의 인과 모형화
-- [[assessment-latent-structure-human-llm-2026]] — 평가 도구는 인간과 LLM에게 같은 것을 측정하는가? (Strugatski 등 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT로 타당화된 생성형 AI 리터러시 검사 (Jin 등 2025)
-- [[icap-cognitive-engagement-llm-agents]] — 확장된 ICAP 프레임워크로 인지 참여 측정하기
-- [[roe-assessment-twins-2026]] — 생성형 AI 아래에서 평가 타당도를 강화하는 평가 쌍둥이
-- [[ai-literacy-heptagon-2026]] — AI 리터러시 헵타곤
-- [[ai-literacy-assessment-misalignment]] — 자기보고 대 수행의 AI 리터러시 불일치
-- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정 이론을 통한 교사 AI 리터러시
-- [[acceptance-ai-english-tools-2026]] — 영어 학습 도구를 위한 AI 수용 측정
-- [[llm-difficulty-calibration-programming-exams-2026]] — 평가된 모형에서 평가 보조 도구로
-- [[llm-item-difficulty-prediction]] — LLM 문항 난이도 예측의 인지적 평가
-- [[multimodal-item-parameter-estimation-2026]] — 다중 양식 문항 모수 추정
-- [[ai-scoring-language-bias-physics]] — 물리에서의 AI 채점과 언어 편향
-- [[ai-writes-code-student-writes-model-2026]] — 모형 저자권: 생성형 AI와 함께 구성하며 배우기의 이론과 측정
-- [[assessing-student-drive-framework-2025]] — DRIVE: 생성형 AI 상호작용을 통한 학습 평가 (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — AI 교육 측정의 십 년간 주제 검토
-- [[questionnaire-teachers-genai-uses-validation-2026]] — 생성형 AI 사용에 관한 교사 질문지 (Pérez-Montesdeoca 등 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — 학습자 프로파일을 위한 AutoML 개인화 신경 인지 구조 탐색
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 머신러닝을 이용한 문항 난이도 추정
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 불변성, HTMT 및 DIF 점검을 포함한 분할 반 탐색적/확인적 요인분석 타당화 — 장난스러움-의도 구인 중첩에 대한 정직한 서술 포함
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: 과정 기반 수학 문항 질 평가
-- [[competent-generative-ai-use-measures-review-2026]] — AI 리터러시를 넘어서: 유능한 생성형 AI 사용의 측정에 대한 구조적 검토와 탐색적 메타분석
-- [[bayesian-consensus-irt-item-banks-2026]] — 베이지안 합의 보정: 끊임없이 진화하는 IRT 문항 은행의 분할 정복 재보정 (Jewsbury 등 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — 엘살바도르 AI 튜터링 파일럿의 학습 주장에 경계를 정하기 (Restrepo Morales 등 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 언제 신뢰할지 알기: 채점 신뢰도의 수단으로서의 모형 자기신뢰도, 확률적 채점, 앙상블
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 고학년 초등 AI 리터러시를 위한 타당화된 15문항 자기평가 질문지 (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — COSMIN 방식의 질 영역에 걸친 교사 AI 리터러시 검사 도구 33개의 체계적 평가 (Zainal 등 2026)
-- [[mental-health-literacy-students-llms-2026]] — 심리학 학생과 대규모 언어 모형에 걸친 정신건강 리터러시
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 향상을 낳음
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 수업에서의 학생 LLM 사용과 AI 생성 문항 난이도의 한계
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 감사 가능한 부호화를 위한 단정 기반 스키마
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
-
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 여섯 요인이 의도한 여섯 하위 요인을 회복하지 못한 42문항 AI 공감 척도
-- [[genai-srl-l2-writing-scale-2026]] — L2 글쓰기를 위한 6차원 생성형 AI-SRL 척도; 개미 군집 최적화 12문항 단축형은 전체 척도를 추적하나(r = 0.910–0.944) 내용 범위를 좁힌다
-- [[bloom-taxonomy-llm-item-classification-2026]] — 인지 분류가 경험적 문항 행동을 예측하는가? 4~12학년의 국가 중앙 집중식 수학 문항에 대한 심리측정적 성질과 Bloom의 분류 체계 정렬
-- [[llm-benchmark-secondary-science-topics-2026]] — 합성 벤치마크: 생성 파이프라인이 측정 품질을 좌우한다
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 난이도는 맞히고 변별력은 놓치는 LLM 난이도 판단
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 같은 구인, 같은 결론? 자기보고 대 수행 측정
-- [[chang-ai-cognitive-offloading-scale-2026]] — AI 인지적 오프로딩 척도의 타당화, 그리고 그것이 생략한 타당도 점검
-- [[tassilova-ai-anxiety-scale-russian-2026]] — 인공지능 불안 척도 러시아어판의 심리측정적 속성: 차원성, 측정 불변성, 개인 중심 프로파일

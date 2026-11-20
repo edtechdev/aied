@@ -30,6 +30,7 @@ verified: [citation]
 translation_of: "resources/vfwa"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -51,11 +52,3 @@ Vedoucí programů a modulů ve vysokoškolském vzdělávání, kteří chtěj�
 Model nebyl hodnocen ve velkém měřítku. Text výslovně uvádí, že dosud neexistuje žádný vzorek, nástroj ani změřený výsledek, a že jsou zapotřebí pilotáže, které ověří, zda artefakty z 1. fáze zvyšují jistotu hodnotitelů nebo interpretační shodu, zda studenti vnímají uspořádání jako spravedlivější a jak obor nastavuje práh dostatečnosti, aniž by z 1. fáze udělal druhý test.
 
 Dvě praktické náklady jsou reálné. 1. fáze vyžaduje pozorované sezení a bezpečné zachycení ve velkém měřítku a vícejazyčné nahrávání a překlad jsou předpokladem, nikoli doplňkem. Interpretační úsudek je navíc záměrně ponechán hodnotitelům: model předpokládá oborovou odbornost, kterou nelze automatizovat, což je personální předpoklad stejně jako designový.
-
-## Související pojmy
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

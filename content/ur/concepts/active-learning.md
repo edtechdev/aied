@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
@@ -86,51 +88,3 @@ AI سے ممکن شدہ فعال سیکھنا اِس علمی ذخیرے میں 
 - **"AI کی معاونت والی تفتیش خود بخود اعلیٰ درجے کی ہوتی ہے۔"** **جماعت 8 کے 120 طلبہ** پر ایک نیم تجربے نے پایا کہ AI کی معاونت والی [[inquiry-based-learning|تفتیشی سیکھنا]] نے تخلیقی ریاضیاتی کارکردگی **اور** ایک تنگ تر پیمانے کو بڑھایا — مداخلت نے کچھ نتائج بدلے، سب نہیں۔ اعلیٰ درجے کے لیبل کے ساتھ تعلق اعلیٰ درجے کے کام کے برابر نہیں۔
 - **"طلبہ کا تدریس ڈیزائن کرنا ایک تکنیکی مشق ہے۔"** اُلٹ پھیر کے مطالعے میں، 700 طلبہ کے کورس میں **345 طلبہ** نے ہر ایک نے ایک مکالماتی ایجنٹ ڈیزائن کیا جو ایک ساتھی کو تین ڈیزائن پیٹرن سکھائے۔ فعال سیکھنا ڈیزائن کے کام سے آیا، جو پرامپٹ انجینئرنگ کے بجائے [[pedagogy|تدریسی]] استدلال ہے۔
 - **"شمولیت کے نتائج سیکھنے کے نتائج ہوتے ہیں۔"** وہی شواہد خبردار کرتے ہیں کہ **بغیر کنٹرول گروپ، رضاکارانہ نمونے** والا ڈیزائن صرف شمولیت کے دعووں کی حمایت کرتا ہے۔ طلبہ نے کھلی ڈیزائن آزادی کو قدر کی نگاہ سے دیکھا (**22.3%** سب سے بڑی مثبت موضوع) اور سب سے زیادہ غیر واضح ہدایات کی شکایت کی (**23.7%**) — دونوں تجربے سے متعلق ہیں۔
-
-## منسلک تصورات
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — چھتری: تعلیم میں AI کی تدریسی حکمتِ عملیاں اور طریقے
-
-## منسلک مضامین
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ٹیوٹرنگ کلاس روم میں فعال سیکھنے سے بہتر: ایک RCT جو مستند تعلیمی ماحول میں نیا تحقیقی ڈیزائن متعارف کراتا ہے (Kestin وغیرہ 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — معاشیات کے لیے فعال سیکھنے والا GenAI فریم ورک (Beck اور Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — AI تعامل کے طریقوں کا EEG مطالعہ (تعاملی > خودکار)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: کئی ایجنٹوں والی نقالی کے ذریعے بصری اکتشافی سیکھنا
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: لیکچر کے بعد کا مرحلہ وار مکالماتی جائزہ
-- [[academic-league-of-ai-2026]] — Academic League of AI: منصوبہ جاتی فعال سیکھنا
-- [[mujib-ai-ibl-creative-math-2026]] — AI کی معاونت والی IBL اور تخلیقی ریاضیاتی کارکردگی
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — سیکھنے والوں کی خصوصیات اور TTS مکالمے کی طرز کے تعاملات
-- [[instructional-guidance-genai-learning]] — پرامپٹ والا بمقابلہ بغیر پرامپٹ AI جائزہ: ماڈل تک رسائی نہیں، ساخت نے کھلے سوالات کے اسکور بدلے
-- [[assigned-ai-preclass-student-engagement-2026]] — کلاس سے پہلے AI مشق نے دوسرے استعمال کے بعد کلاس میں شرکت 31% بڑھائی، پہلے کے بعد نہیں

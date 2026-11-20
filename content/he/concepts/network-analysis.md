@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -86,28 +88,3 @@ ai_assist:
 - **"ניתוח רשתות אובייקטיבי מפני שהוא חישובי."** **הקידוד הוא היסוד**: כל וריאנטי הרשת תלויים בקידוד אמין של נתונים גלמיים (אמרות, אירועים, קשרים) לצמתים בדידים, וקידוד אוטומטי יורש את הגדרותיו ממי שקבע אותן. ה[[visualization|המחשה]] נראית כמו מבנה מתעורר וצמתיה הם בחירות פרשניות.
 - **"שינוי במבנה הרשת הוא כשלעצמו רווח למידה."** בדיון מקרה עם **עשרים סטודנטים לתארים מתקדמים ממולדים-תחום**, **שיעור המונחים המשותפים בגדל 3 עלה מ-5.2% ל-8.0%** בעוד **אסימוני התוכן ירדו לכ-0.65× מרמתם שלאחר הקריאה**. שני מדדי מבנה נעו בכיוונים מנוגדים, ולכן "הרשת השתנתה" אינו ממצא עד שאומרים לאורך איזה מדד ולמה זה חשוב.
 - **"שיתוף של יותר מונחים פירושו שיתוף פעולה טוב יותר."** עלייה בשיעור המונחים המשותפים לצד ירידה במגוון אסימוני התוכן עקבית עם התכנסות לאוצר מילים קטן יותר. קונצנזוס והצטמצמות דומים מבנית, ולכן המדד זקוק לתוכן שממנו חושב.
-
-## מושגים מחוברים
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## מאמרים מחוברים
-- [[caeai-response-length-ai-ethics-education-2026]] — אורך התגובה, לא יישור לקסיקלי, מניע את סטטיסטיקות המונחים המשותפים ברשתות משתתף-מורפמה (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA של אינטראקציות לומד-צ'אטבוט בכתיבת EFL מפוגמת
-- [[tracing-genai-literacy-interaction-patterns]] — ENA של תבנות אינטראקציה של אוריינות GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA של פתרון בעיות שיתופי בין אדם לבינה מלאכותית
-- [[misiejuk-cognitive-offloading-prompting-2026]] — פריקת עומס קוגניטיבי והנחיה (שיטות SNA/רשת)
-- [[youtube-frames-chatgpt-education]] — ENA של מסגרות יוטיוב של ChatGPT בחינוך
-- [[agency-gap-ai-writing]] — פער הסוכנות בכתיבה נתמכת-בינה מלאכותית (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — ENA גם ממפה את שיח-המיומנות של מחנכים

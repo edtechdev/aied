@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,38 +88,3 @@ Identitas pembelajar terhubung dengan [[agency|agensi]] (identitas dipentaskan m
 **"Bantuan AI menurunkan hambatan dan karena itu memperluas partisipasi."** Ia dapat menurunkan hambatan untuk memproduksi karya sekaligus mempersempit hambatan untuk mengklaim kepengarangan. Siswa yang menyerahkan artefak lancar yang tidak ia karang telah diberi akses ke hasilnya dan ditolak pengakuan yang membangun identitas di baliknya.
 
 **"Mengenali identitas pembelajar adalah soal representasi dalam konten."** Representasi itu penting dan pengakuan dipentaskan dalam praktik: pertanyaan siapa yang diambil, kontribusi siapa yang dikreditkan, dan siapa yang diperlakukan sebagai mampu. [[curriculum-design|Kurikulum]] dapat representatif dan tetap menahan pengakuan yang dibutuhkan pembentukan identitas.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Artikel terkait
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 mahasiswa sarjana tentang apa yang tetap mereka kerjakan sendiri, dan mengapa tujuan jarang menentukan itu
-- [[guarded-adoption-genai-higher-education-2026]] — Adopsi Berjaga-jaga atas AI Generatif di Pendidikan Tinggi
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi: identitas kreatif dalam penggunaan GenAI text-to-image
-- [[shame-guilt-ai-regulation-computing-education]] — Rasa malu dan rasa bersalah sebagai pengatur sosial penggunaan AI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Kapabilitas adaptif untuk identitas profesional yang layak di masa depan GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbiosis pedagogis dan pembelajar post-human
-- [[ai-pedagogical-accompaniment-amico]] — Pendampingan pedagogis berbantuan AI yang mendukung identitas STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Merancang untuk penilaian autentik
-- [[paternalistic-filter-llm-history-education]] — Penggunaan AI paternalistik dan identitas siswa dalam pendidikan sejarah
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI sebagai krisis identitas bagi dosen (identitas guru)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Pelatihan guru berbasis TPK dan identitas profesional
-- [[genai-professionalization-metaphors-2026]] — Konseptualisasi GenAI dan identitas profesional siswa
-
-- [[synthetic-position-self-authorship-2026]] — Penangguhan kepengarangan: kepengarangan yang didelegasikan sebagai diri yang padat suara namun tanpa pengarang (analisis konseptual)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? Bagaimana Vibe Coding Menukar Keragaman Kolektif dengan Kreativitas Individual

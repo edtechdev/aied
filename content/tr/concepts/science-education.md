@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -77,38 +79,3 @@ Bir çalışma değil bir çerçeve olarak [[zhai-science-literacy-generative-ai
 - **“Fen eğitiminde YZ’nin nedensel kanıtı yoktur.”** GCSE fen bilimlerinde bir YZ revizyon platformunun **dört haftalık rastgele değerlendirmesi**, **Hedges’in g = 0,33** düzeyinde nedensel bir tahmin verir ve etkinin derse göre farklılaştığına dair **hiçbir kanıt yoktur**. Etki mütevazıdır ve nedenseldir.
 - **“Öğrencilere erişim verin, kazanımlar gelir.”** Kazancı erişimin kendisi değil **yapılandırılmış erişim** üretir: takım tarafından bildirilen büyüme **sınırsız bireysel erişim altında ortalama %17 iken, erişim yapılandırıldığında %34 ve %31** olmuştur. Müdahale, yapının kendisiydi.
 - **“Bilimsel benzetim özel yazılım gerektirir.”** **Dört öğeli bir doğal dil istek metni**, **elle denetlenen artırılmış gerçeklik fizik benzetimi** üretebilir. Benzetim yazmanın önündeki engel istek metni tasarımına inmiştir; bu da gereken beceriyi programlamadan olgunun belirtilmesine kaydırır.
-
-## Bağlı kavramlar
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Fen okuryazarlığını müfredat, öğretim ve değerlendirme arasında tutarlılık olarak ele alan çerçeve bölümü (Zhai ve ark. 2026)
-- [[ai-university-physics-education-review-2026]] — Bir üniversite fiziği YZ derlemesinde yapılandırılmış takım erişimi, sınırsız bireysel erişimden daha iyi performans gösterdi
-- [[genai-learning-motivation-meta-analysis-2026]] — Motivasyonel aralığı sıfırı kesen tek alan (g = 0,109, k = 3)
-- [[laiskhanov-ai-gis-geography-education-2026]] — Genel YZ rahatlığı GeoAI hazır oluşuna aktarılmadı
-
-- [[ai-methodologies-science-education-research-2026]] — YZ yöntemlerinin fen eğitimi araştırmasını nasıl dönüştürebileceğine ilişkin yansıtmak için yedi aşamalı epistemik yineleme çerçevesi (Martin ve ark., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Fen ve kimya eğitiminde YZ’nin sistematik derlemesi
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM’da sorgulamaya dayalı öğrenme için ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Fotosentez ve solunumda YZ destekli yönlendirilmiş araştırma
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Isı ve sıcaklık için kavramsal değişim metinleri ile YZ diyalosu
-- [[ai-grading-handwritten-physics-2026]] — El yazısı fizik değerlendirmelerinin büyük ölçekli YZ puanlaması
-- [[avraamidou-ai-colonization-science-education]] — Fen eğitiminin YZ sömürgeleştirmesi üzerine eleştirel yorum
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Hizmet öncesi fen öğretmenlerinin YZ algıları ve kabulü
-- [[ai-assisted-inquiry-ssi-climate]] — İklim Değişikliği Üzerine Toplumsal-Bilimsel Konularda YZ Destekli Araştırma
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM’s Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response

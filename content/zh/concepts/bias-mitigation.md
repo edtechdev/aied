@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -115,53 +117,3 @@ ai_assist:
 - **“偏见是评分与反馈的问题。”** 偏见进入**评分之外的任务类别**：三个 LLM 把 **28 名学生的软件工程班分入四个团队，把男性路由到某个团队的频率比**参照分布**至少低 80%**。组队携带的偏见，在量级上与评分相当。
 - **“提供相关技能就能消除偏见。”** 提供技能**减少但未消除**它：**99.2% 的基于技能的分配匹配了两个金标准团队之一，然而性别仍在同样有效的选项之间决定取舍（OR 2.53**）。近乎完美的任务匹配与性别效应并存，因此在主要标准上的准确率不是公平的证据。
 - **“一种缓解方法就足够了。”** 研究展示的是**互补的策略**，其中包括公平感知建模，因为在组建阶段进入的偏见，不会被针对输出文本的修复所处理。
-
-## 关联概念
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — 本页未覆盖的读者侧失效：不复核就接受一条建议
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## 关联文章
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 神经符号式教学对齐（NSPA）
-- [[ai-scoring-language-bias-physics]] — 基于 AI 的评分中的语言偏见
-- [[gender-bias-transfer-llm-writing]] — 大语言模型辅助写作中的性别偏见转移
-- [[paternalistic-filter-llm-history-education]] — 家长式过滤器与差别拒绝
-- [[fair-explainable-edu-recommendations]] — 公平且可解释的教育推荐
-- [[temporal-smoothness-debiased-kt]] — 去偏知识追踪
-- [[ground-truth-reliability-aied]] — AI 可靠性的金标准现代化
-- [[data-annotations-pedagogical-hints]] — 作为教学提示的数据标注
-- [[xai-education-framework]] — 教育中的可解释 AI
-- [[antiskillbench-persona-skills-privacy-2026]] — 人格—技能隐私与偏见审计
-- [[genai-minoritized-knowledges-disability]] — 生成式 AI 与被少数化知识的边缘化
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies：自动化写作反馈中符合刻板印象的偏见
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI 能为多样的学生画像提供恰当支持吗？一项大规模评估
-- [[bias-representation-text-to-image-education-2026]] — AI 生成文生图中的偏见与表征：系统综述（Alon 等人 2026）
-- [[agarwal-ethical-values-norms-aied-2026]] — 教育 AI 的伦理价值与规范
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 从情感分类到可操作且负责任的反馈：2015—2026 年教学学生评估中自然语言处理的范围综述与证据图
-
-- [[genai-social-bias-software-engineering-education-2026]] — 生成式 AI 可能在软件工程教育中强化社会偏见
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - 在类别不平衡下三个模型家族都无法识别低表现者，而平衡指标看起来健康
-

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -125,72 +127,3 @@ Design modererer effekter mere end teknologi gør i Zhang og kollegers syntese: 
 - **"AI-lektionsplanlægning giver lærerne tid tilbage."** Planlægningstiden faldt ganske vist, fra 3,32 timer om ugen til 2,51 med værktøjet, men **medianlæreren planlagde kun 21% til 40% af lektionerne fra bunden**. Der blev sparet tid, og planlægningen blev ikke væsentligt grundigere; besparelsen blev akkumuleret frem for geninvesteret.
 - **"Samdesign med AI er godt underbygget."** En systematisk gennemgang af [[wang-teacher-ai-co-design-review-2026|lærer-AI-samdesign af læringsopgaver]] **bekræfter mønstret i stor skala på tværs af 28 studier**, hvilket beskriver en konsistent praksis frem for at demonstrere bedre udfald.
 - **"Rubrikken er et fast input."** Rubrikken fungerer som **en medierende grænseflade mellem menneskelig pædagogisk intention og maskinel inferens**: at behandle vurderingskriterier som **reviderbare** er det, der lader instrumentet bære underviserens intention. En fast rubrik overfører maskinens standardrammesætning til evalueringen.
-
-## Forbundne begreber
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — Pædagogiske partnerskaber
-- [[online-teaching-and-learning]] — Online undervisning og læring
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — Paraply: pædagogikker og undervisningsstrategier i AI-uddannelse
-- [[stakeholders]] — Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
-
-## Forbundne artikler
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — En målt besparelse i planlægningstid side om side med fundet, at lærere kun planlægger 21% til 40% af lektionerne fra bunden
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Læringsanalyser og GenAI i beslutningstagning om læringsdesign
-- [[tang-chatbots-learning-design-2026]] — Chatbotbrug i læringsdesign: designere dvæler ved mål og pædagogik frem for indholdsgenerering (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mønstre i lærer-AI-interaktion i lektionsdesign på tværs af erfaring og AI-færdighed (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI i videregående uddannelse: engagement og undervisningsmetodernes medierende rolle
-- [[curriculum-as-code-instructional-design-2026]] — 
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomi (grænseobjekt) til klassifikation af GenAI-læringsaktiviteter
-- [[instructional-agents-multi-agent-course-gen]] — 
-- [[didactical-teacher-assistant-dimensional-modeling]] — 
-- [[instructional-guidance-genai-learning]] — 
-- [[courseblueprint-adaptive-video-generation]] — 
-- [[bridging-instructional-design-framework-math]] — 
-- [[cotal-formative-assessment-scoring-2026]] — 
-- [[genai-mindtool-generative-learning]] — 
-- [[ludia-udl-ai-thought-partner-2026]] — 
-- [[pchl-he-framework-genai-content-creation-2026]] — 
-- [[jeon-isd-agent-bench-2026]] — 
-- [[ai-web-agents-lesson-design-2025]] — AI-webagenter: en autonom webagent evaluerer lektionsdesigns og forudsiger studerendes frafald, før de engagerer sig (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: en ramme for kognitivt aktiveret AI-forstærkning i fysik
-- [[wang-multi-agent-systems-learning-designers-2025]] — 
-- [[ai-tpack-teacher-multi-agent-workflow]] — 
-- [[halani-designing-for-reach-2026]] — Design for rækkevidde: syv greb og den studerende alene med AI
-- [[fowlin-operationalizing-learning-principles-ai]] — 
-- [[ai-video-dual-gatekeeping-2026]] — Når et nej giver bedre videoer: dobbelt gatekeeping for pædagogisk forankret AI-indholdsskabelse
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI til at understøtte design af produktivt-nederlag-opgaver
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI og instruktionsdesignpraksis: en systematisk gennemgang (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Grafbaseret intelligent vejledning i dynamiske domæner (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — At gøre AI irriterende med vilje: begrænsning i AI-understøttet skrivning (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-drevet platform, der genererer matematiske modelleringsopgaver (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Lærer-AI-samdesign af læringsopgaver: tendenser og perspektiver (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM'er som agenter for iterativt pædagogisk design
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI som en upålidelig samarbejdspartner i co-design
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Tre-niveau-metaanalyse: GenAI virker gennem feedback og lærerstyret design, ikke som en ensartet intervention (Zhang et al. 2026)
-- [[williams-coding-curriculum-critique-2026]] — At kode pensum: en kritik af "How AI Makes Its Mark on Instructional Design"
-- [[chng-ai-instructional-design-2023]] — Hvordan AI sætter sit præg på instruktionsdesign

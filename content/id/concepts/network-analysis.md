@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -72,7 +74,6 @@ Metode jaringan digunakan di seluruh basis bukti basis pengetahuan ini untuk men
 3. **Validasi pengodean otomatis.** Dengan kumpulan data log yang besar, klasifikasi berbasis [[llm|LLM]] sangat kuat tetapi harus diperiksa terhadap pengodean manusia (laporkan kesepakatan antarpenilai) sebelum menafsirkan struktur jaringan.
 4. **Rancang untuk diferensiasi.** Analisis jaringan sering mengungkap bahwa alat AI yang *sama* menghasilkan pola interaksi yang berbeda di berbagai subkelompok siswa — memberi masukan bagi desain adaptif alih-alih evaluasi satu ukuran untuk semua.
 
-
 ## Validasi ENA atas Dialog Kolaboratif Tersimulasi
 
 - **ENA sebagai validasi bagi dialog tersimulasi.** Fang (2026) menerapkan Epistemic Network Analysis untuk mengevaluasi apakah agen LLM yang disetel halus mereproduksi struktur dialog [[problem-solving|pemecahan masalah]] kolaboratif yang nyata. Membandingkan vektor kedekatan tersimulasi dengan jaringan empiris, ia melaporkan jarak ENA sebesar 0.17 — di dalam ambang persentil ke-95 dari distribusi nol, dengan nilai p permutasi 0.65 — menunjukkan kekuatan ENA sebagai pemeriksaan [[quantitative-research|kuantitatif]] atas kesetiaan [[simulation|simulasi]] generatif atas wacana, bersama penerapan ENA/SNA/TNA lainnya dalam penelitian pendidikan.
@@ -82,28 +83,3 @@ Metode jaringan digunakan di seluruh basis bukti basis pengetahuan ini untuk men
 - **"Analisis jaringan bersifat objektif karena bersifat komputasional."** **Pengodean adalah fondasinya**: semua varian jaringan bergantung pada pengodean data mentah (ujaran, peristiwa, hubungan) yang andal menjadi simpul diskret, dan pengodean otomatis mewarisi definisinya dari siapa pun yang menetapkannya. [[visualization|Visualisasi]]nya tampak seperti struktur yang muncul dengan sendirinya, dan simpul-simpulnya adalah pilihan interpretatif.
 - **"Pergeseran struktur jaringan secara otomatis merupakan keuntungan belajar."** Dalam diskusi kasus dengan **dua puluh mahasiswa pascasarjana lintas disiplin**, **proporsi istilah bersama berukuran 3 naik dari 5.2% menjadi 8.0%** sementara **token konten turun menjadi sekitar 0.65× tingkat pasca-**bacaan mereka. Dua ukuran struktural bergerak ke arah berlawanan, sehingga "jaringannya berubah" bukan temuan sampai Anda menyebutkan ukuran mana yang bergerak dan mengapa itu penting.
 - **"Berbagi lebih banyak istilah berarti kolaborasi yang lebih baik."** Naiknya proporsi istilah bersama bersamaan dengan turunnya keragaman token konten konsisten dengan konvergensi pada kosakata yang lebih sempit. Konsensus dan penyempitan secara struktural serupa, dan itulah sebabnya ukuran itu memerlukan konten yang menjadi dasar perhitungannya.
-
-## Konsep terkait
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Artikel terkait
-- [[caeai-response-length-ai-ethics-education-2026]] — Panjang respons, bukan keselarasan leksikal, yang menggerakkan statistik istilah bersama dalam jaringan peserta–morfem (Shao dkk. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA atas interaksi siswa-chatbot dalam penulisan EFL berperancah
-- [[tracing-genai-literacy-interaction-patterns]] — ENA atas pola interaksi literasi GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA atas pemecahan masalah kolaboratif manusia-AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Ketergantungan kognitif dan pemberian prompt (metode SNA/jaringan)
-- [[youtube-frames-chatgpt-education]] — ENA atas frame YouTube tentang ChatGPT dalam pendidikan
-- [[agency-gap-ai-writing]] — Kesenjangan agensi dalam penulisan berbantuan AI (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Dilewatkan Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-- [[dang-human-ai-collaboration-competency-2026]] — ENA juga memetakan pembicaraan kompetensi pendidik

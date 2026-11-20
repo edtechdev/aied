@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -43,7 +44,3 @@ Je to univerzální stavitel, nikoli vzdělávací produkt: hodí se vyučujíc�
 ## Poznámky a upozornění
 
 Platforma má bezplatnou úroveň, ale ta je založená na kreditech: účty dostávají 1 000 AI kreditů měsíčně a stavba, úpravy, generování obrázků i AI funkce v aplikaci je všechny utrácejí. Předplatné přidává možnost dokoupit další kredity, které nepropadají. Každý kurz, který se na platformu hodlá spoléhat, by si měl zkontrolovat aktuální podmínky, protože bezplatné použití je měřené, nikoli neomezené, a měl by aplikace vytvořené studenty brát jako obsah s vlastními otázkami nakládání s daty.
-
-## Související pojmy
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

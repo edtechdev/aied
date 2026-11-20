@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -134,76 +136,3 @@ ai_assist:
 - **«Проблема справедливості — це доступ до інструментів.»** **Якість інструмента — частина розриву, а не лише доступ до інструмента**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] подав **50 математичних завдань** і виявив відмінності в якості, які слідують за інструментом, а не за користувачем.
 - **«Гібридне репетиторство людини та ШІ не може звужувати розриви.»** **Диференційоване гібридне репетиторство людини та ШІ — доказ того, що гібридні моделі можуть звужувати розриви, коли розподіл відповідає потребам.** Дослідження типу difference-in-discontinuities (**635** учасників) виявило, що проактивне репетиторство показало **маргінально вище середнє зростання (75 %, p = 0,065), зосереджене серед студентів, які опинилися значно нижче порогового значення**. Здобуток концентрувався там, де потреба була найбільшою.
 - **«Середній ефект показує, чи покращилася справедливість.»** Суть у тому, що саме **правило розподілу** визначило результат для справедливості: втручання, яке однаково допомагає всім, залишає розриви незмінними, а те, що допомагає пропорційно до потреби, звужує їх.
-
-## Пов’язані поняття
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Здобувачі: узагальнення для понять на боці здобувача
-- [[digital-divide]] — Нерівний доступ до інструментів та інфраструктури ШІ за соціально-економічними лініями, регіонами та країнами
-- [[bias-mitigation]] — Методи виявлення та виправлення упередженості в репетиторах, оцінювачах і рекомендаційних системах ШІ
-- [[accessibility]] — Проєктування, що робить інструменти навчання зі ШІ придатними для здобувачів з інвалідністю
-- [[assistive-technology]] — Інструменти, які підтримують здобувачів з інвалідністю в умовах посередництва ШІ
-- [[culturally-relevant-pedagogy]] — Викладання, що відображає культурні контексти здобувачів, а не нав’язує домінантні норми
-- [[language-learning]] — Лінгвістична інклюзія багатомовних здобувачів та мовців малопредставлених мов
-- [[inclusive-learning]] — Доступне та справедливе навчання для всіх здобувачів
-- [[universal-design-for-learning]] — Проєктування з урахуванням варіативності здобувачів від самого початку
-- [[neurodiversity]] — Підтримка нейрорізноманітних здобувачів в освіті зі ШІ
-- [[special-education]] — Задоволення потреб здобувачів з інвалідністю в проєктуванні систем ШІ
-- [[ai-literacy]] — Навички, потрібні здобувачам, щоб справедливо отримувати вигоду від ШІ
-- [[educational-policy-ai]] — Інституційна політика, що закладає справедливість як керівний принцип
-- [[governance]] — Нагляд і підзвітність для справедливого ШІ
-- [[agency]] — Забезпечення того, щоб ШІ розширював, а не заміщав голос студента
-- [[stakeholders]] — Узагальнення: люди та аудиторії в освіті зі ШІ (здобувачі, викладачі, проєктувальники, адміністратори, політики)
-- [[parents-and-families]]
-- [[student-support-and-success]] — кого охоплюють системи підтримки та ризики дій на основі оцінки ризику
-
-## Пов’язані статті
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Як візуальна упередженість GenAI проникає в мультимодальне оцінювання і чому створення контрнаративів їй є компетентністю викладача
-- [[rented-self-decoupling-performance-becoming-2026]] — Орендоване «я»: орендна плата в грошах, «я» та стандартах і ліцензії, що завершуються на випуску
-- [[verified-study-materials-learning-gains-2026]] — Перевірене, а не згенероване: підтверджені експертами навчальні матеріали ШІ та розподіл навчальних здобутків в університетському курсі
-
-- [[ai-literacies-young-adults-2025]] — Справедливість як задача доставки: охоплення молодих людей, яких формальна освіта оминає
-- [[opraise-automated-marking-ai-assessment-2026]] — Звіт OpRaise: оцінювання ШІ 761 університетського есея в трьох університетах Великої Британії
-- [[kumar-genai-computing-education-systematic-review-2026]] — Розрив у навичках проти розриву в ресурсах: два механізми справедливості, що потребують різних засобів
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Некерований GenAI може розширювати розриви: компетентність керування взаємодією (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Інституційні структури, цифрова нерівність та інтеграція ШІ в нігерійській вищій освіті
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[school-ai-education-readiness-gaps-agency-2026]] — Шкільна освіта зі ШІ звужує психологічні, але не когнітивні розриви в готовності
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: вимірювання та пом’якшення розривів у доступності LLM
-- [[ai-scoring-language-bias-physics]] — Мовна упередженість в оцінюванні на основі ШІ
-- [[gender-bias-transfer-llm-writing]] — Перенесення гендерної упередженості в письмі з допомогою LLM
-- [[genai-minoritized-knowledges-disability]] — Генеративний ШІ і маргіналізація міноритарних знань
-- [[structural-silence-underrepresented-language-ai-2026]] — Структурна мовчазність: малопредставлені мови в інфраструктурі ШІ
-- [[genai-higher-education-systematic-review-2026]] — GenAI у вищій освіті: систематичний огляд
-- [[ai-lifelong-learning-policy]] — Політика щодо ШІ та навчання протягом життя
-- [[generative-ai-education-productivity-gaps]] — Чи звужує генеративний ШІ розриви в продуктивності, засновані на освіті?
-- [[genai-linguistic-diversity-academic-writing]] — Мовна різноманітність в академічному письмі, опосередкованому ШІ
-- [[access-not-enough-ai-tutoring-2026]] — Доступу недостатньо
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Кодований як жіночий чат-бот як рольова модель, що зменшує математичні гендерні стереотипи
-- [[paternalistic-filter-llm-history-education]] — Патерналістичне фільтрування в історичній освіті на основі LLM
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: підтримка ШІ для здобувачів з дислексією
-- [[ground-truth-reliability-aied]] — Надійність ground-truth в AIED
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: упередженість зворотного зв’язку, узгоджена зі стереотипами, за атрибутами студента
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Чи може ШІ забезпечити відповідну підтримку для різних профілів студентів? Масштабне оцінювання
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Воркшопи майстерень GenAI для дівчат і гендерна справедливість в обчислювальній галузі
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Допоміжний GenAI для здобувачів із вадами зору
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[demographic-signals-llm-student-assessment-2026]] — Неявні (з історії розмови) демографічні сигнали зсувають оцінювання, зворотний зв’язок і відповіді LLM (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1 057 викладачів США про сьогодення й майбутнє ШІ: 81 % очікують ширших цифрових нерівностей, 26 % не використовують інструментів
-- [[li-genai-assessment-language-equity-2026]] — Проведення межі між підтримкою та підміною: правила оцінювання з GenAI і тягар дотримання студентів EAL
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Право відмовитися розподілене нерівномірно: відмова як свідчення інституційної непідготовленості (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Етичний розсуд на основі кейсів і ШІ-грамотність серед 531 студента бакалаврату
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: репетиторство ШІ та людини дають еквівалентні навчальні здобутки на GRE
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Розрив точності між безкоштовним і преміальним рівнем у математиці: 32,7 % проти 12 % (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Узгоджені навчальні здобутки від GenAI (g = 0,53) і нерівний доступ до дорогих інструментів, який вони не можуть охопити
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Огляд репетиторства зі ШІ в математиці, що знаходить твердження про інклюзивність і звуження розривів у досягненнях непідтвердженими
-- [[gurung-hybrid-human-ai-tutoring-2026]] — Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Районне розгортання математики зі ШІ з більшими дослідницькими асоціаціями для студентів IEP, тих, хто вивчає англійську, та іспаномовних студентів (мультимодальні/багатомовні підтримки; причинний зв’язок не перевірено)
-- [[gyekye-selves-apprenticeship-2026]] — Підмайстри кольору ототожнювали справедливість з культурною плоскощинністю; агентність конструювалася через відмову та домовленість; Recognition Bandwidth та Institutional AI Literacy
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Доставка через посередництво викладача досягає здобувачів, яких ШІ не торкається
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Виявлення найсильніше б’є по багатомовних авторах
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Компетентність опосередковує вигоду, яку студенти отримують від доступу до LLM (Li та співавт. 2026)
-

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -49,7 +50,3 @@ K–12-es tanárok, oktatási coachok és tananyagtervezők, akik működő prom
 Az átnevezés élő átmenet, nem lezárt folyamat. A Google 2026 szeptemberében jelentette be, hogy a Skills váltja a Gemeket, a Gemek támogatása pedig szakaszosan szűnik meg: személyes fiókok 2026 novemberében, Workspace business, enterprise és nonprofit ügyfelek 2027 márciusában, Workspace education ügyfelek 2027 júniusában. A Google szerint a meglévő Gemek automatikusan átkerülnek a Skillsbe, a Skills pedig jelenleg a Gemini prompt sávjában a `/` és a név begépelésével indul. Az oldal hivatkozásai még `/gem/` útvonalakra mutatnak, ezért egy könyvjelző átirányulhat vagy eltörhet az átalakítás előrehaladtával — ellenőrizze, hogy egy prompt megnyílik-e, mielőtt egy kurzusba teszi.
 
 Két hozzáférési tény minden bevezetési döntésbe beletartozik. A Skills a Google AI előfizetési szintjein érhető el, de a bevezetés egyelőre 18 éves kortól szól, a 18 alattiak hozzáférését „hamarosan” érkezőként írják le; egy prompt másolásához pedig Google-fiók és Gemini kell, tehát ez nem névtelen eszköz a diákok számára. A gyűjtemény válogatott promptkészlet, nem validált oktatás: minden tétel kiindulópont, amelynek kimenetét még ellenőrizni kell, a gyűjtemény minőségi állításai pedig a kurátoréi. Nyílt licenc nincs megadva, így a promptok a Geminin belül másolhatók és adaptálhatók, de a gyűjteményt egy intézmény nem tudja elágaztatni és saját maga hosztolni.
-
-## Kapcsolódó fogalmak
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -142,72 +144,3 @@ AIリテラシーは、測定ツールの蓄積が最も豊富な構成概念で
 - **「モデルは項目の困難度を推定できる。」** 4つの前沿モデルを**2,548の数学項目におけるIRTの正解**に対して採点したところ、**相対的な困難度では68.6%**に達しましたが、絶対的な較正では**偶然の水準を下回りました**。順位づけと較正は別の能力であり、評価の設計が必要とするのは後者です。
 - **「分類学上のラベルが項目の難しさを予測する。」** **265の数学項目**にわたって、意図されたブルームの水準は**困難度の分散の5%未満**しか説明しませんでした。項目にブルームの水準を与えても、その経験的な困難度についてはほとんど何も分かりません。
 - **「項目の質はその言い回しから判断される。」** **生成された項目は言い回しではなく解法の経路で判断してください**。各項目の**検証済みの推論の木**を符号化することで、次善の方法をある幅で上回りました。信号を担っていたのは表層のテキストではなく推論の構造です。
-
-## 関連概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI 支援の教育研究
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## 関連記事
-
-- [[guo-ai-literacy-developmental-paces-2026]] — 検証済みのK–12向けAIリテラシー測定ツール9種。うち3種はIRTに基づく知識テスト、残りはCTTに基づく自己報告であり、プロセスを捉えるものはない（Guo, Ali & Wong, 2026）。
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模作文評価におけるAI支援採点のためのHuman-in-the-Loopフレームワーク。
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — 学生コンピテンシー評価における支援介入の因果モデリング。
-- [[assessment-latent-structure-human-llm-2026]] — 評価ツールは人間とLLMに対して同じものを測定しているのか（Strugatski et al. 2026）。
-- [[jin-glat-genai-literacy-assessment]] — GLAT：IRTで検証されたGenAIリテラシーテスト（Jin et al. 2025）。
-- [[icap-cognitive-engagement-llm-agents]] — 拡張ICAPフレームワークによる認知的エンゲージメントの測定。
-- [[roe-assessment-twins-2026]] — GenAI環境下で評価の妥当性を強化するためのアセスメント・ツイン。
-- [[ai-literacy-heptagon-2026]] — AIリテラシー・ヘプタゴン。
-- [[ai-literacy-assessment-misalignment]] — 自己報告とパフォーマンスによるAIリテラシー測定の不一致。
-- [[teacher-education-ai-literacy-sdt-2026]] — 自己決定理論から捉える教師のAIリテラシー。
-- [[acceptance-ai-english-tools-2026]] — 英語学習ツールに対するAI受容の測定尺度。
-- [[llm-difficulty-calibration-programming-exams-2026]] — 評価されるモデルから評価を支援するツールへ。
-- [[llm-item-difficulty-prediction]] — LLMによる項目困難度予測の認知的評価。
-- [[multimodal-item-parameter-estimation-2026]] — マルチモーダルな項目パラメータ推定。
-- [[ai-scoring-language-bias-physics]] — 物理におけるAI採点と言語バイアス。
-- [[ai-writes-code-student-writes-model-2026]] — モデルの作者性：GenAIを用いた構築による学習の理論と測定。
-- [[assessing-student-drive-framework-2025]] — DRIVE：GenAIとの相互作用を通じた学習の評価（DRI + Visible Expertise）。
-- [[xiong-ai-educational-measurement-review-2026]] — 教育測定におけるAIの10年間のテーマ別レビュー。
-- [[questionnaire-teachers-genai-uses-validation-2026]] — 教師の生成AI利用に関する質問紙（Pérez-Montesdeoca et al. 2026）。
-- [[personalized-neural-cognitive-architecture-search-2026]] — 学習者プロファイルに向けたAutoMLによる個人化ニューラル認知アーキテクチャ探索。
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木ベースの機械学習を用いた項目困難度の推定。
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 半分割によるEFA/CFA検証に加え、不変性・HTMT・DIFのチェックを行い、遊び心と意図の構成概念上の重複についても率直に報告。
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA：プロセスに基づく数学項目の品質評価。
-- [[competent-generative-ai-use-measures-review-2026]] — AIリテラシーを超えて：有能な生成AI利用の測定尺度に関する体系的レビューと探索的メタ分析。
-- [[bayesian-consensus-irt-item-banks-2026]] — ベイズ・コンセンサス・キャリブレーション：継続的に進化するIRT項目バンクの分割統治型再キャリブレーション（Jewsbury et al. 2026）。
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — El SalvadorのAIチュータリング・パイロットにおける学習効果の主張の範囲を限定する（Restrepo Morales et al. 2026）。
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 「いつ信頼すべきか」を知る：採点信頼性の調整手段としてのモデルの自己確信度・確率的採点・アンサンブル。
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 小学校高学年のAIリテラシーを対象とした検証済み15項目の自己評価質問紙（Thianwan & Srikoon 2025）。
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教師のAIリテラシー測定ツール33種をCOSMIN流の品質領域に沿って体系的に評価（Zainal et al. 2026）。
-- [[mental-health-literacy-students-llms-2026]] — 心理学専攻学生と大規模言語モデルにおけるメンタルヘルス・リテラシー。
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AIと人間によるチュータリングはGREで同等の学習効果をもたらす。
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス科目における学生のLLM利用とAI生成問題の難易度の限界。
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育対話の監査可能なコーディングのためのアサーションに基づくスキーマ。
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度指標が見落とすもの：合成教育データの構造的チェック。
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42項目のAI共感尺度。その6因子は意図された6つの下位因子を再現しなかった。
-- [[genai-srl-l2-writing-scale-2026]] — L2ライティング向けの6次元GenAI-SRL尺度。蟻コロニー最適化による12項目の短縮版は全尺度をよく追跡する（r = 0.910–0.944）が、内容の網羅性は狭まる。
-- [[bloom-taxonomy-llm-item-classification-2026]] — 認知的分類は実測の項目挙動を予測するのか。4–12学年の全国統一数学項目の心理測定特性とBloom's Taxonomyの整合。
-- [[llm-benchmark-secondary-science-topics-2026]] — 合成ベンチマークの測定品質は、その生成パイプラインに依存する。
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 識別力のない困難度。
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同一構成概念のペアは41.2%のケースで結論が食い違い、パフォーマンス測定には独自の妥当性論証が必要（Fan et al. 2026）。
-- [[chang-ai-cognitive-offloading-scale-2026]] — AI認知的オフローディング尺度の検証と、そこで省略された妥当性チェック。
-- [[tassilova-ai-anxiety-scale-russian-2026]] — 人工知能不安尺度ロシア語版の心理測定特性：次元性、測定不変性、個人中心のプロファイル。

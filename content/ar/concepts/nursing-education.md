@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -97,7 +99,6 @@ ai_assist:
 
 **«كفاية الذكاء الاصطناعي في التمريض تعني التعامل مع الأدوات، فالتدريب ينبغي أن يبدأ بها.»** أدبيات الأطر تسير في الاتجاه المعاكس. فالأبعاد التي وجدها المراجعون تُعالَج باستمرار هي معرفة الأخلاقيات والمسؤولية ومهارات التطبيق والتقييم؛ والاستخدام التقني والتشغيلي هو حيث أقلّ ما يُقال. فالبرنامج الذي يشتري تراخيص أدوات أولًا يبني أضعف جزء من الخريطة دليلًا، والأطر المسمّاة التي قد يتبنّاها بدل منهج — N.U.R.S.E.S. وAI-ABCs وCARE — هي تحديدًا التي تخلو من طرق التقييم.
 
-
 ## آثار على الممارسة
 
 **للمعلّمين**
@@ -111,7 +112,6 @@ ai_assist:
 - عاملوا الجاهزية كتوزيع واستهدفوا طرفه الأدنى، لأن تكليفًا دون تدريب ودعم اتصالية يعيد إنتاج الفجوة التي يُفترض أن يغلقها.
 - صمّموا التحليلات مع من تصفهم: في حالة منشورة، بنى أعضاء هيئة تدريس وطلاب تمريض لوحة تحليلات تعلّم مدعومة بالذكاء الاصطناعي معًا بينما احتفظ المربّون بمسؤولية الأحكام التي أُفيدت بها ([[aalhe-ai-co-designer-feedback-partner-2026]]).
 
-
 **للمطوّرين**
 
 - أبلغوا عن النتائج النفسية-الحركية ونتائج المعرفة منفصلة، لأنها تتباين في هذه الأدبيات.
@@ -120,40 +120,3 @@ ai_assist:
 **للباحثين**
 
 - أبلغوا عن عيّنات ما قبل الترخيص والممرضين الممارسين منفصلة، وادرسوا الانتقال إلى الممارسة المُشرَف عليها إن كان لادعاء الكفاية أن يعني شيئًا سريريًا.
-
-## المفاهيم المرتبطة
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## المقالات المرتبطة
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematic review of AI in nursing education (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences through the TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI perceptions and career anxiety among health sciences students
-- [[genai-counter-learner-groupthink-2025]] — Generative AI to counter groupthink in interprofessional PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Nursing academics on GenAI: policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity, and a deterrence case built on perception
-- [[hardie-genai-nursing-scoping-review-2026]] — التطبيقات والمواقف والأخلاقيات في تعليم التمريض: مراجعة نطاقية لـ103 دراسات (Hardie وآخرون 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — تجارب المتعلّمين مع المحاكاة وتدريب المهارات المدعومَين بالذكاء الاصطناعي التوليدي في تعليم التمريض: تركيب بعدي
-- [[xiang-ai-nursing-education-kas-framework-2026]] — مراجعة نطاقية ترسم أطر كفايات الذكاء الاصطناعي على 12 بعدًا فرعيًا من KAS لمناهج التمريض
-- [[rony-nursing-educators-ai-tpack-2025]] — معلّمو التمريض في بنغلاديش حول جاهزية الذكاء الاصطناعي والعوائق وحَوكمة البيانات، مقروءة عبر TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — مراجعة شاملة لـ18 مراجعة: الأخلاقيات وتحوّل المنهج وعوائق الدمج
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — طلاب التمريض حول السرّ المكشوف لاستخدام الذكاء الاصطناعي: التعلّم المخصّص والوقت والفجوة الرقمية
-- [[agency-gap-ai-writing]] — تجربة عشوائية مع طلاب الطب والتمريض: تصميم وكيل تفاعلي مقابل استباقي وفجوة المبادرة
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 طالب تمريض: تفاعل الذكاء الاصطناعي التوليدي والتفاعل التعليمي ونموذج توسط محدَّد التعريف تمامًا
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — ردّ منشور على Rony وآخرين: النظم البيئية المؤسسية والجاهزية والرقابة على الذكاء الاصطناعي
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — أعضاء هيئة تدريس وطلاب يصمّمون معًا لوحة تحليلات لتعليم التمريض
-- [[federated-learning-at-risk-student-prediction-2026]] — تنبؤ اتحادي بالتعرض للخطر عبر برامج المهن الصحية، ولماذا تُخطئ عتبة مستوردة في التمريض

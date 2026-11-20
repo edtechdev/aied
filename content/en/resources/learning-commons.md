@@ -23,6 +23,7 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 **Learning Commons** publishes three open tools for putting AI features on top of real curriculum content — a **[[knowledge-graph|Knowledge Graph]]** of academic standards, curricula and learning-science research, a library of **Evaluators** for judging generated text, and model-agnostic **[[agentic-ai|Agent Skills]]** for common teacher workflows — and runs a platform that adds Curriculum Sync for loading curricula into a [[edtech-platform|learning management system]].
@@ -44,12 +45,3 @@ Developers building AI features into curriculum and [[assessment|assessment]] pr
 ## Notes and caveats
 
 Being [[open-source|open source]] does not make the data open. The Knowledge Graph and Evaluator code is MIT and Agent Skills is Apache-2.0, while each dataset carries its own access label — Open, Open + Gated, or Gated — and Gated content is not covered by the open licenses the repository cites, so check the dataset catalog before assuming reuse rights. Evaluator prompt content is CC BY 4.0, but the annotated CLEAR and PERSUADE 2.0 corpora it uses are CC BY-NC-SA 4.0. The platform and the datasets behind it need an account.
-
-## Connected Concepts
-
-- [[curriculum-design]] — the graph exists to align generated content to standards and curricula
-- [[open-source]] — MIT and Apache-2.0 code with per-dataset data licensing
-- [[educational-nlp]] — the evaluators are a text-measurement layer over LLM output
-- [[agentic-ai]] — skills that package a workflow for a model to carry out
-- [[edtech-platform]] — Curriculum Sync loads curricula into a learning management system
-- [[llm]] — the target of the evaluation and the consumer of the skills

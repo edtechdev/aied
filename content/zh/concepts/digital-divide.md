@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -110,43 +112,3 @@ AI 为技术的公平意涵增添了新的层面。算法偏见可能对来自�
 - **“能在浏览器里运行就等于可用。”** 多数 LLM 讲课工具假定**单一语言的英语音频与可靠网络**，这恰好排除了把英语与家庭语言混用的课堂。印度的 UDISE+ 数据显示，学校网络接入远低于该假设所需的水平。建立在假定基础设施上的工具，会悄悄排除需求最强的场景。
 - **“数字素养与 AI 使用是同一个中介变量。”** 一项对荷兰 **4,497 名六年级学生**的研究，把**两条不同的中介路径**分开，即 AI 使用与数字素养，并把背景与人格连接到学习增益。两者不可互换，提升其一的干预不会自动提升另一个。
 - **“[[simulation|模拟]]消除了成本壁垒。”** 一项对 STEM 高等教育中 **11 项数字孪生研究**的系统综述发现，每套配置的硬件成本为 **\$2,000-\$15,000**。模拟实验室可以重现它本想避免的设备账单，因此虚拟供给的成本论证必须被核查，而非假定。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## 关联文章
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI 用于电子政务：利用语言技术促进数字包容
-
-- [[watanabe-genai-education-gap-europe-2026]] — 生成式 AI 使用中的教育差距比互联网当年的更小吗？（Watanabe 2026）
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 尼日利亚高等教育中的制度结构、数字不平等与 AI 整合
-- [[ai-divide-ses-personality-primary-education-2026]] — 小学教育中的 SES、人格与 AI 鸿沟（Wang 等，2026）
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged：以教师为代理的辅导触及无设备学生（Rodrigues 等，2026）
-- [[school-ai-education-readiness-gaps-agency-2026]] — 学校 AI 教育缩小了心理差距但未缩小认知准备度差距
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege：测量并缓解 LLM 获取中的可及性差异
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 分层式 AI 素养（SAIL）框架
-- [[oecd-digital-education-outlook-2026]] — OECD 数字教育展望 2026
-- [[aaai2026-prompting-literacy-k12]] — 教 K-12 学生负责任地使用 AI 聊天机器人
-- [[structural-silence-underrepresented-language-ai-2026]] — 结构性沉默与代表性不足的语言
-- [[sec-ai-literacy-narrative-review-2026]] — AI 素养中的社会情感能力
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — 面向多语言低资源环境的 AI 自适应学习平台
-- [[ai-science-chemistry-education-systematic-review-2025]] — AI 在科学／化学教育中的系统综述
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI 指南在化学教育中的转译；认识论漂移
-- [[lodge-loble-cognitive-offloading-2026]] — AI、认知外包及其教育意涵（Lodge & Loble，2026）
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 社会主义人文主义 AI 素养 + 合理使用
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC：农村机器人获取跟随的是指导地理，而非设备获取（Jacobson 等，2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 南非历史上处于不利地位的机构中，数字不平等作为分配性问题、算法殖民性作为认识论性问题
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion：面向教育公平的低成本家庭语言学习本地优先 AI 代理框架
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — 数字孪生实验室背负着一笔限定并发访问的设备账单

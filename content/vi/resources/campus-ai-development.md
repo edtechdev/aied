@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,9 +43,3 @@ Bộ phận IT trung tâm và IT nghiên cứu, nơi cung cấp nền tảng và
 ## Ghi chú và lưu ý
 
 Trang tự nhận là một dự án cá nhân độc lập, không phải chính sách thể chế hay tư vấn pháp lý; các cơ sở giáo dục được nêu tên xuất hiện vì họ đã công bố tường thuật về thực hành của mình, không phải như sự chứng thực, và các tình huống thảo luận là những trường hợp ghép. Các ví dụ pháp lý của nó là của Hoa Kỳ (FERPA, ADA Title II, GLBA) và được ghi ngày ở nơi xuất hiện, dù trang lập luận rằng lộ trình, các câu hỏi, các mức dữ liệu và các cách tiếp cận không phụ thuộc vào chúng. Trang bằng chứng của nó liên kết mọi nghiên cứu, đặt mức tăng trên một nhiệm vụ có giới hạn bên cạnh sự chậm lại của những người bảo trì giàu kinh nghiệm trên chính mã của họ, và thừa nhận rằng dữ liệu thử nghiệm chỉ bao quát việc gợi ý mã chứ không phải công việc theo đặc tả hay đa tác tử, nên lý lẽ cho nhiều cấu trúc hơn dựa trên thực hành và logic tuân thủ. Không có giấy phép tái sử dụng nào được nêu. Các trang chị em [campusdatagov.com](https://campusdatagov.com/) và [campusairegistry.com](https://campusairegistry.com/) mang phần quản trị dữ liệu và sổ đăng ký tác tử, nên đây là một điểm vào tốt cho công việc về [[educational-policy-ai|chính sách AI trong giáo dục]] nhưng không thay thế được công việc đó.
-
-## Khái niệm liên quan
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

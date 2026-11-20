@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -106,37 +108,3 @@ Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için bilgi 
 - **“İşbirliği, öğrenci sesini yükseltmek anlamına gelir.”** Pedagojik işbirliği, tanımlanmış roller ve karşılıklı yükümlülük taşıyan **sınırlandırılmış, müzakere edilmiş bir ilişkidir**, danışma değil. Rol, yetki alanı ve kararın bir payı olmadan ses, yapısal hiçbir şeyi değiştirmez.
 - **“İşbirliği, benimsenebilecek bir duruştur.”** Kurumsal koşullar gerektirir: zaman, öğrenci ortağın tanınması ve ortakların gerçekten etkileyebileceği bir değişiklik. Bu koşullar olmadan ilan edilen işbirliği, kesintiye uğratmayı iddia ettiği hiyerarşiyi yeniden üretir.
 - **“Güç paylaşımı, öğretim elemanı gelişimi olamaz.”** Literatürün iddiası, işbirliğinin gelişim *olduğudur*, çünkü eğitimcinin anlayışını ilişki üzerinden değiştirir. Onu yalnızca öğrenci yararı olarak çerçevelemek mekanizmayı elden çıkarır.
-
-## Bağlı kavramlar
-
-- [[pedagogy]] — Pedagojiler ve öğretim stratejileri
-- [[collaborative-learning]]
-- [[agency]] — Öğrenen etkenliği
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[guided-inquiry-genai-course-policy-2026]] — Öğrencilerin Üretici YZ Kurs Politikalarını Eş Tasarlamasına Yönelik Yönlendirilmiş Araştırma Yaklaşımı
-- [[lo-co-creating-custom-gpts-sap-2026]] — Özel GPT’lerin eş yaratımı: üretici YZ yeniliğinde ortak olarak lisans öğrencilerinin otoetnografik bir çalışması
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Eş yaratım yoluyla değerlendirme tasarımı: YZ’yi değerlendirmede öğrenci-personel işbirliği
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Pedagojik güveni korumak için öğrenciler-ortak-olarak uygulamasında YZ ile yön vermeye ilişkin beş temel ilke
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Genç ortaklarla YZ eş tasarımı: ilişkisel gizlilik etik çerçevesi
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Dolaşmış pedagoji çerçevesi yoluyla YZ’nin karmaşık öğrenci gerçekliklerini aydınlatmak
-- [[anastasia-shared-agency-partnership-framework-2026]] — Paylaşılan Etkenlik: Öğretmen–Öğrenci İşbirliği İçin Etkenlik İşbirliği Çerçevesi
-- [[maybee-disruptive-partnerships-sap-2025]] — Yıkıcı İşbirlikleri: Bilgi Çalışmaları’nda Öğrencilerle İşbirliği Yapmak
-- [[student-centered-genai-responsible-framework-2026]] — Sorumlu üretici YZ kullanımı için öğrenci merkezli çerçeve
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Öğrenciler 710 öğrenci ölçeğinde akranları için bir YZ özel ders öğretmeni inşa etti: katılım yüksek, öğrenme kanıtı keşifsel (Zangari ve ark. 2026)

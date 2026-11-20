@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -40,9 +41,3 @@ Beleidsmakers en inkoopteams die modellen kiezen voor nationale systemen, onderz
 ## Opmerkingen en kanttekeningen
 
 Een leaderboard meet modellen op de eigen taken van de benchmark: een hoge pedagogiekscore is bewijs over die items, niet over een klaslokaal. De prijskolom mengt input- en outputtokenprijzen in een verhouding van 3:1, wat een modelleerkeuze is en niet wat een specifieke implementatie zal kosten. De dekking van talen en van lokaal gehoste modellen verschuift naarmate nieuwe modellen verschijnen, en de lage scores voor kleine modellen weerspiegelen deels het taakformaat net zo goed als de capaciteit. De framing van Fab AI gaat expliciet over lage- en middeninkomenslanden, dus de itemset van de benchmark weerspiegelt die context en mag niet worden gelezen als een algemene onderwijsranglijst. Controleer releasedata: verschillende vermeldingen dateren van vóór de huidige modelgeneratie.
-
-## Gerelateerde concepten
-
-- [[benchmark]] — de bredere klasse instrumenten waartoe dit behoort
-- [[digital-divide]] — de beperking die de kolommen voor prijs en open gewichten zichtbaar moeten maken
-- [[equity-in-ai-education]] — de beleidsvraag waarvoor het leaderboard informatie levert

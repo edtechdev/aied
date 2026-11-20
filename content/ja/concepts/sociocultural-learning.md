@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -74,34 +76,3 @@ ZPD（ヴィゴツキー）は、[[intelligent-tutoring|AI 指導]]において�
 **「集団に道具を加えると、変わるのは集団の効率だけである」** 変わるのは分業であり、それがこの理論の分析する単位です。質問の大半をエージェントに回す集団は、出力が変わらなくても認知的作業を再配分しています。
 
 **「分散認知は、個人が重要でないことを意味する」** 意味するのは、個人の寄与を個人のパフォーマンスだけから読み取ることはできないということです。分析の単位は活動システムであり、孤立した個人ではありません。
-
-## 関連概念
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## 関連記事
-- [[youth-enter-chat-llm-student-talk-2026]] — 若者がチャットに参加するとき：学生の語りに関する LLM に基づく尺度の検証
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 媒介的エージェントとしての生成AI
-- [[golrang-propact-pair-programming-2026]] — 協働的な AI 指導
-- [[finkelstein-principled-ai-education-2025]] — 原則に基づく AI 教育の枠組み
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 における AI のためのスタンフォードのエビデンス基盤
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 における生成AIに関するシドニーの迅速レビュー
-- [[ai-cognitive-partner-co-regulation-learning]] — 認知的パートナーおよび共調整としての AI
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM が書いたヒントは数学の学習の伸びで人間のチューターのヒントに匹敵した（Pardos & Bhandari 2024）
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 学習者のターンが何を狙っているかで足場を外し、応答の深さでは外さない
-

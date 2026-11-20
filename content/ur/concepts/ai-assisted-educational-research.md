@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -177,50 +179,6 @@ AI تحریر کے پیمانے کے اثرات دوسرے ببلیومیٹرک 
 - **"LLM اور سافٹ ویئر مقالات یکساں طور پر جانچے جاتے ہیں۔"** 2023 سے، **38.0% سافٹ ویئر اور پروڈکٹ مقالات نے کوئی جانچ ہی رپورٹ نہیں کی، جبکہ LLM مقالات میں یہ شرح 9.3% تھی**۔ خلا بڑا ہے اور یہ اس مفروضے کے خلاف جاتا ہے کہ نیا ٹولنگ کم سختی سے جانچا جاتا ہے۔
 - **"کام کے لحاظ سے سطح بندی خلا کو درست کر دیتی ہے۔"** **خلا سطح بندی کے بعد بھی برقرار رہتا ہے**: چھانٹی اور انتخاب میں، سافٹ ویئر مقالات میں اوسطاً **3.2 ٹھوس جانچی آئٹمز تھے اور 39.3% نے کوئی نہیں بتایا**، جبکہ LLM مقالات میں اوسط زیادہ تھا۔ یہ فرق مقالات کی قسم کی منظم خصوصیت ہے، کام کی نہیں۔
 - **"مثبت جانچ کا مطلب ہے کہ ورک فلو اپنے مطلوبہ معیار پر پورا اترا۔"** **صرف مثبت جانچ والے 118 LLM مقالات میں، 52% نے پھر بھی کم از کم ایک ایسی فکر بتائی کہ ورک فلو اپنے کردار کے لیے درکار معیار سے نیچے رہا**۔ نصف مثبت جانچوں میں انہی کی تردید شامل تھی۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]] — تعلیم میں AI کے مطالعے کے لیے استعمال ہونے والے ڈیزائنوں کی چھتری
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## منسلک مضامین
-
-- [[ai-methodologies-science-education-research-2026]] — AI طریقہ کار سائنس تعلیم کی تحقیق کی نوعیت کو کیسے بدل سکتے ہیں، اس کے لیے سات مرحلوں والا عکاسی پر مبنی فریم ورک (Martin et al.، 2026)
-- [[scaffolding-systematic-reviews-2026]] — ایک بین الضابطہ جائزہ ٹیم کا رہنمائی اور منتخب AI انضمام کا بیان (Wang et al.، 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28 پوسٹ گریجویٹ طلبہ نے تحقیقی ورک فلو میں GenAI کیسے استعمال کی، اور ان کی تجویز کردہ ہدایات (Dai & Chan، 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — کمپیوٹنگ-تعلیم کے ادب میں من گھڑت حوالہ جات کا میدان کے پیمانے پر آڈٹ (Denny et al.، 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — AI کی مدد سے منظم جائزوں کے لیے رپورٹنگ کا فریم ورک، اور وہ جواب دہی کا خلا جو یہ دستاویز کرتا ہے (Zabaleta & Lin، 2026)
-- [[genai-academic-search-workshop]] — جنریٹو AI اور علمی تلاش پر CHIIR 2026 ورکشاپ رپورٹ (Liu، Arguello، Hoeber et al.، 2026)
-- [[persistent-ai-agents-academic-research]] — تحقیقی ورک اسپیس میں مستقل ایجنٹ کا واحد محقق کیس اسٹڈی (Alzahrani، 2026)
-- [[ai-assisted-writing-research-teams]] — ببلیومیٹرک ثبوت کہ AI کی مدد سے تحریر چھوٹی، کم عمر تحقیقی ٹیموں کے ساتھ آتی ہے (Wang et al.، 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 30 روزہ بینچ مارک جو ٹیوٹر ایجنٹس کا مصنوعی سیکھنے والے کے خلاف جائزہ لیتا ہے (Lee et al.، 2026)
-- [[beagle-grounded-learner-emulation-2026]] — نیورو سمبولک سمیولیٹر جو نوآموز کی حقیقی جدوجہد دوبارہ پیدا کرتا ہے (Wang et al.، 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — سمیولیٹرز کسی بھی فیڈبیک کے تحت غلط فہمی کیوں ترک کرتے ہیں، اور تربیت اسے کیسے درست کرتی ہے (Do، Sonkar & Sachan، 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — پیشگی رجسٹرڈ آڈٹ جو مقررہ مصنوعی سیکھنے والے سے جانچتا ہے کہ مددگاری کے پیمانے پیداگوجی کی پیمائش کرتے ہیں یا نہیں (Fan et al.، 2026)
 
 ## حوالہ جات
 

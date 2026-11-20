@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -152,43 +154,3 @@ ai_assist:
 
 - كفّ عن خلط التخصيص بالتكيّف في البنى التي تقيسها، وقل صراحةً أي آلية أنتجت الأثر.
 - أبلغ عن مكسب التعلّم المعيَّر كنتيجة أولية؛ فندرته في الأدبيات فجوة تُسدّ لا عُرف يُورَث.
-
-## المفاهيم المرتبطة
-
-- [[adaptive-learning]] — أنظمة تكيّفية تكيّف المحتوى والإيقاع والصعوبة على المتعلّم آنيًا
-- [[intelligent-tutoring]] — أنظمة تعليم تنمذج المتعلّم وتُقدّم تعليمًا فردانيًا
-- [[student-modeling]] — تمثيل معرفة المتعلّم ومهاراته وحالاته التي تقود التكيّف
-- [[knowledge-tracing]] — استنتاج إتقان مكونات المعرفة من الأداء عبر الزمن
-- [[cognitive-diagnosis]] — تشخيص معرفة المتعلّم وسماته الكامنة من الاستجابات
-- [[scaffolding]] — دعم وتلاشٍ معايَر على احتياجات المتعلّم الفردية
-- [[student-experience]] — التجربة المعيشة للمتعلّم للتخصيص
-- [[learning-analytics]] — قياس تعلّم مدفوع بالبيانات يغذّي التكيّف
-- [[formative-assessment]] — تقويم مستمر يُشير إلى ما يكيَّف تاليًا
-- [[summative-assessment]] — تقويم نقطة النهاية الذي يُعقّد التخصيص قابليته للمقارنة
-- [[generative-ai]] — التخصيص المحاوري القائم على النماذج اللغوية الكبيرة
-- [[edtech-platform]] — منصّات تُقدّم تعلّمًا مخصّصًا على نطاق واسع
-- [[higher-ed]] — سياق التعليم العالي للتخصيص
-- [[online-teaching-and-learning]] — التعليم والتعلم عبر الإنترنت
-- [[recommender-systems-and-learning-paths]]
-
-## المقالات المرتبطة
-- [[bespoke-industry-personalized-lecture-videos-2026]] — إعادة توليد فيديو محاضرة مخصّص بالصناعة من نص أصلي: تكييف على مستوى الجمهور، مُقيَّم بخبراء المجال (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — التخصيص المجهري بهندسة المطالبات لمساعد تعليمي بالذكاء الاصطناعي (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — التعليم بالذكاء الاصطناعي ليس وحدة أحادية: ما نعرفه فعلًا (موجز Stanford SCALE/NSSA)
-- [[mishra-control-vs-agency-history-2025]] — يميّز بين شكلين من التخصيص (نتائج موحدة مقابل متنوعة)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — إعادة تعريف التعلّم المخصّص: مراجعة منهجية
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — ركيزة تخصيص أصلية للوكلاء للتعليم
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — نموذج معرفي هجين طبقِي قائم على الأنطولوجيا للتعلم الإلكتروني المخصّص
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — تعلّم تكيّفي مخصّص لكسور المرحلة الابتدائية
-- [[ai-coaching-rl-skill-development]] — إرشاد بتعلّم التعزيز لتطوير المهارة
-- [[personalized-ai-generated-videos-preference-2026]] — يفضّل الطلاب الفيديوهات المخصّصة المولّدة بالذكاء الاصطناعي على المسجّلة بشريًا غير المخصّصة (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — التشخيص الإدراكي البايزي لمسارات التعلّم المخصّصة
-- [[graph-its-adaptive-algorithms-2026]] — التعليم الذكي القائم على الرسم البياني للمجالات الديناميكية (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — أدوار المعلم والذكاء الاصطناعي في التقويم التكويني المعزّز بـChatGPT
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — الماركيد بيداجوجي: تحيز في التغذية الراجعة الآلية المخصّصة
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — مراجعة منهجية: المسارات التكيّفية والمُوصّيون من أهم حالات استخدام تكامل الذكاء الاصطناعي في التعليم العالي
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — معيوب لكن لا يُنسى: التلقّي النقدي للطلاب لتشبيهات الذكاء الاصطناعي التوليدي المخصّصة بالاهتمام في تعليم الحوسبة
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — مفارقة التخصيص: التخصيص التكيّفي المُدرَك مرتبط بتعلّم ذاتي تنظيم أدنى عبر الانفعالات الأكاديمية، معزولًا بثقافة الذكاء الاصطناعي (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: يبلغ مخططو النماذج اللغوية الكبيرة صلاحية 90.9% لكن لا نموذج يتجاوز 44.7% في القدرة على التكيّف عند تخصيص المسارات لهدف متعلّم معلن (Liu et al. 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — أربع دراسات، وأثر مجمَّع كبير، ويقين منخفض جدًا

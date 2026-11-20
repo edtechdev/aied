@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -109,31 +111,3 @@ ai_assist:
 **«Додавання циклу [[feedback|зворотного зв’язку]] ШІ автоматично поліпшує самооцінювання.»** Цикл зворотного зв’язку змінює те, з чим студент порівнює, що може поліпшити калібрування, а може й прив’язати його до судження системи. Порівняльне дослідження тут (**118 першокурсників, 56 у групі GenAI і 62 у рівесницькій групі**, три цикли протягом семестру) спроєктоване саме для перевірки, чи роботу виконує цикл, чи соціальне порівняння, — і відповідь не «цикл, бо він цикл».
 
 **«Самооцінювання — це м’якша альтернатива тестуванню.»** Це інша ціль. Самооцінювання розвиває регулятивну навичку судити власну роботу; тест вимірює здатність, яку оцінюють. Дослідження, що підміняє одне одним, змішує здатність оцінювати продуктивність із самою продуктивністю.
-
-## Пов’язані поняття
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Пов’язані статті
-- [[self-directed-growth-generative-ai-learning-analytics]] — Самооцінювання, поставлене в центр рамки самоспрямованого зростання (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Матеріали ШІ-грамотності, розділені за стадіями розвитку, із вимірюванням сприйняття та валідності (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Трикутнування зворотного зв’язку ШІ з оцінюванням колег, викладача та самооцінюванням (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Чому зворотний зв’язок не має спиратися на самооцінену моделлю валідність міркування (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Валідований опитувальник самооцінювання ШІ-грамотності з 15 пунктів для 4–6 класів, із метакогнітивними межами дитячого самозвіту (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 з 33 інструментів ШІ-грамотності вчителів — самозвіт, два тестують знання об’єктивно, жоден не використовує завдань на основі продуктивності (Zainal, Mohd Matore & Maat 2026)

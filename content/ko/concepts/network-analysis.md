@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -80,28 +82,3 @@ ai_assist:
 - **"네트워크 분석은 계산적이므로 객관적이다."** **코딩이 기초입니다.** 모든 네트워크 변형은 원시 데이터(발화, 사건, 관계)를 이산적 노드로 신뢰성 있게 코딩하는 데 의존하며, 자동 코딩은 그 정의를 정의를 설정한 사람에게서 물려받습니다. [[visualization|시각화]]는 창발적 구조처럼 보이지만 그 노드들은 해석적 선택입니다.
 - **"네트워크 구조의 변화는 그 자체로 학습 이득이다."** 혼합 전공 대학원생 **스무 명**과의 사례 토론에서 **크기 3 공유 용어 비중이 5.2%에서 8.0%로 상승**한 반면 **내용 토큰은 사후 비율의 약 0.65배로 떨어졌습니다.** 두 구조적 측정이 반대 방향으로 움직였으므로, "네트워크가 변했다"는 어느 측정을 따라 왜 중요한지를 말하기 전까지는 발견이 아닙니다.
 - **"용어를 더 많이 공유한다는 것은 더 나은 협업을 뜻한다."** 공유 용어 비중의 상승과 내용 토큰 다양성의 하락은 더 작은 어휘로의 수렴과 일치합니다. 합의와 협소화는 구조적으로 유사하므로, 그 측정에는 그것이 계산된 내용이 필요합니다.
-
-## 연결된 개념
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## 연결된 문서
-- [[caeai-response-length-ai-ethics-education-2026]] — 응답 길이가 어휘적 정렬이 아닌, 참가자–형태소 네트워크에서 공유 용어 통계를 이끕니다 (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — 비계가 제공된 EFL 쓰기에서의 학습자-챗봇 상호작용의 TNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI 리터러시 상호작용 패턴의 ENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 인간-AI 협력적 문제 해결의 ENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 인지적 외주화와 프롬프팅 (SNA/네트워크 방법)
-- [[youtube-frames-chatgpt-education]] — 교육에서의 ChatGPT에 관한 YouTube 틀의 ENA
-- [[agency-gap-ai-writing]] — AI 지원 쓰기에서의 주체성 격차 (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표들이 놓치는 것: 합성 교육 데이터에 관한 구조적 점검
-- [[dang-human-ai-collaboration-competency-2026]] — ENA는 교육자의 역량 담화도 지도화합니다

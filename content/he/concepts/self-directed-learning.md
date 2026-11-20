@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -90,30 +92,3 @@ ai_assist:
 **לחוקרים**
 
 - דווחו איזה מבנה ההתערבות כיוונה; אין להשתמש בתוצאות SDL ו-SRL לחלופין.
-
-## מושגים מקושרים
-
-- [[self-regulated-learning|וויסוס עצמי]]
-- [[agency|סוכנות]]
-- [[self-efficacy|יעילות עצמית]]
-- [[motivation|מוטיבציה]]
-- [[metacognition|מטאקוגניציה]]
-- [[cognitive-offloading|פריקת עומס קוגניטיבי]]
-- [[ai-misuse-learning-harm|שימוש לרעה והזדקנות למידה]]
-- [[ai-literacy|אוריינות AI]]
-- [[adult-learning|למידת מבוגרים]]
-- [[lifelong-learning|למידה לכל החיים]]
-- [[higher-ed|השכלה גבוהה]]
-
-## מאמרים מקושרים
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — שימוש מונחה-עצמי ב-GenAI והתפתחות אקדמית בקרב תלמידי תיכון: מחקר אורך גדול בהיקף של שנה
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — שימוש לא-מחשבוני ב-GenAI ולמידה מונחית עצמית (SEM, הבדלי מגדר)
-- [[ai-lifelong-learning-policy]] — מדיניות AI ולמידה לכל החיים
-- [[self-directed-growth-generative-ai-learning-analytics]] — צמיחה מונחית-עצמית עם GenAI ואנליטיקת למידה
-- [[genai-educational-outcomes-meta-analysis]] — מטא-אנליזה של תוצאות חינוכיות של בינה מלאכותית יוצרת
-- [[andragogy-cognitive-delegation-genai-2026]] — אנדרגוגיה והאצלה קוגניטיבית עם GenAI
-- [[kim-ai-andragogy-2026]] — יישומי AI בתמיכת אנדרגוגיה (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — מודלים אינם בוחרים מטרות למידה כמו בני אדם במשימת בחירה חופשית (Molinaro et al. 2026)

@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,7 +44,3 @@ Kurslar bir Canvas API bağlantısı, bir IMS Common Cartridge dosyası, bir SCO
 ## Benimsemeden önce bilinmesi gerekenler
 
 Eklenti kurulum için Claude Code ve bir bash kabuğu gerektirir; PowerShell ve cmd kurulum betiğini çalıştıramaz ve puan eğilimleri için Python 3 önerilir. Kurs verisi okuyucunun kendi makinesindeki proje klasöründe kalır ve yalnızca kullanıcının çağırdığı bir entegrasyonla — örneğin bir Canvas API çağrısıyla — dışarı çıkar. Chrome eklentisinin canlı çıkarımı okuyucunun kendi ücretsiz Google AI Studio API anahtarını gerektirir; ancak bir simülasyon modu bunu anahtar olmadan gösterir. Proje kendini 3.5.1.0 sürümünde beta olarak etiketler ve küçük sürümler arasında kırıcı değişiklikler konusunda uyarır; ayrıca adlı bir yazar yerine savvides GitHub hesabı altında yayımlanır.
-
-## Bağlı kavramlar
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

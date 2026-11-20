@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -85,38 +87,3 @@ A tanulói identitás kapcsolódik az [[agency|ügynökséghez]] (az identitás 
 **„Az MI-támogatás csökkenti a korlátokat, és ezért szélesíti a részvételt."** Csökkentheti a munkatermelés korlátját, miközben szűkítheti a szerzőség igénylésének korlátját. Az a diák, aki egy folyékony artefaktumot ad be, amelyet nem ő szerzett, hozzáférést kapott az eredményhez, és megvonták tőle azt az elismerést, amely az identitást felépíti.
 
 **„A tanuló identitásának elismerése a tartalomban való reprezentáció kérdése."** A reprezentáció számít, de az elismerés a gyakorlatban valósul meg: kinek a kérdéseit veszik fel, kinek a hozzájárulását írják jóvá, és kit kezelnek képességesként. Egy [[curriculum-design|tanterv]] lehet reprezentatív, és mégis megvonhatja az identitásformálódáshoz szükséges elismerést.
-
-## Kapcsolódó fogalmak
-
-- [[learners]] — Tanulók: a tanuló-oldali fogalmak ernyője
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Kapcsolódó cikkek
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 egyetemista arról, mit tartanak meg maguknak, és miért ritkán dönt erről a cél
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — A kompetenciaparadoxon: kreatív identitás a szövegképgeneráló GenAI használatában
-- [[shame-guilt-ai-regulation-computing-education]] — A szégyen és a bűntudat mint az MI-használat társas szabályozói
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptív képességek az életképes szakmai identitáshoz egy GenAI-jövőben
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagógiai szimbiózis és a poszthumán tanuló
-- [[ai-pedagogical-accompaniment-amico]] — MI-alapú pedagógiai kísérés a STEM-identitás támogatásában
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Az autentikus értékelés tervezése
-- [[paternalistic-filter-llm-history-education]] — Paternalista MI-használat és diákidentitás a történelemoktatásban
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — A GenAI mint identitásválság a tanárok számára (tanári identitás)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-alapú tanárképzés és szakmai identitás
-- [[genai-professionalization-metaphors-2026]] — GenAI-koncepciók és a diákok szakmai identitása
-
-- [[synthetic-position-self-authorship-2026]] — Szerzői felfüggesztés: a delegált szerzőség mint sűrűn megszólaló, mégis szerző nélküli én (fogalmi elemzés)
-- [[vibe-coding-design-diversity-2026]] — Egy eszköz, egy ízlés? Hogyan cseréli fel a vibe coding a kollektív sokszínűséget egyéni kreativitásra

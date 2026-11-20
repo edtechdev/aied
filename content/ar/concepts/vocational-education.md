@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,31 +92,3 @@ ai_assist:
 **للباحثين**
 
 - أجرِ بعض الدراسات في أماكن العمل على الأقل. فقطاع يُعرَّف بالتعلّم القائم على العمل وتخلو قاعدة أدلته من دراسات مكان العمل لم يختبر ادعاءه المركزي بعد.
-
-## مفاهيم مرتبطة
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## مقالات مرتبطة
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — تجديد مناهج CTE التكيفي، خمسة أبعاد وستة اختبارات قيادية
-- [[ai-vocational-education-training-review]] — أول مراجعة منهجية للذكاء الاصطناعي في التعليم والتدريب المهني: الأغراض والنظرية والفاعلية التجريبية
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: التعلّم القائم على المشاريع الغامر وإبداع التصميم
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: تقويم شفوي مدعوم بالذكاء الاصطناعي دون اتصال في التعليم والتدريب المهني التقني
-- [[ai-pedagogical-accompaniment-amico]] — نموذج Amico ثنائي النمط: مبادئ التصميم والمؤشّرات الملاحَظة
-- [[ai-autonomous-learning-accomplishment-2026]] — التعلّم المستقل المدعوم بالذكاء الاصطناعي ونقص الإنجاز، بتوسّط المتانة
-- [[astra-atco-training-simulator]] — طيّارو محاكاة مستقلّون لتدريب مراقبي الحركة الجوية القابل للتوسّع
-- [[crewscaler-ai-upskilling-framework]] — إطار شامل متسارع بالذكاء الاصطناعي لرفع المهارات المهنية السريع
-- [[genai-xr-architectural-design-education-2026]] — حالة مضادة: الذكاء الاصطناعي التوليدي زائد واقعًا ممتدًّا متعدّد المستخدمين مع انخفاض الثقة بالنفس في التصميم
-
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — الدعم المُدرَك لتقنية المعلومات رافعة مؤسسية في الكليات المهنية
-

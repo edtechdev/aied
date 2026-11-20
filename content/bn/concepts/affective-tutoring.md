@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -109,24 +111,3 @@ Favero প্রমুখ (2025) সতর্ক করেন, এআই টি�
 
 - আপনার জয়ের হার কোন ভিত্তিরেখার বিপরীতে মাপা হয়েছে তা প্রতিবেদন করুন, এবং স্পষ্ট বলুন এটি তুলনামূলক বিচার। এরপর মাপুন ক্ষেত্রটির আসলে যা দরকার: অ-অভিযোজনশীল প্রসঙ্গে হস্তান্তর, টিউটর সরানোর পর ধারণ, এবং আবেগ-চ্যানেল বন্ধ থাকলে লাভ টেকে কি না।
 - আবেগ-প্রোফাইল স্বাধীন চলরাশি হিসেবে ব্যবহারের আগে বিশেষজ্ঞ-বিচারের বিরুদ্ধে যাচাই করুন।
-
-## সংযুক্ত ধারণা
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — মানুষ সহানুভূতি অফলোড করে যখন মনে করে এআই তা দিতে পারে (Shastry ও Gray 2026)

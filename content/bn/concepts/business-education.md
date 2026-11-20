@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,36 +78,3 @@ ai_assist:
 - **"শিক্ষার্থীরা এআই চায় কারণ তারা শর্টকাট চায়।"** একটি শিক্ষার্থী-অবহিত কাঠামোয় দেখা গেছে শিক্ষার্থীরা **উচ্চমাত্রায় নিমগ্ন ও সচেতন যে কর্মজীবনের জন্য জেনএআই দক্ষতা দরকার**, একইসঙ্গে **অনিচ্ছাকৃতভাবে একাডেমিক অসদাচরণ না করে এআই ব্যবহার করতে** চায়। চাহিদাটি সুস্পষ্ট সীমানাসহ সামর্থ্যের, কাজ এড়ানোর অনুমতির নয়।
 - **"ব্যবসায় পাঠ্যক্রমে এআই মডিউল যোগ করলেই সুবিধা ধরা পড়ে।"** গঠনমূলক সামঞ্জস্য নিয়ে গবেষণায় দেখা গেছে **সুবিধা না ঝুঁকি প্রাধান্য পাবে তা নির্ধারিত হয় পাঠ্যক্রম সংযোজনের মাত্রা দ্বারা** — কার্যকর পার্থক্য হলো **সংযুক্ত করুন, জুড়ে দেবেন না**। বাইরে থেকে জোড়া দেওয়া মডিউল মূল্যায়ন-নকশা অপরিবর্তিত রেখে যায়।
 - **"সরঞ্জামের পরিশীলন প্রচলিত ই-লার্নিংকে হারিয়ে দেয়।"** **130-শিক্ষার্থীর** উপলব্ধি-অধ্যয়নে দেখা গেছে **চ্যাটবট ও এজেন্ট — উভয় সহায়তাই চিরায়ত ই-লার্নিংয়ের চেয়ে বেশি রেট পেয়েছে** উন্নয়ন, ব্যক্তিকরণ ও সিদ্ধান্ত-গ্রহণে। লক্ষণীয় এটি কী মাপে: একটি প্রচলিত বেসলাইনের বিপরীতে শিক্ষার্থীর *উপলব্ধি*, তার বিপরীতে শেখা নয়।
-
-## সংযুক্ত ধারণা
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — কেস-স্টাডি, কেস পদ্ধতি ও কেস-আলোচনা
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[ai-decision-checkpoints-bpm-education-2026]] — এআই-বর্ধিত ব্যবসায় প্রক্রিয়া ব্যবস্থাপনার জন্য এআই-সিদ্ধান্ত চেকপয়েন্ট: কাঠামো ও শিক্ষাগত মূর্তকরণ
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: ই-কমার্স কোর্সে এজেন্টিক GAI সহায়তা, অনুভূত সুবিধা ও ঝুঁকি (Ilieva প্রমুখ 2026)
-- [[drummond-genai-business-schools-framework-2026]] — ব্যবসায়িক স্কুলে জেনএআই-এর শিক্ষার্থী-অবহিত কাঠামো (Drummond ও Dale 2026)
-- [[espino-ai-business-education-review-2026]] — ব্যবসায় শিক্ষায় এআই-এর এক দশক (Espino ও Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — ব্যবসায় উচ্চশিক্ষায় জেনএআই-এর গঠনমূলক সামঞ্জস্য (Zhou প্রমুখ 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — পাঠ্যক্রমে জেনএআই সংযোজনে শিক্ষার্থী-অন্তর্দৃষ্টি (Rook ও Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — উচ্চশিক্ষায় এআই গ্রহণের প্রাতিষ্ঠানিক চালক (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — ব্যবসায় অনুকরণ-খেলায় এআই কথোপকথন-এজেন্টের CAIS-GBL কাঠামো (Wenzel প্রমুখ 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — শিক্ষার্থী-বিপণন পোস্টের স্বয়ংক্রিয় স্কোরিংয়ে সমতা ও ত্রুটি
-- [[shi-genai-experiential-learning-management-education-2026]] — ব্যবস্থাপনা শিক্ষার শিক্ষাবিদ্যা পুনর্বিন্যাসে তিনটি জেনারেটিভ এআই প্রক্রিয়া
-- [[alam-process-oriented-collaborative-essays-2026]] — Business Analyst অ্যাপ্রেন্টিসশিপে প্রক্রিয়া-মুখী সহযোগী প্রবন্ধ: নথিভুক্ত পুনরাবৃত্তির নম্বর, বিষয়ের নয়
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — কোর্সে-নির্মিত RAG চ্যাটবট প্রত্যাশা নাড়িয়েছে, ফলাফল নয়
-- [[csaszar-ai-management-education-2026]] — ব্যবস্থাপনা শিক্ষায় এআইয়ের প্রভাব: একটি মূল্য-ভিত্তিক কৌশল-বিশ্লেষণ (Csaszar প্রমুখ ২০২৬)

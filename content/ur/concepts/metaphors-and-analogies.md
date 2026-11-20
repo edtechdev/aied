@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -120,36 +122,3 @@ ai_assist:
 یہ بات کام کو بیکار نہیں بناتی۔ یہ دعووں کو مناسب طور پر متواضع بناتی ہے۔ استعارہ ابھارنا ایسے مفروضات سامنے لا سکتا ہے جو سروے چھوڑ دیتے ہیں۔ تشبیہ کی تنقید ساختی سمجھ کو نمایاں کر سکتی ہے۔ اچھی طرح چنا گیا استعارہ کلاس کو بحث کے لیے مشترکہ شے دے سکتا ہے۔ مگر میدان کو ابھی بھی ایسے مطالعات چاہیے جو استعارے پر مبنی تدریس کا عام تدریس سے موازنہ کریں، استعارے کی یادداشت کے بجائے منتقلی ناپیں، اور جانچیں کہ طریقہ ثقافتوں اور شعبوں میں سفر کرتا ہے یا نہیں۔
 
 حد سے زیادہ دعوے کا خطرہ دونوں سمتوں میں حقیقی ہے۔ جو استاد استعارے کو مکمل وضاحت سمجھے وہ غلط فہمی بٹھا سکتا ہے۔ جو محقق استعارے کو محض آرائش سمجھے وہ ایسا طریقۂ کار کھو سکتا ہے جس سے طلبہ ذہنی ماڈل بناتے ہیں یا بنانے میں ناکام رہتے ہیں۔ پیداواری موقف یہ ہے کہ استعارے کو ایک ڈیزائن شدہ، جزوی اور قابلِ تنقید نمائندگی سمجھا جائے، اور یہ مطالعہ کیا جائے کہ سیکھنے والے اُس کے ساتھ کیا کرتے ہیں۔
-
-## منسلک تصورات
-
-- [[ai-literacy]] — تنقیدی AI خواندگی اور استعارے پر مبنی تدریس کی چھتری۔
-- [[critical-thinking]] — تشبیہ کی تنقید بطور ساختی استدلال کی صورت۔
-- [[misconceptions]] — ناقص تشبیہات بطور دیرپا غلط فہمیوں کے ماخذ۔
-- [[student-ai-interaction]] — طلبہ AI کی وضاحتوں کی تشریح اور جانچ کیسے کرتے ہیں۔
-- [[pedagogical-agent]] — وہ AI ٹیوٹر جو وضاحتیں یا تشبیہات پیدا کرتے ہیں۔
-- [[learning-design]] — تشبیہ پر مبنی مواد کا انتخاب اور ترتیب۔
-- [[educational-development]] — فیکلٹی ڈویلپمنٹ میں استعارہ ابھارنا۔
-- [[engineering-education]] — انجینئرنگ میں فیکلٹی اور طلبہ کے استعارے۔
-- [[cs-education]] — کمپیوٹنگ تعلیم میں تشبیہ کا استعمال اور تنقید۔
-- [[cognitive-offloading]] — اوزار اور معاون کے استعارے اور اُن کے خطرات۔
-- [[trust-calibration]] — انسان نما کردار اور غلط جگہ کا بھروسہ۔
-- [[equity-in-ai-education]] — کس کے ماخذی میدان مانوس شمار ہوتے ہیں۔
-- [[teacher-role]] — AI سے پیدا شدہ وضاحتوں پر استاد کا فیصلہ۔
-- [[explainable-ai]] — نظام کی وضاحت بمقابلہ تدریسی تشبیہ۔
-- [[student-engagement]] — شخصی تشبیہات کے شمولیتی اثرات۔
-- [[higher-ed]] — اِس جھرمٹ کے زیادہ تر مطالعات کا میدان۔
-
-## منسلک مضامین
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — تنقیدی AI خواندگی سکھانے کے لیے چار استعارے اور معیار
-- [[student-reception-genai-analogies-computing-2026]] — طلبہ GenAI سے پیدا شدہ تشبیہات کی جانچ کرتے ہیں اور ٹوٹی نقشہ بندیاں درست کرتے ہیں
-- [[fear-awe-genai-metaphor-workshops-2025]] — طلبہ، ماہرینِ تعلیم اور عملے کے ساتھ استعارہ تجزیے کی ورکشاپس
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — انجینئرنگ فیکلٹی کے استعارے AI کی سمجھ بناتے اور محدود کرتے ہیں
-- [[genai-professionalization-metaphors-2026]] — GenAI اور پیشہ ورانہ سیکھنے کے بارے میں طلبہ کے استعاراتی تصورات
-- [[thermomix-genai-education-analogy-2026]] — AI کے ساتھ کام کی حوالگی اور سیکھنے کے لیے باورچی خانے کی مشین کی تشبیہ
-- [[anvil-ai-educational-animations]] — کمپیوٹنگ کے لیے AI سے پیدا شدہ تشبیہات اور تدریسی اینیمیشن
-- [[ai-engineering-education-balancing-act]] — طلبہ کے "اوریکل" اور "ٹیوٹر" استعارے LLM کی صلاحیتوں سے آگے نکل جاتے ہیں
-- [[code-anchor-multi-view-visualization]] — استعاراتی بصری سہارے اور اُن کا جواز کا مسئلہ
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — طالب علم کا "فیڈبیک کی وینڈنگ مشین" استعارہ بطور خواندگی کا ثبوت
-- [[daoism-ai-education-philosophy-2026]] — تعلیم میں AI کے متقابل استعارے کے طور پر "Zhenren"

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -39,8 +40,3 @@ ai_assist:
 ## 它为什么存在
 
 Curt Zilbersher 做了二十八年企业培训设计，他描述了同一批小问题在他职业生涯中反复出现——统计解说词字数、找出让课程超出 [[edtech-platform|LMS]] 限额的那个素材、手工核对字幕覆盖率——于是他一边做这些修复工具，一边免费提供给大家。网站还每年免费做一次调查，了解教学设计者们实际如何度过自己的一周。
-
-## 关联概念
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

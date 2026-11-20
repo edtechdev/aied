@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -106,50 +108,3 @@ ai_assist:
 **"AI로 요령을 부리는 학생은 도덕적으로 문제가 있다."** 이 지식 기반은 최소 노력으로 향하는 끌림을 인격의 문제가 아니라 설계와 정책의 문제로 다룹니다. 학생들은 그것을 자기 말로 서술하며, [[reducing-ai-misuse|오용]]과 [[academic-integrity|진실성]] 문헌은 지렛대를 과제와 환경 설계에 둡니다. 도덕의 문제로 틀 짓는 것은 같은 학생이 두 강좌에서 다르게 행동하는 이유를 전혀 설명하지 못합니다.
 
 **"부정행위 의혹이 제기되면 증거는 갖춰져 있다."** 1,162건의 생성형 AI 의혹 사건 파일 분석은 제도적 대응이 도착할 때 학습자가 실제로 무엇을 마주하는지를 보여 주며, 부정행위 절차의 학생 쪽은 사용의 학생 쪽보다 문헌에서 훨씬 얇습니다. 학습자의 사용만 기록하고 고발에 노출된 경험을 기록하지 않는 페이지는 경험의 절반만 기록한 것입니다.
-
-## 연결된 개념
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — 학습자가 AI를 어떻게 인식하고, 상호작용하고, 영향을 받는지
-- [[learner-identity]] — 한 분야와 AI에 관계하여 학습자가 누가 되어 가는지
-- [[agency]] — 학습자가 여전히 통제하고 선택하는 것
-- [[student-ai-interaction]] — 학습자가 AI에게 실제로 무엇을 요청하고 대화가 어떻게 진화하는지
-- [[cognitive-offloading]] — 과잉 의존과 사고에 대한 AI의 대체
-- [[self-regulated-learning]] — 자신의 학습을 계획하고, 감시하고, 조정하기
-- [[help-seeking]] — 도움을 잘 요청하기, 그리고 학습자가 그렇게 하지 않을 때의 실패 양상
-- [[metacognition]] — 자신이 이해하는 것과 이해하지 못하는 것을 알기
-- [[motivation]] — 학습자가 지속하거나 멈추는 이유
-- [[self-efficacy]] — 자신의 역능에 대한 학습자의 자신감
-- [[student-engagement]] — 행동적, 정서적, 인지적 참여
-- [[prior-knowledge]] — 지원이 학습이 되는지를 결정하는 배경 지식
-- [[student-modeling]] — 시스템 안에서의 학습자 표상
-- [[knowledge-tracing]] — 시간에 걸친 기술 습득의 추정
-- [[simulating-students]] — 임시적 대리물로서의 LLM 시뮬레이션 학습자
-- [[ai-literacy]] — 학습자가 AI를 잘 사용하는지를 결정하는 역량
-- [[equity-in-ai-education]] — 누가 이익을 얻고 누가 소외되는가
-- [[well-being]] — 불안, 스트레스, AI 매개 학습의 정서적 비용
-- [[misconceptions]] — 학습자가 AI에 대해 가져오는 정신 모형
-- [[stakeholders]] — 같은 분야의 다른 쪽: 교수자, 리더, 설계자
-- [[assessment]] — 어떤 학습자 역량이 결코 가시화되는가
-
-## 연결된 문서
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — 의존 양상과 평가 리터러시가 학생 결과를 가른다
-- [[student-perceptions-ai-study-productivity-2026]] — 학습자는 의존 우려와 나란히 효율성 이득을 보고한다
-- [[student-llm-interaction-taxonomy-review-2026]] — 학습 지향적 학생-LLM 상호작용의 분류
-- [[student-ai-conversations-cognitive-engagement-2026]] — 학생-AI 대화에서의 분야 특정 양상
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 독립적 역량 없이 보조된 수행 향상
-- [[genai-performance-vs-learning]] — 보조된 수행과 보조 없는 학습을 왜 따로 측정해야 하는가
-- [[shaw-nave-cognitive-surrender-2026]] — 우연이 아니라 경향으로서의 인지적 항복
-- [[metacognitively-discordant-completion-genai-2026]] — 이해하지 못한다는 것을 알아차리고도 제출하는 학습자
-- [[verification-quality-reliance-calibration-genai-2026]] — 검증 품질과 의존 보정
-- [[simulating-students-llm-review-2026]] — 시뮬레이션된 학생: 구조, 메커니즘, 한계
-- [[stanbkt-bayesian-knowledge-tracing]] — 베이즈 지식 추적에서의 모수 추정
-- [[demographic-signals-llm-student-assessment-2026]] — LLM 기반 평가에서의 암묵적·명시적 인구통계학적 신호
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI 리터러시, 참여, 심리적 자본
-- [[genai-student-experiences-uk-he-survey-2026]] — 학생들은 최소 노력의 당김을 기술한다
-- [[mulisa-students-genai-integrity-perspectives-2026]] — GenAI가 부정행위 도구인지 학습 동반인지에 관한 학생들의 견해
-- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 신고 파일이 실제로 증거로 담고 있는 것
-- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 규칙과 그것이 잡아내는 학생들
-- [[sharma-judgment-visible-genai-assessment-2026]] — 준수가 아니라 평가적 판단으로서의 정직성
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 원격 감독이 학생에게 미치는 정서적·형평성 비용

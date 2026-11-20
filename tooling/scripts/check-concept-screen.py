@@ -76,7 +76,11 @@ def changed_article_slugs(wiki):
         if p.endswith('.md') and len(parts) >= 3 and parts[0] == 'content' \
                 and parts[1] == 'en' and parts[2] == 'articles':
             slugs.add(os.path.basename(p)[:-3])
-    return sorted(slugs)
+    # A connected-list-only migration does not touch the narrative this gate screens.
+    import connected_migration
+    skip = connected_migration.migration_only_set(
+        [f'content/en/articles/{s}.md' for s in slugs])
+    return sorted(s for s in slugs if f'content/en/articles/{s}.md' not in skip)
 
 
 FACET_FIELDS = (

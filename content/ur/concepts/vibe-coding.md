@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -95,30 +97,3 @@ ai_assist:
 
 - نتائج کے ساتھ ساتھ وائب کوڈنگ کی حالت (خالص بمقابلہ کوڈ-نظر آنے والی) بھی رپورٹ کریں، اور [[self-report-measures|خود رپورٹ شدہ]] کامیابی کے بجائے ماہرین سے تصدیق شدہ، GUI-مرکوز کام استعمال کریں تاکہ نتائج مختلف مطالعات میں موازنہ کے قابل رہیں۔
 - اگر رسائی کا دعویٰ جانچا جا رہا ہے تو مصنوعات کا تنوع ناپیں، صرف مصنوعات کی گنتی یا بنانے والوں کی تعداد نہیں۔
-
-## منسلک تصورات
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## منسلک مضامین
-
-- [[vibe-coding-writing-cs-achievement-2026]] — کمپیوٹر سائنس کی کامیابی اور تحریری مہارت وائب کوڈنگ کی مہارت کی پیش گوئی کرتی ہیں (CHI 2026 کا تجرباتی مطالعہ)
-- [[gaide-vibe-coding-k12-teachers]] — K-12 اساتذہ کے لیے وائب کوڈنگ کے ذریعے AI سے چلنے والی سیکھنے کی ٹیکنالوجیز بنانے کی رہنما چوکھٹ
-- [[vibe-coding-programming-process-visualizer]] — خیال سے کلاس روم تک چند دنوں میں: IDE سرگرمی لاگز سے پروگرامنگ کے عمل کا بصری نمائندہ بنانے کے لیے "وائب کوڈنگ" کا استعمال
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — وائب کوڈنگ نے گھنٹوں میں دو انجینئرنگ سمولیشنز بنائیں؛ پروٹوکول کی غلطی کی تشخیص کے لیے پھر بھی مدرس درکار تھا
-- [[prompt-problems-nl-programming-mistakes]] — قدرتی زبان میں پروگرامنگ کے کام حل کرتے وقت طلبہ کے تاثرات، غلطیاں اور ڈی بگنگ کے طریقوں کو سمجھنا
-- [[code-to-learn-genai-artifact-construction-2026]] — جنریٹو AI کے ساتھ کوڈ سے سیکھنا: اعلیٰ ثانوی تعلیم میں مصنوع کی تعمیر کے لیے نظریاتی طور پر بنیاد رکھا فریم ورک
-- [[reshaping-cs-education-genai]] — جنریٹو AI کے لیے انڈر گریجویٹ CS تعلیم کی تشکیلِ نو
-- [[flowcode-ai-creative-coding]] — Flowcode: تخلیقی کمپیوٹنگ تعلیم میں تکرار کو سہارا دینے والا AI سے چلنے والا پروگرامنگ ماحول
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI انٹراپرینیورشپ: فیکلٹی کے اپنے ٹولز بنانا، اور وہ تنظیمی عوامل جو طے کرتے ہیں کہ یہ جذبہ زندہ رہے گا یا نہیں (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — ایک ٹول، ایک ذائقہ؟ وائب کوڈنگ اجتماعی تنوع کو انفرادی تخلیقیت کے بدلے کیسے بیچ دیتی ہے

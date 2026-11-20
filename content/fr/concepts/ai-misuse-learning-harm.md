@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -124,38 +126,3 @@ La littérature sur le gaming-the-system (l'abus d'indices, les réponses devin�
 **« Si la performance à l'entraînement s'améliore, l'outil fonctionne. »** Dans l'essai contrôlé randomisé causal de terrain portant sur environ 1,000 élèves de mathématiques du secondaire, un tuteur de type ChatGPT sans garde-fous a élevé la performance assistée à l'entraînement de **+48%** tout en *réduisant* de **17%** les scores à l'[[summative-assessment|examen à livre fermé]] sans assistance. Les directions sont opposées, si bien que toute évaluation qui lit le chiffre de l'entraînement comme le résultat certifiera exactement le préjudice qu'elle est censée détecter.
 
 **« Les apprenants qui utilisent l'IA craignent surtout d'être pris. »** Leurs préoccupations déclarées sont développementales. Dans une étude, **51% des participants (n = 106)** craignaient que l'usage de l'IA générative puisse entraver le développement individuel, citant des pertes pour la [[critical-thinking|pensée critique]], la créativité et l'autonomie plutôt que des infractions aux règles. Le cadrage par l'[[academic-integrity|intégrité]] qui domine le discours institutionnel n'est pas celui auquel les étudiants eux-mêmes recourent.
-
-## Concepts liés
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Articles liés
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Étude suédoise par enquête et groupes de discussion soutenant que l'éthique du partenariat, plutôt qu'un cadrage sur la tricherie, devrait guider les décisions institutionnelles sur l'IA générative
-- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels désengagés et apprentissage dans les dialogues étudiant-IA (Rho et al. 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI sans garde-fous peut nuire à l'apprentissage
-- [[genai-performance-vs-learning]] — Distinguer les gains de performance de l'apprentissage
-- [[ai-availability-student-motivation]] — La disponibilité de l'IA et la motivation des étudiants
-- [[genai-skill-bypass-literacy]] — Le contournement des compétences par GenAI et la littératie
-- [[cognitive-shift-ai-education]] — Le changement cognitif dans l'éducation à l'IA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Le délestage cognitif dans la collaboration étudiant-IA
-- [[cognitive-commons-ai-expertise-regeneration]] — La tragédie des communs cognitifs : l'IA et la régénération de l'expertise
-- [[lodge-loble-cognitive-offloading-2026]] — L'IA, le délestage cognitif et leurs implications pour l'éducation (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Le recours excessif à l'IA modélisé comme un système adaptatif complexe
-- [[academic-erasure-complexity-ai-writing-2026]] — L'effacement académique : la disparition de la complexité sous l'écriture assistée par l'IA
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — La dépendance à l'IA médiatise pleinement le chemin allant du sentiment d'efficacité personnelle et du soutien des enseignants à l'épuisement lié à l'apprentissage (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Le recours précoce prédit l'impact négatif tandis que le recours cognitif prédit l'impact positif, et la littératie d'évaluation renforce plutôt qu'elle ne tamponne le préjudice de consulter l'IA d'abord (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI : une approche pratique de l'enseignement avec l'intelligence artificielle

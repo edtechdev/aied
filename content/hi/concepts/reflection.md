@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -164,45 +166,3 @@ ai_assist:
 - **"[[automated-assessment|स्वचालित स्कोरिंग]] पैमाने की समस्या हल कर देती है।"** वर्गीकरणकर्ता गंभीर वर्ग-असंतुलन वाले अच्छी तरह चिह्नित संग्रह में चिंतन-स्तर पर लगभग 70% तक पहुँचते हैं, और वह सीमा विश्वसनीय पाठ की पहुँच के भीतर है।
 - **"पोर्टफोलियो स्वभाव से चिंतनशील होते हैं।"** कंटेनर क्रिया नहीं है; तैयार उत्पादों से जुटाया गया पोर्टफोलियो अपने भीतर कोई चिंतन नहीं रख सकता।
 - **"चिंतन को सिखाने की ज़रूरत नहीं।"** हंगेरियन निबंध-संग्रह और पूर्व-सेवा शिक्षक प्रयोग, दोनों यह मानकर चलते हैं कि स्तर और गुणवत्ता सीखी जाती है, और तैयारी परिणाम बदलती है।
-
-## संबंधित अवधारणाएँ
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## संबंधित लेख
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — पूर्व-पंजीकृत 302-वयस्क प्रयोग: चिंतन प्रॉम्प्टों ने प्रतिपुष्टि पर समय दोगुना किया और अभ्यास की मात्रा 40% घटाई, बिना प्रति-समस्या लाभ बढ़ाए (Asher, Gold और Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — दस्तावेज़ित प्रॉम्प्ट और पुनरावृत्तियों पर बना GenAI-सजग पाँच-भागीय चिंतन मॉडल, अंतिम पाठ पर नहीं (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 चिह्नित निबंध, गंभीर वर्ग-असंतुलन, उथले मॉडल 71% पर और ट्रांसफ़ॉर्मर 68% पर (2026)
-- [[reflection-agent-fidelity-career-2026]] — यह समझाने के लिए 17,930 टर्न कोड किए गए कि एक AI चिंतन-साथी ने उपयोगकर्ताओं को कम प्रतिबद्ध क्यों छोड़ा (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — आत्म, सहयोगी और सामुदायिक चिंतन, AI संज्ञानात्मक मध्यस्थ के रूप में (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 K–12 शिक्षक: समय नौसिखिए की बाधा, प्रदर्शन-निगरानी विशेषज्ञ की (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — चार GenAI प्रथाएँ और ग्यारह प्रक्रियाएँ, हर एक चिंतनशील सोच का समर्थन या प्रतिस्थापन कर सकती है (Dalsgaard और Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — चिंतनशील जर्नलिंग दिनचर्या टिकाए रखने पर यादृच्छिक 2×2 क्षेत्र-प्रयोग (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — सुकरातीय LLM चिंतन-साथी के विरुद्ध रणनीति प्रशिक्षण का 2×2 परीक्षण (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — बिना किसी समग्र स्कोर वाला गैर-नैदानिक आत्म-चिंतन उपकरण (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — चिंतनशील AI उपयोग एक मापा गया निर्माण, जो स्वीकृति को आत्म-प्रभावकारिता और जुड़ाव से जोड़ता है (Wang और Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — संरचित चिंतन एक जीवंत इनपुट के रूप में, जो अगले प्रतिपुष्टि-चक्र को फिर से अंशांकित करता है (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — नैतिक GenAI उपयोग के लिए स्व-मूल्यांकन के भीतर निर्देशित चिंतन (Pedlow और Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — AI उपयोग के बाद पहचानने, पुनर्वितरित करने और चिंतनशील रूप से फिर से जुड़ने पर 18 शिक्षक (Ho और Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — स्थिति-पत्र: इस बात का कोई साक्ष्य नहीं कि चिंतन प्रॉम्प्ट टिकाऊ स्व-निगरानी बनाते हैं (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAI के साथ 16-सप्ताह के WordPress ई-पोर्टफोलियो, प्रतिपुष्टि-प्रदाता और संश्लेषक के रूप में (Ni और Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ई-पोर्टफोलियो मूल्यांकन के साथ संरेखित ChatGPT, Wilks' λ = 0.476, आंशिक η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — एक स्कैफ़ोल्ड ने विश्लेषणात्मक और मूल्यांकनात्मक गहराई बढ़ाई जबकि कार्रवाई-योजना स्थिर रही (Liu एट अल. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26-अध्ययन मैपिंग: सेवा-अधिगम चक्र का प्रतिबिंब सबसे कम-सेवित चरण (Yusuf एट अल. 2026)

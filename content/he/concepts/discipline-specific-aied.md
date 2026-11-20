@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -112,51 +114,3 @@ ai_assist:
 - **"תחום הדעת חשוב בעיקר לדוגמאות תוכן."** מחקר על **560 סטודנטים** מצא שהשתייכות תחומית **מנבאת באיזו תדירות ובאיזו פתיחות סטודנטים משתמשים ב**[[generative-ai|בינה מלאכותית יוצרת]]. תחום הדעת מעצב אם בכלל משתמשים בכלי ואם השימוש נחשף, ולא רק על מה שואלים אותו.
 - **"חוצה-תחומיות היא מטרה מוסדית גנרית."** **צורתו של "חוצה-תחומי" עצמה נקבעת על ידי תחום הדעת**: [[xia-ai-interdisciplinary-higher-education-review-2026|סקירתם של Xia et al. (2026)]] [[meta-analysis-systematic-review|מגלה]] שהצורה שהוא לובש משתנה לפי שדה. הגדרה מוסדית אחת קוראת שלא כהלכה לפחות חלק מהתחומים שהיא מכסה.
 - **"לחינוך המקצועי יש בסיס מחקרי הדומה לזה של תחומי הדעת האקדמיים."** זרם החינוך המקצועי הוא **הדל ביותר בראיה הזו**: סקירה שיטתית של **26 מחקרים** בחינוך והכשרה מקצועיים לא מצאה **אף אחד שנערך בהגדרות מקום-עבודה** — ההגדרות שבהן הכשירות למעשה מיושמת. היעדרות הספרות היא פער, לא תוצאה אפסית.
-
-## מושגים מחוברים
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## מאמרים מחוברים
-
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — סקירה שיטתית של בינה מלאכותית בחינוך גבוה חוצה-תחומי (59 מחקרים)
-- [[llms-text-linguistics-teaching-2026]] — מודלים לשוניים בהוראת בלשנות טקסט
-- [[fowlin-operationalizing-learning-principles-ai]] — יישום עקרונות למידה עם בינה מלאכותית בחינוך מקצועות הבריאות
-- [[designing-ai-professional-development-itpack-2026]] — פיתוח מקצועי בינה מלאכותית מבוסס intelligent-TPACK
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK ספציפי-GenAI בחינוך מורים
-- [[human-centered-ai-teacher-educators-2026]] — למידה מקצועית באוריינות בינה מלאכותית ביקורתית עבור מחנכי מורים
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — קוגניציה פרשנית בחינוך מדעי הרוח והחברה
-- [[becker-chatgpt-typology-physics-2026]] — טיפולוגיה שימוש ב-ChatGPT בחינוך פיזיקה
-- [[code-review-genai-cs1]] — סקירת קוד GenAI ב-CS1
-- [[ai-writing-support-stage-ownership-2026]] — תמיכת כתיבת בינה מלאכותית מבוססת-שלב ובעלות
-- [[ai-engineering-education-balancing-act]] — מאזן ההליכות של בינה מלאכותית בחינוך הנדסה
-- [[ai-literacy-career-adaptability-business-2026]] — אוריינות בינה מלאכותית והסתגלות קריירה בחינוך עסקי
-- [[jiang-genai-activity-theory-disciplines-2026]] — תיאוריית הפעילות: הבדלים תחומיים בשימוש ובגילוי של GenAI (560 סטודנטים)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — סימולציה מונעת-בינה מלאכותית בחינוך סיעוד: רווחים בידע ובביטחון, השפעות לא-עקביות על מיומנות פסיכומוטורית
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI כפיגום או כקיצור-דרך בלמידת IT בוגרת
-- [[ai-vocational-education-training-review]] — הסקירה השיטתית הראשונה של בינה מלאכותית בחינוך והכשרה מקצועיים
-- [[genai-architectural-design-studios]] — מודלים יוצרים בסטודיו העיצוב: גירוי, הרחבת מרחב-הפתרונות, ותיקון
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — כללי עצירת-שליטה שמתעדים כלל מוכלל-יתר ככשירות

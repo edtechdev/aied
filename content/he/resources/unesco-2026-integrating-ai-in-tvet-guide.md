@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
@@ -41,12 +42,3 @@ ai_assist:
 ## הערות ואזהרות
 
 זהו קו מנחה ולא הערכה. המדריך אינו מציג נתוני תוצאות, והדוגמאות המוסדיות בו, מודל למידה עם בינה מלאכותית משולבת בתכנים ב-College of the North Atlantic בקנדה והתקן הקנייתי מ-2023 בדבר התמחות תעשייתית בהשכלה מקצועית, הן תיבות מקרה תיאוריות המבוססות על דוחות פרויקט ולא על ניסויים בלתי תלויים. הנספחים מגדירים עצמם כאינדיקטיביים; סולם הבגרות הוא עזר לדיון ולא כלי מדידה. מקצועות קריטיים לבטיחות ומקצועות מוסדרים מקבלים פרק נפרד, אך הוא מציג עמדה בדבר פיקוח אנושי ולא פרטים רגולטוריים. הרישיון CC BY-SA 3.0 IGO מתיר התאמה ופרסום מחדש עם ייחוס ושיתוף זהה.
-
-## מושגים מחוברים
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

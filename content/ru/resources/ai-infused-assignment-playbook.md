@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -50,16 +51,3 @@ translation_note: "Автоматический перевод данной ан
 ## Примечания и оговорки
 
 Это практическое руководство, а не эмпирическое исследование; его утверждения об использовании ИИ студентами опираются на цитируемые внешние источники (BestColleges, Campbell, Digital Education Council, Flaherty), а не на новые данные. Рамка «конструирования сети» и формулировка «иллюзия понимания» взяты из более широкой литературы (Wigmore и др.; Williamson и др.) и представлены как педагогическое обоснование, а не как проверенные результаты самого руководства. Задания — это авторские шаблоны; ни одно из них не сопровождено данными о размере эффекта, поэтому их следует рассматривать как конструкции для адаптации и локальной оценки. Опубликовано 2026-10-07, v1, на Zenodo под лицензией CC BY 4.0; доступно для скачивания бесплатно и без учётной записи. На момент загрузки в базу знаний запись насчитывает лишь ~35 просмотров и ~14 скачиваний, так что внешнего использования или рецензирования пока почти не было.
-
-## Связанные концепции
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

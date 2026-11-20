@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -104,7 +106,6 @@ ai_assist:
 
 - **"AI를 더 많이 쓰면 학생의 저자 의식이 줄어든다."** 선형적으로 그렇지는 않습니다. 도구가 갖춰진 에세이 연구에서 인지된 소유감은 에세이 전체를 위임한 집단에서만 떨어졌고, 모형을 계획이나 검토에 사용한 학생들은 그것을 한 번도 열지 않은 학생들과 같은 소유감을 보였습니다. 같은 집단은 에세이 가독성에서도 더 높은 점수를 받았으므로, 저자성이 얇아질수록 산출물은 더 좋아 보였습니다. 주체성은 도구를 사용했는지가 아니라 어떻게 사용했는지를 따랐습니다. [[jelson-students-chatgpt-essay-writing-2026|저자성은 사용량이 아니라 위임의 함수입니다]].
 
-
 ## 학습자 정체성과 대비되는 주체성
 
 [[learner-identity|학습자 정체성]]과 학습자 주체성은 혼동하기 쉽지만 다른 것을 지명합니다 — 그리고 둘 다 AI에 의해 다시 빚어집니다.
@@ -136,69 +137,3 @@ ai_assist:
 - **"학생은 AI를 자유롭게 쓸 때 주체성을 행사합니다."** **6,788개의 ChatGPT 보조 발화를 코딩한 14범주 체계**는 **7학년 학생 발화의 59%**를 주체적 사용을 나타내지 않는 범주에 배치했습니다. 사용량과 주체성은 다른 척도입니다.
 - **"현재 모형은 학습자 주체성을 잘 뒷받침합니다."** **열 개 모형에 걸친 비교에서 주체성의 뒷받침은 학습 다음으로 가장 취약한 곳입니다**. ImpactBench는 **Agency and Purpose를 긍정 기준에서 56.0%**로 측정했습니다. 주체성은 역량의 부산물이 아니라 AI 시스템이 가장 잘 다루지 못하는 차원입니다.
 - **"교사 매개는 주체성에 대한 제약입니다."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]]는 **8주간의 ChatGPT-4** 개입에 걸쳐 **중등 수학 교사 열 명**을 추적했고, 매개는 장애물이 아니라 기제입니다.
-
-## 연결된 개념
-- [[learners]] — 학습자 쪽 개념의 포괄 항목
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학업적 학습자 정체성
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — AI 매개 상호작용의 공유된 방향
-- [[agentic-ai]] — 집단 안에서 주체성을 재분배할 수 있는 자율 AI
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[social-emotional-learning]] — Social-Emotional Learning
-- [[cognitive-surrender]]
-
-## 연결된 문서
-- [[tench-ai-policy-isnt-a-playbook-2026]] — 미국 교사와 교장을 대상으로 한 전국 대표 표본 조사: AI 정책의 범위, 주체성, 그리고 다섯 가지 수업 실행 방안 (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 돕는 손인가 지배하는 파트너인가? 협력 학습에서 생성형 AI 의존과 인간 주체성에 대한 개인의 인식
-- [[yan-agentivism-learning-theory-ai-2026]] — 인간-AI 상호작용을 위한 중범위 학습 이론: 네 가지 메커니즘과 여섯 개의 검증 가능한 명제 (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — 학습자 주체성은 독립적 요소가 아니라 영역·AI·메타인지 역량을 조율하는 과정에서 드러나는 특성 (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — 선택에 대한 접근과 실제로 실현된 주체성의 구분: 군집 시뮬레이션에서의 슬라이더, 선택적 AI 에이전트, 학습
-- [[guarded-adoption-genai-higher-education-2026]] — 고등교육에서 생성형 AI의 보호된 도입
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 즐거운 평가, 그리고 제3의 공간
-- [[ai-mediated-research-agency-formation-2026]] — 초기 경력 과학자 양성에서 AI가 매개하는 연구 주체성 형성
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 생성형 AI 지원 글쓰기에서의 계층 민감적 인지 오프로딩 (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — 학교 AI 교육은 심리적 준비 격차는 좁히지만 인지적 준비 격차는 좁히지 않음
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — 관계적 인식론적 주체성과 생산적 의존을 유해한 의존과 구분하는 여섯 가지 기준 (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — STEM 정체성을 뒷받침하는 AI 기반 교육적 동행
-- [[t2i-competence-paradox-2026]] — 역량의 역설: 텍스트-이미지 생성형 AI 사용에서의 창조적 정체성
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 암묵적 인간-AI 협업에서 드러나는 학습자 주체성: 지지적 페르소나 대 반대적 페르소나
-- [[de-barba-srl-genai-2026]] — 규모에 따른 학습자 주체성: 규제, 통합, 위치 설정
-- [[mishra-control-vs-agency-history-2025]] — 통제 대 주체성 — AIED 역사의 핵심 긴장
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI에 대한 방법으로서의 도가
-- [[human-autonomy-agency-hri-review-2025]] — 인간-로봇 상호작용에서의 인간 자율성과 주체성
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — 생성형 사회적 로봇의 지식 기반 설계
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 학습과 관련된 과업에서 학생 주체성 기르기
-- [[shaw-nave-cognitive-surrender-2026]] — 삼체계 이론과 인지 항복: AI가 인간 추론을 재구성하는 방식 (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — 학습 설계에서의 생성형 AI 상호작용 중 예비 교사의 주체성 (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — 해방적 비전: 도구의 주체성과 제로섬 관계로서의 주체성
-- [[chen-zou-genai-group-assessment-agency-2026]] — 생성형 AI가 매개하는 집단 평가에서 주체성의 세 가지 양상: 강화됨, 억제됨, 실현되지 않음
-- [[ai-integrated-teaching-identity-tensions]] — AI 통합 수업에서 교사 주체성으로서의 원칙에 따른 선택 (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — 진단적 증거로서의 거부: AI를 거부하는 것을 상황적 관계이자 불균등한 권리로 보기 (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 도구를 극대화해 쓰기보다 중단, 수정, 거부를 통해 드러나는 인식론적 권위
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 고등교육 생성형 AI 연구에서 주체성, 인식론적 책임, 책무성에 관한 코퍼스 기반 담론 분석
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 성찰적 AI 참여에서 역량을 유지하는 의존을 향한 열린 질문들
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — AI 교육의 목표로서의 역량 대 주체성, 그리고 정보에 기반한 AI 주체성 휴리스틱 (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 생성형 AI를 권위가 아니라 비판의 대상으로 유지하게 하는 조건으로서의 교사 매개 (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 설계를 통해 동원되는 자원으로서의 교사 주체성 — 사용량이 아니라 산출물로 판단되는 준비도 (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — 실시간 동적 짝짓기 도구의 공동 조율에서 교사와 학생 주체성의 균형 맞추기 (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — 해석 권위 매트릭스와 생태적 권위 통합 모형: 누가 해석하는가의 네 가지 구성과 그것을 이동시키는 생태적 층위들
-- [[gyekye-selves-apprenticeship-2026]] — 도제 프로그램의 유색인종 학생들은 AI를 통해 거부, 협상, 인식을 통해 자신을 저술했습니다("문화적 평평함"); 기관적 AI 리터러시와 인식 대역폭
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 6,788개의 ChatGPT 보조 발화에서 나타난 중등 과학 글쓰기의 공유된 인식론적 주체성 (Chang 외)
-- [[jelson-students-chatgpt-essay-writing-2026]] — 인지된 소유감은 에세이 전체를 위임한 경우에만 떨어졌고, 계획과 검토에 사용한 학생은 비사용자와 같았습니다 (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — 누가 사고하는가? 1학년 학생의 AI 상호작용에서 인간 주체성 규명
-

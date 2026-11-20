@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -126,31 +128,3 @@ ai_assist:
 **«Οι θεωρίες μάθησης, τα μοντέλα του μαθητή και τα πλαίσια υιοθέτησης είναι εναλλάξιμοι φακοί.»** Απαντούν σε διαφορετικά ερωτήματα — πώς συμβαίνει η μάθηση, ποια είναι η κατάσταση του μαθητή και γιατί διαδίδεται μια πρακτική — και οι τύποι τεκμηρίων τους διαφέρουν αναλόγως. Η επιλογή λάθος επιπέδου παράγει μια μελέτη που μετρά τη σωστή μεταβλητή απέναντι στη λάθος πρόβλεψη, το οποίο διαβάζεται ως μηδενικό αποτέλεσμα ενώ είναι σφάλμα κατηγορίας.
 
 **«Περισσότερα πλαίσια σημαίνουν πιο ώριμο πεδίο.»** Τα πλαίσια που επινοήθηκαν για την εποχή της ΤΝ συσσωρεύονται ταχύτερα από όσο δοκιμάζονται, και η συσσώρευση χωρίς διάψευση είναι σύμπτωμα και όχι πρόοδος. Η ωριμότητα φαίνεται όταν επιλύονται ανταγωνιστικές προβλέψεις, όχι όταν αυξάνεται το λεξιλόγιο.
-
-## Συνδεδεμένες Έννοιες
-
-- [[theory-development-aied]] — οικοδόμηση και αναθεώρηση θεωρίας στο πεδίο
-- [[philosophy-of-ai-in-education]] — το κανονιστικό και εννοιολογικό επίπεδο
-- [[learning-theories]] — η ομπρέλα για τη θεωρία μάθησης
-- [[learning-sciences]] — το γειτονικό πεδίο από το οποίο δανείζεται η περισσότερη θεωρία
-- [[limitations-in-aied-research]] — τι μπορεί και τι δεν μπορεί να στηρίξει η βάση τεκμηρίων
-- [[tpack]] — πλαίσιο γνώσης του εκπαιδευτικού
-- [[technology-acceptance-model]] — πλαίσια υιοθέτησης
-- [[item-response-theory]] — ένα μοντέλο μέτρησης
-- [[universal-design-for-learning]] — ένα σχεδιαστικό πλαίσιο
-- [[research-methods-aied]] — πώς δοκιμάζεται η θεωρία
-
-## Συνδεδεμένα Άρθρα
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Οι συναισθηματικές δυνατότητες προτείνονται ως τέταρτη κατηγορία σε μια ταξινομία δυνατοτήτων
-- [[ai-game-based-learning-systematic-review-2026]] — Η ευθυγράμμιση μηχανισμού-θεωρίας, όχι η αλγοριθμική εκλέπτυνση, οδήγησε την αποτελεσματικότητα σε 55 μελέτες μάθησης βασισμένης σε παιχνίδι με ΤΝ
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — τέσσερις δεκαετίες AIED μέσα από το πλαίσιο AI×Ed
-- [[educating-minds-generative-ai-2026]] — σύνθεση με έμφαση στη θεωρία για τη γενετική ΤΝ και τη μάθηση
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — η θεωρία δραστηριότητας εφαρμοσμένη στην επαγγελματική ανάπτυξη εκπαιδευτικών
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — θεωρία δραστηριότητας και υιοθέτηση από εκπαιδευτικούς
-- [[generativism-learning-theory]] — μια θεωρία μάθησης που προτείνεται για την εποχή της γενετικής ΤΝ
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — προς μια θεωρία επιστημικής συν-δράσης
-- [[absent-cognitive-baseline-2026]] — θεωρητικοποίηση ενός δομικού κενού στην αυτοαξιολόγηση των μαθητών που γεννήθηκαν με την ΤΝ
-- [[yan-agentivism-learning-theory-ai-2026]] — μια μεσαίου βεληνεκούς θεωρία μάθησης για την αλληλεπίδραση ανθρώπου-ΤΝ
-- [[ai-literacy-instrument-development-systematic-review-2026]] — ανάπτυξη εργαλείων για ένα νεαρό κατασκεύασμα
-- [[mishra-control-vs-agency-history-2025]] — η θεμελιώδης ένταση ελέγχου-δράσης του πεδίου

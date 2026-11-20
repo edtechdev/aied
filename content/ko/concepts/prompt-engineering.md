@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -83,7 +85,6 @@ ai_assist:
 - **LLM–인간 코딩 일치를 이끄는 것은 프롬프트 문구가 아니라 모형 정체성입니다.** [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 외(2026)]]가 분해를 통제했을 때, 프롬프트 유형은 유의하지 않았고(F = 1.77, p = 0.136, partial η² = .03) 모형 요인은 partial η² = .19를 지녔습니다. 정의나 상세 지시를 더하면 정확한 정의 판단의 오류는 줄었지만 목록 탐지는 오히려 나빠졌고, 가격은 품질을 따르지 않았습니다. Gemini 2.5 Pro는 178.13달러였지만 56.77달러의 GPT-4.1 Full보다 성과가 낮았습니다.
 - **이론의 전문이 아니라 이름을 넣으십시오.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano 외(2026)]]는 이름 붙인 이론 프롬프트가 제공된 논문보다 유용성(4.40 대 3.20)과 구체성(3.80 대 2.40)에서 앞섰고, 전문은 이론적 정합성에서만 이겼다고(4.60 대 3.60) 보여줍니다.
 
-
 ## 더 넓은 개념들과의 연결
 
 프롬프트 엔지니어링은 [[scaffolding]]과 연결됩니다 — 잘 설계된 프롬프트는 학생의 사고를 우회하는 것이 아니라 떠받칠 수 있습니다. 이는 효과적인 프롬프트 작성이 AI의 능력과 자신의 학습 목표 양쪽에 대한 이해를 요구한다는 점에서 [[metacognition]] 및 [[ai-literacy]]와 교차합니다. [[cognitive-offloading]] 연구는 AI 사용이 학습을 뒷받침하는지 약화하는지에 프롬프트의 질이 직접 연결된다는 것을 보여 줍니다.
@@ -102,59 +103,3 @@ ai_assist:
 - **"프롬프트의 질은 학생의 속성입니다."** **프롬프트 인지는 학생이 아니라 학문을 따릅니다.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]]는 **116개 강의의 60,087개 프롬프트**를 분류하여 학문이 프롬프트의 정교함을 예측한다는 것을 발견했습니다. 학생들에게 더 잘 프롬프트하도록 가르치는 것은 교과 내용에 자리한 변이를 다루는 일입니다.
 - **"학생들은 자신만의 프롬프트 실천을 발달시킵니다."** 강사가 프롬프트를 보여 주면 **학생들은 그것을 그대로 재사용했습니다**. **중학교 STEAM 집단 12개에서 기록된 310개의 프롬프트** 가운데 강사 지시의 그대로의 복사가 흔했습니다. 모델링은 재생을 낳으며, 그래서 그것은 전이 가능한 기술이 아니라 시스템 설계 수단입니다.
 - **"프롬프트 작성은 학습자 기술이 먼저이고 시스템 속성은 그다음입니다."** 이것은 프롬프트 작성을 **적응적 시스템 설계 수단으로** 옮기며, **참여와 효율(연습 전환율 28.1% 대 19.6%)**에 측정된 효과를 지닙니다. 인터페이스의 프롬프트 제공물이 프롬프트 작성에 관한 교수보다 행동을 더 많이 움직였습니다.
-
-## 연결된 개념
-- [[pedagogical-patterns]] — 구조화된 사용 순서들 안의 비계 제공 층위
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모델, LLM 훈련, 로보틱스, RAG, 에이전트)
-
-## 연결된 문서
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 프롬프트 역량이 향상을 예측하고 가정의 디지털 자본을 매개함; 다섯 부분 비계는 훈련 가능함
-- [[wang-teacher-student-centered-agents-physics-2026]] — 물리 학습에서 설계 변수로서의 에이전트 역할과 제약 프롬프트 (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — GPT 기반 L2 듣기 문항 생성에서 프롬프트 작성 대 미세 조정 (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — 학생이 무엇을 묻는지가 중요하다: LLM 상호작용의 깊이, 과제 질, 즉시 회상 (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: 교육용 LLM 프롬프트 작성을 위한 실시간 코칭
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — 언론에서 비판적 AI 리터러시를 위한 LLM 과제의 과제 기반 분류 체계
-- [[prompt-privilege-equitable-ai-access-2026]] — 프롬프트 특권: LLM 접근의 불평등을 측정하고 완화하기
-- [[principal-trait-analysis-human-ai-skills-2026]] — 주요 특성 분석: 인간–AI 협력의 데이터 기반 특성
-- [[llms-text-linguistics-teaching-2026]] — 텍스트 언어학 교육에서의 LLM
-- [[idea-framework-metacognitive-genai-2026]] — 메타인지적으로 규제된 GenAI 사용을 위한 IDEA 틀
-- [[lin-llm-interactive-lesson-generation]] — 상호작용형 튜터 훈련 강의의 LLM 생성 (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — 화학 교육으로 옮겨진 UNESCO AI 지침; 인식론적 표류
-- [[isaza-chatgpt-engineering-prompting-2026]] — 프롬프트 작성 행동이 공학 전공 학생의 성과를 예측한다
-- [[student-ai-conversations-cognitive-engagement-2026]] — 학생–AI 대화에서 학문과 연결된 Bloom 수준의 인지적 참여 (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교육 설계의 도구로서의 LLM
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 프롬프트 엔지니어링 대 프롬프트 리터러시: 다섯 단계 프롬프트 리터러시 순환을 갖춘 인간 중심 GenAI 참여 틀 (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI 피드백 질의 예측 변수로서의 프롬프트 엔지니어링과 모델 선택 (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에서 LLM이 생성한 피드백의 초점과 교육적 적응성 평가
-- [[middle-school-genai-steam-interactions-2026]] — 중학교 STEAM 집단이 47.1%의 프롬프트에서 강사의 지시를 그대로 복사했다
-- [[ecd-prompts-automated-essay-scoring-2026]] — 측정에서의 프롬프트 엔지니어링을 안내하기 위한 증거 중심 설계: 자동 에세이 채점을 통한 예시
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 모호한 프롬프트가 가장 큰 좌절 격차를 지닌 자기 반복적 명확화 루프를 낳음 (Fang 외 2026)
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 학생 234명이 어렵다고 지목한 것: 프롬프트 구문이 아니라 의도 정렬
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 형평성 경로로서의 프롬프트 엔지니어링 역량, 모델 간 비계 실험과 함께(Li 외 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — 여전히 참여를 예측하는 지각된 역량으로서의 프롬프트 리터러시
-- [[gold-genai-curriculum-design-preservice-2026]] — 예비 교사의 프롬프트 이력이 거의 보편적인 다듬기를 보여 줌
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — 첫 목표가 어떤 프롬프트든 써 보는 것인 K–12 게임
-

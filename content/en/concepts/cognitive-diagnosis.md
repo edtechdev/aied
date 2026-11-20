@@ -7,6 +7,8 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 > **Cognitive diagnosis** — the inference of a learner's latent knowledge state — the specific concepts, skills, and misconceptions they have or lack — from their responses or behavior. It is the assessment-side counterpart to [[knowledge-tracing|knowledge tracing]], focused on characterizing *what* a student knows rather than only predicting their next performance.
@@ -76,44 +78,3 @@ Cognitive diagnosis connects to [[knowledge-tracing|knowledge tracing]], [[stude
 - **"Models can simulate student errors, so they can diagnose them."** The bottleneck is the reverse. Models constructed a solution in **95.2% of distractor traces** and simulated a specific Eedi misconception at **0.92 accuracy**, yet **supplying the correct solution** — not simulating the error — was what limited them. Generating a plausible wrong answer is easier than recognising one.
 - **"Diagnosis requires a hand-built misconception catalogue."** On **6,106 pairs** of correct and incorrect propositional-logic formalisations, a workflow discovered **248 clusters of transformations explaining 5,156 pairs (84.44%)**, against **4,370 (71.57%)** for the hand-picked mistakes of the reference set. Discovery matched or exceeded expert curation, and it transferred to modal logic — so the catalogue is a starting point, not a ceiling.
 - **"A diagnosis is only useful if it names a misconception."** Diagnosing which course outcomes a learner has attained treats outcomes as the knowledge concepts instead, supplying concept relationships through expert-validated affinity mappings. For outcome-based programs that is the more actionable unit, even though it is coarser.
-
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[llm-student-misconception-identification]] — LLM identification of student misconceptions
-- [[student-math-competence-clustering]] — Clustering for Modeling Student Mathematical Competence
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
-- [[yasir-llm-tutoring-agents-2026]] — Separating diagnosis from feedback in LLM tutors
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving heterogeneous multi-LLM federated diagnosis
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Mining common modeling mistakes at scale with LLM-generated, algorithmically validated bug-fixing transformations (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: DINA-based diagnosis of 14 learning objectives from existing physics concept inventories (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM knowledge-concept annotation and calibrated concept-level knowledge states
-- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractors as a diagnostic item-design task
-- [[misconception-acquisition-dynamics-llms-2026]] — where the error enters the solution is the diagnostic bottleneck
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Rethinking Diagnostic Assessment Through Culturally Embedded AI for Meaningful Learning

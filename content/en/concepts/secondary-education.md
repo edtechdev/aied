@@ -14,6 +14,8 @@ ai_assist:
     role: drafting
     date: "2026-11-15"
     agent: hermes-agent
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 > **Synthesis:** Secondary education is the band where [[generative-ai|generative AI]] use is ordinary and measured [[learning-gains|learning gains]] are smaller than the claims made for it. A two-year trial in ordinary middle schools produced about 0.06–0.08 SD a year, and the K-12 [[intelligent-tutoring|intelligent tutoring]] [[meta-analysis-systematic-review|meta-analysis]] about g = 0.27, because [[student-engagement|engagement]] and [[help-seeking|help-seeking]] bound the effect rather than model capability. Students prefer the tool that does more of the cognitive work, and [[ai-detection|detectors]] separate whole essays but not sentences. The evidence runs from exam revision through [[writing-education|writing]] and authorship to marking, detection, and the middle-school years where use outruns skepticism.
@@ -121,41 +123,3 @@ Secondary sits between [[primary-education]] and [[undergraduate-education]], an
 - **"Detection can tell you which sentences the AI wrote."** Sentence-level F1 fell to 0.88, recall dropped to 0.60 after one student-style rewrite, and text written after chatbot use with no copied material was read as human in 94.6% of cases.
 
 - **"Critical [[ai-literacy|AI literacy]] can wait until university."** Use rises every year from 12 to 17 while perceived reliability stays flat, and a two-hour workshop in grades 8–9 changed prompting and follow-up behavior two days later.
-
-## Connected Concepts
-
-- [[k-12]] — the parent band covering primary and secondary schooling.
-- [[primary-education]] — the preceding band, where developmental appropriateness dominates.
-- [[undergraduate-education]] — the next band, where large-enrollment courses and advising take over.
-- [[intelligent-tutoring]] — the system class behind most secondary achievement trials.
-- [[academic-integrity]] — the policy and reasoning frame for AI-assisted coursework.
-- [[ai-detection]] — text and response-pattern methods, and their limits.
-- [[automated-assessment]] — marking and scoring, including the human routing that makes it usable.
-- [[assessment-validity]] — what a score or benchmark can support.
-- [[ai-literacy]] — the knowledge and regulatory habits that separate use from understanding.
-- [[help-seeking]] — the behavior that decides whether a tutor is used at the moment of difficulty.
-
-## Connected Articles
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — two-year cluster trial in 18 Tennessee middle schools.
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — four-week multisite RCT of Medly in GCSE science.
-- [[leite-its-k12-meta-analysis-2025]] — 18 U.S. intelligent-tutoring experiments and their decay over time.
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 studies of AI-supported STEM instruction by level.
-- [[genai-learning-motivation-meta-analysis-2026]] — 42 controlled studies of motivation, with secondary as a subgroup.
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — preregistered reading experiment in seven English schools.
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 1,507 students, one feedback message, and revision gains.
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 122 seventh graders writing with an answer-withholding assistant.
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — two-hour workshop in grades 8–9 measured by behavior.
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 1,598 students aged 12–25; use rises before caution.
-- [[schaller-ai-text-detection-authentic-writing-2026]] — PISA 2025 keystroke study of text-level and sentence-level detection.
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 133 Hong Kong students reasoning about purpose and intent.
-- [[ai-marking-accuracy-gcse-physics-2026]] — commercial marker against AQA marks and a teacher panel.
-- [[porcaro-ai-grading-benchmark-2026]] — 22 models tested for gaming, label effects, and agreement.
-- [[wu-genai-scientific-literacy-china-2026]] — PISA 2025 science literacy and purpose of chatbot use.
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — 2,464 German students in grades 7–8.
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33-study PRISMA review; 26 use studies against 7 impact studies.
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 500 students in grades 7–12; self-rated depth of use and capability.
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 513 Hangzhou students; anxiety at enactment, not intention.
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — 19-item attitudes scale on 93 Italian students; pilot measurement.
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 respondents; perceived learning against an engagement index.
-- [[cho-chatgpt-high-school-gpa-2025]] — GPA associations by subject, school type, and socioeconomic status.

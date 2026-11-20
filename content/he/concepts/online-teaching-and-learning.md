@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -144,60 +146,3 @@ ai_assist:
 **"AI מעלה ביצועים, ולכן הוא מעלה למידה."** בהקשרים מקוונים הפער זהה לזה שבכיתה: [[rct|ניסוי מבוקר אקראי]] מצא שסיוע AI לא-מפוקח העלה ביצועי תרגול אך *הוריד* ציוני מבחן ללא סיוע, בעוד חונך "רמז-לא-תשובה" הסיר את הנזק. קורסים מקוונים נשענים יותר על הערכה אסינכרונית, ולכן הפער בין ביצועים בסיוע לביצועים ללא סיוע הוא המקום שבו תוקף נרכש או אובד.
 
 **"תוקף הערכה הוא שאלת מדיניות דירוג."** זו שאלת עיצוב שהמדיום יוצר: כאשר הגשה יכולה להיווצר בלי שהלומד נוכח, התוקף תלוי בשאלה אם המשימה מפיקה ראיה שהלומד עשה את העבודה. עיצוב מחדש של המשימה מטפל בזה; החמרת העונש על התנהגות בלתי הולמת לא.
-
-## מושגים מחוברים
-- [[pedagogical-patterns]] — ההקשר שהופך סדירה לבלתי-ניתנת-להתעלם, כיוון שהמערכת אינה רואה ניסיון
-- [[assessment-validity]] — תוקף ההיסק מהעבודה המוגשת אל הלמידה
-- [[agentic-ai]] — מערכות אוטונומיות שמפעילות כלים ופלטפורמות, לרבות LMS
-- [[community-of-inquiry]] — Community of Inquiry
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## מאמרים מחוברים
-- [[ai-agents-complete-lms-assessment-validity-2026]] — סוכנים אוטונומיים השלימו הערכות LMS ללא פיקוח מקצה לקצה: בעיה של תוקף הערכה (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — תאומי הערכה: צימוד משימה פגיעה ל-GenAI עם משימה פחות פגיעה, המתוזמנת קרוב, על אותן תוצאות
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — יושר שותפות-מחברים כראיית תוקף, וה-AI Viva כאימות נגיש בקנה מידה
-- [[asynchronous-oral-assessment-2026]] — הערכות בעל-פה אסינכרוניות: הקלטות מוגבלות בזמן ובלתי-ערוכות, המדורגות כנגד קטלוגים מוטבעים
-- [[brcic-effortless-trap-productive-struggle-2026]] — המלכודת הקלה: מיקום הבינה המלאכותית, ולא הרשאה או איסור
-- [[metacognitively-discordant-completion-genai-2026]] — השלמה מטאקוגניטיבית דיסוננטית: עבודה נכונה המוגשת ללא הבנה
-- [[decreasing-digital-distraction-college-online-learning-2026]] — אילו אסטרטגיות מוסדרות-עצמית מתלוות להסחת דעת דיגיטלית נמוכה (530 סטודנטים)
-- [[song-genai-learning-partner-srl-over-time-2026]] — למידה עצמית מוסדרת ככושר יציב וכמצב מתנדנד; מטאקוגניציה ורווחה נחלשות לאורך מושב
-- [[genai-marketing-education-roles-2026]] — בינה מלאכותית כחונך, חבר לצוות וכלי: תפקידים והשפעותיהם על הנוכחות
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — מעבר לגילוי: עיצוב הערכה להקשרים מקוונים
-- [[reconceptualizing-community-inquiry-generative-ai]] — קונספטואליזציה מחודשת של Community of Inquiry בעידן הבינה המלאכותית הייצירת
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — שילוב בינה מלאכותית בלמידה מקוונת בהשכלה גבוהה: סקירת ספרות ביקורתית בארבעה ערכות
-- [[mooc-to-maic]] — מ-MOOC ל-MAIC: עיצוב מחדש של הוראה ולמידה מקוונות באמצעות סוכנים המונעים ב-LLM
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: מערכת תמיכה מותאמת אישית ואדפטיבית ללמידה מקוונת
-- [[llm-facilitation-timing-online-discussions]] — נטיות מנחים אנושיים ומנחי LLM בדיונים מקוונים
-- [[elevate-genai-virtual-tutors]] — ELEVATE: חונכים וירטואליים של GenAI ממוקדי אדם
-- [[conversational-ai-tutors-framework]] — הדרך לחונכי בינה מלאכותית שיחתית
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — יישום AIDA באוניברסיטה הפתוחה
-- [[ai-adult-learning-guidelines-dis2026]] — הנחיות לעיצוב טכנולוגיות בינה מלאכותית לתמיכה בלמידת מבוגרים
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: לקראת חונכות מותאמת אישית סוכנית
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — הפיכת ממצאי למידת מכונה לנגישים למורים בכיתות משולבות
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — תלמידים מעדיפים סרטוני וידאו מותאמים אישית המופקים בבינה מלאכותית על פני כאלה המוקלטים על ידי אדם שאינם מותאמים אישית (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — עיצוב למידה מונע סיכומים המופקים בבינה מלאכותית בפורומי דיון מקוונים
-- [[ai-training-science-teacher-tpack-distance-2026]] — סטודנטים-מורים בקמפוס דיווחו על TPACK גבוה יותר להוראת מדעים המשולבת בבינה מלאכותית מאשר עמיתים בחינוך מרחוק (64.0% לעומת 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — עיצוב תפקידים הוא ההתערבות, לא הכלי
-- [[packard-thinking-partner-framework-adult-learners-2026]] — קורסים אסינכרוניים של שישה שבועות למורים עובדים: לעצב את הפורמט מחדש ולא לדחוס אותו
-- [[aggarwal-genai-cybersecurity-2026]] — 19 סטודנטים בשני קמפוסים: רישום משותף לא יצר אינטראקציה חוצת-קמפוס עבור חלקם (Aggarwal 2026)

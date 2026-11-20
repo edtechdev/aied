@@ -18,9 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-
-
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -98,51 +97,3 @@ Chagua mawakala wa mazungumzo ili kusaidia kufundisha, [[motivation]], na [[meta
 ## Nukuu
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
-## Dhana Zilizounganishwa
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-
-## Makala Zilizounganishwa
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Tabia za kujitoa katika mazungumzo za mwanafunzi-AI (Rho et al. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Kudumisha msaada wa wanafunzi unaosaidiwa na AI: utekelezaji wa miaka minne na utafiti wa athari ya chatbot ya taasisi (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Kulinganisha kupanga alama kwa ChatGPT, mwanafunzi mwenzake, na mkufunzi katika viwango tofauti vya ubora wa mradi (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — Mawakala wa LLM wenye mfumo wa 5E kwa upataji wa sarufi ya ESL (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Mtazamo wa wanafunzi kuhusu chatbot za GenAI (mbinu mchanganyiko)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hadhi za kupitishwa kwa chatbot za AI
-- [[conversational-ai-agents-umbrella-review-2026]] — Mapitio ya mwanya ya mawakala wa AI ya mazungumzo katika elimu
-- [[conversational-ai-tutors-framework]] — Mfumo wa walimu wa AI ya mazungumzo
-- [[measuring-llm-tutors-teach-vs-solve]] — Kupima kama walimu wa LLM wanafundisha au wanatatua
-- [[stanford-evidence-base-ai-k12-2026]] — AI mahususi ya ufundishaji dhidi ya AI ya jumla
-- [[rethinking-scaffolding-llm-tutors]] — Kufikiria upya ngazi za msaada katika walimu wa LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Mapitio ya wigo ya mawakala wa mazungumzo kwa wapanga-programu wapya
-- [[ba-ai-agents-cscl-review-2026]] — Mapitio ya mawakala wa AI katika kujifunza kwa ushirikiano kinachosaidiwa na kompyuta
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Jinsia na motisha katika mafanikio ya GenAI
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Mshirika wa AI anayebadilisha wajibu kwa mazungumzo ya vitabu vya shule ya msingi; kikomo cha kihisia cha mawakala wenye wajibu mmoja (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI kama wakala na nafasi ya ushirikiano katika mienendo ya vikundi vidogo (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Inayojua Kitamaduni Inayoendeshwa na AI kwa Ugunduzi wa Msongo na Msaada wa Ustawi kati ya Wanafunzi wa Chuo Kikuu wa Pakistan Kutumia NLP na Kujifunza kwa Mashine
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ufundishaji wa AI na wa binadamu hutoa faida zinazofanana za kujifunza GRE
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Ngazi za Msaada za Utafutaji wa Msaada wa AI Zilizolengwa Wakati wa Kutatua Matatizo

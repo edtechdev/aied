@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -48,12 +49,3 @@ Moodleovi administratori i programeri koji već vode stranicu; nastavnici koji �
 ## Napomene i upozorenja
 
 Otvorenog koda pod GPL v3 ili novijim, ali besplatno ne znači besplatno za rad: netko plaća API modela, a kvaliteta ocjenjivanja ovisi o odabiru modela i dizajnu upita. Odgovori slobodnog teksta napuštaju Moodleov poslužitelj kad se koristi udaljeni pružatelj, pa ugovor o podacima ustanove određuje što se smije poslati; ruta sa samostalno hostanom Ollamom postoji za stranice koje ne mogu slati studentski rad van. Repozitorij ne navodi objavljenu studiju točnosti ili podudarnosti, pa dodatak ne treba prihvatiti uz pretpostavku da je LLM ocjenjivanje jednako ljudskom — [[assessment-validity|valjanost]] se mora utvrditi lokalno prema ljudskim ocjenama prije nego što ijedna ocjena nosi težinu. Popratna ponašanja tvrda su ovisnost: instalacija samo tipa pitanja ostavlja pitanja bez mogućnosti ocjenjivanja.
-
-## Povezani pojmovi
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

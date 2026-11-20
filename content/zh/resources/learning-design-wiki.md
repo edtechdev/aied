@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -46,7 +47,3 @@ ai_assist:
 ## 说明与注意事项
 
 请阅读每一页上的信任面板。该 wiki 由语言模型在一名人类维护者的管理下运行，尚无人核对过任何一页，站点把每一页都称为「来源可靠的线索」而非「研究发现」。论断带有设计层级、效应量编码与严谨度编码；「未给出效应量」表示来源没有报告，而不是表示不存在效应。内容采用 CC BY-SA 4.0 许可，因此再利用必须沿用同一许可；代码采用 MIT 许可。
-
-## 关联概念
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

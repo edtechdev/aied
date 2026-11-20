@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -82,38 +84,3 @@ ai_assist:
 - **"לבינה מלאכותית בהוראת המדעים אין ראיה סיבתית."** הערכה אקראית בת ארבעה שבועות של פלטפורמת חזרה מבוססת-AI במדע GCSE נותנת אומדן סיבתי של **Hedges' g = 0.33**, עם **ללא ראיה שהאפקט נבדל לפי מקצוע**. האפקט מתון והוא סיבתי.
 - **"תנו לסטודנטים גישה והרווחים יגיעו."** **גישה מובנית, ולא הגישה עצמה, מניעה את הרווח**: צמיחה שדווחה בידי צוותים עמדה בממוצע על **17% תחת גישה אישית בלתי-מוגבלת אך על 34% ו-31% כאשר הגישה הייתה מובנית**. המבנה היה ההתערבות.
 - **"סימולציה מדעית דורשת תוכנה מתמחה."** **הנחיה בשפה טבעית בת ארבעה מרכיבים** יכולה לייצר **סימולציית פיזיקה במציאות מוגברת הנשלטת ביד**. המחסום לכתיבת סימולציה ירד לעיצוב-ההנחיה, מה שמעביר את המיומנות הנדרשת מתכנות לאפיון התופעה.
-
-## מושגים מחוברים
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## מאמרים מחוברים
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — פרק מסגרת על אוריינות-מדע כקוהרנטיות בין תכנית-לימודים, הוראה והערכה (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science and chemistry education
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis and respiration
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Conceptual change texts vs. AI dialogue for heat and temperature
-- [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
-- [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Pre-service science teachers' AI perceptions and acceptance
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — גישה מובנית-צוותית גברה על גישה אישית בלתי-מוגבלת בסקירת AI בפיזיקה אוניברסיטאית
-- [[genai-learning-motivation-meta-analysis-2026]] — התחום היחיד שרוווח המוטיבציוני שלו חצה אפס (g = 0.109, k = 3)
-- [[laiskhanov-ai-gis-geography-education-2026]] — נוחות כללית עם בינה מלאכותית לא עברה למוכנות ל-GeoAI

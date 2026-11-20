@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -38,7 +39,3 @@ Die Kapitel erstrecken sich über [[learning-design|Instructional Design]] und L
 ## Was vor der Nutzung zu wissen ist
 
 Das Buch ist Open Access unter einer CC-BY-Lizenz, dem freizügigen Ende der Spanne für Lehrmaterialien: Lehrkräfte dürfen die [[prompt-engineering|Prompts]] kopieren, anpassen und nutzen, auch kommerziell, sofern sie sie angemessen nennen. Das macht es unkompliziert, einen Prompt für einen bestimmten Kurs oder eine bestimmte [[pedagogical-agent|Agenten]]-Einrichtung zu lokalisieren, was die restriktiveren Lizenzen ähnlicher Sammlungen nicht erlauben. Es erscheint 2026 auf EdTech Books mit PDF-Download und der DOI 10.59668/2340, herausgegeben von David Wiley. Weil jedes Kapitel neben dem Ergebnis auch das Evaluierungsdesign berichtet, dient es zugleich als Vorbild für Lehrkräfte, die ihre eigenen Prompts testen wollen statt das Urteil anderer zu übernehmen.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -124,73 +126,3 @@ Projektowanie moderuje efekty silniej niż technologia w syntezie Zhanga i wsp.:
 - **„Planowanie lekcji z SI oddaje nauczycielom czas."** Czas planowania faktycznie spadł, z 3,32 godziny tygodniowo do 2,51 z narzędziem, ale **mediana nauczyciela planowała tylko 21% do 40% lekcji od zera**. Czas został zaoszczędzony, a planowanie nie stało się istotnie staranniejsze - oszczędność narastała, zamiast zostać reinwestowana.
 - **„Współprojektowanie z SI jest dobrze udokumentowane."** Przegląd systematyczny [[wang-teacher-ai-co-design-review-2026|współprojektowania zadań edukacyjnych przez nauczyciela i SI]] **potwierdza wzorzec w skali na 28 badaniach**, co opisuje spójną praktykę, a nie wykazuje lepszych wyników.
 - **„Rubryka to stały wkład."** Rubryka działa jako **pośredniczący interfejs między ludzką intencją pedagogiczną a wnioskowaniem maszyny**: traktowanie kryteriów oceniania jako **rewidowalnych** jest tym, co pozwala instrumentowi nieść intencję edukatora. Stała rubryka przenosi domyślne ramowanie maszyny do oceniania.
-
-## Połączone koncepcje
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - partnerstwa pedagogiczne
-- [[online-teaching-and-learning]] - nauczanie i uczenie się online
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - parasol: pedagogiki i strategie nauczania w edukacji z SI
-- [[stakeholders]] - parasol: ludzie i odbiorcy w edukacji z SI (uczący się, nauczyciele, projektanci, administratorzy, decydenci)
-
-## Połączone artykuły
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Zmierzone oszczędności czasu planowania obok ustalenia, że nauczyciele planują tylko 21% do 40% lekcji od zera
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Analityka uczenia się i GenAI w podejmowaniu decyzji projektowych
-- [[tang-chatbots-learning-design-2026]] — Użycie chatbota w projektowaniu uczenia się: projektanci zatrzymują się na efektach i pedagogice, a nie na generowaniu treści (Tang i wsp. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Wzorce interakcji nauczyciel-SI w projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — SI w szkolnictwie wyższym: zaangażowanie i pośrednicząca rola metod nauczania
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomia (obiekt graniczny) do klasyfikowania działań edukacyjnych z GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Agenci webowi SI: autonomiczny agent webowy ocenia projekty lekcji i przewiduje rezygnację studentów przed ich zaangażowaniem (Wang, Mitchell i Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: rama poznawczo aktywowanego wzmocnienia SI w fizyce
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Projektowanie dla zasięgu: siedem dźwigni i student sam z SI
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Kiedy odmowa daje lepsze wideo: podwójna kontrola dostępu dla pedagogicznie ugruntowanego tworzenia treści SI
-- [[rhaimi-productivemath-2025]] — ProductiveMath: SI we wspieraniu projektowania zadań produktywnego niepowodzenia
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — SI i praktyka projektowania nauczania: przegląd systematyczny (Kibar i Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Oparty na grafach tutoring inteligentny dla domen dynamicznych (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Celowe czynienie SI irytującą: ograniczenie w pisaniu wspieranym przez SI (Konradt, Boote i Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Model inteligentnej klasy i pętla D-T-E poprawiające biegłość w projektowaniu nauczania na studiach magisterskich z matematyki (Zhu i wsp. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Platforma oparta na SI generująca zadania modelowania matematycznego (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Współprojektowanie zadań edukacyjnych przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-y jako agenci iteracyjnego projektowania pedagogicznego
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI jako zawodny współpracownik we współprojektowaniu
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metaanaliza trójpoziomowa: GenAI działa przez informację zwrotną i projektowanie kierowane przez uczącego się, a nie jako jednolita interwencja (Zhang i wsp. 2026)
-
-- [[williams-coding-curriculum-critique-2026]] — Kodowanie programu: krytyka „How AI Makes Its Mark on Instructional Design"
-- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

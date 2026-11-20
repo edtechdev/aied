@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -38,7 +39,3 @@ Napisać lekcję w dowolnym edytorze tekstu i zaimportować ją do dowolnego nar
 ## Dla kogo
 
 Projektanci nauczania i twórcy kursów, którzy chcą, by ich treść przetrwała zmianę narzędzia; dostawcy e-learningu, którzy chcą formatu importu i eksportu, jaki ich użytkownicy już rozumieją; oraz wszyscy budujący autoring wspomagany SI na czytelnym formacie. Wśród współtwórców jest Dan Bashaw z LXD Integral, a format ma publiczny changelog do wersji v1.8.
-
-## Powiązane pojęcia
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

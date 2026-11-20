@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -121,46 +123,3 @@ ai_assist:
 - **"인간이 루프에 있으면 해결된다."** 루프는 개입 기회만큼만 좋으며, 채점 연구들은 앵커링을 측정하지 않았습니다.
 - **"학생 문제다."** 교사, 평가자, 주석자, 관리자가 지식베이스가 서술하는 모든 설계에서 서명자입니다.
 - **"더 나은 훈련이 없애는 성격 결함이다."** 훈련은 도움이 되지만, 같은 사람도 검증이 값싼지, 산출물이 유창한지, 불일치에 비용이 따르는지에 따라 다르게 행동합니다.
-
-## 연결된 개념
-
-- [[trust-calibration]] — 자동화 편향이 그 실패를 명명하는 의존 상태
-- [[bias-mitigation]] — 시스템 쪽 대응물: 모형 내부의 편향
-- [[cognitive-offloading]] — 정신적 작업의 위임, 그 결과 중 하나가 검증 없는 수용이다
-- [[human-in-the-loop-ai]] — 이 실패가 그 강도를 결정하는 안전장치
-- [[explainable-ai]] — 지식베이스가 제안하고 좀처럼 검증하지 않는 투명성 개입
-- [[learning-analytics]] — 누락 오류가 집중되는 대시보드와 조기 경보
-- [[recommender-systems-and-learning-paths]] — 다음에 무엇을 할지 순위 매기기, 학생은 그것을 그대로 따를 수 있다
-- [[automated-assessment]] — 인간이 다시 읽지 않고 받아들일 수 있는 점수
-- [[scaffolding]] — 수용보다 값싼 채로 남는 검증
-- [[self-efficacy]] — 표준 예측이 기대는 특성
-- [[ai-detection]] — 시간 압박 아래 인간이 판정하는 탐지
-- [[remote-proctoring]] — 모형이 의혹을 제기하고 사람이 판정하는 감독
-- [[ai-literacy]] — 채점되는 기술로서의 검증이 자리할 곳
-
-## 연결된 문서
-
-- [[shi-human-ai-complementarity-safety-2026]] — 평가자 416명, 문항 3,957개: 후보를 먼저 제시하는 지원이 모형이 틀린 문항의 오류 적발을 36.7%에서 20.6%로 떨어뜨렸다(Shi 외, 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 얇은 데이터에 기초한 권고에 따르지 말라는 경고를 받은 교사들
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 평가자가 AI 점수에 앵커링되는 것을 검증되지 않은 위험으로 지목하고 눈가림을 제안
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — 대시보드, 표면 특징 피드백, 신호등이라는 일반 패턴
-- [[factria-responsible-institutional-analytics-2026]] — 열한 명의 이해관계자, 네 가지 사례, 권고하기를 거부하는 챗봇
-- [[ludia-udl-ai-thought-partner-2026]] — 도구의 영역 지식을 신뢰함으로써 약해지는 교육자 안전장치
-- [[extended-minds-coupling-flexibility-2026]] — 자동화 편향이 그것을 무력화하면 형식적 거부권은 감독이 아니다
-- [[ground-truth-reliability-aied]] — LLM 주석, 순환적 검증, 조용한 라벨 표류
-- [[polished-artifacts-fragile-engagement-2026]] — 인식론적 노력 감소의 사회인지적 줄기로서의 자동화 편향
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 재귀적 인간-AI 작업의 네 가지 실패 양식 중 하나
-- [[eight-mode-ai-engagement-typology-2026]] — 오라클 양식과 그 특징적 위험
-- [[assessing-student-drive-framework-2025]] — 자동화 편향에 맞선 안전장치로서의 능동적 인간 행위성
-- [[sun-llm-nursing-education-professional-identity-2026]] — AI가 부수적 작업을 대체하는지 구성적 작업을 대체하는지에 관한 489편의 연구
-- [[geoscience-field-learning-genai-2026]] — 증거에 묶인 현장 학습에서의 앵커링, 확증, 자동화 편향
-- [[ahmadfard-interactive-oer-review-2026]] — 학습자와 교사의 행위성을 침식하는 위험 가운데 나열된 자동화 편향
-- [[alshahrani-health-sciences-ai-use-2026]] — 명시적 훈련의 근거로 읽힌 310명 학생의 윤리적 우려
-- [[ai-literacy-legal-translation-2026]] — 품질 착각 압력에 맞서 채점되는 기술로 가르치는 교정
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 검토된 법과학 AI 연구들에서 기록된 자동화 편향
-- [[rana-genai-design-thinking-2025]] — 인간 판단을 중심에 두는 비계
-- [[kim-overtrust-ai-literacy-2026]] — 뒤집힌 예측: 자신감 있는 학생이 도구를 더 신뢰했다
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — 자동화 편향 연구 위에 세운 프레임워크이지 그것의 검증은 아니다
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 비판적 시민성을 침식하는 세 기제 중 하나
-- [[academic-erasure-complexity-ai-writing-2026]] — AI 사용을 단속하는 정동 노동 속의 자동화 편향
-- [[llm-fallacy-misattribution]] — 가장 가까운 구분: 시스템에 대한 과의존 대 지각된 개인 역량

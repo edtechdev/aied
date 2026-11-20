@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -132,71 +134,3 @@ ai_assist:
 - **"উৎপন্ন অনুশীলন-আইটেম উপযোগী গঠনমূলক সংকেত দেয়।"** **একটি সহজ উৎপন্ন আইটেম-ব্যাংক কোনো গঠনমূলক সংকেত দেয় না**: **১০ সপ্তাহের মোতায়েনে প্রায় ৭০% এআই-উৎপন্ন অনুশীলন-আইটেম প্রত্যেক শিক্ষার্থী সঠিকভাবে উত্তর দিয়েছে**। যে ব্যাংক সবাই পাস করে, তা কে কী চায় সে সম্পর্কে কোনো তথ্য বহন করে না।
 - **"আইটেম তৈরির নির্ভরযোগ্যতা বিন্যাসজুড়ে একরকম।"** এআই ব্যবস্থা নানা ধরনে গঠনমূলক আইটেম তৈরি করে **এবং নির্ভরযোগ্যতা ধরন অনুযায়ী পরিবর্তিত হয়** — বহুনির্বাচনীও তার মধ্যে। উৎপন্ন আইটেমকে বিন্যাসজুড়ে বিনিময়যোগ্য গণ্য করা লুকিয়ে রাখে, কোথায় তৈরি নির্ভরযোগ্য।
 - **"শিক্ষার্থীদের এআই প্রতিক্রিয়া দেওয়াই কার্যকরিতা তৈরি করে।"** **কার্যকরিতার সমস্যা** প্রতিক্রিয়ার গুণমান থেকে আলাদাভাবে নথিভুক্ত: প্রতিক্রিয়া পাওয়া ও তা নিয়ে কাজ করা আলাদা ধাপ, এবং দ্বিতীয়টিতেই গঠনমূলক মূল্যায়ন সফল বা ব্যর্থ হয়।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এআই প্রতিক্রিয়ার কিছু অংশ সরবরাহ করলে গঠনমূলক মূল্যায়ন যে ক্রমবদ্ধ রূপগুলো নেয়
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — সমন্বিত মূল্যায়ন: এআই-প্রতিরোধী বিন্যাস (মৌখিক, নজরদারিযুক্ত, বদ্ধ-পুস্তক পরীক্ষা)
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[llm-multi-agent-conversation-assessment-2025]] — কথোপকথন-ভিত্তিক মূল্যায়নের চার-এজেন্ট স্থাপত্য, যার মূল্যায়নকারী মাঝের শ্রেণির দিকে ঝোঁকে (Hou প্রমুখ ২০২৫)
-- [[causal-modeling-competency-assessment-2026]] — শিক্ষার্থী-দক্ষতা মূল্যায়নের জন্য সহায়তা-হস্তক্ষেপের কারণগত মডেলিং
-- [[nicola-richmond-programwide-assessment-genai-2025]] — GenAI যুগে মূল্যায়ন পুনঃনকশার কর্মসূচি-ব্যাপী পদ্ধতি
-- [[ai-feedback-enactment-workflow-2026]] — এআই-উৎপন্ন প্রতিক্রিয়াকে অর্থবহ করা: সরবরাহ থেকে কার্যকরিতা পর্যন্ত
-- [[care-full-feedback-genai]] — GenAI যুগে প্রতিক্রিয়ার যত্নশীল কারিগরি
-- [[feedback-futures-genai]] — প্রতিক্রিয়ার ভবিষ্যৎ: মানব ও GenAI সক্ষমতার সীমার বাইরে
-- [[sequenced-ai-feedback-learning]] — ক্রমবদ্ধ এআই প্রতিক্রিয়ার প্রভাব ও পথ
-- [[learner-centered-feedback-ai]] — এআই দিয়ে শিক্ষার্থী-কেন্দ্রিক প্রতিক্রিয়া সমৃদ্ধ করা
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — স্বয়ংক্রিয় স্কোরিং থেকে শেখার নির্ণয়: ইংরেজি লেখায় এআই-সহায়ক গঠনমূলক মূল্যায়নের একটি প্রক্রিয়া-গবেষণা
-- [[ai-internal-feedback-evaluative-judgments]] — এআই-সহায়ক অভ্যন্তরীণ প্রতিক্রিয়ার মাধ্যমে মূল্যায়নমূলক বিচার গড়ে তোলা
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: হিউম্যান-ইন-দ্য-লুপ প্রম্পটিংসহ গঠনমূলক মূল্যায়ন স্কোরিং
-- [[automated-formative-assessments-a-level-sciences]] — উচ্চ-কম্পাঙ্কের স্বয়ংক্রিয় গঠনমূলক মূল্যায়ন
-- [[ai-generated-feedback-higher-ed]] — উচ্চশিক্ষায় এআই-উৎপন্ন প্রতিক্রিয়া
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: পাঠ্যক্রম-ভিত্তিক এআই প্রতিক্রিয়া
-- [[genai-teacher-feedback-comparison]] — GenAI বনাম শিক্ষক-প্রতিক্রিয়ার তুলনা
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT প্রতিক্রিয়া ও সম্পৃক্ততা
-- [[code-gen]] — CODE-GEN: যাচাইকৃত MCQ তৈরি
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই যুগে দায়িত্বশীল মূল্যায়ন
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — প্রামাণিক মূল্যায়নের জন্য নকশা
-- [[automated-grading-linux-bash-examinations-large-language-models]] — লিনাক্স/ব্যাশ পরীক্ষার স্বয়ংক্রিয় গ্রেডিং
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT-সমৃদ্ধ গঠনমূলক মূল্যায়নে প্রশিক্ষক ও এআই-এর ভূমিকা
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — মৌখিক পরীক্ষাকে প্রামাণিক, এআই-প্রতিরোধী মূল্যায়ন হিসেবে পুনর্বিবেচনা
-- [[roe-assessment-twins-2026]] — GenAI যুগে মূল্যায়ন-বৈধতা মজবুত করতে মূল্যায়ন-যমজ (Roe, Perkins ও Giray ২০২৬)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: এআই মূল্যায়ন রুব্রিক তৈরি
-- [[ai-assisted-instructor-supervised-grading-feedback]] — এআই-সহায়ক, প্রশিক্ষক-তদারক গ্রেডিং ও প্রতিক্রিয়া
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি ITS-এ অভিযোজিত ICAP স্ক্যাফোল্ডিং (BKT বনাম DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্তিমূলক শিক্ষাতাত্ত্বিক নকশার এজেন্ট হিসেবে এলএলএম
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — অভিযোজনযোগ্যতাই প্রতিক্রিয়াকে কার্যকর করে: শিশুদের পরিকল্পনায় এআই-উৎপন্ন প্রতিক্রিয়ার প্রমাণ
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — স্বয়ংক্রিয় স্কোরিং, কর্মক্ষমতার ব্যাখ্যা ও স্বনিয়ন্ত্রিত শেখা (Chen ও Liu ২০২৬)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — এআই-সহায়ক গঠনমূলক মূল্যায়নে শিক্ষকদের ডায়াগনস্টিক দক্ষতা: নির্ণয় থেকে মেটা-ডায়াগনোসিস
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — তিন শিক্ষা-স্তরে প্রোগ্রামিংয়ে এলএলএম-উৎপন্ন প্রতিক্রিয়ার অনুভূত উপযোগিতা ও ব্যবহারের ইচ্ছা
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — সংগীতশিক্ষায় উৎপাদনশীল এআই ও বড় উপাত্ত-বিশ্লেষণ মিলিয়ে অভিযোজিত শিক্ষাদান-সহায়তা
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — শিক্ষার্থীদের এলএলএম ব্যবহার এবং ডেটা-সায়েন্স কোর্সে এআই-উৎপন্ন প্রশ্ন-কাঠিন্যের সীমা
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — এআই-মধ্যস্থ ধারাবাহিক মূল্যায়ন পরিকাঠামো (AIM-CAI): প্রসঙ্গ ও সময়জুড়ে শেখার প্রমাণ সংযুক্ত করা (McNamara ও Hasnine ২০২৬)
-- [[etq-ai-conversational-teacher-training-2026]] — প্রমাণ-ভিত্তিক সংলাপসহ শিক্ষাদান-ভুল ধারণার জন্য কথোপকথনভিত্তিক এআই ডায়াগনস্টিক (Miranda ও Calvani ২০২৬)
-- [[assessment-feedback-trilemma-model-2026]] — নজরদারি-ঝুঁকির ইতিবাচক প্রতিরূপ: পর্যবেক্ষণযোগ্যতা প্রমাণ-নকশা হিসেবে, পর্যবেক্ষণ হিসেবে নয়

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -156,41 +158,3 @@ ai_assist:
 **"সরঞ্জাম ব্যবহার করার সময় উচ্চতর গ্রেড মানে সরঞ্জাম বেশি শিখিয়েছে।"** একটি [[k-12|K-12]] গণিত গবেষণায় সাধারণ-উদ্দেশ্যের [[conversational-ai|চ্যাটবট]] দিয়ে অনুশীলনকারী শিক্ষার্থীরা ভালো অনুশীলন-গ্রেড পেয়ে সহায়তাহীন মূল্যায়নে **প্রায় 17% খারাপ** স্কোর করেছে। সরঞ্জাম হাজির থাকা অবস্থায় মাপা অনুশীলন-কর্মদক্ষতাই ফুলানো মাপ; সহায়তাহীনটিই ফলাফল, এবং দুটোর মধ্যে কেবল একটি উঠছিল।
 
 **"প্রভাব যদি সত্যি হয়, বাস্তবায়নের বিস্তারিত বেশি গুরুত্বপূর্ণ নয়।"** ওগুলোই প্রভাব। একটি গবেষণা যা এক প্রতিষ্ঠানের এক কোর্সের 30 জন শিক্ষার্থীকে অনুসরণ করেছে, এমন সংস্করণে যা এখন কেউ ব্যবহার করে না, তা এমন একটি কনফিগারেশন সম্পর্কে ফলাফল তৈরি করেছে যা আর নেই। হস্তক্ষেপ-নির্দিষ্টকরণ, সংস্করণ ও পরিস্থিতি দাবির অংশ, তার চারপাশের প্রসঙ্গ নয়।
-
-## সংযুক্ত ধারণা
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — এআই-সহায়তাপ্রাপ্ত শিক্ষামূলক গবেষণা
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — ধরা-হয়ে-গেছে কার্যকর: 14টি AIED মেটা-বিশ্লেষণের ফরেনসিক অডিট
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — প্রকাশনা-পক্ষপাত-সংশোধিত এআই প্রভাব রিপোর্টকৃত আকারের প্রায় এক-তৃতীয়াংশ
-- [[weidlich-chatgpt-effect-search-cause-2025]] — শিক্ষায় ChatGPT: কারণ খোঁজা একটি প্রভাব
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — অন্তর্ভুক্তি-মানদণ্ডই কঠোরতার থ্রেশহোল্ড, এবং বিষমতা যা মডেলের সঙ্গে বদলায়
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — যখন স্বয়ংক্রিয় স্কোরিং-নির্ভরযোগ্যতা কাজের পরিমাপ-সীমায় পৌঁছায়
-- [[verification-quality-reliance-calibration-genai-2026]] — যাচাই ও নির্ভরতা-সাহিত্য যা মাপে না
-- [[citation-errors-hallucinations-computing-education-2026]] — বানানো তথ্যসূত্র যা 2025-2026-এ ছাপা পর্যন্ত পৌঁছেছে
-- [[stanford-evidence-base-ai-k12-2026]] — অনুশীলনে লাভ, পরীক্ষায় ক্ষতি: K-12 গণিতে সহায়তা-সরানোর সমস্যা
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — উপগোষ্ঠী-প্রভাব যাদের আস্থার ব্যবধান শূন্য অতিক্রম করে
-- [[chick-faculty-development-ethical-ai-2026]] — সক্রিয়কারী শর্ত: নীতি-সংকেত, ব্যক্তিগত সাবস্ক্রিপশন, সময় নেই
-- [[ai-tutoring-quality-k12-methodologies-2026]] — বিক্রেতার মেট্রিক, ক্রমাঙ্কন ও পরীক্ষার সংখ্যা প্রকাশিত
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — ফলাফল মডেল-সংস্করণে বাঁধা, এবং ক্ষেত্রের ওলটপালট
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — ইতিমধ্যে ব্যবহৃত 16টি শিক্ষার্থীমুখী এআই পণ্যের স্বাধীন-প্রমাণ গণনা
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — একটি পর্যালোচনা নিজের কর্পাসের প্রতিবেদন-বাঁক পরিমাপ করতে পারে

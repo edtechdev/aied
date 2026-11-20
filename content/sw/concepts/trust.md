@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -58,7 +60,6 @@ Mfano wa kimuundo unatoa jukumu hilo la kuunganisha jaribio la kimajaribio. Kati
 **Uaminifu mbele ya kila njia ya kawaida ya kupokea.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] aliongeza uaminifu kwa UTAUT katika utafiti wa wanafunzi 450 wa sanaa na ubunifu huko Zhejiang na akaugundua kuwa ndio kitabiri cha moja kwa moja chenye nguvu zaidi cha nia ya kutumia [[generative-ai|AI inayozalisha]] (β = 0.425). Ushawishi wa kijamii (0.155), udhibiti wa kimetaakili (0.146) na matarajio ya utendaji (0.128) yalifuata. Ushawishi wa kijamii pia ulibeba njia kubwa zaidi kuelekea uaminifu (β = 0.262), na 42.1% ya uhusiano wake wote na nia ulipitia uaminifu.
 
 Dhana hiyo ni nyembamba kuliko vile mgawo unavyodokeza. Inapima uaminifu wa kivitendo kwa teknolojia pamoja na nyongeza ya thamani ya sanaa — kujiamini kunakotamkwa badala ya kuaminika kulikorekebishwa — na vipengele viwili vya uandishi vilitolewa baada ya kuunda kipengele chao wenyewe katika jaribio la awali la wanafunzi 121. Mwanafunzi anaweza kuamini mfano huu ipasavyo au bila upendeleo, na chombo hicho hakiwezi kutofautisha vyote viwili.
-
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] anaunga mkono akaunti ya **mahususi kwa kazi badala ya jumla** ya uaminifu katika algoriti: wala kupenda algoriti wala kupenda zaidi algoriti hawakuwaeleza wanafunzi 13 hawa, ambao walimwamini ChatGPT kwa maoni ya kiwango cha juu na kumsusia kama mtoaji wa alama. Uaminifu wao ulitegemea usimamizi wa mwalimu, na shaka yao ilitokana na mipaka ya muktadha ya AI — kusoma vibaya mwandiko wa mkono uliochanganuliwa (\"alipanga jina langu la mwisho vibaya na anadhani nilifanya makosa katika uandishi wangu wakati sikufanya\"), kutokujua mfumo wa ukadiriaji wa mwalimu, na chanya ya muda mrefu — badala ya kutoka kwa uoga wa teknolojia, ikipendekeza kuwa vipimo vya uaminifu vinapaswa kugawanywa kwa kazi ambayo AI inatekeleza na mashtaka yanayohusishwa nayo.
 
@@ -120,55 +121,3 @@ Usawazishaji pia hupimwa na motisha za mfumo unaoaminika mwenyewe. Wafanyakazi w
 
 - Ripoti uaminifu, utambuzi wa hatari na utegemezi unaofaa kama dhana tofauti, kwa sababu vinabadilika pamoja katika mielekeo isiyo dhahiri, ikiwemo hasi.
 - Ripoti matokeo ya tabia (kiwango cha kukubali mapendekezo yasiyofaa) pamoja na uaminifu unaojiripoti; vipimo vya uaminifu peke yake hugeuza hitimisho.
-
-## Dhana Zilizounganishwa
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — hatari ya kijamii ambayo kanuni na ufunuo hufanya kazi juu yake
-
-## Makala Zilizounganishwa
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Matumizi yasiyolingana, uaminifu unaofanana: AI ya uzalishaji nchini Denmark na Romania (Lucau, Voicu & Christensen 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — Hatari inayoonekana inahusiana kwa chanya na nia ya matumizi ya kuendelea: kupokea kwa taarifa (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Pengo la uaminifu la mwalimu-mwanafunzi kuhusu udhibiti na wakala katika AI ya darasa la K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — Kufunua matumizi ya AI kunaendeshwa na mambo ya mahusiano na faraja na waelimishaji, si sera
-- [[genai-teacher-feedback-comparison]] — Maoni ya GenAI na ya mwalimu yanahudumia mahitaji tofauti, ya kuaminika yanayojazana
-- [[care-full-feedback-genai]] — Maoni ya kuaminika kama mazoezi ya \"care-full,\" ya mahusiano
-- [[ai-fallibility-warning-help-seeking]] — Maonyo kuhusu udhaifu wa AI yanaongeza utafutaji wa msaada katika ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Kubuni pamoja vigezo vya kuaminika na picha za LLM katika elimu
-- [[ai-overreliance-complex-adaptive-system-2026]] — Kutegemea kupita kiasi AI kumefanoliwa kama mfumo mliochanganyiki na unaobadilika
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Pengo la uaminifu-na-manufaa katika zana za fizikia za AI
-- [[t2i-competence-paradox-2026]] — Paradoksi ya uwezo katika utengenezaji wa picha ya AI
-- [[task-context-trust-educational-hri-2026]] — Muktadha wa kazi unaunda uaminifu katika roboti za kielimu zaidi ya mwonekano
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Utambulisho wa avatar na uaminifu wa maarifa katika kujifunza kunakowasilishwa na AI
-- [[contextual-sycophancy-ai-literacy]] — Kubembeleza kulingana na miktadha na mipaka yake kwa usawazishaji wa uaminifu
-- [[sycophantic-ai-social-interaction-2026]] — AI inayobembeleza hufanya mwingiliano wa binadamu uhisi kuridhika pungufu kwa muda
-- [[ai-pedagogical-accompaniment-amico]] — Upangishaji wa kielimu wa uwajibikisho na uaminifu katika mifumo inayoendeshwa na AI
-- [[best-response-student-ai-dialog-2026]] — Uaminifu katika mazungumzo ya mwanafunzi-AI
-- [[ai-adaptation-gap-higher-education-2026]] — Manufaa yanayoonekana kama watabiri wenye nguvu zaidi wa uaminifu wa AI katika elimu ya juu
-- [[bassett-ai-detectors-education-2026]] — Uaminifu na kutokuamini mifumo ya kugundua AI
-- [[genai-use-usefulness-student-experience-australia-2026]] — Uzoefu wa wanafunzi wa manufaa ya GenAI katika elimu ya juu ya Australia (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Kufanya matokeo ya ML yapatikane kwa walimu katika madarasa ya mchanganyiko
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Nani Anapaswa Kupanga Kazi Yangu? Mitazamo ya Wanafunzi kuhusu Tathmini ya Uandishi Inayosaidiwa na AI ya Uwazi katika Elimu ya Juu
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Wasifu watatu wa wanafunzi ambao uaminifu wa AI unafuatilia ustahimilivu na msongo badala ya kidemografia (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Tathmini za uwezeshaji na tishio zilisogeza uaminifu kwa mienendo tofauti, zikibeba utegemezi wa GenAI
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Matumizi ya GenAI ya wenzao hupunguza uaminifu wa kibenadamu kupitia joto na uwezo unaoonekana, likiimarishwa na ujuzi wa AI
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Vidokezo vya uaminifu viliongeza uhamishaji kwa msimamo wa AI usio sahihi, kuzuia pendekezo kulipunguza
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Mfano wa kimuundo unatoa jukumu hilo la kuunganisha jaribio la kimajaribio
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — Uaminifu wa kivitendo kama kitabiri chenye nguvu zaidi cha nia ya GenAI kwa wanafunzi wa sanaa
-

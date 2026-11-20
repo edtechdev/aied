@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,16 +50,3 @@ ai_assist:
 ## টীকা ও সতর্কতা
 
 এটি একজন চর্চাকারীর গাইড ও টুলচেইন, সহপাঠী-পর্যালোচিত গবেষণা নয় — এটি একটি কর্মপ্রবাহ ও নিজের শিক্ষাগত যুক্তি ("বুদ্ধিদীপ্ত পাঠ্যপুস্তক জ্ঞানের অন্বেষণে শিক্ষার্থীদের ধারণার ভেতর দিয়ে পথ দেখায়") উপস্থাপন করে, শেখার ফলাফলের প্রমাণ নয়। MicroSim গবেষণা-নিবন্ধটিই অভিজ্ঞতাভিত্তিক সমর্থনের সবচেয়ে কাছের জিনিস, এবং তা arXiv-এ স্ব-প্রকাশিত। দুটি প্রকল্পই ওপেন সোর্স (intelligent-textbooks রিপো মিট লাইসেন্স ও 38 স্টার রিপোর্ট করে; MicroSims একটি Creative Commons লাইসেন্স ও 13 স্টার) এবং সক্রিয়ভাবে রক্ষণাবেক্ষিত। ধারণা-গ্রাফ ও শব্দকোষ-প্রথম কাঠামো আবিষ্কারযোগ্যতার জন্য সত্যিই উপযোগী, কিন্তু গাইডটি বেশ কারিগরি একটি অথরিং কর্মপ্রবাহ ধরে নেয় — MkDocs, Git ও জেনারেটিভ-এআই টুলিং — যা কিছু অনুষদের জন্য বাধা হতে পারে। অন্তর্ভুক্তির সময়ে MicroSims-এর রেজিস্ট্রি এখনও কেবল রোডম্যাপে, তাই একটি নির্দিষ্ট বিদ্যমান সিমুলেশন খুঁজতে সাইটের নিজের খোঁজ ও নেভিগেশনের উপর নির্ভর করতে হয়।
-
-## সংযুক্ত ধারণা
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

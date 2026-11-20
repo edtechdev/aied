@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -96,34 +98,3 @@ ai_assist:
 **«Батьки помітять, якщо ШІ шкодить навчанню їхньої дитини».** Вони найменше здатні помітити. У даних [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]] оцінки за домашні роботи зросли на **18%**, тоді як оцінки за [[summative-assessment|іспит без допоміжних матеріалів]] впали на **20%** протягом шести місяців — і саме зростаюче число видно вдома. Батько, спостерігаючи за домашніми роботами, бачить покращення, тоді як довготривалий результат падає.
 
 **«Використання ШІ вдома — питання батьківського дозволу».** Це питання грамотності та адвокації. Власна ШІ-грамотність батьків визначає, про що вони можуть розпитувати щодо інструменту, виданого школою, а нерівності доступу між родинами формують те, які діти взагалі отримують доросле посередництво.
-
-## Пов’язані поняття
-
-- [[stakeholders]] — узагальнювальна сторінка для аудиторій і акторів у ШІ в освіті
-- [[early-childhood-elementary-ai-education]] — розвитковий домен, де використання вдома й у родині досліджено найбільше
-- [[ai-use-disclosure]] — практики розкриття і питання того, що досягає родин
-- [[ai-literacy]] — власні компетенції батьків і побудовані школою рамки, які їх визначають
-- [[equity-in-ai-education]] — як вигоди і тягарі розподіляються між домогосподарствами
-- [[digital-divide]] — шари доступу, навичок і результатів, як вони застосовуються вдома
-- [[conversational-ai]] — домінуюча форма, яку ШІ набуває в родинних умовах
-- [[self-determination-theory]] — підтримка автономії як рамка для настав для родин
-- [[cognitive-offloading]] — залежний проти автономного офлоадінгу, і чому батьки не можуть побачити відмінності
-- [[intelligent-tutoring]] — модель за репетиторством батьків і дитини, опосередкованим ШІ
-
-## Пов’язані статті
-
-- [[ai-connectedness-adolescent-mental-health-2026]] — Пов’язаність підлітків із ШІ та коли прив’язування до ШІ підставляє невдоволене розпізнавання від тих, хто доглядає
-
-- [[paratutor-parent-child-tutoring]] — підтримка LLM із розділеними ролями для 23 діад батько–дитина в китайському домашньому математичному репетиторстві
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — фіксований компаньйон ролі однолітка проти вчителя з 19 школярами початкової школи на Тайвані
-- [[family-school-autonomy-support-genai-2026]] — огляд, що трактує координацію родина–школа як неперевірену гіпотезу
-- [[raise-framework-ai-education-reporting-2026]] — зобов’язання повідомлення, що охоплюють згоду, контекст учасників і справедливість доступу
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 вчителі про юрисдикцію, батьків і стосунки дітей із компаньйонами ШІ
-- [[ai-play-framework-early-childhood-2026]] — непідключена грамотність щодо ШІ, перевірена через орієнтовану на родину подію Hour of Code
-- [[all-girls-genai-makerspace-gender-equity-2026]] — батьки поміж опитаними; вартість засобу та мовні бар’єри в неформальних умовах
-- [[creative-project-approach-ai-early-childhood-2025]] — фізичні агенти для маленьких дітей, із застереженнями щодо вартості, доступу та приватності
-- [[demir-akar-ai-media-literacy-children-2026]] — шкільна програма про приватність даних, безпечну комунікацію та етику медіа у 36 четверокласників
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — взяття зросло з 45 % до 83 %, коли були усунуті кроки, звернені до родин
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — перекладання домашніх завдань на чужих, падіння на іспитах і аргумент за моніторинг входів
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — віково-агностичні рівні ШІ-грамотності та трирівневий цифровий розрив
-- [[llm-family-education-activity-theory-2026]] — Характеризація сімейної освіти на основі LLM через призму теорії діяльності: огляд меж літератури HCI

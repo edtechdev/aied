@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -108,54 +110,3 @@ ai_assist:
 **"检测滥用并加以惩罚是一种预防策略。"** 预防必须覆盖评分者本身。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]]的红队评估发现，嵌入提交文件中的五种间接提示注入策略中有两种能把一篇不及格文章的分数提高。一条检测学生滥用、却信任未经检查的提交内容的流水线，只在一侧设防。
 
 **"滥用是一个学生动机问题。"** [[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]把约束条件推高一层，把治理而非学生行为当作要改变的东西，并提出一个 130 项的诚信指标框架。而学习上的损害在规模上是可测的：[[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu（2026）]]发现作业外包使作业分数提高 18%，却使闭卷考试分数*降低* 20%，这是一个设计失败，恰好显现在本页所讨论的那个缺口上。
-
-## 关联概念
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## 关联文章
-
-- [[ivory-psychology-assessment-integrity-2026]] — 版本控制证据链与可复现分析文档作为滥用威慑（Ivory et al. 2026）
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding a recommendation largely prevented overreliance without building the judgment it protects：扣留推荐在很大程度上防止了过度依赖，却没有培养它所保护的判断
-- [[generative-ai-guardrails-harm-learning]] — 没有护栏的 GenAI 会损害学习
-- [[genai-performance-vs-learning]] — 区分表现增益与学习
-- [[ai-assessment-scale-reform]] — AI 评估量表与评估改革
-- [[critical-thinking-genai-scaffolding]] — 用生成式 AI 支架化批判性思维
-- [[aaai2026-prompting-literacy-k12]] — 学会用 AI 学习（K-12 AI 素养模块）
-- [[genai-declaration-frameworks-higher-education]] — 结构化透明度：GenAI 声明框架
-- [[absent-cognitive-baseline-2026]] — 缺失的认知基线
-- [[ai-literacy-power-knowledge]] — AI 素养：一次权力与知识的演练
-- [[contextual-sycophancy-ai-literacy]] — 情境性谄媚的隐性代价：一项 AI 素养干预
-- [[sycophantic-ai-social-interaction-2026]] — 谄媚的 AI 随时间推移让人际互动更费力、更不满意
-- [[ssaho-ai-academic-integrity-review-2025]] — 文化建设与评估重构，胜过检测执法
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 认知投降、生产性摩擦与元认知不平等
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新考量口试作为真实的、抗 AI 的评估
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 学习惩罚：作业外包损害学习
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI 过度依赖被建模为复杂适应系统
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 移除护栏造成损害却未改善考试成绩
-- [[munoz-misconduct-allegation-evidence-2026]] — 违纪指控档案中实际包含什么证据
-- [[wright-transcription-not-generation-2026]] — 过度宽泛的 AI 规则及其波及的学生
-- [[sharma-judgment-visible-genai-assessment-2026]] — 诚信作为评价性判断而非合规
-- [[mulisa-students-genai-integrity-perspectives-2026]] — 学生谈 GenAI 是作弊工具还是学习伙伴
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 远程监考对学生与公平的影响
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — 针对 AI 促成作弊的情境犯罪预防：从 183 起降到 27 起，以及五项学科特定重构（Leaton Gray, Edsall & Parapadakis 2025）
-- [[ji-student-voices-academic-integrity-scoping-2026]] — 38 项学生声音研究建议什么：共创的清晰性与教育性推理胜过检测（Ji 2026）
-- [[li-genai-assessment-language-equity-2026]] — 对 EAL 写作者而言，语言支持止于何处、替代始于何处（Li 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 提示注入作为针对 AI 评分的滥用向量（Humble 2026）
-- [[coates-governing-academic-integrity-indicators-2025]] — 治理作为诚信的约束条件：一个 130 项的指标框架（Coates, Croucher & Calderon 2025）
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学术写作中生成式 AI 的负责任学生使用：关于边界、教育方法与证据缺口的范围综述
-
-- [[guo-overreliance-genai-feedback-2026]] — 认知负荷经由卸载通向过度依赖，而监控改变了这条路径

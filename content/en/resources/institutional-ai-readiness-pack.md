@@ -19,6 +19,7 @@ level: [higher ed, graduate]
 audience: [administrators, researchers, policymakers]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 **The Institutional AI Readiness Pack** turns a competency framework for responsible AI in academic research into instruments a university can actually run. Each file is offered in HTML, Word and PDF, and the whole pack downloads as a zip under CC BY 4.0 with attribution — no permission needed to adapt it into your own documents.
@@ -28,6 +29,3 @@ An **assessment suite**: a 20-cell institutional AI-readiness maturity self-asse
 
 ## Who it is for
 Research leaders, committees and policy offices that need an evidence-based picture of how AI is used and [[governance|governed]] across a research environment and a way to track [[change-management|change]] over time. It accompanies *Responsible AI in Academic Research: A Competency Framework for Research Training*, which defines five dimensions of readiness, and was written by Michael J. Zyphur, director of Instats.
-
-## Connected Concepts
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,27 +92,3 @@ ai_assist:
 **「行動主義的な設計は構成主義的な設計より単純に劣る」** それらは特定の目標、すなわち流暢さ、事実の想起、手続きの自動化にはよく適合し、そこでは即時フィードバックと反復がまさに課題の要求です。誤りは仕組みではなく、その妥当性の条件（学習者が反応を生み出さなければならない）が静かに成り立たなくなった仕組みを使うことにあります。
 
 **「理論が信用を失っているのだから、それに基づくシステムは成果だけで判断できる」** 成果こそが出力の等価性に汚染されるものです。システムは優れた行動的成果を報告しながら、学習が他所へ移っていることがあります。したがって行動主義の影響を受けたシステムは、他のどの種類よりも、支援なしの測定を必要とします。
-
-## 関連する概念
-
-- [[constructivist]]
-- [[cognitive-psychology]] — 認知心理学: 学習理論における第三の古典的極である認知主義
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## 関連する記事
-
-- [[ai-vocational-education-training-review]] — 標揚される構成主義にもかかわらず VET の実践を行動主義的な AI 設計が支配し、「チューリング・トラップ」を招く
-- [[generativism-learning-theory]] — 生成 AI が再考を促している四つの主要な理論の一つとしての行動主義
-- [[ccct-cooperative-learning-technique]] — 高等教育における協同学習設計で引用される行動主義
-- [[wang-multi-agent-systems-learning-designers-2025]] — 協働的なマルチエージェント設計アプローチにおける行動主義的なペルソナ
-
-- [[sequenced-ai-feedback-learning]] — 順序づけられたヒントのフィードバックは、199名の無作為化実験で即時の完全解答フィードバックを下回った
-

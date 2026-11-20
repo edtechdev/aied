@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -62,7 +64,6 @@ Matumizi ya kipekee ya mawakala wenye msingi wa jukumu yanalenga mazoezi ya [[te
 
 Uso wa wakala ni mhimili wa ubuni tofauti na mbinu zake za kufundisha. [[ai-avatars-and-synthetic-instructors]] huchukulia ishara za utambulisho wa avatar, uwepo na athari za uaminifu katika uso na sauti yake kama matokeo yanayostahili kupimwa yenyewe, bila kujali ngazi za msaada za wakala zinafanya nini.
 
-
 **Tathmini na viwango.** Kupima mwakala wa kibunifu kunahitaji kupima kibunifu, si maudhui. [[teaching-monster-pck-benchmark-2026|Changamoto ya The Teaching Monster]] hupima Maarifa ya Maudhui ya Kibunifu kwa kuwaomba mawakala kubadilisha somo kwa wahusika maalum wa mwanafunzi, wakipata mifumo imara kwa maudhui lakini dhaifu katika kuyabadilisha — na kugundua kuwa waamuzi wa LLM hupanga vibaya mifumo imara. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] huthmini mawakala katika hukumu ya kitaalamu ya kibunifu, ualimu wa [[situated-learning|hali]] wa zamu nyingi, na ukamilishaji wa mtiririko wa mtindo wa kanvasi, ukionyesha kuwa mifano haufikii viwango vya kitaalamu vya kufundisha. [[ai-generated-interactive-fiction-education-2026|Hadithi za kubuni za mwingiliano zilizozalishwa na AI]] inaongeza pembe ya tathmini ya ubuni: ushirikiano wa dhana na wa maswali, si uwezo wa kuzalisha, ndicho kinazuia ufaafu kwa [[student-experience|uzoefu wa mwanafunzi]].
 **Jaribio la kupima uthabiti wa wahusika katika zamu nyingi.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] walifanya mashambulizi sita yanayoongezeka dhidi ya mawakala wa kucheza jukumu na Mwamuzi wa otomatiki: kupima mikakati mingi kupunguza uthabiti kwa 0.17–0.20 ikilinganishwa na msingi wa mkakati mmoja, na kushindwa kuhusika kulijikusanya baada ya zamu ya 5–6, hivyo tathmini fupi au za zamu moja hupita kiasi uthabiti wa wahusika na uaminifu wa maadili.
 
@@ -89,66 +90,3 @@ Maoni bora si kujifunza bora: kubinafsisha wakala kwa hifadhi za maarifa na mtir
 - **"Nia ya mwandishi huamua kile wakala wa kibunifu anachofanya."** **Nia ya mwandishi haihakikishi ualimu unaotekelezwa.** Walimu **27 wa shule ya kati** walipoweka zana ya uandishi ya chatbot inayomwelekea mwalimu, tathmini ya vigezo 108 vya kiwango cha bot ilionyesha tabia iliyotekelezwa ilitofautiana na kile walimu walikusudia. Zana ilipatanisha ualimu.
 - **"Wakala wa kibunifu anayesimamia majadiliano ni jukumu lililotatuliwa."** [[ethics-training-agents-group-ethics-discussion-2026|Mawakala wa Mafunzo ya Maadili (Seo na wenzake, 2026)]] wanaonyesha kinachotokea wakati wakala anaombwa **kusimamia badala ya** kufundisha, dai la aina tofauti kabisa na kujibu maswali, na ambalo fasihi inalichukulia kama halijatatuliwa.
 - **"Msingi wa ushahidi wa ufundishaji unaosaidiwa na kompyuta ni mwembamba."** Muhtasari (**2025, mapitio 34**) unahesabu matumizi ya CAI katika ufundishaji na msaada wa kujifunza (**97.1% ya mapitio**), msaada wa kisaikolojia na wa motisha (**91.2%**) na msaada wa **metaji**. Upana wa matumizi yaliyopitiwa ni mkubwa, jambo linalofanya pengo kuwa la ubora unaotekelezwa badala ya ufunikaji.
-
-## Dhana Zilizounganishwa
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Makala Zilizounganishwa
-- [[wang-teacher-student-centered-agents-physics-2026]] — Jukumu la wakala linalozingatia mwanafunzi lilitoa matokeo bora kuliko jukumu linalozingatia mwalimu katika utendaji, mzigo, mtiririko, na huruma (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: mfumo wa dhana kwa mawakala wa kibunifu katika AR/VR — kocha dhidi ya mwenzi wa kucheza jukumu, uhalisi, uwepo, mzigo wa kikognitivi (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: mawakala wa wanafunzi wa kizalishaji kwa mazoezi ya mafundisho
-- [[conversational-ai-agents-umbrella-review-2026]] — Mapitio ya mwavuli ya mawakala wa mazungumzo wa AI katika elimu
-- [[conversational-agents-novice-programmers-scoping-2025]] — Mapitio ya wigo ya mawakala wa mazungumzo kwa programu wapya
-- [[ba-ai-agents-cscl-review-2026]] — Mapitio ya mawakala wa AI katika kujifunza kwa ushirikiano kinasaidiwa na kompyuta
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI Kusaidia Kujifunza Kulingana na Kushindwa Kwenye Mazao
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Ngazi za msaada zinazopendelewa katika uundaji wa hisabati unaosaidiwa na AI
-- [[llm-adaptive-programming-error-explanations-2026]] — Maelezo ya LLM yanayojirekebisha ya makosa ya programu
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Mwenzangu wa AI anayejirekebisha kwa jukumu kwa mazungumzo ya kitabu ya msingi; kizingiti cha kihisia cha mawakala wenye jukumu thabiti (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Wakala wa Mafunzo ya Maadili: Kuwezesha Elimu ya Maadili ya Msingi wa Kikundi kwa Kucheza Jukumu na Majadiliano kwa Kutafakari na Uchunguzi wa Maadili
-
-- [[teachers-configure-educational-chatbots-2026]] — Je, Itafundisha Kama Ilivyokusudiwa? Jinsi Walimu Wanavyounda Chatbot za AI za Kielimu
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Wakala aliyebinafsishwa aliinua ubora wa maoni lakini si kujidhibiti wala matokeo; faida ya ongezeko tu chini ya maoni ya kuelekeza

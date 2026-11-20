@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -86,26 +88,3 @@ ai_assist:
 - **«Задоволеність і сприйнята користь свідчать, що інструмент ШІ для науки про дані працює».** Студенти інтенсивно використовували LLM для налагодження та запитань про поняття і **повідомляли про високу задоволеність, тоді як їхня сприйнята користь для глибокого навчання знижувалася протягом семестру**. Задоволеність трималася, а самозвітна навчальна траєкторія падала, тож жоден із показників окремо не є результатом.
 - **«Необмежена модель така ж хороша, як керований тьютор».** Експериментальне порівняння виявило, що **явне навчання скаффолдингу, зосередженого на міркуванні — покрокові підказки, верифікація — дало кращу самостійну** результативність, ніж необмежений доступ. Ефект несли керівництво і навчання тому, як ним користуватися.
 - **«Достатньо захиститися від видавання відповідей».** Спеціально створений тьютор, обгорнутий навколо розміщеного API, з системною підказкою **спрямовувати, а не відповідати**, був розгорнутий у семестровому курсі R для студентів-бакалаврів психології, де **76% до 84% студентів використовували його в тижні, важливі для іспиту. Це впровадження, а не доказ того, що захист забезпечив навчання:** Захист на рівні підказки — це один важіль серед кількох, і сам по собі він не продукує навчання.
-
-## Пов’язані поняття
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Пов’язані статті
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Агентний інструмент, що генерує оглядові синтетичні набори даних для персоналізованої практики зі статистики
-- [[ai-tutor-statistical-programming-adoption-2026]] — Спеціально створений тьютор з R; впровадження відстежувало календар іспитів
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Позначки складності від LLM відстежують рівні Блума, а не результативність студентів
-- [[tactile-statistical-graphs-accessibility]] — Відкритий конвеєр, що генерує тактильні статистичні графіки з переглядом викладачем
-- [[guided-llm-scaffolding-independent-learning]] — Керований скаффолдинг перевершив необмежений доступ у самостійній результативності
-- [[lund-socially-accountable-data-science-xai-2026]] — Вбудовування соціальної підзвітності в технічну навчальну програму з науки про дані

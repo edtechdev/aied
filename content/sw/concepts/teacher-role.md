@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -192,86 +194,3 @@ Mamlaka ya kielimu katika upangaji unaosaidiwa na AI hujadiliwa kipindi kwa kipi
 **"Walimu tayari ni wabunifu-wenza wa AI, hivyo mabadiliko yanaendelea."** Matamanio ni ya kweli; maelezo bado hayako. Mapitio ya kimfumo ya [[wang-teacher-ai-co-design-review-2026|Wang, Liu na Islam (2026)]] ya ubunifu-wenza wa mwalimu na AI wa kazi za kujifunza yanagundua msimamo wa mbunifu-mwenza **unabaki usio sawa**, huku mtindo unaotawala ukiwa AI kama msaidizi au kizalisha maudhui. Kusoma mapitio hayo kama ushahidi wa mabadiliko yaliyokamilika kungeficha pengo kati ya walimu ambao ukurasa kama huu unawapendekeza na walimu ambao taasisi nyingi wanawao kweli.
 
 **"Jinsi mwalimu anavyokabidhi kwa chatbot ni jambo dogo, kwa kuwa mfano unafanya kazi."** Mfumo wa ukabidhi ndio uingiliaji. Katika upangaji wa masomo ya sanaa ya STEAM kwa watoto, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo na Tahir (2025)]] waligundua kwa majaribio kuwa kujaza mapengo ya maudhui katika somo *lililojipangia mwenyewe* kulihifadhi uhuru wa ubunifu wa mwalimu huku kikipandisha ubora wa mpango uliokadiriwa na wataalam (wastani 20.5 dhidi ya 17.6, p = .002, athari kubwa), kikizidi mbadala wa kuruhusu mfano kutoa mpangilio. Mfano ule ule, kazi ile ile, mgawanyo tofauti wa kazi, matokeo tofauti kwa kiasi kikubwa.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-partnerships]] — Ushirikiano wa Kitaaluma wa Kufundisha
-- [[learner-identity]] — utambulisho wa wanafunzi unaoendelea katika taaluma, kitaaluma, ubunifu, na kiakademia
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — Kikundi: mbinu za kufundisha na mikakati ya kufundisha katika elimu ya AI
-- [[stakeholders]] — Kikundi: watu na hadhira katika elimu ya AI (wanafunzi, walimu, wabunifu, wasimamizi, watengenezaji sera)
-- [[reflection]]
-
-## Makala Zilizounganishwa
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Mienendo minne ya utambulisho, utata wenye manufaa, na gharama ya kitaasisi ya kazi ya mahusiano
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — Shule 68 za sekondari za Uingereza: utayarishaji wa somo ulipungua kwa dakika 25.3 kwa wiki bila upotevu wa ubora uliogundulika (Roy et al., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — Jaribio la nasibu la ASSISTments: muhtasari wa AI uliongeza ukamilishaji wa kazi lakini si alama za darasa (Lim et al., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Waelimishaji wa kibarua hubeba kazi ya uadilifu bila mamlaka
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoksi ya kibinadamu zaidi: miktadi ya wataalam ya 2030 inapata kushiba kwa AI kinazidisha badala ya kupunguza kazi ya kitaaluma ya kufundisha ya kibinadamu (Malyn-Smith na wenzake 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Masomo sita yaliyochunguzwa ya hisabati ya sekondari yanaongeza uratibu wa kifaa na aina tatu mpya (Noh na Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
-- [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Walimu wanabuni chatbot za darasa kama wataalamu wenye mipaka na wanahifadhi mamlaka
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI kama "frenemy": walimu wanapendelea nusu-uhuru, faida inaongoza kupitishwa, kupinga hatari kunalenga matumizi ya wanafunzi (Dai na wenzake 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[chirikov-regulate-ai-syllabi-2026]] — Jinsi wato wafundishaji wanavyodhibiti AI katika mitaala 31,000 ya kozi; udhibiti wa kiwango cha kazi (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Uongozi wa kifalsafa kama jukumu la kufundisha lenye awamu tatu: hukumu ya kimaadili, mwongozo wa kufundisha, tafsiri ya sera (Socorro Márquez et al., 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Tabia ya ubunifu wa kufundisha kwa AI kati ya walimu wa chuo (SEM ya AI-TPACK; Bai na Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI kama mgogoro wa utambulisho, si pengo la ujuzi
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading na athari kwa elimu (Lodge na Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar na Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and agentic AI in assessment
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo na Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Mvutano wa utambulisho na uchaguzi wa kanuni katika kufundisha kumeunganishwa na AI (Adiozaman na Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
-- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: mwalimu kama mwakilishi kati ya wanafunzi na AI, jaribio la karibu la madarasa 19 ambapo mafunzo na kupungua kwa Effort kwa njia isiyo ya moja kwa moja vinaongoza faida (Rodrigues na wenzake 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Upatanishi wa mwalimu katika hisabati: mazoezi matano ya upatanishi wa kukosoa, mabadiliko ya mamlaka, na pengo la algoriti ya bure-dhidi-ya-premium
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Uandali wa mwalimu-kwa-ubunifu: uandali kama uwezo wa ubunifu, si kupitisha au ujasiri (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Maoni ya mwalimu yanayosaidiwa na ChatGPT: walimu wanachagua nakala za AI badala ya kuzirithisha
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kutoka uwezo hadi uwezo wa kutenda: maoni ya walimu kuhusu madhumuni ya elimu ya AI
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Waenyekiti wa mjadala wa binadamu dhidi ya AI: alama zinazolingana, njia tofauti za kutumia tena
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
-- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Matumizi ya AI hayakuwa na athari ya moja kwa moja kwenye utendaji wa mwalimu; tabia ya uraia ilipatanisha (Sherly et al. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — Vipindi 34 vinavyoonyesha mamlaka yalibaki, yalishirikiwa au yalikabidhiwa katika upangaji wa somo unaosaidiwa na AI
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Mitazamo ya Wanafunzi kuhusu Bodi za Majadiliano: Utafiti wa Mfano wa Kukubali Teknolojia kwa Kubuni Uchanganuzi wa Kujifunza Unaowezeshwa na AI
-- [[gnadlinger-educator-perspectives-its-design-2026]] — Kuelekea kujumuisha mitazamo ya waelimishaji katika usanifu wa mfumo-mkuu wa mifumo ya ufafanuzi wa akili
-- [[chen-future-faculty-development-ai-2027]] — Mwalimu kama mpiga miongozo wa utaalamu wa wengine, huku majukumu yakigawanywa katika timu ya kufundisha
-- [[li-instructor-designed-ai-rct-2026]] — AI iliyobuniwa na mkufunzi inaboresha kujifunza katika jaribio la nasibu katika vyuo vikuu 19 (Li et al., 2026)

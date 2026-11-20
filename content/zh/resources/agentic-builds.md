@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -42,7 +43,3 @@ ai_assist:
 ## 说明与注意事项
 
 这些构建被描述为公开共享，但构建页和画廊页都没有声明许可证，所以复用需要作者许可，而不是假定已被授权。不过源码是公开的——该账号的仓库里存着这些构建背后的 HTML 和 JavaScript，还有一份关于在教育中使用编码代理的教程，因此读者可以检视一个应用，而不只是运行它。有几个链接指向 Netlify 的部署预览地址而不是项目站点；那些是为评审而构建的，可能失效，而 GitHub Pages 上的构建是稳定的。部分构建依赖 TypeSafe AI 的 Jev 模型并显示其概率，所以其底层行为是模型的判断，而不是固定规则。刻意困难这条路径是一个主张——把摩擦当作特性——页面只是提出它，并没有报告学生是否因此学得更多的评估。
-
-## 关联概念
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,8 +49,3 @@ ai_assist:
 ## 참고 사항
 
 제품 사이트는 개별 저자를 밝히지 않고 요청을 프로젝트 받은 편지함으로 연결합니다. DrawSplat은 Miguel Guhlin이 만들며, 그의 사이트가 출시 이력을 문서화합니다. 코드는 가격 면이 아니라 라이선스 면에서 자유롭습니다. 화이트보드는 GNU AGPL-3.0-or-later이고 SplatWorks 앱은 GPL-3.0-only이며, 학생 기기에는 좌석당 라이선스가 없습니다. 파일을 읽는 도구는 브라우저에서 로컬로 실행되지만, 클라우드 저장과 전문적 학습 요청은 데이터를 전송하므로, 학생 과업에 사용하기 전에 저장소 목록 페이지를 확인하시기 바랍니다.
-
-## 연결된 개념
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

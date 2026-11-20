@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -48,7 +49,3 @@ Cadre didactice și personal de [[educational-development|dezvoltare educaționa
 ## Note și precauții
 
 Citirea nu cere cont, iar cursurile Canvas și listele de verificare spre care trimite sunt publice. Coach-ii Playlab și Gem-urile și notebook-urile Gemini sunt servicii terțe care chiar cer unul. Cardurile se randează din `apps.json`, deci lista completă cere JavaScript, iar varianta fără script numește opt din cincisprezece; linkul scurt `tinyurl.com/fpdapps` și un cod QR în antet îl deschid pe telefon. Depozitul este software licențiat MIT, în timp ce ghidurile spre care trimite au propriile licențe, între ele cartea Pressbooks, sub o licență Creative Commons necomercială. Nu există un calendar de publicare, așa că pagina se schimbă fără anunț.
-
-## Concepte conexe
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

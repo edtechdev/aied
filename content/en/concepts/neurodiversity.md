@@ -9,6 +9,8 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 > **Neurodiversity** — the framing that neurological differences such as autism, ADHD, dyslexia, and dyspraxia are natural variations in [[cognitive-psychology|human cognition]] rather than deficits to be corrected. In education, a neurodiversity-affirming approach designs learning environments that accommodate and leverage these differences rather than forcing conformity to a single cognitive norm.
@@ -79,33 +81,3 @@ Neurodiversity connects to [[special-education|special education]], [[inclusive-
 - **"Neurodiversity research is a niche corner of [[ai-education|AIED]]."** The field has **reorganised around [[generative-ai|generative AI]] — 15 of the 40 studies** — with immersive formats second at 11. The literature moved with the technology rather than accumulating around stable questions.
 - **"More AI for dyslexia means better support."** [[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers **72 studies across 2018-2024** and finds AI used across a wide span of purposes. Breadth of application is not evidence of effectiveness for any one of them.
 - **"Accommodations are the right frame for neurodivergent learners."** [[neurodivergent-computing-students|A survey of 24 neurodivergent computing students and 20 neurotypical peers]] with four in-depth interviews found needs that are **general design requirements** — structured assignments, small consistent teams, explicit roles — rather than individual adjustments granted after a diagnosis.
-
-## Connected Concepts
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[executive-function]]
-## Connected Articles
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent computing students on structure, ambiguity, and collaboration
-- [[genai-reliance-executive-functioning-2026]] — Executive-functioning difficulties, perceived usefulness, and the route to AI reliance
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detector-driven processes can deter legitimate accommodation use
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Twenty-eight studies on AI for ADHD students, with the ethics named

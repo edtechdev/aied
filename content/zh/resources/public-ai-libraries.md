@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -46,13 +47,3 @@ ai_assist:
 - 参与图书馆每年每台 kiosk 部署出资 **\$1,000**；试点本身仅限于提出申请的站点。
 - 隐私声明是项目的主张，不是经审计的结论；图书馆应在自己的数据处理协议中确认留存与儿童安全条款。
 - 路线图的第二与第三阶段 —— 让图书馆摄取本地档案并治理由此产生的系统 —— 是计划中而非已交付。
-
-## 关联概念
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

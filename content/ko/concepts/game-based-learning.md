@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +48,6 @@ GBL은 [[motivation]], [[student-engagement]], [[active-learning]] 이론에 뿌
 - **게임 내 챗봇이 있는 탈출방.** 두 달간의 제작으로 K-12 사이버보안을 위한 브라우저 기반 3D 탈출방이 만들어졌으며, 학생들이 질문할 수 있는 로봇으로 GPT-4o 패널이 내장되었습니다. 교사들은 두 번째 반복에 참여하여 퍼즐 연쇄의 지름길을 막았습니다([[na-yang-escape-room-cybersecurity-2026|Na & Yang (2026)]]).
 
 추측 라운드는 프롬프트를 혼자 작성하는 것만으로는 가르칠 수 없는 것을 가르칠 수 있습니다. [[kumar-picprompt-game-prompt-engineering-k12-2026|Kumar, Lim, Sotelo and Driscoll (2026)]]은 PicPrompt를 만들었습니다. 한 플레이어가 프롬프트를 작성하면 텍스트-이미지 모델이 그것을 렌더링하고, 같은 테이블의 나머지 학생들은 가장 가까운 시도에 투표하기 전에 원래 프롬프트를 추측합니다. 그들은 비형식 학습 사이트에서 2학년에서 9학년까지의 학생 22명과 함께 이를 실행했습니다. 프롬프트를 작성하고 이미지를 보는 것은 인과를 가르치지만, 이미지에서 다른 사람의 프롬프트를 추측하는 것은 보는 사람의 독해가 쓰는 사람의 의도와 다르다는 것이 드러나는 지점이며, 그것이 단어 선택과 구체성을 중요하게 만드는 것입니다. 자기 평정 프롬프트 작성 지식은 4점 척도에서 2.23에서 2.73으로 움직였고(p = .118, d = 0.35), 프롬프트를 한 번도 작성해 본 적이 없는 학생의 비율은 22명 중 8명에서 1명으로 줄었습니다.
-
 
 ## 게임화
 
@@ -85,36 +86,3 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 **"동기와 지식에 대한 긍정적 효과는 서로를 강화합니다."** 그것들은 별도로 측정되며, 더 넓은 문헌에서는 별도로 예정됩니다. [[student-engagement|참여와 성취]]는 서로 다른 시간선에서 움직이므로, 내재적 동기를 높인 게임은 하나의 결과를 입증한 것입니다. 동기 결과를 지식 결과의 확증으로 다루면 두 부분짜리 발견이 설계가 지지하는 것보다 강한 발견으로 부풀려집니다.
 
 **"게임이 학생을 참여시키면 재미에서 학습이 따라옵니다."** 재미는 게임이 견딜 만하게 만드는 반복의 전달 기제이지 학습의 기제가 아닙니다. 생산적 연습을 더하지 않고 참여만 더한 게임은 애초에 부족하지 않았던 부분을 더한 것입니다.
-
-## 연결된 개념
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — 상위 개념: AI 교육의 교수법과 교수 전략
-- [[virtual-and-augmented-reality]] — 몰입적이고 게임화된 연습은 설계와 증거에서 겹친다
-
-## 연결된 문서
-- [[ai-game-based-learning-systematic-review-2026]] — AI 지원 게임 기반 학습 연구 55건의 체계적 검토: 긍정적 결과, 얇은 증거 기반
-
-- [[game-based-gamified-robotics-education-review-2026]] — 게임 기반·게임화 로봇공학 교육
-
-- [[xie-genai-mystery-game-legal-education-2026]] — 법학교육에서 강의와 비교한 GenAI 저작 추리 역할극 게임 (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — 컴퓨팅 사고를 위한 AI 강화 게임 기반 학습 환경의 설계와 예비 타당화
-
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
-- [[motibo-digital-storytelling-robots-motivation-2026]] — 동기를 위한 로봇 매개 디지털 스토리텔링(MotiBo)
-- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
-- [[white-wu-robotics-ai-education-2026]] — 교육에서의 로봇공학과 AI
-- [[genai-motivation-engagement-2026]] — 생성형 AI, 동기, 참여
-- [[nasa-tlx-workload-gamified-ai-2026]] — 게임화/AI 조건에 걸친 NASA-TLX 업무량
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS 동기와 AI 지원 게임화
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — 초등학생이 탈출 보드게임을 설계하고, 한 번의 e-course 실습 안에서 AI 리터러시가 상승한다
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: K–12 환경에서 텍스트-이미지 생성을 통해 프롬프트 엔지니어링을 가르치는 게임 기반 도구
-

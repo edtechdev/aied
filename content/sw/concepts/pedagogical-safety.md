@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -79,50 +81,3 @@ Usalama wa kipatolojia ni tabaka la ulinzi linalounganisha [[hallucination-risk]
 **"Mwalimu salama zaidi ni yule anayekataa zaidi."** Mfumo unaokataa kwa usawa unaweza bado kuimarisha ukosefu wa usawa, ambayo ni nusu ya pili ya maelezo ya ukurasa kuhusu kushindwa kwa utulivu. Hali ya kushindwa si tu mwalimu anayejibu kwa usahihi na kumomonyoa kujifunza; ni pia mwalimu ambaye kukataa kwake kunagawanya msaada kwa njia isiyo sawa kati ya wanafunzi, na sera ya kukataa kwa jumla hubadilisha hatari inayoonekana kwa ile isiyoonekana.
 
 **"Kazi yoyote ya usalama wa kiwango cha mfano ni hatua ya mahusiano ya umma."** Baadhi yake inaweza kupimwa. Kazi ya [[llm-unlearning-math-privacy|kufuta hesabu]] inatumia kufuta kwa msingi wa gradient ili kuondoa taarifa za utambulisho na maudhui yenye madhara, ikiripoti matokeo ya PII yakishuka hadi **0.1%** na viwango vya sumu hadi **0.0%** huku ikihifadhi uwezo. Udhibiti wa kiwango cha mfano ni tabaka moja la ulinzi wa matabaka: hautoshi peke yake, na si kitu cha bure.
-
-## Dhana Zilizounganishwa
-
-- [[guardrails]] — mbinu za kubuni zinazotekeleza usalama
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Makala Zilizounganishwa
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Mfumo wa SCAFFOLD wa kuongoza mazungumzo ya wanafunzi-AI, pamoja na jaribio lake la darasa
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Tabaka za usalama zilizobuniwa na walimu: mipaka ya nyanja, uchujaji, na kubatilisha
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Mfumo wa Kubuni kwa AI Salama na yenye Uwazi kwa Kujifunza
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

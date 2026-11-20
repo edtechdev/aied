@@ -11,6 +11,8 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 > **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of [[ai-education|artificial intelligence in education]]. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and [[social-norms-ai-use|informal norms]] (faculty guidelines, professional development, cultures of [[ai-literacy|responsible AI use]]). In the AI era, effective governance is a prerequisite for ethical, [[equity-in-ai-education|equitable]], and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.
@@ -33,7 +35,6 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
 - **Anticipatory governance by prototype and pilot.** [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] read England's DfE as governing through design: AI prototypes and school pilots prefigure a chosen future, treat classrooms as testbeds, and produce just-in-time "promissory" evidence for scaling rather than a settled "what works."
 - **Student co-design of policy:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] show how a guided inquiry activity in which students co-designed a GenAI course policy surfaced student values — prioritizing training, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in decision-making. This positions [[pedagogical-partnerships|students as partners]] in governance rather than passive subjects, complementing institutional-level policy with bottom-up student voice.
-
 
 - **The techno-solutionist trap and the policy deficit:** A systematic review of 65 AI × [[social-emotional-learning|social-emotional learning]] studies ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) finds that research often foregrounds technical potential while under-specifying the institutional conditions for responsible implementation — a "techno-solutionist" trap. The authors link policy [[student-engagement|engagement]] to publication venue and propose a "WH-question" framework to make governance implications actor-specific, echoing the broader finding that institutional governance lags AI adoption.
 
@@ -58,7 +59,6 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity|academic integrity]] concerns and redesign [[assessment|assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 - **Redesign runs on three dimensions at once.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] frames AI-era assessment redesign through cultural-discursive (language and assumptions), material-economic (resources), and social-political (governance and power) dimensions, and names the resource-power intersection as both the greatest leverage point and the greatest risk: resources flowing through existing power structures amplify inequities.
-
 
 - **The instrument mix of written-down governance:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] audited AI-related documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States. Forty of the 48 (83%) had at least one publicly available document, and across the 40 documents analyzed governance was realized mostly as guidance rather than binding rule: 21 guidelines (53%), 9 informational documents (23%), and only 7 formal policies (18%). Faculty and students were named together in 20 documents (51%), against 6 that named students alone (15%). Neither policy type nor audience varied with delivery mode (Fisher's exact P = .85 and P = .71), suggesting the instrument mix tracks institutional habit rather than the demands of online, campus, or hybrid programs. Content clustered on academic integrity, responsible AI use, and student conduct, with little guidance covering AI use in applied learning, research, and simulated environments, precisely where curricular and data governance concerns intersect. The authors also report that regional accreditors supplied most of the sample (Higher Learning Commission n = 14 and SACSCOC n = 13, together about 60%, with none from the WASC region) and argue accreditation is the external lever best placed to reduce variation across programs.
 
@@ -88,8 +88,6 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 
 **Identical conduct, different verdicts.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] applied 15 standardized student-use vignettes to the public policy environments of 20 Australian universities, producing 300 classifications: 40.0% clearly prohibited, 32.3% potential policy breaches, 9.0% permitted with conditions, and 18.7% indeterminate — none meeting the threshold for clearly permitted. Binding instruments were silent on generative AI in 100 combinations while guidance resolved 88, and disclosed language rewriting and an AI-drafted paragraph produced the highest cross-university divergence against unanimity for an explicit assessment prohibition. Where the levels described above are assumed to align, this study measures how far they diverge, and it locates the operational boundary in guidance rather than in binding policy.
 
-
-
 **Faculty governance and the case for deliberate review.** Where the levels above are aligned through policy, some sectors reach them through shared governance instead. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] describe [[legal-education|law schools]] as a hard case for exactly this reason: US law faculties hold unusual individual authority over course standards, so policy has to be built with them rather than announced to them, and most schools writing prohibitive rules also reserved discretion to individual instructors and committed to revision as the technology moved. Their recommendations — flexibility by design, periodic review, proactive training, and self-regulation through information sharing rather than waiting for an accreditor to dictate policy — describe governance as a continuing process rather than a document, the same point the [[crompton-governing-genai-higher-ed-delphi-2026|Delphi consensus]] makes in recommending scheduled review cycles and a standing multidisciplinary committee.
 
 Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.
@@ -114,7 +112,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
-
 - **Governance can be designed into the tool.** A six-dimension governance profile - [[pedagogy|pedagogical]] grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and [[visualization|dashboards]]. It asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **A human-centered framework puts interpretation, not the tool, at the center.** At a mission-driven liberal arts college, faculty used a generative-AI-supported Assessment Wizard during a structured Education Day, and the authors conclude that human judgment must stay the non-negotiable interpretive authority, with verification checkpoints and governance in place before broad implementation ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). The sequence is formation and verification first, scale second.
 
@@ -129,70 +126,3 @@ One 2026 argument extends governance past learner use to the production of teach
 - **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realized mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
 - **"Policy is written student-first because students are the risk."** Most documents addressed **faculty and students together (20, 51%) rather than students alone (6, 15%)**, and neither policy type nor audience varied with delivery mode. The framing is joint, which means the obligations are shared.
 - **"Ambiguous policy leaves student experience untouched."** Policy ambiguity shows up in **student experience** directly: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|students' engagement with GenAI]] is shaped by the uncertainty, so ambiguity is an active condition rather than a neutral gap.
-
-## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[ai-use-disclosure]] — AI use and disclosure statements
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[student-support-and-success]] — oversight for institutional AI support systems
-
-## Connected Articles
-- [[chew-ai-content-governance-medical-education-2026]] — governance of AI-produced teaching content, with three failure types and four institutional capabilities (Chew, 2026)
-- [[kaze-ai-management-higher-ed-2026]] — AI adoption in higher education: the case for designated AI management (Kaže et al. 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Care ethics for institutional AI governance, the five components and the institutional questions they turn into
-- [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
-- [[institutional-ai-policy-health-informatics-2026]] — AI policy and guidance documents across 48 CAHIIM-accredited health informatics programs: governance as non-binding, integrity-centric guidance (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governance by guidance: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Faculty governance, instructor discretion and periodic review in law school GenAI policy (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive "AI" prohibitions, format conversion and the reasonable-adjustment problem (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as evidence: uneven governance, the duty to understand and the diagnostic value of non-use (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegation, evidence and access: what agentic AI changes in university assessment governance (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI prototypes and school pilots as governance machinery that prefigures a chosen future (Williamson et al
-- [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
-- [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)
-- [[kaziya-learner-data-privacy-governance-2026]] — Competence and governance treated as complements, not substitutes, in learner data protection
-- [[tian-transnational-faculty-development-governance-2027]] — Shared governance across institutions: coordination and common structure without centralizing authority over substance (Tian, Sun & Wang 2026)
-
-- [[rodafinos-llm-curriculum-audit-2026]] — Large Language Model–assisted curriculum audit in psychology: A prompt-based method

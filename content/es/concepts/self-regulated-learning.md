@@ -36,6 +36,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -121,7 +123,6 @@ Las herramientas de IA pueden entrar en este bucle en distintos puntos:
 
 La gobernanza de la herramienta es en sí misma una faceta medible: una validación de dos olas con estudiantes chinos de inglés como lengua extranjera (EFA N = 305; CFA N = 342) separa seis dimensiones regulatorias y nombra la *regulación ambiental* —comprobar la exactitud de la salida generada, filtrar los recursos sugeridos y fijar límites a la dependencia— como una dimensión en sí misma ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
 
-
 Clasifique antes de delegar: [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] convierten la autorregulación en un protocolo por tarea —etiquetar cada subtarea como Sustituir, Complementar, Ayudar o No negociable, justificarlo en una breve nota metacognitiva y mantener un rastro de auditoría de prompts, borradores y revisiones humanas—, con el ciclo repitiéndose de modo que la asignación de una tarea informa a la siguiente. **Cada prompt como traza regulatoria.** Leer 429 prompts de 23 estudiantes como eventos de aprendizaje autorregulado mostró que la mezcla de estructura cambiaba con el diseño de la tarea, mientras que 53 de 59 entregas se mantuvieron cerca de la salida del modelo, lo que sitúa la regulación en el intercambio y no en el artefacto ([[llm-math-homework-offloading-traces-2026|Kontorovich y Wallach (2026)]]).
 **La interacción misma como objeto de regulación.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] documentan la misma exigencia de regulación desde la dirección opuesta: en una demostración de ocho rondas con un chatbot para preparar la respuesta a un [[summative-assessment|examen]] para llevar a casa, la salida por defecto de la IA se mantuvo en el extremo *[[quantitative-research|cuantitativo]]* y multiestructural de la taxonomía SOLO, pulida, lista para entregar y pedagógicamente delgada, y solo alcanzó un bucle de aprendizaje utilizable de tres pasos tras repetidas intervenciones de nivel meta («esto es abrumador, ¿puedes condensarlo?»). Su conclusión es que el uso productivo exigía «las mismas habilidades autorreguladoras que la herramienta debía sostener»: quien aprende debe fijar metas incrementales, solicitar ajustes de dificultad y reflexionar sobre lo que todavía no comprende, además del contenido disciplinar mismo. Dan a esta capacidad el nombre de [[ai-literacy|alfabetización en la interacción con IA]] y tratan desvincularse de la herramienta como una decisión regulatoria legítima y no como un fallo de persistencia ([[metacognition]]).
 
@@ -193,7 +194,6 @@ El estudiantado declaró más procrastinación (β = 0,525) junto con ganancias 
 - **Para la [[educational-policy-ai|política sobre IA]]:** los criterios de adquisición deberían preguntar si una herramienta desarrolla o desplaza la autorregulación
 - **Para quienes [[research-methods-aied|investigan]]:** son esenciales los estudios a largo plazo que midan resultados de AAR (y no solo el rendimiento inmediato); Melanou et al. muestran el rédito de esa paciencia, ya que el uso reflexivo de un semestre movió el pensamiento crítico (β = 0,43) sin mover la ganancia de conocimiento.
 
-
 ## Agentes conversacionales y AAR en juegos de simulación
 
 - **Agentes conversacionales que apoyan el aprendizaje autorregulado en juegos.** Wenzel, Geiger y Liening (2026) muestran que un agente conversacional de IA (Lara) en un juego de [[simulation|simulación]] de empresa puede apoyar el aprendizaje autorregulado mediante retroalimentación [[formative-assessment|formativa]] basada en métricas, orientación a demanda y reflexión estructurada, lo que aborda la limitación habitual de que los juegos de simulación ofrecen una retroalimentación formativa y unas indicaciones de reflexión limitadas. Las evaluaciones con profesorado en formación y participantes del BSG informaron de percepciones positivas de la presencia cognitiva y [[community-of-inquiry|social]] del agente y de su apoyo a la autorregulación.
@@ -221,74 +221,3 @@ La autoinformación es el eslabón débil de la evidencia. En el estudio de [[wi
 - **El AAR metacognitivo predijo la carga relevante para el aprendizaje donde la [[ai-feedback-quality|retroalimentación de la IA]] no lo hizo.** En un estudio de campo de cinco semanas con **234 estudiantes y 1.147 observaciones**, la autorregulación metacognitiva fue un predictor positivo sustancial de la **carga cognitiva relevante** (β = 0,363, p < 0,001 por intención de tratar; 0,346, p < 0,001 basado en el uso) y no predijo de forma significativa la carga extrínseca, mientras que el mero acceso a la retroalimentación de IA conversacional no predijo ninguna de las dos. Solo la implicación **sostenida** con la retroalimentación separó al estudiantado en carga relevante, y el uso irregular no lo hizo (β = −0,219, p = 0,116), lo que sitúa el ingrediente activo en la regulación del procesamiento por parte de quien aprende y no en el suministro de retroalimentación ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening, 2026]]).
 
 Configurar un LLM como socio es un problema de autorregulación antes que un problema de selección de herramientas. En 117 relatos públicos de uso de LLM para el aprendizaje de lenguas, los 24 que orquestaban una interacción de varios pasos personalizaban mucho más a menudo que los otros 93 (70,8% frente a 15,1%) y declararon más beneficios percibidos (3,29 frente a 1,96), pero el 68,4% elogiaba el modelo sin nombrar una mejora medible y solo el 10,3% informaba de una ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]]).
-
-## Conceptos conectados
-
-- [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
-- [[metacognition]] — la monitorización cognitiva en la que se apoya el AAR
-- [[self-assessment]]
-- [[self-efficacy]] — una creencia de la fase de previsión que impulsa el esfuerzo
-- [[scaffolding]] — apoyo graduado que preserva la exigencia regulatoria
-- [[feedback]] — la información en torno a la cual regula quien aprende
-- [[feedback-literacy]] — la capacidad de actuar a partir de la retroalimentación
-- [[help-seeking]] — una conducta estratégica del AAR
-- [[motivation]] — el socio recíproco de la autorregulación
-- [[cognitive-offloading]] — el riesgo cuando la IA elimina el trabajo regulatorio
-- [[generative-ai]] — la tecnología que puede andamiar o cortocircuitar el AAR
-- [[ai-literacy]] — competencia regulatoria en el uso de la IA
-- [[self-directed-learning]] — el constructo más amplio de autonomía
-- [[agency]] — la capacidad de quien aprende para actuar con intención, central en la regulación, la integración y el posicionamiento
-- [[adaptive-learning]] — personalización que puede sostener la regulación
-- [[formative-assessment]] — retroalimentación continua para la regulación
-- [[learning-by-teaching]] — una estrategia que construye autorregulación
-- [[intelligent-tutoring]] — sistemas que andamian el AAR
-- [[llm]] — el modelo subyacente de las herramientas de IA
-- [[retrieval-spacing-interleaving]] — planificación, autoevaluación y elecciones de estrategia de estudio que hace quien aprende
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-
-## Artículos conectados
-- [[futterer-srl-genai-support-rct-2026]] — 371 estudiantes alemanes: los prompts de reflexión y de estrategia no añadieron nada frente a ChatGPT estándar (Fütterer et al., 2026)
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Metaanálisis del aprendizaje autorregulado asistido por IA: g = 0,76 en 34 estudios, con el tipo de herramienta y el papel pedagógico moderando el efecto (Zhang et al. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Dependencia de la IA generativa y resultados de aprendizaje percibidos: la ruta de la regulación del esfuerzo (Li, Zhang y Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Precisión por categoría del AAR segmentado por LLM en un aula corporal (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: la descarga cognitiva complejizadora en el trabajo matemático del estudiantado con LLM (Kontorovich y Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Sobre-atribución por parte del modelo de la autorregulación a partir de señales superficiales en el mapeo curricular (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — Afordancias de la IA generativa de contenidos y autorregulación del estudiantado
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Alfabetización en la interacción con IA: dirigir un chatbot exigía el AAR que debía sostener (Brunnström y Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — El modelo de reflexión 5P para la era de la IA generativa (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — La descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — La agencia de quien aprende a través de escalas: regulación, integración y posicionamiento
-- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: el alquiler proyectado sobre los modelos de autorregulación de Winne, con diez proposiciones e índices intrasujeto
-- [[song-genai-learning-partner-srl-over-time-2026]] — La IA generativa como socio de aprendizaje sensible al contexto a lo largo del tiempo
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Cómo regula el estudiantado su aprendizaje con un chatbot de IA generativa
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — ¿Andamiaje o atajo? El doble papel de la IA generativa en el AAR
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — La búsqueda de ayuda mediada por LLM en STEM: por capas, instrumental y verificada
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Retroalimentación con IA generativa y AAR: importa la fuente percibida
-- [[ai-anxiety-strategic-regulation-writing-2026]] — De la ansiedad ante la IA a la regulación estratégica
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Evidencia mixta sobre metacognición y autorregulación con IA generativa
-- [[agentic-ai-pedagogical-best-practice-2026]] — La IA agéntica y la tensión de la autorregulación
-- [[decreasing-digital-distraction-college-online-learning-2026]] — El AAR y una menor distracción digital en el aprendizaje en línea (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos del aprendizaje automático en aulas semipresenciales
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: un bucle orientado a quien aprende para identificar la tarea, justificarla y reflexionar después
-- [[learning-analytics-genai-secondary-writing-2026]] — Uso de analíticas de aprendizaje para apoyar la escritura del alumnado de secundaria con IA generativa
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Un instrumento validado para la autorregulación apoyada por IA en el aprendizaje adaptativo en STEM, con la conciencia metacognitiva como el predictor más fuerte
-- [[iqbal-human-genai-support-essay-revision-2026]] — La condición de apoyo, y no el juicio metacognitivo, decidió la elección de estrategia de revisión en un experimento de revisión de ensayos
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Estudio longitudinal: el uso reflexivo de la IA predijo el pensamiento crítico, pero no la ganancia de conocimiento, sin efecto Mateo
-
-- [[genai-literacy-srl-special-education-2026]] — La alfabetización en IA generativa se relacionó con las conductas de aprendizaje autorregulado principalmente a través de la agencia de aprendizaje
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — El tipo de apoyo invierte el mediador: autoeficacia en IA frente a aprendizaje autorregulado
-- [[genai-learning-procrastination-planned-behavior-2026]] — La procrastinación del aprendizaje asistido por IA generativa: una brecha intención-conducta que la ansiedad refuerza
-- [[genai-srl-l2-writing-scale-2026]] — Una escala validada de autorregulación de la IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental como dimensión propia y una forma corta de 12 ítems optimizada por colonias de hormigas
-- [[borchers-srl-language-generalization-2025]] — Los grandes modelos de lenguaje generalizan la predicción del AAR a nuevos idiomas dentro de un mismo dominio, pero no entre dominios (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — Un modelo de aprendizaje híbrido basado en proyectos que utiliza la inteligencia artificial para mejorar el aprendizaje autorregulado del estudiantado
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un asistente de enseñanza con IA como primer respondedor desplazó las respuestas de los pares y, con ellas, la corregulación que amplificaba el valor de la autorregulación para la calificación (Davis et al. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversidad de preconcepciones cambió cómo aterrizaba una indicación metacognitiva: las mismas funciones de indicación, una evaluación sostenida opuesta de la salida de la IA (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — La procrastinación aumentó con el uso (β = 0,525) junto a una ganancia percibida, lo que separa el aplazamiento habilitado por la IA del que solo trata de la IA (Gouroubera et al. 2026)
-- [[lasekan-chatbot-language-learning-partner-2026]] — Orquestar el uso del LLM produjo configuraciones más ricas pero poca evidencia de aprendizaje
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La regulación autoinformada frente a una medida de tarea de la flexibilidad cognitiva

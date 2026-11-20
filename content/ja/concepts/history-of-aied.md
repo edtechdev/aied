@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -97,31 +99,3 @@ ai_assist:
 **「個別化とは、難易度を各学習者に合わせることである」**。それは相容れない二つの意味のうちの一つにすぎず、両者を混同すると政治的な選択が見えなくなります。第一の意味では成果は固定され、経路だけが変化します。その系譜はSkinnerのティーチングマシンからマスタリーベースのチュータリングへと続きます。第二の意味では、学習者が標準的なカリキュラムに制約されずに個々の関心を追うため、成果そのものが多様化します（Zhao, 2024）。[[intelligent-tutoring|ITS]]は前者を実装し、[[constructivist|コンストラクショニズム]]は後者を実装します。「個別化された」と説明されるツールは、どちらの意味なのかを知るまで、あなたに何も伝えていないのと同じです。
 
 **「『人工知能』はこの分野にとって自明の名前にすぎなかった」**。この用語は意図的な選択でした。McCarthyが1956年のDartmouthプロジェクトを計画したとき、彼は*サイバネティクス*よりも*人工知能*を支持しましたが、その理由の一つは、この仕事をWienerのアナログ・フィードバックの伝統から遠ざけることでした。その単一の決定が、機械を人間の認知と直接比較する形で枠づけ、そこで据えられた擬人化的な枠づけは、今なお研究の優先順位、製品の言葉づかい、そして公衆が投げかける倫理的な問いを形づくっています。
-
-## 関連する概念
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## 関連する記事
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency:Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning(Andersonの遺産に接続するもの)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise(歴史的な枠づけ)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs(Papertの構築主義の系譜)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Computers & Education の50年：2018年以降にAIの普及が上向き、ChatGPTの4年前
-

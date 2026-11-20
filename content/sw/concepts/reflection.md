@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -164,45 +166,3 @@ Ilani ya kuanzia inayopita salama katika njia nyingi za kushindwa zilizo hapo ju
 - **"[[automated-assessment|Utoaji alama wa kiotomatiki]] unatatua tatizo la kiwango."** Viainishaji hufikia takriban 70% kwenye ngazi ya tafakari katika mkusanyiko uliowekwa lebo vizuri wenye usawa mbaya wa makundi, na dari hiyo iko ndani ya uwezo wa maandishi yanayowezekana.
 - **"Kasha ni za kutafakari kwa asili."** Chombo si kitendo; kasha lililokusanywa kutoka bidhaa zilizosuguliwa linaweza kuwa bila tafakari kabisa.
 - **"Tafakari haiitaji kufundishwa."** Mkusanyiko wa insha wa Hungaria na jaribio la walimu wa kabla ya huduma zote zinadhania kwamba kiwango na ubora hujifunzwa, na kwamba maandalizi hubadilisha matokeo.
-
-## Dhana zinazohusiana
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Makala zinazohusiana
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Jaribio la watu wazima 302 lililosajiliwa mapema: ilani za tafakari ziliongeza mara mbili muda wa maoni na kupunguza kiasi cha mazoezi 40% bila kuongeza faida kwa kila tatizo (Asher, Gold na Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Modeli ya tafakari ya sehemu tano inayojua GenAI iliyojengwa juu ya ilani zilizoandikwa na marudio badala ya maandishi ya mwisho (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — Insha 1,954 zenye lebo, usawa mbaya wa makundi, modeli za juu juu 71% na transformers 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — Mizunguko 17,930 iliyowekwa msimbo kueleza kwa nini mshirika wa tafakari wa AI aliwaacha watumiaji wakiwa na ahadi ndogo (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Tafakari ya kibinafsi, ya ushirikiano na ya jamii huku AI ikiwa mpatanishi wa kiakili (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — Walimu 100 wa K–12: muda ni kizuizi cha mwanzo, ufuatiliaji wa utendaji wa mtaalamu (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Mazoezi manne ya GenAI na michakato kumi na moja, kila moja ikiweza kusaidia au kuchukua nafasi ya kufikiri kwa kutafakari (Dalsgaard na Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Jaribio la uwandani la 2×2 lililosawazishwa kuhusu kudumisha utaratibu wa daftari la kutafakari (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Jaribio la 2×2 la mafunzo ya mkakati dhidi ya mshirika wa tafakari wa LLM wa Socratic (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Zana ya kujitafakari isiyo ya uchunguzi bila alama ya jumla (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Matumizi ya AI ya kutafakari kama dhana iliyopimwa inayounganisha kukubali na uwezo binafsi na ushiriki (Wang na Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Tafakari iliyopangwa kama ingizo hai linalorekebisha mzunguko ujao wa maoni (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Tafakari iliyoongozwa ndani ya kujitathmini kwa matumizi ya kimaadili ya GenAI (Pedlow na Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — Walimu 18 kuhusu kutambua, kuhamisha na kushiriki tena kwa tafakari baada ya matumizi ya AI (Ho na Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Karatasi ya msimamo: hakuna ushahidi kwamba ilani za tafakari hujenga ufuatiliaji wa kibinafsi unaodumu (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Kasha za kielektroniki za WordPress za wiki 16 na GenAI kama mtoa maoni na mchanganyaji (Ni na Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT iliyowianishwa na tathmini ya kasha la kielektroniki, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Scaffold moja ilipandisha kina cha uchanganuzi na tathmini huku upangaji wa hatua ukibaki tuli (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Ramani ya tafiti 26: tafakari ni awamu inayohudumiwa kidogo zaidi katika mzunguko wa kujifunza kwa huduma (Yusuf et al. 2026)

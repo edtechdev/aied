@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -116,50 +118,3 @@ ai_assist:
 **Для дослідників**
 
 - Проєктуйте для вирішення між теоріями, а не для накопичення рамок. Зрілість виявляється як розв’язані конкуруючі передбачення, а не як приріст лексики.
-
-## Пов’язані поняття
-
-- [[behaviorism]] — Біхевіоризм
-- [[cognitive-psychology]] — Когнітивна психологія
-- [[constructivist]] — Конструктивізм
-- [[metacognition]] — Метакогніція
-- [[distributed-cognition]] — Розподілена пізнання
-- [[self-regulated-learning]] — Саморегульоване навчання
-- [[self-determination-theory]] — Теорія самовизначення
-- [[self-efficacy]] — Самоефективність
-- [[motivation]] — Мотивація
-- [[sociocultural-learning]] — Соціокультурне навчання
-- [[scaffolding]] — Скаффолдинг
-- [[transfer-of-learning]] — Перенесення навчання
-- [[learning-gains]] — Навчальні здобутки
-- [[desirable-difficulties]] — Бажані труднощі
-- [[active-learning]] — Активне навчання
-- [[experiential-learning]] — Досвідне навчання
-- [[collaborative-learning]] — Спільне навчання
-- [[embodied-learning]] — Втілене навчання
-- [[cognitive-offloading]] — Когнітивне перекладання
-- [[learning-design]] — Проєктування навчання
-- [[learning-sciences]] — Науки про навчання
-- [[philosophy-of-ai-in-education]] — Філософія ШІ в освіті
-- [[ai-education]] — ШІ в освіті
-- [[pedagogy]] — Зонтичне поняття: педагогіка й стратегії навчання в освіті зі ШІ
-
-## Пов’язані статті
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Теорія навчання середнього радіусу для взаємодії людини зі ШІ, з чотирма механізмами та шістьма перевіровними положеннями (Yan і Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманливе надмірне узагальнення: адаптивне володіння може припинити практику, перш ніж здобувачі дізнаються, коли утримати дію (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — Розширене ШІ дослідження й регуляція в гібридних системах (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Позиціонує ШІ як когнітивного партнера в співрегуляції людини та ШІ; розвикова рамка на все життя
-- [[ensemble-cognition-philosophy-ai-education]] — Ансамблева пізнання: філософська рамка, що переконцептуалізує мислення як взаємодію людини зі ШІ
-- [[self-directed-growth-generative-ai-learning-analytics]] — Самоорієнтоване зростання та модель A2PL, що розширює самоорієнтоване навчання за допомогою GenAI
-- [[generativism-learning-theory]] — Пропонує нову теорію навчання для епохи генеративного ШІ, переосмислюючи класичну четвірку
-- [[ai-vocational-education-training-review]] — Документує прогалину між конструктивізмом і біхевіоризмом, теорією і практикою, в освіті ШІ для професійно-технічної підготовки
-- [[genai-educational-outcomes-meta-analysis]] — PRISMA-метааналіз 53 досліджень: зведені здобутки за досягненнями, мисленням, письмом і мотивацією, де зворотний зв’язок — найбільший механізм (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Генеративний ШІ як опосередкувальний агент
-- [[kim-ai-productive-failure-adult-2026]] — Проєктування систем ШІ для підтримки навчання на основі продуктивної невдачі
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Педагогічне керування LLM для продуктивної невдачі
-- [[lukesova-clue-before-correction-2026]] — Підказка перед виправленням: ChatGPT для автономного вивчення мов
-- [[rachatasumrit-example-problem-ratio-2026]]

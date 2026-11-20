@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,44 +89,3 @@ Diagnosis kognitif terhubung ke [[knowledge-tracing]], [[student-modeling]], [[e
 - Instrumentasikan kedua arah: mengenali jawaban salah dan menghasilkan jawaban yang benar. Angka pemulihan solusi 95.2% menunjukkan generasi adalah separuh yang mudah dan mode kegagalannya ada pada pengenalan.
 - Utamakan penemuan alih-alih katalog statis bila struktur domain memungkinkan, dan laporkan cakupan terhadap kumpulan acuan agar perbandingannya terbaca.
 - Jangan merilis skor diagnostik tanpa menyatakan konstruk apa yang diukurnya dan bagaimana ia divalidasi secara independen dari sinyal yang menghasilkannya.
-
-## Konsep terkait
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Artikel terkait
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Tolok ukur LLM untuk Mendiagnosis Keterampilan Kognitif dari Matematika Tulisan Tangan
-- [[correct-answer-trap-misconceptions]] — Perangkap Jawaban Benar
-- [[llm-misconception-difficulty-easy-trap]] — Perangkap Mudah: Mengapa LLM Meremehkan Kesulitan yang Didorong Miskonsepsi
-- [[llm-student-misconception-identification]] — Identifikasi miskonsepsi siswa oleh LLM
-- [[student-math-competence-clustering]] — Pengelompokan untuk Memodelkan Kompetensi Matematika Siswa
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Kompilasi Agen Kognitif untuk Pemodelan Penyelesai Masalah Eksplisit
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: mendiagnosis dari siswa simulasi
-- [[huang-interpretable-knowledge-tracing-2026]] — Penelusuran pengetahuan yang dapat diinterpretasi
-- [[xie-hillm-cd-2026]] — HiLLM-CD: pohon konsep LLM + inferensi kecakapan hierarkis
-- [[yasir-llm-tutoring-agents-2026]] — Memisahkan diagnosis dari umpan balik pada tutor LLM
-- [[zhang-ct-ai-training-test-2026]] — Berpikir Komputasional dalam Tes Pelatihan AI (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnosis kognitif Bayesian untuk jalur belajar personal
-- [[personalized-neural-cognitive-architecture-search-2026]] — Pencarian arsitektur kognitif saraf personal AutoML untuk profil siswa
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Penelusuran pengetahuan berbasis capaian dengan pemetaan afinitas
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnosis federasi multi-LLM heterogen yang menjaga privasi
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Penambangan kesalahan pemodelan umum dalam skala besar dengan transformasi perbaikan-bug yang dihasilkan LLM dan divalidasi secara algoritmik (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: diagnosis berbasis DINA atas 14 tujuan pembelajaran dari inventaris konsep fisika yang ada (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Anotasi konsep pengetahuan LLM dan keadaan pengetahuan tingkat konsep yang terkalibrasi
-- [[llm-distractor-generation-student-reasoning-2026]] — distraktor berbasis miskonsepsi sebagai tugas desain butir diagnostik
-- [[misconception-acquisition-dynamics-llms-2026]] — di mana kesalahan masuk ke dalam solusi adalah hambatan diagnostik
-- [[pivot-generative-video-tutors-stem-2026]] — Dari Generasi Konten ke Dukungan Belajar: Tutor Video Generatif Berpanduan Pedagogi untuk Pembelajaran STEM
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Tutor Agen yang Mempelajari Siswanya dalam Loop Ko-Pembelajaran Manusia-AI
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Model Fondasi Terbuka untuk Belajar dan Mengajar
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Memikirkan Ulang Penilaian Diagnostik melalui AI yang Tertanam Secara Kultural untuk Pembelajaran yang Bermakna

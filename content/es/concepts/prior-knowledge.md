@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -73,34 +75,3 @@ La IA generativa ha convertido el conocimiento previo en una consideración de d
 **«El estudiantado con menos conocimiento previo necesita más apoyo de IA.»** Esa es la dirección con más probabilidad de ampliar la brecha, ya que el patrón de descarga medido concentra la pérdida de autoría donde el conocimiento previo es más fino. El apoyo que le suministra el trabajo a quien está menos equipado para detectar la sustitución elimina la actividad que construiría el conocimiento que falta.
 
 **«El conocimiento previo es un insumo fijo que el curso no puede mover.»** Es el factor con más peso en el aprendizaje nuevo, lo que convierte construirlo en la tarea de mayor apalancamiento y no en una condición de fondo: la razón por la que el conocimiento de dominio es la intervención en sí misma y no solo la covariable.
-
-## Conceptos conectados
-
-- [[learners]] — Quienes aprenden: el paraguas de los conceptos del lado del aprendiz
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — El fracaso productivo
-- [[retrieval-spacing-interleaving]] — cómo lo que quien aprende ya sabe determina lo que puede hacer la práctica de recuperación
-
-## Artículos conectados
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — La tensión entre automatización y aprendizaje (el riesgo para la activación del conocimiento previo)
-- [[genai-mindtool-generative-learning]] — La IA generativa como herramienta mental: cebar y activar el conocimiento previo
-- [[nie-personavlm-long-term-personalization-2026]] — Modelado del estudiante y memoria con LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge y Loble sobre el desplazamiento cognitivo
-- [[cognitive-offloading-llm-synthesis-writing]] — El desplazamiento cognitivo en la escritura de síntesis con LLM
-- [[bridging-instructional-design-framework-math]] — Un marco de diseño instruccional para matemáticas
-- [[knowledge-building-tutor-learning-2026]] — La construcción de conocimiento, y no el conocimiento previo, predice el aprendizaje de los tutores, y los tutores con conocimiento previo bajo que construyen conocimiento se ponen al día
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — El conocimiento previo determinó el postest (η²p = 0,63) mientras que la selección adaptativa de tareas no aportó nada (Sibley et al. 2026)

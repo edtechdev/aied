@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -69,7 +71,6 @@ Drie vooraf geregistreerde experimenten pasten de Cognitive Reflection Test aan 
 
 De praktische lezing is dat overgave een **discriminatiefout** is en geen motivatiefout. De deelnemers die zich overgaven probeerden geen werk te vermijden; ze konden goed advies niet van slecht advies onderscheiden, en de interface gaf hun geen reden het te proberen.
 
-
 Een vooraf geregistreerd experiment van [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] levert een contrasterende configuratie. Met de assistent door [[rag|retrieval-augmentatie]] beperkt tot het opgegeven werkblad verlaagde de AI-conditie cognitieve offloading (mediaan −0,27) in plaats van haar te verhogen, en geen enkel offloadingpad droeg de toename in desorganisatie (0,84). Overgave vereist een assistent wiens advies in zijn geheel kan worden overgenomen; een systeem dat alleen uit het huidige materiaal antwoordt, geeft de leerling minder om over te nemen en meer om te verzoenen.
 
 ## Overgave buiten het lab
@@ -113,38 +114,3 @@ Het bewijs voor overgave als benoemd construct leunt zwaar op één programma va
 **'De oplossing is betere AI, want overgave volgt uit fouten.'** Overgave volgt uit de *structuur* van de interactie: een systeem dat eerst een plausibel antwoord levert, haalt de gelegenheid weg waarop de leerling er zelf een zou genereren. Betere nauwkeurigheid vermindert de schade van foute antwoorden en doet niets aan het opgeven van het vormen van een oordeel, wat de schade is die blijft nadat de tool weg is.
 
 **'Kritisch leren evalueren is voldoende.'** Het is noodzakelijk en het komt te laat. Zodra er een plausibel antwoord op het scherm staat, wordt evaluatie bevestiging, en daarom zet de ontwerpliteratuur hier de poging van de student vóór de output van het systeem in plaats van die achteraf te auditen.
-
-## Verbonden concepten
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Verbonden artikelen
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory en de experimentele signatuur van overgave
-- [[generative-ai-reduced-study-time-math]] — verdringing op populatieniveau in ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — het kader overgave/offloading/agency in het voorschoolse tot middelbare onderwijs
-- [[du-yuan-epistemic-dependence-2026]] — instrumentele versus oordeeldragende ondersteuning
-- [[ai-advice-suppresses-ikt-suspension-2026]] — het ineenstorten van 'ik weet het niet'
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurale betrokkenheid en eigenaarschap
-- [[genai-thoughtless-use-self-directed-learning-2026]] — gedachteloos gebruik en zelfgestuurd leren
-- [[stamatoulis-genai-use-patterns-2026]] — gebruik met weinig verificatie versus evaluerende integratie
-- [[cognitive-washout-ai-skill-decay-2026]] — wat er gebeurt na terugtrekking
-- [[ai-overreliance-complex-adaptive-system-2026]] — afhankelijkheid als populatieproces
-- [[brcic-effortless-trap-productive-struggle-2026]] — AI zo plaatsen dat de taak inspannend blijft
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibratietraining
-- [[family-school-autonomy-support-genai-2026]] — afhankelijke versus autonome offloading
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Een op het werkblad gebaseerde assistent verlaagde offloading in plaats van haar te verhogen, een grensgeval voor de overgavesignatuur (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistische hele-essay-delegatie: 15 van 77 essays volledig door het model geschreven, 20 verzoeken om een compleet essay (Jelson et al. 2026)

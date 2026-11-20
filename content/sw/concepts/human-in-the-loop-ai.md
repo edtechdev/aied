@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -115,7 +117,6 @@ Ubini wa binadamu katika mzunguko umekuwa wa kati katika majadiliano ya hifadhi 
 
 Ukaguzi unaowekwa baada ya uzalishaji si mchakato ulioandaliwa na binadamu: mwanafunzi anapobuni ilani na kuthibitisha matokeo, mzunguko unasimamia ubadilishaji; mfumo unapofanya hivyo, lebo ile ile inaelezea ukaguzi wa mpango wa mashine ([[capodieci-humanities-hil-2026|Capodieci na wenzake, 2026]]).
 
-
 ## Muunganisho
 
 Ubini wa binadamu katika mzunguko si hatua ya usalama tu — ni **mkakati wa kugawa rasilimali**. Swali la mipaka si *kama* kujumuisha binadamu, bali *wapi* katika mtiririko wa kazi hukumu yao ina thamani ya kiambatanisho ya juu zaidi. Mifumo yenye ufanisi zaidi ya HITL inazingika utaalam nadifu wa binadamu pale mifumo ya kiotomatiki ni dhaifu zaidi (ubini wa kigezo cha kupotosha, maoni ya maelezo, kusuluhisha matukio ya kingo, hukumu ya maadili) na kuotomatisha mengine — na kuhifadhi ubora, usalama, na uaminifu huku ikipanua uzalishaji.
@@ -127,7 +128,6 @@ Ubini wa binadamu katika mzunguko si hatua ya usalama tu — ni **mkakati wa kug
 
 Nguvu ya ulinzi huo inategemea [[automation-bias]]. Fursa ya kawaida tu ya kukubali au kukataa haiweki binadamu ndani ya uzalishaji wa hukumu ikiwa anaridhia matokeo, na hifadhi ya maarifa haijafanya ulinganisho uliofichwa ambao ungeonyesha mara ngapi wanafanya hivyo.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Kuonyesha pendekezo la mfumo humsaidia binadamu kuusimamia."** **Kuzuia jibu analopendelea mfumo ni ulinzi, si urekebishaji**: katika mjadala wa mawakala wengi ambao **haukufichua msimamo uliopendekezwa**, kuhama kwa madhara kwenda jibu la AI **kulipungua**. Ufichuzi ulialika kujishusha; kuzuia kulisaidia hukumu.
@@ -135,65 +135,3 @@ Nguvu ya ulinzi huo inategemea [[automation-bias]]. Fursa ya kawaida tu ya kukub
 - **"Binadamu katika mzunguko lazima maana yake binadamu mmoja, uamuzi mmoja."** Darasa la mawakala wengi la [[teacher-role|Wakala wa Mwalimu]], Wakala wa TA na mifano ya wanafunzi wenzao lilitumika katika Chuo Kikuu cha Tsinghua na **wanafunzi zaidi ya 500 na rekodi za kujifunza zaidi ya 100,000**. Usimamizi unakua kwa mpangilio, si kwa kuzidisha wasimamizi.
 
 - **"Kukagua pato la AI ni jambo la kawaida."** Katika **utafiti wa ndani ya washiriki na waelimishaji 23**, mbinu ya msingi wa mapitio **iliboresha kila kanuni ya CTML (wastani wa alama 3.07 hadi 3.86, p < .01)**, huku waelimishaji wakipima ufanisi wa uzalishaji kwa kupendelea. Mapitio ni ujuzi unaoboreka chini ya mbinu iliyopangwa.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — Mahali ambapo ukaguzi wa binadamu unakaa katika mlolongo uliopimwa, na kile ambacho hakujapimwa kamwe peke yake
-
-- [[automation-bias]] — Kile kinachoamua kama binadamu aliye katika mzunguko anaingilia kweli
-
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — hukumu ya binadamu ndani ya mtiririko wa msaada wa kiotomatiki
-
-## Makala Zilizounganishwa
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Usanifu wa tabaka nne wa HITL kwa AI inayozalisha katika elimu ya sayansi (Zhai et al. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Watafiti wakithibitisha sehemu za tabia za LLM kama vyombo vya utafiti (Fonteles et al. 2026)
-- [[lee-learner-question-types-ai-education-2026]] — Uainishaji wa maswali wenye lebo za mtaalam: binadamu hutawala kuweka lebo, kuongeza, na uchanganuzi wa makosa (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Usimamizi na utawala wa binadamu kama tabaka la tatu la ubini wa kozi ya GAI ya wakala (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Ubini unaoelekea maadili wa ITS unaozingatia mwanafunzi (wanafunzi katika mzunguko wa mafunzo)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kuweka alama kwa msaada wa AI ya HITL katika tathmini ya kitaifa ya uandishi ya kiwango kikubwa (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Mfumo wa SCAN: kufikiri upya ugawaji wa kazi za AI katika mafunzo ya matibabu (Tsim et al. 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM haziweki alama za insha kama binadamu (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — Matumizi ya AI katika Kuunga Mkono Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Ngazi za Msaada za Mapitio ya Kimfumo kwa Ushauri na AI (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Kuweka alama na maoni yanayosimamiwa na mkufunzi yanayosaidiwa na AI
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Je, AI inaweza kutoa msaada unaofaa kwa wasifu mbalimbali wa wanafunzi? Tathmini ya kiwango kikubwa
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kutathmini Mfumo wa LLM wa Mawakala Wengi Unaoelekea Ngazi za Msaada kwa Mafunzo ya Mahojiano ya Kliniki
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Mfumo wa pande tatu: kupanga maoni kulingana na hali ya epistemological na kanuni tano za mpaka kwa kushiriki kwa AI (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — Uingiliaji wa Hadithi za Kijamii Zinazosaidiwa na AI kwa Elimu Maalum: Ubini wa AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Miundo ya Dawa inayotegemea Madai kwa Uwekaji wa Kodi Unaoweza Kukaguliwa wa Mazungumzo ya Kielimu
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni Yanayoweza Kutenda na Yenye Uwajibikasho: Mapitio na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Ufundishaji, 2015–2026
-- [[llm-grading-assistants-public-health-2026]] — Kurudia kwa kuweka alama kwa LLM zinazofanana kwa siku tofauti hujirudia tu kwa alpha ya Krippendorff 0.625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Wanafunzi wa digrii ya kwanza wanapendelea alama za binadamu kwa kazi zenye matokeo makubwa na AI kama msaidizi, si mbadala
-- [[student-query-demand-hybrid-ai-support-2026]] — Wanafunzi Huuliza Nini Kweli: Muundo wa Mahitaji na Uwezekano wa Uotomatiki katika Mfumo wa Msaada wa Pamoja
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Kufikiria upya Mbinu za "In-The-Loop" katika AI ya Kielimu: Mtazamo wa Sayansi za Kujifunza
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kuzuia jibu linalopendelewa na mfumo kulipunguza mabadiliko kuelekea ushauri wa AI usio sahihi, kwa njia ya kinga badala ya marekebisho
-- [[capodieci-humanities-hil-2026]] — Hutenganisha mahali ukaguzi wa binadamu unakaa na nani aliyeandaa mchakato, katika kujifunza kwa masomo ya binadamu (Capodieci et al. 2026)

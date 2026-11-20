@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -79,35 +81,8 @@ ai_assist:
 
 - **ENA как валидация симулированного диалога.** Fang (2026) применяет эпистемический сетевой анализ, чтобы оценить, воспроизводят ли дообученные агенты LLM структуру реального совместного диалога при решении [[problem-solving]]. Сравнивая симулированные векторы смежности с эмпирической сетью, он сообщает расстояние ENA 0,17 — в пределах порога 95-го процентиля нулевого распределения, с перестановочным p-значением 0,65, — демонстрируя силу ENA как [[quantitative-research|quantitative]] проверки достоверности генеративных [[simulation|simulations]] дискурса, наряду с другими применениями ENA/SNA/TNA в исследованиях образования.
 
-
 ## Распространённые заблуждения
 
 - **«Сетевой анализ объективен, потому что он вычислительный.»** **Кодирование — это фундамент**: все сетевые варианты зависят от надёжного кодирования сырых данных (высказываний, событий, отношений) в дискретные узлы, а автоматическое кодирование наследует свои определения от того, кто их задал. [[visualization|Визуализация]] выглядит как возникшая структура, а её узлы — интерпретативные выборы.
 - **«Сдвиг в структуре сети сам по себе является приростом в обучении.»** В обсуждении случая с **двадцатью graduate students смешанных дисциплин** **доля общих термов размера 3 выросла с 5,2% до 8,0%**, тогда как **содержательные токены упали примерно до 0,65× от их уровня после чтения**. Две структурных меры двинулись в противоположные стороны, поэтому «сеть изменилась» — не находка, пока вы не скажете, по какой мере и почему это важно.
 - **«Обмен большим числом термов означает лучшее сотрудничество.»** Рост доли общих термов наряду с падением разнообразия содержательных токенов согласуется с конвергенцией к меньшему словарю. Консенсус и сужение структурно похожи, поэтому мера нуждается в содержании, из которого она вычислена.
-
-## Связанные концепции
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Связанные статьи
-
-- [[caeai-response-length-ai-ethics-education-2026]] — Длина ответа, а не лексическое согласование, определяет статистику общих термов в сетях «участник — морфема» (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA взаимодействий учащегося с чат-ботом в письме со скаффолдингом на EFL
-- [[tracing-genai-literacy-interaction-patterns]] — ENA паттернов взаимодействия при ИИ-грамотности в GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA совместного решения задач человеком и ИИ
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Когнитивное разгрузочное делегирование и промптинг (методы SNA/сетевые методы)
-- [[youtube-frames-chatgpt-education]] — ENA кадров YouTube о ChatGPT в образовании
-- [[agency-gap-ai-writing]] — Разрыв агентности в письме с поддержкой ИИ (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — ENA также картирует разговоры преподавателей о компетенциях

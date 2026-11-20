@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -75,34 +77,3 @@ ai_assist:
 **"사전 지식이 적은 학생에게는 더 많은 AI 지원이 필요합니다."** 그것은 격차를 가장 넓히기 쉬운 방향입니다. 측정된 오프로딩 패턴이 사전 지식이 가장 얇은 곳에 저자성 상실을 집중시키기 때문입니다. 대체를 알아챌 준비가 가장 덜 된 학습자에게 작업을 대신 제공하는 지원은, 결손된 지식을 쌓았을 활동 자체를 제거합니다.
 
 **"사전 지식은 강의가 움직일 수 없는 고정 투입물입니다."** 그것은 새로운 학습에서 가장 비중 있게 가중되는 요인이므로, 사전 지식을 쌓는 일은 배경 조건이 아니라 지렛대가 가장 큰 과제입니다. 영역 지식이 단순한 공변인이 아니라 그 자체로 하나의 개입인 이유가 여기에 있습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자 측 개념의 포괄 항목
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — 생산적 실패
-- [[retrieval-spacing-interleaving]] — 학습자가 이미 아는 것이 인출 연습이 할 수 있는 일을 어떻게 결정하는가
-
-## 연결된 문서
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — 자동화와 학습 사이의 긴장(사전 지식 활성화의 위험)
-- [[genai-mindtool-generative-learning]] — GenAI를 마인드툴로: 사전 지식의 시동과 활성화
-- [[nie-personavlm-long-term-personalization-2026]] — LLM 학생 모델링과 기억
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble의 인지적 오프로딩에 대한 논의
-- [[cognitive-offloading-llm-synthesis-writing]] — LLM 종합쓰기에서의 인지적 오프로딩
-- [[bridging-instructional-design-framework-math]] — 수학을 위한 교수설계 틀
-- [[knowledge-building-tutor-learning-2026]] — 사전 지식이 아니라 지식 구축이 교사 학습을 예측하며, 지식을 구축한 사전 수준이 낮은 교사들이 따라잡는다
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 두 2학년 수학 튜터의 무작위 비교: 사전 지식이 η²p = .63을 예측하고 적응적 순서는 .00이었다 (Sibley, Berner & Schmalfeldt 2026)

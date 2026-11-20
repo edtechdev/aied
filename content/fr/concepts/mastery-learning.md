@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -71,24 +73,3 @@ La notation fondée sur les standards est la contrepartie évaluative de l'appre
 **« L'apprentissage par maîtrise est la pédagogie que l'IA rend enfin possible. »** Sa mécanique précède largement l'IA — Bloom a formalisé le cadre il y a des décennies — et l'IA l'opérationnalise en automatisant les décisions d'évaluation et de rythme, non en réalisant une conception auparavant impossible. Ce recadrage compte parce que l'automatisation hérite du choix de règle, et la règle est là où réside le jugement.
 
 **« Une évaluation plus fréquente sous la maîtrise rend le seuil plus fiable. »** La fréquence améliore l'estimation et ne corrige pas une règle mal spécifiée. Recalculer la maîtrise plus souvent à partir d'événements qui incluent du travail assisté converge plus vite vers la même mauvaise réponse.
-
-## Concepts liés
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — la récupération et l'espacement comme moteur de pratique à l'intérieur des cycles de maîtrise
-
-## Articles liés
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : la maîtrise adaptative peut arrêter la pratique avant que les apprenants ne sachent quand retenir une action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injection de règles de maîtrise/non-maîtrise dans l'apprentissage profond pour une modélisation de l'apprenant responsable et interprétable
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Créditer le travail assisté gonfle la maîtrise : quelle règle de preuve décide qui est déclaré maître (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulation des stratégies de sélection de tâches des apprenants et des contraintes du système dans l'apprentissage par maîtrise (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Le traçage des connaissances surestime la performance de la session suivante et manque l'effet d'espacement (Schuetze, Yan et Carvalho 2025)

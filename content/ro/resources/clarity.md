@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -39,6 +40,3 @@ Editorul de browser rulează local în pagină și nu încarcă nicio schiță. 
 ## Ce trebuie să știi înainte de a-l adopta
 
 Depozitul publică un protocol de evaluare, mostre înainte-după în `samples/` și fișiere de referință în spatele skill-ului, astfel încât un evaluator poate inspecta cum se comportă regulile în loc să accepte o afirmație pe încredere; pagina de față nu reia niciun rezultat măsurat. Autorul este Addy Osmani, licența este MIT, iar lucrarea este independentă, nu un produs al vreunei instituții. Este tânără și activă: creată în august 2026, 54 de commit-uri, trei versiuni, ultima la versiunea 0.2.1 în septembrie, și aproximativ 250 de stele la verificarea din septembrie 2026. Trei contribuitori au adus modificări. Instrucțiunile skill-ului se încarcă într-un agent pe care cititorul îl rulează deja, așa că se aplică precauțiile obișnuite de [[prompt-engineering|inginerie de prompt]]: calitatea criticii depinde de schița care i se dă.
-
-## Concepte conexe
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

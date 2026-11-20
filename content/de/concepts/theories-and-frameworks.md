@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -131,34 +133,3 @@ Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematis
 **„Lerntheorien, Modelle der lernenden Person und Übernahmerahmenwerke sind austauschbare Linsen."** Sie beantworten unterschiedliche Fragen — wie Lernen geschieht, was der Zustand der lernenden Person ist und warum sich eine Praxis verbreitet —, und ihre Evidenztypen unterscheiden sich entsprechend. Die falsche Schicht zu wählen erzeugt eine Studie, die die richtige Variable gegen die falsche Vorhersage misst, was als Nullergebnis liest, wo es ein Kategorienfehler ist.
 
 **„Mehr Rahmenwerke bedeuten ein reiferes Feld."** Für das KI-Zeitalter geprägte Rahmenwerke häufen sich schneller, als sie getestet werden, und Anhäufung ohne Falsifikation ist ein Symptom statt Fortschritt. Reife zeigt sich darin, dass konkurrierende Vorhersagen aufgelöst werden, nicht im Wachstum des Vokabulars.
-
-## Verbundene Konzepte
-
-- [[theory-development-aied]] — Theorie im Feld bauen und revidieren
-- [[philosophy-of-ai-in-education]] — die normative und konzeptuelle Schicht
-- [[learning-theories]] — der Überblick für Lerntheorie
-- [[learning-sciences]] — das benachbarte Feld, aus dem die meiste Theorie geborgt ist
-- [[limitations-in-aied-research]] — was die Evidenzbasis stützen kann und was nicht
-- [[tpack]] — Lehrkraftwissen-Rahmenwerk
-- [[technology-acceptance-model]] — Übernahmerahmenwerke
-- [[item-response-theory]] — ein Messmodell
-- [[universal-design-for-learning]] — ein Designrahmenwerk
-- [[research-methods-aied]] — wie Theorie getestet wird
-
-## Verbundene Artikel
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionale Affordanzen als vierte Kategorie in einer Affordanz-Taxonomie vorgeschlagen
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten spielbasierten Lernstudien an
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — vier Jahrzehnte AIED durch das AI×Ed-Rahmenwerk
-- [[educating-minds-generative-ai-2026]] — theorielastige Synthese von generativer KI und Lernen
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Aktivitätstheorie angewandt auf die professionelle Entwicklung von Lehrkräften
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Aktivitätstheorie und Lehrkraft-Übernahme
-- [[generativism-learning-theory]] — eine Lerntheorie, die für das Zeitalter generativer KI vorgeschlagen wurde
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — hin zu einer Theorie epistemischer Ko-Handlungsfähigkeit
-- [[absent-cognitive-baseline-2026]] — Theoretisierung einer strukturellen Lücke in der Selbsteinschätzung KI-native Studierender
-- [[yan-agentivism-learning-theory-ai-2026]] — eine Mid-Range-Lerntheorie für Mensch-KI-Interaktion
-- [[ai-literacy-instrument-development-systematic-review-2026]] — Instrumentenentwicklung über ein junges Konstrukt hinweg
-- [[mishra-control-vs-agency-history-2025]] — die grundlegende Spannung zwischen Kontrolle und Handlungsfähigkeit des Felds
-
-- [[wells-genai-research-assistant-sociology-2026]] — Exploring the Role of Generative AI as a Research Assistant in Undergraduate Sociology Research Methods

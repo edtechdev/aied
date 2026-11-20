@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,7 +42,3 @@ Razlikovna tvrdnja projekta je njegova utemeljenost: vještine citiraju dokaze n
 ## Napomene i upozorenja
 
 Obrazovne vještine, dokumentacija i kurikularni materijali licencirani su CC BY-SA 4.0, pa su ponovna upotreba i prilagodba otvorene, ali izvedeni radovi moraju nositi istu licenciju. Dva su operativna detalja važna ako ga postavljate. Hostana MCP krajnja točka zahtijeva tokene i nije otvorena svima, a budući da poslužitelj poslužuje predani snimak, a ne datoteke SKILL.md, vještina koju dodate bez ponovne izgradnje i predaje paketa neće se pojaviti na živom poslužitelju ni nakon ponovnog postavljanja. Knjižnicu je izradio Gareth Manning, nastavnik i dizajner kurikula, a uvjeti licencije odnose se upravo na obrazovni sadržaj.
-
-## Povezani pojmovi
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

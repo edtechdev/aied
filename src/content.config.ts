@@ -120,6 +120,21 @@ const connectedFaqs = z
     message: 'connected_faqs must be existing FAQ slugs',
   });
 
+// `connected_concepts` / `connected_articles` (2026-11-19): the closing "Connected
+// Concepts" / "Connected Articles" lists moved from markdown body sections into
+// frontmatter, like connected_faqs/connected_resources. The renderer pulls each
+// target's own (already-translated) title + summary, so there is no per-locale gloss
+// to maintain. Normalized to a string array; a target with no page is skipped at
+// render time rather than failing the build.
+const connectedConcepts = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional();
+const connectedArticles = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional();
+
 // `sources` must be a raw/papers/<slug>.md path — NOT an external URL (a DOI,
 // landing page, or bare http link). The schema validates FORMAT only: raw/ is
 // gitignored and therefore absent in CI, so a filesystem existence check would
@@ -346,6 +361,8 @@ const articles = defineCollection({
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
+    connected_concepts: connectedConcepts,
+    connected_articles: connectedArticles,
     ...structuredMeta,
     ...provenance,
   }),
@@ -361,6 +378,8 @@ const concepts = defineCollection({
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
+    connected_concepts: connectedConcepts,
+    connected_articles: connectedArticles,
     connected_podcasts: connectedPodcasts,
     connected_videos: connectedVideos,
     ...structuredMeta,
@@ -378,6 +397,8 @@ const faqs = defineCollection({
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
+    connected_concepts: connectedConcepts,
+    connected_articles: connectedArticles,
     connected_podcasts: connectedPodcasts,
     connected_videos: connectedVideos,
     ...structuredMeta,
@@ -437,6 +458,8 @@ const resources = defineCollection({
     // the url resolves. The link-checking script reads it.
     last_verified: z.string(),
     connected_resources: connectedResources,
+    connected_concepts: connectedConcepts,
+    connected_articles: connectedArticles,
     // A resource page may point back at an FAQ it answers; optional, usually empty.
     connected_faqs: connectedFaqs,
     ...structuredMeta,
@@ -580,6 +603,8 @@ const translations = defineCollection({
     weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
     confidence: z.enum(['high', 'medium', 'low']).optional(),
     connected_resources: connectedResources,
+    connected_concepts: connectedConcepts,
+    connected_articles: connectedArticles,
     connected_faqs: connectedFaqs,
     ...structuredMeta,
     ...provenance,

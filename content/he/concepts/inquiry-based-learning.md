@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,39 +81,3 @@ ai_assist:
 **"חקר הוא בלתי מובנה מעצם הגדרתו."** המנחה מספק פיגום, והמבנה נמצא בתכנון השאלות ובמחזור ההרהור ולא בהעברת התוכן. הסרת הפיגום אינה הופכת את החקר לאותנטי יותר; היא הופכת אותו לחקר ללא פיגום.
 
 **"שאלות שמובילים תלמידים יהיו מנוסחות היטב אם התלמידים מתעניינים."** יצירת שאלה ניתנת לחקירה היא המיומנות שמפתחים, ולכן מערכת שמספקת שאלות טובות ביצעה את מיומנות החקר שהפעילות נועדה ללמד.
-
-## מושגים מחוברים
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Productive Failure
-
-## מאמרים מחוברים
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — מנחה אנושי לעומת למידה מבוססת בעיות בתיווך בינה מלאכותית: רווחי תוכן שווים, חשיבה ביקורתית חלשה יותר בלי המנחה (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — מפת 66 מחקרים של בינה מלאכותית יוצרת על חמשת שלבי החקר, כשרק 8 מחקרים מדדו כישורי חקר

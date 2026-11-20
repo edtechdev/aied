@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -35,7 +37,6 @@ ai_assist:
 ## ভূমিকা
 
 শিখনের স্থানান্তর শিক্ষা [[research-methods-aied|গবেষণার]] একটি মৌলিক উদ্বেগ, এবং এআই সরঞ্জাম এটিকে জরুরি করেছে। শিক্ষায় এআই-এর গবেষণাজুড়ে নথিভুক্ত নির্ণায়ক অভিজ্ঞতাভিত্তিক ধরনটি হলো একটি **স্থানান্তর-বিরোধিতা**: এআই ব্যবহারকারী শিক্ষার্থীরা সাধারণত যেখানে এআই পাওয়া যায় এমন কাজে তাৎক্ষণিক, মাপযোগ্য লাভ দেখায়, কিন্তু এআই সরিয়ে নিলে এবং শিক্ষার্থীদের স্বাধীনভাবে বোঝাপড়া প্রদর্শন করতে হলে সেই লাভ প্রায়ই টেকে না — এমনকি উল্টেও যায়। এই ধরনটি কার্যকরী কৌশল হিসেবে [[cognitive-offloading|অতিরিক্ত নির্ভরতা]], সংজ্ঞানাত্মক ভার-তত্ত্ব এবং [[metacognition]]-কে জড়িত করে, এবং [[intelligent-tutoring|এআই টিউটরিং]] নকশা নিয়ে বিতর্কের সঙ্গে সরাসরি যুক্ত।
-
 
 প্রস্তুতি স্থানান্তর নয়: এআই-সহায়ক কথ্য অনুশীলন কম [[anxiety-and-stress|কথন-দুশ্চিন্তা]] ও মানুষের সঙ্গে যোগাযোগের বেশি ইচ্ছার সঙ্গে যুক্ত ছিল, তবুও কোনও গবেষণাতেই মানব কথনের পর্যবেক্ষণ হয়নি, ফলে এআই মহড়া থেকে মানব যোগাযোগ-সক্ষমতায় যাওয়ার পথটি একটি অপরীক্ষিত শিক্ষাগত প্রস্তাব হয়ে আছে ([[ai-speaking-practice-communicative-readiness-2026|Wang ও Li (2026)]])।
 
@@ -68,7 +69,6 @@ ai_assist:
 **অতিরিক্ত নির্ভরতা / দক্ষতা-প্রত্যাবর্তন।** উত্তর পেলে নবীনরা স্কিমা গড়ে তোলে না। সাধারণ এআই উত্তর দেয়; কার্যকর টিউটরিং কাঠামোবদ্ধ নির্দেশনা দেয়। নবীনদের বিশেষজ্ঞ-স্তরের শর্টকাট দিলে শিখন ব্যাহত হয় — [[desirable-difficulties]] নীতিটি উল্টো দিকে।
 
 **সরঞ্জাম-নির্ভর পারফরম্যান্স।** শিক্ষার্থীরা এআই সরঞ্জামের নির্দিষ্ট সুবিধাগুলোর জন্য অপ্টিমাইজ করতে পারে ([[prompt-engineering|প্রম্পট প্রকৌশল]], উৎপন্ন কোড-কাঠামোর উপর নির্ভরতা), ক্ষেত্র-সাধারণীকরণ গড়ে তোলার বদলে — যা [[cognitive-offloading-speedup-illusion|সংজ্ঞানাত্মক অফলোডিংয়ের]] একটি রূপ যা উৎপাদনশীল মনে হয় অথচ টেকসই শিখনকে সরণ করে।
-
 
 একটি সুরক্ষিত শ্রেণিকক্ষও ভুল অভ্যাস শেখাতে পারে: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai ও Zhang (2026)]] সতর্ক করেন, আগেই নির্ধারিত নিয়মে চালিত [[simulation|সিমুলেশন]] অনিশ্চয়তাকে ছেঁকে বাদ দেয় এবং নিয়ম-অনুসরণকে জোরদার করে, তাই তাদের ভেতরে গড়ে ওঠা সিদ্ধান্ত-অভ্যাস বাস্তব পরিবেশে প্রতিদ্বন্দ্বী স্বার্থ ও অসম্পূর্ণ তথ্যের মুখে সংজ্ঞানাত্মক বোঝায় পরিণত হতে পারে।
 **স্তর-সংবেদনশীল অফলোডিং ও স্থানান্তর।** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] [[generative-ai|জেনএআই]]-সহায়ক লেখায় Salomon, Perkins ও Globerson-এর "প্রযুক্তির সঙ্গে প্রভাব বনাম প্রযুক্তির প্রভাব" পার্থক্যটি সরাসরি পরীক্ষা করেন: আট সপ্তাহের একটি আধা-পরীক্ষায় দেখা যায় উন্মুক্ত এআই-সহযোগিতা সমর্থিত-লেখার পারফরম্যান্স সর্বাধিক করেছে, কিন্তু উৎপন্ন করেছে সবচেয়ে *নিম্ন* স্বাধীন, এআই-বিহীন নিকট-স্থানান্তর ফলাফল, যেখানে প্রতিফলনসহ সীমিত সহায়তা স্বাধীন সক্ষমতা সংরক্ষণ করেছে। গভীর অফলোডিং স্তর (যুক্তি, কাঠামো) পৃষ্ঠতল স্তরের (ব্যাকরণ) চেয়ে খারাপ স্থানান্তরের পূর্বাভাস দিয়েছে। এটি সরাসরি শ্রেণিকক্ষের প্রমাণ যে এআই-এর *সহ*-সহায়তার পারফরম্যান্স-লাভ *সহায়তাহীন* স্বাধীন পারফরম্যান্সে স্থানান্তরিত হয় না — এবং অর্পণের গভীরতাই, কেবল এআই ব্যবহৃত হয়েছে কি না নয়, স্থানান্তরের রূপ নির্ধারণ করে।
@@ -113,36 +113,3 @@ ai_assist:
 **"স্থানান্তর আসে আরও সক্ষম মডেল থেকে।"** স্থানান্তর আসে তা উৎপন্নকারী শর্ত থেকে — অনুশীলনের ব্যাপকতা, প্রসঙ্গের বৈচিত্র্য, এবং শিক্ষার্থী নিজে কতটা যুক্তি উৎপন্ন করেছে তার মাত্রা। মডেল-সক্ষমতা সহায়তাপ্রাপ্ত পারফরম্যান্সের ঊর্ধ্বসীমা বাড়ায়, আর মডেল চলে যাওয়ার পর যা থাকে তার জন্য বিশেষ কিছুই করে না।
 
 **"নির্দেশনা সবসময় স্থানান্তর সমর্থন করে, তাই বেশি নির্দেশনা ভালো।"** যে নির্দেশনা যুক্তিটা নিজেই সম্পন্ন করে, তা সেই প্রক্রিয়ার বিকল্প হয়ে দাঁড়ায় যার উপর স্থানান্তর নির্ভর করে। পার্থক্যটি হলো এমন সাহায্যের মধ্যে যা শিক্ষার্থীকে পরের ধাপটি উৎপন্ন করতে রাখে এবং এমন সাহায্যের মধ্যে যা তা তার হয়ে উৎপন্ন করে — এবং সেই রেখার স্থানান্তর-পাশে কেবল প্রথমটিই আছে।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এই ক্রমগুলোর প্রায় সবগুলোই শেষ পর্যন্ত যে ফলাফলের ভিত্তিতে বিচার হয়
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — উৎপাদনশীল ব্যর্থতা
-
-## সংযুক্ত নিবন্ধ
-- [[yan-agentivism-learning-theory-ai-2026]] — মানুষ-এআই মিথস্ক্রিয়ার একটি মধ্য-পরিসরের শিখন-তত্ত্ব, চারটি কার্যকৌশল ও ছয়টি পরীক্ষণযোগ্য প্রস্তাবসহ (Yan ও Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — জেনএআই-সহায়ক লেখায় স্তর-সংবেদনশীল সংজ্ঞানাত্মক অফলোডিং (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — পারফরম্যান্স-শিখন পার্থক্য ও টেকসই স্থানান্তর
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য এলএলএম-এর শিক্ষাগত পরিচালনা
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — কণা-পদার্থবিজ্ঞান শিক্ষায় এআই: গবেষণা-সমস্যা ও ভিত্তিগত দক্ষতা
-- [[shi-genai-experiential-learning-management-education-2026]] — যুক্তি দেয় সুরক্ষিত শ্রেণিকক্ষ-সিমুলেশন এমন সিদ্ধান্ত-অভ্যাস গড়তে পারে যা তাদের বাইরে ব্যর্থ হয়
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — এআই-সহায়ক কথ্য অনুশীলন মানুষের প্রতি ইচ্ছা বাড়িয়েছে, কিন্তু কোনো গবেষণা মানব কথন পর্যবেক্ষণ করেনি
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: ডেস্কে কার্যকরী রোবটিক দেহায়ণের মাধ্যমে বর্ধিত শিখন
-- [[cognitive-washout-ai-skill-decay-2026]] — সংজ্ঞানাত্মক ওয়াশআউট: প্রত্যাহার-পরবর্তী ব্যবধান ও একটি 22-সপ্তাহের পরিমাপ প্রোটোকল (Yajee 2026)

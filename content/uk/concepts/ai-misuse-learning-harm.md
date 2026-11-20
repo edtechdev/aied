@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -109,38 +111,3 @@ ai_assist:
 
 - Завжди повідомляйте недопоможену міру і повідомляйте сприйняття поряд із нею, а не замість неї.
 - Приписуючи шкоду, повідомляйте структуру підміни в завданні, а не лише частоту використання.
-
-## Пов’язані поняття
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Пов’язані статті
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Шведське опитування та фокус-групи, які доводять, що інституційними рішеннями щодо генеративного ШІ має керувати етика партнерства, а не рамка обману
-- [[rho-disengaged-conversational-behaviors-2026]] — Відчужені розмовні поведінки та навчання в діалогах студент–ШІ (Rho et al. 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI без захисних обмежень може шкодити навчанню
-- [[genai-performance-vs-learning]] — Відрізнення здобутків продуктивності від навчання
-- [[ai-availability-student-motivation]] — Наявність ШІ та мотивація студентів
-- [[genai-skill-bypass-literacy]] — Обхід навичок через GenAI і грамотність
-- [[cognitive-shift-ai-education]] — Когнітивний зсув в освіті зі ШІ
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Когнітивне розвантаження в колаборації студент–ШІ
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедія когнітивного спільного: ШІ та регенерація експертизи
-- [[lodge-loble-cognitive-offloading-2026]] — ШІ, когнітивне розвантаження та наслідки для освіти (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Надмірна залежність від ШІ, змодельована як комплексна адаптивна система
-- [[academic-erasure-complexity-ai-writing-2026]] — Академічне стирання: зникнення складності під письмом із підтримкою ШІ
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — Залежність від ШІ повністю опосередковує шлях від самоефективності та підтримки викладача до навчального вигорання (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Рання опора передбачає негативний вплив, тоді як когнітивна опора передбачає позитивний, і грамотність оцінювання зміцнює, а не пом’якшує шкоду від звертання до ШІ першим (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

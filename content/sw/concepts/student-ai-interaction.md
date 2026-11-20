@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -39,7 +41,6 @@ Mwingiliano wa mwanafunzi na AI ni uso unaoonekana wa [[student-engagement|ushir
 
 - **Kukataa ni usanidi wa mwingiliano, si kutokuwepo kwa matumizi.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson na Lindgren (2026)]] waliwarekodi wanafunzi watatu wa sekondari ya juu wakiandika hadithi ile ile iliyochochewa na Kafka kwa GenAI na kuchora makusanyiko matatu tofauti kutoka kwa rekodi: uandishi uliokabidhiwa kwa mfano, uandishi wa pamoja wa kikosoa, na usanidi wazi wa "AI na mimi—hapana, asante" ambapo mwanafunzi alipanga upya mazoezi yake ya uandishi mbali na zana. Ugunduzi kwa ukurasa huu ni kwamba kazi *ile ile*, chumba kile kile na zana ile ile zilizalisha yote matatu, na mengi ya yaliyoyatenganisha yalikaa katika nyakati kati ya ilani — vituo, uundaji upya, kusitasita kabla ya kukubali pendekezo — ambayo kumbukumbu ya mazungumzo peke yake haikamati.
 Mfululizo msingi wa utafiti hupima **aina na ubora wa maswali ya wanafunzi**. Masudio yanatumia taksonomia za aina za maswali — kwa mfano taksonomia ya aina 18 ya Graesser et al. — ili kugawa mwingiliano wa mwanafunzi na AI, mara nyingi kwa kutumia wagawaji wa few-shot ili kupana uchanganuzi kwa mamia au maelfu ya mwingiliano. Matokeo yanaonyesha kuwa sehemu ndogo ya aina za maswali inaelesha wingi wa maswali ya wanafunzi, na kuwa maswali wanayouliza wanafunzi **hubadilika kwa kiasi kikubwa kadiri kazi inavyoendelea** (mfano, [[student-ai-inquiry-types-cs2-2026]]). Utegemezi huu wa kazi ni muhimu: ubora wa mwingiliano si sifa isiyobadilika ya mwanafunzi bali unaundwa na muktadha wa tatizo, [[scaffolding]], na uwezo wa zana ya AI. Katika umri wa chini zaidi, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] waligundua watoto (umri 6–14) wakijaribu kwa bidii uaminifu wa [[conversational-ai|chatbot]] kwa kuuliza maswali yanayojulikana (mfano, "t rex ni mkubwa kiasi gani") — maelezo ya wakala wa kibinafsi wa maarifa — wakati mtoto wa kawaida aliuliza maswali 1–3 tu na mwanafunzi wa darasa la kwanja aliyestaajabisha aliuliza 21, ikionyesha jinsi mabadiliko ya kimaendeleo na ya kibinafsi yanavyunda maswali wanayotoa wanafunzi.
-
 
 Taksonomia zenyewe hazijakubaliana bado: katika migawanyo 46 kutoka masudio 33, lebo zinazofanana zinataja matukio tofauti, kwa hivyo mapitio yanapendekeza *kipindi cha mwingiliano* — mabadilishano yanayoongozwa na lengo na yaliyowekwa wakati — kama kitengo kinachojumuisha upatikanaji wa maarifa, maoni ya tathmini, mwongozo wa kimkakati, maswali ya mazungumzo, uboreshaji wa vitu, na usimamizi wa pamoja ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 
@@ -73,13 +74,11 @@ Kuelezea mwingiliano wa mwanafunzi na AI kunaelekeza [[learning-design]]: waalim
 
 Vituo vya kubuni vinaweza kubadilisha chaguo-msingi huo: katika kozi ya fizikia ya asynchronous ya karibu wanafunzi 70 kitu kilichopimwa kilikuwa nakala ya mazungumzo badala ya jibu, hata hivyo wanafunzi wengi bado waliuliza orodha ndefu za maswali bila kujibu maswali ya kufuatia ya [[socratic-method|Socratic]] ya mfano — hali ya kushindwa ambayo vigezo viliandikwa ili kukamata ([[context-prompts-physics-assignments-2026|Rodriguez & Wulff (2026)]]).
 
-
 Ilani zilizoandikwa na walimu ni kituo kimoja kama hilo, lakini ukali unaotekelezwa unachelewa na lengo: katika mazungumzo 1,479, 38% hayakufikia kiwango cha Kinachojua-Kina kilichokusudiwa na mwalimu, yakikaribia 50% katika DOK 3, wakati mistari ya wazi ya kumaliza ilipunguza pengo hilo kwa viwango 0.22 na ulinzi wa "hakuna majibu ya moja kwa moja" ulipunguza viwango vya jibu la mwisho la AI kwa pointi 8.1 za asilimia ([[teacher-authored-prompts-student-ai-dialogue|Liu et al. (2026)]]).
 
 Kutotumia ni mfumo wa mwingiliano ambao [[pedagogy]] lazima ipange. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], wakichunguza wanafunzi 85 wa [[teacher-education|walimu]] katika kozi tatu ambapo matumizi ya GenAI katika [[assessment]] yaliruhusiwa kwa uwazi, waligundua kuwa 62.4% (53 ya 85) walikataa kuitumia kabisa, chini sana ya kupitishwa kwa 79–83% kunakoonwa katika utafiti wa Uingereza na Australia, na kuwa matumizi ya wanaopitisha yalikuwa ya juu na ya kurekebisha badala ya kuzalisha (kupanga 43.8%, ukaguzi wa uwazi 34.4%, uzalishaji wa maandishi 18.8% tu). Chaguzi zao zilifuatilia ubini wa tathmini na utamaduni wa taasisi badala ya ugumu wa kiufundi: 41.5% ya wasiopitisha waliogopa kushutumiwa vibaya kwa [[academic-integrity|wizi wa kitaaluma]], na tisa kati ya wanahojiwa kumi na moja walisoma sera yenye ruhusa yenyewe kama "mtego" unaowezekana. Pengo kati ya watumiaji 32 waliyoripotiwa na matangazo 28 ya kibinafsi linaonyesha kuwa mwingiliano wa AI *ulioripotiwa* na wanafunzi unaundwa na matokeo yaliyopimwa — onyo la kupima kwa akaunti za uchanganuzi wa kujifunza za mwingiliano wa mwanafunzi na AI.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanarekodi kile mazungumzo ya wazi na AI ya kizalishaji huongeza katika ukaguzi wa rika: wanafunzi waliouliza mfano maswali badala ya kukubali pendekezo lake la kwanza walizalisha maoni ambayo rika walipima kuwa ya juu, na waliripoti furaha zaidi ya kazi na [[anxiety-and-stress|wasiwasi mdogo]].
-
 
 ## Nidhamu na Ushiriki wa Kiakili katika Mazungumzo ya Mwanafunzi na AI
 
@@ -88,47 +87,8 @@ Kutotumia ni mfumo wa mwingiliano ambao [[pedagogy]] lazima ipange. [[zou-is-thi
 
 - **"Mwanafunzi hawezi kuhamisha alama ya mwalimu."** Anaweza, na ni kushindwa kwa kudumu zaidi katika betri: **17 kati ya 22** wa mifano walipandisha alama zao zaidi baada ya pingamizi tupu kuliko baada ya ombi la kuangalia mara ya pili, ikijumuisha **sita kati ya wanane** waliokuwa wamepita kila ukaguzi wa mchezo na jibu tupu. Kubwa zaidi lilikuwa Llama 3.2 3B kwa **+33.2% ya kipimo**, na ombi la kuangalia mara ya pili lenyewe lilipunguza alama kwa **kumi** kati ya 17, hivyo tofauti si athari ghafi ya pingamizi. [[porcaro-ai-grading-benchmark-2026|Alama ambazo mwanafunzi anaweza kuzibishana nazo zinahitaji rekodi ya mazungumzo]].
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Uainishaji wa mwingiliano umeamuliwa."** **Kote ya uainishaji 46 kutoka masudio 33, lebo zinazofanana hutaja matukio tofauti**, ambayo ndiyo sababu mapitio yanapendekeza *kipindi cha mwingiliano* kama kipimo. Mpango wa kusimba ulioazimwa kutoka uainishaji mmoja unaweza kuwa unapima dhana tofauti.
 - **"Wanafunzi hutumia AI kama mfunzi."** Miongoni mwa **wanafunzi 38 wa shahada ya kwanza** waliokamilisha insha za hoja bila usimamizi, **76.32% walitumia muundo wa zamu moja wa kuuliza-kupata jibu-kusimama**, kwa kawaida wakibandika kichwa cha tathmini. Muundo tawala ni urejeshaji wa zamu moja, ambao si ufundishaji.
 - **"Matumizi zaidi ya AI yanaonyesha ushiriki zaidi na maudhui."** Uchanganuzi wa **vikao 200 vya mazungumzo ya upangaji programu ya pamoja** uligundua **78.8% ya mwingiliano wa mwanafunzi na GenAI uliendeshwa kwa malengo na mikakati isiyo ya umahiri**. Kiasi cha mwingiliano kilipima kitu kingine zaidi ya mwelekeo wa kujifunza, kwa hivyo hesabu za vikao ni kipimo cha ushiriki kinachopotosha.
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: bega la dhana za upande wa mwanafunzi
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Makala Zilizounganishwa
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Mara ya matumizi na utaalamu uliojipima haukutabiri chochote kwa wanafunzi 819
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
-
-- [[porcaro-ai-grading-benchmark-2026]] — Alama ambazo mwanafunzi anaweza kuzibishana nazo: mifano 17 kati ya 22 ilipandisha alama baada ya pingamizi tupu
-

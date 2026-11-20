@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -97,39 +99,3 @@ L'argument d'intégrité de l'oral est aussi limité dans le temps : [[corbin-ai
 - **« L'évaluation orale ne peut pas passer à l'échelle. »** Dans [[code-review-genai-cs1|l'étude de revue de code orale en CS1]], **des entretiens hebdomadaires de quinze minutes portaient soixante-dix pour cent de la note de chaque devoir**, et les caractères collés rapportés au total restaient informatifs. Le coût est réel et le dispositif est implémentable à l'échelle d'un cours.
 - **« Les examens oraux sont plus indulgents que les écrits. »** Dans le pilote rapporté, les scores **dépassaient ceux des tests à choix multiples en présentiel : médiane du partiel 92,5 contre 70 (p < 0,001) et médiane de l'examen final 94,2 contre 86,4 (p = 0,002)**. L'évaluation orale n'était pas l'option indulgente.
 - **« Une rencontre simulée équivaut à des cas à divulgation progressive. »** Dans [[ai-standardized-patient-scaffolding-medical-2026|un essai randomisé portant sur cent étudiants de troisième année de médecine]], le système de patient simulé a été comparé **à des supports de cas à divulgation progressive** — un test direct de l'équivalence plutôt qu'une présomption de celle-ci.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Les séquences de vérification orale et de soutenance, et ce qu'elles démontrent ou non
-- [[assessment]] — le champ plus large dans lequel ce format s'inscrit
-- [[authentic-assessment]] — la tradition de conception qui fonde le plaidoyer pour l'intégrité
-- [[assessment-validity]] — ce qu'un format peut et ne peut pas prétendre mesurer
-- [[academic-integrity]] — la pression qui a rendu aux oraux leur proéminence
-- [[automated-assessment]] — la délivrance et la notation par machine de la performance orale
-- [[ai-detection]] — la réponse alternative, et pourquoi elle est plus faible
-- [[speech-and-voice-technologies]] — le pipeline de la parole sur lequel tourne un système oral
-- [[multimodal]] — le geste et la parole comme preuves combinées
-- [[anxiety-and-stress]] — le coût affectif de la performance en direct
-- [[feedback]] — ce qu'une soutenance apprend à un apprenant sur sa propre compréhension
-- [[higher-ed]] — le contexte dont provient la quasi-totalité de ces preuves
-
-## Articles liés
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Des tâches de dialogue d'IA non ramifiées décalent les exigences de la tâche par rapport au construit de l'expression orale
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Les soutenances en direct n'en sont plus protégées : des lunettes et des écouteurs d'IA délivrent des suggestions en temps réel et dissimulées (Corbin, Sharpe & Dawson 2026)
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidérer l'usage des examens et évaluations oraux (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Évaluations orales asynchrones : intégrité, engagement et communication professionnelle
-- [[ai-supported-oral-assessment-tvet-2026]] — Concevoir l'évaluation orale assistée par l'IA dans l'enseignement professionnel
-- [[aivaluate-anxiety-assessment-2026]] — Anxiété et expérience dans l'évaluation de la performance médiée par l'IA
-- [[code-review-genai-cs1]] — Entretiens oraux de revue de code dans un cours d'introduction à la programmation
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Le geste comme preuve dans l'évaluation des explications orales
-- [[socratic-tests-conversational-assessment]] — Le test conversationnel automatisé comme évaluation orale
-- [[tool-invariant-framework-agentic-ai]] — Les défenses orales de travaux assistés par l'IA
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Les entretiens cliniques oraux sous un système de patient simulé
-- [[pgr-students-genai-uses-qualitative-2026]] — La soutenance doctorale à l'ère de l'IA générative
-- [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Compte rendu d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
-- [[assessment-feedback-trilemma-model-2026]] — Refuse toute position fixe à un format et recadre la faisabilité comme une priorité éducative
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Des oraux en binôme étayés par l'IA comme contournement d'emploi du temps dans un cours de statistique pour les affaires
-- [[deng-certification-consultation-university-teaching-2026]] — L'enseignement universitaire après l'IA générative : au-delà des cours magistraux et de l'enquête, un paradigme de certification et de consultation où les apprenants deviennent…
-- [[webb-davies-voice-first-written-assessment-2026]] — Une évaluation écrite en deux étapes qui sécurise le raisonnement sous observation avant de noter un travail rédigé à domicile, avec une soutenance conditionnelle pour les cas non résolus
-- [[challen-conversational-assessment-chat-exams-2026]] — Évaluation conversationnelle à l'échelle : examens par chat avec un pipeline LLM à deux agents

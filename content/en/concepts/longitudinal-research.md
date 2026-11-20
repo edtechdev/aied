@@ -13,6 +13,8 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 > **Longitudinal research** — designs that measure the same units repeatedly over time, so that change *within* a person, class or institution can be separated from differences *between* them. In [[ai-education|AI in education]], longitudinal work is what turns claims about adoption, skill growth and engagement from snapshots into trajectories: four semesters of teacher-education surveys showing [[generative-ai|GenAI]] use rising, a semester of self-regulation data showing [[metacognition|metacognitive]] knowledge falling under assessment pressure, five waves of engagement data whose slopes move together. Its value is not that it measures more, but that it can ask a question a single measurement cannot answer: what is changing, for whom, and at what rate.
@@ -110,28 +112,3 @@ Longitudinal designs sit inside [[quantitative-research|quantitative research]] 
 - **"A big sample fixes a short window."** Sample size addresses precision, not the time needed for a developmental or institutional process to unfold.
 - **"Same program means same people."** Repeated cross-sections track a population, not individuals; the two support different claims.
 - **"Self-report trends are attitude trends."** Reported use and reported stance shift with norms and with the instrument as well as with behavior.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Three-wave panel separating trait from state (Xu)
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — Five-wave growth model of engagement, flow and emotional intelligence
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Four semesters of GenAI use and ethical perceptions in teacher education
-- [[song-genai-learning-partner-srl-over-time-2026]] — Semester-long self-regulation study showing decline under assessment pressure
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Nine-week longitudinal quasi-experiment across three AI conditions
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS proposal for middle school (design, not a longitudinal study)

@@ -30,7 +30,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
-
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -48,10 +48,3 @@ Kabinettsmitglieder, Provosts und CIOs, die entscheiden, was gefördert wird; KI
 ## Anmerkungen und Vorbehalte
 
 Das Framework und die Website stehen unter der Lizenz **CC BY-NC-SA 4.0**; Bearbeitungen sind daher für nicht-kommerzielle Nutzung mit Namensnennung und Weitergabe unter gleichen Bedingungen erlaubt, und die Website liefert eine eigene empfohlene Namensnennung. Die vom Herausgeber angegebene Übereinstimmung mit OECD, NIST, ISO/IEC 42001, dem EU AI Act, FERPA und HIPAA ist sein eigener Vergleich und sollte als solcher gelesen werden. Die Begleitseiten sind eigenständige Projekte, mehrere vom selben Autor, und lohnen sich als Sammlung: [Campus AI Exchange](https://www.campusaiexchange.com/) ist der Knotenpunkt und enthält [interaktive Karten](https://www.campusaiexchange.com/ai-policies-guidelines-map) institutioneller KI-Richtlinien und Hinweise für den Hörsaal, eine [KI-Governance-Selbsteinschätzung](https://www.campusaiexchange.com/ai-governance-assessment), Karten zu Data Governance und KI-Positionen sowie eine Ressourcenbibliothek. Darum herum liegen [campusaigovernance.com](https://campusaigovernance.com/) (neun KI-Governance-Bereiche), [campusairisks.com](https://campusairisks.com/) (das NIST AI Risk Management Framework, angewendet auf diese Bereiche), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), eine auf Einheitsebene angesiedelte [Vorlage für einen KI-Adoptionsplan](https://unit-ai-adoption-plan.netlify.app/) und ein Briefing zu [agentischer KI für Leitungen](https://campusaiframework.com/sites). Der Strategic Compass kursiert außerdem als gemeinsam genutztes Google-Dokument, für dessen Öffnen ein Google-Konto nötig ist. Beim Einstieg erscheint eine kurze optionale Onboarding-Frage zu Rolle und Institution; die E-Mail-Adresse ist optional, und die gesamte Website ist ohne sie lesbar.
-
-## Verbundene Konzepte
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

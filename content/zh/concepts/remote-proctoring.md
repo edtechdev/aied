@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,32 +85,3 @@ ai_assist:
 - **"监考保护学术诚信。"** **诚信理由未能通过最大规模的检验。** 在跨越**四波、105 门课程、1,760 名学生**的研究中，监考**提升了考试焦虑（β = 0.60，p < 0.001），却没有**可检出的诚信收益。被测量的效应落在学生身上，而不在作弊上。
 - **"检测能力更强就意味着监考更好。"** 一项涵盖 **80 项同行评议研究（2014 至 2024）**的十年系统综述发现，先进的 ML/DL 监考**更准确地检测作弊**，却对部署它是否改变行为一无所言。检测性能是分类器的属性，而不是评估制度的属性。
 - **"行为信号是可靠的不当行为指标。"** 系统用 YOLOv11 **逐帧追踪十七个身体关键点**，推导出**姿态偏离、头部趋势与上半身运动**特征。那些构念是代理指标，一个被标记的姿态是关于一具身体的分类，而不是对一次违规的观察。
-
-## 关联概念
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## 关联文章
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 可穿戴人工智能抹去了监考所依赖的行为信号（Corbin、Sharpe 与 Dawson，2026）
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — 对自动化在线考试监考的十年系统综述
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 自动化监考中学术不诚实的综合综述
-- [[conijn-fear-big-brother-proctored-exams-2022]] — 对"老大哥"的恐惧：监考对考试焦虑的负面副作用
-- [[biology-degree-integrity-genai-cheating-2026]] — 学生能靠作弊拿到生物学学位吗？生成式 AI 时代生物学课程成绩对学术不诚实的脆弱性案例研究
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 处于监控之下：护理学生评估中远程监考实践的映射
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 在一场有监考的面对面考试中 44.2% 的学生被标记为高风险，且风险由学期初的 LMS 痕迹预测

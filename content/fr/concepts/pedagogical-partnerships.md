@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -110,37 +112,3 @@ Pour les éducateurs et les institutions cherchant à adopter le partenariat pé
 - **« Le partenariat signifie élever la voix des étudiants. »** Un partenariat pédagogique est une **relation bornée et négociée** avec des rôles définis et une obligation réciproque, et non une consultation. Une voix sans rôle, sans mandat et sans part de la décision ne change rien de structurel.
 - **« Le partenariat est une posture que l'on peut adopter. »** Il exige des conditions institutionnelles — du temps, une reconnaissance pour l'étudiant partenaire et un changement que les partenaires peuvent réellement affecter. Un partenariat déclaré sans ces conditions reproduit la hiérarchie qu'il prétend interrompre.
 - **« Le partage du pouvoir ne peut pas être du développement professionnel. »** La thèse de la littérature est que le partenariat est du développement *parce qu'il* change la compréhension de l'éducateur par la relation. Le réduire à un bénéfice pour les étudiants écarte le mécanisme.
-
-## Concepts liés
-
-- [[pedagogy]] — Pédagogies et stratégies d'enseignement
-- [[collaborative-learning]]
-- [[agency]] — Autonomie de l'apprenant
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Articles liés
-
-- [[guided-inquiry-genai-course-policy-2026]] — Une approche par enquête guidée pour des étudiants co-concevant des politiques de cours sur l'IA générative
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-créer des GPT personnalisés : une étude autoethnographique d'étudiants de premier cycle comme partenaires de l'innovation en IA générative
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Concevoir l'évaluation par la co-création : le partenariat étudiants–personnel dans l'évaluation de l'IA
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Cinq principes directeurs pour naviguer l'IA dans la pratique des étudiants comme partenaires afin de préserver la confiance pédagogique
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-concevoir l'IA avec des partenaires jeunes : un cadre éthique de la vie privée relationnelle
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Éclairer les réalités complexes des étudiants face à l'IA par un cadre de pédagogie enchevêtrée
-- [[anastasia-shared-agency-partnership-framework-2026]] — Autonomie partagée : le cadre de partenariat d'autonomie pour la collaboration enseignant–étudiant
-- [[maybee-disruptive-partnerships-sap-2025]] — Partenariats perturbateurs : collaborer avec les étudiants en sciences de l'information
-- [[student-centered-genai-responsible-framework-2026]] — Cadre centré sur l'étudiant pour l'usage responsable de l'IA générative
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Des étudiants ont construit un tuteur IA pour leurs pairs à l'échelle de 710 étudiants : engagement élevé, données d'apprentissage exploratoires (Zangari et al. 2026)

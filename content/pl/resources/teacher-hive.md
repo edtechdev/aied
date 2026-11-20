@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -47,11 +48,3 @@ Nauczyciele K–12, którzy użyli [[generative-ai|generatywnej SI]] do zbudowan
 Plany Member i Builder są bezpłatne (Builder: 50 aplikacji, 50 MB); Pro kosztuje 10 USD miesięcznie albo 60 USD rocznie za 500 aplikacji. Dostęp jest freemium.
 
 Prywatność jest mocniejszym twierdzeniem, ale przenosi odpowiedzialność na nauczycieli. Teacher Hive nie tworzy kont uczniów, nie prosi uczniów o dane osobowe i nie uruchamia skryptów analitycznych ani reklamowych w opublikowanych aplikacjach. Ponieważ aplikacje są dostępne publicznie pod linkiem, regulamin czyni nauczycieli odpowiedzialnymi za to, by ich aplikacje nie zbierały imion, adresów e-mail, identyfikatorów uczniów ani lokalizacji. Zakres dostępności (WCAG 2.2 AA) dotyczy własnych stron Teacher Hive, a nie aplikacji tworzonych przez nauczycieli, które nie są testowane. Nie podano licencji open source, a dostępność usługi i retencja danych nie są gwarantowane.
-
-## Powiązane pojęcia
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

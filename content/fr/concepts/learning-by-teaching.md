@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -120,32 +122,3 @@ La [[research-methods-aied|recherche]] ci-dessus converge vers quelques patrons 
 **« Demander à un LLM de faire semblant d'être confus est une invite triviale. »** C'est un problème de conception, parce que la faillibilité doit être calibrée sur le concept enseigné et sur le modèle courant de l'élève-enseignant. Des erreurs aléatoires produisent une pratique de débogage ; des erreurs reflétant une idée fausse spécifique et plausible produisent une restructuration conceptuelle, et seule la seconde est la cible pédagogique.
 
 **« Apprendre en enseignant est une activité plus douce que d'être enseigné. »** Elle est plus exigeante. Se préparer à enseigner force l'organisation des connaissances et la localisation de ses propres lacunes, ce qui explique pourquoi l'approche fait apparaître des incompréhensions que la réception passive dissimule — la difficulté est le mécanisme, et non un coût à minimiser.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Expliquer à un élève-IA : la séquence la mieux étayée de la littérature
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'éducation à l'IA
-
-## Articles liés
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT comme agent enseignable en programmation
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Les étudiants comme instructeurs de LLM (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Apprentissage du vocabulaire en enseignant à l'IA
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — désapprentissage automatique pour maintenir un tutoré à un niveau de connaissance novice, et réapprentissage par le dialogue d'enseignement
-- [[simulating-students-java-programming-errors-llms]] — Simuler les erreurs d'étudiants avec des LLM
-- [[knowledge-building-tutor-learning-2026]] — les réponses de construction des connaissances, et non les connaissances préalables, prédisent l'apprentissage du tuteur

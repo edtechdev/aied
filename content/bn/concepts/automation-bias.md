@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -117,45 +119,3 @@ ai_assist:
 - **"লুপে একজন মানুষ থাকলেই ঠিক হয়ে যায়।"** লুপ ততটাই ভালো যতটা হস্তক্ষেপের সুযোগ, আর স্কোরিং গবেষণাগুলো অ্যাঙ্করিং মাপেনি।
 - **"এটি শিক্ষার্থীর সমস্যা।"** শিক্ষক, রেটার, টীকাকারক ও প্রশাসক — জ্ঞানভিত্তি যে নকশাই বর্ণনা করে তার প্রতিটিতে সই করার মানুষ এরাই।
 - **"এটি একটি চরিত্র-দোষ যা ভালো প্রশিক্ষণ সরিয়ে দেয়।"** প্রশিক্ষণ সাহায্য করে, কিন্তু একই ব্যক্তি ভিন্নভাবে আচরণ করে এটা নির্ভর করে যাচাই সস্তা কি না, আউটপুট সাবলীল কি না, এবং দ্বিমতের মূল্য আছে কি না।
-
-## সংযুক্ত ধারণা
-
-- [[trust-calibration]] — যে নির্ভরতা-অবস্থার ব্যর্থতার নাম স্বয়ংক্রিয়তা পক্ষপাত
-- [[bias-mitigation]] — ব্যবস্থা-পক্ষের প্রতিরূপ: মডেলের ভিতরের পক্ষপাত
-- [[cognitive-offloading]] — মানসিক কাজের প্রতিনিধিত্ব, যার একটি ফল অযাচাই গ্রহণ
-- [[human-in-the-loop-ai]] — যে রক্ষাকবচের শক্তি এই ব্যর্থতাই ঠিক করে
-- [[explainable-ai]] — যে স্বচ্ছতা-হস্তক্ষেপ জ্ঞানভিত্তি প্রস্তাব করে, বিরলভাবে পরীক্ষা করে
-- [[learning-analytics]] — ড্যাশবোর্ড ও প্রাথমিক সতর্কতা, যেখানে অনুপস্থিতি-ত্রুটি কেন্দ্রীভূত
-- [[recommender-systems-and-learning-paths]] — পরবর্তী কী করবেন তার ক্রমবিন্যাস, যা শিক্ষার্থী কেবল অনুসরণ করে
-- [[automated-assessment]] — যে স্কোর মানুষ আর না পড়েই মেনে নিতে পারে
-- [[scaffolding]] — যাচাই যা গ্রহণের চেয়ে সস্তা থাকে
-- [[self-efficacy]] — যে বৈশিষ্ট্যের উপর মানক পূর্বাভাস দাঁড়িয়ে
-- [[ai-detection]] — সময়ের চাপে মানুষ যাচাই করে এমন শনাক্তকরণ
-- [[remote-proctoring]] — মডেল যে সন্দেহ তোলে আর মানুষ যে বিচার নিষ্পত্তি করে
-- [[ai-literacy]] — গ্রেডেড দক্ষতা হিসেবে যাচাই যেখানে থাকবে
-
-## সংযুক্ত নিবন্ধ
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — পাতলা উপাত্তে গড়া সুপারিশের কাছে নত না হতে শিক্ষকদের সতর্কবার্তা
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — এআই-স্কোর দিয়ে রেটার-অ্যাঙ্করিংকে অপরীক্ষিত ঝুঁকি বলে নাম দেয় ও ব্লাইন্ডিং প্রস্তাব করে
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — সাধারণ ধরন হিসেবে ড্যাশবোর্ড, পৃষ্ঠতল-বৈশিষ্ট্যের প্রতিক্রিয়া ও ট্রাফিক-বাতি
-- [[factria-responsible-institutional-analytics-2026]] — এগারো জন অংশীদার, চারটি কেস, একটি চ্যাটবট যা সুপারিশ করতে অস্বীকার করে
-- [[ludia-udl-ai-thought-partner-2026]] — সরঞ্জামের ক্ষেত্র-জ্ঞান বিশ্বাস করে দুর্বল হওয়া শিক্ষক-রক্ষাকবচ
-- [[extended-minds-coupling-flexibility-2026]] — প্রত্যাখ্যানের আনুষ্ঠানিক অধিকার তদারকি নয়, যদি স্বয়ংক্রিয়তা পক্ষপাত তা হারিয়ে দেয়
-- [[ground-truth-reliability-aied]] — LLM টীকাকরণ, বৃত্তাকার বৈধতা ও নীরব লেবেল-সরণ
-- [[polished-artifacts-fragile-engagement-2026]] — সংজ্ঞানাত্মক শ্রম হ্রাসের সামাজিক-সংজ্ঞানাত্মক সূত্র হিসেবে স্বয়ংক্রিয়তা পক্ষপাত
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — পুনরাবৃত্ত মানব-এআই কাজের চারটি ব্যর্থতা-ধরনের একটি
-- [[eight-mode-ai-engagement-typology-2026]] — Oracle ধরন ও তার বৈশিষ্ট্যপূর্ণ ঝুঁকি
-- [[assessing-student-drive-framework-2025]] — স্বয়ংক্রিয়তা পক্ষপাতের বিরুদ্ধে রক্ষাকবচ হিসেবে সক্রিয় মানব এজেন্সি
-- [[sun-llm-nursing-education-professional-identity-2026]] — এআই বহিরাগত না গঠনমূলক কাজ সরায়, তা নিয়ে 489টি গবেষণা
-- [[geoscience-field-learning-genai-2026]] — প্রমাণ-বাঁধা ক্ষেত্রকর্মে অ্যাঙ্করিং, নিশ্চিতকরণ ও স্বয়ংক্রিয়তা পক্ষপাত
-- [[ahmadfard-interactive-oer-review-2026]] — শিক্ষার্থী ও শিক্ষকের এজেন্সি ক্ষয়ে করা ঝুঁকির মধ্যে স্বয়ংক্রিয়তা পক্ষপাতের উল্লেখ
-- [[alshahrani-health-sciences-ai-use-2026]] — 310 জন শিক্ষার্থীর নৈতিক উদ্বেগ, স্পষ্ট প্রশিক্ষণের পক্ষে যুক্তি হিসেবে পঠিত
-- [[ai-literacy-legal-translation-2026]] — গুণমান-বিভ্রমের চাপের বিরুদ্ধে গ্রেডেড দক্ষতা হিসেবে পোস্ট-এডিটিং শিক্ষা
-- [[morales-cevallos-ai-forensic-science-education-2026]] — পর্যালোচিত ফরেনসিক-এআই গবেষণায় স্বয়ংক্রিয়তা পক্ষপাত লিপিবদ্ধ
-- [[rana-genai-design-thinking-2025]] — মানব বিচারকে কেন্দ্রে রাখা স্ক্যাফোল্ড
-- [[kim-overtrust-ai-literacy-2026]] — পূর্বাভাস উল্টে গেছে: আত্মবিশ্বাসী শিক্ষার্থীরা সরঞ্জামকে বেশি বিশ্বাস করেছে
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — স্বয়ংক্রিয়তা-পক্ষপাত গবেষণার উপর গড়া কাঠামো, তার পরীক্ষা নয়
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — সমালোচনামূলক নাগরিকত্ব ক্ষয়ে করা তিনটি প্রক্রিয়ার একটি
-- [[academic-erasure-complexity-ai-writing-2026]] — এআই ব্যবহার পুলিশিংয়ের আবেগীয় শ্রমে স্বয়ংক্রিয়তা পক্ষপাত
-- [[llm-fallacy-misattribution]] — নিকটতম পার্থক্য: ব্যবস্থার উপর অতিরিক্ত-নির্ভরতা বনাম অনুভূত ব্যক্তিগত যোগ্যতা

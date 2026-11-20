@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -80,42 +82,3 @@ ai_assist:
 **«Анализ заинтересованных сторон — упражнение ранней фазы.»** Напряжения сохраняются в эксплуатации, потому что роли продолжают интерпретировать одну и ту же систему по-разному. Обращённый к студентам слой [[personalized-learning|персонализации]] и обращённая к преподавателям панель добросовестности — одни и те же данные, увиденные с двух позиций, и конфликт повторяется всякий раз, когда одну из них настраивают.
 
 **«Идентичность между аудиториями означает, что одно сообщение может обслужить их все.»** Коммуникация между аудиториями требует переводить одно и то же решение в разные термины, не искажая его, — а это больше, чем переписать одно сообщение четырьмя способами.
-
-## Связанные концепции
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — кто имеет притязание на институциональные решения о поддержке с ИИ
-
-## Связанные статьи
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,12 +46,3 @@ Owston (2026), একজন ডেভেলপার হিসেবে লি�
 ## টীকা ও সতর্কতা
 
 দুটি অ্যাপই বিনামূল্যে এবং কোনো ব্যক্তিগত তথ্য চায় না, কিন্তু "ব্যক্তিগত ও বেনামি" আর "ডেটা নেই" এক কথা নয়: Contact North-এর নীতি বলে তারা ChatGPT মিথস্ক্রিয়া-লগ ও Google Analytics ডেটা সংগ্রহ করে, কানাডার সার্ভারে সংরক্ষণ করে, OpenAI-কে তা দিয়ে প্রশিক্ষণের অনুমতি দেয় না, এবং মিথস্ক্রিয়া-ডেটা OpenAI-এর সঙ্গে শেয়ার করে, যা তা 30 দিন পর্যন্ত ধরে রাখে। অভিভাবক বা তত্ত্বাবধায়কের অনুমতি ছাড়া 18 বছরের কম ব্যবহারকারীদের জন্য AI Tutor Pro সুপারিশ করা হয় না। বিক্রেতার মিথস্ক্রিয়া-সংখ্যা তাদের নিজেদের বিপণন-পরিসংখ্যান, স্বাধীন ব্যবহার-ডেটা নয়, আর Slide Builder-এ beta লেবেলের অর্থ শ্রেণিকক্ষে ব্যবহারের আগে তার আউটপুট যাচাই করা উচিত। কোনো ওপেন-সোর্স লাইসেন্স ঘোষিত নেই, তাই কোডটি প্রাতিষ্ঠানিক পরিবর্তনের জন্য উপলব্ধ নয়।
-
-## সংযুক্ত ধারণা
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

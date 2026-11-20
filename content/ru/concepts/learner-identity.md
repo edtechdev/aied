@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -89,41 +91,3 @@ ai_assist:
 **«Помощь ИИ снижает барьеры и потому расширяет участие.»** Она может снизить барьер к производству работы, одновременно сужая барьер к притязанию на авторство. Студент, сдающий беглый артефакт, который он не создавал, получил доступ к результату и лишился признания, строящего идентичность за ним.
 
 **«Признание идентичности учащегося — вопрос репрезентации в содержании.»** Репрезентация важна, а признание осуществляется в практике: чьи вопросы подхватывают, чей вклад засчитывают и кого считают способным. [[curriculum-design|Учебный план]] может быть репрезентативным и всё равно отказывать в признании, которое требуется для формирования идентичности.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: обобщающая концепция для всего, что связано со стороной учащегося
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Связанные статьи
-
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 студентов бакалавриата о том, что они продолжают делать сами, и почему цель редко это решает
-
-- [[guarded-adoption-genai-higher-education-2026]] — Осторожное внедрение генеративного ИИ в высшем образовании
-- [[t2i-competence-paradox-2026]] — Парадокс компетентности: творческая идентичность при использовании генеративного ИИ для создания изображений по тексту
-- [[shame-guilt-ai-regulation-computing-education]] — Стыд и вина как социальные регуляторы использования ИИ
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Адаптивные способности для жизнеспособной профессиональной идентичности в будущем генеративного ИИ
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Педагогический симбиоз и постгуманистический учащийся
-- [[ai-pedagogical-accompaniment-amico]] — Педагогическое сопровождение с применением ИИ, поддерживающее STEM-идентичность
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Проектирование аутентичного оценивания
-- [[paternalistic-filter-llm-history-education]] — Патерналистское использование ИИ и идентичность студентов в преподавании истории
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Генеративный ИИ как кризис идентичности для профессорско-преподавательского состава (идентичность преподавателя)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Подготовка преподавателей на основе TPK и профессиональная идентичность
-- [[genai-professionalization-metaphors-2026]] — Концептуализации генеративного ИИ и профессиональная идентичность студентов
-
-- [[synthetic-position-self-authorship-2026]] — Приостановка авторства: делегированное авторство как «я», плотно озвученное, но не имеющее автора (концептуальный анализ)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? Как вайб-кодинг обменивает коллективное разнообразие на индивидуальную креативность

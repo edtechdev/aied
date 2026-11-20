@@ -29,6 +29,8 @@ ai_assist:
 translation_of: concepts/oral-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -93,34 +95,3 @@ Anche la ragione d'integrità dell'orale ha un limite temporale: [[corbin-ai-gla
 - **"La valutazione orale non è scalabile."** Nello [[code-review-genai-cs1|studio CS1 sul colloquio orale di revisione del codice]], **interviste settimanali di quindici minuti portavano il settanta per cento del voto di ogni elaborato**, e i caratteri incollati rispetto al totale restavano comunque informativi. Il costo è reale e il progetto è attuabile alla scala del corso.
 - **"Gli esami orali sono più indulgenti di quelli scritti."** Nel pilota riportato, i punteggi **superavano quelli dei test a scelta multipla in presenza: mediana del midterm 92,5 contro 70 (p < ,001) e mediana del finale 94,2 contro 86,4 (p = ,002)**. La valutazione orale non era l'opzione indulgente.
 - **"Un incontro simulato equivale ai casi a divulgazione progressiva."** In [[ai-standardized-patient-scaffolding-medical-2026|un RCT con cento studenti di medicina del terzo anno]] il sistema con paziente simulato è stato confrontato **con materiale di caso a divulgazione progressiva** — un test diretto dell'equivalenza anziché un'assunzione della stessa.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Sequenze di verifica orali e di viva voce, e cosa dimostrano e non dimostrano
-- [[assessment]] — il campo più ampio in cui si colloca questo formato
-- [[authentic-assessment]] — la tradizione progettuale che fonda il caso dell'integrità
-- [[assessment-validity]] — ciò che un formato può e non può pretendere di misurare
-- [[academic-integrity]] — la pressione che ha riportato gli orali alla ribalta
-- [[automated-assessment]] — erogazione e punteggio automatici della performance orale
-- [[ai-detection]] — la risposta alternativa, e perché è più debole
-- [[speech-and-voice-technologies]] — la pipeline del parlato su cui gira un sistema orale
-- [[multimodal]] — gesto e parlato come evidenza combinata
-- [[anxiety-and-stress]] — il costo affettivo della performance dal vivo
-- [[feedback]] — ciò che un viva voce dice a chi apprende sulla propria comprensione
-- [[higher-ed]] — il contesto da cui proviene quasi tutta questa evidenza
-
-## Articoli collegati
-- [[ai-second-language-listening-speaking-assessment-2025]] — I compiti dialogici non ramificati dell'IA disallineano le richieste del compito dal costrutto del parlato
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — I viva voce dal vivo non sono più immuni: occhiali e auricolari con IA consegnano suggerimenti nascosti in tempo reale (Corbin, Sharpe & Dawson 2026)
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[assessment-feedback-trilemma-model-2026]] — Nega a ogni formato una posizione fissa e riformula la fattibilità come priorità educativa

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -40,6 +41,3 @@ ai_assist:
 ## 導入前に知っておくこと
 
 リポジトリには評価プロトコル、`samples/` 内のビフォーアフターの見本、そしてスキルの背後にあるリファレンスファイルが公開されているため、レビューする人は主張を鵜呑みにせず、ルールがどう振る舞うかを確かめられます。ここで紹介しているページは、測定された結果を繰り返し述べることはしません。著者は Addy Osmani、ライセンスは MIT で、特定の機関の製品ではなく独立した作品です。若く活発なプロジェクトで、2026 年 8 月の開始以降 54 コミット、3 回のリリース（最新は同年 9 月のバージョン 0.2.1）、2026 年 9 月時点でスターは約 250、変更を送り込んだ貢献者は 3 名です。スキルの指示は、読み手がすでに使っているエージェントの中に読み込まれるため、[[prompt-engineering|プロンプト設計]] に関するいつもの注意が当てはまります。批評の質は、渡された下書きの質に依存します。
-
-## 関連する概念
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

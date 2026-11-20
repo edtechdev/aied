@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,6 +43,3 @@ Projekti on tarkoituksella malliriippumaton. Se dokumentoi paikalliset Ollama-ma
 ## Huomioita ja varauksia
 
 Ohjelmisto on ilmainen ja [[open-source|avointa lähdekoodia]] MIT-lisenssillä alkuperäisen koodinsa osalta, vaikka kolmannen osapuolen komponentit pitävät omat ehtonsa, ja sen ajaminen tarkoittaa omasta mallipäättelystä maksamista, jos käytät isännöityä mallia. Projekti nimittää itseään opettajien tarkastamaksi betaksi ja sanoo README:ssään suoraan, että sen CI:n läpäiseminen ei osoita opetuksen laatua live-malleilla, mikä on oikea tapa lukea vihreää testisarjaa tällä alalla: se varmentaa ohjelmiston, ei [[pedagogy|pedagogiikkaa]]. Sitä ylläpitää MacxLabs, ja se ottaa vastaan opettajien tarkastamia esimerkkitunteja kontribuutioina.
-
-## Liittyvät käsitteet
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

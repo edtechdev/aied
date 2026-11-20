@@ -33,6 +33,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,7 +45,3 @@ ai_assist:
 ## 채택하기 전에 알아야 할 것
 
 이 플러그인은 설치에 Claude Code와 bash 셸이 필요합니다. PowerShell과 cmd는 설정 스크립트를 실행할 수 없으며, 점수 추이에는 Python 3을 권장합니다. 강좌 데이터는 독자 자신의 기기에 있는 프로젝트 폴더에 남아 있으며, 사용자가 호출하는 Canvas API 호출과 같은 통합을 통해서만 나갑니다. Chrome 확장의 실시간 추론에는 독자 자신의 무료 Google AI Studio API 키가 필요하지만, 시뮬레이션 모드는 키 없이도 시연할 수 있습니다. 프로젝트는 버전 3.5.1.0에서 스스로를 베타로 표시하며 마이너 버전 간 호환성이 깨지는 변경을 경고하고, 명명된 저자가 아니라 savvides GitHub 계정으로 발행됩니다.
-
-## 연결된 개념
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

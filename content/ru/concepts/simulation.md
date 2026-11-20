@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -74,11 +76,9 @@ ai_assist:
 
 - **Учебная программа — единица, определяющая ценность моделирования.** Модель «учебного моста» (Curricular Bridge Model) утверждает, что отдача от моделирования зависит от того, как опыт выстроен последовательно по всей программе — повторное использование контекста, изменение требований к рассуждению, данные, питающие продвижение, — а не от достоверности платформы ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 
-
 ### Связи
 
 Моделирование связано с [[active-learning]], [[adaptive-learning]] и [[pedagogical-agent]]. Это механизм опытного и [[constructivist]] обучения, усиливаемый способностью ИИ генерировать адаптивные, реалистичные среды практики.
-
 
 Обучение на основе моделирования теперь включает синтетических пациентов, учащихся и партнёров по ролевой игре, и [[ai-avatars-and-synthetic-instructors]] утверждает, что вопросы их согласия, раскрытия и достоверности личности — не то же самое, что вопросы достоверности оборудования или сценария.
 
@@ -88,54 +88,8 @@ ai_assist:
 
 Рамка работает как тест, а не как каталог. Любую функцию решают три вопроса: что перейдёт агенту, сможет ли преподаватель исправить сбой и кого можно попросить отвечать за слова агента. Функция, у которой нет ответа на третий вопрос, не является кандидатом. В применении к подготовке тест даёт шесть вердиктов — диагностика и логистика делегируемы, заявленные цели делегируемы частично, а фикциональный контракт, психологическая безопасность и условия оценивания отклонены. В дебрифинге работа выделяет три позиции, которые может занимать агент, — эксперт, персонаж и майевтическая, — и сообщает о режиме отказа майевтической позиции: агент, построенный учить, никогда не отвечая, оставлял студентов в разочаровании. Это рамка проектирования, а не исследование результатов. Авторы указывают, что данных для исследования не собиралось, а описанное внедрение — пилот, прочитанный через собственные наблюдения преподавателя.
 
-
 ## Распространённые заблуждения
 
 - **«Моделирование дешевле и потому второсортно».** Автономные симуляторы-пилоты на [[llm|LLM]] **заменяют специалистов-людей, исполняющих роли, которые укомплектовывают симуляции управления воздушным движением, снимая узкое место пропускной способности подготовки** — ограничением было кадровое обеспечение, а не достоверность. Там, где человеческих исполнителей ролей не хватает, симуляция на LLM — не замена, а единственный доступный вариант.
 - **«Симуляторы должны вести себя как средние случаи».** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] соединяет агент-политику с **симуляторами пациентов на LLM, построенными вести себя состязательно**. Симулятор, спроектированный кооперативным, делает практику учащегося проще клиники, а это противоположность тому, что нужно подготовке.
 - **«Сценарные сценарии учат принятию решений в условиях неопределённости».** Контекстные мультиагентные агенты SupplyNet порождают **динамику, возникающую из решений учащегося, а не сценарно заданную**. Сценарные сценарии репетируют известный путь; эмерджентные репетируют решение.
-
-## Связанные концепции
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Образование по химии и ИИ: лаборатории, формирующее оценивание, пределы LLM, философия экспериментирования
-- [[biology-education]] — Образование по биологии и ИИ: ассистенты лабораторных занятий, ИИ-грамотность в биологии, критическое мышление, специализированные инструменты
-- [[ai-technologies]] — Зонтичная категория: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентность)
-- [[virtual-and-augmented-reality]] — модель, а не модальность — иммерсивные среды обычно рендерят моделирование
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Связанные статьи
-- [[learner-agency-ai-simulation-2026]] — Контроль параметров и необязательный ИИ-агент в моделировании сложных систем: прирост отслеживал осуществление, а не доступ
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Адаптивные виртуальные пациенты для подготовки в психотерапии
-- [[ai-enabled-serious-games]] — Серьёзные игры с поддержкой ИИ
-- [[anvil-ai-educational-animations]] — ANVIL: аналогии и видео для преподавателей
-- [[astra-atco-training-simulator]] — ASTRA: моделирующая программа обучения ATCO
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: визуальное исследовательское обучение
-- [[medeasy-ai-standardized-patients]] — MedEASY: ИИ-стандартизированные пациенты
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Опосредованная роботами ролевая игра для вмешательства свидетелей (прикладная драматургия)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Систематический обзор GenAI в образовании здравоохранения на основе сценариев (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Рамка CAIS-GBL для ИИ-разговорных агентов в бизнес-играх с моделированием (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Дообученные специфичные для участников агенты LLM, воспроизводящие диалоги совместного решения задач (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Синтетический бенчмарк ASTRA для мультиагентного тьюторства и сбалансированного по участию сотрудничества
-- [[simulation-assisted-drone-learning-stem-2026]] — Обучение с моделированием на базе дронов с совместно спроектированными преподавателем и ИИ опорами
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Моделирование сестринского дела на основе ИИ: смешаннометодный систематический обзор (пробел аутентичности, ступенчатый континуум)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Масштабируемое обучение клинической коммуникации на основе ИИ и автоматизированное оценивание
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Цифровые двойники в образовании STEM: прототипы все работали, прирост в обучении — в основном нет
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Виртуальная лаборатория с поддержкой ИИ для перевёрнутого обучения физике: влияние на успеваемость, мотивацию и когнитивную нагрузку школьников
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Четырёхуровневая рамка, разделяющая представляемую практику, моделируемую ситуацию, агентность и адаптацию, и оркестровку
-
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — От внедрения технологии к согласованности учебной программы: технологически усиленное моделирование как мост в образовании медицинских профессий
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Что преподаватель не может делегировать разговорному агенту на протяжении цикла моделирования

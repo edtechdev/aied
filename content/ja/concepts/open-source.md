@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -86,47 +88,3 @@ OmniEdu は重みだけでなくパイプライン全体を公開しています
 **「クローズドなフロンティアモデルは単純に優れているので、オープンな代替は後退である。」** 差はその想定が示すより狭いものです。[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND、実際のチリの教員試験問題から構築）は97モデルにわたり、オープンウェイトの**DeepSeek R1は86.65%に到達**し、トップ10は主にクローズドな推論モデルで構成されていました。コストと精度の比較はさらにオープンの方向へ進みます。したがって開放性に残る論拠は、能力の犠牲ではなく、制御と監査可能性についてです。
 
 **「重みを公開することは仕事を公開することである。」** より強いオープンな貢献はパイプラインを公開します。OmniEduは最終的な重みだけではなく、69,999例の混合に対する能力均衡型の教師あり学習を公開し、オープンな4B/9B/27BのK–12モデル群のすべての規模を持ち上げ、調整後の4BモデルはMathTutorBenchの[[scaffolding|足場かけ]]性能で**55ポイント**の伸びを得ました。[[singh-eduqwen-pedagogical-rl-2026|EduQwen]]も同様に、440件の採掘された負例と40,000件の生成応答を含む、強化学習とファインチューニングの手続きを記録しています。レシピのない重みは、方法を再現せずに結果を再現します。
-
-## 関連する概念
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## 関連する記事
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 民生ハードウェア上のオンプレミスの OER AI ナレッジベースアシスタント（Shen et al. 2026）
-- [[oatutor-open-source-adaptive-tutor-2023]] — CC BY の OpenStax コンテンツライブラリを備えた MIT ライセンスの適応的チューター（Pardos et al. 2023）
-- [[singh-eduqwen-pedagogical-rl-2026]] — はるかに大きな独自システムを上回るオープンな 32B の教授法モデル（Singh et al. 2026）
-- [[lata-ferpa-compliant-local-llm-autograder]] — 差し替え式で FERPA 準拠のローカル LLM 自動採点器
-- [[programming-its]] — Python の ITS における GDPR/EU AI Act 準拠のための自己ホストされたオープンウェイト LLM
-- [[aiawe-automated-writing-evaluation]] — 自動作文評価のための LoRA 適応のオープンウェイトモデル
-- [[stanbkt-bayesian-knowledge-tracing]] — 完全なベイズ的知識トレーシングのためのオープンな Python パッケージ
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 学習者メモリを備えた完全にオープンソースのエージェント化したチューリングフレームワーク
-- [[vismatic-secure-sandbox-cs-education]] — 過程指向の評価のためのオープンなコンテナ化サンドボックス
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — オープンなコードベースを備えた情動を認識する数学のチューター
-- [[cdpk-pedagogy-benchmark-llms]] — 97 モデルにわたるオープンな教授法ベンチマークとコスト・精度フロンティア
-- [[astra-multi-agent-tutoring-benchmark-2026]] — トレースに基づくマルチエージェントのチューリング評価のためのオープンなデータセットとプロトタイプ
-- [[mllm-scientific-visualization-literacy]] — 視覚化リテラシーで人間のベースラインを下回るオープンなモデル
-- [[iks-instruct-dataset-indian-knowledge]] — 文化的に接地した教授のためのオープンな多言語データセット
-- [[aied-carbon-footprint-reporting]] — LLM の環境コストを報告するためのオープンソースの方法
-- [[egai-power-systems-education]] — 工学 AI のためのオープンで実行可能なモジュールライブラリ
-
-- [[mooc-to-maic]] — LLM 駆動のコース生成と変わりゆくコース制作の経済性
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：学習と教授のためのオープンな基盤モデル

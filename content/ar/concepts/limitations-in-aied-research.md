@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -129,48 +131,3 @@ ai_assist:
 - **"أقسام الحدود حشو متكرّر."** الحدود المنهجية **قابلة للقياس لا انطباعية**: في مراجعة نقدية لـ **80 دراسة في التفاعل بين الإنسان والحاسوب** عن التفكير النقدي بالذكاء الاصطناعي، **لم تُشغّل 42 منها (52%) أي مجموعة ضابطة**. والعدد الدقيق هو ما يجعل الحد قابلاً للعمل عليه.
 - **"عدم التجانس رقم واحد يمكن اقتباسه."** تُظهر المراجعة نفسها مخاطرة إبلاغ: يُقتبس عدم التجانس بـ **I² = 82.98% تحت نموذج الأثر الثابت و I² = 15.75% تحت نموذج الآثار العشوائية**. فالبيانات نفسها تُنتج حكاية من تسع نقاط أو حكاية من نقطتين بحسب النموذج المختار، لذا فإن I² مقتبساً بلا نموذجه غير قابل للتفسير.
 - **"الأثر الكبير المُبلَّغ عنه هو الرقم الذي يُوثق به."** العنوان البارز مثل أثر مستمد من **30 طالباً في مقرر واحد في موقع واحد** هو الشكل الشائع للادعاء الهشّ، وعدد الدراسات بلا مجموعات ضابطة يُظهر كم مرة يبقى هذا الهشاشة غير مُبلَّغ عنها.
-
-## المفاهيم المرتبطة
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — تطوير النظرية في التعليم بالذكاء الاصطناعي
-
-## المقالات المرتبطة
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — روبوتات المحادثة بالذكاء الاصطناعي في التعليم العالي: مقارنة التوقعات بالأدلة (ثوني وفراير 2026)
-
-- [[ground-truth-reliability-aied]] — موثوقية وصحة الحقيقة الأساسية في التقييم
-- [[ai-literacy-assessment-misalignment]] — ثقافة الذكاء الاصطناعي المُبلَّغ عنها ذاتياً مقابل القائمة على الأداء
-- [[machines-misread-pedagogical-quality]] — لماذا تُخطئ الآلات في قراءة الجودة البيداغوجية
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — الحدود النقدية للمدرّسين الآليين واستخدام النظرية
-- [[cross-dataset-bloom-question-classification]] — تصنيف بلوم وتصنيف الأسئلة
-- [[eeg-familiarity-automated-assessment-2026]] — أتمتة تقويم المتعلّم: التنبؤ بالإلف القائم على تخطيط الدماغ الكهربائي
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT في التعليم: أثر يبحث عن سبب (نقد المقارنة بين الوسائط)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — تحليل فوقي-بعدي: آثار الذكاء الاصطناعي المُعدَّلة بسبب تحيّز النشر نحو ثلث الحجم المُبلَّغ عنه
-- [[oneill-presumed-effective-meta-analysis-2026]] — "يُفترض أنه فعّال": تدقيق جنائي لـ 14 تحليلاً بعدياً في التعليم بالذكاء الاصطناعي
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: إطار إبلاغ تجريبي للمراجعات المنهجية المساعدة بالذكاء الاصطناعي
-- [[frontier-models-physics-benchmark-audit-2026]] — ما مدى جودة النماذج الحدودية في الفيزياء؟ إعادة تقييم من خبراء تكشف تقييمات معطلة وإشباعاً شبه كامل لأبرز المعايير
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — معايير الإدراج تُستخدم كعتبة للصرامة، ورقم لعدم التجانس يتغير بتغير النموذج (دوغان وزملاؤه 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — تجربة صفية عنقودية العشوائية لم يبلغ مخرج الأداء فيها دلالة إحصائية (روكر وبيكر-غينشو 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس البشري والتدريس بالذكاء الاصطناعي يُثمران مكاسب تعلّم مكافئة في GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — تقييم تركيز التغذية الراجعة والقابلية للتكيّف البيداغوجي في التغذية الراجعة المُولَّدة بالنماذج اللغوية الكبيرة على كتابة الطلاب
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: مخططات قائمة على التأكيد لترميز قابل للتدقيق للحوارات التعليمية
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — من تصنيف المشاعر إلى تغذية راجعة قابلة للتنفيذ ومسؤولة: مراجعة نطاق وخريطة أدلة لمعالجة اللغة الطبيعية في تقييم الطلاب للتدريس، 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — ما تُغفله مقاييس الإخلاص: فحص بنيوي للبيانات التعليمية الاصطناعية
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — مراجعة نطاق لـ 195 دراسة في تعليم المعلّمين يُشكّل فيها تصميم نصّ البحث الترددات المُبلَّغ عنها
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — مسح متعدد الجنسيات لمعتقدات معلّمي مرحلة K-12: بنود مُترجَمة آلياً، ومقاييس قلق ببنود مفردة، ولا اختبار ثبات
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — مراجعة منهجية لـ 103 دراسة في التعليم العالي والذكاء الاصطناعي التوليدي: مكاسب مشروطة بنسبة 56%، ودرجات تُخفي تغيّر العملية (هاوي وسمحا 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — زيادة البيانات يمكن أن تصنع الرقم البارز

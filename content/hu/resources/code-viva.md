@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -40,7 +41,3 @@ Programozási kurzusok oktatói, akik bizonyítékot akarnak arra, hogy a diák 
 ## Megjegyzések és fenntartások
 
 Minden a böngészőben fut: a kurzus helyi tárolóban ül JSON-exporttal, a kérdések a link azon részében utaznak, amelyet a böngészők nem küldenek el a szervereknek, a válaszok pedig csak olyan kódként jönnek vissza, amelyet a diákok elküldeni választanak, így diákadat nem jut harmadik félhez. A kérdésgenerátor szabályalapú, nem modellvezérelt. Az eszköz saját beszámolója szerint a kódolvasója heurisztikus, így szokatlan formázás vagy makrók elrejthetnek egy függvényt, és egy pontszám jutalmazhatja a szókincs ismeretét a kód megértése helyett – ezért javaslatok a pontszámok, amelyeket az oktató hagy jóvá, és ezért tanácsolja az alacsony tétet. Licenc és forrásrepó nem kerül kiadásra, és mivel a linkek hordozzák a kérdéseket, néhány kilobájtra futnak – elég hosszúra, hogy egy tanuláskezelő üzenetmezőbe tördelődjenek.
-
-## Kapcsolódó fogalmak
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

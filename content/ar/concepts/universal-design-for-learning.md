@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -96,33 +98,3 @@ ai_assist:
 **«التصميم الشامل للتعلّم يعني التصميم للمتعلّم المتوسط بعناية أكبر.»** الادعاء الجوهري هو العكس: تباين المتعلّمين هو القاعدة لا الاستثناء، لذا يوفّر التصميم مسارات كثيرة من البداية بدل إصلاح مسار واحد لمن يتعثّر. والترقيع هو ما يوجد التصميم الشامل ليحلّ محلّه، والمسار الواحد المحكم الضبط يبقى مسارًا واحدًا.
 
 **«الذكاء الاصطناعي يجعل التصميم الشامل تلقائيًا لأنه يستطيع توليد صيغ بديلة.»** إنه يجعل مبدأ التمثيل رخيصًا ويترك المشاركة والتعبير دون مساس. فتحويل النص إلى صوت يعالج واحدًا من ثلاثة وسائل؛ وقد صار بإمكان المقرر أن يكون متعدد الصيغ كليًا ومع ذلك يطالب كل طالب بإثبات التعلّم بالطريقة الواحدة نفسها.
-
-## المفاهيم المرتبطة
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## المقالات المرتبطة
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — الذكاء الاصطناعي والتصميم الشامل للتعلّم في مؤسسات التعليم العالي الكويتية: نحو إطار مُمكَّن بالذكاء الاصطناعي للتعليم الشامل

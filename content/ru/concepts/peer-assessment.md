@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -103,49 +105,3 @@ ai_assist:
 - **«Обнаружение списывания — вот для чего нужно [[oral-assessment|устное оценивание]].»** Измеренными результатами были понимание и мотивация, а не сокращение вставленного текста. Судить дизайн по его доле обнаружения — значит неверно прочесть то, чего он достиг.
 - **«Взаимное рецензирование — дешёвая замена обратной связи преподавателя.»** Механизм — [[learning-by-teaching|обучение через преподавание]], и он проявляется даже у машин: дискурс, подобный взаимному обучению, среди более чем **2.4 миллионов ИИ-агентов** был в основном **утверждением, а не исследованием**. Производить критику — иной акт, чем её получать.
 - **Рефлексивные взаимные и само-формы как запись, стоящая за групповой оценкой.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] использовали одну взаимно-рефлексивную форму на каждого члена команды плюс одну само-рефлексивную форму на студента в аспирантском блоке по управлению бизнес-проектами, наряду с 30-минутной встречей с каждой командой, где членов спрашивали, был ли их вклад оригинальным. Формы не оценивались как обмен обратной связью. Они были поштучными доказательствами, позволявшими преподавателю защитить индивидуальную оценку внутри 40% командного оценивания. Рост оценки в рамках подхода с 27/40 до 31/40 смешан с приходом нового преподавателя, а его заявление о честности не квантифицировано, поэтому переносимая часть — структура учёта, а не размер эффекта.
-
-## Связанные концепты
-
-- [[pedagogical-patterns]] — PAIRR и сочетание взаимной обратной связи с ИИ: последовательности и их сравнительные доказательства
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Связанные статьи
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Интегрированная обратная связь ИИ плюс взаимная повысила все три измерения вовлечённости и все четыре измерения письма IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — Сравнение оценивания ChatGPT, однокурсника и преподавателя по уровням качества проекта (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Взаимное и ИИ-рецензирование + рефлексия (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — Системы взаимной обратной связи на ИИ
-- [[ai-internal-feedback-evaluative-judgments]] — Раскрытие развития оценочных суждений у студентов бакалавриата
-- [[learner-centered-feedback-ai]] — Улучшение центрированной на учащемся обратной связи с помощью ИИ
-- [[genai-linguistic-diversity-academic-writing]] — Генеративный ИИ и лингвистическое разнообразие в академическом письме
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR на курсе делового письма: взаимное рецензирование, обратная связь чат-бота, рефлексия (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI против человеческих однокурсников для скаффолдинга саморегулируемой обратной связи и грамотности в обратной связи (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI как Тренер и Синтезатор во взаимной обратной связи по говорению в EFL (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Многосайтовый эксперимент, сравнивающий обратную связь только от однокурсников, прямую, рефлексивную и гибридную GenAI (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Взаимная обратная связь GenAI со скаффолдингом промптов в коллаборативной аргументации (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Автономия в опосредованном GenAI групповом оценивании: сотрудничество, сдержанность, неосуществление (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Собеседования по устному разбору кода как снижение вреда от GenAI в CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Автоматический мультимодальный коучинг презентаций как масштабируемая альтернатива взаимной обратной связи (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Сгенерированные ИИ резюме обсуждений расширяют экспозицию однокурсников в онлайн-форумах (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Влияние однокурсников и реляционное доверие в раскрытии GenAI студентами (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Систематический обзор ЛЛМ для критического мышления, командной работы и решения проблем (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Похожий на взаимное обучение дискурс среди 2,4 миллиона агентов ИИ (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Аудит 14 метаанализов AIED и 59 первичных исследований (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Обратная связь преподавателя в сравнении с поддерживаемой ИИ взаимной обратной связью в письме на L2: количество, фокус и траектории улучшения за две задачи (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — само- и взаимно-рефлексивные формы как поштучные доказательства за групповой оценкой (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Словарь ролей от 654 студентов: тьютор 28,6%, коллаборатор 23,1%, инструмент 9,9%, робот 7,7%

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -124,37 +126,3 @@ O risco de exagero é real nas duas direções. Um professor que trata uma metá
 - **"Metáforas são ilustrações neutras."** Toda metáfora seleciona algumas características e esconde outras. A escolha carrega pressupostos sobre agência, confiança e responsabilidade.
 - **"Analogias geradas por IA estão prontas para uso."** Analogias geradas podem ser estruturalmente erradas, culturalmente estreitas ou pedagogicamente inadequadas. Elas precisam de revisão do professor ou de uma tarefa de crítica pelos estudantes.
 - **"Se os estudantes gostaram da analogia, eles aprenderam o conceito."** Engajamento e aprendizagem são resultados separados. A base de evidências aqui é majoritariamente qualitativa e não estabelece ganho de aprendizagem.
-
-## Conceitos conectados
-
-- [[ai-literacy]] — o guarda-chuva do letramento crítico em IA e do ensino baseado em metáforas.
-- [[critical-thinking]] — a crítica de analogias como forma de raciocínio estrutural.
-- [[misconceptions]] — analogias falhas como fonte de concepções errôneas duradouras.
-- [[student-ai-interaction]] — como os estudantes interpretam e auditam explicações de IA.
-- [[pedagogical-agent]] — tutores de IA que geram explicações ou analogias.
-- [[learning-design]] — selecionar e sequenciar materiais baseados em analogias.
-- [[educational-development]] — eliciação de metáforas no desenvolvimento docente.
-- [[engineering-education]] — metáforas de docentes e estudantes na engenharia.
-- [[cs-education]] — uso e crítica de analogias na educação em computação.
-- [[cognitive-offloading]] — metáforas de ferramenta e de assistente e seus riscos.
-- [[trust-calibration]] — papéis antropomórficos e confiança mal colocada.
-- [[equity-in-ai-education]] — de quem os domínios-fonte contam como familiares.
-- [[teacher-role]] — o julgamento do instrutor sobre explicações geradas por IA.
-- [[explainable-ai]] — explicação de sistema versus analogia pedagógica.
-- [[student-engagement]] — efeitos de engajamento de analogias personalizadas.
-- [[higher-ed]] — o cenário da maioria dos estudos deste agrupamento.
-
-## Artigos conectados
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Quatro metáforas e critérios para ensinar letramento crítico em IA
-- [[student-reception-genai-analogies-computing-2026]] — Estudantes auditam analogias geradas por IA generativa e reparam mapeamentos quebrados
-- [[fear-awe-genai-metaphor-workshops-2025]] — Oficinas de análise de metáforas com estudantes, acadêmicos e equipes
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Metáforas de docentes de engenharia constroem e restringem o entendimento da IA
-- [[genai-professionalization-metaphors-2026]] — Conceitualizações metafóricas de estudantes sobre IA generativa e aprendizagem profissional
-- [[thermomix-genai-education-analogy-2026]] — Uma analogia de eletrodoméstico de cozinha para delegação e aprendizagem com IA
-- [[anvil-ai-educational-animations]] — Analogias geradas por IA e animações instrucionais para computação
-- [[ai-engineering-education-balancing-act]] — As metáforas de "oráculo" e "tutor" dos estudantes excedem as capacidades do LLM
-- [[code-anchor-multi-view-visualization]] — Andaimes de visualização metafórica e seu problema de legitimidade
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — A metáfora da "máquina de vender feedback" de uma estudante como evidência de letramento
-- [[daoism-ai-education-philosophy-2026]] — "Zhenren" como contrametáfora para a IA na educação
-- [[rodak-hire-ai-future-focused-literacy-2026]] — A metáfora do assistente contratado e um escopo de trabalho escrito pelo estudante

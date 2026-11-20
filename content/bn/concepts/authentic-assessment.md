@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -78,7 +80,6 @@ ai_assist:
 
 জ্ঞানভিত্তি যুক্তি দেয় প্রামাণিকতাকে পুলিশিং নয়, নকশা করতে হবে, আর [[teacher-educators-ai-integration-preservice-2026|গোল্ডস্টাইন, মারে-হাজ ও জিদান (2026)]] অনুশীলন থেকে পাল্টা-প্রমাণ জোগান: একটি আস্থা-সংকটের পর, যখন প্রাক-সেবা শিক্ষকেরা কাঁচা এআই-উৎপাদিত কাজ নিজেদের নামে জমা দেন, সাতটি ইসরায়েলি কলেজের শিক্ষক-শিক্ষকেরা প্রক্রিয়া-প্রমাণ (প্রম্পট, নথির সংস্করণ-ইতিহাস, পর্যবেক্ষিত দলীয় অবদান) ও শ্রেণিকক্ষ-কর্মক্ষমতার চারপাশে মূল্যায়ন পুনর্নকশা করেন — কিন্তু কয়েকজন শেষ উপায় হিসেবে তত্ত্বাবধানে করা পরীক্ষা ও থিসিসে প্রত্যাশিত মৌখিক পক্ষসমর্থনে ফিরে যাওয়ার কথাও বলেন, একজন অংশগ্রহণকারী পরীক্ষায় ফেরাকে ব্যক্তিগতভাবে যন্ত্রণাদায়ক অথচ অনিবার্য বলেন। নকশা-প্রথম অবস্থানের বিপরীতে পড়লে এই ফলটি সমাধান নয়, একটি ব্যর্থতার ধাঁচ চিহ্নিত করে: যেখানে প্রামাণিকতা আগেভাগে পুনর্নকশা করা হয় না, সেখানে অ-মূল্যায়নযোগ্য জমাকৃত কাজের ব্যবহারিক উত্তর হলো নিয়ন্ত্রণ পুনঃপ্রতিষ্ঠা — অন্য নামে নজরদারি — যা সেই বিন্যাসগুলোই ফিরিয়ে আনে যা প্রামাণিক-মূল্যায়ন সাহিত্য ছাড়িয়ে যেতে চায়। এটি বিকল্পের অনুভূত খরচও দেখায়: অংশগ্রহণকারীরা রিপোর্ট করেন তাদের বাড়িতে-করা লিখিত মূল্যায়ন আর শিখনের প্রমাণ দিতে পারে না, আর প্রক্রিয়া-নথিকরণ প্রতিষ্ঠা করতে সত্যিকারের পরিশ্রম লাগে।
 
-
 দ্বিতীয় ব্যর্থতার ধাঁচ বসে পুনর্নকশার ভেতরেই: পাঁচটি অনলাইন ভাষা-[[pedagogy|শিক্ষণ পদ্ধতি]] জুড়ে প্রামাণিকতা-সম্পর্কিত টানাপোড়েন শিক্ষকদের বিবরণে প্রভাবশালী (20-এর মধ্যে 11), যার মধ্যে আছে কাজের বাস্তবতার ক্ষয় — এআই-প্রতিরোধী করার জন্য পুনর্নকশা করা কার্যক্রম, প্রামাণিক নয় ([[ai-ethics-tensions-online-pedagogy-2026|বাওয়ি ও খান (2026)]]).
 
 এই পশ্চাদপসরণের একটি প্রমাণগত খরচ আছে যা মামলা-নথির প্রমাণ দৃশ্যমান করে। [[munoz-misconduct-allegation-evidence-2026|মুনোজ প্রমুখ (2026)]] 1,162টি জেনারেটিভ-এআই অসদাচরণ-অভিযোগ কোড করেন এবং দেখেন সবচেয়ে জোরালো প্রমাণ-ধরন তদন্ত বা তত্ত্বাবধান তৈরি করে, অভিযোগ নয়, আর খসড়া, তত্ত্বাবধান-সভা ও উপস্থাপনার মতো প্রক্রিয়া-প্রমাণ কেবল সেখানেই দেখা যায় যেখানে সেই চর্চা আগেই আছে — তাই অ-পুনর্নকশিত মূল্যায়নে এই সাহিত্য যে প্রক্রিয়া-প্রমাণের সুপারিশ করে তা কেবল পাওয়া যায় না, আর মামলাগুলো দুর্বলতর শ্রেণির উপর দাঁড়ায়। তার জায়গা নেয় তাদের সংগ্রহে সবচেয়ে দুর্বল উপাদান: [[ai-detection|শনাক্তকারী]]-ফলাফল যে-কোনো শ্রেণির মধ্যে সবচেয়ে কম প্রমাণসূচক রেটিং পায়, আর [[hadra-ai-detector-accuracy-efl-2026|হাদ্রা প্রমুখ (2026)]] দেখান কেন — 192টি লেখায় ম্যাক্রো-নির্ভুলতা 0.69 (Originality) ও 0.61 (Turnitin), মানব–এআই সংকর লেখায় প্রায় সম্পূর্ণ ব্যর্থতা, আর ইএফএল শিক্ষার্থীর লেখাকে এআই হিসেবে ভুল পড়ার সীমান্তবর্তী প্রবণতা। [[wright-transcription-not-generation-2026|রাইট (2026)]] নিয়ম-নকশার মাত্রা যোগ করেন: প্ল্যাটফর্ম-পরিচয় দিয়ে লেখা নিষেধাজ্ঞা, কার্য দিয়ে নয়, সংজ্ঞাগত দুর্ঘটনায় অতিরিক্ত-ব্যাপক হয়ে পড়ে, তাই একটি পুলিশি বিন্যাস এমন শিক্ষার্থীকে দণ্ড দিতে পারে যে নিয়মটি যা প্রতিরোধ করতে নকশা করা হয়েছিল তা-ই করেনি, আর সবচেয়ে বেশি আঘাত করে সেই শিক্ষার্থীদের যারা [[accessibility|প্রবেশগম্যতার]] জন্য প্রতিলিপি-হাতিয়ারের উপর নির্ভর করত। একসঙ্গে পড়লে, পশ্চাদপসরণ প্রক্রিয়া-প্রমাণের জায়গায় সবচেয়ে কম প্রমাণসূচক প্রমাণ বসায় — যে প্রক্রিয়া-প্রমাণ প্রামাণিক নকশা প্রথম থেকেই তৈরি করত।
@@ -105,65 +106,3 @@ ai_assist:
 - **"প্রামাণিকতা মানে বাস্তবসম্মত কাজ।"** [[zhan-boud-du-authentic-assessment-scoping-review-2025|ঝান, বৌদ ও দু-এর (2025)]] **37টি অভিজ্ঞতাভিত্তিক গবেষণার (2000-2024)** [[meta-analysis-systematic-review|স্কোপিং পর্যালোচনা]] একটি **ছয়-মাত্রিক** নকশা-মডেল প্রস্তাব করে, আর **37টির মধ্যে কেবল 3টি গবেষণা সামাজিক প্রামাণিকতা** নিয়ে কাজ করেছে — মূল্যায়ন শিক্ষার্থীকে সমাজ-রূপান্তরে অবদান রাখতে সাহায্য করে কি না। বাস্তবতা একটি মাত্রা, আর সবচেয়ে অগ্রসর মাত্রাটি প্রায় অচর্চিত।
 - **"প্রামাণিক মূল্যায়ন এআই প্রতিরোধ করে।"** প্রকাশের মাত্রা মাপা যায় ও বড়: একটি **তিন বছরের মনোবিজ্ঞান ডিগ্রি** **90% উত্তীর্ণযোগ্য** প্রমাণিত হয়, ChatGPT **40টি কোর্সওয়ার্ক-মূল্যায়নের 36টিতে পর্যাপ্ত ফল** দেয়, কেবল বাকি মূল্যায়নগুলো টিকে থাকে। একটি ডিগ্রির বেশিরভাগ মূল্যায়ন এআই-পূরণযোগ্য ছিল।
 - **"কাজ বাস্তব-জগতের হলে পুনর্নকশা ঐচ্ছিক।"** 40-এর মধ্যে 36-এর ফলটি পাওয়া যায় এমন কোর্সওয়ার্কে যার প্রামাণিকতা নিয়ে প্রশ্ন ছিল না বলেই ধরে নেওয়া যায়। কাজের বাস্তবতা এআই-সম্পূর্ণতা থেকে রক্ষা করেনি; যা মূল্যায়িত হয় তার নকশাই রক্ষা করেছে।
-
-## সংযুক্ত ধারণা
-- [[learner-identity]] — বিকশিত শাস্ত্রীয়, পেশাগত, সৃজনশীল ও একাডেমিক শিক্ষার্থী-পরিচয়
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — সমষ্টিগত মূল্যায়ন: এআই-প্রতিরোধী বিন্যাস (মৌখিক, তত্ত্বাবধানে করা, বন্ধ-বই পরীক্ষা)
-- [[arts-and-media-education]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[thapa-lewis-process-oriented-assessment-2026]] — প্রক্রিয়া-কেন্দ্রিক মূল্যায়ন ও জ্ঞানতাত্ত্বিক প্রামাণিকতা: কাজের কী প্রমাণীকরণ করা উচিত
-- [[ivory-psychology-assessment-integrity-2026]] — এআই যা উত্তীর্ণ হতে পারেনি: উপস্থিতি, দৃশ্যমান উপাদান ও শিক্ষার্থীর নিজের তথ্য (আইভরি প্রমুখ 2026)
-- [[paternalistic-filter-llm-history-education]] — ইতিহাস শিক্ষায় পিতৃতান্ত্রিক এআই-ব্যবহার ও শিক্ষার্থী-পরিচয়
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — প্রামাণিক মূল্যায়নের জন্য নকশা: একটি স্কোপিং পর্যালোচনা
-- [[beyond-detection-authentic-assessment-ai-2025]] — শনাক্তকরণের বাইরে: প্রামাণিক মূল্যায়ন
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই যুগে দায়বদ্ধ মূল্যায়ন
-- [[authentic-products-authenticated-processes-2026]] — প্রামাণিক পণ্য, প্রমাণীকৃত প্রক্রিয়া
-- [[tool-invariant-framework-agentic-ai]] — গণনামূলক পদ্ধতি শেখানো ও মূল্যায়নের হাতিয়ার-অপরিবর্তনীয় কাঠামো
-- [[cong-confidence-asag-2026]] — আত্মবিশ্বাস-সচেতন স্বয়ংক্রিয় সংক্ষিপ্ত-উত্তর গ্রেডিং
-- [[llm-fallacy-misattribution]] — এলএলএম-এর ভ্রম ও সামর্থ্যের ভুল-আরোপ
-- [[universities-ai-era-rethinking]] — এআই যুগে বিশ্ববিদ্যালয় নিয়ে পুনর্বিচার
-- [[ssaho-ai-academic-integrity-review-2025]] — এআই-অসদাচরণ মোকাবিলায় বহুমুখী মূল্যায়ন-পদ্ধতি
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — প্রামাণিক, এআই-প্রতিরোধী মূল্যায়ন হিসেবে মৌখিক পরীক্ষা পুনর্বিবেচনা
-- [[roe-assessment-twins-2026]] — GenAI যুগে মূল্যায়ন-বৈধতা জোরদারের জন্য মূল্যায়ন-যমজ (রো, পারকিন্স ও গিরে 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — জেনারেটিভ এআই-একীভূত ভবিষ্যতে গুণমানপূর্ণ শিখন নিশ্চিত করার অভিযোজিত সামর্থ্য (লজ প্রমুখ 2026)
-- [[asynchronous-oral-assessment-2026]] — এআই যুগে অসমকালীন মৌখিক মূল্যায়ন (পেন্টল্যান্ড 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI মিথস্ক্রিয়ার মাধ্যমে শিখন মূল্যায়ন (DRI + দৃশ্যমান দক্ষতা)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — যে প্রামাণিকতার মানদণ্ড শিক্ষার্থী-দলগুলোকে GenAI-ব্যবহার কমাতে পরিচালিত করে
-- [[teacher-educators-ai-integration-preservice-2026]] — যে এআই আস্থা-সংকট শিক্ষক-শিক্ষকদের তত্ত্বাবধানে করা পরীক্ষা ও মৌখিক পক্ষসমর্থনের দিকে ফিরিয়ে দেয় (গোল্ডস্টাইন প্রমুখ 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — প্রামাণিক মূল্যায়ন থেকে আলাদা সততা-কেন্দ্রিক নকশা: বিচারকে দৃশ্যমান করা (শর্মা 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — অসদাচরণ-অভিযোগের নথিতে প্রমাণ হিসেবে আসলে কী থাকে, আর কী প্রক্রিয়া-প্রমাণ থাকে না (মুনোজ প্রমুখ 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — শনাক্তকারীর নির্ভুলতা ও সংকর-লেখায় ব্যর্থতা: কেন শনাক্তকরণ দুর্বল বিকল্প-প্রমাণ (হাদ্রা প্রমুখ 2026)
-- [[wright-transcription-not-generation-2026]] — অতিরিক্ত-ব্যাপক এআই নিষেধাজ্ঞা: প্রতিলিপি উৎপাদন নয় (রাইট 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — জেনারেটিভ এআই দিয়ে প্রামাণিক মূল্যায়ন নকশা: উচ্চশিক্ষায় Assessment Authentifire-এর একটি পাইলট গবেষণা
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — কাজের বাস্তবতার ক্ষয়: এআই-প্রতিরোধী পুনর্নকশা অনলাইন ভাষা-শিক্ষায় প্রামাণিকতা ক্ষয় করে
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — প্রামাণিক দেখতে রূপগুলো (রেকর্ডকৃত উপস্থাপনা, দূরবর্তী দলীয় প্রকল্প, ডিজিটাল উপাদান) 53,915টি আইটেম জুড়ে উচ্চ স্কোর করে: প্রামাণিকতা রচয়িতা যাচাই করে না

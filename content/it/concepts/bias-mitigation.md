@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -58,7 +60,6 @@ La ricerca della knowledge base documenta il bias che entra in molteplici punti 
 
 - **Il rilevamento dell'identità porta con sé un bias culturale.** [[ji-de-identification-personally-identifiable-information-2025|Ji et al. (2025)]] hanno testato il rilevamento di PII a livello di nome tra gruppi culturali con test di Mann-Whitney U a due code: le baseline off-the-shelf rilevavano i nomi africani con recall 0,7647-0,9244 e con divari significativi rispetto agli altri gruppi, mentre GPT-4o-mini fine-tuned andava da 0,9748 a 0,9840 tra le quattro culture senza differenze significative — il bias viveva nei rilevatori di baseline, non nel modello tarato.
 
-
 - **Saperi marginalizzati:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documenta come i dati di addestramento e il comportamento del modello marginalizzino i sistemi di conoscenza non dominanti e le prospettive sulla disabilità.
 - **[[ai-feedback-quality|Feedback automatico]] allineato agli stereotipi (pedagogie [[pedagogy|marked]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] mostrano che quattro LLM ampiamente utilizzati spostano sistematicamente il feedback sulla scrittura in direzioni allineate agli stereotipi quando il feedback è personalizzato con attributi degli studenti — razza, etnia, designazione ELL, disturbo dell'apprendimento, rendimento o motivazione — Ne derivano due bias: bias di feedback positivo e bias di sottrazione del feedback — più lodi, critiche meno sostanziali, assunzioni di capacità limitate — per gli studenti marked su saggi per il resto identici. La metrica di concentrazione "Marked Words" offre un metodo concreto per sottoporre ad audit tale bias nel feedback automatico.
 - **Bias visivo negli strumenti text-to-image:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval, and Levkovich (2026)]] [[meta-analysis-systematic-review|revisionano sistematicamente]] 31 studi sottoposti a revisione paritaria (2023–2025) sul bias e la rappresentazione negli usi educativi delle immagini generate dall'IA a partire da testo. Utilizzando un quadro analitico in sei parti (genere; razza, etnia e SES; cultura e religione; età; corpo e (dis)abilità; contenuti), rilevano che la rappresentazione distorta è pervasiva — le immagini raffiguravano frequentemente figure bianche, maschili, occidentali, magre e non disabili, mentre la diversità legata a età, corpo e abilità era ampiamente trascurata. La maggior parte degli studi si è affidata ad audit di immagini e a metodi [[qualitative-research|qualitativi]], con pochi progetti sperimentali o basati su interventi, rivelando rilevanti punti ciechi nel modo in cui la ricerca educativa misura e affronta il bias visivo.
@@ -70,7 +71,6 @@ La ricerca della knowledge base documenta il bias che entra in molteplici punti 
 - **Gli audit per sottogruppo possono documentare la parità in un codificatore automatico** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman e Borman (2026)]] hanno trovato che un codificatore di saggi BERT fine-tuned raggiungeva un'accuratezza di 0,92 per gli studenti minacciati dallo stereotipo e 0,94 per quelli non minacciati, con recall 0,98 in entrambi i gruppi. L'accuratezza per genere si attestava a 0,95 contro 0,93 e i gruppi con pranzo gratuito o a prezzo ridotto a 0,95 contro 0,94, mentre gli apprendenti di inglese (8%) e gli studenti con piani educativi individualizzati (10%) erano esclusi dall'analisi per sottogruppo perché i campioni erano troppo piccoli.
 
 **L'accuratezza aggregata può nascondere un modello incapace di trovare gli studenti in difficoltà.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] hanno addestrato tre famiglie di modelli su una coorte estone e l'hanno divisa in due modi. Sull'insieme bilanciato le famiglie erano comparabili. Sulla divisione sbilanciata, con 125 studenti sotto il primo quartile contro 328 sopra, alberi decisionali, una rete bayesiana e random forest raggiungevano recall dell'8%, 12% e 16% per i low performer all'80% di precisione, e solo il modello neuro-simbolico superava il 50%.
-
 
 ## Approcci di mitigazione
 
@@ -109,64 +109,10 @@ La mitigazione del bias è il meccanismo tecnico attraverso cui [[equity-in-ai-e
 - **Rendere i sistemi spiegabili:** la trasparenza sulle decisioni dell'IA è essenziale per individuare e correggere il bias.
 - **Combinare mitigazione tecnica e umana:** abbinare gli algoritmi di debiasing alla supervisione human-in-the-loop, specialmente per i casi ad alta posta in gioco o a bassa confidenza.
 
-
 Tutto in questa pagina riguarda il bias dentro il sistema. L'[[automation-bias|bias di automazione]] riguarda il bias nella persona che legge il suo output — accettare una raccomandazione che un umano avrebbe messo in dubbio se fosse arrivato da solo — e sopravvive anche quando il modello è accurato.
-
 
 ## Idee sbagliate comuni
 
 - **"Il bias è un problema di punteggio e di feedback."** Il bias entra in **classi di compito al di fuori del punteggio**: tre LLM che assegnavano classi di **28 studenti di ingegneria del software a quattro team** indirizzavano gli uomini almeno l'80% **meno spesso** della distribuzione di riferimento. La formazione dei team portava bias di magnitudine comparabile alla valutazione.
 - **"Fornire la competenza rilevante elimina il bias."** Fornire la competenza **lo riduceva ma non lo eliminava**: il **99,2% delle assegnazioni basate sulla competenza corrispondeva a uno di due team di riferimento, eppure il genere decideva ancora tra opzioni ugualmente valide (OR 2,53)**. Una corrispondenza quasi perfetta sul compito coesisteva con un effetto di genere, quindi l'accuratezza sul criterio primario non è prova di equità.
 - **"Un solo approccio di mitigazione è sufficiente."** La ricerca illustra **strategie complementari** — tra cui la modellazione sensibile all'equità — perché il bias che entra nella formazione dei team non è affrontato da una correzione rivolta al testo dell'output.
-
-## Concetti collegati
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — il fallimento lato lettore che questa pagina non copre: accettare una raccomandazione senza verificarla
-
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Articoli collegati
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
-- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
-- [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[temporal-smoothness-debiased-kt]] — Debiased knowledge tracing
-- [[ground-truth-reliability-aied]] — Modernizing ground truth for AI reliability
-- [[data-annotations-pedagogical-hints]] — Data annotations as pedagogical hints
-- [[xai-education-framework]] — Explainable AI in education
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
-- [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — sotto squilibrio di classe tre famiglie di modelli non riuscivano a identificare i low performer mentre le metriche bilanciate sembravano sane
-
-

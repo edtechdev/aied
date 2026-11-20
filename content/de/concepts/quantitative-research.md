@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,36 +100,3 @@ Quantitative und [[qualitative-research|qualitative]] Methoden sind Komplemente 
 - **„Eine Intent-to-Treat-Schätzung beschreibt, was das Werkzeug tut."** In einer gruppenrandomisierten Zugangsstudie, in der **etwa 15% der Studierenden in behandelten Klassen den Tutor überhaupt nutzten**, spiegelt die ITT-Schätzung **den Effekt der Einführung** des Werkzeugs wider statt den Effekt seiner Nutzung. Geringe Übernahme macht aus einer ITT-Zahl eine Aussage über Implementierung, und sie als Werkzeugeffekt zu berichten überzeichnet, was gemessen wurde.
 - **„Leistung bei der Aufgabe ist das Ergebnis."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomisiert **120 Studierende** auf KI-assistiertes oder traditionelles Lernen und misst **Retention** — das Design, das unmittelbare Leistung von dauerhaftem Lernen trennt. Eine Studie, die bei der Aufgabe endet, hat die leichtere Größe gemessen.
 - **„Vergleiche zwischen Datensätzen sind unkompliziert."** Eine strukturelle Prüfung synthetischer Bildungsdaten fand, dass **die Analyse jedes Datensatzes an seiner eigenen Schwelle einen Kontrast umkehrte, der an einem geteilten Arbeitspunkt hielt**. Das Vorzeichen des Vergleichs hing von einer analytischen Wahl ab, und genau diese Art Fragilität soll ein vorab registrierter Arbeitspunkt verhindern.
-
-## Verbundene Konzepte
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Verbundene Artikel
-
-- [[access-not-enough-ai-tutoring-2026]] — Eine randomisierte Feldstudie zu menschlicher Unterstützung plus KI-Tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Unterricht schaden: ein RCT
-- [[acceptance-ai-english-tools-2026]] — Akzeptanz KI-gestützter Werkzeuge für das Englischlernen
-- [[tian-genai-learning-adoption-pathways-2026]] — Adoptionspfade für generative KI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — KI-Kompetenz von Lehrkräften über die Selbstbestimmungstheorie
-- [[jin-glat-genai-literacy-assessment]] — GLAT: ein IRT-validierter GenKI-Kompetenztest
-- [[ai-lms-middle-school-longitudinal]] — Eine longitudinale KI-integrierte LMS-Studie
-- [[adaptive-pretesting-retention]] — Adaptives Pretesting und Retention
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treuemetric-Maße verfehlen: eine strukturelle Prüfung synthetischer Bildungsdaten
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Eine gruppenrandomisierte Zugangsstudie braucht eine Übernahmeprüfung
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometrische Analyse ist eine weitere quantitative Familie: Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Nutzung generativer KI und zwischenmenschliche Bildunginteraktion unter Pflegestudierenden: selbstreguliertes Lernen als statistischer Mediator
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Bewusstsein für technologische KI-Disruption, Design-Thinking-Mindset und Designinnovationskompetenz unter Designstudierenden

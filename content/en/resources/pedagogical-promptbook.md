@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-09-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 **The Pedagogical Promptbook** collects prompts that carry their evidence with them. Each chapter takes one established practice, reviews the research behind it, follows the authors through the iterations that turned that research into a working prompt, reports how the prompt's performance was evaluated, and then prints the full prompt and any supporting materials. That structure distinguishes it from the prompt libraries that circulate without justification: a reader can see what a prompt was tested against and how it changed, and can decide whether the evidence applies to their own course.
@@ -34,6 +35,3 @@ Chapters span [[learning-design|instructional design]] and teaching practice rat
 ## What to know before using it
 
 The book is open access under a CC BY license, which is the permissive end of the range for teaching materials: instructors may copy, adapt and use the [[prompt-engineering|prompts]], including commercially, provided they attribute them properly. That makes it straightforward to localize a prompt for a specific course or [[pedagogical-agent|agent]] setup, which the more restrictive licenses on similar collections do not allow. It is published on EdTech Books in 2026 with a PDF download and the DOI 10.59668/2340, edited by David Wiley. Because each chapter reports the evaluation design as well as the result, it also works as a model for instructors who want to test their own prompts instead of adopting someone else's judgment.
-
-## Connected Concepts
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

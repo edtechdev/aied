@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -79,7 +81,6 @@ ai_assist:
 
 پورے خاندان میں، جواز کا واضح چیلنج ایک ہی ہے: طالب علم کی نمائندگی کو **طالب علم کی حقیقی حالت وفاداری سے منعکس** کرنی چاہیے، نظام کے ڈیفالٹ مفروضوں کو نہیں۔ **طالب علم کی ماڈلنگ** اور [[knowledge-tracing]] کے لیے اِس کا مطلب ہے کہ ماڈل واقعی یہ پکڑے کہ طالب علم کیا جانتا ہے ([[ai-ed-evaluation|تشخیص]] اور [[assessment-validity|پیمائش کا جواز]])۔ [[simulating-students|سمولیشن]] کے لیے اِس کا مطلب ہے کہ مصنوعی طالب علم حقیقت پسندانہ خامیاں دکھائے، ماڈل کی پوری قابلیت یا [[ai-sycophancy|چاپلوسانہ]] اتفاق نہیں۔ ناقص ماڈلوں کو کھانے والے انطباقی نظام اُس غلطی کو ورثے میں لیتے اور پھیلاتے ہیں۔
 
-
 گیم پلے سے طالب علم کی حالت کا اندازہ لگانے والے ماڈلوں نے 0.848–0.913 کے AUC حاصل کیے، پھر بھی جائزہ لیے گئے 55 مطالعات میں سے صرف دو نے اُنھیں آبادیاتی تعصب کے لیے آڈٹ کیا اور صرف ایک نے طالب علم کی قابلیت کے حساب سے تفریقی نتائج دیکھے ([[ai-game-based-learning-systematic-review-2026|Kaşarcı اور Yurt (2026)]])۔
 
 کچھ مطلوبہ اشارے گفتگو سے بالکل بھی حاصل نہیں ہو سکتے: Learning Context فریم ورک کے پائلٹ نے غلط فہمیاں 91.4% اور [[anxiety-and-stress|بے چینی]] 100% پر حاصل کیں مگر ایمانداری صرف 68.6% اور زبان کی مہارت 60% پر، چنانچہ سیاق-آگاہ ماڈل کو دیر سے ظاہر ہونے والی خصوصیات پکڑنی چاہئیں، یہ انتظار نہیں کرنا چاہیے کہ گفتگو اُنھیں سامنے لائے گی ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]])۔
@@ -101,11 +102,9 @@ ai_assist:
 
 زبان ID ایمبیڈنگز کی جگہ نمائندگی لے سکتی ہے: PLCD LLM سے ماخوذ تصور اسکیما اور مشق کے عمل کے گراف بطور پیشگی بناتا ہے، XES3G5M پر 83.51% درستگی حاصل کرتا ہے، اور سب سے بڑے فائدے کولڈ اسٹارٹ میں ہیں — نئے تصورات کے لیے KCD سے 4.60 ACC پوائنٹس زیادہ اور نئی مشقوں کے لیے 4.00 — جہاں ID-مبنی ماڈلوں کے پاس کوئی تاریخ نہیں ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]])۔
 
-
 سِمولیٹر کا معیار دو محوروں میں بٹتا ہے: ایک pool-then-specialize پائپ لائن جو مشترک رویّے کے نمونے سیکھتی ہے پھر فی-طالب علم اڈاپٹر لگاتی ہے، شطرنج میں رویّے کی وفاداری 0.51 اور رہنمائی کی جواب دہی 0.91 تک پہنچی، جبکہ ایک فرنٹیئر رول-پلے بیس لائن کے لیے یہ 0.23 اور 0.72 تھے، جو دکھاتا ہے کہ سِمولیٹر کو طالب علم سے ملنا بھی ہے اور قابلِ ہدایت بھی ([[studentsim-llm-student-simulators|Yang et al. (2026)]])۔
 
 خطرے کے اسکور درست مگر غیر مدلل ہو سکتے ہیں: [[at-risk-students-ml-prediction|Gheisari اور Salarian (2026)]] نے اندراج اور کارکردگی کے ریکارڈ سے انخلا کی پیش گوئی میں 99% درستگی حاصل کی، مگر ایک ادارے کے 1,027 صاف شدہ ریکارڈ پر، بغیر بیرونی تصدیق، بغیر آزمائی گئی مداخلت، اور انصاف کے آڈٹ کو مستقبل کا کام بتاتے ہوئے — اسکور ٹرائج کی سہارا دیتا ہے، طالب علم کے بارے میں فیصلہ نہیں۔
-
 
 صرف خطرے کی پیش گوئی کرنے والا طالب علم ماڈل فیصلے کی معاونت کے لیے کافی نہیں: ایک کیلیبریٹ شدہ خطرے والے ماڈل کو مجرد اقدامات پر integer-programming recourse کے ساتھ جوڑنے سے — وقت، بجٹ، ناقابلِ تغیر اور دستیابی کی پابندیوں کے خلاف تصدیق شدہ — مختصر مداخلتی منصوبے بنے، جبکہ صرف اصلاح نے ناقابلِ نفاذ منصوبے قبول کر لیے ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel اور Laforge (2026)]])۔
 
@@ -120,58 +119,3 @@ ai_assist:
 - **"وفادار ماڈل کے لیے سب سے پیچیدہ طریقہ درکار ہے۔"** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries اور Koprinska (2025)]] دکھاتے ہیں کہ **وفادار نمائندگی کے لیے سب سے پیچیدہ** طریقہ درکار نہیں۔ پیچیدگی وفاداری کا قائم مقام نہیں، اور ایک سادہ ماڈل جو متعلقہ ساخت پکڑ لے بہتر آلہ ہو سکتا ہے۔
 - **"طالب علم ماڈلوں کو ٹریس ڈیٹا چاہیے۔"** ایک پیش گوئی کرنے والا طالب علم ماڈل **اندراج کی ساخت** پر کھڑا ہو سکتا ہے، ٹریس ڈیٹا پر نہیں: TRACE ہر سمسٹر کو **کورسز کی غیر ترتیب شدہ ٹوکری** کے طور پر انکوڈ کرتا ہے اور اُسی سے پیش گوئی کرتا ہے۔ پیش گوئی کا اشارہ ادارے کے انتظامی ریکارڈ میں رہ سکتا ہے۔
 - **"جذباتی حالت کے لیے جسمانی sensing درکار ہے۔"** ایک ریاضی ٹیوٹر نے **گفتگو کے متن اور چہرے کے تاثرات سے جذبات کا اندازہ** لگایا اور مجموعی حالت کو ٹیوٹرنگ فیصلوں سے جوڑا۔ جذبات کا اشارہ اُس چیز سے حاصل ہو گیا جو طلبہ پہلے ہی پیدا کر رہے تھے۔
-
-## منسلک تصورات
-
-- [[learners]] — طلبہ: طالب علم سے متعلق تصورات کی چھتری
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — خطرے کی پیش گوئی اور معاونت کی نشانہ بندی کے نیچے کے ماڈل
-- [[sensor-and-gaze-analytics]]
-
-## منسلک مضامین
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دہ اوور جنرلائزیشن: انطباقی مہارت مشق اُس سے پہلے روک سکتی ہے کہ طلبہ جان لیں کب کوئی حرکت روکنی ہے (An, McLaren اور Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA بریف)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM ٹیوٹرز درست متبادل کو زیادہ رد اور غلط کو زیادہ درست مانتے ہیں (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — لرننگ اینالیٹکس کے لیے خود-وضاحتی LM کی ڈسٹلیشن
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity mapping کے ساتھ آؤٹ کم-مبنی نالج ٹریسنگ
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — کمپیکٹ طالب علم حالت اور کیلیبریٹ شدہ ٹریسر بطور ری کامنڈر ماحول
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[ai-game-based-learning-systematic-review-2026]] — اسٹیلتھ جانچ نے 0.848–0.913 کے AUC حاصل کیے، مگر 55 مطالعات میں تعصب کے آڈٹ تقریباً غائب تھے
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — گفتگو-مبنی سیکھنے کے انداز کا اندازہ متوازن میٹرکس پر ناکام ہوتا ہے (Zamanifard, Goudarzi اور Robb 2026)

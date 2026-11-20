@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -89,58 +91,3 @@ ai_assist:
 - **«Робототехника учит вычислительному мышлению в силу того, что это роботы.»** Систематический обзор **53 исследований** обнаружил, что чаще всего использовались **проблемно-ориентированное обучение, сторителлинг и скаффолдинг**, — педагогика несла результат, и именно её исследования фактически применяли.
 - **«Физические роботы превосходят экранные альтернативы по всем параметрам.»** Прирост был **зависим от задачи**: краткосрочный балл переноса **на 60% выше** у [[aifred-desk-robotic-ai-guidance-2026|Orlando и др., 2026]] (4,4/10, p = .003), что авторы относят к **пространственной совместной локации, а не к общему замещению**. Утверждение касается совместной локации в конкретных задачах, а не физичности вообще.
 - **«Вычислительное мышление в детском саду — слишком рано, чтобы быть значимым.»** Рассмотренная доказательная база прямо охватывает робототехнику в детском саду, то есть возрастной диапазон изучается, а не предполагается непригодным.
-
-## Связанные концепции
-
-- [[early-childhood-elementary-ai-education]] — Образование в области ИИ для раннего детства и начальной школы
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Зонтичная концепция: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
-
-## Связанные статьи
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Метаанализ усиленного ИИ телесно-воплощённого роботизированного обучения языку
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[computational-thinking-educational-robotics-secondary-2026]] — Вычислительное мышление и образовательная робототехника
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — Проектирование, опирающееся на знания, для генеративных социальных роботов
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — Контекст задачи и доверие в образовательном HRI
-- [[human-autonomy-agency-hri-review-2025]] — Человеческая автономия и агентность в HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Нарративное HRI с iCub
-- [[pepper-robot-sign-language-lis-2025]] — Pepper и язык жестов
-- [[social-robot-study-companions]] — Социальные роботы как компаньоны для учёбы
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Интеграция робота и LLM в креативном письме
-- [[game-based-gamified-robotics-education-review-2026]] — Игровое и геймифицированное образование по робототехнике
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — Пути к обучению робототехнике на базе ИИ (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Опосредованное роботами вычислительное мышление в детском саду
-- [[ai-toys-child-development-2026]] — ИИ-игрушки и развитие ребёнка
-- [[creative-project-approach-ai-early-childhood-2025]] — Creative Project Approach: интеграция программирующих и генеративных социальных роботов в проекты раннего детства (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — Пять функционально различных типов классных роботов — от сценарной демонстрации до индивидуального эмпатического диалога (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: фреймворк на основе хабов, рассматривающий ёмкость технического наставничества и географию хабов, а не «железо», как ограничение для сельских программ по робототехнике K–12 (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Модель «видение–язык» планирует задачи Shoebox для робота Nao (Kudláčková 2026)
-- [[aifred-desk-robotic-ai-guidance-2026]] — Настольный роботизированный проектор: совместно расположенное руководство сохранило перенос, там где ноутбук с ChatGPT его потерял

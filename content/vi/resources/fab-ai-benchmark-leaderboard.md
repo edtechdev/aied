@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -40,9 +41,3 @@ Các nhà hoạch định chính sách và đội ngũ mua sắm đang chọn m�
 ## Ghi chú và lưu ý
 
 Một bảng xếp hạng đo lường các mô hình trên chính các nhiệm vụ của chuẩn đánh giá: điểm sư phạm cao là bằng chứng về những câu hỏi đó, không phải về một lớp học. Cột giá pha trộn giá token đầu vào và đầu ra theo tỷ lệ 3:1, đó là một lựa chọn mô hình hóa chứ không phải chi phí của bất kỳ đợt triển khai cụ thể nào. Độ phủ ngôn ngữ và của các mô hình lưu trữ cục bộ thay đổi khi các mô hình mới xuất hiện, và điểm số thấp của các mô hình nhỏ một phần phản ánh định dạng nhiệm vụ ngang với phản ánh năng lực. Cách định khung của Fab AI hướng rõ ràng đến các quốc gia thu nhập thấp và trung bình, nên tập câu hỏi của chuẩn đánh giá phản ánh bối cảnh đó và không nên được đọc như một bảng xếp hạng giáo dục chung. Hãy kiểm tra ngày phát hành: một số mục có trước thế hệ mô hình hiện tại.
-
-## Khái niệm liên quan
-
-- [[benchmark]] — lớp công cụ rộng hơn mà nó thuộc về
-- [[digital-divide]] — ràng buộc mà các cột giá và trọng số mở được đưa vào để làm cho hiển hiện
-- [[equity-in-ai-education]] — câu hỏi chính sách mà bảng xếp hạng cung cấp căn cứ

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,7 +74,6 @@ ai_assist:
 3. **خودکار کوڈنگ کی توثیق کریں۔** بڑے لاگ ڈیٹا سیٹوں میں [[llm|LLM]] پر مبنی درجہ بندی طاقتور ہے مگر نیٹ ورک کی ساخت کی تفسیر سے پہلے انسانی کوڈنگ کے خلاف جانچی جانا چاہیے (بین-درجہ بندی کرنے والا اتفاق رپورٹ کریں)۔
 4. **امتیاز کے لیے ڈیزائن کریں۔** نیٹ ورک تجزیہ اکثر بے نقاب کرتا ہے کہ *ایک ہی* AI اوزار سیکھنے والوں کے ذیلی گروہوں میں مختلف تعامل کے نمونے پیدا کرتا ہے — جو ایک جیسے سائز کی جانچ کے بجائے انطباقی ڈیزائن کی رہنمائی کرتا ہے۔
 
-
 ## مصنوعی تعاونی مکالمے کی ENA توثیق
 
 - **مصنوعی مکالمے کی توثیق کے طور پر ENA۔** Fang (2026) علمی نیٹ ورک تجزیہ لاگو کرتے ہیں تاکہ جانچا جا سکے کہ فائن ٹیون کیے گئے LLM ایجنٹ حقیقی تعاونی [[problem-solving|مسئلہ حل کرنے]] کے مکالمے کی ساخت کی نقل کرتے ہیں یا نہیں۔ مصنوعی ملحقہ ویکٹرز کا تجرباتی نیٹ ورک سے موازنہ کرتے ہوئے وہ 0.17 کا ENA فاصلہ رپورٹ کرتے ہیں — جو باطل تقسیم کی 95 فیصد حد کے اندر ہے، permutation p-value 0.65 کے ساتھ — اور یہ گفتار کی [[quantitative-research|مقداری]] جانچ کے طور پر ENA کی طاقت ظاہر کرتا ہے، یعنی جنریٹو [[simulation|نقالی]] کی وفاداری پر، تعلیمی تحقیق میں ENA/SNA/TNA کے دیگر اطلاقات کے ساتھ ساتھ۔
@@ -82,28 +83,3 @@ ai_assist:
 - **"نیٹ ورک تجزیہ معروضی ہے کیونکہ یہ کمپیوٹیشنل ہے۔"** **کوڈنگ بنیاد ہے**: نیٹ ورک کی تمام صورتیں خام ڈیٹا (بیانات، واقعات، رشتے) کو مجرد نوڈز میں قابلِ اعتماد طریقے سے کوڈ کرنے پر منحصر ہیں، اور خودکار کوڈنگ اپنی تعریفیں اُنہی سے ورثے میں لیتی ہے جنہوں نے وہ مقرر کیں۔ [[visualization|تصویر کشی]] ابھرتی ہوئی ساخت جیسی لگتی ہے مگر اس کے نوڈز تفسیری انتخاب ہیں۔
 - **"نیٹ ورک کی ساخت میں تبدیلی بذاتِ خود سیکھنے کا فائدہ ہے۔"** **بیس مخلوط النوع گریجویٹ طلبہ** کی ایک کیس بحث میں، **سائز-3 مشترکہ اصطلاح کا حصہ 5.2% سے 8.0% تک بڑھا** جبکہ **مواد کے ٹوکنز ان کی پڑھائی کے بعد کی سطح کا تقریباً 0.65 گنا رہ گئے**۔ دو ساختی پیمانے مخالف سمتوں میں چلے، چنانچہ "نیٹ ورک بدل گیا" کوئی دریافت نہیں جب تک آپ نہ بتائیں کہ کس پیمانے کے ساتھ اور کیوں اہم ہے۔
 - **"زیادہ اصطلاحات بانٹنا بہتر تعاون کا مطلب ہے۔"** مشترکہ اصطلاح کے حصے کا بڑھنا ساتھ ساتھ مواد-ٹوکن کے تنوع کے گرنے کے ساتھ چھوٹی ذخیرہ الفاظ پر اتفاق کے مطابق ہے۔ اتفاقِ رائے اور تنگ ہونا ساختی طور پر ایک جیسے ہیں، اسی لیے پیمانے کو وہ مواد چاہیے جس سے وہ شمار ہوا تھا۔
-
-## منسلک تصورات
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## منسلک مضامین
-- [[caeai-response-length-ai-ethics-education-2026]] — مشترکہ اصطلاح کے اعداد و شمار کو جواب کی طوالت چلاتی ہے، لغوی ہم آہنگی نہیں (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — سہارا پانے والی EFL تحریر میں سیکھنے والے-چیٹ بوٹ تعاملات کا TNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI خواندگی کے تعامل کے نمونوں کا ENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — انسانی-AI تعاونی مسئلہ حل کرنے کا ENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — علمی منتقلی اور پرامپٹنگ (SNA/نیٹ ورک طریقے)
-- [[youtube-frames-chatgpt-education]] — تعلیم میں ChatGPT کے YouTube فریم کا ENA
-- [[agency-gap-ai-writing]] — AI سے معاونت یافتہ تحریر میں ایجنسی کا خلا (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے میٹرک کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ایک ساختی جانچ
-- [[dang-human-ai-collaboration-competency-2026]] — ENA معلمین کی قابلیت کی گفتگو کا نقشہ بھی بناتا ہے

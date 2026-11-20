@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -126,32 +128,3 @@ Afstemming van mechanisme op theorie kan niettemin beslissend zijn: een thematis
 **„Leertheorieën, modellen van de lerende en adoptiekaders zijn uitwisselbare lenzen."** Ze beantwoorden verschillende vragen — hoe leren gebeurt, wat de toestand van de lerende is, en waarom een praktijk zich verspreidt — en hun bewijstypes verschillen dienovereenkomstig. De verkeerde laag kiezen levert een studie op die de juiste variabele tegen de verkeerde voorspelling meet, wat leest als een nulresultaat terwijl het een categorie fout is.
 
 **„Meer kaders betekent een volwassener veld."** Voor het AI-tijdperk bedachte kaders stapelen zich sneller op dan ze worden getoetst, en stapeling zonder falsificatie is een symptoom in plaats van vooruitgang. Volwassenheid blijkt uit het beslechten van concurrerende voorspellingen, niet uit woordenschatgroei.
-
-## Verbonden concepten
-
-- [[theory-development-aied]] — theorie bouwen en herzien in het veld
-- [[philosophy-of-ai-in-education]] — de normatieve en conceptuele laag
-- [[learning-theories]] — de overkoepelende pagina voor leertheorie
-- [[learning-sciences]] — het naburige veld waaruit de meeste theorie wordt geleend
-- [[limitations-in-aied-research]] — wat de bewijsbasis wel en niet kan dragen
-- [[tpack]] — kader voor docentkennis
-- [[technology-acceptance-model]] — adoptiekaders
-- [[item-response-theory]] — een meetmodel
-- [[universal-design-for-learning]] — een ontwerpkader
-- [[research-methods-aied]] — hoe theorie wordt getoetst
-
-## Verbonden artikelen
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionele affordances voorgesteld als vierde categorie in een affordance-taxonomie
-- [[ai-game-based-learning-systematic-review-2026]] — Afstemming van mechanisme op theorie, niet algoritmische verfijning, dreef de effectiviteit in 55 studies naar AI-game-based learning
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — vier decennia AIED door het AI×Ed-kader
-- [[educating-minds-generative-ai-2026]] — theoriezware synthese van generatieve AI en leren
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — activiteitstheorie toegepast op professionalisering van docenten
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — activiteitstheorie en adoptie door docenten
-- [[generativism-learning-theory]] — een leertheorie voorgesteld voor het generatieve-AI-tijdperk
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — naar een theorie van epistemische co-agency
-- [[absent-cognitive-baseline-2026]] — het theoretiseren van een structurele kloof in de zelfbeoordeling van AI-native studenten
-- [[yan-agentivism-learning-theory-ai-2026]] — een middenbereikleertheorie voor mens-AI-interactie
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrumentontwikkeling binnen een jong construct
-- [[mishra-control-vs-agency-history-2025]] — de fundamentele spanning tussen controle en agency in het veld

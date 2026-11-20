@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -200,53 +202,3 @@ Delphi часто поєднується з іншими методами — н
 **«Поблажливе правило вимірювання — дрібний методологічний вибір.»** Воно змінює висновок. Зарахування будь-якого завершення передбачало пізнішу неасистовану продуктивність **ледь вище константи складності навички (об’єднаний AUC 0,604 проти 0,595)**, оголошуючи **93,9% пар «студент–навичка» опанованими проти 72,8%** за строгим правилом. Правило дало 21-пунктову різницю в тому, кого оголосили готовим, і майже без приросту передбачуваності натомість.
 
 **«Статистична значущість вирішує, чи втручання спрацювало.»** Вона вирішує, чи ефект був виявлюваним. Чи був він *навчальним* ефектом, залежить від мірила результату, порівняння та умов, за яких його взяли, — тому вибори дизайну й звітування в розділах цієї сторінки важать не менше за аналіз.
-
-## Пов’язані поняття
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Теорієбудова в ШІ в освіті
-- [[qualitative-research]] — Якісне дослідження
-- [[quantitative-research]] — Кількісне дослідження
-- [[mixed-methods-research]] — Дослідження зі змішаними методами
-- [[design-based-research]] — Дизайн-орієнтоване дослідження
-- [[usability-research]] — Дослідження зручності використання
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Пов’язані статті
-
-- [[ai-methodologies-science-education-research-2026]] — Рамка з семи фаз епістемічної ітерації для рефлексії про те, як методології ШІ можуть перетворити дослідження освітніх наук (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study
-- [[acceptance-ai-english-tools-2026]] — Прийняття інструментів вивчення англійської мови з асистуванням ШІ
-- [[hazra-safetutors-pedagogical-safety-2026]] — Безпека репетиторів на базі ШІ та педагогічні шкоди
-- [[zerkouk-comprehensive-review-its-2025]] — Комплексний огляд інтелектуальних репетиторських систем
-- [[ai-assisted-collaborative-learning-model-dbr]] — Дизайн-орієнтоване дослідження моделі колаборативного навчання з асистуванням ШІ
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Reliability and Validity
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 пунктів у десяти доменах для прозорого звітування досліджень ШІ в освіті (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System: A Longitudinal Study
-- [[ai-in-the-wild-college]] — AI in the Wild: Large Scale Analysis of Authentic Interactions
-- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms
-- [[tep-aied-model-reporting-2026]] — Модель TEP-AIED для звітування досліджень ШІ в освіті з суворістю (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Парадокс компетентності: GenAI text-to-image в мистецтві та дизайні
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Мета-метааналіз ефекту ШІ на навчання
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[porcaro-ai-grading-benchmark-2026]] — Поза узгодженістю: зонди з відомою правильною відповіддю, перевірки підсадженого ефекту на симульованих оцінювачах і 22 моделі з підказками (Porcaro 2026)

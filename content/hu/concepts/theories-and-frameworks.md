@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -126,32 +128,3 @@ A mechanizmus és az elmélet összehangolása mégis döntő lehet: 55 MI-támo
 **„A tanuláselméletek, a tanuló modelljei és az elfogadási keretrendszerek felcserélhető lencsék.”** Különböző kérdésekre válaszolnak — hogyan történik a tanulás, mi a tanuló állapota, és miért terjed el egy gyakorlat —, és bizonyítéktípusaik ennek megfelelően különböznek. A rossz réteg választása olyan tanulmányt eredményez, amely a megfelelő változót a rossz előrejelzéssel szemben méri, és ez nulleredményként olvasódik, holott kategóriahiba.
 
 **„Minél több keretrendszer, annál érettebb a terület.”** Az MI korszakára alkotott keretrendszerek gyorsabban halmozódnak, mint ahogy tesztelik őket, és a cáfolat nélküli halmozódás inkább tünet, mint haladás. Az érettség abban mutatkozik meg, hogy versengő előrejelzések oldódnak fel, nem a szókészlet növekedésében.
-
-## Összefüggő fogalmak
-
-- [[theory-development-aied]] — az elmélet építése és felülvizsgálata a területen
-- [[philosophy-of-ai-in-education]] — a normatív és fogalmi réteg
-- [[learning-theories]] — a tanuláselmélet ernyőfogalma
-- [[learning-sciences]] — a szomszédos terület, ahonnan a legtöbb elméletet kölcsönzik
-- [[limitations-in-aied-research]] — mit támogathat és mit nem a bizonyítékbázis
-- [[tpack]] — tanári tudáskeretrendszer
-- [[technology-acceptance-model]] — elfogadási keretrendszerek
-- [[item-response-theory]] — egy mérési modell
-- [[universal-design-for-learning]] — egy tervezési keretrendszer
-- [[research-methods-aied]] — hogyan tesztelik az elméletet
-
-## Összefüggő cikkek
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Érzelmi affordanciák mint negyedik kategória egy affordanciataxonómiában
-- [[ai-game-based-learning-systematic-review-2026]] — A mechanizmus és az elmélet összehangolása, nem az algoritmikus kifinomultság hajtotta a hatékonyságot 55 MI-alapú játékos tanulási tanulmányban
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — az AIED négy évtizede az AI×Ed keretrendszeren keresztül
-- [[educating-minds-generative-ai-2026]] — elméletigényes szintézis a generatív MI-ről és a tanulásról
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — tevékenységelmélet a tanárok szakmai fejlesztésére alkalmazva
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — tevékenységelmélet és tanári elfogadás
-- [[generativism-learning-theory]] — a generatív MI korszakára javasolt tanuláselmélet
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — egy episztemikus együgynökségi elmélet felé
-- [[absent-cognitive-baseline-2026]] — strukturális hiány teoretizálása az MI-natív diákok önértékelésében
-- [[yan-agentivism-learning-theory-ai-2026]] — középszintű tanuláselmélet az ember–MI interakcióhoz
-- [[ai-literacy-instrument-development-systematic-review-2026]] — műszerfejlesztés egy fiatal értelemző mentén
-- [[mishra-control-vs-agency-history-2025]] — a terület alapvető irányítás kontra ügynökség feszültsége

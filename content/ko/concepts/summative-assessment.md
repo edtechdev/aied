@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -83,44 +85,3 @@ AI에 저항하는 형식은 성적을 재고하기보다 방어합니다. 감�
 - **"LLM은 공식 기준으로 채점할 수 없다."** **조정된 공식 점수**에 견주어, **손글씨 10,364쪽**의 물리 올림피아드 및 대학 답안을 채점한 다중양식 LLM은 강한 상관을 보였습니다. 결과 일치는 정밀하지 않은 문항 수준 채점에서도 유지될 수 있으며, 이는 유용한 질문이 문항 수준 정밀성이 실제로 요구되는 곳이 어디인가임을 뜻합니다.
 - **"AI 성적 인플레이션은 추측이다."** **50만 건 이상의 성적**에 대한 [[chirikov-ai-grade-inflation-2026|Chirikov(2026)]]의 준실험은 그 메커니즘을 구체화합니다. ChatGPT 공개 이후 **AI 노출 과제가 많은 강좌에서 높은 성적의 비중이 올랐습니다**. 효과는 노출된 과제에 집중되었고, 그것이 메커니즘이 예측할 패턴입니다.
 - **"AI를 쓰는 학생은 쓰지 않는 학생과 구별할 수 없으므로 출처 확인은 희망이 없다."** AI 생성 문항과 면허 시험 문항 사이에 **출처 귀인의 유의미한 차이가 없었다**는 발견, 정답 인식 **68.6~77.5퍼센트**, **18.2퍼센트**의 오귀인율은 인식이 실패한다는 것에 관한 것이지 출처 확인이 불필요하다는 것이 아닙니다. 오히려 검증된 출처 확인에 대한 요구를 높입니다.
-
-## 연결된 개념
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 연결된 문서
-- [[llm-grading-assistants-public-health-2026]] — LLM 채점 도우미는 고부담 에세이 평가에서 학점 척도를 압축하고 극단을 피한다
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 진정하고 AI에 저항하는 총괄평가로서의 구술 시험 재고
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 생성형 AI 학습 페널티: 감독하/폐쇄북 시험 증거
-- [[chirikov-ai-grade-inflation-2026]] — 성적 인플레이션의 메커니즘으로서의 AI 과제 대체; 과제 중심 강좌(Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — 더 빠른 완료, 더 적은 학습: 감독하 측정이 필수적
-- [[generative-ai-guardrails-harm-learning]] — 가드레일 없는 생성형 AI는 학습을 해친다
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI가 생성한 시험의 품질 평가
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다
-- [[llm-automated-assessment-student-self-explanations]] — 학생 자기 설명의 자동 평가를 위한 LLM
-- [[cong-confidence-asag-2026]] — 자동 단답형 채점
-- [[psyscore-essay-scoring-zpd-feedback]] — 심리측정학적으로 인식하는 특성 적응 에세이 채점
-- [[socratic-tests-conversational-assessment]] — 소크라테스식 시험: 동적이고 대화적이며 멀티모달인 평가
-- [[code-review-genai-cs1]] — CS1의 코드 리뷰 면접
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
-- [[test-driven-ai-assisted-learning]] — 테스트 주도 AI 지원 학습
-- [[genai-oop-programming-assessments-2026]] — 객체지향 프로그래밍 평가에 대한 GenAI의 수행
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: 생산적 투쟁과 학습의 환상
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL에서 AI가 생성한 대 인간이 개발한 평가 과제
-- [[roe-assessment-twins-2026]] — GenAI 시대에 평가 타당도를 강화하는 평가 쌍둥이(Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — 손으로 쓴 물리 평가의 AI 채점(올림피아드)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 학생은 AI가 만든 문항을 신뢰성 있게 알아채지 못한다

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -81,41 +83,3 @@ Les études de cas et les simulations sont les formats d'enseignement les plus p
 - **« Les étudiants veulent l'IA parce qu'ils veulent des raccourcis. »** Un cadre informé par les étudiants a trouvé des étudiants **très engagés et conscients qu'ils ont besoin de compétences en IAG pour leur carrière**, tout en voulant **utiliser l'IA sans commettre involontairement une faute académique**. La demande porte sur une compétence avec des limites claires, non sur la permission d'éviter le travail.
 - **« Ajouter des modules d'IA à un programme de gestion capte le bénéfice. »** La recherche sur l'alignement constructif a montré que **la prédominance des bénéfices ou des risques dépendait du degré d'intégration au programme** — la distinction opératoire est **intégrer, ne pas ajouter**. Un module rapporté laisse la conception de l'évaluation inchangée.
 - **« La sophistication de l'outil dépasse l'e-learning conventionnel. »** Une étude de perception auprès de **130 étudiants** a trouvé que **le soutien par chatbot et par agent étaient tous deux mieux notés que l'e-learning traditionnel** sur l'enrichissement, la personnalisation et la prise de décision. Il vaut la peine de noter ce que cela mesure : la *perception* des étudiants face à une base de référence conventionnelle, et non l'apprentissage face à elle.
-
-## Concepts liés
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — Études de cas, méthode des cas et discussion de cas
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Articles liés
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL : une heuristique herméneutique pour la sagesse pratique dans l'enseignement du management (Heron & Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — Points de contrôle des décisions d'IA pour la gestion des processus d'affaires augmentée par l'IA : cadre et mise en œuvre pédagogique
-
-- [[csaszar-ai-management-education-2026]] — Les effets de l'IA sur l'enseignement du management : une analyse stratégique fondée sur la valeur (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE : soutien de l'IA générative agentique dans un cours de commerce électronique, bénéfices et risques perçus (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Une décennie d'IA dans l'enseignement de la gestion (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Alignement constructif de l'IA générative dans l'enseignement supérieur de la gestion (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Regards étudiants sur l'intégration de l'IA générative dans les programmes (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Facteurs organisationnels de l'adoption de l'IA dans l'enseignement supérieur (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Cadre CAIS-GBL pour les agents conversationnels d'IA dans les jeux de simulation commerciale (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Accord et erreur dans la notation automatisée de publications marketing d'étudiants
-- [[shi-genai-experiential-learning-management-education-2026]] — trois mécanismes d'IA générative pour reconfigurer la pédagogie de l'enseignement du management
-- [[alam-process-oriented-collaborative-essays-2026]] — Essais collaboratifs orientés processus dans un apprentissage de Business Analyst : noter l'itération documentée, pas le sujet
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un agent conversationnel RAG conçu pour le cours a déplacé les attentes, pas les résultats

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,31 +80,3 @@ ai_assist:
 - **"پروکٹرنگ تعلیمی دیانت کی حفاظت کرتی ہے۔"** **دیانت کی دلیل سب سے بڑے امتحان میں کامیاب نہ ہوئی۔** **چار مرحلوں اور 105 کورسز میں 1,760 طلبہ** پر محیط تحقیق میں پروکٹرنگ نے **امتحانی اضطراب بڑھایا (β = 0.60، p < 0.001) مگر دیانت کا کوئی** قابلِ شناخت فائدہ نہ ہوا۔ ناپا گیا اثر طلبہ پر تھا، نقل پر نہیں۔
 - **"بہتر نشان دہی کی صلاحیت یعنی بہتر پروکٹرنگ۔"** **80 ہم مرتبہ جائزہ شدہ مطالعات (2014-2024)** کا ایک دہائی پر محیط منظم جائزہ پاتا ہے کہ جدید ML/DL پروکٹرنگ **نقل کو زیادہ** درستگی سے پکڑتی ہے اور یہ نہیں بتاتی کہ اسے تعینات کرنا رویّہ بدلتا ہے یا نہیں۔ نشان دہی کی کارکردگی درجہ بندی کرنے والے کی خصوصیت ہے، جانچ کے نظام کی نہیں۔
 - **"رویّے کے اشارے بدعنوانی کے قابلِ اعتماد مظاہر ہیں۔"** نظام YOLOv11 کے ساتھ **ہر فریم میں سترہ جسمانی نشانات** کا سراغ لگا کر **وضع کے انحراف، سر کے رجحان اور بالائی جسم کی حرکت** کی خصوصیات اخذ کرتے ہیں۔ یہ تصورات پراکسی ہیں، اور نشان زدہ وضع کسی جسم کے بارے میں ایک درجہ بندی ہے، کسی خلاف ورزی کا مشاہدہ نہیں۔
-
-## منسلک تصورات
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## منسلک مضامین
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — پہننے والا AI اُس رویّے کا اشارہ ہٹا دیتا ہے جس پر پروکٹرنگ کا انحصار ہے (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — خودکار آن لائن امتحانی پروکٹرنگ کا دہائی پر محیط منظم جائزہ
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — خودکار پروکٹرنگ میں تعلیمی بددیانتی کا جامع جائزہ
-
-- [[conijn-fear-big-brother-proctored-exams-2022]] — بڑے بھائی کا خوف: امتحانی اضطراب پر پروکٹرنگ کے منفی ضمنی اثرات
-- [[biology-degree-integrity-genai-cheating-2026]] — کیا طلبہ نقل کر کے حیاتیات کی ڈگری حاصل کر سکتے ہیں؟ جنریٹیو AI کے دور میں حیاتیات کورس کے درجات کی تعلیمی بددیانتی کے لیے کمزوری کا کیس اسٹڈی
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — زیرِ نگرانی: نرسنگ طلبہ کی جانچ میں ریموٹ پروکٹرنگ طریقوں کا نقشہ
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — زیرِ نگرانی، روبرو امتحان میں 44.2% طلبہ زیادہ خطرے والے قرار، خطرہ سمسٹر کے آغاز کے LMS نشانات سے پیش گوئی شدہ

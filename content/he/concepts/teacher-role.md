@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -191,88 +193,3 @@ ai_assist:
 **"מורים כבר שותפים לעיצוב AI, ולכן המעבר כבר בעיצומו."** השאיפה אמיתית; התיאור עדיין לא. הסקירה השיטתית של [[wang-teacher-ai-co-design-review-2026|Wang, Liu and Islam (2026)]] על עיצוב משותף מורה-AI של משימות למידה מוצאת שעמדת השותף-המעצב **נותרת לא אחידה**, כשהמצב הדומיננטי הוא עדיין AI כעוזר או כייצרן תוכן. קריאת הסקירה כראיה למעבר שהושלם תסתיר את הפער בין המורים שעמוד כזה ממליץ עליהם לבין המורים שלרוב המוסדות יש בפועל.
 
 **"האופן שבו מורה מאציל לצ'אטבוט בקושי משנה, מפני שהמודל עושה את העבודה."** דפוס ההאצלה הוא ההתערבות עצמה. בתכנון שיעורי אמנויות STEAM לילדים, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] מצאו בניסוי שמילוי פערי תוכן בשיעור ש*המורה עצמו התווה* שימר את עצמאות העיצוב של המורה ועדיין העלה את איכות התכנית כפי שדורגה על ידי מומחים (חציון 20.5 לעומת 17.6, p = .002, אפקט גדול), ועלה על החלופה שללתת למודל לספק את שלד השיעור. אותו מודל, אותה משימה, חלוקת עבודה שונה, תוצאה שונה מהותית.
-
-## מושגים מחוברים
-
-- [[pedagogical-partnerships]] — שותפויות פדגוגיות
-- [[learner-identity]] — זהויות לומד מתפתחות בתחום, מקצוע, יצירתיות ואקדמיות
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך AI
-- [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך AI (לומדים, מורים, מתכננים, מנהלים, יוצרי מדיניות)
-
-- [[reflection]]
-
-## מאמרים מחוברים
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — ארבע דינמיקות זהות, אמביוולנטיות פרודוקטיבית, והעלות המוסדית של עבודה יחסית
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 בתי ספר תיכוניים באנגליה: הכנת שיעור ירדה ב-25.3 דקות בשבוע בלי ירידה שזוהתה באיכות (Roy et al., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — ניסוי ASSISTments: סיכומי AI העלו השלמת מטלות אך לא ציוני כיתה (Lim et al., 2026)
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — תפיסות סטודנטים של לוחות דיון: מחקר מודל קבלת טכנולוגיה לתכנון אנליטיקת למידה מבוססת-AI
-- [[gnadlinger-educator-perspectives-its-design-2026]] — לקראת שילוב נקודות המבט של מחנכים במטא-תכנון של מערכות חונכות חכמות
-- [[chen-future-faculty-development-ai-2027]] — המורה כמנצח על המומחיות של אחרים, עם תפקידים מבוזרים בתוך צוות הוראה
-- [[li-instructor-designed-ai-rct-2026]] — AI שעוצב בידי מרצים משפר למידה בניסוי אקראי ב-19 אוניברסיטאות (Li et al., 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — מנהיגות פילוסופית כתפקיד הוראה תלת-שלבי: שיפוט אתי, הדרכה פדגוגית, תרגום מדיניות (Socorro Márquez et al., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — אקדמאים שכירים נתפסים בין בדיקת התנהגות בלתי הולמת למנדט אפס על מדיניות (Andriamora & Andriamora 2026)
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — הפרדוקס האנושי-יתר: תרחישי מומחים ל-2030 מוצאים רווית AI מגבירה ולא דוחקת עבודה פדגוגית אנושית (Malyn-Smith ואח' 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — שיעורי מתמטיקה תיכונית נצפו מרחיבים ניצוח אינסטרומנטלי בשלושת סוגים חדשים (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — תגובה להתראות רגשיות מיוצרות AI: התערבות מורים ומעורבות תלמידים בכיתת המתמטיקה
-- [[edustories-classroom-case-studies-2026]] — Edustories: אוסף מקרי בוחן מעולם-האמת מתרגולי כיתה
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — מורים מתכננים צ'אטבוטים לכיתה כמומחים מגודרים ושומרים סמכות
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI כ"frenemy": מורים מעדיפים חצי-אוטונומיה, שימושיות מניעה אימוץ, סלידת סיכון מכוונת לשימוש התלמידים (Dai ואח' 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — החלטת מרצה נתמכת AI בהשכלה גבוהה
-- [[chirikov-regulate-ai-syllabi-2026]] — כיצד מנחים רגולט AI ב-31,000 סילבוסים של קורסים; רגולציה ברמת-משימה (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — התנהגות חדשנות הוראה AI בקרב מורי מכללות (AI-TPACK SEM; Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI כמשבר זהות, לא כפער כישורים
-- [[lodge-loble-cognitive-offloading-2026]] — AI, פריקת-עומס קוגניטיבי והשלכות לחינוך (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI ותרגול תכנון הוראה: סקירה שיטתית (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — האם AI יכול לספק תמיכה מתאימה לפרופילי תלמידים מגוונים? הערכה בקנה-מידה גדול
-- [[bozkurt-ghost-students-agentic-ai-2026]] — תלמידי-רוח ו-AI סוטני בהערכה
-- [[wang-teacher-ai-co-design-review-2026]] — תכנון משותף מורה-AI של משימות למידה: מגמות ונקודות מבט (Wang ואח' 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — חוויות ותפיסות מורים באוניברסיטה על GAI: פגיעות, חשיבה מחדש על הערכה, למידת תלמידים בסיכון (Farazouli ואח' 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — שיפוטי ערך בציונים של עבודה בסיוע GenAI: יושר, אמון, תקפות, ושקיפות דו-כיוונית (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — הפיכת ממצאי ML לנגישים למורים בכיתות משולבות
-- [[li-language-educators-genai-review-2026]] — תרגולים והתפתחות של מחנכי שפה עם GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — מתחי זהות וסלקטיביות עקרונית בהוראה המשולבת AI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — התערבות מורה בהוראה מבוססת-AI K-12: סקירה שיטתית
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — מפתחים אקדמיים כמתווכים דיגיטליים: קונפיגורציה מחדש של תפקיד, עבודה אפקטיבית ושיפוט ב-HDIs דרום-אפריקאיים
-- [[where-ai-enters-teacher-work-2026]] — היכן בינה מלאכותית נכנסת לעבודת המורה
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: המורה כפרוקסי בין לומדים ל-AI, קוואזי-ניסוי 19-כיתות שבו אימון והפחתת מאמץ עקיפה מניעים רווחים (Rodrigues ואח' 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[teachers-configure-educational-chatbots-2026]] — האם זה ילמד כמתוכנן? כיצד מורים מגדירים צ'אטבוטים חינוכיים AI
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — תיווך מורה במתמטיקה: חמש פרקטיקות תיווך ביקורתיות, הזזת סמכות, והפער האלגוריתמי חינמי-לעומת-פרמיום
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — נכונות מורה-בתכנון: נכונות כיכולת תכנון, לא כאימוץ או ביטחון (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — משוב מורה בסיוע ChatGPT: מורים מאצרים טיוטות AI במקום להעביר אותן
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — ממיומנות לסוכנות: תפיסות המורים על מטרות חינוך AI
-- [[kuhail-great-debaters-ai-facilitators-2026]] — מנחי דיונים אנושיים לעומת AI: דירוגים שוויוניים, מסלולי שימוש-חוזר שונים
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI בחינוך תכנות: סקירה שיטתית שבה תפקידי המרצה נחקרים פחות
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — מספקי מידע למעצבי למידה: תרגולי הוראה היויטגוגיים בחינוך מוגבר AI
-- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs ואח' 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — שימוש ב-AI אצל מורים משפיע על ביצועים דרך אזרחות ארגונית, לא ישירות (Sherly ואח' 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 אפיזודות תכנון המראות סמכות שנשמרה, שותפה או נמסרה בתכנון שיעור בעזרת AI (Pang et al., 2026)

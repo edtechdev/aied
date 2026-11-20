@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -57,9 +59,7 @@ ai_assist:
 
 সেন্সর ও দৃষ্টি-অ্যানালিটিক্স একই শিক্ষার্থী-মডেলে জোগান দেওয়া দ্বিতীয় যন্ত্র-পরিবার, যা চোখ-ট্র্যাকিং, EEG, ইলেক্ট্রোডার্মাল অ্যাক্টিভিটি ও হৃদস্পন্দন ব্যবহার করে মনোযোগ, সম্পৃক্ততা ও জ্ঞানীয় ভার অনুমান করে ([[sensor-and-gaze-analytics]])। এর বৈধতা ও সম্মতি-সমস্যা ট্রেস-তথ্যের চেয়ে খাড়া, কারণ পরিমাপগুলো বায়োমেট্রিক এবং শরীর থেকে মানসিক অবস্থায় যাওয়ার ধাপটি একটি ব্যাখ্যা।
 
-
 **কোর্স-ক্রম নয়, কোর্স-সমবর্তিতা মডেল করুন।** TRACE একটি সেমিস্টারের প্রতিটি কোর্সকে একই অবস্থানগত এনকোডিং দেয়, এবং কোর্স ও নম্বর যৌথভাবে পূর্বানুমান করলে নম্বর-পূর্বানুমানের ত্রুটি 0.1339 MAE-তে নেমে আসে — কেবল-নম্বর ট্রান্সফরমারের তুলনায় 46.4% হ্রাস — প্রতিষ্ঠানের দশ বছরের তথ্যে ([[trace-course-grade-prediction-2026|Savala (2026)]])।
-
 
 **মিথস্ক্রিয়া-তথ্য মডেলিংয়ের আগে একটি উপস্থাপনা-সমস্যা।** [[taufer-human-ai-interaction-haidl-2026|Taufer প্রমুখ (2026)]] প্রতিটি মানব-এআই বিনিময়কে একটি বিচ্ছিন্ন প্রম্পট হিসেবে নয়, বরং একটি কাঠামোবদ্ধ রেকর্ড হিসেবে গণ্য করেন যা অনুরোধের প্রেরণা-গণনা, অনুরোধ, প্রতিক্রিয়া, ব্যবহারকারীর প্রতিক্রিয়া এবং পরবর্তী সম্পাদন বহন করে। 35-শিক্ষার্থীর একটি প্রয়োগে 140টি শিক্ষার্থী-অ্যাসাইনমেন্ট জোড়া জুড়ে কেবল মিথস্ক্রিয়া-সংখ্যা সফলভাবে সম্পাদিত সেলের সঙ্গে r = 0.12 সম্পর্কযুক্ত, এবং একই কল ত্রুটি-পুনরুদ্ধার, পরবর্তী ধাপ, ধারণা-যাচাই বা বৈধতা যাচাই হতে পারে — নির্ভর করে তার চারপাশের অবস্থার উপর। প্রবেশাধিকার থাকা সাতাশটি জোড়া কোনো মিথস্ক্রিয়াই করেনি, তাই লগে এআই-ব্যবহারের অনুপস্থিতিকে প্রয়োজনের অনুপস্থিতি হিসেবে পড়া যায় না।
 
@@ -75,7 +75,6 @@ ai_assist:
 - **প্রমাণভিত্তি এখনও হস্তক্ষেপ-প্রমাণ নয়।** শিক্ষার্থী, শাস্ত্রীয়, শিক্ষক ও প্রতিষ্ঠান — এই চার স্তরে চারটি গবেষণা সংশ্লেষ করে [[learning-analytics-genai-learning-design|Rienties, Divjak ও Law (2026)]] দেখেন ক্ষেত্রটি আধিপত্য বিস্তার করেছে ক্রস-সেকশনাল, [[self-report-measures|স্ব-প্রতিবেদন]], বক্তৃতা-ভিত্তিক ও বিশেষজ্ঞ-বিচার নকশায়, এবং কারণগত প্রক্রিয়া ও দীর্ঘমেয়াদি, বণ্টনমূলক ফলাফল পরীক্ষা করে এমন হস্তক্ষেপ-গবেষণার আহ্বান জানান।
 
 **একটি র‍্যান্ডমাইজড-উৎসাহ নকশা কারণগত অ্যাঙ্কর জোগায়।** ASSISTments-এ একটি র‍্যান্ডমাইজড-উৎসাহ পরীক্ষায় [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan ও Sales (2025)]] প্ল্যাটফর্মে নতুন শিক্ষকদের একটি অ্যাসাইনমেন্ট তৈরি করার পর অ্যাসাইনমেন্ট-প্রতিবেদন দেখতে এলোমেলোভাবে প্ররোচিত করেন। 330-শিক্ষকের বিশ্লেষণী নমুনায় (156 নিয়ন্ত্রণ, 174 উৎসাহ; মান-সংযোজনে 281), প্রথম-অ্যাসাইনমেন্ট প্রতিবেদন দেখা পরবর্তী-অ্যাসাইনমেন্ট সম্পন্নতা উল্লেখযোগ্যভাবে বাড়িয়েছে (Anderson-Rubin F = 4.092, p = 0.044) — সামগ্রিকভাবে অন্তত 2 শতাংশ-বিন্দু। 44 জনের কম শিক্ষার্থীর শ্রেণিতে লাভ ছিল অন্তত 24.5 শতাংশ-বিন্দু (AR F = 7.475, p = 0.007), অথচ 121,890টি অ্যাসাইনমেন্টের কেবল 54.0% প্রতিবেদন দেখা হয়েছিল এবং শুরু ও মান-সংযোজিত ফলাফল নড়েনি। একই প্ল্যাটফর্ম-ডেটা ক্ষেত্রটির বৃহত্তম বদ্ধ-চক্র রেটিং কেস বহন করে: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson প্রমুখ (2025)]] 5,214,211টি শিক্ষার্থী-প্রশ্ন সেশন বিশ্লেষণ করেন, যেখানে thumbs-down (প্রতি 1,000-এ 2.00) জেনারেটর-নিয়ন্ত্রিত বৈশিষ্ট্য অনুসরণ করেছে এবং প্রশ্ন-স্তরের ভিন্নতার চেয়ে শিক্ষার্থী-স্তরের ভিন্নতা প্রাধান্য পেয়েছে (BIC 101,572.9 বনাম 123,342.0)।
-
 
 লার্নিং অ্যানালিটিক্স জ্ঞানভিত্তিতে তিন প্রজন্ম পেরিয়ে এসেছে: বর্ণনামূলক (কী ঘটল?), পূর্বানুমানমূলক (কী ঘটবে?), এবং নির্দেশনামূলক (আমাদের কী করা উচিত?)। এআই নির্দেশনামূলক স্তর সম্ভব করে — এমন অ্যানালিটিক্স যা সরাসরি [[feedback|শিক্ষামূলক হস্তক্ষেপ]] ঘটায়। একটি মূল সীমান্ত হলো **কার্যযোগ্যতার ব্যবধান**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel ও Laforge 2026)]] দেখায় সিদ্ধান্ত-সমর্থনের জন্য কেবল পূর্বানুমান যথেষ্ট নয়, এবং কাউন্টারফ্যাকচুয়াল প্রতিকার (recourse) কেবল তখনই কার্যক্রমে অর্থবহ হয় যখন সুপারিশগুলো অর্থপূর্ণভাবে সম্ভব ও যন্ত্র-যাচাইযোগ্য — SHACL যাচাইয়ের মাধ্যমে সময়, বাজেট, অপরিবর্তনীয়তা ও প্রাপ্যতা দ্বারা সীমাবদ্ধ, কেবল মডেল-বৈধ নয়। এটি ক্ষেত্রটিকে ঝুঁকি-স্কোরের বাইরে এমন সুপারিশের দিকে নেয় যা প্রতিষ্ঠান সত্যিই কার্যকর করতে পারে, [[human-in-the-loop-ai|মানব তত্ত্বাবধান]] অক্ষুণ্ণ রেখে।
 
@@ -105,7 +104,6 @@ ai_assist:
 - **LA-ভিত্তিক শিক্ষামূলক হস্তক্ষেপের সক্রিয়কারক (2026)।** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak ও Kadoić (2026)]] Delphi + AHP + SNAP-এর মাধ্যমে বিশ্বাসযোগ্য LA-ভিত্তিক শিক্ষামূলক হস্তক্ষেপের সাতটি সক্রিয়কারক শনাক্ত ও অগ্রাধিকার দেন: [[governance|প্রাতিষ্ঠানিক]] কৌশলগত অভিমুখ, পেডাগগিক্যাল ও অন্যান্য [[research-methods-aied|গবেষণা]] ভিত্তি, প্রাপ্য সম্পদ, পেডাগগিক্যাল সহায়তা, নীতি ও তথ্য-সুশাসন, স্টেকহোল্ডার সম্পৃক্ততা, এবং মান-নিশ্চয়তা। প্রাতিষ্ঠানিক কৌশলগত অভিমুখ সর্বোচ্চ (এবং অন্য সক্রিয়কারকগুলোর উপর সর্বাধিক প্রভাবশালী) স্থান পেয়েছে, প্রাপ্য সম্পদ দ্বিতীয়। [[trust|বিশ্বাসযোগ্যতা]] (নৈতিক সম্মতি, স্বচ্ছ/নিরপেক্ষ অ্যালগরিদম, পেডাগগিক্যাল বৈধতা) পূর্বশর্ত হিসেবে বাঁধা হয়েছে, যা ছাড়া LA-ভিত্তিক হস্তক্ষেপ অর্থবহ নয়।
 - **LLM মিথস্ক্রিয়ার গভীরতা কাজের মান পূর্বানুমান করে, স্মৃতি-পুনরুদ্ধার নয় (2026)।** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] টার্ন-স্তরের LLM কথোপকথন টেলিমেট্রি (Depth/Volume/Pacing) কে [[learning-gains|শিখন-ফলাফলের]] সঙ্গে যুক্ত করেন: ব্যাখ্যা-অন্বেষী "গভীরতা" স্বাধীনভাবে চিহ্নিত কাজের মান পূর্বানুমান করেছে (β = 6.27) কিন্তু তাৎক্ষণিক স্মৃতি-পুনরুদ্ধার নয় — বিস্তার-চালিত বোঝাপড়া ও পুনরুদ্ধার-চালিত সংহতকরণের মধ্যে একটি বিচ্ছেদ, যার প্রভাব আছে LA-তে [[llm|LLM]] মিথস্ক্রিয়া কীভাবে পরিমাপ ও মূল্যায়ন করা হয় তার উপর।
 
-
 - **একটি ভাগ করা মিথস্ক্রিয়া-একক অনুপস্থিত।** 33 গবেষণার 46টি শ্রেণিবিন্যাস জুড়ে কোনো ভাগ করা মেটা-বৈশিষ্ট্য নেই — একই ধরনের লেবেল ভিন্ন ঘটনাকে নাম দেয় — তাই পর্যালোচনাটি *মিথস্ক্রিয়া এপিসোড*, একটি লক্ষ্য-নির্দেশিত সীমাবদ্ধ বিনিময়, সংলাপকে দক্ষতা-অর্জনের সঙ্গে সম্পর্কযুক্ত করার একক হিসেবে প্রস্তাব করে ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen ও Weidlich (2026)]])।
 - **লার্নিং অ্যানালিটিক্সের জন্য সহযোগিতামূলক বক্তৃতা সিমুলেট করা।** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] সূক্ষ্ম-টিউনকৃত অংশগ্রহণকারী-নির্দিষ্ট LLM এজেন্ট ব্যবহার করে সহযোগিতামূলক সমস্যা-সমাধান সংলাপ পুনরুৎপাদন করেন, যা জ্ঞানতত্ত্বীয় নেটওয়ার্ক বিশ্লেষণে যাচাইকৃত (ENA দূরত্ব 0.17, পারমিউটেশন p = 0.65)। এই পদ্ধতি লার্নিং-অ্যানালিটিক্স গবেষকদের নতুন মানব-তথ্য না সংগ্রহ করেই মিথস্ক্রিয়া-গতিশীলতা, পালা-গ্রহণ ও বিষয়গত কোড-গতিপথ অধ্যয়নের জন্য প্রামাণিক সহযোগিতামূলক বক্তৃতা তৈরির স্কেলযোগ্য উপায় দেয়।
 - **উন্মুক্ত, পুনরুৎপাদনযোগ্য তথ্য ও ট্রেস-প্রস্তুত অ্যানালিটিক্স।** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] সহযোগিতামূলক প্রোগ্রামিংয়ে মিথস্ক্রিয়া ও অংশগ্রহণ-ভারসাম্য বিশ্লেষণের জন্য ট্রেস-প্রস্তুত স্কিমাসহ একটি সিন্থেটিক [[benchmark|বেঞ্চমার্ক]] প্রকাশ করে (N=540; 360 সেশন; 1,440 এপিসোড)। এই সাহিত্যে লগ ও ট্রেস-তথ্য [[self-report-measures|স্ব-প্রতিবেদনের]] স্বাভাবিক পাল্টা-ভার: একই গঠন প্রায়ই দুইবার মাপা হয়, একবার জিজ্ঞাসা করে ও একবার পর্যবেক্ষণ করে, এবং দুটো সবসময় মেলে না। আলাদাভাবে, SHAP বিশ্লেষণসহ একটি অন্বেষণমূলক ML কাঠামো বিশ্ববিদ্যালয় শিক্ষার্থীদের মধ্যে অভীষ্ট একাডেমিক ChatGPT-ব্যবহারের সঙ্গে সবচেয়ে সম্পর্কিত শিখন-গঠনগুলো শনাক্ত করেছে, [[explainable-ai|ব্যাখ্যাযোগ্যতাকে]] অগ্রাধিকার দিয়ে ([[determinants-chatgpt-use-higher-education-2026]])।
@@ -130,81 +128,9 @@ ai_assist:
 
 মাল্টিমোডাল সূচক স্থির রেখে কেবল একটি বর্ণনামূলক ব্যাখ্যা যোগ করা প্রাক-সেবা শিক্ষকদের ব্যাখ্যা (η² = 0.166) ও অর্থ-নির্মাণ (η² = 0.220) বাড়িয়েছে, অথচ কার্যযোগ্য রূপান্তর নড়েনি — বাধা ছিল ব্যাখ্যা-স্তর, তথ্য নয় ([[liu-teaching-analytics-dashboard-2026|Liu প্রমুখ, 2026]])।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"একটি জ্ঞান-অবস্থার অনুমান তথ্য থেকে তার বৈধতা উত্তরাধিকার পায়।"** **আইটেমকে গুণাবলির সঙ্গে যুক্ত করা Q-ম্যাট্রিক্স একটি অনুমান, তথ্য নয়**: **বিশ্লেষিত 918 আইটেমের মধ্যে 14টির** প্রত্যাখ্যাত এন্ট্রি মানে ম্যাপিংটিরই বিচার-নিষ্পত্তি দরকার ছিল। ম্যাপিং যাচাই করা একটি ধাপ, আনুষ্ঠানিকতা নয়।
 - **নামকৃত শিখন-কৌশলের বিপরীতে ক্লিকস্ট্রিম পড়া LLM।** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr প্রমুখ (2026)]] একটি [[llm|LLM]] পাইপলাইন সাজান যা শিক্ষার্থীর ট্রেসে একটি কৌশলের প্রমাণ খুঁজে বের করে, নিষ্ঠা বিচার করে, এবং বিচারের পেছনের কাজগুলো উদ্ধৃত করে, একটি কঠিনতর সিমুলেশনে সামগ্রিক মান 0.735-এ পৌঁছায়, সমতল বেসলাইনে 0.704-এর বিপরীতে।
 - **"অ্যানালিটিক্সের ক্লিকস্ট্রিম ট্রেস দরকার।"** **LMS মিথস্ক্রিয়া ও অর্জন-তথ্য থেকে সরাসরি কোর্স-ফলাফল অনুসরণ করে** OBE affinity ম্যাপিং ব্যবহার করে ফলাফল-ভিত্তিক শিক্ষার মধ্যে জ্ঞান-অবস্থা অনুমান করা যায় — প্রাতিষ্ঠানিক রেকর্ডই সংকেত সরবরাহ করে।
 - **"কার্য-জানালা ছাড়া পূর্বানুমান কাজে লাগে।"** অগ্রগতি-পূর্বানুমান সবচেয়ে ব্যবহারযোগ্য যখন তা **ব্যাখ্যাযোগ্য ও একটি কার্য-জানালার সঙ্গে জোড়া**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ও Koprinska (2025)]] মডিউল-স্তরের ফলাফল পূর্বানুমান করেন, যা উপদেষ্টা কাজে লাগাতে পারেন এমন একটি রূপ — কাঁচা স্কোরের বিপরীতে।
-
-## সংযুক্ত ধারণা
-
-- [[explainable-ai]]
-
-- [[automation-bias]] — কেন বিদ্যমান একটি ফ্ল্যাগ যাচাই না হয়েও কার্যকর হয়
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — পূর্বানুমান যে সহায়তা-দিকে খাওয়ায়: রেফারেল, বরাদ্দ, এবং তারা যে ফলাফল বদলায় বা বদলায় না
-
-- [[sensor-and-gaze-analytics]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: সাহিত্য-সংজ্ঞায়িত শিখন-কৌশলের মাধ্যমে ক্লিকস্ট্রিম ব্যাখ্যা (Radmehr প্রমুখ 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — কাঠামোবদ্ধ রেকর্ড হিসেবে মানব-এআই বিনিময়: প্রম্পট-গণনা অগ্রগতি সম্পর্কে প্রায় কোনো সংকেত বহন করে না
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — এআই-বিশ্লেষণ লক্ষ্য করা ও সমষ্টিগত যুক্তিতে সাজানো (Lee, Park ও Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — দায়বদ্ধ প্রাতিষ্ঠানিক অ্যানালিটিক্স: এআই-সহায়তায় পক্ষপাত ব্যাখ্যা
-
-- [[ai-supported-lecturer-decision-making-2026]] — উচ্চশিক্ষায় এআই-সমর্থিত প্রভাষক-সিদ্ধান্ত গ্রহণ
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — গোপনীয়তা-রক্ষাকারী একাডেমিক ঝুঁকি-মডেলিংয়ের জন্য ফেডারেটেড ও ব্যাখ্যাযোগ্য লার্নিং অ্যানালিটিক্স (Villegas-Ch প্রমুখ 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — শিক্ষার্থীরা কী জিজ্ঞাসা করে তা গুরুত্বপূর্ণ: LLM মিথস্ক্রিয়ার গভীরতা, কাজের মান ও তাৎক্ষণিক স্মৃতি-পুনরুদ্ধার (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — লার্নিং অ্যানালিটিক্স থেকে শিক্ষামূলক হস্তক্ষেপে: বিশ্বাসযোগ্য LA-ভিত্তিক হস্তক্ষেপের সক্রিয়কারক (Svetec, Divjak ও Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — লার্নিং ডিজাইন সিদ্ধান্ত গ্রহণে LA ও GenAI
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — শিক্ষার্থী-ঝুঁকি পূর্বানুমান থেকে SC2R: কাউন্টারফ্যাকচুয়াল প্রতিকার
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ব্যক্তিগতকৃত শিখন-পথের জন্য বায়েসিয়ান জ্ঞানগত রোগনির্ণয়
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — লার্নিং অ্যানালিটিক্সের জন্য স্ব-ব্যাখ্যাকারী LM ডিস্টিল করা
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — এআই কি বৈচিত্র্যময় শিক্ষার্থী-প্রোফাইলের জন্য উপযুক্ত সহায়তা দিতে পারে? একটি বৃহৎ-পরিসর মূল্যায়ন
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — সূক্ষ্ম-টিউনকৃত অংশগ্রহণকারী-নির্দিষ্ট LLM এজেন্ট সহযোগিতামূলক সমস্যা-সমাধান সংলাপ পুনরুৎপাদন করে (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — মাল্টি-এজেন্ট টিউটরিং ও অংশগ্রহণ-ভারসাম্যপূর্ণ সহযোগিতার ASTRA সিন্থেটিক বেঞ্চমার্ক
-- [[determinants-chatgpt-use-higher-education-2026]] — উচ্চশিক্ষায় ভবিষ্যৎ ChatGPT-ব্যবহারের ML/SHAP নির্ধারক
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — মিশ্র শ্রেণিকক্ষে শিক্ষকদের কাছে ML-ফলাফল সহজলভ্য করা
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity ম্যাপিংসহ ফলাফল-ভিত্তিক জ্ঞান-অনুসরণ
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — 554 কোর্সে 29,064 পরিকল্পিত কার্যক্রমের মার্কভ চেইন ও প্যাটার্ন মাইনিং, যা Acquisition-নেতৃত্বাধীন ও Practice-সংহতকরণকারী একটি নকশা-ব্যাকরণ প্রকাশ করে
-- [[pulla-parsons-problem-tool-2026]] — Pulla: Parsons সমস্যায় প্রক্রিয়া-স্তরের আচরণ-অনুসরণ ও প্রশিক্ষক-মুখী কাঠিন্য-বিশ্লেষণ (Prol প্রমুখ 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — জেনারেটিভ এআই দিয়ে মাধ্যমিক শিক্ষার্থীদের লেখালেখি সমর্থনে লার্নিং অ্যানালিটিক্স
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": শিক্ষা, এআই এবং এডটেকে শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ
-- [[synthetic-educational-data-structural-fidelity-2026]] — বিশ্বস্ততা-মেট্রিক যা মিস করে: সিন্থেটিক শিক্ষামূলক তথ্যের একটি কাঠামোগত যাচাই
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — সেমিস্টারের প্রথম দিকের LMS ট্রেস থেকে এআই-সহায়তাপ্রাপ্ত প্রতারণার ঝুঁকি পূর্বানুমান (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — মাল্টিমোডাল টিউটরিং ট্রান্সক্রিপশন দিয়ে শিখন-ব্যবস্থার দেয়াল ভাঙার পথে (Thomas প্রমুখ 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — সম্পন্নতার হার সম্পৃক্ততার পতন ঢেকে দিতে পারে
-- [[kim-ai-embodied-learning-review-2026]] — শরীর-সংযুক্ত শিখনে এআই বেশিরভাগই পর্যবেক্ষণ করে: কোডকৃত ভূমিকা-ট্যাগের 62.5% সংবেদন ভূমিকা, এবং পর্যালোচিত কোনো ব্যবস্থাই শিক্ষার্থীর ব্যবহারকালে মাল্টিমোডাল স্ট্রিম মেলায়নি (Kim ও Han 2026)
-
-- [[liu-teaching-analytics-dashboard-2026]] — সক্রিয়-নিয়ন্ত্রণ মাইক্রোটিচিং অধ্যয়ন যা ব্যাখ্যা-স্তর আলাদা করে: ব্যাখ্যা নড়েছে, কার্য নড়েনি (Liu প্রমুখ 2026)
-

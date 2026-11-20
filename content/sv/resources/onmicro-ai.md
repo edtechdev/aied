@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -43,7 +44,3 @@ Det passar lärare och lärandedesigners som vill ha avgränsade, upprepbara int
 ## Anteckningar och förbehåll
 
 Gratisnivån är begränsad till 10 000 AI-krediter och tre appar; obegränsat antal appar och avancerade modeller börjar på Pro-nivån, och LTI-integration, enkel inloggning och avancerad analys anges på Enterprise-nivån, så de funktioner ett lärosäte mest behöver är de som kostar. Förrådet är licensierat under **AGPL-3.0** enligt sin `LICENSE`-fil, vilket spelar roll för den som avser att självhosta eller ändra det, och dess README säger fortfarande LGPL från före den ändringen, så läs licensfilen i stället för README. Lärosäten bör också bekräfta sina egna databehandlingsvillkor innan de skickar studentarbete genom en hostad tredjepartstjänst.
-
-## Anslutna begrepp
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

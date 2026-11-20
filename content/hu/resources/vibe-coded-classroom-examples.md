@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,12 +43,3 @@ Olyan tanároknak, bármilyen szakterületen, akik a saját eszközfajtájukra s
 ## Megjegyzések és fenntartások
 
 Ezek tanítási demonstrációk, nem értékelt beavatkozások: az oldal egyikükről sem számol be tanulási eredményre vonatkozó bizonyítékról, és több közülük a szerző saját építése, nem független tantermi használat. Az építés minősége a modellt és az iterációk számát követi, így egy példa, amely egy modellverzióban működött, később elcsúszhat vagy elromolhat, a generált eszközök pedig elég gyakran állítanak tévesen tényeket ahhoz, hogy az oldal saját ellenőrzőlistája szerint minden számot ellenőrizni kell az eszköz által felsorolt források ellen. A galéria Bowen munkáját más oktatók hozzájárulásaival és elavulható harmadik féltől származó hivatkozásokkal keveri. Az olvasáshoz nem kell fiók; az oldal ingyenes, Bowen műhelymunkái és tanácsadása viszont fizetősek.
-
-## Kapcsolódó fogalmak
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

@@ -30,6 +30,7 @@ ai_assist:
 translation_of: "resources/liascript"
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -46,8 +47,3 @@ Il progetto pubblica anche un **[teaching agent](https://github.com/LiaScript/te
 ## Note e avvertenze
 
 LiaScript è gratuito, senza livelli a pagamento e senza obbligo di account, ed è sviluppato apertamente sotto licenza BSD-3-Clause, così che le istituzioni possono ospitarlo in autonomia e modificarlo. La funzionalità Live Classroom merita un esame prima di farvi affidamento su larga scala, perché la sincronizzazione in tempo reale usa un servizio condiviso anziché un rendering puramente locale. Il teaching agent è giovane e poco adottato, quindi va trattato come un prototipo funzionante piuttosto che come un prodotto supportato.
-
-## Concetti collegati
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
-

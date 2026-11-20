@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,8 +47,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 무료는 개별 교실 워크플로를 대상으로 하며, 기관용 가격은 별도로 존재하고 학생당 또는 교사당 요금이 아니라 배포 범위, 데이터 처리, 지원, 규정 준수에 연동되어 있습니다. 보고서는 의도가 아닌 과정을 보여주므로, 복사-붙여넣기만으로는 부정행위가 아닙니다. 이 프로젝트 자체 지침도 학생이 자신의 이전 글을 붙여넣고 있을 수 있으며, 붙여넣기만을 이유로 학생에게 불이익을 주어서는 안 된다고 말합니다. 채택 수치와 Chrome 웹 스토어 5.0 평점은 이 프로젝트의 자체 마케팅 자료이며, 확장 스토어의 리뷰는 학습 결과에 대한 독립적인 증거가 아닙니다. 이 보고서는 이 도구가 설계된 방식이자 개발자가 설명하는 방식, 즉 대화를 위한 증거로 읽어야 합니다.
-
-## 연결된 개념
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

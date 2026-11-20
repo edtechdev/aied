@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -35,9 +37,7 @@ Uchanganuzi wa lugha asilia katika elimu inatumia mbinu za kikokotozi kwenye lug
 
 ### Matumizi yaliyorodheshwa katika hifadhi ya maarifa
 
-
 - **Maandishi yaliyozalishwa yanabeba [[reading-education|mzigo wake wa usomaji]].** Clark et al. (2026) wanagundua kuwa mifano ya hivi karibuni hutumia kupita kiasi miundo ambayo fasihi ya usindikaji inaihusisha na gharama ya uelewa — n-gram zenye masafa ya chini, nomino zilizorundikwa, vitenzi vilivyotokana na nomino, utegemezi mrefu, vifungu vya yambwa vilivyopunguzwa — ikilinganishwa na tafsiri zao zinazohifadhi maana na na msingi wa binadamu uliolinganishwa kwa aina, na wanafuatilia mtindo huo hadi mafunzo ya baada ya mafunzo yanayothawabisha msongamano wa taarifa badala ya uwazi ([[clark-ai-generated-language-readability-2026]]). Kupima ugumu wa maandishi kwa hivyo kunahusu kile mfano unaandika, si maandishi yanayomwelekea mwanafunzi tu anayoombwa kurahisisha.
-
 
 - **Uchanganuzi wa lugha ya mwanafunzi.** [[llm-sentiment-analysis-education-research]] inatumia uchanganuzi wa hisia unaotegemea LLM katika utafiti wa kielimu, ikitoa ishara za kihisia na za tathmini kutoka maandishi ya mwanafunzi kwa kiwango kikubwa, na kuyalisha [[learning-analytics]] na [[affective-computing]].
 - **Utambuji na upimaji.** [[llm-item-difficulty-prediction]] na [[vocabulary-difficulty-prediction]] zinatumia miundo ya lugha kukadiria ugumu wa kipengele na wa maandishi — ingizo kuu za [[educational-measurement]], [[adaptive-learning]], na miundo ya [[item-response-theory]].
@@ -62,7 +62,6 @@ Uchanganuzi wa lugha asilia katika elimu inatumia mbinu za kikokotozi kwenye lug
 - **Uaminifu wa huluki za nakala za ASR ni swali tofauti na usahihi wa kileksia.** Kwa kulinganisha mifumo mitano ya utambuzi wa sauti dhidi ya nakala ya rejeleo ya binadamu, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] wanaripoti ushahidi wa kwanza wa hifadhi ya maarifa wa uaminifu wa huluki wa ASR/NER: viwango vya makosa ya maneno vilianzia 2.43% (TurboScribe) hadi 15.32% (Vosk), huku uwekaji wa lebo za aina za huluki za dhahabu za kategoria saba ukiona GPT-5.5 ikifika usahihi 0.805 (κ = .726) dhidi ya spaCy ya 0.634 (κ = .488).
 Uwiano wa WER peke yake hauwezi kuthibitisha kuwa muundo wa huluki ulinusurika katika unukuzi.
 
-
 ### Uhusiano na ufafanuzi na upimaji
 
 NLP ya kielimu inategemeza uchanganuzi wa lugha ya mwanafunzi ([[student-modeling]], [[knowledge-tracing]]) na uzalishaji wa maudhui ya mafunzo yanayobadilika ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] inaonyesha uzalishaji wa maudhui unaoendeshwa na NLP kwa kujifunza, wakati [[zerkouk-comprehensive-review-its-2025]] inaweka NLP katika mazingira pana zaidi ya [[intelligent-tutoring]]. Kadire uchanganuzi unaotegemea LLM unavyokua, mifumo ya [[rct]] na [[research-methods-aied]] ni muhimu kwa kuthibitisha kuwa ufahamu unaotokana na NLP unaboresha kweli kujifunza. 
@@ -76,38 +75,3 @@ Embedding pia zinaweza kupanga maandishi ya mwanafunzi kwa umbo la uso badala ya
 - **"Ufanano wa kimaanisha unaweza kuchuja upatanishaji wa mtaala."** Kuchuja **jozi 3,837 za malengo na muhtasari wa meno**, urejeshaji wa embedding pamoja na ukaguzi wa inference ya lugha asili **ulihukumu 22.9% ya vitu** kuwa vimepatana; ufanano wa kimaanisha ni **ishara dhaifu** ya upatanishaji. Mechi ya mada yenye ufasaha na mechi halisi ya lengo la kujifunza ni mahusiano tofauti.
 - **"Uainishaji wa ngazi ya neno ni kipimo cha asili."** **Uigaji wa somo zima unashinda uainishaji wa ngazi ya neno**: kupima nakala zima badala ya maneno yaliyotengwa **kulipandisha utambuzi wa mnyororo wa hoja kwa pointi 14.2**. Muktadha katika somo hubeba habari ambayo zamu yoyote moja huiharibu.
 - **"Kupanua NLP kwenye maoni ya tathmini huzalisha athari."** Mapitio ya wigo ya PRISMA-ScR na ramani ya ushahidi ya **masudio 421** (2015-2026) yanayotumia NLP kwenye tathmini ya wazi ya wanafunzi ya ualimu yaligundua upanuzi **bila kufikia matumizi**. Wingi wa pato la mbinu si upitishaji, na pengo ni hatua ya utekelezaji badala ya uigaji.
-
-## Dhana Zilizounganishwa
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Chombo: teknolojia na mbinu za AI (miundo, mafunzo ya LLM, roboti, RAG, mawakala)
-
-## Makala Zilizounganishwa
-- [[lee-learner-question-types-ai-education-2026]] — Uainishaji wa transformer wa maswali ya wanafunzi katika majukumu ya constructivist (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Uainishaji wa uhusiano wa mazungumzo wa kiotomatiki na BERT kwa ualimu wa Kiingereza
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Seti ya data ya StudyChat ya mazungumzo ya mwanafunzi–LLM katika kozi ya AI
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Upatanishi wa kielimu wa neuro-symbolic (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP na maelezo ya LLM kwa ubora wa ualimu unaotegemea rubriki
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Kunyoosha LM inayojieleza yenyewe kwa uchanganuzi wa kujifunza
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — LLM ya mawakala wengi (GradeOpt) inaweka kodi maarifa ya maudhui na ya kieledu ya walimu; wanaokodi wa kitamaduni na kutoa ilani rahisi wanashindwa kwenye PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Mpango wa Madai kwa Uwekaji Kodi unaoweza Kukaguliwa wa Mazungumzo ya Kielimu
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni Yanaweza Kutumika na Yenye Uwajibikisho: Mapitio ya Upanuzi na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Ualimu, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya miundo iliyofunzwa awali kwa tathmini ya kielimu ya maswali mapya ya kielimu yanayosaidiwa na AI
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: mstari wa mantiki ya uteuzi kwa kuweka lebo za dhana maarifa za undani maridogo
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Nguzo za embedding zinazopanga kwa maneno badala ya fizikia

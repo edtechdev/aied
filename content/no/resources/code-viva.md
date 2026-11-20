@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -40,7 +41,3 @@ Undervisere på programmeringsemner som vil ha belegg for at en student kan fork
 ## Merknader og forbehold
 
 Alt kjører i nettleseren: emnet ligger i lokal lagring med en JSON-eksport, spørsmålene reiser i den delen av en lenke nettlesere ikke sender til servere, og svarene kommer bare tilbake som koder studentene velger å sende, så ingen studentdata når en tredjepart. Spørsmålsgeneratoren er regelbasert snarere enn modelldrevet. Etter verktøyets egen beskrivelse er kodeleseren heuristisk, så uvanlig formatering eller makroer kan skjule en funksjon, og en poengsum kan belønne kjennskap til vokabularet snarere enn forståelse av koden, som er grunnen til at poengsummene er forslag en underviser godkjenner, og til at det anbefaler å holde innsatsen lav. Ingen lisens og ingen kildekoderepositorium er publisert, og fordi lenkene bærer spørsmålene, blir de noen kilobyte lange – nok til å brytes i en meldingsboks i et læringsadministrasjonssystem.
-
-## Tilknyttede begreper
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -120,36 +122,3 @@ ai_assist:
 זה לא הופך את העבודה לחסרת תועלת. זה הופך את הטענות לצנועות כראוי. איסוף מטאפורות יכול לחשוף הנחות שסקרים מחמיצים. ביקורת אנלוגיות יכולה להפוך הבנה מבנית לגלויה. מטאפורה נבחרת היטב יכולה לתת לכיתה אובייקט משותף להתווכח עליו. אבל התחום עדיין זקוק למחקרים שמשווים הוראה מבוססת מטאפורות להוראה רגילה, מודדים העברה ולא היזכרות במטאפורה, ובוחנים אם הגישה עוברת בין תרבויות ותחומים.
 
 הסיכון להצהרת יתר ממשי בשני הכיוונים. מורה שמתייחס למטאפורה כהסבר שלם יכול להחדיר תפיסה מוטעית. חוקר שמתייחס למטאפורה כקישוט גרידא יכול להחמיץ מנגנון שדרכו סטודנטים בונים מודל מנטלי או נכשלים בבנייתו. העמדה הפרודוקטיבית היא להתייחס למטאפורה כייצוג מעוצב, חלקי ובר-ביקורת, ולחקור מה הלומדים עושים איתה.
-
-## מושגים מחוברים
-
-- [[ai-literacy]] — המטרייה לאוריינות AI ביקורתית ולהוראה מבוססת מטאפורות.
-- [[critical-thinking]] — ביקורת אנלוגיות כצורה של חשיבה מבנית.
-- [[misconceptions]] — אנלוגיות פגומות כמקור לתפיסות מוטעות עמידות.
-- [[student-ai-interaction]] — כיצד סטודנטים מפרשים ומבקרים הסברים של AI.
-- [[pedagogical-agent]] — מתרגלי AI שמייצרים הסברים או אנלוגיות.
-- [[learning-design]] — בחירה ורצף של חומרים מבוססי אנלוגיה.
-- [[educational-development]] — איסוף מטאפורות בפיתוח סגל.
-- [[engineering-education]] — מטאפורות של סגל וסטודנטים בהנדסה.
-- [[cs-education]] — שימוש באנלוגיות וביקורתן בחינוך למחשוב.
-- [[cognitive-offloading]] — מטאפורות של כלי ועוזר והסיכונים שלהן.
-- [[trust-calibration]] — תפקידים אנתרופומורפיים ואמון מוטעה.
-- [[equity-in-ai-education]] — אילו תחומי מקור נחשבים מוכרים.
-- [[teacher-role]] — שיפוט המדריך על הסברים שנוצרו ב-AI.
-- [[explainable-ai]] — הסבר מערכת מול אנלוגיה פדגוגית.
-- [[student-engagement]] — השפעות מעורבות של אנלוגיות מותאמות אישית.
-- [[higher-ed]] — המסגרת של רוב המחקרים באשכול הזה.
-
-## מאמרים מחוברים
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — ארבע מטאפורות וקריטריונים להוראת אוריינות AI ביקורתית
-- [[student-reception-genai-analogies-computing-2026]] — סטודנטים מבקרים אנלוגיות שנוצרו ב-GenAI ומתקנים מיפויים שבורים
-- [[fear-awe-genai-metaphor-workshops-2025]] — סדנאות ניתוח מטאפורות עם סטודנטים, אקדמאים וצוות
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — מטאפורות של סגל הנדסה בונות ומגבילות את הבנת AI
-- [[genai-professionalization-metaphors-2026]] — תפיסות מטאפוריות של סטודנטים את GenAI ולמידה מקצועית
-- [[thermomix-genai-education-analogy-2026]] — אנלוגיית מכשיר מטבח להאצלה וללמידה עם AI
-- [[anvil-ai-educational-animations]] — אנלוגיות ואנימציות הוראתיות שנוצרו ב-AI למחשוב
-- [[ai-engineering-education-balancing-act]] — מטאפורות "אורקל" ו"מתרגל" של סטודנטים חורגות מיכולות LLM
-- [[code-anchor-multi-view-visualization]] — פיגומים מטאפוריים של ויזואליזציה ובעיית הלגיטימיות שלהם
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — מטאפורת "מכונת ממכר של משוב" של סטודנט כראיית אוריינות
-- [[daoism-ai-education-philosophy-2026]] — "ג'ן-רן" כמטאפורה נגדית ל-AI בחינוך

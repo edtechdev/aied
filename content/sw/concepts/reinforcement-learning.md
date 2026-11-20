@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -64,29 +66,3 @@ RL inaweka msingi wa mengi ya ubuni wa kisasa wa [[agentic-ai]] na [[intelligent
 **"Upeo mrefu wa muda ni bora zaidi kila wakati."** Huwezesha kile upeo mfupi hauwezi, na huhitaji malipo kuwa sahihi katika mlolongo wote. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] huboresha **mikutano yote ya kliniki ya zamu 60**, mbali zaidi ya upeo wa zamu ≤12 wa mifumo ya mazungumzo ya wakati mmoja, jambo linaloinua gharama ya lengo lisilobainishwa vizuri badala ya kuipunguza.
 
 **"RL ni muundo unaofaa kwa ualimu kwa sababu kufundisha ni mfululizo."** Mfululizo ni sharti na hautoshwi; kizuizi kinachofunga ni uhalali wa malipo. Lengo lililobainishwa vizuri lenye sera dhaifu linazidi sera yenye nguvu dhidi ya lengo lisilo sahihi.
-
-## Dhana Zilizounganishwa
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Muunganisho: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, wakala)
-
-## Makala Zilizounganishwa
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF kwa ufuatiliaji wa maelekezo ya kielimu
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada za ICAP zinazobadilika katika ITS (BKT dhidi ya DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

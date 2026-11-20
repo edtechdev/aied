@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -49,7 +50,3 @@ K–12-Lehrkräfte, Instructional Coaches und Curriculumsgestalter, die einen fu
 Die Umbenennung ist ein laufender Übergang, kein abgeschlossener. Google kündigte im September 2026 an, dass Skills die Gems ersetzen, und der Support für Gems endet stufenweise: persönliche Konten im November 2026, Workspace-Kunden in den Bereichen Business, Enterprise und Nonprofit im März 2027 und Workspace-Education-Kunden im Juni 2027. Google zufolge migrieren bestehende Gems automatisch zu Skills, und Skills laufen derzeit, indem man `/` und den Namen in die Prompt-Leiste von Gemini tippt. Links auf dieser Seite zeigen weiterhin auf `/gem/`-Pfade, ein Lesezeichen kann also während der Umstellung weitergeleitet werden oder brechen – prüfen Sie, ob ein Prompt aufgelöst wird, bevor Sie ihn in einen Kurs aufnehmen.
 
 Zwei Zugangstatsachen gehören in jede Einführungsentscheidung. Skills sind in allen Google-AI-Abo-Stufen verfügbar, der Rollout gilt aber vorerst für Personen ab 18 Jahren, während der Zugang für unter 18-Jährige als „demnächst“ beschrieben wird; und das Kopieren eines Prompts erfordert ein Google-Konto und Gemini, es ist also kein anonymes Werkzeug für Lernende. Die Bibliothek ist eine kuratierte Sammlung von Prompts, kein validierter Unterricht: Jeder Eintrag ist ein Ausgangspunkt, dessen Ausgabe noch geprüft werden muss, und die Qualitätsaussagen der Sammlung stammen vom Kurator selbst. Eine offene Lizenz wird nicht genannt, Prompts lassen sich also innerhalb von Gemini kopieren und anpassen, die Bibliothek ist aber nichts, was eine Einrichtung forken und hosten kann.
-
-## Verbundene Konzepte
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

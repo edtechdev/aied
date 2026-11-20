@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -38,7 +39,3 @@ ai_assist:
 ## سبب وجوده
 
 يصف Curt Zilbersher، الذي صمّم تدريبًا مؤسسيًا ثمانية وعشرين عامًا، المشكلات الصغيرة نفسها وهي تتكرر بلا حلّ عبر مسيرته المهنية — عدّ كلمات السرد، والعثور على الأصل الذي دفع مقررًا إلى ما وراء حدّ [[edtech-platform|نظام إدارة التعلّم]]، وتدقيق تغطية التعليقات التوضيحية يدويًا — فهو يبني الإصلاحات ويُقدّمها مجانًا. ويدير الموقع أيضًا مسحًا سنويًا مجانيًا عن كيفية قضاء مصممي التعليم لأسبوعهم فعلًا.
-
-## المفاهيم المرتبطة
-
-[[learning-design]]، [[online-teaching-and-learning]]، [[formative-assessment]]، [[educational-technology-developers]]، [[accessibility]]

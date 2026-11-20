@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -137,71 +139,3 @@ ai_assist:
 - **מודלי שפה קוראים זרמי לחיצות מול אסטרטגיות למידה בעלות שם.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et al. (2026)]] מציגים צינור [[llm|LLM]] שמאתר ראיה לאסטרטגיה בעקבותיו של סטודנט, שופט את הדבקות בה, ומצטט את הפעולות שמאחורי השיפוט, ומגיע לאיכות כוללת של 0.735 בסימולציה קשה יותר לעומת 0.704 לבסיס שטוח.
 - **"אנליטיקה זקוקה לעקבות קליקים."** ניתן לאמוד מצבי ידע בתוך חינוך מבוסס-תוצאות על ידי **עקיבה ישירה אחר תוצאות הקורס מנתוני אינטראקציה והשגה ב‑LMS**, תוך שימוש במפות אפיניות OBE — הרשומה המוסדית מספקת את האות.
 - **"חיזוי בלי חלון פעולה שימושי."** חיזוי התקדמות שמיש ביותר כשהוא **פרשני ומצומד לחלון פעולה**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ו‑Koprinska (2025)]] חוזים תוצאות ברמת מודול, וזו צורה שיועץ יכול לפעול לפיה, שלא כמו ציון גולמי.
-
-## מושגים מקושרים
-
-- [[automation-bias]] — מדוע דגל שקיים נאכף בלי להיבדק
-
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — צד התמיכה שעליו החיזוי מזין: הפנייה, הקצאה והתוצאות שהן מזיזות או אינן מזיזות
-
-- [[sensor-and-gaze-analytics]]
-
-## מאמרים מקושרים
-
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: פירוש זרמי לחיצות דרך אסטרטגיות למידה מוגדרות בספרות (Radmehr et al. 2026)
-
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
-
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
-- [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
-- [[taufer-human-ai-interaction-haidl-2026]] — חילופי אדם–AI כרשומות מובנות: ספירת הנחיות אינה נושאת כמעט אות על התקדמות
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — הבחנה ותזמור של ניתוחי AI לדיון קולקטיבי (Lee, Park & Lee 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — שיעורי השלמה יכולים להסתיר קריסת מעורבות
-- [[kim-ai-embodied-learning-review-2026]] — AI בלמידה מגוגשת בעיקר מתבונן: תפקידי חישה הם 62.5% מתגי התפקיד, ואף מערכת שנסקרה לא מיזגה זרמים רב-מודאליים בזמן שהלומדים השתמשו בה (Kim & Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — מחקר מיקרו-הוראה עם בקרה פעילה שמבודד את שכבת ההסבר: הפרשנות זזה, הפעולה לא (Liu et al. 2026)

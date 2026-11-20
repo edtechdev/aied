@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -82,46 +84,3 @@ ai_assist:
 - **"סטודנטים לעיצוב הם מאמצים נלהבים."** אותה קבוצה מראה **71% שמשתמשים ב-GenAI מדי יום או מדי שבוע, 65% שאינם סומכים עליה, ו-85% שמשנים את פלטה**. שימוש תדיר וחוסר-אמון מתקיימים יחד, ולכן כלי שהצעת הערך שלו מניחה אמון פירש לא נכון את המשתמשים.
 - **"GenAI מועיל באופן כללי לאורך תהליך העיצוב."** פלטפורמת GAI-A שנבנתה לאורך מחקר סטודיו אורכי מצאה **שני שימושים פרודוקטיביים בלבד**: GenAI כגירוי חזותי בסיעור מוחות מוקדם, וכמרחיב **קומבינטורי של מרחב הפתרונות** בשלב הפיתוח. התועלת הייתה ספציפית-לשלב.
 - **"רווחי יצירתיות מפוזרים מדי מכדי למדוד."** בתת-קבוצה של **31 סטודנטים**, ציוני חשיבה יצירתית עלו מ-**77.23 ל-94.68 (d = 0.82)**. הרווח מדיד והוא מוגבל לתת-קבוצה, וזו הצורה הכנה של הטענה.
-
-## מושגים מקושרים
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## מאמרים מקושרים
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: סביבת עבודה לביקורת AI מודעת-יוצר למשוב סטודיו; מחקר מוכנות מבוסס-סימולציה, לא תשואות למידה
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — An architectural-design experiment in which a DALL-E 3 workflow lowered general creative self-efficacy
-- [[human-ai-collaboration-design-education-rubric-2026]] — A process rubric can make AI verification the graded object
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — העמדה כשער הכרחי לכוונת סטודנטים לעיצוב להשתמש בסוכני בינה מלאכותית, עם התאמת משימה–טכנולוגיה כמסלול שני (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — סוג התלות קובע אם אוריינות הנחיות הופכת למעורבות

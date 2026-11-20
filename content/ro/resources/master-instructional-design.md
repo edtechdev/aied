@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -40,6 +41,3 @@ Competența vine cu un ham de susținere: doi subagenți, unul pentru interviuri
 ## Termeni și precauții
 
 Licența este Creative Commons BY-NC-ND 4.0, iar termenii declarați ai autorului contează pentru majoritatea cititorilor instituționali: studiul personal, necomercial și dezvoltarea profesională sunt binevenite, în timp ce folosirea comercială, redistribuirea și white-labeling-ul cer o licență comercială. Depozitul raportează 314 din 320 de puncte pe zece provocări auto-proiectate, ceea ce este evaluarea autorului, nu una independentă, iar același autor vinde consultanță și ateliere pe acest cadru. Proiectul este descris ca o inițiativă personală, neafiliată angajatorilor săi, iar ultimul său commit datează din aprilie 2026.
-
-## Concepte conexe
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

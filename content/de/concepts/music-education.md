@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -72,26 +74,3 @@ Unterrichtsstudien konzentrieren sich auf Motivation statt auf Leistung. [[zhang
 - **„KI-Feedback ersetzt das Gehör der Lehrkraft.“** Die Intonationsstudie hat die Lehrkraft entfernt und die Tonhöhe verbessert, aber ihre Autorinnen und Autoren nennen das Werkzeug ergänzend und haben eine Fertigkeit über vier Wochen gemessen; Li argumentiert ausdrücklich, dass gemessene Abweichung nicht dasselbe ist wie verkörperte Koordination.
 - **„Generative Audio-Werkzeuge lehren Komposition.“** Briots Unterscheidung zwischen autonomen Generatoren und interaktiven Assistenten ist der Gegenbeweis: Prompt-zu-Stück positioniert Lernende als Konsumenten von Ausgaben, und nur Systeme, bei denen Vorgaben gesetzt werden und die Stil lernen, fungieren als Partner.
 - **„Wenn automatisierte Bewertung mit den Mittelwerten der Lehrkräfte übereinstimmt, ist sie einsatzbereit.“** Übereinstimmung im Mittelwert kann Abweichungen auf Dimensionsebene verbergen, weshalb Lin et al. Validierung nach Kriterium und menschliche Aufsicht empfehlen.
-
-## Verbundene Konzepte
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## Verbundene Artikel
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot (2026): Dematerialisierung, Streaming-Auszahlungen und die Unterscheidung zwischen autonomen Generatoren und interaktiven Assistenten
-- [[ai-feedback-violin-intonation-2026]] — Zwölf Geigerinnen und Geiger, vier Wochen KI-Tonhöhenanalyse ohne Lehrkraft, Intonation von 144,75 auf 207,33 gestiegen
-- [[ai-vocal-pedagogy-2026]] — Li (2026): Messbare Tonhöhenabweichung ist keine verkörperte Koordination
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Vier blinde und sehbehinderte Streicherinnen und Streicher; taktile und kinästhetische Hinweise ersetzen die visuelle Demonstration
-- [[gpt4o-mini-music-analysis-scoring]] — 300 Musikanalyse-Antworten; Few-Shot-Chain-of-Thought am nächsten an den Mittelwerten der Lehrkräfte, RAG bewertet zu hoch, schwächer bei Terminologie
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 34 Musikwissenschaftsstudierende zu einem gamifizierten KI-Quiz: Das Format spaltete sie stärker als der Inhalt
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Cross-modale Abstimmung von Audio und Partitur, 91,2 % Recall bei Rhythmusfehlern, 120 Teilnehmende mit schnellerer Verbesserung
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 850 Bachelorstudierende, fünf Messwellen: Engagement, Flow und emotionale Intelligenz als paralleles Wachstum
-- [[chatgpt-music-education-junior-high-2026]] — 508 taiwanesische Schülerinnen und Schüler der Sekundarstufe I zu ChatGPT für das Lernen von Songtexten
-- [[middle-school-genai-steam-interactions-2026]] — Zwölf Achtklässlerinnen und Achtklässler in einem STEAM-Modul zu Mathematik und Musik

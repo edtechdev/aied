@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -97,29 +99,3 @@ ai_assist:
 
 - Използвайте историческите корпуси като базова линия, вместо да третирате настоящето като единственото налично сравнение. Трудовете на AIED за 1985, 1993, 2021 и 2024 г. и IJAIED за 2004, 2014 и 2021 г. са готова надлъжна извадка от собствените твърдения на областта.
 - Цитирайте родословие, когато твърдите новост. Твърдението, че дадена система „персонализира обучението“ или „моделира обучаемия“, е ново само спрямо конкретна предишна традиция, а традицията е документирана.
-
-## Свързани концепции
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Свързани статии
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Човекоцентрично подкрепяно от AI обучение (продължава наследството на Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Когнитивните общи ресурси и AI експертизата (историческо рамкиране)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Преосмисляне на бутона за подсказка в когнитивните тутори
-- [[socrates-students-instructors-llms-lbt-2025]] — Учене чрез преподаване с LLM (родословието на конструкционизма на Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Петдесет години теми в Computers & Education: разпространението на AI се обърна нагоре след 2018 г., четири години преди ChatGPT

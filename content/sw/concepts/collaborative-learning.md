@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,7 +69,6 @@ Mlinganisho mmoja tu wa meta-analysis unaopatikana kwa kazi ya ushirikiano inayo
 
 Uchimbaji wa mchakato uliweka mazungumzo ya hoja za AI kwenye kitovu cha ujumuishaji katika vikundi tofauti, njia tatu zinazoingia na mbili zinazotoka, zikifikiwa kutoka taarifa ya dhana katika 55.6% ya matukio, wakati katika vikundi vya dhana potofu zinazofanana ilikaa kwenye njia ya mstari ya hoji-kisha-chakata. Vikundi tofauti vilidumisha tathmini chanya au ya kati ya matokeo ya AI wakati vikundi vinavyofanana vilidumisha tathmini hasi, ambayo waandishi wanaihusisha kwa sehemu na wakala anayezungumza kwa bidii anayefika baada ya kikundi kuwa tayari kimekubaliana. Kati ya ilani 39, 12 zilikutana na maswali mafupi ya taarifa na ufafanuzi wa wigo, hoja yao kwa tabaka la uainishaji wa maombi linalotenganisha ilani za metaji na zile za kiutaratibu.
 
-
 **Ushirikiano kama kitu cha mafunzo.** [[golrang-propact-pair-programming-2026|ProPACT]] ni [[intelligent-tutoring|mwalimu wa mwenza unaobadilika]] unaoendeshwa na AI kwa programu ya jozi ambayo huchukua *jozi* — si mtu binafsi — kama kitengo cha uchanganuzi, ikionesha mwenendo wa pamoja wa macho, juhudi ya pamoja ya akili, na ishara zinazotokana na mboni katika wakati halisi ili kutabiri kuvunjika kwa ushirikiano hadi sekunde 30 mapema na kuingilia kabla ya kutokea. Jozi zilizopokea maoni ya mapema zilipata mafanikio makubwa ya debugging na kukamilisha kazi kwa ufanisi zaidi, na zikaonyesha maendeleo endelevu katika kanuni za ushirikiano baadaye — ushahidi kwamba AI inaweza kufundisha ushirikiano yenyewe, si tu kusaidia kazi. Kupima uwezo wa ushirikiano unaleta changamoto inayokamilisha ya kutathmini ujuzi wa utatuzi wa matatizo wa ushirikiano (CPS) katika kiwango kikubwa, ambayo kwa kawaida inahitaji kuweka kodi kwa mikono data ya michakato kutoka kazi za kuigiza kuwa tabia za CPS — ya muda mrefu na isiyofaa katika kiwango kikubwa; [[prompt-engineering|kutoa ilani kwa ufahamu wa muktadha]] kwa miundo ya lugha iliyofunzwa mapema hufanya kazi hii ya kuweka kodi kiotomatiki kwa kuiga utegemezi wa muktadha na kuunganisha uwezo wa kiakili na kijamii, ikipata utendaji bora kuliko mistari mingi ya msingi yenye nguvu.
 
 **Ngazi za msaada kwa mpangilio wa mazungumzo ya kikundi, si wingi wake.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela na Cukurova (2026)]] walichimba mlolongo wa mazungumzo ya wanafunzi 65 wa triad na waligundua mpangilio mmoja — kufupisha, kisha kupendekeza, kisha kuuliza — ulifuatilia maboresho huku kinyume chake hakufanya; ngazi ya msaada ya juu zaidi iliongeza tabia ya kazi lakini pia kuandika maandishi na viashiria vidogo zaidi vya utatuzi wa matatizo.
@@ -76,7 +77,6 @@ Uchimbaji wa mchakato uliweka mazungumzo ya hoja za AI kwenye kitovu cha ujumuis
 Ukiwa umeboreshwa kupitia usimamizi wa kijamii wa kurudia na watafiti watatu waliopata mafunzo, ulifikia Cohen's kappa ya 0.89 kwenye maandishi ya uthibitisho ya matamshi 200 na, ukitumika katika maandishi 12 (matamshi 2,371), ulipata miti 315 ya uzi — mifupa ya kimuundo ya nani anaanzisha mada, nani anajibu nani, na michango ipi haipokei upatikanaji.
 
 [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang na Nguyen (2026)]] wanaongeza mhimili usio wa maneno katika upimaji wa ushirikiano wa kikundi kwa kitabu cha misimbo ya video ya aina tano kilichowekwa kwenye mifumo ya Goodwin na Dillenbourg, kikitumika na GPT-4o kwa maandishi ya MLLM. Dhana elekezi ya Ushiriki wa Pembeni — umakini wa mtu binafsi pamoja na ufahamu wa marika na utayari wa kushiriki tena — ilionekana katika vikundi 10/10 vya uwekaji misimbo licha ya kutokuwa na mfano wa moja kwa moja katika nadharia yoyote inayoongoza.
-
 
 **AI kama mpatanishi wa neutral — na mtazamo inapokoma kuwa neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] ni chombo cha [[llm]] kinachotegemea Discord kinachopatanisha mipaka ya taaluma katika timu za wanafunzi za taaluma mbalimbali kwa kudhihirisha dhana za siri na kurejesha muhtasari usio na jina kwa majadiliano ya pamoja. Wanafunzi walithamini kama msaada wa kiakili na kizuizi cha uhusiano, lakini mtazamo wa kati ulijitokeza: neutral ya AI iliyohisiwa ilikuwa na uzito, na ilipungua mara AI ilipoondoka kutoka mpatanishi wa neutral hadi mshauri au mtoa changamoto — kizuizi muhimu ya kubini kwa [[pedagogical-agent|mawakala]] wanaopatanisha ushirikiano huku wakihifadhi [[human-ai-collaboration]] na [[trust-calibration]].
 
@@ -89,7 +89,6 @@ Ukiwa umeboreshwa kupitia usimamizi wa kijamii wa kurudia na watafiti watatu wal
 Kujifunza kwa ushirikiano kinajaza juu ya [[icap-framework|mfumo wa ICAP]] (Mwingiliano–Ujenzi–Hali–Kupitisha): hali ya *mwingiliano* — kujenga maana pamoja kupitia mazungumzo, kutetea msimamo, au kutatua pamoja — huzalisha mabadiliko makubwa zaidi ya maarifa katika taksonomia ya Chi. Hii inafanya ICAP kuwa zaidi ya kuwa udhihirisho kwa mbinu za kieledu za ushirikiano na kizuizi cha kubini juu ya AI. AI inayopatanisha majadiliano (kama [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] au [[golrang-propact-pair-programming-2026|ProPACT]] wanavyofanya) ni ya thamani hasa inapodumisha ushiriki wa *mwingiliano*; AI inayojibu kwa ajili ya kikundi au inayoficha mgogoro wa kiakili inaweza kushusha ushirikiano hadi hali ya *hali* au *kupitisha* tu. Uwekaji alama kwa msingi wa ICAP (ona [[icap-cognitive-engagement-llm-agents|upimaji wa ICAP uliopanuliwa wa mazungumzo ya ushirikiano]]) na utafiti wa muda wa uwezeshaji vyote vinachukua ubora wa mazungumzo ya mwingiliano kama matokeo ya kupendelewa, ukiweka kujifunza kwa ushirikiano katika [[student-engagement]] na mpangilio wa ICAP.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
 
 - **Mwingiliano si wa kina kiotomatiki.** Katika jaribio la karibu la wiki nane na wanafunzi 87 wa shahada ya kwanza, jozi zilizofanya kazi na mfumo wa mawakala wengi wa GenAI zilizalisha miradi bora ya ubuni (M = 89.64 dhidi ya 86.45 kwa kazi ya mtu binafsi kwenye mfumo ule ule). Ongezeko la ufahamu wa ufikiri mahususi lilikwenda upande mwingine: kubwa zaidi kwa mtu binafsi (M = 0.41), karibu tupu kwa ushirikiano wa marika (M = 0.06) na hasi kidogo kwa hali ya AI ya jozi (M = -0.04) ([[bjet-many-hands-make-light-work-2026|Chu, Dai na Zhai (2026)]]). Muundo ulibadilisha aina ya kufikiri iliyoamilishwa badala ya kiasi chake.
-
 
 Ramani ya kiwango cha uwanja inafikia hitimisho lile lile kwa upande mwingine: uchanganuzi wa BERTopic wa machapisho 1,048 ya AI katika kujifunza mtandaoni kuanzia 2010 hadi 2023 uligundua kuwa kazi inayoelekezwa kijamii kuhusu kujifunza kwa ushirikiano kunakosaidiwa na AI na maendeleo ya jamii haikupata kuwa mada inayotawala, jambo ambalo waandishi wanahusisha na korpusi inayozingatia [[learning-analytics|uchanganuzi]] wa kiwango cha mtu binafsi ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
@@ -116,65 +115,3 @@ Ramani ya kiwango cha uwanja inafikia hitimisho lile lile kwa upande mwingine: u
 - **"Kuwapa vikundi AI kunamaanisha ushirikiano zaidi."** Mapitio ya upeo wa **masudio 18** yanaweka ramani ya mabadilishano katika kazi ya kikundi: GenAI ilisaidia **maendeleo ya maarifa, uzalishaji wa mawazo na ufanisi wa mawasiliano** huku pia ikibeba gharama ya mahusiano katika viingiliaji vile vile. Faida ya ufanisi na gharama ya mahusiano huja pamoja.
 - **"Kujifunza kwa ushirikiano kunaungwa mkono na meta-analysis."** Mlinganisho **mmoja** tu wa meta-analysis unaopatikana kwa kazi ya ushirikiano inayosaidiwa na AI upo **ndani** ya viingiliaji vya PBL/PjBL vinavyosaidiwa na GenAI badala ya kukadiriwa moja kwa moja, hivyo ni kipengele cha athari pana badala ya kipimo cha ushirikiano.
 - **"Mshirika wa LLM huhifadhi ufikiri wa kikundi chenyewe."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash na Connell Pensky (2025)]] walijaribu hilo kwa kiwango cha darasa na wanafunzi wa utangulizi wa sayansi za kijamii, hasa kwa sababu kuhifadhi ni swali lililo wazi na si dhana inayodhaniwa.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — Ushirikiano wa AI wa pamoja uliopangwa na miundo yake ya majukumu iliyopitiwa majaribio
-- [[pedagogical-partnerships]] — Ushirikiano wa Kieledu
-- [[group-work]] — Kazi ya kikundi
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Kufundisha na Kujifunza Mtandaoni
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Mwavuli: mbinu za kieledu na mikakati ya kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-
-- [[lin-ai-peer-collaborative-mathematics-2026]] — What makes an LLM agent read as a peer: safety, tentative reasoning, appropriate imperfection
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Socially oriented AI-collaboration work never became a dominant topic in 1,048 publications
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Mafanikio ya wataalam 30 yanapata hatari ya kijamii ya upande mmoja: michakato ya ushirikiano dhaifu bila njia ya kuimarisha
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Kujifunza kwa msingi wa matatizo na kujifunza kwa msingi wa mradi kama miundo ya kuvutia kwa elimu inayosaidiwa na AI ya kizalishaji: Ushahidi unaoibuka kutoka mapitio ya kimfumo na meta-analysis ya ngazi tatu
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Wakala wa mwanafunzi unaojitokeza katika ushirikiano wa binadamu–AI usio wazi: hadhi za msaada dhidi ya kupingana
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: mwalimu mwenza wa kujifunza kwa mpango wa programu kwa jozi
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: upatanishi wa taaluma wa AI katika timu za wanafunzi za mradi
-- [[academic-league-of-ai-2026]] — Ligi ya Kitaalama ya AI: elimu ya AI ya ushirikiano na msingi wa mradi
-- [[icap-cognitive-engagement-llm-agents]] — Mfumo wa ICAP uliopanuliwa wa kupima ushiriki katika mazungumzo ya ushirikiano
-- [[llm-facilitation-timing-online-discussions]] — Muda wa uwezeshaji wa LLM katika majadiliano ya ushirikiano mtandaoni
-- [[ba-ai-agents-cscl-review-2026]] — Mapitio ya mawakala wa AI katika kujifunza kwa ushirikiano kusaidiwa na kompyuta
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI na kazi ya kikundi ya wanafunzi: mapitio ya upeo (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Alama za msingi za mawakala wengi za ASTRA na ushirikiano wenye usawa wa ushiriki
-- [[xu-genai-collaborative-space-2026]] — GenAI kama wakala na nafasi ya ushirikiano katika mienendo ya vikundi vidogo (Xu et al. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Ubini wa kujifunza unaoendeshwa na muhtasari uliotengenezwa na AI katika vikao vya majadiliano mtandaoni
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI kama miundombinu ya uratibu katika vikundi vya wanafunzi: matumizi yaliyozidiwa, yaliyozuiwa, na yasiyotekelezwa
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Mawakala wa Mafunzo ya Maadili: Kuwezesha Elimu ya Maadili ya Kikundi kwa Uigizaji na Majadiliano kwa Tafakari na Uchunguzi wa Kimaadili
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Muundo wa kielimu wa kikundi uliamua mahali AI inakaa: kitovu cha ujumuishaji katika vikundi vya dhana potofu tofauti, njia ya mstari ya hoji-kisha-chakata katika vinavyofanana, kwa maarifa ya awali sawa (Wang et al. 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Jozi zenye mfumo wa mawakala wengi zilizalisha miradi bora wakati kazi ya mtu binafsi ilizalisha ongezeko kubwa zaidi la ufikiri mahususi
-

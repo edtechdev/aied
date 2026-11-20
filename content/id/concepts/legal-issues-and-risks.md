@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -94,43 +96,3 @@ Bagi program profesional, paparan tidak berakhir saat kelulusan. Gutowski dan Hu
 **"Deteksi menyediakan bukti yang dibutuhkan suatu prosedur."** Deteksi menyediakan skor. Pertanyaan evidensialnya adalah apakah tuduhan dapat dibuktikan sama sekali, dan [[ai-detection|literatur deteksi]] menunjukkan alat-alat itu tidak menghasilkan reliabilitas maupun kategori yang dapat ditafsirkan yang dibutuhkan proses disipliner. Membangun prosedur di atas detektor berarti membangunnya di atas mata rantai terlemah.
 
 **"Risikonya hipotetis, dan kebijakan akan mengejarnya."** Risiko itu sedang terdistribusi secara tidak merata sekarang, dan siswa yang menyerapnya adalah mereka yang paling tidak mampu membantah suatu prosedur. Asimetri antara kapasitas institusi untuk menyelidiki dan kapasitas siswa untuk menjawab adalah kerugian saat ini alih-alih kerugian masa depan.
-
-## Konsep terkait
-
-- [[academic-integrity]] — kerangka perilaku yang penegakannya membawa risiko
-- [[ai-detection]] — instrumen di pusat kasus tuduhan yang salah
-- [[remote-proctoring]] — pengawasan dalam penilaian dan pertanyaan perlindungan datanya
-- [[assessment-validity]] — apakah bukti dapat menetapkan klaim yang dibuat darinya
-- [[privacy]] — pengumpulan, penyimpanan, dan pemrosesan lanjutan data siswa
-- [[regulation]] — kewajiban statutori dan regulasi yang harus dipenuhi institusi
-- [[governance]] — desain kebijakan internal dan konsistensi penegakan
-- [[educational-policy-ai]] — kebijakan AI institusional sebagai sumber paparan yang tidak diinginkan
-- [[ai-use-disclosure]] — ekspektasi pengungkapan dan tepi yang tidak dapat ditegakkan
-- [[accessibility]] — penyesuaian yang wajar ketika suatu aturan menghilangkan alat bantu
-- [[assistive-technology]] — alat-alat di pusat masalah inklusi berlebih
-- [[neurodiversity]] — siswa yang paling terpapar larangan yang terlalu luas
-- [[equity-in-ai-education]] — beban diferensial deteksi dan pengawasan
-- [[student-experience]] — biaya manusia yang mendahului biaya hukum
-- [[hallucination-risk]] — otoritas yang difabrikasi sebagai liabilitas profesional dan institusional
-- [[reducing-ai-misuse]] — alternatif pencegahan alih-alih tuduhan
-
-## Artikel terkait
-
-- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya terkandung dalam berkas tuduhan pelanggaran, dan persyaratan keadilan alamiah
-- [[hadra-ai-detector-accuracy-efl-2026]] — Akurasi detektor, kegagalan pada teks hibrida, dan risiko salah klasifikasi EFL
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Reliabilitas alat deteksi pada korpus kedua
-- [[bassett-ai-detectors-education-2026]] — Mengapa tidak ada ambang deteksi yang bisa benar: argumen pertukaran galat
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Prosedur pelanggaran ditinjau ulang ketika bukti menjadi tidak terdeteksi
-- [[wright-transcription-not-generation-2026]] — Aturan AI yang terlalu inklusif, akomodasi disabilitas, dan penyesuaian yang wajar
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Proktoring jarak jauh dipetakan, dengan kekhawatiran privasi dan pengawasan
-- [[automated-online-exam-proctoring-decade-review-2026]] — Satu dekade penelitian proktoring otomatis
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Ketidakjujuran akademik dan proktoring di era AI
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Kejelasan kebijakan sebagai prasyarat penegakan yang dapat dipertahankan
-- [[qian-governing-genai-higher-ed-policy-2026]] — Kebijakan dan ekosistem dukungan di universitas-universitas AS yang inovatif
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Konsensus ahli tentang tata kelola yang terfragmentasi
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integritas melalui pertimbangan yang terlihat alih-alih pengawasan
-- [[shin-ai-policies-sld-2026]] — Kekosongan kebijakan bagi siswa dengan disabilitas belajar spesifik
-- [[li-genai-assessment-language-equity-2026]] — Keadilan bahasa sebagai masalah desain aturan: batas dukungan–substitusi, diskriminasi tidak langsung, dan ketertinjauan (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Siswa menyerang penilai AI melalui injeksi prompt tidak langsung, dengan nilai berubah tanpa terdeteksi (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Indikator tata kelola dan program reformasi untuk mengautentikasi penilaian (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 fakultas AS: kebijakan individual jauh melampaui kebijakan institusional, respons struktural tipis (Watson & Rainie 2026)

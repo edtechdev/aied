@@ -18,6 +18,8 @@ confidence: medium
 translation_of: concepts/statistics-and-data-science-education
 source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -82,26 +84,3 @@ Kvalita opor záleží nezávisle na přístupu. Experimentální srovnání ved
 - **„Spokojenost a vnímaný přínos znamenají, že datově-vědní AI nástroj funguje."** Žáci používali LLM intenzivně k ladění kódu a k pojmovým otázkám a **uváděli vysokou spokojenost, zatímco jejich vnímaný přínos pro hluboké učení v průběhu semestru klesal**. Spokojenost držela a sebehodnocená trajektorie učení klesala, takže ani jeden z údajů sám o sobě není výsledkem.
 - **„Neomezený model je stejně dobrý jako vedený tutor."** Přínos přišel z tréninku v scaffoldingu — explicitních instrukcí k postupným nápovědám a verifikaci — který překonal pouhý přístup k témuž modelu v samostatném výkonu i v kalibraci sebehodnocení. Efekt neslo vedení a trénink v tom, jak je používat.
 - **„Hlídat, aby model nedával odpovědi, stačí."** Tutor šitý na míru konkrétnímu kurzu, na hostovaném API, instruovaný, aby spíš pobízel než dodával odpovědi, si osvojilo **76% až 84%** studentů psychologie v týdnech relevantních pro zkoušku v semestrálním kurzu programování v R. To je osvojení, nikoli důkaz, že hlídání přineslo učení: hlídání na úrovni promptu je jedna z několika pák a samo o sobě učení neprodukuje.
-
-## Související koncepty
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Související články
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentní nástroj generující prohlédnutelné syntetické datové sady pro personalizované procvičování statistiky
-- [[ai-tutor-statistical-programming-adoption-2026]] — Účelový tutor pro R; jeho přijetí sledovalo kalendář zkoušek
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Štítky obtížnosti od LLM sledují Bloomovy úrovně, nikoli výkon žáků
-- [[tactile-statistical-graphs-accessibility]] — Open-source pipeline generující hmatatelné statistické grafy s kontrolou učitele
-- [[guided-llm-scaffolding-independent-learning]] — Vedený scaffolding předčil neomezený přístup v samostatném výkonu
-- [[lund-socially-accountable-data-science-xai-2026]] — Zasazení společenské odpovědnosti do technického kurikula datové vědy

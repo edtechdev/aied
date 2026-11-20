@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -103,36 +105,3 @@ La inclusión del intercalado aquí se apoya, por tanto, en la misma familia te�
 **«La práctica de recuperación consiste en hacer cuestionarios, y cualquier cuestionario cuenta.»** El mecanismo es producir una respuesta desde la memoria y no reconocerla, y por eso una tarea de reconocimiento de opción múltiple es una versión más débil de la misma actividad. Una IA que genera interminables ítems de reconocimiento ha generado actividad con el nombre correcto y el mecanismo equivocado.
 
 **«La IA puede aplicar fielmente estas técnicas, ya que están bien especificadas.»** También puede socavarlas sin ruido. El espaciado exige que el sistema retenga el material que es más capaz de suministrar a demanda, y la recuperación exige que no responda, así que la eficacia de la técnica depende de restricciones que un asistente complaciente no tiene ningún incentivo en imponer.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — Secuencias de recuperación espaciada y el coste de retención de asistir durante la codificación
-- [[desirable-difficulties]] — el principio que estas tres técnicas operacionalizan
-- [[cognitive-psychology]] — la memoria, la codificación y la recuperación como hogar teórico de las tres
-- [[prior-knowledge]] — la práctica de recuperación como activación de lo que quien aprende ya posee
-- [[metacognition]] — juzgar si la fluidez refleja aprendizaje
-- [[self-regulated-learning]] — estudiar con constancia lo que una IA puede programar o responder por usted
-- [[mastery-learning]] — la retención después del umbral de dominio y el espaciado que la sostiene
-- [[knowledge-tracing]] — los modelos que aciertan o fallan las decisiones de programación
-- [[cognitive-offloading]] — el modo de fallo cuando la recuperación se delega a una herramienta
-- [[transfer-of-learning]] — la brecha entre rendimiento y aprendizaje que abordan las técnicas
-- [[formative-assessment]] — los puntos de control con herramientas cerradas como eventos de recuperación
-- [[productive-failure]] — intentarlo antes de recibir ayuda
-- [[learners]] — lo que está en juego en un aprendizaje duradero y no solo fluido
-
-## Artículos conectados
-
-- [[adaptive-pretesting-retention]] — Akgun y Toker: recuperación espaciada adaptativa frente a recuperación fija frente a IA dirigida por quien aprende durante siete semanas
-- [[memdora-ai-spaced-repetition]] — Memdora: programación con FSRS-6 y una taxonomía de interacciones con tarjetas fundamentadas
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: la profundidad de la explicación predice la calidad de la tarea pero no el recuerdo inmediato
-- [[rachatasumrit-example-problem-ratio-2026]] — Práctica de recuperación para hechos y ejemplos resueltos para habilidades: la interacción entre contenido y tratamiento
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Los modelos de seguimiento del conocimiento no capturan el efecto del espaciado bajo validación temporal
-- [[bilingual-llm-lecture-companion-srl-2026]] — Generación automática de tarjetas que elimina el coste de autoría de la práctica espaciada
-- [[student-cheat-sheets-make-or-take]] — Construir una chuleta como estudio generativo; delegar su construcción a la IA
-- [[knowloop-confusion-to-consolidation-2026]] — La consolidación mediante teach-back saca a la luz lagunas que la aclaración no reveló
-- [[simulating-learner-task-selection]] — El intercalado y el agrupamiento por bloques como estrategias modeladas de quien aprende bajo restricciones de selección de tareas
-- [[nie-personavlm-long-term-personalization-2026]] — La memoria longitudinal del estudiantado y su relación abierta con la repetición espaciada y las curvas del olvido
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — La práctica de recuperación en la capa de Herramientas de un marco de aprender a aprender
-- [[agentic-ai-pedagogical-best-practice-2026]] — Los agentes que precargan contenido se saltan la práctica de recuperación; el argumento a favor de la fricción intencionada
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Cuando los tutores de IA hablan: evidencia de un experimento de campo aleatorizado
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Las preguntas previas generadas por ChatGPT mejoran la memoria y la comprensión de textos

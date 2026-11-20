@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,7 +68,6 @@ Berteori di sisi guru kini membuat komitmen keterujian yang sama: Model Kapabili
 - **Agensi epistemik relasional dan ketergantungan epistemik.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] menyumbangkan akun kritis-integratif tentang kapan ketergantungan yang dimediasi AI mempertahankan versus menggusur pertimbangan. Mereka mengoperasionalkan batas antara ketergantungan yang produktif dan ketergantungan yang berbahaya melalui enam kriteria diagnostik (kontestabilitas, keterpulihan, transfer, keterlacakan, tanggung jawab terdistribusi, pluralitas epistemik) dan melacak empat jalur sosioteksnis (otoritas fasih, delegasi tanpa gesekan, sintesis buram, ketergantungan terinstitusionalisasi). Usulan normatif mereka, **agensi epistemik relasional**, memperluas garis otonomi relasional dan ko-agensi epistemik dengan mempertahankan asimetri eksplisit — AI dapat membentuk penalaran tanpa tanggung jawab timbal balik atau otoritas yang sah — sekaligus mengintegrasikan tanggung jawab dan keadilan epistemik di tingkat institusional. Sebagai teori belajar dengan AI, ia memindahkan pertanyaan bidang ini dari apakah AI membantu atau merugikan ke tindakan epistemik mana yang dipertahankan, diubah, atau digusur, dan menjadikan *desain ketergantungan* alih-alih sekadar penggunaan sebagai objek intervensi pedagogis dan institusional.
 
 Luaran model itu naik ke status pengetahuan kolektif tanpa jaminan komunitas yang dibutuhkan status tersebut — yang oleh Webb et al. (2026) disebut pseudo-cPCK, dan alasan bidang ini membutuhkan konstruk teoretis baru alih-alih antarmuka yang lebih baik ([[webb-pck-genai-2026|Webb et al., 2026]]).
-
 
 ## Memajukan teori mapan
 
@@ -119,53 +120,3 @@ Pengembangan teori dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidi
 
 - Rancang kontras konfigurasi jika Anda menghendaki kontribusi teoretis. Uji coba efek rata-rata yang diterbitkan sebagai pengembangan teori adalah keluaran bidang ini yang paling umum dan paling tidak berguna.
 - Lampirkan proposisi eksplisit yang dapat difalsifikasi pada setiap kerangka yang Anda perkenalkan, dan laporkan perbedaan konfigurasi mana yang akan menyangkalnya.
-
-## Konsep terkait
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Artikel terkait
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Memperluas taksonomi fungsional: 90 dari 154 publikasi yang dapat diklasifikasikan (58.4%) berada di luar empat kategori asli (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Teori belajar rentang menengah untuk interaksi manusia-AI, dengan empat mekanisme dan enam proposisi yang dapat diuji (Yan dan Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Overgeneralisasi yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum siswa tahu kapan harus menahan suatu tindakan (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativisme sebagai teori belajar baru
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Menuju teori ko-agensi epistemik
-- [[du-yuan-epistemic-dependence-2026]] — Agensi epistemik relasional dan batas antara ketergantungan produktif dan berbahaya (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Garis dasar kognitif yang absen (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Commons kognitif dan regenerasi keahlian
-- [[genai-performance-vs-learning]] — Performa vs. belajar
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Literasi AI Epistemik (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Kredensial dan pengelolaan kognitif
-- [[ai-cognitive-partner-co-regulation-learning]] — AI sebagai mitra kognitif dalam ko-regulasi
-- [[epistemic-proactivity-math]] — Proaktivitas epistemik dalam matematika
-- [[strydom-human-gai-paradigms-2026]] — Tujuh paradigma keterlibatan manusia-GAI yang berlandaskan keyakinan epistemologis
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks berpikir kritis
-- [[dollinger-equitable-assessment-ai-2026]] — Penilaian yang adil di bawah GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Teori Tri-Sistem dan penyerahan kognitif: bagaimana AI membentuk ulang penalaran manusia (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Merekonseptualisasi Community of Inquiry di era AI generatif
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Pengalaman dan persepsi dosen universitas tentang GAI: kerentanan, memikirkan ulang penilaian, pembelajaran siswa dalam risiko (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Filsafat AI alternatif: Daoisme sebagai metode bagi AI dalam pendidikan
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Skema berbasis asersi untuk pengodean dialog pendidikan yang dapat diaudit
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Kepemilikan metakognitif: definisi konstruk, batas, dan agenda penelitian
-
-- [[synthetic-position-self-authorship-2026]] — Posisi sintetis: tawaran diri dialogis yang menamai promosi sintetis dan penangguhan kepengarangan dengan prediksi crossover
-- [[capability-decision-model-teacher-readiness-2026]] — Model kesiapan guru berorientasi kapabilitas yang dapat difalsifikasi dengan empat kondisi penyangkalan
-- [[ai-connectedness-adolescent-mental-health-2026]] — Ketersambungan kecerdasan buatan: konstruk tiga dimensi dengan enam proposisi yang dapat difalsifikasi untuk pengujian selanjutnya
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Siklus kemitraan kognitif
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Kesulitan yang diinginkan dan kegagalan produktif diterapkan pada agensi interpretatif dalam pendidikan di luar negeri
-- [[webb-pck-genai-2026]] — Tiga vinyet dan konstruk baru, pseudo-cPCK, untuk luaran yang meniru pengetahuan yang tervalidasi secara kolektif tanpa jaminan (Webb et al. 2026)

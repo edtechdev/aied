@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -66,29 +68,3 @@ RL अधिकांश आधुनिक [[agentic-ai]] और [[intelligent-
 **"लंबा क्षितिज सदैव बेहतर है।"** वे वह सक्षम करते हैं जो छोटे क्षितिज नहीं कर सकते, और वे अपेक्षा करते हैं कि इनाम पूरे अनुक्रम में सही हो। [[residencyrl-clinical-rl-training-2026|ResidencyRL]] पूरे **60-टर्न नैदानिक साक्षात्कारों** को अनुकूलित करता है, जो समवर्ती संवाद प्रणालियों के ≤12-टर्न क्षितिज से काफी आगे है, जिससे गलत निर्दिष्ट उद्देश्य की लागत घटने के बजाय बढ़ जाती है।
 
 **"RL ट्यूटरिंग के लिए उपयुक्त औपचारिकता है क्योंकि शिक्षण अनुक्रमिक है।"** अनुक्रम आवश्यक है और पर्याप्त नहीं; बाध्यकारी अवरोध इनाम की वैधता है। कमज़ोर नीति के साथ सुव्यवस्थित उद्देश्य गलत उद्देश्य के साथ मज़बूत नीति से बेहतर है।
-
-## संबंधित अवधारणाएँ
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — छत्र: AI तकनीकें और तकनीकी (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-
-## संबंधित लेख
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: शिक्षण-निर्देश पालन के लिए RLHF
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक ITS में अनुकूली ICAP स्कैफ़ोल्डिंग (BKT बनाम DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

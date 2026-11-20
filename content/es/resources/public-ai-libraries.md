@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -45,13 +46,3 @@ Para bibliotecas públicas que quieren alojar un kiosco (el programa acepta soli
 - Las bibliotecas participantes aportan **\$1.000 por despliegue de kiosco al año**; el piloto en sí se limita a las sedes que se presentaron.
 - La declaración de privacidad es una afirmación del programa, no un hallazgo auditado; una biblioteca debería confirmar los términos de retención y de seguridad infantil en su propio acuerdo de tratamiento de datos.
 - La segunda y la tercera fase de la hoja de ruta, que permiten a las bibliotecas ingerir archivos locales y gobernar los sistemas resultantes, están planificadas y no desplegadas.
-
-## Conceptos conectados
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

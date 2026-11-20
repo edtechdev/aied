@@ -27,6 +27,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +47,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 참고사항과 유의점
 
 모든 페이지의 신뢰 패널을 읽으십시오. 언어 모델이 한 명의 인간 관리자 아래에서 위키를 유지하며, 어떤 페이지도 사람이 확인한 적이 없고, 사이트는 페이지를 발견이 아니라 출처가 좋은 단서라고 표시합니다. 주장에는 설계 등급, 효과 크기 코드, 엄밀성 코드가 붙으며, "효과 크기 표시 없음"은 출처가 보고하지 않았다는 뜻이지 효과 크기가 없다는 뜻이 아닙니다. 내용은 CC BY-SA 4.0이므로 재사용 시 같은 라이선스를 따라야 하고, 코드는 MIT입니다.
-
-## 연결된 개념
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

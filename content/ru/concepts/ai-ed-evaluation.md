@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -112,70 +114,3 @@ ai_assist:
 - **«Критерий выставления баллов — техническая деталь».** Строгое совпадение оценило те же 2 250 диалогов репетиторства в **42,1%**, тогда как калиброванный на людях LLM-как-судья — в **81,3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]), — критерий сдвигает число сильнее, чем модель репетитора, стратегия или конвейер.
 - **«Распознавание и порождение — сопоставимые способности».** **Распознавание — не порождение.** На TutorCaseBench лучшая из **11 моделей** выбрала документированную стратегию в **63,0% заданий с четырьмя вариантами**, но гораздо реже удовлетворила документированному критерию реализации. Выбрать верный ответ из четырёх и произвести его — разные задачи.
 - **«Оценки модели значимы без валидированного инструмента».** Экзамены, адаптированные под курс, были сгенерированы для **71 класса** и сопоставлены с написанными людьми заданиями AP Statistics с помощью **байесовской иерархической 2PL**-модели — инструмент был подогнан прежде, чем оценки интерпретированы.
-
-## Связанные концепции
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — ИИ-ассистируемое образовательное исследование
-- [[assessment-validity]] — Валидность интерпретации в оценивании ИИ-образования
-- [[educational-measurement]] — Теория измерения для оценивания обучения
-- [[psychometrically-aware-ai]] — Применение психометрики к оцениванию на основе ИИ
-- [[benchmark]] — Стандартизированные бенчмарки для оценивания систем ИИ
-- [[automated-assessment]] — Системы оценивания и выставления оценок на основе ИИ
-- [[learning-analytics]] — Анализ поведения в обучении на основе данных
-- [[research-methods-aied]] — Методы исследования ИИ в образовании
-- [[learning-gains]] — Измерение приростов в обучении от инструментов ИИ
-- [[formative-assessment]] — Текущее оценивание для направления обучения
-- [[summative-assessment]] — Суммативное оценивание: устойчивые к ИИ форматы (устные, с прокторингом, экзамены без доступа к материалам)
-- [[authentic-assessment]] — Оценивание реальной, переносимой успешности
-- [[human-in-the-loop-ai]] — Надзор со стороны человека за оцениванием ИИ
-- [[trust-calibration]] — Калибровка доверия к системам ИИ
-- [[hallucination-risk]] — Риск сфабрикованного контента в результатах ИИ
-- [[intelligent-tutoring]] — Оценивание систем ИИ-репетиторства
-- [[agentic-ai]] — Оценивание поведения автономных ИИ-агентов
-
-## Связанные статьи
-
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Что упускают оценки платформы: многомерное оценивание агентов-преподавателей ИИ
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: оценивание LLM-репетиторов на учащихся с сложным поведением (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: диагностика понимания педагогической контингентности по онлайн-видео репетиторства
-- [[assessment-latent-structure-human-llm-2026]] — Измеряют ли инструменты оценивания одно и то же для людей и LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Оценивание качества созданных ИИ экзаменов: крупномасштабное полевое исследование
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Нейро-символьная педагогическая согласованность (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — Трёхклассовый классификационный бенчмарк LLM-репетиторов (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — Оценивание VLM на DrawEduMath: контент ошибок труднее всего (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Бенчмаркинг педагогического знания LLM (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — Верификация наблюдения учебной аудитории на основе LLM: надёжность против точности (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Ассистенты базы знаний OER на основе ИИ на собственных мощностях: многомерное оценивание
-- [[ground-truth-reliability-aied]] — Модернизация эталонных данных: четыре сдвига в сторону улучшения надёжности и валидности
-- [[calibrating-trustworthiness-llm-education-2026]] — Калибровка доверия: совместное проектирование метрик и визуализаций
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: оценивание преподавательской способности LLM
-- [[machines-misread-pedagogical-quality]] — Почему машины неверно читают педагогическое качество: согласованность человека и машины
-- [[cong-confidence-asag-2026]] — Автоматическое оценивание коротких ответов с помощью LLM
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: инженерия промптов с человеком в цикле для формативного оценивания
-- [[llm-cognitive-diagnosis-handwritten-math]] — Бенчмаркинг LLM для диагностики когнитивных навыков студентов
-- [[tutoring-effectiveness-index]] — Индекс эффективности репетиторства: предсказание качества математического репетитора на основе LLM
-- [[jeon-isd-agent-bench-2026]] — Бенчмарк агентов ISD
-- [[tool-invariant-framework-agentic-ai]] — Инструментально-инвариантная рамка преподавания и оценивания вычислительных методов
-- [[valid-student-simulation-llm-2026]] — К валидной симуляции студентов с помощью больших языковых моделей
-- [[llm-difficulty-calibration-programming-exams-2026]] — От оцениваемых моделей к пособиям для оценивания
-- [[socratic-tests-conversational-assessment]] — Теоретический фундамент сократических тестов
-- [[responsible-assessment-ai-era-stanford-2026]] — Ответственное оценивание в эпоху ИИ
-- [[authentic-products-authenticated-processes-2026]] — От аутентичных продуктов к аутентифицированным процессам
-- [[genai-educational-outcomes-meta-analysis]] — Метаанализ образовательных результатов генеративного ИИ
-- [[zhang-tutormoments-2026]] — Когда помощь бесполезна: оценивание ИИ-репетиторов на предмет продуктивной борьбы
-- [[elbench-education-llm-benchmark-2026]] — ELBench: бенчмарк образовательных LLM
-- [[ai-grading-handwritten-physics-2026]] — Оценивание рукописных работ по физике с помощью ИИ (олимпиада)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистилляция самообъясняющейся LM для аналитики обучения
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Метааналитическое оценивание адаптивного и ИИ-образования
-- [[xiong-ai-educational-measurement-review-2026]] — Роль ИИ в выставлении оценок, психометрике, оценивании
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Оценивание ИИ-репетиторства на скорости инноваций: ведомые практиками микрорандомизированные испытания платформы ИИ-репетиторства в науке GCSE
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: процессное оценивание качества математических заданий
-- [[durable-skills-measurement-ai-teammates-2026]] — К масштабируемому измерению устойчивых навыков
-- [[pivot-generative-video-tutors-stem-2026]] — От генерации контента к поддержке обучения: управляемые педагогикой генеративные видеорепетиторы для обучения STEM
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ИИ- и человеческое репетиторство дают эквивалентные приросты в обучении по GRE
-- [[synthetic-educational-data-structural-fidelity-2026]] — Что упускают метрики верности: структурная проверка синтетических образовательных данных
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оценивание предобученных моделей для педагогической оценки новых образовательных вопросов с помощью ИИ
-- [[llm-judge-evaluation-educational-ai-2026]] — Когда оценщики кричат «волк»: уроки продакшен-оценивания «LLM-как-судья» в образовательном ИИ
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Библиометрическая карта может выявить, что вознаграждает культура оценивания
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: критерии оценивания формируют измеряемый успех в математическом репетиторстве с LLM (Lee et al. 2026)

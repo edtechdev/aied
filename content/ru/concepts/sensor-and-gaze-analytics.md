@@ -20,6 +20,8 @@ ai_assist:
 translation_of: concepts/sensor-and-gaze-analytics
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -114,40 +116,3 @@ translation_note: "Автоматический перевод данной ан
 **«Вовлечённость — одна вещь, поэтому один балл может её представлять».** У конструкта три линии, и сенсор достигает в основном первой. E3Sense обнаружил, что учащиеся определяли её через когнитивные, поведенческие и эмоциональные индикаторы в разных пропорциях, и эти определения меняли предсказание ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Одно число скрывает, какой слой был измерен.
 
 **«Если модель справедлива на валидационном разбиении, она справедлива в классе».** Регуляризатор, выровнявший ошибку валидации между гендерными группами, сделал разрыв на отложенных данных хуже ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Справедливость — свойство развёртывания, а не контрольной точки.
-
-## Связанные понятия
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Связанные статьи
-- [[gaze-informed-ai-children]] — запускаемый взглядом рассказ LLM удерживал детей на озвученной области 6,48 с против 1,67 с, но исследование измеряло внимание, а не понимание (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — наголовная ЭЭГ, айтрекинг и лобная ЭДА предсказывали самооценку вовлечённости с точностью 75,0% в пределах одного уровня против базовой линии 63,0% (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage объединил семь потоков от носимых устройств и камер в оценки вовлечённости на уровне сегмента (MAE 0,81) и ратует за более лёгкое инструментирование (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — мультимодальная модель внимания достигла MAE 0,283, а её выигрыш по справедливости на валидации обратился на отложенных субъектах (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — носимый ИИ двойственно прозрачен, поэтому физическое исключение не работает, а принуждение дрейфует к суждению о телах студентов (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — пятнадцать моделей предсказания знакомости по ЭЭГ упали с 0,9853 до 0,6038 F1 при валидации, независимой от испытаний (Nanayakkara and Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — реконструированные по ЭЭГ изображения отслеживали результат теста на уровне R² = 0,79, причём один участник с высокой реконструкцией ответил неверно (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — случайный лес предсказывал категории экзаменационных оценок по ЭДА, движению и температуре кожи — сигналам, индексирующим возбуждение, а не понимание (Yamazaki and Rimal, 2026)
-- [[affective-text-wearable-student-health]] — у 458 студентов, носивших Oura, эмоциональный регистр, а не тема беспокойства, отслеживал сон и вариабельность сердечного ритма (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — взгляд с веб-камеры управлял обратной связью на обучении с подкреплением для 187 учащихся; внимание коррелировало с обучением на уровне r = 0,017, а рабочая нагрузка — отрицательно (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — признаки позы YOLOv11 помечали подозрительное поведение с точностью 99,56% на специально размеченном наборе, не проверяя ни нарушение, ни справедливость (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — связность ЭЭГ снижалась с внешней поддержкой письма у 54 участников, что трактует опору как накопленный когнитивный долг (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — в 23 исследованиях сенсорные роли доминировали, составив 62,5% тегов, и ни одна рассмотренная система не объединяла мультимодальные потоки в реальном времени (Kim and Han, 2026)

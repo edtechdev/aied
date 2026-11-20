@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -101,34 +103,3 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 **„Institutionelle Richtlinien zur KI-Nutzung bestimmen, was Studierende für ethisch halten.“** Kultur leistet mehr als der Richtlinientext. Eine kulturvergleichende Befragung kanadischer und südkoreanischer [[cs-education|Informatik]]-Studierender ergab, dass **die Kultur, nicht die Richtlinie, darüber entschied, als wie ethisch KI-Nutzung wahrgenommen wurde** — identische Verhaltensweisen wurden in den beiden Kohorten unterschiedlich beurteilt. Eine einzige hochschulweite Richtlinie schafft daher keine gemeinsame Ethik, und wer sie so behandelt, als würde sie das leisten, wird die eigenen Studierenden falsch einschätzen.
 
 **„Eine Pilotstudie mit vier Lehrkräften, die zeigt, dass sich Lehrkräfte sicherer fühlen, ist ein Beleg dafür, dass der Ansatz funktioniert."** Sie ist ein Beleg für die Wahrnehmung der Lehrkräfte — eine Information, die zu haben sich lohnt, aber etwas anderes ist. In dieser Pilotstudie nahm die Sicherheit der Lehrkräfte beim Erkennen von Gelegenheiten für kulturelle Responsivität zu, und **78% fanden AI-Vorschläge hilfreich, um Materialien vielfältiger zu gestalten** — wobei die Autoren einräumen, dass die kulturelle Anpassung **im Prompt und nicht in der NLP-Pipeline** stattfindet und dass kulturelle Angemessenheit bewertet, nicht aber gezielt hergestellt wurde. Sicherheit plus Nützlichkeit sind keine nachgewiesene kulturelle Relevanz für Lernende.
-
-## Verbundene Konzepte
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Pädagogiken und Lehrstrategien
-
-## Verbundene Artikel
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Unterrichtsplaner, der Lehrkräfte nach kulturellem Kontext befragt, bevor er entwirft (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — LLMs für kulturell relevante K-12-Pädagogik
-- [[civic-education-ai-lesson-plans]] — KI-generierte Unterrichtspläne in der politischen Bildung
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-basiertes KI-Lernen
-- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minorisierten Wissens
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana-STEM-Benchmark
-- [[cross-cultural-student-perceptions-genai-computing]] — Kulturübergreifende Wahrnehmung der GenAI-Nutzung
-- [[international-students-conversational-ai-adaptation]] — Internationale Studierende und konversationelle KI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: vietnamesische Unterrichtsplanung
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell sensibler Chatbot zur Stresserkennung und Wohlbefinden-Unterstützung pakistanischer Universitätsstudierender mit NLP und maschinellem Lernen

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -74,32 +76,3 @@ Dua alur lain menetapkan batas peran itu. [[pearls-epistemic-verification-2026|K
 **"Literasi informasi adalah sesi induksi sekali jalan."** Itu pengajaran, bukan bantuan: pertanyaan yang dibawa siswa adalah masalah evaluasi dan strategi — apakah sumber ini kredibel, bagaimana saya menelusuri ini — yang merupakan keterampilan yang dapat diajarkan alih-alih transaksi yang perlu diselesaikan. Memperlakukan layanan sebagai bantuan mengubah kurikulum menjadi meja bantuan dan kehilangan kapabilitas yang tahan lama.
 
 **"Siapa yang membayar verifikasi adalah masalah orang lain."** Beban konsultasi jatuh pada kepegawaian perpustakaan, dan pertanyaan kertas itu sendiri adalah apakah meminta perpustakaan memikulnya melampaui jumlah staf mereka. Ko-desain dan kemitraan adalah jawaban yang direkomendasikan literatur justru karena biaya verifikasi itu nyata dan jatuh pada unit yang tidak menganggarkannya.
-
-## Konsep terkait
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Artikel terkait
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Platform seminar pustakawan tertanam; 312 konsultasi yang dipimpin evaluasi sumber
-- [[genai-academic-search-workshop]] — Lokakarya CHIIR 2026 tentang GenAI dan pencarian akademik; kesenjangan kepercayaan pustakawan
-- [[maybee-disruptive-partnerships-sap-2025]] — Pustakawan akademik yang merancang bersama literasi AI dengan siswa sebagai mitra
-- [[aarc-ai-research-competency-2026]] — Verifikasi, sitasi, refleksi sebagai komitmen riset yang dapat diajarkan
-- [[pearls-epistemic-verification-2026]] — Protokol verifikasi enam dimensi; akses dan legitimasi sebagai gerbang
-- [[hingle-collaborative-ai-literacy-2025]] — Pembelajaran kolaboratif untuk literasi AI; manfaat literasi informasi ikut terbawa
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instruktur menempatkan atribusi dan penggunaan bertanggung jawab tertinggi, tetapi hanya mengajarkan sedikit dari 26 keterampilan
-- [[bird-multimodal-educational-literature-2026]] — Alat kompleksitas teks yang dibangun untuk pengguna nonteknis seperti guru bahasa Inggris dan pustakawan
-- [[cognitive-offloading-llm-synthesis-writing]] — Apa yang diserahkan pembelajar ketika AI menyintesis sumber bagi mereka
-- [[citation-errors-hallucinations-computing-education-2026]] — Sitasi yang difabrikasi dan keliru sebagai masalah verifikasi

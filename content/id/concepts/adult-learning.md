@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,45 +71,3 @@ Pembelajaran orang dewasa berada di persimpangan beberapa konsep yang terkait er
 - **"Satu alat yang baik melayani pembelajar dewasa."** Penelitian menemukan **tak ada satu sistem AI pembelajaran orang dewasa pun yang memenuhi semua pedoman desain** — ekosistem penuhlah yang dibutuhkan. Orang dewasa datang dengan kewajiban, jadwal terputus-putus, dan tujuan heterogen, sehingga satu produk tak dapat mencakup seluruh ruang desain.
 - **"Literasi digital dapat diasumsikan pada tingkat orang dewasa."** [[community-centered-ai-education-adults|Studi kasus di Midwest]] merancang bersama program literasi AI untuk **54 orang dewasa di komunitas terlayani minim** dan menemukan pendidikan AI orang dewasa berorientasi keadilan **harus lebih dulu menangani literasi digital dasar dan kepercayaan data**. Usia bukan proksi kefasihan digital.
 - **"Adopsi adalah masalah motivasi."** Membangun [[ai-literacy]] dan [[trust]] seputar privasi data harus mendahului harapan adopsi. Kesediaan muncul dari keyakinan tentang apa yang terjadi pada data seseorang, bukan antusiasme pada teknologi.
-
-## Konsep terkait
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Artikel terkait
-
-- [[ai-adult-learning-guidelines-dis2026]] — Pedoman Merancang Teknologi AI Pendukung Pembelajaran Orang Dewasa
-- [[andragogy-cognitive-delegation-genai-2026]] — Apa yang Masih Mandiri? Meninjau Andragogi melalui Delegasi Kognitif dalam Pembelajaran Orang Dewasa Bermediasi AI Generatif
-- [[ai-lifelong-learning-policy]] — Kecerdasan Buatan dalam Pembelajaran Sepanjang Hayat: Peluang dan Tantangan dalam Kebijakan Pendidikan Orang Dewasa
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive dan Kerangka Tutor-in-the-Loop (TITL) untuk Keadilan di Further Education
-- [[community-centered-ai-education-adults]] — Merancang Bersama Pendidikan AI Berpusat Komunitas untuk Orang Dewasa: Studi Kasus di Midwest
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Sistem Pembelajaran Baru untuk Institusi Jarak Jauh? Tinjauan Enam Studi Penerapan AIDA
-- [[institutional-governance-ai-universities]] — Fragmentasi Kebijakan atau Keselarasan Institusional? Tata Kelola AI di Universitas dan Sekolah Bisnis
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Pengalaman belajar berpikir komputasional diperkaya AI generatif: tinjauan lingkup sistematis dan pedoman desain
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Memetakan Kurikulum yang Muncul untuk Rekayasa Perangkat Lunak Berbantuan AI melalui Analisis Silabus
-- [[learner-ai-interaction-patterns-oop]] — Pola Interaksi Pembelajar–AI dan Kinerja Akademik pada Kursus Pemrograman Berorientasi Objek
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI Pendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[kim-ai-andragogy-2026]] — Aplikasi AI dalam Mendukung Andragogi (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Rancang untuk rentang keterlibatan: jadikan dialog Sokratik mendalam jalur yang lebih memuaskan

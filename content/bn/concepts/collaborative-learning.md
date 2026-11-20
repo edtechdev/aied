@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -115,62 +117,3 @@ ai_assist:
 - **"দলকে এআই দেওয়া মানে বেশি সহযোগিতা।"** **18টি গবেষণার** একটি স্কোপিং পর্যালোচনা দলগত কাজ জুড়ে একটি বিনিময় মানচিত্রিত করে: জেনএআই **জ্ঞান-বিকাশ, ধারণা-উৎপাদন ও যোগাযোগ-দক্ষতা** সমর্থন করেছে, একইসঙ্গে একই হস্তক্ষেপগুলোতে একটি সম্পর্কমূলক মূল্যও বহন করেছে। দক্ষতার লাভ ও সম্পর্কমূলক ক্ষতি একসঙ্গেই আসে।
 - **"এআই-সমর্থিত সহযোগিতামূলক শিখনের মেটা-বিশ্লেষণী ভিত্তি আছে।"** এআই-সমর্থিত সহযোগিতামূলক কাজের জন্য উপলব্ধ **একমাত্র** মেটা-বিশ্লেষণী তুলনাটি সরাসরি অনুমান না হয়ে জেনএআই-সমর্থিত PBL/PjBL হস্তক্ষেপের **ভেতরে** অবস্থিত, তাই এটি একটি বিস্তৃত প্রভাবের উপাদান, সহযোগিতার পরিমাপ নয়।
 - **"একটি LLM অংশীদার দলের নিজস্ব যুক্তি সংরক্ষণ করে।"** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ও Connell Pensky (2025)]] এটি শ্রেণিকক্ষ-পরিসরে প্রারম্ভিক সমাজবিজ্ঞান শিক্ষার্থীদের নিয়ে পরীক্ষা করেছেন, ঠিক এই কারণেই যে সংরক্ষণ একটি খোলা প্রশ্ন, কোনো অনুমান নয়।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — স্ক্রিপ্টভিত্তিক ভাগাভাগি-এআই সহযোগিতা এবং তার পরীক্ষিত ভূমিকা-নকশা
-- [[pedagogical-partnerships]] — শিক্ষাপদ্ধতিগত অংশীদারিত্ব
-- [[group-work]] — দলগত কাজ
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাপদ্ধতি ও শিক্ষাদান-কৌশল
-
-## সংযুক্ত নিবন্ধ
-- [[lin-ai-peer-collaborative-mathematics-2026]] — কী একটি LLM এজেন্টকে সমকক্ষ মনে করায়: নিরাপত্তা, সংকুচিত যুক্তি, উপযুক্ত অপূর্ণতা
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30-বিশেষজ্ঞের ঐকমত্য একপাক্ষিক সামাজিক ঝুঁকি পায়: সহযোগিতা-প্রক্রিয়া ভঙ্গুর, কোনো উন্নতি-পথ নেই
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — জেনারেটিভ এআই-সমর্থিত শিক্ষার প্রতিশ্রুতিশীল কাঠামো হিসেবে সমস্যাভিত্তিক ও প্রকল্পভিত্তিক শিখন: পদ্ধতিগত পর্যালোচনা ও ত্রি-স্তরীয় মেটা-বিশ্লেষণ থেকে উদীয়মান প্রমাণ
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — অন্তর্নিহিত মানব-এআই সহযোগিতায় উদীয়মান শিক্ষার্থী-এজেন্সি: সহায়ক বনাম বিপরীতমুখী ব্যক্তিত্ব
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: জোড়া প্রোগ্রামিংয়ের জন্য সক্রিয় এআই অভিযোজিত সহযোগিতামূলক টিউটর
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: শিক্ষার্থী প্রকল্প-দলে এআই শাস্ত্রীয় মধ্যস্থতা
-- [[academic-league-of-ai-2026]] — Academic League of AI: সহযোগিতামূলক, প্রকল্পভিত্তিক এআই শিক্ষা
-- [[icap-cognitive-engagement-llm-agents]] — সহযোগিতামূলক সংলাপে সম্পৃক্ততা মাপার বর্ধিত ICAP কাঠামো
-- [[llm-facilitation-timing-online-discussions]] — অনলাইন সহযোগিতামূলক আলোচনায় LLM সুবিধাদানের সময়
-- [[ba-ai-agents-cscl-review-2026]] — কম্পিউটার-সমর্থিত সহযোগিতামূলক শিখনে এআই এজেন্ট পর্যালোচনা
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — জেনএআই ও শিক্ষার্থীদের দলগত কাজ: একটি স্কোপিং পর্যালোচনা (Wei ও Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — মাল্টি-এজেন্ট টিউটরিং ও অংশগ্রহণ-ভারসাম্যপূর্ণ সহযোগিতার ASTRA কৃত্রিম বেঞ্চমার্ক
-- [[xu-genai-collaborative-space-2026]] — ছোট দলের গতিশীলতায় এজেন্ট ও সহযোগিতা-স্থান হিসেবে জেনএআই (Xu প্রমুখ 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — অনলাইন আলোচনা ফোরামে এআই-উৎপন্ন সারসংক্ষেপ-চালিত শিখন-নকশা
-- [[chen-zou-genai-group-assessment-agency-2026]] — শিক্ষার্থী দলে সমন্বয় অবকাঠামো হিসেবে জেনএআই: তীব্রতর, সংযত ও অনুষ্ঠিত-না-হওয়া ব্যবহার
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: ভূমিকাভিনয় ও আলোচনার মাধ্যমে দলভিত্তিক নৈতিক শিক্ষা সহজতর করা
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 1,048 প্রকাশনায় সামাজিকভাবে অভিমুখী এআই-সহযোগিতা কখনও প্রভাবশালী বিষয় হয়নি
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — দলগত জ্ঞানতাত্ত্বিক বিন্যাসই ঠিক করেছে এআই কোথায় বসবে: বৈচিত্র্যময়-পূর্বধারণার দলে সংহতকরণ কেন্দ্র, সম-দলে রৈখিক কোয়েরি-তারপর-প্রক্রিয়া পথ, সমান পূর্বজ্ঞানে (Wang প্রমুখ 2026)
-- [[bjet-many-hands-make-light-work-2026]] — মাল্টি-এজেন্ট ব্যবস্থার সঙ্গে জোড়াগুলো সেরা প্রকল্প তৈরি করেছে, আর একা কাজ সবচেয়ে বেশি সমালোচনামূলক-চিন্তা লাভ দিয়েছে

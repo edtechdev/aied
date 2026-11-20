@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -77,54 +79,3 @@ Hesaplamalı düşünme, [[ai-literacy]] ile [[critical-thinking]] altında yük
 - **“YZ yardımı, kaynakları kısıtlı ortamlarda oyun alanını eşitler.”** Koşullar sağlandığında eşitleyebilir. **Nijerya’da 103 birinci sınıf lisans öğrencisiyle 14 haftalık bir yarı-deneysel çalışma**, YZ destekli problem temelli öğrenmenin (ChatGPT ve Teachable Machine) kazanımlar ürettiğini bulmuştur ve YZ, “daha yetkin bir akran” olarak diğer olanakların bulunmadığı yerde HD’yi taşımaktadır. Ancak bu, yapılandırılmış bir müdahaleye ilişkin bir bulgudur; öğrencilere bir [[conversational-ai|sohbet robotu]] vermenin bir özelliği değildir.
 - **“LLM’ler HD’yi güvenilir biçimde değerlendiremez.”** [[llm-computational-thinking-physics-2026|Fizikte HD değerlendirmesi araştırması]], LLM’lerin geniş kayıtlı derslerde Veri Uygulamaları ile Hesaplamalı Problem Çözme Uygulamalarındaki gelişimi puanlamada **insan puanlayıcıları yansıtabildiğini** bulmuştur. HD değerlendirmesini ölçeklemedeki engel puanlayıcı kapasitesi olmuştur ve bu kısıt yumuşamaktadır; bu da tasarım sorununu, ölçme aracının uyumu değil HD’yi ölçüp ölçmediği sorusuna kaydırır.
 - **“HD, robotiğin öğrettiği bir kodlama becerisidir.”** **95 çalışmanın [[meta-analysis-systematic-review|sistematik derlemesi]]**, robotiğin HD’yi, yaratıcılığı ve problem çözmeyi desteklediğini, ama aynı zamanda **ortamın sonucu düzenlediğini** doğrular: [[game-based-learning|oyun temelli]] sunum informal ortamlara uyarken oyunlaştırma formal ortamlarda farklılaşır. HD, eşitsiz biçimde aktarılan bir uygulamalar bütünüdür; dolayısıyla aktarım iddiası, gerçekte kullanılan görev tasarımını gerektirir.
-
-## Bağlı kavramlar
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Bağlı makaleler
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

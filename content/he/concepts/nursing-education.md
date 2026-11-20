@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -126,41 +128,3 @@ ai_assist:
 **לחוקרים**
 
 - דווחו מדגמי לפני-רישוי ואחיות מוסמכות בנפרד, וחקרו את המעבר לפרקטיקה בפיקוח אם טענת הכשירות אמורה להיות בעלת משמעות קלינית.
-
-## מושגים מחוברים
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## מאמרים מחוברים
-
-- [[hardie-genai-nursing-scoping-review-2026]] — יישומים, עמדות ואתיקה בחינוך הסיעוד: סקירת היקף של 103 מחקרים (Hardie et al. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — חוויות הלומדים מסימולציה ואימון מיומנויות בתמיכת בינה מלאכותית יוצרת בחינוך הסיעוד: מטא-סינתזה
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematic review of AI in nursing education (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences through the TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI perceptions and career anxiety among health sciences students
-- [[genai-counter-learner-groupthink-2025]] — Generative AI to counter groupthink in interprofessional PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Nursing academics on GenAI: policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity, and a deterrence case built on perception
-- [[xiang-ai-nursing-education-kas-framework-2026]] — סקירת היקף הממפה מסגרות כשירות AI ל-12 תת-ממדי KAS לתכניות סיעוד
-- [[rony-nursing-educators-ai-tpack-2025]] — מחנכי סיעוד בבנגלדש על מוכנות ל-AI, חסמים וממשל נתונים, דרך TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — סקירת-על של 18 סקירות: אתיקה, טרנספורמציה של תכנית וחסמי אינטגרציה
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — סטודנטים לסיעוד על הסוד הגלוי של שימוש ב-AI: למידה מותאמת אישית, זמן והפער הדיגיטלי
-- [[agency-gap-ai-writing]] — RCT עם סטודנטים לרפואה ולסיעוד: עיצוב סוכן ריאקטיבי לעומת פרואקטיבי ופער הסוכנות
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 סטודנטים לסיעוד: אינטראקציית GenAI, אינטראקציה חינוכית ומודל תיווך מזוהה-בדיוק
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — תגובה שפורסמה ל-Rony et al.: אקוסיסטמים מוסדיים, מוכנות ופיקוח AI
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — סגל וסטודנטים מתכננים יחד לוח בקרה לאנליטיקת חינוך סיעודי
-- [[federated-learning-at-risk-student-prediction-2026]] — חיזוי סיכון משמר-פרטיות על פני תכניות מקצועות הבריאות, ומדוע סף מיובא מחטיא בסיעוד

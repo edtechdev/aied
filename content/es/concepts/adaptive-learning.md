@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -53,7 +55,6 @@ Una revisión PRISMA 2020 que cribó 959 registros hasta quedarse con 22 interve
 **Lo que impulsa la adaptación es la fundamentación pedagógica, no la capacidad técnica.** Una revisión de 15 años sobre 127 estudios de tutoría inteligente encuentra que la mayoría de los sistemas se construyeron en torno a lo que la tecnología puede hacer y no a un principio pedagógico declarado, y sitúa la ganancia media de los ITS en torno al 20% frente a hasta un 98% en la tutoría humana ([[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]).
 
 La adopción, y no el mecanismo de adaptación, fue la restricción vinculante en un ECA de distrito de dos años: reducir la inscripción a un solo paso elevó la adopción en la primera sesión de alrededor del 45% al 83% solo con cambios de diseño, y las ganancias por intención de tratar crecieron a medida que subía la adopción ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos et al. (2026)]]).
-
 
 Una revisión alineada con PRISMA de 44 estudios encuentra que la literatura sobre implicación está sesgada hacia la [[student-engagement|implicación conductual]] y es más delgada en la implicación agéntica, e informa de un efecto de novedad —la implicación decae con el tiempo en estudios longitudinales de ALEKS y W-Pal una vez que se desvanece la novedad de la herramienta ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng y Fryer (2026)]]).
 
@@ -113,53 +114,3 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - **«La adaptatividad basada en la corrección sabe cuándo detenerse.»** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] encontraron que los sistemas que infieren el dominio a partir de la corrección corren el riesgo de **terminar la práctica demasiado pronto**: el sistema lee una racha correcta como comprensión y retira la práctica que quien aprende todavía necesitaba. Una adaptatividad que se detiene ante el éxito puede restar exactamente los ensayos que producen retención.
 - **«El cuello de botella es lo buena que sea la adaptación.»** En un **ECA de distrito de dos años**, la restricción vinculante fue la **aceptación inicial**: reducir la inscripción a un solo paso elevó la aceptación en la primera sesión de alrededor del **45% al 83%** solo con cambios de diseño, y las ganancias por intención de tratar crecieron en consecuencia. La adaptación más ingeniosa no sirve a nadie que nunca llega a ella.
 - **«La implicación persiste una vez establecida.»** Una revisión alineada con PRISMA de **44 estudios** encontró que la literatura sobre implicación se inclinaba hacia la implicación conductual y era más delgada en la implicación agéntica, e informa de un **efecto de novedad**: la implicación decae con el tiempo en estudios longitudinales de ALEX y sistemas similares. La implicación temprana no es una propiedad estable del diseño.
-
-## Conceptos conectados
-
-- [[online-teaching-and-learning]] — Enseñanza y aprendizaje en línea
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — General: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agéntica)
-- [[recommender-systems-and-learning-paths]]
-
-## Artículos conectados
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: un sistema de puntuación adaptativa sensible al momento para la evaluación personalizada
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que realmente sabemos (informe de Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Revisión sistemática de la implicación del estudiantado en plataformas de aprendizaje adaptativo
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoría virtual con aprendizaje asistido por computador: un experimento sobre adopción y aprendizaje
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Hacer productiva la tutoría con IA: práctica de matemáticas basada en el dominio
-- [[chudziak-ai-math-tutoring-platform]] — Tutoría matemática multiagente adaptativa y personalizada (Chudziak y Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefinir el aprendizaje personalizado: revisión sistemática
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — IA específica para tutoría calibrada a la preparación de quien aprende frente a chatbots generales
-- [[context-based-ai-secondary-chemistry-2026]] — Instrucción contextual 7E + IA en química de secundaria
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programa STEM adaptativo basado en IA para el aprendizaje profundo
-- [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico cognitivo bayesiano para rutas de aprendizaje personalizadas
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje adaptativo ICAP en un ITS (BKT frente a DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Metaanálisis que agrupa herramientas adaptativas y habilitadas por IA en 14 ECA
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revisión sistemática: las rutas adaptativas entre los principales casos de uso de la integración de la IA en educación superior
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — La secuenciación adaptativa de problemas supera a la secuenciación fija: +0,156 SD en un examen sin ayuda, mediado por la implicación y no por la dificultad (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — El uso de estrategias depende del estado (ICC medio 0,14), así que los perfiles estáticos de estudiante descartan la mayor parte de la señal

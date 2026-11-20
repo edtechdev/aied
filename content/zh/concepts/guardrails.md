@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -128,46 +130,3 @@ ai_assist:
 **"护栏阈值是要被调优的工程选择。"** 阈值是一个带有分配成本的政策决定。把毒性截断点从 0.3 移到 0.7，被标记的提示就从 **35.62% 降到 12.4%**；在一个诈骗检测器上，它把 **15 次误报与 18 次漏检换成 2 次与 36 次**。没有截断点能消除这一取舍，它只决定机构更愿意接受哪种错误，而这一决定属于机构，而不属于一个默认常数。
 
 **"公平审计与护栏是否充分是两件不同的事。"** 拒绝与支持模式即便被均匀应用，也会不均匀地分配好处，而平均有害率掩盖了哪些学生在承受它。审计必须是护栏规范的一部分，而不是事后委托的一项研究。
-
-## 关联概念
-
-- [[pedagogical-safety]] — 护栏所实施的目标
-- [[prompt-engineering]] — 给提示不给答案的设计技术
-- [[rag]] — 作为护栏的知识锚定
-- [[human-in-the-loop-ai]] — 教师质量保证与监督
-- [[llm-training-and-fine-tuning]] — 训练／对齐层
-- [[reinforcement-learning]] — 面向安全行为的奖励塑造
-- [[bias-mitigation]] — 为公平而审计护栏
-- [[ai-sycophancy]] — 护栏必须抵抗的操纵风险
-- [[scaffolding]] — 护栏所保全的教学机制
-- [[socratic-method]] — 一种给提示不给答案的交互模式
-- [[hallucination-risk]] — 护栏所减少的编造风险
-- [[cognitive-offloading]] — 护栏所防止的过度依赖危害
-- [[k-12]] — 护栏最重要的情境
-- [[ethics]] — 规范基础
-- [[governance]] — 政策层
-- [[intelligent-tutoring]] — 被护栏保护的系统
-- [[misconceptions]] — 护栏必须核查的知识
-- [[trust]] — 设计良好的护栏的结果
-- [[llm]] — 被约束的模型层
-
-## 关联文章
-
-- [[ai-security-literacy-k12-framework-2026]] — AI 安全素养：基于生态系统的能力框架与 K-12 学习平台
-- [[reflection-agent-fidelity-career-2026]] — 可核查处即忠实：在随机试验中依据系统提示审计反思智能体
-- [[scaffolding-student-ai-dialogue-framework-2026]] — 用于引导"学生与 AI"对话的 SCAFFOLD 框架，及其课堂试点
-- [[generative-ai-guardrails-harm-learning]] — 护栏领域具有代表性的现场随机对照实验
-- [[eduzone-llm-safety-k12]] — EduZone：面向 K-12 的大语言模型安全框架
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard：安全的基于检索增强生成的大语言模型导师护栏
-- [[paternalistic-filter-llm-history-education]] — 审计护栏中的偏见
-- [[singh-eduqwen-pedagogical-rl-2026]] — 经强化学习对齐的引导式学习
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 分类法对齐的后训练，瞄准教学决策
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 谄媚作为一种安全风险
-- [[ai-tutor-authoring-promptdecipher]] — 教师驱动的质量保证
-- [[llm-unlearning-math-privacy]] — 模型层上的遗忘
-- [[pedagogical-safety-rl]] — 面向教学安全的奖励塑造
-- [[residencyrl-clinical-rl-training-2026]] — 临床培训中经安全对齐的强化学习
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 面向小学数学的 LLM 辅导系统中规则引导对临时脚手架（Looi 等人 2026）
-- [[instructional-governance-design-computing-education-2026]] — 按设计进行教学治理：计算教育中 AI 的框架
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 护栏还是路障？AI 编程助教的教学风格与情境感知之效应
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 20 个 AI 工具在真实课堂中，风险如何随产品类别而异

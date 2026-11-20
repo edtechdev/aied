@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -93,34 +95,3 @@ Kwa elimu, jambo hili linakata pande mbili. Mtaala unaotumia AI kufanya mazoezi 
 - **"Tabasamu linamaanisha uchangamfu."** Katika mwingiliano wa kliniki wenye huzuni, waangalizi husoma tabasamu kama kutolingana, na kigunduzi cha vitendo vya uso husoma kama hisia chanya. Muktadha ndio kigezo kinachokosekana.
 - **"Mizani za kujitangaza hupima huruma."** Hupima mwelekeo au dhana ya nafsi; hazipimi tabia katika mwingiliano.
 - **"Kuzama zaidi ni bora kila wakati."** Mbinu za kuzama zinaonyesha ongezeko kubwa, lakini kwa gharama na muda mara kadhaa zaidi, na ulinganisho hausawazishi mfiduo.
-
-## Dhana zinazohusiana
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Makala zinazohusiana
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Kuigiza 13.2%, VR 11.6%, mazungumzo ya AI 8.8% kwenye IRI, huku muda wa mfiduo ukiwa umechanganywa (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Ugunduzi wa mguso wa kimwili ulikubaliana na waangalizi; ugunduzi wa tabasamu ulikwenda kinyume (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Uwezo uliojitathmini ulipanda d = 0.58 baada ya mazungumzo 13, bila kikundi cha udhibiti (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — Tafiti 17; ongezeko la kujiamini la kawaida, ushahidi wa huruma mdogo (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA na taswira zalishi kama mtiririko wa msisimko, huku huruma ikidaiwa badala ya kupimwa (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — Kuamini uwezo wa huruma wa AI kulitabiri utayari mdogo wa kutoa msaada (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Kipimo cha mwelekeo cha vipengele 42 ambacho muundo wake wa vipengele haukulingana na ubuni wake (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — Lugha yenye huruma iliongeza uelewa unaohisiwa, ambao ulitabiri ushiriki badala ya mabadiliko ya tabia (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — Wadhifa na hatua zilizobainishwa katika ilani zilizalisha tofauti kubwa ya huruma inayohisiwa (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Wanafunzi wa uuguzi walielezea AI kama msaada wa kihisia wakati wa msongo wa kliniki (Akbaba et al., 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -61,7 +63,6 @@ ai_assist:
 
 - **AI کی مدد سے ٹیم سازی میں تقسیمی تعصب۔** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] دکھاتے ہیں کہ تعصب اسکورنگ اور فیڈبیک سے باہر ایک کام کی قسم میں داخل ہوتا ہے: تین LLMs نے 28 طلبہ کی سافٹ ویئر انجینئرنگ کلاسوں کو چار ٹیموں میں تقسیم کرتے ہوئے مردوں کو انٹرفیس ڈیزائن کی بجائے کور ڈیولپمنٹ میں خواتین کے مقابلے کم از کم 80% کم بار بھیجا (GPT-5.2 OR < 0.01)، اور قومیت نے میرٹ سے آزادانہ طور پر جگہیں بدلیں۔ مہارتیں فراہم کرنے سے یہ کم ہوا مگر ختم نہیں ہوا - مہارت پر مبنی 99.2% تفویضات دو زمینی حقیقت والی ٹیموں میں سے ایک سے مطابقت رکھتی تھیں، پھر بھی جنس نے برابر درست اختیارات کے درمیان فیصلہ کیا (OR 2.53 GPT-4.1، 2.81 GPT-5.2، 1.43 DeepSeek) - اور متوازی تصویر سازی نے ایک فرد کی تصاویر کو مرد اور ہلکی جلد کی طرف جھکایا (جنس V = 0.64 اور 0.65؛ جلد کا رنگ V = 0.57 اور 0.61) جبکہ کثیر افراد کی تصاویر نسبتاً متوازن رہیں۔
 - **ذیلی گروہی آڈٹ خودکار کوڈر میں برابری دستاویز کر سکتے ہیں** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman اور Borman (2026)]] نے پایا کہ فائن ٹیونڈ BERT مضمون کوڈر نے دقیانوسی خطرے سے دوچار طلبہ کے لیے 0.92 اور غیر دوچار طلبہ کے لیے 0.94 درستگی حاصل کی، دونوں گروہوں میں recall 0.98 رہی۔ جنس کے لحاظ سے درستگی 0.95 بمقابلہ 0.93 اور مفت یا کم قیمت کھانے والے گروہوں میں 0.95 بمقابلہ 0.94 کے گرد رہی، جبکہ انگریزی سیکھنے والے (8%) اور انفرادی تعلیمی منصوبے والے طلبہ (10%) ذیلی گروہی تجزیے سے خارج رہے کیونکہ ذیلی نمونے بہت چھوٹے تھے۔
-
 
 **مجموعی درستگی ایسے ماڈل کو چھپا سکتی ہے جو جدوجہد کرنے والے طلبہ کو تلاش نہیں کر سکتا۔** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] نے ایک اسٹونین کوہورٹ پر تین ماڈل خاندانوں کی تربیت دی اور اسے دو طریقوں سے تقسیم کیا۔ متوازن مجموعے پر خاندان قابلِ موازنہ تھے۔ غیر متوازن تقسیم پر، جہاں پہلی چوتھائی سے نیچے 125 طلبہ کے مقابلے 328 اوپر تھے، ڈیسیژن ٹریز، ایک Bayesian نیٹ ورک اور رینڈم فارسٹس نے 80% درستگی پر کم کارکردگی والوں کے لیے 8%، 12% اور 16% recall حاصل کیا، اور صرف نیورو سمبولک ماڈل 50% سے آگے بڑھا۔
 
@@ -109,49 +110,3 @@ ai_assist:
 - **"تعصب اسکورنگ اور فیڈبیک کا مسئلہ ہے۔"** تعصب **اسکورنگ سے باہر کام کی اقسام** میں داخل ہوتا ہے: تین LLMs نے **28 طلبہ کی سافٹ ویئر انجینئرنگ کلاسوں کو چار ٹیموں میں تقسیم کرتے ہوئے مردوں کو حوالہ تقسیم کے مقابلے کم از کم 80% کم بار بھیجا**۔ ٹیم سازی نے گریڈنگ کے مقابلے میں موازنہ شدہ شدت کا تعصب اٹھایا۔
 - **"متعلقہ مہارت فراہم کرنا تعصب ہٹا دیتا ہے۔"** مہارتیں فراہم کرنے سے **یہ کم ہوا مگر ختم نہیں ہوا**: **مہارت پر مبنی 99.2% تفویضات دو زمینی حقیقت والی ٹیموں میں سے ایک سے مطابقت رکھتی تھیں، پھر بھی جنس نے برابر درست اختیارات کے درمیان فیصلہ کیا (OR 2.53)**۔ تقریباً کامل کام کی مطابقت صنفی اثر کے ساتھ موجود رہی، اس لیے بنیادی معیار پر درستگی انصاف کا ثبوت نہیں۔
 - **"ایک ازالے کا طریقہ کافی ہے۔"** تحقیق **تکمیلی حکمت عملیوں** کی مثال دیتی ہے — ان میں انصاف سے آگاہ ماڈلنگ بھی — کیونکہ تشکیل کے وقت داخل ہونے والا تعصب ایسے حل سے دور نہیں ہوتا جو آؤٹ پٹ متن کو نشانہ بنائے۔
-
-## منسلک تصورات
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — وہ قاری کی طرف کی ناکامی جو یہ صفحہ نہیں چھوتا: کسی تجویز کو بغیر جانچے قبول کر لینا
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## منسلک مضامین
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — نیورو سمبولک پیداگوجیکل الائنمنٹ (NSPA)
-- [[ai-scoring-language-bias-physics]] — AI پر مبنی اسکورنگ میں زبان کا تعصب
-- [[gender-bias-transfer-llm-writing]] — LLM کی مدد سے لکھنے میں صنفی تعصب کی منتقلی
-- [[paternalistic-filter-llm-history-education]] — پدرانہ فلٹر اور امتیازی انکار
-- [[fair-explainable-edu-recommendations]] — منصف اور قابلِ وضاحت تعلیمی سفارشات
-- [[temporal-smoothness-debiased-kt]] — ڈی بائیسڈ نالج ٹریسنگ
-- [[ground-truth-reliability-aied]] — AI کی اعتباریت کے لیے زمینی حقیقت کو جدید بنانا
-- [[data-annotations-pedagogical-hints]] — پیداگوجیکل اشاروں کے طور پر ڈیٹا تشریحات
-- [[xai-education-framework]] — تعلیم میں قابلِ وضاحت AI
-- [[antiskillbench-persona-skills-privacy-2026]] — پرسونا اسکلز کی رازداری اور تعصب کا آڈٹ
-- [[genai-minoritized-knowledges-disability]] — GenAI اور اقلیتی علوم کی حاشیے پر دھکیل
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — نشان زدہ پیداگوجیاں: خودکار تحریری فیڈبیک میں دقیانوسی طرز کے تعصبات
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — کیا AI متنوع طلبہ پروفائلز کے لیے مناسب سہارا دے سکتا ہے؟ ایک بڑے پیمانے کا جائزہ
-- [[bias-representation-text-to-image-education-2026]] — AI سے پیدا شدہ ٹیکسٹ ٹو امیج میں تعصب اور نمائندگی: منظم جائزہ (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی قدریں اور اصول
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — جذبات کی درجہ بندی سے قابلِ عمل اور ذمہ دار فیڈبیک تک: تدریس کے طلبہ جائزے میں NLP کا اسکوپنگ جائزہ اور شواہد کا نقشہ، 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — جنریٹو AI سافٹ ویئر انجینئرنگ تعلیم میں سماجی تعصبات کو مضبوط کر سکتا ہے
-- [[fairness-theatre-early-warning-systems-2026]] — انصاف کا تماشا: وینڈر کے کنٹرول والے ابتدائی انتباہ نظاموں میں post-hoc انصاف کی مداخلتوں کا جائزہ
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - کلاس عدم توازن کے تحت تین ماڈل خاندان کم کارکردگی والوں کی شناخت نہ کر سکے جبکہ متوازن میٹرکس صحت مند دکھائی دے رہے تھے

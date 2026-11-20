@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -88,28 +90,3 @@ AI は既存の教育活動システムに新たな**道具／媒介物**を持�
 **「教師の信念を変えれば、実践はついてくる。」** 変化の単位は個人より大きいものです。規範、業務負荷の配分、共有された規則を変える介入は、個人の確信を狙う介入よりも確実に実践を変えます。活動の対象は集合的に生産されるからです。これは、個人的に熱心な採用者が、所属部署がともに動かなければ元に戻る理由も説明します。
 
 **「アクティビティ理論は設計上の帰結を持たない記述的なレンズである。」** それは設計を、システムの要素間の矛盾に向けます。規則と衝突する道具、対象と衝突する分業であり、変化が実際にてこ入れされる場所です。矛盾を特定するレンズは、語彙だけでなく、介入すべき場所を与えています。
-
-## 関連概念
-- [[sociocultural-learning]] — アクティビティ理論が属する理論的系譜（ヴィゴツキー由来、文化歴史的）
-- [[learning-theories]] — アクティビティ理論を学習理論の中に位置づけるハブ
-- [[distributed-cognition]] — 道具媒介的で文脈的に分散する認知を重視する点で共通
-- [[situated-learning]] — 文脈と活動への参加を重視する点で共通
-- [[agency]] — AI が活動システム全体に人間の行為主体性をどう再分配するか
-- [[teacher-role]] — アクティビティ理論は教師の受容と実践を頻繁に分析します
-- [[learning-analytics]] — CHAT は分析の設計の拠りどころとなります
-- [[generative-ai]] — 教育活動システムに入り込み攪乱する AI の人工物
-- [[technology-acceptance-model]] — 受容について対照的な個人信念ベースの説明
-
-## 関連記事
-- [[jiang-genai-activity-theory-disciplines-2026]] — アクティビティ理論のレンズを通じた生成AI利用と開示の専門分野差
-- [[genai-runaway-object-math-higher-ed]] — 教育と研究の活動システムを変える生成AIの CHAT 分析
-- [[raffaghelli-situated-ai-ethics-2026]] — 生態学的システム理論と CHAT を融合させた状況に埋め込まれた AI 倫理
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 教師の AI 受容を見るレンズとしてのアクティビティ理論（SEM）
-- [[lee-anson-k12-teachers-ai-activity-theory]] — アクティビティ理論を通じた K-12 教師の AI 利用観
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT による工学教育における学生規範の変化
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 教師の専門家研修の CHAT-SDT 再設計
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI リテラシーのための CHAT に基づく学習分析パイプライン
-
-- [[llm-family-education-activity-theory-2026]] — 53 の HCI 研究のスコーピングレビュー：LLM は家族教育の労働を再分配したが、規則は制定されるより予想されるにとどまった
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 媒介するエージェントとしての生成 AI：道具でも協働者でもない
-

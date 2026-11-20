@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -45,8 +46,3 @@ Es zielt auf K–12-Lehrkräfte und die professionellen Weiterbildenden, die sie
 ## Anmerkungen und Vorbehalte
 
 Die Inhalte stehen unter CC BY-NC 4.0 und der zugrundeliegende Code unter MIT: Nutzung im Unterricht, lokales Hosting und Bearbeitung sind mit Nennung erlaubt, während der Verkauf der Materialien oder ihre Bündelung in kostenpflichtige Weiterbildung eine schriftliche Erlaubnis von TCEA erfordert. Werke anderer Personen sind von der Lizenz ausgenommen, und Literatur-Aktivitäten reproduzieren keinen Text aus urheberrechtlich geschützten Werken. Das Projekt gibt an, dass Inhalte und Übersetzungen mit generativer KI unter redaktioneller Prüfung erzeugt wurden, und dass die Übersetzungen maschinengestützt sind und vor dem Einsatz im Unterricht zur Prüfung durch örtliche Pädagoginnen und Pädagogen markiert sind – was vor der flächendeckenden Einführung durch einen Schulbezirk ernst zu nehmen ist. Jede Aktivität läuft im Browser der lernenden Person, ohne Logins und ohne Datenerhebung.
-
-## Verbundene Konzepte
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
-

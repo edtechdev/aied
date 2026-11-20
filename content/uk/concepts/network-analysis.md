@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -84,29 +86,3 @@ ai_assist:
 - **«Мережевий аналіз є об’єктивним, бо він обчислювальний.»** **Кодування — це основа**: усі мережеві варіанти залежать від надійного кодування сирих даних (висловлювань, подій, відношень) у дискретні вузли, а автоматизоване кодування успадковує свої визначення від того, хто їх задав. [[visualization|Візуалізація]] виглядає як емерджентна структура, а її вузли — це інтерпретаційні вибори.
 - **«Зсув у структурі мережі сам по собі автоматично є навчальним здобутком.»** В обговоренні випадку з **двадцятьма аспірантами змішаних дисциплін** частка спільних термінів **розміру 3 зросла з 5,2% до 8,0%**, тоді як **токени змісту впали приблизно до 0,65× від рівня після читання**. Дві структурні міри рухалися в протилежних напрямках, тож «мережа змінилася» не є знахідкою, доки ви не скажете, за якою мірою і чому це важливо.
 - **«Спільне використання більшої кількості термінів означає кращу співпрацю.»** Зростання частки спільних термінів поряд зі спадом різноманітності токенів змісту узгоджується з конвергенцією на меншому словнику. Консенсус і звуження структурно схожі, тому міра потребує того змісту, з якого вона була обчислена.
-
-## Пов’язані поняття
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Пов’язані статті
-
-- [[caeai-response-length-ai-ethics-education-2026]] — Довжина відповіді, а не лексична узгодженість, спрямовує статистику спільних термінів у мережах учасник–морфема (Shao та співавт. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA взаємодій здобувачів із чатботом у підтримуваному письмі EFL
-- [[tracing-genai-literacy-interaction-patterns]] — ENA патернів взаємодії за ШІ-грамотністю GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA спільного розв’язування проблем людиною та ШІ
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Когнітивне розвантаження та підказки (методи SNA/мережеві)
-- [[youtube-frames-chatgpt-education]] — ENA фреймів ChatGPT в освіті на YouTube
-- [[agency-gap-ai-writing]] — Розрив агентності в підтримуваному ШІ письмі (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — ENA також картує розмови освітян про компетентність

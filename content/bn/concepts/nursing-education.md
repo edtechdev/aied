@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -106,41 +108,3 @@ ai_assist:
 **গবেষকদের জন্য**
 
 - লাইসেন্স-পূর্ব ও অনুশীলনরত নার্স নমুনা আলাদাভাবে রিপোর্ট করুন, এবং তত্ত্বাবধানে অনুশীলনে রূপান্তর অধ্যয়ন করুন যদি সক্ষমতার দাবির ক্লিনিক্যাল অর্থ থাকতে হয়।
-
-## সংযুক্ত ধারণা
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[hardie-genai-nursing-scoping-review-2026]] — নার্সিং শিক্ষায় প্রয়োগ, মনোভাব ও নীতি: ১০৩-গবেষণার স্কোপিং পর্যালোচনা (Hardie প্রমুখ ২০২৬)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — নার্সিং শিক্ষায় জেনারেটিভ এআই-সমর্থিত সিমুলেশন ও দক্ষতা-প্রশিক্ষণে শিক্ষার্থীদের অভিজ্ঞতা: একটি মেটা-সংশ্লেষ
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — নার্সিং শিক্ষায় এআই-এর পদ্ধতিগত পর্যালোচনা (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — নার্সিং শিক্ষায় এআই-চালিত সিমুলেশন: মিশ্র পদ্ধতি পদ্ধতিগত পর্যালোচনা
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, কাঠামোগত ফাঁক ও পেশাগত পরিচয়ের পুনর্গঠন
-- [[akbaba-nursing-ai-experiences-tam-2026]] — TAM-এর মাধ্যমে নার্সিং শিক্ষার্থী ও প্রশিক্ষকদের এআই-অভিজ্ঞতা
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — স্বাস্থ্য-বিজ্ঞান শিক্ষার্থীদের মধ্যে এআই-উপলব্ধি ও কর্ম-উদ্বেগ
-- [[genai-counter-learner-groupthink-2025]] — আন্তঃপেশাগত PBL-এ গ্রুপথিংক মোকাবিলায় জেনারেটিভ এআই
-- [[dabkowski-nursing-academics-genai-2026]] — নার্সিং শিক্ষাবিদেরা GenAI নিয়ে: নীতির অস্পষ্টতা, পেশাগত মূল্যবোধ ও তত্ত্বাবধানে পরীক্ষার দিকে প্রবাহ
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — নার্সিং মূল্যায়নে দূরবর্তী তত্ত্বাবধান: নজরদারি, ন্যায্যতা ও উপলব্ধিভিত্তিক প্রতিরোধ-মামলা
-- [[xiang-ai-nursing-education-kas-framework-2026]] — নার্সিং পাঠক্রমের জন্য এআই সক্ষমতা-কাঠামোকে 12টি KAS উপ-মাত্রায় মানচিত্রায়িত করা স্কোপিং পর্যালোচনা
-- [[rony-nursing-educators-ai-tpack-2025]] — বাংলাদেশের নার্সিং শিক্ষকদের এআই-প্রস্তুতি, প্রতিবন্ধকতা ও ডেটা-শাসন, TPACK দিয়ে পড়া
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18টি পর্যালোচনার ছাতা-পর্যালোচনা: নীতি, পাঠক্রম রূপান্তর ও একীকরণের প্রতিবন্ধকতা
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — নার্সিং শিক্ষার্থীরা এআই-ব্যবহারের খোলা গোপনীয়তা নিয়ে: ব্যক্তিকেন্দ্রিক শিখন, সময় ও ডিজিটাল বিভাজন
-- [[agency-gap-ai-writing]] — চিকিৎসা ও নার্সিং শিক্ষার্থীদের সঙ্গে RCT: প্রতিক্রিয়াশীল বনাম সক্রিয় এজেন্ট নকশা এবং এজেন্সি ফাঁক
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 জন নার্সিং শিক্ষার্থী: GenAI মিথস্ক্রিয়া, শিক্ষাদানগত মিথস্ক্রিয়া ও একটি শুধু-চিহ্নিত মধ্যস্থতা মডেল
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Rony প্রমুখকে একটি প্রকাশিত উত্তর: প্রাতিষ্ঠানিক বাস্তুতন্ত্র, প্রস্তুতি ও এআই তদারকি
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — অনুষদের শিক্ষক ও শিক্ষার্থীরা মিলে একটি নার্সিং শিক্ষা বিশ্লেষণ ড্যাশবোর্ড সহ-নকশা করেন
-- [[federated-learning-at-risk-student-prediction-2026]] — স্বাস্থ্য-পেশা কর্মসূচি জুড়ে গোপনীয়তা-সংরক্ষক ঝুঁকি-পূর্বানুমান, এবং নার্সিংয়ে আমদানি করা থ্রেশহোল্ড কেন ভুল লক্ষ্যে আঘাত করে

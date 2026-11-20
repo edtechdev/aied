@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -92,46 +94,3 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 - **« Ajouter des citations et de la provenance rend un système plus digne de confiance. »** Dans un débat [[agentic-ai|multi-agents]], l'ajout de citations et de signaux d'autorité à la position de l'IA **a fait passer l'abandon d'un jugement correct de 15.0% à 31.8%**. La provenance n'était pas une information neutre : elle rendait la mauvaise réponse plus persuasive. Les indices de crédibilité doivent être des preuves d'exactitude, non une décoration autour d'une affirmation.
 - **« La co-conception avec les utilisateurs valide la conception. »** La co-conception répond à une autre question que l'efficacité. Lorsqu'un outil est co-conçu avec des étudiants et que **96% déclarent vouloir le garder**, c'est un résultat sur l'acceptabilité. Savoir si l'apprentissage s'est amélioré est une mesure distincte, et les deux peuvent pointer en sens opposé sans qu'aucune des deux soit fausse.
 - **« Les agents sont le niveau de capacité suivant. »** L'ablation des [[instructional-agents-multi-agent-course-gen|Instructional Agents]] est le contre-exemple utile : la base mono-agent obtenait le score **le plus mauvais** et la configuration Full Co-Pilot **battait** la configuration autonome. Plus d'autonomie n'était pas la meilleure conception ; l'arrangement en co-pilote l'était. Les choix d'architecture doivent être évalués plutôt que supposés s'améliorer avec la capacité.
-
-## Concepts liés
-
-- [[edtech-platform]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[universal-design-for-learning]]
-- [[assessment-validity]]
-- [[ai-ed-evaluation]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[sustainability]]
-- [[privacy]]
-
-## Articles liés
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[learnlm-improving-gemini-learning]]
-- [[savvy-student-attention-video-learning]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[oneill-presumed-effective-meta-analysis-2026]]
-- [[a4l-analytics-pipeline]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[vocabulary-difficulty-prediction]]
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers des conseils d'IA incorrects ; vérifier la provenance au point d'usage
-

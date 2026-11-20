@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -57,7 +59,6 @@ Il prompt engineering è centrale per un uso efficace dell'[[generative-ai|IA ge
 - **I principianti ricorrono per default a tentativi ed errori, e danno la colpa al modello.** In un seminario di linguistica testuale, dieci principianti con l'IA generativa perfezionavano i prompt per tentativi ed errori, ricorrevano raramente a esempi in contesto, e attribuivano in modo schiacciante gli scarsi output all'LLM piuttosto che alla propria formulazione del prompt ([[llms-text-linguistics-teaching-2026|Brocca e Garassino (2026)]]).
 - **I prompt vaghi lasciano una traccia nel dialogo.** La firma del gruppo di qualità inferiore era un ciclo di chiarimento auto-ripetuto (IC→IC, Z = 3,25), ricondotto a prompt vaghi e a fraintendimenti dell'IA, e con il divario di frustrazione più ampio dello studio (2,12 vs 3,82); il debug dei prompt su log autentici lo affronta mentre accade ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
-
 - **Quando il docente modella il prompt, gli studenti lo riusano verbatim.** Tra 310 prompt registrati di dodici gruppi STEAM di scuola media, la copia esatta dell'istruzione del docente era il punto di vista più frequente tra gli studenti, al 47,1%, prima dell'indagine spontanea al 28,7% ([[middle-school-genai-steam-interactions-2026|Zhao e Li (2026)]]).
 
 - **Un ciclo regolativo batte una formula di prompting.** In un pilota quasi-sperimentale con 42 studenti universitari, quelli istruiti sul ciclo IDEA (Intent, Deconstruction, Expression, Adaptation) producevano prompt e output di qualità superiore rispetto ai coetanei istruiti sul prompting Ruolo–Compito–Contesto–Formato in tutte e cinque le categorie di compito (guadagni nei prompt corretti da +11,77 a +29,19 punti) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
@@ -70,7 +71,6 @@ Il prompt engineering è centrale per un uso efficace dell'[[generative-ai|IA ge
 - **Uno scaffold in cinque parti, testato su quattro famiglie di modelli.** I prompt Ruolo–Obiettivo–Input–Processo–Output hanno alzato la qualità valutata dell'output da 3,318 a 4,603 (Δ = +1,285) su 400 coppie appaiate, con ogni famiglia in miglioramento e la baseline più debole che guadagnava di più ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al. (2026)]]).
 - **L'identità del modello, non la formulazione del prompt, guida l'accordo LLM–umano nella codifica.** Nella decomposizione controllata di [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]], il tipo di prompt era non significativo (F = 1,77, p = 0,136, η² parziale = ,03) mentre il fattore modello portava η² parziale = ,19. Aggiungere definizioni o istruzioni dettagliate peggiorava il rilevamento degli elenchi anche mentre riduceva gli errori sui giudizi di definizione corretta, e il prezzo non seguiva la qualità: Gemini 2.5 Pro costava \$178,13 ma rendeva meno di GPT-4.1 Full a \$56,77.
 - **Inietta il nome della teoria, non i suoi testi completi.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] mostrano che il prompting con teoria nominata batteva i paper forniti su utilità (4,40 vs 3,20) e concretezza (3,80 vs 2,40), mentre i testi completi vincevano solo sull'allineamento teorico (4,60 vs 3,60).
-
 
 - **Il prompting oltre il testo — l'illustrazione scientifica.** Il prompting può generare rapidamente figure di [[chemistry-education|chimica]] molecolare e fisica, ma una resa localmente persuasiva può comunque essere errata o portare un pregiudizio rappresentazionale, per cui gli studenti devono interrogare le [[visualization|visualizzazioni]] generate dall'IA alla luce dei principi chimici anziché fidarsi di esse ([[unesco-ai-guidelines-chemical-education-2026|Li et al. (2026)]]).
 - **Prompting sostenuto da scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] e [[scaffolding-critical-engagement-genai-minority-students|scaffolding per il coinvolgimento critico]] insegnano il prompting strutturato come intervento di apprendimento
@@ -108,58 +108,3 @@ Il prompt engineering si collega allo [[scaffolding|scaffolding]] — i prompt b
 - **"La qualità del prompt è un attributo dello studente."** **La cognizione del prompting segue la disciplina, non lo studente**: [[student-ai-conversations-cognitive-engagement-2026|Chang e Li (2026)]] hanno classificato **60.087 prompt da 116 corsi** e hanno trovato che la disciplina prediceva la sofisticazione dei prompt. Insegnare agli studenti a fare prompt migliori affronta una variazione che sta nella materia.
 - **"Gli studenti sviluppano da soli la propria pratica di prompting."** Quando il docente modellava il prompt, **gli studenti lo riutilizzavano alla lettera** — tra **310 prompt registrati da dodici gruppi STEAM della scuola media**, la copia esatta dell'istruzione del docente era comune. Il modellamento produce riproduzione, ed è per questo che è una leva di progettazione del sistema anziché un'abilità trasferibile.
 - **"Il prompting è prima un'abilità del discente e poi una proprietà del sistema."** Questo sposta il prompting **in una leva di progettazione adattiva del sistema**, con effetti misurati su **coinvolgimento ed efficienza (28,1% vs 19,6% di conversione degli esercizi)**. Le affordance di prompting dell'interfaccia muovevano il comportamento più di quanto facesse l'istruzione al prompting.
-
-## Concetti collegati
-- [[pedagogical-patterns]] — Lo strato di scaffolding all'interno delle sequenze di uso strutturato
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Ombrello: tecnologie e tecniche di IA (modelli, addestramento di LLM, robotica, RAG, agenti)
-
-## Articoli collegati
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 studenti su ciò che trovano difficile: l'allineamento dell'intento, non la sintassi del prompt
-- [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La competenza di prompt engineering come percorso di equità, con un esperimento di scaffolding cross-modello (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — L'alfabetizzazione al prompt come capacità percepita che predice comunque il coinvolgimento
-
-
-- [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
-- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Prompt vaghi hanno prodotto cicli di chiarimento auto-ripetuti con il divario di frustrazione più ampio

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -108,53 +110,3 @@ ai_assist:
 - **“教师最需要的是技术性的 AI 知识。”** 在 **46 名教师与 2,832 名学生**中，**教师的 AI 教学法知识**预测了学生对“AI 造福社会”的感知。教学法知识胜过技术知识，这与大部分培训投资的去向正好相反。
 - **“AI 在教育中的主要贡献是教学性的。”** 一项对 **28 项研究**的 PRISMA 综述发现，AI 最常增强的是**教学规划与评价设计**：最清晰的贡献是**卸载行政工作**，而不是教学。以教学增益为立论基础的方案，站在证据较弱的那条分支上。
 - **“AI 素养教学会自动转化为更好的教学。”** 一项对 **59 项研究（172 个效应量）**的三水平元分析发现，**以知识为焦点的干预（g ≈ .97）**在推动知识上明显优于其他路径。知识被推动是已测量的结果，它是否进入实践是下一个问题。
-
-## 关联概念
-
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[online-teaching-and-learning]] — 在线教与学
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — 隐喻与类比作为教学技术
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 案例方法与对比案例作为教学技术
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — 被训练来遵循教学法原则的 AI 工具
-
-## 关联文章
-
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI 作为教学论—教学法中介：教师—学生—GenAI 三元模型（Moganadas 等 2026）
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — “Pedagogy first, technology second”——TPAIK 对学生结果的影响重于技术性 TAIK（Shen 等 2026）
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — 与生成式 AI 的教学伙伴关系
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — 教学引导如何塑造 GenAI 的学习效应
-- [[generative-ai-guardrails-harm-learning]] — 带护栏（只给提示不给答案）的导学消除了考试惩罚
-- [[agentic-ai-pedagogical-best-practice-2026]] — 智能体式 AI 中的自动化—学习张力
-- [[jeon-isd-agent-bench-2026]] — 把智能体锚定在教学设计理论之上
-- [[ai-learning-tools-engineering-education-needs]] — 工程教育中的 AI 学习工具
-- [[fowlin-operationalizing-learning-principles-ai]] — 用 AI 把学习原则操作化
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI 与教学设计实践：一项系统综述（Kibar 与 Ilgaz 2026）
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 素养干预中的教学路径
-- [[cognitive-distribution-student-genai-interaction-2026]] — 学生—AI 互动：认知分布的过程（Willcox、Lane 与 Arikan 2026）

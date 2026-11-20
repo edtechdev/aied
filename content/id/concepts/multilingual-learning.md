@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -70,28 +72,3 @@ Penilaian komparatif berbasis LLM adalah kasus ketika bias mengikuti garis dasar
 - **"Bahasa target harus mendominasi sejak hari pertama."** Dalam **tinjauan sistematis terhadap 24 studi**, siswa meminta **frasa dan penjelasan yang kontekstual dalam bahasa mereka sendiri sebagai jembatan ke bahasa target** — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan benar-benar baru, bukan akal-akalan. Dukungan bahasa ibu berfungsi sebagai [[scaffolding|perancah]], bukan penghindaran.
 - **"Penilaian bahasa AI bias terhadap penulis multibahasa."** Di sini bias mengikuti **garis dasar manusia, bukan model**: penilaian komparatif berbasis LLM pada **tulisan informasional Kelas 3-6 konvergen dengan rubrik peneliti (r = .59-.73)** dan menunjukkan pola sama dengan penilai manusia. Itu bukan bukti keadilan absolut — melainkan bukti model tidak menambahkan distorsi baru di atas yang sudah ada.
 - **"Keluaran berkualitas terjemahan adalah bagian yang berguna."** Penggunaan sebagai jembatan bersifat eksplanatif dan situasional, bukan substitutif. Alat yang menggantikan produksi siswa menghilangkan latihan yang seharusnya dimungkinkan jembatan itu.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Artikel terkait
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Chatbot GenAI memungkinkan translanguaging, penggunaan yang tidak didukung alat bahasa sebelumnya
-- [[llm-comparative-judgment-writing-screening-2026]] — Validitas Penilaian Komparatif Model Bahasa Besar untuk Penyaringan Tulisan Universal
-- [[multilingual-adaptive-learning-nigeria-2026]] — Platform Pembelajaran Adaptif Berbasis AI untuk Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Pendamping Kuliah LLM Bilingual
-- [[structural-silence-underrepresented-language-ai-2026]] — Kesenyapan Struktural: Bahasa yang Kurang Terwakili
-- [[llm-cultural-relevance-k12]] — Relevansi Budaya LLM di K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Keterlibatan Kritis dengan GenAI di Kalangan Siswa Minoritas
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Kumpulan Data Sistem Pengetahuan India
-- [[kutti-ai-voice-first-learning-companion]] — Pendamping Pembelajaran Voice-First
-- [[ai-scoring-language-bias-physics]] — Bias Bahasa dalam Penilaian AI pada Fisika

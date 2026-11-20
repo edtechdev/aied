@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -125,47 +127,3 @@ Kaksi tiettyä raportointikäytäntöä paisuttaa tai vääristää synteesiä, 
 - **"Rajoitukset-osiot ovat kaavamaista tekstiä."** Menetelmälliset rajat ovat **mitattavissa eivätkä vaikutelmia**: kriittisessä katsauksessa **80 HCI-tutkimuksesta** kriittisestä ajattelusta tekoälyn kanssa **42 (52%) ei käyttänyt kontrolliryhmää**. Tarkka lukumäärä on se, mikä tekee rajasta toimittavan.
 - **"Heterogeenisuus on yksi luku, jonka voi lainata."** Sama katsaus osoittaa raportointivaaran: heterogeenisuus lainataan arvolla **I² = 82.98% kiinteän vaikutuksen mallissa ja I² = 15.75% satunnaisvaikutusten mallissa**. Sama data tuottaa yhdeksän pisteen tai kahden pisteen tarinan valitun mallin mukaan, joten lainattu I² ilman malliaan on tulkitsematon.
 - **"Suuri raportoitu vaikutus on se luku, johon luottaa."** Otsikko kuten vaikutus **30 opiskelijasta yhdellä kurssilla yhdessä toimipaikassa** on hauraan väitteen tavallinen muoto, ja kontrollittomien tutkimusten lukumäärä osoittaa, kuinka usein tuo hauraus jää raportoimatta.
-
-## Liittyvät käsitteet
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Teorian kehittäminen tekoälykoulutuksessa
-
-## Liittyvät artikkelit
-
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Tekoälychatbotit korkeakoulutuksessa: odotusten vertailu näyttöön (Thoeni & Fryer 2026)
-- [[ground-truth-reliability-aied]] — Maantieteellisen totuuden reliabiliteetti ja validiteetti arvioinnissa
-- [[ai-literacy-assessment-misalignment]] — Itsearvioitu vs. suoritusperusteinen tekoälylukutaito
-- [[machines-misread-pedagogical-quality]] — Miksi koneet tulkitsevat pedagogista laatua väärin
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Tekoälytutorien kriittiset rajat ja teorian käyttö
-- [[cross-dataset-bloom-question-classification]] — Bloomin taksonomia ja kysymysten luokittelu
-- [[eeg-familiarity-automated-assessment-2026]] — Oppija-arvioinnin automatisointi: EEG-pohjainen tuttuuden ennustaminen
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT koulutuksessa: vaikutus vailla syytä (mediakeskustelun kritiikki)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analyysi: julkaisuvinoumalla korjatut tekoälyvaikutukset ~1/3 raportoidusta koosta
-- [[oneill-presumed-effective-meta-analysis-2026]] — Oletetusti vaikuttava: oikeuslääketieteellinen auditointi 14 AIED-meta-analyysistä
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: empiirinen raportointikehys tekoälyavusteisille systemaattisille katsauksille
-- [[frontier-models-physics-benchmark-audit-2026]] — Kuinka hyviä huippumallit ovat fysiikassa? Asiantuntijoiden uudelleenarviointi paljastaa rikkinäiset evaluaatiot ja johtavien vertailumittarien lähes kyllästymisen
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Sisällyttämiskriteerit ankaruuden kynnyksenä, ja heterogeenisuusluku, joka muuttuu mallin mukana (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Klusterisatunnaistettu luokkahuonekoe, jonka suoritustulos ei saavuttanut merkitsevyyttä (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tekoäly- ja ihmistutorointi tuottavat vastaavat GRE-oppimisparannukset
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Palautteen fokuksen ja pedagogisen mukautuvuuden arviointi LLM:n tuottamassa palautteessa opiskelijakirjoittamiseen
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: väitepohjaiset skeemat koulutusvuoropuhelujen auditoitavaan koodaukseen
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Sentimenttiluokittelusta toimittavaan ja vastuulliseen palautteeseen: katsaus ja näyttökartta NLP:stä opetuksen opiskelija-arvioinnissa 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Mitä uskollisuusmittarit jättävät huomaamatta: rakenteellinen tarkistus synteettiselle koulutusdatalle
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Katsaus 195 opettajankoulutustutkimuksesta, joissa hakumerkkijonon suunnittelu muovaa raportoituja frekvenssejä
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Valtioiden välinen K-12-opettajakysely: konekäännetyt kohdat, yksittäiskohdilla mitatut huolet, ei invarianssitestausta
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systemaattinen katsaus 103 GenAI-korkeakoulututkimuksesta: 56% ehdollisia parannuksia, arvosanat peittävät prosessimuutoksen (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Datan augmentaatio voi valmistaa otsikkomittarin itse

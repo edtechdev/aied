@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -121,49 +123,3 @@ Două practici specifice de raportare umflă sau distorsionează o sinteză și 
 - **„Secțiunile de limitări sunt clișee.”** Limitările metodologice sunt **măsurabile, nu impresioniste**: într-o recenzie critică a **80 de studii HCI** despre gândirea critică cu IA, **42 (52%) nu au avut grup de control**. O numărătoare precisă este ceea ce face limitarea acționabilă.
 - **„Heterogenitatea este un singur număr pe care îl poți cita.”** Aceeași recenzie arată un pericol de raportare: heterogenitatea este citată ca **I² = 82,98% sub un model cu efecte fixe și I² = 15,75% sub modelul cu efecte aleatoare**. Aceleași date dau o poveste de nouă puncte sau una de două puncte, în funcție de modelul ales, așa că un I² citat fără modelul lui este neinterpretabil.
 - **„Un efect raportat mare este numărul în care să ai încredere.”** Un titlu precum un efect de la **30 de studenți într-un curs, într-un singur sit** este forma comună a unei afirmații fragile, iar numărul de studii fără grupuri de control arată cât de des rămâne această fragilitate neraportată.
-
-## Concepte conectate
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Dezvoltarea teoriei în IA în educație
-
-## Articole conectate
-
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatboturile de IA în învățământul superior: compararea așteptărilor cu dovezile (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Fiabilitatea și validitatea adevărului de referință în evaluare
-- [[ai-literacy-assessment-misalignment]] — Alfabetizarea în IA autoevaluată față de cea bazată pe performanță
-- [[machines-misread-pedagogical-quality]] — De ce mașinile citesc greșit calitatea pedagogică
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Limitele critice ale tutorilor de IA și utilizarea teoriei
-- [[cross-dataset-bloom-question-classification]] — Taxonomia lui Bloom și clasificarea întrebărilor
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizarea evaluării cursanților: predicția familiarității bazată pe EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT în educație: un efect în căutarea unei cauze (critica comparației media)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analiză: efectele IA ajustate pentru părtinirea publicării, ~1/3 din mărimea raportată
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presupus eficace: audit criminalistic al 14 meta-analize AIED
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: un cadru empiric de raportare pentru recenziile sistematice asistate de IA
-- [[frontier-models-physics-benchmark-audit-2026]] — Cât de bune sunt modelele de frontieră la fizică? Reevaluarea de către experți dezvăluie evaluări defectuoase și aproape-saturarea etaloanelor de vârf
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Criteriile de includere folosite drept prag de rigoare și o cifră de heterogenitate care se schimbă cu modelul (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Un trial de clasă randomizat pe clustere al cărui rezultat de performanță nu a atins semnificația (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoriatul cu IA și cel uman produc câștiguri GRE echivalente
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluarea focalizării feedbackului și a adaptivității pedagogice în feedbackul generat de LLM la scrierea studenților
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: scheme bazate pe afirmații pentru codarea auditabilă a dialogurilor educaționale
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificarea sentimentelor la feedback acționabil și responsabil: o recenzie de scop și o hartă a dovezilor despre NLP în evaluarea predării de către studenți, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Ce ratează metricile de fidelitate: o verificare structurală a datelor educaționale sintetice
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Recenzie de scop a 195 de studii de formare a profesorilor în care designul șirului de căutare modelează frecvențele raportate
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Sondaj transnațional al profesorilor K-12: itemi traduși automat, măsuri de îngrijorare cu item unic, fără testarea invarianței
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Recenzie sistematică a 103 studii GenAI din învățământul superior: 56% câștiguri condiționate, notele maschează schimbarea de proces (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Augmentarea datelor poate fabrica metrica din titlu

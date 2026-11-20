@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -85,43 +87,3 @@ ai_assist:
 - **«إمكانية الوصول تعني التسهيل.»** وجدت مراجعة استطلاعية لـ**40 دراسة** عن التقنيات المساعدة الرقمية للطلاب ذوي التنوّع العصبي أن **28 منها اشترطت تشخيصًا رسميًا للمشاركة**. فذلك نموذج مشروط بالتشخيص، ويستبعد كل متعلّم لديه احتياجات بلا لافتة — أي عكس التصميم الشامل.
 - **«الآثار المتوسطة تحسم المسألة.»** يُحلّل [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] **29 دراسة** تحليلًا بعديًا فيجدون أثرًا موجبًا متوسطًا، وهو أثر حقيقي ولا يقول شيئًا عن أي أداة لأي حاجة. فالمتوسط عبر تدخّلات غير متجانسة ليس توصية.
 - **«السرعة والفورية رفاهية.»** في دراسة حالة نوعية لـ**21 طالبًا جامعيًا ضعيف البصر** في ثلاث جامعات فلسطينية، صاغ المتعلّمون الفورية بوصفها **شرطًا أساسيًا لإمكانية الوصول لا رفاهية**. فما يبدو من الخارج تحسينًا كماليًا هو شرط مسبق للمشاركة.
-
-## المفاهيم المتصلة
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — مظلة أوسع لتصميم التعليم عبر تنوّع المتعلّمين
-- [[special-education]] — المجال التعليمي للمتعلّمين ذوي الإعاقات المُشخَّصة
-- [[universal-design-for-learning]] — إطار التصميم الاستباقي
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — سماعات الرأس ودوار الحركة ووصول الأجهزة هي ما يقرّر من يستطيع استخدامها
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — الصفحة الجامعة للقواعد المفرطة الاتساع والأدلّة المعيوبة والتسهيل المعقول
-- [[arts-and-media-education]]
-
-## المقالات المتصلة
-
-- [[shin-ai-policies-sld-2026]] — سياسات الذكاء الاصطناعي والتسهيلات للطلاب ذوي صعوبات التعلّم المحدَّدة
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — تحليل بَعدي للتدخّلات بالذكاء الاصطناعي للطلاب ذوي الإعاقة
-- [[adhd-video-segmentation-computing-education]] — فيديوهات مُقطَّعة بالذكاء الاصطناعي بفواصل ثابتة
-- [[text-simplification-its]] — تبسيط النصّ المبني على النماذج اللغوية الكبيرة للتدريس الخصوصي الذكي
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — توليد أسئلة بالنماذج اللغوية الكبيرة للمتعلّمين الصمّ/ضعاف السمع
-- [[kutti-ai-voice-first-learning-companion]] — رفيق يعمل بالصوت أولًا للأطفال ذوي الإعاقة البصرية
-- [[tactile-statistical-graphs-accessibility]] — رسوم بيانية إحصائية مطبوعة ثلاثي الأبعاد 3D قابلة للمسّ
-- [[pepper-robot-sign-language-lis-2025]] — روبوت Pepper يدعم لغة الإشارة
-- [[genai-minoritized-knowledges-disability]] — منظور نقدي للذكاء الاصطناعي والمعرفة المتمركزة حول الإعاقة
-- [[gemini-lualatex-physics-video-transcription-2026]] — نسخ آلي لفيديو الفيزياء متاح رياضيًا بـGemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — ذكاء اصطناعي توليدي مساعد للمتعلّمين ذوي الإعاقة البصرية
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — الذكاء الاصطناعي التوليدي والواقع الافتراضي وما بعدهما: مراجعة نطاقية للتقنيات المساعدة الرقمية للطلاب ذوي التنوّع العصبي في التعليم العالي
-- [[wright-transcription-not-generation-2026]] — النسخ ليس توليدًا: ممنوعات الذكاء الاصطناعي المفرطة الشمول والأدوات المساعدة التي تُطابقها
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% من 100 جامعة نخبة تنشر سياسةً لإتاحة الذكاء الاصطناعي بينما 93% منها تنشر خدمات حرم جامعي بالذكاء الاصطناعي
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: تقييم وصف المحاضرات الجامعية بالصوت عبر معايير الإتاحة والمقاييس وتفضيلات المتعلّمين
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: نحو واجهة قراءة يقرأها الإنسان وتقاوم الآلة

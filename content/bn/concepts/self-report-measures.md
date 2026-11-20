@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -86,7 +88,6 @@ ai_assist:
 দুই-পর্যায়ের একটি পদ্ধতিগত পর্যালোচনা সিদ্ধান্তের স্তরে সেই বিচ্ছেদের একটি হার দেয়: 47টি প্রতিবেদন থেকে 51টি সমগঠন-জোড়ার মধ্যে 30টি একমত, 11টি ভিন্নমত এবং 10টি মিশ্র। ভিন্নমত দুই দিকেই গেছে: পাঁচটি বিপরীতে একটি শূন্য আত্ম-প্রতিবেদন-ফলাফলের সঙ্গে একটি ইতিবাচক কর্মদক্ষতা-ফলাফল জোড়া ছিল, বিপরীতে দুইটি ঠিক উল্টো ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]])।
 
 একটি বিশ্ববিদ্যালয়-গ্রন্থাগার দুই ধারাকে একই প্রস্তাবের বিপরীতে বসিয়ে দেখেছে তারা আলাদা দিকে ইশারা করে। বার্ষিক মুদ্রিত-ঋণ 2017 সালের 406,120 থেকে 2025 সালে 46,339-এ নামে এবং অনন্য ঋণগ্রহীতা 30,033 থেকে 7,278-এ, কিন্তু পতন জেনএআই-যুগের আগেই শুরু হয়েছিল, আর জানুয়ারি 2023-এর ব্রেকপয়েন্টে স্তর বা ঢালে কোনো পরিবর্তন দেখা যায়নি। সমীক্ষা ব্যাখ্যামূলক ভার চাপায় গঠনের উপর: গভীর-পাঠের চাহিদা মুদ্রিত-চলমানতার অভিপ্রায়ের পূর্বাভাস দেয় H1 β = 0.908-এ, অথচ অনুমিত প্রতিস্থাপন-পথ প্রায় শূন্য (H4 β = 0.038, *p* = 0.631), এবং 2026-এর প্রথমার্ধে প্ল্যাটফর্মের এআই-বৈশিষ্ট্য ছিল কার্যক্রমের 0.53%। উপাত্ত-শাসন-নিয়মের অধীনে উত্তরদাতাদের ঋণ-রেকর্ডের সঙ্গে যুক্ত করা যায়নি, তাই বিচ্ছেদটি কেবল জনসংখ্যা-স্তরে পড়া যায়, ব্যক্তি-ধরে-ব্যক্তি নয় ([[huang-genai-academic-information-resources-2026|Huang প্রমুখ (2026)]])।
-
 
 যন্ত্র-সংক্রান্ত সাহিত্য নিজেই ফাঁকের মাপের প্রমাণ হিসেবে পড়া যায়। [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ও Maat (2026)]] শিক্ষকের এআই সাক্ষরতার 33টি যন্ত্র মূল্যায়ন করে দেখেছেন যে 31টি (93.9%) অনুভূত আত্মবিশ্বাসের আত্ম-প্রতিবেদন-স্কেল, কেবল দুটি (6.1%) জ্ঞানকে বস্তুনিষ্ঠভাবে পরীক্ষা করে, এবং 2019 থেকে 2025 সালের মধ্যে কোনোটি কর্মদক্ষতাভিত্তিক কাজ ব্যবহার করেনি। তাঁদের সিদ্ধান্ত সেই একই কথা যা এই পাতা বারবার অন্য দিক থেকে বলে আসছে: আত্ম-প্রতিবেদন-স্কোর আত্মবিশ্বাসের সূচক, সক্ষমতার নয়, তাই দল বা কর্মসূচি তুলনা করার সময় তা সক্ষমতার বিকল্প হতে পারে না।
 
@@ -160,57 +161,3 @@ ai_assist:
 - **"সমীক্ষার প্রমাণ দুর্বল কিন্তু মোটামুটি পক্ষপাতহীন।"** পক্ষপাতের আগেই সাড়া-কাঠামো অনুমানকে সীমাবদ্ধ করে: একটি সমীক্ষায় **31% সাড়ার হারে 112টি উত্তর** আসে, অথবা **572টি আমন্ত্রণ থেকে 90টি উত্তর**। উত্তরদাতার পুল একটি স্ব-নির্বাচিত উপসেট, তাই সংখ্যাটি সেই উপসেটই বর্ণনা করে।
 - **"সমীক্ষা এই ক্ষেত্রে একটি সংখ্যালঘু পদ্ধতি।"** **394টি GenAI উচ্চশিক্ষা গবেষণার** একটি স্কোপিং পর্যালোচনায় দেখা গেছে **সমীক্ষা-স্কেলই সবচেয়ে বেশি প্রতিবেদিত মূল্যায়ন পদ্ধতি (269 গবেষণা, 68.3%)**, পরীক্ষা ও কুইজের চেয়ে এগিয়ে। ক্ষেত্রের প্রভাবশালী প্রমাণ আত্ম-প্রতিবেদন।
 - **"আত্ম-প্রতিবেদন ও মাপা গঠন একমত।"** **রচনার লেখকত্বে 80% থেকে 2% পর্যন্ত বিস্তৃত অফলোডিং-প্রোফাইলের মধ্যে স্ব-প্রতিবেদিত জ্ঞানীয় ভার উল্লেখযোগ্যভাবে আলাদা ছিল না**, অথচ সবচেয়ে বেশি অফলোড করা শিক্ষার্থীরা পরিমাপযোগ্যভাবে আলাদা ছিলেন। যে জায়গায় আচরণ চল্লিশ গুণ ভিন্ন, সেখানে আত্মগত পরিমাপ সমান।
-
-## সংযুক্ত ধারণা
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — এক অভিপ্রায়-স্কোর, দুই বিপরীত ব্যবহার
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — আত্ম-প্রতিবেদন-যন্ত্র যে পরিচালনা-ধরন ব্যবহার করে তা বদলে দেয় এটি কী মাপে
-- [[capability-decision-model-teacher-readiness-2026]] — স্ব-প্রতিবেদিত এআই সক্ষমতাকে কার্যকারিতা-বিশ্বাস থেকে আলাদা করার বৈষম্যমূলক-বৈধতার মানদণ্ড
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — এজেন্টিক এআই পথ-মডেলে সম্পৃক্ততা মাপা কর্মদক্ষতার বদলে অনুভূত কর্মদক্ষতার পূর্বানুমান করে (Pramod & Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — শিক্ষক এআই সাক্ষরতার সমান্তরাল আত্ম-প্রতিবেদন ও বস্তুনিষ্ঠ পরিমাপ
-- [[jin-glat-genai-literacy-assessment]] — GLAT: আত্ম-প্রতিবেদনের একটি কর্মদক্ষতাভিত্তিক বিকল্প
-- [[genai-student-experiences-uk-he-survey-2026]] — যুক্তরাজ্যের প্রতিষ্ঠানজুড়ে শিক্ষার্থীদের GenAI ব্যবহারের সমীক্ষা
-- [[student-llm-interaction-taxonomy-review-2026]] — তথ্য আত্ম-প্রতিবেদন থেকে এসেছে কি লগ থেকে, তা দিয়ে গড়া শ্রেণিবিন্যাস
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI সাক্ষরতা চিহ্নিত করার প্রক্রিয়া-তথ্য
-- [[engagement-intensity-learner-modeling]] — শিক্ষার্থী-মডেলিং সংকেত হিসেবে স্ব-প্রতিবেদিত ব্যবহার
-- [[predicting-attrition-competitive-programming]] — স্ব-প্রতিবেদিত আত্মবিশ্বাস বনাম অনুশীলন-আচরণ
-- [[ai-use-critical-thinking-medical-students-2026]] — একক-উৎস মধ্যস্থতা মডেলে সাধারণ-পদ্ধতি পক্ষপাত
-- [[genai-motivation-engagement-2026]] — অনুপ্রেরণা ও সম্পৃক্ততার কেবল-আত্ম-প্রতিবেদনভিত্তিক PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — এআই ব্যবহার ও বিশ্বাস নিয়ে 81 পদার্থবিজ্ঞান স্নাতকের সমীক্ষা
-- [[hawkins-feedback-literacy-ai-essay-writing]] — আত্ম-প্রতিবেদনের প্রতিকার হিসেবে স্ক্রিন-রেকর্ডিং ও উদ্দীপিত স্মরণ
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — স্ব-নিয়ন্ত্রিত শিখনে আত্ম-প্রতিবেদন যোগে চিহ্ন-তথ্য
-- [[adaptive-pretesting-retention]] — লগ থেকে উদ্ভূত আচরণগত পরিশ্রম-সূচক
-- [[ai-vocational-education-training-review]] — আত্ম-প্রতিবেদন/বস্তুনিষ্ঠ-পরিমাপ ভারসাম্যহীনতা প্রতিবেদনকারী পর্যালোচনা
-- [[student-genai-use-views-writing|লেখার জন্য GenAI-এর শিক্ষার্থী-ব্যবহার ও মতামত]] — এক সমাজবিজ্ঞান বিভাগে সমীক্ষা যোগে সাক্ষাৎকার
-- [[competent-generative-ai-use-measures-review-2026]] — এআই সাক্ষরতার বাইরে: সক্ষম জেনারেটিভ-এআই ব্যবহারের পরিমাপ নিয়ে একটি কাঠামোবদ্ধ পর্যালোচনা ও অন্বেষণমূলক মেটা-বিশ্লেষণ
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: এআই-সংযুক্ত জ্ঞানীয় অফলোডিংয়ের জন্য একটি গোপনীয়তা-রক্ষাকারী স্ব-প্রতিফলন সরঞ্জাম
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — উচ্চ-প্রাথমিক শিক্ষার্থীদের জন্য একটি 15-উপকরণের স্ব-মূল্যায়ন যন্ত্র, যা স্পষ্ট করে অনুভূত সক্ষমতা কী প্রতিষ্ঠা করতে পারে
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — পর্যালোচনা দেখায় 33টি শিক্ষক-এআই-সাক্ষরতা যন্ত্রের 31টি আত্ম-প্রতিবেদন এবং কোনোটি কর্মদক্ষতাভিত্তিক নয়
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — আত্ম-প্রতিবেদন থেকে গড়া প্রোফাইলও একই আচরণ করে
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — সমগঠনে আত্ম-প্রতিবেদন বনাম কর্মদক্ষতার অমিলের একটি হার দেওয়া দুই-পর্যায়ের পর্যালোচনা (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — অনুভূত লেখকত্ব পুরো-রচনা প্রত্যর্পণকে বাকি সবকিছু থেকে আলাদা করেছে, অথচ চিহ্ন আরও অনেক বেশি আলাদা করেছে (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66টি গবেষণার 32টিতে উপলব্ধি প্রতিবেদিত, বিপরীতে 8টি অনুসন্ধান-দক্ষতা মেপেছে
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - এআই সাক্ষরতা যন্ত্রের 63.8% নির্ভরযোগ্যতার প্রমাণ দেয় এবং 20%-এরও কম বৈধতার প্রমাণ দেয়
-
-- [[huang-genai-academic-information-resources-2026]] — গ্রন্থাগার-লগ ও সমীক্ষা-মনোভাব আলাদা দিকে ইশারা করে
-

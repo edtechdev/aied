@@ -7,6 +7,8 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 > **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment|assessment]] emerges from the task itself rather than being separated from it.
@@ -47,29 +49,3 @@ Situated learning connects closely to [[embodied-learning|embodied learning]] (b
 - **"Authenticity is a property of the task."** Authenticity is a relation between the activity and a real community's legitimate work. A task can be elaborate and still be school-shaped — assessed by a teacher, for a grade, with no consequence in the world it claims to represent.
 - **"Assessment emerging from the task means no assessment."** It means the criterion is the community's, not the classroom's: whether the work is acceptable to people who do the work. That is a different and usually stricter standard than a rubric.
 - **"Apprenticeship requires a physical setting."** The mechanism is legitimate peripheral participation — moving from the edge of a practice toward its center with real responsibility. Online and simulated settings can support it or can simulate the periphery without ever granting participation, and the difference is whether the learner's contribution is actually used.
-
-## Connected Concepts
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — immersive environments as a route to authentic context
-
-## Connected Articles
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Scenarios plus reusable provenance-bearing assets beat a plain assistant in two trials
-
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (the primary reference)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

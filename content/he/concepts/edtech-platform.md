@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -109,52 +111,3 @@ ai_assist:
 **"פתוח לעומת קנייני הוא פרט רישוי שאינו משפיע על התוצאות."** מודל הפלטפורמה מעצב מה מוסדות יכולים לעשות עם המערכת: פלטפורמות [[open-source|פתוחות]] כמו OATutor — חונך אדפטיבי ברישיון MIT עם ספריית תוכן אלגברה ב-Creative Commons, הערכת שליטה באמצעות [[knowledge-tracing]] ובדיקת A/B מובנית — מאפשרות למחלקה למכשיר ולשנות את ה[[pedagogy|פדגוגיה]] של עצמה, דבר שפלטפורמה סגורה אינה יכולה. הרישיון קובע מי רשאי לערוך את הניסוי.
 
 **"פלטפורמה שעובדת במוסד אחד תעבוד כפי שהיא מאומצת."** אפקטי פלטפורמה עוברים דרך ממשל מקומי: ארכיטקטורה פרטיות-קודם, מינימיזציית נתונים, לוגים בני-ביקורת וגישה מבוססת-תפקיד הם מה שהופך פלטפורמה משולבת-AI לניתנת-לפריסה מלכתחילה, והם החלטות מוסדיות ולא תכונות שאפשר להסיק מהדגמת ספק.
-
-## מושגים מקושרים
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## מאמרים מקושרים
-- [[typology-generative-ai-tools-education-2026]] — במה 211 מחנכים דיווחו שמשתמשים: 50 כלים בתשע קטגוריות
-- [[making-ai-tutoring-productive-mastery-math-2026]] — הפיכת חונכות AI לפרודוקטיבית: תרגול מתמטיקה מבוסס-שליטה
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo בניסוי בית-ספרי בן שנתיים
-- [[access-not-enough-ai-tutoring-2026]] — אימוץ ומעורבות הם האילוצים המחייבים לפלטפורמות חונכות AI
-- [[oatutor-open-source-adaptive-tutor-2023]] — פלטפורמת חונכות אדפטיבית בקוד פתוח למחקר ניתן-שחזור
-- [[mooc-to-maic]] — מעבר מ-MOOC לכיתות AI מרובות-סוכנים מונעות-LLM
-- [[ai-lms-middle-school-longitudinal]] — LMS משולב-AI לבית הספר הביניים עם תמיכה חסומה, פרטיות-קודם
-- [[taklif-ai-interest-based-personalized-assignments]] — פלטפורמת משימות מותאמות-אישית מבוססות-עניין
-- [[edusim-llm-robotic-simulation-education-2026]] — פלטפורמת סימולציה רובוטית-LLM לחינוך
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — פלטפורמת הוראה רובוט-חברתי יוצרת בהשכלה גבוהה
-- [[hypergamification-game-engine-lms]] — LMS מבוסס-מנוע-משחק המשיק גמיפיקציה
-- [[edtech-design-time-generative-ui]] — עיצוב EdTech עבור UI יוצר
-- [[lata-ferpa-compliant-local-llm-autograder]] — פלטפורמת מדרג-אוטומטי LLM מקומית תואמת-FERPA
-- [[vismatic-secure-sandbox-cs-education]] — פלטפורמת ארגז-חול מאובטח לחינוך מדעי המחשב
-- [[learnmate2-llm-adaptive-learning]] — פלטפורמת למידה אדפטיבית מותאמת-אישית מונעת-LLM
-- [[privacy-aware-classroom-incident-recognition-2026]] — ראייה ממוחשבת מודעת-פרטיות בפלטפורמות כיתה
-- [[raza-farooq-aied-review-2020-2025]] — סקירה מקיפה של מחקר ומערכות AIED
-- [[credentials-carry-evidence-ai-agents-2026]] — אישורים שנושאים את הראיה שלהם לעבודת סוכני AI
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

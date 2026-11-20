@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -53,7 +55,6 @@ Uigaji upo katika kiini cha mbinu za [[pedagogy|kufundisha]] za [[experiential-l
 
 - **Uwakala ni tabaka lililobuniwa, si sifa ya teknolojia.** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen na wenzake (2026)]] hupanga uigaji kwa mazoezi yanayowakilishwa, hali iliyoigwa, jinsi uwakala na urekebishaji vinavyogawanywa, na jinsi kujifunza kunavyopangwa, badala ya kiwango cha kuzama.
 
-
 - **Mfumo wazi wa utengenezaji unaweza kuchunguzwa kwa njia ambayo kizalishaji kilichojifunza hakiwezi.** DagFlow-AI hujenga data ya kutunga kutoka grafu elekezi isiyo na mizunguko pamoja na mgawanyo na fomula za kila kigezo, hivyo mchakato wa kuzalisha data ni hati ambayo mwalimu anaweza kuisoma na kuirekebisha ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur na wenzake, 2026]]). Hii ni kinyume kwa makusudi cha usanisi wa GAN na VAE, ambao unahitaji seti ya data ya mbegu na hutoa mchakato usiofafanuka. Biashara ni kwamba kufikia uigaji thabiti kulichukua marudio kadhaa.
 
 - **[[virtual-and-augmented-reality|Mazingira ya mtandaoni]] na tabaka la AI ni faida zinazoweza kutenganishwa.** Katika kitengo cha wiki tatu cha sheria ya Ohm ya Darasa la 9, mafanikio yaliyorekebishwa yalikuwa 23.45 kati ya 30 na maabara ya mtandaoni inayosaidiwa na AI, 20.51 na maabara ile ile bila AI na 16.57 katika maabara ya kimwili ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li na Ahmad (2026)]]). Madarasa yaliyokuwepo yaligawiwa kila moja na mwalimu tofauti, hivyo hii inaelezea mipangilio mitatu ya darasa, si wakala peke yake.
@@ -64,11 +65,9 @@ Uigaji upo katika kiini cha mbinu za [[pedagogy|kufundisha]] za [[experiential-l
 
 - **Mtaala ni kitengo kinachoamua thamani ya uigaji.** Mfano wa Daraja la Mtaala (Curricular Bridge Model) unasema kuwa faida ya uigaji inategemea jinsi uzoefu unavyopangwa mfululizo katika programu — kutumia tena muktadha, utofauti wa mahitaji ya kufikiri, na ushahidi unaoingia katika maendeleo — badala ya uaminifu wa jukwaa ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 
-
 ### Mahusiano
 
 Uigaji unaungana na [[active-learning]], [[adaptive-learning]], na [[pedagogical-agent]]. Ni mbinu ya kujifunza kwa [[constructivist]] ya uzoefu na inaimarishwa na uwezo wa AI wa kuzalisha mazingira ya mazoezi yanayobadilika na ya kuaminika.
-
 
 Kujifunza kwa msingi wa uigaji sasa kunajumuisha wagonjwa, wanafunzi na wenzi wa uchezaji wa nafasi walioigwa, na [[ai-avatars-and-synthetic-instructors]] inasema kuwa maswali yao ya ridhaa, ufichuzi na uaminifu wa mtu si sawa na uaminifu wa vifaa au hali.
 
@@ -78,54 +77,8 @@ Kazi nyingi kuhusu mazungumzo yaliyoigwa huuliza jinsi wakala anavyocheza sehemu
 
 Mfumo huu husafiri kama jaribio badala ya katalogi. Maswali matatu huamua kazi yoyote: ni nini kitakachopita kwa wakala, iwapo mwalimu angeweza kurekebisha kosa, na nani angeweza kuulizwa kusimama nyuma ya maneno ya wakala. Kazi isiyo na jibu la tatu si mtahiniwa. Ikitumika kwa maandalizi, jaribio hutoa maamuzi sita — utambuzi na vifaa vinakabidhiwa, malengo yaliyotajwa yanakabidhiwa kwa sehemu, na mkataba wa kubuni, usalama wa kisaikolojia, na masharti ya tathmini yanakataliwa. Katika uchambuzi, karatasi inaweka misimamo mitatu ambayo wakala anaweza kuwa nayo — mtaalam, mhusika, na Maieutic — na kuripoti hali ya kushindwa ya Maieutic: wakala aliyejengwa kufundisha kwa kutojibu kamwe aliwaacha wanafunzi wakiwa wamevunjika moyo. Ni mfumo wa kubuni, si utafiti wa matokeo. Waandishi wanasema kuwa hakuna data zilizokusanywa kwa ajili ya utafiti, na usambazaji ulioripotiwa ni wa majaribio uliosomwa kupitia uchunguzi wa mwalimu mwenyewe.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Uigaji ni wa bei nafuu na kwa hivyo ni wa daraja la pili."** Marubani wa uigaji huru wa [[llm|LLM]] **huchukua nafasi ya wachezaji wa nafasi wa kibinadamu wataalamu wanaohudumia uigaji wa udhibiti wa trafiki ya anga, wakiondoa kizuizi cha uwezo wa mafunzo**; kizuizi kilikuwa upatikanaji wa wafanyakazi, si uaminifu. Pale wachezaji wa nafasi wa kibinadamu ni wachache, uigaji wa LLM si mbadala bali ni chaguo pekee linalopatikana.
 - **"Waigaji wanapaswa kuishi kama kesi za wastani."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin na wenzake, 2026)]] huoanisha wakala wa sera na **waigaji wa wagonjwa wa LLM walioundwa kutenda kwa kupingana**. Muigaji aliyebuniwa kuwa mshirikiano hufanya mazoezi ya mwanafunzi kuwa rahisi kuliko kliniki, ambayo ni kinyume cha kile mafunzo yanahitaji.
 - **"Hali zilizoandikwa hufundisha kufanya maamuzi chini ya kutokuwa na uhakika."** Mawakala wa muktadha wa mawakala wengi wa SupplyNet huzalisha **mienendo inayojitokeza kutokana na maamuzi ya mwanafunzi badala ya mfuatano ulioandikwa**. Hali zilizoandikwa hufanya mazoezi ya njia inayojulikana; zile zinazojitokeza hufanya mazoezi ya uamuzi.
-
-## Dhana Zilizounganishwa
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya mfumo, mipaka ya LLM, falsafa ya majaribio
-- [[biology-education]] — Elimu ya biolojia na AI: wasaidizi wa ualumu wa maabara, ujuzi wa AI katika biolojia, ufikiri mahususi, zana maalum
-- [[ai-technologies]] — Umbrella: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, matumizi ya mawakala)
-- [[virtual-and-augmented-reality]] — mfano, si modaliti — mazingira ya kuvuviwa kwa kawaida huonyesha uigaji
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Makala Zilizounganishwa
-- [[learner-agency-ai-simulation-2026]] — Udhibiti wa parameta na wakala wa hiari wa AI katika uigaji wa mifumo ngumu: maendeleo yalifuatilia utekelezaji, si upatikanaji
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Wagonjwa wa Kuwazia Walioabadilishwa kwa Mafunzo ya Tiba ya Kisaikolojia
-- [[ai-enabled-serious-games]] — Michezo ya Kuzito Inayoendeshwa na AI
-- [[anvil-ai-educational-animations]] — ANVIL: Mifano na Video kwa Waelimishaji
-- [[astra-atco-training-simulator]] — ASTRA: Kigawa cha Mafunzo cha ATCO
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Kujifunza kwa Uchunguzi na Kuona
-- [[medeasy-ai-standardized-patients]] — MedEASY: Wagonjwa Sanifu wa AI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Mchezo wa uchezaji wa nafasi unaoendeshwa na roboti kwa uingiliaji wa mashahidi (tamthilia ya vitendo)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya afya kwa msingi wa hali (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Mfumo wa CAIS-GBL wa mawakala wa mazungumzo ya AI katika michezo ya uigaji ya biashara (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Mawakala wa LLM walio rekebishwa kwa washiriki mahususi wanaozalisha mazungumzo ya kutatua matatizo ya ushirikiano (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA benchmark bandia kwa ufafanuzi wa mawakala wengi na ushirikiano wenye usawa wa washiriki
-- [[simulation-assisted-drone-learning-stem-2026]] — Kujifunza kwa drone kusaidiwa na uigaji na ngazi za msaada zilizobuniwa pamoja na mwalimu na AI
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Uigaji unaoendeshwa na AI katika upasuaji: mapitio ya kimfumo ya mbinu mchanganyiko (pengo la uhalisi, mstari wa kuendelea)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Mafunzo ya mawasiliano ya kliniki ya AI yanayoweza kupimwa na tathmini ya kiotomatiki
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Vigezo vya kidijitali katika elimu ya STEM: violezo vyote vilifanya kazi, maendeleo ya kujifunza mengi hayakufanya
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Maabara ya mtandaoni inayosaidiwa na AI kwa kujifunza fizikia kwa kugeuza darasa: athari kwa mafanikio, motisha na mzigo wa kiakili wa wanafunzi wa shule ya kati
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Mfumo wa tabaka nne unaotenganisha mazoezi yanayowakilishwa, hali iliyoigwa, mgawanyo wa uwakala na urekebishaji, na upangaji wa kujifunza
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — Kutoka utumiaji wa teknolojia hadi mshikamano wa mtaala: uigaji unaosaidiwa na teknolojia kama daraja katika elimu ya fani za afya
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Kile mwalimu hawezi kukabidhi kwa wakala wa mazungumzo katika mzunguko wa uigaji
-

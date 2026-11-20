@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -95,41 +97,3 @@ ai_assist:
 **“AI 辅助降低了门槛，因此扩大了参与。”** 它可以降低产出作品的门槛，同时收窄主张作者身份的门槛。提交一份自己并未撰写的流畅制品的学生，获得了结果，却被剥夺了建构其背后身份的识别。
 
 **“识别学习者身份就是在内容中有代表性。”** 代表性重要，而识别在实践中被实施：谁的问题被采纳、谁的贡献被记名、谁被视为有能力。一份[[curriculum-design|课程]]可以有代表性，却仍然扣留身份形成所需的识别。
-
-## 关联概念
-
-- [[learners]] —— 学习者：学习者侧概念的伞形概念
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 关联文章
-
-- [[kim-solo-game-development-autoethnography-2026]] — 生成式 AI 时代进入一个新领域：一位生物信息学教育者独自开发游戏的自我民族志
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 名本科生谈他们仍亲自动手做什么，以及为什么目的很少起决定作用
-
-- [[guarded-adoption-genai-higher-education-2026]] —— 对高等教育中生成式 AI 的有界采纳
-- [[t2i-competence-paradox-2026]] —— 胜任力悖论：文生图 GenAI 使用中的创意身份
-- [[shame-guilt-ai-regulation-computing-education]] —— 羞耻与内疚作为 AI 使用的社会调节器
-- [[lodge-adaptive-capabilities-genai-future-2026]] —— 面向 GenAI 未来可行专业身份的自适应能力
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] —— 教学共生与后人类学习者
-- [[ai-pedagogical-accompaniment-amico]] —— 支持 STEM 身份的 AI 使能教学陪伴
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] —— 为真实性评价而设计
-- [[paternalistic-filter-llm-history-education]] —— 家长式 AI 使用与历史教育中的学生身份
-- [[laidlaw-genai-identity-crisis-faculty-2026]] —— GenAI 作为教师的身份危机（教师身份）
-- [[teaching-the-teachers-genai-tpk-review-2026]] —— 基于 TPK 的教师培训与专业身份
-- [[genai-professionalization-metaphors-2026]] —— GenAI 概念化与学生专业化
-
-- [[synthetic-position-self-authorship-2026]] —— 作者身份悬置：被委派的作者身份作为一个声音稠密却未被署名的自我（概念分析）
-- [[vibe-coding-design-diversity-2026]] —— 一种工具，一种品味？Vibe Coding 如何以集体多样性换取个体创造力

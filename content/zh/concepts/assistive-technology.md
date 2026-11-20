@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -68,27 +70,3 @@ ai_assist:
 - **"一个中等效应量就能指明正确的工具。"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等人]]发现，基于 AI 的干预对残障学生的学习结果产生中等正向效应（**g = 0.588**），横跨机器人、软件与智能 VR。那是对服务着非常不同需求的不同技术的平均，因此它支持的是这个类别，而不是类别内部的选择。
 - **"以诊断为门槛的获取是一种站得住的设计。"** 要求正式诊断才能参与，会把有真实需求却没有标签的学习者排除在外，这与[[universal-design-for-learning|通用学习设计]]相冲突，并把获取的成本推到学生自己的证明材料上。
 - **"辅助工具越多就意味着越包容。"** 一项范围综述在五个数据库中筛选了 **766 条记录**，而产出的数量并不等于对需求的覆盖：每一类障碍的研究计数才是更有信息量的数字。
-
-## 关联概念
-
-- [[accessibility]] — 辅助技术所操作化的那个设计属性
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## 关联文章
-
-- [[shin-ai-policies-sld-2026]] — 针对有特定学习障碍学生的 AI 政策与支持
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 面向残障学生的 AI 干预的元分析
-- [[kutti-ai-voice-first-learning-companion]] — 面向视障儿童的语音优先 AI
-- [[tactile-statistical-graphs-accessibility]] — AI 生成的触觉统计图表
-- [[text-simplification-its]] — 面向智能辅导的基于 LLM 的文本简化
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向聋/听障学习者的 LLM 问题生成
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX 无障碍数学物理视频转录
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其他：面向高等教育神经多样性学生的数字辅助技术范围综述

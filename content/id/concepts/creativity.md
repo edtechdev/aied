@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -51,12 +53,9 @@ Kreativitas membentang di ujung berpikir divergen dari spektrum kognitif — men
 - **Sumber contoh yang dipersepsikan, bukan isinya, membentuk ideasi kelompok.** Contoh identik yang dihasilkan ChatGPT dan diberi label sebagai buatan manusia versus AI mengubah kreativitas kelompok dalam studi hiperscanning fNIRS atas 113 diad: atribusi manusia menaikkan keunikan ide selama stimulasi dan sinkroni antarotak di area premotor dan motorik suplementer, atribusi AI hanya menaikkan perpindahan antar jalur ideasi, dan tidak ada efek yang bertahan setelah contoh ditarik ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong dan rekan (2026)]]).
 - **Implementasi perkembangan, bukan kapasitas, yang membedakan kreativitas anak berbantuan AI.** Dalam perbandingan neuroimaging pertama antara anak dan orang dewasa yang berko-kreasi dengan ChatGPT, anak berusia 6–7 tahun dan orang dewasa menjalani percakapan lisan lima menit yang sama di dalam pemindai MRI. Kreativitas yang diukur di luar pemindai tidak berbeda antar kelompok. Namun orang dewasa menunjukkan konektivitas dalam-jaringan yang jauh lebih kuat pada jaringan kontrol frontoparietal, salience, dan atensi dorsal, dan kreativitas yang lebih tinggi memprediksi kopling frontoparietal–salience yang lebih kuat pada orang dewasa tetapi tidak pada anak. Para penulis membacanya sebagai perbedaan dalam *cara* kognisi kreatif diimplementasikan selama dialog AI, bukan perbedaan kapasitas dasar. Ini juga memunculkan pertanyaan yang belum harus dijawab saran perancah di halaman ini: kapan mesin kontrol yang direkrut kerja kreatif berbantuan AI benar-benar matang? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus dan rekan (2026)]])
 
-
 Penyeimbang dari penelitian pascasarjana: di antara 1,157 mahasiswa pascasarjana Tiongkok, ketergantungan pada [[generative-ai|GenAI]] berasosiasi positif dengan kreativitas penelitian yang [[self-report-measures|dilaporkan sendiri]], jauh lebih kuat untuk ketergantungan fungsional yang berorientasi tugas (β = 0.457) daripada ketergantungan eksistensial (β = 0.147), dengan [[critical-thinking|berpikir kritis]] membawa sekitar 85.0% jalur fungsional ([[genai-dependence-research-creativity-2026|Yin dan rekan (2026)]]).
 
-
 Survei nasional mempersulit pola itu: di antara 5,764 mahasiswa universitas Tiongkok, ketergantungan AI berkorelasi negatif dengan kreativitas yang dilaporkan sendiri (r = −0.17), dengan motif melarikan diri dan sosial membawa jalur tidak langsung negatif dan motif instrumental serta hiburan membawa jalur positif ([[ai-dependence-creativity-motivation-literacy-2026|Hou dan rekan (2026)]]).
-
 
 - **Perwujudan membuahkan hasil secara tidak merata.** Robot fisik yang dipasangkan dengan model berkreativitas tinggi secara signifikan menaikkan orisinalitas dibandingkan kolaborasi manusia–manusia dan berbasis teks, sementara kondisi manusia dan berbasis teks mempertahankan keunggulan dalam imaji dan suara — paradoks perwujudan di mana robot memperkuat keluaran AI tanpa memperbaiki gaya ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
 
@@ -91,40 +90,3 @@ Kreativitas terhubung dengan [[critical-thinking|berpikir kritis]] dan pembelaja
 - **"Mengganggu siswa menghasilkan keuntungan kreatif."** **Gesekan bukanlah keuntungan kreatif.** Persona AI kontrarian mendorong wacana tantangan-dan-refleksi pada **38.2% kelompok** namun tidak menghasilkan **peningkatan kinerja kreatif yang terukur**. Wacananya berubah dan luaran yang diukur tidak.
 - **"Literatur K-12 menetapkan bahwa GenAI meningkatkan kreativitas."** Tinjauan lingkup terpandu PRISMA atas **45 studi (2017-2025)** menunjukkan GenAI sebagian besar **meningkatkan** kreativitas dan **jarang mengukurnya**. Temuan dominan bidang ini adalah inferensi dari peningkatan yang dipersepsikan, yang bukan pengukuran luaran.
 - **"Semakin bergantung pada GenAI berarti semakin banyak keluaran kreatif."** Di antara **1,157 mahasiswa pascasarjana Tiongkok**, ketergantungan GenAI **berasosiasi positif dengan kreativitas penelitian yang dilaporkan sendiri** — dan asosiasinya adalah dengan **laporan sendiri**, ukuran konstruk yang paling lemah yang tersedia.
-
-## Konsep terkait
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Artikel terkait
-- [[wei-genai-configurations-creative-phases-2026]] — Konfigurasi AI generatif lintas fase kreatif: eksperimen 2 × 2 tentang kinerja kreatif dan pengetahuan langsung dalam pendidikan seni dan desain
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Pembangkitan gambar GenAI membiarkan kinerja desain tetap sama tetapi menurunkan efikasi diri kreatif umum
-- [[bicer-genai-pd-math-creativity-2026]] — Bagaimana pengembangan profesional terpandu AI generatif mendukung keterlibatan guru dengan kreativitas matematis, pengetahuan konten, dan pengetahuan konten pedagogis
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Perancah berbasis aksioma untuk penciptaan sastra: premis sebagai unit di antara tema dan teks, hanya tervalidasi dalam rencana (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Agensi siswa yang muncul dalam kolaborasi manusia–AI implisit: persona suportif vs. kontrarian
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT dan Berpikir Kritis serta Kreatif: Tinjauan Sistematis
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integrasi Robot-LLM dan Penulisan Kreatif
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi AI teks-ke-gambar di antara mahasiswa seni dan desain
-- [[mujib-ai-ibl-creative-math-2026]] — Pembelajaran berbasis inkuiri berbantuan AI dan kinerja matematis kreatif
-- [[flowcode-ai-creative-coding]] — Flowcode: lingkungan bertenaga AI yang memberi perancah iterasi dalam komputasi kreatif
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: model trivalensi ko-kreativitas potensial dalam jaringan sosio-teknis
-- [[genai-creativity-k12-scoping-review-2026]] — Tinjauan lingkup PRISMA atas 45 studi K–12: empat penggunaan GenAI untuk kreativitas, penyeragaman, dan kesenjangan pengukuran
-- [[multi-agent-llm-social-learning]] — Bantuan dua model memulihkan keragaman ideasional yang diratakan satu model (Kumar dan rekan 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Ketergantungan GenAI fungsional versus eksistensial dan kreativitas penelitian pada 1,157 mahasiswa pascasarjana
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kreativitas yang setara, keterlibatan neural yang berbeda: anak vs. orang dewasa berbicara dengan ChatGPT di pemindai fMRI
-- [[ai-dependence-creativity-motivation-literacy-2026]] — Ketergantungan AI dan empat motif penggunaan berhubungan secara berbeda dengan kreativitas yang dilaporkan sendiri (Hou dan rekan 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Mendukung pendidikan kreativitas di era AI: peran sumber contoh yang dipersepsikan

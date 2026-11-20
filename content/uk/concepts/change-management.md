@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -81,34 +83,3 @@ ai_assist:
 - **«Стратегічний намір створює спроможність».** Лише **7% закладів** створили старші посади з керівництва ШІ, хоча **49% вважають ШІ стратегічним пріоритетом**. Розрив між декларацією та структурою — і це повторювана невдача управління змінами в умовах ШІ.
 - **«Упровадження інструменту ШІ — це подія».** **Стійкість є властивістю організації, а не інструменту** — чотирирічне рандомізоване оцінювання негенеративного чат-бота з текстовими повідомленнями в Університеті штату Каліфорнія, Нортбридж, ілюструє цю часову шкалу. Оцінювання тривало чотири роки, бо саме довговічність потребувала перевірки.
 - **«Закладам треба реагувати швидше, а не передбачати».** **Випереджальне лідерство** — комплементарна лінія: [[baroudi-anticipatory-governance-ai-higher-ed-2026|огляд]] виявляє, що заклади мають перейти від **реактивного до заснованого на передбаченні** управління. Компетентна реакція на технологію, яка вже прийшла, — це те, що документовано як невдача.
-
-## Пов’язані поняття
-
-- [[governance]] — структури політики та нагляду, які операціоналізує управління змінами
-- [[educational-policy-ai]] — намір національної та інституційної політики щодо ШІ, який управління змінами має транслювати в практику
-- [[educational-development]] — розвиток потенціалу викладачів і педагогічної орієнтації для інтеграції ШІ
-- [[administrator]] — лідерство та антиципаційне управління як агенти змін
-- [[ai-literacy]] — міждисциплінарна можливість, на якій спирається відповідальне інституційне упровадження
-- [[equity-in-ai-education]] — забезпечення рівномірного розподілу вигід від змін між закладами та здобувачами
-- [[technology-acceptance-model]] — драйвери упровадження, які пояснюють, як поширюються зміни
-- [[academic-integrity]] — центральний регуляторний якір, навколо якого організована реформа оцінювання
-- [[student-support-and-success]] — підтримка програми супроводу за межі пілоту
-
-## Пов’язані статті
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-- [[institutional-change-framework-ai]] — структура з шести виміром для адаптації моделей інституційних змін до ШІ як технології появи
-- [[leveraging-complex-systems-leading-for-transformative-change]] — структура SPARK і лідерство в умовах складності для трансформаційних змін
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — глобальний дельфійський консенсус щодо управління GenAI із восьми областей
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — огляд обсягу літератури щодо антиципаційного управління та лідерства
-- [[ai-adaptation-gap-higher-education-2026]] — розриви між зацікавленими сторонами у використанні ШІ, ставленні та довірі серед студентів, викладачів і персоналу
-- [[ai-uk-higher-education-policy-2026]] — намір національної політики проти інституційного потенціалу у вищій освіті Великої Британії
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — організаційні та технологічні драйвери упровадження ШІ
-- [[adarkwah-genai-unesco-policy-2026]] — аналіз структури ЮНЕСКО інституційних політик щодо GenAI
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — міжсистемне польове дослідження щодо того, як впровадження та дії вчителя вирішують, чи допомагає продукт на основі ШІ
-- [[dot-framework-survey-2026]] — свідчення опитування, що професійний розвиток має охоплювати повний цикл проєктування, а не лише використання інструмента
-- [[flipped-classroom-ai-assessment-math-2026]] — десятирічна дуга поширення від індивідуальної ініціативи до центрального фінансування в бакалаврській математиці (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Закладайте 15–20 годин перепроєктування на курс з інтегрованим ШІ ще до подальших коригувань

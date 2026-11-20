@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -92,32 +94,3 @@ UDL "शिक्षार्थी को ठीक करें" को "ड�
 **"UDL का अर्थ है औसत छात्र के लिए अधिक सावधानी से डिज़ाइन करना।"** मूल दावा इसका उल्टा है: शिक्षार्थी परिवर्तनशीलता अपवाद नहीं, नियम है, इसलिए डिज़ाइन शुरू से ही कई मार्ग देता है, संघर्ष करने वालों के लिए एक मार्ग सुधारने के बजाय। UDL जिस चीज़ को बदलने के लिए है वह पश्चात-सुधार (retrofit) है, और एक बेहतर ट्यून किया गया मार्ग भी एक ही मार्ग है।
 
 **"AI UDL को स्वचालित बना देता है, क्योंकि वह वैकल्पिक प्रारूप उत्पन्न कर सकता है।"** यह प्रस्तुतीकरण सिद्धांत को सस्ता बनाता है और जुड़ाव तथा अभिव्यक्ति को अछूता छोड़ देता है। पाठ को ऑडियो में बदलना तीन साधनों में से एक को संबोधित करता है; अब कोई पाठ्यक्रम पूरी तरह बहु-प्रारूपी हो सकता है और फिर भी हर छात्र से सीख उसी एक तरीक़े से प्रदर्शित करने की माँग कर सकता है।
-
-## संबंधित अवधारणाएँ
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — छत्र-अवधारणा: एआई शिक्षा में शिक्षणशास्त्र और शिक्षण रणनीतियाँ
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## संबंधित लेख
-- [[seung-basham-cognitive-offloading-swld-2026]] — सीखने की अक्षमताओं वाले छात्रों के लिए GenAI संज्ञानात्मक ऑफ़लोडिंग
-- [[authentic-products-authenticated-processes-2026]] — प्रामाणिक उत्पादों से प्रमाणित प्रक्रियाओं तक
-- [[tactile-statistical-graphs-accessibility]] — सुगम्यता के लिए स्पर्शनीय सांख्यिकीय ग्राफ़
-- [[neurodivergent-computing-students]] — न्यूरोडाइवर्जेंट कंप्यूटिंग छात्र
-- [[ai-learning-tools-engineering-education-needs]] — आवश्यकताओं और ध्यान-जागरूक एआई सीखने के उपकरणों का डिज़ाइन
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव एआई, वर्चुअल रियलिटी और आगे: उच्च शिक्षा में न्यूरोडाइवर्जेंट छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों का स्कोपिंग समीक्षा
-- [[faculty-accessible-course-design-ai-2026]] — "एआई ने मेरे पास जो विकल्प थे उन्हें घटा दिया": एक ChatGPT संसार में सुगम पाठ्यक्रम डिज़ाइन पर संकाय की धारणाओं की खोज
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — कुवैत के उच्च शिक्षा संस्थानों में कृत्रिम बुद्धि और सार्वभौमिक अधिगम डिज़ाइन: समावेशी शिक्षा के लिए एक AI-सक्षम ढाँचे की ओर

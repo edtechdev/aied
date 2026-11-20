@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -51,11 +52,3 @@ VFWA はインストールする製品ではなく、ウェブサイト、ワー
 このモデルは大規模には評価されていません。論文は、サンプル、測定器、測定された成果がまだ存在しないと明言しており、第 1 段階の成果物が評価者の自信や解釈の一貫性を高めるか、学生がこの設計をより公正だと感じるか、そして第 1 段階を第 2 の試験にせずに十分性の閾値を各専門分野がどう設定するかを試すパイロットが必要だとしています。
 
 実務上のコストは 2 つあり、いずれも現実です。第 1 段階には大規模な監督付きセッションと安全な収録が必要で、多言語の録音と翻訳は追加要素ではなく前提条件です。また、解釈的な判断は意図的に採点者に委ねられています。モデルは自動化できない領域の専門性を前提としており、これは設計上の前提であると同時に人員配置上の前提でもあります。
-
-## 関連する概念
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

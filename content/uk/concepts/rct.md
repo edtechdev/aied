@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -68,25 +70,3 @@ ai_assist:
 - **«Рандомізація гарантує валідну оцінку того, що робить інструмент».** Рандомізація балансує сплутувальники; вона не забезпечує, що хтось використовував втручання. Групово-рандомізоване випробування з низьким засвоєнням оцінює **ефект пропонування** інструмента, а «за наміром лікувати» і «на лікованих» відповідають на різні питання.
 - **«Велике випробування завжди є кращим дизайном».** Деякі стверджують, що звичайні масштабні випробування **не можуть встигати за платформами тьюторів, які істотно змінюються впродовж дослідження**, і натомість використовують керовані викладачами дизайни, що залишаються валідними, поки система еволюціонує. Випробування рухомої цілі може бути добре забезпечене потужністю і все ж вимірювати систему, якої вже не існує.
 - **«RCT і спостережні докази є взаємозамінними».** RCT із **1 174 учасниками** виявив, що GenAI **закрив близько трьох чвертей розриву в продуктивності, зумовленого освітою**, — точне причинне твердження за конкретний період. Спостереження пояснює механізм і прийняття; воно не може нести цю оцінку, а RCT не може пояснити чому.
-
-## Пов’язані поняття
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — the design behind the strongest student-support evidence
-
-## Пов’язані статті
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Час планування уроків упав до 0.76 від групи порівняння у 108 початкових школах за 7% дози використання інструмента
-
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Результат, виміряний із затримкою, а не наприкінці сесії

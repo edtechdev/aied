@@ -10,6 +10,8 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 > **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy|self-efficacy]] SDL requires).
@@ -45,7 +47,6 @@ The research documents both sides of the GenAI–SDL relationship.
 
 Because SDL emphasizes learner-initiated direction, interventions to protect it focus on preserving [[agency|agency]] and self-efficacy rather than merely regulating moment-to-moment behavior. The evidence that thoughtless AI use erodes motivation and self-efficacy — the psychological resources SDL depends on — suggests that promoting [[ai-literacy|responsible AI use]] is not just an integrity issue but a developmental one: protecting students' capacity to direct their own learning.
 
-
 ## AI Extraction Scaffolding Research-Based Learning
 
 - **AI extraction as a scaffold for research-based learning.** An and colleagues (2026) design an AI-powered information extraction system that converts research publications into structured, traceable datasets to support undergraduate thesis completion in [[stem-education|STEM]], positioned as an **epistemic scaffold** that enables inspection of evidence-claim relationships while reducing low-level data-handling demands. In a 20-student [[mixed-methods-research|mixed-methods]] pilot across 80 documents, students extracted over 90% of targeted parameters, [[self-report-measures|self-reported]] literature-review time dropped ~65%, and their ability to identify influential variables rose 50% — supporting the idea that [[generative-ai|AI]] can rebalance cognitive load toward higher-order, self-directed research reasoning rather than routine summarization.
@@ -76,29 +77,3 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 **"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student experience]] evidence, reasoned.
 
 **"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
-
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[scherer-self-directed-genai-use-secondary-2026]] — Self-Directed Generative AI Use and Academic Development Among Secondary School Students: A Large-Scale, One-Year Longitudinal Study
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning (SEM, gender differences)
-- [[ai-lifelong-learning-policy]] — AI and lifelong learning policy
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI and learning analytics
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — Models do not select learning goals like humans in a free-choice task (Molinaro et al. 2026)

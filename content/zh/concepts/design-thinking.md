@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -69,40 +71,3 @@ ai_assist:
 **"设计思维是一个可以逐阶段自动化的流程。"** 它是一门框定与重新框定问题的纪律，而固着恰恰取消了这件事。把各阶段自动化却不去检视框架，会为错误的问题产出胜任的输出。
 
 **"同意的 AI 智能体为学生的设计推理提供了[[student-support-and-success|学生支持]]。"** 这里记录的生产性用法方向相反：[[ai-agents-constructive-conflict-design-education-2026|与 AI 智能体的建设性冲突]]检验的是迫使重新考虑的对抗性提示。一个随和的智能体强化固着；一个面向异议的智能体，才是背后有教育主张的设计。
-
-## 关联概念
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## 关联文章
-
-- [[design-thinking-aigc-fashion-film-2026]] — AIGC 支持的时尚电影设计中跨学习阶段的设计思维思维模式（Liu 等 2026）
-
-- [[genai-architecture-education]] — Gen-AI-tecture：用生成式 AI 支持建筑学生的设计任务
-- [[genai-architectural-design-studios]] — 生成式 AI 在建筑设计工作室中的发展与应用
-- [[social-robot-study-companions]] — 与大学生共创可建造的、开放的社交机器人学习伙伴
-- [[gaide-vibe-coding-k12-teachers]] — 一个指导 K-12 教师通过 Vibe Coding 创建 AI 驱动学习技术的框架
-- [[dot-framework-survey-2026]] — DOT 框架调查：AI 增强教育中实践者的信念与行为
-- [[ai-agents-constructive-conflict-design-education-2026]] — 在新手交互设计师中实施与 AI 智能体的建设性冲突以增强重新考虑
-- [[genai-usage-design-students-survey]] — 一项关于设计学生 GenAI 使用的研究：2025/2026 年米兰理工大学调查结果与 AI 实践日志分析

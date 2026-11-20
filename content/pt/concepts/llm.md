@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -69,44 +71,3 @@ Evidências de codificação de NER mostram superioridade dependente da tarefa, 
 - **"A capacidade bruta do modelo determina quão bem ele diagnostica erros."** **A fundamentação** determina: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora e MacLellan (2025)]] mostraram que fornecer ao GPT-4 a interface do tutor **mudou substancialmente** seu diagnóstico de erros. O que se fornece ao modelo sobre o contexto de quem aprende faz mais diferença do que qual modelo ele é.
 - **"Qualquer modelo de fronteira se comporta do mesmo modo como [[pedagogical-agent|parceiro de aprendizagem]]."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash e Connell Pensky (2025)]] estudaram **três famílias de fronteira** — ChatGPT, Gemini e Claude — em uma comparação em sala de aula, precisamente porque as famílias não são intercambiáveis como colaboradoras.
 - **"Modelos melhores significam menos [[scaffolding|andaimento]] necessário."** O GPT-4 **andaimentado com uma rubrica semanticamente precisa e co-refinada iterativamente** conseguia aproximar o [[evaluative-judgment|juízo avaliativo]] humano na [[design-based-research|aprendizagem baseada em design]]. A aproximação veio da rubrica refinada ao longo das iterações, e não do modelo sozinho.
-
-## Conceitos conectados
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agêntica)
-
-## Artigos conectados
-- [[assessing-quality-ai-generated-exams-field-2025]] — Avaliando a qualidade de provas geradas por IA: um estudo de campo em larga escala
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — A IA pode oferecer apoio adequado a perfis diversos de estudantes? Uma avaliação em larga escala
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs como agentes de desenho pedagógico iterativo
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimando a dificuldade de itens com LLMs e ML baseado em árvores
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões gerada por IA em cursos de ciência de dados
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy em 11 LLMs: a IA afirmou os usuários 49% mais que os humanos, elevando a confiança e o uso continuado

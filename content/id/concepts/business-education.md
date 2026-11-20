@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -64,7 +66,6 @@ Bisnis adalah salah satu bidang dengan adopsi AI generatif tercepat, sehingga se
 
 Studi kasus dan simulasi adalah format pengajaran yang paling dekat dengan literatur ini, tetapi bukti manajemen tidak mengisolasi intervensi berbasis kasus; lihat [[case-based-learning]] untuk pedagoginya dan batasannya.
 
-
 ## Implikasi bagi instruktur bisnis
 
 - **Integrasikan AI dengan pendekatan yang digerakkan kurikulum dan berbasis masukan siswa.** [[drummond-genai-business-schools-framework-2026|Kerangka berbasis masukan siswa]] dan [[rook-plumb-genai-curricula-student-insights-2026|wawasan siswa]] menunjukkan siswa menginginkan keterampilan GenAI untuk karier dan ingin menggunakan AI tanpa pelanggaran yang tidak disengaja — rancang program yang menjalin literasi AI, pertimbangan etis, dan penerapan autentik melalui struktur gelar.
@@ -77,36 +78,3 @@ Studi kasus dan simulasi adalah format pengajaran yang paling dekat dengan liter
 - **"Siswa menginginkan AI karena mereka menginginkan jalan pintas."** Kerangka berbasis masukan siswa menemukan siswa **sangat terlibat dan sadar bahwa mereka membutuhkan keterampilan GenAI untuk karier**, sekaligus ingin **menggunakan AI tanpa secara tidak sengaja melakukan pelanggaran akademik**. Yang dituntut adalah kompetensi dengan batas yang jelas, bukan izin menghindari kerja.
 - **"Menambahkan modul AI ke kurikulum bisnis menangkap manfaatnya."** Penelitian tentang keselarasan konstruktif menemukan bahwa **apakah manfaat atau risiko mendominasi dibentuk oleh derajat integrasi kurikulum** — pembedaan operatifnya adalah **integrasikan, jangan tambahkan**. Modul yang ditempelkan tidak mengubah desain penilaiannya.
 - **"Kecanggihan alat mengalahkan e-learning konvensional."** Studi persepsi dengan **130 siswa** menemukan **dukungan chatbot maupun agen dinilai di atas e-learning tradisional** dalam peningkatan, personalisasi, dan pengambilan keputusan. Perlu dicatat apa yang diukurnya: *persepsi* siswa terhadap pembanding konvensional, bukan pembelajaran terhadapnya.
-
-## Konsep terkait
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — Studi kasus, metode kasus, dan diskusi kasus
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Artikel terkait
-- [[ai-decision-checkpoints-bpm-education-2026]] — Titik Pemeriksaan Keputusan AI untuk Manajemen Proses Bisnis yang Diperkuat AI: Kerangka dan Instansiasi Pendidikan
-- [[csaszar-ai-management-education-2026]] — Efek AI pada pendidikan manajemen: analisis strategi berbasis nilai (Csaszar dkk. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: dukungan GAI agentic dalam mata kuliah e-commerce, manfaat dan risiko yang dipersepsikan (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Kerangka berbasis masukan siswa untuk GenAI di sekolah bisnis (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Satu dekade AI dalam pendidikan bisnis (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Keselarasan konstruktif GenAI dalam pendidikan tinggi bisnis (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Wawasan siswa tentang integrasi GenAI ke dalam kurikulum (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Pendorong organisasi adopsi AI di pendidikan tinggi (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Kerangka CAIS-GBL untuk agen percakapan AI dalam permainan simulasi bisnis (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Kesepakatan dan galat dalam penilaian otomatis unggahan pemasaran siswa
-- [[shi-genai-experiential-learning-management-education-2026]] — tiga mekanisme AI generatif untuk mengonfigurasi ulang pedagogi pendidikan manajemen
-- [[alam-process-oriented-collaborative-essays-2026]] — Esai kolaboratif berorientasi proses dalam magang Business Analyst: menilai iterasi yang terdokumentasi, bukan topiknya
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot RAG buatan mata kuliah menggeser ekspektasi, bukan hasil

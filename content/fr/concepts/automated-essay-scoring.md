@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -97,44 +99,3 @@ Les systèmes ouverts font aussi partie de ce tableau : AiAWE note des dissertat
 - **« Les résultats de la notation automatisée reflètent l'écriture des étudiants. »** Le signal ordinal peut être **fabriqué plutôt qu'observé** — des dissertations synthétiques de niveau 1 construites par génération de gabarits, dégradation à **20-40 % de la longueur d'origine** et retrait de mots-clés. Un système validé sur des extrêmes construits peut n'avoir jamais été testé sur la distribution qu'il rencontrera.
 - **« L'exactitude agrégée est la métrique à rapporter. »** **Une distribution de grille biaisée peut rendre les métriques agrégées trompeuses** : l'évaluation automatisée d'une dimension de grille est souvent une tâche de classification à distribution d'étiquettes déséquilibrée, où une exactitude élevée et une discrimination utile se séparent.
 - **« Les déploiements sur le terrain n'ont pas été évalués. »** Des preuves de terrain existent, issues d'un déploiement réel à enjeux élevés (**Acredita EB en Uruguay, 2024**), qui est la forme de preuve la plus solide de cette littérature et celle que la plupart des études d'exactitude de notation ne fournissent jamais.
-
-## Concepts liés
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Articles liés
-
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — Chaîne de pensée consciente de la grille plus PPO : QWK moyen de 0.5253 à 0.5410, avec de faibles gains d'échelle (Xu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — Notation auditable : QWK macro de 0.738 avec une rétroaction ancrée sur les preuves et un indicateur de révision par l'enseignant (Xin 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — Rapport OpRaise : notation par IA de 761 dissertations universitaires dans trois universités britanniques
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES : une notation de dissertations cohérente et alignée sur la récompense avec les LLM
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — Les LLM ne notent pas les dissertations comme les humains (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — De la notation automatisée au diagnostic des apprentissages : une étude de mécanisme sur l'évaluation formative assistée par IA en écriture anglaise
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Savoir quand faire confiance : la confiance du modèle, la notation probabiliste pondérée et la combinaison de modèles améliorent l'accord de notation des LLM
-- [[swim-student-writing-simulation-2026]] — un vérificateur d'AES gelé utilisé comme récompense d'entraînement dense pour un générateur d'écriture
-- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 notateurs interrogés affrontent des sondes dont la bonne réponse est connue, et la plupart peuvent être convaincus de dire autre chose (Porcaro 2026)
-
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Des enseignants de classes de 300 élèves notent une application d'AES non connectée à 92.5 SUS et demandent un avertissement de fiabilité plutôt qu'une note définitive (Ribeiro et coll. 2026)
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Optimiser la notation automatisée de dissertations pilotée par grands modèles de langue : intégrer des traits linguistiques et l'ingénierie des invites pour améliorer l'exactitude de la notation

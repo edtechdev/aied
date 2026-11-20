@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -97,31 +99,3 @@ ai_assist:
 **"'순수한' 바이브 코딩이 이 용어의 의미이므로 그 구분은 중요하지 않다."** 그 구분은 평가와 안전 모두에서 중요합니다. 이 페이지는 사용자가 생성된 소스를 의도적으로 보거나 편집하지 않고 반복적 프롬프트와 행동 평가에만 의존하는 순수 바이브 코딩을, 사용자가 산출된 것을 읽는 코드 가시적 작업과 구분합니다. 이들은 오류 양상이 다른 서로 다른 활동이며, 하나에 대한 연구가 다른 하나에 대한 주장을 허가하지는 않습니다.
 
 **"앱이 실행되면 생성된 코드는 괜찮다."** 실행은 약한 검사입니다. Veracode의 2025년 분석은 AI 생성 코드 가운데 55%만이 안전하다고 보았으므로, 바이브 코딩된 교실 도구는 학생 데이터를 다루거나 보호할 가치가 있는 어떤 시스템에 연결하기 전에 여전히 검토 과정을 거쳐야 합니다. 행동 평가는 사용자가 우연히 밟아 본 경로만 확인하며, 밟지 않은 경로에 관해서는 아무 말도 하지 않습니다.
-
-## 연결된 개념
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## 연결된 문서
-
-- [[vibe-coding-writing-cs-achievement-2026]] — 컴퓨터 과학 성취도와 글쓰기 기술이 바이브 코딩 숙련도를 예측한다 (CHI 2026 실증 연구)
-- [[gaide-vibe-coding-k12-teachers]] — 바이브 코딩을 통한 AI 기반 학습 기술 창작에서 K-12 교사를 위한 안내 프레임워크
-- [[vibe-coding-programming-process-visualizer]] — 아이디어에서 교실까지 며칠 만에: "바이브 코딩"으로 IDE 활동 로그에서 프로그래밍 과정 시각화 도구 만들기
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — 바이브 코딩이 몇 시간 만에 두 개의 공학 시뮬레이션을 만들었으나, 프로토콜 오류 진단에는 여전히 교사가 필요했다
-- [[prompt-problems-nl-programming-mistakes]] — 자연어 프로그래밍 과제 수행 시 학생의 인식, 실수, 디버깅 접근법 이해
-- [[code-to-learn-genai-artifact-construction-2026]] — 생성 AI로 배우는 코딩: 고등학교 후기 교육에서 산출물 구축을 위한 이론에 기반한 프레임워크
-- [[reshaping-cs-education-genai]] — 생성 AI를 위한 학부 CS 교육 재편
-- [[flowcode-ai-creative-coding]] — Flowcode: 창의적 컴퓨팅 교육에서 반복을 스캐폴딩하는 AI 기반 프로그래밍 환경
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI 인트라프러너십: 자신의 도구를 만드는 교수진, 그리고 그 충동이 살아남을지를 결정하는 조직적 가능 요인 (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — 하나의 도구, 하나의 취향? 바이브 코딩이 집단적 다양성을 개인적 창의성과 맞바꾸는 방식
-- [[ho-invariant-core-faculty-development-2027]] — 평가 전략으로서의 교사 제작 도구: 인력으로는 공급할 수 없는 과정 증거(Ho 2026)

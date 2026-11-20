@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -56,11 +58,9 @@ ai_assist:
 
 센서 및 시선 분석은 같은 학습자 모형에 입력되는 두 번째 도구 계열로, 안구 추적, 뇌파, 피부 전도 활동, 심박수를 활용해 주의, 참여, 인지 부하를 추정합니다([[sensor-and-gaze-analytics]]). 그 타당성과 동의 문제는 추적 데이터보다 더 가파릅니다. 측정이 생체적이고, 신체에서 정신 상태로 가는 단계가 하나의 해석이기 때문입니다.
 
-
 **강좌의 동시성을 모형화하라, 배열만이 아니라.** TRACE는 한 학기의 모든 강좌에 같은 위치 부여(positional encoding)를 주어, 강좌와 성적을 함께 예측하면 성적 예측 오차가 0.1339 MAE로 줄어듭니다 — 성적 전용 트랜스포머 대비 46.4% 감소 — 10년의 기관 데이터에서입니다([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
 **상호작용 데이터는 모델링의 문제이기 전에 표상의 문제입니다.** [[taufer-human-ai-interaction-haidl-2026|Taufer 등(2026)]]은 각 인간-AI 교환을 고립된 프롬프트가 아니라, 요청을 촉발한 계산, 요청, 응답, 사용자의 피드백, 그리고 뒤따른 실행을 함께 담는 하나의 구조화된 기록으로 다룹니다. 35명 규모 배포의 학생-과제 쌍 140건에서 상호작용 횟수만은 성공적으로 실행된 셀과 r = 0.12로 상관했으며, 같은 호출도 주변 상태에 따라 오류 복구, 다음 단계, 개념 확인, 또는 검증이 될 수 있었습니다. 접근 권한이 있던 37개 쌍은 상호작용을 전혀 만들지 않았으므로, 로그에서 AI 사용의 부재를 필요의 부재로 읽을 수는 없습니다.
-
 
 ## 학습 분석 주기
 
@@ -77,7 +77,6 @@ ai_assist:
 - **개입 유형은 서로 대체 가능하지 않습니다.** 39개 실험 및 준실험 연구에 대한 PRISMA 검토는 프롬프트가 [[self-regulated-learning|자기조절]] 및 지식 성과와, 단서가 주의 과정과, 넛지가 행동적 참여와 연결됨을 발견했습니다. 따라서 개입은 표적하는 성과에 맞게 선택해야 합니다([[rako-prompts-cues-nudges-systematic-review-2026|Rako, Šimić and Rienties, 2026]]).
 
 **무작위 격려 설계가 인과적 닻을 제공합니다.** ASSISTments에서의 무작위 격려 실험에서 [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales(2025)]]는 플랫폼에 처음 들어온 교사들이 과제를 만든 뒤 과제 보고서를 보도록 무작위로 촉구했습니다. 교사 330명의 분석 표본(통제 156, 격려 174, 부가가치 281)에서 첫 과제 보고서를 보는 것은 다음 과제 완료를 유의하게 높였습니다(Anderson-Rubin F = 4.092, p = 0.044) — 전체적으로 최소 2퍼센타일 포인트입니다. 학생 44명 미만 학급에서는 이득이 최소 24.5퍼센타일 포인트였고(AR F = 7.475, p = 0.007), 121,890개 과제 가운데 보고서가 조회된 것은 54.0%뿐이었으며 시작 및 부가가치 성과는 움직이지 않았습니다. 같은 플랫폼 데이터에는 이 분야 최대의 폐회로 평가 사례가 있습니다. [[johnson-student-ratings-automatically-generated-questions-2025|Johnson 등(2025)]]은 학생-질문 세션 5,214,211건을 분석하여, 싫어요(1,000건당 2.00)가 생성기 통제 특성과 함께 움직였고 학생 수준 분산이 문항 수준 분산을 지배했음을 보였습니다(BIC 101,572.9 대 123,342.0).
-
 
 학습 분석은 지식베이스에서 세 세대를 거쳐 진화했습니다. 서술적(무슨 일이 일어났나?), 예측적(무슨 일이 일어날까?), 처방적(우리가 무엇을 해야 하나?). AI는 처방적 층위, 즉 [[feedback|교수적 개입]]을 직접 촉발하는 분석을 가능하게 합니다. 핵심 전선은 **실행 가능성 격차**입니다. [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]]는 예측만으로는 의사결정 지원에 불충분하며, 반사실적 회피(counterfactual recourse)가 권고가 의미적으로 실현 가능하고 기계가 검증 가능할 때에만 운영상 의미 있게 된다고 보여 줍니다 — 단순히 모형 타당한 것이 아니라 시간, 예산, 불변성, 가용성에 의해 제약되고 SHACL 검증을 거친다는 것입니다. 이는 이 분야를 위험 점수 너머로, 기관이 실제로 집행할 수 있는 권고로 옮기며, [[human-in-the-loop-ai|인간 감독]]을 보존합니다.
 
@@ -108,7 +107,6 @@ ai_assist:
 - **LA 기반 교육 개입의 가능 요인(2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]]는 Delphi + AHP + SNAP으로 신뢰할 만한 LA 기반 교육 개입의 일곱 가지 가능 요인을 밝히고 우선순위를 매깁니다. [[governance|기관]] 전략적 방향, 교수법적 및 기타 [[research-methods-aied|연구]] 기반, 이용 가능한 자원, 교수법 지원, 윤리와 데이터 거버넌스, 이해관계자 참여, 품질 보증이 그것입니다. 기관 전략적 방향이 가장 높은 순위를(그리고 다른 요인에 대한 가장 큰 영향력을) 차지했고, 이용 가능한 자원이 두 번째였습니다. [[trust|신뢰성]](윤리 준수, 투명·편향 없는 알고리즘, 교수법적 타당성)은 LA 기반 개입이 의미 있기 위한 전제 조건으로 규정됩니다.
 - **LLM 상호작용 깊이는 과제 품질은 예측하지만 회상은 예측하지 않는다(2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]는 차례 수준 LLM 대화 계측(깊이/양/속도)을 [[learning-gains|학습 성과]]에 연결합니다. 설명 추구의 "깊이"는 독립적으로 채점된 과제 품질을 예측했으나(β = 6.27) 즉각 회상은 예측하지 않았습니다 — 정교화 주도 이해와 인출 주도 공고화 사이의 분리로, LA에서 [[llm]] 상호작용이 어떻게 측정되고 평가되는지에 시사하는 바가 있습니다.
 
-
 - **공유되는 상호작용 단위가 부재하다.** 33개 연구의 46개 분류 전반에 공유되는 메타 특성이 없어, 유사한 꼬리표가 다른 현상을 가리키므로, 이 검토는 *상호작용 에피소드*(목표 지향적이고 경계 지어진 교환)를 대화와 기술 습득의 상관을 측정하는 단위로 제안합니다([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 - **학습 분석을 위한 협력적 담화의 시뮬레이션.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]]는 미세 조정된 참가자 특정 LLM 에이전트를 사용해 협력적 문제 해결 대화를 재현하며, 인식론적 네트워크 분석(ENA 거리 0.17, 순열 p = 0.65)으로 검증했습니다. 이 접근은 학습 분석 연구자에게 새로운 인간 데이터를 수집하지 않고 상호작용 역학, 차례 교환, 주제적 부호 궤적을 연구할 수 있는 확장 가능한 방법을 제공합니다.
 - **개방적이고 재현 가능한 데이터, 그리고 추적 대비 준비된 분석.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]는 협력적 프로그래밍에서 상호작용과 참여 균형을 분석하기 위한 추적 대비 준비된 스키마를 갖춘 합성 [[benchmark]]를 공개합니다(N=540; 세션 360건; 에피소드 1,440건). 로그와 추적 데이터는 이 문헌에서 [[self-report-measures|자기보고]]의 자연스러운 균형추입니다. 같은 구성 개념이 종종 두 번 측정되는데, 한 번은 물어보고 한 번은 관찰하며, 둘이 항상 일치하지는 않습니다. 별도로, SHAP 분석을 갖춘 탐색적 ML 프레임워크는 대학생 사이에서 의도된 학문적 ChatGPT 사용과 가장 연관된 학습 관련 구성 개념을 밝히며 [[explainable-ai|해석 가능성]]을 우선했습니다([[determinants-chatgpt-use-higher-education-2026]]).
@@ -122,7 +120,6 @@ ai_assist:
 
 - **대시보드가 가시화하는 것이 교사가 행동하는 것을 결정한다.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]]는 27개의 실증 연구(2016–2025)를 검토하고 AI 지원 강사 의사결정의 사회기술적 분류를 여덟 가지 결정 유형에 걸쳐 구축했습니다. 교수, 교육과정, 평가, 피드백, 학습 환경, 정서, 행정, 윤리입니다. 학습 분석 대시보드가 가장 빈번히 보고된 시스템이었고, 부호화는 행동 텍스트와 로그 데이터가 정보를 줄 수 있는 교수, 피드백, 평가 결정에 지원이 집중되어 있음을 보여 주며, 정서, 윤리, 교육과정, 학습 환경 결정은 거의 지원되지 않았습니다. 저자들은 이것을 능력 한계가 아니라 주의 효과로 읽습니다. 시스템이 행동적 학생 데이터를 가시화하고 행동 가능하게 만들었기 때문에, 동기, [[metacognition]], 정서, 환경에 관한 우려가 데이터가 강사를 고려하도록 초대하는 것의 바깥에 놓였기 때문입니다.
 - **교사의 부담을 덜어 주는 분석이 학습자의 부담을 덜어 주는 분석은 아닙니다.** [[embodied-learning|구체화 학습]]에서의 AI 연구 23건을 검토한 결과, 40개의 역할 꼬리표 가운데 62.5%가 움직임, 궤적, 산출물을 평가하는 감지 역할이었습니다 — 그렇지 않으면 교사가 맡았을 일입니다 — 그리고 저자들은 교사 업무량의 감소를 학습자 부담의 감소로 읽어서는 안 된다고 경고합니다. 그 이유는 이런 부호화가 애초에 보여 줄 수 있는 것의 한계입니다. 시스템이 수행하는 기능을 기록하는 것은 학습자에게 미치는 효과에 관해 아무것도 말하지 않으므로, 역할 빈도로는 시스템이 인지를 덜어냈는지 깊게 했는지 판정할 수 없습니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
-
 
 과정 수준 계측은 서술적 층위의 한 단계 아래입니다. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]]은 [[open-source]] 파슨스 문제 플랫폼을 확장하여 모든 블록 배치, 제거, 제출을 시간순 추적으로 기록하고, 각 제출을 블록별 정답 채색과 시도 이력과 짝지으며, 선택적으로 추로를 반복되는 어려움 패턴에 꼬리표를 붙이는 [[llm]] 파이프라인에 통과시켜 교수자의 검토용으로 냅니다. 고학년 Java 소프트웨어 설계 강좌의 학생 68명과 입문 Python 강좌의 36명에 걸친 분석은 같은 세 가지 어려움을 표면화했습니다. 잘못된 예외 유형 선택, `return`을 `throw`로 대체, 잘못된 제어 흐름 배열. 이들은 정답도와 시도 수로는 드러낼 수 없는 것들로, 그것들은 배열이 옳았는지가 아니라 *과정이 어떠했는지*에 답하기 때문입니다. AI는 학생의 채점자가 아니라 [[teacher-role|교수자]]를 위한 해석자로 작동하며, 그 산출물은 성적이 아니라 학급의 어려움에 관한 검토 가능한 가설로 규정됩니다.
 
@@ -142,74 +139,3 @@ ai_assist:
 - **"행동 창이 없는 예측은 유용하다."** 진전 예측은 **해석 가능하고 행동 창과 짝지어질 때** 가장 쓸모 있습니다. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries, Koprinska (2025)]]는 모듈 수준의 결과를 예측하며, 이는 날것의 점수와 달리 조언자가 행동할 수 있는 형태입니다.
 
 의미 분석은 범주가 채점할 수 있을 만큼 엄밀하게 정의된 곳에서만 추론을 채점할 수 있습니다. 학생 90명이 참여한 5시간 AI 윤리 모듈에서, 인간 부호화자는 의미 단위 1,094개에 대해 Krippendorff α = 0.82에 도달했고, 인간 참여형 분류기는 17개 쟁점 및 해결 범주 전반에서 macro-F1 = 0.83 [0.78, 0.87]에 도달했으며 가장 작은 범주에서는 0.68로 떨어졌습니다([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang & Yi (2026)]]). 단일 집단 사전-사후 설계는 관찰된 향상을 모듈의 효과로 돌릴 수 없습니다.
-
-## 연결된 개념
-- [[automation-bias]] — 존재하는 플래그가 검토 없이 행동되는 이유
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 예측이 공급하는 지원 측면: 의뢰, 배분, 그리고 그것이 움직이거나 움직이지 않는 결과
-- [[sensor-and-gaze-analytics]]
-
-
-## 연결된 문서
-- [[factria-responsible-institutional-analytics-2026]] — 책임 있는 기관 분석: AI의 지원으로 편향 해석하기
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: 문헌이 정의한 학습 전략을 통해 클릭스트림 해석하기 (Radmehr et al. 2026)
-- [[taufer-human-ai-interaction-haidl-2026]] — 구조화된 기록으로서의 인간-AI 교환: 프롬프트 수는 진전에 관한 신호를 거의 담지 않습니다
-
-- [[ai-supported-lecturer-decision-making-2026]] — 고등교육에서 AI가 지원하는 강의자 의사결정
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 프라이버시를 보존하는 학업 위험 모형화를 위한 연합형 설명 가능 학습 분석 (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — 학생이 무엇을 묻는지가 중요함: LLM 상호작용 깊이, 과업의 질, 즉각적 회상 (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — 학습 분석에서 교육 개입으로: 신뢰할 수 있는 LA 기반 개입의 가능 조건 (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — 학생 위험 예측에서 SC2R로: 반사실적 구제 수단
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 맞춤형 학습 경로를 위한 베이지안 인지 진단
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위한 자기 설명 언어 모형 증류
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 협력적 문제 해결 대화를 재현하는 참여자별 미세 조정 LLM 에이전트 (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 다중 에이전트 튜터링과 참여 균형 협업을 위한 ASTRA 합성 벤치마크
-- [[determinants-chatgpt-use-higher-education-2026]] — 고등교육에서 미래 ChatGPT 사용의 기계학습/SHAP 결정 요인
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합 수업에서 교사가 이해할 수 있게 만든 기계학습 결과
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화도 매핑을 활용한 결과 기반 지식 추적
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — 554개 강좌의 계획된 활동 29,064건에 대한 마르코프 사슬과 패턴 채굴 — 습득이 이끌고 연습을 공고화하는 설계 문법 드러냄
-- [[pulla-parsons-problem-tool-2026]] — Pulla: 파슨스 문제에서의 과정 수준 행동 추적과 교수자용 난이도 분석 (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — 생성형 AI와 함께하는 중학생 쓰기를 지원하는 학습 분석 활용
-- [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 에듀테크에서의 교육, AI, 그리고 학생 프라이버시 연기의 문제
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 데이터에 관한 구조적 점검
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 학기 초 LMS 기록으로부터 AI 보조 부정행위 위험 예측 (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — 다중 양상 튜터링 전사를 활용한 학습 시스템 간 장벽 허물기 (Thomas et al. 2026)
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — AI 분석을 집단적 논증으로 알아차리고 조율하기(Lee, Park & Lee 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 완료율은 참여의 붕괴를 감출 수 있습니다
-- [[kim-ai-embodied-learning-review-2026]] — 구체화 학습에서의 AI는 대체로 관찰만 합니다: 부호화된 역할 꼬리표의 62.5%가 감지 역할이고, 학습자가 사용하는 동안 다중 양상 스트림을 융합한 시스템은 검토 대상에 없었습니다 (Kim & Han 2026)
-
-- [[liu-teaching-analytics-dashboard-2026]] — 설명 층위를 분리한 능동 통제 마이크로티칭 연구: 해석은 움직였고 실행은 움직이지 않았다(Liu 등 2026)
-- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — 도덕적 추론의 인간 참여형 의미 채점: 큰 범주에는 강하고 작은 범주에는 약함
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 토론 게시판에 대한 학생 인식: AI 기반 학습 분석 설계를 위한 기술 수용 모형 연구
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — 공학 정역학 강좌에서 사용자 입력 데이터로 살펴본 학생의 생성형 AI 사용
-- [[konca-digital-traces-critical-online-reasoning-2026]] — 통합된 추적 상관은 학생 차이가 아니라 과제 차이를 반영함 (Konca & Mehler, 2026)
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -60,7 +62,6 @@ Eğitimde YZ yönetişimi, [[generative-ai|generative AI]] yeni epistemik, etik 
 - **Bir yönetişim kapasitesi olarak YZ okuryazarlığı (“18. SDG”):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed ve Islam (2026)]], YZ okuryazarlığını bir sınıf becerisi değil sistemik bir yönetişim mekanizması olarak yeniden kavramsallaştırır; Bloom hiyerarşisini etik sentez ve stratejik öngörüyle genişleyen altı düzeyeli bir AIRE Taksonomisi (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) ve okuryazarlık yetkinliklerini on yedi [[sustainability|Sustainable Development Goals]] hepsine eşleyen bir YZ–SDG Bağlantısı önerir. YZ okuryazarlığını, öğrenmeyi yönetişime ve sürdürülebilir kalkınmaya kanalize eden kesişen bir kapasite olarak “18. SDG” sezgiseli olarak çerçeveleyen çalışma, 300 profesyonel üzerinde yürüttüğü anket çalışmasında yönetişim okuryazarlığının YZ–SDG bağlantısı farkındalığının en güçlü yordayıcısı olduğunu (β = 0.64, bağlantı farkındalığıyla r = 0.67) ve etik muhakeme ile yansıtıcı düşünmeyi güvenilir YZ kullanımının en güçlü yordayıcıları olarak belirlemiştir. Bu durum, kurumsal yönetişimi kamusal [[ai-literacy]] okuryazarlığının geliştirilmesine bağlar ve sorumlu YZ uyumlanmasının [[stakeholders|policymakers]] ve algoritmik sistemleri eleştirel biçimde yorumlayabilen vatandaşları — yalnızca uyum odaklı teknik kontrolü değil — gerektirdiğine ilişkin bilgi tabanının bulgusunu yankılar.
 - **Akademik dürüstlük ve değerlendirme:** Yönetişim, kurumların YZ ilişkili [[academic-integrity]] kaygılarıyla [[assessment]] değerlendirmeyi nasıl yeniden tasarladığında merkezi bir rol oynar — yasak/denetimden kılavuzluğa, YZ okuryazarlığına ve süreç odaklı tasarımlara doğru bir kayış, [[student-rationalization-ai-writing|student rationalization]] ve [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]] üzerine yapılan araştırmalarda görüldüğü gibi.
 - **Yeniden tasarım aynı anda üç boyutta yürür.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]], YZ çağı değerlendirme yeniden tasarımını kültürel-söylemsel (dil ve varsayımlar), maddi-ekonomik (kaynaklar) ve sosyal-politik (yönetişim ve güç) boyutlarından çerçeveler ve kaynak-güç kesişimini hem en büyük kaldıraç noktası hem en büyük risk olarak adlandırır: mevcut güç yapılarından akan kaynaklar eşitsizlikleri büyütür.
-
 
 Ajan YZ, yönetme sorusunu yeniden kaydırır: [[wong-sun-agentic-ai-assessment-governance-2026|Wong ve Sun (2026)]], 12 üniversitenin kılavuzluğunu karşılaştırır ve yeni işi, bir öğrencinin hangi sorumlulukları devredebileceği ve bir ajanın onun kimlik bilgileri altında eyleyip eyleyemeyeceği noktasında konumlandırır; bu, kullanım-kullanmama kuralının ifade edemeyeceği bir erişim sorusudur.
 
@@ -119,71 +120,3 @@ Yönetişim, [[educational-policy-ai|educational AI policy]] politikasından ayr
 - **“Üniversiteler bağlayıcı YZ politikası benimsemiştir.”** **48 kurumdan** **40'ı (%83)** en az bir kamuya açık belgeye sahipti ve bu 40 kurum boyunca **yönetişim çoğunlukla bağlayıcı kuraldan ziyade kılavuzluk olarak gerçekleşti**. Yayımlanmış kılavuzluk, uygulanabilir politika değildir.
 - **“Politika, risk öğrenciler olduğu için öğrenci öncelikli yazılır.”** Belgelerin çoğu **fakülte ve öğrencilere birlikte (20, %51) hitap ediyordu, yalnızca öğrencilere (6, %15) değil** ve ne politika türü ne de hedef kitle sunum biçimine göre değişiyordu. Çerçeveleme ortaktır, bu da yükümlülüklerin paylaşıldığı anlamına gelir.
 - **“Belirsiz politika öğrenci deneyimini etkilemeden kalır.”** Politika belirsizliği doğrudan **öğrenci deneyiminde** görünür: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|öğrencilerin GenAI ile etkileşimi]] bu belirsizlik tarafından şekillendirilir, dolayısıyla belirsizlik nötr bir boşluk değil etkin bir durumdur.
-
-## Bağlı kavramlar
-
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[ai-use-disclosure]] — AI use and disclosure statements
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[student-support-and-success]] — oversight for institutional AI support systems
-
-## Bağlı makaleler
-
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Kurumsal YZ yönetişimi için bakım etiği, beş bileşen ve bunların dönüştüğü kurumsal sorular
-
-- [[kaze-ai-management-higher-ed-2026]] — Yükseköğretimde YZ benimsenmesi: atanmış YZ yönetimi lehine argüman (Kaže ve ark. 2026)
-
-- [[generative-ai-governance-education-scoping-review-2026]] — Eğitimde üretken YZ yönetişimi: ilkeler, mekanizmalar ve riskler üzerine kapsam taraması (Elmahjub ve ark. 2026)
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Devir, kanıt ve erişim: ajan YZ'nin üniversite değerlendirme yönetişiminde değiştirdikleri (Wong ve Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Seçilmiş bir geleceği önceden kuran yönetişim makinesi olarak YZ prototipleri ve okul pilotları (Williamson ve ark.)
-
-- [[li-su-teacher-genai-decision-making-2026]] — Yönetişim açıklığından öğretmen karar episodlarına önerilen bir yol
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Yönetsel YZ bir hizmet operasyonları sorusu olarak
-- [[chan-ai-policy-gap-2026]] — Yönetişim dili genel politikalarda durur, başvuru sahiplerini bağlayan fonlama kurallarında hiç yer almaz (Chan 2026)
-
-- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
-- [[institutional-ai-policy-health-informatics-2026]] — AI policy and guidance documents across 48 CAHIIM-accredited health informatics programs: governance as non-binding, integrity-centric guidance (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governance by guidance: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Faculty governance, instructor discretion and periodic review in law school GenAI policy (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive "AI" prohibitions, format conversion and the reasonable-adjustment problem (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as evidence: uneven governance, the duty to understand and the diagnostic value of non-use (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education

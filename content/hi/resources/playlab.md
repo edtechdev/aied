@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -40,8 +41,3 @@ ai_assist:
 
 ## टिप्पणियाँ
 बिल्डर तक पहुँच सीमित है: get-started पेज एक ईमेल पता और एक onboarding कार्यशाला में स्थान, या एक invite code माँगता है। इसके अनुपालन दावे (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), यह वादा कि आपका कार्य बाहरी मॉडलों को कभी प्रशिक्षित नहीं करता, तथा आउटपुट अधिकारों का निर्माता को सौंपना — ये सब डेटा प्रोसेसिंग समझौते में होना चाहिए, केवल मार्केटिंग पेज पर नहीं; MagicSchool और प्रमुख चैटबॉट्स के साथ इसकी क्षमता तुलना प्लेलैब की अपनी है, जिसकी तिथि 2026 के मध्य है। यह Scratch और MIT Media Lab से जुड़े end-user प्रोग्रामिंग कार्य से निकली है।
-
-## जुड़ी अवधारणाएँ
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

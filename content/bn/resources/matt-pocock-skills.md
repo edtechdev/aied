@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -42,6 +43,3 @@ ai_assist:
 ## গ্রহণের আগে যা জানা দরকার
 
 সবকিছু MIT-এর অধীনে [[open-source|ওপেন সোর্স]] এবং স্থানীয় [[ai-literacy|এআই সাক্ষরতা]] বা [[self-directed-learning|স্ব-পরিচালিত পড়াশোনার]] সূচনাবিন্দু হিসেবে নিতে বিনামূল্যে। গ্রহণযোগ্যতা বড় ও দ্রুতগামী: সেপ্টেম্বর 2026-এ যাচাইয়ের সময় প্রায় 270,000 স্টার ও 23,000 ফর্ক, সর্বশেষ কমিট 2026 সালের 18 সেপ্টেম্বর। সতর্কতাটি পরিধি নিয়ে। স্কিলগুলো একজন [[human-ai-collaboration|ইঞ্জিনিয়ারের]] কাজের প্রেক্ষাপট ধরে নেয়, সেগুলো ইঞ্জিনিয়ারিং, উৎপাদনশীলতা, বাতিল ও চলমান — এই বাকেটে সাজানো, তাই কিছু এন্ট্রি স্পষ্টতই অসম্পূর্ণ বা অবসরপ্রাপ্ত, আর README একইসঙ্গে একটি নিউজলেটার সাইন-আপ। শিক্ষাদান ও প্রশ্ন করার স্কিলগুলোকে হস্তান্তরযোগ্য অংশ হিসেবে ধরুন, এবং শিক্ষার্থীদের সামনে একটি রাখার আগে যে-কোনোটিই পুনর্লিখনের প্রত্যাশা রাখুন।
-
-## সংযুক্ত ধারণা
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

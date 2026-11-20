@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -43,7 +44,3 @@ To je izrađivač opće namjene, a ne obrazovni proizvod: koristan je nastavniku
 ## Napomene i upozorenja
 
 Platforma ima besplatni paket, ali on se temelji na kreditima: računi dobivaju 1.000 AI kredita mjesečno, a izrada, uređivanje, generiranje slika i AI značajke u aplikaciji troše ih. Pretplata dodaje mogućnost kupnje dodatnih kredita koji ne istječu. Svaki kolegij koji se namjerava osloniti na platformu trebao bi provjeriti trenutačne uvjete, jer je besplatna upotreba mjerena, a ne neograničena, i trebao bi aplikacije koje izrađuju studenti tretirati kao sadržaj sa svojim pitanjima o obradi podataka.
-
-## Povezani pojmovi
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

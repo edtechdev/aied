@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,47 +88,3 @@ Kata itu sendiri diperdebatkan di hulu. [[deimann-rethinking-openness-ai-2026|De
 **"Model frontier tertutup memang lebih baik, jadi alternatif terbuka hanyalah cadangan."** Kesenjangannya lebih sempit daripada yang disiratkan asumsi itu. Dalam [[cdpk-pedagogy-benchmark-llms|the Pedagogy Benchmark]] (CDPK + SEND, dibangun dari butir ujian guru Chile yang asli) yang mencakup 97 model, **DeepSeek R1 berbobot terbuka mencapai 86.65%**, melawan 10 teratas yang sebagian besar terdiri dari model penalaran tertutup — dan perbandingan biaya–akurasi bergerak lebih jauh ke arah terbuka. Argumen yang tersisa bagi keterbukaan karena itu menyangkut kendali dan keterauditan, bukan pengorbanan kemampuan.
 
 **"Merilis bobot berarti merilis pekerjaannya."** Kontribusi terbuka yang lebih kuat merilis pipeline. OmniEdu menerbitkan supervisi seimbang kemampuan atas campuran 69,999 contoh alih-alih hanya bobot akhir, menaikkan setiap skala keluarga K–12 terbuka 4B/9B/27B, dengan model 4B yang disetel memperoleh **55 poin** performa [[scaffolding|perancah]] MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] juga mendokumentasikan prosedur RL dan penyetelan halusnya, termasuk 440 negatif sulit yang ditambang dan 40,000 respons yang dihasilkan. Bobot tanpa resep mereproduksi hasil tanpa mereproduksi metodenya.
-
-## Konsep terkait
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Artikel terkait
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asisten basis pengetahuan AI OER on-premise pada perangkat keras konsumen (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — Tutor adaptif berlisensi MIT dengan pustaka konten CC BY OpenStax (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Model pedagogis terbuka 32B yang mengungguli sistem proprietary jauh lebih besar (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Pengoreksi otomatis LLM lokal patuh FERPA yang dapat langsung dipakai
-- [[programming-its]] — LLM berbobot terbuka yang dihosting sendiri untuk kepatuhan GDPR/EU AI Act dalam ITS Python
-- [[aiawe-automated-writing-evaluation]] — Model berbobot terbuka yang diadaptasi LoRA untuk evaluasi tulisan otomatis
-- [[stanbkt-bayesian-knowledge-tracing]] — Paket Python terbuka untuk knowledge tracing Bayesian penuh
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Kerangka tutoring agentic sepenuhnya sumber terbuka dengan memori siswa
-- [[vismatic-secure-sandbox-cs-education]] — Sandbox terkontainerisasi terbuka untuk penilaian berorientasi proses
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutor matematika afektif dengan basis kode terbuka
-- [[cdpk-pedagogy-benchmark-llms]] — Tolok ukur pedagogi terbuka lintas 97 model dan batas biaya–akurasi
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Kumpulan data dan prototipe terbuka untuk evaluasi tutoring multi-agen berbasis jejak
-- [[mllm-scientific-visualization-literacy]] — Model terbuka di bawah baseline manusia pada literasi visualisasi
-- [[iks-instruct-dataset-indian-knowledge]] — Kumpulan data multibahasa terbuka untuk instruksi berlandaskan budaya
-- [[aied-carbon-footprint-reporting]] — Metode sumber terbuka untuk melaporkan biaya lingkungan LLM
-- [[egai-power-systems-education]] — Pustaka modul eksekutabel terbuka untuk AI teknik
-- [[mooc-to-maic]] — Pembangkitan kursus yang digerakkan LLM dan ekonomi produksi kursus yang berubah
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Model Fondasi Terbuka untuk Pembelajaran dan Pengajaran

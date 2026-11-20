@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -102,33 +104,3 @@ ai_assist:
 - **“AI 生成的文本更容易，因为它是按水平生成的。”** 对模型输出来说，证据指向相反方向：前沿模型过度使用与理解成本相关的构式。
 - **“借助 AI 阅读是一种行为。”** AIR 量表发现四种不同动机，而它们预测不同种类的使用。
 - **“如果 AI 能改写文本，阅读水平就不再重要。”** 差异化更多改变的是段落周围的支持，而不是段落的结构复杂度，这与降低其水平是两种不同的干预。
-
-## 关联概念
-
-- [[ai-education]] — 这一领域所属的总括
-- [[language-learning]] — 二语阅读有重叠，但那里的对象是习得
-- [[writing-education]] — 读写能力的撰写一侧
-- [[english-education]] — EAP/EFL/ESL 的阅读与可读性
-- [[educational-nlp]] — 可读性所依赖的文本测量层
-- [[assessment]] — 阅读评估与分数效度
-- [[motivation]] — 读者为何使用 AI，以及这对加工意味着什么
-- [[scaffolding]] — 差异化阅读材料中的支持层
-- [[neurodiversity]] — 阅读障碍与阅读困难
-- [[accessibility]] — 人类可读与机器可读的文本
-- [[generative-ai]] — 生成与改编文本背后的技术
-
-## 关联文章
-
-- [[air-scale-motivations-ai-reading-2026]] — 一份经验证的、借助生成式 AI 阅读的动机量表
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL 课堂中的 AI 中介阅读评估
-- [[genai-differentiated-eap-reading-materials-2026]] — 差异化的 EAP 阅读材料
-- [[llm-children-reading-story-generation]] — 水平受控的儿童阅读故事
-- [[text-simplification-its]] — 为辅导评估文本简化
-- [[clara-developmental-appropriateness-children-stories-2026]] — 超越可读性公式的发展性难度
-- [[bird-multimodal-educational-literature-2026]] — 按 Key Stage 对文学分类
-- [[clark-ai-generated-language-readability-2026]] — 为什么 AI 生成的语言更难读
-- [[sidorkin-ai-generated-course-readings-2026]] — 定制的 AI 生成课程读物
-- [[airri-machine-resistant-reading-interface-2026]] — 抗机器的阅读界面及其可读性代价
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — 中学阅读中的 ChatGPT 反馈
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 面向阅读障碍学习者的 AI
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 中学中的 LLM 使用、记笔记与阅读理解：这项随机比较

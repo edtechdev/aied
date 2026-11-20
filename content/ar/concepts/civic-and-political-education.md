@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -87,28 +89,3 @@ ai_assist:
 **«مطالبات أفضل ستُنتج دروسًا مدنية أفضل.»** أحدث النسخة التفاعلية فرقًا ضئيلًا، وأنتجت الروبوتات المحاورة الثلاثة البنية نفسها عبر 53 معيارًا. فجودة المطالبة لم تُعِد النسيج التخصصي.
 
 **«هناك أدلة كافية لتوجيه الممارسة.»** هناك ما يكفي لتبرير الحذر. فتحليل محتوى واحد وتركيب وثائقي واحد و[[mixed-methods-research|دراسة مختلطة الطرائق]] صغيرة وعدّة أعمال مفاهيمية أو سياساتية لا تُثبت ما ينجح.
-
-## المفاهيم المتصلة
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — المظلّة: ما يحتاج المتعلّمون معرفته عن أنظمة الذكاء الاصطناعي
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — التضليل المولَّد والإقناع كضرر مجتمعي
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## المقالات المتصلة
-
-- [[civic-education-ai-lesson-plans]] — 310 خطط درس مولَّدة بالذكاء الاصطناعي لـ53 معيارًا مدنيًا: 90% أدنى رتبة، و94% بلا محتوى متعدّد الثقافات (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — حكامة الحدود الخوارزمية وخمسة مطالب لمحو أمية رقمي مدني في جنوب أفريقيا (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — مقابلات خبراء ومسح طلابي عن محو أمية الإعلام النقدي والمواطنة التشاركية (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — أغراض المدرّسين الفنلنديين لتعليم الذكاء الاصطناعي مقروءة عبر التأهيل والتنشئة الاجتماعية والتشكيل الذاتي
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — رؤى محو أمية العلم، ومنها الحياة المدنية والانخراط الديمقراطي (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — افتتاحية تسمّي التزييف العميق والتضليل الآلي تهديدات ديمقراطية (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — سياسة تعليم الكبار والغاية المدنية للتعلّم مدى الحياة (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 وثيقة حكامة؛ الديمقراطية وسيادة القانون مذكورتان في 92، والقوة القانونية في أربع (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — الحجة الديمقراطية بمصطلحات النظرية السياسية: تآكل الممارسة والآليات ورهانات الاستبداد

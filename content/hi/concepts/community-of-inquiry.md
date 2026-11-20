@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -81,28 +83,3 @@ GenAI उस धारणा को अस्थिर करता है क�
 **"उपस्थिति समूह में समान रूप से वितरित होती है।"** यह शर्तों के बीच नहीं, शर्त के *भीतर* अंतर करती है। **63 चीनी स्नातकों (33 के पास GPT-4o mini चैटबॉट, 30 बिना)** वाले एक अर्ध-प्रयोग में, जिन्होंने पाँच साप्ताहिक कार्यों में साझा पाठ्यसामग्री पर टिप्पणी की, उपस्थितियाँ समूह उपलब्धि के अनुसार विभाजित हुईं: उच्च-उपलब्धि समूहों ने **2319 टिप्पणियों में 1407 प्रतिपुष्टि अनुरोध (60.7%)** आरंभ किए, जबकि निम्न-उपलब्धि समूहों ने **2167 में 737 (34.0%)**। एक ही उपकरण तक पहुँच ने ढाँचे द्वारा मापे जाने वाले सामाजिक व्यवहार में पहले से मौजूद अंतराल को दोहरा दिया।
 
 **"ऑनलाइन पाठ्यक्रम में चैटबॉट जोड़ना एक उपस्थिति जोड़ता है।"** यह मिश्रण बदलता है। GenAI के अंतर्गत ढाँचे का मूल्य यह है कि वह प्रतिस्थापन को दृश्यमान बनाता है: किसी मॉडल द्वारा संतुष्ट उपस्थिति उसी निर्माण का एक भिन्न विन्यास है, और समूह डेटा दिखाते हैं कि यह प्रतिस्थापन असमान रूप से लाभ देता है।
-
-## संबंधित अवधारणाएँ
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## संबंधित लेख
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21-अध्ययनों की स्कोपिंग समीक्षा: उपस्थिति का साक्ष्य असमान है, शिक्षण उपस्थिति सबसे कम अध्ययनित है, और डिज़ाइन-विन्यास परिणामों को छाँटता है (Doo और Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — GenAI-सहायित सामाजिक टिप्पणी में छात्र अंतर्क्रियाओं की जाँच: संज्ञानात्मक और सामाजिक उपस्थिति का एक epistemic network analysis
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — जनरेटिव AI के युग में CoI का पुनर्कल्पना
-- [[ai-communities-of-inquiry-2026]] — जाँच-जिज्ञासा के समुदायों में AI
-- [[ai-online-education-engagement-satisfaction-2026]] — AI और ऑनलाइन शिक्षा सहभागिता
-- [[llm-facilitation-timing-online-discussions]] — मानव बनाम LLM सुविधाकर्ता: मॉडल विशेषज्ञ मानवों से अधिक उत्सुकता से हस्तक्षेप करते हैं (Tsirmpas एवं सहलेखक 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

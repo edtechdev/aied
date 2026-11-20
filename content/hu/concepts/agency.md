@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -129,67 +131,3 @@ Egy szorosan rokon keretezés a **relációs episztemikai önállóság** ([[du-
 - **„A diákok akkor gyakorolnak önállóságot, amikor szabadon használják az MI-t.”** Egy **14 kategóriás séma, amely 6 788 ChatGPT-vel támogatott fordulót kódolt**, a **hetedikesek fordulóinak 59%-át** olyan kategóriákba sorolta, amelyek nem ágens használatot jelentenek. A használati mennyiség és az önállóság különböző mértékek.
 - **„A jelenlegi modellek jól támogatják a tanulói önállóságot.”** **Tíz modellen benchmarkolva az önállóság támogatása az, amiben a tanulás után a legrosszabbul teljesítenek**: az ImpactBench az **Agency and Purpose mutatót 56,0%-ra** mérte a pozitív kritériumokon. Az önállóság az a dimenzió, amelyet az MI-rendszerek a legkevésbé jól kezelnek, nem a képesség mellékterméke.
 - **„A tanári közvetítés az önállóság korlátja.”** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] **tíz középiskolai matematikatanárt követett egy nyolchetes ChatGPT-4** beavatkozás során, és a közvetítés a mechanizmus, nem az akadály.
-
-## Kapcsolódó fogalmak
-- [[learners]] — Tanulók: a tanuló-oldali fogalmak ernyője
-- [[pedagogical-partnerships]] — Pedagógiai partnerségek
-- [[learner-identity]] — fejlődő tantárgyi, szakmai, kreatív és akadémiai tanulói identitások
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — az MI-közvetített interakció közös irányítása
-- [[agentic-ai]] — autonóm MI, amely újraoszthatja az önállóságot a csoportokban
-- [[chemistry-education]] — Kémiaoktatás és MI: laborok, formáló értékelés, LLM-korlátok, a kísérletezés filozófiája
-- [[social-emotional-learning]] — Társas-érzelmi tanulás
-- [[cognitive-surrender]]
-
-## Kapcsolódó cikkek
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Országosan reprezentatív felmérés amerikai tanárok és igazgatók körében az MI-szabályzat lefedettségéről, az önállóságról és öt osztálytermi forgatókönyvről (Tench, Weinstein és James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Segítő kéz vagy domináns partner? A GenAI-támaszkodás és az emberi önállóság egyéni észlelése a kollaboratív tanulásban
-- [[yan-agentivism-learning-theory-ai-2026]] — Közép szintű tanuláselmélet az ember–MI interakcióhoz, négy mechanizmussal és hat tesztelhető állítással (Yan és Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — A tanulói önállóság mint a tartományi, MI- és metakognitív kompetenciák összehangolásának emergens minősége, nem önálló csomópont (Dang és mtsai. 2026)
-- [[learner-agency-ai-simulation-2026]] — A választáshoz való hozzáférés kontra megvalósult önállóság: csúszkák, egy opcionális MI-ágens és tanulás egy rajzó szimulációban
-- [[guarded-adoption-genai-higher-education-2026]] — A generatív MI óvott befogadása a felsőoktatásban
-- [[ai-agents-joyful-assessment-third-space-2026]] — MI-ágensek, örömteli értékelés és harmadik tér
-- [[ai-mediated-research-agency-formation-2026]] — MI-közvetített kutatási önállóság formálódása a pályakezdő tudományos képzésben
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Rétegérzékeny kognitív tehermentesítés GenAI-támogatott írásban (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Az iskolai MI-oktatás szűkíti a pszichológiai, de nem a kognitív felkészültségi szakadékokat
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relációs episztemikai önállóság és hat kritérium, amely elválasztja a produktív támaszkodást a káros függőségtől (Du és Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — MI-támogatott pedagógiai kísérés, amely a STEM-identitást támogatja
-- [[t2i-competence-paradox-2026]] — A kompetenciaparadoxon: kreatív identitás a szöveg–kép GenAI használatában
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergens tanulói önállóság implicit ember–MI együttműködésben: támogató és szembemenő személyiségek
-- [[de-barba-srl-genai-2026]] — Tanulói önállóság skálákon át: szabályozás, integráció, pozicionálás
-- [[mishra-control-vs-agency-history-2025]] — Irányítás kontra önállóság mint az AIED-történet lényegi feszültsége
-- [[daoism-ai-education-philosophy-2026]] — Alternatív MI-filozófia: a taoizmus mint módszer az oktatásban használt MI-hez
-- [[human-autonomy-agency-hri-review-2025]] — Emberi autonómia és önállóság az ember–robot interakcióban
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Tudásalapú tervezés generatív társas robotokhoz
-- [[young-people-learning-generative-ai-rapid-review-2026]] — A tanulói önállóság ápolása a tanuláshoz kapcsolódó munkában
-- [[shaw-nave-cognitive-surrender-2026]] — Háromrendszeres elmélet és kognitív megadás: hogyan formálja át az MI az emberi érvelést (Shaw és Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Tanárjelöltek önállósága a GenAI-interakciók során a tanulástervezésben (Krushinskaia, Elen és Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatórikus jövőkép: az önállóság mint zéróösszegű az eszköz önállóságával
-- [[chen-zou-genai-group-assessment-agency-2026]] — Az önállóság három mintázata GenAI-közvetített csoportos értékelésben: fokozott, visszafogott és nem megvalósult
-- [[ai-integrated-teaching-identity-tensions]] — Elvhű szelektivitás mint tanári önállóság az MI-integrált tanításban (Adiozaman és Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — A visszautasítás mint diagnosztikai bizonyíték: a nem használat mint helyhez kötött viszony és az MI elutasításának egyenetlen joga (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — az episztemikai tekintély megerősítése megszakításon, javításon és visszautasításon keresztül, nem maximális eszközhasználattal
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ki cselekszik, ki tud, ki válaszol? Korpuszalapú diskurzuselemzés az önállóságról, episztemikai felelősségről és elszámoltathatóságról a generatív MI felsőoktatási kutatásában
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Nyitott kérdések a készségfenntartó támaszkodás felé a reflektív MI-elköteleződésben
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetencia kontra önállóság mint az MI-oktatás céljai, és a tájékoztatott MI-önállóság heurisztika (Fagerlund és mtsai. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — A tanári közvetítés mint az a feltétel, amely a GenAI-t bírálatra szánt artefaktumként tartja meg, nem tekintélyként (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — A tanári önállóság mint tervezésen keresztül mozgósított erőforrás, ahol a felkészültséget artefaktumokból ítélik meg, nem a használatból (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — A tanári és tanulói önállóság egyensúlya a valós idejű dinamikus párosítás társhangoló eszközeiben (Yang és mtsai. 2026)
-- [[porath-interpretive-authority-2026]] — Értelmezési tekintély mátrix és ökológiai tekintélyintegrációs modell: a ki értelmez négy konfigurációja és az őket elmozdító ökológiai rétegek
-- [[gyekye-selves-apprenticeship-2026]] — Színes bőrű diákok tanulószerződéses programokban az MI-n keresztül szerzősködtek magukról visszautasítással, tárgyalással és elismeréssel („kulturális laposság”); intézményi MI-írástudás és elismerési sávszélesség
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Megosztott episztemikai önállóság 6 788 ChatGPT-vel támogatott fordulóban középiskolai természettudományos írásban (Chang és mtsai.
-- [[jelson-students-chatgpt-essay-writing-2026]] — Az észlelt tulajdonérzés csak ott csökkent, ahol a teljes esszét delegálták; a tervező és átnéző használók megegyeztek a nem használókkal (Jelson és mtsai. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Ki gondolkodik? Az emberi önállóság jellemzése elsőéves hallgatók MI-interakcióiban

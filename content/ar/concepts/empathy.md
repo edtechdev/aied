@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -93,34 +95,3 @@ ai_assist:
 - **«الابتسامة تعني الدفء.»** في لقاء سريري مؤلم، يقرأ الملاحظون الابتسام تنافرًا، ويقرؤه كاشف فعل الوجه تأثرًا إيجابيًا. والسياق هو المتغيّر الغائب.
 - **«مقاييس التقرير الذاتي تقيس التعاطف.»** إنها تقيس سمة أو مفهومًا ذاتيًا؛ ولا تقيس السلوك في لقاء.
 - **«الأكثر غمرًا أفضل دائمًا.»** تُظهر الطرائق الغامرة مكاسب أكبر، لكن بتكلفة ومدة أعلى عدة أضعاف، والمقارنات لا تسوّي التعرّض.
-
-## المفاهيم المتصلة
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## المقالات المتصلة
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — تمثيل الأدوار 13.2%، والواقع الافتراضي 11.6%، وحوار الذكاء الاصطناعي 8.8% على مؤشر IRI، مع خلط زمن التعرّض (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — كشف التلامس الجسدي اتفق مع الملاحظين؛ وكشف الابتسام جاء سالبًا (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — الكفاءة المقيَّمة ذاتيًا ارتفعت d = 0.58 بعد 13 تبادلًا، دون مجموعة ضبط (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 دراسة؛ مكاسب الثقة شائعة، وأدلة التعاطف محدودة (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA والصور التوليدية خطُّ استثارة، مع ادعاء التعاطف لا قياسه (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — الاعتقاد بقدرة الذكاء الاصطناعي التعاطفية تنبّأ باستعداد أقل لتقديم الدعم (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — مقياس سمة من 42 بندًا لم تطابق بنيته العاملية تصميمه (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — اللغة المتعاطفة رفعت الشعور بالفهم، وتنبّأت بالانخراط لا بتغيّر السلوك (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — الدور والحركات المحدَّدان في المطالبة أنتجا فرقًا كبيرًا في التعاطف المدرَك (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — طلاب التمريض وصفوا الذكاء الاصطناعي دعمًا عاطفيًا أثناء الضغط السريري (Akbaba et al., 2026)

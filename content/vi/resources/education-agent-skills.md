@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,7 +42,3 @@ Tuyên bố tạo nên khác biệt của dự án là nền tảng bằng chứ
 ## Ghi chú và lưu ý
 
 Các skill giáo dục, tài liệu và học liệu chương trình được cấp phép CC BY-SA 4.0, nên việc tái dùng và điều chỉnh là mở, nhưng bản phái sinh phải mang cùng giấy phép. Hai chi tiết vận hành quan trọng nếu bạn triển khai nó. Điểm cuối MCP được lưu trữ yêu cầu token chứ không mở cho bất kỳ ai, và vì máy chủ phục vụ một ảnh chụp đã commit thay vì các tệp SKILL.md, một skill bạn thêm mà không dựng lại và commit gói sẽ không xuất hiện trên máy chủ đang chạy, kể cả sau khi triển khai lại. Thư viện do Gareth Manning, một nhà giáo dục và nhà thiết kế chương trình, xây dựng, và các điều khoản giấy phép áp dụng cụ thể cho nội dung giáo dục.
-
-## Khái niệm liên quan
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

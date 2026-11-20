@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -47,9 +49,7 @@ ai_assist:
 
 **ইন্দ্রিয়গত প্রবেশ: অ-দৃশ্যমান ও স্পর্শনির্ভর আউটপুট।** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** দৃষ্টিপ্রতিবন্ধী শিশুদের জন্য কথ্য সংলাপকে প্রধান মাধ্যম করে তোলে, দৃশ্যের নির্ভরতা সরিয়ে দেয়। **[[tactile-statistical-graphs-accessibility|স্পর্শনির্ভর 3D-প্রিন্টেড গ্রাফ]]** দৃশ্যমান পরিসংখ্যানিক উপাত্তকে অন্ধ ও কম-দৃষ্টিসম্পন্ন শিক্ষার্থীদের জন্য স্পর্শযোগ্য আউটপুটে রূপ দেয়। **[[pepper-robot-sign-language-lis-2025|ইশারা-ভাষা রোবট]]** [[educational-robotics|শিক্ষামূলক রোবোটিক্সকে]] বধির শিক্ষার্থীদের জন্য যোগাযোগগত অভিগম্যতায় সম্প্রসারিত করে।
 
-
 **প্রত্যাখ্যান-প্রথম প্রবেশ: অনুমান না করে চিত্রটি আদায় করুন।** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau ও Heffernan (2025)]] দেখেন, যখন কোনো কাজের জন্য জরুরি চিত্র আটকে রাখা হয়, ছয়টি মাল্টিমোডাল মডেল অনুমান না করে প্রত্যাখ্যান করে 95.4%–98.9% চালানায় — এমন এক বিরত থাকা যা অভিগম্যতা-ব্যবস্থার উচিত অনুমানের বদলে চিত্রটি বা একটি কাঠামোবদ্ধ বর্ণনার অনুরোধ হিসেবে পড়া। প্রকাশিত গোল্ড (76 আইটেম) ও আল্ট্রা-গোল্ড (61 আইটেম) ঐক্যমত-উপসেট বর্ণনা-প্রতিস্থাপন পরীক্ষায় একটি পরীক্ষাক্ষেত্র দেয়, যেখানে চিত্র-নির্ভর গণিত আইটেমে মূল চিত্রের সঙ্গে যাচাইকৃত পাঠ্য-বর্ণনা তুলনা করা যায়।
-
 
 **চলচ্চিত্রের জন্য লেখা অডিও বর্ণনা লেকচার-রেকর্ডিংয়ে স্থানান্তরিত হয় না।** স্লাইড-ভিত্তিক লেকচারে চিত্র, সমীকরণ ও নির্দেশমূলক অঙ্গভঙ্গির উল্লেখ থাকে, এবং তাদের বিরতি মধ্যক মাত্র 0.5 সেকেন্ড, তাই [[ad4edu-lecture-audio-description-2026|Psychias ও Gao (2026)]] লেকচার-নির্দিষ্ট একটি বেঞ্চমার্ক ও নিয়ম-নির্ণেয় মেট্রিক তৈরি করেন; মেশিন-বিচারক-ক্রমকৃত জোড়ায় [[llm-training-and-fine-tuning|পোস্ট-প্রশিক্ষণ]] অনুপালনকে সমানভাবে উন্নত করেনি।
 
@@ -83,41 +83,3 @@ ai_assist:
 - **"অভিগম্যতা মানে সুবিধা।"** নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির **40টি গবেষণার** স্কোপিং পর্যালোচনা দেখে **28টিতে আনুষ্ঠানিক নির্ণয়কে অংশগ্রহণের শর্ত** করা হয়েছে। এটি একটি নির্ণয়-দ্বাররক্ষিত মডেল, যা প্রতিটি এমন শিক্ষার্থীকে বাদ দেয় যার প্রয়োজন আছে কিন্তু লেবেল নেই — সার্বজনীন নকশার বিপরীত।
 - **"মধ্যক প্রভাব প্রশ্নটির মীমাংসা করে।"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang প্রমুখ]] **29টি গবেষণার** মেটা-বিশ্লেষণে মধ্যক ইতিবাচক প্রভাব পান, যা সত্য এবং একইসঙ্গে কোন প্রয়োজনে কোন সরঞ্জাম তা নিয়ে কিছু বলে না। ভিন্ন ভিন্ন হস্তক্ষেপের গড় কোনো সুপারিশ নয়।
 - **"গতি ও তাৎক্ষণিকতা সুবিধা।"** তিনটি ফিলিস্তিনি বিশ্ববিদ্যালয়ের **21 জন দৃষ্টিপ্রতিবন্ধী স্নাতক** শিক্ষার্থীর গুণগত কেস স্টাডিতে শিক্ষার্থীরা তাৎক্ষণিকতাকে **সুবিধা নয়, মৌলিক অভিগম্যতা-প্রয়োজন** হিসেবে চিহ্নিত করেন। বাইরে থেকে যা বিলাসিতা মনে হয়, ভেতরে তা অংশগ্রহণের পূর্বশর্ত।
-
-## সংযুক্ত ধারণা
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — শিক্ষার্থী-বৈচিত্র্য জুড়ে শিক্ষা নকশার বিস্তৃত ছাতা
-- [[special-education]] — নির্ণীত প্রতিবন্ধকতাযুক্ত শিক্ষার্থীদের জন্য শিক্ষাদান-ক্ষেত্র
-- [[universal-design-for-learning]] — সক্রিয় নকশা-কাঠামো
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — হেডসেট, মোশন সিকনেস ও ডিভাইস-প্রবেশই ঠিক করে কে এটি ব্যবহার করতে পারবে
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — অতিরিক্ত-ব্যাপক নিয়ম, ত্রুটিপূর্ণ প্রমাণ ও যুক্তিসঙ্গত সমন্বয়ের ছাতা-পাতা
-- [[arts-and-media-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100টি অভিজাত বিশ্ববিদ্যালয়ের 0% এআই অভিগম্যতা-নীতি প্রকাশ করে, অথচ 93% এআই ক্যাম্পাস-সেবা মোতায়েন করে
-- [[shin-ai-policies-sld-2026]] — নির্দিষ্ট শিখন-প্রতিবন্ধকতাযুক্ত শিক্ষার্থীদের জন্য এআই নীতি ও সুবিধা
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — প্রতিবন্ধকতাযুক্ত শিক্ষার্থীদের জন্য এআই হস্তক্ষেপের মেটা-বিশ্লেষণ
-- [[adhd-video-segmentation-computing-education]] — নির্দিষ্ট বিরতিসহ এআই-বিভাজিত ভিডিও
-- [[text-simplification-its]] — বুদ্ধিদীপ্ত টিউটরিংয়ের জন্য এলএলএম-ভিত্তিক পাঠ্য সরলীকরণ
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির/কম-শ্রবণশক্তিসম্পন্ন শিক্ষার্থীদের জন্য এলএলএম প্রশ্ন উৎপাদন
-- [[kutti-ai-voice-first-learning-companion]] — দৃষ্টিপ্রতিবন্ধী শিশুদের জন্য কণ্ঠপ্রধান সঙ্গী
-- [[tactile-statistical-graphs-accessibility]] — স্পর্শনির্ভর 3D-প্রিন্টেড পরিসংখ্যানিক গ্রাফ
-- [[pepper-robot-sign-language-lis-2025]] — ইশারা-ভাষা সহায়ক Pepper রোবট
-- [[genai-minoritized-knowledges-disability]] — এআই ও প্রতিবন্ধকতা-কেন্দ্রিক জ্ঞান নিয়ে সমালোচনামূলক দৃষ্টিভঙ্গি
-- [[gemini-lualatex-physics-video-transcription-2026]] — জেমিনি+LuaLaTeX গণিত-অভিগম্য পদার্থবিজ্ঞান ভিডিও ট্রান্সক্রিপশন
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — জেনারেটিভ এআই, ভার্চুয়াল রিয়েলিটি ও তার পরেও: উচ্চশিক্ষায় নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির স্কোপিং পর্যালোচনা
-- [[wright-transcription-not-generation-2026]] — ট্রান্সক্রিপশন উৎপাদন নয়: অতিরিক্ত-ব্যাপক এআই নিষেধাজ্ঞা ও তারা যে সহায়ক সরঞ্জামগুলো ধরে ফেলে
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: অভিগম্যতা মান, মেট্রিক ও শিক্ষার্থী-পছন্দ জুড়ে বিশ্ববিদ্যালয় লেকচার অডিও বর্ণনার বেঞ্চমার্কিং
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: মানব-পাঠযোগ্য, মেশিন-প্রতিরোধী পাঠ-ইন্টারফেসের দিকে

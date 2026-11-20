@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -43,7 +44,3 @@ Instructori și echipe de cursuri care vor materiale generate pe care să le poa
 ## Note
 
 Licențiat MIT, cu un ghid de utilizare în engleză și chineză și o comunitate activă pe Discord și Feishu. Este neutru față de model: tu furnizezi cel puțin o cheie de furnizor LLM, iar componentele locale opționale (Lemonade pentru modele locale, FunASR pentru recunoașterea vocală) îți permit să rulezi mai mult din stivă offline — așa că „gratuit” descrie software-ul, nu factura de inferență. Lucrarea din spatele lui a apărut în *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), iar depozitul avea peste 38.000 de stele în septembrie 2026.
-
-## Concepte conexe
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

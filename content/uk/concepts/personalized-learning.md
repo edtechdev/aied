@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -153,43 +155,3 @@ Bernstein and Sibia (2026) загострюють відмінність між 
 
 - Перестаньте ототожнювати персоналізацію з адаптацією в конструктах, які вимірюєте, і прямо вказуйте, який механізм спричинив ефект.
 - Повідомляйте нормований приріст навчання як основний результат; його рідкість у літературі — прогалина, яку треба закрити, а не конвенція, яку слід успадкувати.
-
-## Пов’язані поняття
-
-- [[adaptive-learning]] — Adaptive systems that tailor content, pacing, and difficulty to the learner in real time
-- [[intelligent-tutoring]] — Tutoring systems that model the learner and deliver individualized instruction
-- [[student-modeling]] — Representing learner knowledge, skills, and states that drive adaptation
-- [[knowledge-tracing]] — Inferring mastery of knowledge components from performance over time
-- [[cognitive-diagnosis]] — Diagnosing latent learner knowledge and attributes from responses
-- [[scaffolding]] — Support and fading calibrated to individual learner needs
-- [[student-experience]] — The learner's lived experience of personalization
-- [[learning-analytics]] — Data-driven measurement of learning that informs adaptation
-- [[formative-assessment]] — Ongoing assessment that signals what to adapt next
-- [[summative-assessment]] — Endpoint assessment whose comparability personalization complicates
-- [[generative-ai]] — LLM-based conversational personalization
-- [[edtech-platform]] — Platforms that deliver personalized learning at scale
-- [[higher-ed]] — Higher-education context for personalization
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[recommender-systems-and-learning-paths]]
-
-## Пов’язані статті
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Агентно-нативний субстрат персоналізації для репетиторства
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
-- [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Чотири дослідження, великий об'єднаний ефект і дуже низька впевненість

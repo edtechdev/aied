@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -67,22 +69,3 @@ Fungsi tertua perpustakaan — menyediakan akses yang tidak dapat dibeli individ
 - **Pertahankan jalur eskalasi manusia dalam layanan AI apa pun.** Bukti mendukung AI untuk pencarian dan penyusunan draf, dan staf manusia untuk pertimbangan tentang sumber; rancangan yang menghapus yang kedua untuk menskalakan yang pertama menghilangkan bagian yang tidak dapat diperoleh pengunjung di tempat lain.
 - **Instrumentasikan pergeseran pencarian alih-alih mensurveinya.** Log peminjaman dan penemuan sudah ada; perpustakaan yang memasangkannya dengan data instruksi akan tahu lebih banyak tentang efek AI daripada yang dapat ditunjukkan survei mahasiswa sekali waktu.
 - **Jangan menjual literasi AI sebagai literasi informasi.** Keduanya berbagi staf dan kerangka kerja tetapi berbeda dalam apa yang dinilai; mencampuradukkannya menghasilkan program yang mengukur keduanya.
-
-## Konsep terkait
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Artikel terkait
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adopsi kecerdasan buatan di perpustakaan akademik: Tinjauan sistematis atas praktik, tantangan, dan peluang penelitian terkini
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Memetakan Integrasi Literasi AI ke dalam Instruksi Literasi Informasi di Perpustakaan Akademik
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Bagaimana kecerdasan buatan membentuk ulang literasi informasi di perpustakaan akademik
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Kecerdasan buatan (AI) dan pencarian informasi: Eksplorasi komparatif chatbot AI, mesin pencari, dan sumber daya perpustakaan sebagai sumber informasi di kalangan mahasiswa
-- [[huang-genai-academic-information-resources-2026]] — Kecerdasan buatan generatif membentuk ulang penggunaan sumber daya informasi akademik yang berkelanjutan oleh mahasiswa
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Keterlibatan Mahasiswa oleh Pustakawan Akademik untuk Mempromosikan Literasi Informasi dan Instruksi AI di Institusi Pendidikan Tinggi Nigeria

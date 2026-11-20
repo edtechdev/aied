@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,13 +47,3 @@ ai_assist:
 - 참여 도서관은 **키오스크 배포당 연 1,000달러**를 부담합니다. 파일럿 자체는 신청한 사이트로 제한됩니다.
 - 프라이버시 성명은 프로그램의 주장이지 감사를 거친 발견이 아닙니다. 도서관은 자체 데이터 처리 계약에서 보존 기간과 아동 안전 조건을 확인해야 합니다.
 - 로드맵의 두 번째와 세 번째 단계, 즉 도서관이 지역 아카이브를 수집하고 그 결과 시스템을 통치하게 하는 일은 출시된 것이 아니라 계획된 것입니다.
-
-## 연결된 개념
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

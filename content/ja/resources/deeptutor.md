@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -44,6 +45,3 @@ ai_assist:
 ## 注記
 
 ライセンスは Apache 2.0 で、2026 年 9 時点のバージョンは 1.6.9、GitHub スター数は約 40,000 です。その背景にある公開済みの評価 — TutorBench ベンチマークにおける、強力なベースラインに対するパーソナライズ指標で平均 10.8% の改善、および 5 つのバックボーンモデルにわたる一般的なエージェント推論で 29.4% の向上 — は [[zhao-deeptutor-agentic-personalized-tutoring-2026|記事ページ]]に要約されており、そこに挙げられた限界はここにも当てはまります。他のオープンソース AI スタックと同様、モデルプロバイダのキーは利用者自身が用意し、デスクトップまたはサーバーへのデプロイには Python 3.11 と Node が必要です。
-
-## 関連する概念
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

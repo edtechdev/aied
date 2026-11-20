@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -89,37 +91,3 @@ ai_assist:
 - **"نگرانی کا ادب نگرانی کی اخلاقیات قائم کرتا ہے۔"** **80 مطالعات** کے جائزے نے پایا کہ **35% نے اپنا ڈیٹا سیٹ ظاہر نہیں کیا، 40% نے ایک ہی ماڈل کا جائزہ لیا، 30% دوبارہ پیدا نہیں کیے جا سکے اور صرف 25%** رپورٹنگ کا معیار پورا کرتے تھے۔ شہادت کی بنیاد بالکل اُن سوالات پر پتلی ہے جن کے جواب ادارے کو تعیناتی سے پہلے درکار ہوتے ہیں۔
 - **"رازداری تعمیل کا ایک خانہ ہے، ڈیزائن کی پابندی نہیں۔"** تقریباً ہر AI ٹول جو ذاتی بندی، پیش گوئی یا جانچ کرتا ہے وہ سیکھنے والے کے ڈیٹا پر منحصر ہے، جس سے ڈیٹا کی کم سے کم کاری ایک ڈیزائن کا فیصلہ بن جاتی ہے۔ جس ٹول کو ڈیٹا درکار ہو اُس میں رازداری کی کوئی اختیاری ترتیب نہیں ہوتی؛ اُس میں ڈیٹا کا انحصار ہوتا ہے جسے ڈیزائن نے چنا ہے۔
 - **ڈیٹا کے طریقوں کی آگاہی اُنہیں دیکھنے سے پیدا نہیں ہوتی۔** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] نے پایا کہ **47 ساتویں جماعت کے طلبہ میں سے 66%** نے [[conversational-ai|چیٹ بوٹس]] کے اپنی تحریر پڑھنے پر سب سے کم حفاظتی آپشن چنا۔ مزید **47%** نے الگورتھمی اثر کو "محض مزہ" کہہ کر رد کر دیا — یہ پیمائش اُس سبق کے **ایک ماہ بعد** کی گئی جس میں کلاس نے اپنے ہی لاگ شدہ طرزِ عمل کو زندہ پروجیکٹ ہوتے دیکھا، "ڈراونا" کہہ کر ردِعمل دیا، اور کئی طلبہ وقفے تک پلیٹ فارم استعمال کرتے رہے۔ رازداری کی وہ تعلیم جو طریقہ کار نظر آتا کر دے مگر قیمت ٹھوس نہ کرے، رویّہ وہی چھوڑ دیتی ہے۔ مصنف نوٹ کرتے ہیں کہ یہاں کم اسکور **زیادہ اسکوروں سے زیادہ قابلِ اعتماد** ہو سکتے ہیں، کیونکہ اِن آئٹمز کے لیے کوئی سماجی طور پر متوقع جواب موجود نہیں جبکہ ذمہ داری اور گورننس درست سنائی دینے والا جواب طلب کرتے ہیں۔
-
-## منسلک تصورات
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — طلبہ کے ریکارڈ، دفاتر کے درمیان ڈیٹا شیئرنگ، اور فیڈریٹڈ خطرے کی ماڈلنگ
-
-## منسلک مضامین
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — آپ کے پرامپٹس کے پیسے: AI چیٹ پلیٹ فارمز میں سیاق و سباق کا اخراج (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — رازداری بچانے والی تعلیمی خطرے کی ماڈلنگ کے لیے فیڈریٹڈ اور قابلِ وضاحت سیکھنے کے تجزیات (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — سیکھنے کے تجزیات سے تعلیمی مداخلتوں تک: قابلِ اعتماد تجزیات پر مبنی مداخلتوں کے ممکن بنانے والے (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — ایجنٹی لیٹریسی قرض: خود مختار ایجنٹوں سے AI لیٹریسی کا ساختی خلا (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: اصل سیکھنے کے ڈیٹا کے لیے گمنام کاری اور رضامندی
-- [[bassett-ai-detectors-education-2026]] — ہم جیتیں تو جیت، ہاریں تو ہار: تعلیم میں AI سراغ لگانے والے (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — رازداری بچانے والی فیڈریٹڈ LLM علمی تشخیص
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی اقدار اور معیارات
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — نگرانی کے نظام کیا پکڑتے ہیں، اور شہادت کی بنیاد میں رازداری کے ادب کی عدم موجودگی
-- [[edtech-privacy-deferral-2026]] — "ہم بعد میں ٹھیک کر لیں گے": تعلیم، AI، اور ایڈٹیک میں طلبہ کی رازداری کی تعویق

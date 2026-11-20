@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -113,41 +115,3 @@ GenAI और समूह मूल्यांकन पर सबसे सी
 **"AI सबसे अधिक तब मदद करता है जब वह समूह का समन्वय करता है।"** समन्वय-सहायता और ज्ञानमीमांसात्मक सहायता विपरीत दिशाओं में खींचती हैं। सहयोग की समन्वय-लागत घटाने से समूह पर अर्थ-वार्ता का दबाव घट सकता है, और वही वह प्रक्रिया है जिसका मूल्यांकन होता है। दक्षता और नियमन का समझौता मूल डिज़ाइन तनाव है, क्रियान्वयन का ब्यौरा नहीं।
 
 **"समूह कार्य लोगों की वजह से कठिन है।"** इसका कुछ हिस्सा कार्य-डिज़ाइन है, और इसीलिए AI कठिनाई का स्वरूप बदलता है, उसे सरलता से घटाता नहीं: तेज़ी से उत्तर देने वाला उपकरण बदल देता है कि समूह अपना समय किस पर लगाता है, और यह सुधार है या नहीं, यह इस पर निर्भर है कि कार्य कौन-से कौशल विकसित करने के लिए बनाया गया था।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — एक AI साझा करने वाले समूहों के लिए भूमिका स्क्रिप्ट
-- [[ai-education]] — शिक्षा में AI (छत्र)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## संबंधित लेख
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI-मध्यस्थ समूह मूल्यांकन में छात्र कार्यप्रणाली के तीन पैटर्न
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — जब AI किसी समूह में शामिल हो तो उभरती सीखने वाली कार्यप्रणाली: सहायक बनाम विरोधी व्यक्तित्व
-- [[genai-counter-learner-groupthink-2025]] — एक AI एजेंट जो PBL टीमों में समूहवाद का प्रतिकार करने के लिए विवाद डालता है
-- [[xu-genai-collaborative-space-2026]] — एक टीम में साझा बनाम निजी GenAI पहुँच
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — सहयोगी प्रकार और कार्य-प्रदर्शन बनाम स्व-नियमन का समझौता
-- [[golrang-propact-pair-programming-2026]] — प्रोपैक्ट: जोड़ी प्रोग्रामिंग में विश्लेषण की इकाई के रूप में युग्म
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — अंतर-विषयक छात्र टीमों में मान्यता-सामने लाने की AI मध्यस्थता
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — आलोचना साथी के रूप में LLM: सक्रिय प्रत्युत्तर संज्ञानात्मक संघर्ष संरक्षित करता है
-- [[polished-artifacts-fragile-engagement-2026]] — चिकनी कृतियाँ, नाज़ुक ज्ञानमीमांसात्मक भागीदारी
-- [[breideband-community-builder-cobi-2026]] — समूह सहयोग के लिए कक्षा-स्तरीय वार्तालाप विश्लेषण
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — सहयोग के AI शैक्षणिक मध्यस्थ
-- [[neurodivergent-computing-students]] — सहयोगी सीखने के लिए न्यूरोडिवर्जेंट छात्रों की आवश्यकताएँ
-- [[academic-league-of-ai-2026]] — AI शिक्षा के लिए लोकतांत्रिक छात्र शासन और प्रोजेक्ट टीमें
-- [[teacher-student-agency-orchestration]] — वास्तविक समय में शिक्षक और छात्र कार्यप्रणाली का सह-संगठन
-- [[dollinger-equitable-assessment-ai-2026]] — AI युग में समतामूलक मूल्यांकन
-- [[ethics-training-agents-group-ethics-discussion-2026]] — नैतिक प्रतिबिंब के लिए भूमिका-निर्वाहन और चर्चा के साथ समूह-आधारित नैतिक शिक्षा की सुगमता: नैतिक विचार और अन्वेषण

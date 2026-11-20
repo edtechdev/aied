@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -127,46 +129,3 @@ Les deux sont étroitement couplés : presque chaque technique de garde-fou est 
 **« Les seuils des garde-fous sont des choix d'ingénierie à régler. »** Un seuil est une décision de politique dotée d'un coût distributif. Déplacer un seuil de toxicité de 0,3 à 0,7 a fait passer les invites étiquetées de **35,62 % à 12,4 %** ; sur un détecteur d'arnaque, il a échangé **15 fausses alertes et 18 arnaques manquées contre 2 et 36**. Aucun seuil ne supprime l'arbitrage — il décide seulement quelle erreur l'institution préfère, et cette décision appartient à l'institution plutôt qu'à une constante par défaut.
 
 **« L'audit d'équité est une préoccupation distincte de l'adéquation des garde-fous. »** Les schémas de refus et de soutien distribuent le bénéfice inégalement même lorsqu'ils sont appliqués uniformément, et un taux de préjudice moyen masque quels étudiants l'absorbent. L'audit doit faire partie de la spécification du garde-fou, et non d'une étude commandée après coup.
-
-## Concepts liés
-
-- [[pedagogical-safety]] — l'objectif que les garde-fous mettent en œuvre
-- [[prompt-engineering]] — la technique de conception « indice plutôt que réponse »
-- [[rag]] — l'ancrage des connaissances comme garde-fou
-- [[human-in-the-loop-ai]] — l'assurance qualité et la supervision par l'enseignant
-- [[llm-training-and-fine-tuning]] — la couche d'entraînement et d'alignement
-- [[reinforcement-learning]] — le façonnement des récompenses pour un comportement sûr
-- [[bias-mitigation]] — l'audit des garde-fous au regard de l'équité
-- [[ai-sycophancy]] — le risque de manipulation auquel les garde-fous doivent résister
-- [[scaffolding]] — le mécanisme pédagogique que les garde-fous préservent
-- [[socratic-method]] — un mode d'interaction « indice plutôt que réponse »
-- [[hallucination-risk]] — le risque de fabrication que les garde-fous réduisent
-- [[cognitive-offloading]] — le préjudice lié à la sur-dépendance que les garde-fous préviennent
-- [[k-12]] — le contexte où les garde-fous importent le plus
-- [[ethics]] — le fondement normatif
-- [[governance]] — la couche de politique
-- [[intelligent-tutoring]] — les systèmes à protéger
-- [[misconceptions]] — les connaissances que les garde-fous doivent vérifier
-- [[trust]] — le résultat de garde-fous bien conçus
-- [[llm]] — la couche de modèle à contraindre
-
-## Articles liés
-
-- [[ai-security-literacy-k12-framework-2026]] — Littératie en sécurité de l'IA : cadre de compétences écosystémique et plateforme d'apprentissage K-12
-- [[reflection-agent-fidelity-career-2026]] — Fidèle là où c'est vérifiable : audit d'un agent de réflexion au regard de sa consigne système dans un essai randomisé
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Le cadre SCAFFOLD pour piloter le dialogue étudiants-IA, avec son pilote en classe
-- [[generative-ai-guardrails-harm-learning]] — l'ECR de terrain canonique sur les garde-fous
-- [[eduzone-llm-safety-k12]] — Cadre de sécurité des LLM en K-12
-- [[eduguard-safe-rag-llm-tutor]] — Sécurité fondée sur le RAG pour les tuteurs
-- [[paternalistic-filter-llm-history-education]] — audit des garde-fous au regard des biais
-- [[singh-eduqwen-pedagogical-rl-2026]] — apprentissage guidé aligné par RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — post-entraînement aligné sur une taxonomie
-- [[eduframetrap-llm-sycophancy-educational-safety]] — l'obséquiosité comme risque de sécurité
-- [[ai-tutor-authoring-promptdecipher]] — assurance qualité pilotée par l'enseignant
-- [[llm-unlearning-math-privacy]] — désapprentissage au niveau du modèle
-- [[pedagogical-safety-rl]] — façonnement des récompenses pour la sécurité pédagogique
-- [[residencyrl-clinical-rl-training-2026]] — RL aligné sur la sécurité en formation clinique
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Étayage guidé par des règles ou ad hoc dans un système de tutorat par LLM pour les mathématiques du primaire (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Gouvernance pédagogique par la conception : un cadre pour l'IA dans l'enseignement de l'informatique
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Garde-fous ou obstacles ? Effets du style pédagogique et de la conscience du contexte dans les assistants pédagogiques d'IA pour la programmation
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — comment le risque pesant sur la pensée des étudiants variait selon la catégorie de produit sur 20 outils d'IA observés dans des classes réelles

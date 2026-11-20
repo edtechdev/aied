@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -45,12 +46,3 @@ Predavači, dizajneri poučavanja i razvojni stručnjaci za nastavnike mogu deta
 ## Napomene i upozorenja
 
 Autori Primer nazivaju eksperimentalnim prototipom, a ne provjerenim proizvodom za razred. Nije evaluiran kao obrazovna intervencija u razredima i nitko ga nije pregledao u pogledu FERPA-e, COPPA-e, državnih zakona o privatnosti studenata ni politike okruga, pa ustanova koja ga rabi sa studentima sama snosi tu provjeru. Softver je pod MIT licencijom i besplatan, ali pokretanje simulacije zahtijeva pristup modelu, što košta. Budući da ne ovisi o modelu i radi na lokalnim modelima ili modelima s otvorenim težinama, može se postaviti tamo gdje su pravila privatnosti stroža. Bijeli papir o arhitekturi i promptovima povezan je sa stranice projekta. Repozitorij je imao 98 zvjezdica i 16 forkova kad je provjeren u studenome 2026.
-
-## Povezani pojmovi
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

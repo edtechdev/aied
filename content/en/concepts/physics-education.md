@@ -21,6 +21,8 @@ ai_assist:
     role: revision
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 
 > **Physics Education** — the study of how students learn physics and how to teach it more effectively, spanning Socratic [[intelligent-tutoring|AI tutoring]], [[computational-thinking|computational thinking]] assessment, student [[trust|trust]] and AI adoption patterns, automated scoring validity, and teacher preparation. The physics education research is notable for its domain-specificity: they explore how AI tools interact with the unique cognitive demands of physics reasoning — visual-spatial thinking, mathematical modeling, abstract systems thinking, and multi-step [[problem-solving|problem-solving]].
@@ -72,7 +74,6 @@ Problem posing turns the learner into the problem author: 76% of 49 physics stud
 
 **Generative video as synthetic experimental data.** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] generate video scenarios with PixVerse, Grok Imagine and Pippit for three resistive-force regimes — constant friction, linear drag and quadratic drag — extract the kinematics with the [[open-source|open source]] Tracker tool, and fit the analytical models by non-linear least squares. The synthetic data agreed with the classical equations of motion and recovered physically meaningful parameters, and the recurring practical finding is that prompt specificity governs physical coherence: more detailed descriptions produced more coherent dynamics. The workflow mirrors experimental practice from model construction to [[quantitative-research|quantitative]] validation, and reframes [[prompt-engineering|prompt formulation]] as a stage of experimental design rather than a convenience. What it does not yet demonstrate is learning: validation here is agreement between generated motion and the authors' models, not students' measurement judgment, so the approach inherits the [[assessment-validity|validity]] question any generated data used as evidence must answer.
 
-
 **Bespoke simulations for the topics PhET does not cover.** LLM-generated HTML/JavaScript models let instructors produce the simulation a course needs rather than the nearest published one, subject to technical and physical validation; in a pilot, 53 students in 26 pairs built and refined their free-fall models with no programming background required ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 A reusable four-element prompt — tools, display, hand controls, optimization — lets a no-code teacher generate a browser-based AR simulation whose pinch-and-spread gestures drive the physics; in a 29-student pilot the gesture helped all 29 "feel" wavelength (mean 4.52) and 86% reported greater engagement ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
@@ -105,68 +106,9 @@ Physics education sits within the broader [[stem-education|STEM education]] doma
 
 - **Verify facilitator fidelity; keep the model-building phase AI-free.** Pressed to "just tell us" which can weighed more, a purpose-configured Gem invented mass values no one had measured, so a language-based facilitator's fidelity must be checked rather than assumed, and the AI-free build phase preserves the hands-on work it cannot reach ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
-
 The lowest-infrastructure route into course materials is documented for physics teaching. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] run a small model locally, point it at the course's own notes and problem sets, and generate quizzes and study guides from them, with the instructor validating every output. The setup needs no vendor agreement and sends no student data anywhere, which makes it a realistic first step for a department that cannot procure an enterprise tool but can spare a workstation.
 ## Common Misconceptions
 
 - **"Students trust AI enough to rely on it uncritically."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] found a **50-point trust-utility gap**: **91% use AI for coursework but only 41% trust it**. Widespread use coexists with low trust, so an intervention aimed at building enthusiasm addresses the wrong variable.
 - **"Physics students are one population."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] developed a two-profile typology from **1,189 survey responses**: **70% "Pragmatic Users" and 30% "Skeptical Non-Users"**. A single classroom policy has to serve two groups with opposite stances.
 - **"The gap between use and trust is irrational."** The two figures measure different things — whether the tool helps you finish work, and whether you believe it does so correctly. Students are distinguishing utility from reliability, which is the analytically correct distinction and not a contradiction.
-
-## Connected Concepts
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
-## Connected Articles
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
-- [[high-school-genai-acceptance-tam-physics-2026]] — Acceptance of GenAI modeled in Grade 10 physics
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[zammel-mllm-kinematics-graph-grading-2026]] — Stress testing a multimodal grader on distorted kinematics graphs: full credit for a graph its explanation does not support (Zammel et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — A well-engineered tutor beat in-class active learning
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Energy preconceptions decided where AI query negotiation sat in the group network: an integration hub when members disagreed, a linear query-then-read path when they agreed (Wang et al. 2026)
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Use patterns and perceived support among future engineers

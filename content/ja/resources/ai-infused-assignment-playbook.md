@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -48,16 +49,3 @@ ai_assist:
 ## 注記
 
 これは実践的なガイドであり、実証的研究ではありません。学生の AI 利用に関する主張は、新たなデータではなく、引用された外部資料（BestColleges、Campbell、Digital Education Council、Flaherty）に依拠しています。「ネットワーク構築」の枠組みと「理解の錯覚」という捉え方は、より広い文献（Wigmore ほか、Williamson ほか）から採られたもので、実践集自体で検証された成果ではなく、教育学的な根拠として提示されています。課題はすべて執筆されたテンプレートであり、効果量が報告されているものは一つもありません。したがって、地域で適用して評価するための設計として扱うべきものです。2026-10-07 に v1 として Zenodo で CC BY 4.0 の下公開され、アカウント不要で無料ダウンロードできます。収集時点で記録されているのは閲覧約 35 件、ダウンロード約 14 件のみで、外部での利用や査読はまだほとんど行われていません。
-
-## 関連する概念
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

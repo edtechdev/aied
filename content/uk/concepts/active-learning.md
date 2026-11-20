@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -85,51 +87,3 @@ ai_assist:
 - **«Підтримуване ШІ дослідження автоматично є вищого порядку.»** Квазіексперимент зі **120 студентів 8-го класу** виявив, що підтримуване ШІ [[inquiry-based-learning|дослідницьке навчання]] підвищило креативну математичну продуктивність **і** ще одну вужчу міру — втручання зрушило частину результатів, а інші ні. Кореляція з ярликом вищого порядку не є тим самим, що завдання вищого порядку.
 - **«Проєктування навчання студентами — технічна вправа.»** У дослідженні інверсії **345 студентів** на курсі з 700 студентів кожен спроєктував розмовного агента, щоб навчити ровесника трьох патернів проєктування. Активне навчання походило від проєктної роботи, яка є [[pedagogy|педагогічним]] міркуванням, а не інженерією підказок.
 - **«Висновки про залучення є висновками про навчання.»** Та сама доказова база застерігає, що дизайн **без контрольної групи та на вибірці добровольців** підтримує лише твердження про залучення. Студенти цінували відкриту свободу проєктування (**22,3%** як головна позитивна тема) і найбільше скаржилися на нечіткі інструкції (**23,7%**) — обидва стосуються досвіду.
-
-## Пов’язані поняття
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Засніт: педагогіки та стратегії викладання в освіті з ШІ
-
-## Пов’язані статті
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Тьюторинг ШІ перевершує активне навчання в аудиторії: RCT, що запроваджує новий дизайн, заснований на дослідженнях, в автентичному освітньому середовищі (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Рамка GenAI для активного навчання в економіці (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — Дослідження ЕЕГ режимів взаємодії з ШІ (інтерактивний > авто)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: візуальне дослідницьке навчання через багатоагентну симуляцію
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: поетапне розмовне повторення після лекції
-- [[academic-league-of-ai-2026]] — Академічна ліга ШІ: проєктне активне навчання
-- [[mujib-ai-ibl-creative-math-2026]] — Підтримуване ШІ IBL та креативна математична продуктивність
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Характеристики здобувачів × взаємодії уроків у форматі діалогу TTS
-- [[instructional-guidance-genai-learning]] — Перегляд за допомогою ШІ з підказкою і без неї: оцінки відкритих відповідей рухала структура, а не доступ до моделі
-- [[assigned-ai-preclass-student-engagement-2026]] — Попередній перед заняттям прогон із ШІ підвищив участь на занятті на 31% після другого використання, а не першого

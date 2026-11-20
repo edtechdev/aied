@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -98,45 +100,3 @@ ai_assist:
 - **"更新的模型会解决它。"** 模型世代不是约束条件。ChatGPT-5 在客观药学考题上与人类教师相当（CCC 0.935 到 1.000），但在简答题上并非如此（≈0），在作文上亦然（0.341 到 0.854），而且**结构化的评分量规并未可靠地弥合这一差距**。封闭任务上的能力提升，没有按比例转移到开放式工作上，而评估的大部分实际发生在那里。
 - **"使用数据表明它是有效的。"** 在 394 项研究的映射中，未指明版本的 ChatGPT 出现在 94 项研究中，3/3.5 系列出现在 66 项中，因此已发表能力主张的很大一部分描述的是**此后已被取代的模型世代**，而许多研究根本没有报告版本。所报告的行为绑定在特定模型与特定日期上，这使关于"生成式 AI"的无日期主张成为不可证伪的，而非普遍的。
 - **"因为专家标注了每一个例子，所以它是安全的。"** 一个经多位专家标注、含 4,815 条学生与 AI 消息的标注集发现，只有约 0.68% 的消息含有编码方案本要检测的有害或离题内容。这是关于基础率的发现，而不是关于安全性的：罕见事件本就罕见，而系统的失效尾部恰恰是这种规模的语料难以刻画的情形。
-
-## 关联概念
-
-- [[llm]] — 支撑生成式人工智能的模型类别
-- [[prompt-engineering]] — 输出如何被塑造
-- [[rag]] — 检索增强的接地
-- [[ai-literacy]] — 有效使用它所需的能力
-- [[ai-education]] — 更广阔的领域
-- [[intelligent-tutoring]] — 对话式与生成式导学系统
-- [[cognitive-offloading]] — 生成式人工智能放大的过度依赖风险
-- [[hallucination-risk]] — 生成内容的一项核心可靠性风险
-- [[academic-integrity]] — 流畅生成带来的诚信问题
-- [[automated-assessment]] — 评分与反馈中的生成式模型
-- [[ai-technologies]] — AI 技术与模型的总括
-- [[higher-ed]] — 一个主要部署情境
-- [[k-12]] — 一个主要部署情境
-- [[reflection]]
-
-## 关联文章
-- [[genai-learning-motivation-meta-analysis-2026]] — 对 GenAI 学习动机效应的元分析，预测区间横跨从损害到收益
-
-- [[typology-generative-ai-tools-education-2026]] — 教育中生成式AI工具的类型学
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives：为教育赋能生成式用户界面：定制化学习交互
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training：面向临床问诊训练的支架导向多智能体大语言模型系统评价
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL：面向安全且健全的学习型AI的设计框架
-- [[genai-educational-outcomes-meta-analysis]] — GenAI学习成果的元分析
-- [[genai-meta-analysis-programming-learning]] — 编程学习中GenAI的元分析
-- [[genai-performance-vs-learning]] — 使用GenAI时的表现与学习
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI导学智能体的危害
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor：为安全的检索增强大语言模型导师设置护栏
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation：CogEvol 学习环境生成
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners：面向视障学习者的辅助性生成式 AI
-- [[li-language-educators-genai-review-2026]] — 语言教育者使用GenAI的实践与发展
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — 面向新型AI辅助教育问题的教学性评估的预训练模型评价
-- [[bicer-genai-pd-math-creativity-2026]] — 一项由 GenAI 引导的数学教师专业发展案例研究，对象为八名农村在职教师
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 汇总 g = 0.819，经 PET-PEESE 校正降至 0.378；定制工具（0.455）表现不及聊天机器人（0.970）

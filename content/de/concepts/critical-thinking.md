@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -115,57 +117,3 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 Ob KI-Nutzung dem [[critical-thinking|kritischen Denken]] hilft oder schadet, hängt davon ab, welcher Mechanismus gemessen wird. Ein meta-analytisches Strukturgleichungsmodell aus dem Jahr 2026, das 31 Studien und 16.357 Lernende poolt, fand **zwei indirekte Pfade von nahezu gleicher Größe, die in entgegengesetzte Richtungen laufen**: KI-Nutzung erhöhte die Abhängigkeit, was kritisches Denken senkte (β = −0,212), und erhöhte die [[motivation|Lernmotivation]], was es steigerte (β = +0,217). Die Pfade hoben sich fast exakt auf — totaler indirekter β = 0,004 —, sodass ein kleiner positiver direkter Effekt blieb (β = 0,149) und 40 % der Varianz erklärt waren.([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
 
 Die Nullkorrelation in dieser Literatur ist nicht signifikant (r = 0,156, 95%-KI [−0,040, 0,353]), und genau so sieht eine Aufhebung aus, wenn eine Studie nur das Ergebnis misst. Die Designimplikation ist, dass [[cognitive-offloading|Offloading]] keine Eigenschaft des Werkzeugs ist, sondern davon abhängt, wie die Aufgabe gestellt wird: Werkzeuge, die Ende-zu-Ende-Antworten zurückhalten, und metakognitive Prüfpunkte, die Evaluation erzwingen, verschieben die Waage zum motivationalen Pfad.
-
-## Verbundene Konzepte
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Chemieunterricht und KI: Labore, formatives Assessment, Grenzen von LLMs, Philosophie des Experimentierens
-- [[biology-education]] — Biologieunterricht und KI: Labor-Lehrassistenten, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## Verbundene Artikel
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kritisches Denken läuft über Arbeitsteilung und das Überarbeiten der Ausgabe, nicht über Exposition
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten: Kritisches Denken trägt die höchste Disruptionsbewertung des Berichts (Mittelwert 4,00)
-- [[pearls-epistemic-verification-2026]] — PEARLS-Rahmenwerk für epistemische Handlungsfähigkeit und die Verifikation von KI-Ausgabe (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtsensitives kognitives Offloading im GenAI-unterstützten Schreiben (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Das Paradox des kritischen Denkens im GenAI-integrierten Lernen
-- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler: Förderung von Higher-Order Thinking (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: Wie KI das menschliche Denken umformt (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Metaanalyse zu GenAI und Higher-Order Thinking
-- [[avraamidou-ai-colonization-science-education]] — Die KI-Kolonisierung der naturwissenschaftlichen Bildung unterbrechen
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Kritische KI-Kompetenz neu ausrichten
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-Muster in LLM-gesteuerten Umgebungen (Blooms Perspektive)
-- [[probing-ai-generated-physics-solutions-2026]] — Lernende darauf vorbereiten, KI-erzeugte Physik-Lösungen zu kritisieren
-- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: Die kritische Rezeption durch Studierende von interessenspersonalisierten GenAI-Analogien in der Informatikbildung
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Förderung nachhaltigen Lernens über verkörperte Intelligenz (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — KI-Überabhängigkeit als komplexes adaptives System modelliert
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimensionsspezifische Zugewinne an kritischem Denken im KI-unterstützten multimodalen Schreiben (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — Erkennen logischer Fehlschlüsse über strukturierten Mehr-Runden-Dialog lehren
-- [[caeai-ai-companions-learning-over-performance-2026]] — Lernen über Leistung: Wofür Begleiter optimiert und gemessen werden sollten
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — KI-Scaffolding, Offloading und Verifikationskompetenz über metakognitive Selbstregulation (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit begrenzt den Zusammenhang von Nutzung und kritischem Denken bei Betriebswirtschaftsstudierenden (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexionsprompt senkt die Akzeptanz falscher KI-Ratschläge und das Attributionsbias (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rollenrotation als Struktur für kritische Mensch-KI-Interaktion (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verifikationszentrierte GenAI-Integration im Chemie-Studium an der Universität (Vega-Baudrit und Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Von Lehrkräften kuratiertes ChatGPT-Feedback erhöhte kritisches Denken über Higher-Order-Revision (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Ein Semester KI-Zugang ließ kritisches Denken unverändert; reflektierende Nutzung sagte es voraus (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — GenAI-Abhängigkeit positiv mit kritischem Denken verbunden bei 1.157 Promotionsstudierenden
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI-Nutzung zu kritischem Denken über Feedback-Kompetenz, mit einem direkten Pfad nur für weniger reflexive Studierende
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Die pessimistische Lesart der Moderationsbefunde: Reibungsverlust, Automatisierungsfehler, Effizienzrahmen
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative Übersicht über 108 Dokumente: das Vorzeichen des Effekts folgt Vorwissen und Aufgabenzeitpunkt (AMCIF-Rahmenwerk)
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI-Abhängigkeit und Motivation haben gleich große, entgegengesetzte Effekte auf kritisches Denken, sodass ein kleiner Nettozuwachs bleibt (MASEM, 31 Studien, 16.357 Lernende)
-

@@ -13,6 +13,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -62,7 +64,6 @@ Tek bir istatistik çözümü seçmez; derlem, elde tutmayı birlikte birkaç ö
 - **Yeniden örnekleme altında kararlılık.** Bootstrap kararlılığı, profillerin yeni bir örneklemde yinelenip yinelenmeyeceğine ilişkin dürüst bir denetimdir: Ukraynalı altı sınıflı çözüm için ortalama ayarlanmış Rand indeksi 0,385 iken YZ’ye güven çalışmasında 100 rastgele başlatma boyunca 0,989’du — aynı yalnızca adı olan tasarım, çok farklı kanıt ağırlığı.
 - **Bootstrap olabilirlik oranı testleri (BLRT)** ve Lo–Mendell–Rubin testi, daha geniş karışım modeli literatüründe BIC ve entropinin standart yardakçılarıdır, ancak bu bilgi tabanındaki profil çalışmaları bunları bildirmez. Bir sayfa yalnızca BIC ve entropi bildirdiğinde sınıf sayısını geçici olarak ele alın.
 
-
 - **Bu derlemin aksi hâlde atladığı olabilirlik oranı denetimi.** [[ai-attitude-latent-profiles-career-development-2026|Song ve ark. (2026)]], 379 işletme öğrencisinden dört profili elde tuttu (entropi 0,824) ve Lo–Mendell–Rubin kararını bildirdi: dörtte anlamlı (p = 0,035), beşte anlamsız (p = 0,376).
 - **Rakip çözüm ve bir olabilirlik oranı testiyle savunulan elde tutma.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez ve ark. (2026)]], dört profilli çözümün 102 öğrenciye biraz daha iyi uyduğunu ama anlamlı biçimde iyileşmediğini ve en küçük sınıfı %12,7’de bıraktığını bildirir; bu nedenle sayısal olarak daha iyi uyan model yerine üç profili elde tutarlar (entropi ,89). Yenilgiye uğrayan çözümü ve onu diskalifiye edeni bildirmek, elde tutulan sınıf sayısını okuyucuların denetleyebileceği bir yargı haline getiren şeydir; çalışmanın özel olarak geliştirilmiş 12 maddeli YZ kullanımı ölçüsü — yazarların ön nitelik olarak adlandırdığı 85 kişilik ayrı bir örneklemde doğrulanmıştır — kanıtının diğer sınırını işaret eder.
 
@@ -91,27 +92,3 @@ Her biri kaynak sayfalarda belirtilen dört uyarı:
 - **"Gizli profil analizi, var olan grupları keşfeder."** GÖA, öğrenen çeşitliliğini retorik bir iddiadan ölçülebilir bir bulguya dönüştürür ve profiller, **seçilmiş sınırlarda bölünmüş bir sürekliliğin modelidir**, doğal türler değil. Profil sayısı analitik bir karardır.
 - **"Gizli değişken ailesinin herhangi bir üyesi uygundur."** Hangisinin kullanılacağı **göstergeleri izler**: kategorik göstergeler için **GSA**, sürekli göstergeler için GÖA. Yöntemi önce, göstergeleri sonra seçmek, sonucu seçimin bir yapıntısı haline getirir.
 - **"Profiller çalışmalar arasında karşılaştırılabilir."** Chen ve meslektaşları **128 Tayvanlı öğretmen adayını** beş [[technology-acceptance-model|TAM]]/UTAUT2 yapısı üzerinden profil analizine tabi tuttu, Acquah ve meslektaşları ise **509 Ganalı lisans öğrencisini**. Farklı popülasyonlardaki farklı göstergeler, ortak ölçülebilir profil etiketleri üretmez.
-
-## Bağlı kavramlar
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Bağlı makaleler
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 işletme öğrencisinde dört YZ tutum profiline ilişkin Lo–Mendell–Rubin elde tutma kanıtı
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Psikolojik uyumun üç dalgalı gizli profil geçiş analizi
-- [[liang-ai-learning-motivation-sdt-2026]] — Bir yıl boyunca üç motivasyon profilinin gizli geçiş analizi
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-ortalamalar profilleri; siluet ile Calinski–Harabasz anlaşmazlığı; ARI 0,989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Dört GenAI benimseme kişiliğine hiyerarşik ve k-ortalamalar kümelemesi
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Hizalama kararlılığıyla 49 sistemde 40.680 öğretmenden dört öğretmen YZ inancı profili

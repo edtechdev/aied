@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,7 +64,3 @@ dihasilkan dengan AI generatif di bawah tinjauan editorial, dan bahwa terjemahan
 ditandai untuk ditinjau pendidik lokal sebelum dipakai di kelas, yang layak dipertimbangkan serius
 sebelum distrik mengadopsinya dalam skala besar. Setiap aktivitas berjalan di peramban siswa tanpa login
 dan tanpa pengumpulan data.
-
-## Konsep terkait
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

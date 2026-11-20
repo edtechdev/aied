@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,44 +92,3 @@ ai_assist:
 **「公民教育の問題は、学生がチャットボットの言うことを信じてしまうことだ。」** 記録されている問題はそれより薄い。AI生成の公民科教材は想起レベルの課題に落ち着き、多文化的内容を完全に落とす。したがってリスクは、いずれかの学生が誤導されるよりも前に、判断を教えることをやめてしまうカリキュラムである。
 
 **「環境教育はAIのフットプリントを倫理の話題として扱える。」** フットプリントは設計パラメータである。レイテンシ、モデルサイズ、ホスティングがそれを決め、報告に関する文献はそれを説諭ではなく測定可能なものとして扱う。
-
-## 関連する概念
-
-- [[discipline-specific-aied]]
-- [[humanities-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[civic-and-political-education]]
-- [[environmental-education]]
-- [[assessment-validity]]
-- [[research-methods-aied]]
-
-## 関連する記事
-
-- [[civic-education-ai-lesson-plans]] — 53の公民科基準に対する310件のAI生成指導案：90%が低次、94%が多文化的内容なし
-- [[nkalanga-digital-borders-civic-literacy-2026]] — 南アフリカにおけるアルゴリズム的国境統治と市民的デジタルリテラシーの五つの要請
-- [[csaszar-ai-management-education-2026]] — AIが経営教育に及ぼす影響：価値ベース戦略の分析
-- [[espino-ai-business-education-review-2026]] — ビジネス教育におけるAIの10年
-- [[drummond-genai-business-schools-framework-2026]] — ビジネススクールにおけるGenAIのための、学生の知見に基づく枠組み
-- [[mesny-innovative-assessment-grading-management-2026]] — 経営教育における革新的な評価と採点
-- [[automated-scoring-marketing-posts-agreement-2026]] — 学生のマーケティング投稿の自動採点における一致と誤差
-- [[daniel-ai-sustainability-scoping-review-2026]] — サステナビリティのためのAIと持続可能なAIを区別、グローバルサウスのギャップ
-- [[aied-carbon-footprint-reporting]] — AIED 2025年の開示レビューとオープンソースのフットプリント計測手法
-- [[ai-assisted-inquiry-ssi-climate]] — AI支援の気候探究、探究のみに対してd = 0.69
-- [[hawkins-feedback-literacy-ai-essay-writing]] — シミュレートされたAI支援ライティング課題で、エッセイ評点の唯一の有意な予測因子となったフィードバックリテラシー
-- [[critical-genai-use-predictors]] — 知識（自己報告と客観）、認識論的志向、知的価値観が批判的GenAI利用を予測
-- [[student-genai-use-views-writing]] — 504人の社会学学生：選択的利用と指針のギャップ（81%が指示を受け、46%が明確と感じた）
-- [[wells-genai-research-assistant-sociology-2026]] — 社会学研究法科目の24人の学生：18回のうち6回のワークショップでCopilot、研究計画書では使用禁止
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 文章量の多い分野のスウェーデンの教員24人、評価におけるAI生成の成果物をめぐる推論
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 2年次心理学のメディア課題でピア評価をChatGPTが代替
-- [[ai-tutor-statistical-programming-adoption-2026]] — 心理学の統計授業における「R-Tutor」の事前登録縦断研究
-- [[mental-health-literacy-students-llms-2026]] — 30のメンタルヘルス記述について、150人の心理学学生と4つのLLMを比較
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531人の学部生、6つの倫理ヴィネット、AIリテラシーが判断を予測するか
-- [[adaptive-virtual-patient-psychotherapy-training]] — 心理療法訓練のための適応型仮想患者：1,033ターン、共感と探索に応じる自己開示
-- [[burke-ai-proliferation-college-students-replication-2026]] — 5大学991人の学部生：AI利用はほぼ2倍、標本の30%を心理学が供給
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 実験心理学の授業におけるChatGPT-4の80項目：信頼性は保たれたが、Bloomの到達範囲は保たれず
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — カウンセラー訓練生の模擬クライエントとしてのGPT-4o：不安は低下、同意的で文化的に平板なクライエント
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 286人の心理学学生と訓練生：すべての領域で3〜4つの潜在クラス
-- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] — ChatGPT、DeepSeek、Geminiにわたる20の社会学項目：カッパ0.91〜1.00、不一致は応用項目
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18人の社会学学生：思考の伴侶としてのChatGPTと、失うことを恐れた自分自身の声
-- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] — 216人の社会科学系学生：訓練は自信の低下と結びつき、上昇とは結びつかない

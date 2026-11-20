@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -106,42 +108,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - प्री-लाइसेंस और अभ्यासरत नर्स के नमूनों को अलग-अलग रिपोर्ट करें, और पर्यवेक्षित अभ्यास तक के संक्रमण का अध्ययन करें, यदि सक्षमता के दावे को नैदानिक रूप से कुछ अर्थ देना है।
-
-## संबंधित अवधारणाएँ
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## संबंधित लेख
-
-- [[hardie-genai-nursing-scoping-review-2026]] — नर्सिंग शिक्षा में अनुप्रयोग, अभिवृत्तियाँ और नैतिकता: एक 103-अध्ययन स्कोपिंग समीक्षा (हार्डी एट अल. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — नर्सिंग शिक्षा में जनरेटिव AI-समर्थित सिमुलेशन और कौशल प्रशिक्षण के शिक्षार्थी-अनुभव: एक मेटा-संश्लेषण
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — नर्सिंग शिक्षा में एआई की व्यवस्थित समीक्षा (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — नर्सिंग शिक्षा में एआई-संचालित सिमुलेशन: मिश्र-पद्धति व्यवस्थित समीक्षा
-- [[sun-llm-nursing-education-professional-identity-2026]] — एलएलएम, संरचनात्मक अंतराल, और व्यावसायिक पहचान का पुनर्गठन
-- [[akbaba-nursing-ai-experiences-tam-2026]] — टीएएम के माध्यम से नर्सिंग छात्रों और संकाय के एआई अनुभव
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — स्वास्थ्य विज्ञान छात्रों में एआई धारणाएँ और कैरियर चिंता
-- [[genai-counter-learner-groupthink-2025]] — अंतर-व्यावसायिक पीबीएल में समूहचिंतन का मुकाबला करने के लिए जनक एआई
-- [[dabkowski-nursing-academics-genai-2026]] — जनक एआई पर नर्सिंग शिक्षाविद: नीति अस्पष्टता, व्यावसायिक मूल्य, और निरीक्षित मूल्यांकन की ओर बढ़ाव
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — नर्सिंग मूल्यांकन में दूरस्थ निगरानी: निगरानी, समानता, और धारणा पर बना एक निवारण मामला
-- [[xiang-ai-nursing-education-kas-framework-2026]] — AI सक्षमता ढाँचों को नर्सिंग पाठ्यक्रमों के 12 KAS उप-आयामों पर मैप करने वाली स्कोपिंग समीक्षा
-- [[rony-nursing-educators-ai-tpack-2025]] — बांग्लादेश में नर्सिंग शिक्षक AI तत्परता, बाधाओं और डेटा शासन पर, TPACK से पढ़ा गया
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18 समीक्षाओं की अंब्रेला समीक्षा: नैतिकता, पाठ्यक्रम रूपांतरण और एकीकरण बाधाएँ
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — नर्सिंग छात्र AI उपयोग के खुले रहस्य पर: वैयक्तिकृत अधिगम, समय और डिजिटल विभाजन
-- [[agency-gap-ai-writing]] — चिकित्सा और नर्सिंग छात्रों के साथ RCT: प्रतिक्रियाशील बनाम सक्रिय एजेंट डिज़ाइन और एजेंसी अंतराल
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 नर्सिंग छात्र: GenAI अंतःक्रिया, शैक्षणिक अंतःक्रिया, और एक just-identified मध्यस्थता मॉडल
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — रोनी एट अल. का प्रकाशित उत्तर: संस्थागत पारिस्थितिकी, तत्परता और AI निगरानी
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — संकाय और छात्र मिलकर नर्सिंग शिक्षा एनालिटिक्स डैशबोर्ड डिज़ाइन करते हैं
-- [[federated-learning-at-risk-student-prediction-2026]] — स्वास्थ्य-व्यवसाय कार्यक्रमों में गोपनीयता-संरक्षी जोखिम पूर्वानुमान, और आयातित सीमा नर्सिंग में क्यों चूकती है
-

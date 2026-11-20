@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,7 +80,6 @@ Pertanyaan yang sama dibingkai ulang oleh [[thapa-lewis-process-oriented-assessm
 
 Basis pengetahuan berargumen bahwa autentisitas harus dirancang alih-alih diawasi, dan [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj dan Zidan (2026)]] menyediakan bukti kontra dari praktik: setelah krisis kepercayaan ketika calon guru menyerahkan karya hasil AI mentah sebagai karya sendiri, pendidik guru di tujuh perguruan tinggi Israel merancang ulang penilaian di sekitar bukti proses (prompt, riwayat versi dokumen, kontribusi kelompok terpantau) dan kinerja di kelas — tetapi beberapa juga menggambarkan kemunduran, sebagai upaya terakhir, ke ujian berpengawasan dan pembelaan lisan atas tesis, satu peserta menyebut kembalinya ke ujian menyakitkan secara pribadi namun tak terhindarkan. Dibaca terhadap posisi desain-duluan, temuan itu menandai mode kegagalan, bukan solusi: ketika autentisitas tidak dirancang ulang sebelumnya, respons praktis terhadap karya yang tak dapat dinilai adalah pengendalian yang dipulihkan — pengawasan dengan nama lain — yang menghadirkan kembali format yang ingin ditinggalkan literatur penilaian autentik. Ini juga menunjukkan biaya alternatifnya: peserta melaporkan penilaian tertulis bawa pulang mereka tidak lagi dapat membuktikan pembelajaran, dan dokumentasi proses menuntut kerja nyata.
 
-
 Mode kegagalan kedua berada di dalam perancangan ulang itu sendiri: di lima metode [[pedagogy|pengajaran]] bahasa daring, ketegangan terkait autentisitas mendominasi catatan guru (11 dari 20), termasuk korosi realisme tugas — aktivitas yang dirancang ulang agar tahan AI alih-alih agar autentik ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi dan Khan (2026)]]).
 
 Kemunduran itu membawa biaya evidensial yang terlihat dalam bukti berkas kasus. [[munoz-misconduct-allegation-evidence-2026|Munoz dkk. (2026)]] mengodekan 1,162 tuduhan pelanggaran AI generatif dan menemukan jenis bukti terkuat dihasilkan oleh penyelidikan atau pengawasan, bukan oleh tuduhan itu sendiri, dan bukti proses seperti draf, pertemuan supervisi, dan presentasi hanya muncul di tempat praktik itu sudah ada — sehingga dalam penilaian yang tidak dirancang ulang, bukti proses yang direkomendasikan literatur ini tidak tersedia, dan kasus bersandar pada kategori yang lebih lemah. Yang menggantikannya adalah materi terlemah dalam korpus mereka: keluaran [[ai-detection|detektor]] memperoleh peringkat probatif terendah dari semua kategori, dan [[hadra-ai-detector-accuracy-efl-2026|Hadra dkk. (2026)]] menunjukkan alasannya, dengan akurasi makro 0.69 (Originality) dan 0.61 (Turnitin) pada 192 teks, kegagalan nyaris total pada tulisan hibrida manusia–AI, serta kecenderungan batas untuk salah membaca karya siswa EFL sebagai AI. [[wright-transcription-not-generation-2026|Wright (2026)]] menambahkan dimensi perancangan aturan: larangan yang ditulis berdasarkan identitas platform, bukan fungsinya, terlalu inklusif karena kecelakaan definisi, sehingga format yang diawasi dapat menghukum siswa yang tidak melakukan hal yang hendak dicegah aturan itu, dan paling keras menghantam siswa yang bergantung pada alat transkripsi untuk [[accessibility]]. Dibaca bersama, kemunduran itu menukar bukti terlemah yang tersedia dengan bukti proses yang akan dihasilkan desain autentik.
@@ -105,63 +106,3 @@ Kemunduran itu membawa biaya evidensial yang terlihat dalam bukti berkas kasus. 
 - **"Autentisitas adalah soal tugas yang realistis."** [[meta-analysis-systematic-review|Tinjauan cakupan]] [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud dan Du (2025)]] atas **37 studi empiris (2000-2024)** mengusulkan model desain **enam dimensi**, dan hanya **3 dari 37 studi yang membahas autentisitas sosial** — apakah penilaian membantu siswa berkontribusi pada transformasi masyarakat. Realisme adalah satu dimensi, dan dimensi yang paling maju justru nyaris tidak diteliti.
 - **"Penilaian autentik menolak AI."** Paparannya terukur dan besar: **gelar psikologi tiga tahun** terbukti **90% dapat dilalui**, dengan ChatGPT menghasilkan **keluaran yang memadai pada 36 dari 40 penilaian tugas kuliah**, dan hanya penilaian yang tersisa yang bertahan. Sebagian besar penilaian dalam satu gelar dapat dipenuhi AI.
 - **"Desain ulang bersifat opsional jika karyanya nyata."** Hasil 36-dari-40 ditemukan pada tugas kuliah yang autentisitasnya barangkali tidak dipertanyakan. Realisme tugas tidak melindungi dari penyelesaian oleh AI; rancangan atas apa yang dinilai yang melindungi.
-
-## Konsep terkait
-- [[learner-identity]] — identitas pembelajar yang berkembang secara disipliner, profesional, kreatif, dan akademik
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Penilaian sumatif: format yang tahan AI (ujian lisan, berpengawas, buku tertutup)
-- [[arts-and-media-education]]
-- [[reflection]]
-
-## Artikel terkait
-- [[thapa-lewis-process-oriented-assessment-2026]] — penilaian berorientasi proses dan autentisitas epistemik sebagai apa yang harus diautentikasi suatu tugas
-- [[ivory-psychology-assessment-integrity-2026]] — Apa yang tidak dapat dilalui AI: kehadiran, artefak visual, dan data siswa sendiri (Ivory dkk. 2026)
-- [[paternalistic-filter-llm-history-education]] — Penggunaan AI yang paternalistik dan identitas siswa dalam pendidikan sejarah
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Merancang untuk Penilaian Autentik: Sebuah Tinjauan Cakupan
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui Deteksi: Penilaian Autentik
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang Bertanggung Jawab di Era AI
-- [[authentic-products-authenticated-processes-2026]] — Produk Autentik, Proses Terautentikasi
-- [[tool-invariant-framework-agentic-ai]] — Kerangka Invarian Alat untuk Mengajar dan Menilai Metode Komputasional
-- [[cong-confidence-asag-2026]] — Penskoran jawaban singkat otomatis yang sadar keyakinan
-- [[llm-fallacy-misattribution]] — Kekeliruan LLM dan Salah Atribusi Kompetensi
-- [[universities-ai-era-rethinking]] — Memikirkan Ulang Universitas di Era AI
-- [[ssaho-ai-academic-integrity-review-2025]] — Berbagai metode penilaian untuk menangkal pelanggaran AI
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mempertimbangkan ulang ujian lisan sebagai penilaian autentik yang tahan AI
-- [[roe-assessment-twins-2026]] — Kembaran penilaian untuk memperkuat validitas penilaian di era GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Kapabilitas adaptif untuk menjamin kualitas pembelajaran di masa depan yang terintegrasi AI generatif (Lodge dkk. 2026)
-- [[asynchronous-oral-assessment-2026]] — Penilaian Lisan Asinkron di Era AI (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: menilai pembelajaran melalui interaksi GenAI (DRI + Keahlian yang Terlihat)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Kriteria autentisitas yang membuat kelompok siswa mengurangi penggunaan GenAI
-- [[teacher-educators-ai-integration-preservice-2026]] — Krisis kepercayaan AI yang mendorong pendidik guru kembali ke ujian berpengawasan dan pembelaan lisan (Goldstein dkk. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Desain berorientasi integritas yang dibedakan dari penilaian autentik: membuat pertimbangan terlihat (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya dikandung berkas tuduhan pelanggaran sebagai bukti, dan bukti proses yang tidak dimilikinya (Munoz dkk. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Akurasi detektor dan kegagalan tulisan hibrida: mengapa deteksi merupakan bukti cadangan yang lemah (Hadra dkk. 2026)
-- [[wright-transcription-not-generation-2026]] — Larangan AI yang terlalu inklusif: transkripsi bukan pembangkitan (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Merancang Penilaian Autentik dengan AI Generatif: Studi Percontohan Assessment Authentifire di Pendidikan Tinggi
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Korosi realisme tugas: desain ulang yang tahan AI mengikis autentisitas dalam pengajaran bahasa daring
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Format yang tampak autentik (presentasi terekam, proyek kelompok jarak jauh, artefak digital) memperoleh skor tinggi di seluruh 53,915 butir: autentisitas tidak memverifikasi kepengarangan

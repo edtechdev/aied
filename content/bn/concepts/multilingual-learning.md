@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -70,28 +72,3 @@ ai_assist:
 - **"লক্ষ্য-ভাষা প্রথম দিন থেকেই প্রাধান্য পাওয়া উচিত।"** **24টি গবেষণার একটি পদ্ধতিগত পর্যালোচনায়** শিক্ষার্থীরা **নিজের ভাষায় প্রসঙ্গযুক্ত বাক্যাংশ ও ব্যাখ্যা চেয়েছেন লক্ষ্য-ভাষায় সেতু হিসেবে** — পর্যালোচকেরা এই ব্যবহারকে কাজ চালানোর কৌশল নয়, সত্যিই একটি নতুন উপ-সক্ষমতা হিসেবে শ্রেণিবদ্ধ করেন। ঘরের ভাষার সহায়তা কাজ করেছে [[scaffolding|স্তরবিন্যাস]] হিসেবে, এড়ানোর উপায় হিসেবে নয়।
 - **"এআই ভাষা-মূল্যায়ন বহুভাষিক লেখকদের প্রতি পক্ষপাতদুষ্ট।"** এখানে পক্ষপাত **মডেলের বদলে মানব-ভিত্তিরেখাকে** অনুসরণ করেছে: **তৃতীয়-ষষ্ঠ শ্রেণির তথ্যমূলক লেখায় এলএলএম-ভিত্তিক তুলনামূলক বিচার গবেষক-রুব্রিকের সঙ্গে মিলেছে (r = .59-.73)** এবং মানব-রেটারদের যে ধরন, সেই একই ধরন দেখিয়েছে। এটি পরম অর্থে ন্যায্যতার প্রমাণ নয় — এটি প্রমাণ যে মডেল বিদ্যমান বিকৃতির উপর নতুন বিকৃতি যোগ করেনি।
 - **"অনুবাদ-গুণমানের আউটপুটই উপযোগী অংশ।"** সেতু-ব্যবহারটি ব্যাখ্যামূলক ও অবস্থিত, প্রতিস্থাপনমূলক নয়। যে সরঞ্জাম শিক্ষার্থীর নিজের উৎপাদন প্রতিস্থাপন করে, তা সেই অনুশীলনটিই সরিয়ে দেয় যা সেতু তৈরি করতে চেয়েছিল।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — জেনএআই চ্যাটবট ট্রান্সল্যাঙ্গুয়েজিং সক্ষমতা দেয়, যা পূর্ববর্তী ভাষা-সরঞ্জাম সমর্থন করত না
-- [[llm-comparative-judgment-writing-screening-2026]] — সার্বজনীন লেখা-স্ক্রিনিংয়ে বৃহৎ ভাষা-মডেল তুলনামূলক বিচারের বৈধতা
-- [[multilingual-adaptive-learning-nigeria-2026]] — নাইজেরিয়ার জন্য এআই-ভিত্তিক অভিযোজিত শিখন প্ল্যাটফর্ম
-- [[bilingual-llm-lecture-companion-srl-2026]] — দ্বিভাষিক এলএলএম বক্তৃতা-সহচর
-- [[structural-silence-underrepresented-language-ai-2026]] — কাঠামোগত নীরবতা: অনুপ্রতিনিধিত ভাষা
-- [[llm-cultural-relevance-k12]] — K-12-এ এলএলএম সাংস্কৃতিক প্রাসঙ্গিকতা
-- [[scaffolding-critical-engagement-genai-minority-students]] — সংখ্যালঘু শিক্ষার্থীদের মধ্যে জেনএআই-এর সঙ্গে সমালোচনামূলক সম্পৃক্তি
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: ভারতীয় জ্ঞান-ব্যবস্থা উপাত্তসেট
-- [[kutti-ai-voice-first-learning-companion]] — কণ্ঠ-প্রথম শিখন-সহচর
-- [[ai-scoring-language-bias-physics]] — পদার্থবিজ্ঞানে এআই স্কোরিংয়ের ভাষা-পক্ষপাত

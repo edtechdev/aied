@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -114,25 +116,3 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 **«Un tutor que detecta la emoción en un rostro conoce el estado del estudiante.»** El afecto se infiere, no se observa, y la inferencia es más débil justo donde las consecuencias son mayores. [[ecnuclaw-k12-personalized-companion|Zhou, Li y Zhang (2026)]] mantienen una dimensión emocional en un perfil de quien aprende de cinco dimensiones pero la pueblan con diccionarios de palabras clave, de modo que un estudiante que expresa frustración con palabras que el diccionario no contiene simplemente no queda perfilado, y el perfil no se ha validado frente al juicio de personas expertas. La captura facial añade un flujo de vídeo continuo y una exposición de privacidad que la inferencia a partir del texto no tiene.
 
 **«Las mediciones de emoción tomadas en momentos distintos son intercambiables.»** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] encuentran que el afecto ordenado muestra persistencia de corto alcance y transiciones direccionales, y que los informes captados por sonda, los bucles autorreferentes en torno a la curiosidad y la confusión, son una medición distinta de los captados por la propia persona, como la frustración y la sorpresa. Promediar ambos en una frecuencia resumen descarta la secuencia que porta la señal.
-
-## Conceptos conectados
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Artículos conectados
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-
-- [[shastry-gray-empathy-offloading-2026]] — Las personas descargan la empatía cuando creen que la IA puede ofrecerla (Shastry y Gray 2026)

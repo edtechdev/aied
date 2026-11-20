@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 connected_resources: [teacher-dev]
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -89,46 +91,3 @@ Un conjunto concentrado de estudios de 2026 del *International Journal of STEM E
 - **«La tutoría inteligente funciona de forma uniforme en todas las áreas STEM.»** Una revisión narrativa estructurada de **20 publicaciones (2020-abril de 2026)** encontró la ventaja medida más clara en la tutoría de **diagnóstico en tiempo real** específicamente. La evidencia es **acotada y condicional**, y generalizarla a toda la tutoría inteligente en matemáticas exagera lo que se revisó.
 - **«La simulación es un sustituto pobre del trabajo práctico.»** El grupo de simulación **superó al grupo práctico en conocimiento STEM alineado con el currículo (M = 3,00 frente a 2,06; t(28) = 2,23, p = 0,034, d = 0,82)**. La simulación no era un recurso de reserva con un rendimiento inferior al de la actividad real.
 - **«Un flujo de trabajo de revisión de literatura con IA sobre todo ahorra tiempo.»** Los resultados de **20 estudiantes con 80 documentos** mostraron **más del 90% de extracción de parámetros experimentales, una reducción de alrededor del 65% en el tiempo de revisión de literatura y un aumento del 50% en la capacidad del estudiantado para identificar** trabajo influyente. La ganancia de capacidad fue el resultado mayor y el ahorro de tiempo el menor.
-
-## Conceptos conectados
-- [[learner-identity]] — identidades de quien aprende en evolución: disciplinares, profesionales, creativas y académicas
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Educación en química e IA: laboratorios, evaluación formativa, límites de los LLM, filosofía de la experimentación
-- [[biology-education]] — Educación en biología e IA: asistentes docentes de laboratorio, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
-
-## Artículos conectados
-- [[ai-pedagogical-accompaniment-amico]] — Acompañamiento pedagógico habilitado por IA que apoya la identidad STEM
-- [[lnenicka-secondary-students-genai-stem-2026]] — Qué hacen de verdad los estudiantes de secundaria con las herramientas de IA generativa en STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y formulación de problemas en ciencias de primaria
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para el aprendizaje basado en la indagación en STEAM
-- [[niri-steam-ai-literacy-review-2026]] — Educación STEAM para la alfabetización en IA: revisión sistemática
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programa STEM adaptativo basado en IA para el aprendizaje profundo
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Perfiles de aceptación de ChatGPT en docentes en formación
-- [[zhang-ct-ai-training-test-2026]] — Test de pensamiento computacional en la formación con IA (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Herramienta, tutor o muleta: teoría fundamentada de la programación asistida por IA
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisión sistemática de la IA en la educación científica y química
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información con IA que apoya el trabajo de fin de grado y el aprendizaje basado en la investigación (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Aprendizaje con drones asistido por simulación con andamiajes codiseñados por docentes e IA
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Efecto agrupado de la instrucción STEM apoyada por IA en 35 estudios, con las mayores ganancias en secundaria superior (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Gemelos digitales en STEM: todos los estudios revisados entregaron un prototipo funcional, pocos midieron aprendizaje
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Una sesión de 45 minutos sobre prompts y comprobación de errores elevó las puntuaciones del postest de física (*d* = 0,814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — La evidencia de los ITS en matemáticas es acotada y condicional

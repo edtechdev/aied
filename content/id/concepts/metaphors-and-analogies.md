@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -120,36 +122,3 @@ Literatur dalam basis pengetahuan ini tidak merata. Studi metafora dosen dan sis
 Itu tidak membuat pekerjaannya tidak berguna. Itu membuat klaimnya tetap pantas sederhana. Elisitasi metafora dapat mengungkap asumsi yang terlewat oleh survei. Kritik analogi dapat membuat pemahaman struktural terlihat. Metafora yang dipilih dengan baik dapat memberi kelas sebuah objek bersama untuk diperdebatkan. Tetapi bidang ini masih membutuhkan studi yang membandingkan pengajaran berbasis metafora dengan pengajaran biasa, mengukur transfer alih-alih ingatan tentang metafora, dan menguji apakah pendekatan itu berjalan lintas budaya dan disiplin.
 
 Risiko klaim berlebihan itu nyata di kedua arah. Guru yang memperlakukan metafora sebagai penjelasan lengkap dapat menanamkan miskonsepsi. Peneliti yang memperlakukan metafora sebagai sekadar hiasan dapat melewatkan mekanisme yang dengannya siswa membangun atau gagal membangun model mental. Posisi yang produktif adalah memperlakukan metafora sebagai representasi yang dirancang, parsial, dan dapat dikritik, dan mempelajari apa yang dilakukan pembelajar dengannya.
-
-## Konsep terkait
-
-- [[ai-literacy]] — payung bagi literasi AI kritis dan pengajaran berbasis metafora.
-- [[critical-thinking]] — kritik analogi sebagai bentuk penalaran struktural.
-- [[misconceptions]] — analogi yang cacat sebagai sumber miskonsepsi yang bertahan lama.
-- [[student-ai-interaction]] — bagaimana siswa menafsirkan dan mengaudit penjelasan AI.
-- [[pedagogical-agent]] — tutor AI yang menghasilkan penjelasan atau analogi.
-- [[learning-design]] — memilih dan mengurutkan materi berbasis analogi.
-- [[educational-development]] — elisitasi metafora dalam pengembangan dosen.
-- [[engineering-education]] — metafora dosen dan siswa dalam teknik.
-- [[cs-education]] — penggunaan dan kritik analogi dalam pendidikan komputasi.
-- [[cognitive-offloading]] — metafora alat dan asisten serta risikonya.
-- [[trust-calibration]] — peran antropomorfik dan kepercayaan yang salah tempat.
-- [[equity-in-ai-education]] — domain sumber siapa yang dianggap familiar.
-- [[teacher-role]] — pertimbangan instruktur atas penjelasan yang dihasilkan AI.
-- [[explainable-ai]] — penjelasan sistem versus analogi pedagogis.
-- [[student-engagement]] — efek keterlibatan dari analogi yang dipersonalisasi.
-- [[higher-ed]] — latar sebagian besar studi dalam klaster ini.
-
-## Artikel terkait
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Empat metafora dan kriteria untuk mengajarkan literasi AI kritis
-- [[student-reception-genai-analogies-computing-2026]] — Siswa mengaudit analogi yang dihasilkan GenAI dan memperbaiki pemetaan yang rusak
-- [[fear-awe-genai-metaphor-workshops-2025]] — Lokakarya analisis metafora dengan siswa, akademisi, dan staf
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Metafora dosen teknik membangun dan membatasi pemahaman AI
-- [[genai-professionalization-metaphors-2026]] — Konseptualisasi metaforis siswa atas GenAI dan pembelajaran profesional
-- [[thermomix-genai-education-analogy-2026]] — Analogi mesin dapur untuk delegasi dan pembelajaran dengan AI
-- [[anvil-ai-educational-animations]] — Analogi yang dihasilkan AI dan animasi instruksional untuk komputasi
-- [[ai-engineering-education-balancing-act]] — Metafora "oracle" dan "tutor" siswa melampaui kapabilitas LLM
-- [[code-anchor-multi-view-visualization]] — Perancah visualisasi metaforis dan masalah legitimasinya
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Metafora "mesin penjual umpan balik" seorang siswa sebagai bukti literasi
-- [[daoism-ai-education-philosophy-2026]] — "Zhenren" sebagai kontra-metafora bagi AI dalam pendidikan

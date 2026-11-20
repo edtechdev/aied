@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -109,62 +111,3 @@ AI में बहुमाध्यमिता का अर्थ केव�
 **"बहुमाध्यमी क्षमता एक ही सीढ़ी है, इसलिए समग्र रूप से सर्वश्रेष्ठ मॉडल चित्र-समृद्ध कार्य के लिए भी सर्वश्रेष्ठ है।"** क्षमता कार्य-विशिष्ट है, और सामान्य [[benchmark|बेंचमार्क]] पर आगे रहने वाला मॉडल बल-आरेखों पर पीछे रह सकता है। चित्र-समृद्ध अनुशासनों के लिए प्रासंगिक परीक्षण वही है जिसमें अर्थ आकृति में निहित हो।
 
 **"केवल-पाठ ट्यूटरिंग की सीमाएँ झंझट हैं, [[curriculum-design|पाठ्यक्रम]] की समस्या नहीं।"** जिन अनुशासनों में आरेख *ही* समस्या है (भौतिकी, रसायन, ज्यामिति, अभियांत्रिकी, चिकित्सा), वहाँ केवल-पाठ ट्यूटर की सक्षमता सीमा मूल्यांकित सामग्री के किनारों पर नहीं बल्कि उसके आर-पार पड़ती है।
-
-## संबंधित अवधारणाएँ
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — छत्र: AI तकनीकें और तकनीकी विधियाँ (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-- [[virtual-and-augmented-reality]] — सीखने के माध्यमों के रूप में इशारा, आवाज़ और स्थानिक इनपुट
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-## संबंधित लेख
-- [[elkington-human-centred-assessment-value-2026]] — मानव-केंद्रित मूल्यांकन, संयोजन और जनरेटिव बाध्यताएँ (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — AI नैतिकता पर महत्वपूर्ण AI साक्षरता शिक्षाशास्त्र के रूप में वीडियो PSA संयोजन (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — रियल-टाइम छात्र ध्यान आकलन के लिए निष्पक्षता-जागरूक बहुमाध्यमी ट्रांसफ़ॉर्मर मॉडलिंग
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — हस्तलिखित छात्र गणित कार्य पर VLM प्रदर्शन (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — जनरेटिव AI के साथ बहुमाध्यमी सीखने पर शिक्षक-मार्गदर्शिका (MMLD-AI मॉडल)
-- [[syal-multimodal-dialogue-stem-2026]] — STEM में बहुमाध्यमी हस्तक्षेप प्रभाव और संरचित-संवाद पुनर्प्राप्ति
-- [[multimodal-ai-feedback-learning]] — बहुमाध्यमी AI प्रतिपुष्टि सीखने में शिक्षकों के बराबर, धारणाओं में आगे
-- [[multimodal-prompting-ai-literacy]] — AI साक्षरता में ज्ञानमीमांसात्मक कार्य के रूप में शिक्षार्थियों की बहुमाध्यमी प्रॉम्प्टिंग
-- [[multimodal-item-parameter-estimation-2026]] — बहुमाध्यमी LLM से IRT आइटम प्राचलों का आकलन
-- [[ai-guided-learning-audiovideo-2026]] — AI-निर्देशित ऑडियो-वीडियो सीखने का समर्थन
-- [[multimodal-knowledge-graph-educational-reasoning]] — शैक्षणिक तर्क के लिए बहुमाध्यमी ज्ञान-ग्राफ़
-
-- [[kim-ai-embodied-learning-review-2026]] — अंतःस्थापित सीखने में AI मुख्यतः अवलोकन करता है: संवेदन भूमिकाएँ कोडित भूमिका-टैग का 62.5%, और किसी समीक्षित प्रणाली ने शिक्षार्थियों के उपयोग के दौरान बहुमाध्यमी धाराएँ संलयित नहीं कीं (Kim और Han 2026)
-
-- [[mllm-scientific-visualization-literacy]] — वैज्ञानिक चित्रन के लिए बहुमाध्यमी LLM साक्षरता
-- [[multimodal-affective-its-presentation]] — भावनात्मक बुद्धिमान ट्यूटरिंग में बहुमाध्यमी संकेत
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — भावनात्मक बहुमाध्यमी गणित ट्यूटरिंग
-- [[llm-cognitive-diagnosis-handwritten-math]] — हस्तलिखित गणित का LLM संज्ञानात्मक निदान
-- [[nuclear-diffusion-text-to-image-learning-2026]] — परमाणु इंजीनियरिंग शिक्षा में पाठ-से-चित्र सीखना
-- [[privacy-aware-classroom-incident-recognition-2026]] — गोपनीयता-जागरूक बहुमाध्यमी कक्षा संवेदना
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — साइबरसुरक्षा शिक्षा में बहुमाध्यमी OCR निर्देश
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: स्लाइड ऑडिटिंग के लिए बहुमाध्यमी LLM का बेंचमार्किंग
-- [[ai-grading-handwritten-physics-2026]] — हस्तलिखित भौतिकी मूल्यांकनों का AI अंकन (ओलंपियाड)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — प्राथमिक लेखन में बहुमाध्यमी AI संयोजन और महत्वपूर्ण चिंतन (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — जनरेशन और सटीकता से आगे: ज्यामिति समस्या समाधान के लिए दृश्य चेन-ऑफ़-थॉट का निदान और सुधार
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174 कलाकृतियों पर 12 कार्य VLM क्षमता को विमान-विशिष्ट प्रोफ़ाइल के रूप में दिखाते हैं, भावनात्मक व्याख्या और दृष्टि-निर्भर स्थानिक तर्क में सबसे कमज़ोर (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — प्रायोगिक भौतिकी प्रयोगशाला रिपोर्टों का AI-सहायित मूल्यांकन: संभावनाएँ, सीमाएँ और शिक्षण अभ्यास के लिए समर्थन

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -48,7 +49,3 @@ Aux enseignants du primaire et du secondaire qui veulent un outil pour un probl�
 ## Remarques et réserves
 
 Le rythme est à la fois l'argument et le risque. Les constructions d'un jour visent un vrai problème de classe, non une question de recherche, si bien que rien ici ne porte d'évaluation et qu'une affirmation sur ce que fait une application devrait être testée en classe. Trente-deux dépôts publics se trouvent dans l'organisation GitHub alors que la galerie en liste 34, tous sous Apache-2.0 avec le code disponible, si bien qu'une application peut être lue et auto-hébergée. La conception en local d'abord est une affirmation à vérifier application par application, et un enseignant devrait vérifier avant de placer un outil destiné aux élèves devant une classe.
-
-## Concepts liés
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

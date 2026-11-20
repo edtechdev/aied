@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,6 +62,3 @@ komersial. Repositorinya melaporkan 314 dari 320 poin pada sepuluh tantangan yan
 merupakan evaluasi penulis sendiri alih-alih evaluasi independen, dan penulis yang sama menjual
 konsultasi dan lokakarya tentang kerangka ini. Proyek ini digambarkan sebagai upaya pribadi yang tidak
 berafiliasi dengan pemberi kerjanya, dan commit terakhirnya bertanggal April 2026.
-
-## Konsep terkait
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

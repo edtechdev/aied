@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -68,35 +70,3 @@ Verkörpertes Lernen verbindet sich mit [[educational-robotics|Bildungsrobotik]]
 - **„Der Körper ist das, was verkörpertes Lernen zum Funktionieren bringt."** Eine Metaanalyse von **11 RALL-Studien (N = 595, g = 0,83, I² = 84,4%)** fand, dass **Robotermorphologie, Modalität, Autonomie und soziale Rolle** die Ergebnisse des [[language-learning|Zweitsprachenlernens]] **nicht moderierten**. Die Verkörperungsmerkmale waren nicht der wirksame Bestandteil, und die Heterogenität war hoch genug (I² = 84,4%), dass der gepoolte Effekt eine sehr gemischte Gruppe von Interventionen beschreibt.
 - **„Ein großer Effekt entscheidet über den Mechanismus."** g = 0,83 mit 595 Teilnehmenden über 11 Studien ist ein echtes Signal, und es identifiziert nicht, was es erzeugt hat. Da die Designmerkmale den Effekt nicht moderierten, sitzt der plausible Mechanismus in der pädagogischen Aktivität statt in der Hardware — was verändert, worin zu investieren ist.
 - **„Verkörperung lässt sich nicht messen und bleibt deshalb theoretisch."** Körperverfolgung kann Regulation in ein **messbares Signal** verwandeln: In einer Mixed-Reality-Photosynthese-Simulation, in der Bewegungs-Tags Studierendenagenten über ein projiziertes Modell bewegten, labelte eine LLM-Pipeline **470 Segmente** Regulationsverhalten. Das Konstrukt ist operationalisierbar, auch wo es schwer zu definieren ist.
-
-## Verbundene Konzepte
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — die Modalität, die Verkörperung direkt auszunutzen versucht
-
-## Verbundene Artikel
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Mit Bewegungsverfolgung versehene Photosynthese-Simulation, analysiert mit einer LLM-Pipeline (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ein multimodaler Rahmen für verkörperte Kognition in mündlichen Erklärungen
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Dauerhaftes Lernen durch verkörperte Intelligenz fördern (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper und Gebärdensprache
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integration von Robotern und LLMs im kreativen Schreiben
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Metaanalyse KI-gestützten verkörperten robotergestützten Sprachlernens
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — KI als Begleitung nach handgebauten Modellen: Eine sprachbasierte KI kann verkörperter Untersuchung nicht folgen (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — KI im verkörperten Lernen beobachtet meist: Wahrnehmungsrollen 62,5 % der kodierten Rollen-Tags, und kein begutachtetes System führte multimodale Ströme zusammen, während Lernende es nutzten (Kim & Han 2026)
-

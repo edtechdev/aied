@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -97,34 +99,3 @@ ai_assist:
 - **“微笑意味着温暖。”** 在令人痛苦的临床接触中，观察者把微笑读作不协调，而面部动作检测器把它读作积极情感。情境是缺失的变量。
 - **“自陈量表测量共情。”** 它们测量一种倾向或自我概念；它们不测量一次接触中的行为。
 - **“越沉浸总是越好。”** 沉浸式方法显示出更大的增益，但成本与时长是数倍，而且这些比较并没有让接触量相等。
-
-## 关联概念
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## 关联文章
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 在 IRI 上角色扮演 13.2%、VR 11.6%、人工智能对话 8.8%，暴露时间混杂（Zwoliński 等，2026）
-- [[nissan-nursing-empathy-computer-vision-2026]] — 身体接触检测与观察者一致；微笑检测呈负相关（Nissan 等，2026）
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13 轮交流后自我评估胜任力上升 d = 0.58，无对照组（Müller 等，2026）
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 项研究；信心增益常见，共情证据有限（Ismail 与 Zafira，2026）
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA 与生成式图像作为一条唤起通路，共情只是被声称而非被测量（Lim 等，2024）
-- [[shastry-gray-empathy-offloading-2026]] — 对人工智能共情能力的信念预测了更低的提供支持意愿（Shastry 与 Gray，2026）
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 一个 42 项的倾向量表，其因子结构与设计不符（Kang 等，2026）
-- [[empathy-coaching-chatbot]] — 共情式语言提升了被理解感，而它预测的是参与而非行为改变（Siyan 等，2026）
-- [[wang-teacher-student-centered-agents-physics-2026]] — 提示指定的角色与动作产生了很大的感知共情差异（Wang 等，2026）
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 护理专业学生把人工智能描述为临床压力中的情感支持（Akbaba 等，2026）

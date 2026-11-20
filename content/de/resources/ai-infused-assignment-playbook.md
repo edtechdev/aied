@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -48,16 +49,3 @@ Lehrende aller Fächer, besonders in der Hochschulbildung und in berufsqualifizi
 ## Hinweise und Einschränkungen
 
 Dies ist ein praktischer Leitfaden, keine empirische Studie; seine Aussagen über die KI-Nutzung durch Studierende stützen sich auf zitierte externe Quellen (BestColleges, Campbell, Digital Education Council, Flaherty) und nicht auf neue Daten. Das Framework der „Netzwerkkonstruktion“ und die Rahmung der „Illusion des Verstehens“ sind der weiteren Literatur entnommen (Wigmore et al.; Williamson et al.) und werden als pädagogische Begründung präsentiert, nicht als geprüfte Ergebnisse des Playbooks selbst. Die Aufgaben sind selbst verfasste Vorlagen – für keine werden Effektstärken berichtet, sodass sie als Entwürfe zu behandeln sind, die lokal angepasst und evaluiert werden sollten. Veröffentlicht am 2026-10-07 als v1 auf Zenodo unter CC BY 4.0; kostenlos ohne Konto herunterzuladen. Zum Zeitpunkt der Erfassung zeigt der Datensatz nur ~35 Aufrufe und ~14 Downloads, sodass er bisher wenig externe Nutzung oder Peer Review gesehen hat.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

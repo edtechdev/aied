@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -96,36 +98,3 @@ ai_assist:
 **"非西方哲学只是给不变的框架添加内容。"** 它可以是不同基础的来源。一种重构把道家概念（"道性"、修道与"真人"）不是当作附加在西方框架上的"东方内容"，而是当作重塑理解教育中 AI 之概念基础的资源。把一种传统作为例证来添加，与用它来重构问题，是不同的学术行动。
 
 **"哲学批判无法付诸行动。"** 它设定什么算成功。一个系统的产出是否算学习者的成就，一项被测量的增益是否是教育上的善，都是先决问题，任何效应量都无法回答；跳过它们的机构会优化可测量的东西，并称之为改进。
-
-## 关联概念
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — 化学教育与 AI：实验室、形成性考评、LLM 的限度、实验哲学
-
-## 关联文章
-
-- [[genai-chinese-higher-education-integrity-2026]] — 中国高等教育中的 Gen-AI：诚信与参与
-- [[ensemble-cognition-philosophy-ai-education]] — 集合认知：一个人—AI 认知的哲学框架
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 教学共生与后人类学习者
-- [[videla-embodied-ai-education-choreography]] — 对教育中无身 AI 的具身的、后认知主义批判
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 人文学科中解释性认知的发展—批判模型
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 认识论共同能动性作为一种与机器学习的哲学
-- [[avraamidou-ai-colonization-science-education]] — 质疑教育被 AI 殖民的批判女性主义哲学
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 作为中介智能体的生成式 AI
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI 的生态学习科学框架
-- [[philosophy-experimentation-ai-chemistry-2026]] — 化学中与 AI 共处的实验哲学
-- [[strydom-human-gai-paradigms-2026]] — 框定人—AI 动态：七种 GAI 参与范式（Strydom 2026）
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — "以人为中心"的 AIED 被读作一种具有商业用途的人类中心主义话语（Wang 与 Jin 2026）
-- [[daoism-ai-education-philosophy-2026]] — 替代性 AI 哲学：作为教育中 AI 之方法的道家
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁回应？对生成式 AI 高等教育研究中能动性、认识论责任与问责的语料辅助话语分析
-- [[khan-machines-emotional-labor-education-2026]] — 机器能从事情感劳动吗？1950–1996 年的争论，以及为何模仿不足以确定关怀
-

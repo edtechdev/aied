@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -108,42 +110,3 @@ ai_assist:
 **“饱和是参与者数量的属性。”** 它是分析的属性：当新数据不再产生新编码时你就停止。两项样本量相同的研究，可能同样远离饱和；这就是为什么把参与者数量当作充分性证据的报告，并未证明任何关于覆盖面的东西。
 
 **“定量与质性发现相互竞争。”** 它们回答不同的问题：调查告诉你多少学生不信任一个辅导者，访谈告诉你为什么。把它们当作对同一事物的对立叙述，会产生综述部分不断复制的虚假选择。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI 辅助教育研究
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## 关联文章
-
-- [[chain-behind-claim-warrantability-2026]] — AI 辅助质性分析的可辩护性标准
-- [[liu-tool-tutor-crutch-programming-2026]] — 工具、导师还是拐杖：AI 辅助编程的扎根理论
-- [[trio-ethnography-llm-programming-education]] — LLM 支持编程中解释演化的三人民族志
-- [[absent-cognitive-baseline-2026]] — 理论化 AI 原生学生自我评估中的一个结构性缺口
-- [[t2i-competence-paradox-2026]] — 文生图 GenAI 使用中的能力悖论
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 物理教育中的信任–效用落差
-- [[genai-teacher-feedback-comparison]] — 比较 GenAI 与教师反馈：学生感知
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 导师安全与教学伤害
-- [[zha-ai-literacy-biology-case-study]] — 生物课堂中 AI 素养整合的案例研究
-- [[becker-chatgpt-typology-physics-2026]] — 物理中 ChatGPT 采纳的质性类型学
-- [[scaffolding-critical-engagement-genai-minority-students]] — 少数族裔学生在提示工程中的协作话语
-- [[human-vs-llm-ordered-coding]] — 比较人与 LLM 对质性数据的有序编码
-- [[agreement-not-quality-llm-coding-verification]] — LLM 质性编码中一致性不等于质量
-- [[same-ai-different-pathways]] — 跨情境拆解 AI 中介学习的机制
-- [[drummond-genai-business-schools-framework-2026]] — 通过案例研究得出的由学生知情的 GenAI 框架
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — 批判性 AI 导师：赋权还是奴役
-- [[genai-runaway-object-math-higher-ed]] — GenAI 作为高等教育数学中的一匹失控野马
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — GenAI 辅助写作中英语学习者的情绪投入：一项纵向多重案例研究

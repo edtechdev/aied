@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -43,9 +44,3 @@ Undervisere, der beslutter, om et bedømmelsesværktøj må frigive karakterer u
 ## Noter og forbehold
 
 GradeBench udgives af Pensive, en kommerciel AI-bedømmelsesplatform, så benchmarket og produktet deler ejer; opgavekonstruktionen er dokumenteret og forsvarlig, men behandl indramningen som leverandørens. Den dækker STEM-eksamener med rubrics på mindst fire punkter, hvilket udelukker essays, korte svar og diskussionsindlæg — de formater, hvor det meste bedømmelse i [[humanities-education|humaniora]] finder sted. Eksakt rubric-match er en streng metrik: to bedømmere kan være uenige om et punkt og begge have ret om den studerende. Scorerne beskriver modelversioner, der er tilgængelige i november 2026, og de vil flytte sig.
-
-## Relaterede begreper
-
-- [[automated-assessment]] — den praksis, benchmarket måler
-- [[assessment-validity]] — det kriterium, en leaderboard-score er en proxy for
-- [[benchmark]] — den bredere klasse af instrumenter, dette hører til

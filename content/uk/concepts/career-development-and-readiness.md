@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -76,41 +78,3 @@ ai_assist:
 - **«Тривожність щодо ШІ — загальна схильність, яку можна заспокоїти».** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] підтверджують за допомогою SEM, що тривожність щодо ШІ **погіршує кар’єрні рішення здебільшого через еродовану кар’єрну адаптивність (63,35% загального ефекту)**. Механізм конкретний: тривожність діє, забираючи здатність адаптуватися, тож заспокоєння, спрямоване на почуття, оминає посередника, який несе ефект.
 - **«Кар’єрна адаптивність — м’яка навичка, другорядна щодо технічної компетентності».** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] показує, що кар’єрна адаптивність **зменшує тривожність щодо ШІ**, що робить її висхідним втручанням, а не низхідним результатом. Будівництво адаптивності працює з механізмом; трактування її як приємного доповнення лишає посередника недоторканим.
 - **«Тривожність щодо ШІ розподілена рівномірно».** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] виявляють, що тривожність щодо ШІ й негативні ставлення до ШІ передбачають тривожність пошуку роботи після випуску серед **1 057 студентів**, із різними патернами для **жінок і студентів соціальних наук**. Універсальне втручання розподіляє підтримку неправильно.
-
-## Пов’язані поняття
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — результати, що слідують за завершенням: стійкість, утримання та випуск
-
-## Пов’язані статті
-- [[ai-free-gates-engineering-students-india-2026]] — Від воріт без ШІ до роботи, де ШІ перший: як індійські студенти-інженери орієнтуються в університетській освіті та кампусних відборах без вказівок щодо ШІ
-
-- [[boyd-swan-employer-responses-genai-2026]] — Експеримент-опитування з ~1 750 американських фахівців із найму: кадрування як заміни знижувало готовність до співбесіди й переговорів про зарплату, найбільше для кандидатів із високим GPA (Boyd-Swan & Reynolds 2026)
-
-- [[ai-literacy-graduate-employability-2026]] — Свідчення PLS-SEM, що ШІ-грамотність досягає сприйнятої працевлаштовуваності через кар’єрну адаптивність, при чому мислення зростання не додає нічого (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Компроміси між оцінюванням і компетентністю робочої сили, вирішені завдання за завданням (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — кар’єрні адаптивності зменшують тривожність щодо ШІ
-- [[ai-literacy-career-adaptability-business-2026]] — ШІ-грамотність і кар’єрна адаптивність в освіті у сфері бізнесу
-
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Вісім фокус-груп: користувачі віддають належне ефективності й доопрацюванню, некористувачі — оригінальності та командній роботі (асистована автономія проти повільної креативності)
-
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Навички ШІ для випускників коледжів: пріоритети викладачів і роботодавців
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — готовність робочої сили до смарт-виробництва
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — ШІ та майбутнє інженерної/обчислювальної робочої сили
-- [[post-covid-ict-career-aspirations]] — Кар’єрні прагнення в ІКТ після COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — Тривожність щодо ШІ і страх заміни
-- [[duan-ai-anxiety-career-decisions-college-2026]] — Тривожність щодо ШІ погіршує кар’єрні рішення через кар’єрну адаптивність (медіація 63,35%)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — Тривожність щодо ШІ та ставлення передбачають тривожність пошуку роботи (1 057 студентів)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Тривожність щодо ШІ передбачає тривожність пошуку роботи в медичних науках (r=0,233, 821 студентів)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Чотири профілі ставлення до ШІ: кар’єрний крафтинг і працевлаштовуваність відстежували залученість, а не тривожність
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Прогнози викладачів — це передбачення, а не докази про зайнятість
-
-- [[kong-ai-employability-cognitive-engagement-2026]] — Карта конструктів наративного огляду від навчання з підтримкою ШІ до працевлаштовуваності
-

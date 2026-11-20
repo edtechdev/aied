@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -87,7 +89,6 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 
 신호는 구성개념을 뒤집을 수도 있습니다. 기록된 37건의 간호 [[simulation|시뮬레이션]]에서 미소 탐지기는 관찰자가 평정한 [[empathy|공감]]과 부정적으로 상관한(r = −0.322) 반면, 신체 접촉 탐지는 네 가지 관찰자 측정과 0.46에서 0.54로 일치했습니다. 관찰자들은 고통 중인 환자를 향한 미소를 부적절함으로 읽고 있었고, 모형은 얼굴 동작을 읽고 있었던 것입니다([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
 
-
 센서는 연구가 상호작용이라고 주장하는 곳에서 공존을 기록할 수 있습니다: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]는 자세 기반 검출기가 재현율 55%에 그쳐, [[teacher-role|교사]]–학생 집단 상호작용에서 인간 코더가 확인한 20개 사건 가운데 11개만 잡아냈음을 발견했습니다. 코딩된 구간의 49.2%에서 교사가 집단 경계 안에 있었으나 학생들이 교사를 바라본 경우는 25.4%에 그쳤고, 어느 비교에서도 오디오 특징은 변하지 않았으므로, 이 파이프라인은 지속적 상호작용이 아니라 공간적 공존을 등록했습니다.
 
 생리적 프로파일은 진단이 아닙니다. 시험 스트레스 모형은 각성과 움직임으로 성적 범주를 예측하며, 저자들은 그 산출물이 고부담 결정이 아니라 개인적 상황과 정신 건강 맥락 곁에 놓여야 한다고 강조합니다([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
@@ -119,41 +120,3 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 **"참여는 하나이므로 하나의 점수가 그것을 대표할 수 있다."** 그 구성개념에는 세 갈래가 있고, 센서는 대개 첫 번째에만 도달합니다. E3Sense는 학습자들이 참여를 인지적, 행동적, 정서적 지표로 서로 다른 비율로 정의했고, 그 정의가 예측을 바꾸었음을 발견했습니다([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). 단일 숫자는 어느 층위가 측정되었는지를 감춥니다.
 
 **"검증 분할에서 공정하면 교실에서도 공정하다."** 성별 집단 사이의 검증 오류를 균등하게 만든 정규화기는 홀드아웃 격차를 더 나쁘게 만들었습니다([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). 공정성은 체크포인트가 아니라 배포의 속성입니다.
-
-## 연결된 개념
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## 연결된 문서
-- [[gaze-informed-ai-children]] — 시선으로 촉발된 LLM 내레이션이 아동을 내레이션 영역에 6.48초 대 1.67초 머물게 했지만, 이 연구는 이해가 아니라 주의를 측정했다(Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 머리 착용 EEG, 시선 추적, 이마 EDA가 63.0% 기준선에 맞서 75.0%의 1수준 이내 정확도로 자기평정 참여를 예측했다(Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage는 일곱 개의 웨어러블 및 카메라 스트림을 구간 수준 참여 추정으로 융합하고(MAE 0.81) 더 가벼운 장비를 주장했다(Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — 멀티모달 주의 모형이 MAE 0.283에 도달했고, 검증에서의 공정성 개선은 홀드아웃 피험자에서 뒤집혔다(Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 웨어러블 AI는 이중으로 투명하므로 물리적 배제가 실패하고 집행이 학생의 몸을 판정하는 쪽으로 표류한다(Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG 친숙도 예측을 위한 열다섯 모형이 시행 독립적 타당화에서 0.9853에서 0.6038 F1로 떨어졌다(Nanayakkara and Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG로 재구성한 이미지가 시험 수행을 R² = 0.79로 추적했으며, 재구성이 뛰어난 한 참가자는 틀리게 답했다(Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — 랜덤 포레스트가 EDA, 움직임, 피부 온도로 시험 성적 범주를 예측했으며, 이 신호들은 이해가 아니라 각성을 지표화한다(Yamazaki and Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Oura를 착용한 458명 학생에서 관심 주제가 아니라 정서적 어조가 수면과 심박 변이도를 추적했다(2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — 웹캠 시선이 187명 학습자를 위한 강화학습 피드백을 이끌었고, 주의는 학습과 r = 0.017로 상관했으며 작업 부하는 부정적으로 상관했다(2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 자세 특징이 맞춤 제작된 라벨 집합에서 99.56%로 의심스러운 행동을 표시했으며, 부정행위나 공정성은 시험하지 않았다(Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 외부 글쓰기 지원에 따라 EEG 연결성이 54명 참가자에 걸쳐 낮아졌으며, 의존을 누적된 인지 부채로 틀 짓는다(Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23편의 연구에 걸쳐 감지 역할이 태그의 62.5%로 우세했고, 검토된 어떤 시스템도 멀티모달 스트림을 실시간으로 융합하지 않았다(Kim and Han, 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — 신체 접촉 탐지는 관찰자 평정 공감을 추적했고, 미소 탐지는 뒤집혔으며, 눈맞춤과 히트맵은 효과가 없었다(Nissan et al., 2026)

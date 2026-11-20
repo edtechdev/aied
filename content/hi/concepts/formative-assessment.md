@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -124,70 +126,3 @@ AI शिक्षा में निर्माणकारक मूल्�
 - **"उत्पन्न अभ्यास प्रश्न उपयोगी निर्माणकारक संकेत देते हैं।"** **आसान उत्पन्न प्रश्न-बैंक कोई निर्माणकारक संकेत नहीं देता**: **10-सप्ताह के परिनियोजन** में लगभग **70% AI-जनित अभ्यास प्रश्न हर छात्र ने सही किए**। जिस बैंक को सब पास करते हैं, वह इस बारे में कोई सूचना नहीं रखता कि किसे क्या चाहिए।
 - **"प्रश्न-निर्माण की विश्वसनीयता सभी प्रारूपों में एक समान है।"** AI प्रणालियाँ निर्माणकारक प्रश्न विधाओं के पार **प्रकार के अनुसार बदलती विश्वसनीयता** के साथ उत्पन्न करती हैं, बहुविकल्पीय उनमें शामिल है। उत्पन्न प्रश्नों को प्रारूपों के पार विनिमेय मानना यह छिपा देता है कि निर्माण कहाँ भरोसेमंद है।
 - **"छात्रों को AI फीडबैक देना कार्यान्वयन पैदा करता है।"** **कार्यान्वयन समस्या** फीडबैक की गुणवत्ता से अलग दर्ज है: फीडबैक प्राप्त करना और उस पर कार्य करना अलग कदम हैं, और दूसरा ही वह जगह है जहाँ निर्माणकारक मूल्यांकन सफल या असफल होता है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — निर्माणकारक मूल्यांकन जिन क्रमबद्ध रूपों में प्रकट होता है जब AI प्रतिपुष्टि का एक हिस्सा आपूर्ति करता है
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — योगात्मक मूल्यांकन: AI-प्रतिरोधी प्रारूप (मौखिक, प्रॉक्टर्ड, बंद-पुस्तक परीक्षाएँ)
-- [[reflection]]
-
-## संबंधित लेख
-
-- [[llm-multi-agent-conversation-assessment-2025]] — संवाद-आधारित मूल्यांकन हेतु एक चार-एजेंट संरचना जिसका मूल्यांकनकर्ता मध्य श्रेणी की ओर हेज करता है (Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — विद्यार्थी दक्षता मूल्यांकन हेतु समर्थन हस्तक्षेपों का कारणिक मॉडलिंग
-- [[nicola-richmond-programwide-assessment-genai-2025]] — GenAI युग में मूल्यांकन के पुनर्लेखन हेतु कार्यक्रम-व्यापी दृष्टिकोण
-- [[ai-feedback-enactment-workflow-2026]] — AI-द्वारा उत्पन्न प्रतिपुष्टि को महत्व देना: प्रावधान से अमल तक
-- [[care-full-feedback-genai]] — GenAI युग में प्रतिपुष्टि का सजग शिल्प
-- [[feedback-futures-genai]] — प्रतिपुष्टि भविष्य: मानव और GenAI क्षमताओं की सीमाओं से परे
-- [[sequenced-ai-feedback-learning]] — क्रमबद्ध AI प्रतिपुष्टि का प्रभाव और मार्ग
-- [[learner-centered-feedback-ai]] — AI के साथ शिक्षार्थी-केंद्रित प्रतिपुष्टि का संवर्धन
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — स्वचालित अंकन से अधिगम निदान तक: अंग्रेज़ी लेखन में AI-समर्थित निर्माणकारक मूल्यांकन का एक तंत्र अध्ययन
-- [[ai-internal-feedback-evaluative-judgments]] — AI-समर्थित आंतरिक प्रतिपुष्टि के माध्यम से मूल्यांकन-निर्णयों का विकास
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: मानव-संलग्न प्रॉम्प्टिंग के साथ निर्माणकारक मूल्यांकन अंकन
-- [[automated-formative-assessments-a-level-sciences]] — उच्च-आवृत्ति स्वचालित निर्माणकारक मूल्यांकन
-- [[ai-generated-feedback-higher-ed]] — उच्च शिक्षा में AI-द्वारा उत्पन्न प्रतिपुष्टि
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: पाठ्यक्रम-आधारित AI प्रतिपुष्टि
-- [[genai-teacher-feedback-comparison]] — GenAI बनाम शिक्षक प्रतिपुष्टि तुलना
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT प्रतिपुष्टि और सहभागिता
-- [[code-gen]] — CODE-GEN: सत्यापित MCQ निर्माण
-- [[responsible-assessment-ai-era-stanford-2026]] — AI युग में उत्तरदायी मूल्यांकन
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — प्रामाणिक मूल्यांकन हेतु डिज़ाइनिंग
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Linux/bash परीक्षाओं का स्वचालित अंकन
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT-संवर्धित निर्माणकारक मूल्यांकन में शिक्षक और AI की भूमिकाएँ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — प्रामाणिक, AI-प्रतिरोधी मूल्यांकन के रूप में मौखिक परीक्षाओं का पुनर्विचार
-- [[roe-assessment-twins-2026]] — GenAI युग में मूल्यांकन वैधता को सुदृढ़ करने हेतु मूल्यांकन जुड़वाँ (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI मूल्यांकन रूब्रिक निर्माण
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-सहायित शिक्षक-निगरानी अंकन और प्रतिपुष्टि
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक ITS में अनुकूली ICAP स्कैफोल्डिंग (BKT बनाम DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — पुनरावृत्त शिक्षाशास्त्रीय डिज़ाइन के एजेंट के रूप में LLMs
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — अनुकूलन प्रतिपुष्टि को प्रभावी बनाता है: बच्चों की योजनाओं पर AI-द्वारा उत्पन्न प्रतिपुष्टि से प्रमाण
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — स्वचालित अंकन, प्रदर्शन की व्याख्या और स्व-नियामित अधिगम (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AI-समर्थित निर्माणकारक मूल्यांकन में शिक्षकों के निदानात्मक कौशल: निदान से मेटा-निदान तक
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — तीन शैक्षिक स्तरों में प्रोग्रामिंग पर LLM-द्वारा उत्पन्न प्रतिपुष्टि की धारणित उपयोगिता और उपयोग-इच्छा
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — संगीत शिक्षा में जनक AI और बड़े डेटा विश्लेषण को जोड़ने वाला अनुकूली शिक्षण-सहायक
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — डेटा विज्ञान पाठ्यक्रमों में LLM का विद्यार्थी उपयोग और AI-द्वारा उत्पन्न प्रश्न कठिनाई की सीमाएँ
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-मध्यस्थ निरंतर मूल्यांकन अधसंरचना (AIM-CAI): संदर्भों और समय के पार अधिगम प्रमाण जोड़ना (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — शिक्षण भ्रांतियों के लिए साक्ष्य-आधारित संवाद के साथ संवादात्मक AI निदान (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — निगरानी जोखिम का सकारात्मक प्रतिरूप: अवलोकनीयता साक्ष्य-डिज़ाइन के रूप में, निगरानी के रूप में नहीं

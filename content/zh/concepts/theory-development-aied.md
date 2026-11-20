@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -135,52 +137,3 @@ ai_assist:
 **"把既有理论应用于 AI 就是理论发展。"** 本页自身关于理论使用的问题已给出相反判断：应用不是推进，而本领域反复出现的模式是把借来的构念当作词汇使用，而非当作可检验的预测。这一区分要紧，是因为一个无法产生可证伪差异的借用框架只是装饰，而不是理论。
 
 **"关于 AI 教学功能的现有分类法已经覆盖了这些系统所做的事。"** 它们没有覆盖多少。在 154 篇具有可分类应用功能的出版物中，**90 篇（58.4%）逸出了先前的四个类别**，这正是较新的工作把功能与 delegated control、认识论立场与嵌入的教学法交叉起来的原因。一个在近五分之三的案例上都分类错误的分类法，无法充当本领域的共同词汇，而这个缺口是关于现象的一项发现，不是一篇论文的缺口。
-
-## 关联概念
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## 关联文章
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 扩展功能分类法：154 篇可分类出版物中有 90 篇（58.4%）落在原来的四个类别之外（Ranieri 与 Biagini 2026）
-- [[yan-agentivism-learning-theory-ai-2026]] — 一个关于人机交互的中层学习理论，含四种机制与六个可检验命题（Yan 与 Gašević 2026）
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：适应性掌握会在学习者知道何时应克制动作之前就停止练习（An、McLaren 与 Stamper 2026）
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — 作为新学习理论的生成主义
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 走向认知共同行动性理论
-- [[du-yuan-epistemic-dependence-2026]] — 关系性认识论能动性与生产性依赖/有害性依赖的边界（Du 与 Yuan 2026）
-- [[absent-cognitive-baseline-2026]] — 缺失的认知基线（ACB）
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地与专业能力再生
-- [[genai-performance-vs-learning]] — 表现对学习
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 认知性 AI 素养（EAIL）
-- [[credential-cognitive-stewardship-ai-assessment]] — 证书与认知管护
-- [[ai-cognitive-partner-co-regulation-learning]] — 共同调节中的 AI 认知伙伴
-- [[epistemic-proactivity-math]] — 数学中的认知主动性
-- [[strydom-human-gai-paradigms-2026]] — 奠基于认识论信念的七种人类—GAI 互动范式
-- [[critical-thinking-paradox-genai-learning-2026]] — 批判性思维悖论
-- [[dollinger-equitable-assessment-ai-2026]] — GenAI 之下的公平评估
-- [[shaw-nave-cognitive-surrender-2026]] — 三系统理论与认知投降：AI 如何重塑人类推理（Shaw 与 Nave 2026）
-- [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新概念化探究共同体
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教师对 GAI 的经验与感知：脆弱性、重新思考评估、处于风险中的学生学习（Farazouli 等 2026）
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — 另一种 AI 哲学：作为教育人工智能方法的道家
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：用于可审计编码教育性对话的断言式模式
-- [[metacognitive-ownership-human-ai-regulation-2026]] — 元认知所有权：构念定义、边界与研究议程
-- [[synthetic-position-self-authorship-2026]] — 综合立场：一个命名合成性提升与作者悬置的对话自我主张，附交叉预测
-- [[capability-decision-model-teacher-readiness-2026]] — 含四个否证条件的可证伪、能力优先的教师准备度模型
-- [[ai-connectedness-adolescent-mental-health-2026]] — 人工智能联结性：一个含六个待检验可证伪命题的三维构念
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 认知伙伴关系循环
-- [[friction-paradox-generative-ai-education-abroad-2026]] — 把合意困难与生产性失败应用于海外教育中的解释性行动性
-- [[webb-pck-genai-2026]] — 三段情境案例与一个新构念 pseudo-cPCK：模仿经集体验证的知识却无担保的输出（Webb 等 2026）

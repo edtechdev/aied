@@ -11,6 +11,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 > **Chemistry Education** — the study of how students learn chemistry and how to teach it more effectively, spanning [[generative-ai|GenAI]] in laboratory and experimental design, AI-mediated [[formative-assessment|formative assessment]], context-based and inquiry-based instruction, the technical accuracy of [[llm|LLMs]] on chemistry tasks, and the philosophy of experimentation in the AI age. Chemistry education research engages the discipline's distinctive demands — abstract, submicroscopic concepts, symbolic and representational notation (formulas, SMILES, spectra), and hands-on laboratory practice — which make it a rich and distinctive context for studying how AI both supports and challenges learning.
 
@@ -62,40 +64,3 @@ Chemistry education sits within the broader [[stem-education|STEM education]] do
 **"Adding AI to an existing inquiry lesson cannot hurt."** It can, and the comparison that shows a benefit is narrower than it sounds. [[context-based-ai-secondary-chemistry-2026|Abdikayumova and Madybekova]] combined the **7E instructional model** with PhET simulations *and* ChatGPT tutoring for Grade 10 chemistry and found significantly higher achievement and engagement than inquiry-only or conventional instruction. The treatment is the structured combination — an instructional model plus simulations plus tutoring — not the chatbot on its own, and a chatbot added to unstructured inquiry is untested by that result.
 
 **"Chemistry is a subject where the answer is checkable, so AI errors are harmless."** Checkable answers are how wrong reasoning passes unnoticed: a student who receives a correct value from a model that reasoned badly has no way to detect the deficiency, and the assessment records success. In a quantitative discipline the verifiable endpoint is the weakest available evidence of understanding.
-
-## Connected Concepts
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

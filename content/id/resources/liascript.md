@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -65,7 +66,3 @@ bawah BSD-3-Clause, sehingga institusi dapat menghosting sendiri dan memodifikas
 Classroom layak ditinjau sebelum Anda mengandalkannya dalam skala besar, karena sinkronisasi waktu nyata
 memakai layanan bersama alih-alih rendering lokal murni. Agen pengajarnya masih muda dan sedikit
 diadopsi, jadi perlakukan sebagai prototipe yang berfungsi alih-alih produk yang didukung.
-
-## Konsep terkait
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]

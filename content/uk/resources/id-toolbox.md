@@ -25,6 +25,7 @@ ai_assist:
 translation_of: resources/id-toolbox
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -38,8 +39,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Чому це існує
 
 Курт Зілбершер, який проєктує корпоративне навчання двадцять вісім років, описує, як одні й ті самі невеликі нерозв’язані проблеми повторювалися протягом усієї його кар’єри — підрахунок слів наративу, пошук ресурсу, який вивів курс за межу [[edtech-platform|LMS]], ручний аудит покриття субтитрами, — і він створює виправлення та віддає їх безкоштовно. Сайт також проводить щорічне безкоштовне опитування про те, як інструкційні дизайнери фактично проводять свій тиждень.
-
-## Пов’язані поняття
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

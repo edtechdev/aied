@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,49 +83,3 @@ Keselamatan pedagogis adalah lapisan protektif yang menghubungkan [[hallucinatio
 **"Tutor paling aman adalah yang paling banyak menolak."** Sistem yang "menolak secara merata" tetap dapat memapanjangkan ketimpangan, yang merupakan paruh kedua dari gambaran kegagalan sunyi halaman ini. Mode kegagalannya bukan hanya tutor yang menjawab dengan benar dan menggerus pembelajaran; ia juga tutor yang penolakannya mendistribusikan dukungan secara tidak merata di antara siswa, dan kebijakan penolakan menyeluruh menukar risiko yang terlihat dengan risiko yang tak terlihat.
 
 **"Pekerjaan keselamatan tingkat model mana pun adalah langkah hubungan masyarakat."** Sebagiannya terukur. Karya [[llm-unlearning-math-privacy|math-unlearning]] menerapkan unlearning berbasis gradien untuk mencabut informasi pengenal dan konten berbahaya, melaporkan keluaran PII turun ke **0.1%** dan tingkat toksik ke **0.0%** sambil mempertahankan kemampuan. Kendali tingkat model adalah satu lapis dari pertahanan berlapis — tidak cukup sendirian, dan bukan berarti tidak ada apa-apa.
-
-## Konsep terkait
-- [[guardrails]] — mekanisme desain yang menerapkan keselamatan
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Artikel terkait
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Kerangka SCAFFOLD untuk mengemudikan dialog siswa-AI, beserta uji coba kelasnya
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Lapisan keselamatan rancangan guru: batas domain, penyaringan, dan pengesampingan
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Kerangka Desain untuk AI yang Aman dan Sehat bagi Pembelajaran
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

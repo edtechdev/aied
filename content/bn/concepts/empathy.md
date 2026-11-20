@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -93,34 +95,3 @@ AI তিনটি পৃথক বিন্দুতে প্রবেশ ক�
 - **"হাসি মানে উষ্ণতা।"** একটি কষ্টদায়ক ক্লিনিক্যাল সাক্ষাতে পর্যবেক্ষকেরা হাসিকে অসংগতি হিসেবে পড়েন, আর ফেসিয়াল-অ্যাকশন ডিটেক্টর তা ইতিবাচক আবেগ হিসেবে পড়ে। প্রসঙ্গই অনুপস্থিত চলক।
 - **"স্ব-প্রতিবেদন স্কেল সহানুভূতি মাপে।"** তারা একটি প্রবণতা বা আত্ম-ধারণা মাপে; কোনো সাক্ষাতে আচরণ মাপে না।
 - **"বেশি নিমজ্জনশীল সবসময় ভালো।"** নিমজ্জনশীল পদ্ধতি বড় লাভ দেখায়, কিন্তু কয়েকগুণ ব্যয় ও সময়ে, আর তুলনাগুলো প্রদর্শনের মাত্রা সমান করে না।
-
-## সংযুক্ত ধারণা
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — IRI-তে ভূমিকা-অভিনয় 13.2%, VR 11.6%, AI সংলাপ 8.8%, প্রদর্শন-সময় মিশ্রিত (Zwoliński প্রমুখ, 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — শারীরিক-স্পর্শ শনাক্তকরণ পর্যবেক্ষকদের সঙ্গে একমত হয়েছিল; স্মাইল শনাক্তকরণ ঋণাত্মক গিয়েছিল (Nissan প্রমুখ, 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13টি বিনিময়ের পর আত্ম-মূল্যায়িত দক্ষতা d = 0.58 বাড়ে, কোনো নিয়ন্ত্রণ দল ছাড়া (Müller প্রমুখ, 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17টি গবেষণা; আত্মবিশ্বাস-লাভ সাধারণ, সহানুভূতির প্রমাণ সীমিত (Ismail ও Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA ও জেনারেটিভ চিত্র উত্তেজনা-পাইপলাইন হিসেবে, সহানুভূতি দাবি করা হয়েছে মাপা হয়নি (Lim প্রমুখ, 2024)
-- [[shastry-gray-empathy-offloading-2026]] — AI-এর সহানুভূতিশীল ক্ষমতায় বিশ্বাস কম সহায়তা-প্রদানের ইচ্ছার পূর্বাভাস দেয় (Shastry ও Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42-আইটেমের একটি প্রবণতা-স্কেল, যার ফ্যাক্টর-কাঠামো তার নকশার সঙ্গে মেলেনি (Kang প্রমুখ, 2026)
-- [[empathy-coaching-chatbot]] — সহানুভূতিশীল ভাষা অনুভূত বোঝাপড়া বাড়ায়, যা আচরণ-পরিবর্তনের বদলে সম্পৃক্ততার পূর্বাভাস দেয় (Siyan প্রমুখ, 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — প্রম্পটে নির্দিষ্ট ভূমিকা ও চাল অনুভূত সহানুভূতিতে বড় পার্থক্য তৈরি করে (Wang প্রমুখ, 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — নার্সিং শিক্ষার্থীরা ক্লিনিক্যাল চাপে AI-কে আবেগীয় সহায়তা হিসেবে বর্ণনা করেন (Akbaba প্রমুখ, 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
@@ -85,47 +87,3 @@ YZ destekli alıştırmanın isteklilikle ilişkilendirildiği kaygı yolu, güv
 - **“Düşük güvenle daha fazla YZ kullanımı zararsız bir baş etme stratejisidir.”** Aynı bulgu bu yönlendirmeyi **daha düşük puanlarla** ilişkilendirir; dolayısıyla baş etme örüntüsünün nötr bir tercih değil, ölçülebilir bir maliyeti vardır.
 - **“Güveni tek başına okuryazarlık inşa eder.”** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]], hâlihazırda ChatGPT kullanan **450 üniversite öğrencisini** incelemiş ve **okuryazarlık ile güven arasında eksen olarak güveni** bulmuştur. Yol güvenden geçer; dolayısıyla güvene dokunmadan okuryazarlığı yükseltmek mekanizmayı el değmeden bırakır.
 - **“Engelli bir nüfusta öz yeterlilik profilleri tek tiptir.”** İspanya’daki motor engelli **102 üniversite öğrencisi** üzerinde yapılan gizil profil analizi **üç profil** bulmuş, düşük grup **%29,4** düzeyinde kalmış, geri kalan orta ve daha yüksek profillere dağılmıştır. Grubu tek bir nüfus olarak ele almak, farklı motivasyonel durumların ortalamasını almak demektir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramların çatı başlığı
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Sosyal-Duygusal Öğrenme
-
-## Bağlı makaleler
-- [[ai-proof-learning-cognitive-offloading-2026]] — Öğrencilerin kendi akıl yürütmesini desteklemek mi, onun yerini almak mı? YZ destekli ispat öğrenmesinde bilişsel dışsallaştırma (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Genel YZ kullanımı daha yüksek öz yeterlilik ve daha yüksek devamsızlıkla birlikte izlendi, oysa öz yeterlilik devama ilişkin bir öngördürücü değildi (Franco ve ark. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Yükseköğretimde YZ sohbet robotları: beklentileri kanıtlarla karşılaştırmak (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — güven yükselirken teknolojik bağımlılık artıyor: öz yeterlilik, yanıltıcı bir YZ çağı sonucu (Yan ve ark. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — YZ destekli e-mentorluk, EFL öğretmen adaylarının öz yeterliliğini ve duygusal zekâsını yükseltir (yarı deneysel)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Olanağı ve Öğrenci Öz Düzenlemesi
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — YZ Okuryazarlığı, YZ Hazırlığı ve Kariyer Uyum Yeteneği
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — YZ Okuryazarlığı için Öğretmen Eğitimi (SDT)
-- [[social-robot-study-companions]] — Ders Arkadaşı Olarak Sosyal Robotlar
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Çerçevesi
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Üretken YZ kullanım örüntüleri ve akademik öz yeterlilik
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — YZ-PBLS ölçeği; YZ okuryazarlığı derslerinde güçlendirme ve etik farkındalığın proje tabanlı öğrenmeden doyuma aracılık etmesi (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Rekabetçi Programlamada Öğrenci Terkini Öngörmek
-- [[genai-xr-architectural-design-education-2026]] — İşbirlikçi Mimari Tasarım Eğitiminde Üretken YZ ve Genişletilmiş Gerçeklik: Keşfedici Bir Stüdyo Çalışması
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Süregelen ChatGPT kullanımına giden seri zincirde YZ okuryazarlığı, güven ve akademik öz yeterlilik
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Motor engelli üniversite öğrencileri arasında akademik öz yeterlilik profilleri ve bildirilen YZ kullanımı
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Çocuklarda üretken YZ’den kaynaklanan bildirilen yaratıcı öz yeterlilik kazanımları (kapsam taraması)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Konuşma öz yeterliliği, YZ destekli alıştırmadan istekliliğe giden kaygı yolunu tersine çevirir
-- [[faculty-ai-well-being-social-supports-2026]] — Akademik personel SEM: teknolojik öz yeterlilik, YZ iyi oluşunun zayıf bir öngördürücüsü
-- [[cen-self-efficacy-favorability-2026]] — Öz yeterlilik ve olumluluk, özel ders sistemleri ve kâğıt alıştırmasından öğrenmeyi şekillendirir (Cen ve ark. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Yazma Öz Yeterliliği Ölçeği daha fazla Çevirme ve Gözden Geçirme sorgusu öngördü; daha fazla Planlama ya da denemenin tümünü devretme değil (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Teknolojiyle zenginleştirilmiş öğrenmede öğrenenlerin etkileşim izleri üzerinden öz yeterlilik inancını makine öğrenmesiyle ölçmek
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — YZ öz yeterliliği -> YZ okuryazarlığı -> YZ kabulü; bilgi aracılı pay ölçülmüş (İşbulan ve ark. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — algılanan yararlılık için gerekli koşul olarak öz yeterlilik, darboğaz eşikleriyle (Chu ve Liu 2026)
-- [[kim-overtrust-ai-literacy-2026]] — Akademik öz yeterlilik, YZ’ye aşırı güveni düşük değil daha yüksek öngördü

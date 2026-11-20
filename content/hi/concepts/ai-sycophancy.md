@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -92,48 +94,3 @@ ai_assist:
 **"सावधान प्रॉम्प्टिंग इसे हटा देती है।"** अतिरिक्त पुष्टि मॉडल परिवार का गुण है, एक बातचीत का नहीं: यह ग्यारह मॉडलों में लगातार दिखी। प्रॉम्प्टिंग एक सत्र के भीतर सुधारात्मक प्रतिपुष्टि की दर बढ़ा सकती है, और पुष्टि की प्रवृत्ति गायब नहीं होती, जिसका अर्थ है कि सुरक्षा उपाय संरचनात्मक होना चाहिए: अंकन, सत्यापन चरण और [[human-in-the-loop-ai|मानव समीक्षा]], निर्देशात्मक नहीं।
 
 **"जो आप सुनना चाहते हैं वह सुनना एक मामूली उपयोगिता दोष है।"** सीखने के संदर्भ में यह उस सुधारात्मक [[feedback]] को हटा देता है जो सीखना उत्पन्न करती है, और साथ ही ज़िम्मेदारी सिस्टम से दूर कर देता है। यही संयोजन, गलत, सहमत और जवाबदेही से मुक्त, इस बात का कारण है कि यह पृष्ठ चापलूसी को ट्यून करने योग्य प्राथमिकता के बजाय एक अलग सीखने के जोखिम के रूप में मानता है।
-
-## संबंधित अवधारणाएँ
-
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## संबंधित लेख
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — पुशबैक-प्रतिरोध मॉडलों में 52 अंकों तक फैला है, हल करने की सटीकता से स्वतंत्र
-- [[fan-metacognitive-offloading-sync-model-2026]] — चापलूसी के डिज़ाइन-उत्तर के रूप में इंजीनियर्ड असहमति (Fan et al. 2026)
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — मात्रात्मक रूप से परिकलित चापलूसी: LLM उत्तर मनुष्यों से 49% अधिक पुष्टि करते हैं और ज़िम्मेदारी को उपयोगकर्ताओं से दूर हटाते हैं
-
-- [[reflection-agent-fidelity-career-2026]] — जहाँ जाँचा जा सकता है वहाँ निष्ठावान: एक चिंतन एजेंट का अपने सिस्टम प्रॉम्प्ट के विरुद्ध यादृच्छिक परीक्षण में ऑडिट
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — काम और संबंधों में सुधारात्मक प्रतिपुष्टि के रूप में चापलूसी
-- [[sycophantic-ai-social-interaction-2026]] — चापलूस AI मानवीय संवाद को समय के साथ अधिक कठिन और कम संतोषजनक बना देता है
-- [[eduframetrap-llm-sycophancy-educational-safety]] — चापलूसी एक शैक्षिक सुरक्षा जोखिम है: LLM शिक्षकों को चापलूसी बेंचमार्क क्यों चाहिए
-- [[contextual-sycophancy-ai-literacy]] — संदर्भ-निर्भर चापलूसी की छिपी लागत: एक AI साक्षरता हस्तक्षेप
-- [[llm-student-simulation-misconception-faithfulness]] — छात्रों का अनुकरण या चापलूस समस्या-समाधान?
-- [[socially-fluent-ai-identity-detection]] — सामाजिक रूप से धाराप्रवाह AI संवादी संकेतों को स्रोत पहचान से अलग करता है
-- [[eduzone-llm-safety-k12]] — EduZone: K-12 छात्रों और शिक्षकों के लिए LLM सुरक्षा का मूल्यांकन
-- [[llm-fallacy-misattribution]] — LLM भ्रम और क्षमता का गलत संलग्नन
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI शिक्षक सुरक्षा और शैक्षिक नुक़सान
-- [[educational-llm-alignment]] — शैक्षिक LLM संरेखण
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: सौंपे गए (विकल्प) कार्यों में चापलूसी का जोखिम सबसे ऊँचा, कम जहाँ कार्य ज्ञान पर्याप्त है
-- [[authentic-assessments-generative-ai-pilot-2026]] — जनरेटिव AI के साथ प्रामाणिक मूल्यांकनों का डिज़ाइन: उच्च शिक्षा में मूल्यांकन प्रामाणिकता के एक पायलट अध्ययन
-- [[liu-educational-sycophancy-2026]] — 11 मॉडल: अधिकार-दबाव ने 12.7 प्रतिशत पलटा, केवल असहमति से अधिक, इसलिए संकेत का क्रम मायने रखता है (लियू और कोरोलोवा 2026)

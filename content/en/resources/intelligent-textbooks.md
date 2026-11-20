@@ -27,6 +27,7 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 The **Intelligent Textbooks** site is Dan McCreary's step-by-step guide to building *intelligent
 textbooks* — online textbooks that go beyond static PDFs by adding search, site navigation, a glossary
@@ -87,16 +88,3 @@ genuinely useful for discoverability, but the guide assumes a fairly technical a
 MkDocs, Git, and generative-AI tooling — which may be a barrier for some faculty. As of ingestion the
 registry for MicroSims is still only on the roadmap, so finding a specific existing simulation relies
 on the site's own search and navigation.
-
-## Connected Concepts
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

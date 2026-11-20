@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -47,9 +48,3 @@ Grupos de computação científica e de TI central com capacidade de GPU já ins
 ## Observações e ressalvas
 
 Gratuito e de código aberto sob Apache-2.0, mas o custo se desloca em vez de desaparecer: hardware, eletricidade e o tempo da equipe para operar um cluster. O software é jovem para os padrões da infraestrutura — três contribuidores, uma única instituição de origem e versões numeradas em centenas de tags — então uma universidade deveria pilotá-lo ao lado de um serviço existente, e não como o único caminho até um modelo. Não há no repositório uma avaliação publicada do comportamento do agendamento e das cotas sob carga real de campus; o artigo da PEARC é o lugar para buscar o relato dos próprios autores.
-
-## Conceitos conectados
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

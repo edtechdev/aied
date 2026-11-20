@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -92,42 +94,3 @@ ai_assist:
 **"AI가 콘텐츠를 너무 싸게 만들기 때문에 OER은 구식이 되었다."** 반대의 독법이 가능하고 더 잘 뒷받침됩니다. 생성이 거의 무료라면 희소한 재화는 라이선스와 저작자 표시의 흔적, 검토 절차, 그리고 유지되는 플랫폼이 됩니다. 이 문헌이 생산이 아니라 거버넌스와 인프라로 수렴하는 까닭입니다.
 
 **"개방형 과제에 AI 도구를 더하면 학습이 개선된다."** 여기 있는 유일한 준실험적 검증은 두 집단 모두에서 지각된 기술 성장을 발견했고 두 집단 사이에 탐지 가능한 차이는 없었으며, AI 분반에서는 완료율이 더 높고 점수는 약간 낮았습니다. AI는 학생이 무엇을 산출하는지를 바꾸었고, 학생이 배웠다고 보고하는 내용은 바꾸지 않았습니다.
-
-## 연결된 개념
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## 연결된 문서
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — 개방형 교육 자료 생성을 위해 RAG를 갖춘 로컬 AI를 사용하는 물리 교육 접근법 (Beznosko et al. 2026)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — 텍스트가 말을 걸어온다: 비동기 작문 II 강좌에서의 챗봇 강화 OER (Powell et al. 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — 프롬프트에서 실천으로: AI 지원 OER 제작을 탐색하는 교수 중심 이니셔티브 (Jordan et al. 2025)
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — 생성 AI가 생산에 들어온 뒤의 OER을 위한 다섯 가지 구도 (Tlili et al. 2026)
-- [[atenas-oer-digital-public-goods-2026]] — 디지털 공공재로서의 OER과 거버넌스되는 인프라를 위한 논거 (Atenas et al. 2026)
-- [[deimann-rethinking-openness-ai-2026]] — 25년의 개방성이 제도의 한가운데를 손대지 않은 채 남긴 이유 (Deimann and Lukács 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — 두 분반에서 AI 도구를 쓰고 쓰지 않은 개방형 교육학 (Clinton-Lisell 2026)
-- [[duan-open-educational-practices-evolution-2026]] — 개방형 교육 실천의 14개 모델과 그 안에서의 AI의 위치 (Duan 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 중국 30개 성에 걸친 교사의 AI 리터러시와 개방형 교수 실천 (Guo et al. 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER과 AI의 책임 있는 통합을 위한 일곱 기둥 틀 (Rodés-Paragarino and Atenas 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — 가상 실험실에서의 멘토링과 AI-OER 제작 (González Miy 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — AI 리터러시 OER을 검토하기 위한 일곱 원칙 루브릭 (Ryu 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — 발견이 아니라 설계의 논거로서의 OER 상호작용성 (Ahmadfard 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — 도구적 사례로서의 개방형 교육에서의 국제 협력 (Patiño et al. 2026)
-- [[peng-personalized-recommendation-oer-2026]] — 주장된 것보다 강한 기준선에 비추어 본 OER 하이브리드 추천기 (Peng 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — 교수법적 전환으로서의 개방형 학습에서의 디지털 전환 (Panda 2026)

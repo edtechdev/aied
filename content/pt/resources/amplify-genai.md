@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -48,10 +49,3 @@ A decisão de projeto que mais importa para uma [[higher-ed|universidade]] é o 
 ## Observações e ressalvas
 
 Grátis para licenciar, não para operar: a instituição paga a AWS e os provedores de modelos. A escolha de modelo passa pelo Amazon Bedrock (Anthropic, Mistral) ou pela OpenAI e o Microsoft Azure, e a execução de modelos locais próprios não está implementada. O projeto declara com clareza que não pode dar suporte a implantações individuais e encaminha as organizações a parceiros comerciais — então o custo realista inclui equipe ou um contratado. É uma implantação de três repositórios (frontend, backend, infraestrutura) com dezenas de estrelas e não milhares, e a comparação de custos acima é a experiência da própria Vanderbilt, não um estudo controlado. Instituições que preferem manter a inferência em hardware próprio devem olhar o [MindRouter](/aied/resources/mindrouter/) e ler os dois juntos: o Amplify é uma camada de aplicação sobre modelos de fornecedores, o MindRouter é um gateway sobre as suas próprias GPUs.
-
-## Conceitos conectados
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

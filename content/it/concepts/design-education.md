@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -74,49 +76,3 @@ Qui i problemi di valutazione sono inseparabili da quelli professionali. [[ai-in
 - **"Gli studenti di design sono adottatori entusiasti."** La stessa coorte mostra il **71% che usa la GenAI ogni giorno o ogni settimana, il 65% che non si fida e l'85% che ne modifica l'output**. Uso frequente e bassa fiducia coesistono, quindi uno strumento la cui proposta di valore presuppone fiducia ha letto male i suoi utenti.
 - **"La GenAI è genericamente utile lungo il processo di design."** La piattaforma GAI-A, costruita in uno studio longitudinale di studio, ha trovato **solo due usi produttivi**: la GenAI come stimolo visivo nell'ideazione precoce, e come **espansore combinatorio dello spazio delle soluzioni durante lo sviluppo**. L'utilità era specifica per fase.
 - **"I guadagni di creatività sono troppo diffusi per essere misurati."** In un **sottogruppo di 31 studenti**, i punteggi di pensiero creativo sono saliti da **77,23 a 94,68 (d = 0,82)**. Il guadagno è misurabile ed è limitato a un sottogruppo, che è la forma onesta dell'affermazione.
-
-## Concetti collegati
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Articoli collegati
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Un esperimento di design architettonico in cui un flusso di lavoro DALL-E 3 ha abbassato l'auto-efficacia creativa generale
-- [[human-ai-collaboration-design-education-rubric-2026]] — Una rubrica di processo può rendere la verifica dell'IA l'oggetto valutato
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Consapevolezza della disruption tecnologica dell'IA, mentalità di design thinking e competenza innovativa nel design tra gli studenti di design
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — L'atteggiamento come condizione necessaria dell'intenzione degli studenti di design di usare agenti di IA, con l'aderenza compito–tecnologia come seconda via (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Il tipo di dipendenza decide se l'alfabetizzazione ai prompt diventa impegno
-

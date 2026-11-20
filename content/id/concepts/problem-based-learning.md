@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -77,41 +79,3 @@ Karena PBL mengedepankan proses, kolaborasi, dan pemahaman yang ditunjukkan di a
 - **"Hasil PBL harus digabungkan dengan hasil pembelajaran berbasis proyek."** Meta-analisis tiga tingkat menempatkan **kinerja produk dan solusi dalam model terpisah** justru karena ia mengukur **kolaborasi manusia-AI** alih-alih penalaran siswa sendiri. Menggabungkannya berarti mengatribusikan artefak yang dihasilkan bersama kepada siswa.
 - **"Perolehan kolaboratif hanyalah efek samping penggunaan AI."** Sebuah studi menemukan pemecahan masalah kolaboratif yang dipersepsikan lebih tinggi (**M = 3.62 vs. 3.05, d = 0.88**) dan pemecahan masalah bersama (**3.40, d = 1.02**), dengan **efek interaksi terbesar pada pembangunan pengetahuan bersama dan regulasi sosial** — dimensi proses kolaboratif yang diprediksi oleh desain. Mekanismenya adalah kolaborasi terstruktur, bukan alatnya.
 - **"PBL dengan AI terutama menghemat waktu fasilitator."** Perolehan yang terukur terletak pada kualitas proses pada dimensi yang hanya ada ketika struktur kelompok dirancang untuknya. Implementasi PBL yang menambahkan AI tanpa menstrukturkan pembangunan pengetahuan bersama tidak semestinya mengharapkan efek yang sama.
-
-## Konsep terkait
-
-- [[project-based-learning]]
-- [[case-based-learning]] — Kasus yang disiapkan dan diskusi kasus, berbeda dari inkuiri terbuka PBL
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Kegagalan Produktif
-
-## Artikel terkait
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pembelajaran berbasis masalah dan berbasis proyek sebagai kerangka menjanjikan bagi pendidikan yang didukung AI generatif: Bukti awal dari tinjauan sistematis dan meta-analisis tiga tingkat
-
-- [[pbl-structural-conditions-ai-2026]] — PBL dan kondisi struktural bagi integrasi AI yang produktif (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Tinjauan sistematis keterlibatan pendidik dengan AI dalam PBL (Amdan dkk. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — Pasien virtual GenAI untuk tutorial PBL kedokteran (Mool dkk. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — Kerangka LEARN untuk GenAI yang bertanggung jawab dalam PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT sebagai perancah adaptif dalam PBL yang diperkaya AI (La Sunra dkk. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL dalam teknik biomedis di era GenAI (Nnamdi dkk. 2026)
-- [[ai-pbl-computational-thinking-2026]] — PBL yang didukung AI untuk berpikir komputasional
-- [[genai-counter-learner-groupthink-2025]] — Agen GenAI melawan pemikiran kelompok dalam PBL interprofesional
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot GenAI dan pengajuan masalah dalam sains sekolah dasar
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT untuk pembelajaran berbasis inkuiri dalam STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah PF
-- [[genai-scenario-based-healthcare-education-2026]] — Tinjauan sistematis GenAI dalam pendidikan kesehatan berbasis skenario (Neto dkk. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Modul CTD-PBL yang didukung AI dengan 130 guru fisika prajabatan: TPACK dan pemecahan masalah kolaboratif (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Pembelajaran Berbasis Masalah yang Dimediasi Fasilitator Versus yang Dimediasi AI dalam Pendidikan Farmakologi: Studi Kuasi-Eksperimental pada Mahasiswa Kedokteran Tahun Kedua

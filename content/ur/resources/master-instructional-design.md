@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -40,6 +41,3 @@ ai_assist:
 ## شرائط اور احتیاطیں
 
 لائسنس Creative Commons BY-NC-ND 4.0 ہے، اور مصنف کی بیان کردہ شرائط زیادہ تر اداراتی قارئین کے لیے اہم ہیں: ذاتی، غیر تجارتی مطالعہ اور پیشہ ورانہ ترقی خوش آئند ہے، جبکہ تجارتی استعمال، دوبارہ تقسیم اور white-labeling کے لیے تجارتی لائسنس درکار ہے۔ ریپوزٹری دس خود ساختہ چیلنجوں میں 320 میں سے 314 پوائنٹس بتاتی ہے، جو مصنف کی اپنی جانچ ہے، آزاد نہیں، اور وہی مصنف اس فریم ورک پر مشاورت اور ورکشاپس بھی بیچتے ہیں۔ منصوبہ ایک ذاتی کوشش بتایا گیا ہے جو ان کے آجروں سے وابستہ نہیں، اور اس کا آخری commit اپریل 2026 کا ہے۔
-
-## منسلک تصورات
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

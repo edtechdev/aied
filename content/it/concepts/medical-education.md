@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -81,8 +83,6 @@ L'IA nell'educazione medica e delle professioni sanitarie è un filone in cresci
 
 - **PBL e CBL potenziati dall'IA: sei trial randomizzati, due dei quali CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] hanno aggregato quattro trial per la conoscenza (46%, IC al 95% 0,18-0,73), tre per la soddisfazione (0,7, IC al 95% 0,47-0,92), e non hanno potuto aggregare il ragionamento clinico perché gli strumenti differivano. Solo due trial testavano l'apprendimento basato su casi e la revisione non ha analizzato i formati separatamente, quindi il risultato sostiene i progetti di problemi assistiti dall'IA senza identificare quali caratteristiche del caso contino.
 
-
-
 Una revisione di scoping su 153 report sulla GenAI nell'educazione medica mappa le applicazioni — [[simulation|simulazione]] e abilità cliniche al primo posto (47 report), davanti alla generazione di valutazioni e al feedback (22) e all'apprendimento basato su casi e al ragionamento clinico (21) — eppure solo 13 report recavano un segnale di follow-up o di ritenzione e nessun esito a livello di paziente è stato trovato ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
 ### Perché è importante
@@ -92,7 +92,6 @@ L'HPE è un dominio ad alto rischio e basato sulle competenze, dove i benefici d
 [[wang-safety-gap-productive-struggle-2026|Wang and Shan (2026)]] nominano il conseguente "divario di sicurezza" — la divergenza tra la performance assistita dall'IA di uno studente e la sua capacità non assistita di verificarla — e prescrivono di trattenere le soluzioni, un'attrito cognitivo costruttivo, e architetture di IA [[socratic-method|socratiche]] o avversariali per l'addestramento clinico ad alto rischio.
 
 - **L'uso ha superato l'insegnamento.** Tra 310 studenti delle scienze della salute, il 90% aveva usato ChatGPT mentre l'82,6% non aveva ricevuto alcuna istruzione formale sull'IA; la frequenza d'uso seguiva un GPA più alto, e il 61% riportava preoccupazioni [[ethics|etiche]] ([[alshahrani-health-sciences-ai-use-2026|Alshahrani et al., 2026]]).
-
 
 - **Che cosa insegnano i curricoli sulla provenienza dei dati.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] hanno codificato i curricoli pubblicamente pubblicizzati di 36 programmi statunitensi di IA sanitaria e hanno trovato l'etica coperta in 29 (80,6%) ma la provenienza dei dati a livello strutturale o di limitazione del dataset solo in 8 (22,2%), senza alcun programma che affrontasse il costo ambientale del calcolo e nessuno dei sette corsi di laurea magistrale che raggiungesse la soglia di provenienza. Dei 92 docenti nominati, il 76,1% proveniva da discipline computazionali e il 3,3% dalle scienze sociali o umanistiche. Il divario è clinicamente consequenziale: i fallimenti di dispiegamento con cui l'articolo si apre sono stati introdotti a monte, in come i dati di addestramento sono stati generati o etichettati, che è una competenza insegnabile che il curricolo sembra non portare.
 
@@ -105,7 +104,6 @@ L'HPE è un dominio ad alto rischio e basato sulle competenze, dove i benefici d
 
 - **Ordina il curriculum secondo le evidenze, non secondo gli strumenti a disposizione.** La stessa mappa KAS mostra dove le evidenze sono spesse e dove sono sottili: la conoscenza etica (14 studi), la responsabilità (14), le competenze applicative (16) e le competenze valutative (18) portano consenso, mentre la conoscenza tecnica, la conoscenza applicativa e le competenze operative stanno a 9 ciascuna e la collaborazione a 7. Dove l'infrastruttura non è affidabile, raggiungi lo strato tecnico attraverso casi su schermo e dimostrazioni di modelli ad accesso aperto anziché attendere la simulazione ad alta fedeltà.
 
-
 ## Idee sbagliate comuni
 
 - **"I benefici della simulazione sono stabiliti nell'educazione medica, quindi lo saranno anche quelli della simulazione con IA."** Una revisione sistematica a metodi misti di **19 studi (N = 1.253)** rileva che le simulazioni guidate dall'IA producono effetti in quella letteratura — una base modesta, e 1.253 partecipanti su 19 studi sono un fondamento ristretto per una tecnologia dispiegata su larga scala.
@@ -113,57 +111,3 @@ L'HPE è un dominio ad alto rischio e basato sulle competenze, dove i benefici d
 - **"I pazienti standardizzati costano troppo per essere scalati."** Un **trial controllato randomizzato con 95 studenti di medicina analizzati** ha usato **pazienti standardizzati di IA multi-agente** nell'addestramento al colloquio clinico. Il vincolo affrontato è la disponibilità di attori umani addestrati, che è un problema di personale anziché di fedeltà.
 
 - **"Adottare un framework pubblicato di competenze sull'IA risolve la questione curricolare."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] hanno selezionato 1.750 record fino a 23 studi — 15 revisioni, 4 [[qualitative-research|qualitativi]] e 4 [[quantitative-research|quantitativi]], in 15 paesi e dal 2022 al 2026 — e li hanno mappati sul modello Conoscenza, Atteggiamento e Abilità. I domini applicativi si concentravano nell'educazione medica (n = 11, 47,8%), nell'educazione generale (n = 9, 39,1%) e in altra educazione (n = 3, 13,0%), e i framework infermieristici nominati che hanno confrontato — N.U.R.S.E.S., AI-ABCs e CARE — o mancano di percorsi chiari per l'implementazione pedagogica o coprono abilità isolate senza metodi di valutazione. La mappa a 12 sotto-dimensioni che costruiscono è una proposta in attesa di validazione, il che la rende qualcosa contro cui insegnare anziché un curriculum consolidato.
-
-
-## Concetti collegati
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — il filone infermieristico dell'educazione delle professioni sanitarie
-- [[virtual-and-augmented-reality]] — addestramento clinico immersivo e in AR
-
-## Articoli collegati
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Health AI curricula teach ethics (80.6%) but rarely data provenance (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Repeated runs do not reproduce the same grade
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI-powered PBL and CBL in medical and dental education: six RCTs, only two CBL (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI-assisted digital pathology improves diagnostic performance and reduces experience-related performance gaps in pathology residents interpreting prostate biopsies
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping review mapping educational AI competency frameworks onto a 12-part KAS map
-- [[agency-gap-ai-writing]] — Reactive versus proactive AI writing agents in health-professions training: the agency gap
-- [[federated-learning-at-risk-student-prediction-2026]] — Federated at-risk prediction across HPE programs: a negligible privacy cost, and why an imported threshold misfires
-- [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-- [[alshahrani-health-sciences-ai-use-2026]] — Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula
-

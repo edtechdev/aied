@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -39,6 +40,3 @@ Kurssit tulevat sisään Canvas API -yhteyden, IMS Common Cartridge -tiedoston, 
 ## Mitä on tiedettävä ennen käyttöönottoa
 
 Liitännäinen vaatii Claude Coden ja bash-kuoren asennukseen; PowerShell ja cmd eivät voi ajaa asennusskriptiä, ja Python 3 on suositeltu pistetrendejä varten. Kurssidata pysyy projektikansiossa lukijan omalla koneella ja poistuu sieltä vain käyttäjän käynnistämän integraation kautta, kuten Canvas API -kutsun. Chrome-laajennuksen reaaliaikainen päättely tarvitsee lukijan oman ilmaisen Google AI Studio -API-avaimen, vaikka simulointitila esittelee sen ilman sitä. Projekti merkitsee itsensä betaksi versiossa 3.5.1.0 ja varoittaa rikkovista muutoksista aliversioiden välillä, ja se on julkaistu savvides-GitHub-tilin eikä nimetyn tekijän kautta.
-
-## Liittyvät käsitteet
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

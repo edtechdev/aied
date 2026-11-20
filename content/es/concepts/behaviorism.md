@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -89,23 +91,3 @@ El conductismo también aparece en cómo quien aprende se encuentra con la IA co
 **«Los diseños conductistas son simplemente inferiores a los constructivistas.»** Encajan bien con objetivos específicos —fluidez, recuerdo factual, automaticidad procedimental— donde la retroalimentación inmediata y la repetición son de verdad lo que la tarea exige. El error no es el mecanismo; es usar un mecanismo cuya condición de validez (quien aprende debe producir la respuesta) ha dejado de cumplirse en silencio.
 
 **«Como la teoría está desacreditada, los sistemas construidos sobre ella pueden juzgarse solo por sus resultados.»** Los resultados son exactamente lo que la equivalencia de salida corrompe. Un sistema puede informar de resultados conductuales excelentes mientras el aprendizaje se ha desplazado a otro lugar, así que los sistemas de influencia conductista necesitan la medida sin ayuda más que cualquier otro tipo.
-
-## Conceptos conectados
-- [[constructivist]]
-- [[cognitive-psychology]] — El cognitivismo, el tercer polo clásico de la teoría del aprendizaje
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Artículos conectados
-- [[ai-vocational-education-training-review]] — Los diseños conductistas de IA dominan la práctica de la EFP pese al constructivismo declarado; la «trampa de Turing»
-- [[generativism-learning-theory]] — El conductismo entre las cuatro teorías dominantes cuya revisión está impulsando la IA generativa
-- [[ccct-cooperative-learning-technique]] — El conductismo citado en el diseño de aprendizaje cooperativo para la educación superior
-- [[wang-multi-agent-systems-learning-designers-2025]] — La persona conductista entre los enfoques colaborativos de diseño multiagente
-- [[sequenced-ai-feedback-learning]] — La retroalimentación secuenciada con pistas rindió peor que la solución completa inmediata en un experimento aleatorizado con 199 participantes

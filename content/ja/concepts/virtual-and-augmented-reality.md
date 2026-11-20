@@ -18,6 +18,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -85,39 +87,3 @@ VR/ARについての最も強い証拠は比較的で[[discipline-specific-aied|
 - **「現象を感じることは、それを理解することである」** パイロットでは、学生が手のジェスチャーを通じて波長と振幅を**感じた**とスライダーよりも強く報告しましたが、**測定されたのは知覚であり、到達度ではありません**。感じられた感覚はアフォーダンスであり、それが理解を生んだかどうかは別の検証です。
 - **「高いユーザビリティの得点は、教育用 VR ツールを検証する」** Meta Quest 3 を使った**10人の学生との1時間のセッション**では、**System Usability Scale で良好なユーザビリティと最小限のシミュレーション酔い**が報告されました。ユーザビリティと快適さは前提条件であり、どちらも学習の尺度ではありません。
 - **「学生の同意はアフォーダンスの証拠である」** **医学イメージングの2年生29人**を対象に、29人全員が**そのジェスチャーが波長とは何かを「感じる」のに役立ったと同意しました（平均4.52）**。感覚についての全員一致の同意は体験についての自己報告であり、アフォーダンスの主張には、学生自身の理解の判断に依存しない成果が必要です。
-
-## 関連概念
-
-- [[simulation]] — 没入環境が通常表示するもの。様態ではなくモデル
-- [[embodied-learning]] — この様態が活用するとされるメカニズム
-- [[multimodal]] — 身振り、音声、空間的な入力を学習の経路として
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — 没入的な実践が最も確立している場
-- [[generative-ai]] — 新たな制作的層
-- [[prompt-engineering]] — 非プログラマーが没入ツールを構築・洗練する方法
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — ヘッドセット内の導きの接地
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — 忠実度と、その限界についての学習者の気づき
-- [[cognitive-offloading]] — 遅延と不安定性を外的な負荷として
-- [[edtech-platform]] — 同期、遅延、複数地点の存在
-- [[arts-and-media-education]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## 関連記事
-
-- [[genai-ar-physics-simulation-prompt-2026]] — 4要素のプロンプトが手で操作するAR物理学シミュレーションを生成。29人の学生のパイロット、知覚のみの証拠
-- [[mixed-reality-engineering-learning]] — 工学力学における複合現実アプリ対物理的ツールキット対教室。関与は上がるが複雑な可視化は依然難しい
-- [[medgame-llm-medical-education-gamification]] — AIによるゲーム化された医学訓練
-- [[tech-enhanced-tabletop-cybersecurity-education]] — サイバーセキュリティ教育における拡張された机上シナリオ
-- [[genai-xr-architectural-design-education-2026]] — 協働的な建築デザイン教育における生成的AIと拡張現実：探索的なスタジオ研究
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL：LLM支援の教育アシスタントを伴う没入的なVRデザインスタジオ、従来のPBLと対照して評価（Jinら 2026）
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote：VR舞台照明教育におけるLLM支援のマルチモーダル教授、そして接地が崩れたところ（Liangら 2026）

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -95,37 +97,3 @@ ai_assist:
 **“拥有图谱才是改善结果的原因。”** 改变结果的是图上的算法。在 G4L 中，通过演化知识空间图以贝叶斯知识传播来传递掌握度，产生了 **+24% 的实测知识**（0.717 → 0.887），而基于知识空间的对照为 **+5%**。同样是结构化知识空间的总体思路，结果因传播方法而实质不同。购买或构建一张图是设计问题的开始，而不是它的解答。
 
 **“通过结构审计的 LLM 构建图谱就是经过验证的图谱。”** 结构效度与教学效度正是这样分离的。对这样一张图重新计算的审计发现，每个端点都能解析，没有重复或自环，结构干净，但其 1,455 条公理中有 1,448 条只映射到一部作品，跨作品复用因而稀薄，其语境分类法无法区分它的两种语境类型，核心主张也仍未得到证明。死链与重复是自动审计能捕捉的失败；稀薄的复用与未分化的类别则是它放过的失败。
-
-## 关联概念
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — 总括：AI技术与技术手段（模型、LLM训练、机器人、RAG、智能体）
-- [[recommender-systems-and-learning-paths]]
-
-## 关联文章
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 一座由策展者构建的1,455条文学公理图谱，有结构审计但无来源记录（Liu & Zhao 2026）
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 面向个性化e-learning的基于本体的分层混合知识模型
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 面向终身学习的Learnity图
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge：叙事起草支架
-- [[quantum-education-its]] — 量子教育智能辅导（ITAS）
-- [[multimodal-knowledge-graph-educational-reasoning]] — 面向教育推理的多模态知识图谱
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph：CS课程比较
-- [[proprl-prerequisite-relation-learning]] — ProPrL：前置关系学习
-- [[knowledge-gap-detection-ai-tas]] — AI教学助手中的知识缺口检测
-- [[visual-query-tracer-declarative-logic-learning]] — 面向声明式逻辑学习的可视化查询追踪器
-- [[fair-explainable-edu-recommendations]] — 公平且可解释的教育推荐
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — 面向多模态教学资源的混合CF–KG跨域推荐
-- [[xie-hillm-cd-2026]] — HiLLM-CD：LLM驱动的认知诊断
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的基于图的智能辅导
-- [[cogevol-learning-environment-generation-2026]] — CogEvol：学习环境生成

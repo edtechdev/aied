@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -90,44 +92,3 @@ ai_assist:
 **"시민 교육의 문제는 학생이 챗봇의 말을 믿게 된다는 것이다."** 문서화된 문제는 그보다 얇습니다. AI 생성 시민과 자료는 암기 수준 과제를 기본값으로 하고 다문화 내용을 완전히 떨어뜨립니다. 그래서 위험은 어떤 학생이 오도되기 전에 이미 판단을 가르치기를 멈추는 교과과정입니다.
 
 **"환경 교육은 AI의 발자국을 윤리 주제로 다룰 수 있다."** 발자국은 설계 매개변수입니다. 지연시간, 모형 크기, 호스팅이 그것을 결정하며, 보고 문헌은 그것을 권고가 아니라 측정 가능한 것으로 다룹니다.
-
-## 연결된 개념
-
-- [[discipline-specific-aied]]
-- [[humanities-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[civic-and-political-education]]
-- [[environmental-education]]
-- [[assessment-validity]]
-- [[research-methods-aied]]
-
-## 연결된 문서
-
-- [[civic-education-ai-lesson-plans]] — 53개 시민과 기준에 대한 AI 생성 수업안 310개: 90% 저차원, 94% 다문화 내용 없음
-- [[nkalanga-digital-borders-civic-literacy-2026]] — 남아프리카공화국의 알고리즘 국경 통치와 시민 디지털 리터러시의 다섯 가지 요구
-- [[csaszar-ai-management-education-2026]] — AI가 경영 교육에 미치는 효과: 가치 기반 전략 분석
-- [[espino-ai-business-education-review-2026]] — 경영 교육에서 AI의 10년
-- [[drummond-genai-business-schools-framework-2026]] — 경영대학원의 GenAI를 위한 학생 의견 기반 프레임워크
-- [[mesny-innovative-assessment-grading-management-2026]] — 경영 교육의 혁신적 평가와 채점
-- [[automated-scoring-marketing-posts-agreement-2026]] — 학생 마케팅 게시물 자동 채점의 일치도와 오류
-- [[daniel-ai-sustainability-scoping-review-2026]] — 지속가능성을 위한 AI와 지속가능한 AI를 분리; 글로벌 사우스 격차
-- [[aied-carbon-footprint-reporting]] — AIED 2025 공시 검토와 오픈소스 발자국 방법
-- [[ai-assisted-inquiry-ssi-climate]] — AI 보조 기후 탐구, 탐구만보다 d = 0.69
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 시뮬레이션된 AI 보조 쓰기 과제에서 에세이 성적의 유일한 유의미한 예측변수인 피드백 리터러시
-- [[critical-genai-use-predictors]] — 지식(자기보고와 객관적 검사), 인식론적 지향성, 지적 가치가 비판적 GenAI 사용을 예측
-- [[student-genai-use-views-writing]] — 사회학 학생 504명: 선별적 사용, 그리고 지침 격차(81%가 지침을 받았고 46%가 명확하다고 느낌)
-- [[wells-genai-research-assistant-sociology-2026]] — 사회학 연구방법 강좌의 학생 24명: 18개 워크숍 중 6개에서 Copilot 사용, 제안서 작성은 금지
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 쓰기 중심 학문의 스웨덴 교사 24명이 평가에서 AI 생성 작업에 대해 추론
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 2학년 심리학 미디어 과제에서 동료 평가를 대체하는 ChatGPT
-- [[ai-tutor-statistical-programming-adoption-2026]] — 심리학 통계 강좌에서 "R-Tutor"의 사전등록 종단 연구
-- [[mental-health-literacy-students-llms-2026]] — 30개 정신건강 진술에서 심리학 학생 150명과 네 개 LLM의 비교
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 학부생 531명, 여섯 개 윤리 비네트, 그리고 AI 리터러시가 판단을 예측하는지
-- [[adaptive-virtual-patient-psychotherapy-training]] — 심리치료 훈련용 적응형 가상 환자: 1,033턴, 공감과 탐색에 반응하는 자기개방
-- [[burke-ai-proliferation-college-students-replication-2026]] — 다섯 개 대학의 학부생 991명: AI 사용이 대략 두 배가 되었고, 심리학이 표본의 30%를 제공
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 실험심리학 강좌의 ChatGPT-4 문항 80개: 신뢰도는 유지, 블룸 커버리지는 그렇지 못함
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — 상담자 수련생을 위한 시뮬레이션 내담자 GPT-4o: 불안은 낮아지고, 내담자는 순응적이며 문화적으로 평면적
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 심리학 학생과 수련생 286명: 모든 영역에서 서너 개의 잠재 클래스
-- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] — ChatGPT, DeepSeek, Gemini에 걸친 사회학 문항 20개: 카파 0.91~1.00, 불일치는 응용 문항에서
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 사회학 학생 18명: 사고 동반자 ChatGPT, 그리고 잃을까 두려워한 목소리
-- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] — 사회과학 학생 216명: 훈련은 더 높은 자신감이 아니라 더 낮은 자신감과 연관

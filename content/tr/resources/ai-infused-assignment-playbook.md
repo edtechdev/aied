@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -51,15 +52,3 @@ Tüm disiplinlerden eğitmenler, özellikle yükseköğretim ve mesleki programl
 ## Notlar ve uyarılar
 
 Bu ampirik bir çalışma değil, pratik bir kılavuzdur; öğrenci yapay zeka kullanımına ilişkin iddiaları yeni verilere değil, alıntılanan dış kaynaklara (BestColleges, Campbell, Digital Education Council, Flaherty) dayanır. “Ağ inşası” çerçevesi ve “anlayış yanılsaması” çerçevesi daha geniş literatürden (Wigmore ve ark.; Williamson ve ark.) alınmıştır ve kılavuzun kendi test edilmiş sonuçları değil, pedagojik gerekçe olarak sunulur. Ödevler yazarlarca hazırlanmış şablonlardır — hiçbiri etki büyüklüğüyle raporlanmamıştır, bu nedenle uyarlanıp yerel olarak değerlendirilmek üzere tasarım olarak ele alınmalıdırlar. 2026-10-07’de Zenodo’da CC BY 4.0 ile v1 olarak yayımlandı; hesap açmadan ücretsiz indirilebilir. Derleme anındaki kayıt yalnızca ~35 görüntüleme ve ~14 indirme gösteriyor, dolayısıyla henüz çok az dış kullanım veya akran değerlendirmesi görmüştür.
-
-## Bağlı kavramlar
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

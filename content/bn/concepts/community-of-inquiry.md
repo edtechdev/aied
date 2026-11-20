@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -80,29 +82,3 @@ CoI-এর জন্ম [[online-teaching-and-learning|অনলাইন শি
 **"উপস্থিতি একটি দলে সমানভাবে বিতরিত।"** এটি শর্তের মধ্যে নয়, শর্তের *ভেতরে* আলাদা হয়। **63 জন চীনা স্নাতক শিক্ষার্থী (33 জন GPT-4o mini চ্যাটবটসহ, 30 জন ছাড়া)** নিয়ে পাঁচটি সাপ্তাহিক কাজ জুড়ে ভাগ করা পাঠ টীকা করার একটি আধা-পরীক্ষায় উপস্থিতিগুলো দলগত অর্জন অনুযায়ী বিচ্যুত হয়েছে: উচ্চ-অর্জনকারী দলগুলো **2319টি টীকার মধ্যে 1407টি প্রতিক্রিয়া-অনুরোধ (60.7%)** শুরু করেছে, অথচ নিম্ন-অর্জনকারী দলে **2167টির মধ্যে 737টি (34.0%)**। একই হাতিয়ারে প্রবেশাধিকার কাঠামো যে সামাজিক আচরণ মাপে, তাতে বিদ্যমান ফাঁকই পুনরুৎপাদন করেছে।
 
 **"অনলাইন কোর্সে একটি চ্যাটবট যোগ করলে একটি উপস্থিতি যোগ হয়।"** এটি মিশ্রণটি বদলায়। জেনএআই-এর অধীনে কাঠামোর মূল্য হলো এটি প্রতিস্থাপনটিকে দৃশ্যমান করে: একটি মডেল দিয়ে মেটানো উপস্থিতি একই প্রত্যয়ের ভিন্ন বিন্যাস, আর দলগত উপাত্ত দেখায় প্রতিস্থাপনটি অসমভাবে লাভ দিচ্ছে।
-
-## সংযুক্ত ধারণা
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — ২১-গবেষণার স্কোপিং পর্যালোচনা: উপস্থিতি-প্রমাণ অসম, শিক্ষাদান-উপস্থিতি সবচেয়ে কম অধ্যয়িত, আর নকশা-বিন্যাসই ফলাফল আলাদা করে (Doo ও Park ২০২৬)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — জেনএআই-সহায়ক সামাজিক টীকায় শিক্ষার্থী-মিথস্ক্রিয়া উন্মোচন: জ্ঞানীয় ও সামাজিক উপস্থিতির জ্ঞানতাত্ত্বিক নেটওয়ার্ক বিশ্লেষণ
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — জেনারেটিভ এআই-এর যুগে CoI-এর পুনঃধারণা
-- [[ai-communities-of-inquiry-2026]] — অনুসন্ধানের সম্প্রদায়ে এআই
-- [[ai-online-education-engagement-satisfaction-2026]] — এআই এবং অনলাইন শিক্ষায় সম্পৃক্ততা
-- [[reflective-triangle-model-teacher-ai-2026]] — প্রতিফলন-ত্রিভুজ মডেল: জ্ঞানীয় মধ্যস্থ হিসেবে এআই
-- [[llm-facilitation-timing-online-discussions]] — মানুষ বনাম এলএলএম সহায়ক: মডেল বিশেষজ্ঞ মানুষদের চেয়ে বেশি আগ্রহে হস্তক্ষেপ করে (Tsirmpas প্রমুখ 2026)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -91,54 +93,3 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 **« La génération de questions personnalise naturellement la pratique. »** Elle génère de l'offre, et la personnalisation est un problème d'appariement. Produire plus d'items ne dit pas quel item un apprenant donné devrait voir ensuite, et la question de la sélection adaptative est un mécanisme distinct avec ses propres preuves.
 
 **« La génération fait passer l'évaluation à l'échelle sans changer ce qu'elle mesure. »** Elle change la composition de ce qui est mesuré, parce que les items qui se génèrent bien ne sont pas un échantillon représentatif des items qui évaluent bien. Les formats faciles à générer évinceront progressivement les plus difficiles à générer, ce qui redessine discrètement le construit.
-
-## Concepts liés
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Articles liés
-
-- [[genai-medical-education-transformation-review-2026]] — Revue de cadrage de 153 rapports sur l'enseignement médical portant sur la génération d'items par IA comparée à la qualité des items du corps professoral
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validation de terrain à grande échelle de la qualité des examens générés par IA via l'IRT
-- [[generate-then-validate-question-gen]] — Génération de questions de type Generate-Then-Validate
-- [[kt4eqg-personalized-question-generation]] — Génération personnalisée de questions par traçage des connaissances
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour les apprenants sourds et malentendants
-- [[llm-educational-question-cognitive-depth]] — Profondeur cognitive des questions générées par LLM
-- [[slidesqaqa-pedagogical-question-generation]] — Génération pédagogique de questions-réponses à partir de diaporamas
-- [[code-gen]] — CODE-GEN : génération de questions avec intervention humaine fondée sur la RAG
-- [[nsmq-riddles-science-math-benchmark]] — Référentiel NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — Devoirs personnalisés fondés sur les intérêts
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibrage de la difficulté fondé sur les LLM
-- [[self-referential-l2-writing-llm-assessment]] — Évaluation analytique de l'écriture auto-référentielle
-- [[cross-dataset-bloom-question-classification]] — Classification des questions selon Bloom entre jeux de données
-- [[llm-chatbots-cs-multiple-choice]] — Chatbots LLM et items à choix multiples d'informatique
-- [[socratic-tests-conversational-assessment]] — Tests socratiques : évaluation conversationnelle
-- [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing par LLM dans des examens de droit italiens
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimation de la difficulté des items à l'aide de LLM et d'apprentissage automatique arborescent
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle d'apprentissage conjoint humain-IA
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automatiser l'évaluation constructive avec les grands modèles de langue : vers une évaluation évolutive et répétée de la compétence pratique
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
-- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Les étudiants ne pouvaient distinguer les QCM générés par IA des items d'examen d'agrément dans un examen noté, et 18.2% des items générés ont été éliminés en revue (Vogt et al. 2026)
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Des items générés qui passent une grille de rédaction peuvent encore manquer leur niveau de compétence visé

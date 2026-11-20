@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -42,10 +43,3 @@ Campus AI Framework は、ジョー・サバド（Joe Sabado）によって公�
 ## 注記
 
 フレームワークとサイトは **CC BY-NC-SA 4.0** の下にあり、非営利の利用であれば、著作権表示と同一条件での共有を守る限り改変が認められています。サイトには推奨される著作権表示の例も示されています。OECD、NIST、ISO/IEC 42001、EU AI 規則、FERPA、HIPAA との整合性は、公開者自身による比較であり、そのように読むべきものです。関連サイトは別個のプロジェクトで、そのうち複数は同じ著者によるものです。まとまりとして知っておく価値があります。[Campus AI Exchange](https://www.campusaiexchange.com/) が中心となる拠点で、各機関の AI 方針と教室での指針の[インタラクティブな地図](https://www.campusaiexchange.com/ai-policies-guidelines-map)、[AI ガバナンス自己評価](https://www.campusaiexchange.com/ai-governance-assessment)、データガバナンスと AI の立場を示す地図、そしてリソースライブラリを収容しています。その周囲には、[campusaigovernance.com](https://campusaigovernance.com/)（9 つの AI ガバナンス領域）、[campusairisks.com](https://campusairisks.com/)（それらの領域に NIST AI リスクマネジメントフレームワークを適用したもの）、[campusaioperations.com](https://campusaioperations.com/)、[campusairegistry.com](https://campusairegistry.com/)、部門レベル向けの[AI 導入計画テンプレート](https://unit-ai-adoption-plan.netlify.app/)、そして経営層向けの[エージェント的 AI に関するブリーフィング](https://campusaiframework.com/sites) があります。Strategic Compass は共有の Google ドキュメントとしても流通しており、開くには Google アカウントが必要です。入場時に役割と所属機関を尋ねる短い任意のオンボーディング質問が表示されます。メールアドレスの入力は任意で、サイト全体は入力なしで読めます。
-
-## 関連する概念
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

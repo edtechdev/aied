@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -39,6 +40,3 @@ Cursurile intră printr-o conexiune la API-ul Canvas, un fișier IMS Common Cart
 ## Ce trebuie să știi înainte de a-l adopta
 
 Pluginul cere Claude Code și un shell bash pentru instalare; PowerShell și cmd nu pot rula scriptul de configurare, iar Python 3 este recomandat pentru tendințele de scor. Datele cursului rămân în dosarul proiectului, pe mașina cititorului, și o părăsesc doar printr-o integrare pe care utilizatorul o invocă, cum ar fi un apel la API-ul Canvas. Inferența live a extensiei Chrome are nevoie de propria cheie gratuită Google AI Studio a cititorului, deși un mod de simulare o demonstrează fără ea. Proiectul se etichetează drept beta la versiunea 3.5.1.0 și avertizează asupra unor schimbări incompatibile între versiunile minore, și este publicat sub contul GitHub savvides, nu de un autor numit.
-
-## Concepte conexe
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

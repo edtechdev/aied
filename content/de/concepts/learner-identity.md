@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -95,39 +97,3 @@ Identität der Lernenden verbindet sich mit [[agency|Handlungsfähigkeit]] (Iden
 **„KI-Unterstützung senkt Barrieren und erweitert daher die Teilhabe."** Sie kann die Barriere zum Erzeugen von Arbeit senken und zugleich die Barriere zum Beanspruchen von Autorschaft verengen. Eine lernende Person, die ein flüssiges Artefakt einreicht, das sie nicht verfasst hat, hat Zugang zum Ergebnis erhalten und die Anerkennung verweigert bekommen, die die Identität dahinter aufbaut.
 
 **„Die Identität einer lernenden Person anzuerkennen ist eine Frage der Repräsentation im Inhalt."** Repräsentation zählt, und Anerkennung wird in der Praxis vollzogen: wessen Fragen aufgegriffen werden, wessen Beitrag zugeschrieben wird und wer als fähig behandelt wird. Ein [[curriculum-design|Curriculum]] kann repräsentativ sein und dennoch die Anerkennung vorenthalten, die Identitätsbildung verlangt.
-
-## Verbundene Konzepte
-- [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Verbundene Artikel
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 Bachelorstudierende darüber, was sie weiterhin selbst tun und warum die Sinnhaftigkeit selten den Ausschlag gibt
-- [[guarded-adoption-genai-higher-education-2026]] — Abgesicherte Einführung generativer KI in der Hochschulbildung
-- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: kreative Identität bei der Nutzung von Text-to-Image-GenAI
-- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Fähigkeiten für eine tragfähige berufliche Identität in einer GenAI-Zukunft
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pädagogische Symbiose und der posthumane Lernende
-- [[ai-pedagogical-accompaniment-amico]] — KI-gestützte pädagogische Begleitung zur Förderung der STEM-Identität
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung authentischer Leistungsbeurteilung
-- [[paternalistic-filter-llm-history-education]] — Paternalistische KI-Nutzung und die Identität der Lernenden im Geschichtsunterricht
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise für Lehrende (Lehreridentität)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-basierte Lehrkräftefortbildung und professionelle Identität
-- [[genai-professionalization-metaphors-2026]] — GenAI-Konzeptualisierungen und professionelle Identität von Studierenden
-
-- [[synthetic-position-self-authorship-2026]] — Autorielle Suspendierung: delegierte Autorschaft als ein dicht artikuliertes, doch unverfasstes Selbst (konzeptionelle Analyse)
-- [[vibe-coding-design-diversity-2026]] — Ein Tool, ein Geschmack? Wie Vibe Coding kollektive Vielfalt gegen individuelle Kreativität eintauscht
-- [[kim-solo-game-development-autoethnography-2026]] — Einstieg in ein neues Feld im Zeitalter generativer KI: Eine Autoethnografie der Solo-Spieleentwicklung als Bioinformatik-Dozent

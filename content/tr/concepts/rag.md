@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -59,33 +61,3 @@ RAG, [[llm]] ince ayarına tamamlayıcı bir rol oynar — alım, yeniden eğiti
 - **“Sorun tümüyle alım kalitesidir.”** Alım gereklidir ve yeterli değildir. Dayanaklı yanıtlama **10 üzerinden 9,05** puan almış, farkın bootstrap güven aralığı sıfırı dışlamış ve yanıtlayıcı **gerçekten gördüğü materyale daha sık dayanmıştır (%81’e karşı %98)**; yani ölçülen kazanç kanıta sadakatte olduğundan, bu sadakatin anlam taşıması için kanıtın doğru olması gerekir.
 - **“Tek sayfalık alım genellenir.”** Her iki boşluk da **birden çok sayfadan materyal gerektiren sorularda kabaca üçe katlanmıştır** (sayfalar arası puanlar daha düşük bir temel çizgiye karşı 9,93). Dayanaklı sistemlerin bozulduğu yer çok belgeli akıl yürütmedir ve derslerin en zor soruları tam olarak orada sorulur.
 - **“Alım, inceleme ihtiyacını ortadan kaldırır.”** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]], bir kişiye sormaktan çekinen öğrencilere hizmet etmek için tek bir modülün onaylanmış materyallerinden alım yapar; bu savunulabilir bir kapsamdır. Dayanağı anlamlı kılan şey dar ve onaylanmış külliyatlardır; etiket tek başına değil.
-
-## Bağlı kavramlar
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Bağlı makaleler
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Zaman tasarrufu genel bir sohbet robotununkini aşmayan, müfredata dayalı bir ders asistanı

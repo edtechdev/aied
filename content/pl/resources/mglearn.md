@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -44,7 +45,3 @@ Jest adresowany do nauczycieli K–12 i trenerów, którzy ich szkolą, z pakiet
 ## Uwagi i zastrzeżenia
 
 Treść jest na licencji CC BY-NC 4.0, a kod na MIT: użycie klasowe, lokalny hosting i adaptacja są dozwolone z podaniem autorstwa, natomiast sprzedaż materiałów albo pakowanie ich w płatne szkolenia wymaga pisemnej zgody TCEA. Prace innych osób są wyłączone z licencji, a aktywności literackie nie powielają tekstu z utworów chronionych prawem autorskim. Projekt podaje, że treści i tłumaczenia powstały z generatywną SI pod redakcyjnym przeglądem oraz że tłumaczenia są wspomagane maszynowo i oznaczone do przeglądu przez lokalnego edukatora przed użyciem w klasie — co warto potraktować poważnie, zanim okręg przyjmie je na skalę. Każda aktywność działa w przeglądarce ucznia bez logowania i bez zbierania danych.
-
-## Powiązane pojęcia
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

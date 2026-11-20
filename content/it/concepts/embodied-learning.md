@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -53,7 +55,6 @@ L'apprendimento incarnato è strettamente correlato all'[[active-learning|appren
 
 - **La letteratura più corporea misura meno il corpo.** Di 32 etichette di esito, gli esiti cognitivi prendevano il 43,8%, quelli affettivi il 34,4% e quelli psicomotori il 21,9%, un ordinamento che reggeva tra i 16 paper con valutazione più alta (24,0% di 25 etichette). Gli autori attribuiscono la cosa alla difficoltà di selezionare misure psicomotorie e all'abitudine di privilegiare i guadagni cognitivi, non a un effetto debole sulle abilità corporee. Nessuno dei sistemi esaminati era progettato per discenti che agiscono insieme; la collaborazione che appare è cooperazione tra [[teacher-role|insegnante]] e IA ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
 
-
 ### Intelligenza incarnata e la critica dell'IA disincarnata
 
 Un secondo filone, più teorico, della ricerca della knowledge base sull'incarnazione riguarda il ruolo del *corpo* nell'apprendimento mediato dall'IA-[[sociocultural-learning|socioculturale]] — non attraverso robot fisici, ma attraverso la domanda se i [[ai-technologies|sistemi di IA]] stessi siano (o possano essere) incarnati. Questo lavoro contesta il dominio dei modelli di IA simbolica e disincarnata costruiti sull'elaborazione astratta dell'informazione:
@@ -70,37 +71,3 @@ L'apprendimento incarnato si collega a [[educational-robotics]], [[educational-r
 - **"È il corpo a far funzionare l'apprendimento incarnato."** Una meta-analisi di **11 studi RALL (N = 595, g = 0,83, I² = 84,4%)** ha trovato che **morfologia, modalità, autonomia e ruolo sociale del robot non moderavano** gli esiti di apprendimento della [[language-learning|seconda lingua]]. Le caratteristiche di incarnazione non erano l'ingrediente attivo, e l'eterogeneità era abbastanza alta (I² = 84,4%) che l'effetto aggregato descrive un insieme di interventi molto eterogeneo.
 - **"Un effetto grande risolve il meccanismo."** g = 0,83 con 595 partecipanti su 11 studi è un segnale reale e non identifica ciò che lo ha prodotto. Poiché le caratteristiche di progetto non moderavano l'effetto, il meccanismo plausibile sta nell'attività didattica anziché nell'hardware — il che cambia in che cosa investire.
 - **"L'incarnazione non è misurabile, quindi resta teorica."** Il tracciamento del corpo può trasformare la regolazione in un **segnale misurabile**: in una simulazione di fotosintesi in realtà mista in cui tag di movimento spostavano gli agenti-studente attraverso un modello proiettato, una pipeline LLM ha etichettato **470 segmenti** di comportamento regolatorio. Il costrutto è operativizzabile anche dove è difficile da definire.
-
-## Concetti collegati
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — la modalità che cerca di sfruttare direttamente l'incarnazione
-
-## Articoli collegati
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — L'IA come facilitatore dopo modelli costruiti a mano: un'IA linguistica non può seguire l'indagine incarnata (Tufino e Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — L'IA nell'apprendimento incarnato per lo più osserva: ruoli di sensing nel 62,5% delle etichette di ruolo, e nessun sistema esaminato fondeva flussi multimodali mentre i discenti lo usavano (Kim e Han 2026)
-
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]

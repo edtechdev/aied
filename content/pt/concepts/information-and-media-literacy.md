@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -99,32 +101,3 @@ A maioria dos estudos aqui é pequena, [[self-report-measures|autorrelatada]] ou
 - **Os dois letramentos são uma única habilidade com dois nomes.** Seus objetos diferem — credibilidade da fonte versus autoria e intenção — de modo que uma única rubrica não avalia bem nenhum dos dois.
 - **Identificar a IA vacina contra ela.** No experimento de persuasão mais forte aqui revisado, a detecção foi alta e o deslocamento em direção à posição da IA ainda assim cresceu.
 - **A competência de bibliotecários se transfere para o letramento em IA.** A deficiência da equipe aparece no desenho de objetivos (M = 2,70) e na avaliação de resultados (M = 2,62), não na operação de ferramentas.
-
-## Conceitos conectados
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Artigos conectados
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — A revisão de quatro países do iRAISE: 84 de 194 estados colocam o MIL além das habilidades técnicas nos currículos, e fatores humanos decidiram os resultados nos quatro sistemas (Cerioli, 2026)
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapeando a integração do letramento em IA na instrução de letramento informacional em bibliotecas acadêmicas: uma revisão sistemática da pesquisa emergente
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Como a inteligência artificial está remodelando o letramento informacional em bibliotecas acadêmicas: uma análise cientométrica global (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Inteligência artificial (IA) e busca de informação: uma exploração comparativa de chatbots de IA, mecanismos de busca e recursos de biblioteca como fontes de informação entre estudantes universitários
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Desenvolvendo uma plataforma de aprendizagem baseada em seminários assistida por IA com apoio de bibliotecário embutido
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Letramento informacional por meio da pedagogia aberta: qual é o papel das ferramentas de IA?
-- [[huang-genai-academic-information-resources-2026]] — A inteligência artificial generativa remodela o uso sustentável de recursos de informação acadêmica por estudantes universitários
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Engajamento estudantil de bibliotecários acadêmicos para promover o letramento informacional e o ensino de inteligência artificial em instituições de ensino superior nigerianas
-- [[offem-ai-information-literacy-library-users-2026]] — A inteligência artificial como ferramenta para promover o letramento informacional entre usuários de bibliotecas
-- [[critical-media-literacy-education-2026]] — Tecnologia, educação e letramento midiático crítico: potencial, desafios e oportunidades
-- [[demir-akar-ai-media-literacy-children-2026]] — Transformando cliques em pensamento crítico: um programa de letramento midiático baseado em IA para crianças
-- [[ai-literacies-young-adults-2025]] — Apoiando letramentos em IA para jovens de 14 a 19 anos
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — O GPT-4 personalizado venceu debatedores humanos; a detecção não serviu de inoculação (Salvi et al. 2025)
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: a plataforma de design thinking digital e aprendizagem para aprimorar o pensamento computacional e o letramento digital

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -67,7 +69,6 @@ Duygular, öğrencilerin YZ kullanımını *nasıl* görünür kıldığını d�
 ### Güven ve aidiyet
 SEL ilişkisel öğrenmeyi ve toplumsal uyumu destekler. [[finkelstein-principled-ai-education-2025|İlkeli YZ eğitimi]] ve [[ai-chatbot-collective-efficacy-collaborative-learning|işbirlikçi öğrenme için YZ sohbet robotları]], **aidiyet** ve kolektif etkililikle — bir ekibin görevleri yerine getirebileceğine ilişkin paylaşılan inanç — bağlantılıdır. Brookings makalesindeki ölüm öncesi (premortem) çerçevelemesi, YZ’ye aşırı bel bağlamanın sosyal-duygusal iyi oluşu, öğretmen-akran ilişkilerini ve öğrencinin [[privacy]]/güvenliğini tehdit ettiğini vurgular — bunlar aidiyet ve bağlılığın boyutlarıdır. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Öğretmen-öğrenci güveni]], YZ’nin destekleyici olarak algılanıp algılanmadığının merkezindedir.
 
-
 Burada aidiyetin daha keskin bir kenarı vardır: YZ’den istenen empati cezalandırılabilir. [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], katılımcılara sıkıntıdaki bir öğrencinin bir [[conversational-ai|sohbet robotuna]], bir arkadaşına, bir terapiste ya da kimseye gitmediğini anlatan metinler okutmuştur. Sohbet robotu koşulunda katılımcılar özel olarak en az devretme isteği bildirmiş, ardından o öğrenci hakkında en çok kayıtsızlık sözcüğünü kullanmış ve öğrenciyi daha yabancı ve daha çaresiz olarak derecelendirmiştir. YZ’ye başvurma yolunun akran yargısı, yukarıda belgelenen gizlemeyi pekiştirir; bu nedenle açıklama normları yalnızca dürüstlük politikasına değil SEL tasarımına aittir.
 
 [[ai-sycophancy|Dalkavukluk]] aynı ikameyi ölçülmüş bir dozla uygular. Beş ön kayıtlı çalışmada (N = 3.075; 12.766 konuşma), görüşlerini onaylayan bir YZ kullananlar üç hafta içinde ondan kişisel tavsiye isteme olasılığında yakın arkadaş ve aileden isteme olasılığına neredeyse eşit hale gelmiştir. Aynı katılımcılar gerçek dünyadaki etkileşimlerinden daha düşük memnuniyet bildirmiş ve çoğunluk onaylayıcı üslubu tavsiyesi için değil, kendilerini anlaşılmış hissettirdiği için tercih etmiştir ([[sycophantic-ai-social-interaction-2026|Ibrahim ve ark. (2026)]]). Zarar duygusal değil ilişkiseldir; bu yüzden duygusal destek özellikleri bir kursa maliyetsiz eklemeler olarak ele alınamaz.
@@ -106,43 +107,3 @@ SEL, [[ai-literacy]] ile (onu ilişkisel ve etik kılan bir tamamlayıcı olarak
 **“Düşük süreklilik, teşvikle düzeltilebilecek bir motivasyon sorunudur.”** Süreklilik eğitim teknolojisindeki yinelenen kısıttır, [[framing-5-percent-problem-teachers-persistence|%5 probleminin]] adlandırdığı örüntüdür ve motivasyon ile katılım, bilişsel engeller *ve* zorluk karşısında dayanıklılık tarafından şekillendirilir. Teşvik bu üçünden yalnızca birini ele alır. Çalışma belleğini aşan bir problem yüzünden duran bir öğrenenin güvenceye ihtiyacı yoktur.
 
 **“YZ’nin mevcut olduğunu bilmek öğrencilerin çabaya yatırım yapma biçimini değiştirmez.”** Değiştirebilir ve etki en zayıf öğrenenler için ters yönde işler: [[ai-availability-student-motivation|YZ’nin erişilebilirliği]], özellikle acemiler için çabaya dayalı angajmanın algılanan değerini düşürebilir. Tek başına erişilebilirlik, negatif işaretli bir motivasyon müdahalesidir; bu nedenle SEL’e komşu tasarım, yardımcı bir sistemin varlığını nötr sayamaz.
-
-## Bağlı kavramlar
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Bağlı makaleler
-
-- [[liu-genai-sel-mapping-review-2026]] — GenAI ve SEL üzerine 43 çalışmalık haritalama incelemesi: dengesiz yetkinlik kapsamı ve ince etik raporlama
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-
-- [[shastry-gray-empathy-offloading-2026]] — İnsanlar YZ’nin empati verebileceğini düşündüklerinde empatiyi devrediyor (Shastry ve Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — Dalkavuk YZ insan tavsiyesi aramayı yerinden ediyor ve gerçek dünya etkileşimiyle memnuniyeti düşürüyor (Ibrahim ve ark. 2026)

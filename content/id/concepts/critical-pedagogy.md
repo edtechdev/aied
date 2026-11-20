@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -54,7 +56,6 @@ Pedagogi kritis berbeda dari [[critical-thinking]]. Berpikir kritis adalah keter
 
 - **Keberlanjutan sebagai proyek berbasis nilai.** Dampak AI terhadap keberlanjutan pendidikan bersifat bersyarat dan termediasi tata kelola, bukan intrinsik: sebuah analisis kritis-nilai berpendapat bahwa AI mendukung pendidikan berkelanjutan hanya ketika adopsinya disubordinasikan pada nilai-nilai pendidikan yang eksplisit, dan melemahkannya ketika teknologisasi dan komodifikasi menggerus nilai-nilai itu ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]]).
 - **Wacana keselarasan yang mengutamakan efisiensi sebagai penghapusan konteks.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] menerapkan model tiga dimensi Fairclough pada 14 naskah literatur kelabu (November 2022 – April 2025) yang menyarankan praktisi pendidikan tinggi menggunakan [[generative-ai|AI generatif]] untuk keselarasan konstruktif, dan menemukan wacana teknosolusionis yang mengantropomorfiskan alat sebagai "seorang pakar dan asisten pendidikan" serta memposisikan staf akademik sebagai pemasok "keahlian materi subjek" sementara sistem melakukan kerja pedagogis. Analisis itu menamai penghapusan konteks situasional, disipliner, dan kritis sebagai salah satu dari tiga mode kegagalan — bersama performativitas (keselarasan yang hanya tampak selaras) dan keselarasan dangkal yang mencampuradukkan dimensi konstruktif dengan dimensi selaras — bukti bahwa bahkan saran tentang [[learning-design|desain kursus]], yang secara lahiriah merupakan urusan teknis netral, membawa logika depolitisasi yang dikritik para pedagog kritis di tempat lain.
-
 
 - **Remediasi desain tidak cukup dengan sendirinya.** Pendekatan desain yang berpusat pada manusia seperti desain peka nilai tidak memadai: pendekatan itu membiarkan pendorong sistemik — pembingkaian produktivitas tenaga kerja dan insentif ekonomi — tak tersentuh, dan [[agency|agensi]] bisa jadi bersifat zero-sum, sehingga kemampuan yang diserahkan kepada alat adalah kemampuan yang tidak dipertahankan siswa ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 
@@ -94,35 +95,3 @@ Dalam pedagogi kritis, pendidik bukanlah penyampai keterampilan AI yang netral m
 **Bagi peneliti**
 
 - Laporkan distribusi mode keterlibatan di kelas, bukan hanya rata-rata penggunaan, karena nilai rata-rata menyembunyikan apakah ada praktik kritis sama sekali.
-
-## Konsep terkait
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Pendidikan hak asasi manusia, praktik reflektif, dan pengajaran tata kelola AI sebagai formasi profesional (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Komposisi multimodal sebagai pedagogi literasi AI kritis
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas saran keselarasan konstruktif GenAI yang teknosolusionis
-- [[benali-genai-academic-writing-2026]] — Revisi yang dipaksa justifikasi dalam kursus penulisan akademik: AI dibatasi pada dua bagian proposal, setiap saran diterima atau ditolak secara tertulis (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Kritik kritis dan feminis atas "kolonisasi AI" dalam pendidikan sains
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "Menolak AI" sebagai praksis literasi AI kritis yang berakar pada komunitas
-- [[ojeda-ramirez-community-based-ai-learning]] — Meredistribusi otoritas epistemik AI melalui pembelajaran berbasis komunitas
-- [[raffaghelli-situated-ai-ethics-2026]] — Kerangka etika AI yang situasional, kultural-historis, dan ekologis
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Model perkembangan-kritis untuk kognisi interpretatif di bidang humaniora
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Literasi AI humanis sosialis + penggunaan wajar
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Pendekatan kritis-nilai terhadap pendidikan berkelanjutan dan AI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Visi emansipatoris untuk merancang AI generatif menuju kesejahteraan siswa
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Kerangka keterlibatan GenAI berpusat pada manusia yang dibangun di atas Freire, konstruksionisme, dan etika kepedulian
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pedagogi Digital Kritis dan epistemologi dekolonial yang diterapkan pada pengembangan akademik di Global Selatan

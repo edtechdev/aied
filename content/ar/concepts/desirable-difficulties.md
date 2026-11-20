@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -48,7 +50,6 @@ ai_assist:
 
 ويمكن للتضليل الإدراكي نفسه أن يعمل كصعوبة مرغوبة: وجد [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] أن إشارات الألوان غير المتوافقة على معاملات الرياضيات خفّضت التخمين الفوري مع إنتاجها أقوى ملف استبقاء في دراستهم على الصف السادس. وفي نماذج BKT المُلائَم على 19,952 نقطة بيانات من 688 طالبًا في الصف السادس، أظهرت حالة التباعد المحايد مع الألوان غير المتوافقة (NSIC) أدنى معدل تخمين بين الحالات التسع جميعًا (0.190) وأعلى معدل تعلّم (0.0379) وأدنى معدل نسيان (0.0054).
 
-
 ## الحَيرة والاحتكاك المعرفي والكفاح المُنتج
 
 ثلاثة بنيات ذات صلة تصف المنطقة التي تعمل فيها الصعوبات المرغوبة:
@@ -60,7 +61,6 @@ ai_assist:
 الفشل المُنتج هو النسخة المُهيكلة والمدفوعة بالنظرية من هذه الفكرة: يُرسّخ [[productive-failure|فشل كابور المُنتج]] (PF) الكفاح المُنتج بوصفه تصميمًا من مرححتين (التوليد والاستكشاف *قبل* التعليم، ثم التجميع وبناء المعرفة). وتمنح أدبيات الفشل المُنتج في عصر الذكاء الاصطناعي قاعدة المعارف مفرداتٍ تصميميةً ملموسةً للحفاظ على الصعوبة المرغوبة — إذ يستنتج [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] مبادئ تصميم للذكاء الاصطناعي ([[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]]، والتصميم التأملي، والدعم غير الموجِّه) التي تُبعد الذكاء الاصطناعي عن محو الكفاح؛ ويُظهر [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] أنه يمكن توجيه [[llm|مُعلّمات]] النماذج اللغوية الكبيرة لتمنع الحلول وتستحضر محاولات متعددة؛ ويُرسّخ [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] "فجوة الأمان" — أي التباعد بين الأداء المُساعَد بالذكاء الاصطناعي والقدرة غير المُساعدة — بوصفها كلفة إزالة الكفاح؛ وتستخدم [[rhaimi-productivemath-2025|ProductiveMath]] الذكاء الاصطناعي لخفض عبء تصميم مسائل الفشل المُنتج. وهذا يُظهر أن مبادئ الصعوبة المرغوبة تُترجم إلى خيارات تصميمية ملموسة للذكاء الاصطناعي.
 
 ويمكن للقيد أن يحمل المنطق التصميمي نفسه داخل صف الكتابة. في وحدة كتابة حجاجية مدّتها تسعة أسابيع، أعطى [[making-ai-annoying-constrained-writing-2026|Konradt, Boote and Taub (2026)]] أربعة طلاب ثانويين روبوتات محادثة يحدّدها المعلّم تسأل أسئلة بدل توليد النثر؛ فدافع الطلاب عن مخرجات الذكاء الاصطناعي بدل استهلاكها، مطوّرين ثقافة المطالبات إلى جانب مكاسب في الحجة المضادة وتكامل الأدلة.
-
 
 ## الصعوبات المرغوبة مقابل الاحتكاك المعرفي مقابل الاحتكاك المُنتج
 
@@ -110,54 +110,3 @@ ai_assist:
 **«الاحتكاك المعرفي والكفاح المُنتج الفكرة نفسها.»** هما من أدبيات مختلفة ويعطيان تنبؤات مختلفة. فالكفاح المُنتج يتعلق بصنع المعنى الجهدي الذي يبني الفهم؛ والاحتكاك المعرفي يتعلق بعدم التطابق بين ما تطلبه المهمة وما تدعمه موارد المتعلّم الحالية. فمعاملتهما كمرادفين تُفقد السؤال التشخيصي — هل يعاني هذا المتعلّم كفاحًا يبني، أم حجبًا لا يكلّف إلا خسارة؟
 
 **«إذا رفعت إزالة الكفاح الأداء الفوري، فقد نجح التدخل.»** هذه هي المقايضة التي تدور حولها الصفحة كلها: الأداء المقيس بحضور الدعم متضخّم منهجيًا قياسًا بالأداء اللاحق غير المدعوم. فأي تقييم لذكاء اصطناعي يقلّل الجهد عليه أن يقيس عند التأخير ودون الأداة، وإلا أبلغ عن إزالة الممارسة كإنتاج للتعلّم.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — لماذا يتفوق الترتيب الجهدي على السلس
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-
-- [[automation-bias]] — الفشل الذي صُمّم الاحتكاك المُنتج لمنعه
-
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — الفشل المُنتج
-- [[retrieval-spacing-interleaving]] — التقنيات التشغيلية التي تُجسّد هذا المبدأ: أثر الاختبار، والتباعد، والتداخل
-
-## المقالات المتصلة
-
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT بوصفه عكازًا معرفيًا: اختبار عشوائي مؤجل لإزالة الصعوبة المرغوبة (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — ضد الذكاء الاصطناعي بلا احتكاك: حجة حرف U المقلوب للحفاظ على الاحتكاك المفيد
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — الاحتكاك المُنتج المدمج في أدوات الذكاء الاصطناعي التوليدي يدعم التعلّم
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: تقييم المُعلّمين الآليين من أجل الكفاح المُنتج
-- [[kim-ai-productive-failure-adult-2026]] — تصميم أنظمة ذكاء اصطناعي لدعم التعلّم القائم على الفشل المُنتج
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه التربوي للنماذج اللغوية الكبيرة للفشل المُنتج
-- [[wang-safety-gap-productive-struggle-2026]] — فجوة الأمان: استعادة الكفاح المُنتج
-- [[rhaimi-productivemath-2025]] — ProductiveMath: ذكاء اصطناعي لدعم تصميم مسائل الفشل المُنتج
-- [[making-ai-annoying-constrained-writing-2026]] — جعل الذكاء الاصطناعي مزعجًا بقصد: القيد في الكتابة المدعومة بالذكاء الاصطناعي (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — مطالبات الشرح الذاتي المضافة إلى تغذية راجعة بالذكاء الاصطناعي مُفصَّلة أصلًا: مضاعفة الزمن دون مكسب تعلّمي (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة تعلّم الذكاء الاصطناعي التوليدي: درجات واجبات ترتفع ودرجات امتحانات تنخفض، والكلفة الكاملة بعد سنتين (Strömberg, Lei & Wu 2026)
-

@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -51,11 +52,3 @@ Pemimpin program dan modul di pendidikan tinggi yang masih ingin tulisan panjang
 Model ini belum dievaluasi dalam skala besar. Kertas kerjanya menyatakan tegas bahwa belum ada sampel, instrumen atau hasil terukur, dan bahwa uji coba diperlukan untuk menguji apakah artefak Tahap 1 meningkatkan keyakinan penilai atau konsistensi interpretasi, apakah siswa merasakan desain ini lebih adil, dan bagaimana suatu disiplin menetapkan ambang kecukupan tanpa menjadikan Tahap 1 ujian kedua.
 
 Dua biaya praktis itu nyata. Tahap 1 menuntut sesi berpengawasan dan perekaman yang aman dalam skala besar, dan perekaman serta penerjemahan multibahasa adalah prasyarat, bukan tambahan. Dan pertimbangan interpretatif sengaja diserahkan kepada penilai: model ini mengasumsikan keahlian disipliner yang tidak dapat diotomatiskan, yang merupakan asumsi kepegawaian sekaligus asumsi desain.
-
-## Konsep terkait
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

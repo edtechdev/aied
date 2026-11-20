@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -97,29 +99,3 @@ Alan historia ei ole lineaarinen kehityskulku vaan sarja ehdollisia päätöksi�
 
 - Käytä historiallisia korpuksia lähtötasona sen sijaan, että kohtelisit nykyhetkeä ainoana saatavilla olevana vertailukohtana. AIED-tapahtumien vuosikerrat 1985, 1993, 2021 ja 2024 sekä IJAIEDin 2004, 2014 ja 2021 ovat valmis pitkittäisotos alan omista väitteistä.
 - Viittaa perinteeseen, kun väität uutuutta. Väite, että järjestelmä "personoi oppimista" tai "mallintaa oppijaa", on uusi vain suhteessa tiettyyn aikaisempaan perinteeseen, ja perinne on dokumentoitu.
-
-## Liittyvät käsitteet
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Liittyvät artikkelit
-
-- [[mishra-control-vs-agency-history-2025]] — Kontrolli vs. toimijuus: tekoälyn koulutushistorian tarkastelu
-- [[prezenski-human-centered-ai-aided-learning]] — Ihmiskeskeinen tekoälyavusteinen oppiminen (käsittelee Andersonin perintöä)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitiivinen yhteisvaranto ja tekoälyasiantuntemus (historiallinen kehystys)
-- [[programming-its]] — Älykkäiden opastusjärjestelmien ohjelmointi
-- [[lak2026-hint-button-unproductive-use]] — Vihjepainikkeen uudelleentarkastelu kognitiivisissa tutoreissa
-- [[socrates-students-instructors-llms-lbt-2025]] — Oppiminen opettamalla LLM:ien kanssa (Papertin konstruktionismin perintö)
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Neljä vuosikymmentä AIED-tutkimusta AI×Ed-viitekehyksessä
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Viisikymmentä vuotta Computers & Educationin aiheita: tekoälyn osuus kääntyi nousuun vuoden 2018 jälkeen, neljä vuotta ennen ChatGPT:tä

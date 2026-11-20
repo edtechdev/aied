@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -103,52 +105,3 @@ TPACK є організаційним фреймворком для виклад
 - **«Домінування TPACK відображає її пояснювальну силу».** Це домінування **частково артефакт пошуку**: у PRISMA-огляді **195 досліджень педагогічної освіти з підтримкою технологій** цифрова компетентність, TPACK і DigComp **домінують в індексованій літературі**. Поширеність у пошуку є властивістю словника, який використовує галузь, а не доказом, що рамка пояснює більше.
 - **«Добре відома рамка — це валідована рамка для ШІ».** TPACK не була спроєктована для специфічних для ШІ здатностей, і саме тому розробили Intelligent-TPACK — а вона з'являється лише в **п'яти дослідженнях** в огляді 78 досліджень. Використання TPACK для компетентності з GenAI розтягує її за межі її конструкції.
 - **«Застосування рамки означає, що дослідження теоретизоване».** Той самий огляд виявив, що **76 % досліджень виводили компетентності з практики без теоретичного зіставлення**, тож присутність TPACK у галузі співіснує з тим, що більшість досліджень є нетеоретизованими. Названа рамка — це не те саме, що рамка, яка працює.
-
-## Пов’язані поняття
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Пов’язані статті
-
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Система індикаторів оцінювання для програм сертифікації зі ШІ
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Міжрівневе дослідження: «спочатку педагогіка, потім технологія» — TPAIK переважає технічний TAIK за результатів студентів (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI діючих викладачів і медіююча роль педагогічних знань (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Стандарти інтеграції технологій для викладацького складу (DBR, пов’язаний з TPACK)
-- [[edurev-100741-tpack-genai-review]] — Інтегрування генеративного ШІ в навчання студентів: систематичний огляд з позиції TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Моделювання AI-TPACK через багатоагентні робочі процеси викладачів
-- [[ai-tpack-preservice-math-teachers]] — Готовність до AI-TPACK серед викладачів математики до служіння
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Взаємодія викладача зі ШІ в проєктуванні уроку: Intelligent-TPACK, досвід і взаємодія обізнаності (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Інтенсивний професійний розвиток з GenAI і здобутки в AI-PCK
-- [[teacher-ai-teaming-five-levels]] — П’ятирівневий фреймворк командної роботи викладача зі ШІ
-- [[teacher-ai-adoption-confidence]] — Впевненість викладачів і упровадження ШІ
-- [[teacher-education-ai-literacy-sdt-2026]] — Освіта викладачів для ШІ-грамотності через теорію самодетермінації
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Навчання GenAI-грамотності на основі дослідження з проєктування
-- [[rail-ed-genai-literacy-teacher-education]] — Переосмислення GenAI-грамотності в освіті викладачів
-- [[sec-ai-literacy-narrative-review-2026]] — Соціально-емоційні компетентності та ШІ-грамотність
-- [[genai-runaway-object-math-higher-ed]] — GenAI і математика у вищій освіті
-- [[ai-changing-teaching-workflows]] — Як ШІ змінює робочі процеси викладання
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Самосприйняті знання TPACK-21 викладацького складу щодо GenAI у вищій освіті (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — До нового фреймворку AI-TPACK: етика як інтегративний медіатор технічних знань щодо ШІ (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Порівняльне опитування 186 південноафриканських студентів-викладачів природничих наук: перевага стаціонарної форми в самозвітному TPACK і асоціація навчання зі ШІ зі слабшим самозвітним TPACK у дистанційній установі
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK і самоефективність викладання природничих наук серійно медіюють ефект ШІ-грамотності на намір інтеграції дослідницького навчання (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Професійний розвиток Intelligent-TPACK для викладачів університетів: здобутки за вимірами, відвідування вище за самосприйняту залученість — модуль CTD-PBL з підтримкою ШІ та TPACK і спільне розв’язування проблем викладачів фізики до служіння (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Оцінювання співпраці людини зі ШІ в освіті з дизайну: процесно орієнтована рубрика, ґрунтована в розширеному фреймворку AI-TPACK
-- [[capability-decision-model-teacher-readiness-2026]] — Впорядкована модель готовності викладачів до ШІ з пріоритетом здатності та попередження щодо перекриття конструктів
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Попередження огляду-скаутингу, що домінування фреймворків компетентності частково віддзеркалює пошукові дескриптори, а не поширеність у галузі
-
-- [[ai-literacy-tpack-preservice-2026]]
-- [[khalil-tpack-preservice-genai-attitudes-2026]]
-

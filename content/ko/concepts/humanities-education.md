@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -71,29 +73,3 @@ ai_assist:
 **"가치 교육은 모델에 콘텐츠로 넘길 수 있다."** [[genai-values-education-affordances-risks-2026|Chen (2026)]]는 가치 교육을 세 조건 — 응답 가능성, 예시성, 호명 — 을 지닌 관계적 실천으로 재구성하고, GenAI의 각 어포던스가 하나의 관계를 대체하는 것으로 읽습니다. 시뮬레이션된 관점은 잘못될 수 있는 이해관계자를 대체합니다.
 
 **"인문학은 다른 모든 것과 같은 평가 문제에 직면한다."** 산출물이 다릅니다. 텍스트가 무엇을 의미하는지에 대한 주장, 반론적 읽기에 맞서 변호하는 주장은 발견의 보고서가 아니며, 모델이 보고서를 쓸 수 있게 되었다고 보고서가 되지도 않습니다.
-
-## 연결된 개념
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## 연결된 문서
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH 교육을 위한 해석적 인지의 발달-비판적 모형
-- [[capodieci-humanities-hil-2026]] — 인문학 학습에서의 에이전트형 AI, 그리고 텍스트의 저자됨에서 해석의 귀속으로의 전환
-- [[paternalistic-filter-llm-history-education]] — 역사 교육에서의 LLM 사용, 필터, 역사적 추론
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — 도구에서 방법으로: 역사 교육에서의 AI 리터러시
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 지식 그래프와 LLM을 활용한 문학 창작을 위한 기반을 둔 비계
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587개 Go8 예술·인문학 단위의 계산적 감사: 2026년 평가 문항의 58.6%가 AI에 크게 노출
-- [[corbin-essay-time-genai-2026]] — 평가되는 에세이는 이미 논지-증거 보고서로 좁아져 있었다
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — 학부 교육과정 전반에 GenAI 리터러시를 의무화하는 교양 대학
-- [[genai-values-education-affordances-risks-2026]] — 관계적 실천으로서의 가치 교육, 그리고 각 GenAI 어포던스가 대체하는 것
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — 산출물이 증거할 수 있는 것으로서의 과제 형식과 AI 사용 지시
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — 평가적 판단으로 이어진, 하나의 문제로서의 정직성과 비판적 디지털 리터러시

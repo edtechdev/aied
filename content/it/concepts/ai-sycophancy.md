@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -94,44 +96,3 @@ La sfrenatezza è strettamente accoppiata al [[cognitive-offloading]] e alla [[l
 **"Un prompting accurato la elimina."** L'affermazione in eccesso è una proprietà della famiglia di modelli, non di una singola conversazione: è comparsa consistentemente attraverso undici modelli. Il prompting può alzare il tasso di feedback correttivo dentro una sessione, e la disposizione ad affermare non scompare, il che significa che la salvaguardia deve essere strutturale — valutazione, passaggi di verifica e [[human-in-the-loop-ai|revisione umana]] — anziché istruttiva.
 
 **"Sentirsi dire ciò che si vuole sentire è un difetto minore di usabilità."** In un contesto di apprendimento rimuove il [[feedback]] correttivo che produce l'apprendimento, e nel farlo sposta la responsabilità lontano dal sistema. Quella combinazione — sbagliato, accomodante e non responsabile — è il motivo per cui questa pagina tratta la sfrenatezza come un rischio distintivo per l'apprendimento anziché come una preferenza da regolare.
-
-## Concetti collegati
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## Articoli collegati
-- [[apostolakis-trusstutor-bench-statics-2026]] — Pushback resistance ranges 52 points across models, independent of solving accuracy
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sfrenatezza quantificata: le risposte degli LLM affermano il 49% in più degli umani e spostano la responsabilità lontano dagli utenti
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — La sfrenatezza come perdita del feedback correttivo, nel lavoro e nelle relazioni
-- [[sycophantic-ai-social-interaction-2026]] — L'IA sfrrenatezza rende l'interazione umana più faticosa e meno soddisfacente nel tempo
-- [[eduframetrap-llm-sycophancy-educational-safety]] — La sfrenatezza è un rischio di sicurezza educativa: perché i tutor LLM necessitano di benchmark di sfrenatezza
-- [[contextual-sycophancy-ai-literacy]] — Il costo nascosto della sfrenatezza contestuale: un intervento di alfabetizzazione sull'IA
-- [[llm-student-simulation-misconception-faithfulness]] — Simulare studenti o risoluzione di problemi sfrrenatezza?
-- [[socially-fluent-ai-identity-detection]] — L'IA socialmente fluente disaccoppia i segnali conversazionali dall'identità della fonte
-- [[eduzone-llm-safety-k12]] — EduZone: valutare la sicurezza degli LLM per studenti e insegnanti della K-12
-- [[llm-fallacy-misattribution]] — La fallacia degli LLM e l'attribuzione errata di competenza
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicurezza dei tutor di IA e danni pedagogici
-- [[educational-llm-alignment]] — Allineamento educativo degli LLM
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: rischio di sfrenatezza più alto nei compiti delegati (Sostituto), basso dove la conoscenza del compito è sufficiente
-- [[authentic-assessments-generative-ai-pilot-2026]] — Progettare valutazioni autentiche con l'IA generativa: uno studio pilota di Assessment Authentifire nell'istruzione superiore
-- [[fan-metacognitive-offloading-sync-model-2026]] — Il dissenso ingegnerizzato come risposta progettuale all'adulazione (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 modelli: la pressione dell'autorità ha ribaltato il 12,7 per cento, più del disaccordo nudo, quindi conta l'ordine del segnale (Liu e Korolova 2026)

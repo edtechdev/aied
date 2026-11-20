@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -124,60 +126,3 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 - **"TAM 的构念解释了采纳。"** [[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]为孟加拉国工程专业学生整合 TAM 与 UTAUT，解释了**64% 的**方差。既显著又不完整：驱动采纳的因素中约有三分之一位于经典接纳构念之外。
 - **"接纳模型不需要领域修改。"** 在经典构念之外加入**感知的人工自主性**（教师相信 GenAI 能多独立地执行一项被指派的教学任务）与**风险规避**，会实质性改变模型。原初构念是为没有能动性的工具而建的，而 GenAI 具有被感知的能动性。
 - **"一项元分析采纳估计描述了任何人群。"** [[teo-ai-adoption-tertiary-meta-analysis-2026|高等教育学生的元分析]]是人群层面的估计；解释 64% 的工程结果是特定人群的结果。把其一移植到另一之上，假定了证据并未确立的稳定性。
-
-## 关联概念
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## 关联文章
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — 面向 AI 化身的 TAM + DOI：透明性 → 信任（β = 0.542），相对优势与有用性承载意向
-- [[high-school-genai-acceptance-tam-physics-2026]] — 学科特定信念被置于 TAM 感知的上游
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI 作为"亦敌亦友"：人工自主性与风险规避为教师扩展了 TAM（Dai 等人 2026）
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 护理领域的 AI 体验；TAM 的心理社会扩展
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 经由聚类得到的 GenAI 采纳画像
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI 采纳中的对称与非对称路径（UTAUT3 + ARCS）
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — 按性别与动机区分的 GenAI 投入差异
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育中组织 AI 采纳的 TOE + DOI 模型
-- [[tam-critical-use-genai-engineering-2026]] — 为工程/计算机专业学生加入批判性使用的扩展 TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 用于工程教育的统一社会认知模型（TAM + UTAUT）
-- [[ai-anxiety-strategic-regulation-writing-2026]] — 从 AI 焦虑到策略性调节
-- [[genai-reliance-types-scale]] — GenAI 依赖类型量表
-- [[llm-reliance-types-undergrad]] — 本科生的 LLM 依赖类型
-- [[acceptance-ai-english-tools-2026]] — 对 AI 英语工具的接纳
-- [[genai-chatgpt-adoption-ethics-students-2026]] — 学生 ChatGPT 采纳的行为与伦理驱动因素
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT 与教师聊天机器人动机
-- [[pre-service-science-teachers-ai-perceptions-2026]] — 加纳职前科学教师的 UTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 师范生 ChatGPT 接纳画像（LPA）
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — AI 采纳因素的元分析；对 TAM/UTAUT 的批评
-- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育中未来 ChatGPT 使用的 ML/SHAP 决定因素
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 以 XAI 增强的 UTAUT2：习惯为最强预测因子，四种采纳画像（Jácome-Vásconez 等人 2026）
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 面向分年龄段 AI 素养指南书的材料层面 PE/EE/趣味性/意向模型，记录在案的趣味性—意向构念重叠
-- [[risk-perception-genai-perceived-benefits-2026]] — 折入 TAM/UTAUT2 的 CAT + PMT：维度特定且非单调的风险对感知 GenAI 利益的影响（Du, Ning, Shi & Chen 2026）
-
-- [[capability-decision-model-teacher-readiness-2026]] — 替代"把 TPACK 能力硬接到计划行为理论采纳模型上"的有序方案
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 个系统中感知 AI 效用与风险的以人为中心 TALIS 2024 画像
-- [[genai-learning-procrastination-planned-behavior-2026]] — 测量 GenAI 辅助学习拖延及焦虑对意向—拖延联系之调节的 TPB 扩展
-
-- [[kim-overtrust-ai-literacy-2026]] - 绩效期望中介了从动机与自我效能到 AI 过度信任的路径
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI 素养作为自我效能与接纳之间的中介，伴随一个未校正的焦虑关联（İşbulan 等 2026）
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM 与任务—技术匹配结合，外加神经网络重要性排序与必要条件阈值（Chu 与 Liu 2026）
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — 位于 TAM 信念上游的设计特征，以及并非必要性的重要性
-- [[pinedo-genai-adoption-marketing-students-2026]] — 在已采纳人群中习惯承载 UTAUT2
-- [[stalboerger-faculty-perceptions-2026]] — 22 名教师、12 次随访：熟悉度使一些人加强了伦理审视，颠倒了易用性的方向（Stalboerger 等 2026）
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 学生对讨论板的感知：一项为 AI 赋能学习分析设计提供信息的 TAM 研究
-

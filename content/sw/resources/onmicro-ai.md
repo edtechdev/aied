@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/onmicro-ai
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,8 +48,3 @@ Inafaa waelimishaji na wabuni wa kujifunza ambao wanataka mwingiliano wenye mpak
 ## Vidokezo na mazingatio
 
 Kiwango cha bila malipo ni cha matumizi 10,000 ya AI na programu tatu; programu zisizo na kikomo na mifano ya juu yanaanza kwenye kiwango cha Pro, na muunganisho wa LTI, kuingia kwa moja, na uchanganuzi wa juu yameorodheshwa kwenye kiwango cha Enterprise, hivyo vipengele ambavyo taasisi inahitaji zaidi ni vile vinavyobeba bei. Hazina imepewa leseni **AGPL-3.0** kulingana na faili yake ya `LICENSE`, ambayo ni muhimu kwa mtu yeyote anayekusudia kujikaribisha mwenyewe au kuibadilisha, na README yake bado inasema LGPL kutoka kabla ya mabadiliko hayo, hivyo soma faili ya leseni badala ya README. Taasisi zinapaswa pia kuthibitisha masharti yao ya kuchakata data kabla ya kuongoza kazi za wanafunzi kupitia huduma ya mtu wa tatu ya kukaribisha.
-
-## Dhana Zilizounganishwa
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

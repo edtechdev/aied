@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -44,7 +45,3 @@ Eşlik eden [EduSynth Hub örnekleri](https://mguhlin.github.io/funquiz/examples
 ## Notlar ve uyarılar
 
 Merkez bir uyumluluk ürünü değil bir rehberliktir: site kendi WCAG 2.2 AA hedefi için bir uygunluk iddiasında bulunmaz, "bu dosyaları kullanmak sitemi uyumlu yapar mı?" sorusuna hayır diye yanıt verir ve bir mühendislik incelemesinin okul yetkilendirmesinin ya da hukuki incelemenin yerini tutmadığını söyler. Güvenlik rafı axe-core, Gitleaks, ZAP ve Playwright'ı işaret eder; bunlar paketlenmiş yazılım değil referanslardır ve müdahaleci olanlar tek kullanımlık ya da açıkça yetkilendirilmiş bir hedef için düşünülmüştür. Okumak için hesap gerekmez. HTML sayfalarını yeniden derlemek Python ve `markdown-it-py` gerektirir; bu bir derleme bağımlılığıdır, ziyaretçi bağımlılığı değil. Depo MIT lisanslıdır, üçüncü taraf görselleri ve bağlantılı projeler ise kendi koşullarını korur; bunlar `CREDITS.md` içinde belgelenmiştir.
-
-## Bağlı kavramlar
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

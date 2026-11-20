@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,7 +43,3 @@ Giảng viên và [[learning-design|nhà thiết kế học tập]] muốn một
 ## Ghi chú và lưu ý
 
 Các bản dựng được mô tả là chia sẻ công khai, nhưng không có giấy phép nào được nêu trên trang bản dựng hay trang thư viện, nên việc tái dùng cần sự cho phép của tác giả thay vì một quyền được mặc định. Tuy vậy, mã nguồn là công khai — các kho mã của tài khoản chứa HTML và JavaScript đứng sau các bản dựng, cộng một hướng dẫn về làm việc với tác tử lập trình trong giáo dục, nên người đọc có thể kiểm tra một ứng dụng chứ không chỉ chạy nó. Một số liên kết trỏ tới địa chỉ xem trước triển khai của Netlify thay vì một trang dự án; chúng được dựng để xem xét và có thể hết hạn, còn các bản dựng trên GitHub Pages là những bản ổn định. Một số bản dựng phụ thuộc mô hình Jev của TypeSafe AI và hiển thị xác suất của nó, nên hành vi bên dưới là phán đoán của một mô hình chứ không phải một quy tắc cố định. Lộ trình khó khăn có lợi là một lập luận — ma sát như một tính năng — và trang trình bày nó mà không báo cáo đánh giá nào về việc sinh viên có học được nhiều hơn hay không.
-
-## Khái niệm liên quan
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

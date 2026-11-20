@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -89,32 +91,3 @@ Wirksames KI-Video zu produzieren erfordert pädagogische Struktur und menschlic
 **„Eine Lehrkraft in einen Avatar zu klonen skaliert menschliche Präsenz."** Es skaliert die Produktion und verändert, was ausgeliefert wird. KI-Avatare, die von Lehrenden geklont sind, können Videos in großem Maßstab generieren, aber sie lösen auch Uncanny-Valley-Unbehagen aus und werfen [[ethics|ethische]] Einwände auf, die Umweltwirkung, Arbeit und [[academic-integrity|Integrität]] umspannen. Die Präsenz, die skaliert wird, ist eine Simulation der Lehrkraft, und die Kosten hängen an der Simulation.
 
 **„Viele Varianten einer Vorlesung zu generieren ist Personalisierung."** Die Variantenzahl ist eine Produktionsgröße, keine instruktive. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generierte 209 Videos aus 31 Vorlesungen auf Graduiertenniveau für Gesundheitswesen, Finanzen, Energie und ein generisches Publikum, was die Kapazität der Pipeline demonstriert; ob irgendeine Variante den Bedürfnissen einer bestimmten lernenden Person entsprach, ist eine separate Frage, die die Generierungszahl nicht beantworten kann.
-
-## Verbundene Konzepte
-- [[online-teaching-and-learning]] — Video als Kernmedium von Online- und Hybridunterricht
-- [[generative-ai]] — die Maschine hinter KI-generiertem und personalisiertem Video
-- [[personalized-learning]] — Personalisierung als Treiber der Anziehungskraft von KI-Video
-- [[adaptive-learning]] — adaptive Videogenerierung und Tempo
-- [[multimodal]] — Video, das visuelle, auditive und textuelle Modalitäten kombiniert
-- [[learning-analytics]] — Analytik über Video-Engagement und Aufmerksamkeit
-- [[student-engagement]] — das Engagement, das Video-Personalisierung zu heben zielt
-- [[pedagogical-agent]] — KI-Avatare/Präsentierende als virtuelle pädagogische Agenten
-- [[llm]] — große Sprachmodelle, die Skript- und Videogenerierung zugrunde liegen
-- [[trust]] — Vertrauen der Lernenden in KI-Präsentierende und Inhalte
-
-## Verbundene Artikel
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: Erzeugung branchenspezifischer, personalisierter Vorlesungsvideos in MOOC-Qualität im großen Maßstab (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generierte Kommentare im Video: Entropie-Timing, Qualitätslücken gegenüber menschlichen Kommentaren (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Studierende bevorzugen personalisierte KI-generierte Videos gegenüber nicht personalisierten, von Menschen aufgenommenen (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Wahrnehmungen und Präferenzen von Studierenden zu KI-generiertem Unterrichtsvideo in der Informatikbildung
-- [[ai-video-dual-gatekeeping-2026]] — Duales Gatekeeping für pädagogisch fundierte KI-Videoerzeugung
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pädagogische Videogenerierung
-- [[engagement-assessment-video]] — Engagement-Assessment im Video-Lernen
-- [[savvy-student-attention-video-learning]] — Visualisierung der Aufmerksamkeit von Studierenden für videobasiertes Lernen
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Wie Avatar-Identität epistemisches Vertrauen in KI-vermitteltem Lernen prägt
-- [[bilingual-llm-lecture-companion-srl-2026]] — Zweisprachige LLM-Vorlesungsbegleiter für selbstreguliertes Lernen
-- [[adhd-video-segmentation-computing-education]] — Zeitliche Video-Segmentierung für individuelle Unterschiede
-- [[ai-psychotherapy-training-avatars]] — KI-Avatare in der Psychotherapie-Ausbildung
-- [[gemini-lualatex-physics-video-transcription-2026]] — Physik-Vorlesungsvideo in zugänglichen Text transkribieren
-- [[pivot-generative-video-tutors-stem-2026]] — Von der Inhaltsgenerierung zur Lernunterstützung: pädagogisch geführte generative Videotutoren für MINT-Lernen
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! Dynamische visuelle Führung für KI-kommentierte Folien

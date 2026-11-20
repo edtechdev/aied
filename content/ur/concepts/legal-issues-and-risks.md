@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -94,43 +96,3 @@ ai_assist:
 **"پکڑ وہ ثبوت دیتی ہے جو طریقہ کار کو درکار ہے۔"** پکڑ سکور دیتی ہے۔ ثبوتی سوال یہ ہے کہ الزام کو ثابت ہی کیا جا سکتا ہے یا نہیں، اور [[ai-detection|پکڑ کا ادب]] دکھاتا ہے کہ ٹول نہ وہ اعتبار دیتے ہیں نہ وہ قابلِ تشریح قسم جو تادیبی عمل کا تقاضا ہے۔ طریقہ کار کو ڈیٹیکٹر پر کھڑا کرنا اُسے سب سے کمزور کڑی پر کھڑا کرنا ہے۔
 
 **"خطرات فرضی ہیں، اور پالیسی پیچھے آ جائے گی۔"** خطرات ابھی ناہموار طریقے سے تقسیم ہو رہے ہیں، اور اُنہیں جذب کرنے والے طلبہ وہ ہیں جو طریقہ کار کو چیلنج کرنے کی سب سے کم صلاحیت رکھتے ہیں۔ ادارے کی تفتیش کی صلاحیت اور طالب علم کی جواب دینے کی صلاحیت کے درمیان عدم توازن مستقبل کا نہیں، موجودہ نقصان ہے۔
-
-## منسلک تصورات
-
-- [[academic-integrity]] — وہ طرزِ عمل کا فریم ورک جس کے نفاذ سے یہ خطرہ آتا ہے
-- [[ai-detection]] — غلط الزام کے مقدمات کے مرکز میں موجود آلہ
-- [[remote-proctoring]] — جانچ میں نگرانی اور اُس کے ڈیٹا کے تحفظ کے سوال
-- [[assessment-validity]] — کہ ثبوت اُس دعوے کو ثابت کر سکتا ہے یا نہیں جو اُس سے نکالا جائے
-- [[privacy]] — طلبہ کے ڈیٹا کا جمع ہونا، محفوظ رہنا اور آگے پراسیس ہونا
-- [[regulation]] — قانونی اور ریگولیٹری ذمہ داریاں جو اداروں کو پوری کرنی ہیں
-- [[governance]] — داخلی پالیسی کا ڈیزائن اور نفاذ کا تسلسل
-- [[educational-policy-ai]] — اداراتی AI پالیسی بطور غیر ارادی خطرے کے ماخذ
-- [[ai-use-disclosure]] — انکشاف کی توقعات اور اُن کے ناقابلِ نفاذ کنارے
-- [[accessibility]] — مناسب سہولت جہاں اصول کوئی معاون ٹول ختم کر دے
-- [[assistive-technology]] — وہ ٹول جو حد سے زیادہ شمولیت کے مسئلے کے مرکز میں ہیں
-- [[neurodiversity]] — وہ طلبہ جو حد سے وسیع پابندیوں کے سامنے سب سے زیادہ ہیں
-- [[equity-in-ai-education]] — پکڑ اور نگرانی کا تفریقی بوجھ
-- [[student-experience]] — وہ انسانی قیمت جو قانونی قیمت سے پہلے آتی ہے
-- [[hallucination-risk]] — من گھڑت حوالہ بطور پیشہ ورانہ اور اداراتی ذمہ داری
-- [[reducing-ai-misuse]] — الزام کے بجائے روک تھام کا متبادل
-
-## منسلک مضامین
-
-- [[munoz-misconduct-allegation-evidence-2026]] — بدانتظامی کے الزام کی فائلوں میں واقعی کیا ثبوت ہوتا ہے، اور قدرتی انصاف کی شرط
-- [[hadra-ai-detector-accuracy-efl-2026]] — ڈیٹیکٹر کی درستگی، مشترکہ متن میں ناکامی، اور EFL کی غلط درجہ بندی کا خطرہ
-- [[van-vlasselaer-ai-detector-reliability-2026]] — دوسرے کارپس پر پکڑ کے ٹولز کا اعتبار
-- [[bassett-ai-detectors-education-2026]] — کوئی پکڑ کی حد درست کیوں نہیں ہو سکتی: غلطی کے تبادلے کی دلیل
-- [[teichmann-detecting-undetectable-misconduct-2026]] — بدانتظامی کے طریقہ کار کا دوبارہ جائزہ جب ثبوت ناقابلِ پکڑ ہو چکا ہو
-- [[wright-transcription-not-generation-2026]] — حد سے زیادہ شامل AI اصول، معذوری کی سہولت اور مناسب ترتیب
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — ریموٹ پراکٹرنگ کا نقشہ، رازداری اور نگرانی کے خدشات کے ساتھ
-- [[automated-online-exam-proctoring-decade-review-2026]] — خودکار پراکٹرنگ کی تحقیق کی ایک دہائی
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — AI کے دور میں علمی بددیانتی اور پراکٹرنگ
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — پالیسی کی وضاحت بطور قابلِ دفاع نفاذ کی شرط
-- [[qian-governing-genai-higher-ed-policy-2026]] — جدید امریکی یونیورسٹیوں میں پالیسی اور معاونت کے ماحولی نظام
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — بکھری گورننس پر ماہرین کا اتفاق
-- [[sharma-judgment-visible-genai-assessment-2026]] — نگرانی کے بجائے نظر آنے والے فیصلے کے ذریعے سالمیت
-- [[shin-ai-policies-sld-2026]] — مخصوص تعلیمی معذوریوں والے طلبہ کے لیے پالیسی کا خلا
-- [[li-genai-assessment-language-equity-2026]] — لسانی مساوات بطور اصول ڈیزائن کا مسئلہ: معاونت–متبادل کی حد، بالواسطہ امتیاز اور قابلِ نظرثانی ہونا (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — طلبہ کا بالواسطہ پرامپٹ انجیکشن سے AI جانچنے والوں پر حملہ، بغیر پکڑے گریڈ بدل جانے کے ساتھ (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — جانچ کی تصدیق کے لیے گورننس کے اشارے اور اصلاحی پروگرام (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 امریکی فیکلٹی: انفرادی پالیسیاں اداراتی پالیسیوں سے بہت آگے، ساختی جواب پتلا (Watson & Rainie 2026)

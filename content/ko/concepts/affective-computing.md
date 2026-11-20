@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -64,33 +66,3 @@ ai_assist:
 - **"참여가 많다는 것이 학습이 많다는 뜻입니다."** 뇌 감지 연구에서 **제약된 적응형 인터페이스는 인지적 참여를 높였지만(p = .018) 제한 없는 챗봇은 더 높은 [[learning-gains|학습 이득]]을 냈습니다**. 더 많이 참여시킨 인터페이스가 더 적게 가르친 것입니다. 참여는 학습의 대리 지표가 아니며, 참여를 최적화하면 결과가 반대 방향으로 움직일 수 있습니다.
 - **"정서적 지원은 인지적 지원에 덧붙이는 부가 요소입니다."** 규모가 작은 교실 [[rct]](**252명 중 42명 완료**)에서 마음챙김 버전은 인지적 지원만 제공한 조건보다 **더 짧은 시간에 더 적은 힌트 요청으로 비슷한 대수 학습**에 도달했습니다. 정서적 요소가 바꾼 것은 상한이 아니라 효율성이며, 이는 "학습에 도움이 된다"와 다른, 더 흥미로운 주장입니다.
 - **"소규모 표본의 정서 연구 결과는 전이됩니다."** 252명 중 42명 완료라는 설계는 고무적이면서도 취약합니다. 완료율 자체가 누가 끝까지 남았는지에 관한 하나의 발견이며, 효과는 그 집단에 한정됩니다.
-
-## 연결된 개념
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — 사회정서학습(Social-Emotional Learning)
-
-## 연결된 문서
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI 생성 정서 알림에 대응하기: 수학 교실에서 교사의 개입과 학생의 참여
-- [[wang-teacher-student-centered-agents-physics-2026]] — 물리학 학습에서 프롬프트 설계된 에이전트 역할로부터의 공감 지각 (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — 문제 해결을 넘어: 수학 학습을 위한 정서적, 성찰적 지원을 위한 대규모 언어 모델
-- [[emotion-aware-classroom-iot-monitoring-2026]] — IoT 기반 실시간 모니터링을 통한 정서 인식 교실 품질 평가 (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: 학생 불안의 LLM 증강 평가 (2026)
-- [[socratic-nuclear-ai-learning]] — 소크라테스가 핵이 되다: 학습에서의 AI를 위한 상호작용 전략 비교
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — AI 지원 정서 조절 재구성: 신호는 자율적 해석이 아닌 맥락을 필요로 함

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -55,11 +57,9 @@ La svolta dell'inferenza sul dispositivo aggiunge una dimensione hardware al div
 
 - **I servizi digitali pubblici riproducono il divario.** La piattaforma di e-government eCitizen del Kenya è prevalentemente in inglese, con swahili limitato e un'interfaccia solo testuale, il che esclude i giovani a bassa alfabetizzazione, con disabilità visiva e delle zone rurali; interviste più una tavola rotonda di undici persone su quattro piattaforme di sostentamento (Ajira Digital, KRA iTax, HELB, YEDF) indicano le tecnologie linguistiche e un design informato alle WCAG 2.1 come leve di inclusione ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-
 ### L'IA approfondisce (e può colmare) i divari
 
 L'IA aggiunge nuovi strati alle implicazioni di equità della tecnologia. Il bias algoritmico può avere un impatto sproporzionato sugli studenti provenienti da comunità emarginate, e l'[[ai-literacy|alfabetizzazione sull'IA]] — la capacità di comprendere, valutare criticamente e mitigare i bias e i rischi dell'IA — è a sua volta un fattore chiave nel determinare se l'IA amplierà o restringerà i divari. La [[research-methods-aied|ricerca]] mostra che gli educatori con maggiore alfabetizzazione sull'IA sono più efficaci nell'identificare e mitigare esiti distorti. Il divario digitale nell'era dell'IA non è quindi semplicemente un problema di dotazione tecnica, ma una questione di giustizia e partecipazione: chi può accedere all'IA, chi può usarla criticamente e chi ne beneficia.
-
 
 Un filone consolidato della letteratura ripercorre come il concetto stesso si sia spostato dall'accesso all'**equità digitale**, oggi definita su quattro dimensioni — alfabetizzazione digitale, accessibilità economica, contenuti sensibili ai gruppi e disponibilità di infrastrutture — e legge l'IA consumer come una nuova ondata del divario che favorisce gli utenti già in grado di verificare criticamente l'output delle macchine ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
@@ -108,44 +108,3 @@ Il divario digitale è una questione centrale della ricerca su [[equity-in-ai-ed
 - Non trattare la distribuzione dei dispositivi come chiusura del divario. I divari misurabili stanno nell'abilità di formulazione, nella lingua dell'interfaccia e nella connettività, e nessuno di essi si risolve con l'hardware.
 - Pubblicare l'infrastruttura che uno strumento presume. Un requisito dichiarato in modo chiaro permette a un contesto con poche risorse di valutare l'idoneità prima di investire.
 - Calcolare il costo dell'intera adozione, non della licenza software. L'evidenza sui gemelli digitali mostra che il conto dell'hardware può sopravvivere alla virtualizzazione.
-
-## Concetti collegati
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Articoli collegati
-
-- [[watanabe-genai-education-gap-europe-2026]] — Il divario educativo nell'uso dell'IA generativa è più piccolo di quello di internet? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
-

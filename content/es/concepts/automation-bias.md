@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -119,46 +121,3 @@ Una parte importante de la literatura incluye el sesgo de automatización en un 
 - **«Una persona en el bucle lo arregla.»** El bucle vale lo que vale la oportunidad de intervenir, y los estudios de calificación no han medido el anclaje.
 - **«Es un problema del estudiantado.»** El profesorado, los evaluadores, los anotadores y los administradores son quienes firman en todos los diseños que describe la literatura.
 - **«Es un defecto de carácter que una mejor formación elimina.»** La formación ayuda, pero la misma persona se comporta de forma distinta según si la verificación es barata, si la salida es fluida y si discrepar tiene un costo.
-
-## Conceptos conectados
-
-- [[trust-calibration]] — el estado de dependencia cuyo fallo nombra el sesgo de automatización
-- [[bias-mitigation]] — la contraparte del lado del sistema: el sesgo dentro del modelo
-- [[cognitive-offloading]] — la delegación del trabajo mental, de la que la aceptación sin comprobación es un resultado
-- [[human-in-the-loop-ai]] — el salvaguarda cuya fuerza decide este fallo
-- [[explainable-ai]] — la intervención de transparencia que el campo propone y rara vez pone a prueba
-- [[learning-analytics]] — paneles y alertas tempranas, donde se concentran los errores de omisión
-- [[recommender-systems-and-learning-paths]] — ordenar lo que hay que hacer después, que el estudiantado puede simplemente seguir
-- [[automated-assessment]] — la puntuación que una persona puede aceptar sin releer
-- [[scaffolding]] — comprobaciones que siguen siendo más baratas que la aceptación
-- [[self-efficacy]] — el rasgo en el que se apoya la predicción estándar
-- [[ai-detection]] — detección juzgada por personas bajo presión de tiempo
-- [[remote-proctoring]] — sospecha suscitada por un modelo y resuelta por una persona
-- [[ai-literacy]] — donde viviría la verificación como habilidad calificada
-
-## Artículos conectados
-
-- [[shi-human-ai-complementarity-safety-2026]] — 416 evaluadores, 3.957 ítems: la asistencia con candidatos primero redujo la detección de errores en los ítems que el modelo erraba del 36,7% al 20,6% (Shi et al., 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — docentes advertidos contra plegarse a recomendaciones construidas con datos escasos
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — nombra el anclaje de los evaluadores por puntuaciones de IA como el riesgo no probado y propone el cegamiento
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — paneles, retroalimentación de rasgos superficiales y semáforos como patrón general
-- [[factria-responsible-institutional-analytics-2026]] — once partes interesadas, cuatro casos, un chatbot que se niega a recomendar
-- [[ludia-udl-ai-thought-partner-2026]] — el salvaguarda del educador debilitado por confiar en el conocimiento de dominio de la herramienta
-- [[extended-minds-coupling-flexibility-2026]] — un derecho formal a rechazar no es supervisión si el sesgo de automatización lo derrota
-- [[ground-truth-reliability-aied]] — anotación con LLM, validación circular y deriva silenciosa de etiquetas
-- [[polished-artifacts-fragile-engagement-2026]] — el sesgo de automatización como vertiente sociocognitiva del esfuerzo epistémico reducido
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — uno de cuatro modos de fallo en el trabajo recursivo humano-IA
-- [[eight-mode-ai-engagement-typology-2026]] — el modo Oráculo y su riesgo característico
-- [[assessing-student-drive-framework-2025]] — la agencia humana activa como salvaguarda frente al sesgo de automatización
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 estudios sobre si la IA desplaza trabajo ajeno o constitutivo
-- [[geoscience-field-learning-genai-2026]] — anclaje, confirmación y sesgo de automatización en el trabajo de campo sujeto a evidencia
-- [[ahmadfard-interactive-oer-review-2026]] — el sesgo de automatización entre los riesgos que erosionan la agencia de estudiantes y docentes
-- [[alshahrani-health-sciences-ai-use-2026]] — las preocupaciones éticas de 310 estudiantes leídas como argumento para una formación explícita
-- [[ai-literacy-legal-translation-2026]] — la posedición enseñada como habilidad calificada frente a las presiones de la ilusión de calidad
-- [[morales-cevallos-ai-forensic-science-education-2026]] — el sesgo de automatización documentado en los estudios de IA forense revisados
-- [[rana-genai-design-thinking-2025]] — andamiajes que mantienen el juicio humano en el centro
-- [[kim-overtrust-ai-literacy-2026]] — la predicción invertida: el estudiantado seguro confió más en la herramienta
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — un marco construido sobre la investigación del sesgo de automatización, no una prueba de ella
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — uno de tres mecanismos que erosionan la ciudadanía crítica
-- [[academic-erasure-complexity-ai-writing-2026]] — el sesgo de automatización dentro del trabajo afectivo de vigilar el uso de IA
-- [[llm-fallacy-misattribution]] — la distinción más cercana: dependencia excesiva de un sistema frente a la competencia personal percibida

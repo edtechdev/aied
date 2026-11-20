@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -108,55 +110,3 @@ Le soutien aux étudiants se rattache à la [[student-experience|expérience ét
 **« L'échelle des résultats se confond : l'engagement, c'est la rétention. »** Chaque barreau mesure autre chose — s'inscrire, répondre, persister, terminer — et un programme peut faire bouger les barreaux inférieurs en laissant les supérieurs plats. Rapporter la part de répondants comme une réussite commet précisément cette substitution.
 
 **« Une préoccupation d'équité est une raison de cesser d'utiliser les données. »** C'est une raison d'agir prudemment sur les scores. Agir sur un prédicteur peut répartir du soutien et peut répartir de la suspicion, et le risque se concentre sur les étudiants que le modèle classe le moins favorablement — ce qui fait du remède une gouvernance de l'usage, non un abandon de la mesure.
-
-## Concepts liés
-
-- [[higher-ed]] — le parapluie sectoriel du travail de soutien institutionnel
-- [[student-experience]] — la manière dont l'IA se traduit dans l'expérience propre de l'étudiant
-- [[learning-gains]] — si l'apprentissage a eu lieu, le résultat pédagogique que le travail de soutien ne mesure pas
-- [[learning-analytics]] — prédiction, alerte précoce et analytique prédictive
-- [[student-modeling]] — la couche de modélisation sous la prédiction du risque
-- [[knowledge-tracing]] — estimation fine des compétences et de la maîtrise
-- [[recommender-systems-and-learning-paths]] — recommander des cours, des ressources et des parcours
-- [[help-seeking]] — comment les étudiants en viennent à demander du soutien
-- [[well-being]] — santé mentale sur le campus, prévention et intervention
-- [[career-development-and-readiness]] — le résultat qui suit l'achèvement
-- [[administrator]] — le rôle qui détient et fait fonctionner les systèmes de soutien
-- [[stakeholders]] — qui a une voix au chapitre sur les décisions institutionnelles en matière d'IA
-- [[change-management]] — pérenniser le programme après le pilote
-- [[governance]] — politique et supervision de l'IA institutionnelle
-- [[educational-policy-ai]] — le contexte politique du déploiement institutionnel
-- [[equity-in-ai-education]] — qui le système atteint et qui il manque
-- [[privacy]] — dossiers des étudiants, partage de données et approches fédérées
-- [[human-in-the-loop-ai]] — le jugement humain à l'intérieur d'un flux de soutien automatisé
-- [[rct]] — le plan derrière les données probantes les plus solides présentées ici
-
-## Articles liés
-
-- [[cefa-ai-learner-support-review-2026]] — Revue de 61 études sur le soutien aux apprenants assisté par l'IA : les systèmes adaptatifs et la prédiction dominent ; la phase de transition et la diversité des apprenants sont absentes
-
-- [[shastry-gray-empathy-offloading-2026]] — Quatre études sur le délestage de l'empathie : croire que l'IA peut fournir un soutien émotionnel réduit ce que les gens apportent eux-mêmes (Shastry & Gray 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — évaluation randomisée sur quatre ans d'un agent conversationnel de soutien universitaire : l'accomplissement des tâches a évolué, ni l'obtention du diplôme ni la moyenne générale
-- [[chatbot-outreach-course-performance-2026]] — essai de démarchage multi-semestres pré-enregistré : taux de A/B plus élevés, déplacements modestes des DFW, une exception démographique
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4 500 vignettes synthétiques : sensibilité limitée aux besoins des étudiants et incohérence entre modèles dans les recommandations de soutien
-- [[sc2r-counterfactual-recourse-educational-2026]] — l'écart d'actionnabilité : le recours doit être réalisable et vérifiable, et pas seulement valide au regard du modèle
-- [[fairness-theatre-early-warning-systems-2026]] — six interventions d'équité a posteriori sur un système d'alerte précoce fournisseur construit à partir de 168 550 dossiers
-- [[at-risk-students-ml-prediction]] — classificateurs supervisés identifiant les étudiants avant leur retrait
-- [[predicting-attrition-competitive-programming]] — journaux comportementaux et enquête psychographique prédisant l'attrition
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — modélisation fédérée du risque entre institutions sans partager les données brutes des étudiants
-- [[precision-education-student-digital-twins-2026]] — les jumeaux numériques et la « réussite étudiante préventive » comme vision
-- [[learning-analytics-to-educational-interventions-2026]] — sept facteurs favorisants pour refermer la boucle entre l'analytique et l'intervention
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — un assistant spécifique à un cours visant à abaisser le coût de la demande d'aide
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — le recours au tutorat testé séparément de l'apprentissage
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — six profils comportementaux rattachés à des objets d'apprentissage recommandés
-- [[trace-course-grade-prediction-2026]] — prédiction conjointe des cours et des notes pour la planification
-- [[zhang-ml-student-progress-programming-2026]] — prédiction interprétable de la progression au niveau des modules
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 études sur l'IA, le leadership et la prestation de services dans l'enseignement supérieur
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — taxonomie en dix domaines de l'IA dans le leadership éducatif
-- [[students-at-stake-ai-deployment-risks-2026]] — la surface de risque du côté étudiant : admissions et aide financière, services de réussite étudiante et enseignement
-- [[ai-campus-wellbeing-tools]] — soutien au bien-être sur le campus couvrant la prévention et l'intervention
-- [[coursegraph-cs-course-comparison-2026]] — équivalence de cours pour le crédit de transfert et la mobilité
-- [[credentials-carry-evidence-ai-agents-2026]] — ce que signifie un registre d'achèvement lorsqu'un agent peut faire le travail
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prédire tôt le risque de tricherie assistée par l'IA, et l'arbitrage de seuil pour un démarchage à faible enjeu
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Cinq études de co-conception d'un assistant d'étude institutionnel : la disponibilité d'abord, la résistance fondée sur les valeurs en dernier

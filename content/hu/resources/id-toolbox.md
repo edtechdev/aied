@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -36,7 +37,3 @@ Az **ID Toolbox** növekvő készlete ingyenes, egycélú segédeszközöknek az
 
 ## Miért létezik
 Curt Zilbersher, aki huszonnyolc éve tervez vállalati képzéseket, ugyanazokat a kis megoldatlan problémákat írja le, amelyek pályája során visszatértek – a narráció szavainak számolása, annak az eszköznek a megkeresése, amely egy kurzust túllökött egy [[edtech-platform|LMS]] limitjén, a feliratlefedettség kézi auditálása –, és megépíti a megoldásokat, majd ingyen odaadja őket. Az oldal emellett ingyenes éves felmérést futtat arról, hogyan töltik valójában a hetüket az oktatástervezők.
-
-## Kapcsolódó fogalmak
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

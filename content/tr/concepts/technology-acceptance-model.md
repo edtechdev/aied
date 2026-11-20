@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -111,54 +113,3 @@ Riskin kullanımla bağlantısı sisteme de bağlıdır: ilgili maddeleri uygula
 - **“TAM’in yapıları benimsemeyi açıklar.”** [[socio-cognitive-genai-adoption-engineering-2026|Asag ve Al Mamun]], Bangladeş’teki mühendislik öğrencileri için TAM’i UTAUT ile bütünleştirmiş ve varyansın **%64’ünü** açıklamıştır. Aynı anda hem önemli hem eksiktir: benimsemeyi yönlendiren şeyin yaklaşık üçte biri klasik kabul yapılarının dışında kalır.
 - **“Kabul modelleri alana özgü değişiklik gerektirmez.”** Klasik yapılara **algılanan yapay özerkliği** (öğretmenlerin GenAI’nin verilen bir öğretim görevini ne kadar bağımsız yürütebileceğine ilişkin inanışları) ve **riskten kaçınmayı** eklemek modeli önemli ölçüde değiştirmiştir. Özgün yapılar, özerkliği olmayan araçlar için kurulmuştu; GenAI ise algılanan özerkliğe sahiptir.
 - **“Meta-analitik bir benimseme tahmini herhangi bir popülasyonu betimler.”** [[teo-ai-adoption-tertiary-meta-analysis-2026|Üçüncül öğrenciler üzerine meta-analiz]] popülasyon düzeyindeki tahmindir; %64’ü açıklayan mühendislik sonucu ise belirli bir popülasyondur. Birini diğerine taşımak, kanıtın kurmadığı bir kararlılığı varsayar.
-
-## Bağlı kavramlar
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Bağlı makaleler
-- [[high-school-genai-acceptance-tam-physics-2026]] — Alana özgü inanışlar TAM algılarının önüne yerleştirilmiştir
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — "Düşman-dost" olarak GenAI: yapay özerklik ve riskten kaçınma TAM’i öğretmenler için genişletir (Dai ve ark. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Hemşirelik YZ deneyimleri; TAM’in psikososyal genişlemesi
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Kümeleme yoluyla GenAI benimseme personaları
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI benimsemesinde simetrik ve asimetrik yollar (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Cinsiyet ve motivasyona göre farklılaşan GenAI angajmanı
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Yükseköğretimde örgütsel YZ benimsemesinin TOE + DOI modeli
-- [[tam-critical-use-genai-engineering-2026]] — Mühendislik/bilgisayar bilimi öğrencileri için eleştirel kullanımla genişletilmiş TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Mühendislik eğitimi için birleşik sosyo-bilişsel model (TAM + UTAUT)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — YZ kaygısından stratejik düzenlemeye
-- [[genai-reliance-types-scale]] — GenAI bel bağlama türleri ölçeği
-- [[llm-reliance-types-undergrad]] — Lisans öğrencileri arasında LLM bel bağlama türleri
-- [[acceptance-ai-english-tools-2026]] — YZ İngilizce araçlarının kabulü
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Öğrenci ChatGPT benimsemesinin davranışsal ve etik iticileri
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT ve öğretmen sohbet robotu motivasyonu
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Gana’daki hizmet öncesi fen öğretmenleri için UTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Hizmet öncesi öğretmen ChatGPT kabul profilleri (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — YZ benimseme faktörlerinin meta-analizi; TAM/UTAUT’u eleştirir
-- [[determinants-chatgpt-use-higher-education-2026]] — Yükseköğretimde gelecekteki ChatGPT kullanımının ML/SHAP belirleyicileri
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI ile güçlendirilmiş UTAUT2: en güçlü öngördürücü olarak alışkanlık, dört benimseme profili (Jácome-Vásconez ve ark. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Yaşa göre kademelenmiş YZ okuryazarlığı kılavuzları için materyal düzeyinde PE/EE/oyunsallık/niyet modeli; belgelenmiş oyunsallık-niyet yapı çakışmasıyla
-- [[risk-perception-genai-perceived-benefits-2026]] — TAM/UTAUT2’ye katıştırılan CAT + PMT: algılanan GenAI faydaları üzerinde boyuta özgü ve monoton olmayan risk etkileri (Du, Ning, Shi ve Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — TPACK yeteneğinin Planlı Davranış Kuramı benimseme modellerine raptiyeyle eklenmesine sıralı bir alternatif
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 sistemde algılanan YZ yararlılığı ve riskinin kişi merkezli TALIS 2024 profilleri
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI destekli öğrenme ertelemesini ve niyet–gecikme bağlantısında kaygının dengeleyiciliğini ölçen TPB genişlemesi
-- [[kim-overtrust-ai-literacy-2026]] - performans beklentisi, motivasyon ve öz yeterlilikten YZ'ye aşırı güvene giden yola aracılık etti
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - öz yeterlilik ile kabul arasında aracı olarak YZ okuryazarlığı, düzeltilmemiş bir kaygı ilişkisiyle (İşbulan ve ark. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — Görev–Teknoloji Uyumu ile birleştirilmiş TAM, ayrıca sinir ağı önem sıralaması ve gerekli koşul eşikleri (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM inanışlarının yukarısındaki tasarım özellikleri ve gereklilik olmayan önem
-- [[pinedo-genai-adoption-marketing-students-2026]] — Hâlihazırda benimsemiş bir popülasyonda alışkanlık UTAUT2'yi taşır
-- [[stalboerger-faculty-perceptions-2026]] — 22 öğretim üyesi, 12 izleme: aşinalık bazıları için etik sorgulamayı sertleştirdi ve kullanım kolaylığı yönünü tersine çevirdi (Stalboerger ve ark. 2026)

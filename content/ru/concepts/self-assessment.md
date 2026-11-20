@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -109,33 +111,3 @@ ai_assist:
 **«Добавление петли [[feedback|обратной связи]] ИИ автоматически улучшает самооценивание.»** Петля обратной связи меняет то, с чем студент сравнивает, что может улучшить калибровку, а может и привязать его к суждению системы. Сравнительное исследование здесь (**118 первокурсников, 56 в группе с GenAI и 62 в группе с взаимным оцениванием**, три цикла за семестр) и построено именно для проверки того, делает ли работу петля или социальное сравнение, — и ответ не «петля, потому что она петля».
 
 **«Самооценивание — более мягкая альтернатива тестированию.»** Это другая цель. Самооценивание развивает регулятивный навык судить собственную работу; тест измеряет способность, о которой идёт суд. Исследования, подменяющие одно другим, смешивают способность оценивать результативность с самой результативностью.
-
-## Связанные концепции
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Связанные статьи
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Самооценивание в центре рамки самонаправленного роста (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Материалы по ИИ-грамотности, разделённые по стадиям развития, с измерением принятия и валидности (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Триангуляция обратной связи ИИ с взаимооцениванием, обратной связью преподавателя и самооцениванием (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Почему обратная связь не должна опираться на самооценённую моделью валидность рассуждения (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Валидированный опросник самооценивания ИИ-грамотности из 15 пунктов для 4–6-х классов, с метакогнитивными пределами детского самоотчёта (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 из 33 инструментов ИИ-грамотности преподавателей — самоотчёт, два тестируют знание объективно, ни один не использует задач на основе результативности (Zainal, Mohd Matore & Maat 2026)

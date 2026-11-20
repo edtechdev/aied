@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -90,35 +92,3 @@ Filosofi AI dalam pendidikan dan [[theory-development-aied|pengembangan teori da
 
 - Nyatakan konsepsi pembelajaran yang diandaikan evaluasi Anda, karena keuntungan yang terukur hanya merupakan kebaikan pendidikan relatif terhadap suatu uraian tentang untuk apa pendidikan itu.
 - Danai kerja filosofis bersama kerja empiris: pertanyaan tentang apa yang dianggap pencapaian siswa menetapkan kriteria keberhasilan yang kemudian digunakan studi empiris.
-
-## Konsep terkait
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filosofi eksperimentasi
-
-## Artikel terkait
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI dalam pendidikan tinggi Tiongkok: integritas dan keterlibatan
-- [[ensemble-cognition-philosophy-ai-education]] — Kognisi Ansambel: kerangka filosofis bagi kognisi manusia–AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbiosis Pedagogis dan Siswa Pasca-Manusia
-- [[videla-embodied-ai-education-choreography]] — Kritik yang tertubuhkan dan pascakognitivis atas AI tanpa tubuh dalam pendidikan
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Model kritis-perkembangan kognisi interpretatif dalam humaniora
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Ko-agensi epistemik sebagai filosofi belajar bersama mesin
-- [[avraamidou-ai-colonization-science-education]] — Filosofi kritis-feminis yang mempertanyakan kolonisasi AI atas pendidikan
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI generatif sebagai Agen Mediasi
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Pembingkaian ilmu pembelajaran ekologis atas GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filosofi eksperimentasi dalam kimia dengan AI
-- [[strydom-human-gai-paradigms-2026]] — Membingkai dinamika manusia-AI: tujuh paradigma keterlibatan GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Filosofi AI Alternatif: Daoisme sebagai Metode bagi AI dalam Pendidikan
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Mengetahui, Siapa yang Menjawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIED 'berpusat pada manusia' dibaca sebagai wacana antroposentris dengan kegunaan komersial (Wang & Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — Dapatkah mesin melakukan kerja emosional? Perdebatan 1950–1996, dan mengapa mimikri tidak cukup menentukan kepedulian

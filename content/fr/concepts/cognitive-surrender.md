@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -116,37 +118,3 @@ Les données probantes en faveur de la capitulation comme construit nommé repos
 **« Le remède est une meilleure IA, puisque la capitulation découle des erreurs. »** La capitulation découle de la *structure* de l'interaction : un système qui produit d'abord une réponse plausible supprime l'occasion, pour l'apprenant, d'en produire une. Améliorer l'exactitude réduit le préjudice des réponses fausses et ne fait rien contre l'abandon de former un jugement, qui est le préjudice persistant une fois l'outil retiré.
 
 **« Enseigner l'évaluation critique suffit. »** C'est nécessaire, et cela arrive trop tard. Une fois une réponse plausible à l'écran, l'évaluation devient confirmation, ce qui explique pourquoi la littérature de conception citée ici place la tentative de l'étudiant avant la production du système plutôt que de l'auditer après coup.
-
-## Concepts liés
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Articles liés
-
-- [[shaw-nave-cognitive-surrender-2026]] — Théorie des trois systèmes et signature expérimentale de la capitulation
-- [[generative-ai-reduced-study-time-math]] — déplacement au niveau de la population dans ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — le cadre capitulation/délestage/autonomie de la petite enfance au secondaire
-- [[du-yuan-epistemic-dependence-2026]] — assistance instrumentale contre assistance porteuse de jugement
-- [[ai-advice-suppresses-ikt-suspension-2026]] — l'effondrement du « je ne sais pas »
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — engagement neuronal et qualité d'auteur
-- [[genai-thoughtless-use-self-directed-learning-2026]] — usage irréfléchi et apprentissage autodirigé
-- [[stamatoulis-genai-use-patterns-2026]] — appropriation à faible vérification contre intégration évaluative
-- [[cognitive-washout-ai-skill-decay-2026]] — ce qui se produit après le retrait
-- [[ai-overreliance-complex-adaptive-system-2026]] — la dépendance comme processus de population
-- [[brcic-effortless-trap-productive-struggle-2026]] — placer l'IA pour que la tâche reste exigeante
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — entraînement au calibrage
-- [[family-school-autonomy-support-genai-2026]] — délestage dépendant contre délestage autonome
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un assistant ancré dans la fiche d'exercices a abaissé le délestage au lieu de l'élever, une condition limite pour la signature de la capitulation (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Délégation naturaliste de dissertations entières : 15 des 77 dissertations entièrement écrites par le modèle, 20 demandes de dissertation complète (Jelson et al. 2026)

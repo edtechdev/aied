@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -95,36 +97,3 @@ ai_assist:
 - **"意向性处理估计描述了工具做了什么。"** 在一项组随机化的可得性试验中，**处理组课堂里约 15% 的学生曾使用过该导师**，其 ITT 估计反映的是**引入**该工具的效应，而不是使用它的效应。低采用率使一个 ITT 数字成为关于实施的陈述，而把它报告为工具效应则夸大了被测量的东西。
 - **"任务上的表现就是结果。"** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui（2025）]]把 **120 名学生**随机分配到 AI 辅助或传统学习，并测量**保持**，这是把即时表现与持久学习分开的设计。一项止步于任务的研究，测量的是较容易的那个量。
 - **"跨数据集比较是直截了当的。"** 一项对合成教育数据的结构检验发现，**按每个数据集各自的阈值来分析，会反转一个在共享工作点上成立的对比**。该比较的符号取决于一个分析选择，而这正是一个预注册的工作点所要防止的那种脆弱性。
-
-## 关联概念
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## 关联文章
-
-- [[access-not-enough-ai-tutoring-2026]] — 一项关于人类支持加 AI 辅导的随机田野研究
-- [[genai-can-harm-teaching-rct-2026]] — 生成式 AI 可能损害教学：一项随机对照试验
-- [[acceptance-ai-english-tools-2026]] — 对 AI 辅助英语学习工具的接受
-- [[tian-genai-learning-adoption-pathways-2026]] — 生成式 AI 采用路径（PLS-SEM、fsQCA）
-- [[teacher-education-ai-literacy-sdt-2026]] — 通过自我决定理论的教师 AI 素养
-- [[jin-glat-genai-literacy-assessment]] — GLAT：一份经 IRT 验证的生成式 AI 素养测验
-- [[ai-lms-middle-school-longitudinal]] — 一项纵向的 AI 整合学习管理系统研究
-- [[adaptive-pretesting-retention]] — 自适应预测试与保持
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构检验
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 一项组随机化的可得性试验需要一次采用核查
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 文献计量分析是又一个量化家族：Sriram 等人
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 生成式人工智能使用与护理学生的人际教育互动：自我调节学习作为统计中介
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI 技术颠覆意识、设计思维心态与设计学生的设计创新能力

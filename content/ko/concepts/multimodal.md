@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -64,7 +66,6 @@ LLM 기반 튜터가 의미가 그래프, 힘의 도표, 개요도, 또는 표�
 
 - **교육과정에 충실한 도해 의존 수학에서 천장은 낮으며, 거부가 보정된 대안입니다.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]]은 도해가 과제 결정적 제약을 담은 이미지 필수 [[math-education|중학교]] 문항 376개로 여섯 멀티모달 모델을 평가했습니다. 이미지와 함께 추론 모델 o4-mini는 57.7%, o3는 52.4%를 풀었고 비추론 계열은 34.0%-42.6%였습니다. 도해를 제거하자 모델들은 95.4%-98.9%의 실행에서 추측하는 대신 거부했으며, 튜터는 이 거부 패턴을 학습자 오류가 아니라 맥락 누락 신호로 다룰 수 있습니다.
 
-
 실천적인 설계 함의는 멀티모달 튜터링에서의 **시각 접지 점검 지점**입니다. 시스템이 해답을 시도하기 전에 자신이 보는 것을 묘사하는 의도적인 단계로, 학생이나 인간 감독자가 지각 오류를 교정할 기회를 줍니다.([[syal-multimodal-dialogue-stem-2026]])
 
 [[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]]는 하나의 사전 제약을 더합니다. 방정식, 그래프, 단위가 보고서에 나타났음에도 처리된 문서에서는 전혀 검색되지 않을 수 있기에, 교수와의 의견 불일치는 추론의 실패가 아니라 추출의 실패일 수 있습니다. 이것이 제출 형식을 평가 설계의 일부로 만듭니다.
@@ -83,9 +84,7 @@ LLM 기반 튜터가 의미가 그래프, 힘의 도표, 개요도, 또는 표�
 - **멀티모달 채점은 문항 수준 채점이 뒤처지는 곳에서도 선발 결과를 재현할 수 있습니다.** 손으로 쓴 올림피아드와 대학 페이지 10,364장을 채점하며, 한 LLM은 심사위원 총점과 r = 0.93–0.96으로 일치했고 같은 다섯 학생을 올림피아드 팀에 배치했으나, 부분 일치는 70%에 이르렀습니다. 기록된 채점자가 아니라 제2 독자의 증거입니다([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **도표 생성은 능력의 최전선이지 해결된 것이 아닙니다.** 멀티모달 출력을 채점하는 15,246문항 물리 벤치마크에서 구조화된 물리 도표를 합성하거나 수정하는 것이 답변하는 것보다 더 어웠고, 주요 모델들은 엄격한 숙달의 70% 아래에 머물렀습니다 — 이는 시각적 *생산*이 시각적 *이해*에 뒤처진다는 증거입니다([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
-
 멀티모달성에는 두 번째 의미가 있습니다. 내용이 아니라 학습자의 몸에서 오는 신호를 융합하는 것입니다. 시선 추적, EEG, 피부 전도 활동, 심박 변이도, 카메라 자세가 주의, 참여, 인지 부하의 추정치에 입력됩니다. 그 감지 갈래는 [[sensor-and-gaze-analytics]]에 있으며, 그 타당성과 동의 문제는 멀티모달 내용이 제기하는 것과 같지 않습니다.
-
 
 ## 언어와 접근 가능한 학습을 위한 멀티모달 AI
 
@@ -101,7 +100,6 @@ LLM 기반 튜터가 의미가 그래프, 힘의 도표, 개요도, 또는 표�
 6. **파이프라인을 내용에 맞추기.** 한 사이버보안 실험 도우미의 멀티모달 LLM은 밀도 높은 시각 슬라이드를 더 잘 다루었고, OCR+LLM 파이프라인은 텍스트 중심 슬라이드에서 현저히 낮은 계산 비용으로 비교 가능한 교수적 가치를 제공했습니다.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 7. **여러 스트림을 모으는 것은 그것들을 통합하는 것이 아닙니다.** AI-[[embodied-learning]] 연구 23편에 대한 검토는 멀티모달 작업을 세 수준으로 나눴습니다. 병렬로 수집된 스트림, 공유 타임라인에 정렬된 스트림, 학습자의 상태를 추정하는 하나의 모델 안에서 융합된 스트림입니다. 대부분의 연구는 첫 수준에 있었고, 이미지와 텍스트, 또는 움직임과 텍스트를 결합하면서도 둘을 실제로 잇지는 않았습니다. 한 연구는 얼굴 정서, 시선, 얼굴 탐지를 사후에 정렬했고, 융합에 가장 가까운 접근은 손목밴드와 골격 신호로부터 마르코프 과정으로 관절 상태를 모형화했으나 세션 이후에 실행되어 학습자가 받는 피드백에는 관여하지 않았습니다. 검토된 어떤 시스템도 사용 중에 입력을 융합하지 않았습니다([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
 
-
 ## 흔한 오해
 
 **"멀티모달 모형은 멀티모달 문제를 처리한다."** 의미가 텍스트가 아니라 그림에 담길 때 정확도는 급격히 떨어집니다. 한 [[physics-education|물리]] 튜터는 텍스트 기반 문제를 **96%**의 경우 답하지만, 의미를 도표에 담은 문제에서는 약 **74%**로 떨어집니다. 이것이 **멀티모달 간섭 효과**입니다. 학문적 내용이 사는 바로 그 지점에서 22포인트의 능력이 사라집니다.
@@ -111,63 +109,3 @@ LLM 기반 튜터가 의미가 그래프, 힘의 도표, 개요도, 또는 표�
 **"멀티모달 능력은 하나의 사다리이므로, 전반적으로 최고인 모형이 이미지가 많은 과제에서도 최고다."** 능력은 과제 특수적이며, 일반 [[benchmark|벤치마크]]에서 앞서는 모형이 힘 도표에서는 뒤처질 수 있습니다. 이미지가 많은 학문에서 관련 시험은 의미가 그림에 담긴 시험입니다.
 
 **"텍스트 전용 튜터링의 한계는 [[curriculum-design|교육과정]] 문제가 아니라 성가신 일이다."** 도표가 곧 문제인 학문, 즉 물리, 화학, 기하, 공학, 의학에서 텍스트 전용 튜터의 역량 경계는 평가되는 내용의 가장자리가 아니라 그 내용을 가로질러 놓입니다.
-
-## 연결된 개념
-
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — 상위 개념: AI 기술과 기법(모델, LLM 훈련, 로봇공학, RAG, 에이전트형)
-- [[virtual-and-augmented-reality]] — 학습 채널로서의 제스처, 음성, 공간 입력
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-
-## 연결된 문서
-
-- [[elkington-human-centred-assessment-value-2026]] — 인간 중심 평가, 아상블라주, 생성적 제약(Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — AI 윤리에 관한 영상 공익 광고 작성을 비판적 AI 리터러시 교수법으로(Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — 실시간 학생 주의 추정을 위한 공정성을 의식하는 멀티모달 트랜스포머 모델링
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — 손으로 쓴 학생 수학 작업에 대한 VLM 수행(DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — 생성형 AI와 함께하는 멀티모달 학습에 관한 교육자 가이드(MMLD-AI 모델)
-- [[syal-multimodal-dialogue-stem-2026]] — 멀티모달 간섭 효과와 STEM에서의 구조화된 대화 회복
-- [[multimodal-ai-feedback-learning]] — 멀티모달 AI 피드백이 학습 면에서는 교육자와 맞먹고 인식 면에서는 능가한다
-- [[multimodal-prompting-ai-literacy]] — AI 리터러시에서 인식론적 작업으로서의 학생의 멀티모달 프롬프트
-- [[multimodal-item-parameter-estimation-2026]] — 멀티모달 LLM으로 IRT 문항 모수 추정하기
-- [[ai-guided-learning-audiovideo-2026]] — AI가 안내하는 오디오-비디오 학습 지원
-- [[multimodal-knowledge-graph-educational-reasoning]] — 교육 추론을 위한 멀티모달 지식 그래프
-- [[mllm-scientific-visualization-literacy]] — 과학 시각화를 위한 멀티모달 LLM 리터러시
-- [[multimodal-affective-its-presentation]] — 정서적 지능형 튜터링에서의 멀티모달 신호
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — 정서적 멀티모달 수학 튜터링
-- [[llm-cognitive-diagnosis-handwritten-math]] — 손으로 쓴 수학의 LLM 인지 진단
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 핵공학 교육에서의 텍스트-이미지 학습
-- [[privacy-aware-classroom-incident-recognition-2026]] — 프라이버시를 의식하는 멀티모달 교실 감시
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — 사이버보안 교육에서의 멀티모달 OCR 교수
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: 슬라이드 감사를 위한 멀티모달 LLM 벤치마킹
-- [[ai-grading-handwritten-physics-2026]] — 손으로 쓴 물리 평가에 대한 AI 채점(올림피아드)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 초등 저술에서의 멀티모달 AI 작성과 비판적 사고(Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — 생성과 정확도를 넘어: 기하 문제 해결을 위한 시각적 연쇄 사고의 진단과 향상
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174점의 작품에 걸친 12개 과제가 보여주는 차원 특수적 프로필으로서의 VLM 능력, 정서적 해석과 시점 의존적 공간 추론에서 가장 약함(Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — 실험 물리 실험 보고서에 대한 AI 지원 평가: 잠재력, 한계, 교수 실천을 위한 지원
-- [[kim-ai-embodied-learning-review-2026]] — 체화 학습에서의 AI는 대부분 관찰한다: 코딩된 역할 태그의 62.5%가 감지 역할이고, 검토된 어떤 시스템도 학습자가 사용하는 동안 멀티모달 스트림을 융합하지 않았다 (Kim & Han 2026)
-

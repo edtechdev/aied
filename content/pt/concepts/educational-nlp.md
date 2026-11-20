@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -70,7 +72,6 @@ O processamento de linguagem natural na educação aplica métodos computacionai
 
 - **A fidelidade de entidades em transcrições de ASR é uma questão separada da acurácia lexical.** Comparando cinco sistemas de reconhecimento de fala com uma transcrição de referência humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard e Rosenberg (2026)]] relatam a primeira evidência de fidelidade de entidades ASR/NER da base de conhecimento: as taxas de erro de palavra variaram de 2,43% (TurboScribe) a 15,32% (Vosk), enquanto a codificação de tipos de entidades-ouro em sete categorias viu o GPT-5.5 alcançar acurácia de 0,805 (κ = 0,726) contra 0,634 do spaCy (κ = 0,488). A WER agregada, sozinha, não pode certificar que a estrutura de entidades sobreviveu à transcrição.
 
-
 ## Conexão com a tutoria e a mensuração
 
 O PLN educacional sustenta tanto a análise da linguagem de quem aprende ([[student-modeling|modelagem do estudante]], [[knowledge-tracing|rastreamento de conhecimento]]) quanto a geração de conteúdo instrucional adaptativo ([[intelligent-tutoring|tutoria inteligente]], [[scaffolding|andaimento]]). [[ai-generated-interactive-fiction-education-2026|A ficção interativa gerada por IA]] demonstra geração de conteúdo para a aprendizagem dirigida por PLN, enquanto [[zerkouk-comprehensive-review-its-2025|a revisão de zerKouk]] situa o PLN no cenário mais amplo da [[intelligent-tutoring|tutoria inteligente]]. À medida que a análise baseada em LLM cresce, os frameworks de [[rct|ensaio controlado randomizado]] e de [[research-methods-aied|métodos de pesquisa]] importam para validar que os insights derivados do PLN melhoram genuinamente a aprendizagem.
@@ -84,39 +85,3 @@ A compressão de modelos pertence ao mesmo conjunto de ferramentas: um pipeline 
 - **"A similaridade semântica pode triar o alinhamento curricular."** Triando **3.837 pares de objetivo–resumo odontológicos**, a recuperação por embeddings mais uma checagem de inferência em linguagem natural **julgou 22,9% dos itens** como alinhados — a similaridade semântica é um **sinal fraco** de alinhamento. Uma correspondência tópica fluente e uma correspondência genuína de objetivo de aprendizagem são relações diferentes.
 - **"A classificação ao nível do enunciado é a unidade natural."** **A modelagem da lição inteira supera a classificação ao nível do enunciado**: pontuar transcrições inteiras em vez de enunciados isolados **elevou a detecção de cadeias de raciocínio em 14,2 pontos percentuais**. O contexto ao longo da lição carrega informação que qualquer turno isolado destrói.
 - **"Escalar o PLN sobre comentários de avaliação produz impacto."** Uma revisão de escopo PRISMA-ScR e mapa de evidência de **421 estudos** (2015-2026) que aplicam PLN à avaliação aberta dos estudantes sobre o ensino constatou escala **sem chegar ao uso**. Volume de produção metodológica não é adoção, e a lacuna é a etapa de implantação, e não a modelagem.
-
-## Conceitos conectados
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
-
-## Artigos conectados
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Agrupamentos por embedding que organizam por formulação, e não por física
-- [[lee-learner-question-types-ai-education-2026]] — Classificação por transformer das perguntas de quem aprende em papéis construtivistas (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Classificação automática de relações de discurso com BERT para o ensino de inglês
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — O conjunto de dados StudyChat de diálogos estudante–LLM em um curso de IA
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alinhamento pedagógico neuro-simbólico (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP e justificativas de LLM para qualidade docente baseada em rubrica
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilando uma LM autoexplicativa para learning analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — LLM multiagente (GradeOpt) codifica o conhecimento de conteúdo e o conhecimento de conteúdo pedagógico dos professores; encoders clássicos e prompting ingênuo ficam aquém em PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da Classificação de Sentimento ao Feedback Acionável e Responsável: Uma Revisão de Escopo e Mapa de Evidências do PLN na Avaliação do Ensino pelos Estudantes, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: pipeline de raciocínio seletivo para marcação refinada de conceitos de conhecimento
-
-- [[nlp-reading-lists-dental-education-2026]] — Processamento de linguagem natural para alinhar leituras aos objetivos de aprendizagem e avaliar o equilíbrio de tópicos na educação odontológica
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: um conjunto de dados de folhas de respostas manuscritas para parsing de documentos híbridos ruidosos

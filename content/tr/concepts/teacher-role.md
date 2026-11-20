@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -189,87 +191,3 @@ YZ destekli planlamada epistemik otorite, politikayla sabitlenmek yerine olay ol
 **“Öğretmenler hâlihazırda YZ’nin ortak tasarımcısıdır, dolayısıyla geçiş sürmektedir.”** Özlem gerçektir; betimleme henüz değil. [[wang-teacher-ai-co-design-review-2026|Wang, Liu ve Islam’ın (2026)]] öğrenme görevlerinin öğretmen-YZ ortak tasarımı üzerine sistematik derlemesi, ortak tasarımcı duruşunun **dengesiz kaldığını** ve baskın kipin hâlâ YZ’nin asistan ya da içerik üreticisi olarak kullanılması olduğunu bulur. Bu derlemeyi tamamlanmış bir kaymanın kanıtı olarak okumak, bu sayfanın önerdiği öğretmenler ile çoğu kurumun fiilen sahip olduğu öğretmenler arasındaki boşluğu gizler.
 
 **“Bir öğretmenin sohbet robotuna nasıl devrettiği pek önemli değildir, çünkü işi model yapar.”** Devir kalıbı müdahalenin kendisidir. Çocukların STEAM sanat dersi planlamasında, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo ve Tahir (2025)]] deneysel olarak, *kendi taslağını çizdiği* bir dersteki içerik boşluklarını doldurmanın öğretmenin tasarım özerkliğini korurken uzman puanlı plan kalitesini de yükselttiğini bulmuştur (medyan 20,5’e karşı 17,6, p = .002, büyük etki) ve taslağı modelin sağlamasına izin verme alternatifinden daha iyi performans göstermiştir. Aynı model, aynı görev, farklı iş bölümü, maddi olarak farklı sonuç.
-
-## Bağlı kavramlar
-- [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
-- [[learner-identity]] — evrilen disiplinsel, mesleki, yaratıcı ve akademik öğrenen kimlikleri
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[stakeholders]] — Şemsiye: YZ eğitiminde kişiler ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[reflection]]
-
-## Bağlı makaleler
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Yarı zamanlı akademisyenler dürüstlük işini yetki olmadan taşıyor
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Daha-insani paradoks: uzman 2030 senaryoları YZ doyumunun insan pedagojik çalışmasını ortadan kaldırmak yerine yoğunlaştırdığını bulur (Malyn-Smith ve ark. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Altı gözlenen lise matematik dersi enstrümantal orkestrasyonu üç yeni türle genişletir (Noh ve Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — YZ üretimi duygusal uyarılara yanıt vermek: matematik sınıfında öğretmen müdahalesi ve öğrenci katılımı
-
-- [[edustories-classroom-case-studies-2026]] — Edustories: Sınıf Uygulamalarından Gerçek Dünya Vaka Çalışmaları Koleksiyonu
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Öğretmenler sınıf sohbet robotlarını sınırlı uzman olarak tasarlar ve otoriteyi ellerinde tutar
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — "Düşman-dost" olarak GenAI: öğretmenler yarı-özerkliği tercih eder, yararlılık benimsemeyi belirler, riskten kaçınma öğrenci kullanımını hedefler (Dai ve ark. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — Yükseköğretimde YZ Destekli Öğretim Görevlisi Karar Verme
-- [[chirikov-regulate-ai-syllabi-2026]] — Öğretmenler 31.000 kurs müfredatında YZ’yi nasıl düzenler; görev düzeyinde düzenleme (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Yüksekokul öğretmenlerinde YZ öğretim inovasyon davranışı (AI-TPACK SEM; Bai ve Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Beceri boşluğu değil, kimlik krizi olarak GenAI
-- [[lodge-loble-cognitive-offloading-2026]] — YZ, bilişsel dış kaynaklığa yüklenme ve eğitim için çıkarımlar (Lodge ve Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — YZ ve Öğretim Tasarımı Uygulaması: Bir Sistematik Derleme (Kibar ve Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — YZ farklı öğrenci profilleri için uygun destek sunabilir mi? Geniş ölçekli bir değerlendirme
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Değerlendirmede hayalet öğrenciler ve ajanik YZ
-- [[wang-teacher-ai-co-design-review-2026]] — Öğrenme görevlerinin öğretmen–YZ ortak tasarımı: eğilimler ve perspektifler (Wang ve ark. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Üniversite öğretmenlerinin GAI deneyimleri ve algıları: kırılganlık, değerlendirmeyi yeniden düşünme, risk altındaki öğrenci öğrenmesi (Farazouli ve ark. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI destekli çalışmalara not vermede değer yargıları: dürüstlük, güven, geçerlilik ve iki yönlü şeffaflık (Luo ve Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Karışık sınıflarda öğretmenlere ML bulgularını erişilebilir kılmak
-- [[li-language-educators-genai-review-2026]] — Dil eğitimcilerinin GenAI ile uygulamaları ve gelişimi
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — YZ tümleşik öğretimde kimlik gerilimleri ve ilkeli seçicilik (Adiozaman ve Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 YZ temelli öğretimde öğretmen müdahalesi: bir sistematik derleme
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Dijital aracı olarak akademik geliştiriciler: rolün yeniden yapılandırılması, duygusal emek ve yargı — Güney Afrika HDIsinde
-- [[where-ai-enters-teacher-work-2026]] — Yapay Zekanın Öğretmen İşine Nerede Girdiği
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: öğrenenler ile YZ arasında vekil olarak öğretmen, eğitimin ve dolaylı emek azalmasının kazanımı yönlendirdiği 19 sınıflık yarı-deneysel çalışma (Rodrigues ve ark. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Tasarımla Öğretim Yönetişimi: Bilişim Eğitiminde YZ için Bir Çerçeve
-
-- [[teachers-configure-educational-chatbots-2026]] — Amacına Uygun Öğretecek mi? Öğretmenler Eğitim Amaçlı YZ Sohbet Robotlarını Nasıl Yapılandırır
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Matematikte öğretmen aracılığı: beş eleştirel aracılık pratiği, kaymakta olan otorite ve ücretsiz–premium algoritmik uçurum
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Öğretmen tasarıma dayalı hazırbulunuşluğu: benimseme veya güven değil, tasarım yetkinliği olarak hazırbulunuşluk (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT destekli öğretmen geri bildirimi: öğretmenler YZ taslaklarını aktarmak yerine derler
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Yetkinlikten ajansa: öğretmenlerin YZ eğitiminin amaçlarına ilişkin görüşleri
-- [[kuhail-great-debaters-ai-facilitators-2026]] — İnsana karşı YZ münazara moderatörleri: eşdeğer derecelendirmeler, farklı yeniden kullanım yolları
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Programlama eğitiminde GenAI: öğretmen rollerinin en az incelendiği bir sistematik derleme
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Bilgi sağlayıcılardan öğrenme tasarımcılarına: YZ destekli eğitimde heutagojik öğretim uygulamaları
-- [[falhs-teacher-expertise-reflection-2025]] — Uzmanlık Düzeyleri Tercihleri ve Yansıtma İhtiyaçlarını Nasıl Şekillendirir: Öğretmen Güçlendirmesi İçin YZ Yansıtma Sistemlerine Doğru (Falhs ve ark. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — YZ kullanımının öğretmen performansına doğrudan etkisi yoktu; vatandaşlık davranışı aracılık etti (Sherly ve ark. 2027)
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Dört kimlik dinamiği, üretken ikirciklik ve ilişkisel işin kurumsal maliyeti
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 İngiliz ortaokulu: ders hazırlığı haftada 25,3 dakika düştü, tespit edilebilir bir kalite kaybı olmadan (Roy ve ark., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — ASSISTments RCT: YZ özetleri ödev tamamlamayı artırdı, sınıf düzeyinde puanları artırmadı (Lim ve ark., 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Üç evreli bir öğretmenlik rolü olarak felsefi liderlik: etik yargı, pedagojik yönlendirme, politika çevirisi (Socorro Márquez ve ark., 2026)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — YZ destekli ders planlamasında otoritenin korunduğu, paylaşıldığı veya devredildiği 34 olay
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Tartışma Panolarına İlişkin Öğrenci Algıları: YZ destekli öğrenme analitiği tasarımına yön veren bir Teknoloji Kabul Modeli çalışması
-- [[gnadlinger-educator-perspectives-its-design-2026]] — Eğitimci perspektiflerinin akıllı öğretim sistemlerinin meta-sistem tasarımına katılmasına doğru
-- [[chen-future-faculty-development-ai-2027]] — Başkalarının uzmanlığının orkestra şefi olarak öğretmen; roller bir öğretim ekibine dağıtılır
-- [[li-instructor-designed-ai-rct-2026]] — Eğitmen tasarımlı YZ, 19 üniversiteyi kapsayan randomize bir denemede öğrenmeyi iyileştirdi (Li ve ark., 2026)

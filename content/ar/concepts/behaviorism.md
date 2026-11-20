@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -94,27 +96,3 @@ ai_assist:
 **«التصاميم السلوكية أدنى من البنائية ببساطة.»** إنها تلائم أهدافًا محددة جيدًا — الطلاقة، والاسترجاع الوقائعي، والآلية الإجرائية — حيث تكون التغذية الراجعة الفورية والتكرار فعلًا ما تتطلّبه المهمة. فالخطأ ليس في الآلية؛ بل في استخدام آلية توقّف شرط صحتها (أن يُنتج المتعلّم الاستجابة) عن الصمود في صمت.
 
 **«لأن النظرية مفنَّدة، يمكن الحكم على الأنظمة المبنية عليها بالمخرجات وحدها.»** المخرجات هي بالضبط ما يفسده تكافؤ المخرَج. فقد يُبلّغ نظام عن مخرجات سلوكية ممتازة بينما انتقل التعلّم إلى مكان آخر، فالأنظمة المتأثرة بالسلوكية تحتاج المقياس غير المساعد أكثر من أي نوع آخر.
-
-## مفاهيم مترابطة
-
-- [[constructivist|البنائية]]
-- [[cognitive-psychology|المعرفية، القطب الكلاسيكي الثالث لنظرية التعلّم]]
-- [[learning-design|تصميم التعلّم]]
-- [[adaptive-learning|التعلّم التكيفي]]
-- [[intelligent-tutoring|التدريس الذكي]]
-- [[feedback|التغذية الراجعة]]
-- [[formative-assessment|التقويم التكويني]]
-- [[self-regulated-learning|التعلّم الذاتي التنظيم]]
-- [[agency|الوكالة]]
-- [[cognitive-offloading|التخفيف المعرفي]]
-- [[learning-theories|نظريات التعلّم]]
-
-## مقالات مترابطة
-
-- [[ai-vocational-education-training-review]] — التصاميم السلوكية للذكاء الاصطناعي تسيطر على ممارسة VET رغم البنائية المُتبنّاة؛ "مصيدة تورينغ"
-- [[generativism-learning-theory]] — السلوكية بين النظريات الأربع السائدة التي يدفع الذكاء الاصطناعي التوليدي إلى إعادة النظر فيها
-- [[ccct-cooperative-learning-technique]] — السلوكية مشار إليها في تصميم التعلّم التعاوني للتعليم العالي
-- [[wang-multi-agent-systems-learning-designers-2025]] — شخصية سلوكية بين مقاربات التصميم التعاوني متعدد الوكلاء
-
-- [[sequenced-ai-feedback-learning]] — التغذية الراجعة المتسلسلة بالتلميحات أدّت أسوأ من التغذية الراجعة الفورية بالحل الكامل في تجربة عشوائية ضمّت 199 مشاركاً
-

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -77,7 +79,6 @@ ai_assist:
 
 - **Готовность, а не наблюдаемое выполнение.** Среди 708 учащихся более интенсивная практика устной речи с помощью ИИ сопровождалась более высокой направленной на человека готовностью к общению (β = 0,384) и более низкой [[anxiety-and-stress|тревожностью]] при говорении на иностранном языке (β = −0,416), причём сценарии с голосовым ассистентом ИИ снижали ожидаемую тревожность ещё сильнее; ни одно из исследований не наблюдало реальную речь с человеком ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
-
 - **Следите за прагматической, а не только грамматической ошибкой в выдаче ИИ.** Преподаватели пяти методов преподавания языка онлайн назвали прагматическую слепоту — когда выдача ИИ грамматически правильна, но неверна по тону, формальности или культуре ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi и Khan (2026)]]).
 - **Приоритизируйте качество обратной связи над количеством при поддержке устной речи ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] обнаруживают, что точная коррекция ошибок и структурированные задачи на размышление улучшают интернализацию [[feedback]] и рефлексивное поведение в устной речи студентов по английскому, тогда как частое использование ASR и точность распознавания повышают мотивацию или размышление лишь частично — техническая точность сама по себе не ведёт к более глубокому когнитивному вовлечению, а владение языком модерирует приросты (более сильные учащиеся интернализуют обратную связь эффективнее). Это говорит в пользу педагогически обоснованной обратной связи (например, артикуляционных объяснений вместо простых флагов ошибок), поддерживаемого размышления и поддержки, дифференцированной по уровню владения языком.
 
@@ -103,60 +104,3 @@ ai_assist:
 - **«Воплощённые роботы-репетиторы работают благодаря воплощённости.»** Метаанализ **11 исследований RALL (N = 595)** обнаружил большой объединённый эффект на обучение L2 (**g = 0,83**) при **высокой неоднородности**, и — что важно — его модерировали признаки **только уровня взаимодействия**. Морфология и модальность — нет, так что оборудование не является действующим ингредиентом.
 - **«Сгенерированные ИИ задания по оцениванию хуже написанных преподавателем.»** Сравнение **52 заданий по оцениванию EFL, оценённых 20 опытными преподавателями**, не обнаружило **значимого различия в качестве в целом** между заданиями, сгенерированными ИИ, и разработанными человеком, но обнаружило расхождение по отдельным измерениям. Общий паритет с конкретными слабостями — иное утверждение, чем улучшение или недостаточность.
 - **«Обратная связь LLM может только оценивать письмо.»** Система уровня дискурса идёт дальше, **называя дефект вместо оценивания текста**, причём классификация отношений между парами предложений локализует **разрывы связности**, такие как логические скачки и отсутствующие связки. Полезный выход здесь диагностический, а не числовой.
-
-## Связанные концепции
-
-- [[eportfolio]]
-- [[writing-education]]
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## Связанные статьи
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Прирост устной речи с чат-ботами сосредоточен в диапазоне и разборчивости
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Взаимодействие студент–ИИ при компьютерном последовательном устном переводе
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Профили и переходы психологической адаптации в изучении японского языка с помощью ИИ
-- [[llm-agents-5e-esl-grammar-2026]] — Агенты LLM с рамками 5E для овладения грамматикой ESL (Yang, Weng и Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Промптинг против тонкой настройки GPT для генерации заданий на аудирование L2 (Aryadoust и Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — Классификация дискурса BERT для преподавания английского
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Задания по оцениванию, сгенерированные ИИ, в сравнении с разработанными человеком, в EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: ИИ-грамотность среди преподавателей языка
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Метаанализ обучения языку с усиленными ИИ воплощёнными роботами
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT для автономного изучения языка
-- [[chatgpt-english-language-learning-malaysia]] — Опыт студентов с ChatGPT в изучении английского языка
-- [[liu-emerging-tech-tefl-review-2026]] — Метаанализ новых технологий для EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Теория целеполагания: поддержка преподавателей, целевые ориентиры достижений и вовлечённость в изучении английского с помощью ИИ (758 китайских студентов)
-- [[li-language-educators-genai-review-2026]] — Практики и развитие педагогов языка с GenAI
-- [[asr-english-speaking-feedback-metacognition-2026]] — Технология ASR в устной речи студентов по английскому: интернализация обратной связи и метакогнитивные стратегии
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Программа письма с поддержкой GenAI для учащихся L2 начального уровня (Lu et al. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Прагматическая слепота: выдача ИИ может быть грамматически правильной, но культурно неверной
-- [[ai-speaking-practice-communicative-readiness-2026]] — Готовность, а не наблюдаемое выполнение: практика устной речи с ИИ и готовность к общению (Wang & Li 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Расширение опоры ИИ на совместное чтение через социальную аннотацию (Pan и др. 2026)
-- [[acoustic-lexical-native-language-identification-learners-2026]] — Аудио превосходит zero-shot классификатор GPT-4o по транскрипту в идентификации L1 (Uluslu et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — Обратная связь по процессу повысила обращение к источникам и сократила использование машинного перевода в курсе новостного перевода
-- [[wordofa-genai-grammar-instruction-efl-2026]] — Обучение грамматике с помощью генеративного ИИ и самоэффективность и металингвистическая осведомлённость эфиопских студентов EFL

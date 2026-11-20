@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -93,43 +95,3 @@ Hakimiliki ni swali lingine la kisheria katika eneo hili, na linaendeshwa kinyum
 **"Kugundua kunatoa ushahidi ambao utaratibu unahitaji."** Kugundua kunatoa alama. Swali la ushahidi ni kama tuhuma inaweza kuthibitishwa kabisa, na [[ai-detection|fasihi ya kugundua]] inaonyesha kuwa zana hazitoi uaminifu wala kategoria inayoweza kufasiriwa ambayo mchakato wa nidhamu unahitaji. Kujenga utaratibu juu ya kifaa cha kugundua ni kujenga juu ya kiungo dhaifu zaidi.
 
 **"Hatari ni za kudhaniwa, na sera itafuata."** Hatari zinasambazwa kwa njia isiyo sawa sasa, na wanafunzi wanaozibeba ni wale wasioweza kuipinga kweli kwa urahisi. Kutokuwa sawa kati ya uwezo wa taasisi wa kuchunguza na uwezo wa mwanafunzi wa kujibu ni madhara ya sasa badala ya ya baadaye.
-
-## Dhana Zilizounganishwa
-
-- [[academic-integrity]] — mfumo wa mwenendo ambao utekelezaji wake unabeba hatari
-- [[ai-detection]] — kifaa kilicho katikati ya kesi za tuhuma za makosa
-- [[remote-proctoring]] — ufuatiliaji katika tathmini na maswali yake ya ulinzi wa data
-- [[assessment-validity]] — kama ushahidi unaweza kuthibitisha dai linalotolewa kutoka kwake
-- [[privacy]] — ukusanyaji, uhifadhi na usindikishaji wa mbele wa data ya wanafunzi
-- [[regulation]] — wajibu wa kisheria na wa udhibiti ambao taasisi lazima zitimize
-- [[governance]] — ubini wa sera ya ndani na uthabiti wa utekelezaji
-- [[educational-policy-ai]] — sera ya AI ya taasisi kama chanzo cha mamlaka yasiyokusudiwa
-- [[ai-use-disclosure]] — matarajio ya ufichuzi na kingo zake zisizoweza kutekelezwa
-- [[accessibility]] — marekebisho ya uwazo pale kanuni inapoondoa zana ya msaada
-- [[assistive-technology]] — zana zilizo katikati ya tatizo la upana kupita kiasi
-- [[neurodiversity]] — wanafunzi walio hatarini zaidi na makatazo ya upana kupita kiasi
-- [[equity-in-ai-education]] — mzigo tofauti wa kugundua na ufuatiliaji
-- [[student-experience]] — gharama ya kibinadamu inayotangulia ya kisheria
-- [[hallucination-risk]] — mamlaka ya ubinifu kama dhima ya kitaalamu na ya taasisi
-- [[reducing-ai-misuse]] — njia mbadala ya kuzuia kwa tuhuma
-
-## Makala Zilizounganishwa
-
-- [[munoz-misconduct-allegation-evidence-2026]] — Faili za tuhuma za mwenendo mbaya zina ushahidi upi kwa kweli, na wajibu wa haki asilia
-- [[hadra-ai-detector-accuracy-efl-2026]] — Usahihi wa kifaa cha kugundua, kushindwa kwa maandishi mseto, na hatari ya kuchanganua makosa ya EFL
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Uhakika wa zana za kugundua katika mkusanyiko wa pili
-- [[bassett-ai-detectors-education-2026]] — Kwanini hakuna kizingiti cha kugundua kinachoweza kuwa sahihi: hoja ya ubadilishanaji wa makosa
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Taratibu za mwenendo mbaya zinapimwa upya wakati ushahidi umekuwa usioweza kugunduliwa
-- [[wright-transcription-not-generation-2026]] — Kanuni za AI za upana kupita kiasi, marekebisho ya ulemavu na marekebisho ya uwazo
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Uangalizi wa mbali umerambazwa, na masuala ya faragha na ufuatiliaji
-- [[automated-online-exam-proctoring-decade-review-2026]] — Mwongo wa utafiti wa uangalizi otomatiki
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Udanganyifu wa kitaaluma na uangalizi katika enzi ya AI
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Uwazi wa sera kama sharti la utekelezaji unaoweza kudhibitiwa
-- [[qian-governing-genai-higher-ed-policy-2026]] — Sera na mifumo ya msaada katika vyuo vikuu vya Marekani vilivyo na uvumbuzi
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Makubaliano ya wataalam juu ya utawala uliogawanyika
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uadilifu kupitia uamuzi unaoonekana badala ya ufuatiliaji
-- [[shin-ai-policies-sld-2026]] — Pengo la sera kwa wanafunzi wenye ulemavu mahususi wa kujifunza
-- [[li-genai-assessment-language-equity-2026]] — Usawa wa lugha kama tatizo la kubuni kanuni: mpaka wa msaada–ubadilishaji, ubaguzi usio wa moja kwa moja na uwezo wa kupitiwa upya (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Wanafunzi wanaishambulia wapangaji alama za AI kwa sindikizo za kupitia zilizopitishwa kwa njia isiyo ya moja kwa moja, na alama zikibadilishwa bila kugunduliwa (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Viashiria vya utawala na mpango wa mageuzi kwa kuthibitisha tathmini (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Wataalam 1,057 wa Marekani: sera za watu binafsi zinazidi sana za taasisi, jibu la kimuundo ni nyembamba (Watson & Rainie 2026)

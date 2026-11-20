@@ -22,7 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -106,47 +107,3 @@ ai_assist:
 ## Цитування
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Пов’язані поняття
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Пов’язані статті
-- [[lund-socially-accountable-data-science-xai-2026]] — Рамка з чотирьох опор (answerability, responsibility, enforcement, reflexivity) для викладання XAI як практики підзвітності (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Чутливе до цінностей проєктування зосереджених на студенті ITS (колаборативні проти сирих пояснень)
-- [[xai-education-framework]] — XAI-ED: фундаментальна рамка для пояснюваного ШІ в освіті (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Специфічні для домену пояснення будують довіру і прийняття викладачів (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Перспективи студентів щодо прозорого оцінювання з допомогою ШІ (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Інтерпретоване трасування знання
-- [[explainable-probabilistic-kt]] — Пояснюване трасування знання через ймовірнісні вбудовування
-- [[neural-symbolic-knowledge-tracing]] — Нейросимволічне трасування знання
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистиляція моделей чорного ящика в самопояснювальні LM для аналітики навчання
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Федеративна та пояснювана аналітика навчання для моделювання ризику зі збереженням приватності
-- [[sc2r-counterfactual-recourse-educational-2026]] — Обмежене семантикою контрфактичне відшкодування для підтримки освітніх рішень
-- [[fair-explainable-edu-recommendations]] — Справедливі та пояснювані освітні рекомендації
-- [[multimodal-affective-its-presentation]] — Інтерпретований ITS із замкненим циклом для мультимодального афективного зворотного зв’язку
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Пояснення впровадження ChatGPT у вищій освіті
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Пояснювана за проєктуванням рамка LLM: увага двох лінз і параметризовані балом пояснення для автоматизованого оцінювання викладачами (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Ін’єкція підказки в оцінюванні, опосередкованому ШІ, де виявлення ніколи не повідомлялося користувачеві (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оцінювання попередньо навчених моделей для педагогічного оцінювання нових освітніх питань із допомогою ШІ
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Рішення про оцінювання, зроблені викладачем проти ШІ: письмове обґрунтування розширило розрив у справедливості
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Цитати й сигнали авторитету підвищили покору хибній продукції, частина посилань хибно приписана або вигадана
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — символічні, субсимволічні та нейросимволічні моделі в одній когорті приписували свої прогнози різним чинникам
-

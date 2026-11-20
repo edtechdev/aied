@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -84,28 +86,3 @@ SAMR מובנת טוב יותר כעדשה לעומק שילוב המשמשת ב
 **"SAMR ו-TPACK הן מסגרות מתחרות."** הן מתארות דברים שונים: SAMR מתארת את *מידת השינוי* במשימה, בעוד [[tpack|TPACK]] מתארת את ה*ידע* שהמורה זקוק לו כדי לשלב טכנולוגיה היטב. מורה יכול להיות בעל יכולת TPACK גבוהה ובכל זאת לפעול בהחלפה, וזו הסיבה שמשתמשים בשתיים יחד ולא בוחרים ביניהן.
 
 **"כלי שהוא מהפך בשלב אחד הוא מהפך בכל השלבים."** אותו כלי יוצרי יכול לתמוך בהחלפה בקורס אחד ובעיצוב מחדש באחר, מכיוון שהשלב הוא תכונה של עיצוב המשימה ולא של הטכנולוגיה. ייחוס השלב לכלי מייצר החלטות אימוץ במקום החלטות עיצוב.
-
-## מושגים מקושרים
-
-- [[ai-education]] — בינה מלאכותית בחינוך (מטרייה)
-- [[tpack]] — ידע טכנולוגי, פדגוגי ותכני
-- [[technology-acceptance-model]] — מודלים לאימוץ טכנולוגיה
-- [[icap-framework]] — מסגרת ICAP למעורבות קוגניטיבית
-- [[ai-technologies]] — טכנולוגיות וטכניקות בינה מלאכותית
-- [[teacher-ai-competency]] — כשירות מורים בבינה מלאכותית
-- [[educational-development]] — פיתוח חינוכי
-- [[learning-design]] — עיצוב למידה
-- [[k-12]] — חינוך K-12
-- [[higher-ed]] — השכלה גבוהה
-- [[generative-ai]] — בינה מלאכותית יוצרת
-
-## מאמרים מקושרים
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — שילוב בינה מלאכותית בהשכלה גבוהה בדירוג SAMR: בעיקר החלפה/הרחבה
-- [[thermomix-genai-education-analogy-2026]] — ICAP ו-SAMR ממפים את ארבעת תרחישי הבישול-ללמידה
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR כאחת מהעדשות לשינוי תכנית הלימודים הנגרם על ידי בינה מלאכותית יוצרת
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR כאחת המסגרות המושפעות מתקני טכנולוגיה לסגל
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — הביקורת הפוסט-הומניסטית על האונטולוגיה ההומניסטית של SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — שתיקות SAMR על כוח, בעלות על נתונים ואחריותיות
-- [[genai-use-changing-institutional-policy-physics-2026]] — שימוש סטודנטים בבינה מלאכותית יוצרת תחת מדיניות מוסדית משתנה: פונקציות שימוש הממופות לשלבי SAMR (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

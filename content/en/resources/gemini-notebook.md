@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-09-22"
     agent: hermes-agent
 verified: [links]
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 **Gemini Notebook** is Google Labs' [[rag|retrieval-augmented]] study and research assistant, known as NotebookLM until the July 2026 rename. A notebook is a set of sources the reader chooses — PDFs, documents, slides, websites, pasted text, or the transcripts of YouTube videos — and every answer the assistant gives is drawn from that material with citations back to it. Where a general-purpose [[conversational-ai|chat assistant]] answers from its training data, Gemini Notebook answers from the reader's own shelf of documents, and that constraint is the product.
@@ -39,6 +40,3 @@ Ask questions across the whole source set, summarize long documents, and follow 
 ## Notes and caveats
 
 Google states that personal-account content is not used to train its models unless the user submits feedback, that Workspace uploads, queries and responses are not used for training even when feedback is given, and that [[privacy|data is not shared with third parties]]; deleted notebooks, however, cannot be recovered. The capability claims above are the vendor's own, and a district or institution should confirm them against its data processing agreement rather than a product page. Coverage in 2026 also described a lawsuit over the voice used in generated podcasts, which Google denied, a reminder that audio outputs raise [[legal-issues-and-risks|likeness questions]] separate from the source-grounding safeguards. Treat generated flashcards, quizzes and summaries as drafts to check against sources, and note that the free tier's limits change without notice.
-
-## Connected Concepts
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

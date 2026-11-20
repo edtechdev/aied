@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -68,45 +70,3 @@ Kujifunza kwa watu wazima kunakaa katika mwanja wa dhana kadhaa zinazohusiana ka
 - **"Chombo kimoja kizuri kinatosha kwa wanafunzi wazima."** Utafiti uligundua kwamba **hakuna mfumo mmoja wa AI wa kujifunza kwa watu wazima ulikidhi miongozo yote ya ubuni**; ikolojia kamili ilihitajika. Watu wazima huja na majukumu, ratiba zisizo za mara kwa mara na malengo yasiyofanana, hivyo bidhaa moja haiwezi kufunika nafasi ya ubuni.
 - **"Ujuzi wa kidijitali unaweza kudhaniwa katika kiwango cha watu wazima."** [[community-centered-ai-education-adults|Masudio ya kesi ya Magharibi ya Kati]] yalibuni kwa ushirikiano programu ya ujuzi wa AI kwa **watu wazima 54 katika jamii isiyopata huduma za kutosha** na kugundua kwamba elimu ya AI ya watu wazima inayoelekea usawa **lazima ishughulikie kwanza ujuzi wa msingi wa kidijitali na uaminifu wa data**. Umri si kipimo cha ufasaha wa kidijitali.
 - **"Upokeaji ni tatizo la motisha."** Kujenga [[ai-literacy|ujuzi wa AI]] na [[trust|uaminifu]] kuzunguka faragha ya data lazima kutangulie matarajio ya upokeaji. Utayari hufuata kutoka kwa uhakika kuhusu kile kinachotokea kwa data ya mtu, si kutoka kwa shauku kuhusu teknolojia.
-
-## Dhana Zilizounganishwa
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Kufundisha na Kujifunza Mtandaoni
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Makala Zilizounganishwa
-
-- [[ai-adult-learning-guidelines-dis2026]] — Miongozo ya Kubuni Teknolojia za AI Kusaidia Kujifunza kwa Watu Wazima
-- [[andragogy-cognitive-delegation-genai-2026]] — Nini Kinabaki Kijiongoza? Kuzuru Andragogia Kupitia Ukabidhiwa wa Kiakili katika Kujifunza kwa Watu Wazima Kunakoendeshwa na AI Inayozalisha
-- [[ai-lifelong-learning-policy]] — Akili Bandia katika Kujifunza Maisha Yote: Fursa na Changamoto katika Sera ya Elimu ya Watu Wazima
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive na Mfumo wa Tutor-in-the-Loop (TITL) kwa Usawa katika Elimu ya Mbele
-- [[community-centered-ai-education-adults]] — Kubuni Pamoja Elimu ya AI Inayozingatia Jamii kwa Watu Wazima: Uchunguzi wa Kati-Magharibi
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Mifumo Mipya ya Kujifunza kwa Taasisi za Elimu kwa Mbali? Mapitio ya Masudio Sita ya Kutekeleza AIDA
-- [[institutional-governance-ai-universities]] — Mgawanyo wa Sera au Mlingano wa Taasisi? Utawala wa Taasisi wa AI katika Vyuo Vikuu na Shule za Biashara
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Uzoefu wa kujifunza ulioimarishwa na AI inayozalisha kwa ufikiri wa kikokotozi: Mapitio ya kina ya kitengo na miongozo ya ubunifu
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Kuramanisha Mtaala Unaojitokeza wa Uhandisi wa Programu Unaosaidiwa na AI kupitia Uchanganuzi wa Mtaala
-- [[learner-ai-interaction-patterns-oop]] — Mifumo ya Mwingiliano wa Mwanafunzi-AI na Utendaji wa Kitaaluma katika Kozi ya Programu Inayoelekezwa na Vitu
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI Kusaidia Kujifunza Kulingana na Kushindwa kwa Tija
-- [[kim-ai-andragogy-2026]] — Matumizi ya AI katika Kusaidia Andragogia (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Buni kwa ajili ya wigo wa ushiriki: fanya mazungumzo ya kina ya Sokrasi kuwa njia yenye thawabu zaidi

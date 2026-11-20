@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -104,54 +106,3 @@ A kritikus gondolkodás metszi a [[scaffolding|vázolást]] (olyan MI-támogatá
 - **„A jobb prompt jobb kritikus gondolkodást eredményez.”** **A strukturált dialógusvezérlés, nem a jobb prompt** választja el a hibás érvelést tanító tutort a vitatkozó chatbottól: a **Toulmin-alapú szándékfelismerés** minden fordulón való átvezetése végezte a munkát. A mechanizmus az interakció szerkezete, nem a megfogalmazás.
 - **„A GenAI-használat közvetlenül növeli a kritikus gondolkodást.”** A GenAI-használat és az **önbevalláson alapuló** kritikus gondolkodás kapcsolata **szinte teljes egészében a GenAI [[feedback-literacy|visszajelzés-írástudáson]]** keresztül futott — **421 kínai egyetemista** körében a visszajelzés-írástudás az összefüggés **71%-át** közvetítette. Az írástudás maga az útvonal.
 - **„A meta-analitikus hatás egyenletes.”** **29 kísérletben** a GenAI mérsékelten növelte a magasabb rendű gondolkodást (**g = 0,609**), a kritikus gondolkodás **ES = 0,691** mellett. A heterogén beavatkozások feletti mérsékelt összevont hatások a kategóriát támogatják, nem egy konkrét tervet.
-
-## Kapcsolódó fogalmak
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Kémiaoktatás és MI: laborok, formáló értékelés, LLM-korlátok, a kísérletezés filozófiája
-- [[biology-education]] — Biológiaoktatás és MI: laborasszisztensek, MI-írástudás a biológiában, kritikus gondolkodás, speciális eszközök
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Kapcsolódó cikkek
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — A kritikus gondolkodás a munkamegosztáson és a kimenet átdolgozásán keresztül fut, nem a kitettségen
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 szakértő konszenzusa: a kritikus gondolkodás kapta a jelentés legmagasabb zavarási minősítését (átlag 4,00)
-- [[pearls-epistemic-verification-2026]] — A PEARLS keretrendszer az episztemikai önállósághoz és az MI-kimenet ellenőrzéséhez (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Rétegérzékeny kognitív tehermentesítés GenAI-támogatott írásban (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — A kritikusgondolkodás-paradoxon a GenAI-integrált tanulásban
-- [[pedagogy-ai-mistakes]] — Az MI-hibák pedagógiája: a magasabb rendű gondolkodás ápolása (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Háromrendszeres elmélet és kognitív megadás: hogyan formálja át az MI az emberi érvelést (Shaw és Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — A kognitív közjavak tragédiája: az MI és a szakértelem újratermelése
-- [[zhao-genai-higher-order-thinking-meta-2026]] — A GenAI és a magasabb rendű gondolkodás meta-analízise
-- [[avraamidou-ai-colonization-science-education]] — A természettudományos oktatás MI-gyarmatosításának megzavarása
-- [[li-mroziak-reorienting-critical-ai-literacy]] — A kritikai MI-írástudás újraorientálása
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-mintázatok LLM-vezérelt környezetekben (Bloom szemszögéből)
-- [[probing-ai-generated-physics-solutions-2026]] — A diákok felkészítése az MI-generált fizikai megoldások bírálatára
-- [[student-reception-genai-analogies-computing-2026]] — Hibás, de emlékezetes: a diákok kritikus recepciója az érdeklődésre személyre szabott GenAI-analógiákról az informatikaoktatásban
-- [[daoism-ai-education-philosophy-2026]] — Alternatív MI-filozófia: a taoizmus mint módszer az oktatásban használt MI-hez
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fenntartható tanulás ápolása testesült intelligencián keresztül (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Az MI-túlzott támaszkodás mint komplex adaptív rendszer modellezve
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimenzióspecifikus kritikusgondolkodás-nyereségek MI-támogatott multimodális írásban (Lu és mtsai. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — a hibás érvelés felismerésének tanítása strukturált többfordulós dialóguson keresztül
-- [[caeai-ai-companions-learning-over-performance-2026]] — tanulás a teljesítmény előtt: mire kellene optimalizálni és mérni a társakat
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — MI-vázolás, tehermentesítés és ellenőrzési írástudás metakognitív önszabályozáson keresztül (Davor és mtsai. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — A GenAI-függőség korlátozza a használat–kritikus gondolkodás kapcsolatot üzleti hallgatóknál (Shojaei és mtsai. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflexiós prompt csökkenti a hibás MI-tanács elfogadását és a tulajdonítási torzítást (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Szerepváltás mint a kritikus ember–MI interakció szerkezete (Kenzhebayeva és mtsai. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Ellenőrzésközpontú GenAI-integráció az egyetemi kémiaoktatásban (Vega-Baudrit és Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — a tanár által kurált ChatGPT-visszajelzés magasabb rendű revízión keresztül növelte a kritikus gondolkodást (Chen és mtsai. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — egy szemeszter MI-hozzáférés laposon hagyta a kritikus gondolkodást; a reflektív használat jelezte előre (Melanou és mtsai. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — A GenAI-függőség pozitívan társul a kritikus gondolkodáshoz 1 157 végzős hallgatónál
-- [[genai-use-critical-thinking-moderation-2026]] — A GenAI-használattól a kritikus gondolkodásig visszajelzés-írástudáson keresztül, közvetlen út csak a kevésbé reflektív diákoknál
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — A moderációs bizonyítékok pesszimista olvasata: súrlódásvesztés, automatizálási torzítás, hatékonysági keret
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — 108 dokumentum narratív áttekintése: a hatás előjele az előzetes tudást és a feladat időzítését követi (AMCIF keretrendszer)

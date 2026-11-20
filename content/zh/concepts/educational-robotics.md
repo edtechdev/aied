@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -81,58 +83,3 @@ ai_assist:
 - **“机器人因为是机器人就教计算思维。”** 一项对 **53 项研究**的系统综述发现，**基于问题的学习、讲故事与脚手架**是最常用的策略；教学法承载了结果，而它也正是这些研究实际做的事。
 - **“实体机器人在各方面胜过基于屏幕的替代方案。”** 增益是**依赖于任务**的：一项短期迁移分数**高出 60%**（[[aifred-desk-robotic-ai-guidance-2026|Orlando 等，2026]]）（4.4/10，p = .003），作者把它归因于**空间共置而非普遍替代**。该主张是关于特定任务上的共置，而不是关于一般意义上的实体性。
 - **“幼儿园计算思维太早，没有意义。”** 被综述的证据直接覆盖幼儿园机器人，这意味着该年龄段是被研究过的，而不是被假定不合适的。
-
-## 关联概念
-
-- [[early-childhood-elementary-ai-education]] — 早期童年与小学 AI 教育
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — 总括：AI 技术与技术手段（模型、LLM 训练、机器人、RAG、能动性）
-
-## 关联文章
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper 机器人在正规教育中的范围综述
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI 增强的具身机器人辅助语言学习的元分析
-- [[white-wu-robotics-ai-education-2026]] — 机器人技术与教育中的 AI
-- [[computational-thinking-educational-robotics-secondary-2026]] — 计算思维与教育机器人
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — 生成式社交机器人的知识驱动设计
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — 教育 HRI 中的任务情境与信任
-- [[human-autonomy-agency-hri-review-2025]] — HRI 中的人类自主与能动性
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub 叙事 HRI
-- [[pepper-robot-sign-language-lis-2025]] — Pepper 与手语
-- [[social-robot-study-companions]] — 作为学习陪伴的社交机器人
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 创意写作中的机器人—LLM 整合
-- [[game-based-gamified-robotics-education-review-2026]] — 基于游戏与游戏化的机器人教育
-- [[bots-blocks-project-based-robotics-education-2026]] — 面向机器人教育的基于项目方法（Bots and Blocks）
-- [[educational-robotics-pathways-2026]] — 学习 AI 驱动教育机器人的路径（2026）
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园中由机器人中介的计算思维
-- [[ai-toys-child-development-2026]] — AI 玩具与儿童发展
-- [[creative-project-approach-ai-early-childhood-2025]] — 创意项目路径：把编码与生成式社交机器人融入早期童年项目（Yang、Li & Lee 2025）
-- [[teaching-with-robots-five-types-perspective-2026]] — 五种功能上截然不同的课堂机器人类型，从脚本化演示到一对一共情对话（Christ 等 2026）
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC：一个以枢纽为基础的框架，把技术指导能力和枢纽地理（而非硬件）视为农村 K–12 机器人项目的约束（Jacobson 等 2026）
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — 面向高中生教授强化学习与人形机器人：在低成本开放平台上经专家验证的课程设计
-- [[aifred-desk-robotic-ai-guidance-2026]] — 桌面机器人投影仪：共置引导在笔记本 ChatGPT 失效之处保住了迁移
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 视觉与语言模型为 Nao 机器人规划 Shoebox Tasks（Kudláčková 2026）

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -118,42 +120,3 @@ Schließlich ist Erhebung nicht Integration. Kim und Han fanden, dass die meiste
 **„Engagement ist eine Sache, also kann ein Score es repräsentieren."** Das Konstrukt hat drei Stränge, und ein Sensor erreicht überwiegend den ersten. E3Sense fand, dass Lernende es über kognitive, behaviorale und emotionale Indikatoren in unterschiedlichen Anteilen definierten, und diese Definitionen veränderten die Vorhersage ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Eine einzelne Zahl verbirgt, welche Ebene gemessen wurde.
 
 **„Wenn das Modell im Validierungssplit fair ist, ist es im Klassenzimmer fair."** Ein Regularisierer, der den Validierungsfehler zwischen Geschlechtsgruppen ausglich, verschlechterte die Lücke bei zurückgehaltenen Daten ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Fairness ist eine Eigenschaft eines Einsatzes, nicht eines Checkpoints.
-
-## Verbundene Konzepte
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Verbundene Artikel
-
-- [[nissan-nursing-empathy-computer-vision-2026]] — Die Erkennung physischen Kontakts folgte der von Beobachtenden bewerteten Empathie, die Lächelerkennung war gegenläufig, Blickkontakt und Heatmaps ergaben Nullbefunde (Nissan et al., 2026)
-- [[gaze-informed-ai-children]] — Blickausgelöste LLM-Erzählung hielt Kinder 6,48 s in einem erzählten Bereich gegenüber 1,67 s, aber die Studie maß Aufmerksamkeit statt Verstehen (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Kopfbefestigtes EEG, Eye-Tracking und Stirn-EDA sagten selbst bewertetes Engagement mit 75,0% Genauigkeit innerhalb einer Stufe gegen eine Baseline von 63,0% voraus (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage fusionierte sieben Wearable- und Kameraströme zu Engagement-Schätzungen auf Segmentebene (MAE 0,81) und argumentiert für leichtere Instrumentierung (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — Ein multimodales Aufmerksamkeitsmodell erreichte MAE 0,283, und seine Fairnessgewinne in der Validierung kehrten sich bei zurückgehaltenen Subjekten um (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable-KI ist doppelt transparent, sodass physischer Ausschluss scheitert und die Durchsetzung dazu driftet, die Körper von Studierenden zu beurteilen (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — Fünfzehn Modelle zur EEG-Vertrautheitsvorhersage fielen unter trial-unabhängiger Validierung von 0,9853 auf 0,6038 F1 (Nanayakkara und Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — Aus EEG rekonstruierte Bilder folgten der Testleistung bei R² = 0,79, wobei ein Teilnehmender mit hoher Rekonstruktionsqualität falsch antwortete (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — Random Forest sagte Prüfungsnotenkategorien aus EDA, Bewegung und Hauttemperatur voraus – Signale, die Erregung statt Verstehen indizieren (Yamazaki und Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Bei 458 Studierenden mit Oura-Ringen folgte das emotionale Register statt des Sorgenthemas Schlaf und Herzfrequenzvariabilität (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Webcam-Blick steuerte Reinforcement-Learning-Feedback für 187 Lernende; Aufmerksamkeit korrelierte mit Lernen bei r = 0,017, während Arbeitslast negativ korrelierte (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11-Haltungsmerkmale markierten verdächtiges Verhalten mit 99,56% auf einem maßgeschneiderten gelabelten Set, ohne Fehlverhalten oder Fairness zu testen (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Die EEG-Konnektivität sank mit externer Schreibunterstützung über 54 Teilnehmende, was Abhängigkeit als akkumulierte kognitive Schuld rahmt (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — Über 23 Studien dominierten sensorische Rollen mit 62,5% der Tags, und kein geprüftes System fusionierte multimodale Ströme live (Kim und Han, 2026)

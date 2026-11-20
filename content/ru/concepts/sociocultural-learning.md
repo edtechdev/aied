@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -47,9 +49,7 @@ ai_assist:
 
 ЗБР (Выготский) — социокультурная концепция, наиболее широко применяемая в [[intelligent-tutoring|AI tutoring]]: пространство между тем, что учащийся может делать в одиночку, и тем, что он может делать с помощью. Обучение происходит наиболее эффективно, когда обучение нацелено на эту зону — достаточно трудную, чтобы продвигать развитие, и достаточно поддерживаемую, чтобы делать возможным продвижение. Это теоретическое основание [[scaffolding]]: временной, настраиваемой поддержки, снимаемой по мере роста компетентности. В сфере ИИ в образовании ЗБР задаёт центральный вопрос дизайна: сколько поддержки должен давать [[intelligent-tutoring|AI tutor]], чтобы обучение продвигалось, а не выдавалось напрокат, — см. [[stanford-evidence-base-ai-k12-2026]].
 
-
 Машинная помощь тоже может попасть в эту зону. В рандомизированном исследовании 274 [[adult-learning|взрослых учащихся]] по четырём математическим предметам подсказки-решения, сгенерированные ChatGPT, дали прирост 17,00% от предтеста к посттесту против 1,85% без подсказок, тогда как подсказки, написанные человеком-репетитором, дали 11,62%; два условия помощи статистически не различались ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos and Bhandari, 2024]]). Доля ошибок уточняет эту эквивалентность: 32% сгенерированных подсказок не проходили проверки качества, пока [[prompt-engineering|промптинг]] с самосогласованностью не снизил этот показатель почти до нуля в трёх алгебраических предметах и до 13% в статистике. Более знающий другой, который ошибается в одном случае из трёх, всё ещё остаётся опосредующим агентом, поэтому вклад машины нужно проверять, прежде чем учащийся будет на него опираться.
-
 
 ### Социокультурное обучение в ИИ-образовании
 
@@ -83,34 +83,3 @@ ai_assist:
 **«Добавление инструмента в группу меняет только эффективность группы.»** Оно меняет разделение труда, а это и есть единица анализа теории. Группа, направляющая большую часть своих вопросов агенту, перераспределила когнитивную работу, даже когда выдача не изменилась.
 
 **«Распределённое познание означает, что индивид не имеет значения.»** Оно означает, что вклад индивида нельзя прочитать по одной лишь индивидуальной результативности; единица анализа — система деятельности, а не человек в изоляции.
-
-## Связанные концепции
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Связанные статьи
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Подсказки от LLM сравнялись с подсказками человека-репетитора по приросту в математике (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Снятие поддержки по тому, на что нацелен ход учащегося, а не по глубине ответа
-

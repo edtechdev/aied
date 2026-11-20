@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-09-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 **Skills for Real Engineers** is Matt Pocock's published agent-skills directory: small, composable instruction files that install into Claude Code, Codex or another agent, written to be adapted rather than adopted whole. Most of the collection serves software work, but several skills are education instruments that were built for teaching and questioning rather than for code.
@@ -35,6 +36,3 @@ The clearest example is `teach`, which runs over multiple sessions and treats th
 ## What to know before adopting it
 
 Everything is [[open-source|open source]] under MIT and free to take as a starting point for local [[ai-literacy|AI literacy]] or [[self-directed-learning|self-directed study]]. The adoption is large and fast-moving: roughly 270,000 stars and 23,000 forks when checked in September 2026, with the most recent commit on September 18, 2026. The caveat is scope. The skills assume an [[human-ai-collaboration|engineer's]] working context, they are organized into engineering, productivity, deprecated and in-progress buckets, so some entries are explicitly unfinished or retired, and the README doubles as a newsletter sign-up. Treat the teaching and questioning skills as the transferable part, and expect to rewrite any of them before putting one in front of students.
-
-## Connected Concepts
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

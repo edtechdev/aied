@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -105,71 +107,3 @@ Ushirikiano wa binadamu–AI unahusiana na [[human-in-the-loop-ai]] (usimamizi),
 - **"Ushirikiano unamaanisha AI inafanya sehemu ya kazi."** **Mwanafunzi hubaki na jukumu la kuamua**, na hii inapanuka hadi kwenye uandishi: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash na Connell Pensky (2025)]] wanaonyesha kuwa inashikilia pale mpangilio unapobuniwa kwa ajili yake. Mgawanyo wa kazi si ushirikiano isipokuwa binadamu abaki na hukumu.
 - **"AI ndiye anayeeleza katika mpangilio uliogeuzwa."** **Wanafunzi waliomfundisha AI walieleza vyema zaidi**, ufafanuzi wa darasa la kigeuzi kwa **M = 4.18 dhidi ya 3.29**, shughuli za kufundisha kwa **M = 4.91 dhidi ya 3.06, zote mbili p < 0.001**. Kujifunza kulimrudia mweleza.
 - **"Michango ya binadamu na ya AI ni mbadala."** Masudio mawili ya 2026 yanachora **nusu zinazokamiliana** za ushirikiano wa darasa, jambo linalofanya tatizo la kubuni kuwa la ugawaji badala ya uingizwaji.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-partnerships]] — Ushirikiano wa Mbinu za Kufundisha
-- [[community-of-inquiry]] — Jamii ya Uchunguzi (uwepo kama mafanikio ya kiteknolojia-jamii ya binadamu–GenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya mchakato, mipaka ya LLM, falsafa ya majaribio
-- [[biology-education]] — Elimu ya biolojia na AI: wasaidizi wa kufundisha wa maabara, ujuzi wa AI katika biolojia, ufikiri mahususi, zana mahususi
-- [[human-in-the-loop-ai]] — usimamizi
-- [[agentic-ai]] — uhuru
-- [[productive-failure]]
-
-## Makala Zilizounganishwa
-- [[bjet-many-hands-make-light-work-2026]] — Kazi ya jozi na mfumo wa mawakala wengi wa GenAI ilishinda mradi wa kubuni wakati ufahamu wa ufikiri mahususi ulipanda tu kwa wale waliofanya kazi peke yao (Chu et al. 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: uwezo wa ushirikiano kama usanidi unaobadilika wa taaluma, uwezo wa AI na uwezo wa metaji, na wakala wa mwanafunzi unaojitokeza (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Walimu wa sekondari wanabuni chatbot za darasa kama wataalam wenye vizuizi chini ya usimamizi wa binadamu
-- [[ai-integration-instructional-design-collaboratory-2026]] — Utekelezaji kumi na mbili wa kozi za mafunzo ya walimu unachukulia ujumuishaji wa AI kama tatizo la kubuni ya mafunzo
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: jaribio la kwanza la nasibu la kupanua ujuzi wa binadamu–AI kwa walimu wanaoanza
-- [[think-first-chatgpt-later-2026]] — Fikiri Kwanza, ChatGPT Baadaye: Ubunifu wa Binadamu wa Kujitegemea
-- [[principal-trait-analysis-human-ai-skills-2026]] — "Sifa" zinazotegemea data za ushirikiano wa binadamu–AI
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mifumo ya mwingiliano wa mwalimu–AI katika kubuni ya somo kote ya uzoefu na ujuzi wa AI (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Wabuni wanatumia chatbot iliyojengwa ndani kwa ukaguzi wa ulinganifu kwenye matokeo na mbinu za kufundisha, si uzalishaji wa maudhui
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Umiliki badala ya uandishi: pengo la uhalali wa uandishi katika uundaji wa pamoja wa binadamu na AI
-
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Kutoka Kubadilisha hadi Ngazi za Msaada: Kuvunja Mzunguko wa Madhara Unaojimarisha
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI kama Mshirika wa Kupatanisha
-- [[conversational-ai-agents-umbrella-review-2026]] — Mapitio ya mwanya ya mawakala wa mazungumzo ya AI katika elimu
-- [[ai-overreliance-complex-adaptive-system-2026]] — Kutegemea kupita kiasi kwa AI kimeundwa kama mfumo mgumu unaobadilika
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Mshirika wa AI anayebadilika kwa jukumu kwa mazungumzo ya vitabu ya msingi; kikomo cha kihisia cha mawakala wa jukumu la kudumu (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Ubuni wa pamoja wa mwalimu–AI wa kazi za kujifunza: mwelekeo na mitazamo (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Usanifu wa majukumu katika shughuli za vikundi tofauti zilizobuniwa na AI (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI kama mshirika na nafasi ya ushirikiano katika mienendo ya vikundi vidogo (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kutathmini Mfumo wa Mawakala Wengi wa LLM Unaozingatia Ngazi za Msaada kwa Mafunzo ya Mahojiano ya Kliniki
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Mawakala wa Mafunzo ya Maadili: Kuwezesha Elimu ya Maadili ya Kikundi na Kuigiza Majukumu na Majadiliano kwa Tafakari na Uchunguzi wa Maadili
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: uendeshaji otomatiki, kuongeza na ushirikiano kama mwendelezo wa kugawa kazi
-- [[bounded-reliance-ai-writing-feedback-2026]] — Utegemezi Wenye Vizuizi: Mtazamo wa Uaminifu wa Chanzo kuhusu Ushirikiano wa Wanafunzi wa EFL na Maoni ya Uandishi Yanayozalishwa na AI
-- [[human-ai-collaboration-academic-writing-2026]] — Mtiririko wa uandishi wa EFL wa sehemu tano uliopangwa; taratibu za uthibitishaji na matumizi yenye uwajibikisho ziliongoza uandishi wa jozi na mafanikio ya ufikiri mahususi wa kidijitali
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Ugeuzaji wa majukumu: wanafunzi wanamfundisha mwanafunzi mwenye ujuzi mdogo wa GAI, wakishinda marika wanaouliza mwalimu wa GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — Aina ya msaada iliunda mikakati ya marekebisho na alama, lakini hakuna mkakati uliotabiri faida; mafanikio ya GenAI yanaweza kuwa ya kazi mahususi
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Waongozaji wa majadiliano wa binadamu dhidi ya wa AI walikadiriwa sawa; ufaafu dhidi ya kuridhika huongoza matumizi ya upya kwa njia tofauti
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Somo la utafiti hujenga uwezo wa waelimishaji wa walimu kubuni ushirikiano wa mazungumzo wa AI; uhandisi wa ilani kama mawazo ya mbinu za kufundisha
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Aina tano za kuchanganyika kwa mwanafunzi–GenAI, na kwa nini zile zinazogawanya uandishi zinabaki za kando (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Njia zinazopingana za ushirikiano wa mwalimu–AI kuelekea ushirikiano wa kazi kupitia upatikanaji wa kisaikolojia na uegeni wa kazi, zilizowekewa vizuizi na ujuzi wa kidijitali
-- [[wang-agentic-translation-education-2026]] — Itifaki ya kubuni inayoelekeza upya elimu ya watafsiri kuelekea uwezo wa uratibu wa AI, hukumu ya kimkakati, na tathmini mahususi (hakuna data ya kiushahidi bado)
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Majukumu matatu ya wakala katika mchezo wa kisimulizi wa sayansi, na kigezo cha tathmini kinachohitajika kwa kila mmoja (Humburg na wenzake 2025)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Majadiliano ya mawakala wengi yaliyoficha jibu linalopendelewa yalipunguza kukubali ushauri wa AI usio sahihi, lakini si kwa njia ya kurekebisha
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Tahadhari ya kihisia ni kidokezo anachotafsiri mwalimu, si agizo la kutii

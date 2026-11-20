@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -49,7 +50,3 @@ Les enseignants du K–12, les conseillers pédagogiques et les concepteurs curr
 Le changement de nom est une transition en cours, non achevée. Google a annoncé en septembre 2026 que les Skills remplacent les Gems, et la prise en charge des Gems s'achève par étapes : comptes personnels en novembre 2026, clients Workspace business, enterprise et nonprofit en mars 2027, clients Workspace education en juin 2027. Google indique que les Gems existants migrent automatiquement vers les Skills, qui s'exécutent actuellement en tapant `/` et le nom dans la barre d'invite de Gemini. Les liens du site pointent encore vers des chemins `/gem/`, si bien qu'un signet peut être redirigé ou rompu à mesure de la conversion : vérifiez qu'une invite se résout avant de l'intégrer à un cours.
 
 Deux faits sur l'accès appartiennent à toute décision d'adoption. Les Skills sont disponibles dans toutes les offres d'abonnement Google AI, mais le déploiement est réservé aux 18 ans et plus pour l'instant, l'accès des moins de 18 ans étant annoncé comme « bientôt disponible » ; et copier une invite exige un compte Google et Gemini, ce n'est donc pas un outil anonyme pour les élèves. La bibliothèque est un ensemble curaté d'invites, non un enseignement validé : chaque entrée est un point de départ dont la production doit encore être vérifiée, et les affirmations de qualité sont celles du curateur. Aucune licence ouverte n'est indiquée : les invites peuvent être copiées et adaptées dans Gemini, mais la bibliothèque n'est pas quelque chose qu'un établissement peut dupliquer et héberger.
-
-## Concepts liés
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

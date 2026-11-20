@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,8 +46,3 @@ Kurumsal anlaşma olmadan kullanabilecek bireysel öğretmenler ve öğrenciler 
 ## Notlar ve uyarılar
 
 Ücretsiz sürüm bireysel sınıf iş akışlarını kapsar; kurumsal fiyatlandırma ayrıdır ve öğrenci başına veya öğretmen başına bir ücretten ziyade kurulum kapsamına, veri işlemeye, desteğe ve uygunluğa bağlıdır. Bir rapor niyetten çok süreci gösterdiğinden, kopyala-yapıştır tek başına bir suistimal değildir — projenin kendi rehberliği, bir öğrencinin kendi önceki metnini yapıştırıyor olabileceğini ve öğrencilerin yalnızca yapıştırdığı için cezalandırılmaması gerektiğini söyler. Benimseme rakamları ve 5.0 Chrome Web Store puanı projenin kendi pazarlamasıdır; bir eklenti mağazasındaki yorumlar öğrenme kazanımlarına dair bağımsız kanıt değildir. Raporları bir sohbet için kanıt olarak okuyun — aracın tasarlandığı biçim ve geliştiricinin onu anlattığı biçim budur.
-
-## Bağlı kavramlar
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

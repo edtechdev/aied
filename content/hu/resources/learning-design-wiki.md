@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -45,6 +46,3 @@ Oktatástervezők és oktatók, akik a tervezési döntést a bizonyítékával 
 ## Megjegyzések és fenntartások
 
 Olvassa el minden oldal bizalmi paneljét. A wikit nyelvi modellek tartják karban egyetlen emberi karbantartó felügyelete alatt, egyetlen oldalt sem ellenőrzött ember, az oldal pedig egy oldalt jól forrásolt nyomnak nevez, nem megállapításnak. Az állítások tervezési szintet, hatásméret-kódot és szigorkódot viselnek, a „nincs hatásméret nyomtatva” pedig azt jelenti, hogy a forrás nem közölt ilyet, nem azt, hogy nem létezik. A tartalom CC BY-SA 4.0, így az újrafelhasználásnak ugyanezt a licencet kell viselnie, a kód pedig MIT.
-
-## Kapcsolódó fogalmak
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

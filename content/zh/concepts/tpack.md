@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,50 +107,3 @@ TPACK 是知识库证据基础中教师侧的组织性框架。它解释了为�
 - **"TPACK 的主导地位反映了它的解释力。"** 那种主导**部分是检索带来的假象**：在一项对 **195 项技术支持教师教育研究**的 PRISMA 范围综述中，数字胜任力、TPACK 与 DigComp **主导了被索引的文献**。在检索中的出现率是这一领域所用词汇的属性，而不是该框架解释更多的证明。
 - **"一个广为人知的框架就是经过验证的框架。"** TPACK 并非为 AI 特有的能力而设计，这正是 Intelligent-TPACK 被开发出来的原因，而它在 78 项研究的综述中只出现在**五项研究**里。把 TPACK 用于 GenAI 胜任力，是把框架拉伸到其建构之外。
 - **"应用一个框架就意味着研究被理论化了。"** 同一综述发现 **76% 的研究从实践推断胜任力，完全没有理论映射**，因此 TPACK 在这一领域中的在场与多数研究未被理论化是共存的。一个被命名的框架，不等于一个在起作用的框架。
-
-## 关联概念
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## 关联文章
-
-- [[ai-literacy-tpack-preservice-2026]] — 职前教师教育中的感知 AI 素养与 TPACK：经由有用性、易用性与价值的中介（Zhao 2026）
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — AI 证书项目的评估指标体系
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 跨层研究："教学法先行、技术其次"——TPAIK 对学生结果的权重超过技术性 TAIK（Shen 等 2026）
-- [[tpack-genai-inservice-teachers-mediation-2026]] — 在职教师的 TPACK-GenAI 与教学法知识的中介作用（Mohebi & ElSayary 2026）
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — 教师技术整合标准（与 TPACK 相关的 DBR）
-- [[edurev-100741-tpack-genai-review]] — 将生成式 AI 整合进学生学习：一项从 TPACK 视角出发的系统综述
-- [[ai-tpack-teacher-multi-agent-workflow]] — 通过教师多智能体工作流建模 AI-TPACK
-- [[ai-tpack-preservice-math-teachers]] — 职前数学教师的 AI-TPACK 准备度
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 课程设计中的教师—AI 互动：Intelligent-TPACK、经验与熟练度的相互作用（Choi 等 2026）
-- [[genai-pd-ai-pck-learning-gain-2026]] — 密集 GenAI 专业发展与 AI-PCK 增益
-- [[teacher-ai-teaming-five-levels]] — 五级教师—AI 协同框架
-- [[teacher-ai-adoption-confidence]] — 教师信心与 AI 采用
-- [[teacher-education-ai-literacy-sdt-2026]] — 通过自我决定理论进行 AI 素养的教师教育
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 基于设计的研究的 GenAI 素养培训
-- [[rail-ed-genai-literacy-teacher-education]] — 教师教育中对 GenAI 素养的反思
-- [[sec-ai-literacy-narrative-review-2026]] — 社会情感胜任力与 AI 素养
-- [[genai-runaway-object-math-higher-ed]] — GenAI 与高等教育中的数学
-- [[ai-changing-teaching-workflows]] — AI 如何改变教学工作流
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 教师对 GenAI 高等教育的自我感知 TPACK-21 知识（Sutedjo、Chowdhury & Liu 2026）
-- [[ethically-mediated-ai-tpack-china-2026]] — 迈向新的 AI-TPACK 框架：伦理作为技术性 AI 知识的整合性中介（Chen 等 2026）
-- [[ai-training-science-teacher-tpack-distance-2026]] — 对 186 名南非科学专业师范生的比较调查：校园在自报 TPACK 上的优势，以及 AI 培训与远程机构自报 TPACK 更弱的关联
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK 与科学教学自我效能感序列中介 AI 素养对探究整合意向的影响（Zou 等 2026）
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — 大学教师的 Intelligent-TPACK 专业发展：分维度的增益，出席优于自我感知的投入——AI 支持的 CTD-PBL 模块与职前物理教师的 TPACK 和协作问题解决（Chen & Osman 2026）
-- [[human-ai-collaboration-design-education-rubric-2026]] — 评估设计教育中的人机协作：一个基于扩展 AI-TPACK 框架、面向过程的量规
-- [[capability-decision-model-teacher-readiness-2026]] — 教师 AI 准备度的有序、能力优先模型及其构念重叠警告
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 范围综述警告：胜任力框架的主导地位部分反映检索词，而非领域普遍性
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — 整合 TPACK 在职前教师赋能及其对生成式 AI 教学态度塑造中的作用

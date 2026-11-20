@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -92,30 +94,3 @@ Für Gestaltende und Lehrende rät Aktivitätstheorie, über das KI-Werkzeug sel
 **„Wenn Sie die Überzeugungen der Lehrkraft ändern, folgt die Praxis."** Die Einheit der Veränderung ist größer als die Person. Interventionen, die Normen, Arbeitslastverteilung und gemeinsame Regeln verändern, verändern die Praxis verlässlicher als solche, die auf individuelle Überzeugung zielen, weil das Objekt der Aktivität kollektiv erzeugt wird. Das erklärt auch, warum individuelle begeisterte Übernehmer zurückfallen, wenn sich ihr Fachbereich nicht mit ihnen bewegt.
 
 **„Aktivitätstheorie ist eine beschreibende Linse ohne Designfolgen."** Sie richtet das Design auf die Widersprüche zwischen den Elementen des Systems — das Werkzeug, das mit den Regeln kollidiert, die Arbeitsteilung, die mit dem Objekt kollidiert —, und genau dort wird Veränderung tatsächlich gehebelt. Eine Linse, die Widersprüche lokalisiert, gibt Ihnen einen Ort zum Eingreifen, nicht bloß ein Vokabular.
-
-## Verbundene Konzepte
-
-- [[sociocultural-learning]] — die Theoriefamilie, zu der Aktivitätstheorie gehört (wygotskisch, kulturhistorisch)
-- [[learning-theories]] — der Knotenpunkt, der Aktivitätstheorie unter den Lerntheorien verortet
-- [[distributed-cognition]] — gemeinsame Betonung werkzeugvermittelter, kontextuell verteilter Kognition
-- [[situated-learning]] — gemeinsame Betonung von Kontext und Partizipation an Aktivität
-- [[agency]] — wie KI menschliche Handlungsfähigkeit über das Aktivitätssystem neu verteilt
-- [[teacher-role]] — Aktivitätstheorie analysiert häufig Übernahme und Praxis von Lehrkräften
-- [[learning-analytics]] — CHAT verankert das Design von Analytik
-- [[generative-ai]] — das KI-Artefakt, das in pädagogische Aktivitätssysteme eintritt und sie stört
-- [[technology-acceptance-model]] — das kontrastierende individuell-glaubensorientierte Konto der Übernahme
-
-## Verbundene Artikel
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disziplinäre Unterschiede in GenAI-Nutzung und -Offenlegung durch die Linse der Aktivitätstheorie
-- [[genai-runaway-object-math-higher-ed]] — CHAT-Analyse davon, wie GenAI Unterrichts- und Forschungs-Aktivitätssysteme neu formt
-- [[raffaghelli-situated-ai-ethics-2026]] — Situierte KI-Ethik, die ökologische Systemtheorie mit CHAT verschmilzt
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Aktivitätstheorie als Linse auf die Übernahme von KI durch Lehrkräfte (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Perspektiven von Lehrkräften der K-12-Stufe auf KI-Nutzung durch Aktivitätstheorie
-- [[ai-disruption-engineering-education-chat-2026]] — Wandel der Normen von Lernenden in der Ingenieurbildung über CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT-Neugestaltung der Professionalisierung von Lehrkräften
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-verankerte Learning-Analytics-Pipeline für KI-Kompetenz
-
-- [[llm-family-education-activity-theory-2026]] — Scoping-Review von 53 HCI-Studien: LLMs verteilten die Bildungsarbeit in Familien neu, während Regeln überwiegend antizipiert statt umgesetzt wurden
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI als vermittelnder Akteur: weder Werkzeug noch Kollaborateur
-

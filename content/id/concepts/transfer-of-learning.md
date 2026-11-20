@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -35,7 +37,6 @@ ai_assist:
 ## Pendahuluan
 
 Transfer belajar adalah persoalan mendasar dalam [[research-methods-aied|riset]] pendidikan, dan alat AI membuatnya mendesak. Pola empiris yang menentukan, yang didokumentasikan di seluruh studi AI dalam pendidikan, adalah **paradoks transfer**: siswa yang memakai AI biasanya menunjukkan keuntungan segera yang terukur pada tugas di mana AI tersedia, tetapi keuntungan itu sering gagal bertahan — atau bahkan terbalik — ketika AI diambil dan siswa harus menunjukkan pemahaman secara mandiri. Pola ini melibatkan [[cognitive-offloading|Ketergantungan Berlebih]], Teori Beban Kognitif, dan [[metacognition]] sebagai mekanisme yang bekerja, dan terhubung langsung dengan perdebatan tentang desain [[intelligent-tutoring|Tutoring AI]].
-
 
 Kesiapan bukan transfer: latihan berbicara berbantuan AI berkaitan dengan [[anxiety-and-stress|kecemasan berbicara]] yang lebih rendah dan kemauan berkomunikasi dengan manusia yang lebih tinggi, namun tidak satu pun dari kedua studi itu mengamati berbicara manusia, sehingga jalur dari latihan AI ke kemampuan komunikatif manusia tetap menjadi usulan pedagogis yang belum teruji ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
@@ -68,7 +69,6 @@ Kelima studi menunjukkan pola **transfer negatif atau nol** ketika AI serbaguna 
 **Ketergantungan berlebih / pembalikan keahlian.** Pemula yang diberi jawaban tidak membangun skema. AI umum memberikan jawaban; tutoring yang efektif memberikan panduan terstruktur. Ketika pemula diberi jalan pintas tingkat pakar, pembelajaran terganggu — prinsip [[desirable-difficulties]] secara terbalik.
 
 **Kinerja yang bergantung pada alat.** Siswa dapat mengoptimalkan untuk affordance spesifik alat AI ([[prompt-engineering|rekayasa prompt]], ketergantungan pada struktur kode yang dihasilkan) alih-alih membangun generalisasi domain — suatu bentuk [[cognitive-offloading-speedup-illusion|pengalihan kognitif]] yang terasa produktif tetapi menggeser pembelajaran tahan lama.
-
 
 Kelas yang terlindungi juga dapat mengajarkan kebiasaan yang salah: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] memperingatkan bahwa [[simulation|simulasi]] dengan aturan yang ditetapkan lebih dahulu menyaring ketidakpastian dan memperkuat kepatuhan pada aturan, sehingga kebiasaan keputusan yang terbentuk di dalamnya dapat menjadi beban kognitif begitu siswa menghadapi kepentingan yang bersaing dan informasi yang tidak lengkap di latar nyata.
 **Pengalihan yang sensitif terhadap lapisan dan transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] menguji secara langsung pembedaan Salomon, Perkins & Globerson tentang "efek dengan vs. efek dari teknologi" dalam penulisan berbantuan [[generative-ai|GenAI]]: kuasi-eksperimen delapan pekan menemukan kolaborasi AI terbuka memaksimalkan kinerja menulis-terbantu tetapi menghasilkan luaran near-transfer mandiri tanpa AI yang *paling rendah*, sementara dukungan terbatas dengan refleksi mempertahankan kompetensi mandiri. Lapisan pengalihan yang lebih dalam (penalaran, struktur) memprediksi transfer yang lebih buruk daripada lapisan permukaan (tata bahasa). Ini bukti kelas yang langsung bahwa keuntungan kinerja *dengan*-dukungan AI tidak bertransfer ke kinerja mandiri *tanpa*-dukungan — dan bahwa kedalaman delegasi, bukan hanya apakah AI dipakai, membentuk transfer.
@@ -113,36 +113,3 @@ Transfer belajar terhubung ke [[metacognition]] (pemantauan diri atas pemahaman)
 **"Transfer datang dari model yang lebih mampu."** Transfer datang dari kondisi yang menghasilkannya — keluasan latihan, keberagaman konteks, dan sejauh mana pembelajar sendiri menghasilkan penalarannya. Kapabilitas model menaikkan batas atas kinerja terbantu dan tidak melakukan apa pun secara khusus bagi apa yang tersisa ketika modelnya tiada.
 
 **"Panduan selalu mendukung transfer, jadi panduan lebih banyak lebih baik."** Panduan yang melakukan penalaran menggantikan proses yang menjadi sandaran transfer. Pembedanya adalah antara bantuan yang menjaga pembelajar menghasilkan langkah berikutnya dan bantuan yang menghasilkannya untuk mereka — dan hanya yang pertama berada di sisi transfer dari garis itu.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Luaran yang akhirnya menjadi dasar penilaian sebagian besar urutan ini
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Kegagalan Produktif
-
-## Artikel terkait
-- [[yan-agentivism-learning-theory-ai-2026]] — Teori belajar jarak menengah untuk interaksi manusia-AI, dengan empat mekanisme dan enam proposisi yang dapat diuji (Yan dan Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pengalihan kognitif yang sensitif terhadap lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Pembedaan kinerja-pembelajaran dan transfer yang tahan lama
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI dalam Pendidikan Fisika Partikel: Masalah Riset dan Keterampilan Fondasional
-- [[shi-genai-experiential-learning-management-education-2026]] — berargumen bahwa simulasi kelas yang terlindungi dapat membentuk kebiasaan keputusan yang gagal di luarnya
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Latihan berbicara berbantuan AI menaikkan kemauan terhadap manusia tetapi tidak ada studi yang mengamati berbicara manusia
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Pembelajaran Terperkaya melalui Perwujudan Robotik Fungsional di Meja
-- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive washout: interval pasca-penarikan dan protokol pengukuran 22 pekan (Yajee 2026)

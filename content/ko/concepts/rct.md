@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -65,24 +67,3 @@ ai_assist:
 - **"무작위화는 그 도구가 무엇을 하는지에 대한 타당한 추정을 보장한다."** 무작위 배정은 교란 변수를 균형시킬 뿐, 누군가 그 처치를 사용했음을 보장하지는 않습니다. 도입률이 낮은 집단 무작위 시험은 도구를 **제공하는 것의 효과**를 추정하며, 의도-처치 추정과 처치-수용 추정은 서로 다른 질문에 답합니다.
 - **"큰 시험이 언제나 더 나은 설계다."** 어떤 이들은 전통적인 대규모 시험이 **연구 도중 실질적으로 변하는 튜터링 플랫폼에 따라갈 수 없다**고 주장하며, 대신 시스템이 진화해도 타당성을 유지하는 교사 주도 설계를 사용합니다. 움직이는 표적에 대한 시험은 검정력이 충분하면서도 더는 존재하지 않는 시스템을 측정할 수 있습니다.
 - **"무작위 대조 시험과 관찰 증거는 서로 대체 가능하다."** **참가자 1,174명**의 무작위 대조 시험은 생성형 AI가 **교육에 기반한 생산성 격차의 약 4분의 3을 메웠다**는 것을 발견했습니다. 특정 기간에 걸친 정밀한 인과 주장입니다. 관찰은 메커니즘과 도입을 설명하지만 그 추정을 떠맡을 수 없고, 무작위 대조 시험은 그 이유를 설명할 수 없습니다.
-
-## 연결된 개념
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — 가장 강한 학생 지원 증거 뒤의 설계
-
-## 연결된 문서
-
-- [[generative-ai-education-productivity-gaps]] — 생성형 AI가 교육에 기반한 생산성 격차를 좁히는가? 한 무작위 실험의 증거
-- [[genai-can-harm-teaching-rct-2026]] — 생성형 AI는 교수를 해칠 수 있다: 한 무작위 대조 시험
-- [[access-not-enough-ai-tutoring-2026]] — 접근만으로는 충분하지 않다: 인간 지원이 AI 튜터링과의 참여를 향상시킨다
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 혁신의 속도로 AI 튜터링 평가하기: GCSE 과학에서 AI 튜터링 플랫폼의 실무자 주도 마이크로 무작위 시험
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 성과를 낸다
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 교수자에 의한 집단 무작위 배정: 15%의 도입률과 34개 클러스터 위의 추론과 함께 최종 성적의 0.37 SD 하락과 플랫폼 참여의 0.90 SD 하락(Liu 외 2026)
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 초등학교 108곳에서 수업 계획 시간이 비교 집단의 0.76배로 떨어졌고, 도구 사용은 7%의 투여량이었다
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 세션 끝이 아니라 지연 뒤에 측정된 결과

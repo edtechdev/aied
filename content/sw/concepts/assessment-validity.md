@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -85,13 +87,11 @@ Mpinzani wa kiwango cha ubuni unatoka kwa idadi wale wale ambao hoja ya kubuni u
 
 **Kazi, si kigunduzi, huamua kile kitu kinachoweza kuthibitisha.** [[liu-argumentative-work-visible-genai-assessment-2026|Liu na Liu (2026)]] walifanya mfano kuandika maandishi 148 katika miundo mitatu ya kazi na hali tatu za matumizi ya AI: memoranda za ujumuishaji wa ushahidi (3.16) na utetezi wa kufuatilia-na-kurekebisha (3.10) zilipata alama zaidi ya insha za msimamo (2.63), kwa sababu miundo hiyo ilihitaji maelezo ya vyanzo au jibu kwa pingamizi. Wanapendekeza uigaji wa mfano kama [[retrieval-spacing-interleaving|upimaji wa awali]] kabla ya kazi kuanzishwa kwa wanafunzi.
 
-
 Matokeo yanayotathminiwa pia huhamisha kadirio: katika uchambuzi wa meta wa ngazi tatu wa kujifunza kunaooungwa mkono na GenAI kwa tatizo na [[project-based-learning|kujifunza kwa mradi]], [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]] waligundua matokeo ya ndani ya mwanafunzi yakiunganishwa kwa g = 0.819 huku vipimo vya bidhaa ya pamoja ya binadamu na AI vikirudisha g = 1.958 na muda wa utabiri unaovuka sifuri, vikielezwa tofauti kwa sababu bidhaa hiyo si kujifunza kuliokamilishwa ndani.
 
 Upangaji alama unaojua AI huchukua njia ya tatu kati ya kubuni upya na kugundua. AICG hukadiria uwezekano wa matumizi ya AI kwa kila jibu na hupunguza ushahidi wa kiakili kwa `max(δ, 1 − pAI)` badala ya kupunguza alama, ikipunguza MAE kwa 4.2% juu ya mfano wa kiakili usio na uzito na kuweka majibu yanayosaidiwa na AI yakiwa yanaweza kupangwa alama ([[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo et al., 2026]]).
 
 **Sera imehamia kwenye ruhusa iliyowekwa madaraja, na kwenye uhakikisho badala ya msuguano.** Kwa kuweka kodi nyaraka 55 za taasisi, [[ansari-policing-provenance-designing-for-evidence-2026|Ansari (2026)]] aligundua 4 zikikataza AI kama chaguo-msingi na 31 zikifafanua aina zilizotajwa za matumizi, na kati ya 23 zilizochukua msimamo kuhusu [[ai-detection|kugundua]], 16 zilikataa vigunduzi. Kubuni upya, kwa usomaji huo, ni kubuni upya pamoja na utaratibu wa uhakikisho badala ya msuguano peke yake.
-
 
 ### Mahusiano
 
@@ -143,78 +143,3 @@ Uthabiti wa kukimbia-hadi-kukimbia hauhakikishwi, hata hivyo: kurudia upangaji a
 - **"Upendeleo wa upangaji alama wa LLM ni sababu ya kuachana nao."** Katika **tathmini kubwa ya kitaifa ya uandishi**, mpangaji alama wa LLM alionyesha **upendeleo wa kimfumo wa kihafidhini (kupunguza alama)**, wenye matatizo kama alama ya mwisho na **unaoweza kuwa muhimu kama ishara ya uchunguzi**. Upendeleo wenye mwelekeo unaojulikana ni chombo tofauti na ule usiotabirika.
 - **"Mfumuko wa alama baada ya AI ni uvumi."** Katika **utafiti wa tofauti-katika-tofauti wa alama 500,000+ katika kozi 319 (2018-2025)**, kozi zenye kazi zenye mazingira ya AI zaidi (uandishi, upangaji wa kanuni) **ziliona hisa ya alama za A ikipanda**. Athari ilikusanyika pale kazi zilipokuwa wazi kwa AI.
 - **"Waelimishaji wamepitisha AI kwa upana."** **62.4% (53)** walikataa kutumia AI ya kizalishaji kabisa, na matumizi ya walioshiriki yalikuwa **yamefungwa kwa kiasi kikubwa kwa uhariri (43.8%) na ukaguzi wa uwazi (34.4%)**. Mtindo wa upitishaji ni wa tahadhari na mwembamba, jambo linalobadilisha kile hoja ya uhalali inapaswa kufunika.
-
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Kwa nini ushahidi wa mchakato unapendekezwa wakati matokeo hayatambui tena mwandishi
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## Makala Zilizounganishwa
-
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — Kutoka kukagua asili hadi kubuni kwa ushahidi: hoja nne zilizojaribiwa dhidi ya utafiti na sera (Ansari 2026)
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding similarity correlated with human scores at 0.198 at best
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI inayovaliwa huvunja utenganishaji na uangalizi, hivyo mtahiniwa anayesimamiwa bado anaweza kushindwa kuonyesha uwezo usiosaidiwa (Corbin, Sharpe na Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — Uhatarivu wa kupitisha/kushindwa wa kiwango cha programu na vigezo vya kualamisha vinavyowaruhusu thamani zilizoundwa kupitisha (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Ruhusa peke yake haidhoofu uhalali: ushiriki haukuathiriwa na matumizi ya GenAI; tafakari inapinga ubadilishaji wa jumla
-- [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini ya furaha, na nafasi ya tatu
-- [[opraise-automated-marking-ai-assessment-2026]] — Ripoti ya OpRaise: kualamisha kwa AI insha 761 za vyuo vikuu katika vyuo vitatu vya Uingereza
-- [[kumar-genai-computing-education-systematic-review-2026]] — Wakati AI inazalisha kitu kinachopewa alama: tatizo la uhalali la elimu ya kompyuta na ushahidi wa kubuni upya
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Mitihani ya kuchukua nyumbani: tathmini awamu ya kina, peleka kumbukumbu darasani (Brunnström na Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Upangaji alama unaosaidiwa na AI wa HITL katika tathmini kubwa ya uandishi ya kitaifa (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Uzalishaji wa variant za tathmini zinazofanana na dhana (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Kupinduliwa kwa kazi na AI kama mbinu ya mfumuko wa alama (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Mawakala wa AI wakikamilisha kazi za LMS; dhana ya uzalishaji wa binadamu na uhalali wa wakala (Hadjisolomou na El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Je, vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Mfumo wa Multimodal kwa Ufahamu wa Ulinzi katika Maelezo ya Mdomo
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kutathmini ubora wa mitihani iliyozalishwa na AI: utafiti mkubwa wa shamba
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Maamuzi ya thamani katika kupanga alama kazi zilizosaidiwa na GenAI: ujasiri, uaminifu, uhalali, na uwazi wa pande mbili (Luo na Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Utaratibu wa tabia isiyofaa kama tatizo la uhalali
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Uhalali wa tathmini chini ya habari isiyokamilika: mfano wa kanda ya majibu
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Hoja gani iko hatarini? Kutenganisha shinikizo tano za uhalali na kukagua kile kubuni upya kinadhoofisha (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — Tathmini ya STEAM kama tatizo la uhalali, ubuni na ufafanuzi wa uwezo, si la wizi: ushahidi wa mchakato, mitihani ya mdomo na uaminifu wa kazi zilizozalishwa na AI (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — AI katika Elimu ya Fizikia ya Chembechembe: Matatizo ya Utafiti na Ujuzi wa Msingi
-- [[student-perspectives-ai-writing-grading-2026]] — Nani Anapaswa Kupanga Alama Kazi Yangu? Mitazamo ya Wanafunzi kuhusu Tathmini ya Uandishi Iliyosaidiwa na AI ya Uwazi katika Elimu ya Juu
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Kuweka kikomo kwa dai la kujifunza la jaribio la mafunzo ya AI la El Salvador (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Kile faili za shutuma za tabia isiyofaa zinajumuisha kama ushahidi, na kwa nini ubora wa ushahidi hautabiri matokeo (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Usahihi wa kigunduzi 0.69 na 0.61 kwenye maandishi 192; kushindwa kwa uandishi wa mseto na hatari ya kuainisha vibaya EFL (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Marufuku makubwa zaidi ya uhalali: unakili-herufi si uzalishaji, hivyo kanuni inaadhibu kile haikubuniwa kukamata (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uadilifu uliofanywa wazi kupitia hukumu ya kutathmini badala ya kugundua (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Je, mifano mikubwa ya lugha inaweza kurudia bendi za alama za elimu ya juu? Utafiti wa mifano mingi wa upangaji na upendeleo wa kupanga alama katika uandishi halisi wa wanafunzi
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Tathmini Iliyosaidiwa na AI ya Ripoti za Majaribio ya Fizikia ya Kitaalamu: Uwezekano, Vikomo, na Msaada kwa Mazoezi ya Kufundisha
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Malengo manne ya hoja na makosa matatu ya kuhusisha wakati bidhaa inasomeka kama ushahidi wa uwezo wa mwanafunzi (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM ya Wanafunzi na Vikomo vya Ugumu wa Swali Uliotengenezwa na AI katika Kozi za Sayansi ya Data
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Miundo ya Madai kwa Uandishi wa Kukaguliwa wa Mazungumzo ya Kielimu
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Viwango vya wanafunzi vya ulingano wa mitaala hufuatilia ugumu wa kipengele (rho = 0.762) badala ya maudhui (Vogt et al. 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — Upangaji alama wa kurudia wa siku tano wa mawasilisho yanayofanana ulitoa alfa ya Krippendorff ya 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Kielelezo cha Udhaifu wa AI: alama nyingi zilizotathminiwa hutegemea ubunifu usioweza kuthibitishwa, hivyo uhalali hutegemea ushahidi wa kutosha katika hatua muhimu badala ya usalama wa juu zaidi
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Kipimo cha kubadilisha cha kielimu kilipanda huku viwango vya wataalam vipofu vikishuka: uhalali wa upimaji haimaanishi uhalali wa kuboresha (Domínguez Figaredo na Fernández De la Cruz, 2026)
-- [[genai-english-proficiency-validity-2026]] — Je, Lengo Limesogea Tena? GenAI na Uhalali wa Alama za Ustadi wa Kiingereza
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Matokeo yanayotathminiwa huhamisha kadirio: g = 1.958 kwa bidhaa ya pamoja ya binadamu na AI
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: wapimaji 22 wenye ilani wanakutana na vipimo ambavyo jibu lake sahihi linajulikana, na wengi wao wanaweza kushawishiwa kupanda (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Muktadha wa mwanafunzi hubadilisha alama za kipimaji cha LLM kwenye kazi ile ile, na makubaliano na mwalimu hayasajili hilo (Porcaro 2026, Karatasi VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Muundo wa kazi na maagizo ya matumizi ya AI kama kile kitu kinachoweza kuthibitisha (Liu & Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Zaidi ya Upangaji wa Majibu: Mfumo wa Usimamizi wa Kiakili Unaojua AI kwa Upangaji wa Majibu Mafupi ya Hisabati

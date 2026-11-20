@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,12 +48,3 @@ Ensimmäisen vuoden kirjoittamisen opettajille ja englannin laitoksille, jotka h
 ## Huomioita ja varauksia
 
 Sivusto raportoi 12,000+ opiskelijaa, 700+ kurssia ja 41,000+ arvioitua esseetä – toimittajan ilmoittamia lukuja, ei riippumatonta auditointia. FERPA-vaatimustenmukaisuus, GDPR-valmius ja saavutettavuus ovat niin ikään toimittajan omia väitteitä; esseet kulkevat Azure OpenAI:n kautta, ja sivusto ilmoittaa, ettei niitä käytetä mallien kouluttamiseen, minkä koulupiirin pitäisi vahvistaa tietojenkäsittelysopimuksesta eikä ottaa markkinointisivulta. Hinnoittelu on freemium ja vaihtelee kohderyhmittäin: ilmainen ensimmäinen lukukausi uusille opettajille (pyynnöstä, enintään kolme koulua kohden), sen jälkeen noin \$12–15 opiskelijaa kohden lukukaudessa, ja maksullinen arvostelukohtainen taso yksittäisille opiskelijoille ensimmäisen arvostelun ollessa ilmainen. Vertailutaulukko ChatGPT Plusiin, Packbackiin ja Grammarlyyn on toimittajan oma. Yhteistyö UC Davisin kanssa PAIRR-hankkeessa on tutkimusyhteistyötä, ei julkaistua näyttöä siitä, että alusta parantaa kirjoittamista.
-
-## Liittyvät käsitteet
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

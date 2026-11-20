@@ -13,6 +13,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 > **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. [[ai-education|AI education]] has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that connects [[formative-assessment|formative assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement|educational measurement]].
@@ -94,57 +96,3 @@ The color code is the alternative that keeps being proposed, and one institution
 - **"Integrity is mainly a detection problem."** **Scroll-back interviews with 26 students** reveal that students judge their way through assessment with GenAI along a **spectrum**, and across **157 students**, *how* GenAI is used — **evaluative integration to support understanding versus** substitution — predicted the outcome. The mode of use separates students more sharply than the presence of use.
 - **"Non-native English speakers are the cheating risk."** A **PRISMA review of 25 studies** adds a risk factor the detection debate leaves out: non-native speakers showed a **high tendency to breach integrity when struggling** with the language demand. That is a language-support problem misread as an honesty problem.
 - **"A policy that forbids GenAI settles the question."** Students report a spectrum of judgments rather than a rule-following pattern, so a rule that does not engage the evaluative reasoning students are already doing will not be followed consistently.
-
-## Connected Concepts
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[formative-assessment]] — Formative assessment: AI-generated, validated, adaptive items at scale
-- [[automated-assessment]] — Automated grading and scoring across assessment modalities
-- [[authentic-assessment]] — Process-based, AI-robust authentic tasks
-- [[assessment-validity]] — Validity of assessments under generative AI
-- [[educational-measurement]] — Measurement theory underpinning AI assessment
-- [[automated-essay-scoring]] — Automated essay scoring
-- [[automated-question-generation]] — Automated question generation
-- [[oral-assessment]] — Oral assessment: live and recorded formats that resist AI substitution
-- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-- [[item-response-theory]] — IRT for interpreting AI-era assessment responses
-- [[psychometrically-aware-ai]] — Psychometrically aware AI scoring
-- [[learning-analytics]] — Analytics connecting assessment data to learning
-- [[feedback]] — Feedback loops closing the assessment-to-learning cycle
-- [[feedback-literacy]] — Learner feedback literacy
-- [[academic-integrity]] — Integrity and the debate over AI detection
-- [[ai-detection]] — Detecting AI-generated text
-- [[ai-ed-evaluation]] — Methods and benchmarks for evaluating automated assessors
-- [[eportfolio]] — Process-based e-portfolio assessment
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Connected Articles
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — A year-long program that defines multimodal assessment literacy and measures what moved, and what did not
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
-- [[competency-based-education-genai-production-2026]] — Competency-based education after generative AI
-- [[genai-assessment-governance]] — Evidence-centered governance of generative AI in assessment
-- [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks (26 students, scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment
-- [[rubrics-genai-process-based-assessment-2026]] — Rubric criteria that grade the interaction, not the artifact
-
-- [[nerantzi-traffic-light-assessment-genai-2026]] — A reflective conversation on assessment in the age of generative AI using the traffic light framework at the University of Leeds

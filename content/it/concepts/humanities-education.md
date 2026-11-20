@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -39,9 +41,7 @@ ai_assist:
 
 L'istruzione SSH è un'area disciplinare distinta nella knowledge base, complementare alle [[stem-education|STEM]] e all'[[language-learning|apprendimento delle lingue]]. Poiché le discipline umanistiche premiano profondità interpretativa, autorialità e giudizio contestuale, esse pongono sfide di integrazione dell'IA diverse dalle STEM — e si collegano all'[[higher-ed|istruzione superiore]] e all'[[ai-literacy|alfabetizzazione all'IA]] in modi [[discipline-specific-aied|specifici del dominio]].
 
-
 L'educazione civica e politica è un'area disciplinare sorella di queste discipline anziché un loro ramo, e [[civic-and-political-education]] la tratta in proprio. L'evidenza della knowledge base in materia è sottile: otto fonti toccano l'argomento e nessuna misura l'apprendimento civico.
-
 
 ### Come appare l'IA nell'insegnamento umanistico e nelle scienze sociali
 
@@ -59,9 +59,7 @@ L'educazione civica e politica è un'area disciplinare sorella di queste discipl
 
 L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generativa sfida di più — autorialità originale, giudizio interpretativo, analisi critica e costruzione di significato sensibile al contesto. La knowledge base tratta questo dominio come un contro-peso critico alle inquadrature strumentali e basate sulle competenze dell'IA: si chiede se l'apprendimento supportato dall'IA preservi il [[critical-thinking|pensiero critico]], la responsabilità epistemica e l'autonomia interpretativa, collegandosi alla [[critical-pedagogy|pedagogia critica]] e all'[[ai-literacy|alfabetizzazione all'IA]].
 
-
 L'insegnamento umanistico ha iniziato a usare l'IA agentica per l'assemblaggio delle fonti e la stesura, il che sposta la domanda valutativa della disciplina da se il testo sia stato generato a se l'interpretazione possa essere attribuita allo studente ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
-
 
 ## Implicazioni per i docenti di discipline umanistiche e scienze sociali
 
@@ -81,32 +79,3 @@ L'insegnamento umanistico ha iniziato a usare l'IA agentica per l'assemblaggio d
 **«L'analisi critica è ciò che l'IA minaccia di più, quindi va limitata.»** L'analisi critica è anche ciò che l'uso intenzionale sviluppa di più, quando il compito è progettato per approfondirla anziché appiattirla. Un modello [[human-in-the-loop-ai|human-in-the-loop]] colloca il contributo della disciplina nel giudizio di chi apprende anziché nell'output dello strumento.
 
 **«Un modello general-purpose è utile per l'erudizione testuale quanto per la sintesi.»** L'interpretazione richiede la posizione del lettore, e uno strato di assistenza che fornisce la lettura ha compiuto l'atto interpretativo che la disciplina esiste per insegnare.
-
-## Concetti collegati
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-
-## Articoli collegati
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
-- [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
-- [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
-- [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
-- [[genai-values-education-affordances-risks-2026]] — IA generativa nell'educazione ai valori: affordance, rischi etici e implicazioni per l'insegnamento (Chen 2026)
-
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Il formato del compito e le istruzioni sull'uso dell'IA come ciò che l'artefatto può dimostrare (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — IA agentica nell'apprendimento umanistico, e il passaggio dall'autorialità del testo all'attribuzione dell'interpretazione (Capodieci et al., 2026)
-

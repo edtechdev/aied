@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -61,33 +63,3 @@ RAG inahudumu jukumu la kukamiliana na kurekebisha-mzana kwa [[llm]] — upatika
 - **"Ubora wa upatikanaji ni tatizo lote."** Upatikanaji ni wa lazima na hautoshi. Ujibu uliozibuliwa ulipata **9.05 kati ya 10 huku CI ya bootstrap ya tofauti ikizuia sufuri** na mara nyingi zaidi **ulizibua katika nyenzo ambayo mjibu aliziona kweli (98% dhidi ya 81%)**, hivyo faida iliyopimwa iko katika uaminifu kwa ushahidi, na ushahidi lazima uwe sahihi ili uaminifu huo uwe na maana.
 - **"Upatikanaji wa ukurasa mmoja unajumlisha."** Mianya yote mawili **iliongezeka karibu mara tatu kwenye maswali yaliyohitaji nyenzo kutoka kurasa zaidi ya moja** (alama za kurasa-msalaba 9.93 dhidi ya msingi wa chini). Kufikiri kwa nyaraka nyingi ndipo mifumo iliyozibuliwa inapodhoofika, na ni mahali hasa ambapo kozi huuliza maswali magumu zaidi.
 - **"Upatikanaji huondoa hitaji la ukaguzi."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] hupata kutoka nyenzo zilizoidhinishwa za moduli moja ili kuwahudumia wanafunzi wanaosita kumuuliza mtu, upeo unaotetereka. Korpusi nyembamba zilizoidhinishwa ndizo hufanya kuzibua kuwa na maana; lebo peke yake haifanyi hivyo.
-
-## Dhana Zilizounganishwa
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, matumizi ya mawakala)
-
-## Makala Zilizounganishwa
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — A curriculum-grounded lesson assistant whose time saving did not exceed a general chatbot's
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Uzalishaji Ulioboreshwa na Upatikanaji kwa Elimu ya Sayansi ya Kinadharia ya Kompyuta -- Mfumo wa Kutathmini wa Jumla kwa Uchanganuzi wa Algoriti na Nadharia ya Ugumu
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Kupunguza Vizuzi kwa Msaada wa Kitaaluma: Kutathmini Mfumo wa RAG Mahususi wa Kozi kwa Kushughulikia Tofauti za Utafutaji wa Msaada katika Elimu ya Juu
-- [[wiki-llm-indexing-ml-classes-2026]] — Uwezekano wa Kujifunza Bora katika Madarasa ya Kujifunza kwa Mashine kwa Kutumia Uorodheshaji wa LLM wa Wiki
-- [[on-premises-rag-tutoring-business-education-2026]] — Ufafanuzi wa RAG wa Kozi Nyingi wa Ndani ya Chuo kwa Elimu ya Biashara

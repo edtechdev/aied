@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -61,29 +63,3 @@ ai_assist:
 - **«Аутентичность — свойство задания.»** Аутентичность — это отношение между деятельностью и легитимной работой реального сообщества. Задание может быть проработанным и всё же школьной формы — оцениваемым преподавателем, ради оценки, без последствий в мире, который оно якобы представляет.
 - **«Оценивание, возникающее из задания, означает отсутствие оценивания.»** Это означает, что критерий принадлежит сообществу, а не аудитории: приемлема ли работа для людей, которые эту работу делают. Это иной и обычно более строгий стандарт, чем рубрика.
 - **«Ученичество требует физической обстановки.»** Механизм — легитимное периферийное участие: движение от края практики к её центру с реальной ответственностью. Онлайн- и симулированные среды могут поддерживать его или могут имитировать периферию, так и не предоставив участия, и различие в том, действительно ли используется вклад учащегося.
-
-## Связанные концепции
-- [[learner-identity]]
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]]
-
-## Связанные статьи
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Сценарии плюс переиспользуемые активы с происхождением превосходят простой ассистент в двух испытаниях
-
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA-систематический обзор ситуативного обучения и ИИ в образовании (основная ссылка для этой страницы)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM как агенты итеративного педагогического дизайна

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -120,34 +122,3 @@ ai_assist:
 **לחוקרים**
 
 - צאו מעבר למחקרי סטודיו בודדים לפני שאתם מנסחים טענות כלל-תחומיות, ודווחו את מבנה הסטודיו, שכן הוא מתנה את התוצאה.
-
-## מושגים מחוברים
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## מאמרים מחוברים
-
-- [[genai-xr-architectural-design-education-2026]] — בינה מלאכותית יצירתית בתוספת XR מרובה-משתמשים בסטודיו אדריכלי אמיתי: תפקידים משלימים, ירידה במסוגלות העצמית העיצובית, ללא יתרון תיק (Xiao et al. 2026)
-- [[genai-architecture-education]] — זרימת עבודה של תמונות ספציפית-לתחום שרצה מקומית בסטודיו אדריכלי: מרחב חיפוש יצירתי רחב יותר וחרדת ביקורת מופחתת (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — מחקר סטודיו אורכי-טווח ופלטפורמת GAI-A: בינה מלאכותית יצירתית כגירוי והרחבת מרחב פתרונות, עם דבקות עיצובית כסיכון (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — מעצבי פנים כאוצרים של פלט מכונה, ומה תוכנית הלימודים ורגולציה מקצועית צריכות לעשות בנידון (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — למידה מבוססת פרויקטים בתוך סביבה סוחפת המותקנת על ידי בינה מלאכותית בעיצוב פנים מקצועי (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — קפסתון סיפור סיפורים דיגיטלי באורך 15 שבועות עם 426 סטודנטים: חדשנות חזקה, שילוב חלש, בינה מלאכותית ככלי לא כמחבר (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — קבלת טקסט-לתמונה בקרב 417 סטודנטים לאמנות ועיצוב, ופרדוקס הכשירות של שימוש סלקטיבי (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — כלכלת הזרמה, מחוללים אוטונומיים לעומת עוזרי הלחנה, ומחשבה מחדש על תוכנית הלימודים במוזיקה (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — מדידת GPT-4o-mini כנגד ממוצעי מורים על 300 תשובות ניתוח מוזיקלי (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — מדוע דיוק מדידה אינו ערך חינוכי בהוראת זמרה בסיוע בינה מלאכותית (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — עיצוב מונחה-מוגבלות של הוראת כלי קשת למגע וקינסתטית למוזיקאים עיוורים ובעלי ראייה חלשה (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — הוראה VR בסיוע מודל לשוני גדול לתאורת במה, והפער בין ייצוגים של מומח ושל מתחיל (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemic Games for Interpreting Text-to-Image Models (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Art students' creative agency, trust and expert-rated output quality

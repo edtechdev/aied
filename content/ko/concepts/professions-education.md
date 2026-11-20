@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,34 +68,3 @@ ai_assist:
 **"시뮬레이션은 실습의 대체물이다."** 시뮬레이션은 통제된 조건에서 정의된 시나리오를 리허설하며, 검토들이 그것을 선도적 응용으로 발견하는 것은 바로 그것이 경계 지어져 있기 때문입니다. 그것이 제공하지 못하는 것은 감독이 보기 위해 존재하는 대본 없는 판단입니다.
 
 **"AI 사용 탐지가 인증 문제를 해결한다."** 탐지는 도구가 사용되었는지에 답할 뿐 지원자가 실무를 할 수 있는지에 답하지 않으며, 간호 문헌은 이미 프로그램들이 두 번째 질문에 답할 수 없어서 입회를 선택하는 것을 보여 줍니다.
-
-## 연결된 개념
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## 연결된 문서
-
-- [[llm-turing-test-italian-legal-exams-2026]] — 전문가 채점을 기준으로 한 이탈리아 변호사·판사·공증인 시험 블라인드 튜링 테스트
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 로스쿨 생성형 AI 정책의 5요인 비교와 거버넌스 프레임워크
-- [[hardie-genai-nursing-scoping-review-2026]] — 간호 교육의 응용, 태도, 윤리에 관한 103건 스코핑 검토
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, 구조적 공백, 그리고 전문직 정체성의 재구성
-- [[dabkowski-nursing-academics-genai-2026]] — 정책 모호성, 전문직 가치, 그리고 감독관 입회 평가로의 표류
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 간호 평가에서의 원격 감독: 감시, 형평성, 억제
-- [[genai-medical-education-transformation-review-2026]] — 의학 교육 생성형 AI 보고 153건의 스코핑 검토
-- [[virtual-standardized-patients-osce-evaluation-2026]] — OSCE 실습을 기준으로 한 LLM 기반 가상 표준화 환자의 층화 다중 평가자 평가
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 보건 AI 교육과정은 윤리(80.6%)를 가르치지만 데이터 출처(22.2%)는 좀처럼 가르치지 않음
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 교육실습생 85명: 피상적 생성형 AI 도입, 진실성 불안, 평가 리터러시
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — 교사 교육의 AI: 프레임워크, 실증 증거, 윤리
-- [[critsly-design-education-ai-critique-2026]] — 산출물이 아니라 과정을 읽는 AI 크리틱 도구
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — 학술 도서관의 AI 도입: 체계적 검토

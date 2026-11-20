@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -77,30 +79,3 @@ TTA, [[learning-sciences|öğrenme bilimlerinin]] — öğrenmeyi ve öğrenme o
 **“TTA işleyen bir yapıt ürettiğine göre etkililiği kanıtlanmıştır.”** Onu birlikte üreten sahada işleyen bir tasarım yerel uygulanabilirliği kanıtlamıştır; bu, etkililikten farklı bir iddiadır. Yapıt, o bağlam için yapılmış uyarlamaları taşır ve onu aktarmak, hiçbir zaman varsayım olarak belirtilmemiş varsayımları aktarmak demektir.
 
 **“Bir aracı revize edilebilir bir tasarım yapıtı olarak ele almak TTA'dan bir sapmadır.”** Bu, TTA'nın yinelemeli karakterinin müdahaleye değil ölçüme uygulanmasıdır: bu derlemdeki bir çalışma rubriğin kendisini yapıt olarak ele almış ve bir [[llm|LLM]] ile ortak iyileştirme döngülerinden geçmiştir. Bu uzantı kayda değerdir, çünkü aracın kendi gelişimini kanıtın parçası kılar.
-
-## Bağlı kavramlar
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Bağlı makaleler
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — YZ Destekli İşbirlikçi Öğrenme Modeli için TTA
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Öğretmen eğitiminde YZ okuryazarlığı eğitimi için TTA
-- [[crompton-faculty-technology-integration-standards-2026]] — Fakülte teknoloji–entegrasyon standartları için TTA
-- [[human-centered-ai-teacher-educators-2026]] — Öğretmen eğitimcileri için insan merkezli YZ (TTA)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Açık Üniversite’de AIDA’yı uygulayan altı TTA çalışması
-- [[critical-thinking-genai-scaffolding]] — Üretken YZ ile eleştirel düşünme iskelelemesi için TTA
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Fenle bütünleşik YZ okuryazarlığı müfredatı için TTA (Moore ve ark. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — YZ ile Oyna (PL-AI): anaokulu öncesi ve anaokulu için oyun merkezli YZ okuryazarlığı müfredatı (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Pedagojik tasarımda yinelemeli ajanlar olarak LLM’ler

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -47,6 +48,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 رفتار ہی پچ بھی ہے اور خطرہ بھی۔ ایک دن کی تعمیرات کلاس روم کے کسی حقیقی مسئلے کو نشانہ بناتی ہیں، کسی تحقیقی سوال کو نہیں، اس لیے یہاں کسی کے پاس جانچ نہیں، اور یہ دعوی کہ کوئی ایپ کیا کرتی ہے اسے کلاس روم میں جانچنا چاہیے۔ GitHub تنظیم میں 32 عوامی ریپوزٹریاں ہیں جبکہ گیلری 34 گنتی ہے، سب Apache-2.0 اور سورس کے ساتھ دستیاب، اس لیے کسی ایپ کو پڑھا اور خود میزبان کیا جا سکتا ہے۔ لوکل-فرسٹ ڈیزائن ایک دعوی ہے جسے ہر ایپ کے لیے جانچنا ہوگا، اور استاد کو کوئی بھی طالب علم کے لیے اوزار کلاس کے سامنے رکھنے سے پہلے تصدیق کرنی چاہیے۔
-
-## منسلک تصورات
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

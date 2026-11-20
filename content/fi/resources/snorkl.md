@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,6 +42,3 @@ K-12-opettajille, jotka haluavat kuulla vastauksen taustalla olevan päättelyn,
 ## Huomioita ja varauksia
 
 Jokainen kyvykkyysväite tässä on toimittajan omaa markkinointia, mukaan lukien "luotettu yli 10 000 koulussa maailmanlaajuisesti", jonka koulupiirin tulisi tarkistaa tietojenkäsittelysopimuksestaan. Toimittaja ilmoittaa poistavansa henkilötunnisteet ennen töiden lähettämistä OpenAille sopimuksen nojalla, jonka mukaan niitä ei säilytetä eikä niillä kouluteta, ettei se näytä opiskelijoille mainoksia, ettei se koskaan myy dataa ja että sillä on iKeepSafen ja Common Sense Privacyn sertifikaatit. Snorkl toteaa myös suoraan, ettei se anna arvosanoja: se pisteyttää selitykset opettajan määrittelemiä kriteerejä vasten formatiivisena palautteena, ja arviointi jää opettajalle. Kohtele noita tekoälyarvioita formatiivisina signaaleina, joihin kohdistuvat tavanomaiset validiteetti- ja vinoumakysymykset, ja ympäristösitoumusta ilmoitettuna aikomuksena, ei mitattuna kompensaationa.
-
-## Liittyvät käsitteet
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

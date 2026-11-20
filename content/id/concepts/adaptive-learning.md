@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +51,6 @@ Tinjauan PRISMA 2020 yang menyaring 959 catatan menjadi 22 intervensi pendidikan
 **Landasan pedagogis, bukan kemampuan teknis, yang menggerakkan adaptasi.** Tinjauan 15 tahun atas 127 studi tutoring cerdas menemukan bahwa sebagian besar sistem dibangun di sekitar apa yang bisa dilakukan teknologi alih-alih prinsip pedagogis yang dinyatakan, dan menempatkan perolehan ITS rata-rata sekitar 20% berbanding hingga 98% untuk tutoring manusia ([[zerkouk-comprehensive-review-its-2025|Zerkouk dkk. (2025)]]).
 
 Partisipasi, bukan mekanisme adaptasi, adalah kendala pengikat dalam RCT distrik dua tahun: meringkas pendaftaran menjadi satu langkah menaikkan partisipasi sesi pertama dari sekitar 45% menjadi 83% hanya melalui perubahan desain, dan perolehan intent-to-treat tumbuh seiring naiknya partisipasi ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos dkk. (2026)]]).
-
 
 Tinjauan selaras PRISMA atas 44 studi menemukan bahwa literatur keterlibatan condong ke [[student-engagement|keterlibatan perilaku]] dan paling tipis pada keterlibatan agentik, serta melaporkan efek kebaruan — keterlibatan menurun seiring waktu dalam studi longitudinal ALEKS dan W-Pal setelah kebaruan alat memudar ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
 
@@ -109,53 +110,3 @@ Pembelajaran adaptif sering kali disamakan dengan [[personalized-learning|pembel
 
 - Laporkan definisi operasional "adaptif" bersama setiap ukuran efek yang Anda kutip, karena definisi dalam literatur saling menyimpang dan angka gabungan mewarisi ambiguitas itu.
 - Bedakan kriteria penguasaan Anda dari hasil belajar dalam validasi Anda sendiri. Jika ukuran validasi Anda adalah sinyal yang sama yang menggerakkan adaptasi, itu bukan bukti independen.
-
-## Konsep terkait
-
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentik)
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Sistem Penilaian Adaptif Sadar Momentum untuk Penilaian Terpersonalisasi
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalisasi berlebih yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum pembelajar tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Tutoring AI bukan monolit: apa yang sebenarnya kita ketahui (ringkasan Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Tinjauan sistematis keterlibatan siswa dalam platform pembelajaran adaptif
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoring virtual dengan CAL: eksperimen tentang partisipasi dan pembelajaran
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[chudziak-ai-math-tutoring-platform]] — Tutoring matematika multi-agen adaptif/terpersonalisasi (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Mendefinisikan ulang pembelajaran terpersonalisasi: tinjauan sistematis
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — AI khusus tutoring yang dikalibrasi terhadap kesiapan pembelajar vs. chatbot umum
-- [[context-based-ai-secondary-chemistry-2026]] — Instruksi 7E berbasis konteks + AI dalam kimia sekolah menengah
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Program STEM berbasis AI adaptif untuk pembelajaran mendalam
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnosis kognitif Bayesian untuk jalur pembelajaran terpersonalisasi
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Perancah ICAP adaptif dalam ITS (BKT vs DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analisis yang menggabungkan alat adaptif + berdaya AI di 14 RCT
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tinjauan sistematis: jalur adaptif di antara kasus penggunaan integrasi AI pendidikan tinggi terkemuka
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Pengurutan soal adaptif mengalahkan pengurutan tetap: +0.156 SD pada ujian tanpa bantuan, dimediasi keterlibatan alih-alih kesulitan (Chung dkk. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: tutor agentik yang mempelajari pembelajarnya dalam lingkar ko-pembelajaran manusia–AI
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Penggunaan strategi didominasi keadaan (ICC rata-rata 0.14), sehingga profil pembelajar statis membuang sebagian besar sinyal

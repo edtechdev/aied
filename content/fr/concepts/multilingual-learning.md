@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -76,28 +78,3 @@ Le jugement comparatif fondé sur les grands modèles de langue est un cas où l
 - **« La langue cible doit dominer dès le premier jour. »** Dans une **revue systématique de 24 études**, les apprenants demandaient des **expressions contextualisées et des explications dans leur propre langue comme passerelle vers la langue cible** — un usage que les auteurs de la revue classent comme une véritable nouvelle sous-affordance plutôt que comme un contournement. Le soutien dans la langue d'origine fonctionnait comme [[scaffolding|étayage]], non comme évitement.
 - **« L'évaluation linguistique par l'IA est biaisée contre les scripteurs multilingues. »** Ici, le biais suivait **la référence humaine plutôt que le modèle** : le jugement comparatif fondé sur un LLM appliqué à des **écrits informatifs de la 3e à la 6e année** convergeait avec les grilles des chercheurs (r = .59-.73) et montrait le même schéma que les évaluateurs humains. Ce n'est pas une preuve d'équité en termes absolus — c'est la preuve que le modèle n'a pas introduit une nouvelle distorsion par-dessus celle qui existait déjà.
 - **« La qualité de traduction de la sortie est la partie utile. »** L'usage de passerelle est explicatif et situé, non substitutif. Un outil qui remplace la production propre de l'apprenant supprime la pratique que la passerelle était censée rendre possible.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Articles liés
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Les agents conversationnels d'IAG offrent le translanguaging, un usage que les outils linguistiques antérieurs ne permettaient pas
-- [[llm-comparative-judgment-writing-screening-2026]] — Validité du jugement comparatif par grands modèles de langue pour le dépistage universel en écriture
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plateforme d'apprentissage adaptatif fondée sur l'IA pour le Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Compagnon de cours bilingue fondé sur les grands modèles de langue
-- [[structural-silence-underrepresented-language-ai-2026]] — Le silence structurel : les langues sous-représentées
-- [[llm-cultural-relevance-k12]] — La pertinence culturelle des grands modèles de langue dans le primaire et le secondaire
-- [[scaffolding-critical-engagement-genai-minority-students]] — L'engagement critique envers l'IA générative chez les étudiants issus de minorités
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct : jeu de données sur les systèmes de savoirs indiens
-- [[kutti-ai-voice-first-learning-companion]] — Compagnon d'apprentissage vocal d'abord
-- [[ai-scoring-language-bias-physics]] — Le biais linguistique de la notation par IA en physique

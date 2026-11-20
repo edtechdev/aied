@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -105,38 +107,3 @@ Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa za
 
 - Ripoti kila wakati kipimo kisichosaidiwa, na ripoti mtazamo pamoja nacho badala ya badala yake.
 - Ripoti muundo wa uingizwaji wa kazi, si mara ya matumizi tu, unapohusisha madhara.
-
-## Dhana Zilizounganishwa
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Makala Zilizounganishwa
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Utafiti wa dodoso na vikundi lengwa vya Uswidi unaodai kuwa maadili ya ushirika, si mfumo wa udanganyifu, yanapaswa kuongoza maamuzi ya kitaasisi kuhusu genAI
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Tabia za kutokuwa na mahusiano ya mazungumzo na kujifunza katika mazungumzo ya mwanafunzi–AI (Rho et al. 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI Bila Vizuizi Inaweza Kudhuru Kujifunza
-- [[genai-performance-vs-learning]] — Kutofautisha Faida za Utendaji na Kujifunza
-- [[ai-availability-student-motivation]] — Upatikanaji wa AI na Motisha ya Wanafunzi
-- [[genai-skill-bypass-literacy]] — Kupuuza Ujuzi wa GenAI na Ujuzi
-- [[cognitive-shift-ai-education]] — Mabadiliko ya Kiakili katika Elimu ya AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Kupunguza Mzigo wa Kiakili katika Ushirikiano wa Mwanafunzi–AI
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Kutegemea kupita kiasi kwa AI kimeigwa kama mfumo changamano unaobadilika
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — Utegemezi wa AI unapatanisha kikamilifu njia kutoka uwezo binafsi na msaada wa mwalimu hadi kuchoka kwa kujifunza (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Tegemeo la mapema linatabiri athari hasi huku tegemeo la kiakili likitabiri athari chanya, na ujuzi wa kutathmini unaipa nguvu badala ya kupunguza madhara ya kushauriana na AI kwanza (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — Hivi Ndivyo Tunavyotumia AI: Mbinu ya Kivitendo ya Kufundisha kwa Kutumia Akili Bandia

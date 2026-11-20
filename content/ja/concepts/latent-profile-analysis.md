@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,26 +92,3 @@ LPA は、サンプルがそれぞれ独自の平均と分散を指標上に持�
 - **「潜在プロファイル分析は、存在する集団を発見する。」** LPAは学習者の多様性を修辞的な主張から測定可能な発見へと変換しますが、プロファイルは**選ばれた境界で分割された連続体のモデル**であり、自然な種ではありません。プロファイルの数は分析上の決定です。
 - **「潜在変数の一族のどれを使ってもよい。」** どれを使うかは**指標に従います**。**カテゴリカル指標にはLCA**、連続指標にはLPAです。方法を先に、指標を後に選ぶと、結果は選択の人為的な産物になります。
 - **「プロファイルは研究間で比較できる。」** Chenらは**128人の台湾の理科予備教員**を5つの[[technology-acceptance-model|TAM]]/UTAUT2構成概念でプロファイリングし、Acquahらは**509人のガーナの学部生**をプロファイリングしました。異なる集団における異なる指標は、通約可能なプロファイルのラベルを生みません。
-
-## 関連する概念
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## 関連する記事
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 人の経営学学生における 4 つの AI 態度プロファイルのための Lo–Mendell–Rubin 保持証拠
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — 心理的適応に関する 3 時点の潜在プロファイル推移分析
-- [[liang-ai-learning-motivation-sdt-2026]] — 1 年間にわたる 3 つの動機づけプロファイルの潜在推移分析
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means プロファイル。シルエット対 Calinski–Harabasz の不一致。ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 4 つの生成 AI 導入ペルソナへの階層的および k-means クラスタリング
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 システムにおける 40,680 人の教師からの 4 つの教師 AI 信念プロファイルと整合の安定性

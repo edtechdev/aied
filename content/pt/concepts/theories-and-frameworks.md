@@ -21,10 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
-
 
 > **Teorias e frameworks** — o inventário de trabalho das estruturas explicativas e organizacionais que esta base de conhecimento de fato usa. Teorias explicam por que a aprendizagem acontece ([[learning-theories|teorias da aprendizagem]], [[self-determination-theory|teoria da autodeterminação]], [[sociocultural-learning|aprendizagem sociocultural]], [[activity-theory-aied|teoria da atividade]]); frameworks organizam decisões de design, ensino e adoção ([[tpack|TPACK]], [[samr-model|SAMR]], [[technology-acceptance-model|modelos de adoção de tecnologia]], [[icap-framework|ICAP]], [[universal-design-for-learning|design universal para a aprendizagem]]); modelos tornam as afirmações de aprendizagem testáveis e computáveis ([[item-response-theory|teoria da resposta ao item]], [[assessment-validity|validade da avaliação]], [[knowledge-tracing|rastreamento de conhecimento]]). Use esta página para encontrar a lente sobre a qual um estudo repousa, ou para escolher uma para seu próprio trabalho.
 
@@ -121,7 +122,6 @@ Duas páginas vizinhas tratam deliberadamente de outra coisa. A [[philosophy-of-
 
 Frameworks não são evidência. Costumam ser emprestados de contextos pré-LLM e localizados por quem os aplica, podem funcionar como marca, e modelos de etapas convidam à adoção de *checklist* que relata movimento por níveis em vez de aprendizagem. Afirmações que repousam sobre um framework deveriam ser lidas junto com [[limitations-in-aied-research|as limitações transversais do campo]], a [[assessment-validity|validade]] do que quer que tenha medido o desfecho, e os limites conhecidos do [[self-report-measures|autorrelato]].
 
-
 O alinhamento entre mecanismo e teoria pode, no entanto, ser decisivo: uma síntese temática de 55 estudos de [[game-based-learning|aprendizagem baseada em jogos]] com apoio de IA concluiu que a eficácia dependia de o mecanismo de IA encenar a pedagogia que deveria servir, e não da sofisticação algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt (2026)]]).
 
 ## Ideias equivocadas comuns
@@ -133,33 +133,3 @@ O alinhamento entre mecanismo e teoria pode, no entanto, ser decisivo: uma sínt
 **"Teorias da aprendizagem, modelos de quem aprende e frameworks de adoção são lentes intercambiáveis."** Eles respondem a perguntas diferentes — como a aprendizagem acontece, qual é o estado do aprendiz e por que uma prática se difunde — e seus tipos de evidência diferem de acordo. Escolher a camada errada produz um estudo que mede a variável certa contra a previsão errada, o que se lê como um resultado nulo quando é um erro de categoria.
 
 **"Mais frameworks significam um campo mais maduro."** Frameworks cunhados para a era da IA se acumulam mais rápido do que são testados, e acúmulo sem falsificação é sintoma, e não progresso. A maturidade aparece como previsões concorrentes sendo resolvidas, não como crescimento de vocabulário.
-
-## Conceitos conectados
-
-- [[theory-development-aied]] — construir e revisar teoria no campo
-- [[philosophy-of-ai-in-education]] — a camada normativa e conceitual
-- [[learning-theories]] — o guarda-chuva da teoria da aprendizagem
-- [[learning-sciences]] — o campo vizinho de onde a maior parte da teoria é emprestada
-- [[limitations-in-aied-research]] — o que a base de evidências consegue e não consegue sustentar
-- [[tpack]] — framework de conhecimento docente
-- [[technology-acceptance-model]] — frameworks de adoção
-- [[item-response-theory]] — um modelo de medição
-- [[universal-design-for-learning]] — um framework de design
-- [[research-methods-aied]] — como a teoria é testada
-
-## Artigos conectados
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Affordances emocionais propostas como uma quarta categoria em uma taxonomia de affordances
-- [[ai-game-based-learning-systematic-review-2026]] — O alinhamento mecanismo-teoria, e não a sofisticação algorítmica, moveu a eficácia em 55 estudos de aprendizagem baseada em jogos com IA
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — quatro décadas de AIED pelo framework IA×Ed
-- [[educating-minds-generative-ai-2026]] — síntese densa em teoria sobre IA generativa e aprendizagem
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teoria da atividade aplicada ao desenvolvimento profissional docente
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teoria da atividade e adoção por professores
-- [[generativism-learning-theory]] — uma teoria da aprendizagem proposta para a era da IA generativa
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — rumo a uma teoria da coagência epistêmica
-- [[absent-cognitive-baseline-2026]] — teorizando uma lacuna estrutural na autoavaliação de estudantes nativos de IA
-- [[yan-agentivism-learning-theory-ai-2026]] — uma teoria da aprendizagem de alcance médio para a interação humano-IA
-- [[ai-literacy-instrument-development-systematic-review-2026]] — desenvolvimento de instrumentos em um construto jovem
-- [[mishra-control-vs-agency-history-2025]] — a tensão fundacional do campo entre controle e agência
-
-- [[wells-genai-research-assistant-sociology-2026]] — Explorando o papel da IA generativa como assistente de pesquisa em métodos de pesquisa na graduação em sociologia

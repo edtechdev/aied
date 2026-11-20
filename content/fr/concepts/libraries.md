@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -73,22 +75,3 @@ La fonction la plus ancienne de la bibliothèque — fournir un accès que les i
 - **Les étudiants ont abandonné la bibliothèque.** Les moteurs de recherche restent le point de départ dominant, et neuf années de registres de prêts ne montrent aucune rupture dans les emprunts.
 - **Le financement est le seul obstacle.** Les lacunes de compétences et la mauvaise qualité des données sont citées plus souvent que l'argent, ce qui fait de ce problème un problème de capacité autant que de budget.
 - **Une littérature croissante signifie que le domaine se transforme.** Le volume de publications a augmenté sans aucun changement mesuré des pratiques ; les revues trouvent l'enthousiasme en avance sur l'effet.
-
-## Concepts liés
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Articles liés
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adoption de l'intelligence artificielle dans les bibliothèques universitaires : une revue systématique des pratiques actuelles, des défis et des opportunités de recherche
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Cartographier l'intégration de la littératie en IA dans l'enseignement de la littératie informationnelle dans les bibliothèques universitaires
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Comment l'intelligence artificielle remodèle la littératie informationnelle dans les bibliothèques universitaires
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — L'intelligence artificielle (IA) et la recherche d'information : une exploration comparative des chatbots d'IA, des moteurs de recherche et des ressources des bibliothèques comme sources d'information chez les étudiants universitaires
-- [[huang-genai-academic-information-resources-2026]] — L'IA générative remodèle l'utilisation durable des ressources d'information académiques par les étudiants universitaires
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — L'engagement des étudiants par les bibliothécaires universitaires pour promouvoir la littératie informationnelle et l'enseignement de l'IA dans les institutions tertiaires nigérianes

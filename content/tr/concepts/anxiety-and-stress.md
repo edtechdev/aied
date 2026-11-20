@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -64,7 +66,6 @@ Bu yeniden çerçevelemenin konuşmada bir sınırı vardır: 708 [[multilingual
 - **Geliştiricinin versiyonu: sahteci hissetme ve etik rahatsızlık.** İki Güney Afrika kurumundaki [[educational-development|akademik geliştiricilerden]], çıkarımlarını hâlâ çalıştıkları araçlara kurumsal güveni somutlaştırmaları beklenmiştir (“Kendimi bir sahteci gibi hissediyorum...”) ve uygun olduğundan şüphe ettikleri teknolojiyi kolaylaştırırken — makalenin temel, tesadüfi olmayan bir işgücü olarak ele aldığı duygusal emek ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 - **Öngörücü suçluluk: deneyimi önceleyen sıkıntı.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]], bir Malta üniversitesindeki akademik personeli (109 katılımcı) incelemiş ve YZ ile ilgili suçluluğun ihlal korkusuna, onun deneyimine değil, bağlı olduğunu bulmuştur. YZ Suçluluk İndeksi (α = 0,88), en güçlü onayını YZ kullanımının birinin güvenilirliğini zayıflattığı kaygısından (%34,9) ve [[academic-integrity|kopya çekmek]] gibi hissetmeden (%25,7) almıştır; kullanım *sonrası* pişmanlık son sıradadır (%9,2). Paradoks, kullanıcı olmayan küçük grubun hiçbir kullanıcı grubundan (M = 2,32) daha yüksek suçluluk bildirmesidir (M = 3,25) — çünkü kaçınanlar korkularını asla test etmez, kaçınma önlemeyi amaçladığı sıkıntıyı koruyabilir. Suçluluk, kariyerinin başındaki akademisyenler arasında en yüksek (M = 2,71) ve kıdemliler arasında en düşüktü (M = 2,03) ve dürüstlükten çok gizlemeyi izledi; huzursuzluktan YZ kullanımını sınırlamayla (r = .62) ve meslektaşlara açıklamaktan kaçınmayla (r = .50) ilişkiliydi ama biçimsel [[ai-use-disclosure|açıklama]] ile ilişkili değildi (r = .08).
 - **Kaybedilen profesyonel değer korkusu ve onun aşılma yolu.** [[chick-faculty-development-ethical-ai-2026|Chick, Morello ve Staffey (2026)]], teknikten çok varoluşsal olan bir eğitimci kaygısını belgeler. On akademisyen ve personel, altı haftalık bir enstitüye akademik dürüstlüğü önde gelen kaygı olarak (%80) ve [[cognitive-offloading|aşırı bağımlılığı]] ikinci olarak (%70) taşıyarak girmiş, üretken YZ’yi başlangıçta “kopya makinesi”, “tehdit” veya “insanlıktan çıkaran bir güç” olarak tanımlamıştır; bir matematik profesörü kimlik tehdidini açıkça ifade etmiştir — “Alanımda uzmanlık geliştirmek için yıllar harcadım. Şimdi bir makine benden daha hızlı problem çözebilir ve çözümleri daha iyi açıklayabilir. Değerim artık ne?” Yapılandırılmış, güvenli deneyim sözlüğu “meraklı yardımcı” ve “yaratıcı ortak” yönünde hareket ettirmiş ve %90’ı olumlu algılar bildirmiş bırakmıştır; yazarlar, gözlemledikleri direncin “teknofobiden veya inatçı gelenekçilikten değil, eğitim kalitesi, eşitlik ve insan özerkliği konusundaki meşru endişelerden kaynaklandığını” açıkça belirtmiştir — eğitimci kaygısını sıradan ahlaki panik olarak okumaya doğrudan bir karşı ağırlık.
-
 
 - **Değerlendirme hedefli [[conversational-ai|sohbet robotu]] desteği hazzı ve can sıkıntısını kaydırır, umutsuzluğu veya öz yeterliliği değil.** Düz ChatGPT’yi, ÖDS [[scaffolding|iskeleleme]] sağlayan bir ajanla ve duygusal olarak destekleyici bir ajanla karşılaştıran 144 öğrencilik bir deneyde haz yalnızca iki iskeleli koşulda yükseldi (ÖDS iskelelemesiyle d = 0,53, duygusal destekle 0,75) ve can sıkıntısı düştü (d = -0,35, -0,67). Düz ChatGPT iki duyguda da anlamlı değişim göstermedi. Umutsuzluk, düz ChatGPT dahil her koşulda düştü (d = -0,73 ila -1,02). Ne öz yeterlilik (η2 = 0,001) ne de sohbet robotuna güven (η2 = 0,020) koşula göre farklılaştı; böylece duygusal tasarım iki duyguyu hareket ettirdi ve kuramın öngördüğü motivasyonel inancı el sürmeden bıraktı ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt ve Makransky, 2026]]).
 
@@ -119,57 +120,3 @@ Olumlu taraf: YZ sistemleri giderek daha fazla stresi ve kaygıyı tespit etmekt
 - **“YZ kaygısı tümüyle zararlıdır.”** Bu kaygı **tümüyle olumsuz değildir**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]], **YZ kaygısının verimli olabileceğini**, daha yüksek kaygının daha stratejik düzenlemeyle ilişkili olduğunu bulur. Kaygı yalnızca bir yük değil, incelemeye yönelten bir sinyal olarak işlev görür.
 - **“Tüm kaygılı öğrenciler aynı biçimde yanıt verir.”** Kim’in **dört düzenleyici türü (Eleştirel Olmayan Bağımlılık %18,7, Seçici Bütünleştirme %34,6, Değerlendirici Dönüşüm %31,8, Stratejik Ret %14,9)**, kaygı kaynaklı incelemenin **dört ayrı** örüntü ürettiğini gösterir. “Kaygılı öğrencileri” hedefleyen bir müdahale, en büyük tek grubun seçici bütünleştirme yaptığını gözden kaçırır.
 - **“Kaygı her zaman katılımı bastırır.”** Bu yeniden çerçevelemenin **konuşmada bir sınırı vardır**: **708 İngilizce öğreneni** arasında konuşma kaygısı ile isteklilik bağı düşük konuşma öz yeterliliğinde **−0,371** iken yüksekte **+0,137** idi. Öz yeterlilik yüksekken kaygı istekliliğe eşlik edebilir, dolayısıyla etkinin yönü güvene bağlıdır.
-
-## Bağlı kavramlar
-- [[career-development-and-readiness]] — YZ kaygısına karşı koruyucu etken olarak kariyer hazır bulunuşluluğu
-- [[well-being]] — bu kavramın derinlemesine geliştirdiği geniş şemsiye
-- [[remote-proctoring]] — gözetim/hatalı suçlama stresinin temel kaynağı
-- [[social-emotional-learning]] — söz konusu olan duygusal yetkinlikler
-- [[affective-computing]] — duygusal durumu okuyan YZ
-- [[affective-tutoring]] — duyguya yanıt veren YZ
-- [[academic-integrity]] — dürüstlük/kopya suçlaması boyutu
-- [[privacy]] — gözetimli sınav stresinin altındaki kaygı
-- [[student-experience]] — öğrenen deneyiminin bir parçası olarak kaygı
-- [[motivation]] — kaygının benimseme ve angajman üzerindeki etkisi
-- [[self-regulated-learning]] — verimli kaygı bağı
-- [[ai-literacy]] — temelsiz kaygıyı azaltan kapasite geliştirme
-- [[equity-in-ai-education]] — kırılgan öğrenciler üzerinde orantısız stres
-- [[ethics]] — gözetimin ve hatalı suçlamaların adilliği
-- [[teacher-role]] — eğitimci tarafı kaygısı
-- [[assessment]] — YZ aracılı değerlendirme kaygısı
-- [[social-norms-ai-use]] — görünürlüğün duygusal bedeli
-
-## Bağlı makaleler
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Yetkinlik etik farkındalığı artırır, etik farkındalık YZ kaygısını artırır: 584 öğrenci arasında dolaylı aracılık
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Verimli bir stratejik düzenleme sinyali olarak YZ kaygısı
-- [[aivaluate-anxiety-assessment-2026]] — YZ aracılı performansa dayalı değerlendirmede öğrenci kaygısı
-- [[ai-campus-wellbeing-tools]] — Kampüs refahı için YZ kaynaklı araçlar
-- [[affective-text-wearable-student-health]] — Öğrenci sağlığı için duygusal metin + giyilebilir algılama
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Otomatik gözetim, sınav adayı kaygısı, hatalı suçlamalar
-- [[automated-online-exam-proctoring-decade-review-2026]] — Otomatik sınav gözetiminin on yıllık derlemesi
-- [[moral-panic-genai-classroom]] — GenAI hakkında fakülte kaygısı ve ahlaki panik
-- [[acceptance-ai-english-tools-2026]] — YZ araç kabulünü şekillendiren kaygı
-- [[teacher-education-ai-literacy-sdt-2026]] — Öğretmen eğitimi, YZ okuryazarlığı ve kaygı
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Kaygı, güven ve özgüvenle iç içe YZ kullanımı
-- [[qu-wang-disclose-or-not-genai-2026]] — Öğrenci stresinin bir kaynağı olarak açıklama ikilemi
-- [[kim-ai-anxiety-comprehensive-analysis]] — YZ kaygısının ve müdahalelerinin kapsamlı analizi
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Kariyer uyum yetenekleri YZ kaygısını azaltır
-- [[duan-ai-anxiety-career-decisions-college-2026]] — YZ kaygısı, kariyer uyum yeteneği yoluyla kariyer kararlarını bozar
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — YZ kaygısı ve tutumları iş bulma kaygısını öngörür
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — YZ kaygısı sağlık bilimlerinde iş arama kaygısını öngörür
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI’ye ilişkin üniversite öğretmenlerinin deneyimleri ve algıları: kırılganlık, değerlendirmeyi yeniden düşünmek, risk altındaki öğrenci öğrenmesi (Farazouli ve ark. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ve Makine Öğrenmesi Kullanarak Pakistan Üniversitesi Öğrencileri Arasında Stres Tespiti ve Refah Desteği için YZ Destekli Kültürel Olarak Duyarlı Sohbet Robotu
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Algılanan okul desteği, YZ öğrenme kaygısını başlıca kontrol-değer değerlendirmeleri yoluyla düşürür (%69,5 aracılıklı); YSA çapraz doğrulaması (Jiang, Chen ve Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — YZ Suçluluk Kompleksi: akademik personelinde kullanım sonrası pişmanlığı aşan öngörücü suçluluk (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 ABD’li öğretim elemanının AAC&U/Elon anketi: aşırı bağımlılık, dürüstlük kaygısı ve küçülen bir fakülte rolü tahminleri (Watson ve Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Korkudan meraka: öğretim elemanlarını kimlik tehdidi boyunca ilerleten bir altı haftalık fakülte enstitüsü (Chick, Morello ve Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — YZ aracılı işte duygusal emek olarak akademik geliştiricilerin sahteci hisleri ve etik rahatsızlığı
-- [[parlant-emotional-micro-interventions-2026]] — Bilişsel değerlendirme kuramına dayalı, öğretmen tarafında gerçek zamanlı duygusal mikro müdahaleler
-
-- [[ai-employment-threat-career-anxiety-2026]] — YZ istihdam tehdidi ve kariyer karar kaygısı: algılanan istihdam edilebilirlik aracılık eder ve büyüme zihniyeti düzenleyici konumdadır
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — YZ kullanım baskısı, YZ yetkinliği ile birinci sınıf uyumu arasındaki bağı zayıflatır
-- [[ai-attitude-latent-profiles-career-development-2026]] — YZ kaygısı ve algılanan YZ kalitesi açısından yüksek, biri veya diğeri değil
-- [[ai-speaking-practice-communicative-readiness-2026]] — Konuşma kaygısının iletişim istekliğiyle bağı, yüksek konuşma öz yeterliliğinde tersine döner
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Algılanan YZ yardımcı zekâsı, çalışma hedefi ilerlemesi yoluyla akademik kaygıyı düşürür (tıp öğrencileri)
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — An examiner-like agent raised measured speaking and anxiety at once

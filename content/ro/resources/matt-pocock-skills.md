@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,6 +43,3 @@ Exemplul cel mai clar este `teach`, care rulează pe mai multe sesiuni și trate
 ## Ce trebuie să știi înainte de a le adopta
 
 Totul este [[open-source|cu sursă deschisă]] sub MIT și liber de luat ca punct de plecare pentru [[ai-literacy|alfabetizare în IA]] locală sau [[self-directed-learning|studiu autonom]]. Adoptarea este mare și rapidă: aproximativ 270.000 de stele și 23.000 de fork-uri la verificarea din septembrie 2026, cu cel mai recent commit pe 18 septembrie 2026. Precauția ține de arie. Competențele presupun contextul de lucru al unui [[human-ai-collaboration|inginer]], sunt organizate în găleți de inginerie, productivitate, abandonate și în lucru, deci unele intrări sunt explicit neterminate sau retrase, iar README-ul servește și ca înscriere la un buletin. Tratează competențele de predare și interogare ca partea transferabilă și așteaptă-te să rescrii oricare dintre ele înainte de a o pune în fața studenților.
-
-## Concepte conexe
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

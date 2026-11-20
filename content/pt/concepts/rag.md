@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -58,7 +60,6 @@ Uma variante local do padrão está documentada para o ensino de física. [[bezn
 - **O trabalho de implantação é curadoria do índice e definição de escopo.** Gupta e colegas (2026) configuraram um assistente de curso carregando materiais com metadados claros e definindo um prompt de persona cujo escopo mantinha as respostas dentro da base de conhecimento do curso, e a imprecisão foi a principal preocupação de 54% dos 294 usuários que responderam às perguntas abertas ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al. (2026)]]).
 - **Estrutura na ingestão versus recuperação na consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compilou o mesmo corpus do curso de [[machine-learning|aprendizado de máquina]] DS3001 em sete páginas de conceito wiki inter-referenciadas carregando citações de fontes, e o comparou com uma linha de base RAG vetorial ajustada de recuperação por *embedding* de fragmentos. Ao longo de 59 questões escritas por humanos, a wiki compilada superou o índice ajustado (9,95 contra 9,05 de 10, com um IC de *bootstrap* sobre a diferença excluindo zero) e foi mais frequentemente fundamentada no material que quem respondeu realmente viu (98% contra 81%), com ambas as lacunas aproximadamente triplicando nas questões que exigiam material de mais de uma página (pontuações entre páginas 9,93 contra 8,14, onde a taxa de fundamentação do RAG caiu de 87% para 64%). A lacuna de fundamento não foi uma falha de recuperação: apenas 2 das 11 respostas não fundamentadas do RAG vetorial foram erros de recuperação, enquanto as outras 9 tinham os trechos relevantes em contexto e ainda assim acrescentaram detalhes sem suporte — evidência de que a estrutura na ingestão restringe a elaboração, não apenas o acesso.
 
-
 - **Recuperar a partir de um resumo em vez das palavras do estudante (LC-RAG).** A fala colaborativa frequentemente não tem vínculo semântico com a base de conhecimento: os estudantes dizem "põe aquele bloco de posição ali", de modo que um recuperador apenas de discurso retorna trechos não relacionados, e o exemplo dos autores é uma passagem sobre um desenho animado dos anos 1990 extraída de um livro didático de física e computação. O RAG contextualizado por log tem um LLM resumindo cada segmento de trabalho a partir de seu discurso mais o log do ambiente (qual componente do modelo está sendo editado), e então recupera com base nesse resumo. Ao longo de 216 segmentos de modelagem colaborativa e cinco modelos de embedding julgados pelo GPT-4o, ele superou a linha de base de discurso em quatro modelos, com taxas de vitória de 0,403 a 0,620, e recuperou um conjunto mais estreito de trechos (167 únicos contra 267 de 7.386). Perdeu em um modelo porque os resumos se tornaram mais específicos à tarefa do que o corpus geral de livro didático era: escopo da consulta e escopo do corpus precisam ser combinados deliberadamente ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ## RAG versus ajuste fino
@@ -71,36 +72,3 @@ O RAG cumpre um papel complementar ao ajuste fino de [[llm|LLMs]] — a recupera
 - **"A qualidade da recuperação é o problema inteiro."** A recuperação é necessária e não suficiente. A resposta fundamentada pontuou **9,05 de 10, com um IC bootstrap na diferença excluindo zero**, e esteve **mais frequentemente fundamentada no material que quem respondeu de fato viu (98% vs. 81%)** —, de modo que o ganho medido está na fidelidade à evidência, e a evidência precisa estar correta para que essa fidelidade signifique algo.
 - **"A recuperação de página única generaliza."** Ambas as lacunas **praticamente triplicaram em questões que exigem material de mais de uma página** (pontuações entre páginas 9,93 contra uma linha de base menor). O raciocínio multi-documento é onde os sistemas fundamentados se degradam, e é exatamente onde os cursos fazem as perguntas mais difíceis.
 - **"A recuperação elimina a necessidade de escrutínio."** O [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dos materiais aprovados de um único módulo para servir estudantes que hesitam em perguntar a uma pessoa — um escopo defensável. Corpora estreitos e aprovados são o que torna o fundamento significativo; o rótulo sozinho não.
-
-## Conceitos conectados
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
-
-## Artigos conectados
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Abordagem para a educação em física usando IA local com RAG para a geração de materiais educacionais abertos (Beznosko et al., 2026)
-- [[hughes-rag-ai-feedback-implementation-2026]] — O RAG elevou a qualidade e a utilidade percebidas do feedback, não a acionabilidade, em duas coortes de pós-graduação
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Um assistente de aula fundamentado no currículo cuja economia de tempo não superou a de um chatbot de propósito geral
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Geração Aumentada por Recuperação para Educação em Ciência da Computação Teórica -- Um Framework Abrangente de Avaliação para Análise de Algoritmos e Teoria da Complexidade
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reduzindo Barreiras ao Apoio Acadêmico: Avaliando um Sistema RAG Específico de Curso para Enfrentar Disparidades na Busca de Ajuda no Ensino Superior
-- [[wiki-llm-indexing-ml-classes-2026]] — Potencial de Aprendizagem Aprimorada em Aulas de Aprendizado de Máquina pelo Uso de Indexação Wiki com LLM
-- [[on-premises-rag-tutoring-business-education-2026]] — Tutoria RAG Multicurso Local para Educação em Negócios
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — Curadoria do índice e escopo de recuperação como o trabalho de implantação
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Grafo de conhecimento mais assistente fundamentado no grafo e roteamento adaptativo em um laboratório de virologia: prova teórica +11,4 pontos, d = 1,39

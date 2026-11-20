@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -79,39 +81,3 @@ IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天
 **“探究按定义是无结构的。”** 教师搭建脚手架，而结构在问题设计与反思循环里，不在内容的传递里。移除脚手架不会使探究更真实，它使探究失去脚手架。
 
 **“如果学生有兴趣，他们主导的问题就会是良构的。”** 生成一个可处理的问题正是被发展的技能，这就是为什么一个供应好问题的系统，已经代做了这项活动本要教的探究技能。
-
-## 关联概念
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — 生产性失败
-
-## 关联文章
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT 在 STEAM 探究式学习中的应用（系统综述）
-- [[dai-chatbots-problem-posing-primary-2026]] — 生成式 AI 聊天机器人与小学科学中的问题提出
-- [[luo-ibl-patterns-llm-bloom-2026]] — 大语言模型驱动环境中的 IBL 模式（Bloom 视角）
-- [[mujib-ai-ibl-creative-math-2026]] — AI 支持的 IBL 与创造性数学表现
-- [[zhao-genai-higher-order-thinking-meta-2026]] — 生成式 AI 与高阶思维元分析
-- [[niri-steam-ai-literacy-review-2026]] — 面向 AI 素养的 STEAM 教育：系统综述
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向生产性失败的 LLM 教学性引导
-- [[lukesova-clue-before-correction-2026]] — 纠正之前先给线索：用于自主语言学习的 ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 光合作用与呼吸中的 AI 支持引导式探究（科学教师教育）
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI 驱动的信息抽取支持本科论文与研究型学习（An et al. 2026）
-- [[ai-assisted-inquiry-ssi-climate]] — AI 辅助的社会性科学议题探究：气候变化
-- [[geoscience-field-learning-genai-2026]] — 一个防止生成式 AI 预先建构学习者所注意之物的"田野优先"教学模型（Choi 2026）
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] —— 人类促进者对 AI 中介的问题式学习：内容增益相当，缺少促进者时批判性思维更弱（Shetty 与 Rao 2026）
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] —— 66 项研究绘制的生成式 AI 在五个探究阶段中的图谱，仅 8 项研究测量了探究技能

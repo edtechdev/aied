@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -92,41 +94,3 @@ Kudhihirisha matumizi ya AI upo katika mwinuko wa [[academic-integrity]] (wasili
 - **"Wanafunzi huficha matumizi ya AI kwa sababu hawana unyoofu."** Vichocheo vimeandikwa na ni mahususi: **takriban 34% tu ya wanafunzi wa uchumi walikiri matumizi ya AI** huku udhihirishaji ukiwa nadra zaidi, ukichochewa na **wasiwasi wa adhabu**, wakati utafiti mwingine uligundua **66% hawakudhihirisha kamwe au mara chache** huku **hofu ya adhabu ya kitaaluma ikiwa sababu kuu**. Ubuni wa sera, si tabia, ndio data inaonyesha.
 - **"Sharti la kudhihirisha ni udhibiti wa gharama ndogo."** **Kiwango cha kutokfuata cha 74%** hufanya rekodi inayotokana kuwa mbaya zaidi kuliko kutokuwa na rekodi: ni seti ya data inayoonekana kamili na haiko, kwa hivyo taasisi inafanya maamuzi juu ya sampuli ambayo haiwezi kuiamini.
 - **"Kudhihirisha jinsi mfano ulivyotumika kunatosha."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] anadai kudhihirisha kunarekodi matumizi ya mfano wakati matumizi yenye uwajibikaji yanahitaji uthibitisho wa mwandishi katika kiwango cha dai, uwezo wa mchangiaji kuelewa, kuhalalisha na kutetea madai, ukitenganisha [[cognitive-offloading|ukabidhi wa kiakili]], ambapo matokeo huunda chaguo za msingi, kutoka ukabidhi wa kawaida, ambao haufanyi hivyo.
-
-## Dhana Zilizounganishwa
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — madhara ambayo kudhihirisha kinakusudiwa kufanya yaonekane
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — kwa nini wanafunzi wanachagua kuficha badala ya kudhihirisha
-
-## Makala Zilizounganishwa
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM iliyogawanyika: uhakika wa kugundua dhidi ya hatari kwamba kudhihirisha kunafichua matumizi yasiyofaa (Liu et al. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Upande wa kioo: kuwaambia wanafunzi lini AI inapima kazi yao, na kuomba ridhaa kabla ya kuipakia
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Majaribio kumi na matatu: kudhihirisha matumizi ya AI hupunguza uaminifu wa anayedhihirisha, kupitia uhalali
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Wakati Kanuni za Kudhihirisha Hazitoshi: Uthibitisho wa Mwandishi na Hukumu katika Utafiti Unaosaidiwa na AI (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Lebo za kudhihirisha AI, uhalisi unaohisiwa, na uaminifu katika video za kielimu zilizozalishwa na AI
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Zaidi ya kugundua: jinsi wanafunzi wanavyotumia na kuficha AI katika tathmini mtandaoni
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Kudhihirisha AI kwa mwanafunzi, stigma, na kujifunza kwa kujidhibiti
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Gharama iliyofichwa ya kudhihirisha: kudhihirisha na shutuma za wataalamu
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Kutokfuata kwa wanafunzi matangazo ya matumizi ya AI
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Matangazo kama elimu badala ya kugundua
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Gharama ya unyoofu kama kizingiti cha kubuni katika tathmini
-- [[student-perspectives-ai-writing-grading-2026]] — Nani Anapaswa Kupima Kazi Yangu? Mitazamo ya Wanafunzi kuhusu Tathmini ya Uandishi Unaosaidiwa na AI kwa Uwazi katika Elimu ya Juu
-- [[qian-governing-genai-higher-ed-policy-2026]] — Kudhihirisha kama mpaka kati ya msaada na uwasilishaji mbaya katika vyuo 50 vya Marekani vilivyo vya uvumbuzi (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Hakuna makubaliano kuhusu kudhihirisha na kutaja AI katika sera za shule za sheria (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — Insha za kuingia zilizoandikwa na AI zimeenea lakini zinaadhibiwa

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +48,6 @@ ai_assist:
 행동적 추천 체계는 [[machine-learning|협업 필터링]]의 논리를 물려받습니다. 비슷한 이력을 가진 학습자들이 비슷한 자원을 원한다고 가정하므로, 체계는 내용이 아니라 동시 출현으로부터 예측합니다. 이것은 데이터가 조밀한 곳에서는 강력하고 그렇지 않은 곳에서는 부서지기 쉽습니다. [[fair-explainable-edu-recommendations|Evangelista and Bukhari (2026)]]는 문제를 평이하게 진술합니다 — 정확도 중심의 추천 체계는 참여 이력이 제한된 학생들에게 덜 신뢰할 만한 지원을 주고 인기 있는 자원이 목록을 지배한다 — 그리고 이형 [[knowledge-graph]] 지식 그래프를 임베딩하고 GRU로 학습자 연쇄를 모형화한 뒤, 학습자 집단 전반에 걸친 견고성(GroupDRO)을 위해 훈련하고 노출 다양성을 위해 리랭킹(Maximal Marginal Relevance)하는 Hybrid HKG-GRU 체계로 그것에 답합니다. 152명의 학생, 59개의 자원, 약 150,000건의 상호작용에 걸친 Moodle 로그에서 HR@10 = 0.68과 MRR = 0.41에 도달했지만, 목록 수준에서 상당한 인기 편향이 지속되었습니다. 이것은 [[bias-mitigation|편향 완화]]가 부분적이라는 증거입니다.
 
 가벼운 기준선이 심층 모형을 완전히 이길 수도 있습니다. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi 등(2026)]]은 네덜란드어 제2언어 플랫폼 NedBox에서 일곱 개의 추천기를 비교했고, 얕은 항목-항목 모형 EASE가 모든 측정에서 앞섰습니다 — AUROC 0.955, MAP 0.283, NDCG@3 0.205, NDCG@5 0.279 — 심층 변분 오토인코더 MVAE(AUROC 0.949)와 앙상블 PentaForest(0.953)를 앞섰고, 행렬 분해가 가장 나빴습니다(IALS 0.719, UKNN 0.767). 추천 신호와 [[knowledge-tracing|지식 추적]] 신호도 결합됩니다. EASE의 상위 10개를 예측 숙달도로 다시 순위 매기자 NDCG@3가 약 3% 올랐습니다.
-
 
 의미론적 추천 체계는 동시 출현을 구조로 대체합니다. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun, and Song (2026)]]은 교수 자원, 언어 개념, 기술, 학습자 집단, [[pedagogy|교수학적]] 속성의 지식 그래프를 구축하고, 모든 자원을 네 가지 교수 차원 — 교수 맥락, 인지 수준, 기술적 특징, 문화적 적응성 — 을 따라 분해합니다. 추천은 학습자가 진술한 요구로부터 그래프에 k-hop을 확장하고, 특징 기반 협업 필터로 후보를 정제하며, 학습자의 능력, 진도, 관심 지표와 함께 상승하는 융합 계수로 순위를 매깁니다. 그래서 덜 숙련된 학습자는 그래프로부터 더 구조화된 안내를 받고 고능력 학습자는 자신의 행동 패턴에 의지합니다. MARS 데이터셋의 영어 부분집합(사용자 4,800명, 자원 14,200개, 상호작용 132,000건, 희소성 0.9981)에서 NDCG 0.625와 HR 0.751에 도달했는데, 최고의 신경망 기준선 대비 약 7–8%의 향상이며, 커버리지와 교차 영역 정확도에서 RippleNet과 KGAT을 포함한 그래프 인지 기준선을 앞질렀습니다. 제거 실험은 신호들이 상호보완적임을 보여줍니다(CF만 NDCG 0.584, KG만 0.604). 저자들은 이것들이 순위 측정치이며 [[learning-gains|학습 효과]]의 증거가 아니라고 지적합니다.
 
@@ -97,42 +98,3 @@ PersonaPath은 연쇄 질문에서 결정의 *단위*에 이의를 제며 더 �
 **"희소한 데이터는 기술적 성가심이다."** 이 문헌의 희소도 수준(0.9981)에서 체계는 거의 아무것도 보지 못하며, 이는 콜드 스타트와 인기 편향을 조정으로 고칠 수 없는 구조적 문제로 만듭니다. 그 신호로 훈련된 추천기는 이미 인기 있는 것을 체계적으로 부각하며, 조용하거나 특이한 학습자가 보이지 않는 대상입니다.
 
 **"설명 가능성은 보고 기능이다."** 교사나 학습자가 추천을 감사할 수 있는지는 정당성 조건입니다. 학생이 검토할 수 없는 경로는 이의를 제기할 수 없는 경로이며, 이는 인터페이스 문제이기에 앞서 거버넌스 문제입니다.
-
-## 연결된 개념
-
-- [[knowledge-graph]] — 개념, 자원, 선수 관계의 구조화된 표현
-- [[explainable-ai]] — 이해 용이성과 신뢰를 매개하는 설계 특징으로서의 설명
-- [[curriculum-design]] — 추천 체계가 모형화하고, 추론하고, 재현하는 정렬 결정
-- [[learning-design]] — 경로 분석이 작동하는 계획된 활동 연쇄
-- [[learning-analytics]] — 추천 뒤의 데이터와 방법, 그리고 감사의 대상
-- [[cognitive-diagnosis]] — 보완 경로에 씨앗이 되는 지식 상태의 진단
-- [[knowledge-tracing]] — 학습자가 무엇을 위해 준비되었는지를 결정하기 위한 시간에 걸친 숙달 모형화
-- [[student-modeling]] — 추천이 소비하는 학습자 표현
-- [[personalized-learning]] — 더 넓은 목표; 이 페이지는 선택 결정을 다룹니다
-- [[adaptive-learning]] — 실시간 조정 기제; 이 페이지는 순위 매김과 연쇄화를 다룹니다
-- [[intelligent-tutoring]] — 대화 속에서 추천에 따라 행동하는 플랫폼
-- [[bias-mitigation]] — 순위 매김과 노출에서의 공정성 개입
-- [[equity-in-ai-education]] — 추천 품질의 집단 수준 차이
-- [[human-in-the-loop-ai]] — 자동화된 자원 내비게이션의 감독
-- [[self-directed-learning]] — 학습자 유지 경로와 평생 내비게이션
-- [[lifelong-learning]] — 학위 연쇄를 넘어선 그래프 구조화된 학습
-- [[trust-calibration]] — 추천 신뢰성에 의존을 맞추기
-- [[student-support-and-success]] — 지원, 자원, 학업 경로 추천
-
-## 연결된 문서
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — 능력·진도 인지 융합을 갖춘 다중양식 교수 자원을 위한 혼합 협업 필터링 + 지식 그래프 (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — GroupDRO 공정성과 반사실 설명 가능성을 갖춘 이형 지식 그래프 + GRU 추천 체계 (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 특징 중요도 차트보다 더 많은 교사 신뢰를 쌓는 영역 기반 설명 (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — 방향적 일관성을 위한 비가역성 제약을 갖춘 선수 관계 학습 (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — 패턴 기반 지식 구성요소 유사성에 의한 프로그래밍 연습 추천 (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554개 강의에 걸친 29,064개의 설계된 활동의 마르코프 및 패턴 마이닝 분석 (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 인지 부하가 매개하는 베이지안 DINA 진단과 최단 보완 경로 (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — 커리큘럼 수준 격차를 찾기 위해 GPT-4 추출 선수 그래프에 AI 조교 질문을 사상하기 (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 고정된 커리큘럼의 평생 학습 대안으로서의 Learnity graphs (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — 대부분의 인간-AI 상호작용이 협업이 아닌 자문임을 보여주는 5수준 분류 (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — 건설적 또는 강박적 AI 경로를 예측하는 자율 지원 대 압력 (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — 개인화된 학습 추세, 경로, 추천 모형의 PRISMA 검토 (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM이 90.9% 타당도에 이르지만 44.3% 적응성에 그침을 보여주는 지식 중심 계획 벤치마크 (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 의미론적으로 기반을 둔 추적기 위의 연쇄적 결정으로서의 연습 추천
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 다양성 정규화 추천 체계로 학습 객체에 사상된, 여섯 프로필로의 14,003건 기록의 행동적 군집화 (Najem et al. 2026)

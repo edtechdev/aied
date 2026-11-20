@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -120,36 +122,3 @@ Fasihi katika hifadhi hii ya maarifa hailingani. Tafiti za tashbihi za kitivo na
 Hilo halifanyi kazi hiyo kuwa bure. Linafanya madai kuwa ya kiasi kinachofaa. Uchukuzi wa tashbihi unaweza kufichua dhana ambazo uchunguzi unazikosa. Ukosoaji wa ulinganifu unaweza kufanya uelewa wa kimuundo uonekane. Tashbihi iliyochaguliwa vizuri inaweza kuwapa darasa kitu cha pamoja cha kujadili. Lakini uwanja bado unahitaji tafiti zinazolinganisha ufundishaji unaotegemea tashbihi na ufundishaji wa kawaida, zinazopima uhamishaji badala ya kukumbuka tashbihi, na zinazojaribu iwapo mbinu hiyo inasafiri katika tamaduni na taaluma.
 
 Hatari ya kudai kupita kiasi ni halisi pande zote mbili. Mwalimu anayechukulia tashbihi kama maelezo yaliyokamilika anaweza kuweka dhana potofu. Mtafiti anayechukulia tashbihi kama mapambo peke yake anaweza kukosa utaratibu ambao wanafunzi hujenga au kushindwa kujenga mfano wa kiakili. Msimamo wenye tija ni kuchukulia tashbihi kama uwakilishi uliobuniwa, wa sehemu, na unaoweza kukosolewa, na kujifunza kile wanafunzi wanachofanya nao.
-
-## Dhana zinazohusiana
-
-- [[ai-literacy]] — mwavuli wa ujuzi mahususi wa AI na ufundishaji unaotegemea tashbihi.
-- [[critical-thinking]] — ukosoaji wa ulinganifu kama aina ya kufikiri kimuundo.
-- [[misconceptions]] — ulinganifu wenye kasoro kama chanzo cha dhana potofu zinazodumu.
-- [[student-ai-interaction]] — jinsi wanafunzi wanavyotafsiri na kukagua maelezo ya AI.
-- [[pedagogical-agent]] — wakufunzi wa AI wanaozalisha maelezo au ulinganifu.
-- [[learning-design]] — kuchagua na kupanga nyenzo zinazotegemea ulinganifu.
-- [[educational-development]] — uchukuzi wa tashbihi katika maendeleo ya kitivo.
-- [[engineering-education]] — tashbihi za kitivo na wanafunzi katika uhandisi.
-- [[cs-education]] — matumizi na ukosoaji wa ulinganifu katika elimu ya kompyuta.
-- [[cognitive-offloading]] — tashbihi za zana na msaidizi na hatari zake.
-- [[trust-calibration]] — majukumu ya kibinadamu na uaminifu usiofaa.
-- [[equity-in-ai-education]] — vikoa chanzo vya nani vinahesabiwa kuwa vinavyojulikana.
-- [[teacher-role]] — hukumu ya mwalimu juu ya maelezo yaliyozalishwa na AI.
-- [[explainable-ai]] — maelezo ya mfumo dhidi ya ulinganifu wa kifundisho.
-- [[student-engagement]] — athari za ushiriki za ulinganifu uliobinafsishwa.
-- [[higher-ed]] — mazingira ya tafiti nyingi katika kundi hili.
-
-## Makala zinazohusiana
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Tashbihi nne na vigezo vya kufundisha ujuzi mahususi wa AI
-- [[student-reception-genai-analogies-computing-2026]] — Wanafunzi hukagua ulinganifu uliozalishwa na GenAI na kutengeneza upangaji uliovunjika
-- [[fear-awe-genai-metaphor-workshops-2025]] — Warsha za uchanganuzi wa tashbihi na wanafunzi, wasomi na wafanyakazi
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Tashbihi za kitivo cha uhandisi hujenga na kuzuia uelewa wa AI
-- [[genai-professionalization-metaphors-2026]] — Dhana za kitashbihi za wanafunzi kuhusu GenAI na kujifunza kwa kitaalamu
-- [[thermomix-genai-education-analogy-2026]] — Ulinganifu wa kifaa cha jikoni kwa ukabidhishaji na kujifunza kwa AI
-- [[anvil-ai-educational-animations]] — Ulinganifu na uhuishaji wa kifundisho uliozalishwa na AI kwa kompyuta
-- [[ai-engineering-education-balancing-act]] — Tashbihi za wanafunzi za "orakuli" na "mwalimu" zinapita uwezo wa LLM
-- [[code-anchor-multi-view-visualization]] — Ngazi za msaada za kitashbihi na tatizo la uhalali wake
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Tashbihi ya mwanafunzi ya "mashine ya kuuza bidhaa ya maoni" kama ushahidi wa ujuzi
-- [[daoism-ai-education-philosophy-2026]] — "Zhenren" kama tashbihi mbadala kwa AI katika elimu

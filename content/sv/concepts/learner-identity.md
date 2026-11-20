@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -86,39 +88,3 @@ Elevidentitet kopplar till [[agency|handlingsutrymme]] (identitet utövas genom 
 **"AI-stöd sänker trösklarna och breddar därför deltagandet."** Det kan sänka tröskeln för att producera arbete samtidigt som det höjer tröskeln för att göra anspråk på författarskapet. En elev som lämnar in en flytande artefakt som den inte har författat har fått tillgång till utfallet men nekats det erkännande som bygger identiteten bakom det.
 
 **"Att erkänna en elevs identitet är en fråga om representation i innehållet."** Representation spelar roll, och erkännande utövas i praktiken: vems frågor tas upp, vems bidrag tillskrivs och vem som behandlas som kapabel. En [[curriculum-design|läroplan]] kan vara representativ och ändå undanhålla det erkännande som identitetsbildningen kräver.
-
-## Anslutna begrepp
-
-- [[learners]] — Elever: paraplyt för elevsidans begrepp
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Anslutna artiklar
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 grundstuderande om vad de fortsätter göra själva, och varför syftet sällan avgör det
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — Kompetensparadoxen: kreativ identitet vid användning av text-till-bild-GenAI
-- [[shame-guilt-ai-regulation-computing-education]] — Skam och skuld som sociala reglerare av AI-användning
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptiva förmågor för en livskraftig professionell identitet i en GenAI-framtid
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogisk symbios och den posthuman eleven
-- [[ai-pedagogical-accompaniment-amico]] — AI-möjliggjort pedagogiskt sällskap som stödjer STEM-identitet
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Att designa för autentisk bedömning
-- [[paternalistic-filter-llm-history-education]] — Paternalistisk AI-användning och elevidentitet i historieundervisningen
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskris för fakulteten (läraridentitet)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-baserad lärarutbildning och professionell identitet
-- [[genai-professionalization-metaphors-2026]] — GenAI-begreppsliggöranden och elevers professionella identitet
-
-- [[synthetic-position-self-authorship-2026]] — Författarsuspension: delegerat författarskap som ett jag tätt besjälat men oförfattat (begreppsanalys)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

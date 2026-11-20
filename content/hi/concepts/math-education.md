@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -109,72 +111,3 @@ ai_assist:
 **"गणित एआई के लिए आसान क्षेत्र है क्योंकि उत्तर जाँचे जा सकते हैं।"** जाँचने की क्षमता ही गणित को अच्छा परीक्षण-मैदान बनाती है, वह उसे सुरक्षित नहीं बनाती। क्योंकि अंतिम उत्तर सत्यापन-योग्य है, छात्र उस समाधान को वैध ठहरा सकता है जिसे उसने बनाया ही नहीं, और विषय का तर्क ठीक इसी तरह बचा लिया जाता है जबकि अंक साफ़ रहते हैं। जो गुण शोधकर्ताओं को आकर्षित करता है वही गुण ऑफ़लोडिंग को अदृश्य बनाता है।
 
 **"गणित के लिए [[item-response-theory|प्रश्न-कठिनाई]] किसी सक्षम मॉडल द्वारा निर्धारित की जा सकती है।"** इसे प्रतिक्रियाओं के विरुद्ध अंशांकित करना पड़ता है। **5,170 K-5 प्रश्नों** तक फैले एक प्रश्न-कठिनाई अध्ययन में, जो रास्च IRT मॉडल के अंतर्गत अंशांकित थे, मॉडल-निर्मित शून्य-शॉट कठिनाई रेटिंगों की तुलना अनुभवजन्य अंशांकन से ठीक इसलिए की गई क्योंकि घोषित कठिनाई और मापी गई कठिनाई अलग-अलग मात्राएँ हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## संबंधित लेख
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — समावेशन गणितीय कार्य की डिज़ाइन-संपत्ति है: UDL और SAMR की जोड़ी (Jita, Jita & Omoniyi 2026)
-
-- [[ai-mathematics-education-prisma-review-2026]] — गणित शिक्षा में कृत्रिम बुद्धिमत्ता: एक PRISMA-आधारित व्यवस्थित साहित्य समीक्षा (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — अर्थशास्त्र के वरिष्ठ विद्यालय प्रमाणपत्र परीक्षा के गणितीय प्रश्नों का संदर्भिक सादृश्यता मॉडल का उपयोग करते हुए स्वचालित सॉफ़्टवेयर अंकन
-- [[mindful-llm-math-tutoring-2026]] — समस्या-समाधान से आगे: गणित सीख में भावनात्मक और चिंतनशील सहायता के लिए बड़े भाषा मॉडल
-
-- [[making-ai-tutoring-productive-mastery-math-2026]] — एआई ट्यूटरिंग को उत्पादक बनाना: दक्षता-आधारित गणित अभ्यास
-- [[chudziak-ai-math-tutoring-platform]] — एआई-संचालित गणित ट्यूटरिंग मंच (Chudziak & Kostka 2025)
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — ALEKS दक्षता मंच: पाठ-आधारित समस्याएँ सबसे अधिक एआई-प्रवण
-
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक विफलता के लिए एलएलएम का शैक्षणिक मार्गदर्शन
-
-- [[instructional-design-proficiency-masters-math-2026]] — गणित में M.Ed. शिक्षण डिज़ाइन दक्षता सुधारने वाला स्मार्ट-कक्षा मॉडल और D-T-E लूप (Zhu एट अल. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — प्राथमिक गणित के एलएलएम ट्यूटरिंग प्रणाली में नियम-निर्देशित बनाम तदर्थ स्कैफोल्डिंग (Looi एट अल. 2026)
-
-- [[razavi-powers-item-difficulty-llm-2026]] — एलएलएम और वृक्ष-आधारित एमएल का उपयोग करके प्रश्न कठिनाई का आकलन
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-
-- [[genai-practice-platform-maths-feedback-2026]] — 157-छात्र गणित कक्षा में वैकल्पिक GenAI अभ्यास मंच: तात्कालिक प्रतिपुष्टि महत्वपूर्ण, ग्रहण केवल 34 सक्रिय उपयोगकर्ताओं तक सीमित
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — शैक्षणिक उपलब्धि पर एआई-निर्मित प्रतिक्रियाओं का प्रभाव का आकलन: एक नैतिक दृष्टिकोण और स्व-प्रभावशीलता
-- [[ledezma-geometry-task-design-genai-preservice-2026]] — संभावी प्राथमिक शिक्षकों के GenAI-डिज़ाइन ज्यामिति कार्य: उच्च संज्ञानात्मक मांग, बंद निर्देश, अंतर्निहित मापन-त्रुटि (Ledezma एट अल. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — प्रस्तुति क्या नहीं दिखाती: एलएलएम के साथ छात्रों के गणितीय कार्य में जटिल होती संज्ञानात्मक ऑफ़लोडिंग (Kontorovich और Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — छात्रों के तर्क का समर्थन या प्रतिस्थापन? एआई-सहायता प्राप्त प्रमाण अधिगम में संज्ञानात्मक ऑफ़लोडिंग (Chen एट अल. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — प्री-सर्विस गणित शिक्षकों और GenAI के बीच गणितीय संचार का विश्लेषण: Abstract Algebra पाठ्यक्रम का एक केस अध्ययन
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — स्नातक कैलकुलस में प्रतीकात्मक बाधाएँ एक प्रस्तुतीकरण-संबंधी अवरोध हैं, एआई स्कैफोल्डिंग के बाद कूटबद्ध प्रतीकात्मक त्रुटियाँ कम (Nursit एट अल. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — गणित शिक्षा में एआई एकीकरण: कार्यान्वयन चुनौतियाँ और शैक्षणिक निहितार्थ (Manto एट अल. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — उच्च-विद्यालय गणित में कक्षा-संचालन कार्य: डैशबोर्ड पढ़ना और एआई प्रतिपुष्टि सुधारना
-- [[decision-making-agent-student-decision-acceptance-2026]] — छात्र अब भी शिक्षक के अंकन निर्णय को वरीयता देते हैं
-- [[genai-learning-motivation-meta-analysis-2026]] — गणित में प्रेरणा-लाभ चार अध्ययनों पर टिके हैं (g = 0.711)

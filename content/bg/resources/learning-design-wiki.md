@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -45,6 +46,3 @@ ai_assist:
 ## Бележки и предупреждения
 
 Четете панела за доверие на всяка страница. Езикови модели поддържат уикито под един човешки поддържащ, никой човек не е проверявал нито една страница, а сайтът обозначава страницата като добре обоснована следа, а не като находка. Твърденията носят ниво на дизайна, код за размера на ефекта и код за строгостта, а „не е отпечатан размер на ефекта“ означава, че източникът не е съобщил такъв, а не че не съществува. Съдържанието е под CC BY-SA 4.0, така че преизползването трябва да носи същия лиценз, а кодът е MIT.
-
-## Свързани понятия
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

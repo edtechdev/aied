@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
+connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -77,7 +79,6 @@ AI memengaruhi siswa di seluruh dimensi kognitif, motivasional, [[affective-comp
 
 Kisah siswa tentang integritas kurang mapan dibandingkan yang disiratkan pembingkaian ketidakjujuran. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa dan Mezgebu (2026)]] mewawancarai 27 mahasiswa di sebuah universitas Ethiopia dan menemukan badan siswa terbelah terhadap dirinya sendiri: hampir semuanya menggunakan GenAI atau menyaksikan teman sejawat menggunakannya dan sebagian besar mengaitkannya dengan kenaikan capaian mereka. Sebagian kecil menyebut penggunaan untuk tugas kuliah sebagai pelanggaran langsung, dan keluhan yang paling tajam dan paling luas dibagikan adalah keadilan — pengguna AI memperoleh nilai di atas siswa yang bekerja jujur. Itu membuat sebagian menggambarkannya sebagai mematikan rasa rajin mereka, dan satu peserta tidak yakin "apakah kami diuntungkan atau dirugikan oleh penggunaan AI." Sisi prosedurnya juga penting: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] mengodekan 1,162 kasus pelanggaran GenAI dan menemukan bahwa bukti yang paling sering dikutip — keluaran detektor, laporan kemiripan, pola konten khas AI — membawa nilai pembuktian paling lemah, dan bahwa tanpa ambang bukti minimum dalam alur prosesnya, siswa dengan kasus tipis didorong ke arah banding. Definisi yang terlalu inklusif memperlebar paparan itu: [[wright-transcription-not-generation-2026|Wright (2026)]] menunjukkan bahwa larangan yang ditujukan pada "[[generative-ai|AI generatif]]" dapat menangkap alat yang hanya mengubah format karya yang sudah ditulis siswa sendiri, sebuah inklusi berlebih yang paling berat menimpa siswa penyandang disabilitas dan siswa yang terekspos [[equity-in-ai-education|keadilan]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] menunjukkan jalan keluar yang konstruktif, memperlakukan integritas sebagai praktik [[pedagogy|pedagogis]] yang diwujudkan melalui [[evaluative-judgment|pertimbangan]] — jejak keputusan beranotasi, verifikasi, [[oral-assessment|pembelaan lisan]], riwayat versi — alih-alih kepatuhan yang dijamin melalui pengawasan.
 
-
 Verifikasi dapat mengubah bagaimana siswa mengalami pertanyaannya: permintaan untuk menjelaskan pekerjaan mereka mula-mula terbaca sebagai tuduhan, tetapi setelah silabus membingkainya di muka sebagai pedagogi alih-alih pengawasan, mereka mengungkapkan penggunaan AI dengan lebih terbuka dan memperlakukan tugas sebagai tugas belajar, dalam percakapan lima-hingga-sepuluh menit ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
 
 ### Dampak sosial dan relasional
@@ -124,73 +125,3 @@ Pengalaman siswa terhubung dengan [[cognitive-offloading|Ketergantungan Berlebih
 **Bagi peneliti**
 
 - Laporkan ukuran dan alasan kelompok nonpengguna secara eksplisit; 32% dari sampel 7,087 siswa adalah sebuah populasi, bukan residu.
-
-## Konsep terkait
-- [[learners]] — Siswa: payung bagi konsep-konsep sisi siswa
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[learner-identity]] — identitas siswa yang berkembang secara disipliner, profesional, kreatif, dan akademik
-- [[agency]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[remote-proctoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[framing-ai-use-for-students]]
-- [[academic-integrity]]
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (siswa, guru, perancang, administrator, pembuat kebijakan)
-- [[self-report-measures]]
-- [[student-engagement]] — bagaimana sistem AI mengukur dan merespons perilaku siswa
-- [[social-norms-ai-use]] — bagaimana penggunaan AI menjadi terlihat oleh teman sejawat
-- [[student-support-and-success]] — sisi institusional dari dukungan: apa yang dilakukan universitas kepada siswa, bukan apa yang terjadi di dalam mata kuliah
-
-## Artikel terkait
-- [[shame-guilt-ai-regulation-computing-education]] — Rasa malu dan rasa bersalah sebagai pengatur sosial penggunaan AI
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi: identitas kreatif dalam penggunaan GenAI teks-ke-gambar
-- [[best-response-student-ai-dialog-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[ai-in-the-wild-college]]
-- [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — Rasionalisasi penggunaan AI oleh siswa dalam penulisan akademik (Kim et al. 2026)
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[ai-availability-student-motivation]]
-- [[aied-unfinished-mission-bypass]]
-- [[student-mental-models-genai]]
-- [[genai-usage-design-students-survey]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Ekspektasi keterampilan AI bagi lulusan perguruan tinggi vs. kesiapan institusi
-- [[student-ai-inquiry-types-cs2-2026]] — Analisis Jenis Inkuiri dalam Interaksi Siswa–AI
-- [[lnenicka-secondary-students-genai-stem-2026]] — Apa yang dilakukan siswa sekolah menengah dengan alat GenAI di seluruh STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot GenAI dan pengajuan masalah dalam sains sekolah dasar
-- [[bassett-ai-detectors-education-2026]] — Kepala kita menang, ekor kita kalah: detektor AI dalam pendidikan (Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — Celah Keamanan: Memulihkan Pergulatan Produktif
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Penilaian Kecemasan Siswa yang Ditambah LLM (2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — Analisis komprehensif kecemasan AI
-- [[student-perceptions-ai-study-productivity-2026]] — Persepsi Siswa terhadap Alat Kecerdasan Artifisial untuk Produktivitas Belajar dan Pembelajaran: Studi Survei Eksploratori
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Perspektif adopsi pascasekolah menengah
-- [[pedlow-genai-selfassessment-2026]] — Meningkatkan kesadaran etis penggunaan GenAI melalui penilaian diri siswa
-- [[dollinger-equitable-assessment-ai-2026]] — Penilaian yang adil di era AI
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Penggunaan, etika, dan kebijakan GenAI secara longitudinal dalam pendidikan guru (Parker et al. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — Pengalaman siswa atas kegunaan GenAI di pendidikan tinggi Australia (Chung et al. 2026)
-- [[genai-motivation-engagement-2026]] — 297 siswa: motivasi memprediksi keterlibatan; dukungan otonomi untuk penggunaan AI tidak memiliki efek langsung (Ahmed & Sultan 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — GenAI dan kapabilitas pengambilan keputusan yang dirasakan siswa (penjelasan beban kognitif)
-- [[genai-professionalization-metaphors-2026]] — Konseptualisasi GenAI dan profesionalisasi siswa
-- [[sidorkin-ai-generated-course-readings-2026]] — Siswa sebagai auditor atas kurikulum yang dihasilkan AI mereka sendiri (Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Siswa tentang apakah GenAI adalah alat curang atau mitra belajar
-- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya terkandung sebagai bukti dalam berkas tuduhan pelanggaran
-- [[wright-transcription-not-generation-2026]] — Aturan AI yang terlalu inklusif dan siswa yang tertangkap olehnya
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integritas sebagai pertimbangan evaluatif alih-alih kepatuhan
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Biaya emosional dan keadilan dari pengawasan jarak jauh bagi siswa

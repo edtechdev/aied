@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -93,35 +95,3 @@ ai_assist:
 - **"神经多样性研究只是 [[ai-education|AIED]] 的一个小众角落。"** 该领域已**围绕[[generative-ai|生成式 AI]]重新组织：40 项研究中有 15 项**，沉浸式形式以 11 项居次。文献是随技术移动的，而不是围绕稳定的问题累积起来的。
 - **"给阅读障碍的 AI 越多，支持就越好。"** [[dabaghi-ai-dyslexia-education-review-2026|关于 AI 用于阅读障碍的跨学科综述（Dabaghi、D'Urso 与 Sciarrone，2026）]]覆盖 **2018-2024 年的 72 项研究**，发现 AI 被用于范围很广的目的。应用的广度并不构成其中任何一项有效的证据。
 - **"accommodations 是神经多样性学习者的正确框架。"** [[neurodivergent-computing-students|一项对 24 名神经多样性计算专业学生与 20 名神经典型同伴的调查]]加上四次深度访谈发现，他们的需求属于**通用设计要求**：结构化的作业、小而稳定的团队、明确的角色，而不是在获得诊断之后才被授予的个别调整。
-
-## 关联概念
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[executive-function]]
-
-## 关联文章
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — 重新框定神经包容小学课堂教育技术的教育价值：一项范围综述
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式AI、虚拟现实及其他：高等教育中神经多样性学生数字辅助技术的范围综述
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29项面向残障学生的AI研究，以及一个随类别变化的效应
-- [[adhd-video-segmentation-computing-education]] — 把ADHD参与者带到平齐的时序视频分段
-- [[neurodivergent-computing-students]] — 24名神经多样性计算专业学生论结构、模糊性与协作
-- [[genai-reliance-executive-functioning-2026]] — 执行功能困难、感知有用性与通往AI依赖之路
-- [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的GenAI认知外包
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 帮助教育中阅读障碍者的AI
-- [[genai-minoritized-knowledges-disability]] — 生成式AI与被边缘化知识的边缘化
-- [[tactile-statistical-graphs-accessibility]] — 面向无障碍的触觉统计图表
-- [[ai-learning-tools-engineering-education-needs]] — 设计需求感知与注意感知的 AI 学习工具
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测驱动的流程会阻碍合法的 accommodations 使用
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — 28 项关于面向 ADHD 学生的 AI 研究，并点明其中的伦理问题

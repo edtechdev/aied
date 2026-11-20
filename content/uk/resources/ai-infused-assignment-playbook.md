@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -50,16 +51,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Зауваження та обмеження
 
 Це практичний посібник, а не емпіричне дослідження; його твердження про використання ШІ студентами спираються на цитовані зовнішні джерела (BestColleges, Campbell, Digital Education Council, Flaherty), а не на нові дані. Рамка «конструювання мережі» й концепція «ілюзії розуміння» запозичені з ширшої літератури (Wigmore et al.; Williamson et al.) і подаються як педагогічне обґрунтування, а не як перевірені результати самого посібника. Завдання — авторські шаблони; жодне з них не подано з розмірами ефекту, тому їх слід розглядати як конструкції для локальної адаптації та оцінювання. Опубліковано 2026-10-07, v1, на Zenodo за ліцензією CC BY 4.0; завантаження безкоштовне, без облікового запису. Станом на момент завантаження в базу знань запис має лише ~35 переглядів і ~14 завантажень, тобто зовнішнє використання або рецензування поки що мінімальні.
-
-## Пов’язані поняття
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

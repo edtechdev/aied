@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -47,6 +48,3 @@ ai_assist:
 ## Бележки и предупреждения
 
 Темпото е и рекламата, и рискът. Строежите за един ден се насочват към реален проблем в класната стая, а не към изследователски въпрос, така че тук нищо не носи оценка и твърдение за това какво прави едно приложение трябва да се изпита в класната стая. В GitHub организацията има тридесет и две публични хранилища, докато галерията изброява 34, всички под Apache-2.0 с наличен изходен код, така че приложение може да се прочете и хоства самостоятелно. Локалният дизайн е твърдение, което се проверява за всяко приложение, и учителят трябва да потвърди, преди да постави който и да е инструмент за ученици пред клас.
-
-## Свързани понятия
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

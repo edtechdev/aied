@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -101,67 +103,3 @@ ai_assist:
 - **«Інституційне впровадження ШІ дозріло».** **Символічний шар насичений, тоді як структурний тонкий**: **100 % мають робочу групу зі ШІ та магістерський ступінь зі ШІ, але лише 12 % мають виконавче лідерство в галузі ШІ**, і лише 5 % вимагають подальшого інституційного кроку. Заяви випередили структури на порядок.
 - **«Престиж передбачає інституційну зрілість у ШІ».** Інституціоналізація виявилася **незалежною від престижу (рангова кореляція r ≈ 0,04)**, із значущою **регіональною варіацією (ANOVA F = 5,86, p < .001)**. Репутація не є замінником готовності, і географія передбачає більше, ніж статус.
 - **«Розподіл епістемічної роботи ШІ є однаковим у всіх установах».** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] класифікували **102 емпіричні дослідження вищої освіти** за тим, як розподілялася епістемічна робота, і варіація є саме знахідкою, а не деталлю.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Рівень, на якому було згенеровано більшість перевірених свідчень про послідовності
-- [[online-teaching-and-learning]] — Онлайн-викладання та навчання
-- [[generative-ai]] — Технології та моделі генеративного ШІ
-- [[llm]] — Великі мовні моделі
-- [[student-experience]] — Студентський досвід із ШІ у вищій освіті
-- [[educational-development]] — Розвиток факультету та готовність до ШІ
-- [[academic-integrity]] — Академічна доброчесність в корпусі студентів, здатному користуватися ШІ
-- [[ai-literacy]] — ШІ-грамотність для студентів і факультету
-- [[assessment-validity]] — Дійсність оцінювання в епоху GenAI
-- [[educational-policy-ai]] — Освітня політика щодо ШІ
-- [[regulation]] — Регулювання ШІ в освіті
-- [[remote-proctoring]] — Дистанційний прокторинг та автоматизована доброчесність іспитів
-- [[self-directed-learning]] — Самостійне навчання зі ШІ
-- [[problem-based-learning]] — Навчання на основі проблем зі ШІ
-- [[teacher-role]] — Роль викладача, що еволюціонує, в аудиторіях зі ШІ
-- [[stakeholders]] — Зонтичне поняття: люди та аудиторії в освіті зі ШІ (здобувачі, викладачі, проєктувальники, адміністратори, політики)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — консультування, звернення, направлення та розподіл підтримки — інституційний бік успішності студентів
-
-## Пов’язані статті
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): індекс інституціоналізації ШІ на 100 найвище ранжованих університетів; дискурс випереджає структуру, впровадження незалежне від престижу
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
-- [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
-- [[institutional-change-framework-ai]] — Institutional Change in the Age of AI
-- [[genai-availability-grades-satisfaction]] — GenAI Availability and Student Satisfaction
-- [[ai-assessment-scale-reform]] — AI Assessment Scale and Reform
-- [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
-- [[enright-staff-perspectives-genai-2026]] — Уявлення персоналу щодо GenAI у вищій освіті
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Організаційні драйвери впровадження ШІ у вищій освіті
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — ШІ у зворотному зв’язку студентам: етика
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[genai-student-experiences-uk-he-survey-2026]] — Досвід із GenAI серед студентів вищої освіти Великої Британії (огляд)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Викладачі проти роботодавців щодо умінь зі ШІ для випускників коледжів
-- [[generative-ai-reduced-study-time-math]] — Зменшення часу на навчання на 26,9 % серед студентів коледжів
-- [[ai-uk-higher-education-policy-2026]] — Політика Великої Британії щодо ШІ у вищій освіті
-- [[ai-tools-academic-work-cheating-2026]] — Інструменти ШІ, академічна робота та списування
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — феноменографічне дослідження уявлень університетських викладачів про ШІ
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review mapping AI integration in higher ed via FACETS + SAMR frameworks (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Використання GenAI аспірантами-дослідниками в дослідницькому робочому процесі та орієнтовані на ШІ-грамотність вказівки (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — Engagement intensity as a learner-modeling signal for adaptive AI ethics instruction (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — Написання за допомогою ШІ зсуває дослідницькі команди до менших, перекошених на молодших, високоцитованих співпраць (Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Форми Assistant та Enabler домінують в дослідженнях GenAI у вищій освіті; маргінальні типи сплутування залишаються рідкісними з інституційних, а не технічних причин (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Карта розгортання ШІ на боці студентів в прийомі, фінансовій допомозі, студентських сервісах та постачанні освіти, з екраном закупівель із чотирьох питань (Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — Спотворені зображення завдань підвищили частку невдач LLM із 7,4 % до 55,6 %: проєктування змісту як маршрут до доброчесності
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Окуляри та підсилювачі слуху зі ШІ обходять заборону пристроїв в аудиторії: подвійна прозорість без сигналів погляду чи постави
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Таксономія функціональних доменів застосувань ШІ у вищій освіті, 58,4 % яких виходять за категорії 2019 року
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Пишіть методично специфічні вказівки, а не єдину загальнокампусну політику ШІ
-- [[ai-literacy-determinants-university-students-2026]] — Сприйняті ресурси та підтримка викладача пояснювали 29 % дисперсії ШІ-грамотності; демографія — ні
-- [[faculty-ai-well-being-social-supports-2026]] — Фінансуйте ШІ-грамотність, а не лише впевненість у роботі з інструментом, для факультету

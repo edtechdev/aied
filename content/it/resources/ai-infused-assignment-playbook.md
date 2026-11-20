@@ -32,6 +32,7 @@ ai_assist:
 translation_of: "resources/ai-infused-assignment-playbook"
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -50,16 +51,3 @@ Docenti di tutte le discipline, in particolare nell'istruzione superiore e nei p
 ## Note e avvertenze
 
 Questa è una guida pratica, non uno studio empirico; le sue affermazioni sull'uso dell'IA da parte degli studenti poggiano su fonti esterne citate (BestColleges, Campbell, Digital Education Council, Flaherty) piuttosto che su nuovi dati. Il framework della "costruzione di reti" e l'inquadratura dell'"illusione della comprensione" sono tratti dalla letteratura più ampia (Wigmore et al.; Williamson et al.) e sono presentati come giustificazione pedagogica, non come esiti testati della playbook stessa. I compiti sono modelli d'autore — nessuno è riportato con dimensioni dell'effetto, quindi vanno trattati come progetti da adattare e valutare localmente. Pubblicato il 2026-10-07, v1, su Zenodo sotto CC BY 4.0; gratuito da scaricare senza account. Al momento dell'ingestione la scheda mostra solo ~35 visualizzazioni e ~14 download, quindi ha visto un uso esterno o una revisione tra pari ancora molto limitati.
-
-## Concetti collegati
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

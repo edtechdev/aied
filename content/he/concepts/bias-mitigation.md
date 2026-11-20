@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,7 +43,6 @@ ai_assist:
 ## מבוא
 
 צמצום הטיה חשוב מכיוון ש[[ai-education|AI בחינוך]] אינה ניטרלית: מערכות שאומנו על נתוני שפה ותרבות דומיננטיים יכולות לחייב לומדים ממולאים באופן שיטתי, מניקוד מבוסס-AI שמעניש כותבים לא-ילידים ועד חונכי [[llm|LLM]] שעונים אחרת לקבוצות שונות. הטיה היא דאגה חוצת-תחום שמופיעה ב[[automated-assessment|ציונים אוטומטיים]], ב[[automated-essay-scoring|ניקוד חיבורים אוטומטי]], ב[[knowledge-tracing|מעקב אחר ידע]], במערכות המלצה, ובחונכי [[conversational-ai|AI שיחתיים]].
-
 
 [[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] מראים שצמצום הטיה יכול להילמד ולא רק להיבנות הנדסית: צעירים שהתבקשו לחקור את פלטיו של מודל טקסט-לתמונה הפיקו הערכות שיטתיות של ייצוג, ובקשותיהם לתמונות של אנשים נטו לבן לפני ההתערבות.
 
@@ -112,48 +113,3 @@ ai_assist:
 - **"הטיה היא בעיית ניקוד ומשוב."** הטיה נכנסת ל**סוגי משימות שמחוץ לניקוד**: שלושה מודלי LLM שהקצו **כיתות הנדסת תוכנה של 28 סטודנטים לארבעה צוותים ניתבו גברים לפחות 80% פחות** מהתפלגות הייחוס. יצירת צוותים נשאה הטיה בעוצמה דומה לזו של מתן ציונים.
 - **"אספקת הכישור הרלוונטי מסירה את ההטיה."** אספקת כישורים **הפחיתה אך לא הסירה אותה**: **99.2% מההקצאות מבוססות-הכישור תאמו אחד משני צוותי אמת-קרקע, ובכל זאת מגדר הכריע בין אפשרויות שוות-תוקף (OR 2.53)**. התאמת משימה כמעט מושלמת התקיימה לצד אפקט מגדרי, ולכן דיוק בקריטריון הראשי אינו ראיה להוגנות.
 - **"גישת צמצום אחת מספיקה."** המחקר ממחיש **אסטרטגיות משלימות** — ביניהן מודלים מודעי-הוגנות — משום שההטיה שנכנסת ביצירת הצוות אינה מטופלת בתיקון שמכוון לטקסט הפלט.
-
-## מושגים מחוברים
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — כשל צד-הקורא שהעמוד הזה אינו מכסה: קבלת המלצה בלי לבדוק אותה
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## מאמרים מחוברים
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
-- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
-- [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[temporal-smoothness-debiased-kt]] — Debiased knowledge tracing
-- [[ground-truth-reliability-aied]] — Modernizing ground truth for AI reliability
-- [[data-annotations-pedagogical-hints]] — Data annotations as pedagogical hints
-- [[xai-education-framework]] — Explainable AI in education
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
-- [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - תחת חוסר-איזון מעמדי שלוש משפחות מודלים לא הצליחו לזהות מבצעים נמוכים בעוד מדדים מאוזנים נראו בריאים

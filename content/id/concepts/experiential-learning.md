@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,34 +83,3 @@ Di antara 26 studi yang melibatkan komunitas, AI terkonsentrasi pada persiapan (
 **Bagi perancang program**
 
 - Periksa bahwa program terapan memuat kerja terapan alih-alih proksi laboratorium; klaim transfer bersandar pada autentisitas perjumpaannya.
-
-## Konsep terkait
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[virtual-and-augmented-reality]] — praktik imersif sebagai pengalaman yang disengaja
-- [[reflection]]
-
-## Artikel terkait
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Kerangka Workforce Readiness Level untuk manufaktur pintar di era AI
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Menumbuhkan Pembelajaran Berkelanjutan melalui Kecerdasan Terwujud (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI dalam Pendidikan Keamanan Siber
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotika dan AI dalam Pendidikan
-- [[ai-lms-middle-school-longitudinal]] — Studi Longitudinal LMS Terintegrasi AI
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — Persona AI menggantikan kerja lapangan komunitas, dengan rubrik lima indikator tentang di mana substitusi itu gagal (Elhajj dkk. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Tinjauan tematik yang membedakan Embodied Hands-on dari Cognitive Hands-on dalam pendidikan desain berbantuan AI (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — mata kuliah manajemen strategis yang dikonfigurasi ulang di sekitar tiga mekanisme AI generatif
-- [[gelli-experiential-language-learning-2026]] — GELLI: Generator untuk Interaksi Pembelajaran Bahasa Eksperiensial (Symonette dkk. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorium virtual berbantuan AI untuk pembelajaran fisika terbalik: efek pada prestasi, motivasi, dan beban kognitif siswa sekolah menengah
-- [[metacognitive-awareness-experiential-vs-instructional]] — Sesi eksperiensial versus instruksional untuk kesadaran metakognitif dalam pembelajaran berbantuan AI (Benazet i Montobbio dkk. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 studi dipetakan ke siklus pembelajaran berbasis layanan: AI menipis pada evaluasi dan refleksi (Yusuf dkk. 2026)

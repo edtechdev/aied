@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,8 +46,3 @@ Un docente può visualizzare il report di un singolo studente o caricarne centin
 ## Note e avvertenze
 
 La gratuità copre i flussi di lavoro della singola classe; i prezzi istituzionali esistono separatamente e sono legati all'ambito di distribuzione, alla gestione dei dati, al supporto e alla conformità piuttosto che a un addebito per studente o per docente. Poiché un report mostra un processo anziché un'intenzione, la sola operazione di copia-incolla non costituisce scorrettezza — le linee guida del progetto stesso affermano che uno studente potrebbe incollare un proprio testo precedente e che gli studenti non dovrebbero essere penalizzati solo per aver incollato. I dati di adozione e il punteggio di 5,0 sul Chrome Web Store sono marketing del progetto; le recensioni in uno store di estensioni non sono prove indipendenti dei risultati di apprendimento. Leggi i report come elementi a supporto di una conversazione, che è il modo in cui lo strumento è progettato e in cui lo sviluppatore lo descrive.
-
-## Concetti collegati
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

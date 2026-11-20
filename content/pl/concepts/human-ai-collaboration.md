@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -98,69 +100,3 @@ Współpraca człowiek–SI łączy się z [[human-in-the-loop-ai|ludzkim nadzor
 - **„Współpraca oznacza, że SI wykonuje część pracy."** **Uczący się zachowuje rolę decydującą**, a to skaluje się na pisanie: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash i Connell Pensky (2025)]] pokazują, że utrzymuje się, gdy układ jest do tego zaprojektowany. Podział pracy nie jest współpracą, dopóki człowiek zachowuje osąd.
 - **„W odwróconym układzie to SI wyjaśnia."** **Studenci, którzy uczyli SI, wyjaśniali lepiej** — definiowanie klasy odwróconej przy **M = 4.18 wobec 3.29**, działania dydaktyczne przy **M = 4.91 wobec 3.06, oba p < 0.001**. Uczenie się przypadło wyjaśniającemu.
 - **„Wkłady człowieka i SI są substytutami."** Dwa badania z 2026 r. mapują **komplementarne połowy** współpracy klasowej, co ramuje problem projektowy jako alokację, a nie zastąpienie.
-
-## Połączone koncepcje
-- [[pedagogical-partnerships]] — Partnerstwa pedagogiczne
-- [[community-of-inquiry]] — Wspólnota dociekania (obecności jako socjotechniczne osiągnięcia człowiek–GenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Edukacja chemiczna i SI: laboratoria, ocena formująca, ograniczenia LLM-ów, filozofia eksperymentu
-- [[biology-education]] — Edukacja biologiczna i SI: asystenci laboratoryjni, kompetencje w zakresie SI w biologii, myślenie krytyczne, narzędzia specjalistyczne
-- [[human-in-the-loop-ai]] — nadzór
-- [[agentic-ai]] — autonomia
-- [[productive-failure]]
-
-## Połączone artykuły
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Trzy role agentów w narracyjnej grze naukowej i to, jakiego kryterium oceny wymaga każda z nich (Humburg i wsp. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Praca w parach z systemem wieloagentowym GenAI wygrała projekt projektowy, podczas gdy świadomość myślenia krytycznego wzrosła tylko u pracujących samodzielnie (Chu i wsp. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Debata wieloagentowa z zatrzymaną preferowaną odpowiedzią ograniczyła uleganie błędnym radom SI, ale nie korekcyjnie
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: kompetencja współpracy jako dynamiczna konfiguracja kompetencji domenowej, SI i metapoznawczej, ze sprawczością uczącego się jako emergentną (Dang i wsp. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Nauczyciele szkół średnich projektują klasowe chatboty jako ograniczonych ekspertów pod ludzkim nadzorem
-- [[ai-integration-instructional-design-collaboratory-2026]] — Dwanaście wdrożeń kursów edukacji nauczycieli traktuje integrację SI jako problem projektowania nauczania
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: pierwsze randomizowane badanie skalowania ekspertyzy przez współpracę człowiek–SI do nowicjuszy-korepetytorów
-- [[think-first-chatgpt-later-2026]] — Najpierw pomyśl, potem ChatGPT: niezależna ludzka kreatywność
-- [[principal-trait-analysis-human-ai-skills-2026]] — Oparte na danych „cechy" współpracy człowiek–SI
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Wzorce interakcji nauczyciel–SI w projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
-- [[tang-chatbots-learning-design-2026]] — Projektanci używają wbudowanego chatbota do kontroli zgodności celów i pedagogiki, a nie do generowania treści
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Od substytucji do rusztowania: przerwanie samowzmacniającego się cyklu szkód
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generatywna SI jako agent medacyjny
-- [[conversational-ai-agents-umbrella-review-2026]] — Przegląd parasolowy agentów SI konwersacyjnej w edukacji
-- [[ai-overreliance-complex-adaptive-system-2026]] — Nadmierne poleganie na SI modelowane jako złożony system adaptacyjny
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Adaptacyjny rolowo towarzysz SI do rozmów o książkach w szkole podstawowej; afektywny sufit agentów o stałej roli (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Współprojektowanie zadań uczenia się przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura ról w projektowanych przez SI zróżnicowanych działaniach grupowych (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI jako agent i przestrzeń współpracy w dynamice małych grup (Xu i wsp. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Ocena zorientowanego na rusztowanie wieloagentowego systemu dużych modeli językowych do treningu wywiadu klinicznego
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenci treningu etycznego: wspieranie grupowej edukacji etycznej przez odgrywanie ról i dyskusję na rzecz refleksji i eksploracji etycznej
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automatyzacja, augmentacja i współpraca jako kontinuum przydziału zadań
-- [[bounded-reliance-ai-writing-feedback-2026]] — Ograniczone poleganie: perspektywa wiarygodności źródła na zaangażowanie studentów EFL z informacją zwrotną generowaną przez SI
-- [[human-ai-collaboration-academic-writing-2026]] — Pięcioczęściowy ustrukturyzowany przepływ pisania EFL; rutyny weryfikacji i odpowiedzialnego użycia napędzały zyski w pisaniu w parach i cyfrowym myśleniu krytycznym
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Odwrócenie ról: studenci uczą nowicjusza GAI, osiągając lepsze wyniki niż rówieśnicy pytający nauczyciela GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — Typ wsparcia kształtował strategie rewizji i wyniki, ale żadna strategia nie przewidywała zysku; zyski GenAI mogą być specyficzne dla zadania
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Ludzcy i SI-owi moderatorzy debat ocenieni równoważnie; użyteczność i satysfakcja odmiennie napędzają ponowne użycie
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Lesson study buduje zdolność edukatorów nauczycieli do projektowania dialogicznego zaangażowania z SI; inżynieria promptów jako myślenie pedagogiczne
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Pięć typów splątania student–GenAI i dlaczego te, które rozdzielają autorstwo, pozostają marginalne (Sun, Dohn i Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Przeciwstawne ścieżki współpracy nauczyciel–SI do zaangażowania w pracę przez dostępność psychologiczną i wyobcowanie w pracy, ograniczone kompetencjami cyfrowymi
-- [[wang-agentic-translation-education-2026]] — Protokół projektowy przekierowujący edukację tłumaczy ku orkiestracji SI, osądowi strategicznemu i kompetencjom krytycznej ewaluacji (brak danych empirycznych)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Alert afektywny jest wskazówką, którą nauczyciel interpretuje, a nie instrukcją do posłuchania
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Deficyt legitymizacji autorstwa we współtworzeniu człowiek–SI

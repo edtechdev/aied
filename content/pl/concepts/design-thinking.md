@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -66,39 +68,3 @@ Myślenie projektowe w edukacji z SI jest głęboko splecione z [[human-ai-colla
 **„Myślenie projektowe to proces, który można zautomatyzować etap po etapie."** To dyscyplina ramowania i przeramowania problemów, którą fiksacja zamyka. Automatyzacja etapów przy niezbadanej ramie daje kompetentny wynik dla niewłaściwego problemu.
 
 **„Agenci SI, którzy zgadzają się z [[student-support-and-success|wsparciem studenta]] w jego rozumowaniu projektowym."** Produktywne użycie udokumentowane na tej stronie biegnie w przeciwną stronę: [[ai-agents-constructive-conflict-design-education-2026|konstruktywne konflikty z agentami SI]] testują kontradyktoryjne promptowanie, które wymusza ponowne przemyślenie. Agent ugodowy wzmacnia fiksację; agent nastawiony na sprzeciw to projekt, za którym stoi uzasadnienie edukacyjne.
-
-## Połączone koncepcje
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Połączone artykuły
-- [[design-thinking-aigc-fashion-film-2026]] — Nastawienie do myślenia projektowego na różnych etapach uczenia się w projektowaniu filmu mody wspieranym przez AIGC (Liu i wsp. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: wykorzystanie generatywnej SI we wspieraniu studentów architektury w zadaniach projektowych
-- [[genai-architectural-design-studios]] — Rozwój i zastosowania generatywnej SI w pracowniach projektowania architektonicznego
-- [[social-robot-study-companions]] — Współtworzenie możliwych do zbudowania i otwartych robotów społecznych jako towarzyszy nauki ze studentami uniwersytetu
-- [[gaide-vibe-coding-k12-teachers]] — Rama przewodnia dla nauczycieli K-12 w tworzeniu technologii uczenia się opartych na SI przez vibe coding
-- [[dot-framework-survey-2026]] — Badanie ramy DOT: przekonania i zachowania praktyków w edukacji wzmocnionej SI
-- [[ai-agents-constructive-conflict-design-education-2026]] — Odgrywanie konstruktywnych konfliktów z agentami SI, by wspierać ponowne przemyślenie u początkujących projektantów interakcji
-- [[genai-usage-design-students-survey]] — Badanie korzystania z GenAI przez studentów wzornictwa: analiza wyników ankiety i dzienników praktyk SI na Politecnico di Milano w latach 2025/2026

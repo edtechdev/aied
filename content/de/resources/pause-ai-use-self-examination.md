@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -44,8 +45,3 @@ Studierende, Lehrkräfte und Forschende, die eine private Aufforderung wollen, i
 ## Anmerkungen
 
 Geschrieben von Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); die Begründung des Designs und die Grenzen der Validierung sind in einem begleitenden Preprint dokumentiert, und der Quellcode ist öffentlich.
-
-## Verbundene Konzepte
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -115,43 +117,3 @@ ai_assist:
 **教員開発担当者のために**
 
 **「看護におけるAIコンピテンシーとはツールを使いこなすことなのだから、研修はツールから始めるべきだ。」** フレームワークの文献は逆の方向を指し示している。レビュアーたちが一貫して扱われていると確認した次元は、倫理の知識、責任、応用および評価の技能であり、技術的・操作的な利用こそ、この分野が最も語るべきことを持たない領域である。まずツールのライセンスを購入するプログラムは、この地図のなかで最もエビデンスの薄い部分を築いていることになる。しかも、カリキュラムの代わりに採用しかねない名前のあるフレームワーク、すなわちN.U.R.S.E.S.、AI-ABCs、CAREは、まさに評価方法を持たないものなのである。
-
-## 関連概念
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## 関連記事
-
-- [[hardie-genai-nursing-scoping-review-2026]] — 看護教育における応用、態度、倫理: 103 研究のスコーピングレビュー（Hardie et al. 2026）
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — 看護教育における生成 AI 支援のシミュレーションと技能訓練に関する学習者の経験: メタ統合
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — 看護教育におけるAIの体系的なレビュー（2010–2025）
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護教育におけるAI駆動シミュレーション：混合手法による体系的なレビュー
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、構造的なギャップ、そして職業的アイデンティティの再構成
-- [[akbaba-nursing-ai-experiences-tam-2026]] — TAMを通じた看護の学生と教員のAI経験
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 医療系学生の間のAI知覚とキャリア不安
-- [[genai-counter-learner-groupthink-2025]] — 専門職間のPBLにおける集団思考に対抗する生成的AI
-- [[dabkowski-nursing-academics-genai-2026]] — GenAIに関する看護学者：政策の曖昧さ、職業的価値、そして監督下の評価への漂流
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 看護評価における遠隔監視：監視、公平性、そして知覚の上に築かれた抑止力の事例
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — AI コンピテンシー枠組みを看護カリキュラムの 12 の KAS 下位次元に写像したスコーピングレビュー
-- [[rony-nursing-educators-ai-tpack-2025]] — バングラデシュの看護教員による AI の準備性、障壁、データ・ガバナンスについて、TPACK を通して読む
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18 のレビューのアンブレラレビュー: 倫理、カリキュラムの変容、統合の障壁
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — 看護学生が語る AI 利用の公然の秘密: パーソナライズされた学習、時間、デジタルデバイド
-- [[agency-gap-ai-writing]] — 医学・看護の学生による RCT: 反応的・先行的なエージェント設計と主導性のギャップ
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 看護学生 1,020 人: GenAI との相互作用、教育的な相互作用、ちょうど識別された媒介モデル
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Rony らへの公表された返信: 制度のエコシステム、準備性、AI の監督
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — 教員と学生が看護教育の分析ダッシュボードを共同設計する
-- [[federated-learning-at-risk-student-prediction-2026]] — 保健専門職プログラム横断のプライバシー保護付きリスク予測と、持ち込んだ閾値が看護で誤作動する理由
-

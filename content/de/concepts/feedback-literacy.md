@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -96,53 +98,3 @@ Danach zu handeln ist nicht dasselbe wie das Artefakt zu verbessern. Unter 22 Ma
 - **„KI-Feedback verbessert kritisches Denken direkt."** Bei **421 chinesischen Undergraduates** lief die Assoziation der GenAI-Nutzung mit [[self-report-measures|selbst berichtetem]] kritischem Denken **durch die Feedback-Kompetenz**. Die Kompetenz ist der Mediator, sodass eine Intervention, die KI-Feedback hinzufügt, ohne die Fähigkeit aufzubauen, es zu lesen, den falschen Term adressiert.
 - **„Kompetenz ist eine Vorbedingung, kein Ergebnis."** Ein **Drei-Wellen-Random-Intercept-Panel von 399 chinesischen Undergraduates** fand, dass KI-Feedback-Kompetenz **späteres** agentisches Engagement vorhersagte (**β = 0,222**), sodass die Schleife in beide Richtungen läuft. Sie ist dynamisch statt ein Tor, das einmal passiert wird.
 - **„Umsetzbarkeit ist es, was Feedback das Schreiben verändern lässt."** Über drei Feedback-Überarbeitungs-Zyklen in **zwei intakten Klassen mit je 48 Studierenden** war **Verständnis die Dimension**, die den Überarbeitungsertrag trug. Feedback, das eine studierende Person nicht entschlüsseln kann, wird nicht dadurch besser, dass man es umsetzbarer macht.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Die Schritte kritischen Würdigens, die diese Sequenzen in den Arbeitsablauf einbauen
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## Verbundene Artikel
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — KI-Feedback-Kompetenz und agentisches Engagement: ein Drei-Wellen-Random-Intercept-Panel (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Erzeugung rubrikbenoteter Arbeitsproben zur Vermittlung von Feedback-Kompetenz (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Selektive Übernahme ohne Artefaktverbesserung: die Feedback-Übersetzungslücke (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — KI-Feedback ohne Rahmung durch die Lehrkraft erhöht die Anforderungen an Feedback-Kompetenz (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback-Kompetenz moderiert KI-Feedback → selbstreguliertes Lernen (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback-Kompetenz sagt die Aufsatznote in KI-erweitertem Schreiben vorher (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — KI-Feedback-Kompetenz-Skala und Prädiktion der Übernahme (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI als Ermöglicherin von studentischem Feedback-Engagement (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback-Kompetenz-Skripte und Kalibrierungstraining für KI-gestütztes Schreiben (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Feedback-Kompetenz-Skripte + Zweit-Rater im Überarbeiten von EAP-Schreiben (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — KI-Werkzeug für automatisiertes Feedback zur Entwicklung von Feedback-Kompetenz (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI im EFL-Peer-Feedback zur Trainierung von Feedback-Kompetenz (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding selbstregulierten Feedbacks: GenAI vs. menschliche Peers (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI-Learning-Analytics im Feedback aus Feedback-Kompetenz-Perspektive (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI-Assessment baut psychologische, Feedback- und KI-Kompetenzen auf (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Praktiken und Wahrnehmungen von Lehrenden zu KI-Feedback, das auf die Lernenden zentriert ist
-- [[care-full-feedback-genai]] — Sorgenvolles Feedbackdesign mit GenAI
-- [[ai-generated-feedback-higher-ed]] — KI-generiertes Feedback in der Hochschulbildung
-- [[ai-feedback-ecosystem-higher-education-2026]] — KI verändert die Beziehungen zwischen Studierenden, Lehrenden, Peers und Materialien im Feedback-Ökosystem (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — KI-Feedback und kritisches Denken im Schreiben
-- [[repeated-ai-writing-feedback-semester]] — Wiederholtes KI-Schreibfeedback über ein Semester hinweg
-- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Studierendenperspektiven auf transparente KI-gestützte Schreibbewertung in der Hochschulbildung
-
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI-Nutzung zu kritischem Denken lief über GenAI-Feedback-Kompetenz und verstärkte sich mit reflexivem Denken
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Verständnis trug den Überarbeitungsertrag, nicht Umsetzbarkeit
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Peer- und Chatbot-Feedback zum selben Entwurf in einer Reflexionsaufgabe beurteilen
-

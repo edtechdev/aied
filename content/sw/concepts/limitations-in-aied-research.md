@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -124,48 +126,3 @@ Mbinu mbili mahususi za kuripoti zinapandisha au kupotosha muunganisho, na zote 
 - **"Sehemu za vizingiti ni maneno ya kawaida."** Vizingiti vya mbinu **vinapimwa badala ya kuwa hisia**: katika mapitio mahususi ya **masudio 80 ya HCI** kuhusu ufikiri mahususi na AI, **42 (52%) hayakuruhusu kikundi cha kudhibiti**. Hesabu sahihi ndiyo inayofanya kizingiti kiwe cha kutekelezwa.
 - **"Kutokubaliana ni namba moja unayoweza kunukuu."** Mapitio yale yale yanaonyesha hatari ya kuripoti: kutokubaliana kunanukuliwa kama **I² = 82.98% chini ya mfano wa athari thabiti na I² = 15.75% chini ya mfano wa athari za nasibu**. Data zile zile hutoa simulizi la pointi tisa au la pointi mbili kutegemea mfano uliochaguliwa, hivyo I² iliyonukuliwa bila mfano wake haiwezi kutafsirika.
 - **"Athari kubwa iliyoripotiwa ni namba ya kuamini."** Kichwa kama athari kutoka **wanafunzi 30 katika kozi moja katika eneo moja** ni muundo wa kawaida wa dai dhaifu, na hesabu ya masudio yasiyokuwa na vidhibiti inaonyesha jinsi udhaifu huo mara nyingi hauripotiwi.
-
-## Dhana Zilizounganishwa
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Ukuzi wa Nadharia katika AI katika Elimu
-
-## Makala Zilizounganishwa
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot za AI katika elimu ya juu: kulinganisha matarajio na ushahidi (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Uaminifu na uhalali wa ukweli wa msingi katika tathmini
-- [[ai-literacy-assessment-misalignment]] — Ujuzi wa AI unaojitangaza dhidi ya unaotegemea utendaji
-- [[machines-misread-pedagogical-quality]] — Kwa nini mashine husoma vibaya ubora wa kielimu
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Vizingiti mahususi vya wakufunzi wa AI na matumizi ya nadharia
-- [[cross-dataset-bloom-question-classification]] — Taksonomia ya Bloom na uainishaji wa maswali
-- [[eeg-familiarity-automated-assessment-2026]] — Kufanya Tathmini ya Mwanafunzi Kuwa ya Kiotomatiki: Utabiri wa Ujuzi unaotegemea EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT katika Elimu: Athari Inayotafuta Sababu (ukosoaji wa kulinganisha-media)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: athari za AI zilizorekebishwa kwa upendeleo wa uchapishaji ~1/3 ya ukubwa ulioripotiwa
-- [[oneill-presumed-effective-meta-analysis-2026]] — Kuchukuliwa Kuwa na Ufanisi: ukaguzi wa kisheria wa meta-analysis 14 za AIEd
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: Mfumo wa Kuripoti wa Kiushahidi kwa Mapitio ya Kimfumo Yanayosaidiwa na AI
-- [[frontier-models-physics-benchmark-audit-2026]] — Mifano ya Frontier ni Wazuri Kiasi Gani katika Fizikia? Upimaji Upya na Wataalam Unafichua Tathmini Zilizovunjika na Ukamilifu wa Karibu wa Vipimo Vikuu
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Vigezo vya kujumuisha vilivyotumika kama kizingiti cha ugumu, na takwimu ya kutokubaliana inayobadilika na mfano (Doğan na wenzake 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Jaribio la darasa la cluster-randomized ambalo matokeo ya utendaji hayakufikia umuhimu (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI na ufundishaji wa binadamu hutoa mafanikio sawa ya kujifunza ya GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Kutathmini Lengo la Maoni na Uwezo wa Kubadilika wa Kielimu katika Maoni ya LLM juu ya Uandishi wa Mwanafunzi
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Mipangilio Inayotegemea Madai kwa Ukodaji Unaoweza Kukaguliwa wa Mazungumzo ya Kielimu
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni Yanayoweza Kutumika na Yenye Uwajibikisho: Mapitio ya Upeo na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Kufundisha, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Vipimo vya Uaminifu Vinakosa Nini: Ukaguzi wa Muundo juu ya Data ya Elimu ya Bandia
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Mapitio ya upeo wa masudio 195 ya elimu ya walimu ambapo ubuni wa tungo za utafutaji unaunda mzunguko ulioripotiwa
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Dodoso ya walimu wa K-12 ya kanda nyingi: vitu vilivyotafsiriwa na mashine, vipimo vya wasiwasi vya kitu kimoja, hakuna upimaji wa kutokubaliana
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Mapitio ya kimfumo ya masudio 103 ya GenAI ya elimu ya juu: 56% mafanikio ya masharti, alama zikificha mabadiliko ya mchakato (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Uongezaji wa data unaweza kutengeneza kipimo kikuu

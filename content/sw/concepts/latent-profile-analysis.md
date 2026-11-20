@@ -13,6 +13,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -62,7 +64,6 @@ Hakuna takwimu moja inayochagua suluhisho; mkusanyiko unatendea kukaa kama uamuz
 - **Uthabiti chini ya kuchukua sampuli upya.** Uthabiti wa bootstrap ni ukaguzi wa uwazi kama wasifu ungerudiwa katika sampuli mpya: wastani wa faharasa ya Rand iliyorekebishwa ulikuwa 0.385 kwa suluhisho la tabaka sita la Ukraine lakini 0.989 kati ya mipangilio 100 ya nasibu katika utafiti wa uaminifu katika AI — muundo ule ule wa jina, uzito tofauti sana wa ushahidi.
 - **Vigezo vya uwiano wa uwezekano (BLRT)** na jaribio la Lo–Mendell–Rubin ni wenzi wa kawaida wa BIC na entropy katika fasihi pana ya mifano ya mchanganyiko, lakini masudio ya wasifu katika hifadhi hii ya maarifa hayaripoti. Pale ukurasa unaporipoti BIC na entropy tu, itende idadi ya tabaka kama ya muda.
 
-
 - **Ukaguzi wa uwiano wa uwezekani ambao mkusanyiko huu unapuuza vinginevyo.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] walibaki na wasifu wanne (entropy 0.824) kutoka kwa wanafunzi 379 wa biashara na waliripoti uamuzi wa Lo–Mendell–Rubin: wenye umuhimu kwa wanne (p = 0.035) na wasio na umuhimu kwa watano (p = 0.376).
 - **Kukaa kulilotetea na suluhisho la mpinzani na jaribio la uwiano wa uwezekano.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] wanaripoti kuwa suluhisho la wasifu wanne lilifaa wanafunzi 102 vizuri kidogo lakini haliboreshwa kwa kiwango chenye umuhimu na kuliacha tabaka dogo zaidi kwa asilimia 12.7, hivyo wanabaki na wasifu watatu (entropy .89) badala ya mfano unaofaa vizuri zaidi kwa namba. Kuripoti suluhisho lililopotea na kile kilicholizuia ni kile kinachofanya idadi ya tabaka iliyokaa kuwa uamuzi ambao wasomaji wanaweza kukagua, na kipimo cha matumizi ya AI cha vipimo 12 kilichoundwa kwa madhumuni — kilichothibitishwa kwenye sampuli tofauti ya 85 ambao waandishi wanaita ya awali — kinaweka mpaka mwingine wa ushahidi wake.
 
@@ -91,27 +92,3 @@ Onyo nne, kila moja lilitolewa katika kurasa za chanzo:
 - **"Uchanganuzi wa wasifu fiche hugundua makundi yaliyopo."** LPA hubadilisha utofauti wa wanafunzi kutoka dai la balagha hadi ugunduzi unaopimika, na wasifu ni **mfano wa mwendelezo uliogawanywa kwenye mipaka iliyochaguliwa**, si aina za asili. Idadi ya wasifu ni uamuzi wa uchanganuzi.
 - **"Mwanachama yeyote wa familia ya viambishi fiche ni sawa."** Unachotumia **hufuata viashiria**: **LCA kwa viashiria vya kategoria**, LPA kwa vinavyoendelea. Kuchagua mbinu kwanza na viashiria baadaye hufanya matokeo kuwa zao la chaguo.
 - **"Wasifu hulinganishwa kati ya masomo."** Chen na wenzake waliweka wasifu wa **walimu 128 wa kabla ya utumishi wa Taiwan** kwenye viambajengo vitano vya [[technology-acceptance-model|TAM]]/UTAUT2, wakati Acquah na wenzake waliweka wasifu wa **wanafunzi 509 wa shahada ya kwanza wa Ghana**. Viashiria tofauti katika makundi tofauti havizalishi lebo za wasifu zinazoweza kulinganishwa.
-
-## Dhana Zilizounganishwa
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Makala Zilizounganishwa
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — ushahidi wa kukaa kwa Lo–Mendell–Rubin kwa wasifu wanne wa mtazamo wa AI katika wanafunzi 379 wa biashara
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Uchanganuzi wa mpito wa wasifu ficho wa mawimbi mitatu wa mageuko ya kisaikolojia
-- [[liang-ai-learning-motivation-sdt-2026]] — Uchanganuzi wa mpito ficho wa wasifu watatu wa motisha kwa mwaka mmoja
-- [[trust-in-ai-psychological-profiles-ml-2026]] — wasifu wa k-means; kutokubaliana kwa silhouette vs. Calinski–Harabasz; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Kukusanya kihierarkia na k-means katika watu wanne wa kupitisha GenAI
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — wasifu wanne wa imani za AI za wataalamu kutoka kwa wataalamu 40,680 katika mifumo 49, pamoja na uthabiti wa ulinganifu

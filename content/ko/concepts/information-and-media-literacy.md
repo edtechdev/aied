@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -99,33 +101,3 @@ ai_assist:
 - **두 리터러시는 두 이름 아래의 하나의 기술이다.** 대상이 다릅니다 — 출처 신뢰성 대 저자성과 의도 — 따라서 단일 루브릭으로는 어느 쪽도 잘 평가할 수 없습니다.
 - **AI를 알아보는 것이 그에 대한 면역을 준다.** 여기서 검토된 가장 강한 설득 실험에서, 탐지율은 높았지만 AI의 입장 쪽으로의 이동은 여전히 커졌습니다.
 - **사서의 역량이 AI 리터러시로 전이된다.** 직원 결핍은 도구 조작이 아니라 목표 설계(M = 2.70)와 성과 평가(M = 2.62)에서 나타납니다.
-
-## 연결된 개념
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE의 4개국 고찰: 194개국 중 84개국만이 기술적 기술을 넘는 MIL을 교육과정에 넣았고, 네 체계 모두에서 인간적 요인이 결과를 결정했다(Cerioli, 2026)
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — 개인화된 GPT-4가 인간 토론자를 이겼다. 탐지는 면역을 주지 않았다(Salvi et al. 2025)
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: 계산적 사고와 디지털 리터러시를 강화하는 디지털 설계 사고 및 학습 플랫폼

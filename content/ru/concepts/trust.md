@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 
@@ -124,52 +126,3 @@ ai_assist:
 
 - Сообщайте доверие, восприятие риска и надлежащую опору как различные конструкты, потому что они коварьируют в неочевидных направлениях, в том числе отрицательно.
 - Сообщайте поведенческий исход (долю принятия неверных подсказок) вместе с самоотчётным доверием; одни шкалы доверия переворачивают вывод.
-
-## Связанные концепты
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — социальный риск, на котором держатся нормы и раскрытие
-
-## Связанные статьи
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Неравномерное использование, схожее доверие: генеративный ИИ в Дании и Румынии (Lucau, Voicu и Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Воспринимаемый риск положительно коррелирует с намерением продолжать использование: информированное внедрение (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Разрыв доверия между преподавателями и студентами по контролю и агентности в K-12 AI
-- [[qu-wang-disclose-or-not-genai-2026]] — Раскрытие использования ИИ движется реляционными факторами и комфортом с преподавателями, а не политикой
-- [[genai-teacher-feedback-comparison]] — Обратная связь GenAI и преподавателя служат разным, взаимодополняющим потребностям в доверии
-- [[care-full-feedback-genai]] — Надёжная обратная связь как «заботливая», реляционная практика
-- [[ai-fallibility-warning-help-seeking]] — Предупреждение о погрешимости ИИ повышает поиск помощи в ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Совместное проектирование метрик и визуализаций надёжности для LLM в образовании
-- [[ai-overreliance-complex-adaptive-system-2026]] — Чрезмерная опора на ИИ, моделируемая как сложная адаптивная система
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Разрыв между доверием и полезностью в инструментах ИИ для физики
-- [[t2i-competence-paradox-2026]] — Парадокс компетентности в генерации изображений ИИ
-- [[task-context-trust-educational-hri-2026]] — Контекст задачи формирует доверие к образовательным роботам сильнее, чем внешний вид
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Идентичность аватара и эпистемическое доверие в обучении, опосредствованном ИИ
-- [[contextual-sycophancy-ai-literacy]] — Контекстуальное сикофантство и его пределы для калибровки доверия
-- [[sycophantic-ai-social-interaction-2026]] — Сикофантский ИИ со временем делает человеческое взаимодействие менее удовлетворительным
-- [[ai-pedagogical-accompaniment-amico]] — Подотчётное педагогическое опосредование и доверие к системам с ИИ
-- [[best-response-student-ai-dialog-2026]] — Доверие в диалоге студента и ИИ
-- [[ai-adaptation-gap-higher-education-2026]] — Воспринимаемая полезность как сильнейший предиктор доверия к ИИ в высшем образовании
-- [[bassett-ai-detectors-education-2026]] — Доверие и недоверие к системам обнаружения ИИ
-- [[genai-use-usefulness-student-experience-australia-2026]] — Опыт студентов в отношении полезности GenAI в высшем образовании Австралии (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Представление результатов ML доступными для преподавателей в смешанных аудиториях
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Кто должен оценивать мою работу? Взгляды студентов на прозрачное оценивание письма с помощью ИИ в высшем образовании
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Три профиля студентов, в которых доверие к ИИ отслеживает резильентность и стресс, а не демографические данные (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: перспектива достоверности источника для анализа вовлечения студентов EFL в генерируемую ИИ обратную связь по письму
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Оценки расширения возможностей и угрозы двигали доверие в противоположных направлениях, неся зависимость от GenAI
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Использование GenAI сверстниками снижает межличностное доверие через воспринимаемую теплоту и компетентность, что смягчается ИИ-грамотностью
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Структурная модель даёт этой связующей роли эмпирическую проверку
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Сигналы достоверности повышали переключение на неверную позицию ИИ; отказ от рекомендации это подавлял
-- [[zhu-creative-agency-trust-genai-art-2026]] — Инструментальное доверие как сильнейший предиктор намерения использовать GenAI у студентов-художников

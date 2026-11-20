@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -42,6 +43,3 @@ I corsi entrano attraverso una connessione con l'API di Canvas, un file IMS Comm
 ## Cosa sapere prima di adottarlo
 
 Il plugin richiede Claude Code e una shell bash per l'installazione; PowerShell e cmd non possono eseguire lo script di setup, e Python 3 è raccomandato per le tendenze dei punteggi. I dati del corso restano nella cartella del progetto sul computer di chi legge, e ne escono solo attraverso un'integrazione che l'utente invoca, come una chiamata all'API di Canvas. L'inferenza in tempo reale dell'estensione per Chrome richiede la chiave API gratuita di Google AI Studio di chi legge, anche se una modalità di simulazione la dimostra senza. Il progetto si definisce beta alla versione 3.5.1.0 e avverte di modifiche incompatibili tra versioni minori, ed è pubblicato sull'account GitHub savvides anziché da un autore nominato.
-
-## Concetti collegati
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

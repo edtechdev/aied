@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -87,28 +89,3 @@ Bir araştırma programı, yerleştirilmiş uydurmalar içeren görevlerle yurtt
 **“Daha iyi istemler daha iyi yurttaşlık dersleri üretecek.”** Etkileşimli varyant asgari fark yarattı ve üç sohbet botunun hepsi 53 standart boyunca aynı yapıyı üretti. İstem kalitesi disipliner dokuyu geri getirmedi.
 
 **“Uygulamaya rehberlik edecek kadar kanıt var.”** İhtiyatı haklı çıkaracak kadar var. Bir içerik analizi, bir belgesel sentezi, bir küçük [[mixed-methods-research|karma yöntem çalışması]] ve birkaç kavramsal ya da politika metni neyin işe yaradığını ortaya koymaz.
-
-## Bağlı kavramlar
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — Şemsiye: öğrenenlerin YZ sistemleri hakkında bilmesi gerekenler
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — toplumsal zarar olarak üretilmiş dezenformasyon ve ikna
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Bağlı makaleler
-
-- [[civic-education-ai-lesson-plans]] — 53 yurttaşlık standardı için 310 YZ üretimi ders planı: yüzde 90 alt düzey, yüzde 94 çokkültürlü içeriksiz (Trust vd. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Güney Afrika’da algoritmik sınır yönetişimi ve yurttaşlık dijital okuryazarlığının beş talebi (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Eleştirel medya okuryazarlığı ve katılımcı yurttaşlık üzerine uzman görüşmeleri ve öğrenci anketi (Santos-Albardía vd. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Finlandiyalı öğretmenlerin YZ eğitimi amaçları; yeterlilik, toplumsallaşma ve öznelleşme üzerinden okuma
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Bilim okuryazarlığı vizyonları; kamusal yaşam ve demokratik katılım dahil (Zhai vd. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Deepfake’leri ve otomatik dezenformasyonu demokratik tehdit olarak adlandıran başyazı (Rudolph vd. 2025)
-- [[ai-lifelong-learning-policy]] — Yetişkin eğitimi politikası ve yaşam boyu öğrenmenin yurttaşlık amacı (Theodora ve Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 yönetişim belgesi; demokrasi ve hukuk devleti 92’sinde anılıyor, dördünde hukuki bağlayıcılık var (Elmahjub vd. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Demokratik sav siyaset kuramı terimleriyle: pratiğin aşınması, mekanizmalar ve otoriterleşme bedelleri

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,7 +47,6 @@ ai_assist:
 حرّكت التغذية الراجعة السقراطية والموجّهة أشياءً مختلفة: رفعت التغذية الراجعة السقراطية مراقبة الفهم وتوجّه المهمة، وسجّلت التغذية الراجعة الموجّهة أعلى في ترتيب الأولوية للسمات الجوهرية، ولم تكسب إلا الحالة الموجَّهة من عامل مُخصَّص ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] يلتقطان التساؤل السقراطي يعمل ويفشل في صف رياضيات واحد في الصف التاسع: فحين جاء متعلّم بفرضية، فكّكها المدرّب إلى أسئلة فرعية، لكنه في مهمة فيثاغورس مهيكلة أعاد الصياغة وانحرف عن الموضوع.
-
 
 ## كيف تعمل في التعليم بالذكاء الاصطناعي
 
@@ -132,52 +133,3 @@ ai_assist:
 - **"التساؤل السقراطي مجرد غياب للأجوبة."** أنتج روبوت محادثة سقراطي مخصص منشور في مقرر تمهيدي واسع الالتحاق في الميكانيكا (**150 طالبًا في السنة الأولى في [[stem-education|تخصصات STEM]]**) مكاسب **قابلة للقياس**، والتصميم تساؤل مهيكل — تفاعل مقيَّد، لا نموذج صامت.
 - **"الأثر ناتج لاحقًا عن الانخراط."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna and Maes, 2026)]] **دراسة عشوائية بتخطيط الدماغ الكهربائي على 50 مشاركًا** تقارن روبوت محادثة بنمط ChatGPT غير مقيَّد بآخر **سقراطي**، فتقيس الآلية بدلًا من استنتاجها من النتائج.
 - **"القيود هي المشكلة التي ينبغي إزالتها."** أقوى دعم سببي للقيود يشير إلى الاتجاه المعاكس: في مراجعة لمرحلة K-12، سجّل طلاب الثانوية الذين استخدموا روبوت محادثة عام الغرض **نتائج أدنى بنحو 17% في الامتحانات النهائية المغلقة الكتاب** من أقرانهم الذين استخدموا أداة مقيَّدة. فالأداة غير المقيَّدة كانت الشرط الضار.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — تسلسل التساؤل ودليله التجريبي المتناقض
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — المظلة: التربويات واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
-- [[productive-failure]] — الفشل المُنتج
-
-## المقالات المتصلة
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — أساليب التغذية الراجعة السقراطية مقابل الموجَّهة في دراسة تصميمية للدراسات العليا 2 × 2
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقييم نظام متعدد العوامل من النماذج اللغوية الكبيرة موجَّه بالسقالة لتدريب المقابلات السريرية
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — تلميحات سقراطية مُهيكلة مقابل أسئلة وأجوبة عامة مفتوحة النهاية
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه التربوي للنماذج اللغوية الكبيرة للفشل المُنتج
-- [[wang-safety-gap-productive-struggle-2026]] — فجوة الأمان: استعادة الكفاح المُنتج
-- [[rhaimi-productivemath-2025]] — ProductiveMath: ذكاء اصطناعي لدعم تصميم مسائل الفشل المُنتج
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — سقراط ذهب نوويًا: مقارنة استراتيجيات التفاعل للذكاء الاصطناعي في التعلّم
-- [[lftutor-logical-fallacy-education-2026]] — التساؤل السقراطي مع الجدل النقدي في إطار تعليم المغالطة من أربع خطوات
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? آثار النمط التربوي والوعي بالسياق في مساعدي التعليم الآليين للبرمجة
-- [[genai-socratic-tutor-biology-argumentation-2026]] — تحسين مهارات الحجاج المتوافقة مع PISA لمعلّمي علم الأحياء المحتملين عبر الذكاء الاصطناعي التوليدي
-- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — تصميم وكيل ذكاء اصطناعي لا يعلّم: قواعد تصميم للاستقصاء السقراطي في الفيزياء التمهيدية

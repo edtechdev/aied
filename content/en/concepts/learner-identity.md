@@ -10,6 +10,8 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 reviewed_by: [editor]
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 > **Learner identity** — the evolving sense of who one is (and who one is becoming) as a learner, encompassing disciplinary, professional, creative, and academic identities. In [[ai-education|AI in education]], [[generative-ai|generative AI]] presses on learner identity in two directions at once: it can *support* identity formation ([[scaffolding|scaffolding]] disciplinary belonging and confidence) while also *threatening* it (undermining perceived authorship, competence, and authentic learning). Understanding learner identity is central to designing AI that affirms rather than erodes learners' sense of self.
@@ -33,7 +35,6 @@ Grades are a relation as well as a symbol: students come to see themselves throu
 Identity is a motivational and developmental construct distinct from (but connected to) related abilities and beliefs. Where [[self-efficacy|self-efficacy]] concerns *can I do this?*, identity concerns *who am I — and who am I becoming?* It is built through participation, recognition, and authorship — through seeing oneself reflected in a domain and having that self-view validated. AI reshapes the conditions under which identity forms because it changes *who does the work*, *what counts as one's own contribution*, and *whether a learner feels recognized as the author of their learning*. This makes identity a first-order design concern rather than a peripheral "soft" factor.
 
 - **Authorship and competence under threat.** When AI produces text, images, or code, learners may question whether the result is truly "theirs" — a challenge to the authorship dimension of identity. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** document a *competence paradox* in art and design students using text-to-image GenAI: the tools feel easy and useful, yet their use simultaneously threatens the **creative identity** students derive from manual craft and authorship, producing a genuine tension between ease and self-worth.
-
 
 A distinct authorship condition, not only a threat to authorship: when self-formative dialogue is habitually delegated to a conversational model, the authors argue the integrative work of authoring is *delegated* rather than undeveloped or absent — a self densely voiced yet un-authored, which they say existing constructs have no slot for ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Shame and hidden use.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** show that computing students experience shame and guilt around AI use, which function as social regulators driving *hiding* and selective disclosure — behaviors that can fragment academic identity and undermine honest engagement with learning.
@@ -82,40 +83,3 @@ Learner identity connects to [[agency|agency]] (identity is enacted through agen
 **"AI assistance lowers barriers and therefore widens participation."** It can lower the barrier to producing work while narrowing the barrier to claiming authorship. A student who submits a fluent artifact they did not author has been given access to the outcome and denied the recognition that builds the identity behind it.
 
 **"Recognising a learner's identity is a matter of representation in content."** Representation matters and recognition is enacted in practice: whose questions get taken up, whose contribution is credited, and who is treated as capable. A [[curriculum-design|curriculum]] can be representative and still withhold the recognition that identity formation requires.
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Connected Articles
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 undergraduates on what they keep doing themselves, and why purpose rarely decides it
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
-
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
-- [[kim-solo-game-development-autoethnography-2026]] — Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator
-

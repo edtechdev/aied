@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -48,10 +49,3 @@ Centralne działy IT i biura CIO, które już prowadzą obciążenia w AWS i chc
 ## Uwagi i zastrzeżenia
 
 Bezpłatna licencja, nie bezpłatne działanie: instytucja płaci AWS i dostawcom modeli. Wybór modelu odbywa się przez Amazon Bedrock (Anthropic, Mistral) albo OpenAI i Microsoft Azure, a uruchamianie własnych modeli lokalnych nie jest zaimplementowane. Projekt wprost stwierdza, że nie może wspierać indywidualnych wdrożeń, i kieruje organizacje do partnerów komercyjnych — więc realistyczny koszt obejmuje personel lub wykonawcę. To wdrożenie z trzech repozytoriów (frontend, backend, infrastruktura) z dziesiątkami gwiazdek, a nie tysiącami, a powyższe porównanie kosztów to własne doświadczenie Vanderbilta, a nie kontrolowane badanie. Instytucje, które wolą trzymać inferencję na własnym sprzęcie, powinny spojrzeć na [MindRouter](/aied/resources/mindrouter/) i czytać oba razem: Amplify to warstwa aplikacji nad modelami dostawców, MindRouter to brama nad własnymi GPU.
-
-## Powiązane pojęcia
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

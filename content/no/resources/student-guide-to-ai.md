@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -48,11 +49,3 @@ Studenter på bachelornivå i alle fag, og elever i videregående. Faglig ansatt
 Guiden er [[formative-assessment|formativt]] rammet inn og sier det selv: poengsummer er et øyeblikksbilde av vaner, ikke en karakter, et trekk eller en prediksjon, og studenter bes ikke dele dem offentlig.
 
 Innrammingen rundt AI hviler på siterte undersøkelses- og forsøksdata om at det å sette bort innsats kan gjøre at studenter beholder mindre – som er [[cognitive-offloading|avlastings]]spørsmålet guiden er skrevet for å motvirke, ikke for å avgjøre. Feltguiden som PDF ligger bak et kort skjema som spør om navn, rolle, institusjon og e-post; lærerguidemodulene og artikkelen om det pedagogiske rammeverket lastes ned direkte. Den interaktive versjonen kjører i Gemini Notebook og krever en Google-konto. Utgiverens tall på mer enn 40 000 PDF-nedlastinger på tvers av omkring 4 000 institusjoner i 180 land, og over 130 skreddersydde campusutgaver, er deres egne, det samme er støtteerklæringene fra ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute og RTI International.
-
-## Tilknyttede begreper
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

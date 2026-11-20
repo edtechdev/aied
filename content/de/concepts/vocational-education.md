@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -84,29 +86,3 @@ Was an KI in der VET charakteristisch ist, ist eine Lücke zwischen dem, was der
 **„Lernende werden sich in der praktischen Ausbildung zu stark auf KI verlassen.“** Die Pilotevidenz weist in die andere Richtung. Explorative Pilotstudien (**N = 30**, Italien und China, **20 begrenzte Sitzungen**) fanden, dass die Teilnehmenden das System als begrenztes Unterstützungswerkzeug behandelten, **ohne berichtete Erwartung von Substitution oder Abhängigkeit**. Das ist explorativ und klein, und es legt durchaus nahe, dass die Rahmung eines Werkzeugs als Ausstattung statt als Autorität durch berufliche Lernende eine Ressource ist, um die herum zu designen sich lohnt.
 
 **„Die Zustimmung der Lernenden zu einer simulierten Aufgabe bedeutet, dass sie das Richtige erfasst hat.“** Von **33 befragten Lernenden stimmten 21 (64%)** zu, dass die Sprachaufgabe realistisch war, und derselbe Anteil sagte, sie habe eine klare Möglichkeit geboten, das mitzuteilen, was sie wussten — und niemand widersprach, dass Sprechen in Echtzeit zu dieser [[authentic-assessment|authentischen Leistungsbeurteilung]] passte. Realismus und kommunikative Klarheit zu kennen ist wertvoll, aber sie sind keine Validität: Eine Aufgabe kann sich authentisch anfühlen und dennoch die berufliche Leistung, für die sie stehen soll, nicht erfassen.
-
-## Verbundene Konzepte
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Verbundene Artikel
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Adaptive CTE-Curriculum-Erneuerung, fünf Dimensionen und sechs Führungstests
-
-- [[ai-vocational-education-training-review]] — Erstes systematisches Review zu KI in der VET: Zwecke, Theorie und empirische Wirksamkeit
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersives projektbasiertes Lernen und Designkreativität
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline KI-gestütztes mündliches Assessment in der TVET
-- [[ai-pedagogical-accompaniment-amico]] — Amico-Dual-Mode-Prototyp: Designprinzipien und beobachtbare Indikatoren
-- [[ai-autonomous-learning-accomplishment-2026]] — KI-gestütztes autonomes Lernen und reduzierte Leistungserfüllung, vermittelt durch Härte
-- [[astra-atco-training-simulator]] — Autonome Sim-Piloten für skalierbares ATCO-Training
-- [[crewscaler-ai-upskilling-framework]] — KI-beschleunigtes End-to-End-Rahmenwerk für schnelles berufliches Upskilling
-- [[genai-xr-architectural-design-education-2026]] — Gegenbeispiel: GenAI plus Mehrbenutzer-XR mit sinkender Designselbstwirksamkeit
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Wahrgenommene IKT-Unterstützung als institutioneller Hebel an Berufscolleges

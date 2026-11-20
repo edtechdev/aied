@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -104,48 +106,3 @@ ai_assist:
 - **«Рецензування однолітками — дешевша заміна зворотного зв’язку викладача.»** Механізмом є [[learning-by-teaching|навчання через викладання]], і він проявляється навіть серед машин: дискурс, подібний до рівесницького навчання, серед понад **2,4 мільйона ШІ-агентів** був здебільшого **твердженням, а не дослідженням**. Створювати критику — інший акт, ніж отримувати її.
 
 - **Рефлексивні форми однолітка й самооцінки як запис, що стоїть за груповою оцінкою.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] використали одну рефлексивну форму однолітка на кожного члена команди плюс одну форму саморефлексії на кожного студента в аспірантському модулі з управління бізнес-проєктами, поряд із 30-хвилинною зустріччю з кожною командою, на якій учасників питали, чи був їхній внесок оригінальним. Форми не оцінювалися як обмін зворотним зв'язком. Вони були поособистим доказом, який дозволив викладачеві захистити індивідуальну оцінку всередині групового оцінювання на 40 %. Зростання оцінки в рамці з 27/40 до 31/40 змішується з новим викладачем, а її твердження про доброчесність не кількісно виміряне, тож переносною частиною є структура ведення записів, а не розмір ефекту.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — PAIRR and combined peer-plus-AI feedback: the sequences and their comparative evidence
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Пов’язані статті
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Integrated AI-plus-peer feedback raised all three engagement dimensions and all four IELTS writing dimensions
-
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR in a business writing course: peer review, chatbot feedback, reflection (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. human peers for scaffolding self-regulated feedback and feedback literacy (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI as Trainer and Synthesizer in EFL peer feedback on speaking (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Multisite experiment comparing peer-only, direct, reflective, and hybrid GenAI feedback (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-scaffolded GenAI peer feedback in collaborative argumentation (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-mediated group assessment: cooperation, restraint, non-enactment (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Oral code review interviews as harm reduction for GenAI in CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Automated multimodal presentation coaching as a scalable alternative to peer feedback (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-generated discussion summaries broaden peer exposure in online forums (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and relational trust in students' GenAI disclosure (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — рефлексивні форми самооцінки й однолітка як поособистий доказ за груповою оцінкою (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Рольовий словник 654 студентів: тьютор 28,6 %, співтворець 23,1 %, інструмент 9,9 %, робот 7,7 %

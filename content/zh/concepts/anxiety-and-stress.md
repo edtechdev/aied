@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -130,58 +132,3 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - **"AI 焦虑纯属有害。"** 这种焦虑**并非纯粹负面**：[[ai-anxiety-strategic-regulation-writing-2026|Kim（2026）]]发现 **AI 焦虑可以具有生产性**，焦虑越高伴随的策略调节越多。焦虑是一种促人细察的信号，而不只是负担。
 - **"所有焦虑的学生反应都一样。"** Kim 的**四种调节类型（不加批判的依赖 18.7%、选择性整合 34.6%、评价性转化 31.8%、策略性拒绝 14.9%）**表明，由焦虑驱动的细察会产生**四种截然不同**的形态。针对"焦虑学生"的干预会漏掉一点：人数最多的单一群体其实是选择性整合者。
 - **"焦虑总会压制参与。"** 这一重新框定在**口语**层面有边界：在 **708 名英语学习者**中，口语焦虑与开口意愿的联系在**口语自我效能感低时为 −0.371，在高时为 +0.137**。自我效能感高时焦虑可以与意愿并存，因此效应的方向取决于信心。
-
-## 关联概念
-- [[career-development-and-readiness]] — 职业准备度作为对抗 AI 焦虑的保护性因素
-- [[well-being]] — 本概念深入展开的宽泛总类
-- [[remote-proctoring]] — 监控/错误指控压力的首要来源
-- [[social-emotional-learning]] — 所涉及的情绪能力
-- [[affective-computing]] — AI 读取情绪状态
-- [[affective-tutoring]] — AI 回应情绪
-- [[academic-integrity]] — 诚信/作弊指控维度
-- [[privacy]] — 监考压力背后的监控关切
-- [[student-experience]] — 焦虑作为学习者体验的一部分
-- [[motivation]] — 焦虑对采用与投入的影响
-- [[self-regulated-learning]] — 生产性焦虑的关联
-- [[ai-literacy]] — 建设能降低无据焦虑的能力
-- [[equity-in-ai-education]] — 脆弱学生承受的不成比例压力
-- [[ethics]] — 监控与错误指控的公正性
-- [[teacher-role]] — 教育者侧的焦虑
-- [[assessment]] — AI 中介的评价焦虑
-- [[social-norms-ai-use]] — 可见性的情感代价
-
-## 关联文章
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 一个类似考官的智能体同时抬高了被测量的口语表现与焦虑
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 能力提高伦理意识，伦理意识提高 AI 焦虑：584 名学生中的纯间接中介
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI 焦虑作为一种有生产性的策略调节信号
-- [[aivaluate-anxiety-assessment-2026]] — 学生在 AI 中介的表现性评价中的焦虑
-- [[ai-campus-wellbeing-tools]] — 用于校园幸福感的 AI 驱动工具
-- [[affective-text-wearable-student-health]] — 用于学生健康的情感文本 + 可穿戴感知
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 自动监考、应试者焦虑与错误指控
-- [[automated-online-exam-proctoring-decade-review-2026]] — 自动考试监考的十年回顾
-- [[moral-panic-genai-classroom]] — 教师焦虑与对 GenAI 的道德恐慌
-- [[acceptance-ai-english-tools-2026]] — 焦虑塑造 AI 工具采纳
-- [[teacher-education-ai-literacy-sdt-2026]] — 教师教育、AI 素养与焦虑
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI 使用与焦虑、信任、信心交织
-- [[qu-wang-disclose-or-not-genai-2026]] — 披露困境作为一种学生压力来源
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 焦虑与干预措施的综合分析
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 职业适应能力降低 AI 焦虑
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI 焦虑经由职业适应性损害职业决策
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 焦虑与态度预测求职焦虑
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI 焦虑预测健康科学领域的求职焦虑
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教师对 GAI 的体验与感知：脆弱状态、重思评估与学生学习面临风险（Farazouli et al. 2026）
-- [[culturally-aware-student-stress-chatbot-2026]] — 一个 AI 驱动的文化感知聊天机器人：用 NLP 与机器学习为巴基斯坦大学生的压力检测与幸福支持
-- [[school-support-ai-learning-anxiety-control-value-2026]] — 所感知的学校支持主要经由控制—价值评价降低 AI 学习焦虑（69.5% 为中介效应）；ANN 交叉验证（Jiang, Chen & Chen 2026）
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 内疚情结：教职员工的预期性内疚超过使用后的悔恨（Vassallo 2026）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 针对 1,057 位美国教师的 AAC&U/Elon 调查：对过度依赖、诚信关切与教师角色被削弱的预测（Watson & Rainie 2026）
-- [[chick-faculty-development-ethical-ai-2026]] — 从恐惧到好奇：一个六周教师研修项目把教师带过身份威胁（Chick, Morello & Staffey 2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 教学开发者在 AI 中介工作中的冒名顶替感与伦理不适，作为情感劳动
-- [[parlant-emotional-micro-interventions-2026]] — 教师侧的实时情绪微干预，奠基于认知评价理论
-
-- [[ai-employment-threat-career-anxiety-2026]] — AI 就业威胁与职业决策焦虑：感知就业能力中介、成长型思维调节
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI 使用压力削弱 AI 熟练度与大一适应的联系
-- [[ai-attitude-latent-profiles-career-development-2026]] — 在 AI 焦虑与感知 AI 质量上同时偏高的剖面，而非二者之一
-- [[ai-speaking-practice-communicative-readiness-2026]] — 口语焦虑与开口意愿的联系在高口语自我效能感处反转
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 感知 AI 助手智能经由学习目标进展降低学业焦虑（医学生）
-- [[petricini-ai-literacy-communication-equity-2026]] — 基础传播课程中的 AI 素养：公平、动机与降低不确定性的启示
-- [[tischkau-ai-simulated-patient-formats-2026]] — 七名小组参与者中有五名私下报告在同学面前面谈虚拟病人时感到不适

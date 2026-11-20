@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -106,53 +108,3 @@ ai_assist:
 **"खुला बनाम स्वामित्वशील लाइसेंसिंग का विवरण है जो परिणामों को प्रभावित नहीं करता।"** मंच-मॉडल आकार देता है कि संस्थाएँ प्रणाली के साथ क्या कर सकती हैं: [[open-source|खुले]] मंच जैसे OATutor, जो MIT-लाइसेंस प्राप्त अनुकूली ट्यूटर है जिसमें Creative Commons बीजगणित सामग्री पुस्तकालय, [[knowledge-tracing]] महारत अनुमान और अंतर्निहित A/B परीक्षण हैं, किसी विभाग को अपनी [[pedagogy|शिक्षाशास्त्र]] का मापन और संशोधन करने देते हैं, जो बंद मंच नहीं कर सकता। लाइसेंस ही तय करता है कि प्रयोग कौन कर सकता है।
 
 **"जो मंच एक संस्था में काम करता है, वह अपनाए जाने पर भी काम करेगा।"** मंच-प्रभाव स्थानीय शासन से होकर चलते हैं: निजता-प्रथम वास्तुकला, डेटा न्यूनतमकरण, लेखा-परीक्षण योग्य लॉग और भूमिका-आधारित पहुँच ही किसी AI-एकीकृत मंच को तैनाती-योग्य बनाते हैं, और ये संस्थागत निर्णय हैं, ऐसी विशेषताएँ नहीं जिन्हें विक्रेता के प्रदर्शन से अनुमान लगाया जा सके।
-
-## संबंधित अवधारणाएँ
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## संबंधित लेख
-
-- [[typology-generative-ai-tools-education-2026]] — 211 शिक्षकों ने क्या उपयोग बताया: नौ श्रेणियों में 50 उपकरण
-- [[making-ai-tutoring-productive-mastery-math-2026]] — एआई ट्यूशन को उत्पादक बनाना: निपुणता-आधारित गणित अभ्यास
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — वन क्लिक अवे: एक दो-वर्षीय विद्यालय प्रयोग में Khanmigo
-- [[access-not-enough-ai-tutoring-2026]] — एआई ट्यूशन प्लेटफ़ॉर्म के लिए बाधा स्वीकृति और संलग्नता हैं
-- [[oatutor-open-source-adaptive-tutor-2023]] — प्रतिलिपि-योग्य शोध के लिए एक ओपन-सोर्स अनुकूली ट्यूशन प्लेटफ़ॉर्म
-- [[mooc-to-maic]] — MOOC से LLM-संचालित मल्टी-एजेंट एआई कक्षाओं की ओर
-- [[ai-lms-middle-school-longitudinal]] — मिडिल स्कूल के लिए सीमाबद्ध, गोपनीयता-प्रथम सहायता वाला एआई-एकीकृत LMS
-- [[taklif-ai-interest-based-personalized-assignments]] — रुचि-आधारित व्यक्तिगत असाइनमेंट प्लेटफ़ॉर्म
-- [[edusim-llm-robotic-simulation-education-2026]] — शिक्षा के लिए एक LLM-रोबोटिक सिमुलेशन प्लेटफ़ॉर्म
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — उच्च शिक्षा में एक जनरेटिव सोशल-रोबोट शिक्षण प्लेटफ़ॉर्म
-- [[hypergamification-game-engine-lms]] — गेमिफ़िकेशन को एकीकृत करने वाला गेम-इंजन-आधारित LMS
-- [[edtech-design-time-generative-ui]] — जनरेटिव UI के लिए एडटेक डिज़ाइन करना
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-अनुरूप स्थानीय LLM ऑटोग्रेडर प्लेटफ़ॉर्म
-- [[vismatic-secure-sandbox-cs-education]] — CS शिक्षा के लिए एक सुरक्षित सैंडबॉक्स प्लेटफ़ॉर्म
-- [[learnmate2-llm-adaptive-learning]] — LLM-संचालित व्यक्तिगत अनुकूली अधिगम प्लेटफ़ॉर्म
-- [[privacy-aware-classroom-incident-recognition-2026]] — कक्षा प्लेटफ़ॉर्म में गोपनीयता-जागरूक कंप्यूटर विज़न
-- [[raza-farooq-aied-review-2020-2025]] — एआईईडी शोध और प्रणालियों की व्यापक समीक्षा
-- [[credentials-carry-evidence-ai-agents-2026]] — एआई-एजेंट कार्य के लिए प्रमाण रखने वाली प्रमाणपत्र
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "हम इसे बाद में ठीक करेंगे": शिक्षा, एआई और एडटेक में छात्र गोपनीयता की टाली
-- [[synthetic-educational-data-structural-fidelity-2026]] — निष्ठा मेट्रिक क्या चूकते हैं: संश्लेषित शिक्षा डेटा पर एक संरचनात्मक जाँच

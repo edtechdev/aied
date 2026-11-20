@@ -9,6 +9,8 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 
@@ -107,7 +109,6 @@ Two neighbouring pages are deliberately about something else. [[philosophy-of-ai
 
 Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and localized by whoever applies them, they can function as branding, and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims resting on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
 
-
 Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis of 55 AI-supported [[game-based-learning|game-based learning]] studies found effectiveness turned on whether the AI mechanism enacted the pedagogy it was meant to serve rather than on algorithmic sophistication ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 ## Common Misconceptions
@@ -119,34 +120,3 @@ Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis 
 **"Learning theories, models of the learner, and adoption frameworks are interchangeable lenses."** They answer different questions — how learning happens, what the learner's state is, and why a practice spreads — and their evidence types differ accordingly. Choosing the wrong layer produces a study that measures the right variable against the wrong prediction, which reads as a null result when it is a category error.
 
 **"More frameworks means a more mature field."** Coined-for-the-AI-era frameworks accumulate faster than they are tested, and accumulation without falsification is a symptom rather than progress. Maturity shows up as competing predictions being resolved, not as vocabulary growth.
-
-## Connected Concepts
-
-- [[theory-development-aied]] — building and revising theory in the field
-- [[philosophy-of-ai-in-education]] — the normative and conceptual layer
-- [[learning-theories]] — the umbrella for learning theory
-- [[learning-sciences]] — the neighboring field most theory is borrowed from
-- [[limitations-in-aied-research]] — what the evidence base can and cannot support
-- [[tpack]] — teacher knowledge framework
-- [[technology-acceptance-model]] — adoption frameworks
-- [[item-response-theory]] — a measurement model
-- [[universal-design-for-learning]] — a design framework
-- [[research-methods-aied]] — how theory gets tested
-
-## Connected Articles
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotional affordances proposed as a fourth category in an affordance taxonomy
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanism-to-theory alignment, not algorithmic sophistication, drove effectiveness in 55 AI game-based learning studies
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
-- [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — activity theory applied to teacher professional development
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — activity theory and teacher adoption
-- [[generativism-learning-theory]] — a learning theory proposed for the generative AI era
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — toward a theory of epistemic co-agency
-- [[absent-cognitive-baseline-2026]] — theorizing a structural gap in AI-native students' self-assessment
-- [[yan-agentivism-learning-theory-ai-2026]] — a mid-range learning theory for human-AI interaction
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
-- [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension
-
-- [[wells-genai-research-assistant-sociology-2026]] — Exploring the Role of Generative AI as a Research Assistant in Undergraduate Sociology Research Methods

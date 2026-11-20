@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,33 +99,3 @@ ai_assist:
 
 - सांस्कृतिक सामग्री को उपस्थिति या अनुपस्थिति के रूप में नहीं, स्तर के अनुसार रिपोर्ट करें, क्योंकि 94% बनाम 6% उपस्थिति उस 6% के बारे में कुछ नहीं कहती।
 - पायलट रिपोर्ट करते समय शिक्षक-धारणा परिणामों को विद्यार्थी परिणामों से स्पष्ट रूप से अलग करें।
-
-## संबंधित अवधारणाएँ
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — छत्र: एआई शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-
-## संबंधित लेख
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — पाठ-योजनाकार जो मसौदे से पहले शिक्षकों से सांस्कृतिक संदर्भ पर साक्षात्कार करता है (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — सांस्कृतिक रूप से प्रासंगिक के-12 शिक्षाशास्त्र के लिए एलएलएम
-- [[civic-education-ai-lesson-plans]] — नागरिक शिक्षा में एआई-जनित पाठ्यक्रम योजनाएँ
-- [[ojeda-ramirez-community-based-ai-learning]] — समुदाय-आधारित एआई शिक्षा
-- [[genai-minoritized-knowledges-disability]] — जेनरेटिव एआई और अल्पसंख्यकीकृत ज्ञानों का हाशिया पर रखना
-- [[nsmq-riddles-science-math-benchmark]] — एनएसएमक्यू पहेलियाँ: घाना एसटीईएम बेंचमार्क
-- [[cross-cultural-student-perceptions-genai-computing]] — जेनएआई उपयोग पर अंतर-सांस्कृतिक धारणाएँ
-- [[international-students-conversational-ai-adaptation]] — अंतरराष्ट्रीय छात्र और संवादी एआई
-- [[connected-ai-lesson-planning-vietnam]] — कनेक्टेड: वियतनामी पाठ्यक्रम योजना
-- [[culturally-aware-student-stress-chatbot-2026]] — एनएलपी और मशीन लर्निंग का उपयोग करते हुए पाकिस्तानी विश्वविद्यालय छात्रों के बीच तनाव पहचान और कल्याण सहायता के लिए एक एआई-संचालित सांस्कृतिक रूप से सचेत चैटबॉट

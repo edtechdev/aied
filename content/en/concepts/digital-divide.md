@@ -9,6 +9,8 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 > **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) [[ai-technologies|technologies]] across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
@@ -45,13 +47,11 @@ The edge-inference turn adds a hardware dimension to the first-level divide. Whe
 
 AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and [[ai-literacy|AI literacy]] — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. [[research-methods-aied|Research]] shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
 
-
 A long-standing strand of the literature traces how the concept itself shifted from access to **digital equity**, now defined across four dimensions — digital literacy, affordability, group-sensitive content, and infrastructure availability — and reads consumer AI as a new wave of the divide that favors users already able to audit machine output ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
 **Personality, not just SES, shapes the AI-era divide.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analyzed survey and national registry data from **4,497 Grade 6 students** in the Netherlands, separating two mediating pathways — AI usage and digital literacy — linking student background and personality to [[learning-gains|academic performance]]. Their key finding reframes the classic divide: **digital literacy, not AI usage intensity, mediates** the link between personality and performance, and a new digital-skills divide emerges that is driven more by **personality traits than by socioeconomic status**. SES advantages on performance operated independently of AI [[student-engagement|engagement]]. This complicates the access-and-SES framing of the digital divide, pointing to skills formation and dispositional support as equity-relevant levers alongside device and tool access.
 
 **The divide has a [[metacognition|metacognitive]] layer.** Because leveraging AI productively requires [[prior-knowledge|prior knowledge]] and [[self-regulated-learning|self-regulation]], students who already possess these benefit most while those who need the practice most delegate the learning itself — a "metacognitive equity gap" that can widen achievement divides even at equal access ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
-
 
 Structured school AI instruction is a psychological catalyst but not a cognitive equalizer: across 752 Hong Kong junior-secondary students, a year-long [[curriculum-design|curriculum]] narrowed confidence and motivation gaps yet left objective AI-literacy differences between high-agency and low-agency learners intact ([[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]]).
 **The divide operates at the institutional level too.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show that in Nigeria's higher education system, AI integration capacity concentrates in older, South-West-region institutions and compounds through mutually reinforcing network ties (international collaborations × industry partnerships, r = 0.74) — meaning institutional "have-nots" (typically newer state universities) face structural barriers to entering the very networks that would help them catch up. Digital inequality is thus reproduced not only across individual learners but across the [[governance|institutional]] structures that shape who can participate in an AI-transformed knowledge economy.
@@ -94,41 +94,3 @@ The digital divide is a core concern of [[equity-in-ai-education|equity]] resear
 - **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
 - **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
 - **"[[simulation|Simulations]] remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **\$2,000-\$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
-
-## Connected Concepts
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Connected Articles
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
-- [[watanabe-genai-education-gap-europe-2026]] — Is the education gap in generative AI use smaller than the internet's was? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access

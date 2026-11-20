@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -41,7 +43,6 @@ pedagogy: [tpack]
 
 Межуровневые свидетельства уточняют приоритет проектирования: [[pedagogy-first-technology-second-teacher-knowledge-2026|многоуровневое исследование 46 преподавателей и 2 832 учащихся средней школы]] обнаружило, что педагогические ИИ-знания (TPAIK) — а не технические ИИ-знания, — определяли восприятие учащимися ИИ как силы для общего блага и их намерение изучать ИИ. Поэтому образование преподавателей должно выдвигать на первый план *как преподавать с ИИ и об ИИ*, а не владение инструментом, в соответствии с руководящим принципом «сначала педагогика, технология потом».
 
-
 Гейтагогическая линия идёт параллельно этому приоритету проектирования: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] наблюдали 93 израильских преподавателей в течение восьминедельной программы профессионального развития по ИИ и предложили двухуровневую связь, в которой собственная рефлексивная [[regulation]] преподавателей и критическая ИИ-грамотность опосредуют ориентированные на [[agency|агентность]] и способности конструкции, которые они создают для [[learners]].
 
 ### Доуниверситетское образование преподавателей
@@ -60,7 +61,6 @@ pedagogy: [tpack]
 - **ИИ-поддерживаемое исследование в [[science-education|естественнонаучном образовании]].** Квазиэксперимент с 48 будущими преподавателями естественных наук в Тюрции ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) интегрировал проблемное и дизайн-ориентированное обучение в 8-недельную программу ИИ-поддерживаемого управляемого исследования по фотосинтезу и дыханию. Она дала значительный прирост в концептуальном понимании двух [[biology-education|биологических]] процессов, но *не* оказала значимого эффекта на ИИ-грамотность или самооценённое [[computational-thinking|вычислительное мышление]] — напоминание о том, что ИИ-ориентированное обучение через исследование (IBL) может углубить предметное понимание кандидатов в преподаватели, автоматически не формируя их ИИ/КТ-компетентности, которые требуют явного, адресного проектирования.
 
 - **Метакогнитивный [[prompt-engineering|промптинг]] не является нейтральным для группы, поэтому будущим преподавателям нужно учиться читать группу.** В исследовании [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] учащимися были сами будущие преподаватели — четырнадцать групп, работавших 60 минут над исследованием с метакогнитивным чат-ботом по запросу. Группы, члены которых придерживались разных предубеждений, делали ИИ центром концептуального обсуждения; группы, которые уже соглашались, использовали его как справочник и негативно оценивали проактивные подталкивания. Практическая заметка авторов просит преподавателей составлять группы по разнообразию предубеждений и оставлять поддержку совместной регуляции необязательной.
-
 
 - **[[generative-ai|Генеративный ИИ]] для конструктивистского дизайна обучения.** [[sahab-model-genai-constructivist-id-2026|Модель SAHAB]] — это квазиэкспериментальная интервенция профессионального развития, в которой генеративный ИИ даёт преподавателям возможность проектировать [[constructivist]] обучение, с большими приобретениями (d = 1.18). Она показывает, что GenAI может [[scaffolding|служить опорой]] для [[learning-design|дизайна обучения]] как для будущих преподавателей, так и для практикующих, — не просто доставляя контент, но поддерживая *проектирование* студентоцентрированных учебных активностей.
 - **Обучение «умной аудитории» для магистрантов [[math-education|математики]] направления M.Ed.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao и Wang (2026)]] показывают, как курс магистратуры по математике может быть усилен интеллектуальными образовательными [[ai-technologies|технологиями]] ([[automated-assessment|автоматическое оценивание]], персонализированные рекомендации, обратная связь от множества ИИ) на этапах до, во время и после занятия, что даёт статистически значимый прирост в мастерстве проектирования учебных целей. Переносимая модель D-T-E (Дисциплинарное требование – Технологическое расширение – Цикл оценивания) предлагает преподавателям-методистам [[discipline-specific-aied|дисциплинарно-специфичную]] рамку для интеграции умного образования в подготовку преподавателей в магистратуре.
@@ -114,71 +114,10 @@ pedagogy: [tpack]
 
 - **Учите преподавателей читать первичные исследования, стоящие за политикой по ИИ.** Шестинедельный магистерский курс по методам исследования, нацеленный на потребление исследований, а не на их производство: одна преподавательница применила рамку критической оценки к учебной программе, предписанной округом, и представила анализ своему директору, а несколько человек начали использовать [[socratic-method|сократическое вопрошание]] со своими учениками ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 
-
 Поскольку модель усиливает тот личный PCK, который преподаватель уже имеет, новички — группа, наиболее подверженная уверенным, но необоснованным предметным советам, поэтому наставничество и проверка на уровне кафедры являются развивающим средством, а не отдельными модулями ИИ-грамотности ([[webb-pck-genai-2026|Webb et al., 2026]]).
-
 
 ## Распространённые заблуждения
 
 - **«Принятие ИИ будущими преподавателями — это единая установка.»** **128 будущих преподавателей** были распределены по четырём группам принятия ChatGPT, включая **устойчивых скептиков (14.06%), которые сообщали о высокой воспринимаемой лёгкости использования, но об очень низком поведенческом** намерении. В этой группе лёгкость использования и намерение разошлись, поэтому интервенция, движимая [[usability-research|удобством]], оставила бы их без изменений.
 - **«ИИ помогает будущим преподавателям главным образом с предметным знанием.»** **Обзор 55 исследований** обнаруживает, что ИИ усиливает **дизайн обучения, предметное преподавание и практическое преподавание** — способности к проектированию и практике, а не предметную экспертизу.
 - **«Обзор 55 исследований устанавливает пользу.»** Он документирует то, о чём сообщают по всей области. Широта сообщаемых улучшений — это утверждение о консенсусе литературы, а 55 исследований в обзоре — не объединённый эффект.
-
-## Связанные концепции
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-
-## Связанные статьи
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — ИИ в педагогическом образовании: педагогические рамки, эмпирические свидетельства и этика, 2020–2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
-- [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
-- [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns across teaching experience and AI proficiency in lesson design (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Campus versus distance comparison of 186 science student teachers' AI-related TPACK and training levels
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
-- [[capability-decision-model-teacher-readiness-2026]] — Измеряйте способность, а не уверенность
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Гейтагогическая двухуровневая модель, связывающая рефлексивную регуляцию преподавателей с агентностью учащегося
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Преподаватели K-12 учатся читать первичные исследования по ИИ и оспаривать предписания округа
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Будущие преподаватели как учащиеся: группы с разными представлениями делали ИИ центром концептуального разговора, а согласные группы использовали его как справочник и не любили проактивные подсказки (Wang et al. 2026)
-- [[webb-pck-genai-2026]] — Почему модель усиливает тонкий PCK новичка и почему средство должно быть коллективным, а не модулем ИИ-грамотности (Webb et al. 2026)
-

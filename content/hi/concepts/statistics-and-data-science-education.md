@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,26 +84,3 @@ ai_assist:
 - **"संतुष्टि और अनुभूत लाभ दर्शाते हैं कि कोई डेटा-विज्ञान AI उपकरण काम कर रहा है।"** छात्रों ने डीबगिंग और अवधारणा प्रश्नों के लिए LLM का भारी उपयोग किया और **उच्च संतुष्टि बताई, जबकि उनका अनुभूत गहन-अधिगम लाभ सत्र के दौरान घटता गया**। संतुष्टि बनी रही और स्व-आकलित अधिगम प्रक्षेपवक्र गिरा, इसलिए अकेला कोई भी आँकड़ा परिणाम नहीं है।
 - **"अप्रतिबंधित मॉडल निर्देशित ट्यूटर जितना अच्छा है।"** एक प्रयोगात्मक तुलना ने पाया कि **तर्क-केंद्रित स्कैफ़ोल्डिंग में स्पष्ट प्रशिक्षण — चरणबद्ध संकेत, सत्यापन — ने अप्रतिबंधित पहुँच की तुलना में बेहतर स्वतंत्र** प्रदर्शन दिया। मार्गदर्शन, और उसका उपयोग कैसे करना है इसका प्रशिक्षण, प्रभाव वहन करते थे।
 - **"उत्तर देने से रोकना पर्याप्त है।"** होस्टेड API के चारों ओर बना एक उद्देश्य-निर्मित ट्यूटर, जिसे **उत्तर देने के बजाय मार्गदर्शन** करने के लिए सिस्टम-प्रॉम्प्ट किया गया, मनोविज्ञान के स्नातकों के एक सेमेस्टर-लंबे R पाठ्यक्रम में तैनात किया गया, जहाँ **76% से 84% छात्रों ने परीक्षा से संबंधित सप्ताहों में इसका उपयोग किया। यह अपनाना है, इस बात का प्रमाण नहीं कि सुरक्षा ने अधिगम उत्पन्न किया:** प्रॉम्प्ट-स्तर की सुरक्षा कई लीवरों में से एक है और स्वयं अधिगम उत्पन्न नहीं करती।
-
-## संबंधित अवधारणाएँ
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## संबंधित लेख
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — वैयक्तिकृत सांख्यिकी अभ्यास के लिए निरीक्षणीय सिंथेटिक डेटासेट जनरेट करने वाला एजेंटिक उपकरण
-- [[ai-tutor-statistical-programming-adoption-2026]] — उद्देश्य-निर्मित R ट्यूटर; अपनाने ने परीक्षा कैलेंडर का अनुसरण किया
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM कठिनाई लेबल ब्लूम स्तरों का अनुसरण करते हैं, छात्र प्रदर्शन का नहीं
-- [[tactile-statistical-graphs-accessibility]] — शिक्षक समीक्षा के साथ स्पर्शनीय सांख्यिकीय चार्ट बनाने वाली ओपन-सोर्स पाइपलाइन
-- [[guided-llm-scaffolding-independent-learning]] — निर्देशित स्कैफ़ोल्डिंग ने स्वतंत्र प्रदर्शन पर अप्रतिबंधित पहुँच को हराया
-- [[lund-socially-accountable-data-science-xai-2026]] — तकनीकी डेटा विज्ञान पाठ्यक्रम में सामाजिक जवाबदेही को सन्निहित करना

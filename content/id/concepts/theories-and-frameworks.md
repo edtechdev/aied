@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -126,32 +128,3 @@ Keselarasan mekanisme-ke-teori tetap dapat menentukan: sintesis tematik atas 55 
 **"Teori belajar, model pembelajar, dan kerangka adopsi adalah lensa yang dapat dipertukarkan."** Mereka menjawab pertanyaan yang berbeda — bagaimana belajar terjadi, apa keadaan pembelajar, dan mengapa sebuah praktik menyebar — dan jenis buktinya berbeda sesuai itu. Memilih lapisan yang salah menghasilkan studi yang mengukur variabel yang tepat terhadap prediksi yang salah, yang terbaca sebagai hasil nol padahal itu kesalahan kategori.
 
 **"Semakin banyak kerangka kerja berarti bidang yang semakin matang."** Kerangka kerja yang diciptakan untuk era AI menumpuk lebih cepat daripada diuji, dan akumulasi tanpa falsifikasi adalah gejala alih-alih kemajuan. Kematangan tampak sebagai prediksi yang saling bersaing yang terselesaikan, bukan sebagai pertumbuhan kosakata.
-
-## Konsep terkait
-
-- [[theory-development-aied]] — membangun dan merevisi teori di bidang ini
-- [[philosophy-of-ai-in-education]] — lapisan normatif dan konseptual
-- [[learning-theories]] — payung bagi teori belajar
-- [[learning-sciences]] — bidang tetangga tempat sebagian besar teori dipinjam
-- [[limitations-in-aied-research]] — apa yang dapat dan tidak dapat didukung basis bukti
-- [[tpack]] — kerangka pengetahuan guru
-- [[technology-acceptance-model]] — kerangka adopsi
-- [[item-response-theory]] — model pengukuran
-- [[universal-design-for-learning]] — kerangka desain
-- [[research-methods-aied]] — bagaimana teori diuji
-
-## Artikel terkait
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Afordans emosional diusulkan sebagai kategori keempat dalam taksonomi afordans
-- [[ai-game-based-learning-systematic-review-2026]] — Keselarasan mekanisme-ke-teori, bukan kecanggihan algoritmik, yang mendorong efektivitas dalam 55 studi pembelajaran berbasis permainan AI
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — empat dekade AIED melalui kerangka AI×Ed
-- [[educating-minds-generative-ai-2026]] — sintesis berat teori tentang AI generatif dan pembelajaran
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teori aktivitas diterapkan pada pengembangan profesional guru
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teori aktivitas dan adopsi oleh guru
-- [[generativism-learning-theory]] — teori belajar yang diusulkan untuk era AI generatif
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — menuju teori koagensi epistemik
-- [[absent-cognitive-baseline-2026]] — membuat teori tentang celah struktural dalam penilaian diri siswa asli AI
-- [[yan-agentivism-learning-theory-ai-2026]] — teori belajar jangkauan menengah untuk interaksi manusia–AI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — pengembangan instrumen pada konstruk yang masih muda
-- [[mishra-control-vs-agency-history-2025]] — ketegangan kendali-versus-agensi yang mendasari bidang ini

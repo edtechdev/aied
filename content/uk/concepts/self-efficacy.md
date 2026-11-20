@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -84,45 +86,3 @@ ai_assist:
 - **«Більше використання ШІ за низької впевненості — нешкідлива стратегія подолання.»** Та сама знахідка пов’язує це скерування з **нижчими оцінками**, тож патерн подолання має вимірювану ціну, а не є нейтральним вибором.
 - **«Сама грамотність будує впевненість.»** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] опитав **450 студентів університету**, які вже користуються ChatGPT, і виявив **довіру як шарнір між грамотністю та впевненістю**. Шлях іде через довіру, тож підвищення грамотності без опрацювання довіри лишає механізм незайманим.
 - **«Профілі самоефективності однорідні в популяції з інвалідністю.»** Аналіз латентних профілів **102 студентів університету з моторичними обмеженнями** в Іспанії виявив **три профілі**, причому низька група становила **29.4%**, а решта розділилася між помірним і вищим профілями. Трактування групи як однієї популяції усереднює різні мотиваційні стани.
-
-## Пов’язані поняття
-- [[learners]] — Learners: парасолька для понять на боці здобувача
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-## Пов’язані статті
-- [[ai-proof-learning-cognitive-offloading-2026]] — Підтримка чи заміна міркувань студентів? Когнітивне розвантаження в навчанні доведень зі ШІ (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Загальне використання ШІ відстежувало вищу самоефективність і вищий абсентеїзм, проте самоефективність не передбачала відвідування (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Чатботи ШІ в вищій освіті: порівняння очікувань із доказами (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — впевненість, що зростає, тоді як технологічна залежність зростає: самоефективність як оманливий результат ери ШІ (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — Е-менторство з підтримкою ШІ підвищує самоефективність та емоційний інтелект викладачів-стажерів EFL (квазіекспериментально)
-- [[aigc-affordance-student-self-regulation-2026]] — Можливості AIGC та саморегуляція студентів
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — ШІ-грамотність, готовність до ШІ та пристосовуваність кар’єри
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Підготовка викладачів до ШІ-грамотності (SDT)
-- [[social-robot-study-companions]] — Соціальні роботи як супутники навчання
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Рамка HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Патерни використання GenAI та академічна самоефективність
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Шкала AI-PBLS; розширення повноважень та етична обізнаність, опосередковуючі PBL-до-задоволеності в курсах ШІ-грамотності (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Прогнозування відтоку студентів у конкурентному програмуванні
-- [[genai-xr-architectural-design-education-2026]] — Генеративний ШІ та розширена реальність у спільній освіті архітектурного дизайну: дослідницька студійна робота
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ШІ-грамотність, довіра та академічна самоефективність в серійному ланцюгу до тривалого використання ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Профілі академічної самоефективності та заявлене використання ШІ серед студентів університету з моторичними обмеженнями
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Заявлені прирости креативної самоефективності від генеративного ШІ в дітей (огляд обсягу)
-- [[ai-speaking-practice-communicative-readiness-2026]] — Самоефективність говоріння обертає шлях тривоги від практики з допомогою ШІ до готовності
-- [[faculty-ai-well-being-social-supports-2026]] — SEM викладачів: технологічна самоефективність — слабкий предиктор благополуччя зі ШІ
-- [[cen-self-efficacy-favorability-2026]] — Самоефективність і сприятливість формують навчання від систем тьюторства та практики на папері (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Шкала самоефективності письма передбачала більше запитів на переклад і рецензування, і не більше планування чи делегування всього есе (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Використання машинного навчання для вимірювання переконання про самоефективність через сліди взаємодії здобувачів у навчанні, підсиленому технологіями
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Самоефективність щодо ШІ → ШІ-грамотність → прийняття ШІ, з виміряною часткою, опосередкованою знаннями (İşbulan et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — Академічна самоефективність передбачала вищу, а не нижчу надмірну довіру до ШІ
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — самоефективність як необхідна умова сприйнятої корисності, з пороговими обмеженнями (Chu & Liu 2026)

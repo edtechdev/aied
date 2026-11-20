@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -65,12 +66,3 @@ independen. Lampirannya menyebut dirinya indikatif; skala kematangannya adalah b
 instrumen pengukuran. Okupasi yang kritis terhadap keselamatan dan teregulasi mendapat satu bab, tetapi bab
 itu mengargumenkan posisi tentang pengawasan manusia alih-alih menawarkan detail setingkat regulasi.
 Lisensi CC BY-SA 3.0 IGO mengizinkan adaptasi dan penerbitan ulang dengan atribusi dan share-alike.
-
-## Konsep terkait
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

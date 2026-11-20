@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -150,68 +152,3 @@ ai_assist:
 
 - Повідомляйте вимір та інструмент і уникайте голого іменника. Оскільки самозвіт і журнали розходяться, «залученість зросла» потребує операціоналізації в тому самому реченні.
 - Уникайте виведення досягнень з афекту. Розділений кластер-рандомізований результат є моделлю для звітування обох, включно з нульовим.
-
-## Пов’язані поняття
-- [[learners]] — Здобувачі: узагальнення для понять на боці здобувача
-- [[pedagogical-partnerships]] — Педагогічні партнерства
-- [[community-of-inquiry]] — Спільнота дослідження (агентна залученість як вимір CoI)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Онлайн-викладання та навчання
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Узагальнення: люди та аудиторії в освіті зі ШІ (здобувачі, викладачі, дизайнери, адміністратори, політики)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## Пов’язані статті
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Грамотність щодо зворотного зв’язку ШІ та агентна залученість: трихвильова панель із випадковим перехопленням (Сюй 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Розлучені розмовні поведінки та навчання в діалогах здобувача зі ШІ (Ро і співавтори, 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Передкласна практика з голосовим ШІ підвищила добровільні внески на заняттях на ~31%, але лише після другого використання (Ван і співавтори, 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Використання ШІ відстежувалося з більшою пропущеністю занять, тоді як самоефективність її не передбачала, причому вплив однокурсників є домінантним корелятом (Франко і співавтори, 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Коли університети адвокують GAI, але практика відстає: оцінки здобувачів і залученість у творчий процес у мистецькій освіті
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — ЕЕГ на голові, відстеження погляду та EDA передбачають п’ятирівневі оцінки залученості, тоді як власні дефініції здобувачів зрушують відображення (Анупкрішнан і співавтори, 2026)
-- [[student-attention-estimation-fairness-2026]] — Багатомодальне трансформерне моделювання, чуйне до справедливості, для оцінювання уваги студента в реальному часі
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — ШІ у вищій освіті: систематичний огляд залученості + опосередковуюча роль методів викладання
-- [[genai-motivation-engagement-2026]] — Вплив генеративного ШІ на мотивацію та залученість здобувачів
-- [[critical-engagement-code-completion]] — Натискати Tab чи не натискати: вимірювання критичної залученості в доповненні коду зі ШІ
-- [[icap-cognitive-engagement-llm-agents]] — Вимірювання когнітивної залученості в колаборативному дискурсі
-- [[genai-tutor-engagement-patterns]] — Не всі здобувачі залучаються однаково: закономірності в кількох установах
-- [[polished-artifacts-fragile-engagement-2026]] — Вишукані артефакти, крихка залученість
-- [[ai-availability-student-motivation]] — «Навіщо вкладати стільки зусиль?»: як доступність ШІ формує мотивацію
-- [[genai-performance-vs-learning]] — Розрізнення здобутків у продуктивності та навчанні
-- [[scaffolding-critical-engagement-genai-minority-students]] — Скаффолдинг критичної залученості з GenAI
-- [[engagement-intensity-learner-modeling]] — Інтенсивність залученості як сигнал моделювання здобувача
-- [[learning-engagement-assistant-lea]] — Асистент навчальної залученості
-- [[engagement-assessment-video]] — Оцінювання залученості у відеонавчанні
-- [[engagement-forecasting-its]] — Від евристик до аналітики: прогнозування зусиль і прогресу
-- [[interactive-learning-dashboards-engagement]] — Інтерактивні навчальні панелі та залученість
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Характеристики здобувача × взаємодії формату TTS-діалогу
-- [[wang-goal-setting-ai-engagement-2026]] — Теорія постановки цілей: підтримка викладача, цілі досягнення та залученість у навчанні англійської з підтримкою ШІ (758 китайських студентів)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Компетентність у GenAI та емоція як драйвери залученості в чатботі (Чжао і співавтори, 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Пов’язана з дисципліною когнітивна залученість за рівнями Блума в розмовах здобувача зі ШІ (Чан і Лі, 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Вимірно-специфічні здобутки залученості на початковому рівні (Лу і співавтори, 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Когнітивна та поведінкова залученість зростають, афективна залученість пласка, в імерсивній VR-студії PBL (Джин і співавтори, 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Кластер-рандомізоване дослідження середньої математики: ситуативний інтерес зріс із настроєним чатботом, тоді як продуктивність в тесті — ні (Рюкер і Беккер-Геншов, 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Грамотність у ШІ рухає залученість безпосередньо та через психологічний капітал, посилену професійною відданістю (Ван, 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: тьюторінг ШІ та людський дають еквівалентні навчальні здобутки за GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Доступ до ШІ-тьютора знизив зареєстровану участь на платформі на 0,90 SD, тоді як подання домашніх завдань залишилося стійким (Лю і співавтори, 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — Self-reported and observed AI engagement profiles failed to correspond, and only behavior tracked quiz scores (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Four predicted engagement configurations under GenAI, and why the tool amplifies them

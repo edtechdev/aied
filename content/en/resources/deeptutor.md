@@ -19,6 +19,7 @@ audience: [instructors, learners, researchers, instructional designers, educatio
 confidence: high
 connected_resources: [openmaic]
 reviewed_by: [editor]
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 **DeepTutor** is the open-source implementation of the tutoring framework evaluated in [[intelligent-tutoring|the DeepTutor study]], and it has grown well past that paper's scope into a general agent-native learning workspace. Tutoring, problem solving, quiz generation, mastery practice, research and visualization share one capability runtime and one session context, so the learner profile built while solving problems conditions the explanations and practice items that follow.
@@ -34,6 +35,3 @@ Higher-education instructors and researchers who want a deployable version of th
 ## Notes
 
 Licensed Apache 2.0, at version 1.6.9 as of September 2026 with roughly 40,000 GitHub stars. The published evaluation behind it — 10.8% average improvement on personalized metrics over strong baselines and 29.4% stronger general agentic reasoning across five backbone models, on the TutorBench benchmark — is summarized on [[zhao-deeptutor-agentic-personalized-tutoring-2026|the article page]], whose limitations apply here too. As with any open-source AI stack, you supply model provider keys, and a desktop or server deployment expects Python 3.11 and Node.
-
-## Connected Concepts
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

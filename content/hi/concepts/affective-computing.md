@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -65,33 +67,3 @@ ai_assist:
 - **"अधिक संलग्नता का अर्थ है अधिक सीख।"** एक मस्तिष्क-संवेदी अध्ययन में पाया गया कि **एक सीमित, अनुकूली इंटरफ़ेस ने संज्ञानात्मक संलग्नता बढ़ाई (p = .018) जबकि अप्रतिबंधित चैटबॉट ने अधिक सीख-लाभ दिए**। जिस इंटरफ़ेस ने अधिक संलग्न किया, उसने कम सिखाया। संलग्नता सीख का प्रतिनिधि नहीं है, और उसका अनुकूलन परिणाम को गलत दिशा में ले जा सकता है।
 - **"भावनात्मक समर्थन संज्ञानात्मक समर्थन पर एक नरम अनुवर्ती जोड़ है।"** एक छोटे कक्षा [[rct]] में (**252 प्रतिभागियों में से 42 पूर्णकर्ता**), माइंडफुल संस्करण ने केवल संज्ञानात्मक समर्थन की तुलना में **कम समय में और कम माँगे गए संकेतों के साथ समान बीजगणित सीख** प्राप्त की। भावनात्मक घटक ने दक्षता बदली, ऊपरी सीमा नहीं, जो "यह सीख में मदद करता है" से भिन्न और अधिक रोचक दावा है।
 - **"छोटे-नमूने के भावनात्मक निष्कर्ष स्थानांतरित होते हैं।"** 252 प्रतिभागियों में से 42 पूर्णकर्ता एक साथ प्रोत्साहक और भंगुर डिज़ाइन है: पूर्णता दर स्वयं इस बात का निष्कर्ष है कि कौन टिका, और प्रभाव उसी समूह तक सीमित है।
-
-## संबंधित अवधारणाएँ
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — सामाजिक-भावनात्मक सीख
-
-## संबंधित लेख
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI-जनित भावनात्मक अलर्ट पर प्रतिक्रिया: गणित कक्षा में शिक्षकों का हस्तक्षेप और छात्र संलग्नता
-- [[wang-teacher-student-centered-agents-physics-2026]] — भौतिकी सीख में प्रॉम्प्ट-डिज़ाइन एजेंट भूमिकाओं से सहानुभूति धारणा (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — समस्या समाधान से आगे: गणित सीख में भावनात्मक और चिंतनशील समर्थन के लिए बड़े भाषा मॉडल
-- [[emotion-aware-classroom-iot-monitoring-2026]] — IoT-आधारित वास्तविक समय निगरानी के माध्यम से भावना-जागरूक कक्षा गुणवत्ता मूल्यांकन (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: छात्र चिंता का LLM-संवर्धित मूल्यांकन (2026)
-- [[socratic-nuclear-ai-learning]] — सुकरात ने नाभिकीय किया: सीख में AI के लिए संपर्क रणनीतियों की तुलना
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — AI-समर्थित भावना नियमन का पुनर्गठन: संकेतों को स्वायत्त व्याख्या नहीं, संदर्भ चाहिए

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -43,7 +44,3 @@ Hodí sa vyučujúcim a dizajnérom učenia, ktorí chcú ohraničené, opakovat
 ## Poznámky a výhrady
 
 Bezplatná úroveň je obmedzená na 10 000 AI kreditov a tri aplikácie; neobmedzené aplikácie a pokročilé modely začínajú na úrovni Pro a integrácia LTI, jednotné prihlásenie a pokročilá analytika sú uvedené na úrovni Enterprise, takže funkcie, ktoré inštitúcia potrebuje najviac, sú práve tie spoplatnené. Repozitár je podľa súboru `LICENSE` licencovaný **AGPL-3.0**, čo záleží každému, kto ho chce samohostovať alebo upravovať, a jeho README ešte stále uvádza LGPL z čias pred touto zmenou, takže čítajte licenčný súbor, nie README. Inštitúcie by si tiež mali potvrdiť vlastné podmienky spracúvania údajov, kým pošlú študentskú prácu cez hostovanú službu tretej strany.
-
-## Prepojené pojmy
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

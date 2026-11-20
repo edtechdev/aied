@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -48,7 +50,6 @@ O **desenvolvimento profissional de professores baseado na TAD** aplica os princ
 
 - **Disponibilidade não é uso.** Com 406 estudantes do 5º ao 8º ano escrevendo duas vezes, uma sem ferramentas digitais e outra com IA generativa opcional, a satisfação de autonomia caiu (Δ = −0,28) enquanto a regulação média permaneceu estável e o grau de uso de IA não predisse pertencimento a perfil ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
 
-
 Um resultado contrastante em sala de aula mostra que as necessidades não se movem juntas: entre 2.464 estudantes do segundo ciclo do fundamental, a aprendizagem baseada em competências apoiada pelo ChatGPT elevou o apoio à autonomia e a satisfação de competência, mas produziu uma parcela maior de perfis motivacionais de baixa qualidade, e a satisfação de vínculo foi mais fraca que na aprendizagem baseada em competências sem IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
 A autonomia, e não a facilidade, carregou o ganho motivacional aqui. Um [[rct|RCT]] de três braços constatou que um tutor que retém dicas, mantendo os aprendizes construindo a própria solução, foi o único braço a elevar a motivação intrínseca (2,82 vs 2,42), enquanto o ChatGPT irrestrito, que entrega a resposta, não o fez (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
@@ -71,50 +72,10 @@ Um framework de co-agência delimita o alcance da TAD na educação mediada por 
 
 A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-mãe, à [[affective-computing|computação afetiva]] e à [[affective-tutoring|tutoria afetiva]] para o desenho de IA consciente das emoções, e à [[student-experience|experiência do estudante]] para como quem aprende vivencia ambientes mediados por IA. A ênfase da teoria na autonomia se conecta à [[self-regulated-learning|aprendizagem autorregulada]], enquanto sua dimensão de competência se conecta à [[self-efficacy-tutoring-learning]] e à [[teacher-ai-competency|competência em IA do professor]]. A TAD é particularmente relevante para a [[professional-training|formação profissional]] e o [[educational-development|desenvolvimento educacional]] porque o desenho que apoia as necessidades é um princípio transferível para preparar educadores a usar a IA.
 
-
 **As três necessidades não são exercitadas de forma uniforme pela pesquisa em IA generativa.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna e Jiang (2026)]] codificaram 39 estudos contra uma classificação de 20 atividades e encontraram 14 atividades presentes, com sete tipos relacionados à competência contra cinco para autonomia e dois para vínculo. Seis atividades estavam ausentes de todos os estudos, e a maioria pede ao estudante que julgue ou desafie a ferramenta: criar problemas desafiadores, antecipar as saídas da ferramenta, avaliar essas saídas e debater com ela. O vínculo é a necessidade que a literatura menos testa.
-
-
-
 
 ## Ideias equivocadas comuns
 
 - **"O tipo de motivação importa menos do que a quantidade de motivação."** Um estudo de um ano encontrou **três perfis motivacionais — Desengajado, Em desenvolvimento, Autodeterminado — estáveis ao longo do tempo**, e os estudantes que chegaram ao perfil **Autodeterminado** mostraram os **maiores ganhos de [[ai-literacy|letramento em IA]]**. A qualidade da motivação predisse a aprendizagem, e os perfis não simplesmente derivaram para cima.
 - **"Apoio à autonomia significa remover estrutura."** O mecanismo da TAD é autonomia, competência e vínculo juntos, e a evidência longitudinal mostra que satisfazê-los predisse ganhos, e não apenas os acompanhou. Autonomia sem apoio à competência é permissividade, e não satisfaz as condições da teoria.
 - **"Um [[conversational-ai|chatbot]] consegue suprir as três necessidades automaticamente."** Um estudo constatou que o ChatGPT podia apoiar autonomia, vínculo e competência na aprendizagem de línguas — uma possibilidade, não uma propriedade. Se uma dada interação as apoia é uma questão empírica sobre como ela é usada.
-
-## Conceitos conectados
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Artigos conectados
-- [[family-school-autonomy-support-genai-2026]] — Apoio à autonomia entre família e escola para o uso responsável de IA generativa pelas crianças
-- [[dual-ai-learning-pathways-sdt-2026]] — Pressão/apoio à autonomia no ensino médio e vias duplas de aprendizagem com IA (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — AL e IA generativa na tomada de decisão de desenho de aprendizagem
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Experiências dos estudantes com o ChatGPT na aprendizagem da língua inglesa
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Características de quem aprende × interações em formato de diálogo com TTS
-- [[liang-ai-learning-motivation-sdt-2026]] — Análise de transição latente com TAD da motivação de aprendizagem com IA dos estudantes (2.086 estudantes do ensino médio)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motivação do estudante e satisfação de necessidades em salas de aula com IA generativa (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — O uso de IAG se liga fracamente à satisfação de necessidades e é desnecessário para o alto engajamento (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Vias duplas da colaboração professor–IA para o engajamento no trabalho, moderadas pela competência digital
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — A retenção de dicas preservou a autonomia onde entregar a resposta não preservou
-
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Disponibilidade de IA, declínio da autonomia e perfis motivacionais do 5º ao 8º ano (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 estudos codificados contra uma classificação de 20 atividades; competência mais exercitada, vínculo menos
-

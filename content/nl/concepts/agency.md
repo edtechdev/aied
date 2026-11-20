@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -133,67 +135,3 @@ Een nauw verwant kader is **relationele epistemische agency** ([[du-yuan-epistem
 - **"Studenten oefenen agency uit wanneer zij AI vrij gebruiken."** Een **coderingsschema met 14 categorieën op 6,788 ChatGPT-ondersteunde beurten** plaatste **59% van de beurten van zevende-klassers** in categorieën die geen agentiek gebruik vertegenwoordigen. Gebruiksvolume en agency zijn verschillende maten.
 - **"Huidige modellen ondersteunen agency van de leerling goed."** **Over tien modellen gebenchmarkt is het ondersteunen van agency waar zij na leren het slechtst presteren**: ImpactBench mat **Agency and Purpose op 56.0%** op positieve criteria. Agency is de dimensie die AI-systemen het minst goed aankunnen, geen bijproduct van capaciteit.
 - **"Mediatie door de leraar is een beperking van agency."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] volgde **tien leraren wiskunde in het secundair onderwijs gedurende een interventie van acht weken met ChatGPT-4** en de mediatie is het mechanisme in plaats van het obstakel.
-
-## Verbonden concepten
-- [[learners]] — Leerlingen: het parapluconcept voor de leerlinggerichte concepten
-- [[pedagogical-partnerships]] — Pedagogische partnerschappen
-- [[learner-identity]] — zich ontwikkelende disciplinaire, professionele, creatieve en academische leerlingidentiteiten
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — gedeelde sturing van AI-gemedieerde interactie
-- [[agentic-ai]] — autonome AI die agency in groepen kan herverdelen
-- [[chemistry-education]] — Scheikundeonderwijs en AI: practica, formatieve beoordeling, beperkingen van LLM's, filosofie van het experiment
-- [[social-emotional-learning]] — Sociaal-emotioneel leren
-- [[cognitive-surrender]]
-
-## Verbonden artikelen
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Een landelijk representatieve enquête onder Amerikaanse leraren en schoolleiders over AI-beleidsdekking, agency en vijf klaslokaalpraktijken (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Een helpende hand of een dominante partner? Individuele percepties van GenAI-afhankelijkheid en menselijke agency in samenwerkend leren
-- [[yan-agentivism-learning-theory-ai-2026]] — Een mid-range leertheorie voor mens-AI-interactie, met vier mechanismen en zes toetsbare proposities (Yan en Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Agency van de leerling als de emergente kwaliteit van het coördineren van domein-, AI- en metacognitieve competenties, geen zelfstandige knoop (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Toegang tot keuze versus uitgeoefende agency: schuifregelaars, een optionele AI-agent en leren in een flocking-simulatie
-- [[guarded-adoption-genai-higher-education-2026]] — Behoedzame adoptie van generatieve AI in het hoger onderwijs
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI-agenten, joyful assessment en third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-gemedieerde vorming van onderzoeksagency in vroege wetenschappelijke training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Laagspecifieke cognitieve offloading bij GenAI-ondersteund schrijven (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — AI-onderwijs op school verkleint psychologische maar niet cognitieve gereedheidskloven
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relationele epistemische agency en zes criteria die productieve afhankelijkheid van schadelijke afhankelijkheid scheiden (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI-ondersteunde pedagogische begeleiding die STEM-identiteit ondersteunt
-- [[t2i-competence-paradox-2026]] — De competentieparadox: creatieve identiteit bij tekst-naar-beeld-GenAI-gebruik
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergente agency van de leerling in impliciete mens-AI-samenwerking: ondersteunende versus contrarian persona's
-- [[de-barba-srl-genai-2026]] — Agency van de leerling over schalen heen: regulatie, integratie, positionering
-- [[mishra-control-vs-agency-history-2025]] — Controle versus agency als de essentiële spanning in de AIED-geschiedenis
-- [[daoism-ai-education-philosophy-2026]] — Alternatieve AI-filosofie: daoïsme als methode voor AI in het onderwijs
-- [[human-autonomy-agency-hri-review-2025]] — Menselijke autonomie en agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Kennisgebaseerd ontwerp voor generatieve sociale robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Agency van leerlingen bevorderen in leren-relevant werk
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-theorie en cognitieve overgave: hoe AI het menselijk redeneren hervormt (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agency van aanstaande leraren tijdens GenAI-interacties bij ontwerpen voor leren (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatoire visie: agency als zero-sum met toolagency
-- [[chen-zou-genai-group-assessment-agency-2026]] — Drie patronen van agency in GenAI-gemedieerde groepsbeoordeling: geïntensiveerd, beperkt en niet uitgeoefend
-- [[ai-integrated-teaching-identity-tensions]] — Principegeleide selectiviteit als agency van de leraar in AI-geïntegreerd lesgeven (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Weigering als diagnostisch bewijs: niet-gebruik als gesitueerde relatie en het ongelijke recht om AI af te wijzen (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemische autoriteit geclaimd via onderbreking, correctie en weigering in plaats van maximaal toolgebruik
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wie handelt, wie weet, wie antwoordt? Een corpusondersteunde discoursanalyse van agency, epistemische verantwoordelijkheid en verantwoording in onderzoek naar generatieve AI in het hoger onderwijs
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open vragen naar vaardigheidsbehoudende afhankelijkheid bij reflectieve AI-betrokkenheid
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competentie versus agency als de doelen van AI-onderwijs, en de heuristiek van geïnformeerde AI-agency (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Mediatie door de leraar als de voorwaarde die GenAI een artefact voor kritiek houdt in plaats van een autoriteit (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Agency van de leraar als hulpbron die via ontwerp wordt gemobiliseerd, met gereedheid beoordeeld op artefacten in plaats van gebruik (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balanceren van agency van leraar en student in co-orchestratietools voor realtime dynamische koppeling (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix en Ecological Authority Integration Model: vier configuraties van wie interpreteert, en de ecologische lagen die ze verschuiven
-- [[gyekye-selves-apprenticeship-2026]] — Studenten van kleur in leerlingschapsprogramma's vormden zichzelf via AI door weigering, onderhandeling en erkenning ("culturele vlakheid"); Institutionele AI-geletterdheid en Recognition Bandwidth
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Gedeelde epistemische agency in 6,788 ChatGPT-ondersteunde beurten van wetenschappelijk schrijven in het secundair onderwijs (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Ervaren eigenaarschap daalde alleen waar het hele essay werd gedelegeerd; gebruikers van planning en review evenaarden niet-gebruikers (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Wie doet het denken? Agency van eerstejaarsstudenten karakteriseren in hun AI-interacties

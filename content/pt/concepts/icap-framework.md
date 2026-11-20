@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -103,27 +105,3 @@ O desenho da tarefa, e não apenas o desenho da ferramenta, define o teto. Entre
 **\"Um tutor de IA produz automaticamente engajamento interativo porque conversa.\"** A conversa é o meio, não o modo. Um diálogo em que o sistema fornece toda contribuição substantiva é passivo para o estudante que veste uma interface interativa, que é a mesma confusão que a [[student-engagement|literatura sobre engajamento]] documenta entre atividade comportamental e investimento cognitivo.
 
 **\"Modos mais altos do ICAP são sempre melhores.\"** Eles custam mais, e a ordenação é sobre aprendizagem por unidade do processamento relevante, e não sobre o que uma aula deveria sempre almejar. A fluência fundacional pode exigir repetição ativa antes que o trabalho construtivo seja possível; o erro é se acomodar ali, não passar por ali.
-
-## Conceitos conectados
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Artigos conectados
-
-- [[icap-cognitive-engagement-llm-agents]] — Framework ICAP estendido para mensurar engajamento com anotação humana vs. por LLM
-- [[hingle-collaborative-ai-literacy-2025]] — Letramento colaborativo em IA nos quatro modos do ICAP
-- [[interactive-learning-dashboards-engagement]] — O ICAP como crítica ao engajamento raso da analítica de aprendizagem
-- [[multimodal-learning-genai]] — ICAP e engajamento cognitivo no desenho de aprendizagem multimodal
-- [[llm-facilitation-timing-online-discussions]] — Momento da facilitação por LLM em discussões colaborativas online
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Scaffolding adaptativo do ICAP num ITS (BKT vs. DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — Modelo de profundidade cognitiva do ICAP num agente generativo de simulação de estudantes
-- [[assessing-student-drive-framework-2025]] — Avaliação ancorada no ICAP da interação reflexiva com GenAI

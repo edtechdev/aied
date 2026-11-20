@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -41,12 +42,3 @@ Pro vedoucí institucí TVET, kteří rozhodují, co dělat nejdřív, pro učit
 ## Poznámky a upozornění
 
 Jde o doporučení, nikoli hodnocení. Průvodce neuvádí žádná výsledková data a jeho institucionální příklady — model učení s AI integrovanou do obsahu na College of the North Atlantic v Kanadě a keňský standard průmyslové praxe TVET z roku 2023 — jsou popisné rámečky čerpající z projektových zpráv, nikoli nezávislé pokusy. Přílohy se samy označují za orientační; škála zralosti je pomůcka pro diskusi, nikoli měřicí nástroj. Bezpečnostně kritická a regulovaná povolání dostávají vlastní kapitolu, ale ta spíš argumentuje stanovisko k lidskému dohledu, než aby nabízela detail na úrovni regulace. Licence CC BY-SA 3.0 IGO umožňuje úpravy a opětovné zveřejnění s uvedením autora a se stejnou licencí.
-
-## Související pojmy
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

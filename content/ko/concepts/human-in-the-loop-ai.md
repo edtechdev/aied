@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,7 +88,6 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **지원적 분석 파트너로 재구성됨.** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone 외(2026)]]는 인간 개입 AI를 승인 관문에서 지원적 분석 파트너로 재구성하며, 그 오분류와 경계 사례가 걸러 낼 결함이 아니라 인간의 의미 협상에 투입되는 입력이 된다고 봅니다. 18,883개의 표지된 표본에 대한 문장 수준 코딩에서, 모형은 구성개념 존재를 전반적으로 81.94%의 정확도로 탐지했지만 품질이나 관련성을 판단하지는 않았으므로, 논쟁적인 사례는 인간의 코드북 개선으로 되돌려졌습니다.
 - **학습자 주체성.** 인간을 고리에 남겨 두는 것은 [[agency]]를 보존하고 [[self-regulated-learning]]을 뒷받침하여, 완전히 자율적인 지원이 유발할 수 있는 [[cognitive-offloading|과의존]]에 맞섭니다.
 
-
 - **학생들 자신이 인간을 고위험 쪽에 둡니다.** 학부생 93명 가운데, 81.7%는 총점의 40%를 차지하는 기말 논문에 인간 채점을 선호했고, 93명 중 75명은 AI가 채점자를 대체하지 않고 보조하기를 원했으며, 69명은 AI 채점이 항상 인간의 검토를 받기를 원했습니다([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli 외(2026)]]).
 - **신뢰와 보정.** 투명한 인간 감독은 [[trust-calibration]]을 뒷받침합니다 — 학습자와 교수자가 자격 있는 인간이 시스템 뒤에 서 있다는 것을 알기 때문입니다.
 - **검토 전에 기준을 보이면 합의가 높아진다.** [[calibrating-trustworthiness-llm-education-2026|Coscia 외(2026)]]는 검토자가 LLM 응답을 비교할 때 신뢰성 지표를 표면화하면 평가자 간 합의가 Krippendorff's alpha 0.3987에서 0.4931로 상승한다는 것을 발견하고, 더 많은 지표를 더하는 것은 대가 없이 인지적 부담만 더했습니다.
@@ -125,7 +126,6 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **AI에서 전문가로의 상향 처리는 인간 개입의 움직임이다.** SCAN 틀은 학습자의 거리에 따라 과제를 생성형 AI의 네 모드에 배정하고, 올바르게 배정된 AI 과제 안에서의 수동적 [[student-engagement|참여]]를 학습자를 AI에서 전문가 지원으로 옮기는 잘못된 기술화 신호로 읽으며, 인간을 인식론적 감사자로 둡니다([[ai-teammate-task-distribution-medical-training-2026|Tsim 외(2026)]]).
 - **AI 도입 조언에 대한 감독.** 회의적인 사용자가 상담하는 [[conversational-ai|대화형 AI]] 시스템은 도입을 권장하도록 기울어져 있을 수 있으므로, 인간 감독과 독립적 평가가 필수적입니다. 대부분의 최전선 모형이 회의적인 [[k-12]] 직원을 [[student-engagement|참여]] 쪽으로 돌린다는 것을 보여 주는 감사는, 비판적 의존이 아니라 투명하고 감사 가능한 AI 조언의 필요성을 강조합니다.
 
-
 그 보호장치가 얼마나 강한지는 [[automation-bias|자동화 편향]]에 달려 있습니다. 수락하거나 거부할 단지 형식적인 기회는, 인간이 산출물에 복종한다면 그 판단의 생산 안으로 인간을 들여놓지 못하며, 지식베이스는 그들이 얼마나 자주 그렇게 하는지를 보여 줄 블라인드 비교를 수행하지 않았습니다.
 
 ## 흔한 오해
@@ -133,67 +133,3 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **"시스템의 권고를 보여 주면 인간이 그것을 더 잘 감독합니다."** **시스템이 선호하는 답을 감추는 것은 교정적이라기보다 보호적입니다**. **권고된 입장을 결코 드러내지 않은** 다중 에이전트 토론에서 AI 답으로의 해로운 전환이 **줄었습니다**. 공개는 순응을 초대했고, 감춤은 판단을 뒷받침했습니다.
 - **"인간 개입은 사람 하나, 결정 하나를 뜻해야 합니다."** [[teacher-role|교사]] 에이전트, 조교 에이전트, 동급생 원형으로 이루어진 다중 에이전트 교실이 칭화대학교에서 **500명이 넘는 학생과 10만 건이 넘는 학습 기록**으로 배치되었습니다. 감독은 감독자 수를 늘리는 것이 아니라 배치 자체를 통해 확장됩니다.
 - **"AI 산출물을 검토하는 일은 직관적입니다."** **23명의 교육자를 대상으로 한 피험자 내 연구**에서 검토 기반 접근은 **모든 CTML 원칙을 개선했고(평균 평점 3.07에서 3.86, p < .01)**, 교육자들은 생산 효율성도 호의적으로 평가했습니다. 검토는 구조화된 방법 아래에서 향상되는 기술입니다.
-
-## 연결된 개념
-- [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
-
-- [[automation-bias]] — 인간이 고리 안에서 실제로 개입하는지를 결정하는 것
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — human judgment inside an automated support flow
-
-## 연결된 문서
-- [[lee-learner-question-types-ai-education-2026]] — 전문가가 표지한 질문 분류: 인간이 표지, 보강, 오류 분석을 담당함 (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — 에이전트형 GAI 강좌 설계의 세 번째 층으로서의 인간 감독과 거버넌스 (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — 학생 중심 지능형 튜터링 시스템의 가치 민감형 설계 (튜터링 순환 속 학습자)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 전국 쓰기 평가에서의 인간 참여형(HITL) AI 지원 채점 (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — 의료 훈련에서 AI 과업 배분을 다시 생각하는 SCAN 틀 (Tsim et al. 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다 (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — 안드라고지를 지원하는 AI의 적용 (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — 멘토링과 AI로 체계적 문헌 고찰에 비계 제공하기 (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — 교수자가 감독하는 AI 지원 채점 및 피드백
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면접 훈련을 위한 비계 지향 다중 에이전트 대형 언어 모형 시스템의 평가
-- [[tripartite-feedback-framework-ai-assessment-2026]] — 삼분 틀: 피드백을 인식론적 지위에 따라 분류하고 AI 개입을 위한 다섯 가지 경계 원칙 제시 (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — 특수 교육에서의 AI 지원 사회 이야기 개입: AdaptED Stories의 설계
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 검증 가능한 코딩을 위한 단정 기반 스키마
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수 평가에서 NLP의 범위 검토 및 증거 지도, 2015–2026
-
-- [[llm-grading-assistants-public-health-2026]] — 동일한 LLM 채점 보조 도구를 다른 날 재실행하면 Krippendorff의 알파 0.625 수준으로만 재현됨
-- [[when-students-prefer-ai-scoring-feedback-2026]] — 학부생은 중요한 과업에서는 인간 채점을 선호하고, AI는 대체재가 아니라 보조 수단으로 여김
-- [[student-query-demand-hybrid-ai-support-2026]] — 학생이 실제로 묻는 것: 하이브리드 지원 체계에서의 질의 수요 구조와 자동화 가능성
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — 교육 AI에서 "인간 개입" 접근의 재구상: 학습과학적 관점
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 과학 교육에서 생성형 AI를 위한 네 층 HITL 구조 (Zhai et al. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 연구 도구로서 LLM 행동 구획을 검증하는 코더들 (Fonteles et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템이 선호하는 답을 감춘 것이 잘못된 AI 조언에 대한 순응을 교정적이 아니라 보호적으로 줄였다
-
-- [[capodieci-humanities-hil-2026]] — 인간 점검이 어디에 놓이는지와 누가 그 과정을 저술했는지를 구분한다(Capodieci 등 2026)
-- [[shi-human-ai-complementarity-safety-2026]] — 평정자 416명, 항목 3,957개: 후보 우선 지원이 모형이 틀린 항목의 오류 탐지를 36.7%에서 20.6%로 낮춤 (Shi et al., 2026)

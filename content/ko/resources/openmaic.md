@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,8 +45,3 @@ ai_assist:
 ## 참고 사항
 
 MIT 라이선스이며, 영어와 중국어 사용자 가이드와 Discord 및 Feishu의 활발한 커뮤니티가 있습니다. 모형 중립적입니다: 최소한 하나의 LLM 제공자 키를 공급해야 하며, 선택적 로컬 구성 요소(Lemonade는 로컬 모형용, FunASR은 음성 인식용)로 스택의 더 많은 부분을 오프라인에서 실행할 수 있습니다. 따라서 "무료"는 소프트웨어를 설명하는 것이지 추론 비용을 설명하는 것이 아닙니다. 뒤에 있는 논문은 *Journal of Computer Science and Technology*(2026, DOI 10.1007/s11390-025-6000-0)에 게재되었고, 저장소는 2026년 9월까지 스타 38,000개를 넘었습니다.
-
-## 연결된 개념
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -75,40 +77,3 @@ IBL의 질문 주도적이고 과정 중심적인 구조는 생산적인 AI 사�
 **"탐구는 정의상 비구조적이다."** 교수자는 스캐폴딩하며, 구조는 내용 전달이 아니라 질문 설계와 성찰 주기에 있습니다. 스캐폴드를 제거한다고 탐구가 더 실제적이 되지는 않습니다. 스캐폴드가 없는 것이 될 뿐입니다.
 
 **"학생이 흥미를 가지면 학생 주도 질문은 잘 형성될 것이다."** 다룰 수 있는 질문을 생성하는 것이 바로 개발 중인 기술이며, 그래서 좋은 질문을 제공하는 시스템은 그 활동이 가르치고자 존재하는 탐구 기술을 대신 수행한 것입니다.
-
-## 연결된 개념
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — 생산적 실패
-
-## 연결된 문서
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM에서 탐구 기반 학습을 위한 ChatGPT(체계적 검토)
-- [[dai-chatbots-problem-posing-primary-2026]] — 초등 과학에서의 GenAI 챗봇과 문제 제기
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM 주도 환경에서의 IBL 패턴(Bloom의 관점)
-- [[mujib-ai-ibl-creative-math-2026]] — AI 지원 IBL과 창의적 수학 수행
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI와 고차원적 사고 메타 분석
-- [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[lukesova-clue-before-correction-2026]] — 자율 학습을 위한 ChatGPT: 정정 이전의 단서
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 광합성와 호흡에서의 AI 지원 안내 탐구(과학교사 교육)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — 학부 논문과 연구 기반 학습을 뒷받침하는 AI 기반 정보 추출(An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — 기후 변화에 관한 사회과학적 쟁점에서의 AI 지원 탐구
-- [[geoscience-field-learning-genai-2026]] — GenAI가 학습자가 알아차리는 것을 미리 구조화하지 못하게 하는 현장 우선 교수 모형(Choi 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 인간 촉진자 대 AI 매개 문제기반 학습: 내용 이득은 같지만 촉진자 없이는 비판적 사고가 약함(Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 다섯 탐구 단계에 걸친 66개 연구 지도, 탐구 기술을 측정한 연구는 8개뿐

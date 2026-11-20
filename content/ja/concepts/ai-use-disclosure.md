@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,45 +96,3 @@ AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]
 - **「学生が AI の利用を隠すのは、不正直だからである」** その駆動要因は記録されており具体的です。経済学の学生の**約 34% だけ**が AI の利用を認め、開示はさらにまれで、それは**罰への不安**に駆られていました。別の研究では **66% が決して、またはめったに開示せず**、**学問上の罰への恐怖が最大の理由**でした。データが示唆するのは政策の設計であり、性格ではありません。
 - **「開示の要件は低コストの統制である」** **74% の非順守率**は、結果として生じる記録を、記録がないより悪いものにします。完全に見えるが完全ではないデータセットであり、機関は信頼できない標本に基づいて決定を行っているのです。
 - **「モデルがどう使われたかを開示すれば十分である」** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk（2026）]]は、開示はモデルの利用を記録するが、責任ある利用には主張の水準の著者の保証、すなわち貢献者が主張を理解し、正当化し、擁護する能力が必要だと論じます。出力が実質的な選択を形作る[[cognitive-offloading|認知的委任]]と、そうしない日常的な委任とを分けるのです。
-
-## 関連する概念
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — 開示が可視化しようとする害
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — 学習者が開示せず隠すことを選ぶ理由
-
-## 関連する記事
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM による分割：検出の確信と、申告が不適切な利用を明らかにするリスク（Liu et al. 2026）
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 鏡像の方向: AI が仕事を採点するときを学生に伝え、アップロードの前に同意を求める
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Disclosure as the boundary between assistance and misrepresentation across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
-- [[authorial-warrant-ai-supported-scholarship-2026]] — 開示の規則では足りないとき: AI 支援の学術における著者の保証と判断（Mirończuk 2026）
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI の開示ラベル、知覚された真正性、AI 生成の教材動画への信頼
-
-- [[benmessaoud-genai-course-materials-faculty-2026]] — 教材における GenAI: 教員による利用と認識

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -118,53 +120,3 @@ Teori geliştirme ile [[philosophy-of-ai-in-education|eğitimde yapay zeka felse
 
 - Kuramsal bir katkı amaçlanıyorsa yapılandırma karşıtlıkları için tasarım yapılmalıdır. Teori geliştirme olarak yayımlanan ortalama-etki denemesi, alanın en yaygın ve en az yararlı çıktısıdır.
 - Sunulan her çerçeveye açık yanlışlanabilir önermeler eklenmeli ve hangi yapılandırma farklarının bunları çürüteceği raporlanmalıdır.
-
-## Bağlı kavramlar
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Bağlı makaleler
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — İşlevsel sınıflandırmayı genişletmek: sınıflandırılabilen 154 yayının 90’ı (%58,4) özgün dört kategorinin dışında kalıyor (Ranieri ve Biagini 2026)
-- [[ai-connectedness-adolescent-mental-health-2026]] — Yapay zekâ bağlılığı: sonraki sınamalar için altı yanlışlanabilir önermeli üç boyutlu bir yapı
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Bilişsel ortaklık döngüsü
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Yurt dışında eğitimde yorumlayıcı etkenliğe uygulanan arzu edilen güçlükler ve verimli başarısızlık
-
-- [[yan-agentivism-learning-theory-ai-2026]] — İnsan-YZ etkileşimi için, dört mekanizma ve sınamaya açık altı önermeyle orta-ölçekli bir öğrenme kuramı (Yan ve Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aldatıcı genelleme: uyarlanabilir ustalık, öğrenenler bir eylemi ne zaman yapmamalı olduklarını bilmeden pratiği durdurabilir (An, McLaren ve Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Yeni bir öğrenme kuramı olarak Üretkencilik
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemik ortak-etkenlik teorisine doğru
-- [[du-yuan-epistemic-dependence-2026]] — İlişkisel epistemik etkenlik ve üretken güvenme/zararlı bağımlılık sınırı (Du ve Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Eksik bilişsel taban (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Bilişsel umum mal ve uzmanlığın yenilenmesi
-- [[genai-performance-vs-learning]] — Performans karşı öğrenme
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemik YZ okuryazarlığı (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Sertifika ve bilişsel vesayet
-- [[ai-cognitive-partner-co-regulation-learning]] — Ortak düzenlemede bilişsel ortak olarak YZ
-- [[epistemic-proactivity-math]] — Matematikte epistemik proaktiflik
-- [[strydom-human-gai-paradigms-2026]] — Epistemolojik inançlara dayanan yedi insan-üretken YZ katılımı paradigması
-- [[critical-thinking-paradox-genai-learning-2026]] — Eleştirel düşünme paradoksu
-- [[dollinger-equitable-assessment-ai-2026]] — Üretken YZ altında eşitlikçi değerlendirme
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-Sistem Kuramı ve bilişsel teslimiyet: YZ insan akıl yürütmesini nasıl yeniden şekillendirir (Shaw ve Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Üretken YZ çağında Soruşma Topluluğu’nu yeniden kavramsallaştırmak
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Üniversite öğretmenlerinin üretken YZ deneyimleri ve algıları: kırılganlık, değerlendirmeyi yeniden düşünme, risk altındaki öğrenci öğrenmesi (Farazouli ve ark. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternatif YZ Felsefesi: Eğitimde YZ için yöntem olarak Taoizm
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: eğitim diyaloglarının denetlenebilir kodlaması için iddia temelli şemalar
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Üstbilişsel mülkiyet: yapı tanımı, sınırlar ve bir araştırma gündemi
-- [[synthetic-position-self-authorship-2026]] — Sentetik pozisyon: sentetik terfi ve yetkisizliği bir çapraz öngörüyle adlandıran diyalojik benlik girişimi
-- [[capability-decision-model-teacher-readiness-2026]] — Dört çürütme koşuluyla yanlışlanabilir, yetenek öncelikli öğretmen hazır olma modeli
-- [[webb-pck-genai-2026]] — Toplulukça doğrulanmış bilgiyi taklit eden, güvence olmadan üretilmiş çıktı için üç vinyet ve yeni bir yapı: sözde-cPCK (Webb ve ark. 2026)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -146,77 +148,3 @@ ai_assist:
 - **"تحيّز تصحيح النماذج اللغوية الكبيرة سبب لهجره."** في **تقييم كتابي وطني واسع النطاق**، أظهر مصحّح نموذجي **تحيّزًا محافظًا منهجيًا (خفض الدرجات)** — إشكالي كدرجة نهائية و**مفيد محتمل كإشارة فرز**. فالتحيّز ذو الاتجاه المعروف أداة مختلفة عن تحيّز لا يمكن التنبؤ به.
 - **"تضخّم الدرجات بعد الذكاء الاصطناعي مجرد تخمين."** في **دراسة فروق في الفروق لأكثر من 500,000 درجة عبر 319 مقررًا (2018-2025)**، **ارتفعت حصة درجات A** في المقررات ذات المهام الأكثر تعرّضًا للذكاء الاصطناعي (الكتابة، والبرمجة). وتركّز الأثر حيث كانت المهام متعرّضة.
 - **"تبنّى أعضاء الهيئة التدريسية الذكاء الاصطناعي على نطاق واسع."** **رفض 62.4% (53)** استخدام الذكاء الاصطناعي التوليدي كليًا، وكان استخدام المتبنّين **محصورًا في معظمه في التدقيق اللغوي (43.8%) وفحص الوضوح (34.4%)**. فنمط التبنّي حذر وضيّق، وهو ما يغيّر ما تحتاجه حجة الصدق لتغطيته.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — سبب اقتراح دليل المسار حين لم يبقَ المخرَج يُحدِّد المؤلف
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## المقالات المتصلة
-
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — من ضبط المصدر إلى التصميم للدليل: أربع مقترحات مختبرة مقابل البحث والسياسة (Ansari 2026)
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — ارتباط تشابه التضمين بالدرجات البشرية بلغ 0.198 في أفضل حالاته
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — الذكاء الاصطناعي القابل للارتداء يُذيب الفصلية والقابلية للملاحظة، فيمكن أن يبقى المرشّح المُراقَب غير قادر على إظهار قدرة غير مساعَدة (Corbin, Sharpe & Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — قابلية التأثّر على مستوى البرنامج بمعيار النجاح/الرسوب ومعايير التصحيح التي تُمرّر القيم الموضوعة (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — الإذن وحده لا يُضعف الصدق: الانخراط لا يتأثّر باستخدام GenAI؛ والتأمّل يقاوم الاستبدال المعمّم
-- [[ai-agents-joyful-assessment-third-space-2026]] — وكلاء الذكاء الاصطناعي والتقييم البهيج والفضاء الثالث
-- [[opraise-automated-marking-ai-assessment-2026]] — تقرير OpRaise: تصحيح 761 مقالًا جامعيًا بالذكاء الاصطناعي في ثلاث جامعات بريطانية
-- [[kumar-genai-computing-education-systematic-review-2026]] — حين يولّد الذكاء الاصطناعي الأثر المُصحَّح: مشكلة الصدق في تعليم الحوسبة وأدلة إعادة التصميم
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — امتحانات الواجبات المنزلية: قوّم الطور الكيفي، وانقل الاستدعاء إلى القاعة (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — التصحيح المساعد بالذكاء الاصطناعي بمشاركة الإنسان في تقييم كتابة وطني واسع النطاق (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — توليد متغيّرات تقييم مكافئة بنيويًا (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — إزاحة المهام إلى الذكاء الاصطناعي كآلية لتضخّم الدرجات (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — وكلاء الذكاء الاصطناعي يُنجزون مهام أنظمة إدارة التعلّم؛ افتراض الإنتاج البشري والصدق الوكيلي (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — فهل تقيس أدوات التقييم الشيء نفسه بالنسبة للبشر وللنماذج اللغوية الكبيرة؟ (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — إطار متعدد الوسائط للإدراك التجسيدي في الشروح الشفهية
-- [[assessing-quality-ai-generated-exams-field-2025]] — تقويم جودة الامتحانات المولَّدة بالذكاء الاصطناعي: دراسة ميدانية واسعة النطاق
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — أحكام القيمة في تصحيح الأعمال المُساعَدة بـGenAI: الأمانة والثقة والصدق والشفافية ذات الاتجاهين (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — إجراء سوء السلوك كمشكلة صدق
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — صدق التقييم في ظلّ معلومات ناقصة: نموذج منطقة الاستجابة
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — أيّ استنتاج في خطر؟ فصل خمس ضغوط للصدق وفحص ما يُضعفه التصميم الجديد (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — تقييم STEM كمشكلة صدق وتصميم وتعريف للقدرة لا مشكلة غش: دليل المسار والامتحانات الشفهية وأمانة المهام المولَّدة بالذكاء الاصطناعي (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — الذكاء الاصطناعي في تعليم فيزياء الجسيمات: مشكلات بحثية ومهارات أساسية
-- [[student-perspectives-ai-writing-grading-2026]] — من ينبغي أن يصحّح عملي؟ وجهات نظر الطلاب في التقييم الشفاف للكتابة بمساعدة الذكاء الاصطناعي في التعليم العالي
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — تقييد دعوى التعلّم في النموذج التجريبي للتدريس الخصوصي بالذكاء الاصطناعي في السلفادور (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — ما تحتويه فعلًا ملفات اتهامات سوء السلوك من أدلة، ولماذا لا تُنبئ جودة الدليل بالنتائج (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — دقة أداة الكشف 0.69 و0.61 على 192 نصًا؛ فشل الكتابة الهجينة وخطر التصنيف الخاطئ لكتابة EFL (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — مناهضات واسعة التعريف: النقل النصي ليس توليدًا، ولذلك تُعاقب القاعدة ما لم تُصمَّم على الإمساك به (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — نزاهة تُرى من خلال الحكم التقييمي لا من خلال الكشف (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — فهل تستطيع النماذج اللغوية الكبيرة إنتاج شرائح تقديرات التعليم العالي؟ دراسة بين النماذج لمعايرة وتحيّز التصحيح في كتابة طلابية أصيلة
-- [[ai-assisted-physics-lab-report-assessment-2026]] — التقييم المساعد بالذكاء الاصطناعي لتقارير مختبرات الفيزياء التجريبية: الإمكانات والحدود والدعم لممارسة التدريس
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — أربعة أهداف للاستنتاج وثلاثة أخطاء إسناد حين يُقرأ المنتج دليلًا على قدرة المتعلّم (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المولَّدة بالذكاء الاصطناعي في مقرّرات علم البيانات
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: مخطّطات قائمة على التأكيدات للترميز القابل للتدقيق في الحوارات التعليمية
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — تقديرات الطلاب للتوافق المنهجي تتبّع صعوبة المفردة (rho = 0.762) لا المحتوى (Vogt et al. 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — أعطى إعادة تصحيح تقديمات متطابقة على مدى خمسة أيام ألفا كريبندورف 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — مؤشر قابلية تأثّر الذكاء الاصطناعي: معظم الدرجات المُقوَّمة تستند إلى نسب لا يمكن التحقّق منها، ولذلك يقوم الصدق على دليل كافٍ في مراحل مفتاحية لا على أقصى ما يمكن من التحصين
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — مقياس قابلية التكيّف التربوي ارتفع بينما انخفضت تقديرات الخبراء المعميّين: صدق القياس لا يستلزم صدق الاستهداف (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — هل تحرّك الهدف مرة أخرى؟ الذكاء الاصطناعي التوليدي وصدق درجات إتقان الإنجليزية
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — بناء النتيجة ينقل التقدير: g = 0.819 للتعلّم الداخلي مقابل g = 1.958 للمنتَج المشترك
-- [[porcaro-ai-grading-benchmark-2026]] — ما بعد الاتفاق: 22 مصحّحًا مستدعى يواجهون فحوصًا تُعرف إجابتها الصحيحة، ومعظمها قابل للإقناع (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — سياق المتعلّم يغيّر درجات مصحّح النموذج اللغوي على العمل نفسه، والاتفاق مع المدرّس لا يسجّل ذلك (Porcaro 2026، الورقة VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — صيغة المهمة وتعليمات استخدام الذكاء الاصطناعي بوصفها ما يمكن للأثر أن يُثبته (Liu وLiu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — ما بعد تنقيط الاستجابة: إطار إشراف معرفي واعٍ بالذكاء الاصطناعي للتصحيح الآلي للإجابات الرياضية القصيرة

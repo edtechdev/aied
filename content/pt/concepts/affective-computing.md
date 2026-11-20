@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -69,33 +71,3 @@ A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua 
 - **"Mais engajamento significa mais aprendizagem."** Um estudo com sensoriamento cerebral descobriu que uma **interface restrita e adaptativa elevou o engajamento cognitivo (p = ,018) enquanto o chatbot irrestrito produziu ganhos de aprendizagem maiores**. A interface que engajou mais ensinou menos. Engajamento não é um proxy para aprendizagem, e otimizá-lo pode mover o resultado na direção errada.
 - **"O apoio emocional é um acréscimo suave ao apoio cognitivo."** Em um pequeno [[rct]] de sala de aula (**42 concluintes de 252 participantes**), a versão com mindfulness alcançou **aprendizagem de álgebra similar em menos tempo e com menos pedidos de dicas** do que apenas o apoio cognitivo. O componente afetivo mudou a eficiência, e não o teto, o que é uma afirmação diferente e mais interessante do que "isso ajuda a aprendizagem".
 - **"Achados afetivos de amostra pequena transferem."** 42 concluintes de 252 participantes é um desenho ao mesmo tempo encorajador e frágil: a taxa de conclusão é, ela mesma, um achado sobre quem persistiu, e o efeito está delimitado a esse grupo.
-
-## Conceitos conectados
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Aprendizagem socioemocional
-
-## Artigos conectados
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Respondendo a alertas emocionais gerados por IA: intervenção dos professores e engajamento dos estudantes na sala de aula de matemática
-- [[wang-teacher-student-centered-agents-physics-2026]] — Percepção de empatia a partir de papéis de agentes desenhados por prompt na aprendizagem de física (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Além da resolução de problemas: grandes modelos de linguagem para suporte emocional e reflexivo na aprendizagem de matemática
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Avaliação da qualidade da sala de aula ciente da emoção via monitoramento em tempo real baseado em IoT (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: avaliação da ansiedade do estudante aumentada por LLM (2026)
-- [[socratic-nuclear-ai-learning]] — Sócrates foi nuclear: comparando estratégias de interação para IA na aprendizagem
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reenquadrando a regulação emocional apoiada por IA: sinais precisam de contexto, não de interpretação autônoma

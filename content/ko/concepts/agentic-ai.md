@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -184,65 +186,3 @@ ai_assist:
 **"교육 연구자들이 만들기 때문에 교육에서의 에이전틱 시스템은 교수법에 기반을 둔다."** 근거는 다르게 말합니다. 한 범위 고찰은 에이전틱 AI 연구의 **29%(474개 중 138개)**만이 시스템을 교육 이론에 명시적으로 기반을 두었음을 발견했습니다. 기술 지향적 작업과 교수법 지향적 작업 사이의 학문적 분열은 개별 저자의 부주의가 아니라 이 분야의 조건이며, 그래서 작동하는 시연은 예상되는 산출물이고 *학습을 위해* 작동하는 시연은 소수 사례입니다.
 
 **"학습을 개인화하고 심화하는 에이전트는 챗봇보다 순이익이다."** 그것은 특정한 맞바꿈을 동반합니다. 에이전틱 시스템은 [[agency|주체성]]를 위협하고 학습이 의존하는 인지적 노력의 [[cognitive-offloading|오프로딩]]을 유도하며, 감독 없이 더 많은 단계를 수행함으로써 그 오프로딩을 알아차리기 더 어렵게 만듭니다. 자동화 대 학습의 긴장은 그 이점에 덧붙는 단서가 아니라 이 범주의 중심적인 분석 문제입니다.
-
-## 연결된 개념
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## 연결된 문서
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — 손글씨 시험 60장의 에이전틱 채점: 전체 r = .97, 평가 문항에서 카파가 .65로 하락
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — 자동 기술 추출을 위한 AI 접근 비교: 임베딩에서 엔지니어링 교육을 위한 에이전틱 시스템까지
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — 에이전틱 AI에서 참여로 가는 경로로서의 자율성, 유능감, 관계성과 사회적 존재 (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 기쁨의 평가, 그리고 제3의 공간
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE 프레임워크: 고등 교육에서의 제한되고 인간이 감독하는 에이전틱 GAI (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — AOE 증거/감독 프레임워크를 도입하는 비판적 통합적 고찰
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — 고등 교육에서의 포괄적 에이전틱 다중 에이전트 AI 생태계에 관한 관점
-- [[baradziej-agentic-ai-higher-education-2026]] — 고등 교육에서 에이전틱 AI의 역할에 대한 체계적 고찰 (48개 연구; 여섯 역할; 삼분된 책임 있는 통합 프레임워크)
-- [[kostopoulos-agentic-ai-education-2025]] — 교육에서의 에이전틱 AI: 최신 기술과 향후 방향 (IEEE Access 설문; 조작적 정의 + 분류 체계)
-- [[agentic-ai-education-scoping-review]] — 에이전틱 AI in education에 대한 범위 고찰 (474개 연구)
-- [[agentic-ai-pedagogical-best-practice-2026]] — 자동화와 학습 사이의 긴장
-- [[tool-invariant-framework-agentic-ai]] — 에이전틱 AI 시대에 계산적 방법의 교수와 평가
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: 교수 설계 에이전트 벤치마킹
-- [[adversarial-stress-testing-role-playing-agents]] — 역할극 에이전트의 적대적 스트레스 검사
-- [[ai-agents-constructive-conflict-design-education-2026]] — 설계 교육에서의 건설적 갈등 AI 에이전트
-- [[ai-tpack-teacher-multi-agent-workflow]] — 교수자 TPACK와 다중 에이전트 워크플로
-- [[code-gen]] — 코드 생성 에이전트
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 교수법적 LLM 에이전트 벤치마크
-- [[guided-llm-scaffolding-independent-learning]] — 독립 학습을 위한 안내된 LLM 스캐폴딩
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 적응형 학습 에이전트
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — 게임화된 사이버보안 학습 에이전트
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 임상 모의에서의 에이전틱 AI
-- [[bozkurt-ghost-students-agentic-ai-2026]] — 유령 학생과 에이전틱 AI 검증 공백 (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS 과제를 완수하는 AI 에이전트; 인간 생산 가정을 통한 타당성 실패 (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI 웹 에이전트: 학습 경험 평가자로서의 서술 에이전트 (이탈을 예측하고, 학생이 참여하기 전에 설계 피드백을 준다)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — 소프트웨어 PBL에서의 AI 에이전트를 활용한 SDD; 자동화 대 이해
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면접 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템의 평가
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 윤리 훈련 에이전트: 윤리적 성찰과 탐구를 위한 역할극과 토론을 통한 집단 기반 윤리 교육 촉진
-
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — 수정 가능한 역량 프로그램을 중심으로 조직된 에이전트, 구성원으로서의 학습자
-

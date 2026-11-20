@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -79,7 +81,6 @@ ai_assist:
 
 মৌখিকের সততা-যুক্তিও সময়সীমিত: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin প্রমুখ (2026)]] যুক্তি দেন, এআই চশমা ও ইয়ারবাড একটি লাইভ ভাইভার ভেতরে গোপনে তাৎক্ষণিক প্রম্পট পৌঁছে দিতে পারে, কারণ পরিধানযোগ্য এআই কোনো দৃষ্টি-স্থানান্তর বা শনাক্তযোগ্য সংকেত তৈরি করে না, ফলে উচ্চ-আন্তঃক্রিয়াশীল মৌখিক পরীক্ষা আর অনাক্রম্য নয়।
 
-
 - **স্কেলের সিলিংই নকশার সীমাবদ্ধতা।** 73 জন [[cs-education|কম্পিউটিং]] শিক্ষকের একটি কর্মশালায় মৌখিক ও আন্তঃক্রিয়াশীল মূল্যায়নকে ব্যক্তিগত বোঝাপড়ার সবচেয়ে শক্তিশালী প্রাপ্য প্রমাণ এবং সবচেয়ে কম স্কেলযোগ্য প্রতিকার হিসেবে রিপোর্ট করা হয়। প্রশমন যা অংশগ্রহণকারীরা বর্ণনা করেন তা ছিল বিতরণ ও নমুনায়ন: ভাগাভাগি শিক্ষণ-সহায়ক পুল, [[summative-assessment|চূড়ান্ত পরীক্ষার]] নিচে ভারযুক্ত [[peer-assessment|সহকর্মী-মূল্যায়ন]], এবং শিক্ষার্থীদের একটি ঘূর্ণায়মান উপসেটকে প্রশ্ন করা ([[computing-assessment-genai-workshop-report-2026|Akbar প্রমুখ, 2026]])।
 
 ## সাধারণ ভুল ধারণা
@@ -87,36 +88,3 @@ ai_assist:
 - **"মৌখিক মূল্যায়ন স্কেল করা যায় না।"** [[code-review-genai-cs1|CS1 মৌখিক কোড-পর্যালোচনা গবেষণায়]] **সাপ্তাহিক পনেরো-মিনিটের সাক্ষাৎকার প্রতিটি অ্যাসাইনমেন্টের গ্রেডের সত্তর শতাংশ বহন করেছিল**, এবং পেস্ট-করা বনাম মোট অক্ষর তবুও তথ্যবহুল ছিল। খরচ বাস্তব, এবং নকশাটি কোর্স-স্কেলে বাস্তবায়নযোগ্য।
 - **"মৌখিক পরীক্ষা লিখিত পরীক্ষার চেয়ে নরম।"** রিপোর্টকৃত পাইলটে স্কোর **সরাসরি বহুনির্বাচনী পরীক্ষার চেয়ে বেশি ছিল: মধ্যবর্তী মধ্যক 92.5 বনাম 70 (p < .001) এবং চূড়ান্ত মধ্যক 94.2 বনাম 86.4 (p = .002)**। মৌখিক মূল্যায়ন উদার বিকল্প ছিল না।
 - **"একটি সিমুলেটেড সাক্ষাৎ প্রগতিশীল-প্রকাশ কেসের সমতুল্য।"** [[ai-standardized-patient-scaffolding-medical-2026|একশত তৃতীয়-বর্ষের চিকিৎসা শিক্ষার্থীর একটি RCT]]-তে সিমুলেটেড-রোগী ব্যবস্থাকে **প্রগতিশীল-প্রকাশ কেস-উপকরণের** বিপরীতে তুলনা করা হয় — সমতুল্যতার অনুমান নয়, তার সরাসরি পরীক্ষা।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — মৌখিক ও ভাইভা যাচাই-ক্রম, এবং তারা কী প্রমাণ করে ও করে না
-- [[assessment]] — যে বিস্তৃত ক্ষেত্রের ভেতরে এই ফরম্যাট বসে
-- [[authentic-assessment]] — যে নকশা-ঐতিহ্য সততা-যুক্তিটি তৈরি করে
-- [[assessment-validity]] — একটি ফরম্যাট কী মাপার দাবি করতে পারে ও পারে না
-- [[academic-integrity]] — যে চাপ মৌখিক মূল্যায়নকে আবার সামনে এনেছে
-- [[automated-assessment]] — মৌখিক প্রদর্শনের যন্ত্র-সরবরাহ ও স্কোরিং
-- [[ai-detection]] — বিকল্প উত্তর, এবং কেন তা দুর্বলতর
-- [[speech-and-voice-technologies]] — যে কথন-পাইপলাইনে একটি মৌখিক ব্যবস্থা চলে
-- [[multimodal]] — অঙ্গভঙ্গি ও বাচনভঙ্গি মিলিত প্রমাণ হিসেবে
-- [[anxiety-and-stress]] — সরাসরি প্রদর্শনের আবেগগত খরচ
-- [[feedback]] — একটি ভাইভা শিক্ষার্থীকে তার নিজের বোঝাপড়া সম্পর্কে কী বলে
-- [[higher-ed]] — প্রায় সব প্রমাণ যে প্রেক্ষাপট থেকে আসে
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — শাখাহীন এআই সংলাপ-কাজ কাজের দাবিকে কথন-গঠনের সঙ্গে অসামঞ্জস্যপূর্ণ করে
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — লাইভ ভাইভা আর অনাক্রম্য নয়: এআই চশমা ও ইয়ারবাড গোপনে তাৎক্ষণিক প্রম্পট পৌঁছায় (Corbin, Sharpe ও Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — মৌখিক পরীক্ষা ও মূল্যায়নের ব্যবহার নতুন করে ভাবা (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — অসমকালীন মৌখিক মূল্যায়ন: সততা, সম্পৃক্ততা ও পেশাগত যোগাযোগ
-- [[ai-supported-oral-assessment-tvet-2026]] — ভোকেশনাল শিক্ষায় এআই-সমর্থিত মৌখিক মূল্যায়নের নকশা
-- [[aivaluate-anxiety-assessment-2026]] — এআই-মধ্যস্থ কর্মদক্ষতা-ভিত্তিক মূল্যায়নে উদ্বেগ ও অভিজ্ঞতা
-- [[code-review-genai-cs1]] — একটি ভূমিকা-প্রোগ্রামিং কোর্সে মৌখিক কোড-পর্যালোচনা সাক্ষাৎকার
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — মৌখিক ব্যাখ্যা মূল্যায়নে প্রমাণ হিসেবে অঙ্গভঙ্গি
-- [[socratic-tests-conversational-assessment]] — মৌখিক মূল্যায়ন হিসেবে স্বয়ংক্রিয় কথোপকথনমূলক পরীক্ষা
-- [[tool-invariant-framework-agentic-ai]] — এআই-সহায়ক কাজের মৌখিক প্রতিরক্ষা
-- [[ai-standardized-patient-scaffolding-medical-2026]] — সিমুলেটেড-রোগী ব্যবস্থার অধীনে মৌখিক ক্লিনিকাল সাক্ষাৎকার
-- [[pgr-students-genai-uses-qualitative-2026]] — জেনারেটিভ এআই-এর অধীনে ডক্টরাল ভাইভা
-- [[computing-assessment-genai-workshop-report-2026]] — "AI Can Do Your Homework. Now What?" — জেনারেটিভ এআই-এর যুগে কম্পিউটিং মূল্যায়ন নিয়ে একটি অনলাইন কর্মশালার প্রতিবেদন
-- [[assessment-feedback-trilemma-model-2026]] — কোনো ফরম্যাটকে স্থির অবস্থান দেয় না এবং বাস্তবায়নযোগ্যতাকে শিক্ষামূলক অগ্রাধিকার হিসেবে নতুন করে কাঠামোবদ্ধ করে

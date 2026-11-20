@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -55,9 +57,7 @@ Efek jeda — bahwa total latihan yang sama menghasilkan pembelajaran lebih taha
 
 [[memdora-ai-spaced-repetition|Memdora]] adalah contoh paling jelas jeda yang diperlakukan sebagai masalah rekayasa. Ia mendasari penjadwalan pada kurva lupa Ebbinghaus, mengutip angka bahwa sekitar **70% materi yang baru dipelajari terlupakan dalam 24 jam** tanpa peninjauan, dan mengintegrasikan **FSRS-6**, yang dijelaskan sebagai algoritma repetisi berjeda terkini. Argumennya adalah penjadwalan saja tidak cukup: alat yang ada mereduksi interaksi kartu kilat menjadi satu gestur biner, "balik dan nilai sendiri", yang oleh penulis disebut model miskin yang gagal memanfaatkan bukti ilmu kognitif tentang praktik pengambilan. Kontribusi Memdora karenanya adalah **taksonomi 17 jenis interaksi berlandaskan kognitif** di kategori Language, By Heart, dan Exam, masing-masing dipetakan ke bukti terulas sejawat yang ditampilkan pada kartu, ditambah sistem reward berbasis usaha yang mengompensasi keterlibatan kognitif nyata alih-alih kehadiran aplikasi, pipeline pembangkitan terpadu yang membuat kartu pada titik membaca, dan lapisan kelas yang melaporkan [[learning-gains|hasil belajar]] pada tingkat kartu individual.
 
-
 [[bilingual-llm-lecture-companion-srl-2026|Pendamping kuliah bilingual Malhotra (2026)]] menyerang biaya penulisan itu dari ujung yang lain: ia mentranskripsi kuliah bahasa Inggris–Hindi di peramban dan menghasilkan kartu kilat di perangkat, dirancang untuk ruang kelas India tempat data UDISE+ menempatkan akses internet pada sekitar 54% sekolah.
-
 
 [[adaptive-pretesting-retention|Akgun dan Toker (2026)]] menyediakan bukti eksperimental terkuat dalam korpus tentang bagaimana jeda *distrukturkan*. Dalam studi acak tiga lengan atas 89 mahasiswa sarjana pada mata kuliah statistika terapan, ketiga kelompok berlatih dalam sesi berjeda dengan jumlah dan waktu yang identik selama tujuh minggu; hanya struktur interaksinya yang berbeda. Pengambilan berjeda adaptif (G1) mencapai skor pascates tertinggi (M = 78.19) dan usaha latihan teramati tertinggi (M = 0.85); pengambilan berjeda tetap (G2) menyusul (M = 74.55, usaha 0.74); belajar dengan AI yang diarahkan pembelajar tanpa pengambilan yang ditegakkan berada terakhir pada keduanya (M = 67.28, usaha 0.49). Efek multivariatnya signifikan (Wilks' Λ = .664, partial η² = .185), dengan G1 di depan G3 pada retensi sebesar d = 0.92 (p = .003). Detail yang penting secara pedagogis adalah bahwa agen G1 dikonfigurasi untuk *menahan*: probe yang bergantung pada respons untuk [[misconceptions]], permintaan elaborasi setelah jawaban superfisial, kemajuan hanya pada keterlibatan konseptual yang memadai, dan solusi langsung secara eksplisit dikecualikan dari keluaran yang diizinkan. Bacaan penulis sendiri adalah bahwa pretesting merupakan katalis yang dimuat di depan alih-alih intervensi mandiri yang manfaatnya bertahan terhadap akses AI terbuka.
 
@@ -103,35 +103,3 @@ Penyertaan interleaving di sini karenanya bersandar pada keluarga teori yang sam
 **"Praktik pengambilan berarti kuis, dan kuis apa pun dihitung."** Mekanismenya adalah menghasilkan jawaban dari ingatan alih-alih mengenalinya, itulah sebabnya tugas pengenalan pilihan ganda adalah versi yang lebih lemah dari aktivitas yang sama. AI yang menghasilkan butir pengenalan tanpa akhir telah menghasilkan aktivitas dengan nama yang benar dan mekanisme yang salah.
 
 **"AI dapat menyampaikan teknik ini dengan setia, karena tekniknya terspesifikasi baik."** Ia juga dapat dengan diam-diam mengalahkannya. Jeda menuntut sistem menahan materi yang paling mampu disediakannya sesuai permintaan, dan pengambilan menuntutnya untuk tidak menjawab — sehingga efektivitas tekniknya bergantung pada batasan yang tidak punya insentif untuk diterapkan oleh asisten yang menyenangkan.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Urutan pengambilan berjeda, dan biaya retensi dari pemberian bantuan selama pengodean
-- [[desirable-difficulties]] — prinsip yang dioperasionalkan ketiga teknik ini
-- [[cognitive-psychology]] — ingatan, pengodean, dan pengambilan sebagai rumah teoretis ketiganya
-- [[prior-knowledge]] — praktik pengambilan sebagai aktivasi atas apa yang sudah dimiliki pembelajar
-- [[metacognition]] — menilai apakah kelancaran mencerminkan pembelajaran
-- [[self-regulated-learning]] — belajar secara konsisten atas apa yang dapat dijadwalkan atau dijawab AI untuk Anda
-- [[mastery-learning]] — retensi setelah ambang penguasaan, dan jeda yang menopangnya
-- [[knowledge-tracing]] — model yang membuat atau melewatkan keputusan penjadwalan
-- [[cognitive-offloading]] — mode kegagalan ketika pengambilan didelegasikan ke alat
-- [[transfer-of-learning]] — celah kinerja–pembelajaran yang ditangani teknik ini
-- [[formative-assessment]] — titik pemeriksaan alat tertutup sebagai peristiwa pengambilan
-- [[productive-failure]] — mencoba sebelum menerima bantuan
-- [[learners]] — taruhan dari pembelajaran yang bertahan alih-alih lancar
-
-## Artikel terkait
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: pengambilan berjeda adaptif vs pengambilan tetap vs belajar dengan AI yang diarahkan pembelajar selama tujuh minggu
-- [[memdora-ai-spaced-repetition]] — Memdora: penjadwalan FSRS-6 dan taksonomi interaksi kartu kilat yang berlandasan
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: kedalaman penjelasan memprediksi kualitas tugas tetapi tidak daya ingat segera
-- [[rachatasumrit-example-problem-ratio-2026]] — Praktik pengambilan untuk fakta, contoh yang dikerjakan untuk keterampilan; interaksi konten–perlakuan
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Model penelusuran pengetahuan gagal menangkap efek jeda di bawah validasi berbasis waktu
-- [[bilingual-llm-lecture-companion-srl-2026]] — Pembangkitan kartu kilat otomatis yang menghilangkan biaya penulisan praktik berjeda
-- [[student-cheat-sheets-make-or-take]] — Membuat lembar contekan sebagai belajar generatif; mengalihkan pembuatannya ke AI
-- [[knowloop-confusion-to-consolidation-2026]] — Konsolidasi mengajar-kembali memunculkan celah yang tidak ditangkap klarifikasi
-- [[simulating-learner-task-selection]] — Interleaving dan Blocking sebagai strategi pembelajar yang dimodelkan di bawah kendala pemilihan tugas
-- [[nie-personavlm-long-term-personalization-2026]] — Memori siswa longitudinal dan hubungannya yang masih terbuka dengan repetisi berjeda dan kurva lupa
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Praktik pengambilan pada lapisan Tools dalam kerangka belajar-untuk-belajar
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agen yang mengambil lebih dulu melewati praktik pengambilan; argumen bagi friksi yang disengaja
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Ketika Tutor AI Berbicara: Bukti dari Eksperimen Lapangan Acak

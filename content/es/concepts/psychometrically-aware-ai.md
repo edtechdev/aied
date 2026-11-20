@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -57,29 +59,3 @@ La IA psicométricamente consciente se sitúa en la intersección de la [[educat
 - **«Un modelo que puntúa bien está midiendo lo mismo.»** En el mismo instrumento de evaluación, las estructuras de respuesta humana y de LLM **divergen**: un modelo puede puntuar bien mientras mide algo distinto de lo que pretende el instrumento. La coincidencia de puntuaciones es la observación; la equivalencia de constructo es una afirmación aparte que requiere evidencia a nivel de estructura.
 - **«La calibración puede leerse en una sola cifra de precisión.»** **Una sola cifra de precisión puede ocultar un modelo que solo parece calibrado**: pedir a GPT-4o y a Gemini 2.0 Flash que infirieran dimensiones de estilo de aprendizaje a partir de los diálogos de **153 estudiantes de grado** produjo una **precisión moderada que se comportó de forma distinta bajo métricas equilibradas**. La precisión agregada ocultaba un diferencial que las métricas equilibradas exponían.
 - **«Las canalizaciones de calificación automatizada no pueden reproducir un procedimiento psicométrico.»** Los autores reprodujeron una canalización establecida de forma automatizada (**una probabilidad del 67% de responder correctamente al menos 7 ítems de rúbrica para el corte inferior y al menos 10 para el superior**), permitiendo comparar las puntuaciones de ítems de IA y humanas en pie de igualdad. El procedimiento era reproducible; la cuestión del constructo sigue abierta.
-
-## Conceptos conectados
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Artículos conectados
-- [[genai-reliance-scale-problem-solving-2026]] — Una escala validada de la dependencia del estudiantado de la IA generativa al resolver problemas (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con la persona en el circuito para la calificación asistida por IA en la evaluación de escritura a gran escala
-- [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo en las personas y en los LLM? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Alinear la evaluación con LLM con la calibración psicométrica
-- [[llm-item-difficulty-prediction]] — Predicción de la dificultad de los ítems mediante LLM
-- [[cong-confidence-asag-2026]] — Calificación automática de respuestas cortas consciente de la confianza
-- [[multimodal-item-parameter-estimation-2026]] — Estimación multimodal de parámetros de ítems
-- [[competency-based-education-genai-production-2026]] — Educación basada en competencias con IA generativa
-- [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones manuscritas de física (Olimpiada)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimación de la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparación de instrumentos de alfabetización en IA: pares jangle y jingle en 55 constructos
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — La precisión moderada era predicción de la clase mayoritaria al comprobar el recuerdo por clase (Zamanifard, Goudarzi y Robb 2026)

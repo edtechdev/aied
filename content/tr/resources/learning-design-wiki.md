@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,7 +47,3 @@ Tasarım kararını kanıtıyla birlikte isteyen öğretim tasarımcıları ve e
 ## Notlar ve uyarılar
 
 Her sayfadaki güven paneline bakın. Viki, tek bir insan sürdürücü altında dil modelleri tarafından sürdürülür, hiçbir sayfayı bir kişi denetlememiştir ve site bir sayfayı bulgu değil, kaynağı iyi bir ipucu olarak etiketler. İddialar bir tasarım katmanı, bir etki büyüklüğü kodu ve bir titizlik kodu taşır; "etki büyüklüğü yazılmamış" ifadesi kaynağın hiçbirini bildirmediği anlamına gelir, hiçbirinin olmadığı anlamına gelmez. İçerik CC BY-SA 4.0 altındadır, dolayısıyla yeniden kullanım aynı lisansı taşımalıdır; kod ise MIT altındadır.
-
-## Bağlı kavramlar
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

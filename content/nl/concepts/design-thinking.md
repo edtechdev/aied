@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -66,39 +68,3 @@ Design thinking in AI-onderwijs is diep verweven met [[human-ai-collaboration]]:
 **'Design thinking is een proces dat fase voor fase kan worden geautomatiseerd.'** Het is een discipline van problemen kaderen en herkaderen, en dat is precies wat fixatie uitsluit. De fasen automatiseren terwijl het kader ononderzocht blijft, levert competente output voor het verkeerde probleem.
 
 **'AI-agenten die beamen, bieden [[student-support-and-success|studentenondersteuning]] die hun ontwerpdenken versterkt.'** Het productieve gebruik dat hier wordt gedocumenteerd, gaat de andere kant op: [[ai-agents-constructive-conflict-design-education-2026|constructieve conflicten met AI-agenten]] test adversariële prompting die heroverweging afdwingt. Een bevestigende agent versterkt de fixatie; een op tegenspraak gerichte agent is het ontwerp waar een onderwijskundige claim achter zit.
-
-## Verbonden concepten
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Verbonden artikelen
-- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026

@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -42,6 +43,3 @@ ai_assist:
 ## Τι να ξέρετε πριν το υιοθετήσετε
 
 Όλα είναι [[open-source|ανοιχτού κώδικα]] υπό MIT και δωρεάν ως σημείο εκκίνησης για τοπική [[ai-literacy|επάρκεια σε ΤΝ]] ή [[self-directed-learning|αυτοκατευθυνόμενη μελέτη]]. Η υιοθέτηση είναι μεγάλη και ταχεία: περίπου 270.000 αστέρια και 23.000 forks όταν ελέγχθηκε τον Σεπτέμβριο του 2026, με το πιο πρόσφατο commit στις 18 Σεπτεμβρίου 2026. Η επιφύλαξη είναι το εύρος. Οι δεξιότητες προϋποθέτουν το πλαίσιο εργασίας ενός [[human-ai-collaboration|μηχανικού]], είναι οργανωμένες σε κάδους μηχανικής, παραγωγικότητας, παρωχημένων και υπό εξέλιξη, οπότε ορισμένες καταχωρίσεις είναι ρητά ημιτελείς ή αποσυρμένες, και το README χρησιμεύει και ως εγγραφή σε ενημερωτικό δελτίο. Αντιμετωπίστε τις δεξιότητες διδασκαλίας και ερώτησης ως το μεταφέρσιμο μέρος, και περιμένετε να ξαναγράψετε οποιαδήποτε από αυτές πριν βάλετε μία μπροστά σε μαθητές.
-
-## Συνδεδεμένες έννοιες
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

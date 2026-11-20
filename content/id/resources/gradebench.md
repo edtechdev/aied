@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -43,9 +44,3 @@ Pengajar yang memutuskan apakah akan membiarkan alat penilaian merilis nilai tan
 ## Catatan dan peringatan
 
 GradeBench diterbitkan oleh Pensive, platform penilaian AI komersial, sehingga tolok ukur dan produknya berbagi pemilik yang sama; konstruksi tugasnya terdokumentasi dan dapat dipertanggungjawabkan, tetapi perlakukan pembingkaiannya sebagai milik vendor. Tolok ukur ini mencakup ujian STEM dengan rubrik minimal empat butir, yang mengecualikan esai, jawaban singkat, dan unggahan diskusi — format tempat sebagian besar penilaian [[humanities-education|humaniora]] terjadi. Kecocokan rubrik persis adalah metrik yang ketat: dua penilai bisa berbeda pendapat pada satu butir dan sama-sama benar tentang mahasiswa tersebut. Skor-skor ini menggambarkan versi model yang tersedia pada November 2026 dan akan berubah.
-
-## Konsep terkait
-
-- [[automated-assessment]] — praktik yang diukur oleh tolok ukur ini
-- [[assessment-validity]] — kriteria yang diwakili secara proksi oleh skor papan peringkat
-- [[benchmark]] — kelas instrumen lebih luas tempat tolok ukur ini berada

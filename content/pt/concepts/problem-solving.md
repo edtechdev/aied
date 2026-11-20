@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -61,7 +63,6 @@ Para educadores, o balanço da evidência aponta para uma integração estrutura
 
 A resolução de problemas é o desfecho aplicado do [[critical-thinking|pensamento crítico]] e do [[computational-thinking|pensamento computacional]], e é cultivada por meio dos frameworks de [[problem-based-learning|aprendizagem baseada em problemas]] e de [[inquiry-based-learning|aprendizagem baseada em investigação]]. Ela depende de [[scaffolding|andaimes]] que mantêm a demanda cognitiva, de supervisão de [[self-regulated-learning|autorregulação]] e [[metacognition|metacognição]] para evitar o [[cognitive-offloading|descarregamento cognitivo]], e de estruturas [[collaborative-learning|colaborativas]] em que humanos e IA trabalham juntos. A [[cognitive-psychology|psicologia cognitiva]] e a literatura sobre [[transfer-of-learning|transferência da aprendizagem]] fornecem a fundamentação teórica de por que problemas gerados por quem aprende e feedback reflexivo produzem [[learning-gains|ganhos de resolução de problemas]] mais duráveis. O balanço entre exemplos resolvidos e prática para adquirir tais competências é ele próprio dependente de conteúdo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] mostram que competências generalizáveis de resolução de problemas são melhor aprendidas por meio de prática integrada a exemplos (alternando exemplos resolvidos com problemas), porque exemplos resolvidos fornecem a informação indutiva necessária para adquirir e generalizar uma regra correta, enquanto a prática pura arrisca fortalecer atributos esuriamente correlacionados em vez do procedimento geral.
 
-
 ## Simulando a resolução colaborativa de problemas com agentes de LLM
 
 - **Simulando a resolução colaborativa de problemas com agentes de [[llm|LLM]] específicos por participante.** Fang (2026) treina agentes de LLM individuais sobre o diálogo de participantes reais para reproduzir a resolução colaborativa de problemas, e valida as [[simulation|simulações]] com [[network-analysis|Análise de Rede Epistêmica]], mostrando que diálogos simulados e reais são estatisticamente indistinguíveis (distância ENA 0,17; p de permutação = 0,65). Isso oferece uma forma escalável de estudar e gerar discurso autêntico de resolução colaborativa de problemas — com implicações tanto para a pesquisa quanto para o desenho de ambientes de prática para essa competência do século XXI.
@@ -94,28 +95,3 @@ A resolução de problemas é o desfecho aplicado do [[critical-thinking|pensame
 **"A resolução de problemas é o alvo, então a formulação de problemas é um bônus."** A formulação de problemas é onde a transferência é construída, porque exige que quem aprende construa a estrutura, em vez de operar dentro de uma que o sistema forneceu. Um [[curriculum-design|currículo]] que só fornece problemas bem formulados treina o desempenho em problemas bem formulados, que não é a condição com que os estudantes se deparam depois.
 
 **"A simulação da resolução colaborativa de problemas substitui a colaboração."** Uma simulação reproduz o padrão de interação, e a habilidade em desenvolvimento é a regulação de um problema conjunto por participantes que estão de fato presentes. Agentes específicos de participantes que modelam colaboradores reais são um instrumento de pesquisa para estudar essa regulação — úteis pelo que revelam sobre o processo, e não uma forma de dar aos estudantes a prática sem os pares.
-
-## Conceitos conectados
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Artigos conectados
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Perfis de interação (raciocínio delegado vs. interpretação concertada) e a troca entre eficiência e regulação
-- [[ai-assisted-collaborative-learning-model-dbr]] — Modelo de PBD posicionando a IA generativa como parceira inteligente de aprendizagem
-- [[llm-critical-thinking-teamwork-review]] — Revisão PRISMA dos LLMs fomentando pensamento crítico, trabalho em equipe e resolução de problemas
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Andaimes adaptativos minerados por sequência para resolução colaborativa de problemas
-- [[genai-assisted-problem-posing-physics-2026]] — A formulação de problemas como estratégia de aprendizagem autorregulada com IA generativa
-- [[genai-feedback-design-multisite-experiment]] — O feedback reflexivo/híbrido supera o direto de IA na transferência atrasada
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots melhoram a formulação de problemas de estudantes do primário na aprendizagem baseada em investigação
-- [[llm-computational-thinking-physics-2026]] — LLMs como avaliadores escaláveis de resolução computacional de problemas em física
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Andaimes guiados por regras vs. ad-hoc em um sistema de tutoria com LLM para matemática do primário (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

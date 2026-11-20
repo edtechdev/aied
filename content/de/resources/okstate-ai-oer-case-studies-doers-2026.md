@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -42,11 +43,3 @@ Man liest sie als eine Sammlung von Projektberichten und nicht als Evaluation. D
 ## Anmerkungen und Vorbehalte
 
 Die Lizenzierung der Kapitel ist die Falle. Die Sammlung steht unter CC BY 4.0, doch einzelne Autorinnen und Autoren behalten das Urheberrecht und wählten ihre eigenen Creative-Commons-Lizenzen, sodass ein Kapitel restriktiver sein kann, als die Buchseite vermuten lässt; das Kapitel zur Lehrbuchüberarbeitung steht unter CC BY-NC-SA 4.0, und eine Wiederverwendung muss das Kapitel prüfen und nicht das Frontmatter. Für die Autorinnen und Autoren gab es kein vorgeschriebenes Verfahren zur Offenlegung von KI-Nutzung, daher erläutern die meisten Kapitel ihren Prozess nebenbei und folgen dabei im Allgemeinen der OER-Commons-Empfehlung. Aus redaktioneller Entscheidung behält jedes Kapitel die disziplinäre Stimme, die Interpunktion und die regionale Schreibweise seiner Verfasserin oder seines Verfassers, sodass die Prosa nicht einheitlich liest. Vor allem aber dokumentiert jedes Kapitel ein einzelnes lokales Projekt, und keine zwei teilen ein Instrument oder einen Vergleich, sodass der Band Praxis zum Anpassen bietet und nicht Evidenz zum Zitieren.
-
-## Verbundene Konzepte
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

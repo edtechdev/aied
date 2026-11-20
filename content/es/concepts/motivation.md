@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -96,59 +98,3 @@ La motivación es el constructo padre de la [[self-determination-theory|teoría 
 - **«El efecto de la IA generativa sobre la motivación es una ganancia limpia y grande.»** Un metaanálisis de 42 estudios (56 tamaños de efecto, 6.059 estudiantes) encontró un efecto sobre la motivación de g = 0,764 (IC del 95% [0,566; 0,962]) **pero con I² = 93,7%**. Una heterogeneidad tan alta significa que la cifra agrupada describe un conjunto de estudios que no coinciden entre sí, así que es un promedio sobre tratamientos inconsistentes y no un efecto reproducible.
 - **«Reducir la frustración es lo mismo que sostener la motivación.»** Un [[rct|ECA]] de tres brazos encontró que un tutor con andamiaje y un ChatGPT sin restricciones **redujeron la frustración por igual** (3,21 y 3,13). Dos diseños muy distintos produjeron el mismo resultado afectivo, así que los datos de frustración no permiten distinguirlos.
 - **«Un diseño motivador es un buen diseño.»** En **222 estudiantes de primer curso de secundaria**, un formato de diálogo entre docentes **elevó más la motivación ARCS** que la alternativa, **sin mejorar la evaluación global**. La motivación se movió y la calidad juzgada no.
-
-## Conceptos conectados
-
-- [[learners]] — Estudiantes: el concepto paraguas para las nociones del lado de quien aprende
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Aprendizaje socioemocional
-- [[reflection]]
-
-## Artículos conectados
-
-- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — Dos escalas breves para el valor del aprendizaje y la autoeficacia de aprendizaje en contextos de IA, y qué predicen
-- [[high-school-genai-acceptance-tam-physics-2026]] — Las creencias de expectativa-valor como antecedentes de la aceptación de la IAG
-- [[liu-ai-assistance-reduces-persistence-2026]] — El uso breve de la IA redujo la persistencia en problemas posteriores sin ayuda (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en estudiantes de secundaria
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — La paradoja del esfuerzo y el círculo vicioso de la asistencia sin fricción
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivación y roles en la implicación metacognitiva con IA generativa
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Género, motivación y trayectorias de rendimiento con IA generativa
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Evaluación de la competencia digital docente para el diseño curricular con IA generativa (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivación para dar forma al futuro de la educación con IA
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Características de quien aprende × interacciones con el formato de diálogo TTS
-- [[student-perceptions-ai-study-productivity-2026]] — Percepciones del estudiantado sobre las herramientas de inteligencia artificial para la productividad de estudio y el aprendizaje: un estudio exploratorio por encuesta
-- [[liang-ai-learning-motivation-sdt-2026]] — Análisis de transición latente basado en la SDT de la motivación de aprendizaje con IA (2.086 estudiantes de secundaria)
-- [[wang-goal-setting-ai-engagement-2026]] — Teoría del establecimiento de metas: apoyo docente, metas de logro e implicación en el aprendizaje del inglés asistido por IA (758 estudiantes chinos)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Efectos de una intervención de valor de utilidad en el aprendizaje para enseñar responsablemente con IA generativa (Boos, Eder y Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Ganancias de motivación específicas de constructo en un programa de escritura en L2 con IA generativa en primaria (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — La escala AIR: cuatro familias de motivos para recurrir a la IA durante la lectura
-- [[genai-math-relevance-intervention-2026]] — El diálogo de relevancia con IA generativa elevó la relevancia como identificación pero dejó plano el interés por la clase
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Metaanálisis de efectos aleatorios del efecto de la IAG sobre la motivación de aprendizaje (56 tamaños de efecto, 6.059 estudiantes)
-- [[ai-student-motivation-scoping-review-2026]] — 156 estudios sobre IA y motivación del estudiantado: el 85,3% no usó ninguna teoría motivacional, y la cobertura es estrecha en constructo, nivel y país
-- [[gai-advocacy-practice-art-education-2026]] — Las brechas entre la defensa y la práctica de la IAG actúan como un estresor que el estudiantado evalúa
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — El tutor andamiado elevó la motivación intrínseca donde ChatGPT sin restricciones no lo hizo
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Retroalimentación de IA y del profesorado de calidad equiparable, con la brecha motivacional pasando por la relación percibida (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — Revisión de 39 estudios guiada por la SDT: las necesidades y la implicación se miden a menudo, la regulación motivacional casi nunca
-- [[mekheimer-motivation-ethics-trust-efl-2026]] — La frecuencia de uso como único predictor significativo de la motivación en un estudio de doce semanas de inglés como lengua extranjera

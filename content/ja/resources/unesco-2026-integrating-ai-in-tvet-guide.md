@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -41,12 +42,3 @@ ai_assist:
 ## 注記
 
 これは指針であり、評価ではない。本ガイドは成果データを示しておらず、機関の事例（カナダの College of the North Atlantic における内容統合型の AI 学習モデル、ケニアの 2023 年の産業実習に関する TVET 基準）は、事業報告に基づく記述的な事例紹介であり、独立した試行ではない。付属資料は自らを参考程度のものと位置づけており、成熟度の段階は議論の補助であって測定尺度ではない。安全上重要な職業や規制対象の職業には独立した章が割かれているが、そこでは規制上の詳細ではなく人間による監督についての立場を論じている。CC BY-SA 3.0 IGO ライセンスにより、出典表示と同一条件での共有を条件に改変と再公開が認められる。
-
-## 関連する概念
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

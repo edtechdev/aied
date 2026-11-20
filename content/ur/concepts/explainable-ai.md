@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -76,7 +78,6 @@ XAI-ED فریم ورک وضاحت کی اہم صورتیں فہرست کرتا �
 
 وضاحت کے معیار کی ایک برابری والی جہت بھی ہے: ایسی وضاحت جو تکنیکی طور پر موجود ہو مگر کسی مخصوص حصہ دار کے لیے ناقابلِ مطالعہ ہو — یا جو پیش گوئی میں [[bias-mitigation|تعصب]] کو چھپائے — اپنا مقصد پورا نہیں کرتی۔ اسی لیے ڈیزائن کا سوال *معیار اور مطابقت* ہے، اور اسی لیے انسان مرکز، حصہ دار کے مطابق وضاحت کا ڈیزائن وضاحتوں کی تکنیکی پیداوار سے الگ نہیں کیا جا سکتا۔ مؤثر XAI وصول کنندہ کی علمی ضرورتوں کے لیے ڈیزائن کیا گیا ابلاغ کا عمل ہے، محض کوئی تکنیکی شے نہیں۔
 
-
 وضاحت ہمیشہ برابری نہیں لاتی۔ 250 ساتویں جماعت کے طلبہ کے 2 × 2 ونیٹ تجربے میں، ریاضی کے اسکور کا تحریری جواز دونوں حالتوں میں قبولیت اور محسوس انصاف بڑھا گیا مگر [[teacher-role|استاد]] اور AI کے فیصلوں کے فرق کو بند کرنے کے بجائے مزید کھول دیا ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]])۔
 
 حوالہ جات درستگی کے ثبوت کے بجائے اعتبار کے اشارے کا کام کرتے ہیں: کسی بحث کے انٹرفیس پر حوالے اور اختیار کے اشارے جوڑنے سے یہ شرح 15.0% سے 31.8% ہو گئی کہ کوئی درست فیصلہ چھوڑ کر AI کے موقف کو اپنا لے، اور حوالہ دیے گئے مقدمات بعض اوقات غلط منسوب یا فرضی بھی تھے ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]])۔
@@ -84,7 +85,6 @@ XAI-ED فریم ورک وضاحت کی اہم صورتیں فہرست کرتا �
 دو انتباہ اسے مزید تیز کرتے ہیں، اور ویکی کی اس موضوع پر تازہ ترین شراکت انہی دونوں کو مرکزی بناتی ہے۔ پہلا، وضاحت کی مشینری بذاتِ خود غیر جانبدار نہیں: LIME اور SHAP جیسے بعد از وقوع طریقے ماڈل کے حقیقی رویے سے غیر وفادار ہو سکتے ہیں، اس لیے تکنیکی طور پر موجود وضاحت معلومات دینے کے بجائے گمراہ بھی کر سکتی ہے ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]]، Chuan et al. 2024 کے حوالے سے)۔ دوسرا، **وضاحت جواب دہی نہیں ہے**۔ یہ بیان کہ کون سے فیچر کسی پیش گوئی کو ہانک رہے تھے، یہ نہیں بتاتا کہ وہ فیچر استعمال کرنا مناسب تھا یا نہیں، تربیتی ڈیٹا نمائندہ تھا یا نہیں، یا نظام کا ڈیزائن درست فیصلے کی عکاسی کرتا تھا یا نہیں؛ وضاحتیں شفافیت کی صورت بنا سکتی ہیں جبکہ وہ ساختی حالات کو چھوڑ دیتی ہیں جنہوں نے فیصلہ پیدا کیا (Mittelstadt et al. 2019)۔ تعلیم کے لیے اس کا مطلب یہ ہے کہ سوال یہ نہیں رکھنا کہ وضاحت پیدا ہوئی یا نہیں، بلکہ یہ کہ اسے وصول کرنے والا شخص — طالب علم، استاد، مشیر — اسے سمجھ سکا، اس پر عمل کر سکا، یا اس کے پیچھے کے فیصلے کو چیلنج کر سکا۔ قابلِ فہمی کی یہی ناکامی [[automated-assessment|خودکار جانچ]] کے سلامتی پہلو پر بھی نظر آتی ہے: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026) کی AI درجہ بندی اوزار کی ریڈ ٹیم]] نے پایا کہ اس نے پرامپٹ انجیکشن روکنے کے بعد خاموشی سے چیٹ بند کر دی، اور — یہ اعلان کرنے کے بعد کہ وہ کبھی اندرونی ہدایات پر عمل نہیں کرے گا — اسی فائل پر چھ مزید دوڑوں میں ان پر عمل کیا، اور صارف کے پاس انحصار کی بنیاد رکھنے کے لیے کوئی قابلِ اعتماد اشارہ نہ چھوڑا۔
 
 **ڈیزائن سے قابلِ وضاحت** بعد از وقوع وفاداری کے مسئلے کا ایک جواب ہے۔ [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li، Yang اور Fang (2025)]] وضاحت کے ڈیکوڈر کو اسی ملا ہوا نمائندگی اور پیش گوئی شدہ اسکور سے پیرامیٹرائز کرتے ہیں جو [[assessment|جانچ]] کا فیصلہ کرتے ہیں، تاکہ [[formative-assessment|تکوینی]] سوال گری میں کم اسکور ایسا جواز دے جو ناکافی کھوجی سوالات کا نام لے، اور اسے نصابی معیارات اور مضمون کے مخصوص روبرک اقدامات پر دو عدسوں والی توجہ کے ساتھ جوڑتے ہیں۔ روبرک سے توجہ کی ہم آہنگی 78.0% تک پہنچتی ہے، جبکہ GPT-4 زیرو شاٹ کے لیے 41.7% اور BERT کے لیے 32.1% رہی، اور وفاداری کو روبرک کے لیے نازک حصوں کی متضادِ حقیقت حذف کاری اور روبرک پر مبنی چیک لسٹ پر انسانی درجہ بندی کے ساتھ جانچا جاتا ہے، جس سے وضاحت کے اعتبار کا اسکور 0.78 آتا ہے — BERT-base سے 0.31 زیادہ۔ یہ آڈٹ یہ بھی دکھاتا ہے کہ تعمیراتی دعویٰ کہاں پتلا پڑتا ہے: جذباتی اشاروں پر ماڈل توجہ کا 28.4% وزن مختص کرتا ہے جبکہ ماہر 15.2% (ہم آہنگی 0.53)، اور ایک ناکامی کی مثال میں "frustrated" لفظ کو 28% ملتا ہے، جسے مصنفین تدریس کے بجائے جذبات سے حد سے زیادہ مطابقت کے طور پر پڑھتے ہیں اور بہتری کا شعبہ قرار دیتے ہیں۔ وضاحتوں کو فیصلے کے راستے میں پیوست کرنا انہیں بعد از وقوع جواز سے زیادہ وفادار بناتا ہے؛ مگر انہیں درست نہیں بناتا۔
-
 
 **ماڈل کہتا ہے کہ اس نے کیا استعمال کیا، یہ ڈیٹا کے اتنا ہی خاندان پر منحصر ہے۔** ایک ہی کھیپ پر سات ماڈلوں میں، [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] نے پایا کہ علامتی طریقے علمی اور [[motivation|تحریکی]] عوامل پر ٹیک لگاتے ہیں، ذیلی علامتی ماڈل علمی پہلوؤں، سیکھے ہوئے علم اور صنف پر، اور دونوں بڑی حد تک میٹا کوگنیٹو عوامل کو نظر انداز کرتے ہیں، جبکہ نیورل-سمبولک ماڈل نے زیادہ یکجا مجموعہ استعمال کیا۔ ایک ہی طلبہ اور ایک ہی اشاروں نے اس بارے میں مختلف بیانات دیے کہ کیا اہم تھا، اس لیے [[learning-theories|سیکھنے کے نظریے]] کے ساتھ ہم آہنگی درستگی کے بجائے منسوبات کا دعویٰ بن جاتی ہے۔
 
@@ -100,48 +100,6 @@ XAI-ED فریم ورک وضاحت کی اہم صورتیں فہرست کرتا �
 - **"جو وضاحت صارفین کو مطمئن کر دے، وہ نظام کی وضاحت کر چکی۔"** قابلِ فہمی کی یہی ناکامی [[automated-assessment|خودکار جانچ]] کے سلامتی پہلو پر بھی نظر آتی ہے: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026) کی ریڈ ٹیم]] نے پایا کہ روزمرہ کے درجہ بندی کے عمل کو اندرونی ہدایات سے ہیر پھیر کیا جا سکتا تھا۔ قابلِ یقین روایت اور قابلِ آڈٹ روایت دو مختلف چیزیں ہیں۔
 - **"XAI کا عمومی عمل تعلیم پر منتقل ہو جاتا ہے۔"** [[xai-education-framework|XAI-ED فریم ورک]] (Khosravi et al., 2022) اصرار کرتا ہے کہ تعلیم کی **وضاحت کی ضرورتیں منفرد** ہیں، عام XAI سے آگے، کیونکہ سامعین میں ایسے سیکھنے والے شامل ہیں جنہیں وضاحت پر عمل کرنا ہے، نہ کہ ایسے آڈیٹر جنہیں اس کی تصدیق کرنی ہے۔
 - **"وفاداری ایسی خصوصیت ہے جس کا دعویٰ بغیر جانچ کے کیا جا سکتا ہے۔"** ناپی گئی وفاداری کے لیے **روبرک کے لیے نازک حصوں کی متضادِ حقیقت حذف کاری** اور انسانی درجہ بندی دونوں درکار ہیں۔ **GPT-4 زیرو شاٹ کے 41.7% اور BERT کے 32.1% کے مقابلے 78.0% تک پہنچنے والی روبرک سے توجہ کی ہم آہنگی** اسی قسم کی جانچ کا تقابلی نتیجہ ہے، تفسیر پذیری کے کسی دعوے کا نہیں۔
-
-## منسلک تصورات
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## منسلک مضامین
-- [[lund-socially-accountable-data-science-xai-2026]] — XAI کو جواب دہی کے عمل کے طور پر سکھانے کا چار ستونوں والا فریم ورک (جواب دہی، ذمہ داری، نفاذ، غور و فکر) (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — طالب علم مرکز ITS کا ویلیو سینسیٹو ڈیزائن (باہمی تعاون والی بمقابلہ خام وضاحتیں)
-- [[xai-education-framework]] — XAI-ED: تعلیم میں قابلِ وضاحت AI کا بنیادی فریم ورک (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — مضمون کے مخصوص وضاحتیں اساتذہ کا اعتماد اور قبولیت بناتی ہیں (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — شفاف AI معاونت والی جانچ پر طلبہ کے نقطہ نظر (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — تفسیر پذیر نالج ٹریسنگ
-- [[explainable-probabilistic-kt]] — امکانی ایمبیڈنگز کے ذریعے قابلِ وضاحت نالج ٹریسنگ
-- [[neural-symbolic-knowledge-tracing]] — نیورل-سمبولک نالج ٹریسنگ
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — بلیک باکس ماڈلوں کو لرننگ اینالیٹکس کے لیے خود وضاحت کرنے والے LM میں کشید کرنا
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — رازداری بچانے والے خطرے کی ماڈلنگ کے لیے فیڈریٹڈ اور قابلِ وضاحت لرننگ اینالیٹکس
-- [[sc2r-counterfactual-recourse-educational-2026]] — تعلیمی فیصلہ معاونت کے لیے معنی سے محدود متضادِ حقیقت چارہ جوئی
-- [[fair-explainable-edu-recommendations]] — منصفانہ اور قابلِ وضاحت تعلیمی سفارشات
-- [[multimodal-affective-its-presentation]] — کثیر الوضعی جذباتی فیڈبیک کے لیے تفسیر پذیر بند لوپ ITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — اعلیٰ تعلیم میں ChatGPT کے اپنانے کی وضاحت
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — ڈیزائن سے قابلِ وضاحت LLM فریم ورک: خودکار استاد جانچ کے لیے دو عدسوں والی توجہ اور اسکور سے پیرامیٹرائزڈ وضاحتیں (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI کے واسطے سے درجہ بندی میں پرامپٹ انجیکشن، جہاں پکڑ کا صارف کو کبھی بتایا نہیں گیا (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI معاونت والے تعلیمی سوالات کی تدریسی جانچ کے لیے پہلے سے تربیت یافتہ ماڈلوں کی تشخیص
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — استاد بمقابلہ AI کے درجہ بندی فیصلے: تحریری جواز نے انصاف کا فرق بڑھا دیا
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — حوالوں اور اختیار کے اشاروں نے غلط نتیجے کی طرف جھکاؤ بڑھایا، کچھ حوالے غلط منسوب یا فرضی
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - ایک ہی کھیپ پر علامتی، ذیلی علامتی اور نیورل-سمبولک ماڈلوں نے اپنی پیش گوئیوں کو مختلف عوامل سے منسوب کیا
 
 ## حوالہ جات
 

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -106,49 +108,3 @@ TutorMoments מפעיל עקרונות קושי-רצויות כקריטריונ�
 **"חיכוך קוגניטיבי ומאבק פרודוקטיבי הם אותו רעיון."** הם מגיעים מספרות שונה ומניבים תחזיות שונות. מאבק פרודוקטיבי עוסק בעיבוד משמעות מאומץ שבונה הבנה; חיכוך קוגניטיבי עוסק באי-התאמה בין מה שהמשימה דורשת לבין המשאבים שהלומד מחזיק כיום. התייחסות אליהם כמילים נרדפות מאבדת את השאלה האבחונית — האם הלומד מתקשה בדרך שבונה, או חסום בדרך שרק עולה?
 
 **"אם הסרת המאבק מעלה ביצועים מיידיים, ההתערבות עבדה."** זהו המחליף שכל העמוד עוסק בו: ביצועים הנמדדים בנוכחות התמיכה מנופחים באופן שיטתי לעומת ביצועים מאוחרים ללא סיוע. כל הערכה של AI שמפחיתה מאמץ חייבת למדוד בעיכוב ובלי הכלי, אחרת היא תדווח על הסרת תרגול כיצירת למידה.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — מדוע הסדר המאומץ מתעשר על השוטף
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — הכשל שחיכוך פרודוקטיבי נועד למנוע
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — כישלון פרודוקטיבי
-- [[retrieval-spacing-interleaving]] — הטכניקות המבצעיות שמיישמות את העיקרון הזה: אפקט הבדיקה, פיזור, מיזוג
-
-## מאמרים מחוברים
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — חיכוך פרודוקטיבי המוטבע בכלי בינה מלאכותית יוצרת תומך בלמידה
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[structured-reflection-ai-explanatory-feedback-2026]] — הנחיות הסבר-עצמי שהוספו למשוב בינה מלאכותית מפורט: זמן כפול, בלי רווח למידה (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — קנס הלמידה של בינה מלאכותית יוצרת: ציוני שיעורי בית עולים בעוד ציוני בחינות יורדים, והעלות המלאה אחרי שנתיים (Strömberg, Lei & Wu 2026)

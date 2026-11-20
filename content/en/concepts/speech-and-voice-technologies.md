@@ -11,6 +11,8 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 reviewed_by: [editor]
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 > **Speech and voice [[ai-technologies|technologies]]** — the family of AI systems in which the spoken channel carries the interaction: automatic speech recognition (ASR) that transcribes, analyses, and grades what a learner says; text-to-speech (TTS) that generates narrated or dialogue-form instruction; voice-first agents that hold real-time spoken conversation with learners; and automated capture and scoring of oral performance. Where [[conversational-ai|conversational AI]] research is mostly about text chatbots and [[language-learning|language learning]] covers second-language pedagogy broadly, the focus is the audio itself: what a speech interface changes about learning, what it costs, and who it includes or excludes when the interface is a voice rather than a screen.
@@ -87,38 +89,3 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 - **"Paid speech services outperform free ones."** **The two free services returned near-complete transcripts (87.96% and 88.34% coverage, with word error rates of 15.23% and 15.00%)**, while the two paid services exported only previews, at 32% coverage). Price did not predict utility, and the paid tier gated the output rather than improving it.
 - **"Any language-learning chatbot improves pronunciation."** Across **ten studies**, **only chatbots designed for language learning — Andy English bot and Xiaoying — improved accuracy**, with a **14% error decrease in one control group** comparison. Generic conversational agents did not produce the gain.
 - **"Self-efficacy gains mean skill gains."** The association between the technology and outcomes was positive with **self-efficacy partially mediating it: the indirect path accounted for 69.9% of the total effect while a direct effect remained**. Most of the effect ran through confidence, which is a mechanism and also a caution.
-
-## Connected Concepts
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Accuracy gains only from language-learning chatbots, and ASR failures on accented names
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A telephone voice agent turned on the feedback channel itself
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS lesson pipeline: synthetic narration matched instructor voice; dialogue aided comprehension
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learning-style × dialogue-format interactions in TTS-generated lessons (222 students)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Human versus AI interlocutors: supported monologue, uptake, and syntactic priming in L2 German
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first offline companion with real-time struggle detection for visually impaired children
-- [[agent-voice-accents-k12-group-learning]] — Agent accent shapes anthropomorphization and collaboration in K-12 group work (33 teachers)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: scalable spoken assessment, with a learning-gains caveat
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Review making the case for oral exams as authentic, integrity-protective assessment
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline voice assessment in vocational workshops where AI surfaces evidence, not grades
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Four interaction profiles among interpreting trainees using ASR/MT support
-- [[gpt-item-generation-l2-listening-2026]] — Prompting versus fine-tuning GPT for L2 listening item generation
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture plus speech: why speech-only oral assessment misses evidence of understanding
-- [[ai-guided-learning-audiovideo-2026]] — Adaptive audio speed, voice-preserving video summaries, and unlabeled pronunciation feedback
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for deaf and hard-of-hearing learners
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability

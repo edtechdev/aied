@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -125,48 +127,3 @@ Hai thực hành báo cáo cụ thể làm thổi phồng hoặc bóp méo một
 - **"Các phần hạn chế là văn bản rập khuôn."** Các hạn chế phương pháp **có thể đo được chứ không chỉ mang tính cảm nhận**: trong một tổng quan phản biện **80 nghiên cứu HCI** về tư duy phản biện với AI, **42 nghiên cứu (52%) không có nhóm đối chứng**. Một con số đếm chính xác là điều khiến hạn chế trở nên có thể hành động.
 - **"Độ không đồng nhất là một con số duy nhất bạn có thể trích dẫn."** Cùng tổng quan đó cho thấy một nguy cơ báo cáo: độ không đồng nhất được trích là **I² = 82.98% dưới mô hình hiệu ứng cố định và I² = 15.75% dưới mô hình hiệu ứng ngẫu nhiên**. Cùng một dữ liệu cho ra một câu chuyện chín điểm hay một câu chuyện hai điểm tùy vào mô hình được chọn, nên một I² được trích mà không kèm mô hình là không thể diễn giải.
 - **"Một hiệu ứng lớn được báo cáo là con số đáng tin."** Một tiêu đề như một hiệu ứng từ **30 sinh viên trong một khóa học ở một cơ sở** là dạng phổ biến của một tuyên bố mong manh, và số đếm các nghiên cứu không có nhóm đối chứng cho thấy sự mong manh đó thường xuyên không được báo cáo đến mức nào.
-
-## Khái niệm liên quan
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Phát triển lý thuyết trong AI trong giáo dục
-
-## Bài viết liên quan
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot AI trong giáo dục đại học: so sánh kỳ vọng với bằng chứng (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Độ tin cậy và tính hợp lệ của chân lý nền trong đánh giá
-- [[ai-literacy-assessment-misalignment]] — Năng lực AI tự báo cáo so với dựa trên hiệu năng
-- [[machines-misread-pedagogical-quality]] — Vì sao máy hiểu sai chất lượng sư phạm
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Những giới hạn phản biện của gia sư AI và việc sử dụng lý thuyết
-- [[cross-dataset-bloom-question-classification]] — Thang phân loại Bloom và việc phân loại câu hỏi
-- [[eeg-familiarity-automated-assessment-2026]] — Tự động hóa đánh giá người học: dự đoán độ quen thuộc dựa trên EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT trong giáo dục: một hiệu ứng đi tìm nguyên nhân (phê bình so sánh truyền thông)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Phân tích tổng hợp-tổng hợp: hiệu ứng AI đã hiệu chỉnh thiên lệch công bố chỉ ~1/3 quy mô được báo cáo
-- [[oneill-presumed-effective-meta-analysis-2026]] — Được cho là hiệu quả: kiểm toán pháp y 14 phân tích tổng hợp AIED
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: một khuôn khổ báo cáo thực nghiệm cho các tổng quan hệ thống có AI hỗ trợ
-- [[frontier-models-physics-benchmark-audit-2026]] — Các mô hình tiên phong giỏi vật lý đến đâu? Chấm lại bởi chuyên gia cho thấy những đánh giá hỏng và độ bão hòa gần của các chuẩn đánh giá hàng đầu
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Tiêu chí đưa vào được dùng làm ngưỡng chặt chẽ, và một con số không đồng nhất thay đổi theo mô hình (Doğan và cộng sự 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Một thử nghiệm lớp học ngẫu nhiên theo cụm có kết quả hiệu năng không đạt ý nghĩa thống kê (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: gia sư AI và gia sư con người cho mức tăng học tập GRE tương đương
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Đánh giá trọng tâm phản hồi và khả năng thích ứng sư phạm trong phản hồi do LLM tạo cho bài viết của sinh viên
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: các lược đồ dựa trên khẳng định để mã hóa có thể kiểm toán các cuộc đối thoại giáo dục
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Từ phân loại cảm xúc đến phản hồi có thể hành động và có trách nhiệm: một tổng quan phạm vi và bản đồ bằng chứng về NLP trong đánh giá sinh viên về giảng dạy, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Điều các chỉ số trung thực bỏ sót: một kiểm tra cấu trúc trên dữ liệu giáo dục tổng hợp
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Tổng quan phạm vi 195 nghiên cứu đào tạo giáo viên, nơi thiết kế chuỗi tìm kiếm định hình các tần suất được báo cáo
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Khảo sát giáo viên K-12 xuyên quốc gia: các mục được dịch máy, thước đo quan ngại một mục, không kiểm tra bất biến
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Tổng quan hệ thống 103 nghiên cứu GenAI trong giáo dục đại học: 56% mức tăng có điều kiện, điểm số che giấu thay đổi quá trình (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Tăng cường dữ liệu có thể sản xuất ra chính chỉ số trên tiêu đề

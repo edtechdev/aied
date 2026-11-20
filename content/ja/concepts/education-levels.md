@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -108,40 +110,3 @@ ai_assist:
 **「[[intelligent-tutoring|適応的なチューター]]は、すべての水準を等しく助ける。」** 変数を単離する比較は示唆に富みます。同じ2年生向け数学チューターの二つの版で、内容、インターフェース、フィードバック、話されるヒントは同一であり、**課題の選択がベイジアン[[knowledge-tracing]]モデルに従うかどうかだけが異なる**ものでした。適応的な課題選択は水準に敏感な介入であり、その便益はその水準の学習者が適応に基づいて行為できるかどうかに依存します。
 
 **「高等教育に集中した証拠は、下方へ一般化する。」** しません。そして文献の分布は便宜ではなく警告です。証拠がどこで濃密でどこで薄いかは研究経済の性質であり、AIが最も使われる場所の性質ではありません。したがって大学の標本から引き出されたK-12についての主張は、最も重要な境界を越えた外挿です。
-
-## 関連する概念
-- [[primary-education]] — それ自体として独自の初等教育段階
-- [[secondary-education]] — 中学校と高等学校の一体化
-- [[undergraduate-education]] — 外部評価の下でのコースワーク
-- [[graduate-education]] — スーパービジョン、研究訓練、専門職プログラム
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## 関連する記事
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 2年生の数学における適応的および非適応的な個別指導（Sibley ら 2026）
-- [[dai-chatbots-problem-posing-primary-2026]] — 初等の理科における3年生との生成AIチャットボットと問いの生成
-- [[chatgpt-music-education-junior-high-2026]] — 歌の学習のための ChatGPT に対する中学生の態度（Weng & Chiang 2026）
-- [[ai-lms-middle-school-longitudinal]] — 境界づけられた提案された縦断的研究を備えた中学生向けに設計された AI 統合型 LMS
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 中国の中等教育における生成AI学習ペナルティ（Strömberg ら 2026）
-- [[llm-reliance-types-undergrad]] — 学部の執筆学生の間の4つのタイプの LLM 依存（Hossain 2026）
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 工学生のための図書館員の支援を埋め込んだ AI 支援ゼミプラットフォーム
-- [[ai-mediated-research-agency-formation-2026]] — 博士課程および博士研究員の訓練における AI 依存、自律性、革新（Han & Liu 2026）
-- [[data-privacy-ai-african-higher-education-2026]] — アフリカの高等教育におけるデータプライバシーについてのステークホルダーの見解（Duncan 2026）
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — ウクライナ全域の教育管理者の AI 採用準備（Kremen ら 2026）
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 職業デザインの学生のための AI 対応の没入型 PBL（Jin ら 2027）
-- [[preschool-teachers-ai-behavioral-intention-2026]] — 幼児教育の場における AI 利用の幼稚園教諭の意図
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — 年齢に合わせた AI チャットボットに対する子どもの態度
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25件の一次研究；倫理と批判的データリテラシーを含む4つの構成要素（Yim & Su 2025）
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33件の二次研究；高次の項目では正答率が急落（Pérez-Montesdeoca et al. 2026）
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 高校生・大学生・教員にわたる1477名の回答者；知覚された学習とエンゲージメントの対比
-- [[kumar-chatgpt-academic-assignments-2025]] — 学部生・大学院生304名；デジタルリテラシーは成績を予測したが、倫理は予測しなかった
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 学部生と大学院生の比較；倫理と自律性の差が最も大きい（Zaripova et al. 2026）
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — 大学院生の生成AIリテラシーに関する5次元モデル

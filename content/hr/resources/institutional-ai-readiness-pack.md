@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -38,6 +39,3 @@ ai_assist:
 ## Za koga je
 
 Istraživačko vodstvo, odbori i uredi za politike kojima treba slika utemeljena na dokazima o tome kako se umjetna inteligencija rabi i kako se njome [[governance|upravlja]] u istraživačkom okruženju, te način da prate [[change-management|promjenu]] kroz vrijeme. Prati knjigu *Responsible AI in Academic Research: A Competency Framework for Research Training*, koja definira pet dimenzija spremnosti, a napisao ga je Michael J. Zyphur, direktor tvrtke Instats.
-
-## Povezani pojmovi
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

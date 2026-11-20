@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -65,7 +67,6 @@ Sebuah kerangka ko-agensi membatasi jangkauan SDT dalam pendidikan bermediasi AI
 
 SDT terhubung langsung ke [[motivation]] sebagai konstruk induknya, ke [[affective-computing]] dan [[affective-tutoring]] untuk desain AI yang sadar emosi, dan ke [[student-experience]] untuk bagaimana siswa mengalami lingkungan bermediasi AI. Penekanan teori ini pada otonomi terhubung ke [[self-regulated-learning]], sementara dimensi kompetensinya terhubung ke [[self-efficacy-tutoring-learning]] dan [[teacher-ai-competency]]. SDT sangat relevan bagi [[professional-training]] dan [[educational-development]] karena desain yang mendukung kebutuhan adalah prinsip yang dapat dipindahkan untuk menyiapkan pendidik menggunakan AI.
 
-
 **Ketiga kebutuhan tidak diuji secara merata oleh penelitian AI generatif.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna dan Jiang (2026)]] mengodekan 39 studi terhadap klasifikasi 20 aktivitas dan menemukan 14 aktivitas hadir, dengan tujuh jenis terkait kompetensi berbanding lima untuk otonomi dan dua untuk keterhubungan. Enam aktivitas absen dari setiap studi, dan sebagian besar meminta siswa menilai atau menantang alat itu: menciptakan masalah yang menantang, mengantisipasi keluaran alat, menilai keluaran tersebut dan berdebat dengannya. Keterhubungan adalah kebutuhan yang paling sedikit diuji literatur.
 
 ## Miskonsepsi Umum
@@ -73,37 +74,3 @@ SDT terhubung langsung ke [[motivation]] sebagai konstruk induknya, ke [[affecti
 - **"Jenis motivasi kurang penting daripada jumlah motivasi."** Studi selama setahun menemukan **tiga profil motivasional — Tidak Terlibat, Berkembang, Determinasi Diri — stabil sepanjang waktu**, dan siswa yang mencapai profil **Determinasi Diri** menunjukkan **keuntungan [[ai-literacy|literasi AI]] terbesar**. Kualitas motivasi memprediksi pembelajarannya, dan profil-profil itu tidak sekadar bergeser naik.
 - **"Dukungan otonomi berarti menghapus struktur."** Mekanisme SDT adalah otonomi, kompetensi, dan keterhubungan bersama-sama, dan bukti longitudinal menunjukkan bahwa terpenuhinya ketiganya memprediksi keuntungan alih-alih sekadar menyertainya. Otonomi tanpa dukungan kompetensi adalah permisif, dan ia tidak memenuhi syarat teori ini.
 - **"[[conversational-ai|Chatbot]] dapat memasok ketiga kebutuhan secara otomatis."** Sebuah studi menemukan ChatGPT dapat mendukung otonomi, keterhubungan, dan kompetensi dalam pembelajaran bahasa — sebuah kemungkinan, bukan sifat. Apakah suatu interaksi mendukungnya adalah pertanyaan empiris tentang bagaimana ia digunakan.
-
-## Konsep terkait
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Artikel terkait
-- [[family-school-autonomy-support-genai-2026]] — Dukungan Otonomi Keluarga-Sekolah bagi Penggunaan AI Generatif yang Bertanggung Jawab oleh Anak
-- [[dual-ai-learning-pathways-sdt-2026]] — Tekanan/dukungan otonomi di SMA dan dua jalur pembelajaran AI (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Pengalaman ChatGPT siswa dalam pembelajaran bahasa Inggris
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaksi karakteristik siswa × format dialog TTS
-- [[liang-ai-learning-motivation-sdt-2026]] — Analisis transisi laten SDT atas motivasi belajar AI siswa (2,086 siswa sekolah menengah)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motivasi siswa dan kepuasan kebutuhan di kelas GenAI (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — Penggunaan GAI hanya lemah terkait kepuasan kebutuhan dan tidak diperlukan bagi keterlibatan tinggi (He dkk. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dua jalur dari kolaborasi guru–AI ke keterlibatan kerja, dimoderasi kompetensi digital
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Penahanan petunjuk mempertahankan otonomi sementara pemberian jawaban tidak
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Ketersediaan AI, penurunan otonomi dan profil motivasional di kelas 5–8 (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 studi dikodekan terhadap klasifikasi 20 aktivitas; kompetensi paling banyak diuji, keterhubungan paling sedikit

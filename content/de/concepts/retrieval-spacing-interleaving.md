@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -107,36 +109,3 @@ Die Aufnahme von Interleaving hier beruht daher auf derselben Theoriefamilie wie
 **„Abrufübung heißt Quizzen, und jedes Quizzen zählt."** Der Mechanismus ist, eine Antwort aus dem Gedächtnis zu produzieren statt eine zu erkennen, weshalb eine Multiple-Choice-Erkennungsaufgabe eine schwächere Version derselben Aktivität ist. Eine KI, die endlose Erkennungsitems generiert, hat eine Aktivität mit dem richtigen Namen und dem falschen Mechanismus erzeugt.
 
 **„KI kann diese Techniken getreu liefern, da sie gut spezifiziert sind."** Sie kann sie auch stillschweigend aushebeln. Spacing verlangt vom System, das Material zurückzuhalten, das es am ehesten auf Abruf liefern kann, und Abrufübung verlangt, nicht zu antworten — die Wirksamkeit der Technik hängt also von Einschränkungen ab, die ein gefälliger Assistent keinen Anreiz hat, sich aufzuerlegen.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Sequenzen verteilten Abrufs, und die Behaltenskosten der Assistenz während der Enkodierung
-- [[desirable-difficulties]] — das Prinzip, das diese drei Techniken operationalisieren
-- [[cognitive-psychology]] — Gedächtnis, Enkodierung und Abruf als theoretisches Zuhause aller drei
-- [[prior-knowledge]] — Abrufübung als Aktivierung dessen, was die lernende Person bereits hält
-- [[metacognition]] — beurteilen, ob Flüssigkeit Lernen widerspiegelt
-- [[self-regulated-learning]] — konsequent das lernen, was eine KI für einen planen oder beantworten kann
-- [[mastery-learning]] — Behaltensleistung nach der Mastery-Schwelle, und das Spacing, das sie erhält
-- [[knowledge-tracing]] — die Modelle, die Planungsentscheidungen treffen oder verfehlen
-- [[cognitive-offloading]] — das Fehlschlagmuster, wenn Abruf an ein Werkzeug delegiert wird
-- [[transfer-of-learning]] — die Leistungs-Lern-Lücke, die die Techniken adressieren
-- [[formative-assessment]] — Kontrollpunkte mit geschlossenem Werkzeug als Abrufereignisse
-- [[productive-failure]] — versuchen, bevor man Hilfe erhält
-- [[learners]] — was auf dem Spiel steht bei dauerhaftem statt flüssigem Lernen
-
-## Verbundene Artikel
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: adaptiver verteilter Abruf vs. fixierter Abruf vs. lernendengesteuertes KI-Studium über sieben Wochen
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6-Planung und eine Taxonomie kognitiv fundierter Karteikarten-Interaktionen
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: Erklärungstiefe sagt Aufgabenqualität voraus, nicht unmittelbaren Abruf
-- [[rachatasumrit-example-problem-ratio-2026]] — Abrufübung für Fakten, ausgearbeitete Beispiele für Fähigkeiten; die Inhalts-Behandlungs-Interaktion
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge-Tracing-Modelle erfassen den Spacing-Effekt unter zeitbasierter Validierung nicht
-- [[bilingual-llm-lecture-companion-srl-2026]] — Automatische Karteikartenerzeugung, die die Autorenschaftskosten verteilter Übung entfernt
-- [[student-cheat-sheets-make-or-take]] — Ein Spickzettel konstruieren als generatives Lernen; die Konstruktion mithilfe von KI auslagern
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-Back-Konsolidierung, die Lücken offenlegt, die Klärung nicht offenlegte
-- [[simulating-learner-task-selection]] — Interleaving und Blocken als modellierte Lernendenstrategien unter Aufgabenauswahl-Randbedingungen
-- [[nie-personavlm-long-term-personalization-2026]] — Longitudinales Gedächtnis der Lernenden und seine offene Beziehung zu verteilter Wiederholung und Vergessenskurven
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Abrufübung in der Schicht Tools eines Lernen-zu-lernen-Rahmenwerks
-- [[agentic-ai-pedagogical-best-practice-2026]] — Vorab abrufende Agenten umgehen Abrufübung; das Plädoyer für absichtliche Reibung
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Wenn KI-Tutoren sprechen: Evidenz aus einem randomisierten Feldexperiment
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Von ChatGPT erzeugte Vorfragen verbessern Gedächtnis und Textverständnis

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -45,6 +46,3 @@ Opetussuunnittelijoille ja opettajille, jotka haluavat suunnittelupäätöksen n
 ## Huomioita ja varauksia
 
 Lue luottamuspaneeli jokaiselta sivulta. Kielimallit ylläpitävät wikiä yhden ihmisylläpitäjän alaisuudessa, kukaan ei ole tarkistanut yhtään sivua, ja sivusto nimittää sivua hyvin lähteistetyksi johdatukseksi eikä löydökseksi. Väitteillä on suunnittelutaso, vaikutuskoon koodi ja kurinalaisuuskoodi, ja "vaikutuskokoa ei painettu" tarkoittaa, ettei lähde raportoinut sellaista, ei sitä, ettei sellaista ole. Sisältö on CC BY-SA 4.0 -lisenssillä, joten uudelleenkäytön on kannettava sama lisenssi, ja koodi on MIT.
-
-## Liittyvät käsitteet
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

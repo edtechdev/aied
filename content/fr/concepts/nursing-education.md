@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -114,42 +116,3 @@ Le domaine affine aussi trois concepts adjacents. De la [[simulation|simulation]
 **« N'importe quelle étude de simulation se généralise à la pratique clinique. »** La base de preuves examinée ici — **19 études, N = 1 253, majoritairement des étudiants avant l'obtention du permis** — est largement située en classe et en laboratoire, et la traduction d'une compétence simulée vers une pratique supervisée est exactement l'étape qu'une simulation assistée par IA ne répète pas par elle-même.
 
 **« La compétence en IA pour les soins infirmiers consiste à manier les outils, la formation doit donc commencer par eux. »** La littérature de cadres va dans l'autre sens. Les dimensions que les auteurs de revues ont trouvées systématiquement traitées sont les connaissances éthiques, la responsabilité, et les compétences d'application et d'évaluation ; l'usage technique et opérationnel est là où le domaine en dit le moins. Un programme qui achète d'abord des licences d'outils construit la partie la plus mince en preuves de la carte, et les cadres nommés qu'il pourrait adopter au lieu d'un curriculum — N.U.R.S.E.S., AI-ABCs et CARE — sont précisément ceux qui n'ont pas de méthodes d'évaluation.
-
-## Concepts liés
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Articles liés
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Applications, attitudes et éthique dans la formation en soins infirmiers : une revue de portée de 103 études (Hardie et al. 2026)
-
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Les expériences des apprenants de la simulation et de la formation aux compétences soutenues par l'intelligence artificielle générative en formation en soins infirmiers : une méta-synthèse
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Revue systématique de l'IA dans la formation en soins infirmiers (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — La simulation alimentée par l'IA dans la formation en soins infirmiers : revue systématique à méthodes mixtes
-- [[sun-llm-nursing-education-professional-identity-2026]] — Les LLM, les lacunes structurelles et la reconstitution de l'identité professionnelle
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Les expériences de l'IA des étudiants et du corps professoral en soins infirmiers à travers le modèle d'acceptation de la technologie
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Perceptions de l'IA et anxiété de carrière parmi les étudiants en sciences de la santé
-- [[genai-counter-learner-groupthink-2025]] — L'IA générative pour contrer la pensée de groupe dans l'apprentissage par problèmes interprofessionnel
-- [[dabkowski-nursing-academics-genai-2026]] — Les universitaires en soins infirmiers face à l'IA générative : ambiguïté politique, valeurs professionnelles et dérive vers l'évaluation surveillée
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — La surveillance à distance dans l'évaluation en soins infirmiers : surveillance, équité et un dossier de dissuasion bâti sur la perception
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Revue de portée projetant les cadres de compétences en IA sur 12 sous-dimensions du modèle KAS pour les curriculums infirmiers
-- [[rony-nursing-educators-ai-tpack-2025]] — Formateurs en soins infirmiers au Bangladesh sur l'état de préparation, les barrières et la gouvernance des données, lus à travers le TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Revue parapluie de 18 revues : éthique, transformation du curriculum et barrières à l'intégration
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Les étudiants en soins infirmiers sur le secret de Polichinelle de l'usage de l'IA : apprentissage personnalisé, temps, fracture numérique
-- [[agency-gap-ai-writing]] — ECR auprès d'étudiants en médecine et en soins infirmiers : conception d'agent réactif contre proactif et écart d'agentivité
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1 020 étudiants en soins infirmiers : interaction avec l'IA générative, interaction éducative et modèle de médiation juste-identifié
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Une réponse publiée à Rony et coll. : écosystèmes institutionnels, état de préparation et supervision de l'IA
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Des enseignants et des étudiants co-conçoivent un tableau de bord d'analytique pour la formation infirmière
-- [[federated-learning-at-risk-student-prediction-2026]] — Prédiction du risque préservant la vie privée à travers les programmes de professions de santé, et pourquoi un seuil importé se déclenche à tort en soins infirmiers

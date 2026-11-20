@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -42,9 +43,3 @@ Centrale en onderzoeks-IT die platforms en beoordeling levert; governancekantore
 ## Opmerkingen en kanttekeningen
 
 De gids noemt zichzelf een onafhankelijk persoonlijk project, geen instellingsbeleid en geen juridisch advies; genoemde instellingen verschijnen omdat ze verslagen van hun praktijk hebben gepubliceerd, niet als aanbeveling, en de discussiegevallen zijn samengestelde voorbeelden. De juridische voorbeelden zijn Amerikaans (FERPA, ADA Title II, GLBA) en gedateerd waar ze opduiken, al betoogt de gids dat het pad, de vragen, de dataniveaus en de aanpakken daar niet van afhangen. De evidence-pagina linkt elke studie, zet winst op één afgebakende taak naast vertraging voor ervaren onderhouders op hun eigen code, en geeft toe dat proefdata over code-suggestie gaan en niet over spec-gestuurd of multi-agentwerk, zodat het pleidooi voor meer structuur op praktijk en compliance-logica rust. Er wordt geen licentie voor hergebruik vermeld. Zustersites [campusdatagov.com](https://campusdatagov.com/) en [campusairegistry.com](https://campusairegistry.com/) dragen de delen over datagovernance en het agentregister, dus dit is een goede ingang naar werk aan [[educational-policy-ai]], maar geen vervanging ervan.
-
-## Gerelateerde concepten
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

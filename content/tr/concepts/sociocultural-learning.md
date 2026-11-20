@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -80,31 +82,3 @@ Sosyokültürel çizgi, [[cognitive-offloading|Bilişsel Yük Kuramıyla]] (dest
 **"Bir gruba araç eklemek yalnızca grubun verimliliğini değiştirir."** İşbölümünü değiştirir; kuramın analiz birimi de budur. Sorularının çoğunu bir etmene yönlendiren bir grup, çıktı değişmese bile bilişsel işi yeniden dağıtmıştır.
 
 **"Dağıtılmış biliş, bireyin önemli olmadığı anlamına gelir."** Bireyin katkısının yalnızca bireysel performanstan okunamayacağı anlamına gelir; analiz birimi kişi değil etkinlik sistemidir.
-
-## Bağlı kavramlar
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Bağlı makaleler
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM üretimi ipuçları matematik öğrenme kazanımlarında insan özel öğretmen ipuçlarıyla eşleşti (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Sönümleme yanıtın derinliğine değil öğrenenin turunun neye yöneldiğine göre

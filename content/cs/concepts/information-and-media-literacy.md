@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -82,29 +84,3 @@ Názorový text z knihovnického sektoru posouvá stejnou myšlenku dál: AI by 
 ## Omezení důkazů
 
 Většina zdejších studií je malá, [[self-report-measures|sebeposuzovací]], nebo obojí: 236 studentů v jednom průzkumu, 36 dětí v jedné intervenci, 412 knihovníků hodnotících sebe sama. Bibliometrická viditelnost není praxe a scientometričtí autoři to říkají výslovně. Žádná studie v korpusu nehodnotí kombinované kurikulum informační a mediální gramotnosti a detektory a nástroje ověřování faktů, které literatura o praxi doporučuje, jsou v těchto zdrojích z velké části neměřené. Tvrzení, že ověřování poháněné AI zlepšuje výsledky, je třeba pokládat za designovou hypotézu, dokud ji někdo neotestuje proti kontrole.
-
-## Související koncepty
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Související články
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapování integrace gramotnosti v AI do výuky informační gramotnosti v akademických knihovnách: systematický přehled vznikajícího výzkumu
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Jak umělá inteligence přetváří informační gramotnost v akademických knihovnách: globální scientometrická analýza (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Umělá inteligence (AI) a vyhledávání informací: srovnávací průzkum chatbotů AI, vyhledávačů a knihovních zdrojů jako informačních zdrojů u univerzitních studentů
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Vývoj seminární výukové platformy podporované AI s vestavěnou podporou knihovníka
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Informační gramotnost prostřednictvím otevřené pedagogiky: Jakou roli mají nástroje AI?
-- [[huang-genai-academic-information-resources-2026]] — Generativní umělá inteligence přetváří udržitelné využívání akademických informačních zdrojů univerzitními studenty
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Zapojení studentů akademickými knihovníky při podpoře informační gramotnosti a výuky umělé inteligence v nigerijských terciárních institucích
-- [[offem-ai-information-literacy-library-users-2026]] — Umělá inteligence jako nástroj podpory informační gramotnosti mezi uživateli knihoven
-- [[critical-media-literacy-education-2026]] — Technologie, vzdělávání a kritická mediální gramotnost: potenciál, výzvy a příležitosti
-- [[demir-akar-ai-media-literacy-children-2026]] — Proměna kliknutí v kritické myšlení: program mediální gramotnosti založený na AI pro děti
-- [[ai-literacies-young-adults-2025]] — Podpora gramotností v AI pro mladé dospělé ve věku 14–19 let

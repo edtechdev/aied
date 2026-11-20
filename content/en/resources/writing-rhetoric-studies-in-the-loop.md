@@ -27,6 +27,7 @@ ai_assist:
     date: "2026-09-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 **Writing and Rhetoric Studies in the Loop: A GenAI Prompt Library** is an open-access, peer-reviewed collection that treats your [[prompt-engineering|prompting practice]] as a subject worth designing. Sixteen prompts, each contributed and tested across several GenAI platforms, pair a reusable prompt with the [[writing-education|writing]] knowledge behind it: Swales' CARS model for research introductions, the three rhetorical appeals, a genre mentor for building rhetorical expertise, trauma-informed prompting for ethical course proposals, a tripartite rhetorical-linguistic-translingual approach to reducing [[bias-mitigation|bias]], and structured AI-assisted review for revision. One prompt asks a model to speculate on how human readers will respond to a draft, a use of [[generative-ai|generative AI]] that puts the writer back in the position of judging an audience rather than outsourcing it.
@@ -36,6 +37,3 @@ The collection's Introduction frames a prompt as a rhetorical genre with a stake
 ## What to know before using it
 
 The whole book is free in PDF and ePub, and individual chapters are published separately with their own DOIs. Publication is July 2026 by the WAC Clearinghouse in its WAC Repository series, 402 pages, edited by Anuj Gupta and Brian Gogan, with the collection DOI 10.37514/TWR-B.2026.2999. The license is Creative Commons BY-NC-ND 4.0, so readers may view, print personal copies and link to the book, but may not reproduce it on another site or adapt it without permission; a course that wants modified prompt wording should write its own version rather than reprint these. Each chapter's prompt was tested across platforms, though the book reports no controlled comparison of outcomes, so treat the prompts as expert design rather than validated intervention.
-
-## Connected Concepts
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

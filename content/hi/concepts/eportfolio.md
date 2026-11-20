@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -76,29 +78,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - AI-सह-पोर्टफोलियो पैकेजों का अध्ययन करते समय घटक-पृथक्करण के लिए डिज़ाइन करें; अन्यथा क्षेत्र ऐसे संयोजन प्रभाव जमा करता रहता है जिन्हें वह विघटित नहीं कर सकता।
-
-## संबंधित अवधारणाएँ
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## संबंधित लेख
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — AI-सहायित पोर्टफोलियो मूल्यांकन का उपयोग करके बहुसाक्षरता विकास पर छात्रों की धारणाएँ (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL बोलने और प्रतिपुष्टि साक्षरता के लिए ई-पोर्टफोलियो मूल्यांकन के अनुरूप ChatGPT (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — AI युग में पोर्टफोलियो- और दक्षता-आधारित मूल्यांकन
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — जनरेशन AI के प्रति सहनशील प्रामाणिक मूल्यांकन, जिसमें सामाजिक योगदान पोर्टफोलियो भी
-- [[beyond-detection-authentic-assessment-ai-2025]] — AI-प्रतिरोधी मूल्यांकन के रूप में टिप्पणी-युक्त पोर्टफोलियो / मौखिक प्रतिरक्षा
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — संकर शिक्षार्थियों के लिए सहजीवी पोर्टफोलियो
-- [[pbl-structural-conditions-ai-2026]] — बड़े पैमाने पर मूल्यांकन के आंशिक उत्तर के रूप में पोर्टफोलियो
-- [[learn-framework-responsible-genai-pbl-2026]] — मूल्यांकन-योग्य सीखने के निशान के रूप में व्यक्तिगत सीखने के पोर्टफोलियो

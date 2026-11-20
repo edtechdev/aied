@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -39,6 +40,3 @@ Bir **değerlendirme paketi**: puanlama çalışma kitabıyla birlikte 20 hücre
 ## Kimler için
 
 Yapay zekânın bir araştırma ortamında nasıl kullanıldığına ve [[governance|yönetildiğine]] ilişkin kanıta dayalı bir tablo ile bu durumu zaman içinde [[change-management|izleme]] yolu arayan araştırma liderleri, komiteler ve politika ofisleri. Paket, hazırlığın beş boyutunu tanımlayan *Responsible AI in Academic Research: A Competency Framework for Research Training* adlı çalışmanın eşlikçisidir ve Instats direktörü Michael J. Zyphur tarafından kaleme alınmıştır.
-
-## Bağlı kavramlar
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

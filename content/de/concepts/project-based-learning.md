@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -86,32 +88,3 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 - **„Das Werkzeug anzupassen verbessert das Ergebnis."** Der Werkzeugtyp moderierte den Effekt signifikant (**QM = 14,301, p < 0,001**), und die Richtung ist kontraintuitiv: Ein **direkt genutzter allgemeiner Chatbot bündelte höher (g = 0,970)** als Systeme, die **in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0,455)**. Das bloße Werkzeug übertraf das eigens entwickelte, was dagegen spricht, anzunehmen, dass maßgeschneiderte Produkte der bessere Kauf sind.
 - **„Für Studierende ist die Offenheit das Schwierige."** In den Daten zur Studierendenwahrnehmung war **Offenheit das stärkste positive Thema (22,3%)**, während **unklare Instruktionen die Negativthemen anführten (23,7%)**. Die Studierenden begrüßten die Freiheit und beanstandeten die Mehrdeutigkeit — eine Unterscheidung, die zählt, weil die Abhilfe eine andere ist: klarere Aufgabenrahmung, nicht weniger offene Arbeit.
 - **„Studierende, denen es Freude machte, lernten mehr."** Wahrgenommenes Lernen korrelierte nur **moderat mit Quizwerten (r = 0,161–0,315)**. Zufriedenheit und gemessenes Lernen hängen hier nur schwach zusammen, eine positive PBL-Evaluation ist also für sich genommen kein Beleg dafür, dass die Lernziele erreicht wurden.
-
-## Verbundene Konzepte
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in KI in der Bildung
-- [[arts-and-media-education]]
-
-## Verbundene Artikel
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Rahmenwerke für generative-KI-gestützte Bildung: neue Evidenz aus einem systematischen Review und einer dreistufigen Metaanalyse
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotikbildung
-- [[genai-literacy-training-teacher-education-dbr-2026]] — KI-Kompetenz-Training für Lehrkräfte
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
-- [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL ist eine dominante CT-Lernstrategie
-- [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: KI-Agenten und Robotik innerhalb des Project Approach in der frühen Kindheit (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD mit KI-Agenten in teambasiertem Software-PBL
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: ein immersives VR-Designstudio mit eingebettetem Teaching Agent, evaluiert gegenüber traditionellem PBL (Jin et al. 2026)

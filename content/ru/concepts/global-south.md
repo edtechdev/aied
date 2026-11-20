@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -62,7 +64,6 @@ ai_assist:
 
 Запись о масштабировании — часть этой картины, и она отрезвляющая. Программы, работающие на пилотном масштабе, часто перестают работать, когда их запускают правительства: кенийская программа, давшая существенные приросты при неправительственной реализации, не показала обнаружимого прироста на правительственном масштабе (Bold et al.), размеры эффектов, как правило, падают по мере роста программ (Vivalt), а качество реализации разбавляется по мере умножения площадок (Al-Ubaydli, List & Suskind). Собственный прецедент Латинской Америки — перуанская программа «Один ноутбук на ребёнка» — около 800,000 ноутбуков, розданных без обнаружимого эффекта на [[math-education|математике]] или чтении, — из которой был извлечён урок о том, что доступ к технологии — это не преподавание. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] добавляют урок об отчётности к уроку о масштабировании: в эпизоде 2026 года в Сальвадоре пилот ИИ-обучения в 171 школах был объявлен сопоставимым с Германией и Швецией, тогда как представительная выборка PISA 2025 той же страны не показала движения по двум из трёх предметов, а данные пилота были слишком тонкими (7.0 оценённых студентов на школу против 25.4 в масштабе страны), чтобы исключить отбор как объяснение. Для систем Глобального Юга, внедряющих ИИ в масштабе, следствие двойное: доказательства того, что реформа работает, обычно касаются компонентов, которые она объединяет, а не технологии в её заголовке, и поэтапное развёртывание, спроектированное до внедрения, идентифицирует эффекты практически без затрат, — что важнее всего там, где связность диктует фазирование в любом случае.
 
-
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi и van der Merwe (2026)]] утверждают на материале класса Grade 9 в Южной Африке, что [[educational-policy-ai|институциональная политика]], начинающая с ограничений, закрывает условия, при которых ИИ мог бы расширять, а не подменять преподавателей в условиях педагогической скудости, и что данные взаимодействия, которые порождают учащиеся, удерживаются под иностранными режимами управления.
 
 Доступ может насытиться раньше, чем способность: среди 633 студентов в восьми университетах Бенина 92.3 процента использовали генеративный ИИ еженедельно, и принятие определяла рабочая нагрузка, а не воспринимаемая полезность, поэтому разрыв больше не сводится главным образом к доступу к инструменту ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
@@ -72,36 +73,3 @@ ai_assist:
 - **«Контекстам с малыми ресурсами не хватает рамки этики ИИ, и её нужно импортировать».** Работающие преподаватели STEAM среднего звена в контексте с малыми ресурсами **рассуждают об этике ИИ через профессиональную идентичность, реальность аудитории и культурные нормы, а не через формальные принципы**. Рассуждение существует и является ситуативным; универсальный список принципов переносится на него плохо.
 - **«Тип управления предсказывает интеграцию ИИ в университетах».** Сравнительный контент-анализ **45 нигерийских университетов** (федеральных, штатных и частных) обнаружил, что интеграцию ИИ предсказывают **возраст учреждения и географическое положение, а не тип управления**. Допущение, что государственные и частные учреждения расходятся, опровергается.
 - **«Цифровой разрыв — главный барьер».** [[qualitative-research|Качественное]] исследование кейса **21 студента бакалавриата с нарушениями зрения из трёх палестинских университетов** обнаружило, что GenAI преодолевает **цифровые, географические и социально-экономические** барьеры одновременно. Барьеры многослойны, и трактовка доступа как единственного препятствия оставляет остальные нетронутыми.
-
-## Связанные концепции
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Связанные статьи
-
-- [[genai-assessment-african-higher-education-review-2026]] — Переосмысление оценивания в эпоху генеративного ИИ: систематический обзор литературы по высшему образованию Африки
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Институциональные структуры, цифровое неравенство и интеграция ИИ в высшем образовании Нигерии
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Унифицированная социокогнитивная модель для инженерного образования (Бангладеш)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: планирование уроков во Вьетнаме
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: набор данных Indian Knowledge Systems
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: бенчмарк STEM Ганы
-- [[genai-minoritized-knowledges-disability]] — Маргинализация меньшинствованных знаний
-- [[llm-cultural-relevance-k12]] — LLM для культурно релевантной педагогики K-12
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Интеграция генеративного ИИ в высшее образование Бангладеш через конструктивизм (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Ассистивный генеративный ИИ для обучающихся с нарушениями зрения
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Ограничение утверждения об обучении из пилота ИИ-обучения в Сальвадоре (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Академические разработчики как цифровые посредники в HDI Южной Африки: цифровое неравенство против алгоритмической колониальности
-- [[ai-ethical-awareness-ghana-students-2026]] — Осведомлённость об этике искусственного интеллекта у университетских студентов Ганы
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Этические принципы ИИ в образовании: контекстуальное этическое рассуждение преподавателей
-- [[gouroubera-genai-benin-2026]] — 633 students in Benin: weekly use 92.3 percent, workload the dominant driver, so access is no longer the binding constraint (Gouroubera et al. 2026)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -66,51 +68,8 @@ La réglementation se relie à l'[[educational-policy-ai|évaluation de la polit
 
 La réglementation ne se traduit pas automatiquement vers le bas : 32 organismes de financement opérant là où des règles étatiques sur l'IA existent publiaient des politiques générales mais aucun instrument propre au financement portant ces règles ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
-
 ## Idées fausses courantes
 
 - **« La politique institutionnelle sur l'IA est là où vivent les règles. »** L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson et Rainie (2026)]] auprès de **1 057 enseignants américains** mesure à quel point les règles effectives se situent sous la couche institutionnelle : **87 % des répondants rédigeaient leur propre orientation**. La politique opérante est largement rédigée par les enseignants, ce qui signifie que la couche institutionnelle documentée décrit moins qu'elle n'en a l'air.
 - **« Rédiger une politique couvre la surface à risque. »** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] montre pourquoi l'outillage d'évaluation appartient à l'ensemble régulé : lors d'un test de red team, **deux des cinq injections d'invite indirectes** cachées dans une copie ont réussi. Une règle qui nomme les outils mais pas les surfaces d'injection laisse l'exploit sans réponse.
 - **« Les systèmes agentiques sont couverts en étendant les règles existantes. »** Dans une analyse documentaire de **12 universités**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong et Sun (2026)]] constatent qu'**aucune politique comparée ne traitait d'un agent se connectant à un système de gestion de l'apprentissage**. Le fossé de gouvernance est structurel : les catégories existantes n'ont pas de case pour un acteur autonome disposant d'identifiants.
-
-## Concepts liés
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — exposition juridique lorsque la réglementation et la gouvernance sont floues ou trop larges
-
-## Articles liés
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — L'IA dans la politique britannique d'enseignement supérieur
-- [[oecd-digital-education-outlook-2026]] — OCDE Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — Cadres de déclaration d'usage de l'IA
-- [[genai-assessment-governance]] — Gouvernance de l'évaluation sous l'IA générative
-- [[league-ethical-governance-student-data-2026]] — Gouvernance éthique des données étudiantes
-- [[student-regulatory-awareness-genai]] — Conscience réglementaire des étudiants à l'égard de l'IA générative
-- [[dot-framework-survey-2026]] — Cadres d'adoption des technologies
-- [[raza-farooq-aied-review-2020-2025]] — Revue complète des recherches en AIED
-- [[qian-governing-genai-higher-ed-policy-2026]] — Recommandations plutôt que politique contraignante : les règles internes sur l'IA dans 50 universités innovantes américaines (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Politique des écoles de droit sur l'IA générative notée sur cinq dimensions : prohibitive par défaut, pouvoir d'appréciation des enseignants, revue périodique (Gutowski et Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Les interdictions d'IA sur-inclusives et les obligations d'aménagement raisonnable qu'elles peuvent engager (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — L'origine linguistique dans les règles d'évaluation : la frontière soutien-substitution comme question d'égalité (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Les attaques par injection de prompts contre les correcteurs IA et le plaidoyer pour des tests standardisés de résilience (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — La pression réglementaire extérieure comme condition de la réforme de la gouvernance (Coates, Croucher et Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% du corps professoral rédige ses propres règles face à une mince couche de politique institutionnelle (Watson et Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — « We'll Fix It Later » : l'éducation, l'IA et l'ajournement de la confidentialité des étudiants dans l'EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Aucune politique comparable ne traitait le cas d'un agent IA se connectant à un LMS ou détenant les identifiants d'un étudiant (Wong et Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — Non-traduction verticale : des règles étatiques existent tandis que les financeurs placés sous elles n'émettent aucun instrument contraignant (Chan 2026)
-

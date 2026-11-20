@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,11 +48,3 @@ Giáo viên K–12 đã dùng [[generative-ai|AI sinh tạo]] để xây một c
 Member và Builder miễn phí (Builder: 50 ứng dụng, 50 MB); Pro là \$10 mỗi tháng hoặc \$60 mỗi năm cho 500 ứng dụng. Truy cập theo mô hình freemium.
 
 Quyền riêng tư là tuyên bố mạnh hơn, nhưng nó chuyển trách nhiệm sang giáo viên. Teacher Hive không tạo tài khoản học sinh, không hỏi học sinh thông tin cá nhân, và không chạy script phân tích hay quảng cáo bên trong các ứng dụng đã xuất bản. Vì ứng dụng công khai theo link, các điều khoản đặt giáo viên chịu trách nhiệm bảo đảm ứng dụng của họ không thu thập tên, email, mã số học sinh hay vị trí. Phạm vi tiếp cận (WCAG 2.2 AA) áp dụng cho các trang của chính Teacher Hive, không áp dụng cho ứng dụng do giáo viên làm, vốn chưa được kiểm thử. Không có giấy phép mã nguồn mở nào được nêu, và thời gian hoạt động cùng việc lưu giữ dữ liệu không được bảo đảm.
-
-## Khái niệm liên quan
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -15,6 +15,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 > **Psychology education** — the teaching of psychology as a discipline: the introductory and methods sequence, the undergraduate major, and the clinical and counseling training that leads to practice. It has the largest AI literature of any discipline in this base, and most of that literature does not study the psychology curriculum at all. Psychology students are the most convenient sample in [[higher-ed|higher education]]. They supply the respondents for generic studies of [[motivation|motivation]] and feedback. A smaller set of studies examines the courses themselves: assessment design in a second-year unit, an [[intelligent-tutoring|AI tutor]] in a statistics course, and the clinical training where AI is both a tool and a professional risk. The distinction matters because a finding that psychology students use [[generative-ai|generative AI]] in one way is not a finding about teaching psychology.
@@ -93,27 +95,3 @@ When a paper says "scaffolding" or "critical thinking", ask which theory's versi
 - **"AI in psychology education is mainly about clinical tools."** The largest share of studies concerns [[writing-education|writing]], feedback and study habits; clinical tools are a small, recent and distinct strand.
 - **"Reliable generated items are usable items."** Reliability without coverage of higher-order outcomes produces a well-measured test of the wrong thing.
 - **"Trainees are either for or against AI."** The latent-class evidence says four or more profiles per domain, differing by tool.
-
-## Connected Concepts
-
-- [[social-sciences-education]] — the cluster page this discipline sits inside, and where the sociology evidence lives
-- [[humanities-education]] — the neighbouring interpretive discipline with the same assessment problem
-- [[ai-literacy]] — the construct most psychology-education studies are really measuring
-- [[assessment-validity]] — the criterion for any AI-assisted assessment decision
-- [[feedback]] — the mechanism the strongest studies here turn on
-- [[self-efficacy]] — the disposition that mediates continued use
-- [[student-ai-interaction]] — how students actually engage the tool, as against how they say they do
-
-## Connected Articles
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT replaces peer assessment in a second-year psychology media assignment
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 generated items: reliable, and 73.75% recall
-- [[ai-tutor-statistical-programming-adoption-2026]] — Preregistered longitudinal study of R-Tutor in a psychology statistics course
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o as a client: lower anxiety, agreeable and culturally flat
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — Three to four latent classes in every domain
-- [[mental-health-literacy-students-llms-2026]] — 150 psychology students against four LLMs on 30 statements
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 undergraduates, six vignettes, and whether literacy predicts judgment
-- [[critical-genai-use-predictors]] — Knowledge, epistemic orientation and values predict critical use
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Trust and self-efficacy carry continued use; anxiety brakes it
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy as the only significant predictor of essay grade
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 students, two years apart: use doubled, cheating perception fell

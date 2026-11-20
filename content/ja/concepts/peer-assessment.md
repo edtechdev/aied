@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -101,49 +103,3 @@ ai_assist:
 - **「相互評価は教員のフィードバックの安価な代替である」** 仕組みは[[learning-by-teaching|教えて学ぶ]]であり、それは機械の間でも現れます。**240万を超えるAIエージェント**の間のピア学習のような言説は、ほとんどが探究ではなく**断定**でした。批評を生み出すことは、それを受け取ることとは別の行為です。
 
 - **グループ成績の背後にある記録としての省察的なピア・自己フォーム。** [[issa-teamwork-framework-academic-integrity-2024|Issa と Hall（2024年）]]は、大学院のビジネス・プロジェクト管理ユニットで、チームメイトごとに1枚のピア省察フォームと、学生ごとに1枚の自己省察フォームを用い、加えて各チームとの30分の面談で、成員の貢献が独創的だったかを尋ねました。フォームはフィードバック交換として採点されたのではありません。40%のチーム評価の中で教員が個人の評点を擁護できるようにする、一人ひとりの証拠でした。この枠組みの評点は40点中27点から31点へ上がりましたが、それは新しい講師と交絡しており、誠実性の主張は数値化されていないため、移転可能な部分は記録の構造であり、効果量ではありません。
-
-## 関連する概念
-- [[pedagogical-patterns]] — PAIRR と組み合わせたピアと AI のフィードバック——配列とその比較的な証拠
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## 関連する記事
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — 統合された AI とピアのフィードバックは、三つのエンゲージメントの側面すべてと四つの IELTS ライティングの側面すべてを高めた
-
-- [[usher-faraon-who-grades-best-2026]] — プロジェクトの質の水準にわたって、ChatGPT、ピア、教員の採点を比較する（Usher & Faraon 2026）
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection（PAIRR）
-- [[becerra-aicofe-feedback-2026]] — AI ピアフィードバックシステム
-- [[ai-internal-feedback-evaluative-judgments]] — 学部生の評価の判断の発達を解きほぐすこと
-- [[learner-centered-feedback-ai]] — AI を用いて学習者中心のフィードバックを強化すること
-- [[genai-linguistic-diversity-academic-writing]] — 学術的なライティングにおける生成 AI と言語的多様性
-- [[gift-ai-pairr-business-writing-2025]] — ビジネスライティングコースにおける PAIRR——ピアレビュー、チャットボットのフィードバック、省察（MacArthur et al. 2025）
-- [[scaffolding-srl-feedback-genai-human-peers]] — 自己調整されたフィードバックとフィードバック・リテラシーに足場かけを施す、生成 AI 対人間のピア（Gu et al. 2026）
-- [[irwin-muller-efl-peer-feedback-literacy]] — 話すことの EFL ピアフィードバックにおける、Trainer と Synthesizer としての生成 AI（Irwin & Muller 2026）
-- [[genai-feedback-design-multisite-experiment]] — ピアのみ、直接的、省察的、ハイブリッドの生成 AI フィードバックを比較する多地点の実験（Ateş 2026）
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 協働的な論証における、プロンプトで足場かけを施された生成 AI ピアフィードバック（Chang et al. 2026）
-- [[chen-zou-genai-group-assessment-agency-2026]] — 生成 AI によって媒介されたグループ評価における主体性——協力、抑制、非実現（Chen & Zou 2026）
-- [[code-review-genai-cs1]] — CS1 における生成 AI の害の軽減としての口頭コードレビュー面接（Fowles et al. 2026）
-- [[multimodal-affective-its-presentation]] — ピアフィードバックの拡張可能な代替としての自動化されたマルチモーダルな発表のコーチング（Suen & Hung 2026）
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI 生成の議論の要約が、オンラインフォーラムにおけるピアの接触を広げる（Hao & Cukurova 2026）
-- [[qu-wang-disclose-or-not-genai-2026]] — 学生の生成 AI の開示における、ピアの影響と関係的な信頼（Qu & Wang 2026）
-- [[llm-critical-thinking-teamwork-review]] — 批判的思考、チームワーク、問題解決のための LLM の系統的レビュー（Martínez-Peláez et al. 2025）
-- [[ai-agents-peer-learning-discourse]] — 240 万の AI エージェントの間の、ピア学習のような言説（Chen et al. 2026）
-- [[oneill-presumed-effective-meta-analysis-2026]] — 14 件の AIED メタ分析と 59 件の一次研究の監査（O'Neill 2026）
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 ライティングにおける教師フィードバック対 AI に支援されたピアフィードバック——二つの課題にわたる量、焦点、改善の軌跡（Tang, Li & Luo 2026）
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — グループ成績の背後にある一人ひとりの証拠としての自己・ピア省察フォーム（Issa & Hall 2024）
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654人の学生による役割の語彙：チューター 28.6%、協働者 23.1%、ツール 9.9%、ロボット 7.7%
-

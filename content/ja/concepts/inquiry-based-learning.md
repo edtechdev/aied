@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,40 +77,3 @@ IBLの問い駆動で過程に焦点を当てた構造は、生産的なAI利用
 **「探究は定義上、構造を持たない。」** 教育者が足場かけを行い、構造は内容の伝達ではなく問いの設計と省察のサイクルにあります。足場を外すことは探究をより真正にするのではなく、足場かけのないものにします。
 
 **「学生が関心を持てば、学生主導の問いはよく形づくられる。」** 実行可能な問いを生み出すことが、育成される技能そのものです。だからこそ、良い問いを供給するシステムは、その活動が教えるために存在する探究の技能を代わりに遂行してしまっています。
-
-## 関連概念
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — 生産的な失敗
-
-## 関連記事
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAMにおける探究学習のためのChatGPT(システマティックレビュー)
-- [[dai-chatbots-problem-posing-primary-2026]] — 初等理科における生成AIチャットボットと問題の作成
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM駆動の環境におけるIBLのパターン(ブルームの視点から)
-- [[mujib-ai-ibl-creative-math-2026]] — AIに支えられたIBLと創造的な数学的な成果
-- [[zhao-genai-higher-order-thinking-meta-2026]] — 生成AIと高次の思考に関するメタ分析
-- [[niri-steam-ai-literacy-review-2026]] — AIリテラシーのためのSTEAM教育
-- [[kim-ai-productive-failure-adult-2026]] — 生産的な失敗に基づく学習を支えるAIシステムの設計
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的な失敗のためのLLMの教育的な操舵
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: 自律的な言語学習のためのChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 光合成と呼吸におけるAIに支えられたガイド付き探究(理科の教員教育)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — 学部生の論文と研究に基づく学習を支えるAIによる情報抽出(An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — 気候変動に関する社会科学的な論争におけるAIに支えられた探究
-- [[geoscience-field-learning-genai-2026]] — 生成AIが学習者の気づきを先に構造化するのを防ぐ、野外優先の指導モデル(Choi 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 人間の促進者対 AI 媒介の問題基盤型学習：内容の伸びは等しく、促進者なしでは批判的思考が弱い（Shetty & Rao 2026）
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 探究の5段階にわたる生成AIの66研究の地図。探究の技能を測定したのは8研究のみ
-

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -39,7 +40,3 @@ Nettleserredigeringen kjører lokalt i siden og laster ikke opp noe utkast. Den 
 ## Hva du bør vite før du tar den i bruk
 
 Repoet publiserer en evalueringsprotokoll, før-og-etter-eksempler i `samples/` og referansefiler bak ferdigheten, så en gransker kan inspisere hvordan reglene oppfører seg i stedet for å tro på en påstand; siden her gjengir ikke noe målt resultat. Forfatteren er Addy Osmani, lisensen er MIT, og arbeidet er uavhengig snarere enn et produkt av en institusjon. Det er ungt og aktivt: opprettet i august 2026, 54 commits, tre utgivelser med den nyeste som versjon 0.2.1 i september, og omkring 250 stjerner da det ble sjekket i september 2026. Tre bidragsytere har fått endringer inn. Ferdighetsinstruksjonene lastes inn i en agent leseren allerede kjører, så de vanlige forbeholdene om [[prompt-engineering|ledetekstskriving]] gjelder: kvaliteten på kritikken avhenger av utkastet den får.
-
-## Tilknyttede begreper
-
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -51,11 +52,3 @@ Các trưởng chương trình và trưởng học phần ở giáo dục đại
 Mô hình chưa được đánh giá ở quy mô lớn. Bài báo nói rõ rằng chưa có mẫu, công cụ hay kết quả đo lường nào, và cần chạy thử để kiểm tra liệu sản phẩm của Giai đoạn 1 có nâng cao sự tự tin của người đánh giá hay tính nhất quán trong diễn giải, liệu sinh viên có trải nghiệm thiết kế này là công bằng hơn, và một ngành đặt ngưỡng đầy đủ như thế nào mà không biến Giai đoạn 1 thành kỳ thi thứ hai.
 
 Hai chi phí thực tiễn là có thật. Giai đoạn 1 đòi hỏi các buổi có giám sát và việc thu nhận an toàn ở quy mô lớn, còn ghi âm và dịch đa ngôn ngữ là điều kiện tiên quyết chứ không phải phần thêm vào. Và phán đoán diễn giải được cố ý để cho người chấm: mô hình giả định chuyên môn ngành không thể tự động hóa, đó là một giả định về nhân lực cũng như về thiết kế.
-
-## Khái niệm liên quan
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

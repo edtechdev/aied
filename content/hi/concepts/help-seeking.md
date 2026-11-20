@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -130,53 +132,3 @@ ai_assist:
 - **"जिन छात्रों को सहायता चाहिए वे माँगते नहीं।"** बड़े नामांकन वाले स्नातक पाठ्यक्रमों में एक **पूर्व-पंजीकृत प्रयोग** ने छात्रों को एक शैक्षणिक चैटबॉट के माध्यम से संदेश भेजा और **ट्यूटरिंग तथा पूरक सहायता का अधिक उपयोग** पाया। उत्प्रेरण ने व्यवहार बदला, इसलिए बाधा इच्छा नहीं, [[prompt-engineering|प्रॉम्प्टिंग]] थी।
 - **"सहायता-खोज के अनुरोध सीखने के बारे में होते हैं।"** **परिचालन सहायता की माँग** इस धारणा को जटिल बनाती है: **4,093 क्वेरीज़** में, कम से कम **20.4% ने ज्ञान के बजाय किसी लंबित सबमिशन की स्थिति** के बारे में पूछा। सहायता की माँग का पाँचवाँ हिस्सा प्रशासनिक था।
 - **"AI ट्यूटर का उपयोग करना अपने सीखने की निगरानी करना है।"** एक GenAI ट्यूटर का उपयोग करने वाले **98 कक्षा-9 छात्रों** के अध्ययन में, अंतःक्रियाओं पर **साधनात्मक अनुरोधों का दबदबा था, अपने सीखने की निगरानी या मूल्यांकन लगभग शून्य**। उत्तर माँगना उस अर्थ में सहायता-खोज नहीं है जो यह संरचना दर्शाती है।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष संकल्पनाओं के लिए छत्र
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — संस्थागत उपागम और सहायता आवंटन, पाठ्यक्रम के भीतर सहायता खोज से परे
-
-## संबंधित लेख
-
-- [[leite-its-k12-meta-analysis-2025]] — कौन-से ट्यूटरिंग समर्थन प्रभाव ढोते हैं: स्वचालित संकेतों के बजाय माँग-आधारित उदाहरण और संकेत
-- [[taufer-human-ai-interaction-haidl-2026]] — अंतःक्रियाएँ प्रथम-श्रेणी के डेटा के रूप में: किसी क्वेरी को उसके आसपास के निष्पादन-अवस्था से वर्गीकृत करना
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — सहायता-खोज का प्रक्षेपपथ, उसका स्तर नहीं, असहाय गणित प्रदर्शन की भविष्यवाणी करता है
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: LLM का उपयोग करने वाला एक पेन-आधारित इंटरैक्टिव इन-सिटु प्रश्नोत्तर प्रणाली
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM में LLM-मध्यस्थ सहायता खोज: स्तरित, उपकरणात्मक और सत्यापित
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — एक क्लिक दूर: एक द्विवर्षीय विद्यालय प्रयोग में Khanmigo
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL के साथ आभासी ट्यूटरिंग: उपयोग और सीखने में एक प्रयोग
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — एक AI पाठ्यक्रम में शिक्षार्थी–LLM संवादों का StudyChat डेटासेट
-- [[lak2026-hint-button-unproductive-use]] — असमयबद्ध संकेत अनुरोध और सतही संकेत पठन एक ITS में कम अवशोषण लाभ की भविष्यवाणी करते हैं
-- [[ai-fallibility-warning-help-seeking]] — AI की अयोग्यता के बारे में चेतावनी देना एक गणित ट्यूटरिंग प्रणाली में सहायता खोज बढ़ाता है
-- [[regulating-ai-tutor-adolescent-srl]] — किशोर GenAI सहायता खोज और स्व-नियमित सीखने में इरादा-व्यवहार अंतराल
-- [[guided-llm-scaffolding-independent-learning]] — मार्गदर्शित LLM स्कैफ़ोल्डिंग तर्क-केंद्रित सहायता खोज और स्वतंत्र सीख सुधारती है
-- [[rethinking-scaffolding-llm-tutors]] — वास्तविक दुनिया के LLM शिक्षक परिनियोजनों में स्कैफ़ोल्डिंग/शिक्षार्थी-उपयोग बेमेलपन
-- [[uneven-impact-generative-ai-student-learning-2026]] — प्रारंभिक निर्भरता: स्वतंत्र सोच, खोज या शिक्षक से पहले GenAI से परामर्श लाभ और हानि दोनों की भविष्यवाणी करता है (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — ऑनलाइन रचना में संसाधन साक्षरता: अड़चन यह पहचानना है कि सहायता कब आवश्यक है (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — शैक्षणिक सहायता में बाधाएँ घटाना: उच्च शिक्षा में सहायता खोजने की विषमताओं के संबोधन के लिए एक पाठ्यक्रम-विशिष्ट RAG प्रणाली का मूल्यांकन
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — अनुकूली स्कैफ़ोल्डिंग को सापेक्षता की आवश्यकता: एक AI शिक्षक जो शिक्षार्थी के कार्य पर आधारित होकर बढ़ाता और घटाता है
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: समस्या-समाधान के दौरान लक्षित AI सहायता खोज को स्कैफ़ोल्ड करना
-- [[guided-ai-tutor-impasse-resolution-2026]] — मार्गदर्शित AI शिक्षक शिक्षार्थी अड़चनों को कैसे सुलझाते हैं, इसमें भिन्नता की जाँच
-- [[student-query-demand-hybrid-ai-support-2026]] — शिक्षार्थी वास्तव में क्या पूछते हैं: एक संकर सहायता प्रणाली में मांग संरचना और स्वचालन की संभावना
-
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — एक लाइव प्रोग्रामिंग पाठ्यक्रम में अगली-सबमिशन शुद्धता, प्रयासों और समय के विरुद्ध संकेत की लंबाई का मापन
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — एक सहायक एजेंट जिसे किसी ने नहीं बुलाया (Humburg et al. 2025)

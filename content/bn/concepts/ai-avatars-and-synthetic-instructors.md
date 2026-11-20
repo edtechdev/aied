@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -118,47 +120,3 @@ ai_assist:
 **"অ্যাভাটারের চেহারা প্রসাধনী।"** পরিচয়-সংকেত বিশ্বাসযোগ্যতার রেটিং ও নির্দেশের প্রকৃত গ্রহণ — দুটিই বদলায়, বয়স্ক কৃষ্ণাঙ্গ নারী অ্যাভাটারের শাস্তি যৌগিক হয়ে।([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) কনফিগারেশন একটি শিক্ষাদানগত ও ন্যায্যতার সিদ্ধান্ত।
 
 **"অনুকরণকৃত রোগী মানে মানক রোগী, খরচ বাদ দিয়ে।"** প্রশিক্ষণাধীন মনোবিজ্ঞানীরা তাঁদের ভার্চুয়াল রোগীকে সহযোগী ও ইতিমধ্যেই থেরাপি-অগ্রসর পেয়েছেন — একটি "আদর্শ" কেস যা আচরণগত অনমনীয়তা কম প্রতিনিধিত্ব করে।([[ai-psychotherapy-training-avatars]]) খরচ কমে; কেস-বৈধতা স্বয়ংক্রিয়ভাবে অনুসরণ করে না।
-
-## সংযুক্ত ধারণা
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — অ্যাভাটার-পরিচয়ের সংকেত বিশ্বাসযোগ্যতা ও নির্দেশ-গ্রহণ সরিয়ে দেয় (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — অনুশীলন-ভিত্তিক শিক্ষক-শিক্ষায় শিক্ষার্থী-অ্যাভাটার সংলাপ (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — একটি এআই-সাক্ষরতা কর্মশালায় লিঙ্গভেদে ডিপফেক তৈরি ও প্রতিবেদন
-- [[elevate-genai-virtual-tutors]] — শিক্ষক-সুশাসন স্তরসহ স্থানীয়-প্রথম 3D অ্যাভাটার টিউটর (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — ক্লিনিক্যাল যোগাযোগের জন্য LLM বিচারকসহ অ্যাভাটার-রোগী
-- [[genai-simulate-patient-history-pbl-2026]] — একটি PBL ইতিহাস-গ্রহণ টিউটোরিয়ালে GenAI রোগী-অ্যাভাটার
-- [[ai-psychotherapy-training-avatars]] — সাইকোথেরাপি প্রশিক্ষণে ACT-নিষ্ঠা অনুশীলনের জন্য রোগী-অ্যাভাটার
-- [[aclime-pedagogical-agents-extended-reality-2026]] — বর্ধিত বাস্তবে শিক্ষাদানগত এজেন্ট: উপস্থিতি, বাস্তবতা ও ভার (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — পাশে থাকা ব্যক্তির হস্তক্ষেপের জন্য পুতুল-চালিত অ্যাভাটারসহ রোবট-মধ্যস্থ ভূমিকা-অভিনয়
-- [[personalized-ai-generated-videos-preference-2026]] — ক্লোন-করা প্রশিক্ষকের ভিডিও ব্যক্তিগতকরণ ও শিক্ষার্থী-পছন্দ
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — শ্রেণিকক্ষ-সিমুলেশনে উপস্থাপনাকে এজেন্সি থেকে আলাদা করা চার-স্তরের কাঠামো
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — কোর্স-প্রতিক্রিয়া সাক্ষাৎকারের জন্য প্রস্তাবিত কথোপকথনমূলক কণ্ঠ-এজেন্ট
-- [[trikonet-trivalence-co-creativity-2026]] — সামাজিক-কারিগরি নেটওয়ার্কে সহ-সৃজনশীল শিক্ষাদানগত অ্যাভাটার (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 শিক্ষার্থীর মাত্র 51.7% জোগানো নৃতাত্ত্বিক ভূমিকা নেন; একজন এটিকে প্রতিক্রিয়ার ভেন্ডিং মেশিন বলেছেন

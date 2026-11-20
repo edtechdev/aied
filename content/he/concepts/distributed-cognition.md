@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -80,33 +82,3 @@ Fowlin et al. (2026) מבצעים את החלוקה הזו כרצף דו-שלב�
 - **"מסמך משותף פירושו קוגניציה משותפת."** פרופילים מבוססי-נפח של **97 לומדים** נבדלו ב**ידע קודם ובבעלות-מחברות** אך **לא בהנחיה בתפקיד פעיל או ברמת ההבנה**. נפח ההשתתפות מדד חשיפה, לא את ביזור העבודה הקוגניטיבית — ולכן [[learning-analytics|אנליטיקת שימוש]] בכלי שיתופי אומרת מעט מאוד על מי חשב.
 - **"כולם מטעינים ל‑AI באותה מידה."** מורים מתחילים **מאצילים נתח גדול מהנטל הקוגניטיבי של תכנון הוראה למערכת ה‑AI**, ומגיעים ל**ביזור דומיננטי-בינה מלאכותית** שבו הם ברובם מקבלים תגובות, בעוד מורים מנוסים ומיומני-בינה מלאכותית מבזרים אחרת. מומחיות נראית במקום שבו מונח הנטל, לא רק בכמה AI משתמשים.
 - **"יותר מעורבות AI פירושה יותר תמיכה."** ביזור דומיננטי-בינה מלאכותית הוא הדפוס שיש לשים לב אליו, משום שחלקו של האדם בעבודה הקוגניטיבית מצטמצם בזמן שנפח התוצר עולה. המערכת יכולה להיראות מסוגלת יותר בדיוק כאשר המשתמש עושה פחות.
-
-## מושגים מקושרים
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## מאמרים מקושרים
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirical study of human–AI collaborative problem-solving through a distributed cognition + co-regulation lens
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as a pedagogical mediator redistributing cognition across human and non-human actors
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated thinking
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition framework reconceptualizing thinking as human–AI interaction
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — זיכרון טרנסאקטיבי עם GenAI: חלוקת עבודה והתמרה רפלקטיבית מתווכות חשיבה ביקורתית (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — מדוע הלומד הבודד הוא יחידת הניתוח הלא-נכונה
-- [[rivera-novoa-genai-extended-cognition-2026]] — קוגניציה מורחבת בלמידת מדעים: GenAI תחליפית כברירת מחדל ומשלימה בעיצוב (Rivera-Novoa & Duarte Arias 2026)

@@ -10,6 +10,8 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 > **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In [[ai-education|AI in education]], agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning|self-regulated learning]], [[motivation|motivation]], [[self-efficacy|self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.
@@ -63,7 +65,6 @@ A complementary account widens SRL rather than replacing it: [[de-barba-srl-gena
 - **Epistemic delegation in early-career research:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]] frame AI dependence among doctoral and postdoctoral researchers as *epistemic delegation* — the transfer of problem framing, method choice, and interpretive authority to the intelligent system — and found it negatively associated with both [[self-efficacy|research self-efficacy]] and research autonomy, with supervisory support buffering the loss. It extends agency debates from learner autonomy to the formation of the researcher themselves.
 - **Interpretive authority as a design variable (a conceptual framework).** [[porath-interpretive-authority-2026|Porath (2026)]] reframes the who-decides question as the distribution of *interpretive authority* — who defines problems, evaluates responses, and determines when understanding is achieved — mapping four non-hierarchical configurations (human-dominant, AI-assistive, AI-directive, dialogic partnership) that classrooms move across within a single task, and grounding shifts in five ecological layers from individual metacognition to sociocultural narratives. The article's normative claim aligns with the evidence: AI-directive configurations, however sophisticated, can suppress productive struggle and metacognitive regulation, the same capacities that ground agency. As a conceptual piece it contributes diagnostic vocabulary, not empirical evidence.
 
-
 Agency connects to [[self-regulated-learning|self-regulated learning]], [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[student-experience|student experience]], [[human-ai-collaboration|human AI collaboration]], [[ethics|ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition|metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
 - **Bounded use as epistemic control, not reluctance.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] reports that higher-achieving students in a 484-response [[higher-ed|university]] survey showed lower active AI engagement and lower [[self-report-measures|perceived learning]] impact while *also* reporting lower AI-related disengagement, and described their own use as verification-intensive: outputs checked, then subordinated to their own reasoning. Read as agency rather than avoidance, the pattern is a deliberate retention of judgment — students keeping authorship of the conclusion while using the tool for clarification and summarization.
@@ -72,11 +73,9 @@ Sustained boundary work, not tool skill, is what separates agency from delegatio
 - **Acting, knowing, and answering are not the same thing.** A discourse analysis of 366 [[generative-ai|GenAI]] higher-education abstracts names AI as an actor 2,050 times without ever making it answerable, while responsibility for judging outputs and verifying claims is placed on students: grammatical activation, functional agency, epistemic authority and normative accountability come apart ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 - **Agency has three modes, and the third is what policy supplies.** With only 18% of teachers and 24% of principals reporting a school [[educational-policy-ai|AI policy]], most educators exercise individual agency with no proxy agency acting for them — Bandura's third mode, supplied by institutional rules ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 
-
 ## Agency as an emergent, interactional phenomenon
 
 **Agency is not one capacity, and the distinction survives into AI-mediated practice.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] surveyed 47 Swedish year 7 students after a semester of AI instruction and found agency directed at AI *output* does not extend to the *systems* producing it. The split held **within individual students**: 79% had a score range of three or more across nine items, and a per-student dissociation index favored output-directed over system-directed engagement in **35 students against 4 in reverse** (sign test, p < .001). **62% of the most source-critical students** still endorsed the least protective option on chatbots reading their own writing, and only one student in the sample chose the highest privacy stance. Critically, this was measured **one month after** a lesson in which students watched their own logged behavior projected live — they called it "scary" and stayed through recess to keep using the platform. Agency as an emergent, interactional property is consistent with this: it surfaces per practice rather than transferring across practices, and what one lesson foregrounds does not generalize to the register it did not address.
-
 
 Learner agency is not only a static individual trait — it is also an **emergent, interactionally constituted process** enacted through discourse and the moment-to-moment coordination of group work. In collaborative learning, agency is distributed and re-negotiated through the interplay of divergent processes (generating ideas, exploring alternatives) and convergent processes (evaluating, integrating, synthesizing). This view matters for AI because [[agentic-ai|agentic AI]] systems can subtly *redistribute* epistemic and regulatory labor within a group, reshaping who contributes, who shapes directionality, and who regulates progress — often without learners being aware of it.
 
@@ -109,7 +108,6 @@ A structural reading of agency appears in [[ai-agents-joyful-assessment-third-sp
 This distinction between enacted agency and stable identity applies to refusal. As [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] describes it, declining a chatbot for assessed writing, prohibiting it for unaided reasoning, resisting automated triage in [[student-support-and-success|student support]], or delaying procurement are separate relations to separate systems, spanning personal, pedagogical, professional, administrative, and institutional levels rather than one durable disposition. That right is unevenly allocated: students with academic confidence can decline without penalty, while those needing language, accessibility, or rapid-feedback support read refusal as lost opportunity, and secure academics refuse on principle while casual staff feel pressure to adopt. Where AI sits in infrastructure, refusal is displaced from individual opt-out into procurement, audit, and contestability.
 - **Refusal as identity construction, not just a decision (students of color in [[sociocultural-learning|apprenticeship]] learning).** [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]] interviewed five secondary-school apprentices over 9 months and found they authored themselves through AI in three moves: refusal (non-use as institutional alignment), negotiation (repairing institutional mismatches, privacy as distant abstraction), and recognition (equating fairness with absence of visible bias — a "cultural flatness" in which their identities go unrepresented in AI responses). The study's two interpretive concepts — Institutional AI Literacy and Recognition Bandwidth — name the capacity to make AI use institutionally legible and the room students have to see themselves recognized in AI outputs. A five-student single-program narrative inquiry; its contribution is showing that AI use, limitation and refusal are bound up with how learners understand themselves as authors and emerging professionals.
 
-
 ## The Ecological Co-Agency Framework: agency as an epistemic design problem
 
 [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] reframes learner agency as fundamentally an *epistemic* concern: [[generative-ai|generative AI]] does not simply add a tool but reassigns epistemological authority — the ability to produce knowledge, validate claims, and create evidence of learning — from teachers to students to machines. The paper's **Ecological Co-Agency Framework** treats co-agency as the relationship between three interdependent dimensions, all bounded by a non-negotiable condition of human epistemic accountability:
@@ -129,67 +127,3 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - **"Students exercise agency when they use AI freely."** A **14-category scheme coding 6,788 ChatGPT-assisted turns** placed **59% of seventh graders' turns** into categories that do not represent agentic use. Usage volume and agency are different measures.
 - **"Current models support learner agency well."** **Benchmarked across ten models, supporting agency is where they do worst after learning**: ImpactBench measured **Agency and Purpose at 56.0%** on positive criteria. Agency is the dimension AI systems handle least well, not a by-product of capability.
 - **"Teacher mediation is a constraint on agency."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] followed **ten secondary mathematics teachers across an eight-week ChatGPT-4** intervention and the mediation is the mechanism rather than the obstacle.
-
-## Connected Concepts
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — shared direction of AI-mediated interaction
-- [[agentic-ai]] — autonomous AI that can redistribute agency in groups
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[social-emotional-learning]] — Social-Emotional Learning
-- [[cognitive-surrender]]
-
-## Connected Articles
-- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
-- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix and Ecological Authority Integration Model: four configurations of who interprets, and the ecological layers that shift them
-- [[gyekye-selves-apprenticeship-2026]] — Students of color in apprenticeship programs authored themselves through AI via refusal, negotiation, and recognition ("cultural flatness"); Institutional AI Literacy and Recognition Bandwidth
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Shared epistemic agency in 6,788 ChatGPT-assisted turns of secondary-school science writing (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership fell only where the whole essay was delegated; planning and reviewing users matched non-users (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

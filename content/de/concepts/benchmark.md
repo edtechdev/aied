@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -108,40 +110,3 @@ Diese Unterscheidung sollte man beibehalten. Ein Leaderboard-Wert ist eine Aussa
 - **„Die Leaderboard-Position sagt Ihnen, wie gut ein Tutor ist.“** StudentBench **randomisiert 2.383 Erwachsene auf KI-Tutoring, Live-Tutoring durch menschliche Experten und eine Video**bedingung und bewertet gegen menschliche Tutoren statt gegen andere Systeme. Ein Benchmark, der auf andere Modelle skaliert ist, beantwortet eine Frage, die niemand beantwortet haben musste.
 - **„Simulierte Personas sind eine angemessene Grundlage für die Tutor-Evaluation.“** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] verankert die Evaluation in **dokumentierter Fallliteratur statt in simulierten Personas** und nutzt **923 Dialoge**. Erfundene Schüler-Personas lassen ein System Fälle bestehen, die nicht vorkommen.
 - **„Benchmarks kann man vertrauen, ohne den Judge zu prüfen.“** Halluzination wurde als **Entailment gegenüber den abgerufenen Open-License-Chunks (κ = 0,76 mit Expertenurteil)** bewertet — der Judge wurde gegen Experten validiert, bevor seine Werte verwendet wurden. Ein nicht validierter automatischer Judge produziert Zahlen unbekannter Bedeutung.
-
-## Verbundene Konzepte
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Verbundene Artikel
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: Evaluation von LLM-Tutoren bei Lernenden mit herausforderndem Verhalten (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Ein Benchmark mit 624 Items zur Englischkompetenz, der Modellfähigkeit als kalibriertes Niveau berichtet (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Messen Beurteilungsinstrumente bei Menschen und LLMs dasselbe? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: pädagogisches Wissen von LLMs (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: Benchmarking LLM-basierter Instructional-Design-Agenten
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-Premise-OER-KI-Wissensbasis-Assistenten: mehrdimensionaler Benchmark
-- [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen: authentische Beurteilung in KI-reicher Hochschulbildung
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking großer Sprachmodelle zur Diagnose kognitiver Fähigkeiten von Lernenden anhand handschriftlicher Mathematikarbeiten
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Ein Benchmark mit langem Zeithorizont für pädagogische LLM-Agenten mit simulierten Lernenden
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolle Beurteilung im KI-Zeitalter: zentrale Erkenntnisse einer zukunftsorientierten Konferenz
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modellierung feingranularer Merkmale für holistische Essay-Bewertung
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking multimodaler LLMs für die Folienprüfung
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: Benchmark zur Evaluation generierter Mathematikdiagramme
-- [[eeg-familiarity-automated-assessment-2026]] — Automatisierung der Lernendenbeurteilung: EEG-basierte Vertrautheitsvorhersage
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation für die theoretische Informatikausbildung -- Ein umfassendes Evaluationsframework für Algorithmenanalyse und Komplexitätstheorie
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotationsfirst, aufgabengenerative Benchmark-Konstruktion und Nicht-Redundanz auf Dimensionsebene über 12 Aufgaben zu künstlerischem Bildmaterial (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen äquivalente GRE-Lernzuwächse
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für die pädagogische Beurteilung neuartiger KI-gestützter Bildungsfragen
-- [[llm-benchmark-secondary-science-topics-2026]] — Ein Benchmark für das Verständnis von LLMs zu naturwissenschaftlichen Themen der Mittel- und Oberstufe
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Acht Designprinzipien für KI-Tutor-Benchmarks, abgeleitet aus einer Metrik, die in Wiederholung hinein optimiert wurde (Domínguez Figaredo & Fernández De la Cruz 2026)
-
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Vergleich von KI-Ansätzen für automatisierte Skill-Extraktion: von Embeddings zu agentischen Systemen für die Ingenieurausbildung

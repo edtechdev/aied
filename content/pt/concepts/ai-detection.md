@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -139,56 +141,3 @@ A pergunta construtiva se desloca de "como impedimos os estudantes de usar a IA?
 **"A pergunta que um detector responde é se a escrita é humana ou de IA."** Esse binário é conceitualmente insustentável, e não apenas difícil de computar. A assistência à escrita existe em um continuum, a política da maioria das instituições permite parte dela, e nenhum limiar em uma pontuação de saída se mapeia sobre uma fronteira defensável. A falha medida é uma falha de política: as categorias que os detectores prometem não existem no trabalho que os estudantes de fato entregam.
 
 **"Um regime de detecção protege a integridade."** Ele pode miná-la. A detecção fomenta um clima de suspeita que corrói a [[trust|confiança]] entre estudantes e equipe, e a literatura de [[academic-integrity|integridade]] que este corpus relata coloca as alavancas duradouras no redesenho da avaliação, e não na fiscalização. O mecanismo da corrida armamentista também significa que o regime continua custando mais enquanto mede menos: as taxas de base de sinalização variaram de **0,0% a 100,0%** entre intensidades de edição, o que não é um sinal de discriminação.
-
-## Conceitos conectados
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Artigos conectados
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 sites de humanização performando legitimidade: detecção e evasão como um único mercado comercial (Roe et al. 2026)
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — A hipótese de que a fiscalização filtra por capital acadêmico, e não por conduta
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Oito LLMs ranqueiam seis técnicas anticolagem; a detecção de IA fica em último
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Vinte avaliadores sobre intuição, detectores mortos e referências fabricadas
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Um survey nacionalmente representativo de professores e diretores dos EUA sobre cobertura de política de IA, agência e cinco jogadas de sala de aula (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Avaliação na era da IA
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detector por Restauração de Prompt Latente
-- [[ivory-psychology-assessment-integrity-2026]] — A detecção é a alavanca errada: a fronteira de aprovação decidiu se o trabalho de IA foi pontuado como conquista (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Avaliando LLMs para detectar conteúdo gerado por LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] — Para além da detecção: avaliação autêntica
-- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação responsável na era da IA
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integridade da coautoria e validade da avaliação
-- [[student-rationalization-ai-writing]] — A racionalização da escrita por IA pelos estudantes
-- [[socially-fluent-ai-identity-detection]] — Detecção da identidade de IA socialmente fluente
-- [[ssaho-ai-academic-integrity-review-2025]] — Revisão da confiabilidade da detecção de plágio/conteúdo de IA baseada em IA
-- [[bassett-ai-detectors-education-2026]] — Cara, ganhamos; coroa, você perde: detectores de IA na educação (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Por que o resultado do detector não consegue fundamentar uma conclusão de má conduta
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discriminação em vez de taxa de captura, e quando o monitoramento volta-se contra
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin e Originality em 192 textos: ambos abaixo de um macro F1 de 0,55 e quase inúteis na escrita híbrida
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Quatro detectores contra 160 artigos com verdade de solo; apenas o Pangram teve desempenho, mas sinalizou 45,5% das teses ao vivo
-- [[munoz-misconduct-allegation-evidence-2026]] — O resultado do detector é o tipo de evidência com pior avaliação em 1.162 arquivos reais de casos de má conduta
-
-- [[wright-transcription-not-generation-2026]] — Regras abrangentes de "uso de IA" confundem transcrição com geração
-- [[sharma-judgment-visible-genai-assessment-2026]] — A detecção rebaixada a uma camada suplementar atrás do julgamento visível
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — A detecção como sinal condicional, e por que as respostas de segurança acrescentam variância irrelevante ao construto (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Redações de admissão escritas por IA são generalizadas, mas penalizadas
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Nove atributos estilométricos interpretáveis: ROC-AUC 0,870, mas quatro de 18 documentos de autoria independente sinalizados (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Um manuscrito humano, cinco detectores, classificações de "0% humano" a "Human Generated", mais a retirada institucional documentada da detecção (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: integridade acadêmica na era da IA generativa
-- [[student-llm-code-detection-cs1-2026]] — O código de LLM converge em tarefas fortemente restringidas (1–14 formas de AST por 1.000 arquivos), mas não nas livres — a detectabilidade segue o desenho da tarefa
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluando detectores de texto gerado por IA em cazaque
-- [[making-ai-work-for-students-ofs-2026]] — OfS e Advance HE (2026): 244 profissionais e 91 estudantes em 127 instituições sobre detecção, desenho de avaliação, letramento em IA e estratégia

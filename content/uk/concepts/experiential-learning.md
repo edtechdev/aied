@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -93,39 +95,3 @@ ai_assist:
 **Для проєктувальників програм**
 
 - Перевіряйте, що прикладні програми містять прикладну роботу, а не лабораторні сурогати; твердження про перенесення спирається на автентичність зустрічі.
-
-## Пов’язані поняття
-
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Зонтичне поняття: педагогіки та стратегії викладання в освіті зі ШІ
-- [[virtual-and-augmented-reality]] — імерсивна практика як свідомий досвід
-
-- [[reflection]]
-
-## Пов’язані статті
-
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Рамкова концепція Workforce Readiness Level для інтелектуального виробництва в епоху ШІ
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Розвиток сталого навчання через втілену інтелігенцію (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI в освіті з кібербезпеки
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Робототехніка та ШІ в освіті
-- [[ai-lms-middle-school-longitudinal]] — Лонгітюдне дослідження LMS з інтеграцією ШІ
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — Персони ШІ, що підміняють польову роботу в спільноті, із рубрикою з п’яти показників для визначення, де підміна провалюється (Elhajj та співавт. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Тематичний огляд, що розрізняє втілену практику та когнітивну практику в освіті зі ШІ з дизайну (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — курс стратегічного управління, перебудований навколо трьох механізмів генеративного ШІ
-- [[gelli-experiential-language-learning-2026]] — GELLI: генератор інтеракцій для досвідницького вивчення мов (Symonette та співавт. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Віртуальна лабораторія з підтримкою ШІ для перевернутого навчання фізики: вплив на досягнення, мотивацію та когнітивне навантаження учнів середньої школи
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — Досвідницькі проти інструкційних сесій для метакогнітивної усвідомленості в навчанні з підтримкою ШІ (Benazet i Montobbio та співавт. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 досліджень, зіставлених із циклом навчання через служіння: ШІ рідшає на оцінюванні та рефлексії (Yusuf та співавт. 2026)
-

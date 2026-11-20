@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -90,49 +92,8 @@ Bernstein and Sibia (2026) מתעדים דפוס איטרטיבי-מסנן בט�
 
 - **"תלמיד אינו יכול להזיז ציון של מעריך."** הם יכולים, וזהו הכשל העמיד ביותר בסוללה: **17 מתוך 22** מודלים העלו את הציון שלהם יותר לאחר התנגדות עירומה מאשר לאחר בקשה להסתכל שנית, כולל **שישה משמונת** אלה שעברו כל בדיקת משחק ובדיקת תשובה ריקה. הגדול ביותר היה Llama 3.2 3B ב-**+33.2% מהסקאלה**, והבקשה להסתכל שנית עצמה הורידה ציונים עבור **עשרה** מתוך 17, ולכן הניגוד אינו האפקט הגולמי של ההתנגדות. [[porcaro-ai-grading-benchmark-2026|ציונים שתלמיד יכול להתווכח איתם זקוקים לתיעוד של החליפין]].
 
-
 ## תפיסות מוטעות נפוצות
 
 - **"טקסונומיות אינטראקציה הן מוסכמות."** **לאורך 46 קטגוריזציות מ-33 מחקרים, תוויות דומות מציינות תופעות שונות**, וזו הסיבה שהסקירה מציעה את *אפיזודת האינטראקציה* כיחידה. סכמת קידוד שנשאלה מטקסונומיה אחת עשויה למדוד מבנה אחר.
 - **"סטודנטים משתמשים ב-AI כחונך."** בקרב **38 סטודנטים לתואר ראשון** שכתבו חיבורים טיעוניים ללא פיקוח, **76.32% השתמשו בדפוס של תור-אחד: שאל–קבל-תשובה–עצור**, שלרוב הדביק את כותרת המטלה. הדפוס הדומיננטי הוא שליפה בתור-אחד, וזו אינה חונכות.
 - **"שימוש רב יותר ב-AI מעיד על מעורבות רבה יותר בחומר."** ניתוח של **200 שיחות תכנות משותף** מצא ש-**78.8% מהאינטראקציות תלמיד–GenAI התנהלו על מטרות ואסטרטגיות שאינן שליטה**. נפח האינטראקציה מדד משהו אחר מהיעד למידה, ולכן ספירת מפגשים היא פרוקסי מטעה למעורבות.
-
-## מושגים קשורים
-
-- [[learners]] — הלומדים: המטרייה למושגים שצד הלומד
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## מאמרים קשורים
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Usage frequency and self-rated expertise predicted nothing across 819 students
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — העמסה קוגניטיבית לעומת הקצאה מחדש בהערכות תלמידים–GenAI ללא פיקוח (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "האם זו מלכודת?": אי-אימוץ GenAI בקרב סטודנטים להוראה בהערכות (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — ניתוח סוגי הפניות באינטראקציית תלמיד–בינה מלאכותית
-- [[student-llm-interaction-taxonomy-review-2026]] — סקירת טקסונומיית אינטראקציית תלמיד–LLM
-- [[teacher-authored-prompts-student-ai-dialogue]] — הנחיות שכותבים מורים בדיאלוג תלמיד–בינה מלאכותית
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — בניית אוריינות AI אפיסטמית
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): שילוב LLM ב-CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — סוכן חינוכי מבוסס LLM (DBagent) בחינוך למדעי המחשב
-- [[isaza-chatgpt-engineering-prompting-2026]] — הנחיה ושילוב מתועדים
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — פגומים אך בלתי נשכחים: קבלה ביקורתית של אנלוגיות GenAI מותאמות-אישית בקרב סטודנטים למחשוב
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: מודל קונספטואלי של כיצד מודלי שפה גדולים מעצבים למידה
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: ראיה מניסוי שדה רנדומלי
-- [[context-prompts-physics-assignments-2026]] — מטלות פיזיקה מונעות בינה מלאכותית באמצעות הנחיות הקשר
-- [[three-pathways-student-ai-interaction-2026]] — טיפולוגיית שלושת הנתיבים של אינטראקציית תלמיד–בינה מלאכותית: 46% סקירה פסיבית, 18% שאלה ישירה, 36% דיאלוג אסטרטגי
-
-- [[porcaro-ai-grading-benchmark-2026]] — מעבר להסכמה: 22 מעריכים מונחים מתמודדים עם בדיקות שתשובתן הנכונה ידועה, ורובם ניתנים לשכנוע להעלות ציון (Porcaro 2026)
-

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -73,54 +75,3 @@ Fikra za kihesabu ni msingi wa pamoja wa kiakili chini ya [[ai-literacy]] na [[c
 - **"Msaada wa AI husawazisha uwanja katika mazingira yenye rasilimali chache."** Unaweza, chini ya masharti. **Jaribio la nusu-ya-kisayansi la wiki 14 na wanafunzi 103 wa mwaka wa kwanza nchini Nigeria** liligundua kujifunza kunakotegemea matatizo kunakosaidiwa na AI (ChatGPT na Teachable Machine) kulizalisha faida, na AI kama "mwenza mwenye uwezo zaidi" hubeba CT pale ambapo huduma nyingine haipo. Lakini hilo ni ugunduzi kuhusu uingiliaji uliopangwa, si sifa ya kuwapa wanafunzi [[conversational-ai|chatbot]].
 - **"LLM haziwezi kutathmini CT kwa kuaminika."** [[llm-computational-thinking-physics-2026|Utafiti wa tathmini ya CT ya fizikia]] uligundua LLM zinaweza **kuiga wapimaji wa binadamu** katika kupanga ukuaji wa Mazoea ya Data na Mazoea ya Utatuzi wa Matatizo ya Kikokotoo katika kozi zenye uandikishaji mkubwa. Kikwazo cha kupanua tathmini ya CT kimekuwa uwezo wa wapimaji, na kikwazo hicho kinapungua, jambo linalohamisha tatizo la ubuni kuelekea kama chombo kinapima CT badala ya utiifu.
 - **"CT ni ujuzi wa kuandika kodi ambao robotiiki hufundisha kwa bahati."** **[[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya masudio 95** yanathibitisha robotiiki inakuza CT, ubunifu na utatuzi wa matatizo, lakini pia kwamba **mazingira hurekebisha matokeo**: uwasilishaji wa [[game-based-learning|kujifunza kwa mchezo]] unafaa mazingira yasiyo rasmi ilhali uchezaji wa mchezo unatofautiana katika yale rasmi. CT ni seti ya mazoea yanayohamishika kwa njia isiyo sawa, hivyo dai la uhamishaji linahitaji ubuni wa kazi uliotumika kweli.
-
-## Dhana Zilizounganishwa
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Makala Zilizounganishwa
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

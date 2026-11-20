@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -76,29 +78,3 @@ e-포트폴리오는 단일 최종 결과물보다 **과정, 성찰, 입증된 �
 **"유의미한 다변량 결과는 포트폴리오가 실제 작용 성분이었음을 입증한다."** 그것은 묶음이 성과를 움직였다는 것을 입증할 뿐입니다. 그 연구는 AI 도구, 포트폴리오 구조, 말하기 과제를 결합했으며, 그런 형태의 설계는 어느 구성 요소가 향상을 낳았는지 분리할 수 없습니다. 방어 가능한 주장은 결합에 관한 것이며, [[learning-gains]]에 대한 주의가 여기에도 적용됩니다. 보고된 향상은 재사용되기 전에 특정 구성 요소로 추적되어야 합니다.
 
 **"e-포트폴리오는 도움 없는 평가의 필요성을 대체한다."** 그것은 그러한 평가를 보완합니다. 포트폴리오는 시간에 걸친 과정과 성장을 증명하지만, 학습자가 지원 없이 무엇을 할 수 있는지는 증명하지 않습니다. 둘을 혼동하면 이 형식이 해결하려 했던 결과물 대리물 문제가 다시 들어옵니다.
-
-## 연결된 개념
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## 연결된 문서
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — AI 지원 포트폴리오 평가를 활용한 다중 리터러시 발달에 대한 학생의 인식 (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL 말하기와 피드백 리터러시를 위한 e-포트폴리오 평가와 정렬된 ChatGPT (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 포트폴리오 및 역량 기반 평가
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 사회적 기여 포트폴리오를 포함하여 생성형 AI에 강인한 실제적 평가
-- [[beyond-detection-authentic-assessment-ai-2025]] — AI에 저항하는 평가로서의 주석 포트폴리오 / 구두 변론
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 하이브리드 학습자를 위한 공생 포트폴리오
-- [[pbl-structural-conditions-ai-2026]] — 대규모 평가 문제에 대한 부분적 답으로서의 포트폴리오
-- [[learn-framework-responsible-genai-pbl-2026]] — 평가 가능한 학습 흔적으로서의 개인 학습 포트폴리오

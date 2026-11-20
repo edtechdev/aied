@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -104,55 +106,3 @@ ai_assist:
 - **"উত্তম প্রম্পট উত্তম সমালোচনামূলক চিন্তা তৈরি করে।"** **কাঠামোবদ্ধ সংলাপ-নিয়ন্ত্রণ, উত্তম প্রম্পট নয়**, ভ্রান্তি-টিউটরকে বিতর্ক-চ্যাটবট থেকে আলাদা করে: **টুলমিন-ভিত্তিক অভিপ্রায় শনাক্তকরণের** মধ্য দিয়ে প্রতিটি পালা পাঠানোই কাজটি করেছে। কার্যপ্রণালী হলো মিথস্ক্রিয়া-কাঠামো, শব্দচয়ন নয়।
 - **"জেনএআই-ব্যবহার সরাসরি সমালোচনামূলক চিন্তা বাড়ায়।"** জেনএআই-ব্যবহারের সঙ্গে **স্ব-প্রতিবেদিত** সমালোচনামূলক চিন্তার সম্পর্ক প্রায় সম্পূর্ণভাবে গিয়েছিল জেনএআই [[feedback-literacy|প্রতিক্রিয়া-সাক্ষরতার]] মধ্য দিয়ে — **421 চীনা স্নাতকের** মধ্যে প্রতিক্রিয়া-সাক্ষরতা সম্পর্কের **71%** মধ্যস্থতা করেছিল। সাক্ষরতাই পথ।
 - মেটা-বিশ্লেষণী প্রভাবটি সর্বসম।"** **29টি পরীক্ষায়** জেনএআই উচ্চক্রম চিন্তা মাঝারিভাবে বাড়িয়েছে (**g = 0.609**), সমালোচনামূলক চিন্তা **ES = 0.691**-এ। বিষম হস্তক্ষেপের ওপর মাঝারি সম্মিলিত প্রভাব শ্রেণিটিকে সমর্থন করে, নির্দিষ্ট কোনো নকশাকে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, এলএলএম-সীমা, পরীক্ষণের দর্শন
-- [[biology-education]] — জীববিজ্ঞান শিক্ষা ও এআই: ল্যাব শিক্ষণ-সহায়ক, জীববিজ্ঞানে এআই-সাক্ষরতা, সমালোচনামূলক চিন্তা, বিশেষায়িত হাতিয়ার
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## সংযুক্ত নিবন্ধ
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — সমালোচনামূলক চিন্তা শ্রম-বিভাজন ও আউটপুট পুনর্কর্মের মধ্য দিয়ে চলে, প্রকাশের মধ্য দিয়ে নয়
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30-বিশেষজ্ঞের ঐকমত্য: সমালোচনামূলক চিন্তা প্রতিবেদনের সর্বোচ্চ ব্যাঘাত-রেটিং বহন করে (গড় 4.00)
-- [[pearls-epistemic-verification-2026]] — জ্ঞানতাত্ত্বিক এজেন্সি ও এআই-আউটপুট যাচাইয়ের PEARLS কাঠামো (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — জেনএআই-সহায়ক লেখায় স্তর-সংবেদী জ্ঞানীয় অফলোডিং (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — জেনএআই-সংহত শিখনে সমালোচনামূলক-চিন্তার প্যারাডক্স
-- [[pedagogy-ai-mistakes]] — এআই-ভুলের শিক্ষাবিজ্ঞান: উচ্চক্রম চিন্তা লালন (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — ত্রি-ব্যবস্থা তত্ত্ব ও জ্ঞানীয় আত্মসমর্পণ: এআই কীভাবে মানব যুক্তি পুনর্গঠন করে (Shaw ও Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — জ্ঞানীয় কমনসের ট্র্যাজেডি: এআই ও দক্ষতা পুনরুৎপাদন
-- [[zhao-genai-higher-order-thinking-meta-2026]] — জেনএআই ও উচ্চক্রম চিন্তার মেটা-বিশ্লেষণ
-- [[avraamidou-ai-colonization-science-education]] — বিজ্ঞান শিক্ষায় এআই-উপনিবেশবাদ ব্যাহত করা
-- [[li-mroziak-reorienting-critical-ai-literacy]] — সমালোচনামূলক এআই-সাক্ষরতার পুনরভিমুখীকরণ
-- [[luo-ibl-patterns-llm-bloom-2026]] — এলএলএম-চালিত পরিবেশে আইবিএল ধরন (ব্লুমের দৃষ্টিকোণ)
-- [[probing-ai-generated-physics-solutions-2026]] — এআই-উৎপাদিত পদার্থবিজ্ঞান-সমাধান সমালোচনায় শিক্ষার্থীদের প্রস্তুত করা
-- [[student-reception-genai-analogies-computing-2026]] — ত্রুটিপূর্ণ কিন্তু স্মরণীয়: কম্পিউটিং শিক্ষায় আগ্রহ-ব্যক্তিগতকৃত জেনএআই উপমার প্রতি শিক্ষার্থীদের সমালোচনামূলক গ্রহণ
-- [[daoism-ai-education-philosophy-2026]] — বিকল্প এআই-দর্শন: শিক্ষায় এআই-এর পদ্ধতি হিসেবে দাওবাদ
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — দেহগত বুদ্ধিমত্তার মাধ্যমে টেকসই শিখন লালন (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — এআই অতিনির্ভরতা জটিল অভিযোজী ব্যবস্থা হিসেবে মডেলকৃত
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — এআই-সমর্থিত বহুমাধ্যম লেখনে মাত্রা-নির্দিষ্ট সমালোচনামূলক-চিন্তা লাভ (Lu প্রমুখ 2027)
-- [[lftutor-logical-fallacy-education-2026]] — কাঠামোবদ্ধ বহু-পালা সংলাপের মাধ্যমে ভ্রান্তি শনাক্তকরণ শেখানো
-- [[caeai-ai-companions-learning-over-performance-2026]] — কর্ম-সম্পাদনের বদলে শিখন: সঙ্গীদের কীসের জন্য অনুকূল ও মাপা উচিত
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — এআই স্ক্যাফোল্ডিং, অফলোডিং ও যাচাই-সাক্ষরতা মেটা-জ্ঞানগত আত্ম-নিয়ন্ত্রণের মধ্য দিয়ে (Davor প্রমুখ 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — জেনএআই নির্ভরতা ব্যবসায়-শিক্ষার্থীদের মধ্যে ব্যবহার থেকে সমালোচনামূলক-চিন্তা সম্পর্ক সীমাবদ্ধ করে (Shojaei প্রমুখ 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — প্রতিফলন-প্রম্পট ভুল এআই-পরামর্শ গ্রহণ ও আরোপণ-পক্ষপাত কমায় (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — সমালোচনামূলক মানব–এআই মিথস্ক্রিয়ার কাঠামো হিসেবে ভূমিকা-আবর্তন (Kenzhebayeva প্রমুখ 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — বিশ্ববিদ্যালয় রসায়ন শিক্ষায় যাচাই-কেন্দ্রিক জেনএআই সংহতি (Vega-Baudrit ও Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — শিক্ষক-নির্বাচিত ChatGPT প্রতিক্রিয়া উচ্চক্রম পুনর্লিখনের মধ্য দিয়ে সমালোচনামূলক চিন্তা বাড়ায় (Chen প্রমুখ 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — এক সেমিস্টারের এআই-প্রবেশাধিকার সমালোচনামূলক চিন্তা অপরিবর্তিত রেখেছে; প্রতিফলনশীল ব্যবহার তা পূর্বাভাস দেয় (Melanou প্রমুখ 2026)
-
-- [[genai-dependence-research-creativity-2026]] — 1,157 স্নাতকোত্তর শিক্ষার্থীর মধ্যে জেনএআই নির্ভরতা সমালোচনামূলক চিন্তার সঙ্গে ধনাত্মকভাবে সম্পর্কিত
-- [[genai-use-critical-thinking-moderation-2026]] — প্রতিক্রিয়া-সাক্ষরতার মধ্য দিয়ে জেনএআই-ব্যবহার থেকে সমালোচনামূলক চিন্তা, প্রত্যক্ষ পথ কেবল কম প্রতিফলনশীল শিক্ষার্থীদের জন্য
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The pessimistic reading of the moderation evidence: friction loss, automation bias, efficiency frame
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative review of 108 documents: the effect's sign tracks prior knowledge and task timing (AMCIF framework)

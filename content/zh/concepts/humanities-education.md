@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -76,29 +78,3 @@ ai_assist:
 **"价值观教育可以作为内容交给模型。"** [[genai-values-education-affordances-risks-2026|Chen（2026）]]把价值观教育重新框定为一种关系性实践，具有三个条件 —— 可问责性、示范性与称呼 —— 并把 GenAI 的每一种可供性都读作对一种关系的替换：被模拟的视角替换了可能被伤害的利益相关者。
 
 **"人文学科面对的是和其他学科一样的评估问题。"** 制品不同：关于一个文本意味着什么的论断，要对反解读作出辩护，它不是一份发现报告，也不会因为模型会写报告就变成发现报告。
-
-## 关联概念
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## 关联文章
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 面向SSH教育的诠释性认知发展性-批判模型
-- [[capodieci-humanities-hil-2026]] — 人文学科学习中的智能体式 AI，以及从文本作者身份转向诠释归属
-- [[paternalistic-filter-llm-history-education]] — 历史教育中的LLM使用、过滤器与历史推理
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — 从工具到方法：历史教学中的AI素养
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 以知识图谱与LLM为文学创作提供接地支架
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587个Go8人文艺术单元的计算审计：2026年58.6%的评估条目高度暴露于AI
-- [[corbin-essay-time-genai-2026]] — 被评估的论文早已收窄为一份论点与证据报告
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — 一所博雅学府在本科课程中全面规定GenAI素养
-- [[genai-values-education-affordances-risks-2026]] — 作为关系性实践的价值观教育，以及GenAI的每种可供性替换了什么
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — 任务格式与AI使用说明作为制品所能证明的东西
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — 诚信与批判性数字素养是同一个问题，由评价性判断连接起来

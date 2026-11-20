@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,6 +43,3 @@ Pune întrebări peste întregul set de surse, rezumă documente lungi și urmă
 ## Note și precauții
 
 Google declară că conținutul conturilor personale nu este folosit pentru antrenarea modelelor sale decât dacă utilizatorul trimite feedback, că încărcările, interogările și răspunsurile din Workspace nu sunt folosite pentru antrenament nici atunci când se dă feedback și că [[privacy|datele nu sunt partajate cu terți]]; notebook-urile șterse, însă, nu pot fi recuperate. Afirmațiile de capabilitate de mai sus sunt ale furnizorului, iar un district sau o instituție ar trebui să le confirme față de propriul acord de prelucrare a datelor, nu față de o pagină de produs. Presa din 2026 a descris și un proces privind vocea folosită în podcasturile generate, pe care Google l-a negat — un memento că rezultatele audio ridică [[legal-issues-and-risks|chestiuni de imagine]] separate de protecțiile de ancorare în surse. Tratează cartonașele, quiz-urile și rezumatele generate ca schițe de verificat față de surse și ține cont că limitele nivelului gratuit se schimbă fără anunț.
-
-## Concepte conexe
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

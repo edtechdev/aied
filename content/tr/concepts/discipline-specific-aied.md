@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -107,50 +109,3 @@ Bu yetersince temsil edilmeyen disiplinler, bilgi tabanı büyüdükçe ayrılm�
 - **"Disiplin esas olarak içerik örnekleri için önemlidir."** **560 öğrenci** üzerinde yapılan araştırma, disiplin aidiyetinin **öğrencilerin [[generative-ai|üretken YZ]]'yi ne sıklıkta ve ne kadar açık biçimde kullandığını öngördüğünü** buldu. Disiplin, aracın ne sorulduğunu değil, aracın hiç kullanılıp kullanılmadığını ve bu kullanımın açıklanıp açıklanmadığını da biçimlendirir.
 - **"Disiplinler arasılık genel bir kurumsal hedeftir."** **"Disiplinler arası" olanın biçimi de disiplin tarafından belirlenir**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia ve ark.'nın (2026)]] [[meta-analysis-systematic-review|derlemesi]], aldığı biçimin alana göre değiştiğini bulur. Tek bir kurumsal tanım, kapsadığı disiplinlerin en azından bir kısmını yanlış okur.
 - **"Mesleki eğitim, akademik disiplinlerle karşılaştırılabilir bir araştırma tabanına sahiptir."** Mesleki başlık **bu kanıtta en ince olandır**: mesleki eğitim ve öğretimde **26 çalışma** üzerine bir sistematik derleme, çalışmaların **hiçbirinin işyeri ortamlarında yürütülmediğini** buldu; yetkinliğin fiilen kullanıldığı ortamlar bunlardır. Literatürün yokluğu bir boşluktur, sıfır sonuç değil.
-
-## Bağlı kavramlar
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Bağlı makaleler
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Disiplinler arası yükseköğretimde YZ’ye ilişkin sistematik derleme (59 çalışma)
-- [[llms-text-linguistics-teaching-2026]] — Metin dilbilimi öğretiminde LLM’ler
-- [[fowlin-operationalizing-learning-principles-ai]] — Sağlık meslekleri eğitiminde YZ ile öğrenme ilkelerinin işlevsel kılınması
-- [[designing-ai-professional-development-itpack-2026]] — Akıllı-TPACK temelli YZ mesleki gelişimi
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Öğretmen eğitiminde GenAI’ye özgü TPK
-- [[human-centered-ai-teacher-educators-2026]] — Öğretmen eğitimcileri için eleştirel YZ okuryazarlığı mesleki öğrenimi
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Beşeri ve sosyal bilim eğitiminde yorumlayıcı biliş
-- [[becker-chatgpt-typology-physics-2026]] — Fizik eğitiminde ChatGPT kullanım tipolojisi
-- [[code-review-genai-cs1]] — CS1’de GenAI kod incelemesi
-- [[ai-writing-support-stage-ownership-2026]] — Aşamaya dayalı YZ yazma desteği ve sahiplik
-- [[ai-engineering-education-balancing-act]] — Mühendislik eğitiminde YZ’nin denge işi
-- [[ai-literacy-career-adaptability-business-2026]] — İşletme eğitiminde YZ okuryazarlığı ve kariyer uyum yeteneği
-- [[jiang-genai-activity-theory-disciplines-2026]] — Etkinlik kuramı: GenAI kullanımında ve açıklamasında disipliner farklılıklar (560 öğrenci)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Hemşirelik eğitiminde YZ destekli benzetim: bilgi ve güvende kazanımlar, psikomotor beceri üzerinde tutarsız etkiler
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Lisansüstü BT öğreniminde iskele mi, kısayol mu olarak GenAI
-- [[ai-vocational-education-training-review]] — Mesleki eğitim ve öğretimde YZ’ye ilişkin ilk sistematik derleme
-- [[genai-architectural-design-studios]] — Tasarım stüdyosunda üretken modeller: uyaran, çözüm uzayı genişletmesi ve sabitleşme
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aşırı genelleştirilmiş bir kuralı yetkinlik olarak sertifikalandıran ustalık durdurma kuralları

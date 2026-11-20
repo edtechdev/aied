@@ -34,6 +34,7 @@ ai_assist:
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -80,11 +81,3 @@ AI를 둘러싼 프레이밍은 노력을 외주화하면 학생이 덜 유지�
 130개 이상의 맞춤형 캠퍼스 판이라는 출판사 수치는 출판사의 것이며,
 ALA, NASPA, EDUCAUSE, OLC, CAA, the Gardner Institute, RTI International의
 추천사도 마찬가지입니다.
-
-## 연결된 개념
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

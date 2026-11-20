@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -174,60 +176,3 @@ Las respuestas constructivas de la investigación son consistentes, y ninguna de
 - **«La evidencia de encuesta es débil, pero más o menos insesgada.»** La estructura de respuesta acota la estimación antes que el sesgo: una encuesta obtiene **112 respuestas con una tasa de respuesta del 31%**, o **90 respuestas de 572 invitaciones**. El grupo de quienes responden es un subconjunto autoseleccionado, así que la cifra describe a ese subconjunto.
 - **«Las encuestas son un método minoritario en este campo.»** Una revisión de alcance de **394 estudios sobre IA generativa en educación superior** encontró que **las escalas de encuesta eran el método de evaluación informado con más frecuencia (269 estudios, 68,3%)**, por delante de las pruebas y los cuestionarios. La evidencia dominante del campo es el autoinforme.
 - **«El autoinforme y los constructos medidos coinciden.»** **La carga cognitiva autoinformada no difirió significativamente entre perfiles de descarga que iban del 80% al 2% en la autoría de ensayos**, mientras que quienes más descargaban sí diferían de forma medible. La medida subjetiva se mantuvo plana donde la conducta variaba en un factor de cuarenta.
-
-## Conceptos conectados
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Artículos conectados
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 participantes y tres métodos de saliencia: satisfacción y confianza planas, con el rendimiento en la tarea y las métricas de fidelidad en desacuerdo (Kares et al., 2027)
-- [[high-school-genai-acceptance-tam-physics-2026]] — Una puntuación de intención, dos usos opuestos
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — El modo de administración que emplea un instrumento de autoinforme cambia lo que mide
-- [[capability-decision-model-teacher-readiness-2026]] — Criterios de validez discriminante para separar la capacidad de IA autoinformada de las creencias de eficacia
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — La implicación predice un rendimiento percibido y no medido en un modelo de rutas de IA agéntica (Pramod y Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — Medidas paralelas de autoinforme y objetivas de la alfabetización en IA del profesorado
-- [[jin-glat-genai-literacy-assessment]] — GLAT: una alternativa basada en el rendimiento al autoinforme
-- [[genai-student-experiences-uk-he-survey-2026]] — Encuesta sobre el uso de IA generativa por el estudiantado en instituciones británicas
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomías condicionadas por si los datos procedían de autoinformes o de registros
-- [[tracing-genai-literacy-interaction-patterns]] — Datos de proceso que caracterizan la alfabetización en IA generativa
-- [[engagement-intensity-learner-modeling]] — El uso autoinformado como señal de modelado del estudiantado
-- [[predicting-attrition-competitive-programming]] — Confianza autoinformada frente a conducta de práctica
-- [[ai-use-critical-thinking-medical-students-2026]] — Sesgo de método común en un modelo de mediación de fuente única
-- [[genai-motivation-engagement-2026]] — PLS-SEM basado solo en autoinforme sobre motivación e implicación
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Encuesta a 81 estudiantes de grado de física sobre el uso y la confianza en la IA
-- [[hawkins-feedback-literacy-ai-essay-writing]] — La grabación de pantalla y el recuerdo estimulado como remedio al autoinforme
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Autoinforme más datos de traza sobre el aprendizaje autorregulado
-- [[adaptive-pretesting-retention]] — Indicadores conductuales de esfuerzo derivados de los registros
-- [[ai-vocational-education-training-review]] — Revisión que informa del desequilibrio entre autoinforme y medidas objetivas
-- [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Encuesta más entrevistas en un departamento de sociología
-- [[competent-generative-ai-use-measures-review-2026]] — Más allá de la alfabetización en IA: una revisión estructurada y un metaanálisis exploratorio de las medidas del uso competente de la IA generativa
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: una herramienta de autorreflexión que preserva la privacidad frente a la delegación cognitiva asociada a la IA
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Un instrumento de autoevaluación de 15 ítems para estudiantes de primaria superior, explícito sobre lo que puede establecer la competencia percibida
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisión que encuentra que 31 de 33 instrumentos de alfabetización en IA del profesorado son de autoinforme y ninguno se basa en el rendimiento
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Los perfiles derivados del autoinforme se comportan del mismo modo
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisión en dos fases que pone una tasa a la discrepancia entre autoinforme y rendimiento para un mismo constructo (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — La propiedad percibida separó la delegación total del ensayo de todo lo demás, mientras que la traza separó mucho más (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Percepciones informadas en 32 de 66 estudios frente a 8 que midieron habilidades de indagación
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — El 63,8% de las herramientas de alfabetización en IA informa de fiabilidad y menos del 20% de validez
-- [[huang-genai-academic-information-resources-2026]] — Registros de biblioteca y actitudes de encuesta apuntando en direcciones distintas
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — El aprendizaje y la implicación percibidos subieron en todas las medidas de encuesta mientras las puntuaciones de examen no se movieron
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Una escala docente de 300 ítems con α = 0.997 predicha con un 99.68% de exactitud sin ningún análisis factorial
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Pruebas de signos significativas con una mediana sin cambios en una escala validada
-- [[tischkau-ai-simulated-patient-formats-2026]] — Una escala pre-post provisional que compara expectativas con recuerdos, con alfas de subescala de −0,39 a 0,87 (Tischkau et al. 2026)

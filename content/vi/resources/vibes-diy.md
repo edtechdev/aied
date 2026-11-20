@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,7 +44,3 @@ Mô tả một ứng dụng, tiếp tục trò chuyện để sửa nó, và ch�
 ## Ghi chú và lưu ý
 
 Nền tảng có một gói miễn phí nhưng tính theo tín dụng: mỗi tài khoản nhận 1,000 tín dụng AI mỗi tháng, và việc xây, sửa, tạo hình ảnh cùng các tính năng AI trong ứng dụng đều tiêu tín dụng. Gói đăng ký thêm lựa chọn mua thêm tín dụng, và số tín dụng đó không hết hạn. Bất kỳ khóa học nào định dựa vào nền tảng này nên kiểm tra các điều khoản hiện hành, vì mức dùng miễn phí được đo chứ không phải không giới hạn, và nên coi các ứng dụng do sinh viên tạo là nội dung có những câu hỏi xử lý dữ liệu của riêng nó.
-
-## Khái niệm liên quan
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

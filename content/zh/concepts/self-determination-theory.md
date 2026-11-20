@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -77,37 +79,3 @@ SDT 直接与 [[motivation]] 相连（作为其母构念），与 [[affective-co
 - **“动机类型比动机数量更不重要。”** 一项为期一年的研究发现，**三种动机画像（疏离、发展中、自我决定）随时间保持稳定**，而达到**自我决定**画像的学生显示出**最大的 [[ai-literacy|AI 素养]]增益**。动机的质量预测了学习，而画像并未简单地上移。
 - **“自主支持意味着去掉结构。”** SDT 的机制是自主、胜任与关联三者共同作用，纵向证据显示满足它们预测了增益，而不只是伴随增益。没有胜任支持的自主是放任，并不满足该理论的条件。
 - **“[[conversational-ai|聊天机器人]]可以自动提供这三种需要。”** 一项研究发现，ChatGPT 可以在语言学习中支持自主、关联与胜任，这是一种可能性，而不是一种属性。某次具体交互是否支持它们，是关于它如何被使用的经验问题。
-
-## 关联概念
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## 关联文章
-- [[family-school-autonomy-support-genai-2026]] — 面向儿童负责任使用生成式 AI 的家校自主支持
-- [[dual-ai-learning-pathways-sdt-2026]] — 高中压力／自主支持与双 AI 学习路径（Shen & Arunrugstichai 2026）
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 学习分析与 GenAI 在学习设计决策中
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — 学生在英语学习中的 ChatGPT 体验
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征 × TTS 对话形式的交互
-- [[liang-ai-learning-motivation-sdt-2026]] — 学生 AI 学习动机的 SDT 潜类别转变分析（2,086 名中学生）
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAI 课堂中的学生动机与需求满足（Schweder, Hagenauer & Raufelder 2026）
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI 使用与需求满足只有弱关联，且对高投入并不必要（He 等人 2026）
-- [[teacher-ai-collaboration-work-engagement-2026]] — 从教师—AI 协作到工作投入的双路径，受数字胜任力调节
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 保留提示在给出答案未能做到之处保住了自主
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — 五至八年级的 AI 可用性、自主下降与动机画像（Schweder 与 Grahl 2026）
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 项研究对照 20 项活动分类法编码；胜任被触及最多，关联最少

@@ -15,6 +15,8 @@ ai_assist:
     role: drafting
     date: "2026-11-15"
     agent: hermes-agent
+connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
+connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 > **Synthesis:** Undergraduate education is where AI meets the largest classes and the most standardized [[assessment]]: first- and second-year gateway courses in which one instructor teaches several hundred students against a shared rubric. The trials at this level split along design rather than model. A tutor built from a course's own pedagogy beat in-class [[active-learning|active learning]], while a well-grounded course assistant deployed without instructional integration lowered grades and participation. The strongest evidence concerns [[feedback]] at scale, [[help-seeking]] [[scaffolding|scaffolds]], verified study material and outreach that moves administrative deadlines; the weakest concerns claims that a general assistant raises what students can do unaided.
@@ -132,35 +134,3 @@ Undergraduate sits between two bands studied with different methods. [[secondary
 - **"A higher exercise score means more learning."** ChatGPT users scored 71.84% against 29.85% on a CS1 exercise while conceptual gains were statistically identical across arms.
 - **"Detectors can settle an integrity case."** Seven detectors averaged 61.22% false positives on essays by non-native English writers, and 97% were flagged by at least one.
 - **"Daily use means [[ai-literacy|AI literacy]] can be assumed."** Reported use rose every year of secondary school while judged reliability stayed flat; caution on research tasks appeared only in the fourth year.
-
-## Connected Concepts
-
-- [[scaffolding]] — hint-first tutors versus answer engines
-- [[help-seeking]] — asking a specific question is a skill the interface can teach
-- [[feedback-literacy]] — what students do with a comment decides whether it changes the work
-- [[self-regulated-learning]] — planning, monitoring and evaluating without the tool
-- [[desirable-difficulties]] — the struggle an unrestricted assistant removes
-- [[process-oriented-assessment]] — grading the trail rather than the artifact
-- [[self-report-measures]] — what a survey captures, and why it is not a learning outcome
-- [[ai-detection]] — why classifier output is evidence for review, not a finding
-- [[learning-analytics]] — LMS traces as an early signal for outreach
-- [[student-support-and-success]] — advising, outreach and the limits of nudging
-- [[equity-in-ai-education]] — who gains when material is checked before release
-- [[writing-education]] — the assessment contract in essay-based courses
-- [[stem-education]] — gateway sequences in physics, computing and engineering
-
-## Connected Articles
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — in a 2×2 trial with 132 Python students, the Socratic assistant with full context was rated least supportive
-- [[genai-use-changing-institutional-policy-physics-2026]] — task design, not the policy tier, determined which GenAI functions students used
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — 130 undergraduates; notes written without ChatGPT were more diverse and integrative
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — prompt structure, not access, carried the gain; a five-part scaffold raised rated quality from 3.32 to 4.60
-- [[llm-math-homework-offloading-traces-2026]] — 23 first-years; 53 of 59 submissions reproduced the model's product or revised it only in form
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 studies and 1,585 students; integrity is where educator and student concerns diverge
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 342 students over three waves; within-person reliance predicted lower subsequent agency
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 studies; agency-supportive and agency-eroding patterns coexist
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 551 first-years reported high approval alongside high self-reported strain
-- [[thulin-chatbot-mental-health-students-2026]] — 15.4% had used a chatbot for a mental health reason, and use tracked barriers to care
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 respondents; self-rated learning and a three-behavior engagement index correlated at 0.052
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 students; digital literacy predicted self-reported performance at β = 0.393, ethical awareness at β = −0.006
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — undergraduates averaged 3.527 on ethics against 4.627 for graduate students, with far wider spread

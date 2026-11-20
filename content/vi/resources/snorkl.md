@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,6 +42,3 @@ Giáo viên K-12 muốn nghe lập luận đứng sau một câu trả lời, v�
 ## Ghi chú và lưu ý
 
 Mọi tuyên bố về năng lực ở đây là tiếp thị của chính nhà cung cấp, gồm “được tin dùng tại hơn 10,000 trường trên toàn thế giới”, điều một quận nên kiểm tra với thỏa thuận xử lý dữ liệu của mình. Nhà cung cấp nêu rằng họ loại bỏ các thông tin nhận dạng cá nhân trước khi gửi bài làm tới OpenAI theo một thỏa thuận không lưu giữ hay huấn luyện trên đó, không hiển thị quảng cáo cho sinh viên, không bao giờ bán dữ liệu, và có chứng nhận iKeepSafe và Common Sense Privacy. Snorkl cũng nói thẳng rằng nó không chấm điểm: nó cho điểm các lời giải thích theo tiêu chí do giáo viên đặt ra như phản hồi định hình, và giáo viên vẫn giữ việc chấm. Hãy coi những phán đoán AI đó là tín hiệu định hình chịu những câu hỏi thông thường về giá trị và thiên lệch, và coi cam kết môi trường là ý định được nêu chứ không phải một khoản bù đắp đã đo được.
-
-## Khái niệm liên quan
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

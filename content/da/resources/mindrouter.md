@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -47,9 +48,3 @@ Forskningscomputing- og centrale IT-grupper med eksisterende GPU-kapacitet, cent
 ## Noter og forbehold
 
 Gratis og open source under Apache-2.0, men omkostningerne flytter sig i stedet for at forsvinde: hardware, elektricitet og personaletid til at køre en klynge. Softwaren er ung efter infrastrukturstandarder — tre bidragydere, én oprindelig institution og udgivelser nummereret i hundredvis af tags — så et college bør pilotere den ved siden af en eksisterende tjeneste snarere end som den eneste vej til en model. Der er ingen offentliggjort evaluering af planlægnings- og kvoteadfærd under reel campusbelastning i repositoriet; PEARC-papiret er stedet at lede efter forfatternes egen redegørelse.
-
-## Relaterede begreper
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

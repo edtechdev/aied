@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -90,29 +92,3 @@ ai_assist:
 **Для исследователей**
 
 - Проводите хотя бы часть исследований на рабочих местах. Сектор, определяемый обучением на основе работы, чья база доказательств не содержит исследований на рабочих местах, ещё не проверил своё центральное утверждение.
-
-## Связанные концепции
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Связанные статьи
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Адаптивное обновление учебных программ CTE: пять измерений и шесть тестов для руководства
-- [[ai-vocational-education-training-review]] — Первый систематический обзор ИИ в VET: цели, теория и эмпирическая эффективность
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: иммерсивное обучение на основе проектов и креативность в дизайне
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: офлайн-устное оценивание с поддержкой ИИ в TVET
-- [[ai-pedagogical-accompaniment-amico]] — Прототип Amico с двумя режимами: принципы конструкции и наблюдаемые индикаторы
-- [[ai-autonomous-learning-accomplishment-2026]] — Автономное обучение с помощью ИИ и редуцированное достижение, опосредованное хардинесом
-- [[astra-atco-training-simulator]] — Автономные sim-пилоты для масштабируемого обучения авиадиспетчеров
-- [[crewscaler-ai-upskilling-framework]] — Сквозная рамка на базе ИИ для быстрого повышения профессиональной квалификации
-- [[genai-xr-architectural-design-education-2026]] — Контрпример: GenAI плюс многопользовательский XR со снижением уверенности в собственных силах дизайнеров
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Воспринимаемая поддержка ИКТ как институциональный рычаг в профессиональных колледжах

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,9 +48,3 @@ Var olan GPU kapasitesine sahip araştırma bilişimi ve merkezi BT grupları, �
 ## Notlar ve uyarılar
 
 Apache-2.0 altında ücretsiz ve açık kaynak, ama maliyet kaybolmaz, yer değiştirir: donanım, elektrik ve bir kümeyi çalıştıracak personel zamanı. Yazılım altyapı standartlarına göre genç — üç katkıda bulunan, tek bir kaynak kurum ve yüzlerce etiketle numaralanan sürümler — bu yüzden bir kolej onu tek model yolu olarak değil var olan bir hizmetin yanında pilot olarak çalıştırmalı. Zamanlama ve kota davranışının gerçek kampüs yükü altında yayımlanmış değerlendirmesi depoda yok; yazarların kendi anlatımı için bakılacak yer PEARC bildirisi.
-
-## Bağlı kavramlar
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

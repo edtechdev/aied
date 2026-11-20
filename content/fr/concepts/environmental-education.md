@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -90,29 +92,3 @@ La [[meta-analysis-systematic-review|revue de cadrage]] qui organise cette litt�
 - **« L'IA en éducation à l'environnement fournit surtout de l'information. »** Les gains mesurés portent sur la **prise de décision** : les étudiants travaillant avec un partenaire d'IA au sein d'une tâche d'[[inquiry-based-learning|enquête]] structurée ont surpassé leurs camarades en enquête seule (**d = 0.69**) et l'enseignement traditionnel (**d = 1.88**) sur une mesure de prise de décision, les gains étant **concentrés sur les étapes les plus faibles**. L'effet porte sur la qualité du raisonnement, aux points où les étudiants étaient les plus faibles.
 - **« L'enquête seule est l'ingrédient actif. »** L'enquête assistée par IA **a amélioré la prise de décision climatique par rapport à l'enquête seule**, la contribution de l'IA s'ajoutait donc à la structure pédagogique plutôt que de s'y substituer.
 - **« De grands effets issus de petits échantillons restent de grands effets. »** La [[learning-design|conception pédagogique]] assistée par IA sous contraintes de pédagogie du développement durable **a amélioré les plans de cours d'enseignants en formation initiale avec un d = 2.80 sur 28** participants — le mot des évaluateurs eux-mêmes est *invraisemblablement élevé*, et un effet de cette taille issu de cet échantillon doit être traité comme un signal plutôt que comme une estimation.
-
-## Concepts liés
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Articles liés
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Sépare l'IA pour la durabilité de l'IA durable ; lacune du Sud global
-- [[ai-assisted-inquiry-ssi-climate]] — Enquête climatique assistée par l'IA, d = 0.69 par rapport à l'enquête seule
-- [[aied-carbon-footprint-reporting]] — Revue des déclarations à l'AIED 2025 et méthode d'empreinte open source
-- [[llm-environmental-impact-student-usage-2026]] — Rétroaction écologique sur les compromis latence-carbone auprès de 89 étudiants en informatique
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistant quantifié déployé sur site à 1.8 mWh par requête
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE : la conscience du développement durable en éducation d'ingénierie
-- [[riandi-teacher-ai-green-energy-education-2026]] — L'usage pratique de l'IA et l'élaboration de matériels EDD prédisent l'intégration
-- [[talebzadeh-ai-green-education-2026]] — Conception assistée par l'IA sous contraintes de pédagogie du développement durable
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — La contribution de l'IA à une éducation durable, médiée par la gouvernance
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — L'« apprentissage durable » comme agentivité cognitive durable, et non comme affirmation environnementale

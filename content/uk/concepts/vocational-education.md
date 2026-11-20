@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -82,29 +84,3 @@ ai_assist:
 **Для дослідників**
 
 - Проводьте принаймні частину досліджень на робочих місцях. Галузь, визначена навчанням, вбудованим у роботу, чия доказова база не містить досліджень на робочих місцях, ще не перевірила своє центральне твердження.
-
-## Пов’язані поняття
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Пов’язані статті
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Адаптивне оновлення навчальних програм CTE: п’ять вимірів і шість лідерських тестів
-- [[ai-vocational-education-training-review]] — Перший систематичний огляд ШІ в ПТОН: цілі, теорія та емпірична ефективність
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: імерсивне проєктне навчання та креативність у дизайні
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: офлайн-усне оцінювання з підтримкою ШІ в TVET
-- [[ai-pedagogical-accompaniment-amico]] — Двомодовий прототип Amico: принципи дизайну та спостережувані індикатори
-- [[ai-autonomous-learning-accomplishment-2026]] — Автономне навчання з підтримкою ШІ та знижене досягнення, опосередковане hardiness
-- [[astra-atco-training-simulator]] — Автономні sim-пілоти для масштабованого навчання АТСО
-- [[crewscaler-ai-upskilling-framework]] — Сквозний фреймворк із прискоренням ШІ для швидкого підвищення професійної кваліфікації
-- [[genai-xr-architectural-design-education-2026]] — Контрприклад: GenAI плюс багатокористувацький XR зі зниженням дизайнерської self-efficacy
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Сприйнята підтримка ІКТ як інституційний важіль у професійних коледжах

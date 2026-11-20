@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -125,48 +127,3 @@ ai_assist:
 - **«Οι ενότητες περιορισμών είναι τυποποιημένες διατυπώσεις.»** Τα μεθοδολογικά όρια είναι **μετρήσιμα και όχι εντυπωσιακά**: σε μια κριτική ανασκόπηση **80 μελετών HCI** για την κριτική σκέψη με ΤΝ, **42 (52%) δεν είχαν ομάδα ελέγχου**. Μια ακριβής καταμέτρηση είναι αυτό που κάνει το όριο εφαρμόσιμο.
 - **«Η ετερογένεια είναι ένας αριθμός που μπορείς να παραθέσεις.»** Η ίδια ανασκόπηση δείχνει κίνδυνο αναφοράς: η ετερογένεια παρατίθεται ως **I² = 82.98% υπό μοντέλο σταθερών επιδράσεων και I² = 15.75% υπό μοντέλο τυχαίων επιδράσεων**. Τα ίδια δεδομένα δίνουν μια ιστορία εννέα μονάδων ή μια ιστορία δύο μονάδων ανάλογα με το μοντέλο που επιλέγεται, οπότε ένα I² χωρίς το μοντέλο του είναι μη ερμηνεύσιμο.
 - **«Ένα μεγάλο αναφερόμενο μέγεθος επίδρασης είναι ο αριθμός που πρέπει να εμπιστευτείς.»** Ένας τίτλος όπως μια επίδραση από **30 μαθητές σε ένα μάθημα σε μία τοποθεσία** είναι η συνηθισμένη μορφή ενός εύθραυστου ισχυρισμού, και η καταμέτρηση μελετών χωρίς ελέγχους δείχνει πόσο συχνά αυτή η ευθραυστότητα μένει χωρίς αναφορά.
-
-## Συνδεδεμένες Έννοιες
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Ανάπτυξη θεωρίας στην ΤΝ στην εκπαίδευση
-
-## Συνδεδεμένα Άρθρα
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots ΤΝ στην τριτοβάθμια εκπαίδευση: συγκρίνοντας προσδοκίες με τεκμήρια (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Αξιοπιστία και εγκυρότητα της αλήθειας εδάφους στην αξιολόγηση
-- [[ai-literacy-assessment-misalignment]] — Αυτοαναφερόμενη έναντι βασισμένης στην επίδοση επάρκειας σε ΤΝ
-- [[machines-misread-pedagogical-quality]] — Γιατί οι μηχανές παρερμηνεύουν την παιδαγωγική ποιότητα
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Κρίσιμα όρια των δασκάλων ΤΝ και χρήση θεωρίας
-- [[cross-dataset-bloom-question-classification]] — Η ταξινομία του Bloom και η ταξινόμηση ερωτήσεων
-- [[eeg-familiarity-automated-assessment-2026]] — Αυτοματοποιώντας την αξιολόγηση μαθητών: πρόβλεψη οικειότητας με EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT στην εκπαίδευση: μια επίδραση σε αναζήτηση αιτίας (κριτική σύγκρισης μέσων)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Μετα-μετα-ανάλυση: οι διορθωμένες ως προς τη μεροληψία επιδράσεις της ΤΝ ~1/3 του αναφερόμενου μεγέθους
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ιατροδικαστικός έλεγχος 14 μετα-αναλύσεων AIED
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: ένα εμπειρικό πλαίσιο αναφοράς για συστηματικές ανασκοπήσεις με υποστήριξη ΤΝ
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Τα κριτήρια ένταξης ως κατώφλι αυστηρότητας, και ένα μέγεθος ετερογένειας που αλλάζει με το μοντέλο (Doğan και συν. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Μια τυχαιοποιημένη κατά ομάδες δοκιμή στην τάξη της οποίας η έκβαση επίδοσης δεν έφτασε τη σημαντικότητα (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: η διδασκαλία από ΤΝ και από άνθρωπο δίνουν ισοδύναμα μαθησιακά κέρδη στο GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Αξιολογώντας την εστίαση και την παιδαγωγική προσαρμοστικότητα της ανατροφοδότησης που παράγει LLM σε φοιτητικά κείμενα
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: σχήματα βασισμένα σε ισχυρισμούς για ελέγξιμη κωδικοποίηση εκπαιδευτικών διαλόγων
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Ανασκόπηση πεδίου 195 μελετών εκπαίδευσης εκπαιδευτικών όπου ο σχεδιασμός της συμβολοσειράς αναζήτησης διαμορφώνει τις αναφερόμενες συχνότητες
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Διακρατική έρευνα εκπαιδευτικών K-12: μηχανικά μεταφρασμένα στοιχεία, μέτρα ανησυχίας με ένα στοιχείο, χωρίς έλεγχο αναλλοίωτης
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Συστηματική ανασκόπηση 103 μελετών γενετικής ΤΝ στην τριτοβάθμια εκπαίδευση: 56% υπό όρους κέρδη, βαθμοί που συγκαλύπτουν αλλαγή διαδικασίας (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Η επαύξηση δεδομένων μπορεί να κατασκευάσει το κεντρικό μέτρο

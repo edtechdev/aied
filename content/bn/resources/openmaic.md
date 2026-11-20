@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -43,7 +44,3 @@ ai_assist:
 ## টীকা
 
 MIT লাইসেন্সপ্রাপ্ত, সঙ্গে ইংরেজি ও চীনা ব্যবহার-নির্দেশিকা এবং Discord ও Feishu-তে একটি সক্রিয় কমিউনিটি। এটি মডেল-নিরপেক্ষ: আপনাকে অন্তত একটি LLM প্রোভাইডার-কী দিতে হবে, আর ঐচ্ছিক স্থানীয় উপাদান (স্থানীয় মডেলের জন্য Lemonade, বাচন-স্বীকৃতির জন্য FunASR) স্ট্যাকের আরও অংশ অফলাইনে চালাতে দেয় — তাই "বিনামূল্যে" সফটওয়্যারকেই বোঝায়, ইনফারেন্সের বিল নয়। এর পেছনের নিবন্ধটি *Journal of Computer Science and Technology*-তে প্রকাশিত (2026, DOI 10.1007/s11390-025-6000-0), এবং সেপ্টেম্বর 2026 নাগাদ রিপোজিটরিতে 38,000-এরও বেশি স্টার ছিল।
-
-## সংযুক্ত ধারণা
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

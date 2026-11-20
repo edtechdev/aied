@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,9 +59,7 @@ ai_assist:
 
 Sensor dan analitik tatapan adalah keluarga instrumen kedua yang memasok model pembelajar yang sama, dengan menarik pelacakan mata, EEG, aktivitas elektrodermal, dan detak jantung untuk mengestimasi perhatian, keterlibatan, dan beban kognitif ([[sensor-and-gaze-analytics]]). Masalah validitas dan persetujuannya lebih curam daripada data jejak, karena pengukurannya biometrik dan langkah dari tubuh ke keadaan mental merupakan sebuah interpretasi.
 
-
 **Modelkan konkurensi mata kuliah, bukan hanya urutan.** TRACE memberi setiap mata kuliah dalam satu semester pengodean posisional yang sama, dan memprediksi mata kuliah dan nilai secara bersama memangkas galat prediksi nilai menjadi MAE 0.1339 — pengurangan 46.4% dibandingkan transformer nilai-saja — pada sepuluh tahun data institusional ([[trace-course-grade-prediction-2026|Savala (2026)]]).
-
 
 **Data interaksi adalah masalah representasi sebelum menjadi masalah pemodelan.** [[taufer-human-ai-interaction-haidl-2026|Taufer dkk. (2026)]] memperlakukan setiap pertukaran manusia-AI sebagai satu rekaman terstruktur yang membawa komputasi yang memotivasi permintaan, permintaan, respons, umpan balik pengguna, dan eksekusi berikutnya, alih-alih sebagai prompt terisolasi. Di antara 140 pasangan siswa-tugas dalam penerapan 35 siswa, jumlah interaksi saja berkorelasi dengan sel yang berhasil dieksekusi pada r = 0.12, dan panggilan yang sama bisa berupa pemulihan galat, langkah berikutnya, pemeriksaan konsep, atau validasi tergantung keadaan di sekitarnya. Tiga puluh tujuh pasangan yang memiliki akses tidak menghasilkan interaksi sama sekali, sehingga ketiadaan penggunaan AI dalam log tidak dapat dibaca sebagai ketiadaan kebutuhan.
 
@@ -75,7 +75,6 @@ Pengodean frekuensi atas data [[qualitative-research|kualitatif]] adalah titik m
 - **Basis bukti belum merupakan bukti intervensi.** Dengan menyintesis empat studi lintas tingkat siswa, disiplin, pendidik, dan institusi, [[learning-analytics-genai-learning-design|Rienties, Divjak dan Law (2026)]] menemukan bidang ini didominasi desain lintas-seksi, [[self-report-measures|laporan diri]], berbasis wacana, dan pertimbangan ahli, dan menyerukan penelitian intervensi yang menguji mekanisme kausal serta luaran jangka panjang yang distribusional.
 
 **Desain dorongan acak menyediakan jangkar kausal.** Dalam eksperimen dorongan acak pada ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]] secara acak mendorong guru yang baru mengenal platform untuk melihat laporan tugas setelah membuat tugas. Di antara sampel analitik 330 guru (156 kontrol, 174 dorongan; 281 untuk value-added), melihat laporan tugas pertama secara signifikan meningkatkan penyelesaian tugas berikutnya (Anderson-Rubin F = 4.092, p = 0.044) — setidaknya 2 poin persentase secara keseluruhan. Di kelas dengan kurang dari 44 siswa, keuntungannya setidaknya 24.5 poin persentase (AR F = 7.475, p = 0.007), sementara hanya 54.0% dari 121,890 tugas yang laporannya dilihat dan luaran mulai serta value-added tidak bergerak. Data platform yang sama membawa kasus penilaian loop-tertutup terbesar di bidang ini: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]] menganalisis 5,214,211 sesi pertanyaan-siswa di mana jempol ke bawah (2.00 per 1,000) mengikuti fitur yang dikendalikan generator dan varians tingkat siswa mendominasi varians tingkat pertanyaan (BIC 101,572.9 vs 123,342.0).
-
 
 Analitik pembelajaran telah berevolusi melalui tiga generasi di basis pengetahuan: deskriptif (apa yang terjadi?), prediktif (apa yang akan terjadi?), dan preskriptif (apa yang harus kita lakukan?). AI memungkinkan lapisan preskriptif — analitik yang langsung memicu [[feedback|intervensi instruksional]]. Frontir kunci adalah **kesenjangan keterlaksanaan**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] menunjukkan prediksi saja tidak cukup untuk dukungan keputusan, dan bahwa recourse kontrafaktual menjadi bermakna secara operasional hanya ketika rekomendasi layak secara semantik dan dapat diperiksa mesin — dibatasi oleh waktu, anggaran, ketakberubahan, dan ketersediaan via validasi SHACL, alih-alih semata valid secara model. Ini memindahkan bidang melampaui skor risiko menuju rekomendasi yang benar-benar dapat dijalankan institusi, dengan [[human-in-the-loop-ai|pengawasan manusia]] tetap terjaga.
 
@@ -105,7 +104,6 @@ Metode jaringan adalah inti analitik pembelajaran: [[network-analysis|analisis j
 - **Pemungkin intervensi pendidikan berbasis LA (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] mengidentifikasi dan memprioritaskan tujuh pemungkin intervensi pendidikan berbasis LA yang dapat dipercaya via Delphi + AHP + SNAP: orientasi strategis [[governance|institusional]], landasan pedagogis & [[research-methods-aied|penelitian]] lainnya, sumber daya tersedia, dukungan pedagogis, etika & tata kelola data, keterlibatan pemangku kepentingan, dan penjaminan mutu. Orientasi strategis institusional menempati peringkat tertinggi (dan paling berpengaruh terhadap pemungkin lain), dengan sumber daya tersedia kedua. [[trust|Keterpercayaan]] (kepatuhan etis, algoritma transparan/tak bias, validitas pedagogis) dibingkai sebagai prasyarat yang tanpanya intervensi berbasis LA tidak bermakna.
 - **Kedalaman interaksi LLM memprediksi kualitas tugas tetapi bukan ingatan (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] menghubungkan telemetri percakapan LLM tingkat giliran (Depth/Volume/Pacing) dengan [[learning-gains|luaran belajar]]: "kedalaman" pencarian penjelasan memprediksi kualitas tugas yang dinilai secara independen (β = 6.27) tetapi bukan ingatan segera — disosiasi antara pemahaman yang digerakkan elaborasi dan konsolidasi yang digerakkan pengambilan, yang berimplikasi bagi cara interaksi [[llm]] diukur dan dievaluasi dalam LA.
 
-
 - **Satuan interaksi bersama masih hilang.** Di antara 46 kategorisasi dari 33 studi tidak ada metakarakteristik bersama — label yang serupa menamai fenomena berbeda — sehingga tinjauan itu mengusulkan *episode interaksi*, pertukaran terbatas yang berorientasi tujuan, sebagai satuan untuk mengorelasikan dialog dengan perolehan keterampilan ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 - **Mensimulasikan wacana kolaboratif untuk analitik pembelajaran.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] memakai agen LLM spesifik-partisipan yang disetel halus untuk mereproduksi dialog pemecahan masalah kolaboratif, divalidasi dengan Analisis Jaringan Epistemik (jarak ENA 0.17, p permutasi = 0.65). Pendekatan ini menawarkan peneliti analitik pembelajaran cara berskala untuk menghasilkan wacana kolaboratif autentik guna mempelajari dinamika interaksi, pergantian giliran, dan lintasan kode tematik tanpa mengumpulkan data manusia baru.
 - **Data terbuka dan terproduksi ulang, serta analitik siap-jejak.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] merilis [[benchmark]] sintetis dengan skema siap-jejak (N=540; 360 sesi; 1.440 episode) untuk menganalisis interaksi dan keseimbangan partisipasi dalam pemrograman kolaboratif. Data log dan jejak adalah penyeimbang alami bagi [[self-report-measures|laporan diri]] dalam literatur ini: konstruk yang sama sering diukur dua kali, sekali dengan bertanya dan sekali dengan mengamati, dan keduanya tidak selalu sepakat. Secara terpisah, kerangka ML eksploratif dengan analisis SHAP mengidentifikasi konstruk terkait belajar yang paling terkait dengan niat penggunaan ChatGPT akademis di kalangan mahasiswa, mengutamakan [[explainable-ai|keterjelasan]] ([[determinants-chatgpt-use-higher-education-2026]]).
@@ -130,81 +128,9 @@ Dasbor dan sistem peringatan dini memusatkan risiko [[automation-bias]]: sebuah 
 
 Menahan indikator multimodal tetap konstan dan hanya menambahkan penjelasan naratif meningkatkan interpretasi calon guru (η² = 0.166) dan konstruksi makna (η² = 0.220), sementara transformasi yang dapat ditindaklanjuti tidak bergerak — lapisan interpretasi, bukan datanya, adalah hambatannya ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
 
-
 ## Miskonsepsi Umum
 
 - **"Estimasi keadaan pengetahuan mewarisi validitasnya dari data."** **Matriks Q yang menghubungkan butir ke atribut adalah asumsi, bukan data**: entri yang ditolak untuk **14 dari 918 butir yang dianalisis** berarti pemetaannya sendiri menuntut adjudikasi. Memvalidasi pemetaan adalah langkah, bukan formalitas.
 - **LLM membaca clickstream terhadap strategi belajar bernama.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr dkk. (2026)]] menyiapkan pipeline [[llm|LLM]] yang menemukan bukti suatu strategi dalam jejak siswa, menilai kepatuhannya, dan mengutip tindakan di balik penilaian itu, mencapai kualitas keseluruhan 0.735 dalam simulasi yang lebih sulit berbanding 0.704 untuk garis dasar datar.
 - **"Analitik membutuhkan jejak clickstream."** Keadaan pengetahuan dapat diestimasi dalam Pendidikan Berbasis Luaran dengan **melacak luaran mata kuliah langsung dari data interaksi dan capaian LMS**, memakai pemetaan afinitas OBE — rekaman institusional menyediakan sinyalnya.
 - **"Prediksi tanpa jendela tindakan itu berguna."** Prediksi kemajuan paling bisa dipakai ketika **dapat diinterpretasi dan dipasangkan dengan jendela tindakan**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries dan Koprinska (2025)]] memprediksi luaran tingkat modul, yaitu bentuk yang dapat ditindaklanjuti penasihat, berbeda dari skor mentah.
-
-## Konsep terkait
-
-- [[explainable-ai]]
-
-- [[automation-bias]] — Mengapa tanda yang ada ditindaklanjuti tanpa diperiksa
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — sisi dukungan yang menjadi sasaran prediksi: rujukan, alokasi, dan luaran yang mereka gerakkan atau tidak gerakkan
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Artikel terkait
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: menafsirkan clickstream melalui strategi belajar yang didefinisikan literatur (Radmehr dkk. 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Pertukaran manusia-AI sebagai rekaman terstruktur: jumlah prompt nyaris tidak membawa sinyal tentang kemajuan
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Menyadari dan mengorkestrasi analisis AI menjadi argumentasi kolektif (Lee, Park & Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — Analitik Institusional yang Bertanggung Jawab: Menafsirkan Bias dengan Dukungan AI
-
-- [[ai-supported-lecturer-decision-making-2026]] — Pengambilan Keputusan Dosen Berbantuan AI di Pendidikan Tinggi
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analitik pembelajaran terfederasi dan terjelaskan untuk pemodelan risiko akademik yang menjaga privasi (Villegas-Ch dkk. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Apa yang ditanyakan siswa itu penting: kedalaman interaksi LLM, kualitas tugas, dan ingatan segera (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Dari analitik pembelajaran ke intervensi pendidikan: pemungkin intervensi berbasis LA yang dapat dipercaya (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Dari Prediksi Risiko Siswa ke SC2R: Recourse Kontrafaktual
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnosis kognitif Bayesian untuk jalur pembelajaran personal
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Mendistilasi LM yang menjelaskan diri untuk analitik pembelajaran
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang tepat bagi profil siswa yang beragam? Evaluasi berskala besar
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agen LLM spesifik-partisipan yang disetel halus mereproduksi dialog pemecahan masalah kolaboratif (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Tolok ukur sintetis ASTRA untuk pembimbingan multiagen dan kolaborasi dengan partisipasi seimbang
-- [[determinants-chatgpt-use-higher-education-2026]] — Determinan ML/SHAP penggunaan ChatGPT di masa depan dalam pendidikan tinggi
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses guru di ruang kelas campuran
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Pelacakan pengetahuan berbasis luaran dengan pemetaan afinitas
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — Rantai Markov dan penambangan pola atas 29,064 aktivitas terencana di 554 mata kuliah, mengungkap tata bahasa desain yang dipimpin Acquisition dan mengonsolidasikan Practice
-- [[pulla-parsons-problem-tool-2026]] — Pulla: pelacakan perilaku tingkat proses dan analisis kesulitan untuk instruktur pada soal Parsons (Prol dkk. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Menggunakan Analitik Pembelajaran untuk Mendukung Penulisan Siswa Sekolah Menengah dengan AI Generatif
-- [[edtech-privacy-deferral-2026]] — "Kita Perbaiki Nanti": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Dilewatkan Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Memprediksi risiko kecurangan berbantuan AI dari jejak LMS awal semester (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — Menuju pematahan dinding sistem pembelajaran menggunakan transkripsi pembimbingan multimodal (Thomas dkk. 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Tingkat penyelesaian dapat menyembunyikan keruntuhan keterlibatan
-- [[kim-ai-embodied-learning-review-2026]] — AI dalam pembelajaran terwujud sebagian besar mengamati: peran pengindraan 62.5% dari tag peran terkode, dan tak satu pun sistem yang ditinjau memadukan aliran multimodal saat siswa memakainya (Kim & Han 2026)
-
-- [[liu-teaching-analytics-dashboard-2026]] — Studi mikroteaching kontrol aktif yang mengisolasi lapisan penjelasan: interpretasi bergerak, tindakan tidak (Liu dkk. 2026)
-

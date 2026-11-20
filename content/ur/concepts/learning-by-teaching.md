@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -115,32 +117,3 @@ LLM پر مبنی قابلِ تعلیم ایجنٹ کے لیے ایک مرکزی
 **"LLM سے الجھن کا کردار ادا کرنے کو کہنا ایک معمولی پرامپٹ ہے۔"** یہ ایک ڈیزائن مسئلہ ہے، کیونکہ نااہلی کو پڑھائے جانے والے تصور اور سیکھنے والے-ٹیوٹر کے موجودہ ماڈل کے مطابق کیلیبریٹ کرنا ہوتا ہے۔ بے ترتیب غلطیاں ڈیبگنگ کی مشق پیدا کرتی ہیں؛ کسی مخصوص معقول غلط فہمی کی عکاسی کرنے والی غلطیاں تصوراتی تنظیمِ نو پیدا کرتی ہیں، اور صرف دوسری ہی تدریسی ہدف ہے۔
 
 **"تدریس کے ذریعے سیکھنا پڑھائے جانے سے نرم سرگرمی ہے۔"** یہ زیادہ تقاضا کرنے والی ہے۔ پڑھانے کی تیاری علم کی تنظیم اور اپنے خلا کی نشاندہی لازم کرتی ہے، اور اسی لیے یہ طریقہ وہ غلط فہمیاں سامنے لاتا ہے جو غیر فعال وصولی چھپا لیتی ہے — مشکل ہی میکانزم ہے، نہ کہ کم کرنے کے قابل کوئی لاگت۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — AI شاگرد کو سمجھانا: علم کی بنیاد میں بہترین ثبوت والی ترتیب
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — چھتری: AI تعلیم میں تدریسی طریقے اور حکمت عملیاں
-
-## منسلک مضامین
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — پروگرامنگ میں ChatGPT بطور قابلِ تعلیم ایجنٹ
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: 546 طلبہ کے لیے قابلِ تعلیم ایجنٹ
-- [[prompting-teachability-novice-personas-lbt-2026]] — قابلِ تعلیم بنانے کے لیے نوآموز شخصیات کا ڈیزائن
-- [[socrates-students-instructors-llms-lbt-2025]] — طلبہ بطور LLMs کے مدرسین (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — AI کو پڑھا کر الفاظ سیکھنا
-- [[knowloop-confusion-to-consolidation-2026]] — مکالماتی جائزے کے نظام میں teach-back سے پختگی
-- [[simulating-novice-students-machine-unlearning-2026]] — شاگرد کو نوآموز علمی درجے پر رکھنے کے لیے مشین اَن لرننگ، اور تدریسی گفتگو سے دوبارہ سیکھنا
-- [[simulating-students-java-programming-errors-llms]] — LLMs سے طلبہ کی غلطیوں کی نقل
-- [[knowledge-building-tutor-learning-2026]] — علم تعمیر کرنے والے جوابات، نہ کہ پیشگی علم، ٹیوٹر کے سیکھنے کی پیش گوئی کرتے ہیں

@@ -39,6 +39,7 @@ ai_assist:
 translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -56,7 +57,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Зауваження та обмеження
 
 Перегляд не потребує облікового запису, і курси Canvas та чеклісти, на які він посилається, є публічними. Тренери Playlab, Gemini Gems і нотатники — це сторонні сервіси, які потребують облікового запису. Картки відображаються з `apps.json`, тож повний список потребує JavaScript, а запасний варіант без скриптів називає вісім із п’ятнадцяти; коротке посилання `tinyurl.com/fpdapps` і QR-код у заголовку відкривають його на телефоні. Репозиторій — програмне забезпечення під ліцензією MIT, тоді як посібники, на які він посилається, мають власні ліцензії, серед них книжка Pressbooks під некомерційною ліцензією Creative Commons. Графіка публікацій немає, тож сторінка змінюється без попередження.
-
-## Пов’язані поняття
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

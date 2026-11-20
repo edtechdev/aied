@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -128,37 +130,3 @@ ai_assist:
 - **“隐喻是中性的插图。”** 每个隐喻都选取某些特征、隐藏另一些特征。这一选择承载着关于能动性、信任与责任的假定。
 - **“AI 生成的类比拿来就能用。”** 生成的类比可能在结构上错误、在文化上狭窄，或在教学上不匹配。它们需要教师审阅，或一项学生批判任务。
 - **“如果学生喜欢这个类比，他们就学会了概念。”** 参与度与学习是不同的结果。这里的证据基础多为质性，并未确立学习增益。
-
-## 关联概念
-
-- [[ai-literacy]] — 批判性 AI 素养与基于隐喻的教学的总括概念。
-- [[critical-thinking]] — 类比批判作为结构性推理的一种形式。
-- [[misconceptions]] — 有缺陷的类比作为持久误解的来源。
-- [[student-ai-interaction]] — 学生如何解读并审查 AI 的解释。
-- [[pedagogical-agent]] — 生成解释或类比的 AI 导师。
-- [[learning-design]] — 选择并排序基于类比的材料。
-- [[educational-development]] — 教师发展中的隐喻引出。
-- [[engineering-education]] — 工程领域中的教师与学生隐喻。
-- [[cs-education]] — 计算教育中的类比使用与批判。
-- [[cognitive-offloading]] — 工具与助手隐喻及其风险。
-- [[trust-calibration]] — 拟人化角色与错位的信任。
-- [[equity-in-ai-education]] — 谁的源域才算熟悉。
-- [[teacher-role]] — 教师对 AI 生成解释的判断。
-- [[explainable-ai]] — 系统解释与教学类比之别。
-- [[student-engagement]] — 个性化类比的参与效应。
-- [[higher-ed]] — 本组大多数研究的场域。
-
-## 关联文章
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 四个隐喻与教授批判性 AI 素养的判据
-- [[student-reception-genai-analogies-computing-2026]] — 学生审查生成式 AI 生成的类比并修复断裂的映射
-- [[fear-awe-genai-metaphor-workshops-2025]] — 与学生、学者及职员共同开展的隐喻分析工作坊
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师的隐喻既建构也限制对 AI 的理解
-- [[genai-professionalization-metaphors-2026]] — 学生对生成式 AI 与专业学习的隐喻式概念化
-- [[thermomix-genai-education-analogy-2026]] — 以厨房机器类比委托与借助 AI 的学习
-- [[anvil-ai-educational-animations]] — 面向计算教育的 AI 生成类比与教学动画
-- [[ai-engineering-education-balancing-act]] — 学生的“神谕”与“导师”隐喻超出了大语言模型的能力
-- [[code-anchor-multi-view-visualization]] — 隐喻式可视化脚手架及其正当性问题
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 一名学生的“反馈自动贩卖机”隐喻作为素养证据
-- [[daoism-ai-education-philosophy-2026]] — “真人”作为 AI 教育中的反向隐喻
-- [[rodak-hire-ai-future-focused-literacy-2026]] — 受聘助手隐喻与学生自撰的工作范围

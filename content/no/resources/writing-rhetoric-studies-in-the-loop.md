@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -39,7 +40,3 @@ Samlingens innledning rammer inn en ledetekst som en retorisk sjanger med en int
 ## Hva du bør vite før du bruker den
 
 Hele boken er gratis i PDF og ePub, og enkeltkapitler publiseres separat med egne DOI-er. Publiseringen er i juli 2026 av WAC Clearinghouse i serien WAC Repository, 402 sider, redigert av Anuj Gupta og Brian Gogan, med samlingens DOI 10.37514/TWR-B.2026.2999. Lisensen er Creative Commons BY-NC-ND 4.0, så lesere kan se, skrive ut personlige kopier og lenke til boken, men ikke gjengi den på et annet nettsted eller tilpasse den uten tillatelse; et emne som vil ha endret ledetekstformulering, bør skrive sin egen versjon i stedet for å trykke disse på nytt. Hver ledetekst i kapitlene ble testet på tvers av plattformer, men boken rapporterer ingen kontrollert sammenligning av utfall, så behandle ledetekstene som ekspertdesign snarere enn som validert intervensjon.
-
-## Tilknyttede begreper
-
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

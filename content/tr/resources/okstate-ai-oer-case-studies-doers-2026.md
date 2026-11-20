@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -42,11 +43,3 @@ Bütün bir sistem için kılavuz taslağı hazırlayan [[educational-policy-ai|
 ## Notlar ve uyarılar
 
 Bölüm lisansları tuzaktır. Koleksiyon CC BY 4.0 altındadır, ancak tek tek yazarlar telif haklarını korur ve kendi Creative Commons lisanslarını seçmiştir; bu nedenle bir bölüm, kitap sayfasının ima ettiğinden daha kısıtlayıcı olabilir. Ders kitabı revizyonu bölümü CC BY-NC-SA 4.0 altındadır ve yeniden kullanımda ön maddelere değil bölüme bakılmalıdır. Yazarlar için zorunlu bir YZ açıklama prosedürü yoktu, bu nedenle çok sayıda bölüm sürecini geçerken ele alır ve genellikle OER Commons kılavuzunu izler. Editoryal bir tercih olarak her bölüm yazarının disipliner sesini, noktalama işaretlerini ve bölgesel yazımını korur, bu nedenle metin tek biçimli okunmaz. Her şeyden önce, her bölüm tek bir yerel projeyi belgeler ve hiçbiri aynı ölçme aracını ya da karşılaştırmayı paylaşmaz; bu nedenle cilt, atıf verilecek kanıt yerine uyarlanacak uygulama sunar.
-
-## Bağlı kavramlar
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

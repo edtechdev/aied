@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -41,12 +42,3 @@ Dirigenti di istituzioni di formazione professionale che decidono da dove inizia
 ## Note e avvertenze
 
 È una guida, non una valutazione. Il documento non riporta dati sugli esiti, e i suoi esempi istituzionali, un modello di apprendimento con IA integrata nei contenuti al College of the North Atlantic in Canada e lo standard keniota del 2023 sul tirocinio industriale nell'istruzione professionale, sono riquadri descrittivi tratti da rapporti di progetto, non sperimentazioni indipendenti. Gli allegati si definiscono indicativi; la scala di maturità è un supporto alla discussione, non uno strumento di misura. Le occupazioni critiche per la sicurezza e quelle regolate hanno un capitolo dedicato, ma argomenta una posizione sulla supervisione umana invece di offrire dettagli normativi. La licenza CC BY-SA 3.0 IGO consente adattamento e ripubblicazione con attribuzione e condivisione allo stesso modo.
-
-## Concetti collegati
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -42,7 +43,3 @@ Prowadzący i [[learning-design|projektanci nauczania]], którzy chcą wypracowa
 ## Uwagi i zastrzeżenia
 
 Aplikacje opisuje się jako otwarcie udostępnione, ale ani na stronach aplikacji, ani galerii nie podano licencji, więc ponowne użycie wymaga zgody autora, a nie założonego pozwolenia. Źródło jest jednak publiczne — repozytoria konta zawierają HTML i JavaScript stojące za aplikacjami oraz samouczek pracy z agentami kodującymi w edukacji, więc czytelnik może aplikację sprawdzić, a nie tylko uruchomić. Kilka linków wskazuje adresy podglądu wdrożeń Netlify, a nie stronę projektu; te są zbudowane do przeglądu i mogą wygasnąć, podczas gdy wdrożenia GitHub Pages są stabilne. Część aplikacji zależy od modelu Jev firmy TypeSafe AI i pokazuje jego prawdopodobieństwa, więc leżące u podstaw zachowanie jest osądem modelu, a nie ustaloną regułą. Ścieżka pożądanych trudności jest argumentem — tarcie jako cecha — a strona przedstawia go bez relacjonowania oceny, czy studenci uczą się więcej.
-
-## Powiązane pojęcia
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

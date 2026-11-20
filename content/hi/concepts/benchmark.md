@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,38 +89,3 @@ ai_assist:
 - **"लीडरबोर्ड पर स्थान बताता है कि कोई ट्यूटर कितना अच्छा है।"** StudentBench **2,383 वयस्कों को AI ट्यूटरिंग, लाइव विशेषज्ञ मानव ट्यूटरिंग और एक वीडियो** शर्त के बीच यादृच्छिक रूप से बाँटता है और अन्य प्रणालियों के बजाय मानव ट्यूटरों के सापेक्ष स्कोर करता है। अन्य मॉडलों के पैमाने पर बना बेंचमार्क उस प्रश्न का उत्तर देता है जिसका उत्तर किसी को आवश्यकता नहीं थी।
 - **"अनुकरणीय व्यक्तित्व ट्यूटर मूल्यांकन का पर्याप्त आधार हैं।"** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] मूल्यांकन को **अनुकरणीय व्यक्तित्वों के बजाय प्रलेखित केस साहित्य** पर आधारित करता है, और **923 संवादों** का उपयोग करता है। गढ़े गए विद्यार्थी व्यक्तित्व किसी प्रणाली को ऐसे केसों में उत्तीर्ण करा देते हैं जो घटित ही नहीं होते।
 - **"न्यायाधीश की जाँच किए बिना बेंचमार्क पर भरोसा किया जा सकता है।"** भ्रम को **पुनर्प्राप्त खुले-लाइसेंस खंडों के विरुद्ध entailment (विशेषज्ञ निर्णय के साथ κ = 0.76)** के रूप में स्कोर किया गया, अर्थात न्यायाधीश को उसके अंकों के उपयोग से पहले विशेषज्ञों के विरुद्ध सत्यापित किया गया। असत्यापित स्वचालित न्यायाधीश अज्ञात अर्थ वाली संख्याएँ उत्पन्न करता है।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## संबंधित लेख
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: चुनौतीपूर्ण व्यवहार वाले छात्रों पर LLM ट्यूटरों का मूल्यांकन (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — एक 624-आइटम अंग्रेज़ी दक्षता बेंचमार्क जो मॉडल क्षमता को एक अंशांकित स्तर के रूप में रिपोर्ट करता है (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — क्या मूल्यांकन उपकरण मानवों और LLM के लिए वही चीज़ मापते हैं? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — शैक्षणिकी बेंचमार्क: LLM शैक्षणिक ज्ञान (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM-आधारित शिक्षण-डिज़ाइन एजेंटों का बेंचमार्किंग
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — ऑन-प्रिमाइसेस OER AI ज्ञान-आधार सहायक: बहु-आयामी बेंचमार्क
-- [[authentic-products-authenticated-processes-2026]] — प्रामाणिक उत्पादों से प्रमाणित प्रक्रियाओं तक: AI-समृध उच्च शिक्षा में प्रामाणिक मूल्यांकन
-- [[llm-cognitive-diagnosis-handwritten-math]] — हस्तलिखित गणित कार्य से विद्यार्थियों की संज्ञानात्मक कुशलताओं के निदान के लिए बड़े भाषा मॉडलों का बेंचमार्किंग
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: अनुकरणीय शिक्षार्थियों के साथ शैक्षणिक LLM एजेंटों के लिए एक दीर्घ-क्षितिज बेंचमार्क
-- [[responsible-assessment-ai-era-stanford-2026]] — AI युग में उत्तरदायी मूल्यांकन: एक भविष्य-केंद्रित सम्मेलन से प्रमुख अंतर्दृष्टि
-- [[anvil-ai-educational-animations]] — ANVIL: व्याख्याताओं के लिए उपमाएँ और वीडियो
-- [[icle-plus-plus-essay-scoring]] — ICLE++: समग्र निबंध स्कोरिंग के लिए सूक्ष्म-गुणों का मॉडलिंग
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: स्लाइड ऑडिटिंग के लिए मल्टीमोडल LLM का बेंचमार्किंग
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: उत्पन्न गणित आरेखों के मूल्यांकन के लिए बेंचमार्क
-- [[eeg-familiarity-automated-assessment-2026]] — शिक्षार्थी मूल्यांकन का स्वचालन: EEG-आधारित परिचय पूर्वानुमान
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: सैद्धांतिक कंप्यूटर विज्ञान शिक्षा के लिए रिट्रीवल-संवर्धित उत्पादन -- एल्गोरिदम विश्लेषण और जटिलता सिद्धांत के लिए एक व्यापक मूल्यांकन ढाँचा
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: एनोटेशन-प्रथम, कार्य-उत्पादक बेंचमार्क निर्माण, और 12 कलात्मक-चित्रण कार्यों में आयाम-स्तरीय गैर-अतिरिक्तता (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI और मानव ट्यूटरिंग समतुल्य GRE सीख प्राप्ति देती हैं
-- [[bloom-classifier-ai-assisted-questions-2026]] — नवीन AI-सहायित शैक्षणिक प्रश्नों के शैक्षणिक मूल्यांकन के लिए पूर्व-प्रशिक्षित मॉडलों का मूल्यांकन
-- [[llm-benchmark-secondary-science-topics-2026]] — मध्य विद्यालय और उच्च विद्यालय विज्ञान विषयों की समझ के लिए LLM का एक बेंचमार्क
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — AI-ट्यूटर बेंचमार्क के लिए आठ डिज़ाइन सिद्धांत, जो एक ऐसे मेट्रिक से व्युत्पन्न हैं जिसे दोहराव में अनुकूलित किया गया (Domínguez Figaredo & Fernández De la Cruz 2026)

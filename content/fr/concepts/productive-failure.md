@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -106,39 +108,3 @@ L'échec productif se relie aux [[learning-theories|théories de l'apprentissage
 - **« Retenir l'aide frustre les apprenants et coûte de la motivation. »** Un [[rct|essai randomisé]] à trois bras a constaté qu'un tuteur retenant les indices **égalait ChatGPT sans restriction sur la réduction de la frustration et sur** la motivation — le coût n'apparaissait **que dans la préférence**. Les apprenants n'y prenaient pas autant de plaisir et n'en souffraient pas, ce qui signifie que des données de préférence auraient rejeté la conception qui fonctionnait.
 - **« Plus de frustration signifie plus d'apprentissage. »** Le tuteur qui intensifie était **0,42 point d'échelle plus frustrant que le tuteur qui répondait sur demande (p < .001) et 0,29 moins frustrant que** le bras le plus frustrant. La plage productive est un milieu, non un maximum, si bien que la « difficulté souhaitable » n'autorise pas à rendre la tâche indéfiniment plus dure.
 - **« L'échec productif signifie que les enseignants ne devraient pas aider. »** La conception retire *la réponse* tout en fournissant structure et intensification. Retenir un indice et retenir le soutien sont des interventions différentes, et seule la première est celle qui dispose de preuves ici.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — La tentative avant l'enseignement comme séquence complète, avec sa base de preuves mince
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — Les cas comme espace de problème partagé pour la première tentative
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Articles liés
-
-- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
-- [[rhaimi-productivemath-2025]] — ProductiveMath : l'IA au service de la conception de problèmes d'échec productif
-- [[wang-safety-gap-productive-struggle-2026]] — Le Safety Gap : restaurer la lutte productive
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction : ChatGPT pour l'apprentissage autonome
-- [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retenir les solutions évitait le coût de la frustration mais perdait sur la préférence des étudiants
-- [[shen-ai-skill-formation-2026]] — Une médiane de 3 erreurs sans IA contre 1 avec, et des scores de quiz sans assistance 17% plus élevés (Shen et Tamkin 2026)

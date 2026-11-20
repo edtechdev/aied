@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -80,11 +81,3 @@ The Princeton Review. שלוש המהדורות נבנות זו על גבי זו
 של למעלה מ-40,000 הורדות PDF בכ-4,000 מוסדות ב-180 מדינות, ולמעלה מ-130 מהדורות
 קמפוס מותאמות, הם שלהם, כמו גם ההמלצות מ-ALA, NASPA, EDUCAUSE, OLC, CAA, מכון
 גרדנר ו-RTI International.
-
-## מושגים מחוברים
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

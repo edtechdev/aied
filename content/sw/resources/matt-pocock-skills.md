@@ -35,6 +35,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,6 +47,3 @@ Mfano mahususi zaidi ni `teach`, ambayo hufanya kazi katika vipindi vingi na huc
 ## Jua kabla ya kuitekeleza
 
 Kila kitu ni [[open-source|chanzo wazi]] chini ya MIT na ni huru kuchukuliwa kama sehemu ya kuanzia kwa [[ai-literacy|ujuzi wa AI]] wa mahali pa [[self-directed-learning|kujifunza kwa kujitegemea]] wa mahali hapo. Utekelezaji ni mkubwa na unabadilika haraka: kwa takribani nyota 270,000 na matawi 23,000 yalipokaguliwa mwezi Septemba 2026, na ahadi ya hivi karibuni ilikuwa Septemba 18, 2026. Onyo ni wigo. Ujuzi huzitegemea muktadha wa kazi wa [[human-ai-collaboration|mhandisi]], vimepangwa katika vikundi vya uhandisi, tija, vimeeachwa na vya maendeleo, hivyo baadhi ya maingizo yamekamilika wazi au yameachwa, na README hufanya kazi pia kama usajili wa barua pepe. Chukulia ujuzi za kufundisha na kuuliza maswali kama sehemu inayoweza kuhamishwa, na tarajia kuandika upya yoyote kati yao kabla ya kuiweka mbele ya wanafunzi.
-
-## Dhana Zilizounganishwa
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

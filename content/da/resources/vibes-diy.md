@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -43,7 +44,3 @@ Det er en alsidig bygger snarere end et undervisningsprodukt: det er nyttigt for
 ## Noter og forbehold
 
 Platformen har et gratisniveau, men det er kreditbaseret: konti får 1.000 AI-kreditter om måneden, og byggeri, redigering, billedgenerering og AI-funktioner i appen bruger dem alle. Et abonnement tilføjer muligheden for at købe flere kreditter, som ikke udløber. Ethvert kursus, der vil basere sig på platformen, bør tjekke de aktuelle vilkår, da gratis brug er målt snarere end ubegrænset, og bør behandle elevskabte apps som indhold med sine egne spørgsmål om datahåndtering.
-
-## Relaterede begreper
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

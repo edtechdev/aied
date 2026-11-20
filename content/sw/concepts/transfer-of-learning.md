@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -95,7 +97,6 @@ Hii inalingana na utafiti wa [[intelligent-tutoring|Mafunzo ya AI]] unaoonyesha 
 
 Swali la kipimo cha muda sasa lina usanifu rasmi. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] analiita kipindi cha baada ya kuondolewa "cognitive washout" na kutoa matokeo manne yanayowezekana: urejeshaji wa elastic, uwanda wa sehemu, kiunzi fichu na urejeshaji kupita kiasi. Kurudishika, karatasi inadai, ndiko kunakoamua ukali, na inapendekeza itifaki ya majaribio ya mikono mitatu ya wiki ishirini na mbili inayoweza kusajiliwa mapema ili kuipima. Masudio yaliyo hapo juu yalijaribu uhamishaji saa chache baada ya msaada kuisha, hivyo wiki zilizofuata ni sehemu ya swali la kwanza lililo wazi la ukurasa huu ambalo bado halijapimwa kweli.
 
-
 ### Mahusiano na dhana zinazohusiana
 
 Uhamishaji wa kujifunza unaungana na [[metacognition]] (kujifuatilia mwenyewe ufahamu), Nadharia ya Mzigo wa Kiakili (mzigo wa faida dhidi ya wa nje), [[desirable-difficulties]] (mapambano yenye tija), [[scaffolding]] (kupunguza msaada polepole), [[cognitive-offloading|Kutegemea Kupita Kiasi]] (utegemezi wa zana), na [[sociocultural-learning]] (AI ya matumizi ya jumla hufanya kazi nje ya ZPD kwa kukamilisha kazi kwa wanafunzi). Ni daraja kati ya utendaji unaosaidiwa na kujifunza halisi — tofauti kati ya [[stanford-evidence-base-ai-k12-2026]] na swali kuu kwa ufanisi wa [[intelligent-tutoring|Mafunzo ya AI]].
@@ -109,39 +110,3 @@ Uhamishaji wa kujifunza unaungana na [[metacognition]] (kujifuatilia mwenyewe uf
 **"Uhamishaji hutoka kwa mifano yenye uwezo zaidi."** Uhamishaji hutoka kwa hali zinazouzalisha, upana wa mazoezi, tofauti za miktadha, na kiwango ambacho mwanafunzi alizalisha ufikiri mwenyewe. Uwezo wa mfano huinua dari ya utendaji unaosaidiwa na haufanyi jambo maalum kwa kile kinachobaki mfano ukiwa haupo.
 
 **"Mwongozo kila wakati unauunga mkono uhamishaji, kwa hivyo mwongozo zaidi ni bora."** Mwongozo unaofanya ufikiri unachukua nafasi ya mchakato ambao uhamishaji unautegemea. Tofauti ni kati ya msaada unaomfanya mwanafunzi azalishe hatua inayofuata na msaada unaoizalisha kwa ajili yake, na wa kwanza pekee uko upande wa uhamishaji wa mstari huo.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Matokeo ambayo milolongo mingi ya hivi hatimaye inahukumiwa juu yake
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Kushindwa Kwenye Tija
-
-## Makala Zilizounganishwa
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kati ya kujifunza kwa mwingiliano wa binadamu-AI, yenye mbinu nne na mapendekezo sita yanayoweza kujaribiwa (Yan na Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kuweka kiakili kwa wengine kwa kulingana na tabaka katika uandishi unaosaidiwa na GenAI (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Tofauti ya utendaji-kujifunza na uhamishaji wa kudumu
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Uelekezaji wa Kieledu wa LLM kwa Kushindwa Kwenye Tija
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI katika Elimu ya Fizikia ya Chembechembe: Matatizo ya Utafiti na Ujuzi wa Msingi
-- [[shi-genai-experiential-learning-management-education-2026]] — inadai kwamba uigaji wa darasa lililolindwa unaweza kuunda tabia za uamuzi zinazoshindwa nje yake
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Mazoezi ya kuzungumza yanayosaidiwa na AI yalipandisha nia kuelekea binadamu lakini hakuna somo lililoona binadamu akizungumza
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Kujifunza Kwa Kupanuliwa Kupitia Uwepo wa Roboti wa Kazi mezani
-
-- [[cognitive-washout-ai-skill-decay-2026]] — Kuosha kiakili: kipindi cha baada ya kuondolewa na itifaki ya upimaji ya wiki 22 (Yajee 2026)
-

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -97,29 +99,3 @@ Przyjście [[generative-ai|generatywnej SI]] — szerokiej rodziny obejmującej 
 
 - Używaj korpusów historycznych jako punktu odniesienia, zamiast traktować teraźniejszość jako jedyne dostępne porównanie. Materiały AIED z 1985, 1993, 2021 i 2024 oraz IJAIED z 2004, 2014 i 2021 są gotową próbą podłużną twierdzeń samej dziedziny.
 - Cytuj rodowód, gdy twierdzisz nowość. Twierdzenie, że system „personalizuje uczenie się" lub „modeluje uczącego się", jest nowe tylko względem konkretnej wcześniejszej tradycji, a ta tradycja jest udokumentowana.
-
-## Połączone koncepcje
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Połączone artykuły
-
-- [[mishra-control-vs-agency-history-2025]] — Kontrola kontra sprawczość: badanie historii SI w edukacji
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (nawiązuje do dziedzictwa Andersona)
-- [[cognitive-commons-ai-expertise-regeneration]] — Wspólnota poznawcza i ekspertyza SI (ramowanie historyczne)
-- [[programming-its]] — Programowanie systemów korepetycji inteligentnej
-- [[lak2026-hint-button-unproductive-use]] — Powrót do przycisku podpowiedzi w korepetytorach poznawczych
-- [[socrates-students-instructors-llms-lbt-2025]] — Uczenie się przez nauczanie z LLM-ami (linia konstrukcjonizmu Paperta)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Pięćdziesiąt lat tematów *Computers & Education*: obecność SI zaczęła rosnąć po 2018 r., cztery lata przed ChatGPT

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -49,12 +50,3 @@ Watengenezaji wanaojenga vipengele vya AI ndani ya bidhaa za mtaala na [[assessm
 ## Maelezo na tahadhari
 
 Kuwa wazi katika [[open-source|chanzo]] hakufanyi data kuwa wazi. Msimbo wa Knowledge Graph na Evaluators ni MIT na Agent Skills ni Apache-2.0, wakati kila seti ya data ina lebo yake ya ufikiaji — Open, Open + Gated, au Gated — na maudhui ya Gated hayafunikwi waziwazi na leseni wazi ambazo hazina inataja, hivyo angalia katalogi ya seti za data kabla ya kudhani haki za kutumia tena. Maudhui ya prompt ya evaluator ni CC BY 4.0, lakini korpora zilizo na maelezo CLEAR na PERSUADE 2.0 anazotumia ni CC BY-NC-SA 4.0. Jukwaa na seti za data zilizo nyuma yake zinahitaji akaunti.
-
-## Dhana zinazohusiana
-
-- [[curriculum-design]] — grafu ipo ili kupatanisha maudhui yaliyozalishwa na viwango na mitaala
-- [[open-source]] — msimbo wa MIT na Apache-2.0 wenye leseni za data kwa kila seti ya data
-- [[educational-nlp]] — evaluators ni tabaka la upimaji wa maandishi juu ya matokeo ya LLM
-- [[agentic-ai]] — stadi zinazofungasha mtiririko wa kazi ili modeli iutekeleze
-- [[edtech-platform]] — Curriculum Sync hupakia mitaala kwenye mfumo wa usimamizi wa kujifunza
-- [[llm]] — lengo la tathmini na mtumiaji wa stadi hizo

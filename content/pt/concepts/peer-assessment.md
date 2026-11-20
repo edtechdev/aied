@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -105,48 +107,3 @@ As questões abertas dizem respeito à força da evidência, e não apenas ao de
 - **"A revisão entre pares é um substituto mais barato do feedback do instrutor."** O mecanismo é a [[learning-by-teaching|aprendizagem pelo ensino]], e ela aparece até entre máquinas: o discurso semelhante ao da aprendizagem entre pares entre mais de **2,4 milhões de agentes de IA** foi majoritariamente **asserção, e não investigação**. Produzir crítica é um ato diferente de recebê-la.
 
 - **Formulários reflexivos de pares e de si como registro por trás de uma nota de grupo.** [[issa-teamwork-framework-academic-integrity-2024|Issa e Hall (2024)]] usaram um formulário reflexivo de pares por colega de equipe mais um formulário reflexivo de si por estudante numa unidade de pós-graduação em Gestão de Projetos Empresariais, ao lado de uma reunião de 30 minutos com cada equipe em que os membros foram perguntados se sua contribuição era original. Os formulários não foram avaliados como troca de feedback. Eles eram a evidência por pessoa que permitia ao instrutor defender uma nota individual dentro de uma avaliação de equipe valendo 40%. A subida da nota do framework de 27/40 para 31/40 está confundida com um novo docente e sua alegação de integridade não é quantificada, de modo que a parte transferível é a estrutura de registro, e não o tamanho do efeito.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — PAIRR e feedback combinado de pares mais IA: as sequências e sua evidência comparativa
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Artigos conectados
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — O feedback integrado de IA mais pares elevou as três dimensões de engajamento e as quatro dimensões de escrita do IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — Comparando a correção do ChatGPT, de pares e de instrutores ao longo dos níveis de qualidade do projeto (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Revisão por Pares e IA + Reflexão (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — Sistemas de feedback entre pares com IA
-- [[ai-internal-feedback-evaluative-judgments]] — Desvendando o desenvolvimento de juízos avaliativos em estudantes de graduação
-- [[learner-centered-feedback-ai]] — Aprimorando o feedback centrado em quem aprende com IA
-- [[genai-linguistic-diversity-academic-writing]] — IA generativa e diversidade linguística na escrita acadêmica
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR em um curso de escrita em negócios: revisão entre pares, feedback de chatbot, reflexão (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — IA generativa versus pares humanos para andaimentar o feedback autorregulado e o letramento em feedback (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — IA generativa como Treinador e Sintetizador no feedback entre pares em inglês como língua estrangeira sobre fala (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Experimento multissítios comparando feedback apenas entre pares, direto, reflexivo e híbrido de IA generativa (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Feedback entre pares com IA generativa andaimentado por prompt na argumentação colaborativa (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Autonomia na avaliação em grupo mediada por IA generativa: cooperação, contenção, não exercício (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Entrevistas orais de revisão de código como redução de dano da IA generativa em CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Coaching automatizado multimodal de apresentação como alternativa escalável ao feedback entre pares (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Resumos de discussão gerados por IA ampliam a exposição entre pares em fóruns on-line (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Influência dos pares e confiança relacional na divulgação de IA generativa pelos estudantes (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Revisão sistemática de LLMs para pensamento crítico, trabalho em equipe e resolução de problemas (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Discurso semelhante ao de aprendizagem entre pares entre 2,4 milhões de agentes de IA (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Auditoria de 14 meta-análises de AIED e 59 estudos primários (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Feedback do professor versus feedback entre pares assistido por IA na escrita de L2: quantidade, foco e trajetórias de melhoria ao longo de duas tarefas (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — Formulários reflexivos de si e de pares como evidência por pessoa por trás de uma nota de grupo (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Vocabulário de papéis de 654 estudantes: tutor 28,6%, colaborador 23,1%, ferramenta 9,9%, robô 7,7%

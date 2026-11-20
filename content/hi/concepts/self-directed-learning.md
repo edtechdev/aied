@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -86,32 +88,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - रिपोर्ट करें कि हस्तक्षेप ने किस संरचना को लक्षित किया; SDL और SRL परिणामों को एक-दूसरे के स्थान पर उपयोग नहीं करना चाहिए।
-
-## संबंधित अवधारणाएँ
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## संबंधित लेख
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — माध्यमिक विद्यालय के छात्रों में स्व-निर्देशित जनरेटिव AI उपयोग और शैक्षणिक विकास: एक बड़े पैमाने का, एक-वर्षीय अनुदैर्ध्य अध्ययन
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — GenAI का विचारहीन उपयोग और स्व-निर्देशित अधिगम (SEM, लैंगिक अंतर)
-- [[ai-lifelong-learning-policy]] — AI और आजीवन अधिगम नीति
-- [[self-directed-growth-generative-ai-learning-analytics]] — GenAI और लर्निंग एनालिटिक्स के साथ स्व-निर्देशित वृद्धि
-- [[genai-educational-outcomes-meta-analysis]] — जनरेटिव AI के शैक्षणिक परिणामों का मेटा-विश्लेषण
-- [[andragogy-cognitive-delegation-genai-2026]] — GenAI के साथ एंड्रैगॉजी और संज्ञानात्मक प्रत्यायोजन
-- [[kim-ai-andragogy-2026]] — एंड्रैगॉजी के समर्थन में AI अनुप्रयोग (किम एट अल. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-
-- [[llm-goal-selection-self-directed-learning-2026]] — मॉडल मुक्त-चयन कार्य में मनुष्यों की तरह अधिगम लक्ष्य नहीं चुनते (Molinaro et al. 2026)
-

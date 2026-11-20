@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -52,7 +54,6 @@ ai_assist:
 **גישה חושית: פלט לא-חזותי ומגעי.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** הופך שיחה מדוברת למודאליות הראשונית לילדים עם לקות ראייה, ומסיר תלות חזותית. **[[tactile-statistical-graphs-accessibility|גרפים מודפסים ב-3D מגעיים]]** הופכים נתונים סטטיסטיים חזותיים לפלט ניתן-למגע ללומדים עיוורים ובעלי ראייה נמוכה. **[[pepper-robot-sign-language-lis-2025|רובוטים בשפת סימנים]]** מרחיבים את [[educational-robotics]] לנגישות תקשורתית עבור לומדים חירשים.
 
 **גישה שמעדיפה סירוב: לבקש את התרשים במקום לנחש.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] מצאו שכאשר תרשים חיוני למשימה מוסתר, שישה מודלים רב-מודאליים סירבו לנחש ב-95.4%–98.9% מההרצות — הימנעות שמערכות נגישות צריכות לפרש כבקשה לתרשים או לתיאור מובנה ולא כניחוש. קבוצות הזהב (76 פריטים) וקבוצות הזהב-המוחלט (61 פריטים) שפורסמו בהסכמה נותנות לניסויי החלפת-תיאור מצע לבדיקה להשוואת תרשימים מקוריים עם תיאורים טקסטואליים מאומתים בפריטי מתמטיקה התלויים בתרשים.
-
 
 **תיאור אודי שנכתב לקולנוע אינו עובר להקלטות הרצאות.** הרצאות מבוססות שקופיות מתייחסות לדיאגרמות, משוואות ותנועות הצבעה, וההפסקות בהן נעות חציון של 0.5 שניות בלבד, ולכן [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]] בנו מאגן הערכה ייעודי להרצאות ומדד שאבחנה מבוססת כללים; [[llm-training-and-fine-tuning|אימון המשך]] על זוגות שסודרו לפי שיפוט מכונה לא שיפר את הציות באופן אחיד.
 
@@ -86,41 +87,3 @@ ai_assist:
 - **"נגישות פירושה התאמה."** סקירת היקף של **40 מחקרים** של טכנולוגיות מסייעות דיגיטליות לתלמידים נוירו-מגוונים מצאה ש**28 מהן קבעו אבחון פורמלי כתנאי להשתתפות**. זהו מודל מותנה-אבחון, והוא מוציא כל לומד שיש לו צרכים אבל אין לו תווית — ההיפך מעיצוב אוניברסלי.
 - **"אפקטים בינוניים מכריעים את השאלה."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] מבצעים מטא-אנליזה של **29 מחקרים** ומוצאים אפקט חיובי בינוני, שהוא אמיתי וגם אינו אומר דבר על איזה כלי לאיזה צורך. הממוצע על פני התערבויות הטרוגניות אינו המלצה.
 - **"מהירות ומיידיות הן נוחות."** במחקר מקרה איכותני של **21 סטודנטים לתואר ראשון עם לקות ראייה** בשלוש אוניברסיטאות פלסטיניות, הלומדים מיסגרו מיידיות כ**דרישת נגישות בסיסית ולא כנוחות**. מה שנראה מבחוץ כמותרות הוא תנאי מוקדם להשתתפות.
-
-## מושגים מחוברים
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — מטרייה רחבה יותר לעיצוב חינוך על פני שונות הלומדים
-- [[special-education]] — תחום הוראה ללומדים עם מוגבלויות מאובחנות
-- [[universal-design-for-learning]] — מסגרת עיצוב פעילה
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — אוזניות, בחילת תנועה וגישה למכשיר קובעים מי יכול להשתמש בו
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — עמוד המטרייה לכללים רחבים-יתר, ראיות פגומות והתאמה סבירה
-- [[arts-and-media-education]]
-
-## מאמרים מחוברים
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% מתוך 100 אוניברסיטאות עילית מפרסמות מדיניות נגישות AI, בעוד 93% מפריסות שירותי קמפוס מבוססי AI
-- [[shin-ai-policies-sld-2026]] — מדיניות AI והתאמות לתלמידים עם מוגבלויות למידה ספציפיות
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — מטא-אנליזה של התערבויות AI לתלמידים עם מוגבלויות
-- [[adhd-video-segmentation-computing-education]] — וידאו מפוצל-AI עם הפסקות קבועות
-- [[text-simplification-its]] — פישוט טקסט מבוסס-LLM לחונכות חכמה
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — יצירת שאלות LLM ללומדים חירשים/בעלי קושי שמיעה
-- [[kutti-ai-voice-first-learning-companion]] — חבר קול-ראשוני לילדים עם לקות ראייה
-- [[tactile-statistical-graphs-accessibility]] — גרפים סטטיסטיים מודפסים ב-3D מגעיים
-- [[pepper-robot-sign-language-lis-2025]] — רובוט Pepper תומך בשפת סימנים
-- [[genai-minoritized-knowledges-disability]] — פרספקטיבה ביקורתית על AI וידע ממוקד-מוגבלות
-- [[gemini-lualatex-physics-video-transcription-2026]] — תמלול וידאו פיזיקה נגיש-מתמטיקה ב-Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI מסייע ללומדים עם לקות ראייה
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI prohibitions and the assistive tools they capture
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: ממשק קריאה קריא לאדם ומעכב מכונה
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: הערכת תיאור אודי של הרצאות אוניברסיטאיות מול תקני נגישות, מדדים והעדפות לומדים

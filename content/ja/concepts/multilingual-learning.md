@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -74,29 +76,3 @@ LLMを基盤とする比較判定は、バイアスがモデルではなく人�
 - **「目標言語が初日から支配すべきである。」** **24 件の研究の系統的レビュー**では、学習者が**目標言語への橋として、自分の言語での文脈化された表現と説明**を求めており、レビューアはこの利用を、間に合わせではなく真に新しい下位アフォーダンスとして分類しています。母語による支援は、回避ではなく[[scaffolding|足場かけ]]として機能しました。
 - **「AI による言語評価は、多言語の書き手に対して偏っている。」** ここではバイアスが**モデルではなく人間のベースラインを追いました**。**3 年生から 6 年生の説明的文章**に対する LLM ベースの比較判定は**研究者のルーブリックと収束し（r = .59-.73）**、人間の採点者と同じパターンを示しました。これは絶対的な意味での公平性の証拠ではありません。モデルが既存の歪みの上に新しい歪みを加えなかったという証拠です。
 - **「有用なのは翻訳品質の出力である。」** 橋渡しの利用は説明的で状況に即したものであり、代替ではありません。学習者自身の産出を置き換えるツールは、橋渡しが可能にしようとしていた練習を取り除きます。
-
-## 関連概念
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## 関連記事
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI チャットボットは、従来の言語ツールが支援しなかったトランスランゲージングを可能にする。
-- [[llm-comparative-judgment-writing-screening-2026]] — 作文のユニバーサルスクリーニングにおける大規模言語モデル比較判断の妥当性。
-- [[multilingual-adaptive-learning-nigeria-2026]] — Nigeria 向けの AI ベース適応学習プラットフォーム。
-- [[bilingual-llm-lecture-companion-srl-2026]] — バイリンガル LLM 講義コンパニオン。
-- [[structural-silence-underrepresented-language-ai-2026]] — 構造的沈黙:過小代表の言語。
-- [[llm-cultural-relevance-k12]] — K-12 における LLM の文化的関連性。
-- [[scaffolding-critical-engagement-genai-minority-students]] — 少数派学生における GenAI への批判的関与。
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct:インド知識体系データセット。
-- [[kutti-ai-voice-first-learning-companion]] — 音声優先の学習コンパニオン。
-- [[ai-scoring-language-bias-physics]] — 物理における AI 採点の言語バイアス。
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Curacao と Aruba における会話型 AI を用いた4言語コードスイッチング(Bush et al., 2026)。

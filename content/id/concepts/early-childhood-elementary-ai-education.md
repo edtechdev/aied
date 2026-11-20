@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,48 +83,3 @@ Jendela neuroimaging pertama atas pertanyaan ini datang dengan kehati-hatian: an
 - **"Guru akan memakai AI untuk menghasilkan pelajaran utuh."** Guru paling sering mendelegasikan (**60%**) **untuk mengisi celah konten dalam pelajaran yang mereka gariskan sendiri**, bukan untuk menghasilkan rencana utuh. Unit delegasinya adalah celah, bukan pelajaran.
 - **"Anak kecil kurang memperoleh manfaat dari literasi media berbantuan AI."** Kelompok berbantuan AI menunjukkan **kemajuan besar dalam membaca media (+3.50), menulis (+1.67), dan total literasi media (+5.17, semua p < .01)** dengan ukuran efek antarkelompok d = 1.12 atau lebih. Kemajuannya besar pada rentang usia ini, bukan marginal.
 - **"Observasi otomatis sepakat dengan penilai manusia di semua aspek."** Kesepakatan **moderat secara keseluruhan (κ berbobot = 0.681) tetapi bergantung pada konstruk**: konvergensi bertahan untuk domain **Emotional Support** dan **Quality of Feedback**, tidak di tempat lain. Merata-ratakan antar domain menyembunyikan di mana instrumennya gagal.
-
-## Konsep terkait
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Artikel terkait
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Membentuk anak usia dini di era AI: kompetensi, pedagogi, dan dukungan ekologis (Pei 2026)
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — Keterlibatan Pendidik Anak Usia Dini Prajabatan dengan AI Generatif dalam Desain Aktivitas Sains: Kasus Magnetisme
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Dapatkah AI Menilai Kesesuaian Perkembangan dalam Cerita Anak?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Niat perilaku guru prasekolah untuk menggunakan AI dalam lingkungan anak usia dini (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: konsep AI tanpa colokan di anak usia dini
-- [[ai-toys-child-development-2026]] — Mainan bertenaga AI dan perkembangan anak
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Berpikir komputasional melalui robotika di taman kanak-kanak
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Pembelajaran personal bertenaga AI dalam pecahan tingkat dasar
-- [[elementary-writing-genai-systematic-review-2026]] — Pengajaran menulis tingkat dasar di era GenAI
-- [[awareness-technological-isomorphism]] — Isomorfisme teknologi dalam matematika dasar
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Penceritaan humanoid LLM bersama anak
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Komplementaritas manusia–AI dalam pembelajaran sosial-emosional awal (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): kurikulum literasi AI berpusat permainan untuk pre-K dan taman kanak-kanak (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — Program literasi media kritis berbasis AI untuk anak
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: kerangka penyesuaian agen AI dan robotika untuk pembelajaran awal (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Perbandingan neuroimaging pertama antara anak dan orang dewasa yang bercakap dengan ChatGPT: jaringan kontrol-atensi-memori yang kurang terintegrasi pada anak usia 6-7 tahun
-- [[ai-rated-classroom-observation-scores-2026]] — Saya mengode atau AI mengode: skor CLASS Pre-K yang dinilai AI versus penilai manusia terlatih di taman kanak-kanak Hong Kong (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — Literasi AI untuk pribumi AI? Perbandingan empat negara
-
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Alat bermediasi AI dalam pendidikan bahasa Inggris sekolah dasar: tinjauan lingkup fungsi pedagogis dan orkestrasi guru

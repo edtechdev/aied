@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -156,41 +158,3 @@ Yllä olevat tarkistukset eivät ole kansanviisautta; ne tulevat dokumentoiduist
 **"Korkeammat arvosanat työkalun käytön aikana osoittavat, että työkalu opetti enemmän."** Eräässä [[k-12|K-12]]-matematiikan tutkimuksessa yleiskäyttöisellä [[conversational-ai|chatbotilla]] harjoitelleet opiskelijat saivat parempia harjoitusarvosanoja ja saivat sitten **noin 17% huonommin** pisteitä itsenäisessä arvioinnissa. Työkalun läsnä ollessa mitattu harjoitussuoriutuminen on paisunut mitta; itsenäinen on tulos, ja vain toinen niistä nousi.
 
 **"Jos vaikutus on todellinen, toteutuksen yksityiskohdilla ei ole paljon väliä."** Ne ovat se vaikutus. Tutkimus, jossa seurattiin 30 opiskelijaa yhdellä kurssilla yhdessä instituutiossa, työkalun versiolla, jota kukaan ei enää käytä, on tuottanut havainnon konfiguraatiosta, jota ei enää ole. Käsittelyn määrittely, versio ja ympäristö ovat osa väitettä eivätkä sen ympärillä olevaa kontekstia.
-
-## Liittyvät käsitteet
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Tekoälyavusteinen koulutustutkimus
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Liittyvät artikkelit
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Oletetusti vaikuttava: oikeuslääketieteellinen auditointi 14 AIED-meta-analyysistä
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Julkaisuvinoumalla korjatut tekoälyvaikutukset noin kolmasosa raportoidusta koosta
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT koulutuksessa: vaikutus vailla syytä
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Sisällyttämiskriteerit ankaruuden kynnyksenä, ja heterogeenisuus, joka muuttuu mallin mukana
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Kun automaattisen pisteytyksen reliabiliteetti kohtaa tehtävän mittauskaton
-- [[verification-quality-reliance-calibration-genai-2026]] — Mitä verifioinnin ja nojautumisen kirjallisuus ei mittaa
-- [[citation-errors-hallucinations-computing-education-2026]] — Keksityt lähdemerkinnät, jotka pääsivät painoon 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Harjoitusvoittoja, koetappioita: avustuksen poistamisen ongelma K-12-matematiikassa
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Alaryhmävaikutukset, joiden luottamusvälit ylittävät nollan
-- [[chick-faculty-development-ethical-ai-2026]] — Mahdollistavat ehdot: politiikan signaalit, henkilökohtaiset tilaukset, ei aikaa
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Toimittajamittarit, joiden kalibrointi ja koemäärä on paljastettu
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Havainnot sidottu malliversioihin, ja alan kuohunta
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Riippumattoman näytön lukumäärät 16 opiskelijoille suunnatulle, jo käytössä olevalle tekoälytuotteelle
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Katsaus voi kvantifioida raportointivinoutuman omassa korpuksessaan

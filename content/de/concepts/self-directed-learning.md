@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -89,32 +91,3 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 **„Nichtnutzung von KI deutet auf fehlenden Zugang hin.“** Unter Studierenden, die sie nicht nutzen, ist der angegebene Grund oft eine positive bildungsbezogene Entscheidung — die Arbeit selbst machen zu wollen — und keine Barriere. Nichtnutzung als Defizit zu lesen, beschreibt eine Position falsch, die in den Befunden zur [[student-experience|Erfahrung der Studierenden]] begründet ist.
 
 **„Selbststeuerung bedeutet, allein zu arbeiten.“** Sie bedeutet, die Richtung zu besitzen, was auch in einem stark unterstützten Umfeld ausgeübt werden kann. Das unterscheidende Merkmal ist, wer das Ziel setzt und anpasst, nicht ob Hilfe verfügbar ist.
-
-## Verbundene Konzepte
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — Selbstgesteuerter Einsatz generativer KI und akademische Entwicklung bei Sekundarschülerinnen und -schülern: eine groß angelegte Längsschnittstudie über ein Jahr
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Gedankenlose GenAI-Nutzung und selbstbestimmtes Lernen (SEM, Geschlechterunterschiede)
-- [[ai-lifelong-learning-policy]] — KI und Politik zum lebenslangen Lernen
-- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstbestimmtes Wachstum mit GenAI und Lernanalytik
-- [[genai-educational-outcomes-meta-analysis]] — Meta-Analyse der Bildungsresultate durch generative KI
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogik und kognitive Delegation mit GenAI
-- [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-
-- [[llm-goal-selection-self-directed-learning-2026]] — Modelle wählen Lernziele in einer freien Wahlaufgabe nicht wie Menschen (Molinaro et al. 2026)
-

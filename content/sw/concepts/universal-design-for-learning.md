@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -90,33 +92,3 @@ UDL hubadilisha "rekebisha mwanafunzi" kuwa "rekebisha ubini." Kwa waalimu na wa
 **"UDL inamaanisha kubuni kwa mwanafunzi wa wastani kwa uangalifu zaidi."** Dai la msingi ni kinyume: mabadiliko ya mwanafunzi ni kawaida badala ya ubaguzi, hivyo ubuni hutoa njia nyingi kutoka mwanzo badala ya kurekebisha njia moja kwa wale wanaopata shida. Marekebisho ya baadaye ndiyo kitu ambacho UDL ipo kuchukua nafasi yake, na njia moja iliyorekebishwa vizuri bado ni njia moja.
 
 **"AI hufanya UDL kuwa ya kiotomatiki, kwa kuwa inaweza kuzalisha miundo mbadala."** Inafanya kanuni ya uwakilishaji kuwa ya bei ndogo na huacha ushirikiano na kujieleza bila kuguswa. Kubadilisha maandishi kuwa sauti kunashughulikia moja kati ya njia tatu; kozi inaweza sasa kuwa ya miundo mingi kikamilifu na bado kuhitaji kila mwanafunzi kuonyesha kujifunza kwa njia moja ile ile.
-
-## Dhana Zilizounganishwa
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Mwanya: mbinu za kielimu na mbinu za kufundisha katika elimu ya AI
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Makala Zilizounganishwa
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Artificial intelligence and universal design for learning in Kuwait's higher education institutions: towards an AI-enabled framework for inclusive education
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kuhamisha mzigo wa kiakili kwa GenAI kwa wanafunzi wenye ulemavu wa kujifunza
-- [[authentic-products-authenticated-processes-2026]] — Kutoka Bidhaa Halisi hadi Michakato Iliyothibitishwa
-- [[tactile-statistical-graphs-accessibility]] — Grafu za Takwimu za Kugusa kwa Upatikanaji
-- [[neurodivergent-computing-students]] — Wanafunzi wa Kompyuta Wenye Tofauti za Neva
-- [[ai-learning-tools-engineering-education-needs]] — Kubuni Zana za Kujifunza za AI Zinazoelekea Mahitaji na Umakini
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizazi, uhalisia wa kweli, na zaidi: mapitio ya wigo wa teknolojia za kusaidia za kidijitali kwa wanafunzi wenye tofauti za neva katika elimu ya juu
-- [[faculty-accessible-course-design-ai-2026]] — "AI inapunguza chaguo nilizotumia": kuchunguza mitazamo ya wanachuo ya ubini wa kozi za kupatikana katika ulimwengu wa ChatGPT

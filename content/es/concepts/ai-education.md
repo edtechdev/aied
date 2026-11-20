@@ -33,6 +33,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -192,57 +194,3 @@ La IA en la educación se conecta con todos los demás conceptos del campo, ya q
 **«Como la IA es de propósito general, un hallazgo de cualquier lugar se aplica en todas partes.»** La generalidad de la tecnología no crea generalidad de la evidencia. Las líneas de disciplina, nivel y contexto existen porque la misma herramienta se comporta de forma distinta en cada una, y un hallazgo trasladado sin cambios a través de una frontera es una extrapolación.
 
 **«La madurez del campo puede leerse en su volumen de publicación.»** Volumen y madurez divergen; la línea de métodos de investigación documenta debilidades de diseño recurrentes que el volumen no corrige, y los marcos se multiplican más rápido de lo que se prueban.
-
-## Conceptos conectados
-- [[primary-education]] — la IA en la educación primaria
-- [[secondary-education]] — la IA en la educación secundaria
-- [[undergraduate-education]] — la IA en los estudios de grado
-- [[graduate-education]] — la IA en los estudios de máster y doctorado
-- [[pedagogical-patterns]] — Las secuencias probadas que operativizan las pedagogías del campo
-- [[ai-literacy]] — marco: comprender, usar y evaluar la IA
-- [[automation-bias]] — el fallo del lado de quien lee: aceptar un juicio automatizado sin comprobarlo
-- [[human-ai-collaboration]] — marco: cómo trabajan juntas las personas y la IA
-- [[pedagogy]] — marco: métodos y estrategias de enseñanza
-- [[case-based-learning]] — método de casos, discusión de casos y casos contrastantes
-- [[metaphors-and-analogies]] — cómo la metáfora da forma a la comprensión de la IA y cómo la analogía apoya la enseñanza
-- [[learning-theories]] — marco: cómo se aprende
-- [[ai-technologies]] — marco: modelos, técnicas y sistemas
-- [[discipline-specific-aied]] — marco: la IA en las áreas de conocimiento y los niveles
-- [[assessment]] — marco: cómo evalúa la IA al estudiantado y transforma la validez
-- [[feedback]] — marco: cómo se genera, se entrega y se usa la retroalimentación
-- [[stakeholders]] — marco: quiénes son los actores
-- [[learners]] — marco: los conceptos del lado del estudiantado (experiencia, identidad, agencia, interacción, modelos del estudiantado)
-- [[ai-ed-evaluation]] — marco: cómo sabemos si la IA funciona
-- [[research-methods-aied]] — marco: métodos de investigación sobre eficacia
-- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
-- [[governance]] — marco: la capa institucional y normativa
-- [[educational-policy-ai]] — marco: política, orientaciones e implementación
-- [[equity-in-ai-education]] — marco: justicia, acceso e inclusión
-- [[learning-sciences]] — el campo empírico que hay detrás de la AIED
-- [[ethics]] — las dimensiones éticas de la IA en la educación
-- [[misconceptions]] — los modelos mentales que las personas aportan sobre la IA
-- [[interpreting-and-applying-aied-research]] — leer un estudio y llevar un hallazgo a la práctica
-- [[limitations-in-aied-research]] — límites transversales del corpus de evidencia
-- [[meta-analysis-systematic-review]] — qué establecen las revisiones y los metaanálisis
-- [[history-of-aied]] — cómo evolucionó el campo
-- [[philosophy-of-ai-in-education]] — los fundamentos filosóficos
-- [[theories-and-frameworks]] — el mapa de los nodos de teoría y de marcos
-- [[theory-development-aied]] — construir y revisar teoría
-- [[sensor-and-gaze-analytics]] — marco: percibir al estudiantado mediante la mirada, la EEG y señales portátiles
-- [[ai-avatars-and-synthetic-instructors]] — marco: humanos sintéticos que enseñan, tutorizan, simulan y evalúan
-- [[civic-and-political-education]] — área de conocimiento: alfabetización para la vida pública, con una base de evidencia escasa
-
-## Artículos conectados
-
-Revisiones sobre la IA en la educación a escala de todo el campo, es decir, los estudios que examinan todo el campo o todo un nivel educativo en lugar de un solo tema:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — La evolución de la investigación en IA y educación a lo largo de cuatro décadas (marco AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Control frente a agencia: una historia de la IA en la educación
-- [[genai-higher-education-systematic-review-2026]] — IA generativa en educación superior: revisión sistemática de 125 estudios
-- [[stanford-evidence-base-ai-k12-2026]] — La base de evidencia sobre IA en K-12: 52 estudios causales sólidos extraídos de 1.686 trabajos del repositorio (actualización de noviembre de 2026)
-- [[genai-educational-outcomes-meta-analysis]] — IA generativa y resultados educativos: metanálisis integral
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 estudios de secundaria; ganancias donde el estudiantado juzga la salida, no donde la herramienta produce el trabajo
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 estudiantes de máster; la preparación alcanzó la autoeficacia mediante el apoyo de la supervisión
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revisión de 61 fuentes sobre ética, retroalimentación y gobernanza en la supervisión doctoral
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — seminario de posgrado de un solo grupo; ganancias de aprendizaje autodirigido sin una prueba sin ayuda
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 estudiantes; brecha grado-posgrado en ética y autorregulación

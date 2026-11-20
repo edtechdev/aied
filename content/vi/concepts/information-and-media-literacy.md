@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -82,29 +84,3 @@ Một bài ý kiến trong ngành thư viện đẩy ý tưởng đó xa hơn: A
 ## Những hạn chế của bằng chứng
 
 Hầu hết các nghiên cứu ở đây đều nhỏ, tự báo cáo, hoặc cả hai: 236 sinh viên trong một khảo sát, 36 trẻ em trong một can thiệp, 412 thủ thư tự đánh giá. Khả năng hiển thị trắc lượng thư mục không phải là thực hành, và chính các tác giả trắc lượng học nói rõ điều đó. Không nghiên cứu nào trong cơ sở kiến thức đánh giá một chương trình kết hợp năng lực thông tin và truyền thông, và các công cụ phát hiện cùng kiểm chứng sự thật mà tài liệu thực hành khuyến nghị phần lớn không được đo lường trong các nguồn này. Khẳng định rằng kiểm chứng do AI hỗ trợ cải thiện kết quả nên được coi là một giả thuyết thiết kế cho đến khi có người kiểm tra nó với một nhóm đối chứng.
-
-## Khái niệm liên quan
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Bài viết liên quan
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Lập bản đồ việc tích hợp năng lực AI vào giảng dạy năng lực thông tin trong các thư viện học thuật: tổng quan hệ thống về nghiên cứu đang nổi lên
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — AI đang định hình lại năng lực thông tin trong các thư viện học thuật như thế nào: phân tích trắc lượng học toàn cầu (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Trí tuệ nhân tạo (AI) và việc tìm kiếm thông tin: khảo sát so sánh chatbot AI, công cụ tìm kiếm và nguồn thư viện như các nguồn thông tin của sinh viên đại học
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Phát triển một nền tảng học tập dạng seminar có AI hỗ trợ với sự hỗ trợ của thủ thư nhúng
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Năng lực thông tin qua sư phạm mở: vai trò của các công cụ AI là gì?
-- [[huang-genai-academic-information-resources-2026]] — AI sinh tạo định hình lại việc sử dụng bền vững các nguồn thông tin học thuật của sinh viên đại học
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Sự tham gia của thủ thư học thuật với sinh viên để thúc đẩy năng lực thông tin và giảng dạy trí tuệ nhân tạo trong các cơ sở giáo dục đại học Nigeria
-- [[offem-ai-information-literacy-library-users-2026]] — Trí tuệ nhân tạo như một công cụ thúc đẩy năng lực thông tin trong người dùng thư viện
-- [[critical-media-literacy-education-2026]] — Công nghệ, giáo dục và năng lực truyền thông phản biện: tiềm năng, thách thức và cơ hội
-- [[demir-akar-ai-media-literacy-children-2026]] — Biến lượt nhấp thành tư duy phản biện: một chương trình năng lực truyền thông dựa trên AI cho trẻ em
-- [[ai-literacies-young-adults-2025]] — Hỗ trợ năng lực AI cho người trẻ 14-19 tuổi

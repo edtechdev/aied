@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -96,37 +98,3 @@ Wanafunzi pia huelezewa na vyombo vya habari vya kijamii na mazungumzo ya umma y
 **"Kupiga marufuku zana kunaondoa tabia."** Kunaiondoa hadi zana usizoweza kuziona. Wanafunzi tayari wanapendelea zana zinazopatikana kwa faragha kuliko zile za taasisi, hivyo marufuku yanasukuma matumizi nje ya mazingira pekee ambapo msaada, ukaguzi au mwongozo unawezekana. Kazi ya kuelekeza ni kufanya tabia inayoruhusiwa iwe ya kuvutia, si kufanya tabia iliyokatazwa iwe vigumu kuona.
 
 **"Kuelekeza ni kushawishi, hivyo ni zaidi ya usemi kuliko ubunifu."** Kuelekeza kunakoelezewa na ukurasa huu kunaambatana na ubunifu: matarajio yaliyotamkwa wazi na mara kwa mara *huku ikibuniwa kuzunguka wanafunzi*. Ujumbe unaowasilishwa badala ya kuundwa kwa ajili ya wanafunzi ndio toleo linaloshindwa, kwa sababu wanafunzi wanasoma tofauti kati ya ahadi iliyotamkwa na ahadi halisi.
-
-## Dhana Zilizounganishwa
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Makala Zilizounganishwa
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Makubaliano ya wataalam 30 juu ya mpangilio: pata bila GenAI, dumisha nayo, kisha fikiria wewe mwenyewe
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Mantiki ya wazi kwa kila matumizi yanayoruhusiwa na yasiyoruhusiwa ya GenAI, kazi kwa kazi (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Kuhimiza matumizi yanayofaa ya GenAI badala ya kuyahukumu kama mzunguko
-- [[student-rationalization-ai-writing]] — "Mahali matano" ambapo wanafunzi wanahalalisha matumizi ya AI katika uandishi wa kitaaluma
-- [[student-regulatory-awareness-genai]] — Kujua kanuni hatitoshi: ufahamu wa kanuni na matumizi halisi
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Kutoka wasiwasi wa AI hadi udhibiti wa kimkakati
-- [[chatgpt-inoculation-training-verification-2026]] — Ujumbe wa kinga na tabia ya uthibitishaji
-- [[ai-fallibility-warning-help-seeking]] — Onyo kuhusu kushindwa kwa AI huongeza utafutaji wa msaada
-- [[shame-guilt-ai-regulation-computing-education]] — Aibu na hatia kama wasimamizi wa kijamii wa matumizi ya AI
-- [[access-not-enough-ai-tutoring-2026]] — Msaada wa binadamu huboresha ushirikishwaji na ufundishaji wa AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Ushirikishwaji na GenAI unaotegemea SDT
-- [[ai-availability-student-motivation]] — Jinsi upatikanaji wa AI unaunda motisha ya mwanafunzi
-- [[youtube-frames-chatgpt-education]] — Jinsi YouTube inaelekeza matumizi ya ChatGPT katika elimu
-- [[ai-ethics-education-public-discourse]] — Mazungumzo ya umma kuhusu maadili ya AI katika elimu
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Waelimishaji wanataja AI kama matumizi mahususi/yanayowajibika; waajiri wanaitaja kama tija
-- [[ssaho-ai-academic-integrity-review-2025]] — Kujenga utamaduni wa uadilifu wa kitaaluma kupitia matarajio wazi

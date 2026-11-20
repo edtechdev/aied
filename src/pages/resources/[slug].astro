@@ -43,6 +43,11 @@ const connectedResources = (resource.data.connected_resources || [])
 const connectedFaqs = (resource.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
+// Connected Concepts: slugs in frontmatter (2026-11-19 migration from the body section).
+const conceptById = new Map(concepts.map(c => [c.id.replace('.md', ''), c]));
+const connectedConcepts = (resource.data.connected_concepts || [])
+  .map(s => conceptById.get(s))
+  .filter((c): c is NonNullable<typeof c> => Boolean(c));
 
 const allTitles: Record<string, string> = {};
 [...concepts, ...articles, ...faqs, ...resources].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
@@ -55,6 +60,7 @@ const { title, created, updated, url, source_code, author, author_url, resource_
 const body = resource.body || '';
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedConcepts.length > 0) toc.push({ text: 'Connected Concepts', slug: 'connected-concepts', depth: 2 });
 if (connectedResources.length > 0) toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
 if (connectedFaqs.length > 0) toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 const createdDisplay = (created || '').split('T')[0];
@@ -109,6 +115,16 @@ const pagefindFilterPairs: string[] = metaFields
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-concepts"
+      heading="Connected Concepts"
+      items={connectedConcepts.map((c: any) => ({
+        href: `/aied/concepts/${c.id.replace('.md', '')}/`,
+        title: c.data.title,
+        kind: 'concept' as const,
+      }))}
+    />
 
     <ConnectedList
       id="connected-resources"

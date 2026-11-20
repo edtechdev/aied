@@ -15,6 +15,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 > **Agentic [[ai-education|AI education]]** — AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: [[intelligent-tutoring|AI tutors]] that scaffold over extended interactions, multi-agent systems that orchestrate instructional designs, and agents that co-regulate learning. This paradigm shift from a prompt-responding tool to an active collaborator carries both promise and risk: agentic AI can personalize and deepen learning, but it also threatens [[agency|agency]], [[cognitive-offloading|cognitive effort]], and control. Three sources examine this tension: the [[agentic-ai-education-scoping-review|scoping review]], the [[tool-invariant-framework-agentic-ai|tool-invariant framework]], and the [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] article.
@@ -77,8 +79,6 @@ A step beyond orchestrating a few specialized agents is the **full agentic multi
 - **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarized memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
 - **Socially intelligent multi-agent tutoring.** Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in [[cs-education|introductory programming]].
 
-
-
 **An organizational answer: the learner as a participating member rather than a recipient.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instantiate a human-participatory multi-agent organization in which specialized agents maintain a revisable Capability Program linking personal goals, [[multimodal|multimodal]] activities and layered assessment, with a correctable "Human Node" carrying the learner's own evidence and challenges into later revisions. Against the closest multi-agent baseline across 96 simulated learner cases, the advantage concentrated in [[assessment|assessment design]]: 19.32 points higher on [[assessment-validity|Assessment Validity]] (95% CI [17.55, 21.04]) and 5.89 on capability coverage, while personalization did not separate (1.35 points, interval crossing zero). In a randomized 32-learner study the knowledge gain on an objective 50-point test was 12.19 against 5.61 points.
 
 ## The central tension: automation vs. learning
@@ -134,7 +134,6 @@ This connects the agentic-AI discussion to [[academic-integrity|academic integri
 
 Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] shows that agents enacting **constructive conflict** prompted significantly more design iterations, broader exploration of alternatives, and higher-rated final designs among novice interaction designers (N=48) — a *productive friction* dynamic, where the conflict agent was frustrating but ultimately helpful. This connects to [[socratic-method|Socratic questioning]] and [[design-thinking|design thinking]], and illustrates how agentic AI can support deep reconsideration rather than passive acceptance.
 
-
 A study of how agentic AI reaches learning outcomes through *psychological* rather than technological pathways supplies the missing measurement angle. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] surveyed 398 business students in India and modeled autonomy, competence and relatedness alongside interactivity, information sharing and perceived [[community-of-inquiry|social presence]]. Autonomy was the strongest [[motivation|motivational]] driver (β = 0.504) and interactivity the strongest social one (0.468), with motivation and social presence feeding [[student-engagement|engagement]] at nearly the same strength (0.533 and 0.493) before engagement predicted perceived learning performance (0.671). The design lesson is that the social route is not automatic: a collaborative-environment construct moved perceived social presence less than plain responsiveness and information sharing did, so treating an agent as a chat interface rather than a participant leaves most of that pathway unused.
 
 ## Implications for instructors and instructional designers
@@ -175,64 +174,3 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 **"Agentic systems in education are pedagogically grounded because education researchers build them."** The evidence says otherwise: a scoping review found only **29% of agentic AI studies (138 of 474)** explicitly grounded their systems in educational theory. The disciplinary divide between technically oriented and pedagogically oriented work is the field's condition, not an individual author's oversight, so a demo that works is the expected output and a demo that works *for learning* is the minority case.
 
 **"An agent that personalizes and deepens learning is a net gain over a chatbot."** It carries a specific trade with it: agentic systems threaten [[agency|agency]] and invite [[cognitive-offloading|offloading]] of the cognitive effort the learning depends on, and by doing more steps unsupervised they make that offloading harder to notice. The automation-versus-learning tension is the central analytic problem of the category rather than a caveat appended to its benefits.
-
-## Connected Concepts
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — agentic marking of 60 handwritten exams: r = .97 overall, kappa falling to .65 on evaluative items
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agents organized around a revisable capability program, with the learner as a member
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
-- [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
-- [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
-- [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
-- [[ai-agents-constructive-conflict-design-education-2026]] — Constructive conflict AI agents in design education
-- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
-- [[code-gen]] — Code generation agents
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agent benchmark
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptive learning agents
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparing AI Approaches for Automated Skill Extraction: From Embeddings to Agentic Systems for Engineering Education

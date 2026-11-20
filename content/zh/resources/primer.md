@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -45,12 +46,3 @@ Primer 是一个[[open-source|开源系统]]，用来通过向 AI 描述一节�
 ## 说明与注意事项
 
 作者称 Primer 是实验性原型，而不是经过审查的课堂产品。它尚未在课堂中作为学习干预接受评估，也没有人按 FERPA、COPPA、州学生隐私法或学区政策审查过它，因此将其用于学生的机构要自行承担这项审查。该软件采用 MIT 许可证且免费，但运行模拟需要模型访问权限，这要花钱。由于它与模型无关，可运行在本地或开放权重模型上，因此可以部署在隐私规则更严格的地方。项目页面链接了一份关于架构和提示词的白皮书。2026 年 11 月核查时，该仓库有 98 个星标和 16 个复刻。
-
-## 关联概念
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

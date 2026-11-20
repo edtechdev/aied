@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -125,51 +127,3 @@ Favero et al. (2025) خبردار کرتے ہیں کہ سوکریٹک AI بھی 
 - **"سوکریٹک سوال محض جوابات کی عدم موجودگی ہے۔"** کثیر اندراج والے تعارفی میکینکس کورس (**150 پہلے سال کے [[stem-education|STEM]] طلبہ**) میں تعینات ایک حسبِ ضرورت سوکریٹک AI چیٹ بوٹ نے **قابلِ پیمائش** فائدے پیدا کیے، اور ڈیزائن منظم سوال پوچھنا ہے — ایک محدود تعامل، خاموش ماڈل نہیں۔
 - **"اثر مشغولیت کے بعد کی چیز ہے۔"** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna and Maes, 2026)]] **50 شرکاء کا بے ترتیب EEG مطالعہ** ہے جو غیر محدود ChatGPT طرز بوٹ کا **سوکریٹک** بوٹ سے موازنہ کرتا ہے، اور میکانزم کو ناپتا ہے، نتائج سے اس کا اندازہ نہیں لگاتا۔
 - **"پابندیاں وہ مسئلہ ہیں جنہیں ہٹانا ہے۔"** پابندی کے لیے سب سے مضبوط سببی ثبوت دوسری سمت اشارہ کرتا ہے: K-12 کے ایک جائزے میں، عام مقصد والا چیٹ بوٹ استعمال کرنے والے ہائی اسکول طلبہ نے **بند کتاب کے فائنلز میں تقریباً 17% کم اسکور کیا** محدود آلہ استعمال کرنے والے ساتھیوں سے۔ غیر محدود آلہ ہی نقصان دہ حالت تھا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — سوال کی ترتیب اور اس کے متضاد تجرباتی ثبوت
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — چھتری: AI تعلیم میں پیداگوجیز اور تدریسی حکمت عملیاں
-- [[productive-failure]] — پیداوری ناکامی
-
-## منسلک مضامین
-- [[agent-type-feedback-style-self-directed-learning-2026]] — پوسٹ گریجویٹ ڈیزائن کے 2 x 2 مطالعے میں سوکریٹک بمقابلہ ہدایتی فیڈ بیک کے انداز
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — طبی انٹرویو کی تربیت کے لیے سکافولڈنگ پر مبنی کثیر ایجنٹ بڑے لینگویج ماڈل نظام کا جائزہ
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — منظم سوکریٹک اشارے بمقابلہ کھلے عام مقصد والے سوال و جواب
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — پیداوری ناکامی کے لیے LLMs کی پیداگوجیکل رہنمائی
-- [[wang-safety-gap-productive-struggle-2026]] — حفاظتی خلا: پیداوری جدوجہد کی بحالی
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF مسئلہ ڈیزائن کی معاونت کے لیے AI
-- [[lukesova-clue-before-correction-2026]] — تصحیح سے پہلے اشارہ: خودمختار زبان سیکھنے کے لیے ChatGPT
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: سیکھنے میں AI کے تعامل کی حکمت عملیوں کا موازنہ
-- [[lftutor-logical-fallacy-education-2026]] — سوکریٹک سوال کے ساتھ تنقیدی استدلال، چار مرحلوں والے مغالطہ ٹیوٹرنگ فریم ورک میں
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — گارڈ ریل یا رکاوٹیں؟ پروگرامنگ کے لیے AI تدریسی معاونین میں پیداگوجیکل انداز اور سیاق و سباق کی آگاہی کے اثرات
-- [[genai-socratic-tutor-biology-argumentation-2026]] — پیداوری مصنوعی ذہانت کے ذریعے ممکنہ حیاتیات اساتذہ کی PISA سے ہم آہنگ استدلالی مہارتوں کو بہتر بنانا
-- [[etq-ai-conversational-teacher-training-2026]] — تدریسی غلط فہمیوں کی تشخیص کے لیے مکالماتی AI، ثبوت پر مبنی مکالمے کے ساتھ (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — ایسا AI ایجنٹ ڈیزائن کرنا جو تدریس نہ کرے: تعارفی طبیعیات میں سوکریٹک کھوج کے ڈیزائن اصول

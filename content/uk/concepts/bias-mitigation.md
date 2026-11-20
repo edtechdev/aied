@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -113,52 +115,3 @@ ai_assist:
 - **«Упередженість — це проблема оцінювання та зворотного зв’язку.»** Упередженість входить у **класи завдань поза оцінюванням**: три LLM, розподіляючи **класи з програмної інженерії по 28 студентів на чотири команди, направляли чоловіків принаймні на 80% рідше** за еталонний розподіл. Формування команд несло упередженість порівнянної величини з оцінюванням.
 - **«Надання відповідної навички знімає упередженість.»** Надання навичок **зменшувало, але не знімало її**: **99,2% призначень на основі навичок збігалися з однією з двох команд-істин, проте стать усе одно вирішувала між однаково валідними варіантами (OR 2,53)**. Майже досконале зіставлення завдання співіснувало з гендерним ефектом, тож точність за головним критерієм не є свідченням справедливості.
 - **«Одного підходу до пом’якшення достатньо.»** Дослідження ілюструють **взаємодоповнювальні стратегії** — зокрема справедливе моделювання, — бо упередженість, що входить на етапі формування, не адресується виправленням, націленим на вихідний текст.
-
-## Пов’язані поняття
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — читацький збій, який ця сторінка не покриває: прийняття рекомендації без перевірки
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Пов’язані статті
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Нейро-символічне педагогічне узгодження (NSPA)
-- [[ai-scoring-language-bias-physics]] — Мовна упередженість в оцінюванні на основі ШІ
-- [[gender-bias-transfer-llm-writing]] — Перенесення гендерної упередженості в письмі з допомогою LLM
-- [[paternalistic-filter-llm-history-education]] — Патерналістичний фільтр і диференційовані відмови
-- [[fair-explainable-edu-recommendations]] — Справедливі та пояснювані освітні рекомендації
-- [[temporal-smoothness-debiased-kt]] — Знеупереджене трасування знань
-- [[ground-truth-reliability-aied]] — Модернізація істинної позначки для надійності ШІ
-- [[data-annotations-pedagogical-hints]] — Розмітки даних як педагогічні підказки
-- [[xai-education-framework]] — Пояснюваний ШІ в освіті
-- [[antiskillbench-persona-skills-privacy-2026]] — Приватність навичок персони та аудит упередженості
-- [[genai-minoritized-knowledges-disability]] — GenAI та маргіналізація маргіналізованих знань
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: стереотипно узгоджені упередженості в автоматизованому зворотному зв’язку на письмі
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Чи може ШІ давати відповідну підтримку для різноманітних профілів студентів? Великомасштабне оцінювання
-- [[bias-representation-text-to-image-education-2026]] — Упередженість і репрезентація в згенерованому ШІ «текст-у-зображення»: систематичний огляд (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Етичні цінності та норми для ШІ в освіті
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Від класифікації настрою до дієвого та відповідального зворотного зв’язку: огляд-скопінг і карта свідчень NLP в оцінюванні викладання студентами, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Генеративний ШІ може посилювати соціальні упередженості в освіті з програмної інженерії
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: оцінювання постхок-інтервенцій справедливості в системах раннього попередження під контролем постачальників
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — за дисбалансу класів три родини моделей не змогли виявити слабких студентів, тоді як збалансовані метрики виглядали здоровими

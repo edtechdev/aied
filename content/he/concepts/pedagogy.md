@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -67,7 +69,6 @@ ai_assist:
 - **השתקפות היא פדגוגיה שבינה מלאכותית גם מאפשרת וגם מאיימת עליה.** הנחיות מובנות, יומנים ופרשנויות [[eportfolio|תיק עבודות]] הם המנגנון שבו ניסיון הופך ללמידה, ועמוד ה[[reflection]] נושא את הראיות. ניסוי אחד שנרשם מראש מצא שהנחיות שהכפילו את זמן המשוב וקיצצו את נפח התרגול ב-40% בלי להעלות את הרווח לבעיה. ביקורת מקודדת של שותף רפלקציה מבוסס בינה מלאכותית מצאה שהוא הפר כל הנחיה התנהגותית בלי להשאיר עקבות גלויים. תכננו את ההנחיה סביב ניסיון שהושלם, ותדרשו את השביל ולא את הרשומה המלוטשת.
 - **מטאפורה ואנלוגיה כטכניקת הוראה.** [[metaphors-and-analogies]] מרכז את הראיות על איך אנלוגיות מסבירות בינה מלאכותית, היכן הן נשברות, ואיך תלמידים יכולים לבקר אותן כצורה של [[critical-thinking|חשיבה ביקורתית]].
 
-
 - **אסטרטגיות הוראה לאוריינות בינה מלאכותית.** ללמד תלמידים *להשתמש בבינה מלאכותית היטב* היא בעצמה משימה פדגוגית — מחקר [[ai-literacy|אוריינות בינה מלאכותית]] ו[[reducing-ai-misuse]] מפתח אסטרטגיות (חשבו תחילה/בינה מלאכותית שנייה/הגות, הצהרת בינה מלאכותית, אימון כיול) השייכות למטריה זו.
 - **הוראת אוריינות בינה מלאכותית מקדמת ידע ביתר המהירות.** [[meta-analysis-systematic-review|מטא-אנליזה]] תלת-רמית של 59 מחקרים (172 גדלי אפקט) מצאה שהתערבויות ממוקדות ידע (g ≈ .97) עלו בבירור על אלו שמכוונות לכישורים (≈ .67), לעמדות (≈ .68), או ל[[ethics|אתיקה]] (≈ .64), ולכן צימוד של הוראת מושגים עם תרגול מתמשך מכוון לתוצאות שנאבקות בהוראה ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **פדגוגיה במעשה המורה.** [[teacher-role]] ו[[teacher-ai-competency]] בוחנים כיצד מורים מאמצים בינה מלאכותית בתוך הרפרטואר הפדגוגי הקיים שלהם, ו[[llm-training-and-fine-tuning]] / [[pedagogical-agent]] חוקרים כלי בינה מלאכותית המאומנים לפעול לפי עקרונות פדגוגיים.
@@ -104,53 +105,3 @@ ai_assist:
 - **"הידע הטכני ב‑AI הוא מה שמורים צריכים ביותר."** בקרב **46 מורים ו‑2,832 תלמידים**, **הידע הפדגוגי של המורה ב‑AI** ניבא את תפיסות התלמידים את ה‑AI לטובת החברה. ידע פדגוגי גבר על ידע טכני, מה שהופך את הכיוון שבו הולך רוב ההשקעה בהכשרה.
 - **"התרומה העיקרית של ה‑AI בחינוך היא הוראתית."** סקירת PRISMA של **28 מחקרים** מצאה שה‑AI שיפר לרוב את **תכנון ההוראה ותכנון ההערכה** — התרומה הברורה ביותר היא **פיזור עבודה מינהלית**, לא הוראה. טיעון הבנוי על רווחים הוראתיים נשען על הענף החלש יותר של הראיות.
 - **"הוראת אוריינות AI מועברת אוטומטית להוראה טובה יותר."** מטא-אנליזה תלת-רמתית של **59 מחקרים (172 גדלי אפקט)** מצאה ש**התערבויות ממוקדות-ידע (g ≈ .97)** עלו בבירור על גישות אחרות בהזזת ידע. הזזת ידע היא התוצאה שנמדדה; האם היא הגיעה לפרקטיקה היא השאלה הבאה.
-
-## מושגים קשורים
-
-- [[pedagogical-partnerships]] — שותפויות פדגוגיות
-- [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — מטאפורה ואנלוגיה כטכניקת הוראה
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — שיטת המקרה ומקרים מנוגדים כטכניקות הוראה
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — כלי בינה מלאכותית המאומנים לפעול לפי עקרונות פדגוגיים
-
-## מאמרים קשורים
-
-- [[genai-didactic-pedagogical-mediator-2026]] — בינה מלאכותית גנרטיבית כיישור מתחבר דידקטי-פדגוגי: מודל טריאדי של מורה–לומד–בינה מלאכותית גנרטיבית (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — "פדגוגיה תחילה, טכנולוגיה שנייה" — TPAIK עולה על TAIK טכני לתוצאות תלמידים (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — שותפויות פדגוגיות עם בינה מלאכותית גנרטיבית
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — כיצד הדרכת הוראה מעצבת את אפקטי הלמידה של בינה מלאכותית גנרטיבית
-- [[generative-ai-guardrails-harm-learning]] — חונכות מוגנת (רמז לא תשובה) מבטלת את קנס הבחינה
-- [[agentic-ai-pedagogical-best-practice-2026]] — המתח בין אוטומציה ללמידה בבינה מלאכותית יוזמת-פעולה
-- [[jeon-isd-agent-bench-2026]] — עגינת סוכנים בתיאוריית תכן-הוראה
-- [[ai-learning-tools-engineering-education-needs]] — כלי למידה מבוססי בינה מלאכותית בהנדסה
-- [[fowlin-operationalizing-learning-principles-ai]] — הפעלת עקרונות למידה באמצעות בינה מלאכותית
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — גישות הוראה בהתערבויות אוריינות בינה מלאכותית
-- [[cognitive-distribution-student-genai-interaction-2026]] — אינטראקציית סטודנט–AI כהתפלגות קוגניטיבית משתנה ולא כתלות קבועה (53.3% הרחבה)

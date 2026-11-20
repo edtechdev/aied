@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -106,40 +108,3 @@ ai_assist:
 **محققین کے لیے**
 
 - لائسنس سے پہلے اور پریکٹس کرنے والی نرسوں کے نمونے الگ الگ بتائیں، اور اگر قابلیت کا دعویٰ طبی طور پر کوئی معنی رکھنا ہے تو زیرِ نگرانی پریکٹس تک منتقلی کا مطالعہ کریں۔
-
-## منسلک تصورات
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## منسلک مضامین
-- [[hardie-genai-nursing-scoping-review-2026]] — نرسنگ تعلیم میں اطلاقات، رویے اور اخلاقیات: 103 مطالعات کا اسکوپنگ جائزہ (Hardie et al. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — نرسنگ تعلیم میں جنریٹو AI کی معاونت والے سمولیشن اور مہارت کی تربیت کے سیکھنے والوں کے تجربات: ایک میٹا-ترکیب
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — نرسنگ تعلیم میں AI کا منظم جائزہ (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — نرسنگ تعلیم میں AI سے چلنے والا سمولیشن: مخلوط طریقوں کا منظم جائزہ
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM، ساختی خلا، اور پیشہ ورانہ شناخت کی تشکیلِ نو
-- [[akbaba-nursing-ai-experiences-tam-2026]] — نرسنگ کے طلبہ اور فیکلٹی کے AI تجربات، TAM کے ذریعے
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — صحت کی سائنسز کے طلبہ میں AI کے ادراک اور کیریئر کی بے چینی
-- [[genai-counter-learner-groupthink-2025]] — بین الشعبہ PBL میں گروہی سوچ کا توڑ کرنے کے لیے جنریٹو AI
-- [[dabkowski-nursing-academics-genai-2026]] — نرسنگ اکیڈمکس GenAI پر: پالیسی کی ابہام، پیشہ ورانہ اقدار، اور نگرانی والی جانچ کی طرف بڑھاؤ
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — نرسنگ کی جانچ میں دور سے نگرانی: نگہداشت، مساوات، اور ادراک پر کھڑا باز رکھنے کا کیس
-- [[xiang-ai-nursing-education-kas-framework-2026]] — اسکوپنگ جائزہ جو AI قابلیت کے فریم ورکوں کو نرسنگ کے نصاب کے لیے 12 KAS ذیلی جہتوں پر نقشہ بند کرتا ہے
-- [[rony-nursing-educators-ai-tpack-2025]] — بنگلہ دیش میں نرسنگ معلمین، AI کی تیاری، رکاوٹیں اور ڈیٹا کی حکمرانی، TPACK کے ذریعے پڑھی گئی
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18 جائزوں کا چھتری جائزہ: اخلاقیات، نصاب کی تبدیلی، اور ادغام کی رکاوٹیں
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — نرسنگ کے طلبہ AI استعمال کے کھلے راز پر: ذاتی نوعیت کی سیکھائی، وقت، اور ڈیجیٹل تقسیم
-- [[agency-gap-ai-writing]] — طبی اور نرسنگ طلبہ کے ساتھ RCT: ردِعمل دینے والے بمقابلہ فعال ایجنٹ کا ڈیزائن اور ایجنسی کا خلا
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 نرسنگ طلبہ: GenAI تعامل، تعلیمی تعامل، اور صرف-شناخت شدہ ثالثی ماڈل
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Rony et al. کا شائع شدہ جواب: ادارتی ماحولیاتی نظام، تیاری، اور AI کی نگرانی
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — فیکلٹی اور طلبہ نرسنگ تعلیم کے تجزیات کا ڈیش بورڈ مشترکہ طور پر ڈیزائن کرتے ہیں
-- [[federated-learning-at-risk-student-prediction-2026]] — صحت کے پیشوں کے پروگراموں میں رازداری بچانے والی خطرے کی پیش گوئی، اور درآمد شدہ حد نرسنگ میں کیوں غلط نشانہ لگاتی ہے

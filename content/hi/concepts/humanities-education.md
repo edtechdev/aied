@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -73,30 +75,3 @@ SSH शिक्षा ठीक उन्हीं क्षमताओं क
 **"समालोचनात्मक विश्लेषण वही है जिसे एआई सबसे अधिक खतरे में डालता है, इसलिए उसे सीमित करना चाहिए।"** समालोचनात्मक विश्लेषण वही है जिसे जानबूझकर उपयोग सबसे अधिक विकसित करता है, जब कार्य उसे कमज़ोर करने के बजाय गहरा करने के लिए डिज़ाइन किया जाए। [[human-in-the-loop-ai|मानव-चक्र-में]] मॉडल विषय के योगदान को उपकरण के आउटपुट में नहीं, शिक्षार्थी के निर्णय में रखता है।
 
 **"सामान्य-प्रयोजन मॉडल पाठ्य-छात्रवृत्ति के लिए उतना ही उपयोगी है जितना सारांशन के लिए।"** व्याख्या के लिए पाठक की स्थिति आवश्यक है, और जो सहायता-परत पढ़ाई को प्रदान कर देती है उसने वह व्याख्यात्मक कार्य कर दिया जिसे सिखाना विषय का उद्देश्य है।
-
-## संबंधित अवधारणाएँ
-
-- [[civic-and-political-education]]
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-## संबंधित लेख
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH शिक्षा के लिए व्याख्यात्मक संज्ञान का एक विकासात्मक-समालोचनात्मक मॉडल
-- [[paternalistic-filter-llm-history-education]] — इतिहास शिक्षा में LLM का उपयोग और ऐतिहासिक तर्क
-- [[genai-impact-chinese-students-hss]] — मानविकी और सामाजिक विज्ञान छात्रों पर जनरेटिव एआई का प्रभाव
-- [[acceptance-ai-english-tools-2026]] — भाषा और मानविकी शिक्षार्थियों में एआई की स्वीकृति
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587 ग्रुप ऑफ एट कला और मानविकी इकाइयों का कम्प्यूटेशनल ऑडिट: 2026 के मूल्यांकन वस्तुओं में से 58.6% अत्यधिक एआई-उद्भासित, निबंधों और रिपोर्टों में केंद्रित
-- [[genai-values-education-affordances-risks-2026]] — मूल्य शिक्षा में जनरेटिव एआई: सुविधाएँ, नैतिक जोखिम और शिक्षण के लिए निहितार्थ (Chen 2026)
-
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — कार्य-प्रारूप और AI-उपयोग निर्देश यह तय करते हैं कि कलाकृति किस बात का साक्ष्य दे सकती है (Liu और Liu 2026)
-- [[capodieci-humanities-hil-2026]] — मानविकी अधिगम में एजेंटिक AI, और पाठ के लेखकत्व से व्याख्या के श्रेय तक का बदलाव (Capodieci एट अल. 2026)

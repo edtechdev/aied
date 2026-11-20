@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -82,26 +84,3 @@ De kwaliteit van de scaffolding doet er los van toegang toe. Een experimentele v
 - **"Tevredenheid en waargenomen voordeel betekenen dat een AI-tool voor datawetenschap werkt."** Studenten gebruikten LLM's intensief voor debuggen en conceptvragen en **rapporteerden een hoge tevredenheid, terwijl hun waargenomen diepteleren over het semester afnam**. De tevredenheid bleef en de zelf ingeschatte leercurve daalde, dus geen van beide cijfers is op zichzelf de uitkomst.
 - **"Een onbeperkt model is even goed als een begeleide tutor."** De winst kwam van scaffoldingstraining — expliciete instructie in stapsgewijze hints en verificatie — die gewone toegang tot hetzelfde model versloeg op zelfstandige prestaties en op kalibratie van zelfbeoordeling. De begeleiding, en de training in het gebruik ervan, droegen het effect.
 - **"Afdichten tegen het geven van antwoorden is genoeg."** Een speciaal gebouwde tutor rond een gehoste API, met een systeemprompt om te **begeleiden in plaats van te antwoorden**, werd ingezet in een semesterlang R-vak voor bachelorstudenten psychologie, waar **76% tot 84%** van de studenten hem in tentamenrelevante weken gebruikte. Dat is adoptie, geen bewijs dat het afdichten leren opleverde: afdichten op promptniveau is één hendel naast verschillende andere en levert op zichzelf geen leren op.
-
-## Verbonden concepten
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Verbonden artikelen
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentieke tool die inspecteerbare synthetische datasets genereert voor gepersonaliseerde statistiekoefening
-- [[ai-tutor-statistical-programming-adoption-2026]] — Speciaal gebouwde R-tutor; adoptie volgde de tentamenkalender
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Moeilijkheidslabels van LLM's volgen Bloom-niveaus, niet de prestaties van studenten
-- [[tactile-statistical-graphs-accessibility]] — Open-source pijplijn die tactiele statistische grafieken genereert met docentbeoordeling
-- [[guided-llm-scaffolding-independent-learning]] — Begeleide scaffolding versloeg onbeperkte toegang op zelfstandige prestaties
-- [[lund-socially-accountable-data-science-xai-2026]] — Maatschappelijke verantwoording inbedden in het technische datawetenschapscurriculum

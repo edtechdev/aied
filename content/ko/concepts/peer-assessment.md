@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,7 +68,6 @@ ai_assist:
 
 같은 2024년 구현에는 학생들이 피드백을 어떻게 평정했는지가 아니라 도구를 어떻게 서술했는지에 대해 성찰을 읽는 두 번째 글이 있습니다. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 등(2026)]]은 13개 분반과 10개 강좌의 수정 성찰을 코딩하여, 프롬프트가 제안한 의인화 역할을 채택한 학생이 약 절반뿐임을 발견했습니다. 튜터(28.6%)와 협력자(23.1%)입니다. 나머지는 도구나 자원(9.9%), 친구나 동료(7.7%), 로봇이나 컴퓨터(7.7%), 또는 자신들만의 도식을 택했습니다. 저자들은 그 배치 자체를 요점으로 읽습니다. 학생들은 챗봇을, 학생과 동료와 교수자가 중심인 글쓰기 생태계의 주변에 두었습니다.
 
-
 그 패턴은 전문 글쓰기로 일반화됩니다. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]]는 상급 경영 글쓰기 강좌에 PAIRR을 적용했습니다. 다섯 개의 주요 과제가 각각 초안, 독자 분석, 2–3명의 동료 검토, 수정을 요구했습니다(등록 학생 46명 가운데 34명이 참여; 69%가 다중 언어 사용자). 학생들은 AI 피드백을 높이 평가했으나 때로 지나치게 일반적이라고 느꼈고, 동료의 맥락적 지식을 높이 평가했습니다. "제 동료들이 고용주의 관점에서 보았어요… ChatGPT는 그만큼 하지 못했어요." 더 큰 PAIRR 연구의 코딩된 성찰 가운데 4분의 1이 AI 피드백에 대한 회의를 표현하거나 부정확성을 지적했으며, 저자들은 이를 AI 리터러시의 발달로 읽습니다. 이 연구는 기술적이며 특정 강좌에 국한됩니다.
 
 ## 동료 피드백과 집단 평가 안에서의 스캐폴딩으로서의 생성형 AI
@@ -102,49 +103,3 @@ ai_assist:
 - **"동료 검토는 교수자 피드백의 값싼 대체물입니다."** 기제는 [[learning-by-teaching|가르치며 배우기]]이며, 기계들 사이에서도 나타납니다. **240만 개가 넘는 AI 에이전트** 사이의 동료 학습 유사 담화는 대부분 탐구가 아니라 **주장**이었습니다. 비평을 생산하는 일은 그것을 받는 일과 다른 행위입니다.
 
 - **집단 성적 뒤의 기록으로서의 성찰적 동료 및 자기 양식.** [[issa-teamwork-framework-academic-integrity-2024|Issa와 Hall(2024)]]은 대학원 경영 프로젝트 관리 과목에서 팀원마다 한 장의 동료 성찰 양식과 학생마다 한 장의 자기 성찰 양식을 사용했고, 각 팀과의 30분 면담에서 구성원에게 자신의 기여가 독창적인지 물었습니다. 양식은 피드백 교환으로 채점되지 않았습니다. 그것들은 40% 집단 평가 안에서 교수자가 개인 점수를 변호할 수 있게 하는 개인별 증거였습니다. 이 틀의 점수 상승(40점 만점에 27점에서 31점)은 새 강사와 교란되어 있고 무결성 주장은 정량화되지 않았으므로, 전이 가능한 부분은 효과 크기가 아니라 기록 관리 구조입니다.
-
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — PAIRR과 결합된 동료+AI 피드백: 순서들과 그 비교 증거
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## 연결된 문서
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — 통합된 AI+동료 피드백이 세 가지 관여 차원과 네 가지 IELTS 쓰기 차원을 모두 높였다
-- [[usher-faraon-who-grades-best-2026]] — 프로젝트 품질 수준에 따른 ChatGPT, 동료, 교수자 채점 비교 (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — 성찰을 곁들인 동료-AI 검토(PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI 동료 피드백 체계
-- [[ai-internal-feedback-evaluative-judgments]] — 학부생의 평가적 판단 발달 풀어내기
-- [[learner-centered-feedback-ai]] — AI와 함께하는 학습자 중심 피드백 높이기
-- [[genai-linguistic-diversity-academic-writing]] — 학문적 글쓰기에서의 생성형 AI와 언어적 다양성
-- [[gift-ai-pairr-business-writing-2025]] — 경영 글쓰기 강좌에서의 PAIRR: 동료 검토, 챗봇 피드백, 성찰 (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — 자기조절적 피드백과 피드백 리터러시의 스캐폴딩을 위한 생성형 AI 대 인간 동료 (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — 말하기에 대한 EFL 동료 피드백에서의 Trainer와 Synthesizer로서의 생성형 AI (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — 동료 단독, 직접, 성찰적, 혼합 생성형 AI 피드백을 비교한 다기관 실험 (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 협력적 논증에서의 프롬프트 스캐폴딩된 생성형 AI 동료 피드백 (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — 생성형 AI가 매개하는 집단 평가에서의 주체성: 협력, 억제, 비실행 (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — CS1에서 생성형 AI에 대한 위해 감소 수단으로서의 구두 코드 검토 면접 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — 동료 피드백의 확장 가능한 대안으로서의 자동화된 멀티모달 발표 코칭 (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 온라인 포럼에서 동료 노출을 넓히는 AI 생성 토론 요약 (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 학생의 생성형 AI 공개에서의 동료 영향과 관계적 신뢰 (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — 비판적 사고, 팀워크, 문제 해결을 위한 LLM에 관한 체계적 고찰(Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — 240만 AI 에이전트 사이의 동료 학습 유사 담론 (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — AIED 메타분석 14개와 1차 연구 59개의 감사 (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 쓰기에서의 교수자 피드백 대 AI 지원 동료 피드백: 두 과제에 걸친 양, 초점,
-- [[issa-teamwork-framework-academic-integrity-2024]] — 집단 평가에서의 팀워크와 학문적 진실성: 동료·자기 성찰 양식이 개인 점수의 증거가 된다 (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR에서 학생들이 챗봇을 어디에 두는가: 51.7%만이 튜터·협력자 역할을 채택했다 (Stillman 등 2026) 향상 궤적 (Tang, Li & Luo 2026)

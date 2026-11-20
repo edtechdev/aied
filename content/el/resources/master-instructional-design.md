@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -40,6 +41,3 @@ ai_assist:
 ## Όροι και επιφυλάξεις
 
 Η άδεια είναι Creative Commons BY-NC-ND 4.0, και οι δηλωμένοι όροι του συγγραφέα μετρούν για τους περισσότερους θεσμικούς αναγνώστες: η προσωπική, μη εμπορική μελέτη και επαγγελματική ανάπτυξη είναι ευπρόσδεκτες, ενώ η εμπορική χρήση, η αναδιανομή και η λευκή επισήμανση απαιτούν εμπορική άδεια. Το αποθετήριο αναφέρει 314 από 320 βαθμούς σε δέκα αυτοσχεδιασμένες προκλήσεις, που είναι η δική του αξιολόγηση του συγγραφέα και όχι ανεξάρτητη, και ο ίδιος συγγραφέας πουλά συμβουλευτικές υπηρεσίες και εργαστήρια πάνω στο πλαίσιο. Το έργο περιγράφεται ως προσωπική προσπάθεια άσχετη με τους εργοδότες του, και το τελευταίο commit του χρονολογείται από τον Απρίλιο του 2026.
-
-## Συνδεδεμένες έννοιες
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -181,58 +183,3 @@ SI w edukacji łączy się z każdą koncepcją w bazie wiedzy — to dziedzina,
 **„Ponieważ SI jest ogólnego przeznaczenia, ustalenie z jednego miejsca obowiązuje wszędzie".** Ogólność technologii nie tworzy ogólności dowodów. Nurt dyscyplin, poziomów i kontekstów istnieje, ponieważ to samo narzędzie zachowuje się w nich różnie, a niezmienione ustalenie przeniesione przez granicę jest ekstrapolacją.
 
 **„Dojrzałość dziedziny można odczytać z liczby publikacji".** Wolumen i dojrzałość się rozchodzą; nurt metod badawczych dokumentuje powtarzające się słabości projektowe, których wolumen nie naprawia, a ramy mnożą się szybciej, niż są testowane.
-
-## Połączone koncepcje
-
-- [[primary-education]] — SI w kształceniu podstawowym
-- [[secondary-education]] — SI w szkole średniej i gimnazjum
-- [[undergraduate-education]] — SI na studiach licencjackich
-- [[graduate-education]] — SI na studiach magisterskich i doktoranckich
-- [[pedagogical-patterns]] — Wypróbowane sekwencje, które operacjonalizują pedagogiki dziedziny
-- [[ai-literacy]] — parasol: rozumienie, używanie i ocena SI
-- [[automation-bias]] — porażka po stronie czytelnika: przyjęcie zautomatyzowanego osądu bez sprawdzenia go
-- [[human-ai-collaboration]] — parasol: jak ludzie i SI pracują razem
-- [[pedagogy]] — parasol: metody i strategie nauczania
-- [[case-based-learning]] — Metoda przypadków, dyskusja przypadków i przypadki kontrastowe
-- [[metaphors-and-analogies]] — Jak metafora kształtuje rozumienie SI i jak analogia wspiera nauczanie
-- [[learning-theories]] — parasol: jak dzieje się uczenie się
-- [[ai-technologies]] — parasol: modele, techniki i systemy
-- [[discipline-specific-aied]] — parasol: SI w obszarach przedmiotowych i na poziomach
-- [[assessment]] — parasol: jak SI ocenia uczniów i przekształca wiarygodność
-- [[feedback]] — parasol: jak informacje zwrotne są generowane, przekazywane i używane
-- [[stakeholders]] — parasol: kim są aktorzy
-- [[learners]] — parasol: koncepcje po stronie ucznia (doświadczenie, tożsamość, sprawczość, interakcja, modele ucznia)
-- [[ai-ed-evaluation]] — parasol: jak wiemy, czy SI działa
-- [[research-methods-aied]] — parasol: metody badań skuteczności
-- [[ai-assisted-educational-research]] — Badania edukacyjne wspomagane przez SI
-- [[governance]] — parasol: warstwa instytucjonalna i regulacyjna
-- [[educational-policy-ai]] — parasol: polityka, wskazówki i implementacja
-- [[equity-in-ai-education]] — parasol: sprawiedliwość, dostęp i włączenie
-- [[learning-sciences]] — empiryczne pole za AIED
-- [[ethics]] — etyczne wymiary SI w edukacji
-- [[misconceptions]] — modele mentalne, które ludzie przynoszą do SI
-- [[interpreting-and-applying-aied-research]] — czytanie badania i przenoszenie ustalenia do praktyki
-- [[limitations-in-aied-research]] — przekształcające ograniczenia bazy dowodów
-- [[meta-analysis-systematic-review]] — co ustalają przeglądy i metaanalizy
-- [[history-of-aied]] — jak ewoluowała dziedzina
-- [[philosophy-of-ai-in-education]] — fundamenty filozoficzne
-- [[theories-and-frameworks]] — mapa węzłów teorii i ram
-- [[theory-development-aied]] — budowanie i rewizja teorii
-- [[sensor-and-gaze-analytics]] — parasol: postrzeganie uczniów przez okulografię, EEG i sygnały noszone
-- [[ai-avatars-and-synthetic-instructors]] — parasol: syntetyczni ludzie nauczający, korepetyujący, symulujący i oceniający
-- [[civic-and-political-education]] — obszar przedmiotowy: alfabetyzacja dla życia publicznego, z cienką bazą dowodową
-
-## Połączone artykuły
-
-Przeglądy obejmujące całą dziedzinę SI w edukacji — badania, które podsumowują całą dziedzinę lub cały poziom edukacyjny, a nie jeden temat:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Ewolucja badań nad SI i edukacją w ciągu czterech dekad (ramy AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kontrola kontra sprawczość: historia SI w edukacji
-- [[genai-higher-education-systematic-review-2026]] — Generatywna SI w szkolnictwie wyższym: przegląd systematyczny 125 badań
-- [[stanford-evidence-base-ai-k12-2026]] — Baza dowodów na temat SI w K-12: 52 mocne badania przyczynowe wybrane z 1686 prac repozytorium (aktualizacja listopad 2026)
-- [[genai-educational-outcomes-meta-analysis]] — Generatywna SI i wyniki edukacyjne: kompleksowa metaanaliza
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 badania średniego szczebla; przyrosty tam, gdzie uczniowie oceniają wyniki, a nie tam, gdzie narzędzie wykonuje pracę
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 studentów magisterskich; gotowość sięgała poczucia własnej skuteczności przez wsparcie promotora
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Przegląd 61 źródeł na temat etyki, informacji zwrotnej i zarządzania w nadzorze doktoranckim
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Jednogrupowe seminarium magisterskie; przyrosty samokierowanego uczenia się bez testu bez pomocy
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studentów; luka licencjat–magisterium w etyce i samoregulacji

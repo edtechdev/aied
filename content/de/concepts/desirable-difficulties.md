@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -108,54 +110,3 @@ TutorMoments operationalisiert Prinzipien wünschenswerter Schwierigkeiten als E
 **„Kognitive Reibung und produktives Ringen sind dieselbe Idee.“** Sie stammen aus unterschiedlicher Literatur und machen unterschiedliche Vorhersagen. Produktives Ringen betrifft anstrengendes Sinnverstehen, das Verständnis aufbaut; kognitive Reibung betrifft die Diskrepanz zwischen dem, was eine Aufgabe verlangt, und dem, was die aktuellen Ressourcen der lernenden Person tragen. Sie als Synonyme zu behandeln verliert die diagnostische Frage — ringt diese lernende Person auf eine Weise, die aufbaut, oder ist sie blockiert auf eine Weise, die nur kostet?
 
 **„Wenn das Entfernen von Ringen die unmittelbare Leistung erhöht, hat die Intervention funktioniert.“** Das ist der Kompromiss, um den es auf dieser ganzen Seite geht: Leistung, die in Anwesenheit der Unterstützung gemessen wird, ist systematisch aufgebläht gegenüber späterer Leistung ohne Unterstützung. Jede Evaluation einer KI, die Anstrengung reduziert, muss verzögert und ohne das Werkzeug messen, sonst berichtet sie das Entfernen von Übung als Erzeugung von Lernen.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Warum die anstrengende Ordnung die flüssige übertrifft
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-
-- [[automation-bias]] — Der Fehlermodus, den produktive Reibung verhindern soll
-
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — die operativen Techniken, die dieses Prinzip instanziieren: Testing-Effekt, Spacing, Interleaving
-
-## Verbundene Artikel
-
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT als kognitive Krücke: ein randomisierter Verzögerungstest zum Entfernen wünschenswerter Schwierigkeit (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Gegen reibungsloses KI: das invertierte-U-Argument zur Bewahrung nützlicher Reibung
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — In GenAI-Werkzeuge eingebaute produktive Reibung unterstützt das Lernen
-- [[zhang-tutormoments-2026]] — Wenn Hilfe nicht hilft: Evaluierung von KI-Tutoren für produktives Ringen
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung Lernens auf Basis produktiven Scheiterns
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
-- [[wang-safety-gap-productive-struggle-2026]] — Die Safety Gap: produktives Ringen wiederherstellen
-- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Entwurfs von PF-Aufgaben
-- [[making-ai-annoying-constrained-writing-2026]] — KI absichtlich nervig machen: Einschränkung im KI-unterstützten Schreiben (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen zur fähigkeitserhaltenden Abhängigkeit in reflektiertem KI-Engagement
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Selbsterklärungs-Prompts zu bereits ausgearbeitetem KI-Feedback: verdoppelte Zeit, kein Lerngewinn (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe generativer KI: Hausaufgabenwerte steigen, während Prüfungswerte fallen, mit den vollen Kosten nach zwei Jahren (Strömberg, Lei & Wu 2026)
-

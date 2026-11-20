@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -50,16 +51,3 @@ ai_assist:
 ## 注記と注意点
 
 これは実践者のためのガイドとツールチェーンであり、査読済み研究ではありません。学習成果の証拠ではなく、ワークフローとそれ自体の教育的な根拠（「インテリジェント教科書は、知識を求める旅路において学生を概念を通して導く」）を示すものです。MicroSim の研究論文が実証的な裏付けに最も近いものですが、arXiv に自己公開された論文です。両プロジェクトはオープンソースで（intelligent-textbooks リポジトリは MIT ライセンスと 38 スターを、MicroSims は Creative Commons ライセンスと 13 スターを報告しています）活発に保守されています。概念グラフと用語集優先の構成は発見可能性のために本当に有用ですが、このガイドはかなり技術的なオーサリングワークフロー — MkDocs、Git、生成 AI ツール — を前提としており、一部の教員にとっては障壁になりえます。取り込み時点では MicroSims のレジストリはまだロードマップ上にしかなく、既存の特定のシミュレーションを探すにはサイト自身の検索とナビゲーションに頼る必要があります。
-
-## 関連する概念
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

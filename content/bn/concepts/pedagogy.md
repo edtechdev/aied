@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -98,47 +100,3 @@ ai_assist:
 - **"কারিগরি এআই জ্ঞানই শিক্ষকদের সবচেয়ে বেশি দরকার।"** **46 জন শিক্ষক ও 2,832 জন শিক্ষার্থী** জুড়ে **শিক্ষকের শিক্ষাবিজ্ঞানিক এআই জ্ঞান** সামাজিক-কল্যাণে এআই নিয়ে শিক্ষার্থীদের ধারণা পূর্বানুমান করে। শিক্ষাবিজ্ঞানিক জ্ঞান কারিগরি জ্ঞানকে ছাড়িয়ে গেছে, যা উল্টে দেয় প্রশিক্ষণ-বিনিয়োগের বেশিরভাগ অর্থ কোথায় যায়।
 - **"শিক্ষায় এআই-এর প্রধান অবদান শিক্ষাদানগত।"** **28টি গবেষণার PRISMA পর্যালোচনা** দেখে এআই সবচেয়ে বেশি **শিক্ষাদান-পরিকল্পনা ও মূল্যায়ন-নকশা** উন্নত করেছে — সবচেয়ে স্পষ্ট অবদান **প্রশাসনিক কাজ অফলোড করা**, শিক্ষাদান নয়। শিক্ষাদানগত অর্জনের চারপাশে গড়া মামলা প্রমাণের দুর্বল শাখার উপর দাঁড়ায়।
 - **"এআই-সাক্ষরতা শিক্ষাদান স্বয়ংক্রিয়ভাবে ভালো শিক্ষাদানে স্থানান্তরিত হয়।"** **59টি গবেষণার (172টি প্রভাব-আকার) তিন-স্তরের মেটা-বিশ্লেষণ** দেখে **জ্ঞান-কেন্দ্রিক হস্তক্ষেপ (g ≈ .97)** জ্ঞান সরানোর ক্ষেত্রে অন্য পদ্ধতিগুলোকে স্পষ্টভাবে ছাড়িয়ে গেছে। জ্ঞান সরানোই মাপা ফলাফল; তা অনুশীলনে পৌঁছেছে কি না সেটি পরের প্রশ্ন।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-partnerships]] — শিক্ষাবিজ্ঞানিক অংশীদারত্ব
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — শিক্ষাদান-কৌশল হিসেবে রূপক ও উপমা
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — শিক্ষাদান-কৌশল হিসেবে কেস-পদ্ধতি ও বৈপরীত্য-কেস
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — শিক্ষাবিজ্ঞানিক নীতি অনুসরণ করতে প্রশিক্ষিত এআই সরঞ্জাম
-
-## সংযুক্ত নিবন্ধ
-- [[genai-didactic-pedagogical-mediator-2026]] — শিক্ষাদান-শিক্ষাবিজ্ঞানিক মধ্যস্থ হিসেবে GenAI: প্রশিক্ষক–শিক্ষার্থী–GenAI ত্রিভুজ মডেল (Moganadas প্রমুখ 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'আগে শিক্ষাবিজ্ঞান, পরে প্রযুক্তি' — শিক্ষার্থী-ফলাফলে TPAIK কারিগরি TAIK-কে ছাড়িয়ে যায় (Shen প্রমুখ 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — জেনারেটিভ এআই-এর সঙ্গে শিক্ষাবিজ্ঞানিক অংশীদারত্ব
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — শিক্ষাদান-নির্দেশনা কীভাবে GenAI শিখন-প্রভাব গড়ে
-- [[generative-ai-guardrails-harm-learning]] — গার্ডরেলযুক্ত (সংকেত-উত্তর-নয়) টিউটরিং পরীক্ষার শাস্তি দূর করে
-- [[agentic-ai-pedagogical-best-practice-2026]] — এজেন্টিক এআই-এ স্বয়ংক্রিয়করণ-বনাম-শিখনের টানাপোড়েন
-- [[jeon-isd-agent-bench-2026]] — এজেন্টকে শিক্ষাদান-নকশা তত্ত্বে ভিত্তি দেওয়া
-- [[ai-learning-tools-engineering-education-needs]] — ইঞ্জিনিয়ারিং শিক্ষায় এআই শিখন-সরঞ্জাম
-- [[fowlin-operationalizing-learning-principles-ai]] — এআই দিয়ে শিখন-নীতিকে কার্যকর করা
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — এআই ও শিক্ষাদান-নকশা অনুশীলন: একটি নিয়মতান্ত্রিক পর্যালোচনা (Kibar ও Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — এআই সাক্ষরতা হস্তক্ষেপে শিক্ষাদানগত দৃষ্টিভঙ্গি
-- [[cognitive-distribution-student-genai-interaction-2026]] — শিক্ষার্থী-এআই মিথস্ক্রিয়া স্থির নির্ভরতা নয়, বদলানো জ্ঞানবিতরণ (53.3% বিস্তার)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -82,26 +84,3 @@ En açık olumlu sonuçlar belirli bir ders ve belirli bir dil için inşa edilm
 - **“Memnuniyet ve algılanan fayda, bir veri bilimi YZ aracının işe yaradığını gösterir.”** Öğrenciler hata ayıklama ve kavram soruları için LLM’leri yoğun biçimde kullanmış ve **yüksek memnuniyet bildirmiş, buna karşılık algıladıkları derin öğrenme faydası dönem boyunca azalmıştır**. Memnuniyet korunurken öz değerlendirilen öğrenme yörüngesi düşmüştür; dolayısıyla iki rakamdan hiçbiri tek başına sonucu vermez.
 - **“Kısıtsız bir model, yönlendirilmiş bir eğitmen kadar iyidir.”** Kazanım iskeleleme eğitiminden — adım adım ipuçları ve doğrulama konusunda açık öğretimden — gelmiştir; bu eğitim, aynı modele düz erişimi bağımsız performansta ve öz değerlendirme kalibrasyonunda geride bırakmıştır. Etkiyi yönlendirme ve onu nasıl kullanacağına dair eğitim taşımıştır.
 - **“Yanıt vermeyi engellemek yeterlidir.”** Barındırılan bir API üzerinde ders-özel bir eğitmen, yanıtları sağlamak yerine dürtmek üzere yönlendirilmiş, dönem boyu süren bir R programlama dersinin sınav açısından önemli haftalarında psikoloji lisans öğrencilerinin **%76’sı ile %84’ü** tarafından benimsenmiştir. Bu bir benimsemedir, korumanın öğrenme ürettiğinin kanıtı değildir: istem düzeyinde koruma birkaç kol arasından yalnızca biridir ve tek başına öğrenme üretmez.
-
-## Bağlı kavramlar
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Bağlı makaleler
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Kişiselleştirilmiş istatistik alıştırmaları için incelenebilir sentetik veri kümeleri üreten ajanik araç
-- [[ai-tutor-statistical-programming-adoption-2026]] — Amaca özel R eğitmeni; benimseme sınav takvimini izledi
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM güçlük etiketleri öğrenci performansını değil Bloom düzeylerini izliyor
-- [[tactile-statistical-graphs-accessibility]] — Öğretmen incelemesiyle dokunsal istatistiksel grafikler üreten açık kaynak işlem hattı
-- [[guided-llm-scaffolding-independent-learning]] — Yönlendirilmiş iskeleleme bağımsız performansta kısıtsız erişimi yendi
-- [[lund-socially-accountable-data-science-xai-2026]] — Sosyal hesap verebilirliği teknik veri bilimi müfredatına yerleştirmek

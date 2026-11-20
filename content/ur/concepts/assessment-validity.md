@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -139,77 +141,3 @@ AI اعتبار کو علمی سطح پر چیلنج کرتا ہے: [[end-of-ass
 - **"LLM کی جانچ کا تعصب اُسے ترک کرنے کی وجہ ہے۔"** ایک **بڑے پیمانے کی قومی تحریری جانچ** میں LLM اسکورر نے **منظم قدامت پسند (کم درجہ بندی) تعصب** ظاہر کیا — بطور حتمی نمبر مسئلہ، اور بطور **چھانٹی کے اشارے ممکنہ طور پر مفید**۔ معلوم سمت والا تعصب غیر متوقع تعصب سے مختلف آلہ ہے۔
 - **"AI کے بعد درجات میں افراط محض قیاس ہے۔"** **319 کورسز میں 500,000+ درجات (2018-2025) کے فرق در فرق مطالعے** میں، زیادہ AI سے متاثر ٹاسک والے کورسز میں **A درجات کا حصہ بڑھ گیا**۔ اثر وہاں مرتکز تھا جہاں ٹاسک متاثر تھے۔
 - **"اساتذہ نے AI کو بڑے پیمانے پر اپنا لیا ہے۔"** **62.4% (53)** نے جنریٹو AI کا استعمال بالکل نہ کرنے کا فیصلہ کیا، اور اپنانے والوں کا استعمال **زیادہ تر پروف ریڈنگ (43.8%) اور وضاحت کی جانچ (34.4%) تک محدود** تھا۔ اپنانے کا نمونہ محتاط اور تنگ ہے، جو بدل دیتا ہے کہ اعتبار کی دلیل کو کیا کچھ سمیٹنا ہوگا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — جب مصنوع اب مصنف کی شناخت نہ کرائے تو عمل کے ثبوت کی تجویز کیوں دی جاتی ہے
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## منسلک مضامین
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — ثبوت کے ڈیزائن کی طرف ماخذ کی نگرانی سے: تحقیق اور پالیسی کے مقابلے میں جانچے گئے چار تجاویز (Ansari 2026)
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — ایمبیڈنگ کی مشابہت انسانی اسکوروں سے زیادہ سے زیادہ 0.198 پر مربوط رہی
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — پہننے والا AI علیحدگی اور مشاہدے پذیری کو تحلیل کرتا ہے، اس لیے زیرِ نگرانی امیدوار پھر بھی بغیر مدد کی صلاحیت کا مظاہرہ نہیں کر سکتا (Corbin, Sharpe & Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — پروگرام کی سطح پر پاس/فیل کی حساسیت اور وہ نشان زدگی کے معیار جو من گھڑت اقدار کو پاس کروا دیتے ہیں (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — اجازت تنہا اعتبار کو کمزور نہیں کرتی: شمولیت GenAI کے استعمال سے غیر متاثر؛ عکاسی عمومی متبادل کا مقابلہ کرتی ہے
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹس، خوش کن جانچ، اور تیسرا فضا
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise رپورٹ: تین برطانوی یونیورسٹیوں کے 761 یونیورسٹی مضامین کی AI نشان زدگی
-- [[kumar-genai-computing-education-systematic-review-2026]] — جب AI ہی درجہ بند شے پیدا کرے: کمپیوٹنگ تعلیم کا اعتباری مسئلہ اور دوبارہ ڈیزائن کا ثبوت
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — گھر لے جانے والے امتحانات: کیفیاتی مرحلے کی جانچ کریں، یادداشت کلاس میں منتقل کریں (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی قومی تحریری جانچ میں HITL AI کی مدد والی جانچ (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — ساخت کے مساوی جانچی متغیرات کی پیداوار (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — درجات میں افراط کے طریقہ کار کے طور پر AI کا ٹاسک کی جگہ لینا (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS ٹاسک مکمل کرنے والے AI ایجنٹس؛ انسانی پیداوار کا مفروضہ اور ایجنٹک اعتبار (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچی آلات انسانوں اور LLMs کے لیے ایک ہی چیز کی پیمائش کرتے ہیں؟ (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — زبانی وضاحتوں میں جسمانی ادراک کے لیے کثیرالوسیط فریم
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI کے پیدا کردہ امتحانات کے معیار کا جائزہ: ایک بڑے پیمانے کا میدانی مطالعہ
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI کی مدد والے کام کی درجہ بندی میں قدری فیصلے: ایمانداری، بھروسہ، اعتبار اور دو طرفہ شفافیت (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — بدانتظامی کا طریقہ کار بطور اعتباری مسئلہ
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — نامکمل معلومات کے تحت جانچ کا اعتبار: ردِعمل کے خطے کا ماڈل
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — کون سا استنباط خطرے میں ہے؟ پانچ اعتباری دباؤ الگ کرنا اور یہ دیکھنا کہ دوبارہ ڈیزائن کیا کمزور کرتا ہے (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — STEM جانچ بطور اعتبار، ڈیزائن اور قابلیت کی تعریف کا مسئلہ، نقل کا نہیں: عمل کا ثبوت، زبانی امتحانات اور AI کے پیدا کردہ ٹاسک کی وفاداری (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — ذراتی طبیعیات کی تعلیم میں AI: تحقیقی مسائل اور بنیادی مہارتیں
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کسے جانچنا چاہیے؟ اعلیٰ تعلیم میں شفاف AI کی مدد والی تحریری جانچ پر طلبہ کے نقطۂ نظر
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — ایل سلواڈور کے AI ٹیوٹرنگ پائلٹ کے سیکھنے کے دعوے کی حد بندی (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — بدانتظامی کے الزام کی فائلوں میں ثبوت کے طور پر واقعی کیا ہوتا ہے، اور ثبوت کا معیار نتائج کی پیشگوئی کیوں نہیں کرتا (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192 متون پر ڈیٹیکٹر کی درستگی 0.69 اور 0.61؛ مخلوط تحریر میں ناکامی اور EFL کی غلط درجہ بندی کا خطرہ (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — حد سے زیادہ گیرندہ ممانعتیں: نقلِ تحریر پیداوار نہیں، اس لیے قاعدہ اُس چیز کو سزا دیتا ہے جسے پکڑنے کے لیے وہ نہیں بنایا گیا تھا (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — سالمیت کو پتہ لگانے کے بجائے تشخیصی فیصلے سے نظر آنے والا بنایا گیا (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — کیا بڑے لسانی ماڈل اعلیٰ تعلیم کے درجہ بندوں کی نقل کر سکتے ہیں؟ مستند طلبہ تحریر میں انشانکن اور درجہ بندی کے تعصب کا کراس ماڈل مطالعہ
-- [[ai-assisted-physics-lab-report-assessment-2026]] — تجرباتی طبیعیات کی لیبارٹری رپورٹس کی AI کی مدد والی جانچ: امکانات، حدود، اور تدریسی مشق کی معاونت
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — استنباط کے چار ہدف اور تین نسبتی غلطیاں جب مصنوع کو سیکھنے والے کی صلاحیت کا ثبوت سمجھا جائے (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسز میں طلبہ کا LLMs کا استعمال اور AI کے پیدا کردہ سوال کی مشکل کی حدود
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: تعلیمی مکالموں کی قابلِ جائزہ کوڈنگ کے لیے دعوے پر مبنی اسکیمے
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — نصابی ہم آہنگی پر طلبہ کی درجہ بندیاں مواد کے بجائے آئٹم کی مشکل کو دیکھتی ہیں (rho = 0.762) (Vogt et al. 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — ایک ہی جمع کرائی گئی تحریروں کی پانچ دن کے وقفے سے دہرائی گئی جانچ نے Krippendorff's alpha 0.625 دی
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI کمزوری اشاریہ: زیادہ تر جانچے گئے نمبر ناقابلِ تصدیق مصنفیت پر ٹکے ہیں، اس لیے اعتبار زیادہ سے زیادہ حفاظت کے بجائے کلیدی مراحل پر کافی ثبوت پر ہے
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — تدریسی موافقت پذیری کا میٹرک بڑھا جبکہ بلائنڈ ماہرین کی درجہ بندی گری: پیمائش کا اعتبار بہتر بنانے کا اعتبار نہیں
-- [[genai-english-proficiency-validity-2026]] — کیا ہدف پھر کھسک گیا؟ GenAI اور انگریزی صلاحیت کے اسکوروں کا اعتبار
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — نتیجے کی ساخت اندازے کو ہلاتی ہے: انسان-AI کی مشترکہ پیداوار کے لیے g = 1.958
-- [[porcaro-ai-grading-benchmark-2026]] — مطابقت سے آگے: 22 پرامپٹ شدہ جانچنے والے ایسے پروبس سے گزرتے ہیں جن کا صحیح جواب معلوم ہے، اور اُن میں سے بیشتر کو بہلا کر اوپر کیا جا سکتا ہے (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — سیکھنے والے کا سیاق ایک ہی کام پر LLM جانچنے والے کے نمبر بدل دیتا ہے، اور استاد سے مطابقت اُسے درج نہیں کرتی (Porcaro 2026, Paper VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — ٹاسک کا فارمیٹ اور AI استعمال کی ہدایات بطور اِس کے کہ شے کس چیز کا ثبوت دے سکتی ہے (Liu & Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — جواب کی جانچ سے آگے: خودکار ریاضیاتی مختصر جواب کی جانچ کے لیے AI سے آگاہ ادراکی نگرانی کا فریم

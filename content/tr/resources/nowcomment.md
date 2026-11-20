@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,12 +48,3 @@ K-12 ya da yükseköğretimde yakın okuma, belge incelemesi ya da medya analizi
 ## Notlar ve uyarılar
 
 Hesaplar ücretsizdir ve belgeler genel olabilir ya da davetli bir grupla paylaşılabilir. YZ ortakları OpenAI büyük dil modelleri üzerinde çalışır, bu yüzden seçilen pasajlar ve sorular platformun kendi barındırmasından ayrılır ve o sağlayıcının koşullarına tabidir — bir bölge reşit olmayanlarla kullanmadan önce veri işleme düzenlemesini okumalı. Çıktı, sitenin hâlâ genişletmekte olduğunu söylediği bir token sınırıyla sınırlıdır, ortak dizini bir girişin arkasındadır ve YZ yüzeyleri ürünün hızla değişen bir parçasıdır: burada anlatılan her yeteneği yerleşmiş bir özellik kümesi değil, sitenin Kasım 2026'daki durumu olarak ele alın.
-
-## Bağlı kavramlar
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

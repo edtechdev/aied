@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -64,24 +66,3 @@ ai_assist:
 - **"बेहतर विज़ुअलाइज़ेशन बेहतर परिणाम देते हैं।"** शिक्षकों ने **व्यवस्थित रूप से सरल, अधिक पारंपरिक विज़ुअलाइज़ेशन** (बार प्लॉट, पाई चार्ट, लीजेंड) **को प्राथमिकता दी, तब भी जब हीटमैप जैसे जटिल डिज़ाइन अधिक विस्तृत अंतर्दृष्टि देते थे**। अधिक सूचनात्मक कृति वह नहीं थी जिसका उपयोग हुआ, इसलिए अंगीकरण डिज़ाइन गुणवत्ता से अलग समस्या है।
 - **"छात्र वहीं देखते हैं जहाँ स्कैफ़ोल्ड है।"** एक अध्ययन में पाया गया कि **विस्तृत विज़ुअल स्कैफ़ोल्ड के बावजूद छात्रों ने अपनी अधिकांश दृष्टि कोड पर खर्च की**, सहायता ने केवल ध्यान आकर्षित नहीं किया। उपस्थित परंतु उपेक्षित विज़ुअल सहायता कुछ नहीं बदलती।
 - **"भागीदारी और समझ साथ-साथ चलती हैं।"** प्रतिभागियों ने AI-निर्मित डेटा कॉमिक्स को **अधिक आकर्षक और समझने योग्य** पाया, फिर भी कई ने **गलत सूचना के जोखिम और सूचना-अतिभार** को भी चिह्नित किया। दोनों प्रतिक्रियाएँ एक ही कृति से आईं, इसलिए सकारात्मक स्वीकृति सत्यापित पाठ नहीं है।
-
-## संबंधित अवधारणाएँ
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — स्थानिक और त्रिविमीय प्रस्तुति
-
-## संबंधित लेख
-
-- [[interactive-learning-dashboards-engagement]] — पाठगत एजेंटों के ज़रिये अधिगम विज़ुअलाइज़ेशन को भागीदारी उपकरणों के रूप में पुनर्विचार
-- [[mllm-scientific-visualization-literacy]] — वैज्ञानिक विज़ुअलाइज़ेशन साक्षरता के लिए मल्टीमोडल LLM का बेंचमार्किंग
-- [[nuclear-diffusion-text-to-image-learning-2026]] — नाभिकीय संकल्पना विज़ुअलाइज़ेशन के लिए डोमेन-अनुकूलित टेक्स्ट-टू-इमेज मॉडल
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI-सहायता प्राप्त डेटा कॉमिक्स की प्रभावशीलता, लाभ और नैतिकता
-- [[cfes-p24-multimodal-slide-auditing-2026]] — मल्टीमोडल स्लाइड ऑडिटिंग के लिए प्रतिवर्ती बेंचमार्क
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — मिश्रित कक्षाओं में शिक्षकों तक ML निष्कर्षों को सुलभ बनाना
-- [[genai-visualization-education-framework-2026]] — केवल चार्ट नहीं, अर्थ का निर्माण: विज़ुअलाइज़ेशन शिक्षा में जनरेटिव AI के उपयोग के लिए एक संज्ञानात्मक–निर्देशात्मक ढाँचा

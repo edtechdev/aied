@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -41,6 +42,3 @@ A habilidade vem com um suporte de apoio: dois subagentes, um para entrevistas i
 ## Termos e ressalvas
 
 A licença é a Creative Commons BY-NC-ND 4.0, e os termos declarados pelo autor importam para a maioria dos leitores institucionais: estudo pessoal, não comercial, e desenvolvimento profissional são bem-vindos, enquanto uso comercial, redistribuição e white-labeling exigem uma licença comercial. O repositório reporta 314 de 320 pontos em dez desafios de autoria própria, o que é uma avaliação do próprio autor, e não independente, e o mesmo autor vende consultoria e workshops sobre o framework. O projeto é descrito como um empreendimento pessoal, sem vínculo com seus empregadores, e seu último commit data de abril de 2026.
-
-## Conceitos conectados
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

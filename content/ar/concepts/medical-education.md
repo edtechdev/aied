@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -77,7 +79,6 @@ ai_assist:
 
 - **التعلّم القائم على المشكلات والحالات المدعوم بالذكاء الاصطناعي: ست تجارب عشوائية مضبوطة، اثنتان منها قائمة على الحالات.** جمع [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei وآخرون (2025)]] أربع تجارب للمعرفة (46%، فاصل ثقة 95% من 0.18 إلى 0.73)، وثلاثًا للرضا (0.7، فاصل ثقة 95% من 0.47 إلى 0.92)، ولم يستطيعوا تجميع الاستدلال السريري لأن الأدوات اختلفت. واختبرت تجربتان فقط التعلّم القائم على الحالات ولم تحلّل المراجعة الصيغ منفصلة، فالنتيجة تدعم تصاميم المشكلات المدعومة بالذكاء الاصطناعي دون تحديد أي خصائص الحالة تهم.
 
-
 ### لماذا يهم
 
 HPE مجال عالي المخاطر وقائم على الكفايات يجب فيه موازنة فوائد الذكاء الاصطناعي (الممارسة القابلة للتوسّع، والتغذية الراجعة التكيفية، والمحاكاة) مقابل مخاطر ([[cognitive-offloading|الإفراط في الاعتماد]]، وتآكل المهارة السريرية العملية، والمخاوف الأخلاقية والسلامة). ومفاهيم قاعدة المعارف العامة — [[teacher-role|دور المعلم]]، و[[assessment|التقويم]]، و[[feedback|التغذية الراجعة]]، و[[equity-in-ai-education|الإنصاف]]، و[[ethics|الأخلاقيات]] — تنطبق بشدة خاصة في المهن الصحية، حيث تحمل الأخطاء عواقب مباشرة على المريض.
@@ -88,7 +89,6 @@ HPE مجال عالي المخاطر وقائم على الكفايات يجب �
 
 - **الاستخدام سبق التعليم.** من بين 310 طالبًا في العلوم الصحية، استخدم 90% منهم ChatGPT بينما لم يتلقَّ 82.6% أي تعليم رسمي في الذكاء الاصطناعي؛ وارتبط تكرار الاستخدام بمعدل تراكمي أعلى، وأبلغ 61% عن هواجس [[ethics|أخلاقية]] ([[alshahrani-health-sciences-ai-use-2026|Alshahrani وآخرون، 2026]]).
 
-
 ## آثار على مربي المهن الصحية
 
 - **استخدم الذكاء الاصطناعي لتشغيل مبادئ التعلّم لا ليحل محل المربي.** يجادل [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] بأن الذكاء الاصطناعي ينبغي أن يشغّل التعلّم التجريبي والموقوفي والموزع الإدراك بينما يبقى المعلم محوريًا للاندماج والنتائج.
@@ -98,7 +98,6 @@ HPE مجال عالي المخاطر وقائم على الكفايات يجب �
 
 - **رتّب المنهج بحسب الأدلة، لا بحسب الأدوات المتاحة.** تُظهر خريطة KAS نفسها حيث تكون الأدلة كثيفة أو رقيقة: معرفة الأخلاقيات (14 دراسة)، والمسؤولية (14)، ومهارات التطبيق (16)، ومهارات التقييم (18) تحمل إجماعًا، بينما تقف المعرفة التقنية والمعرفة التطبيقية والمهارات التشغيلية عند 9 لكل منها والتعاون عند 7. وحيث تكون البنية التحتية غير موثوقة، ابلغ الطبقة التقنية عبر حالات قائمة على الشاشة وعرض نماذج مفتوح الوصول بدل انتظار محاكاة عالية الدقة.
 
-
 ## مفاهيم خاطئة شائعة
 
 - **"فوائد المحاكاة راسخة في التعليم الطبي، فستكون كذلك محاكاة الذكاء الاصطناعي."** يجد استعراض منهجي مختلط المناهج لـ**19 دراسة (N = 1,253)** أن المحاكاة المدفوعة بالذكاء الاصطناعي تُنتج تأثيرات في تلك الأدبيات — وهي قاعدة متواضعة، إذ إن 1,253 مشاركًا عبر 19 دراسة أساس ضيق لتقنية تُنشر على نطاق واسع.
@@ -106,56 +105,3 @@ HPE مجال عالي المخاطر وقائم على الكفايات يجب �
 - **"المرضى المعياريون مكلفون أكثر من أن يُوسَّعوا."** استخدمت **تجربة عشوائية مضبوطة مع 95 طالب طب خضعوا للتحليل** **مرضى معياريين متعددي الوكلاء بالذكاء الاصطناعي** في تدريب المقابلة السريرية. والقيد الذي تعالجه هو توفّر ممثلين بشريين مدرَّبين، وهي مشكلة توظيف لا مشكلة أصالة.
 
 - **«اعتماد إطار كفايات منشور للذكاء الاصطناعي يحسم سؤال المنهج.»** غربل [[xiang-ai-nursing-education-kas-framework-2026|Xiang وآخرون (2026)]] 1,750 سجلًا إلى 23 دراسة — 15 مراجعة، و4 [[qualitative-research|كيفية]] و4 [[quantitative-research|كمية]]، عبر 15 بلدًا ومن 2022 إلى 2026 — ورسموها على نموذج المعرفة والاتجاه والمهارة. وتركّزت مجالات التطبيق في تعليم الطب (n = 11، 47.8%)، والتعليم العام (n = 9، 39.1%)، وتعليم آخر (n = 3، 13.0%)، والأطر التمريضية التي قارنوها — N.U.R.S.E.S. وAI-ABCs وCARE — إما تفتقر إلى مسارات واضحة للتنفيذ البيداغوجي أو تغطي مهارات معزولة دون طرق تقييم. والخريطة ذات الأبعاد الفرعية الـ12 التي يبنونها اقتراح ينتظر التحقق، وهو ما يجعلها شيئًا يُعلَّم ضده لا منهجًا محسومًا.
-
-
-## المفاهيم المرتبطة
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — خيط التمريض في تعليم المهن الصحية
-- [[virtual-and-augmented-reality]] — التدريب السريري الغامر والمعزَّز
-
-## المقالات المرتبطة
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — مناهج الذكاء الاصطناعي الصحي تعلّم الأخلاقيات (80.6%) ونادرًا ما تعلّم مصدر البيانات (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — تقييم طبقي متعدد المقيّمين للمرضى المعياريين الافتراضيين القائمين على النماذج اللغوية الكبيرة بمنصة عاملة لتوليد البيانات
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — التشغيل المتكرر لا يعيد إنتاج الدرجة نفسها
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — التعلّم القائم على المشكلات والحالات بالذكاء الاصطناعي في تعليم الطب وطب الأسنان: ست تجارب عشوائية مضبوطة، اثنتان فقط قائمة على الحالات (Wei وآخرون 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — علم الأمراض الرقمي المدعوم بالذكاء الاصطناعي يحسّن الأداء التشخيصي ويقلّص فجوات الخبرة لدى مقيمي علم الأمراض في قراءة خزعات البروستاتا
-- [[xiang-ai-nursing-education-kas-framework-2026]] — مراجعة استطلاعية ترسم أطر كفايات الذكاء الاصطناعي التعليمية على خريطة KAS من 12 جزءًا
-- [[agency-gap-ai-writing]] — وكلاء كتابة بالذكاء الاصطناعي تفاعليون مقابل استباقيين في تدريب المهن الصحية: فجوة المبادرة
-- [[federated-learning-at-risk-student-prediction-2026]] — تنبؤ اتحادي بالتعرض للخطر عبر برامج تعليم المهن الصحية: كلفة خصوصية مهملة، ولماذا تخفق عتبة مستوردة
-- [[rony-nursing-educators-ai-tpack-2025]] — معلّمو التمريض في بنغلاديش حول جاهزية الذكاء الاصطناعي والعوائق وحَوكمة البيانات، مقروءة عبر TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — عوائق دمج الذكاء الاصطناعي في مناهج الإقامة: مقابلات كيفية مع اثني عشر قائدًا طبيًا
-- [[alshahrani-health-sciences-ai-use-2026]] — جسر التقنية والبيداغوجيا: تحليل مقطعي لاستخدام الذكاء الاصطناعي وآثاره الأكاديمية المبلَّغ عنها والهواجس الأخلاقية لدى طلاب مناهج علوم صحية متنوعة

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -151,75 +153,3 @@ ai_assist:
 **«Η ενοχή για τη χρήση ΤΝ δείχνει παραβίαση κανόνων.»** Ακολουθεί την απόκρυψη και όχι τη δήλωση: ο περιορισμός της χρήσης ΤΝ λόγω δυσφορίας συσχετιζόταν με την απόκρυψή της, όχι με απαγορευμένη συμπεριφορά. Το να διαβάζει κανείς την ενοχή ως τεκμήριο παράβασης προσδιορίζει επομένως λάθος την πηγή της, και το να την αντιμετωπίζει ως σήμα συμμόρφωσης θα σπρώξει τη συμπεριφορά ακόμη πιο έξω από το οπτικό πεδίο.
 
 **«Ένα χαμηλό ποσοστό απαντήσεων σε έρευνα σημαίνει ότι το προσωπικό δεν έχει ισχυρά αισθήματα.»** Η εργασία διαβάζει τις **109 απαντήσεις (ποσοστό 3,5%)** ως τις ίδιες πληροφοριακές για την κατάσταση της ηθικής συζήτησης: μια χαμηλή ανταπόκριση σε ερώτημα για τη δυσφορία είναι εύρημα για αυτή τη δυσφορία και όχι απουσία της. Και μια ενσωμάτωση της γενετικής ΤΝ πλαισιωμένη απλώς ως αναβάθμιση δεξιοτήτων χάνει το ερώτημα ταυτότητας που κάποιο προσωπικό πράγματι θέτει: ποιο είναι το νόημα της διδασκαλίας σε έναν κόσμο γενετικής ΤΝ.
-
-## Συνδεδεμένες έννοιες
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Ανάδειξη μεταφορών και σχεδιασμός αναλογιών στην ανάπτυξη διδακτικού προσωπικού
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — Ομπρέλα: άνθρωποι και κοινά στην εκπαίδευση με ΤΝ (μαθητές, εκπαιδευτικοί, σχεδιαστές, διοικητές, χαράκτες πολιτικής)
-
-## Συνδεδεμένα άρθρα
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Από την προτροπή στην πράξη: μια πρωτοβουλία με επίκεντρο το διδακτικό προσωπικό για τη δημιουργία OER με υποστήριξη ΤΝ (Jordan και συν. 2025)
-  [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Κριτική ανάλυση λόγου των συμβουλών ευθυγράμμισης για τη γενετική ΤΝ: οι υπεύθυνοι ανάπτυξης αναδιατυπώνονται ως εκπαιδευτές τεχνολογίας
-- [[crompton-faculty-technology-integration-standards-2026]] — Πρότυπα διδακτικού προσωπικού για την ενσωμάτωση της τεχνολογίας (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ηθικές διαστάσεις της ΤΝ: απόψεις προσωπικού και φοιτητών
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Πώς οι μεταφορές του διδακτικού προσωπικού μηχανικής συγκροτούν (και περιορίζουν) την κατανόηση της ΤΝ
-- [[fear-awe-genai-metaphor-workshops-2025]] — Φόβος και δέος: βγάζοντας νόημα από τη γενετική ΤΝ μέσω μεταφοράς (εργαστήριο μεταφορών για προσωπικό και φοιτητές)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Τέσσερα κριτήρια και τέσσερις μεταφορές για τη διδασκαλία κριτικής επάρκειας σε ΤΝ
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Διακυβερνώντας το αόρατο: η επάρκεια σε ΤΝ των εκπαιδευτικών γλωσσών
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Η γενετική ΤΝ ως κρίση ταυτότητας και όχι κενό δεξιοτήτων
-- [[zuo-instructor-power-genai-writing-2026]] — Σχέσεις ισχύος όπως τις αντιλαμβάνονται πανεπιστημιακοί διδάσκοντες γραφής που παλεύουν με τη γενετική ΤΝ (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Μοντέλο του Στοχαστικού Τριγώνου: η ΤΝ ως γνωστικός διαμεσολαβητής
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Αυτοαντιλαμβανόμενη γνώση TPACK-21 του διδακτικού προσωπικού για τη γενετική ΤΝ (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Επαγγελματική ανάπτυξη Intelligent-TPACK: η συμμετοχή προβλέπει κέρδη, η αυτοαντιλαμβανόμενη συμμετοχή όχι
-- [[instructional-design-proficiency-masters-math-2026]] — Μοντέλο έξυπνης τάξης και βρόχος D-T-E για τη βελτίωση της επάρκειας σχεδιασμού διδασκαλίας σε μεταπτυχιακό μαθηματικών (Zhu και συν. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Αρχιτεκτονική ρόλων σε διαφοροποιημένες ομαδικές δραστηριότητες σχεδιασμένες με ΤΝ (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Εμπειρίες και αντιλήψεις πανεπιστημιακών εκπαιδευτικών για τη γενετική ΤΝ: ευπάθεια, επαναστοχασμός της αξιολόγησης, μάθηση φοιτητών σε κίνδυνο (Farazouli και συν. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Από τον φόβο στην καινοτομία: θερινό ινστιτούτο έξι εβδομάδων για διδακτικό προσωπικό, συμβιωτική παιδαγωγική και οι θεσμικές συνθήκες που δεν μπορούσε να παρέχει
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Το σύμπλεγμα ενοχής για την ΤΝ: προληπτική ενοχή, απόκρυψη και διαφορές σταδίου καριέρας στο ακαδημαϊκό προσωπικό (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Έρευνα AAC&U/Elon σε 1.057 μέλη διδακτικού προσωπικού στις ΗΠΑ: θεσμική ανετοιμότητα, ισχνή διακυβέρνηση και το χάσμα πολιτικής 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Οι υπεύθυνοι ακαδημαϊκής ανάπτυξης ως ψηφιακοί διαμεσολαβητές στην τριτοβάθμια εκπαίδευση του Παγκόσμιου Νότου: η ανάπτυξη ως κοινωνικοτεχνική πράξη
-- [[physics-faculty-learning-community-ai-2026]] — Μια σειρά εργαστηρίων για την αποτελεσματική χρήση της ΤΝ σε αβέβαιους καιρούς: οικοδομώντας μια κοινότητα μάθησης διδακτικού προσωπικού φυσικής
-- [[faculty-ai-well-being-social-supports-2026]] — Η ευημερία του διδακτικού προσωπικού σε σχέση με την ΤΝ ακολουθεί την επάρκεια σε ΤΝ και όχι την τεχνολογική αυτοαποτελεσματικότητα
-- [[ai-competence-framework-landscape-2026]] — Ελέγξτε τι περιγράφουν τα επίπεδα ενός πλαισίου πριν το υιοθετήσετε
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Μπορεί η εκπαίδευση να θέσει την ατζέντα για την ΤΝ; Προσομοιωμένη καινοτομία και παιδαγωγικός προσανατολισμός στην εκπαίδευση εκπαιδευτικών
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 εκπαιδευτικοί χημείας σε πρόγραμμα έξι εβδομάδων: η ανάπτυξη μετακινεί ό,τι αναφέρουν, όχι ό,τι κάνουν οι μαθητές (Ussenbay και συν. 2026)
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ εκπαιδευτικοί γλωσσών από 28 χώρες σε διαδικτυακό πρόγραμμα 20 εβδομάδων (Ma και συν. 2026)
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 Σκανδιναβοί εκπαιδευτικοί: κέρδος 0.20 SD στα αντιλαμβανόμενα οφέλη μετά από επαγγελματική ανάπτυξη σε GenAI
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 εκπαιδευτικοί: η ενασχόληση με την επαγγελματική ανάπτυξη μεσολαβεί στη σχέση παρακίνησης και προβλεπόμενης χρήσης GenAI
-- [[bodek-prompted-to-explore-microlearning-2026]] — ένα μοντέλο μικρομάθησης για το διδακτικό προσωπικό φτιαγμένο για τον χρόνο που πραγματικά διαθέτει
-- [[bursic-ai-residency-education-curriculum-2026]] — μια κατοικία ΤΝ στην ιατρική εκπαίδευση: ανάπτυξη προσωπικού και συν-μάθηση ως μηχανισμός
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 πόροι· η ανάπτυξη των εκπαιδευτικών ως ένα από τα τέσσερα θέματα της ανασκόπησης
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 εκπαιδευτικοί ζητούν ανάπτυξη από πρώην εκπαιδευτικούς, οδηγό μιας σελίδας και χρόνο σχεδιασμού
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% αναβαθμίζουν το υπάρχον προσωπικό όπου η στρατηγική περιλαμβάνει δεξιότητες εργατικού δυναμικού (EDUCAUSE 2026)
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 εκπαιδευτικοί που έφτιαξαν τους δικούς τους κανόνες επειδή δεν έφτασε καμία καθοδήγηση
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — κενά ικανότητας που οδηγούν στην ανανέωση προγράμματος σπουδών και στην ανάπτυξη προσωπικού (Wang 2026)
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — επαναλαμβανόμενη ανάπτυξη ως επίπεδο θεσμικής υποστήριξης και όχι ως μεμονωμένο γεγονός (AALHE 2026)
-- [[chen-future-faculty-development-ai-2027]] — Επτά διδακτικοί ρόλοι, δύο καθολικά θεμέλια, και ρόλοι κατανεμημένοι σε μια ομάδα
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Ο χώρος της κρίσης, ο διαλογικός έλεγχος και οι συνθήκες της επαγγελματικής κρίσης
-- [[jiang-faculty-development-japan-2027]] — Η ιαπωνική ανάπτυξη προσωπικού σε δύο τροχιές: συμμετοχή στο 32.7% με στάσιμες συλλογικές μορφές (Jiang και συν. 2026)
-- [[tian-transnational-faculty-development-governance-2027]] — Η διακρατική ανάπτυξη διδακτικού προσωπικού ως υποδομή: γραμματεία, χρονολογημένο αρχείο και κοινή διακυβέρνηση ως κατεύθυνση (Tian και συν. 2026)
-- [[ho-invariant-core-faculty-development-2027]] — Αναλλοίωτος πυρήνας, κινούμενο άκρο: ο νευροψυχολογικός μηχανισμός της μάθησης πριν από την τεχνολογία (Ho 2026)

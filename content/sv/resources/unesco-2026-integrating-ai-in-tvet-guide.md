@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -41,12 +42,3 @@ Ledare för yrkesutbildningsinstitutioner som avgör vad som ska göras först, 
 ## Anteckningar och förbehåll
 
 Det är vägledning, inte utvärdering. Guiden rapporterar inga utfallsdata, och dess institutionella exempel – en innehållsintegrerad AI-lärmodell vid College of the North Atlantic i Kanada och Kenyas standard från 2023 för industriell praktik inom yrkesutbildning – är beskrivande faktarutor hämtade från projektrapporter, inte oberoende försök. Bilagorna kallar sig indikativa; mognadsskalan är ett diskussionsstöd, inte ett mätinstrument. Säkerhetskritiska och reglerade yrken får ett eget kapitel, men det argumenterar en hållning kring mänsklig övervakning i stället för att erbjuda detaljer på regelnivå. Licensen CC BY-SA 3.0 IGO tillåter anpassning och återpublicering med angivande av källa och samma licens.
-
-## Anslutna begrepp
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

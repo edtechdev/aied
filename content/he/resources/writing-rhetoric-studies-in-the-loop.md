@@ -32,7 +32,7 @@ ai_assist:
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
-
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -44,6 +44,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## מה לדעת לפני השימוש
 
 הספר כולו חופשי ב-PDF ו-ePub, ופרקים בודדים מפורסמים בנפרד עם DOI משלהם. הפרסום הוא ביולי 2026 על ידי WAC Clearinghouse בסדרת WAC Repository שלו, 402 עמודים, נערך על ידי Anuj Gupta ו-Brian Gogan, עם DOI האוסף 10.37514/TWR-B.2026.2999. הרישיון הוא Creative Commons BY-NC-ND 4.0, ולכן קוראים רשאים לצפות, להדפיס עותקים אישיים ולקשר לספר, אך לא רשאים לשכפל אותו באתר אחר או להתאים אותו בלי רשות; קורס שרוצה ניסוח הנחיה מותאם צריך לכתוב גרסה משלו במקום להדפיס מחדש את אלה. ההנחיה של כל פרק נבדקה על פני פלטפורמות, אם כי הספר אינו מדווח על השוואה מבוקרת של תוצאות, ולכן יש להתייחס לההנחיות כעיצוב מומחה ולא כהתערבות מאומתת.
-
-## מושגים מחוברים
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

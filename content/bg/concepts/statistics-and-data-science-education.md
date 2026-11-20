@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -82,26 +84,3 @@ ai_assist:
 - **„Удовлетвореността и възприетата полза показват, че AI инструмент за наука за данните работи.“** Студентите използваха LLM интензивно за отстраняване на грешки и въпроси за понятия и **съобщиха висока удовлетвореност, докато възприетата от тях полза за дълбоко обучение намаляваше през семестъра**. Удовлетвореността се задържа, а самооценената траектория на обучение падна, така че нито една от двете цифри сама по себе си не е резултатът.
 - **„Модел без ограничения е толкова добър, колкото насочван tutor.“** Ползата дойде от обучението по скафолдинг — явни инструкции за подсказки стъпка по стъпка и проверка — което надмина обикновения достъп до същия модел по независимо представяне и по калибрация на самооценката. Насочването и обучението как да се използва то носеха ефекта.
 - **„Предпазването от даване на отговори е достатъчно.“** Tutor, съобразен с конкретен курс, върху хостван API, инструктиран да подтиква, а не да доставя отговори, бе приет от **76% до 84%** от студентите бакалаври по психология в седмиците, свързани с изпита, в едносеместриален курс по програмиране на R. Това е усвояване, а не доказателство, че предпазването е довело до обучение: предпазването на ниво подкана е един лост сред няколко и само по себе си не произвежда обучение.
-
-## Свързани концепции
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Свързани статии
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Агентен инструмент, който генерира проверими синтетични набори от данни за персонализирана практика по статистика
-- [[ai-tutor-statistical-programming-adoption-2026]] — Целенасочено изграден tutor по R; приемането следваше календара на изпита
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Обозначенията за трудност от LLM следват нивата по Блум, а не представянето на студентите
-- [[tactile-statistical-graphs-accessibility]] — Отворен канал, който генерира тактилни статистически графики с преглед от преподавател
-- [[guided-llm-scaffolding-independent-learning]] — Насочваният скафолдинг надмина неограничения достъп по независимо представяне
-- [[lund-socially-accountable-data-science-xai-2026]] — Вграждане на социална отчетност в техническата учебна програма по наука за данните

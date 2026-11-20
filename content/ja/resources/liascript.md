@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -44,8 +45,3 @@ ai_assist:
 ## 注記と注意点
 
 LiaScript は無料で、有料プランもアカウント要件もなく、BSD-3-Clause のもとで公開開発されているため、教育機関が自己ホストして改変できます。Live Classroom 機能は大規模に頼る前に確認する価値があります。リアルタイム同期は純粋なローカルレンダリングではなく、共有サービスを使っているためです。教育エージェントは若く採用例も少ないため、サポートされた製品ではなく試作段階のものとして扱ってください。
-
-## 関連する概念
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
-

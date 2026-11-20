@@ -30,6 +30,7 @@ verified: [citation]
 translation_of: "resources/vfwa"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -51,11 +52,3 @@ Kierownicy programów i modułów w szkolnictwie wyższym, którzy nadal chcą, 
 Model nie został oceniony na dużą skalę. Artykuł mówi wprost, że nie istnieje jeszcze żadna próba, narzędzie ani zmierzony wynik, i że potrzebne są pilotaże, by sprawdzić, czy artefakty z etapu 1 podnoszą pewność oceniających lub spójność interpretacyjną, czy studenci odbierają ten układ jako sprawiedliwszy oraz jak dziedzina ustala próg wystarczalności, nie zamieniając etapu 1 w drugi egzamin.
 
 Dwa koszty praktyczne są realne. Etap 1 wymaga sesji obserwowanych i bezpiecznej rejestracji na dużą skalę, a wielojęzyczne nagrywanie i tłumaczenie są warunkiem wstępnym, nie dodatkiem. Osąd interpretacyjny jest zaś celowo pozostawiony oceniającym: model zakłada kompetencję dziedzinową, której nie da się zautomatyzować, co jest założeniem kadrowym w takim samym stopniu jak projektowym.
-
-## Powiązane pojęcia
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

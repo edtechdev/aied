@@ -13,6 +13,8 @@ ai_assist:
     date: "2026-11-13"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 > **Executive function** refers to the general-purpose control processes that let a learner hold information in mind, resist an easier response, switch between rules, and plan a route to a goal. In [[ai-education|AI in education]] it decides whether a tool substitutes for the capacity a task was meant to exercise or builds that capacity instead. It also sits where three literatures meet: the [[cognitive-offloading|reliance]] research, the special-needs research on support and accommodation, and the measurement work on how the construct is assessed. It differs from [[metacognition|metacognition]]. Knowing that an output should be verified is one capacity; holding the problem in mind long enough to verify it is another.
@@ -101,35 +103,3 @@ The one review that couples offloading to executive function is [[papasideri-cog
 - "Higher AI use means weaker executive function." Sharma and colleagues found the association ran through academic stress, and a cross-sectional design cannot establish direction. Dependence and capacity loss are correlated, not proven causal.
 - "Executive function is one measurable thing." Card sorting, the Flanker test and self-report inventories measure different processes and often disagree.
 - "Self-report scales diagnose deficits." The EFB-LDS-AI measures self-reported reliance and perceived effort reduction, which its authors explicitly distinguish from a clinical deficit.
-
-## Connected Concepts
-
-- [[metacognition]] — knowledge and monitoring, as distinct from capacity under load
-- [[cognitive-offloading]] — what gets delegated when a task is handed to a model
-- [[self-regulated-learning]] — planning and monitoring applied to one's own study
-- [[cognitive-psychology]] — working memory and the task measures built from it
-- [[developmental-psychology]] — how the construct changes across childhood
-- [[special-education]] — support, accommodation and the ethics of both
-- [[neurodiversity]] — the frame in which ADHD support is discussed
-- [[scaffolding]] — support just beyond independent capability
-- [[assistive-technology]] — tools that compensate for a capacity
-- [[conversational-ai]] — the delivery format most training studies use
-- [[generative-ai]] — the tools whose reliance is measured here
-- [[teacher-role]] — the support that reliance can displace
-- [[higher-ed]] — where most of the measurement work was done
-- [[k-12]] — where reliance is measured in adolescents
-- [[longitudinal-research]] — the design this evidence mostly lacks
-
-## Connected Articles
-
-- [[genai-reliance-executive-functioning-2026]] — Adolescent GenAI reliance defined as preference over effort
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Compensation, scaffolding and development as three tool functions
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies, 1,606 participants, one-month follow-up at most
-- [[sidorkin-extended-executive-cognition-2025]] — Extended executive cognition as a higher-education outcome (framework)
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Cognitive flexibility predicts interview tier, inhibition does not
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — A 35-item self-report scale for AI-mediated learning difficulties
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — AI support for ADHD students, with the ethical trade-offs named
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Children and adults conversing with ChatGPT in the scanner
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: the review that ties offloading to executive function
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Note-taking beat a chatbot on delayed comprehension and recall

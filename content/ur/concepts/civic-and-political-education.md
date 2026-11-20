@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -87,28 +89,3 @@ ai_assist:
 **"بہتر پرامپٹ بہتر شہری سبق پیدا کریں گے۔"** متعامل قسم نے معمولی فرق ڈالا، اور تینوں چیٹ بوٹس نے 53 معیارات پر وہی ڈھانچہ دیا۔ پرامپٹ کا معیار تادیبی ساخت بحال نہ کر سکا۔
 
 **"عمل کی رہنمائی کے لیے کافی شواہد ہیں۔"** احتیاط کے جواز کے لیے کافی ہیں۔ ایک مواد کا تجزیہ، ایک دستاویزی ترکیب، ایک چھوٹا [[mixed-methods-research|مخلوط طریقوں کا مطالعہ]]، اور کئی تصوراتی یا پالیسی تحریریں یہ ثابت نہیں کرتیں کہ کیا کام کرتا ہے۔
-
-## منسلک تصورات
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — جامع تصور: سیکھنے والوں کو AI نظاموں کے بارے میں کیا جاننا چاہیے
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — پیدا شدہ گمراہی اور ترغیب بطور سماجی نقصان
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## منسلک مضامین
-
-- [[civic-education-ai-lesson-plans]] — 53 شہریات معیارات کے لیے 310 AI سے پیدا شدہ سبق پلانز: 90% نچلے درجے کے، 94% بغیر کثیر الثقافتی مواد (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — الگورتھمی سرحدی گورننس اور جنوبی افریقہ میں شہری ڈیجیٹل لیٹریسی کے پانچ تقاضے (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — تنقیدی میڈیا لیٹریسی اور شراکتی شہریت پر ماہرین کے انٹرویو اور طلبہ کا سروے (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — فن لینڈ کے اساتذہ کے AI تعلیم کے مقاصد، قابلیت، سماجی بندی اور موضوعیت کے ذریعے
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — سائنسی لیٹریسی کے وژن، بشمول شہری زندگی اور جمہوری شرکت (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — ادارتی مضمون جو ڈیپ فیک اور خودکار گمراہی کو جمہوری خطرات بتاتا ہے (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — بالغ تعلیم کی پالیسی اور عمر بھر سیکھنے کا شہری مقصد (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 گورننس دستاویزات؛ جمہوریت اور قانون کی حکمرانی 92 میں درج، قانونی قوت چار میں (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — سیاسی نظریے کی زبان میں جمہوری دلیل: مشق کا زوال، میکانزم، اور آمریت کا داؤ

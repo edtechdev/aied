@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -96,48 +98,3 @@ Bewertungsprobleme sind hier von beruflichen nicht zu trennen. [[ai-interior-des
 - **„Designstudierende sind begeisterte Adopter."** Dieselbe Kohorte zeigt **71% Nutzung von GenAI täglich oder wöchentlich, 65% Misstrauen und 85%, die den Output verändern**. Häufige Nutzung und geringes Vertrauen bestehen nebeneinander; ein Werkzeug, dessen Wertversprechen Vertrauen voraussetzt, hat seine Nutzer missverstanden.
 - **„GenAI hilft über den Designprozess hinweg generell."** Die im Rahmen einer longitudinalen Studiostudie entwickelte Plattform GAI-A fand **nur zwei produktive Nutzungen**: GenAI als visueller Stimulus in der frühen Ideenfindung und als **kombinatorischer Erweiterer des Lösungsraums während der Entwicklung**. Die Nützlichkeit war phasenspezifisch.
 - **„Kreativitätsgewinne sind zu diffus, um sie zu messen."** In einer **Untergruppe von 31 Studierenden** stiegen die Werte im kreativen Denken von **77,23 auf 94,68 (d = 0,82)**. Der Gewinn ist messbar und auf eine Untergruppe begrenzt — das ist die ehrliche Form der Behauptung.
-
-## Verbundene Konzepte
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Verbundene Artikel
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artefaktbewusster KI-Kritik-Arbeitsraum für Studio-Feedback; simulationsbasierte Bereitschaftsstudie, keine Lernzuwächse
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Ein Architekturdesign-Experiment, in dem ein DALL-E 3-Workflow die allgemeine kreative Selbstwirksamkeit senkte
-- [[human-ai-collaboration-design-education-rubric-2026]] — Ein Prozessraster kann die KI-Verifikation zum bewerteten Gegenstand machen
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Bewusstsein für technologische Disruption durch KI, Design-Thinking-Mindset und Design-Innovationskompetenz bei Designstudierenden
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — Einstellung als notwendiges Gate für die Absicht von Designstudierenden, KI-Agenten zu nutzen, mit Task–Technology Fit als zweitem Pfad (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Die Art der Abhängigkeit entscheidet, ob Prompt-Literacy zu Engagement wird
-- [[mokryn-ai-anchor-synthetic-stakeholders-2026]] — Simulierte Stakeholder rahmen ein Designproblem oder bestätigen es nur, abhängig von der Interviewreihenfolge

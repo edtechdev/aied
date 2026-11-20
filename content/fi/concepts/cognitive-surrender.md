@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -69,7 +71,6 @@ Kolme esirekisteröityä koetta mukautti kognitiivisen reflektion testiä (Cogni
 
 Käytännön tulkinta on, että antautuminen on **erottelukyvyn epäonnistuminen** eikä motivaation epäonnistuminen. Antautuneet osallistujat eivät yrittäneet välttää työtä; he eivät pystyneet erottamaan hyvää neuvoa huonosta, eikä käyttöliittymä antanut heille mitään syytä yrittää.
 
-
 Esirekisteröity koe, jonka [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] raportoi, tarjoaa vastakkaisen konfiguraation. Kun avustaja oli aidattu [[rag|hakutiivistetyllä generoinnilla]] annettuun työarkkiin, tekoälyehto laski kognitiivista siirtokuormitusta (mediaani −0,27) sen nostamisen sijaan, eikä mikään siirtokuormituspolku kantanut jäsentymättömyyden nousua (0,84). Antautuminen vaatii avustajan, jonka neuvo voidaan omaksua sellaisenaan; järjestelmä, joka vastaa vain käsillä olevasta aineistosta, antaa oppijalle vähemmän omaksuttavaa ja enemmän sovitettavaa.
 
 ## Antautuminen laboratorion ulkopuolella
@@ -113,38 +114,3 @@ Evidenssi antautumisesta nimettynä konstruktiona nojaa vahvasti yhteen laborato
 **"Korjaus on parempi tekoäly, koska antautuminen seuraa virheistä."** Antautuminen seuraa vuorovaikutuksen *rakenteesta*: järjestelmä, joka tuottaa uskottavan vastauksen ensin, poistaa oppijalta tilaisuuden tuottaa oma. Tarkkuuden parantaminen vähentää väärien vastausten haittaa eikä tee mitään harkinnan muodostamisen hylkäämiselle, joka on se haitta, joka säilyy työkalun poistuttua.
 
 **"Kriittisen arvioinnin opettaminen riittää."** Se on välttämätöntä ja se saapuu liian myöhään. Kun uskottava vastaus on ruudulla, arvioinnista tulee vahvistamista - minkä vuoksi suunnittelukirjallisuus asettaa tässä opiskelijan yrityksen järjestelmän tuotoksen edelle sen sijaan, että se tarkastaisi sitä jälkikäteen.
-
-## Liittyvät konseptit
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-directed-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Liittyvät artikkelit
-
-- [[shaw-nave-cognitive-surrender-2026]] — Kolmijärjestelmäteoria ja antautumisen kokeellinen allekirjoitus
-- [[generative-ai-reduced-study-time-math]] — väestötason syrjäyttäminen ALEKSissa
-- [[young-people-learning-generative-ai-rapid-review-2026]] — antautumisen, siirtokuormituksen ja toimijuuden viitekehys esiopetuksessa ja perusopetuksessa
-- [[du-yuan-epistemic-dependence-2026]] — välineellinen apu vastaan harkintaa kantava apu
-- [[ai-advice-suppresses-ikt-suspension-2026]] — "en tiedä" -vastauksen romahdus
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuraalinen sitoutuminen ja omistajuus
-- [[genai-thoughtless-use-self-directed-learning-2026]] — ajattelematon käyttö ja itseohjautuva oppiminen
-- [[stamatoulis-genai-use-patterns-2026]] — vähäisen tarkistamisen omaksuminen vastaan arvioiva integrointi
-- [[cognitive-washout-ai-skill-decay-2026]] — mitä tapahtuu vieroituksen jälkeen
-- [[ai-overreliance-complex-adaptive-system-2026]] — nojautuminen väestöprosessina
-- [[brcic-effortless-trap-productive-struggle-2026]] — tekoälyn sijoittaminen niin, että tehtävä pysyy vaativana
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrointiharjoittelu
-- [[family-school-autonomy-support-genai-2026]] — riippuvainen vastaan autonominen siirtokuormitus
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — työarkkiin sidottu avustaja laski siirtokuormitusta sen nostamisen sijaan: antautumisen allekirjoituksen rajaehto (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — naturalistinen koko esseen delegointi: 15 esseetä 77:stä täysin mallin kirjoittamia, 20 pyyntöä kokonaisesta esseestä (Jelson et al. 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,37 +92,3 @@ ai_assist:
 **開発者向け**
 
 **「哲学的批判は実行に移せない。」** それは、何が成功とみなされるかを定める。システムの出力が学習者の成果なのか、また測定された向上が教育的な善なのかは、いかなる効果量も答えられない先行する問いであり、これらを省略する機関は、測定可能なものを最適化し、それを改善と呼ぶことになる。
-
-## 関連概念
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — 化学教育と AI: 実験室、形成的評価、LLM の限界、実験の哲学
-
-## 関連記事
-
-- [[genai-chinese-higher-education-integrity-2026]] — 中国の高等教育における生成 AI: インテグリティとエンゲージメント
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: 人間—AI 認知のための哲学的枠組み
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — 教育における非身体的 AI に対する、身体的・ポスト認知主義的批判
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 人文学における解釈的認知の発達—批判的モデル
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 機械との学習の哲学としての認識論的共同主体性
-- [[avraamidou-ai-colonization-science-education]] — 教育の AI による植民地化を問う批判的フェミニスト哲学
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 生成 AI の生態学的学習科学的枠組み
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI を伴う化学における実験の哲学
-- [[strydom-human-gai-paradigms-2026]] — 人間—AI 力学の枠づけ: 七つの GAI 関与パラダイム（Strydom 2026）
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 商業的な用途を持つ人間中心主義の言説として読まれる「人間中心」の AIED（Wang & Jin 2026）
-
-- [[khan-machines-emotional-labor-education-2026]] — 機械は感情労働を遂行できるか。1950〜1996年の論争と、模倣がケアを十分に決定づけない理由
-

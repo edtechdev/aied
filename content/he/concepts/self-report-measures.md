@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -163,53 +165,3 @@ ai_assist:
 - **"ראיות סקר חלשות אך בערך חסרות הטיה."** מבנה התגובה מגביל את האומדן לפני ההטיה: סקר מקבל **112 תגובות בשיעור תגובה של 31%**, או **90 תגובות מתוך 572 הזמנות**. מאגר המשיבים הוא תת-קבוצה שנבחרה בעצמה, ולכן הנתון מתאר את אותה תת-קבוצה.
 - **"סקרים הם שיטת מיעוט בתחום הזה."** סקירת היקף של **394 מחקרי GenAI בהשכלה גבוהה** מצאה ש**סולמות שאלון הם שיטת ההערכה המדווחת השכיחה ביותר (269 מחקרים, 68.3%)**, לפני מבחנים ובוחנים. הראיה הדומיננטית של התחום היא דיווח עצמי.
 - **"דיווח-עצמי והמבנים הנמדדים מסכימים."** **עומס קוגניטיבי מדווח-עצמית לא נבדל באופן מובהק בין פרופילי פריקה שנעו מ‑80% ל‑2% בכתיבת חיבורים**, בעוד שהפורקים הכבדים ביותר נבדלו באופן מדיד. המדד הסובייקטיבי היה שטוח היכן שההתנהגות נבדלה פי ארבעים.
-
-## מושגים מקושרים
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## מאמרים מקושרים
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — ציון כוונה אחד, שני שימושים הפוכים
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — אופן הניהול של מכשיר דיווח-עצמי משנה מה שהוא מודד
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — אשכול 14,003 רשומות על פרוקסי מדווחים-עצמית: פרופילים שנבדלו בציון הסופי
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — סקירה דו-שלבית שנותנת שיעור לאי-הסכמה בין אותו מבנה מדווח לנמדד
-- [[capability-decision-model-teacher-readiness-2026]] — קריטריוני תוקפות דיסקרימיננטיבית להפרדת יכולות AI מדווחות-עצמית מאמוני יעילות
-- [[pramod-agentic-ai-motivational-pathways-2026]] — מעורבות חוזה ביצוע נתפס ולא נמדד במודל מסלול של AI סוכני (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — מידות מקבילות של דיווח-עצמי ואובייקטיביות לאוריינות AI של מורים
-- [[jin-glat-genai-literacy-assessment]] — GLAT: חלופה מבוססת-ביצוע לדיווח-עצמי
-- [[genai-student-experiences-uk-he-survey-2026]] — שימוש סטודנטים ב-GenAI נסקר על פני מוסדות בריטיים
-- [[student-llm-interaction-taxonomy-review-2026]] — טקסונומיות העצובות לפי אם הנתונים הגיעו מדיווח-עצמי או מיומנים
-- [[tracing-genai-literacy-interaction-patterns]] — נתוני תהליך המתארים אוריינות GenAI
-- [[engagement-intensity-learner-modeling]] — שימוש מדווח-עצמית כאות מידול-לומד
-- [[predicting-attrition-competitive-programming]] — ביטחון מדווח-עצמית לעומת התנהגות תרגול
-- [[ai-use-critical-thinking-medical-students-2026]] — הטיית שיטה-משותפת במודל תיווך בעל מקור-אחד
-- [[genai-motivation-engagement-2026]] — PLS-SEM של דיווח-עצמי בלבד על מוטיבציה ומעורבות
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — סקר של 81 סטודנטים פיזיקה תת-חוג על שימוש ב-AI ואמון
-- [[hawkins-feedback-literacy-ai-essay-writing]] — הקלטת מסך וזיכרון מונעה-גירוי כתרופה לדיווח-עצמי
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — דיווח-עצמי בתוספת נתוני עקבות על למידה מוסדרת-עצמית
-- [[adaptive-pretesting-retention]] — מחווני מאמץ התנהגותיים הנגזרים מיומנים
-- [[ai-vocational-education-training-review]] — סקירה המדווחת על חוסר-האיזון בין דיווח-עצמי למידה אובייקטיבית
-- [[student-genai-use-views-writing|שימוש סטודנטים ותפיסותיהם על GenAI בכתיבה]] — סקר בתוספת ראיונות במחלקת סוציולוגיה אחת
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — מכשיר הערכה-עצמית בן 15 פריטים לסטודנטים בכיתה ו' העליונה, מפורש על מה שיכולת נתפסת יכולה לבסס
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — סקירה המוצאת 31 מתוך 33 מכשירי אוריינות AI של מורות כמדווחים-עצמית ואף אחד כמבוסס-ביצוע
-- [[jelson-students-chatgpt-essay-writing-2026]] — בעלות נתפסת הבדילה האצלת מאמר שלם מכל השאר, בעוד העקב הבדיל הרבה יותר (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — תפיסות דווחו ב-32 מתוך 66 מחקרים לעומת 8 שמדדו מיומנויות חקר
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63.8% מכלי אוריינות AI מדווחים ראיות מהימנות ופחות מ-20% ראיות תוקפות
-- [[huang-genai-academic-information-resources-2026]] — יומני ספרייה ועמדות סקר מצביעים לכיוונים שונים

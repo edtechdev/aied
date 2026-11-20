@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -45,6 +46,3 @@ ai_assist:
 ## Σημειώσεις και επιφυλάξεις
 
 Διαβάστε τον πίνακα εμπιστοσύνης σε κάθε σελίδα. Γλωσσικά μοντέλα συντηρούν το wiki υπό έναν ανθρώπινο συντηρητή, κανένα πρόσωπο δεν έχει ελέγξει καμία σελίδα, και ο ιστότοπος χαρακτηρίζει μια σελίδα ως καλά τεκμηριωμένη αφετηρία και όχι ως εύρημα. Οι ισχυρισμοί φέρουν επίπεδο σχεδιασμού, κωδικό μεγέθους επίδρασης και κωδικό αυστηρότητας, και το «δεν εκτυπώνεται μέγεθος επίδρασης» σημαίνει ότι η πηγή δεν ανέφερε κανένα, όχι ότι δεν υπάρχει. Το περιεχόμενο είναι CC BY-SA 4.0, οπότε η επαναχρησιμοποίηση πρέπει να φέρει την ίδια άδεια, και ο κώδικας είναι MIT.
-
-## Συνδεδεμένες έννοιες
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -83,37 +85,3 @@ Ao longo de 26 estudos de engajamento comunitário, a IA se concentrou na prepar
 **"Tarefas mais [[authentic-assessment|autênticas]] são simplesmente melhores."** A autenticidade eleva o valor de transferência e o problema de avaliação ao mesmo tempo: sistemas reais produzem evidência variável e difícil de corrigir, e quanto mais autêntica a tarefa, menos o resultado se parece com uma nota. O desenho precisa sustentar as duas coisas, e é por isso que a estrutura de reflexão pesa tanto quanto a tarefa.
 
 **"[[intelligent-tutoring|A tutoria por IA]] se encaixa na aprendizagem experiencial como se encaixa no conteúdo expositivo."** O encaixe é mais fraco, porque um tutor pode fornecer explicação e não pode fornecer o encontro com o sistema. Seu lugar natural nesta [[pedagogy|pedagogia]] é ao redor dos estágios de reflexão e conceituação, quando quem aprende está dando sentido ao que aconteceu — e não no lugar do fazer. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] geram o encontro em vez de roteirá-lo: a partir dos objetivos de quem aprende, o GELLI constrói cenas situadas com personagens, apoio e reflexão em tempo de execução, e em um estudo within-subjects com 40 aprendizes japoneses superou vídeos criados por especialistas em recordação de vocabulário (d = 0,45) e confiança (d = 0,45), mas não em fala.
-
-## Conceitos conectados
-
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[virtual-and-augmented-reality]] — prática imersiva como experiência deliberada
-- [[reflection]]
-
-## Artigos conectados
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — O role-play no mundo real superou a RV e o diálogo com LLM em ganhos de empatia, embora o tempo de exposição fosse um fator de confusão (Zwoliński et al., 2026)
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Framework Workforce Readiness Level para manufatura inteligente na era da IA
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Promovendo a aprendizagem sustentável por meio da inteligência corporificada (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI na educação em cibersegurança
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-- [[ai-lms-middle-school-longitudinal]] — Estudo longitudinal de LMS integrado com IA
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — Personas de IA substituindo o trabalho de campo comunitário, com uma rubrica de cinco indicadores para onde a substituição falha (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Revisão temática que distingue o 'mão na massa' corporificado do 'mão na massa' cognitivo na educação em design apoiada por IA (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — um curso de gestão estratégica reconfigurado em torno de três mecanismos de IA generativa
-- [[gelli-experiential-language-learning-2026]] — GELLI: um gerador de interações experienciais para a aprendizagem de línguas (Symonette et al. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratório virtual apoiado por IA para aprendizagem de física invertida: efeitos no desempenho, na motivação e na carga cognitiva de estudantes do ensino fundamental II
-- [[metacognitive-awareness-experiential-vs-instructional]] — Sessões experienciais versus instrucionais para a consciência metacognitiva na aprendizagem assistida por IA (Benazet i Montobbio et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 estudos mapeados no ciclo da aprendizagem-serviço: a IA escasseia na avaliação e na reflexão (Yusuf et al. 2026)

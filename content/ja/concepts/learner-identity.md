@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -89,39 +91,3 @@ ai_assist:
 **「AIの支援は障壁を下げ、したがって参加を広げる」** それは仕事を生産する障壁を下げながら、著作性を主張する障壁を狭めえます。自分が著作していない流暢な成果物を提出した学生は、成果へのアクセスを与えられ、その背後のアイデンティティを築く承認を否定されています。
 
 **「学習者のアイデンティティを認識することは内容における表象の問題である」** 表象は重要であり、承認は実践の中で演じられます。誰の問いが取り上げられるか、誰の貢献がクレジットされるか、誰が有能な者として扱われるか。[[curriculum-design|カリキュラム]]は代表的でありながら、アイデンティティ形成が必要とする承認を差し控えることがあります。
-
-## 関連する概念
-
-- [[learners]] — 学習者——学習者側の概念の包括的概念
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 関連する記事
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 学部生14名が語る、自ら行い続けることと、目的がそれを左右することがまれである理由
-- [[guarded-adoption-genai-higher-education-2026]] — 高等教育におけるGenAIの慎重な導入
-- [[t2i-competence-paradox-2026]] — 能力のパラドックス：テキストから画像へのGenAI利用における創造的アイデンティティ
-- [[shame-guilt-ai-regulation-computing-education]] — AI利用の社会的調整因子としての恥と罪悪感
-- [[lodge-adaptive-capabilities-genai-future-2026]] — GenAIの未来において成り立つ専門的アイデンティティのための適応的能力
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 教育学的共生とポストヒューマンな学習者
-- [[ai-pedagogical-accompaniment-amico]] — STEMアイデンティティを支えるAIによる教育的伴走
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — オーセンティック・アセスメントのための設計
-- [[paternalistic-filter-llm-history-education]] — 歴史教育におけるパターナリスティックなAI利用と学生のアイデンティティ
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 教員にとってのアイデンティティの危機としてのGenAI（教師アイデンティティ）
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPKに基づく教員研修と専門的アイデンティティ
-- [[genai-professionalization-metaphors-2026]] — GenAIの概念化と学生の専門的アイデンティティ
-- [[synthetic-position-self-authorship-2026]] — 著者性の宙吊り：委譲された著者性としての、声が密集していながら自ら著されていない自己（概念分析）
-- [[vibe-coding-design-diversity-2026]] — 一つのツール、一つのセンス？Vibe Codingはいかにして集団の多様性を個人の創造性と引き換えるのか
-- [[kim-solo-game-development-autoethnography-2026]] — 生成AI時代に新たな領域へ踏み出す：バイオインフォマティクス教育者によるソロゲーム開発の自己エスノグラフィー

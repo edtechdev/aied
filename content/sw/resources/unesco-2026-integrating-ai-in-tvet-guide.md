@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
@@ -41,12 +42,3 @@ Viongozi wa taasisi za elimu ya ufundi wanaoamua nini cha kufanya kwanza, walimu
 ## Vidokezo na maelezo ya tahadhari
 
 Ni mwongozo, si tathmini. Mwongozo hauleti data ya matokeo, na mifano yake ya kitaasisi, mfano wa ujifunzaji uliounganisha AI katika maudhui katika College of the North Atlantic nchini Kanada na kiwango cha Kenya cha 2023 kuhusu mafunzo ya viwandani katika elimu ya ufundi, ni masanduku ya maelezo yanayotokana na ripoti za miradi, si majaribio huru. Nyongeza hujitaja kuwa za mwongozo; kipimo cha ukomavu ni kisaidizi cha majadiliano, si kifaa cha kupima. Taaluma zinazohusika na usalama na zile zinazodhibitiwa zina sura yake, lakini inatoa msimamo kuhusu usimamizi wa binadamu badala ya maelezo ya kiwango cha udhibiti. Leseni ya CC BY-SA 3.0 IGO inaruhusu kubadilisha na kuchapisha tena kwa kutaja chanzo na kushiriki kwa masharti sawa.
-
-## Dhana zinazohusiana
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,7 +63,6 @@ Penilaian otomatis adalah salah satu aplikasi [[ai-education|AI dalam pendidikan
 - **Tolok ukur model GenAI untuk penilaian terbuka:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] menilai sebelas model GenAI dan penyematan kalimat terhadap dua penilai manusia pakar pada 1.885 respons terbuka untuk 24 pertanyaan rekayasa perangkat lunak. Hanya GPTo1 yang mencapai kesepakatan nyaris sempurna (Fleiss' Kappa 0.82, positif dan negatif palsu rendah di seluruh kategori nilai), dengan Claude3 dan PaLM2 menyusul dekat; model [[generative-ai|GenAI]] yang peka konteks menangani jawaban siswa yang singkat dan beragam frasa secara kokoh, sementara model penyematan berbasis referensi (mis., 345 positif palsu BERT) secara sistematis menghukum respons yang benar tetapi dirumuskan berbeda — bukti bahwa pilihan model, bukan hanya format penilaian, membentuk keandalan untuk [[assessment|penilaian terbuka]] teks bebas.
 - **Contoh prompt menentukan kesepakatan penilaian:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi dkk. (2026)]] mengotomatiskan penalaran diagnostik hierarkis (HDR), tugas kompetensi terapan di mana siswa menemukan dan menjelaskan kesalahan yang sengaja disisipkan dalam sebuah kasus singkat. Menggunakan GPT-4o tanpa penyetelan halus, tim menghasilkan soal baru dan menilai deskripsi siswa: soal yang dihasilkan dan yang ditulis manusia memiliki konsistensi internal yang sama (Cronbach's α = 0.78) dan tidak menunjukkan perbedaan distribusi skor yang signifikan di 100 partisipan, dan korelasi format itu dengan kontrol pemahaman bacaan tetap rendah (α = 0.36 dan 0.41). Akurasi penilaian bergantung pada prompt alih-alih model — tanpa contoh yang dikerjakan presisi Q2 turun ke 0.42, sementara penambahan contoh benar dan salah yang dinilai manusia menaikkan kesepakatan ke 98% atau lebih pada setiap pertanyaan (Q1 dan Q2 pada 100%) — dibanding biaya manusia terukur 138 menit penilaian pakar untuk 117 respons plus 30 menit konsensus.
 
-
 Mode penalaran model itu sendiri adalah tuas konfigurasi kedua: pada 32 kiriman ujian magister kesehatan publik yang dianonimkan, ChatGPT yang sama bergerak dari kappa berbobot 0.269 dalam mode cepat ke 0.718 dalam mode berpikir, sementara Kimi mencapai 0.571 ([[llm-grading-assistants-public-health-2026|Brevik dkk. (2026)]]).
 - **Pengodean [[agentic-ai|multiagen]] atas respons terbuka guru, di mana kerangka alih-alih model yang menanggung keandalan:** [[llm-automated-coding-teacher-pck-2026|Copur-Gencturk dkk. (2026)]] memperluas penilaian otomatis melampaui pekerjaan siswa ke pengodean pengetahuan konten (CK) dan pengetahuan konten [[pedagogy|pedagogis]] (PCK) guru sendiri, menanyakan apakah AI dapat mereproduksi pengodean manusia terlatih atas respons tertulis 268 guru matematika [[k-12|sekolah menengah]] AS tentang rasio dan hubungan proporsional. LLM multiagen yang dibangun khusus, GradeOpt, menetapkan tiga peran berbasis GPT-4o — Grader yang menerapkan manual pengodean manusia, Reflector yang mendiagnosis setiap ketidaksepakatan dengan kode manusia, dan Refiner yang melipat titik klarifikasi kembali ke manual selama hingga enam putaran — dan sangat dekat dengan pengode manusia terlatih pada CK (κ = .88 dan .85) sementara mencapai kesepakatan substansial pada butir PCK yang jauh lebih interpretatif secara keseluruhan (κ = .68; κ berbobot = .79). Dua baseline NLP dan model GPT-4o prompt tunggal tidak pernah melewati κ = .39 atau κ berbobot = .55 pada PCK, sehingga penulis mengatribusikan keandalan pada penghalusan instruksi terhadap manual pengodean alih-alih skala model, dan merekomendasikan tinjauan pakar di mana pun tingkat pengodean yang berdekatan kabur, karena kesalahan sisa GradeOpt biasanya berupa kode yang berdekatan alih-alih luput jauh.
 - **Penilaian ujian format campuran (2026):** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] mengevaluasi ChatGPT-5 terhadap penilaian fakultas manusia atas ujian farmasi 21 butir (16 siswa) yang mencakup butir pilihan ganda, pilih-semua-yang-berlaku, isian, daftar, jawaban singkat, dan esai. Kesepakatan substansial-hingga-nyaris-sempurna untuk jenis butir objektif (CCC 0.935–1.000 — dibantu jawaban benar yang disediakan saat penilaian) tetapi runtuh untuk butir daftar (0.621–0.708), jawaban singkat (≈0 hingga negatif), dan esai (0.341–0.854); penyediaan rubrik terstruktur tidak secara konsisten meningkatkan kesepakatan ujian penuh (71.1% tanpa vs 68.2% dengan). Studi ini mempertajam poin metodologis yang berulang di seluruh penilaian otomatis — akurasi persentase sedang sering hidup berdampingan dengan [[assessment-validity|kesepakatan]] rendah — sehingga akurasi semata melebih-lebihkan keandalan, dan merekomendasikan [[human-in-the-loop-ai|penilaian hibrida]] untuk butir kompleks, subjektif, atau berisiko tinggi.
@@ -103,12 +104,10 @@ Penilaian otomatis biasanya memberi skor pada apa yang dihasilkan siswa, sehingg
 
 Empat tema mengorganisasi korpus: **Evaluasi**, model yang menilai guru dari umpan balik siswa dan data survei; **Keterlibatan**, alat yang menyortir siswa menurut tingkat keterlibatan dalam lingkungan daring, tatap muka, dan hibrida; **Ekspresi**, pengodean sentimen dan topik atas umpan balik tertulis siswa; dan **Pengalaman**, perekaman sensor dan video atas perilaku kelas yang dapat diamati. Kinerja guru adalah sasaran paling umum, pada 11 dari 21 studi. Penulis tidak menjalankan [[meta-analysis-systematic-review|meta-analisis]], karena heterogenitas metodologis dan luaran membuat penggabungan tidak mungkin, dan 7 dari 21 studi memiliki 100 partisipan atau kurang — sehingga tinjauan ini memetakan bidang yang terfragmentasi alih-alih mengestimasi seberapa baik AI menilai pengajaran.
 
-
 ## Kualitas dan keadilan
 
 Kualitas penilaian otomatis bergantung pada [[assessment-validity]] dan [[bias-mitigation]]. Penelitian [[ai-scoring-language-bias-physics|bias bahasa]] menunjukkan bahwa penilaian otomatis dapat secara sistematis merugikan populasi siswa tertentu.
 **Kriterianya sendiri dapat keliru.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag dan Qiu (2026)]] menandai naskah fisika GCSE dengan sistem AI dan membandingkannya dengan nilai resmi dewan ujian sekaligus penilaian guru berpengalaman, memperlakukan kesepakatan dengan dewan sebagai proksi akurasi alih-alih akurasi itu sendiri.
-
 
 ### Skenario penerapan dan apa yang dituntut masing-masing
 
@@ -117,7 +116,6 @@ Seberapa banyak keselarasan yang harus dituntut institusi bergantung pada apa ya
 Tiga persyaratan mengikuti untuk semua itu. Karena keselarasan bersifat spesifik-model dan spesifik-institusi, validasi harus lokal dan berkelanjutan — akurasi utama dari tempat lain bukan bukti kesiapan. Karena nilai terkompresi ke tengah, AI paling tidak akurat pada batas nilai dan untuk kiriman terkuat dan terlemah, yang justru di situlah keputusan penilaian paling berkonsekuensi. Dan karena ketidaksesuaian antara nilai AI dan manusia mencerminkan penilaian yang berbeda alih-alih sekadar kesalahan, ketidaksesuaian harus memicu interpretasi manusia alih-alih penggantian algoritmik, dengan otoritas akhir atas nilai dipertahankan oleh manusia. Adopsi juga membawa kewajiban [[governance]] yang tidak tertangkap metrik teknis: hak atas penjelasan berdasarkan Pasal 22 GDPR di mana keputusan otomatis memengaruhi siswa, kewajiban Equality Act begitu tingkat capaian dan penggunaan bahasa terbukti memengaruhi nilai, proses banding yang direvisi untuk kesalahan yang tidak mudah tertangkap, dan risiko ireversibilitas — begitu staf dan investasi bergeser, institusi mungkin kesulitan terus mengumpulkan penandaan manusia yang diperlukan untuk kembali.
 
 Menggabungkan ketiga model tidak menghilangkan kesalahan itu: karena kesalahan mereka berkorelasi — arah yang sama pada 63.4% tugas — ansambel [[machine-human-marking-agreement-institutions-2026|Corsi dkk. (2026)]] secara statistik tidak dapat dibedakan dari model tunggal terbaik, membiarkan kompresi kecenderungan-memusat bersama tetap ada.
-
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] menyediakan kriteria yang diprasyaratkan oleh persyaratan itu, berargumen bahwa yang membuat otomatisasi dapat dipertahankan adalah *status epistemik* tugas alih-alih apa yang secara teknis dapat dilakukan teknologi. Kerangkanya membatasi AI pada verifikasi terbatas atas klaim faktual dan prosedural — keempatnya harus berlaku serentak: kriteria terdokumentasi yang tidak ambigu, perbandingan langsung terhadap pengetahuan mapan, tanpa penilaian pendekatan alternatif yang valid, dan satu jawaban benar tunggal atau himpunan jawaban yang dapat diterima yang ditetapkan sebelumnya, dengan ambiguitas dieskalasi ke manusia secara bawaan — dan membuat keterlibatan AI pada tingkat itu bersyarat pada lima prinsip yang tidak dapat dinegosiasikan yang harus berlaku semua sekaligus: basis pengetahuan harus dikurasi penilai dan berdasar pengambilan pada materi modul alih-alih pengetahuan parametrik model; penilai manusia meninjau setiap keluaran AI sebelum mencapai siswa dan memegang hak veto absolut dengan akuntabilitas yang tidak dibagi; umpan balik harus membawa provenans dan atribusi yang jelas; dan keamanan harus dirancang terhadap penggunaan adversarial sejak awal, dengan sanitasi masukan untuk instruksi yang tersembunyi dalam teks putih atau kecil, pengodean, gambar, atau metadata dokumen, karena penghindaran yang berhasil atas sistem otomatis menyebar melalui kohort siswa. Makalah yang sama menegaskan bahwa prinsipnya belum diuji untuk kelayakan simultan dan bahwa waktu penilai untuk kurasi, infrastruktur keamanan, dan pengawasan frekuensi tinggi dapat menggeser upaya staf alih-alih menguranginya — kehati-hatian yang berdampingan dengan persyaratan validasi lokal di atas.
 
@@ -132,7 +130,6 @@ Penilaian otomatis terhubung ke [[assessment-validity]] (jaminan mutu), [[format
 - **Penilaian AI skala besar atas [[physics-education|fisika]] tulisan tangan (2026):** Model multimodal (GPT-5.5) menilai 10.364 halaman pindaian pada ujian teori Olimpiade Fisika nasional, kamp seleksi, dan ujian mekanika kuantum universitas, mencapai korelasi skor total 0.91–0.97 dengan nilai resmi dan memulihkan lima tim Olimpiade teratas yang sama. Direvisi halaman-per-halaman, instruksi lokasi bukti meningkatkan kesepakatan — bukti bahwa [[multimodal|AI multimodal]] dapat mendukung penilaian sumatif berisiko tinggi dengan rekayasa rubrik dan prompt yang cermat ([[ai-grading-handwritten-physics-2026]]).
 
 - **Otomatisasi selektif untuk [[chemistry-education|kimia]] tulisan tangan (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] menilai ujian akhir kimia umum tulisan tangan 296 siswa halaman-per-halaman terhadap gambar rubrik dengan LLM multimodal yang bernalar, mencapai reliabilitas antar-jalankan tinggi pada skor total (ICC(A,1) = 0.967) dan kesepakatan skor total yang kuat dengan penilaian asisten pengajar (R² = 0.91). Karena reliabilitas tingkat butir sangat bervariasi menurut format — jawaban tekstual dan reaksi kimia dinilai andal sementara gambar dan grafik bernilai lebih buruk daripada acak — kesepakatan mentah dinilai tidak memadai untuk penggunaan berisiko tinggi. Mereka mengoperasionalkan [[human-in-the-loop-ai|penyerahan ke manusia]] melalui filter keyakinan (ambang kredit parsial, ambang risiko berbasis [[item-response-theory|IRT]], dan pengecualian jenis soal) yang mengubah skor AI mentah menjadi kebijakan terima/serahkan, dan menunjukkan bahwa positif palsu (AI mengkreditkan jawaban yang benar-benar salah) cenderung tak terdeteksi karena siswa jarang membantahnya — jalur konkret yang [[psychometrically-aware-ai|berdasar psikometrik]] menuju otomatisasi selektif ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
-
 
 - **Matematika tulisan tangan semi-terbuka dalam ujian universitas (2026):** [[gpt4-handwritten-math-exam-grading-2026|Liu dkk.]] menilai ujian matematika sarjana Jerman dengan GPT-4 melintas dua jalur ekstraksi (kotak jawaban yang dipotong lebih dulu versus halaman penuh), dua jalur pengenalan karakter optik, dan dua format rubrik, melaporkan alpha Krippendorff terhadap nilai manusia 0.22-0.44 dengan akurasi 0.59-0.62 pada alur kerja terbaik dan akurasi per soal berkisar 0.27-0.91 - tidak dapat diterima untuk penggunaan sumatif berisiko tinggi. Merinci aturan penilaian multi-kriteria umumnya tidak meningkatkan kesepakatan (ia membantu soal kredit parsial), penilaian bebas tanpa rubrik jauh lebih buruk (akurasi 0.50-0.51), dan filter keyakinan probabilistik yang dimaksudkan menandai nilai untuk pemeriksaan ulang manusia tidak secara signifikan meningkatkan akurasi sementara keliru menandai 7-41 persen respons sebagai andal. Pelajaran yang dapat ditransfer dari studi ini bersifat prosedural: pindai dan transkripsikan seluruh lembar ujian dengan penanda alih-alih memotong kotak jawaban, karena siswa menulis melintasi batas kotak; tulis ulang aturan penilaian yang ditulis untuk asisten pengajar, karena model mencoba derivasi yang tidak diminta dari aturan yang dimaksudkan bagi manusia; dan catat bahwa aturan penilaian manusia sendiri berparafrasa pada alpha 0.88 di antara lima varian, sehingga ketahanan prompt bukan hambatan utamanya.
 
@@ -151,74 +148,3 @@ Penilaian otomatis terhubung ke [[assessment-validity]] (jaminan mutu), [[format
 - **"Juri adalah sumber ketidakandalan."** Pada 378 putusan dadu tetap, menjalankan ulang mengubah **2.9 hingga 6.1 persen** hasil di bawah metode semi-kaku dan **13.5 hingga 15.9 persen** di bawah adjudikasi bebas, sementara mengganti AI juri hanya menambah sekitar 3 poin ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — prosedurnya, bukan jurinya, yang menetapkan reproduksibilitas.
 - **"Pelaporan keyakinan hanya kemewahan."** Skor yang menyatakan dirinya **70% yakin** akan mengubah cara ia dipakai, dan ketiadaan informasi itu memaksa pembaca memperlakukan semua skor sebagai sama pastinya.
 - **"Penandaan otomatis jawaban singkat adalah bidang yang sudah selesai."** Tinjauan cakupan atas penandaan otomatis jawaban singkat di [[science-education|sains]] (**2017 hingga awal 2024**) mendokumentasikan sejarah bidang ini, yang merupakan catatan tentang apa yang telah dicoba alih-alih apa yang telah divalidasi.
-
-## Konsep terkait
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Penilaian sumatif: format tahan-AI (ujian lisan, terawasi, buku tertutup)
-
-## Artikel terkait
-- [[llm-structured-assessment-diagnostic-quality-2026]] — Sub-dimensi rubrik LLM nyaris redundan dan umpan balik jarang menamai miskonsepsi (Zhao dkk. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — Laporan OpRaise: penandaan AI atas 761 esai universitas di tiga universitas Inggris
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Penilaian berbantuan AI HITL dalam penilaian tulisan nasional skala besar (Curi dkk. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validitas Penilaian Komparatif Model Bahasa Besar untuk Penyaringan Tulisan Universal
-- [[usher-faraon-who-grades-best-2026]] — Membandingkan penilaian ChatGPT, rekan sebaya, dan instruktur lintas tingkat kualitas proyek (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Menilai kualitas ujian hasil AI: studi lapangan skala besar
-- [[automated-formative-assessments-a-level-sciences]] — Penilaian formatif otomatis dalam sains A-level
-- [[cong-confidence-asag-2026]] — Penilaian jawaban singkat otomatis berbasis keyakinan
-- [[ai-scoring-language-bias-physics]] — Bias bahasa penilaian AI dalam fisika
-- [[llm-difficulty-calibration-programming-exams-2026]] — Kalibrasi kesulitan berbasis LLM untuk ujian pemrograman
-- [[choi-anchor-aes-prompting-2025]] — Prompting penilaian esai otomatis berbasis jangkar
-- [[cotal-formative-assessment-scoring-2026]] — Penilaian formatif CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Penilaian otomatis ujian Linux Bash dengan LLM
-- [[confidence-aware-student-drawing-assessment]] — Penilaian berbasis keyakinan atas gambar buatan siswa
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluasi otomatis diagram matematika yang dihasilkan
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs rasional LLM untuk penilaian kualitas pengajaran berbasis rubrik
-- [[eeg-familiarity-automated-assessment-2026]] — Mengotomatiskan Penilaian Siswa: Prediksi Keakraban Berbasis EEG
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: generasi rubrik penilaian AI
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Penilaian dan umpan balik berbantuan AI yang terawasi instruktur
-- [[ai-grading-handwritten-physics-2026]] — Penilaian AI atas penilaian fisika tulisan tangan (Olimpiade)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang Harus Menilai Pekerjaan Saya? Perspektif Siswa tentang Penilaian Tulisan Berbantuan AI yang Transparan di Pendidikan Tinggi
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Kerangka tripartit: memilah umpan balik menurut status epistemik dan lima prinsip batas untuk keterlibatan AI (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Evaluasi red-team atas injeksi prompt yang tersembunyi dalam kiriman siswa terhadap penilaian yang dimediasi AI (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Kerangka LLM explainable-by-design untuk penilaian guru otomatis dengan inferensi terpagar-kepercayaan (Li dkk. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — penilaian matematika semi-terbuka tulisan tangan dengan filter keyakinan untuk pemeriksaan ulang manusia
-- [[llm-grade-bands-calibration-bias-2026]] — Dapatkah model bahasa besar mereproduksi pita nilai pendidikan tinggi? Studi lintas model tentang kalibrasi dan bias penilaian dalam tulisan siswa asli
-- [[sophie-clinical-communication-ai-assessment-2026]] — Pelatihan komunikasi klinis berbasis AI yang dapat diskalakan dan penilaian otomatis
-- [[automated-constructive-assessment-hdr-llm-2026]] — Mengotomatiskan Penilaian Konstruktif dengan Model Bahasa Besar: Menuju Evaluasi Kompetensi Praktis yang Dapat Diskalakan dan Berulang
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi Fokus Umpan Balik dan Adaptivitas Pedagogis dalam Umpan Balik Hasil LLM pada Tulisan Siswa
-- [[llm-graders-computer-science-exams-2026]] — Di Mana Penilai LLM Berhasil dan Patah: Bukti dari Dua Ujian Ilmu Komputer
-- [[llm-automated-coding-teacher-pck-2026]] — LLM multiagen (GradeOpt) mengodekan respons CK dan PCK terbuka guru, keandalan dari penghalusan prompt terhadap manual pengodean
-- [[ai-marking-accuracy-gcse-physics-2026]] — Penandaan AI dibandingkan dengan nilai dewan ujian dan penilaian guru dalam fisika GCSE
-
-- [[llm-grading-assistants-public-health-2026]] — Mode penalaran mengangkat kesepakatan penilaian LLM-manusia dari kappa berbobot 0.269 ke 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — Kesepakatan mesin–manusia dalam menilai tugas sarjana bersifat spesifik pada model, prompt, dan institusi
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Jempol di Timbangan: Menggunakan Praktik Adjudikasi Wargaming Tradisional untuk Memperbaiki Evaluasi dan Penilaian Berjuri AI (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai ber-prompt menghadapi uji yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Menilai pengajaran alih-alih pekerjaan siswa, tanpa penggabungan

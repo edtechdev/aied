@@ -19,6 +19,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, libraries, ai-literacy, librarians, meta-analysis-systematic-review, generative-ai]
 ---
 
 > **Synthesis:** Jabeen and Lux map the literature that joins AI and [[information-and-media-literacy|information literacy]] in academic libraries, drawing 1,669 publications from five databases covering 2020 to 2025 and analyzing them with CiteSpace and VOSviewer. The map shows a field anchored on information literacy rather than displaced by it — 811 keyword occurrences against 413 for libraries and 301 for librarians — with AI, ChatGPT and generative AI layered on as the fast-rising terms. Output is concentrated in a small set of library journals and dominated by the United States, with 179 publications against 30 for Australia, 21 for Pakistan and 20 for China. Author co-citation resolves into three discourses with no unified model, and the authors are explicit that citation visibility is not evidence of changed library practice.
@@ -60,15 +61,6 @@ Nigeria, South Africa, Pakistan, Bangladesh and Malaysia appear in the top ten b
 - Citation indicators measure visibility, not research quality or library practice; the authors state that rising attention does not prove substantial use.
 - The search was executed in March 2025, so publications from the rest of that year are only partly represented.
 - Keyword and co-citation maps are sensitive to threshold and clustering choices, and the three-cluster solution is one reading of the network rather than a settled structure.
-
-## Connected Concepts
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[ai-literacy]]
-- [[librarians]]
-- [[meta-analysis-systematic-review]]
-- [[generative-ai]]
 
 ## Citation
 

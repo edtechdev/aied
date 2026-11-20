@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -94,32 +96,3 @@ ai_assist:
 - **"AI-उत्पन्न पाठ आसान है क्योंकि वह किसी स्तर के लिए बनाया गया है।"** मॉडल-आउटपुट के लिए साक्ष्य उलटी दिशा में चलता है: अग्रणी मॉडल पठन-बोध-लागत से जुड़ी संरचनाओं का अत्यधिक उपयोग करते हैं।
 - **"AI के साथ पढ़ना एक ही व्यवहार है।"** AIR स्केल चार अलग प्रेरणाएँ पाता है, और वे उपयोग के अलग-अलग प्रकारों का पूर्वानुमान करती हैं।
 - **"अगर AI पाठ फिर से लिख सकता है, तो पठन-स्तर का अब महत्व नहीं।"** विभेदन गद्यांश की संरचनात्मक जटिलता को घटाने से भिन्न हस्तक्षेप है; यह उसके चारों ओर सहायता बदलता है, पाठ का स्तर नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-education]] — वह छत्र जिसके नीचे यह क्षेत्र आता है
-- [[language-learning]] — L2 पठन का ओवरलैप है, पर वहाँ अधिग्रहण ही विषय है
-- [[writing-education]] — साक्षरता का रचना-पक्ष
-- [[english-education]] — EAP/EFL/ESL पठन और पठनीयता
-- [[educational-nlp]] — वह पाठ-मापन परत जिस पर पठनीयता निर्भर है
-- [[assessment]] — पठन-आकलन और अंक की वैधता
-- [[motivation]] — पाठक AI का उपयोग क्यों करते हैं, और इससे प्रसंस्करण को क्या होता है
-- [[scaffolding]] — विभेदित पठन सामग्री में सहायता परतें
-- [[neurodiversity]] — डिस्लेक्सिया और पठन-कठिनाई
-- [[accessibility]] — मानव-पठनीय बनाम मशीन-पठनीय पाठ
-- [[generative-ai]] — उत्पन्न और अनुकूलित पाठों के पीछे की तकनीक
-
-## संबंधित लेख
-
-- [[air-scale-motivations-ai-reading-2026]] — GenAI के साथ पढ़ने की प्रेरणाओं का सत्यापित स्केल
-- [[almirabi-ai-reading-assessment-motivation-2026]] — एक EFL कक्षा में AI-मध्यस्थता वाला पठन-आकलन
-- [[genai-differentiated-eap-reading-materials-2026]] — विभेदित EAP पठन सामग्री
-- [[llm-children-reading-story-generation]] — स्तर-नियंत्रित बाल-पठन कहानियाँ
-- [[text-simplification-its]] — ट्यूटरिंग के लिए पाठ-सरलीकरण का मूल्यांकन
-- [[clara-developmental-appropriateness-children-stories-2026]] — पठनीयता सूत्रों से आगे विकासात्मक कठिनाई
-- [[bird-multimodal-educational-literature-2026]] — कीस्टेज के अनुसार साहित्य का वर्गीकरण
-- [[clark-ai-generated-language-readability-2026]] — AI-उत्पन्न भाषा पढ़ने में कठिन क्यों है
-- [[sidorkin-ai-generated-course-readings-2026]] — अनुकूलित AI-उत्पन्न पाठ्यक्रम-पठन
-- [[airri-machine-resistant-reading-interface-2026]] — मशीन-प्रतिरोधी पठन इंटरफ़ेस और उनकी पठनीयता-कीमत
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — माध्यमिक पठन में ChatGPT प्रतिक्रिया
-- [[dabaghi-ai-dyslexia-education-review-2026]] — डिस्लेक्सिया वाले शिक्षार्थियों के लिए AI

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -126,36 +128,3 @@ Tieto refutácie sú zámerne napísané vo forme [[refutation-text]], aby mohli
 - **„Mylné predstavy učiteľov možno napraviť predložením dôkazov."** V pilotnej štúdii so **123 talianskymi vzdelávateľmi** sa nesúhlas najostrejšie zhlukoval pri **kognitívnych štýloch učenia (78 % učiteľov hájilo párovanie vizuálne/sluchové)**, inklúzii a skupinovej práci (68 %) a preťažení EdTech (54 %). Najsilnejšie nesúhlasy boli tie najodolnejšie voči dôkazom, a preto [[refutation-text|refutácia]] víťazí nad tvrdením.
 - **„Námietky učiteľov proti dôkazom sú všetky odpor."** Keď boli tie isté položky predložené prostredníctvom konverzačnej AI, ktorá **najprv validovala učiteľov kontext a až potom znovu zaviedla dôkazy**, **41 % námietok sa týkalo skutočných kontextových obmedzení** — veľkostí tried, špeciálnych potrieb, požiadaviek kurikula. Podstatná časť zdanlivej mylnej predstavy bola presná námietka.
 - **„Mylné predstavy možno spoľahlivo detegovať z dialógu."** **Z 241 promptovaných segmentov bolo 221 (91,7 %) potvrdených ako strategické mylné predstavy väčšinovým hlasom expertov (Fleissov κ = 0,9487)**, bez **významných rozdielov** medzi skupinami. Vysokú spoľahlivosť možno dosiahnuť pri expertnom rozhodovaní, a na tejto podmienke tvrdenie závisí.
-
-## Prepojené pojmy
-
-- [[pedagogical-patterns]] — Sekvencie koncepčnej zmeny, ktoré čelia konkrétnemu zastávanému presvedčeniu
-- [[learners]] — Študujúci: zastrešujúci pojem pre koncepty na strane študujúcich
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Prepojené články
-- [[rudolph-ai-myths-critical-higher-ed]] — Neverte hype: osem mýtov o AI a potreba kritického prístupu vo vysokom školstve
-- [[student-rationalization-ai-writing]] — Racionalizácia písania s AI študentmi
-- [[genai-skill-bypass-literacy]] — Obchádzanie zručností pomocou GenAI a gramotnosť
-- [[trust-reliance-ai-education-2026]] — Dôvera a spoliehanie vo vzdelávaní s AI
-- [[contextual-sycophancy-ai-literacy]] — Kontextuálna sykofantia a AI gramotnosť
-- [[sycophantic-ai-social-interaction-2026]] — Sykofantná AI v sociálnej interakcii
-- [[llm-fallacy-misattribution]] — Chybná atribúcia omylu LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Chybné, ale zapamätateľné: kritické prijatie záujmovo personalizovaných analógií GenAI študentmi v informatickom vzdelávaní
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: plynulé, autoritatívne vysvetlenia, ktoré sú chybné koncepčne, nie fakticky (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Skryté inštrukcie v odovzdanom súbore môžu zvýšiť známku udelenú AI bez viditeľného varovania (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Mylné predstavy detí o bezpečnosti AI: priateľstvo s robotom mylne považované za záruku súkromia (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostika učiteľských mylných predstáv konverzačnou AI s dialógom ukotveným v dôkazoch (Miranda & Calvani 2026)

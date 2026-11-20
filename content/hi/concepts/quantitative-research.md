@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,33 +91,3 @@ ai_assist:
 - **"intent-to-treat अनुमान बताता है कि उपकरण क्या करता है।"** एक समूह-यादृच्छिक अभिगम परीक्षण में जहाँ **उपचारित कक्षाओं के लगभग 15% छात्रों ने कभी ट्यूटर का उपयोग किया**, ITT अनुमान **उपकरण को प्रस्तुत करने के प्रभाव** को दर्शाता है, उसके उपयोग के प्रभाव को नहीं। कम ग्रहण ITT आँकड़े को क्रियान्वयन के बारे में कथन बना देती है, और उसे उपकरण-प्रभाव के रूप में रिपोर्ट करना मापे गए से अधिक दावा करता है।
 - **"कार्य पर प्रदर्शन ही परिणाम है।"** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] **120 छात्रों** को AI-सहायित या पारंपरिक अध्ययन में यादृच्छिक रूप से बाँटते हैं और **धारण** मापते हैं, वह डिज़ाइन जो तात्कालिक प्रदर्शन को टिकाऊ सीख से अलग करता है। जो अध्ययन कार्य पर ही रुक जाता है, उसने आसान मात्रा मापी है।
 - **"डेटासेट-बीच तुलनाएँ सीधी होती हैं।"** सिंथेटिक शैक्षणिक आँकड़ों की एक संरचनात्मक जाँच ने पाया कि **प्रत्येक डेटासेट को उसकी अपनी सीमा पर विश्लेषित करने से वह विरोध उलट गया जो साझा कार्य-बिंदु पर बना रहता था**। तुलना का चिह्न एक विश्लेषणात्मक चुनाव पर निर्भर था, और पूर्व-पंजीकृत कार्य-बिंदु ठीक इसी तरह की भंगुरता रोकने के लिए होता है।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## संबंधित लेख
-
-- [[access-not-enough-ai-tutoring-2026]] — मानव सहायता और AI ट्यूशरिंग का एक यादृच्छिक फ़ील्ड अध्ययन
-- [[genai-can-harm-teaching-rct-2026]] — जनरेटिव AI शिक्षण को नुकसान पहुँचा सकता है: एक RCT
-- [[acceptance-ai-english-tools-2026]] — AI-सहायित अंग्रेज़ी अधिगम उपकरणों की स्वीकृति
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI अपनाने के मार्ग (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — स्व-निर्धारण सिद्धांत के माध्यम से शिक्षक AI साक्षरता
-- [[jin-glat-genai-literacy-assessment]] — GLAT: एक IRT-वैधित GenAI साक्षरता परीक्षण
-- [[ai-lms-middle-school-longitudinal]] — एक अनुदैर्ध्य AI-एकीकृत LMS अध्ययन
-- [[adaptive-pretesting-retention]] — अनुकूली पूर्व-परीक्षण और अवधारण
-- [[synthetic-educational-data-structural-fidelity-2026]] — वफ़ादारी मेट्रिक क्या छोड़ती हैं: सिंथेटिक शैक्षणिक आँकड़ों की संरचनात्मक जाँच
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — समूह-यादृच्छिक पहुँच परीक्षण को उपयोग की जाँच चाहिए
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — बिब्लियोमेट्रिक विश्लेषण एक और मात्रात्मक परिवार है: Sriram et al.
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — नर्सिंग छात्रों में जनरेटिव कृत्रिम बुद्धि का उपयोग और अंतरवैयक्तिक शैक्षणिक अंतःक्रिया: सांख्यिकीय मध्यस्थ के रूप में स्व-नियमित सीख
-- [[wang-ai-disruption-design-innovation-competence-2026]] — डिज़ाइन छात्रों में AI तकनीकी विघटन जागरूकता, डिज़ाइन सोच मानसिकता और डिज़ाइन नवाचार योग्यता

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -64,24 +66,3 @@ ai_assist:
 - **"بہتر بصری نمائندگیاں بہتر نتائج پیدا کرتی ہیں۔"** اساتذہ نے **منظم طور پر سادہ، زیادہ روایتی بصری نمائندگیوں** (بار پلاٹس، پائی چارٹس، لیجنڈز) کو **ترجیح دی حتیٰ کہ ہیٹ میپس جیسے پیچیدہ ڈیزائن زیادہ تفصیلی بصیرت دیتے تھے**۔ زیادہ معلوماتی مصنوع وہ نہیں تھی جو استعمال ہوئی، چنانچہ اختیار کرنا ڈیزائن کے معیار سے الگ مسئلہ ہے۔
 - **"طلبہ وہیں دیکھتے ہیں جہاں سہارا ہوتا ہے۔"** ایک مطالعے نے پایا کہ طلبہ کی **نگاہ کا بیشتر حصہ تفصیلی بصری سہاروں کے باوجود کوڈ پر رہا** — مدد نے محض توجہ نہیں کھینچی۔ موجود مگر نظر انداز کی گئی بصری مدد کچھ نہیں بدلتی۔
 - **"شمولیت اور فہم ساتھ ساتھ چلتے ہیں۔"** شرکا نے AI سے پیدا کردہ ڈیٹا کامکس کو **زیادہ دلچسپ اور قابلِ فہم پایا، پھر بھی بہت سے لوگوں نے گمراہ کن معلومات کے خطرے اور معلومات کی بھرمار کا ذکر کیا**۔ دونوں ردعمل ایک ہی مصنوع سے آئے، چنانچہ مثبت پذیرائی کوئی تصدیق شدہ قراءت نہیں۔
-
-## منسلک تصورات
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — مقامی اور سہ جہتی نمائندگی
-
-## منسلک مضامین
-
-- [[interactive-learning-dashboards-engagement]] — لرننگ بصری نمائندگیوں کو تدریسی ایجنٹوں کے ذریعے شمولیت کے اوزار کے طور پر نئے سرے سے سوچنا
-- [[mllm-scientific-visualization-literacy]] — سائنسی بصری خواندگی کے لیے کثیر النمط LLM کی بینچ مارکنگ
-- [[nuclear-diffusion-text-to-image-learning-2026]] — جوہری تصورات کی بصری نمائندگی کے لیے شعبے کے مطابق ڈھالے گئے متن سے تصویر والے ماڈل
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI کی مدد سے بنے ڈیٹا کامکس کی افادیت، فوائد اور اخلاقیات
-- [[cfes-p24-multimodal-slide-auditing-2026]] — کثیر النمط سلائیڈ آڈٹنگ کے لیے متبادل بینچ مارک
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس روموں میں اساتذہ کے لیے ML کی دریافتوں کو قابلِ رسائی بنانا
-- [[genai-visualization-education-framework-2026]] — معنی کی تعمیر، صرف چارٹس نہیں: بصری نمائندگی کی تعلیم میں جنریٹو AI کے استعمال کے لیے ادراکی–تدریسی فریم ورک

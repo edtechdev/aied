@@ -17,6 +17,8 @@ ai_assist:
     role: drafting
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 > **Institutional AI infrastructure** — the computing, serving, routing and control layer an institution operates so that models can be used across teaching, research and administration under its own rules. It spans the GPUs and clusters that hold the weights, the inference servers that answer requests, the [[llm|gateway]] that meters and routes them, the model cards and audit logs that make the arrangement inspectable, the data pipelines that connect student records to models, and the staff who keep all of it running. It is not the same object as an [[edtech-platform|edtech platform]] (the learner-facing container) or [[governance|governance]] (the policy that constrains both).
@@ -135,29 +137,3 @@ Department heads can look past the chat window. Articulation, workload analytics
 **"Buying GPUs is the strategy."** Capacity without scheduling, quotas and support becomes a queue. The successful cases describe governance and operations at least as much as hardware.
 
 **"The AI problem is the chatbot."** Most institutional value described in this literature sits in articulation, workload analytics, tagging and assessment records, where no student ever opens a chat window.
-
-## Connected Concepts
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## Connected Articles
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT: a 300-user governed gateway with model cards and a \$500 monthly cap
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — Purdue: two campus inference services, 1000+ users, 10+ models, Ollama over vLLM
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN: control and serving split at the API boundary, with a load-tested proxy tier
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter: fair-share scheduling, quotas and energy accounting in an open-source gateway
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL: hybrid retrieval with a local model, passing the median latency target and missing p95
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — a school-scale SLM argument from primary education
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — the OECD chapter on articulation, workload analytics and assessment production
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI: six layers for connecting learning evidence
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat: an 8B model kept over larger candidates that failed a latency gate
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: a local reasoning model that removes the FERPA question rather than managing it
-- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy

@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -40,7 +41,3 @@ Undervisere på programmeringskurser, der vil have evidens for, at en studerende
 ## Noter og forbehold
 
 Alt kører i browseren: kurset ligger i local storage med en JSON-eksport, spørgsmål rejser i den del af et link, som browsere ikke sender til servere, og svar kommer kun tilbage som koder, de studerende selv vælger at sende, så ingen studerendedata når en tredjepart. Spørgsmålsgeneratoren er regelbaseret snarere end modeldrevet. Efter værktøjets egen beskrivelse er dets kodelæser heuristisk, så usædvanlig formatering eller makroer kan skjule en funktion, og en score kan belønne kendskab til vokabularet snarere end forståelse af koden, hvilket er grunden til, at scorer er forslag, en underviser godkender, og til at det råder til at holde indsatsen lav. Der er ikke offentliggjort nogen licens eller noget kilderepositorium, og fordi links bærer spørgsmålene, løber de op i nogle få kilobyte, langt nok til at ombryde i en beskedboks i et læringssystem.
-
-## Relaterede begreper
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

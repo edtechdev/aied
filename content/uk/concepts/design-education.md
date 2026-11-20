@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -71,47 +73,3 @@ ai_assist:
 - **«Студенти дизайну — захоплені впроваджувачі.»** Та сама когорта показує **71% тих, хто використовує GenAI щодня або щотижня, 65% тих, хто йому не довіряє, і 85% тих, хто змінює його результати**. Часте використання та низька довіра співіснують, тож інструмент, чия ціннісна пропозиція припускає довіру, неправильно прочитав користувачів.
 - **«GenAI загалом корисний упродовж усього дизайн-процесу.»** Платформа GAI-A, побудована в поздовжньому студійному дослідженні, виявила лише **два продуктивні використання**: GenAI як візуальний стимул у ранній генерації ідей і як **комбінаторний розширювач простору рішень упродовж розробки**. Корисність була специфічною для фази.
 - **«Творчі прирости надто розсіяні, щоб їх виміряти.»** У **підгрупі з 31 студента** оцінки творчого мислення зросли з **77.23 до 94.68 (d = 0.82)**. Приріст вимірюваний, і він обмежений підгрупою, що є чесною формою твердження.
-
-## Пов’язані поняття
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Пов’язані статті
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Експеримент з архітектурного дизайну, у якому робочий процес DALL-E 3 знизив загальну творчу самоефективність
-- [[human-ai-collaboration-design-education-rubric-2026]] — Рубрика процесу може зробити перевірку ШІ оцінюваним об’єктом
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Обізнаність про технологічний підрив ШІ, мисленнєва настанова дизайн-мислення та інноваційна компетентність серед студентів дизайну
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — Ставлення як необхідний шлюз до наміру студентів дизайну використовувати агентів ШІ, з відповідністю завданню й технології як другим шляхом (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Тип залежності вирішує, чи стає грамотність щодо підказок залученістю

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -111,56 +113,3 @@ ai_assist:
 - **"作弊框架足以思考 GenAI 伦理。"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等，2026]]主张机构应通过**伙伴伦理而非作弊框架**来决定生成式 AI 问题。框架决定提出哪些问题，而不当行为框架无法追问教育目的。
 - **"教师与学生对何为合乎伦理看法一致。"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç 与 Sever（2026）]]的一项对 **971 名学生与 135 名教师**的[[mixed-methods-research|混合方法]]研究发现，两组之间的伦理维度存在分歧。只从一方视角写出的政策会误述另一方。
 - **"伦理共识先于使用。"** **采纳快于伦理共识**：在一个美国师范教育项目的四个学期中，学生的 GenAI 使用**从 57% 升至 83%（备考）**。规范正由实践塑造，而非相反。
-
-## 关联概念
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — 人工智能使用与披露声明
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — 化学教育与人工智能：实验室、形成性评估、大语言模型的局限、实验哲学
-- [[biology-education]] — 生物教育与人工智能：实验室助教、生物学中的人工智能素养、批判性思维、专门工具
-- [[civic-and-political-education]]
-
-## 关联文章
-
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — AI 赋能课堂中的伦理觉察学习
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴伦理而非作弊框架指导机构的 GenAI 决策
-
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 在没有应对框架可教之处，伦理觉察放大了人工智能焦虑：584 名学生中的纯间接中介
-- [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信的基于学习分析的干预的使能者（Svetec, Divjak & Kadoić 2026）
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 学生如何在在线评估中使用与隐藏人工智能
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生的人工智能披露、污名与自我调节学习
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 披露的隐藏成本
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — 学生不遵守人工智能使用声明
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — 教师与学生对人工智能伦理维度的看法
-- [[ethical-use-ai-engineering-education-review-2026]] — 工程教育中合乎伦理的人工智能使用：一项系统综述
-- [[ai-ethics-education-public-discourse]] — 对教育中人工智能伦理公共话语的纵向分析
-- [[ethical-ai-higher-ed-game-theory]] — 高等教育中合乎伦理的人工智能使用的博弈论框架
-- [[cost-of-ethics-crisis-cs-ethics-education]] — 计算机科学学生求职中的伦理成本危机
-- [[xai-education-framework]] — 教育中的可解释人工智能（XAI-ED）
-- [[daoism-ai-education-philosophy-2026]] — 另一种人工智能哲学：作为教育中人工智能之方法的道家
-- [[hazra-safetutors-pedagogical-safety-2026]] — 人工智能导师安全与教学伤害
-- [[raffaghelli-situated-ai-ethics-2026]] — 情境化的人工智能伦理：教育的文化—历史框架
-- [[ethically-mediated-ai-tpack-china-2026]] — 人工智能伦理知识作为大学教师人工智能 TPACK 的整合性中介（Chen 等人 2026）
-- [[ai-ethics-bibliometric-2026]] — 人工智能伦理与专业判断：一项书目计量分析（Mazlan 等人 2026）
-- [[adarkwah-genai-unesco-policy-2026]] — 联合国教科文组织生成式人工智能政策框架分析
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — 教师使用人工智能进行学生反馈是否合乎伦理？
-- [[fekete-ethical-ai-literacy-gaps-2026]] — 弥合学生、教育者与政策之间的合乎伦理的人工智能素养差距
-- [[alharbi-ethical-genai-eap-2026]] — 英语学术用途中合乎伦理的生成式人工智能整合
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 可持续教育与人工智能的价值批判路径（Alsuhami & Atallah 2026）
-- [[ethical-conditions-llm-exam-preparation-2026]] — 备考中采用大语言模型的伦理条件（Pérez-Portabella 等人 2026）
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 师范教育中 GenAI 使用、伦理与政策的纵向研究（Parker 等人 2026）
-- [[agarwal-ethical-values-norms-aied-2026]] — 人工智能教育的伦理价值与规范
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁负责？一项关于生成式人工智能高等教育研究中能动性、认识论责任与问责的语料辅助话语分析
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 伦理觉察、反思与报告的负责任实践在三年的年度波次中大幅独立成长（Ayanwale 等
-- [[qi-information-ethics-ai-judgment-2026]] —— 信息伦理教育与大学生的人工智能伦理判断

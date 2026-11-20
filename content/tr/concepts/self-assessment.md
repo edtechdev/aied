@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -105,33 +107,3 @@ Ayrıca açıkça belirtmeye değer bir adlandırma tehlikesi getirir. **YZ öz 
 **“Bir YZ [[feedback|geri bildirim döngüsü]] eklemek öz değerlendirmeyi kendiliğinden iyileştirir.”** Bir geri bildirim döngüsü öğrencinin neye karşı karşılaştırma yaptığını değiştirir; bu kalibrasyonu iyileştirebilir ve öğrenciyi sistemin yargısına da bağlayabilir. Buradaki karşılaştırmalı çalışma (**118 birinci sınıf lisans öğrencisi, 56'sı üretken YZ grubunda ve 62'si akran grubunda**, bir dönem boyunca üç döngü) tam olarak işi döngünün mü yoksa toplumsal karşılaştırmanın mı yaptığını sınamak için tasarlanmıştır ve yanıt "döngü olduğu için döngü" değildir.
 
 **“Öz değerlendirme, sınavın daha yumuşak bir alternatifidir.”** Farklı bir hedeftir. Öz değerlendirme, kişinin kendi işini yargılama düzenleyici becerisini geliştirir; bir sınav ise yargılanan yetenekliliği ölçer. Birini diğerinin yerine koyan araştırma, performansı değerlendirme kapasitesini performansın kendisiyle karıştırır.
-
-## Bağlı kavramlar
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Bağlı makaleler
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Öz değerlendirmenin öz yönlendirmeli gelişim çerçevesinin merkezine yerleştirilmesi (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Gelişimsel olarak kademelendirilmiş YZ okuryazarlığı materyalleri, kabul ve geçerlilik ölçümüyle (2026)
-- [[chatgpt-critical-creative-thinking-review]] — YZ geri bildiriminin akran, öğretmen ve öz değerlendirmeyle üçgenlenmesi (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Geri bildirim neden modelin öz değerlendirmeli muhakeme geçerliliğine dayanmamalı (Yasir ve ark. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 4 ile 6. sınıflar için doğrulanmış 15 maddelik YZ okuryazarlığı öz değerlendirme anketi, çocuk öz bildiriminin üst bilişsel sınırlarıyla (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 öğretmen YZ okuryazarlığı aracının 31'i öz bildirim, ikisi bilgiyi nesnel olarak test ediyor, hiçbiri performans görevleri kullanmıyor (Zainal, Mohd Matore & Maat 2026)

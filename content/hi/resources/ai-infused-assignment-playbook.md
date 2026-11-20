@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -51,16 +52,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 ## टिप्पणियाँ और चेतावनियाँ
 
 यह एक व्यावहारिक मार्गदर्शिका है, कोई अनुभवजन्य अध्ययन नहीं; विद्यार्थियों के AI उपयोग के बारे में इसके दावे उद्धृत बाह्य स्रोतों (BestColleges, Campbell, Digital Education Council, Flaherty) पर टिके हैं, न कि नए डेटा पर। “नेटवर्क निर्माण” ढाँचा और “समझ के भ्रम” वाला फ़्रेमिंग व्यापक साहित्य (Wigmore et al.; Williamson et al.) से लिए गए हैं और इन्हें शैक्षणिक औचित्य के रूप में प्रस्तुत किया गया है, न कि प्लेबुक के परीक्षण परिणामों के रूप में। असाइनमेंट लिखित टेम्पलेट हैं — किसी में प्रभाव-आकार रिपोर्ट नहीं हैं, इसलिए इन्हें अनुकूलित और स्थानीय रूप से मूल्यांकित करने वाले डिज़ाइन माना जाना चाहिए। प्रकाशित 2026-10-07, v1, ज़ेनोडो पर CC BY 4.0 के तहत; बिना खाते के मुफ़्त डाउनलोड। इनजेशन के समय रिकॉर्ड में केवल ~35 व्यू और ~14 डाउनलोड हैं, इसलिए इसे अभी तक बाहरी उपयोग या सहकर्मी समीक्षा बहुत कम मिली है।
-
-## जुड़ी अवधारणाएँ
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

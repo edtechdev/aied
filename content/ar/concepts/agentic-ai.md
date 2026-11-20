@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -188,62 +190,3 @@ ai_assist:
 **«الأنظمة الوكيلية في التعليم مؤسَّسة تربويًّا لأن باحثين تربويين يبنونها.»** تقول الأدلة خلاف ذلك: وجدت مراجعة استقصائية أن **29% فقط من دراسات الذكاء الاصطناعي الوكيلي (138 من 474)** أسّست أنظمتها صراحةً على نظرية تعليمية. والانقسام التأديبي بين العمل الموجَّه تقنيًّا والعمل الموجَّه تربويًّا شرطٌ في الميدان لا سهوٌ من مؤلف فرد، لذا فالعرض التوضيحي الذي يعمل هو الناتج المتوقّع، والعرض التوضيحي الذي يعمل *للتعلّم* هو الحالة الأقلية.
 
 **«الوكيل الذي يخصّص التعلّم ويعمّقه مكسب صافٍ على روبوت الحوار.»** يحمل هذا مقايضة بعينها: فالأنظمة الوكيلية تهدّد [[agency|الفاعلية]] وتدعو إلى [[cognitive-offloading|التفريغ]] للجهد المعرفي الذي يتوقّف عليه التعلّم، وبإنجازها خطوات أكثر بلا إشراف تجعل ذلك التفريغ أصعب في الملاحظة. وتوتر الأتمتة مقابل التعلّم هو المشكلة التحليلية المركزية في هذه الفئة لا تحفّظًا يُلحق بمنافعها.
-
-## المفاهيم المتصلة
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## المقالات المتصلة
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — تصحيح وكيلي لـ60 امتحانًا مكتوبًا بخطّ اليد: r = .97 إجمالًا، وكابا يهبط إلى .65 في البنود التقويمية (AlGhamdi 2026)
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — وكلاء منظَّمون حول برنامج قدرة قابل للمراجعة، والمتعلّم عضو فيه
-- [[pramod-agentic-ai-motivational-pathways-2026]] — الاستقلالية والكفاءة والارتباط والحضور الاجتماعي كمسارات من الذكاء الاصطناعي الوكيلي إلى الانخراط (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — وكلاء الذكاء الاصطناعي والتقويم المبهج والمساحة الثالثة
-- [[ilieva-agentic-genai-higher-education-2026]] — إطار AGAI-HE: ذكاء اصطناعي توليدي وكيلي محدود ويخضع لإشراف بشري في التعليم العالي (Ilieva وآخرون 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — مراجعة تكاملية نقدية تقدّم إطار الأدلة/الإشراف AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — منظور عن منظومات الذكاء الاصطناعي الوكيلية متعددة الوكلاء الشاملة في التعليم العالي
-- [[baradziej-agentic-ai-higher-education-2026]] — مراجعة منهجية لأدوار الذكاء الاصطناعي الوكيلي في التعليم العالي (48 دراسة؛ ستة أدوار؛ إطار ثلاثي الأركان للإدماج المسؤول)
-- [[kostopoulos-agentic-ai-education-2025]] — الذكاء الاصطناعي الوكيلي في التعليم: حالة الفن والاتجاهات المستقبلية (مسح IEEE Access؛ تعريف تشغيلي + تصنيف)
-- [[agentic-ai-education-scoping-review]] — مراجعة استقصائية للذكاء الاصطناعي الوكيلي في التعليم (474 دراسة)
-- [[agentic-ai-pedagogical-best-practice-2026]] — التوتر بين الأتمتة والتعلّم
-- [[tool-invariant-framework-agentic-ai]] — تعليم الطرق الحاسوبية وتقويمها في عصر الذكاء الاصطناعي الوكيلي
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: قياس وكلاء التصميم التعليمي
-- [[adversarial-stress-testing-role-playing-agents]] — اختبار الإجهاد الخصومي لوكلاء لعب الأدوار
-- [[ai-agents-constructive-conflict-design-education-2026]] — وكلاء الصراع البنّاء في تعليم التصميم
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK المعلّم وسير عمل الوكلاء المتعددين
-- [[code-gen]] — وكلاء توليد الشيفرة
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — معيار قياس وكلاء النموذج اللغوي الكبير التربويين
-- [[guided-llm-scaffolding-independent-learning]] — سقالة موجَّهة بالنموذج اللغوي الكبير للتعلّم المستقل
-- [[learnmate2-llm-adaptive-learning]] — وكلاء التعلّم التكيّفي LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — وكلاء تعلّم الأمن السيبراني المُلعَّب
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — الذكاء الاصطناعي الوكيلي في المحاكاة السريرية
-- [[bozkurt-ghost-students-agentic-ai-2026]] — الطلاب الأشباح وفجوة التحقّق في الذكاء الاصطناعي الوكيلي (Bozkurt وآخرون 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — وكلاء الذكاء الاصطناعي يتمّون مهام أنظمة إدارة التعلّم؛ إخفاق الصدق عبر افتراض الإنتاج البشري (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — وكلاء الويب بالذكاء الاصطناعي: وكيل وصفي كمُقوّم لتجربة التعلّم (يتنبّأ بالتسرّب، ويقدّم تغذية راجعة للتصميم قبل مشاركة الطلاب)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD مع وكلاء الذكاء الاصطناعي في برمجيات قائمة على المشاريع؛ الأتمتة مقابل الفهم
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقويم نظام متعدد الوكلاء للنموذج اللغوي الكبير موجَّه بالسقالة لتدريب المقابلة السريرية
-- [[ethics-training-agents-group-ethics-discussion-2026]] — وكلاء تدريب الأخلاقيات: تيسير تعليم الأخلاقيات القائم على المجموعات بلعب الأدوار والمناقشة للتأمّل الأخلاقي والاستكشاف
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — مقارنة مقاربات الذكاء الاصطناعي لاستخراج المهارات آليًا: من التضمينات إلى الأنظمة الوكيلية في تعليم الهندسة (Nkrumah et al. 2026)

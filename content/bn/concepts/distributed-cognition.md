@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -74,33 +76,3 @@ Fowlin প্রমুখ (2026) সেই বণ্টনকে দুই-প�
 - **"একটি ভাগ করা নথি মানেই ভাগ করা সংজ্ঞান।"** **97 জন শিক্ষার্থীর** পরিমাণভিত্তিক প্রোফাইল **পূর্ব-জ্ঞান ও লেখকত্বে** ভিন্ন হলেও **সক্রিয়-ভূমিকা বা বোঝাপড়া-স্তরের প্রম্পটিংয়ে ভিন্ন নয়**। অংশগ্রহণের পরিমাণ মাপে উন্মোচন, সংজ্ঞানাত্মক কাজের বিতরণ নয় — তাই একটি সহযোগিতামূলক সরঞ্জামের [[learning-analytics|ব্যবহার-বিশ্লেষণ]] কে চিন্তা করছিল সে সম্পর্কে কমই বলে।
 - **"সবাই সমানভাবে এআই-তে অফলোড করে।"** নবীন শিক্ষকরা **নির্দেশনা-নকশার সংজ্ঞানাত্মক বোঝার একটি বড় অংশ এআই সিস্টেমকে অর্পণ করেন**, একটি **এআই-প্রধান বিতরণে** পৌঁছে যেখানে তাঁরা বেশিরভাগ প্রতিক্রিয়া গ্রহণ করেন, যেখানে অভিজ্ঞ ও এআই-জ্ঞানসম্পন্ন শিক্ষকরা ভিন্নভাবে বিতরণ করেন। বিশেষজ্ঞতা প্রকাশ পায় বোঝা কোথায় রাখা হচ্ছে তার মধ্যে, কেবল কতটা এআই ব্যবহৃত হচ্ছে তার মধ্যে নয়।
 - **"আরও এআই সম্পৃক্ততা মানে আরও সহায়তা।"** এআই-প্রধান বিতরণ হলো সেই ধরন যার প্রতি সতর্ক থাকতে হবে, কারণ মানুষের সংজ্ঞানাত্মক কাজের অংশ সঙ্কুচিত হয় আর ফলাফলের আয়তন বাড়ে। ব্যবহারকারী কম করছে ঠিক তখনই সিস্টেমটি আরও সক্ষম দেখাতে পারে।
-
-## সংযুক্ত ধারণা
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — বিতরণকৃত সংজ্ঞান ও সহ-নিয়ন্ত্রণ লেন্স দিয়ে মানুষ–এআই সহযোগিতামূলক সমস্যা-সমাধানের অভিজ্ঞতাভিত্তিক গবেষণা
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — শিক্ষাগত মধ্যস্থতাকারী হিসেবে এআই, যা মানুষ ও অ-মানব অভিনেতাদের মধ্যে সংজ্ঞান পুনর্বণ্টন করে
-- [[ai-cognitive-partner-co-regulation-learning]] — সহ-নিয়ন্ত্রিত চিন্তায় সংজ্ঞানাত্মক সঙ্গী হিসেবে এআই
-- [[ensemble-cognition-philosophy-ai-education]] — এনসেম্বল সংজ্ঞান কাঠামো, যা চিন্তাকে মানুষ–এআই মিথস্ক্রিয়া হিসেবে পুনর্ব্যাখ্যা করে
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — জৈবিক ও কৃত্রিম ব্যবস্থা জুড়ে বিতরণকৃত সংজ্ঞানসহ উত্তর-মানব শিক্ষার্থী
-- [[fowlin-operationalizing-learning-principles-ai]] — অভিজ্ঞতাভিত্তিক ও পরিস্থিতিশীল শিখনের পাশাপাশি বিতরণকৃত সংজ্ঞানের কার্যকরীকরণ
-- [[cognitive-commons-ai-expertise-regeneration]] — সংজ্ঞানাত্মক কমন্সের ট্র্যাজেডি: এআই ও বিশেষজ্ঞতার পুনরুৎপাদন
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — পাঠ-নকশায় শিক্ষক-এআই মিথস্ক্রিয়া: অভিজ্ঞতা ও দক্ষতা অনুসারে এআই-প্রধান বনাম পরিপূরক বিতরণকৃত সংজ্ঞান (Choi প্রমুখ 2026)
-- [[xu-genai-collaborative-space-2026]] — এজেন্ট ও সহযোগিতামূলক স্থান হিসেবে GenAI: প্রবেশ-বিন্যাস কীভাবে দলীয় সংজ্ঞান বিতরণ করে (Xu প্রমুখ 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — সংজ্ঞান বিতরণ কাঠামো: স্ব-নির্দেশিত ChatGPT ব্যবহার থেকে পাঁচ মিথস্ক্রিয়া-ধরন ও চার ভূমিকা
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI-র সঙ্গে ট্রান্সঅ্যাকটিভ স্মৃতি: শ্রম-বিভাজন ও প্রতিফলনমূলক রূপান্তর সমালোচনামূলক চিন্তায় মধ্যস্থতা করে (Akgun ও Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — কেন ব্যক্তিগত শিক্ষার্থীই বিশ্লেষণের ভুল একক
-- [[rivera-novoa-genai-extended-cognition-2026]] — বিজ্ঞান শিখনে প্রসারিত সংজ্ঞান: GenAI ডিফল্টে প্রতিস্থাপনমূলক, নকশায় পরিপূরক (Rivera-Novoa ও Duarte Arias 2026)

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -78,30 +80,3 @@ La IBD es el método característico de las [[learning-sciences|ciencias del apr
 **«Como la IBD produce un artefacto que funciona, ha demostrado eficacia.»** Un diseño que funciona donde se coprodujo ha demostrado viabilidad local, lo que es una afirmación distinta de la eficacia. El artefacto lleva consigo las adaptaciones hechas para ese contexto, y transferirlo transfiere supuestos que nunca se declararon como supuestos.
 
 **«Tratar un instrumento como un artefacto de diseño revisable se aparta de la IBD.»** Es el carácter iterativo de la IBD aplicado a la medición y no a la intervención: un estudio trató la propia rúbrica como artefacto y alternó el correfinamiento con un [[llm|LLM]]. Esa extensión merece señalarse porque convierte el desarrollo del propio instrumento en parte de la evidencia.
-
-## Conceptos conectados
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Artículos conectados
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — IBD para un modelo de aprendizaje colaborativo asistido por IA
-- [[genai-literacy-training-teacher-education-dbr-2026]] — IBD para la formación en alfabetización en IA en la formación docente
-- [[crompton-faculty-technology-integration-standards-2026]] — IBD para estándares de integración tecnológica del profesorado
-- [[human-centered-ai-teacher-educators-2026]] — IA centrada en las personas para formadores de docentes (IBD)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Seis estudios de IBD que implementan AIDA en la Open University
-- [[critical-thinking-genai-scaffolding]] — IBD para el andamiaje de pensamiento crítico con IA generativa
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — IBD para un currículo de alfabetización en IA integrado en ciencias (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): currículo de alfabetización en IA centrado en el juego para preescolar y jardín de infancia (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo

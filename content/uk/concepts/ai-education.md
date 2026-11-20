@@ -34,6 +34,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -194,54 +196,3 @@ ai_assist:
 **«Оскільки ШІ загального призначення, знахідка будь-де діє всюди».** Загальність технології не створює загальності доказів. Напрями дисципліни, рівня й контексту існують тому, що той самий інструмент поводиться в них по-різному, а незмінена знахідка, перенесена через межу, є екстраполяцією.
 
 **«Зрілість галузі можна прочитати з обсягу публікацій».** Обсяг і зрілість розходяться; напрям методів дослідження документує повторювані вади дизайну, яких обсяг не виправляє, а рамки розмножуються швидше, ніж їх перевіряють.
-
-## Пов’язані поняття
-- [[primary-education]] — ШІ в початковій освіті
-- [[secondary-education]] — ШІ в середній і старшій школі
-- [[undergraduate-education]] — ШІ в навчанні на бакалавраті
-- [[graduate-education]] — ШІ в магістерському й докторському навчанні
-- [[pedagogical-patterns]] — Перевірені послідовності, що операціоналізують педагогіки галузі
-- [[ai-literacy]] — зонтик: розуміння, використання й оцінювання ШІ
-- [[automation-bias]] — збій на боці читача: прийняття автоматизованого судження без перевірки
-- [[human-ai-collaboration]] — зонтик: як люди і ШІ працюють разом
-- [[pedagogy]] — зонтик: методи й стратегії викладання
-- [[case-based-learning]] — Метод кейсів, обговорення кейсів і контрастні кейси
-- [[metaphors-and-analogies]] — Як метафора формує розуміння ШІ, а аналогія підтримує навчання
-- [[learning-theories]] — зонтик: як відбувається навчання
-- [[ai-technologies]] — зонтик: моделі, методи й системи
-- [[discipline-specific-aied]] — зонтик: ШІ в предметних областях і на рівнях
-- [[assessment]] — зонтик: як ШІ оцінює здобувачів і перекроює валідність
-- [[feedback]] — зонтик: як генерують, доставляють і використовують зворотний зв’язок
-- [[stakeholders]] — зонтик: хто є акторами
-- [[learners]] — зонтик: поняття на боці здобувачів (досвід, ідентичність, агентність, взаємодія, моделі здобувача)
-- [[ai-ed-evaluation]] — зонтик: як ми знаємо, чи працює ШІ
-- [[research-methods-aied]] — зонтик: методи дослідження ефективності
-- [[ai-assisted-educational-research]] — Дослідження освіти за підтримки ШІ
-- [[governance]] — зонтик: інституційний і регуляторний шар
-- [[educational-policy-ai]] — зонтик: політика, настанови й упровадження
-- [[equity-in-ai-education]] — зонтик: справедливість, доступ і інклюзія
-- [[learning-sciences]] — емпірична галузь за AIED
-- [[ethics]] — етичні виміри ШІ в освіті
-- [[misconceptions]] — ментальні моделі, з якими люди приходять до ШІ
-- [[interpreting-and-applying-aied-research]] — читання дослідження й перенесення знахідки в практику
-- [[limitations-in-aied-research]] — наскрізні межі бази доказів
-- [[meta-analysis-systematic-review]] — що встановлюють огляди й метааналізи
-- [[history-of-aied]] — як еволюціонувала галузь
-- [[philosophy-of-ai-in-education]] — філософські основи
-- [[theories-and-frameworks]] — карта вузлів теорії та фреймворків
-- [[theory-development-aied]] — побудова й перегляд теорії
-- [[sensor-and-gaze-analytics]] — зонтик: сенсорне сприйняття здобувачів через погляд, ЕЕГ і носимі сигнали
-- [[ai-avatars-and-synthetic-instructors]] — зонтик: синтетичні люди, що навчають, тьюторять, симулюють і оцінюють
-- [[civic-and-political-education]] — предметна область: грамотність для публічного життя з тонкою базою доказів
-
-## Пов’язані статті
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — Систематичний огляд GenAI в середній освіті: 33 дослідження, де здобутки залежали від порівняння результату, а не від його отримання
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — Чинники готовності аспірантів до досліджень досягають самоефективності через підтримку керівника, а не через використання інструментів
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — GenAI в докторському керівництві: легітимність залежить від завдання, розкриття пропорційне значущості, врядування на контрольних точках
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Аспірантський семінар: делегована, а не віддана агентність, коли результат ШІ перевіряє обізнаний посередник
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Частота використання — неправильна метрика: етика й саморегуляція забирають її прогностичну силу (Zaripova et al., 2026)

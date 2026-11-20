@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -91,35 +93,3 @@ ai_assist:
 - **"현실적인 사례는 스스로 가르칩니다."** 현실성은 맥락을 공급합니다. 질문, 비교, 정당화 과제가 학습을 공급합니다.
 - **"AI가 생성한 사례는 바로 사용할 수 있습니다."** 생성된 사례는 유창하고 그럴듯하면서도 틀릴 수 있습니다. 전문가 검토와 그 사례가 초대하는 추론에 대한 확인이 필요합니다.
 - **"학생들이 토론을 즐겼다면 사례가 성공한 것입니다."** 참여는 전이가 아닙니다. 결과는 학생들이 이전에 완수할 수 없었던 과제에서 측정되어야 합니다.
-
-## 연결된 개념
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — 근거 기반 LLM이 다섯 개의 수술 전후 사례를 조작 없이 유지했습니다
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT가 측정된 품질 차이 없이 간호 사례 제작 시간을 줄였습니다
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI 기반 PBL/CBL에 관한 무작위 시험 6건, 그중 CBL을 시험한 것은 2건
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI 강좌에서 대조 사례로 진행한 교사 모델링
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 가상 및 시뮬레이션 환자와 나란히 놓인 사례 기반 학습
-- [[genai-medical-education-transformation-review-2026]] — 고찰의 응용 범주 가운데 하나로서의 사례 기반 학습과 임상 추론
-- [[hardie-genai-nursing-scoping-review-2026]] — 간호 고찰의 시뮬레이션 주제 안에 놓인 사례 기반 학습
-- [[lorteau-sarro-ai-legal-education-2025]] — AI는 소크라테스식 교수와 법률 시뮬레이션을 보완합니다
-- [[csaszar-ai-management-education-2026]] — 사례 방법 분석 없이 다룬 경영 교육의 사례 연구와 시뮬레이션
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 윤리 교육은 효과가 있습니다(g = 0.55). 다만 토론 기반 전달은 효과가 있고 강의만 있는 전달은 효과가 없습니다

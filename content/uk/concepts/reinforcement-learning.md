@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -67,29 +69,3 @@ RL лежить в основі багато що в сучасному диза
 **«Довші горизонти просто кращі».** Вони уможливлюють те, чого коротші горизонти не можуть, і вимагають, щоб винагорода була правильною впродовж усієї послідовності. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] оптимізує цілі **60-ходові клінічні зустрічі**, далеко поза горизонтами ≤12 ходів паралельних діалогових систем, що підвищує ціну хибно специфікованої цілі, а не знижує її.
 
 **«RL є належним формалізмом для репетиторства, бо викладання є послідовним».** Послідовність необхідна, але не достатня; зв’язувальним обмеженням є валідність винагороди. Добре специфікована ціль із слабкою політикою переважає сильну політику проти хибної цілі.
-
-## Пов’язані поняття
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Парасолька: технології та методи ШІ (моделі, тренування LLM, робототехніка, RAG, агенти)
-
-## Пов’язані статті
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF для педагогічного дотримання інструкцій
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивний скаффолдинг ICAP в ITS (BKT проти DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

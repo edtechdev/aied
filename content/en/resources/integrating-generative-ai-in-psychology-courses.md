@@ -18,6 +18,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 A free edited volume from the Society for the Teaching of Psychology (2026, ISBN 978-1-941804-82-7) that organizes generative AI course by course rather than tool by tool. Psychology supplies the respondents to many AI-use surveys without being their subject; this book is the counter-case, with 21 course chapters plus an introduction and a conclusion across 255 pages.
@@ -86,9 +87,3 @@ Psychology instructors at any career stage, and instructors in adjacent [[social
 ## Notes and caveats
 
 Free PDF, no account. The copyright is STP's, not a Creative Commons license: personal and classroom copies are permitted with attribution, while redistribution or commercial use needs the author's permission. Chapters are practitioner accounts, not studies — no designs, samples or effect sizes — so treat claims as experience reports and cite chapters individually.
-
-## Connected Concepts
-
-- [[social-sciences-education]] — the cluster page whose psychology section this volume fills with course-level practice
-- [[ai-literacy]] — the developmental framing the editors give the collection
-- [[academic-integrity]] — the policy chapter's subject, and why several course chapters build in verification steps

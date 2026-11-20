@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -119,51 +121,3 @@ ai_assist:
 **“理论越多，领域就被理解得越好。”** 没有裁定的积累是进步的反面。为 AI 时代提出的理论，增殖快于它们被检验的速度；成熟的标志是相互竞争的预测被解决，这需要能区分它们的设计，而不是能容纳它们的目录。
 
 **“关于 AI 的教育与教育中的 AI，在理论上是同一件事。”** 它们取材于不同的脉络：一个问学习者如何把 AI 理解为一门学科，另一个问 AI 如何改变学习发生的方式。把两者混同，会产生混淆两个不同证据基础的文献综述，对两者都报告不出连贯的图景。
-
-## 关联概念
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — 总括：人工智能教育中的教学法与教学策略
-
-## 关联文章
-
-- [[yan-agentivism-learning-theory-ai-2026]] — 一个面向人机交互的中层学习理论，含四种机制与六个可检验命题（Yan 与 Gašević，2026）
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学生知道何时克制行动之前就停止练习（An、McLaren 与 Stamper，2026）
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)：混合系统中的 AI 增强探究与调节
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — 把人机共同调节中的人工智能定位为认知伙伴；贯穿一生的发展性框架
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition：把思维重新概念化为人机互动的哲学框架
-- [[self-directed-growth-generative-ai-learning-analytics]] — 自主成长与用生成式人工智能扩展自主学习的 A2PL 模型
-- [[generativism-learning-theory]] — 为生成式人工智能时代提出一种新学习理论，重审经典四种
-- [[ai-vocational-education-training-review]] — 记录了人工智能用于职业教育中的建构主义/行为主义理论–实践缺口
-- [[genai-educational-outcomes-meta-analysis]] — 53 项研究的 PRISMA 元分析：在成就、思维、写作与动机上的汇总增益，反馈是最大机制（Dong 2026）
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent：作为中介智能体的生成式 AI
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持有成效失败（productive-failure）学习的人工智能系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure：为生产性失败而作的 LLM 教学法引导
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning：先给线索再纠正：ChatGPT 用于自主语言学习
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — 生成式人工智能整合与学习理论谱系上的教学实践：一项系统综述

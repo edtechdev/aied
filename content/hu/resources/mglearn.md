@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -44,7 +45,3 @@ K–12-es tanároknak és az őket képző szakmai fejlesztőknek szól, a tevé
 ## Megjegyzések és fenntartások
 
 A tartalom CC BY-NC 4.0, a mögötte álló kód MIT licenc alatt áll: az osztálytermi használat, a helyi hosztolás és az adaptálás jóváírással megengedett, az anyagok eladása vagy fizetős képzésbe csomagolása viszont a TCEA írásos engedélyét igényli. Más szerzők munkái kimaradnak a licencből, az irodalmi tevékenységek pedig nem másolnak szöveget szerzői joggal védett művekből. A projekt szerint a tartalom és a fordítások generatív MI-vel, szerkesztői felülvizsgálat mellett készültek, és a fordítások gépi támogatásúak, amelyeket az osztálytermi használat előtt helyi pedagógus felülvizsgálatára jelölnek meg – ezt érdemes komolyan venni, mielőtt egy tankerület nagy léptékben átveszi őket. Minden tevékenység a diák böngészőjében fut, bejelentkezés és adatgyűjtés nélkül.
-
-## Kapcsolódó fogalmak
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -87,35 +89,3 @@ Filosofia IA în educație și [[theory-development-aied|dezvoltarea teoriei în
 
 - Enunță concepția despre învățare pe care o presupune evaluarea ta, pentru că un câștig măsurat este un bine educațional doar în raport cu o anumită descriere a scopului educației.
 - Finanțează munca filosofică alături de cea empirică: întrebările despre ce contează ca realizare a învățăcelului stabilesc criteriile de succes pe care le folosesc apoi studiile empirice.
-
-## Concepte conectate
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Educația chimiei și IA: laboratoare, evaluare formativă, limitele LLM, filosofia experimentării
-
-## Articole conectate
-
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI în învățământul superior chinez: integritate și implicare
-- [[ensemble-cognition-philosophy-ai-education]] — Cogniția de ansamblu: un cadru filosofic pentru cogniția om–IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbioza pedagogică și învățăcelul post-uman
-- [[videla-embodied-ai-education-choreography]] — Critică întrupării și post-cognitivistă a IA dezîntrupate în educație
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Model dezvoltativ-critic al cogniției interpretative în științele umaniste
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Co-agenția epistemică ca filosofie a învățării cu mașini
-- [[avraamidou-ai-colonization-science-education]] — Filosofie critic-feministă care chestionează colonizarea educației de către IA
-- [[generative-ai-mediational-agent-sociocultural-2026]] — IA generativă ca agent mediational
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Încadrare ecologică din științele învățării pentru GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filosofia experimentării în chimie cu IA
-- [[strydom-human-gai-paradigms-2026]] — Încadrarea dinamicii om–IA: șapte paradigme de implicare cu GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Filosofie alternativă a IA: daoismul ca metodă pentru IA în educație
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Cine acționează, cine știe, cine răspunde? O analiză de discurs asistată de corpus asupra agenției, responsabilității epistemice și răspunderii în cercetarea despre IA generativă în învățământul superior
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIED „centrată pe om” citită ca discurs antropocentric cu utilizări comerciale (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Pot mașinile presta muncă emoțională? Dezbaterea din 1950–1996 și de ce mimarea subdetermină grija

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -44,7 +45,3 @@ Se on suunnattu K–12-opettajille ja heitä kouluttaville ammatillisille kehitt
 ## Huomioita ja varauksia
 
 Sisältö on lisensoitu CC BY-NC 4.0 -lisenssillä ja taustalla oleva koodi MIT:llä: luokkahuonekäyttö, paikallinen isännöinti ja mukauttaminen ovat sallittuja maininnalla, kun taas materiaalien myyminen tai niiden paketoiminen maksulliseen koulutukseen vaatii TCEA:n kirjallisen luvan. Muiden tekemät työt on rajattu lisenssin ulkopuolelle, eivätkä kirjallisuusaktiviteetit toista tekstiä tekijänoikeuden alaisista teoksista. Projekti ilmoittaa, että sisältö ja käännökset on tuotettu generatiivisella tekoälyllä toimituksellisen tarkastuksen alaisena ja että käännökset ovat koneavusteisia ja merkitty paikallisen kasvattajan tarkastettaviksi ennen luokkahuonekäyttöä – mikä kannattaa ottaa vakavasti ennen kuin koulupiiri ottaa ne käyttöön laajasti. Jokainen aktiviteetti toimii opiskelijan selaimessa ilman kirjautumisia ja ilman tiedonkeruuta.
-
-## Liittyvät käsitteet
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -71,34 +73,3 @@ ai_assist:
 - **"[[usability-research|דירוגי שמישות]] מאמתים כלי מסייע."** פרקטיקנים נתנו לכלי Social Story שעיצבו-בשותפות מעבר שמישות (SUS 86.8) תוך שהם מוצאים פגם בדימויו המערבי-מדף ובמעקב התנהגות שהחמיץ שיפוט קליני מקושר-מטרה. שמישות גבוהה התקיימה לצד כשלים מהותיים, ולכן ציון SUS אינו אישור להתאמה.
 - **"בנצ'מרקים גנריים מספרים כיצד חונך מתמודד עם מקרי חינוך מיוחד."** מתוך **923 דיאלוגים מעוגני-מקרים** שנלקחו מספרות החינוך המיוחד והפסיכולוגיה החינוכית, **הטוב מבין 11 מודלים** סיפק קריטריון מתועד — ו**זו הקצה של מה שבנצ'מרק לחונכות מכסה**. הערכות סטנדרטיות אינן מגיעות למקרים שבהם פרקטיקנים זקוקים לעזרה ביותר.
 - **"לומדים נוירו-מגוונים זקוקים להתאמות, לא לדרישות עיצוב."** [[neurodivergent-computing-students|Zastudil et al.]] מצאו שסטודנטים נוירו-מגוונים במחשוב זקוקים ל**מטלות מובנות, לצוותים קטנים ועקביים ולהגדרות תפקיד מפורשות** — דרישות עיצוב כלליות שמועילות לכולם, ולא התאמות אישיות הניתנות לאחר אבחון.
-
-## מושגים מחוברים
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## מאמרים מחוברים
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: הערכת חונכי LLM על סטודנטים עם התנהגויות מאתגרות (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — מודל חזותי-לשוני מתכנן משימות קופסת נעליים לרובוט Nao (Kudláčková 2026)

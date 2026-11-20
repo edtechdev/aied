@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -80,31 +82,3 @@ PBL inaunganisha na [[active-learning]], [[experiential-learning]], [[collaborat
 
 - Ugunduzi wa udhibiti ni onyo la bidhaa: kuingiza chatbot kwa uhandisi katika mazingira maalum kuliambatana na athari iliyokusanywa *ndogo zaidi*. Thibitisha kuwa ubinafsishaji unaongeza thamani ya kujifunza badala ya urahisi unaodhaniwa.
 - Ukitoa moduli ya PBL, tabaka la maagizo ndilo kipengele kinachostahili matokeo, si mfano.
-
-## Dhana Zilizounganishwa
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Paa: mbinu za kieledu na mbinu za kufundisha katika elimu ya AI
-- [[arts-and-media-education]]
-
-## Makala Zilizounganishwa
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Kujifunza kwa msingi wa matatizo na kwa msingi wa mradi kama miundo ya matumaini kwa elimu inayosaidiwa na akili bandia ya kizalishaji: Ushahidi unaoibuka kutoka mapitio ya kimfumo na meta-analysis ya viwango vitatu
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots na Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Elimu ya Robotiki ya Mchezo na ya Gamified
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Mafunzo ya Ujuzi wa AI kwa Walimu
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotiki na AI katika Elimu
-- [[educational-robotics-pathways-2026]] — Njia za Kujifunza Robotiki ya Kielimu Inayoendeshwa na AI (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL ni mbinu ya kufundisha ya CT inayotawala
-- [[creative-project-approach-ai-early-childhood-2025]] — Mbinu ya Mradi ya Ubunifu: mawakala wa AI na robotiki ndani ya Mbinu ya Mradi katika utotoni (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD na mawakala wa AI katika PBL ya programu ya timu
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: studio ya kubuni ya VR ya kuvizia yenye wakala wa kufundisha wa kuingizwa, iliyotathminiwa dhidi ya PBL ya jadi (Jin na wenzake 2026)

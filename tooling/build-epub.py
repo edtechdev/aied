@@ -264,6 +264,28 @@ def _ui_label(key, default):
 CONNECTED_FAQS_LABEL = _ui_label('connected_faqs', 'Connected FAQs')
 CONNECTED_RESOURCES_LABEL = _ui_label('connected_resources', 'Connected Resources')
 
+
+def _connected_heading(kind):
+    """Localized Connected Concepts/Articles heading from src/i18n/sectionHeadings.ts.
+
+    These lists moved from body sections to frontmatter facets (2026-11-19); the book
+    renders them from the facet and must use the same heading the site renders."""
+    default = 'Connected Concepts' if kind == 'connectedConcepts' else 'Connected Articles'
+    if IS_DEFAULT:
+        return default
+    try:
+        with open(os.path.join(WIKI, 'src', 'i18n', 'sectionHeadings.ts'),
+                  encoding='utf-8') as fh:
+            txt = fh.read()
+    except FileNotFoundError:
+        return default
+    m = re.search(rf"\b{re.escape(LOCALE)}:\s*{{[^}}]*{kind}:\s*'((?:[^'\\]|\\.)*)'", txt)
+    return m.group(1).replace("\\'", "'") if m else default
+
+
+CONNECTED_CONCEPTS_LABEL = _connected_heading('connectedConcepts')
+CONNECTED_ARTICLES_LABEL = _connected_heading('connectedArticles')
+
 CONCEPTS_DIR = str(content_paths.collection('concepts', LOCALE))
 FAQS_DIR = str(content_paths.collection('faqs', LOCALE))
 RESOURCES_DIR = str(content_paths.collection('resources', LOCALE))
@@ -433,6 +455,29 @@ def process_md(path, slug, hlevel):
         lines = ['\n## ' + CONNECTED_FAQS_LABEL + '\n']
         for t in connected:
             lines.append(f'- [{PAGE_TITLES.get(t, smart_title(t.replace("-", " ")))}](#{t})')
+        body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
+
+    # Connected Concepts / Articles (frontmatter facets, 2026-11-19 migration from body
+    # sections). Concepts anchor to their chapter when the edition holds them; articles
+    # are not EPUB chapters, so they link out to the live site.
+    ccm = re.search(r'^connected_concepts:\s*\[(.*?)\]', fm, re.M)
+    cconcepts = [t.strip() for t in ccm.group(1).split(',') if t.strip()] if ccm else []
+    if cconcepts:
+        lines = ['\n## ' + CONNECTED_CONCEPTS_LABEL + '\n']
+        for t in cconcepts:
+            label = PAGE_TITLES.get(t, smart_title(t.replace('-', ' ')))
+            if IS_DEFAULT or t in concept_slugs:
+                lines.append(f'- [{label}](#{t})')
+            else:
+                lines.append(f'- [{label}]({ORIGIN}/aied/concepts/{t}/)')
+        body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
+    cam = re.search(r'^connected_articles:\s*\[(.*?)\]', fm, re.M)
+    carticles = [t.strip() for t in cam.group(1).split(',') if t.strip()] if cam else []
+    if carticles:
+        lines = ['\n## ' + CONNECTED_ARTICLES_LABEL + '\n']
+        for t in carticles:
+            label = PAGE_TITLES.get(t, smart_title(t.replace('-', ' ')))
+            lines.append(f'- [{label}]({ORIGIN}/aied/articles/{t}/)')
         body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
 
     # Some concept pages contain stray empty heading lines (just '#' with no

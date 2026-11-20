@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -47,7 +48,3 @@ Nauczyciele i studenci, którzy potrzebują narzędzia szybko i nie mogą czeka�
 ## Uwagi
 
 Serwis produktu nie wymienia żadnego autora i kieruje zapytania do skrzynki projektu; DrawSplat zbudował Miguel Guhlin, którego serwis dokumentuje jego premiery. Kod jest wolny w sensie licencji, nie tylko ceny: tablica jest na GNU AGPL-3.0-or-later, a aplikacje SplatWorks na GPL-3.0-only, bez licencji na stanowisko na urządzeniach studentów. Narzędzia czytające pliki działają lokalnie w przeglądarce, natomiast zapis w chmurze i wszelkie prośby o rozwój zawodowy wysyłają dane, więc przed użyciem z pracą studentów warto sprawdzić stronę z inwentarzem przechowywania.
-
-## Powiązane pojęcia
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

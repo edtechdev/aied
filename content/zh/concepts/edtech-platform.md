@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -109,52 +111,3 @@ ai_assist:
 **“开源与专有只是一个许可细节，不影响结果。”** 平台模式塑造了机构能用该系统做什么：像 OATutor 这样的 [[open-source|开源]] 平台（一个 MIT 许可的自适应辅导工具，配有知识共享的代数内容库、[[knowledge-tracing|知识追踪]] 掌握估计与内建的 A/B 测试）让一个院系能够为自己的[[pedagogy|教学法]]做测量与修改，而封闭平台不能。许可决定了谁可以做这个实验。
 
 **“在一个机构有效的平台，被采用后也会有效。”** 平台效应经由本地治理起作用：隐私优先的架构、数据最小化、可审计的日志与基于角色的访问，才是让一个 AI 集成的平台能够被部署的东西，而它们是机构决定，而不是你能从厂商演示中推断出来的功能。
-
-## 关联概念
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## 关联文章
-- [[typology-generative-ai-tools-education-2026]] — 211名教育者报告使用什么：九类中的50种工具
-- [[making-ai-tutoring-productive-mastery-math-2026]] — 让AI辅导有成效：基于掌握的数学练习
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 一键之遥：Khanmigo 的两年学校实验
-- [[access-not-enough-ai-tutoring-2026]] — 采用与投入是AI辅导平台的绑定约束
-- [[oatutor-open-source-adaptive-tutor-2023]] — 用于可复现研究的开源适应性辅导平台
-- [[mooc-to-maic]] — 从MOOC走向LLM驱动的多智能体AI课堂
-- [[ai-lms-middle-school-longitudinal]] — 面向初中、支持有界且隐私优先的AI集成LMS
-- [[taklif-ai-interest-based-personalized-assignments]] — 基于兴趣的个性化作业平台
-- [[edusim-llm-robotic-simulation-education-2026]] — 面向教育的LLM-机器人模拟平台
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — 高等教育中的生成式社交机器人教学平台
-- [[hypergamification-game-engine-lms]] — 集成游戏化的游戏引擎式LMS
-- [[edtech-design-time-generative-ui]] — 为生成式UI设计教育技术
-- [[lata-ferpa-compliant-local-llm-autograder]] — 符合FERPA的本地LLM自动评分器平台
-- [[vismatic-secure-sandbox-cs-education]] — 面向CS教育的安全沙箱平台
-- [[learnmate2-llm-adaptive-learning]] — LLM驱动的个性化自适应学习平台
-- [[privacy-aware-classroom-incident-recognition-2026]] — 课堂平台中的隐私感知计算机视觉
-- [[raza-farooq-aied-review-2020-2025]] — AIED研究与系统的综合综述
-- [[credentials-carry-evidence-ai-agents-2026]] — 为其AI智能体工作携带证据的凭证
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — “We'll Fix It Later”：教育、AI 与 EdTech 中学生隐私的延迟
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性检查

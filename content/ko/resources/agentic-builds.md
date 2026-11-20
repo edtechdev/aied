@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -42,7 +43,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 빌드는 공개적으로 공유된다고 설명되지만, 빌드나 갤러리 페이지에 라이선스가 명시되어 있지 않으므로 재사용에는 허여된 것으로 가정할 수 있는 권리가 아니라 저자의 허락이 필요합니다. 다만 소스는 공개되어 있습니다. 계정의 저장소에 빌드 뒤의 HTML과 JavaScript, 그리고 교육에서 코딩 에이전트를 다루는 튜토리얼이 있어서, 독자는 앱을 실행만 하는 것이 아니라 들여다볼 수 있습니다. 여러 링크가 프로젝트 사이트가 아니라 Netlify 배포 미리보기 주소를 가리킵니다. 그것들은 검토용으로 만들어져 만료될 수 있으며, GitHub Pages 빌드가 안정적인 쪽입니다. 일부 빌드는 TypeSafe AI의 Jev 모델에 의존하며 그 확률을 보여 주므로, 기반 동작은 고정된 규칙이 아니라 모델의 판단입니다. 바람직한 어려움 경로는 하나의 논증, 즉 마찰을 기능으로 본다는 관점이며, 이 페이지는 학생이 더 배우는지에 대한 평가를 보고하지 않은 채 그 논증을 제시합니다.
-
-## 연결된 개념
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

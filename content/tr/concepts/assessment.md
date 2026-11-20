@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -100,55 +102,3 @@ Bu literatürdeki bir öneri, çerçeve içinde yeniden tasarımın ötesine ge�
 - **“Dürüstlük esas olarak bir tespit sorunudur.”** **26 öğrenciyle yapılan geri kaydırma görüşmeleri**, öğrencilerin GenAI ile değerlendirmede bir **yelpaze** boyunca yargıda bulunduğunu ve **157 öğrenci** boyunca GenAI’nin *nasıl* kullanıldığının (**anlamayı desteklemek için değerlendirici bütünleştirme karşı** ikame) sonucu öngördüğünü gösterir. Kullanımın kipi, öğrencileri kullanımın varlığından daha keskin biçimde ayırır.
 - **“Hile riski ana dili İngilizce olmayan konuşmacılardadır.”** **25 çalışmayı kapsayan bir PRISMA derlemesi**, tespit tartışmasının dışarıda bıraktığı bir risk etkeni ekler: ana dili İngilizce olmayan konuşmacılar, dil talebiyle zorlandıklarında **dürüstlüğü ihlal etme eğilimi göstermiştir**. Bu, dürüstlük sorunu olarak yanlış okunan bir dil desteği sorunudur.
 - **“GenAI’yi yasaklayan bir politika soruyu kapatır.”** Öğrenciler kural izleme örüntüsü değil bir yargı yelpazesi bildirmektedir; bu nedenle öğrencilerin hâlihazırda yürüttüğü değerlendirici akıl yürütmeyi hesaba katmayan bir kural tutarlı biçimde izlenmeyecektir.
-
-## Bağlı kavramlar
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramların şemsiyesi
-- [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
-- [[formative-assessment]] — Biçimlendirici değerlendirme: ölçekte YZ tarafından üretilen, doğrulanan, uyarlanan maddeler
-- [[automated-assessment]] — Değerlendirme kipleri boyunca otomatik not verme ve puanlama
-- [[authentic-assessment]] — Süreç temelli, YZ dirençli özgün görevler
-- [[assessment-validity]] — Üretken YZ altında değerlendirmelerin geçerliliği
-- [[educational-measurement]] — YZ değerlendirmesini besleyen ölçme kuramı
-- [[automated-essay-scoring]] — Otomatik kompozisyon puanlama
-- [[automated-question-generation]] — Otomatik soru üretimi
-- [[oral-assessment]] — Sözlü değerlendirme: YZ yerine geçmesine direnen canlı ve kayıtlı biçimler
-- [[summative-assessment]] — Toplu değerlendirme: YZ dirençli biçimler (sözlü, gözetimli, kapalı kitap sınavları)
-- [[item-response-theory]] — YZ çağı değerlendirme yanıtlarını yorumlamak için IRT
-- [[psychometrically-aware-ai]] — Psikometrik olarak duyarlı YZ puanlaması
-- [[learning-analytics]] — Değerlendirme verilerini öğrenmeye bağlayan analitik
-- [[feedback]] — Değerlendirme-öğrenme döngüsünü kapatan geri bildirim döngüleri
-- [[feedback-literacy]] — Öğrenen geri bildirim okuryazarlığı
-- [[academic-integrity]] — Dürüstlük ve YZ tespiti tartışması
-- [[ai-detection]] — YZ tarafından üretilmiş metni tespit etmek
-- [[ai-ed-evaluation]] — Otomatik değerlendiricileri değerlendirmek için yöntemler ve kıyas ölçütleri
-- [[eportfolio]] — Süreç temelli e-portfolyo değerlendirmesi
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Bağlı makaleler
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Çok kipli değerlendirme okuryazarlığını tanımlayan ve neyin değişip neyin değişmediğini ölçen bir yıllık program
-- [[ai-agents-joyful-assessment-third-space-2026]] — YZ ajanları, neşeli değerlendirme ve üçüncü uzay
-- [[mccorkle-aligned-genai-course-policy-2025]] — Değerlendirilenden türetilen görev düzeyinde YZ izinleri (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Proje kalite düzeyleri boyunca ChatGPT, akran ve öğretmen not vermesini karşılaştırmak (Usher ve Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — YZ çağında sorumlu değerlendirme
-- [[beyond-detection-authentic-assessment-ai-2025]] — Tespitin ötesinde: özgün değerlendirme
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Ortak yazarlık dürüstlüğü ve değerlendirme geçerliliği
-- [[competency-based-education-genai-production-2026]] — Üretken YZ’den sonra yetkinlik temelli eğitim
-- [[genai-assessment-governance]] — Değerlendirmede üretken YZ’nin kanıt merkezli yönetişimi
-- [[ssaho-ai-academic-integrity-review-2025]] — YZ dürüstlük derlemesi: tespit değerlendirme yeniden tasarımıyla eşleştirilmelidir
-- [[bassett-ai-detectors-education-2026]] — Yazı tura kazanırız, tura siz kaybedersiniz: eğitimde YZ dedektörleri (Bassett ve ark. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Öğrenci Kaygısının LLM ile Güçlendirilmiş Değerlendirmesi (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Dinamik Alanlar için Grafik Temelli Akıllı Özel Ders (2026)
-- [[asynchronous-oral-assessment-2026]] — YZ Çağında Eş Zamansız Sözlü Değerlendirmeler (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI etkileşimi yoluyla öğrenmeyi değerlendirmek (DRI + Görünür Uzmanlık)
-- [[walton-bearman-assessment-judgment-2025]] — Değerlendirme görevlerinde GenAI ile öğrencilerin işinde yargı (26 öğrenci, geri kaydırma)
-- [[stamatoulis-genai-use-patterns-2026]] — GenAI kullanım örüntüleri (değerlendirici bütünleştirme karşı düşük doğrulama benimseme) ve sonuçlar
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI destekli işi not vermede değer yargıları: dürüstlük, güven, geçerlilik ve iki yönlü şeffaflık (Luo ve Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç temelli makine öğrenmesi kullanarak madde zorluğunu tahmin etmek
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[rubrics-genai-process-based-assessment-2026]] — Yapıtı değil etkileşimi notlandıran rubrik ölçütleri
-- [[computing-assessment-genai-workshop-report-2026]] — YZ Ödevinizi Yapabilir. Şimdi Ne Olacak? Üretken yapay zeka çağında bilgisayar değerlendirmesi üzerine çevrimiçi bir atölye raporu
-- [[koretsky-genai-stem-assessment-2026]] — Gerçek hizalamaya yönelik üç köşeli bir çerçeve

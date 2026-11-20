@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -129,48 +131,3 @@ ai_assist:
 - **"פרקי המגבלות הם נוסח קבוע."** המגבלות המתודולוגיות **ניתנות למדידה ולא עניין של רשמים**: בביקורת ביקורתית של **80 מחקרי HCI** על חשיבה ביקורתית עם AI, **42 (52%) לא הפעילו קבוצת בקרה**. ספירה מדויקת היא מה שהופך את המגבלה לניתנת-לפעולה.
 - **"הטרוגניות היא מספר בודד שאפשר לצטט."** אותה סקירה מראה סיכון דיווח: ההטרוגניות מצוטטת כ-**I² = 82.98% תחת מודל אפקט-קבוע ו-I² = 15.75% תחת מודל אפקטים-אקראיים**. אותם נתונים מניבים סיפור של תשע נקודות או סיפור של שתי נקודות בהתאם למודל הנבחר, ולכן I² מצוטט ללא המודל שלו אינו ניתן לפרשנות.
 - **"אפקט גדול ומדווח הוא המספר שכדאי לסמוך עליו."** כותרת כמו אפקט מ**30 סטודנטים בקורס אחד במוסד אחד** היא הצורה הנפוצה של טענה שברירית, וספירת המחקרים ללא בקרה מראה באיזו תדירות שבריריות זו נותרת ללא דיווח.
-
-## מושגים מקושרים
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-
-## מאמרים מקושרים
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוטים של AI בהשכלה גבוהה: השוואת ציפיות לראיות (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — אמינות ותקפות של אמת-קרקע בהערכה
-- [[ai-literacy-assessment-misalignment]] — אוריינות AI מדווחת-עצמית מול מבוססת-ביצועים
-- [[machines-misread-pedagogical-quality]] — מדוע מכונות קוראות לא נכונה איכות פדגוגית
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — מגבלות ביקורתיות של חונכי AI ושימוש בתיאוריה
-- [[cross-dataset-bloom-question-classification]] — טקסונומיית בלום וסיווג שאלות
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (ביקורת השוואת-מדיה)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — מטא-מטא-אנליזה: השפעות AI מכוילות-להטיית-פרסום בגדל של ~1/3 מהמדווח
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ביקורת פורנזית של 14 מטא-אנליזות AIEd
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — קריטריוני הכללה ששימשו כסף הנוקשות, ודמות הטרוגניות שמשתנה עם המודל (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — ניסוי כיתתי אקראי-אשכולות שתוצאת-הביצועים שלו לא הגיעה למשמעותיות (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI וחונכות אנושית מניבות שיפורי למידה שווים ב-GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — סקירת היקף של 195 מחקרי הכשרת-מורים שבה עיצוב מחרוזת-החיפוש מעצב את התדירות המדווחת
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — סקר בין-לאומי של מורי K-12: פריטים מתורגמים-מכונה, מדדי-דאגה בפריט בודד, ללא בדיקת אי-שתנות
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — סקירה שיטתית של 103 מחקרי GenAI בהשכלה-גבוהה: 56% שיפורים מותנים, ציונים שמסתירים שינוי תהליך (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — הגדלת נתונים יכולה לייצר את המדד העיקרי

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -84,37 +86,3 @@ ai_assist:
 - **「工学の学生のAI採用は技術受容の問題である」。** [[socio-cognitive-genai-adoption-engineering-2026|AsagとAl Mamun]]はTAMを[[technology-acceptance-model|UTAUT]]と統合してバングラデシュの工学部学生の採用をモデル化し、分散の**64%を説明**しました。つまり相当な割合が受容の構成概念の外側、モデルが扱わない社会的・認知的要因にあります。
 - **「学生はAIが最も得意なことにAIを使う」。** [[ai-engineering-education-balancing-act|Kudina (2026)]]は、**100名の工学部学生**がLLMを工学の推論ではなく**ライティングの支援**で最も重視したことを見出しました。ツールについての彼らの比喩はそれが届けるものを超えており、実際の利用は能力ではなく便宜に従っていました。
 - **「より豊かなツール群は設計の成果を改善する」。** **27名の学生**による建築デザインのアトリエでは、生成AIと[[virtual-and-augmented-reality|XR]]のパイプラインを使ったチームが**製品を改善せずに効力感を低下**させました。ツールの豊かさは、成果物を変えないまま自信を損ないえます。
-
-## 関連概念
-
-- [[problem-based-learning|問題基盤学習]]
-- [[stem-education|STEM 教育]]
-- [[cs-education|計算機科学教育]]
-- [[design-education|デザイン教育]]
-- [[math-education|数学教育]]
-- [[physics-education|物理学教育]]
-- [[professional-training|専門職訓練]]
-- [[educational-development|教育開発]]
-- [[assessment|評価]]
-- [[ethics|倫理]]
-- [[higher-ed|高等教育]]
-- [[ai-education|教育における AI]]
-- [[generative-ai|生成 AI]]
-
-## 関連記事
-- [[apostolakis-trusstutor-bench-statics-2026]] — 静力学のベンチマーク：解答と誤り検出は飽和するが、押し返しへの抵抗は飽和しない
-- [[mechanical-engineering-ai-curriculum-2026]] — 熱工学におけるプロジェクトベースの AI 教育カリキュラム
-- [[pbl-biomedical-engineering-genai-2026]] — バイオ医学工学における生成 AI の問題基盤学習
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学の教員の比喩は AI 理解を構成し（そして制約する）
-- [[tam-critical-use-genai-engineering-2026]] — 工学／CS の学生のための批判的利用を加えた拡張 TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 工学教育の統合された社会認知的モデル（バングラデシュ）
-- [[ethical-use-ai-engineering-education-review-2026]] — 工学教育における AI の倫理的利用：系統的レビュー
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明における身体化認知のマルチモーダル枠組み
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI と工学・計算機の労働力の未来
-- [[ai-engineering-education-balancing-act]] — 工学教育における AI の利用：綱渡り
-- [[structured-ai-demonstrations-engineering-mechanics]] — 工学力学における構造化された AI デモンストレーション
-- [[isaza-chatgpt-engineering-prompting-2026]] — 工学教育における ChatGPT
-- [[liu-ai-sustainable-engineering-education-2026]] — 持続可能な工学教育のための AI-SEE 枠組み（Liu et al. 2026）
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]] — 工学経済学の AI 教育助手 Arthur
-- [[genai-xr-architectural-design-education-2026]] — 協働的な建築デザイン教育における生成 AI と拡張現実：探索的なアトリエ研究
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 意図ではなく習慣が、学生が人に助けを求める頻度の低下を予測する：49.6%が人への援助要請の減少を報告、βは習慣0.711に対し意図0.039

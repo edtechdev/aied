@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -77,54 +79,3 @@ Laskennallinen ajattelu on [[ai-literacy|tekoälylukutaidon]] ja [[critical-thin
 - **"Tekoälyavustus tasoittaa pelikenttää aliresurssoiduissa ympäristöissä."** Se voi tehdä niin tietyin ehdoin. **14 viikon kvasikoe 103 ensimmäisen vuoden perusopiskelijalla Nigeriassa** havaitsi tekoälyavusteisen ongelmalähtöisen oppimisen (ChatGPT ja Teachable Machine) tuottavan voittoja, ja tekoäly "kyvykkäämpänä vertaisena" kantaa laskennallista ajattelua siellä, missä muu tarjonta puuttuu. Mutta se on havainto jäsennellystä interventiosta, ei ominaisuus, joka syntyy antamalla opiskelijoille [[conversational-ai|chatbot]].
 - **"LLM:t eivät voi arvioida laskennallista ajattelua luotettavasti."** [[llm-computational-thinking-physics-2026|Fysiikan laskennallisen ajattelun arviointitutkimus]] havaitsi, että LLM:t voivat **vastata ihmisarvioijia** Data Practices- ja Computational Problem-Solving Practices -osaamisen kehityksen pisteytyksessä suurilla kursseilla. Laskennallisen ajattelun arvioinnin skaalaamisen este on ollut arvioijakapasiteetti, ja tuo rajoite on pehmenemässä — mikä siirtää suunnitteluongelman siihen, mittaatko instrumentti laskennallista ajattelua vai vaatimustenmukaisuutta.
 - **"Laskennallinen ajattelu on koodaustaito, jota robotiikka sattuu opettamaan."** **[[meta-analysis-systematic-review|Systemaattinen katsaus]] 95 tutkimuksesta** vahvistaa, että robotiikka edistää laskennallista ajattelua, luovuutta ja ongelmanratkaisua, mutta myös sen, että **ympäristö moderoi tulosta**: [[game-based-learning|pelipohjainen]] toteutus sopii informaaleihin ympäristöihin, kun taas pelillistäminen eroaa formaaleissa. Laskennallinen ajattelu on joukko käytäntöjä, jotka siirtyvät epätasaisesti, joten siirtoväite tarvitsee sen tehtäväsuunnittelun, jota se todella käytti.
-
-## Liittyvät konseptit
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Liittyvät artikkelit
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Laskennallisen ajattelun testi tekoälykoulutuksessa (CTAT)
-- [[computational-thinking-aica-2026]] — Laskennallisen ajattelun tasot ja tekoälykoodausavustajat (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Mallin tekijyys: teoria ja mittaus GenAI:n kanssa rakentamalla oppimiselle
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: konstruktionismin viitekehys artefaktien rakentamiseen
-- [[astor-computational-thinking-meta-review-2026]] — Laskennallisen ajattelun meta-katsaus 128 systemaattisesta katsauksesta
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systemaattinen katsaus laskennallisesta ajattelusta robotiikan kautta lastentarhassa
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: Toistettava työnkulku ei-ohjelmoiville tutkijoille julkaistujen tekoälymallien toteuttamiseen

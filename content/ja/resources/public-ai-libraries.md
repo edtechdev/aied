@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -46,13 +47,3 @@ ai_assist:
 - 参加する図書館は、**キオスク1台の設置につき年間1,000ドル**を負担します。パイロット自体は応募したサイトに限られます。
 - プライバシー声明はプログラムの主張であり、監査された発見ではありません。図書館は、自らのデータ処理契約において保存期間と子どもの安全に関する条件を確認すべきです。
 - ロードマップの第2段階と第3段階——図書館が地域のアーカイブを取り込み、その結果生じるシステムを統治できるようにする——は、出荷済みではなく計画段階です。
-
-## 関連する概念
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

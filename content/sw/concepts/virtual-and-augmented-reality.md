@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -74,7 +76,6 @@ Ambapo mazoezi ya kuzamisha yanatumiwa kwa ujuzi wa kisheria na wa taratibu, kiz
 
 Avatar na binadamu wa dijiti ni uso wa kibinadamu wa tabaka hilo, na [[ai-avatars-and-synthetic-instructors]] inakusanya kesi ambapo uhalisia ulishindwa kutabiri ufanisi: SOPHIE ilipata alama sawa za mawasiliano nyuma ya avatar ile ile katika miundo tofauti ya nyuma, na wanafunzi wa TriKoNet walikataa kabisa haiba za picha halisi.
 
-
 Mantiki iyo hiyo inaeleza kwa nini uwepo si mzuri kiotomatiki. Kichefuchefu cha mwendo, kutokuwa na uthabiti wa UI, gharama ya vifaa, na ufikikaji tofauti wa vifaa huamua ni nani anaweza kutumia mazingira ya kuzamisha kabisa, ndiyo maana maswali ya [[equity-in-ai-education|usawa]] ya hali hii ya kuonyesha yanaungana na [[accessibility]] na [[inclusive-learning]] badala ya kuwamo mbali nao.
 
 ## Dhana Potofu za Kawaida
@@ -82,40 +83,3 @@ Mantiki iyo hiyo inaeleza kwa nini uwepo si mzuri kiotomatiki. Kichefuchefu cha 
 - **"Kuhisi jambo kunamaanisha kulielewa."** Jaribio la awali liligundua wanafunzi waliripoti **kuhisi** urefu wa mawimbi na ukubwa wake kwa ishara ya mkono kwa nguvu zaidi kuliko kwa kitelezi, lakini **kilipima utambuzi, si mafanikio**. Hisia ni uwezo wa mazingira, na kama ilizalisha uelewa ni jaribio tofauti.
 - **"Alama za juu za urahisi wa matumizi zinathibitisha zana ya VR ya kielimu."** Katika **kipindi cha saa moja na wanafunzi 10** kwenye Meta Quest 3, utafiti uliripoti **urahisi mzuri wa matumizi kwenye Kipimo cha Urahisi wa Matumizi ya Mfumo na ugonjwa mdogo wa uigaji**. Urahisi na faraja ni masharti ya awali na hakuna kinachopima kujifunza.
 - **"Kukubali kwa wanafunzi ni ushahidi wa uwezo wa mazingira."** Kwa **wanafunzi 29 wa mwaka wa pili wa upigaji picha wa matibabu**, wote 29 **walikubali ishara iliwasaidia "kuhisi" urefu wa mawimbi ni nini (wastani 4.52)**. Kukubali kwa kauli moja kuhusu hisia ni taarifa ya kujiripoti kuhusu uzoefu, na dai la uwezo wa mazingira linahitaji matokeo yasiyotegemea hukumu ya mwanafunzi kuhusu uelewa wake.
-
-## Dhana Zilizounganishwa
-
-- [[simulation]] — kile ambacho mazingira ya kuzamisha kwa kawaida huonyesha; mfano, si hali ya kuonyesha
-- [[embodied-learning]] — mbinu ambayo hali hii ya kuonyesha inatakiwa kutumia
-- [[multimodal]] — ishara, sauti na pembejeo ya nafasi kama njia za kujifunza
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — mazingira ambapo mazoezi ya kuzamisha yamekomaa zaidi
-- [[generative-ai]] — tabaka jipya la kutengeneza
-- [[prompt-engineering]] — jinsi wasio-programu wanavyojenga na kuboresha zana za kuzamisha
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — kuweka mwongozo ndani ya kichwa cha VR
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — uaminifu, na ufahamu wa mwanafunzi wa vikomo vyake
-- [[cognitive-offloading]] — ucheleweshaji na kutokuwa na utulivu kama mzigo wa nje
-- [[edtech-platform]] — ulandanishi, ucheleweshaji na uwepo wa maeneo mengi
-- [[arts-and-media-education]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Makala Zilizounganishwa
-
-- [[genai-ar-physics-simulation-prompt-2026]] — ilani ya vipengele vinne inayozalisha uigishaji wa fizikia wa AR unaodhibitiwa na mkono; jaribio la wanafunzi 29, ushahidi wa mtazamo tu
-- [[mixed-reality-engineering-learning]] — programu za uhalisia mchanganyiko dhidi ya vifaa vya kimwili dhidi ya darasa katika mitambo ya uhandisi; ushiriki juu, uonyeshaji ngumu bado mgumu
-- [[medgame-llm-medical-education-gamification]] — mafunzo ya kimatibabu ya michezo na AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — hali za meza za kuongeza katika elimu ya usalama wa mtandao
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: studio ya kubuni ya VR ya kuzamisha na msaidisi wa ualimu aliyeungwa na LLM, iliyotathminiwa dhidi ya PBL ya jadi (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: mafunzo ya multimodal yanayosaidiwa na LLM katika elimu ya mwanga wa jukwaa ya VR, na ambapo kuegemewa kulivunjika (Liang et al. 2026)

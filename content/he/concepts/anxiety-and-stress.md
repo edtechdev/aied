@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -59,7 +61,6 @@ ai_assist:
 מעבר לפיקוח, השימוש ב-AI עצמו מייצר חרדה — לגבי הוחלפות, לגבי האם העבודה "באמת שלנו," לגבי מיומנות. משמעות חיונית: חרדה זו **אינה שלילית לחלוטין**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] מוצא ש**חרדת AI יכולה להיות פרודוקטיבית**: חרדת AI גבוהה יותר הייתה קשורה קשר חיובי להתנהגויות אימות ותיקון (β=.24, p<.01), ויכולת הערכה ניבאה [[student-engagement|מעורבות]] פעילה (β=.46, p<.001). ארבעת סוגי הרגולציה של Kim (הסתמכות לא-ביקורתית 18.7%, אינטגרציה סלקטיבית 34.6%, טרנספורמציה הערכתית 31.8%, דחייה אסטרטגית 14.9%) מראים שבחינת מונעת-חרדה יכולה להפוך סטודנטים למשתמשים מכוונים יותר ועצמית מוסדרים יותר של [[generative-ai|בינה מלאכותית יוצרת]] במקום מאומצים פסיביים. זה ממסגר מחדש חרדת AI ממכשול לאות שיכול להיות שימושי שמעודד בחינה מקרוב יותר.
 
-
 למסגור מחדש הזה יש גבול בדיבור: בין 708 [[multilingual-learning|לומדי אנגלית]], הקשר בין חרדת דיבור לנכונות רץ −0.371 במסוגלות עצמית נמוכה בדיבור אך +0.137 בגבוהה, עם רק 55 משתתפים (7.8%) מעל סף Johnson–Neyman העליון ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - [[acceptance-ai-english-tools-2026|מחקרי קבלה]] מראים שחרדה מעצבת האם לומדים מאמצים כלי AI, ו[[teacher-education-ai-literacy-sdt-2026|מחקר הכשרת מורים]] מקשר חרדת AI למוטיבציה ול[[self-regulated-learning|וויסות עצמי]].
 - **דילמת הגילוי.** בסקר של 409 סטודנטים לתואר ראשון, נוחות עם מרצים וגילוי עמיתים נתפס — לא ניתוק מוסרי — היו החוזים החזקים ביותר של גילוי שימוש ב-GenAI, וחוסר גילוי נקרא כהתאמה אסטרטגית לנורמות עמיתים ולאמון פרשני נמוך ולא כזניחות ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]]).
@@ -83,9 +84,7 @@ ai_assist:
 שהעידוד מוסדי המכוון לחרדה נוחת רק אם הוא משנה מה שהסטודנטים מאמינים על היכולת שלהם ועל
 השימושיות של הכלי; הרגעה כללית אינה משנה את ההערכות המייצרות את החרדה.
 
-
 בינה מלאכותית יכולה גם להקל על חרדה אקדמית על ידי קידום יעדי למידה ולא על ידי הרגעה: בין סקר של 721 סטודנטים לרפואה וניסוי עם 398, יכולת עוזר נתפסת גבוהה יותר ניבאה התקדמות יעדי למידה רבה יותר, שניבאה חרדה אקדמית נמוכה יותר ובריאות נפשית טובה יותר ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]]).
-
 
 מיומנות אינה חוצץ מלא, עם זאת: בין 551 סטודנטים סיניים לשנה ראשונה, לחץ שימוש AI ב[[self-report-measures|דיווח עצמי]] נחלש את הקשר בין מיומנות AI להתאמה פסיכולוגית, כאשר שיפוע מיומנות-AI-אל-התאמה יורד מ-0.42 תחת לחץ נמוך ל-0.20 תחת לחץ גבוה ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
@@ -102,10 +101,8 @@ ai_assist:
 
 - **אדפטיביות קריירתית היא פקטור מגן.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] מראה שיכולות אדפט-קריירה חוזות משמעותית ושלילית חרדת AI בקרב מומחים לאנגלית, עם הערכות ליבה עצמיות מתווכות חלקית את הקשר; הקבוצה בעלת האדפטיביות הנמוכה הייתה בעלת חרדת AI הגבוהה ביותר.
 
-
 - **איום והערכה חיובית מופעלים יחד בפרופיל אחד.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] מצאו קבוצה מעל ממוצע המדגם בכל שישה המנדטים בו-זמנית — חרדת שימוש AI 1.521 ומודעות STARA 0.951 לצד איכות נתפסת 1.753 — ולכן חרדה גבוהה לא סימנה הערכה שלילית של הטכנולוגיה.
 - **חרדת AI פוגעת בהחלטות קריירה.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] משתמשים במידול משוואות מבניות כדי להראות שחרדת AI חוזה ישירות ושלילית החלטות קריירה, ועושה זאת ברובה על ידי פגיעה ב**אדפטיביות קריירתית** (מהווה 63.35% מהאפקט הכללי); [[self-efficacy]] הציע חוצץ מוגבל בלבד.
-
 
 - **מנטליות צמיחה מגבילה את המסלול מאיום ליכולת העסקה.** בין 526 סטודנטים לתואר ראשון סיניים, תפיסת איום העסקה AI ניבאה חרדת קבלת החלטות קריירה גבוהה יותר בחלקה על ידי הורדת יכולת העסקה נתפסת, והקשר איום-אל-יכולת העסקה החזיק רק במנטליות צמיחה נמוכה (b = −0.229) ולא בגבוהה (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]]).
 - **חרדת AI חוזה חרדת חיפוש עבודה בקנה מידה גדול.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 סטודנטים) ו[[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 סטודנטים למדעי הבריאות) מוצאים שחרדת AI וגישות AI שליליות חוזות חרדת מציאת עבודה/חיפוש עבודה, עם נשים, מומחים למדעי החברה, וסטודנטים בעלי הכנסה נמוכה מושפעים ביותר.
@@ -136,56 +133,3 @@ ai_assist:
 - **"חרדת AI היא שלילית בלבד."** חרדה זו **אינה שלילית לחלוטין**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] מוצא ש**חרדת AI יכולה להיות פרודוקטיבית**, כאשר חרדה גבוהה יותר קשורה לוויסות אסטרטגי רב יותר. חרדה מתפקדת כאות לבחינה ולא רק כנטל.
 - **"כל הסטודנטים החרדים מגיבים באותו אופן."** ארבעת סוגי הרגולציה של Kim — **הסתמכות לא-ביקורתית 18.7%, אינטגרציה סלקטיבית 34.6%, טרנספורמציה הערכתית 31.8%, דחייה אסטרטגית 14.9%** — מראים שבחינה מונעת-חרדה מייצרת **ארבעה** דפוסים נבדלים. התערבות שמכוונת ל"סטודנטים חרדים" מפספסת שהקבוצה הבודדת הגדולה ביותר היא זו שמשתלבת באופן סלקטיבי.
 - **"חרדה תמיד מדכאת השתתפות."** למסגור מחדש הזה יש **גבול בדיבור**: בין **708 לומדי אנגלית**, הקשר בין חרדת דיבור לנכונות רץ **-0.371 במסוגלות עצמית נמוכה בדיבור אך +0.137 בגבוהה**. חרדה יכולה ללוות נכונות כאשר המסוגלות העצמית גבוהה, ולכן כיוון האפקט תלוי בביטחון.
-
-## מושגים מחוברים
-- [[career-development-and-readiness]] — מוכנות קריירה כפקטור מגן נגד חרדת AI
-- [[well-being]] — המטרייה הרחבה שמושג זה מפתח לעומק
-- [[remote-proctoring]] — המקור העיקרי למתח מעקב/האשמה כוזבת
-- [[social-emotional-learning]] — המיומנויות הרגשיות המעורבות
-- [[affective-computing]] — AI קורא מצב רגשי
-- [[affective-tutoring]] — AI מגיב להשפעה
-- [[academic-integrity]] — ממד היושר/האשמת הרמאות
-- [[privacy]] — דאגת המעקב שמאחורי מתח הפיקוח
-- [[student-experience]] — חרדה כחלק מחוויית הלומד
-- [[motivation]] — אפקט החרדה על אימוץ ומעורבות
-- [[self-regulated-learning]] — הקשר החרדה-הפרודוקטיבית
-- [[ai-literacy]] — בניית יכולת שמפחיתה חרדה לא מבוססת
-- [[equity-in-ai-education]] — מתח לא פרופורציונלי על סטודנטים פגיעים
-- [[ethics]] — ההוגנות של מעקב והאשמות כוזבות
-- [[teacher-role]] — חרדה מצד המחנך
-- [[assessment]] — חרדת הערכה בתיווך AI
-- [[social-norms-ai-use]] — העלות האפקטיבית של נראות
-
-## מאמרים מחוברים
-- [[chatbots-oral-proficiency-efl-systematic-review]] — סוכן דמוי-בוחן העלה בו-זמנית את הדיבור הנמדד ואת החרדה
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
-- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[affective-text-wearable-student-health]] — Affective text + wearable sensing for student health
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated proctoring, test-taker anxiety, false accusations
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of automated exam proctoring
-- [[moral-panic-genai-classroom]] — Faculty anxiety and moral panic about GenAI
-- [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
-- [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
-- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
-- [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment
-- [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking anxiety's link to willingness to communicate reverses at high speaking self-efficacy
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)
-

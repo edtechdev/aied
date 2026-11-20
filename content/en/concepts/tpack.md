@@ -10,6 +10,8 @@ audience: [faculty developers, instructors]
 confidence: high
 reviewed_by: [editor]
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 > **Technological [[pedagogy|Pedagogical]] Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[educational-development|professional development]].
@@ -62,7 +64,6 @@ HACC reassigns the integrative work TPACK gives teachers' pedagogy to the learne
 - **In [[higher-ed|higher education]], content expertise does not transfer to GenAI integration.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]] adapted the [[ai-literacy|TPACK-21]] instrument to survey **127 faculty** at a U.S. research university on using GenAI to teach 21st-century skills. Faculty reported strong CK (M = 5.15) and PCK (M = 4.70) but low technology-integrated knowledge — TPK (M = 2.62), TCK (M = 2.75), and overall TPACK (M = 2.55, the lowest domain) — and CK showed **no significant correlation with TK or any technology-integrated domain** (r = .11–.15, ns). The three technology-integrated domains inter-correlated so strongly (r = .81–.91) that they may function as a single GenAI-integration factor. The result reinforces the *training the intersections* design principle: [[educational-development|faculty development]] must deliberately build GenAI-integration knowledge through [[discipline-specific-aied|discipline-specific]] activities rather than assume subject-matter expertise will carry over, and treat the technology-integrated domains as a shared GenAI-literacy foundation.
 - **Institutional mode and training level interact.** [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] compared 186 final-year science student teachers at a South African campus-based university (n = 85) and a [[online-teaching-and-learning|distance education]] university (n = 97). Self-reported TPACK was higher on campus (64.0% versus 47.4%), Pedagogical Knowledge was the least reported domain in both groups (53% on campus), and the level of AI training was associated with self-reported TPACK only at the distance institution, where completing a five-credit short course predicted *weaker* reported TPACK than no training at all (p = .039, versus p = .607 on campus). Readiness therefore tracks the institutional provision context rather than hours of training alone, and the authors caution that [[self-report-measures|self-reported]] readiness cannot stand in for performance evidence.
 
-
 A complementary measurement warning comes from the same author's Capability–Decision Model: when TPACK is self-reported and perceived behavioral control is measured as [[self-efficacy|self-efficacy]], the two may not be empirically distinguishable, so a study cannot tell whether capability or general confidence predicts intention ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 - **Integrated TPACK moves most when AI is scaffolded inside authentic problem-based tasks.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen and Osman (2026)]] compared an eight-week AI-supported CTD-PBL module with conventional instruction for **130 third-year pre-service [[physics-education|physics]] teachers** in an intact-class quasi-experimental design (65 per condition), with groups using DeepSeek through task-specific prompt templates and every AI output required to pass human verification before entering an instructional artifact. The module group reported higher post-test TPACK (M = 4.04 vs. 3.40, p < 0.001, d = 1.02) and higher perceived [[problem-solving|collaborative problem solving]] (M = 3.62 vs. 3.05, d = 0.88), with significant group × time interactions on both outcomes. Where the gains landed is the TPACK-relevant detail: the largest dimensional effects were in the integrated domains — TPCK (d = 1.21), PCK (d = 1.06) and TPK (d = 0.95) — and the [[collaborative-learning|collaboration]] gains were clearest in shared knowledge building and social regulation, i.e. the intersections rather than the base domains. The authors present these as differential change associated with an integrated instructional condition, not as an AI effect: AI was never isolated from the PBL task chain, structured collaboration, instructor scaffolding, [[peer-assessment|peer feedback]] or reflective revision, and both outcomes were [[self-report-measures|questionnaire-based]] perceptions of competence rather than demonstrated classroom performance.
 
@@ -103,49 +104,3 @@ TPACK is the organizing framework for the teacher side of the evidence base. It 
 - **"TPACK's dominance reflects its explanatory power."** That dominance is **partly a retrieval artifact**: in a PRISMA scoping review of **195 technology-supported teacher-education studies**, digital competence, TPACK and DigComp **dominate the indexed literature**. Prevalence in a search is a property of the vocabulary the field uses, not proof that the framework explains more.
 - **"A well-known framework is a validated one for AI."** TPACK was not designed for AI-specific capacities, which is why Intelligent-TPACK was developed — and it appears in only **five studies** in the 78-study review. Using TPACK for GenAI competence stretches it beyond its construction.
 - **"Applying a framework means the research is theorised."** The same review found **76% of studies inferred competences from practice with no theoretical mapping**, so TPACK's presence in the field coexists with most research being untheorised. A named framework is not the same as a framework doing work.
-
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Connected Articles
-- [[ai-literacy-tpack-preservice-2026]] — Perceived AI literacy and TPACK in pre-service teacher education: mediation through usefulness, ease of use and value (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cross-level study: 'pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
-- [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: Intelligent-TPACK, experience, and proficiency interplay (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
-- [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
-- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy via self-determination theory
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
-- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
-- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
-- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Towards a New AI-TPACK Framework: ethics as an integrative mediator of technical AI knowledge (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK professional development for university teachers: dimension-resolved gains, attendance over self-perceived engagement — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first model of teacher AI readiness and its construct-overlap warning
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review warning that competence-framework dominance partly reflects search descriptors, not field prevalence
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — The Role of Integrated TPACK in Empowering Pre-Service Teachers and Shaping Their Attitudes Toward Generative AI in Teaching

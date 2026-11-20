@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -47,6 +48,3 @@ Lärare i grund- och gymnasieskola som vill ha ett verktyg för ett specifikt pr
 ## Anteckningar och förbehåll
 
 Tempot är både argumentet och risken. Ettdagarsbyggen riktar sig mot ett verkligt klassrumsproblem, inte mot en forskningsfråga, så inget här bär en utvärdering och ett påstående om vad en app gör bör testas i klassrummet. Trettiotvå offentliga förråd ligger i GitHub-organisationen medan galleriet listar 34, alla Apache-2.0 med tillgänglig källkod, så en app kan läsas och självhostas. Lokalförst-designen är ett påstående att verifiera per app, och en lärare bör bekräfta det innan något elevvänt verktyg sätts framför en klass.
-
-## Anslutna begrepp
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

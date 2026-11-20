@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,44 +89,3 @@ ai_assist:
 - दोनों दिशाओं को मापें: गलत उत्तर पहचानना और सही उत्तर उत्पन्न करना। 95.2% समाधान-पुनर्प्राप्ति का आँकड़ा संकेत देता है कि उत्पादन आसान आधा है और विफलता विधा पहचान में बैठती है।
 - जहाँ क्षेत्र की संरचना अनुमति दे, वहाँ स्थिर सूची के बजाय खोज को वरीयता दें, और संदर्भ समुच्चय के विरुद्ध कवरेज रिपोर्ट करें ताकि तुलना पठनीय रहे।
 - कोई नैदानिक अंक ऐसे प्रकाशित न करें जिसमें यह न कहा गया हो कि वह कौन-सा निर्माण मापता है और उसे उस संकेत से स्वतंत्र रूप से कैसे सत्यापित किया गया जिसने उसे उत्पन्न किया।
-
-## संबंधित अवधारणाएँ
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## संबंधित लेख
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — हस्तलिखित गणित से संज्ञानात्मक कौशल के निदान के लिए LLM का बेंचमार्किंग
-- [[correct-answer-trap-misconceptions]] — सही उत्तर का जाल
-- [[llm-misconception-difficulty-easy-trap]] — सरल जाल: LLM भ्रांति-संचालित कठिनाई को क्यों कम आँकते हैं
-- [[llm-student-misconception-identification]] — छात्र भ्रांतियों की LLM पहचान
-- [[student-math-competence-clustering]] — छात्र गणितीय दक्षता के मॉडलिंग के लिए क्लस्टरिंग
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — स्पष्ट समस्या-समाधानकर्ता मॉडलिंग के लिए संज्ञानात्मक एजेंट संकलन
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: अनुकृत शिक्षार्थियों से निदान
-- [[huang-interpretable-knowledge-tracing-2026]] — व्याख्यायोग्य ज्ञान-अनुरेखण
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM अवधारणा-वृक्ष + पदानुक्रमित दक्षता अनुमान
-- [[yasir-llm-tutoring-agents-2026]] — LLM ट्यूटर में निदान को प्रतिपुष्टि से अलग करना
-- [[zhang-ct-ai-training-test-2026]] — AI प्रशिक्षण परीक्षा में कम्प्यूटेशनल सोच (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — वैयक्तिकृत सीखने के पथों के लिए बेयसियन संज्ञानात्मक निदान
-- [[personalized-neural-cognitive-architecture-search-2026]] — शिक्षार्थी-प्रोफ़ाइल के लिए AutoML वैयक्तिकृत न्यूरल संज्ञानात्मक वास्तुकला खोज
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — आत्मीय मैपिंग के साथ परिणाम-आधारित ज्ञान-अनुरेखण
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — गोपनीयता-संरक्षण विषम बहु-LLM संघीकृत निदान
-- [[llm-common-modeling-mistakes-formalisms-2026]] — LLM-निर्मित, एल्गोरिदमिक रूप से मान्य बग-फिक्सिंग रूपांतरणों के साथ बड़े पैमाने पर सामान्य मॉडलिंग गलतियों की खदान (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — यांत्रिकी संज्ञानात्मक नैदानिक: मौजूदा भौतिकी अवधारणा-सूचियों से 14 सीखने के उद्देश्यों का DINA-आधारित निदान (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM ज्ञान-अवधारणा एनोटेशन और अंशांकित अवधारणा-स्तरीय ज्ञान-स्थितियाँ
-- [[llm-distractor-generation-student-reasoning-2026]] — एक नैदानिक आइटम-डिज़ाइन कार्य के रूप में भ्रांति-आधारित विचलित-पाठ
-- [[misconception-acquisition-dynamics-llms-2026]] — त्रुटि समाधान में कहाँ प्रवेश करती है वह नैदानिक अवरोध है
-- [[pivot-generative-video-tutors-stem-2026]] — सामग्री निर्माण से सीखने के समर्थन तक: STEM सीखने के लिए शिक्षाशास्त्र-निर्देशित जनरेटिव वीडियो ट्यूटर
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: एक एजेंटिक ट्यूटर जो मानव-AI सह-सीखने के लूप में अपने शिक्षार्थी को सीखता है
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: सीखने और शिक्षण के लिए खुले फ़ाउंडेशन मॉडल
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — अर्थपूर्ण सीखने के लिए सांस्कृतिक रूप से सन्निहित AI के माध्यम से निदान मूल्यांकन की पुनर्कल्पना

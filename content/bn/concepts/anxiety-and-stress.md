@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -55,7 +57,6 @@ ai_assist:
 প্রোক্টরিংয়ের বাইরেও এআই-এর ব্যবহার নিজেই দুশ্চিন্তা তৈরি করে — প্রতিস্থাপিত হওয়ার ভয়, নিজের কাজ "সত্যিই নিজের" কি না সেই সংশয়, যোগ্যতা নিয়ে উদ্বেগ। গুরুত্বপূর্ণ হলো, এই দুশ্চিন্তা **নিছক নেতিবাচক নয়**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] দেখেন **এআই-দুশ্চিন্তা ফলপ্রসূ হতে পারে**: উচ্চতর এআই-দুশ্চিন্তা যাচাই ও সংশোধন আচরণের সঙ্গে ধনাত্মকভাবে যুক্ত ছিল (β=0.24, p<0.01), এবং মূল্যায়নক্ষমতা সক্রিয় [[student-engagement|অংশগ্রহণের]] পূর্বাভাস দিয়েছিল (β=0.46, p<0.001)। Kim-এর চারটি নিয়ন্ত্রণ-ধরন (অবিবেচক নির্ভরতা 18.7%, নির্বাচনী সংযোজন 34.6%, মূল্যায়নমূলক রূপান্তর 31.8%, কৌশলগত প্রত্যাখ্যান 14.9%) দেখায় দুশ্চিন্তাপ্ররিত পর্যালোচনা শিক্ষার্থীদের নিষ্ক্রিয় গ্রহণকারী থেকে বেশি সচেতন, স্ব-নিয়ন্ত্রিত [[generative-ai|জেনারেটিভ এআই]] ব্যবহারকারীতে রূপান্তরিত করতে পারে। এটি এআই-দুশ্চিন্তাকে প্রতিবন্ধক থেকে সম্ভাব্য উপযোগী সংকেতে পুনঃনকশা করে, যা নিবিড় পর্যালোচনাকে উৎসাহিত করে।
 
-
 এই পুনঃনকশার একটি সীমা আছে কথনক্ষেত্রে: ৭০৮ জন [[multilingual-learning|ইংরেজি শিক্ষার্থীর]] মধ্যে কথা বলার দুশ্চিন্তা–ইচ্ছার সম্পর্ক নিম্ন কথা-বলার স্ব-কর্মদক্ষতায় −0.371 ছিল, কিন্তু উচ্চ পর্যায়ে +0.137, এবং কেবল ৫৫ জন অংশগ্রহণকারী (7.8%) উপরের Johnson–Neyman থ্রেশহোল্ডের উপরে ছিলেন ([[ai-speaking-practice-communicative-readiness-2026|Wang ও Li (2026)]])।
 - [[acceptance-ai-english-tools-2026|গ্রহণযোগ্যতা-গবেষণা]] দেখায় দুশ্চিন্তা নির্ধারণ করে শিক্ষার্থীরা এআই সরঞ্জাম গ্রহণ করবে কি না, এবং [[teacher-education-ai-literacy-sdt-2026|শিক্ষক-শিক্ষা গবেষণা]] এআই-দুশ্চিন্তাকে প্রেরণা ও [[self-regulated-learning|স্ব-নিয়ন্ত্রণের]] সঙ্গে যুক্ত করে।
 - **প্রকাশের দ্বিধা।** ৪০৯ জন স্নাতক শিক্ষার্থীর একটি জরিপে প্রশিক্ষকদের প্রতি স্বাচ্ছন্দ্য ও সহপাঠীদের কাছে প্রকাশ সম্বন্ধে ধারণা — নৈতিক বিচ্ছিন্নতা নয় — জেনএআই-ব্যবহার প্রকাশের সবচেয়ে শক্তিশালী পূর্বাভাসক ছিল, আর অপ্রকাশকে দেখা হয় সহপাঠীদের নিয়মের প্রতি কৌশলগত অভিযোজন ও নিম্ন ব্যাখ্যাগত আস্থা হিসেবে, অবহেলা হিসেবে নয় ([[qu-wang-disclose-or-not-genai-2026|Qu ও Wang (2026)]])।
@@ -78,9 +79,7 @@ ai_assist:
  দুশ্চিন্তার লক্ষ্যে করা প্রাতিষ্ঠানিক উৎসাহ কেবল তখনই পৌঁছায় যদি তা বদলে দেয় শিক্ষার্থীরা নিজেদের সক্ষমতা ও
  সরঞ্জামের উপযোগিতা সম্বন্ধে যা বিশ্বাস করে; সাধারণ আশ্বাস সেই মূল্যায়নগুলো বদলায় না যেগুলো দুশ্চিন্তা তৈরি করে।
 
-
 এআই শিক্ষার লক্ষ্য এগিয়ে নিয়েও একাডেমিক দুশ্চিন্তা লাঘব করতে পারে, আশ্বাস দিয়ে নয়: ৭২১ জন চিকিৎসা-শিক্ষার্থীর জরিপ ও ৩৯৮ জনের একটি পরীক্ষায়, উচ্চতর অনুভূত সহায়ক-সক্ষমতা অধ্যয়ন-লক্ষ্য অগ্রগতির পূর্বাভাস দেয়, যা নিম্নতর একাডেমিক দুশ্চিন্তা ও ভালো মানসিক স্বাস্থ্যের পূর্বাভাস দেয় ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen প্রমুখ (2026)]])।
-
 
 তবে যোগ্যতা পূর্ণ বাফার নয়: ৫৫১ জন চীনা প্রথম বর্ষের শিক্ষার্থীর মধ্যে, [[self-report-measures|স্ব-প্রতিবেদিত]] এআই-ব্যবহার-চাপ এআই-দক্ষতা ও মনস্তাত্ত্বিক অভিযোজনের মধ্যেকার সম্পর্ক দুর্বল করে, এআই-দক্ষতা থেকে অভিযোজনের ঢাল কম চাপে 0.42 থেকে বেশি চাপে 0.20-এ নামে ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang ও Yin (2026)]])।
 
@@ -97,10 +96,8 @@ ai_assist:
 
 - **কর্মজীবন-অভিযোজনযোগ্যতা একটি সুরক্ষামূলক উপাদান।** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] দেখেন কর্মজীবন-অভিযোজন-সক্ষমতা ইংরেজি বিষয়ের শিক্ষার্থীদের মধ্যে এআই-দুশ্চিন্তার উল্লেখযোগ্য ও নেতিবাচক পূর্বাভাসক, সম্পর্কটি আংশিকভাবে মধ্যস্থতা করে মূল স্ব-মূল্যায়ন; নিম্ন-অভিযোজনযোগ্যতা দলের এআই-দুশ্চিন্তা সর্বোচ্চ ছিল।
 
-
 - **হুমকি ও অনুকূল মূল্যায়ন একই প্রোফাইলে সহ-সক্রিয়।** [[ai-attitude-latent-profiles-career-development-2026|Song প্রমুখ (2026)]] এমন একটি দল পান যা নমুনা-গড়ের উপরে ছিল ছয়টি সূচকে একসঙ্গেই — এআই-ব্যবহার-দুশ্চিন্তা 1.521 ও STARA সচেতনতা 0.951, পাশাপাশি অনুভূত গুণমান 1.753 — তাই উচ্চ দুশ্চিন্তা প্রযুক্তিটির নেতিবাচক মূল্যায়নের সংকেত দেয়নি।
 - **এআই-দুশ্চিন্তা কর্মজীবন-সিদ্ধান্ত ক্ষতিগ্রস্ত করে।** [[duan-ai-anxiety-career-decisions-college-2026|Duan প্রমুখ]] কাঠামোগত সমীকরণ মডেলিং ব্যবহার করে দেখান এআই-দুশ্চিন্তা সরাসরি ও নেতিবাচকভাবে কর্মজীবন-সিদ্ধান্তের পূর্বাভাস দেয়, এবং তা মূলত **কর্মজীবন-অভিযোজনযোগ্যতা** ক্ষুণ্ণ করে (মোট প্রভাবের 63.35% ব্যাখ্যা করে); [[self-efficacy]] কেবল সীমিত বাফার দিয়েছে।
-
 
 - **বৃদ্ধি-মানসিকতা হুমকি-থেকে-কর্মসংস্থানযোগ্যতার পথকে সীমাবদ্ধ করে।** ৫২৬ জন চীনা স্নাতকের মধ্যে এআই-কর্মসংস্থান-হুমকির ধারণা অনুভূত কর্মসংস্থানযোগ্যতা কমিয়ে আংশিকভাবে উচ্চতর কর্মজীবন-সিদ্ধান্ত-দুশ্চিন্তার পূর্বাভাস দেয়, এবং হুমকি-থেকে-কর্মসংস্থানযোগ্যতার সম্পর্ক কেবল নিম্ন বৃদ্ধি-মানসিকতায় টিকে ছিল (b = −0.229), উচ্চ পর্যায়ে নয় (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]])।
 - **এআই-দুশ্চিন্তা বৃহৎ পরিসরে চাকরি-খোঁজার দুশ্চিন্তার পূর্বাভাস দেয়।** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün ও Danacıoğlu]] (১,০৫৭ শিক্ষার্থী) এবং [[dag-ai-perceptions-career-anxiety-health-2026|Dağ প্রমুখ]] (৮২১ স্বাস্থ্য-বিজ্ঞান শিক্ষার্থী) দেখেন এআই-দুশ্চিন্তা ও নেতিবাচক এআই-মনোভাব চাকরি-খোঁজার দুশ্চিন্তার পূর্বাভাস দেয়, এবং নারী, সমাজবিজ্ঞান বিষয়ের শিক্ষার্থী ও নিম্ন-আয়ের শিক্ষার্থীরা সবচেয়ে বেশি প্রভাবিত।
@@ -131,57 +128,3 @@ ai_assist:
 - **"এআই-দুশ্চিন্তা নিছক ক্ষতিকর।"** এই দুশ্চিন্তা **নিছক নেতিবাচক নয়**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] দেখেন **এআই-দুশ্চিন্তা ফলপ্রসূ হতে পারে**, উচ্চতর দুশ্চিন্তা বেশি কৌশলগত নিয়ন্ত্রণের সঙ্গে যুক্ত। দুশ্চিন্তা কেবল ভার হিসেবে নয়, পর্যালোচনার সংকেত হিসেবেও কাজ করে।
 - **"সব দুশ্চিন্তাগ্রস্ত শিক্ষার্থী একইভাবে সাড়া দেয়।"** Kim-এর **চারটি নিয়ন্ত্রণ-ধরন — অবিবেচক নির্ভরতা 18.7%, নির্বাচনী সংযোজন 34.6%, মূল্যায়নমূলক রূপান্তর 31.8%, কৌশলগত প্রত্যাখ্যান 14.9%** — দেখায় দুশ্চিন্তা-চালিত পর্যালোচনা **চারটি স্বতন্ত্র** নমুনা তৈরি করে। "দুশ্চিন্তাগ্রস্ত শিক্ষার্থীদের" লক্ষ্য করে হস্তক্ষেপ এই তথ্য মিস করে যে বৃহত্তম একক দল নির্বাচনীভাবে সংযোজন করছে।
 - **"দুশ্চিন্তা সবসময় অংশগ্রহণ দমন করে।"** এই পুনঃনকশার **কথনে একটি সীমা** আছে: **৭০৮ জন ইংরেজি শিক্ষার্থীর** মধ্যে কথা-বলার-দুশ্চিন্তা থেকে ইচ্ছার সম্পর্ক **নিম্ন কথা-বলার স্ব-কর্মদক্ষতায় -0.371, কিন্তু উচ্চ পর্যায়ে +0.137**। স্ব-কর্মদক্ষতা উচ্চ হলে দুশ্চিন্তা ইচ্ছার সঙ্গে চলতে পারে, তাই প্রভাবের দিক আত্মবিশ্বাসের ওপর নির্ভর করে।
-
-## সংযুক্ত ধারণা
-- [[career-development-and-readiness]] — এআই-দুশ্চিন্তার বিরুদ্ধে সুরক্ষামূলক উপাদান হিসেবে কর্মজীবন-প্রস্তুতি
-- [[well-being]] — বিস্তৃত ছাতা যা এই ধারণাটি গভীরভাবে বিকশিত করে
-- [[remote-proctoring]] — নজরদারি/মিথ্যা-অভিযোগজনিত চাপের প্রধান উৎস
-- [[social-emotional-learning]] — জড়িত আবেগিক দক্ষতাগুলো
-- [[affective-computing]] — আবেগিক অবস্থা পড়া এআই
-- [[affective-tutoring]] — আবেগে সাড়া দেওয়া এআই
-- [[academic-integrity]] — সততা/প্রতারণা-অভিযোগের মাত্রা
-- [[privacy]] — প্রোক্টরিং-চাপের অন্তর্নিহিত নজরদারি-উদ্বেগ
-- [[student-experience]] — শিক্ষার্থীর অভিজ্ঞতার অংশ হিসেবে দুশ্চিন্তা
-- [[motivation]] — গ্রহণ ও সম্পৃক্ততার ওপর দুশ্চিন্তার প্রভাব
-- [[self-regulated-learning]] — ফলপ্রসূ-দুশ্চিন্তার সম্পর্ক
-- [[ai-literacy]] — ভিত্তিহীন দুশ্চিন্তা কমায় এমন সক্ষমতা গড়া
-- [[equity-in-ai-education]] — ঝুঁকিপূর্ণ শিক্ষার্থীদের ওপর অসম চাপ
-- [[ethics]] — নজরদারি ও মিথ্যা অভিযোগের ন্যায্যতা
-- [[teacher-role]] — শিক্ষক-পক্ষের দুশ্চিন্তা
-- [[assessment]] — এআই-মধ্যস্থ মূল্যায়ন-দুশ্চিন্তা
-- [[social-norms-ai-use]] — দৃশ্যমানতার আবেগিক মূল্য
-
-## সংযুক্ত নিবন্ধ
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — পরীক্ষকের মতো এজেন্ট একই সঙ্গে পরিমাপকৃত কথা-বলার দক্ষতা ও দুশ্চিন্তা বাড়িয়েছে
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - যোগ্যতা নৈতিক সচেতনতা বাড়ায়, নৈতিক সচেতনতা এআই-দুশ্চিন্তা বাড়ায়: ৫৮৪ শিক্ষার্থীর মধ্যে কেবল-পরোক্ষ মধ্যস্থতা
-- [[ai-anxiety-strategic-regulation-writing-2026]] — ফলপ্রসূ কৌশলগত-নিয়ন্ত্রণ সংকেত হিসেবে এআই-দুশ্চিন্তা
-- [[aivaluate-anxiety-assessment-2026]] — এআই-মধ্যস্থ কর্মক্ষমতা-ভিত্তিক মূল্যায়নে শিক্ষার্থীর দুশ্চিন্তা
-- [[ai-campus-wellbeing-tools]] — ক্যাম্পাস-সুস্থতার জন্য এআই-চালিত সরঞ্জাম
-- [[affective-text-wearable-student-health]] — শিক্ষার্থী-স্বাস্থ্যের জন্য আবেগিক টেক্সট + পরিধানযোগ্য সংবেদন
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — স্বয়ংক্রিয় প্রোক্টরিং, পরীক্ষার্থীর দুশ্চিন্তা, মিথ্যা অভিযোগ
-- [[automated-online-exam-proctoring-decade-review-2026]] — স্বয়ংক্রিয় পরীক্ষা-প্রোক্টরিংয়ের দশকব্যাপী পর্যালোচনা
-- [[moral-panic-genai-classroom]] — জেনএআই নিয়ে শিক্ষকদের দুশ্চিন্তা ও নৈতিক আতঙ্ক
-- [[acceptance-ai-english-tools-2026]] — এআই সরঞ্জাম গ্রহণ গড়ে তোলায় দুশ্চিন্তা
-- [[teacher-education-ai-literacy-sdt-2026]] — শিক্ষক-শিক্ষা, এআই-সাক্ষরতা ও দুশ্চিন্তা
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — এআই-ব্যবহার দুশ্চিন্তা, আস্থা ও আত্মবিশ্বাসের সঙ্গে জড়িয়ে
-- [[qu-wang-disclose-or-not-genai-2026]] — শিক্ষার্থী-চাপের উৎস হিসেবে প্রকাশের দ্বিধা
-- [[kim-ai-anxiety-comprehensive-analysis]] — এআই-দুশ্চিন্তা ও হস্তক্ষেপের ব্যাপক বিশ্লেষণ
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — কর্মজীবন-অভিযোজন-সক্ষমতা এআই-দুশ্চিন্তা কমায়
-- [[duan-ai-anxiety-career-decisions-college-2026]] — এআই-দুশ্চিন্তা কর্মজীবন-অভিযোজনযোগ্যতার মাধ্যমে কর্মজীবন-সিদ্ধান্ত ক্ষতিগ্রস্ত করে
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — এআই-দুশ্চিন্তা ও মনোভাব চাকরি-খোঁজার দুশ্চিন্তার পূর্বাভাস দেয়
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — স্বাস্থ্য-বিজ্ঞানে এআই-দুশ্চিন্তা চাকরি-খোঁজার দুশ্চিন্তার পূর্বাভাস দেয়
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — বিশ্ববিদ্যালয় শিক্ষকদের জিএআই অভিজ্ঞতা ও ধারণা: অসহায়তা, মূল্যায়ন পুনর্বিবেচনা, শিক্ষার্থীর শেখা ঝুঁকিতে (Farazouli প্রমুখ 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ও মেশিন লার্নিং ব্যবহার করে পাকিস্তানি বিশ্ববিদ্যালয় শিক্ষার্থীদের মধ্যে চাপ শনাক্ত ও সুস্থতা সহায়তার জন্য একটি এআই-চালিত সাংস্কৃতিকভাবে সচেতন চ্যাটবট
-- [[school-support-ai-learning-anxiety-control-value-2026]] — অনুভূত বিদ্যালয়-সহায়তা মূলত নিয়ন্ত্রণ-মূল্য মূল্যায়নের মাধ্যমে এআই-শিক্ষা-দুশ্চিন্তা কমায় (69.5% মধ্যস্থ); ANN ক্রস-ভ্যালিডেশন (Jiang, Chen ও Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — এআই গিল্ট কমপ্লেক্স: একাডেমিক কর্মীদের মধ্যে ব্যবহার-পরবর্তী অনুশোচনার চেয়ে বেশি পূর্বানুমানমূলক অপরাধবোধ (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-এর ১,০৫৭ মার্কিন শিক্ষকের জরিপ: অতিরিক্ত নির্ভরতা, সততা-উদ্বেগ ও কমে যাওয়া শিক্ষক-ভূমিকার পূর্বানুমান (Watson ও Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — ভয় থেকে কৌতূহল: ছয় সপ্তাহের শিক্ষক-ইনস্টিটিউট প্রশিক্ষকদের পরিচয়-হুমকির মধ্য দিয়ে নিয়ে যায় (Chick, Morello ও Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — এআই-মধ্যস্থ কাজে আবেগিক শ্রম হিসেবে একাডেমিক ডেভেলপারদের প্রতারক-অনুভূতি ও নৈতিক অস্বস্তি
-- [[parlant-emotional-micro-interventions-2026]] — জ্ঞানীয় মূল্যায়ন তত্ত্বে ভিত্তি করে প্রশিক্ষক-পক্ষের তাৎক্ষণিক আবেগিক ক্ষুদ্র-হস্তক্ষেপ
-
-- [[ai-employment-threat-career-anxiety-2026]] — এআই-কর্মসংস্থান-হুমকি ও কর্মজীবন-সিদ্ধান্ত-দুশ্চিন্তা: অনুভূত কর্মসংস্থানযোগ্যতা মধ্যস্থতা করে ও বৃদ্ধি-মানসিকতা নিয়ন্ত্রণ করে
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — এআই-ব্যবহার-চাপ এআই-দক্ষতা ও প্রথম বর্ষের অভিযোজনের মধ্যেকার সম্পর্ক দুর্বল করে
-- [[ai-attitude-latent-profiles-career-development-2026]] — এআই-দুশ্চিন্তা ও অনুভূত এআই-গুণমান — দুটোতেই উচ্চ একটি প্রোফাইল, একটিতে নয়
-- [[ai-speaking-practice-communicative-readiness-2026]] — উচ্চ কথা-বলার স্ব-কর্মদক্ষতায় কথা-বলার দুশ্চিন্তার সঙ্গে যোগাযোগের ইচ্ছার সম্পর্ক উল্টে যায়
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — অনুভূত এআই-সহায়কের বুদ্ধিমত্তা অধ্যয়ন-লক্ষ্য অগ্রগতির মাধ্যমে একাডেমিক দুশ্চিন্তা কমায় (চিকিৎসা-শিক্ষার্থী)

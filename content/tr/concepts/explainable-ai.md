@@ -18,11 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-
-
-
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -83,7 +80,6 @@ Açıklama niteliğinin ayrıca bir eşitlik boyutu vardır: teknik olarak mevcu
 
 Açıklama her zaman eşitleyici değildir. 250 yedinci sınıf öğrencisiyle yapılan 2 × 2 vinet deneyinde, bir matematik puanı için yazılı bir gerekçe her iki koşulda da kabulü ve algılanan adaleti yükseltmiş ama [[teacher-role|öğretmen]] kaynaklı ve YZ kaynaklı kararlar arasındaki boşluğu kapatmak yerine genişletmiştir ([[decision-making-agent-student-decision-acceptance-2026|Zhang ve ark. (2026)]]).
 
-
 Atıflar, doğruluk kanıtından çok bir güvenilirlik ipucu olarak davranır: bir tartışma arayüzüne atıflar ve otorite sinyalleri eklemek, doğru bir yargının YZ’nin konumu lehine terk edilmesini %15,0’dan %31,8’e çıkardı ve atıf yapılan vakalar bazen yanlış atfedildi veya uydurmaydı ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ve ark., 2026]]).
 
 Konuyu daha da keskinleştiren iki uyarı vardır ve ikisi de wiki’nin konu üzerine yeni katkısını merkezî kılar. Birincisi, açıklama makinesi kendisi tarafsız değildir: LIME ve SHAP gibi sonradan yöntemler, modelin fiili davranışına sadık olmayabilir, bu nedenle teknik olarak mevcut bir açıklama bilgilendirmek yerine yanıltabilir ([[lund-socially-accountable-data-science-xai-2026|Lund ve ark. 2026]], Chuan ve ark. 2024’e dayanarak). İkincisi, **açıklama hesap verebilirlik değildir**. Hangi özelliklerin bir tahmini yönlendirdiğine ilişkin bir hesap, bu özelliklerin kullanılmasının uygun olup olmadığını, eğitim verisinin temsilci olup olmadığını veya sistem tasarımının sağlam bir yargıyı yansıtıp yansıtmadığını göstermez; açıklamalar, bir kararı üreten yapısal koşullara dokunmadan şeffaflık görünümü yaratabilir (Mittelstadt ve ark. 2019). Eğitim için bunun anlamı, sürekli sorulması gereken sorunun bir açıklamanın üretilip üretilmediği değil, onu alan kişinin — bir öğrencinin, bir öğretmenin, bir danışmanın — onu anlayıp anlamadığı, ona göre hareket edip edemediği veya ardındaki karara itiraz edip edemediğidir. Aynı okunabilirlik başarısızlığı, [[automated-assessment|otomatik değerlendirmenin]] güvenlik tarafında da görülür: [[humble-prompt-injection-ai-grading-red-team-2026|Humble’ın (2026) bir YZ notlandırma aracı üzerine yaptığı kırmızı takım çalışması]], aracın bir istek metni enjeksiyonunu engelledikten sonra sohbeti sessizce devre dışı bıraktığını ve — yerleştirilmiş talimatları asla izlemeyeceğini duyurduktan sonra — aynı dosya üzerinde altı ek koşuda bunları izlediğini bulmuş; bu da kullanıcıya güvenini dayandırabileceği güvenilir bir sinyal bırakmamıştır.
@@ -108,47 +104,3 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 ## Atıf
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Bağlı Kavramlar
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı Makaleler
-- [[lund-socially-accountable-data-science-xai-2026]] — XAI’ı hesap verebilirlik uygulaması olarak öğretmek için dört sütunlu çerçeve (yanıt verebilirlik, sorumluluk, yaptırım, düşünsel duruş) (Lund ve ark. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Öğrenci merkezli ITS’nin değere duyarlı tasarımı (işbirlikçi ve ham açıklamalar karşılaştırması)
-- [[xai-education-framework]] — XAI-ED: eğitimde açıklanabilir YZ için temel çerçeve (Khosravi ve ark. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Alana özgü açıklamalar öğretmenlerin güvenini ve kabulünü inşa eder (Feldman-Maggor ve ark. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Şeffaf YZ destekli değerlendirmeye ilişkin öğrenci görüşleri (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Yorumlanabilir bilgi izleme
-- [[explainable-probabilistic-kt]] — Olasılıksal gömmeler yoluyla açıklanabilir bilgi izleme
-- [[neural-symbolic-knowledge-tracing]] — Sinir-sembolik bilgi izleme
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Kara kutu modelleri öğrenme analitiği için kendini açıklayan LM’lere damıtmak
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Gizliliği koruyan risk modellemesi için federasyonlu ve açıklanabilir öğrenme analitiği
-- [[sc2r-counterfactual-recourse-educational-2026]] — Eğitim karar desteği için anlamsal olarak kısıtlı karşıolgusal başvuru
-- [[fair-explainable-edu-recommendations]] — Adil ve açıklanabilir eğitim önerileri
-- [[multimodal-affective-its-presentation]] — Çok kipli duygusal geri bildirim için yorumlanabilir kapalı çevrim ITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Yükseköğretimde ChatGPT benimsemesinin açıklanması
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Tasarım gereği açıklanabilir LLM çerçevesi: otomatik öğretmen değerlendirmesi için çift mercekli dikkat ve puanla parametrelenmiş açıklamalar (Li ve ark. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ aracılı notlandırmada istek metni enjeksiyonu; tespitin kullanıcıya hiç bildirilmediği yer (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Yeni YZ destekli eğitimsel soruların pedagojik değerlendirmesi için önceden eğitilmiş modellerin değerlendirmesi
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Öğretmen kaynaklı ve YZ kaynaklı not verme kararları karşılaştırması: yazılı bir gerekçe adalet boşluğunu genişletti
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority signals raised deference to incorrect output, some references misattributed or fictitious
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — Aynı kohortta sembolik, alt-sembolik ve sinir-sembolik modeller tahminlerini farklı etkenlere atfetti

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,8 +48,6 @@ Tasarım odaklı düşünme yaratıcılık, zanaat ve eleştiri kesişiminde yer
 
 - **Tasarım pedagojisinde ve eğitimci çerçevelerinde YZ.** Tasarım odaklı düşünme eğitimcilerin YZ destekli öğrenmeyi nasıl inşa ettiğini de yapılandırır. [[gaide-vibe-coding-k12-teachers|GAIDE]], [[vibe-coding|vibe coding]] ile YZ destekli araçlar oluşturan K-12 öğretmenlerine tasarım odaklı düşünmeye dayalı bir çerçeve sunar; öğretmenlerin YZ okuryazarlığını yükseltir ve yaratmaya dayalı öğrenmeyi [[educational-development]] ve [[professional-training]] olarak destekler. [[dot-framework-survey-2026|DOT Çerçeve anketi]] (n=72), tasarım odaklı düşünmeyi açık sistem kuramına oturtmuş ve uygulayıcıların yinelemeli istek metni yazma ile içerik üretimi sıklıkla kullanırken ihtiyaç değerlendirmesini ve geri bildirim döngülerini yeterince kullanmadığını bulmuştur — bu uygulama–kuram boşluğu, YZ’yi [[human-in-the-loop-ai]] denetimi altında yanılabilir, ortak zekâya sahip bir işbirlikçi olarak işlevsel kılar. Öğrencilerle [[social-robot-study-companions|açık sosyal robotların birlikte tasarlanması]] dahi Double Diamond’u (tasarım odaklı düşünmenin bir varyantı) uygulamış, yapıyı erişilebilirlik çevresinde yeniden tasarlamıştır; böylece onarılabilirlik ve [[open-source]] ilkeleri süregelen öğrenme alanları haline gelmiştir.
 
-
-
 **Zihniyetin kendisi ölçülebilir ve bir program boyunca hareket eder.** [[design-thinking-aigc-fashion-film-2026|Liu ve ark. (2026)]], AIGC kullanan 409 moda filmi öğrencisinde beş tasarım odaklı düşünme zihniyeti boyutunu doğrulamış ve üçüncü sınıf öğrencilerini beşinin tamamında daha yüksek bulmuştur; en büyük standartlaştırılmış farklar abduktif akıl yürütme (0,865) ve yaratıcı özgüvendedir (0,760) — bu, tek başına üretilen alternatiflerin kanıtlamadığı bir [[design-education|tasarım eğitimi]] çıktısıdır.
 
 ## Pratik rehberlik
@@ -67,40 +67,3 @@ Eğitimde YZ bağlamında tasarım odaklı düşünme [[human-ai-collaboration]]
 **"Tasarım odaklı düşünme evre evre otomatikleştirilecek bir süreçtir."** Problemleri çerçeveleme ve yeniden çerçeveleme disiplinidir; sabitlenmenin kapattığı da budur. Evreleri otomatikleştirip çerçeveyi incelenmeden bırakmak, yanlış problem için yetkin çıktı üretir.
 
 **"[[student-support-and-success|Öğrenciyle]] aynı fikirde olan YZ etmenleri tasarım akıl yürütmesini destekler."** Burada belgelenen verimli kullanım ters yönde işler: [[ai-agents-constructive-conflict-design-education-2026|YZ etmenleriyle yapıcı çatışmalar]], yeniden düşünmeyi zorlayan karşıt istek metinlerini sınar. Uysal bir etmen sabitlenmeyi pekiştirir; itiraz odaklı olan, arkasında eğitsel bir iddia bulunan tasarımdır.
-
-## Bağlı kavramlar
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Bağlı makaleler
-
-- [[genai-architecture-education]] — Gen-AI-tecture: tasarım görevlerinde mimarlık öğrencilerini desteklemek için üretken yapay zeka kullanımı
-
-- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
-- [[genai-architectural-design-studios]] — Mimari tasarım stüdyolarında üretken yapay zekanın geliştirilmesi ve uygulamaları
-- [[social-robot-study-companions]] — Üniversite öğrencileriyle üretilebilir ve açık sosyal robot çalışma arkadaşlarının birlikte tasarlanması
-- [[gaide-vibe-coding-k12-teachers]] — Vibe coding yoluyla YZ destekli öğrenme teknolojileri oluşturmada K-12 öğretmenleri için bir yönlendirici çerçeve
-- [[dot-framework-survey-2026]] — DOT Çerçeve Anketi: YZ destekli eğitimde uygulayıcı inançları ve davranışları
-- [[ai-agents-constructive-conflict-design-education-2026]] — Yeni başlayan etkileşim tasarımcılarında yeniden değerlendirmeyi güçlendirmek için YZ ajanlarıyla yapıcı çatışmaların gerçekleştirilmesi
-- [[genai-usage-design-students-survey]] — Tasarım öğrencilerinin GenAI kullanımına dair bir çalışma: Politecnico di Milano’da 2025/2026 anket sonuçlarının ve YZ uygulamaları günlüklerinin analizi

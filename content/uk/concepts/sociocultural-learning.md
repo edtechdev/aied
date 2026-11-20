@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -79,32 +81,3 @@ ZPD (за Виготським) — це соціокультурне понят
 **«Додавання інструменту до групи змінює лише її ефективність.»** Воно змінює поділ праці, що є одиницею аналізу теорії. Група, яка скеровує більшість своїх запитань агенту, перерозподілила когнітивну роботу, навіть коли вивід не змінився.
 
 **«Розподілена пізнання означає, що індивід не має значення.»** Це означає, що внесок індивіда не можна вичитати лише з індивідуальної результативності; одиниця аналізу — система діяльності, а не людина ізольовано.
-
-## Пов’язані поняття
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Пов’язані статті
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM-authored hints matched human tutor hints on mathematics learning gains (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Fading on what the learner's turn is aimed at, not on how deep the reply is

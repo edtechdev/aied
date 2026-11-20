@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -110,42 +112,3 @@ Bidang ini juga menyempurnakan tiga konsep yang berdekatan. Dari [[simulation]] 
 **Bagi peneliti**
 
 - Laporkan sampel pralisensi dan perawat yang sudah praktik secara terpisah, dan teliti transisi ke praktik tersupervisi jika klaim kompetensi ingin bermakna secara klinis.
-
-## Konsep terkait
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Artikel terkait
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Aplikasi, sikap, dan etika dalam pendidikan keperawatan: tinjauan cakupan 103 studi (Hardie dkk. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Pengalaman pembelajar atas simulasi dan pelatihan keterampilan berbantuan AI generatif dalam pendidikan keperawatan: sebuah meta-sintesis
-
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Tinjauan sistematis AI dalam pendidikan keperawatan (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulasi bertenaga AI dalam pendidikan keperawatan: tinjauan sistematis metode campuran
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, kesenjangan struktural, dan rekonstitusi identitas profesional
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Pengalaman AI mahasiswa dan fakultas keperawatan melalui TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Persepsi AI dan kecemasan karier di kalangan mahasiswa ilmu kesehatan
-- [[genai-counter-learner-groupthink-2025]] — AI generatif untuk melawan groupthink dalam PBL interprofesional
-- [[dabkowski-nursing-academics-genai-2026]] — Akademisi keperawatan tentang GenAI: ambiguitas kebijakan, nilai profesional, dan pergeseran ke penilaian berpengawas
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Pengawasan jarak jauh dalam penilaian keperawatan: pengawasan, keadilan, dan kasus pencegahan yang dibangun atas persepsi
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Tinjauan pelingkupan yang memetakan kerangka kompetensi AI ke 12 subdimensi KAS untuk kurikulum keperawatan
-- [[rony-nursing-educators-ai-tpack-2025]] — Pendidik keperawatan di Bangladesh tentang kesiapan AI, hambatan, dan tata kelola data, dibaca melalui TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Tinjauan payung atas 18 tinjauan: etika, transformasi kurikulum, dan hambatan integrasi
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Mahasiswa keperawatan tentang rahasia terbuka penggunaan AI: pembelajaran yang dipersonalisasi, waktu, dan kesenjangan digital
-- [[agency-gap-ai-writing]] — RCT dengan mahasiswa kedokteran dan keperawatan: desain agen reaktif versus proaktif dan kesenjangan agensi
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 mahasiswa keperawatan: interaksi GenAI, interaksi edukatif, dan model mediasi just-identified
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Balasan terbitan atas Rony et al.: ekosistem institusional, kesiapan, dan pengawasan AI
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Fakultas dan mahasiswa bersama-sama merancang dasbor analitik pendidikan keperawatan
-- [[federated-learning-at-risk-student-prediction-2026]] — Prediksi berisiko yang menjaga privasi di seluruh program profesi kesehatan, dan mengapa ambang yang diimpor salah sasaran dalam keperawatan

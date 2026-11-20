@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -108,54 +110,3 @@ ai_assist:
 - **"نقل کا فریم GenAI اخلاقیات کے بارے میں سوچنے کا کافی طریقہ ہے۔"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] دلیل دیتے ہیں کہ اداروں کو جنریٹو AI کے سوالات **نقل کے فریم کے بجائے شراکت داری کی اخلاقیات** سے طے کرنے چاہئیں۔ فریم طے کرتا ہے کہ کون سے سوال پوچھے جائیں گے، اور بدانتظامی کا فریم تعلیمی مقصد کے بارے میں نہیں پوچھ سکتا۔
 - **"اساتذہ اور طلبہ اِس پر متفق ہیں کہ کیا اخلاقی ہے۔"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]]، **971 طلبہ اور 135 اساتذہ** کا [[mixed-methods-research|مخلوط طریقہ]] مطالعہ، پاتے ہیں کہ اخلاقی جہتیں گروہوں کے درمیان ہٹ جاتی ہیں۔ ایک نقطۂ نظر سے لکھی گئی پالیسی دوسرے کو غلط بیان کرے گی۔
 - **"اخلاقی اتفاقِ رائے استعمال سے پہلے آتا ہے۔"** **اپنانا اخلاقی اتفاق سے آگے نکلتا ہے**: امریکی استاد-تعلیم پروگرام میں چار سمسٹرز کے دوران طلبہ کا GenAI استعمال **جانچ کی تیاری کے لیے 57% سے 83% تک چڑھ گیا**۔ معیارات مشق سے بن رہے ہیں، نہ کہ اُلٹا۔
-
-## منسلک تصورات
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — AI استعمال اور انکشاف کے بیانات
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — کیمیا کی تعلیم اور AI: لیبز، تشکیلاتی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب کے تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص آلات
-- [[civic-and-political-education]]
-
-## منسلک مضامین
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — سویڈش سروے اور فوکس گروپ مطالعہ جو دلیل دیتا ہے کہ اداراتی genAI فیصلوں کی رہنمائی شراکت داری کی اخلاقیات کرے، نقل کا فریم نہیں
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - اخلاقی آگاہی نے AI کی بے چینی بڑھائی جہاں مقابلے کا کوئی فریم نہیں سکھایا گیا: 584 طلبہ میں صرف-بالواسطہ وساطت
-- [[learning-analytics-to-educational-interventions-2026]] — لرننگ اینالیٹکس سے تعلیمی مداخلتوں تک: قابلِ اعتماد LA پر مبنی مداخلتوں کے ممکن بنانے والے (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — طلبہ آن لائن جانچ میں AI کیسے استعمال اور چھپاتے ہیں
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — طلبہ کا AI انکشاف، بدنامی اور خود ضابطگی والی سیکھنا
-- [[vetter-hidden-cost-disclosure-genai-2026]] — انکشاف کی پوشیدہ لاگت
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — طلبہ کا AI استعمال کے اعلانات کی عدم تعمیل
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI کے اخلاقی جہتوں پر اساتذہ اور طلبہ کے خیالات
-- [[ethical-use-ai-engineering-education-review-2026]] — انجینئرنگ تعلیم میں AI کا اخلاقی استعمال: ایک منظم جائزہ
-- [[ai-ethics-education-public-discourse]] — تعلیم میں AI اخلاقیات پر عوامی مکالمے کا طولی تجزیہ
-- [[ethical-ai-higher-ed-game-theory]] — اعلیٰ تعلیم میں اخلاقی AI استعمال کے لیے گیم تھیوری فریم
-- [[cost-of-ethics-crisis-cs-ethics-education]] — CS طلبہ کی ملازمت کی تلاش میں اخلاقیات کے بحران کی لاگت
-- [[xai-education-framework]] — تعلیم میں قابلِ تشریح AI (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — متبادل AI فلسفہ: تعلیم میں AI کے لیے طریقہ کار کے طور پر تاؤازم
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ٹیوٹر کی حفاظت اور تدریسی نقصانات
-- [[raffaghelli-situated-ai-ethics-2026]] — حالات میں جڑی AI اخلاقیات: تعلیم کے لیے ثقافتی-تاریخی فریم
-- [[ethically-mediated-ai-tpack-china-2026]] — یونیورسٹی اساتذہ کے AI-TPACK میں AI اخلاقی علم بطور یکجا کرنے والا وسیلہ (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI اخلاقیات اور پیشہ ورانہ فیصلہ: ایک کتابیاتی تجزیہ (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO جنریٹو AI پالیسی فریم ورک کا تجزیہ
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — کیا اساتذہ کے لیے طلبہ کے فیڈبیک میں AI استعمال کرنا اخلاقی ہے؟
-- [[fekete-ethical-ai-literacy-gaps-2026]] — طلبہ، اساتذہ اور پالیسی کے درمیان اخلاقی AI خواندگی کے خلا کو پاٹنا
-- [[alharbi-ethical-genai-eap-2026]] — تعلیمی انگریزی (EAP) میں اخلاقی جنریٹو AI کا انضمام
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — پائیدار تعلیم اور AI کے لیے قدر-تنقیدی نقطۂ نظر (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — امتحان کی تیاری میں LLM اپنانے کی اخلاقی شرائط (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — استاد کی تعلیم میں طولی GenAI استعمال، اخلاقیات اور پالیسی (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی قدریں اور معیارات
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — کون عمل کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیمی تحقیق میں ایجنسی، علمی ذمہ داری اور جواب دہی کا کارپس کی مدد سے مکالمے کا تجزیہ
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — اخلاقی آگاہی، عکاسی اور بتائی گئی ذمہ دارانہ مشق تین سالانہ لہروں میں بڑی حد تک الگ الگ بڑھیں (Ayanwale et al.
-- [[qi-information-ethics-ai-judgment-2026]] — معلوماتی اخلاقیات کی تعلیم اور یونیورسٹی طلبہ میں AI کے اخلاقی فیصلے

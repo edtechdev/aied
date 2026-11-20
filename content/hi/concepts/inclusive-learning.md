@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -98,50 +100,3 @@ ai_assist:
 **"संघर्ष करने वाले छात्रों को बस बेहतर प्रॉम्प्ट करना सीखना चाहिए।"** यह प्रणाली के दोष को शिक्षार्थी के अभाव में बदल देता है। अंतर्निहित कार्य स्थिर रखते हुए, मॉडल सटीकता केवल **कम-साक्षरता वाली शब्दावली के 82.4% से विशेषज्ञ वाक्यांश के 83.4%** तक बढ़ी, एक अंक का अंतर, जबकि बेहतर [[prompt-engineering|प्रॉम्प्टिंग]] की माँग मौजूदा बहिष्कार के ऊपर एक नया बहिष्कार जोड़ती है। उत्तोलन भाषा-विविधता के प्रणाली-पक्ष संचालन में है, उपचारात्मक प्रॉम्प्ट प्रशिक्षण में नहीं।
 
 **"अच्छे-संसाधन वाली कक्षाओं के लिए बना उपकरण अनुवाद के बाद कम-संसाधन संदर्भों में काम करेगा।"** संदर्भ डिज़ाइन बाधा बदल देता है। [[suacode-african-students-motivations|SuaCode]] ने कम-संसाधन अफ्रीकी संदर्भों में छात्रों तक पहुँच बनाई जहाँ **1% से भी कम के पास कोडिंग कौशल है**, स्मार्टफ़ोन के लिए निर्माण करके, डेस्कटॉप लैब मशीनों के बजाय, जो एक भिन्न डिज़ाइन है, उसी डिज़ाइन का छोटा संस्करण नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — ठोस पहुँच परत (कैप्शन, वैकल्पिक पाठ, सहायक-प्रौद्योगिकी संगतता)
-- [[assistive-technology]] — वह उपकरण परत जिसका उपयोग छात्र सामग्री तक पहुँचने के लिए करते हैं
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## संबंधित लेख
-
-- [[prompt-privilege-equitable-ai-access-2026]] — प्रॉम्प्ट विशेषाधिकार: एलएलएम पहुँच में पहुँच विषमताओं को मापना और कम करना
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — बहरे और कम सुनने वाले शिक्षार्थियों के लिए एलएलएम-संचालित प्रश्न निर्माण
-- [[text-simplification-its]] — इंटेलिजेंट ट्यूशनिंग के लिए पाठ सरलीकरण
-- [[kutti-ai-voice-first-learning-companion]] — कुट्टी एआई: दृष्टिबाधित बच्चों के लिए आवाज़-प्रधान साथी
-- [[tactile-statistical-graphs-accessibility]] — स्पर्शनीय 3डी-मुद्रित सांख्यिकीय ग्राफ़
-- [[pepper-robot-sign-language-lis-2025]] — संकेत भाषा संप्रेषण का समर्थन करने वाला पेपर रोबोट
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — जेमिनी+लुआलाटेक्स गणित-सुलभ भौतिकी वीडियो प्रतिलेखन
-- [[khlaif-assistive-genai-visually-impaired-2026]] — दृष्टिबाधित शिक्षार्थियों के लिए सहायक जेनएआई
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव एआई, वर्चुअल रियलिटी, और आगे: उच्च शिक्षा में तंत्रिका-विविध छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों की एक स्कोपिंग समीक्षा

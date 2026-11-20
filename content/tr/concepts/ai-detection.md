@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -61,7 +63,6 @@ Araştırmalar tutarlı biçimde tespitin tek başına güvenilmemesine karşı 
 
 - **Tespit ve kaçınma, tek bir ticari pazarın iki yüzüdür.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe ve ark. (2026)]], YZ metnini tespitten kaçmak için yeniden yazan 55 YZ-insansılaştırıcı sitesini katalogladı ve analiz ettikleri üçünün de Google’ın ilk sayfasında olduğunu, ortaklık programlarıyla freemium katmanlarında satıldığını buldu. Politik-ekonomik argümanları dedektör politikası için önemlidir: tespit satıcıları bir yazarlık sınıflandırması satarken insansılaştırıcılar bu sınıflandırmayı değiştirme vaadini satar; dolayısıyla tespit öncelikli bir rejim kaçınma karşısında yalnızca başarısız olmakla kalmaz, ücretli kaçınma talebini de üretir. Siteler meşruiyeti varsaymak yerine sahnelemektedir — metin kutusunun altına yerleştirilmiş açıklamasız üniversite ve şirket logoları, doğrulanamayan kullanıcı iddiaları (üç sitede kabaca 3 milyon, 10.000 öğrenci, 1,5 milyon), %99,8–%100 başarı iddiaları ve “1,6 trilyon parametre” mistifikasyonu — ve hiçbirinde kayıtlı bir işletme adresi yoktu. Bir dedektör kararı için sonuç şudur: bir aracı engellemek, arkasındaki talep yapısını ortadan kaldırmaz.
 
-
 - **Uygulama, öğrencileri davranışa göre değil akademik sermayeye göre sıralayabilir (öne sürülmüş, ölçülmemiştir).** Dört UNESCO ve OECD yayınına dayanarak [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]], daha güçlü disipliner bilginin ve [[prompt-engineering|istek metni okuryazarlığının]] bir öğrencinin YZ çıktısını kabul gören bir akademik kayıt biçimine dönüştürmesine olanak verdiğini savunur. Böyleyse, YZ yardımının görünürlüğü alınan yardımın miktarını değil [[equity-in-ai-education|akademik sermayeyi]] izler ve tespit merkezli uygulama bu sermaye için bir süzgeç hâline gelir. Makale, işaretler veya yaptırım sonuçları hakkında veri içermeyen bir söylem analizidir ve iddiayı, YZ kullanım örüntüleri, tespit sonuçları ve suistimal kararları üzerine karşılaştırmalı kanıt gerektiren bir hipotez olarak ortaya koyar.
 - **Bir kopya düzenleme kararı değiştirir, bu da üslubu yazarlıktan ayırır.** Yazar, konu ve içerik 135.389 düzenlenmiş el yazması çifti boyunca sabit tutulduğunda, aynı düzenlemeler 13 dedektörü insan metninde zıt yönlere itmiştir: MAGE yanlış pozitiflerde -10,7 puan, RADAR -4,7, buna karşılık Fast-DetectGPT +4,6 ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong ve Kim (2026)]]). Temel oranlar %0,0 ile %100,0 arasında yayılmış ve düzenleme yoğunluğuyla ölçeklenmiştir.
 
@@ -96,7 +97,6 @@ Bassett ve ark., YZ tespitinin gözetim ve ceza yoluyla çözülemeyecek bir sor
 Tespit yalnızca kusurlu değil; hataları kalıplıdır. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]], bir dedektör puanını kanıt olarak görmeye karşı birikmiş davayı bir araya getirir: en kapsamlı erken [[benchmark]] hiçbir araç %80 doğruluğa ulaşmamıştır; basit parafraz ya da “insansılaştırma” bunu kabaca yarıya indirir; gerçekçi temel oranlarda yanlış pozitifler doğruları aşar; ana dili İngilizce olmayan konuşmacılar sistematik biçimde yanlış sınıflandırılır, çünkü dedektörlerin sinyal olarak gördüğü özellikler yetkin ikinci dil yazımını da tanımlar. İnsan yargısı boşluğu doldurmaz — uzman ve acemi değerlendiricilerin tümü YZ’yi öğrenci düzyazısından ayırt edemez ve hatalı olduklarında emindir; hata asimetrisi, dikkatsiz ama dürüst olanların yakalanıp kasıtlı aldatıcıların kaçması anlamına gelir; dedektörler ayrıca opaktır (eşik yok, eğitim verisi yok, bağımsıztan çoğaltma yok) ve dolayısıyla bir duruşmada yanıtlanamaz veya çapraz sorgulanamaz.
 
 İki ek nokta pratikteki riskleri keskinleştirir. Birincisi, temel istatistiksel sinyal, modeller insan düzyazısına doğru optimize edildikçe küçülür; dolayısıyla silahlanma yarışı bir kurumun kazanamayacağı türdendir. İkincisi, ampirik sınır durumu çarpıcıdır: gizli bir alan çalışmasında, beş psikoloji modülü üzerinde canlı bir çevrimiçi [[summative-assessment|examination]] sisteminden fark edilmeden geçen tamamen YZ tarafından üretilmiş gönderilerin oranı %94’tü ve YZ işi ortalama olarak gerçek öğrencilerden daha yüksek puan aldı. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]], gözetlemenin hiç ne zaman işe yaradığını belirleyen sezgi aykırı sonucu ekler: duyarlılık, doğru pozitiflerin yanında yanlış pozitifleri de artırdığından, rasyonel caydırıcı ayrımcılıktır — gizli kullanımı işaretlemek ile yasal işi işaretlemek arasındaki uçurum. Fazladan duyarlılığın yeni doğru pozitiflerden çok yeni yanlış pozitifler ürettiği yerde, daha fazla gözetim gizlemeyi görece daha çekici kılar ve dürüst öğrencileri gizli kullanıcıları belirlemekten daha hızlı cezalandırır. Tasarım sonucu şudur: dedektörler, kurallar ve açıklama prosedürleri ayrı ayrı inşa edilmemelidir.
-
 
 Test zamanı uyarlaması, bu iddianın dışarıda bıraktığı karşı örnektir. Her dedektörü sırayla atlatmak için en iyileştirilmiş insansılaştırıcı istek metinlerine karşı denetimli tespit çökmüş, Pangram düşmanca YZ metninin %27,0’sini yakalamıştır; etiketsiz çıkarım zamanı yığınları üzerinde uyarlanan bir pozitif-etiketsiz yöntem ise %93,3’ü korumuştur ([[ren-test-time-adaptation-ai-text-detection-2026|Ren, Raghavan ve Garg (2026)]]). İnsan kayması deneyleri, bu sayfanın uyardığı yanlış pozitifleri üretmiştir: sabit bir dedektörün insan metnindeki geri çağırması, benzetilen bir on yıl boyunca %85,9’dan %73,4’e düşmüştür.
 
@@ -138,55 +138,3 @@ Yapıcı soru, “öğrencilerin YZ kullanmasını nasıl önleriz?” sorusunda
 **“Bir dedektörün yanıtladığı soru, yazının insan mı YZ mi olduğudur.”** Bu ikili, hesaplanması zor olmaktan çok kavramsal olarak sağlam değildir. Yazma desteği bir süreklilik üzerinde var olur, çoğu kurumun politikası bunun bir kısmına izin verir ve bir çıktı puanı üzerindeki hiçbir eşik savunulabilir bir sınıra karşılık gelmez. Ölçülen başarısızlık bir politika başarısızlığıdır: dedektörlerin vaat ettiği kategoriler öğrencilerin gerçekte sunduğu çalışmada bulunmamaktadır.
 
 **“Bir tespit rejimi bütünlüğü korur.”** Bütünlüğü baltalayabilir. Tespit, öğrenciler ile personel arasındaki [[trust]] aşındıran bir şüphe iklimini besler ve bu bilgi tabanının bildirdiği [[academic-integrity]] literatürü kalıcı kaldıraçları denetimde değil, değerlendirmenin yeniden tasarımında konumlandırmaktadır. Silahlanma yarışının mekanizması ayrıca rejimin daha az ölçerken daha pahalıya mal olmaya devam etmesi anlamına gelir: temel işaretleme oranları düzenleme yoğunluğuna göre **%0,0 ile %100,0** arasında yayılmıştır, ki bu bir ayrım sinyali değildir.
-
-## Bağlı kavramlar
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Bağlı makaleler
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — Meşruiyet sahneleyen 55 insansılaştırıcı sitesi: tespit ve kaçınma tek bir ticari pazar (Roe ve ark. 2026)
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
-- [[ivory-psychology-assessment-integrity-2026]] — Detection is the wrong lever: the pass boundary decided whether AI work was graded as achievement (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
-- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Why detector output cannot ground a misconduct finding
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discrimination rather than catch rate, and when monitoring backfires
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin and Originality on 192 texts: both below a macro F1 of 0.55 and near-useless on hybrid writing
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Four detectors against 160 ground-truth papers; only Pangram performed, yet flagged 45.5% of live theses
-- [[munoz-misconduct-allegation-evidence-2026]] — Detector output is the weakest-rated evidence type in 1,162 real misconduct case files
-- [[wright-transcription-not-generation-2026]] — Blanket "AI use" rules conflate transcription with generation
-- [[sharma-judgment-visible-genai-assessment-2026]] — Detection demoted to a supplementary layer behind visible judgment
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Detection as a conditional signal, and why security responses add construct-irrelevant variance (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — One human manuscript, five detectors, classifications from "0% human" to "Human Generated", plus the documented institutional retreat from detection (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
-- [[student-llm-code-detection-cs1-2026]] — LLM code converges on tightly constrained assignments (1-14 AST forms per 1,000 files) but not on free ones - detectability follows task design
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Uygulamanın davranışa değil akademik sermayeye göre süzgeç işlevi gördüğüne dair bir hipotez
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Sekiz LLM altı hile karşıtı tekniği sıralıyor; YZ tespiti en sonda
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Yirmi puanlayıcı; sezgi, ölü dedektörler ve uydurulmuş kaynaklar

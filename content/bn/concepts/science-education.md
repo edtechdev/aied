@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -61,7 +63,6 @@ GCSE বিজ্ঞানে একটি এআই পুনরালোচন
 
 **সাধারণ এআই-স্বাচ্ছন্দ্য শাস্ত্রের নিজস্ব সরঞ্জামে স্থানান্তরিত হয়নি।** কাজাখস্তানের একটি বিশ্ববিদ্যালয়ের 100 জন ভূগোল শিক্ষার্থীর মধ্যে, এআই ও GIS দিয়ে শেখানোর প্রস্তুতি GIS-পরিচিতি (ρ = 0.508) ও GeoAI-জ্ঞান (ρ = 0.425) অনুসরণ করেছে, কিন্তু সাধারণ এআই-পরিচিতি নয় (ρ = 0.071, p = 0.485) — যা সরঞ্জাম-আকৃতির যেকোনো শাস্ত্রে [[teacher-education|শিক্ষক-প্রস্তুতির]] জন্য একটি শিক্ষা ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov প্রমুখ (2026)]])। সাতষট্টি শতাংশ কোনোভাবে নিজেদের প্রস্তুত বলেছেন, তবু কেবল 6% বাস্তবে এই সমন্বয় ব্যবহার করেছেন এবং 43% উপলব্ধ নির্দেশনা যথেষ্ট বলে বিচার করেছেন। মূল্যায়নটি [[self-report-measures|স্ব-প্রতিবেদিত]] ও অযাচাইকৃত, তাই এটি বর্ণনা করে এই শিক্ষার্থীরা নিজেদের সম্পর্কে কী বলেন।
 
-
 [[llm-benchmark-secondary-science-topics-2026|Schroeder প্রমুখ (2026)]] জিজ্ঞাসা করেন সাধারণ মডেলগুলো বিজ্ঞান-বিষয়বস্তু নিজেই কত ভালো সামলায়: মধ্য বিদ্যালয়ের (1,078 আইটেম) ও উচ্চ বিদ্যালয়ের (1,150 আইটেম) NGSS-সামঞ্জস্যপূর্ণ আইটেম-সেটে নয়টি মুক্ত-ওজন মডেল মূলত 90% ছাড়িয়েছে, মডেল-আকার নির্ভুলতার সঙ্গে অসম্পর্কিত। একজন বিজ্ঞান শিক্ষক নমুনাকৃত 240 আইটেমের 236টি (98.3%) সামঞ্জস্যপূর্ণ বিচার করেছেন, একই সঙ্গে চিত্র, তথ্য-ব্যাখ্যা ও গাণিতিক উপস্থাপনার অনুপস্থিতি চিহ্নিত করেছেন — কেবল-পাঠ্য আইটেম প্রতিটি NGSS কর্ম-প্রত্যাশা প্রয়োগ করতে পারে না। [[item-response-theory|উচ্চ আইটেম-কঠিনতা]] ও নিম্ন বৈষম্য খোলা রাখে আইটেমগুলোর উন্নতি দরকার কি না, নাকি এই শ্রেণির মডেলের জন্য মাধ্যমিক বিজ্ঞান সহজলভ্য হয়েছে; এবং লেখকেরা বহু-পালা, প্রমাণ-ভিত্তিক ফিডব্যাককে অনুপস্থিত মানদণ্ড বলেন।
 
 GenAI ও প্রেরণার 42-গবেষণার মেটা-বিশ্লেষণে ক্ষুদ্রতম বিষয়-ক্ষেত্র-প্রভাব বিজ্ঞানে (g = 0.109, 95% CI [−0.107, 0.325], k = 3), একমাত্র ক্ষেত্র যার ব্যবধান শূন্য অতিক্রম করে, তাই পুলকৃত প্রমাণ বিশেষভাবে বিজ্ঞানে GenAI-এর জন্য একটি [[motivation|প্রেরণামূলক]] যুক্তি সমর্থন করে না ([[genai-learning-motivation-meta-analysis-2026|Fang প্রমুখ (2026)]])।
@@ -73,39 +74,3 @@ GenAI ও প্রেরণার 42-গবেষণার মেটা-বি�
 - **"বিজ্ঞান শিক্ষায় এআই-এর কোনো কারণগত প্রমাণ নেই।"** GCSE বিজ্ঞানে একটি এআই পুনরালোচনা প্ল্যাটফর্মের **চার-সপ্তাহের দৈবায়িত মূল্যায়ন** **Hedges' g = 0.33** কারণগত অনুমান দেয়, **বিষয় অনুযায়ী প্রভাব ভিন্ন হওয়ার কোনো প্রমাণ ছাড়াই**। প্রভাবটি মাঝারি এবং তা কারণগত।
 - **"শিক্ষার্থীদের প্রবেশাধিকার দিলেই লাভ আসবে।"** **প্রবেশাধিকার নিজে নয়, কাঠামোবদ্ধ প্রবেশাধিকারই লাভ চালায়**: **সীমাহীন ব্যক্তিগত প্রবেশাধিকারে দল-প্রতিবেদিত প্রবৃদ্ধির গড় 17%, কিন্তু প্রবেশাধিকার কাঠামোবদ্ধ হলে 34% ও 31%**। কাঠামোটাই ছিল হস্তক্ষেপ।
 - **"বৈজ্ঞানিক সিমুলেশনে বিশেষায়িত সফটওয়্যার দরকার।"** **চার-উপাদানের একটি স্বাভাবিক-ভাষা প্রম্পট** একটি **হাত-নিয়ন্ত্রিত অগমেন্টেড-রিয়েলিটি পদার্থবিজ্ঞান সিমুলেশন** তৈরি করতে পারে। সিমুলেশন রচনার বাধা প্রম্পট-নকশায় নেমে এসেছে, যা প্রয়োজনীয় দক্ষতাকে প্রোগ্রামিং থেকে ঘটনাটি নির্দিষ্ট করার দিকে সরিয়ে দেয়।
-
-## সংযুক্ত ধারণা
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — পাঠ্যক্রম, নির্দেশনা ও মূল্যায়ন জুড়ে সামঞ্জস্য হিসেবে বিজ্ঞান-সাক্ষরতা নিয়ে কাঠামো-অধ্যায় (Zhai প্রমুখ 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — এআই পদ্ধতি কীভাবে বিজ্ঞান শিক্ষা গবেষণা রূপান্তরিত করতে পারে তা নিয়ে প্রতিফলনের সাত-পর্যায়ের জ্ঞানতাত্ত্বিক-পুনরাবৃত্তি কাঠামো (Martin প্রমুখ, 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — বিজ্ঞান ও রসায়ন শিক্ষায় এআই-এর পদ্ধতিগত পর্যালোচনা
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM-এ অনুসন্ধান-ভিত্তিক শিখনের জন্য ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — সালোকসংশ্লেষণ ও শ্বসনে এআই-সমর্থিত পরিচালিত অনুসন্ধান
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — তাপ ও তাপমাত্রায় ধারণা-পরিবর্তন পাঠ্য বনাম এআই সংলাপ
-- [[ai-grading-handwritten-physics-2026]] — হাতে-লেখা পদার্থবিজ্ঞান মূল্যায়নের বড় মাপের এআই গ্রেডিং
-- [[avraamidou-ai-colonization-science-education]] — বিজ্ঞান শিক্ষার এআই উপনিবেশায়ন নিয়ে সমালোচনামূলক ভাষ্য
-- [[pre-service-science-teachers-ai-perceptions-2026]] — প্রাক-সেবা বিজ্ঞান শিক্ষকদের এআই-ধারণা ও গ্রহণ
-- [[ai-assisted-inquiry-ssi-climate]] — জলবায়ু পরিবর্তন নিয়ে সমাজ-বৈজ্ঞানিক বিষয়ে এআই-সহায়ক অনুসন্ধান
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — উদ্ভাবনের গতিতে এআই টিউটরিং মূল্যায়ন: GCSE বিজ্ঞানে একটি এআই টিউটরিং প্ল্যাটফর্মের অনুশীলনকারী-নেতৃত্বাধীন ক্ষুদ্র-দৈবায়িত পরীক্ষা
-- [[llm-benchmark-secondary-science-topics-2026]] — মধ্য বিদ্যালয় ও উচ্চ বিদ্যালয়ের বিজ্ঞান-বিষয় বোঝায় LLM-এর একটি বেঞ্চমার্ক
-- [[nature-of-science-generative-ai-2026]] — উৎপাদনশীল কৃত্রিম বুদ্ধিমত্তার যুগে বিজ্ঞানের প্রকৃতি: জ্ঞানতাত্ত্বিক কর্তৃত্ব, বস্তুগততা ও একটি সহযোগী প্রতিক্রিয়া
-- [[ai-university-physics-education-review-2026]] — বিশ্ববিদ্যালয় পদার্থবিজ্ঞানের এআই পর্যালোচনায় কাঠামোবদ্ধ দল-প্রবেশাধিকার সীমাহীন ব্যক্তিগত প্রবেশাধিকারকে ছাড়িয়ে গেছে
-- [[genai-learning-motivation-meta-analysis-2026]] — একমাত্র ক্ষেত্র যার প্রেরণামূলক ব্যবধান শূন্য অতিক্রম করে (g = 0.109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — সাধারণ এআই-স্বাচ্ছন্দ্য GeoAI-প্রস্তুতিতে স্থানান্তরিত হয়নি
-

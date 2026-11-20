@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -46,13 +47,3 @@ Perpustakaan umum yang ingin menyelenggarakan kios (program ini menerima lamaran
 - Perpustakaan peserta menyumbang **\$1,000 per penerapan kios per tahun**; pilot itu sendiri terbatas pada lokasi yang mendaftar.
 - Pernyataan privasi adalah klaim program, bukan temuan yang diaudit; perpustakaan sebaiknya memastikan ketentuan penyimpanan dan keselamatan anak dalam perjanjian pemrosesan datanya sendiri.
 - Fase kedua dan ketiga peta jalan, yang memungkinkan perpustakaan menyerap arsip lokal dan mengelola sistem yang dihasilkan, masih direncanakan dan belum dirilis.
-
-## Konsep terkait
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

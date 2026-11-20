@@ -31,6 +31,7 @@ ai_assist:
 translation_of: "resources/claw-ed"
 source_updated: "2026-09-23T21:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -45,6 +46,3 @@ Il progetto è deliberatamente indipendente dal modello. Documenta fianco a fian
 ## Note e avvertenze
 
 Il software è gratuito e [[open-source|open source]] sotto licenza MIT per il suo codice originale, sebbene i componenti di terze parti mantengano i propri termini, ed eseguirlo significa pagare la propria inferenza di modello se si usa un modello ospitato. Il progetto si definisce una beta revisionata dai docenti e dichiara chiaramente nel proprio README che superare la sua CI non stabilisce la qualità didattica attraverso i modelli in produzione, il che è il modo giusto di leggere una suite di test verde in questo ambito: verifica il software, non la [[pedagogy|pedagogia]]. È mantenuto da MacxLabs e accetta lezioni campione revisionate dai docenti come contributi.
-
-## Concetti collegati
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

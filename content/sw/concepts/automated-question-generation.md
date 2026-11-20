@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -87,53 +89,3 @@ AQG ni kiwezeshaji muhimu cha kujifunza [[adaptive-learning|kwa kubadilika]] na 
 **"Uundaji wa maswali huleta ubinafsishaji wa mazoezi kiotomatiki."** Huu zalisha ugavi, na ubinafsishaji ni tatizo la kulinganisha. Kuzalisha vipengele zaidi hakukuambii kipengele gani mwanafunzi fulani anapaswa kuona kijacho, na swali la uteuzi unaobadilika ni utaratibu tofauti wenye ushahidi wake.
 
 **"Uzalishaji hupanua tathmini bila kubadilisha kile tathmini inapima."** Hubadilisha muundo wa kile kinachopimwa, kwa kuwa vipengele vinavyozalishwa vizuri si sampuli wakilishi ya vipengele vinavyotathmini vizuri. Miundo rahisi kuzalisha itaendelea kuendelea kuzidi ile ngumu kuzalisha, jambo linalounda upya kwa utulivu kile kinachopimwa.
-
-## Dhana Zinazohusiana
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Makala Zinazohusiana
-- [[genai-medical-education-transformation-review-2026]] — Ukaguzi wa upeo wa ripoti 153 za elimu ya tiba juu ya uzalishaji wa vipengele na AI ikilinganishwa na ubora wa vipengele vya wanafunzi wa tiba
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Uthibitishaji wa shamba kwa kiwango kikubwa wa ubora wa mtihani uliozalishwa na AI kupitia IRT
-- [[generate-then-validate-question-gen]] — Uundaji wa maswali wa Generate-Then-Validate
-- [[kt4eqg-personalized-question-generation]] — Uundaji wa maswali ya kibinafsi kupitia ufuatiliaji wa maarifa
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Uundaji wa maswali unaoendeshwa na LLM kwa wanafunzi Wasio na Uwezo wa Kusikia na Wenye Ulemavu wa Kusikia
-- [[llm-educational-question-cognitive-depth]] — Kina cha kiutambuzi cha maswali yaliyozalishwa na LLM
-- [[slidesqaqa-pedagogical-question-generation]] — Uundaji wa maswali na majibu ya slaidi ya kitaaluma
-- [[code-gen]] — CODE-GEN: uundaji wa maswali unaotegemea RAG na binadamu katika mzunguko
-- [[nsmq-riddles-science-math-benchmark]] — Vipimo vya viwango vya NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — Kazi za kibinafsi zinazotegemea masilahi
-- [[llm-difficulty-calibration-programming-exams-2026]] — Urekebishaji wa ugumu unaotegemea LLM
-- [[self-referential-l2-writing-llm-assessment]] — Tathmini ya uandishi wa kielelezo wa kurejea mwenyewe
-- [[cross-dataset-bloom-question-classification]] — Uainishaji wa maswali wa Bloom kupitia seti nyingi za data
-- [[llm-chatbots-cs-multiple-choice]] — Chatbot za LLM na vipengele vya chaguo-nyingi vya CS
-- [[socratic-tests-conversational-assessment]] — Majaribio ya Socratic: tathmini ya mazungumzo
-- [[llm-turing-test-italian-legal-exams-2026]] — Jaribio la Turing la LLM katika mitihani ya kisheria ya Kiitaliano
-- [[razavi-powers-item-difficulty-llm-2026]] — Makadirio ya ugumu wa kipengele kwa kutumia LLM na mifano ya mti
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Tathmini ya Ubora wa Kipengele cha Hisabati Inayotegemea Mchakato
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mlezi Mwakala Anayejifunza Mwanafunzi wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu–AI
-- [[automated-constructive-assessment-hdr-llm-2026]] — Kiotomatiki kwa Tathmini ya Ujenzi na Miundo Mikubwa ya Lugha: Kuelekea Tathmini Inayoweza Kupanuliwa na Kurudiwa ya Uwezo wa Vitendo
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM na Mipaka ya Ugumu wa Swali Ulioundwa na AI katika Kozi za Sayansi ya Data
-- [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano iliyofunzwa awali kwa tathmini ya kitaaluma ya maswali mapya ya elimu yanayosaidiwa na AI
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Wanafunzi hawakuweza kutofautisha maswali ya MCQ yaliyozalishwa na AI na vipengele vya mtihani wa leseni katika mtihani uliopimwa, na 18.2% ya vipengele vilivyozalishwa viliondolewa katika ukaguzi (Vogt na wenzake 2026)

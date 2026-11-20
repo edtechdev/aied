@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -136,71 +138,3 @@ AI 教育中的形式性评估与学习过程本身相连：
 - **“生成的练习题提供有用的形式性信号。”** **一个容易的生成题库不提供任何形式性信号**：在一次**为期 10 周的部署**中，约 **70% 的 AI 生成练习题被每一名学生答对**。一个所有人都通过的题库，不携带关于谁需要什么的信息。
 - **“题目生成的可靠性在各题型上是一致的。”** AI 系统跨模态生成形式性题目，**可靠性因类型而异**，其中包括选择题。把生成的题目当作跨题型可互换，会掩盖生成在哪里可靠。
 - **“给学生 AI 反馈就会产生践行。”** **践行问题**是与反馈质量分开记录的：接受反馈与据以行动是两个独立的步骤，而形式性评估的成败在第二步。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 当 AI 供给部分反馈时形式性评估所采取的顺序形态
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — 总结性评估：AI 抗性的形式（口试、监控考试、闭卷考试）
-- [[reflection]]
-
-## 关联文章
-
-- [[llm-multi-agent-conversation-assessment-2025]] — 一个用于对话型评估的四智能体架构，其评分者向中间类别折中（Hou 等 2025）
-- [[causal-modeling-competency-assessment-2026]] — 学生能力评估中支持干预的因果建模
-- [[nicola-richmond-programwide-assessment-genai-2025]] — GenAI 时代重新设计评估的全项目路径
-- [[ai-feedback-enactment-workflow-2026]] — 让 AI 生成的反馈要紧起来：从供给到践行
-- [[care-full-feedback-genai]] — GenAI 时代悉心反馈的手艺
-- [[feedback-futures-genai]] — 反馈的未来：超越人与 GenAI 能力的极限
-- [[sequenced-ai-feedback-learning]] — 顺序化 AI 反馈的影响与通路
-- [[learner-centered-feedback-ai]] — 用 AI 增强以学习者为中心的反馈
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 从自动评分到学习诊断：英语写作中 AI 支持的形式性评估的机制研究
-- [[ai-internal-feedback-evaluative-judgments]] — 通过 AI 支持的内部反馈发展评价性判断
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL：带人在回路提示的形式性评估评分
-- [[automated-formative-assessments-a-level-sciences]] — 高频自动化形式性评估
-- [[ai-generated-feedback-higher-ed]] — 高等教育中的 AI 生成反馈
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens：课程锚定的 AI 反馈
-- [[genai-teacher-feedback-comparison]] — GenAI 与教师反馈的比较
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT 反馈与投入
-- [[code-gen]] — CODE-GEN：经验证的多选题生成
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代负责任的评估
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 为真实性评估而设计
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Linux/bash 考试的自动评分
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 增强的形式性评估中的教师与 AI 角色
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新考虑口试作为真实的、AI 抗性的评估
-- [[roe-assessment-twins-2026]] — 评估孪生：在 GenAI 时代强化评估效度（Roe、Perkins 与 Giray 2026）
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R：AI 评估评分标准生成
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI 辅助的教师监督评分与反馈
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS 中的自适应 ICAP 脚手架（BKT 对 DRL）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM 作为迭代式教学设计中的智能体
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — 自适应使反馈有效：来自儿童计划上 AI 生成反馈的证据
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自动评分、口译表现与自我调节学习（Chen 与 Liu 2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AI 支持的形式性评估中教师的诊断技能：从诊断到元诊断
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 跨三个教育层级的编程中 LLM 生成反馈的感知有用性与使用意愿
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音乐教育中结合生成式 AI 与大数据分析的自适应教学辅助
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 中介的持续评估基础设施（AIM-CAI）：跨语境与时间连接学习证据（McNamara 与 Hasnine 2026）
-- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
-- [[assessment-feedback-trilemma-model-2026]] — 对监控风险的正面对应物：把可观察性当作证据设计，而非监控
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 学生对自适应测验的推荐追踪的是用起来的感觉，而不是他们的主题理解

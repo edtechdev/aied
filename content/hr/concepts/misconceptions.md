@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -126,38 +128,3 @@ Ta su opovrgavanja namjerno napisana u obliku [[refutation-text|teksta opovrgava
 - **„Zablude nastavnika mogu se ispraviti izlaganjem dokaza.“** U pilotu s **123 talijanska nastavnika** neslaganje se najjače okupljalo oko **kognitivnih stilova učenja (78% nastavnika branilo je vizualno/slušno uparivanje)**, uključivanja i grupnog rada (68%) te preopterećenosti obrazovnom tehnologijom (54%). Najjača neslaganja bila su ona najotpornija na dokaze, zato [[refutation-text|opovrgavanje]] pobjeđuje tvrdnju.
 - **„Svi prigovori nastavnika na dokaze puko su opiranje.“** Kad su iste čestice dostavljene kroz razgovorni AI koji je **validirao nastavnikov kontekst prije ponovnog uvođenja dokaza**, **41% prigovora ticalo se stvarnih kontekstualnih ograničenja** — veličine razreda, posebnih potreba, zahtjeva kurikula. Znatan dio prividne zablude bio je točan prigovor.
 - **„Zablude se mogu pouzdano otkriti iz dijaloga.“** **Od 241 potaknutog segmenta, 221 (91,7%) potvrđeno je kao strateška zabluda većinskim glasom stručnjaka (Fleiss' κ = 0,9487)**, bez **značajnih razlika** među skupinama. Visoka pouzdanost dostižna je uz stručno presuđivanje, i to je uvjet o kojem tvrdnja ovisi.
-
-## Povezani koncepti
-
-- [[pedagogical-patterns]] — Slijedovi konceptualne promjene koji se suočavaju s konkretnim držanim uvjerenjem
-- [[learners]] — Učenici: krovni pojam za koncepte na strani učenika
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Povezani članci
-
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Ne vjerujte hypeu: osam mitova o AI-ju i potreba za kritičkim pristupom u visokom obrazovanju
-- [[student-rationalization-ai-writing]] — Studentska racionalizacija AI pisanja
-- [[genai-skill-bypass-literacy]] — Zaobilaženje vještina pomoću GenAI-ja i pismenost
-- [[trust-reliance-ai-education-2026]] — Povjerenje i oslanjanje u AI obrazovanju
-- [[contextual-sycophancy-ai-literacy]] — Kontekstualno ulizivanje i AI pismenost
-- [[sycophantic-ai-social-interaction-2026]] — Ulizivački AI u društvenoj interakciji
-- [[llm-fallacy-misattribution]] — Pogrešno pripisivanje zablude LLM-a (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Pogrešne, ali pamtljive: kritička recepcija interesa personaliziranih GenAI analogija kod studenata računarstva
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: tečna, autoritativna objašnjenja koja su konceptualno, a ne činjenično pogrešna (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Skrivene upute u predanoj datoteci mogu podići AI ocjenu bez vidljivog upozorenja (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Zablude djece o sigurnosti AI-ja: prijateljstvo s robotom pogrešno shvaćeno kao jamstvo privatnosti (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Razgovorni AI dijagnostik za nastavne zablude s dijalogom utemeljenim na dokazima (Miranda & Calvani 2026)

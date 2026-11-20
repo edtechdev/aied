@@ -37,6 +37,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -196,56 +198,3 @@ AI 既改变了我们评价学习者的方式，也改变了我们评价 AI 系�
 **"因为 AI 是通用的，任何地方的发现都适用于所有地方。"** 技术的通用性并不产生证据的通用性。学科、层次和情境分支之所以存在，是因为同一工具在它们之间表现不同；把一个不变的发现带过边界，就是一种外推。
 
 **"领域的成熟度可以从其出版数量看出来。"** 数量与成熟度会分道扬镳；研究方法分支记录下反复出现的设计弱点，这些弱点并不会因数量而修复，而框架的增殖速度快于它们被检验的速度。
-
-## 关联概念
-
-- [[primary-education]] — 小学教育中的 AI
-- [[secondary-education]] — 中学阶段的 AI
-- [[undergraduate-education]] — 本科学习中的 AI
-- [[graduate-education]] — 硕士与博士学习中的 AI
-- [[pedagogical-patterns]] — 教育学模式：将该领域的教学法具体化的经验证序列
-- [[ai-literacy]] — ：总括概念，理解、使用与评价人工智能
-- [[automation-bias]] — ：读者一侧的失效——不加核查地接受自动判断
-- [[human-ai-collaboration]] — ：总括概念，人与人工智能如何协同工作
-- [[pedagogy]] — ：总括概念，教学方法与策略
-- [[case-based-learning]] — ：案例方法、案例讨论与对照案例
-- [[metaphors-and-analogies]] — ：隐喻如何塑造对 AI 的理解，类比如何支持教学
-- [[learning-theories]] — ：总括概念，学习如何发生
-- [[ai-technologies]] — ：总括概念，模型、方法与系统
-- [[discipline-specific-aied]] — ：总括概念，人工智能在各学科领域与层次中的应用
-- [[assessment]] — ：总括概念，人工智能如何评价学习者并重塑效度
-- [[feedback]] — ：总括概念，反馈如何生成、传递与使用
-- [[stakeholders]] — ：总括概念，行动者是谁
-- [[learners]] — ：总括概念，学习者一侧的概念（体验、身份、自主性、互动、学习者模型）
-- [[ai-ed-evaluation]] — ：总括概念，我们如何知道人工智能是否有效
-- [[research-methods-aied]] — ：总括概念，效能研究的方法
-- [[ai-assisted-educational-research]] — 人工智能辅助教育研究
-- [[governance]] — ：总括概念，制度与监管层
-- [[educational-policy-ai]] — ：总括概念，政策、指导意见与实施
-- [[equity-in-ai-education]] — ：总括概念，公正、可及性与包容
-- [[learning-sciences]] — ：AIED 背后的实证研究领域
-- [[ethics]] — ：教育中的人工智能的伦理维度
-- [[misconceptions]] — ：人们带到人工智能面前的心智模型
-- [[interpreting-and-applying-aied-research]] — ：如何解读一项研究，并把结论带入实践
-- [[limitations-in-aied-research]] — ：证据基础普遍存在的局限
-- [[meta-analysis-systematic-review]] — ：综述与元分析确立了哪些结论
-- [[history-of-aied]] — ：这一领域如何演变
-- [[philosophy-of-ai-in-education]] — ：哲学基础
-- [[theories-and-frameworks]] — ：理论与框架节点的图谱
-- [[theory-development-aied]] — ：构建与修订理论
-- [[sensor-and-gaze-analytics]] — ：总括概念，通过凝视、EEG 与可穿戴信号感知学习者
-- [[ai-avatars-and-synthetic-instructors]] — ：总括概念，合成人类的教学、辅导、模拟与评估
-- [[civic-and-political-education]] — ：学科领域，面向公共生活的素养，证据基础薄
-
-## 关联文章
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — 四十年来人工智能与教育研究的演变（AIxEd 框架）
-- [[mishra-control-vs-agency-history-2025]] — 控制与能动性：教育中人工智能的一段历史
-- [[genai-higher-education-systematic-review-2026]] — 高等教育中的生成式人工智能：125 项研究的系统综述
-- [[stanford-evidence-base-ai-k12-2026]] — 人工智能在 K-12 中的证据基础：818 篇论文的综述
-- [[genai-educational-outcomes-meta-analysis]] — 生成式人工智能与教育结果：综合元分析
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 项中学研究：增益出现在学生比较输出之处，在工具代做之处消退（Pérez-Montesdeoca 等人，2026）
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 准备度促进因素经由导师支持抵达研究自我效能感（间接 β = 0.201）（Luo 等人，2026）
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士督导中的生成式 AI：正当性取决于任务而非工具，治理在里程碑处检视（Guanilo Pareja 等人，2026）
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 研究生研讨班：学生只在把关者核验后接受 AI 产出，能动性是被委派而非交出（Chen，2026）
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 伦理与自我调节进入模型后，使用频次对研究生能力的预测降至 β = 0.030（Zaripova 等人，2026）

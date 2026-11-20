@@ -20,6 +20,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,46 +96,3 @@ ai_assist:
 - **「学生の承認はウェルビーイングが支えられていることを示す。」** **551人の1年生**のうち、**82.76%がデジタルで知的なコンテンツの統合を承認**しました。そして**高い承認は緊張と共存し、AI課題圧力が便益を弱めました**。承認と緊張はともに上がるため、満足度調査はまさにここで誤導します。
 - **「福祉の支援は文化的に中立である。」** [[culturally-aware-student-stress-chatbot-2026|BashirとAfzal(2026)]]は、ハイブリッドなウェルビーイング支援の道具であるSukoonを**文化的に状況づけられた**ものとして記述しており、このページの枠づけ自体もその限界に触れています。普遍的な学生を想定する支援の設計は、その集団を読み誤ります。
 - **「課題圧力は技術とは別である。」** 知見は、AIの**課題圧力**が統合の便益を弱めたということであり、それは仕事量を技術の効果の傍らではなく内部に置きます。
-
-## 関連概念
-
-- [[learners]] — 学習者：学習者側の概念の傘
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — 指導、働きかけ、紹介にわたるキャンパス支援サービス
-
-## 関連記事
-
-- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 教師350名:AI-TCKは職務満足感を高める一方、AI-TKは低下させ、満足感がウェルビーイングへの唯一の経路である(Kayalı et al., 2026)。
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 学生819名はチャットボットを高く評価し、人間同士のつながりの喪失を最も恐れた。
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 摩擦、意味、そして生物学的シグナルとしての孤独。
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI不安と学業動機の関係。
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI支援型日本語学習における心理的適応のプロファイルと推移。
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 対話型AIへのエンゲージメントと依存に関する批判的ナラティブ統合。
-- [[mindful-llm-math-tutoring-2026]] — 問題解決を超えて:数学学習における情動的・内省的支援のための大規模言語モデル。
-- [[sec-ai-literacy-narrative-review-2026]] — 社会情動的コンピテンシーをAIリテラシーに統合する。
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 学生のGenAIへのエンゲージメント(SDT)。
-- [[teacher-education-ai-literacy-sdt-2026]] — AIリテラシーのための教員教育(SDT)。
-- [[genai-motivation-engagement-2026]] — 生成AI、動機、エンゲージメント。
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AIチャットボット、集団効力感、協働。
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate:LLMで拡張した学生不安のアセスメント(2026)。
-- [[policy-deficit-ai-sel-2026]] — AI×SEL研究における政策の欠落。
-- [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用い、パキスタンの大学生のストレス検出とウェルネス支援を行うAI駆動の文化認識型チャットボット。
-- [[daoism-ai-education-philosophy-2026]] — 代替的なAI哲学:教育におけるAIの方法としての道家思想。
-- [[ai-emotional-intelligence-teacher-development-2026]] — AI支援による教員発達の基準としての関係の高密度化。
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AIコースへの高い評価と自己報告された負荷感が併存し、課題の圧力が適応を弱める。
-- [[ai-connectedness-adolescent-mental-health-2026]] — AIとのつながりと青年期のメンタルヘルス:補足的な絆と代償的な絆、そして逆U字型の予測。
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 知覚されたAIアシスタントの知能、目標の進捗、メンタルヘルス、そして調整変数としてのAIリテラシー。
-- [[ai-emotion-regulation-sport-exercise-2026]] — スポーツ、運動、キャンパスのエコロジーを通じたAI支援型感情調整の概念的再構成。
-- [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングの構造方程式モデル:AIリテラシーが自己効力感を上回る。
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — テスト不安は除去されるのではなく、再分配される。
-- [[fang-chatbot-psychosocial-extended-use-2025]] — 4週間、9条件、有意な成果への効果なし、自発的な利用時間が害と連動した(Fang et al. 2025)。
-- [[folk-dunn-chatbot-companionship-loneliness-2026]] — 12か月、4波:利用は単一項目の孤立を予測し、孤独は両方で利用を予測した(Folk & Dunn 2026)。

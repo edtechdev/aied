@@ -9,6 +9,8 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 > **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats [[ai-literacy|AI literacy]] as a practice of resistance and social transformation rather than mere technical competence.
@@ -44,7 +46,6 @@ Critical pedagogy is distinct from [[critical-thinking|critical thinking]]. Crit
 
 - **Sustainability as a value-based project.** AI's effect on educational sustainability is conditional and governance-mediated, not intrinsic: a value-critical analysis holds that AI supports sustainable education only when adoption is subordinated to explicit educational values and undermines it when technologization and commodification erode them ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]]).
 - **Efficiency-first alignment discourse as an erasure of context.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] apply Fairclough's three-dimensional model to 14 pieces of gray literature (November 2022 – April 2025) advising higher-education practitioners to use [[generative-ai|generative AI]] for constructive alignment, and find a techno-solutionist discourse in which the tool is anthropomorphized as "an educational expert and assistant" and academic staff are positioned as supplying "subject matter expertise" while the system performs the pedagogical work. The analysis names the erasure of situated, disciplinary and critical context as one of three failure modes — alongside performativity (alignment that only looks aligned) and shallow alignment that conflates the constructive dimension with the aligned one — evidence that even advice about [[learning-design|course design]], ostensibly a neutral technical matter, carries the depoliticising logic critical pedagogues critique elsewhere.
-
 
 - **Design remedies are not enough on their own.** Human-centered design approaches such as value-sensitive design are insufficient: they leave the systemic drivers — workforce-productivity framings and economic incentives — untouched, and [[agency|agency]] may be zero-sum, so capability handed to the tool is capability the learner does not retain ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 
@@ -84,35 +85,3 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 **"Critical pedagogy is a critique offered from outside practice."** It is a stance toward the educator's role: asking who benefits, whose knowledge is privileged, and how schooling reproduces or resists power. Applied to AI adoption, that means interrogating the corporate and capitalist logics shaping procurement — questions an instructor can ask about their own institution's choices, not only about the technology in the abstract.
 
 **"Centring marginalised epistemologies is a curriculum-content addition."** It changes whose knowledge counts as knowledge, which is a question about the structure of the course rather than an added reading. Content additions leave the frame intact; critical pedagogy's claim is on the frame.
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Connected Articles
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodal composition as critical AI literacy pedagogy
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice
-- [[benali-genai-academic-writing-2026]] — Justification-forced revision in an academic writing course: AI limited to two proposal sections, every suggestion accepted or rejected in writing (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the "AI colonization" of science education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "Resisting AI" as a community-rooted praxis of critical AI literacy
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Human-centered GenAI engagement framework built on Freire, constructionism and an ethics of care
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy and decolonial epistemologies applied to academic development in the Global South

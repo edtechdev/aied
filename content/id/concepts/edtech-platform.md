@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -82,7 +84,6 @@ Paradigma platform itu sendiri sedang berkembang. **MAIC** (Massive AI-empowered
 
 Platform dapat mempersonalisasi melampaui data kinerja. **Taklif.AI** adalah platform bertenaga LLM yang menghasilkan tugas kuliah berdasarkan **minat ekstrakurikuler dan konteks budaya** siswa, selaras dengan [[culturally-relevant-pedagogy]] dan bergeser dari tugas seragam menuju keterlibatan yang digerakkan minat.([[taklif-ai-interest-based-personalized-assignments]])
 
-
 ### Lapisan yang dirancang khusus di atas model umum
 
 Kontribusi platform sering kali adalah struktur yang tidak dimiliki model umum. [[learnmate2-llm-adaptive-learning|LearnMate^2]] membungkus LLM dalam perencanaan belajar, bantuan dalam konteks, dan aktivitas yang responsif terhadap kinerja, dan dalam perbandingan 16 peserta ia mengalahkan Khan Academy yang dipasangkan dengan Gemini 2.5 Pro pada kedua kuis (M = 13.375 vs 10.875, p = .0126; 7.875 vs 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] menerjemahkan instruksi bahasa alami menjadi perilaku robot CoppeliaSim bagi pemula, berhasil pada 100% tugas sederhana tetapi 88,9% tugas kompleks di 108 kasus.
@@ -107,52 +108,3 @@ Privasi dapat dibangun ke dalam pipeline alih-alih ke dalam kebijakan: detektor 
 **"Terbuka versus berpemilik hanyalah detail lisensi yang tidak memengaruhi hasil."** Model platform membentuk apa yang dapat dilakukan institusi dengan sistem tersebut: platform [[open-source|terbuka]] seperti OATutor — tutor adaptif berlisensi MIT dengan pustaka konten aljabar Creative Commons, estimasi penguasaan [[knowledge-tracing]], dan pengujian A/B bawaan — memungkinkan sebuah departemen menginstrumentasi dan memodifikasi [[pedagogy|pedagoginya]] sendiri, yang tidak dapat dilakukan platform tertutup. Lisensi menentukan siapa yang boleh menjalankan eksperimen.
 
 **"Platform yang berfungsi di satu institusi akan berfungsi sebagaimana diadopsi."** Efek platform berjalan melalui tata kelola lokal: arsitektur yang mengutamakan privasi, minimalisasi data, log yang dapat diaudit, dan akses berbasis peran adalah yang membuat platform terintegrasi AI dapat diterapkan sama sekali, dan itu adalah keputusan institusional alih-alih fitur yang dapat Anda simpulkan dari demonstrasi vendor.
-
-## Konsep terkait
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Artikel terkait
-- [[typology-generative-ai-tools-education-2026]] — Apa yang dilaporkan 211 pendidik: 50 alat dalam sembilan kategori
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutor AI produktif: latihan matematika berbasis penguasaan
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Satu Klik Jauhnya: Khanmigo dalam eksperimen sekolah dua tahun
-- [[access-not-enough-ai-tutoring-2026]] — Adopsi dan keterlibatan adalah kendala pengikat bagi platform tutor AI
-- [[oatutor-open-source-adaptive-tutor-2023]] — Platform tutor adaptif sumber terbuka untuk penelitian yang dapat direplikasi
-- [[mooc-to-maic]] — Bergerak dari MOOC ke ruang kelas AI multiagen yang digerakkan LLM
-- [[ai-lms-middle-school-longitudinal]] — LMS terintegrasi AI untuk sekolah menengah pertama dengan dukungan terbatas yang mengutamakan privasi
-- [[taklif-ai-interest-based-personalized-assignments]] — Platform tugas personal berbasis minat
-- [[edusim-llm-robotic-simulation-education-2026]] — Platform simulasi robotik LLM untuk pendidikan
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Platform pengajaran robot sosial generatif di pendidikan tinggi
-- [[hypergamification-game-engine-lms]] — LMS berbasis mesin game yang mengintegrasikan gamifikasi
-- [[edtech-design-time-generative-ui]] — Merancang edtech untuk UI generatif
-- [[lata-ferpa-compliant-local-llm-autograder]] — Platform penilai otomatis LLM lokal yang patuh FERPA
-- [[vismatic-secure-sandbox-cs-education]] — Platform sandbox aman untuk pendidikan ilmu komputer
-- [[learnmate2-llm-adaptive-learning]] — Platform pembelajaran adaptif personal bertenaga LLM
-- [[privacy-aware-classroom-incident-recognition-2026]] — Visi komputer yang sadar privasi dalam platform ruang kelas
-- [[raza-farooq-aied-review-2020-2025]] — Tinjauan komprehensif atas penelitian dan sistem AIED
-- [[credentials-carry-evidence-ai-agents-2026]] — Kredensial yang membawa buktinya untuk kerja agen AI
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "Kami Akan Memperbaikinya Nanti": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis

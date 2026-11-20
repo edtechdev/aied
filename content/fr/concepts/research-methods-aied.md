@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -203,54 +205,3 @@ Dans la pratique, la recherche sur l'IA en éducation tombe rarement proprement 
 **« Une règle de mesure indulgente est un choix méthodologique mineur. »** Elle change le résultat. Créditer toute complétion prédisait la performance ultérieure sans aide **à peine au-dessus d'une constante de difficulté de compétence (AUC regroupée 0.604 contre 0.595)** tout en déclarant **93.9% des paires étudiant–compétence maîtrisées contre 72.8%** sous une règle stricte. La règle produisait un écart de 21 points sur qui était déclaré prêt, pour presque aucune amélioration prédictive en retour.
 
 **« La signification statistique tranche la question de l'efficacité d'une intervention. »** Elle tranche la question de savoir si un effet était détectable. Savoir s'il s'agissait d'un effet d'*apprentissage* dépend de la mesure du résultat, de la comparaison et des conditions dans lesquelles elle a été prise — c'est pourquoi les choix de conception et de rapport pèsent autant que l'analyse.
-
-## Concepts liés
-
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — Recherche éducative assistée par IA
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Le développement théorique dans l'IA en éducation
-- [[qualitative-research]] — La recherche qualitative
-- [[quantitative-research]] — La recherche quantitative
-- [[mixed-methods-research]] — La recherche à méthodes mixtes
-- [[design-based-research]] — La recherche par la conception
-- [[usability-research]] — La recherche d'utilisabilité
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Articles liés
-
-- [[ai-methodologies-science-education-research-2026]] — Un cadre d'itération épistémique en sept phases pour réfléchir à la manière dont les méthodologies d'IA peuvent transformer la recherche en éducation scientifique (Martin et coll., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — L'accès ne suffit pas : le soutien humain améliore l'engagement envers le tutorat par IA
-- [[genai-can-harm-teaching-rct-2026]] — L'IA générative peut nuire à l'enseignement
-- [[genai-over-reliance-learning-2026]] — De l'amélioration à la dépendance excessive : une étude à méthode mixte
-- [[acceptance-ai-english-tools-2026]] — L'acceptation des outils d'apprentissage des langues assisté par IA
-- [[hazra-safetutors-pedagogical-safety-2026]] — La sécurité des tuteurs d'IA et les préjudices pédagogiques
-- [[zerkouk-comprehensive-review-its-2025]] — Revue complète des systèmes de tutorat intelligent
-- [[ai-assisted-collaborative-learning-model-dbr]] — Recherche par la conception pour un modèle d'apprentissage collaboratif assisté par IA
-- [[teachbench-llm-teaching-evaluation]] — TeachBench : évaluer la capacité d'enseignement des grands modèles de langue
-- [[ground-truth-reliability-aied]] — Moderniser la vérité terrain : quatre glissements vers la fiabilité et la validité
-- [[llm-student-simulation-teacher-insights]] — Les grands modèles de langue peuvent-ils simuler efficacement des apprenants humains ?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE : 30 items en dix domaines pour un rapport transparent des études sur l'IA en éducation (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — Système de gestion de l'apprentissage intégrant l'IA : une étude longitudinale
-- [[ai-in-the-wild-college]] — L'IA en milieu naturel : analyse à grande échelle d'interactions authentiques
-- [[same-ai-different-pathways]] — Même IA, voies différentes : déballer les mécanismes
-- [[tep-aied-model-reporting-2026]] — Le modèle TEP-AIED pour rapporter la recherche sur l'IA en éducation avec rigueur (Hwang, Xie, Wah et Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Le paradoxe de la compétence : l'IA générative texte-image en art et design
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dans l'éducation : un effet à la recherche d'une cause
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Méta-méta-analyse de l'effet de l'IA sur l'apprentissage
-- [[oneill-presumed-effective-meta-analysis-2026]] — Présumé efficace : audit d'une méta-analyse en AIED défectueuse
-- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques
-- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : des sondes dont la bonne réponse est connue, des contrôles à effet implanté sur des correcteurs simulés, et 22 modèles sollicités (Porcaro 2026)

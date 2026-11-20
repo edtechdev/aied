@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -91,34 +93,3 @@ ai_assist:
 
 - Зазначайте уявлення про навчання, яке передбачає ваше оцінювання, бо виміряний приріст є освітнім благом лише відносно певного розуміння, для чого існує освіта.
 - Фінансуйте філософську роботу поряд з емпіричною: питання про те, що вважати досягненням здобувача, задають критерії успіху, які потім використовують емпіричні дослідження.
-
-## Пов’язані поняття
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Освіта з хімії та ШІ: лабораторії, формуюче оцінювання, межі LLM, філософія експериментування
-
-## Пов’язані статті
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI у китайській вищій освіті: академічна доброчесність і залученість
-- [[ensemble-cognition-philosophy-ai-education]] — Ансамблеве пізнання: філософська рамка для людсько-ШІ пізнання
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Педагогічний симбіоз і постлюдський здобувач
-- [[videla-embodied-ai-education-choreography]] — Втілена, посткогнітивістська критика розутіленого ШІ в освіті
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Розвитково-критична модель інтерпретаційного пізнання в гуманітарних науках
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Епістемічна коагенційність як філософія навчання з машинами
-- [[avraamidou-ai-colonization-science-education]] — Критико-феміністична філософія, що ставить під сумнів колонізацію освіти ШІ
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Генеративний ШІ як посередницький агент
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Екологічна рамка наук про навчання для GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Філософія експериментування в хімії зі ШІ
-- [[strydom-human-gai-paradigms-2026]] — Рамкування динаміки людини й ШІ: сім парадигм залучення GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Альтернативна філософія ШІ: даосизм як метод для ШІ в освіті
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? Корпусний дискурс-аналіз агенційності, епістемічної відповідальності та підзвітності в дослідженнях генеративного ШІ у вищій освіті
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — «Людиноцентричний» AIED прочитано як антропоцентричний дискурс із комерційним застосуванням (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Машини та емоційна праця в освіті: що дебати 1950–1996 років кажуть про делегування турботи системі

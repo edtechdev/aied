@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -156,41 +158,3 @@ ai_assist:
 **"ٹول استعمال کرتے وقت زیادہ درجات بتاتے ہیں کہ ٹول نے زیادہ سکھایا۔"** ایک [[k-12|K-12]] ریاضی کے مطالعے میں، عام مقصد کے [[conversational-ai|چیٹ بوٹ]] کے ساتھ مشق کرنے والے طلبہ نے بہتر مشق درجات حاصل کیے اور پھر بغیر معاونت جانچ میں **تقریباً 17% بدتر** اسکور کیے۔ ٹول کی موجودگی میں ناپی گئی مشق کارکردگی پھلائی ہوئی پیمائش ہے؛ بغیر معاونت والی نتیجہ ہے، اور اُن میں سے صرف ایک بڑھ رہی تھی۔
 
 **"اگر اثر حقیقی ہے، تو نفاذ کی تفصیلات زیادہ معنی نہیں رکھتیں۔"** وہی اثر ہیں۔ ایسا مطالعہ جس نے ایک ادارے کے ایک کورس میں 30 طلبہ کا پیچھا کیا، ٹول کے ایسے نسخے پر جو اب کوئی استعمال نہیں کرتا، ایسی ترتیب کے بارے میں دریافت پیدا کرتا ہے جو اب موجود نہیں۔ علاج کی تفصیل، نسخہ اور ماحول دعوے کا حصہ ہیں، اُس کے ارد گرد کا سیاق نہیں۔
-
-## منسلک تصورات
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## منسلک مضامین
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14 AIED میٹا تجزیوں کا فرانزک آڈٹ
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — اشاعت کے تعصب کی اصلاح کے بعد AI کے اثرات رپورٹ شدہ حجم کا تقریباً ایک تہائی
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — شمولیت کے معیار کو سختی کی حد بنایا، اور غیر ہم آہنگی جو ماڈل کے ساتھ بدلتی ہے
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — جب خودکار اسکورنگ کا اعتبار کام کی پیمائشی چھت سے ملتا ہے
-- [[verification-quality-reliance-calibration-genai-2026]] — تصدیق اور انحصار کا ادب کیا نہیں ناپتا
-- [[citation-errors-hallucinations-computing-education-2026]] — من گھڑت حوالے جو 2025–2026 میں طباعت تک پہنچے
-- [[stanford-evidence-base-ai-k12-2026]] — مشق میں فائدہ، امتحان میں نقصان: K-12 ریاضی میں معاونت ہٹانے کا مسئلہ
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — ذیلی گروہی اثرات جن کے اعتماد وقفے صفر کو کاٹتے ہیں
-- [[chick-faculty-development-ethical-ai-2026]] — سہولت بخش شرائط: پالیسی کے اشارے، ذاتی سبسکرپشنز، وقت نہ ہونا
-- [[ai-tutoring-quality-k12-methodologies-2026]] — وینڈر کے میٹرکس، اُن کی کیلیبریشن اور تجربات کی گنتی ظاہر کرتے ہوئے
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — دریافتوں کا تعلق ماڈل نسخوں سے، اور میدان کی اُتھل پتھل
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — پہلے سے استعمال میں 16 طلبہ-متعلقہ AI مصنوعات کے لیے آزاد ثبوت کی گنتی
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — ایک جائزہ اپنے ہی کارپس میں رپورٹنگ کے جھکاؤ کی مقدار بتا سکتا ہے

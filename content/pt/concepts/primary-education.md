@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -138,32 +140,3 @@ A educação primária está dentro do [[k-12]] e herda seus problemas de [[educ
 - **"As crianças recebem chatbots com ceticismo saudável."** A confiança se formou rapidamente no estudo acima: a maioria aceitou as respostas do sistema, e mais de um terço o tratou como um professor ou um amigo.
 
 - **"As crianças pequenas recebem uma versão mais fácil do mesmo currículo de letramento em IA."** O que muda entre as faixas é o tipo de tarefa, não sua dificuldade: histórias e construção no início, crítica e prestação de contas depois.
-
-## Conceitos conectados
-
-- [[developmental-psychology]] — por que a idade muda o que uma tarefa pode pedir, não apenas quão difícil ela é
-- [[math-education]] — a disciplina com mais ensaios de IA na educação primária e mais resultados nulos
-- [[reading-education]] — fluência, decodificação e efeitos de dosagem nos anos iniciais
-- [[writing-education]] — feedback automatizado, revisão e os limites da correção por rubrica
-- [[digital-divide]] — lacunas de dispositivo, conectividade e habilidades que decidem quem se beneficia
-- [[equity-in-ai-education]] — efeitos diferenciais por renda, condição linguística e ruralidade
-- [[teacher-role]] — orquestração, mediação e o trabalho que a IA acrescenta ao dia do professor
-- [[curriculum-design]] — sequenciar o letramento em IA entre os anos, em vez de acrescentar um módulo
-- [[privacy]] — dados de crianças, retenção e proteção arquitetural, não contratual
-- [[assessment]] — o que conta como evidência de que um aluno da educação primária ganhou algo
-
-## Artigos conectados
-
-- [[ai-elementary-language-education-review-2026]] — 31 estudos de IA no ensino de línguas dos anos iniciais, concentrados em fala, alfabetização e vocabulário
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 estudos K-12 organizados no framework desenvolvimental PACES
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — 16 intervenções ensinando a própria IA, agregadas em g = 0,892
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 estudos na educação primária; letramento em IA como quatro vertentes ensinadas de forma desigual, avaliadas majoritariamente por survey
-- [[barokah-ai-elementary-science-review-2026]] — 103 publicações mapeando cinco clusters de aplicação em ciências nos anos iniciais; resultados epistêmicos finos
-- [[karampa-students-game-designers-ai-literacy-2026]] — 22 estudantes constroem um jogo de fuga sobre desinformação; letramento em IA sobe de 3,684 para 4,309
-- [[llm-comparative-judgment-writing-screening-2026]] — 1.208 estudantes do 3º ao 6º ano, correção pareada por LLM
-- [[melo-llm-classroom-observation-teach-2026]] — 8.618 avaliações de IA contra avaliações especialistas do TEACH Primary
-- [[age-tiered-ai-literacy-guidebooks-2026]] — guias por faixa etária, 831 participantes; aceitação não é aprendizagem
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — crianças de 6 e 7 anos mostram conectividade frontoparietal mais fraca que adultos
-- [[tutor-case-bench-challenging-behaviors-2026]] — 923 casos documentados; o melhor modelo encontra uma resposta documentada em 55,8% das vezes
-- [[llm-simulating-student-scientific-thinking-2026]] — ideias de estudantes simulados se afastam mais das reais nos anos iniciais
-- [[human-ai-complementarity-social-emotional-learning-2026]] — agentes mantêm tom e procedimento; educadores lideram na reflexão

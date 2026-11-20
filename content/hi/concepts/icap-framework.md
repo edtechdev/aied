@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,27 +99,3 @@ ai_assist:
 **"एक AI ट्यूटर संवाद करता है, इसलिए स्वतः अंतःक्रियात्मक सहभागिता उत्पन्न करता है।"** संवाद माध्यम है, अवस्था नहीं। ऐसा संवाद जिसमें प्रणाली हर सारभूत योगदान देती है, अंतःक्रियात्मक इंटरफ़ेस पहने हुए शिक्षार्थी के लिए निष्क्रिय है, और यह वही भ्रम है जो [[student-engagement|सहभागिता साहित्य]] व्यवहारिक गतिविधि और संज्ञानात्मक निवेश के बीच दर्ज करता है।
 
 **"उच्चतर ICAP अवस्थाएँ सदैव बेहतर होती हैं।"** उनकी लागत अधिक होती है, और यह क्रम प्रासंगिक प्रसंस्करण की प्रति इकाई सीख के बारे में है, इस बारे में नहीं कि किसी पाठ का लक्ष्य सदैव क्या होना चाहिए। आधारभूत प्रवाहमयता के लिए रचनात्मक कार्य संभव होने से पहले सक्रिय पुनरावृत्ति आवश्यक हो सकती है; त्रुटि वहाँ टिक जाना है, वहाँ से गुज़रना नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## संबंधित लेख
-
-- [[icap-cognitive-engagement-llm-agents]] — मानव बनाम एलएलएम एनोटेशन के साथ संलग्नता मापने के लिए विस्तारित आईसीएपी फ्रेमवर्क
-- [[hingle-collaborative-ai-literacy-2025]] — चारों आईसीएपी अवस्थाओं में सहयोगी एआई साक्षरता
-- [[interactive-learning-dashboards-engagement]] — उथली लर्निंग-एनालिटिक्स संलग्नता की आलोचना के रूप में आईसीएपी
-- [[multimodal-learning-genai]] — मल्टीमोडल लर्निंग डिज़ाइन में आईसीएपी और संज्ञानात्मक संलग्नता
-- [[llm-facilitation-timing-online-discussions]] — ऑनलाइन सहयोगी चर्चाओं में एलएलएम सुविधा समय
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक आईटीएस में अनुकूली आईसीएपी स्कैफोल्डिंग (बीकेटी बनाम डीआरएल)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — एक जनरेटिव छात्र-सिमुलेशन एजेंट में आईसीएपी संज्ञानात्मक-गहराई मॉडल
-- [[assessing-student-drive-framework-2025]] — विचारपूर्ण जेनएआई इंटरैक्शन का आईसीएपी-आधारित मूल्यांकन

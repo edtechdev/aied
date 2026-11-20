@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -63,7 +65,6 @@ LPA فرض کرتا ہے کہ نمونہ ذیلی گروپوں کے مرکب س�
 - **دوبارہ نمونے لینے کے تحت استحکام۔** Bootstrap استحکام اس بات کی ایماندار جانچ ہے کہ پروفائلز نئے نمونے میں دوبارہ آئیں گے: یوکرینی چھ کلاس والے حل کے لیے اوسط adjusted Rand index 0.385 تھا مگر AI پر بھروسے کے مطالعے میں 100 بے ترتیب آغازات میں 0.989 — وہی برائے نام ڈیزائن، بہت مختلف ثبوتی وزن۔
 - **Bootstrap likelihood ratio tests (BLRT)** اور Lo–Mendell–Rubin ٹیسٹ وسیع تر mixture-modeling لٹریچر میں BIC اور اینٹروپی کے معیاری ساتھی ہیں، مگر اس نالج بیس کے پروفائل مطالعات انہیں رپورٹ نہیں کرتے۔ جہاں صفحہ صرف BIC اور اینٹروپی رپورٹ کرے، وہاں کلاسوں کی تعداد کو عارضی سمجھیں۔
 
-
 - **وہ likelihood-ratio جانچ جو یہ کارپس ورنہ چھوڑ دیتا ہے۔** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] نے 379 بزنس طلبہ سے چار پروفائلز (اینٹروپی 0.824) برقرار رکھے اور Lo–Mendell–Rubin فیصلہ رپورٹ کیا: چار پر معنی خیز (p = 0.035) اور پانچ پر غیر معنی خیز (p = 0.376)۔
 - **حریف حل اور likelihood-ratio ٹیسٹ کے ساتھ دفاعی برقراری۔** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] رپورٹ کرتے ہیں کہ چار پروفائل والا حل 102 طلبہ پر قدرے بہتر فٹ ہوا مگر معنی خیز طور پر بہتر نہیں ہوا اور سب سے چھوٹی کلاس 12.7% پر چھوڑ گیا، اس لیے وہ عددی طور پر بہتر فٹ ہونے والے ماڈل کے بجائے تین پروفائلز (اینٹروپی .89) برقرار رکھتے ہیں۔ ہارنے والے حل اور اسے نااہل کرنے والی چیز کی رپورٹنگ ہی برقرار رکھی گئی کلاسوں کی تعداد کو ایسا فیصلہ بناتی ہے جسے قارئین جانچ سکیں، اور مطالعے کے لیے مقصد کے طور پر بنایا گیا 12 آئٹم والا AI استعمال کا پیمانہ — جو 85 کے الگ نمونے پر تصدیق شدہ ہے جسے مصنفین ابتدائی کہتے ہیں — اس کے ثبوت کی دوسری حد نشان زد کرتا ہے۔
 
@@ -92,26 +93,3 @@ LPA فرض کرتا ہے کہ نمونہ ذیلی گروپوں کے مرکب س�
 - **"لیٹنٹ پروفائل تجزیہ ایسے گروپ دریافت کرتا ہے جو موجود ہیں۔"** LPA طلبہ کے تنوع کو بیان بازی کے دعوے سے قابلِ پیمائش نتیجے میں بدلتا ہے، اور پروفائلز **ایک تسلسل کا ماڈل ہیں جو منتخب سرحدوں پر تقسیم کیا گیا ہے**، قدرتی اقسام نہیں۔ پروفائلز کی تعداد ایک تجزیاتی فیصلہ ہے۔
 - **"لیٹنٹ متغیر خاندان کا کوئی بھی رکن ٹھیک ہے۔"** آپ کون سا استعمال کریں گے یہ **اشاروں سے چلتا ہے**: قطعی اشاروں کے لیے **LCA**، مسلسل کے لیے LPA۔ پہلے طریقہ چننا اور بعد میں اشارے، نتیجے کو انتخاب کا مصنوعی اثر بنا دیتا ہے۔
 - **"پروفائلز مطالعات کے پار قابلِ موازنہ ہیں۔"** Chen اور ساتھیوں نے **128 تائیوانی پری سروس اساتذہ** کو پانچ [[technology-acceptance-model|TAM]]/UTAUT2 تعمیرات پر پروفائل کیا، جبکہ Acquah اور ساتھیوں نے **509 گھانا انڈرگریجویٹس** کو پروفائل کیا۔ مختلف آبادیوں میں مختلف اشارے قابلِ موازنہ پروفائل لیبل پیدا نہیں کرتے۔
-
-## منسلک تصورات
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## منسلک مضامین
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 بزنس طلبہ میں چار AI رویہ پروفائلز کے لیے Lo–Mendell–Rubin برقراری کا ثبوت
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — نفسیاتی موافقت کا تین لہروں والا لیٹنٹ پروفائل منتقلی تجزیہ
-- [[liang-ai-learning-motivation-sdt-2026]] — ایک سال میں تین محرک پروفائلز کا لیٹنٹ منتقلی تجزیہ
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means پروفائلز؛ silhouette بمقابلہ Calinski–Harabasz اختلاف؛ ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — hierarchical اور k-means جھرمٹ بندی سے چار GenAI اپنانے والی شخصیات
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49 نظاموں کے 40,680 اساتذہ سے چار استاد AI عقیدہ پروفائلز، ہم آہنگی استحکام کے ساتھ

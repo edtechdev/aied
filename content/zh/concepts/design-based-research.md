@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -82,30 +84,3 @@ DBR 是[[learning-sciences|学习科学]]的标志性方法——学习科学是
 **“因为 DBR 产出一个可用的制品，它已证明有效性。”** 一个在共同产出它的场所里奏效的设计，证明的是局部可行性，这是与有效性不同的主张。制品携带着为那个语境所作的适配，而转移它就转移了从未被声明为假设的假设。
 
 **“把测量工具当作可修订的设计制品是对 DBR 的偏离。”** 它是 DBR 的迭代性格应用于测量而非干预：本语料中的一项研究把评分规则本身当作制品，通过与一个[[llm|LLM]]反复共同改进。这一延伸值得注意，因为它把工具自身的发展变成了证据的一部分。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## 关联文章
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — 面向 AI 辅助协作学习模型的 DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 面向教师教育中 AI 素养培训的 DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — 面向教师技术整合标准的 DBR
-- [[human-centered-ai-teacher-educators-2026]] — 面向教师教育者的以人为本 AI（DBR）
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 在开放大学实施 AIDA 的六项 DBR 研究
-- [[critical-thinking-genai-scaffolding]] — 面向 GenAI 批判性思维脚手架的 DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — 面向融入科学的 AI 素养课程的 DBR（Moore 等 2026）
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI（PL-AI）：面向学前与幼儿园的、以游戏为中心的 AI 素养课程（Lee 2026）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 作为迭代教学法设计能动体的 LLM

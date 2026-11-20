@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -36,7 +37,3 @@ Prije izrade: odaberite između alata za izradu prema ponderiranim kriterijima, 
 
 ## Zašto postoji
 Curt Zilbersher, koji dvadeset i osam godina osmišljava korporativno osposobljavanje, opisuje iste male neriješene probleme koji mu se vraćaju kroz karijeru — brojanje riječi naracije, pronalaženje datoteke koja je kolegij gurnula preko ograničenja [[edtech-platform|LMS-a]], ručnu provjeru pokrivenosti titlovima — i gradi rješenja te ih dijeli besplatno. Mjesto vodi i besplatno godišnje istraživanje o tome kako dizajneri nastave doista provode svoj tjedan.
-
-## Povezani pojmovi
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -44,7 +45,3 @@ Se adresează profesorilor din K–12 și celor care îi formează, cu suite de 
 ## Note și precauții
 
 Conținutul este licențiat CC BY-NC 4.0, iar codul de bază MIT: folosirea la clasă, găzduirea locală și adaptarea sunt permise cu credit, în timp ce vânzarea materialelor sau includerea lor în traininguri plătite cere permisiune scrisă de la TCEA. Lucrările altor persoane sunt excluse din licență, iar activitățile de literatură nu reproduc text din opere protejate prin drepturi de autor. Proiectul declară că conținutul și traducerile au fost produse cu IA generativă sub revizuire editorială și că traducerile sunt asistate de mașină și semnalate pentru revizuire de către educatori locali înainte de folosirea la clasă, ceea ce merită luat în serios înainte ca un district să le adopte la scară. Fiecare activitate rulează în browserul elevului, fără autentificări și fără colectare de date.
-
-## Concepte conexe
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -40,9 +41,3 @@ Päättäjät ja hankintatiimit, jotka valitsevat malleja kansallisiin järjeste
 ## Huomioita ja varauksia
 
 Leaderboard mittaa malleja benchmarkin omissa tehtävissä: korkea pedagogiikkapistemäärä on näyttöä niistä tehtävistä, ei luokkahuoneesta. Hintasarake yhdistää syöte- ja tuotostokenien hinnat suhteessa 3:1, mikä on mallinnusvalinta eikä minkään yksittäisen käyttöönoton todellinen kustannus. Kielten ja paikallisesti ylläpidettyjen mallien kattavuus elää uusien mallien ilmestyessä, ja pienten mallien alapään pisteet heijastavat osin tehtävämuotoa yhtä paljon kuin kyvykkyyttä. Fab AI:n kehystys koskee nimenomaan matalan ja keskitulotason maita, joten benchmarkin tehtäväjoukko heijastaa sitä kontekstia eikä sitä pidä lukea yleiseksi koulutusrankingiksi. Tarkista julkaisupäivät: useat merkinnät ovat nykyistä mallisukupolvea vanhempia.
-
-## Liittyvät käsitteet
-
-- [[benchmark]] — laajempi mittausvälineiden luokka, johon tämä kuuluu
-- [[digital-divide]] — rajoite, jonka hinta- ja avoimet painot -sarakkeet on tarkoitettu tekemään näkyväksi
-- [[equity-in-ai-education]] — poliittinen kysymys, johon leaderboard antaa tietoa

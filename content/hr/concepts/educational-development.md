@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -90,9 +92,7 @@ Za razvijatelje fakultetske nastave, akademske voditelje i [[stakeholders|instru
 
 **Bavite se četirima pokretačima usvajanja, a ne samo znanjem.** Samopouzdanje, stavovi, podrška i zabrinutosti predviđaju hoće li nastavnici doista usvojiti umjetnu inteligenciju, pa radionica koja se bavi samo znanjem i zanemaruje te čimbenike vjerojatno neće promijeniti praksu. Osmislite razvoj tako da gradi samopouzdanje kroz praktičnu upotrebu, pruža trajnu podršku (a ne jednokratnu obuku) i aktivno iznosi i odgovara na zabrinutosti nastavnika.([[teacher-ai-adoption-confidence]])
 
-
 Samopouzdanje i pismenost nisu zamjenjivi ciljevi: u SEM-u na 502 ispitanika među sveučilišnim nastavnicima pismenost o umjetnoj inteligenciji bila je dominantan prediktor [[well-being|blagostanja u vezi s umjetnom inteligencijom]] (β = 0,713), dok je [[self-efficacy|tehnološka samodjelotvornost]] pridonijela malo (β = 0,082), a podrška je do blagostanja stigla samo neizravno ([[faculty-ai-well-being-social-supports-2026|Liu i sur. (2026)]]).
-
 
 **Tretirajte potražnju za smjernicama i primjerenost smjernica kao odvojene probleme.** Nastavnici jednog sveučilišta snažno su podupirali institucionalne mjere protiv neetične upotrebe umjetne inteligencije (M = 4,59), a postojeće smjernice ocijenili najniže (M = 2,99) i kao svoje najslabije znanje naveli [[privacy|privatnost podataka]] i kulturnu uključivost, što je konkretan cilj profesionalnog razvoja ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic i Sever, 2026]]).
 
@@ -155,75 +155,3 @@ Razrađeni primjer modela kohorte dolazi iz sveučilišne knjižnice. [[jordan-f
 **„Krivnja zbog upotrebe umjetne inteligencije upućuje na kršenje pravila.“** Ona prati prikrivanje, a ne otkrivanje: ograničavanje upotrebe umjetne inteligencije zbog nelagode koreliralo je s njezinim skrivanjem, a ne sa zabranjenim ponašanjem. Čitanje krivnje kao dokaza nedoličnog ponašanja stoga promašuje njezin izvor, a tretiranje krivnje kao signala za usklađenost gurnut će ponašanje još dalje iz vida.
 
 **„Niska stopa odaziva na anketu znači da nastavnici nemaju izražene osjećaje.“** Rad svojih **109 odgovora (stopa od 3,5 %)** čita kao same po sebi informativne o stanju etičke rasprave: nizak odaziv na pitanje o nelagodi nalaz je o toj nelagodi, a ne njezino odsustvo. A integracija generativne umjetne inteligencije uokvirena isključivo kao podizanje vještina promašuje pitanje identiteta koje neki nastavnici doista postavljaju: koji je smisao poučavanja u svijetu generativne umjetne inteligencije.
-
-## Povezani koncepti
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Izazivanje metafora i oblikovanje analogija u razvoju fakultetske nastave
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - Krov: ljudi i publike u obrazovanju s umjetnom inteligencijom (učenici, nastavnici, dizajneri, administratori, donositelji politika)
-
-## Povezani članci
-
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Od upita do prakse: inicijativa usmjerena na nastavnike za istraživanje izrade OER-a potpomognute umjetnom inteligencijom (Jordan i sur. 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritička analiza diskursa savjeta o usklađivanju s generativnom umjetnom inteligencijom: razvijatelji preokvireni u trenere tehnologije
-- [[crompton-faculty-technology-integration-standards-2026]] — Standardi za nastavnike o integraciji tehnologije (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etičke dimenzije umjetne inteligencije: pogledi nastavnika i studenata
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Kako metafore nastavnika inženjerstva grade (i ograničavaju) razumijevanje umjetne inteligencije
-- [[fear-awe-genai-metaphor-workshops-2025]] — Strah i strahopoštovanje: razumijevanje generativne umjetne inteligencije kroz metaforu (radionica metafora za nastavnike, osoblje i studente)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Četiri kriterija i četiri metafore za poučavanje kritičke pismenosti o umjetnoj inteligenciji
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Upravljanje nevidljivim: pismenost o umjetnoj inteligenciji među nastavnicima jezika
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generativna umjetna inteligencija kao kriza identiteta, a ne jaz u vještinama
-- [[zuo-instructor-power-genai-writing-2026]] — Odnosi moći koje opažaju sveučilišni nastavnici suočeni s generativnom umjetnom inteligencijom u pisanju (Zuo, Xu i Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Model refleksivnog trokuta: umjetna inteligencija kao kognitivni posrednik
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Samoprocijenjeno TPACK-21 znanje nastavnika za generativnu umjetnu inteligenciju (Sutedjo, Chowdhury i Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK profesionalni razvoj: pohađanje predviđa dobitke, samoopaženo sudjelovanje ne
-- [[instructional-design-proficiency-masters-math-2026]] — Model pametne učionice i D-T-E petlja koji poboljšavaju osposobljenost za instruktivni dizajn u diplomskom studiju matematike (Zhu i sur. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Iskustva i percepcije sveučilišnih nastavnika o generativnoj umjetnoj inteligenciji: ranjivost, preispitivanje procjene, učenje studenata u opasnosti (Farazouli i sur. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Od straha do inovacije: šestotjedni institut za nastavnike, simbiotska pedagogija i institucionalni uvjeti koje nije mogao osigurati
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks krivnje zbog umjetne inteligencije: anticipatorna krivnja, prikrivanje i razlike prema stadiju karijere među akademskim osobljem (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Anketa AAC&U i Elon među 1 057 američkih sveučilišnih nastavnika: institucionalna nespremnost, tanak sustav upravljanja i jaz između 87 % i 48 % u politici (Watson i Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademski razvijatelji kao digitalni posrednici u visokom obrazovanju Globalnog juga: razvoj kao sociotehnička praksa
-- [[physics-faculty-learning-community-ai-2026]] — Serija radionica za učinkovitu upotrebu umjetne inteligencije u nesigurnim vremenima: izgradnja fizikalne nastavničke zajednice za učenje
-- [[faculty-ai-well-being-social-supports-2026]] — Blagostanje nastavnika u vezi s umjetnom inteligencijom prati pismenost o umjetnoj inteligenciji, a ne tehnološku samodjelotvornost
-- [[ai-competence-framework-landscape-2026]] — Provjerite što razine nekog okvira opisuju prije njegova usvajanja
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Može li obrazovanje postaviti agendu za umjetnu inteligenciju? Simulirana inovacija i pedagoško usmjeravanje u obrazovanju nastavnika
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 nastavnika kemije u šestotjednom programu
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Više od 150 nastavnika jezika iz 28 zemalja kroz 20 tjedana
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 skandinavskih nastavnika; dobitak od 0,20 SD u percipiranim koristima
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 nastavnika nakon programa učenja o generativnoj umjetnoj inteligenciji, s potrebama koje posreduju angažman
-- [[bodek-prompted-to-explore-microlearning-2026]] — model mikroučenja za profesionalni razvoj o generativnoj umjetnoj inteligenciji
-- [[bursic-ai-residency-education-curriculum-2026]] — UI rezidencija u medicinskom obrazovanju
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 izvora; razvoj edukatora kao jedna od četiri teme
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 nastavnika koji traže razvoj koji vode bivši nastavnici
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % podiže vještine postojećeg osoblja i nastavnika
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 edukatora koji legitimiraju sjenovitu umjetnu inteligenciju ondje gdje smjernica nema
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — praznine u sposobnosti koje pokreću razvoj nastavnika i odluke o zapošljavanju
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — ponovljeni razvoj kao jedan od pet slojeva podrške
-- [[chen-future-faculty-development-ai-2027]] — Sedam nastavničkih uloga, dva univerzalna temelja i nastavnički tim kao jedinica razvoja
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Prostor prosudbe, dijaloško istraživanje i trostupčani audit toga gdje se prosudba preselila na alat
-- [[jiang-faculty-development-japan-2027]] — Japanski dvotračni profesionalni razvoj: sudjelovanje raste, kolegijalni formati ne
-- [[tian-transnational-faculty-development-governance-2027]] — Prekogranični razvoj nastavnika: povezanost je epizodična, koordinacija je posao
-- [[ho-invariant-core-faculty-development-2027]] — Nepromjenjiva jezgra, pomični rub: mehanizam učenja ispred tehnologije

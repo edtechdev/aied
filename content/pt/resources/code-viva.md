@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -45,7 +46,3 @@ Instrutores de cursos de programação que querem evidência de que um estudante
 ## Notas e ressalvas
 
 Tudo roda no navegador: o curso fica no armazenamento local com uma exportação em JSON, as perguntas viajam na parte de um link que os navegadores não enviam a servidores, e as respostas só voltam como códigos que os estudantes escolhem enviar, de modo que nenhum dado de estudante chega a terceiros. O gerador de perguntas é baseado em regras, e não em modelos. Pelo próprio relato da ferramenta, seu leitor de código é heurístico, então formatação incomum ou macros podem esconder uma função, e uma nota pode premiar quem conhece o vocabulário em vez de quem entende o código, razão pela qual as notas são propostas que um instrutor aprova e pela qual ela recomenda manter as apostas baixas. Nenhuma licença e nenhum repositório de código são publicados, e, como os links carregam as perguntas, eles chegam a alguns kilobytes, o bastante para quebrar a linha na caixa de mensagem de um ambiente de aprendizagem.
-
-## Conceitos conectados
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -83,31 +85,3 @@ GenAI дестабилизирует допущение, что индикато
 **«Присутствие распределено по когорте равномерно.»** Оно разделяется *внутри* условия, а не между условиями. В квазиэксперименте с **63 китайскими студентами бакалавриата (33 с чат-ботом GPT-4o mini, 30 без)**, аннотировавшими общие чтения на протяжении пяти еженедельных заданий, присутствия расходились по успеваемости групп: группы с высокой успеваемостью инициировали **1407 запросов обратной связи по 2319 аннотациям (60,7%)** против **737 по 2167 (34,0%)** в группах с низкой успеваемостью. Доступ к одному и тому же инструменту воспроизвёл существующий разрыв в социальном поведении, которое измеряет рамка.
 
 **«Добавление чат-бота к онлайн-курсу добавляет присутствие.»** Оно меняет смесь. Ценность рамки при генеративном ИИ в том, что она делает подмену видимой: присутствие, удовлетворённое моделью, — иная конфигурация того же конструкта, и данные когорты показывают, что подмена окупается неравномерно.
-
-## Связанные концепции
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## Связанные статьи
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Обзор охвата 21 исследования: свидетельства о присутствиях неравномерны, присутствие преподавания изучено меньше всего, а конфигурация дизайна сортирует результаты (Doo & Park 2026)
-
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Распаковка взаимодействий студентов при социальной аннотации с поддержкой GenAI: эпистемический сетевой анализ когнитивного и социального присутствия
-- [[reconceptualizing-community-inquiry-generative-ai]] — Переосмысление CoI в эпоху генеративного ИИ
-- [[ai-communities-of-inquiry-2026]] — ИИ в сообществах исследования
-- [[ai-online-education-engagement-satisfaction-2026]] — ИИ и вовлечённость в онлайн-образовании
-- [[reflective-triangle-model-teacher-ai-2026]] — Модель рефлективного треугольника: ИИ как когнитивный посредник
-
-- [[llm-facilitation-timing-online-discussions]] — Фасилитаторы-люди против LLM: модели вмешиваются охотнее, чем эксперты-люди (Tsirmpas и др. 2026)
-

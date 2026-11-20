@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,7 +42,3 @@ Nó nhắm tới từng giáo viên và sinh viên, những người dùng đư�
 ## Ghi chú và lưu ý
 
 Miễn phí bao gồm các quy trình làm việc của từng lớp học; giá dành cho cơ sở giáo dục tồn tại riêng và gắn với phạm vi triển khai, việc xử lý dữ liệu, hỗ trợ và tuân thủ chứ không gắn với mức phí theo đầu sinh viên hay đầu giáo viên. Vì một báo cáo cho thấy một quá trình chứ không phải một ý định, chỉ riêng việc sao chép–dán không phải là hành vi sai trái — hướng dẫn của chính dự án nói rằng một sinh viên có thể đang dán đoạn văn trước đó của chính mình, và sinh viên không nên bị phạt chỉ vì đã dán. Các con số tiếp nhận và xếp hạng 5.0 trên Chrome Web Store là tiếp thị của chính dự án; đánh giá trong một cửa hàng tiện ích không phải bằng chứng độc lập về kết quả học tập. Hãy đọc các báo cáo như bằng chứng cho một cuộc trò chuyện, đó là cách công cụ được thiết kế và cách nhà phát triển mô tả nó.
-
-## Khái niệm liên quan
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

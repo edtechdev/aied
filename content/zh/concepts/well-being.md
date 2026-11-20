@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -89,46 +91,3 @@ ai_assist:
 - **"学生认可就说明幸福感得到了支持。"** 在 **551 名大一学生**中，**82.76% 认可**数字与智能内容的**整合**，而**高认可与压力并存，且 AI 任务压力削弱了收益**。认可与压力一起上升，因此满意度调查恰在这里误导。
 - **"幸福感支持在文化上是中立的。"** [[culturally-aware-student-stress-chatbot-2026|Bashir 与 Afzal（2026）]]把 Sukoon 这一混合式幸福感支持工具描述为**文化情境化**的，而该研究自己的框定也指出了它的局限。一个假定存在普遍学生的支持设计误读了这一人群。
 - **"任务压力与技术无关。"** 发现是 AI **任务压力**削弱了整合的收益，这把工作量放在技术的效应之内，而非其旁。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — 横跨咨询、外联与转介的校园支持服务
-
-## 关联文章
-
-- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 350 名教师：AI-TCK 提高工作满意度而 AI-TK 降低它，满意度是通往幸福感的唯一路径（Kayalı 等，2026）
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 名学生对聊天机器人评价很高，却最担心失去人际联结
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 摩擦、意义与作为生物学信号的孤独
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI 焦虑与学业动机的关系
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI 辅助日语学习中心理适应的画像与转变
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 对话式 AI 参与与依赖的批判性叙事综合
-- [[mindful-llm-math-tutoring-2026]] — 超越问题解决：面向数学学习中情感与反思支持的 LLM
-- [[sec-ai-literacy-narrative-review-2026]] — 把社会情感胜任力整合进 AI 素养
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 学生对 GenAI 的参与（SDT）
-- [[teacher-education-ai-literacy-sdt-2026]] — AI 素养的教师教育（SDT）
-- [[genai-motivation-engagement-2026]] — 生成式 AI、动机与参与
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI 聊天机器人、集体效能与协作
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：学生焦虑的 LLM 增强评估（2026）
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 研究中的政策赤字
-- [[culturally-aware-student-stress-chatbot-2026]] — 用 NLP 和机器学习为巴基斯坦大学生提供的、AI 驱动的文化感知压力检测与健康支持聊天机器人
-- [[daoism-ai-education-philosophy-2026]] — 另一种 AI 哲学：道家作为 AI 教育的方法
-- [[ai-emotional-intelligence-teacher-development-2026]] — 关系致密化作为 AI 支持的教师发展的标准
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 高 AI 课程认可与自报压力并存，任务压力削弱适应度
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI 联结与青少年心理健康：补充性对补偿性联结，含倒 U 预测
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 感知到的 AI 助手智能、目标进展与心理健康，以 AI 素养为调节变量
-- [[ai-emotion-regulation-sport-exercise-2026]] — 通过运动、锻炼和校园生态对 AI 支持的情绪调节的概念性重构
-- [[faculty-ai-well-being-social-supports-2026]] — 教师 AI 幸福感的结构方程模型：AI 素养压倒自我效能
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — 考试焦虑被重新分配，而非被消除
-- [[fang-chatbot-psychosocial-extended-use-2025]] — 四周、九种条件，结果上没有显著效应；自愿时长与伤害同向（Fang 等 2025）
-- [[folk-dunn-chatbot-companionship-loneliness-2026]] — 十二个月、四波：使用在单条目上预测孤立，孤独在两个方向上预测使用（Folk & Dunn 2026）

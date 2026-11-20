@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -44,8 +45,3 @@ ai_assist:
 ## 注記と注意点
 
 無料枠は AI クレジット 10,000 とアプリ 3 件に制限されています。無制限のアプリと高度なモデルは Pro 枠から始まり、LTI 連携、シングルサインオン、高度な分析は Enterprise 枠に位置づけられているため、教育機関が最も必要とする機能こそが有料のものです。リポジトリは `LICENSE` ファイルに基づき **AGPL-3.0** でライセンスされていますが、これは自己ホストや改変を意図する人にとって重要な点であり、README にはその変更前の LGPL という記述が残っているため、README ではなくライセンスファイルを読む必要があります。教育機関はまた、学生の提出物をホスト型の外部サービスに通す前に、自らのデータ処理条件を確認すべきです。
-
-## 関連する概念
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

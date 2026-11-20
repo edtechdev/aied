@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -115,7 +117,6 @@ ai_assist:
 
 কাঠামো প্রমাণ নয়। এগুলো সাধারণত এলএলএম-পূর্ব প্রসঙ্গ থেকে ধার করা এবং যে প্রয়োগ করে সেই স্থানীয়করণ করে, এগুলো ব্র্যান্ডিং হিসেবে কাজ করতে পারে, এবং পর্যায়-মডেল টিক-বক্স গ্রহণে উৎসাহ দেয় যা শিখনের বদলে স্তরের মধ্য দিয়ে অগ্রগতি রিপোর্ট করে। কাঠামোতে দাঁড়ানো দাবিগুলো পড়া উচিত [[limitations-in-aied-research|ক্ষেত্রের আড়াআড়ি সীমাবদ্ধতার]] পাশে, ফলাফল যা মেপেছে তার [[assessment-validity|বৈধতার]] পাশে, এবং [[self-report-measures|স্ব-প্রতিবেদনের]] জানা সীমার পাশে।
 
-
 প্রক্রিয়া-থেকে-তত্ত্ব সমন্বয় তবুও নির্ণায়ক হতে পারে: এআই-সমর্থিত [[game-based-learning|গেম-ভিত্তিক শিখনের]] ৫৫টি গবেষণার একটি বিষয়ভিত্তিক সংশ্লেষ দেখে কার্যকারিতা নির্ভর করেছে এআই-প্রক্রিয়া তার পরিবেশন-লক্ষ্য শিক্ষাবিজ্ঞানকে বাস্তবায়িত করেছে কি না তার ওপর, অ্যালগরিদমিক জটিলতার ওপর নয় ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ও Yurt (2026)]])।
 
 ## সাধারণ ভুল ধারণা
@@ -127,32 +128,3 @@ ai_assist:
 **"শিখন-তত্ত্ব, শিক্ষার্থীর মডেল ও গ্রহণ-কাঠামো পরস্পর বিনিময়যোগ্য লেন্স।"** তারা ভিন্ন প্রশ্নের উত্তর দেয় — শিখন কীভাবে ঘটে, শিক্ষার্থীর অবস্থা কী, এবং একটি চর্চা কেন ছড়ায় — এবং তাদের প্রমাণের ধরনও সেই অনুযায়ী আলাদা। ভুল স্তর বাছলে এমন গবেষণা হয় যা সঠিক চলককে ভুল ভবিষ্যদ্বাণীর বিপরীতে মাপে, যা শূন্য-ফলাফল হিসেবে পড়া হয় অথচ তা শ্রেণি-ভুল।
 
 **"বেশি কাঠামো মানে বেশি পরিণত ক্ষেত্র।"** এআই-যুগের জন্য উদ্ভাবিত কাঠামো পরীক্ষিত হওয়ার চেয়ে দ্রুত জমা হয়, এবং মিথ্যা-প্রমাণ ছাড়া সঞ্চয় অগ্রগতির নয়, উপসর্গের লক্ষণ। পরিণততা প্রকাশ পায় প্রতিদ্বন্দ্বী ভবিষ্যদ্বাণীর নিষ্পত্তিতে, শব্দভাণ্ডারের বৃদ্ধিতে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[theory-development-aied]] — ক্ষেত্রে তত্ত্ব গড়া ও পুনর্বিবেচনা
-- [[philosophy-of-ai-in-education]] — নীতিগত ও ধারণাগত স্তর
-- [[learning-theories]] — শিখন-তত্ত্বের ছাতা
-- [[learning-sciences]] — প্রতিবেশী ক্ষেত্র যা থেকে বেশিরভাগ তত্ত্ব ধার করা
-- [[limitations-in-aied-research]] — প্রমাণভাণ্ডার কী সমর্থন করতে পারে, কী পারে না
-- [[tpack]] — শিক্ষকের জ্ঞান-কাঠামো
-- [[technology-acceptance-model]] — গ্রহণ-কাঠামো
-- [[item-response-theory]] — একটি পরিমাপ-মডেল
-- [[universal-design-for-learning]] — একটি নকশা-কাঠামো
-- [[research-methods-aied]] — তত্ত্ব কীভাবে পরীক্ষিত হয়
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — অফোর্ডেন্স-শ্রেণিবিন্যাসে চতুর্থ শ্রেণি হিসেবে আবেগগত অফোর্ডেন্স প্রস্তাবিত
-- [[ai-game-based-learning-systematic-review-2026]] — ৫৫টি এআই গেম-ভিত্তিক শিখন-গবেষণায় কার্যকারিতা চালিয়েছে প্রক্রিয়া-থেকে-তত্ত্ব সমন্বয়, অ্যালগরিদমিক জটিলতা নয়
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed কাঠামোর মধ্য দিয়ে এআইইডি-র চার দশক
-- [[educating-minds-generative-ai-2026]] — উৎপাদনশীল এআই ও শিখনের তত্ত্ব-ভারী সংশ্লেষ
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — শিক্ষকের পেশাগত উন্নয়নে আক্টিভিটি তত্ত্বের প্রয়োগ
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — আক্টিভিটি তত্ত্ব ও শিক্ষকের গ্রহণ
-- [[generativism-learning-theory]] — উৎপাদনশীল এআই যুগের জন্য প্রস্তাবিত একটি শিখন-তত্ত্ব
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — জ্ঞানতাত্ত্বিক সহ-এজেন্সির তত্ত্বের দিকে
-- [[absent-cognitive-baseline-2026]] — এআই-নেটিভ শিক্ষার্থীর স্ব-মূল্যায়নে কাঠামোগত ফাঁকের তত্ত্বায়ন
-- [[yan-agentivism-learning-theory-ai-2026]] — মানুষ–এআই মিথস্ক্রিয়ার জন্য একটি মধ্য-পরিসরের শিখন-তত্ত্ব
-- [[ai-literacy-instrument-development-systematic-review-2026]] — একটি নবীন গঠনের ওপর যন্ত্র-উন্নয়ন
-- [[mishra-control-vs-agency-history-2025]] — ক্ষেত্রের ভিত্তিমূল নিয়ন্ত্রণ-বনাম-এজেন্সি টানাপোড়েন

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -55,9 +57,7 @@ ai_assist:
 
 Сократический подход прямо воплощает принцип из [[llm-training-and-fine-tuning|EduQwen]]: **вознаграждать «ведение» выше, чем «ответничание».** Однако сократическая калибровка в реальном времени труднее, чем педагогика на бумажных бенчмарках: EduQwen оптимизируется под правильное ведение на [[benchmark]] множественного выбора, тогда как живой сократический репетитор должен решать, *когда* вести, *когда* подсказывать и *когда* отвечать — на основе сигналов студента в реальном времени. [[affective-tutoring|Affective state]] — критический модератор: фрустрированному студенту может понадобиться краткий прямой ответ, прежде чем вернуться в сократический режим. Более строгий вариант вообще убирает преподавание: агент по вводной физике, который только зондирует, просит студентов защитить верное предсказание против одной изменённой переменной (обнаружение пещеры) и сохраняет сообщение после верного ответа неотличимым от сообщения после неверного ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
-
 У дизайна подсказок есть документированная форма в домене, который эта страница иначе не освещает. В задании на ревизию текста на втором языке с 58 студентами университета на уровнях CEFR A1–B1 дизайн давал направляющие подсказки и требовал, чтобы учащиеся сами вывели исправление, а не получили его ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Снижение когнитивной нагрузки и персонализированные траектории ревизии сообщались в основном для учащихся, у которых уже было достаточно предварительных знаний, чтобы действовать по подсказке, а глубина обратной связи варьировалась в зависимости от того, насколько хорошо студент формулировал промпт. Таким образом, у удержания исправления есть порог владения языком — это задача калибровки в форме, которую можно измерить в исследовании.
-
 
 ## Доказательства эффективности
 
@@ -130,51 +130,3 @@ Favero и др. (2025) предостерегают, что даже сокра�
 - **«Сократическое вопрошание — это просто отсутствие ответов».** Специально созданный сократический ИИ-чатбот, развёрнутый в курсе вводной механики с большой численностью (**150 студентов-[[stem-education|STEM]] первого курса**), дал **измеримый** прирост, и его дизайн — структурированное вопрошание, ограниченное взаимодействие, а не молчаливая модель.
 - **«Эффект является следствием вовлечённости».** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna and Maes, 2026)]] — это **рандомизированное ЭЭГ-исследование 50 участников**, сравнивающее неограниченного чат-бота в стиле ChatGPT с **сократическим**, которое измеряет механизм, а не выводит его из исходов.
 - **«Ограничения — это то, что нужно убрать».** Самая сильная причинная поддержка ограничения указывает в другую сторону: в обзоре K-12 старшеклассники, использующие чат-бот общего назначения, **получили примерно на 17% худшие результаты на закрытых итоговых экзаменах**, чем сверстники, использующие ограниченный инструмент. Вредным условием был неограниченный инструмент.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — Последовательность вопрошания и её противоречивые данные испытаний
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Зонтичная: педагоги и учебные стратегии в ИИ-образовании
-- [[productive-failure]] — Productive Failure
-
-## Связанные статьи
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Сократические и директивные стили обратной связи в исследовании 2 x 2 в магистратуре
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Структурированные сократические подсказки против открытых вопросов общего назначения
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-- [[lftutor-logical-fallacy-education-2026]] — Сократическое вопрошание плюс критическая аргументация в четырёхшаговой рамке обучения ошибкам
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Проектирование ИИ-агента, который не учит: правила дизайна сократического зондирования во вводной физике
-- [[etq-ai-conversational-teacher-training-2026]] — Диагностика на разговорном ИИ для заблуждений в преподавании с доказательной аргументацией (Miranda & Calvani 2026)

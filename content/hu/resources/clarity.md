@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -39,6 +40,3 @@ A böngészőszerkesztő helyben, az oldalon fut, és nem tölti fel a vázlatot
 ## Amit a bevezetés előtt tudni kell
 
 A repó közzétesz egy értékelési protokollt, előtte–utána mintákat a `samples/` mappában és a készség mögötti referenciafájlokat, így a bíráló megnézheti, hogyan viselkednek a szabályok, ahelyett hogy elhinné az állítást; az itteni oldal nem ismétel meg semmilyen mért eredményt. A szerző Addy Osmani, a licenc MIT, a munka pedig független, nem valamely intézmény terméke. Fiatal és aktív: 2026 augusztusában készült, 54 commit, három kiadás, a legutóbbi 0.2.1-es verzióval abban a hónapban, és körülbelül 250 csillag a 2026. szeptemberi ellenőrzéskor. Három közreműködő vitt be változtatást. A készség utasításai abba az ügynökbe töltődnek be, amelyet az olvasó amúgy is futtat, így a szokásos [[prompt-engineering|promptmérnökségi]] fenntartások érvényesek: a bírálat minősége a kapott vázlattól függ.
-
-## Kapcsolódó fogalmak
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

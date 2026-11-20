@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -41,7 +42,3 @@ Afirmația distinctivă a proiectului este fundamentarea: competențele citează
 ## Note și precauții
 
 Competențele educaționale, documentația și materialele curriculare sunt licențiate CC BY-SA 4.0, deci reutilizarea și adaptarea sunt deschise, iar derivatele trebuie să poarte aceeași licență. Două detalii operaționale contează dacă îl implementezi. Endpointul MCP găzduit cere tokenuri în loc să fie deschis oricui, iar pentru că serverul servește un instantaneu comis, nu fișierele SKILL.md, o competență adăugată fără reconstruirea și commit-ul pachetului nu va apărea pe serverul live nici după o reimplementare. Biblioteca este construită de Gareth Manning, educator și designer de curriculum, iar termenii de licențiere se aplică specific conținutului educațional.
-
-## Concepte conexe
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

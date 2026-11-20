@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -72,36 +74,3 @@ ai_assist:
 - **"הקשרים דלי-משאבים חסרים מסגרת אתיקה של AI וצריכים אחת מיובאת."** מורים ל‑STEAM תיכוניים בשרות בהקשר דל-משאבים **מנמקים את אתיקת ה‑AI דרך זהות מקצועית, מציאות כיתתית ונורמות תרבותיות ולא דרך עקרונות פורמליים**. הנימוק קיים וממוקם; רשימת עקרונות אוניברסלית עוברת אליו בצורה גרועה.
 - **"סוג הממשל מנבא שילוב AI באוניברסיטאות."** ניתוח תוכן משווה של **45 אוניברסיטאות ניגריות** (פדרליות, מדינתיות ופרטיות) מצא ששילוב AI נחזה על ידי **גיל המוסד והמיקום הגיאוגרפי — ולא סוג הממשל**. ההנחה שמוסדות ציבוריים ופרטיים מתפצלים מופרכת.
 - **"הפער הדיגיטלי הוא המחסום העיקרי."** מחקר מקרה [[qualitative-research|איכותני]] של **21 סטודנטים לתואר ראשון עם ליקוי ראייה בשלוש אוניברסיטאות פלסטיניות** מצא ש‑GenAI מגשר בו-זמנית על מחסומים **דיגיטליים, גיאוגרפיים וחברתיים-כלכליים**. המחסומים שכבותיים, והתייחסות לגישה כמכשול היחיד משאירה את האחרים ללא מענה.
-
-## מושגים מקושרים
-
-- [[differential-effects-across-learner-groups|אפקטים דיפרנציאליים בין קבוצות לומדים]]
-- [[equity-in-ai-education|שוויון]]
-- [[generative-ai|בינה מלאכותית יוצרת]]
-- [[culturally-relevant-pedagogy|רלוונטיות תרבותית]]
-- [[ai-literacy|אוריינות AI]]
-- [[higher-ed|השכלה גבוהה]]
-- [[k-12|K-12]]
-- [[inclusive-learning|הכלה]]
-- [[technology-acceptance-model|קבלת טכנולוגיה]]
-- [[benchmark|אמת-מפתח]]
-
-## מאמרים מקושרים
-
-- [[genai-assessment-african-higher-education-review-2026]] — חשיבה מחדש על הערכה בעידן הבינה המלאכותית היוצרת: סקירת ספרות שיטתית של השכלה גבוהה אפריקאית
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — מבנים מוסדיים, אי-שוויון דיגיטלי ושילוב AI בהשכלה גבוהה ניגרית
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — מודל סוציו-קוגניטיבי אחיד לחינוך הנדסה (בנגלדש)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: תכנון שיעור וייטנאמי
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: מערך נתונים של מערכות ידע הודיות
-- [[nsmq-riddles-science-math-benchmark]] — חידות NSMQ: אמת-מפתח STEM גאני
-- [[genai-minoritized-knowledges-disability]] — שוליים של ידעים מוזנחים
-- [[llm-cultural-relevance-k12]] — מודלים גדולים לפדגוגיה K-12 רלוונטית תרבותית
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — שילוב GenAI בהשכלה גבוהה בנגלדשית דרך קונסטרוקטיביזם (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI מסייע ללומדים עם ליקוי ראייה
-- [[culturally-aware-student-stress-chatbot-2026]] — צ'אטבוט מודע-תרבות המופעל על ידי AI לזיהוי מתח ותמיכת רווחה בקרב סטודנטים אוניברסיטאים פקיסטנים באמצעות NLP ולמידת מכונה
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — קיבוע טענת הלמידה של פלוט חונכות AI של אל סלוואדור (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — מפתחים אקדמיים כמתווכים דיגיטליים ב-HDI דרום-אפריקאיות: אי-שוויון דיגיטלי מול קולוניאליות אלגוריתמית
-- [[ai-ethical-awareness-ghana-students-2026]] — מודעות אתית של בינה מלאכותית של סטודנטים אוניברסיטאיים גאניים
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — עקרונות אתיים של בינה מלאכותית בחינוך: ניתוח אתי מוקשר של מורים
-- [[gouroubera-genai-benin-2026]] — 633 סטודנטים בבנין: שימוש שבועי 92.3 אחוז, עומס העבודה הוא המניע המרכזי, ולכן גישה אינה עוד האילוץ הקושר (Gouroubera et al. 2026)

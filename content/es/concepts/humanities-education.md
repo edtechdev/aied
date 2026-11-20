@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -71,29 +73,3 @@ La estrategia institucional también está documentada. [[ai-digital-transformat
 **«La educación en valores puede entregarse a un modelo como contenido.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] replantea la educación en valores como una práctica relacional con tres condiciones —responsabilidad ante el otro, ejemplaridad y dirigirse a alguien— y lee cada una de las posibilidades de la IA generativa como la sustitución de una relación: la perspectiva simulada sustituye al actor al que se puede perjudicar.
 
 **«Las humanidades afrontan el mismo problema de evaluación que todas las demás.»** El artefacto es distinto: una afirmación sobre lo que significa un texto, defendida frente a lecturas contrarias, no es un informe de hallazgos y no se convierte en uno porque un modelo pueda escribir informes.
-
-## Conceptos conectados
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## Artículos conectados
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Un modelo desarrollista y crítico de la cognición interpretativa para la educación SSH
-- [[capodieci-humanities-hil-2026]] — IA agéntica en el aprendizaje de humanidades y el paso de la autoría del texto a la atribución de la interpretación
-- [[paternalistic-filter-llm-history-education]] — Uso de LLM, filtros y razonamiento histórico en la educación histórica
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — De la herramienta al método: alfabetización en IA en la enseñanza de la historia
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Andamiaje fundamentado para la creación literaria con un grafo de conocimiento y un LLM
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15.587 unidades de Artes y Humanidades del Go8: el 58,6% de los ítems de evaluación de 2026 con alta exposición a la IA
-- [[corbin-essay-time-genai-2026]] — El ensayo evaluado ya se había estrechado a un informe de tesis y evidencia
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Una institución de artes liberales que exige alfabetización en IA generativa en todo el currículo de grado
-- [[genai-values-education-affordances-risks-2026]] — La educación en valores como práctica relacional, y lo que sustituye cada posibilidad de la IA generativa
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — El formato de la tarea y las instrucciones de uso de IA como aquello que el artefacto puede evidenciar
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — La integridad y la alfabetización digital crítica como un solo problema, unidas por el juicio evaluativo

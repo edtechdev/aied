@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -83,29 +85,3 @@ SDL, öğrenci kaynaklı yönlendirmeyi vurguladığından, onu korumaya yöneli
 **Araştırmacılar için**
 
 - Bir müdahalenin hangi yapıyı hedeflediğini raporlayın; SDL ve SRL çıktıları birbirinin yerine kullanılmamalıdır.
-
-## Bağlı kavramlar
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Bağlı makaleler
-- [[scherer-self-directed-genai-use-secondary-2026]] — Ortaokul Öğrencilerinde Öz Yönlendirilmiş Üretken YZ Kullanımı ve Akademik Gelişim: Büyük Ölçekli, Bir Yıllık Boylamsal Bir Çalışma
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Üretken YZ kullanımı ve öz yönlendirilmiş öğrenme (SEM, cinsiyet farklılıkları)
-- [[ai-lifelong-learning-policy]] — YZ ve yaşam boyu öğrenme politikası
-- [[self-directed-growth-generative-ai-learning-analytics]] — Üretken YZ ve öğrenme analitiği ile öz yönlendirilmiş gelişim
-- [[genai-educational-outcomes-meta-analysis]] — Üretken YZ’nin eğitimsel sonuçlarının meta analizi
-- [[andragogy-cognitive-delegation-genai-2026]] — Üretken YZ ile andragogi ve bilişsel devir
-- [[kim-ai-andragogy-2026]] — Andragojiyi Desteklemede YZ Uygulamaları (Kim ve ark. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — Modeller serbest seçim görevinde öğrenme hedeflerini insanlar gibi seçmiyor (Molinaro ve ark. 2026)

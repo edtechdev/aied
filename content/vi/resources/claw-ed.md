@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,6 +43,3 @@ Dự án cố ý không gắn với một mô hình. Nó ghi lại các mô hìn
 ## Ghi chú và lưu ý
 
 Phần mềm miễn phí và [[open-source|mã nguồn mở]] theo giấy phép MIT cho mã gốc của nó, dù các thành phần bên thứ ba giữ điều khoản riêng, và chạy nó nghĩa là bạn trả tiền cho suy luận của mô hình nếu dùng một mô hình lưu trữ sẵn. Dự án tự gắn nhãn là bản beta có giáo viên rà soát và nói thẳng trong README rằng việc vượt qua CI của nó không xác lập chất lượng giảng dạy trên các mô hình đang chạy, đó cũng là cách đúng để đọc một bộ kiểm thử xanh trong lĩnh vực này: nó kiểm chứng phần mềm, không kiểm chứng [[pedagogy|sư phạm]]. Dự án do MacxLabs duy trì và nhận các bài học mẫu đã được giáo viên rà soát như đóng góp.
-
-## Khái niệm liên quan
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

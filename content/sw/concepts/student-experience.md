@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
+connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -126,74 +128,3 @@ Uzoefu wa mwanafunzi unaungana na [[cognitive-offloading|Kutegemea Kupita Kiasi]
 **Kwa watafiti**
 
 - Ripoti ukubwa na sababu za kikundi cha wasiotumia kwa uwazi; 32% ya sampuli ya wanafunzi 7,087 ni idadi, si mabaki.
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[pedagogical-partnerships]] — Ushirikiano wa Mbinu za Kufundisha
-- [[learner-identity]] — utambulisho wa mwanafunzi unaobadilika wa taaluma, kitaaluma, kibunifu, na wa kielimu
-- [[agency]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[remote-proctoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[framing-ai-use-for-students]]
-- [[academic-integrity]]
-- [[stakeholders]] — Mwanya: watu na hadhira katika elimu ya AI (wanafunzi, waalimu, wabuni, wasimamizi, watengenezaji wa sera)
-- [[self-report-measures]]
-- [[student-engagement]] — jinsi mifumo ya AI inavyopima na kujibu tabia ya mwanafunzi
-- [[social-norms-ai-use]] — jinsi matumizi ya AI yanavyokuwa ya kuwiana kwa wanafunzi wenzao
-- [[student-support-and-success]] — upande wa taasisi wa msaada: kile chuo kikuu kinafanya kwa wanafunzi, si kile kinachotokea katika kozi
-
-## Makala Zilizounganishwa
-- [[shame-guilt-ai-regulation-computing-education]] — Aibu na hatia kama udhibiti wa kijamii wa matumizi ya AI
-- [[t2i-competence-paradox-2026]] — Paradoksi ya uwezo: utambulisho wa kibunifu katika matumizi ya GenAI ya maandishi-kwa-picha
-- [[best-response-student-ai-dialog-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[ai-in-the-wild-college]]
-- [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — Uhalalishaji wa wanafunzi wa matumizi ya AI katika uandishi wa kielimu (Kim et al. 2026)
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[ai-availability-student-motivation]]
-- [[aied-unfinished-mission-bypass]]
-- [[student-mental-models-genai]]
-- [[genai-usage-design-students-survey]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Matarajio ya ujuzi wa AI kwa wahitimu wa chuo kikuu dhidi ya utayari wa taasisi
-- [[student-ai-inquiry-types-cs2-2026]] — Uchanganuzi wa Aina za Maswali katika Mwingiliano wa Mwanafunzi–AI
-- [[lnenicka-secondary-students-genai-stem-2026]] — Wanafunzi wa sekondari hufanya nini na zana za GenAI katika STEAM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot za GenAI na kuweka matatizo katika sayansi ya msingi
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: vijakati vya AI katika elimu (Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — Pengo la Usalama: Kurejesha Kupigania kwa Tija
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Tathmini ya Wasiwasi wa Mwanafunzi Iliyoimarishwa na LLM (2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — Uchanganuzi wa kina wa wasiwasi wa AI
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Mtazamo wa kupitisha baada ya sekondari
-- [[pedlow-genai-selfassessment-2026]] — Kupandisha ufahamu wa maadili wa matumizi ya GenAI kupitia tathmini binafsi ya mwanafunzi
-- [[dollinger-equitable-assessment-ai-2026]] — Tathmini ya usawa katika zama za AI
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Matumizi ya muda mrefu ya GenAI, maadili, na sera katika elimu ya walimu (Parker et al. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — Uzoefu wa mwanafunzi wa ufaafu wa GenAI katika elimu ya juu ya Australia (Chung et al. 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — GenAI na uwezo unaoonekana wa uamuzi wa wanafunzi (akaunti ya mzigo wa kiakili)
-- [[genai-professionalization-metaphors-2026]] — Dhana za GenAI na umahiri wa kitaaluma wa mwanafunzi
-- [[sidorkin-ai-generated-course-readings-2026]] — Wanafunzi kama wakaguzi wa mtaala wao wenyewe uliotengenezwa na AI (Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Wanafunzi kuhusu iwapo GenAI ni zana ya wizi au mshirika wa kujifunza
-- [[munoz-misconduct-allegation-evidence-2026]] — Faili za shutumu za uendeshaji mbaya zina nini kama ushahidi
-- [[wright-transcription-not-generation-2026]] — Kanuni za AI za kupanua kupita kiasi na wanafunzi wanaonaswa
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uadilifu kama hukumu ya kutathmini badala ya utii
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Gharama za kihisia na za usawa za uangalizi wa mbali kwa wanafunzi
-
-- [[genai-motivation-engagement-2026]] — Wanafunzi 297: motisha ilitabiri mahusiano; msaada wa uhuru kwa matumizi ya AI haukuwa na athari ya moja kwa moja (Ahmed na Sultan 2026)

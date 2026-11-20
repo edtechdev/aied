@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -99,33 +101,3 @@ Die meisten Studien hier sind klein, [[self-report-measures|selbstberichtet]] od
 - **Die beiden Kompetenzen sind ein und dieselbe Fähigkeit unter zwei Namen.** Ihre Gegenstände unterscheiden sich — Glaubwürdigkeit der Quelle gegenüber Autorschaft und Absicht —, sodass ein einziges Bewertungsraster keine von beiden gut erfasst.
 - **KI zu erkennen immunisiert gegen sie.** Im stärksten der hier betrachteten Persuasionsexperimente war die Erkennungsleistung hoch, und die Verschiebung hin zur Position der KI nahm dennoch zu.
 - **Bibliothekskompetenz überträgt sich auf KI-Kompetenz.** Die Defizite des Personals zeigen sich beim Formulieren von Zielen (M = 2,70) und beim Bewerten von Ergebnissen (M = 2,62), nicht beim Bedienen von Werkzeugen.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — der Vier-Länder-Review von iRAISE: 84 von 194 Staaten verankern MIL über technische Fähigkeiten hinaus in den Lehrplänen, und menschliche Faktoren entschieden über die Ergebnisse in allen vier Systemen (Cerioli, 2026)
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Kartierung der Integration von AI-Literacy in die Vermittlung von Informationskompetenz in wissenschaftlichen Bibliotheken: ein systematischer Review aufkommender Forschung
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Wie künstliche Intelligenz die Informationskompetenz in wissenschaftlichen Bibliotheken neu gestaltet: eine globale szientometrische Analyse (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Künstliche Intelligenz (AI) und Informationssuche: eine vergleichende Untersuchung von AI-Chatbots, Suchmaschinen und Bibliotheksressourcen als Informationsquellen unter Studierenden
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Entwicklung einer AI-gestützten seminarbasierten Lernplattform mit integrierter bibliothekarischer Unterstützung
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Informationskompetenz durch offene Pädagogik: Welche Rolle spielen AI-Tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative künstliche Intelligenz verändert die nachhaltige Nutzung wissenschaftlicher Informationsressourcen durch Studierende
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Die Einbindung von Studierenden durch wissenschaftliche Bibliothekare zur Förderung von Informationskompetenz und Unterricht zu künstlicher Intelligenz an nigerianischen Hochschulen
-- [[offem-ai-information-literacy-library-users-2026]] — Künstliche Intelligenz als Instrument zur Förderung der Informationskompetenz von Bibliotheksnutzenden
-- [[critical-media-literacy-education-2026]] — Technologie, Bildung und kritische Medienkompetenz: Potenzial, Herausforderungen und Chancen
-- [[demir-akar-ai-media-literacy-children-2026]] — Klicks in kritisches Denken verwandeln: ein AI-basiertes Medienkompetenzprogramm für Kinder
-- [[ai-literacies-young-adults-2025]] — Förderung von AI-Literacies bei jungen Erwachsenen im Alter von 14–19 Jahren
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — Personalisiertes GPT-4 schlug menschliche Debattierende; die Erkennung immunisierte nicht (Salvi et al. 2025)
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: die digitale Design-Thinking- und Lernplattform zur Förderung von Computational Thinking und digitaler Literalität

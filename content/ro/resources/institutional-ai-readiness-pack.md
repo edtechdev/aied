@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -39,6 +40,3 @@ O **suită de evaluare**: o autoevaluare a maturității pregătirii instituțio
 ## Pentru cine este
 
 Lideri ai cercetării, comitete și birouri de politici care au nevoie de o imagine bazată pe dovezi a modului în care IA este folosită și [[governance|guvernată]] într-un mediu de cercetare, și de o cale de a urmări [[change-management|schimbarea]] în timp. El însoțește *Responsible AI in Academic Research: A Competency Framework for Research Training*, care definește cinci dimensiuni ale pregătirii, și a fost scris de Michael J. Zyphur, directorul Instats.
-
-## Concepte conexe
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

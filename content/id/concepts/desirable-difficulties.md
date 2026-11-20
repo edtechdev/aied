@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,9 +44,7 @@ Kesulitan yang diinginkan bersandar pada wawasan bahwa kondisi yang membuat pemb
 
 Usaha yang tidak membeli apa pun bukanlah kesulitan yang diinginkan. Dalam eksperimen terpreregistrasi dengan 302 orang dewasa yang mempelajari Python pengantar, menambahkan prompt penjelasan diri ke umpan balik [[ai-feedback-quality|AI]] yang sudah terelaborasi menggandakan waktu pada umpan balik (4.1 vs 2.1 menit) dan memangkas masalah yang diselesaikan dari 3.4 menjadi 2.0, dengan skor masalah akhir 45% berbanding 60% (d = .41) ([[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold & Carvalho, 2025]]). Batas yang ditemukan studi tersebut: kesulitan diinginkan ketika ia mendorong pengambilan kembali, penerapan, atau perbandingan tambahan, dan redundan ketika pembelajar sudah memiliki penjelasan yang dipersonalisasi tentang kesalahan spesifiknya.
 
-
 Pengalihan persepsi itu sendiri dapat bertindak sebagai kesulitan yang diinginkan: [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang dkk. (2026)]] menemukan bahwa isyarat warna yang tidak kongruen pada operator matematika menekan tebakan segera sekaligus menghasilkan profil retensi terkuat dalam studi kelas enam mereka. Dalam model BKT yang dicocokkan pada 19,952 titik data dari 688 siswa kelas enam, kondisi warna tidak kongruen dengan penjarakan netral (NSIC) menunjukkan tingkat tebakan terendah dari sembilan kondisi (0.190) namun tingkat pembelajaran tertinggi (0.0379) dan tingkat lupa terendah (0.0054).
-
 
 ## Kebingungan, Gesekan Kognitif, dan Perjuangan Produktif
 
@@ -56,11 +56,7 @@ Tiga konstruk yang berkerabat menggambarkan zona tempat kesulitan yang diinginka
 
 Kegagalan produktif adalah versi terstruktur dan digerakkan teori dari ide ini: [[productive-failure|kegagalan produktif Kapur]] (PF) memformalkan perjuangan produktif sebagai desain dua fase (generasi & eksplorasi *sebelum* instruksi, lalu konsolidasi & perakitan pengetahuan). Literatur PF era AI memberi basis pengetahuan kosakata desain yang konkret untuk mempertahankan kesulitan yang diinginkan — [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] menurunkan prinsip desain AI ([[human-ai-collaboration|kolaborasi manusia-AI]], desain reflektif, dukungan non-direktif) yang mencegah AI menghapus perjuangan itu; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] menunjukkan bahwa tutor [[llm]] dapat diarahkan untuk menahan solusi dan memancing beberapa percobaan; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] memformalkan "Safety Gap" — divergensi antara kinerja berbantuan AI dan kapabilitas tanpa bantuan — sebagai biaya penghilangan perjuangan; dan [[rhaimi-productivemath-2025|ProductiveMath]] menggunakan AI untuk menurunkan beban merancang masalah PF. Ini semua menunjukkan bahwa prinsip kesulitan yang diinginkan dapat diterjemahkan menjadi pilihan desain AI yang konkret.
 
-
 Kendala dapat membawa logika desain yang sama di dalam kelas menulis. Dalam unit menulis argumentatif selama sembilan minggu, [[making-ai-annoying-constrained-writing-2026|Konradt, Boote dan Taub (2026)]] memberi empat siswa sekolah menengah chatbot yang dibatasi guru yang mengajukan pertanyaan alih-alih menghasilkan prosa; siswa mendorong balik keluaran AI alih-alih mengonsumsinya, mengembangkan literasi prompt bersama kemajuan argumentasi balasan dan integrasi bukti.
-
-
-
 
 ## Kesulitan yang Diinginkan vs. Gesekan Kognitif vs. Gesekan Produktif
 
@@ -110,50 +106,3 @@ TutorMoments mengoperasionalkan prinsip kesulitan yang diinginkan sebagai kriter
 **"Gesekan kognitif dan perjuangan produktif adalah ide yang sama."** Keduanya berasal dari literatur berbeda dan membuat prediksi berbeda. Perjuangan produktif menyangkut pemaknaan penuh usaha yang membangun pemahaman; gesekan kognitif menyangkut ketidaksesuaian antara apa yang dituntut tugas dan apa yang didukung sumber daya pembelajar saat ini. Memperlakukannya sebagai sinonim menghilangkan pertanyaan diagnostik — apakah pembelajar ini bergulat dengan cara yang membangun, atau terhalang dengan cara yang hanya memakan biaya?
 
 **"Jika menghilangkan perjuangan menaikkan kinerja segera, intervensinya berhasil."** Inilah pertukaran yang menjadi topik seluruh halaman ini: kinerja yang diukur dengan kehadiran dukungan secara sistematis menggelembung relatif terhadap kinerja tanpa bantuan di kemudian hari. Evaluasi apa pun atas AI yang mengurangi usaha harus mengukur pada jeda dan tanpa alat tersebut, atau ia akan melaporkan penghilangan latihan sebagai produksi pembelajaran.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Mengapa urutan penuh usaha mengungguli urutan yang lancar
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-
-- [[automation-bias]] — Kegagalan yang hendak dicegah oleh gesekan produktif
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — Kegagalan Produktif
-- [[retrieval-spacing-interleaving]] — teknik operasional yang mewujudkan prinsip ini: efek pengujian, penjarakan, interleaving
-
-## Artikel terkait
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT sebagai kruk kognitif: uji acak tertunda atas penghilangan kesulitan yang diinginkan (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Menentang AI tanpa gesekan: argumen kurva-U terbalik untuk mempertahankan gesekan yang bermanfaat
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Gesekan produktif yang tertanam dalam alat GenAI mendukung pembelajaran
-- [[zhang-tutormoments-2026]] — Saat Bantuan Tidak Membantu: mengevaluasi tutor AI untuk perjuangan produktif
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengemudian Pedagogis LLM untuk Kegagalan Produktif
-- [[wang-safety-gap-productive-struggle-2026]] — Celah Keamanan: Memulihkan Perjuangan Produktif
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah PF
-- [[making-ai-annoying-constrained-writing-2026]] — Sengaja membuat AI menjengkelkan: kendala dalam penulisan berbantuan AI (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Pertanyaan Terbuka Menuju Ketergantungan yang Menopang Keterampilan dalam Keterlibatan AI Reflektif
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Prompt penjelasan diri yang ditambahkan ke umpan balik AI yang sudah terelaborasi: waktu berlipat, tanpa keuntungan pembelajaran (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran AI generatif: skor pekerjaan rumah naik sementara skor ujian turun, dengan biaya penuh setelah dua tahun (Strömberg, Lei & Wu 2026)

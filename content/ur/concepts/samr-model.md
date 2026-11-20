@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -80,28 +82,3 @@ SAMR کو بہتر طور پر انضمام کی گہرائی کا عدسہ سم
 **"SAMR اور TPACK مسابقتی فریم ورک ہیں۔"** یہ الگ الگ چیزیں بیان کرتے ہیں: SAMR کسی کام میں *تبدیلی کی ڈگری* بیان کرتا ہے، جبکہ [[tpack|TPACK]] وہ *علم* بیان کرتا ہے جو استاد کو ٹیکنالوجی اچھی طرح ضم کرنے کے لیے درکار ہے۔ ایک استاد TPACK میں بہت قابل ہو سکتا ہے اور پھر بھی Substitution پر کام کر سکتا ہے، اِسی لیے دونوں ساتھ استعمال ہوتے ہیں، اُن میں سے انتخاب نہیں کیا جاتا۔
 
 **"جو اوزار ایک سطح پر تبدیلی والا ہے، ہر سطح پر تبدیلی والا ہے۔"** وہی جنریٹیو اوزار ایک کورس میں Substitution اور دوسرے میں Redefinition کی حمایت کر سکتا ہے، کیونکہ سطح ٹیکنالوجی کی نہیں بلکہ کام کے ڈیزائن کی خصوصیت ہے۔ سطح کو اوزار سے منسوب کرنا ڈیزائن کے فیصلوں کی جگہ اپنانے کے فیصلے پیدا کرتا ہے۔
-
-## منسلک تصورات
-
-- [[ai-education]] — تعلیم میں AI (چھتری)
-- [[tpack]] — تکنیکی تدریسی مواد کا علم
-- [[technology-acceptance-model]] — ٹیکنالوجی قبولیت کے ماڈل
-- [[icap-framework]] — علمی شمولیت کا ICAP فریم ورک
-- [[ai-technologies]] — AI ٹیکنالوجیاں اور تکنیکیں
-- [[teacher-ai-competency]] — استاد کی AI قابلیت
-- [[educational-development]] — تعلیمی ترقی
-- [[learning-design]] — سیکھنے کا ڈیزائن
-- [[k-12]] — K-12 تعلیم
-- [[higher-ed]] — اعلیٰ تعلیم
-- [[generative-ai]] — جنریٹیو AI
-
-## منسلک مضامین
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — اعلیٰ تعلیم میں AI انضمام SAMR سے درجہ بند: زیادہ تر Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP اور SAMR چار کھانا پکانے سے سیکھنے تک کے منظرناموں کا نقشہ بناتے ہوئے
-- [[rewriting-curriculum-genai-pedagogy-2026]] — GenAI سے چلنے والی نصابی تبدیلی کے عدسوں میں SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — فیکلٹی ٹیکنالوجی معیارات کی بنیاد بننے والے فریم ورکوں میں SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR کی انسانیت پسند وجودیات پر مابعد انسانی تنقید
-- [[reclaiming-epistemic-agency-co-agency-2026]] — طاقت، ڈیٹا کی ملکیت اور جواب دہی پر SAMR کی خاموشی
-- [[genai-use-changing-institutional-policy-physics-2026]] — بدلتی ادارہ جاتی پالیسیوں کے تحت طلبہ کا GenAI استعمال: استعمال کے افعال SAMR سطحوں پر نقش (Quince اور Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — ریاضی کے کلاس رومز میں AI: تنوع اور شمولیت کے لیے ایک ہمہ گیر حکمتِ عملی

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -49,7 +51,6 @@ ai_assist:
 ## گھر میں ساتھی اور پڑھائی کے اوزار
 
 خاندان AI سے ٹیوٹرنگ نظام کے بجائے ساتھی ایپ کے طور پر زیادہ ملتے ہیں۔ [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] نے تائیوان کے شہر تاؤیوان کے 19 ابتدائی طلبہ — جماعت 4 میں 12 اور جماعت 5 میں سات، ہر ایک کے چار سیشن — کے ساتھ کتاب پر گفتگو کے سیشنوں میں ایک مقرر 'طالب علم ساتھی' ساتھی (Whisper مع GPT-3.5) کا تجربہ کار ہم جماعت اساتذہ سے موازنہ کیا۔ طلبہ نے AI کے ساتھ نمایاں طور پر زیادہ وقت گزارا، پھر بھی الفاظ اور جملوں کا واضح طور پر کم تناسب ڈالا؛ جماعت 5 کے لیے یہ حصہ اُس سے ایک تہائی سے بھی کم تھا جو اُنہوں نے استاد کے ساتھ پیدا کیا، اِس نمونے کو مقالہ 'مکالماتی غلبہ' کہتا ہے۔ ساتھی حقائق یاد کرانے میں مؤثر رہا مگر جذباتی اور مستقبل پر مبنی غور و فکر کی [[prompt-engineering|ترغیب]] میں استاد سے نمایاں طور پر کمزور — یہ ایک جذباتی چھت ہے۔ Liao کا جواب ایک کردار کے لحاظ سے ڈھلنے والا فریم ورک ہے جس میں ایک ساتھی طالب علم ساتھی، استاد کے معاون اور والدین کے مشیر کے کردار ادا کرتا ہے، اور آخری کردار گفتگو کو گھر تک بڑھاتا ہے۔ اِس کے پیچھے تشخیص معاونت کا خلا ہے: زیادہ تر ساتھی ڈیزائن طالب علم–AI جوڑے پر مرکوز رہتے ہیں اور اساتذہ اور والدین کو کوئی متعین مقام نہیں دیتے۔
-
 
 **کچھ نوجوان والدین کے بجائے AI پر راز بانٹنا ترجیح دیتے ہیں۔** حوالہ دیا گیا چینی ڈیٹا 13.5% نوجوان انٹرنیٹ صارفین کو والدین کے بجائے AI پر راز بانٹنا ترجیح دیتے ہوئے دکھاتا ہے، اور [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] کا فریم ورک پیش گوئی کرتا ہے کہ AI کے ساتھ بندھن معاوضاتی متبادل بن جاتا ہے جب دیکھ بھال کرنے والے کسی نوجوان کی شناخت کی تصدیق کی ضروریات کو پہچاننے میں ناکام رہیں۔
 
@@ -94,33 +95,3 @@ ai_assist:
 **'اگر AI اُن کے بچے کی سیکھائی کو نقصان پہنچا رہا ہو تو والدین محسوس کر لیں گے۔'** وہ محسوس کرنے کے لیے سب سے کم موزوں مقام پر ہیں۔ [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]] کے ڈیٹا میں ہوم ورک کے نمبر **18%** بڑھے جبکہ [[summative-assessment|بند کتاب والے امتحان]] کے نمبر چھ ماہ کے اندر **20%** گر گئے — اور گھر پر نظر آنے والا عدد بڑھنے والا ہی ہے۔ ہوم ورک دیکھنے والا والدین بہتری دیکھتا ہے جبکہ پائیدار نتیجہ گر رہا ہوتا ہے۔
 
 **'گھر پر AI کا استعمال والدین کی اجازت کا سوال ہے۔'** یہ خواندگی اور وکالت کا سوال ہے۔ والدین کی اپنی AI خواندگی طے کرتی ہے کہ وہ اسکول کے جاری کردہ اوزار کے بارے میں کیا پوچھ سکتے ہیں، اور خاندانوں میں رسائی کی ناہمواریاں طے کرتی ہیں کہ کون سے بچوں کو بالغ کی ثالثی ملتی ہے ہی اور کون سے نہیں۔
-
-## منسلک تصورات
-
-- [[stakeholders]] — تعلیم میں AI کے سامعین اور فاعلوں کا چھتری صفحہ
-- [[early-childhood-elementary-ai-education]] — وہ ترقیاتی میدان جہاں گھر اور خاندان کا استعمال سب سے زیادہ مطالعہ کیا گیا ہے
-- [[ai-use-disclosure]] — افشا کے عمل اور اِس سوال کا کہ خاندانوں تک کیا پہنچتا ہے
-- [[ai-literacy]] — والدین کی اپنی قابلیتیں اور اُنہیں متعین کرنے والے اسکول کے بنائے فریم ورک
-- [[equity-in-ai-education]] — فوائد اور بوجھ گھرانوں میں کیسے تقسیم ہوتے ہیں
-- [[digital-divide]] — رسائی، مہارت اور نتائج کی تہیں جیسے وہ گھر پر لاگو ہوتی ہیں
-- [[conversational-ai]] — خاندانی ماحول میں AI کی غالب صورت
-- [[self-determination-theory]] — خودمختاری کی معاونت بطور خاندانی رہنمائی کا فریم
-- [[cognitive-offloading]] — انحصاری بمقابلہ خودمختار منتقلی، اور والدین فرق کیوں نہیں دیکھ سکتے
-- [[intelligent-tutoring]] — AI کے ذریعے ثالثی شدہ والدین–بچہ ٹیوٹرنگ کے پیچھے ماڈل
-
-## منسلک مضامین
-- [[ai-connectedness-adolescent-mental-health-2026]] — نوعمروں کا AI سے جڑاؤ اور جب AI کا بندھن دیکھ بھال کرنے والوں کی غیر پوری شدہ شناخت کے متبادل بن جائے
-
-- [[paratutor-parent-child-tutoring]] — چینی گھریلو ریاضی کی ٹیوٹرنگ میں 23 والدین–بچہ جوڑوں کے لیے کرداروں کو الگ کرنے والی LLM معاونت
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — تائیوان میں 19 ابتدائی طلبہ کے ساتھ مقرر ساتھی کردار والا ساتھی بمقابلہ استاد
-- [[family-school-autonomy-support-genai-2026]] — خاندان–اسکول ہم آہنگی کو غیر جانچا مفروضہ سمجھنے والا جائزہ
-- [[raise-framework-ai-education-reporting-2026]] — رضامندی، شرکا کے سیاق و سباق اور رسائی کی مساوات کو محیط رپورٹنگ ذمہ داریاں
-- [[k12-teachers-ai-companion-literacy-2026]] — دائرہ اختیار، والدین اور بچوں کے AI ساتھیوں کے ساتھ تعلق پر 33 اساتذہ
-- [[ai-play-framework-early-childhood-2026]] — خاندان مرکز Hour of Code تقریب کے ذریعے جانچی گئی غیر ڈیجیٹل AI خواندگی
-- [[all-girls-genai-makerspace-gender-equity-2026]] — انٹرویو لینے والوں میں والدین شامل؛ غیر رسمی ماحول میں اوزار کی لاگت اور زبان کی رکاوٹیں
-- [[creative-project-approach-ai-early-childhood-2025]] — ننھے بچوں کے لیے جسمانی ایجنٹ، لاگت، رسائی اور رازداری کی تنبیہات کے ساتھ
-- [[demir-akar-ai-media-literacy-children-2026]] — 36 چوتھی جماعت کے بچوں کے لیے ڈیٹا رازداری، محفوظ رابطے اور میڈیا اخلاقیات پر اسکولی پروگرام
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — خاندان کے سامنے آنے والے قدم ہٹانے پر شرکت 45% سے 83% ہو گئی
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — ہوم ورک آؤٹ سورسنگ، امتحانات میں گراوٹ اور اِن پٹ کی نگرانی کی دلیل
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — عمر سے غیر وابستہ AI خواندگی کی سطحیں اور تین سطحوں والا ڈیجیٹل خلا
-- [[llm-family-education-activity-theory-2026]] — سرگرمی کے نظریے کی عینک سے LLM پر مبنی خاندانی تعلیم کی خصوصیات: HCI لٹریچر کا اسکوپنگ جائزہ

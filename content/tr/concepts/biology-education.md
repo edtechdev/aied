@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -67,36 +69,3 @@ Biyoloji eğitimi daha geniş [[stem-education]] alanı içinde yer alır ve [[c
 - **“Öğrenciler YZ’yi insan bir öğretim asistanından ayırt edemez.”** Bir sanal laboratuvar öğretim asistanı çalışması, **insan asistanların ChatGPT’den daha doğru ve daha etkili olduğunu** bulmuş, yine de öğrenciler **YZ yanıtını %40 oranında tercih etmiş** ve **YZ çıktısını yalnızca %45 oranında saptayabilmiştir**. Saptama yazı tura atmaya yakındı ve tercih daha az doğru kaynağa yöneliyordu; dolayısıyla doyum verisi burada kalitenin yerini tutamaz.
 - **“Tercih kaliteyi gösterir.”** Aynı çalışma ikisini doğrudan ayırır: tercih edilen çıktı daha kötü olandı. Bir biyoloji YZ aracını, doğruluk ölçütü olmadan öğrenci doyumu bildirerek değerlendirmek yanlış büyüklüğü raporlamaktır.
 - **“YZ okuryazarlığı ayrı bir ders olarak öğretilmelidir.”** Makine öğrenmesi kavramlarını **bir lise biyoloji dersine gömmek**, biyoloji bağlamının YZ öğrenmesini **desteklediğini** bulmuştur; bu, YZ okuryazarlığını ayrı bir ünite olarak eklemek yerine müfredata gömmek lehine kanıttır. Disiplin, kavramların tutunacağı bir şey vermiştir.
-
-## Bağlı kavramlar
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Bağlı makaleler
-
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

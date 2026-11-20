@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -58,6 +59,3 @@ yang ditinjau guru dan menyatakan terus terang di README-nya bahwa lolos CI tida
 pengajaran pada model langsung, yang merupakan cara tepat membaca rangkaian uji hijau di bidang ini: CI
 memverifikasi perangkat lunaknya, bukan [[pedagogy|pedagoginya]]. Proyek ini dikelola MacxLabs dan
 menerima contoh pelajaran yang ditinjau guru sebagai kontribusi.
-
-## Konsep terkait
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

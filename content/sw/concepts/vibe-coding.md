@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -94,28 +96,3 @@ Utafiti wa kesi wa ngazi ya wataalam katika hifadhi hii ya maarifa unatoa tabaka
 
 - Ripoti hali ya vibe coding (safi dhidi ya msimbo unaoonekana) pamoja na matokeo, na tumia kazi zinazoelekea GUI zilizothibitishwa na wataalam badala ya [[self-report-measures|mafanikio ya kujiripoti]], ili matokeo yalinganishwe kati ya tafiti.
 - Pima anuwai ya vitu, si idadi ya vitu au idadi ya wajenzi tu, kama hoja ya ufikiaji inajaribiwa.
-
-## Dhana Zilizounganishwa
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Makala Zilizounganishwa
-- [[vibe-coding-writing-cs-achievement-2026]] — Mafanikio ya Sayansi ya Kompyuta na Ujuzi wa Uandishi Yana tabiri Uwezo wa Vibe Coding (utafiti wa uzoefu wa CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Mfumo wa Kuongoza kwa Walimu wa K-12 katika Kuunda Teknolojia za Kujifunza Zinazotumia Nguvu za AI kupitia Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — Kutoka Wazo hadi Darasa katika Siku: Kutumia "Vibe Coding" Kuunda Muonyesho wa Mchakato wa Kupanga Programu Kutoka Kumbukumbu za Shughuli za IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe coding ilijenga mifumo miwili ya uhandisi katika masaa; kutambua hitilafu ya itifaki bado ilihitaji mkufunzi
-- [[prompt-problems-nl-programming-mistakes]] — Kuelewa Mitazamo ya Wanafunzi, Makosa, na Mbinu za Kurekebisha Hitilafu Wakati wa Kutatua Kazi za Kupanga Programu kwa Lugha ya Kawaida
-- [[code-to-learn-genai-artifact-construction-2026]] — Kujifunza Kuandika Msimbo na AI ya Kizazi: Mfumo wa Msingi wa Nadharia wa Ujenzi wa Vitu katika Elimu ya Sekondari ya Juu
-- [[reshaping-cs-education-genai]] — Kuunda upya Elimu ya CS ya Chuo Kikuu kwa AI ya Kizazi
-- [[flowcode-ai-creative-coding]] — Flowcode: Mazingira ya Kupanga Programu Yanayotumia Nguvu za AI kwa Kuweka Ngazi za Msaada za Kurudia katika Elimu ya Kupanga Programu ya Kibunifu
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intrapreneurship ya AI: wataalam wakijenga zana zao wenyewe, na wawezeshaji wa kikanda ambao huamua kama msukumo unadumu (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Zana Moja, Ladha Moja? Jinsi Vibe Coding Inavyobadilisha Anuwai ya Pamoja kwa Ubunifu wa Mtu Binafsi

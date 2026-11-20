@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -101,35 +103,3 @@ ai_assist:
 **"पुनर्प्राप्ति अभ्यास का अर्थ क्विज़ है, और कोई भी क्विज़ गिनती है।"** तंत्र स्मृति से उत्तर उत्पन्न करना है, पहचानना नहीं, इसीलिए बहुविकल्पीय पहचान कार्य उसी गतिविधि का कमजोर संस्करण है। जो AI अंतहीन पहचान मदें उत्पन्न करता है, उसने सही नाम और गलत तंत्र की गतिविधि उत्पन्न की है।
 
 **"AI इन तकनीकों को विश्वसनीय रूप से दे सकता है, क्योंकि ये अच्छी तरह निर्दिष्ट हैं।"** वह उन्हें चुपचाप हरा भी सकता है। अंतराल के लिए प्रणाली को वह सामग्री रोकनी होती है जिसे वह माँग पर सबसे आसानी से दे सकती है, और पुनर्प्राप्ति के लिए उसे उत्तर नहीं देना होता है, इसलिए तकनीक की प्रभावशीलता उन बाधाओं पर निर्भर है जिन्हें थोपने की कोई सहमत सहायक में प्रेरणा नहीं है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — अंतरालित पुनर्प्राप्ति अनुक्रम, और एन्कोडिंग के दौरान सहायता देने की धारण लागत
-- [[desirable-difficulties]] — वह सिद्धांत जिसे ये तीन तकनीकें परिचालित करती हैं
-- [[cognitive-psychology]] — स्मृति, एन्कोडिंग और पुनर्प्राप्ति, तीनों का सैद्धांतिक घर
-- [[prior-knowledge]] — पुनर्प्राप्ति अभ्यास के रूप में उसका सक्रियण जो शिक्षार्थी पहले से रखता है
-- [[metacognition]] — यह निर्णय करना कि धाराप्रवणता सीखने को दर्शाती है या नहीं
-- [[self-regulated-learning]] — जो एक एआई आपके लिए निर्धारित या उत्तर दे सकता है उसे निरंतर अध्ययन करना
-- [[mastery-learning]] — दक्षति सीमा के बाद धारण, और उसे बनाए रखने वाला अंतराल
-- [[knowledge-tracing]] — वे मॉडल जो अनुसूची निर्णय बनाते या चूकते हैं
-- [[cognitive-offloading]] — वह विफलता मोड जब पुनर्प्राप्ति किसी उपकरण को सौंप दी जाए
-- [[transfer-of-learning]] — वह प्रदर्शन–अधिगम अंतराल जिसे ये तकनीकें संबोधित करती हैं
-- [[formative-assessment]] — पुनर्प्राप्ति घटनाओं के रूप में बंद-उपकरण चेकपॉइंट
-- [[productive-failure]] — सहायता पाने से पहले प्रयास करना
-- [[learners]] — धाराप्रवाण बजाय स्थायी सीखने की दांव पर लगी रुचि
-
-## संबंधित लेख
-
-- [[adaptive-pretesting-retention]] — अकगुन और टोकर: सात सप्ताह में अनुकूली अंतराल पुनर्प्राप्ति बनाम निश्चित पुनर्प्राप्ति बनाम शिक्षार्थी-निर्देशित एआई
-- [[memdora-ai-spaced-repetition]] — मेमडोरा: FSRS-6 अनुसूची निर्धारण और आधारित फ़्लैशकार्ड संवादों का वर्गीकरण
-- [[llm-interaction-depth-task-quality-recall-2026]] — त्सिलिग्किरिस: व्याख्या गहराई कार्य गुणवत्ता की भविष्यवाणी करती है लेकिन तत्क्षण स्मृति-धारण की नहीं
-- [[rachatasumrit-example-problem-ratio-2026]] — तथ्यों के लिए पुनर्प्राप्ति अभ्यास, कौशलों के लिए हल किए गए उदाहरण; सामग्री–उपचार अन्योन्यक्रिया
-- [[schuetze-knowledge-tracing-forgetting-2026]] — ज्ञान-ट्रैसिंग मॉडल समय-आधारित मान्यकरण में अंतराल प्रभाव पकड़ने में विफल
-- [[bilingual-llm-lecture-companion-srl-2026]] — अंतरालित अभ्यास की लेखन लागत हटाने वाला स्वतः फ़्लैशकार्ड जनन
-- [[student-cheat-sheets-make-or-take]] — धोखेबाज़ी पर्ची बनाना जनक अध्ययन के रूप में; एआई से निर्माण का बाह्यकरण
-- [[knowloop-confusion-to-consolidation-2026]] — पुनरुत्थान-व्याख्या सुदृढ़ीकरण जिसने वे अंतराल उजागर किए जो स्पष्टीकरण ने नहीं किए
-- [[simulating-learner-task-selection]] — कार्य-चयन बाधाओं के तहत मॉडलित शिक्षार्थी रणनीतियों के रूप में प्रक्षेपण और ब्लॉकिंग
-- [[nie-personavlm-long-term-personalization-2026]] — अनुदैर्ध्य छात्र स्मृति और स्पेस्ड रिपिटिशन तथा विस्मृति वक्रों के साथ उसका खुला संबंध
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — learning-to-learn ढाँचे के उपकरण स्तर में पुनर्प्राप्ति अभ्यास
-- [[agentic-ai-pedagogical-best-practice-2026]] — पूर्व-खींचने वाले एजेंट पुनर्प्राप्ति अभ्यास को दरकिनार करते हैं; जानबूझकर घर्षण का पक्ष
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — जब एआई शिक्षक बोलते हैं: एक यादृच्छिक क्षेत्र प्रयोग से प्रमाण

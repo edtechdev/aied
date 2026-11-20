@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -155,79 +157,3 @@ Akun kelas paling lengkap atas rancangan ulang itu adalah penerapan PAIRR. [[sti
 **"Siswa menindaklanjuti umpan balik AI ketika ditawarkan."** Penyerapannya selektif. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston dan Long (2026)]] melacak dua tim [[biology-education|biologi]] sarjana yang merevisi pendahuluan proposal terhadap umpan balik AI buatan instruktur: 10 dari 22 komentar ditangani, penghapusan melebihi penambahan, dan komentar yang menuntut siswa menilai koherensi atau dukungan klaim diabaikan sepenuhnya.
 
 **"Sebuah model dapat menggantikan pola umpan balik guru."** Ia belum melakukannya dalam bukti. Melacak satu guru lintas tahap draf menemukan pergerakan signifikan pada **lima** jenis fokus umpan balik — dengan *Pujian* naik dari **26.9%** pada draf awal menjadi **84.9%** pada draf akhir — sementara model terdekat bergerak pada tiga jenis dan yang terkecil tidak pada satu pun, dan tidak ada model yang mereplikasi polanya. Umpan balik guru mengalokasikan ulang penekanan menurut tahap draf; umpan balik model cenderung mempertahankan distribusinya. Memperlakukan yang kedua sebagai setara berarti kehilangan lintasannya.
-
-## Konsep terkait
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## Artikel terkait
-- [[favero-thinking-not-writing-chatbot-2026]] — Berpikir Bukan Menulis: Merancang Chatbot AI untuk Menghubungkan Penalaran dan Revisi
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — Kuasi-eksperimen 32 siswa: pengajaran proses–genre menaikkan tulisan informatif, multimodal, dan berbantuan AI (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 profesor menulis tentang penilaian dengan AI: manfaat untuk umpan balik, pergeseran skor, tidak ada aturan institusi
-- [[genai-l2-written-feedback-scoping-review-2026]] — Tinjauan cakupan 51 studi: celah transparansi prompt dan mengapa AI plus guru mengalahkan salah satunya
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Kebijakan AI kelas calon guru: ketegangan dan keterjalinan
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kerangka Human-in-the-Loop untuk Penilaian Berbantuan AI dalam Penilaian Menulis Skala Besar
-- [[llm-comparative-judgment-writing-screening-2026]] — Validitas Penilaian Komparatif Model Bahasa Besar untuk Penyaringan Menulis Universal
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pembebanan kognitif sensitif lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — Alat menulis AI dapat meningkatkan keterampilan menulis meskipun mengurangi usaha (Lira dkk. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM tidak menilai esai seperti manusia (Mathew dkk. 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — Pendekatan Posthumanis terhadap Literasi AI
-- [[choi-anchor-aes-prompting-2025]] — Penilaian Esai Otomatis Berbasis Jangkar
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Evaluasi Menulis Otomatis
-- [[agency-gap-ai-writing]] — Celah Agensi dalam Menulis Berbantuan AI
-- [[ai-writing-support-stage-ownership-2026]] — Dari Perencanaan ke Revisi: Dukungan Menulis AI pada Tahap yang Berbeda
-- [[genai-teacher-feedback-comparison]] — Membandingkan AI Generatif dan Umpan Balik Guru
-- [[student-rationalization-ai-writing]] — "Tidak Apa-apa Karena...": Belantara Bebas Rasionalisasi Siswa
-- [[care-full-feedback-genai]] — Pendekatan Umpan Balik Penuh Kepedulian
-- [[self-referential-l2-writing-llm-assessment]] — Penilaian Menulis L2 yang Self-Referensial
-- [[becerra-aicofe-feedback-2026]] — Sistem Umpan Balik Sejawat AI
-- [[repeated-ai-writing-feedback-semester]] — Evaluasi Siswa atas Umpan Balik AI Berulang
-- [[ai-feedback-critical-thinking-writing-2026]] — Menggunakan Umpan Balik yang Dihasilkan AI untuk Meningkatkan Berpikir Kritis
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias linguistik dalam umpan balik menulis otomatis yang dipersonalisasi
-- [[bassett-ai-detectors-education-2026]] — Kepala kita menang, ekor Anda kalah: detektor AI dalam pendidikan (Bassett dkk. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Penghapusan akademik: hilangnya kompleksitas di bawah penulisan berbantuan AI
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Penyusunan multimodal AI dan berpikir kritis dalam menulis tingkat dasar (Lu dkk. 2027)
-- [[student-genai-use-views-writing]] — Penggunaan dan pandangan siswa tentang GenAI untuk menulis (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Program menulis berbantuan GenAI untuk motivasi, keterlibatan, dan kinerja L2 tingkat dasar (Lu dkk. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Kesepakatan dan kesalahan dalam penilaian otomatis kiriman pemasaran siswa
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Literasi prompting dan motivasi intrinsik menggerakkan revisi mendalam sementara mandat eksternal tidak berefek langsung (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi Fokus Umpan Balik dan Adaptivitas Pedagogis dalam Umpan Balik LLM pada Tulisan Siswa
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Umpan balik guru vs. umpan balik sejawat berbantuan AI sebagai perancah L2 yang heterogen dalam kuasi-eksperimen 8 minggu (Tang dkk. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analisis kinerja menulis GenAI: efek gabungan besar, besaran rapuh, metodologi di atas pedagogi (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Tinjauan sistematis kustomisasi menulis AI dan ketidakcocokan teori–rancangan (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Kolaborasi manusia–AI terstruktur dalam penulisan akademik dan berpikir kritis digital (Alshehri dkk. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Revisi manusia dan AI atas draf yang sama mengambil posisi dialogis berbeda: umpan balik sejawat menutup ruang dialogis, revisi AI menjaganya seimbang (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: mengunci keluaran AI di balik keterlibatan sebelumnya mendistribusikan ulang usaha ke menulis tanpa mengorbankan waktu atau akurasi (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — Skala GenAI-SRL enam dimensi untuk menulis L2, dengan regulasi lingkungan (tata kelola alat) sebagai dimensi tersendiri
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Memadukan AI dengan umpan balik sejawat menaikkan keterlibatan dan skor menulis
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Siswa menginginkan manusia di ujung taruhan tinggi
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Penggunaan Umpan Balik Berbasis AI oleh Mahasiswa Biologi untuk Merevisi Tulisan Ilmiah: Penerimaan dan Hambatan (Weston dan Long 2026)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Penggunaan bertanggung jawab AI generatif oleh siswa dalam penulisan akademik: tinjauan cakupan batas, pendekatan pendidikan, dan celah bukti
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai berprompt menghadapi probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Konteks pembelajar mengubah nilai penilai LLM pada karya identik, diukur dalam ablasi within-item pada enam model (Porcaro 2026, Makalah VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Delegasi yang diukur dari jejak: 137 kueri tugas-penuh, 15 siswa mengirim esai tanpa satu kata pun yang mereka ketik (Jelson dkk. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor dan komitmen guru sebagai dua dimensi keterlibatan menulis era GenAI
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 seksi, 10 mata kuliah, 654 siswa: penerapan PAIRR unggulan dan prompt berbasis umpan baliknya

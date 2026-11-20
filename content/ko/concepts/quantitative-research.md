@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -63,7 +65,6 @@ ai_assist:
 ### 종단 연구
 종단 설계는 동일한 학습자를 시간의 흐름에 따라 추적하여, 단일 시점 측정이 놓치는 변화, 성장, 지속되는 학습을 포착합니다. [[ai-lms-middle-school-longitudinal|한 종단 LMS 연구]]는 한 학년에 걸쳐 학생들을 추적합니다. 종단 설계는 AI에 의해 부풀려진 수행과 [[genai-performance-vs-learning|지속되는 학습]]을 구분하는 데 필수적입니다.
 
-
 데이터 집합 간 비교에는 고정된 작업 지점이 필요합니다. 합성 교육 자료에 대한 구조적 점검은, 각 데이터 집합을 자체 임계값으로 분석하면 공유 지점에서 성립했던 대비가 뒤집힘을 발견했고, 해당 대용 비교가 합성 자료와 그 자료의 순열만을 필요로 했습니다. 이는 절대적 임계값이 아니라 순열 기반 귀무분포입니다([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake(2026)]]).
 
 ### 계산적 및 심리측정적 정량화
@@ -96,34 +97,3 @@ ai_assist:
 - **"의도-처치 추정치는 도구가 하는 일을 서술한다."** 처치된 학급 학생의 **약 15%만이 튜터를 사용한** 집단 무선 배정 접근 시험에서 ITT 추정치는 **도구를 도입한 효과**를 반영하며, 도구를 사용한 효과가 아닙니다. 낮은 사용률은 ITT 수치를 실행에 관한 진술로 만들고, 그것을 도구 효과로 보고하면 측정된 것을 과장합니다.
 - **"과제 수행이 결과다."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui(2025)]]는 **120명의 학생**을 AI 지원 또는 전통 학습에 무작위 배정하고 **기억 유지**를 측정합니다. 즉각적 수행과 지속되는 학습을 분리하는 설계입니다. 과제에서 멈춘 연구는 더 쉬운 양을 측정한 것입니다.
 - **"데이터셋 간 비교는 간단하다."** 합성 교육 자료에 대한 구조적 점검은 **각 데이터셋을 자체 임계값으로 분석하면 공유 작업 지점에서 성립한 대비가 뒤집힘**을 발견했습니다. 비교의 부호가 분석적 선택에 달려 있었고, 이는 사전 등록된 작업 지점이 막으려는 취약성입니다.
-
-## 연결된 개념
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## 연결된 문서
-
-- [[access-not-enough-ai-tutoring-2026]] — 인간 지원과 AI 튜터링을 더한 무작위 현장 연구
-- [[genai-can-harm-teaching-rct-2026]] — 생성형 AI가 교수를 해칠 수 있음: 한 RCT
-- [[acceptance-ai-english-tools-2026]] — AI 지원 영어 학습 도구의 수용
-- [[tian-genai-learning-adoption-pathways-2026]] — 생성형 AI 도입 경로 (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정 이론을 통한 교사 AI 리터러시
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT로 타당화된 생성형 AI 리터러시 검사
-- [[ai-lms-middle-school-longitudinal]] — 한 종단 AI 통합 LMS 연구
-- [[adaptive-pretesting-retention]] — 적응형 사전 검사와 유지
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 간호대학생의 생성형 AI 사용과 대인적 교육 상호작용: 통계적 매개변인으로서의 자기조절 학습
-- [[wang-ai-disruption-design-innovation-competence-2026]] — 디자인 전공 학생의 AI 기술 파괴 인식, 디자인 사고 마인드셋, 디자인 혁신 역량
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 집단 무선 배정 접근 시험과 사용 점검
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 의학교육에서 윤리적 AI의 서지 분석

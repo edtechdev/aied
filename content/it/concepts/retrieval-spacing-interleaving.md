@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -59,9 +61,7 @@ L'effetto della spaziatura — il fatto che la stessa pratica totale produca un 
 
 [[memdora-ai-spaced-repetition|Memdora]] è l'esempio più chiaro di spaziatura trattata come problema di ingegneria. Fondamenta la schedulazione nella curva dell'oblio di Ebbinghaus, cita la cifra per cui circa il **70% del materiale appena appreso viene dimenticato entro 24 ore** senza revisione, e integra **FSRS-6**, descritto come l'algoritmo di ripetizione spaziata allo stato dell'arte. La sua argomentazione è che la sola schedulazione non basta: gli strumenti esistenti riducono l'interazione con le flashcard a un singolo gesto binario, "gira e autovaluta", che gli autori definiscono un modello impoverito e incapace di sfruttare le evidenze delle scienze cognitive sul recupero. Il contributo di Memdora è quindi una **tassonomia di 17 tipologie di interazione fondate su basi cognitive** nelle categorie Lingue, A memoria ed Esame, ciascuna mappata su evidenze peer-reviewed mostrate sulla carta, oltre a un sistema di ricompensa basato sullo sforzo che compensa il reale impegno cognitivo anziché la presenza nell'app, una pipeline di generazione unificata che crea le carte nel momento della lettura, e uno strato per la classe che riporta i [[learning-gains|risultati di apprendimento]] a livello di singola carta.
 
-
 [[bilingual-llm-lecture-companion-srl-2026|Il compagno di lezione bilingue di Malhotra (2026)]] attacca quel costo di authoring dall'altro capo: trascrive lezioni inglese–hindi nel browser e genera flashcard sul dispositivo, costruito per le classi indiane dove i dati UDISE+ collocano l'accesso a internet a circa il 54% delle scuole.
-
 
 [[adaptive-pretesting-retention|Akgun e Toker (2026)]] forniscono l'evidenza sperimentale più forte del corpus su come la spaziatura venga *strutturata*. In uno studio randomizzato a tre bracci su 89 studenti universitari in un corso di statistica applicata, tutti e tre i gruppi si esercitavano in sessioni spaziate con numero e tempistica identici nell'arco di sette settimane; differiva soltanto la struttura dell'interazione. Il recupero spaziato adattivo (G1) ha raggiunto il punteggio più alto al post-test (M = 78,19) e lo sforzo di pratica osservato più alto (M = 0,85); il recupero spaziato fisso (G2) seguiva (M = 74,55, sforzo 0,74); lo studio con IA guidato da chi apprende, senza recupero imposto, arrivava ultimo su entrambe le misure (M = 67,28, sforzo 0,49). L'effetto multivariato era significativo (Λ di Wilks = ,664, η² parziale = ,185), con G1 in vantaggio su G3 nella ritenzione a d = 0,92 (p = ,003). Il dettaglio che conta sul piano pedagogico è che l'agente di G1 era configurato per *trattenere*: probe contingenti alla risposta per le [[misconceptions]], richieste di elaborazione dopo risposte superficiali, avanzamento solo in presenza di un adeguato impegno concettuale, e soluzioni dirette esplicitamente escluse dai suoi output consentiti. L'interpretazione degli autori è che il pretest sia un catalizzatore iniziale anziché un intervento autonomo i cui benefici sopravvivono a un accesso aperto all'IA.
 
@@ -107,35 +107,3 @@ L'inclusione dell'interleaving qui poggia quindi sulla stessa famiglia teorica d
 **"La pratica di recupero significa quiz, e qualsiasi quiz vale."** Il meccanismo è produrre una risposta dalla memoria anziché riconoscerne una, ed è per questo che un compito di riconoscimento a scelta multipla è una versione più debole della stessa attività. Un'IA che genera infiniti item di riconoscimento ha generato attività con il nome giusto e il meccanismo sbagliato.
 
 **"L'IA può erogare fedelmente queste tecniche, dato che sono ben specificate."** Può anche sconfiggerle in silenzio. La spaziatura richiede che il sistema trattenga il materiale che è più capace di fornire su richiesta, e il recupero richiede che non risponda — quindi l'efficacia della tecnica dipende da vincoli che un assistente accomodante non ha alcun incentivo a imporsi.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Sequenze di recupero spaziato, e il costo in ritenzione dell'assistere durante la codifica
-- [[desirable-difficulties]] — il principio che queste tre tecniche mettono in opera
-- [[cognitive-psychology]] — memoria, codifica e recupero come casa teorica di tutte e tre
-- [[prior-knowledge]] — il recupero come attivazione di ciò che chi apprende già possiede
-- [[metacognition]] — giudicare se la fluidità riflette l'apprendimento
-- [[self-regulated-learning]] — studiare con costanza ciò che un'IA può schedulare o rispondere al posto tuo
-- [[mastery-learning]] — la ritenzione dopo la soglia di padronanza, e la spaziatura che la sostiene
-- [[knowledge-tracing]] — i modelli che azzeccano o mancano le decisioni di schedulazione
-- [[cognitive-offloading]] — la modalità di fallimento quando il recupero viene delegato a uno strumento
-- [[transfer-of-learning]] — il divario prestazione–apprendimento che le tecniche affrontano
-- [[formative-assessment]] — punti di controllo a strumento chiuso come eventi di recupero
-- [[productive-failure]] — tentare prima di ricevere aiuto
-- [[learners]] — la posta in gioco di un apprendimento durevole anziché fluido
-
-## Articoli collegati
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: recupero spaziato adattivo vs. recupero fisso vs. IA guidata da chi apprende lungo sette settimane
-- [[memdora-ai-spaced-repetition]] — Memdora: schedulazione FSRS-6 e una tassonomia di interazioni con flashcard fondate su basi cognitive
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: la profondità delle spiegazioni predice la qualità del compito ma non il ricordo immediato
-- [[rachatasumrit-example-problem-ratio-2026]] — Recupero per i fatti, esempi svolti per le abilità; l'interazione contenuto–trattamento
-- [[schuetze-knowledge-tracing-forgetting-2026]] — I modelli di knowledge tracing non colgono l'effetto della spaziatura sotto validazione basata sul tempo
-- [[bilingual-llm-lecture-companion-srl-2026]] — Generazione automatica di flashcard che rimuove il costo di authoring della pratica spaziata
-- [[student-cheat-sheets-make-or-take]] — Costruire un biglietto d'aiuto come studio generativo; delegarne la costruzione all'IA
-- [[knowloop-confusion-to-consolidation-2026]] — Consolidamento tramite teach-back che porta alla luce le lacune che il chiarimento non ha portato
-- [[simulating-learner-task-selection]] — Interleaving e Blocking come strategie modellate di chi apprende sotto vincoli di selezione dei compiti
-- [[nie-personavlm-long-term-personalization-2026]] — Memoria longitudinale dello studente e la sua relazione aperta con ripetizione spaziata e curve dell'oblio
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Il recupero nello strato Strumenti di un framework sull'imparare a imparare
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agenti che pre-caricano scavalcano il recupero; il caso dell'attrito intenzionale
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment

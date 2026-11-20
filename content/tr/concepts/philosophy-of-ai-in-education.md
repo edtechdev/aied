@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -90,37 +92,3 @@ Eğitimde YZ felsefesi ile [[theory-development-aied|theory development in AIEd]
 
 - Değerlendirmenizin varsaydığı öğrenme anlayışını belirtin, çünkü ölçülen bir kazanım ancak eğitimin ne için olduğuna dair bir hesaba göre eğitsel bir iyidir.
 - Felsefi çalışmayı ampirik çalışmayla birlikte finanse edin: öğrenenin başarısı olarak neyin sayıldığına dair sorular, ampirik çalışmaların sonra kullanacağı başarı ölçütlerini belirler.
-
-## Bağlı kavramlar
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, YZ sınırları, deney felsefesi
-
-## Bağlı makaleler
-
-- [[genai-chinese-higher-education-integrity-2026]] — Çin yükseköğretiminde üretici YZ: dürüstlük ve katılım
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: insan–YZ bilişi için felsefi bir çerçeve
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — Eğitimde bedensiz YZ’nin bedene dâhil, biliş-sonrası eleştirisi
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Beşeri bilimlerde yorumsal bilişin gelişimsel-eleştirel modeli
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Makinelerle öğrenme felsefesi olarak epistemik eş-eylemsellik
-- [[avraamidou-ai-colonization-science-education]] — Eğitimin YZ sömürgeleşmesini sorgulayan eleştirel-feminist felsefe
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Üretici YZ’nin ekolojik öğrenme bilimleri çerçevelemesi
-- [[philosophy-experimentation-ai-chemistry-2026]] — YZ ile kimyada deney felsefesi
-- [[strydom-human-gai-paradigms-2026]] — İnsan-YZ dinamiğini çerçevelemek: yedi üretici YZ ilişki paradigması (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'İnsan merkezli' YZED, ticari kullanımları olan insan merkezli bir söylem olarak okunur (Wang ve Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care

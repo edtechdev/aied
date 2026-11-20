@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,37 +91,3 @@ ai_assist:
 
 - बताएँ कि आपका मूल्यांकन अधिगम की किस कल्पना को मान लेता है, क्योंकि मापा गया लाभ केवल इस आधार पर शैक्षिक हित है कि शिक्षा किसलिए है, इसका कोई विवरण हो।
 - दार्शनिक कार्य को अनुभवजन्य कार्य के साथ निधि दें: शिक्षार्थी की उपलब्धि क्या गिनी जाए, यह प्रश्न वही सफलता मानदंड तय करते हैं जिन्हें अनुभवजन्य अध्ययन फिर उपयोग करते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — रसायन शिक्षा और एआई: प्रयोगशालाएँ, गठनात्मक मूल्यांकन, एलएलएम की सीमाएँ, प्रयोग का दर्शन
-
-## संबंधित लेख
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'मानव-केंद्रित' AIED एक मानवकेंद्रीय प्रवचन के रूप में, जिसके वाणिज्यिक उपयोग हैं (Wang और Jin 2026)
-
-- [[genai-chinese-higher-education-integrity-2026]] — चीनी उच्च शिक्षा में जनरेटिव एआई: अखंडता और संलग्नता
-- [[ensemble-cognition-philosophy-ai-education]] — समुच्चय संज्ञान: मानव–एआई संज्ञान के लिए एक दार्शनिक ढाँचा
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — पोस्ट-ह्यूमन शिक्षार्थी और पैडागॉजिकल सिम्बायोसिस
-- [[videla-embodied-ai-education-choreography]] — शिक्षा में अनात्मबद्ध एआई की देहधारी, पोस्ट-संज्ञानवादी आलोचना
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — मानविकी में व्याख्यात्मक संज्ञान का विकास-आलोचनात्मक मॉडल
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — मशीनों के साथ अधिगम के दर्शन के रूप में epistemic co-agency
-- [[avraamidou-ai-colonization-science-education]] — शिक्षा के एआई उपनिवेशवाद को सवालों से घेरने वाला आलोचनात्मक-नारीवादी दर्शन
-- [[generative-ai-mediational-agent-sociocultural-2026]] — एक मध्यस्थन एजेंट के रूप में जनरेटिव एआई
-- [[young-people-learning-generative-ai-rapid-review-2026]] — जनरेटिव एआई का पारिस्थितिक अधिगम-विज्ञानीय ढाँचा
-- [[philosophy-experimentation-ai-chemistry-2026]] — एआई के साथ रसायन विज्ञान में प्रयोग का दर्शन
-- [[strydom-human-gai-paradigms-2026]] — मानव-एआई गतिशीलता को ढालना: सात जेएआई संलग्नता प्रतिरूप (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — वैकल्पिक एआई दर्शन: एआई शिक्षा के लिए विधि के रूप में Daoism
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — कौन कर्म करता है, कौन जानता है, कौन उत्तर देता है? जनरेटिव एआई उच्च शिक्षा अनुसंधान में एजेंसी, संज्ञानात्मक उत्तरदेयता और उत्तरदेयता का कोर्पस-सहायित प्रवचन विश्लेषण
-
-- [[khan-machines-emotional-labor-education-2026]] — क्या मशीनें भावनात्मक श्रम कर सकती हैं? 1950–1996 की बहस, और क्यों नकल परवाह को अधो-निर्धारित करती है
-

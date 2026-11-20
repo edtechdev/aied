@@ -9,6 +9,8 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 > **Video in education** — the use of video as a medium for [[teacher-role|teaching]] and learning, and how [[generative-ai|generative AI]] is reshaping it: AI-generated and AI-[[personalized-learning|personalized]] instructional videos, AI [[ai-avatars-and-synthetic-instructors|avatar]]s and presenters, adaptive video generation, video-based [[learning-analytics|learning analytics]] and attention/[[student-engagement|engagement]] sensing, and AI support for lecture-video consumption. Video is both an established online-learning medium and a rapidly evolving site of AI innovation, spanning [[online-teaching-and-learning|online]], hybrid, and in-person teaching.
@@ -75,34 +77,3 @@ Producing effective AI video requires pedagogical structure and human oversight,
 **"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labor and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
 
 **"Generating many variants of one lecture is personalization."** Variant count is a production figure, not an instructional one. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generated 209 videos from 31 graduate lectures across healthcare, finance, energy and a generic audience, which demonstrates the pipeline's capacity; whether any variant matched a given learner's needs is a separate question that the generation count cannot answer.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]] — video as a core medium of online and hybrid instruction
-- [[generative-ai]] — the engine of AI-generated and personalized video
-- [[personalized-learning]] — personalization as the driver of AI video's appeal
-- [[adaptive-learning]] — adaptive video generation and pacing
-- [[multimodal]] — video combining visual, audio, and textual modalities
-- [[learning-analytics]] — analytics on video engagement and attention
-- [[student-engagement]] — the engagement that video personalization aims to boost
-- [[pedagogical-agent]] — AI avatars/presenters as virtual pedagogical agents
-- [[llm]] — large language models underlying script and video generation
-- [[trust]] — learner trust in AI presenters and content
-
-## Connected Articles
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: generating MOOC-quality industry-personalized lecture videos at scale (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
-- [[engagement-assessment-video]] — Engagement assessment in video learning
-- [[savvy-student-attention-video-learning]] — Student attention visualization for video-based learning
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companions for self-regulated learning
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
-- [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! Dynamic Visual Guidance for AI-Narrated Slides
-

@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,6 +44,3 @@ Koleksiyonun Giriş bölümü, bir istek metnini YZ uyumlaması (alignment) aç�
 ## Kullanmadan önce bilinmesi gerekenler
 
 Kitabın tamamı PDF ve ePub olarak ücretsizdir; bireysel bölümler kendi DOI’leriyle ayrıca yayımlanır. Yayın, WAC Clearinghouse tarafından WAC Repository dizisinde Temmuz 2026’da gerçekleşmiştir; 402 sayfa, Anuj Gupta ve Brian Gogan tarafından editörlük yapılmış, koleksiyonun DOI’si 10.37514/TWR-B.2026.2999’dur. Lisans Creative Commons BY-NC-ND 4.0’tür; dolayısıyla okuyucular kitaba bakabilir, kişisel kopyalarını çıkarabilir ve kitaba bağlantı verebilir, ancak izin almadan başka bir sitede çoğaltamaz veya uyarlayamaz; değiştirilmiş istek metni ifadeleri isteyen bir kurs, bunları yeniden yayımlamak yerine kendi versiyonunu yazmalıdır. Her bölümün istek metni platformlar arasında sınanmış olmakla birlikte, kitap sonuçlarla ilgili kontrollü bir karşılaştırma bildirmemektedir; bu nedenle istek metinlerini doğrulanmış bir müdahale değil, uzman tasarımı olarak değerlendirin.
-
-## Bağlı kavramlar
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

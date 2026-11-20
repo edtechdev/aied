@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -90,29 +92,3 @@ ai_assist:
 - **"בינה מלאכותית בחינוך סביבתי מספקת בעיקר מידע."** הרווחים הנמדדים הם ב**קבלת החלטות**: תלמידים שעבדו עם שותף בינה מלאכותית בתוך משימת [[inquiry-based-learning|חקירה]] מובנית עברו על עמיתים שעסקו בחקירה בלבד (**d = 0.69**) ועל הוראה מסורתית (**d = 1.88**) במדד קבלת החלטות, כאשר השיפורים **מרוכזים בשלבים החלשים ביותר**. האפקט הוא באיכות ההנמקה, בנקודות שבהן התלמידים היו החלשים ביותר.
 - **"חקירה לבדה היא המרכיב הפעיל."** חקירה בסיוע בינה מלאכותית **שיפרה את קבלת ההחלטות באקלים לעומת חקירה בלבד**, ולכן תרומת הבינה המלאכותית הייתה נוספת למבנה הפדגוגי ולא ניתנת להחלפה בו.
 - **"אפקטים גדולים ממדגמים קטנים הם עדיין אפקטים גדולים."** תכן הוראה בסיוע בינה מלאכותית ([[learning-design|instructional design]]) תחת פדגוגיה לפיתוח בר-קיימא **שיפר תכניות שיעור של מורים לפני-שירות עם d = 2.80 מ-28** משתתפים — המילה של הסוקרים עצמם היא *גדול באופן בלתי-סביר*, ואפקט בגודל כזה ממדגם כזה צריך להילקח כאות ולא כאומדן.
-
-## מושגים קשורים
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## מאמרים קשורים
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — מפריד בין בינה מלאכותית עבור קיימות לבין בינה מלאכותית בת-קיימא; פער גלובל דרום
-- [[ai-assisted-inquiry-ssi-climate]] — חקירת אקלים בסיוע בינה מלאכותית, d = 0.69 מעל חקירה בלבד
-- [[aied-carbon-footprint-reporting]] — סקירת גילוי AIED 2025 יחד עם שיטת טביעת-רגל בקוד פתוח
-- [[llm-environmental-impact-student-usage-2026]] — משוב-אקו על פשרות השהיה-פחמן עם 89 סטודנטים CS
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — עוזר מכוון-עדין על-מקומי ב-1.8 mWh לשאילתה
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: מודעות קיימות בהשכלה הנדסית
-- [[riandi-teacher-ai-green-energy-education-2026]] — שימוש מעשי בבינה מלאכותית ופיתוח חומרי ESD חוזים לשילוב
-- [[talebzadeh-ai-green-education-2026]] — תכן בסיוע בינה מלאכותית תחת אילוצי פדגוגיה לפיתוח בר-קיימא
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — תרומתה של בינה מלאכותית להשכלה בת-קיימא כמתווכת ממשל
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "למידה בת-קיימא" כסוכנות קוגניטיבית עמידה, לא כטענה סביבתית

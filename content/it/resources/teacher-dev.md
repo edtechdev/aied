@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -71,6 +72,3 @@ un'app fa va provata in classe. Trentadue repository pubblici stanno nell'organi
 galleria ne elenca 34, tutti Apache-2.0 con sorgente disponibile, quindi un'app può essere letta e ospitata in
 proprio. Il design local-first è un'affermazione da verificare app per app, e un docente dovrebbe confermarla
 prima di mettere davanti a una classe qualsiasi strumento rivolto agli studenti.
-
-## Concetti collegati
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

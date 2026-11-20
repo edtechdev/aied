@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -47,16 +48,3 @@ ai_assist:
 ## টীকা ও সতর্কতা
 
 এটি একটি ব্যবহারিক গাইড, অভিজ্ঞতাভিত্তিক গবেষণা নয়; শিক্ষার্থীদের এআই ব্যবহার সম্পর্কে এর দাবিগুলো নতুন তথ্যের বদলে উদ্ধৃত বাইরের উৎসের (BestColleges, Campbell, Digital Education Council, Flaherty) উপর নির্ভর করে। "নেটওয়ার্ক নির্মাণ" কাঠামো এবং "বোঝার ভ্রম" বিন্যাসটি বৃহত্তর সাহিত্য (Wigmore ও অন্যান্য; Williamson ও অন্যান্য) থেকে নেওয়া এবং শিক্ষাগত যুক্তি হিসেবে উপস্থাপিত, প্লেবুকের নিজের পরীক্ষিত ফলাফল হিসেবে নয়। অ্যাসাইনমেন্টগুলো রচিত টেমপ্লেট — কোনোটির সঙ্গে প্রভাবের মাপ (effect size) রিপোর্ট করা হয়নি, তাই এগুলোকে স্থানীয়ভাবে অভিযোজিত ও মূল্যায়নযোগ্য নকশা হিসেবে গণ্য করা উচিত। 2026-10-07 তারিখে প্রকাশিত, v1, জেনোডো-তে CC BY 4.0-এর অধীনে; অ্যাকাউন্ট ছাড়াই বিনামূল্যে ডাউনলোডযোগ্য। অন্তর্ভুক্তির সময়ে রেকর্ডে কেবল প্রায় 35টি ভিউ ও 14টি ডাউনলোড দেখায়, তাই এটি এখনও বাইরে সামান্য ব্যবহার বা সহপাঠী-পর্যালোচনা পেয়েছে।
-
-## সংযুক্ত ধারণা
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

@@ -19,6 +19,8 @@ ai_assist:
 translation_of: concepts/social-sciences-education
 source_updated: "2026-11-17T12:15:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,44 +92,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 **"公民教育的问题是学生会相信聊天机器人说的话。"** 有记录的问题比这更薄弱：AI 生成的公民课材料默认落在识记层面的任务上并完全丢弃多元文化内容，因此风险在于课程在任何学生被误导之前就已经停止教授判断。
 
 **"环境教育可以把 AI 的足迹当作一个伦理话题。"** 足迹是一个设计参数：延迟、模型规模与托管方式决定它，而报告文献把它当作可测量之事，而非劝诫之词。
-
-## 关联概念
-
-- [[discipline-specific-aied]]
-- [[humanities-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[civic-and-political-education]]
-- [[environmental-education]]
-- [[assessment-validity]]
-- [[research-methods-aied]]
-
-## 关联文章
-
-- [[civic-education-ai-lesson-plans]] —— 310 份 AI 生成教案对照 53 条公民课标准：90% 为低阶，94% 无多元文化内容
-- [[nkalanga-digital-borders-civic-literacy-2026]] —— 算法边界治理与南非公民数字素养的五项要求
-- [[csaszar-ai-management-education-2026]] —— AI 对管理教育的影响：基于价值的战略分析
-- [[espino-ai-business-education-review-2026]] —— 商业教育中 AI 的十年
-- [[drummond-genai-business-schools-framework-2026]] —— 商学院生成式 AI 的学生参与式框架
-- [[mesny-innovative-assessment-grading-management-2026]] —— 管理教育中的创新评估与评分
-- [[automated-scoring-marketing-posts-agreement-2026]] —— 学生营销帖子自动评分中的一致性与误差
-- [[daniel-ai-sustainability-scoping-review-2026]] —— 区分服务于可持续性的 AI 与可持续的 AI；全球南方缺口
-- [[aied-carbon-footprint-reporting]] —— AIED 2025 披露综述，外加一套开源足迹方法
-- [[ai-assisted-inquiry-ssi-climate]] —— AI 辅助的气候探究，相对单纯探究 d = 0.69
-- [[hawkins-feedback-literacy-ai-essay-writing]] —— 模拟 AI 辅助写作任务中，反馈素养是作文成绩唯一显著的预测因子
-- [[critical-genai-use-predictors]] —— 知识（自我报告与客观测验）、认识论取向与智识价值预测批判性的生成式 AI 使用
-- [[student-genai-use-views-writing]] —— 504 名社会学学生：选择性使用，以及一个指引缺口（81% 有说明，46% 认为清楚）
-- [[wells-genai-research-assistant-sociology-2026]] —— 社会学研究方法课程中的 24 名学生：18 次工作坊中 6 次使用 Copilot，提案禁用
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] —— 24 位来自写作密集型学科的瑞典教师在评估工作坊中推理 AI 生成的作业
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] —— ChatGPT 在二年级心理学媒体作业中取代同伴评估
-- [[ai-tutor-statistical-programming-adoption-2026]] —— 心理学统计课程中"R-Tutor"的预注册纵向研究
-- [[mental-health-literacy-students-llms-2026]] —— 150 名心理学学生对照四个大语言模型，30 条心理健康陈述
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] —— 531 名本科生、六个伦理情境，以及 AI 素养是否预测判断
-- [[adaptive-virtual-patient-psychotherapy-training]] —— 用于心理治疗训练的自适应虚拟病人：1,033 轮对话，披露随共情与探索变化
-- [[burke-ai-proliferation-college-students-replication-2026]] —— 五所大学的 991 名本科生：AI 使用大致翻倍，心理学提供了 30% 的样本
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] —— 实验心理学课程中的 80 道 ChatGPT-4 题目：信度保持，Bloom 覆盖未保持
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] —— GPT-4o 作为咨询受训者的模拟来访者：焦虑更低，来访者顺从且文化上扁平
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] —— 286 名心理学学生与受训者：每个领域都有三到四个潜在类别
-- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] —— ChatGPT、DeepSeek 与 Gemini 上的 20 道社会学题目：kappa 0.91 至 1.00，分歧在应用题上
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] —— 18 名社会学学生：ChatGPT 作为思维伙伴，以及他们害怕失去的声音
-- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] —— 216 名社会科学学生：培训与更低的而非更高的信任相关

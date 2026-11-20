@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,12 +48,3 @@ Mahasiswa yang mengerjakan bacaan atau set soal dan ingin ditanya alih-alih dija
 ## Catatan dan peringatan
 
 Tidak ada harga atau akun yang dipublikasikan untuk alat yang menghadap siswa, sementara penerapan institusional — cloud, on-premises, atau hibrida — ditawarkan melalui proposal khusus dan pertemuan; perlakukan "gratis" sebagai keadaan demo publik pada November 2026, bukan jaminan. Teks dan gambar dikirim ke layanan terkelola yang ditenagai Claude, dan situs itu sendiri meminta pengguna menghapus nama, jumlah, alamat, dan nama perusahaan sebelum mengunggah, yang mengalihkan beban de-identifikasi kepada orang yang mengunggah alih-alih platform. Sesi menghapus dirinya sendiri setelah satu jam kecuali diekspor. Perusahaan di belakangnya juga memasarkan platform asesmen grafik penalaran yang lebih luas kepada institusi, dan klaimnya tentang membedakan grafik deduktif, induktif, abduktif, dan analogis berasal dari empat teks rujukan — situs menyebutnya demonstrasi, dengan validasi dalam skala besar masih menyusul.
-
-## Konsep terkait
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

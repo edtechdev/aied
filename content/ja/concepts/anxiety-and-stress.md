@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -127,60 +129,3 @@ AI はまた、安心ではなく学習目標を進めることによって学�
 - **「AI不安は純粋に有害である」。** この不安は**純粋に否定的ではありません**。[[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]]は**AI不安が生産的でありうる**ことを見出し、より高い不安がより戦略的な調整と関連していました。不安は、単なる負担としてではなく、精査を促す信号として機能します。
 - **「不安な学生は皆同じように反応する」。** Kimの**四つの調整型（無批判な依存18.7%、選択的統合34.6%、評価的変容31.8%、戦略的拒否14.9%）**は、不安に駆動された精査が**四つの異なる**パターンを生むことを示しています。「不安な学生」を標的にした介入は、最大の単一集団が選択的に統合していることを見落とします。
 - **「不安は常に参加を抑制する」。** その再枠組みには**話すことにおける境界**があります。**708名の英語学習者**において、話す不安から話す意欲への結びつきは、**低い話す自己効力感では-0.371、高いところでは+0.137**でした。自己効力感が高いとき、不安は意欲と共存しうるのであり、効果の方向は自信に依存します。
-
-## 関連する概念
-- [[career-development-and-readiness|キャリアの発達と準備状況]] — AI 不安に対する保護因子としてのキャリアの準備状況
-- [[well-being|ウェルビーイング]] — この概念が深く展開する広い傘
-- [[remote-proctoring|リモート試験監督]] — 監視／誤告発ストレスの主要な原因
-- [[social-emotional-learning|社会情動学習]] — 関わる感情的能力
-- [[affective-computing|感情計算]] — 感情状態を読む AI
-- [[affective-tutoring|感情的チューター]] — 感情に応答する AI
-- [[academic-integrity|学術的誠実性]] — 誠実性／不正告発の次元
-- [[privacy|プライバシー]] — 試験監督ストレスの根底にある監視への懸念
-- [[student-experience|学生の経験]] — 学習者の経験の一部としての不安
-- [[motivation|動機づけ]] — 採用と関与に対する不安の影響
-- [[self-regulated-learning|自己調整学習]] — 生産的な不安との結びつき
-- [[ai-literacy|AI リテラシー]] — 根拠のない不安を減らす能力を築くこと
-- [[equity-in-ai-education|AI を活用した教育における公平性]] — 脆弱な学生への不均衡なストレス
-- [[ethics|倫理]] — 監視と誤った告発の公正さ
-- [[teacher-role|教師の役割]] — 教育者側の不安
-- [[assessment|評価]] — AI 媒介の評価不安
-- [[social-norms-ai-use|AI 使用の社会的規範]] — 可視性の感情的コスト
-
-## 関連する記事
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 試験官に似たエージェントは、測定された話す力と不安を同時に高めた
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 能力が倫理的気づきを高め、倫理的気づきが AI 不安を高める：584 人の学生における間接のみの媒介
-- [[ai-anxiety-strategic-regulation-writing-2026]] — 生産的な戦略的調整の信号としての AI 不安
-- [[aivaluate-anxiety-assessment-2026]] — AI 媒介の実演に基づく評価における学生の不安
-- [[ai-campus-wellbeing-tools]] — キャンパスのウェルビーイングのための AI 駆動ツール
-- [[affective-text-wearable-student-health]] — 学生の健康のための感情を表すテキスト＋ウェアラブルセンシング
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 自動試験監督、受験者の不安、誤った告発
-- [[automated-online-exam-proctoring-decade-review-2026]] — 自動試験監督の 10 年間のレビュー
-- [[moral-panic-genai-classroom]] — 生成 AI に関する教員の不安とモラルパニック
-- [[acceptance-ai-english-tools-2026]] — AI ツールの受容を形づくる不安
-- [[teacher-education-ai-literacy-sdt-2026]] — 教師教育、AI リテラシー、そして不安
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 不安、信頼、自信と絡み合う AI の使用
-- [[qu-wang-disclose-or-not-genai-2026]] — 学生のストレスの原因としての開示のジレンマ
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 不安と介入の包括的な分析
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — キャリア適応能力は AI 不安を減らす
-- [[duan-ai-anxiety-career-decisions-college-2026]] — キャリア適応性を通じて AI 不安はキャリアの決定を損なう
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 不安と態度は職探し不安を予測する
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 健康科学において AI 不安は求職不安を予測する
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教師の GAI に関する経験と認識：傷つきやすさ、評価の再考、危機にある学生の学習（Farazouli 他 2026）
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP と機械学習を用いたパキスタンの大学生の間のストレス検知とウェルネス支援のための AI を活用した文化に適応したチャットボット
-- [[school-support-ai-learning-anxiety-control-value-2026]] — 感じられる学校の支援は主に支配・価値評価づけを通じて AI 学習不安を低下させる（69.5% が媒介）；人工ニューラルネットワークによる交差検証（Jiang、Chen & Chen 2026）
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 罪悪感複合体：アカデミックスタッフにおいて使用後の悔恨を上回る先取り的な罪悪感（Vassallo 2026）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 名の米国の教員を対象とした AAC&U/Elon 調査：過度の依存、誠実性への懸念、低下する教員の役割の予測（Watson & Rainie 2026）
-- [[chick-faculty-development-ethical-ai-2026]] — 恐怖から好奇心へ：アイデンティティへの脅威を通して教員を動かす 6 週間のプログラム（Chick、Morello & Staffey 2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — AI 媒介の仕事における感情的労働としてのアカデミック開発者のインポスター感と倫理的居心地悪さ
-- [[parlant-emotional-micro-interventions-2026]] — 認知的評価理論に基づく教師側のリアルタイムの感情的な微小介入
-
-- [[ai-employment-threat-career-anxiety-2026]] — AI による雇用の脅威とキャリア決定不安：感じられる就業可能性が媒介し、成長マインドセットが調整する
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI 使用圧は AI の習熟と初年次の適応との結びつきを弱める
-- [[ai-attitude-latent-profiles-career-development-2026]] — AI 不安と感じられる AI の質の両方で高いプロファイルであり、どちらか一方ではない
-- [[ai-speaking-practice-communicative-readiness-2026]] — 話す不安の話す意欲との結びつきは、高い話す自己効力感で反転する
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 感じられる AI アシスタントの知性は、学習目標の進展を通じて学業不安を低下させる（医学生）
-
-- [[petricini-ai-literacy-communication-equity-2026]] — 基礎コミュニケーション科目における AI リテラシー：公平性、動機づけ、不確実性の低減に関する知見
-- [[tischkau-ai-simulated-patient-formats-2026]] — 7 名のグループ参加者のうち 5 名が、クラスメートの前でアバター患者に問診を行うことへの不快感を個別に報告した

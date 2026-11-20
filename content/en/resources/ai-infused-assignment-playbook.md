@@ -27,6 +27,7 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 The **AI Infused Assignment Playbook** is a practical guide from Sarah Lewis (Barry University,
 social work) for instructors who want to integrate generative AI with intention rather than bolting
@@ -75,16 +76,3 @@ tested outcomes of the playbook itself. The assignments are authored templates â
 with effect sizes, so they should be treated as designs to adapt and evaluate locally. Published
 2026-10-07, v1, on Zenodo under CC BY 4.0; free to download without an account. As of ingestion the
 record shows only ~35 views and ~14 downloads, so it has seen little external use or peer review yet.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

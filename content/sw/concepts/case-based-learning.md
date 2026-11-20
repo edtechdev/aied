@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -91,34 +93,3 @@ Pia kuna hatari ya kidhana. Kesi inaweza kukumbukwa kwa sababu ni yenye uhai, si
 - **"Kesi ya kweli hufundisha yenyewe."** Uhalisia hutoa muktadha. Maswali, ulinganisho, na kazi za uhalalishaji hutoa kujifunza.
 - **"Kesi zilizozalishwa na AI ziko tayari kutumika."** Kesi zilizozalishwa zinaweza kuwa fasaha, za kuaminika, na mbaya. Zinahitaji ukaguzi wa mtaalamu na ukaguzi wa aina ya ufikiri wanaoualika.
 - **"Ikiwa wanafunzi wanafurahia majadiliano, kesi ilifanya kazi."** Ushiriki si uhamishaji. Tokeo linapaswa kupimwa kwenye kazi ambayo wanafunzi hawakuweza kuikamilisha kabla.
-
-## Dhana zinazohusiana
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Makala zinazohusiana
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — LLM iliyowekwa msingi ilishikilia kesi tano za upasuaji bila kuzalisha maudhui yaliyotungwa
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT ilipunguza muda wa kuunda kesi za uuguzi bila tofauti ya ubora iliyopimwa
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Majaribio sita ya nasibu ya PBL/CBL yanayoongozwa na AI; mawili tu yalijaribu CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — Uigaji wa mwalimu kwa kesi zinazopingana katika kozi ya GenAI
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kujifunza kwa msingi wa kesi kando ya wagonjwa wa mtandaoni na wa kuigwa
-- [[genai-medical-education-transformation-review-2026]] — Kujifunza kwa msingi wa kesi na ufikiri wa kimatibabu miongoni mwa kategoria za matumizi za mapitio
-- [[hardie-genai-nursing-scoping-review-2026]] — Kujifunza kwa msingi wa kesi ndani ya mada ya uigaji ya mapitio ya uuguzi
-- [[lorteau-sarro-ai-legal-education-2025]] — AI inaongeza ufundishaji wa Kisokrasia na uigaji wa kisheria
-- [[csaszar-ai-management-education-2026]] — Masomo ya kesi na uigaji wa elimu ya usimamizi, bila uchanganuzi wa mbinu ya kesi

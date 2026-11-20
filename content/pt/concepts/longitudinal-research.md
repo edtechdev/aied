@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -114,28 +116,3 @@ Os desenhos longitudinais se situam dentro da [[quantitative-research|pesquisa q
 - **"Uma amostra grande conserta uma janela curta."** O tamanho da amostra trata da precisão, não do tempo necessário para um processo de desenvolvimento ou institucional se desenrolar.
 - **"O mesmo programa significa as mesmas pessoas."** Cortes transversais repetidos acompanham uma população, não indivíduos; os dois sustentam afirmações diferentes.
 - **"Tendências autorrelatadas são tendências de atitude."** O uso relatado e a postura relatada mudam com as normas e com o instrumento, tanto quanto com o comportamento.
-
-## Conceitos conectados
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## Artigos conectados
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Painel de três ondas separando traço de estado (Xu)
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — Modelo de crescimento de cinco ondas de engajamento, flow e inteligência emocional
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Quatro semestres de uso de IA generativa e percepções éticas na formação de professores
-- [[song-genai-learning-partner-srl-over-time-2026]] — Estudo semestral de autorregulação mostrando declínio sob pressão avaliativa
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Quase-experimento longitudinal de nove semanas em três condições de IA
-- [[ai-lms-middle-school-longitudinal]] — Proposta de LMS integrado à IA para o ensino fundamental II (desenho, não um estudo longitudinal)

@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-10"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 **Teacher Hive** is a hosting and sharing platform for teacher-made classroom apps, built by Tony Vincent. Its premise is that the hard part of classroom AI is no longer getting a model to write a small app but finding somewhere it will run on a school network and be easy for students to open. Teachers paste or upload a single HTML file produced by ChatGPT, Claude or Gemini, and Teacher Hive serves it at a short public link with an icon and QR code. Browsing, bookmarking, following and publishing are free; a paid Pro tier raises storage and app limits.
@@ -39,11 +40,3 @@ K–12 teachers who have used [[generative-ai|generative AI]] to build a small t
 Member and Builder are free (Builder: 50 apps, 50 MB); Pro is \$10 per month or \$60 per year for 500 apps. Access is freemium.
 
 Privacy is the stronger claim, but it shifts responsibility to teachers. Teacher Hive creates no student accounts, asks students for no personal information, and runs no analytics or advertising scripts inside published apps. Because apps are public by link, the terms make teachers responsible for ensuring their apps collect no names, emails, student IDs or location. Accessibility coverage (WCAG 2.2 AA) applies to Teacher Hive's own pages, not teacher-made apps, which are untested. No open-source license is stated, and uptime and data retention are not guaranteed.
-
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

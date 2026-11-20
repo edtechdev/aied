@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -44,13 +46,10 @@ A cikkek növekvő csoportja kifejezetten új elméletet alkot az MI korszakára
 
 - **Generativizmus.** A [[generativism-learning-theory|generativizmust]] új tanuláselméletként javasolják, azzal az érveléssel, hogy a behaviorizmus, a kognitivizmus, a [[constructivist|konstruktivizmus]] és a konnektivizmus mind egy-egy olyan feltevésre épül, amelyet a generatív MI áttör: hogy a megfigyelhető kimenet tanúsítja a tanulást (behaviorizmus), hogy a kognitív műveletek a tanulón belül történnek (kognitivizmus), hogy a jelentés konstruálódik, nem pedig szállítják (konstruktivizmus), és hogy a nehéz rész a meglévő tudáshoz való navigálás, nem annak előállítása (konnektivizmus). Négy értelemzőt nevez meg — episztemikus partnerség, elosztott ügynökség, generatív írástudás és adaptív metakogníció —, és mindegyikhez levezet egy értékelési indikátort, ami közvetlen kísérlet az MI által közvetített tanulás önálló elméleti paradigmájának megnevezésére. Amit viszont nem tesz meg, az az, hogy megbukható állításokat fogalmazzon meg: pozíciócikk, amely meglévő bizonyítékokat szintetizál, ezért az alábbi agentivizmussal ellentétben szókészletet és mérési programot kínál, nem cáfolható elméletet.
 
-
 - **MI-kapcsoltság.** [[ai-connectedness-adolescent-mental-health-2026|Fu és Zhao (2026)]] a gondoskodásetika és a neoökológiai elmélet segítségével rekonstruálja a kapcsoltságot az MI korszakára, és a „mesterségesintelligencia-kapcsoltságot” pszichológiailag valós, mégis etikailag aszimmetrikus kötelékként definiálja, három dimenzióval és hat cáfolható állítással, amelyek skálafejlesztésre várnak.
-
 
 A szintetikus pozíció hozzáad egy versengő javaslatot, amely viszont megfogalmaz állításokat: megnevezi a *szintetikus előléptetést* és a *szerzői felfüggesztést* — egy sűrűn megszólaló, mégis szerző nélküli ént —, és olyan kereszteződési interakciót jósol meg, amelyben egy életdöntési narratíva értékelt szerzőisége és koherenciája ellentétes irányba mozdul ([[synthetic-position-self-authorship-2026|Du és mtsai. (2026)]]).
 - **Agentivizmus.** [[yan-agentivism-learning-theory-ai-2026|Yan és Gašević (2026)]] az agentivizmust középszintű tanuláselméletként javasolja az [[human-ai-collaboration|ember–MI interakcióhoz]], a tanulást az emberi képesség tartós növekedéseként definiálva, nem pedig az MI-vel való sikeres feladatvégzésként, és négy mechanizmust határoz meg: delegált ügynökség, episztemikus monitorozás és ellenőrzés, rekonstruktív internalizáció, valamint transzfer csökkentett támogatás mellett. Amit az oldal többi javaslatától megkülönböztet, az a cáfolhatóság: hat állítást fogalmaz meg, köztük azt, hogy a tanulás erősebb, ha az MI megőrzi a tanuló felelősségét a probléma megfogalmazásáért, a kritériumok meghatározásáért és az indokolásért, mint amikor kész válaszokat szolgáltat. Amellett is érvel, hogy az ellenőrzés megkövetelésének javítania kell a késleltetett teljesítményt, míg az ismételt, rekonstrukció nélküli, alacsony súrlódású delegálásnak gyengítenie kell a tanulók saját kompetenciájukról alkotott kalibrációját.
-
 
 A tanári oldal teoretizálása mára ugyanezt a tesztelhetőségi kötelezettséget vállalja: a Capability–Decision Model az [[tpack|AI-TPACK]] képességet az attitűd és az észlelt viselkedési kontroll elé rendeli, és négy cáfolati feltételt nevez meg — mediációs kudarc, diszkriminanciaösszeomlás, moderációs nullitás és kontextusredundancia —, bár a modell tesztelés nélkül marad ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -121,54 +120,3 @@ Az elméletfejlesztés és a [[philosophy-of-ai-in-education|MI-oktatás filozó
 
 - Konfigurációkontrasztokra tervezzenek, ha elméleti hozzájárulást szándékoznak. Az elméletfejlesztésként publikált átlagos hatású kísérlet a terület leggyakoribb és legkevésbé hasznos kimenete.
 - Csatoljanak explicit, cáfolható állításokat minden általuk bevezetett keretrendszerhez, és jelentsék, mely konfigurációkülönbségek cáfolták volna őket.
-
-## Összefüggő fogalmak
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Összefüggő cikkek
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — A funkcionális taxonómia kiterjesztése: a 154 besorolható publikáció közül 90 (58,4%) kívül esik az eredeti négy kategórián (Ranieri és Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Középszintű tanuláselmélet az ember–MI interakcióhoz, négy mechanizmussal és hat tesztelhető állítással (Yan és Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Megtévesztő túláltalánosítás: az adaptív elsajátítás leállíthatja a gyakorlást, mielőtt a tanulók megtudnák, mikor kell visszatartani egy műveletet (An, McLaren és Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — A generativizmus mint új tanuláselmélet
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Az episztemikus együgynökség elmélete felé
-- [[du-yuan-epistemic-dependence-2026]] — Relációs episztemikus ügynökség és a produktív támaszkodás / káros függőség határa (Du és Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — A hiányzó kognitív alapvonal (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitív közjavak és a szakértelem regenerálódása
-- [[genai-performance-vs-learning]] — Teljesítmény kontra tanulás
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Episztemikus MI-írástudás (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Hitelesítés és kognitív gondnokság
-- [[ai-cognitive-partner-co-regulation-learning]] — Az MI mint kognitív partner a társszabályozásban
-- [[epistemic-proactivity-math]] — Episztemikus proaktivitás a matematikában
-- [[strydom-human-gai-paradigms-2026]] — Hét ember–GAI elköteleződési paradigma episztemológiai hiedelmekre alapozva
-- [[critical-thinking-paradox-genai-learning-2026]] — A kritikaigondolkodás-paradoxon
-- [[dollinger-equitable-assessment-ai-2026]] — Méltányos értékelés a GenAI alatt
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System elmélet és kognitív megadás: hogyan formálja át az MI az emberi érvelést (Shaw és Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — A vizsgálódó közösség újragondolása a generatív MI korában
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Egyetemi tanárok GAI-tapasztalatai és -észlelései: sebezhetőség, az értékelés újragondolása, veszélyben lévő tanulás (Farazouli és mtsai. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternatív MI-filozófia: a taoizmus mint módszer az MI-hez az oktatásban
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: állításalapú sémák oktatási dialógusok auditálható kódolásához
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitív tulajdonlás: az értelemző definíciója, határai és kutatási program
-
-- [[synthetic-position-self-authorship-2026]] — A szintetikus pozíció: dialogikus-én javaslat, amely megnevezi a szintetikus előléptetést és a szerzői felfüggesztést, kereszteződési előrejelzéssel
-- [[capability-decision-model-teacher-readiness-2026]] — Cáfolható, képességelvű tanári felkészültségi modell négy cáfolati feltétellel
-- [[ai-connectedness-adolescent-mental-health-2026]] — Mesterségesintelligencia-kapcsoltság: háromdimenziós értelemző hat cáfolható állítással a későbbi teszteléshez
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitív partnerségi ciklus
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Kívánatos nehézségek és produktív kudarc az értelmező ügynökségre alkalmazva a külföldi tanulmányokban
-- [[webb-pck-genai-2026]] — Három vinjett és egy új konstruktum, a pszeudo-cPCK, olyan kimenetre, amely garancia nélkül utánoz kollektíven validált tudást (Webb et al. 2026)

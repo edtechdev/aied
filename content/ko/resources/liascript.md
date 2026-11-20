@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,8 +49,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 LiaScript은 무료이며 유료 등급도 계정 요구사항도 없고, BSD-3-Clause 하에 공개적으로 개발되므로 기관이 직접 호스팅하고 수정할 수 있습니다. Live Classroom 기능은 실시간 동기화가 순수한 로컬 렌더링이 아니라 공유 서비스를 사용하므로, 규모 있게 의존하기 전에 살펴볼 만합니다. 티칭 에이전트는 이르고 도입 사례가 적으므로, 지원되는 제품이기보다는 작동하는 프로토타입으로 다루십시오.
-
-## 연결된 개념
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
-

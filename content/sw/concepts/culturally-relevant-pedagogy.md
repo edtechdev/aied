@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -96,33 +98,3 @@ Kwa kutegemea makala za hifadhi ya maarifa yenyewe, waelimishaji na wabuni wanaw
 
 - Ripoti maudhui ya kitamaduni kwa kiwango badala ya uwepo au kutokuwepo, kwa kuwa uwepo wa asilimia 94 dhidi ya 6 hausemi chochote kuhusu hiyo asilimia 6 ni ipi.
 - Tofautisha matokeo ya mtazamo wa mwalimu na matokeo ya mwanafunzi wazi wazi unaporipoti majaribio.
-
-## Dhana Zilizounganishwa
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Kiolezo: mbinu za kufundisha na mikakati ya kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-
-- [[llm-cultural-relevance-k12]] — LLM za Mbinu za Kufundisha za K-12 Zinazohusiana na Kitamaduni
-- [[civic-education-ai-lesson-plans]] — Mipango ya Masomo Iliyozalishwa na AI katika Elimu ya Uraia
-- [[ojeda-ramirez-community-based-ai-learning]] — Kujifunza kwa AI kwa Msingi wa Jamii
-- [[genai-minoritized-knowledges-disability]] — AI ya Kizalishaji na Kuhifadhiwa kwa Maarifa ya Waliowekwa Kando
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Kipimo cha STEM cha Ghana
-- [[cross-cultural-student-perceptions-genai-computing]] — Mitazamo ya Kitamaduni Mbalimbali ya Matumizi ya GenAI
-- [[international-students-conversational-ai-adaptation]] — Wanafunzi wa Kimataifa na AI ya Mazungumzo
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Kupanga Masomo kwa Kivietinamu
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot ya AI Inayojali Kitamaduni ya Kugundua Wasiwasi na Msaada wa Ustawi Miongoni mwa Wanafunzi wa Vyuo vikuu vya Pakistan kwa Kutumia NLP na Mifumo Inayojifunza
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Kipanga cha masomo kinachohoji walimu kuhusu muktadha wa kitamaduni kabla ya kuandika rasimu (Zhai et al. 2026)

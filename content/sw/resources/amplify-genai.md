@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,10 +49,3 @@ IT kuu na ofisi za CIO ambazo tayari zinaendesha kazi katika AWS na zinataka mba
 ## Vidokezo na tahadhari
 
 Bure kulipa leseni, si bure kuendesha: taasisi hulipa AWS na watoa modeli. Uchaguzi wa modeli hupitia Amazon Bedrock (Anthropic, Mistral) au OpenAI na Microsoft Azure, na kuendesha modeli zako za ndani hakujatekelezwa. Mradi unasema wazi kuwa hauwezi kusaidia usambazaji wa mtu mmoja mmoja na unaelekeza mashirika kwa washirika wa kibiashara — hivyo gharama halisi inajumuisha wafanyakazi au mkandarasi. Ni usambazaji wa hazina tatu (frontend, backend, miundombinu) wenye nyota kadhaa badala ya maelfu, na ulinganisho wa gharama hapo juu ni uzoefu wa Vanderbilt wenyewe, si utafiti uliodhibitiwa. Taasisi ambazo zingependelea kuweka inference kwenye vifaa vinavyomilikiwa nazo ziangalie [MindRouter](/aied/resources/mindrouter/) na kusoma vyote viwili pamoja: Amplify ni tabaka la programu juu ya modeli za wauzaji, MindRouter ni gateway juu ya GPU zako mwenyewe.
-
-## Dhana zinazohusiana
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

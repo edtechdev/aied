@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -47,12 +48,3 @@ Lærere, der kører close reading, dokumentstudier eller medieanalyse i K-12 ell
 ## Noter og forbehold
 
 Konti er gratis, og dokumenter kan være offentlige eller deles med en inviteret gruppe. AI-partnerne kører på store OpenAI-sprogmodeller, så valgte passager og spørgsmål forlader platformens egen hosting og er underlagt udbyderens vilkår — et distrikt bør læse databehandlingsaftalen, før det bruges med mindreårige. Output er begrænset af en tokengrænse, som siden siger, den stadig udvider, partnerkataloget ligger bag et login, og AI-fladerne er en hurtigt bevægelig del af produktet: behandl enhver funktion beskrevet her som sidens tilstand i november 2026, ikke et fastlagt funktionssæt.
-
-## Relaterede begreper
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

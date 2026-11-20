@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -111,55 +113,3 @@ ai_assist:
 
 - "अनुकूल" की संक्रियात्मक परिभाषा उस प्रभाव आकार के साथ रिपोर्ट करें जिसे आप उद्धृत करते हैं, क्योंकि साहित्य की परिभाषाएँ अलग-अलग हैं और संयुक्त संख्याएँ वही अस्पष्टता विरासत में लेती हैं।
 - अपने स्वयं के वैधीकरण में अपने दक्षता मानदंड को सीखने के परिणामों से अलग रखें। यदि आपका वैधीकरण माप वही संकेत है जो अनुकूलन को चलाता है, तो वह स्वतंत्र साक्ष्य नहीं है।
-
-## संबंधित अवधारणाएँ
-
-- [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और अधिगम
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — छत्री: 
-AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: व्यक्तिगत मूल्यांकन के लिए एक गति-जागरूक अनुकूली रेटिंग प्रणाली
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली दक्षता अभ्यास को रोक सकती है इससे पहले कि शिक्षार्थी जानें कि कार्रवाई को कब रोकना है (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ट्यूटरिंग एकसमान नहीं है: जो हम वास्तव में जानते हैं (Stanford SCALE/NSSA brief)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — अनुकूली अधिगम मंचों में शिक्षार्थी सहभागिता का व्यवस्थित समीक्षा
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL के साथ आभासी ट्यूटरिंग: ग्रहण और सीखने में एक प्रयोग
-- [[making-ai-tutoring-productive-mastery-math-2026]] — एआई ट्यूटरिंग को उत्पादक बनाना: दक्षता-आधारित गणित अभ्यास
-- [[chudziak-ai-math-tutoring-platform]] — अनुकूली/व्यक्तिगतकृत बहु-एजेंट गणित ट्यूटरिंग (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — व्यक्तिगतकृत अधिगम का पुनर्निर्धारण: व्यवस्थित समीक्षा
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — सामान्य चैटबॉट के सामने शिक्षार्थी तत्परता के अनुसार संकलित ट्यूटरिंग-विशिष्ट एआई
-- [[context-based-ai-secondary-chemistry-2026]] — माध्यमिक रसायन में संदर्भ-आधारित 7E + एआई शिक्षण
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — गहन अधिगम हेतु अनुकूली एआई-आधारित STEM कार्यक्रम
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील क्षेत्रों हेतु ग्राफ-आधारित बुद्धिमान ट्यूटरिंग (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — व्यक्तिगतकृत अधिगम मार्गों हेतु बेयसियन संज्ञानात्मक निदान
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक ITS में अनुकूली ICAP स्कैफ़ोल्डिंग (BKT बनाम DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14 RCTs में अनुकूल + एआई-सक्षम उपकरणों को एकत्र करने वाला मेटा-विश्लेषण
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — व्यवस्थित समीक्षा: प्रमुख उच्च-शिक्षा एआई एकीकरण उपयोग मामलों में अनुकूली मार्ग
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — अनुकूली समस्या अनुक्रमण निश्चित अनुक्रमण को हराया: असहाय परीक्षा में +0.156 SD, कठिनाई के बजाय सहभागिता से मध्यस्थ (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: एक एजेंटिक ट्यूटर जो मानव-एआई सह-अधिगम चक्र में अपने शिक्षार्थी को सीखता है
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — रणनीति का उपयोग अवस्था-प्रधान है (औसत ICC 0.14), इसलिए स्थिर शिक्षार्थी प्रोफ़ाइल संकेत का बड़ा हिस्सा छोड़ देती हैं

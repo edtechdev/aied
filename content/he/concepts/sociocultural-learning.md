@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,7 +49,6 @@ ai_assist:
 ### אזור הפיתוח הקרוב (ZPD)
 
 עזרה מלאכותית יכולה לנחות בתוך האזור הזה. במחקר אקראי של 274 [[adult-learning|לומדים מבוגרים]] בארבעה מקצועות מתמטיקה, רמזי פתרון-עבודה שנוצרו על ידי ChatGPT הניבו רווח של 17.00% לפני-אחרי לעומת 1.85% ללא רמזים, בעוד שרמזים שנכתבו על ידי מורה אנושי הניבו 11.62%; שני תנאי העזרה לא היו ניתנים להפרדה סטטיסטית ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos and Bhandari, 2024]]). שיעור השגיאות מסייג את השקילות: 32% מהרמזים שנוצרו נכשלו בבדיקות איכות עד ש[[prompt-engineering|הנחיה]] בעקביות-עצמית הורידה זאת לכמעט אפס בשלושת מקצועות האלגברה ו-13% בסטטיסטיקה. אחר יודע-יותר שטועה פעם בשלוש הוא עדיין סוכן תיווך, ולכן יש לבדוק את תרומת המכונה לפני שלומד בונה עליה.
-
 
 ה-ZPD (וויגוצקי) הוא המושג הסוציו-תרבותי המיושם ביותר ב[[intelligent-tutoring|חונכות AI]]: המרחב בין מה שלומד יכול לעשות לבד למה שהוא יכול לעשות עם סיוע. למידה מתרחשת ביתר יעילות כאשר ההוראה מכוונת לאזור הזה — מאתגרת דיו כדי לדחוף התפתחות, נתמכת דיו כדי לאפשר התקדמות. זהו היסוד התיאורטי של ה[[scaffolding]]: תמיכה זמנית, מתכווננת ונמשכת כשהכשירות גדלה. בבינה מלאכותית בחינוך, ZPD ממסגר את שאלת העיצוב המרכזית של כמה תמיכה חונך [[intelligent-tutoring|חונך AI]] צריך לספק כדי שהלמידה תתקדם בלי שתימסר — ראו [[stanford-evidence-base-ai-k12-2026]].
 
@@ -81,34 +82,3 @@ ai_assist:
 **"הוספת כלי לקבוצה משנה רק את היעילות שלה."** היא משנה את חלוקת העבודה, שהיא יחידת הניתוח של התיאוריה. קבוצה שמנתבת את רוב שאלותיה לסוכן חילקה מחדש את העבודה הקוגניטיבית גם כאשר התוצר לא השתנה.
 
 **"קוגניציה מבוזרת מרמזת שהיחיד אינו חשוב."** היא מרמזת שתרומת היחיד אינה ניתנת לקריאה מביצועים אינדיבידואליים בלבד; יחידת הניתוח היא מערכת הפעילות, לא האדם בבידוד.
-
-## מושגים מחוברים
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## מאמרים מחוברים
-
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — רמזים שיצר מודל שפה השתוו לרמזי מורה אנושי ברווחי למידת מתמטיקה (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — נסיגה לפי כוונת התור של הלומד, לא לפי עומק התגובה

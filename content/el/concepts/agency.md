@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -133,67 +135,3 @@ ai_assist:
 - **«Οι μαθητές ασκούν δράση όταν χρησιμοποιούν την ΤΝ ελεύθερα.»** Ένα **σχήμα 14 κατηγοριών που κωδικοποίησε 6.788 σειρές με υποστήριξη ChatGPT** τοποθέτησε **το 59% των σειρών των μαθητών της έβδομης τάξης** σε κατηγορίες που δεν αντιπροσωπεύουν δράση. Ο όγκος χρήσης και η δράση είναι διαφορετικά μέτρα.
 - **«Τα τρέχοντα μοντέλα υποστηρίζουν καλά τη δράση του μαθητή.»** **Σε σύγκριση δέκα μοντέλων, η υποστήριξη της δράσης είναι εκεί όπου τα πάνε χειρότερα μετά τη μάθηση**: το ImpactBench μέτρησε τη **Δράση και τον Σκοπό στο 56.0%** στα θετικά κριτήρια. Η δράση είναι η διάσταση που τα συστήματα ΤΝ χειρίζονται λιγότερο καλά, και όχι παραπροϊόν της ικανότητας.
 - **«Η μεσολάβηση του εκπαιδευτικού είναι περιορισμός της δράσης.»** Ο [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] παρακολούθησε **δέκα εκπαιδευτικούς δευτεροβάθμιας μαθηματικών σε παρέμβαση οκτώ εβδομάδων με ChatGPT-4** και η μεσολάβηση είναι ο μηχανισμός και όχι το εμπόδιο.
-
-## Συνδεδεμένες έννοιες
-- [[learners]] — Μαθητές: η ομπρέλα για τις έννοιες της πλευράς του μαθητή
-- [[pedagogical-partnerships]] — Παιδαγωγικές συνεργασίες
-- [[learner-identity]] — εξελισσόμενες ταυτότητες μαθητή στο αντικείμενο, το επάγγελμα, τη δημιουργία και την ακαδημαϊκή ζωή
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — κοινή κατεύθυνση της αλληλεπίδρασης με τη μεσολάβηση ΤΝ
-- [[agentic-ai]] — αυτόνομη ΤΝ που μπορεί να ανακατανείμει τη δράση σε ομάδες
-- [[chemistry-education]] — Εκπαίδευση στη χημεία και ΤΝ: εργαστήρια, διαμορφωτική αξιολόγηση, όρια των LLM, φιλοσοφία του πειραματισμού
-- [[social-emotional-learning]] — Κοινωνικοσυναισθηματική μάθηση
-- [[cognitive-surrender]]
-
-## Συνδεδεμένα άρθρα
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Εθνικά αντιπροσωπευτική έρευνα σε εκπαιδευτικούς και διευθυντές των ΗΠΑ για την κάλυψη πολιτικής ΤΝ, τη δράση και πέντε κινήσεις στην τάξη (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Βοηθητικό χέρι ή κυρίαρχος εταίρος; Ατομικές αντιλήψεις της εξάρτησης από τη GenAI και της ανθρώπινης δράσης στη συνεργατική μάθηση
-- [[yan-agentivism-learning-theory-ai-2026]] — Μια μεσαίας εμβέλειας θεωρία μάθησης για την ανθρώπινη–ΤΝ αλληλεπίδραση, με τέσσερις μηχανισμούς και έξι δοκιμάσιμες προτάσεις (Yan και Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Η δράση του μαθητή ως αναδυόμενη ποιότητα του συντονισμού ικανοτήτων πεδίου, ΤΝ και μεταγνώσης, όχι ως αυτόνομος κόμβος (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Πρόσβαση στην επιλογή έναντι επιτελούμενης δράσης: δρομείς, προαιρετικός πράκτορας ΤΝ και μάθηση σε προσομοίωση σμήνους
-- [[guarded-adoption-genai-higher-education-2026]] — Φυλαγμένη υιοθέτηση της γενετικής ΤΝ στην τριτοβάθμια εκπαίδευση
-- [[ai-agents-joyful-assessment-third-space-2026]] — Πράκτορες ΤΝ, χαρούμενη αξιολόγηση και τρίτος χώρος
-- [[ai-mediated-research-agency-formation-2026]] — Διαμόρφωση ερευνητικής δράσης με τη μεσολάβηση ΤΝ στην επιστημονική εκπαίδευση πρώιμης σταδιοδρομίας
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Γνωστική εκφόρτωση ευαίσθητη στα στρώματα στη γραφή με υποστήριξη GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Η σχολική εκπαίδευση στην ΤΝ περιορίζει τα ψυχολογικά αλλά όχι τα γνωστικά κενά ετοιμότητας
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Σχεσιακή επιστημική δράση και έξι κριτήρια που διαχωρίζουν την παραγωγική εξάρτηση από την επιβλαβή (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Παιδαγωγική συνοδεία με ΤΝ που υποστηρίζει ταυτότητα STEM
-- [[t2i-competence-paradox-2026]] — Το παράδοξο της ικανότητας: δημιουργική ταυτότητα στη χρήση GenAI κειμένου-σε-εικόνα
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Αναδυόμενη δράση του μαθητή στη σιωπηρή ανθρώπινη–ΤΝ συνεργασία: υποστηρικτικές έναντι αντιθετικών περσόνων
-- [[de-barba-srl-genai-2026]] — Η δράση του μαθητή σε κλίμακες: ρύθμιση, ενσωμάτωση, τοποθέτηση
-- [[mishra-control-vs-agency-history-2025]] — Έλεγχος έναντι δράσης ως η ουσιώδης ένταση στην ιστορία της AIED
-- [[daoism-ai-education-philosophy-2026]] — Εναλλακτική φιλοσοφία της ΤΝ: ο ταοϊσμός ως μέθοδος για την ΤΝ στην εκπαίδευση
-- [[human-autonomy-agency-hri-review-2025]] — Ανθρώπινη αυτονομία και δράση στην ανθρώπινη–ρομποτική αλληλεπίδραση
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Σχεδιασμός βασισμένος στη γνώση για γενετικά κοινωνικά ρομπότ
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Καλλιεργώντας τη δράση των μαθητών σε εργασία σχετική με τη μάθηση
-- [[shaw-nave-cognitive-surrender-2026]] — Θεωρία τριών συστημάτων και γνωστική συνθηκολόγηση: πώς η ΤΝ ανασχηματίζει τον ανθρώπινο συλλογισμό (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Η δράση των μελλοντικών εκπαιδευτικών στις αλληλεπιδράσεις GenAI στον σχεδιασμό μάθησης (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Χειραφετητικό όραμα: η δράση ως μηδενικού αθροίσματος με τη δράση του εργαλείου
-- [[chen-zou-genai-group-assessment-agency-2026]] — Τρία μοτίβα δράσης στην ομαδική αξιολόγηση με τη μεσολάβηση GenAI: εντατικοποιημένη, περιορισμένη και μη επιτελούμενη
-- [[ai-integrated-teaching-identity-tensions]] — Η επιλεκτικότητα με αρχές ως δράση του εκπαιδευτικού στη διδασκαλία με ενσωματωμένη ΤΝ (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Η άρνηση ως διαγνωστικό τεκμήριο: η μη χρήση ως εντοπισμένη σχέση και το άνισο δικαίωμα να αρνηθεί κανείς την ΤΝ (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — επιστημική αυθεντία που διεκδικείται μέσω διακοπής, διόρθωσης και άρνησης και όχι μέγιστης χρήσης του εργαλείου
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ποιος πράττει, ποιος γνωρίζει, ποιος απαντά; Ανάλυση λόγου με υποστήριξη σώματος κειμένων για τη δράση, την επιστημική ευθύνη και τη λογοδοσία στην έρευνα για τη γενετική ΤΝ στην τριτοβάθμια εκπαίδευση
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Ανοιχτά ερωτήματα προς μια εξάρτηση που διατηρεί τις δεξιότητες στη στοχαστική ενασχόληση με την ΤΝ
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Ικανότητα έναντι δράσης ως σκοποί της εκπαίδευσης στην ΤΝ, και η ευρετική της ενήμερης ΤΝ δράσης (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Η μεσολάβηση του εκπαιδευτικού ως η συνθήκη που κρατά τη GenAI τεχνούργημα προς κριτική και όχι αυθεντία (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Η δράση του εκπαιδευτικού ως πόρος που κινητοποιείται μέσω του σχεδιασμού, με την ετοιμότητα να κρίνεται από τεχνουργήματα και όχι από τη χρήση (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Ισορροπώντας τη δράση εκπαιδευτικού και μαθητή σε εργαλεία συν-ενορχήστρωσης για δυναμικό ζευγάρωμα σε πραγματικό χρόνο (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Πίνακας Ερμηνευτικής Αυθεντίας και Μοντέλο Οικολογικής Ολοκλήρωσης Αυθεντίας: τέσσερις διαμορφώσεις του ποιος ερμηνεύει, και τα οικολογικά στρώματα που τις μετατοπίζουν
-- [[gyekye-selves-apprenticeship-2026]] — Έγχρωμοι μαθητές σε προγράμματα μαθητείας συγγράφουν τον εαυτό τους μέσω της ΤΝ με άρνηση, διαπραγμάτευση και αναγνώριση («πολιτισμική επιπεδότητα»)· Θεσμική Επάρκεια σε ΤΝ και Εύρος Αναγνώρισης
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Κοινή επιστημική δράση σε 6.788 σειρές επιστημονικής γραφής δευτεροβάθμιας με υποστήριξη ChatGPT (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Η αντιλαμβανόμενη ιδιοκτησία έπεσε μόνο όπου ανατέθηκε ολόκληρο το δοκίμιο· όσοι το χρησιμοποιούσαν για σχεδιασμό και ανασκόπηση ισοφάρισαν τους μη χρήστες (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Ποιος κάνει τη σκέψη; Χαρακτηρίζοντας την ανθρώπινη δράση στις αλληλεπιδράσεις ΤΝ πρωτοετών φοιτητών

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,9 +53,3 @@ Oregon State University의 Joseph Slade가 구축하고 AI Education Labs, Inc.�
 - **서드파티 추론.** 응답은 Anthropic의 Claude API를 통해 생성되고 OpenAI의 API가 백업이며, 정책이 2026년 9월 현재 API 입력과 출력에 대한 훈련을 제외한다고 말하는 상용 약관 아래 있습니다. 기관은 웹 페이지가 아니라 자체 계약을 통해 그것을 확인해야 합니다.
 - **채점기가 아닙니다.** 정책과 약관 모두 "목표 달성" 같은 어시스턴트 판단을 교수자를 위한 보조로 기술합니다. 성적과 학사 결정은 교수자와 기관에 남으며, 학생에게 [[ai-use-disclosure|AI 사용 공개]]에 관한 결정은 교수자에게 맡겨집니다.
 - **미국 호스팅.** 데이터는 Vercel 호스팅과 함께 Google Cloud Firestore에 있으며, 정책은 서비스가 교육 기록을 다루는 경우 FERPA 의무를 다룹니다. 미국 밖 사용자는 데이터가 미국에서 처리된다는 안내를 받습니다.
-
-## 연결된 개념
-
-- [[learning-design]] — AI 정책이 구체화되는 지점으로서의 구조화된 과제 설계.
-- [[guardrails]] — 설계 시점 제약으로서의 참여 게이트와 상한이 있는 AI 도움.
-- [[ai-use-disclosure]] — 플랫폼이 아니라 교수자가 AI 사용을 학생에게 어떻게 선언할지 결정.

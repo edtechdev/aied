@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -100,46 +102,3 @@ O uso de IA e a divulgação ficam na interseção da [[academic-integrity|integ
 - **"Os estudantes escondem o uso de IA porque são desonestos."** Os motores são documentados e específicos: apenas **cerca de 34% dos estudantes de economia admitiram uso de IA**, com divulgação ainda mais rara, movidos por **ansiedade de punição**, enquanto outro estudo constatou **66% que nunca ou raramente divulgaram**, com **medo de penalidade acadêmica a principal razão**. O desenho da política, e não o caráter, é o que os dados implicam.
 - **"Uma exigência de divulgação é um controle de baixo custo."** Uma **taxa de não conformidade de 74%** torna o registro resultante pior do que nenhum registro: é um conjunto de dados que parece completo e não é, de modo que a instituição está decidindo sobre uma amostra em que não pode confiar.
 - **"Divulgar como o modelo foi usado é suficiente."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumenta que a divulgação documenta o uso do modelo, enquanto o uso responsável exige garantia autoral no nível da afirmação — a capacidade do contribuinte de compreender, justificar e defender as afirmações —, separando a [[cognitive-offloading|delegação cognitiva]], em que os resultados moldam escolhas substantivas, da delegação rotineira, que não molda.
-
-## Conceitos conectados
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — o dano que a divulgação busca tornar visível
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — por que os estudantes escolhem ocultar em vez de divulgar
-
-## Artigos conectados
-- [[wu-lam-genai-writing-assessment-professors-2026]] — A direção espelhada: informar os estudantes quando a IA avalia seu trabalho, e pedir antes de enviá-lo
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Um SEM dividido: certeza de detecção versus o risco de que declarar exponha uso indevido (Liu et al. 2026)
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Além da detecção: como os estudantes usam e escondem a IA em avaliações on-line
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgação de IA pelos estudantes, estigma e aprendizagem autorregulada
-- [[vetter-hidden-cost-disclosure-genai-2026]] — O custo oculto da divulgação: divulgação e acusações do corpo docente
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Não conformidade dos estudantes com declarações de uso de IA
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarações como educação, e não como detecção
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — O custo da honestidade como limiar de desenho na avaliação
-- [[student-perspectives-ai-writing-grading-2026]] — Quem deve corrigir meu trabalho? Perspectivas dos estudantes sobre avaliação transparente de escrita assistida por IA no ensino superior
-- [[qian-governing-genai-higher-ed-policy-2026]] — A divulgação como fronteira entre assistência e deturpação em 50 universidades inovadoras dos EUA (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Sem consenso sobre divulgação e citação de IA na política das escolas de direito (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — Redações de admissão escritas por IA são difundidas, mas penalizadas
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Quando as regras de divulgação não bastam: garantia autoral e julgamento na produção acadêmica apoiada por IA (Mirończuk 2026)
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Treze experimentos: divulgar o uso de IA reduz a confiabilidade de quem divulga, via legitimidade
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Rótulos de divulgação de IA, autenticidade percebida e confiança em vídeos instrucionais gerados por IA
-
-- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI em materiais de curso: uso e percepções do corpo docente

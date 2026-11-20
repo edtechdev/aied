@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,49 +92,3 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 **"封闭的前沿模型就是更好，所以开放替代品只是退路。"** 差距比这个假设所暗示的要窄。在横跨 97 个模型的[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利教师资格考试题目构建）中，开放权重的 **DeepSeek R1 达到 86.65%**，而其前十名大多由封闭的推理模型组成，且成本与准确率的比较进一步朝开放方向倾斜。因此支持开放的剩余理由关乎控制与可审计性，而不关乎能力上的牺牲。
 
 **"发布权重就是发布工作。"** 更强的开放贡献发布的是流水线。OmniEdu 发布的是在 69,999 例混合样本上做能力均衡的监督，而非仅发布最终权重，把开放 4B/9B/27B K–12 家族的每一档都抬高，其中经调优的 4B 模型在 MathTutorBench [[scaffolding|脚手架]]表现上提升 **55 分**；[[singh-eduqwen-pedagogical-rl-2026|EduQwen]] 同样记录了它的 RL 与微调流程，包括 440 条挖掘出的难负例与 40,000 条生成回答。只有权重而没有配方，复制的是一个结果，而不是一种方法。
-
-## 关联概念
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## 关联文章
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 在消费级硬件上的本地 OER AI 知识库助手（Shen et al. 2026）
-- [[oatutor-open-source-adaptive-tutor-2023]] — 配 CC BY OpenStax 内容库的 MIT 许可自适应辅导系统（Pardos et al. 2023）
-- [[singh-eduqwen-pedagogical-rl-2026]] — 优于远大得多的专有系统的开放 32B 教学模型（Singh et al. 2026）
-- [[lata-ferpa-compliant-local-llm-autograder]] — 即插即用、符合 FERPA 的本地大语言模型自动评分器
-- [[programming-its]] — 为符合 GDPR／欧盟 AI 法案而自托管的开放权重大语言模型与 Python 智能导学系统
-- [[aiawe-automated-writing-evaluation]] — 用于自动写作评价的 LoRA 适配开放权重模型
-- [[stanbkt-bayesian-knowledge-tracing]] — 完整贝叶斯知识追踪的开放 Python 包
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 带学习者记忆的完全开源智能体式辅导框架
-- [[vismatic-secure-sandbox-cs-education]] — 面向过程评估的开放容器化沙盒
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — 代码库开放的感知情感的数学辅导系统
-- [[cdpk-pedagogy-benchmark-llms]] — 横跨 97 个模型的开放教学基准与成本—准确率前沿
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 面向基于轨迹的多智能体辅导评价的开放数据集与原型
-- [[mllm-scientific-visualization-literacy]] — 开放模型在可视化素养上低于人类基线
-- [[iks-instruct-dataset-indian-knowledge]] — 用于文化扎根式教学的开放多语言数据集
-- [[aied-carbon-footprint-reporting]] — 报告大语言模型环境成本的开源方法
-- [[egai-power-systems-education]] — 面向工程 AI 的开放可执行模块库
-
-- [[mooc-to-maic]] — 大语言模型驱动的课程生成与课程生产经济学的变化
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：面向学与教的开放基础模型

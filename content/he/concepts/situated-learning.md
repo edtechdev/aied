@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -61,29 +63,3 @@ ai_assist:
 - **"אותנטיות היא תכונה של המשימה."** אותנטיות היא יחס בין הפעילות לעבודה הלגיטימית של קהילה אמיתית. משימה יכולה להיות משוכללת ועדיין בית-ספרית בצורתה — נבדקת בידי מורה, לציון, בלי השלכה בעולם שהיא טוענת לייצג.
 - **"הערכה שמתעוררת מהמשימה פירושה אין הערכה."** פירושו שהקריטריון הוא של הקהילה, לא של הכיתה: האם העבודה מקובלת על האנשים שעושים את העבודה. זהו סטנדרט שונה ובדרך כלל מחמיר יותר מרובריקה.
 - **"חניכה דורשת סביבה פיזית."** המנגנון הוא השתתפות פריפרלית לגיטימית — תנועה מקצה הפרקטיקה אל מרכזה עם אחריות אמיתית. סביבות מקוונות ומדומות יכולות לתמוך בה או לדמות את הפריפריה בלי להעניק השתתפות לעולם, וההבדל הוא האם תרומת הלומד משמשת בפועל.
-
-## מושגים קשורים
-- [[learner-identity]] — זהויות לומד משתנות בתחום דעת, מקצוע, יצירתי ואקדמי
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — סביבות מוטמעות כמסלול להקשר אותנטי
-
-## מאמרים קשורים
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — תרחישים בתוספת נכסים לשימוש חוזר נושאי-מקור גוברים על עוזר פשוט בשני ניסויים
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

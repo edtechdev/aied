@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -84,44 +86,3 @@ La letteratura sulla valutazione della base di conoscenze sottolinea costantemen
 - **"Un LLM non può correggere secondo gli standard ufficiali."** Rispetto ai **voti ufficiali moderati**, un LLM multimodale che correggeva **10.364 pagine manoscritte** delle Olimpiadi di Fisica e di esami universitari correlava fortemente. La concordanza sugli esiti può sopravvivere a una correzione imprecisa dei singoli item — il che significa che la domanda utile è dove la precisione a livello di item sia davvero richiesta.
 - **"L'inflazione dei voti dovuta all'IA è speculazione."** Il quasi-esperimento di [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] su **oltre 500.000 voti** rende concreto il meccanismo: dopo il rilascio di ChatGPT, **i corsi con più compiti esposti all'IA hanno visto crescere la quota di voti alti**. L'effetto si è concentrato dove i compiti erano esposti, che è lo schema che un meccanismo predirebbe.
 - **"Gli studenti che usano l'IA non si distinguono da chi non la usa, quindi la provenienza è un vicolo cieco."** Il risultato che **non c'era alcuna differenza significativa nell'attribuzione della fonte** tra item generati dall'IA e item di esame di abilitazione, con un riconoscimento corretto del **68,6-77,5 per cento** e un tasso di attribuzione errata del **18,2 per cento**, riguarda il fallimento del riconoscimento — non l'inutilità della provenienza. Semmai alza il requisito di una provenienza verificata.
-
-## Concetti collegati
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Articoli collegati
-- [[llm-grading-assistants-public-health-2026]] — LLM graders compress the grade scale and avoid the extremes in high-stakes essay assessment
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
-- [[cong-confidence-asag-2026]] — Automatic short-answer grading
-- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
-- [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
-- [[code-review-genai-cs1]] — Code review interviews in CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[test-driven-ai-assisted-learning]] — Test-driven AI-assisted learning
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably tell AI-drafted items from licensing-exam items (Vogt et al. 2026)

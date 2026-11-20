@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -156,42 +158,3 @@ Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş ba
 **“Araç kullanılırken daha yüksek notlar, aracın daha fazla öğrettiğini gösterir.”** Bir [[k-12|K-12]] matematik çalışmasında, genel amaçlı bir [[conversational-ai|sohbet robotu]] ile pratik yapan öğrenciler daha iyi pratik notları almış ve ardından yardımsız değerlendirmede **yaklaşık %17 daha kötü** puan almıştır. Araç varken ölçülen pratik performansı şişirilmiş ölçüdür; çıktı olan ise yardımsız olandır ve yalnızca biri yükselmiştir.
 
 **“Etki gerçekse uygulama ayrıntıları pek önemli değildir.”** Etki, ayrıntıların kendisidir. Tek bir kurumda tek bir derste 30 öğrenciyi, kimsenin artık kullanmadığı bir araç sürümünde izleyen bir çalışma, artık var olmayan bir yapılandırmaya ilişkin bir bulgu üretmiştir. Muamele belirtimi, sürüm ve ortam, iddianın çevresindeki bağlam değil iddianın parçasıdır.
-
-## Bağlı kavramlar
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — YZ Destekli Eğitimsel Araştırma
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Bağlı makaleler
-
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Bir derleme, kendi derlemindeki bildirim eğriliğini ölçebilir
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Publication-bias-adjusted AI effects about one-third of reported size
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and heterogeneity that changes with the model
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — When automated scoring reliability meets the task’s measurement ceiling
-- [[verification-quality-reliance-calibration-genai-2026]] — What the verification and reliance literature does not measure
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated references that reached print in 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Practice gains, exam losses: the assistance-removal problem in K-12 math
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Subgroup effects whose confidence intervals cross zero
-- [[chick-faculty-development-ethical-ai-2026]] — Enabling conditions: policy signals, personal subscriptions, no time
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Vendor metrics with their calibration and experiment count disclosed
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Findings tied to model versions, and the field’s churn
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Independent-evidence counts for 16 student-facing AI products already in use

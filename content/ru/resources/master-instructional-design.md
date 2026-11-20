@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -44,6 +45,3 @@ translation_note: "Автоматический перевод данной ан
 ## Термины и оговорки
 
 Лицензия — Creative Commons BY-NC-ND 4.0, и заявленные автором условия важны для большинства институциональных читателей: личное некоммерческое изучение и профессиональное развитие приветствуются, тогда как коммерческое использование, распространение и присвоение бренда требуют коммерческой лицензии. Репозиторий сообщает о 314 из 320 баллов по десяти самостоятельно разработанным задачам, что является собственной оценкой автора, а не независимой, и тот же автор продаёт консультации и воркшопы по этой структуре. Проект описан как личная инициатива, не связанная с работодателями автора, а последний коммит датирован апрелем 2026 года.
-
-## Связанные концепции
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

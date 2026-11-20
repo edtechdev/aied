@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -40,8 +41,3 @@ ai_assist:
 ## 出自
 
 2024 年から 2025 年にかけて Duke University で AI Ethics Learning Toolkit として始まり、Center for Teaching and Learning と Duke Libraries の学部生、司書、教員、技術者によって共同設計され、フィードバックと再設計を経て Hannah Rozear、Remi Kalir、Aria Chernik によって再出発しました。
-
-## 関連する概念
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

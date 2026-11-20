@@ -27,6 +27,8 @@ ai_assist:
 translation_of: concepts/automated-assessment
 source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -164,79 +166,3 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 - **«La persona que juzga es la fuente de la falta de fiabilidad.»** Sobre 378 decisiones con dados fijos, una repetición cambió entre el **2,9 y el 6,1 por ciento** de los resultados con un método semirrígido y entre el **13,5 y el 15,9 por ciento** con adjudicación libre, mientras que cambiar la IA que juzgaba añadió solo unos 3 puntos ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]): el procedimiento, y no quien juzga, fija la reproducibilidad.
 - **«Informar de la confianza es un adorno.»** Una puntuación que dijera que estaba **segura al 70%** cambiaría el modo en que se usa, y la ausencia de esa información obliga a quien la lee a tratar todas las puntuaciones como igualmente ciertas.
 - **«La corrección automática de respuesta corta es un terreno resuelto.»** Una revisión de alcance sobre la corrección automática de respuesta corta en [[science-education|ciencias]] (**de 2017 a principios de 2024**) documenta la historia del campo, que es un registro de lo que se ha intentado y no de lo que se ha validado.
-
-## Conceptos conectados
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Evaluación sumativa: formatos resistentes a la IA (exámenes orales, vigilados y con libros cerrados)
-
-## Artículos conectados
-
-- [[stewart-tag-question-categorization-competency-2026]] — Etiquetado curricular con IA: kappa de 0,69 en estados de enfermedad, 0,57 en Bloom y 0,24 en subdominios de COEPA (Stewart et al. 2026)
-- [[zhao-ai-supported-grading-rubric-refinement-2026]] — El desacuerdo entre IA y profesorado como señal para desarrollar rúbricas en PrairieLearn (Zhao et al. 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — La letra de la rúbrica como superficie de ataque: el 46,4% de los intentos verificados obtuvo puntuación alta, reducido al 36,0% con refinamiento de rúbricas (Roy et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — Informe OpRaise: calificación con IA de 761 ensayos universitarios en tres universidades británicas
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Puntuación asistida por IA con humanos en el bucle en una evaluación nacional de escritura a gran escala (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validez del juicio comparativo con grandes modelos de lenguaje para el cribado universal de la escritura
-- [[usher-faraon-who-grades-best-2026]] — Comparación de la calificación de ChatGPT, de los compañeros y del docente según los niveles de calidad del proyecto (Usher y Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Evaluación de la calidad de exámenes generados por IA: un estudio de campo a gran escala
-- [[automated-formative-assessments-a-level-sciences]] — Evaluaciones formativas automatizadas en ciencias de bachillerato
-- [[cong-confidence-asag-2026]] — Calificación automática de respuestas cortas consciente de la confianza
-- [[ai-scoring-language-bias-physics]] — Sesgo lingüístico en la puntuación con IA en física
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibración de la dificultad con LLM para exámenes de programación
-- [[choi-anchor-aes-prompting-2025]] — Prompting para la puntuación automatizada de ensayos basada en anclas
-- [[cotal-formative-assessment-scoring-2026]] — Puntuación de la evaluación formativa con CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Calificación automatizada de exámenes de Linux Bash con LLM
-- [[confidence-aware-student-drawing-assessment]] — Evaluación consciente de la confianza de figuras dibujadas por estudiantes
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluación automática de diagramas matemáticos generados
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP frente a justificaciones de LLM para la evaluación de la calidad docente basada en rúbricas
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizar la evaluación de quien aprende: predicción de familiaridad basada en EEG
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: generación de rúbricas de evaluación con IA
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Calificación y retroalimentación asistidas por IA y supervisadas por el docente
-- [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones manuscritas de física (Olimpiada)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — ¿Quién debería calificar mi trabajo? Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA en la educación superior
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Marco tripartito: clasificar la retroalimentación por su estatus epistémico y los cinco principios límite para la implicación de la IA (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Evaluación de equipo rojo de inyecciones de prompt ocultas en entregas del estudiantado contra la calificación mediada por IA (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Marco LLM explicable por diseño para la evaluación docente automatizada con inferencia condicionada por la confianza (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — Calificación de matemáticas manuscritas semiableartas con un filtro de confianza para la revisión humana
-- [[llm-grade-bands-calibration-bias-2026]] — ¿Pueden los grandes modelos de lenguaje reproducir las bandas de calificación de la educación superior? Estudio entre modelos de la calibración y el sesgo de calificación en escritura estudiantil auténtica
-- [[sophie-clinical-communication-ai-assessment-2026]] — Formación escalable en comunicación clínica con IA y evaluación automatizada
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automatizar la evaluación constructiva con grandes modelos de lenguaje: hacia una evaluación escalable y repetida de la competencia práctica
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluar el foco de la retroalimentación y la adaptabilidad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
-- [[llm-graders-computer-science-exams-2026]] — Dónde aciertan y dónde fallan los calificadores LLM: evidencia de dos exámenes de informática
-- [[llm-automated-coding-teacher-pck-2026]] — Codificación con LLM multiagente (GradeOpt) de las respuestas abiertas de CK y PCK del profesorado, con fiabilidad proveniente del refinamiento del prompt contra un manual de codificación
-- [[ai-marking-accuracy-gcse-physics-2026]] — Calificación con IA comparada con las notas del organismo examinador y el juicio del profesorado en física de GCSE
-- [[machine-human-marking-agreement-institutions-2026]] — La concordancia entre máquina y humano en la calificación de trabajos de grado es específica del modelo, el prompt y la institución
-
-- [[llm-grading-assistants-public-health-2026]] — El modo de razonamiento elevó la concordancia entre la calificación humana y la del LLM de una kappa ponderada de 0,269 a 0,718
-- [[llm-structured-assessment-diagnostic-quality-2026]] — Las subdimensiones de rúbrica del LLM son casi redundantes y la retroalimentación rara vez nombra ideas erróneas (Zhao et al. 2026)
-- [[wargaming-adjudication-ai-judged-grading-2026]] — El pulgar en la balanza: usar prácticas tradicionales de adjudicación de juegos de guerra para mejorar la evaluación y la calificación juzgadas por IA (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Más allá de la concordancia: 22 calificadores con prompt se enfrentan a sondas cuya respuesta correcta se conoce, y a la mayoría se les puede convencer (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Evaluar la enseñanza y no el trabajo del estudiantado, sin agrupar
-- [[baumartz-rubric-aes-llm-ensembles-2026]] — Puntuación automatizada de ensayos basada en rúbricas con conjuntos de LLM, contrastada frente a la concordancia entre evaluadores humanos (Baumartz et al., 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -138,32 +140,3 @@ ai_assist:
 - **「子どもは健全な懐疑をもってチャットボットに接する。」** 先の研究では信頼が急速に形成された。過半数がシステムの答えを受け入れ、3分の1以上がそれを教員や友人のように扱った。
 
 - **「幼い子どもは同じAIリテラシーのシラバスの易しい版を受け取る。」** 年齢帯をまたいで変わるのは課題の種類であり、難易度ではない。初期には物語と作ること、後には批判と説明責任である。
-
-## 関連する概念
-
-- [[developmental-psychology]] — 年齢が変えるのは課題の難しさだけでなく、課題が何を求められるかである理由
-- [[math-education]] — 初等段階のAI試験が最も多く、有意差なしの結果も最も多い教科
-- [[reading-education]] — 低学年における流暢さ、解読、使用量の効果
-- [[writing-education]] — 自動フィードバック、修正、ルーブリック採点の限界
-- [[digital-divide]] — 誰が恩恵を受けるかを決める端末、接続、スキルの格差
-- [[equity-in-ai-education]] — 所得、言語的地位、農村性による効果の差
-- [[teacher-role]] — オーケストレーション、媒介、そしてAIが教員の一日に加える労働
-- [[curriculum-design]] — モジュールを追加するのではなく、学年をまたいでAIリテラシーを順序づけること
-- [[privacy]] — 子どものデータ、保持、そして契約ではなくアーキテクチャによる保護
-- [[assessment]] — 初等の学習者が何かを得た証拠として何が認められるか
-
-## 関連する記事
-
-- [[ai-elementary-language-education-review-2026]] — 初等言語学習におけるAIの31件の研究。スピーキング、読み書き、語彙に集中
-- [[guo-ai-literacy-developmental-paces-2026]] — K-12の118件の研究をPACES発達枠組みに整理
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — AIそのものを教えた16件の介入、統合してg = 0.892
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25件の実証研究。AIリテラシーは不均等に教えられる4つの要素であり、主に調査で評価
-- [[barokah-ai-elementary-science-review-2026]] — 初等理科の5つの応用クラスターを対応づけた103件の出版物。認識論的成果は薄い
-- [[karampa-students-game-designers-ai-literacy-2026]] — 22名の生徒が誤情報対策の脱出ゲームを制作。AIリテラシーは3.684から4.309へ上昇
-- [[llm-comparative-judgment-writing-screening-2026]] — 3年生から6年生の1,208名、LLMによるペア比較採点
-- [[melo-llm-classroom-observation-teach-2026]] — 専門家のTEACH Primary評価と対比した8,618件のAI評価
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 年齢階層別のガイドブック、参加者831名。受容は学習ではない
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 6歳児と7歳児は成人より前頭頭頂連結が弱い
-- [[tutor-case-bench-challenging-behaviors-2026]] — 記録された923件の事例。最良のモデルは文書化された対応を55.8%の割合で満たす
-- [[llm-simulating-student-scientific-thinking-2026]] — シミュレートされた児童の考えは、初等の学年で実際の考えから最も大きく乖離する
-- [[human-ai-complementarity-social-emotional-learning-2026]] — エージェントは語調と手順を保ち、振り返りは教育者が主導する

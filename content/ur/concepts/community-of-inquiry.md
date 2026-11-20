@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -80,28 +82,3 @@ GenAI کو کسی اوزار، مکالماتی ساتھی یا قیاسی "چو
 **"موجودگی کسی جماعت میں یکساں تقسیم ہوتی ہے۔"** یہ حالتوں کے درمیان نہیں بلکہ حالت کے *اندر* الگ ہوتی ہے۔ **63 چینی انڈر گریجویٹس (33 GPT-4o mini چیٹ بوٹ کے ساتھ، 30 کے بغیر)** کے ایک نیم تجربے میں، جنھوں نے پانچ ہفتہ وار کاموں میں مشترکہ مطالعے پر حاشیے لگائے، موجودگیاں گروہ کی کامیابی کے لحاظ سے الگ ہوئیں: زیادہ کامیاب گروہوں نے **2319 حاشیوں میں 1407 فیڈبیک درخواستیں (60.7%)** شروع کیں، جبکہ کم کامیاب گروہوں میں **2167 میں 737 (34.0%)**۔ ایک ہی اوزار تک رسائی نے اُس سماجی رویے میں موجود خلا کو دوبارہ پیدا کیا جسے فریم ورک ناپتا ہے۔
 
 **"آن لائن کورس میں چیٹ بوٹ شامل کرنا ایک موجودگی شامل کرنا ہے۔"** یہ امتزاج بدل دیتا ہے۔ GenAI کے تحت فریم ورک کی قدر یہ ہے کہ وہ تبدیلی کو نظر آنے والا بناتا ہے: ماڈل سے پوری ہونے والی موجودگی اسی تصور کی ایک مختلف ترتیب ہے، اور جماعت کا ڈیٹا دکھاتا ہے کہ یہ تبدیلی غیر یکساں طور پر فائدہ دیتی ہے۔
-
-## منسلک تصورات
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## منسلک مضامین
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21 مطالعات کا اسکوپنگ جائزہ: موجودگیوں کے شواہد غیر متوازن ہیں، تدریسی موجودگی سب سے کم مطالعہ شدہ ہے، اور ڈیزائن کی ترتیب نتائج کو چھانٹتی ہے (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — GenAI کی مدد سے سماجی حاشیہ آرائی میں طلبہ کے تعاملات کو کھولنا: علمی اور سماجی موجودگی کا علمی نیٹ ورک تجزیہ
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — جنریٹو AI کے دور میں CoI کا تصور نئے سرے سے ترتیب دینا
-- [[ai-communities-of-inquiry-2026]] — استفسار کی برادریوں میں AI
-- [[ai-online-education-engagement-satisfaction-2026]] — AI اور آن لائن تعلیم میں شمولیت
-- [[reflective-triangle-model-teacher-ai-2026]] — عکاسی مثلث ماڈل: AI بطور علمی وسيط
-- [[llm-facilitation-timing-online-discussions]] — انسانی بمقابلہ LLM تسہیل کار: ماڈل ماہر انسانوں سے زیادہ بے تابی سے مداخلت کرتے ہیں (Tsirmpas et al. 2026)

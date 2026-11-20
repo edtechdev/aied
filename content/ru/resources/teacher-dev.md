@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -46,6 +47,3 @@ translation_note: "Автоматический перевод данной ан
 ## Примечания и оговорки
 
 Темп — это одновременно и питч, и риск. Сборки за один день нацелены на реальную проблему класса, а не на исследовательский вопрос, поэтому здесь ничего не несёт оценки, и утверждение о том, что делает приложение, следует проверять в классе. В организации на GitHub находятся тридцать два публичных репозитория, тогда как галерея перечисляет 34, все — Apache-2.0 с доступным исходным кодом, так что приложение можно прочитать и развернуть самостоятельно. Дизайн local-first — это утверждение, которое нужно проверять для каждого приложения, и учителю стоит убедиться в этом, прежде чем ставить любой инструмент для студентов перед классом.
-
-## Связанные концепции
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

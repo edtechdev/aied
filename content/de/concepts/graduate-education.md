@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -132,34 +134,3 @@ Die postgraduale Bildung erbt die sektorweiten Probleme der Integrität, der [[a
 Promotionsprogramme führen GenAI in zwei Richtungen zugleich ein — als Forschungsinstrument und als etwas, das Kandidatinnen und Kandidaten lernen müssen, um damit zu lehren —, und eine partizipative Aktionsforschungsstudie von 2026 in Kuba prüfte, ob eine einzige Abfolge beidem dienen kann. Vierunddreißig Doktorandinnen und Doktoranden, die zugleich lehren, arbeiteten ein einziges integriertes Modell durch (das Dr.-I.D.E.A.-Modell), in dem Forschungs-, KI-gestützte digitale und kreativ-pädagogische Kompetenzen an derselben authentischen Aufgabe geübt wurden. Alle 34 integrierten GenAI in einen Kurs, 26 hielten eine dokumentierte Neugestaltung mindestens drei Wochen lang durch, und 25 nutzten die KI-gestützte Praxis bei der Nachbefragung weiter.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez und Estrada Molina, 2026]])
 
 Die selbstberichteten Kompetenzzuwächse (d = 1,69 bis 2,10) sind als wahrgenommene Veränderung ohne Vergleichsgruppe zu lesen; der dauerhafte Beitrag ist die Betriebsebene — gemeinsam konstruierte Nutzungskategorien, individuelle KI-Nutzungsprotokolle und verpflichtende Verifikation in indexierten Datenbanken.
-
-## Verbundene Konzepte
-
-- [[academic-integrity]] — Autorschaft, Offenlegung und Fehlverhalten, wenn Text generiert werden kann
-- [[assessment-validity]] — was eine Note, eine Disputation oder eine klinische Prüfung legitim beanspruchen kann
-- [[ai-literacy]] — die Fähigkeit, die postgraduale Programme bei ihren Absolventinnen und Absolventen zertifizieren sollen
-- [[cognitive-offloading]] — Delegation, die Denken unterstützt, gegenüber Delegation, die es ersetzt
-- [[evaluative-judgment]] — die Fähigkeit, die Betreuung aufbauen soll und nun beurteilen muss
-- [[professional-training]] — klinische, juristische und Management-Vorbereitung außerhalb des Seminarraums
-- [[medical-education]] — die größte Quelle für KI-Studien auf postgradualer Ebene
-- [[business-education]] — MBA- und Management-Masterkurse, die die stärksten Experimente liefern
-- [[career-development-and-readiness]] — Beschäftigungsfähigkeit als Entwicklungsprozess, nicht als Stellenvermittlung
-- [[oral-assessment]] — Disputationen, mündliche Prüfungen und mündliche Absicherung als Nachweis individueller Fähigkeit
-
-## Verbundene Artikel
-- [[genai-medical-education-transformation-review-2026]] — 153 Berichte aus medizinischen Studiengängen vom Eintritt bis zur Praxis; 13 mit Follow-up und kein Ergebnis auf Patientenebene
-- [[packard-thinking-partner-framework-adult-learners-2026]] — sokratische Dokumentation in postgradualen Forschungsmethoden; 96% abgeschlossene Checkpoints über sechs Semester
-- [[issa-teamwork-framework-academic-integrity-2024]] — begleitete Teamarbeit in einer postgradualen wirtschaftswissenschaftlichen Lehrveranstaltung; Noten stiegen von 27 auf 31 von 40, Zahlen zu Fehlverhalten fehlen
-- [[genai-dependence-research-creativity-2026]] — 1.157 postgraduale Studierende; funktionale Abhängigkeit weit stärker mit Kreativität verbunden als existenzielle Abhängigkeit
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 US-amerikanische Health-AI-Programme; Ethik in 80,6% gelehrt, Datenherkunft in 22,2%
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — strukturiertes KI-Tutoring brachte 6,63 von 55 Punkten in einem Online-MBA; Sprache und Text waren gleichwertig
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 MBA-Studierende; Beteiligung stieg um etwa 31% erst nach einer zweiten zugewiesenen Übung
-- [[llm-grading-assistants-public-health-2026]] — Master-Essay-Prüfungen mit gewichtetem Kappa 0,718 bewertet, bei 0,625 Übereinstimmung in einer Wiederholung nach fünf Tagen
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 Hochschulstudien, die handlungsfördernde und handlungsuntergrabende Muster kartieren
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 Studien; Lehrende und Studierende stimmen bei der übermäßigen Abhängigkeit überein und sind bei der Integrität gespalten
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 Studien, drei mit bildungsbezogener Evidenz, keine in einem forensischen Unterrichtsraum
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 Masterstudierende; Bereitschaft erreichte Forschungsselbstwirksamkeit über Betreuungsunterstützung (Pfad β = 0,201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Übersicht über 61 Quellen zur Promotionsbetreuung; aufgabenbezogene Ethik, proportionale Offenlegung, Governance an Meilensteinen
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar mit einer Gruppe; selbstgesteuertes Lernen stieg von 80,62 auf 87,38 bei acht zugeordneten Datensätzen
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Postgraduale lagen bei Ethik und Autonomie vor Grundständigen (d = 1,47); Nutzungshäufigkeit sagte keine Kompetenz vorher
-- [[idea-model-doctoral-education-genai-2026]] — Promovierende gestalten ihre eigenen Kurse neu: 76,5 % behielten eine Kursneugestaltung bei, 73,5 % nutzten beim Follow-up weiterhin AI-gestützte Praxis

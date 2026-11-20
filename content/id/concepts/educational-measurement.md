@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -104,7 +106,6 @@ Seleksi butir otomatis dapat memendekkan instrumen tanpa membentuknya ulang: opt
 
 - **Memvalidasi skala untuk konstruk yang spesifik AI.** [[chang-ai-cognitive-offloading-scale-2026|Chang (2026)]] menelusuri urutan untuk [[cognitive-offloading]]: 26 butir kandidat dikurangi menjadi 20 di tiga fungsi (5 memori, 10 asisten, 5 berpikir), dengan Studi 1 pada N = 665 melaporkan KMO = 0.965 dan χ²(325) = 8904.89 sebelum ekstraksi. Studi 2 pada N = 1,123 mencocokkan model orde kedua pada CFI = 0.951, TLI = 0.944, RMSEA = 0.047 dan SRMR = 0.036, dengan CR 0.840–0.906, AVE 0.501–0.570, α = 0.944 dan uji ulang satu bulan 0.937 (n = 99). Invarian skalar penuh lintas gender terpenuhi, dengan ΔCFI ≤ 0.001. Batasannya termasuk dalam uraian yang sama: tidak ada CVI, tidak ada HTMT dan tidak ada korelasi faktor laten yang dilaporkan, sehingga validitas diskriminan dan isi dinyatakan alih-alih dibuktikan. Model tiga faktor orde pertama juga mencatat SRMR = 0.158 berbanding 0.051 untuk model satu faktor, dan beberapa butir mengindeks sikap terhadap ketergantungan alih-alih perilaku.
 
-
 ## Masalah dan keterbatasan: apa yang bisa terlewat atau keliru dalam pengukuran
 
 Pengukuran pendidikan itu ampuh tetapi dapat keliru. Memahami mode kegagalannya penting untuk membaca bukti AI-dalam-pendidikan secara kritis — dan untuk mengenali ketika suatu perolehan pembelajaran atau klaim konstruk yang tampak nyata sebenarnya artefak pengukuran alih-alih efek sungguhan.
@@ -115,7 +116,6 @@ Pengukuran pendidikan itu ampuh tetapi dapat keliru. Memahami mode kegagalannya 
 - **Kesepakatan penilai menetapkan batas atas praktis.** Validasi berskala besar pada [[human-in-the-loop-ai-scoring-national-assessment-2026|*Acredita EB*]] di Uruguay menemukan bahwa kesepakatan penilai manusia itu sendiri menetapkan batas atas praktis bagi penskoran AI: di antara sepuluh ahli yang menilai 50 teks secara independen, tidak ada butir rubrik yang mencapai kesepakatan bulat dengan konsensus, penilai paling divergen biasanya berada di bawah 80% kesepakatan sementara yang terbaik melewati 90%, dan Cohen's Kappa hanya sedikit atau cukup untuk beberapa butir miring yang hampir semua respons memenuhinya. Karena itu para penulis menilai skor otomatis terhadap standar rujukan yang sendirinya tidak sempurna — sepuluh penilai, satu skor operasional untuk sebagian besar respons, dan beberapa butir di zona keberterimaan konvensional 70% — peringatan bagi klaim pengukuran apa pun yang dibangun di atas label operasional penilai tunggal.
 - **Ukuran non-laporan-diri bukanlah ukuran yang benar.** Tinjauan dua fase atas 51 pasangan konstruk-sama menemukan 41.2% mencapai kesimpulan yang diskordan atau campuran, dan berargumen bahwa tes, peringkat, dan jejak bersifat heterogen alih-alih menjadi standar kriteria, masing-masing menuntut argumen validitasnya sendiri ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan dkk. (2026)]]).
 - **Validitas — mengukur hal yang salah.** Validitas menanyakan apakah suatu instrumen mengukur konstruk yang diklaimnya diukur. Kegagalan yang umum meliputi **representasi konstruk yang kurang** (tes literasi AI yang hanya menyampel pengetahuan teknis, melewatkan etika) dan **varians yang tidak relevan dengan konstruk** (butir yang menghargai kelancaran membaca alih-alih keterampilan sasarannya). [[ai-scoring-language-bias-physics|Penskoran AI dan bias bahasa]] menunjukkan bagaimana fitur permukaan — bahasa, diksi, gaya — dapat menggerakkan skor otomatis dengan cara yang tidak terkait konstruk yang dimaksud. [[assessment-validity]] adalah pagar pengaman terhadap ancaman-ancaman ini.
-
 
 - **Skala dapat mengembalikan jumlah faktor yang dimaksud tanpa mengukur konstruk yang dimaksud.** [[ai-empathy-scale-psychometric-evaluation-2026|Kang, Lee dan Kang (2026)]] mempertahankan enam faktor dari skala empati AI 42 butir, tetapi butir-butirnya tidak memulihkan enam subfaktor yang dimaksud — Niat Prososial tidak membentuk faktor — sehingga strukturnya disajikan sebagai sementara.
 - **Celah laporan diri.** Ukuran laporan diri menangkap kompetensi yang *dipersepsikan*, bukan kompetensi aktual. Basis pengetahuan ini berulang kali menunjukkan literasi AI yang dilaporkan sendiri menyimpang tajam dari ukuran berbasis kinerja ([[ai-literacy-assessment-misalignment]], estimasi berlebih sekitar 40% oleh guru) dan bahwa laporan diri gagal memprediksi kinerja berbantuan AI yang nyata ketika tes kinerja berhasil ([[jin-glat-genai-literacy-assessment|GLAT]]). Ukuran yang mengandalkan laporan diri dapat secara sistematis melebih-lebihkan konstruk dan menyembunyikan celah keterampilan yang sebenarnya.
@@ -130,7 +130,6 @@ Pengukuran pendidikan itu ampuh tetapi dapat keliru. Memahami mode kegagalannya 
 
 Singkatnya, pengukuran pendidikan dapat **melewatkan** apa yang tidak disampelnya (proses, ketahanan, akses, afek) dan dapat **keliru** pada apa yang disampelnya dengan buruk (persepsi diri, fitur permukaan, konstruk lintas populasi). Membaca temuan AI-dalam-pendidikan karena itu menuntut bertanya bukan hanya *apa* yang diukur tetapi *bagaimana* — dan apa yang mungkin gagal ditangkap oleh instrumennya.
 
-
 - **Pengodean yang dapat diaudit memisahkan galat definisional dari galat model.** EduBehaviors menguraikan suatu konstruk menjadi perilaku teramati yang dianotasi terpisah plus aturan agregasi eksplisit, sehingga peninjau dapat melihat bukti mana yang menghasilkan suatu label dan menurunkan ulang label setelah perubahan aturan tanpa panggilan model baru; ia mencapai makro-F1 0.673 pada Teacher TalkMoves, bersaing dengan [[llm|LLM]] yang diprompt langsung ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado dkk., 2026]]).
 
 ## Koneksi
@@ -143,72 +142,3 @@ Pengukuran pendidikan adalah fondasi bagi [[item-response-theory]], [[assessment
 - **"Model dapat mengestimasi kesulitan butir."** Empat model terdepan diskor terhadap **kebenaran dasar IRT pada 2,548 butir matematika**: model-model itu mencapai **68.6% pada kesulitan relatif** tetapi jatuh **di bawah tingkat kebetulan** pada kalibrasi absolut. Pemeringkatan dan kalibrasi adalah kemampuan yang terpisah, dan yang kedua itulah yang dibutuhkan desain penilaian.
 - **"Label taksonomi memprediksi seberapa sulit suatu butir."** Pada **265 butir matematika**, tingkat Bloom yang dimaksudkan menjelaskan **kurang dari 5% varians kesulitan**. Melabeli butir menurut tingkat Bloom hampir tidak memberi tahu apa pun tentang kesulitan empirisnya.
 - **"Kualitas butir dinilai dari redaksinya."** **Nilai butir yang dihasilkan dari jalur penyelesaiannya, bukan dari redaksinya**: mengodekan **pohon penalaran terverifikasi** setiap butir mengangkat kinerja di atas metode terbaik kedua dengan selisih tertentu. Struktur penalaranlah yang membawa sinyalnya, bukan teks permukaan.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## Artikel terkait
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kerangka Human-in-the-Loop untuk Penskoran Berbantuan AI dalam Penilaian Menulis Skala Besar
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — Pemodelan Kausal Intervensi Dukungan untuk Penilaian Kompetensi Siswa
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski dkk. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: tes literasi GenAI tervalidasi IRT (Jin dkk. 2025)
-- [[icap-cognitive-engagement-llm-agents]] — Mengukur keterlibatan kognitif dengan kerangka ICAP yang diperluas
-- [[roe-assessment-twins-2026]] — Kembar penilaian untuk memperkuat validitas penilaian di era GenAI
-- [[ai-literacy-heptagon-2026]] — Heptagon Literasi AI
-- [[ai-literacy-assessment-misalignment]] — Ketidakselarasan literasi AI laporan diri vs kinerja
-- [[teacher-education-ai-literacy-sdt-2026]] — Literasi AI guru melalui teori determinasi diri
-- [[acceptance-ai-english-tools-2026]] — Ukuran penerimaan AI untuk alat pembelajaran bahasa Inggris
-- [[llm-difficulty-calibration-programming-exams-2026]] — Dari model yang dievaluasi ke bantuan evaluasi
-- [[llm-item-difficulty-prediction]] — Evaluasi kognitif atas prediksi kesulitan butir oleh LLM
-- [[multimodal-item-parameter-estimation-2026]] — Estimasi parameter butir multimodal
-- [[ai-scoring-language-bias-physics]] — Penskoran AI dan bias bahasa dalam fisika
-- [[ai-writes-code-student-writes-model-2026]] — Kepengarangan model: teori & pengukuran untuk belajar-dengan-membangun bersama GenAI
-- [[assessing-student-drive-framework-2025]] — DRIVE: menilai pembelajaran melalui interaksi GenAI (DRI + Keahlian Terlihat)
-- [[xiong-ai-educational-measurement-review-2026]] — Tinjauan tematik satu dekade AI dalam pengukuran pendidikan
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Kuesioner tentang penggunaan AI generatif oleh guru (Pérez-Montesdeoca dkk. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — Pencarian arsitektur kognitif neural personalisasi AutoML untuk profil pembelajar
-- [[razavi-powers-item-difficulty-llm-2026]] — Mengestimasi kesulitan butir menggunakan LLM dan ML berbasis pohon
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Validasi EFA/CFA belah-dua dengan pemeriksaan invariansi, HTMT, dan DIF, termasuk catatan jujur tentang tumpang tindih konstruk keceriaan-niat
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Penilaian Kualitas Butir Matematika Berbasis Proses
-- [[competent-generative-ai-use-measures-review-2026]] — Melampaui Literasi AI: Tinjauan Terstruktur dan Meta-Analisis Eksploratori atas Ukuran Penggunaan AI Generatif yang Kompeten
-- [[bayesian-consensus-irt-item-banks-2026]] — Kalibrasi konsensus Bayesian: rekalibrasi bagi-dan-taklukkan atas bank butir IRT yang terus berkembang (Jewsbury dkk. 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Membatasi klaim pembelajaran dari uji coba tutoring AI di El Salvador (Restrepo Morales dkk. 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Kapan Harus Percaya: keyakinan diri model, penskoran probabilistik, dan ensembel sebagai tuas reliabilitas penskoran
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Kuesioner penilaian diri 15 butir yang tervalidasi untuk literasi AI sekolah dasar atas (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Penilaian sistematis atas 33 instrumen literasi AI guru lintas domain kualitas bergaya COSMIN (Zainal dkk. 2026)
-- [[mental-health-literacy-students-llms-2026]] — Literasi Kesehatan Mental pada Mahasiswa Psikologi dan Model Bahasa Besar
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh Siswa dan Batas Kesulitan Pertanyaan yang Dihasilkan AI di Mata Kuliah Sains Data
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Skema Berbasis Asersi untuk Pengodean Dialog Pendidikan yang Dapat Diaudit
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Skala empati AI 42 butir yang enam faktornya tidak memulihkan enam subfaktor yang dimaksud
-- [[genai-srl-l2-writing-scale-2026]] — Skala GenAI-SRL enam dimensi untuk penulisan L2; bentuk pendek 12 butir teroptimasi koloni semut mengikuti skala penuh (r = 0.910–0.944) tetapi mempersempit cakupan isi
-- [[bloom-taxonomy-llm-item-classification-2026]] — Apakah Klasifikasi Kognitif Memprediksi Perilaku Butir Empiris? Menyelaraskan Taksonomi Bloom dengan Sifat Psikometrik Butir Matematika Terpusat Nasional lintas Kelas 4–12
-- [[llm-benchmark-secondary-science-topics-2026]] — Kualitas pengukuran sebuah tolok ukur sintetis bergantung pada alur pembangkitannya
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Kesulitan tanpa daya diskriminasi
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Pasangan konstruk-sama tidak sepakat pada 41.2% kasus, dan ukuran kinerja menuntut argumen validitasnya sendiri (Fan dkk. 2026)
-
-- [[chang-ai-cognitive-offloading-scale-2026]] — Validasi Skala Pengalihan Beban Kognitif AI, beserta pemeriksaan validitas yang tidak dilaporkannya
-

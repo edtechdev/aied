@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -85,56 +87,8 @@ AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요�
 
 **피드백 리터러시는 사람 원천뿐 아니라 기계 원천도 포괄해야 합니다.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 등(2026)]]은 학생들에게 같은 초안에 대한 또래 피드백과 챗봇 피드백을 같은 성찰 안에서 평가하게 하여, 비교 자체를 학습 과제로 만듭니다. 그들의 학생들은 교수자의 권위에 비해 챗봇의 권위를 낮추어 평가했고, 저자들은 그 낮춤을 주저가 아니라 리터러시로 읽습니다.
 
-
 ## 흔한 오해
 
 - **"AI 피드백은 비판적 사고를 직접 개선한다."** **중국 학부생 421명**에서 생성형 AI 사용과 [[self-report-measures|자기보고식]] 비판적 사고의 연관성은 **피드백 리터러시를 통해** 나타났습니다. 리터러시가 매개자이므로, 그것을 읽어 낼 역량을 기르지 않은 채 AI 피드백을 더하는 개입은 잘못된 항을 다루는 셈입니다.
 - **"리터러시는 결과가 아니라 전제 조건이다."** **중국 학부생 399명**을 대상으로 한 3차 웨이브 확률절편 패널 연구에서 AI 피드백 리터러시는 **이후의** 주체적 관여를 예측했습니다(**β = 0.222**). 즉 이 순환은 양방향으로 작동합니다. 한 번 통과하면 되는 관문이 아니라 역동적인 역량입니다.
 - **"행동 가능성이 피드백으로 하여금 글을 바꾸게 하는 요인이다."** **각 48명인 두 학급**에서 세 차례의 쓰기-피드백-수정 순환을 거친 결과, 수정의 이득을 지고 간 차원은 **이해**였습니다. 학생이 해독할 수 없는 피드백은 더 행동 가능하게 만든다고 해서 개선되지 않습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 이 순서들이 작업 흐름에 내장하는 비판적 검토 단계
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[reflection]]
-
-## 연결된 문서
-
-- [[ai-peer-feedback-stem-teacher-education-2026]] — 수용은 있으나 결과물 개선은 없음: 피드백 번역 격차 (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 교수자의 틀 없는 AI 피드백이 피드백 리터러시의 기준을 높인다 (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — 피드백 리터러시가 AI 피드백 → 자기조절 학습을 조절한다 (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 피드백 리터러시가 AI 기반 글쓰기의 에세이 성적을 예측한다 (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI 피드백 리터러시 척도와 수용 예측 (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — 피드백 관여를 가능하게 하는 것으로서의 생성형 AI 틀 (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — AI 지원 글쓰기를 위한 피드백 리터러시 스크립트와 보정 훈련 (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — EAP 쓰기 수정에서의 피드백 리터러시 스크립트 + 두 번째 평가자 (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — 피드백 리터러시를 기르는 AI 자동화 피드백 도구 (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — 피드백 리터러시를 훈련하기 위해 생성형 AI를 EFL 동료 피드백에 배치하기 (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — 자기조절적 피드백의 스캐폴딩: 생성형 AI 대 인간 동료 (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — 피드백, 피드백 리터러시 관점에서 본 생성형 AI 학습 분석 (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 생성형 AI 평가가 심리, 피드백, AI 리터러시를 기른다 (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — 학습자 중심의 AI 피드백에 대한 교수자의 실행과 인식
-- [[care-full-feedback-genai]] — 생성형 AI를 활용한 케어풀 피드백 설계
-- [[ai-generated-feedback-higher-ed]] — 고등 교육에서의 AI 생성 피드백
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI가 학생, 교수자, 동료, 자료의 관계를 피드백 생태계 안에서 재편한다 (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — 글쓰기에서의 AI 피드백과 비판적 사고
-- [[repeated-ai-writing-feedback-semester]] — 한 학기에 걸친 반복적 AI 쓰기 피드백
-- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
-- [[genai-use-critical-thinking-moderation-2026]] — 생성형 AI 사용에서 비판적 사고로 가는 경로가 생성형 AI 피드백 리터러시를 거치며 성찰적 사고와 함께 강화된다
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 피드백 리터러시와 주체적 관여: 3차 웨이브 확률절편 패널(Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — 루브릭 등급 작업 표본을 생성하여 피드백 리터러시 가르치기(Pennington & Hock 2026)
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 수정의 이득을 지고 간 것은 행동 가능성이 아니라 이해
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 하나의 성찰 과제 안에서 같은 초안에 대한 또래 피드백과 챗봇 피드백 평가하기

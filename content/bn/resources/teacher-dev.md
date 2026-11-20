@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -47,6 +48,3 @@ K-12 শিক্ষক, যাঁরা একটি নির্দিষ্�
 ## টীকা ও সতর্কতা
 
 গতিই একইসঙ্গে প্রস্তাব ও ঝুঁকি। এক-দিনের বিল্ড একটি বাস্তব শ্রেণিকক্ষ-সমস্যাকে লক্ষ্য করে, গবেষণা-প্রশ্নকে নয়, তাই এখানে কোনো কিছুর সঙ্গে মূল্যায়ন নেই, আর একটি অ্যাপ কী করে সেই দাবি শ্রেণিকক্ষে পরীক্ষা করা উচিত। GitHub সংস্থায় 32টি প্রকাশ্য রিপোজিটরি আছে, গ্যালারিতে তালিকাভুক্ত 34টি, সবগুলো Apache-2.0, সোর্স সহজলভ্য, তাই একটি অ্যাপ পড়া যায় ও স্ব-হোস্ট করা যায়। লোকাল-ফার্স্ট নকশা প্রতিটি অ্যাপে যাচাই করার দাবি, আর শিক্ষককে কোনো শিক্ষার্থী-মুখী সরঞ্জাম ক্লাসের সামনে রাখার আগে তা নিশ্চিত করা উচিত।
-
-## সংযুক্ত ধারণা
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

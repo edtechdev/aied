@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -41,7 +42,3 @@ Odlišujícím tvrzením projektu je jeho zakotvení v důkazech: dovednosti cit
 ## Poznámky a upozornění
 
 Vzdělávací dovednosti, dokumentace a kurikulární materiály jsou licencovány CC BY-SA 4.0, takže opětovné použití a úpravy jsou otevřené, ale odvozená díla musí nést stejnou licenci. Pokud jej nasadíte, záleží na dvou provozních detailech. Hostovaný koncový bod MCP vyžaduje tokeny, není otevřený komukoli, a protože server obsluhuje potvrzený snímek, nikoli soubory SKILL.md, dovednost, kterou přidáte bez nového sestavení a potvrzení balíku, se na živém serveru neobjeví ani po novém nasazení. Knihovnu staví Gareth Manning, vzdělavatel a návrhář kurikula, a licenční podmínky se vztahují konkrétně na vzdělávací obsah.
-
-## Související pojmy
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

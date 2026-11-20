@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -60,7 +62,6 @@ VET-এ এআই-এর স্বতন্ত্র বৈশিষ্ট্য
 
 - **অনুভূত সমর্থন একটি প্রাতিষ্ঠানিক লিভার, শিক্ষার্থীর ঘাটতি নয়।** চীনের ছয়টি উচ্চ বৃত্তিমূলক কলেজের 784 জন শিক্ষার্থীর মধ্যে [[huang-ai-literacy-vocational-problem-solving-2026|Huang প্রমুখ (2026)]] দেখেন [[ai-literacy|এআই সাক্ষরতার]] সঙ্গে স্ব-প্রতিবেদিত [[problem-solving|জটিল সমস্যা সমাধানের]] সম্পর্ক (মোট 0.480) অনুভূত বিদ্যালয়-ICT সমর্থনের সঙ্গে শক্তিশালী হয়: শর্তসাপেক্ষ পরোক্ষ প্রভাব 0.117 থেকে 0.176 এবং 0.038 থেকে 0.127-এ উঠেছে।
 
-
 - **পাঠ্যক্রম নবায়ন একটি চলমান দায়, পর্যায়ক্রমিক পর্যালোচনা নয়।** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] পাঁচটি পরস্পরক্রিয়াশীল নবায়ন-মাত্রা চিহ্নিত করেন — পেশাগত রূপান্তর, পাঠ্যক্রমের সাময়িকতা, প্রশিক্ষক-সক্ষমতার সমন্বয়, কর্মসূচি-স্থাপত্য ও বাহ্যিক সমন্বয় — এবং একটি কোর্স রাখা হবে, সংশোধিত হবে, সংযুক্ত হবে, প্রতিস্থাপিত হবে নাকি বাতিল হবে তা ঠিক করার ছয়টি নেতৃত্ব-পরীক্ষা।
 
 ## সাধারণ ভুল ধারণা
@@ -89,29 +90,3 @@ VET-এ এআই-এর স্বতন্ত্র বৈশিষ্ট্য
 **গবেষকদের জন্য**
 
 - অন্তত কিছু গবেষণা কর্মক্ষেত্রে চালান। যে খাত কর্ম-ভিত্তিক শিখন দ্বারা সংজ্ঞায়িত অথচ তার প্রমাণভিত্তিতে কোনো কর্মক্ষেত্র-গবেষণা নেই, সে এখনও তার কেন্দ্রীয় দাবিটি পরীক্ষা করেনি।
-
-## সংযুক্ত ধারণা
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — অভিযোজিত CTE পাঠ্যক্রম-নবায়ন, পাঁচ মাত্রা ও ছয় নেতৃত্ব-পরীক্ষা
-- [[ai-vocational-education-training-review]] — VET-এ এআই নিয়ে প্রথম নিয়মতান্ত্রিক পর্যালোচনা: উদ্দেশ্য, তত্ত্ব ও পরীক্ষামূলক কার্যকারিতা
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: নিমজ্জিত প্রকল্প-ভিত্তিক শিখন ও নকশা-সৃজনশীলতা
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: TVET-এ অফলাইন এআই-সহায়ক মৌখিক মূল্যায়ন
-- [[ai-pedagogical-accompaniment-amico]] — Amico দ্বৈত-মোড প্রোটোটাইপ: নকশা-নীতি ও পর্যবেক্ষণযোগ্য সূচক
-- [[ai-autonomous-learning-accomplishment-2026]] — এআই-সহায়ক স্বায়ত্তশাসিত শিখন ও হ্রাসকৃত অর্জন, দৃঢ়তা দ্বারা মধ্যস্থ
-- [[astra-atco-training-simulator]] — স্কেলযোগ্য ATCO প্রশিক্ষণের জন্য স্বায়ত্তশাসিত সিম-পাইলট
-- [[crewscaler-ai-upskilling-framework]] — দ্রুত পেশাগত দক্ষতা-উন্নয়নের জন্য এআই-ত্বরিত প্রান্ত-থেকে-প্রান্ত কাঠামো
-- [[genai-xr-architectural-design-education-2026]] — পাল্টা-উদাহরণ: GenAI প্লাস বহু-ব্যবহারকারী XR, হ্রাসমান নকশা-স্ব-কার্যকারিতাসহ
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — বৃত্তিমূলক কলেজে অনুভূত ICT সমর্থন একটি প্রাতিষ্ঠানিক লিভার হিসেবে

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -94,25 +96,3 @@ Der Behaviorismus tritt auch darin auf, wie Lernende KI als Thema begegnen. Die 
 **„Behavioristische Designs sind konstruktivistischen einfach unterlegen.“** Sie passen gut zu bestimmten Zielen — Flüssigkeit, Faktenabruf, prozedurale Automatizität —, wo sofortiges Feedback und Wiederholung wirklich das sind, was die Aufgabe verlangt. Der Fehler ist nicht der Mechanismus; es ist die Verwendung eines Mechanismus, dessen Gültigkeitsbedingung (die lernende Person muss die Reaktion erzeugen) stillschweigend nicht mehr gilt.
 
 **„Weil die Theorie diskreditiert ist, lassen sich auf ihr gebaute Systeme allein an Ergebnissen beurteilen.“** Ergebnisse sind genau das, was Output-Äquivalenz verfälscht. Ein System kann hervorragende behaviorale Ergebnisse berichten, während das Lernen woandershin gewandert ist, sodass behavioristisch beeinflusste Systeme das ungestützte Maß mehr brauchen als jedes andere.
-
-## Verbundene Konzepte
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Kognitivismus, der dritte klassische Pol der Lerntheorie
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Verbundene Artikel
-
-- [[ai-vocational-education-training-review]] — Behavioristische KI-Designs dominieren die VET-Praxis trotz vertretenem Konstruktivismus; die „Turing-Falle"
-- [[generativism-learning-theory]] — Behaviorismus unter den vier dominanten Theorien, die generative KI zum Überdenken anregt
-- [[ccct-cooperative-learning-technique]] — Behaviorismus, zitiert im Design kooperativen Lernens für die Hochschulbildung
-- [[wang-multi-agent-systems-learning-designers-2025]] — Behavioristische Persona unter kollaborativen Multi-Agenten-Designansätzen
-- [[sequenced-ai-feedback-learning]] — Sequenziertes Hinweis-Feedback schnitt in einem randomisierten Experiment mit 199 Teilnehmenden schlechter ab als sofortiges Feedback mit der vollständigen Lösung

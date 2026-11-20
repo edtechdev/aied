@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -125,51 +127,3 @@ Essas disciplinas sub-representadas se beneficiariam de páginas de conceito ded
 - **"A disciplina importa principalmente para os exemplos de conteúdo."** Pesquisa com **560 estudantes** constatou que a filiação disciplinar **prediz com que frequência e abertamente os estudantes usam** a [[generative-ai|IA generativa]]. A disciplina molda se a ferramenta é usada e se esse uso é divulgado, e não apenas sobre o que se pergunta a ela.
 - **"A interdisciplinaridade é um objetivo institucional genérico."** A **forma do "interdisciplinar" é ela mesma determinada pela disciplina**: a [[meta-analysis-systematic-review|revisão]] de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] constata que a forma que ela assume varia por campo. Uma única definição institucional lê mal pelo menos algumas das disciplinas que cobre.
 - **"A educação vocacional tem uma base de pesquisa comparável à das disciplinas acadêmicas."** A vertente vocacional é **a mais fina dessa evidência**: uma revisão sistemática de **26 estudos** em educação e formação vocacional não encontrou **nenhum conduzido em contextos de local de trabalho** — os contextos onde a competência é de fato exercida. A ausência na literatura é uma lacuna, e não um resultado nulo.
-
-## Conceitos conectados
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Artigos conectados
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Revisão sistemática da IA no ensino superior interdisciplinar (59 estudos)
-- [[llms-text-linguistics-teaching-2026]] — LLMs no ensino de linguística textual
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizando princípios de aprendizagem com IA na educação das profissões de saúde
-- [[designing-ai-professional-development-itpack-2026]] — Desenvolvimento profissional em IA baseado em TPACK inteligente
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK específico de GenAI na formação de professores
-- [[human-centered-ai-teacher-educators-2026]] — Aprendizagem profissional de letramento crítico em IA para formadores de professores
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Cognição interpretativa na educação em humanidades e ciências sociais
-- [[becker-chatgpt-typology-physics-2026]] — Tipologia de uso do ChatGPT na educação em física
-- [[code-review-genai-cs1]] — Revisão de código com GenAI em CS1
-- [[ai-writing-support-stage-ownership-2026]] — Apoio de escrita com IA e titularidade por etapa
-- [[ai-engineering-education-balancing-act]] — O ato de equilibrar a IA na educação em engenharia
-- [[ai-literacy-career-adaptability-business-2026]] — Letramento em IA e adaptabilidade profissional na educação em negócios
-- [[jiang-genai-activity-theory-disciplines-2026]] — Teoria da atividade: diferenças disciplinares no uso e na divulgação de GenAI (560 estudantes)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulação com IA na educação em enfermagem: ganhos de conhecimento e confiança, efeitos inconsistentes sobre habilidade psicomotora
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — A GenAI como andaimento ou atalho na aprendizagem de TI de pós-graduação
-- [[ai-vocational-education-training-review]] — Primeira revisão sistemática da IA na educação e formação vocacional
-- [[genai-architectural-design-studios]] — Modelos generativos no estúdio de desenho: estímulo, expansão do espaço de soluções e fixação
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Regras de parada por domínio que certificam uma regra generalizada demais como competência
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 professores universitários de educação física: a disciplinaridade corporificada como barreira e o equipamento de IA alocado a equipes de elite (Yang, Chen & Rao, 2026)

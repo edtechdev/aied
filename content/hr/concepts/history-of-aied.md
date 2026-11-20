@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -97,29 +99,3 @@ Dolazak [[generative-ai|generativne umjetne inteligencije]] — široke obitelji
 
 - Rabite povijesne korpuse kao osnovu, umjesto da sadašnjost tretirate kao jedinu dostupnu usporedbu. Zbornici AIED za 1985., 1993., 2021. i 2024. te IJAIED za 2004., 2014. i 2021. gotov su longitudinalni uzorak tvrdnji samog područja.
 - Citirajte lozu kada tvrdite novost. Tvrdnja da sustav „personalizira učenje“ ili „modelira učenika“ nova je samo u odnosu na određenu prethodnu tradiciju, a tradicija je dokumentirana.
-
-## Povezani koncepti
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Povezani članci
-
-- [[mishra-control-vs-agency-history-2025]] — Kontrola nasuprot djelotvornosti: istraživanje povijesti umjetne inteligencije u obrazovanju
-- [[prezenski-human-centered-ai-aided-learning]] — Učenje potpomognuto umjetnom inteligencijom usmjerenom na čovjeka (nastavlja Andersonovu baštinu)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitivni zajednički fond i UI stručnost (povijesno uokvirivanje)
-- [[programming-its]] — Programiranje inteligentnih tutorskih sustava
-- [[lak2026-hint-button-unproductive-use]] — Ponovno razmatranje gumba za savjete u kognitivnim tutorima
-- [[socrates-students-instructors-llms-lbt-2025]] — Učenje poučavanjem s LLM-ovima (Papertova konstrukcionistička loza)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Pedeset godina tema časopisa Computers & Education: zastupljenost umjetne inteligencije okrenula se prema gore nakon 2018., četiri godine prije ChatGPT-a

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -118,68 +120,3 @@ AI 지원 협력 작업에 대해 현재 이용 가능한 유일한 메타분석
 - **"집단에 AI를 주면 협력이 더 늘어납니다."** **18개 연구**에 대한 범위 검토는 모둠 활동에 걸친 하나의 상충 관계를 지도로 그립니다. 생성형 AI는 **지식 발전, 아이디어 생성, 의사소통 효율성**을 지원하는 동시에 같은 개입들 안에서 관계적 비용도 지녔습니다. 효율성 이득과 관계적 비용은 함께 옵니다.
 - **"AI 지원 협력 학습에는 메타분석적 뒷받침이 있습니다."** AI 지원 협력 작업에 대해 이용 가능한 **유일한** 메타분석 대비는 직접 추정된 것이 아니라 생성형 AI 지원 PBL/PjBL 개입 **안에** 존재하므로, 협력의 측정이 아니라 더 넓은 효과의 한 구성요소입니다.
 - **"LLM 파트너는 집단 자체의 추론을 보존합니다."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash와 Connell Pensky (2025)]]는 보존이 가정이 아니라 열린 질문이기 때문에, 사회과학 입문 학생을 대상으로 교실 규모에서 그것을 시험했습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 스크립트화된 공유-AI 협력과 그 검증된 역할 설계
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[group-work]] — 모둠 활동
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — 상위 개념: AI 교육에서의 교수법과 교수 전략
-
-## 연결된 문서
-
-- [[lin-ai-peer-collaborative-mathematics-2026]] — LLM 에이전트가 또래로 읽히게 하는 것: 안전성, 잠정적 추론, 적절한 불완전성
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30인 전문가 합의가 일방적인 사회적 위험을 발견: 향상 경로 없이 취약한 협력 과정
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 생성형 AI 지원 교육을 위한 유망한 틀으로서의 문제 기반 및 프로젝트 기반 학습: 체계적 검토와 삼단계 메타분석의 새로운 증거
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 암묵적 인간-AI 협력에서 드러나는 학습자 주체성: 지지적 대 반대적 페르소나
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: 짝 프로그래밍을 위한 능동적 AI 적응형 협력 튜터
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: 학생 프로젝트 팀에서의 AI 학제적 매개
-- [[academic-league-of-ai-2026]] — Academic League of AI: 협력적이고 프로젝트 기반인 AI 교육
-- [[icap-cognitive-engagement-llm-agents]] — 협력적 대화 참여 측정을 위한 확장된 ICAP 프레임워크
-- [[llm-facilitation-timing-online-discussions]] — 온라인 협력 토론에서의 LLM 촉진 시점
-- [[ba-ai-agents-cscl-review-2026]] — 컴퓨터 지원 협력 학습에서의 AI 에이전트 검토
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — 생성형 AI와 학생 모둠 활동: 범위 검토(Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 다중 에이전트 튜터링과 참여 균형 협력을 위한 ASTRA 합성 벤치마크
-- [[xu-genai-collaborative-space-2026]] — 소집단 역학에서 에이전트이자 협력 공간인 생성형 AI(Xu et al. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 온라인 토론 포럼에서 AI 생성 요약 기반 학습 설계
-- [[chen-zou-genai-group-assessment-agency-2026]] — 학생 집단에서 조정 기반 시설인 생성형 AI: 강화되고, 억제되고, 실행되지 않은 사용
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: 역할극과 토론으로 집단 기반 윤리 교육을 촉진하여 윤리적 성찰과 탐구를 이끌기
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 사회 지향적 AI 협력 연구는 1,048편의 출판물에서 지배적 주제가 된 적이 없다
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 집단의 인식론적 구성이 AI의 자리를 정했다: 다양한 선개념 집단에서는 통합 허브, 유사 집단에서는 선형 질의 후 처리 경로, 동일한 선행 지식에서 (Wang 등 2026)
-- [[bjet-many-hands-make-light-work-2026]] — 다중 에이전트 시스템과 함께한 짝이 최고의 프로젝트를 산출한 반면, 개인 작업이 가장 큰 비판적 사고 향상을 냈다
-- [[nixon-social-cost-ai-teammate-2026]] — 관계적 비용의 무작위 검증: AI가 팀에 합류하면 또래 응답성과 소속감이 떨어진다(Nixon et al. 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — 과정 중심 협력 에세이: 반복과 협력에 점수를 매기며, 경계 안에서 생성형 AI를 허용(Alam & Jackson 2026)
-

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -44,7 +45,3 @@ Lærere og [[learning-design|undervisningsdesignere]] i K-12 og videregående ud
 ## Noter og forbehold
 
 Centeret er vejledning, ikke et compliance-produkt: sitet fremsætter ingen overensstemmelsespåstand for sit eget WCAG 2.2 AA-mål, svarer nej på »gør brugen af disse filer mit site compliant?« og siger, at en ingeniørgennemgang ikke erstatter skoleautorisation eller juridisk gennemgang. Sikkerhedshylden peger på axe-core, Gitleaks, ZAP og Playwright; de er referencer frem for medfølgende software, og de invasive er beregnet til et engangsmål eller et udtrykkeligt autoriseret mål. Læsning kræver ingen konto. Genopbygning af HTML-siderne kræver Python og `markdown-it-py`, hvilket er en buildafhængighed og ikke en besøgsafhængighed. Repositoriet er MIT-licenseret, mens tredjeparts artwork og de linkede projekter beholder deres egne vilkår, dokumenteret i `CREDITS.md`.
-
-## Relaterede begreper
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -41,11 +42,3 @@ Les den som en samling prosjektberetninger, ikke som en evaluering. Boken går i
 ## Merknader og forbehold
 
 Kapittellisensiering er fellen. Samlingen er CC BY 4.0, men enkeltforfattere beholder opphavsretten og valgte egne Creative Commons-lisenser, så et kapittel kan være mer restriktivt enn boksiden antyder; kapittelet om lærebokrevisjon er CC BY-NC-SA 4.0, og gjenbruk må sjekke kapittelet snarere enn frontstoffet. Forfatterne hadde ingen påkrevd prosedyre for AI-åpenhet, så de fleste kapitler omtaler prosessen i forbifarten, stort sett etter veiledningen fra OER Commons. Etter redaksjonelt valg beholder hvert kapittel forfatterens faglige stemme, tegnsetting og regionale skrivemåte, så prosaen leses ikke enhetlig. Framfor alt dokumenterer hvert kapittel ett lokalt prosjekt, og ingen to deler instrument eller sammenligning, så boken tilbyr praksis å tilpasse snarere enn evidens å sitere.
-
-## Tilknyttede begreper
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

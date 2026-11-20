@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -68,26 +70,3 @@ Karma yöntemler, [[quantitative-research|quantitative]] ve [[qualitative-resear
 - **“Karma yöntemler YZ eğitimi araştırmasında niş bir seçimdir.”** **394 GenAI yükseköğretim çalışması** genelinde karma yöntemler **en yaygın araştırma tasarımıydı (213 çalışma, %54)**; onu nicel (109, %28) ve nitel (72, %18) izledi. Alanın baskın tasarımı, yöntemsel tartışmalarının varsaydığı tasarım değildir.
 - **“Gözlem ve görüşme kanıtı bir sistem iddiasını taşıyabilir.”** Sistem gözlemini ve [[administrator|yönetici]] görüşmelerini, **sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle** ve **0,05 standart sapmalık** etkileri tespit etmeye güçlendirilmiş biçimde eşlemek, nitel ipliğin tek başına yapamadığını gösterir: küçük bir etkiyi güvenilir biçimde tespit etmek. Yöntemleri karıştırmak, iplikler arasında güç aktarmanın bir yolu değildir.
 - **“Üçgenleme, iki zayıf yöntemin güçlü bir iddia üretmesi demektir.”** Eşlemenin değeri, her ipliğin farklı bir soruyu yanıtlamasıdır. İkisini de yürütüp ardından nitel bulguyu nicel olanın onayı olarak raporlayan bir tasarım üçgenleme yapmamış, aynı şeyi yeniden söylemiştir.
-
-## Bağlı kavramlar
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Bağlı makaleler
-
-- [[genai-over-reliance-learning-2026]] — Geliştirmeden aşırı bağımlılığa (anketler + görüşmeler)
-- [[t2i-competence-paradox-2026]] — Yetkinlik paradoksu (odak gruplar + anket + görüşmeler)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Güven–fayda boşluğu (anket + görüşmeler)
-- [[same-ai-different-pathways]] — Bağlamlar arasında YZ aracılı öğrenmenin mekanizmaları
-- [[genai-feedback-design-multisite-experiment]] — İnsan merkezli Üretken YZ geri bildirim tasarımı (çok merkezli)
-- [[hazra-safetutors-pedagogical-safety-2026]] — YZ eğitmen güvenliği ve pedagojik zararlar
-- [[becker-chatgpt-typology-physics-2026]] — Fizikte ChatGPT benimsemesinin nitel bir tipolojisi
-- [[edtech-privacy-deferral-2026]] — "Sonra Düzeltiriz": Eğitim, YZ ve EdTech’te Öğrenci Mahremiyetinin Ertelenmesi
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER ile ince ayarlı bir RoBERTa aynı Bluesky gönderisine karşıt değerlik atadı (Geraili Meykola ve ark., 2026)

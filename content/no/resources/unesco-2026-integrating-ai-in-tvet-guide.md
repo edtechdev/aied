@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -41,12 +42,3 @@ Ledere ved TVET-institusjoner som avgjør hva som skal gjøres først, lærere o
 ## Merknader og forbehold
 
 Det er veiledning, ikke evaluering. Veiledningen rapporterer ingen utfallsdata, og de institusjonelle eksemplene – en innholdsintegrert AI-læringsmodell ved College of the North Atlantic i Canada og Kenyas standard for industriell praksis i TVET fra 2023 – er beskrivende casebokser hentet fra prosjektrapporter, ikke uavhengige forsøk. Vedleggene kaller seg indikative; modenhetsskalaen er et diskusjonshjelpemiddel, ikke et måleinstrument. Sikkerhetskritiske og regulerte yrker får et kapittel, men det argumenterer et standpunkt om menneskelig overoppsyn snarere enn å tilby detaljer på reguleringsnivå. Lisensen CC BY-SA 3.0 IGO tillater tilpasning og republisering med navngivelse og del-på-samme-vilkår.
-
-## Tilknyttede begreper
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

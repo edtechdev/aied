@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -88,40 +90,3 @@ ai_assist:
 - **"छात्रों को विचलित करना रचनात्मक लाभ देता है।"** **घर्षण रचनात्मक लाभ नहीं है।** विरोधाभासी एआई व्यक्तित्वों ने **38.2% समूहों** में चुनौती-और-चिंतन प्रवचन पैदा किया, फिर भी **कोई मापनीय रचनात्मक-प्रदर्शन सुधार** नहीं हुआ। प्रवचन बदला और मापा गया परिणाम नहीं।
 - **"K-12 साहित्य सिद्ध करता है कि GenAI रचनात्मकता सुधारती है।"** **45 अध्ययनों (2017-2025)** की PRISMA-निर्देशित स्कोपिंग समीक्षा दिखाती है कि GenAI मुख्यतः रचनात्मकता को **बढ़ाती** है और उसे **शायद ही मापती** है। क्षेत्र का प्रमुख निष्कर्ष अनुमानित संवर्धन से निकला अनुमान है, जो परिणाम-माप नहीं है।
 - **"GenAI पर अधिक निर्भरता का अर्थ अधिक रचनात्मक उत्पादन है।"** **1,157 चीनी स्नातकोत्तर छात्रों** में GenAI पर निर्भरता **स्व-रिपोर्टित अनुसंधान रचनात्मकता** के साथ धनात्मक रूप से संबद्ध थी, और यह संबंध **स्व-रिपोर्ट** से है, जो संरचना का सबसे कमज़ोर उपलब्ध माप है।
-
-## संबंधित अवधारणाएँ
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## संबंधित लेख
-- [[wei-genai-configurations-creative-phases-2026]] — रचनात्मक चरणों में जनरेटिव AI विन्यास: कला और डिज़ाइन शिक्षा में रचनात्मक प्रदर्शन और तात्कालिक ज्ञान पर 2 × 2 प्रयोग
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI छवि-निर्माण ने डिज़ाइन प्रदर्शन को अपरिवर्तित छोड़ा लेकिन सामान्य रचनात्मक स्व-प्रभावशीलता घटाई
-- [[bicer-genai-pd-math-creativity-2026]] — जनरेटिव AI निर्देशित पेशेवर विकास शिक्षकों के गणितीय रचनात्मकता, सामग्री ज्ञान और शैक्षणिक सामग्री ज्ञान के साथ तत्परता का समर्थन कैसे करता है
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — साहित्यिक रचना के लिए सूत्र-आधारित स्कैफ़ोल्डिंग: विषय और पाठ के बीच की एकक के रूप में परिचलित, केवल योजना में मान्य (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — निहित मानव-AI सहयोग में उभरती सीखने वाली की सक्रियता: सहायक बनाम विरोधी व्यक्तित्व
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT और समालोचनात्मक व रचनात्मक सोच: व्यवस्थित समीक्षा
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — रोबोट-LLM एकीकरण और रचनात्मक लेखन
-- [[t2i-competence-paradox-2026]] — कला और डिज़ाइन छात्रों में टेक्स्ट-टू-इमेज AI का सामर्थ्य-विरोधाभास
-- [[mujib-ai-ibl-creative-math-2026]] — AI-समर्थित जिज्ञासा-आधारित सीख और रचनात्मक गणितीय प्रदर्शन
-- [[flowcode-ai-creative-coding]] — Flowcode: रचनात्मक कंप्यूटिंग में पुनरावृत्ति को स्कैफ़ोल्ड करने वाला AI-संचालित वातावरण
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: सामाजिक-तकनीकी नेटवर्क में संभावित सह-रचनात्मकता का त्रिसंख्यक मॉडल
-- [[genai-creativity-k12-scoping-review-2026]] — 45 K–12 अध्ययनों की PRISMA स्कोपिंग समीक्षा: रचनात्मकता के लिए GenAI के चार उपयोग, समरूपीकरण, और मापन-अंतराल
-
-- [[multi-agent-llm-social-learning]] — दो-मॉडल सहायता ने वह विचार-विविधता बहाल की जिसे एकल मॉडल ने चपटा कर दिया (Kumar एवं सहलेखक 2026)
-- [[genai-dependence-research-creativity-2026]] — 1,157 स्नातकोत्तर छात्रों में कार्यात्मक बनाम अस्तित्वगत GenAI निर्भरता और शोध-रचनात्मकता
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI निर्भरता और उपयोग की चार प्रेरणाएँ स्व-रिपोर्टेड रचनात्मकता से भिन्न रूप से संबद्ध हैं (Hou et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — मेल खाती रचनात्मकता, भिन्न तंत्रिका जुड़ाव: एक fMRI स्कैनर में ChatGPT से बात करते बच्चे बनाम वयस्क
-- [[ai-exemplar-attribution-creativity-education-2026]] — AI युग में रचनात्मकता शिक्षा का समर्थन: समझे गए उदाहरण-स्रोत की भूमिका

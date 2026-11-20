@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -156,68 +158,3 @@ Die neuesten Experimente markieren eine Grenze dieses Musters und keinen Widersp
 **„Mehr Übung und mehr [[personalized-learning|Personalisierung]] helfen immer.“** Die Größe eines Zugewinns hängt davon ab, was trainiert wird, nicht davon, wie viel Unterstützung bereitgestellt wird. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] berichten, dass die optimale Mischung aus ausgearbeiteten Beispielen und Problemen mit der Zielkompetenz wechselt: Reines Abruftraining erzielt höhere Zugewinne bei wörtlichen Fakten, während der Wechsel von Beispielen und Problemen höhere Zugewinne bei generalisierbaren Fähigkeiten erzielt. Und die [[lak2026-hint-button-unproductive-use|Forschung zum Hinweis-Button]] findet das Hinweisvolumen negativ mit Lernen assoziiert. Dieselbe „Unterstützung“, die einer Wissenskomponente hilft, kann für die andere verschwendet sein.
 
 **„Ein Ergebnis im verzögerten Post-Test ist automatisch ein Ergebnis zu dauerhaftem Lernen.“** Verzögerung ist notwendig, aber nicht hinreichend. Was dauerhaftes Lernen in dieser Literatur auszeichnet, ist *unassistierte* Messung unter verzögerten Bedingungen, zusammen mit dem Nachweis, dass der Effekt nicht von dem Gerüst getragen wird, das beim Transfer fehlen wird.
-
-## Verbundene Konzepte
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — Theorieentwicklung in der KI in der Bildung
-- [[self-report-measures]]
-- [[research-methods-aied]] — Forschungsmethoden in der AIED (DBR-Abschnitt)
-- [[social-emotional-learning]] — Sozial-emotionales Lernen
-- [[student-support-and-success]] — administrative Ergebnisse (Aufgabenerledigung, Leistungspunkte, Persistenz, Abschluss) als unterscheidbar von Lerngewinnen
-
-## Verbundene Artikel
-
-- [[chen-genai-programming-understanding-2026]] — 24 Studierende im Grundstudium: assistiert bestandene Tests nahmen zu, das unassistierte Verständnis jedoch nicht (Chen et al., 2026)
-- [[gardella-copilot-fast-forgettable-2026]] — 22 Programmierer: assistierte Gewinne hielten bei einem unassistierten Retest nicht an (Gardella et al., 2026)
-- [[epistemological-audit-genai-meta-analyses-2026]] — Ein kritisches epistemologisches Audit früher Evidenzsynthesen in der Generative-AI-Bildungsforschung (Fütterer et al. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — Zugang zu einem handelsüblichen Chatbot erhöhte unassistierte Testwerte, die eine Woche anhielten (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — KI-Tutoring übertrifft aktives Lernen im Klassenzimmer: eine RCT, die ein neuartiges forschungsbasiertes Design in einem authentischen Bildungssetting einführt (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — warum assistierte Leistung kein Lernergebnis ist (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtuelles Tutoring mit CAL: ein Experiment zu Inanspruchnahme und Lernen
-- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: beherrschungsbasierte Mathematikübung
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in einem zweijährigen Schulexperiment
-- [[ai-literacy-assessment-misalignment]] — KI-Kompetenz-Assessment: Fehlausrichtung von Selbstbericht und Leistung
-- [[generative-ai-reduced-study-time-math]] — Schneller fertig, weniger gelernt: Generative KI verringerte die Bearbeitungszeit bei Mathematikaufgaben und das Wissen, das sie aufbauen
-- [[genai-meta-analysis-programming-learning]] — Eine Metaanalyse der Wirkung generativer KI auf Produktivität und Lernen in der Programmierung
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Metaanalyse der Effekte von KI-Kompetenz-Interventionen
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Hilfe erzeugt Lerngewinne gleichwertig zu menschlicher Tutorhilfe
-- [[generative-ai-guardrails-harm-learning]] — Generative KI ohne Leitplanken kann Lernen schaden (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — Die abwesende kognitive Baseline: Theoretisierung einer strukturellen Lücke in der akademischen Selbsteinschätzung KI-native Studierender
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — Wie KI Unterrichtsabläufe verändert
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Metaanalyse des KI-verstärkten verkörperungsbasierten robotergestützten Sprachenlernens
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Unterscheidung unmittelbarer Leistung und dauerhaften Lernens
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe durch generative KI: Auslagern von Hausaufgaben schadet Lernen
-- [[ai-assisted-collaborative-learning-model-dbr]] — KI-gestütztes kollaboratives Lernmodell DBR (kritisches Denken +24,1 %, Problemlösegewinne)
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoringsspezifische versus allgemeine KI
-- [[jost-llm-programming-education-learning-outcomes]] — LLM-Vertrauen und Noten im Programmieren (negative Korrelationen)
-- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Lehren schaden (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI- und höheres-Denken-Metaanalyse
-- [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative Mathematikleistung
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — Gewinne durch KI-verstärktes PBL-Scaffolding
-- [[ccct-cooperative-learning-technique]] — KI-gestaltete kooperative Lerntechnik
-- [[scaffolding-srl-feedback-genai-human-peers]] — Gewinne durch begleitetes selbstreguliertes Feedback
-- [[learner-ai-interaction-patterns-oop]] — Interaktionsmuster und Lerngewinne in OOP
-- [[ai-feedback-critical-thinking-writing-2026]] — KI-Feedback und kritisches Denken im Schreiben
-- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler: höheres Denken fördern (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Stufen computationalen Denkens und KI-Programmierassistenten (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Metaanalyse: adaptive/KI-EdTech erhöht Lernen um ~0,125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: Ein Effekt auf der Suche nach einer Ursache (Medienvergleichs-Kritik an Gewinnmaßen)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Metaanalyse: bias-adjustierte KI-Lerngewinn-Effekte ~1/3 der berichteten Größe
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: Audit fehlerhafter KIED-Metaanalysen
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Eine STEM-Synthese, die abhängige Effektstärken kontrollierte und Publikationsbias testete, aber keine Qualitätsbeurteilung anwandte (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Metaanalyse zweiter Ordnung von 45 KI-Bildung-Metaanalysen, mit überlappungskorrigierten Effekten und einer Qualitätsbeurteilung der Syntheseschicht (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring ergeben gleichwertige GRE-Lerngewinne
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Bei über die Lehrkraft vermittelter KI erzeugte die Vorbereitung Gewinne, nicht das Werkzeug

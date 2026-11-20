@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -45,12 +46,3 @@ Owston (2026), kirjoittaen yhtenä kehittäjistä, esittää AI Tutor Pron kolme
 ## Huomioita
 
 Molemmat sovellukset ovat ilmaisia eivätkä vaadi minkäänlaisia henkilötietoja, mutta ”yksityinen ja anonyymi” ei ole sama kuin ”ei dataa”: Contact Northin käytäntö sanoo, että se kerää ChatGPT:n vuorovaikutuslokeja ja Google Analytics -dataa, tallentaa ne Kanadassa sijaitseville palvelimille, ei salli OpenAI:n kouluttaa niillä ja jakaa vuorovaikutusdataa OpenAI:n kanssa, joka säilyttää sitä enintään 30 päivää. AI Tutor Prota ei suositella alle 18-vuotiaille ilman vanhemman tai huoltajan lupaa. Toimittajan vuorovaikutusluvut ovat sen omia markkinointilukuja, eivät riippumatonta käyttödataa, ja Slide Builderin beta-merkintä tarkoittaa, että sen tuotos on tarkistettava ennen luokkahuonekäyttöä. Avoimen lähdekoodin lisenssiä ei ilmoiteta, joten koodi ei ole instituution muokattavissa.
-
-## Liittyvät käsitteet
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

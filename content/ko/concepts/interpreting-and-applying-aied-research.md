@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -157,42 +159,3 @@ ai_assist:
 **"도구를 쓰는 동안 성적이 높으면 그 도구가 더 많이 가르친 것이다."** 한 [[k-12|K-12]] 수학 연구에서, 범용 [[conversational-ai|챗봇]]으로 연습한 학생들은 더 나은 연습 성적을 얻은 뒤 보조 없는 평가에서 **약 17% 더 나쁜** 점수를 받았습니다. 도구가 있는 상태에서 측정한 연습 수행이 부풀려진 측정이며, 보조 없는 수행이 결과입니다. 그리고 오르고 있던 것은 둘 중 하나뿐입니다.
 
 **"효과가 실재한다면 구현 세부는 그리 중요하지 않다."** 세부가 곧 효과입니다. 한 기관의 한 강좌에서 학생 30명을 따라간 연구가, 지금은 아무도 쓰지 않는 도구 버전에 관해 수행되었다면, 그것은 더 이상 존재하지 않는 구성에 관한 발견을 낳은 것입니다. 처치 명세, 버전, 설정은 주변 맥락이 아니라 주장의 일부입니다.
-
-## 연결된 개념
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## 연결된 문서
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정된 것들: 결함 있는 AIED 메타분석 감사
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 출판 편향 보정된 AI 효과가 보고된 크기의 약 3분의 1
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 교육에서의 ChatGPT: 원인을 찾는 효과
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 엄밀성 문턱으로 사용된 포함 기준, 그리고 모형에 따라 변하는 이질성
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — 자동화된 채점 신뢰성이 과제의 측정 상한을 만날 때
-- [[verification-quality-reliance-calibration-genai-2026]] — 검증과 의존 문헌이 측정하지 않는 것
-- [[citation-errors-hallucinations-computing-education-2026]] — 2025–2026년에 인쇄에 이른 날조된 참고문헌들
-- [[stanford-evidence-base-ai-k12-2026]] — 연습 이득, 시험 손실: K-12 수학에서의 지원 제거 문제
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 신뢰 구간이 0을 지나는 하위집단 효과들
-- [[chick-faculty-development-ethical-ai-2026]] — 가능하게 하는 조건들: 정책 신호, 개인 구독, 시간 없음
-- [[ai-tutoring-quality-k12-methodologies-2026]] — 보정과 실험 횟수가 공개된 공급업체 지표들
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — 모형 버전에 묶인 발견들, 그리고 분야의 격변
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 이미 사용 중인 학생 대상 AI 제품 16개에 대한 독립적 증거 수
-
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 고찰은 자기 말뭉치의 보고 편향을 정량화할 수 있다

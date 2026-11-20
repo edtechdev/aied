@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -49,12 +50,3 @@ Vývojáři, kteří stavějí funkce AI do produktů pro kurikula a [[assessmen
 ## Poznámky a upozornění
 
 Otevřenost [[open-source|zdrojového kódu]] nedělá data otevřenými. Kód Knowledge Graph a Evaluators je MIT a Agent Skills pod licencí Apache-2.0, zatímco každý dataset nese vlastní označení přístupu — Open, Open + Gated nebo Gated — a obsah Gated není pokryt otevřenými licencemi, které repozitář uvádí, takže si předpokládané právo na opětovné použití ověřte v katalogu datasetů. Obsah promptů Evaluators je CC BY 4.0, ale anotované korpusy CLEAR a PERSUADE 2.0, které používá, jsou CC BY-NC-SA 4.0. Platforma a datasety za ní vyžadují účet.
-
-## Související pojmy
-
-- [[curriculum-design]] — graf existuje, aby sladil generovaný obsah se standardy a kurikuly
-- [[open-source]] — kód MIT a Apache-2.0 s licencováním dat po jednotlivých datasetech
-- [[educational-nlp]] — evaluátory jsou vrstvou měření textu nad výstupem LLM
-- [[agentic-ai]] — dovednosti, které zabalí pracovní postup, jenž má model provést
-- [[edtech-platform]] — Curriculum Sync načítá kurikula do systému pro řízení výuky
-- [[llm]] — cíl hodnocení a konzument dovedností

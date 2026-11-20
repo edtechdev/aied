@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,67 +100,3 @@ Besseres Feedback ist nicht dasselbe wie besseres Lernen: Das Anpassen eines Age
 - **„Die Autorierungsabsicht bestimmt, was ein pädagogischer Agent tut."** **Autorierungsabsicht garantiert keine vollzogene Pädagogik.** Als **27 Mittelschullehrende** ein lehrkräftegerichtetes Chatbot-Autorenwerkzeug konfigurierten, zeigte die Evaluation von 108 Bot-Kriterien, dass das vollzogene Verhalten von dem abwich, was die Lehrenden beabsichtigten. Das Werkzeug vermittelte die Pädagogik.
 - **„Ein pädagogischer Agent, der eine Diskussion moderiert, ist eine gelöste Rolle."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] zeigt, was geschieht, wenn ein Agent **moderieren statt** lehren soll — eine qualitativ andere Anforderung als das Beantworten von Fragen, und eine, die die Literatur als ungeklärt behandelt.
 - **„Die Evidenzbasis für computergestützten Unterricht ist dünn."** Eine Synthese (**2025, 34 Reviews**) quantifiziert die CAI-Nutzung über Lehr- und Lernunterstützung (**97,1% der Reviews**), psychologische und motivationale Unterstützung (**91,2%**) und **metakognitive** Unterstützung. Die Breite der begutachteten Anwendung ist umfangreich, was die Lücke zu einer der vollzogenen Qualität statt der Abdeckung macht.
-
-## Verbundene Konzepte
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Verbundene Artikel
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — Die studierendenzentrierte Agentenrolle schlägt die lehrkraftzentrierte Rolle in Leistung, Last, Fluss und Empathie (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: konzeptueller Rahmen für pädagogische Agenten in AR/VR — Tutor versus Rollenspielpartner, Realismus, Präsenz, kognitive Last (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative Studierendenagenten für die Unterrichtspraxis
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella-Review konversationeller KI-Agenten in der Bildung
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping Review konversationeller Agenten für Programmieranfänger
-- [[ba-ai-agents-cscl-review-2026]] — Review zu KI-Agenten im computerunterstützten kollaborativen Lernen
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung auf produktivem Scheitern beruhenden Lernens
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Bevorzugtes Scaffolding in KI-gestützter mathematischer Modellierung
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive Erklärungen von Programmierfehlern
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Rollenadaptiver KI-Begleiter für Buchgespräche in der Grundschule; affektive Obergrenze von Agenten mit fester Rolle (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Gruppenbasierte Ethikbildung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung
-
-- [[teachers-configure-educational-chatbots-2026]] — Wird es so lehren wie beabsichtigt? Wie Lehrkräfte KI-Chatbots für die Bildung konfigurieren
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Angepasster Agent erhöhte die Feedbackqualität, nicht aber Selbstregulation oder Ergebnisse; Gewinnvorteil nur bei direktivem Feedback
-- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Selbstwirksamkeit, Engagement, Einstellungen und wahrgenommenes Lernen in KI-gestützter STEM-Bildung

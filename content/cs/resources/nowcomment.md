@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -47,12 +48,3 @@ Učitelé, kteří vedou pozorné čtení, studium dokumentů nebo analýzu méd
 ## Poznámky a upozornění
 
 Účty jsou zdarma a dokumenty mohou být veřejné nebo sdílené s pozvanou skupinou. Partneři AI běží na velkých jazykových modelech OpenAI, takže vybrané pasáže a otázky opouštějí hosting platformy a podléhají podmínkám tohoto poskytovatele — okres by si měl před použitím s nezletilými přečíst ujednání o zpracování dat. Výstup je omezen limitem tokenů, který web podle svého tvrzení stále rozšiřuje, adresář partnerů je za přihlášením a plochy AI jsou rychle se měnící částí produktu: každou zde popsanou schopnost berte jako stav webu v listopadu 2026, nikoli jako ustálenou sadu funkcí.
-
-## Související pojmy
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

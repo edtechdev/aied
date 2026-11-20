@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -82,43 +84,3 @@ ai_assist:
 - **"אישור הסטודנטים מעיד שהרווחה נתמכת."** בקרב **551 סטודנטים בשנה הראשונה**, **82.76% אישרו את השילוב** של תוכן דיגיטלי ואינטליגנטי — ו**אישור גבוה התקיים לצד מתח, בעוד שלחץ משימות AI החליש את היתרון**. אישור ומתח עולים יחד, ולכן סקרי שביעות רצון מטעים בדיוק כאן.
 - **"תמיכת רווחה היא תרבותית-ניטרלית."** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] מתארים את Sukoon, כלי תמיכת רווחה היברידי, כ**ממוקם תרבותית** — והמסגור של העמוד עצמו מציין את מגבלותיו. עיצוב תמיכה שמניח סטודנט אוניברסלי קורא לא נכון את האוכלוסייה.
 - **"לחץ מטלות נפרד מהטכנולוגיה."** הממצא הוא ש**לחץ מטלות** של AI החליש את היתרון של השילוב, מה שממקם את עומס העבודה בתוך אפקטי הטכנולוגיה ולא לצידם.
-
-## מושגים מקושרים
-
-- [[learners|לומדים]] — לומדים: המטרייה למושגים מצד הלומד
-- [[anxiety-and-stress|חרדה ומתח]]
-- [[student-experience|חוויית הסטודנט]]
-- [[social-emotional-learning|למידה חברתית-רגשית]]
-- [[affective-computing|מחשוב אפקטיבי]]
-- [[ethics|אתיקה]]
-- [[motivation|מוטיבציה]]
-- [[self-regulated-learning|וויסוס עצמי]]
-- [[teacher-ai-competency|כשירות AI של מורים]]
-- [[higher-ed|השכלה גבוהה]]
-- [[student-support-and-success|תמיכה והצלחת סטודנטים]] — שירותי תמיכה בקמפוס הכוללים ייעוץ, פנייה והפנייה
-
-## מאמרים מקושרים
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 סטודנטים דירגו צ'אטבוטים גבוה וחששו ביותר מאובדן הקשר האנושי
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — שחיקה, משמעות, ובדידות כאות ביולוגית
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — הקשר בין חרדת AI למוטיבציה אקדמית
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — פרופילים ומעברים של הסתגלות פסיכולוגית בלמידת שפת יפנית בסיוע AI
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — סינתזה נרטיבית ביקורתית של מעורבות ותלות בבינה מלאכותית שיחתית
-- [[mindful-llm-math-tutoring-2026]] — מעבר לפתרון בעיות: מודלים גדולים לתמיכה רגשית ורפלקסיבית בלמידת מתמטיקה
-- [[sec-ai-literacy-narrative-review-2026]] — שילוב כושרים חברתיים-רגשיים באוריינות AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — מעורבות סטודנטים עם GenAI (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — חינוך מורים לאוריינות AI (SDT)
-- [[genai-motivation-engagement-2026]] — בינה מלאכותית יוצרת, מוטיבציה ומעורבות
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — צ'אטבוטים של AI, יעילות קולקטיבית ושיתוף פעולה
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: הערכה מועצמת LLM של חרדת סטודנטים (2026)
-- [[policy-deficit-ai-sel-2026]] — הגירעון המדיני במחקר AI × SEL
-- [[culturally-aware-student-stress-chatbot-2026]] — צ'אטבוט מודע-תרבות המופעל על ידי AI לזיהוי מתח ותמיכת רווחה בקרב סטודנטים אוניברסיטאים פקיסטנים באמצעות NLP ולמידת מכונה
-- [[daoism-ai-education-philosophy-2026]] — פילוסופיית AI אלטרנטיבית: דאואיזם כשיטה לבינה מלאכותית בחינוך
-- [[ai-emotional-intelligence-teacher-development-2026]] — צפיפות יחסים כקריטריון לפיתוח מורים נתמך AI
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — אישור גבוה לקורס AI המתקיים לצד מתח מדווח-עצמית, ולחץ משימות המחליש הסתגלות
-- [[ai-connectedness-adolescent-mental-health-2026]] — קשירות AI ובריאות הנפשית של מתבגרים: קשירה משלימה מול מפצה, עם תחזית U הפוך
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — אינטליגנציה נתפסת של עוזר AI, התקדמות למטרה ובריאות נפשית, עם אוריינות AI כממותנת
-- [[ai-emotion-regulation-sport-exercise-2026]] — מסגור קונספטואלי מחדש של רגולציית רגש נתמכת AI דרך ספורט, פעילות גופנית ואקולוגיה קמפוס
-- [[faculty-ai-well-being-social-supports-2026]] — מודל משוואה מבנית של רווחת AI של סגל: אוריינות AI שולטת על יעילות עצמית
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — חרדת מבחן מופצת מחדש, לא מוסרת

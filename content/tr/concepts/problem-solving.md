@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -56,7 +58,6 @@ Eğitimciler için kanıtların dengesi yapılandırılmış, sürece yönelik b
 
 Problem çözme, [[critical-thinking|eleştirel düşünmenin]] ve [[computational-thinking|hesapsal düşünmenin]] uygulanmış sonucudur; [[problem-based-learning|probleme dayalı öğrenme]] ve [[inquiry-based-learning|sorgulamaya dayalı öğrenme]] çerçeveleri aracılığıyla geliştirilir. Bilişsel talebi koruyan [[scaffolding]]’e, [[cognitive-offloading|bilişsel dış kaynak kullanımını]] önlemek için öz-[[self-regulated-learning|düzenleme]] ve [[metacognition|üstbilişsel]] denetime, insan ile YZ’nin birlikte çalıştığı [[collaborative-learning|işbirlikçi]] yapılara bağlıdır. [[cognitive-psychology|Bilişsel psikoloji]] ve [[transfer-of-learning|öğrenmenin transferi]] literatürü, öğrenen tarafından üretilen problemlerin ve yansıtıcı geri bildirimin neden daha kalıcı [[learning-gains|problem çözme kazanımları]] ürettiğine dair teorik temeli sağlar. Bu tür becerileri edinmede çözümlü örneklerle pratik arasındaki denge doğrudan içeriğe bağlıdır: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] genelleştirilebilir problem çözme becerilerinin en iyi örnek bütünleştirmeli pratikle (çözümlü örneklerle problemleri dönüşümlü olarak bir arada kullanarak) öğrenildiğini göstermektedir; çünkü çözümlü örnekler, doğru bir kuralı edinmek ve genellemek için gereken tümevarımsal bilgiyi sağlarken saf pratik, genel prosedür yerine sahte olarak ilişkilendirilmiş özellikleri güçlendirme riski taşır.
 
-
 ## LLM Ajanlarıyla İşbirlikçi Problem Çözmenin Benzetimi
 
 - **Katılımcıya özgü [[llm]] ajanlarla işbirlikçi problem çözmenin benzetimi.** Fang (2026), bireysel LLM ajanlarını gerçek katılımcıların diyaloğu üzerinde işbirlikçi problem çözmeyi yeniden üretmek için eğitir ve [[simulation|benzetimleri]] [[network-analysis|Epistemic Network Analysis]] ile doğrular; benzetilen ve gerçek diyalogların istatistiksel olarak ayırt edilemez olduğunu gösterir (ENA mesafesi 0,17; permütasyon p = 0,65). Bu, özgün işbirlikçi problem çözme söylemini çalışmak ve üretmek için ölçeklenebilir bir yol sunar — hem araştırma hem de bu 21. yüzyıl becerisi için pratik ortamlarının tasarımı açısından çıkarımları olan bir yaklaşımdır.
@@ -89,28 +90,3 @@ Problem çözme, [[critical-thinking|eleştirel düşünmenin]] ve [[computation
 **Araştırmacılar için**
 
 - Katılımcıya özgü ajan benzetimleri, işbirlikçi düzenlemeyi incelemek için güçlü bir araçtır. Bunları denetimsiz öğrenci işbirliğine dair kanıt olarak değil, bu nitelikleriyle bildirin.
-
-## Bağlı kavramlar
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Bağlı makaleler
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Etkileşim profilleri (devredilmiş akıl yürütme ve ortak yorumlama) ve verimlilik–düzenleme ödünleşimi
-- [[ai-assisted-collaborative-learning-model-dbr]] — Üretken YZ’yi akıllı bir öğrenme eşi olarak konumlandıran DBR modeli
-- [[llm-critical-thinking-teamwork-review]] — LLM’lerin eleştirel düşünmeyi, ekip çalışmasını ve problem çözmeyi geliştirmesine dair PRISMA derlemesi
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — İşbirlikçi problem çözme için dizi madenciliğiyle elde edilen uyarlanabilir iskeleler
-- [[genai-assisted-problem-posing-physics-2026]] — GenAI ile öz düzenlemeli bir öğrenme stratejisi olarak problem ortaya koyma
-- [[genai-feedback-design-multisite-experiment]] — Yansıtıcı/karma geri bildirim, gecikmeli transferde doğrudan YZ’yi geride bırakır
-- [[dai-chatbots-problem-posing-primary-2026]] — Sorgulamaya dayalı öğrenmede ilkokul öğrencilerinin problem ortaya koymasını geliştiren sohbet robotları
-- [[llm-computational-thinking-physics-2026]] — Fizikte hesapsal problem çözmenin ölçeklenebilir değerlendiricisi olarak LLM’ler
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — İlkokul matematik için LLM öğretim sisteminde kural temelli ve plansız iskeleleme (Looi ve ark. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

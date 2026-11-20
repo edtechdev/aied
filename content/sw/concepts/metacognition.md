@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,7 +47,6 @@ Ndani ya miundo ya [[self-regulated-learning]], metaji ni mbinu kuu inayowezesha
 
 Metaji si dhana ile ile kama [[reflection|tafakari]], na mara nyingi hizi mbili huchanganywa. Ufuatiliaji ni hukumu ambayo mwanafunzi hufanya kuhusu hali yake mwenyewe, na inaweza kutokea bila rekodi yoyote. Tafakari ni uchunguzi wa makusudi, uliorekodiwa wa jaribio lililokamilika, na kinachozalishwa ni maandishi yanayoweza kupitiwa au kutathminiwa. Kuzitenganisha ni muhimu zaidi pale AI inapohusika: hukumu ya ufuatiliaji ni vigumu kukabidhi, wakati bidhaa ya tafakari inaweza kuzalishwa na mfano.
 
-
 Jinsi wanafunzi wanavyotumia metaji karibu na AI inaundwa na zaidi ya zana yenyewe: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] wanagundua kuwa motisha ya mwanafunzi na jukumu la mwingiliano analochukua linaunda ushirikiano wake wa metaji na [[generative-ai|GenAI]] — maana yake, iwe matumizi ya AI ni ya metaji kwa kiwango kikubwa kinategemea msimamo wa mwanafunzi kiasi kile kama kinavyotegemea teknolojia. Hii huweka [[student-engagement|ushirikiano]] wa mwanafunzi kuwa kigezo cha kuamua iwe matumizi ya AI ni ya metaji. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran na Arar (2026)]] wanaongeza [[student-ai-interaction|mwingiliano wa AI]] yenyewe kama kitu cha kutafakari: hatua ya mwisho ya Mzunguko wao wa [[prompt-engineering|Ujuzi wa Ilani]] inawauliza wanafunzi kuchunguza kile ambacho mchakato ulifunua kuhusu jinsi ilani zinavyofanya kazi na ni dhana zipi ziliunda jibu, na wanafanya kutafakari na marekebisho kuwa hatua ambapo uandishi na hukumu mahususi yanakua.
 
 Jukumu la msingi zaidi la metaji linaonekana wakati mahali pa kuratibu kinabadilika kutoka kwa mwalimu kwenda kwa mwanafunzi. [[dang-human-ai-collaboration-competency-2026|Dang, Hong, Doyle na Nguyen (2026)]] wanadai katika mfumo wao wa [[human-ai-collaboration|Uwezo wa Ushirikiano wa Binadamu–AI (HACC)]] kwamba kazi ya kuunganisha ambayo [[tpack|TPACK]] huwakabidhi mbinu za kufundisha inahamishwa, mara mtendaji akawa mwanafunzi, kwa metaji ya mwanafunzi mwenyewe — uwezo unaowaruhusu wanafunzi kuongoza ushirikiano, [[trust-calibration|kusawazisha]] kutegemea kwao kwa [[generative-ai|AI]], na kubaki waandishi wa kujifunza kwao. Wanachukulia uwezo wa metaji kama mbinu ambayo [[agency|wakala wa mwanafunzi]] unatekelezwa, wakikataa kwa makusudi kuchukulia wakala kama sehemu tofauti na kuusoma badala yake kama ubora unaojitokeza wa kuratibu uwezo wa taaluma, wa AI, na wa metaji. [[network-analysis|Uchanganuzi wa Mtandao wa Maarifa]] wao wa mahutubio na waelimishaji 24 wa [[higher-ed|elimu ya juu]] uligundua mazungumzo ya metaji yakipanda na ngazi ya jukumu — waelimishaji wa ngazi ya juu waliunganisha na taaluma, AI, na kujifunza na AI — ambao waandishi wanaelewa kama waelimishaji wenye uwajibikisho mpana zaidi wa mitaala wanaoona shida za wanafunzi zinazodumu kama za udhibiti badala ya za kiufundi.
@@ -62,7 +63,6 @@ Wakati AI inatekeleza kazi za kufikiri kwa wanafunzi — kutatua matatizo ya his
 
 Kutegemea sio kushindwa: [[du-yuan-epistemic-dependence-2026|Du na Yuan (2026)]] wanahukumu kujifunza kunakodhibitiwa na AI kwa vigezo sita vya uchunguzi — kupingika, kurejeshwa, kuhamisha, kufuatiliwa, uwajibikisho uliosambaa na utofauti wa maarifa — na wanatofautisha msaada wa zana, unaosaidia kuzalisha matokeo, na msaada unaobeba hukumu, ambao hutoa viwango ambavyo matokeo yanahukumiwa.
 **Kutaja swali la utawala.** [[metacognitive-ownership-human-ai-regulation-2026|Lin na Chang (2026)]] wanapendekeza **umiliki wa metaji** — utawala wa mwanafunzi juu ya viwango, [[evaluative-judgment|hukumu za kutathmini]] na vitendo ambavyo AI huchangia — wakitofautisha kunyakua viwango, utawala wa kufuatilia-hukumu na idhini ya kudhibiti, na kuhitaji fursa halisi ya kutenda kwa njia tofauti.
-
 
 Matokeo muhimu:
 - **Kosmyna et al. (2025):** Wanafunzi waliotumia msaada wa AI katika kuandika insha walikuwa **83% hawawezi kukumbuka nukuu** kutoka kwa insha zao wenyewe, dhidi ya 11% kwa watumiaji wasio na AI — ikionyesha kuwa hawakuwasiliana na maudhui wakati wa uzalishaji.
@@ -93,7 +93,6 @@ AI inapobuniwa kusaidia kutafakari badala ya kuibadilisha, metaji inaweza kuimar
 
 **Katika kiwango cha muunganisho mtindo unadumu, na unapungua kadri kipimo kinavyokolea.** Meta-analysis ya ngazi tatu ya masomo 54 (nusu-) ya majaribio (vipimo 121 vya athari, wanajifunza 7,431) iliweka athari ya AI kwenye metaji katika g = 0.624 (95% CI [0.431, 0.817]), huku athari 107 kati ya 121 zikiwa chanya na faida zikipanda na mfiduo kutoka g = 0.381 chini ya wiki moja hadi g = 1.638 katika wiki 15 hadi 20 ([[ai-metacognition-three-level-meta-analysis-2026|Li et al. (2026)]]). Chanzo cha kipimo kilikuwa kirekebishaji cha maamuzi: kujitangaza g = 0.776, uchunguzi wa tabia g = 0.514, na makadirio ya usahihi, pengo kati ya utendaji uliohukumiwa na halisi, g = 0.035 bila umuhimu. Faida ni kubwa zaidi pale inapodaiwa kwa urahisi na karibu sifuri pale ufuatiliaji unapopimwa dhidi ya utendaji, ambayo ni tatizo la kujitangaza ambalo masomo hapo juu yanaendelea kukumbana nalo.
 
-
 - **Kuonyesha mifumo ya mwingiliano ambayo wanafunzi hawaoni.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li na Weng (2026)]] walifuatilia harakati za macho, kuchukua noti na hotuba wakati wanafunzi 22 wa mafunzo ya tafsiri wakifanya kazi na mfumo wa utambuzi wa hotuba na tafsiri ya mashine, na waligundua kuwa jinsi wanafunzi walivyogawa [[cognitive-psychology|mwangwi]] kati ya matokeo ya AI na noti zao wenyewe haikuwafika: 58.3% walibadilisha wasifu kati ya hatua za kazi, na wasomaji wanaosomea zaidi matokeo ya AI walipata alama za chini zaidi katika ufasaha wa utoaji na ubora wa lugha lengwa. Matokeo ya kielimu ni kwamba kutafakari ni sharti kisaidiwe na ushahidi wa nje, kwa sababu mkakati wa mwanafunzi hauchunguzwi kwa ndani — waandishi wanatetea kuongoza wanafunzi kueleza na kutathmini kwa nini walifanya kazi kwa njia fulani kila hatua.
 - **Ushahidi wa mchakato unategemea chaneli.** Katika wanafunzi 79 wa chuo kikuu wakifanya kazi na [[generative-ai|AI ya kizalishaji]], kufuatilia na kupanga kwa kina zaidi kulionekana mara nyingi zaidi katika vitengo vya kufikiri-kwa-sauti wakati udhibiti wa kina zaidi ulionekana mara nyingi zaidi katika kumbukumbu za mwingiliano, kwa hivyo rekodi moja peke yake inapunguza baadhi ya michakato ([[metacognitive-processes-genai-interaction-logs-2026|Li na Liu (2026)]]).
 - **Mazoezi ya kutafakari yanaweza kutokea kwa matumizi ya kawaida ya somo.** Katika shule za juu nane za Kidenmark, wanafunzi wakifanya kazi na [[generative-ai]] kama mwenzi wa kiakili walikuza mazoezi manne — maelezo, ubunifu, mwamko, na kuboresha, yakijifunua katika michakato kumi na moja — ambapo kutafakari kulionekana katika usajili wote wa kitaaluma na wa mchakato, ingawa kila mazoezi yanaweza kutumika kwa uingizaji sawa ([[ai-cognitive-partner-reflective-thought-2026|Dalsgaard na Prilop, 2026]]).
@@ -109,8 +108,6 @@ AI inapobuniwa kusaidia kutafakari badala ya kuibadilisha, metaji inaweza kuimar
 [[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao et al. (2026)]] waligeuza hatari ya ukandamizaji kuwa kiasi kilichopimwa katika majaribio manne na watu wazima 728. Msaada mkubwa wa AI ulipandisha kujitenga kwa kiwango cha kazi hadi 4.82 kutoka 3.96 (*d* = 0.67), na [[cognitive-offloading|upunguzaji wa mzigo]] ulibeba 58.0% ya athari (isiyo ya moja kwa moja 0.51, 95% CI [0.32, 0.72]). Wapimaji wataalam kisha walipima mapendekezo yaliyokabidhiwa kwa alama za chini: ubora ulishuka kutoka 4.78 hadi 3.95 (*d* = 0.75), huku 57.8% ya kushuka huko kupitia kujitenga (isiyo ya moja kwa moja -0.48, 95% CI [-0.68, -0.30]).
 
 Gharama ni ya masharti. Ugumu wa kazi uliimarisha njia hiyo (kielekezi -0.39, 95% CI [-0.62, -0.16]) wakati [[ai-literacy|ujuzi wa AI]] uliidhoofisha (kielekezi 0.30, 95% CI [0.09, 0.52]). Hivyo ufuatiliaji si uwezo tu unaotabiri matumizi bora; kuuruka ni hatua ambayo kutokuwepo kwake huonekana katika ubora wa matokeo kupitia njia ya upunguzaji. Mipaka miwili inaweka dai. AI ilikuwa hifadhi ya majibu iliyoandikwa na mtafiti, si mfano hai, na taaluma na hali ya mwanafunzi hazikuripotiwa, hivyo hii si somo la darasani wala la mahali pa kazi.
-
-
 
 ## Tofauti ya Ushirikiano–Motisha
 
@@ -148,7 +145,6 @@ Msaada wa nje unaweza pia kuingia mbele ya hukumu yote. [[iqbal-human-genai-supp
 3. **Tenganisha msaada wa motisha dhidi ya ujuzi:** Maendeleo ya ujuzi wa metaji (yaliyopangwa na kozi) na kuimarisha tija (yanayosaidiwa na AI) yanaweza kuhitaji mikakati tofauti ya ubini.
 4. **Taja lengo kama upakiaji, na pima msaada.** [[fan-metacognitive-offloading-sync-model-2026]] hutenganisha upunguzaji wa mzigo wa kiakili, unaobaki chini ya udhibiti wa metaji, na upunguzaji *wa metaji*, ambapo kupanga, kufuatilia, kutathmini na kusawazisha hukumu hukabidhiwa. Lengo lao la ubuni ni upakiaji wa metaji: ngazi za msaada zinazomfanya mwanafunzi, si AI, kuweka malengo, kutabiri ugumu na kuhukumu mikakati, zikiwekwa ndani ya ilani, katika kazi, na kupungua kwa muda. Kanuni ya msaada ni kiwango cha chini kinachohitajika: kidokezo au swali la uchunguzi kwanza, na msaada wa kina ufunguliwe tu baada ya mwanafunzi kuomba, kufuatilia au kuchagua mwelekeo. Karatasi ni ya dhana na waandishi wake wanabainisha kuwa hakuna kipimo kilichothibitishwa cha dhana zote mbili bado.
 
-
 AI inaweza kubadilisha **kizingiti cha metaji** cha kuamua mtu anajua vya kutosha kujibu: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] waligundua kuwa upatikanaji wa ushauri wa AI peke yake ulidhoofisha utayari wa watu kusitisha hukumu chini ya kutokuwa na uhakika, hata na ushauri mbaya na motisha ya usahihi — athari iliyosalimisha matokeo ya AI yasiyoombwa na masuala ya fedha.
 
 [[agentic-ai|AI ya wakala]] ya kuchukua hatua inaweza kumhama mwanafunzi mzunguko wake wa metaji: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] wanadai kuwa wakati mawakala wanachukua mapema, wanaanzisha, na wanajisahihisha, kupanga, kufuatilia, na kutathmini kwa wakala kunabadilisha kwa mwanafunzi, na kuondoa [[retrieval-spacing-interleaving|mazoezi ya kurejesha]] na kujifuatilia ambayo [[desirable-difficulties|ugumu unaotamanika]] na mafunzo ya metaji hutegemea.
@@ -170,68 +166,3 @@ AI inaweza kubadilisha **kizingiti cha metaji** cha kuamua mtu anajua vya kutosh
 - **"Msaada wa AI huacha uwezo wa msingi ukiwa kama ulivyo."** Wanafunzi waliotumia msaada wa AI kwa insha walikuwa **83% hawawezi kukumbuka nukuu kutoka insha zao wenyewe, dhidi ya 11% kwa wasiotumia AI**, jambo linaloonyesha **hawakushirikiana na maudhui wakati wa uzalishaji**. Mchakato wa uzalishaji ndipo ushiriki unapotokea, na kuupita unaonekana baadaye.
 - **"Kupunguza mzigo hudhoofisha kila kitu."** Gharama inaonekana **yenye kikomo badala ya ya ulimwengu**: kupunguza mzigo hudhoofisha **ujuzi mahususi uliofanywa mazoezi, si uwezo wa jumla wa kikoa**, na huonekana kwenye majaribio ya uhamisho yenye kitu **pamoja na** kingine. Uwekaji mahali ni muhimu, kwa kuwa unaeleza kile cha kulinda badala ya kuonya kuhusu kushuka kwa jumla.
 - **"Uwezo wa kuzalisha unamaanisha uwezo wa kuhifadhi."** Pengo la ukumbukaji la 83% dhidi ya 11% ni mfano kinyume cha moja kwa moja: matokeo yalizalishwa katika hali zote mbili na alama ya kumbukumbu ilitofautiana sana.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Hatua za kutafakari ambazo mlolongo huu hujenga
-- [[learners]] — Wanafunzi: muunganisho wa dhana za upande wa mwanafunzi
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — hukumu za kujifunza na dhuku ya ufasaha ambayo mazoezi ya kurejesha yanasahihisha
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — warsha ya ujuzi wa AI ya saa mbili ilihamisha udhibiti wa mwingiliano wa LLM wa wanafunzi wa shule ya kati, tofauti na metaji yao iliyojitangaza na wenyewe (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Mwingiliano wa Mwanafunzi–AI katika Tafsiri Mfululizo Inayosaidiwa na Kompyuta
-- [[du-yuan-epistemic-dependence-2026]] — Utegemezi wa maarifa katika kujifunza kunakodhibitiwa na AI (Du na Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Kile wanafunzi wanauliza ni muhimu: kina cha mwingiliano wa LLM, ubora wa kazi, na kukumbuka kwa papo hapo (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kupunguza mzigo wa kiakili lenye ufahamu wa tabaka katika uandishi unaosaidiwa na GenAI (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Utafutaji wa msaada unaodhibitiwa na LLM katika STEM: wenye tabaka, wa zana, na uliohakikiwa
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motisha na majukumu katika ushirikiano wa metaji wa GenAI
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Mafunzo ya metaji yanarahisisha kupunguza mzigo bora wa kiakili (Ngai na Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Ufahamu wa meta-kiakili kwenye kupunguza mzigo wa kiakili: mifumo, uingiliaji, na athari za kielimu (Guo na Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — Mfumo wa IDEA kwa matumizi ya GenAI yanayodhibitiwa kwa metaji
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: mfumo wa kujifunza wa metaji wa AI unaozingatia binadamu (wakala na kujifunza kwa kutafakari)
-- [[metacognitively-discordant-completion-genai-2026]] — Ukamilishaji usioendana na metaji na kupitisha kwa ufahamu bila kutambua
-- [[ai-metacognition-stem-review]] — Zana za AI zinazotoa ngazi za msaada kwa metaji katika STEM
-- [[ai-making-us-stupid]] — Je, AI inatufanya wajinga? Ukosoaji wa kupunguza mzigo wa kiakili
-- [[stanford-evidence-base-ai-k12-2026]] — AI ya matumizi ya jumla inadhoofisha metaji kwa kukamilisha ufikiri
-- [[ai-advice-suppresses-ikt-suspension-2026]] — Ushauri wa AI unadhoofisha utayari wa kusema "sijui", hata na ushauri mbaya na motisha ya usahihi
-- [[agentic-ai-pedagogical-best-practice-2026]] — AI ya wakala na mbinu bora za kielimu: msongo wa mawazo kati ya uendeshaji otomatiki na kujifunza
-- [[cognitive-offloading-speedup-illusion]] — Kupunguza mzigo wa kiakili na dhuku ya harakisha katika mwingiliano wa binadamu–AI
-- [[lodge-loble-cognitive-offloading-2026]] — AI, kupunguza mzigo wa kiakili na athari kwa elimu (Lodge na Loble 2026)
-- [[pedagogy-ai-mistakes]] — Mbinu za Makosa ya AI: Kukuza Ufikiri wa Kiwango cha Juu (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI Kusaidia Kujifunza kwa Msingi wa Kushindwa Kizazi
-- [[lukesova-clue-before-correction-2026]] — Kidokezo Kabla ya Marekebisho: ChatGPT kwa Kujifunza Lugha kwa Uhuru
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Kutafakari juu ya mchakato wa kutoa ilani na maendeleo ya uandishi katika Mzunguko wa Ujuzi wa Ilani (Miles, Haber-Curran na Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ilani ya kutafakari ilipunguza kukubali ushauri mbaya wa AI na iliboresha kusawazisha kwa ufahamu (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Alama za kiotomatiki ziliimarisha ufuatiliaji lakini si kupanga, na kutafakari kwa kujitangaza kulibaki hakizazi (Chen na Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Ujuzi wa uhakiki ukifanya kazi tu kupitia kujidhibiti kwa metaji (Davor, Larbi na Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — Msaada wa nje, si usahihi wa hukumu ya metaji, ulisukuma uteuzi wa mkakati wa marekebisho (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Faida inayochagua: maarifa ya metaji yalipanda wakati kupanga na kufuatilia hayakufanya (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Matumizi ya kutafakari yalipanda na upatikanaji wa AI na yalitabiri ufikiri mahususi, si ongezeko la maarifa (Melanou, Beege na Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Ufahamu wa metaji kama mtabiri mwenye nguvu zaidi wa kujifunza la STEM linalobadilika (Alatoai na Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Kutoka uchunguzi hadi meta-uchunguzi: walimu wanahukumu hitimisho zilizotolewa na AI (Hoppe, Loibl na Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Maswali Wazi Kuhusu Kutegemea Kunaoendeleza Ujuzi katika Ushirikiano wa AI Unaotafakari
-- [[dang-human-ai-collaboration-competency-2026]] — Metaji, si mbinu za kufundisha, kama mbinu ya wakala wa mwanafunzi katika ushirikiano wa binadamu–AI (Dang, Hong, Doyle na Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Umiliki wa metaji: dhana kwa utawala wa mwanafunzi wa viwango, hukumu na vitendo
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Kumbukumbu na kufikiri-kwa-sauti vinashika michakato tofauti ya metaji katika kujifunza kunasaidiwa na GenAI
-- [[ai-cognitive-partner-reflective-thought-2026]] — mazoezi manne na michakato kumi na moja ya fikra ya kutafakari wanafunzi wanapochukulia AI kama mwenzi wa kiakili
-- [[karaki-think-aloud-ethical-genai-2026]] — Kufikiri kwa Sauti kulifanya uundaji wa ilani, uhakiki na ufikiri wa maadili yaonekane, lakini tathmini mahusisi ilibaki ya juu; si suluhisho peke yake
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Mafunzo ya metaji na ngazi za msaada za Socratic za AI katika mazoezi ya tafakari ya walimu wanaotaka wale: ubini wa majaribio maradufu
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Usingizi wa kiakili: akaunti ya majaribio ya ushiriki wa metaji uliosimamishwa na upungufu wa mpangilio unaoongezeka (Braun 2026)
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Meta-analysis ya ngazi tatu: g iliyochanganywa = 0.624, ikishuka hadi kutokuwa na umuhimu kwa ufuatiliaji uliopimwa kwa usahihi (Li et al. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — Mfumo wa SYNC: upunguzaji dhidi ya upakiaji wa metaji, na utendaji wa kazi uliotenganishwa na kujifunza kudumu (Fan et al. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — Ufuatiliaji hauzuii njia ya upunguzaji kama unavyoipeleka njia nyingine
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Pale ufuatiliaji unaporukwa, na gharama yake
-

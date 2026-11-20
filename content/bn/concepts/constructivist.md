@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -116,54 +118,3 @@ ai_assist:
 - **"প্রশ্ন দেখেই গঠনবাদী শিক্ষাদান ধরা যায়।"** একটি ডিবিইআরটিএ শ্রেণিবিন্যাসক **তথ্যমূলক জ্ঞান-সঞ্চারক প্রশ্ন ৯৬.৬৭% নির্ভুলতায়, কিন্তু সহায়ক প্রশ্ন মাত্র ৭৮.৭৯% নির্ভুলতায় শ্রেণিবদ্ধ করেছে**, এবং **প্রতিটি মডেলই দুই উচ্চতর-ক্রমের ভূমিকা গুলিয়েছে**। যে গঠনটি সবচেয়ে জরুরি, স্বয়ংক্রিয় শনাক্তকরণ তারই সবচেয়ে খারাপ করে।
 - **"পাঠের পৃষ্ঠতলীয় বৈশিষ্ট্য তার শিক্ষাদানপদ্ধতি প্রকাশ করে।"** শ্রেণিবিন্যাসকের ব্যর্থতা কোনো প্রয়োগ-বিস্তারিত নয়। সহায়ক ও গঠনবাদী ভূমিকাগুলোই কঠিন ক্ষেত্র, কারণ সেগুলো সংজ্ঞায়িত হয় শিক্ষক শিক্ষার্থীর চিন্তা নিয়ে *কী করেন* তা দিয়ে, আর সেই সম্পর্ক কেবল প্রশ্নের টেক্সট থেকে উদ্ধার করা যায় না।
 - **"গঠনবাদ মানে শিক্ষক ব্যাখ্যা করেন না।"** তত্ত্বটি শিখনকে স্থাপন করে শিক্ষার্থীর অভিজ্ঞতা থেকে নির্মাণে, যা সরাসরি নির্দেশনাবাদের সঙ্গে সামঞ্জস্যপূর্ণ। এটিকে বলা-নিষেধ হিসেবে নেওয়া তত্ত্ব ও কার্যপ্রণালী-উদাহরণের প্রমাণ — দুটোকেই ভুল পড়ে।
-
-## সংযুক্ত ধারণা
-- [[community-of-inquiry]] — ইনকোয়ারি সম্প্রদায় (গঠনবাদী/দিউয়ীয় প্রায়োগিকতার ওপর প্রতিষ্ঠিত)
-- [[cognitive-psychology]] — সংজ্ঞানাত্মকবাদ, শিখন-তত্ত্বের তৃতীয় ধ্রুপদী মেরু
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, এলএলএম-এর সীমা, পরীক্ষার দর্শন
-- [[theory-development-aied]] — শিক্ষায় এআই-তে তত্ত্ব-বিকাশ
-- [[productive-failure]]
-
-## সংযুক্ত নিবন্ধ
-- [[lee-learner-question-types-ai-education-2026]] — শিক্ষার্থী-প্রশ্ন তিনটি গঠনবাদী ভূমিকায় শ্রেণিবদ্ধ: সঞ্চারক, সহায়ক, সহ-শিক্ষার্থী (লি, আতিফ ও কাং ২০২৬)
-- [[mishra-control-vs-agency-history-2025]] — এআইইডি-র ইতিহাসে নির্মাণবাদকে (পেপার্ট) সংজ্ঞানাত্মক টিউটরের বিপরীতে স্থাপন করে
-- [[code-to-learn-genai-artifact-construction-2026]] — জেনএআই দিয়ে কোড-টু-লার্ন: নিদর্শন-নির্মাণের নির্মাণবাদী কাঠামো
-- [[ai-writes-code-student-writes-model-2026]] — মডেল-লেখকত্ব: জেনএআই দিয়ে নির্মাণ-মাধ্যমে শিখনের তত্ত্ব ও পরিমাপ কর্মসূচি
-- [[ai-vocational-education-training-review]] — বৃত্তিমূলক শিক্ষায় গঠনবাদের ঘোষণা কিন্তু আচরণবাদী এআইয়ের প্রাধান্য; 'টুরিং ফাঁদ'
-- [[generative-refusal-ai-tools-for-thought]] — যে এআই সরঞ্জাম নির্মাণমূলক চিন্তা রক্ষায় উৎপাদন আটকে রাখে
-- [[genai-mindtool-generative-learning]] — শিক্ষার্থীর নির্মাণ সমর্থনকারী চিন্তার সরঞ্জাম হিসেবে জেনএআই
-- [[ai-agents-constructive-conflict-design-education-2026]] — নির্মাণমূলক পুনর্বিবেচনা উসকানো বিরোধী এআই এজেন্ট
-- [[hingle-collaborative-ai-literacy-2025]] — সহযোগিতামূলক এআই সাক্ষরতা ও আইক্যাপ অংশগ্রহণ কাঠামো
-- [[ai-internal-feedback-evaluative-judgments]] — মূল্যায়নমূলক বিচার উৎপাদনকারী এআই-সমর্থিত তুলনা
-- [[icap-cognitive-engagement-llm-agents]] — আইক্যাপ ও এলএলএম এজেন্টের সঙ্গে সংজ্ঞানাত্মক অংশগ্রহণ
-- [[conversational-ai-tutors-framework]] — এআই টিউটরে সংলাপের স্ক্যাফোল্ডিং
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — এআই সহায়কের সঙ্গে দেহভিত্তিক অনুসন্ধান
-- [[beyond-detection-authentic-assessment-ai-2025]] — খাঁটি মূল্যায়ন ও জ্ঞান-নির্মাণ
-- [[teacher-ai-teaming-five-levels]] — নকশায় শিক্ষক-এআই সহযোগিতার স্তর
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — শিক্ষার্থী ও যন্ত্রের মধ্যে জ্ঞানতাত্ত্বিক সহ-এজেন্সি
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — এআই-চালিত শিক্ষামূলক রোবোটিক্সে শিখনের পথ (২০২৬)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — কগেভোলিউশন: শিক্ষার্থীর সংজ্ঞানাত্মক বিবর্তন অনুকরণকারী জেনারেটিভ এজেন্ট
-
-- [[synthetic-position-self-authorship-2026]] — অনুকৃত এআই পাল্টা-অবস্থান সংলাপের রূপ মহড়া দেয়, কিন্তু যে প্রতিরোধ সংশোধন দাবি করে তা আটকে রাখে
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — শিখন-জরিমানা: বাড়ির কাজের নম্বর ১৮% বেড়ে, বদ্ধ-বই পরীক্ষা ২০% কমে, পতন বাড়ির কাজ আউটসোর্সকারীদের মধ্যে কেন্দ্রীভূত

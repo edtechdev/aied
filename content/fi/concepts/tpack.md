@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -69,7 +71,6 @@ Tekoälyaikakaudella viitekehys on työntynyt kohti tulkintaa teknologiasta, jol
 - **[[higher-ed|Korkeakoulutuksessa]] sisältöasiantuntemus ei siirry GenAI-integraatioon.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]] mukauttivat [[ai-literacy|TPACK-21]]-instrumentin kysyäkseen **127 tiedekunnan jäseneltä** yhdysvaltalaisessa tutkimusyliopistossa GenAI:n käytöstä 21. vuosisadan taitojen opettamiseen. Tiedekunta raportoi vahvaa CK:ta (M = 5,15) ja PCK:ta (M = 4,70) mutta heikkoa teknologiaan integroitunutta tietämystä — TPK (M = 2,62), TCK (M = 2,75) ja kokonais-TPACK (M = 2,55, matalin alue) — eikä CK osoittanut **merkittävää korrelaatiota TK:n tai minkään teknologiaan integroituneen alueen kanssa** (r = ,11–,15, ei merkitsevä). Kolme teknologiaan integroitunutta aluetta korreloivat keskenään niin vahvasti (r = ,81–,91), että ne voivat toimia yhtenä GenAI-integraatiotekijänä. Tulos vahvistaa *leikkauspisteiden kouluttamisen* suunnitteluperiaatetta: [[educational-development|tiedekuntakehityksen]] on tarkoituksellisesti rakennettava GenAI-integraatiotietämystä [[discipline-specific-aied|ainekohtaisten]] toimintojen kautta eikä oletettava, että aineasiantuntemus siirtyy itsestään, ja kohdeltava teknologiaan integroituneita alueita jaettuna GenAI-lukutaidon perustana.
 - **Institutionaalinen muoto ja koulutustaso ovat vuorovaikutuksessa.** [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] vertasivat 186 viimeisen vuoden luonnontieteen opettajaopiskelijaa eteläafrikkalaisessa kampuksella toimivassa yliopistossa (n = 85) ja [[online-teaching-and-learning|etäopetus]]yliopistossa (n = 97). Itsearvioitu TPACK oli korkeampi kampuksella (64,0 % vs. 47,4 %), pedagoginen tieto oli vähiten raportoitu alue molemmissa ryhmissä (53 % kampuksella), ja tekoälykoulutuksen taso oli yhteydessä itsearvioituun TPACKiin vain etälaitoksessa, jossa viiden opintopisteen lyhytkurssin suorittaminen ennusti *heikompaa* raportoitua TPACKia kuin koulutuksen puuttuminen kokonaan (p = ,039, vs. p = ,607 kampuksella). Valmius seuraa siis institutionaalista tarjonnan kontekstia eikä pelkkiä koulutustunteja, ja kirjoittajat varoittavat, ettei [[self-report-measures|itsearvioitu]] valmius voi korvata suoriutumisnäyttöä.
 
-
 Täydentävä mittausvaroitus tulee saman kirjoittajan kyvykkyys–päätösmallista: kun TPACK on itsearvioitu ja koettu käyttäytymiskontrolli mitataan [[self-efficacy|itsetehokkuutena]], kaksi ei ehkä ole empiirisesti erotettavissa, joten tutkimus ei voi kertoa, ennustaako kyvykkyys vai yleinen luottamus aikomusta ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 - **Integroitunut TPACK liikkuu eniten, kun tekoäly on tuettu autenttisten ongelmapohjaisten tehtävien sisään.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen ja Osman (2026)]] vertasivat kahdeksanviikkoista tekoälytuettua CTD-PBL-moduulia tavanomaiseen opetukseen **130 kolmannen vuoden fysiikan opettajaopiskelijalla** [[physics-education|fysiikan]] alalla ehjän luokan kvasikokeellisessa asetelmassa (65 kummassakin ehdossa), jossa ryhmät käyttivät DeepSeekiä tehtäväkohtaisten kehotemallien kautta ja jokaisen tekoälyn tuotoksen oli läpäistävä ihmisen varmentaminen ennen opetusartefaktiin siirtymistä. Moduuliryhmä raportoi korkeampaa TPACKia jälkitestissä (M = 4,04 vs. 3,40, p < 0,001, d = 1,02) ja korkeampaa koettua [[problem-solving|yhteistoiminnallista ongelmanratkaisua]] (M = 3,62 vs. 3,05, d = 0,88), ja molemmissa tuloksissa oli merkitseviä ryhmä × aika -vuorovaikutuksia. Se, mihin parannukset osuivat, on TPACKin kannalta olennainen yksityiskohta: suurimmat ulottuvuusvaikutukset olivat integroituneilla alueilla — TPCK (d = 1,21), PCK (d = 1,06) ja TPK (d = 0,95) — ja [[collaborative-learning|yhteistyön]] parannukset olivat selkeimpiä jaetussa tiedonrakentamisessa ja sosiaalisessa sääntelyssä, eli leikkauspisteissä eikä perusalueilla. Kirjoittajat esittävät nämä integroituun opetusehtoon liittyvinä eriytyvinä muutoksina, eivät tekoälyvaikutuksena: tekoälyä ei koskaan eristetty PBL-tehtäväketjusta, jäsennellystä yhteistyöstä, ohjaajan tukemisesta, [[peer-assessment|vertaispalautteesta]] tai reflektiivisestä revisiosta, ja molemmat tulokset olivat [[self-report-measures|kyselypohjaisia]] käsityksiä kompetenssista eivätkä osoitettua luokkahuonesuoriutumista.
 
@@ -99,49 +100,3 @@ TPACK on jäsentävä viitekehys tietopohjan opettajapuolen näyttöpohjalle. Se
 - **"TPACKin hallitsevuus heijastaa sen selitysvoimaa."** Hallitsevuus on **osittain hankinta-artefakti**: PRISMA-kartoittavassa katsauksessa **195 teknologiaa tukevaa opettajankoulutustutkimusta** digitaalinen kompetenssi, TPACK ja DigComp **hallitsevat indeksoitua kirjallisuutta**. Yleisyys haussa on alan käyttämän sanaston ominaisuus, ei todiste siitä, että viitekehys selittäisi enemmän.
 - **"Tunnettu viitekehys on validoitu tekoälyä varten."** TPACKia ei suunniteltu tekoälykohtaisia kyvykkyyksiä varten, minkä vuoksi Intelligent-TPACK kehitettiin — ja se esiintyy vain **viidessä tutkimuksessa** 78 tutkimuksen katsauksessa. TPACKin käyttäminen GenAI-kompetenssiin venyttää sitä sen rakenteen ulkopuolelle.
 - **"Viitekehyksen soveltaminen tarkoittaa, että tutkimus on teoretisoitu."** Sama katsaus havaitsi, että **76 % tutkimuksista päätteli kompetenssit käytännöstä ilman teoreettista kartoitusta**, joten TPACKin läsnäolo alalla on rinnakkainen sen kanssa, että suurin osa tutkimuksesta on teoretisoimatonta. Nimetty viitekehys ei ole sama kuin viitekehys, joka tekee työtä.
-
-## Liittyvät konseptit
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Liittyvät artikkelit
-- [[ai-literacy-tpack-preservice-2026]] — Koettu tekoälylukutaito ja TPACK opettajankoulutuksessa: välitys hyödyllisyyden, käytön helppouden ja arvon kautta (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Arviointi-indikaattorijärjestelmä tekoälysertifikaattiohjelmille
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Poikkitasoinen tutkimus: "pedagogiikka ensin, teknologia toiseksi" — TPAIK painaa enemmän kuin tekninen TAIK opiskelijoiden tuloksissa (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — Työssä olevien opettajien TPACK-GenAI ja pedagogisen tiedon välittävä rooli (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Tiedekunnan standardit teknologian integraatiolle (TPACKiin liittyvä DBR)
-- [[edurev-100741-tpack-genai-review]] — Generatiivisen tekoälyn integrointi opiskelijoiden oppimiseen: systemaattinen katsaus TPACK-näkökulmasta
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACKin mallintaminen opettajan moniagenttityönkulkujen kautta
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK-valmius matematiikan opettajaopiskelijoilla
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Opettajan ja tekoälyn vuorovaikutus oppituntisuunnittelussa: Intelligent-TPACK, kokemus ja taitavuus (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensiivinen GenAI-ammatillinen kehittäminen ja AI-PCK-parannukset
-- [[teacher-ai-teaming-five-levels]] — Viisitasoinen opettajan ja tekoälyn tiimityön viitekehys
-- [[teacher-ai-adoption-confidence]] — Opettajien luottamus ja tekoälyn omaksuminen
-- [[teacher-education-ai-literacy-sdt-2026]] — Opettajankoulutus tekoälylukutaitoon itsemääräämisteorian kautta
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Suunnittelupohjainen tutkimus GenAI-lukutaidon koulutuksesta
-- [[rail-ed-genai-literacy-teacher-education]] — GenAI-lukutaidon uudelleenajattelu opettajankoulutuksessa
-- [[sec-ai-literacy-narrative-review-2026]] — Sosioemotionaaliset kompetenssit ja tekoälylukutaito
-- [[genai-runaway-object-math-higher-ed]] — GenAI ja matematiikka korkeakoulutuksessa
-- [[ai-changing-teaching-workflows]] — Miten tekoäly muuttaa opetuksen työnkulkuja
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Tiedekunnan itse koettu TPACK-21-tietämys GenAI:sta korkeakoulutuksessa (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Kohti uutta AI-TPACK-viitekehystä: etiikka teknisen tekoälytiedon integratiivisena välittäjänä (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Vertaileva kysely 186 eteläafrikkalaisesta luonnontieteen opettajaopiskelijasta: kampusedu itsearvioidussa TPACKissa ja tekoälykoulutus yhteydessä heikompaan raportoituun TPACKiin etälaitoksessa
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK ja luonnontieteiden opettamisen itsetehokkuus välittävät sarjassa tekoälylukutaidon vaikutuksen tutkivan oppimisen integraatioaikomukseen (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-ammatillinen kehittäminen yliopisto-opettajille: ulottuvuuksittain eritellyt parannukset, osallistuminen koetun sitoutumisen sijaan — tekoälytuettu CTD-PBL-moduuli ja fysiikan opettajaopiskelijoiden TPACK ja yhteistoiminnallinen ongelmanratkaisu (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Ihmisen ja tekoälyn yhteistyön arviointi muotoilukoulutuksessa: prosessisuuntautunut rubriikki laajennetun AI-TPACK-viitekehyksen varassa
-- [[capability-decision-model-teacher-readiness-2026]] — Järjestetty kyvykkyyslähtöinen malli opettajan tekoälyvalmiudesta ja sen konstruktien päällekkäisyyden varoitus
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Kartoittavan katsauksen varoitus siitä, että kompetenssiviitekehysten hallitsevuus heijastaa osittain hakusanoja, ei alan yleisyyttä
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Integroituneen TPACKin rooli opettajaopiskelijoiden voimaannuttamisessa ja heidän asenteidensa muovaamisessa generatiivista tekoälyä kohtaan opetuksessa

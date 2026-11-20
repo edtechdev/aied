@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -92,34 +94,3 @@ Para la educación, esto corta en dos direcciones. Un [[curriculum-design|currí
 - **«Una sonrisa significa calidez».** En un encuentro clínico angustioso, los observadores leen la sonrisa como incongruencia y un detector de acción facial la lee como afecto positivo. El contexto es la variable que falta.
 - **«Las escalas de autoinforme miden la empatía».** Miden una disposición o un autoconcepto; no miden la conducta en un encuentro.
 - **«Más inmersivo siempre es mejor».** Los métodos inmersivos muestran mayores mejoras, pero con varias veces el coste y la duración, y las comparaciones no igualan la exposición.
-
-## Conceptos conectados
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Artículos conectados
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Juego de roles 13,2%, RV 11,6%, diálogo con IA 8,8% en el IRI, con el tiempo de exposición confundido (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — La detección de contacto físico coincidió con los observadores; la detección de sonrisas fue negativa (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — La competencia autoevaluada subió d = 0,58 tras 13 intercambios, sin grupo de control (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 estudios; mejoras de confianza frecuentes, evidencia de empatía limitada (Ismail y Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA e imágenes generativas como una cadena de activación, con la empatía afirmada en lugar de medida (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — La creencia en la capacidad empática de la IA predijo una menor disposición a ofrecer apoyo (Shastry y Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Una escala de disposición de 42 ítems cuya estructura factorial no coincidió con su diseño (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — El lenguaje empático elevó la comprensión sentida, que predijo implicación y no cambio de conducta (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — El rol y los movimientos especificados en el prompt produjeron una gran diferencia de empatía percibida (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Estudiantes de enfermería describieron la IA como apoyo emocional durante el estrés clínico (Akbaba et al., 2026)

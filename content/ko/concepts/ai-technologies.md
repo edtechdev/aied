@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -60,9 +62,7 @@ ai_assist:
 - **평가와 검증:** [[ai-ed-evaluation]]과 [[benchmark|벤치마크]]는 AI 시스템이 실제로 작동하는지를 판단하며, [[assessment]]과 [[automated-assessment]]는 채점과 문항 생성을 위해 기술 스택을 씁니다.
 - **책임 있는 사용:** 기술적 기법은 [[reducing-ai-misuse|AI 오용 줄이기]]의 핵심입니다. [[rag]] 근거 확보, [[guardrails|가드레일]], [[prompt-engineering]] [[scaffolding]], 그리고 [[human-in-the-loop-ai|인간 감독]]이 AI가 학습을 뒷받침하는지 아니면 해치는지를 규정합니다([[cognitive-offloading]], [[hallucination-risk]]).
 
-
 **연구 관심은 도구 생태계의 좁은 부분에 집중되어 있습니다.** 85개의 AI 도구를 STEM 및 공학 문헌과 매핑하면서, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky 외(2026)]]는 36개만이 연구에서 가시적이며 [[conversational-ai|대화형 AI]]/LLM이 927개 논문–도구 연결의 73.7%를 차지하고, 확립된 실험실 맥락의 출판물은 23편임을 발견했습니다.
-
 
 ## 교육에서의 인공지능에 대한 시사점
 
@@ -80,43 +80,3 @@ ai_assist:
 **"기술적 선택은 교육자의 일이 아니라 기술자의 일이다."** 이 페이지의 관점은 LLM을 만들 줄 모르더라도 훌륭한 교육자가 될 수 있으나, 여러분의 기술적 선택은 AI가 교실에서 무엇을 할 수 있고 무엇을 할 수 없는지를 여전히 형성한다는 것입니다. 시스템이 답을 강의 자료에 근거하게 하는지는 교육적 결과를 지니는 결정이며, 누군가는 그것을 내려야 합니다.
 
 **"더 유능한 모델이 이 분야의 격차를 해소할 것이다."** 오케스트레이션, 메모리, 장기 지평 계획은 역량이 아니라 아키텍처의 문제입니다. 문서화된 부재는 시간에 걸쳐 자신의 도구 사용을 통제하는 시스템의 부재이며, 더 나은 모델이 그것을 스스로 공급하지는 않습니다.
-
-## 연결된 개념
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## 연결된 문서
-
-- [[agentic-ai-education-scoping-review]] — 교육에서의 에이전트형 AI에 대한 범위 검토
-- [[genai-meta-analysis-programming-learning]] — 프로그래밍 학습에서 GenAI의 생산성과 학습 효과에 대한 메타분석
-- [[cstutorbench-slm-tutors]] — 소규모 언어 모형 튜터링 벤치마크
-- [[educational-llm-alignment]] — 교육을 위한 LLM 정렬
-- [[eduguard-safe-rag-llm-tutor]] — RAG 기반 LLM 튜터에 가드레일 적용
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터의 안전성과 위해
-- [[elbench-education-llm-benchmark-2026]] — 교육 LLM 벤치마크
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 생성형 사회적 로봇
-- [[benzion-ai-physics-simulations-virtual-lab]] — 교실을 위한 LLM 생성 물리 시뮬레이션
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM 및 공학 교육에서 85개 AI 도구의 연구 가시성 (Terkowsky et al. 2026)
-
-- [[jaksic-engaging-high-school-teachers-ai-2025]] — 인공지능 개념, 응용, 발전을 통해 고등학교 교사의 참여 이끌어 내기
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -154,79 +156,3 @@ Al Nafjan (2026) пропонує рамку узгодження строгос
 **«Студенти діють за зворотним зв’язком від ШІ, коли його пропонують».** Сприйняття вибіркове. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] відстежували дві команди бакалаврів з [[biology-education|біології]], які редагували вступ до пропозиції за зворотним зв’язком від ШІ, побудованим викладачем: було враховано 10 із 22 коментарів, видалень було більше, ніж додавань, а коментарі, що вимагали від студентів судити про когерентність чи підтримку твердження, було проігноровано повністю.
 
 **«Модель може замінити патерн зворотного зв’язку викладача».** У доказах вона цього не зробила. Відстеження одного викладача за стадіями чернетки виявило значущий рух за **п’ятьма** типами фокусу зворотного зв’язку — *похвала* зростала з **26.9%** у перших чернетках до **84.9%** у фінальних — тоді як найближча модель рухалася за трьома, а найменша — за жодним, і жодна модель не відтворила патерн. Зворотний зв’язок викладача перерозподіляє наголос за стадією чернетки; зворотний зв’язок моделі схильний зберігати свій розподіл. Ставити друге як рівноцінне означає втратити траєкторію.
-
-## Пов’язані поняття
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## Пов’язані статті
-- [[favero-thinking-not-writing-chatbot-2026]] — Мислення — це не письмо: проєктування чатботів ШІ для з’єднання міркування та редагування
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — Квазіексперимент із 32 учнями: навчання «процес–жанр» підвищило інформаційне, багатомодальне та письмо з підтримкою ШІ (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 викладачі письма про оцінювання зі ШІ: користь для зворотного зв’язку, дрейф балів, відсутність інституційного правила
-- [[genai-l2-written-feedback-scoping-review-2026]] — Огляд 51 дослідження: прогалини в прозорості підказок і чому ШІ плюс викладач переважає кожного окремо
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Класні політики майбутніх викладачів щодо ШІ: напруги та переплетення
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Рамка «людина в циклі» для оцінювання письма з підтримкою ШІ у великомасштабній атестації
-- [[llm-comparative-judgment-writing-screening-2026]] — Валідність порівняльного судження великих мовних моделей для універсального скринінгу письма
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Шарово-чутливе когнітивне розвантаження в письмі з допомогою GenAI (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — Інструменти письма зі ШІ можуть покращувати вміння писати, незважаючи на зниження зусиль (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — ВММ не оцінюють есе як люди (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — Постгуманістичний підхід до ШІ-грамотності
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
-- [[agency-gap-ai-writing]] — Розрив у здійсненні в письмі з підтримкою ШІ
-- [[ai-writing-support-stage-ownership-2026]] — Від планування до редагування: підтримка письма від ШІ на різних стадіях
-- [[genai-teacher-feedback-comparison]] — Порівняння зворотного зв’язку генеративного ШІ та викладача
-- [[student-rationalization-ai-writing]] — «Це нормально, бо…»: Дикий Захід раціоналізації студентів
-- [[care-full-feedback-genai]] — Підходи Care-Full Feedback
-- [[self-referential-l2-writing-llm-assessment]] — Самореференційне оцінювання письма L2
-- [[becerra-aicofe-feedback-2026]] — Системи зворотного зв’язку від однолітків на основі ШІ
-- [[repeated-ai-writing-feedback-semester]] — Оцінювання студентами повторюваного зворотного зв’язку від ШІ
-- [[ai-feedback-critical-thinking-writing-2026]] — Використання згенерованого ШІ зворотного зв’язку для покращення критичного мислення
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: лінгвістичні упередженості в персоналізованому автоматизованому зворотному зв’язку щодо письма
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: детектори ШІ в освіті (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Академічне стирання: зникнення складності в письмі з підтримкою ШІ
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Багатомодальне складання зі ШІ та критичне мислення в початковому письмі (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — Використання студентами GenAI для письма та їхні погляди (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Програма письма з підтримкою GenAI для мотивації, залученості та результатів L2 на початковому рівні (Lu et al., 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Узгодженість та помилка в автоматизованому оцінюванні студентських маркетингових постів
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Підказна грамотність і внутрішня мотивація рушать глибоким редагуванням, тоді як зовнішні мандати не мають прямого ефекту (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Оцінювання фокусу зворотного зв’язку та педагогічної адаптивності в згенерованому ВММ зворотному зв’язку на письмо студентів
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Зворотний зв’язок викладача проти зворотного зв’язку від однолітків із підтримкою ШІ як різнорідних скаффолдингів L2 у восьмитижневому квазіексперименті (Tang et al., 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Мета-аналіз результатів письма GenAI: великий зведений ефект, крихка величина, методологія вище педагогіки (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Систематичний огляд персоналізації письма зі ШІ та невідповідності між теорією й дизайном (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Структурована співпраця людини та ШІ в академічному письмі та цифровому критичному мисленні (Alshehri et al., 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Людські та ШІ-редагування тієї самої чернетки займають різні діалогічні позиції: зворотний зв’язок однолітків закриває діалогічний простір, редагування ШІ зберігає його збалансованим (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: блокування продукту ШІ за попереднім залученням перерозподілило зусилля на письмо, не коштуючи часу чи точності (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — Шестивимірна шкала GenAI-SRL для письма L2, з екологічною регуляцією (управлінням інструментами) як відмінним виміром
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Поєднання ШІ зі зворотним зв’язком однолітків підвищує залученість і бали за письмо
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Здобувачі хочуть людину на високоставочному кінці
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Використання бакалаврами з біології зворотного зв’язку на базі ШІ для редагування наукового письма: сприйняття та бар’єри (Weston and Long 2026)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Відповідальне використання студентами генеративного ШІ в академічному письмі: оглядове дослідження меж, освітніх підходів і прогалин у доказах
-- [[porcaro-ai-grading-benchmark-2026]] — Поза згодою: 22 модельних оцінювачі проходять проби з відомою правильною відповіддю, і більшість із них можна переконати (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Контекст здобувача змінює бали оцінювача LLM на ідентичній роботі, виміряно в внутрішньопунктовій абляції на шести моделях (Porcaro 2026, Paper VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Делегування, виміряне за трасуванням: 137 запитів на ціле завдання, 15 студентів подали есе без жодного власного слова (Jelson et al. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Строгість і зобов’язання викладача як два виміри залученості до письма в епоху GenAI
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 секцій, 10 курсів, 654 студенти: флагманське розгортання PAIRR і його підказка лише для зворотного зв’язку

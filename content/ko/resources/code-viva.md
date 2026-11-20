@@ -24,6 +24,7 @@ ai_assist:
 translation_of: resources/code-viva
 source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -41,7 +42,3 @@ Code Viva는 프로그래밍 수업의 모든 학생에게 [[oral-assessment|구
 ## 참고사항과 유의점
 
 모든 것이 브라우저에서 돌아갑니다. 강좌는 JSON 내보내기가 가능한 로컬 저장소에 있고, 질문은 브라우저가 서버로 보내지 않는 링크 부분에 실려 이동하며, 답변은 학생이 보내기로 선택한 코드로만 돌아오므로 어떤 학생 데이터도 제3자에게 도달하지 않습니다. 질문 생성기는 모델 기반이 아니라 규칙 기반입니다. 도구 자체의 설명에 따르면 코드 판독기는 휴리스틱이어서 특이한 서식이나 매크로가 함수를 가릴 수 있고, 점수는 코드를 이해한 것이 아니라 어휘를 아는 것을 보상할 수 있습니다. 그래서 점수는 교수자가 승인하는 제안이며, 위험(stakes)을 낮게 유지하라고 권합니다. 라이선스와 소스 저장소는 공개되어 있지 않고, 링크가 질문을 실어 나르기 때문에 링크는 몇 킬로바이트에 이르러 학습관리시스템 메시지 상자에서 줄바꿈될 만큼 깁니다.
-
-## 연결된 개념
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,13 +47,3 @@ Kiosk barındırmak isteyen halk kütüphaneleri (program pilot siteler için ba
 - Katılan kütüphaneler **kiosk başına yılda \$1,000** katkı sağlar; pilotun kendisi başvuran sitelerle sınırlıdır.
 - Gizlilik bildirimi programın iddiasıdır, denetlenmiş bir bulgu değildir; bir kütüphane saklama ve çocuk güvenliği koşullarını kendi veri işleme sözleşmesinde doğrulamalıdır.
 - Yol haritasının ikinci ve üçüncü aşamaları — kütüphanelerin yerel arşivleri içe almasına ve ortaya çıkan sistemleri yönetmesine izin vermek — planlanmıştır, yayımlanmamıştır.
-
-## Bağlı kavramlar
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

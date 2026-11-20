@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -107,40 +109,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«التشبّع خاصية لعدد المشاركين.»** إنه خاصية للتحليل: تتوقف حين تكفّ البيانات الجديدة عن إنتاج ترميزات جديدة. فدراستان بمقاسي عينة متطابقين يمكن أن تكونا متباعدتين بالقدر ذاته عن التشبّع، ولهذا فإن تقريرًا يستشهد بعدد مشاركين كدليل على الملاءمة لم يُبرهن على شيء بشأن التغطية.
 
 **«النتائج الكمية والنوعية تتنافس.»** إنها تجيب أسئلة مختلفة: الاستطلاع يخبرك كم طالبًا لا يثق بمدرّب، والمقابلات تخبرك لماذا. ومعاملتها كروايتين متنافستين عن الشيء ذاته تُنتج الاختيار الزائف الذي تعيد أقسام المراجعة إنتاجه.
-
-## المفاهيم المرتبطة
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — البحث التعليمي المُساعَد بالذكاء الاصطناعي
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## المقالات المرتبطة
-- [[chain-behind-claim-warrantability-2026]] — معيار قابلية الضمان للتحليل النوعي المُساعَد بالذكاء الاصطناعي
-- [[liu-tool-tutor-crutch-programming-2026]] — أداة أم مدرّب أم عكّاز: نظرية مؤسَّسة للبرمجة المُساعَدة بالذكاء الاصطناعي
-- [[trio-ethnography-llm-programming-education]] — إثنوغرافيا ثلاثية لتطوّر التفسير في البرمجة المدعومة بالنماذج اللغوية الكبيرة
-- [[absent-cognitive-baseline-2026]] — تنظيم فجوة بنيوية في التقييم الذاتي لطلاب الذكاء الاصطناعي الأصليين
-- [[t2i-competence-paradox-2026]] — مفارقة الكفاءة في استخدام الذكاء الاصطناعي التوليدي للنص-إلى-صورة
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — فجوة الثقة-الفائدة في تعليم الفيزياء
-- [[genai-teacher-feedback-comparison]] — مقارنة تغذية الذكاء الاصطناعي التوليدي وتغذية المعلّم: تصوّرات الطلاب
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة المدرّب الذكي والأضرار البيداغوجية
-- [[zha-ai-literacy-biology-case-study]] — دراسة حالة لتكامل ثقافة الذكاء الاصطناعي في فصل أحياء
-- [[becker-chatgpt-typology-physics-2026]] — تصنيف نوعي لتبنّي ChatGPT في الفيزياء
-- [[scaffolding-critical-engagement-genai-minority-students]] — الخطاب التعاوني في هندسة الموجّهات بين طلاب أقليات إثنية
-- [[human-vs-llm-ordered-coding]] — مقارنة الترميز المرتّب البشري وترميز النماذج اللغوية الكبيرة للبيانات النوعية
-- [[agreement-not-quality-llm-coding-verification]] — الاتفاق ليس جودة في الترميز النوعي بالنماذج اللغوية الكبيرة
-- [[same-ai-different-pathways]] — فكّ آليات التعلّم المُوسَّط بالذكاء الاصطناعي عبر السياقات
-- [[drummond-genai-business-schools-framework-2026]] — إطار ذكاء اصطناعي توليدي مستنبط من الطلاب عبر دراسة حالة
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — مدرّبون ذكيون نقديون: تُمكّن أم تستعبد
-- [[genai-runaway-object-math-higher-ed]] — الذكاء الاصطناعي التوليدي كجسم شارِد في رياضيات التعليم العالي
-- [[khlaif-assistive-genai-visually-impaired-2026]] — الذكاء الاصطناعي التوليدي المساعد للمتعلّمين من ذوي الإعاقة البصرية
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — الانخراط الانفعالي لمتعلّمي اللغة الإنجليزية كلغة أجنبية في الكتابة المُساعَدة بالذكاء الاصطناعي التوليدي: دراسة حالات متعددة طولية

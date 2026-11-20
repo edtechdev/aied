@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -130,52 +132,3 @@ O método socrático está intimamente ligado ao [[scaffolding|suporte]] (fornec
 - **"O questionamento socrático é apenas a ausência de respostas."** Um chatbot socrático de IA personalizado, implantado em um curso introdutório de mecânica com grandes matrículas (**150 calouros de [[stem-education|STEM]]**), produziu ganhos **mensuráveis**, e o desenho é questionamento estruturado — uma interação restringida, não um modelo silencioso.
 - **"O efeito é consequência do engajamento."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna e Maes, 2026)]] é um **estudo randomizado de EEG com 50 participantes** comparando um bot irrestrito no estilo ChatGPT com um bot **socrático**, que mede o mecanismo em vez de inferi-lo dos resultados.
 - **"As restrições são o problema a ser removido."** O apoio causal mais forte à restrição aponta no sentido oposto: em uma revisão de K-12, estudantes do ensino médio que usavam um chatbot de uso geral **pontuaram cerca de 17% pior em provas finais sem consulta** do que colegas que usavam uma ferramenta restringida. A ferramenta irrestrita era a condição prejudicial.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — A sequência de questionamento e as evidências conflitantes dos ensaios
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[productive-failure]] — Falha produtiva
-
-## Artigos conectados
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Estilos de feedback socrático versus diretivo em um estudo de design 2 x 2 na pós-graduação
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliando um sistema de LLM multiagente orientado a andaimento para o treinamento de entrevista clínica
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Dicas socráticas estruturadas versus perguntas e respostas abertas de uso geral
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direcionamento pedagógico de LLMs para a falha produtiva
-- [[wang-safety-gap-productive-struggle-2026]] — A lacuna de segurança: restaurando a luta produtiva
-- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o design de problemas de PF
-- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma de línguas
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: comparando estratégias de interação para a IA na aprendizagem
-- [[lftutor-logical-fallacy-education-2026]] — Questionamento socrático mais argumentação crítica em um framework de tutoria de falácias em quatro etapas
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails ou obstáculos? Efeitos do estilo pedagógico e da consciência de contexto em assistentes de ensino de IA para programação
-
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Aprimorando habilidades de argumentação alinhadas ao PISA de futuros professores de biologia por meio da inteligência artificial generativa
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Projetando um agente de IA que não tutora: regras de desenho para sondagem socrática em física introdutória
-- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Perguntas reflexivas avaliadas como as mais baixas e mais variáveis em um chatbot guiado

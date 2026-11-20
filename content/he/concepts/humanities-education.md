@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -75,29 +77,3 @@ ai_assist:
 **"ניתוח ביקורתי הוא מה ש-AI מאיימת עליו ביותר, ולכן יש להגביל אותו."** ניתוח ביקורתי הוא גם מה ששימוש מכוון מפתח ביותר, כשהמשימה מעוצבת להעמיק ולא להשטיח. מודל [[human-in-the-loop-ai|אדם-בתוך-הלולאה]] ממקם את תרומת התחום בשיפוט של הלומד ולא בפלט של הכלי.
 
 **"מודל כלל-מטרה שימושי למדעי הטקסט כמו לסיכום."** פרשנות דורשת את עמדת הקורא, ושכבת סיוע שמספקת את הקריאה ביצעה את המעשה הפרשני שהתחום נועד ללמד.
-
-## מושגים מחוברים
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-## מאמרים מחוברים
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
-- [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
-- [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
-- [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
-- [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — פורמט המשימה והנחיות השימוש ב-AI כפי מה שהתוצר יכול להעיד עליו (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — בינה מלאכותית סוכנית בלמידת מדעי הרוח, והמעבר ממחברות של טקסט לייחוס פרשנות (Capodieci et al. 2026)

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -91,32 +93,3 @@ PBL 连接到[[active-learning]]、[[experiential-learning]]、[[collaborative-l
 - **"定制工具会改善结果。"** 工具类型显著调节效应（**QM = 14.301，p < .001**），而方向与直觉相反：**直接使用的通用聊天机器人汇集值更高（g = 0.970）**，高于**定制进课程平台、虚拟病人或智能体的系统（g = 0.455）**。朴素的工具胜过了被工程化的工具，这反对"专门打造的产品是更好的采购"这一假设。
 - **"学生觉得开放式才是难点。"** 在学生感知数据中，**开放式是最主要的正面主题（22.3%）**，而**指令不清位居负面之首（23.7%）**。学生欢迎自由，反对的是含糊，这一区分要紧，因为补救方式不同：更清晰的任务框定，而不是减少开放式工作。
 - **"喜欢它的学生学得更多。"** 感知到的学习与小测分数只有**中度相关（r = 0.161-0.315）**。满意度与测量到的学习在此关系很弱，因此一个正面的 PBL 评价本身并不是学习目标已达成的证据。
-
-## 关联概念
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-- [[arts-and-media-education]]
-
-## 关联文章
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 基于问题与基于项目的学习作为生成式 AI 支持教育的、有前景的框架：来自系统综述和三层元分析的新证据
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — 基于游戏与游戏化的机器人教育
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 教师的 AI 素养培训
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — 机器人技术与教育中的 AI
-- [[educational-robotics-pathways-2026]] — 学习 AI 驱动教育机器人的路径（2026）
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL 是一种主导的计算思维学习策略
-- [[creative-project-approach-ai-early-childhood-2025]] — 创意项目路径：早期童年项目路径中的 AI 智能体与机器人（Yang、Li & Lee 2025）
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — 团队软件 PBL 中带 AI 智能体的 SDD
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL：一个带内嵌教学智能体的沉浸式 VR 设计工作室，对照传统 PBL 评估（Jin 等 2026）

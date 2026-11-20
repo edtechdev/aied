@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,54 +80,3 @@ ai_assist:
 - **«Допомога ШІ вирівнює умови в умовах браку ресурсів.»** Вона може, за певних умов. **14-тижневий квазіексперимент зі 103 першокурсниками в Нігерії** виявив, що [[problem-based-learning|навчання на основі проблем]] із підтримкою ШІ (ChatGPT і Teachable Machine) дало прирости, і ШІ як «більш спроможний одноліток» несе ОМ там, де іншого забезпечення немає. Але це висновок про структуроване втручання, а не властивість дати студентам [[conversational-ai|чатбот]].
 - **«LLM не можуть надійно оцінювати ОМ.»** [[llm-computational-thinking-physics-2026|Дослідження оцінювання ОМ у фізиці]] виявило, що LLM можуть **дзеркалити людських оцінювачів** у балах за зростання в практиках роботи з даними та практиках обчислювального розв’язування задач у великих курсах. Перешкодою до масштабування оцінювання ОМ була спроможність оцінювачів, і це обмеження слабшає — що зрушує проблему дизайну до того, чи інструмент вимірює ОМ, а не слухняність.
 - **«ОМ — це навичка кодування, яку робототехніка випадково викладає.»** **[[meta-analysis-systematic-review|Систематичний огляд]] 95 досліджень** підтверджує, що робототехніка плекає ОМ, творчість і розв’язування задач, але також що **середовище моделює результат**: [[game-based-learning|ігрове]] подання пасує неформальним умовам, тоді як гейміфікація відрізняється у формальних. ОМ — це набір практик, що переносяться нерівно, тож твердження про перенесення потребує того дизайну завдання, який він насправді використовував.
-
-## Пов’язані поняття
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Пов’язані статті
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Тест обчислювального мислення в навчанні ШІ (CTAT)
-- [[computational-thinking-aica-2026]] — Рівні обчислювального мислення та помічники з кодингу на базі ШІ (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Авторство моделі: теорія та вимірювання навчання через конструювання з GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: конструктивістська рамкова модель конструювання артефактів
-- [[astor-computational-thinking-meta-review-2026]] — Метаогляд ОМ: 128 систематичних оглядів
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Систематичний огляд ОМ через робототехніку в дитячому садку
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: відтворюваний робочий процес для вчених-непрограмістів зі впровадження опублікованих моделей ШІ

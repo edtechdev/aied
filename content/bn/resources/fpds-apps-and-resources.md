@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -48,7 +49,3 @@ Hillsborough College-এর প্রশিক্ষক ও [[educational-develo
 ## টীকা ও সতর্কতা
 
 পড়তে অ্যাকাউন্ট লাগে না, এবং যে Canvas কোর্স ও চেকলিস্টে এটি লিংক করে সেগুলো প্রকাশ্য। Playlab-এর কোচ এবং Gemini Gems ও নোটবুকগুলো তৃতীয়-পক্ষের সেবা, যেগুলোর জন্য অ্যাকাউন্ট দরকার। কার্ডগুলো `apps.json` থেকে রেন্ডার হয়, তাই পুরো তালিকার জন্য JavaScript দরকার এবং নো-স্ক্রিপ্ট ফলব্যাক পনেরোটির মধ্যে আটটির নাম দেয়; ছোট লিংক `tinyurl.com/fpdapps` ও একটি হেডার QR কোড ফোনে তা খোলে। রিপোজিটরি MIT-লাইসেন্সপ্রাপ্ত সফটওয়্যার, আর যে গাইডগুলোতে এটি লিংক করে সেগুলোর নিজস্ব লাইসেন্স, যার মধ্যে Pressbooks বইটি একটি অ-বাণিজ্যিক Creative Commons লাইসেন্সের অধীনে। কোনো প্রকাশনার সময়সূচি নেই, তাই পাতা নোটিশ ছাড়াই বদলায়।
-
-## সংযুক্ত ধারণা
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

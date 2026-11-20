@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -100,27 +102,3 @@ ICAP лежит в основе критики поверхностных мет
 **«ИИ-репетитор автоматически производит интерактивное вовлечение, потому что ведёт беседу».** Беседа — это среда, а не режим. Диалог, в котором система вносит каждый содержательный вклад, является пассивным для учащегося, носящего интерактивный интерфейс, — та же путаница, которую литература о [[student-engagement|вовлечении]] документирует между поведенческой активностью и когнитивными вложениями.
 
 **«Более высокие режимы ICAP всегда лучше».** Они дороже, и упорядочение касается обучения на единицу соответствующей обработки, а не того, к чему урок должен всегда стремиться. Базовая беглость может требовать активного повторения, прежде чем станет возможна конструктивная работа; ошибка — остановиться там, а не пройти через это.
-
-## Связанные концепции
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Связанные статьи
-
-- [[icap-cognitive-engagement-llm-agents]] — Расширенный фреймворк ICAP для измерения вовлечения: разметка людей против LLM
-- [[hingle-collaborative-ai-literacy-2025]] — Совместная ИИ-грамотность на четырёх режимах ICAP
-- [[interactive-learning-dashboards-engagement]] — ICAP как критика поверхностного вовлечения в learning analytics
-- [[multimodal-learning-genai]] — ICAP и когнитивное вовлечение в проектировании мультимодального обучения
-- [[llm-facilitation-timing-online-discussions]] — Тайминг фасилитации LLM в онлайн-совместных обсуждениях
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивный скаффолдинг ICAP в ITS (BKT против DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — Модель когнитивной глубины ICAP в агенте симуляции студента
-- [[assessing-student-drive-framework-2025]] — Оценивание рефлексивного взаимодействия с GenAI, опирающееся на ICAP

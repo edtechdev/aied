@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -43,7 +44,3 @@ Aux enseignants et aux [[learning-design|concepteurs pédagogiques]] qui veulent
 ## Remarques et réserves
 
 Les créations sont présentées comme partagées ouvertement, mais aucune licence n'est indiquée sur les pages des créations ni sur celle de la galerie, si bien que leur réutilisation exige l'autorisation de l'auteur plutôt qu'une autorisation présumée. La source est toutefois publique : les dépôts du compte contiennent le HTML et le JavaScript derrière les créations, ainsi qu'un tutoriel pour travailler avec des agents de codage dans l'éducation, de sorte qu'un lecteur peut inspecter une application plutôt que seulement l'exécuter. Plusieurs liens pointent vers des adresses d'aperçu de déploiement Netlify plutôt que vers un site de projet ; celles-ci sont conçues pour la revue et peuvent expirer, tandis que les versions GitHub Pages sont les stables. Certaines créations dépendent du modèle Jev de TypeSafe AI et affichent ses probabilités, si bien que le comportement sous-jacent est le jugement d'un modèle plutôt qu'une règle fixe. Le parcours des difficultés désirables est un argument — la friction comme fonctionnalité — et la page le présente sans rendre compte d'une évaluation de si les étudiants apprennent davantage.
-
-## Concepts liés
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

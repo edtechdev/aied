@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -170,58 +172,3 @@ ai_assist:
 - **「調査の証拠は弱いが、おおむね偏りはない。」** 回答の構造は偏りよりも前に推定を縛ります。ある調査は**回答率31%で112件の回答**を得るか、**572件の招待から90件の回答**を得ます。回答者の集団は自己選択された部分集合であり、その数値はその部分集合を記述するのです。
 - **「調査はこの分野では少数派の方法である。」** **394件のGenAI高等教育研究**のスコーピングレビューは、**調査尺度を最も頻繁に報告された評価方法（269研究、68.3%）**として見出し、テストや小テストより上位に置きました。この分野の支配的な証拠は自己報告です。
 - **「自己報告と測定された構成概念は一致する。」** **自己報告された認知負荷は、エッセイの著作が80%から2%に及ぶオフローディングのプロファイル間で有意に異なりませんでした**が、最も重いオフローダーは測定可能な差を示しました。主観的な測定は、行動が40倍の幅で変動する場所で平坦だったのです。
-
-## つながる概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## つながる記事
-
-- [[kares-xai-evaluation-alignment-2027]] — 参加者166名、3つの顕著性手法:満足度と信頼は横ばい、課題パフォーマンスと忠実性の指標は食い違う(Kares et al., 2027)
-- [[high-school-genai-acceptance-tam-physics-2026]] — 1つの意図スコア、正反対の2つの用法
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 自己報告尺度の実施方法が、測定される内容を変える
-- [[capability-decision-model-teacher-readiness-2026]] — 自己報告されたAI能力を効力信念から切り分けるための弁別妥当性の基準
-- [[pramod-agentic-ai-motivational-pathways-2026]] — エージェンティックAIのパスモデルでは、エンゲージメントが予測するのは測定されたパフォーマンスではなく知覚されたパフォーマンスである(Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — 教員のAIリテラシーに関する自己報告と客観的指標の並行測定
-- [[jin-glat-genai-literacy-assessment]] — GLAT:自己報告に代わるパフォーマンスベースの選択肢
-- [[genai-student-experiences-uk-he-survey-2026]] — 英国の複数機関にわたって学生のGenAI利用を調査
-- [[student-llm-interaction-taxonomy-review-2026]] — データが自己報告由来かログ由来かによって形づくられる分類体系
-- [[tracing-genai-literacy-interaction-patterns]] — GenAIリテラシーを特徴づけるプロセスデータ
-- [[engagement-intensity-learner-modeling]] — 学習者モデリングのシグナルとしての自己報告された利用状況
-- [[predicting-attrition-competitive-programming]] — 自己報告された自信と練習行動の対比
-- [[ai-use-critical-thinking-medical-students-2026]] — 単一情報源の媒介モデルにおけるコモンメソッドバイアス
-- [[genai-motivation-engagement-2026]] — 自己報告のみによる動機づけとエンゲージメントのPLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 物理学専攻の学部生81名を対象としたAI利用と信頼に関する調査
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 自己報告の補正策としての画面記録と刺激再生法
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — 自己調整学習に関する自己報告とトレースデータの併用
-- [[adaptive-pretesting-retention]] — ログから導出される行動的な努力の指標
-- [[ai-vocational-education-training-review]] — 自己報告と客観的指標の不均衡を報告するレビュー
-- [[student-genai-use-views-writing|ライティングにおける学生のGenAI利用とその見方]] — ある社会学系の1学科での調査とインタビュー
-- [[competent-generative-ai-use-measures-review-2026]] — AIリテラシーを超えて:有能な生成AI利用の測定尺度に関する構造的レビューと探索的メタ分析
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE:AIに伴う認知的オフローディングのためのプライバシー保護型自己省察ツール
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 小学高学年向けの15項目自己評価尺度で、知覚された有能感が何を立証できるかを明示している
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教員のAIリテラシー尺度33件中31件が自己報告であり、パフォーマンスベースは皆無と判明したレビュー
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 自己報告から導かれたプロファイルも同じ挙動を示す
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同一構成概念における自己報告とパフォーマンスの不一致に率を付した2段階レビュー(Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — 知覚された所有感はエッセイ全体の委任とそれ以外を区別するにとどまったが、トレースははるかに多くを区別した(Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66研究中32研究が知覚を報告し、探究スキルを測定したのは8研究にとどまる
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - AIリテラシーツールの63.8%が信頼性の証拠を報告する一方、妥当性の証拠を報告するのは20%未満
-- [[huang-genai-academic-information-resources-2026]] — 図書館のログと調査で得られた態度が異なる方向を指し示す
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — 調査のあらゆる指標で知覚された学習とエンゲージメントは上昇したが、試験得点は動かなかった
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — α = 0.997の300項目からなる教員向け尺度が、因子分析を一切行わずに99.68%の精度で予測した
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — 妥当性検証済みの尺度で、中央値は変わらないまま符号検定が有意となる
-- [[tischkau-ai-simulated-patient-formats-2026]] — 期待と記憶を比較する暫定的な前後測定尺度で、下位尺度のαは−0.39から0.87まで(Tischkau et al. 2026)

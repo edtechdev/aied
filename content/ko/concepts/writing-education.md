@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -114,7 +116,6 @@ Al Nafjan(2026)은 엄격성–헌신 정렬 프레임워크(RCAF)를 제안하�
 
 분과 특수적 사례는 그 요구가 실천에서 어떤 모습인지를 보여줍니다. [[malik-chatgpt-cognitive-tool-sociology-writing-2025|Malik]]은 사회학 학생 18명을 인터뷰하고 ChatGPT를 사용한 쓰기와 사용하지 않은 쓰기를 비교했습니다. 61%는 주로 초안 작성 중에, 39%는 주로 수정 중에 사용했으며, 지원받은 표본이 더 잘 조직되어 있었고, 학생들 스스로는 도구가 제공한 이론적 주장 중 일부가 틀렸기에 그것들을 교차 확인했다고 보고했습니다. 그 양상은 기획 지원 더하기 검증이며, 이것은 쓰기 강좌가 단속하기보다 가르칠 수 있는 AI 사용의 버전입니다.
 
-
 ## 쓰기 교사를 위한 함의
 
 - **AI를 쓰기 과정의 대체물이 아니라 보완재로 틀 짓기.** 이 지식베이스의 연구는 일관되게 AI를 초안 작성, 수정, 피드백의 비계로 대하면서 쓰기를 학습 활동으로 만드는 인지적 작업과 인간 수용자를 보호합니다 — [[coach-not-crutch-ai-writing|지팡이 대신 코칭]].
@@ -152,86 +153,3 @@ Al Nafjan(2026)은 엄격성–헌신 정렬 프레임워크(RCAF)를 제안하�
 **"AI 피드백이 제공되면 학생은 그것에 따라 행동한다."** 수용은 선택적입니다. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston과 Long(2026)]]은 두 학부 [[biology-education|생물학]] 팀이 제안서 서론을 교사가 만든 AI 피드백에 비추어 수정하는 과정을 추적했는데, 22개의 논평 중 10개가 반영되었고, 삭제가 추가보다 많았으며, 일관성이나 주장 지지를 판단하도록 요구하는 논평은 전혀 무시되었습니다.
 
 **"모형이 교사의 피드백 패턴을 대신할 수 있다."** 증거에서는 그렇게 하지 못했습니다. 한 교사를 초안 단계에 걸쳐 추적하자 **다섯** 가지 피드백 초점 유형에서 유의한 변화가 있었고(*칭찬*은 초기 초안의 **26.9%**에서 최종 초안의 **84.9%**로 상승), 가장 가까운 모형은 세 가지에서, 가장 적은 모형은 하나도 움직이지 않았으며 어떤 모형도 그 패턴을 재현하지 못했습니다. 교사 피드백은 초안 단계에 따라 강조를 재배분하고, 모형 피드백은 그 분포를 유지하는 경향이 있습니다. 두 번째를 동등하게 다루면 궤적을 잃습니다.
-
-## 연결된 개념
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## 연결된 문서
-
-- [[powell-chatbot-enhanced-oer-composition-2026]] — 텍스트가 말을 건다: 비동기 Composition II에서의 챗봇 강화 OER(Powell 외, 2026)- [[favero-thinking-not-writing-chatbot-2026]] — 사고는 쓰기가 아니다: 추론과 수정을 연결하도록 AI 챗봇 설계하기
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 예비교사의 교실 AI 정책: 긴장과 얽힘
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 쓰기 평가에서 AI 지원 채점을 위한 인간 개입 틀
-- [[llm-comparative-judgment-writing-screening-2026]] — 보편적 쓰기 선별을 위한 대규모 언어 모형 비교 판단의 타당성
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 생성형 AI 지원 쓰기에서 층에 민감한 인지 부하 전가(Chen 2026)
-
-- [[coach-not-crutch-ai-writing]] — AI 쓰기 도구는 노력을 줄이면서도 쓰기 기술을 개선할 수 있다(Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다(Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — 구조화된 성찰을 곁들인 동료-AI 검토(PAIRR)
-- [[posthumanist-ai-literacy-2025]] — AI 리터러시에 관한 포스트휴먼주의 접근
-- [[choi-anchor-aes-prompting-2025]] — 앵커 기반 자동 에세이 채점
-- [[aiawe-automated-writing-evaluation]] — AIAWE: 자동화된 쓰기 평가
-- [[agency-gap-ai-writing]] — AI 지원 쓰기에서의 주체성 격차
-- [[ai-writing-support-stage-ownership-2026]] — 기획에서 수정까지: 서로 다른 단계에서의 AI 쓰기 지원
-- [[genai-teacher-feedback-comparison]] — 생성형 AI와 교사 피드백 비교
-- [[student-rationalization-ai-writing]] — "It's OK Because...": 학생 합리화의 무법지대
-- [[care-full-feedback-genai]] — Care-Full 피드백 접근
-- [[self-referential-l2-writing-llm-assessment]] — 자기 준거적 L2 쓰기 평가
-- [[becerra-aicofe-feedback-2026]] — AI 또래 피드백 시스템
-- [[repeated-ai-writing-feedback-semester]] — 반복된 AI 피드백에 관한 학생 평가
-
-- [[ai-feedback-critical-thinking-writing-2026]] — AI가 생성한 피드백을 사용하여 비판적 사고 개선하기
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: 개인화된 자동 쓰기 피드백의 언어적 편향
-- [[bassett-ai-detectors-education-2026]] — 앞면이 이기든 뒷면이 지든: 교육에서의 AI 탐지기(Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — 학문적 소거: AI 지원 쓰기 아래에서 복잡성의 소멸
-
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 초등 저술에서의 멀티모달 AI 작성과 비판적 사고(Lu et al. 2027)
-- [[student-genai-use-views-writing]] — 쓰기에 대한 생성형 AI의 학생 사용과 시각(Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 초등 L2 동기, 참여, 수행을 위한 생성형 AI 지원 쓰기 프로그램(Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — 학생 마케팅 게시물의 자동 채점에서 합의와 오류
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — 프롬프트 리터러시와 내재적 동기가 깊은 수정을 이끌고 외적 명령은 직접 효과가 없다(Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 쓰기에 대한 LLM 생성 피드백의 초점과 교수법적 적응성 평가
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 8주 준실험에서 이질적 L2 비계인 교사 피드백 대 AI 지원 또래 피드백(Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — 생성형 AI 쓰기 수행의 메타분석: 큰 모아진 효과, 취약한 크기, 교수법 위의 방법론(Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — AI 쓰기 개인화와 이론-설계 불일치에 관한 체계적 검토(Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — 학술 쓰기와 디지털 비판적 사고에서의 구조화된 인간–AI 협력(Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 같은 초안의 인간과 AI 수정이 서로 다른 대화적 태도를 취한다: 또래 피드백은 대화적 공간을 닫고, AI 수정은 그것을 균형 있게 유지한다(Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: 사전 참여에 AI 출력의 관문을 달아 시간이나 정확도의 대가 없이 노력을 쓰기로 재분배했다(N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — 환경적 조절(도구 거버넌스)을 별개 차원으로 삼은 L2 쓰기를 위한 여섯 차원 생성형 AI-SRL 척도
-- [[gunay-ozden-process-genre-ai-writing-2026]] — 32명 규모 준실험: 과정-장르 교수가 설명적, 다중 양식, AI 지원 쓰기를 높였습니다(Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — AI로 채점하는 문제에 관한 쓰기 교수 24명: 피드백의 이점, 점수의 표류, 기관 규칙의 부재
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51편 범위 검토: 프롬프트 투명성 격차와 AI와 교사 결합이 단독보다 나은 이유
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — AI를 동료 피드백과 짝지으면 참여와 쓰기 점수가 올라갑니다
-- [[when-students-prefer-ai-scoring-feedback-2026]] — 학생은 고부담 쪽에 사람을 원합니다
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — 생물학 학부생의 AI 기반 피드백 수용과 장벽(Weston and Long 2026)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 학술 쓰기에서 책임 있는 학생의 생성형 AI 사용: 경계, 교육적 접근, 증거 격차의 범위 검토
-- [[porcaro-ai-grading-benchmark-2026]] — 합의를 넘어서: 정답이 알려진 탐침을 만나는 22개의 프롬프트 채점기, 그리고 대부분은 설득될 수 있다(Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — 학습자 맥락이 동일한 작업에 대한 LLM 채점자의 점수를 바꾼다: 여섯 모형에 대한 문항 내 절제 실험(Porcaro 2026, 논문 VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — 추적으로 측정한 위임: 137건의 전체 과제 질의, 타이핑한 단어 없이 에세이를 제출한 학생 15명(Jelson 등 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI 시대 쓰기 참여의 두 차원으로서의 엄격성과 교사 헌신
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13개 분반, 10개 강좌, 654명: 대표적인 PAIRR 배포와 피드백 전용 프롬프트
-- [[alam-process-oriented-collaborative-essays-2026]] — 과정 지향적 협력 에세이: 채점되는 반복과 협력, 경계 안에서 허용된 GenAI(Alam & Jackson 2026)
-- [[webb-davies-voice-first-written-assessment-2026]] — 관찰 하에 추론을 확보한 뒤 집에서 작성한 제출물을 채점하는 2단계 쓰기 평가, 불분명한 연결에는 조건부 구술 시험(Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — 블랙박스 평가: 과정의 창, 증거로서의 오류, 가시성을 통한 진실성(Winstone, Gravett & Elkington 2026)
-- [[dumin-ai-research-projects-first-year-writing-2026]] — 1학년 영어 작문에서 AI 연구 프로젝트 분석
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 사회학 학생 18명: 개요 작성과 수정을 위한 ChatGPT, 그리고 그들이 확인해야 했던 이론

@@ -20,6 +20,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [libraries, information-and-media-literacy, librarians, ai-literacy, generative-ai, governance]
 ---
 
 > **Synthesis:** Ayinde, Ebiefung and Oladokun review 29 studies published between 2020 and 2024 to ask what academic libraries actually do with [[generative-ai|AI]], what stops them, and what should be studied next. The practices sort into six dimensions — technical services, reference and information services, administrative and circulation services, collection development, [[information-and-media-literacy|information literacy and user education]], and professional development — and reference is the center of gravity: AI for directional and ready-reference questions appears in 34.48% of the reviewed studies. The barriers are organizational more than technical. Funding is named in 48.28% of studies and technical skill and data-quality gaps in 58.62%, while fear of job loss appears in only 13.79%. The authors read the pattern as a field automating transactional work first and leaving judgment work human, and they call for user-driven research rather than more pilot descriptions.
@@ -63,15 +64,6 @@ For a reader trying to act, that changes the status of every percentage above. T
 - Quality appraisal against a five-area checklist with a threshold of 5/10 filters weak studies but cannot create outcome data the original studies did not collect.
 - The authors describe their own method as conceptual and note that no primary data were collected; the six dimensions and the barrier categories are analytical groupings, not validated constructs.
 - Rapid change in the technology means the 2020–2024 window under-represents current tools, particularly agentic and retrieval-augmented systems.
-
-## Connected Concepts
-
-- [[libraries]]
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[governance]]
 
 ## Citation
 

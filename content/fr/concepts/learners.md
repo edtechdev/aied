@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -110,50 +112,3 @@ Le fil des apprenants se lit avec [[stakeholders|acteurs de l'éducation]] pour 
 **« L'usage de l'IA par les étudiants pour prendre des raccourcis est une faute morale. »** L'attrait du moindre effort est un problème de conception et de politique plutôt que de caractère — les étudiants le décrivent dans leurs propres mots, et la littérature sur le [[reducing-ai-misuse|mésusage]] et l'[[academic-integrity|intégrité]] situe le levier dans la conception de la tâche et de l'environnement. Le cadrage moral n'explique rien du fait qu'un même étudiant se comporte différemment dans deux cours.
 
 **« Quand une allégation de faute est formulée, les preuves sont là. »** Les dossiers montrent une assise plus faible : les preuves les moins bien notées sont celles qui sont citées, aucun seuil probatoire ne décide si une affaire progresse, et les affaires minces finissent en appels. Ne documenter que l'usage des apprenants et non leur exposition à l'accusation couvrirait la moitié de l'expérience.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Comment les apprenants perçoivent l'IA, interagissent avec elle et en sont affectés
-- [[learner-identity]] — Ce que les apprenants deviennent en relation avec une discipline et avec l'IA
-- [[agency]] — Ce que les apprenants contrôlent et choisissent encore
-- [[student-ai-interaction]] — Ce que les apprenants demandent réellement à l'IA et comment les dialogues évoluent
-- [[cognitive-offloading]] — La dépendance excessive et la substitution de l'IA à la pensée
-- [[self-regulated-learning]] — Planifier, suivre et ajuster son propre apprentissage
-- [[help-seeking]] — Demander de l'aide comme il faut, et les modes d'échec quand les apprenants s'en abstiennent
-- [[metacognition]] — Savoir ce que l'on comprend et ce que l'on ne comprend pas
-- [[motivation]] — Pourquoi les apprenants persistent ou s'arrêtent
-- [[self-efficacy]] — La confiance des apprenants dans leur propre capacité
-- [[student-engagement]] — L'engagement comportemental, émotionnel et cognitif
-- [[prior-knowledge]] — Les connaissances préalables qui décident si un soutien devient un apprentissage
-- [[student-modeling]] — Représenter l'apprenant à l'intérieur du système
-- [[knowledge-tracing]] — Estimer l'acquisition des compétences au fil du temps
-- [[simulating-students]] — Des apprenants simulés par LLM comme substituts provisoires
-- [[ai-literacy]] — La capacité qui décide si les apprenants utilisent bien l'IA
-- [[equity-in-ai-education]] — Qui en bénéficie et qui est laissé de côté
-- [[well-being]] — Anxiété, stress et coût affectif de l'étude médiée par l'IA
-- [[misconceptions]] — Les modèles mentaux que les apprenants apportent à l'IA
-- [[stakeholders]] — L'autre versant du même champ : enseignants, dirigeants, concepteurs
-- [[assessment]] — Quelles capacités de l'apprenant sont véritablement rendues visibles
-
-## Articles liés
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Les modes de recours et la littératie d'évaluation divisent les résultats des étudiants
-- [[student-perceptions-ai-study-productivity-2026]] — Learners report efficiency gains alongside dependency concerns
-- [[student-llm-interaction-taxonomy-review-2026]] — Une taxonomie de l'interaction étudiant-LLM orientée vers l'apprentissage
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-specific patterns in student-AI chat
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Assisted performance gains without independent capability
-- [[genai-performance-vs-learning]] — Pourquoi la performance assistée et l'apprentissage non assisté doivent être mesurés séparément
-- [[shaw-nave-cognitive-surrender-2026]] — La capitulation cognitive comme disposition, non comme accident
-- [[metacognitively-discordant-completion-genai-2026]] — Les apprenants qui constatent qu'ils ne comprennent pas et rendent leur copie quand même
-- [[verification-quality-reliance-calibration-genai-2026]] — Qualité de vérification et calibrage du recours
-- [[simulating-students-llm-review-2026]] — Étudiants simulés : architecture, mécanismes et limites
-- [[stanbkt-bayesian-knowledge-tracing]] — Parameter estimation in Bayesian knowledge tracing
-- [[demographic-signals-llm-student-assessment-2026]] — Signaux démographiques implicites et explicites dans l'évaluation par LLM
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Littératie en IA, engagement et capital psychologique
-- [[genai-student-experiences-uk-he-survey-2026]] — Les étudiants décrivent l'attrait du moindre effort
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Les étudiants sur la question de savoir si l'IA générative est un outil de triche ou un partenaire d'apprentissage
-- [[munoz-misconduct-allegation-evidence-2026]] — Ce que contiennent réellement les dossiers d'allégation de faute comme preuves
-- [[wright-transcription-not-generation-2026]] — Des règles sur l'IA trop larges et les étudiants qu'elles attrapent
-- [[sharma-judgment-visible-genai-assessment-2026]] — L'intégrité comme jugement évaluatif plutôt que conformité
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Les coûts émotionnels et d'équité de la surveillance à distance pour les étudiants

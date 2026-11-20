@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -51,7 +53,6 @@ ai_assist:
 
 - **전사본의 충실도가 텍스트가 비디오를 대신할 수 있는 범위를 결정합니다.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard and Rosenberg(2026)]]는 Crash Course U.S. History 에피소드에서 다섯 ASR 시스템을 인간 참조 전사본과 비교 평가했고, 단어 오류율은 2.43%(TurboScribe)에서 15.32%(Vosk)까지 분포했습니다. 48개 전사본에 대한 GPT-5.5 코딩은 PERSON을 가장 빈번한 개체명 범주로 찾았고(총 2,033건, 에피소드당 M = 42.35), 미리 정의된 K-스캔은 K = 5를 선택했으며, 여기서 LLM 참조 확장이 ASR 기준선보다 더 명확한 주제 분리를 만들어냈습니다.
 - **영역 수준 확대는 내레이션 슬라이드에 빠져 있던 층입니다.** 시청자 24명의 피험자 내 연구에서 자동 확대와 동기화된 강조가 NASA-TLX 작업 부하를 5.74에서 4.53으로 낮추고(d = 0.84) 즉각적 이해를 높였지만(d = 0.46), 24시간 이점은 유의성에 도달하지 못했습니다(p = .054)([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian 외(2026)]]).
-
 
 ## 개인화 대 인간의 존재감
 
@@ -89,36 +90,3 @@ ai_assist:
 **"교사를 아바타로 복제하면 인간적 현존감이 확장된다."** 그것은 생산을 확장하고 전달되는 것을 바꿉니다. 교사에서 복제한 AI 아바타는 규모 있게 영상을 생성할 수 있지만 언캐니 밸리 불편을 유발하고 환경 영향, 노동, [[academic-integrity|정직성]]에 걸친 [[ethics|윤리]]적 반대를 낳습니다. 확장되는 현존감은 교사의 시뮬레이션이며, 비용은 그 시뮬레이션에 붙습니다.
 
 **"한 강의의 여러 변형을 생성하는 것이 개인화다."** 변형 수는 생산 수치이지 교수 수치가 아닙니다. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]는 대학원 강의 31개에서 의료, 금융, 에너지, 일반 청중을 위해 209개의 영상을 생성했으며, 이는 파이프라인의 용량을 보여 줍니다. 어떤 변형이 특정 학습자의 필요에 맞았는지는 생성 수가 답할 수 없는 별개의 질문입니다.
-
-## 연결된 개념들
-
-- [[online-teaching-and-learning]] — 온라인과 혼합 교수의 핵심 매체로서의 비디오
-- [[generative-ai]] — AI 생성 및 개인화 비디오의 엔진
-- [[personalized-learning]] — AI 비디오의 호소력을 이끄는 동력으로서의 개인화
-- [[adaptive-learning]] — 적응적 비디오 생성과 속도 조절
-- [[multimodal]] — 시각, 청각, 텍스트 양태를 결합하는 비디오
-- [[learning-analytics]] — 비디오 참여와 주의에 대한 분석
-- [[student-engagement]] — 비디오 개인화가 높이려는 참여
-- [[pedagogical-agent]] — 가상 교수법적 도구로서의 AI 아바타·진행자
-- [[llm]] — 스크립트와 비디오 생성을 떠받치는 대규모 언어 모델
-- [[trust]] — AI 진행자와 콘텐츠에 대한 학습자의 신뢰
-
-## 연결된 글들
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: MOOC 수준의 산업 맞춤 강의 비디오를 규모 있게 생성하기(Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT 생성 비디오 내 코멘트: 엔트로피 타이밍, 인간 코멘트 대비 질적 간극(Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — 학생들은 개인화되지 않은 인간 녹화 강의보다 개인화된 AI 생성 비디오를 선호함(Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — 컴퓨팅 교육에서 AI 생성 수업용 비디오에 대한 학생의 인식·선호
-- [[ai-video-dual-gatekeeping-2026]] — 교수법적으로 토대를 둔 AI 비디오 제작을 위한 이중 게이트키핑
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: 적응적 교수법 비디오 생성
-- [[engagement-assessment-video]] — 비디오 학습에서의 참여 평가
-- [[savvy-student-attention-video-learning]] — 비디오 기반 학습을 위한 학생 주의 시각화
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — AI 매개 학습에서 아바타 정체성이 인식론적 신뢰를 형성하는 방식
-- [[bilingual-llm-lecture-companion-srl-2026]] — 자기조절 학습을 위한 이중언어 LLM 강의 도우미
-- [[adhd-video-segmentation-computing-education]] — 개인차를 위한 시간적 비디오 분절
-- [[ai-psychotherapy-training-avatars]] — 심리치료 훈련에서의 AI 아바타
-- [[gemini-lualatex-physics-video-transcription-2026]] — 물리 강의 비디오를 접근 가능한 텍스트로 전사하기
-- [[pivot-generative-video-tutors-stem-2026]] — 콘텐츠 생성에서 학습 지원으로: STEM 학습을 위한 교수법이 안내하는 생성 비디오 튜터
-
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — 저기를 보세요! AI 내레이션 슬라이드를 위한 동적 시각 안내
-

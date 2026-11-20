@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,16 +48,3 @@ Eri alojen opettajille, erityisesti korkeakoulutuksessa ja ammatillisissa ohjelm
 ## Huomioita ja varauksia
 
 Tämä on käytännön opas, ei empiirinen tutkimus; sen väitteet opiskelijoiden tekoälyn käytöstä nojaavat viitattuihin ulkoisiin lähteisiin (BestColleges, Campbell, Digital Education Council, Flaherty) eivätkä uuteen dataan. "Verkoston rakentamisen" kehys ja "ymmärtämisen illuusion" jäsennys on otettu laajemmasta kirjallisuudesta (Wigmore ym.; Williamson ym.), ja ne esitetään pedagogisena perusteluna, eivät pelikirjan itsensä testattuina tuloksina. Tehtävät ovat kirjoittajien pohjia – yhdestäkään ei raportoida vaikutuskokoja, joten niitä tulisi pitää suunnitelmina, joita mukautetaan ja arvioidaan paikallisesti. Julkaistu 7.10.2026, v1, Zenodossa CC BY 4.0 -lisenssillä; ladattavissa ilmaiseksi ilman tiliä. Tietueen mukaan sillä on vain noin 35 katselukertaa ja noin 14 latausta, joten se on saanut vielä vähän ulkopuolista käyttöä tai vertaisarviointia.
-
-## Liittyvät käsitteet
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

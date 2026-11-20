@@ -11,6 +11,8 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 reviewed_by: [editor]
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 > **Reinforcement learning** trains AI tutors and agents through reward signals: [[special-r1-rl-special-education|Lee et al., 2026]], [[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]], [[pedagogical-safety-rl|Olukolaa et al. (2026)]], and [[ai-coaching-rl-skill-development|Wang et al. (2026)]] align RL with [[pedagogy|pedagogical]] objectives, including safety and skill transfer ([[intelligent-tutoring|intelligent tutoring]], [[agentic-ai|agentic AI]]).
@@ -56,29 +58,3 @@ RL underpins much modern [[agentic-ai|agentic AI]] and [[intelligent-tutoring|in
 **"Longer horizons are simply better."** They enable what shorter horizons cannot, and they require the reward to be right across the whole sequence. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimises whole **60-turn clinical encounters**, well beyond the ≤12-turn horizons of concurrent dialogue systems, which raises the cost of a mis-specified objective rather than lowering it.
 
 **"RL is the appropriate formalism for tutoring because teaching is sequential."** Sequencing is necessary and not sufficient; the binding constraint is the reward's validity. A well-specified objective with a weak policy beats a strong policy against a wrong objective.
-
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Connected Articles
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

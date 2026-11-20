@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,33 +68,3 @@ Pendidikan khusus adalah domain tempat kapasitas AI untuk personalisasi dan adap
 - **"[[usability-research|Penilaian kegunaan]] memvalidasi alat bantu."** Praktisi memberi alat Social Story yang mereka rancang bersama penilaian kegunaan yang lulus (SUS 86.8) sambil menyalahkan citra Barat yang seragam dan pelacak perilaku yang melewatkan pertimbangan klinis terkait tujuan. Kegunaan tinggi berjalan bersama kegagalan substantif, jadi skor SUS bukan pengesahan kecocokan.
 - **"Tolok ukur generik memberi tahu Anda bagaimana tutor menangani kasus pendidikan khusus."** Dari **923 dialog berlandaskan kasus** dari literatur pendidikan khusus dan psikologi pendidikan, **model terbaik dari 11 model** memenuhi kriteria terdokumentasi — dan **itulah batas cakupan tolok ukur tutor**. Evaluasi standar tidak menjangkau kasus yang paling membutuhkan bantuan.
 - **"Siswa neurodivergen membutuhkan akomodasi, bukan persyaratan desain."** [[neurodivergent-computing-students|Zastudil et al.]] menemukan siswa komputasi neurodivergen membutuhkan **tugas yang terstruktur, tim kecil yang konsisten, dan definisi peran yang eksplisit** — persyaratan desain umum yang bermanfaat bagi semua orang, bukan penyesuaian individual yang diberikan setelah diagnosis.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Artikel terkait
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: mengevaluasi tutor LLM pada siswa dengan perilaku menantang (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — Pengalihan kognitif GenAI bagi siswa dengan disabilitas belajar
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Pembuatan pertanyaan bertenaga LLM untuk siswa Tuli dan Kurang Dengar
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: Tinjauan cakupan teknologi bantu digital bagi siswa neurodivergen di pendidikan tinggi
-- [[adapted-stories-social-story-intervention-2026]] — Intervensi Social Story Berbantuan AI untuk Pendidikan Khusus: Desain AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Model bahasa-visi merencanakan Shoebox Tasks untuk robot Nao (Kudláčková 2026)

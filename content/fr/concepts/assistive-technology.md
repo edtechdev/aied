@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,27 +70,3 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - **« Une taille d'effet moyenne identifie le bon outil. »** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et coll.]] trouvent que les interventions fondées sur l'IA produisent un effet positif moyen sur les résultats d'apprentissage des étudiants en situation de handicap (**g = 0.588**) à travers robots, logiciels et RV intelligente. C'est une moyenne sur des technologies très différentes servant des besoins très différents, si bien qu'elle étaye la catégorie et non un choix en son sein.
 - **« Un accès conditionné à un diagnostic est une conception défendable. »** Exiger un diagnostic formel pour participer exclut des apprenants ayant de vrais besoins et aucune étiquette, ce qui contredit la [[universal-design-for-learning|conception universelle]] et fait peser le coût de l'accès sur la documentation de l'étudiant.
 - **« Plus d'outils d'assistance signifie plus d'inclusion. »** Une revue de cadrage a criblé **766 enregistrements** dans cinq bases de données, et le volume de production n'est pas la même chose que la couverture des besoins — le nombre d'études par barrière est le chiffre le plus informatif.
-
-## Concepts liés
-
-- [[accessibility]] — la propriété de conception que les technologies d'assistance opérationnalisent
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Articles liés
-
-- [[shin-ai-policies-sld-2026]] — Politiques d'IA et aménagements pour les élèves présentant des troubles spécifiques de l'apprentissage
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Méta-analyse des interventions d'IA pour les élèves en situation de handicap
-- [[kutti-ai-voice-first-learning-companion]] — IA à commande vocale pour les enfants malvoyants
-- [[tactile-statistical-graphs-accessibility]] — Graphiques statistiques tactiles générés par l'IA
-- [[text-simplification-its]] — Simplification de textes par LLM pour le tutorat intelligent
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour les apprenants sourds ou malentendants
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcription de vidéos de physique accessible aux mathématiques avec Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — IA générative d'assistance pour les apprenants malvoyants
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue de cadrage des technologies d'assistance numériques pour les élèves neurodivergents dans l'enseignement supérieur

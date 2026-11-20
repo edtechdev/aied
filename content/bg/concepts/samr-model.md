@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -80,28 +82,3 @@ SAMR се разбира най-добре като леща за дълбочи
 **„SAMR и TPACK са конкурентни рамки.“** Те описват различни неща: SAMR описва *степента на трансформация* на една задача, докато [[tpack|TPACK]] описва *знанието*, което учителят се нуждае, за да интегрира технология добре. Учителят може да е силно TPACK-способен и пак да работи при Заместване, поради което двете се използват заедно, вместо да се избира между тях.
 
 **„Инструмент, който е трансформативен на едно ниво, е трансформативен на всички нива.“** Същият генеративен инструмент може да подкрепи Заместване в един курс и Предефиниране в друг, защото нивото е свойство на дизайна на задачата, а не на технологията. Приписването на нивото на инструмента произвежда решения за приемане вместо дизайнерски решения.
-
-## Свързани концепции
-
-- [[ai-education]] — AI в образованието (зонова концепция)
-- [[tpack]] — Технологични педагогически съдържателни знания
-- [[technology-acceptance-model]] — Модели за приемане на технологии
-- [[icap-framework]] — Рамката ICAP за когнитивна ангажираност
-- [[ai-technologies]] — AI технологии и техники
-- [[teacher-ai-competency]] — AI компетентност на учителите
-- [[educational-development]] — Образователно развитие
-- [[learning-design]] — Дизайн на обучението
-- [[k-12]] — K-12 образование
-- [[higher-ed]] — Висше образование
-- [[generative-ai]] — Генеративен AI
-
-## Свързани статии
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI интеграция във висшето образование, оценена със SAMR: предимно Заместване/Усилване
-- [[thermomix-genai-education-analogy-2026]] — ICAP и SAMR съпоставят четирите сценария от готвене към учене
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR сред лещите за промяна на учебната програма, движена от GenAI
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR сред рамките, които информират стандартите за технологии на преподавателите
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Постхуманистичната критика на хуманистичната онтология на SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Мълчанието на SAMR за властта, собствеността върху данните и отчетността
-- [[genai-use-changing-institutional-policy-physics-2026]] — Използването на GenAI от студенти при променящи се институционални политики: функции на употреба, съпоставени с нивата на SAMR (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI в часовете по математика: синергична стратегия за разнообразие и приобщаване

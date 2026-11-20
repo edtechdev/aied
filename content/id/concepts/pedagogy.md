@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -98,47 +100,3 @@ Penekanan pada usaha yang dipertahankan itu tidak absolut: desain [[mixed-method
 - **"Pengetahuan AI teknis adalah yang paling dibutuhkan guru."** Di seluruh **46 guru dan 2,832 siswa**, **pengetahuan AI pedagogis guru** memprediksi persepsi siswa tentang AI untuk kebaikan sosial. Pengetahuan pedagogis mengungguli pengetahuan teknis, yang membalik ke mana sebagian besar investasi pelatihan diarahkan.
 - **"Kontribusi utama AI dalam pendidikan bersifat instruksional."** **Tinjauan PRISMA atas 28 studi** menemukan AI paling sering meningkatkan **perencanaan instruksional dan desain penilaian** — kontribusi terjelasnya adalah **mengalihkan pekerjaan administratif**, bukan mengajar. Kasus yang dibangun di sekitar keuntungan instruksional berdiri di atas cabang bukti yang lebih lemah.
 - **"Instruksi literasi AI otomatis berterjemah menjadi pengajaran yang lebih baik."** Meta-analisis tiga tingkat atas **59 studi (172 ukuran efek)** menemukan **intervensi yang berfokus pada pengetahuan (g ≈ .97)** jelas mengungguli pendekatan lain dalam menggerakkan pengetahuan. Menggerakkan pengetahuan adalah hasil yang diukur; apakah itu mencapai praktik adalah pertanyaan berikutnya.
-
-## Konsep terkait
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Metafora dan analogi sebagai teknik pengajaran
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Metode kasus dan kasus pembanding sebagai teknik pengajaran
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — Alat AI yang dilatih untuk mengikuti prinsip pedagogis
-
-## Artikel terkait
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI sebagai mediator didaktis-pedagogis: model triadik instruktur–siswa–GenAI (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogi dulu, teknologi kemudian' — TPAIK mengungguli TAIK teknis bagi hasil siswa (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Kemitraan pedagogis dengan AI generatif
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Bagaimana panduan instruksional membentuk efek pembelajaran GenAI
-- [[generative-ai-guardrails-harm-learning]] — Tutor berpagar pengaman (petunjuk-bukan-jawaban) menghapus penalti ujian
-- [[agentic-ai-pedagogical-best-practice-2026]] — Ketegangan otomatisasi-vs.-pembelajaran dalam AI agentik
-- [[jeon-isd-agent-bench-2026]] — Mendasarkan agen pada teori desain instruksional
-- [[ai-learning-tools-engineering-education-needs]] — Alat pembelajaran AI dalam pendidikan teknik
-- [[fowlin-operationalizing-learning-principles-ai]] — Mengoperasionalkan prinsip pembelajaran dengan AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI dan Praktik Desain Instruksional: Tinjauan Sistematis (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Pendekatan instruksional dalam intervensi literasi AI
-- [[cognitive-distribution-student-genai-interaction-2026]] — Interaksi siswa-AI sebagai distribusi kognitif yang bergeser, bukan ketergantungan tetap (53.3% ekstensi)

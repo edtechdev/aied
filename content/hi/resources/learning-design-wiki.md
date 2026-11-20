@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -50,6 +51,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 ## टिप्पणियाँ और चेतावनियाँ
 
 हर पेज पर विश्वास-पैनल पढ़ें। भाषा मॉडल विकी को एक मानव अनुरक्षक के अधीन रखते हैं, किसी व्यक्ति ने किसी पेज की जाँच नहीं की है, और साइट किसी पेज को निष्कर्ष के बजाय अच्छी तरह स्रोत-सहित सुराग कहती है। दावों पर एक डिज़ाइन-स्तर, एक प्रभाव-आकार कोड और एक कठोरता कोड होता है, और "कोई प्रभाव-आकार नहीं छपा" का अर्थ है कि स्रोत ने कोई नहीं बताया, यह नहीं कि कोई है ही नहीं। सामग्री CC BY-SA 4.0 है, इसलिए पुनःउपयोग को वही लाइसेंस साथ रखना होगा, और कोड MIT है।
-
-## संबद्ध अवधारणाएँ
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

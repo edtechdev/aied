@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -161,75 +163,3 @@ Bu sayfa, [[llm]] sayfasının — büyük dil modellerinin ne olduğunu ve nas�
 - **“Öğrenme kazanımlarının başlıca belirleyicisi modeldir.”** Model ve istek metni seçimi, bir LLM ile öğrenci öğrenme kazanımları arasındaki açığın yalnızca **yaklaşık %15'ini** açıklar. İş, kalan %85'i en iyilemektedir ve o kısım ağırlıklarda değildir.
 - **“Yerel bir model barındırılan modelden geri kalır, dolayısıyla getiri daha zayıf bir kaldıraçtır.”** Üç yapılandırmalı bir değerlendirmede **birinci mertebe tasarım kararı model değil getiriydi**: **getirisi olmayan yerel LLM yalnızca %52,3 doğruluğa ulaştı ve bir TF-IDF taban çizgisinin altında kaldı**. Getiri eklemek, aynı modeli hiçbir model değişiminin tek başına ulaşamayacağı bir eşiğin ötesine taşıdı.
 - **“Daha fazla eğitim verisi daha iyi öğretme davranışı demektir.”** Biçimlendirmeyi iyileştirirken geri bildirim üretimini kötüleştiren değerlendirme ince ayarı, küçük ölçekte karşı örnektir: benzer görünen bir hedefe karşı en iyileme, vekili iyileştirip istediğiniz şeyi bozabilir.
-
-## Bağlı Kavramlar
-
-- [[llm]] — bu modellerin ne olduğu; bu sayfa onların nasıl yapıldığıdır
-- [[ai-technologies]] — şemsiye: YZ teknolojileri ve teknikleri
-- [[rag]] — getiri, eğitimden önceki adım
-- [[prompt-engineering]] — en ucuz kaldıraç ve yenenecek taban çizgisi
-- [[reinforcement-learning]] — son eğitimin PÖ aşaması
-- [[intelligent-tutoring]] — ana uygulama alanı
-- [[adaptive-learning]] — modelleri uyarlamaktan farklı olarak öğrenenlere uyarlama
-- [[automated-assessment]] — ince ayarlı puanlama modellerinin indiği yer
-- [[automated-essay-scoring]] — puanlama kanıtlarının çoğunun geldiği görev
-- [[ai-feedback-quality]] — ince ayarın neyi düzelttiği ve düzeltmediği
-- [[educational-nlp]] — komşu yöntem ailesi
-- [[simulating-students]] — aynı makinenin öğrenen tarafı uygulaması
-- [[student-modeling]] — simülasyonun altındaki modelleme katmanı
-- [[open-source]] — yerel ince ayarı mümkün kılan şey açık ağırlıklardır
-- [[benchmark]] — bu sistemlerin nasıl değerlendirildiği ve bunun sınırları
-- [[assessment-validity]] — iyi bir ölçütün neden hâlâ kötü bir araç anlamına gelebileceği
-- [[pedagogical-safety]] — eğitimin garanti etmediği şey
-- [[ai-sycophancy]] — son eğitimin hedefleyebileceği bir davranış
-- [[hallucination-risk]] — ince ayarın iyileştiremediği başarısızlık kipi
-- [[privacy]] — eğitim verisi ve unutma üzerindeki kısıt
-- [[human-in-the-loop-ai]] — otomasyonu karşılanabilir kılan geri çekilme yolu
-- [[metacognition]] — son eğitim için pedagojik bir hedef
-- [[scaffolding]] — ödül işlevlerinin kodlamaya çalıştığı davranış
-- [[ai-education]] — bu çalışmanın hizmet ettiği alan
-
-## Bağlı Makaleler
-
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Müfredat yapılı veri örnek-verimlidir
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — PÖ–SFT–PÖ hattı: CDPK’de yüzde 96,52, Gemini-3 Pro’yu geride bırakarak
-- [[learnlm-improving-gemini-learning]] — Gemini’nin son eğitimi içinde pedagojik yönerge izleme
-- [[teachlm-post-training-llms-education]] — 100.000 saat otantik öğretmenlik verisi üzerinde son eğitim
-- [[tact-pedagogically-adaptive-esl-tutoring]] — pedagojik kararı hedefleyen taksonomi-hizalı son eğitim
-- [[swim-student-writing-simulation-2026]] — rubrik istek metnine karşı SFT ve GRPO, ödül tasarımı ayrıntısıyla
-- [[misconception-acquisition-dynamics-llms-2026]] — yanlış kanı eğitimi için bağlayıcı gereksinim olarak adım düzeyi izler
-- [[jeon-isd-agent-bench-2026]] — 25.795 senaryo üzerinde teori-temelli öğretim tasarımı etmenleri
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — modelleri Sokratik rehberler olarak hizalamak için sezgisel PÖ
-- [[special-r1-rl-special-education]] — özel eğitim hizalaması için pekiştirmeli öğrenme
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — kişiselleştirme için LLM rehberli pekiştirmeli öğrenme
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — pedagojik bir büyük akıl yürütme modeli
-- [[omniedu-open-educational-foundation-models-2026]] — model ölçekleri arasında örnek başına tek hedef davranış
-- [[garrod-edu-qurating-educational-data-curation-2026]] — eğitim verisini eğitim için küratörlük yapmak
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA rütbe etkileri ve bağdaştırıcı parametresi başına kazanım
-- [[aiawe-automated-writing-evaluation]] — ölçeğin başarıyı öngörmediği LoRA-uyarlamalı AWE
-- [[llm-graders-computer-science-exams-2026]] — ~3.900 örnekteki tek bağdaştırıcının insan puanlayıcı eşitliğine ulaşması
-- [[iks-instruct-dataset-indian-knowledge]] — 24.795 örneklik bir yönerge veri kümesi ve sıfıra yakın temel taban çizgisi
-- [[llm-children-reading-story-generation]] — okuma düzeyi denetimi için ölçek üzerinde denetlenebilirlik
-- [[bert-discourse-english-teaching-2026]] — hangi katmanların ince ayarlanacağı ve dördünün on ikiyi neden yendiği
-- [[nuclear-diffusion-text-to-image-learning-2026]] — ince ayarın işleyip işlememesine mimarinin, parametre sayısının değil, karar vermesi
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 2B bir modele sadakat denetimiyle damıtma
-- [[llm-unlearning-math-privacy]] — kişisel bilgi ve zararlı içeriğin gradyan tabanlı unutması
-- [[reflection-level-classification-hungarian-essays-2026]] — klasik ve gömmeli taban çizgilerine karşı ince ayarlı transformer’lar
-- [[multimodal-item-parameter-estimation-2026]] — çok kipli maddelerden IRT eğrileri öğrenmek
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — döngüde-insan politikası olarak güven yönlendirmesi
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — enerji ve VRAM bildirilerek birinci mertebe karar olarak getiri
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 çalışma: istek metni 13, ince ayar 7, melez 3
-- [[gpt-item-generation-l2-listening-2026]] — istek metni platoya çıkar, sonra ince ayar kalanı ekler
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — ince ayar puanlamada kazandı ve geri bildirimde başarısız oldu
-- [[educational-llm-alignment]] — model ve istek metni seçimi üzerinde ~yüzde 15 tavan
-- [[yasar-llms-iterative-pedagogical-design-2026]] — eğitimsiz alternatif olarak rubrik rehberli istek metni
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — yanlış kanı simülasyonu için istek metni düzeyinde persona denetimi
-- [[eduframetrap-llm-sycophancy-educational-safety]] — açık bir eğitim gereksinimi olarak övüggenlik
-- [[contextual-sycophancy-ai-literacy]] — istek metniden ve hizalamadan sağ çıkan övüggenlik
-- [[hazra-safetutors-pedagogical-safety-2026]] — süregelen diyalogda bozulan güvenlik
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — eğitimsiz bir sınır modelden ~yüzde 35 kullanılamaz ipucu
-- [[simulated-students-tutoring-dialogues-2026]] — simüle edilmiş öğrencilerin öğrenciler gibi davranıp davranmadığı
-- [[inside-llm-student-simulator-reasoning-2026]] — bir modeli bir öğrenci gibi davranmak ve düşünmek üzere ince ayarlamak
-- [[history-aware-student-simulation]] — bir öğrenenin yörüngesine koşullandırılmış simülasyon
-

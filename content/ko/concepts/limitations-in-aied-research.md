@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -129,49 +131,3 @@ AI는 끊임없이 변하고 있으며, 어떤 주어진 모형이나 시스템�
 - **"한계 섹션은 상투적 형식입니다."** 방법론적 한계는 인상이 아니라 **측정 가능한 것**입니다. 비판적 사고와 AI에 관한 **HCI 연구 80편**에 대한 비판적 고찰에서 **42편(52%)이 통제 집단을 두지 않았습니다**. 한계를 실행 가능하게 만드는 것은 정확한 계수입니다.
 - **"이질성은 인용할 수 있는 하나의 숫자입니다."** 같은 고찰은 보고의 위험을 보여 줍니다. 이질성은 **고정효과 모형에서 I² = 82.98%, 무선효과 모형에서 I² = 15.75%**로 인용됩니다. 같은 자료가 선택한 모형에 따라 아홉 포인트의 이야기가 되기도 하고 두 포인트의 이야기가 되기도 하므로, 모형 없이 인용된 I²는 해석 불가능합니다.
 - **"보고된 큰 효과가 신뢰할 숫자입니다."** **한 장소의 한 강의에서 30명의 학생**으로부터 나온 효과 같은 표제가 취약한 주장의 흔한 형태이며, 통제 집단이 없는 연구의 수는 그러한 취약성이 얼마나 자주 보고되지 않는지를 보여 줍니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — 교육에서의 인공지능의 이론 개발
-
-## 연결된 문서
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 고등교육에서의 AI 챗봇: 기대를 증거와 비교하기(Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — 평가에서 정답의 신뢰성과 타당성
-- [[ai-literacy-assessment-misalignment]] — 자기보고 대 수행 기반 AI 리터러시
-- [[machines-misread-pedagogical-quality]] — 기계가 교수법적 질을 왜 오독하는가
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — AI 튜터와 이론 사용의 비판적 한계
-- [[cross-dataset-bloom-question-classification]] — Bloom의 분류법과 질문 분류
-- [[eeg-familiarity-automated-assessment-2026]] — 학습자 평가 자동화: EEG 기반 친숙성 예측
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 교육에서의 ChatGPT: 원인을 찾는 효과(미디어 비교 비판)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 메타-메타분석: 출판 편향 보정된 AI 효과가 보고된 크기의 약 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정된 것들: 결함 있는 AIED 메타분석 감사
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: AI 지원 체계적 고찰을 위한 경험적 보고 틀
-- [[frontier-models-physics-benchmark-audit-2026]] — 최전선 모형은 물리에 얼마나 능숙한가? 전문가 재채점이 드러낸 깨진 평가와 주요 벤치마크의 포화에 가까움
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 엄밀성 문턱으로 사용된 포함 기준, 그리고 모형에 따라 변하는 이질성 수치(Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 수행 결과가 유의미성에 도달하지 못한 무작위 교실 시험(Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 이득을 낳는다
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에 대한 LLM 생성 피드백에서 피드백 초점과 교수법적 적응성 평가
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 감사 가능한 코딩을 위한 서술 기반 스키마
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수에 대한 학생 평가에서의 NLP 범위 고찰과 증거 지도, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 검색 문자열 설계가 보고된 빈도를 형성하는 교사 교육 연구 195편의 범위 고찰
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — 국가 간 K-12 교사 설문: 기계 번역된 문항, 단일 문항 우려 측정, 불변성 검정 없음
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — GenAI 고등교육 연구 103편에 대한 체계적 고찰: 56% 조건적 이득, 과정 변화를 가리는 성적(Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — 데이터 증강이 표제 지표를 만들어 낼 수 있음
-- [[tischkau-ai-simulated-patient-formats-2026]] — 그 자체의 결과 범주로서의 실행 가능성: 모집 26%, 완료 100%, 수집 후에 정의된 결과

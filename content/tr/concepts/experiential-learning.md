@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -80,36 +82,3 @@ Deneyimsel öğrenme [[active-learning]], [[project-based-learning]], [[embodied
 **Program tasarımcıları için**
 
 - Uygulamalı programların laboratuvar vekilleri yerine gerçek uygulamalı iş içerdiğini denetleyin; aktarım iddiası karşılaşmanın otantikliğine dayanır.
-
-## Bağlı Kavramlar
-
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[virtual-and-augmented-reality]] — sürükleyici uygulama bilinçli bir deneyim olarak
-- [[reflection]]
-
-## Bağlı Makaleler
-
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — YZ çağında akıllı üretim için İşgücü Hazır Bulunuşluk Düzeyi çerçevesi
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Bedensel Zeka ile Sürdürülebilir Öğrenmeyi Geliştirmek (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Siber güvenlik eğitiminde GenAI
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Eğitimde robotik ve YZ
-- [[ai-lms-middle-school-longitudinal]] — YZ Bütünleşik LMS Uzunlamasına Çalışma
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — Topluluk alan çalışmasının yerine geçen YZ kişilikleri, ikamenin başarısız olduğu yeri gösteren beş göstergeçli rubrik (Elhajj ve ark. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — YZ destekli tasarım eğitiminde Bedensel Elle Yapılan’ı Bilişsel Elle Yapılan’dan ayıran tematik derleme (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — üç üretici YZ mekanizması çerçevesinde yeniden yapılandırılmış bir stratejik yönetim dersi
-- [[gelli-experiential-language-learning-2026]] — GELLI: Deneyimsel dil öğrenimi etkileşimleri için bir üretici (Symonette ve ark. 2026)
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Tersyüz fizik öğrenimi için YZ destekli sanal laboratuvar: ortaokul öğrencilerinin başarısı, motivasyonu ve bilişsel yükü üzerine etkiler
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — YZ destekli öğrenmede üstbilişsel farkındalık için deneyimsel ve ders temelli oturumlar (Benazet i Montobbio ve ark. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Hizmet öğrenimi döngüsüne yerleştirilen 26 çalışma: YZ değerlendirme ve yansıtmada seyreliyor (Yusuf ve ark. 2026)

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -44,10 +45,3 @@ Aux responsables de cabinet, provosts et DSI qui décident de ce qu'il faut sout
 ## Remarques et réserves
 
 Le cadre et le site sont publiés sous licence **CC BY-NC-SA 4.0**, si bien que l'adaptation est permise pour un usage non commercial avec attribution et partage dans les mêmes conditions ; le site fournit sa propre mention d'attribution suggérée. Son alignement sur l'OCDE, le NIST, la norme ISO/IEC 42001, l'AI Act de l'UE, le FERPA et le HIPAA est la comparaison propre de l'éditeur et doit être lu comme telle. Les sites compagnons sont des projets distincts, plusieurs du même auteur, et méritent d'être connus comme un ensemble : [Campus AI Exchange](https://www.campusaiexchange.com/) est le pivot, qui réunit des [cartes interactives](https://www.campusaiexchange.com/ai-policies-guidelines-map) des politiques institutionnelles en matière d'IA et des recommandations pour la classe, une [auto-évaluation de la gouvernance de l'IA](https://www.campusaiexchange.com/ai-governance-assessment), des cartes de gouvernance des données et des positions sur l'IA, ainsi qu'une bibliothèque de ressources. Autour s'articulent [campusaigovernance.com](https://campusaigovernance.com/) (neuf domaines de gouvernance de l'IA), [campusairisks.com](https://campusairisks.com/) (le cadre de gestion des risques en IA du NIST appliqué à ces domaines), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), un [modèle de plan d'adoption de l'IA au niveau de l'unité](https://unit-ai-adoption-plan.netlify.app/) et une note sur [l'IA agentique pour les dirigeants](https://campusaiframework.com/sites). La Boussole stratégique circule aussi comme document Google partagé, ce qui exige un compte Google pour l'ouvrir. Une courte question facultative sur le rôle et l'institution apparaît à l'entrée ; l'adresse électronique est facultative et tout le site est lisible sans elle.
-
-## Concepts liés
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

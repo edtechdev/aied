@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -43,8 +44,3 @@ ai_assist:
 ## 참고 사항
 
 빌더 접근은 제한되어 있습니다. 시작 페이지에서 이메일 주소와 온보딩 워크숍 참석 자리 또는 초대 코드를 요구합니다. 이 플랫폼의 규정 준수 주장(FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), 사용자의 작업물이 외부 모델 학습에 사용되지 않는다는 약속, 결과물 권리가 제작자에게 귀속된다는 점은 마케팅 페이지가 아니라 데이터 처리 계약에 명시되어야 합니다. MagicSchool 및 주요 챗봇과의 기능 비교는 Playlab 자체의 것으로, 2026년 중반 기준입니다. 이 플랫폼은 Scratch와 MIT Media Lab과 연관된 최종 사용자 프로그래밍 연구에서 성장했습니다.
-
-## 연결된 개념
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

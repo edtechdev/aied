@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -70,26 +72,3 @@ ai_assist:
 - **"मिश्रित विधियाँ AI शिक्षा अनुसंधान में एक संकीर्ण विकल्प हैं।"** **394 GenAI उच्च-शिक्षा अध्ययनों** में मिश्रित विधियाँ **सबसे सामान्य अनुसंधान डिज़ाइन (213 अध्ययन, 54%)** थीं, उनके बाद मात्रात्मक (109, 28%) और गुणात्मक (72, 18%)। क्षेत्र का प्रमुख डिज़ाइन वह नहीं है जो उसकी कार्यविधिक बहसें मान लेती हैं।
 - **"अवलोकन और साक्षात्कार प्रमाण किसी प्रणाली-दावे को वहन कर सकते हैं।"** प्रणाली अवलोकन और [[administrator|प्रशासक]] चर्चाओं को **आठ सेमेस्टरों में 8,708 विद्यार्थियों के चार-वर्षीय यादृच्छिक मूल्यांकन** के साथ रखना, जो **0.05 मानक विचलन** के प्रभाव पकड़ने में सक्षम था, दिखाता है कि गुणात्मक शाखा अकेले क्या नहीं कर सकती: किसी छोटे प्रभाव का विश्वसनीय पता लगाना। विधियों को मिलाना शक्ति को एक शाखा से दूसरी में स्थानांतरित करने का उपाय नहीं है।
 - **"त्रिकोणीकरण का अर्थ है कि दो कमज़ोर विधियाँ मिलकर एक मजबूत दावा बनाती हैं।"** इस युग्मन का मूल्य यह है कि प्रत्येक शाखा भिन्न प्रश्न का उत्तर देती है। जो डिज़ाइन दोनों चलाकर गुणात्मक निष्कर्ष को मात्रात्मक की पुष्टि के रूप में प्रस्तुत करता है, उसने त्रिकोणीकरण नहीं किया, उसने पुनरुक्ति की।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## संबंधित लेख
-
-- [[genai-over-reliance-learning-2026]] — सुधार से अति-निर्भरता तक (सर्वेक्षण + साक्षात्कार)
-- [[t2i-competence-paradox-2026]] — अभिक्षमता विरोधाभास (फोकस समूह + सर्वेक्षण + साक्षात्कार)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — भरोसा–उपयोगिता अंतराल (सर्वेक्षण + साक्षात्कार)
-- [[same-ai-different-pathways]] — संदर्भों में एआई-माध्यित शिक्षा की क्रियाविधियाँ
-- [[genai-feedback-design-multisite-experiment]] — मानव-केंद्रित जेनएआई फीडबैक डिज़ाइन (बहु-स्थल)
-- [[hazra-safetutors-pedagogical-safety-2026]] — एआई शिक्षक सुरक्षा और शैक्षणिक हानियाँ
-- [[becker-chatgpt-typology-physics-2026]] — भौतिकी में चैटजीपीटी अपनाने की एक गुणात्मक प्रकारविद्या
-- [[edtech-privacy-deferral-2026]] — "हम इसे बाद में ठीक करेंगे": शिक्षा, एआई, और एडटेक में छात्र-गोपनीयता का विलंब
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER और एक फाइन-ट्यून किए गए RoBERTa ने उसी Bluesky पोस्ट को विपरीत संयोजकता सौंपी (Geraili Meykola et al., 2026)

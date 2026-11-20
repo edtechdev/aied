@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -60,8 +62,6 @@ ai_assist:
 - **تعصب اور انصاف:** [[ai-scoring-language-bias-physics|فزکس کی اسکورنگ میں لسانی تعصب]] بیان کرتا ہے کہ خودکار گریڈنگ غیر مادری زبان بولنے والوں کو کیسے نقصان پہنچا سکتی ہے — اور [[bias-mitigation]] اور [[equity-in-ai-education]] سے جڑتا ہے۔
 - **کھلی گریڈنگ کے لیے GenAI ماڈلوں کی بینچ مارکنگ:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] نے 24 سافٹ ویئر انجینئرنگ سوالات کے 1,885 کھلے جوابات پر گیارہ GenAI اور جملہ-embedding ماڈلوں کا بینچ مارک دو ماہر انسانی گریڈروں کے مقابل کیا۔ صرف GPTo1 تقریباً کامل اتفاق تک پہنچا (Fleiss' Kappa 0.82، گریڈ زمروں میں کم جھوٹے مثبت اور جھوٹے منفی)، Claude3 اور PaLM2 قریب قریب پیچھے؛ سیاق و سباق سے حساس [[generative-ai|GenAI]] ماڈلوں نے مختصر، مختلف انداز میں لکھے گئے طالب علم جوابات کو مضبوطی سے سنبھالا، جبکہ حوالہ پر مبنی embedding ماڈلوں (مثلاً BERT کے 345 جھوٹے مثبت) نے درست مگر مختلف الفاظ والے جوابات کو منظم طور پر سزا دی — یہ شہادت کہ ماڈل کا انتخاب، محض گریڈنگ کی شکل نہیں، آزاد متن کی [[assessment|کھلی جانچ]] کے اعتبار کو ڈھالتا ہے۔
 - **پرامپٹ مثالیں اسکورنگ کے اتفاق کا فیصلہ کرتی ہیں:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi et al. (2026)]] نے درجہ بندی شدہ تشخیصی استدلال (HDR) خودکار کیا، جو ایک اطلاقی قابلیت کا کام ہے جس میں سیکھنے والے مختصر کیس میں جان بوجھ کر رکھی گئی غلطیاں ڈھونڈتے اور بیان کرتے ہیں۔ GPT-4o بغیر فائن ٹیوننگ استعمال کرتے ہوئے، ٹیم نے نئے مسائل پیدا کیے اور طلبہ کی تفصیلات کو اسکور کیا: پیدا کردہ اور انسانی لکھے مسائل کی داخلی یکسانی ایک جیسی تھی (Cronbach's α = 0.78) اور 100 شرکاء میں اسکور کی تقسیم کا کوئی نمایاں فرق نہ تھا، اور شکل کا پڑھنے کی فہم کے کنٹرول سے تعلق کم رہا (α = 0.36 اور 0.41)۔ اسکورنگ کی درستگی ماڈل کی بجائے پرامپٹ پر منحصر تھی — حل شدہ مثالوں کے بغیر Q2 precision 0.42 تک گر گئی، جبکہ انسانی اسکور والی درست اور غلط مثالیں شامل کرنے سے ہر سوال پر اتفاق 98% یا زیادہ ہو گیا (Q1 اور Q2 100% پر) — اور انسانی لاگت 117 جوابات کے لیے 138 منٹ ماہرانہ اسکورنگ اور 30 منٹ اتفاق رائے کی ماپی گئی۔
-
-
 
 ماڈل کا اپنا استدلالی انداز دوسرا ترتیب والا لیور ہے: 32 گمنام پبلک ہیلتھ ماسٹرز امتحانی جمع آوریوں پر وہی ChatGPT تیز حالت میں weighted kappa 0.269 سے سوچنے والی حالت میں 0.718 تک پہنچا، جبکہ Kimi 0.571 تک ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]])۔
 - **اساتذہ کے کھلے جوابات کی [[agentic-ai|کثیر ایجنٹ]] کوڈنگ، جہاں اعتبار ماڈل کی بجائے فریم ورک اٹھاتا ہے:** [[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al. (2026)]] خودکار جانچ کو طلبہ کے کام سے آگے اساتذہ کے اپنے مواد کی جانکاری (CK) اور [[pedagogy|تدریسی]] مواد کی جانکاری (PCK) کی کوڈنگ تک بڑھاتے ہیں، اور پوچھتے ہیں کہ کیا AI 268 امریکی [[k-12|مڈل اسکول]] ریاضی اساتذہ کے تناسب اور متناسب تعلقات پر تحریری جوابات کی تربیت یافتہ انسانی کوڈنگ کو دہرا سکتا ہے۔ مقصد کے لیے بنایا گیا کثیر ایجنٹ LLM، GradeOpt، GPT-4o پر مبنی تین کردار تفویض کرتا ہے — ایک Grader جو انسانی کوڈنگ مینوئل لاگو کرتا ہے، ایک Reflector جو ہر اختلاف کی انسانی کوڈ سے تشخیص کرتا ہے، اور ایک Refiner جو وضاحتی نکات کو چھ دور تک مینوئل میں واپس شامل کرتا ہے — اور CK پر تربیت یافتہ انسانی کوڈرز کے قریب قریب برابر رہا (κ = .88 اور .85) جبکہ زیادہ تشریحی PCK مدوں پر مجموعی طور پر خاطر خواہ اتفاق تک پہنچا (κ = .68؛ weighted κ = .79)۔ دو NLP بیس لائنیں اور ایک واحد پرامپٹ GPT-4o ماڈل PCK پر کبھی κ = .39 یا weighted κ = .55 سے آگے نہ بڑھے، چنانچہ مصنفین اعتبار کو ماڈل کے پیمانے کی بجائے کوڈنگ مینوئل کے مقابل ہدایات بہتر بنانے سے منسوب کرتے ہیں، اور جہاں قریبی کوڈنگ سطحیں دھندلی ہوں وہاں ماہرانہ جائزے کی سفارش کرتے ہیں، کیونکہ GradeOpt کی باقی غلطیاں عموماً قریبی کوڈز تھیں، بے ربط چوک نہیں۔
@@ -109,7 +109,6 @@ ai_assist:
 خودکار جانچ کا معیار [[assessment-validity]] اور [[bias-mitigation]] پر منحصر ہے۔ [[ai-scoring-language-bias-physics|لسانی تعصب]] کی تحقیق دکھاتی ہے کہ خودکار اسکورنگ بعض طالب علم آبادیوں کو منظم طور پر نقصان پہنچا سکتی ہے۔
 **معیار خود بھی غلطی پذیر ہے۔** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]] GCSE فزکس کے پرچے AI نظام سے نشان زد کرتے ہیں اور اُن کا موازنہ سرکاری امتحانی بورڈ کے نشانات اور تجربہ کار اساتذہ کے فیصلے دونوں سے کرتے ہیں، اور بورڈ سے اتفاق کو درستگی کے نائب کے طور پر لیتے ہیں، خود درستگی کے طور پر نہیں۔
 
-
 ### تعیناتی کے منظر نامے اور ہر ایک کی ضروریات
 
 ادارے کو کتنی ہم آہنگی کا مطالبہ کرنا چاہیے یہ اِس بات پر منحصر ہے کہ نظام کو کیا فیصلہ کرنے کی اجازت ہے۔ ایک [[mixed-methods-research|مخلوط طریقہ]] مطالعے میں، جو [[opraise-automated-marking-ai-assessment-2026|تین برطانوی یونیورسٹیوں کے 761 مستند انڈرگریجویٹ مضامین]] پر تھا، تین فرنٹیئر ماڈل ہر ایک 27 پرامپٹ ترتیبوں کے ساتھ ڈگری بینڈ پر انسانی جانچنے والوں سے صرف 35–65 فیصد اتفاق تک پہنچے، اور درستگی اداروں کے درمیان منتقل نہ ہوئی — چنانچہ رپورٹ امیدوار استعمالات کو ایک فیصلے کی بجائے الگ الگ منظر نامے سمجھتی ہے۔ **انسانی نشان دہی کی معیار کی یقین دہانی**، جہاں AI متوازی نشان دہی کرتا ہے اور نمایاں فرق انسانی جائزے کو متحرک کرتا ہے، سب سے قدامت پسند ہے۔ **نشان دہی کا معاون**، جمع آوریوں کو پیش گوئی شدہ معیار یا غیر یقینی کے مطابق درجہ بندی کرنا، پیچیدہ معاملات کی چھانٹی، یا مختصر انسانی تبصروں کو مزید فیڈبیک میں پھیلانا، ایک حقیقی درمیانی راستہ ہے۔ **AI بطور بنیادی نشان دہی کرنے والا**، نمونے یا نشان کی تقسیم کے انسانی جائزے کے ساتھ، صرف اُس وقت قابلِ قبول جانچا گیا جب نظام کی کارکردگی بہتر ہو، اور [[stakeholders|کسی بھی حصہ دار]] گروہ نے AI کو واحد نشان دہی کرنے والا تسلیم نہ کیا۔
@@ -117,7 +116,6 @@ ai_assist:
 اِن سب کے لیے تین شرطیں لازم آتی ہیں۔ چونکہ ہم آہنگی ماڈل اور ادارے کے مطابق مخصوص ہوتی ہے، توثیق مقامی اور مستقل ہونی چاہیے — کہیں اور کی سرخی درستگی تیاری کی شہادت نہیں۔ چونکہ نشانات درمیان کی طرف دبے ہوئے تھے، AI گریڈ کی حدوں پر اور سب سے مضبوط اور کمزور جمع آوریوں میں سب سے کم درست تھا، اور یہیں جانچ کے فیصلوں کے نتائج سب سے زیادہ ہوتے ہیں۔ اور چونکہ AI اور انسانی نشان کے درمیان اختلاف محض غلطی کی بجائے مختلف فیصلے کا عکاس ہے، اختلافات کو الگورتھمی اوور رائیڈ کی بجائے انسانی تشریح کو متحرک کرنا چاہیے، اور نشان پر حتمی اختیار لوگوں کے پاس رہنا چاہیے۔ اپنانے کے ساتھ [[governance|حکمرانی]] کی ذمہ داریاں بھی آتی ہیں جو فنی پیمانے نہیں پکڑتے: GDPR کے آرٹیکل 22 کے تحت وضاحت کا حق جہاں خودکار فیصلے طلبہ کو متاثر کریں، Equality Act کی ذمہ داریاں جب یہ ثابت ہو جائے کہ حصول کی سطح اور زبان کا استعمال نشانات کو متاثر کرتے ہیں، اُن غلطیوں کے لیے نظرِ ثانی شدہ اپیلیں جو آسانی سے پکڑی نہیں جاتیں، اور ناقابلِ واپسی کا خطرہ — ایک بار عملہ اور سرمایہ کاری بدل جائیں تو ادارے کے لیے وہ انسانی نشان دہی جمع کرتے رہنا مشکل ہو سکتا ہے جس کی واپسی کے لیے اُسے ضرورت ہو گی۔
 
 تینوں ماڈلوں کو ملا کر بھی وہ غلطی نہ اٹھی: چونکہ اُن کی غلطیاں باہم منسلک تھیں — 63.4% اسائنمنٹس پر ایک ہی سمت — [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] کا مجموعہ بہترین واحد ماڈل سے شماریاتی طور پر الگ نہ تھا، اور مشترکہ مرکزیت کا دباؤ برقرار رہا۔
-
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] وہ معیار فراہم کرتے ہیں جنہیں یہ شرطیں فرض کرتی ہیں، اور دلیل دیتے ہیں کہ خودکاری کو قابلِ دفاع بنانے والی چیز کام کی *علمی حیثیت* ہے، نہ کہ وہ جو ٹیکنالوجی تکنیکی طور پر کر سکتی ہے۔ اُن کا فریم ورک AI کو حقیقی اور طریقہ کار دعووں کی محدود تصدیق تک محدود کرتا ہے — چاروں غیر مبہم دستاویزی معیار بیک وقت پورے ہوں: قائم شدہ علم کے ساتھ سیدھا موازنہ، متبادل درست طریقوں کی جانچ نہ ہونا، اور ایک درست جواب یا پیشگی متعین قابلِ قبول مجموعہ، اور ابہام بطور طے شدہ انسان کی طرف بڑھے — اور اُس سطح پر AI کی شمولیت کو پانچ ناقابلِ گفت و شنید اصولوں پر مشروط کرتا ہے جو سب بیک وقت پورے ہوں: علمی ذخیرہ جانچنے والے کا چنا ہوا ہو اور ماڈل کے داخلی علم کی بجائے ماڈیول کے مواد میں ریٹریول پر مبنی ہو؛ انسانی جانچنے والے ہر AI پیداوار کا جائزہ لیں اُس سے پہلے کہ وہ طلبہ تک پہنچے اور مطلق اوور رائیڈ اور غیر مشترکہ جواب دہی رکھیں؛ فیڈبیک واضح اصلیت اور انتساب رکھے؛ اور سلامتی شروع سے مخالفانہ استعمال کے خلاف ڈیزائن ہو، سفید یا چھوٹے متن، انکوڈنگز، تصاویر یا دستاویزی میٹا ڈیٹا میں چھپی ہدایات کے لیے input sanitisation کے ساتھ، کیونکہ خودکار نظام سے کامیاب گریز طالب علم گروہوں میں پھیلتا ہے۔ یہی مقالہ واضح کرتا ہے کہ اُس کے اصول بیک وقت قابلِ عمل ہونے کے لیے غیر جانچے ہوئے ہیں اور یہ کہ تیاری، سلامتی کے ڈھانچے اور اعلیٰ تعدد نگرانی کے لیے جانچنے والے کا وقت عملے کی کوشش ہٹا سکتا ہے، کم نہیں کر سکتا — یہ احتیاط اوپر کی مقامی توثیق کی شرط کے ساتھ بیٹھتی ہے۔
 
@@ -132,7 +130,6 @@ ai_assist:
 - **ہاتھ سے لکھی [[physics-education|فزکس]] کی بڑے پیمانے پر AI گریڈنگ (2026):** ایک کثیر النمط ماڈل (GPT-5.5) نے قومی فزکس اولمپیاڈ نظری امتحان، انتخابی کیمپ اور یونیورسٹی کوانٹم میکینکس امتحان میں 10,364 اسکین شدہ صفحات گریڈ کیے، اور سرکاری نشانات کے ساتھ کل اسکور کے تعلقات 0.91–0.97 حاصل کیے اور وہی پہلی پانچ اولمپیاڈ ٹیم نکالی۔ صفحہ بہ صفحہ نظرِ ثانی شدہ، شہادت کی جگہ بتانے والی ہدایات نے اتفاق بہتر کیا — یہ شہادت کہ [[multimodal|کثیر النمط AI]] محتاط روبرک اور پرامپٹ انجینئرنگ کے ساتھ اعلیٰ داؤ والی اختتامی گریڈنگ کی مدد کر سکتا ہے ([[ai-grading-handwritten-physics-2026]])۔
 
 - **ہاتھ سے لکھی [[chemistry-education|کیمسٹری]] کے لیے منتخب خودکاری (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] نے 296 طلبہ کے ہاتھ سے لکھے جنرل کیمسٹری فائنل کو روبرک تصاویر کے مقابل صفحہ بہ صفحہ ایک کثیر النمط، استدلالی LLM سے گریڈ کیا، اور کل اسکوروں پر رن بہ رن اعتبار (ICC(A,1) = 0.967) اور TA گریڈنگ کے ساتھ مضبوط کل اسکور اتفاق (R² = 0.91) حاصل کیا۔ چونکہ مد کی سطح کا اعتبار شکل کے مطابق تیزی سے بدلا — متنی اور کیمیائی ردِ عمل کے جوابات قابلِ اعتبار گریڈ ہوئے جبکہ ڈرائنگ اور گرافنگ اتفاقِ سادہ سے بھی بدتر رہے — خام اتفاق اعلیٰ داؤ والے استعمال کے لیے ناکافی جانچا گیا۔ وہ [[human-in-the-loop-ai|انسانی حوالگی]] کو اعتماد کے فلٹروں کے ذریعے عملی شکل دیتے ہیں (جزوی نمبر کی حدیں، [[item-response-theory|IRT]] پر مبنی خطرہ کی حد، اور مسئلے کی قسم کا اخراج) جو خام AI اسکوروں کو accept/deferral پالیسی میں بدلتے ہیں، اور دکھاتے ہیں کہ جھوٹے مثبت (AI کا واقعی غلط جواب کو نمبر دینا) عموماً پکڑے نہیں جاتے کیونکہ طلبہ کم ہی اُن پر اعتراض کرتے ہیں — منتخب خودکاری کا ٹھوس [[psychometrically-aware-ai|نفسیاتی پیمائش پر مبنی]] راستہ ([[cvengros-grading-handwritten-chemistry-ai-2026]])۔
-
 
 - **یونیورسٹی امتحان میں نیم کھلی ہاتھ سے لکھی ریاضی (2026):** [[gpt4-handwritten-math-exam-grading-2026|Liu et al.]] نے جرمن انڈرگریجویٹ ریاضی کا امتحان GPT-4 سے دو اخراج راستوں (پیشگی کٹے جوابی خانے بمقابلہ پورے صفحات)، دو optical-character-recognition راستوں اور دو روبرک شکلوں میں گریڈ کیا، اور انسانی درجات کے مقابل Krippendorff's alpha 0.22-0.44، بہترین ورک فلو پر درستگی 0.59-0.62 اور فی مسئلہ درستگی 0.27-0.91 بتائی — اعلیٰ داؤ والی اختتامی جانچ کے لیے ناقابلِ قبول۔ کثیر معیاری گریڈنگ قواعد کو مد بہ مد کرنے سے عموماً اتفاق بہتر نہ ہوا (اُس نے جزوی نمبر والے مسئلے میں مدد کی)، روبرک کے بغیر آزاد گریڈنگ بہت بدتر رہی (درستگی 0.50-0.51)، اور انسانی دوبارہ جانچ کے لیے درجات نشان زد کرنے والا احتمالی اعتماد فلٹر درستگی نمایاں طور پر نہ بڑھا سکا جبکہ 7-41 فیصد جوابات کو غلط طور پر قابلِ اعتبار نشان زد کرتا رہا۔ مطالعے کا قابلِ منتقلی سبق طریقہ کار کا ہے: پورا امتحانی پرچہ مارکر کے ساتھ اسکین اور نقل کریں، جوابی خانے کاٹ کر نہیں، کیونکہ طلبہ خانے کی حدود کے پار لکھتے ہیں؛ تدریسی معاونین کے لیے لکھے گئے گریڈنگ قواعد دوبارہ لکھیں، کیونکہ ماڈل نے انسان کے لیے لکھے گئے قاعدے سے غیر مطلوب اخذ کرنے کی کوشش کی؛ اور یاد رکھیں کہ انسانی گریڈنگ کے قواعد خود پانچ قسموں کے درمیان alpha 0.88 پر دوبارہ بیان کیے گئے تھے، چنانچہ پرامپٹ کی مضبوطی رکاوٹ نہیں۔
 
@@ -151,74 +148,3 @@ ai_assist:
 - **"جج ہی غیر اعتباری کا ذریعہ ہے۔"** 378 مقررہ ڈائس فیصلوں پر، دوبارہ چلانے سے نیم سخت طریقے میں **2.9 سے 6.1 فیصد** اور آزاد فیصلے میں **13.5 سے 15.9 فیصد** نتائج بدلے، جبکہ جج AI بدلنے سے صرف تقریباً 3 پوائنٹ اضافہ ہوا ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — طریقہ کار، جج نہیں، دہرائے جانے کا تعین کرتا ہے۔
 - **"اعتماد کی رپورٹنگ ایک آسائش ہے۔"** ایسا اسکور جو کہے کہ اُسے **70% یقین** ہے، اُس کے استعمال کا طریقہ بدل دے گا، اور اُس معلومات کی عدم موجودگی قاری کو مجبور کرتی ہے کہ سب اسکوروں کو یکساں یقینی سمجھے۔
 - **"مختصر جواب کی خودکار نشان دہی ایک طے شدہ میدان ہے۔"** [[science-education|سائنس]] میں مختصر جواب کی خودکار نشان دہی (**2017 سے 2024 کے اوائل**) کا اسکوپنگ جائزہ میدان کی تاریخ بیان کرتا ہے، جو اِس کا ریکارڈ ہے کہ کیا کوشش کی گئی، نہ کہ کیا توثیق ہوا۔
-
-## منسلک تصورات
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — اختتامی جانچ: AI سے مزاحمت کرنے والی شکلیں (زبانی، نگرانی والے، بند کتاب والے امتحانات)
-
-## منسلک مضامین
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — طلبہ کے کام کے بجائے تدریس کی جانچ، بغیر یکجا کیے
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM روبرک کی ذیلی جہتیں تقریباً زائد ہیں اور فیڈبیک کم ہی غلط فہمیوں کی نشان دہی کرتا ہے (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise رپورٹ: تین برطانوی یونیورسٹیوں کے 761 یونیورسٹی مضامین کی AI نشان دہی
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی قومی تحریری جانچ میں HITL AI کی مدد سے اسکورنگ (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — عالمی تحریری چھانٹی کے لیے بڑے لسانی ماڈل کے تقابلی فیصلے کا اعتبار
-- [[usher-faraon-who-grades-best-2026]] — پروجیکٹ کے معیار کی سطحوں میں ChatGPT، ہم مرتبہ اور مدرس کی گریڈنگ کا موازنہ (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI کے پیدا کردہ امتحانات کے معیار کا جائزہ: ایک بڑے پیمانے کا میدانی مطالعہ
-- [[automated-formative-assessments-a-level-sciences]] — A-level سائنسز میں خودکار تکوینی جائزے
-- [[cong-confidence-asag-2026]] — اعتماد سے آگاہ خودکار مختصر جواب کی گریڈنگ
-- [[ai-scoring-language-bias-physics]] — فزکس میں AI اسکورنگ کا لسانی تعصب
-- [[llm-difficulty-calibration-programming-exams-2026]] — پروگرامنگ امتحانات کے لیے LLM پر مبنی دشواری کی کیلیبریشن
-- [[choi-anchor-aes-prompting-2025]] — لنگر پر مبنی خودکار مقالہ اسکورنگ پرامپٹنگ
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL تکوینی جانچ کی اسکورنگ
-- [[automated-grading-linux-bash-examinations-large-language-models]] — LLMs کے ساتھ Linux Bash امتحانات کی خودکار گریڈنگ
-- [[confidence-aware-student-drawing-assessment]] — طالب علم کے کھینچے نقشوں کی اعتماد سے آگاہ جانچ
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: پیدا کردہ ریاضی نقشوں کی خودکار جانچ
-- [[shap-llm-rationales-teaching-quality-assessment]] — روبرک پر مبنی تدریسی معیار کی جانچ کے لیے SHAP بمقابلہ LLM دلائل
-- [[eeg-familiarity-automated-assessment-2026]] — سیکھنے والے کی جانچ خودکار کرنا: EEG پر مبنی واقفیت کی پیش گوئی
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI جانچ روبرک کی تیاری
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI کی مدد سے مدرس کی نگرانی والی گریڈنگ اور فیڈبیک
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی فزکس جانچ کی AI گریڈنگ (اولمپیاڈ)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کسے گریڈ کرنا چاہیے؟ اعلیٰ تعلیم میں شفاف AI کی مدد سے تحریری جانچ پر طلبہ کے تصورات
-- [[tripartite-feedback-framework-ai-assessment-2026]] — سہ رخی فریم ورک: فیڈبیک کو علمی حیثیت کے مطابق چھانٹنا اور AI شمولیت کے پانچ حد بندی اصول (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — طلبہ کی جمع آوریوں میں چھپے پرامپٹ انجیکشن کا AI کے ذریعے گریڈنگ کے خلاف ریڈ ٹیم جائزہ (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — خودکار استاد جانچ کے لیے ڈیزائن سے وضاحت پذیر LLM فریم ورک، بھروسے سے مشروط استدلال کے ساتھ (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — ہاتھ سے لکھی نیم کھلی ریاضی کی گریڈنگ، انسانی دوبارہ جانچ کے لیے اعتماد فلٹر کے ساتھ
-- [[llm-grade-bands-calibration-bias-2026]] — کیا بڑے لسانی ماڈل اعلیٰ تعلیم کے گریڈ بینڈ دہرا سکتے ہیں؟ اصلی طالب علم تحریر میں کیلیبریشن اور گریڈنگ تعصب کا بین ماڈل مطالعہ
-- [[sophie-clinical-communication-ai-assessment-2026]] — قابلِ توسیع AI پر مبنی طبی مواصلاتی تربیت اور خودکار جانچ
-- [[automated-constructive-assessment-hdr-llm-2026]] — بڑے لسانی ماڈلوں کے ساتھ تعمیری جانچ خودکار کرنا: عملی قابلیت کی قابلِ توسیع اور بار بار جانچ کی طرف
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — طالب علم کی تحریر پر LLM کے پیدا کردہ فیڈبیک میں توجہ اور تدریسی موافقت کا جائزہ
-- [[llm-graders-computer-science-exams-2026]] — LLM گریڈر کہاں کامیاب ہوتے ہیں اور کہاں ٹوٹتے ہیں: دو کمپیوٹر سائنس امتحانات کی شہادت
-- [[llm-automated-coding-teacher-pck-2026]] — کثیر ایجنٹ LLM (GradeOpt) اساتذہ کے کھلے CK اور PCK جوابات کی کوڈنگ، اعتبار کوڈنگ مینوئل کے مقابل پرامپٹ بہتر بنانے سے
-- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE فزکس میں AI نشان دہی کا امتحانی بورڈ کے نشانات اور استاد کے فیصلے سے موازنہ
-
-- [[llm-grading-assistants-public-health-2026]] — استدلالی حالت نے LLM-انسان گریڈنگ اتفاق کو weighted kappa 0.269 سے 0.718 تک بڑھایا
-- [[machine-human-marking-agreement-institutions-2026]] — انڈرگریجویٹ اسائنمنٹس کی نشان دہی میں مشین–انسان اتفاق ماڈل، پرامپٹ اور ادارے کے مطابق مخصوص ہے
-- [[wargaming-adjudication-ai-judged-grading-2026]] — پیمانے پر ہاتھ: AI سے فیصلہ شدہ جانچ اور گریڈنگ بہتر بنانے کے لیے روایتی وار گیمنگ فیصلے کے عمل کا استعمال (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — اتفاق سے آگے: 22 پرامپٹ شدہ گریڈر ایسے پروب پورے کرتے ہیں جن کا درست جواب معلوم ہے، اور اُن میں سے بیشتر کو بہلا کر نمبر بڑھوائے جا سکتے ہیں (Porcaro 2026)

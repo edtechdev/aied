@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -40,7 +42,6 @@ ai_assist:
 Взаимодействие студента и ИИ — это наблюдаемая поверхность [[student-engagement|вовлечённости]] учащихся в генеративный ИИ: вопросы, которые они ставят, промпты, которые они пишут, способ, которым они согласовывают и проверяют результат ИИ, и то, как эти закономерности сдвигаются по этапам задачи и во времени. Оно лежит на пересечении [[student-experience]], [[prompt-engineering]] и [[learning-analytics]] и является центральным для споров о том, представляет ли использование ИИ в образовании подлинное обучение или [[cognitive-offloading|чрезмерную опору]]. Там, где [[human-ai-collaboration]] задаёт высокоуровневое разделение когнитивного труда между людьми и моделями, взаимодействие студента и ИИ — конкретное, измеримое осуществление этих отношений: отдельные запросы, промпты и ходы согласования, которые учащиеся делают от момента к моменту.
 
 ### О чём студенты спрашивают ИИ
-
 
 - **Отказ — это конфигурация взаимодействия, а не отсутствие использования.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson и Lindgren (2026)]] записали, как три старшеклассника пишут одну и ту же историю по мотивам Кафки с помощью GenAI, и выделили из записей три разных сборки: авторство, делегированное модели; взаимное критическое со-письмо; и явная конфигурация «ИИ и я — нет, спасибо», в которой студент перестроил свою практику письма в сторону от инструмента. Для этой страницы важно, что *одно и то же* задание, аудитория и инструмент породили все три, и многое из того, что их разделяло, находилось в моментах между промптами — паузах, переформулировках, колебании перед принятием подсказки, — которые один лишь журнал чата не улавливает.
 Основная линия исследования измеряет **типы и качество запросов студентов**. Исследования применяют таксономии типов вопросов — например таксономию 18 типов Graesser et al. — для классификации взаимодействий студента и ИИ, часто используя классификаторы с несколькими примерами, чтобы масштабировать анализ на сотни или тысячи взаимодействий. Выводы показывают, что небольшое подмножество типов вопросов составляет большинство запросов студентов и что вопросы, которые задают студенты, **меняются существенно по мере продвижения задачи** (например, [[student-ai-inquiry-types-cs2-2026]]). Эта зависимость от задачи важна: качество взаимодействия — не устойчивая черта студента, а формируется контекстом задачи, [[scaffolding]] и возможностями инструмента ИИ. В самых младших возрастах [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed и Martin (2025)]] обнаружили, что дети (в возрасте 6–14) активно проверяли достоверность [[conversational-ai|чат-бота]], задавая вопросы с известным ответом (например, «how big is a t rex»), — выражение эпистемической самоагентности, — тогда как типичный ребёнок задавал лишь 1–3 вопроса, а выдающийся первоклассник задал 21, подчёркивая, как возрастное и индивидуальное разнообразие формирует вопросы, которые ставят учащиеся.
@@ -90,48 +91,8 @@ Bernstein и Sibia (2026) документируют паттерн «итера
 
 - **«Студент не может повлиять на оценку проверяющего.»** Может, и это самый устойчивый сбой в батарее: **17 из 22** моделей повышали оценку сильнее после голого возражения, чем после просьбы пересмотреть, включая **шесть из восьми**, прошедших все проверки на игровое поведение и пустые ответы. Наибольшим был Llama 3.2 3B — **+33,2% шкалы**, — а сама просьба пересмотреть снижала оценки для **десяти** из 17, поэтому контраст не является чистым эффектом возражения. [[porcaro-ai-grading-benchmark-2026|Оценки, с которыми студент может спорить, требуют записи обмена]].
 
-
 ## Распространённые заблуждения
 
 - **«Таксономии взаимодействия устоялись.»** **Среди 46 категоризаций из 33 исследований похожие ярлыки называют разные явления**, поэтому обзор и предлагает *эпизод взаимодействия* как единицу. Схема кодирования, заимствованная из одной таксономии, может измерять другой конструкт.
 - **«Студенты используют ИИ как репетитора.»** Среди **38 студентов бакалавриата**, писавших неконтролируемые аргументативные эссе, **76.32% использовали одношаговый паттерн «спросить — получить ответ — остановиться»**, обычно вставляя название задания. Доминирующий паттерн — одношаговое извлечение, а это не тьюторство.
 - **«Большее использование ИИ указывает на большую вовлечённость в материал.»** Анализ **200 сессий чата по совместному программированию** обнаружил, что **78.8% взаимодействий студента с GenAI шли на целях и стратегиях, не связанных с мастерством**. Объём взаимодействия измерял нечто иное, чем учебная ориентация, поэтому число сессий — вводящий в заблуждение показатель вовлечённости.
-
-## Связанные концепции
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Связанные статьи
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Частота использования и самооценённая экспертиза не предсказали ничего на 819 студентах
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
-
-- [[porcaro-ai-grading-benchmark-2026]] — За пределами согласия: 22 модели-оценщика проходят пробы с известным правильным ответом, и большинство из них можно уговорить повысить оценку (Porcaro 2026)
-

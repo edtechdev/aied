@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -91,37 +93,3 @@ ai_assist:
 
 - Сообщайте контрасты «граф против базовой линии» на уровне алгоритма. «На основе графа знаний» — не вид вмешательства; им является стратегия обхода.
 - Сообщайте отображения аксиом на источники и разделимость таксономии рядом с точностью и полнотой, поскольку здешние сбои аудита были невидимы для обычных метрик графа.
-
-## Связанные концепции
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — Зонтичное понятие: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
-- [[recommender-systems-and-learning-paths]]
-
-## Связанные статьи
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Созданный кураторами граф из 1455 литературных аксиом со структурным аудитом и без записи о происхождении (Liu и Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Слоистая гибридная модель знаний на основе онтологий для персонализированного электронного обучения
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Графы Learnity для обучения на протяжении всей жизни
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: скаффолдинг составления нарратива
-- [[quantum-education-its]] — Интеллектуальное репетиторство по квантовому образованию (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Мультимодальные графы знаний для образовательных рассуждений
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: сравнение курсов по информатике
-- [[proprl-prerequisite-relation-learning]] — ProPrL: обучение связям предварительных требований
-- [[knowledge-gap-detection-ai-tas]] — Обнаружение пробелов в знаниях в ИИ-ассистентах преподавания
-- [[visual-query-tracer-declarative-logic-learning]] — Визуальная трассировка запросов для обучения декларативной логике
-- [[fair-explainable-edu-recommendations]] — Справедливые и объяснимые образовательные рекомендации
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Гибридная кросс-доменная рекомендация CF–KG для мультимодальных обучающих ресурсов
-- [[xie-hillm-cd-2026]] — HiLLM-CD: управляемая LLM когнитивная диагностика
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: генерация обучающей среды

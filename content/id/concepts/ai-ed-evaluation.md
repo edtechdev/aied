@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -84,7 +86,6 @@ Evaluasi [[simulating-students|pembelajar simulasi]] menghadapi standar yang sam
 
 Kecepatan sistem yang dievaluasi merupakan kendala lebih lanjut. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] menyatakan masalah temporal itu secara langsung: pada saat sebuah uji skala besar telah dirancang, dijalankan, dianalisis, dan diterbitkan, teknologi yang diteliti mungkin sudah berubah secara material, yang mendorong praktik ke data observasional atau data penggunaan yang lemah justru pada saat bukti yang lebih kuat dibutuhkan. Jawaban mereka bukan menerima desain yang lebih lemah tetapi memperpendek lingkarannya — uji acak mikro yang dipimpin praktisi yang mempertahankan kontras kausal dan mengulanginya seiring platform berkembang.
 
-
 - **Kesetiaan data adalah masalah evaluasi yang terpisah dari kualitas keluaran.** Kohort pendidikan sintetis yang mereproduksi statistik ringkasan setiap variabel tetap dapat salah menyatakan struktur data: graf kedekatan mingguan atas pembelajar bervariasi 2.6 hingga 4.9 kali lebih sedikit sepanjang satu semester pada versi sintetis daripada pada kohort nyata, sehingga skor kesetiaan tidak memprediksi analisis mana yang bertahan pada data nyata ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **Akurasi dalam-distribusi bukan kelayakan penerapan.** Pengklasifikasi tingkat Bloom dengan makro F1 0.88 pada bank butir yang dikurasi turun ke 0.48 dan 0.20 pada dua himpunan pertanyaan hasil AI, penurunan yang mengikuti nyaris tidak adanya kata kerja pemicu Bloom eksplisit alih-alih ukuran model; [[llm|LLM]] yang tidak dilatih adalah opsi paling tangguh di luar distribusi (0.79 dan 0.41–0.51) dan pelatihan ulang pada data luar-distribusi berlabel memulihkan keuntungan terbesar (hingga 0.82), sehingga transfer harus masuk laporan berdampingan dengan kecocokan dalam-distribusi ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
@@ -118,69 +119,3 @@ Tolok ukur yang terkondisi konteks diperlukan: [[zhang-tutormoments-2026|Zhang e
 - **"Kriteria penskoran hanyalah persoalan teknis."** Pencocokan ketat memberi skor **42.1%** pada 2,250 dialog tutoring yang sama, sedangkan LLM-sebagai-juri yang dikalibrasi manusia memberi **81.3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — kriteria itu menggeser angka lebih jauh daripada yang dilakukan model tutor, strategi, atau pipeline.
 - **"Mengenali dan menghasilkan adalah kapabilitas yang sebanding."** **Mengenali bukan menghasilkan.** Pada TutorCaseBench, model terbaik dari **11 model** memilih strategi terdokumentasi pada **63.0% butir empat opsi** tetapi memenuhi kriteria implementasi terdokumentasi jauh lebih jarang. Memilih jawaban yang benar di antara empat dan menghasilkannya adalah tugas yang berbeda.
 - **"Skor model bermakna tanpa instrumen yang tervalidasi."** Ujian yang disesuaikan mata kuliah dihasilkan untuk **71 kelas** dan dibandingkan dengan butir AP Statistics karya manusia dengan model **2PL hierarkis Bayes** — instrumennya dicocokkan sebelum skornya ditafsirkan.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — Riset Pendidikan Berbantuan AI
-- [[assessment-validity]] — Validitas interpretasi dalam evaluasi AI-ed
-- [[educational-measurement]] — Teori pengukuran untuk menilai pembelajaran
-- [[psychometrically-aware-ai]] — Menerapkan psikometrika pada penilaian berbasis AI
-- [[benchmark]] — Tolok ukur terstandardisasi untuk mengevaluasi sistem AI
-- [[automated-assessment]] — Sistem penilaian dan penskoran berbasis AI
-- [[learning-analytics]] — Analisis perilaku belajar berbasis data
-- [[research-methods-aied]] — Metode riset untuk AI dalam pendidikan
-- [[learning-gains]] — Mengukur perolehan belajar dari alat AI
-- [[formative-assessment]] — Penilaian berkelanjutan untuk memandu pengajaran
-- [[summative-assessment]] — Penilaian sumatif: format yang tahan AI (ujian lisan, diawasi, buku tertutup)
-- [[authentic-assessment]] — Penilaian atas kinerja dunia nyata yang dapat ditransfer
-- [[human-in-the-loop-ai]] — Pengawasan manusia atas evaluasi AI
-- [[trust-calibration]] — Mengkalibrasi kepercayaan pada sistem AI
-- [[hallucination-risk]] — Risiko konten yang direkayasa dalam keluaran AI
-- [[intelligent-tutoring]] — Mengevaluasi sistem tutoring AI
-- [[agentic-ai]] — Mengevaluasi perilaku agen AI otonom
-
-## Artikel terkait
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: mengevaluasi tutor LLM pada siswa dengan perilaku menantang (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Mendiagnosis Pemahaman Kontingensi Pedagogis dalam Video Tutoring Daring
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Apa yang terlewat oleh skor platform: evaluasi multidimensi agen pengajaran AI
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Menilai kualitas ujian hasil AI: studi lapangan skala besar
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Keselarasan pedagogis neuro-simbolik (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — Tolok ukur klasifikasi tiga arah untuk agen tutoring LLM (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — Mengevaluasi VLM pada DrawEduMath: konten kesalahan paling sulit (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Tolok ukur pengetahuan pedagogis LLM (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — Validasi observasi kelas oleh LLM: keandalan versus akurasi (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asisten basis pengetahuan AI OER on-premise: evaluasi multidimensi
-- [[ground-truth-reliability-aied]] — Memodernkan Kebenaran Dasar: Empat Pergeseran Menuju Keandalan dan Validitas yang Lebih Baik
-- [[calibrating-trustworthiness-llm-education-2026]] — Mengkalibrasi Keterpercayaan: Merancang Metrik dan Visualisasi Bersama
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Mengevaluasi Kemampuan Mengajar LLM
-- [[machines-misread-pedagogical-quality]] — Mengapa Mesin Salah Membaca Kualitas Pedagogis: Keselarasan Manusia-Mesin
-- [[cong-confidence-asag-2026]] — Penilaian Jawaban Singkat Otomatis dengan LLM
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Rekayasa Prompt Human-in-the-Loop untuk Penilaian Formatif
-- [[llm-cognitive-diagnosis-handwritten-math]] — Tolok ukur LLM untuk Mendiagnosis Keterampilan Kognitif Siswa
-- [[tutoring-effectiveness-index]] — Indeks Efektivitas Tutoring: Memprediksi Kualitas Tutor Matematika LLM
-- [[jeon-isd-agent-bench-2026]] — Tolok Ukur Agen ISD
-- [[tool-invariant-framework-agentic-ai]] — Kerangka Invarian-Alat untuk Mengajar dan Menilai Metode Komputasional
-- [[valid-student-simulation-llm-2026]] — Menuju Simulasi Siswa yang Valid dengan Model Bahasa Besar
-- [[llm-difficulty-calibration-programming-exams-2026]] — Dari Model yang Dievaluasi ke Alat Bantu Evaluasi
-- [[socratic-tests-conversational-assessment]] — Landasan Teoretis Tes Sokratik
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang Bertanggung Jawab di Era AI
-- [[authentic-products-authenticated-processes-2026]] — Dari Produk Autentik ke Proses Terautentikasi
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisis luaran pendidikan AI generatif
-- [[zhang-tutormoments-2026]] — Ketika Bantuan Tidak Membantu: mengevaluasi tutor AI untuk perjuangan produktif
-- [[elbench-education-llm-benchmark-2026]] — ELBench: tolok ukur LLM pendidikan
-- [[ai-grading-handwritten-physics-2026]] — Penilaian AI atas asesmen fisika tulisan tangan (Olimpiade)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Menyuling LM yang menjelaskan diri untuk analitik pembelajaran
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Evaluasi meta-analitik atas EdTech adaptif + AI
-- [[xiong-ai-educational-measurement-review-2026]] — Peran AI di seluruh penskoran, psikometrika, penilaian
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Mengevaluasi Tutoring AI dengan Kecepatan Inovasi: Uji Acak Mikro yang Dipimpin Praktisi atas Platform Tutoring AI dalam Sains GCSE
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Penilaian Kualitas Butir Matematika Berbasis Proses
-- [[durable-skills-measurement-ai-teammates-2026]] — Menuju Pengukuran Keterampilan Tahan Lama yang Skalabel
-- [[pivot-generative-video-tutors-stem-2026]] — Dari Generasi Konten ke Dukungan Belajar: Tutor Video Generatif Berpanduan Pedagogi untuk Pembelajaran STEM
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model pra-terlatih untuk penilaian pedagogis pertanyaan pendidikan baru yang dibantu AI
-- [[llm-judge-evaluation-educational-ai-2026]] — Ketika Evaluator Berteriak Serigala: Pelajaran dari Evaluasi LLM-sebagai-Juri dalam Produksi di Pendidikan AI
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Peta bibliometrik dapat menyingkap apa yang dihargai sebuah budaya evaluasi
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: Kriteria Evaluasi Membentuk Keberhasilan yang Terukur dalam Tutoring Matematika LLM (Lee et al. 2026)

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,8 +43,3 @@ Giảng viên muốn một tác tử xử lý việc đọc và nhắn tin thư�
 ## Ghi chú và lưu ý
 
 Việc thiết lập diễn ra cục bộ: Python 3.11 trở lên, một token và URL API của Canvas, và một ứng dụng khách MCP, cùng một tiện ích mở rộng nhấp đúp được cho Claude Desktop. Máy chủ công khai có lưu trữ đã bị rút, nên một triển khai dùng chung nghĩa là tự lưu trữ sau lớp xác thực của chính cơ sở. Các công cụ ghi được kiểm soát — máy chủ HTTP chỉ đọc trừ khi công cụ ghi được cho phép rõ ràng, việc xóa cần token xác nhận, và việc thực thi mã chạy trong một hộp cát đóng lại khi gặp lỗi. Kiểm soát quyền riêng tư là tùy chọn bật: ẩn danh hóa câu trả lời, che email và lọc PII phải được bật, và README cẩn trọng rằng những điều này có thể hỗ trợ nghĩa vụ FERPA mà không thiết lập sự tuân thủ, vốn phụ thuộc vào triển khai và nhà cung cấp AI. Máy chủ không tích hợp đo lường từ xa, nhưng Canvas và ứng dụng khách được chọn giữ log riêng của chúng. Dự án theo giấy phép MIT, đang được phát triển tích cực, và các hướng dẫn của chính nó là nguồn có thẩm quyền về tên công cụ và cấu hình hiện hành.
-
-## Khái niệm liên quan
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

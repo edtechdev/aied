@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -91,34 +93,3 @@ ai_assist:
 - **"מקרה ריאלי מלמד מעצמו."** ריאליזם מספק הקשר. השאלות, ההשוואות ומשימות הנימוק מספקות את הלמידה.
 - **"מקרים שנוצרו ב-AI מוכנים לשימוש."** מקרים מיוצרים יכולים להיות רהוטים, סבירים ושגויים. הם זקוקים לבדיקת מומחה ולבדיקה של ההיגיון שהם מזמינים.
 - **"אם הסטודנטים נהנו מהדיון, המקרה עבד."** מעורבות אינה העברה. את התוצאה יש למדוד במשימה שהסטודנטים לא יכלו להשלים קודם.
-
-## מושגים מחוברים
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## מאמרים מחוברים
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — מודל LLM מעוגן החזיק חמישה מקרים פרי-אופרטיביים בלי לייצר תוכן מומצא
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT קיצר את זמן יצירת מקרי הסיעוד בלי הבדל מדיד באיכות
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — שישה ניסויים אקראיים של PBL/CBL בסיוע AI; רק שניים בחנו CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — הדגמה של מורה עם מקרים מנוגדים בקורס GenAI
-- [[ai-standardized-patient-scaffolding-medical-2026]] — למידה מבוססת מקרים לצד מטופלים וירטואליים ומדומים
-- [[genai-medical-education-transformation-review-2026]] — למידה מבוססת מקרים והיגיון קליני בין קטגוריות היישום של הסקירה
-- [[hardie-genai-nursing-scoping-review-2026]] — למידה מבוססת מקרים בתוך תמת הסימולציה של סקירת סיעוד
-- [[lorteau-sarro-ai-legal-education-2025]] — AI משלים הוראה סוקרטית וסימולציות משפטיות
-- [[csaszar-ai-management-education-2026]] — מחקרי מקרה וסימולציות בחינוך לניהול, בלי ניתוח של שיטת המקרים

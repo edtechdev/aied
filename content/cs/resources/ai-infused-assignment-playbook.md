@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -47,16 +48,3 @@ Pro vyučující napříč obory, zejména ve vysokém školství a v profesníc
 ## Poznámky a upozornění
 
 Jde o praktickou příručku, nikoli o empirickou studii; její tvrzení o používání AI studenty stojí na citovaných externích zdrojích (BestColleges, Campbell, Digital Education Council, Flaherty), nikoli na nových datech. Rámec „budování sítě“ i pojetí „iluze porozumění“ pocházejí ze širší literatury (Wigmore et al.; Williamson et al.) a jsou představeny jako pedagogické odůvodnění, nikoli jako testované výsledky příručky samotné. Úkoly jsou autorské šablony — u žádného nejsou uvedeny effect sizes, takže je třeba je chápat jako návrhy k místnímu přizpůsobení a vyhodnocení. Vydáno 2026-10-07, v1, na Zenodo pod CC BY 4.0; ke stažení zdarma bez účtu. V době zpracování má záznam jen přibližně 35 zhlédnutí a 14 stažení, takže zatím prošel jen malým externím použitím či recenzním řízením.
-
-## Související pojmy
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

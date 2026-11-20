@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,6 +43,3 @@ A projekt szándékosan modellfüggetlen. A helyi Ollama-modelleket, a költség
 ## Megjegyzések és fenntartások
 
 A szoftver ingyenes és [[open-source|nyílt forráskódú]] az MIT licenc alatt az eredeti kódjára nézve, bár a harmadik féltől származó komponensek saját feltételeiket tartják meg, és a futtatása azt jelenti, hogy a saját modellkövetkeztetéséért fizet, ha hosztolt modellt használ. A projekt tanárok által bírált bétának nevezi magát, és a README-jében nyíltan kimondja, hogy a CI átjutása nem bizonyítja az oktatási minőséget élő modellek között – így kell olvasni egy zöld tesztcsomagot ezen a területen: a szoftvert ellenőrzi, nem a [[pedagogy|pedagógiát]]. A MacxLabs tartja fenn, és tanárok által bírált mintatanórákat fogad el hozzájárulásként.
-
-## Kapcsolódó fogalmak
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

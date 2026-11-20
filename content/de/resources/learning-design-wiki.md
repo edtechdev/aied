@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -46,7 +47,3 @@ Instructional Designer und Lehrkräfte, die eine Gestaltungsentscheidung mit der
 ## Anmerkungen und Vorbehalte
 
 Man sollte auf jeder Seite das Vertrauenspanel lesen. Sprachmodelle pflegen das Wiki unter einem einzigen menschlichen Maintainer, keine Person hat irgendeine Seite geprüft, und die Website bezeichnet eine Seite als gut belegte Spur und nicht als Befund. Aussagen tragen eine Gestaltungsstufe, einen Effektstärkencode und einen Rigour-Code, und „keine Effektstärke ausgewiesen“ bedeutet, dass die Quelle keine berichtet hat, nicht dass keine existiert. Die Inhalte stehen unter CC BY-SA 4.0, eine Wiederverwendung muss also dieselbe Lizenz tragen, und der Code steht unter MIT.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

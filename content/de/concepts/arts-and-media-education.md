@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -103,28 +105,3 @@ Zwei weitere Befunde verkomplizieren jede einfache Erzählung generativer Werkze
 **„KI in der Studiolehre ersetzt die Kritik.“** Die konstruktionistische Rahmung in dieser Literatur ist das Gegenteil: eine gestaltete „Mikrowelt“, die **den kreativen Suchraum erweitert, ohne Design Thinking zu ersetzen**. In der Kritik wird Urteilsfähigkeit geformt, und ein Werkzeug, das Lösungsvorschläge liefert, gibt der Kritik mehr Material zum Bearbeiten und macht sie nicht entbehrlicher.
 
 **„Studierende nutzen in der Kunstausbildung noch keine KI, das Curriculum kann also das Tempo bestimmen.“** Umfragebefunde zeigen, dass fast **70 % der Architekturstudierenden KI-Werkzeuge bereits eigenständig nutzen**. Das Curriculum holt eine Praxis nach, die sich schon verbreitet hat, was die Aufgabe von der Einführung zur kritischen Integration verschiebt.
-
-## Verbundene Konzepte
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## Verbundene Artikel
-
-- [[project-based-digital-storytelling-art-design-2026]] — Ein 15-wöchiger Digital-Storytelling-Capstone mit 426 Studierenden: Neuheit stark, Integration schwach, KI als Werkzeug, nicht als Autor (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — Text-zu-Bild-Akzeptanz bei 417 Kunst- und Designstudierenden und das Kompetenzparadox selektiver Nutzung (Liu, Meng & Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-gestützter VR-Unterricht für Bühnenbeleuchtung und die Lücke zwischen Experten- und Novizenrepräsentationen (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemische Spiele zur Interpretation von Text-zu-Bild-Modellen (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Kreative Handlungsmacht, Vertrauen und expertenbewertete Ergebnisqualität bei Kunststudierenden

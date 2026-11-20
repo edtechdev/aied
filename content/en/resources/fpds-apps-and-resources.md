@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-13"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 **FPDS Apps and Resources** is the public hub for the teaching tools built and curated by Faculty Professional Development Services at Hillsborough College. Fifteen entries sit under three headings, AI, accessibility and teaching, and each one opens the tool itself.
@@ -45,7 +46,3 @@ Instructors and [[educational-development|educational development]] staff at Hil
 ## Notes and caveats
 
 Reading needs no account, and the Canvas courses and checklists it links to are public. The Playlab coaches and the Gemini Gems and notebooks are third-party services that do need one. The cards render from `apps.json`, so the full list needs JavaScript and the no-script fallback names eight of the fifteen; the short link `tinyurl.com/fpdapps` and a header QR code open it on a phone. The repository is MIT-licensed software, while the guides it links to carry their own licenses, the Pressbooks book among them under a non-commercial Creative Commons license. There is no publication schedule, so the page changes without notice.
-
-## Connected Concepts
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

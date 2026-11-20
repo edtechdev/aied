@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,46 +89,3 @@ Sekumpulan studi *International Journal of STEM Education* 2026 yang terkonsentr
 - **"Tutor cerdas bekerja seragam di seluruh STEM."** Tinjauan naratif terstruktur atas **20 publikasi (2020-April 2026)** menemukan keunggulan terukur paling jelas justru untuk tutor **diagnostik waktu-nyata**. Buktinya **terbatas dan bersyarat**, dan menggeneralisasikannya ke semua ITS matematika melebih-lebihkan apa yang ditinjau.
 - **"Simulasi adalah pengganti pucat bagi kerja langsung."** Kelompok simulasi **memperoleh keuntungan lebih besar daripada kelompok langsung pada pengetahuan STEM yang selaras kurikulum (M = 3.00 versus 2.06; t(28) = 2.23, p = .034, d = 0.82)**. Simulasi bukan cadangan yang berkinerja di bawah hal yang nyata.
 - **"Alur kerja literatur berbantuan AI terutama menghemat waktu."** Hasil dari **20 siswa pada 80 dokumen** menunjukkan **ekstraksi parameter eksperimen di atas 90%, pengurangan waktu tinjauan literatur sekitar 65%, dan kenaikan 50% dalam kemampuan siswa mengidentifikasi** karya berpengaruh. Keuntungan kapabilitas adalah hasil yang lebih besar dan penghematan waktu yang lebih kecil.
-
-## Konsep terkait
-- [[learner-identity]] — identitas siswa yang berkembang secara disipliner, profesional, kreatif, dan akademik
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajaran laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
-
-## Artikel terkait
-- [[ai-pedagogical-accompaniment-amico]] — Pendampingan pedagogis berbantuan AI yang mendukung identitas STEM
-- [[lnenicka-secondary-students-genai-stem-2026]] — Apa yang sebenarnya dilakukan siswa menengah dengan alat GenAI di seluruh STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot GenAI dan pengajuan masalah dalam sains tingkat dasar
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT untuk pembelajaran berbasis inkuiri di STEAM
-- [[niri-steam-ai-literacy-review-2026]] — Pendidikan STEAM untuk literasi AI: tinjauan sistematis
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Program STEM adaptif berbasis AI untuk pembelajaran mendalam
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Profil penerimaan ChatGPT calon guru
-- [[zhang-ct-ai-training-test-2026]] — Tes Berpikir Komputasional dalam Pelatihan AI (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Alat, tutor, atau kruk: teori berlandas tentang pemrograman berbantuan AI
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Tinjauan sistematis AI dalam pendidikan sains/kimia
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Ekstraksi informasi berbantuan AI yang mendukung skripsi sarjana dan pembelajaran berbasis penelitian (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Pembelajaran drone berbantuan simulasi dengan perancah rancangan bersama guru-AI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Efek gabungan instruksi STEM berbantuan AI pada 35 studi, dengan keuntungan terbesar di SMA (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Kembaran digital di STEM: setiap studi yang ditinjau merilis prototipe yang berfungsi, sedikit yang mengukur pembelajaran
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Sesi 45 menit tentang prompting dan pemeriksaan kesalahan menaikkan skor posttest fisika (*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Bukti ITS matematika bersifat terbatas dan bersyarat

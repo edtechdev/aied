@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -94,35 +96,3 @@ Bajo la pedagogía crítica, los educadores no son transmisores neutrales de des
 **«La pedagogía crítica es una crítica formulada desde fuera de la práctica.»** Es una postura ante el papel del educador: preguntar a quién beneficia, qué conocimiento se privilegia y cómo la escolarización reproduce o resiste el poder. Aplicada a la adopción de la IA, eso significa interrogar las lógicas corporativas y capitalistas que moldean la contratación de tecnología: preguntas que un docente puede hacerse sobre las decisiones de su propia institución, no solo sobre la tecnología en abstracto.
 
 **«Situar en el centro las epistemologías marginadas es añadir contenido al currículo.»** Cambia qué conocimiento cuenta como conocimiento, lo cual es una pregunta sobre la estructura del curso y no una lectura añadida. Añadir contenidos deja intacto el marco; la pretensión de la pedagogía crítica es sobre el marco.
-
-## Conceptos conectados
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Paraguas: pedagogías y estrategias de enseñanza en la educación con IA
-
-## Artículos conectados
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Educación en derechos humanos, práctica reflexiva y la enseñanza de la gobernanza de la IA como formación profesional (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composición multimodal como pedagogía de alfabetización crítica en IA
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de los consejos tecnosolucionistas sobre alineación constructiva con IA generativa
-- [[benali-genai-academic-writing-2026]] — Revisión forzada por la justificación en un curso de escritura académica: la IA limitada a dos secciones de la propuesta, con cada sugerencia aceptada o rechazada por escrito (Benali y Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Crítica feminista y crítica de la «colonización por IA» de la educación científica
-- [[li-mroziak-reorienting-critical-ai-literacy]] — «Resistir a la IA» como praxis comunitaria de alfabetización crítica en IA
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistribuir la autoridad epistémica de la IA mediante el aprendizaje basado en la comunidad
-- [[raffaghelli-situated-ai-ethics-2026]] — Marco situado, histórico-cultural y ecológico para la ética de la IA
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Modelo crítico y evolutivo de la cognición interpretativa en humanidades
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Alfabetización en IA humanista socialista y uso legítimo
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Enfoque crítico de valores sobre la educación sostenible y la digitalización con IA (Alsuhami y Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Visión emancipadora del diseño de IA generativa orientada al florecimiento de quien aprende
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Marco de implicación con IA generativa centrado en las personas, construido sobre Freire, el construccionismo y una ética del cuidado
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pedagogía digital crítica y epistemologías decoloniales aplicadas al desarrollo académico en el Sur global

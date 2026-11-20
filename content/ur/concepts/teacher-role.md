@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -193,89 +195,3 @@ AI سے معاون منصوبہ بندی میں علمی اختیار پالیس
 **"اساتذہ پہلے ہی AI کے شریک ڈیزائنر ہیں، اس لیے تبدیلی جاری ہے۔"** خواہش حقیقی ہے؛ بیان ابھی نہیں۔ [[wang-teacher-ai-co-design-review-2026|Wang, Liu اور Islam (2026)]] کا سیکھنے کے کاموں کی اساتذہ-AI مشترکہ ڈیزائن کا منظم جائزہ پاتا ہے کہ شریک ڈیزائنر موقف **غیر متوازن رہتا ہے**، اور غالب طریقہ اب بھی AI بطور معاون یا مواد ساز ہے۔ اس جائزے کو مکمل شدہ تبدیلی کا ثبوت سمجھنا اُس خلا کو چھپا دے گا جو اس صفحے کی تجویز کردہ اساتذہ اور بیشتر اداروں کے اصل اساتذہ کے درمیان ہے۔
 
 **"استاد چیٹ بوٹ کو کام کیسے سونپتا ہے اس سے بمشکل فرق پڑتا ہے، کیونکہ کام ماڈل کرتا ہے۔"** تفویض کا نمونہ ہی مداخلت ہے۔ بچوں کی STEAM فنون کی سبق کی منصوبہ بندی میں، [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo اور Tahir (2025)]] نے تجرباتی طور پر پایا کہ *خود خاکہ بنائے* گئے سبق میں مواد کے خلا بھرنا استاد کی ڈیزائن خود مختاری برقرار رکھتے ہوئے ماہرین کے درجہ بند منصوبے کا معیار بھی بڑھاتا ہے (وسطی 20.5 بمقابلہ 17.6، p = .002، بڑا اثر)، اور ماڈل کو خاکہ دینے کی اجازت دینے کے متبادل سے بہتر ہے۔ ایک ہی ماڈل، ایک ہی کام، محنت کی مختلف تقسیم، مادی طور پر مختلف نتیجہ۔
-
-## منسلک تصورات
-
-- [[pedagogical-partnerships]] - پیدگوجیکل شراکت داریاں
-- [[learner-identity]] - بدلتی ہوئی مضمونی، پیشہ ورانہ، تخلیقی اور تعلیمی سیکھنے والے کی شناختیں
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] - چھتری: AI تعلیم میں پیدگوجیز اور تدریسی حکمت عملیاں
-- [[stakeholders]] - چھتری: AI تعلیم میں لوگ اور سامعین (سیکھنے والے، اساتذہ، ڈیزائنرز، منتظمین، پالیسی ساز)
-- [[reflection]]
-
-## منسلک مضامین
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — عارضی اکیڈمکس سالمیت کا کام اٹھاتے ہیں مگر اختیار کے بغیر
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — زیادہ انسانی تضاد: ماہر 2030 منظرنامے پاتے ہیں کہ AI کا پھیلاؤ انسانی پیدگوجیکل کام کو بے دخل کرنے کے بجائے شدید تر کرتا ہے (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — چھ مشاہدہ شدہ ہائی اسکول ریاضی کے اسباق آلہ ورانہ آرکیسٹریشن کو تین نئی اقسام سے بڑھاتے ہیں (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI کے پیدا کردہ جذباتی الرٹس کا جواب: ریاضی کے کلاس روم میں اساتذہ کی مداخلت اور طلبہ کی مشغولیت
-
-- [[edustories-classroom-case-studies-2026]] — Edustories: کلاس روم کی مشق سے حقیقی دنیا کے کیس اسٹڈیز کا مجموعہ
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — اساتذہ کلاس روم چیٹ بوٹس کو محدود ماہر کے طور پر ڈیزائن کرتے ہیں اور اختیار اپنے پاس رکھتے ہیں
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI بطور "frenemy": اساتذہ نیم خود مختاری ترجیح دیتے ہیں، افادیت اپنانے کو چلاتی ہے، خطرے سے بچاؤ طلبہ کے استعمال کو نشانہ بناتا ہے (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — اعلیٰ تعلیم میں AI کی معاونت والا لیکچرر کا فیصلہ سازی
-- [[chirikov-regulate-ai-syllabi-2026]] — مدرسین 31,000 کورس نصابوں میں AI کو کیسے ریگولیٹ کرتے ہیں؛ کام کی سطح کی ریگولیشن (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — کالج اساتذہ میں AI تدریسی جدت کا رویہ (AI-TPACK SEM؛ Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI بطور شناختی بحران، نہ کہ مہارت کا خلا
-- [[lodge-loble-cognitive-offloading-2026]] — AI، علمی بوجھ اتارنا اور تعلیم کے لیے مضمرات (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI اور تدریسی ڈیزائن کی مشق: ایک منظم جائزہ (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — کیا AI متنوع طالب علم پروفائلز کے لیے مناسب معاونت دے سکتا ہے؟ ایک بڑے پیمانے کا جائزہ
-- [[bozkurt-ghost-students-agentic-ai-2026]] — جائزے میں بھوت طلبہ اور ایجنٹک AI
-- [[wang-teacher-ai-co-design-review-2026]] — سیکھنے کے کاموں کی اساتذہ-AI مشترکہ ڈیزائن: رجحانات اور نقطہ نظر (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — یونیورسٹی اساتذہ کے GAI کے تجربات اور ادراک: کمزوری، جائزے کا دوبارہ تصور، طالب علم کی سیکھنے کو خطرہ (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI کی معاونت والے کام کی نمر بندی میں قدر کے فیصلے: ایمانداری، بھروسہ، صداقت، اور دو طرفہ شفافیت (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس رومز کے اساتذہ کے لیے ML کے نتائج کو قابلِ رسائی بنانا
-- [[li-language-educators-genai-review-2026]] — زبان کے معلمین کی GenAI کے ساتھ مشق اور ترقی
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — AI سے مربوط تدریس میں شناختی تناؤ اور اصولی انتخاب (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI پر مبنی تدریس میں استاد کی مداخلت: ایک منظم جائزہ
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — اکیڈمک ڈویلپرز بطور ڈیجیٹل ثالث: نقش کی نئی ترتیب، جذباتی محنت اور فیصلہ جنوبی افریقہ کے HDIs میں
-- [[where-ai-enters-teacher-work-2026]] — مصنوعی ذہانت استاد کے کام میں کہاں داخل ہوتی ہے
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: سیکھنے والوں اور AI کے درمیان استاد بطور نمائندہ، 19 کلاسوں کا نیم تجربہ جہاں تربیت اور بالواسطہ محنت کی کمی بہتریاں چلاتی ہے (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — ڈیزائن کے ذریعے تدریسی گورننس: کمپیوٹنگ تعلیم میں AI کے لیے ایک فریم ورک
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — چار شناختی حرکیات، پیداواری ابہام، اور رشتوں کے کام کی اداراتی قیمت
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 انگریزی ثانوی اسکول: سبق کی تیاری ہفتے میں 25.3 منٹ کم ہوئی بغیر معیار کے نقصان کے (Roy et al., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — ASSISTments RCT: AI خلاصوں نے اسائنمنٹ کی تکمیل بڑھائی مگر کلاس سطح کے اسکور نہیں (Lim et al., 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — فلسفیانہ قیادت بطور سہ مرحلہ تدریسی کردار: اخلاقی فیصلہ، پيدگوجیکل رہنمائی، پالیسی کا ترجمہ (Socorro Márquez et al., 2026)
-- [[teachers-configure-educational-chatbots-2026]] — کیا یہ ارادے کے مطابق سکھائے گا؟ اساتذہ تعلیمی AI چیٹ بوٹس کیسے ترتیب دیتے ہیں
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — ریاضی میں استاد کی وساطت: پانچ تنقیدی وساطت کے طریقے، بدلتا اختیار، اور مفت بمقابلہ پریمیم الگورتھمی تقسیم
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — استاد کی ڈیزائن سے تیاری: تیاری بطور ڈیزائن صلاحیت، نہ کہ اپنانا یا اعتماد (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT کی معاونت والا استاد کا فیڈ بیک: اساتذہ AI کے مسودے آگے پہنچانے کے بجائے چنتے ہیں
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — صلاحیت سے خودآگہی تک: AI تعلیم کے مقاصد کے بارے میں اساتذہ کے خیالات
-- [[kuhail-great-debaters-ai-facilitators-2026]] — انسانی بمقابلہ AI بحث کے ناظم: برابر درجہ بندی، دوبارہ استعمال کے مختلف راستے
-- [[yalcin-genai-programming-education-systematic-review-2026]] — پروگرامنگ تعلیم میں GenAI: ایک منظم جائزہ جس میں مدرس کے کردار سب سے کم زیرِ مطالعہ ہیں
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — معلومات فراہم کرنے والوں سے سیکھنے کے ڈیزائنرز تک: AI سے بہتر تعلیم میں heutagogical تدریسی مشق
-- [[falhs-teacher-expertise-reflection-2025]] — مہارت کی سطحیں ترجیحات اور عکاسی کی ضروریات کو کیسے شکل دیتی ہیں: اساتذہ کی بااختیاری کے لیے AI عکاسی کے نظام کی طرف (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — تدریسی غلط فہمیوں کی تدریس کے لیے گفتگو والا AI تشخیصی، ثبوت پر استوار مکالمے کے ساتھ (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — AI استعمال کا استاد کی کارکردگی پر کوئی براہِ راست اثر نہ تھا؛ شہریت کے رویے نے ثالثی کی (Sherly et al. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 واقعات جو AI سے معاون منصوبہ بندی میں اختیار کے برقرار رہنے، مشترک ہونے یا سونپے جانے کو دکھاتے ہیں
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — طلبہ کے مباحثہ بورڈز کے ادراک: AI سے فعال سیکھنے کے تجزیات کے ڈیزائن کو inform کرنے والا Technology Acceptance Model مطالعہ
-- [[gnadlinger-educator-perspectives-its-design-2026]] — ذہین tutoring نظاموں کے meta-system ڈیزائن میں معلمین کے نقطہ نظر کو شامل کرنے کی طرف
-- [[chen-future-faculty-development-ai-2027]] — استاد بطور دوسروں کی مہارت کا کنڈکٹر، کردار تدریسی ٹیم میں تقسیم
-- [[li-instructor-designed-ai-rct-2026]] — مدرس کی ڈیزائن کردہ AI 19 جامعات کے randomized trial میں سیکھائی بہتر کرتی ہے (Li et al., 2026)

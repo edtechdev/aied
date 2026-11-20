@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -47,7 +48,3 @@ Nauczyciele K-12, którzy chcą narzędzia do konkretnego problemu bez subskrypc
 ## Uwagi i zastrzeżenia
 
 Tempo jest zarazem argumentem i ryzykiem. Jednodniowe budowy celują w realny problem klasowy, a nie w pytanie badawcze, więc nic tu nie ma ewaluacji, a twierdzenie o działaniu aplikacji trzeba sprawdzić w klasie. W organizacji na GitHubie jest trzydzieści dwa publiczne repozytoria, podczas gdy galeria wymienia 34, wszystkie na Apache-2.0 z dostępnym źródłem, więc aplikację można przeczytać i hostować samodzielnie. Projekt lokalny to twierdzenie do zweryfikowania dla każdej aplikacji, a nauczyciel powinien je potwierdzić, zanim postawi jakiekolwiek narzędzie dla studentów przed klasą.
-
-## Powiązane pojęcia
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

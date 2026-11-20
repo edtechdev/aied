@@ -18,6 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, eduprompts]
 reviewed_by: [editor]
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 **The ID Toolbox** is a growing set of free, single-purpose utilities for the parts of [[learning-design|instructional design]] that are tedious rather than creative. Nothing requires an account or an email, and the tools that read your files run entirely in the browser, so a draft course never has to be uploaded anywhere.
@@ -27,8 +28,3 @@ Before you build: choose between authoring tools against weighted criteria, test
 
 ## Why it exists
 Curt Zilbersher, who has designed corporate training for twenty-eight years, describes the same small unsolved problems recurring across his career — counting narration words, finding the asset that pushed a course past an [[edtech-platform|LMS]] limit, auditing caption coverage by hand — and is building the fixes and giving them away. The site also runs a free annual survey on how instructional designers actually spend their week.
-
-## Connected Concepts
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

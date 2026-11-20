@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -98,44 +100,3 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 - **"自动评分结果反映的是学生写作。"** 序数信号可能是**被制造出来的而非观察到的**：通过模板生成、压缩至**原长度的 20-40%**并移除关键词合成的一级作文。一个在构造的极端值上验证过的系统，可能从未在它将遇到的分布上被测过。
 - **"聚合准确率是要报告的指标。"** **一个偏斜的量表分布会让聚合评分指标误导人**：对一个量表维度的自动评估常常是一个标签分布失衡的分类任务，在那里高准确率与有用的判别力彼此分离。
 - **"现场部署还没有被评价过。"** 现场证据存在于一次真实的高风险部署（**乌拉圭的 Acredita EB，2024**），这是本文献中最强形式的证据，也是多数评分准确性研究从未提供的那种证据。
-
-## 关联概念
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## 关联文章
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — 量表感知的思维链加 PPO：平均 QWK 从 0.5253 到 0.5410，规模带来的增益很小（Xu 等 2026）
-- [[xin-auditable-automated-essay-scoring-2026]] — 可审计评分：0.738 的宏观 QWK，配以以证据为依据的反馈与教师复核标记（Xin 2026）
-- [[reflection-level-classification-hungarian-essays-2026]] — 匈牙利学生作文中的反思水平自动分类
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT：面向论辩作文的模块化自动写作评估系统
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays：面向高中物理作文的自动作文评分多维框架，用于评价批判性思维
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 报告：对三所英国大学 761 篇大学作文的 AI 评分
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment：大规模写作评估中 AI 辅助评分的人在回路框架
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES：用 LLM 进行奖励对齐的一致性作文评分
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM 不像人类那样给作文评分（Mathew 等 2026）
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 从自动评分到学习诊断：AI 支持英语写作形成性评价的机制研究
-- [[llm-essay-scoring-feature-weighting-2026]] — 基于 LLM 的作文评分中的特征加权模式（Wang 等 2026）
-- [[llm-essay-assessment-framework-reliability-2026]] — 评估 LLM 用于作文评估的框架（Liu、Ye 与 Yan 2026）
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust：自置信度、加权概率评分与集成改善 LLM 评分一致性
-- [[swim-student-writing-simulation-2026]] — 一个被冻结的 AES 验证器用作写作生成器的稠密训练奖励
-
-- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个提示式评分器面对答案已知的探针，其中多数可以被说服改分（Porcaro 2026）
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300 人班级的教师给一款 unplugged AES 应用打出 92.5 的 SUS，并要求可靠性警告而非最终分数（Ribeiro 等 2026）
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — 优化大语言模型驱动的自动作文评分：融合语言特征与提示工程以提升评分准确性
-

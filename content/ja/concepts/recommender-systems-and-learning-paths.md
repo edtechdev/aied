@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -96,42 +98,3 @@ PersonaPath は、決定の*単位*そのものを争うことで順序づけの
 **「疎なデータは技術的な厄介事である。」** この文献の疎性の水準（0.9981）では、システムはほとんど何も見ておらず、そのことがコールドスタートと人気バイアスを、調整で直せるものではなく構造的なものにします。その信号で訓練された推薦は、すでに人気のあるものを体系的に浮上させ、静かな、あるいは珍しい学習者こそ、それが見えない相手なのです。
 
 **「説明可能性は報告の機能である。」** 教員や学習者が推薦を監査できるかどうかは、正当性の条件です。学生が吟味できない経路は、学生が異議を唱えられない経路であり、それはインターフェースの問題である前にガバナンスの問題です。
-
-## 関連する概念
-
-- [[knowledge-graph]] — 概念、リソース、前提関係の構造化された表象
-- [[explainable-ai]] — 理解のしやすさと信頼を媒介する設計上の特徴としての説明
-- [[curriculum-design]] — 推薦システムがモデル化し、推論し、再生産する順序づけの決定
-- [[learning-design]] — 経路分析が対象とする計画された活動の列
-- [[learning-analytics]] — 推薦の背後にあるデータと方法、そして監査の対象
-- [[cognitive-diagnosis]] — 補習経路の種となる知識状態の診断
-- [[knowledge-tracing]] — 学習者が何に対して準備できているかを決めるための、時間を追った習熟のモデル化
-- [[student-modeling]] — 推薦が消費する学習者の表象
-- [[personalized-learning]] — より広い目標。このページは選択の決定を扱います
-- [[adaptive-learning]] — リアルタイムの調整機構。このページは順位づけと順序づけを扱います
-- [[intelligent-tutoring]] — 対話の中で推薦に基づいて行動するプラットフォーム
-- [[bias-mitigation]] — 順位づけと露出における公正性の介入
-- [[equity-in-ai-education]] — 推薦の質における群レベルの差
-- [[human-in-the-loop-ai]] — 自動化されたリソース案内の監視
-- [[self-directed-learning]] — 学習者が維持する経路と生涯にわたる航行
-- [[lifelong-learning]] — 学位の系列を超えたグラフ構造の学習
-- [[trust-calibration]] — 推薦の信頼性に見合った依存の調整
-- [[student-support-and-success]] — 支援、リソース、学習経路の推薦
-
-## 関連する記事
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid collaborative filtering plus knowledge graph for multimodal teaching resources, with ability- and progress-aware fusion (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Heterogeneous knowledge graph + GRU recommender with GroupDRO fairness and counterfactual explainability (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-driven explanations build more teacher trust than feature-importance charts (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — Prerequisite relation learning with an irreversibility constraint for directional consistency (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — Recommending programming practice by pattern-based knowledge-component similarity (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov and pattern-mining analysis of 29,064 designed activities across 554 courses (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian DINA diagnosis and shortest remediation paths, mediated by cognitive load (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Mapping AI TA questions to a GPT-4-extracted prerequisite graph to find curriculum-level gaps (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs as a lifelong-learning alternative to fixed curricula (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Five-level taxonomy showing most human-AI interaction is consultation, not collaboration (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Autonomy support versus pressure predicting constructive or compulsive AI pathways (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — PRISMA review of personalized learning trends, pathways, and recommendation models (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: a Knowledge-Centric planning benchmark showing LLMs reach 90.9% validity but only 44.3% adaptivity (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — exercise recommendation as a sequential decision over a semantically grounded tracer
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Behavioral clustering of 14,003 records into six profiles, mapped to learning objects with a diversity-regularized recommendation framework (Najem et al. 2026)

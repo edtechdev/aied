@@ -7,6 +7,8 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 > **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the technical layer. Where [[pedagogy|pedagogy]] and [[learning-theories|learning theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation|AI ed evaluation]] concerns *whether AI works*, the *technical* strand covers the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering|prompt engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
 
@@ -67,41 +69,3 @@ The technical strand is inseparable from the field's other themes:
 **"Technical choices are the technologist's business, not the educator's."** You can be an excellent educator without being able to build an LLM and your technical choices still shape what AI can and cannot do in your classroom. Whether a system grounds its answers in course material is a decision with pedagogical consequences that someone has to make.
 
 **"A more capable model will resolve the field's gaps."** Orchestration, memory and long-horizon planning are architectural rather than capability problems — the documented absence is of systems that govern their own tool use over time, which a better model does not supply on its own.
-
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Connected Articles
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Research visibility of 85 AI tools in STEM and engineering education (Terkowsky et al. 2026)
-
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
-- [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
-- [[educational-llm-alignment]] — Aligning LLMs for education
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
-- [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
-- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
-
-- [[jaksic-engaging-high-school-teachers-ai-2025]] — Engaging High School Teachers with Artificial Intelligence Concepts, Applications, and Developments

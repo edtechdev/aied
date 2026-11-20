@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,33 +78,3 @@ ZPD (ভাইগটস্কি) হলো [[intelligent-tutoring|এআই ট
 **"দলে একটি সরঞ্জাম যোগ করলে কেবল দলের দক্ষতা বদলায়।"** এটি শ্রম-বিভাজন বদলায়, যা তত্ত্বটি বিশ্লেষণ করে সেই একক। যে দল তার বেশিরভাগ প্রশ্ন একটি এজেন্টের কাছে পাঠায়, সে উৎপাদ অপরিবর্তিত থাকলেও জ্ঞানমূলক কাজ পুনর্বণ্টন করেছে।
 
 **"বিতরণকৃত জ্ঞান বোঝায় ব্যক্তি গুরুত্বহীন।"** এটি বোঝায় ব্যক্তির অবদান কেবল ব্যক্তিগত কর্মক্ষমতা থেকে পড়া যায় না; বিশ্লেষণের একক হলো কার্যকলাপ-ব্যবস্থা, একা ব্যক্তি নয়।
-
-## সংযুক্ত ধারণা
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[youth-enter-chat-llm-student-talk-2026]] — যখন তরুণরা চ্যাটে ঢোকে: শিক্ষার্থীদের আলাপের LLM-ভিত্তিক মাপকের যাচাই
-- [[generative-ai-mediational-agent-sociocultural-2026]] — মধ্যস্থতাকারী এজেন্ট হিসেবে উৎপাদনশীল এআই
-- [[golrang-propact-pair-programming-2026]] — সহযোগী এআই টিউটরিং
-- [[finkelstein-principled-ai-education-2025]] — নীতিভিত্তিক এআই শিক্ষা কাঠামো
-- [[stanford-evidence-base-ai-k12-2026]] — কে-১২-তে এআইয়ের স্ট্যানফোর্ড প্রমাণভিত্তি
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12-এ GenAI-এর সিডনি দ্রুত পর্যালোচনা
-- [[ai-cognitive-partner-co-regulation-learning]] — জ্ঞানমূলক অংশীদার ও সহ-নিয়ন্ত্রণ হিসেবে এআই
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — গণিত-শিখনে LLM-লিখিত ইঙ্গিত মানব টিউটরের ইঙ্গিতের সমান (Pardos ও Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — শিক্ষার্থীর পালা কী লক্ষ্য করে তার ওপর ফেডিং, উত্তরের গভীরতার ওপর নয়

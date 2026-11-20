@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -39,6 +40,3 @@ Kolegiji ulaze preko veze s API-jem Canvasa, datoteke IMS Common Cartridge, pake
 ## Što treba znati prije primjene
 
 Dodatak zahtijeva Claude Code i bash ljusku za instalaciju; PowerShell i cmd ne mogu pokrenuti instalacijsku skriptu, a Python 3 preporučuje se za trendove ocjena. Podaci kolegija ostaju u mapi projekta na čitateljevu vlastitom računalu i napuštaju je samo preko integracije koju korisnik sam pokrene, poput poziva API-ja Canvasa. Živa inferencija u proširenju za Chrome zahtijeva vlastiti besplatni API ključ Google AI Studija, iako simulacijski način to pokazuje i bez njega. Projekt se označava betom u verziji 3.5.1.0 i upozorava na prijelomne promjene između manjih verzija, a objavljen je pod GitHub računom savvides, a ne pod imenom autora.
-
-## Povezani pojmovi
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

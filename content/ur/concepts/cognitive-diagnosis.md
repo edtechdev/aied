@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -87,44 +89,3 @@ ai_assist:
 - دونوں سمتوں کو آلہ بندیں: غلط جواب کو پہچاننا اور درست جواب پیدا کرنا۔ حل کی بازیابی کا 95.2% عدد بتاتا ہے کہ تخلیق آسان نصف ہے اور ناکامی کی صورت پہچان میں ہے۔
 - جہاں شعبے کا ڈھانچہ اجازت دے، جامد فہرست کے بجائے دریافت کو ترجیح دیں، اور حوالہ جاتی مجموعے کے مقابلے میں احاطے کی رپورٹ دیں تاکہ موازنہ قابلِ فہم ہو۔
 - کوئی تشخیصی اسکور جاری نہ کریں بغیر یہ بتانے کے کہ وہ کس تعمیر کی پیمائش کرتا ہے اور اسے پیدا کرنے والے اشارے سے آزادانہ کیسے جانچا گیا۔
-
-## منسلک تصورات
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## منسلک مضامین
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — ہاتھ سے لکھی ریاضی سے علمی مہارتوں کی تشخیص کے لیے LLMs کی بینچ مارکنگ
-- [[correct-answer-trap-misconceptions]] — صحیح جواب کا جال
-- [[llm-misconception-difficulty-easy-trap]] — آسان جال: LLMs غلط فہمی سے پیدا ہونے والی مشکل کو کم کیوں آنکتے ہیں
-- [[llm-student-misconception-identification]] — طلبہ کی غلط فہمیوں کی LLM سے نشاندہی
-- [[student-math-competence-clustering]] — طلبہ کی ریاضیاتی قابلیت کی ماڈلنگ کے لیے کلسٹرنگ
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — واضح مسئلہ حل کرنے والے کی ماڈلنگ کے لیے علمی ایجنٹ کی تالیف
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: نقلی سیکھنے والوں سے تشخیص
-- [[huang-interpretable-knowledge-tracing-2026]] — قابلِ تشریح نالج ٹریسنگ
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM تصوراتی درخت + درجہ بندی کے مطابق مہارت کا استنباط
-- [[yasir-llm-tutoring-agents-2026]] — LLM ٹیوٹرز میں تشخیص کو فیڈبیک سے الگ کرنا
-- [[zhang-ct-ai-training-test-2026]] — AI تربیت میں کمپیوٹیشنل تھنکنگ ٹیسٹ (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ذاتی نوعیت کے سیکھنے کے راستوں کے لیے Bayesian علمی تشخیص
-- [[personalized-neural-cognitive-architecture-search-2026]] — سیکھنے والے کے پروفائلز کے لیے AutoML ذاتی نوعیت کی عصبی علمی معماری کی تلاش
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity mapping کے ساتھ نتیجے پر مبنی نالج ٹریسنگ
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — رازداری کا تحفظ کرنے والی متفاوت کثیر LLM فیڈریٹڈ تشخیص
-- [[llm-common-modeling-mistakes-formalisms-2026]] — LLM سے پیدا کردہ، الگوردمی طور پر تصدیق شدہ غلطی درست کرنے والی تبدیلیوں کے ذریعے بڑے پیمانے پر عام ماڈلنگ غلطیوں کی کان کنی (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: موجودہ طبیعیات تصوراتی انوینٹریوں سے 14 تعلیمی مقاصد کی DINA پر مبنی تشخیص (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM سے علمی تصورات کی تشریح اور کیلیبریٹ شدہ تصوراتی سطح کی علمی حالتیں
-- [[llm-distractor-generation-student-reasoning-2026]] — غلط فہمی پر مبنی ڈسٹریکٹرز بطور تشخیصی آئٹم ڈیزائن کا کام
-- [[misconception-acquisition-dynamics-llms-2026]] — حل میں غلطی کہاں داخل ہوتی ہے، وہی تشخیصی رکاوٹ ہے
-- [[pivot-generative-video-tutors-stem-2026]] — مواد کی تخلیق سے سیکھنے کی معاونت تک: STEM سیکھنے کے لیے تدریس کی رہنمائی والے جنریٹیو ویڈیو ٹیوٹرز
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ایک ایجنٹک ٹیوٹر جو انسان-AI کے مشترکہ سیکھنے کے حلقے میں اپنے سیکھنے والے کو سیکھتا ہے
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: سیکھنے اور تدریس کے لیے کھلے بنیادی ماڈلز
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — بامعنی سیکھنے کے لیے ثقافتی طور پر جڑے AI کے ذریعے تشخیصی جانچ پر نظرِ ثانی

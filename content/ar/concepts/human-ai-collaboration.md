@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -106,69 +108,3 @@ ai_assist:
 - **«التعاون يعني أن يقوم الذكاء الاصطناعي بجزء من العمل.»** **يبقى المتعلّم صاحب دور القرار**، وهذا يمتد إلى الكتابة: يُظهر [[oppenheimer-llms-collaborative-learning-partners-2026|أوبنهايمر وكاش وكونل بينسكي (2025)]] أنه يصمد عندما يُصمَّم الترتيب لذلك. تقسيم العمل ليس تعاونًا ما لم يحتفظ الإنسان بالحكم.
 - **«الذكاء الاصطناعي هو من يشرح في الترتيب المقلوب.»** **الطلاب الذين علّموا الذكاء الاصطناعي فسّروا أفضل** — تعريف الفصل المقلوب عند **M = 4.18 مقابل 3.29**، وأنشطته التعليمية عند **M = 4.91 مقابل 3.06، كلاهما p < 0.001**. وذهب التعلّم إلى الشارح.
 - **«إسهامات الإنسان والذكاء الاصطناعي بدائل.»** تخطّط دراستان لعام 2026 **نصفين مكمّلين** للتعاون الصفي، وهو ما يؤطر مشكلة التصميم كتخصيص لا كاستبدال.
-
-## المفاهيم المرتبطة
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[community-of-inquiry]] — مجتمع البحث (الحضورات كإنجازات اجتماعية تقنية بين الإنسان وGenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقويم التكويني، وحدود نماذج اللغة الكبيرة، وفلسفة التجريب
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو مختبر التعليم، وثقافة الذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصصة
-- [[human-in-the-loop-ai]] — الإشراف
-- [[agentic-ai]] — الاستقلالية
-- [[productive-failure]]
-
-## المقالات المرتبطة
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — ثلاثة أدوار للوكيل في لعبة علمية سردية، وأي معيار تقييم يحتاج كل منها (هومبرغ وزملائه 2025)
-- [[bjet-many-hands-make-light-work-2026]] — فاز العمل المزدوج مع نظام GenAI متعدد الوكلاء بمشروع التصميم بينما ارتفع الوعي بالتفكير النقدي لمن عمل منفردًا (تشو وزملائه 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — نقاش متعدد الوكلاء مع حجب الإجابة المفضلة قلّل الانصياع لنصيحة ذكاء اصطناعي خاطئة، لكن لا تصحيحيًا
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: كفاءة التعاون كتشكيل ديناميكي من كفاءة المجال والذكاء الاصطناعي وما وراء المعرفة، مع فاعلية المتعلّم الناشئة (دانغ وزملائه 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — معلمون للمرحلة الثانوية يصممون روبوتات محادثة صفية كخبراء ذوي حدود تحت إشراف بشري
-- [[ai-integration-instructional-design-collaboratory-2026]] — اثنتا عشرة تطبيقة لمساقات إعداد المعلمين تعامل دمج الذكاء الاصطناعي كمشكلة تصميم تعليمي
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: أول تجربة معشّاة لتوسيع خبرة التعاون البشري-الاصطناعي إلى المدرسين المبتدئين
-- [[think-first-chatgpt-later-2026]] — فكّر أولًا، ChatGPT لاحقًا: الإبداع البشري المستقل
-- [[principal-trait-analysis-human-ai-skills-2026]] — «سمات» التعاون بين الإنسان والذكاء الاصطناعي المعتمدة على البيانات
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — أنماط تفاعل المعلّم مع الذكاء الاصطناعي في تصميم الدروس عبر الخبرة والكفاءة في الذكاء الاصطناعي (تشوي وزملائه 2026)
-- [[tang-chatbots-learning-design-2026]] — يستخدم المصممون روبوت محادثة مدمجًا لفحوص المواءمة مع المخرجات والبيداغوجيا لا لتوليد المحتوى
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — من الإحلال إلى السقالة: كسر دورة الضرر المعززة لذاتها
-- [[generative-ai-mediational-agent-sociocultural-2026]] — الذكاء الاصطناعي التوليدي كوكيل وسيط
-- [[conversational-ai-agents-umbrella-review-2026]] — مراجعة شاملة لوكلاء الذكاء الاصطناعي الحواري في التعليم
-- [[ai-overreliance-complex-adaptive-system-2026]] — الاعتماد المفرط على الذكاء الاصطناعي كنموذج لنظام تكيفي معقد
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — رفيق ذكاء اصطناعي متكيف مع الدور للنقاش حول كتاب المرحلة الابتدائية؛ السقف الوجداني لوكلاء الدور الثابت (لياو 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — التصميم المشارك بين المعلّم والذكاء الاصطناعي لمهام التعلّم: اتجاهات ووجهات نظر (وانغ وزملائه 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — هندسة الأدوار في الأنشطة الجماعية المتمايزة المصممة بالذكاء الاصطناعي (طالبزاده 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI كوكيل وفضاء تعاوني في ديناميكيات المجموعات الصغيرة (شو وزملائه 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقييم نظام متعدد الوكلاء من نماذج اللغة الكبيرة موجّه بالسقالة لتدريب المقابلة السريرية
-- [[ethics-training-agents-group-ethics-discussion-2026]] — وكلاء تدريب أخلاقي: تسهيل التعليم الأخلاقي القائم على المجموعات بالتمثيل والنقاش للتفكير الأخلاقي والاستكشاف
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: الأتمتة والتعزيز والتعاون كسلسلة متصلة لإسناد المهام
-- [[bounded-reliance-ai-writing-feedback-2026]] — الاعتماد المحدود: منظور مصداقية المصدر لانخراط طلاب الإنجليزية كلغة أجنبية في تغذية راجعة كتابية مولّدة بالذكاء الاصطناعي
-- [[human-ai-collaboration-academic-writing-2026]] — سير عمل كتابي منظم من خمسة أجزاء لطلاب الإنجليزية كلغة أجنبية؛ قادت روتينات التحقق والاستخدام المسؤول إلى مكاسب في الكتابة المزدوجة والتفكير النقدي الرقمي
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — انقلاب الأدوار: يعلم الطلاب متعلّمًا مبتدئًا من GAI متجاوزين أقرانًا يستعلمون من معلّم GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — شكّل نوع الدعم استراتيجيات النقح والنتائج، لكن لم تتنبأ أي استراتيجية بالمكسب؛ قد تكون مكاسب GenAI خاصة بالمهمة
-- [[kuhail-great-debaters-ai-facilitators-2026]] — منسقو نقاش بشريون مقابل اصطناعيون صُنّفوا متكافئين؛ النفع مقابل الرضا يقودان إعادة الاستخدام باختلاف
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — درس الدراسة يبني قدرة المربين على تصميم انخراط حواري مع الذكاء الاصطناعي؛ هندسة المحفزات كتفكير تربوي
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — خمسة أنواع لتشابك الطالب مع GenAI، ولماذا يبقى ما يوزع التأليف هامشيًا (صن ودورن وريم 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — المسارات المتعاكسة لتعاون المعلّم مع الذكاء الاصطناعي نحو انخراط العمل عبر التوفّر النفسي واغتراب العمل، محكومة بالكفاءة الرقمية
-- [[wang-agentic-translation-education-2026]] — بروتوكول تصميمي يعيد توجيه تعليم المترجمين نحو كفاءات تنسيق الذكاء الاصطناعي والحكم الاستراتيجي والتقييم النقدي (لا بيانات تجريبية بعد)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — التنبيه الوجداني إشارة يفسّرها المعلّم لا أمرًا يُطاع
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — عجز مشروعية التأليف في التأليف المشترك بين الإنسان والذكاء الاصطناعي

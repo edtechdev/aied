@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -45,12 +46,3 @@ Owston (2026), menulis sebagai salah satu pengembang, memaparkan alasan desain u
 ## Catatan dan peringatan
 
 Kedua aplikasi gratis dan tidak memerlukan informasi pribadi, tetapi "privat dan anonim" tidak sama dengan "tanpa data": kebijakan Contact North menyatakan bahwa mereka mengumpulkan log interaksi ChatGPT dan data Google Analytics, menyimpannya di server di Kanada, tidak mengizinkan OpenAI melatih model dengan data itu, dan membagikan data interaksi kepada OpenAI, yang menyimpannya hingga 30 hari. AI Tutor Pro tidak direkomendasikan untuk pengguna di bawah 18 tahun tanpa izin orang tua atau wali. Jumlah interaksi dari vendor adalah angka pemasarannya sendiri, bukan data penggunaan independen, dan label beta pada Slide Builder berarti keluarannya harus diperiksa sebelum digunakan di kelas. Tidak ada lisensi sumber terbuka yang dinyatakan, sehingga kodenya tidak tersedia untuk modifikasi institusional.
-
-## Konsep terkait
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -96,42 +98,3 @@ PersonaPath अनुक्रमण प्रश्न को निर्ण�
 **"विरल डेटा एक तकनीकी उपद्रव है।"** इस साहित्य के विरलता स्तरों (0.9981) पर प्रणाली लगभग कुछ नहीं देखती, जो शीत-प्रारंभ और लोकप्रियता-पूर्वाग्रह को ट्यूनिंग से ठीक होने वाली समस्या नहीं, संरचनात्मक समस्या बना देता है। उस संकेत पर प्रशिक्षित सिफ़ारिशक व्यवस्थित रूप से वही सामने लाएगा जो पहले से लोकप्रिय है, और शांत या असामान्य शिक्षार्थी ही वे हैं जिन्हें वह देख नहीं पाता।
 
 **"व्याख्यायोग्यता एक रिपोर्टिंग विशेषता है।"** कोई शिक्षक या शिक्षार्थी किसी सिफ़ारिश का लेखा-परीक्षण कर सकता है या नहीं, यह एक वैधता-शर्त है: जिस पथ को विद्यार्थी जाँच नहीं सकता, उस पर वह आपत्ति भी नहीं कर सकता, जो इंटरफ़ेस का मुद्दा होने से पहले शासन का मुद्दा है।
-
-## संबंधित अवधारणाएँ
-
-- [[knowledge-graph]] — अवधारणाओं, संसाधनों और पूर्वापेक्षित संबंधों के संरचित प्रतिनिधित्व
-- [[explainable-ai]] — एक डिज़ाइन विशेषता के रूप में व्याख्या, जो समझने योग्यता और विश्वास को मध्यस्थ बनाती है
-- [[curriculum-design]] — क्रमबद्ध निर्णय जिन्हें अनुशंसा प्रणालियाँ मॉडल करती हैं, अनुमानित करती हैं और पुनरुत्पन्न करती हैं
-- [[learning-design]] — गतिविधियों की नियोजित अनुक्रमिका जिस पर पथ विश्लेषण काम करते हैं
-- [[learning-analytics]] — अनुशंसा के पीछे के आंकड़े और विधियाँ, और ऑडिट की वस्तु
-- [[cognitive-diagnosis]] — उपचार पथों को बीज देने वाली ज्ञान अवस्थाओं का निदान
-- [[knowledge-tracing]] — यह निर्णय करने के लिए समय के साथ दक्षता का मॉडल बनाना कि सीखने वाला किसके लिए तैयार है
-- [[student-modeling]] — सीखने वाले के प्रतिनिधित्व जिन्हें अनुशंसा उपभोग करती है
-- [[personalized-learning]] — व्यापक लक्ष्य; यह पृष्ठ चयन निर्णय को कवर करता है
-- [[adaptive-learning]] — वास्तविक समय समायोजन क्रियाविधि; यह पृष्ठ रैंकिंग और अनुक्रमण को कवर करता है
-- [[intelligent-tutoring]] — वह मंच जो संवाद में अनुशंसाओं पर अमल करता है
-- [[bias-mitigation]] — रैंकिंग और एक्सपोज़र में निष्पक्षता हस्तक्षेप
-- [[equity-in-ai-education]] — अनुशंसा गुणवत्ता में समूह-स्तर के अंतर
-- [[human-in-the-loop-ai]] — स्वचालित संसाधन नेविगेशन की निगरानी
-- [[self-directed-learning]] — सीखने वाले द्वारा अनुरक्षित मार्ग और आजीवन नेविगेशन
-- [[lifelong-learning]] — डिग्री अनुक्रम से परे ग्राफ़-संरचित सीखना
-- [[trust-calibration]] — अनुशंसा विश्वसनीयता के अनुसार निर्भरता का मिलान
-- [[student-support-and-success]] — सहायता, संसाधनों और शैक्षणिक मार्गों की अनुशंसा
-
-## संबंधित लेख
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — बहु-माध्यमिक शिक्षण संसाधनों के लिए संकर सहयोगी फ़िल्टरिंग और ज्ञान ग्राफ़, क्षमता- और प्रगति-जागरूक फ़्यूज़न के साथ (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — GroupDRO निष्पक्षता और प्रतिवादी व्याख्यायोग्यता के साथ विषम ज्ञान ग्राफ़ + GRU अनुशंसा प्रणाली (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — फ़ीचर-महत्व चार्ट से अधिक डोमेन-चालित व्याख्याएँ अधिक शिक्षक विश्वास बनाती हैं (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — दिशात्मक संगति के लिए अपरिवर्तनीयता बाधा के साथ पूर्वापेक्षित संबंध सीखना (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — पैटर्न-आधारित ज्ञान-घटक समानता से प्रोग्रामिंग अभ्यास की अनुशंसा (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554 पाठ्यक्रमों में 29,064 डिज़ाइन की गई गतिविधियों का मार्कोव और पैटर्न-माइनिंग विश्लेषण (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — संज्ञानात्मक भार से मध्यस्थ बेय्सियन DINA निदान और सबसे छोटे उपचार पथ (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — पाठ्यक्रम-स्तर के अंतराल खोजने के लिए AI TA प्रश्नों को GPT-4-निकाले गए पूर्वापेक्षित ग्राफ़ से मिलाना (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — नियत पाठ्यक्रमों के विकल्प के रूप में आजीवन सीखने के लिए learnity ग्राफ़ (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — पाँच-स्तरीय वर्गीकरण जो दिखाती है कि अधिकांश मानव-AI इंटरैक्शन सहयोग नहीं, परामर्श है (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — स्वायत्तता सहायता बनाम दबाव, रचनात्मक या बलपूर्वक निर्भर AI मार्गों की भविष्यवाणी (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — व्यक्तिगत सीखने की रुझानों, मार्गों और अनुशंसा मॉडलों की PRISMA समीक्षा (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: एक ज्ञान-केंद्रित नियोजन बेंचमार्क जो दिखाता है कि LLM 90.9% वैधता पर पहुँचते हैं लेकिन केवल 44.3% अनुकूलनशीलता पर (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — एक शब्दार्थ-आधारित अन्वेषक पर अनुक्रमिक निर्णय के रूप में अभ्यास अनुशंसा
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 14,003 अभिलेखों का छह प्रोफ़ाइलों में व्यवहारवादी समूहन, विविधता-नियमित अनुशंसा ढाँचे के साथ सीखने की वस्तुओं से मिलाया गया (Najem et al. 2026)

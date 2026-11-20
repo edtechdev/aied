@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -39,7 +40,3 @@ Profesori și districte din K-12 care vor controale de clasă și ancorare în p
 
 ## Note
 Accesul la constructor este condiționat: pagina de început cere o adresă de e-mail și un loc într-un atelier de onboarding, sau un cod de invitație. Afirmațiile sale de conformare (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), promisiunea că lucrarea ta nu antrenează niciodată modele externe și atribuirea drepturilor asupra rezultatului către creator trebuie să stea în acordul de prelucrare a datelor, nu doar pe pagina de marketing; comparația sa de capabilități cu MagicSchool și cu marile chatboți este a Playlab, datată la mijlocul lui 2026. A crescut din munca de programare pentru utilizatorul final legată de Scratch și MIT Media Lab.
-
-## Concepte conexe
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

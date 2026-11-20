@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -165,46 +167,3 @@ AI를 활용한 봉사 학습 연구 26편을 대응시킨 결과, 성찰은 가
 - **"[[automated-assessment|자동 채점]]이 규모 문제를 해결합니다."** 분류기는 클래스 불균형이 심한 잘 주석된 말뭉치에서 성찰 수준 약 70%에 도달하며, 그 상한은 그럴듯한 텍스트의 사정권 안에 있습니다.
 - **"포트폴리오는 본래 성찰적입니다."** 그릇은 행위가 아닙니다. 다듬어진 결과물로 구성된 포트폴리오에는 성찰이 전혀 없을 수 있습니다.
 - **"성찰에는 가르침이 필요 없습니다."** 헝가리 에세이 말뭉치와 예비 교사 실험 모두 수준과 질이 학습되는 것이며 준비가 결과를 바꾼다고 전제합니다.
-
-## 연결된 개념
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## 연결된 문서
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — 사전등록된 성인 302명 실험: 성찰 프롬프트가 피드백에 쓰는 시간을 두 배로 늘리고 연습량을 40% 줄였으나 문제당 이득은 높이지 못했습니다(Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — 최종 텍스트가 아니라 문서화된 프롬프트와 반복을 바탕으로 한 GenAI 인식 다섯 부분 성찰 모델(Kadel 외 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 주석된 에세이 1,954편, 심한 클래스 불균형, 얕은 모델 71%와 트랜스포머 68%(2026)
-- [[reflection-agent-fidelity-career-2026]] — AI 성찰 파트너가 사용자를 왜 덜 헌신하게 남겼는지 설명하기 위해 17,930개 발화를 코딩했습니다(Nepal 외 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — AI를 인지적 매개자로 둔 자기, 협력적, 공동체 성찰(2026)
-- [[falhs-teacher-expertise-reflection-2025]] — K–12 교사 100명: 시간은 초심자의 장애물, 수행 추적은 숙련자의 장애물입니다(Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — 네 가지 GenAI 실천과 열한 개 과정, 각각이 성찰적 사고를 지지하거나 대체할 수 있습니다(Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — 성찰적 저널링 루틴을 유지하는 일에 관한 무작위 2×2 현장 실험(Scheu 외 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 전략 훈련과 소크라테스식 LLM 성찰 파트너를 맞세운 2×2 검증(Zhang 외 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — 종합 점수가 없는 비진단적 자기 성찰 도구(Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — 수용을 자기효능감과 참여로 연결하는 측정된 구성개념으로서의 성찰적 AI 사용(Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 다음 피드백 주기를 재보정하는 살아 있는 입력으로서의 구조화된 성찰(Oktoma 외 2026)
-- [[pedlow-genai-selfassessment-2026]] — 윤리적 GenAI 사용을 위한 자기평가 안의 안내된 성찰(Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — AI 사용 후 인식하고, 재분배하고, 성찰적으로 재참여하는 교사 18명(Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 입장 논문: 성찰 프롬프트가 내구성 있는 자기 모니터링을 기른다는 증거는 없습니다(de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAI를 피드백 제공자이자 종합자로 둔 16주 WordPress e-포트폴리오(Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — e-포트폴리오 평가에 정렬된 ChatGPT, Wilks' λ = 0.476, partial η² = 0.524(Sutama 2026)
-
-- [[liu-teaching-analytics-dashboard-2026]] — 하나의 비계가 분석적·평가적 깊이를 끌어올린 반면 행동 계획은 그대로였다(Liu 등 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26개 연구 대응: 성찰은 봉사 학습 순환에서 가장 적게 다루어진 국면이다(Yusuf 등 2026)

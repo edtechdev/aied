@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -48,12 +49,3 @@ Moodlen ylläpitäjille ja kehittäjille, jotka jo pyörittävät sivustoa, opet
 ## Huomioita ja varauksia
 
 Avoin lähdekoodi GPL v3 tai uudempi -lisenssillä, mutta ilmainen ei tarkoita ilmaista ajaa: joku maksaa mallin API:sta, ja arvostelun laatu riippuu mallin valinnasta ja kehotteen suunnittelusta. Vapaatekstivastaukset lähtevät Moodle-palvelimelta, kun käytetään etäpalvelua, joten oppilaitoksen tietosopimus määrää, mitä saa lähettää; itse isännöity Ollama-reitti on olemassa sivustoille, jotka eivät voi lähettää opiskelijoiden töitä ulos. Repossa ei ilmoiteta julkaistua tarkkuus- tai yhdenmukaisuustutkimusta, joten liitännäistä ei pitäisi ottaa käyttöön olettaen, että LLM-arvostelu vastaa ihmisarvostelua – [[assessment-validity|validiteetti]] on osoitettava paikallisesti ihmispisteitä vastaan ennen kuin millään arvosanalla on painoa. Kumppanikäyttäytymiset ovat kova riippuvuus: pelkän kysymystyypin asentaminen jättää kysymykset arvostelemattomiksi.
-
-## Liittyvät käsitteet
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

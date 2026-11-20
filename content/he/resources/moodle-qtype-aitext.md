@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -48,12 +49,3 @@ ai_assist:
 ## הערות ואזהרות
 
 קוד פתוח תחת GPL v3 או מאוחר יותר, אבל חינם אינו אומר חינם להפעלה: מישהו משלם על ה-API של המודל, ואיכות הציינון תלויה בבחירת המודל ובעיצוב ההנחיה. תשובות טקסט חופשי עוזבות את שרת Moodle כשמשתמשים בספק מרוחק, כך שהסכם הנתונים של המוסד קובע מה מותר לשלוח; מסלול Ollama המתארח עצמית קיים לאתרים שאינם יכולים לשלוח עבודות סטודנטים החוצה. המאגר מציין שלא פורסם מחקר דיוק או הסכמה, ולכן אין לאמץ את התוסף מתוך הנחה שציינון LLM שווה ערך לציינון אנושי — יש לבסס [[assessment-validity|תקפות]] מקומית מול ציונים אנושיים לפני שציון נושא משקל. התנהגויות נלוות הן תלות קשיחה: התקנת סוג השאלה לבדה משאירה שאלות בלי ציינון.
-
-## מושגים מחוברים
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

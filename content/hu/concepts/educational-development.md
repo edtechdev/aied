@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -150,74 +152,3 @@ A kohorszmodell kidolgozott példája egy egyetemi könyvtárból érkezik. [[jo
 **„A MI-használattal kapcsolatos bűntudat szabályszegést jelez.”** A bűntudat a leplezéssel jár együtt, nem a felfedéssel: a MI-használat korlátozása a rossz érzés miatt a használat elrejtésével korrelált, nem a tiltott viselkedéssel. A bűntudatot tehát a kötelezettségszegés bizonyítékaként olvasni félreazonosítja a forrását, és megfelelési jelzésként kezelni még messzebb viszi a viselkedést a látótérből.
 
 **„Az alacsony felmérési válaszarány azt jelenti, hogy az oktatóknak nincsenek erős érzéseik.”** A cikk a **109 választ (3,5%-os arány)** önmagában is informatívnak olvassa az etikai vita állapotáról - egy kényelmetlenségről szóló kérdésre adott alacsony válasz magáról a kényelmetlenségről szóló megállapítás, nem annak hiányáról. Egy pedig tisztán felkészítésként keretezett generatív MI-integráció elvéti az identitáskérdést, amelyet egyes oktatók valójában feltesznek: mi értelme a tanításnak egy generatív MI világában.
-
-## Kapcsolódó fogalmak
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Metaforák felszínre hozása és analógiatervezés az oktatói fejlesztésben
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] - Gyűjtőfogalom: emberek és közönségek a MI-oktatásban (tanulók, tanárok, tervezők, adminisztrátorok, döntéshozók)
-
-## Kapcsolódó cikkek
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Hét oktató nyolchetes ösztöndíjas programja: szerény MI-ismerősség, nagyobb OER-ismerősség (Jordan és mtsai., 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
-- [[crompton-faculty-technology-integration-standards-2026]] — Oktatói standardok a technológiaintegrációhoz (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — A MI etikai dimenziói: oktatói és diáknézetek
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hogyan építik (és korlátozzák) a mérnökkari metaforák a MI megértését
-- [[fear-awe-genai-metaphor-workshops-2025]] — Félelem és áhítat: a generatív MI értelmezése metaforákon keresztül (oktatói, munkatársi és diákmetafora-műhely)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Négy kritérium és négy metafora a kritikai MI-írástudatosság tanításához
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — A láthatatlan irányítása: MI-írástudatosság a nyelvtanárok körében
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — A generatív MI mint identitásválság, nem készséghiány
-- [[zuo-instructor-power-genai-writing-2026]] — Az írás oktatói által észlelt hatalmi viszonyok a generatív MI-vel küzdve (Zuo, Xu és Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflektív háromszög modell: a MI mint kognitív közvetítő
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Oktatók önészlelt TPACK-21 tudása a generatív MI-re (Sutedjo, Chowdhury és Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK szakmai fejlesztés: a részvétel jelzi előre a nyereséget, az önészlelt részvétel nem
-- [[instructional-design-proficiency-masters-math-2026]] — Okosterem-modell és D-T-E hurok a matematika M.Ed. oktatástervezési jártasságának javítására (Zhu és mtsai. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — A szerepek architektúrája a MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Egyetemi tanárok tapasztalatai és képzetei a generatív MI-ről: sebezhetőség, az értékelés újragondolása, veszélyben a tanulói tanulás (Farazouli és mtsai. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — A félelemtől az innovációig: hathetes oktatói intézet, szimbiótikus pedagógia és az intézményi feltételek, amelyeket nem tudott biztosítani
-- [[vassallo-ai-guilt-complex-faculty-2026]] — A MI-bűntudat komplexus: előrevetített bűntudat, leplezés és karrierszakaszbeli különbségek az oktatói munkatársak körében (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon felmérés 1 057 amerikai oktató körében: intézményi felkészületlenség, vékony irányítás és a 87%/48%-os politikai szakadék (Watson és Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Tudományos fejlesztők mint digitális közvetítők a globális dél felsőoktatásában: a fejlesztés mint szociotechnikai praxis
-- [[physics-faculty-learning-community-ai-2026]] — Műhelysorozat a MI hatékony használatáért bizonytalan időkben: fizikaoktatói tanulóközösség építése
-- [[faculty-ai-well-being-social-supports-2026]] — Az oktatók MI-jólléte a MI-írástudatosságot követi, nem a technológiai önhatékonyságot
-- [[ai-competence-framework-landscape-2026]] — Ellenőrizze, mit írnak le egy keretrendszer szintjei, mielőtt átveszi
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Meghatározhatja-e az oktatás a MI napirendjét? Szimulált innováció és pedagógiai irányszabás a tanárképzésben
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 kémiatanár egy hathetes programban
-- [[ma-ai-corpus-language-teaching-coi-2026]] — több mint 150 nyelvtanár 28 országból, 20 hét alatt
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2 159 skandináv tanár; 0,20 SD nyereség az észlelt előnyökben
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 tanár egy GenAI-tanulási program után, a szükségletek közvetítik az elköteleződést
-- [[bodek-prompted-to-explore-microlearning-2026]] — mikro-tanulási tanári fejlesztési modell a generatív MI-hez
-- [[bursic-ai-residency-education-curriculum-2026]] — MI-rezidensprogram az orvosképzésben
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 forrás; a nevelői fejlesztés a négy téma egyike
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 tanár, akik korábbi tanárok által vezetett fejlesztést kérnek
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% a meglévő munkatársakat és oktatókat képzi tovább
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 nevelő legitimálja az árnyék-MI-t, ahol hiányzott az útmutatás
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — képességhiányok, amelyek tanári fejlesztést és felvételi döntéseket hajtanak
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — az ismétlődő fejlesztés mint az öt támogatási réteg egyike
-- [[chen-future-faculty-development-ai-2027]] — Hét tanári szerep, két egyetemes alap, és a tanítócsapat mint a fejlesztés egysége
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Az ítélőképesség tere, dialogikus vizsgálódás és háromoszlopos audit arról, hová csúszott az ítélőképesség egy eszközbe
-- [[jiang-faculty-development-japan-2027]] — Japán kettős pályás tanári fejlesztése: a részvétel nőtt, a kollégiális formák nem
-- [[tian-transnational-faculty-development-governance-2027]] — Határokon átnyúló tanári fejlesztés: a kapcsolódás epizodikus, a koordináció a munka
-- [[ho-invariant-core-faculty-development-2027]] — Változatlan mag, változó él: a tanulási mechanizmus a technológia előtt

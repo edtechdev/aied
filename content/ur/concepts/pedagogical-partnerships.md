@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -106,35 +108,3 @@ ai_assist:
 - **"شراکت داری کا مطلب طلبہ کی آواز کو بلند کرنا ہے۔"** تدریسی شراکت داری متعین کرداروں اور باہمی فرض کے ساتھ ایک **محدود، گفت و شنید شدہ رشتہ** ہے، مشورہ نہیں۔ کردار، دائرہ اختیار اور فیصلے میں حصے کے بغیر آواز کچھ بھی ساختی نہیں بدلتی۔
 - **"شراکت داری ایک رویہ ہے جو اختیار کیا جا سکے۔"** اُسے ادارتی شرطیں درکار ہیں — وقت، طالب علم شراکت دار کے لیے اعزاز، اور ایسی تبدیلی جسے شراکت دار واقعی متاثر کر سکیں۔ اُن شرطوں کے بغیر اعلان کردہ شراکت داری اُسی درجہ بندی کو دوبارہ پیدا کرتی ہے جسے وہ روکنے کا دعویٰ کرتی ہے۔
 - **"طاقت کی تقسیم فیکلٹی کی ترقی نہیں ہو سکتی۔"** ادب کا دعویٰ یہ ہے کہ شراکت داری اِس لیے ترقی ہے *کیونکہ* وہ رشتے کے ذریعے معلم کی سمجھ کو بدلتی ہے۔ اِسے صرف طالب علم کے فائدے کے طور پر بیان کرنا طریقہ کار کو ضائع کر دیتا ہے۔
-
-## منسلک تصورات
-- [[pedagogy]] — تدریسی طریقے اور تدریسی حکمت عملیاں
-- [[collaborative-learning]]
-- [[agency]] — سیکھنے والے کی ایجنسی
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## منسلک مضامین
-- [[guided-inquiry-genai-course-policy-2026]] — طلبہ کے جنریٹو AI کورس پالیسیاں مشترکہ ڈیزائن کرنے کے لیے رہنمائی شدہ تحقیقی طریقہ
-- [[lo-co-creating-custom-gpts-sap-2026]] — اپنی مرضی کے GPTs مشترکہ تخلیق کرنا: جنریٹو AI جدت میں انڈرگریجویٹ طلبہ بطور شراکت دار، ایک خود قومیاتی مطالعہ
-- [[williams-ingle-assessment-co-creation-ai-2025]] — مشترکہ تخلیق کے ذریعے جانچ کا ڈیزائن: AI کے جائزے میں طالب علم اور عملے کی شراکت داری
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — طلبہ بطور شراکت دار عمل میں AI سے نمٹنے کے پانچ رہنما اصول، تدریسی اعتماد بچانے کے لیے
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — نوجوان شراکت داروں کے ساتھ AI کی مشترکہ ڈیزائننگ: رشتہ جاتی رازداری کا اخلاقی فریم ورک
-- [[fawns-entangled-pedagogy-genai-students-2026]] — entangled pedagogy فریم ورک کے ذریعے AI کے حوالے سے طلبہ کی پیچیدہ حقیقتوں کو روشن کرنا
-- [[anastasia-shared-agency-partnership-framework-2026]] — مشترکہ ایجنسی: مدرس اور طالب علم تعاون کے لیے ایجنسی شراکت داری فریم ورک
-- [[maybee-disruptive-partnerships-sap-2025]] — درہم برہم کرنے والی شراکت داریاں: انفارمیشن اسٹڈیز میں طلبہ کے ساتھ تعاون
-- [[student-centered-genai-responsible-framework-2026]] — ذمہ دار جنریٹو AI استعمال کے لیے طالب علم مرکزی فریم ورک
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — طلبہ نے 710 طلبہ کے پیمانے پر ہم مرتبہ کے لیے AI ٹیوٹر بنایا: شمولیت بلند، سیکھنے کی شہادت ابتدائی (Zangari et al. 2026)

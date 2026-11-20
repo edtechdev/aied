@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -77,48 +79,3 @@ ai_assist:
 - **"শিক্ষকেরা পুরো পাঠ তৈরি করতে এআই ব্যবহার করবেন।"** শিক্ষকেরা বেশিরভাগ ক্ষেত্রে (**60%**) প্রতিনিধিত্ব করেছেন **নিজে রূপরেখা করা পাঠে বিষয়বস্তুর ফাঁক ভরাতে**, পুরো পরিকল্পনা তৈরি করতে নয়। প্রতিনিধিত্বের একক ফাঁক, পাঠ নয়।
 - **"অল্পবয়সী শিশুরা এআই-সমর্থিত মিডিয়া-সাক্ষরতা থেকে কম লাভ করে।"** এআই-সমর্থিত দল **মিডিয়া-পাঠ (+3.50), লেখালেখি (+1.67) ও মোট মিডিয়া-সাক্ষরতায় (+5.17, সবই p < .01) বড় লাভ** দেখায়, দল-মধ্য প্রভাবের আকার d = 1.12 বা তার বেশি। এই বয়স-পরিসরে লাভ বড় ছিল, প্রান্তিক নয়।
 - **"স্বয়ংক্রিয় পর্যবেক্ষণ সর্বত্র মানব রেটারদের সঙ্গে মেলে।"** সম্মতি **সামগ্রিকভাবে মাঝারি (ভারিত κ = 0.681) কিন্তু গঠনের ওপর শর্তসাপেক্ষ**: অভিসৃতি টেকে **Emotional Support** ক্ষেত্রে ও **Quality of Feedback**-এ, অন্যত্র নয়। ক্ষেত্রগুলো জুড়ে গড় করলে লুকিয়ে যায় যন্ত্রটি কোথায় ব্যর্থ হয়।
-
-## সংযুক্ত ধারণা
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## সংযুক্ত নিবন্ধ
-- [[early-childhood-ai-holistic-competencies-review-2026]] — এআই যুগে প্রাথমিক শৈশব গড়া: যোগ্যতা, শিক্ষাবিজ্ঞান ও পরিবেশগত সহায়তা (Pei 2026)
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — বিজ্ঞান-কাজকর্ম নকশায় প্রাক-সেবা প্রাথমিক-শৈশব শিক্ষকদের উৎপাদনশীল এআই-সম্পৃক্ততা: চুম্বকত্বের দৃষ্টান্ত
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: এআই কি শিশুদের গল্পের উন্নয়ন-উপযুক্ততা মূল্যায়ন করতে পারে?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — প্রাথমিক-শৈশব পরিবেশে এআই ব্যবহারে প্রাক-বিদ্যালয় শিক্ষকদের আচরণগত অভিপ্রায় (Duan প্রমুখ 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: প্রাথমিক শৈশবে আনপ্লাগড এআই-ধারণা
-- [[ai-toys-child-development-2026]] — এআই-সক্ষম খেলনা ও শিশু-বিকাশ
-- [[tsingidou-ct-robotics-kindergarten-2026]] — কিন্ডারগার্টেনে রোবোটিক্সের মাধ্যমে গণনামূলক চিন্তা
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — প্রাথমিক ভগ্নাংশে এআই-চালিত ব্যক্তিগতকৃত শিখন
-- [[elementary-writing-genai-systematic-review-2026]] — জেনএআই যুগে প্রাথমিক লেখালেখি-শিক্ষণ
-- [[awareness-technological-isomorphism]] — প্রাথমিক গণিতে প্রযুক্তিগত আইসোমরফিজম
-- [[icub-humanoid-storytelling-llm-hri-2025]] — শিশুদের সঙ্গে LLM মানবসদৃশ গল্প-বলা
-- [[human-ai-complementarity-social-emotional-learning-2026]] — প্রাথমিক সামাজিক-আবেগিক শিখনে মানুষ–এআই পরিপূরকতা (Raave প্রমুখ 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): প্রাক-কে ও কিন্ডারগার্টেনের জন্য খেলা-কেন্দ্রিক এআই-সাক্ষরতা পাঠ্যক্রম (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — শিশুদের জন্য এআই-ভিত্তিক সমালোচনামূলক মিডিয়া-সাক্ষরতা কর্মসূচি
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — সৃজনশীল প্রকল্প পদ্ধতি: প্রাথমিক শিখনে এআই এজেন্ট ও রোবোটিক্স সাজানোর একটি কাঠামো (Yang, Li ও Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPT-এর সঙ্গে কথোপকথনে শিশু ও প্রাপ্তবয়স্কদের প্রথম নিউরোইমেজিং তুলনা: ৬-৭ বছরের শিশুদের কম সমন্বিত নিয়ন্ত্রণ-মনোযোগ-স্মৃতি নেটওয়ার্ক
-- [[ai-rated-classroom-observation-scores-2026]] — আমি কোড করি বা এআই কোড করে: হংকংয়ের কিন্ডারগার্টেনে এআই-রেটেড CLASS Pre-K স্কোর বনাম প্রশিক্ষিত মানব রেটার (Fong প্রমুখ 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — এআই-নেটিভদের জন্য এআই-সাক্ষরতা? চার-দেশ তুলনা
-
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — প্রাথমিক ইংরেজি ভাষা-শিক্ষায় এআই-মধ্যস্থ সরঞ্জাম: শিক্ষাগত কার্য ও শিক্ষক-সংগঠনের একটি স্কোপিং পর্যালোচনা

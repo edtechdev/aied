@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -110,37 +112,3 @@ ai_assist:
 - **«Партнёрство означает возвышение голоса студентов».** Педагогическое партнёрство — это **ограниченное, согласованное отношение** с определёнными ролями и взаимными обязательствами, а не консультация. Голос без роли, мандата и доли в решении ничего структурно не меняет.
 - **«Партнёрство — это позиция, которую можно занять».** Оно требует институциональных условий — времени, признания для студента-партнёра и изменения, на которое партнёры действительно могут повлиять. Объявленное партнёрство без этих условий воспроизводит иерархию, которую заявляет, что прерывает.
 - **«Разделение власти не может быть развитием преподавателей».** Утверждение литературы состоит в том, что партнёрство является развитием именно потому, что меняет понимание педагога через отношение. Оформление его только как выгоды для студента отбрасывает механизм.
-
-## Связанные концепции
-
-- [[pedagogy]] — Педагогики и стратегии преподавания
-- [[collaborative-learning]]
-- [[agency]] — Агентность учащегося
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[guided-inquiry-genai-course-policy-2026]] — «A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies»
-- [[lo-co-creating-custom-gpts-sap-2026]] — «Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation»
-- [[williams-ingle-assessment-co-creation-ai-2025]] — «Assessment design through co-creation: Student-staff partnership in evaluating AI»
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — «Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust»
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — «Co-designing AI with youth partners: a relational privacy ethical framework»
-- [[fawns-entangled-pedagogy-genai-students-2026]] — «Illuminating complex student realities of AI through an entangled pedagogy framework»
-- [[anastasia-shared-agency-partnership-framework-2026]] — «Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration»
-- [[maybee-disruptive-partnerships-sap-2025]] — «Disruptive Partnerships: Collaborating with Students in Information Studies»
-- [[student-centered-genai-responsible-framework-2026]] — «Student-centered framework for responsible generative AI use»
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Студенты строили ИИ-тьютора для однокурсников в масштабе 710 студентов: вовлечённость высокая, доказательства обучения предварительные (Zangari et al. 2026)

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -37,7 +38,3 @@ Pre K–12: generátory plánu hodiny, pracovného listu, [[special-education|ci
 
 ## Poznámky
 Projekt tvrdí, že má lokálne nainštalovaný AI server pre rýchlosť a že dáta sa spracúvajú lokálne a nikdy neukladajú, plus súlad s usmerneniami Ministerstva školstva; [stránka tímu](https://teacherserver.com/index-team.php) uvádza ako zakladateľa a vývojára Zafera Unala, profesora na University of South Florida, spolu s poradným výborom štyroch členov fakulty z iných univerzít. Tie tvrdenia sa stále oplatí overiť pred prácou so študentskými výstupmi. Prístup vyžaduje registráciu a existuje sprievodná neskôr platená platforma na stavbu vlastných nástrojov.
-
-## Prepojené pojmy
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

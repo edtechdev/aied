@@ -19,6 +19,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, libraries, librarians, generative-ai, conversational-ai, trust-calibration]
 ---
 
 > **Synthesis:** Lund and colleagues survey 236 US university students about where they start an academic search and what they think of what they find, comparing [[generative-ai|AI chatbots]], search engines and library resources. Search engines remain dominant — Google 45.5% of preferred starting points against the library homepage at 27.9% and an AI chatbot at 26.6% — and students rate search engines more relevant and more satisfying for nearly every information type. But AI is not marginal: 26.6% start there, 9.8% use it daily for academic work, and the demographic split is sharp. Younger students and international students use AI far more, and international students report using it as a replacement for library resources rather than a supplement.
@@ -62,15 +63,6 @@ Within that limit the instrument is unusually transparent. It adapts items from 
 - The survey was collected in late summer 2025 and describes a moving target as tools and norms change.
 - The analysis is descriptive and correlational; the study states no causal claim about why students choose one source over another.
 - The reported per-group Google means (19.08 domestic, 18.99 international) do not reconcile with the overall mean of 18.71 at the stated 43/57 split, an internal inconsistency in the paper.
-
-## Connected Concepts
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[generative-ai]]
-- [[conversational-ai]]
-- [[trust-calibration]]
 
 ## Citation
 

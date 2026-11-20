@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -88,27 +90,3 @@ Davranışçılık, öğrenenlerin yapay zekâyı bir konu olarak karşılaması
 **"Davranışçı tasarımlar yapılandırmacı olanlardan yalnızca daha zayıftır."** Belirli hedeflere iyi uyarlar: akıcılık, olgusal hatırlama, prosedürel otomatiklik; burada anında geri bildirim ve yineleme gerçekten görevin gerektirdiği şeydir. Hata mekanizmada değildir; geçerlilik koşulu (yanıtı öğrenen üretmelidir) sessizce geçerliliğini yitirmiş bir mekanizmayı kullanmaktadır.
 
 **"Kuram gözden düştüğü için, üzerine kurulu sistemler yalnızca sonuçlara göre yargılanabilir."** Sonuçlar, çıktı eşdeğerliğinin tam olarak bozduğu şeydir. Bir sistem mükemmel davranışsal sonuçlar bildirirken öğrenme başka yere taşınmış olabilir; bu nedenle davranışçılıktan etkilenen sistemler desteksiz ölçüme diğer tüm türlerden daha çok ihtiyaç duyar.
-
-## Bağlı kavramlar
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Bilişselcilik, öğrenme kuramının üçüncü klasik kutbu
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Bağlı makaleler
-
-- [[ai-vocational-education-training-review]] — Savunulan yapılandırmacılığa rağmen davranışçı YZ tasarımları VET uygulamasında baskındır; “Turing Tuzağı”
-- [[generativism-learning-theory]] — Üretici yapay zekânın yeniden düşünülmesini istediği dört baskın kuramdan biri olarak davranışçılık
-- [[ccct-cooperative-learning-technique]] — Yükseköğretimde işbirlikçi öğrenme tasarımında atıfta bulunulan davranışçılık
-- [[wang-multi-agent-systems-learning-designers-2025]] — İşbirlikçi çok etmenli tasarım yaklaşımları arasında davranışçı bir persona
-
-- [[sequenced-ai-feedback-learning]] — Sıralı ipucu geri bildirimi, 199 katılımcılı bir randomize deneyde anında tam çözüm geri bildiriminin gerisinde kaldı
-

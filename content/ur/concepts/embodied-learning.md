@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -62,33 +64,3 @@ ai_assist:
 - **"جسم ہی وہ چیز ہے جو مجسم سیکھنے کو کام کرنے دیتا ہے۔"** **11 RALL مطالعات (N = 595، g = 0.83، I² = 84.4%)** کے میٹا تجزیے نے پایا کہ **روبوٹ کی شکل، موڈیلٹی، خودمختاری اور سماجی کردار نے** دوسری [[language-learning|زبان]] کی سیکھنے کے نتائج میں **اعتدال پیدا نہیں کیا**۔ تجسم کی خصوصیات فعال جزو نہیں تھیں، اور متفاوتیت اتنی زیادہ تھی (I² = 84.4%) کہ مجموعی اثر بہت ملی جلی مداخلتوں کا بیان بنتا ہے۔
 - **"بڑا اثر طریقہ کار طے کر دیتا ہے۔"** 11 مطالعات میں 595 شرکاء کے ساتھ g = 0.83 ایک حقیقی اشارہ ہے اور یہ نہیں بتاتا کہ اسے کس چیز نے پیدا کیا۔ چونکہ ڈیزائن کی خصوصیات نے اثر میں اعتدال پیدا نہیں کیا، معقول طریقہ کار ہارڈ ویئر کے بجائے تدریسی سرگرمی میں بیٹھتا ہے — جس سے یہ بدل جاتا ہے کہ کس چیز میں سرمایہ کاری کرنی ہے۔
 - **"تجسم ناقابلِ پیمائش ہے، اس لیے نظریاتی رہتا ہے۔"** جسم کی ٹریکنگ ضابطگی کو **قابلِ پیمائش اشارے** میں بدل سکتی ہے: ایک مخلوط حقیقت کی ضیائی تالیف کی سمولیشن میں، جہاں حرکت کے ٹیگ طالب علم ایجنٹوں کو پیش شدہ ماڈل کے اوپر منتقل کرتے تھے، ایک LLM پائپ لائن نے ضابطگی کے رویے کے **470 حصوں** کو نشان زد کیا۔ یہ تصور تعریف کے مشکل ہونے کے باوجود عملی شکل اختیار کر سکتا ہے۔
-
-## منسلک تصورات
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — وہ موڈیلٹی جو تجسم سے براہِ راست فائدہ اٹھانے کی کوشش کرتی ہے
-
-## منسلک مضامین
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — حرکت سے ٹریک شدہ ضیائی تالیف کی سمولیشن، LLM پائپ لائن سے تجزیہ شدہ (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — زبانی وضاحتوں میں مجسم ادراک کے لیے ایک ملٹی موڈل فریم ورک
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — مجسم ذہانت کے ذریعے پائیدار سیکھنے کو پروان چڑھانا (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper اور اشاروں کی زبان
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — تخلیقی تحریر میں روبوٹ-LLM انضمام
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI سے بہتر بنائی گئی مجسم روبوٹ کی مدد سے زبان سیکھنے کا میٹا تجزیہ
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — ہاتھ سے بنے ماڈلوں کے بعد AI بطور تسہیل کار: زبان پر مبنی AI مجسم استفسار کی پیروی نہیں کر سکتا (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — مجسم سیکھنے میں AI زیادہ تر مشاہدہ کرتا ہے: کوڈ شدہ کردار ٹیگ میں احساس کے کردار 62.5%، اور کسی جائزہ شدہ نظام نے سیکھنے والوں کے استعمال کے دوران ملٹی موڈل رواں دھارے یکجا نہیں کیے (Kim & Han 2026)

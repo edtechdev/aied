@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,51 +100,3 @@ Ein erstes Neuroimaging-Fenster zu dieser Frage öffnet sich mit einem Vorbehalt
 - **„Lehrkräfte werden KI nutzen, um ganze Unterrichtsstunden zu erzeugen.“** Lehrkräfte delegierten am häufigsten (**60%**), **um Inhaltslücken in einem selbst skizzierten Unterrichtsplan zu füllen**, statt ganze Pläne zu erzeugen. Die Einheit der Delegation ist die Lücke, nicht die Stunde.
 - **„Junge Kinder gewinnen weniger aus KI-gestützter Medienkompetenz.“** Die KI-gestützte Gruppe zeigte **große Zuwächse beim Medienlesen (+3.50), beim Schreiben (+1.67) und in der gesamten Medienkompetenz (+5.17, alle p < .01)** mit Effektstärken zwischen den Gruppen von d = 1.12 oder höher. Die Zuwächse waren in diesem Altersband groß, nicht marginal.
 - **„Automatisierte Beobachtung stimmt durchweg mit menschlichen Bewertenden überein.“** Die Übereinstimmung war **insgesamt mäßig (gewichtetes κ = 0.681), aber vom Konstrukt abhängig**: Konvergenz hielt für die Domäne **Emotionale Unterstützung** und für **Qualität des Feedbacks**, und nicht anderswo. Über die Domänen zu mitteln verbirgt, wo das Instrument scheitert.
-
-## Verbundene Konzepte
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Verbundene Artikel
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Die frühe Kindheit im Zeitalter der KI gestalten: Kompetenzen, Pädagogik und ökologische Unterstützung (Pei 2026)
-- [[preservice-early-childhood-genai-magnetism-2026]] — Engagement von angehenden frühkindlichen Erzieherinnen und Erziehern mit Generativer KI im naturwissenschaftlichen Aktivitätsdesign: der Fall Magnetismus
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Kann KI Entwicklungsangemessenheit in Geschichten für Kinder beurteilen?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Verhaltensabsicht von Vorschullehrkräften zum Einsatz von KI in frühpädagogischen Settings (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged KI-Konzepte in der frühen Kindheit
-- [[ai-toys-child-development-2026]] — KI-fähiges Spielzeug und Kindesentwicklung
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational Thinking durch Robotik im Kindergarten
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — KI-gestütztes personalisiertes Lernen bei Brüchen in der Grundschule
-- [[elementary-writing-genai-systematic-review-2026]] — Schreibunterricht in der Grundschule im Zeitalter von GenAI
-- [[awareness-technological-isomorphism]] — Technologische Isomorphie im Grundschulunterricht Mathematik
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-gestütztes humanoides Storytelling mit Kindern
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): ein spielzentriertes KI-Kompetenz-Curriculum für Vorschule und Kindergarten (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — KI-basiertes Programm kritischer Medienkompetenz für Kinder
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: ein Rahmenwerk zur Anpassung von KI-Agenten und Robotik an das frühe Lernen (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Erster neurobildgebender Vergleich von Kindern und Erwachsenen im Gespräch mit ChatGPT: weniger integrierte Kontroll-Aufmerksamkeits-Gedächtnis-Netzwerke bei 6- bis 7-Jährigen
-- [[ai-rated-classroom-observation-scores-2026]] — Ich code oder KI code: von KI bewertete CLASS-Pre-K-Scores gegen trainierte menschliche Bewertende in Hongkonger Kindergärten (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — KI-Kompetenz für KI-Natives? Ein Vier-Länder-Vergleich
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — KI-vermittelte Werkzeuge im primarstuflichen Englischunterricht: ein Scoping-Review pädagogischer Funktionen und der Orchestrierung durch Lehrkräfte
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Digitale und Medienkompetenz angehender frühpädagogischer Lehrkräfte im Kontext der digitalen Bildung: eine bibliometrische Analyse von Forschungstrends
-- [[yim-ai-literacy-primary-schools-review-2025]] — KI-Kompetenzbildung in Grundschulen: vier Stränge, konstruktionistischer Unterricht und eine stark selbstberichtsbasierte Evidenzbasis (Yim & Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — Kartierung der Grundschulforschung zu Naturwissenschaften: fünf Anwendungscluster, Vermittlung durch Lehrkräfte und dünne epistemische Ergebnisse (Barokah et al. 2026)

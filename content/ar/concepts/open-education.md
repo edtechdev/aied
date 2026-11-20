@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,39 +92,3 @@ ai_assist:
 **«الذكاء الاصطناعي يجعل المحتوى رخيصًا إلى حد إبطال الموارد التعليمية المفتوحة».** القراءة المعاكسة متاحة وأفضل سندًا. فإذا صار التوليد شبه مجاني، صارت السلع النادرة هي الرخصة، وأثر الإسناد، ومسار المراجعة، والمنصة المصانة. ولهذا تتقارب هذه الأدبيات على الحوكمة والبنية التحتية لا على الإنتاج.
 
 **«إضافة أدوات الذكاء الاصطناعي إلى تكليف مفتوح تحسّن التعلم».** الاختبار شبه التجريبي الوحيد هنا وجد نموًا مُدرَكًا في المهارة في المجموعتين بلا فرق قابل للكشف بينهما، مع إكمال أعلى ودرجات أدنى هامشيًا في شعبة الذكاء الاصطناعي. فقد غيّر الذكاء الاصطناعي ما أنتجه الطلاب، ولم يغيّر ما أفادوا بتعلّمه.
-
-## المفاهيم المرتبطة
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## المقالات المرتبطة
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — خمس تأطيرات للموارد التعليمية المفتوحة بعد دخول الذكاء الاصطناعي التوليدي الإنتاج (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — الموارد التعليمية المفتوحة بوصفها منافع عامة رقمية والحجة لبنية تحتية محكومة (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — لماذا ترك خمس وعشرون سنة من الانفتاح قلب المؤسسة سليمًا (Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — البيداغوجيا المفتوحة بأدوات ذكاء اصطناعي وبغيرها في شعبتين دراسيتين (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — أربعة عشر نموذجًا للممارسة التعليمية المفتوحة وموضع الذكاء الاصطناعي فيها (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — ثقافة المعلم بالذكاء الاصطناعي وممارسة التدريس المفتوح في 30 مقاطعة صينية (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — إطار من سبع ركائز للدمج المسؤول للموارد التعليمية المفتوحة والذكاء الاصطناعي (Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — الإرشاد وإنتاج الموارد التعليمية المفتوحة بالذكاء الاصطناعي في مختبر افتراضي (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — معيار من سبعة مبادئ لمراجعة موارد ثقافة الذكاء الاصطناعي المفتوحة (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — التفاعلية في الموارد التعليمية المفتوحة حجة تصميم لا نتيجة (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — التعاون الدولي في التعليم المفتوح حالة أداتية (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — مُوصٍ هجين للموارد التعليمية المفتوحة في مقابل خط أساس أقوى مما يُدّعى (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — التحول الرقمي في التعلم المفتوح بوصفه تحولًا تربويًا (Panda, 2026)

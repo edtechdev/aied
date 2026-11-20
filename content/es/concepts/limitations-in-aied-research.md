@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -135,49 +137,3 @@ Una consecuencia práctica de estos límites es que varias prácticas educativas
 - **«Las secciones de limitaciones son texto de relleno.»** Los límites metodológicos son **medibles y no impresionistas**: en una revisión crítica de **80 estudios** de interacción persona-ordenador sobre pensamiento crítico con IA, **42 (el 52%) no tenía grupo de control**. Un recuento preciso es lo que hace la limitación accionable.
 - **«La heterogeneidad es una cifra única que se puede citar.»** La misma revisión muestra un riesgo de notificación: la heterogeneidad se cita como **I² = 82,98% con un modelo de efectos fijos e I² = 15,75% con el modelo de efectos aleatorios**. Los mismos datos dan un relato de nueve puntos o uno de dos según el modelo elegido, así que un I² citado sin su modelo es ininterpretable.
 - **«Un efecto grande informado es la cifra en la que confiar.»** Un titular como el efecto de **30 estudiantes en un curso de una sola sede** es la forma común de una afirmación frágil, y el recuento de estudios sin controles muestra con qué frecuencia esa fragilidad queda sin declarar.
-
-## Conceptos conectados
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — El desarrollo de la teoría en la IA en la educación
-
-## Artículos conectados
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA en la educación superior: comparar las expectativas con la evidencia (Thoeni y Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Fiabilidad y validez de la verdad de referencia en la evaluación
-- [[ai-literacy-assessment-misalignment]] — Alfabetización en IA autoinformada frente a basada en el desempeño
-- [[machines-misread-pedagogical-quality]] — Por qué las máquinas malinterpretan la calidad pedagógica
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Límites críticos de los tutores de IA y del uso de la teoría
-- [[cross-dataset-bloom-question-classification]] — La taxonomía de Bloom y la clasificación de preguntas
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizar la evaluación de quienes aprenden: predicción de familiaridad basada en EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT en la educación: un efecto en busca de una causa (crítica de la comparación de medios)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Metametaanálisis: los efectos de la IA ajustados por sesgo de publicación son ~1/3 del tamaño informado
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presuntamente eficaz: auditoría forense de 14 metaanálisis de AIEd
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: un marco empírico de notificación para revisiones sistemáticas asistidas por IA
-- [[frontier-models-physics-benchmark-audit-2026]] — ¿Qué tan buenos son los modelos de frontera en física? La recalificación experta revela evaluaciones rotas y una saturación casi total de los principales puntos de referencia
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Los criterios de inclusión usados como umbral de rigor, y una cifra de heterogeneidad que cambia con el modelo (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Un ensayo de aula aleatorizado por conglomerados cuyo resultado de desempeño no alcanzó significación (Rücker y Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluar el enfoque de la retroalimentación y la adaptatividad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para la codificación auditable de diálogos educativos
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a la retroalimentación accionable y responsable: revisión de alcance y mapa de evidencia del NLP en la evaluación docente por parte del estudiantado, 2015-2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Revisión de alcance de 195 estudios de formación docente donde el diseño de la cadena de búsqueda da forma a las frecuencias informadas
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a docentes de K-12: ítems traducidos automáticamente, medidas de preocupación de un solo ítem, sin pruebas de invariancia
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisión sistemática de 103 estudios de IA generativa en educación superior: 56% de ganancias condicionales, con las notas enmascarando el cambio de proceso (Hawi y Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — El aumento de datos puede fabricar la métrica estrella
-- [[tischkau-ai-simulated-patient-formats-2026]] — La viabilidad como clase de resultado propia: 26% de reclutamiento, 100% de finalización, resultados definidos después de la recogida

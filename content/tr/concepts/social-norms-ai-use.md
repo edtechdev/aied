@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -108,37 +110,3 @@ Bu ikamenin bedeli, öğretim kadrosu ile öğrencilerin gerçekten konuştuğu 
 **“Gözetim, kullanımı görünür kılarak normu çözer.”** Davranışı görünür kılmak normun ne olması gerektiğini çözmez; insanların neyi açıklamaya istekli olduğunu değiştirir. Ölçülen örüntü zaten seçici ifşadır; bu nedenle üzerine uygulanan bir izleme rejimi davranışı değil gizlemeyi ölçer.
 
 **“Normlar gayri resmidir, dolayısıyla kurumsal erişimin dışındadır.”** Yerel olarak uygulanır ve yerel olarak değiştirilebilirler; bu da onları politikadan daha işlenebilir kılar: bir ders ekibinin açık pratiği, tam olarak işleyen kuralın belirlendiği yer olduğu için bir kaldıraçtır.
-
-## Bağlı kavramlar
-
-- [[academic-integrity]] — the formal rulebook these norms grow alongside
-- [[ai-use-disclosure]] — the practice norms regulate most directly
-- [[framing-ai-use-for-students]] — how a classroom states its expectations
-- [[reducing-ai-misuse]] — the instructional counterpart to norm-setting
-- [[learner-identity]] — who a learner is taken to be when AI use becomes visible
-- [[ai-detection]] — the technical response that mostly fails
-- [[remote-proctoring]] — surveillance as an attempted substitute for norms
-- [[trust]] — what norms and disclosure both depend on
-- [[equity-in-ai-education]] — who absorbs the social cost
-- [[help-seeking]] — the behavior shame suppresses first
-- [[group-work]] — where group norms are negotiated
-- [[student-experience]] — the lived side of all of this
-- [[anxiety-and-stress]] — the affective residue
-- [[governance]] — the formal layer these norms sit under
-- [[ethics]] — the literature that has least to say to students
-
-## Bağlı makaleler
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 lisans öğrencisi: algılanan akran ifşası ve öğretim elemanı rahatlığı, ifşayı ahlaki kopuşun önünde öngördü (Qu & Wang 2026)

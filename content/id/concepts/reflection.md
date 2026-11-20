@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -164,45 +166,3 @@ Sebuah prompt pemula yang bertahan terhadap sebagian besar mode kegagalan di ata
 - **"[[automated-assessment|Penilaian otomatis]] menyelesaikan masalah skala."** Pengklasifikasi mencapai sekitar 70% pada tingkat refleksi dalam korpus beranotasi baik dengan ketidakseimbangan kelas yang parah, dan batas atas itu berada dalam jangkauan teks yang masuk akal.
 - **"Portofolio secara alami bersifat reflektif."** Wadah bukan tindakannya; portofolio yang disusun dari produk rapi dapat tidak memuat refleksi sama sekali.
 - **"Refleksi tidak perlu diajarkan."** Baik korpus esai Hungaria maupun eksperimen guru prajabatan mengandaikan bahwa tingkat dan kualitas dipelajari, dan bahwa persiapan mengubah hasil.
-
-## Konsep terkait
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Artikel terkait
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Eksperimen praterdaftar 302 orang dewasa: prompt refleksi menggandakan waktu pada umpan balik dan memotong volume latihan 40% tanpa menaikkan keuntungan per soal (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Model refleksi lima bagian yang sadar GenAI, dibangun di atas prompt dan iterasi yang terdokumentasi alih-alih teks akhir (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 esai beranotasi, ketidakseimbangan kelas parah, model dangkal pada 71% dan transformer pada 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 giliran dikodekan untuk menjelaskan mengapa mitra refleksi AI membuat pengguna kurang berkomitmen (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Refleksi diri, kolaboratif, dan komunitas dengan AI sebagai mediator kognitif (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 guru K–12: waktu adalah hambatan pemula, pelacakan kinerja adalah hambatan ahli (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Empat praktik GenAI dan sebelas proses, masing-masing dapat mendukung atau menggantikan pemikiran reflektif (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Eksperimen lapangan acak 2×2 tentang mempertahankan rutinitas penulisan jurnal reflektif (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Uji 2×2 pelatihan strategi terhadap mitra refleksi LLM Sokratik (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Alat refleksi diri non-diagnostik tanpa skor komposit (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Penggunaan AI secara reflektif sebagai konstruk terukur yang menghubungkan penerimaan dengan efikasi diri dan keterlibatan (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Refleksi terstruktur sebagai masukan hidup yang mengalibrasi ulang siklus umpan balik berikutnya (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Refleksi terpandu di dalam penilaian diri untuk penggunaan GenAI yang etis (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 guru tentang mengenali, meredistribusi, dan terlibat kembali secara reflektif setelah penggunaan AI (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Makalah posisi: tidak ada bukti bahwa prompt refleksi membangun pemantauan diri yang tahan lama (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — E-portofolio WordPress 16 minggu dengan GenAI sebagai penyedia umpan balik dan penyintesis (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT yang selaras dengan penilaian e-portofolio, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Satu perancah menaikkan kedalaman analitis dan evaluatif sementara perencanaan tindakan tetap datar (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — Pemetaan 26 studi: refleksi adalah fase paling sedikit terlayani dalam siklus pembelajaran layanan (Yusuf et al. 2026)

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -49,7 +50,3 @@ En yeni istek metinleri ana sayfada listelenir ve öğretmenler kendi istek meti
 Yeniden adlandırma tamamlanmış değil, sürmekte olan bir geçiştir. Google, Eylül 2026'da Skills'in Gems'in yerini alacağını duyurdu ve Gems desteği aşamalı olarak sona eriyor: kişisel hesaplar Kasım 2026'da, Workspace işletme, kurumsal ve kâr amacı gütmeyen müşteriler Mart 2027'de, Workspace eğitim müşterileri Haziran 2027'de. Google, var olan Gems'lerin otomatik olarak Skills'e taşındığını söylüyor ve Skills şu anda Gemini'nin istek çubuğuna `/` ve adı yazılarak çalıştırılıyor. Bu sitedeki bağlantılar hâlâ `/gem/` yollarına işaret ediyor, bu yüzden bir yer imi dönüşüm ilerledikçe yönlendirilebilir ya da kırılabilir — bir istek metnini bir kursa koymadan önce açıldığını doğrulayın.
 
 Herhangi bir benimseme kararına iki erişim olgusu girmelidir. Skills, Google AI abonelik katmanlarının tamamında kullanılabilir, ancak kullanıma sunum şimdilik 18 yaş ve üzeri için; 18 yaş altı erişim “yakında” olarak tanımlanıyor. Ayrıca bir istek metnini kopyalamak bir Google hesabı ve Gemini gerektirir, yani bu öğrenciler için anonim bir araç değildir. Kütüphane, doğrulanmış bir öğretim değil, küratörlü bir istek metni kümesidir: her giriş, çıktısı yine de denetlenmesi gereken bir başlangıç noktasıdır ve koleksiyonun nitelik iddiaları küratörün kendisine aittir. Açık bir lisans belirtilmemiştir, bu nedenle istek metinleri Gemini içinde kopyalanıp uyarlanabilir, ancak kütüphane bir kurumun çatallayıp kendi sunucusunda barındırabileceği bir şey değildir.
-
-## Bağlı kavramlar
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

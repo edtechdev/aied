@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -91,28 +93,3 @@ AI מכניס **כלים/ארטיפקטים מתווכים** חדשים למער
 **"אם תשנו את אמונות המורה, הפרקטיקה תבוא בעקבותיהן."** יחידת-השינוי גדולה מן האדם. התערבויות שמשנות נורמות, חלוקת-עומס וכללים משותפים משנות פרקטיקה באופן מהימן יותר מאלה המכוונות לשכנוע אישי, משום שאובייקט-הפעילות מופק באופן קולקטיבי. זה גם מסביר מדוע מאמצים נלהבים ברמה האישית חוזרים לאחור כאשר המחלקה שלהם אינה נעה איתם.
 
 **"תאוריית הפעילות היא עדשה תיאורית בלי השלכות עיצוב."** היא מכוונת עיצוב אל הסתירות בין מרכיבי המערכת — הכלי שמתנגש בכללים, חלוקת-העבודה שמתנגשת באובייקט — וזה המקום שבו השינוי באמת ממונף. עדשה שמאתרת סתירות נותנת לכם מקום להתערב, ולא רק אוצר-מילים.
-
-## מושגים מקושרים
-
-- [[sociocultural-learning]] — המשפחה התאורטית שתאוריית הפעילות שייכת אליה (ויגוצקיאנית, תרבותית-היסטורית)
-- [[learning-theories]] — המרכז שממקם את תאוריית הפעילות בין תאוריות הלמידה
-- [[distributed-cognition]] — הדגשה משותפת על קוגניציה מתווכת-כלים ומופצת-הקשר
-- [[situated-learning]] — הדגשה משותפת על הקשר והשתתפות בפעילות
-- [[agency]] — כיצד AI מחלק מחדש סוכנות אנושית על פני מערכת הפעילות
-- [[teacher-role]] — תאוריית הפעילות מנתחת לעיתים קרובות אימוץ ופרקטיקה של מורים
-- [[learning-analytics]] — CHAT מעגן את עיצוב האנליטיקה
-- [[generative-ai]] — ארטיפקט ה-AI שנכנס ומפריע למערכות הפעילות החינוכיות
-- [[technology-acceptance-model]] — חשבון האימוץ המנוגד המבוסס-אמונות אינדיבידואליות
-
-## מאמרים מקושרים
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — הבדלים תחומיים בשימוש ובגילוי GenAI דרך עדשת תאוריית הפעילות
-- [[genai-runaway-object-math-higher-ed]] — ניתוח CHAT של GenAI המעבד מחדש מערכות פעילות הוראה ומחקר
-- [[raffaghelli-situated-ai-ethics-2026]] — אתיקה מצובתת-AI הממזגת תאוריית מערכות אקולוגיות עם CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — תאוריית הפעילות כעדשה על אימוץ ה-AI על ידי מורים (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — פרספקטיבות מורי גן-עד-תיכון על שימוש ב-AI דרך תאוריית הפעילות
-- [[ai-disruption-engineering-education-chat-2026]] — שינוי נורמות סטודנטים בחינוך הנדסה דרך CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — עיצוב מחדש CHAT-SDT של פיתוח מקצועי של מורים
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — צנרת אנליטיקת למידה מעוגנת-CHAT לאוריינות AI
-- [[llm-family-education-activity-theory-2026]] — סקירת היקף של 53 מחקרי HCI: מודלי שפה גדולים חילקו מחדש את עבודת החינוך במשפחה, בעוד הכללים היו ברובם צפויים מראש ולא מחוקקים
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI כסוכן מתווך: לא כלי ולא שותף

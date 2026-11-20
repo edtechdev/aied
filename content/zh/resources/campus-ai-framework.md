@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,10 +44,3 @@ Campus AI Framework 是由 Joe Sabado 发布的、以高等教育为原生场景
 ## 说明与注意事项
 
 该框架与站点采用 **CC BY-NC-SA 4.0** 许可，因此只要署名并采用相同方式共享，就允许出于非商业目的进行改编；站点本身提供了建议的署名方式。它与 OECD、NIST、ISO/IEC 42001、欧盟人工智能法案（EU AI Act）、FERPA 和 HIPAA 的对齐关系属于发布方自己的比对，应当按此来阅读。各配套站点是彼此独立的项目，其中多个出自同一位作者，值得作为一个整体来了解：[Campus AI Exchange](https://www.campusaiexchange.com/) 是枢纽，收录了机构人工智能政策与课堂指引的[交互式地图](https://www.campusaiexchange.com/ai-policies-guidelines-map)、[人工智能治理自评](https://www.campusaiexchange.com/ai-governance-assessment)、数据治理与人工智能立场地图，以及一个资源库。围绕它的还有 [campusaigovernance.com](https://campusaigovernance.com/)（九个人工智能治理领域）、[campusairisks.com](https://campusairisks.com/)（将 NIST 人工智能风险管理框架应用于这些领域）、[campusaioperations.com](https://campusaioperations.com/)、[campusairegistry.com](https://campusairegistry.com/)、单位层面的[人工智能采用计划模板](https://unit-ai-adoption-plan.netlify.app/)，以及一份面向高管的[智能体人工智能（agentic AI）简报](https://campusaiframework.com/sites)。战略罗盘也以共享的 Google 文档形式流通，打开它需要一个 Google 账户。进入站点时会出现一个关于角色和机构的简短可选注册问题；电子邮件为选填，不填也能完整浏览整个站点。
-
-## 关联概念
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

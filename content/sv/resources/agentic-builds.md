@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -42,7 +43,3 @@ Lärare och [[learning-design|instruktionsdesigners]] som vill ha ett genomarbet
 ## Anteckningar och förbehåll
 
 Byggena beskrivs som öppet delade, men ingen licens anges på byggena eller gallerisidorna, så återanvändning kräver författarens tillstånd i stället för ett antaget medgivande. Källkoden är dock offentlig – kontots repon innehåller HTML och JavaScript bakom byggena, plus en handledning för att arbeta med kodningsagenter i utbildning, så en läsare kan granska en app i stället för att bara köra den. Flera länkar pekar på Netlify-adresser för driftsättningsförhandsgranskning i stället för på en projektsajt; de är byggda för granskning och kan gå ut, medan byggena på GitHub Pages är de stabila. En del byggen är beroende av TypeSafe AI:s Jev-modell och visar dess sannolikheter, så beteendet i grunden är en modells bedömning snarare än en fast regel. Spåret för önskvärda svårigheter är ett argument – friktion som en funktion – och sidan lägger fram det utan att rapportera någon utvärdering av huruvida studenterna lär sig mer.
-
-## Anslutna begrepp
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

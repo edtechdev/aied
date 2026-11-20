@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -49,7 +51,6 @@ updated: "2026-11-08T10:26:27-05:00"
 بحثت **[[assistive-tech-neurodivergent-higher-ed-review-2026|مراجعة نطاقية موجَّهة بـPRISMA-ScR (Rempel et al., 2026)]]** في خمس قواعد بيانات وعشرَ سنواتٍ من النشر (2015–2025)، مُصفّيةً 766 سجلًا إلى 40 دراسةً تجريبيةً على تقنيات مساعدة رقمية لطلاب ذوي تنوّع عصبي في [[higher-ed|التعليم العالي]]. أعاد الميدان تنظيم نفسه حول [[generative-ai|الذكاء الاصطناعي التوليدي]] — 15 من الـ40 دراسة — مع الصيغ الغامرة ثانيةً بـ11. نقدها المركزي نقدٌ تصميمي: فالتكيّف الفردي والأدوات الخاصة بالنمط العصبي المُنظَّمة حول التشخيص الرسمي لا تستطيع معالجةَ فروق وظيفية تَعْبُر بين الأنماط العصبية، لذا توصّي بالتصميم الشامل والتطوّير المُشارِك بدلًا منهما. وتُلاحظ أيضًا أن أكثر الأدوات غَمَرًا هي الأقلّ قابليةً للتوسّع.
 
 - **الصفوف الابتدائية تُظهر التركّز نفسه.** وجدت مراجعة نطاقية لتقنيات التعليم في الصفوف الابتدائية الشاملة عصبيًا (فُحص 3,340 سجلًا، 93 دراسة) أن الأدلة تتركّز على المتعلّمين التوحديين وعلى الدعم الأكاديمي والإدراكي الفردي، مع إهمال نواتج التفاعل الاجتماعي والتواصلي وبين الأقران، ومع تحقّق من القيمة التعليمية يجريه الباحثون في الأغلب لا مستخدمو الصف ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson وTervola وGoodacre (2026)]]).
-
 
 تغطّي **[[dabaghi-ai-dyslexia-education-review-2026|المراجعة بينية التخصصات للذكاء الاصطناعي في عُسر القراءة (Dabaghi, D'Urso and Sciarrone, 2026)]]** السنوات 2018–2024 عبر 72 دراسةً وتجد الذكاء الاصطناعي مستخدمًا في الكشف والدعم المساعد و[[personalized-learning|التخصيص]]، مع تطوّر هذه الخيوط بالتوازي لا بالتكامل، وكون الميدان مدفوعًا بالفرصة التقنية أكثر من كون مدفوعًا بنظرية تربوية مُوحَّدة. يُظهر بحثها في الكشف ([[sensor-and-gaze-analytics|تخطيط الدماغ الكهربائي]]، وتتبّع العين، ونماذج [[machine-learning]]) وعدًا تشخيصيًّا للتدخّل المبكّر لكنه يحتاج غالبًا إلى عتاد مُتخصِّص وظروف مضبوطة، وهو ما يحدّ من الاستخدام في الصفوف العادية. وهذا هو الاختبار العملي الذي يُخفِق فيه هذا الخيط كله باستمرار: على الدعم أن يكون مُدمَجًا في المقرر الذي يدرسه الطالب فعلًا.
 
@@ -93,32 +94,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«بحث التنوّع العصبي زاوية متخصصة في [[ai-education|الذكاء الاصطناعي في التعليم]].»** أعاد المجال تنظيم نفسه حول **[[generative-ai|الذكاء الاصطناعي التوليدي]] — 15 من 40 دراسة** — والأنماط الغامرة ثانيةً بـ11. فقد تحرّك الأدب مع التقنية بدل أن يتراكم حول أسئلة مستقرة.
 - **«مزيد من الذكاء الاصطناعي لعُسر القراءة يعني دعمًا أفضل.»** تُغطّي [[dabaghi-ai-dyslexia-education-review-2026|المراجعة البينية للذكاء الاصطناعي في عُسر القراءة (دباغي، دورسو وسياروني، 2026)]] **72 دراسة بين 2018 و2024** وتجد الذكاء الاصطناعي مستخدمًا عبر نطاق واسع من الأغراض. فاتّساع التطبيق ليس دليلًا على فعاليته في أي غرضٍ منها.
 - **«التكيّفات هي الإطار الصحيح للمتعلّمين ذوي التنوّع العصبي.»** وجدت [[neurodivergent-computing-students|مسحٌ لـ24 طالب حوسبة ذي تنوّع عصبي و20 قرينًا من غير ذوي التنوّع]] مع أربع مقابلات معمّقة احتياجاتٍ هي **متطلبات تصميم عامة** — تكليفات مهيكلة، وفرق صغيرة ثابتة، وأدوار صريحة — لا تعديلات فردية تُمنح بعد التشخيص.
-
-## مفاهيم مرتبطة
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## مقالات مرتبطة
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — العمليات المدفوعة بالكاشفات قد تُثني عن الاستخدام المشروع للتكيّفات
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — الذكاء الاصطناعي التوليدي والواقع الافتراضي وأبعد من ذلكما: مراجعة نطاقية للتقنيات المساعدة الرقمية لطلاب ذوي تنوّع عصبي في التعليم العالي
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 دراسةً على الذكاء الاصطناعي لطلاب ذوي إعاقة، وأثر يتفاوت بالفئة
-- [[adhd-video-segmentation-computing-education]] — تقسيم الفيديو الزماني الذي جلب المشاركين المصابين باضطراب نقص الانتباه مع فرط الحركة إلى التكافؤ
-- [[neurodivergent-computing-students]] — 24 طالب حوسبة ذوي تنوّع عصبي حول البنية والغموض والتعاون
-- [[genai-reliance-executive-functioning-2026]] — صعوبات الوظيفة التنفيذية والفائدة المُدرَكة والطريق إلى الاعتماد على الذكاء الاصطناعي
-- [[seung-basham-cognitive-offloading-swld-2026]] — الإزاحة المعرفية بالذكاء الاصطناعي التوليدي لطلاب صعوبات التعلّم
-- [[dabaghi-ai-dyslexia-education-review-2026]] — الذكاء الاصطناعي لمساعدة المصابين بعُسر القراءة في التعليم
-- [[genai-minoritized-knowledges-disability]] — الذكاء الاصطناعي التوليدي وتهميش المعارف المُهمَّشة
-- [[tactile-statistical-graphs-accessibility]] — الرسوم البيانية الإحصائية الملموسة لإمكانية الوصول
-- [[ai-learning-tools-engineering-education-needs]] — تصميم أدوات تعلّم بالذكاء الاصطناعي واعية بالاحتياجات والانتباه
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — إعادة تأطير القيمة التعليمية في تقنيات التعليم للصفوف الابتدائية الشاملة عصبيًا: مراجعة نطاقية

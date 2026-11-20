@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -90,35 +92,3 @@ ai_assist:
 
 - بتائیں کہ آپ کی جانچ کون سا تصورِ سیکھنا فرض کرتی ہے، کیونکہ پیمودہ فائدہ صرف تعلیم کے مقصد کے کسی بیان کے حوالے سے تعلیمی بھلائی ہے۔
 - فلسفیانہ کام کو تجرباتی کام کے ساتھ مالی اعانت دیں: یہ سوالات کہ سیکھنے والے کی کامیابی کسے کہا جائے، وہ کامیابی کے معیار طے کرتے ہیں جو تجرباتی مطالعات پھر استعمال کرتے ہیں۔
-
-## منسلک تصورات
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — کیمسٹری کی تعلیم اور AI: لیب، تشکیلاتی جانچ، LLM کی حدود، تجربے کا فلسفہ
-
-## منسلک مضامین
-- [[genai-chinese-higher-education-integrity-2026]] — چینی اعلیٰ تعلیم میں Gen-AI: دیانت اور شمولیت
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: انسانی اور AI علمیں کے لیے فلسفیانہ فریم ورک
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — تدریسی ہم زیستی اور مابعد انسانی سیکھنے والا
-- [[videla-embodied-ai-education-choreography]] — تعلیم میں غیر جسمانی AI پر جسمانی، مابعد ادراکی تنقید
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — انسانیتی علوم میں تفسیری علمیں کا نشوونما اور تنقید والا ماڈل
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — مشینوں کے ساتھ سیکھنے کے فلسفے کے طور پر علمیاتی مشترکہ ایجنسی
-- [[avraamidou-ai-colonization-science-education]] — تعلیم پر AI کے استعمار پر سوال اٹھانے والا تنقیدی اور نسوانی فلسفہ
-- [[generative-ai-mediational-agent-sociocultural-2026]] — جنریٹو AI بطور وساطتی ایجنٹ
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI کا ماحولیاتی سیکھنے کی سائنسوں کے انداز میں بیان
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI کے ساتھ کیمسٹری میں تجربے کا فلسفہ
-- [[strydom-human-gai-paradigms-2026]] — انسانی اور AI حرکیات کی تشکیل: GAI سے جڑنے کے سات نمونے (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — متبادل AI فلسفہ: تعلیم میں AI کے لیے طریقے کے طور پر داؤازم
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — کون کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیم کی تحقیق میں ایجنسی، علمیاتی ذمہ داری اور جواب دہی کا کارپس کی معاونت والا گفتگو تجزیہ
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'انسان مرکز' AIED کو تجارتی استعمال والی انسان مرکزی گفتگو کے طور پر پڑھنا (Wang اور Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — کیا مشینیں جذباتی محنت کر سکتی ہیں؟ 1950–1996 کی بحث، اور نقل کیوں نگہداشت کو متعین نہیں کرتی

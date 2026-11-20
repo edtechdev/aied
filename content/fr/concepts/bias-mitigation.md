@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -104,7 +106,6 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - **Rendre les systèmes explicables :** la transparence sur les décisions de l'IA est essentielle pour détecter et corriger les biais.
 - **Combiner réduction technique et humaine :** associer les algorithmes de débiaisement à une supervision avec intervention humaine, en particulier pour les cas à enjeux élevés ou peu confiants.
 
-
 L'atténuation des biais concerne le biais à l'intérieur du système. Le [[automation-bias|biais d'automatisation]] concerne le biais chez la personne qui lit la production du système — accepter une recommandation qu'un être humain aurait remise en question s'il y était parvenu seul — et il survit même lorsque le modèle est exact.
 
 ## Idées fausses courantes
@@ -112,51 +113,3 @@ L'atténuation des biais concerne le biais à l'intérieur du système. Le [[aut
 - **« Le biais est un problème de notation et de rétroaction. »** Le biais entre dans des **classes de tâches extérieures à la notation** : trois LLM répartissant des **classes d'ingénierie logicielle de 28 étudiants en quatre équipes ont orienté les hommes au moins 80 % moins souvent** que la distribution de référence. La constitution d'équipes portait un biais d'une ampleur comparable à celle de la notation.
 - **« Fournir la compétence pertinente supprime le biais. »** Fournir les compétences **réduisait le biais sans le supprimer** : **99,2 % des affectations fondées sur les compétences correspondaient à l'une des deux équipes de vérité de terrain, mais le genre décidait encore entre des options également valables (OR 2.53)**. Une correspondance quasi parfaite sur la tâche coexistait avec un effet de genre, si bien que l'exactitude sur le critère principal n'est pas une preuve d'équité.
 - **« Une seule approche de réduction suffit. »** La recherche illustre des **stratégies complémentaires** — dont la modélisation soucieuse d'équité — parce que le biais qui entre au moment de la formation n'est pas traité par un correctif visant le texte de sortie.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — l'échec du côté du lecteur : accepter une recommandation sans la vérifier
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Articles liés
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alignement pédagogique neuro-symbolique (NSPA)
-- [[ai-scoring-language-bias-physics]] — Biais linguistique dans la notation fondée sur l'IA
-- [[gender-bias-transfer-llm-writing]] — Transfert du biais de genre dans l'écriture assistée par LLM
-- [[paternalistic-filter-llm-history-education]] — Le filtre paternaliste et les refus différenciés
-- [[fair-explainable-edu-recommendations]] — Recommandations éducatives équitables et explicables
-- [[temporal-smoothness-debiased-kt]] — Traçage des connaissances débiaisé
-- [[ground-truth-reliability-aied]] — Moderniser la vérité de terrain pour la fiabilité de l'IA
-- [[data-annotations-pedagogical-hints]] — Les annotations de données comme indices pédagogiques
-- [[xai-education-framework]] — IA explicable en éducation
-- [[antiskillbench-persona-skills-privacy-2026]] — Vie privée et audit des biais liés aux personas et aux compétences
-- [[genai-minoritized-knowledges-disability]] — L'IA générative et la marginalisation des savoirs minoritaires
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais conformes aux stéréotypes dans la rétroaction automatisée sur l'écriture
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — L'IA peut-elle apporter un soutien approprié à des profils d'étudiants divers ? Une évaluation à grande échelle
-- [[bias-representation-text-to-image-education-2026]] — Biais et représentation dans les images générées par IA en éducation : revue systématique (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la classification des sentiments à une rétroaction exploitable et responsable : revue de cadrage et carte des données probantes sur le TAL dans l'évaluation de l'enseignement par les étudiants, 2015–2026
-- [[genai-social-bias-software-engineering-education-2026]] — L'IA générative peut renforcer les biais sociaux dans l'enseignement du génie logiciel
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - sous déséquilibre de classes, trois familles de modèles ne parvenaient pas à identifier les élèves faibles alors que les métriques équilibrées semblaient saines

@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 **mglearn** is a collection of classroom-ready learning activities and tools created by Miguel Guhlin in his work as Director of Professional Development at TCEA, the Texas Computer Education Association. Each suite opens as its own self-contained site: interactive activities, teacher views, printables, and in several cases Spanish or additional language versions.
@@ -41,8 +42,3 @@ It is aimed at K–12 teachers and the professional developers who train them, w
 ## Notes and caveats
 
 Content is licensed CC BY-NC 4.0 and the underlying code MIT: classroom use, local hosting, and adaptation are permitted with credit, while selling the materials or bundling them into paid training requires written permission from TCEA. Works by other people are excluded from the license, and literature activities reproduce no text from copyrighted works. The project states that content and translations were produced with generative AI under editorial review, and that translations are machine-assisted and flagged for local educator review before classroom use, which is worth taking seriously before a district adopts them at scale. Every activity runs in the student's browser with no logins and no data collection.
-
-## Connected Concepts
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
-

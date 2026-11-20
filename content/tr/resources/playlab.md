@@ -25,6 +25,7 @@ translation_of: resources/playlab
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -42,8 +43,3 @@ Altyapı kurmadan sınıf kontrolleri ve müfredata dayalılık isteyen K-12 ö�
 ## Notlar
 
 Geliştiriciye erişim kısıtlıdır: başlangıç sayfası bir e-posta adresi ve bir oryantasyon atölyesinde bir yer ya da bir davet kodu ister. Uyumluluk iddiaları (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), çalışmanızın asla dışarıdaki modelleri eğitmeyeceği vaadi ve çıktı haklarının üreticiye atanması, yalnızca pazarlama sayfasında değil veri işleme anlaşmasında yer almalıdır; MagicSchool ve başlıca sohbet robotlarına karşı kapasite karşılaştırması Playlab’a aittir ve 2026 ortasına tarihlidir. Scratch ve MIT Media Lab ile bağlantılı son kullanıcı programlama çalışmalarından doğdu.
-
-## Bağlı kavramlar
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

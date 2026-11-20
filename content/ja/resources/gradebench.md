@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -43,9 +44,3 @@ GradeBenchは[[automated-assessment|自動評価]]について、範囲は狭い
 ## 留意点と限界
 
 GradeBenchは商用AI採点プラットフォームであるPensiveが公開しており、ベンチマークと製品は所有者を同じくする。タスクの構築方法は文書化され、妥当性も擁護できるが、問題設定の枠組みはベンダー側のものとして扱うべきである。対象は4項目以上のルーブリックを伴うSTEMの試験であり、エッセイ、短答、ディスカッション投稿——[[humanities-education|人文学]]の採点の大半が行われる形式——は除外される。ルーブリック完全一致は厳格な指標である。二人の採点者が同じ項目で判断を異にしても、その学生について両者が正しいということがあり得る。スコアは2026年11月に利用可能なモデル版を示すものであり、今後変動する。
-
-## 関連する概念
-
-- [[automated-assessment]] — このベンチマークが測定する実践
-- [[assessment-validity]] — リーダーボードのスコアが代理指標としている基準
-- [[benchmark]] — これが属する、より広い測定ツールのクラス

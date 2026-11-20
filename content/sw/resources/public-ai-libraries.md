@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,13 +47,3 @@ Maktaba za umma zinazotaka kuandaa kioski (mpango unapokea maombi kwa maeneo ya 
 - Maktaba zinazoshiriki huchangia **\$1,000 kwa kila uwekaji wa kioski kwa mwaka**; majaribio yenyewe yanaishia kwenye maeneo yaliyoomba.
 - Tamko la faragha ni dai la mpango, si matokeo yaliyokaguliwa; maktaba inapaswa kuthibitisha masharti ya uhifadhi na usalama wa watoto katika makubaliano yake ya usindikaji wa data.
 - Awamu ya pili na ya tatu za mpango, zinazoruhusu maktaba kuingiza kumbukumbu za ndani na kusimamia mifumo inayotokana nayo, zimepangwa badala ya kuwasilishwa.
-
-## Dhana zinazohusiana
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

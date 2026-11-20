@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -69,7 +71,6 @@ Három előre regisztrált kísérlet adaptálta a Cognitive Reflection Testet, 
 
 A gyakorlati olvasat az, hogy a megadás **megkülönböztetési kudarc**, nem motivációs kudarc. A megadó résztvevők nem a munkát akarták elkerülni; nem tudták megkülönböztetni a jó tanácsot a rossztól, és az interfész nem adott okot arra, hogy megpróbálják.
 
-
 A [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] által végzett előre regisztrált kísérlet ellentétes elrendezést mutat. Amikor az asszisztenst [[rag|retrieval-augmentációval]] a kijelölt munkalaphoz kötötték, az MI-feltétel csökkentette a kognitív leterhelést (medián −0,27) ahelyett, hogy növelte volna, és semmilyen leterhelési útvonal nem hordozta a dezorganizáció növekedését (0,84). A megadáshoz olyan asszisztens kell, amelynek tanácsa egészében átvehető; egy rendszer, amely csak a jelenlegi anyagból válaszol, kevesebbet kínál átvehetőként és többet összeegyeztetnivalóként a tanulónak.
 
 ## Megadás a laboron kívül
@@ -113,38 +114,3 @@ A megadás mint nevesített konstruktum bizonyítéka nagyrészt egyetlen labora
 **„A megoldás a jobb MI, hiszen a megadás a hibákból következik.”** A megadás az interakció *szerkezetéből* következik: egy rendszer, amely elsőként hihető választ állít elő, megszünteti az alkalmat arra, hogy a tanuló sajátot generáljon. A pontosság javítása csökkenti a hibás válaszokból származó kárt, és semmit nem tesz az ítéletalkotás feladásával, ami az a kár, amely az eszköz eltűnése után is megmarad.
 
 **„A kritikai értékelés tanítása elegendő.”** Szükséges, és túl későn érkezik. Amint egy hihető válasz a képernyőn van, az értékelés megerősítéssé válik, ezért teszi a tervezési irodalom a diák kísérletét a rendszer kimenete elé, ahelyett hogy utólag auditálná azt.
-
-## Kapcsolódó fogalmak
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Kapcsolódó cikkek
-
-- [[shaw-nave-cognitive-surrender-2026]] — A Tri-System Theory és a megadás kísérleti jelzése
-- [[generative-ai-reduced-study-time-math]] — népességszintű eltolódás az ALEKS-ben
-- [[young-people-learning-generative-ai-rapid-review-2026]] — a megadás/leterhelés/önállóság keretrendszer a PreK-12-ben
-- [[du-yuan-epistemic-dependence-2026]] — instrumentális versus ítélethordozó segítség
-- [[ai-advice-suppresses-ikt-suspension-2026]] — a „nem tudom” összeomlása
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurális elköteleződés és szerzőség
-- [[genai-thoughtless-use-self-directed-learning-2026]] — gondtalan használat és önirányított tanulás
-- [[stamatoulis-genai-use-patterns-2026]] — alacsony ellenőrzésű átvétel versus értékelő integráció
-- [[cognitive-washout-ai-skill-decay-2026]] — mi történik a visszavonás után
-- [[ai-overreliance-complex-adaptive-system-2026]] — a támaszkodás mint népességi folyamat
-- [[brcic-effortless-trap-productive-struggle-2026]] — az MI elhelyezése, hogy a feladat erőfeszítéses maradjon
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrációs tréning
-- [[family-school-autonomy-support-genai-2026]] — függő versus autonóm leterhelés
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — A munkalaphoz kötött asszisztens inkább csökkentette, mint növelte a leterhelést: a megadásjelzés határeset-e (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Természetes körülmények közötti teljes esszédelegálás: 77 esszéből 15 teljesen modellírta, 20 kérés teljes esszére (Jelson és mtsai. 2026)

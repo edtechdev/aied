@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -79,30 +81,3 @@ ai_assist:
 **Для дослідників**
 
 - Проєктуйте з ізоляцією складників, коли вивчаєте пакети «ШІ плюс портфоліо»; інакше галузь накопичує ефекти комбінацій, які не може розкласти.
-
-## Пов’язані поняття
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## Пов’язані статті
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Уявлення студентів про розвиток мультиграмотності з використанням оцінювання портфоліо з підтримкою ШІ (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT у поєднанні з оцінюванням за е-портфоліо для усного мовлення в EFL і грамотності зворотного зв’язку (Laksana та співавт. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Оцінювання на основі портфоліо та компетентностей в епоху ШІ
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Автентичне оцінювання, стійке до генеративного ШІ, зокрема портфоліо соціального внеску
-- [[beyond-detection-authentic-assessment-ai-2025]] — Анотовані портфоліо / усні захисти як оцінювання, стійке до ШІ
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Симбіотичне портфоліо для гібридних здобувачів
-- [[pbl-structural-conditions-ai-2026]] — Портфоліо як часткові відповіді на оцінювання в масштабі
-- [[learn-framework-responsible-genai-pbl-2026]] — Особисті навчальні портфоліо як оцінювані сліди навчання

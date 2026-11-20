@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -41,9 +42,3 @@ Cercetători care evaluează metode de detecție, administratori care redacteaz�
 ## Note și precauții
 
 Benchmark-ul măsoară detectarea textului generat de mașină, nu abaterile: un student care folosește AI pentru a planifica, a schița sau a revizui produce un text pe care detectoarele nu au fost construite să îl prindă, iar un student care [[language-learning|scrie într-o a doua limbă]] este un risc cunoscut de fals-pozitive pe care un clasament nu îl poate arăta. RAID este un artefact de cercetare întreținut de o echipă academică; acoperirea urmărește modelele generatoare din setul său de test, astfel încât modelele mai noi pot fi subreprezentate până când benchmark-ul este reîmprospătat. Clasamentul clasează detectoarele, nu practicile de gestionare a datelor ale furnizorilor lor, iar un AUROC mare nu spune nimic despre faptul dacă trimiterea lucrărilor studenților către acel serviciu este legală sau etică în jurisdicția dumneavoastră.
-
-## Concepte conexe
-
-- [[ai-detection]] — familia de metode pe care o evaluează benchmark-ul
-- [[academic-integrity]] — contextul de politică în care sunt folosite scorurile detectoarelor
-- [[benchmark]] — clasa mai largă de instrumente din care face parte

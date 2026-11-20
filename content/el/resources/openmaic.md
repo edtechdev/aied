@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -43,7 +44,3 @@ ai_assist:
 ## Σημειώσεις
 
 Με άδεια MIT, με οδηγό χρήσης στα αγγλικά και στα κινέζικα και ενεργή κοινότητα στο Discord και στο Feishu. Είναι ουδέτερο ως προς το μοντέλο: παρέχετε τουλάχιστον ένα κλειδί παρόχου LLM, και προαιρετικά τοπικά στοιχεία (Lemonade για τοπικά μοντέλα, FunASR για αναγνώριση ομιλίας) αφήνουν περισσότερο της στοίβας να τρέχει εκτός σύνδεσης — οπότε το «δωρεάν» περιγράφει το λογισμικό και όχι τον λογαριασμό συμπερασματολογίας. Η εργασία πίσω από αυτό εμφανίστηκε στο *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), και το αποθετήριο είχε πάνω από 38.000 αστέρια έως τον Σεπτέμβριο του 2026.
-
-## Συνδεδεμένες έννοιες
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -83,31 +85,3 @@ GBL dan gamifikasi bersama-sama bertaut ke [[educational-robotics]], [[student-e
 - Naikkan kualitas desain di bidang ini alih-alih volumenya; tingkat kualitas tinggi 7% adalah kendala yang mengikat bagi apa yang dapat disimpulkan.
 
 - **Umpan balik percakapan dalam simulasi menaikkan beban germane tanpa menurunkan beban ekstraneus.** Dalam gim simulasi bisnis lima minggu dengan **234 siswa**, pengguna rutin chatbot umpan balik berbasis GPT-4o melaporkan **beban kognitif germane yang secara signifikan lebih tinggi** daripada pengguna yang memiliki akses tetapi tidak terlibat (β = −.468, p < .001) dan daripada kontrol umpan balik statis (β = −.253, p = .028) — sementara **beban ekstraneus tidak menunjukkan efek** dalam kedua spesifikasi (F(1, 219) = 0.499, p = .481). Kedua beban **menurun sepanjang lima minggu** (ekstraneus β = −.388, p < .001), efek kebaruan yang diukur pada beban kognitif alih-alih keterlibatan ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger dan Liening, 2026]]). Poin desainnya adalah bahwa umpan balik itu membawa [[personalized-learning|personalisasi]], penyinyalan, segmentasi dan struktur feed-forward pada 19 indikator konkret — permukaan chatbot semata bukanlah perlakuan.
-
-## Konsep terkait
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[virtual-and-augmented-reality]] — praktik imersif dan tergamifikasi bertumpang tindih dalam desain dan bukti
-
-## Artikel terkait
-- [[karampa-students-game-designers-ai-literacy-2026]] — Siswa sekolah dasar merancang gim papan escape; literasi AI naik dalam satu lab e-course
-- [[ai-game-based-learning-systematic-review-2026]] — Tinjauan sistematis atas 55 studi pembelajaran berbasis gim berbantuan AI: hasil positif, basis bukti yang tipis
-
-- [[game-based-gamified-robotics-education-review-2026]] — Pendidikan Robotika Berbasis Gim dan Tergamifikasi
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bot dan Balok
-- [[white-wu-robotics-ai-education-2026]] — Robotika dan AI dalam Pendidikan
-- [[genai-motivation-engagement-2026]] — AI Generatif, Motivasi, dan Keterlibatan
-- [[nasa-tlx-workload-gamified-ai-2026]] — Beban kerja NASA-TLX di seluruh kondisi tergamifikasi/AI
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivasi ARCS dan gamifikasi berbantuan AI
-- [[xie-genai-mystery-game-legal-education-2026]] — Gim bermain peran misteri hasil karangan GenAI versus ceramah dalam pendidikan hukum (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Desain dan validasi awal lingkungan pembelajaran berbasis gim yang diperkaya AI untuk berpikir komputasional

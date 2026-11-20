@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,12 +44,3 @@ Docentes que trabajan lectura atenta, estudio de documentos o análisis de medio
 ## Notas y advertencias
 
 Las cuentas son gratuitas y los documentos pueden ser públicos o compartirse con un grupo invitado. Los socios de IA funcionan con modelos de lenguaje grandes de OpenAI, así que los pasajes y preguntas seleccionados salen del alojamiento propio de la plataforma y quedan sujetos a los términos de ese proveedor. Un distrito debería leer el acuerdo de tratamiento de datos antes de usarla con menores. La salida está limitada por un tope de tokens que el sitio dice que sigue ampliando, el directorio de socios está detrás de un inicio de sesión y las superficies de IA son una parte del producto que cambia rápido: trate cualquier capacidad descrita aquí como el estado del sitio en noviembre de 2026, no como un conjunto de funciones consolidado.
-
-## Conceptos conectados
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

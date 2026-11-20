@@ -33,6 +33,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -192,61 +194,3 @@ ai_assist:
 **«Поскольку ИИ универсален, находка, сделанная где угодно, применима везде.»** Универсальность технологии не создаёт универсальности доказательств. Направления по дисциплинам, уровням и контекстам существуют потому, что один и тот же инструмент ведёт себя в них по-разному, а неизменённая находка, перенесённая через границу, — это экстраполяция.
 
 **«О зрелости области можно судить по объёму публикаций.»** Объём и зрелость расходятся; направление методов исследования фиксирует повторяющиеся слабости дизайна, которые объём не исправляет, а рамки размножаются быстрее, чем проверяются.
-
-## Связанные концепции
-
-- [[primary-education]] — ИИ в начальном школьном образовании
-- [[secondary-education]] — ИИ в средней и старшей школе
-- [[undergraduate-education]] — ИИ в обучении на уровне бакалавриата
-- [[graduate-education]] — ИИ в магистратуре и докторантуре
-- [[pedagogical-patterns]] — Проверенные последовательности, операционализирующие педагогики области
-- [[ai-literacy]] — зонтик: понимание, использование и оценивание ИИ
-
-- [[automation-bias]] — провал на стороне читателя: принятие автоматизированного суждения без его проверки
-- [[human-ai-collaboration]] — зонтик: как люди и ИИ работают вместе
-- [[pedagogy]] — зонтик: методы и стратегии преподавания
-
-- [[case-based-learning]] — Метод кейсов, обсуждение кейсов и контрастирующие кейсы
-- [[metaphors-and-analogies]] — Как метафора формирует понимание ИИ и как аналогия поддерживает обучение
-- [[learning-theories]] — зонтик: как происходит обучение
-- [[ai-technologies]] — зонтик: модели, приёмы и системы
-- [[discipline-specific-aied]] — зонтик: ИИ в предметных областях и на уровнях
-- [[assessment]] — зонтик: как ИИ оценивает обучающихся и перестраивает валидность
-- [[feedback]] — зонтик: как обратная связь генерируется, доставляется и используется
-- [[stakeholders]] — зонтик: кто действует
-- [[learners]] — зонтик: концепции стороны обучающегося (опыт, идентичность, агентность, взаимодействие, модели обучающегося)
-- [[ai-ed-evaluation]] — зонтик: как мы знаем, работает ли ИИ
-- [[research-methods-aied]] — зонтик: методы исследования эффективности
-- [[ai-assisted-educational-research]] — ИИ-ассистируемое образовательное исследование
-- [[governance]] — зонтик: институциональный и регуляторный слой
-- [[educational-policy-ai]] — зонтик: политика, руководство и реализация
-- [[equity-in-ai-education]] — зонтик: справедливость, доступ и включённость
-- [[learning-sciences]] — эмпирическая область за AIED
-- [[ethics]] — этические измерения ИИ в образовании
-- [[misconceptions]] — ментальные модели, которые люди приносят к ИИ
-- [[interpreting-and-applying-aied-research]] — чтение исследования и перенос результата в практику
-- [[limitations-in-aied-research]] — сквозные границы базы свидетельств
-- [[meta-analysis-systematic-review]] — что устанавливают обзоры и метаанализы
-- [[history-of-aied]] — как развивалась область
-- [[philosophy-of-ai-in-education]] — философские основы
-- [[theories-and-frameworks]] — карта узлов теорий и рамок
-- [[theory-development-aied]] — построение и пересмотр теории
-
-- [[sensor-and-gaze-analytics]] — зонтик: сенсорное измерение обучающихся через взгляд, ЭЭГ и носимые устройства
-- [[ai-avatars-and-synthetic-instructors]] — зонтик: синтетические люди, преподающие, репетирующие и оценивающие
-- [[civic-and-political-education]] — предметная область: грамотность для публичной жизни и политического участия
-
-## Связанные статьи
-
-Обзоры по всей области ИИ в образовании — исследования, которые описывают всю область или целый образовательный уровень, а не одну тему:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Эволюция исследований ИИ-и-образования по четырём десятилетиям (рамка AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Контроль против агентности: история ИИ в образовании
-- [[genai-higher-education-systematic-review-2026]] — Генеративный ИИ в высшем образовании: систематический обзор 125 исследований
-- [[stanford-evidence-base-ai-k12-2026]] — База свидетельств об ИИ в K-12: 52 сильных причинных исследования, отобранных из 1 686 статей репозитория (обновление, ноябрь 2026)
-- [[genai-educational-outcomes-meta-analysis]] — Генеративный ИИ и образовательные результаты: всеобъемлющий метаанализ
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 исследования среднего образования; прирост там, где студенты судят о результате, а не там, где работу производит инструмент
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 магистрантов; готовность достигала самоэффективности через поддержку научного руководителя
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — обзор 61 источника по этике, обратной связи и управлению в докторском научном руководстве
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — аспирантский семинар с одной группой; прирост самонаправленного обучения без теста без помощи
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 студент; разрыв между бакалавриатом и аспирантурой в этике и саморегуляции

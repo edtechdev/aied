@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -148,66 +150,3 @@ ai_assist:
 - Попередньо реєструйте міру результату й зазначайте, чи вона сприяна, чи несприяна. Напрям висновку може перевернутися від самого цього вибору.
 - Звітуйте розміри ефекту проти названого порівняння, а не проти «традиційних підходів» в абстракції. Результат Світового банку інтерпретовний лише тому, що називає свій клас порівняння.
 - Чітко розрізняйте здуття продуктивності й витіснення навчання, бо вони передбачають різні засоби — перепроєктування завдань проти повторного навчання.
-
-## Пов’язані поняття
-
-- [[rct]] — Рандомізоване контрольоване випробування
-- [[meta-analysis-systematic-review]] — Метааналіз і систематичний огляд
-- [[formative-assessment]] — Формувальне оцінювання
-- [[summative-assessment]] — Підсумкове оцінювання
-- [[cognitive-offloading]] — Когнітивне перекладання
-- [[math-education]] — Освіта з математики
-- [[human-in-the-loop-ai]] — Людина в циклі
-- [[affective-tutoring]] — Афективний тьюторінг
-- [[theory-development-aied]] — Розвиток теорії в ШІ в освіті
-- [[self-report-measures]] — Міри на основі самозвіту
-- [[research-methods-aied]] — Методи досліджень в AIED (розділ DBR)
-- [[social-emotional-learning]] — Соціально-емоційне навчання
-- [[student-support-and-success]] — адміністративні результати (виконання завдань, заліки, стійкість, закінчення навчання) як відмінні від навчальних здобутків
-
-## Пов’язані статті
-
-- [[epistemological-audit-genai-meta-analyses-2026]] — Критичний епістемологічний аудит ранніх синтезів свідчень у дослідженнях освітнього генеративного ШІ (Fütterer та ін. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — Доступ до готового чат-бота підвищив оцінки на тесті без допомоги, які збереглися тиждень потому (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — ШІ-тьюторінг перевершує активне навчання на занятті: RCT із запровадженням нового дослідницького проєктування в автентичному освітньому середовищі (Kestin та ін. 2025)
-- [[genai-performance-vs-learning]] — чому сприяна продуктивність не є результатом навчання (Yan та ін. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Віртуальний тьюторінг із CAL: експеримент щодо охоплення та навчання
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Як зробити ШІ-тьюторінг продуктивним: практика математики на основі володіння
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — На відстані одного кліка: Khanmigo у дворічному шкільному експерименті
-- [[ai-literacy-assessment-misalignment]] — Оцінювання ШІ-грамотності: неузгодженість заявленого та продуктивності
-- [[generative-ai-reduced-study-time-math]] — Швидше завершення, менше навчання: генеративний ШІ скоротив час вивчення математичних задач і знань, які вони будують
-- [[genai-meta-analysis-programming-learning]] — Метааналіз ефекту генеративного ШІ на продуктивність і навчання в програмуванні
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Метааналіз ефектів втручань у ШІ-грамотність
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Допомога ChatGPT породжує навчальні здобутки, еквівалентні допомозі тьютора-людини
-- [[generative-ai-guardrails-harm-learning]] — Генеративний ШІ без захисних обмежень може шкодити навчанню (RCT, PNAS 2025)
-- [[absent-cognitive-baseline-2026]] — Відсутній когнітивний базовий рівень: теоретизування структурної прогалини в академічній самооцінці студентів, для яких ШІ рідний
-- [[oecd-digital-education-outlook-2026]] — Цифровий освітній огляд OECD 2026
-- [[ai-changing-teaching-workflows]] — Як ШІ змінює робочі процеси викладання
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Метааналіз вивчення мов із підтримкою втілених роботів з розширенням ШІ
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Розрізнення негайної продуктивності і стійкого навчання
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Штраф генеративного ШІ за навчання: перекладання домашніх завдань шкодить навчанню
-- [[ai-assisted-collaborative-learning-model-dbr]] — Модель спільного навчання з підтримкою ШІ DBR (критичне мислення +24,1 %, здобутки в розв'язуванні задач)
-- [[stanford-evidence-base-ai-k12-2026]] — Специфічний для тьюторінгу ШІ проти загального ШІ
-- [[jost-llm-programming-education-learning-outcomes]] — LLM-залежність і оцінки в кодуванні (негативні кореляції)
-- [[genai-can-harm-teaching-rct-2026]] — Генеративний ШІ може шкодити викладанню (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Метааналіз GenAI і мислення вищого порядку
-- [[mujib-ai-ibl-creative-math-2026]] — IBL із підтримкою ШІ та творча продуктивність у математиці
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — Здобутки від скаффолдингу PBL із розширенням ШІ
-- [[ccct-cooperative-learning-technique]] — Кооперативна методика навчання, спроєктована ШІ
-- [[scaffolding-srl-feedback-genai-human-peers]] — Здобутки від скаффолдингованого саморегульованого зворотного зв'язку
-- [[learner-ai-interaction-patterns-oop]] — Патерни взаємодії й навчальні здобутки в ООП
-- [[ai-feedback-critical-thinking-writing-2026]] — Зворотний зв'язок ШІ та критичне мислення в письмі
-- [[pedagogy-ai-mistakes]] — Педагогіка помилок ШІ: розвиток мислення вищого порядку (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Рівні обчислювального мислення та ШІ-помічники з кодуванням (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Метааналіз: адаптивні освітні технології/ШІ підвищують навчання на ~0,125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT в освіті: ефект у пошуках причини (медійно-порівняльна критика мір здобутків)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Мета-метааналіз: скориговані на упередження ефекти навчальних здобутків ШІ — ~1/3 повідомленого розміру
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: аудит дефектних метааналізів AIED
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — STEM-синтез, який контролював залежні розміри ефекту й перевіряв упередження публікації, але не застосував оцінки якості (Doğan та ін. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Метааналіз другого порядку 45 метааналізів із ШІ в освіті, зі скоригованими на перекриття ефектами та оцінкою якості шару синтезу (Emslander та ін. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ШІ- та людський тьюторінг дають еквівалентні навчальні здобутки GRE
-- [[rodrigues-aied-unplugged-numeracy-2026]] — У викладач-опосередкованому ШІ здобутки зрушила підготовка, а не інструмент

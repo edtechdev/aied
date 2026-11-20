@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/campus-ai-development
 source_updated: "2026-10-24T05:15:17-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,9 +48,3 @@ IT kuu na IT ya utafiti inayotoa majukwaa na mapitio; ofisi za utawala zinazoshu
 ## Vidokezo na tahadhari
 
 Unajiita mradi binafsi huru, si sera ya taasisi wala ushauri wa kisheria; taasisi zinazotajwa zinaonekana kwa sababu zilichapisha masimulizi ya mazoea yao, si kama kibali, na kesi za majadiliano ni mchanganyiko. Mifano yake ya kisheria ni ya Marekani (FERPA, ADA Title II, GLBA) na imewekwa tarehe, ingawa inahoji kuwa njia, maswali na viwango vya data hazitegemei hizo. Ukurasa wa ushahidi unaunganisha kila utafiti, ukiweka faida kwenye kazi moja iliyowekewa mipaka kando ya kupungua kwa watunzaji wenye uzoefu, na unakiri kuwa data ya majaribio inahusu mapendekezo ya msimbo, si kazi inayoongozwa na vipimo au mawakala wengi, hivyo hoja ya muundo zaidi inategemea mazoea na mantiki ya uzingatiaji. Hakuna leseni ya kutumia tena. Tovuti dada [campusdatagov.com](https://campusdatagov.com/) na [campusairegistry.com](https://campusairegistry.com/) zinabeba utawala wa data na rejista ya mawakala, hivyo hii ni lango la [[educational-policy-ai]] lakini si mbadala wake.
-
-## Dhana Zilizounganishwa
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

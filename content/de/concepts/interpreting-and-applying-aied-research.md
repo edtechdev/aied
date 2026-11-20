@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -160,41 +162,3 @@ Die Prüfungen oben sind kein Volkswissen; sie kommen von dokumentierten Fehlsch
 **„Höhere Noten bei Nutzung des Werkzeugs zeigen, dass das Werkzeug mehr gelehrt hat.“** In einer [[k-12|K-12]]-Mathematikstudie erzielten Studierende, die mit einem allgemeinen [[conversational-ai|Chatbot]] übten, bessere Übungsnoten und schnitten dann in einer Bewertung ohne Hilfe **etwa 17% schlechter** ab. Die mit dem Werkzeug gemessene Übungsleistung ist das aufgeblähte Maß; die ohne Hilfe ist das Ergebnis, und nur eines von beiden stieg.
 
 **„Wenn der Effekt real ist, spielen die Umsetzungsdetails kaum eine Rolle.“** Sie *sind* der Effekt. Eine Studie, die 30 Studierende in einem Kurs an einer Institution auf einer Version des Werkzeugs begleitete, die heute niemand mehr nutzt, hat einen Befund über eine Konfiguration erzeugt, die nicht mehr existiert. Treatment-Spezifikation, Version und Setting sind Teil der Behauptung und nicht Kontext um sie herum.
-
-## Verbundene Konzepte
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Verbundene Artikel
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensische Prüfung von 14 AIED-Metaanalysen
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Publication-bias-adjustierte KI-Effekte bei etwa einem Drittel der berichteten Größe
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: ein Effekt auf der Suche nach einer Ursache
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Einschlusskriterien als Rigor-Schwelle verwendet, und Heterogenität, die sich mit dem Modell verändert
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wenn die Reliabilität automatischer Bewertung auf die Messdecke der Aufgabe trifft
-- [[verification-quality-reliance-calibration-genai-2026]] — Was die Literatur zu Verifikation und Verlassenheit nicht misst
-- [[citation-errors-hallucinations-computing-education-2026]] — Erfundene Referenzen, die 2025–2026 den Druck erreichten
-- [[stanford-evidence-base-ai-k12-2026]] — Übungsgewinne, Prüfungsverluste: das Problem des Wegnehmens der Unterstützung im K-12-Mathematikunterricht
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Subgruppeneffekte, deren Konfidenzintervalle die Null kreuzen
-- [[chick-faculty-development-ethical-ai-2026]] — Ermöglichende Bedingungen: Politiksignale, persönliche Abonnements, keine Zeit
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Hersteller-Kennzahlen mit offengelegter Kalibrierung und Experimentanzahl
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Befunde, die an Modellversionen gebunden sind, und die Fluktuation des Felds
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Zählungen unabhängiger Evidenz für 16 bereits im Einsatz befindliche, auf Studierende zielende KI-Produkte
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Ein Review kann die Berichtsverzerrung in seinem eigenen Korpus quantifizieren

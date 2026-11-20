@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -164,45 +166,3 @@ ai_assist:
 - **"[[automated-assessment|ניקוד אוטומטי]] פותר את בעיית ההיקף."** מסווגים מגיעים לכ-70% ברמת רפלקציה בקורפוס מתויג היטב עם חוסר איזון חמור בין מחלקות, והתקרה הזו בהישג ידו של טקסט סביר.
 - **"תיקי עבודות הם רפלקטיביים מטבעם."** המכל אינו המעשה; תיק עבודות שנאסף מתוצרים מלוטשים יכול לא להכיל שום רפלקציה.
 - **"רפלקציה אינה זקוקה להוראה."** גם קורפוס החיבורים ההונגרי וגם ניסוי המורים הפרה-סרביס מניחים שהרמה והאיכות נלמדות, ושההכנה משנה תוצאות.
-
-## מושגים מחוברים
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## מאמרים מחוברים
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — ניסוי רשום מראש עם 302 מבוגרים: הנחיות רפלקציה הכפילו את הזמן על משוב וצמצמו את היקף התרגול ב-40% בלי להעלות את הרווח לבעיה (Asher, Gold & Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — מודל רפלקציה בן חמישה חלקים מודע-GenAI, הבנוי על הנחיות ואיטרציות מתועדות ולא על הטקסט הסופי (Kadel et al. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 חיבורים מתויגים, חוסר איזון חמור בין מחלקות, מודלים רדודים ב-71% וטרנספורמרים ב-68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — 17,930 תורות מקודדים כדי להסביר מדוע שותף רפלקציה מבוסס AI הותיר משתמשים פחות מחויבים (Nepal et al. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — רפלקציה עצמית, שיתופית וקהילתית עם AI כמתווך קוגניטיבי (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 מורים ל-K–12: זמן הוא המכשול של המתחיל, מעקב ביצועים של המומחה (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — ארבע פרקטיקות GenAI ואחד עשר תהליכים, שכל אחד מהם יכול לתמוך בחשיבה רפלקטיבית או להחליף אותה (Dalsgaard & Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — ניסוי שדה אקראי 2×2 על קיום שגרת יומן רפלקטיבי (Scheu et al. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — מבחן 2×2 של אימון אסטרטגיות מול שותף רפלקציה סוקרטי מבוסס LLM (Zhang et al. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — כלי רפלקציה עצמית לא-אבחוני בלי ציון כולל (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — שימוש רפלקטיבי ב-AI כמבנה מדיד המקשר קבלה ליעילות עצמית ולמעורבות (Wang & Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — רפלקציה מובנית כקלט חי שמכייל מחדש את מחזור המשוב הבא (Oktoma et al. 2026)
-- [[pedlow-genai-selfassessment-2026]] — רפלקציה מודרכת בתוך הערכה עצמית לשימוש אתי ב-GenAI (Pedlow & Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 מורים על זיהוי, חלוקה מחדש והתחברות רפלקטיבית מחדש לאחר שימוש ב-AI (Ho & Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — מאמר עמדה: אין ראיה שהנחיות רפלקציה בונות ניטור עצמי בר-קיימא (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — תיקי עבודות ב-WordPress על פני 16 שבועות עם GenAI כספק משוב ומסנתז (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT מיושר להערכת תיק עבודות, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — פיגום אחד העלה עומק אנליטי והערכתי בעוד תכנון פעולה נותר שטוח (Liu et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — מיפוי של 26 מחקרים: רפלקציה היא השלב שזכה למענה המועט ביותר במחזור למידה דרך שירות (Yusuf et al. 2026)

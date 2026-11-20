@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -66,34 +68,3 @@ Las profesiones tienen una ventaja de la que carecen las disciplinas: un organis
 **«La simulación sustituye al prácticum.»** La simulación ensaya un escenario definido en condiciones controladas, y las revisiones la encuentran como aplicación predominante precisamente porque está acotada. Lo que no aporta es el juicio no guionizado que la supervisión existe para ver.
 
 **«Detectar el uso de IA resuelve el problema de la certificación.»** La detección responde si se usó una herramienta, no si la persona candidata puede ejercer, y la literatura de enfermería ya muestra programas que eligen la vigilancia porque no pueden responder a la segunda pregunta.
-
-## Conceptos conectados
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## Artículos conectados
-
-- [[llm-turing-test-italian-legal-exams-2026]] — Prueba de Turing a ciegas con exámenes italianos de abogacía, judicatura y notariado frente a la calificación experta
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparación en cinco factores de las políticas de IA generativa en facultades de derecho y un marco de gobernanza
-- [[hardie-genai-nursing-scoping-review-2026]] — Revisión de alcance de 103 estudios sobre aplicaciones, actitudes y ética en la educación en enfermería
-- [[sun-llm-nursing-education-professional-identity-2026]] — Los LLM, las lagunas estructurales y la reconstitución de la identidad profesional
-- [[dabkowski-nursing-academics-genai-2026]] — Ambigüedad normativa, valores profesionales y la deriva hacia la evaluación vigilada
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Supervisión remota en la evaluación de enfermería: vigilancia, equidad y disuasión
-- [[genai-medical-education-transformation-review-2026]] — Revisión de alcance de 153 informes sobre IA generativa en educación médica
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Evaluación estratificada con múltiples evaluadores de pacientes estandarizados virtuales basados en LLM frente a la práctica de la ECOE
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Los currículos de IA en salud enseñan ética (80,6 %) pero rara vez procedencia de los datos (22,2 %)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 docentes en formación: adopción superficial de la IA generativa, ansiedad por la integridad y alfabetización evaluativa
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — La IA en la formación docente: marcos, evidencia empírica y ética
-- [[critsly-design-education-ai-critique-2026]] — Las herramientas de crítica con IA leen el proceso y no el producto
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adopción de la IA en bibliotecas universitarias: una revisión sistemática

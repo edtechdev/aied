@@ -34,6 +34,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -45,7 +46,3 @@ ai_assist:
 ## 이용 조건과 주의점
 
 라이선스는 Creative Commons BY-NC-ND 4.0이며, 저자가 밝힌 이용 조건은 대부분의 제도적 독자에게 중요합니다. 개인적이고 비상업적인 학습과 전문성 개발은 환영하지만, 상업적 사용, 재배포, 화이트라벨링은 상업 라이선스를 요구합니다. 저장소는 자체 설계한 열 가지 도전에서 320점 중 314점을 달성했다고 보고하지만, 이는 독립적이지 않은 저자 자신의 평가이며, 같은 저자가 이 틀에 관한 자문과 워크숍을 판매합니다. 프로젝트는 고용주와 무관한 개인의 작업으로 기술되어 있으며, 마지막 커밋은 2026년 4월입니다.
-
-## 연결된 개념
-
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 **Process Feedback** is a learning-first alternative to [[ai-detection|AI detection]] tools. It records the writing process — time spent, revisions, copy-paste events, and whether and when AI was used — and presents it as a [[process-oriented-assessment|writing process report]], shifting the question from whether a student cheated to how the work was actually done.
@@ -38,8 +39,3 @@ It is aimed at individual teachers and students, who can use it without institut
 ## Notes and caveats
 
 Free covers the individual classroom workflows; institutional pricing exists separately and is tied to deployment scope, data handling, support, and compliance rather than to a per-student or per-teacher charge. Because a report shows a process rather than an intent, copy-paste alone is not misconduct — the project's own guidance says a student may be pasting their own earlier text, and that students should not be penalized merely for pasting. The adoption figures and the 5.0 Chrome Web Store rating are the project's own marketing; reviews in an extension store are not independent evidence of learning outcomes. Read the reports as evidence for a conversation, which is how the tool is designed and how the developer describes it.
-
-## Connected Concepts
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

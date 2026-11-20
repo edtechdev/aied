@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -44,7 +45,3 @@ Det riktar sig till lärare i grund- och gymnasieskola och de fortbildare som ut
 ## Anteckningar och förbehåll
 
 Innehållet är licensierat under CC BY-NC 4.0 och den underliggande koden under MIT: klassrumsbruk, lokal hosting och anpassning är tillåtet med angivande av källa, medan försäljning av materialet eller inbäddning i betald utbildning kräver skriftligt tillstånd från TCEA. Andras verk undantas från licensen, och litteraturaktiviteterna återger ingen text ur upphovsrättsligt skyddade verk. Projektet uppger att innehåll och översättningar togs fram med generativ AI under redaktionell granskning, och att översättningarna är maskinstödda och flaggade för lokal lärargranskning före klassrumsbruk, vilket är värt att ta på allvar innan ett distrikt antar dem i stor skala. Varje aktivitet körs i elevens webbläsare utan inloggning och utan datainsamling.
-
-## Anslutna begrepp
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

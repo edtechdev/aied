@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -78,37 +80,3 @@ Modellkompression gehört in denselben Werkzeugkasten: eine zweistufige Pipeline
 - **„Semantische Ähnlichkeit kann Curriculum-Ausrichtung screenen."** Beim Screening von **3.837 Zahnmedizin-Ziel-Abstract-Paaren** beurteilten Embedding-Retrieval plus eine Natural-Language-Inference-Prüfung **22,9% der Items** als ausgerichtet — semantische Ähnlichkeit ist ein **schwaches Signal** für Ausrichtung. Eine flüssige thematische Übereinstimmung und eine echte Lernziel-Übereinstimmung sind verschiedene Relationen.
 - **„Klassifikation auf Äußerungsebene ist die natürliche Einheit."** **Modellierung ganzer Unterrichtseinheiten schlägt Klassifikation auf Äußerungsebene**: das Bewerten ganzer Transkripte statt isolierter Äußerungen **hob die Erkennung von Schlussfolgerungsketten um 14,2 Prozentpunkte**. Der Kontext über die Stunde trägt Information, die jeder einzelne Zug zerstört.
 - **„NLP im großen Maßstab auf Evaluationskommentaren erzeugt Wirkung."** Ein PRISMA-ScR-Scoping-Review und eine Evidenzkarte von **421 Studien** (2015–2026), die NLP auf offene studentische Lehrveranstaltungsevaluationen anwenden, fanden Skalierung **ohne erreichte Nutzung**. Volumen methodischer Ausgabe ist keine Adoption, und die Lücke ist der Deployment-Schritt, nicht die Modellierung.
-
-## Verbundene Konzepte
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Überblicksseite: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
-
-## Verbundene Artikel
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding-Cluster, die nach Wortlaut statt nach Physik ordnen
-- [[lee-learner-question-types-ai-education-2026]] — Transformer-Klassifikation von Lernendenfragen in konstruktivistische Rollen (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Automatische Klassifikation von Diskursrelationen mit BERT für den Englischunterricht
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Der StudyChat-Datensatz: studentisch-LLM-Dialoge in einem KI-Kurs
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolisch-pädagogische Ausrichtung (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP- und LLM-Begründungen für rubrikbasierte Unterrichtsqualität
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillation eines selbsterklärenden LM für Learning Analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-Agenten-LLM (GradeOpt) kodiert Inhaltswissen und pädagogisches Inhaltswissen von Lehrkräften; klassische Encoder und naives Prompting bleiben beim PCK zurück
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Behauptungsbasierte Schemata für auditierbares Kodieren pädagogischer Dialoge
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Von der Stimmungsklassifikation zum umsetzbaren und verantwortungsvollen Feedback: Ein Scoping-Review und eine Evidence Map zu NLP in der studentischen Lehrveranstaltungsevaluation, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluierung vortrainierter Modelle für die pädagogische Beurteilung neuartiger KI-gestützter Bildungsfragen
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: Pipeline für selektives Schlussfolgern zum feinkörnigen Tagging von Wissenskonzepten
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing zur Abgleichung von Lektüren mit Lernzielen und zur Beurteilung der Themenbalance in der Zahnmedizinausbildung
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: Ein Datensatz handschriftlicher Antwortblätter für das Parsen verrauschter hybrider Dokumente

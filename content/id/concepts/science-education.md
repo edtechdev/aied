@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,9 +68,7 @@ Penilaian jawaban oleh AI maju cepat pada pekerjaan berisiko tinggi. [[ai-gradin
 
 Kesiapan guru menentukan. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah dkk.]] menemukan guru sains prajabatan Ghana bersikap positif dan berniat kuat terhadap AI tetapi hanya moderat dalam pemakaian kelas aktual — jurang niat–penggunaan yang menunjuk [[teacher-ai-competency]] dan dukungan [[governance|kelembagaan]] sebagai tuas sesungguhnya. [[becker-chatgpt-typology-physics-2026|Becker dkk.]] dan [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] mendokumentasikan mahasiswa fisika sebagai skeptis yang terkalibrasi domain, bukan pengadopsi tanpa kritik: jurang kepercayaan–kegunaan 50 poin (91% menggunakan, 41% mempercayai) dan dua profil pengguna berbeda (Pengguna Pragmatis vs. Bukan-Pengguna Skeptis) yang menantang kebijakan seragam. Mengimbangi teknosentrisme, [[avraamidou-ai-colonization-science-education|Avraamidou]] memperingatkan "kolonisasi AI" atas pendidikan sains — ekstraksi tanpa persetujuan, monokultur algoritmik, dan reformasi tak manusiawi yang berpusat laba — dan menyerukan AI feminis berpusat manusia yang memprioritaskan keadilan di atas laba, sementara tinjauan sistematis [[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]] atas 18 studi menekankan risiko [[ethics|etis]] (bias, halusinasi, [[academic-integrity|plagiarisme]], erosi pemikiran mandiri) dan perlunya [[teacher-education|pelatihan guru]] serta penggunaan sadar. Pelajaran kolektif ketiga belas artikel: AI dalam pendidikan sains memberi perolehan bila tertanam dalam inkuiri sehat, [[scaffolding]], dan desain [[assessment|asesmen]] — dan melemahkan pembelajaran ketika menggantikan kerja epistemik yang harus dikerjakan siswa sendiri.
 
-
 **Kenyamanan AI yang umum tidak berpindah ke alat disiplin itu sendiri.** Di antara 100 mahasiswa geografi di satu universitas Kazakhstan, kesiapan mengajar dengan AI dan GIS mengikuti keakraban GIS (ρ = 0.508) dan pengetahuan GeoAI (ρ = 0.425) tetapi bukan keakraban AI umum (ρ = 0.071, p = 0.485) — pelajaran bagi [[teacher-education|persiapan guru]] di disiplin apa pun yang berbentuk alat ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov dkk. (2026)]]). Enam puluh tujuh persen menyebut diri mereka siap dalam beberapa bentuk, namun hanya 6% yang pernah menggunakan kombinasi itu dalam praktik dan 43% menilai instruksi yang tersedia memadai. Evaluasinya bersifat [[self-report-measures|laporan diri]] dan belum tervalidasi, sehingga ia menggambarkan apa yang dikatakan para mahasiswa tentang diri mereka sendiri.
-
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder dkk. (2026)]] bertanya seberapa baik model umum menangani konten sains itu sendiri: pada set butir selaras NGSS untuk sekolah menengah pertama (1,078 butir) dan menengah atas (1,150 butir), sembilan model berbobot terbuka sebagian besar melampaui 90%, dengan ukuran model tak terkait akurasi. Seorang guru sains menilai 236 dari 240 butir sampel (98.3%) selaras sambil menandai ketiadaan diagram, interpretasi data, dan representasi matematis — butir hanya-teks tak dapat melatih semua ekspektasi kinerja NGSS. [[item-response-theory|Kesulitan butir]] yang tinggi dan daya beda rendah menyisakan pertanyaan apakah butirnya perlu diperbaiki atau sains menengah sudah terkelola bagi kelas model ini, dan para penulis menyebut umpan balik multitahap berbasis bukti sebagai standar yang hilang.
 
@@ -81,39 +81,3 @@ Sebagai kerangka alih-alih studi, [[zhai-science-literacy-generative-ai-coherenc
 - **"AI dalam pendidikan sains tidak punya bukti kausal."** Sebuah **evaluasi acak empat minggu** atas platform revisi berbasis AI dalam sains GCSE memberi estimasi kausal **Hedges' g = 0.33**, dengan **tanpa bukti efeknya berbeda menurut mata pelajaran**. Efeknya moderat dan bersifat kausal.
 - **"Beri siswa akses dan perolehannya menyusul."** **Akses terstruktur, bukan akses itu sendiri, yang menggerakkan perolehan**: pertumbuhan yang dilaporkan tim rata-rata **17% pada akses individu tanpa batas tetapi 34% dan 31% ketika aksesnya terstruktur**. Strukturnya adalah intervensinya.
 - **"Simulasi ilmiah butuh perangkat lunak khusus."** **Prompt bahasa alami empat elemen** dapat menghasilkan **simulasi fisika realitas tertambah yang dikendalikan tangan**. Hambatan menyusun simulasi turun ke desain prompt, yang menggeser keterampilan yang dibutuhkan dari pemrograman ke penspesifikasian fenomena.
-
-## Konsep terkait
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Artikel terkait
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Bab kerangka tentang literasi sains sebagai koherensi lintas kurikulum, pengajaran, dan asesmen (Zhai dkk. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Kerangka iterasi epistemik tujuh fase untuk merefleksikan bagaimana metodologi AI dapat mentransformasi penelitian pendidikan sains (Martin dkk., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Tinjauan sistematis AI dalam pendidikan sains dan kimia
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT untuk pembelajaran berbasis inkuiri dalam STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Inkuiri terbimbing berbantuan AI dalam fotosintesis dan respirasi
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Teks perubahan konseptual vs. dialog AI untuk kalor dan suhu
-- [[ai-grading-handwritten-physics-2026]] — Penilaian AI berskala besar atas asesmen fisika tulisan tangan
-- [[avraamidou-ai-colonization-science-education]] — Komentar kritis atas kolonisasi AI dalam pendidikan sains
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Persepsi dan penerimaan AI di kalangan guru sains prajabatan
-- [[ai-assisted-inquiry-ssi-climate]] — Inkuiri berbantuan AI dalam isu sosio-ilmiah tentang perubahan iklim
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Mengevaluasi tutoring AI dengan kecepatan inovasi: uji acak mikro yang dipimpin praktisi atas platform tutoring AI dalam sains GCSE
-- [[llm-benchmark-secondary-science-topics-2026]] — Tolok ukur pemahaman LLM atas topik sains sekolah menengah pertama dan atas
-- [[nature-of-science-generative-ai-2026]] — Hakikat sains di era kecerdasan buatan generatif: otoritas epistemik, materialitas, dan respons sinergis
-- [[ai-university-physics-education-review-2026]] — Akses tim yang terstruktur mengungguli akses individu tanpa batas dalam tinjauan AI fisika universitas
-- [[genai-learning-motivation-meta-analysis-2026]] — Satu-satunya domain yang interval motivasionalnya melintasi nol (g = 0.109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — Kenyamanan AI umum tidak berpindah ke kesiapan GeoAI
-

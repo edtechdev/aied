@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -90,46 +92,3 @@ O apoio emocional e a conexão podem se mover em sentidos opostos dentro de uma 
 - **"A aprovação dos estudantes indica que o bem-estar está sendo apoiado."** Entre **551 estudantes do primeiro ano**, **82,76% aprovaram a integração** de conteúdo digital e inteligente — e **alta aprovação coexistiu com tensão, enquanto a pressão de tarefas com IA enfraqueceu o benefício**. Aprovação e tensão sobem juntas, de modo que pesquisas de satisfação enganam justamente aqui.
 - **"O apoio ao bem-estar é culturalmente neutro."** [[culturally-aware-student-stress-chatbot-2026|Bashir e Afzal (2026)]] descrevem o Sukoon, uma ferramenta híbrida de apoio ao bem-estar, como **situada culturalmente** — e o próprio enquadramento da página nota seus limites. Um desenho de apoio que presume um estudante universal lê errado a população.
 - **"A pressão de tarefas é separada da tecnologia."** O achado é que a **pressão de tarefas** com IA enfraqueceu o benefício da integração, o que coloca a carga de trabalho dentro dos efeitos da tecnologia, e não ao lado deles.
-
-## Conceitos conectados
-
-- [[learners]] — Quem aprende: o guarda-chuva dos conceitos do lado do estudante
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — serviços de apoio do campus abrangendo aconselhamento, prospecção e encaminhamento
-
-## Artigos conectados
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 estudantes avaliaram bem os chatbots e temeram sobretudo a perda da conexão humana
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Atrito, significado e solidão como sinal biológico
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — A relação entre a ansiedade com a IA e a motivação acadêmica
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Perfis e transições da adaptação psicológica na aprendizagem de japonês assistida por IA
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Uma síntese narrativa crítica do engajamento e da dependência com a IA conversacional
-- [[mindful-llm-math-tutoring-2026]] — Além da resolução de problemas: grandes modelos de linguagem para apoio emocional e reflexivo na aprendizagem de matemática
-- [[sec-ai-literacy-narrative-review-2026]] — Integrando competências socioemocionais ao letramento em IA
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engajamento dos estudantes com a GenAI (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — Formação de professores para o letramento em IA (SDT)
-- [[genai-motivation-engagement-2026]] — IA generativa, motivação e engajamento
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Chatbots de IA, eficácia coletiva e colaboração
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: avaliação da ansiedade do estudante aumentada por LLM (2026)
-- [[policy-deficit-ai-sel-2026]] — O déficit de política na pesquisa em IA × SEL
-- [[culturally-aware-student-stress-chatbot-2026]] — Um chatbot com IA culturalmente sensível para detecção de estresse e apoio ao bem-estar entre estudantes universitários paquistaneses usando NLP e aprendizado de máquina
-- [[daoism-ai-education-philosophy-2026]] — Filosofia alternativa da IA: o taoismo como método para a IA na educação
-- [[ai-emotional-intelligence-teacher-development-2026]] — Densificação relacional como critério para o desenvolvimento docente apoiado por IA
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Alta aprovação do curso com IA coexistindo com tensão autorrelatada, e a pressão de tarefas enfraquecendo o ajuste
-- [[ai-connectedness-adolescent-mental-health-2026]] — Conectividade com a IA e saúde mental de adolescentes: vínculo suplementar versus compensatório, com uma predição em U invertido
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Inteligência percebida do assistente de IA, progresso em objetivos e saúde mental, com o letramento em IA como moderador
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reenquadramento conceitual da regulação emocional apoiada por IA por meio do esporte, do exercício e da ecologia do campus
-- [[faculty-ai-well-being-social-supports-2026]] — Modelo de equações estruturais do bem-estar docente com IA: o letramento em IA domina sobre a autoeficácia
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — A ansiedade de prova é redistribuída, não removida
-- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 350 professores: o AI-TCK eleva a satisfação no trabalho enquanto o AI-TK a reduz, e a satisfação é a única rota para o bem-estar (Kayalı et al., 2026)
-- [[fang-chatbot-psychosocial-extended-use-2025]] — Quatro semanas, nove condições, nenhum efeito significativo sobre os resultados; a duração voluntária acompanhou o dano (Fang et al. 2025)
-- [[folk-dunn-chatbot-companionship-loneliness-2026]] — Doze meses, quatro ondas: o uso previu isolamento em um item único, a solidão previu uso em ambos (Folk & Dunn 2026)

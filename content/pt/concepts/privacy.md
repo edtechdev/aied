@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -86,42 +88,3 @@ A privacidade se conecta à [[learning-analytics|análise de aprendizagem]] (a c
 - **"A literatura sobre supervisão estabelece a ética da supervisão."** Uma revisão de **80 estudos** descobriu que **35% não divulgaram seu conjunto de dados, 40% avaliaram um único modelo, 30% não puderam ser reproduzidos e apenas 25%** atenderam ao padrão de relato. A base de evidências é fina exatamente nas questões que uma instituição precisa responder antes da implantação.
 - **"A privacidade é uma caixa de conformidade, e não uma restrição de desenho."** Quase toda ferramenta de IA que personaliza, prevê ou avalia depende de dados do aprendiz, o que faz da minimização de dados uma decisão de desenho. Uma ferramenta que exige os dados não tem uma configuração de privacidade opcional; ela tem uma dependência de dados que o desenho escolheu.
 - **A consciência das práticas de dados não decorre de vê-las.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] encontrou **66% de 47 estudantes do 7º ano** escolhendo a opção menos protetiva em [[conversational-ai|chatbots]] que leem sua escrita. Outros **47%** descartaram a influência algorítmica como "só diversão", medidos **um mês depois** de uma aula em que a turma viu seu próprio comportamento registrado projetado ao vivo, reagiu dizendo que era "assustador", e vários ficaram no recreio para continuar usando a plataforma. A instrução sobre privacidade que torna o mecanismo visível sem tornar o custo concreto deixa a postura inalterada. O autor observa que as notas baixas aqui podem ser **mais confiáveis que as altas**, já que não existe resposta socialmente esperada para esses itens, enquanto responsabilidade e governança convidam à resposta que soa correta.
-
-## Conceitos conectados
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — registros de estudantes, compartilhamento de dados entre setores e modelagem federada de risco
-
-## Artigos conectados
-
-- [[stefanile-middle-secondary-ai-guidance-2026]] — Pisos de idade do COPPA e do GDPR que os termos de serviço de um produto não cumprem (Stefanile, 2026)
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Um centavo pelos seus prompts: vazamento contextual em plataformas de chat com IA (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica de aprendizagem federada e explicável para modelagem de risco acadêmico que preserva a privacidade (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Da analítica de aprendizagem às intervenções educacionais: facilitadores de intervenções confiáveis baseadas em LA (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Dívida de letramento agêntico: a lacuna estrutural de letramento em IA decorrente de agentes autônomos (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonimização e consentimento para dados autênticos de aprendizagem
-- [[bassett-ai-detectors-education-2026]] — Cara eu ganho, coroa você perde: detectores de IA na educação (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnóstico cognitivo federado com LLM que preserva a privacidade
-- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticas para a IA na educação
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — O que os sistemas de supervisão remota capturam, e a ausência da literatura de privacidade na base de evidências
-- [[edtech-privacy-deferral-2026]] — "Vamos corrigir depois": educação, IA e o adiamento da privacidade dos estudantes na edtech
-- [[kaziya-learner-data-privacy-governance-2026]] — Framework que separa a competência de privacidade de um professor da autoridade institucional para agir sobre ela
-- [[wells-genai-research-assistant-sociology-2026]] — Uma tenância institucional licenciada mais um portão de certificação como o design de privacidade
-

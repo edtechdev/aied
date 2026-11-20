@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -46,13 +47,3 @@ ai_assist:
 - ספריות משתתפות משלמות **\$1,000 לכל פריסת קיוסק בשנה**; הפיילוט עצמו מוגבל לאתרים שהגישו בקשה.
 - הצהרת הפרטיות היא טענה של התוכנית, לא ממצא מבוקר; ספרייה צריכה לאמת את תנאי השמירה ובטיחות הילדים בהסכם עיבוד הנתונים שלה.
 - השלב השני והשלישי של מפת הדרכים, שמאפשרים לספריות לקלוט ארכיונים מקומיים ולנהל את המערכות הנובעות מכך, מתוכננים ולא הושקו.
-
-## מושגים מחוברים
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

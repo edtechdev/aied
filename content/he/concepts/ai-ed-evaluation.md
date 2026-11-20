@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -112,70 +114,3 @@ ai_assist:
 - **"קריטריון-הניקוד הוא טכני."** התאמה קפדנית ניקדה את אותן 2,250 שיחות-חונכות ב-**42.1%** בעוד שופט-LLM מכוייל-אנושית ניקד **81.3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — הקריטריון מזיז את המספר יותר מאשר מודל-החונך, האסטרטגיה או הצינור.
 - **"זיהוי ויצירה הן יכולות בנות-השוואה."** **זיהוי אינו יצירה.** ב-TutorCaseBench, הטוב מ-**11 מודלים** בחר אסטרטגיה מתועדת ב-**63.0% מפריטי ארבע-אפשרויות** אך עמד בקריטריון-יישום מתועד בתדירות נמוכה בהרבה. בחירת התשובה הנכונה מבין ארבע והפקתה הן משימות שונות.
 - **"ציוני מודל משמעותיים ללא כלי מאומת."** מבחנים מותאמי-קורס נוצרו ל-**71 כיתות** והושוו לפריטי AP Statistics שנכתבו בידי אדם עם מודל **2PL היררכי בייסיאני** — הכלי הותאם לפני שהציונים פורשו.
-
-## מושגים מחוברים
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — מחקר חינוכי בסיוע בינה מלאכותית
-- [[assessment-validity]] — תוקף הפרשנות בהערכת בינה מלאכותית בחינוך
-- [[educational-measurement]] — תאוריית המדידה להערכת למידה
-- [[psychometrically-aware-ai]] — יישום פסיכומטריה להערכה מבוססת בינה מלאכותית
-- [[benchmark]] — מדדי ביצועים סטנדרטיים להערכת מערכות בינה מלאכותית
-- [[automated-assessment]] — מערכות ניקוד וצייון מבוססות בינה מלאכותית
-- [[learning-analytics]] — ניתוח נתונים של התנהגות למידה
-- [[research-methods-aied]] — שיטות מחקר לבינה מלאכותית בחינוך
-- [[learning-gains]] — מדידת הישגי למידה מכלי בינה מלאכותית
-- [[formative-assessment]] — הערכה מתמשכת להנחיית ההוראה
-- [[summative-assessment]] — הערכה מסכמת: פורמטים עמידים בפני בינה מלאכותית (בעל-פה, מפוקחים, מבחנים בספר סגור)
-- [[authentic-assessment]] — הערכה של ביצוע אמיתי וניתן להעברה
-- [[human-in-the-loop-ai]] — פיקוח אנושי על הערכת בינה מלאכותית
-- [[trust-calibration]] — כיול אמון במערכות בינה מלאכותית
-- [[hallucination-risk]] — סיכון של תוכן מיופרץ בפלט בינה מלאכותית
-- [[intelligent-tutoring]] — הערכת מערכות חונכות בינה מלאכותית
-- [[agentic-ai]] — הערכת התנהגות סוכן בינה מלאכותית אוטונומית
-
-## מאמרים מחוברים
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: הערכת חונכי LLM על סטודנטים עם התנהגויות מאתגרות (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: אבחון הבנה של מותנות פדגוגית בסרטוני חונכות מקוונת
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — מה שציוני הפלטפורמה מפספסים: הערכה רב-ממדית של סוכני הוראה בבינה מלאכותית
-- [[assessment-latent-structure-human-llm-2026]] — האם כלי הערכה מודדים אותו דבר לבני אדם ולמודלים לשוניים גדולים? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — הערכת איכות מבחנים מיוצרים בבינה מלאכותית: מחקר שדה בקנה מידה גדול
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — התאמה פדגוגית נוירו-סימבולית (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — מדד ביצועים של סיווג תלת-כיווני של סוכני חונכות מבוססי מודלים לשוניים גדולים (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — הערכת VLM על DrawEduMath: תוכן שגיאה הוא הקשה ביותר (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — מדד ביצועים לידע פדגוגי של מודלים לשוניים גדולים (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — ולידציית תצפית כיתה של מודלים לשוניים גדולים: אמינות מול דיוק (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — עוזרי מאגר ידע OER של בינה מלאכותית על-מתקן: הערכה רב-ממדית
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment
-- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading With LLMs
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Formative Assessment
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Students' Cognitive Skills
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation With Large Language Models
-- [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[genai-educational-outcomes-meta-analysis]] — מטא-אנליזה של תוצאות חינוכיות של בינה מלאכותית יוצרת
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
-- [[ai-grading-handwritten-physics-2026]] — ניקוד בינה מלאכותית של הערכות פיזיקה בכתב יד (אולימפיאדה)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[burneo-can-edtech-close-learning-gaps-2026]] — הערכה מטא-אנליטית של EdTech אדפטיבי + בינה מלאכותית
-- [[xiong-ai-educational-measurement-review-2026]] — תפקידה של בינה מלאכותית בניקוד, פסיכומטריה, הערכה
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[bloom-classifier-ai-assisted-questions-2026]] — הערכת מודלים מאומנים מראש להערכה פדגוגית של שאלות חינוכיות חדשות בסיוע בינה מלאכותית
-- [[llm-judge-evaluation-educational-ai-2026]] — When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — מפה ביבליומטרית יכולה לחשוף מה תרבות-הערכה מתגמלת
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: קריטריוני הערכה מעצבים הצלחה מדודה בחונכות מתמטיקה מבוססת LLM (Lee et al. 2026)

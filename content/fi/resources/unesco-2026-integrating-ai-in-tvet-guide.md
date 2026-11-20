@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,12 +42,3 @@ Ammatillisten oppilaitosten johdolle, joka päättää, mitä tehdä ensin, opet
 ## Huomioita ja varauksia
 
 Se on ohjausta, ei arviointia. Opas ei raportoi tulosdataa, ja sen institutionaaliset esimerkit – sisältöön integroitu tekoälyoppimisen malli College of the North Atlantissa Kanadassa ja Kenian vuoden 2023 ammatillisen koulutuksen teollisuusharjoittelustandardi – ovat kuvailevia tapauslaatikoita, jotka on lähteistetty projektiraportteihin, eivät riippumattomia kokeita. Liitteet kutsuvat itseään suuntaa-antaviksi; kypsyysasteikko on keskustelun apuväline, ei mittausväline. Turvakriittiset ja säännellyt ammatit saavat oman luvun, mutta se argumentoi kantaa ihmisen valvontaan eikä tarjoa sääntelytason yksityiskohtia. CC BY-SA 3.0 IGO -lisenssi sallii mukauttamisen ja uudelleenjulkaisun nimeämisellä ja samalla lisenssillä.
-
-## Liittyvät käsitteet
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

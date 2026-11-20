@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -114,32 +116,3 @@ Kujifunza kwa kufundisha ni mwelekeo wa kina, [[active-learning]] unaopingana na
 **"Kumwomba LLM kuonekana amechanganyikiwa ni ilani rahisi."** Ni tatizo la ubunifu, kwa kuwa hali ya kukosea inapaswa kusawazishwa na dhana inayofundishwa na na mfano wa sasa wa mwanafunzi-mwalimu. Makosa ya bahati nasibu huzalisha mazoezi ya utatuzi wa hitilafu; makosa yanayoakisi dhana potofu inayowezekana mahususi huzalisha upangaji upya wa dhana, na ya pili peke yake ndiyo lengo la kielimu.
 
 **"Kujifunza kwa kufundisha ni shughuli laini kuliko kufundishwa."** Ni inayodai zaidi. Kujiandaa kufundisha hulazimisha upangaji wa maarifa na upatikanaji wa mapengo ya mtu mwenyewe, ndiyo sababu mbinu hii huibua kutoelewana ambako upokeaji tulivu huficha: ugumu ndio utaratibu badala ya gharama ya kupunguzwa.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Kuelezea kwa mwanafunzi wa AI: mlolongo wenye ushahidi bora zaidi katika hifadhi ya maarifa
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Mwanya: mbinu za kipatolojia na mikakati ya kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT kama wakala anayefundishwa katika upangaji programu
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: wakala anayefundishwa kwa wanafunzi 546
-- [[prompting-teachability-novice-personas-lbt-2026]] — Kubuni hadhi za wanafunzi kwa uwezekano wa kufundishwa
-- [[socrates-students-instructors-llms-lbt-2025]] — Wanafunzi kama waelimishaji wa LLM (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Kujifunza msamiati kwa kufundisha AI
-- [[knowloop-confusion-to-consolidation-2026]] — Kuimarisha kwa kufundisha-nyuma katika mfumo wa mapitio ya mazungumzo
-- [[simulating-novice-students-machine-unlearning-2026]] — kusikufunza kwa mashine kuweka mwanafunzi katika kiwango cha maarifa ya mwanafunzi, na kujifunza tena kupitia mazungumzo ya kufundisha
-- [[simulating-students-java-programming-errors-llms]] — Kuigiza makosa ya wanafunzi kwa LLM
-- [[knowledge-building-tutor-learning-2026]] — majibu ya kujenga maarifa, si maarifa ya awali, yanataabiri kujifunza kwa mwalimu

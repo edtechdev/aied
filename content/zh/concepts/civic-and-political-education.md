@@ -25,6 +25,8 @@ ai_assist:
 translation_of: concepts/civic-and-political-education
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -91,28 +93,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 **“更好的提示会带来更好的公民课。”** 互动变体的差别极小，而三个聊天机器人在 53 项标准上产出了相同的结构。提示质量并未恢复学科质地。
 
 **“已有足够证据指导实践。”** 只够支持谨慎。一项内容分析、一项文献综合、一项小型[[mixed-methods-research|混合方法研究]]，以及若干概念或政策文章，并不能确立什么有效。
-
-## 关联概念
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — 总纲：学习者需要了解 AI 系统的哪些方面
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — 生成的虚假信息与说服作为社会性伤害
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## 关联文章
-
-- [[civic-education-ai-lesson-plans]] — 53 项公民标准的 310 份 AI 生成教案：90% 为低阶，94% 无多元文化内容（Trust 等人 2025）
-- [[nkalanga-digital-borders-civic-literacy-2026]] — 南非的算法边境治理与公民数字素养的五项要求（Nkalanga 2026）
-- [[critical-media-literacy-education-2026]] — 关于批判性媒介素养与参与式公民身份的专家访谈与学生调查（Santos-Albardía 等人 2025）
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — 通过资格化、社会化与主体化解读芬兰教师的 AI 教育目的
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 科学素养的多种愿景，包括公民生活与民主参与（Zhai 等人 2026）
-- [[rudolph-ai-myths-critical-higher-ed]] — 把深度伪造与自动化虚假信息点名为民主威胁的评论（Rudolph 等人 2025）
-- [[ai-lifelong-learning-policy]] — 成人教育政策与终身学习的公民目的（Theodora 与 Tselios 2026）
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 份治理文件；民主与法治在 92 份中被提及，四份具法律效力（Elmahjub 等人 2026）
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 以政治理论陈述的民主理由：实践侵蚀、机制与威权主义风险

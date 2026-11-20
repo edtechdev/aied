@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -37,7 +38,3 @@ Til K-12: lektionsplan, arbejdsark, [[special-education|IEP-mål]], matematiktek
 
 ## Noter
 Projektet hævder at have en lokalt installeret AI-server for hastighed, at data behandles lokalt og aldrig gemmes, samt overholdelse af Department of Education-retningslinjer; [teamsiden](https://teacherserver.com/index-team.php) nævner Zafer Unal, professor ved University of South Florida, som grundlægger og udvikler, sammen med et rådgivende board på fire fakultetsmedlemmer fra andre universiteter. Disse påstande er stadig værd at verificere, før de bruges med studerendes arbejde. Adgang kræver registrering, og der findes en tilhørende platform, der senere bliver betalt, til at bygge dine egne værktøjer.
-
-## Relaterede begreper
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

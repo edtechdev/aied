@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -120,36 +122,3 @@ Bu bilgi tabanındaki literatür dengesizdir. Öğretim üyesi ve öğrenci meta
 Bu, çalışmaları işe yaramaz kılmaz. İddiaları uygun biçimde ölçülü kılar. Metafor açığa çıkarma, anketlerin kaçırdığı varsayımları ortaya koyabilir. Analoji eleştirisi yapısal anlayışı görünür kılabilir. İyi seçilmiş bir metafor, bir sınıfa tartışacak ortak bir nesne verebilir. Ama alan hâlâ metafor temelli öğretimi sıradan öğretimle karşılaştıran, metaforun hatırlanması yerine aktarımı ölçen ve yaklaşımın kültürler ve disiplinler arasında taşınıp taşınmadığını test eden çalışmalara ihtiyaç duymaktadır.
 
 Aşırı iddia riski her iki yönde de gerçektir. Bir metaforu tam bir açıklama olarak ele alan öğretmen bir yanlış anlama yerleştirebilir. Metaforu salt süs olarak ele alan bir araştırmacı, öğrencilerin zihinsel bir model kurduğu ya da kuramadığı bir mekanizmayı kaçırabilir. Verimli konum, metaforu tasarlanmış, kısmi ve eleştirilebilir bir temsil olarak ele almak ve öğrenenlerin onunla ne yaptığını incelemektir.
-
-## Bağlı kavramlar
-
-- [[ai-literacy]] — eleştirel YZ okuryazarlığı ve metafor temelli öğretim için şemsiye kavram.
-- [[critical-thinking]] — yapısal akıl yürütmenin bir biçimi olarak analoji eleştirisi.
-- [[misconceptions]] — kalıcı yanlış anlamaların kaynağı olarak kusurlu analojiler.
-- [[student-ai-interaction]] — öğrencilerin YZ açıklamalarını nasıl yorumladığı ve denetlediği.
-- [[pedagogical-agent]] — açıklama veya analoji üreten YZ özel öğretmenleri.
-- [[learning-design]] — analoji temelli materyallerin seçilmesi ve sıralanması.
-- [[educational-development]] — öğretim geliştirmede metafor açığa çıkarma.
-- [[engineering-education]] — mühendislikte öğretim üyesi ve öğrenci metaforları.
-- [[cs-education]] — bilgisayar eğitiminde analoji kullanımı ve eleştirisi.
-- [[cognitive-offloading]] — araç ve yardımcı metaforları ve riskleri.
-- [[trust-calibration]] — insanbiçimci roller ve yanlış yerleştirilmiş güven.
-- [[equity-in-ai-education]] — hangi kaynak alanların tanıdık sayıldığı.
-- [[teacher-role]] — YZ tarafından üretilen açıklamalar üzerinde öğretim elemanı yargısı.
-- [[explainable-ai]] — sistem açıklaması ile pedagojik analoji arasındaki fark.
-- [[student-engagement]] — kişiselleştirilmiş analojilerin katılım etkileri.
-- [[higher-ed]] — bu kümedeki çalışmaların çoğunun ortamı.
-
-## Bağlı makaleler
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Eleştirel YZ okuryazarlığı öğretimi için dört metafor ve ölçüt
-- [[student-reception-genai-analogies-computing-2026]] — Öğrenciler üretici YZ analojilerini denetliyor ve bozuk eşlemeleri onarıyor
-- [[fear-awe-genai-metaphor-workshops-2025]] — Öğrenciler, akademisyenler ve personelle metafor analizi atölyeleri
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Mühendislik öğretim elemanlarının metaforları YZ anlayışını kuruyor ve sınırlıyor
-- [[genai-professionalization-metaphors-2026]] — Öğrencilerin üretici YZ ve mesleki öğrenmeye ilişkin metaforik kavramsallaştırmaları
-- [[thermomix-genai-education-analogy-2026]] — YZ ile devretme ve öğrenme için bir mutfak aleti analojisi
-- [[anvil-ai-educational-animations]] — Bilgisayar bilimi için YZ tarafından üretilen analojiler ve öğretim animasyonları
-- [[ai-engineering-education-balancing-act]] — Öğrencilerin “kâhin” ve “özel öğretmen” metaforları LLM yeteneklerini aşıyor
-- [[code-anchor-multi-view-visualization]] — Metaforik görselleştirme iskeleleri ve meşruiyet sorunu
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Bir öğrencinin “geri bildirim otomatı” metaforu okuryazarlık kanıtı olarak
-- [[daoism-ai-education-philosophy-2026]] — Eğitimde YZ için karşı-metafor olarak “Zhenren”

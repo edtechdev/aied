@@ -9,6 +9,8 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 > **Self-Determination Theory (SDT)** — a psychological theory of human motivation positing that intrinsic motivation and [[well-being|well-being]] depend on satisfying three basic psychological needs: autonomy, competence, and relatedness. In [[ai-education|AI in education]], SDT provides a framework for designing AI tools and professional development that support rather than undermine learners' and teachers' motivation.
@@ -55,7 +57,6 @@ A co-agency framework bounds SDT's reach in AI-mediated education: it changes th
 
 SDT connects directly to [[motivation|motivation]] as its parent construct, to [[affective-computing|affective computing]] and [[affective-tutoring|affective tutoring]] for emotion-aware AI design, and to [[student-experience|student experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning|self-regulated learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning|Cen et al. (2026)]] and [[teacher-ai-competency|teacher AI competency]]. SDT is particularly relevant to [[professional-training|professional training]] and [[educational-development|educational development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
-
 **The three needs are not exercised evenly by generative-AI research.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]] coded 39 studies against a 20-activity classification and found 14 activities present, with seven competence-related types against five for autonomy and two for relatedness. Six activities were absent from every study, and most ask the student to judge or challenge the tool: creating challenging problems, anticipating the tool's outputs, grading those outputs and debating with it. Relatedness is the need the literature least tests.
 
 ## Common Misconceptions
@@ -63,37 +64,3 @@ SDT connects directly to [[motivation|motivation]] as its parent construct, to [
 - **"Motivation type matters less than motivation amount."** A year-long study found **three motivational profiles — Disengaged, Developing, Self-Determined — stable over time**, and students who reached the **Self-Determined** profile showed the **greatest [[ai-literacy|AI literacy]] gains**. The quality of motivation predicted the learning, and the profiles did not simply drift upward.
 - **"Autonomy support means removing structure."** The SDT mechanism is autonomy, competence and relatedness together, and the longitudinal evidence shows that satisfying them predicted gains rather than merely accompanying them. Autonomy without competence support is permissiveness, and it does not satisfy the theory's conditions.
 - **"A [[conversational-ai|chatbot]] can supply the three needs automatically."** A study found ChatGPT could support autonomy, relatedness and competence in language learning — a possibility, not a property. Whether a given interaction supports them is an empirical question about how it is used.
-
-## Connected Concepts
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Connected Articles
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Hint-withholding preserved autonomy where answer-giving did not
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — AI availability, autonomy decline and motivational profiles in Grades 5–8 (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 studies coded against a 20-activity classification; competence exercised most, relatedness least

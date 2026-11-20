@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -86,41 +88,3 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - **„Barrierefreiheit bedeutet Nachteilsausgleich."** Ein Scoping Review von **40 Studien** zu digitalen assistiven Technologien für neurodivergente Studierende fand, dass **28 eine formale Diagnose zur Bedingung der Teilnahme machten**. Das ist ein diagnosegebundenes Modell, und es schließt jede lernende Person aus, die Bedarfe, aber kein Etikett hat — das Gegenteil von universellem Design.
 - **„Mittlere Effekte klären die Frage."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analysieren **29 Studien** und finden einen mittleren positiven Effekt, der real ist und zugleich nichts darüber sagt, welches Werkzeug für welchen Bedarf. Der Durchschnitt über heterogene Interventionen ist keine Empfehlung.
 - **„Geschwindigkeit und Unmittelbarkeit sind Annehmlichkeiten."** In einer qualitativen Fallstudie mit **21 sehbehinderten Studierenden im Grundstudium** an drei palästinensischen Universitäten rahmten Lernende Unmittelbarkeit als **grundlegende Anforderung der Barrierefreiheit statt als Annehmlichkeit**. Was von außen wie ein Komfort aussieht, ist eine Voraussetzung für Teilhabe.
-
-## Verbundene Konzepte
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — weiterer Dachbegriff für die Gestaltung von Bildung über alle Unterschiede zwischen Lernenden hinweg
-- [[special-education]] — Unterrichtsbereich für Lernende mit diagnostizierten Behinderungen
-- [[universal-design-for-learning]] — vorausschauendes Designrahmenwerk
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — Headsets, Bewegungskrankheit und Gerätezugang entscheiden, wer es nutzen kann
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — die Überblicksseite für übermäßig weite Regeln, mangelhafte Evidenz und angemessene Anpassungen
-- [[arts-and-media-education]]
-
-## Verbundene Artikel
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% von 100 Eliteuniversitäten veröffentlichen eine KI-Barrierefreiheitsrichtlinie, während 93% KI-Campusdienste einsetzen
-- [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Nachteilsausgleiche für Studierende mit spezifischen Lernbehinderungen
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-Analyse von KI-Interventionen für Studierende mit Behinderungen
-- [[adhd-video-segmentation-computing-education]] — KI-segmentierte Videos mit festen Pausen
-- [[text-simplification-its]] — LLM-basierte Textvereinfachung für intelligentes Tutoring
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-Fragengenerierung für gehörlose/schwerhörige Lernende
-- [[kutti-ai-voice-first-learning-companion]] — Sprachorientierter Begleiter für sehbehinderte Kinder
-- [[tactile-statistical-graphs-accessibility]] — Taktile 3D-gedruckte statistische Diagramme
-- [[pepper-robot-sign-language-lis-2025]] — Pepper-Roboter mit Gebärdensprachunterstützung
-- [[genai-minoritized-knowledges-disability]] — Kritische Perspektive auf KI und behindertenzentriertes Wissen
-- [[gemini-lualatex-physics-video-transcription-2026]] — Mathematisch barrierefreie Physikvideo-Transkription mit Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive generative KI für sehbehinderte Lernende
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, virtuelle Realität und mehr: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
-- [[wright-transcription-not-generation-2026]] — Transkription ist nicht Generierung: übermäßig weit gefasste KI-Verbote und die assistiven Werkzeuge, die sie erfassen
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking von Audiodeskription in Universitätsvorlesungen über Barrierefreiheitsstandards, Metriken und Lernendenpräferenzen hinweg
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Auf dem Weg zu einer menschenlesbaren, maschinenresistenten Leseoberfläche

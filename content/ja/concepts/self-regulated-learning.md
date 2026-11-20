@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -207,74 +209,3 @@ Learning Letters の研究（2026 年）の一団は、中心的な緊張に収�
 - **メタ認知的SRLは学習に関連する負荷を予測したが、[[ai-feedback-quality|AIフィードバック]]は予測しなかった。** **234名の学生と1,147件の観察**からなる5週間のフィールド研究では、メタ認知的自己調整が**本質的認知負荷**の実質的な正の予測因子であり(β = .363、p < .001 intention-to-treat、.346、p < .001 使用ベース)、外在的負荷は有意に予測しなかった。一方、会話型AIフィードバックへの単なるアクセスはどちらも予測しなかった。学生を本質的負荷の面で分けたのは**持続的**なフィードバックへの関与のみであり、不規則な利用はそうではなかった(β = −.219、p = .116)。これは有効成分が、フィードバックの供給ではなく、学習者による処理の調整にあることを示している([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]])。
 
 LLMをパートナーとして構成することは、ツール選択の問題である前に自己調整の問題である。言語学習におけるLLM利用に関する117件の公開報告のうち、複数ステップのやり取りを編成した24件は、残りの93件よりもはるかに高い頻度で個別化を行い(70.8% 対 15.1%)、知覚された便益も多く報告したが(3.29 対 1.96)、68.4%は測定可能な改善を明示しないままモデルを賞賛しており、改善を報告したのは10.3%にとどまった([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]])。
-
-## つながる概念
-
-- [[learners]] — 学習者。学習者側の概念を包括する上位概念。
-- [[metacognition]] — SRLが依拠する認知的モニタリング。
-- [[self-assessment]]
-- [[self-efficacy]] — 努力を駆動する、事前思考段階の信念。
-- [[scaffolding]] — 調整の要求を保ったまま段階的に与えられる支援。
-- [[feedback]] — 学習者がそれを軸に調整を行う入力。
-- [[feedback-literacy]] — フィードバックに基づいて行動する能力。
-- [[help-seeking]] — 戦略的なSRL行動。
-- [[motivation]] — 自己調整と相互に働きかけ合う要素。
-- [[cognitive-offloading]] — AIが調整の作業を取り除くときに生じるリスク。
-- [[generative-ai]] — SRLに足場をかけることも、短絡させることもできる技術。
-- [[ai-literacy]] — AI利用における調整の能力。
-- [[self-directed-learning]] — より広い自律性の構成概念。
-- [[agency]] — 意図をもって行動する学習者の能力であり、調整・統合・位置づけの中心となるもの。
-- [[adaptive-learning]] — 調整を支援しうるパーソナライゼーション。
-- [[formative-assessment]] — 調整のための継続的なフィードバック。
-- [[learning-by-teaching]] — 自己調整を育てる方略。
-- [[intelligent-tutoring]] — SRLに足場をかけるシステム。
-- [[llm]] — AIツールの基盤となるモデル。
-- [[retrieval-spacing-interleaving]] — 学習者が行うスケジュール設計、自己テスト、学習方略の選択。
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-
-## つながる記事
-
-- [[futterer-srl-genai-support-rct-2026]] — ドイツの学生371名:内省と方略のプロンプトを加えても、標準的なChatGPTを上回る効果は何もなかった(Fütterer et al., 2026)。
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — AI支援による自己調整学習のメタ分析:34研究でg = 0.76、ツールの種類と教育的役割がその効果を調整していた(Zhang et al. 2026)。
-- [[li-genai-dependency-effort-regulation-2026]] — 生成AIへの依存と知覚された学習成果:努力調整の経路(Li, Zhang & Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 身体化された教室においてLLMがセグメント化したSRLのカテゴリ別精度(Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — 提出物が示さないもの:LLMを用いた学生の数学的活動における認知的オフローディングの複雑化(Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — カリキュラムマッピングにおいて、モデルが浅い手がかりから自己調整を過剰に帰属させる(Jayalath et al. 2026)。
-- [[aigc-affordance-student-self-regulation-2026]] — AIGCのアフォーダンスと学生の自己調整
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AIインタラクション・リテラシー:チャットボットを操るには、それが支えるはずのSRLそのものが必要だった(Brunnström & Palmqvist 2026)。
-- [[5p-reflection-model-genai-2026]] — GenAI時代の5P内省モデル(Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援ライティングにおける層依存的な認知的オフローディング(Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — スケールを横断する学習者のエージェンシー:調整、統合、ポジショニング
-- [[rented-self-decoupling-performance-becoming-2026]] — 借り物の自己:レンタルという概念をWinneのSRLモデルに対応づけ、10の命題と学習者内指標を提示。
-- [[song-genai-learning-partner-srl-over-time-2026]] — 経時的に見た、文脈を認識する学習パートナーとしてのGenAI
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — 学生はgenAIチャットボットとともにどのように学習を調整するか
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — 足場か近道か:SRLにおけるGenAIの二重の役割
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEMにおけるLLMを介した援助要請:階層的・道具的で、検証を伴うもの
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAIのフィードバックとSRL:知覚された情報源が重要である。
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI不安から戦略的調整へ
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAIとメタ認知/自己調整に関する証拠は混在している。
-- [[agentic-ai-pedagogical-best-practice-2026]] — エージェンティックAIと自己調整の緊張関係
-- [[decreasing-digital-distraction-college-online-learning-2026]] — オンライン学習におけるSRLとデジタル・ディストラクションの低減(Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンデッド教室においてMLの知見を教師が利用しやすくする取り組み
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN:課題の特定、正当化、課題後の内省からなる学習者向けのループ
-- [[learning-analytics-genai-secondary-writing-2026]] — 生成AIを用いた中等学校生徒のライティングを支援するためのラーニングアナリティクスの活用
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — 適応型STEM学習におけるAI支援下の自己調整を測る検証済み尺度:メタ認知的気づきが最も強い予測因子
-- [[iqbal-human-genai-support-essay-revision-2026]] — エッセイ改訂実験では、メタ認知的判断ではなく支援条件が改訂方略の選択を左右した。
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 縦断研究:内省的なAI利用は批判的思考を予測したが知識の増加は予測せず、マタイ効果も認められなかった。
-- [[genai-literacy-srl-special-education-2026]] — GenAIリテラシーは、主に学習エージェンシーを介して自己調整学習行動と関連していた。
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — 支援の種類によって媒介変数が入れ替わる:AI自己効力感と自己調整学習
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI支援下の学習先延ばし:不安が強める意図と行動のギャップ
-- [[genai-srl-l2-writing-scale-2026]] — L2ライティング向けの検証済み6次元GenAI-SRL尺度:環境調整を独立した次元とし、蟻コロニー最適化による12項目の短縮版を備える
-- [[borchers-srl-language-generalization-2025]] — 大規模言語モデルによるSRL予測の新言語への一般化は、ドメイン内では成り立つがドメイン間では成り立たない(Borchers et al. 2025)。
-- [[ai-project-hybrid-learning-self-regulated-2026]] — 学生の自己調整学習を高めるために人工知能を活用するプロジェクト型ハイブリッド学習モデル
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — 第一応答者となったAI TAがピアの返信を押し出し、それに伴って自己調整の成績上の価値を増幅していた共調整も失われた(Davis et al. 2026)。
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 既有概念の多様性がメタ認知的プロンプトの効き方を変えた:同じプロンプトの機能でも、AI出力に対する持続的な評価は正反対になった(Wang et al. 2026)。
-- [[gouroubera-genai-benin-2026]] — 知覚された向上と並んで、利用が増えるほど先延ばしも増大した(β = 0.525)。これにより、AIによって可能になる遅延と、単にAIに関する遅延とが切り分けられる(Gouroubera et al. 2026)。
-- [[lasekan-chatbot-language-learning-partner-2026]] — LLM利用のオーケストレーションはより豊かな構成を生んだが、学習の証拠はほとんど得られなかった。
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 自己報告による調整と、認知的柔軟性の課題測定との対比

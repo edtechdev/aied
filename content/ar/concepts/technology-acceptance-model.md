@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -53,7 +55,6 @@ updated: "2026-11-08T10:26:27-05:00"
 **في عيّنة سبق لها التبنّي، تحمل العادة النموذج وتهدأ التوقعات.** اختبر [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] UTAUT2 على 310 [[business-education|طلاب تسويق]] في جامعتين أمريكيتين لاتينيتين: تنبّأت العادة بالنية عند β = 0.426 وبالاستخدام عند β = 0.412، وتنبّأت النية بالاستخدام عند 0.324. ولم تكن توقّع الأداء (0.037) وتوقّع الجهد (0.054) والتأثير الاجتماعي (0.048) دالّة، في نموذج فسّر R² = 0.665 من النية و0.707 من الاستخدام. ويقرأ المؤلفون المسارات الصفرية كتقييد للتباين في جماعة سبق أن تبنّت الأداة؛ والمخرَج [[self-report-measures|استخدام مُبلَّغ عنه ذاتيًا]] لا سلوك مسجَّل.
 
 **القلق، لا التأثير الاجتماعي، حمل المسار الوجداني في سياق محدود الموارد.** وجد امتداد لـUTAUT مع 350 طالبًا جامعيًا غانيًا في الإنسانيات أن توقّع الأداء أقوى متنبّئ بالنية (β = 0.377) وتوقّع الجهد ثانيًا (β = 0.281)، والتأثير الاجتماعي صفري (β = −0.038)، وقلق التعلّم الرقمي عند β = −0.281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). كما خفّض توقّع الجهد القلق (β = −0.126)، فسهولة الاستخدام عملت جزئيًا بخفضه.
-
 
 ### نظرية السلوك المخطّط (TPB)
 يفسّر TPB النية بالموقف والمعايير الذاتية والتحكّم السلوكي المدرَك. ويُقرَن في الغالب بـTAM/UTAUT في دراسات تبني الذكاء الاصطناعي — فـ[[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] يدمجون TAM وTPB وUTAUT وإطار FATE ([[bias-mitigation|الإنصاف]]، والمساءلة، والشفافية، والأخلاقيات) لنمذجة المحرّكات السلوكية و[[ethics|الأخلاقية]] لتبني الطلاب لـChatGPT.
@@ -88,7 +89,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 وفي دراسة مقابلات بموجتين مع 22 عضو هيئة تدريس، جعل تعلّم المزيد عن الذكاء الاصطناعي بعضهم أكثر حذرًا لا أكثر قبولًا، عاكسًا الاتجاه المفترض في النموذج من الخبرة إلى سهولة الاستخدام ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
-
 ## الحدود والامتدادات
 
 يفرط التركيز المعرفي لـTAM أيضًا في الاقتناص للأبعاد العاطفية والعلائقية لاستخدام الذكاء الاصطناعي. فقد وجدت [[akbaba-nursing-ai-experiences-tam-2026|دراسة نوعية لطلاب التمريض وأعضاء هيئة التدريس]] أن المشاركين — طلابًا في معظمهم — وصفوا الذكاء الاصطناعي إلى جانب بنى TAM الكلاسيكية الأربعة كمصدر دعم نفسي اجتماعي: راحة عاطفية في الإجهاد وفضاء سريّ للتأمّل. وهذا يوسّع المنفعة المدرَسة بما يتجاوز مكاسب الأداء إلى [[well-being|العافية]] في [[professional-training|التدريب المهني]] عالي الإجهاد، مما يُشير إلى أن نماذج التبنّي ينبغي أن تعتنَ بالعوامل الوجدانية والنفسية الاجتماعية، لا بالمنفعة الأداتية وحدها.
@@ -113,62 +113,8 @@ updated: "2026-11-08T10:26:27-05:00"
 
 **قد يحمل توقّع الأداء علاقة تقرأها أبحاث القبول كنية للاستخدام.** في [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] تنبّأ توقّع الأداء بالفرط في الثقة بالذكاء الاصطناعي عند B = 0.6107 وكان الوسيط الأول الذي عبره وصلت الكفاءة الذاتية والدافعية الداخلية و[[motivation|الدافعية الخارجية]] إلى الفرط في الثقة. وكان المسار غير المباشر القائم على التوقع وحده موجبًا للمتنبّئات الثلاثة جميعًا، 0.1355 (فاصل ثقة 95% [0.0542، 0.2330]) للكفاءة الذاتية، فلم يكن التوقع يتنبّأ فقط بما إذا كان الطلاب سيستخدمون الأداة.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«بنى TAM تفسّر التبنّي.»** دمج [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] TAM مع UTAUT لطلاب الهندسة في بنغلاديش وفسّرا **64% من** التباين. كبير وناقص في الوقت نفسه: فنحو ثلث ما يحرّك التبنّي يقع خارج بنى القبول الكلاسيكية.
 - **«نماذج القبول لا تحتاج تعديلًا مجاليًا.»** إضافة **الاستقلال الاصطناعي المدرَك** — مدى استطاعة المعلّمين على تصوّرهم أن يحمل الذكاء الاصطناعي التوليدي مهمّة تعليمية مُعيَّنة على نحو مستقل — و**النفور من الخطر** إلى البنى الكلاسيكية غيّرت النموذج تغييرًا جوهريًا. فالبُنى الأصلية بُنيت لأدوات بلا فاعلية، والذكاء الاصطناعي التوليدي له فاعلية مدرَكة.
 - **«تقدير التبنّي من التحليل البَعدي يصف أي جماعة.»** [[teo-ai-adoption-tertiary-meta-analysis-2026|التحليل البَعدي لطلاب الجامعة]] هو التقدير على مستوى الجماعة؛ ونتيجة الهندسة التي فسّرت 64% جماعة محدّدة. فنقل أحدهما إلى الآخر يفترض ثباتًا لا تثبته الأدلّة.
-
-## مفاهيم مرتبطة
-
-- [[business-education]] — تعليم الأعمال
-- [[generative-ai]] — الذكاء الاصطناعي التوليدي
-- [[ai-literacy]] — ثقافة الذكاء الاصطناعي
-- [[student-experience]] — تجربة الطالب
-- [[higher-ed]] — التعليم العالي
-- [[critical-thinking]] — التفكير النقدي
-- [[ethics]] — الأخلاقيات
-- [[trust]] — الثقة
-- [[cognitive-offloading]] — الإزاحة المعرفية
-- [[self-determination-theory]] — نظرية تقرير المصير
-- [[research-methods-aied]] — طرائق البحث في التعليم بالذكاء الاصطناعي
-- [[student-modeling]] — نمذجة الطلاب
-- [[framing-ai-use-for-students]] — تأطير استخدام الذكاء الاصطناعي للطلاب
-
-## مقالات مرتبطة
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — معتقدات خاصة بالمادة موضوعة أعلى من إدراكات TAM
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — الذكاء الاصطناعي التوليدي كـ«عدوّ صديق»: الاستقلال الاصطناعي والنفور من الخطر يُوسّعان TAM للمعلّمين (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — خبرات التمريض في الذكاء الاصطناعي؛ امتداد نفسي اجتماعي لـTAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — شخصيات تبني الذكاء الاصطناعي التوليدي عبر التجميع العنقودي
-- [[tian-genai-learning-adoption-pathways-2026]] — مسارات متناظرة وغير متناظرة في تبني الذكاء الاصطناعي التوليدي (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — اندماج تفريقيّ بالذكاء الاصطناعي التوليدي بحسب الجنس والدافع
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — نموذج TOE + DOI لتبني الذكاء الاصطناعي التنظيمي في التعليم العالي
-- [[tam-critical-use-genai-engineering-2026]] — TAM موسّع بالاستخدام النقدي لطلاب الهندسة وعلوم الحاسوب
-- [[socio-cognitive-genai-adoption-engineering-2026]] — نموذج اجتماعي معرفي موحّد (TAM + UTAUT) لتعليم الهندسة
-- [[ai-anxiety-strategic-regulation-writing-2026]] — من قلق الذكاء الاصطناعي إلى التنظيم الاستراتيجي
-- [[genai-reliance-types-scale]] — سلّم أنواع الاعتماد على الذكاء الاصطناعي التوليدي
-- [[llm-reliance-types-undergrad]] — أنواع الاعتماد على النماذج اللغوية الكبيرة بين طلاب المرحلة الجامعية الأولى
-- [[acceptance-ai-english-tools-2026]] — قبول أدوات الذكاء الاصطناعي الإنجليزية
-- [[genai-chatgpt-adoption-ethics-students-2026]] — المحرّكات السلوكية والأخلاقية لتبني الطلاب لـChatGPT
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT ودافع المعلّم لروبوت المحادثة
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB لمعلّمي العلوم قبل الخدمة في غانا
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — ملامح قبول ChatGPT لدى المعلّمين قبل الخدمة (تحليل الملامح الكامنة)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — تحليل بَعدي لعوامل تبني الذكاء الاصطناعي؛ ينتقد TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — محدّدات استخدام ChatGPT المستقبلي في التعليم العالي بتعلّم الآلة/SHAP
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — UTAUT2 المعزّز بالذكاء الاصطناعي القابل للتفسير: العادة كأقوى متنبّئ، وأربعة ملامح تبنّي (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — نموذج PE/EE/اللهو/النية على مستوى الموادّ لأدلّة ثقافة ذكاء اصطناعي مدرسية بالفئات العمرية، مع تقاطع بنى موثّق بين اللهو والنية
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT مطويَّان في TAM/UTAUT2: آثار خطر خاصة بالأبعاد وغير رتيبة على المنافع المدرَكة للذكاء الاصطناعي التوليدي (Du, Ning, Shi & Chen 2026)
-- [[capability-decision-model-teacher-readiness-2026]] — بديل مرتّب لتثبيت قدرة TPACK على نماذج تبنّي نظرية السلوك المخطّط
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — ملامح TALIS 2024 المتمركزة حول الشخص لمنفعة الذكاء الاصطناعي وخاطره المدرَكين عبر 49 نظامًا
-- [[genai-learning-procrastination-planned-behavior-2026]] — امتداد TPB يقيس تسويف التعلّم المدعوم بالذكاء الاصطناعي التوليدي وتعديل قلق النية–التأخير
-
-- [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
-- [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
-- [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)
-

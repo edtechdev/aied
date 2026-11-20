@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -65,7 +67,6 @@ Mtindo wa kubuni unaotawala huweka marika katika kituo na kuongeza AI karibu nao
 
 Utekelezaji ule ule wa 2024 una andiko la pili linalosoma tafakari kwa jinsi wanafunzi walivyoeleza zana badala ya jinsi walivyopima maoni. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] waliweka kodi katika tafakari za marekebisho za sehemu 13 na kozi 10, na waligundua kuwa karibu nusu tu ya wanafunzi walichukua majukumu ya kibinadamu ambayo ilani ilitoa: kocha (28.6%) na mshirika (23.1%). Wengine walikimbilia zana au rasilimali (9.9%), marafiki au rika (7.7%), roboti au kompyuta (7.7%), au mifumo yao wenyewe. Waandishi wanasoma mpangilio huo kama hoja yenyewe: wanafunzi wanaweka chatbot pembezoni mwa ikolojia ya uandishi ambayo kituo chake ni mwanafunzi, rika na mkufunzi.
 
-
 Mtindo huo unajitangaza kwa uandishi wa kitaaluma. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] walitumia PAIRR katika kozi ya uandishi wa biashara ya ngazi ya juu ambapo kazi tano kubwa kila moja zilihitaji rasimu, uchanganuzi wa hadhira, ukaguzi wa marika na wanafunzi 2–3, na marekebisho (wanafunzi 34 kati ya 46 waliojisajili walishiriki; 69% wenye lugha nyingi). Wanafunzi walithamini maoni ya AI lakini wakati mwingine walihisi kuwa ya jumla kupita kiasi, na walithamini maarifa ya muktadha ya wanafunzi — "wanafunzi wangu waliiangalia kwa mtazamo wa mwajiri… ChatGPT haukufanya hivyo kwa kiwango kile." Robo moja ya tafakari zilizowekwa kodi katika utafiti mkubwa wa PAIRR zilieleza shaka kuhusu maoni ya AI au zilibainisha makosa, ambayo waandishi wanayasoma kama maendeleo ya ujuzi wa AI. Utafiti ni wa kuelezea na wa kozi mahususi.
 
 ## GenAI kama ngazi za msaada ndani ya maoni ya marika na tathmini ya kikundi
@@ -101,50 +102,3 @@ Maswali yaliyo wazi yanahusu nguvu ya ushahidi, si muundo tu. Ushahidi mwingi wa
 - **"Ukaguzi wa rika ni mbadala wa bei nafuu wa maoni ya mkufunzi."** [[learning-by-teaching|Kujifunza kwa kufundisha]] ndio mitambo, na huonekana hata miongoni mwa mashine: mazungumzo yanayofanana na kujifunza kwa rika miongoni mwa **mawakala wa AI zaidi ya milioni 2.4** yalikuwa zaidi **madai badala ya uchunguzi**. Kuzalisha uhakiki ni kitendo tofauti na kuupokea.
 
 - **Fomu za tafakari za rika na binafsi kama rekodi nyuma ya alama ya kikundi.** [[issa-teamwork-framework-academic-integrity-2024|Issa na Hall (2024)]] walitumia fomu moja ya tafakari ya rika kwa kila mwenza pamoja na fomu moja ya tafakari binafsi kwa kila mwanafunzi katika kitengo cha shahada ya uzamili cha Usimamizi wa Miradi ya Biashara, pamoja na mkutano wa dakika 30 na kila timu ambapo wanachama waliulizwa kama mchango wao ulikuwa wa awali. Fomu hazikupimwa kama ubadilishanaji wa maoni. Zilikuwa ushahidi wa kila mtu ulioruhusu mkufunzi kutetea alama ya mtu binafsi ndani ya tathmini ya timu ya 40%. Kupanda kwa alama kwa mfumo kutoka 27/40 hadi 31/40 kunachanganywa na mhadhiri mpya na dai lake la uadilifu halijapimwa kwa kiasi, hivyo sehemu inayoweza kuhamishwa ni muundo wa utunzaji wa kumbukumbu, si ukubwa wa athari.
-
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — PAIRR na maoni ya pamoja ya marika-na-AI: mlolongo na ushahidi wao wa kulinganisha
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Makala Zilizounganishwa
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Maoni ya pamoja ya AI-na-marika yalipandisha vipimo vyote vitatu vya ushirikiano na vipimo vyote vinne vya uandishi wa IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — Kulinganisha upimaji wa ChatGPT, marika, na mwalimu katika viwango vya ubora wa mradi (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — Mifumo ya Maoni ya Marika ya AI
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR katika kozi ya uandishi wa biashara: ukaguzi wa marika, maoni ya chatbot, tafakari (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI dhidi ya wanafunzi wa kibinadamu kwa ngazi za msaada za maoni ya kujidhibiti na ujuzi wa maoni (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI kama Kocha na Muundaji katika maoni ya marika ya EFL kuhusu kuzungumza (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Jaribio la maeneo mengi linalolinganisha maoni ya marika peke yake, ya moja kwa moja, ya kutafakari, na ya mchanganyiko ya GenAI (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Maoni ya marika ya GenAI yaliyopatiwa ngazi za msaada za ilani katika hoja za ushirikiano (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Wakala katika tathmini ya kikundi inayoendeshwa na GenAI: ushirikiano, kuzuia, kutotekeleza (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Mahojiano ya mdomo ya ukaguzi wa kanuni kama kupunguza madhara ya GenAI katika CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Mafunzo otomatiki ya uwasilishaji ya modaliti nyingi kama njia mbadala inayoweza kupanuliwa ya maoni ya marika (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Muhtasari wa majadiliano uliotengenezwa na AI unapanua mfiko wa marika katika vikao vya mtandaoni (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Ushawishi wa marika na uaminifu wa mahusiano katika ufichuli wa GenAI wa wanafunzi (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Mapitio ya kimfumo ya LLM kwa ufikiri mahususi, kazi ya timu, na utatuzi wa matatizo (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Mazungumzo yanayofanana na kujifunza kwa marika kati ya mawakala milioni 2.4 wa AI (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Ukaguzi wa meta-analysis 14 za AIED na masudio 59 ya msingi (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Maoni ya mwalimu dhidi ya maoni ya marika yanayosaidiwa na AI katika uandishi wa L2: wingi, lengo, na mwelekeo wa kuboresha katika kazi mbili (Tang, Li & Luo 2026)
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — Fomu za tafakari binafsi/za rika kama ushahidi wa kila mtu nyuma ya alama ya kikundi (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Msamiati wa majukumu kutoka wanafunzi 654: kocha 28.6%, mshirika 23.1%, zana 9.9%, roboti 7.7%
-

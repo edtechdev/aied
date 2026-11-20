@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -92,52 +94,3 @@ AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。�
 - **"AI 反馈直接提升批判性思维。"** 在 **421 名中国本科生**中，GenAI 使用与[[self-report-measures|自陈]]批判性思维的关联**经由反馈素养传递**。素养是中介，因此只增加 AI 反馈而不建设阅读它的能力的干预，针对的是错误的项。
 - **"素养是前提，而不是结果。"** 一项对 **399 名中国本科生**的**三波随机截距面板**发现，AI 反馈素养预测**之后**的能动性投入（**β = 0.222**），因此这个循环是双向的。它是动态的，而不是一次通过的关卡。
 - **"可操作性才是让反馈改变写作的东西。"** 在**两个各 48 名学生的完整班级**的三个写作、反馈、修改循环中，**理解**才是承载修改收益的维度。学生无法解析的反馈，不会因为变得更可操作而改善。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 这些序列内置到工作流中的批判性评价步骤
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## 关联文章
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 反馈素养与能动性投入：一项三波随机截距面板（Xu 2026）
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — 生成按评分标准分级的作业样本来教授反馈素养（Pennington & Hock 2026）
-- [[ai-peer-feedback-stem-teacher-education-2026]] — 选择性采纳而无产物改善：反馈的转化差距（Oh 2026）
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 没有教师框架的 AI 反馈提高了反馈素养的门槛（Brunnström & Palmqvist 2026）
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — 反馈素养调节 AI 反馈对自我调节学习的作用（Mendoza 等人 2026）
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 反馈素养预测 AI 增强写作中的作文成绩（Hawkins 等人 2026）
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI 反馈素养量表与采纳预测（Liu & Deris 2025）
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI 作为反馈投入框架的使能者（Zhan, Boud, Dawson & Yan 2025）
-- [[rethinking-ai-writing-feedback-literacy]] — AI 辅助写作的反馈素养脚本与校准训练（Dai 2026）
-- [[feedback-literacy-scripts-eap-writing]] — EAP 写作修改中的反馈素养脚本与第二评定者（Yao 2026）
-- [[tubino-adachi-ai-automated-feedback-literacy]] — 用于发展反馈素养的 AI 自动化反馈工具（Tubino & Adachi 2025）
-- [[irwin-muller-efl-peer-feedback-literacy]] — 在 EFL 同伴反馈中定位 GenAI 以训练反馈素养（Irwin & Muller 2026）
-- [[scaffolding-srl-feedback-genai-human-peers]] — 搭建自我调节式反馈：GenAI 对人类同伴（Gu, Chen & Yan 2026）
-- [[jin-genai-learning-analytics-feedback-literacy]] — 反馈中的 GenAI 学习分析：反馈素养视角（Jin 等人 2025）
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI 评估同时建立心理、反馈与 AI 素养（Richmond & Nicholls 2025）
-- [[learner-centered-feedback-ai]] — 教师对 AI 以学习者为中心的反馈的实践与认知
-- [[care-full-feedback-genai]] — 用 GenAI 做关怀式反馈设计
-- [[ai-generated-feedback-higher-ed]] — 高等教育中的 AI 生成反馈
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI 重塑反馈生态系统中学生、教育者、同伴与材料之间的关系（Bearman 等人 2026）
-- [[ai-feedback-critical-thinking-writing-2026]] — 写作中的 AI 反馈与批判性思维
-- [[repeated-ai-writing-feedback-semester]] — 一学期内反复的 AI 写作反馈
-- [[student-perspectives-ai-writing-grading-2026]] — 《谁来给我的作业打分？》：高等教育中透明化 AI 辅助写作考评的学生视角
-- [[genai-use-critical-thinking-moderation-2026]] — 从 GenAI 使用到批判性思维经由 GenAI 反馈素养传递，并随反思性思维增强
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 承载修改收益的是理解，而非可操作性
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 在同一个反思任务中评价同一份草稿上的同伴反馈与聊天机器人反馈
-

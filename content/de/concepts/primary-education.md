@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -138,32 +140,3 @@ Die Primarstufe ist Teil von [[k-12]] und erbt dessen [[educational-policy-ai|bi
 - **„Kinder begegnen Chatbots mit gesunder Skepsis.“** In der oben genannten Studie entstand Vertrauen schnell: Eine Mehrheit akzeptierte die Antworten des Systems, und mehr als ein Drittel behandelte es wie eine Lehrkraft oder einen Freund.
 
 - **„Junge Kinder erhalten eine leichtere Version desselben KI-Kompetenz-Lehrplans.“** Was sich über die Altersstufen hinweg verschiebt, ist die Art der Aufgabe, nicht ihre Schwierigkeit: früh Geschichten und eigenes Herstellen, später Kritik und Rechenschaft.
-
-## Verbundene Konzepte
-
-- [[developmental-psychology]] — warum das Alter verändert, was eine Aufgabe verlangen kann, nicht nur, wie schwer sie ist
-- [[math-education]] — das Fach mit den meisten KI-Studien in der Primarstufe und den meisten Nullergebnissen
-- [[reading-education]] — Leseflüssigkeit, Dekodierung und Dosiseffekte in den frühen Klassenstufen
-- [[writing-education]] — automatisiertes Feedback, Überarbeitung und die Grenzen der Bewertung mit Rubrics
-- [[digital-divide]] — Lücken bei Geräten, Konnektivität und Kompetenzen, die entscheiden, wer profitiert
-- [[equity-in-ai-education]] — unterschiedliche Effekte nach Einkommen, Sprachstatus und Ländlichkeit
-- [[teacher-role]] — Orchestrierung, Vermittlung und die Arbeit, die KI dem Alltag einer Lehrkraft hinzufügt
-- [[curriculum-design]] — KI-Kompetenz über Jahrgänge hinweg sequenzieren, statt ein Modul hinzuzufügen
-- [[privacy]] — Kinderdaten, Aufbewahrung und architektonischer statt vertraglicher Schutz
-- [[assessment]] — was als Evidenz gilt, dass ein Grundschulkind etwas hinzugelernt hat
-
-## Verbundene Artikel
-
-- [[ai-elementary-language-education-review-2026]] — 31 Studien zu KI im Sprachunterricht der Grundschule, konzentriert auf Sprechen, Literalität und Wortschatz
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 K-12-Studien, geordnet im Entwicklungsrahmenwerk PACES
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — 16 Interventionen, die KI selbst unterrichten, gepoolt bei g = 0,892
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 Primärstudien; KI-Kompetenz als vier ungleich unterrichtete Stränge, meist per Fragebogen erfasst
-- [[barokah-ai-elementary-science-review-2026]] — 103 Publikationen, die fünf Anwendungscluster im naturwissenschaftlichen Grundschulunterricht kartieren; epistemische Ergebnisse dünn
-- [[karampa-students-game-designers-ai-literacy-2026]] — 22 Schülerinnen und Schüler bauen ein Escape Game zu Fehlinformationen; KI-Kompetenz steigt von 3,684 auf 4,309
-- [[llm-comparative-judgment-writing-screening-2026]] — 1.208 Schülerinnen und Schüler der Klassen 3 bis 6, LLM-Bewertung im Paarvergleich
-- [[melo-llm-classroom-observation-teach-2026]] — 8.618 KI-Bewertungen im Vergleich mit Experteneinschätzungen nach TEACH Primary
-- [[age-tiered-ai-literacy-guidebooks-2026]] — altersgestufte Handreichungen, 831 Teilnehmende; Akzeptanz ist nicht Lernen
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Sechs- und Siebenjährige zeigen schwächere frontoparietale Konnektivität als Erwachsene
-- [[tutor-case-bench-challenging-behaviors-2026]] — 923 dokumentierte Fälle; das beste Modell trifft in 55,8 % der Fälle eine dokumentierte Reaktion
-- [[llm-simulating-student-scientific-thinking-2026]] — simulierte Schülerideen weichen in den Grundschulklassen am stärksten von realen ab
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Agenten halten Ton und Ablauf; Pädagoginnen und Pädagogen führen bei der Reflexion

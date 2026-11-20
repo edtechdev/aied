@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,45 +70,8 @@ Le bilan de la mise à l'échelle fait partie de ce tableau, et il est sobre. Le
 
 L'accès peut se saturer avant la capacité : chez 633 étudiants de huit universités béninoises, 92,3 pour cent utilisaient l'IA générative chaque semaine et la charge de travail, plutôt que l'utilité perçue, déterminait l'adoption, si bien que la fracture ne porte plus principalement sur l'accès à l'outil ([[gouroubera-genai-benin-2026|Gouroubera et coll., 2026]]).
 
-
 ## Idées fausses courantes
 
 - **« Les contextes à faibles ressources manquent d'un cadre d'éthique de l'IA et doivent en importer un. »** Des enseignants STEAM du secondaire en exercice dans un contexte à faibles ressources **raisonnent l'éthique de l'IA à travers leur identité professionnelle, les réalités de la classe et les normes culturelles plutôt que par des principes formels**. Le raisonnement existe et il est situé ; une liste de principes universels s'y transfère mal.
 - **« Le type de gouvernance prédit l'intégration de l'IA dans les universités. »** Une analyse de contenu comparative de **45 universités nigériannes** (fédérales, d'État et privées) a trouvé que l'intégration de l'IA était prédite par **l'âge et la localisation géographique de l'institution — et non par le type de gouvernance**. L'hypothèse d'une divergence entre établissements publics et privés est contredite.
 - **« La fracture numérique est le principal obstacle. »** Une étude de cas [[qualitative-research|qualitative]] portant sur **21 étudiants de premier cycle malvoyants dans trois universités palestiniennes** a trouvé que l'IA générative franchit simultanément les barrières **numériques, géographiques et socioéconomiques**. Les barrières sont stratifiées, et traiter l'accès comme l'obstacle unique laisse les autres intactes.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Articles liés
-
-- [[genai-assessment-african-higher-education-review-2026]] — Repenser l'évaluation à l'ère de l'IA générative : une revue systématique de la littérature sur l'enseignement supérieur africain
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[genai-minoritized-knowledges-disability]] — Marginalisation des savoirs minorisés
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturellement sensible propulsé par l'IA pour la détection du stress et le soutien au bien-être chez des étudiants pakistanais, par TAL et apprentissage automatique
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Borner la prétention d'apprentissage du pilote de tutorat par IA au Salvador (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les développeurs pédagogiques comme médiateurs numériques dans les établissements sud-africains historiquement défavorisés : inégalité numérique contre colonialité algorithmique
-- [[ai-ethical-awareness-ghana-students-2026]] — La conscience éthique de l'intelligence artificielle chez les étudiants universitaires ghanéens
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Principes éthiques de l'IA en éducation : le raisonnement éthique contextualisé des enseignants
-
-- [[gouroubera-genai-benin-2026]] — 633 étudiants au Bénin : 92,3 pour cent d'usage hebdomadaire, la charge de travail comme moteur dominant, l'accès n'étant plus la contrainte déterminante (Gouroubera et coll. 2026)
-

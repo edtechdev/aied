@@ -16,6 +16,8 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 > **Synthesis:** Automation bias is the human failure mode that makes an AI-assisted decision wrong even when the system is right. People accept an automated recommendation they would have questioned had they reached the same conclusion themselves, and they stop looking for the evidence that would have contradicted it. In education the decisive judgments are already automated at several points — scores, readiness flags, proctoring verdicts, ground-truth labels, hints — so the bias attaches to whoever signs off on the output. It is less a personality trait than a property of a workflow: it appears where verification is optional, where the output is fluent, and where the checker pays a price for doubting.
@@ -117,46 +119,3 @@ A different bias sits in the output rather than the user. In Esmeraldas, Ecuador
 - **"A human in the loop fixes it."** The loop is only as good as the opportunity to intervene, and the scoring studies have not measured anchoring.
 - **"It is a student problem."** Teachers, raters, annotators and administrators are the sign-offs in every design the literature describes.
 - **"It is a character flaw that better training removes."** Training helps, but the same person behaves differently depending on whether verification is cheap, whether the output is fluent, and whether disagreement carries a cost.
-
-## Connected Concepts
-
-- [[trust-calibration]] — the reliance state whose failure automation bias names
-- [[bias-mitigation]] — the system-side counterpart: bias inside the model
-- [[cognitive-offloading]] — delegation of mental work, of which unchecked acceptance is one outcome
-- [[human-in-the-loop-ai]] — the safeguard whose strength this failure decides
-- [[explainable-ai]] — the transparency intervention the field proposes and rarely tests
-- [[learning-analytics]] — dashboards and early alerts, where omission errors concentrate
-- [[recommender-systems-and-learning-paths]] — ranking what to do next, which a student can simply follow
-- [[automated-assessment]] — the score a human may accept without re-reading
-- [[scaffolding]] — checks that stay cheaper than acceptance
-- [[self-efficacy]] — the trait the standard prediction rests on
-- [[ai-detection]] — detection judged by humans under time pressure
-- [[remote-proctoring]] — suspicion raised by a model and adjudicated by a person
-- [[ai-literacy]] — where verification as a graded skill would live
-
-## Connected Articles
-
-- [[shi-human-ai-complementarity-safety-2026]] — 416 raters, 3,957 items: candidate-first assistance cut error-catching on model-wrong items from 36.7% to 20.6% (Shi et al., 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — teachers warned against deferring to recommendations built on thin data
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — names rater anchoring by AI scores as the untested risk and proposes blinding
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — dashboards, surface-feature feedback and traffic lights as the general pattern
-- [[factria-responsible-institutional-analytics-2026]] — eleven stakeholders, four cases, a chatbot that declines to recommend
-- [[ludia-udl-ai-thought-partner-2026]] — the educator safeguard weakened by trusting the tool's domain knowledge
-- [[extended-minds-coupling-flexibility-2026]] — a formal right to reject is not supervision if automation bias defeats it
-- [[ground-truth-reliability-aied]] — LLM annotation, circular validation and silent label drift
-- [[polished-artifacts-fragile-engagement-2026]] — automation bias as the social-cognitive strand of reduced epistemic effort
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — one of four failure modes in recursive human-AI work
-- [[eight-mode-ai-engagement-typology-2026]] — the Oracle mode and its characteristic risk
-- [[assessing-student-drive-framework-2025]] — active human agency as a safeguard against automation bias
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 studies on whether AI displaces extraneous or constitutive work
-- [[geoscience-field-learning-genai-2026]] — anchoring, confirmation and automation bias in evidence-bound fieldwork
-- [[ahmadfard-interactive-oer-review-2026]] — automation bias listed among risks that erode learner and teacher agency
-- [[alshahrani-health-sciences-ai-use-2026]] — 310 students' ethical concerns read as a case for explicit training
-- [[ai-literacy-legal-translation-2026]] — post-editing taught as a graded skill against illusion-of-quality pressures
-- [[morales-cevallos-ai-forensic-science-education-2026]] — automation bias documented in the reviewed forensic-AI studies
-- [[rana-genai-design-thinking-2025]] — scaffolds that keep human judgment at the center
-- [[kim-overtrust-ai-literacy-2026]] — the prediction reversed: confident students trusted the tool more
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — a framework built on automation-bias research, not a test of it
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — one of three mechanisms eroding critical citizenship
-- [[academic-erasure-complexity-ai-writing-2026]] — automation bias inside the affective labor of policing AI use
-- [[llm-fallacy-misattribution]] — the nearest distinction: over-reliance on a system versus perceived personal competence

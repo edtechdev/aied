@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/vibes-diy
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -47,8 +48,3 @@ Descrivi un'app, continua a parlarle per rivederla e scegli se resta privata, è
 ## Note e avvertenze
 
 La piattaforma ha un piano gratuito, ma è basato sui crediti: gli account ricevono 1.000 crediti di IA al mese, e la costruzione, la modifica, la generazione di immagini e le funzioni di IA all'interno dell'app li consumano tutti. Un abbonamento aggiunge la possibilità di acquistare altri crediti, che non scadono. Qualsiasi corso intenda affidarsi alla piattaforma dovrebbe verificare i termini attuali, dato che l'uso gratuito è misurato anziché illimitato, e dovrebbe trattare le app create dagli studenti come contenuti che pongono proprie domande sulla gestione dei dati.
-
-## Concetti collegati
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

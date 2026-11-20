@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -43,7 +44,3 @@ Projektet publicerar också en **[undervisningsagent](https://github.com/LiaScri
 ## Anteckningar och förbehåll
 
 LiaScript är gratis, utan betalnivå och utan kontokrav, och utvecklas öppet under BSD-3-Clause, så lärosäten kan självhosta och ändra det. Funktionen Live Classroom förtjänar en titt innan du förlitar dig på den i stor skala, eftersom realtidssynkroniseringen använder en delad tjänst snarare än enbart lokal rendering. Undervisningsagenten är ung och lite använd, så behandla den som en fungerande prototyp snarare än en produktsatt tjänst.
-
-## Anslutna begrepp
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]

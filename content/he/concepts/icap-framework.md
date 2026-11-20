@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -101,27 +103,3 @@ ICAP מהווה בסיס לביקורת על מדדי 'מעורבות' שטחי�
 **"חונך AI מייצר אוטומטית מעורבות אינטראקטיבית משום שהוא מנהל שיחה."** שיחה היא המדיום ולא המצב. דיאלוג שבו המערכת מספקת כל תרומה מהותית הוא פסיבי עבור הלומד שלובש ממשק אינטראקטיבי — אותה טעות שמתועדת ב[[student-engagement|ספרות המעורבות]] בין פעילות התנהגותית להשקעה קוגניטיבית.
 
 **"מצבי ICAP גבוהים יותר תמיד טובים יותר."** הם עולים יותר, והסדר עוסק בלמידה ליחידת עיבוד רלוונטית ולא במה ששיעור צריך תמיד לשאוף אליו. שוטפות יסודית עשויה לדרוש חזרה אקטיבית לפני שעבודה קונסטרוקטיבית אפשרית; השגיאה היא להתיישב שם, לא לעבור דרכו.
-
-## מושגים מחוברים
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## מאמרים מחוברים
-
-- [[icap-cognitive-engagement-llm-agents]] — מסגרת ICAP מורחבת למדידת מעורבות עם תיוג אנושי לעומת תיוג LLM
-- [[hingle-collaborative-ai-literacy-2025]] — אוריינות AI שיתופית לאורך ארבעת מצבי ICAP
-- [[interactive-learning-dashboards-engagement]] — ICAP כביקורת על מעורבות שטחית באנליטיקת למידה
-- [[multimodal-learning-genai]] — ICAP ומעורבות קוגניטיבית בעיצוב למידה רב-מודאלית
-- [[llm-facilitation-timing-online-discussions]] — תזמון סיוע LLM בדיונים שיתופיים מקוונים
-- [[adaptive-scaffolding-cognitive-engagement-its]] — פיגום ICAP אדפטיבי במערכת ITS (BKT מול DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — מודל עומק קוגניטיבי ICAP בסוכן יצרני לסימולציית סטודנטים
-- [[assessing-student-drive-framework-2025]] — הערכה מעוגנת ICAP של אינטראקציה רפלקסיבית עם בינה מלאכותית יוצרת

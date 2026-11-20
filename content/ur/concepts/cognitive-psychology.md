@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -82,38 +84,3 @@ Mayer کا کثیرالوسائط سیکھنے کا علمی نظریہ (CTML) �
 - **"ذہنی نمائندگیاں ناقابلِ مشاہدہ ہیں، لہٰذا سیکھنے کے بارے میں علمی دعوے محض مفروضے ہیں۔"** سائنس ویڈیوز کے دوران سیکھنے والوں کے **EEG** سے تصاویر دوبارہ بنانے پر پایا گیا کہ **نمائندگی کی وفاداری امتحان کی کارکردگی کا سراغ لگاتی ہے** (regression coefficient **0.8481، R² = 0.79**)۔ اندرونی نمائندگی کا علمی مفروضہ قابلِ پیمائش ہے، اور اُس پیمائش نے نتیجے کی پیش گوئی کی۔
 - **"زیادہ R² کا مطلب ہے کہ نمائندگی سیکھنے کی وضاحت کرتی ہے۔"** R² = 0.79 اُسی مواد پر وفاداری اور کارکردگی کے درمیان ایک مضبوط تعلق ہے۔ یہ ثابت نہیں کرتا کہ وفاداری بڑھانے سے کارکردگی بڑھتی ہے، اور یہی مداخلت کا دعوی ہے۔
 - **"علمی اجزاء محض ماڈلنگ کی سہولت بخش افسانہ ہیں۔"** قابلِ تقسیم ہونا ہی [[knowledge-tracing]] اور [[cognitive-diagnosis]] کو ممکن بناتا ہے، اور یہ طریقے اُس حد تک کام کرتے ہیں جس حد تک یہ مفروضہ درست ہے۔ اِسے افسانہ سمجھنا اُس وجہ کو ضائع کر دیتا ہے کہ طریقے قابلِ استعمال اندازے کیوں دیتے ہیں — جبکہ اِسے حقیقت سمجھنا اِس بات کو بڑھا چڑھا کر پیش کرتا ہے کہ فٹ کیا گیا ماڈل کسی ذہن کے بارے میں کیا بتاتا ہے۔
-
-## منسلک تصورات
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — وہ یادداشت کی دریافتیں جن پر یہ عملی خاندان ٹکا ہے
-
-## منسلک مضامین
-
-- [[sim-ai-summary-memory-distortion-2026]] — گمراہ کن AI خلاصے بالغوں کی یادداشت بدل دیتے ہیں، چاہے خلاصہ AI کا لکھا ہوا کہا جائے یا انسانی
-
-- [[cognitive-shift-ai-education]] — AI تعلیم میں علمی تبدیلی
-- [[cogtax-cognitive-taxonomy]] — AI کے استعمال کے لیے ایک علمی درجہ بندی
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — نالج ٹریسنگ پر ٹکے تدریسی LLM ایجنٹ
-- [[nie-personavlm-long-term-personalization-2026]] — LLM سے طلبہ کی ماڈلنگ اور یادداشت
-- [[ai-cognitive-partner-co-regulation-learning]] — ہم ضابطہ سیکھنے میں AI بطور علمی ساتھی
-- [[ensemble-cognition-philosophy-ai-education]] — مجموعی ادراک: سوچ بطور انسانی–AI تعامل
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — کوشش کی منظم ترتیب، نہ کہ مقدار، بوجھ اور مایوسی کا سراغ لگاتی ہے
-- [[crediting-assisted-work-inflates-mastery-2026]] — نالج ٹریسنگ سے مہارت کے دعوے اِس بات پر منحصر ہیں کہ مدد یافتہ کام کو کیسے کریڈٹ کیا جاتا ہے (Srivastava 2026)

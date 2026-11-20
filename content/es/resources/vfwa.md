@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -47,11 +48,3 @@ Para responsables de programas y módulos en educación superior que todavía qu
 El modelo no se ha evaluado a gran escala. El artículo afirma con claridad que todavía no existe muestra, instrumento ni resultado medido, y que hacen falta pilotos para comprobar si los artefactos de la etapa 1 aumentan la confianza de quien evalúa o la consistencia interpretativa, si el estudiantado percibe el diseño como más justo y cómo fija una disciplina un umbral de suficiencia sin convertir la etapa 1 en un segundo examen.
 
 Dos costes prácticos son reales. La etapa 1 exige sesiones observadas y captura segura a gran escala, y la grabación multilingüe y la traducción son requisitos previos, no extras. Y el juicio interpretativo se deja deliberadamente en manos de quienes corrigen: el modelo presupone una experiencia disciplinar que no puede automatizarse, lo que es tanto una suposición de personal como de diseño.
-
-## Conceptos conectados
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

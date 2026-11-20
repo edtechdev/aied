@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -92,37 +94,3 @@ ai_assist:
 **"비서구 철학은 변하지 않은 틀에 더해지는 콘텐츠다."** 그것은 다른 토대의 원천일 수 있습니다. 한 재구성은 도가 개념, 즉 "도성(道性)", 수련(修道), "진인(真人)"을 서구 틀에 덧붙인 "동양 콘텐츠"가 아니라 AI 교육을 이해하는 개념적 토대를 재구성하는 자원으로 다룹니다. 전통을 예시로 더하는 것과 그것으로 질문을 재구성하는 것은 다른 학술적 행위입니다.
 
 **"철학적 비판은 실행 불가능하다."** 그것은 무엇이 성공으로 간주되는지를 정합니다. 시스템의 산출물이 학습자의 성취인지, 측정된 이득이 교육적 선인지는 어떤 효과 크기도 답할 수 없는 선행 질문이며, 그것을 건너뛰는 기관은 측정 가능한 것을 최적화하고 그것을 개선이라 부를 것입니다.
-
-## 연결된 개념
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — 화학교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
-
-## 연결된 문서
-
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — '인간 중심' AIED를 상업적 용도를 지닌 인간중심주의 담론으로 읽기 (Wang & Jin 2026)
-- [[genai-chinese-higher-education-integrity-2026]] — 중국 고등교육에서의 생성형 AI: 진실성과 참여
-- [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 인간–AI 인지를 위한 철학적 틀
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 교수법적 공생과 포스트휴먼 학습자
-- [[videla-embodied-ai-education-choreography]] — 교육에서의 탈신체 AI에 대한 구현화·후인지주의 비판
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 인문학에서 해석적 인지의 발달-비판 모형
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 기계와의 학습에서 인식론적 공동 자율성의 철학으로서
-- [[avraamidou-ai-colonization-science-education]] — AI의 교육 식민화에 의문을 제기하는 비판적-페미니스트 철학
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개의 주체로서의 생성형 AI
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI의 생태학적 학습과학 틀짓기
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI와 함께하는 화학에서의 실험의 철학
-- [[strydom-human-gai-paradigms-2026]] — 인간-AI 역학 틀짓기: 일곱 가지 GAI 관여 패러다임(Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행위하는가, 누가 아는가, 누가 답하는가? 생성형 AI 고등교육 연구에서의 자율성, 인식론적 책임, 책무성에 대한 말뭉치 지원 담화 분석
-
-- [[khan-machines-emotional-labor-education-2026]] — 기계는 정서 노동을 수행할 수 있는가? 1950–1996년 논쟁, 그리고 모방이 돌봄을 충분히 결정하지 못하는 이유
-

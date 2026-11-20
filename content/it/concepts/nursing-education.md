@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -84,7 +86,6 @@ Il campo affina anche tre concetti adiacenti. Dalla [[simulation|simulazione]] e
 - **I modelli di rischio calibrati su un'altra disciplina segnalano questa quasi ovunque.** [[federated-learning-at-risk-student-prediction-2026|Kovor et al. (2026)]] hanno esaminato la previsione del rischio che preserva la privacy tra partizioni di disciplina di programma, e l'illustrazione degli stessi autori è che un programma infermieristico potrebbe girare al 30-35% di rischio mentre un programma di medicina concorrente gira al 15-18%. La regressione logistica federata manteneva il 99,3-99,9% della performance centralizzata, quindi la barriera alla modellazione tra programmi è organizzativa anziché statistica, ma la stessa dispersione significa che una soglia importata fallisce. Il loro risultato che l'attività sul forum si classificava ultima in ogni disciplina è attribuito ai tirocini clinici, dove l'apprendimento tra pari avviene di persona.
 - **Le indagini sull'uso dell'IA da parte degli studenti riportano una correlazione e la chiamano meccanismo.** [[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]] hanno intervistato 1.020 studenti di infermieristica in un'istituzione, il 98,8% dei quali usava già l'IA generativa per il corso, e hanno trovato l'[[student-ai-interaction|interazione con l'IA]] associata all'interazione educativa (r = 0,378) con l'[[self-regulated-learning|apprendimento autoregolato]] come predittore più forte (beta = 0,520). Il modello strutturale è giusto-identificato, quindi riproduce i dati per costruzione e non può ordinare le tre variabili, e la scala di interazione conta frequenza e una norma tra pari anziché ciò che uno studente fa con il modello.
 
-
 ## Idee sbagliate comuni
 
 **"La simulazione assistita dall'IA migliora la competenza infermieristica su tutta la linea."** Il beneficio si ferma a un confine documentato. La simulazione assistita dall'IA migliora in modo affidabile la conoscenza e l'[[self-efficacy|autoefficacia]] ma mostra **effetti incoerenti, talvolta negativi, sull'abilità psicomotoria complessa** — e la competenza psicomotoria non è un esito periferico in una professione che la definisce. Un programma che adotta la simulazione sulla forza dei guadagni di conoscenza ha evidenza per un esito diverso da quello che l'esame di abilitazione misura.
@@ -96,7 +97,6 @@ Il campo affina anche tre concetti adiacenti. Dalla [[simulation|simulazione]] e
 **"Qualsiasi studio sulla simulazione si generalizza alla pratica clinica."** La base di evidenze qui esaminata — **19 studi, N = 1.253, per lo più studenti in formazione iniziale** — è in gran parte d'aula e di laboratorio, e il trasferimento dalla competenza simulata alla pratica supervisionata è esattamente il passo che una simulazione assistita dall'IA non prova di per sé.
 
 **"La competenza sull'IA per l'infermieristica significa maneggiare gli strumenti, quindi la formazione dovrebbe partire da essi."** La letteratura sui framework va nella direzione opposta. Le dimensioni che i revisori hanno trovato costantemente affrontate sono la conoscenza etica, la responsabilità, le competenze applicative e valutative; l'uso tecnico e operativo è dove il campo ha meno da dire. Un programma che compra prima le licenze degli strumenti sta costruendo la parte della mappa con le evidenze più sottili, e i framework nominati che potrebbe adottare al posto di un curriculum, N.U.R.S.E.S., AI-ABCs e CARE, sono precisamente quelli privi di metodi di valutazione.
-
 
 ## Implicazioni per la pratica
 
@@ -113,59 +113,9 @@ Il campo affina anche tre concetti adiacenti. Dalla [[simulation|simulazione]] e
 - Tratta la prontezza come una distribuzione e mira all'estremo inferiore, poiché un mandato senza formazione e supporto alla connettività riproduce il divario che dovrebbe chiudere.
 - Co-progetta le analitiche con le persone che descrivono: in un caso pubblicato, docenti e studenti di infermieristica hanno costruito insieme una dashboard di learning analytics basata sull'IA mentre gli educatori mantenevano la responsabilità dei giudizi che informava ([[aalhe-ai-co-designer-feedback-partner-2026]]).
 
-
 - Riporta separatamente gli esiti psicomotori e quelli di conoscenza, poiché in questa letteratura divergono.
 - Progetta prima per i ruoli di strumento e di feedback; l'inquadramento dell'agente come membro del team non è ciò che i discenti hanno chiesto.
 
 **Per i ricercatori**
 
 - Riporta separatamente i campioni di studenti in formazione iniziale e di infermieri in esercizio, e studia il passaggio alla pratica supervisionata se l'affermazione di competenza deve significare qualcosa clinicamente.
-
-## Concetti collegati
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Articoli collegati
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematic review of AI in nursing education (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences through the TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI perceptions and career anxiety among health sciences students
-- [[genai-counter-learner-groupthink-2025]] — Generative AI to counter groupthink in interprofessional PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Nursing academics on GenAI: policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity, and a deterrence case built on perception
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Applications, attitudes and ethics in nursing education: a 103-study scoping review (Hardie et al. 2026)
-
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Learners’ experiences of generative artificial intelligence-supported simulation and skills training in nursing education: a meta-synthesis
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping review mapping AI competency frameworks onto 12 KAS sub-dimensions for nursing curricula
-
-- [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
-
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Umbrella review of 18 reviews: ethics, curriculum transformation, and integration barriers
-
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Nursing students on the open secret of AI use: personalized learning, time, and the digital divide
-
-- [[agency-gap-ai-writing]] — RCT with medical and nursing students: reactive versus proactive agent design and the agency gap
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 nursing students: GenAI interaction, educational interaction, and a just-identified mediation model
-
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — A published reply to Rony et al.: institutional ecosystems, readiness, and AI oversight
-
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Faculty and students co-design a nursing education analytics dashboard
-
-- [[federated-learning-at-risk-student-prediction-2026]] — Privacy-preserving at-risk prediction across health-professions programs, and why an imported threshold misfires in nursing
-

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -76,32 +78,3 @@ A perspectiva do administrador se conecta à [[educational-policy-ai|política e
 - **"Números de adoção medem prontidão."** Uso declarado e uso governado são quantidades diferentes, e a evidência desta página as separa: as instituições relatam intenção estratégica em cerca da metade da população e capacidade de liderança em menos de um décimo. Uma pesquisa mostrando que a equipe usa IA informa o que as pessoas já fizeram sem permissão, não o que a instituição consegue apoiar ou supervisionar.
 - **"Compras são uma etapa administrativa."** Onde a capacidade é comprada em vez de construída, os termos contratuais decidem o que se torna possível depois — propriedade dos dados, acesso para auditoria e se a ferramenta pode ser avaliada de algum modo. Uma decisão de fornecedor tomada como tarefa de compras fecha questões de avaliação que a instituição ainda não fez.
 - **"A governança pode vir depois da adoção."** A afirmação de sequenciamento é comum e não tem apoio aqui: a evidência documenta o padrão oposto, com política e estruturas de liderança correndo atrás de um uso que já está acontecendo. Governança enquadrada como algo a construir após a implantação é governança construída a partir de uma posição de menor alavancagem.
-
-## Conceitos conectados
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (estudantes, professores, designers, administradores, formuladores de políticas)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — os processos institucionais que os administradores conduzem: orientação acadêmica, divulgação, encaminhamento e alocação
-
-## Artigos conectados
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — IA na liderança educacional: taxonomia abrangente
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Governança antecipatória e liderança para a IA
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — IA na política de ensino superior do Reino Unido e na tomada de decisão institucional
-- [[ai-campus-wellbeing-tools]] — Ferramentas movidas a IA para o bem-estar no campus
-- [[genai-policies-higher-ed-computing]] — Políticas institucionais de GenAI na computação
-- [[institutional-change-framework-ai]] — Framework de mudança institucional para a IA
-- [[edtech-privacy-deferral-2026]] — "Vamos consertar depois": Educação, IA e o adiamento da privacidade do estudante na EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — Uma peneira de compras em quatro perguntas, enquadrada como direitos dos estudantes e não como gestão de risco

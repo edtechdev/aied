@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,6 +43,3 @@ A legvilágosabb példa a `teach`, amely több munkameneten át fut, és a munka
 ## Amit a bevezetés előtt tudni kell
 
 Minden [[open-source|nyílt forráskódú]] MIT alatt, és szabadon elvihető kiindulópontként helyi [[ai-literacy|MI-írástudáshoz]] vagy [[self-directed-learning|önálló tanuláshoz]]. Az átvétel nagy és gyorsan mozog: körülbelül 270 000 csillag és 23 000 fork a 2026. szeptemberi ellenőrzéskor, a legutóbbi commit 2026. szeptember 18-án. A fenntartás a hatókör. A készségek egy [[human-ai-collaboration|mérnöki]] munkakontextust feltételeznek, mérnöki, produktivitási, elavult és folyamatban lévő vödrökbe rendeződnek, így néhány bejegyzés kimondottan befejezetlen vagy visszavont, a README pedig egyben hírlevél-feliratkozásként is szolgál. A tanító és kérdező készségeket kezelje átvihető részként, és számítson rá, hogy bármelyiket újra kell írnia, mielőtt diákok elé teszi.
-
-## Kapcsolódó fogalmak
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

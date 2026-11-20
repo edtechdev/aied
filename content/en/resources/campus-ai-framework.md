@@ -24,6 +24,7 @@ ai_assist:
     agent: hermes-agent
 connected_resources: [campus-ai-development]
 reviewed_by: [editor]
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 The Campus AI Framework is a higher-education-native operating model for AI strategy and
 governance, published by Joe Sabado. It sets out eight [[governance|governance]]-facing institutional pillars — from campus mission and
@@ -68,10 +69,3 @@ domains), [campusaioperations.com](https://campusaioperations.com/),
 as a shared Google document, which needs a Google account to open. A short optional onboarding question
 about role and institution appears on entry; email is optional and the whole site is readable without
 it.
-
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

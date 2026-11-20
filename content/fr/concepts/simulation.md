@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -86,49 +88,3 @@ Le cadre fonctionne comme un test plutôt que comme un catalogue. Trois question
 - **« La simulation est moins chère et donc de second ordre. »** Des sim-pilotes autonomes fondés sur un [[llm|LLM]] **remplacent les spécialistes humains qui tiennent les rôles dans les simulations de contrôle du trafic aérien, supprimant un goulot d'étranglement de capacité de formation** — la contrainte était l'effectif, non la fidélité. Là où les acteurs humains sont rares, la simulation par LLM n'est pas un substitut mais la seule option disponible.
 - **« Les simulateurs devraient se comporter comme des cas moyens. »** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et coll., 2026)]] associe un agent politique à des **simulateurs de patients LLM construits pour se comporter de manière adversariale**. Un simulateur conçu pour être coopératif rend la pratique de l'apprenant plus facile que la clinique, ce qui est l'inverse de ce dont la formation a besoin.
 - **« Des scénarios scriptés enseignent la prise de décision dans l'incertitude. »** Les agents contextuels multi-agents de SupplyNet génèrent une **dynamique émergente des décisions des apprenants plutôt que des séquences scriptées**. Un scénario scripté répète un chemin connu ; les scénarios émergents répètent la décision.
-
-## Concepts liés
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Enseignement de la chimie et IA : laboratoires, évaluation formative, limites des LLM, philosophie de l'expérimentation
-- [[biology-education]] — Enseignement de la biologie et IA : assistants de laboratoire, littératie en IA en biologie, pensée critique, outils spécialisés
-- [[ai-technologies]] — Ensemble : technologies et techniques d'IA (modèles, entraînement des LLM, robotique, RAG, agentic)
-- [[virtual-and-augmented-reality]] — le modèle, non la modalité — les environnements immersifs rendent généralement une simulation
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Articles liés
-
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — La simulation par IA et les patients virtuels dominent la formation au domaine affectif, avec des résultats le plus souvent auto-déclarés (Ismail & Zafira, 2026)
-- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — Revue de portée de 14 sources : les clients simulés dominent, la compétence des stagiaires n'est pas mesurée (Van Patten-Freeman & Rath 2026)
-- [[learner-agency-ai-simulation-2026]] — Contrôle des paramètres et agent d'IA optionnel dans une simulation de systèmes complexes : les gains suivaient la mise en acte, non l'accès
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Patients virtuels adaptatifs pour la formation en psychothérapie
-- [[ai-enabled-serious-games]] — Jeux sérieux dotés d'IA
-- [[anvil-ai-educational-animations]] — ANVIL : analogies et vidéos pour les enseignants
-- [[astra-atco-training-simulator]] — ASTRA : simulateur de formation des contrôleurs du trafic aérien
-- [[supplynet-visual-exploratory-learning]] — SupplyNet : apprentissage exploratoire visuel
-- [[medeasy-ai-standardized-patients]] — MedEASY : patients standardisés par l'IA
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Jeu de rôle médiatisé par des robots pour l'intervention des témoins (théâtre appliqué)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Revue systématique de l'IA générative dans la formation aux professions de santé par scénarios (Neto et coll. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Cadre CAIS-GBL pour des agents conversationnels d'IA dans les jeux de simulation de gestion (Wenzel et coll. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agents LLM affinés, propres à chaque participant, reproduisant des dialogues de résolution collaborative de problèmes (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Jeu d'épreuves synthétique ASTRA pour le tutorat multi-agents et la collaboration à participation équilibrée
-- [[simulation-assisted-drone-learning-stem-2026]] — Apprentissage par drones assisté par simulation avec étayages co-conçus par l'enseignant et l'IA
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — La simulation alimentée par l'IA en soins infirmiers : revue systématique de méthodes mixtes (écart d'authenticité, continuum gradué)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Formation et évaluation automatisées extensibles de la communication clinique par l'IA
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Les jumeaux numériques dans l'enseignement STEM : les prototypes fonctionnaient tous, les gains d'apprentissage pour la plupart pas
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratoire virtuel soutenu par l'IA pour l'apprentissage inversé de la physique : effets sur la réussite, la motivation et la charge cognitive des élèves du secondaire
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Cadre à quatre couches séparant la pratique représentée, la situation simulée, l'agentivité et l'adaptation, et l'orchestration
-
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — De l'adoption de la technologie à la cohérence curriculaire : la simulation améliorée par la technologie comme pont dans l'enseignement des professions de la santé
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Ce qu'un enseignant ne peut pas déléguer à un agent conversationnel à travers le cycle de simulation

@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -48,11 +49,3 @@ Le guide est honnête sur son propre statut, et la page doit être lue de la mê
 Deux limites supplémentaires comptent pour l'enseignement. Les recommandations sont des invitations à concevoir, non des interventions testées ; rien sur le site ne rapporte de résultat. Et la structure par tranches d'âge impose une grille grossière à un développement qui varie à l'intérieur des tranches, selon les cultures et les contextes, ce que le guide reconnaît lui-même.
 
 Le cadrage à retenir pour la pratique est celui du site lui-même : garder la boucle humaine, puis déterminer où l'IA s'y insère, plutôt que de placer un point de contrôle humain dans une boucle qui appartient à la machine — la même préoccupation que la recherche consigne comme risque de [[cognitive-offloading|déchargement cognitif]] lorsqu'un outil reprend la partie de la tâche qui faisait le travail développemental.
-
-## Concepts liés
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

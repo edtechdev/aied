@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -42,6 +43,3 @@ ai_assist:
 ## Какво да знаете, преди да го възприемете
 
 Всичко е [[open-source|с отворен код]] под MIT и безплатно за вземане като отправна точка за местна [[ai-literacy|AI грамотност]] или [[self-directed-learning|самостоятелно учене]]. Приемането е голямо и бързо движещо се: около 270 000 звезди и 23 000 разклонения при проверка през септември 2026 г., с най-скорошен комит на 18 септември 2026 г. Уговорката е обхватът. Уменията предполагат работния контекст на [[human-ai-collaboration|инженер]], организирани са в кофи „инженерство“, „продуктивност“, „отпаднали“ и „в процес на работа“, така че някои записи са изрично незавършени или оттеглени, а README служи и като абонамент за бюлетин. Третирайте преподавателските и разпитващите умения като преносимата част и очаквайте да пренапишете всяко от тях, преди да го поставите пред студенти.
-
-## Свързани понятия
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

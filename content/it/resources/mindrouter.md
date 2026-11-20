@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -47,9 +48,3 @@ Gruppi di calcolo per la ricerca e IT centrale con capacità GPU già disponibil
 ## Note e avvertenze
 
 Gratuito e open source con licenza Apache-2.0, ma il costo si sposta anziché sparire: hardware, elettricità e tempo del personale per gestire un cluster. Il software è giovane per gli standard dell'infrastruttura — tre contributori, un'unica istituzione di origine e rilasci numerati in centinaia di tag — quindi un college dovrebbe provarlo accanto a un servizio esistente anziché come unica via a un modello. Nel repository non c'è una valutazione pubblicata del comportamento di pianificazione e quote sotto carico reale di un campus; il paper di PEARC è il posto dove cercare il resoconto degli autori.
-
-## Concetti collegati
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

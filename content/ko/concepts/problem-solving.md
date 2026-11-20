@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,7 +46,6 @@ ai_assist:
 스캐폴딩과 평가도 마찬가지로 핵심적입니다. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]]는 개별 학생들의 과정 패턴을 시퀀스 마이닝하여 도출되며, 협력적 [[math-education|mathematics]] 문제 해결에서 과제 수행을 끌어올립니다 — 비록 최대의 스캐폴딩이 스크립팅 행동도 증가시켰습니다. 구조는 비계 안에 있어야 하며, 단지 존재하는 것만으로는 답 제공으로 무너집니다. 진단, 의도 선택, 제약된 응답 생성으로 구축된 규칙 기반 LLM 튜터는 40개의 실제 5학년 세션 가운데 36개(90%)에서 튜터와 학생을 의도된 발화 순서로 유지했고, 스포일러 방지 및 완성 전용 게이트가 조기 답 제공을 줄였습니다([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu and Sun, 2026]]). 저자들의 가장 강한 설계 주장은 감산적입니다: 산술은 튜터의 역할 밖에 남아 학생에게 돌아갔고, 그것은 튜터가 40개 세션 중 4개에서 잘못된 산술을 산출한 뒤였습니다.
 
 측정 측면에서, [[llm-computational-thinking-physics-2026|LLM은 인간 평정자를 닮을 수 있습니다]] — 대규모 [[physics-education|물리]] 강좌에서 [[computational-thinking|컴퓨터적 사고]]의 성장을 탐지하는 데서 — 한편 [[computational-thinking-educational-robotics-secondary-2026|컴퓨터적 사고]]는 [[educational-robotics|교육용 로봇공학]]이 고립된 기술 연습이 아니라 진정한 문제 해결을 기르게 하는 명시적 개념적 접착제로 제안됩니다.
-
 
 ### AI가 돕기도 방해하기도 하는 방식
 
@@ -90,28 +91,3 @@ ai_assist:
 **"목표는 문제 해결이므로 문제 제기는 덤이다."** 문제를 제기하는 곳에서 전이가 형성됩니다. 학습자가 시스템이 제공한 구조 안에서 작동하는 대신 구조를 구성해야 하기 때문입니다. 잘 형성된 문제만 공급하는 [[curriculum-design|교육과정]]은 잘 형성된 문제에 대한 수행을 훈련하며, 그것은 학생이 나중에 만나는 조건이 아닙니다.
 
 **"협력적 문제 해결의 시뮬레이션은 협력의 대체물이다."** 시뮬레이션은 상호작용 패턴을 재현하며, 개발되는 기술은 실제로 참여한 사람들이 공동의 문제를 조절하는 것입니다. 실제 협력자를 모형화한 참여자 특정 에이전트는 그 조절을 연구하는 도구이며, 과정에 관해 드러내는 것에 유용할 뿐 동료 없이 연습을 제공하는 방법은 아닙니다.
-
-## 연결된 개념
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## 연결된 문서
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 상호작용 프로파일(위임된 추론 대 협력적 해석)과 효율성–규제 절충
-- [[ai-assisted-collaborative-learning-model-dbr]] — 생성형 AI를 지능적인 학습 동반자로 자리매김하는 DBR 모델
-- [[llm-critical-thinking-teamwork-review]] — LLM이 비판적 사고, 팀워크, 그리고 문제 해결을 키우는 것에 관한 PRISMA 고찰
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — 협력적 문제 해결을 위한 시퀀스 마이닝된 적응형 스캐폴드
-- [[genai-assisted-problem-posing-physics-2026]] — GenAI와 함께하는 자기 조절 학습 전략으로서의 문제 제기
-- [[genai-feedback-design-multisite-experiment]] — 성찰적/하이브리드 피드백이 지연 전이에서 직접 AI를 능가한다
-- [[dai-chatbots-problem-posing-primary-2026]] — 탐구 기반 학습에서 초등 학생들의 문제 제기를 개선하는 챗봇
-- [[llm-computational-thinking-physics-2026]] — 물리학에서 계산적 문제 해결의 규모 있는 평가자로서의 LLM
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 초등 수학을 위한 LLM 튜터링 시스템에서 규칙에 따른 대 임시적 스캐폴딩 (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

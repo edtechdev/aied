@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -82,26 +84,3 @@ ai_assist:
 - **«Η ικανοποίηση και το αντιλαμβανόμενο όφελος δείχνουν ότι ένα εργαλείο ΤΝ για την επιστήμη δεδομένων λειτουργεί.»** Οι μαθητές χρησιμοποιούσαν εκτενώς τα LLM για αποσφαλμάτωση και ερωτήσεις εννοιών και **ανέφεραν υψηλή ικανοποίηση, ενώ το αντιλαμβανόμενο όφελος βαθιάς μάθησης μειωνόταν κατά τη διάρκεια του εξαμήνου**. Η ικανοποίηση παρέμεινε και η αυτοαξιολογούμενη τροχιά μάθησης έπεσε, οπότε κανένα από τα δύο νούμερα μόνο του δεν είναι η έκβαση.
 - **«Ένα μοντέλο χωρίς περιορισμούς είναι εξίσου καλό με έναν καθοδηγούμενο δάσκαλο.»** Το κέρδος προήλθε από την εκπαίδευση στη στήριξη — ρητή διδασκαλία υποδείξεων βήμα προς βήμα και επαλήθευσης — που ξεπέρασε την απλή πρόσβαση στο ίδιο μοντέλο στην ανεξάρτητη επίδοση και στη βαθμονόμηση της αυτοαξιολόγησης. Η καθοδήγηση, και η εκπαίδευση στον τρόπο χρήσης της, έφεραν το αποτέλεσμα.
 - **«Η προστασία από την παροχή απαντήσεων αρκεί.»** Ένας δάσκαλος ειδικός για το μάθημα, πάνω σε φιλοξενούμενο API, με οδηγία να ωθεί αντί να παρέχει απαντήσεις, υιοθετήθηκε από **76% έως 84%** των προπτυχιακών φοιτητών ψυχολογίας σε εβδομάδες σχετικές με τις εξετάσεις ενός μαθήματος προγραμματισμού R διάρκειας εξαμήνου. Αυτό είναι υιοθέτηση, όχι απόδειξη ότι η προστασία παρήγαγε μάθηση: η προστασία σε επίπεδο προτροπής είναι ένας μοχλός ανάμεσα σε αρκετούς και δεν παράγει από μόνη της μάθηση.
-
-## Συνδεδεμένες Έννοιες
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Συνδεδεμένα Άρθρα
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Πρακτορικό εργαλείο που παράγει ελεγχόμενα συνθετικά σύνολα δεδομένων για εξατομικευμένη εξάσκηση στατιστικής
-- [[ai-tutor-statistical-programming-adoption-2026]] — Ειδικά κατασκευασμένος δάσκαλος R· η υιοθέτηση ακολούθησε το ημερολόγιο εξετάσεων
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Οι ετικέτες δυσκολίας του LLM ακολουθούν τα επίπεδα Bloom, όχι την επίδοση των μαθητών
-- [[tactile-statistical-graphs-accessibility]] — Αγωγός ανοιχτού κώδικα που παράγει απτικά στατιστικά γραφήματα με ανασκόπηση από τον εκπαιδευτικό
-- [[guided-llm-scaffolding-independent-learning]] — Η καθοδηγούμενη στήριξη ξεπέρασε την απεριόριστη πρόσβαση στην ανεξάρτητη επίδοση
-- [[lund-socially-accountable-data-science-xai-2026]] — Ενσωμάτωση της κοινωνικής λογοδοσίας στο τεχνικό πρόγραμμα σπουδών επιστήμης δεδομένων

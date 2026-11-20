@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
+connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -124,75 +126,3 @@ Bir öğrencinin deneyimlediği en uzun vadeli çıktılar — gelecek dönem d�
 **Araştırmacılar için**
 
 - Kullanmayan grubun büyüklüğünü ve gerekçelerini açıkça bildirin; 7.087 öğrencilik bir örneklemin %32’si bir artık değil, bir nüfustur.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — Evrilen disiplinsel, mesleki, yaratıcı ve akademik öğrenen kimlikleri
-- [[agency]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[remote-proctoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[framing-ai-use-for-students]]
-- [[academic-integrity]]
-- [[stakeholders]] — Üst başlık: YZ eğitiminde insanlar ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[self-report-measures]]
-- [[student-engagement]] — YZ sistemlerinin öğrenci davranışını nasıl ölçtüğü ve buna nasıl yanıt verdiği
-- [[social-norms-ai-use]] — YZ kullanımının akranlara nasıl görünür hale geldiği
-- [[student-support-and-success]] — Desteğin kurumsal tarafı: bir kursta olan şey değil, üniversitenin öğrencilere yaptığı şey
-
-## Bağlı makaleler
-
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[best-response-student-ai-dialog-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[ai-in-the-wild-college]]
-- [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — Akademik yazımda YZ kullanımının öğrencilerce gerekçelendirilmesi (Kim ve ark. 2026)
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[ai-availability-student-motivation]]
-- [[aied-unfinished-mission-bypass]]
-- [[student-mental-models-genai]]
-- [[genai-usage-design-students-survey]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Üniversite mezunlarına yönelik YZ becerileri beklentileri ve kurumsal hazırbulunuşluk
-- [[student-ai-inquiry-types-cs2-2026]] — Öğrenci–YZ etkileşiminde talep türlerinin analizi
-- [[lnenicka-secondary-students-genai-stem-2026]] — Ortaokul öğrencilerinin STEM kapsamında GenAI araçlarıyla ne yaptığı
-- [[dai-chatbots-problem-posing-primary-2026]] — İlkokul fen bilgisinde GenAI sohbet robotları ve problem kurgulaması
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett ve ark. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — A comprehensive analysis of AI anxiety
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Post-secondary adoption perspective
-- [[pedlow-genai-selfassessment-2026]] — Raising ethical awareness of GenAI use through student self-assessment
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Öğretmen eğitiminde boylamsal GenAI kullanımı, etik ve politika (Parker ve ark. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — Avustralya yükseköğretiminde GenAI faydasının öğrenci deneyimi (Chung ve ark. 2026)
-- [[genai-motivation-engagement-2026]] — 297 öğrenci: motivasyon kavramayı öngördü; YZ kullanımına yönelik özerklik desteğinin doğrudan etkisi yoktu (Ahmed & Sultan 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — GenAI ve öğrencilerin algıladığı karar kapasitesi (bilişsel yük açıklaması)
-- [[genai-professionalization-metaphors-2026]] — GenAI kavramsallaştırmaları ve öğrenci profesyonelleşmesi
-- [[sidorkin-ai-generated-course-readings-2026]] — Öğrenciler kendi YZ üretimli müfredatlarının denetçileri olarak (Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[munoz-misconduct-allegation-evidence-2026]] — Usulsüzlük isnad dosyalarının kanıt olarak fiilen içerdikleri
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

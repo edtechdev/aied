@@ -31,6 +31,8 @@ ai_assist:
 translation_of: concepts/student-support-and-success
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -112,54 +114,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 **«سلّم المخرجات ينهار: الانخراط هو الاستبقاء.»** كل درجة تقيس شيئًا مختلفًا — الاشتراك، والاستجابة، والمثابرة، والإتمام — وقد يحرّك برنامج الدرجات الدنيا ويترك العليا مسطّحة. والإبلاغ عن نسبة المستجيبين كنجاح يرتكب ذلك الاستبدال بالضبط.
 
 **«القلق على الإنصاف سبب للتوقف عن استخدام البيانات.»** بل هو سبب للتصرف على أساس الدرجات بعناية. فالتصرف على أساس متنبئ قد يوزّع الدعم وقد يوزّع الشك، والخطر يتركّز على الطلاب الذين يصنّفهم النموذج بأقل تفضيل — وهو ما يجعل العلاج حوكمةَ الاستخدام لا التخلي عن القياس.
-
-## المفاهيم المتصلة
-
-- [[higher-ed]] — مظلّة القطاع التي تجلس هذه الصفحة تحتها
-- [[student-experience]] — كيف يستقرّ الذكاء الاصطناعي في تجربة الطالب نفسه
-- [[learning-gains]] — عمّا إذا كان التعلّم قد حدث، وهو المخرَج التعليمي الذي لا تقيسه هذه الصفحة
-- [[learning-analytics]] — التنبؤ والإنذار المبكر والتحليلات التنبؤية
-- [[student-modeling]] — طبقة النمذجة الكامنة تحت التنبؤ بالمخاطر
-- [[knowledge-tracing]] — تقدير المهارة والتمكّن بدقّة
-- [[recommender-systems-and-learning-paths]] — توصية المقرّرات والموارد والمسارات
-- [[help-seeking]] — كيف يأتي الطلاب ليطلبوا الدعم
-- [[well-being]] — الصحة النفسية في الحرم والوقاية والتدخّل
-- [[career-development-and-readiness]] — المخرَج الذي يلي الإتمام
-- [[administrator]] — الدور الذي يملك أنظمة الدعم ويُشغّلها
-- [[stakeholders]] — من له حق في قرارات الذكاء الاصطناعي المؤسسية
-- [[change-management]] — استدامة البرنامج بعد النموذج التجريبي
-- [[governance]] — سياسة وإشراف الذكاء الاصطناعي المؤسسي
-- [[educational-policy-ai]] — سياق السياسة للنشر المؤسسي
-- [[equity-in-ai-education]] — من يبلغه النظام ومن يفوت عنه
-- [[privacy]] — سجلات الطلاب ومشاركة البيانات والمقاربات الاتحادية
-- [[human-in-the-loop-ai]] — الحكم البشري داخل مسار دعم مؤتمت
-- [[rct]] — التصميم الكامن وراء أقوى الأدلة هنا
-
-## المقالات المتصلة
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — تقييم معشاوى على مدى أربع سنوات لروبوت حواري لدعم الطلاب في جامعة: تحرّك إتمام المهام، ولم يتحرّك التخرّج والمعدل التراكمي
-- [[chatbot-outreach-course-performance-2026]] — تجربة تواصل متعددة الفصول مُسجَّلة مسبقًا: معدّلات A/B أعلى، وتحوّلات DFW معتدلة، واستثناء ديموغرافي واحد
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 سيناريو اصطناعي: حساسية محدودة لحاجة الطالب وتناقض بين النماذج في توصيات الدعم
-- [[sc2r-counterfactual-recourse-educational-2026]] — فجوة قابلية التنفيذ: فالمَنهَج يجب أن يكون قابلًا للتنفيذ وقابلًا للفحص لا صحيحًا بالنسبة للنموذج فحسب
-- [[fairness-theatre-early-warning-systems-2026]] — ستة تدخّلات إنصاف لاحقة على نظام إنذار مبكر لمزوّد مبني من 168,550 سجلًا
-- [[at-risk-students-ml-prediction]] — مصنّفات مُشرَفة تُحدِّد الطلاب قبل الانسحاب
-- [[predicting-attrition-competitive-programming]] — سجلات سلوكية إضافةً إلى مسح نفسي اجتماعي تتنبّأ بالتسرّب
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — نمذجة مخاطر اتحادية بين المؤسسات دون مشاركة بيانات الطلاب الخام
-- [[precision-education-student-digital-twins-2026]] — التوائم الرقمية و«نجاح الطلاب الوقائي» كرؤية
-- [[learning-analytics-to-educational-interventions-2026]] — سبعة مُمكِّنات لإغلاق الحلقة من التحليلات إلى التدخّل
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — مساعد خاص بالمقرّر يستهدف خفض كلفة طلب المساعدة
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — قبول التدريس الخصوصي مُختبر منفصلًا عن التعلّم
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — ستّ خصائص سلوكية مُقابَلة بأشياء تعلّم موصى بها
-- [[trace-course-grade-prediction-2026]] — التنبؤ المجتمع بالمقرّرات والدرجات لأغراض التخطيط
-- [[zhang-ml-student-progress-programming-2026]] — التنبؤ القابل للتفسير بتقدّم الوحدة
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 دراسة في الذكاء الاصطناعي والقيادة وتقديم الخدمات في التعليم العالي
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — تصنيف عشرة مجالات للذكاء الاصطناعي في القيادة التعليمية
-- [[students-at-stake-ai-deployment-risks-2026]] — سطح المخاطر من جانب الطالب: القبول والمساعدة، وخدمات نجاح الطلاب، والتدريس
-- [[ai-campus-wellbeing-tools]] — دعم العافية في الحرم يمتدّ على الوقاية والتدخّل
-- [[coursegraph-cs-course-comparison-2026]] — تكافؤ المقرّرات للاعتماد المنتقَل والتنقّل
-- [[credentials-carry-evidence-ai-agents-2026]] — ما يعنيه سجل الإتمام حين يستطيع وكيل أن يقوم بالعمل
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — التنبؤ بخطر الغش المساعد بالذكاء الاصطناعي مبكرًا، والمقايضة في العتبة للتواصل المنخفض الأثر
-
-- [[cefa-ai-learner-support-review-2026]] — 61-study review of AI-enabled learner support: adaptive systems and prediction dominate; transition phase and diverse learners are absent
-- [[shastry-gray-empathy-offloading-2026]] — Four studies on empathy offloading: believing AI can supply emotional support lowers what people supply themselves (Shastry & Gray 2026)
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last

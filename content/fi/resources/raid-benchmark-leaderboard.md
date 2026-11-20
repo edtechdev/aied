@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,9 +42,3 @@ Tutkijat, jotka arvioivat tunnistusmenetelmiä, hallintohenkilöstö, joka laati
 ## Huomioita ja varauksia
 
 Benchmark mittaa koneellisesti tuotetun tekstin tunnistamista, ei vilppiä: opiskelija, joka käyttää tekoälyä suunnitteluun, jäsentelyyn tai muokkaamiseen, tuottaa tekstiä, jota tunnistimet eivät ole rakennettu havaitsemaan, ja opiskelija, joka [[language-learning|kirjoittaa toisella kielellä]], on tunnettu väärän positiivisen riski, jota leaderboard ei voi näyttää. RAID on akateemisen tiimin ylläpitämä tutkimusartefakti; kattavuus seuraa sen testijoukon generaattorimalleja, joten uudemmat mallit voivat olla aliedustettuina, kunnes benchmark päivitetään. Leaderboard asettaa tunnistimet järjestykseen, ei niiden toimittajien tietokäsittelykäytäntöjä, eikä korkea AUROC kerro mitään siitä, onko opiskelijatöiden lähettäminen kyseiseen palveluun laillista tai eettistä omalla lainkäyttöalueellasi.
-
-## Liittyvät käsitteet
-
-- [[ai-detection]] — menetelmäperhe, jota benchmark arvioi
-- [[academic-integrity]] — politiikkakonteksti, jossa tunnistimien pistemääriä käytetään
-- [[benchmark]] — laajempi mittausvälineiden luokka, johon tämä kuuluu

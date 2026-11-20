@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -103,43 +105,3 @@ Sintesis Scopus atas 54 studi EFL menempatkan [[limitations-in-aied-research|ket
 - **"Guru bahasa mengadopsi dengan antusias atau tidak sama sekali."** [[li-language-educators-genai-review-2026|Tinjauan sistematis atas 23 studi]] (Li et al.) menemukan **adopsi hati-hati dan mengutamakan persiapan** sebagai polanya. Guru berhati-hati secara terukur, bukan terbelah menjadi antusias dan penolak.
 - **"Efek keseluruhan membenarkan usahanya."** Meta-analisis **33 studi TEFL** menemukan **efek keseluruhan kecil hingga sedang (g = 0.38, turun menjadi 0.28 setelah trim-and-fill)** yang **meningkat seiring jenjang pendidikan**. Efeknya moderat setelah koreksi dan terkonsentrasi pada jenjang lebih tinggi, sehingga klaim untuk pembelajar pemula tidak didukung angka gabungan itu.
 - **"Segala penggunaan AI sama produktifnya bagi pembelajaran bahasa."** Karya yang sama menyerukan **membobotkan teknologi ke arah produksi** — menulis dan berbicara, bukan konsumsi. Modalitas menentukan efek lebih daripada kehadiran AI.
-
-## Konsep terkait
-
-- [[language-learning]]
-- [[writing-education]]
-- [[reading-education]]
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## Artikel terkait
-
-- [[alharbi-ethical-genai-eap-2026]] — Integrasi AI generatif yang etis dalam EAP di pendidikan tinggi
-- [[feedback-literacy-scripts-eap-writing]] — Skrip literasi umpan balik dan penilai kedua dalam revisi penulisan EAP dengan GenAI
-- [[genai-differentiated-eap-reading-materials-2026]] — Dari materi seragam ke terdiferensiasi: adaptasi materi bacaan EAP berbantuan GenAI
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: pelatihan pasca-latih selaras taksonomi untuk tutoring bahasa Inggris adaptif
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Menyelaraskan ChatGPT dengan penilaian e-portofolio sebagai model pembelajaran EFL
-- [[irwin-muller-efl-peer-feedback-literacy]] — Memosisikan AI generatif dalam umpan balik sejawat EFL
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tugas penilaian buatan AI versus buatan manusia dalam konteks EFL
-- [[acceptance-ai-english-tools-2026]] — Penerimaan alat pembelajaran bahasa Inggris berbantuan AI di pendidikan tinggi
-- [[ai-tools-arab-english-classrooms]] — Alat AI di kelas bahasa Inggris universitas Arab
-- [[self-referential-l2-writing-llm-assessment]] — Menuju penilaian analitik swarujuk: pendekatan berbasis profil untuk evaluasi penulisan L2 dengan LLM
-- [[ai-interlocutor-l2-spoken-dialogue]] — Apa yang berubah ketika interlokutornya AI? Dialog lisan L2
-- [[genai-linguistic-diversity-academic-writing]] — AI generatif dan keragaman linguistik dalam penulisan dan penerbitan akademik
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Mengelola yang tak terlihat: literasi AI di kalangan guru bahasa
-- [[structural-silence-underrepresented-language-ai-2026]] — Diam struktural: bahasa kurang terwakili dalam infrastruktur AI
-- [[liu-emerging-tech-tefl-review-2026]] — Teknologi yang muncul untuk TEFL
-- [[bird-multimodal-educational-literature-2026]] — Fusi multimodal untuk mengklasifikasikan literatur pendidikan
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Revisi sejawat dan AI atas esai argumentatif EFL berbeda dalam posisi dialogis (Zhao & Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — Ketergantungan berlebih pada AI (50% dari 54 studi) dan berkurangnya berpikir kritis memimpin keterbatasan yang dilaporkan

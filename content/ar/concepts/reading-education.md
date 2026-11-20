@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -94,32 +96,3 @@ ai_assist:
 - **«النص المولَّد بالذكاء الاصطناعي أسهل لأنه مولَّد لمستوى.»** تجري الأدلة في الاتجاه المعاكس بالنسبة لمخرجات النماذج: فالنماذج المتقدمة تفرط في استخدام تراكيب مرتبطة بكلفة فهم.
 - **«القراءة بالذكاء الاصطناعي سلوك واحد.»** فمقياس AIR يجد أربعة دوافع متمايزة، وهي تنبئ بأنواع مختلفة من الاستخدام.
 - **«إذا استطاع الذكاء الاصطناعي إعادة كتابة النص، فمستوى القراءة لم يعد يهم.»** فالتمايز يغيّر الدعم حول الفقرة أكثر مما يغيّر تعقيدها البنيوي، وهذا تدخل مختلف عن خفض مستواها.
-
-## المفاهيم المتصلة
-
-- [[ai-education]] — المظلة التي يقع تحتها هذا المجال
-- [[language-learning]] — قراءة اللغة الثانية (L2) تتداخل، لكن الاكتساب هو الموضوع هناك
-- [[writing-education]] — الجانب الإنشائي من محو الأمية
-- [[english-education]] — قراءة EAP/EFL/ESL وقابلية القراءة
-- [[educational-nlp]] — طبقة قياس النص التي تعتمد عليها قابلية القراءة
-- [[assessment]] — تقويم القراءة وصلاحية الدرجة
-- [[motivation]] — لماذا يستخدم القرّاء الذكاء الاصطناعي، وماذا يفعل ذلك بالمعالجة
-- [[scaffolding]] — طبقات الدعم في مواد القراءة المتمايزة
-- [[neurodiversity]] — عسر القراءة وصعوبة القراءة
-- [[accessibility]] — النص المقروء بشريًا مقابل النص المقروء آليًا
-- [[generative-ai]] — التقنية خلف النصوص المولَّدة والمكيَّفة
-
-## المقالات المتصلة
-
-- [[air-scale-motivations-ai-reading-2026]] — مقياس مقنَّن لدوافع القراءة مع الذكاء الاصطناعي التوليدي
-- [[almirabi-ai-reading-assessment-motivation-2026]] — تقويم قراءة بوساطة الذكاء الاصطناعي في صف للغة الإنجليزية كلغة أجنبية
-- [[genai-differentiated-eap-reading-materials-2026]] — مواد قراءة EAP متمايزة
-- [[llm-children-reading-story-generation]] — قصص قراءة للأطفال مضبوطة المستوى
-- [[text-simplification-its]] — تقويم تبسيط النص لأغراض التعليم الفردي
-- [[clara-developmental-appropriateness-children-stories-2026]] — صعوبة تطورية تتجاوز معادلات قابلية القراءة
-- [[bird-multimodal-educational-literature-2026]] — تصنيف الأدب بحسب المرحلة المفتاحية
-- [[clark-ai-generated-language-readability-2026]] — لماذا يصعب قراءة اللغة المولَّدة بالذكاء الاصطناعي
-- [[sidorkin-ai-generated-course-readings-2026]] — قراءات مقرر مخصَّصة مولَّدة بالذكاء الاصطناعي
-- [[airri-machine-resistant-reading-interface-2026]] — واجهات قراءة مقاومة للآلة وكلفتها في قابلية القراءة
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — تغذية راجعة بـChatGPT في القراءة الثانوية
-- [[dabaghi-ai-dyslexia-education-review-2026]] — الذكاء الاصطناعي للمتعلمين ذوي عسر القراءة

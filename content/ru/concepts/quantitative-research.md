@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -61,7 +63,6 @@ ai_assist:
 ### Лонгитюдные исследования
 Лонгитюдные планы отслеживают одних и тех же обучающихся во времени, фиксируя изменение, рост и длительное обучение, которые упускает измерение в одной временной точке. [[ai-lms-middle-school-longitudinal|Лонгитюдное исследование LMS]] отслеживает студентов в течение учебного года. Лонгитюдные планы необходимы для того, чтобы отличить раздутое ИИ выполнение от [[genai-performance-vs-learning|длительного обучения]].
 
-
 Межбазовые сравнения нуждаются в фиксированной рабочей точке: структурная проверка синтетических образовательных данных обнаружила, что анализ каждого набора данных на его собственном пороге обращал контраст, который сохранялся в общей точке, и что его суррогатное сравнение требовало лишь самих синтетических данных и перестановок себя — перестановочного нуля вместо абсолютного порога ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Вычислительная и психометрическая квантификация
@@ -93,32 +94,3 @@ ai_assist:
 - **«Оценка по намерению лечить описывает то, что делает инструмент.»** В групповом рандомизированном испытании доступа, где **около 15% студентов в экспериментальных классах вообще использовали тьютора**, оценка ITT отражает **эффект введения** инструмента, а не эффект его использования. Низкое принятие делает цифру ITT утверждением о внедрении, и представление её как эффекта инструмента преувеличивает измеренное.
 - **«Результативность на задании — это результат.»** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] рандомизирует **120 студентов** на обучение с ИИ или традиционное и измеряет **сохранение** — план, отделяющий непосредственную результативность от долговременного обучения. Исследование, останавливающееся на задании, измерило более лёгкую величину.
 - **«Кросс-датасетные сравнения просты.»** Структурная проверка синтетических образовательных данных обнаружила, что **анализ каждого набора данных при его собственном пороге обратил контраст, который держался при общем рабочем пороге**. Знак сравнения зависел от аналитического выбора, — та хрупкость, предотвратить которую существует предрегистрированный рабочий порог.
-
-## Связанные концепции
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Связанные статьи
-
-- [[access-not-enough-ai-tutoring-2026]] — Рандомизированное полевое исследование поддержки человека плюс тьюторства с ИИ
-- [[genai-can-harm-teaching-rct-2026]] — Генеративный ИИ может наносить вред преподаванию: РКИ
-- [[acceptance-ai-english-tools-2026]] — Принятие инструментов изучения английского языка с поддержкой ИИ
-- [[tian-genai-learning-adoption-pathways-2026]] — Пути принятия GenAI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — ИИ-грамотность преподавателей через теорию самодетерминации
-- [[jin-glat-genai-literacy-assessment]] — GLAT: валидированный по IRT тест грамотности в GenAI
-- [[ai-lms-middle-school-longitudinal]] — Лонгитюдное исследование LMS с интегрированным ИИ
-- [[adaptive-pretesting-retention]] — Адаптивное предтестирование и удержание
-- [[synthetic-educational-data-structural-fidelity-2026]] — Чего не замечают метрики точности соответствия: структурная проверка синтетических образовательных данных
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Испытание доступа с групповой рандомизацией требует проверки фактического использования
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Библиометрический анализ как ещё одно количественное семейство (Sriram et al. 2026)
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Использование генеративного ИИ и межличностное образовательное взаимодействие у студентов сестринского дела: саморегулируемое обучение как статистический медиатор
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Осведомлённость о технологических нарушениях ИИ, мышление дизайн-мышления и компетенция дизайн-инноваций у студентов-дизайнеров

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -41,7 +42,3 @@ ai_assist:
 ## 说明与注意事项
 
 所有环节都在浏览器内完成：课程保存在本地存储中并提供 JSON 导出，题目通过链接中浏览器不会发送给服务器的那一部分（URL 片段）传递，作答只以学生选择发送的回执码返回，因此没有学生数据到达第三方。题目生成器是基于规则的，而非模型驱动的。按工具自己的说明，它的代码阅读器是启发式的，因此不常见的格式或宏可能让某个函数被漏掉；分数也可能奖励"熟悉术语"而非"理解代码"。正因如此，分数只是由教师批准的建议，工具也建议把风险保持在低位，并把这场答辩呈现为帮助你决定找谁谈话的核查，而不是一次成绩。未公开发布许可，也没有源码仓库；由于链接本身承载着题目，长度可达数千字节，若学习管理系统的消息框会折行，建议改用链接 CSV 做邮件合并发送。
-
-## 关联概念
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -54,7 +56,6 @@ ai_assist:
 
 - **پائیداری بطور قدر پر مبنی منصوبہ۔** تعلیمی پائیداری پر AI کا اثر مشروط اور حکمرانی کے ذریعے آیا ہوا ہے، داخلی نہیں: ایک قدر تنقیدی تجزیہ قرار دیتا ہے کہ AI پائیدار تعلیم کی مدد صرف اُس وقت کرتا ہے جب اپنانے کو واضح تعلیمی قدروں کے تابع کیا جائے، اور جب ٹیکنالوجی زدگی اور بستی کاری ان قدروں کو کھا جائیں تو یہ اسے کمزور کرتا ہے ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]])۔
 - **کارکردگی اولیت والا ہم آہنگی بیانیہ بطور سیاق کی محو شدگی۔** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] Fairclough کے سہ جہتی ماڈل کا اطلاق 14 خاکستری لٹریچر ٹکڑوں پر کرتے ہیں (نومبر 2022 – اپریل 2025) جو اعلیٰ تعلیم کے پریکٹیشنروں کو تعمیری ہم آہنگی کے لیے [[generative-ai|جنریٹیو AI]] استعمال کرنے کا مشورہ دیتے ہیں، اور ایسا ٹیکنو حل پسند بیانیہ پاتے ہیں جس میں ٹول کو "ایک تعلیمی ماہر اور معاون" کے طور پر انسان بنایا جاتا ہے اور تعلیمی عملے کو "موضوع کی مہارت" فراہم کرنے والا دکھایا جاتا ہے جبکہ نظام تدریسی کام انجام دیتا ہے۔ یہ تجزیہ حالاتی، شعبہ جاتی اور تنقیدی سیاق کی محو شدگی کو تین ناکامی کے اندازوں میں سے ایک قرار دیتا ہے — ساتھ ہی مظاہرہ پسندی (ایسی ہم آہنگی جو صرف ہم آہنگ دکھتی ہے) اور سطحی ہم آہنگی جو تعمیری جہت کو ہم آہنگ جہت سے گڈمڈ کر دیتی ہے — جو ثبوت ہے کہ [[learning-design|کورس ڈیزائن]] کے بارے میں مشورہ بھی، جو بظاہر ایک غیر جانبدار تکنیکی معاملہ ہے، وہی غیر سیاسی بنانے والی منطق اٹھائے ہوئے ہے جس پر تنقیدی تدریسی ماہرین کہیں اور تنقید کرتے ہیں۔
-
 
 - **محض ڈیزائن کے علاج کافی نہیں۔** انسان مرکز ڈیزائن کے نقطہ نظر جیسے قدر حساس ڈیزائن ناکافی ہیں: وہ نظامی محرکات — ورک فورس-پیداواریت کی فریمنگ اور معاشی تحفظات — کو چھوئے بغیر چھوڑ دیتے ہیں، اور [[agency]] صفر کے مجموعے کا کھیل ہو سکتی ہے، چنانچہ ٹول کو دی گئی قابلیت وہ قابلیت ہے جو طالب علم کے پاس نہیں رہتی ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]])۔
 
@@ -94,35 +95,3 @@ ai_assist:
 **محققین کے لیے**
 
 - کلاس رومز میں شمولیت کے اندازوں کی تقسیم رپورٹ کریں، محض اوسط استعمال نہیں، کیونکہ اوسط یہ چھپا دیتا ہے کہ کوئی تنقیدی مشق موجود ہے یا نہیں۔
-
-## منسلک تصورات
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — چھتری: تعلیم میں AI کے تدریسی طریقے اور حکمت عملیاں
-
-## منسلک مضامین
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — انسانی حقوق کی تعلیم، غور طلب مشق، اور AI حکمرانی کو پیشہ ورانہ تشکیل کے طور پر سکھانا (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — ملٹی موڈل تحریر بطور تنقیدی AI خواندگی کی تدریس
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — ٹیکنو حل پسند GenAI تعمیری ہم آہنگی مشورے کا تنقیدی مکالماتی تجزیہ
-- [[benali-genai-academic-writing-2026]] — تعلیمی تحریر کے کورس میں جواز لازمی بنانے والی نظرثانی: AI دو تجویزی حصوں تک محدود، ہر تجویز تحریری طور پر قبول یا مسترد (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — سائنسی تعلیم میں "AI نوآبادیات" پر تنقیدی، نسوانی تنقید
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "AI کی مزاحمت" بطور برادری میں جڑی تنقیدی AI خواندگی کی مشق
-- [[ojeda-ramirez-community-based-ai-learning]] — برادری پر مبنی سیکھنے کے ذریعے AI کے علمی اختیار کی دوبارہ تقسیم
-- [[raffaghelli-situated-ai-ethics-2026]] — AI اخلاقیات کے لیے حالاتی، ثقافتی-تاریخی اور ماحولیاتی فریم ورک
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — انسانیت کے علوم میں تشریحی ادراک کے لیے ترقیاتی-تنقیدی ماڈل
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — سوشلسٹ انسانیت پسند AI خواندگی + منصفانہ استعمال
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — پائیدار تعلیم اور AI کے بارے میں قدر تنقیدی نقطہ نظر (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — طلبہ کے پنپنے کی طرف جنریٹیو AI ڈیزائن کرنے کا آزادی بخش تصور
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Freire، تعمیریت اور نگہداشت کی اخلاقیات پر بنی انسان مرکز GenAI شمولیت کا فریم ورک
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — عالمی جنوب میں تعلیمی ترقی پر تنقیدی ڈیجیٹل تدریس اور ڈی نوآبادیاتی علمیات کا اطلاق

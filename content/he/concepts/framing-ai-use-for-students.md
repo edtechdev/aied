@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -96,37 +98,3 @@ ai_assist:
 **"איסור על כלי מסיר את ההתנהגות."** הוא מעביר אותה לכלים שאינכם יכולים לראות. סטודנטים כבר מעדיפים כלים בגישה פרטית על פני כלים המוצעים מוסדית, ולכן איסור דוחף את השימוש אל הסביבה היחידה שבה תמיכה, רישום או הדרכה אפשריים. משימת המסגור היא להפוך את ההתנהגות המותרת למושכת, ולא להפוך את ההתנהגות האסורה לקשה יותר לצפייה.
 
 **"מסגור הוא שכנוע, ולכן הוא יותר רטוריקה מעיצוב."** המסגור שהעמוד מתאר משולב בעיצוב: ציפיות שנאמרות בבירור ובחזרה *תוך כדי תכנון סביב סטודנטים*. הודעות שנמסרות במקום שמתכננים עבורן הן הגרסה שנכשלת, מפני שסטודנטים קוראים את ההבדל בין מחויבות מוצהרת למחויבות ממשית.
-
-## מושגים מקושרים
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## מאמרים מקושרים
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונצנזוס של 30 מומחים על הרצף: רכשו ללא GenAI, גבבו איתו, ואז חשבו בעצמכם
-- [[mccorkle-aligned-genai-course-policy-2025]] — רציונל שקוף לכל שימוש מותר ואסור של GenAI, משימה-אחר-משימה (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — עידוד שימוש הולם ב-GenAI במקום גינוי בו כשיבוש
-- [[student-rationalization-ai-writing]] — "חמשת האתרים" שבהם סטודנטים מצדיקים שימוש בבינה מלאכותית בכתיבה אקדמית
-- [[student-regulatory-awareness-genai]] — ידיעת הכללים אינה מספיקה: מודעות רגולטורית ושימוש בפועל
-- [[ai-anxiety-strategic-regulation-writing-2026]] — מחרדת בינה מלאכותית לרגולציה אסטרטגית
-- [[chatgpt-inoculation-training-verification-2026]] — הודעות חיסון והתנהגות אימות
-- [[ai-fallibility-warning-help-seeking]] — אזהרה על נפילות בינה מלאכותית מעלה חיפוש עזרה
-- [[shame-guilt-ai-regulation-computing-education]] — בושה ואשמה כווסתים חברתיים של שימוש בבינה מלאכותית
-- [[access-not-enough-ai-tutoring-2026]] — תמיכה אנושית משפרת מעורבות עם חונכות בינה מלאכותית
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — מעורבות עם GenAI מבוססת SDT
-- [[ai-availability-student-motivation]] — כיצד זמינות בינה מלאכותית מעצבת מוטיבציית סטודנטים
-- [[youtube-frames-chatgpt-education]] — כיצד YouTube מעצב שימוש ב-ChatGPT בחינוך
-- [[ai-ethics-education-public-discourse]] — דיבור ציבורי על אתיקת בינה מלאכותית בחינוך
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — מרצים מעצבים בינה מלאכותית כשימוש ביקורתי/אחראי; מעסיקים מעצבים אותה כפרודוקטיביות
-- [[ssaho-ai-academic-integrity-review-2025]] — בניית תרבות של יושרה אקדמית באמצעות ציפיות ברורות

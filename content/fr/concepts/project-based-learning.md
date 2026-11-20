@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -88,31 +90,3 @@ Le PjBL se relie à l'[[active-learning|apprentissage actif]], à l'[[experienti
 - **« Personnaliser l'outil améliore le résultat. »** Le type d'outil modérait significativement l'effet (**QM = 14.301, p < .001**), et la direction est contre-intuitive : un **chatbot généraliste utilisé directement obtenait un effet regroupé plus élevé (g = 0.970)** que des systèmes **personnalisés en plateformes de cours, patients virtuels ou agents (g = 0.455)**. L'outil nu surpassait l'outil ingénierisé, ce qui plaide contre l'idée que des produits conçus sur mesure constituent le meilleur achat.
 - **« Ce que les étudiants trouvent difficile, c'est l'ouverture. »** Dans les données de perception étudiante, **l'ouverture était le premier thème positif (22.3%)** tandis que **des consignes peu claires dominaient les négatifs (23.7%)**. Les étudiants accueillaient la liberté et objectaient à l'ambiguïté — une distinction qui compte parce que le remède est différent : un cadrage de tâche plus clair, non moins de travail ouvert.
 - **« Les étudiants qui ont aimé ont davantage appris. »** L'apprentissage perçu ne corrélait avec les scores de quiz que **modestement (r = 0.161-0.315)**. Satisfaction et apprentissage mesuré sont ici faiblement liés, si bien qu'une évaluation positive du PjBL n'est pas en soi la preuve que les objectifs d'apprentissage ont été atteints.
-
-## Concepts liés
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Ensemble : pédagogies et stratégies d'enseignement dans l'éducation à l'IA
-- [[arts-and-media-education]]
-
-## Articles liés
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
-- [[game-based-gamified-robotics-education-review-2026]] — Enseignement de la robotique par le jeu et ludifié
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Formation à la littératie en IA pour les enseignants
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotique et IA dans l'éducation
-- [[educational-robotics-pathways-2026]] — Chemins vers l'apprentissage de la robotique éducative assistée par IA (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Le PjBL est une stratégie dominante d'apprentissage de la pensée computationnelle
-- [[creative-project-approach-ai-early-childhood-2025]] — La Creative Project Approach : agents d'IA et robotique au sein de l'Approche par projet dans la petite enfance (Yang, Li et Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD avec agents d'IA dans le PjBL logiciel en équipe
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL : un studio de design VR immersif doté d'un agent d'enseignement intégré, évalué par rapport au PjBL traditionnel (Jin et coll. 2026)

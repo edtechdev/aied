@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -68,7 +70,6 @@ ai_assist:
 
 - **এআই-সহায়ক সংগীত ক্লাসে সম্পৃক্ততা, ফ্লো ও আবেগিক বুদ্ধিমত্তা একসঙ্গে বেড়েছে।** 850 জন স্নাতকের সঙ্গে এক সেমিস্টার জুড়ে পাঁচটি তরঙ্গ তিনটিতেই গড় প্রবৃদ্ধি দেখিয়েছে, যেখানে ঢাল-সম্পর্ক সম্পৃক্ততা ও ফ্লোর মধ্যে 0.39 এবং সম্পৃক্ততা ও আবেগিক বুদ্ধিমত্তার মধ্যে 0.22; ফ্লোর প্রবৃদ্ধিই আবেগিক বুদ্ধিমত্তার সঙ্গে সংযোগটি বহন করেছে ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang ও Tang, 2026]])।
 
-
 ### সম্পৃক্ততা মাপা: মেট্রিক-নির্বাচনের সমস্যা
 
 সম্পৃক্ততা একগুচ্ছ পর্যবেক্ষণযোগ্য সংকেতের মাধ্যমে কার্যকর করা হয়। **আচরণগত মেট্রিক** মাপে শিক্ষার্থীরা *কী করে* (কাজে-ব্যয়িত সময়, কার্যকলাপ-গণনা, মিথস্ক্রিয়া-আবৃত্তি, অধ্যবসায়); **সংজ্ঞানাত্মক মেট্রিক** মাপে শিক্ষার্থীরা *কীভাবে ভাবে* (প্রক্রিয়াকরণের গভীরতা, সমালোচনামূলক সম্পৃক্ততা, আলাপ-বিশ্লেষণ); **আবেগগত মেট্রিক** মাপে শিক্ষার্থীরা *কী অনুভব করে* (আবেগ, প্রেরণা, আগ্রহ); এবং **প্রাসঙ্গিক মেট্রিক** বহু-কাজ ও মনোযোগ ধরে। এআই-শিক্ষা গবেষণা ক্রমশ এগুলোকে একত্র করে এবং সম্পৃক্ততাকে এআই সরঞ্জাম-নকশা ও [[learning-gains|শিখন-ফলাফলের]] মধ্যে মধ্যস্থতাকারী প্রক্রিয়া হিসেবে দেখে, নিজে ফলাফল হিসেবে নয়।
@@ -99,11 +100,9 @@ ai_assist:
 
 [[higher-ed|উচ্চশিক্ষায় এআই]]-এর একটি নিয়মতান্ত্রিক সংশ্লেষণ ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long প্রমুখ, 2026]]) জোর দেয়, একটি এআই সরঞ্জাম যে **[[teacher-role|শিক্ষাদান]]-পদ্ধতিতে প্রোথিত তা-ই নির্ধারক মধ্যস্থতাকারী** শিক্ষার্থীদের সম্পৃক্ত করার বিষয়ে। চ্যাটবট, অভিযোজিত সিস্টেম ও পূর্বানুমানমূলক বিশ্লেষণ সম্পৃক্ততা সবচেয়ে বেশি বাড়ায় যখন মিথস্ক্রিয়ামূলক শিক্ষাবিজ্ঞানের ভেতরে স্থাপিত হয় — উল্টো শ্রেণিকক্ষ, [[project-based-learning|প্রকল্প-ভিত্তিক শিখন]], এবং স্ক্যাফোল্ডকৃত [[feedback|প্রতিক্রিয়া-চক্র]] — স্বতন্ত্র সরঞ্জাম হিসেবে নয়। পর্যালোচনাটি এটিকে **PMAISE মডেল** হিসেবে আনুষ্ঠানিক করে ([[pedagogy|শিক্ষাগত]] মধ্যস্থতা অব এআই ফর স্টুডেন্ট এনগেজমেন্ট), যা এআই [[ai-technologies|প্রযুক্তি]], শিক্ষাগত কৌশল ও সম্পৃক্ততার আবেগগত, আচরণগত ও সংজ্ঞানাত্মক মাত্রার মধ্যে সামঞ্জস্যের মানচিত্র দেয়। তাৎপর্য হলো সম্পৃক্ততা-ফলাফল সরঞ্জাম *এবং* তাকে ঘিরে থাকা [[learning-design|শিক্ষণ-নকশা]] একসঙ্গে উৎপাদন করে: একই এআই এক শিক্ষাবিজ্ঞানে সম্পৃক্ততা বাড়াতে পারে, অন্যটিতে বাধা দিতে পারে।
 
-
 একটি দ্বিমাত্রিক বিবরণ নির্দেশনামূলক দিক থেকেই একই কথা বলে। Al Nafjan-এর Rigor–Commitment Alignment Framework জেনএআই-এর অধীনে সম্পৃক্ততাকে কাজটি কতটা চাহিদাপূর্ণ এবং শিক্ষক শিক্ষার্থীদের শিখনে কতটা অঙ্গীকারবদ্ধ তার যৌথ ফল হিসেবে ধরে, এবং চারটি বিন্যাসের পূর্বানুমান করে ([[al-nafjan-genai-eap-writing-engagement-2026]])। দুর্বল কঠোরতা ও দুর্বল অঙ্গীকার (Neglectful) এবং দুর্বল কঠোরতা ও প্রবল অঙ্গীকার (Indulgent) — দুটোই ভাসা-ভাসা ব্যবহারে থিতু হয়, কারণ সরঞ্জাম যা উৎপন্ন করেছে তা মূল্যায়ন বা ন্যায্যতা দেওয়ার জন্য শিক্ষার্থীকে কিছুই বাধ্য করে না। প্রবল কঠোরতা ও পাতলা সহায়তা (Punitive) শিক্ষার্থীদের দায়িত্বশীল ব্যবহারের বদলে লুকানোর দিকে ঠেলে দেবে বলে পূর্বানুমান করা হয়, আর কেবল প্রবল কঠোরতা ও প্রবল সহায়তা গভীর, এজেন্টিক সম্পৃক্ততা দেবে বলে পূর্বানুমান করা হয়।
 
 এই কাঠামোর ভারবহনকারী দাবিটি কার্যকারণ নয়, বিবর্ধন। জেনএআই সহজলভ্য হওয়ার সঙ্গে, মূল্যায়ন চূড়ান্ত উৎপাদকে পুরস্কৃত করার সঙ্গে এবং রচনা-প্রক্রিয়া অদৃশ্য থাকার সঙ্গে চারটি বিন্যাসের পার্থক্য বাড়বে বলে ধরা হয়, তাই সরঞ্জামটি নিজে থেকে সম্পৃক্ততার ধরন তৈরি না করে কাজ ও শিক্ষক ইতিমধ্যেই যে শর্তগুলো বসিয়েছেন তা বিবর্ধিত করে। Al Nafjan ঘোষণা করেন যে কাঠামোটি প্রস্তাবনামূলক ও অপরীক্ষিত, ফলে চারটি প্রোফাইল পর্যবেক্ষিত প্রভাব নয়, বরং অভিজ্ঞতামূলক পরীক্ষার প্রতীক্ষায় থাকা প্রত্যাশা।
-
 
 ### সন্নিহিত ধারণাগুলোর সঙ্গে সংযোগ
 
@@ -115,11 +114,9 @@ ai_assist:
 
 - **বিচ্ছেদ উল্টো দিকেও যেতে পারে (2026):** 12-সপ্তাহের বৃত্তিমূলক অন্তর্দেশনা-নকশা কোর্সে, অন্তর্নিহিত LLM শিক্ষণ-সহায়কসহ একটি নিমজ্জনমূলক VR স্টুডিও প্রথাগত [[project-based-learning|প্রকল্প-ভিত্তিক]] শিক্ষাদানের চেয়ে সংজ্ঞানাত্মক (d = 0.90) ও আচরণগত (d = 0.75) সম্পৃক্ততা বাড়ায়, অথচ আবেগগত সম্পৃক্ততা উল্লেখযোগ্যভাবে ভিন্ন ছিল না (d = 0.38) — উপরের L2 লেখা-কেসের বিপরীত ([[ai-ive-pbl-vocational-design-creativity-2026|Jin প্রমুখ, 2026]])। এখানে সংজ্ঞানাত্মক ও আচরণগত লাভ এসেছে *কম* প্রতিবেদিত সংজ্ঞানাত্মক ভারের সঙ্গে, যা লেখকেরা সহায়ক অন্বেষণ ও আন্তঃবিষয় সংহতকরণের প্রচেষ্টা শুষে নেওয়ায় আরোপ করেন। লেখা-কেসের বিপরীতে পড়লে দুটি গবেষণা প্রমাণ করে, একটি এআই-সমর্থিত হস্তক্ষেপ কোন সম্পৃক্ততা-মাত্রা নাড়ায় তা নকশার বৈশিষ্ট্য — সংলাপ-ভারী নিমজ্জনমূলক [[collaborative-learning|সহযোগিতা]] বনাম একক লেখা-সহায়তা — এআই-সহায়তার সাধারণ বৈশিষ্ট্য নয়, এবং উচ্চ-মান বা বুদ্ধিমান প্রতিক্রিয়া থেকে আবেগগত সুবিধা ধরে নেওয়া যায় না।
 
-
 - **এআই সাক্ষরতা মনস্তাত্ত্বিক সম্পদের মাধ্যমে সম্পৃক্ততায় কাজ করে (2026):** চীনের ঝেংঝোতে 1,198 জন স্নাতকের একটি মডারেটেড মধ্যস্থতা গবেষণা ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) সম্পৃক্ততাকে [[ai-literacy|এআই সাক্ষরতার]] ফল হিসেবে মডেল করে, সরঞ্জাম-ব্যবহারের উপজাত হিসেবে নয়। এআই সাক্ষরতা শিখন-সম্পৃক্ততার পূর্বানুমান করে সরাসরি এবং পরোক্ষভাবে মনস্তাত্ত্বিক পুঁজি গড়ে, যেখানে পরোক্ষ পথ মোট প্রভাবের প্রায় অর্ধেক বহন করে — আংশিক মধ্যস্থতা, তাই একটি প্রযুক্তিগত সক্ষমতা কেবল আংশিকভাবে তার উৎপন্ন মনস্তাত্ত্বিক সম্পদের মাধ্যমে সম্পৃক্ততায় রূপান্তরিত হয়। পেশাদার প্রতিশ্রুতি, একটি পরিচয়-ভিত্তিক চলক, মনস্তাত্ত্বিক-পুঁজি-থেকে-সম্পৃক্ততা সংযোগ মডারেট করে নিজের কোনো সরাসরি প্রভাব ছাড়াই, এবং মনস্তাত্ত্বিক পুঁজির সম্পৃক্ততায় রূপান্তর উল্লেখযোগ্যভাবে শক্তিশালী ছিল সেই শিক্ষার্থীদের জন্য যাঁরা নিজেদের পেশায় প্রবেশ করতে দেখেন। ধরনটি উপরের সেই বিন্দুর সবচেয়ে স্পষ্ট প্রাপ্য দৃষ্টান্ত যে শিক্ষার্থী-বৈশিষ্ট্য শর্ত দেয় এআই কীভাবে সম্পৃক্ততাকে প্রভাবিত করে।
 
 - **এআই-পূর্ব-শ্রেণি অনুশীলন সরাসরি অংশগ্রহণ বাড়াতে পারে (2026):** 759 জন MBA শিক্ষার্থীর একটি পূর্ব-নিবন্ধিত মাঠ-পরীক্ষা দেখে, ভয়েস-ভিত্তিক এআই আলোচনা-সঙ্গীর সঙ্গে প্রস্তুতি পরবর্তী সেশনে স্বেচ্ছা-অবদান প্রায় 31% বাড়ায়, কিন্তু কেবল দ্বিতীয় ব্যবহারের পর; প্রথম ব্যবহার কম অংশগ্রহণের পূর্বসূরি ছিল ([[assigned-ai-preclass-student-engagement-2026|Wang প্রমুখ, 2026]])।
-
 
 - **বিচ্ছিন্নতা স্থির অবস্থা নয়, টার্ন-স্তরের চাল:** [[rho-disengaged-conversational-behaviors-2026|Rho প্রমুখ (2026)]] Math Nation-এ একটি এআই শিক্ষণীয় এজেন্টকে দেওয়া 5,522টি শিক্ষার্থী-উক্তি ছয়টি কথোপকথন-বিচ্ছিন্নতা শ্রেণিতে কোড করেন (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) এবং দেখেন সম্পৃক্ততার হার উক্তির 75.7%-এ প্রাধান্য পায়। False Answering ও Mocking-এর প্রসার-ভিত্তিক সম্পর্ক পোস্ট-টেস্ট স্কোরের সঙ্গে মানব-অ্যানোটেটেড সংবেদনশীলতা-পরীক্ষায় টেকেনি। ক্রমিক বিশ্লেষণই সম্পৃক্ততা-সংশ্লিষ্ট ফল: সর্বোচ্চ-পারফর্মিং ক্লাস্টার মাঝারি বিচ্ছিন্নতাকে শক্তিশালী পুনরুদ্ধার-থেকে-সম্পৃক্ততা রূপান্তরের সঙ্গে যুক্ত করে (Withholding → Engagement p = 0.83), যেখানে সর্বনিম্নটি পুনরুদ্ধারহীন স্থায়ী স্ব-লুপ দেখায় (Engagement self-loop p = 0.96)। Withholding ছিল একমাত্র বিচ্ছিন্নতা-ধরন যা মীমাংসার বদলে টিকে থাকতে ঝোঁকে — উপস্থিতি বনাম অনুপস্থিতি নয়, অধ্যবসায় বনাম মেরামত সেই পার্থক্য যা সম্পৃক্ততার গতিপথ আলাদা করে।
 
@@ -151,71 +148,3 @@ ai_assist:
 
 - মাত্রা ও যন্ত্রের নাম দিন, এবং নগ্ন বিশেষ্য এড়িয়ে চলুন। যেহেতু স্ব-প্রতিবেদন ও লগ আলাদা হয়, "সম্পৃক্ততা বেড়েছে"-র সঙ্গে একই বাক্যে তার কার্যকরীকরণ দরকার।
 - আবেগ থেকে অর্জন অনুমান করা এড়িয়ে চলুন। ক্লাস্টার-এলোমেলো বিভক্ত ফলাফলই উভয়—শূন্য ফলসহ—প্রতিবেদনের আদর্শ।
-
-## সংযুক্ত ধারণা
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-সংক্রান্ত ধারণাগুলোর ছাতা
-- [[pedagogical-partnerships]] — শিক্ষণ-সহযোগিতা
-- [[community-of-inquiry]] — অনুসন্ধানের সম্প্রদায় (CoI-এর একটি মাত্রা হিসেবে এজেন্টিক সম্পৃক্ততা)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — ছাতা: এআই শিক্ষার মানুষ ও দর্শক (শিক্ষার্থী, শিক্ষক, নকশাকার, প্রশাসক, নীতিনির্ধারক)
-- [[self-report-measures]]
-- [[productive-failure]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — এআই-প্রতিক্রিয়া সাক্ষরতা ও এজেন্টিক সম্পৃক্ততা: তিন-তরঙ্গের র্যান্ডম-ইন্টারসেপ্ট প্যানেল (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — শিক্ষার্থী-এআই সংলাপে বিচ্ছিন্ন কথোপকথন-আচরণ ও শিখন (Rho প্রমুখ 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — ভয়েস-ভিত্তিক এআই পূর্ব-শ্রেণি অনুশীলন স্বেচ্ছা শ্রেণি-অবদান ~31% বাড়িয়েছে, তবে কেবল দ্বিতীয় ব্যবহারের পর (Wang প্রমুখ 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — এআই-ব্যবহার বেশি শ্রেণি-অনুপস্থিতির সঙ্গে ছিল, অথচ স্ব-দক্ষতা তা পূর্বানুমান করেনি, সহপাঠী-প্রভাব প্রধান সম্পর্ক (Franco প্রমুখ 2026)
-- [[gai-advocacy-practice-art-education-2026]] — যখন বিশ্ববিদ্যালয় GAI-র পক্ষে সওয়াল করে কিন্তু অনুশীলনে পিছিয়ে পড়ে: শিল্প শিক্ষায় শিক্ষার্থী-মূল্যায়ন ও সৃজনশীল প্রক্রিয়া-সম্পৃক্ততা
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — মাথায়-সীমিত EEG, চোখ-ট্র্যাকিং ও EDA পাঁচ-স্তরের সম্পৃক্ততা-রেটিং পূর্বানুমান করে, অথচ শিক্ষার্থীদের নিজেদের সংজ্ঞা ম্যাপিং বদলে দেয় (Anupkrishnan প্রমুখ 2026)
-- [[student-attention-estimation-fairness-2026]] — রিয়েল-টাইম শিক্ষার্থী-মনোযোগ অনুমানে ন্যায্যতা-সচেতন বহুমাধ্যমিক ট্রান্সফরমার মডেলিং
-- [[ai-student-engagement-online-learning-review-2025]] — অনলাইন শিখনে এআই-শিক্ষার্থী-সম্পৃক্ততার নিয়মতান্ত্রিক পর্যালোচনা
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — উচ্চশিক্ষায় এআই: সম্পৃক্ততার নিয়মতান্ত্রিক পর্যালোচনা + শিক্ষাদান-পদ্ধতির মধ্যস্থতাকারী ভূমিকা
-- [[genai-motivation-engagement-2026]] — শিক্ষার্থী-প্রেরণা ও সম্পৃক্ততায় জেনারেটিভ এআই-এর প্রভাব
-- [[critical-engagement-code-completion]] — ট্যাব নাকি ট্যাব নয়: এআই কোড-সম্পূর্ণকরণে সমালোচনামূলক সম্পৃক্ততা মাপা
-- [[icap-cognitive-engagement-llm-agents]] — সহযোগী আলাপে সংজ্ঞানাত্মক সম্পৃক্ততা মাপা
-- [[genai-tutor-engagement-patterns]] — সব শিক্ষার্থী একভাবে সম্পৃক্ত হয় না: বহু-প্রতিষ্ঠান ধরন
-- [[polished-artifacts-fragile-engagement-2026]] — পালিশ করা আর্টিফ্যাক্ট, ভঙ্গুর সম্পৃক্ততা
-- [[ai-availability-student-motivation]] — "এত পরিশ্রম কেন?": এআই-এর প্রাপ্যতা প্রেরণাকে কীভাবে আকার দেয়
-- [[genai-performance-vs-learning]] — পারফরম্যান্স-লাভ শিখন থেকে আলাদা করা
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI-এর সঙ্গে সমালোচনামূলক সম্পৃক্ততার স্ক্যাফোল্ডিং
-- [[engagement-intensity-learner-modeling]] — শিক্ষার্থী-মডেলিং সংকেত হিসেবে সম্পৃক্ততার তীব্রতা
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — ভিডিও শিখনে সম্পৃক্ততা-মূল্যায়ন
-- [[engagement-forecasting-its]] — হিউরিস্টিক থেকে বিশ্লেষণে: প্রচেষ্টা ও অগ্রগতি পূর্বানুমান
-- [[interactive-learning-dashboards-engagement]] — ইন্টারঅ্যাকটিভ শিখন-ড্যাশবোর্ড ও সম্পৃক্ততা
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — শিক্ষার্থী-বৈশিষ্ট্য × TTS সংলাপ-বিন্যাস মিথস্ক্রিয়া
-- [[wang-goal-setting-ai-engagement-2026]] — লক্ষ্য-স্থাপন তত্ত্ব: এআই-সহায়িত ইংরেজি শিখনে শিক্ষক-সহায়তা, অর্জন-লক্ষ্য ও সম্পৃক্ততা (758 চীনা শিক্ষার্থী)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — চ্যাটবট-সম্পৃক্ততার চালক হিসেবে GenAI সক্ষমতা ও আবেগ (Zhao প্রমুখ 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — শিক্ষার্থী-এআই কথোপকথনে বিষয়-সংশ্লিষ্ট ব্লুম-স্তরের সংজ্ঞানাত্মক সম্পৃক্ততা (Chang ও Li 2026)
-- [[gpt4-feedback-student-activation-2026]] — ব্যক্তিগত GPT-4 প্রতিক্রিয়া শিক্ষার্থী-সক্রিয়তা টিকিয়ে রাখে
-- [[genai-writing-program-primary-l2-motivation-engagement]] — প্রাথমিক স্তরে মাত্রা-নির্দিষ্ট সম্পৃক্ততা-লাভ (Lu প্রমুখ 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — নিমজ্জনমূলক VR PBL স্টুডিওতে সংজ্ঞানাত্মক ও আচরণগত সম্পৃক্ততা বাড়ে, আবেগগত সম্পৃক্ততা সমান (Jin প্রমুখ 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — ক্লাস্টার-এলোমেলো মাধ্যমিক গণিত পরীক্ষা: কাস্টমাইজড চ্যাটবটে পরিস্থিতিগত আগ্রহ বাড়ে, পরীক্ষার পারফরম্যান্স বাড়ে না (Rücker ও Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — এআই সাক্ষরতা সরাসরি ও মনস্তাত্ত্বিক পুঁজির মাধ্যমে সম্পৃক্ততা চালায়, পেশাদার প্রতিশ্রুতিতে আরও জোরদার (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমান GRE শিখন-লাভ দেয়
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — এআই টিউটরে প্রবেশাধিকার রেকর্ডকৃত প্ল্যাটফর্ম-অংশগ্রহণ 0.90 SD কমায়, অথচ হোমওয়ার্ক-জমা অপরিবর্তিত (Liu প্রমুখ 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — স্ব-প্রতিবেদিত ও পর্যবেক্ষিত এআই-সম্পৃক্ততা প্রোফাইল মেলেনি, কেবল আচরণ কুইজ-স্কোর অনুসরণ করেছে (Keith, Wood ও Posey 2026)
-
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — জেনএআই-এর অধীনে চারটি পূর্বানুমিত সম্পৃক্ততা-বিন্যাস, এবং কেন সরঞ্জাম সেগুলোকে বিবর্ধিত করে
-

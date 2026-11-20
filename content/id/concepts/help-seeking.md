@@ -19,12 +19,13 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
 > **Pencarian bantuan** — proses pembelajar mengenali kebutuhan akan bantuan dan secara strategis memintanya, serta bagaimana proses itu berlangsung dalam lingkungan belajar yang didukung AI. Dalam [[ai-education|AI dalam pendidikan]], pencarian bantuan menjadi sentral bagi apakah alat AI mendukung atau melemahkan pembelajaran: *kualitas* pencarian bantuan (kapan, bagaimana, dan apa yang diminta pembelajar) sangat membentuk hasil, dan tutor AI, petunjuk, serta agen [[pedagogy|pedagogis]] dirancang justru untuk memunculkan pencarian bantuan yang produktif alih-alih pencarian jawaban.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 Penjangkauan proaktif dapat meningkatkan pencarian bantuan tanpa perubahan apa pun pada materi pembelajaran. Eksperimen pra-registrasi di mata kuliah sarjana berpendaftaran besar mengirim pesan kepada siswa melalui chatbot akademik dan menemukan pengambilan tutoring serta instruksi tambahan yang lebih besar; analisis mediasi mengaitkan 17.8% dari efek nilai dengan peningkatan pencarian bantuan tersebut (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
@@ -113,7 +114,6 @@ Dalam [[english-education|komposisi]] yang sepenuhnya daring, ketersediaan alat 
 
 **Trajektori pencarian bantuan memprediksi transfer, bukan hanya levelnya.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] mengodekan 880 giliran dari 112 siswa menengah yang memodelkan masalah matematika dengan LLM dan menemukan campuran statisnya tidak informatif: 81.5% giliran adalah permintaan, hanya 2.2% evaluasi eksplisit, dan 54% permintaan berorientasi pemahaman berbanding 46% pencarian jawaban. Kinerja pada pascates yang diambil tanpa AI diprediksi oleh kemiringan dalam-sesi alih-alih oleh levelnya. Pencarian bantuan berorientasi pemahaman menurun (M = −0.20) sepanjang obrolan, dan trajektori itu menambahkan ΔR2 = .110 pada model yang sudah memuat skor prades (β = .34, p < .001). Fitur interaksi statis hanya menambahkan ΔR2 = .023 (p = .684). Kualitas pencarian bantuan karenanya harus dibaca sebagai kurva: sesi yang dibuka dengan pertanyaan konseptual dan berakhir pada permintaan jawaban menandakan kinerja tanpa bantuan yang lebih lemah, dan kenaikan kecil dalam regulasi diri eksplisit (M = +0.103) tidak mengimbanginya.
 
-
 **Pipeline kedua mengajukan pertanyaan yang sama dari sisi infrastruktur.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] berargumen bahwa pertukaran manusia-AI adalah kelas data tersendiri: representasi mereka mencatat keadaan komputasi yang memicu permintaan, permintaan itu, responsnya, penilaian pengguna atasnya, dan eksekusi yang menyusul, sebagai satu objek. Kueri kemudian diklasifikasikan sebagai pemulihan kesalahan, langkah berikutnya yang macet, bantuan konseptual, atau validasi dari konteks itu. Dalam penerapan JupyterLab dengan 35 siswa yang mencakup 140 pasangan siswa-tugas, jumlah interaksi biasa berkorelasi dengan sel yang berhasil dieksekusi hanya pada r = 0.12, sementara 37 pasangan memiliki akses dan tidak pernah menggunakannya dan 26 menggunakannya di luar kondisi yang ditetapkan bagi mereka.
 
 ## Implikasi bagi desain dan penelitian
@@ -129,52 +129,3 @@ Dalam [[english-education|komposisi]] yang sepenuhnya daring, ketersediaan alat 
 - **"Siswa yang membutuhkan bantuan tidak memintanya."** Sebuah **eksperimen pra-registrasi** di mata kuliah sarjana berpendaftaran besar mengirim pesan kepada siswa melalui chatbot akademik dan menemukan **pengambilan tutoring dan dukungan tambahan yang lebih besar**. Dorongan mengubah perilaku, sehingga hambatannya adalah [[prompt-engineering|ajakan]], bukan kemauan.
 - **"Permintaan pencarian bantuan adalah tentang pembelajaran."** **Permintaan dukungan operasional** mempersulit asumsi itu: di antara **4,093 kueri**, setidaknya **20.4% menanyakan status pengajuan yang tertunda alih-alih pengetahuan**. Seperlima dari permintaan bantuan bersifat administratif.
 - **"Menggunakan tutor AI berarti memantau pembelajaran Anda sendiri."** Dalam studi terhadap **98 siswa Kelas 9** yang menggunakan tutor GenAI, interaksi **didominasi permintaan instrumental dengan hampir tidak ada pemantauan atau evaluasi atas pembelajaran mereka sendiri**. Meminta jawaban bukanlah pencarian bantuan dalam pengertian yang dimaksud konstruk ini.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung bagi konsep-konsep di sisi pembelajar
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — penjangkauan institusional dan alokasi dukungan, di luar pencarian bantuan dalam mata kuliah
-
-## Artikel terkait
-
-- [[leite-its-k12-meta-analysis-2025]] — Dukungan tutoring mana yang membawa efek: contoh dan petunjuk sesuai permintaan alih-alih pemicu otomatis
-- [[taufer-human-ai-interaction-haidl-2026]] — Interaksi sebagai data kelas satu: mengklasifikasikan kueri berdasarkan keadaan eksekusi di sekitarnya
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Trajektori pencarian bantuan, bukan levelnya, memprediksi kinerja matematika tanpa bantuan
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Panjang petunjuk diukur terhadap ketepatan pengajuan berikutnya, percobaan, dan waktu, dalam mata kuliah pemrograman langsung
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agen pembantu yang tidak diminta siapa pun (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: Sistem tanya jawab in-situ interaktif berbasis pena yang memanfaatkan LLM
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Pencarian bantuan termediasi LLM dalam STEM: berlapis, instrumental, dan terverifikasi
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Satu klik jauhnya: Khanmigo dalam eksperimen sekolah dua tahun
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoring virtual dengan CAL: eksperimen tentang pengambilan dan pembelajaran
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Kumpulan data StudyChat tentang dialog siswa–LLM dalam mata kuliah AI
-- [[lak2026-hint-button-unproductive-use]] — Permintaan petunjuk dini dan pembacaan petunjuk yang dangkal memprediksi keuntungan belajar yang lebih rendah di sebuah ITS
-- [[ai-fallibility-warning-help-seeking]] — Peringatan tentang keterbatasan AI meningkatkan pencarian bantuan dalam sistem tutoring matematika
-- [[regulating-ai-tutor-adolescent-srl]] — Kesenjangan niat-perilaku dalam pencarian bantuan GenAI remaja dan pembelajaran yang diatur sendiri
-- [[guided-llm-scaffolding-independent-learning]] — Perancah LLM terbimbing meningkatkan pencarian bantuan berfokus penalaran dan pembelajaran mandiri
-- [[rethinking-scaffolding-llm-tutors]] — Ketidakcocokan antara perancah dan pengambilan siswa dalam penerapan tutor LLM di dunia nyata
-- [[uneven-impact-generative-ai-student-learning-2026]] — Ketergantungan dini: berkonsultasi dengan GenAI sebelum pemikiran mandiri, pencarian, atau instruktur memprediksi baik manfaat maupun kerugian (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Literasi sumber daya dalam komposisi daring: hambatannya adalah mengenali kapan bantuan dibutuhkan (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Mengurangi Hambatan bagi Dukungan Akademik: Mengevaluasi Sistem RAG Spesifik Mata Kuliah untuk Menangani Disparitas Pencarian Bantuan di Pendidikan Tinggi
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Perancah adaptif membutuhkan kontingensi: Tutor AI yang meningkat dan memudar berdasarkan apa yang dilakukan pembelajar
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Menyediakan perancah bagi pencarian bantuan AI yang tertarget selama pemecahan masalah
-- [[guided-ai-tutor-impasse-resolution-2026]] — Menelaah variasi dalam cara tutor AI terbimbing menyelesaikan kebuntuan siswa
-- [[student-query-demand-hybrid-ai-support-2026]] — Apa yang sebenarnya ditanyakan siswa: Struktur permintaan dan potensi otomasi dalam sistem dukungan hibrida

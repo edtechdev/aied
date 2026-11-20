@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -92,52 +94,3 @@ Agir sur une rétroaction ne revient pas à améliorer l'artefact. Parmi 22 prof
 - **« La rétroaction de l'IA améliore directement la pensée critique. »** Chez **421 étudiants chinois de premier cycle**, l'association entre usage de l'IA générative et pensée critique [[self-report-measures|auto-déclarée]] **passait par la littératie en rétroaction**. La littératie est le médiateur : une intervention qui ajoute de la rétroaction par l'IA sans construire la capacité de la lire agit sur le mauvais terme.
 - **« La littératie est une condition préalable, pas un résultat. »** Un **panel à trois vagues à ordonnée aléatoire sur 399 étudiants chinois de premier cycle** a trouvé que la littératie en rétroaction de l'IA prédisait l'engagement agentique **ultérieur** (**β = 0,222**) : la boucle joue donc dans les deux sens. Elle est dynamique plutôt qu'une porte à franchir une fois.
 - **« C'est la capacité d'agir qui fait que la rétroaction change l'écriture. »** Sur trois cycles écriture-rétroaction-révision dans **deux classes intactes de 48 étudiants chacune**, **c'est la compréhension qui était la dimension** portant le bénéfice de révision. Une rétroaction qu'un étudiant ne peut pas décoder ne s'améliore pas en la rendant plus actionnable.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Les étapes d'appréciation critique que ces séquences intègrent au flux de travail
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## Articles liés
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Littératie en rétroaction à l'IA et engagement agentique : un panel à trois vagues avec ordonnée à l'origine aléatoire (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Générer des échantillons de travaux notés par grille pour enseigner la littératie en rétroaction (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Reprise sélective sans amélioration de l'artefact : le fossé de traduction de la rétroaction (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — La rétroaction par IA sans cadrage enseignant relève le niveau d'exigence de la littératie en rétroaction (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — La littératie en rétroaction module le lien rétroaction par IA → apprentissage autorégulé (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — La littératie en rétroaction prédit la note de dissertation en rédaction augmentée par l'IA (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Échelle de littératie en rétroaction à l'IA et prédiction de la reprise (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — L'IA générative comme rendant possible l'engagement dans la rétroaction : cadre (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Scénarios pédagogiques de littératie en rétroaction et entraînement à la calibration pour la rédaction assistée par l'IA (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Scénarios pédagogiques de littératie en rétroaction et second évaluateur dans la révision en anglais à visée académique (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Outil de rétroaction automatisée par IA pour développer la littératie en rétroaction (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Situer l'IA générative dans la rétroaction par les pairs en anglais langue étrangère pour développer la littératie en rétroaction (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Étayer la rétroaction autorégulée : IA générative contre pairs humains (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Analytiques d'apprentissage fondées sur l'IA générative vues sous l'angle de la rétroaction et de la littératie en rétroaction (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — L'évaluation par IA générative développe les littératies psychologique, en rétroaction et en IA (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Pratiques et perceptions des enseignants concernant la rétroaction par IA centrée sur l'apprenant
-- [[care-full-feedback-genai]] — Conception soigneuse de la rétroaction avec l'IA générative
-- [[ai-generated-feedback-higher-ed]] — Rétroaction générée par l'IA dans l'enseignement supérieur
-- [[ai-feedback-ecosystem-higher-education-2026]] — L'IA refonde les relations entre étudiants, enseignants, pairs et supports au sein de l'écosystème de la rétroaction (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — Rétroaction par IA et pensée critique dans la rédaction
-- [[repeated-ai-writing-feedback-semester]] — Rétroaction répétée par IA sur la rédaction tout au long d'un semestre
-- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Perspectives étudiantes sur l'évaluation transparente de l'écrit assisté par l'IA dans l'enseignement supérieur
-- [[genai-use-critical-thinking-moderation-2026]] — L'usage de l'IA générative vers la pensée critique passait par la littératie en rétroaction à l'IA générative, et se renforçait avec la pensée réflexive
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — La compréhension, et non la capacité d'action, portait le gain de révision
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Évaluer la rétroaction des pairs et celle d'un chatbot sur le même brouillon, au sein d'une même tâche de réflexion

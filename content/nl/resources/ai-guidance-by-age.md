@@ -29,6 +29,7 @@ verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -52,11 +53,3 @@ De gids is eerlijk over zijn eigen status. De auteurs noemen de items hypotheses
 Twee verdere beperkingen zijn van belang voor het onderwijs. De aanbevelingen zijn ontwerpaanwijzingen, geen geteste interventies; niets op de site rapporteert een uitkomst. En de structuur met leeftijdsbanden legt een grof raster op een ontwikkeling die binnen banden, tussen culturen en tussen contexten verschilt, wat de gids zelf ook erkent.
 
 Het kader dat de moeite waard is om de praktijk in te dragen, is dat van de site zelf: houd de lus menselijk en zoek daarna uit waar AI erin past, in plaats van een menselijk controlepunt te zetten in een lus die van de machine is — dezelfde zorg die het corpus vastlegt als [[cognitive-offloading|offloading]]-risico wanneer een hulpmiddel het deel van de taak overneemt dat het ontwikkelingswerk deed.
-
-## Gerelateerde concepten
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

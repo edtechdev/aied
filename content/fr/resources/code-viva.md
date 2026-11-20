@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -41,7 +42,3 @@ Aux enseignants de cours de programmation qui veulent une preuve qu'un étudiant
 ## Remarques et réserves
 
 Tout s'exécute dans le navigateur : le cours réside dans le stockage local avec un export JSON, les questions voyagent dans la partie d'un lien que les navigateurs n'envoient pas aux serveurs, et les réponses ne reviennent que sous forme de codes que les étudiants choisissent d'envoyer, si bien qu'aucune donnée étudiante n'atteint un tiers. Le générateur de questions est fondé sur des règles plutôt que piloté par un modèle. De l'aveu de l'outil, son lecteur de code est heuristique, si bien qu'un formatage inhabituel ou des macros peuvent masquer une fonction, et qu'une note peut récompenser la connaissance du vocabulaire plutôt que la compréhension du code, ce qui explique pourquoi les notes sont des propositions que l'enseignant approuve et pourquoi il conseille de garder les enjeux faibles. Aucune licence et aucun dépôt source ne sont publiés, et comme les liens portent les questions, ils atteignent quelques kilo-octets, assez longs pour être insérés dans une zone de message d'un système de gestion de l'apprentissage.
-
-## Concepts liés
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

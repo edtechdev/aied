@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 
@@ -115,36 +117,3 @@ ai_assist:
 **«Перенос появляется от более способных моделей.»** Перенос появляется из условий, которые его производят, — общности практики, вариативности контекстов и того, в какой мере рассуждение генерировал сам учащийся. Способность модели поднимает потолок результативности с помощью и ничего особенного не делает для того, что остаётся, когда модель убрана.
 
 **«Руководство всегда поддерживает перенос, значит больше руководства лучше.»** Руководство, которое выполняет рассуждение, замещает процесс, от которого зависит перенос. Различие — между помощью, сохраняющей за учащимся генерацию следующего шага, и помощью, которая генерирует его за него, — и только первая находится на стороне переноса этой границы.
-
-## Связанные концепты
-
-- [[pedagogical-patterns]] — Результат, по которому в итоге оценивается большинство этих последовательностей
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Продуктивный провал
-
-## Связанные статьи
-- [[yan-agentivism-learning-theory-ai-2026]] — Теория обучения среднего уровня для взаимодействия человека и ИИ, с четырьмя механизмами и шестью проверяемыми положениями (Yan and Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Когнитивная разгрузка, чувствительная к слою, в письме с помощью GenAI (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Различие «результат–обучение» и устойчивый перенос
-- [[cognitive-washout-ai-skill-decay-2026]] — Когнитивное вымывание: интервал после снятия поддержки и 22-недельный протокол измерения (Yajee 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Педагогическое управление LLM для продуктивного провала
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — ИИ в образовании по физике частиц: исследовательские проблемы и базовые навыки
-- [[shi-genai-experiential-learning-management-education-2026]] — утверждает, что защищённые симуляции в аудитории могут формировать привычки принятия решений, которые терпят неудачу за их пределами
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Практика устной речи с помощью ИИ повысила готовность общаться с людьми, но ни одно исследование не наблюдало говорения с человеком
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: дополненное обучение через функциональное роботизированное воплощение на столе

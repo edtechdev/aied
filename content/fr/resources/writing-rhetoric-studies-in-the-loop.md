@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -40,6 +41,3 @@ L'introduction de la collection cadre une invite comme un genre rhétorique ayan
 ## Ce qu'il faut savoir avant de l'utiliser
 
 Le livre entier est gratuit en PDF et en ePub, et les chapitres individuels sont publiés séparément avec leurs propres DOI. La publication est de juillet 2026 par le WAC Clearinghouse dans sa série WAC Repository, 402 pages, édité par Anuj Gupta et Brian Gogan, avec le DOI de collection 10.37514/TWR-B.2026.2999. La licence est Creative Commons BY-NC-ND 4.0, si bien que les lecteurs peuvent consulter, imprimer des copies personnelles et renvoyer au livre, mais ne peuvent le reproduire sur un autre site ni l'adapter sans permission ; un cours qui veut une formulation d'invite modifiée devrait écrire sa propre version plutôt que de réimprimer celles-ci. L'invite de chaque chapitre a été testée sur plusieurs plateformes, bien que le livre ne rende compte d'aucune comparaison contrôlée des résultats ; traitez donc les invites comme du design d'expert plutôt que comme une intervention validée.
-
-## Concepts liés
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

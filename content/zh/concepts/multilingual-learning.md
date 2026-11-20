@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,29 +80,3 @@ ai_assist:
 - **“目标语应当从第一天起就占主导。”** 在一项 **24 项研究的系统综述**中，学习者会**用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁**，综述者把这种用法归类为一种真正新的子可供性，而非一种变通。母语支持起的是[[scaffolding|脚手架]]作用，而不是回避。
 - **“AI 语言评估对多语言写作者有偏见。”** 在这里，偏见追随的是**人类基线而非模型**：对 **3 至 6 年级信息类写作**的基于 LLM 的比较判断与研究者的量规趋同（r = .59-.73），并显示出与人类评分者相同的模式。这并非绝对意义上的公平证据，而是模型没有在既有扭曲之上引入新扭曲的证据。
 - **“翻译质量式的输出才是有用的部分。”** 桥梁式用法是解释性的、情境化的，而不是替代性的。一个取代学习者自身产出的工具，移除了桥梁本应促成的练习。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## 关联文章
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — 生成式 AI 聊天机器人提供语码转换的可供性，这是此前的语言工具并不支持的用途
-- [[llm-comparative-judgment-writing-screening-2026]] — 大语言模型比较判断用于普适写作筛查的效度
-- [[multilingual-adaptive-learning-nigeria-2026]] — 面向尼日利亚的基于 AI 的自适应学习平台
-- [[bilingual-llm-lecture-companion-srl-2026]] — 双语 LLM 讲义伴侣
-- [[structural-silence-underrepresented-language-ai-2026]] — 结构性沉默：代表性不足的语言
-- [[llm-cultural-relevance-k12]] — K-12 中的 LLM 文化相关性
-- [[scaffolding-critical-engagement-genai-minority-students]] — 少数族裔学生批判性地参与 GenAI
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct：印度知识体系数据集
-- [[kutti-ai-voice-first-learning-companion]] — 语音优先学习伴侣
-- [[ai-scoring-language-bias-physics]] — 物理中的 AI 评分语言偏见
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — 库拉索与阿鲁巴的四种语言语码转换与会话式 AI（Bush 等，2026）

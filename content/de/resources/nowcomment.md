@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -47,12 +48,3 @@ Lehrkräfte, die Close Reading, Dokumentenstudium oder Medienanalyse in K–12 o
 ## Anmerkungen und Vorbehalte
 
 Konten sind kostenlos, und Dokumente können öffentlich oder mit einer eingeladenen Gruppe geteilt werden. Die KI-Partner laufen auf großen OpenAI-Sprachmodellen, also verlassen ausgewählte Passagen und Fragen das eigene Hosting der Plattform und unterliegen den Bedingungen dieses Anbieters — ein Bezirk sollte die Auftragsverarbeitungsvereinbarung lesen, bevor er es mit Minderjährigen einsetzt. Die Ausgabe ist durch ein Token-Limit begrenzt, das die Seite nach eigenen Angaben noch erweitert, das Partnerverzeichnis liegt hinter einem Login, und die KI-Flächen sind ein schnelllebiger Teil des Produkts: Behandeln Sie jede hier beschriebene Fähigkeit als den Stand der Seite im November 2026, nicht als gefestigten Funktionsumfang.
-
-## Verbundene Konzepte
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

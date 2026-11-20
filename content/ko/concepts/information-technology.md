@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -85,27 +87,3 @@ ai_assist:
 **"대부분의 프로그램이 AI 문서를 갖는다면 AI 거버넌스가 갖춰진 것이다."** **인증받은 48개** 보건 정보학 및 보건 정보 관리 석사 과정 전체에 대한 환경 스캔에서 **40개(83%)**가 공개적으로 이용 가능한 AI 문서를 적어도 하나 지녔으나, 그 발견에는 정책이 아니라 지침이라는 제목이 붙었습니다. 공개된 권고 집합은 거버넌스 기제가 아닙니다. 그것은 책임을 배정하지도, 시스템이 실패할 때 무슨 일이 일어나는지 명시하지도 않습니다.
 
 **"AI 지원 결정을 설명하지 못하는 학생은 AI를 오용하는 것이다."** 다른 설명은 그들이 올바르게 내린 결정을 언어화하지 못한다는 것입니다. IT 업무는 근거가 암묵적인 유능한 실천으로 가득하며, 언어화되지 않은 유능함을 위법으로 다루는 것은 교수 목표를 규율 문제로 오진하는 것입니다. 그것은 정책이 아니라 설명 연습을 필요로 합니다.
-
-## 연결된 개념
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## 연결된 문서
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

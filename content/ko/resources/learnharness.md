@@ -27,6 +27,7 @@ ai_assist:
 translation_of: resources/learnharness
 source_updated: "2026-11-02T07:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,10 +47,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 참고사항과 유의점
 
 무료는 소프트웨어를 뜻할 뿐 추론을 뜻하지 않습니다. 학습자는 제공자 키, 구독, 로컬 Claude Code CLI 또는 OpenAI 호환 엔드포인트를 가져오고, 마크업 없이 제공자에게 비용을 지불합니다. 실시간 미터는 알려진 API 비용만 추정합니다. 기록과 대화, 키는 일반 파일로 기기에 남지만, 프로젝트는 로컬 저장이 곧 오프라인 처리를 뜻하지는 않는다고 경고합니다. 모델 요청과 선택적 받아쓰기, 웹 조사가 모두 외부 서비스에 닿기 때문입니다. Windows x64 설치 파일은 서명되어 있지 않아 Windows가 경고를 표시합니다. 효과 연구는 보고되지 않았으므로 근거는 측정된 결과가 아니라 제시된 논리에 기대고 있으며, 저장소는 2026년 11월 2일 확인 시 약 4,800개의 별을 받았습니다.
-
-## 연결된 개념
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -74,43 +76,3 @@ NER 编码证据显示的是随任务而定的优越性，而非单一最佳模�
 - **“模型的原始能力决定了它诊断错误的能力。”** 真正决定这一点的是**依据（grounding）**：[[reddig-maclellan-personalized-feedback-llm-2026|Reddig、Arora 与 MacLellan（2025）]] 表明，把辅导工具的界面交给 GPT-4，会**实质性地改变**它的错误诊断。模型被告知的关于学习者情境的信息，比它是哪一个模型做得更多。
 - **“任何前沿模型作为[[pedagogical-agent|学习伙伴]]都表现相同。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 在一项课堂比较中研究了**三个前沿家族**（ChatGPT、Gemini 与 Claude），恰恰因为这些家族作为协作者并不能互换。
 - **“更好的模型意味着需要更少的[[scaffolding|支架]]。”** GPT-4 用一份**语义精确、反复共同精炼的评分标准**做支架时，可以在 [[design-based-research|设计本位研究]] 中接近人类的 [[evaluative-judgment|评价性判断]]。这种接近来自经过多轮迭代精炼的那份评分标准，而不是来自模型本身。
-
-## 关联概念
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — 总括：AI 技术与方法（模型、LLM 训练、机器人、RAG、智能体）
-
-## 关联文章
-- [[assessing-quality-ai-generated-exams-field-2025]] — 评估人工智能生成试卷的质量：一项大规模实地研究
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 人工智能能否为不同学生画像提供恰当支持？一项大规模评估
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 大语言模型作为迭代教学设计的推动者
-- [[razavi-powers-item-difficulty-llm-2026]] — 使用大语言模型与基于树的机器学习估计题目难度
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对大语言模型的使用与数据科学课程中人工智能生成题目难度的局限
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：面向教育对话可审计编码的断言式模式
-- [[ai-personal-coach-review-benefits-risks-2026]] — 11 个大语言模型中的谄媚现象：AI 对用户的肯定比人多 49%，提升了信任与持续使用

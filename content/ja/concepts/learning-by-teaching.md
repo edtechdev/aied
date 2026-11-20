@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -113,32 +115,3 @@ ai_assist:
 **「LLMに混乱しているふりを頼むのは些細なプロンプトである。」** それは設計上の問題です。失敗可能性は、教えられる概念と、学習者であるチュータの現在のモデルに較正されなければならないからです。ランダムな誤りはデバッグの練習を生み、特定のもっともらしい誤概念を映す誤りは概念の再構成を生みます。教育上の目標は後者だけです。
 
 **「教えることで学ぶは、教えられるよりやさしい活動である。」** より要求が高い活動です。教える準備は知識の組織化と自分の穴の所在を強いるので、受動的な受容が隠す誤解を表面化させます。困難は最小化すべきコストではなく機構です。
-
-## 関連する概念
-
-- [[pedagogical-patterns]] — AI の被指導者に説明する——ナレッジベースで最も証拠の確からしい系列
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — 包括——AI 教育における教授法と教授方略
-
-## 関連する記事
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — プログラミングにおける教えられるエージェントとしての ChatGPT
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique——546 人の学生のための教えられるエージェント
-- [[prompting-teachability-novice-personas-lbt-2026]] — 教えやすさのための初心者ペルソナの設計
-- [[socrates-students-instructors-llms-lbt-2025]] — LLM の教員としての学生（Socrates）
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — AI に教えることによる語彙学習
-- [[knowloop-confusion-to-consolidation-2026]] — 会話的な振り返りシステムにおける教え返しによる定着
-- [[simulating-novice-students-machine-unlearning-2026]] — 被指導者を初心者の知識水準に保つための機械的アンラーン、および教える対話を通じた再学習
-- [[simulating-students-java-programming-errors-llms]] — LLM による学生の誤りのシミュレーション
-- [[knowledge-building-tutor-learning-2026]] — 既存知識ではなく知識を構築する応答がチュータの学習を予測する

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -47,12 +48,3 @@ Učitelia písania v prvom ročníku a anglické katedry, ktoré chcú spätnú 
 ## Poznámky a upozornenia
 
 Stránka uvádza 12 000+ študentov, 700+ kurzov a 41 000+ zrecenzovaných esejí — čísla od dodávateľa, nie nezávislý audit. Súlad s FERPA, pripravenosť na GDPR a prístupnosť sú rovnako tvrdenia dodávateľa; eseje prechádzajú cez Azure OpenAI a stránka uvádza, že sa nepoužívajú na trénovanie modelov, čo by mal okres potvrdiť v dohode o spracovaní údajov, nie prevziať z marketingovej stránky. Ceny sú freemium a menia sa podľa publika: bezplatný prvý semester pre nových učiteľov (na požiadanie, limit tri na školu), potom približne \$12–15 na študenta za semester, a platená úroveň za recenziu pre jednotlivých študentov s prvou recenziou zdarma. Porovnávacia tabuľka s ChatGPT Plus, Packback a Grammarly je vlastná dodávateľovi. Partnerstvo s UC Davis na projekte PAIRR je výskumná spolupráca, nie publikovaný dôkaz, že platforma zlepšuje písanie.
-
-## Prepojené pojmy
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

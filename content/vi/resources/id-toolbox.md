@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -36,7 +37,3 @@ Trước khi xây: chọn giữa các công cụ soạn thảo theo các tiêu c
 
 ## Vì sao nó tồn tại
 Curt Zilbersher, người đã thiết kế đào tạo doanh nghiệp trong hai mươi tám năm, mô tả những vấn đề nhỏ chưa được giải quyết cứ lặp lại suốt sự nghiệp của mình — đếm số từ thuyết minh, tìm tài sản đẩy một học phần vượt giới hạn của [[edtech-platform|LMS]], rà soát độ phủ phụ đề bằng tay — và đang xây các giải pháp rồi cho đi miễn phí. Trang cũng chạy một khảo sát miễn phí hằng năm về cách nhà thiết kế giảng dạy thực sự dùng tuần làm việc của mình.
-
-## Khái niệm liên quan
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -120,36 +122,3 @@ La letteratura in questa base di conoscenza è disomogenea. Gli studi sulle meta
 Questo non rende il lavoro inutile. Rende le affermazioni adeguatamente modeste. L'elicitazione delle metafore può rivelare assunzioni che i questionari non colgono. La critica delle analogie può rendere visibile la comprensione strutturale. Una metafora ben scelta può dare a una classe un oggetto condiviso su cui discutere. Ma il campo ha ancora bisogno di studi che confrontino l'insegnamento basato sulle metafore con l'insegnamento ordinario, misurino il trasferimento anziché il ricordo della metafora, e verifichino se l'approccio viaggia tra culture e discipline.
 
 Il rischio di affermare troppo è reale in entrambe le direzioni. Un insegnante che tratta una metafora come spiegazione completa può instillarvi un'idea sbagliata. Un ricercatore che tratta la metafora come mera decorazione può mancare un meccanismo attraverso cui gli studenti costruiscono o non costruiscono un modello mentale. La posizione produttiva è trattare la metafora come rappresentazione progettata, parziale e criticabile, e studiare che cosa ne fanno gli studenti.
-
-## Concetti collegati
-
-- [[ai-literacy]] — l'ombrello per l'alfabetizzazione critica all'IA e l'insegnamento basato sulle metafore.
-- [[critical-thinking]] — la critica delle analogie come forma di ragionamento strutturale.
-- [[misconceptions]] — le analogie difettose come fonte di idee sbagliate durature.
-- [[student-ai-interaction]] — come gli studenti interpretano e verificano le spiegazioni dell'IA.
-- [[pedagogical-agent]] — i tutor IA che generano spiegazioni o analogie.
-- [[learning-design]] — selezionare e sequenziare materiali basati sulle analogie.
-- [[educational-development]] — l'elicitazione delle metafore nello sviluppo professionale dei docenti.
-- [[engineering-education]] — le metafore di docenti e studenti in ingegneria.
-- [[cs-education]] — uso e critica delle analogie nell'educazione informatica.
-- [[cognitive-offloading]] — le metafore dello strumento e dell'assistente e i loro rischi.
-- [[trust-calibration]] — i ruoli antropomorfi e la fiducia mal riposta.
-- [[equity-in-ai-education]] — i domini di origine di chi contano come familiari.
-- [[teacher-role]] — il giudizio dell'insegnante sulle spiegazioni generate dall'IA.
-- [[explainable-ai]] — la spiegazione di sistema contro l'analogia didattica.
-- [[student-engagement]] — gli effetti di coinvolgimento delle analogie personalizzate.
-- [[higher-ed]] — il contesto della maggior parte degli studi di questo gruppo.
-
-## Articoli collegati
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — quattro metafore e criteri per insegnare l'alfabetizzazione critica all'IA
-- [[student-reception-genai-analogies-computing-2026]] — gli studenti verificano le analogie generate dalla GenAI e riparano le mappature rotte
-- [[fear-awe-genai-metaphor-workshops-2025]] — workshop di analisi delle metafore con studenti, accademici e personale
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — le metafore dei docenti di ingegneria costruiscono e vincolano la comprensione dell'IA
-- [[genai-professionalization-metaphors-2026]] — le concettualizzazioni metaforiche della GenAI e dell'apprendimento professionale negli studenti
-- [[thermomix-genai-education-analogy-2026]] — un'analogia con un elettrodomestico da cucina per la delega e l'apprendimento con l'IA
-- [[anvil-ai-educational-animations]] — analogie generate dall'IA e animazioni didattiche per l'informatica
-- [[ai-engineering-education-balancing-act]] — le metafore "oracolo" e "tutor" degli studenti eccedono le capacità dell'LLM
-- [[code-anchor-multi-view-visualization]] — scaffold di visualizzazione metaforica e il loro problema di legittimità
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — il "distributore automatico di feedback" di una studentessa come evidenza di alfabetizzazione
-- [[daoism-ai-education-philosophy-2026]] — lo "Zhenren" come contro-metafora dell'IA nell'educazione

@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -52,11 +53,3 @@ verified: [citation]
 שני גבולות נוספים חשובים להוראה. ההמלצות הן פרומפטים לעיצוב, לא התערבויות שנבחנו; שום דבר באתר לא מדווח תוצאה. ומבנה קבוצות הגיל כופה רשת גסה על התפתחות שמשתנה בתוך הקבוצות, בין תרבויות ובין הקשרים, והמדריך עצמו מודה בכך.
 
 המסגור ששווה להעביר לפרקטיקה הוא של האתר עצמו: השאירו את הלולאה אנושית, ואז עבדו איפה בינה מלאכותית נכנסת לתוכה, ולא להציב נקודת ביקורת אנושית בתוך לולאה ששייכת למכונה — אותו חשש שהקורפוס רושם כסיכון [[cognitive-offloading|פריקת עומס קוגניטיבי]] כשכלי משתלט על החלק במשימה שעשה את העבודה ההתפתחותית.
-
-## מושגים מחוברים
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

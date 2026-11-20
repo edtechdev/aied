@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -86,38 +88,3 @@ ai_assist:
 - **«الإحساس بالظاهرة يعني فهمها.»** وجدت تجربة استكشافية أن الطلاب أبلغوا عن **الإحساس** بالطول الموجي والسعة عبر إيماءة يد أقوى من الإحساس به عبر منزلق — لكنها **قاست الإدراك لا التحصيل**. فالإحساس الملموس هو الإمكانية المتاحة، وأما هل أنتج فهمًا فذلك اختبار منفصل.
 - **«درجات قابلية استخدام مرتفعة تصادق على أداة واقع افتراضي تعليمية.»** في **جلسة من ساعة واحدة مع 10 طلاب** على Meta Quest 3، أبلغت الدراسة عن **قابلية استخدام جيدة على مقياس قابلية الاستخدام النظامي ودوار محاكاة أدنى**. فقابلية الاستخدام والراحة شرطان مسبقان وليست أيٌّ منهما مقياسًا للتعلّم.
 - **«اتفاق الطلاب دليل على الإمكانية المتاحة.»** مع **29 طالبًا في السنة الثانية في التصوير الطبي**، **اتفق الـ29 جميعًا أن الإيماءة ساعدتهم على «الإحساس» بما هو الطول الموجي (متوسط 4.52)**. فالاتفاق بالإجماع على إحساس تقرير ذاتي عن التجربة، وادعاء الإمكانية المتاحة يحتاج إلى ناتج لا يعتمد على حكم الطالب على فهمه هو.
-
-## المفاهيم المرتبطة
-
-- [[simulation]] — ما تعرضه البيئات الغامرة عادةً؛ النموذج لا الوسيلة
-- [[embodied-learning]] — الآلية التي يُفترض بالوسيلة أن تستثمرها
-- [[multimodal]] — الإيماءة والصوت والإدخال المكاني كقنوات تعلُّم
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — السياق الذي تكون فيه الممارسة الغامرة أرَسْخ ما تكون
-- [[generative-ai]] — طبقة التأليف الجديدة
-- [[prompt-engineering]] — كيف يبني غير المبرمجين الأدوات الغامرة ويصقلونها
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — تأصيل الإرشاد داخل الخوذة
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — الأمانة، ووعي المتعلّم بحدودها
-- [[cognitive-offloading]] — الكمون وعدم الاستقرار كحمل دخيل
-- [[edtech-platform]] — التزامن والكمون والحضور متعدد المواقع
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## المقالات المرتبطة
-
-- [[genai-ar-physics-simulation-prompt-2026]] — مثير من أربعة عناصر يولّد محاكاة فيزياء AR يتحكم بها باليد؛ تجربة أولية بـ29 طالبًا، ودليل إدراكي فحسب
-- [[mixed-reality-engineering-learning]] — mixed-reality apps vs physical toolkits vs classroom in engineering mechanics; engagement up, complex visualization still hard
-- [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-assisted multimodal instruction in VR stage lighting education, and where grounding broke down (Liang et al. 2026)

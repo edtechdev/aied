@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -76,42 +78,3 @@ Kimlik, paydaş manzarasının insani çapasıdır: her kitle için YZ’nin des
 **“Paydaş analizi erken evre bir alıştırmadır.”** Gerilimler işletime kadar sürer, çünkü roller aynı sistemi farklı yorumlamaya devam eder. Öğrenciye dönük bir [[personalized-learning|kişiselleştirme]] katmanı ile fakülteye dönük bir dürüstlük panosu, aynı verinin iki konumdan görünümüdür ve çatışma, biri ayarlandığında her seferinde yeniden ortaya çıkar.
 
 **“Kitleler arasında bir kimlik, tek bir mesajın hepsine hizmet edebileceği anlamına gelir.”** Kitleler arasında iletişim, aynı kararı onu yanlış betimlemeden farklı terimlere çevirmeyi gerektirir; bu, tek bir mesajı dört biçimde yeniden yazmaktan fazlasıdır.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — kurumsal YZ destek kararlarında hakkı olan taraf
-
-## Bağlı makaleler
-
-- [[genai-student-experiences-uk-he-survey-2026]] — İngiltere yükseköğretiminde GenAI deneyimleri
-- [[ai-uk-higher-education-policy-2026]] — İngiltere yükseköğretim politikasında YZ (öğrenciler ve kurumlar)
-- [[ai-campus-wellbeing-tools]] — Kampüs iyi oluşu için YZ destekli araçlar
-- [[ai-tpack-mathematics-teacher-education-2026]] — Matematik öğretmen eğitiminde AI-TPACK hazırbulunuşluğu
-- [[genai-policies-higher-ed-computing]] — Bilişim alanında kurumsal GenAI politikası
-- [[ethical-ai-higher-ed-game-theory]] — Yükseköğretimde etik YZ kullanımı için koordinasyon oyunu çerçevesi
-- [[student-rationalization-ai-writing]] — Akademik yazımda YZ kullanımının öğrencilerce gerekçelendirilmesi
-- [[ai-changing-teaching-workflows]] — YZ öğretim iş akışlarını nasıl değiştiriyor
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Yükseköğretimde GenAI’ye ilişkin paydaş algıları (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

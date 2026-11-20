@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -67,39 +69,3 @@ ai_assist:
 **"חשיבה עיצובית היא תהליך שיש להאוטמט שלב אחר שלב."** היא דיסציפלינה של מיסגור ומיסגור מחדש של בעיות, וזה בדיוק מה שתיקון עיצובי סוגר. אוטומציה של השלבים תוך השארת המסגרת בלתי-בחונה מייצרת תוצר מוכשר לבעיה הלא נכונה.
 
 **"סוכני AI שמסכימים עם ה[[student-support-and-success|תמיכה בסטודנט]] תומכים בהנמקה העיצובית שלו."** השימוש הפרודוקטיבי המתועד כאן הולך בכיוון ההפוך: [[ai-agents-constructive-conflict-design-education-2026|קונפליקטים קונסטרוקטיביים עם סוכני AI]] בוחן הנחיה אדברסרית שמאלצת שיקול מחודש. סוכן מסכים מחזק את התיקון העיצובי; סוכן מוכוון-התנגדות הוא העיצוב שיש מאחוריו טענה חינוכית.
-
-## מושגים מקושרים
-
-- [[ai-education|בינה מלאכותית בחינוך]]
-- [[generative-ai|בינה מלאכותית יוצרת]]
-- [[agentic-ai|בינה מלאכותית סוכנית]]
-- [[higher-ed|השכלה גבוהה]]
-- [[student-experience|חוויית הסטודנט]]
-- [[scaffolding|פיגום]]
-- [[feedback|משוב]]
-- [[socratic-method|שיטה סוקרטית]]
-- [[creativity|יצירתיות]]
-- [[agency|סוכנות]]
-- [[human-ai-collaboration|שיתוף פעולה בין אדם ל-AI]]
-- [[teacher-role|תפקיד המורה]]
-- [[ai-literacy|אוריינות AI]]
-- [[equity-in-ai-education|שוויון]]
-- [[educational-development|פיתוח חינוכי]]
-- [[human-in-the-loop-ai|אדם-בזמן-אמת]]
-- [[ai-ed-evaluation|הערכה]]
-- [[k-12|K-12]]
-- [[professional-training|הכשרה מקצועית]]
-- [[academic-integrity|יושרה אקדמית]]
-- [[open-source|קוד פתוח]]
-- [[arts-and-media-education|אמנות, עיצוב וחינוך מדיה]]
-
-## מאמרים מקושרים
-
-- [[genai-architecture-education]] — Gen-AI-tecture: שימוש בבינה מלאכותית יוצרת לתמיכה בסטודנטים לארכיטקטורה במשימות עיצוב
-- [[genai-architectural-design-studios]] — פיתוח ויישומים של בינה מלאכותית יוצרת בסטודיו עיצוב ארכיטקטוני
-- [[social-robot-study-companions]] — יצירה שיתופית של רובוטים חברתיים פתוחים למידה עם סטודנטים אוניברסיטאיים
-- [[gaide-vibe-coding-k12-teachers]] — מסגרת מנחה למורי K-12 ביצירת טכנולוגיות למידה מופעלות AI דרך Vibe Coding
-- [[dot-framework-survey-2026]] — סקר מסגרת DOT: אמונות והתנהגויות פרקטיקנים בחינוך מועצם AI
-- [[ai-agents-constructive-conflict-design-education-2026]] — ביצוע קונפליקטים קונסטרוקטיביים עם סוכני AI לשיפור שיקול מחודש בקרב מעצבי אינטראקציה מתחילים
-- [[genai-usage-design-students-survey]] — מחקר של שימוש ב-GenAI על ידי סטודנטים לעיצוב: ניתוח תוצאות סקר ויומנים של נוהגי AI בפוליטקניקו די מילאנו ב-2025/2026
-- [[design-thinking-aigc-fashion-film-2026]] — חשיבת עיצוב לאורך שלבי למידה בעיצוב סרטי אופנה נתמך-AIGC (Liu et al. 2026)

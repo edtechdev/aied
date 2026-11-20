@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -55,21 +57,3 @@ ai_assist:
 **"এআই উৎপাদন গল্পকথনকে সেই শিক্ষার্থীদের জন্য সহজলভ্য করে যারা লিখতে পারত না।"** এটি *একটি লিখিত নির্মাণকর্ম তৈরি করা* সহজলভ্য করে, যা ভিন্ন একটি সুবিধা। মৌখিক আখ্যান, আঁকা ও লেখা বলে দেওয়া — একই লক্ষ্যে পৌঁছানোর প্রতিষ্ঠিত পথ, এবং এগুলো সেই লেখকত্ব ধরে রাখে যা উৎপাদন কেড়ে নেয়।
 
 **"গল্পের শিক্ষামূলক মূল্য তার পালিশ-করা ফলাফলে।"** তা নির্মাণে — কথক যে বাছাই ও ক্রমবিন্যাস করেন তাতে। যে পালিশ-করা গল্প শিক্ষার্থী নিজে বিন্যস্ত করেনি, তা শিক্ষকের নয়, মডেলের দক্ষতা প্রদর্শন করেছে।
-
-## সংযুক্ত ধারণা
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-generated-interactive-fiction-education-2026]] — এআই-উৎপন্ন ইন্টারঅ্যাকটিভ কল্পকাহিনি: 22-শিক্ষার্থীর পাইলটে সুসংগতিই দুর্বল মাত্রা

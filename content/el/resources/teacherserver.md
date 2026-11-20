@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -37,7 +38,3 @@ ai_assist:
 
 ## Σημειώσεις
 Το έργο ισχυρίζεται τοπικά εγκατεστημένο διακομιστή ΤΝ για ταχύτητα και ότι τα δεδομένα υποβάλλονται τοπικά και δεν αποθηκεύονται ποτέ, καθώς και συμμόρφωση με τις κατευθυντήριες γραμμές του Υπουργείου Παιδείας· η [σελίδα της ομάδας](https://teacherserver.com/index-team.php) κατονομάζει τον Zafer Unal, καθηγητή στο Πανεπιστήμιο της Νότιας Φλόριντα, ως ιδρυτή και προγραμματιστή, μαζί με συμβουλευτικό συμβούλιο τεσσάρων μελών διδακτικού προσωπικού από άλλα πανεπιστήμια. Αυτοί οι ισχυρισμοί αξίζει να επαληθευτούν πριν τη χρήση με εργασία μαθητών. Η πρόσβαση απαιτεί εγγραφή, και υπάρχει μια συνοδευτική πλατφόρμα με μεταγενέστερη χρέωση για την κατασκευή δικών σας εργαλείων.
-
-## Συνδεδεμένες έννοιες
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

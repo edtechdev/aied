@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,7 +71,6 @@ Di seluruh [[rct|RCT]], [[meta-analysis-systematic-review|meta-analisis]], dan s
 - **Dalam AI yang dimediasi guru, persiapan menggerakkan perolehan dan alatnya tidak.** Di 19 kelas numerasi sekolah negeri Brasil, siswa yang diajar guru terlatih mengungguli kelompok kontrol, tetapi menambahkan sistem AIED-U ke pelatihan itu tidak menghasilkan perolehan belajar tambahan, dan beban kerja guru berasosiasi negatif dengan perolehan ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues dkk. (2026)]]).
 
 **Intinya:** bobot bukti mendukung **perolehan belajar yang moderat, bersyarat, dan bergantung pada rancangan** dari AI — nyata ketika AI distrukturkan untuk melatih alih-alih menjawab, diberi pagar pengaman, dan dipasangkan dengan ukuran hasil tanpa bantuan, serta absen atau negatif ketika ia menggantikan usaha siswa sendiri. Itulah sebabnya perolehan belajar sebagai hasil harus diukur dengan instrumen yang valid dan tahan AI, dan mengapa [[ai-ed-evaluation]] memasangkan klaim efikasi dengan pengawasan [[research-methods-aied|metodologis]].
-
 
 - **Tutoring AI dapat menyamai tutoring manusia ahli pada perolehan tes terstandardisasi.** Dalam evaluasi dengan 2,383 peserta, tutoring AI gabungan secara statistik setara dengan tutoring manusia ahli pada perolehan belajar GRE (p = .015), dengan keduanya di atas kontrol tanpa tutoring; penulis mengusulkan biaya per poin persentase perolehan sebagai unit untuk membandingkan tutor ([[studentbench-ai-human-tutoring-gre-2026|Northcutt dkk., 2026]]).
 
@@ -151,65 +152,3 @@ Perolehan belajar terhubung ke [[assessment-validity]] — jika [[assessment|pen
 - Preregistrasikan ukuran hasil dan nyatakan apakah ia mengizinkan AI atau tanpa bantuan. Arah temuan dapat berbalik hanya karena pilihan ini.
 - Laporkan ukuran efek terhadap pembanding yang dinamai, bukan terhadap "pendekatan tradisional" secara abstrak. Hasil Bank Dunia hanya dapat ditafsirkan karena ia menamai kelas pembandingnya.
 - Bedakan secara eksplisit penggelembungan kinerja dari pergeseran pembelajaran, karena keduanya menyiratkan obat yang berbeda — perancangan ulang tugas versus pengajaran ulang.
-
-## Konsep terkait
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — Pengembangan Teori dalam AI dalam Pendidikan
-- [[self-report-measures]]
-- [[research-methods-aied]] — Metode Penelitian dalam AIED (bagian DBR)
-- [[social-emotional-learning]] — Pembelajaran Sosial-Emosional
-- [[student-support-and-success]] — hasil administratif (penyelesaian tugas, kredit, persistensi, kelulusan) yang berbeda dari perolehan belajar
-
-## Artikel terkait
-- [[epistemological-audit-genai-meta-analyses-2026]] — Audit Epistemologis Kritis atas Sintesis Bukti Awal dalam Penelitian Pendidikan AI Generatif (Fütterer dkk. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — Akses chatbot siap pakai menaikkan skor tes tanpa bantuan yang bertahan seminggu (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Tutoring AI mengungguli pembelajaran aktif di kelas: RCT yang memperkenalkan rancangan berbasis penelitian baru dalam lingkungan pendidikan autentik (Kestin dkk. 2025)
-- [[genai-performance-vs-learning]] — mengapa kinerja berbantuan bukan hasil pembelajaran (Yan dkk. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoring virtual dengan CAL: eksperimen tentang pengambilan dan pembelajaran
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Satu Klik Jauhnya: Khanmigo dalam eksperimen sekolah dua tahun
-- [[ai-literacy-assessment-misalignment]] — Penilaian Literasi AI: Ketidakselarasan Laporan Diri vs Kinerja
-- [[generative-ai-reduced-study-time-math]] — Penyelesaian Lebih Cepat, Lebih Sedikit Belajar: AI Generatif Mengurangi Waktu Belajar pada Soal Matematika dan Pengetahuan yang Dibangunnya
-- [[genai-meta-analysis-programming-learning]] — Meta-analisis efek AI generatif terhadap produktivitas dan pembelajaran dalam pemrograman
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analisis efek intervensi literasi AI
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Bantuan ChatGPT menghasilkan perolehan belajar setara bantuan tutor manusia
-- [[generative-ai-guardrails-harm-learning]] — AI generatif tanpa pagar pengaman dapat merugikan pembelajaran (RCT PNAS 2025)
-- [[absent-cognitive-baseline-2026]] — Baseline Kognitif yang Absen: Menteorikan Celah Struktural dalam Penilaian Diri Akademik Mahasiswa Asli-AI
-- [[oecd-digital-education-outlook-2026]] — Outlook Pendidikan Digital OECD 2026
-- [[ai-changing-teaching-workflows]] — Bagaimana AI Mengubah Alur Kerja Pengajaran
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analisis pembelajaran bahasa berbantuan robot terwujud yang ditingkatkan AI
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Pembedaan kinerja langsung vs pembelajaran bertahan lama
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti belajar AI generatif: pengalihdayaan pekerjaan rumah merugikan pembelajaran
-- [[ai-assisted-collaborative-learning-model-dbr]] — Model DBR pembelajaran kolaboratif berbantuan AI (berpikir kritis +24.1%, perolehan pemecahan masalah)
-- [[stanford-evidence-base-ai-k12-2026]] — AI khusus tutoring vs AI umum
-- [[jost-llm-programming-education-learning-outcomes]] — Ketergantungan LLM dan nilai dalam koding (korelasi negatif)
-- [[genai-can-harm-teaching-rct-2026]] — AI generatif dapat merugikan pengajaran (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analisis GenAI dan berpikir tingkat tinggi
-- [[mujib-ai-ibl-creative-math-2026]] — IBL berbantuan AI dan kinerja matematika kreatif
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — Perolehan scaffolding PBL yang ditingkatkan AI
-- [[ccct-cooperative-learning-technique]] — Teknik pembelajaran kooperatif yang dirancang AI
-- [[scaffolding-srl-feedback-genai-human-peers]] — Perolehan umpan balik mandiri terstruktur
-- [[learner-ai-interaction-patterns-oop]] — Pola interaksi dan perolehan belajar dalam OOP
-- [[ai-feedback-critical-thinking-writing-2026]] — Umpan balik AI dan berpikir kritis dalam menulis
-- [[pedagogy-ai-mistakes]] — Pedagogi Kesalahan AI: Menumbuhkan Berpikir Tingkat Tinggi (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Tingkat Berpikir Komputasional dan Asisten Koding AI (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analisis: EdTech adaptif/AI menaikkan pembelajaran ~0.125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dalam Pendidikan: Efek yang Mencari Sebab (kritik perbandingan media atas ukuran perolehan)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analisis: efek perolehan belajar AI yang disesuaikan bias ~1/3 dari besaran yang dilaporkan
-- [[oneill-presumed-effective-meta-analysis-2026]] — Dianggap Efektif: audit atas meta-analisis AIED yang cacat
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Sintesis STEM yang mengendalikan ukuran efek dependen dan menguji bias publikasi, tetapi tidak menerapkan penilaian kualitas (Doğan dkk. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Meta-analisis orde kedua atas 45 meta-analisis AI dalam pendidikan, dengan efek terkoreksi tumpang tindih dan penilaian kualitas atas lapisan sintesis (Emslander dkk. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Dalam AI yang dimediasi guru, persiapan menggerakkan perolehan dan alatnya tidak

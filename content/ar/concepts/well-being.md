@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -71,7 +73,6 @@ ai_assist:
 
 **قاعدة الأدلة الاجتماعية العاطفية لا تقول من ينبغي أن يتصرّف.** وجدت [[meta-analysis-systematic-review|مراجعة منهجية]] لـ65 دراسة عند تقاطع الذكاء الاصطناعي و[[social-emotional-learning|التعلّم الاجتماعي العاطفي]] أن قرابة ثلاثة أرباعها لم تذكر أي آثار سياساتية، وأن الأقلية التي ذكرتها قدّمت إرشاداً ضعيفاً يخصّ الفاعلين بشأن الخصوصية و[[teacher-education|تدريب المعلمين]] أو تخصيص الموارد ([[policy-deficit-ai-sel-2026|Tran وLiu وNguyen (2026)]]). فالرفاه كاعتبار تصميمي يملك بالتالي أدلة عن الآثار وأدلة ضئيلة جداً عن المسؤولية، وهو ما يترك سؤال من يصمّم لأجله للمؤسسة لا للأدبيات.
 
-
 يؤسّس إطار إعادة تصوّر مفاهيمي دعم [[self-regulated-learning|تنظيم الانفعال]] في النشاط البدني وإيكولوجيا الحرم الجامعي بدلًا من كشف التأثير وحده: فما من قناة تعبيرية واحدة تحدّد الضيق دون سياق، لذا ينبغي للذكاء الاصطناعي أن يدعم التنظيم عبر التمرين بينما يحتفظ المعلمون والمستشارون بالتفسير، ويصبح مراقبة التأثير قسرية بمجرد ربطها بالحضور أو بالدرجات ([[ai-emotion-regulation-sport-exercise-2026|تشانغ وآخرون (2026)]]).
 
 ### وصلات إلى المفاهيم ذات الصلة
@@ -87,42 +88,3 @@ ai_assist:
 - **«موافقة الطلاب تدلّ على أن الرفاه يُدعم.»** بين **551 طالبًا في السنة الأولى**، **أيّد 82.76% دمج** المحتوى الرقمي والذكي — و**تعايش التأييد العالي مع الإجهاد، وأضعف ضغط مهام الذكاء الاصطناعي الفائدة**. فالتأييد والإجهاد يرتفعان معًا، لذا تُضلّل استبيانات الرضا هنا تحديدًا.
 - **«دعم الرفاه محايد ثقافيًا.»** يصف [[culturally-aware-student-stress-chatbot-2026|Bashir وAfzal (2026)]] Sukoon، أداة دعم رفاه هجينة، بأنها **مرتبطة ثقافيًا** — ويشير تأطير الصفحة نفسه إلى حدودها. فتصميم دعم يفترض متعلّمًا كونيًا يقرأ الجمهور قراءة خاطئة.
 - **«ضغط المهام منفصل عن التقنية.»** النتيجة أن **ضغط مهام** الذكاء الاصطناعي أضعف فائدة الدمج، وهو ما يضع عبء العمل داخل آثار التقنية لا بجانبها.
-
-## المفاهيم المرتبطة
-- [[learners]] — المتعلّمون: المظلة لمفاهيم الجانب المتعلّمي
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — خدمات دعم الحرم الجامعي التي تشمل الإرشاد والتواصل والإحالة
-
-## المقالات المرتبطة
-- [[ai-chatbots-emotional-support-human-connection-2025]] — قيّم 819 طالبًا روبوتات المحادثة تقييمًا عاليًا وخشوا فقدان الارتباط الإنساني أكثر من أي شيء
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — الاحتكاك والمعنى والوحدة كإشارة حيوية
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — العلاقة بين قلق الذكاء الاصطناعي والدافعية الأكاديمية
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — نماذج وانتقالات التكيف النفسي في تعلّم اللغة اليابانية المدعوم بالذكاء الاصطناعي
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — توليف سردي نقدي لمشاركة الذكاء الاصطناعي الحواري والاعتماد عليه
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[sec-ai-literacy-narrative-review-2026]] — دمج الكفاءات الاجتماعية العاطفية في ثقافة الذكاء الاصطناعي
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — مشاركة الطلاب مع الذكاء الاصطناعي التوليدي (نظرية تحديد الذات)
-- [[teacher-education-ai-literacy-sdt-2026]] — تعليم المعلمين لثقافة الذكاء الاصطناعي (نظرية تحديد الذات)
-- [[genai-motivation-engagement-2026]] — الذكاء الاصطناعي التوليدي والدافعية والمشاركة
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — روبوتات الدردشة الذكية والفاعلية الجماعية والتعاون
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: تقويم قلق الطلاب المُعزَّز بنموذج لغوي كبير (2026)
-- [[policy-deficit-ai-sel-2026]] — عجز السياسات في أبحاث الذكاء الاصطناعي × التعلّم الاجتماعي العاطفي
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[daoism-ai-education-philosophy-2026]] — فلسفة الذكاء الاصطناعي البديلة: الطاوية منهجًا للذكاء الاصطناعي في التعليم
-- [[ai-emotional-intelligence-teacher-development-2026]] — تكثيف العلاقات كمعيار لتطوير المعلم المدعوم بالذكاء الاصطناعي
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — موافقة عالية على مقررات الذكاء الاصطناعي تتعايش مع إجهاد مُبلَّغ عنه ذاتيًا، وضغط المهام يُضعف التكيف
-- [[ai-connectedness-adolescent-mental-health-2026]] — الترابط بالذكاء الاصطناعي والصحة النفسية للمراهقين: ترابط مكمّل مقابل تعويضي، مع تنبؤ بعلاقة معكوسة على شكل حرف U
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — الذكاء المُدرك للمساعد الذكي، وتقدم الهدف والصحة النفسية، مع ثقافة الذكاء الاصطناعي كعامل وسيط
-- [[ai-emotion-regulation-sport-exercise-2026]] — إطار إعادة تصوّر لتنظيم الانفعال المدعوم بالذكاء الاصطناعي عبر الرياضة والتمرين وإيكولوجيا الحرم الجامعي
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — قلق الاختبار يُعاد توزيعه لا يُزال
-- [[faculty-ai-well-being-social-supports-2026]] — نموذج معادلات بنيوية لرفاه أعضاء هيئة التدريس مع الذكاء الاصطناعي: ثقافة الذكاء الاصطناعي تهيمن على الكفاءة الذاتية

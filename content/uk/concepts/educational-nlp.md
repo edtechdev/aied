@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -76,39 +78,3 @@ ai_assist:
 - **«Семантична подібність може відсіювати узгодженість із навчальною програмою.»** Перевіряючи **3 837 пар «стоматологічна мета — анотація»**, пошук на основі вбудовувань разом із перевіркою природномовного висновку **визнав узгодженими 22,9% елементів** — семантична подібність є **слабким сигналом** узгодженості. Плинний тематичний збіг і справжній збіг із навчальною метою — це різні відношення.
 - **«Класифікація на рівні висловлювання є природною одиницею.»** **Моделювання всього уроку перевершує класифікацію на рівні висловлювання**: оцінювання цілих транскриптів, а не ізольованих висловлювань, **підвищило виявлення ланцюжків міркування на 14,2 процентних пунктів**. Контекст упродовж уроку несе інформацію, яку знищує будь-який окремий хід.
 - **«Масштабування NLP на коментарях оцінювання дає вплив.»** Оглядове дослідження PRISMA-ScR і карта доказів **421 дослідження** (2015–2026), які застосовують NLP до відкритого студентського оцінювання викладання, виявили масштабування **без досягнення використання**. Обсяг методичного виходу — це не впровадження, і розрив полягає в етапі розгортання, а не в моделюванні.
-
-## Пов’язані поняття
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Пов’язані статті
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Кластери вбудовувань, що впорядковують за формулюванням, а не за фізикою
-- [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) codes teachers' content and pedagogical content knowledge; classical encoders and naive prompting fall short on PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
-- [[nlp-reading-lists-dental-education-2026]] — Обробка природної мови для узгодження читання з цілями навчання та оцінювання балансу тем в стоматологічній освіті
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: набір даних рукописних бланків відповідей для парсингу гібридних документів із шумом

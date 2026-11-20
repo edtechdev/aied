@@ -30,7 +30,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -190,60 +191,3 @@ AI i utbildningen kopplar till varje begrepp i kunskapsbasen — det är fältet
 **"Eftersom AI är allmänt användbar gäller ett fynd var som helst överallt."** Teknikens generalitet skapar inte evidensens generalitet. Strängarna för disciplin, nivå och sammanhang finns eftersom samma verktyg beter sig olika över dem, och ett oförändrat fynd som bärs över en gräns är en extrapolering.
 
 **"Fältets mognad kan avläsas ur dess publikationsvolym."** Volym och mognad divergerar; forskningsmetodsträngen dokumenterar återkommande designbrister som volymen inte åtgärdar, och ramverk förökar sig snabbare än de prövas.
-
-## Anslutna begrepp
-- [[primary-education]] — AI i grundskolans tidigare år
-- [[secondary-education]] — AI i högstadiet och gymnasiet
-- [[undergraduate-education]] — AI på grundnivå
-- [[graduate-education]] — AI på avancerad nivå och i forskarutbildning
-- [[pedagogical-patterns]] — De beprövade sekvenser som operationaliserar fältets pedagogiker
-- [[ai-literacy]] — paraply: att förstå, använda och utvärdera AI
-
-- [[automation-bias]] — lässidans fel: att acceptera en automatiserad bedömning utan att kontrollera den
-- [[human-ai-collaboration]] — paraply: hur människor och AI arbetar tillsammans
-- [[pedagogy]] — paraply: undervisningsmetoder och strategier
-
-- [[case-based-learning]] — casemetod, casediskussion och kontrasterande fall
-- [[metaphors-and-analogies]] — hur metaforer formar AI-förståelse och hur analogier stöder undervisning
-- [[learning-theories]] — paraply: hur lärande sker
-- [[ai-technologies]] — paraply: modeller, tekniker och system
-- [[discipline-specific-aied]] — paraply: AI över ämnesområden och nivåer
-- [[assessment]] — paraply: hur AI bedömer elever och omformar validitet
-- [[feedback]] — paraply: hur feedback genereras, levereras och används
-- [[stakeholders]] — paraply: vilka aktörerna är
-- [[learners]] — paraply: elevsidans begrepp (erfarenhet, identitet, handlingsutrymme, interaktion, elevmodeller)
-- [[ai-ed-evaluation]] — paraply: hur vi vet om AI fungerar
-- [[research-methods-aied]] — paraply: effektforskningsmetoder
-- [[ai-assisted-educational-research]] — AI-assisterad utbildningsforskning
-- [[governance]] — paraply: det institutionella och regulatoriska lagret
-- [[educational-policy-ai]] — paraply: politik, vägledning och implementering
-- [[equity-in-ai-education]] — paraply: rättvisa, tillgång och inkludering
-- [[learning-sciences]] — det empiriska fältet bakom AIED
-- [[ethics]] — de etiska dimensionerna av AI i utbildningen
-- [[misconceptions]] — de mentala modeller människor tar med sig till AI
-- [[interpreting-and-applying-aied-research]] — att läsa en studie och föra ett fynd in i praktiken
-- [[limitations-in-aied-research]] — övergripande begränsningar i evidensbasen
-- [[meta-analysis-systematic-review]] — vad genomgångarna och metaanalyserna fastställer
-- [[history-of-aied]] — hur fältet utvecklades
-- [[philosophy-of-ai-in-education]] — de filosofiska grunderna
-- [[theories-and-frameworks]] — kartan över teori- och ramverksnoder
-- [[theory-development-aied]] — att bygga och revidera teori
-
-- [[sensor-and-gaze-analytics]] — paraply: avkänning av elever genom blick, EEG och bärbara signaler
-- [[ai-avatars-and-synthetic-instructors]] — paraply: syntetiska människor som undervisar, handleder, simulerar och bedömer
-- [[civic-and-political-education]] — ämnesområde: kompetens för det offentliga livet, med en tunn evidensbas
-
-## Anslutna artiklar
-
-Fältomfattande genomgångar av AI i utbildningen — de studier som beskriver hela fältet eller en hel utbildningsnivå snarare än ett enskilt ämne:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Utvecklingen av forskning om AI och utbildning över fyra decennier (ramverket AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kontroll vs. handlingsutrymme: en historia om AI i utbildningen
-- [[genai-higher-education-systematic-review-2026]] — Generativ AI i högre utbildning: systematisk genomgång av 125 studier
-- [[stanford-evidence-base-ai-k12-2026]] — Evidensbasen om AI i K-12: en genomgång av 818 artiklar
-- [[genai-educational-outcomes-meta-analysis]] — Generativ AI och utbildningsutfall: omfattande metaanalys
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 gymnasiala studier; vinster där eleverna bedömer utdata, inte där verktyget producerar arbetet
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 masterstudenter; beredskap nådde självtillit genom handledarstöd
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Genomgång av 61 källor om etik, återkoppling och styrning i doktorandhandledning
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Ett forskarseminarium i en grupp; vinster i självstyrt lärande utan ett oassisterat prov
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studenter; gap mellan grund- och avancerad nivå i etik och självreglering

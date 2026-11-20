@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -121,46 +123,3 @@ Um viés diferente se situa na saída, e não no usuário. Em Esmeraldas, Equado
 - **"Um humano no circuito resolve."** O circuito é tão bom quanto a oportunidade de intervir, e os estudos de correção não mediram a ancoragem.
 - **"É um problema dos estudantes."** Professores, avaliadores, anotadores e administradores são os que referendam em todo desenho que o corpus descreve.
 - **"É um defeito de caráter que um treinamento melhor remove."** O treinamento ajuda, mas a mesma pessoa se comporta de modo diferente conforme a verificação seja barata, a saída seja fluente e a discordância tenha um custo.
-
-## Conceitos conectados
-
-- [[trust-calibration]] — o estado de dependência cuja falha o viés de automação nomeia
-- [[bias-mitigation]] — a contraparte do lado do sistema: o viés dentro do modelo
-- [[cognitive-offloading]] — a delegação de trabalho mental, da qual a aceitação sem checagem é um resultado
-- [[human-in-the-loop-ai]] — a salvaguarda cuja força esta falha decide
-- [[explainable-ai]] — a intervenção de transparência que o corpus propõe e raramente testa
-- [[learning-analytics]] — painéis e alertas precoces, onde os erros de omissão se concentram
-- [[recommender-systems-and-learning-paths]] — ordenar o que fazer em seguida, algo que um estudante pode simplesmente seguir
-- [[automated-assessment]] — a nota que um humano pode aceitar sem reler
-- [[scaffolding]] — checagens que continuam mais baratas que a aceitação
-- [[self-efficacy]] — o traço sobre o qual a previsão padrão se apoia
-- [[ai-detection]] — detecção julgada por humanos sob pressão de tempo
-- [[remote-proctoring]] — suspeita levantada por um modelo e julgada por uma pessoa
-- [[ai-literacy]] — onde a verificação como habilidade avaliada viveria
-
-## Artigos conectados
-
-- [[shi-human-ai-complementarity-safety-2026]] — 416 avaliadores, 3.957 itens: a assistência com candidatos primeiro derrubou a captura de erros nos itens em que o modelo errava de 36.7% para 20.6% (Shi et al., 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — professores advertidos contra ceder a recomendações construídas sobre dados estreitos
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — nomeia a ancoragem de avaliadores por notas de IA como risco não testado e propõe o cegamento
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — painéis, feedback sobre características superficiais e semáforos como padrão geral
-- [[factria-responsible-institutional-analytics-2026]] — onze partes interessadas, quatro casos, um chatbot que se recusa a recomendar
-- [[ludia-udl-ai-thought-partner-2026]] — a salvaguarda do educador enfraquecida por confiar no conhecimento de domínio da ferramenta
-- [[extended-minds-coupling-flexibility-2026]] — um direito formal de rejeitar não é supervisão se o viés de automação o derrota
-- [[ground-truth-reliability-aied]] — anotação por LLM, validação circular e deriva silenciosa de rótulos
-- [[polished-artifacts-fragile-engagement-2026]] — o viés de automação como vertente sociocognitiva do esforço epistêmico reduzido
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — um de quatro modos de falha no trabalho recursivo humano-IA
-- [[eight-mode-ai-engagement-typology-2026]] — o modo Oráculo e seu risco característico
-- [[assessing-student-drive-framework-2025]] — a agência humana ativa como salvaguarda contra o viés de automação
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 estudos sobre se a IA desloca trabalho extrínseco ou constitutivo
-- [[geoscience-field-learning-genai-2026]] — ancoragem, confirmação e viés de automação no trabalho de campo ligado a evidências
-- [[ahmadfard-interactive-oer-review-2026]] — viés de automação listado entre riscos que erosionam a agência de estudantes e professores
-- [[alshahrani-health-sciences-ai-use-2026]] — as preocupações éticas de 310 estudantes lidas como argumento para treinamento explícito
-- [[ai-literacy-legal-translation-2026]] — pós-edição ensinada como habilidade avaliada contra pressões de ilusão de qualidade
-- [[morales-cevallos-ai-forensic-science-education-2026]] — viés de automação documentado nos estudos revisados de IA forense
-- [[rana-genai-design-thinking-2025]] — andaimes que mantêm o julgamento humano no centro
-- [[kim-overtrust-ai-literacy-2026]] — a previsão invertida: estudantes confiantes confiaram mais na ferramenta
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — um framework construído sobre a pesquisa de viés de automação, não um teste dela
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — um de três mecanismos que erosionam a cidadania crítica
-- [[academic-erasure-complexity-ai-writing-2026]] — o viés de automação dentro do trabalho afetivo de vigiar o uso de IA
-- [[llm-fallacy-misattribution]] — a distinção mais próxima: dependência excessiva de um sistema versus competência pessoal percebida

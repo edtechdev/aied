@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,7 +49,6 @@ Matokeo ya darasa yanayopingana yanaonyesha kuwa mahitaji hayaenda pamoja: miong
 
 - **Upatikanaji si matumizi.** Kwa wanafunzi 406 wa Madarasa 5–8 wakiandika mara mbili, mara bila zana za kidijitali na mara na GenAI ya hiari, kuridhika kwa uhuru kulishuka (Δ = −0.28) huku udhibiti wa wastani ukibaki thabiti na kiwango cha matumizi ya AI hakikutabiri uanachama wa profaili ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder na Grahl (2026)]]).
 
-
 Jaribio la usanidi linafanya uwazi zaidi: miongoni mwa wanafunzi 498 wa uzazi wa kitabibu, matumizi ya GAI yalihusishwa kwa udhaifu tu na kuridhika kwa mahitaji (β = 0.155) na yalibainika kuwa hayana lazima kwa ushiriki wa juu, huku kuridhika kwa mahitaji ya uwezo ikiwa hali ya msingi katika usanidi wenye nguvu zaidi ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
 **Njia mbili kutoka hali ya kujifunza hadi matumizi ya AI.** [[dual-ai-learning-pathways-sdt-2026|Shen na Arunrugstichai (2026)]] wanaunganisha SDT na mfano wa Hook wa ushiriki wa tabia ili kueleza kwa nini matumizi ya GenAI yanatofautiana kutoka msaada wa ujenzi hadi utegemezi wa kudhibitiwa. Katika data ya utafiti wa sekta ya **wanafunzi 508 wa chuo kikuu** wenye historia tofauti za shule ya juu na miktadha ya sasa (Uchina na Uthai), ripoti za nyuma za **shinikizo la shule ya juu dhidi ya msaada wa uhuru** zilitabiri kwa njia tofauti ni njia ipi ya mbili wanafunzi walifuata hadi chuo kikuu — moja kuelekea matumizi ya GenAI ya ujenzi na huria na nyingine kuelekea utegemezi wa kudhibitiwa — na matokeo yalikuwa thabiti katika uchanganuzi wa vikundi vingi vya miktadha tofauti. Mfano unaunganisha michakato ya motisha ya SDT na ubora unaohisiwa wa kujifunza unaosaidiwa na AI, ukiweka msaada wa uhuru kama kigezi kinachoelekeza wanafunzi kuelekea matumizi ya AI ya tija badala ya utegemezi.
@@ -66,46 +67,10 @@ Mfumo wa wakala-wa-pamoja unaweka mipaka ya ufikivu wa SDT katika elimu inayopat
 
 SDT inahusiana moja kwa moja na [[motivation]] kama dhana yake ya mama, na [[affective-computing]] na [[affective-tutoring]] kwa ubini wa AI unaotambua hisia, na [[student-experience]] kwa jinsi wanafunzi wanavyouzoefu mazingira ya AI. Msisitizo wa nadhari juu ya uhuru unahusiana na [[self-regulated-learning]], huku kipengele chake cha uwezo kinahusiana na [[self-efficacy-tutoring-learning]] na [[teacher-ai-competency]]. SDT ni muhimu hasa kwa [[professional-training]] na [[educational-development]] kwa sababu ubini unaounga mkono mahitaji ni kanuni inayohamishika ya kuandaa waelimishaji kutumia AI.
 
-
 **Mahitaji matatu hayatumiwi kwa usawa na utafiti wa AI ya kizalishaji.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna na Jiang (2026)]] waliweka masudio 39 dhidi ya uainishaji wa shughuli 20 na kugundua shughuli 14 zipo, na aina saba zinazohusiana na uwezo dhidi ya tano za uhuru na mbili za uhusiano. Shughuli sita hazikuwepo katika utafiti wowote, na nyingi zinaomba mwanafunzi kuhukumu au kupinga zana: kuunda matatizo yenye changamoto, kutabiri matokeo ya zana, kupima alama za matokeo hayo na kujadiliana nayo. Uhusiano ni hitaji ambalo fasihi hupima kidogo zaidi.
-
 
 ## Dhana Potofu za Kawaida
 
 - **"Aina ya motisha ni ya muhimu kidogo kuliko kiasi cha motisha."** Utafiti wa mwaka mmoja uligundua **wasifu vitatu vya motisha, Wasiohusika, Wanaokua, na Wanaojiamua**, thabiti kwa muda, na wanafunzi waliotaka katika wasifu wa **Wanaojiamua** walionyesha **faida kubwa zaidi za [[ai-literacy]]**. Ubora wa motisha ulitabiri kujifunza, na wasifu haukuteleza juu tu.
 - **"Msaada wa uhuru unamaanisha kuondoa muundo."** Utaratibu wa SDT ni uhuru, uwezo na uhusiano pamoja, na ushahidi wa muda mrefu unaonyesha kuwa kuvikidhi kulitabiri faida badala ya kuziandamana tu. Uhuru bila msaada wa uwezo ni ulegevu, na hautimizi masharti ya nadharia.
 - **"[[conversational-ai|Chatbot]] inaweza kutoa mahitaji matatu kiotomatiki."** Utafiti mmoja uligundua ChatGPT inaweza kusaidia uhuru, uhusiano na uwezo katika kujifunza lugha: uwezekano, si sifa. Kama mwingiliano fulani unayasaidia ni swali la kimajaribio kuhusu jinsi unavyotumika.
-
-## Dhana Zilizounganishwa
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Makala Zilizounganishwa
-- [[family-school-autonomy-support-genai-2026]] — Msaada wa Uhuru wa Familia-Shule kwa Matumizi yenye Uwajibikisho ya Watoto ya AI ya Kizalishaji
-- [[dual-ai-learning-pathways-sdt-2026]] — Shinikizo la shule ya juu/msaada wa uhuru na njia mbili za kujifunza kwa AI (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA na GenAI katika maamuzi ya ubini wa kujifunza
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Uzoefu wa wanafunzi na ChatGPT katika kujifunza Kiingereza
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Sifa za mwanafunzi × mwingiliano wa masomo ya mazungumzo ya TTS
-- [[liang-ai-learning-motivation-sdt-2026]] — Uchanganuzi wa mpito wa siri wa SDT wa motisha ya kujifunza kwa AI ya wanafunzi (wanafunzi 2,086 wa sekondari)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motisha ya wanafunzi na kuridhika kwa mahitaji katika madarasa ya GenAI (Schweder, Hagenauer & Raufelder 2026)
-- [[genai-learning-engagement-medical-undergraduates-2026]] — Matumizi ya GAI yanahusishwa kwa udhaifu na kuridhika kwa mahitaji na hayana lazima kwa ushiriki wa juu (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Njia mbili kutoka ushirikiano wa mwalimu–AI hadi ushiriki wa kazi, zikimodareishwa na ujuzi wa kidijitali
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Kuzuia vidokezo kulihifadhi uhuru ambapo kutoa majibu hakuifanya
-
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Upatikanaji wa AI, kushuka kwa uhuru na profaili za motisha katika Madarasa 5–8 (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — Masudio 39 yaliyowekwa dhidi ya uainishaji wa shughuli 20; uwezo umetumika zaidi, uhusiano kidogo zaidi
-

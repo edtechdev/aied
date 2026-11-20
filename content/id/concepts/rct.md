@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,25 +68,3 @@ Untuk pembahasan yang lebih lengkap tentang desain eksperimental dalam AI di pen
 - **"Pengacakan menjamin estimasi yang sah atas apa yang dilakukan alat."** Pengacakan menyeimbangkan perancu; ia tidak memastikan ada orang yang menggunakan perlakuannya. Uji coba berkluster dengan serapan rendah mengestimasi **efek menawarkan** alat, dan intent-to-treat serta treatment-on-treated menjawab pertanyaan yang berbeda.
 - **"Uji coba besar selalu desain yang lebih baik."** Sebagian berargumen bahwa uji coba berskala besar konvensional **tidak dapat mengikuti platform tutoring yang berubah secara material selama studi**, dan sebagai gantinya menggunakan desain yang dipimpin guru yang tetap sah seiring sistemnya berkembang. Uji coba atas sasaran yang bergerak dapat berdaya baik dan tetap mengukur sistem yang sudah tidak ada.
 - **"RCT dan bukti observasional dapat saling menggantikan."** Sebuah RCT dengan **1,174 partisipan** menemukan GenAI **menutup sekitar tiga perempat kesenjangan produktivitas berbasis pendidikan** — klaim kausal yang presisi atas periode tertentu. Observasi menjelaskan mekanisme dan adopsi; ia tidak dapat membawa estimasi itu, dan RCT tidak dapat menjelaskan mengapa.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — desain di balik bukti dukungan siswa terkuat
-
-## Artikel terkait
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Waktu perencanaan pelajaran turun menjadi 0.76 dari kelompok pembanding di 108 sekolah dasar, pada dosis penggunaan alat 7%
-
-- [[generative-ai-education-productivity-gaps]] — Apakah AI generatif mempersempit kesenjangan produktivitas berbasis pendidikan? Bukti dari eksperimen acak
-- [[genai-can-harm-teaching-rct-2026]] — AI generatif dapat merugikan pengajaran: sebuah RCT
-- [[access-not-enough-ai-tutoring-2026]] — Akses tidak cukup: dukungan manusia meningkatkan keterlibatan dengan tutoring AI
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Mengevaluasi Tutoring AI dengan Kecepatan Inovasi: Uji Coba Acak-Mikro yang Dipimpin Praktisi atas Platform Tutoring AI dalam Sains GCSE
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Pengacakan kelompok menurut instruktur: penurunan 0.37 SD pada nilai akhir dan 0.90 SD pada partisipasi platform, dengan serapan 15% dan inferensi pada 34 kluster (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Luaran yang diukur setelah jeda, bukan di akhir sesi

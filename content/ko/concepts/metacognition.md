@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -174,73 +176,3 @@ AI는 자신이 답할 만큼 안다고 판단하는 **메타인지적 문턱**�
 - **"AI 지원은 기저 능력을 그대로 남긴다."** AI 에세이 작성 도움을 받은 학생들은 **자신의 에세이에서 인용한 문장을 떠올리지 못한 비율이 83%**였고, AI를 쓰지 않은 학생은 11%였습니다. 이는 **작성 과정에서 내용에 관여하지 않았음**을 보여 줍니다. 관여는 산출 과정에서 일어나고, 그 과정을 우회한 결과는 나중에 드러납니다.
 - **"외주화는 모든 것을 저하시킨다."** 비용은 전면적이라기보다 **국소적**으로 나타납니다. 외주화는 **연습한 특정 기술**을 저하시키며 기저의 영역 일반 능력은 저하시키지 않고, AI가 함께 있는 상태의 전이 검사에서 드러납니다. 국소화는 중요합니다. 그것은 일반적 쇠퇴를 경고하는 대신 무엇을 보호해야 하는지 알려 주기 때문입니다.
 - **"산출 능력이 있으면 유지 능력도 있다."** 83% 대 11%의 회상 격차가 직접적 반례입니다. 두 조건 모두에서 산출물이 만들어졌지만 기억 흔적은 크게 달랐습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 이 순차들이 쌓아 넣는 성찰 단계들
-- [[learners]] — 학습자: 학습자 측 개념의 상위 개념
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — 학습 판단과 인출 연습이 교정하는 유창성 환각
-- [[cognitive-surrender]]
-
-- [[reflection]]
-- [[executive-function]]
-
-## 연결된 문서
-
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 두 시간짜리 AI 리터러시 워크숍이 자기보고 메타인지와 달리 중학생의 LLM 상호작용 조절을 바꾸었다(Clerc 등 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — 컴퓨터 보조 순차 통역에서의 학생-AI 상호작용
-- [[du-yuan-epistemic-dependence-2026]] — AI 매개 학습에서의 인식론적 의존(Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — 학생이 무엇을 묻는가가 중요하다: LLM 상호작용 깊이, 과제 품질, 즉각적 회상(Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 지원 작문에서 층위 민감적 인지적 오프로딩(Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM에서의 LLM 매개 도움 요청: 층위화되고, 도구적이며, 검증된
-- [[cui-motivation-roles-metacognitive-genai-2026]] — 메타인지적 GenAI 참여에서의 동기와 역할
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — 메타인지 훈련이 최적의 인지적 오프로딩을 촉진한다(Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — 인지적 오프로딩에 대한 메타인지적 통찰: 메커니즘, 개입, 교육적 함의(Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — 메타인지적으로 조절된 GenAI 사용을 위한 IDEA 틀
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: 인간 중심의 AI 메타인지 학습 모형(주체성과 성찰적 학습)
-- [[metacognitively-discordant-completion-genai-2026]] — 메타인지적으로 불일치한 완수와 미이해의 자각적 통과
-- [[ai-metacognition-stem-review]] — STEM에서 메타인지를 스캐폴딩하는 AI 도구
-- [[ai-making-us-stupid]] — AI가 우리를 멍청하게 만드는가? 인지적 오프로딩에 대한 비판
-- [[stanford-evidence-base-ai-k12-2026]] — 범용 AI가 추론을 완수함으로써 메타인지를 억제한다
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI 조언이 "모른다"고 말하려는 의지를 억제한다(조언이 틀리고 정확성 인센티브가 있어도)
-- [[agentic-ai-pedagogical-best-practice-2026]] — 에이전트형 AI와 교수법적 모범 실천: 자동화와 학습 사이의 긴장
-- [[cognitive-offloading-speedup-illusion]] — 인간-AI 상호작용에서 인지적 오프로딩과 속도 상승 환각
-- [[lodge-loble-cognitive-offloading-2026]] — AI, 인지적 오프로딩과 교육에 대한 함의(Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — AI 실수의 교수법: 고차원적 사고 기르기(Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[lukesova-clue-before-correction-2026]] — 정답 전 단서: 자율적 언어 학습을 위한 ChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 프롬프트 리터러시 주기의 프롬프트 과정에 대한 성찰과 저자됨의 발달(Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 잘못된 AI 조언의 수용을 줄이고 자각 보정을 개선했다(Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 자동 채점은 점검은 강화했지만 계획은 아니었고, 자기보고 성찰은 비생산적으로 남았다(Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 메타인지적 자기조절을 통해서만 작동하는 검증 리터러시(Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — 메타인지 판단 정확도가 아닌 외부 지원이 수정 전략 선택을 이끌었다(Iqbal 등 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 선택적 획득: 메타인지 지식은 올랐으나 계획과 점검은 그렇지 않았다(Wang 등 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 성찰적 사용은 AI 접근과 함께 늘어 비판적 사고를 예측했고 지식 향상은 아니었다(Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — 적응적 STEM 학습의 가장 강한 예측 변수로서의 메타인지 자각(Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 진단에서 메타 진단으로: AI 생성 추론을 판단하는 교사(Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 성찰적 AI 참여에서 기술을 유지하는 의존을 향한 열린 질문들
-- [[dang-human-ai-collaboration-competency-2026]] — 인간-AI 협업에서 학습자 주체성의 메커니즘으로서의 메타인지(Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — 메타인지 소유권: 기준, 판단, 행위에 대한 학습자 거버넌스의 구성개념
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 로그와 소리 내어 생각하기가 GenAI 지원 학습에서 서로 다른 메타인지 과정을 포착한다
-- [[ai-cognitive-partner-reflective-thought-2026]] — 학생이 AI를 인지적 동반자로 삼을 때 성찰적 사고의 네 실천과 열한 과정
-- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud는 프롬프트 구성, 검증, 윤리적 추론을 가시적으로 만들었으나 비판적 평가는 표층에 머물렀다. 단독 해법이 아니다
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 예비 교사의 성찰 실천에서의 초인지 훈련과 AI 기반 소크라테스식 비계: 이중 연구 실험 설계
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 인지적 휴면: 유예된 메타인지 참여와 무질서도 상승에 관한 실험적 설명 (Braun 2026)
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — 3수준 메타분석: 통합 g = 0.624, 정확도 평정 점검에서는 비유의로 떨어진다 (Li 등 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC 모형: 메타인지적 오프로딩 대 온로딩, 그리고 지속적 학습과 분리된 과제 수행 (Fan 등 2026)
-- [[guo-overreliance-genai-feedback-2026]] — 점검은 오프로딩 경로를 막기보다 경로를 바꾼다
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 점검이 생략될 때, 그리고 그 비용
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 인지 유연성은 면담 등급을 예측하지만 자기보고 조절은 그렇지 못하다
-- [[sidorkin-extended-executive-cognition-2025]] — 학습 결과로서의 확장 실행 인지(틀)
-
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — 컴퓨터 과학 교육에서 자기조절 학습과 개념적 이해를 강화하는 다중 에이전트 인공지능 모형...
-

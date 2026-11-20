@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 > **हितधारक** — [[ai-education|शिक्षा में एआई]] में शामिल, उससे प्रभावित और उसके लिए उत्तरदायी मानव हितधारकों की सीमा, और इस ज्ञानकोश की उस कवरेज की छत्र अवधारणा कि कार्यकर्ता कौन-कौन हैं। [[ai-education|शिक्षा में एआई]] एक बहु-हितधारक क्षेत्र है: एआई का उपयोग करने वाले शिक्षार्थी, इसे शामिल करने वाले [[teacher-role|शिक्षक]] और [[educational-development|संकाय]], इसका शासन करने वाले [[administrator|प्रशासक]], इसके चारों ओर सीखने के अनुभव बनाने वाले शिक्षण डिज़ाइनर, और इसे विनियमित करने वाले नीति-निर्माता। प्रत्येक श्रोता की ज़रूरतें, क्षमताएँ, भूमिकाएँ और दृष्टिकोण अलग होते हैं, और ज्ञानकोश उन्हें उस मानव संदर्भ के रूप में देखता है जिसमें एआई उपकरणों को डिज़ाइन, तैनात और मूल्यांकित किया जाता है।
@@ -75,42 +77,3 @@ ai_assist:
 **"हितधारक विश्लेषण प्रारंभिक चरण का अभ्यास है।"** ये तनाव संचालन तक बने रहते हैं, क्योंकि भूमिकाएँ एक ही प्रणाली को अलग-अलग तरह से व्याख्यायित करती रहती हैं। छात्र-उन्मुख [[personalized-learning|व्यक्तिगतकरण]] परत और संकाय-उन्मुख सत्यनिष्ठा डैशबोर्ड एक ही डेटा हैं जिन्हें दो स्थितियों से देखा गया है, और जब भी किसी एक को समायोजित किया जाता है, संघर्ष लौट आता है।
 
 **"श्रोताओं में एक पहचान का अर्थ है कि एक ही संदेश सबके लिए काम कर सकता है।"** श्रोताओं के पार संचार का अर्थ है एक ही निर्णय को बिना गलत ढंग से प्रस्तुत किए अलग-अलग शब्दावली में अनुवाद करना, जो एक संदेश को चार तरह से फिर से लिखने से अधिक है।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छाता
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — संस्थागत एआई समर्थन निर्णयों पर दावा कौन रखता है
-
-## संबंधित लेख
-
-- [[genai-student-experiences-uk-he-survey-2026]] — यूके उच्च शिक्षा में जेनएआई के छात्र अनुभव
-- [[ai-uk-higher-education-policy-2026]] — यूके उच्च शिक्षा नीति में एआई (छात्र और संस्थान)
-- [[ai-campus-wellbeing-tools]] — परिसर कल्याण के लिए एआई-संचालित उपकरण
-- [[ai-tpack-mathematics-teacher-education-2026]] — गणित शिक्षक-शिक्षा में एआई-TPACK तैयारी
-- [[genai-policies-higher-ed-computing]] — कंप्यूटिंग में संस्थागत जेनएआई नीति
-- [[ethical-ai-higher-ed-game-theory]] — उच्च शिक्षा में नैतिक एआई उपयोग के लिए समन्वय खेल ढाँचा
-- [[student-rationalization-ai-writing]] — शैक्षणिक लेखन में एआई उपयोग का छात्रों द्वारा औचित्य सिद्धांत
-- [[ai-changing-teaching-workflows]] — एआई शिक्षण कार्यप्रवाहों को कैसे बदल रहा है
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — उच्च शिक्षा में जेनएआई के हितधारकों की धारणाएँ (हंबल एवं मोज़ेलियस 2026)
-- [[edtech-privacy-deferral-2026]] — "हम इसे बाद में ठीक करेंगे": शिक्षा, एआई और एडटेक में छात्र गोपनीयता का टालमटोल

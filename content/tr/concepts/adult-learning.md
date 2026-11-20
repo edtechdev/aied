@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -69,46 +71,3 @@ Yetişkin öğrenme, bu bilgi tabanındaki birkaç yakından bağlantılı kavra
 - **“Tek bir iyi araç yetişkin öğrenenlere hizmet eder.”** Araştırma, **hiçbir tek yetişkin öğrenme YZ sisteminin tüm tasarım yönergelerini karşılamadığını** bulmuştur; gereken şey ekosistemin bütünüdür. Yetişkinler yükümlülüklerle, kesintili programlarla ve heterojen hedeflerle gelir; bu nedenle tek bir ürün tasarım uzayını kapsayamaz.
 - **“Yetişkin düzeyinde dijital okuryazarlık varsayılabilir.”** [[community-centered-ai-education-adults|Bir Orta Batı vaka çalışması]], **yeterince hizmet almamış bir topluluktaki 54 yetişkin** için bir YZ okuryazarlığı programını birlikte tasarlamış ve eşitlik odaklı yetişkin YZ eğitiminin önce **temel dijital okuryazarlığı ve veri güvenini** ele alması gerektiğini bulmuştur. Yaş, dijital akıcılığın vekili değildir.
 - **“Benimseme bir motivasyon sorunudur.”** Veri gizliliği çevresinde [[ai-literacy]] ve [[trust]] oluşturmak, benimsemeyi beklemekten önce gelmelidir. İsteklilik, teknolojiye duyulan coşkudan değil, kişinin verisine ne olduğuna dair güvenden doğar.
-
-## Bağlı kavramlar
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Bağlı makaleler
-
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Bir katılım yelpazesi için tasarım: derin Sokratik diyaloğu daha ödüllendirici yola dönüştürmek

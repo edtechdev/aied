@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -41,7 +42,3 @@ Se adresează profesorilor și studenților individuali, care îl pot folosi fă
 ## Note și precauții
 
 Gratuit acoperă fluxurile individuale de la clasă; prețurile instituționale există separat și sunt legate de amploarea implementării, de manipularea datelor, de suport și de conformare, nu de o taxă pe student sau pe profesor. Pentru că un raport arată un proces, nu o intenție, copierea-lipirea singură nu este abatere — îndrumarea proiectului spune că un student poate lipi propriul text mai vechi și că studenții nu trebuie penalizați doar pentru că au lipit. Cifrele de adoptare și nota 5,0 din Chrome Web Store sunt marketingul proiectului; recenziile dintr-un magazin de extensii nu sunt dovezi independente privind rezultatele învățării. Citește rapoartele ca dovezi pentru o conversație, ceea ce este modul în care instrumentul este proiectat și modul în care dezvoltatorul îl descrie.
-
-## Concepte conexe
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

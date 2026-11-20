@@ -11,6 +11,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 > **Hallucination Risk** — the danger that AI systems generate plausible but factually incorrect or fabricated content in educational contexts, where such errors can mislead [[learners|learners]], undermine [[trust|trust]], and produce invalid assessments. Hallucination is particularly consequential in education because students may lack the domain knowledge to detect AI errors, and teachers may rely on AI-generated diagnoses or feedback that appears authoritative but is unfounded.
@@ -60,39 +62,3 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - **"Errors are obvious when they appear."** An AI diagnosing handwritten math could **fabricate evidence quotes that weren't there while claiming confidence**. The failure was not a plausible-but-wrong answer; it was invented support presented with certainty, which is the hardest kind to catch because it reads as precisely the evidence a careful reader would want.
 - **"Citation-less output is a formatting problem."** In a graduate course that replaced its commercial textbook with AI-generated readings, only **about 0.80% of 4,487 logged pages carried an APA-style in-text citation**. That is an absence of provenance across the whole set, not an occasional omission, and it means verification has no starting point.
 - **"Hallucination is a model-generation problem that newer models solve."** The rate range spans 10-40% across 125 studies, which is a property of the task and the deployment as much as the model. Rate reduction is real progress and does not change that a reader must be able to check.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Connected Articles
-- [[sim-ai-summary-memory-distortion-2026]] — A misleading AI summary distorted adults' memory for a video, and the AI or human label did not protect them
-- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to AI output, with some cited cases misattributed or fictitious
-- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Next-Gen Literature Reviews: A Practical AI Guide for New Scholars

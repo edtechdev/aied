@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -93,29 +95,3 @@ Gutowski اور Hurley پالیسیوں کو پانچ جہتوں پر 0–5 رب
 - **\"قانون کی درسگاہوں نے کوئی موقف طے کر لیا ہے۔\"** بیشتر نے **عموماً ممانعت پسند موقف** اپایا، جس کی توجیہ اکثر **ٹیکنالوجی کے مطالعے کے لیے وقت خریدنا** بتائی جاتی ہے، جبکہ **تقریباً تمام پالیسیوں نے صوابدید انفرادی مدرسین کے لیے محفوظ رکھی**۔ مدرس کی نظرثانی کے ساتھ ممانعت کوئی طے شدہ موقف نہیں، یہ طے شدہ نتیجے کے ساتھ تاخیر ہے۔
 - **\"سروے کا ثبوت میدان کو بیان کرتا ہے۔\"** **ABA کے 2024 سروے میں صرف 29 درسگاہوں نے جواب دیا، جو ABA سے منظور شدہ درسگاہوں کا تقریباً 15% ہے**، اور **800** پریکٹیشنرز کا LexisNexis سروے مختلف آبادی ناپتا ہے۔ اِن میں سے کسی کو قانونی تعلیم کا نمائندہ نہیں سمجھا جا سکتا، اور دونوں کا حوالہ ایسے دیا جاتا ہے جیسے وہ نمائندہ ہوں۔
 - **\"AI کی سفارش روکنا غیر جانبدارانہ ہے۔\"** قانونی سیاق کے ایک تجربے میں، **ٹربیونل کے دیوانی کیسوں پر 186 غیر ماہر فیصلہ سازوں نے غلط AI موقف کی پیروی کہیں کم کی جب نظام نے اپنا موقف روک لیا (5.7-8.2% بمقابلہ 42.0-60.5%)**۔ روکنا غیر جانبداری پیدا نہیں کرتا؛ یہ پیروی میں بڑی کمی پیدا کرتا ہے، جو بذاتِ خود ایک اثر ہے۔
-
-## منسلک تصورات
-
-- [[academic-integrity]] — معاون کام پر لاگو ہونے والا ضابطۂ اخلاق
-- [[assessment-validity]] — کیا معاون کارکردگی مطلوبہ قابلیت ناپتی ہے
-- [[authentic-assessment]] — ایسے ڈیزائن جو بغیر مدد کے تجزیہ کا تقاضا کریں
-- [[ai-use-disclosure]] — انتساب اور رپورٹنگ کے اصول جن پر ابھی اتفاق نہیں
-- [[governance]] — اساتذہ کی گورننس اور پالیسی سازی جیسا کہ قانون کی درسگاہیں کرتی ہیں
-- [[educational-policy-ai]] — ادارہ جاتی AI پالیسی بطور مطالعے کی شے
-- [[critical-thinking]] — وہ استدلال جو کیس طریقہ بنانا چاہتا ہے
-- [[case-based-learning]] — کیس طریقہ اور کیس بحث بطور تدریس
-- [[socratic-method]] — طلبہ کی تیاری پر منحصر مکالمہ
-- [[experiential-learning]] — کلینک اور عمل پر مبنی تربیت
-- [[professional-training]] — لائسنس یافتہ پیشوں کا وسیع خاندان
-- [[career-development-and-readiness]] — عمل کے لیے تیاری بطور بیان کردہ مقصد
-- [[ai-literacy]] — تکنیکی قابلیت بطور پیشہ ورانہ ذمہ داری
-- [[hallucination-risk]] — من گھڑت حوالہ جات بطور شعبے کی امتیازی ناکامی
-- [[legal-issues-and-risks]] — گورننس ناکام ہونے پر اداروں کو کیا پیش آتا ہے
-
-## منسلک مضامین
-
-- [[lorteau-sarro-ai-legal-education-2025]] — قانونی تعلیم میں مصنوعی ذہانت: 82 کاموں کا اسکوپنگ جائزہ (Lorteau اور Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — قانون کی درسگاہوں کی جنریٹو AI پالیسیوں کا پانچ عنصری موازنہ اور گورننس فریم ورک
-- [[llm-turing-test-italian-legal-exams-2026]] — اطالوی بار، جج اور ناٹری امتحانات پر اندھا ٹیورنگ ٹیسٹ، ماہرانہ نشان زدگی کے مقابل بینچ مارک
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — نظام کا موقف روکنا قانونی سیاق کے فیصلوں میں حد سے زیادہ انحصار کو دباتا ہے مگر فیصلہ سازی نہیں بناتا (غیر ماہر فیصلہ ساز، قانون کے طلبہ نہیں)
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI کی تصنیف کردہ اسرار والا رول پلے کھیل بمقابلہ لیکچر: ایک بے ترتیب آزمائش (Xie وغیرہ 2026)

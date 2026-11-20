@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -134,68 +136,3 @@ Pembingkaian yang erat terkait adalah **agensi epistemik relasional** ([[du-yuan
 - **"Siswa menjalankan agensi ketika mereka menggunakan AI secara bebas."** **Skema 14 kategori yang mengodekan 6,788 giliran berbantuan ChatGPT** menempatkan **59% giliran siswa kelas tujuh** ke dalam kategori yang tidak merepresentasikan penggunaan agensial. Volume penggunaan dan agensi adalah ukuran yang berbeda.
 - **"Model saat ini mendukung agensi pembelajar dengan baik."** **Diuji pada sepuluh model, mendukung agensi adalah area terlemah mereka setelah pembelajaran**: ImpactBench mengukur **Agency and Purpose pada 56.0%** untuk kriteria positif. Agensi adalah dimensi yang paling kurang ditangani sistem AI, bukan produk sampingan kapabilitas.
 - **"Mediasi guru adalah kendala bagi agensi."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] mengikuti **sepuluh guru matematika sekolah menengah sepanjang intervensi ChatGPT-4 selama delapan minggu** dan mediasi adalah mekanismenya alih-alih hambatannya.
-
-## Konsep terkait
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[learner-identity]] — identitas pembelajar disipliner, profesional, kreatif, dan akademik yang berkembang
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — arah bersama interaksi yang dimediasi AI
-- [[agentic-ai]] — AI otonom yang dapat mendistribusikan ulang agensi dalam kelompok
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimentasi
-- [[social-emotional-learning]] — Pembelajaran Sosial-Emosional
-- [[cognitive-surrender]]
-
-## Artikel terkait
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Survei representatif nasional terhadap guru dan kepala sekolah AS tentang cakupan kebijakan AI, agensi, dan lima permainan kelas (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Tangan yang membantu atau mitra yang mendominasi? Persepsi individu atas ketergantungan GenAI dan agensi manusia dalam pembelajaran kolaboratif
-- [[yan-agentivism-learning-theory-ai-2026]] — Teori belajar jangkauan-menengah untuk interaksi manusia-AI, dengan empat mekanisme dan enam proposisi yang dapat diuji (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Agensi pembelajar sebagai kualitas emergent dari pengoordinasian kompetensi domain, AI dan metakognitif, bukan simpul mandiri (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Akses ke pilihan vs. agensi yang dijalankan: slider, agen AI opsional dan pembelajaran dalam simulasi flocking
-- [[guarded-adoption-genai-higher-education-2026]] — Adopsi Berjaga-jaga atas AI Generatif di Pendidikan Tinggi
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[ai-mediated-research-agency-formation-2026]] — Pembentukan agensi riset yang dimediasi AI dalam pelatihan ilmiah karier awal
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Offloading kognitif sensitif-lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Pengajaran AI di sekolah mempersempit kesenjangan kesiapan psikologis tetapi tidak kognitif
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Agensi epistemik relasional dan enam kriteria yang memisahkan ketergantungan produktif dari ketergantungan yang merugikan (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Pendampingan pedagogis berbantuan AI yang mendukung identitas STEM
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi: identitas kreatif dalam penggunaan GenAI text-to-image
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Agensi pembelajar emergent dalam kolaborasi manusia-AI implisit: persona suportif vs. kontrarian
-- [[de-barba-srl-genai-2026]] — Agensi pembelajar lintas skala: regulasi, integrasi, posisi
-- [[mishra-control-vs-agency-history-2025]] — Kendali vs. agensi sebagai ketegangan esensial dalam sejarah AIED
-- [[daoism-ai-education-philosophy-2026]] — Filosofi AI Alternatif: Daoisme sebagai Metode bagi AI dalam Pendidikan
-- [[human-autonomy-agency-hri-review-2025]] — Otonomi dan Agensi Manusia dalam HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Desain Berbasis Pengetahuan untuk Robot Sosial Generatif
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Menumbuhkan agensi siswa dalam pekerjaan yang relevan dengan pembelajaran
-- [[shaw-nave-cognitive-surrender-2026]] — Teori Tri-Sistem dan penyerahan kognitif: bagaimana AI membentuk ulang penalaran manusia (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agensi guru prajabatan selama interaksi GenAI dalam desain untuk pembelajaran (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Visi emansipatoris: agensi sebagai zero-sum dengan agensi alat
-- [[chen-zou-genai-group-assessment-agency-2026]] — Tiga pola agensi dalam penilaian kelompok yang dimediasi GenAI: diintensifkan, ditahan, dan tidak dijalankan
-- [[ai-integrated-teaching-identity-tensions]] — Selektivitas berprinsip sebagai agensi guru dalam pengajaran terintegrasi AI (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Penolakan sebagai bukti diagnostik: non-penggunaan sebagai relasi situasional dan hak yang tidak merata untuk menolak AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — otoritas epistemik yang ditegaskan melalui interupsi, koreksi dan penolakan alih-alih penggunaan alat yang maksimal
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Mengetahui, Siapa yang Menjawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Riset AI Generatif Pendidikan Tinggi
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Pertanyaan Terbuka Menuju Ketergantungan yang Menjaga Keterampilan dalam Keterlibatan AI Reflektif
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetensi vs. agensi sebagai tujuan pendidikan AI, dan heuristik agensi AI yang terinformasi (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Mediasi guru sebagai kondisi yang menjaga GenAI tetap menjadi artefak untuk dikritik alih-alih otoritas (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Agensi guru sebagai sumber daya yang dimobilisasi melalui desain, dengan kesiapan dinilai dari artefak alih-alih penggunaan (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Menyeimbangkan agensi guru dan siswa dalam alat ko-orkestrasi untuk pemasangan pasangan dinamis waktu-nyata (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Matriks Otoritas Interpretatif dan Model Integrasi Otoritas Ekologis: empat konfigurasi siapa yang menafsirkan, dan lapisan ekologis yang menggesernya
-- [[gyekye-selves-apprenticeship-2026]] — Siswa kulit berwarna dalam program magang menulis diri mereka melalui AI lewat penolakan, negosiasi, dan pengakuan ("kerataan kultural"); Literasi AI Institusional dan Bandwidth Pengakuan
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Agensi epistemik bersama dalam 6,788 giliran berbantuan ChatGPT pada penulisan sains sekolah menengah (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Kepemilikan yang dipersepsikan hanya turun ketika seluruh esai didelegasikan; pengguna untuk perencanaan dan peninjauan menyamai non-pengguna (Jelson et al. 2026)
-
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Siapa yang Berpikir? Mencirikan Agensi Manusia dalam Interaksi AI Mahasiswa Tahun Pertama

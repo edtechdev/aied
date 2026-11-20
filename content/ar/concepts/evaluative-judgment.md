@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -114,55 +116,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«خطأ المُقيِّم ضجيج عشوائي.»** **لحكم المُقيِّم اتجاه قابل للقياس خاص به**: فخمسة مسؤولي قبول يفصلون **50 مقال قبول بشريًا عن 50 مقالًا بالذكاء الاصطناعي** بلغوا **AUC 0.70**، أي أنهم ميّزوا المصدرين تمييزًا ضعيفًا فقط — ولأن أحدًا لم يفحص التسليمات، كان ذلك **الحكم غير المسنَد هو آلية الإنفاذ كلها**، مع كل مقال موسوم يحمل **1.5 نقطة مئوية أقل في احتمال القبول**. فإشارة ضعيفة صارت عقوبة حقيقية.
 - **«مراجعة الأقران ومراجعة الذكاء الاصطناعي بديلتان.»** نموذج PAIRR [[pairr-ai-peer-review-2025|(سبير وآخرون، 2025)]] **يجمع مراجعة الأقران بمراجعة الذكاء الاصطناعي** لتنظيم المعايرة. فالجمع بينهما هو التصميم، ما يعني أن أياً منهما منفردًا لا يوفّره.
 - **«جودة الحكم خاصية بالحاكم.»** تضع نتيجة القبول المشكلة في الترتيب — حكم غير مُصادَق عليه يُطبَّق عند العاقبة بلا مرحلة فرز — لا في قدرة الأفراد.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — خطوة التَقويم التي يؤديها الطلاب على مخرجات الذكاء الاصطناعي داخل هذه التسلسلات
-- [[ai-education]] — الذكاء الاصطناعي في التعليم (المظلة)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## المقالات المرتبطة
-- [[elkington-human-centred-assessment-value-2026]] — التقويم المتمركز حول الإنسان والتجمّعات والقيود التوليدية (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — لماذا يرفض أساتذة الكتابة تفويض التصحيح: فهو كيف يتعلّمون طلابهم
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT مقابل تغذية الأقران الراجعة كساحتين لتدريب أبعاد مختلفة من الحكم التقييمي
-
-- [[ai-internal-feedback-evaluative-judgments]] — كيف تُطوّر التغذية الراجعة الداخلية المدعومة بالذكاء الاصطناعي الأحكام التقييمية، وحيث يبقى الاستدلال ضعيفًا
-- [[genai-feedback-design-multisite-experiment]] — التغذية الراجعة الهجينة (الذات/الأقران/الذكاء الاصطناعي) تحافظ على الفاعلية والحكم أفضل من التغذية الراجعة المباشرة من الذكاء الاصطناعي
-- [[pairr-ai-peer-review-2025]] — مراجعة الأقران والذكاء الاصطناعي مع تأمل منظّم بوصفها معايرة على نطاق واسع
-- [[zhan-boud-dawson-genai-feedback-engagement]] — كيف تحكم ثقافة التغذية الراجعة فيما إذا كانت تغذية الذكاء الاصطناعي تُعلّم أم تُستبدل
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — فجوة الاستدامة في تغذية الذكاء الاصطناعي الراجعة
-- [[teichmann-detecting-undetectable-misconduct-2026]] — الحكم التقييمي كأحد مسارات التصميم التي تستبدل الإنفاذ القائم على الكشف
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — جعل الاستدلال والحكم المرئيين الشيء الذي يُثيبه المعيار
-- [[learner-centered-feedback-ai]] — الحكم التقييمي للمعلم مع أدوات التغذية الراجعة المدعومة بالذكاء الاصطناعي
-- [[beyond-detection-authentic-assessment-ai-2025]] — ما بعد الكشف: الأصالة يُعاد تصميمها لا يُراقَب سلوكها
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — إعادة تصوّر صحة التقويم لعصر الذكاء الاصطناعي التوليدي
-- [[du-yuan-epistemic-dependence-2026]] — قابلية الاعتراض وقابلية الاستعادة والمعايير الفاصلة بين الاعتماد المعرفي والتبعية
-- [[rethinking-ai-writing-feedback-literacy]] — ثقافة التغذية الراجعة في الكتابة المدعومة بالذكاء الاصطناعي
-- [[student-perspectives-ai-writing-grading-2026]] — من يُقيّم عملي؟ وجهات نظر الطلاب في تقويم الكتابة الشفاف المدعوم بالذكاء الاصطناعي في التعليم العالي
-- [[sharma-judgment-visible-genai-assessment-2026]] — الحكم كجوهر تقييمي للنزاهة: مسارات قرار معلّقة، دفاع شفوي، تاريخ إصدارات (شارما 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — لجان توزن الأدلة دون معايير مُشرَّعة: مشكلة حكم المؤسسة نفسها (مونيوز وآخرون 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — عدم دقة أدوات الكشف وفشل الكتابة الهجينة: الحكم البشري كبديل موصى به للحكم الآلي (هدرة وآخرون 2026)
-- [[wright-transcription-not-generation-2026]] — الوظيفة لا المنصة: الحكم على ما فعلته أداة لا على ماهيتها (رايت 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms ومعدل التمييز: تقويم مسار الاستدلال خلف العمل المدعوم بالذكاء الاصطناعي (أوستن 2026)
-- [[ai-written-admissions-essays-penalized-2026|مقالات القبول المكتوبة بالذكاء الاصطناعي شائعة لكنها تُعاقَب]]
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — فحص الفاعلية (موثوق، ذو صلة، مقبول، مُفصَّل) الذي يهيكل كل تفاعل مع الذكاء الاصطناعي
-
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — الحكم فصل الجودة فقط حين وُصل بالتنقيح (Z = 2.80 و2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — تعديلات المعلّمين صارت معايير تحقق قابلة لإعادة الاستخدام (Tang وآخرون 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — التنميط المُزال من المهمة، والحكم الذي يُستعار

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -90,34 +92,3 @@ Il existe aussi un risque conceptuel. Un cas peut être mémorable parce qu'il e
 - **« Un cas réaliste enseigne par lui-même. »** Le réalisme fournit le contexte. Ce sont les questions, les comparaisons et les tâches de justification qui fournissent l'apprentissage.
 - **« Les cas générés par l'IA sont prêts à l'emploi. »** Les cas générés peuvent être fluides, plausibles et faux. Ils exigent une relecture experte et une vérification du raisonnement qu'ils invitent.
 - **« Si les étudiants apprécient la discussion, le cas a fonctionné. »** L'engagement n'est pas le transfert. Le résultat doit être mesuré sur une tâche que les étudiants ne pouvaient pas accomplir auparavant.
-
-## Concepts liés
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Articles liés
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — Un LLM ancré a tenu cinq cas périopératoires sans fabriquer de contenu
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT a réduit le temps de création de cas en sciences infirmières sans différence de qualité mesurée
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Six essais contrôlés randomisés d'ABP et d'apprentissage par cas assistés par l'IA ; seuls deux testaient l'apprentissage par cas
-- [[scaffolding-critical-engagement-genai-minority-students]] — Modelage par l'enseignant avec des cas contrastés dans un cours d'IA générative
-- [[ai-standardized-patient-scaffolding-medical-2026]] — L'apprentissage par cas aux côtés de patients virtuels et simulés
-- [[genai-medical-education-transformation-review-2026]] — L'apprentissage par cas et le raisonnement clinique parmi les catégories d'application de la revue
-- [[hardie-genai-nursing-scoping-review-2026]] — L'apprentissage par cas à l'intérieur du thème de la simulation d'une revue en sciences infirmières
-- [[lorteau-sarro-ai-legal-education-2025]] — L'IA complète l'enseignement socratique et les simulations juridiques
-- [[csaszar-ai-management-education-2026]] — Les études de cas et les simulations de l'enseignement de la gestion, sans analyse de la méthode des cas

@@ -29,6 +29,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,7 +49,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 참고사항과 유의점
 
 속도가 곧 홍보이자 위험입니다. 하루 만든 앱은 연구 질문이 아니라 실제 교실 문제를 겨냥하므로, 여기 어떤 것도 평가를 갖고 있지 않고 앱이 하는 일에 대한 주장은 교실에서 시험해 보아야 합니다. GitHub 조직에는 공개 저장소 32개가 있는데 갤러리는 34개를 나열하며, 모두 Apache-2.0이고 소스가 공개되어 있어 앱을 읽고 직접 호스팅할 수 있습니다. 로컬 우선 설계는 앱마다 확인해야 할 주장이며, 교사는 학생용 도구를 학급 앞에 두기 전에 확인해야 합니다.
-
-## 연결된 개념
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

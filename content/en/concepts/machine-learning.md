@@ -6,6 +6,8 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-11-14T08:32:58-05:00"
 reviewed_by: [editor]
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 > **Machine learning** — the technical foundation of AI in education: algorithms that infer patterns, predictions, and policies from educational data rather than from hand-coded rules. It spans supervised learning (classifying at-risk students, predicting grades), unsupervised learning (discovering learner clusters), reinforcement learning (inducing tutoring and scaffolding policies), and deep learning (neural models for sequences, courses, and visual behavior). [[generative-ai|Generative AI]] is the latest and most visible subset, but it sits atop a much older stack of predictive and adaptive machinery.
@@ -64,34 +66,3 @@ Machine learning also appears in education as a *subject*. In [[microbit-robotic
 **"Generative AI has made classical machine learning obsolete in education."** They do different jobs. Prediction of learner states, difficulty estimation and progress forecasting remain classical ML problems, and the knowledge-tracing and item-calibration literature is not served by a language model. Generative AI is a subset of machine learning rather than a replacement for it.
 
 **"Teacher education should teach students about LLMs rather than about machine learning."** Limiting literacy to the generative layer leaves practitioners unable to interrogate the predictive systems making decisions about their students — which is where the consequential errors concentrate.
-
-## Connected Concepts
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Connected Articles
-
-- [[at-risk-students-ml-prediction]] — Supervised ML classification to identify students at risk of withdrawal
-- [[trace-course-grade-prediction-2026]] — Transformer jointly predicting courses and grades (TRACE)
-- [[precision-education-student-digital-twins-2026]] — AI-powered student digital twins for preventive, career-aligned pathways
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantics-constrained counterfactual recourse for actionable intervention
-- [[interactive-online-learning-ai-2025]] — DMO-GRU hybrid for interactive online-learning prediction
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS (BKT vs DRL)
-- [[pedagogical-safety-rl]] — Formal framework for pedagogical safety in educational reinforcement learning
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of deep-learning automated proctoring
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -69,33 +71,3 @@ Mtazamo wa wasimamizi unaunganika na [[educational-policy-ai]] (uundaji wa sera)
 - Uliza chombo kinaweza kutathminiwa kwa kipi kabla ya kusaini. Kama mkataba hauruhusu ufikiaji wa matokeo, data ya ukaguzi au maelezo ya matumizi, taasisi imenunua uwezo ambao haiwezi kuutathmini.
 - Chunguza matumizi halisi badala ya yaliyoidhinishwa, kwa kuwa mawili yanatofautiana na namba isiyoidhinishwa ndiyo inayobeba hatari ambayo tayari umeikabili.
 - Panga sera kabla ya utekelezaji pale nguvu bado ipo. Mara matumizi yanapoenea, sera inakuwa mazungumzo na mazoezi ambayo tayari yamekwishaamuliwa.
-
-## Dhana Zilizounganishwa
-
-- [[educational-policy-ai]]
-
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Mwanya: watu na wigo wa watu katika elimu ya AI (wanafunzi, walimu, wabunifu, wasimamizi, watunga sera)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — michakato ya taasisi ambayo wasimamizi huiongoza: ushauri, mawasiliano ya kuwafikia wanafunzi, rufaa, na mgao
-
-## Makala Zilizounganishwa
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI katika uongozi wa elimu: taksonomia kamili
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Utawala wa mtazamo na uongozi wa AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI katika sera ya elimu ya juu ya Uingereza na kufanya maamuzi katika taasisi
-- [[ai-campus-wellbeing-tools]] — Zana zinazoendeshwa na AI kwa ustawi wa chuo
-- [[genai-policies-higher-ed-computing]] — Sera ya GenAI ya taasisi katika kompyuta
-- [[institutional-change-framework-ai]] — Mfumo wa mabadiliko ya taasisi kwa AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — Kichujio cha ununuzi cha maswali manne, kilichowekwa kama haki za wanafunzi badala ya usimamizi wa hatari

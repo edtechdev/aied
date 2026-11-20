@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -41,11 +42,3 @@ Projektbeszámolók halmazaként olvassa, ne értékelésként. A könyv három 
 ## Megjegyzések és fenntartások
 
 A fejezetek licencelése a csapda. A gyűjtemény CC BY 4.0, de az egyes szerzők megtartják a szerzői jogot, és saját Creative Commons licencet választottak, így egy fejezet szigorúbb lehet, mint amit a könyv oldala sugall; a tankönyvrevíziós fejezet CC BY-NC-SA 4.0, és az újrafelhasználásnak a fejezetet kell ellenőriznie, nem a front mattert. A szerzőknek nem volt kötelező MI-közzétételi eljárásuk, így a legtöbb fejezet futólag tárgyalja a folyamatát, többnyire az OER Commons útmutatását követve. Szerkesztői döntésként minden fejezet megtartja szerzője tudományági hangját, központozását és regionális helyesírását, így a próza nem egységes. Mindenekelőtt minden fejezet egy helyi projektet dokumentál, és nincs két olyan, amely azonos eszközt vagy összehasonlítást használna, ezért a kötet adaptálható gyakorlatot kínál, nem idézhető bizonyítékot.
-
-## Kapcsolódó fogalmak
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

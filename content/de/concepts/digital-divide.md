@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -105,42 +107,3 @@ Die digitale Kluft ist ein Kernanliegen der Forschung zu [[equity-in-ai-educatio
 - **„Wenn es im Browser läuft, ist es verfügbar.“** Die meisten LLM-Vorlesungstools setzen **einsprachiges englisches Audio und zuverlässiges Internet** voraus, was genau jene Klassenzimmer ausschließt, in denen Englisch mit einer Herkunftssprache gemischt wird. Indiens UDISE+-Daten weisen den Internetzugang an Schulen weit unter dem Niveau aus, das diese Annahme erfordert. Ein Tool, das auf einer vorausgesetzten Infrastruktur aufbaut, schließt stillschweigend jene Lernumgebungen aus, in denen der Bedarf am größten ist.
 - **„Digitale Literalität und AI-Nutzung sind dieselbe mediierende Variable.“** Eine Studie mit **4.497 Schülerinnen und Schülern der 6. Klasse** in den Niederlanden unterschied **zwei getrennte Mediationspfade** — AI-Nutzung und digitale Literalität —, die Hintergrund und Persönlichkeit mit Lernzuwächsen verknüpfen. Sie sind nicht austauschbar, und Interventionen, die das eine steigern, steigern nicht automatisch das andere.
 - **„[[simulation|Simulationen]] beseitigen die Kostenbarriere.“** Eine systematische Übersichtsarbeit zu **11 Studien über digitale Zwillinge** in der STEM-Hochschulbildung ergab Hardwarekosten von **\$2.000-\$15.000** pro Setup. Ein simuliertes Labor kann genau die Gerätekosten wieder erzeugen, die es vermeiden sollte, sodass das Kostenargument für virtuelle Angebote überprüft und nicht bloß vorausgesetzt werden muss.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Verbundene Artikel
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — KI für eGovernance: Sprachtechnologien für digitale Inklusion
-- [[watanabe-genai-education-gap-europe-2026]] — Ist die Bildungskluft in der GenAI-Nutzung kleiner als die des Internets war? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutionelle Strukturen, digitale Ungleichheit und KI-Integration in der nigerianischen Hochschulbildung
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, Persönlichkeit und KI-Klüfte in der Primarstufe (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: Teacher-als-Proxy-Tutoring erreicht Schülerinnen und Schüler ohne Gerät (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — KI-Bildung in der Schule verengt psychologische, aber nicht kognitive Reifelücken
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: Messung und Minderung von Barrieren im Zugang zu LLMs
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Das gerüstete KI-Kompetenz-(SAIL-)Rahmenwerk
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Vermittlung des verantwortungsvollen Umgangs mit KI-Chatbots an K-12-Schülerinnen und -Schüler
-- [[structural-silence-underrepresented-language-ai-2026]] — Strukturelles Schweigen und unterrepräsentierte Sprachen
-- [[sec-ai-literacy-narrative-review-2026]] — Sozial-emotionale Kompetenz in der KI-Kompetenz
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — KI-basierte adaptive Lernplattform für mehrsprachige Kontexte mit wenigen Ressourcen
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematischer Review zu KI in der naturwissenschaftlichen und chemischen Bildung
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO-KI-Leitlinien übertragen auf die chemische Bildung; epistemische Drift
-- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Auslagerung und Implikationen für die Bildung (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Sozialistisch-humanistische KI-Kompetenz + fairer Umgang
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: ländlicher Robotikzugang folgt der Mentoring-Geografie, nicht dem Gerätezugang (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digitale Ungleichheit als distributives Problem vs. algorithmische Kolonialität als erkenntnistheoretisches, in südafrikanischen HDIs
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: ein lokal-zuerst KI-Agenten-Rahmenwerk für kostengünstiges Sprachenlernen in der Haussprache hin zu Bildungsgerechtigkeit
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital-Zwilling-Labore tragen eine Ausrüstungskostenrechnung, die den gleichzeitigen Zugang begrenzt

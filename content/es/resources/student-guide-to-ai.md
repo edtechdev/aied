@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-09-29"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -45,10 +46,3 @@ Estudiantes de grado de cualquier disciplina y estudiantes de secundaria superio
 La guía está planteada de forma [[formative-assessment|formativa]] y así lo dice: las puntuaciones son una instantánea de hábitos, no una calificación, un rasgo ni una predicción, y se pide al estudiantado que no las comparta públicamente.
 
 El planteamiento en torno a la IA se apoya en evidencia de encuestas y experimental que se cita y según la cual externalizar el esfuerzo puede hacer que el estudiantado retenga menos —que es la cuestión de la [[cognitive-offloading|delegación cognitiva]] que la guía está escrita para contrarrestar, no para zanjar—. El PDF de la guía de campo está detrás de un breve formulario que pide nombre, rol, institución y correo electrónico; los módulos de la guía para el profesorado y el artículo sobre el marco pedagógico se descargan directamente. La versión interactiva se ejecuta en Gemini Notebook y necesita una cuenta de Google. Las cifras del editor de más de 40.000 descargas del PDF en unas 4.000 instituciones de 180 países, y más de 130 ediciones de campus personalizadas, son suyas, al igual que los respaldos de la ALA, la NASPA, EDUCAUSE, la OLC, la CAA, el Gardner Institute y RTI International.
-
-## Conceptos conectados
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

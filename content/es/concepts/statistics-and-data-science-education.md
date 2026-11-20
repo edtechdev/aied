@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -87,26 +89,3 @@ La calidad del andamiaje importa con independencia del acceso. Una comparación 
 - **"La satisfacción y el beneficio percibido indican que una herramienta de IA para ciencia de datos funciona."** El estudiantado usó mucho los LLM para depurar y para preguntas de concepto y **declaró una satisfacción alta, mientras su beneficio percibido de aprendizaje profundo disminuía a lo largo del semestre**. La satisfacción se mantuvo y la trayectoria de aprendizaje autoevaluada cayó, así que ninguna de las dos cifras por sí sola es el resultado.
 - **"Un modelo sin restricciones es tan bueno como un tutor guiado."** La ganancia provino del entrenamiento en andamiaje (instrucción explícita en pistas paso a paso y verificación), que superó al mero acceso al mismo modelo en desempeño independiente y en calibración de la autoevaluación. La guía, y el entrenamiento en cómo usarla, sostuvieron el efecto.
 - **"Basta con protegerse contra el hecho de dar respuestas."** Un tutor hecho a medida, envuelto alrededor de una API alojada y con un prompt de sistema para **guiar en lugar de responder**, se desplegó en un curso semestral de R para estudiantes de grado de psicología, donde **entre el 76% y el 84%** del estudiantado lo usó en las semanas relevantes para el examen. Eso es adopción, no evidencia de que la protección produjera aprendizaje: la protección a nivel de prompt es una palanca entre varias y no produce aprendizaje por sí misma.
-
-## Conceptos conectados
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Artículos conectados
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Herramienta agéntica que genera conjuntos de datos sintéticos inspeccionables para la práctica personalizada de la estadística
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tutor de R hecho a medida; la adopción siguió el calendario de exámenes
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Las etiquetas de dificultad del LLM siguen los niveles de Bloom, no el desempeño del estudiantado
-- [[tactile-statistical-graphs-accessibility]] — Canalización de código abierto que genera gráficos estadísticos táctiles con revisión docente
-- [[guided-llm-scaffolding-independent-learning]] — El andamiaje guiado superó al acceso sin restricciones en desempeño independiente
-- [[lund-socially-accountable-data-science-xai-2026]] — Incorporar la responsabilidad social al currículo técnico de ciencia de datos

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -39,6 +40,3 @@ Học phần đi vào qua một kết nối API Canvas, một tệp IMS Common C
 ## Những điều cần biết trước khi áp dụng
 
 Plugin cần Claude Code và một shell bash để cài; PowerShell và cmd không chạy được script thiết lập, và Python 3 được khuyến nghị cho các xu hướng điểm. Dữ liệu học phần nằm trong thư mục dự án trên chính máy của người đọc, và chỉ rời khỏi đó qua một tích hợp do người dùng gọi, chẳng hạn một lệnh gọi API Canvas. Suy luận trực tiếp của tiện ích Chrome cần khóa API Google AI Studio miễn phí của chính người đọc, dù một chế độ mô phỏng minh họa nó mà không cần khóa. Dự án tự gắn nhãn beta ở phiên bản 3.5.1.0 và cảnh báo về những thay đổi phá vỡ giữa các phiên bản phụ, và nó được công bố dưới tài khoản GitHub savvides chứ không phải bởi một tác giả có tên.
-
-## Khái niệm liên quan
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -143,69 +145,3 @@ Bu ayrım akademik değildir. [[pramod-agentic-ai-motivational-pathways-2026|Pra
 
 - Boyutu ve ölçütü raporlayın, çıplak addan kaçının. Öz bildirim ile günlükler ayrıştığına göre, "kavrama arttı" ifadesi işlevselleştirmesini aynı cümlede taşımalıdır.
 - Duygudan başarı çıkarımı yapmayın. Küme randomize ayrışan sonuç, null sonuç dâhil her ikisini de raporlamak için modeldir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry (ajan kavraması bir CoI boyutu olarak)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Üst başlık: YZ eğitiminde insanlar ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## Bağlı makaleler
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — YZ geri bildirimi okuryazarlığı ve ajan temelli kavrama: üç dalgalı, rastgele kesimli panel (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Öğrenci–YZ diyaloglarında uzaklaşmış konuşma davranışları ve öğrenme (Rho ve ark. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Ses temelli YZ ders öncesi alıştırması gönüllü sınıf katkılarını yaklaşık \%31 artırdı, ancak yalnızca ikinci kullanımdan sonra (Wang ve ark. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — YZ kullanımı daha yüksek ders devamsızlığıyla ilişkiliyken öz yeterlilik bunu öngörmedi, baskın ilişkili değişken akran etkisi oldu (Franco ve ark. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Baş üzerinde EEG, göz izleme ve EDA beş düzeyli kavrama derecelerini öngörürken öğrenenlerin kendi tanımları eşlemeyi kaydırır (Anupkrishnan ve ark. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Yükseköğretimde YZ: kavrama ve öğretim yöntemlerinin aracı rolü üzerine sistematik inceleme
-- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Motivation
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × metin-konuşma diyalog biçimi etkileşimleri
-- [[wang-goal-setting-ai-engagement-2026]] — Hedef belirleme kuramı: YZ destekli İngilizce öğreniminde öğretmen desteği, başarı hedefleri ve kavrama (758 Çinli öğrenci)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Sohbet robotu kavramasının iticileri olarak GenAI yetkinliği ve duygu (Zhao ve ark. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Öğrenci–YZ konuşmalarında disiplinle ilişkili Bloom düzeyinde bilişsel kavrama (Chang ve Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — İlkokul düzeyinde boyuta özgü kavrama kazanımları (Lu ve ark. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Sürükleyici bir VR proje temelli stüdyosunda bilişsel ve davranışsal kavrama artışta, duyuşsal kavrama sabit (Jin ve ark. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Küme randomize ortaokul matematik denemesi: özelleştirilmiş bir sohbet robotuyla durumsal ilgi arttı, sınav performansı artmadı (Rücker ve Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — YZ okuryazarlığı kavramayı doğrudan ve psikolojik sermaye aracılığıyla, mesleki bağlılıkla güçlenerek etkiler (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: YZ ve insan özel dersi eşdeğer GRE öğrenme kazanımları sağlar
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Bir YZ özel ders aracına erişim, ödev teslimi sabit kalırken kaydedilen platform katılımını 0,90 standart sapma düşürdü (Liu ve ark. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — Öz bildirilen ve gözlenen YZ kavrama profilleri örtüşmedi; yalnızca davranış kısa sınav puanlarını izledi (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI altında dört öngörülen kavrama yapılandırması ve aracın bunları neden büyüttüğü

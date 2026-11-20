@@ -16,6 +16,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 > **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and [[learner-identity|professional identity]] to teach effectively with AI. Educational development spans individual training, [[curriculum-design|curriculum]] redesign, [[educational-policy-ai|institutional policy]] change, and the cultural work of making sense of what GenAI means for the academic profession.
@@ -81,9 +83,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 
 **Address the four adoption drivers, not just knowledge.** Confidence, attitudes, support, and concerns predict whether faculty actually adopt AI — a knowledge-only workshop that ignores these is unlikely to change practice. Design development to build confidence through hands-on use, provide ongoing support (not one-shot training), and actively surface and respond to faculty concerns.([[teacher-ai-adoption-confidence|Sibug et al., 2026]])
 
-
 Confidence and literacy are not interchangeable targets: in a 502-respondent SEM of university faculty, AI literacy was the dominant predictor of AI [[well-being|well-being]] (β = 0.713) while [[self-efficacy|technological self-efficacy]] contributed little (β = 0.082), and support reached well-being only indirectly ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Treat guideline demand and guideline adequacy as separate problems.** Faculty at one university strongly backed institutional measures against unethical AI use (M = 4.59) while rating existing guidelines lowest (M = 2.99), and named [[privacy|data privacy]] and cultural inclusivity their weakest knowledge - a concrete target for professional development ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
@@ -135,7 +135,6 @@ Participation and substance can move in opposite directions, and the reason is s
 
 **The setting changes the shape of the development, not the need for it.** In medical education, an AI residency treats faculty development and co-learning as the mechanism rather than an add-on ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). A review of 86 early-childhood resources identifies educator development as one of its four themes ([[early-childhood-ai-holistic-competencies-review-2026|the review]]). CTE renewal reaches for faculty development once curriculum change exposes a capability gap ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). And among 146 teachers, engagement in professional development mediated the link between motivation and intended GenAI use ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
-
 A worked example of the cohort model comes from a university library. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] paid seven faculty stipends for an eight-week program that combined four weeks of instruction, independent project development and peer feedback, grounded in Knowles's adult learning principles and the CLEAR prompt framework. The gains were modest in AI familiarity and larger in OER familiarity, and the authors treat the stipend and the union agreement that let adjuncts be paid as part of the intervention rather than as administration.
 ## Common Misconceptions
 
@@ -146,77 +145,3 @@ A worked example of the cohort model comes from a university library. [[jordan-f
 **"Guilt about AI use indicates rule-breaking."** It tracks concealment rather than disclosure: limiting AI use because of unease correlated with hiding it, not with prohibited behavior. Reading guilt as evidence of misconduct therefore misidentifies its source, and treating it as a compliance signal will push the behavior further out of view.
 
 **"A low survey response rate means faculty have no strong feelings."** The paper reads its **109 responses (a 3.5% rate)** as itself informative about the state of ethical debate — a low response to a question about discomfort is a finding about that discomfort, not an absence of one. And a GenAI integration framed purely as upskilling misses the identity question some faculty are actually asking: what the point of teaching is in a GenAI world.
-
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[metaphors-and-analogies]] — Metaphor elicitation and analogy design in faculty development
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-
-## Connected Articles
-
-- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: a six-week faculty institute, symbiotic pedagogy, and the institutional conditions it could not supply
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
-- [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it
-
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Can education set the agenda for AI? Simulated innovation and pedagogical directionsetting in teacher education
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 chemistry teachers in a six-week program
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ language teachers from 28 countries over 20 weeks
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 Scandinavian teachers; 0.20 SD gain in perceived benefits
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 teachers after a GenAI learning program, with needs mediating engagement
-- [[bodek-prompted-to-explore-microlearning-2026]] — a microlearning faculty development model for generative AI
-- [[bursic-ai-residency-education-curriculum-2026]] — an AI residency in medical education
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 resources; educator development as one of four themes
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 teachers asking for development led by former teachers
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% upskilling existing staff and faculty
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 educators legitimizing shadow AI where guidance was absent
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — capability gaps driving faculty development and hiring decisions
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — repeated development as one of five support layers
-- [[chen-future-faculty-development-ai-2027]] — Seven teacher roles, two universal foundations, and the teaching team as the unit of development
-- [[ji-judgement-space-dialogic-inquiry-2027]] — The judgment space, dialogic inquiry and a three-column audit of where judgment has moved to a tool
-- [[jiang-faculty-development-japan-2027]] — Japan's dual-track FD: participation rose while collegial formats did not
-- [[tian-transnational-faculty-development-governance-2027]] — Transnational faculty development: connectivity is episodic, coordination is the work
-- [[ho-invariant-core-faculty-development-2027]] — Invariant core, changing edge: the learning mechanism ahead of the technology
-- [[sheridan-teaching-academics-genai-plans-2026]] — 20 disciplines, 24 countries: academics plan automation first, name time and policy as the constraints (Sheridan et al. 2026)

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,12 +48,3 @@ YZ geri bildirimini ne söylediğinin denetimini bırakmadan isteyen birinci sı
 ## Notlar ve uyarılar
 
 Site 12.000'den fazla öğrenci, 700'den fazla ders ve 41.000'den fazla incelenmiş makale bildiriyor — bağımsız bir denetim değil, satıcı tarafından bildirilen rakamlar. FERPA uyumu, GDPR hazırlığı ve erişilebilirlik de aynı şekilde satıcının kendi iddiaları; makaleler Azure OpenAI üzerinden geçiyor ve site bunların model eğitmek için kullanılmadığını belirtiyor; bir bölge bunu pazarlama sayfasından almak yerine veri işleme anlaşmasında doğrulamalı. Fiyatlandırma freemiumdur ve kitleye göre değişir: yeni öğretim elemanları için ücretsiz bir ilk dönem (talep üzerine, okul başına üçle sınırlı), sonrasında öğrenci başına dönemde yaklaşık \$12–15 ve bireysel öğrenciler için ilk incelemesi ücretsiz ücretli bir inceleme katmanı. ChatGPT Plus, Packback ve Grammarly ile karşılaştırma tablosu satıcının kendisine aittir. PAIRR projesinde UC Davis ortaklığı bir araştırma işbirliğidir, platformun yazmayı geliştirdiğine dair yayımlanmış kanıt değil.
-
-## Bağlı kavramlar
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -79,36 +81,3 @@ ai_assist:
 **“先备知识较少的学生需要更多 AI 支持。”** 这正是最可能扩大差距的方向，因为测得的外包模式把作者身份的损失集中在先备知识最薄弱之处。向最没有能力察觉这种替代的学习者提供本该由其完成的工作，恰好移除了本可建构缺失知识的活动。
 
 **“先备知识是课程无法改变的固定输入。”** 它是新学习中所占权重最大的因素，这使得建构它成为杠杆最高的任务，而非一项背景条件；这也是领域知识本身即是一种干预、而不只是协变量的原因。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — 生产性失败
-- [[retrieval-spacing-interleaving]] — 学习者已有的知识如何决定检索练习能起什么作用
-
-## 关联文章
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — 自动化与学习之间的张力（先备知识被激活的风险）
-- [[genai-mindtool-generative-learning]] — 作为支持学习者建构之思维工具的 GenAI
-- [[nie-personavlm-long-term-personalization-2026]] — LLM 学生建模与记忆
-- [[lodge-loble-cognitive-offloading-2026]] — AI、认知卸载及其对教育的意涵（Lodge 与 Loble 2026）
-- [[cognitive-offloading-llm-synthesis-writing]] — 当 AI 为学习者综合来源时，学习者外包了什么
-- [[bridging-instructional-design-framework-math]] — 面向数学教育者的教学设计框架
-- [[knowledge-building-tutor-learning-2026]] — 知识建构式回应而非先前知识预测辅导者的学习
-- [[rachatasumrit-example-problem-ratio-2026]]
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 先备知识承载了后测（η²p = .63），而自适应任务选择没有承载任何效应（Sibley 等，2026）
-

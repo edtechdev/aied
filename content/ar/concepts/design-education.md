@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -76,49 +78,3 @@ ai_assist:
 - **«طلاب التصميم تبنّوا الأدوات بحماسة.»** تُظهر الدفعة نفسها **71% يستخدمون الذكاء الاصطناعي التوليدي يوميًا أو أسبوعيًا، و65% لا يثقون به، و85% يعدّلون مخرجاته**. فالاستخدام المتواتر وانعدام الثقة يتعايشان، وأداة تفترض في عرض قيمتها الثقةَ قد أخطأت قراءة مستخدميها.
 - **«الذكاء الاصطناعي التوليدي مفيد عمومًا عبر عملية التصميم.»** وجدت منصة GAI-A المبنية عبر دراسة استوديو طولانية **استخدامين مُنتجين فقط**: الذكاء الاصطناعي التوليدي كمحفّز بصري في توليد الأفكار المبكر، وكمُوسّع تركيبي لفضاء الحلول أثناء التطوير. فالفائدة خاصة بالمرحلة.
 - **«مكاسب الإبداع مبثوثة أكثر من أن تُقاس.»** في **مجموعة فرعية من 31 طالبًا**، ارتفعت درجات التفكير الإبداعي من **77.23 إلى 94.68 (d = 0.82)**. فالمكسب قابل للقياس ومحدود بمجموعة فرعية، وهذا هو الشكل الأمين للادعاء.
-
-## المفاهيم المرتبطة
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## المقالات المرتبطة
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: مساحة عمل نقد ذكاء اصطناعي واعية بالمصنوع لتغذية الاستوديو الراجعة؛ دراسة جهوزية قائمة على المحاكاة، لا مكاسب تعلّم
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — تجربة تصميم معماري خفّض فيها سير عمل DALL-E 3 الكفاءة الذاتية الإبداعية العامة
-- [[human-ai-collaboration-design-education-rubric-2026]] — سلم تقييم للعملية يمكن أن يجعل التحقق بالذكاء الاصطناعي هو الموضوع المُقيَّم
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — الوعي بالتعطيل التقني، وعقلية التفكير التصميمي، والكفاءة الابتكارية في التصميم بين طلاب التصميم
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — الاتجاه بوابة ضرورية لنية طلاب التصميم في استخدام وكلاء الذكاء الاصطناعي، مع ملاءمة المهمة–التقنية مسارًا ثانيًا (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — نوع الاعتماد يحدّد ما إذا كانت ثقافة المطالبات تصير اندماجًا
-

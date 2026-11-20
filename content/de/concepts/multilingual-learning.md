@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -78,29 +80,3 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - **„Die Zielsprache sollte vom ersten Tag an dominieren."** In einem **systematischen Review von 24 Studien** forderten Lernende **kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache** an — eine Nutzung, die die Rezensentinnen und Rezensenten als echte neue Teil-Angebotsform einstufen statt als Behelf. Herkunftssprachliche Unterstützung funktionierte als [[scaffolding|Gerüst]], nicht als Vermeidung.
 - **„KI-Sprachassessment ist gegenüber mehrsprachigen Schreibenden voreingenommen."** Hier folgte der Bias der **menschlichen Baseline statt dem Modell**: LLM-basiertes komparatives Urteilen zu **informationsorientiertem Schreiben der Klassenstufen 3–6 konvergierte mit den Rubriken der Forschenden (r = .59–.73)** und zeigte dasselbe Muster wie die menschlichen Bewertenden. Das ist kein Beleg für Fairness in absoluten Begriffen — es ist ein Beleg dafür, dass das Modell keine neue Verzerrung auf die bestehende legte.
 - **„Die Übersetzungsqualität der Ausgabe ist der nützliche Teil."** Die Brückennutzung ist erklärend und situiert, nicht substitutiv. Ein Werkzeug, das die eigene Produktion der lernenden Person ersetzt, entfernt die Übung, die die Brücke ermöglichen sollte.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Verbundene Artikel
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI-Chatbots ermöglichen Translanguaging, eine Nutzung, die frühere Sprachwerkzeuge nicht unterstützten
-- [[llm-comparative-judgment-writing-screening-2026]] — Validität des komparativen Urteilens durch Large Language Models für universelle Schreib-Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — KI-basierte adaptive Lernplattform für Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingualer LLM-Vorlesungsbegleiter
-- [[structural-silence-underrepresented-language-ai-2026]] — Strukturelles Schweigen: unterrepräsentierte Sprachen
-- [[llm-cultural-relevance-k12]] — Kulturrelevanz von LLMs in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Kritische Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Datensatz zu indischen Wissenssystemen
-- [[kutti-ai-voice-first-learning-companion]] — Sprachdominierter Lernbegleiter
-- [[ai-scoring-language-bias-physics]] — Sprachbias bei KI-Bewertung in der Physik
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Viersprachiges Code-Switching mit konversationeller KI in Curacao und Aruba (Bush et al., 2026)

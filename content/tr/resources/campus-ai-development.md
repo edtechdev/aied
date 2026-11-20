@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,9 +44,3 @@ Platform ve inceleme sağlayan merkezi ve araştırma bilişim birimleri; güven
 ## Notlar ve uyarılar
 
 Kendisini kurumsal politika ya da hukuki danışmanlık değil, bağımsız bir kişisel proje olarak tanımlar; adı geçen kurumlar bir onay değil, uygulamalarına ilişkin yayımlanmış anlatımlar oldukları için yer alır ve tartışma vakaları birleştirilmiş örneklerdir. Hukuki örnekleri Amerikandır (FERPA, ADA Title II, GLBA) ve göründükleri yerde tarihlenmiştir, ancak kılavuz yolun, soruların, veri düzeylerinin ve yaklaşımların bunlara bağlı olmadığını savunur. Kanıt sayfası her çalışmaya bağlantı verir, tek ve sınırlı bir görevdeki kazanımları deneyimli sürdürücülerin kendi kodlarındaki yavaşlamalarının yanına koyar ve deneme verilerinin özellik güdümlü ya da çok ajanlı çalışmayı değil kod önerisini kapsadığını kabul eder; bu nedenle daha fazla yapı lehine sav, uygulamaya ve uyum mantığına dayanır. Yeniden kullanım lisansı belirtilmemiştir. Kardeş siteler [campusdatagov.com](https://campusdatagov.com/) ve [campusairegistry.com](https://campusairegistry.com/) veri yönetişimi ve ajan kayıt defteri kısımlarını taşır, bu nedenle bu kaynak [[educational-policy-ai]] çalışması için iyi bir giriştir ama onun yerini tutmaz.
-
-## Bağlı kavramlar
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

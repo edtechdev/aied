@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,10 +47,8 @@ ai_assist:
 
 - **সাধারণীকরণযোগ্যতা।** একক কোর্স, প্রতিষ্ঠান, শাখা বা জাতীয় প্রসঙ্গ থেকে পাওয়া ফলাফল সবসময় স্থানান্তরিত নাও হতে পারে। ছোট, সুবিধাজনক বা একক-প্রতিষ্ঠান নমুনা বাহ্যিক বৈধতাকে সীমিত করে; একটি এআই সরঞ্জামের ফলাফল খুব কমই ভিন্ন সরঞ্জাম বা প্রসঙ্গে প্রসারিত হয়।
 
-
 - **ক্রস-জাতীয় বিশ্বাস-তুলনা একটি পরিমাপ-ঝুঁকি বহন করে।** 1,405 জন [[k-12|কে-১২]] শিক্ষকের পাঁচ-দেশ সমীক্ষা back-translation বা measurement-invariance পরীক্ষা ছাড়াই স্বয়ংক্রিয় মেশিন-অনুবাদ ব্যবহার করেছে এবং [[academic-integrity|চুরি]] ও [[creativity|সৃজনশীলতা]]-উদ্বেগ একক আইটেম দিয়ে মাপা হয়েছে, তাই এর দেশভিত্তিক পার্থক্যগুলোকে সমতুল্য গঠন হিসেবে পড়া যায় না ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu প্রমুখ (2026)]])।
 - **সংশ্লেষণ-স্তরের কঠোরতা প্রাথমিক-গবেষণার কঠোরতা থেকে আলাদা অক্ষ।** একটি মেটা-বিশ্লেষণ নিজের অন্তর্ভুক্তি-মানদণ্ড পূরণ করে হয়েও নকশা, বাস্তবায়ন-নিষ্ঠা ও ফলাফল-পরিমাপে ভিন্ন গবেষণা একসঙ্গে পুল করতে পারে, কোনো একটিরও ভার না দিয়ে: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan ও সহকর্মীরা (2026)]] স্পষ্টভাবে বলেন তারা কোনো আনুষ্ঠানিক মান-মূল্যায়ন সরঞ্জাম ব্যবহার করেননি এবং অন্তর্ভুক্তি-মানদণ্ডকেই কঠোরতার সীমা ধরে নিয়েছেন, তাই একটি quasi-experimental গবেষণা ও একটি র‍্যান্ডমাইজড গবেষণা পুলকৃত [[stem-education|STEM]] অনুমানে সমান অবদান রেখেছে। একই পর্যালোচনা একটি সম্পর্কিত রিপোর্টিং-বিপদও দেখায়: এর ভিন্নতাটি fixed-effect মডেলে I² = 82.98% এবং random-effects মডেলে I² = 15.75% হিসেবে উদ্ধৃত, অর্থাৎ যে পাঠক মডেল ছাড়া একটি ভিন্নতা-সংখ্যা তুলে নেন তিনি বলতে পারেন না কর্পাসটি আসলে কতটা অসামঞ্জস্যপূর্ণ। একটি সংশ্লেষণ মূল্যায়ন করুন এটি নির্ভরশীল effect size, মান ও ভিন্নতা কীভাবে সামলেছে তা দিয়ে, কেবল অনুসন্ধান-প্রোটোকল মেনেছে কি না তা দিয়ে নয়।
-
 
 - **পুনরুদ্ধার-নকশা সংশ্লেষণের শিরোনাম-সংখ্যা ঠিক করে।** [[teacher-education|শিক্ষক-শিক্ষার]] 195 গবেষণার একটি scoping পর্যালোচনায় ডিজিটাল দক্ষতা ও [[tpack|TPACK]] স্পষ্ট অনুসন্ধান-বর্ণক ছিল, অথচ instructional design ও assessment-এর সমতুল্য কিছু ছিল না, তাই রিপোর্টকৃত 46.5% ও 1.9% ক্ষেত্রটির বদলে পুনরুদ্ধারকৃত কর্পাস বর্ণনা করে ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández প্রমুখ (2026)]])।
 - **ছোট নমুনা-আকার।** অনেক AIEd গবেষণা underpowered — অর্থবহ প্রভাব নির্ভরযোগ্যভাবে শনাক্ত করতে বা কখনো তাদের থেকে তোলা জোরালো দাবি সমর্থন করতে অংশগ্রহণকারী খুব কম।
@@ -127,48 +127,3 @@ ai_assist:
 - **"সীমাবদ্ধতা-অংশগুলো নিছক ছাঁচি লেখা।"** পদ্ধতিগত সীমা **অনুমাননির্ভর নয়, পরিমাপযোগ্য**: এআই দিয়ে সমালোচনামূলক চিন্তনের **80টি HCI গবেষণার** সমালোচনামূলক পর্যালোচনায় **42টি (52%) কোনো নিয়ন্ত্রণ-দল চালায়নি**। সুনির্দিষ্ট গণনাই সীমাটিকে কার্যযোগ্য করে।
 - **"ভিন্নতা একটি একক সংখ্যা যা আপনি উদ্ধৃত করতে পারেন।"** একই পর্যালোচনা একটি রিপোর্টিং-বিপদ দেখায়: ভিন্নতা উদ্ধৃত হয় **fixed-effect মডেলে I² = 82.98% এবং random-effects মডেলে I² = 15.75%** হিসেবে। নির্বাচিত মডেল অনুসারে একই তথ্য নয়-পয়েন্টের গল্প বা দুই-পয়েন্টের গল্প দেয়, তাই মডেল ছাড়া উদ্ধৃত I² ব্যাখ্যাতীত।
 - **"বড় রিপোর্টকৃত প্রভাবই বিশ্বাস করার সংখ্যা।"** **এক স্থানের এক কোর্সের 30 শিক্ষার্থী** থেকে পাওয়া প্রভাবের মতো শিরোনাম ভঙ্গুর দাবির সাধারণ রূপ, আর নিয়ন্ত্রণহীন গবেষণার গণনা দেখায় এই ভঙ্গুরতা কতবার অরিপোর্টকৃত থাকে।
-
-## সংযুক্ত ধারণা
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — এআই-শিক্ষায় তত্ত্ব-উন্নয়ন
-
-## সংযুক্ত নিবন্ধ
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — উচ্চশিক্ষায় এআই চ্যাটবট: প্রত্যাশার সঙ্গে প্রমাণের তুলনা (Thoeni ও Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — মূল্যায়নে ground truth-এর নির্ভরযোগ্যতা ও বৈধতা
-- [[ai-literacy-assessment-misalignment]] — স্ব-প্রতিবেদিত বনাম পারফরম্যান্স-ভিত্তিক এআই সাক্ষরতা
-- [[machines-misread-pedagogical-quality]] — যন্ত্র কেন শিক্ষাতাত্ত্বিক মান ভুল পড়ে
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — এআই টিউটরের সমালোচনামূলক সীমা ও তত্ত্ব-ব্যবহার
-- [[cross-dataset-bloom-question-classification]] — Bloom-এর শ্রেণিবিন্যাস ও প্রশ্ন-শ্রেণিবিন্যাস
-- [[eeg-familiarity-automated-assessment-2026]] — শিক্ষার্থী-মূল্যায়ন স্বয়ংক্রিয় করা: EEG-ভিত্তিক পরিচিতি-পূর্বানুমান
-- [[weidlich-chatgpt-effect-search-cause-2025]] — শিক্ষায় ChatGPT: কারণ খোঁজা একটি প্রভাব (media-তুলনার সমালোচনা)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — মেটা-মেটা-বিশ্লেষণ: প্রকাশনা-পক্ষপাত-সমন্বিত এআই-প্রভাব রিপোর্টকৃত মাত্রার প্রায় 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14টি AIEd মেটা-বিশ্লেষণের ফরেনসিক নিরীক্ষা
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: এআই-সহায়িত পদ্ধতিগত পর্যালোচনার একটি অভিজ্ঞতাভিত্তিক রিপোর্টিং কাঠামো
-- [[frontier-models-physics-benchmark-audit-2026]] — পদার্থবিজ্ঞানে frontier মডেল কতটা ভালো? বিশেষজ্ঞ পুনঃগ্রেডিং ভাঙা মূল্যায়ন ও শীর্ষ বেঞ্চমার্কের প্রায়-সম্পৃক্ততা প্রকাশ করে
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — কঠোরতার সীমা হিসেবে ব্যবহৃত অন্তর্ভুক্তি-মানদণ্ড, এবং মডেলের সঙ্গে বদলানো একটি ভিন্নতা-সংখ্যা (Doğan প্রমুখ 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — একটি cluster-randomized শ্রেণিকক্ষ-পরীক্ষা যার পারফরম্যান্স-ফল তাৎপর্যপূর্ণ হয়নি (Rücker ও Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমতুল্য GRE শিখন-লাভ দেয়
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — শিক্ষার্থী-লেখায় LLM-উৎপাদিত প্রতিক্রিয়ার ফোকাস ও শিক্ষাতাত্ত্বিক অভিযোজনশীলতার মূল্যায়ন
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: শিক্ষামূলক সংলাপের নিরীক্ষাযোগ্য কোডিংয়ের জন্য assertion-ভিত্তিক স্কিমা
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — ভাব-শ্রেণিবিন্যাস থেকে কার্যযোগ্য ও দায়বদ্ধ প্রতিক্রিয়ায়: শিক্ষণ-মূল্যায়নে শিক্ষার্থী-প্রতিক্রিয়ায় NLP-এর scoping পর্যালোচনা ও প্রমাণ-মানচিত্র, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — বিশ্বস্ততা-মেট্রিক যা মিস করে: সিন্থেটিক শিক্ষামূলক তথ্যের একটি কাঠামোগত যাচাই
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 195 শিক্ষক-শিক্ষা গবেষণার scoping পর্যালোচনা, যেখানে অনুসন্ধান-স্ট্রিং নকশা রিপোর্টকৃত ফ্রিকোয়েন্সি আকার দেয়
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — ক্রস-জাতীয় কে-১২ শিক্ষক-সমীক্ষা: মেশিন-অনূদিত আইটেম, একক-আইটেম উদ্বেগ-পরিমাপ, কোনো invariance পরীক্ষা নেই
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 GenAI উচ্চশিক্ষা গবেষণার পদ্ধতিগত পর্যালোচনা: 56% শর্তসাপেক্ষ লাভ, গ্রেড প্রক্রিয়া-পরিবর্তন ঢেকে দেয় (Hawi ও Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — ডেটা augmentation শিরোনাম-মেট্রিক তৈরি করতে পারে

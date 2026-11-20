@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -86,36 +88,3 @@ ai_assist:
 - **"প্রকৌশল শিক্ষার্থীদের মধ্যে এআই গ্রহণ একটি প্রযুক্তি-গ্রহণ সমস্যা।"** [[socio-cognitive-genai-adoption-engineering-2026|Asag ও Al Mamun]] TAM-কে [[technology-acceptance-model|UTAUT]]-এর সঙ্গে যুক্ত করে বাংলাদেশি প্রকৌশল শিক্ষার্থীদের গ্রহণ মডেল করেন, ভিন্নতার **64% ব্যাখ্যা করেন** — তাই উল্লেখযোগ্য অংশ গ্রহণ-গঠনের বাইরে, সামাজিক ও সংজ্ঞানাত্মক উপাদানে যা মডেল ঢাকে না।
 - **"শিক্ষার্থীরা এআই সেটির জন্য ব্যবহার করে যেটিতে তা সেরা।"** [[ai-engineering-education-balancing-act|Kudina (2026)]] দেখেন **100 জন প্রকৌশল শিক্ষার্থী** LLM-কে সবচেয়ে মূল্যবান মনে করে **লেখা-সহায়তায়**, প্রকৌশল-যুক্তিতে নয়। সরঞ্জামটির জন্য তাদের রূপক তা যা দেয় তা ছাড়িয়ে যায়, আর তাদের প্রকৃত ব্যবহার সুবিধাকে অনুসরণ করে, সক্ষমতাকে নয়।
 - **"সমৃদ্ধতর সরঞ্জাম-স্তূপ নকশা-ফলাফল উন্নত করে।"** **27-শিক্ষার্থীর** স্থাপত্য নকশা স্টুডিওতে উৎপাদনশীল-এআই ও [[virtual-and-augmented-reality|XR]] পাইপলাইন ব্যবহারকারী দলগুলো **উন্নত পণ্য ছাড়াই কমে যাওয়া কার্যকারিতা** দেখায়। সরঞ্জাম-সমৃদ্ধতা আত্মবিশ্বাসের মূল্য দিতে পারে অথচ শিল্পকর্ম অপরিবর্তিত রাখতে পারে।
-
-## সংযুক্ত ধারণা
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-- [[apostolakis-trusstutor-bench-statics-2026]] — স্ট্যাটিক্স বেঞ্চমার্ক: সমাধান ও ত্রুটি-শনাক্তকরণ সম্পৃক্ত হয়ে যায়, চাপ-প্রতিরোধ হয় না
-- [[mechanical-engineering-ai-curriculum-2026]] — তাপ-প্রকৌশলে প্রকল্প-ভিত্তিক এআই শিক্ষা পাঠ্যক্রম
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — প্রকৌশল প্রশিক্ষকের রূপক এআই-বোঝাপড়া গড়ে (এবং সীমিত করে)
-- [[tam-critical-use-genai-engineering-2026]] — প্রকৌশল/CS শিক্ষার্থীদের জন্য সমালোচনামূলক ব্যবহারসহ সম্প্রসারিত TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — প্রকৌশল শিক্ষার জন্য একীভূত সামাজিক-সংজ্ঞানাত্মক মডেল (বাংলাদেশ)
-- [[ethical-use-ai-engineering-education-review-2026]] — প্রকৌশল শিক্ষায় এআই-এর নৈতিক ব্যবহার: একটি পদ্ধতিগত পর্যালোচনা
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — মৌখিক ব্যাখ্যায় দেহভিত্তিক সংজ্ঞানের একটি বহুরূপী কাঠামো
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — এআই ও প্রকৌশল এবং কম্পিউটিং কর্মীবাহিনীর ভবিষ্যৎ
-- [[ai-engineering-education-balancing-act]] — প্রকৌশল শিক্ষায় এআই ব্যবহার: একটি ভারসাম্য-সাধন
-- [[structured-ai-demonstrations-engineering-mechanics]] — প্রকৌশল বলবিজ্ঞানে সুগঠিত এআই প্রদর্শনী
-- [[isaza-chatgpt-engineering-prompting-2026]] — প্রকৌশল শিক্ষায় ChatGPT
-- [[liu-ai-sustainable-engineering-education-2026]] — টেকসই প্রকৌশল শিক্ষার জন্য AI-SEE কাঠামো (Liu প্রমুখ 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — সহযোগী স্থাপত্য নকশা শিক্ষায় উৎপাদনশীল এআই ও প্রসারিত বাস্তবতা: একটি অন্বেষণমূলক স্টুডিও অধ্যয়ন

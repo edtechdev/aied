@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -74,31 +76,3 @@ Kujifunza maisha yote kinaungana na [[adult-learning]] na [[professional-trainin
 
 - Ripoti athari za ajira kwa makundi ya umri badala ya takwimu ya jumla ya kuhamishwa; tofauti ya 16% dhidi ya 8% ndiyo ugunduzi.
 - Chunguza mahali kazi ya malezi inapotoweka, kwa kuwa huo ni utaratibu ambao faida za sasa huwa uhaba wa baadaye.
-
-## Dhana Zilizounganishwa
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Makala Zilizounganishwa
-
-- [[ai-adult-learning-guidelines-dis2026]] — Miongozo ya kubuni teknolojia za AI zinazounga mkono kujifunza kwa watu wazima
-- [[ai-guided-learning-audiovideo-2026]] — Kujifunza kunaoongozwa na AI kwa ajili ya upataji wa ujuzi
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Kufikiria upya elimu ya juu kwa grafu za Learnity
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy na uhamishaji wa kiakili katika kujifunza kunadodhibitiwa na AI
-- [[ai-lifelong-learning-policy]] — AI katika kujifunza maisha yote: fursa na changamoto katika sera ya elimu ya watu wazima
-- [[community-centered-ai-education-adults]] — Kubuni kwa ushirikiano elimu ya AI inayozingatia jamii kwa watu wazima
-- [[cognitive-commons-ai-expertise-regeneration]] — Maafa ya mali ya kawaida ya kiakili: AI na uzazi upya wa utaalam
-
-- [[kim-ai-andragogy-2026]] — Mitazamo ya wanafunzi wazima kuhusu AI kama wakala wa kujifunza kwa ushirikiano katika andragogy (Kim et al. 2026)
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -62,7 +64,6 @@ Korpus karamsar okumayı da ölçümle değil argümanla taşır. [[muniz-samayo
 
 Daha geniş bir enine kesit anket tersi yönü işaret etmektedir: 1.157 Çinli lisansüstü öğrenci arasında [[generative-ai|üretken YZ]] bağımlılığı eleştirel düşünmeyle pozitif biçimde ilişkiliydi (β = 0,492) ve eleştirel düşünme, işlevsel bağımlılıktan araştırma yaratıcılığına giden yolun yaklaşık %85,0’ini taşıdı ([[genai-dependence-research-creativity-2026|Yin ve ark. (2026)]]).
 
-
 - **Ön bilgi ve görev zamanlaması, etkinin işaretini belirler.** İncelenen 108 belge genelinde üretken YZ, deneyimli araştırmacılarda eleştirel düşünme performansını yükseltti (+0,20) ve yeni başlayanlarda düşürdü (−0,13); erken erişim zaman baskısı altında yardımcı olurken, düşünmeye zaman olduğunda eleştirel düşünmeyi zayıflatmaktadır ([[zapata-hernandez-genai-cognitive-infrastructure-review-2026|Zapata-Hernandez ve ark. 2026]]).
 
 - **Kısa bir yansıtma istemi, YZ tavsiyesine güvenmeyi daha ayırt edici hale getirir.** 342 lisans öğrencisiyle yürütülen üç koşullu bir deneyde Ren (2026), açık ChatGPT desteğinin hatalı YZ önerilerinin denemelerin %62,4’ünde kabul edilmesine yol açtığını; kısa bir üstbilişsel yansıtma istemiyle bunun %39,7’ye düştüğünü buldu (OR = 0,40, %95 GA [0,28, 0,56]); yansıtma aynı zamanda farkındalık kalibrasyonunu da iyileştirdi (0,59’a karşı 0,41) ve YZ’ye özgü yükleme önyargısı indeksini 0,42’den 0,21’e indirdi, öneri doğruluğunu düşürmeden veya yararlı tavsiyelerin körü körüne reddini tetiklemeden. ([[ren-metacognitive-awareness-genai-reliance-2026|Ren 2026]])
@@ -84,7 +85,6 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 - **Eleştirel [[human-ai-collaboration|insan–YZ etkileşimi]] için yapı olarak rol rotasyonu.** Kenzhebayeva ve arkadaşları (2026), 62 öğretmen adayı eğitim psikoloğunun tartışma nesnesi haline getirilen üretilen önerileri olan dört profesyonel rolden (Vaka Kurucusu, Araştırma Analisti, Uygulayıcı-Müdahaleci, Yansıtıcı Araştırmacı) geçtiği tasarım temelli bir çalışma bildirir: katılımcılar YZ çıktısını psikolojik teoriyle karşılaştırdı ve vakaya uymayan önerileri değiştirdi veya reddetti; sonraki döngülerde teoriyel gerekçelendirme talepleri arttı, görünürdeki otoriter yanıtlara aşırı güven ise sürdü. ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva ve ark. 2026]])
 - **Bir disiplinde doğrulama merkezli bütünleştirme.** Üniversite [[chemistry-education|kimya eğitiminde]] üretken [[generative-ai|YZ]] üzerine eleştirel bir derleme (Vega-Baudrit ve Rivera Álvarez, 2026), kimyasal akıl yürütmenin makroskobik, submikroskobik ve sembolik gösterimler arasında koordine edilmesi gerektiğinden ötürü öğrencilerin anlamadıkları şeyi doğrulayamayacağını savunuyor; bu nedenle [[prior-knowledge]] ve [[scaffolding]] önce gelir ve doğrulama, değerlendirilmiş bir etkinlik olarak [[assessment]] içine tasarlanmalıdır: yanlış bir varsayımı belirlemek, bir birim veya mekanizma hatasını düzeltmek veya üretilen bir yanıtın reddini gerekçelendirmek; akıl yürütme izleri olarak istem günlüklerini ve gözden geçirme geçmişini tutmak. ([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit ve Rivera Álvarez 2026]])
 
-
 - **İlişkiyi taşıyan, maruz kalma değil ortaklığın yapısıdır.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun ve Toker (2026)]], 891 ABD’li ve Türk üniversite öğrencisini işlemsel bellek sistemleri kuramıyla modelledi ve ne öz değerlendirilen düşünme yeteneğinin ne de YZ ortaklığına duyulan güvenin eleştirel düşünme icrasını doğrudan öngördüğünü buldu. Her ikisi de GenAI aşinalığını beslemiş, bu da yalnızca iki davranışı öngörmüştür: uzmanlaşma ve iş bölümü (b = 0,636) ile çıktının yansıtıcı dönüşümü (b = 0,367). Bu davranışlar eleştirel düşünmeyi öngörmüş (b = 0,230 ve b = 0,175) ve doğrudan bir yol kalmamıştır (CFI = 0,974, RMSEA = 0,048). Bu, alanın yinelenen sıfır sonucunun mekanizma düzeyindeki sürümüdür: kullanım saatleri ve öz değerlendirilen yetkinlik, eleştirel düşünmenin vekili değildir ve bir çalışma maruz kalma hakkında sorduğunda ölçtüğü şey, zincirin sonucu değil girdisidir.
 - **Yalnızca bir güvence değil, bir öğrenme etkinliği olarak doğrulama.** [[pearls-epistemic-verification-2026|Wang (2026)]], YZ yapıtı değerlendirmesini — Süreç, Kanıt, Erişim, Yeniden Üretilebilirlik, Meşruluk ve Kaynak — altı birbirine bağımlı boyut çevresinde düzenler ve disiplin uzmanlığını inşa eden şeyin, çıktının akıcılığından ziyade bu gerekçeyi bir araya getirmek olduğunu ele alır.
 
@@ -95,57 +95,3 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 - **“Daha iyi bir istek metni daha iyi eleştirel düşünme üretir.”** **Yapısal diyalog denetimi, daha iyi bir istek metni değil**, bir safsata öğretmenini bir tartışma sohbet robotundan ayırır: işi, her turu **Toulmin tabanlı niyet algılamadan** geçirmek yapmıştır. Mekanizma, ifade biçimi değil etkileşim yapısıdır.
 - **“GenAI kullanımı eleştirel düşünmeyi doğrudan yükseltir.”** GenAI kullanımının **öz bildirimli** eleştirel düşünmeyle bağlantısı **neredeyse tamamen GenAI [[feedback-literacy|geri bildirim okuryazarlığı]] üzerinden** geçmiştir: **421 Çinli lisans öğrencisinde** geri bildirim okuryazarlığı ilişkinin **%71’ine** aracılık etmiştir. Yol, okuryazarlıktan geçmektedir.
 - **“Meta-analitik etki tek biçimlidir.”** **29 deney** boyunca GenAI üst düzey düşünmeyi orta düzeyde (**g = 0,609**), eleştirel düşünmeyi ise **ES = 0,691** ile yükseltmiştir. Heterojen müdahaleler üzerinden orta düzeyde birleşik etkiler belirli bir tasarımı değil, kategoriyi destekler.
-
-## Bağlı kavramlar
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deney felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim asistanları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özelleşmiş araçlar
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## Bağlı makaleler
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 uzmanlık bir fikir birliği: eleştirel düşünme raporun en yüksek bozulma derecesini taşır (ortalama 4,00)
-- [[pearls-epistemic-verification-2026]] — Epistemik özerklik ve YZ çıktısının doğrulanması için PEARLS çerçevesi (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Üretken YZ destekli yazımda katmana duyarlı bilişsel yük boşaltma (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Üretken YZ ile bütünleşik öğrenmede eleştirel düşünme paradoksu
-- [[pedagogy-ai-mistakes]] — YZ Hatalarının Pedagojisi: Üst Düzey Düşünmeyi Beslemek (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Üç Sistem Teorisi ve bilişsel teslimiyet: YZ insan akıl yürütmesini nasıl yeniden şekillendirir (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Bilişsel ortak alanların trajedisi: YZ ve uzmanlığın yeniden üretimi
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Üretken YZ ve üst düzey düşünme meta-analizi
-- [[avraamidou-ai-colonization-science-education]] — Fen eğitiminin YZ kolonizasyonunu bozmak
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Eleştirel YZ okuryazarlığını yeniden yönlendirmek
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM odaklı ortamlarda SBO örüntüleri (Bloom’un perspektifi)
-- [[probing-ai-generated-physics-solutions-2026]] — Öğrencileri YZ tarafından üretilmiş fizik çözümlerini eleştirmeye hazırlamak
-- [[student-reception-genai-analogies-computing-2026]] — Kusurlu ama Akılda Kalıcı: Bilişim Eğitiminde İlgiye Göre Kişiselleştirilmiş Üretken YZ Benzetmelerinin Öğrenciler Tarafından Eleştirel Karşılanması
-- [[daoism-ai-education-philosophy-2026]] — Alternatif YZ Felsefesi: Eğitimde YZ için Yöntem olarak Daoizm
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Bedensel Zeka ile Sürdürülebilir Öğrenmeyi Beslemek (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Karmaşık uyarlanabilir bir sistem olarak modellenen YZ aşırı güveni
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — YZ destekli çok biçimli yazımda boyutlara özgü eleştirel düşünme kazanımları (Lu ve ark. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — yapılandırılmış çok turlu diyalog yoluyla safsata tanımayı öğretmek
-- [[caeai-ai-companions-learning-over-performance-2026]] — performanstan çok öğrenme: arkadaşların ne için optimize edilmeli ve ölçülmeli olduğu
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Üstbilişsel öz düzenleme yoluyla YZ iskelelemesi, yük boşaltma ve doğrulama okuryazarlığı (Davor ve ark. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Üretken YZ bağımlılığı, işletme öğrencilerinde kullanımdan eleştirel düşünmeye giden bağlantıyı sınırlar (Shojaei ve ark. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Yansıtma istemi, hatalı YZ tavsiyesinin kabulünü ve yükleme önyargısını azaltır (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Eleştirel insan–YZ etkileşimi için yapı olarak rol rotasyonu (Kenzhebayeva ve ark. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Üniversite kimya eğitiminde doğrulama merkezli üretken YZ bütünleştirmesi (Vega-Baudrit ve Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — öğretmen küratörlüğündeki ChatGPT geri bildirimi, üst düzey gözden geçirme yoluyla eleştirel düşünmeyi yükseltti (Chen ve ark. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — bir dönem YZ erişimi eleştirel düşünmeyi düz bıraktı; yansıtıcı kullanım onu yöneltti (Melanou ve ark. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — 1.157 lisansüstü öğrencide eleştirel düşünmeyle pozitif biçimde ilişkili üretken YZ bağımlılığı
-- [[genai-use-critical-thinking-moderation-2026]] — Geri bildirim okuryazarlığı yoluyla üretken YZ kullanımından eleştirel düşünmeye; yalnızca daha az yansıtıcı öğrenciler için doğrudan bir yol
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Eleştirel düşünme maruz kalmadan değil, iş bölümü ve çıktının yeniden işlenmesinden geçer
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The pessimistic reading of the moderation evidence: friction loss, automation bias, efficiency frame
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative review of 108 documents: the effect's sign tracks prior knowledge and task timing (AMCIF framework)

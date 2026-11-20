@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -116,50 +118,3 @@ ai_assist:
 **Для исследователей**
 
 - Проектируйте под арбитраж между теориями, а не под накопление рамок. Зрелость проявляется в разрешённых конкурирующих предсказаниях, а не в росте словаря.
-
-## Связанные понятия
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Общее понятие: педагогические подходы и стратегии преподавания в сфере ИИ-образования
-
-## Связанные статьи
-- [[yan-agentivism-learning-theory-ai-2026]] — Теория обучения среднего радиуса для взаимодействия человека и ИИ с четырьмя механизмами и шестью тестируемыми положениями (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивое сверхобобщение: адаптивное мастерство может прекратить практику до того, как учащиеся узнают, когда следует воздержаться от действия (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Позиционирует ИИ как когнитивного партнёра в ко-регуляции «человек — ИИ»; развивающий фреймворк на протяжении всей жизни
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: философский фреймворк, переосмысляющий мышление как взаимодействие человека и ИИ
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth и модель A2PL, расширяющие самонаправленное обучение с помощью GenAI
-- [[generativism-learning-theory]] — Предлагает новую теорию обучения для эпохи генеративного ИИ, пересматривая классические четыре
-- [[ai-vocational-education-training-review]] — Документирует разрыв теории-практики конструктивизм/бихевиоризм в ИИ для профессионального образования и обучения (VET)
-- [[genai-educational-outcomes-meta-analysis]] — PRISMA-метаанализ 53 исследований: объединённые приросты по успеваемости, мышлению, письму и мотивации, причём обратная связь — крупнейший механизм (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[rachatasumrit-example-problem-ratio-2026]]

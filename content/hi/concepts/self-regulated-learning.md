@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -203,73 +205,3 @@ Learning Letters के अध्ययनों का एक समूह (202
 - **"कोई भी अनुकूली डिज़ाइन नियमन को समान रूप से सहारा देता है।"** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] का **179 छात्रों के साथ 22 दिनों तक चला 2x2 यादृच्छिक फ़ील्ड प्रयोग** दो डिज़ाइन सिद्धांतों की तुलना करता है और उन्हें तंत्र में भिन्न पाता है, इसलिए "अनुकूली" कोई एकल उपचार नहीं है।
 - **"चिंता नियमन को कमज़ोर करती है।"** **107 छात्रों** के मिश्रित-विधि अध्ययन में, उच्च [[anxiety-and-stress|AI चिंता]] **सत्यापन और पुनः-जाँच से सकारात्मक रूप से जुड़ी थी**। चिंता ने सत्यापन के लिए प्रेरक का काम किया, जो नियमन है, उसका अभाव नहीं।
 - **मेटा-संज्ञानात्मक SRL ने अधिगम-प्रासंगिक भार की भविष्यवाणी वहाँ की जहाँ [[ai-feedback-quality|AI प्रतिपुष्टि]] नहीं कर पाई।** **234 छात्रों और 1,147 अवलोकनों** वाले पाँच-सप्ताह के फ़ील्ड अध्ययन में, मेटा-संज्ञानात्मक स्व-नियमन **प्रासंगिक संज्ञानात्मक भार** का ठोस सकारात्मक भविष्यकर्ता था (β = .363, p < .001 उपचार-के-इरादे के अनुसार; .346, p < .001 उपयोग-आधारित)। उसने बाह्य भार की महत्वपूर्ण भविष्यवाणी नहीं की, जबकि संवादात्मक AI प्रतिपुष्टि तक केवल पहुँच ने किसी की भी नहीं की। केवल प्रतिपुष्टि के साथ **निरंतर** सहभागिता ने प्रासंगिक भार पर छात्रों को अलग किया, और अनियमित उपयोग ने नहीं (β = −.219, p = .116)। यह सक्रिय घटक को प्रतिपुष्टि की आपूर्ति में नहीं बल्कि शिक्षार्थी के प्रसंस्करण-नियमन में रखता है ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छाता
-- [[metacognition]] — वह संज्ञानात्मक निगरानी जिस पर SRL निर्भर करता है
-- [[self-assessment]]
-- [[self-efficacy]] — एक पूर्व-विचार चरण की धारणा जो प्रयास को चलाती है
-- [[scaffolding]] — क्रमिक सहायता जो नियामक माँग को संरक्षित रखती है
-- [[feedback]] — वह निवेश जिसके इर्द-गिर्द शिक्षार्थी नियमन करते हैं
-- [[feedback-literacy]] — प्रतिपुष्टि पर कार्रवाई करने की क्षमता
-- [[help-seeking]] — एक रणनीतिक SRL व्यवहार
-- [[motivation]] — स्व-नियमन का पारस्परिक साथी
-- [[cognitive-offloading]] — वह जोखिम जब AI नियामक काम हटा देता है
-- [[generative-ai]] — वह प्रौद्योगिकी जो SRL को स्कैफोल्ड या तोड़ सकती है
-- [[ai-literacy]] — AI उपयोग में नियामक दक्षता
-- [[self-directed-learning]] — व्यापक स्वायत्तता संरचना
-- [[agency]] — शिक्षार्थी की इरादे से कार्य करने की क्षमता, नियमन, एकीकरण और स्थिति-निर्धारण के लिए केंद्रीय
-- [[adaptive-learning]] — वैयक्तिकरण जो नियमन का समर्थन कर सकता है
-- [[formative-assessment]] — नियमन के लिए निरंतर प्रतिपुष्टि
-- [[learning-by-teaching]] — स्व-नियमन बनाने वाली एक रणनीति
-- [[intelligent-tutoring]] — प्रणालियाँ जो SRL को स्कैफोल्ड करती हैं
-- [[llm]] — AI उपकरणों का अंतर्निहित मॉडल
-- [[retrieval-spacing-interleaving]] — अनुसूचीकरण, स्व-परीक्षण और अध्ययन-रणनीति विकल्प जो शिक्षार्थी बनाते हैं
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — एक देहधारी कक्षा में LLM-विभाजित SRL की प्रति-श्रेणी सटीकता (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — प्रस्तुति क्या नहीं दिखाती: LLM के साथ छात्रों के गणितीय कार्य में संज्ञानात्मक ऑफलोडिंग को जटिल बनाना (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — पाठ्यक्रम मैपिंग में उथले संकेतों से स्व-नियमन का मॉडल-अति-श्रेय (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC उपलब्धियाँ और छात्र स्व-नियमन
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-इंटरैक्शन साक्षरता: चैटबॉट को मोड़ने के लिए उसी SRL की माँग थी जिसका समर्थन उससे अपेक्षित था (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — GenAI युग के लिए 5P चिंतन मॉडल (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI-सहायित लेखन में परत-संवेदी संज्ञानात्मक ऑफलोडिंग (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — पैमानों में शिक्षार्थी एजेंसी: नियमन, एकीकरण, स्थिति-निर्धारण
-- [[rented-self-decoupling-performance-becoming-2026]] — किराए का स्व: Winne के SRL मॉडलों पर मैप किया गया किराया, दस प्रस्तावों और शिक्षार्थी-भीतर सूचकांकों के साथ
-- [[song-genai-learning-partner-srl-over-time-2026]] — समय के साथ संदर्भ-जागरूक अधिगम साथी के रूप में GenAI
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — छात्र genAI चैटबॉट के साथ अधिगम को कैसे नियमित करते हैं
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — स्कैफोल्ड या शॉर्टकट? SRL में GenAI की दोहरी भूमिका
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM में LLM-मध्यस्थ सहायता-माँग: स्तरीय, साधनात्मक और सत्यापित
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI प्रतिपुष्टि और SRL: समझा गया स्रोत मायने रखता है
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI चिंता से रणनीतिक नियमन तक
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI के साथ मेटा-संज्ञान/स्व-नियमन पर मिश्रित साक्ष्य
-- [[agentic-ai-pedagogical-best-practice-2026]] — एजेंटिक AI और स्व-नियमन तनाव
-- [[decreasing-digital-distraction-college-online-learning-2026]] — ऑनलाइन अधिगम में SRL और कम डिजिटल व्याकुलता (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — मिश्रित कक्षाओं में शिक्षकों के लिए ML निष्कर्षों को सुलभ बनाना
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: कार्य पहचान, औचित्य और कार्य-पश्चात चिंतन का एक शिक्षार्थी-सामने वाला लूप
-- [[learning-analytics-genai-secondary-writing-2026]] — GenAI के साथ माध्यमिक विद्यालय के छात्रों के लेखन का समर्थन के लिए Learning Analytics का उपयोग
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — अनुकूली STEM अधिगम में AI-समर्थित स्व-नियमन के लिए एक सत्यापित उपकरण, जिसमें मेटा-संज्ञानात्मक जागरूकता सबसे मज़बूत भविष्यकर्ता है
-- [[iqbal-human-genai-support-essay-revision-2026]] — एक निबंध-पुनरीक्षण प्रयोग में सहायता स्थिति, न कि मेटा-संज्ञानात्मक निर्णय, पुनरीक्षण रणनीति विकल्प को चलाई
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — अनुदैर्ध्य: चिंतनशील AI उपयोग ने आलोचनात्मक सोच की भविष्यवाणी की लेकिन ज्ञान-वृद्धि की नहीं, बिना Matthew प्रभाव के
-
-- [[genai-literacy-srl-special-education-2026]] — GenAI साक्षरता मुख्य रूप से अधिगम एजेंसी के माध्यम से स्व-नियंत्रित अधिगम व्यवहारों से संबद्ध
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — सहायता प्रकार मध्यस्थ को पलटता है: AI आत्म-प्रभावशीलता बनाम स्व-नियंत्रित अधिगम
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-सहायित अधिगम टालमटोल: एक इरादा-व्यवहार खाई जिसे चिंता मज़बूत करती है
-- [[genai-srl-l2-writing-scale-2026]] — L2 लेखन के लिए एक सत्यापित छह-आयामी GenAI-SRL स्केल, जिसमें पर्यावरणीय नियमन अपने ही आयाम के रूप में और एक 12-वस्तु चींटी-कॉलोनी-अनुकूलित संक्षिप्त रूप
-- [[borchers-srl-language-generalization-2025]] — बड़े भाषा मॉडल SRL पूर्वानुमान को नई भाषाओं में सामान्यीकृत करते हैं, डोमेन के भीतर लेकिन उनके बीच नहीं (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — छात्रों के स्व-नियंत्रित अधिगम को बढ़ाने के लिए AI का उपयोग करने वाला एक परियोजना-आधारित संकर अधिगम मॉडल
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — पहला उत्तरदाता बना एक AI TA सहकर्मी उत्तरों को हटा गया, और उनके साथ वह सह-नियमन भी जिसने स्व-नियमन का ग्रेड-मूल्य बढ़ाया (Davis et al. 2026)
-
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — AI-सहायित स्व-नियंत्रित अधिगम का मेटा-विश्लेषण: 34 अध्ययनों में g = 0.76, उपकरण-प्रकार और शैक्षणिक भूमिका प्रभाव को मध्यम करते हुए (Zhang एट अल. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — जनरेटिव AI निर्भरता और समझे गए अधिगम परिणाम: प्रयास-नियमन का पथ (Li, Zhang और Yang 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — पूर्व-धारणा विविधता ने बदला कि मेटा-संज्ञानात्मक प्रॉम्प्ट कैसे उतरा: वही प्रॉम्प्ट-फलन, AI आउटपुट का विपरीत निरंतर मूल्यांकन (Wang एट अल. 2026)
-- [[gouroubera-genai-benin-2026]] — उपयोग के साथ टालमटोल बढ़ा (β = 0.525), कथित लाभ के बगल में, जो AI-सक्षम देरी को केवल AI-विषयक देरी से अलग करता है (Gouroubera एट अल. 2026)
-

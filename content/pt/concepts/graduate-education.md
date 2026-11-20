@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -132,35 +134,3 @@ A educação de pós-graduação herda os problemas de todo o setor de integrida
 Os programas de doutorado adotam GenAI em duas direções ao mesmo tempo — como instrumento de pesquisa e como algo com que os candidatos devem aprender a ensinar — e um estudo de pesquisa-ação participativa de 2026 em Cuba testou se uma única sequência pode servir a ambas. Trinta e quatro doutorandos que também ensinam percorreram um único modelo integrado (o modelo Dr. I.D.E.A.) no qual pesquisa, competências digitais e criativo-pedagógicas apoiadas por IA foram exercidas na mesma tarefa autêntica. Todos os 34 integraram GenAI em um curso, 26 sustentaram um redesenho documentado por pelo menos três semanas, e 25 ainda usavam prática apoiada por IA no acompanhamento.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez e Estrada Molina, 2026]])
 
 Os ganhos de competência autorrelatados (d = 1,69 a 2,10) devem ser lidos como mudança percebida sem grupo de comparação; a contribuição durável é a camada operacional — categorias de uso co-construídas, diários de bordo individuais de uso de IA e verificação obrigatória em bases indexadas.
-
-## Conceitos conectados
-
-- [[academic-integrity]] — autoria, divulgação e infração quando o texto pode ser gerado
-- [[assessment-validity]] — o que uma nota, uma defesa ou uma avaliação clínica pode legitimamente afirmar
-- [[ai-literacy]] — a capacidade que os programas de pós-graduação devem certificar em seus egressos
-- [[cognitive-offloading]] — delegação que apoia o pensamento versus delegação que o substitui
-- [[evaluative-judgment]] — a capacidade que a orientação deve construir e agora precisa avaliar
-- [[professional-training]] — preparação clínica, jurídica e de gestão fora da sala de seminário
-- [[medical-education]] — a maior fonte de ensaios de IA em nível de pós-graduação
-- [[business-education]] — cursos de MBA e mestrado em gestão que fornecem os experimentos mais fortes
-- [[career-development-and-readiness]] — empregabilidade como processo de desenvolvimento, não como colocação
-- [[oral-assessment]] — defesas, arguições e garantia oral como evidência de capacidade individual
-
-## Artigos conectados
-
-- [[genai-medical-education-transformation-review-2026]] — 153 relatos em diplomas médicos da entrada à prática; 13 com acompanhamento e nenhum desfecho em nível de paciente
-- [[packard-thinking-partner-framework-adult-learners-2026]] — documentação socrática em métodos de pesquisa de pós-graduação; 96% de conclusão dos checkpoints em seis semestres
-- [[issa-teamwork-framework-academic-integrity-2024]] — trabalho em equipe supervisionado em uma unidade de negócios de pós-graduação; notas subiram de 27 para 31 de 40, contagens de infração ausentes
-- [[genai-dependence-research-creativity-2026]] — 1.157 estudantes de pós-graduação; dependência funcional associada à criatividade muito mais que dependência existencial
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 programas de IA em saúde dos EUA; ética ensinada em 80,6%, proveniência de dados em 22,2%
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — tutoria estruturada por IA ganhou 6,63 de 55 pontos em um MBA on-line; voz e texto foram equivalentes
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 estudantes de MBA; participação subiu cerca de 31% apenas após um segundo ensaio atribuído
-- [[llm-grading-assistants-public-health-2026]] — exames de redação de mestrado corrigidos com kappa ponderado de 0,718, com concordância de 0,625 em repetição de cinco dias
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 estudos de ensino superior mapeando padrões que apoiam e que erodem a agência
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 estudos; educadores e estudantes concordam sobre dependência excessiva e divergem sobre integridade
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 estudos, três com evidência educacional, nenhum em sala de aula forense
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 estudantes de mestrado; prontidão alcançou autoeficácia em pesquisa por meio do apoio do orientador (caminho β = 0,201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revisão de 61 fontes sobre orientação doutoral; ética baseada em tarefas, divulgação proporcional, governança por marcos
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — seminário de grupo único; aprendizagem autodirigida subiu de 80,62 para 87,38 com oito registros pareados
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — estudantes de pós-graduação superaram os de graduação em ética e autonomia (d = 1,47); frequência de uso não predisse competência
-- [[idea-model-doctoral-education-genai-2026]] — doutorandos redesenham seus próprios cursos: 76,5% sustentaram um redesenho de curso, 73,5% ainda usavam prática apoiada por IA no acompanhamento

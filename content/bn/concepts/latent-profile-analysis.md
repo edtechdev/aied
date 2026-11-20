@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -63,7 +65,6 @@ LPA ধরে নেয় নমুনাটি উপগোষ্ঠীর ম
 - **পুনর্নমুননে স্থিতিশীলতা।** বুটস্ট্র্যাপ স্থিতিশীলতাই সৎ যাচাই—নতুন নমুনায় প্রোফাইলগুলো ফিরে আসবে কি না: ইউক্রেনীয় ছয়-শ্রেণি সমাধানে গড় সমন্বিত Rand সূচক 0.385, কিন্তু এআই-এ বিশ্বাসের গবেষণায় 100টি এলোমেলো সূচনার ওপর 0.989—একই নামমাত্র নকশা, খুব ভিন্ন প্রমাণ-ভার।
 - **বুটস্ট্র্যাপ সম্ভাবনা-অনুপাত পরীক্ষা (BLRT)** ও Lo–Mendell–Rubin পরীক্ষা বৃহত্তর মিশ্রণ-মডেলিং সাহিত্যে BIC ও এনট্রপির মানক সঙ্গী, কিন্তু এই জ্ঞানভাণ্ডারের প্রোফাইল গবেষণাগুলো সেগুলো জানায় না। যেখানে একটি পাতা কেবল BIC ও এনট্রপি জানায়, সেখানে শ্রেণি-সংখ্যাকে সাময়িক ধরুন।
 
-
 - **এই সংগ্রহ যাকে অন্যথায় বাদ দেয়, সেই সম্ভাবনা-অনুপাত যাচাই।** [[ai-attitude-latent-profiles-career-development-2026|Song প্রমুখ (2026)]] 379 জন ব্যবসায় শিক্ষার্থীর চারটি প্রোফাইল রাখেন (এনট্রপি 0.824) এবং Lo–Mendell–Rubin সিদ্ধান্ত জানান: চারে তাৎপর্যপূর্ণ (p = 0.035) ও পাঁচে অ-তাৎপর্যপূর্ণ (p = 0.376)।
 - **প্রতিদ্বন্দ্বী সমাধান ও সম্ভাবনা-অনুপাত পরীক্ষা দিয়ে সমর্থিত ধারণ।** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez প্রমুখ (2026)]] জানান, চার-প্রোফাইল সমাধান 102 জন শিক্ষার্থীর সঙ্গে সামান্য ভালো খাপ খায় কিন্তু উল্লেখযোগ্যভাবে উন্নতি করে না এবং ক্ষুদ্রতম শ্রেণি 12.7 শতাংশে রাখে, তাই সংখ্যাগতভাবে ভালো-খাপ-খাওয়া মডেলের বদলে তিনটি প্রোফাইল রাখেন (এনট্রপি .89)। হেরে যাওয়া সমাধান ও তাকে কী অযোগ্য করেছে তা জানানোই ধরে রাখা শ্রেণি-সংখ্যাকে পাঠকের যাচাইযোগ্য বিচারে পরিণত করে, আর গবেষণার উদ্দেশ্যে তৈরি 12-আইটেম এআই-ব্যবহার মাপ—85 জনের আলাদা নমুনায় বৈধকৃত, যা লেখকেরা প্রাথমিক বলেন—তার প্রমাণের অন্য সীমা চিহ্নিত করে।
 
@@ -92,26 +93,3 @@ LPA ধরে নেয় নমুনাটি উপগোষ্ঠীর ম
 - **"সুপ্ত প্রোফাইল বিশ্লেষণ বিদ্যমান দল আবিষ্কার করে।"** LPA শিক্ষার্থী-বৈচিত্র্যকে অলংকারিক দাবি থেকে মাপযোগ্য ফলাফলে রূপান্তর করে, আর প্রোফাইলগুলো **নির্বাচিত সীমানায় বিভক্ত একটি ধারাবাহিকতার মডেল**, প্রাকৃতিক প্রকার নয়। প্রোফাইলের সংখ্যা একটি বিশ্লেষণমূলক সিদ্ধান্ত।
 - **"সুপ্ত-চলক পরিবারের যেকোনো সদস্যই ঠিক আছে।"** কোনটি ব্যবহার করবেন তা **সূচক অনুসরণ করে**: **শ্রেণিবদ্ধ সূচকে LCA**, অবিচ্ছিন্নে LPA। আগে পদ্ধতি আর পরে সূচক বাছলে ফলাফল বাছাইয়ের কৃত্রিম পণ্যে পরিণত হয়।
 - **"প্রোফাইল গবেষণা-জুড়ে তুলনীয়।"** Chen ও সহকর্মীরা **128 জন তাইওয়ানি প্রাক-সেবা শিক্ষককে** পাঁচটি [[technology-acceptance-model|TAM]]/UTAUT2 গঠনে প্রোফাইল করেন, আর Acquah ও সহকর্মীরা **509 জন ঘানার স্নাতককে**। ভিন্ন জনগোষ্ঠীতে ভিন্ন সূচক পরস্পর-তুলনীয় প্রোফাইল-লেবেল তৈরি করে না।
-
-## সংযুক্ত ধারণা
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## সংযুক্ত নিবন্ধ
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 জন ব্যবসায় শিক্ষার্থীর মধ্যে চারটি এআই-মনোভাব প্রোফাইলের Lo–Mendell–Rubin ধারণ-প্রমাণ
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — মনস্তাত্ত্বিক অভিযোজনের তিন-তরঙ্গ সুপ্ত প্রোফাইল রূপান্তর বিশ্লেষণ
-- [[liang-ai-learning-motivation-sdt-2026]] — এক বছর জুড়ে তিনটি প্রেরণা-প্রোফাইলের সুপ্ত রূপান্তর বিশ্লেষণ
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means প্রোফাইল; সিলুয়েট বনাম Calinski–Harabasz অমিল; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — চারটি GenAI-গ্রহণ persona-তে শ্রেণিবিন্যাসমূলক ও k-means ক্লাস্টারিং
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49টি ব্যবস্থার 40,680 জন শিক্ষকের চারটি শিক্ষক এআই-বিশ্বাস প্রোফাইল, সংযোগ-স্থিতিশীলতাসহ

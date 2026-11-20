@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,9 +50,7 @@ ai_assist:
 
 정의적 특징은 **모순**입니다. 활동 체계는 역사적으로 축적되는 구조적 긴장(요소 내부에, 요소들 사이에, 또는 낡은 것과 새로 도입된 요소/도구 사이에)을 담고 있습니다. 모순은 제거해야 할 버그가 아니라 *발전의 원동력*입니다. 심화되면 참여자들이 확립된 규범을 의문시하고 일탈하도록 촉진하여 확장적 변형의 길을 엽니다(Engeström, 2001).
 
-
 도구 자리에 생성형 AI가 부담을 주는 부분입니다. 2026년의 한 사회문화적 논문은 [[llm]]이 활동을 매개하는 동시에 그 궤적을 재형성하는 조건적 기여를 생성하므로, 그것을 도구라고 부르는 것은 그 영향력을 과소평가하고 협력자라고 부르는 것은 그것이 갖지 못한 의도성, 책무성, 공동체 구성원 자격을 부여하는 것이라고 주장합니다([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie, 2026]]). 그들의 *매개 행위자*는 공동체에서 어떤 위치도 차지하지 않은 채 도구 자리에 놓이며, 이는 노동 분배가 도구만이 아니라 기여를 중심으로 분석되어야 한다는 뜻입니다.
-
 
 ## 활동 이론이 교육에서의 AI에 중요한 이유
 
@@ -90,30 +90,3 @@ AI는 기존 교육 활동 체계에 새로운 **도구/매개 인공물**을 �
 **"교사의 신념을 바꾸면 실천이 따라옵니다."** 변화의 단위는 개인보다 큽니다. 규범, 업무량 분배, 공유된 규칙을 바꾸는 개입은 개인의 확신을 겨냥한 개입보다 실천을 더 안정적으로 바꿉니다. 활동의 대상은 집단적으로 생산되기 때문입니다. 이는 개인적으로 열성적인 도입자도 소속 학과가 함께 움직이지 않으면 원래 상태로 되돌아가는 이유를 설명해 줍니다.
 
 **"활동 이론은 설계적 귀결이 없는 서술적 렌즈입니다."** 활동 이론은 체계 요소들 사이의 모순, 즉 규칙과 충돌하는 도구, 대상과 충돌하는 노동 분배에 설계를 겨냥하게 합니다. 변화는 바로 그 지점에서 지렛대를 얻습니다. 모순을 짚어 내는 렌즈는 어휘만 주는 것이 아니라 개입할 자리를 알려 줍니다.
-
-## 연결된 개념
-
-- [[sociocultural-learning]] — 활동 이론이 속한 이론 계열(비고츠키 학파, 문화역사적)
-- [[learning-theories]] — 활동 이론을 학습 이론들 사이에 자리 잡게 하는 허브
-- [[distributed-cognition]] — 도구 매개적이고 맥락적으로 분산된 인지에 대한 공유된 강조
-- [[situated-learning]] — 활동의 맥락과 참여에 대한 공유된 강조
-- [[agency]] — AI가 활동 체계에 걸쳐 인간의 행위성을 어떻게 재분배하는지
-- [[teacher-role]] — 활동 이론은 흔히 교사의 도입과 실천을 분석합니다
-- [[learning-analytics]] — CHAT가 분석의 설계에 닻을 내립니다
-- [[generative-ai]] — 교육 활동 체계에 들어와 교란을 일으키는 AI 인공물
-- [[technology-acceptance-model]] — 대비되는 개인 중심 신념 기반의 도입 설명
-
-## 연결된 문서
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — 활동 이론 렌즈를 통한 GenAI 사용과 공개의 학문 분과적 차이
-- [[genai-runaway-object-math-higher-ed]] — 교수와 연구 활동 체계를 재형성하는 GenAI의 CHAT 분석
-- [[raffaghelli-situated-ai-ethics-2026]] — 생태학적 체계 이론과 CHAT를 융합한 상황화된 AI 윤리
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 교사의 AI 도입을 보는 렌즈로서의 활동 이론 (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — 활동 이론을 통해 본 K-12 교사들의 AI 사용 관점
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT를 통한 공학교육에서의 변화하는 학생 규범
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 교사 전문성 개발의 CHAT-SDT 재설계
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI 리터러시를 위한 CHAT 닻 내린 학습 분석 파이프라인
-
-- [[llm-family-education-activity-theory-2026]] — HCI 연구 53편의 범위 검토: LLM이 가정 교육의 노동을 재분배했으나 규칙은 대개 시행되기보다 예상되었다
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개 행위자로서의 GenAI: 도구도 협력자도 아니다
-

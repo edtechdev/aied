@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -64,7 +66,6 @@ Muundo wa Mfunzi wa GPT wa [[generative-ai-guardrails-harm-learning|Bastani]] un
 - **Uhakiki wa mwalimu-anayehusika:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] iligundua walimu karibu hawajawahi kupima roboti za ufundishaji wa AI kabla ya utekelezaji, na inalazimisha uhakiki unaoendeshwa na mwalimu kama shughuli ya kiwango cha kwanza ya kuandika kupitia uhariri unaotegemea marekebisho na [[human-in-the-loop-ai|binadamu-anayehusika]] wa uthibitisho.
 
 - **Michango ya wanafunzi ndio tatizo la udhibiti, na ni kidogo sana.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] waliweka mazungumzo yenye muundo ndani ya chujio cha usalama cha tabaka mbili katika ITS ya hesabu na waligundua 0.31% tu ya ujumbe 54,384 wa wanafunzi katika utekelezaji wa uwanja ulipata 0.1 au zaidi kwenye API ya udhibiti ya OpenAI, na alama moja ya hatari kubwa ilikuwa tahadhari ya uongo. Vikizingiti vya kila kategoria vilikuwa vimepangwa kwa timu nyekundu — waelimishaji na wabunifu 17 waliendesha mazungumzo 57 ya uhasama — kabla ya kuwa sera.
-
 
 - **Maagizo yanayoweza kuthibitishwa tu.** [[reflection-agent-fidelity-career-2026|Nepal na wenzake (2026)]] wanakagua mwakala wa tafakari wa GPT-4o dhidi ya ilani yake ya mfumo na wagundua uaminifu ulifuatia uwezekano wa kukaguliwa: kanuni za mitambo (kizuizi cha urefu wa majibu) zilifuatwa, huku kanuni za tabia ("usipendelee", "pinga kwa upole") zikivunjwa katika nusu ya mizunguko yake bila alama yoyote katika matokeo, na ukiukaji wa tabia ulitokea pamoja na matokeo duni zaidi ya washiriki. Athari ya kubuni ni kubainisha tabia katika maneno yanayoweza kuthibitishwa na kukagua hati za mazungumzo mara kwa mara, kwa kuwa kizuizi cha usalama ambacho hakiwezi kukaguliwa hakiwezi kutegemewa.
 - **Safu ya kuaminika kuzunguka mfano ambao waelimishaji hawawezi kukagua.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten na Bardyn (2026)]] wanazunguka LLM na uthibitisho wa nje, ukarabati uliolengwa, na kurudi nyuma salama, wakiongozwa na mfumo wa maendeleo na kielimu na kukiweka bila kujali mfano na kuhifadhi faragha. Katika jaribio la darasa la watoto wenye umri 12–16 wakifanya kazi na roboti ya kijamii inayoendeshwa na LLM katika kazi ya kuunda pamoja, kigezo kilichoongozwa kilivuta shughuli zaidi, [[student-engagement|ushirikiano]] na ushiriki juu ya mada kuliko msingi wa ilani tu. Hatua ya usanifu ni kwamba usalama unaweza kuambatishwa *kuzunguka* mfumo badala ya kuhitaji ufikiaji wa ndani, ambayo ndiyo inayofanya vizuizi vya tabaka viweze kutekelezwa katika mipangilio ya [[k-12|K-12]].
@@ -124,46 +125,3 @@ Haya mawili yamefungwa kwa karibu: karibu kila mbinu ya kizuizi cha usalama ni n
 **"Vizingiti vya vizuizi vya usalama ni chaguo za uhandisi zinazopaswa kurekebishwa."** Kizingiti ni uamuzi wa sera wenye gharama ya usambazaji. Kuhamisha kikomo cha sumu kutoka 0.3 hadi 0.7 kulipunguza ilani zilizoalamishwa kutoka **35.62% hadi 12.4%**; kwenye kigunduzi cha ulaghai kulibadilisha **tahadhari za uongo 15 na ulaghai 18 uliokosekana kwa 2 na 36**. Hakuna kikomo kinachoondoa ubadilishaji huo, kinaamua tu ni kosa gani taasisi inapendelea, na uamuzi huo ni wa taasisi badala ya kigezo cha msingi.
 
 **"Ukaguzi wa usawa ni jambo tofauti na utoshelevu wa kizuizi cha usalama."** Mifumo ya kukataa na msaada husambaza manufaa bila usawa hata inapotumika kwa usawa, na kiwango cha wastani cha madhara huficha ni wanafunzi gani wanaobeba. Ukaguzi unapaswa kuwa sehemu ya vipimo vya kizuizi cha usalama, si utafiti unaoagizwa baadaye.
-
-## Dhana Zinazohusiana
-
-- [[pedagogical-safety]] — lengo ambalo vizuizi vya usalama hutekeleza
-- [[prompt-engineering]] — mbinu ya kubuni ya kidokezo-si-jibu
-- [[rag]] — kuweka maarifa kwenye msingi kama kizuizi cha usalama
-- [[human-in-the-loop-ai]] — uhakiki wa mwalimu na uangalizi
-- [[llm-training-and-fine-tuning]] — safu ya mafunzo/kulinganisha
-- [[reinforcement-learning]] — kuunda thawabu kwa tabia salama
-- [[bias-mitigation]] — kukagua vizuizi vya usalama kwa usawa
-- [[ai-sycophancy]] — hatari ya udanganyifu ambayo vizuizi vya usalama vinapaswa kupinga
-- [[scaffolding]] — mfumo wa kielimu ambao vizuizi vya usalama vinahifadhi
-- [[socratic-method]] — hali ya mwingiliano ya kidokezo-si-jibu
-- [[hallucination-risk]] — hatari ya kuzusha ambayo vizuizi vya usalama hupunguza
-- [[cognitive-offloading]] — madhara ya kutegemea kupita kiasi ambayo vizuizi vya usalama yanazuia
-- [[k-12]] — muktadha ambapo vizuizi vya usalama ni muhimu zaidi
-- [[ethics]] — msingi wa kanuni
-- [[governance]] — safu ya sera
-- [[intelligent-tutoring]] — mifumo inayolindwa
-- [[misconceptions]] — maarifa ambayo vizuizi vya usalama yanapaswa kukagua
-- [[trust]] — matokeo ya vizuizi vya usalama vilivyobuniwa vyema
-- [[llm]] — safu ya mfano inayozuiwa
-
-## Makala Zinazohusiana
-
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — jaribio la RCT la uwanja la kigezo juu ya vizuizi vya usalama
-- [[eduzone-llm-safety-k12]] — mfumo wa usalama wa LLM wa K-12
-- [[eduguard-safe-rag-llm-tutor]] — usalama unaotegemea RAG kwa mafunzi
-- [[paternalistic-filter-llm-history-education]] — kukagua vizuizi vya usalama kwa upendeleo
-- [[singh-eduqwen-pedagogical-rl-2026]] — kujifunza kwa mwongozo kulingana na RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — mafunzo ya baada yaliyoalingana na taksonomia
-- [[eduframetrap-llm-sycophancy-educational-safety]] — kupendelea kama hatari ya usalama
-- [[ai-tutor-authoring-promptdecipher]] — uhakiki unaoendeshwa na mwalimu
-- [[llm-unlearning-math-privacy]] — kuacha kujifunza katika kiwango cha mfano
-- [[pedagogical-safety-rl]] — kuunda thawabu kwa usalama wa kielimu
-- [[residencyrl-clinical-rl-training-2026]] — RL inayoalingana na usalama katika mafunzo ya kliniki
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — jinsi hatari kwa mawazo ya wanafunzi ilivyotofautiana na aina ya bidhaa kote ya zana 20 za AI zilizochanganuliwa katika madarasa halisi

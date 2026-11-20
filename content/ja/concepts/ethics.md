@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -114,55 +116,3 @@ ai_assist:
 AI倫理の指導は、誰も検証しない前提によって正当化されることが多いのです。すなわち、[[ethics|倫理教育]]が何かを変えるという前提です。66件の研究と9,978人の学生を対象とした2024年のシステマティックレビューとメタ分析は、教育一般においてこの前提を検証した最良の研究です。倫理の介入は、統制条件に対して倫理的・道徳的な成果をg = 0.55高め、真の効果の73%が事前登録された有用性の閾値を上回りました — しかし**実施形式が調整を担っていました**。討論に基づく形式と討論＋講義形式は機能し（g = 0.56およびg = 0.68）、講義のみの指導はゼロと区別できませんでした（g = 0.10）。オンラインでの実施は対面と区別できませんでした。（[[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]]）
 
 AI倫理への転用は、この研究の所見ではなく推論ですが、強い推論です。バイアスと誠実性についての講義として提供されるAI倫理のモジュールは、この根拠に照らせば、利用可能な形式の中で最も弱いものになります。
-
-## 関連概念
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — AIの利用と開示の声明
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — 化学教育とAI：実験、形成的評価、LLMの限界、実験の哲学
-- [[biology-education]] — 生物教育とAI：実験のティーチングアシスタント、生物学におけるAIリテラシー、批判的思考、専門化されたツール
-- [[civic-and-political-education]]
-
-## 関連記事
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為の枠組みではなくパートナーシップ倫理が機関のGenAI判断を導くべきだと論じるスウェーデンの調査・フォーカスグループ研究
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 対処の枠組みを教えないまま、倫理的意識がAI不安を増幅した：584人の学生における間接効果のみの媒介
-- [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育的介入へ：信頼できるLAに基づく介入の実現要因（Svetec, Divjak & Kadoić 2026）
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 学生がオンライン評価でAIをどう使い隠すか
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生によるAI開示、汚名、自己調整学習
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 開示の隠されたコスト
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI利用宣言に対する学生の不服従
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — 教員と学生から見たAIの倫理的次元
-- [[ethical-use-ai-engineering-education-review-2026]] — 工学教育におけるAIの倫理的利用：システマティックレビュー
-- [[ai-ethics-education-public-discourse]] — 教育におけるAI倫理の公共言説の縦断的分析
-- [[ethical-ai-higher-ed-game-theory]] — 高等教育における倫理的なAI利用のためのゲーム理論的フレームワーク
-- [[cost-of-ethics-crisis-cs-ethics-education]] — 計算機科学の学生の就職活動における倫理コストの危機
-- [[xai-education-framework]] — 教育における説明可能AI（XAI-ED）
-- [[daoism-ai-education-philosophy-2026]] — 代替的なAI哲学：教育におけるAIの方法としての道家
-- [[hazra-safetutors-pedagogical-safety-2026]] — AIチューターの安全性と教育上の危害
-- [[raffaghelli-situated-ai-ethics-2026]] — 状況埋め込み型AI倫理：教育のための文化史的フレームワーク
-- [[ethically-mediated-ai-tpack-china-2026]] — 大学教員のAI-TPACKにおける統合的媒介としてのAI倫理的知識（Chen et al. 2026）
-- [[ai-ethics-bibliometric-2026]] — AI倫理と専門的判断：書誌計量分析（Mazlan et al. 2026）
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO生成AI政策フレームワークの分析
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — 教員が学生のフィードバックにAIを使うことは倫理的か
-- [[fekete-ethical-ai-literacy-gaps-2026]] — 学生・教育者・政策にまたがる倫理的AIリテラシーのギャップの架橋
-- [[alharbi-ethical-genai-eap-2026]] — アカデミック・イングリッシュにおける倫理的な生成AIの統合
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 持続可能な教育とAIへの価値批判的アプローチ（Alsuhami & Atallah 2026）
-- [[ethical-conditions-llm-exam-preparation-2026]] — 試験準備におけるLLM導入の倫理的條件（Pérez-Portabella et al. 2026）
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教員養成における生成AI利用・倫理・政策の縦断的研究（Parker et al. 2026）
-- [[agarwal-ethical-values-norms-aied-2026]] — 教育におけるAIのための倫理的価値と規範
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 誰が行為し、誰が知り、誰が答えるのか。生成AI高等教育研究における主体性・認識論的責任・説明責任のコーパス支援談話分析
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 倫理的意識、省察、報告された責任ある実践は、三つの年次波にわたってほぼ独立に成長した(Ayanwale et al. 2026)
-- [[qi-information-ethics-ai-judgment-2026]] — 情報倫理の教育と大学生のAI倫理的判断
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — AIを活用した教室における倫理的意識を備えた学習
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 倫理教育は効果がある(g = 0.55)が、効果が出るのは討論形式の実施であり、講義のみの実施では効果が出ない

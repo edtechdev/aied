@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -89,49 +91,3 @@ O framework viaja como teste, não como catálogo. Três perguntas decidem qualq
 - **"A simulação é mais barata e, por isso, é a segunda melhor opção."** Sim-pilotos autônomos de [[llm|LLM]] **substituem os role-players humanos especialistas que atuam nas simulações de controle de tráfego aéreo, removendo um gargalo de capacidade de treinamento** — a restrição era de pessoal, não de fidelidade. Onde role-players humanos são escassos, a simulação por LLM não é um substituto, mas a única opção disponível.
 - **"Os simuladores deveriam se comportar como casos médios."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] pareia um agente de política com **simuladores de paciente com LLM construídos para se comportar de forma adversarial**. Um simulador desenhado para ser cooperativo torna a prática de quem aprende mais fácil que a clínica, que é o oposto do que o treinamento precisa.
 - **"Cenários roteirizados ensinam a decidir sob incerteza."** Os agentes multiagentes contextuais do SupplyNet geram **dinâmicas emergentes das decisões de quem aprende, em vez de roteirizadas**. Cenários roteirizados ensaiam um caminho conhecido; os emergentes ensaiam a decisão.
-
-## Conceitos conectados
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Educação em química e IA: laboratórios, avaliação formativa, limites dos LLMs, filosofia da experimentação
-- [[biology-education]] — Educação em biologia e IA: assistentes de laboratório, letramento em IA em biologia, pensamento crítico, ferramentas especializadas
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agêntica)
-- [[virtual-and-augmented-reality]] — o modelo, não a modalidade — ambientes imersivos usualmente renderizam uma simulação
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artigos conectados
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — Simulação por IA e pacientes virtuais dominam o treinamento do domínio afetivo, com resultados majoritariamente autorrelatados (Ismail & Zafira, 2026)
-- [[hernandez-ai-clinical-simulation-scoping-2026]] — Revisão de escopo de trinta estudos: 76,7% de pacientes virtuais baseados em texto, e os ganhos de raciocínio repousam em casos roteirizados (Hernández Rincón et al., 2026)
-- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — Revisão de escopo de 14 fontes: clientes simulados dominam, competência dos formandos não mensurada (Van Patten-Freeman & Rath 2026)
-- [[learner-agency-ai-simulation-2026]] — Controle de parâmetros e um agente de IA opcional em uma simulação de sistemas complexos: os ganhos rastrearam o exercício, não o acesso
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Pacientes virtuais adaptativos para treinamento em psicoterapia
-- [[ai-enabled-serious-games]] — Jogos sérios habilitados por IA
-- [[anvil-ai-educational-animations]] — ANVIL: analogias e vídeos para professores
-- [[astra-atco-training-simulator]] — ASTRA: simulador de treinamento de controladores de tráfego aéreo
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: aprendizagem visual exploratória
-- [[medeasy-ai-standardized-patients]] — MedEASY: pacientes padronizados com IA
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Jogo de dramatização mediada por robôs para intervenção de espectadores (drama aplicado)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática de IA generativa na educação em saúde baseada em cenários (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Framework CAIS-GBL para agentes conversacionais de IA em jogos de simulação de negócios (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes de LLM específicos por participante reproduzindo diálogos de resolução colaborativa de problemas (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Benchmark sintético ASTRA para tutoria multiagente e colaboração com participação equilibrada
-- [[simulation-assisted-drone-learning-stem-2026]] — Aprendizagem com drones assistida por simulação com andaimentos codesenhados por professor e IA
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulação movida por IA em enfermagem: revisão sistemática de métodos mistos (lacuna de autenticidade, continuum escalonado)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Treinamento de comunicação clínica escalável baseado em IA e avaliação automatizada
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Gêmeos digitais na educação STEM: todos os protótipos funcionaram, os ganhos de aprendizagem em grande parte não
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratório virtual apoiado por IA para aprendizagem invertida de física: efeitos no desempenho, na motivação e na carga cognitiva de estudantes do ensino fundamental II
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Framework de quatro camadas que separa a prática representada, a situação simulada, a agência e a adaptação, e a orquestração
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — Da adoção de tecnologia à coerência curricular: a simulação aprimorada por tecnologia como ponte na educação das profissões de saúde
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — O que um professor não pode delegar a um agente conversacional ao longo do ciclo de simulação
-- [[tischkau-ai-simulated-patient-formats-2026]] — Um paciente LLM em formatos de grupo facilitado e laptop individual: cerca de US\$2 por estudante por sessão, nenhuma diferença detectável nas avaliações de quem aprende (Tischkau et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Grafo de conhecimento mais assistente fundamentado no grafo e roteamento adaptativo em um laboratório de virologia: prova teórica +11,4 pontos, d = 1,39

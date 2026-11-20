@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -75,29 +77,3 @@ Auch institutionelle Strategien sind dokumentiert. [[ai-digital-transformation-l
 **„Wertebildung kann einem Modell als Inhalt übergeben werden."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] fasst Wertebildung neu als relationale Praxis mit drei Bedingungen — Antwortbarkeit, Vorbildhaftigkeit und Anrede — und deutet jede der Affordanzen von GenAI als Ersatz einer Beziehung: Die simulierte Perspektive ersetzt den Stakeholder, dem Unrecht getan werden kann.
 
 **„Die Geisteswissenschaften stehen vor demselben Bewertungsproblem wie alle anderen.“** Das Artefakt ist ein anderes: Eine Behauptung darüber, was ein Text bedeutet, die gegen konkurrierende Lesarten verteidigt wird, ist kein Ergebnisbericht und wird auch nicht zu einem, wenn ein Modell Berichte schreiben kann.
-
-## Verbundene Konzepte
-
-- [[discipline-specific-aied]]
-- [[social-sciences-education]]
-- [[arts-and-media-education]]
-- [[music-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[agency]]
-- [[philosophy-of-ai-in-education]]
-
-## Verbundene Artikel
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Ein entwicklungskritisches Modell interpretativer Kognition für die SSH-Bildung
-- [[capodieci-humanities-hil-2026]] — Agentische KI im geisteswissenschaftlichen Lernen und die Verschiebung von der Autorschaft des Textes zur Zuschreibung der Interpretation
-- [[paternalistic-filter-llm-history-education]] — LLM-Einsatz, Filter und historisches Denken im Geschichtsunterricht
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — Vom Werkzeug zur Methode: AI Literacy im Geschichtsunterricht
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Fundiertes Scaffolding für literarisches Schreiben mit einem Wissensgraphen und einem LLM
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computergestütztes Audit von 15.587 Go8-Lehrveranstaltungen der Geistes- und Kulturwissenschaften: 58,6 % der Prüfungsaufgaben von 2026 stark KI-exponiert
-- [[corbin-essay-time-genai-2026]] — Der bewertete Essay hatte sich bereits auf einen Bericht aus These und Belegen verengt
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Eine Liberal-Arts-Hochschule, die GenAI-Kompetenz im gesamten Bachelor-Curriculum verbindlich vorschreibt
-- [[genai-values-education-affordances-risks-2026]] — Werteerziehung als relationale Praxis und was jede GenAI-Affordanz ersetzt
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Aufgabenformat und Vorgaben zur KI-Nutzung als das, was das Artefakt belegen kann
-- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — Integrität und kritische digitale Literalität als ein gemeinsames Problem, verbunden durch evaluatives Urteilsvermögen

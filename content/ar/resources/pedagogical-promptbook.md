@@ -34,7 +34,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -46,6 +46,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ما ينبغي معرفته قبل استخدامه
 
 الكتاب متاح إتاحةً مفتوحة تحت رخصة CC BY، وهي الطرف المتسامح من المدى لمواد التدريس: فيجوز للمدرّسين نسخ [[prompt-engineering|الأوامر]] وتكييفها واستخدامها، بما في ذلك تجارياً، شريطة نسبتها إليهم بشكل سليم. وهذا يجعل توطين أمر لمقرر أو إعداد [[pedagogical-agent|وكيل]] معيّن أمراً يسيراً، وهو ما لا تسمح به الرخص الأكثر تقييداً على المجموعات المماثلة. وهو منشور على EdTech Books في عام 2026 مع تنزيل PDF ورقم DOI هو 10.59668/2340، من تحرير David Wiley. ولأن كل فصل يُبلّغ عن تصميم التقييم بقدر ما يُبلّغ عن النتيجة، فإنه يعمل أيضاً كنموذج للمدرّسين الذين يريدون اختبار أوامرهم هم بدلاً من تبنّي حكم شخص آخر.
-
-## المفاهيم المرتبطة
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

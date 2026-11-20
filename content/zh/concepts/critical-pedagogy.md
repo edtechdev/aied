@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,34 +107,3 @@ ai_assist:
 **"批判教育学是从实践外部提出的批评。"** 它是一种对教育者角色的立场：追问谁受益、谁的知识被优待、学校教育如何再生产或抵抗权力。应用于 AI 采纳，这意味着质询塑造采购的企业与资本主义逻辑：这些是教师能够就自己所在机构的选择提出的问题，而不只是关于抽象技术的问题。
 
 **"把边缘化认识论置于中心是一项课程内容增补。"** 它改变的是谁的知识算作知识，这是一个关于课程结构的问题，而不是增加一份阅读。内容增补让框架原封不动；批判教育学的主张落在框架上。
-
-## 关联概念
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — 伞形概念：教育人工智能中的教学法与教学策略
-
-## 关联文章
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — 人权教育、反思性实践，以及把 AI 治理教学作为专业养成（Kasa-Mälksoo 2026）
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 作为批判性 AI 素养教学法的多模态写作
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对技术解决主义 GenAI 建构性对齐建议的批判话语分析
-- [[benali-genai-academic-writing-2026]] — 在学术写作课程中强制给出理由的修订：AI 限于研究计划的两个小节，每条建议的接受或拒绝都须书面说明（Benali 与 Díaz García，2026）
-- [[avraamidou-ai-colonization-science-education]] — 对科学教育"AI 殖民化"的批判、女性主义批评
-- [[li-mroziak-reorienting-critical-ai-literacy]] — "抵抗 AI"作为扎根社群的批判性 AI 素养实践
-- [[ojeda-ramirez-community-based-ai-learning]] — 通过基于社群的学习重新分配 AI 的认识论权威
-- [[raffaghelli-situated-ai-ethics-2026]] — 情境化的、文化历史与生态的 AI 伦理框架
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 人文学科中解释性认知的发展性批判模型
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 社会主义人文主义的 AI 素养与合理使用
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 可持续教育与 AI 的价值批判路径（Alsuhami 与 Atallah 2026）
-- [[emancipatory-ai-learner-flourishing-2026]] — 为学习者繁荣而设计生成式 AI 的解放性愿景
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 奠基于 Freire、建构主义与关怀伦理的以人为本 GenAI 投入框架
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 应用于全球南方学术发展的批判数字教育学与去殖民认识论

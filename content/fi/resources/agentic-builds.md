@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,7 +43,3 @@ Opettajille ja [[learning-design|opetussuunnittelijoille]], jotka haluavat työs
 ## Huomioita ja varauksia
 
 Rakennukset kuvataan avoimesti jaetuiksi, mutta lisenssiä ei ilmoiteta rakennusten eikä gallerian sivuilla, joten uudelleenkäyttö vaatii tekijän luvan eikä oletettua myöntöä. Lähde on kuitenkin julkinen – tilin repot sisältävät rakennusten taustalla olevan HTML:n ja JavaScriptin sekä opetusohjelman koodausagenttien kanssa työskentelystä koulutuksessa, joten lukija voi tarkastaa sovelluksen eikä vain ajaa sitä. Useat linkit osoittavat Netlify-palvelun esikatseluosoitteisiin projektisivuston sijaan; ne on rakennettu tarkastelua varten ja voivat vanhentua, kun taas GitHub Pages -rakennukset ovat vakaita. Osa rakennuksista riippuu TypeSafe AI:n Jev-mallista ja näyttää sen todennäköisyydet, joten taustalla oleva toiminta on mallin arvio eikä kiinteä sääntö. Toivottavien vaikeuksien polku on argumentti – kitka ominaisuutena – ja sivu esittää sen raportoimatta arviota siitä, oppivatko opiskelijat enemmän.
-
-## Liittyvät käsitteet
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

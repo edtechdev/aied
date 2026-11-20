@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -90,39 +92,3 @@ ai_assist:
 **"एआई सामग्री इतनी सस्ती कर देता है कि OER अप्रचलित हो जाता है।"** उलटा पाठ उपलब्ध है और बेहतर समर्थित है। अगर जनरेशन लगभग मुफ़्त है, तो दुर्लभ वस्तुएँ बन जाती हैं लाइसेंस, श्रेय-श्रृंखला, समीक्षा प्रक्रिया और रखरखाव वाला प्लेटफ़ॉर्म। इसीलिए यह साहित्य उत्पादन पर नहीं, शासन और इंफ्रास्ट्रक्चर पर केंद्रित हो जाता है।
 
 **"खुले असाइनमेंट में एआई उपकरण जोड़ने से अधिगम सुधरता है।"** यहाँ का एकमात्र अर्ध-प्रयोगात्मक परीक्षण दोनों वर्गों में कौशल की अनुभूत वृद्धि पाता है, उनके बीच कोई पहचानने योग्य अंतर नहीं, साथ में एआई वाले वर्ग में अधिक पूर्णता और थोड़े कम अंक। एआई ने बदला कि छात्रों ने क्या बनाया, और नहीं बदला कि उन्होंने क्या सीखने की रिपोर्ट दी।
-
-## संबंधित अवधारणाएँ
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## संबंधित लेख
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — जनरेटिव एआई के उत्पादन में आने पर OER के पाँच ढाँचे (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER सार्वजनिक डिजिटल वस्तु के रूप में और शासित इंफ्रास्ट्रक्चर का तर्क (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — पच्चीस वर्षों का खुलापन संस्थागत मध्य को अक्षुण्ण क्यों छोड़ गया (Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — एआई उपकरणों के साथ और बिना ओपन शिक्षाशास्त्र, दो पाठ्यक्रम वर्गों में (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — ओपन शैक्षणिक अभ्यास के चौदह मॉडल और उनमें एआई का स्थान (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — चीन के 30 प्रांतों में शिक्षक एआई साक्षरता और ओपन शिक्षण अभ्यास (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER और एआई के ज़िम्मेदार एकीकरण का सात स्तंभों वाला ढाँचा (Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — आभासी प्रयोगशाला में मेंटरिंग और एआई-आधारित OER उत्पादन (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — एआई साक्षरता OER की समीक्षा के लिए सात सिद्धांतों वाला रूब्रिक (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — OER में इंटरैक्टिविटी निष्कर्ष नहीं, डिज़ाइन का तर्क (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — ओपन शिक्षा में अंतरराष्ट्रीय सहयोग एक साधनात्मक केस के रूप में (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — दावे से अधिक मज़बूत आधार रेखा के सामने OER के लिए हाइब्रिड अनुशंसक (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — खुले अधिगम में डिजिटल रूपांतरण शैक्षणिक रूपांतरण के रूप में (Panda, 2026)

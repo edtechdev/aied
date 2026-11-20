@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -71,24 +73,3 @@ A avaliação baseada em padrões é a contraparte avaliativa da aprendizagem pa
 **"A aprendizagem para o domínio é a pedagogia que a IA finalmente torna possível."** Sua mecânica é consideravelmente anterior à IA — Bloom formalizou o framework há décadas — e a IA o operacionaliza automatizando as decisões de avaliação e de ritmo, e não realizando um desenho antes impossível. Esse reenquadramento importa porque a automação herda a escolha da regra, e é na regra que mora o julgamento.
 
 **"Uma avaliação mais frequente sob domínio torna o limiar mais confiável."** A frequência melhora a estimativa e não corrige uma regra mal especificada. Recalcular o domínio com mais frequência a partir de eventos que incluem trabalho assistido converge mais rápido para a mesma resposta errada.
-
-## Conceitos conectados
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — recuperação e espaçamento como motor de prática dentro dos ciclos de domínio
-
-## Artigos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalização enganosa: o domínio adaptativo pode encerrar a prática antes que os estudantes saibam quando reter uma ação (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injetando regras de domínio/não domínio na aprendizagem profunda para modelagem de estudante responsável e interpretável
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Creditar trabalho assistido infla o domínio: qual regra de evidência decide quem é declarado dominado (Srivastava 2026)
-
-- [[simulating-learner-task-selection]] — Simulando as estratégias de seleção de tarefas dos estudantes e as restrições do sistema na aprendizagem para o domínio (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — O rastreamento de conhecimento superestima o desempenho da sessão seguinte e perde o efeito de espaçamento (Schuetze, Yan & Carvalho 2025)

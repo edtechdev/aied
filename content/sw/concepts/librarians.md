@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -73,32 +75,3 @@ Mistari miwili zaidi inaweka mipaka ya nafasi. [[pearls-epistemic-verification-2
 **"Ujuzi wa habari ni kipindi cha kuingizwa cha mara moja."** Ni mafunzo, si msaada: maswali ambayo wanafunzi huja nayo ni matatizo ya tathmini na mkakati, yaani je, chanzo hiki ni cha kuaminika, nitautafutaje huu, ambayo ni ujuzi unaofundishika badala ya miamala ya kukamilisha. Kuchukulia huduma kama msaada hubadilisha mtaala kuwa dawati la msaada na kupoteza uwezo wa kudumu.
 
 **"Nani analipia uthibitishaji ni tatizo la mtu mwingine."** Mzigo wa mashauriano unaangukia wafanyakazi wa maktaba, na swali la karatasi yenyewe ni kama kuomba maktaba kubeba mzigo huo kunazidi idadi yao ya wafanyakazi. Ubini wa pamoja na ushirikiano ni majibu ambayo maandishi yanapendekeza hasa kwa sababu gharama ya uthibitishaji ni halisi na inaangukia kitengo ambacho hakikuweka bajeti kwa ajili yake.
-
-## Dhana Zilizounganishwa
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Makala Zilizounganishwa
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Jukwaa la semina la wakala wa makazi ya vitabu aliyejumuisha; mashauriano 312 yaliongozwa na tathmini ya vyanzo
-- [[genai-academic-search-workshop]] — Warsha ya CHIIR 2026 juu ya GenAI na utafutaji wa kitaaluma; pengo la uaminifu la wakala wa makazi ya vitabu
-- [[maybee-disruptive-partnerships-sap-2025]] — Wakala wa makazi ya vitabu wa kitaaluma wanaobuni pamoja ujuzi wa AI na wanafunzi kama washirika
-- [[aarc-ai-research-competency-2026]] — Thibitisha, nukuu, tafakari kama ahadi za utafiti zinazoweza kufundishwa
-- [[pearls-epistemic-verification-2026]] — Itifaki ya uthibitishaji ya vipimo sita; ufikivu na uhalali kama malango
-- [[hingle-collaborative-ai-literacy-2025]] — Kujifunza kwa ushirikiano kwa ujuzi wa AI; faida za ujuzi wa habari zinahamishwa
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Wakufunzi wanapanga kusikia na matumizi yenye uwajibikisho juu, lakini wanafundisha ujuzi wachache kati ya 26
-- [[bird-multimodal-educational-literature-2026]] — Zana ya ugumu wa maandishi iliyojengwa kwa watumiaji wasio wa kiufundi kama walimu wa Kiingereza na wakala wa makazi ya vitabu
-- [[cognitive-offloading-llm-synthesis-writing]] — Wenye kujifunza wanahamisha nini wakati AI inaunganisha vyanzo kwa ajili yao
-- [[citation-errors-hallucinations-computing-education-2026]] — Nukuu za ubinifu na za makosa kama tatizo la uthibitishaji

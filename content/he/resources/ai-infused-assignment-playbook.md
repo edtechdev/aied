@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -51,16 +52,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 זהו מדריך-מעשי, לא מחקר-אמפירי; הטענות שלו על שימוש-סטודנטים-ב-AI נשענות על מקורות-חיצוניים-מצוטטים (BestColleges, Campbell, Digital Education Council, Flaherty) במקום על נתונים-חדשים. מסגרת-"בניית-הרשת" ומסגור-"אשליית-ההבנה" נגזרים מהספרות-הרחבה (Wigmore et al.; Williamson et al.) ומוצגים כנימוק-פדגוגי, לא כתוצאות-נבדקות של ה-playbook עצמו. המטלות הן תבניות-מחוברות — אף אחת אינה מדווחת עם גדלי-אפקט, ולכן יש להתייחס אליהן כעיצובים להתאים ולהעריך מקומית. פורסם 2026-10-07, v1, ב-Zenodo תחת CC BY 4.0; חופשי-להורדה בלי חשבון. נכון להינפת-הקלט, הרשומה מראה רק ~35 צפיות ו-~14 הורדות, ולכן היא ראתה שימוש-חיצוני מעט או ביקורת-עמיתים עדיין.
-
-## מושגים מחוברים
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

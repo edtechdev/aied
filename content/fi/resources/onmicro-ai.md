@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -43,7 +44,3 @@ Se sopii opettajille ja oppimissuunnittelijoille, jotka haluavat rajattuja, tois
 ## Huomioita ja varauksia
 
 Ilmainen taso rajoittuu 10 000 tekoälykrediittiin ja kolmeen sovellukseen; rajattomat sovellukset ja kehittyneet mallit alkavat Pro-tasolta, ja LTI-integraatio, kertakirjautuminen ja kehittynyt analytiikka on listattu Enterprise-tasolle, joten ne ominaisuudet, joita instituutio eniten tarvitsee, ovat niitä, joilla on hinta. Repositorio on lisensoitu **AGPL-3.0**-lisenssillä `LICENSE`-tiedostonsa mukaan, millä on merkitystä kaikille, jotka aikovat isännöidä tai muokata sitä itse, ja sen README sanoo yhä LGPL tuota muutosta edeltäneeltä ajalta, joten lue lisenssitiedosto README:n sijaan. Instituutioiden tulisi myös vahvistaa omat tietojenkäsittelyehtonsa ennen kuin ne ohjaavat opiskelijoiden työt isännöidyn kolmannen osapuolen palvelun kautta.
-
-## Liittyvät käsitteet
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -104,35 +106,3 @@ ai_assist:
 **«Ретривал-практика означає тестування, і будь-яке тестування зараховується».** Механізм — продукування відповіді з пам’яті, а не впізнавання її, і саме тому завдання на множинний вибір є слабшою версією тієї самої діяльності. ШІ, який генерує нескінченні завдання на впізнавання, згенерував діяльність із правильною назвою і неправильним механізмом.
 
 **«ШІ може сумлінно відтворювати ці техніки, бо вони добре специфіковані».** Він може так само тихо їх знищити. Інтервалювання вимагає, щоб система притримувала матеріал, який вона найбільше здатна надати на вимогу, а ретривал — щоб вона не відповідала, тож ефективність техніки залежить від обмежень, які люб’язний помічник не має стимулу накладати.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Послідовності інтервального ретривалу та ціна збереження за асистування під час кодування
-- [[desirable-difficulties]] — принцип, який ці три техніки операціоналізують
-- [[cognitive-psychology]] — пам’ять, кодування та ретривал як теоретичний дім усіх трьох
-- [[prior-knowledge]] — ретривал-практика як активація того, що здобувач уже тримає
-- [[metacognition]] — судження про те, чи відбиває плинність навчання
-- [[self-regulated-learning]] — стале навчання того, що ШІ може запланувати або відповісти за вас
-- [[mastery-learning]] — збереження після порогу оволодіння та інтервалювання, яке його підтримує
-- [[knowledge-tracing]] — моделі, які приймають або пропускають рішення з планування
-- [[cognitive-offloading]] — режим відмови, коли ретривал делеговано інструменту
-- [[transfer-of-learning]] — розрив між результативністю та навчанням, який техніки адресують
-- [[formative-assessment]] — контрольні точки закритого інструменту як події ретривалу
-- [[productive-failure]] — спроба перед отриманням допомоги
-- [[learners]] — ставки довговічного, а не плинного навчання
-
-## Пов’язані статті
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: адаптивний інтервальний ретривал проти фіксованого ретривалу проти навчання зі ШІ під керівництвом здобувача протягом семи тижнів
-- [[memdora-ai-spaced-repetition]] — Memdora: планування на FSRS-6 і таксономія обґрунтованих взаємодій з флешкартками
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: глибина пояснення передбачає якість завдання, але не негайне згадування
-- [[rachatasumrit-example-problem-ratio-2026]] — Ретривал-практика для фактів, розроблені приклади для умінь; взаємодія зміст–лікування
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Моделі трасування знання не вловлюють ефекту інтервалювання за часової валідації
-- [[bilingual-llm-lecture-companion-srl-2026]] — Автоматична генерація флешкарток, що прибирає ціну авторства інтервальної практики
-- [[student-cheat-sheets-make-or-take]] — Конструювання шпаргалки як генеративне навчання; розвантаження конструювання за допомогою ШІ
-- [[knowloop-confusion-to-consolidation-2026]] — Консолідація через вчення-назад, що виявляє прогалини, яких не виявило прояснення
-- [[simulating-learner-task-selection]] — Interleaving і Blocking як модельовані стратегії здобувачів за обмежень вибору завдань
-- [[nie-personavlm-long-term-personalization-2026]] — Лонгітюдна пам’ять студента та її відкрите ставлення до інтервального повторення та кривих забування
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Ретривал-практика в шарі Tools рамки навчання навчатися
-- [[agentic-ai-pedagogical-best-practice-2026]] — Агенти з попереднім дістанням обходять ретривал-практику; аргумент за навмисне тертя
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment

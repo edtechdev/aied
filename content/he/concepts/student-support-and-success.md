@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -53,7 +55,6 @@ ai_assist:
 
 סקירה של 61 מחקרים על תמיכת לומדים מבוססת-AI מצאה שהתחום מתרכז ב[[adaptive-learning|מערכות אדפטיביות]] וב[[personalized-learning|התאמה אישית]] (41 שימושים) ובפרופיול וחיזוי (30), כשצ'אטבוטים וממליצים מטפלים בקבלה ובשאלות שגרה. היא גם מצאה את הפערים: שום התערבות לא התייחסה לשלב המעבר של הלומד, ורק שני מחקרים נקבו בתת-קבוצת סטודנטים, ולכן הלומד הגנרי ברוב המערכות היה ממוצע סטטיסטי ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
-
 **פנייה ותקשורת.** מוסדות שולחים הודעות לסטודנטים בקנה מידה גדול, וההערכות החזקות ביותר בודקות האם הדבר משנה משהו. מחקר רנדומלי בן ארבע שנים של CSUNny, צ'אטבוט הודעות-טקסט לא-יוצר באוניברסיטת מדינת קליפורניה בצפון רידג', עקב אחרי שני קבוצות סטודנטים לתואר ראשון (N = 8,708) לאורך שמונה סמסטרים ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). תזכורת רישום שנשלחה ב-31 ביולי 2018 היגיעה לכך שסטודנטים מטופלים היו בעלי סיכוי גבוה יותר ב-34 נקודות אחוז להירשם עד 16 באוגוסט ורק 2 נקודות יותר עד 15 בספטמבר; תזכורות Early Start הניבו 11 נקודות רישום נוספות עד 7 ביוני ו-20 נקודות עד 22 ביוני. הקבלה נמשכה: שיעורי הסרה שנתיים מעולם לא עלו על 4%. ניסוי רב-סמסטרר שהוקדם מראש באוניברסיטת מדינת ג'ורג'יה דחף סטודנטים בשני קורסים אסינכרוניים גדולים (N = 1,568 ו-N = 915) בשתיים עד שלוש הודעות מותאמות לשבוע, מעלה את הסיכוי לקבלת A או B בארבע נקודות אחוז מול 61% מבקרתים, ומזיז שיעורי DFW בכ-שלוש נקודות בכל קורס ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 **ייעוץ ותכנון אקדמי.** חיזוי קורסים וציונים מספק את הקלט לתכנון — מודל אחד חוזה יחד אילו קורסים סטודנט ייקח ואילו ציונים הוא יקבל ([[trace-course-grade-prediction-2026|Savala, 2026]]), ואחר חוזה התקדמות ברמת-מודול בקורסי תכנות אונליין גדולים עם עץ החלטה בעל-פרשנות מובנית ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). קרדיט העברה הוא בעיית ייעוץ כשלעצמו: CourseGraph ממדל תוכן קורסים כגרפי ידע כדי להעריך שוויונות קורס חיצוניים עבור סטודנטים ניידים ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026]]). ברמה המוסדית, סקירה של 155 מחקרי בינה מלאכותית ומסירת שירות בהשכלה גבוהה מצאה את אנליטיקת הלמידה כיישום הנפוץ ביותר ב-46 מחקרים (29.7%), לפני צ'אטבוטים ועוזרים וירטואליים ב-31 (20.0%) ואנליטיקה חיזוי ב-29 (18.7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
@@ -67,7 +68,6 @@ ai_assist:
 **עוזר בבית מתחרה בצ'אטבוט הציבורי בזמינות, לא ביכולת.** בחמישה מחקרי עיצוב-משותף באוניברסיטה הפתוחה (315 סטודנטים, 20 אנשי סגל), נקודת המכירה החזקה ביותר של i-AIDA המוצע הייתה גישה מסביב לשעון, שאושרה על ידי 73% בסקר של 96 סטודנטים, והשימוש הישיר הזיז את הביקוש מ-9 מתוך 18 סטודנטים ל-16 מתוך 18 (d = .81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). סטודנטים דירגו אותו 7.58 מתוך 10 לעומת כלים יוצרים אחרים, בעוד שכתשרית 10–15% התנגדו מטעמי ערכים ולא [[usability-research|שמישות]], וכינו למידה בסיוע AI דילול של למידה לגיטימית.
 
 למה שערוץ תמיכה מבוסס-AI מחליף במקום מגיע אותו חשבון. לאורך ארבעה מחקרים (N = 249, 494, 743 ו-737), האמונה ביכולתה של AI לספק תמיכה רגשית העלתה את הנכונות להעביר אליה את התמיכה, והאפקט עבר כולו דרך היכולת הנתפסת (אפקט כולל c = 0.83; אפקט עקיף ab = 0.73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). במדד התנהגותי, משתתפים שאמרו שלא יעבירו בחרו פחות מילות [[empathy|אמפתיה]], ולכן ניתוב סטודנטים לערוץ רווחה מבוסס-AI יכול לגרוע תמיכה אנושית בדרכים ש[[self-report-measures|דיווח עצמי]] אינו מראה.
-
 
 ## מחיזוי לתמיכה
 
@@ -110,59 +110,3 @@ ai_assist:
 **"סולם התוצאות מתמוטט: מעורבות היא התמדה."** כל שלב מודד משהו אחר — בחירה להצטרף, מענה, התמדה, השלמה — ותוכנית יכולה להזיז את השלבים התחתונים ולהשאיר את העליונים שטוחים. דיווח השיעור המגיב כהצלחה מבצע בדיוק את ההחלפה הזו.
 
 **"דאגת שוויון היא סיבה להפסיק להשתמש בנתונים."** היא סיבה לפעול על ציונים בזהירות. פעולה על מנבא יכולה לחלק תמיכה ויכולה לחלק חשד, והסיכון מתרכז בסטודנטים שהמודל מסווג הכי פחות לטובה — מה שהופך את התרופה לממשל של השימוש, לא לנטישת המדידה.
-
-## מושגים מחוברים
-
-- [[higher-ed]] — המטרייה המגזרת שהעמוד הזה יושב תחתיה
-- [[student-experience]] — כיצד בינה מלאכותית נוחתת על חוויית הסטודנט עצמו
-- [[learning-gains]] — האם למידה התרחשה, תוצאת ההוראה שהעמוד הזה אינו מודד
-- [[learning-analytics]] — חיזוי, התרעה מוקדמת ואנליטיקה חיזוי
-- [[student-modeling]] — שכבת המידול שמתחת לחיזוי סיכון
-- [[knowledge-tracing]] — הערכת מיומנות ושליטה בעדינות גבוהה
-- [[recommender-systems-and-learning-paths]] — המלצה על קורסים, משאבים ומסלולים
-- [[help-seeking]] — כיצד סטודנטים מגיעים לבקש תמיכה
-- [[well-being]] — בריאות הנפש בקמפוס, מניעה והתערבות
-- [[career-development-and-readiness]] — התוצאה אחרי ההשלמה
-- [[administrator]] — התפקיד שמחזיק ומפעיל מערכות תמיכה
-- [[stakeholders]] — למי יש תביעה על החלטות בינה מלאכותית מוסדיות
-- [[change-management]] — קיימות התוכנית אחרי הפיילוט
-- [[governance]] — מדיניות ופיקוח על בינה מלאכותית מוסדית
-- [[educational-policy-ai]] — הקשר המדיניות לפריסה מוסדית
-- [[equity-in-ai-education]] — למי המערכת מגיעה ולמי היא מפספסת
-- [[privacy]] — רשומות סטודנטים, שיתוף נתונים וגישות מאוחדות
-- [[human-in-the-loop-ai]] — שיפוט אנושי בתוך זרימת תמיכה אוטומטית
-- [[rct]] — העיצוב שמאחורי הראיה החזקה ביותר כאן
-
-## מאמרים מחוברים
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — הערכה רנדומלית בת ארבע שנים של צ'אטבוט תמיכה אוניברסיטאי: השלמת משימות זזה, השכלה וממוצע צבור לא
-
-- [[cefa-ai-learner-support-review-2026]] — סקירה של 61 מחקרים על תמיכת לומדים מבוססת-AI: מערכות אדפטיביות וחיזוי שולטים; שלב המעבר ולומדים מגוונים נעדרים
-
-- [[chatbot-outreach-course-performance-2026]] — ניסוי פנייה רב-סמסטרר שהוקדם מראש: שיעורי A/B גבוהים יותר, שינויי DFW מתונים, יוצא-דופן דמוגרפי אחד
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 תרחישים סינתטיים: רגישות מוגבלת לצורך הסטודנט ואי-עקביות בין-מודלים בהמלצות תמיכה
-- [[sc2r-counterfactual-recourse-educational-2026]] — פער הישימות: מפלט חייב להיות אפשרי וניתן-לבדיקה, לא רק תקף-מודל
-- [[fairness-theatre-early-warning-systems-2026]] — שש התערבויות הוגנות פוסט-הוק על מערכת התרעה מוקדמת של ספק שנבנתה מ-168,550 רשומות
-- [[at-risk-students-ml-prediction]] — מסווגים מפוקחים המזהים סטודנטים לפני נשירה
-- [[predicting-attrition-competitive-programming]] — יומני התנהגות בתוספת סקר פסיכוגרפי החוזים נשירה
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — מידול סיכון מאוחד בין מוסדות ללא שיתוף נתוני סטודנטים גלמיים
-- [[precision-education-student-digital-twins-2026]] — תאומים דיגיטליים ו"הצלחת סטודנטים מניעותית" כחזון
-- [[learning-analytics-to-educational-interventions-2026]] — שבעה מאפשרים לסגירת הלולאה מאנליטיקה להתערבות
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — עוזר ספציפי-קורס שמטרתו להוריד את העלות של בקשת עזרה
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — נטילת חונכות שנבדקה בנפרד מלמידה
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — שישה פרופילים התנהגותיים הממופים לאובייקטי למידה מומלצים
-- [[trace-course-grade-prediction-2026]] — חיזוי משותף של קורסים וציונים לתכנון
-- [[zhang-ml-student-progress-programming-2026]] — חיזוי התקדמות ברמת-מודול בעל-פרשנות
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 מחקרי בינה מלאכותית, מנהיגות ומסירת שירות בהשכלה גבוהה
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — טקסונומיה בעלת עשרה תחומים של בינה מלאכותית במנהיגות חינוכית
-- [[students-at-stake-ai-deployment-risks-2026]] — פני סיכון מצד הסטודנט: קבלה וסיוע, שירותי הצלחת סטודנטים, והוראה
-- [[ai-campus-wellbeing-tools]] — תמיכת רווחה בקמפוס המשתרעת על מניעה והתערבות
-
-- [[shastry-gray-empathy-offloading-2026]] — ארבעה מחקרים על העברת אמפתיה: האמונה ש-AI יכולה לספק תמיכה רגשית מורידה את מה שאנשים מספקים בעצמם (Shastry & Gray 2026)
-
-- [[coursegraph-cs-course-comparison-2026]] — שוויון קורס לקרדיט העברה ולניידות
-- [[credentials-carry-evidence-ai-agents-2026]] — מה רשומת השלמה אומרת כאשר סוכן יכול לעשות את העבודה
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — חיזוי מוקדם של סיכון רמאות בסיוע בינה מלאכותית, ופשר סף ההחלטה לפנייה בעלת-השלכות נמוכות
-
-- [[rienties-institutional-ai-assistant-co-design-2026]] — חמישה מחקרי עיצוב-משותף של עוזר לימודים מוסדי מבוסס-AI: זמינות קודם, התנגדות ערכית בסוף
-

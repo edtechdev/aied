@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -39,6 +40,3 @@ Editor v prehliadači beží lokálne na stránke a koncept neodosiela. Hlási p
 ## Čo treba vedieť pred nasadením
 
 Repozitár zverejňuje protokol hodnotenia, vzorky pred a po v priečinku `samples/` a referenčné súbory za skillom, takže recenzent môže preskúmať, ako sa pravidlá správajú, namiesto toho, aby tvrdeniu uveril; táto stránka neopakuje žiadny nameraný výsledok. Autorom je Addy Osmani, licencia je MIT a ide o nezávislú prácu, nie o produkt nejakej inštitúcie. Je mladý a aktívny: vznikol v auguste 2026, má 54 commitov, tri vydania s najnovším 0.2.1 z toho septembra a približne 250 hviezd pri kontrole v septembri 2026. Zmeny priniesli traja prispievatelia. Pokyny skilla sa načítajú do agenta, ktorého čitateľ už používa, takže platia obvyklé výhrady k [[prompt-engineering|prompt inžinierstvu]]: kvalita kritiky závisí od konceptu, ktorý sa mu predloží.
-
-## Prepojené pojmy
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

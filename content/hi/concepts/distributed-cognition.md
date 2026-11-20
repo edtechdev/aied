@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -76,35 +78,3 @@ ai_assist:
 - **"एक साझा दस्तावेज़ का अर्थ साझा संज्ञान है।"** **97 शिक्षार्थियों** की आयतन-आधारित प्रोफ़ाइलें **पूर्व ज्ञान और लेखकत्व** में भिन्न थीं, परंतु **सक्रिय भूमिका या समझ-स्तरीय प्रॉम्प्टिंग** में नहीं। भागीदारी का आयतन संपर्क को मापता था, संज्ञानात्मक कार्य के वितरण को नहीं, इसलिए किसी सहयोगी उपकरण का उपयोग-[[learning-analytics|विश्लेषण]] इस बारे में बहुत कम बताता है कि कौन सोच रहा था।
 - **"सभी लोग AI को समान रूप से सौंपते हैं।"** नौसिखिया शिक्षक **शिक्षण-डिज़ाइन के संज्ञानात्मक बोझ का बड़ा हिस्सा AI प्रणाली को सौंप देते हैं** और एक **AI-प्रधान वितरण** तक पहुँचते हैं जिसमें वे प्रतिक्रियाएँ बड़े पैमाने पर स्वीकार कर लेते हैं, जबकि अनुभवी और AI-दक्ष शिक्षक भिन्न रूप से वितरित करते हैं। विशेषज्ञता इसमें दिखती है कि बोझ कहाँ रखा जाता है, केवल इसमें नहीं कि कितना AI उपयोग होता है।
 - **"अधिक AI भागीदारी का अर्थ अधिक सहायता है।"** AI-प्रधान वितरण वही ढर्रा है जिस पर ध्यान देना चाहिए, क्योंकि मानव का संज्ञानात्मक कार्य में हिस्सा घटता है जबकि आउटपुट का आयतन बढ़ता है। प्रणाली ठीक तब अधिक सक्षम दिख सकती है जब उपयोगकर्ता कम कर रहा हो।
-
-## संबंधित अवधारणाएँ
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## संबंधित लेख
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — वितरित संज्ञान और सह-नियमन लेंस के माध्यम से मानव–AI सहयोगी समस्या-समाधान का अनुभवजन्य अध्ययन
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — मानव और गैर-मानव कारकों में संज्ञान का पुनर्वितरण करने वाले एक शैक्षणिक मध्यस्थ के रूप में AI
-- [[ai-cognitive-partner-co-regulation-learning]] — सह-नियंत्रित सोच में एक संज्ञानात्मक साझेदार के रूप में AI
-- [[ensemble-cognition-philosophy-ai-education]] — सोच को मानव–AI अंतर्क्रिया के रूप में पुनर्परिकल्पित करने वाला एंसेम्बल संज्ञान ढाँचा
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — जैविक और कृत्रिम प्रणालियों में वितरित संज्ञान वाला पोस्टह्यूमैन शिक्षार्थी
-- [[fowlin-operationalizing-learning-principles-ai]] — अनुभवजन्य और स्थित सीखने के साथ-साथ वितरित संज्ञान का संचालन
-- [[cognitive-commons-ai-expertise-regeneration]] — संज्ञानात्मक सामान्यभूमि की दुर्दशा: AI और विशेषज्ञता का पुनर्जन्म
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — पाठ-डिज़ाइन में शिक्षक–AI अंतर्क्रिया: अनुभव और दक्षता के अनुसार AI-प्रधान बनाम पूरक वितरित संज्ञान (चोई एट अल. 2026)
-- [[xu-genai-collaborative-space-2026]] — कारक और सहयोगी स्थान के रूप में GenAI: पहुँच-विन्यास समूह संज्ञान को कैसे वितरित करता है (शू एट अल. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — संज्ञानात्मक वितरण ढाँचा: स्वयं-निर्देशित ChatGPT उपयोग से पाँच अंतर्क्रिया प्रकार और चार भूमिकाएँ
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI के साथ ट्रांजैक्टिव मेमोरी: श्रम-विभाजन और आउटपुट का प्रतिबिंबपूर्ण रूपांतरण आलोचनात्मक चिंतन की भविष्यवाणी कैसे करते हैं (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — व्यक्तिगत शिक्षार्थी विश्लेषण की गलत इकाई क्यों है: साक्षरता सामग्री और मशीनों के साथ अधिनियमित होती है (Schlauch 2026)
-- [[rivera-novoa-genai-extended-cognition-2026]] — विज्ञान अधिगम में विस्तारित संज्ञान: GenAI डिफ़ॉल्ट रूप से प्रतिस्थापक है, पर डिज़ाइन से पूरक बन सकता है
-

@@ -24,6 +24,8 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -93,29 +95,3 @@ Lo distintivo de la IA en la VET es una brecha entre lo que el sector dice quere
 **"Quienes aprenden dependerán en exceso de la IA en la formación práctica."** La evidencia de los pilotos apunta en la dirección contraria. Los pilotos exploratorios (**N = 30**, Italia y China, **20 sesiones acotadas**) encontraron que quienes participaron trataban el sistema como una herramienta de apoyo acotada, con **ninguna expectativa declarada de sustitución ni de dependencia**. Es exploratorio y pequeño, y sí sugiere que el modo en que el estudiantado de formación profesional enmarca una herramienta como equipo y no como autoridad es un recurso en torno al cual vale la pena diseñar.
 
 **"Que al estudiantado le apruebe una tarea simulada significa que la tarea evaluó lo correcto."** De **33 estudiantes encuestados, 21 (64%)** coincidieron en que la tarea de voz era realista y la misma proporción dijo que le daba una forma clara de comunicar lo que sabía, y ninguno se mostró en desacuerdo con que hablar en tiempo real se ajustaba a esta [[authentic-assessment|evaluación auténtica]]. El realismo y la claridad comunicativa merecen conocerse y no son validez: una tarea puede parecer auténtica y aun así no muestrear el desempeño ocupacional que representa.
-
-## Conceptos conectados
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Artículos conectados
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Renovación adaptativa del currículo de CTE: cinco dimensiones y seis pruebas de liderazgo
-- [[ai-vocational-education-training-review]] — Primera revisión sistemática de la IA en la VET: propósitos, teoría y eficacia empírica
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: aprendizaje inmersivo basado en proyectos y creatividad de diseño
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: evaluación oral asistida por IA y sin conexión en TVET
-- [[ai-pedagogical-accompaniment-amico]] — Prototipo de doble modo Amico: principios de diseño e indicadores observables
-- [[ai-autonomous-learning-accomplishment-2026]] — Aprendizaje autónomo asistido por IA y menor logro, mediado por la tenacidad
-- [[astra-atco-training-simulator]] — Sim-pilotos autónomos para una formación escalable de controladores de tráfico aéreo
-- [[crewscaler-ai-upskilling-framework]] — Marco integral acelerado por IA para una actualización profesional rápida
-- [[genai-xr-architectural-design-education-2026]] — Contracaso: IA generativa más XR multiusuario con descenso de la autoeficacia de diseño
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — El apoyo percibido en TIC como palanca institucional en los centros de formación profesional

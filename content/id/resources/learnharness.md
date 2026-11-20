@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -67,10 +68,3 @@ offline, karena permintaan model, dikte opsional dan riset web semuanya menjangk
 Pemasang Windows x64 tidak ditandatangani, sehingga Windows akan memperingatkan. Tidak ada studi
 efektivitas yang dilaporkan, sehingga argumennya bersandar pada alasan yang dinyatakan alih-alih hasil
 terukur; repositorinya memiliki sekitar 4.800 bintang saat diperiksa pada 2 November 2026.
-
-## Konsep terkait
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

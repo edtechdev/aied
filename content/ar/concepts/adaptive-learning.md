@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -105,54 +107,3 @@ ai_assist:
 
 - أبلغ عن التعريف التشغيلي لـ«التكيفي» إلى جانب أي حجم أثر تقتبسه، لأن تعريفات الأدبيات متباعدة والأرقام المجمّعة ترث ذلك الغموض.
 - ميّز معيار الإتقان لديك عن نتائج التعلّم في التحقق الخاص بك. فإن كان مقياس التحقق هو الإشارة نفسها التي تقود التكيف، فهو ليس دليلًا مستقلًا.
-
-## مفاهيم مترابطة
-
-- [[online-teaching-and-learning|التعليم والتعلّم عبر الإنترنت]]
-- [[knowledge-tracing|تتبع المعرفة]]
-- [[personalized-learning|التعلّم المخصص]]
-- [[intelligent-tutoring|التدريس الذكي]]
-- [[student-modeling|نمذجة الطلاب]]
-- [[scaffolding|السقالة]]
-- [[cognitive-diagnosis|التشخيص المعرفي]]
-- [[llm|النماذج اللغوية الكبيرة]]
-- [[learning-analytics|تحليلات التعلّم]]
-- [[higher-ed|التعليم العالي]]
-- [[k-12|رياض الأطفال–12]]
-- [[formative-assessment|التقويم التكويني]]
-- [[behaviorism|السلوكية]]
-- [[ai-technologies|المظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتات، والاسترجاع المعزز، والوكيلية)]]
-- [[recommender-systems-and-learning-paths|أنظمة التوصية ومسارات التعلّم]]
-
-## مقالات مترابطة
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: نظام تقييم تكيفي واعٍ بالزخم للتقييم المخصص
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — التعميم المفرط المخادع: الإتقان التكيفي قد يوقف التدريب قبل أن يعرف المتعلمون متى يُحتبس فعل (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — التدريس بالذكاء الاصطناعي ليس كتلة واحدة: ما نعرفه فعلًا (موجز Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — مراجعة منهجية لتفاعل الطلاب في منصات التعلّم التكيفية
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — التدريس الافتراضي مع التعلّم المحسوب بمساعدة الحاسوب: تجربة في التبني والتعلّم
-- [[making-ai-tutoring-productive-mastery-math-2026]] — جعل التدريس بالذكاء الاصطناعي منتجًا: تدريب الرياضيات القائم على الإتقان
-- [[chudziak-ai-math-tutoring-platform]] — تدريس الرياضيات التكيفي/المخصص متعدد الوكلاء (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — إعادة تعريف التعلّم المخصص: مراجعة منهجية
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — الذكاء الاصطناعي الخاص بالتدريس المعاير على استعداد المتعلم مقابل روبوتات المحاورة العامة
-- [[context-based-ai-secondary-chemistry-2026]] — التعليم السبعي E القائم على السياق + الذكاء الاصطناعي في الكيمياء الثانوية
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — برنامج STEM تكيفي قائم على الذكاء الاصطناعي للتعلّم العميق
-- [[graph-its-adaptive-algorithms-2026]] — التدريس الذكي القائم على الرسوم البيانية للمجالات الديناميكية (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — التشخيص المعرفي البايزي لمسارات التعلّم المخصصة
-- [[adaptive-scaffolding-cognitive-engagement-its]] — السقالة ICAP التكيفية في نظام تدريس ذكي (BKT مقابل DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — تحليل تجميعي يجمع الأدوات التكيفية + الممكنة بالذكاء الاصطناعي عبر 14 اختبارًا عشوائيًا مضبوطًا
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — مراجعة منهجية: المسارات التكيفية بين حالات الاستخدام الرائدة لدمج الذكاء الاصطناعي في التعليم العالي
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — تسلسل المسائل التكيفي يتغلب على التسلسل الثابت: +0.156 انحراف معياري في امتحان غير مساعد، بوساطة التفاعل لا الصعوبة (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: مدرّس وكيلي يتعلّم متعلّمَه في حلقة تعلّم مشتركة بين الإنسان والذكاء الاصطناعي
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — استخدام الاستراتيجية يغلب عليه الحالة (ICC متوسط 0.14)، فملفات المتعلّم الثابتة تهدر معظم الإشارة

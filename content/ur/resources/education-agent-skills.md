@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -41,6 +42,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 تعلیمی اسکلز، دستاویزات اور نصابی مواد CC BY-SA 4.0 کے تحت لائسنس یافتہ ہیں، اس لیے دوبارہ استعمال اور موافقت کھلی ہے جبکہ مشتق کاموں کو وہی لائسنس ساتھ لانا ہوگا۔ اگر آپ اسے deploy کریں تو دو عملی تفصیلیں اہم ہیں۔ ہوسٹڈ MCP endpoint سب کے لیے کھلا نہیں بلکہ tokens مانگتا ہے، اور چونکہ سرور commit شدہ snapshot پیش کرتا ہے، SKILL.md فائلیں نہیں، اس لیے bundle دوبارہ بنا کر commit کیے بغیر شامل کی گئی اسکل live سرور پر نظر نہیں آئے گی، redeploy کے بعد بھی نہیں۔ لائبریری Gareth Manning بناتے ہیں، جو ایک ماہرِ تعلیم اور نصاب ڈیزائنر ہیں، اور لائسنس کی شرائط خاص طور پر تعلیمی مواد پر لاگو ہوتی ہیں۔
-
-## منسلک تصورات
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -130,51 +132,3 @@ ai_assist:
 - **«Студенты, которым нужна помощь, не просят о ней.»** **Предзарегистрированный эксперимент** на курсах бакалавриата с большим набором студентов рассылал сообщения студентам через академический чат-бот и обнаружил **большее использование репетиторства и дополнительного** обучения. Понуждение изменило поведение, значит барьером было не желание, а [[prompt-engineering|побуждение]].
 - **«Запросы о помощи касаются обучения.»** **Спрос на операционную поддержку** осложняет это допущение: среди **4 093 запросов** по меньшей мере **20,4% спрашивали о статусе ожидающей сдачи, а не о знании**. Пятая часть спроса на помощь была административной.
 - **«Использование ИИ-репетитора означает мониторинг собственного обучения.»** В исследовании **98 учащихся 9 класса**, использовавших репетитор GenAI, взаимодействия **определялись инструментальными запросами почти без мониторинга или оценки собственного обучения**. Просить ответы — не поиск помощи в том смысле, который имеет в виду конструкт.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: зонтичная категория для концепций со стороны учащегося
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — Институциональное outreach и распределение поддержки, за пределами поиска помощи внутри курса
-
-## Связанные статьи
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Взаимодействия как данные первого класса: классификация запроса по состоянию выполнения вокруг него
-- [[leite-its-k12-meta-analysis-2025]] — Which tutoring supports carry the effect: on-demand examples and hints over automatic prompts
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Траектория поиска помощи, а не её уровень, предсказывает математическую результативность без поддержки
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Длина подсказки измерена против правильности следующей сдачи, числа попыток и времени в живом курсе программирования
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Агент-помощник, которого никто не позвал (Humburg et al. 2025)
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: интерактивная система вопросов и ответов на основе пера с использованием LLM
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Опосредованный LLM поиск помощи в STEM: многослойный, инструментальный и верифицированный
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — В одном клике: Khanmigo в двухлетнем школьном эксперименте
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Виртуальное репетиторство с CAL: эксперимент по использованию и обучению
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Набор данных StudyChat диалогов студентов и LLM в курсе по ИИ
-- [[lak2026-hint-button-unproductive-use]] — Преждевременные запросы подсказок и поверхностное чтение подсказок предсказывают меньший прирост в обучении в интеллектуальной репетиторской системе
-- [[ai-fallibility-warning-help-seeking]] — Предупреждение о способности ИИ ошибаться повышает поиск помощи в системе математического репетиторства
-- [[regulating-ai-tutor-adolescent-srl]] — Разрыв между намерением и поведением в поиске помощи у подростков с GenAI и саморегулируемом обучении
-- [[guided-llm-scaffolding-independent-learning]] — Направляемый скаффолдинг на базе LLM улучшает ориентированный на рассуждение поиск помощи и независимое обучение
-- [[rethinking-scaffolding-llm-tutors]] — Несоответствие между скаффолдингом и использованием студентами в реальных развёртываниях репетиторов на базе LLM
-- [[uneven-impact-generative-ai-student-learning-2026]] — Ранняя опора: обращение к GenAI до независимого размышления, поиска или обращения к преподавателю предсказывает и пользу, и вред (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Грамотность в отношении ресурсов в онлайн-сочинении: узкое место — распознавание, когда помощь нужна (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Снижение барьеров для академической поддержки: оценка системы RAG, специфичной для курса, для решения неравенства в поиске помощи в высшем образовании
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Адаптивный скаффолдинг требует контингентности: репетитор на основе ИИ, который усиливает и снимает поддержку в зависимости от того, что делает учащийся
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: создание скаффолдинга для адресного поиска помощи с использованием ИИ в ходе решения задач
-- [[guided-ai-tutor-impasse-resolution-2026]] — Изучение вариаций в том, как направляемые репетиторы на основе ИИ разрешают тупики студентов
-- [[student-query-demand-hybrid-ai-support-2026]] — О чём студенты спрашивают на самом деле: структура спроса и потенциал автоматизации в гибридной системе поддержки

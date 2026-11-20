@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,7 +38,3 @@ ai_assist:
 
 ## এটি কোথা থেকে এসেছে
 এটি শুরু হয়েছিল ডিউক বিশ্ববিদ্যালয়ে 2024–2025 সালে AI Ethics Learning Toolkit হিসেবে, যৌথভাবে নকশা করেছিলেন স্নাতক শিক্ষার্থী, গ্রন্থাগারিক, অনুষদ ও প্রযুক্তিবিদরা — Center for Teaching and Learning ও Duke Libraries জুড়ে — এবং প্রতিক্রিয়া ও পুনর্নকশার পর Hannah Rozear, Remi Kalir ও Aria Chernik এটি পুনরায় চালু করেন।
-
-## সংযুক্ত ধারণা
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]

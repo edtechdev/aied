@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -86,36 +88,3 @@ Los estudios de caso y las simulaciones son los formatos de enseñanza más cerc
 - **«Añadir módulos de IA a un currículo de negocios captura el beneficio.»** La investigación sobre alineación constructiva encontró que **el grado de integración curricular determinaba si predominaban los beneficios o los riesgos**: la distinción operativa es **integrar, no añadir**. Un módulo añadido deja el diseño de la evaluación sin cambios.
 
 - **«La sofisticación de la herramienta supera al aprendizaje en línea convencional.»** Un estudio de percepción con **130 estudiantes** encontró que **tanto el apoyo del chatbot como el del agente se valoraron por encima del aprendizaje en línea tradicional** en mejora, personalización y toma de decisiones. Conviene notar qué mide esto: la *percepción* del estudiantado frente a una referencia convencional, no el aprendizaje frente a ella.
-
-## Conceptos conectados
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — Estudios de caso, método del caso y discusión de casos
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Artículos conectados
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: una heurística hermenéutica para la sabiduría práctica en la educación empresarial (Heron y Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa
-- [[csaszar-ai-management-education-2026]] — Los efectos de la IA en la educación en gestión: un análisis estratégico basado en el valor (Csaszar et al. 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: apoyo de IA generativa agéntica en un curso de comercio electrónico, beneficios y riesgos percibidos (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Marco informado por el estudiantado para la IA generativa en las escuelas de negocios (Drummond y Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Una década de IA en la educación empresarial (Espino y Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Alineación constructiva de la IA generativa en la educación superior de negocios (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Perspectivas del estudiantado sobre la integración de la IA generativa en los currículos (Rook y Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Factores organizativos de la adopción de la IA en la educación superior (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — El marco CAIS-GBL para agentes conversacionales de IA en juegos de simulación empresarial (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Concordancia y error en la calificación automatizada de publicaciones de marketing del estudiantado
-- [[shi-genai-experiential-learning-management-education-2026]] — tres mecanismos de IA generativa para reconfigurar la pedagogía de la educación en gestión
-- [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso en un aprendiz de Analista de Negocios: calificar la iteración documentada, no el tema
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un chatbot de RAG construido para el curso movió las expectativas, no los resultados

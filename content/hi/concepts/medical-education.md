@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -91,55 +93,3 @@ HPE एक उच्च-दांव, अर्हता-आधारित क�
 - **"प्रश्न यह है कि नैदानिक प्रशिक्षण में LLM क्या कर सकते हैं।"** **47 देशों के 489 अध्ययनों** की एक महत्वपूर्ण समेकित समीक्षा प्रश्न को **इससे कि LLM क्या कर सकते हैं, इस ओर** खिसकाती है कि उन्हें किस बात पर भरोसा दिया जाना चाहिए। क्षमता का प्रश्न काफ़ी हद तक उत्तरित है; शासन का प्रश्न नहीं।
 - **"मानकीकृत रोगी इतने महँगे हैं कि बड़े पैमाने पर संभव नहीं।"** **95 विश्लेषित चिकित्सा विद्यार्थियों** वाले एक यादृच्छिक नियंत्रित परीक्षण ने नैदानिक साक्षात्कार प्रशिक्षण में **बहु-एजेंट AI मानकीकृत रोगियों** का उपयोग किया। जिस बाधा को संबोधित किया जा रहा है वह प्रशिक्षित मानव अभिनेताओं की उपलब्धता है, जो प्रामाणिकता का नहीं बल्कि कर्मचारी-व्यवस्था का प्रश्न है।
 - **"प्रकाशित AI अर्हता ढाँचा अपनाना पाठ्यक्रम का प्रश्न तय कर देता है।"** [[xiang-ai-nursing-education-kas-framework-2026|श्यांग एट अल. (2026)]] ने 1,750 अभिलेखों को छाँटकर 23 अध्ययन किए — 15 समीक्षाएँ, 4 [[qualitative-research|गुणात्मक]] और 4 [[quantitative-research|मात्रात्मक]], 15 देशों में और 2022 से 2026 तक — और उन्हें ज्ञान, अभिवृत्ति और कौशल मॉडल पर मैप किया। अनुप्रयोग क्षेत्र चिकित्सा शिक्षा (n = 11, 47.8%), सामान्य शिक्षा (n = 9, 39.1%) और अन्य शिक्षा (n = 3, 13.0%) में केंद्रित थे, और उनके तुलित नामित नर्सिंग ढाँचे — N.U.R.S.E.S., AI-ABCs और CARE — या तो शैक्षणिक कार्यान्वयन के स्पष्ट मार्ग नहीं देते या मूल्यांकन विधियों के बिना अलग-अलग कौशल कवर करते हैं। उनका बनाया 12-उप-आयाम मानचित्र सत्यापन की प्रतीक्षा करता प्रस्ताव है, जो इसे तय पाठ्यक्रम के बजाय जिसके विरुद्ध पढ़ाया जाए, वह बनाता है।
-
-## संबंधित अवधारणाएँ
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — स्वास्थ्य-पेशेवर शिक्षा का नर्सिंग धागा
-- [[virtual-and-augmented-reality]] — immersive और AR क्लिनिकल प्रशिक्षण
-
-## संबंधित लेख
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — चिकित्सा और दंत शिक्षा में AI-समर्थित PBL और CBL: छह RCT, केवल दो CBL (वेई एट अल. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI-सहायित डिजिटल पैथोलॉजी निदान प्रदर्शन सुधारती है और पैथोलॉजी निवासियों में अनुभव-संबंधी प्रदर्शन अंतराल घटाती है
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — स्वास्थ्य AI पाठ्यक्रम नैतिकता सिखाते हैं (80.6%) लेकिन डेटा-उद्गम विरले (22.2%)
-- [[genai-medical-education-transformation-review-2026]] — 153 चिकित्सा-शिक्षा GenAI रिपोर्टों की स्कोपिंग समीक्षा: सिमुलेशन आगे, टिकाऊपन और रोगी परिणाम अमापित
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — क्लिनिकल साक्षात्कार प्रशिक्षण के लिए स्कैफोल्डिंग-उन्मुख बहु-एजेंट बड़े भाषा मॉडल प्रणाली का मूल्यांकन
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — चिकित्सा शिक्षा में AI शिक्षण एजेंटों का 8-आयामी रूब्रिक मूल्यांकन
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, नर्सिंग शिक्षा संरचनात्मक अंतराल और व्यावसायिक पहचान का पुनर्गठन (Sun एट अल. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN ढाँचा: चिकित्सा प्रशिक्षण में AI कार्य वितरण पर पुनर्विचार (Tsim एट अल. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — स्वास्थ्य-पेशेवर शिक्षा में AI के साथ अनुभवजन्य, स्थितिजन्य और वितरित संज्ञान को व्यवहार्य बनाना
-- [[residencyrl-clinical-rl-training-2026]] — निवासी चिकित्सा में क्लिनिकल कौशलों के लिए रिइन्फोर्समेंट-लर्निंग प्रशिक्षण
-- [[medgame-llm-medical-education-gamification]] — चिकित्सा शिक्षा के लिए गेमिफाइड LLM-आधारित शिक्षा
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — ब्रैकीथेरेपी प्रशिक्षण के लिए एजेंटिक AI सिमुलेशन
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI के साथ नर्सिंग शिक्षा का परिवर्तन
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — नर्सिंग में AI-संचालित सिमुलेशन: मिश्र विधि व्यवस्थित समीक्षा
-- [[wang-safety-gap-productive-struggle-2026]] — द सेफ्टी गैप: उत्पादक संघर्ष की पुनर्स्थापना
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: मानव-एकीकृत दंत रेडियोग्राफी शिक्षण (Dong एट अल. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — परिदृश्य-आधारित स्वास्थ्य शिक्षा में GenAI की व्यवस्थित समीक्षा (Neto एट अल. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — मापनीय AI-आधारित क्लिनिकल संचार प्रशिक्षण और स्वचालित मूल्यांकन
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — चिकित्सा शिक्षा में AI नैतिकता का बिब्लियोमेट्रिक मानचित्र: उत्पादन 113 (2023) से 500 (2025) हुआ, 39 देश, और उद्धरण शासन के बजाय क्षमता परीक्षण को पुरस्कृत करते हैं (Sriram एट अल. 2026)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — LLM-आधारित आभासी मानकीकृत रोगियों का स्तरीकृत बहु-मूल्यांकक मूल्यांकन
-- [[llm-grading-assistants-public-health-2026]] — बार-बार चलाने से वही ग्रेड दोहराया नहीं जाता
-- [[xiang-ai-nursing-education-kas-framework-2026]] — शैक्षणिक AI अर्हता ढाँचों को 12-भाग KAS मानचित्र पर मैप करने वाली स्कोपिंग समीक्षा
-- [[agency-gap-ai-writing]] — स्वास्थ्य-व्यवसाय प्रशिक्षण में प्रतिक्रियाशील बनाम सक्रिय AI लेखन एजेंट: एजेंसी अंतराल
-- [[federated-learning-at-risk-student-prediction-2026]] — HPE कार्यक्रमों में संघीय जोखिम पूर्वानुमान: नगण्य गोपनीयता लागत, और आयातित सीमा क्यों चूकती है
-- [[rony-nursing-educators-ai-tpack-2025]] — बांग्लादेश में नर्सिंग शिक्षक AI तत्परता, बाधाओं और डेटा शासन पर, TPACK से पढ़ा गया
-- [[bursic-ai-residency-education-curriculum-2026]] — रेज़िडेंसी पाठ्यक्रमों में AI एकीकृत करने की बाधाएँ: बारह चिकित्सक नेताओं के साथ गुणात्मक साक्षात्कार
-- [[alshahrani-health-sciences-ai-use-2026]] — प्रौद्योगिकी और शैक्षणिकी को जोड़ना: विविध स्वास्थ्य विज्ञान पाठ्यक्रमों के छात्रों में AI उपयोग, स्व-रिपोर्टित शैक्षणिक प्रभाव और नैतिक चिंताओं का अनुप्रस्थ-काट विश्लेषण

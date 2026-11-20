@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -58,22 +60,3 @@ ai_assist:
 **"AI जनरेशन कहानी-कथन उन छात्रों के लिए उपलब्ध कराता है जो लिख नहीं सकते थे।"** यह *लिखित कलाकृति उत्पन्न करना* उपलब्ध कराता है, जो एक भिन्न लाभ है। मौखिक कथन, चित्रकारी और श्रुतलेख उसी लक्ष्य के स्थापित मार्ग हैं, और वे वह लेखकत्व संरक्षित रखते हैं जिसे जनरेशन हटा देता है।
 
 **"कहानी का शैक्षिक मूल्य परिष्कृत परिणाम में है।"** यह निर्माण में है: वह चयन और क्रम जो कथावाचक करता है। जिस परिष्कृत कहानी को छात्र ने संरचित नहीं किया, उसने शिक्षार्थी की नहीं, मॉडल की क्षमता प्रदर्शित की है।
-
-## संबंधित अवधारणाएँ
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## संबंधित लेख
-
-- [[ai-generated-interactive-fiction-education-2026]] — 22 STEM छात्रों के साथ AI-जनित अंतर्क्रियात्मक कथा: स्पष्टता अच्छी, सुसंगति सबसे कमज़ोर
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — मोटीबो
-- [[robobuddy-llm-social-robots-classroom-2025]] — रोबोबडी
-- [[icub-humanoid-storytelling-llm-hri-2025]] — आईक्यूब कथात्मक एचआरआई
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — रीमाइंड
-- [[white-wu-robotics-ai-education-2026]] — शिक्षा में रोबोटिक्स और एआई

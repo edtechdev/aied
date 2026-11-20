@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,6 +48,3 @@ K-12-opettajille, jotka haluavat työkalun tiettyyn ongelmaan ilman tilausta, op
 ## Huomioita ja varauksia
 
 Tahti on sekä myyntipuhe että riski. Yhden päivän rakennelmat tähtäävät todelliseen luokkahuoneongelmaan, ei tutkimuskysymykseen, joten mikään tässä ei kanna arviointia ja väite sovelluksen toiminnasta tulisi testata luokkahuoneessa. GitHub-organisaatiossa on 32 julkista repositoriota, kun galleria listaa 34, kaikki Apache-2.0-lisenssillä ja lähdekoodi saatavilla, joten sovellus voidaan lukea ja isännöidä itse. Paikallisesti toimiva suunnittelu on väite, joka on varmennettava sovelluskohtaisesti, ja opettajan tulisi varmistaa se ennen kuin hän asettaa minkään opiskelijoille suunnatun työkalun luokan eteen.
-
-## Liittyvät käsitteet
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

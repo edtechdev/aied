@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -62,33 +64,3 @@ Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[e
 - **“Vücut, vücut bulmuş öğrenmeyi işler kılan şeydir.”** **11 RALL çalışmasını (N = 595, g = 0.83, I² = %84,4)** kapsayan bir meta analiz, **robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün** [[language-learning|ikinci dil öğrenme]] çıktılarını **yönlendirmediğini** bulmuştur. Vücut bulma özellikleri etkin bileşen değildi ve heterojenlik yeterince yüksekti (I² = %84,4) ki havuzlanmış etki çok karışık bir müdahale kümesini betimler.
 - **“Büyük bir etki mekanizmayı çözer.”** 11 çalışma genelinde 595 katılımcıyla g = 0.83 gerçek bir sinyaldir ve neyin ürettiğini tanımlamaz. Tasarım özellikleri etkiyi yönlendirmediğine göre akla yatkın mekanizma donanımda değil pedagojik etkinlikte durur; bu da neye yatırım yapılacağını değiştirir.
 - **“Vücut bulma ölçülemez, dolayısıyla kuramsal kalır.”** Vücut izleme, düzenlemeyi **ölçülebilir bir sinyale** dönüştürebilir: hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda bir LLM hattı, **470 bölümü** düzenleme davranışı olarak etiketlemiştir. Yapı, tanımlanması zor olduğu yerde bile işlevselleştirilebilir.
-
-## Bağlı kavramlar
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — vüut bulmayı doğrudan yararlanılmaya çalışan modalite
-
-## Bağlı makaleler
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Hareket izlemeli fotosentez simülasyonu, bir LLM hattıyla çözümlenmiştir (Fonteles ve ark. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Elle kurulan modellerden sonra kolaylaştırıcı olarak YZ: dile dayalı bir YZ vücut bulmuş sorgulamayı izleyemez (Tufino ve Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — Vücut bulmuş öğrenmede YZ çoğunlukla gözlemler: kodlanan rol etiketlerinin %62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenenler kullanırken çok kipli akışları birleştirmedi (Kim ve Han 2026)

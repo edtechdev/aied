@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -63,7 +65,6 @@ Role-play-প্রম্পটকৃত LLM-গুলো উপলব্ধি-
 
 [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang প্রমুখ (2026)]] শিক্ষার্থী-অনুকরণে একটি সমীক্ষা-প্রতিক্রিয়া অক্ষ যোগ করেন, প্রত্যেক ব্যক্তির সাক্ষাৎকার-প্রতিলিপি থেকে BREQ উত্তর উৎপন্ন করে, ফলে সাক্ষাৎকার-বিষয়বস্তু কিছু মডেলে সামঞ্জস্য ও বৈচিত্র্য বাড়িয়েছে, আর জনতাত্ত্বিক তথ্য সামান্য যোগ করেছে। LLM-উত্তর প্রতিটি শর্তে মানব-পরিবর্তনশীলতা কম উৎপাদন করেছে, এবং আইটেম-স্তরের নকল পরীক্ষা-স্তরের সাইকোমেট্রিক গঠন পুনর্গঠন করেনি, কারণ কেবল Claude সাক্ষাৎকার-প্রম্পটসহ আপেক্ষিক স্বায়ত্তশাসন-সূচকে সামঞ্জস্য উন্নত করেছে।
 
-
 পূর্বানুমিত আচরণ-মডেলের ওপর উৎপাদন শর্তযুক্ত করা [[llm-training-and-fine-tuning|সূক্ষ্ম-সমন্বয়]] ছাড়াই কাজ করে: একটি প্রশিক্ষণ-মুক্ত কাঠামো [[knowledge-graph]] থেকে প্রতিটি শিক্ষার্থীর জ্ঞানীয় প্রোটোটাইপ গড়ে এবং বিম-সার্চ প্রার্থীদের তার বিপরীতে স্কোর করে, অনুকরণ-নির্ভুলতায় 100% উন্নতি রিপোর্ট করে ([[simulating-students-diverse-cognitive-levels-2025|Wu প্রমুখ (2025)]])। এর গুণ শিক্ষার্থীর জ্ঞানীয় স্তরের সঙ্গে বাড়ে, তাই দুর্বল শিক্ষার্থীরাই অনুকরণ করা কঠিনতর ক্ষেত্র থাকে।
 - **শিক্ষার্থী হিসেবে অভিনয় না করে শিক্ষার্থীকে পূর্বানুমান করুন।** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang প্রমুখ (2026)]] অনুকরণকে তৃতীয়-পুরুষ পূর্বানুমান হিসেবে পুনর্গঠিত করেন: শিক্ষার্থীর ইতিহাস থেকে গড়া একটি শিক্ষার্থী-মডেল একটি প্রায়র যোগায়, অনুমিত শিক্ষার্থী-অবস্থা পরবর্তী কর্ম সীমাবদ্ধ করে, এবং অনুকৃত সামর্থ্য-বণ্টন Wasserstein-1 দূরত্বে প্রকৃতটির 2.4–8.4× বেশি নিকটে পৌঁছায়।
 
@@ -93,7 +94,6 @@ CogEvolution স্থির ব্যক্তির বদলে জ্ঞা�
 
 দর্পণ-প্রশ্নটি উল্টো দিকে চলে। [[ai-avatars-and-synthetic-instructors]] শিক্ষার্থীর বদলে যিনি পড়ান তাঁকে অনুকরণ করে, তাই অনুকৃত শিক্ষার্থীরা একটি পদ্ধতিকে পরীক্ষার মুখে ফেলে, আর কৃত্রিম প্রশিক্ষক শিক্ষার্থীর সামনে দাঁড়ায়, যে এই উদ্যোগের সুবিধাভোগী ও বিচারক।
 
-
 ### দুই-অক্ষ বিশ্বস্ততা: আচরণগত মিল ও পথনির্দেশ-প্রতিক্রিয়াশীলতা
 
 [[studentsim-llm-student-simulators|StudentSim (Yang প্রমুখ, 2026)]] বৈধতা-সমস্যাকে দুটি একসঙ্গে থাকা আবশ্যকতা হিসেবে আনুষ্ঠানিক করে: **আচরণগত বিশ্বস্ততা (F)** — একটি সিমুলেটর শিক্ষার্থীর নিজের উত্তরের সঙ্গে কতটা মেলে — এবং **পথনির্দেশ-প্রতিক্রিয়াশীলতা (R)** — টিউটরের পথনির্দেশ যেদিকে নিয়ে যায় সেদিকে তা কতটা নির্ভরযোগ্যভাবে হালনাগাদ হয়। এর [[benchmark|বেঞ্চমার্ক]], StudentSimEval, প্রকাশ্য শিক্ষার্থী-কর্পাসকে (দাবা, দ্বিতীয়-ভাষা ইংরেজি লেখা, [[math-education|গণিত]]) একটি প্রমিত প্রতি-শিক্ষার্থী প্রোটোকলে ঢালে, যেখানে যেকোনো সিমুলেটর ফিট হয়ে ধরে রাখা রেকর্ডে স্কোর হয়। দুই-পর্যায়ের **পুল-তারপর-বিশেষায়িত** পাইপলাইন (আচরণগত ধরনের একটি ভাগ করা পুল প্লাস প্রতি-শিক্ষার্থী অ্যাডাপ্টার) উভয় অক্ষে শক্তিশালী সিমুলেটর-পরিবার দেয়, যা ক্ষেত্র-নির্দিষ্ট অবস্থা-অনুসরণ (R-এ দুর্বল) ও কেবল-প্রম্পট LLM ভূমিকা-অভিনয় (F-এ দুর্বল)-কে ছাড়িয়ে যায়। এটি ক্ষেত্রটিকে একটি সুনির্দিষ্ট, দুই-অক্ষ শব্দভাণ্ডার দেয় — একটি অনুকৃত শিক্ষার্থী কেবল বিশ্বাসযোগ্য নয়, সত্যিই উপযোগী কি না তা বিচারের জন্য — এবং ধারণা-প্রমাণ হিসেবে, একটি হিমায়িত StudentSim দাবা-টিউটর [[reinforcement-learning]] লুপে পুরস্কার হিসেবে ব্যবহার করে এমন টিউটর তৈরি হয়েছে যা বিশেষজ্ঞরা আরও নির্ভুল, আরও ভালো-পথনির্দেশিত ও আরও ব্যক্তিগতকৃত বলে রেট করেছেন, ফ্রন্টিয়ার-LLM-সিমুলেটর পুরস্কার বা কোনো RL ছাড়া প্রশিক্ষিতদের তুলনায়।
@@ -120,7 +120,6 @@ CogEvolution স্থির ব্যক্তির বদলে জ্ঞা�
 
 একটি আরও ধারালো বৈধতা-পরীক্ষা জিজ্ঞাসা করে একটি মডেল আদৌ মানব *পছন্দ* পুনরুৎপাদন করে কি না: একটি অভিযোজিত [[self-directed-learning|স্ব-নির্দেশিত শিখন]] খেলায় পাঁচটি ফ্রন্টিয়ার মডেল একটি একক সমাধান কাজে লাগিয়েছে, যেখানে 175 মানব অংশগ্রহণকারী লক্ষ্য জুড়ে অন্বেষণ করেছেন, তাই শিক্ষার্থীদের প্রতিনিধিত্বকারী একটি মডেল সেই আচরণই পরিত্যাগ করেছে যা পুনরুৎপাদন করতে অনুকরণটির অস্তিত্ব ([[llm-goal-selection-self-directed-learning-2026|Molinaro প্রমুখ (2026)]])।
 
-
 শিক্ষার্থীর পছন্দও অনুকরণ পূর্ব-পরীক্ষা করতে পারে: [[simulating-learner-task-selection|Noh প্রমুখ (2026)]] দুটি প্রকৃত টিউটরিং ডেটাসেটে একটি Additive Factors Model ও বায়েসীয় [[knowledge-tracing]] ফিট করেন এবং 1,000 জন অনুকৃত শিক্ষার্থীকে আটটি কৌশলে দক্ষতা বেছে নিতে দেন, যেখানে একটি ঝুঁকি-বিমুখ নিয়ম অন্যগুলোর প্রায় ত্রিশ গুণ অতিরিক্ত-অনুশীলন তৈরি করেছে এবং একটি ঠিক-নিচে-দক্ষতা সীমাবদ্ধতা তা 1.8×-এ কমিয়েছে।
 
 দ্বিতীয় নিরীক্ষা-নিবন্ধন [[metacognition|অধিজ্ঞানভিত্তিক]] ও আবেগগত। [[meds-math-education-digital-shadows-2026|MEDS (Esposito প্রমুখ, 2026)]] হলো একটি 28,000-রেকর্ড ডেটাসেট — 14টি [[llm|মডেলের]] প্রত্যেকটির জন্য 2,000 সিন্থেটিক ব্যক্তি, প্রত্যেকটি একজন মানব-ব্যক্তি ও একটি বেসলাইন সহকারী — যা 18টি উচ্চ-বিদ্যালয় [[problem-solving|গণিত সমস্যায়]] নির্ভুলতা নথিভুক্ত করে [[self-report-measures|আত্ম-প্রতিবেদিত]] আত্মবিশ্বাস এবং যে শিক্ষার্থীদের প্রতিনিধিত্ব করে তারা যে [[self-efficacy|আত্ম-দক্ষতা]] ও [[anxiety-and-stress|গণিত-উদ্বেগ]] স্কোর রিপোর্ট করত তার সঙ্গে। এর নিরীক্ষা-সংকেত হলো ক্রমাঙ্কন-ব্যবধান: Qwen পরিবার ও Ministral 3B 0.90-এর ওপরে আত্মবিশ্বাস দাবি করেছে অথচ নির্ভুলতা 0.55-এর কাছাকাছি স্থবির, যেখানে Grok 4.1 Fast, DeepSeek Chat ও কয়েকটি Mistral Small ধারা কম-আত্মবিশ্বাসী ছিল এবং Ministral 14B ও Anita 24B যুক্তিসঙ্গতভাবে সারিবদ্ধ থেকেছে। একই রান বিশ্বস্ততার একটি শান্ততর ব্যর্থতাও প্রকাশ করে: মানব-মোড ব্যক্তিরা বিস্তৃত, বিশ্বাসযোগ্য স্কোর-বণ্টন দিয়েছে, অথচ বেসলাইন সহকারীরা প্রায়-অভিন্ন, আত্মবিশ্বাসী, কম-উদ্বেগের উত্তর দিয়েছে — অনুকৃত শিক্ষার্থীর নয়, একটি ডিফল্ট আত্ম-প্রতিকৃতি। এটি উপরের সুপারিশকারী-নিরীক্ষাকে বিস্তৃত করে একটি মডেল তার নিজের দক্ষতা ও আবেগ সম্পর্কে কী দাবি করে তা যাচাই করে, এবং একটি অপ্রত্যাশিত দিক থেকে পাতাটির বৈধতা-সতর্কতাকে ধারালো করে: যেহেতু MEDS ব্যক্তিরা নমুনাকৃত নয়, নির্মাণানুযায়ী ওজনযুক্ত, লেখকরা ডেটাসেটটি প্রম্পট-শর্তযুক্ত [[generative-ai|GenAI]] আচরণ নিরীক্ষার একটি পর্যবেক্ষণমূলক সম্পদ হিসেবে উপস্থাপন করেন এবং স্পষ্টভাবে প্রকৃত [[student-experience|শিক্ষার্থী-তথ্যের]] প্রতিনিধি হিসেবে নয়।
@@ -138,61 +137,3 @@ CogEvolution স্থির ব্যক্তির বদলে জ্ঞা�
 - **"LLM শিক্ষার্থীরা যথেষ্ট ভালো প্রক্সি।"** **অনুকরণগুলো সবচেয়ে সহজ শিক্ষার্থীদের কভার করে, এবং অল্পই বৈধকৃত**: LLM শিক্ষার্থীদের টিউটরিং করা **বারো জন শিক্ষক** **অতিরিক্ত জটিল ভাষা, অনুপস্থিত আবেগ** এবং প্রকৃত শিক্ষার্থীদের থেকে অন্যান্য বিচ্যুতি রিপোর্ট করেন। প্রক্সিটি সহজলভ্য কেসটির মডেল করে।
 - **"জ্ঞান-ব্যবধানযুক্ত একটি অনুকৃত শিক্ষার্থী সেই ব্যবধানযুক্ত শিক্ষার্থীর মতো আচরণ করে।"** **Mistral-7B-তে 16টি লক্ষ্যবস্তু জ্ঞান-উপাদান দমন করলে নির্ভুলতা 10% বিস্মৃতির অনুপাতে প্রায় 0.75 থেকে 40%-এ 0.5-এর নিচে নেমে যায়**, অথচ বেস মডেল টিকে থাকে। অবনমনটি প্রকৌশলকৃত ছিল, আর সেটাই এটিকে অনুকরণের বদলে একটি নিয়ন্ত্রিত হস্তক্ষেপ করে তোলে।
 - **"ব্যক্তি-স্থিতিশীলতা মডেল-নির্বাচনের সমস্যা।"** এটি **মিথস্ক্রিয়া-নকশার সমস্যা**: **পাঁচটি LLM-কে তিনটি প্রম্পট-নকশা ও চারটি ADHD-তীব্রতা ব্যক্তির সঙ্গে** ক্রস করে, স্ক্রিপ্টকৃত পার্থক্য মডেলের বদলে প্রম্পট-নকশাকে অনুসরণ করেছে। ভালো মডেল বাছাই করলে অস্থিতিশীল ব্যক্তি ঠিক হয় না।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-সংক্রান্ত ধারণাগুলোর ছাতা
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — এআই-সহায়ক শিক্ষা গবেষণা
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[radmehr-alps-simulated-students-long-horizon-2026]]
-- [[rudolph-llm-simulated-counselling-clients-2026]]
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]]
-- [[tutorloop-sensor-cognitive-feedback-2026]]
-
-- [[llm-student-simulation-teacher-insights]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[llm-educational-simulation-adhd]]
-- [[simulating-students-java-programming-errors-llms]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[medeasy-ai-standardized-patients]]
-- [[simulating-students-diverse-cognitive-levels-2025]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]]
-- [[educasim-cs1-instructional-practice]]
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]]
-- [[cogevolution-student-cognitive-evolution-agent-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]]
-- [[llm-agents-collaborative-problem-solving-simulation-2026]]
-- [[studentsim-llm-student-simulators]]
-- [[ai-web-agents-lesson-design-2025]]
-- [[simulating-learner-task-selection]]
-- [[durable-skills-measurement-ai-teammates-2026]]
-- [[agent-based-educational-science-2026]]
-- [[meds-math-education-digital-shadows-2026]]
-- [[swim-student-writing-simulation-2026]]
-- [[misconception-acquisition-dynamics-llms-2026]]
-- [[llm-distractor-generation-student-reasoning-2026]]
-- [[llm-simulating-student-scientific-thinking-2026]]
-- [[simulated-students-tutoring-dialogues-2026]]
-- [[simulating-novice-students-machine-unlearning-2026]]
-- [[student-development-agent-risk-free-simulation-2025]]
-- [[preservice-teachers-noticing-ai-simulations-2026]]
-- [[beagle-grounded-learner-emulation-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -62,7 +64,6 @@ Pemrosesan bahasa alami dalam pendidikan menerapkan metode komputasional pada ba
 - **Kesetiaan entitas dalam transkrip ASR adalah pertanyaan yang terpisah dari akurasi leksikal.** Membandingkan lima sistem pengenalan suara terhadap transkrip rujukan manusia, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] melaporkan bukti kesetiaan entitas ASR/NER pertama dalam basis pengetahuan: tingkat kesalahan kata berkisar dari 2.43% (TurboScribe) hingga 15.32% (Vosk), sementara pengodean tipe entitas emas tujuh kategori melihat GPT-5.5 mencapai akurasi 0.805 (κ = .726) berbanding 0.634 untuk spaCy (κ = .488).
 WER agregat saja tidak dapat memastikan bahwa struktur entitas bertahan melalui transkripsi.
 
-
 ### Koneksi ke tutor dan pengukuran
 
 NLP pendidikan menopang analisis bahasa pembelajar ([[student-modeling]], [[knowledge-tracing]]) maupun pembangkitan konten instruksional adaptif ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] menunjukkan pembangkitan konten berbasis NLP untuk pembelajaran, sementara [[zerkouk-comprehensive-review-its-2025]] memosisikan NLP dalam lanskap [[intelligent-tutoring]] yang lebih luas. Seiring pertumbuhan analisis berbasis LLM, kerangka [[rct]] dan [[research-methods-aied]] menjadi penting untuk memvalidasi bahwa wawasan turunan NLP benar-benar meningkatkan pembelajaran.
@@ -76,39 +77,3 @@ Pemampatan model termasuk dalam perangkat yang sama: pipeline dua tahap menyulin
 - **"Kemiripan semantik dapat menyaring keselarasan kurikulum."** Menyaring **3,837 pasangan tujuan–abstrak kedokteran gigi**, pengambilan berbasis embedding ditambah pemeriksaan inferensi bahasa alami **menilai 22.9% butir** sebagai selaras — kemiripan semantik adalah **sinyal lemah** bagi keselarasan. Kecocokan topikal yang lancar dan kecocokan tujuan pembelajaran yang sejati adalah relasi yang berbeda.
 - **"Klasifikasi tingkat ujaran adalah unit yang wajar."** **Pemodelan seluruh pelajaran mengalahkan klasifikasi tingkat ujaran**: menilai seluruh transkrip alih-alih ujaran terisolasi **menaikkan deteksi rantai penalaran sebesar 14.2 poin persentase**. Konteks sepanjang pelajaran membawa informasi yang dihancurkan oleh giliran tunggal mana pun.
 - **"Penskalaan NLP pada komentar evaluasi menghasilkan dampak."** Tinjauan pelingkupan PRISMA-ScR dan peta bukti atas **421 studi** (2015-2026) yang menerapkan NLP pada evaluasi pengajaran oleh siswa yang bersifat terbuka menemukan penskalaan **tanpa mencapai penggunaan**. Volume keluaran metode bukan adopsi, dan celahnya ada pada langkah penerapan, bukan pada pemodelan.
-
-## Konsep terkait
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-
-## Artikel terkait
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Klaster embedding yang mengorganisasi berdasarkan pilihan kata, bukan fisika
-- [[lee-learner-question-types-ai-education-2026]] — Klasifikasi transformer atas pertanyaan pembelajar ke peran konstruktivis (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Klasifikasi relasi wacana otomatis dengan BERT untuk pengajaran bahasa Inggris
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Kumpulan data StudyChat berisi dialog siswa–LLM dalam mata kuliah AI
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Keselarasan pedagogis neuro-simbolik (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — Atribusi SHAP dan rasional LLM untuk kualitas pengajaran berbasis rubrik
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Menyuling LM yang menjelaskan dirinya untuk analitik pembelajaran
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — LLM multi-agen (GradeOpt) mengode pengetahuan konten dan konten pedagogis guru; encoder klasik dan prompting naif kalah pada PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: skema berbasis asersi untuk pengodean dialog pendidikan yang dapat diaudit
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Dari klasifikasi sentimen ke umpan balik yang dapat ditindaklanjuti dan bertanggung jawab: tinjauan pelingkupan dan peta bukti NLP dalam evaluasi pengajaran oleh siswa, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model pra-latih untuk penilaian pedagogis atas pertanyaan edukatif baru yang dibantu AI
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: pipeline penalaran selektif untuk penandaan konsep pengetahuan yang terperinci
-- [[nlp-reading-lists-dental-education-2026]] — Pemrosesan bahasa alami untuk menyelaraskan bacaan dengan tujuan pembelajaran dan menilai keseimbangan topik dalam pendidikan kedokteran gigi
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: kumpulan data lembar jawaban tulisan tangan untuk penguraian dokumen hibrida yang berderau

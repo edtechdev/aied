@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +51,6 @@ Bukti desain paling jelas tentang tutoring di rumah berasal dari [[paratutor-par
 ## Pendamping dan alat membaca di rumah
 
 Keluarga lebih sering menemui AI sebagai aplikasi pendamping daripada sebagai sistem tutoring. [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] membandingkan pendamping "teman sebaya siswa" yang tetap (Whisper dengan GPT-3.5) dengan guru wali kelas berpengalaman dalam sesi percakapan buku dengan 19 siswa sekolah dasar di Taoyuan, Taiwan — 12 di kelas 4 dan tujuh di kelas 5, masing-masing empat sesi. Siswa menghabiskan waktu yang jauh lebih banyak dengan AI, namun menyumbang proporsi kata dan kalimat yang jauh lebih rendah; untuk kelas 5 porsinya kurang dari sepertiga dari yang mereka hasilkan bersama guru, sebuah pola yang disebut makalah itu sebagai dominasi percakapan. Pendamping itu efektif memancing daya ingat faktual dan secara signifikan lebih lemah daripada guru dalam [[prompt-engineering|memancing]] refleksi emosional dan berorientasi masa depan — sebuah langit-langit afektif. Respons Liao adalah kerangka adaptif peran di mana satu pendamping menempati peran Teman Sebaya Siswa, Asisten Guru, dan Penasihat Orang Tua, yang terakhir memperluas diskusi ke rumah. Diagnosis di baliknya adalah kevakuman dukungan: sebagian besar desain pendamping tetap terfokus pada pasangan siswa–AI dan tidak memberi guru serta orang tua tempat yang terdefinisi.
-
 
 **Sebagian remaja lebih memilih mencurahkan isi hati kepada AI daripada kepada orang tua mereka.** Data Tiongkok yang dikutip menyebutkan 13.5% pengguna internet muda lebih memilih mencurahkan isi hati kepada AI daripada kepada orang tua mereka, dan kerangka [[ai-connectedness-adolescent-mental-health-2026|Fu dan Zhao (2026)]] memprediksi bahwa ikatan dengan AI menjadi substitusi kompensatoris ketika pengasuh gagal mengenali kebutuhan konfirmasi identitas seorang remaja.
 
@@ -94,33 +95,3 @@ Sebuah [[meta-analysis-systematic-review|tinjauan cakupan]] tahun 2026 memetakan
 **"Orang tua akan menyadari jika AI merugikan pembelajaran anaknya."** Merekalah yang paling tidak berposisi untuk menyadarinya. Dalam data [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei dan Wu (2026)]], skor pekerjaan rumah naik **18%** sementara skor [[summative-assessment|ujian tutup buku]] turun **20%** dalam enam bulan — dan angka yang naik itulah yang terlihat di rumah. Orang tua yang mengawasi pekerjaan rumah melihat perbaikan sementara hasil yang bertahan justru menurun.
 
 **"Penggunaan AI di rumah adalah pertanyaan izin orang tua."** Ini pertanyaan literasi dan advokasi. Literasi AI orang tua sendiri menentukan apa yang dapat mereka pertanyakan tentang alat yang dikeluarkan sekolah, dan ketidakadilan akses antarkeluarga membentuk anak mana yang mendapatkan mediasi orang dewasa sama sekali.
-
-## Konsep terkait
-
-- [[stakeholders]] — halaman payung untuk audiens dan aktor dalam AI dalam pendidikan
-- [[early-childhood-elementary-ai-education]] — domain perkembangan tempat penggunaan rumah dan keluarga paling banyak diteliti
-- [[ai-use-disclosure]] — praktik pengungkapan dan pertanyaan tentang apa yang sampai kepada keluarga
-- [[ai-literacy]] — kompetensi orang tua sendiri dan kerangka buatan sekolah yang mendefinisikannya
-- [[equity-in-ai-education]] — bagaimana manfaat dan beban terdistribusi antarrumah tangga
-- [[digital-divide]] — lapisan akses, keterampilan, dan hasil sebagaimana berlaku di rumah
-- [[conversational-ai]] — bentuk dominan AI dalam latar keluarga
-- [[self-determination-theory]] — dukungan otonomi sebagai kerangka panduan keluarga
-- [[cognitive-offloading]] — pengalihan dependen versus otonom, dan mengapa orang tua tidak dapat melihat perbedaannya
-- [[intelligent-tutoring]] — model di balik tutoring orang tua–anak yang dimediasi AI
-
-## Artikel terkait
-- [[ai-connectedness-adolescent-mental-health-2026]] — Keterhubungan AI remaja dan kapan ikatan dengan AI menggantikan pengakuan pengasuh yang tidak terpenuhi
-
-- [[paratutor-parent-child-tutoring]] — dukungan LLM yang memisahkan peran untuk 23 pasangan orang tua–anak dalam tutoring matematika rumahan di Tiongkok
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — pendamping berperan teman sebaya tetap versus guru dengan 19 siswa sekolah dasar di Taiwan
-- [[family-school-autonomy-support-genai-2026]] — tinjauan yang memperlakukan koordinasi keluarga–sekolah sebagai hipotesis yang belum diuji
-- [[raise-framework-ai-education-reporting-2026]] — kewajiban pelaporan yang mencakup persetujuan, konteks peserta, dan keadilan akses
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 guru tentang yurisdiksi, orang tua, dan hubungan anak dengan pendamping AI
-- [[ai-play-framework-early-childhood-2026]] — literasi AI tanpa perangkat yang diuji melalui acara Hour of Code berpusat keluarga
-- [[all-girls-genai-makerspace-gender-equity-2026]] — orang tua di antara narasumber; biaya alat dan hambatan bahasa dalam latar informal
-- [[creative-project-approach-ai-early-childhood-2025]] — agen fisik untuk anak kecil, dengan catatan biaya, akses, dan privasi
-- [[demir-akar-ai-media-literacy-children-2026]] — program sekolah tentang privasi data, komunikasi aman, dan etika media pada 36 siswa kelas empat
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — penerimaan naik dari 45% menjadi 83% ketika langkah yang menghadap keluarga dihapus
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — pengalihdayaan pekerjaan rumah, penurunan ujian, dan alasan memantau masukan
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — tingkat literasi AI yang tidak bergantung usia dan kesenjangan digital tiga tingkat
-- [[llm-family-education-activity-theory-2026]] — Mencirikan Pendidikan Keluarga Berbasis LLM melalui Lensa Teori Aktivitas: Tinjauan Cakupan atas Literatur HCI

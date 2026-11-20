@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -94,32 +96,3 @@ Lininya kaya pengukuran dan miskin hasil. Ada instrumen tervalidasi (AIR), model
 - **"Teks yang dihasilkan AI lebih mudah karena dihasilkan untuk suatu tingkat."** Bukti berjalan sebaliknya untuk keluaran model: model terdepan terlalu sering menggunakan konstruksi yang terkait dengan biaya pemahaman.
 - **"Membaca dengan AI adalah satu perilaku."** Skala AIR menemukan empat motif yang berbeda, dan motif-motif itu memprediksi jenis penggunaan yang berbeda.
 - **"Jika AI dapat menulis ulang teksnya, tingkat membaca tidak lagi penting."** Diferensiasi lebih banyak mengubah dukungan di sekitar sebuah bagian bacaan daripada kompleksitas struktural bagian bacaan itu, yang merupakan intervensi berbeda dari menurunkan tingkatnya.
-
-## Konsep terkait
-
-- [[ai-education]] — payung tempat domain ini berada
-- [[language-learning]] — membaca L2 tumpang tindih, tetapi akuisisi adalah objeknya di sana
-- [[writing-education]] — sisi menyusun dari literasi
-- [[english-education]] — membaca dan keterbacaan EAP/EFL/ESL
-- [[educational-nlp]] — lapisan pengukuran teks yang menjadi dasar keterbacaan
-- [[assessment]] — penilaian membaca dan validitas skor
-- [[motivation]] — mengapa pembaca menggunakan AI, dan apa dampaknya pada pemrosesan
-- [[scaffolding]] — lapisan dukungan dalam materi membaca terdiferensiasi
-- [[neurodiversity]] — disleksia dan kesulitan membaca
-- [[accessibility]] — teks yang terbaca manusia versus terbaca mesin
-- [[generative-ai]] — teknologi di balik teks yang dihasilkan dan disesuaikan
-
-## Artikel terkait
-
-- [[air-scale-motivations-ai-reading-2026]] — skala motif tervalidasi untuk membaca dengan GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — penilaian membaca yang dimediasi AI di kelas EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — materi membaca EAP terdiferensiasi
-- [[llm-children-reading-story-generation]] — cerita membaca anak yang terkontrol tingkat
-- [[text-simplification-its]] — mengevaluasi penyederhanaan teks untuk tutoring
-- [[clara-developmental-appropriateness-children-stories-2026]] — kesulitan perkembangan di luar rumus keterbacaan
-- [[bird-multimodal-educational-literature-2026]] — mengklasifikasikan sastra menurut Key Stage
-- [[clark-ai-generated-language-readability-2026]] — mengapa bahasa yang dihasilkan AI lebih sulit dibaca
-- [[sidorkin-ai-generated-course-readings-2026]] — bacaan mata kuliah yang dihasilkan AI dan disesuaikan
-- [[airri-machine-resistant-reading-interface-2026]] — antarmuka membaca yang tahan mesin dan biaya keterbacaannya
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — umpan balik ChatGPT dalam membaca di sekolah menengah
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI untuk pembelajar dengan disleksia

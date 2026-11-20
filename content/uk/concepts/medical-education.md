@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -73,9 +75,7 @@ ai_assist:
 
 Огляд 153 звітів із GenAI в медичній освіті відображає застосування — [[simulation]] та клінічні навички найбільші (47 звітів), поперед генерації оцінювання та зворотного зв’язку (22) і кейсового навчання та клінічного міркування (21), — проте лише 13 звітів містили сигнал подальшого спостереження або утримання в пам’яті, і жодного результату на рівні пацієнта не було знайдено ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
-
 - **ШІ-підсилені PBL і CBL: шість рандомізованих досліджень, два з них CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei та співавт. (2025)]] об’єднали чотири дослідження для знань (46%, 95% ДІ 0,18–0,73), три для задоволеності (0,7, 95% ДІ 0,47–0,92) і не змогли об’єднати клінічне міркування, бо інструменти різнилися. Лише два дослідження перевіряли кейсове навчання, і огляд не аналізував формати окремо, тож результат підтримує ШІ-підсилені проблемні дизайни, не визначаючи, які ознаки кейсу мають значення.
-
 
 ### Чому це важливо
 
@@ -86,7 +86,6 @@ HPE — високоставочна, компетентнісно-орієнт�
 - **Чого навчальні програми вчать про походження даних.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] закодували публічно оголошені навчальні програми 36 американських програм зі ШІ в охороні здоров’я і виявили, що етика висвітлена в 29 (80,6 %), але походження даних на рівні структури чи обмежень набору даних — лише в 8 (22,2 %), причому жодна програма не розглядала екологічну ціну обчислень і жоден із семи магістерських ступенів не перетнув поріг походження даних. Із 92 названих викладачів 76,1 % походили з обчислювальних дисциплін і 3,3 % — із соціальних чи гуманітарних наук. Ця прогалина має клінічні наслідки: збої розгортання, з яких починається стаття, були занесені вище за течією — у тому, як генерувалися чи розмічалися навчальні дані, — а це навчувана компетентність, якої програма, схоже, не несе.
 
 - **Використання випередило інструкцію.** Серед 310 студентів наук про здоров’я 90% користувалися ChatGPT, тоді як 82,6% не отримали формальної інструкції зі ШІ; частота використання зростала разом із вищим GPA, і 61% повідомили про [[ethics|етичні]] занепокоєння ([[alshahrani-health-sciences-ai-use-2026|Alshahrani та співавт., 2026]]).
-
 
 ## Наслідки для викладачів професій охорони здоров’я
 
@@ -102,58 +101,3 @@ HPE — високоставочна, компетентнісно-орієнт�
 - **«Питання в тому, що LLM можуть робити в клінічному навчанні.»** Критичний інтегративний огляд **489 досліджень із 47 країн** зміщує питання **з того, що LLM можуть робити, на те, з чим їм можна довіряти**. Питання здатностей здебільшого вирішене; питання управління — ні.
 - **«Стандартизовані пацієнти надто дорогі для масштабування.»** **Рандомізоване контрольоване дослідження з 95 проаналізованими студентами медицини** використало **багатоагентних ШІ-стандартизованих пацієнтів** у навчанні клінічному інтерв’ю. Обмеження, яке долається, — доступність навчених людських акторів, і це проблема кадрів, а не достовірності.
 - **«Ухвалення опублікованої рамки компетентностей зі ШІ вирішує питання навчальної програми.»** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] відсіяли 1 750 записів до 23 досліджень — 15 оглядів, 4 [[qualitative-research|якісних]] і 4 [[quantitative-research|кількісних]], із 15 країн і з 2022 до 2026 року — і зіставили їх із моделлю знань, ставлень і навичок. Прикладні домени зосередилися в медичній освіті (n = 11, 47,8 %), загальній освіті (n = 9, 39,1 %) та іншій освіті (n = 3, 13,0 %), а названі медсестринські рамки, які вони порівнювали, — N.U.R.S.E.S., AI-ABCs і CARE — або не мають чітких шляхів педагогічного впровадження, або охоплюють ізольовані навички без методів оцінювання. Побудована ними карта з 12 підвимірів є пропозицією, що чекає на валідацію, тож це радше те, проти чого варто навчати, ніж усталена програма.
-
-## Пов’язані поняття
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — напрям медсестринства в освіті професій охорони здоров’я
-- [[virtual-and-augmented-reality]] — імерсивне та AR клінічне навчання
-
-## Пов’язані статті
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — ШІ-підсилені PBL і CBL у медичній і стоматологічній освіті: шість РКД, лише два CBL (Wei та співавт. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — ШІ-підсилена цифрова патологія покращує діагностичну продуктивність і зменшує розрив, пов’язаний з досвідом, у резидентів-патологів під час читання біопсій простати
-
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Навчальні програми зі ШІ в охороні здоров’я викладають етику (80,6 %), але рідко походження даних (22,2 %)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Стратифіковане багатооцінювальне оцінювання віртуальних стандартизованих пацієнтів на основі LLM із розгорнутою платформою генерації даних
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-вимірна рубрична оцінка AI-викладацьких агентів в медичній освіті
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Повторні запуски не відтворюють ту саму оцінку
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Оглядове дослідження, що зіставляє рамки компетентностей зі ШІ в освіті з картою KAS із 12 частин
-- [[agency-gap-ai-writing]] — Реактивні проти проактивних агентів письма на основі ШІ в навчанні професій охорони здоров’я: розрив агентності
-- [[federated-learning-at-risk-student-prediction-2026]] — Федеративне прогнозування ризику в програмах HPE: незначна ціна приватності та чому імпортований поріг дає збої
-- [[rony-nursing-educators-ai-tpack-2025]] — Медсестринські викладачі в Бангладеш про готовність до ШІ, бар’єри й управління даними, прочитані крізь TPACK
-
-- [[bursic-ai-residency-education-curriculum-2026]] — Бар’єри інтеграції ШІ в програми резидентури: якісні інтерв’ю з дванадцятьма лікарями-лідерами
-- [[alshahrani-health-sciences-ai-use-2026]] — Поєднання технології й педагогіки: крос-секційний аналіз використання ШІ, самооцінених академічних ефектів та етичних занепокоєнь серед студентів різних програм наук про здоров’я
-

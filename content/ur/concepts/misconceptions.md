@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -126,37 +128,3 @@ Bernstein اور Sibia (2026) دکھاتے ہیں کہ [[generative-ai|GenAI]] �
 - **'اساتذہ کی غلط فہمیوں کو ثبوت پیش کر کے درست کیا جا سکتا ہے۔'** **123 اطالوی معلمین** کے پائلٹ میں اختلاف سب سے زیادہ **علمی سیکھنے کے اندازوں (78% اساتذہ نے بصری/سمعی ملاپ کا دفاع کیا)**، شمولیت اور گروہی کام (68%) اور EdTech کی زیادہ بوجھ (54%) پر جمع ہوا۔ سب سے مضبوط اختلافات ہی ثبوت کے سب سے زیادہ مزاحم تھے، اسی لیے [[refutation-text|ردِ بیان]] دعوے سے بہتر ہے۔
 - **'ثبوت پر اساتذہ کے اعتراضات سب مزاحمت ہیں۔'** جب وہی آئٹمز ایسے گفتگو والے AI سے پیش کیے گئے جو **ثبوت دوبارہ لانے سے پہلے استاد کے سیاق کی تصدیق کرتا تھا**، تو **41% اعتراضات حقیقی سیاقی قیود** سے متعلق تھے — کلاس کا حجم، خصوصی ضروریات، نصاب کے تقاضے۔ ظاہری غلط فہمی کا ایک بڑا حصہ درست اعتراض تھا۔
 - **'مکالمے سے غلط فہمیاں قابلِ بھروسہ طور پر پکڑی جا سکتی ہیں۔'** **241 پرامپٹ شدہ حصوں میں سے 221 (91.7%) کو ماہرین کی اکثریتی رائے نے استراتیجی غلط فہمیاں تصدیق کیا (Fleiss' κ = 0.9487)**، اور گروہوں کے درمیان **کوئی معنی خیز فرق نہیں** تھا۔ ماہر فیصلے کے تحت بلند بھروسگی ممکن ہے، اور دعوہ اسی شرط پر منحصر ہے۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — تصوراتی تبدیلی کے وہ سلسلے جو کسی مخصوص تھامے گئے عقیدے کا سامنا کرتے ہیں
-- [[learners]] — سیکھنے والے: سیکھنے والے سے جڑے تصورات کی چھتری
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## منسلک مضامین
-
-- [[rudolph-ai-myths-critical-higher-ed]] — پروپیگنڈے پر یقین نہ کریں: آٹھ AI افسانے اور اعلیٰ تعلیم میں تنقیدی رویے کی ضرورت
-- [[student-rationalization-ai-writing]] — AI تحریر کا طالب علم جواز
-- [[genai-skill-bypass-literacy]] — GenAI کے ذریعے مہارت کی نظرانداز اور خواندگی
-- [[trust-reliance-ai-education-2026]] — AI تعلیم میں بھروسہ اور انحصار
-- [[contextual-sycophancy-ai-literacy]] — سیاقی خوشامد اور AI خواندگی
-- [[sycophantic-ai-social-interaction-2026]] — سماجی تعامل میں خوشامدی AI
-- [[llm-fallacy-misattribution]] — LLM مغالطے کی غلط نسبت (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — ناقص مگر یاد رہنے والا: کمپیوٹنگ تعلیم میں دلچسپی کے مطابق ذاتی نوعیت کی GenAI تشبیہات کا طالب علم تنقیدی پذیرائی
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: رواں، مستند وضاحتیں جو حقیقی کے بجائے تصوراتی طور پر غلط ہیں (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — جمع کرائی گئی فائل میں چھپی ہدایات AI سے نمر بند شدہ کام کے نمبر بغیر کسی نظر آنے والے انتباہ کے بڑھا سکتی ہیں (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — بچوں کی AI حفاظت کی غلط فہمیاں: روبوٹ سے دوستی کو رازداری کی ضمانت سمجھنا (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — تدریسی غلط فہمیوں کے لیے گفتگو والا AI تشخیصی، ثبوت سے جڑے مکالمے کے ساتھ (Miranda & Calvani 2026)

@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -40,7 +41,3 @@ Cadre didactice de la cursuri de programare care vor dovezi că un student își
 ## Note și precauții
 
 Totul rulează în browser: cursul stă în stocarea locală, cu un export JSON, întrebările călătoresc în partea unui link pe care browserele nu o trimit către servere, iar răspunsurile se întorc doar ca coduri pe care studenții aleg să le trimită, așa că nicio dată a studenților nu ajunge la o terță parte. Generatorul de întrebări este bazat pe reguli, nu pe model. După propria relatare a instrumentului, cititorul său de cod este euristic, așa că o formatare neobișnuită sau macrocomenzile pot ascunde o funcție, iar un punctaj poate recompensa cunoașterea vocabularului în locul înțelegerii codului — de aceea punctajele sunt propuneri pe care instructorul le aprobă și de aceea recomandă mize mici. Nu este publicată nicio licență și niciun depozit sursă, iar pentru că linkurile poartă întrebările, ele ajung la câțiva kilobiți, suficient de lungi ca să fie lipite într-o casetă de mesaj a unui sistem de management al învățării.
-
-## Concepte conexe
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

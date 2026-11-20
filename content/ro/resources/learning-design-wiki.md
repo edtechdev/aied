@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -45,6 +46,3 @@ Designeri instrucționali și cadre didactice care vor o decizie de design cu do
 ## Note și precauții
 
 Citește panoul de încredere de pe fiecare pagină. Modelele lingvistice întrețin wiki-ul sub un singur întreținător uman, nicio persoană nu a verificat vreo pagină, iar site-ul etichetează o pagină drept pistă bine documentată, nu drept constatare. Afirmațiile poartă un nivel de design, un cod al mărimii efectului și un cod de rigoare, iar „nicio mărime a efectului tipărită” înseamnă că sursa nu a raportat niciuna, nu că nu există. Conținutul este CC BY-SA 4.0, deci reutilizarea trebuie să poarte aceeași licență, iar codul este MIT.
-
-## Concepte conexe
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

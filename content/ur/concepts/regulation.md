@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -67,43 +69,3 @@ ai_assist:
 - **"ادارہ جاتی AI پالیسی ہی وہ جگہ ہے جہاں قواعد رہتے ہیں۔"** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson اور Rainie (2026)]] کا **1,057 امریکی اساتذہ** کا سروے ناپتا ہے کہ مؤثر قواعد ادارہ جاتی پرت سے کتنا نیچے بیٹھتے ہیں: **87% جواب دہندگان نے اپنی رہنمائی خود لکھی**۔ مؤثر پالیسی زیادہ تر اساتذہ کی تحریر کردہ ہے، جس کا مطلب ہے کہ دستاویز شدہ ادارہ جاتی پرت اُس سے کم بیان کرتی ہے جتنی دکھتی ہے۔
 - **"پالیسی لکھ دینا خطرے کی سطح کو ڈھانپ لیتا ہے۔"** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] دکھاتے ہیں کہ جانچ کے اوزار ضابطہ بند مجموعے میں کیوں آتے ہیں: ایک ریڈ ٹیم ٹیسٹ میں جمع کرائی گئی فائل میں چھپائے گئے **پانچ میں سے دو بالواسطہ پرامپٹ انجیکشنز** کامیاب ہو گئے۔ ایسا قاعدہ جو اوزاروں کا نام لے مگر انجیکشن کی سطحوں کا نہ لے، اُس استحصال کو حل نہیں کرتا۔
 - **"ایجنٹک نظام موجودہ قواعد کو وسعت دے کر ڈھانپ لیے جاتے ہیں۔"** **12 یونیورسٹیوں** کے دستاویزی تجزیے میں [[wong-sun-agentic-ai-assessment-governance-2026|Wong اور Sun (2026)]] نے پایا کہ **کسی تقابلی پالیسی نے لرننگ مینجمنٹ سسٹم میں لاگ اِن ہونے والے ایجنٹ کو موضوع نہیں بنایا**۔ گورننس کا خلا ساختی ہے: موجودہ زمروں میں اسناد رکھنے والے خودمختار فریق کے لیے کوئی خانہ نہیں۔
-
-## منسلک تصورات
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — قانونی خطرہ جب ضابطگی اور گورننس غیر واضح یا حد سے زیادہ وسیع ہوں
-
-## منسلک مضامین
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — برطانیہ کی اعلیٰ تعلیمی پالیسی میں AI
-- [[oecd-digital-education-outlook-2026]] — OECD ڈیجیٹل تعلیم آؤٹ لک 2026
-- [[genai-declaration-frameworks-higher-education]] — AI اعلان کے فریم ورک
-- [[genai-assessment-governance]] — GenAI کے تحت جانچ کی گورننس
-- [[league-ethical-governance-student-data-2026]] — طلبہ کے ڈیٹا کی اخلاقی گورننس
-- [[student-regulatory-awareness-genai]] — GenAI کے بارے میں طلبہ کی ضابطگی سے آگاہی
-- [[dot-framework-survey-2026]] — ٹیکنالوجی اختیار کرنے کے فریم ورک
-- [[raza-farooq-aied-review-2020-2025]] — AIED تحقیق کا جامع جائزہ
-- [[qian-governing-genai-higher-ed-policy-2026]] — پابند پالیسی کے بجائے رہنمائی: 50 جدت پسند امریکی یونیورسٹیوں میں اندرونی AI قواعد (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — لاء اسکول کی GenAI پالیسی پانچ جہتوں پر جانچی گئی: بطور طے شدہ ممانعت، مدرس کی صوابدید، وقفے وقفے سے جائزہ (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — حد سے زیادہ وسیع AI پابندیاں اور وہ معقول موافقت کے فرائض جو وہ متحرک کر سکتی ہیں (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — جانچ کے قواعد میں زبان کا پس منظر: مدد اور متبادل کی حد بطور مساوات کا سوال (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI جانچنے والوں پر پرامپٹ انجیکشن کے حملے اور معیاری مزاحمتی جانچ کی دلیل (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — بیرونی ضابطگی دباؤ بطور گورننس اصلاح کی شرط (Coates، Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% اساتذہ اپنے قواعد خود لکھتے ہیں، ادارہ جاتی پالیسی کی پرت پتلی ہے (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "ہم بعد میں ٹھیک کر لیں گے": تعلیم، AI، اور ایج ٹیک میں طلبہ کی رازداری کی تاخیر
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — کسی تقابلی پالیسی نے LMS میں لاگ اِن ہونے یا طلبہ کی اسناد رکھنے والے AI ایجنٹ کو موضوع نہیں بنایا (Wong & Sun 2026)
-- [[chan-ai-policy-gap-2026]] — عمودی عدم-ترجمہ: ریاستی قواعد موجود ہیں جبکہ اُن کے نیچے کے فنڈر کوئی پابند دستاویز جاری نہیں کرتے (Chan 2026)

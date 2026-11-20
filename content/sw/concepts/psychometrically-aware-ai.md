@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -56,30 +58,3 @@ AI yenye Ufahamu wa Kisaikometriki ipo katika makutano ya [[educational-measurem
 - **"Mfano unaopata alama nzuri unapima kitu kile kile."** Kwenye **chombo kile kile cha tathmini**, miundo ya majibu ya binadamu na ya LLM **inatofautiana**: mfano unaweza kupata alama nzuri huku ukipima kitu tofauti na kile chombo kinakusudia. Kulinganisha alama ni uchunguzi; usawa wa dhana ni dai tofauti linalohitaji ushahidi wa kiwango cha muundo.
 - **"Kalibrisho inaweza kusomwa kutoka takwimu moja ya usahihi."** **Takwimu moja ya usahihi inaweza kuficha mfano unaoonekana umekalibrishwa peke yake**: kuwaomba GPT-4o na Gemini 2.0 Flash kubaini vipimo vya mtindo wa kujifunza kutoka mazungumzo ya **wanafunzi 153 wa shahada ya kwanza** kulizalisha **usahihi wa wastani uliofanya kazi tofauti chini ya vipimo vilivyosawazishwa**. Usahihi wa jumla ulificha tofauti ambayo vipimo vilivyosawazishwa vilifichua.
 - **"Mchakato wa upangaji wa alama wa kiotomatiki hauwezi kuiga taratibu za kisaikometriki."** Waandishi walirudia mchakato ulioimarika kwa muundo wa kiotomatiki (**uwezekano wa asilimia 67 wa kujibu angalau vitu 7 vya rubriki kwa usahihi kwa kikomo cha chini na angalau 10 kwa cha juu**), wakiruhusu alama za vitu za AI na za binadamu kulinganishwa kwa msingi mmoja. Mchakato uliweza kurudiwa; swali la dhana linabaki.
-
-## Dhana Zilizounganishwa
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Makala Zilizounganishwa
-- [[genai-reliance-scale-problem-solving-2026]] — Kipimo kilichothibitishwa cha utegemezi wa wanafunzi kwa AI ya kizalishaji wakati wa kutatua matatizo (Hou et al. 2025)
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Usahihi wa wastani ulikuwa utabiri wa darasa lililo wengi mara ukumbusho wa kila darasa ulipokaguliwa (Zamanifard, Goudarzi na Robb 2026)
-
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Kulinganisha tathmini ya LLM na kalibrisho ya saikometriki
-- [[llm-item-difficulty-prediction]] — Utabiri wa ugumo wa kipengele wa LLM
-- [[cong-confidence-asag-2026]] — Upangaji wa alama wa kiotomatiki wa majibu mafupi wenye ufahamu wa uhakika
-- [[multimodal-item-parameter-estimation-2026]] — Ukadiriaji wa kigezo cha kipengele cha multimodal
-- [[competency-based-education-genai-production-2026]] — Elimu inayotegemea uwezo na GenAI
-- [[ai-grading-handwritten-physics-2026]] — Upangaji wa alama wa AI wa tathmini za fizikia za mkono (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Kukadiria ugumo wa kipengele kwa kutumia LLM na ML ya mti
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Kulinganisha vyombo vya ujuzi wa AI: jozi za jangle na jingle kati ya miundo 55
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM ya Wanafunzi na Vikomo vya Ugumo wa Swali linalozalishwa na AI katika Kozi za Sayansi ya Data

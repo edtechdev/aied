@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
@@ -51,9 +52,3 @@ Walimu katika elimu ya juu wanaotaka [[learning-design|ubunifu wa kujifunza]] ub
 - **Inference ya wahusika wa nje.** Majibu huzalishwa kupitia API ya Claude ya Anthropic huku API ya OpenAI ikiwa akiba, chini ya masharti ya kibiashara ambayo sera inasema hayaondoa mafunzo kwa ingizo na matokeo ya API kufikia Septemba 2026. Taasisi inapaswa kuthibitisha hilo kupitia makubaliano yake mwenyewe badala ya ukurasa wa wavuti.
 - **Si mweka alama.** Sera na masharti vyote vinaeleza hukumu za msaidizi kama "lengo limetimizwa" kama misaada kwa mwalimu; alama na maamuzi ya kitaaluma hubaki kwa mwalimu na taasisi, na maamuzi kuhusu [[ai-use-disclosure|kufichua matumizi ya AI]] kwa wanafunzi huachwa kwa mwalimu.
 - **Hosting ya Marekani.** Data iko katika Google Cloud Firestore huku Vercel ikitoa hosting, na sera inashughulikia wajibu wa FERPA pale huduma inaposhughulikia rekodi za elimu; watumiaji nje ya Marekani huambiwa kuwa data yao inachakatwa huko.
-
-## Dhana Zilizounganishwa
-
-- [[learning-design]] — muundo wa kazi uliopangwa kama hatua ambapo sera ya AI inakuwa halisi.
-- [[guardrails]] — vizuizi vya ushiriki na msaada wa AI wenye kikomo kama vikwazo vinavyowekwa wakati wa kubuni.
-- [[ai-use-disclosure]] — mwalimu, si jukwaa, huamua jinsi matumizi ya AI yanavyofichuliwa kwa wanafunzi.

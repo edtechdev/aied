@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -43,13 +45,11 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - **لمكاسب الاندماج حجم، والدافعية لم تتبعه.** تقدّم MotiBo بنسبة 27.06% و30.00% على الورق وPowerPoint في الاندماج السلوكي والمعرفي (كلاهما p < .05)، بينما ارتفعت الدافعية الجوهرية 20.21% دون بلوغ الدلالة (p = .07). تحرّك الاندماج، ولم تتجاوز الدافعية عتبتها، ولم تقس التجربة شبه التجريبية ذات الأيام الخمسة أي مخرج تعلّم ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
 
-
 - **السرد القصصي بوساطة الروبوتات:** يستخدم [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] روبوتًا بشري المظهر للسرد القصصي الرقمي التفاعلي، فاجدًا مكاسب دالة في الاندماج السلوكي والمعرفي مقابل طرائق الورق وPowerPoint؛ ويُتيح [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] للمعلمين إنشاء أنشطة سرد سردي قائمة على السيناريوهات مدفوعةً بنماذج اللغة الكبيرة من محتوى [[curriculum-design|المنهاج]].
 - **تفاعل إنسان-روبوت سردي مُبدع:** يستكشف [[icub-humanoid-storytelling-llm-hri-2025|دراسة السرد القصصي في iCub]] الإنشاء المشترك بين الإنسان والروبوت للقصص، دامجًا نماذج توليدية للتفاعل الملائم للسياق.
 - **السرد والإبداع:** يدعم السرد القصصي [[creativity]] وتطوير [[language-learning|اللغة]]، ويُستخدم لتعزيز الدافعية والاندماج في إعدادات [[k-12]].
 - **السرد الرقمي كوزن مقابل للذكاء الاصطناعي:** مع صعود [[generative-ai|الذكاء الاصطناعي التوليدي]]، يُعاد تأطير السرد الرقمي كوسيط للقدرات العاطفية والثقافية والسردية التي يفتقر إليها الذكاء الاصطناعي. وفي نموذج [[project-based-learning|تعلّم قائم على المشاريع]] لتعليم الفنون و[[design-education|التصميم]]، ترجم الطلاب التراث الثقافي المحلي إلى سرديات [[multimodal]] متعددة الوسائط عبر 92 عملًا من أعمال السرد الرقمي، مُبيّنين كيف يُدام الإبداع البشري في عصر الذكاء الاصطناعي.
 - **السرد المولّد سهل الإنتاج وصعب الإبقاء على تماسكه.** مع 22 طالبًا في STEM، حصل الخيال التفاعلي المولّد بالذكاء الاصطناعي على تقييم جيد في وضوح السرد (M = 4.11) والطول (M = 4.14)، لكن الاندماج جلس عند نقطة المنتصف المحايدة (M = 3.08)، وكان تماسك محتوى القصة الأضعف (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). والإنشاء المشترك يرث ذلك الضعف في الطبقة التي يُفترض أن تؤدي فيها القصة عملها.
-
 
 يرتبط السرد القصصي بـ [[student-engagement]] و[[motivation]] و[[creativity]] و[[educational-robotics]] و[[language-learning]] و[[social-emotional-learning]] و[[educational-robotics]].
 
@@ -62,23 +62,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«التوليد بالذكاء الاصطناعي يجعل السرد متاحًا للطلاب الذين لا يستطيعون الكتابة.»** إنه يجعل *إنتاج أثر مكتوب* متاحًا، وهي فائدة مختلفة. فالحكي الشفهي والرسم والإملاء هي الطرق الراسخة إلى الهدف ذاته، وهي تحفظ التأليف الذي يُزيله التوليد.
 
 **«القيمة التعليمية للقصة في نتيجتها المصقولة.»** إنها في البناء — الاختيار والترتيب الذي يؤديه الحاكي. فقصة مصقولة لم يبنِ الطالب بنيتها قد أظهرت كفاءة النموذج لا كفاءة المتعلّم.
-
-## المفاهيم المرتبطة
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## المقالات المرتبطة
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-
-- [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,56 +110,3 @@ ai_assist:
 - **"मूल्यांकनकर्ता की त्रुटि यादृच्छिक शोर है।"** **मूल्यांकनकर्ता के निर्णय की अपनी मापनीय दिशा होती है**: **50 मानव और 50 AI प्रवेश निबंधों** को अलग करने वाले पाँच प्रवेश अधिकारियों ने **AUC 0.70** प्राप्त किया, अर्थात वे स्रोतों में केवल कमज़ोर ढंग से भेद कर सके, और चूँकि कोई भी प्रस्तुतियों की जाँच नहीं कर रहा था, वह **सहायता-रहित निर्णय ही सम्पूर्ण प्रवर्तन तंत्र था**, जहाँ प्रत्येक चिह्नित निबंध पर प्रवेश की संभावना **1.5 प्रतिशत अंक कम** होती थी। एक कमज़ोर संकेत वास्तविक दंड बन गया।
 - **"सहपाठी और AI समीक्षा विकल्प हैं।"** PAIRR मॉडल [[pairr-ai-peer-review-2025|(Sperber एट अल., 2025)]] कैलिब्रेशन को संरचित करने के लिए **सहपाठी समीक्षा को AI समीक्षा के साथ जोड़ता है**। दोनों को जोड़ना ही डिज़ाइन है, जिसका अर्थ है कि अकेले कोई भी इसे प्रदान नहीं करता।
 - **"निर्णय की गुणवत्ता निर्णायक का गुण है।"** प्रवेश-संबंधी निष्कर्ष समस्या को व्यवस्था में रखता है, न कि व्यक्तियों की क्षमता में: एक अवैधित निर्णय जो बिना किसी जाँच-चरण के परिणाम पर लागू होता है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — छात्रों द्वारा इन अनुक्रमों के भीतर AI आउटपुट पर किया गया आकलन-चरण
-- [[ai-education]] — शिक्षा में AI (छत्री)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## संबंधित लेख
-- [[elkington-human-centred-assessment-value-2026]] — मानव-केंद्रित मूल्यांकन, संयोजन और जनरेटिव बाध्यताएँ (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — लेखन प्रोफ़ेसर अंकन बाहर क्यों नहीं सौंपते: यही वह तरीक़ा है जिससे वे अपने छात्रों को जानते हैं
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT बनाम सहपाठी फीडबैक, मूल्यांकनात्मक निर्णय के भिन्न आयामों के प्रशिक्षण-भूमि के रूप में
-
-- [[ai-internal-feedback-evaluative-judgments]] — AI-समर्थित आंतरिक फीडबैक मूल्यांकनात्मक निर्णयों को कैसे विकसित करता है, और तर्क कहाँ पतला रहता है
-- [[genai-feedback-design-multisite-experiment]] — संकर स्व/सहपाठी/AI फीडबैक सीधे AI फीडबैक से बेहतर सशक्तता और निर्णय बचाता है
-- [[pairr-ai-peer-review-2025]] — संरचित चिंतन के साथ सहपाठी और AI समीक्षा, पैमाने पर कैलिब्रेशन के रूप में
-- [[zhan-boud-dawson-genai-feedback-engagement]] — फीडबैक साक्षरता कैसे नियंत्रित करती है कि AI फीडबैक सिखाता है या प्रतिस्थापित करता है
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — AI फीडबैक में टिकाऊपन-अंतराल
-- [[teichmann-detecting-undetectable-misconduct-2026]] — मूल्यांकनात्मक निर्णय, पहचान-प्रधान प्रवर्तन के स्थान पर आने वाले डिज़ाइन-धागों में से एक के रूप में
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — दृश्यमान तर्क और निर्णय को वह चीज़ बनाना जिसे रूब्रिक पुरस्कृत करता है
-- [[learner-centered-feedback-ai]] — AI फीडबैक उपकरणों के साथ शिक्षक का मूल्यांकनात्मक निर्णय
-- [[beyond-detection-authentic-assessment-ai-2025]] — पहचान से आगे: प्रामाणिकता को पुलिस-की जाने के बजाय फिर से डिज़ाइन किया गया
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — जनरेटिव AI के युग के लिए मूल्यांकन-वैधता का पुनर्कल्पना
-- [[du-yuan-epistemic-dependence-2026]] — विवाद-योग्यता, पुनर्प्राप्ति-योग्यता, और विश्वास को निर्भरता से अलग करने वाले मापदंड
-- [[rethinking-ai-writing-feedback-literacy]] — AI-सहायित लेखन के लिए फीडबैक साक्षरता
-- [[student-perspectives-ai-writing-grading-2026]] — मेरा काम कौन ग्रेड करे? उच्च शिक्षा में पारदर्शी AI-सहायित लेखन-मूल्यांकन पर छात्रों के दृष्टिकोण
-- [[sharma-judgment-visible-genai-assessment-2026]] — ईमानदारी का मूल्यांकनात्मक केंद्र के रूप में निर्णय: टिप्पणी युक्त निर्णय-पगडंडियाँ, मौखिक बचाव, संस्करण इतिहास (शर्मा 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — संहिताबद्ध मानकों के बिना साक्ष्य तौलते पैनल: संस्थान की अपनी निर्णय-समस्या (मुनोज़ आदि 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — डिटेक्टर की असटीकता और संकर-लेखन विफलता: फ़ैसले के प्रतिस्थापन के रूप में मानव निर्णय की सिफ़ारिश (हादरा आदि 2026)
-- [[wright-transcription-not-generation-2026]] — कार्य, मंच नहीं: किसी उपकरण ने क्या किया उसका न्याय करना, न कि वह क्या है (राइट 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms और विवेक-दर: AI-सहायित काम के पीछे के तर्क-पगडंडी को ग्रेड करना (ऑस्टिन 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-लिखे प्रवेश निबंध व्यापक हैं लेकिन उन पर दंडित होते हैं
-- [[authentic-assessments-generative-ai-pilot-2026]] — जनरेटिव AI के साथ प्रामाणिक मूल्यांकनों का डिज़ाइन: उच्च शिक्षा में मूल्यांकन प्रामाणिकता का एक प्रायोगिक अध्ययन
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Agency Check (विश्वसनीय, प्रासंगिक, स्वीकार्य, सूक्ष्म) जो प्रत्येक AI अनुक्रम को संरचित करता है
-
-- [[judgment-centred-software-engineering-education-2026]] — AI-संवर्धित सॉफ़्टवेयर इंजीनियरिंग शिक्षा के लिए एक पोस्ट-दावा समीक्षा और ढाँचा
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — निर्णय ने गुणवत्ता तभी अलग की जब वह संशोधन से जुड़ा था (Z = 2.80 और 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — शिक्षकों के संशोधन पुनःप्रयोग योग्य वैधीकरण मानदंड बन गए (Tang एट अल. 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — कार्य से हटाई गई पैटर्निंग, और उधार लिया जाने वाला निर्णय
-

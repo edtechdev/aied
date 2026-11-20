@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -37,6 +38,3 @@ ai_assist:
 
 ## Pro koho je určen
 Pro vedoucí výzkumu, výbory a politické útvary, které potřebují obraz používání a [[governance|správy]] AI v celém výzkumném prostředí založený na důkazech a způsob, jak v čase sledovat [[change-management|změnu]]. Doprovází knihu *Responsible AI in Academic Research: A Competency Framework for Research Training*, která vymezuje pět dimenzí připravenosti, a napsal ji Michael J. Zyphur, ředitel Instats.
-
-## Související pojmy
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -37,7 +38,3 @@ Pentru K-12: generatoare de planuri de lecție, fișe de lucru, [[special-educat
 
 ## Note
 Proiectul pretinde un server IA instalat local pentru viteză, că datele sunt procesate local și niciodată stocate, plus conformarea la îndrumările Departamentului de Educație; [pagina echipei](https://teacherserver.com/index-team.php) îl numește pe Zafer Unal, profesor la University of South Florida, ca fondator și dezvoltator, alături de un consiliu consultativ de patru membri ai corpului didactic din alte universități. Acele afirmații merită totuși verificate înainte de a fi folosite cu lucrări ale studenților. Accesul cere înregistrare, iar există o platformă însoțitoare, plătită ulterior, pentru construirea propriilor instrumente.
-
-## Concepte conexe
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

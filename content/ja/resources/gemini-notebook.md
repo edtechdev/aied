@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -42,6 +43,3 @@ ai_assist:
 ## 注記
 
 Google は、個人アカウントのコンテンツはユーザーがフィードバックを送らない限りモデルの学習に使われないこと、Workspace へのアップロード・クエリ・応答はフィードバックを送った場合でも学習に使われないこと、[[privacy|第三者とデータを共有しない]] ことを表明しています。ただし、削除したノートブックは復元できません。上記の能力に関する主張は提供者自身のものです。学区や機関は、製品ページではなくデータ処理契約に照らし合わせて確認すべきです。2026 年の報道では、生成されたポッドキャストで使われた声に関する訴訟も報じられており、Google は否定しています。音声の出力は、資料に基づく回答という保護とは別に、[[legal-issues-and-risks|似顔権・肖像権の問題]] を提起するという注意喚起です。生成されたフラッシュカード、クイズ、要約は、資料と照らし合わせて確認するための下書きとして扱ってください。また、無料プランの制限は予告なく変わります。
-
-## 関連する概念
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

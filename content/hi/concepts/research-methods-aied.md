@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -197,55 +199,3 @@ DBR [[rct|प्रयोगों]] के कारणीय नियंत�
 **"ढीला मापन नियम एक मामूली पद्धतिगत चुनाव है।"** यह निष्कर्ष बदल देता है। किसी भी पूर्णता को श्रेय देना बाद के सहायता-रहित प्रदर्शन का पूर्वानुमान **कौशल-कठिनाई स्थिरांक से बमुश्किल ऊपर (संयुक्त AUC 0.604 बनाम 0.595)** लगाता था, जबकि कठोर नियम के अंतर्गत **93.9% छात्र-कौशल जोड़ियों को निपुण घोषित किया गया, 72.8% के मुकाबले**। नियम ने यह तय करने में 21 अंकों का अंतर पैदा किया कि किसे तैयार घोषित किया जाए, और बदले में लगभग कोई पूर्वानुमान-सुधार नहीं दिया।
 
 **"सांख्यिकीय महत्व तय करता है कि हस्तक्षेप काम कर गया या नहीं।"** यह तय करता है कि कोई प्रभाव पहचाना जा सका या नहीं। वह *अधिगम* प्रभाव था या नहीं, यह परिणाम-माप, तुलना और उन शर्तों पर निर्भर है जिनमें वह लिया गया, और इसीलिए इस पृष्ठ के खंडों में डिज़ाइन तथा रिपोर्टिंग के चुनाव विश्लेषण जितना ही महत्व रखते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — AI-सहायित शैक्षिक शोध
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — शिक्षा में AI में सिद्धांत विकास
-- [[qualitative-research]] — गुणात्मक शोध
-- [[quantitative-research]] — मात्रात्मक शोध
-- [[mixed-methods-research]] — मिश्रित-विधि शोध
-- [[design-based-research]] — डिज़ाइन-आधारित शोध
-- [[usability-research]] — उपयोगिता शोध
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## संबंधित लेख
-
-- [[ai-methodologies-science-education-research-2026]] — यह प्रतिबिंबित करने के लिए एक सात-चरण ज्ञान-बौद्धिक-पुनरावृत्ति ढाँचा कि AI कार्यप्रणाली विज्ञान शिक्षा शोध को कैसे बदल सकती हैं (मार्टिन सहित, 2026)
-- [[access-not-enough-ai-tutoring-2026]] — पहुँच पर्याप्त नहीं: मानव सहायता AI ट्यूटरिंग के साथ जुड़ाव में सुधार करती है
-- [[genai-can-harm-teaching-rct-2026]] — जनरेटिव-AI शिक्षण को नुकसान पहुँचा सकता है
-- [[genai-over-reliance-learning-2026]] — सुधार से अति-निर्भरता तक: एक मिश्रित-विधि अध्ययन
-- [[acceptance-ai-english-tools-2026]] — AI-सहायित अंग्रेज़ी भाषा सीखने के उपकरणों की स्वीकृति
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ट्यूटर सुरक्षा और शिक्षाशास्त्रीय हानियाँ
-- [[zerkouk-comprehensive-review-its-2025]] — बुद्धिमान ट्यूटरिंग प्रणालियों की व्यापक समीक्षा
-- [[ai-assisted-collaborative-learning-model-dbr]] — एक AI-सहायित सहयोगात्मक सीखने के मॉडल के लिए डिज़ाइन-आधारित शोध
-- [[teachbench-llm-teaching-evaluation]] — टीचबेंच: LLM शिक्षण क्षमता का मूल्यांकन
-- [[ground-truth-reliability-aied]] — ग्राउंड सच्चाई का आधुनिकीकरण: विश्वसनीयता और वैधता की ओर चार बदलाव
-- [[llm-student-simulation-teacher-insights]] — क्या LLMs मानव शिक्षार्थियों का प्रभावी ढंग से सिमुलेट कर सकते हैं?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: AI-शिक्षा अध्यायनों के पारदर्शी रिपोर्टिंग के लिए दस डोमेन में 30 वस्तुएँ (एलिसन 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-एकीकृत सीखने का प्रबंधन प्रणाली: एक अनुदैर्ध्य अध्ययन
-- [[ai-in-the-wild-college]] — प्राकृतिक स्थिति में AI: प्रामाणिक बातचीत का बड़े पैमाने पर विश्लेषण
-- [[same-ai-different-pathways]] — वही AI, अलग मार्ग: तंत्रों को अनपैक करना
-- [[tep-aied-model-reporting-2026]] — कठोरता के साथ AI-शिक्षा शोध की रिपोर्टिंग के लिए TEP-AIED मॉडल (ह्वांग, ज़ी, वाह और गासेविक 2026)
-- [[t2i-competence-paradox-2026]] — क्षमता विरोधाभास: कला और डिज़ाइन में पाठ-से-चित्र जनरेटिव-AI
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — शिक्षा में ChatGPT: एक कारण की खोज में प्रभाव
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — सीखने पर AI के प्रभाव का मेटा-मेटा-विश्लेषण
-- [[oneill-presumed-effective-meta-analysis-2026]] — अनुमानित प्रभावी: दोषपूर्ण AIED मेटा-विश्लेषण ऑडिट
-- [[synthetic-educational-data-structural-fidelity-2026]] — निष्ठा मेट्रिक क्या चूकती हैं: सिंथेटिक शैक्षिक डेटा पर एक संरचनात्मक जाँच
-
-- [[porcaro-ai-grading-benchmark-2026]] — सहमति से आगे: जिन जाँचों का सही उत्तर ज्ञात है, अनुकरणीय ग्रेडरों पर रोपित-प्रभाव परीक्षण, और 22 प्रॉम्प्ट किए गए मॉडल (Porcaro 2026)
-

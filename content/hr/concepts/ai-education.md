@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -190,59 +192,3 @@ Umjetna inteligencija u obrazovanju povezuje se sa svakim konceptom u bazi znanj
 **„Budući da je umjetna inteligencija opće namjene, nalaz s bilo kojeg mjesta vrijedi svugdje.“** Općenitost tehnologije ne stvara općenitost dokaza. Niti discipline, razine i konteksta postoje zato što se isti alat u njima ponaša različito, a nalaz prenesen preko granice bez promjene jest ekstrapolacija.
 
 **„Zrelost područja može se očitati iz opsega objavljivanja.“** Opseg i zrelost razilaze se; nit istraživačkih metoda dokumentira ponavljajuće slabosti nacrta koje opseg ne ispravlja, a okviri se množe brže nego što se testiraju.
-
-## Povezani koncepti
-- [[primary-education]] — AI u osnovnoškolskom obrazovanju
-- [[secondary-education]] — AI u srednjoškolskom obrazovanju
-- [[undergraduate-education]] — AI na preddiplomskoj razini studija
-- [[graduate-education]] — AI na diplomskoj i doktorskoj razini studija
-- [[pedagogical-patterns]] — Ispitane sekvence koje operacionaliziraju pedagogije područja
-- [[ai-literacy]] — krov: razumijevanje, upotreba i ocjenjivanje umjetne inteligencije
-
-- [[automation-bias]] — pogreška na strani čitatelja: prihvaćanje automatizirane prosudbe bez provjere
-- [[human-ai-collaboration]] — krov: kako ljudi i umjetna inteligencija rade zajedno
-- [[pedagogy]] — krov: metode i strategije poučavanja
-
-- [[case-based-learning]] — metoda slučaja, rasprava o slučaju i kontrastni slučajevi
-- [[metaphors-and-analogies]] — kako metafora oblikuje razumijevanje umjetne inteligencije i kako analogija podupire poučavanje
-- [[learning-theories]] — krov: kako se učenje odvija
-- [[ai-technologies]] — krov: modeli, tehnike i sustavi
-- [[discipline-specific-aied]] — krov: umjetna inteligencija kroz predmetna područja i razine
-- [[assessment]] — krov: kako umjetna inteligencija ocjenjuje učenike i preoblikuje valjanost
-- [[feedback]] — krov: kako se povratne informacije stvaraju, dostavljaju i koriste
-- [[stakeholders]] — krov: tko su akteri
-- [[learners]] — krov: koncepti na strani učenika (iskustvo, identitet, djelotvornost, interakcija, modeli učenika)
-- [[ai-ed-evaluation]] — krov: kako znamo funkcionira li umjetna inteligencija
-- [[research-methods-aied]] — krov: metode istraživanja učinkovitosti
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[governance]] — krov: institucionalni i regulatorni sloj
-- [[educational-policy-ai]] — krov: politika, smjernice i implementacija
-- [[equity-in-ai-education]] — krov: pravičnost, pristup i uključivost
-- [[learning-sciences]] — empirijsko područje iza AIED-a
-- [[ethics]] — etičke dimenzije umjetne inteligencije u obrazovanju
-- [[misconceptions]] — mentalni modeli koje ljudi donose umjetnoj inteligenciji
-- [[interpreting-and-applying-aied-research]] — čitanje studije i nošenje nalaza u praksu
-- [[limitations-in-aied-research]] — prekogranična ograničenja baze dokaza
-- [[meta-analysis-systematic-review]] — što ustanovljavaju pregledi i metaanalize
-- [[history-of-aied]] — kako se područje razvilo
-- [[philosophy-of-ai-in-education]] — filozofski temelji
-- [[theories-and-frameworks]] — karta čvorova teorija i okvira
-- [[theory-development-aied]] — izgradnja i revidiranje teorije
-
-- [[sensor-and-gaze-analytics]] — krov: osjetilno praćenje učenika putem pogleda, EEG-a i nosivih signala
-- [[ai-avatars-and-synthetic-instructors]] — krov: sintetički ljudi koji poučavaju, podučavaju, simuliraju i procjenjuju
-- [[civic-and-political-education]] — predmetno područje: pismenost za javni život, sa slabom dokaznom osnovom
-
-## Povezani članci
-
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Razvoj istraživanja umjetne inteligencije i obrazovanja kroz četiri desetljeća (okvir AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kontrola nasuprot djelotvornosti: povijest umjetne inteligencije u obrazovanju
-- [[genai-higher-education-systematic-review-2026]] — Generativna umjetna inteligencija u visokom obrazovanju: sistematski pregled 125 studija
-- [[stanford-evidence-base-ai-k12-2026]] — Baza dokaza o umjetnoj inteligenciji u K-12: pregled 818 radova
-- [[genai-educational-outcomes-meta-analysis]] — Generativna umjetna inteligencija i obrazovni ishodi: sveobuhvatna metaanaliza
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 srednjoškolske studije; dobitci ondje gdje učenici prosuđuju rezultat, a ne gdje alat proizvodi rad
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 studenata diplomskog studija; spremnost je do samoučinkovitosti došla kroz podršku mentora
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Pregled 61 izvora o etici, povratnim informacijama i upravljanju u doktorskom mentorstvu
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Diplomski seminar u jednoj skupini; dobitci u samousmjerenom učenju bez testa bez pomoći
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 student; jaz između preddiplomskog i diplomskog studija u etici i samoregulaciji

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -46,13 +47,3 @@ Các thư viện công cộng muốn đặt một kiosk (chương trình nhận 
 - Các thư viện tham gia đóng góp **\$1,000 mỗi năm cho mỗi lần triển khai kiosk**; bản thân chương trình thí điểm chỉ giới hạn ở các điểm đã nộp đơn.
 - Tuyên bố về quyền riêng tư là khẳng định của chương trình, không phải kết luận đã được kiểm toán; thư viện nên xác nhận các điều khoản lưu trữ và an toàn trẻ em trong thỏa thuận xử lý dữ liệu của mình.
 - Giai đoạn hai và ba của lộ trình — cho phép thư viện nạp kho lưu trữ địa phương và quản trị các hệ thống tạo ra từ đó — mới được lên kế hoạch, chưa phát hành.
-
-## Khái niệm liên quan
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

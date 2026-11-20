@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,37 +99,3 @@ ai_assist:
 **"किसी उपकरण पर प्रतिबंध व्यवहार हटा देता है।"** यह उसे ऐसे उपकरणों में स्थानांतरित कर देता है जिन्हें आप देख नहीं सकते। छात्र पहले से ही संस्था द्वारा दिए गए उपकरणों के बजाय निजी रूप से उपलब्ध उपकरणों को प्राथमिकता देते हैं, इसलिए प्रतिबंध उपयोग को उस अकेले वातावरण से बाहर धकेलता है जहाँ सहायता, लॉगिंग या मार्गदर्शन संभव है। फ्रेमिंग का काम अनुमत व्यवहार को आकर्षक बनाना है, निषिद्ध व्यवहार को देखना कठिन बनाना नहीं।
 
 **"फ्रेमिंग राजी करना है, इसलिए यह डिज़ाइन से अधिक वाक्पटुता है।"** यह पृष्ठ जिस फ्रेमिंग का वर्णन करता है वह डिज़ाइन के साथ जोड़ी जाती है: अपेक्षाएँ स्पष्ट और बार-बार बताई जाती हैं *जबकि छात्रों के अनुसार डिज़ाइन किया जाता है*। डिज़ाइन के बजाय केवल पहुँचाया गया संदेश वह संस्करण है जो विफल होता है, क्योंकि छात्र घोषित प्रतिबद्धता और वास्तविक प्रतिबद्धता के बीच का अंतर पढ़ लेते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## संबंधित लेख
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30-विशेषज्ञ सर्वसम्मति इस क्रम पर: पहले जनरेटिव AI के बिना प्राप्त करें, फिर उससे संचित करें, फिर स्वयं सोचें
-- [[mccorkle-aligned-genai-course-policy-2025]] — कार्य-दर-कार्य प्रत्येक स्वीकृत और अस्वीकृत जनरेटिव AI उपयोग के लिए पारदर्शी तर्क (मैककॉर्कल 2025)
-- [[moral-panic-genai-classroom]] — जनरेटिव AI के उचित उपयोग को प्रोत्साहित करना, उसे व्यवधान के रूप में निंदा करने के बजाय
-- [[student-rationalization-ai-writing]] — वे "पाँच स्थल" जहाँ छात्र शैक्षणिक लेखन में AI उपयोग को तर्कसंगत ठहराते हैं
-- [[student-regulatory-awareness-genai]] — नियम जानना पर्याप्त नहीं: नियामक जागरूकता और वास्तविक उपयोग
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI चिंता से रणनीतिक विनियमन तक
-- [[chatgpt-inoculation-training-verification-2026]] — रोगाणुरोधी संदेश और जाँच-व्यवहार
-- [[ai-fallibility-warning-help-seeking]] — AI की गलती-प्रवृत्ति की चेतावनी सहायता-मांग बढ़ाती है
-- [[shame-guilt-ai-regulation-computing-education]] — शिक्षा में AI उपयोग के सामाजिक नियामक के रूप में लज्जा और अपराधबोध
-- [[access-not-enough-ai-tutoring-2026]] — मानव सहायता AI ट्यूटरिंग के साथ जुड़ाव सुधारती है
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — जनरेटिव AI के साथ SDT-आधारित जुड़ाव
-- [[ai-availability-student-motivation]] — AI की उपलब्धता छात्र-प्रेरणा को कैसे आकार देती है
-- [[youtube-frames-chatgpt-education]] — YouTube शिक्षा में ChatGPT उपयोग को कैसे फ्रेम करता है
-- [[ai-ethics-education-public-discourse]] — शिक्षा में AI नैतिकता पर सार्वजनिक प्रवचन
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — शिक्षक AI को महत्वपूर्ण/जिम्मेदार उपयोग के रूप में फ्रेम करते हैं; नियोक्ता उसे उत्पादकता के रूप में
-- [[ssaho-ai-academic-integrity-review-2025]] — स्पष्ट अपेक्षाओं के माध्यम से शैक्षणिक इमानदारी की संस्कृति बनाना

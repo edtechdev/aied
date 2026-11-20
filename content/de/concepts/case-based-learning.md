@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -91,34 +93,3 @@ Es gibt auch ein konzeptionelles Risiko. Ein Fall kann einprägsam sein, weil er
 - **„Ein realistischer Fall lehrt von selbst.“** Realismus liefert Kontext. Die Fragen, Vergleiche und Begründungsaufgaben liefern das Lernen.
 - **„KI-generierte Fälle sind einsatzbereit.“** Generierte Fälle können flüssig, plausibel und falsch sein. Sie brauchen fachliche Prüfung und eine Kontrolle des Denkens, zu dem sie einladen.
 - **„Wenn den Studierenden die Diskussion gefällt, hat der Fall funktioniert.“** Engagement ist nicht Transfer. Das Ergebnis muss an einer Aufgabe gemessen werden, die Studierende vorher nicht lösen konnten.
-
-## Verbundene Konzepte
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-- [[trewren-ai-perioperative-case-based-learning-2026]] — Ein quellengestütztes LLM hielt fünf perioperative Fälle durch, ohne Inhalte zu erfinden
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT senkte die Erstellungszeit für Pflegefälle ohne gemessenen Qualitätsunterschied
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Sechs RCTs zu KI-gestütztem PBL/CBL; nur zwei prüften CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — Modellierung durch die Lehrperson mit kontrastierenden Fällen in einem GenAI-Kurs
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Fallbasiertes Lernen neben virtuellen und simulierten Patienten
-- [[genai-medical-education-transformation-review-2026]] — Fallbasiertes Lernen und klinisches Denken unter den Anwendungskategorien des Reviews
-- [[hardie-genai-nursing-scoping-review-2026]] — Fallbasiertes Lernen innerhalb des Simulationsthemas eines Pflege-Reviews
-- [[lorteau-sarro-ai-legal-education-2025]] — KI ergänzt sokratischen Unterricht und juristische Simulationen
-- [[csaszar-ai-management-education-2026]] — Fallstudien und Simulationen in der Managementausbildung, ohne Analyse der Fallmethode
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethikunterricht wirkt (g = 0.55), doch diskussionsbasierte Vermittlung wirkt, reine Vorlesungsvermittlung hingegen nicht

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -81,36 +83,3 @@ ai_assist:
 **कार्यक्रम डिज़ाइनरों के लिए**
 
 - जाँचें कि अनुप्रयुक्त कार्यक्रमों में प्रयोगशाला के स्थानापन्न नहीं बल्कि अनुप्रयुक्त काम है; अंतरण का दावा सामने की प्रामाणिकता पर टिकता है।
-
-## संबंधित अवधारणाएँ
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — छत्र: एआई शिक्षा में शिक्षण-पद्धतियाँ और शिक्षण रणनीतियाँ
-- [[virtual-and-augmented-reality]] — स्पष्ट रूप से नियोजित अनुभव के रूप में व्यापक प्रैक्टिस
-
-- [[reflection]]
-
-## संबंधित लेख
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — AI-सहायित अधिगम में मेटाकॉग्निटिव जागरूकता के लिए अनुभवात्मक बनाम अनुदेशात्मक सत्र (Benazet i Montobbio et al. 2026)
-
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — एआई युग में स्मार्ट विनिर्माण के लिए कार्यबल तैयारी स्तर ढाँचा
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — अनुभवमूलक बुद्धिमत्ता के माध्यम से टिकाऊ सीखना को बढ़ावा देना (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — साइबरसुरक्षा शिक्षा में जनरेटिव एआई
-- [[bots-blocks-project-based-robotics-education-2026]] — बॉट्स एंड ब्लॉक्स
-- [[edusim-llm-robotic-simulation-education-2026]] — एडुसिम-एलएलएम
-- [[white-wu-robotics-ai-education-2026]] — शिक्षा में रोबोटिक्स और एआई
-- [[ai-lms-middle-school-longitudinal]] — एआई-एकीकृत एलएमएस अनुदैर्ध्य अध्ययन
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — समुदाय के क्षेत्रीय कार्य का प्रतिस्थापन करते एआई व्यक्तित्व, प्रतिस्थापन के विफल होने के लिए पाँच-संकेतक मापकंक के साथ (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — एआई-समर्थित डिज़ाइन शिक्षा में अनुभवमूलक करके सीखना और संज्ञानात्मक करके सीखना में भेद करती विषयगत समीक्षा (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — तीन व्यापक एआई क्रियाविधियों के इर्द-गिर्द फिर से संरचित एक रणनीतिक प्रबंधन पाठ्यक्रम
-- [[gelli-experiential-language-learning-2026]] — GELLI: अनुभवजन्य भाषा-अधिगम अंतःक्रियाओं के लिए एक जनरेटर (Symonette et al. 2026)
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-समर्थित आभासी प्रयोगशाला फ़्लिप्ड भौतिकी अधिगम के लिए: माध्यमिक विद्यार्थियों की उपलब्धि, अभिप्रेरणा और संज्ञानात्मक भार पर प्रभाव
-- [[yusuf-service-learning-mapping-2026]] — सेवा-अधिगम चक्र पर मैप किए 26 अध्ययन: मूल्यांकन और प्रतिबिंब में AI पतला पड़ता है (यूसुफ एट अल. 2026)

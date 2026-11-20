@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -60,33 +62,3 @@ RAG [[llm]] के फाइन-ट्यूनिंग के लिए एक
 - **"पुनर्प्राप्ति गुणवत्ता ही पूरी समस्या है।"** पुनर्प्राप्ति आवश्यक है और पर्याप्त नहीं। आधारित उत्तर-देना **10 में से 9.05** अंक पाया, अंतर पर बूटस्ट्रैप CI शून्य को छोड़ता है, और वह **उस सामग्री में अधिक बार आधारित था जो उत्तर देने वाले ने वास्तव में देखी थी (98% बनाम 81%)**, इसलिए मापा गया लाभ साक्ष्य के प्रति निष्ठा में है, और उस निष्ठा का अर्थ होने के लिए साक्ष्य सही होना चाहिए।
 - **"एकल-पृष्ठ पुनर्प्राप्ति सामान्यीकृत होती है।"** एक से अधिक पृष्ठ की सामग्री माँगने वाले प्रश्नों पर दोनों अंतराल **लगभग तीन गुना** हो गए (क्रॉस-पेज अंक 9.93, निचली आधार-रेखा के मुकाबले)। बहु-दस्तावेज़ तर्क वही जगह है जहाँ आधारित प्रणालियाँ कमज़ोर पड़ती हैं, और ठीक वहीं पाठ्यक्रम सबसे कठिन प्रश्न पूछते हैं।
 - **"पुनर्प्राप्ति जाँच की आवश्यकता हटा देती है।"** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] एक ही मॉड्यूल की स्वीकृत सामग्री से पुनर्प्राप्त करता है ताकि उन छात्रों की सेवा हो जो किसी व्यक्ति से पूछने में हिचकिचाते हैं, जो एक उचित दायरा है। संकीर्ण, स्वीकृत कोर्पस ही आधारीकरण को अर्थपूर्ण बनाते हैं; अकेला लेबल नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — छत्र: AI प्रौद्योगिकियाँ और तकनीकें (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-
-## संबंधित लेख
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: रिट्रीवल-ऑगमेंटेड जनरेशन for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — शैक्षिक सहायता तक पहुँच में बाधाएँ कम करना: उच्च शिक्षा में सहायता-मांग असमानताओं को संबोधित करने वाले पाठ्यक्रम-विशिष्ट RAG प्रणाली का मूल्यांकन
-- [[wiki-llm-indexing-ml-classes-2026]] — विकि LLM अनुक्रमण का उपयोग करके मशीन-लर्निंग कक्षाओं में सुधारित शिक्षा की संभावना
-- [[on-premises-rag-tutoring-business-education-2026]] — व्यवसाय शिक्षा के लिए ऑन-प्रिमाइसेस बहु-पाठ्यक्रम RAG ट्यूटरिंग
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — एक पाठ्यक्रम-आधारित पाठ-योजना सहायक जिसकी समय-बचत सामान्य चैटबॉट से आगे नहीं बढ़ी
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -101,40 +103,3 @@ ai_assist:
 
 - Сообщайте результаты более чем на одном семействе наборов данных, прежде чем заявлять об архитектурном превосходстве, поскольку контраст OKT меняет знак между данными инженерного LMS и ASSISTments.
 - Сообщайте правило подсчёта освоений как параметр результата, а не как методологическую сноску.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: зонтичное понятие для концепций со стороны учащегося
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — тонкая оценка освоения, питающая решения о поддержке
-
-## Связанные статьи
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивое обобщение: адаптивное освоение может остановить практику прежде, чем учащиеся узнают, когда воздержаться от действия (An, McLaren и Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Трассирование знаний на основе результатов с отображением близости
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — семантически обоснованное трассирование с состояниями, калиброванными по KC, используемыми как среда RL для рекомендации
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: агентный репетитор, который учится у своего учащегося в цикле кообучения человек–ИИ
-- [[crediting-assisted-work-inflates-mastery-2026]] — Какое правило доказательств определяет заявление об освоении (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — Однопроходная LLM трассирует знания выше глубоких моделей, обученных на 8 учащихся, при малой доле затрат (Lee и Park 2026)
-
-- [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing

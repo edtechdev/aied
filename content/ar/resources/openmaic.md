@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -43,8 +44,3 @@ ai_assist:
 ## Notes
 
 مرخّص بـMIT، مع دليل استخدام بالإنجليزية والصينية ومجتمع نشط على Discord وFeishu. وهو محايد تجاه النماذج: أنت تزوّد مفتاح مزوّد LLM واحدًا على الأقل، والمكوّنات المحلية الاختيارية (Lemonade للنماذج المحلية، وFunASR للتعرف على الكلام) تتيح لك تشغيل المزيد من حزمة التقنيات دون اتصال — لذا فإن "مجاني" يصف البرنامج لا فاتورة الاستدلال. وظهرت الورقة التي تقوم عليها في *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0)، وكان المستودع قد تجاوز 38,000 نجمة بحلول سبتمبر 2026.
-
-## المفاهيم المرتبطة
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
@@ -79,7 +81,6 @@ ai_assist:
 
 - **উপযোগিতার জন্য প্রয়োজনীয়, কেবল সহসম্পর্কিত নয়।** [[chu-design-students-ai-agent-tam-ttf-2026|Chu ও Liu (2026)]] 405 জন নকশা-স্নাতকের কাছে এআই স্ব-কার্যকারিতাকে দুই গ্রহণ-বিশ্বাসের সামনে বসান এবং দেখেন এটি দুটিরই সবচেয়ে শক্তিশালী পূর্বগ: অনুভূত উপযোগিতায় β = 0.458 ও [[technology-acceptance-model|অনুভূত ব্যবহার-সহজতায়]] β = 0.394। তাঁদের প্রয়োজন-শর্ত বিশ্লেষণ উপরের পথের চেয়ে শক্তিশালী এক দাবি যোগ করে। অনুভূত উপযোগিতার জন্য স্ব-কার্যকারিতাই একমাত্র প্রয়োজনীয় শর্ত হিসেবে চিহ্নিত (d = 0.125, p = 0.015)। উপযোগিতার 80%, 90% ও 100% স্তরে প্রয়োজন ছিল স্ব-কার্যকারিতার 10.0%, 30.0% ও 50.0%। তাই আত্মবিশ্বাস যন্ত্রগত বিচারের নিচে একটি মেঝে হিসেবে বসে, কয়েকটি অবদানকারীর মধ্যে একটি নয়। নকশাটি ক্রস-সেকশনাল এবং মডেলটি অভিপ্রায়ের R² = 0.150 ব্যাখ্যা করে, তাই থ্রেশহোল্ডগুলো নমুনা-ভিত্তিক ধরুন।
 
-
 - **আচরণগত চিহ্ন সংকেত বহন করতে পারে, কিন্তু লেবেলই সীমা ঠিক করে।** দুই-বিশ্ববিদ্যালয়ের একটি পাইপলাইন মিথস্ক্রিয়া-চিহ্ন থেকে কম স্ব-কার্যকারিতা শনাক্ত করে; সমীক্ষা-অবসরের লেবেল মধ্যপদ-বিভাজনকে হারায়, আর কেবল MSLQ উপস্কেলই পূর্ণ উপকরণের সমান ভালো লেবেল দেয় ([[somny-ml-self-efficacy-interaction-traces-2026|সমনি, চৌআতি ও লেফেভ্র, ২০২৬]])।
 
 ## সাধারণ ভুল ধারণা
@@ -88,49 +89,3 @@ ai_assist:
 - **"কম আত্মবিশ্বাস নিয়ে বেশি এআই-ব্যবহার একটি নিরীহ মানিয়ে নেওয়ার কৌশল।"** একই ফলাফল সেই পথচলাকে **কম স্কোরের** সঙ্গে যুক্ত করে, তাই মানিয়ে নেওয়ার ধরনটির একটি মাপা খরচ আছে, তা নিরপেক্ষ পছন্দ নয়।
 - **"কেবল সাক্ষরতাই আত্মবিশ্বাস গড়ে।"** [[hu-psychological-predictors-continued-chatgpt-use-2026|হু (২০২৬)]] এমন **450 জন বিশ্ববিদ্যালয়-শিক্ষার্থীর** সমীক্ষা করেন যাঁরা ইতিমধ্যে ChatGPT ব্যবহার করেন, এবং **সাক্ষরতা ও আত্মবিশ্বাসের মাঝে বিশ্বাসকে কেন্দ্রবিন্দু** হিসেবে পান। পথটি বিশ্বাসের মধ্য দিয়ে চলে, তাই বিশ্বাসের দিকে না তাকিয়ে সাক্ষরতা বাড়ালে প্রক্রিয়াটি অপরিবর্তিত থাকে।
 - **"প্রতিবন্ধী জনগোষ্ঠীতে স্ব-কার্যকারিতার প্রোফাইল একরকম।"** স্পেনে **মোটর প্রতিবন্ধকতাসম্পন্ন 102 জন বিশ্ববিদ্যালয়-শিক্ষার্থীর** সুপ্ত প্রোফাইল বিশ্লেষণ **তিনটি প্রোফাইল** পায়, যেখানে নিম্ন দল **29.4%** এবং বাকিরা মাঝারি ও উচ্চতর প্রোফাইলে বিভক্ত। দলটিকে এক জনগোষ্ঠী ধরে নিলে স্বতন্ত্র প্রেরণাগত অবস্থাগুলো গড় হয়ে যায়।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — সামাজিক-আবেগিক শিখন
-
-## সংযুক্ত নিবন্ধ
-- [[ai-proof-learning-cognitive-offloading-2026]] — শিক্ষার্থীর যুক্তিকে সমর্থন, না প্রতিস্থাপন? এআই-সহায়িত প্রমাণ-শিখনে সংজ্ঞানাত্মক অফলোডিং (চেন প্রমুখ ২০২৬)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — সাধারণ এআই-ব্যবহার বেশি স্ব-কার্যকারিতা ও বেশি অনুপস্থিতির সঙ্গে চলেছে, তবু স্ব-কার্যকারিতা উপস্থিতির পূর্বাভাস দেয়নি (ফ্রাঙ্কো প্রমুখ ২০২৬)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — উচ্চশিক্ষায় এআই চ্যাটবট: প্রত্যাশার সঙ্গে প্রমাণের তুলনা (থোনি ও ফ্রায়ার ২০২৬)
-- [[genai-performance-vs-learning]] — আত্মবিশ্বাস বাড়ছে অথচ প্রযুক্তিগত নির্ভরতা বাড়ছে: এআই-যুগে বিভ্রান্তিকর ফল হিসেবে স্ব-কার্যকারিতা (ইয়ান প্রমুখ ২০২৫)
-- [[ai-supported-ementoring-efl-preservice-2026]] — এআই-সহায়িত ই-মেন্টরিং EFL শিক্ষার্থী-শিক্ষকদের স্ব-কার্যকারিতা ও আবেগীয় বুদ্ধি বাড়ায় (আধা-পরীক্ষামূলক)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC সুবিধা ও শিক্ষার্থীর স্ব-নিয়ন্ত্রণ
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — এআই সাক্ষরতা, এআই-প্রস্তুতি ও কর্ম-অভিযোজনশীলতা
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — এআই সাক্ষরতার জন্য শিক্ষক-শিক্ষা (SDT)
-- [[social-robot-study-companions]] — সহপাঠসঙ্গী হিসেবে সামাজিক রোবট
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP কাঠামো
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — জেনএআই-ব্যবহারের ধরন ও একাডেমিক স্ব-কার্যকারিতা
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS স্কেল; এআই সাক্ষরতা কোর্সে PBL-থেকে-সন্তুষ্টিতে ক্ষমতায়ন ও নৈতিক সচেতনতার মধ্যস্থতা (চু ও কং ২০২৬)
-- [[predicting-attrition-competitive-programming]] — প্রতিযোগিতামূলক প্রোগ্রামিংয়ে শিক্ষার্থী ঝরে পড়ার পূর্বাভাস
-- [[genai-xr-architectural-design-education-2026]] — সহযোগিতামূলক স্থাপত্য নকশা শিক্ষায় জেনারেটিভ এআই ও বর্ধিত বাস্তবতা: একটি অন্বেষণমূলক স্টুডিও গবেষণা
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ক্রমিক শৃঙ্খলে এআই সাক্ষরতা, বিশ্বাস ও একাডেমিক স্ব-কার্যকারিতা এবং চলমান ChatGPT ব্যবহার
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — মোটর প্রতিবন্ধকতাসম্পন্ন বিশ্ববিদ্যালয়-শিক্ষার্থীদের মধ্যে একাডেমিক স্ব-কার্যকারিতার প্রোফাইল ও রিপোর্টকৃত এআই-ব্যবহার
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — শিশুদের মধ্যে জেনারেটিভ এআই থেকে রিপোর্টকৃত সৃজনশীল স্ব-কার্যকারিতার লাভ (স্কোপিং পর্যালোচনা)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — কথন-স্ব-কার্যকারিতা এআই-সহায়িত অনুশীলন থেকে ইচ্ছা পর্যন্ত উদ্বেগ-পথকে উল্টে দেয়
-- [[faculty-ai-well-being-social-supports-2026]] — প্রশিক্ষক-SEM: প্রযুক্তিগত স্ব-কার্যকারিতা এআই-কল্যাণের দুর্বল পূর্বাভাসক
-- [[cen-self-efficacy-favorability-2026]] — স্ব-কার্যকারিতা ও অনুকূলতা টিউটরিং-ব্যবস্থা ও কাগজ-অনুশীলন থেকে শিখন গড়ে (সেন প্রমুখ ২০২৬)
-- [[jelson-students-chatgpt-essay-writing-2026]] — রাইটিং স্ব-কার্যকারিতা স্কেল বেশি Translating ও Reviewing কোয়েরির পূর্বাভাস দেয়, Planning বা সম্পূর্ণ-প্রবন্ধ প্রতিনিধিত্বের নয় (জেলসন প্রমুখ ২০২৬)
-- [[kim-overtrust-ai-literacy-2026]] - একাডেমিক স্ব-কার্যকারিতা কম নয়, বেশি এআই-অতিরিক্ত-বিশ্বাসের পূর্বাভাস দেয়
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — প্রযুক্তি-সমৃদ্ধ শিখনে শিক্ষার্থীদের মিথস্ক্রিয়া-চিহ্ন দিয়ে মেশিন লার্নিংয়ের সাহায্যে স্ব-কার্যকারিতা-বিশ্বাস মাপা
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — এআই স্ব-কার্যকারিতা -> এআই সাক্ষরতা -> এআই-গ্রহণ, জ্ঞান-মধ্যস্থ অংশটি মাপাসহ (ইসবুলান প্রমুখ ২০২৬)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — অনুভূত উপযোগিতার প্রয়োজনীয় শর্ত হিসেবে স্ব-কার্যকারিতা, বাধা-সীমা থ্রেশহোল্ডসহ (Chu ও Liu 2026)
-

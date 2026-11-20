@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -93,9 +94,3 @@ Les enseignants de psychologie à tout stade de carrière, et les enseignants de
 ## Remarques et réserves
 
 PDF gratuit, pas de compte. Le copyright est celui de la STP, pas une licence Creative Commons : les copies personnelles et en classe sont permises avec attribution, tandis que la redistribution ou l'usage commercial nécessite l'autorisation de l'auteur. Les chapitres sont des récits de praticiens, pas des études — pas de designs, d'échantillons ou de tailles d'effet — alors traitez les affirmations comme des rapports d'expérience et citez les chapitres individuellement.
-
-## Concepts liés
-
-- [[social-sciences-education]] — la page de regroupement dont ce volume remplit la section psychologie de pratiques au niveau des cours
-- [[ai-literacy]] — le cadrage développemental que les éditeurs donnent à la collection
-- [[academic-integrity]] — le sujet du chapitre sur les politiques, et la raison pour laquelle plusieurs chapitres de cours intègrent des étapes de vérification

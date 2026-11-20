@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -195,7 +197,6 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 
 - **"Uma estatística pode ser confiada assim que é calculada."** O benchmark verifica a verificação primeiro. Cada sonda e cada veredito, exceto seis conjuntos nomeados de estatísticas, foi executado em avaliadores simulados com um efeito plantado e sem ele, e uma medida cuja verificação não encontrou o efeito plantado foi relatada como não medida, e não como resultado. Seus relatórios são gerados a partir de seu próprio markdown e código, de modo que cada número impresso se vincula ao arquivo e ao campo de onde veio e é recalculado na construção. [[porcaro-ai-grading-benchmark-2026|Um veredito é uma decisão de design que pode ser testada]] antes que qualquer resultado real seja lido.
 
-
 ## Ideias equivocadas comuns
 
 **"Alta acurácia em benchmark mostra eficácia educacional."** Não mostra, e a lacuna é o problema central de mensuração do campo: um sistema pode pontuar alto em acurácia sem produzir aprendizagem alguma, porque a acurácia de benchmark mede desempenho na tarefa sob as condições que o benchmark estabeleceu. Eficácia educacional exige um resultado de aprendizagem sob condições que a tecnologia não controla.
@@ -205,56 +206,3 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 **"Uma regra de mensuração leniente é uma escolha metodológica menor."** Ela muda o achado. Creditar qualquer conclusão previu o desempenho posterior sem assistência **apenas um pouco acima de uma constante de dificuldade de habilidade (AUC agrupada 0,604 contra 0,595)**, ao declarar **93,9% dos pares estudante-habilidade como dominados contra 72,8%** sob uma regra estrita. A regra produziu uma diferença de 21 pontos em quem foi declarado pronto e quase nenhuma melhoria preditiva a mostrar por isso.
 
 **"A significância estatística resolve se uma intervenção funcionou."** Ela resolve se um efeito era detectável. Se foi um efeito de *aprendizagem* depende da medida de resultado, da comparação e das condições em que foi tomada — e é por isso que as escolhas de desenho e de relato nas seções desta página pesam tanto quanto a análise.
-
-## Conceitos conectados
-
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — Investigação Educacional Assistida por IA
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Construção de teoria na IA na educação
-- [[qualitative-research]] — Pesquisa qualitativa
-- [[quantitative-research]] — Pesquisa quantitativa
-- [[mixed-methods-research]] — Pesquisa de métodos mistos
-- [[design-based-research]] — Pesquisa baseada em design
-- [[usability-research]] — Pesquisa de usabilidade
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Artigos conectados
-
-- [[ai-methodologies-science-education-research-2026]] — Um framework de sete fases de iteração epistêmica para refletir sobre como as metodologias de IA podem transformar a pesquisa em educação científica (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Acesso não é suficiente: o apoio humano melhora o engajamento com a tutoria com IA
-- [[genai-can-harm-teaching-rct-2026]] — A IA generativa pode prejudicar o ensino
-- [[genai-over-reliance-learning-2026]] — Da ampliação ao excesso de dependência: um estudo de métodos mistos
-- [[acceptance-ai-english-tools-2026]] — Aceitação de ferramentas de aprendizagem de inglês assistidas por IA
-- [[hazra-safetutors-pedagogical-safety-2026]] — Segurança de tutores de IA e danos pedagógicos
-- [[zerkouk-comprehensive-review-its-2025]] — Revisão abrangente de Sistemas de Tutoria Inteligente
-- [[ai-assisted-collaborative-learning-model-dbr]] — Pesquisa baseada em design para um modelo de aprendizagem colaborativa assistida por IA
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: avaliando a capacidade de ensino de LLMs
-- [[ground-truth-reliability-aied]] — Modernizando o gabarito: quatro viradas rumo à confiabilidade e à validade
-- [[llm-student-simulation-teacher-insights]] — Os LLMs conseguem simular efetivamente pessoas que aprendem?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 itens em dez domínios para o relato transparente de estudos de IA na educação (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — Sistema de Gestão de Aprendizagem com IA integrada: um estudo longitudinal
-- [[ai-in-the-wild-college]] — IA no ambiente natural: análise em larga escala de interações autênticas
-- [[same-ai-different-pathways]] — A mesma IA, trajetórias diferentes: desempacotando mecanismos
-- [[tep-aied-model-reporting-2026]] — O modelo TEP-AIED para relatar pesquisa em IA na educação com rigor (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — O paradoxo da competência: IA generativa de texto para imagem em arte e design
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT na educação: um efeito em busca de uma causa
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise do efeito da IA na aprendizagem
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria de meta-análise defeituosa da AIED
-- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
-
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: sondas cuja resposta certa é conhecida, verificações de efeito plantado em avaliadores simulados e 22 modelos com prompt (Porcaro 2026)
-

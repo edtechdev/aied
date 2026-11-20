@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -93,49 +95,3 @@ ai_assist:
 **"সংগ্রামকারী শিক্ষার্থীদের কেবল আরও ভালো প্রম্পট করতে শেখা উচিত।"** এটি একটি ব্যবস্থার ত্রুটিকে শিক্ষার্থীর ঘাটতিতে রূপান্তর করে। অন্তর্নিহিত কাজ স্থির রাখলে মডেল-নির্ভুলতা কেবল **নিম্ন-সাক্ষরতার ভাষাভঙ্গিতে 82.4% থেকে বিশেষজ্ঞ ভাষাভঙ্গিতে 83.4%**-এ উঠেছে — এক পয়েন্টের পার্থক্য — অথচ আরও ভালো [[prompt-engineering|প্রম্পট]] দাবি করা বিদ্যমান বর্জনের ওপর নতুন বর্জন যোগ করে। লিভার হলো ভাষা-বৈচিত্র্যের সিস্টেম-পক্ষের পরিচালনায়, প্রতিকারমূলক প্রম্পট-প্রশিক্ষণে নয়।
 
 **"সমৃদ্ধ-সম্পদসম্পন্ন শ্রেণিকক্ষের জন্য গড়া সরঞ্জাম অনুবাদ করলেই কম-সম্পদ প্রসঙ্গে চলবে।"** প্রসঙ্গ নকশা-বাঁধা বদলে দেয়। [[suacode-african-students-motivations|SuaCode]] কম-সম্পদসম্পন্ন আফ্রিকান প্রসঙ্গে শিক্ষার্থীদের কাছে পৌঁছেছে যেখানে **1%-এর কমের কোডিং দক্ষতা আছে**, ডেস্কটপ ল্যাব-মেশিনের বদলে স্মার্টফোনের জন্য গড়ে — যা একই নকশার ছোট সংস্করণ নয়, ভিন্ন নকশা।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — সুনির্দিষ্ট প্রবেশাধিকার-স্তর (ক্যাপশন, বিকল্প পাঠ্য, সহায়ক-প্রযুক্তি সামঞ্জস্য)
-- [[assistive-technology]] — শিক্ষার্থীরা বিষয়বস্তু পেতে যে সরঞ্জাম-স্তর ব্যবহার করে
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## সংযুক্ত নিবন্ধ
-- [[prompt-privilege-equitable-ai-access-2026]] — প্রম্পট বিশেষাধিকার: LLM-প্রবেশাধিকারে প্রবেশগম্যতার বৈষম্য মাপা ও কমানো
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির ও শ্রবণপ্রতিবন্ধী শিক্ষার্থীদের জন্য LLM-চালিত প্রশ্ন-উৎপাদন
-- [[text-simplification-its]] — বুদ্ধিমান টিউটরিংয়ের জন্য পাঠ্য-সরলীকরণ
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: দৃষ্টিপ্রতিবন্ধী শিশুদের জন্য কণ্ঠ-প্রধান সহচর
-- [[tactile-statistical-graphs-accessibility]] — স্পর্শনীয় 3D-প্রিন্টেড পরিসংখ্যান-গ্রাফ
-- [[pepper-robot-sign-language-lis-2025]] — ইশারা-ভাষা যোগাযোগে সহায়ক Pepper রোবট
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX গণিত-প্রবেশগম্য পদার্থবিজ্ঞান ভিডিও প্রতিলিপি
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — উৎপাদনশীল এআই, ভার্চুয়াল রিয়েলিটি এবং তার বাইরে: উচ্চশিক্ষায় নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির স্কোপিং পর্যালোচনা

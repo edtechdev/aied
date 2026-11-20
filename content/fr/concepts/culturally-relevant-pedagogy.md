@@ -22,7 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -102,33 +103,3 @@ En s'appuyant sur la recherche, les éducateurs et les concepteurs peuvent appli
 **« La politique institutionnelle d'usage de l'IA détermine ce que les étudiants considèrent comme éthique. »** La culture fait plus de travail que le texte de la politique. Une enquête interculturelle auprès d'étudiants canadiens et sud-coréens en [[cs-education|informatique]] a trouvé que **la culture, et non la politique, déterminait les perceptions de l'éthique d'usage de l'IA** — des comportements identiques étaient jugés différemment selon les cohortes. Une politique unique à l'échelle de l'établissement ne produit donc pas une éthique partagée, et la traiter comme si c'était le cas conduira à mal lire vos étudiants.
 
 **« Un pilote auprès de quatre enseignants montrant qu'ils se sentent plus confiants prouve que l'approche fonctionne. »** C'est une preuve sur la perception des enseignants, qui a sa valeur et n'est pas la même chose. Dans ce pilote, la confiance des enseignants à repérer les occasions de pertinence culturelle s'est améliorée et **78 % ont trouvé les suggestions de l'IA utiles pour diversifier les supports** — tandis que les auteurs concèdent que l'adaptation culturelle réside **dans l'invite plutôt que dans le pipeline de traitement automatique du langage**, et que la pertinence culturelle a été évaluée plutôt qu'ingénierée. Confiance et utilité perçue ne sont pas une pertinence culturelle démontrée pour les étudiants.
-
-## Concepts liés
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'IA en éducation
-
-## Articles liés
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Un planificateur de leçons qui interroge les enseignants sur le contexte culturel avant de rédiger (Zhai et coll. 2026)
-- [[llm-cultural-relevance-k12]] — Les LLM au service d'une pédagogie culturellement pertinente de la maternelle à la terminale
-- [[civic-education-ai-lesson-plans]] — Plans de leçon générés par l'IA en éducation civique
-- [[ojeda-ramirez-community-based-ai-learning]] — Apprentissage de l'IA ancré dans la communauté
-- [[genai-minoritized-knowledges-disability]] — L'IA générative et la marginalisation des savoirs minorisés
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles : repère de référence ghanéen en STIM
-- [[cross-cultural-student-perceptions-genai-computing]] — Perceptions transculturelles de l'usage de l'IA générative
-- [[international-students-conversational-ai-adaptation]] — Les étudiants internationaux et l'IA conversationnelle
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED : planification des leçons au Vietnam
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturellement sensible alimenté par l'IA pour la détection du stress et le soutien au bien-être parmi des étudiants universitaires pakistanais, utilisant le TAL et l'apprentissage automatique

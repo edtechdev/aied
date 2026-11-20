@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -79,30 +81,3 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 - **«La supervisión protege la integridad académica.»** **La justificación de integridad no sobrevivió a la prueba más grande.** A lo largo de **cuatro oleadas y 1.760 estudiantes en 105 cursos**, la supervisión **elevó la ansiedad ante el examen (β = 0,60, p < 0,001) pero no tuvo** ningún beneficio detectable en integridad. El efecto medido fue sobre el estudiantado, no sobre las trampas.
 - **«Mejor capacidad de detección significa mejor supervisión.»** Una revisión sistemática de una década sobre **80 estudios revisados por pares (2014-2024)** encuentra que la supervisión avanzada con aprendizaje automático y profundo **detecta las trampas con más** precisión y no dice nada sobre si desplegarla cambia la conducta. El rendimiento de detección es una propiedad del clasificador, no del régimen de evaluación.
 - **«Las señales conductuales son indicadores fiables de mala conducta.»** Los sistemas **siguen diecisiete puntos anatómicos por fotograma** con YOLOv11 para derivar características de **desviación postural, tendencia de la cabeza y movimiento de la parte superior del cuerpo**. Esos constructos son proxies, y una postura marcada es una clasificación sobre un cuerpo y no la observación de una transgresión.
-
-## Conceptos conectados
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Artículos conectados
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — La IA portátil elimina la señal conductual de la que depende la supervisión (Corbin, Sharpe y Dawson 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revisión sistemática de una década sobre la supervisión automatizada de exámenes en línea
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Revisión exhaustiva de la deshonestidad académica en la supervisión automatizada
-- [[conijn-fear-big-brother-proctored-exams-2022]] — El miedo al Gran Hermano: efectos secundarios negativos de la supervisión sobre la ansiedad ante los exámenes
-- [[biology-degree-integrity-genai-cheating-2026]] — ¿Puede el estudiantado hacer trampas hasta obtener un título de biología? Estudio de caso de la vulnerabilidad de las notas de los cursos de biología a la deshonestidad académica en la era de la IA generativa
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Bajo vigilancia: trazar las prácticas de supervisión remota en la evaluación del estudiantado de enfermería
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026): el 44,2 % del estudiantado quedó etiquetado de alto riesgo en un examen presencial supervisado, con el riesgo predicho a partir de rastros del LMS de inicio de semestre

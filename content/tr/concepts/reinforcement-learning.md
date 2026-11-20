@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -65,29 +67,3 @@ RL, ajanın tek bir doğru yanıt değil uzun vadeli öğrenmeyi en iyilemek zor
 **“Daha uzun ufuklar yalnızca daha iyidir.”** Daha kısa ufukların yapamadığını olanaklı kılar ve ödülün tüm dizi boyunca doğru olmasını gerektirir. [[residencyrl-clinical-rl-training-2026|ResidencyRL]], eş zamanlı diyalog sistemlerinin ≤12 dönümlük ufuklarının çok ötesinde **60 dönümlük klinik görüşmelerin** tamamını en iyiler; bu, yanlış belirlenmiş bir hedefin maliyetini düşürmek yerine yükseltir.
 
 **“Öğretmenlik sıralı olduğu için RL uygun biçimdir.”** Sıralama gereklidir ve yeterli değildir; bağlayıcı kısıt ödülün geçerliliğidir. İyi belirlenmiş bir hedefe sahip zayıf bir politika, yanlış bir hedefe karşı güçlü bir politikayı geçer.
-
-## Bağlı kavramlar
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan temelli)
-
-## Bağlı makaleler
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: pedagojik öğretim takibi için RLHF
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Bir ITS’de uyarlanabilir ICAP iskelelemesi (BKT karşısında DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

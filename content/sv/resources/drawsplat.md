@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -45,7 +46,3 @@ Lärare och studenter som behöver ett verktyg snabbt och inte kan vänta på en
 
 ## Anteckningar
 Produktsajten namnger ingen enskild författare och hänvisar förfrågningar till en projektinkorg; DrawSplat är byggt av Miguel Guhlin, vars sajt dokumenterar lanseringarna. Koden är fri i licensbemärkelse, inte bara i prishänseende: whiteboarden är GNU AGPL-3.0-or-later och SplatWorks-apparna är GPL-3.0-only, utan licens per säte på elevernas enheter. Verktyg som läser dina filer körs lokalt i webbläsaren, medan molnlagring och varje förfrågan om fortbildning faktiskt skickar data, så kontrollera sidan med lagringsinventeringen innan du använder det med elevarbete.
-
-## Anslutna begrepp
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -126,37 +128,3 @@ Bernstein 与 Sibia（2026）显示，[[generative-ai|GenAI]] 生成的类比引
 - **"呈现证据就能纠正教师的误解。"** 在一项对 **123 名意大利教育者**的试点中，分歧最集中地聚集在**认知学习风格（78% 的教师为视觉/听觉匹配辩护）**、包容与小组合作（68%）以及 EdTech 过载（54%）上。最强的分歧正是最抗拒证据的那些，这就是为什么[[refutation-text|驳斥文本]]胜过断言。
 - **"教师对证据的异议都是抵抗。"** 当同样的条目通过一个**在重新引入证据之前先验证教师处境的**会话式 AI 交付时，**41% 的异议涉及真实的情境约束**：班级规模、特殊需求、课程要求。看似误解的相当一部分，其实是准确的异议。
 - **"误解可以从对话中被可靠地检测出来。"** **在 241 个被提示的片段中，221 个（91.7%）经专家多数投票被确认为战略性误解（Fleiss' κ = 0.9487）**，且各组之间**无显著差异**。高可靠性在专家裁定的条件下是可以达到的，而这正是该主张所依赖的条件。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 直面一个被持守信念的概念转变序列
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## 关联文章
-
-- [[rudolph-ai-myths-critical-higher-ed]] — 别信炒作：八个 AI 迷思与高等教育中批判性方法的必要
-- [[student-rationalization-ai-writing]] — 学生对 AI 写作的合理化
-- [[genai-skill-bypass-literacy]] — GenAI 技能绕过与素养
-- [[trust-reliance-ai-education-2026]] — AI 教育中的信任与依赖
-- [[contextual-sycophancy-ai-literacy]] — 情境性谄媚与 AI 素养
-- [[sycophantic-ai-social-interaction-2026]] — 社会互动中的谄媚 AI
-- [[llm-fallacy-misattribution]] — LLM 谬误归因（Kim et al.）
-- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但令人难忘：计算教育中学生对兴趣个性化 GenAI 类比的批判性接受
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：流畅、权威却在概念上而非事实上错误的解释（Miličević et al. 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 提交文件中的隐藏指令可在无可见警告的情况下抬高 AI 评分（Humble 2026）
-- [[children-ai-safety-misconceptions-2026]] — 儿童的 AI 安全误解：与机器人的友谊被误读为隐私保证（Leisten et al. 2026）
-- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）

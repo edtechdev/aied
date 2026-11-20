@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -105,56 +107,3 @@ ai_assist:
 - **«Ένα [[llm|LLM]] μπορεί να χαρτογραφήσει ένα πρόγραμμα σπουδών μόλις επικυρωθεί με υψηλή αξιοπιστία.»** Το GPT-o3-mini κατένειμε **100% σε επτά δεξιότητες επιχειρήσεων για καθεμία από 48 αξιολογήσεις**, φτάνοντας σε **άλφα Krippendorff 0.81** έναντι σταθμίσεων ειδικών — και η **συμφωνία** κατέρρευσε σε συγκεκριμένες δεξιότητες. Υψηλή συνολική αξιοπιστία με άνιση συμφωνία είναι το μοτίβο που πρέπει να ελέγχεται πριν εμπιστευτεί κανείς τη χαρτογράφηση.
 - **«Η ενσωμάτωση της επάρκειας σε ΤΝ σημαίνει προσθήκη μαθήματος.»** Το LearnAI δείχνει την ενσωματωμένη μορφή: ένα **στρώμα ευρείας έκθεσης με σύντομες παρουσιάσεις μέσα σε 18 υπάρχοντα μαθήματα σε πέντε επιστημονικά αντικείμενα (293 φοιτητές)**. Η έκθεση κατανεμήθηκε σε όλο το πρόγραμμα σπουδών αντί να συγκεντρωθεί σε μια ενότητα.
 - **«Οι μαθητές φτάνουν ήδη ικανοί να αξιολογούν κριτικά τα μέσα.»** Μόνο το **13.8% των ερωτηθέντων φοιτητών εκπαίδευσης και δημοσιογραφίας** δήλωσαν ότι τα μαθήματά τους κάλυπταν την κριτική ανάλυση των μέσων, έναντι **97.8% που τη θεωρούσαν σημαντική**. Το χάσμα μεταξύ της εκτίμησης μιας δεξιότητας και της διδασκαλίας της είναι το άνοιγμα για το πρόγραμμα σπουδών.
-
-## Συνδεδεμένες έννοιες
-- [[pedagogical-partnerships]] — Παιδαγωγικές συνεργασίες
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Ομπρέλα: παιδαγωγικές και διδακτικές στρατηγικές στην εκπαίδευση με ΤΝ
-- [[recommender-systems-and-learning-paths]]
-
-## Συνδεδεμένα άρθρα
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Σταθμισμένη, επικυρωμένη από ειδικούς χαρτογράφηση δεξιοτήτων για την πιστοποίηση
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Κριτική ανάλυση λόγου της καθοδήγησης για GenAI και εποικοδομητική ευθυγράμμιση (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Αντιμετωπίζοντας την εμπιστοσύνη στα συστήματα ΤΝ μέσω της εκπαίδευσης: μια διδακτική προοπτική
-- [[refrain-amplify-genai-curriculum-2026]] — Πλαίσιο προγράμματος σπουδών συγκράτησης-και-ενίσχυσης για την αλληλουχία της GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Πρόγραμμα σπουδών ΤΝ βασισμένο σε έργο στη θερμική μηχανική
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Πλαίσιο Επιπέδου Ετοιμότητας Εργατικού Δυναμικού για την έξυπνη μεταποίηση στην εποχή της ΤΝ
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Ξαναγράφοντας το πρόγραμμα σπουδών: παιδαγωγική αλλαγή με κινητήρα τη GenAI
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Πλαίσιο Δεξιοτήτων ΤΝ: 26 αξιολογήσιμες δεξιότητες για χαρτογράφηση προγράμματος σπουδών
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Συν-δημιουργία με ΤΝ στον κατάλληλο χρόνο σε όλα τα επιστημονικά αντικείμενα
-- [[ai-video-dual-gatekeeping-2026]] — Όταν το «όχι» κάνει καλύτερα βίντεο: διπλός έλεγχος για παιδαγωγικά εδραιωμένη δημιουργία περιεχομένου με ΤΝ
-- [[niri-steam-ai-literacy-review-2026]] — Εκπαίδευση STEAM για την επάρκεια σε ΤΝ: συστηματική ανασκόπηση
-- [[caruana-pre-university-ai-education-slr-2026]] — Προετοιμάζοντας μαθητές και εκπαιδευτικούς για ένα μέλλον με ΤΝ: συστηματική ανασκόπηση της προπανεπιστημιακής εκπαίδευσης στην ΤΝ (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Πλατφόρμα με ΤΝ που παράγει προβλήματα μαθηματικής μοντελοποίησης (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — ΤΝ στην εκπαίδευση σωματιδιακής φυσικής: ερευνητικά προβλήματα και θεμελιώδεις δεξιότητες
-- [[computing-assessment-genai-workshop-report-2026]] — Η ΤΝ μπορεί να κάνει την εργασία σου για το σπίτι. Και τώρα; Αναφορά από διαδικτυακό εργαστήριο για την αξιολόγηση στην πληροφορική στην εποχή της γενετικής ΤΝ
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - τα πλαίσια ικανοτήτων συγκλίνουν σε πέντε διαστάσεις χωρίς κοινό λεξιλόγιο ή αντιστοίχιση
-- [[bursic-ai-residency-education-curriculum-2026]] — Εμπόδια στην ενσωμάτωση της ΤΝ στα προγράμματα σπουδών ειδικότητας: ποιοτικές συνεντεύξεις με δώδεκα ηγέτες ιατρών

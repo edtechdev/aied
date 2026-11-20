@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,6 +44,3 @@ El proyecto es deliberadamente agnóstico respecto al modelo. Documenta en paral
 ## Notas
 
 El software es gratuito y de [[open-source|código abierto]] bajo la licencia MIT para su código original, aunque los componentes de terceros conservan sus propios términos, y ejecutarlo implica pagar su propia inferencia de modelo si usa un modelo alojado. El proyecto se etiqueta a sí mismo como una beta revisada por docentes y dice sin rodeos en su README que superar su CI no demuestra calidad docente con modelos en producción, que es la forma correcta de leer un conjunto de pruebas en verde en este ámbito: verifica el software, no la [[pedagogy|pedagogía]]. Lo mantiene MacxLabs y acepta lecciones de muestra revisadas por docentes como contribuciones.
-
-## Conceptos conectados
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

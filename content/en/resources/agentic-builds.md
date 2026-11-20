@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-11-13"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 **Agentic Builds** is Marc Watkins's open shelf of classroom apps built in conversation with a coding agent — thirty-five of them gathered in the Grove Lab gallery, each one starting from a teaching problem and shipping with its own AI disclosure.
@@ -39,7 +40,3 @@ Instructors and [[learning-design|instructional designers]] who want a worked ex
 ## Notes and caveats
 
 The builds are described as shared openly, but no license is stated on the builds or gallery pages, so reuse needs the author's permission rather than an assumed grant. The source is public, though — the account's repositories hold the HTML and JavaScript behind the builds, plus a tutorial for working with coding agents in education, so a reader can inspect an app rather than only run it. Several links point at Netlify deploy-preview addresses rather than a project site; those are built for review and can expire, while the GitHub Pages builds are the stable ones. Some builds depend on TypeSafe AI's Jev model and show its probabilities, so the underlying behavior is a model's judgment rather than a fixed rule. The desirable-difficulties pathway is an argument — friction as a feature — and the page presents it without reporting an evaluation of whether students learn more.
-
-## Connected Concepts
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

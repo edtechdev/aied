@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -78,32 +80,3 @@ ai_assist:
 - **"감독은 학문적 진실성을 보호한다."** **그 진실성 근거는 가장 큰 검증에서 살아남지 못했습니다.** **네 차례 조사와 105개 과목의 학생 1,760명**에서 감독은 **시험 불안을 높였지만(β = 0.60, p < 0.001)** 탐지 가능한 진실성 이득은 **없었습니다**. 측정된 효과는 부정행위가 아니라 학생에게 나타났습니다.
 - **"탐지 능력이 좋아지면 감독도 좋아진다."** **80개 동료 심사 연구(2014-2024)**에 대한 10년 규모의 체계적 검토는 고급 ML/DL 감독이 부정행위를 **더 정확히 탐지**한다는 것만 보여 주며, 그것을 배치하는 것이 행동을 바꾸는지에 관해서는 아무 말도 하지 않습니다. 탐지 성능은 분류기의 속성이지 평가 체제의 속성이 아닙니다.
 - **"행동 신호는 위반의 신뢰할 만한 지표다."** 시스템은 YOLOv11로 **프레임마다 열일곱 개의 신체 랜드마크**를 추적하여 **자세 편차, 머리 추세, 상체 움직임** 특징을 도출합니다. 그 구성개념들은 대리 지표이며, 표시된 자세는 위반의 관찰이 아니라 신체에 관한 분류입니다.
-
-## 연결된 개념
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 웨어러블 AI는 감독이 의존하는 행동 신호를 제거한다 (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — 자동화된 온라인 시험 감독의 10년간 체계적 리뷰
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 자동 감독에서의 학업 부정행위에 관한 종합 리뷰
-- [[conijn-fear-big-brother-proctored-exams-2022]] — 빅 브라더에 대한 두려움: 감독의 시험 불안에 대한 부정적 부작용
-- [[biology-degree-integrity-genai-cheating-2026]] — 학생들이 생물학 학위를 속여서 딸 수 있는가? 생성형 AI 시대의 생물학 강좌 성적 학업 부정행위 취약성 사례 연구
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 감시 아래에서: 간호 학생 평가의 원격 감독 실천 매핑
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 학기 초 LMS 흔적으로 예측된 위험과 함께 대면 감독 시험에서 고위험으로 분류된 44.2%의 학생

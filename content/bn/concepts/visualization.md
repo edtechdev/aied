@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -64,24 +66,3 @@ ai_assist:
 - **"ভালো ভিজ্যুয়ালাইজেশন ভালো ফল দেয়।"** শিক্ষকেরা **পদ্ধতিগতভাবে সরল, বেশি ঐতিহ্যবাহী ভিজ্যুয়ালাইজেশন পছন্দ করেছেন** (বার প্লট, পাই চার্ট, লেজেন্ড) **এমনকি যখন হিটম্যাপের মতো জটিল নকশা বেশি বিস্তারিত অন্তর্দৃষ্টি দিয়েছে**। বেশি তথ্যবহুল নিদর্শনটিই ব্যবহৃত হয়নি, তাই গ্রহণ নকশা-মান থেকে আলাদা সমস্যা।
 - **"শিক্ষার্থীরা যেখানে স্ক্যাফোল্ড সেখানে তাকায়।"** একটি গবেষণা দেখে শিক্ষার্থীরা **বিস্তারিত ভিজ্যুয়াল স্ক্যাফোল্ড সত্ত্বেও দৃষ্টির বড় অংশ কোডে ব্যয় করেছে** — সহায়তাগুলো কেবল মনোযোগ টানেনি। উপস্থিত কিন্তু অ-নজরকৃত ভিজ্যুয়াল সহায়তা কিছুই বদলায় না।
 - **"সম্পৃক্তি ও বোধগম্যতা একসঙ্গে চলে।"** অংশগ্রহণকারীরা এআই-উৎপন্ন ডেটা কমিক **বেশি আকর্ষণীয় ও বোধগম্য পেয়েছেন, তবু অনেকেই ভুলতথ্যের ঝুঁকি ও তথ্য-অতিরেকের কথা তুলেছেন**। দুই প্রতিক্রিয়াই একই নিদর্শন থেকে এসেছে, তাই ইতিবাচক অভ্যর্থনা যাচাইকৃত পাঠ নয়।
-
-## সংযুক্ত ধারণা
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — স্থানিক ও ত্রিমাত্রিক উপস্থাপনা
-
-## সংযুক্ত নিবন্ধ
-
-- [[interactive-learning-dashboards-engagement]] — শিক্ষাদানমূলক এজেন্টের মাধ্যমে শিখন-ভিজ্যুয়ালাইজেশনকে সম্পৃক্ততা-সরঞ্জাম হিসেবে পুনর্ভাবনা
-- [[mllm-scientific-visualization-literacy]] — বৈজ্ঞানিক ভিজ্যুয়ালাইজেশন-সাক্ষরতায় বহুরূপী LLM-এর বেঞ্চমার্কিং
-- [[nuclear-diffusion-text-to-image-learning-2026]] — পারমাণবিক ধারণা-ভিজ্যুয়ালাইজেশনের জন্য ডোমেইন-অভিযোজিত টেক্সট-টু-ইমেজ মডেল
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — এআই-সহায়ক ডেটা কমিকের কার্যকারিতা, সুবিধা ও নীতিশাস্ত্র
-- [[cfes-p24-multimodal-slide-auditing-2026]] — বহুরূপী স্লাইড নিরীক্ষার পাল্টা-তথ্য বেঞ্চমার্ক
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — মিশ্র শ্রেণিকক্ষে শিক্ষকদের জন্য ML ফলাফল সহজলভ্য করা
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

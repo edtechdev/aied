@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -88,25 +90,3 @@ ai_assist:
 **"व्यवहारवादी डिज़ाइन रचनावादी डिज़ाइन से सीधे हीन हैं।"** वे विशिष्ट लक्ष्यों पर अच्छी तरह बैठते हैं: प्रवाह, तथ्यात्मक स्मरण, प्रक्रियात्मक स्वचालितता, जहाँ तत्काल फीडबैक और पुनरावृत्ति वास्तव में कार्य की माँग है। त्रुटि यांत्रिकी में नहीं है; त्रुटि ऐसी यांत्रिकी का उपयोग करने में है जिसकी वैधता-शर्त (शिक्षार्थी ही प्रतिक्रिया उत्पन्न करे) चुपचाप लागू होना बंद हो चुकी है।
 
 **"क्योंकि सिद्धांत बदनाम है, उस पर बनी प्रणालियों को केवल परिणामों से आँका जा सकता है।"** परिणाम ठीक वही हैं जिन्हें आउटपुट तुल्यता भ्रष्ट करती है। कोई प्रणाली उत्कृष्ट व्यवहारगत परिणाम रिपोर्ट कर सकती है जबकि सीखना कहीं और चला गया हो, इसलिए व्यवहारवाद-प्रभावित प्रणालियों को किसी भी अन्य प्रकार से अधिक बिना-सहायता वाले माप की आवश्यकता है।
-
-## संबंधित अवधारणाएँ
-
-- [[constructivist]]
-- [[cognitive-psychology]] — संज्ञानवाद, शिक्षण सिद्धांत का तीसरा शास्त्रीय ध्रुव
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## संबंधित लेख
-
-- [[ai-vocational-education-training-review]] — व्यवहारवादी AI डिज़ाइन उद्दिष्ट रचनावाद के बावजूद VET अभ्यास में प्रमुख हैं; "ट्यूरिंग ट्रैप"
-- [[generativism-learning-theory]] — चार प्रमुख सिद्धांतों में व्यवहारवाद, जिनके पुनर्विचार के लिए जनरेटिव AI प्रेरित कर रहा है
-- [[ccct-cooperative-learning-technique]] — उच्च शिक्षा के लिए सहयोगी-सीखाई डिज़ाइन में उल्लिखित व्यवहारवाद
-- [[sequenced-ai-feedback-learning]] — 199-प्रतिभागी यादृच्छिक प्रयोग में क्रमबद्ध संकेत-प्रतिपुष्टि तत्काल पूर्ण-समाधान प्रतिपुष्टि से पीछे रही
-- [[wang-multi-agent-systems-learning-designers-2025]] — सहयोगी बहु-एजेंट डिज़ाइन दृष्टिकोणों में व्यवहारवादी व्यक्तित्व

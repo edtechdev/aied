@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -43,7 +44,3 @@ Odgovara nastavnicima i dizajnerima učenja koji žele ograničene interakcije k
 ## Napomene i upozorenja
 
 Besplatni je paket ograničen na 10.000 AI kredita i tri aplikacije; neograničene aplikacije i napredni modeli počinju na paketu Pro, a LTI integracija, jedinstvena prijava i napredna analitika navedeni su na paketu Enterprise, pa su značajke koje ustanovi najviše trebaju upravo one koje imaju cijenu. Repozitorij je prema datoteci `LICENSE` licenciran **AGPL-3.0**, što je važno svakome tko ga namjerava sam hostati ili mijenjati, a njegov README još navodi LGPL od prije te promjene, pa čitajte datoteku licencije, a ne README. Ustanove bi trebale potvrditi i vlastite uvjete obrade podataka prije nego studentski rad usmjere kroz hostanu uslugu treće strane.
-
-## Povezani pojmovi
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

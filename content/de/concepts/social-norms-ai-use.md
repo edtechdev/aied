@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -109,39 +111,3 @@ Die Kosten dieser Substitution zeigen sich darin, wo Lehrende und Studierende ta
 **„Überwachung würde die Norm klären, indem sie Nutzung sichtbar macht.“** Verhalten sichtbar zu machen löst nicht, was die Norm sein sollte; es verändert, was Menschen bereit sind offenzulegen. Das gemessene Muster ist bereits selektive Offenlegung, sodass ein darauf angewandtes Überwachungsregime das Verbergen misst statt das Verhalten.
 
 **„Normen sind informell und damit institutionell unerreichbar.“** Sie werden lokal durchgesetzt und sind lokal veränderbar, was sie handhabbarer macht als Richtlinien: die explizite Praxis eines Kursteams ist gerade deshalb ein Hebel, weil dort die operative Regel gesetzt wird.
-
-## Verbundene Konzepte
-
-- [[academic-integrity]] — das formale Regelbuch, neben dem diese Normen wachsen
-- [[ai-use-disclosure]] — die Praxis, die Normen am direktesten regulieren
-- [[framing-ai-use-for-students]] — wie ein Klassenzimmer seine Erwartungen formuliert
-- [[reducing-ai-misuse]] — das unterrichtliche Gegenstück zur Normsetzung
-- [[learner-identity]] — wer eine lernende Person gilt, wenn KI-Nutzung sichtbar wird
-- [[ai-detection]] — die technische Antwort, die meistens scheitert
-- [[remote-proctoring]] — Überwachung als versuchter Ersatz für Normen
-- [[trust]] — worauf sowohl Normen als auch Offenlegung aufbauen
-- [[equity-in-ai-education]] — wer die sozialen Kosten absorbiert
-- [[help-seeking]] — das Verhalten, das Scham zuerst unterdrückt
-- [[group-work]] — wo Gruppennormen ausgehandelt werden
-- [[student-experience]] — die gelebte Seite von all dem
-- [[anxiety-and-stress]] — der affektive Rest
-- [[governance]] — die formale Schicht, unter der diese Normen sitzen
-- [[ethics]] — die Literatur, die Studierenden am wenigsten zu sagen hat
-
-## Verbundene Artikel
-
-- [[student-perception-ai-use-collaboration]] — Wahrnehmungsgenauigkeit der KI-Nutzung von Partnern und ihr Zusammenhang mit der Kollaborationsleistung
-- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung in der Informatikausbildung
-- [[chirikov-regulate-ai-syllabi-2026]] — Wie Lehrende KI im College regulieren: Evidenz aus 31.000 Kurssyllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Der KI-Schuldkomplex: moralische Emotionen und ethische Dilemmata bei der Übernahme akademischer Technologie
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für künstliche Intelligenz in der Bildung identifizieren
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Die Angst vor Big Brother: die möglichen negativen Nebenwirkungen von beaufsichtigten Prüfungen
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Unter Überwachung: Fern-Proctoring-Praktiken im Pflegeassessment kartieren
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment-Design unter unvollkommener Information: generative KI, Offenlegung und Reaktion der Studierenden
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Das Undetektierbare aufdecken: Verfahren bei Fehlverhalten nach generativer KI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Schummeln oder mithalten? KI in der Marketingausbildung
-- [[chen-zou-genai-group-assessment-agency-2026]] — Handlungsfähigkeit in GenAI-gestützter Gruppenbewertung
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit-Diskursanalyse: Fakultäts-Studierenden-Kontakt konzentriert sich auf Streit um Detektion und Durchsetzung (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 Studierende im Grundstudium: wahrgenommene Peer-Offenlegung und Komfort mit Lehrenden sagten Offenlegung vor moralischer Distanzierung vorher (Qu & Wang 2026)
-

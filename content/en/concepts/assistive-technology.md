@@ -9,6 +9,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 > **Assistive Technology** — devices, software, and services that help people with disabilities perceive, operate, communicate, and participate in learning and daily life. In [[ai-education|AI in education]], assistive technology spans screen readers, speech-to-text and [[speech-and-voice-technologies|text-to-speech]], captioning, braille and tactile output, sign-language tools, and increasingly AI-powered accommodations that adapt content and interaction to individual needs.
@@ -50,27 +52,3 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - **"A medium effect size identifies the right tool."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] find AI-based interventions yield a medium positive effect on learning outcomes for students with disabilities (**g = 0.588**) across robots, software and intelligent VR. That is an average over very different technologies serving very different needs, so it supports the category and not a choice within it.
 - **"Diagnosis-gated access is a defensible design."** Requiring a formal diagnosis to participate excludes learners with real needs and no label, which conflicts with [[universal-design-for-learning|universal design]] and pushes the cost of access onto the student's documentation.
 - **"More assistive tools means more inclusion."** A scoping review screened **766 records** across five databases, and volume of output is not the same as coverage of need — the count of studies per barrier is the more informative figure.
-
-## Connected Concepts
-
-- [[accessibility]] — the design property that assistive technology operationalizes
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Connected Articles
-
-- [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first AI for visually impaired children
-- [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
-- [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

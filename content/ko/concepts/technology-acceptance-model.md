@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,11 +48,9 @@ Davis (1989)가 제안한 TAM은 두 핵심 신념 — **인지된 유용성(PU)
 ### UTAUT / UTAUT2 / UTAUT3
 **통합 기술 수용 및 사용 이론**은 TAM을 기존 여덟 모형과 통합하여 네 핵심 결정요인 — 성과 기대, 노력 기대, 사회적 영향, 촉진 조건 — 으로 압축합니다(UTAUT2는 쾌락적 동기, 가격 가치, 습관을 더하고; UTAUT3는 개인 혁신성을 더합니다). 이 지식베이스는 교사와 학생 집단에 UTAUT를 적용합니다. [[mathematics-teachers-chatbot-motivation-2026|오스트리아 중등 수학 교사]](448명 교사를 대상으로 한 UTAUT), [[pre-service-science-teachers-ai-perceptions-2026|가나의 예비 과학 교사]](UTAUT + TPB), [[tian-genai-learning-adoption-pathways-2026|레소토의 학생들]](UTAUT3 + ARCS, PLS-SEM과 fsQCA 사용). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]]는 522명의 대학생을 대상으로 UTAUT2를 설명 가능한 AI(Random Forest, SHAP, NCA, IPMA, K-Means)로 확장하여, **습관**이 ChatGPT 사용 의도의 가장 강한 예측변수임을 발견하고 **노력 기대가 선형적 동인이 아니라 필요 조건**임을 보여 줍니다. 이 결과는 XAI가 회귀분석을 보완할 때에만 보입니다.
 
-
 **이미 도입한 표본에서는 습관이 모형을 떠받치고 기대 요인들은 조용해집니다.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]]는 라틴 아메리카 두 대학의 [[business-education|마케팅 학생]] 310명을 대상으로 UTAUT2를 검증했습니다. 습관은 의도를 β = 0.426, 사용을 β = 0.412로 예측했고, 의도는 사용을 0.324로 예측했습니다. 성과 기대(0.037), 노력 기대(0.054), 사회적 영향(0.048)은 유의하지 않았으며, 모형은 의도의 R² = 0.665와 사용의 0.707을 설명했습니다. 저자들은 이 무효 경로를 이미 도구를 도입한 집단에서의 변량 제한으로 읽습니다. 결과 변수는 기록된 행동이 아니라 [[self-report-measures|자기보고]] 사용입니다.
 
 **저자원 환경에서는 사회적 영향이 아니라 불안이 정서 경로를 떠받쳤습니다.** 가나의 인문학 학부생 350명을 대상으로 한 UTAUT 확장 연구는 성과 기대가 의도의 가장 강한 예측변수(β = 0.377), 노력 기대가 두 번째(β = 0.281)임을 발견했고, 사회적 영향은 무효(β = −0.038)였으며, 디지털 학습 불안은 β = −0.281이었습니다([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). 노력 기대는 불안도 낮췄으므로(β = −0.126), 사용 용이성은 부분적으로 불안을 낮춤으로써 작동했습니다.
-
 
 ### 계획된 행위 이론 (TPB)
 TPB는 태도, 주관적 규범, 인지된 행동 통제를 통해 의도를 설명합니다. AI 도입 연구에서 TAM/UTAUT와 자주 짝을 이룹니다. 예를 들어 [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]]는 TAM, TPB, UTAUT, FATE([[bias-mitigation|공정성]], 책임성, 투명성, 윤리) 틀을 통합하여 학생의 ChatGPT 도입 행동 및 [[ethics|윤리]] 동인을 모형화합니다.
@@ -116,70 +116,10 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 
 위험과 사용의 연결은 체계에 따라서도 다릅니다. 해당 문항을 시행한 TALIS 2024 체계 49개에 걸쳐, 인지된 AI 유용성은 49개 모두에서 AI 사용에 양으로 연관되었으나, 인지된 위험은 40개에서는 음으로, 9개에서는 양으로 연관되었습니다([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
-
 **성과 기대는 수용 연구가 사용 의도로 읽는 관계를 대신 실어 나를 수 있습니다.** [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]]에서 성과 기대는 AI 과신을 B = 0.6107로 예측했으며, 자기효능감, 내적 동기, [[motivation|외적 동기]]가 과신에 이르는 첫 번째 매개변수였습니다. 기대만을 통한 간접 경로는 세 예측변수 모두에서 양이었고, 자기효능감의 경우 0.1355(95% CI [0.0542, 0.2330])였으므로, 기대는 학생들이 도구를 쓸지 여부만을 예측한 것이 아닙니다.
-
 
 ## 흔한 오해
 
 - **"TAM의 구성개념이 도입을 설명한다."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]]은 방글라데시 공학 학생을 위해 TAM을 UTAUT와 통합하여 분산의 **64%**를 설명했습니다. 충분하면서 동시에 불완전합니다. 도입을 추동하는 것의 약 3분의 1은 고전적 수용 구성개념 밖에 있습니다.
 - **"수용 모형은 도메인 수정이 필요 없다."** **인지된 인공 자율성**(교사들이 GenAI가 부여된 교수 과업을 얼마나 독자적으로 수행할 수 있다고 믿는지)과 **위험 회피**를 고전 구성개념에 더하자 모형이 실질적으로 달라졌습니다. 원래 구성개념은 행위성이 없는 도구를 위해 만들어졌지만, GenAI는 지각된 행위성을 지닙니다.
 - **"메타분석적 도입 추정치는 어떤 모집단을 설명한다."** [[teo-ai-adoption-tertiary-meta-analysis-2026|고등교육 학생의 메타분석]]은 모집단 수준 추정치이고, 64%를 설명한 공학 결과는 특정 모집단입니다. 하나를 다른 하나에 이식하는 것은 증거가 확립하지 않은 안정성을 가정합니다.
-
-## 연결된 개념
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## 연결된 문서
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — AI 아바타를 위한 TAM + DOI: 투명성 → 신뢰(β = 0.542), 상대적 이점과 유용성이 의도를 실어 나른다
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — "적이자 친구"로서의 GenAI: 인공 자율성과 위험 회피가 교사를 위한 TAM을 확장하다 (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 간호학의 AI 경험; TAM의 심리사회적 확장
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 군집화를 통한 GenAI 도입 페르소나
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI 도입의 대칭적·비대칭적 경로 (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — 성별과 동기에 따른 차별적 GenAI 관여
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 고등교육에서 조직적 AI 도입의 TOE + DOI 모형
-- [[tam-critical-use-genai-engineering-2026]] — 공학/CS 학생을 위한 비판적 사용으로 확장한 TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 공학 교육을 위한 통합 사회인지 모형 (TAM + UTAUT)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI 불안에서 전략적 규제로
-- [[genai-reliance-types-scale]] — GenAI 의존 유형 척도
-- [[llm-reliance-types-undergrad]] — 학부생의 LLM 의존 유형
-- [[acceptance-ai-english-tools-2026]] — AI 영어 도구의 수용
-- [[genai-chatgpt-adoption-ethics-students-2026]] — 학생 ChatGPT 도입의 행동 및 윤리 동인
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT와 교사 챗봇 동기
-- [[pre-service-science-teachers-ai-perceptions-2026]] — 가나 예비 과학 교사를 위한 UTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 예비 교사 ChatGPT 수용 프로파일 (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — AI 도입 요인의 메타분석; TAM/UTAUT를 비판한다
-- [[determinants-chatgpt-use-higher-education-2026]] — 고등교육에서 미래 ChatGPT 사용의 ML/SHAP 결정요인
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI 강화 UTAUT2: 가장 강한 예측변수로서의 습관, 도입 프로파일 네 개 (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 연령 계층형 AI 리터러시 안내서의 자료 수준 PE/EE/재미/의도 모형으로, 재미-의도 구성개념 중첩이 문서화됨
-- [[risk-perception-genai-perceived-benefits-2026]] — TAM/UTAUT2에 접목된 CAT + PMT: 인지된 GenAI 혜택에 대한 차원 특정적이고 비단조적인 위험 효과 (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — 계획된 행위 도입 모형에 TPACK 역량을 덧대는 것에 대한 질서 있는 대안
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49개 체계에 걸친 인지된 AI 유용성과 위험의 사람 중심 TALIS 2024 프로파일
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI 보조 학습 미루기와 의도-지연 연결에 대한 불안의 조절 효과를 측정한 TPB 확장
-- [[high-school-genai-acceptance-tam-physics-2026]] — 교과 특정 신념을 TAM 지각의 상류에 놓기
-
-- [[kim-overtrust-ai-literacy-2026]] — 성과 기대가 동기와 자기효능감에서 AI 과신으로 가는 경로를 매개했다
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — 자기효능감과 수용 사이의 매개자로서의 AI 리터러시, 그리고 보정되지 않은 불안 연관 (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — 과업–기술 적합성과 결합한 TAM, 신경망 중요도 순위와 필요 조건 임계값 (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM 신념의 상류에 있는 설계 특징, 그리고 필요성이 아닌 중요도
-- [[pinedo-genai-adoption-marketing-students-2026]] — 이미 도입한 집단에서 습관이 UTAUT2를 떠받친다
-
-- [[stalboerger-faculty-perceptions-2026]] — 교수진 22명, 후속 12명: 익숙해짐이 일부에게는 윤리적 검토를 강화해 사용 용이성의 방향을 뒤집었다(Stalboerger 등 2026)
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 토론 게시판에 대한 학생 인식: AI 기반 학습 분석 설계를 위한 기술 수용 모형 연구
-- [[ai-conversational-interfaces-information-seeking-2026]] — 챗봇은 웹사이트보다 프로그램 질문에 빠르고 정확하게 답했다. 답이 특정 연락처인 경우는 제외
-

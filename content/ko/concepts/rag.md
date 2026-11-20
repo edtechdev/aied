@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -54,7 +56,6 @@ ai_assist:
 - **배포 작업은 색인 큐레이션과 범위 설정입니다.** Gupta와 동료들(2026)은 명확한 메타데이터를 갖춘 자료를 업로드하고, 답변을 강좌 지식베이스 안에 머물게 하는 범위의 페르소나 프롬프트를 설정하여 강좌 어시스턴트를 구성했으며, 개방형 질문에 답한 294명의 사용자 중 54%에게 부정확성이 가장 큰 우려였습니다([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta 외(2026)]]).
 - **수집 시점 구조 대 질의 시점 검색:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]]는 동일한 DS3001 [[machine-learning|기계학습]] 강좌 코퍼스를 출처 인용을 담은 상호 참조 위키 개념 페이지 일곱 개로 편집하여, 청킹-임베딩 검색 방식으로 조율된 벡터 RAG 기준선과 대비했습니다. 사람이 작성한 질문 59개에 걸쳐, 편집된 위키가 조율된 색인을 능가했고(10점 만점에 9.95 대 9.05, 차이에 대한 부트스트랩 신뢰구간이 0을 배제), 답변자가 실제로 본 자료에 더 자주 근거했으며(98% 대 81%), 두 격차 모두 한 페이지를 넘는 자료가 필요한 질문에서 대략 세 배로 벌어졌습니다(페이지 간 점수 9.93 대 8.14, 이때 RAG의 근거율은 87%에서 64%로 떨어짐). 근거 짓기 격차는 검색 실패가 아니었습니다. 벡터 RAG의 근거 없는 답변 11개 중 2개만이 검색 미스였고, 나머지 9개는 관련 발췌문이 문맥에 있으면서도 뒷받침되지 않는 세부 내용을 덧붙였는데, 이는 수집 시점의 구조가 접근만이 아니라 정교화를 제약한다는 증거입니다.
 
-
 - **학생의 말 대신 요약으로 검색하기(LC-RAG).** 협력적 대화는 지식베이스와 의미적 연결이 없는 경우가 많습니다. 학생들이 "그 위치 블록을 저기에 놓아"라고 말하므로, 대화만 사용하는 검색기는 무관한 청크를 반환하며, 저자들의 예시는 물리와 컴퓨팅 교과서에서 끌어온 1990년대 만화에 관한 구절입니다. 로그 맥락화 RAG는 LLM이 각 작업 구간을 대화와 환경 로그(어떤 모형 구성 요소를 편집 중인지)로 요약하게 한 뒤, 그 요약으로 검색합니다. 216개의 협력적 모델링 구간과 GPT-4o가 판정한 다섯 임베딩 모형에서, 네 모형에서 대화 기준선을 이겼고(승률 0.403에서 0.620), 더 좁은 청크 집합을 검색했습니다(7,386개 중 267개에 대해 167개 고유). 한 모형에서는 요약이 일반 교과서 코퍼스보다 과제에 더 특정해져서 졌습니다. 질의 범위와 코퍼스 범위는 의도적으로 맞추어야 합니다([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ## RAG 대 파인튜닝
@@ -67,37 +68,3 @@ RAG는 [[llm]] 파인튜닝과 보완적 역할을 합니다. 검색은 재훈�
 - **"검색 품질이 문제의 전부다."** 검색은 필요하지만 충분하지 않습니다. 근거 기반 응답은 **10점 만점에 9.05**였고 차이에 대한 부트스트랩 신뢰구간이 0을 배제했으며, **답변자가 실제로 본 자료에 더 자주 근거했습니다(98% 대 81%)**. 따라서 측정된 이득은 증거에 대한 충실성에 있으며, 그 충실성이 의미를 가지려면 증거 자체가 올바라야 합니다.
 - **"한 페이지 검색이 일반화된다."** 두 격차 모두 **한 페이지를 넘는 자료가 필요한 질문에서 대략 세 배로 벌어졌습니다**(페이지 간 점수 9.93 대 더 낮은 기준선). 다문서 추론은 근거 기반 시스템이 약해지는 지점이며, 바로 그곳에서 강좌가 가장 어려운 질문을 던집니다.
 - **"검색이 검토의 필요성을 없앤다."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]]은 사람에게 묻기를 주저하는 학생을 돕기 위해 단일 모듈의 승인 자료에서 검색합니다. 이는 방어 가능한 범위입니다. 좁고 승인된 코퍼스가 근거 짓기를 의미 있게 만들며, 라벨만으로는 그렇지 않습니다.
-
-## 연결된 개념
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모형, LLM 훈련, 로보틱스, RAG, 에이전트)
-
-## 연결된 문서
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — 개방형 교육 자료 생성을 위해 RAG를 갖춘 로컬 AI를 사용하는 물리 교육 접근법 (Beznosko 외, 2026)
-- [[hughes-rag-ai-feedback-implementation-2026]] — 두 대학원 코호트에서 RAG가 지각된 피드백 품질과 유용성은 높였지만 실행 가능성은 높이지 못함
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: 이론적 컴퓨터 과학 교육을 위한 검색 증강 생성 — 알고리즘 분석과 복잡도 이론을 위한 종합적 평가 틀
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 학업 지원의 장벽 낮추기: 고등 교육의 도움 요청 격차를 다루는 강좌 특화 RAG 시스템 평가
-- [[wiki-llm-indexing-ml-classes-2026]] — 위키 LLM 인덱싱을 활용한 기계 학습 강좌의 학습 향상 가능성
-- [[on-premises-rag-tutoring-business-education-2026]] — 비즈니스 교육을 위한 온프레미스 다강좌 RAG 튜터링
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 시간 절약이 일반 챗봇을 넘지 못한 커리큘럼 근거 수업 보조 도구
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 배포 작업으로서의 색인 큐레이션과 검색 범위
-- [[ai-multifactorial-virology-lab-teaching-2026]] — 바이러스학 실험에서 지식 그래프와 그래프 근거 어시스턴트, 적응적 라우팅의 결합: 이론 시험 +11.4점, d = 1.39

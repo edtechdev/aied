@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -85,28 +87,3 @@ I metodi di rete sono utilizzati in tutta la base di evidenze della knowledge ba
 - **"L'analisi delle reti è oggettiva perché è computazionale."** **La codifica è il fondamento**: tutte le varianti di rete dipendono dal codificare in modo affidabile i dati grezzi (enunciati, eventi, relazioni) in nodi discreti, e la codifica automatica eredita le proprie definizioni da chi le ha stabilite. La [[visualization|visualizzazione]] sembra una struttura emergente e i suoi nodi sono scelte interpretative.
 - **"Un cambiamento nella struttura della rete è automaticamente di per sé un guadagno di apprendimento."** In una discussione di caso con **venti studenti di laurea magistrale di discipline miste**, la **quota di termini condivisi di dimensione 3 è salita dal 5,2% all'8,0%** mentre **i token di contenuto sono scesi a circa 0,65× il loro livello post-lettura**. Due misure strutturali si sono mosse in direzioni opposte, quindi "la rete è cambiata" non è un risultato finché non dici lungo quale misura e perché conta.
 - **"Condividere più termini significa collaborare meglio."** Una quota crescente di termini condivisi accompagnata da una diversità decrescente di token di contenuto è coerente con una convergenza su un vocabolario più ristretto. Consenso e restringimento sono strutturalmente simili, ed è per questo che la misura ha bisogno del contenuto da cui è stata calcolata.
-
-## Concetti collegati
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Articoli collegati
-- [[caeai-response-length-ai-ethics-education-2026]] — Response length, not lexical alignment, drives shared-term statistics in participant–morpheme networks (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA of learner-chatbot interactions in scaffolded EFL writing
-- [[tracing-genai-literacy-interaction-patterns]] — ENA of GenAI literacy interaction patterns
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA of human-AI collaborative problem solving
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
-- [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — L'ENA mappa anche il discorso sulle competenze degli educatori

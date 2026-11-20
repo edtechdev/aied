@@ -21,6 +21,8 @@ ai_assist:
 translation_of: concepts/ai-avatars-and-synthetic-instructors
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -118,47 +120,3 @@ translation_note: "Автоматический перевод данной ан
 **«Внешность аватара — косметика».** Сигналы идентичности меняли оценки достоверности и фактическое принятие руководства, причём штрафы усугублялись для пожилых чернокожих женщин-аватаров.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Конфигурация — педагогическое решение и решение о [[equity-in-ai-education|равенстве]].
 
 **«Симулированный пациент — это стандартизированный пациент минус стоимость».** Стажёры-психологи нашли своего виртуального пациента сговорчивым и уже продвинутым в терапии — «идеальный» случай, который недооценивает поведенческую негибкость.([[ai-psychotherapy-training-avatars]]) Стоимость падает; валидность случая автоматически не следует.
-
-## Связанные понятия
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Связанные статьи
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — сигналы идентичности аватара сдвигают достоверность и принятие руководства (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — аватары студентов в диалоге практико-ориентированной подготовки учителей (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — создание и сообщение о дипфейках по полу на мастер-классе по грамотности в ИИ
-- [[elevate-genai-virtual-tutors]] — локальные 3D-аватары-репетиторы со слоем управления для преподавателя (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — аватары-пациенты с судьёй на LLM для клинической коммуникации
-- [[genai-simulate-patient-history-pbl-2026]] — аватар пациента-генеративного ИИ в учебном занятии по сбору анамнеза в PBL
-- [[ai-psychotherapy-training-avatars]] — аватары пациентов для отработки точности ACT в подготовке психотерапевтов
-- [[aclime-pedagogical-agents-extended-reality-2026]] — педагогические агенты в расширенной реальности: присутствие, реализм и нагрузка (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — опосредованная роботом ролевая игра с управляемым аватаром для вмешательства свидетеля
-- [[personalized-ai-generated-videos-preference-2026]] — персонализация видео с клонированным преподавателем и предпочтения студентов
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — четырёхуровневая рамка, разделяющая представление и агентность в классной симуляции
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — предложенный разговорный голосовой агент для интервью об обратной связи по курсу
-- [[trikonet-trivalence-co-creativity-2026]] — совместно создаваемые педагогические аватары в социотехнических сетях (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — лишь 51,7% из 654 студентов приняли предложенные антропоморфные роли; один назвал это автоматом с обратной связью

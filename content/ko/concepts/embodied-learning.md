@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -57,41 +59,8 @@ ai_assist:
 - **AI는 대체로 몸에 합류하기보다 몸을 지켜봅니다.** AI-구현 학습 연구 23편에 대한 PRISMA 검토에서 코딩된 AI 역할 40개는 감지가 지배했습니다: 분석과 평가 40.0%, 인식과 탐지 22.5%인 반면 활동 내부에서 행동하는 역할은 35.0%였습니다(되먹임과 코칭 15.0%, 상호작용 12.5%, 콘텐츠 생성 7.5%). 낮게 평정된 3편과 평정 불가능한 4편을 제외하면 상호작용은 6.7%, 콘텐츠 생성은 3.3%로 떨어지므로, AI가 구현된 순환에 합류한다는 증거는 가장 약한 논문들에 기대고 있습니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
 - **가장 신체적인 문헌이 몸을 가장 적게 측정합니다.** 결과 꼬리표 32개 중 인지 결과가 43.8%, 정의적 34.4%, 심리운동 21.9%를 차지했고, 이 순서는 더 높게 평정된 16편(꼬리표 25개 중 24.0%)에서도 유지되었습니다. 저자들은 심리운동 측정치를 고르는 어려움과 인지 이득을 우선하는 관행을 탓하며, 신체 기술에 대한 효과가 약해서라고 보지 않습니다. 검토된 어떤 시스템도 학습자들이 함께 행동하도록 설계되지 않았고, 나타나는 협력은 [[teacher-role|교사]]와 AI 사이의 협력입니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
 
-
 ## 흔한 오해
 
 - **"신체가 구현된 학습을 작동하게 만드는 것이다."** **11편의 RALL 연구(N = 595, g = 0.83, I² = 84.4%)** 메타분석은 **로봇의 형태, 양식, 자율성, 사회적 역할이 [[language-learning|제2언어 학습]] 결과를 조절하지 않았다**고 보고했습니다. 구현 특징은 활성 성분이 아니었고, 이질성은 충분히 높아(I² = 84.4%) 통합 효과가 매우 혼합된 개입 집합을 서술합니다.
 - **"큰 효과가 기제를 확정한다."** 11편의 연구에 걸친 595명 참가자의 g = 0.83은 실제 신호이며, 그것이 무엇을 만들어 냈는지를 밝혀 주지는 않습니다. 설계 특징이 효과를 조절하지 않았으므로 그럴듯한 기제는 하드웨어가 아니라 교수 활동에 있으며, 이는 무엇에 투자할지를 바꿉니다.
 - **"구현은 측정할 수 없으므로 이론에 머문다."** 신체 추적은 조절을 **측정 가능한 신호**로 바꿀 수 있습니다. 움직임 태그가 학생 에이전트를 투사된 모형 위에서 이동시키는 혼합 현실 광합성 시뮬레이션에서 LLM 파이프라인이 조절 행동 **470개 구간**에 표지를 달았습니다. 이 구성개념은 정의하기 어려운 곳에서도 운영화할 수 있습니다.
-
-## 연결된 개념
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — 구현을 직접 활용하려 하는 양상
-
-## 연결된 문서
-
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 구두 설명에서 구현된 인지를 위한 멀티모달 틀
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 구현된 지능을 통한 지속 가능한 학습 육성(E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 신체화된 블록 프로그래밍
-- [[motibo-digital-storytelling-robots-motivation-2026]] — 동기를 위한 로봇 매개 디지털 스토리텔링(MotiBo)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
-- [[pepper-robot-sign-language-lis-2025]] — Pepper와 수화
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 창의적 글쓰기에서의 로봇-LLM 통합
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI가 강화된 구현된 로봇 지원 언어 학습에 대한 메타분석
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 움직임 추적 광합성 시뮬레이션을 LLM 파이프라인으로 분석
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — 손으로 만든 모형 이후의 촉진자로서 AI: 언어 기반 AI는 체화된 탐구를 따라가지 못한다(Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — 체화 학습에서 AI는 대부분 관찰한다: 코딩된 역할 꼬리표의 62.5%가 감지 역할이며, 학습자가 사용하는 동안 다중모달 스트림을 융합한 검토 시스템은 없었다(Kim & Han 2026)

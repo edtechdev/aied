@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,40 +89,3 @@ ai_assist:
 **"AI सहायता बाधाएँ घटाती है और इसलिए सहभागिता बढ़ाती है।"** यह कार्य उत्पादित करने की बाधा घटा सकती है जबकि लेखकत्व का दावा करने की बाधा संकरी कर सकती है। जो विद्यार्थी ऐसा सुगम कलाकृत जमा करता है जिसका उसने लेखन नहीं किया, उसे परिणाम तक पहुँच मिली और वह मान्यता नहीं मिली जो उसके पीछे की पहचान बनाती है।
 
 **"किसी शिक्षार्थी की पहचान को मान्यता देना सामग्री में प्रतिनिधित्व का मामला है।"** प्रतिनिधित्व मायने रखता है और मान्यता अभ्यास में संपन्न होती है: किसके प्रश्न उठाए जाते हैं, किसके योगदान का श्रेय मिलता है, और किसे सक्षम माना जाता है। कोई [[curriculum-design|पाठ्यक्रम]] प्रतिनिधि हो सकता है और फिर भी वह मान्यता रोक सकता है जो पहचान-निर्माण के लिए आवश्यक है।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## संबंधित लेख
-- [[guarded-adoption-genai-higher-education-2026]] — उच्च शिक्षा में जनरेटिव AI की सुरक्षित अपनत्व
-- [[t2i-competence-paradox-2026]] — योग्यता विरोधाभास: टेक्स्ट-से-छवि GenAI उपयोग में सृजनात्मक पहचान
-- [[shame-guilt-ai-regulation-computing-education]] — AI उपयोग के सामाजिक नियामक के रूप में लज्जा और अपराधबोध
-- [[lodge-adaptive-capabilities-genai-future-2026]] — एक व्यवहार्य GenAI भविष्य के लिए अनुकूली क्षमताएँ और व्यावसायिक पहचान
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — शैक्षणिक सहजीवन और पोस्ट-ह्यूमन शिक्षार्थी
-- [[ai-pedagogical-accompaniment-amico]] — STEM पहचान का समर्थन करने वाली AI-सक्षम शैक्षणिक सहवास
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — प्रामाणिक मूल्यांकन के लिए डिज़ाइन
-- [[paternalistic-filter-llm-history-education]] — पितृसत्तात्मक AI उपयोग और इतिहास शिक्षा में छात्र पहचान
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — संकाय के लिए पहचान-संकट के रूप में GenAI (शिक्षक पहचान)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-आधारित शिक्षक प्रशिक्षण और व्यावसायिक पहचान
-- [[genai-professionalization-metaphors-2026]] — GenAI संकल्पनाएँ और छात्र व्यावसायिक पहचान
-
-- [[synthetic-position-self-authorship-2026]] — लेखकीय निलंबन: एक ऐसी स्व के रूप में सौंपा गया लेखकत्व जो घनीभूत रूप से स्वरित है फिर भी अलेखित (वैचारिक विश्लेषण)
-- [[vibe-coding-design-diversity-2026]] — एक उपकरण, एक स्वाद? वाइब कोडिंग सामूहिक विविधता को व्यक्तिगत सृजनात्मकता के लिए कैसे व्यापार करता है
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 स्नातकों पर कि वे क्या खुद करते रहते हैं, और उद्देश्य क्यों शायद ही इसका निर्णय करता है
-

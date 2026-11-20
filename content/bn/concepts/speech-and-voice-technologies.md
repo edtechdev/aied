@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -97,38 +99,3 @@ AkoVoice দুটি ন্যায্যতা-বিবেচনা যো�
 - **"অর্থপ্রদত্ত কণ্ঠ-সেবা বিনামূল্যের চেয়ে ভালো।"** **দুটি বিনামূল্যের সেবা প্রায় সম্পূর্ণ প্রতিলিপি ফেরত দেয় (87.96% ও 88.34% কভারেজ, শব্দ-ত্রুটির হার 15.23% ও 15.00%)**, অথচ দুটি অর্থপ্রদত্ত সেবা কেবল প্রিভিউ রপ্তানি করে, 32% কভারেজে)। দাম উপযোগিতা পূর্বানুমান করেনি, আর অর্থপ্রদত্ত স্তর আউটপুট উন্নত করার বদলে তা আটকে রেখেছে।
 - **"যেকোনো ভাষা-শিক্ষার চ্যাটবট উচ্চারণ উন্নত করে।"** **দশটি গবেষণা জুড়ে কেবল ভাষা-শিক্ষার জন্য নকশা করা চ্যাটবট — Andy English bot ও Xiaoying — নির্ভুলতা উন্নত করে**, একটি নিয়ন্ত্রণ দলের তুলনায় **14% ত্রুটি-হ্রাস** নিয়ে। সাধারণ কথোপকথন-এজেন্ট এই লাভ দেয়নি।
 - **"স্ব-কার্যকারিতার লাভ মানে দক্ষতার লাভ।"** প্রযুক্তি ও ফলাফলের মধ্যে সম্পর্ক ইতিবাচক ছিল, **স্ব-কার্যকারিতা তা আংশিকভাবে মধ্যস্থতা করে: পরোক্ষ পথ মোট প্রভাবের 69.9% বহন করে, অথচ একটি প্রত্যক্ষ প্রভাবও থাকে**। প্রভাবের বেশিরভাগ অংশ আত্মবিশ্বাসের মধ্য দিয়ে গেছে, যা একটি কার্যপদ্ধতি এবং একটি সতর্কতাও।
-
-## সংযুক্ত ধারণা
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — নির্ভুলতার লাভ কেবল ভাষা-শিক্ষার চ্যাটবট থেকে, এবং উচ্চারণযুক্ত নামে ASR-এর ব্যর্থতা
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — প্রতিক্রিয়া-চ্যানেলের দিকেই ঘুরিয়ে দেওয়া একটি টেলিফোন কণ্ঠ-এজেন্ট
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR কথন-প্রতিক্রিয়া: গুণমান পরিমাণকে হারায়, আর দক্ষতা ঠিক করে কে লাভ পাবে (Chen ও অন্যান্য 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — উচ্চারণ-স্ব-কার্যকারিতা জেনএআই উচ্চারণ-প্রতিক্রিয়া ও যোগাযোগের ইচ্ছার মধ্যে মধ্যস্থতা করে (1,701 EFL শিক্ষার্থী)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS পাঠ-পাইপলাইন: কৃত্রিম বর্ণনা প্রশিক্ষকের কণ্ঠের সমান; সংলাপ বোধগম্যতায় সাহায্য করেছে
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — TTS-উৎপন্ন পাঠে শিখন-শৈলী × সংলাপ-ধরনের আন্তঃক্রিয়া (222 শিক্ষার্থী)
-- [[ai-interlocutor-l2-spoken-dialogue]] — মানব বনাম এআই বক্তা: L2 জার্মানে সহায়তাপ্রাপ্ত একক-বক্তৃতা, গ্রহণ ও সিনট্যাকটিক প্রাইমিং
-- [[kutti-ai-voice-first-learning-companion]] — দৃষ্টিপ্রতিবন্ধী শিশুদের জন্য রিয়েল-টাইম সংগ্রাম-শনাক্তকরণসহ কণ্ঠপ্রধান অফলাইন সঙ্গী
-- [[agent-voice-accents-k12-group-learning]] — এজেন্টের উচ্চারণ K-12 দলগত কাজে নরত্বারোপণ ও সহযোগিতা গড়ে (33 শিক্ষক)
-- [[asynchronous-oral-assessment-2026]] — অ্যাসিঙ্ক্রোনাস মৌখিক মূল্যায়ন: মাপযোগ্য কথ্য মূল্যায়ন, শিখন-লাভের সতর্কতাসহ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — মৌখিক পরীক্ষাকে প্রামাণিক, অখণ্ডতা-রক্ষাকারী মূল্যায়ন হিসেবে যুক্তি দেওয়া পর্যালোচনা
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: বৃত্তিমূলক কর্মশালায় অফলাইন কণ্ঠ-মূল্যায়ন, যেখানে এআই প্রমাণ সামনে আনে, নম্বর দেয় না
-- [[student-ai-interaction-consecutive-interpreting-2026]] — ASR/MT সহায়তা ব্যবহার করা দোভাষী-প্রশিক্ষণার্থীদের চারটি আন্তঃক্রিয়া-প্রোফাইল
-- [[gpt-item-generation-l2-listening-2026]] — L2 শ্রবণ-প্রশ্ন তৈরিতে প্রম্পটিং বনাম GPT ফাইন-টিউনিং
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — অঙ্গভঙ্গি ও কথা: কেন কেবল-কথ্য মৌখিক মূল্যায়ন বোঝাপড়ার প্রমাণ হারায়
-- [[ai-guided-learning-audiovideo-2026]] — অভিযোজিত অডিও-গতি, কণ্ঠ-সংরক্ষক ভিডিও সারাংশ এবং লেবেলহীন উচ্চারণ-প্রতিক্রিয়া
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির ও শ্রবণপ্রতিবন্ধী শিক্ষার্থীদের জন্য LLM প্রশ্ন-উৎপাদন
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — যখন এআই টিউটররা কথা বলে: একটি র‍্যান্ডমাইজড ক্ষেত্র-পরীক্ষার প্রমাণ
-- [[ai-mediated-input-medical-english-asr-2026]] — মেডিকেল ইংরেজিতে এআই-মধ্যস্থ উপাদান-রূপান্তর: বাক্-স্বীকৃতি ও প্রতিলিপির নির্ভরযোগ্যতা

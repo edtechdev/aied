@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -83,9 +85,7 @@ Un correlato neurale non è un punteggio. Le immagini ricostruite dall'EEG corre
 
 L'attenzione non è apprendimento. In TutorLoop l'attenzione correlava con l'apprendimento a r = 0,017, mentre il carico correlava negativamente a r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema che massimizzasse il segnale di attenzione avrebbe ottimizzato qualcosa di molto vicino al rumore.
 
-
 Un sensore può registrare la co-presenza dove uno studio afferma l'interazione: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] hanno trovato che un rilevatore basato sulla posa raggiungeva solo il 55% di recall, cogliendo 11 dei 20 eventi identificati dai codificatori umani nelle interazioni di gruppo insegnante–studenti. L'[[teacher-role|insegnante]] era presente dentro il confine del gruppo nel 49,2% dei segmenti codificati mentre gli studenti guardavano l'insegnante solo nel 25,4%, e nessuna caratteristica audio cambiava in nessuno dei due confronti, quindi la pipeline registrava la co-presenza spaziale anziché l'interazione sostenuta.
-
 
 Un profilo fisiologico non è una diagnosi. I modelli di stress da esame predicono una categoria di voto da attivazione e movimento, e gli autori insistono che l'output appartenga accanto alle circostanze personali e al contesto di salute mentale, non dentro una decisione ad alta posta in gioco ([[physiological-signals-exam-outcomes-ml|Yamazaki e Rimal, 2026]]).
 
@@ -116,40 +116,3 @@ Infine, raccolta non è integrazione. Kim e Han hanno trovato che la maggior par
 **«Il coinvolgimento è una cosa sola, quindi un punteggio può rappresentarlo.»** Il costrutto ha tre filoni, e un sensore raggiunge soprattutto il primo. E3Sense ha trovato che gli studenti lo definivano attraverso indicatori cognitivi, comportamentali ed emotivi in proporzioni diverse, e quelle definizioni cambiavano la previsione ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Un numero singolo nasconde quale strato è stato misurato.
 
 **«Se il modello è equo sulla suddivisione di validazione, è equo in aula.»** Un regolarizzatore che equalizzava l'errore di validazione tra gruppi di genere ha peggiorato il divario sui soggetti tenuti fuori ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). L'equità è una proprietà di una messa in esercizio, non di un checkpoint.
-
-## Concetti collegati
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Articoli collegati
-- [[gaze-informed-ai-children]] — La narrazione LLM attivata dallo sguardo ha trattenuto i bambini su una regione narrata per 6,48 s contro 1,67 s, ma lo studio misurava l'attenzione anziché la comprensione (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG montato sulla testa, eye tracking ed EDA frontale hanno predetto il coinvolgimento autovalutato al 75,0% di accuratezza entro un livello contro un valore di riferimento del 63,0% (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage ha fuso sette flussi indossabili e da telecamera in stime di coinvolgimento a livello di segmento (MAE 0,81) e sostiene una strumentazione più leggera (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — Un modello multimodale dell'attenzione ha raggiunto un MAE di 0,283, e i suoi guadagni di equità in validazione si sono invertiti su soggetti tenuti fuori (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — L'IA indossabile è doppiamente trasparente, quindi l'esclusione fisica fallisce e l'applicazione deriva verso il giudicare i corpi degli studenti (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — Quindici modelli per la previsione di familiarità con EEG sono scesi da 0,9853 a 0,6038 di F1 sotto validazione indipendente dalle prove (Nanayakkara e Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — Le immagini ricostruite dall'EEG seguivano la prestazione al test a R² = 0,79, con un partecipante ad alta ricostruzione che rispondeva in modo errato (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — La random forest ha predetto categorie di voto d'esame da EDA, movimento e temperatura della pelle, segnali che indicizzano l'attivazione anziché la comprensione (Yamazaki e Rimal, 2026)
-- [[affective-text-wearable-student-health]] — In 458 studenti che indossavano Oura, il registro emotivo anziché il tema della preoccupazione seguiva sonno e variabilità della frequenza cardiaca (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Lo sguardo da webcam ha guidato il feedback di apprendimento per rinforzo per 187 studenti; l'attenzione correlava con l'apprendimento a r = 0,017 mentre il carico correlava negativamente (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — Le caratteristiche di posa YOLOv11 segnalavano comportamenti sospetti al 99,56% su un insieme etichettato su misura, senza testare la condotta scorretta o l'equità (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — La connettività EEG scendeva con il supporto esterno alla scrittura su 54 partecipanti, inquadrando l'affidamento come debito cognitivo accumulato (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — Su 23 studi, i ruoli di rilevamento dominavano al 62,5% dei tag e nessun sistema passato in rassegna fondeva i flussi multimodali in tempo reale (Kim e Han, 2026)

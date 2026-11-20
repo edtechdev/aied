@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -113,41 +115,3 @@ Lini penelitian kedua memperlakukan AI sebagai peserta alih-alih alat, dan temua
 **"AI paling membantu ketika ia mengoordinasikan kelompok."** Dukungan koordinasi dan dukungan epistemik menarik ke arah yang berlawanan. Mengurangi biaya koordinasi untuk berkolaborasi dapat menurunkan tekanan pada kelompok untuk menegosiasikan makna, yaitu proses yang sedang dinilai. Pertukaran efisiensi–regulasi adalah ketegangan desain intinya, bukan detail implementasi.
 
 **"Kerja kelompok sulit karena orang-orangnya."** Sebagian kesulitannya berasal dari desain tugas, itulah sebabnya AI mengubah profil kesulitannya alih-alih sekadar meringankannya: alat yang menjawab pertanyaan dengan cepat mengubah apa yang dihabiskan kelompok untuk waktunya, dan apakah itu sebuah perbaikan bergantung pada keterampilan mana yang menjadi tujuan tugas itu dibangun.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Skrip peran bagi kelompok yang berbagi satu AI
-- [[ai-education]] — AI dalam pendidikan (payung)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Artikel terkait
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — Tiga pola agensi siswa dalam penilaian kelompok yang dimediasi GenAI
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Agensi pembelajar yang muncul ketika AI bergabung dengan sebuah kelompok: persona suportif vs. kontrarian
-- [[genai-counter-learner-groupthink-2025]] — Agen AI yang menyuntikkan kontroversi untuk melawan groupthink dalam tim PBL
-- [[xu-genai-collaborative-space-2026]] — Akses GenAI bersama versus privat di seluruh tim
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Mode kolaborasi dan pertukaran antara kinerja tugas dan pengaturan diri
-- [[golrang-propact-pair-programming-2026]] — ProPACT: memperlakukan diad sebagai unit analisis dalam pemrograman berpasangan
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Mediasi AI dalam memunculkan asumsi pada tim mahasiswa interdisipliner
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM sebagai mitra kritik: bantahan aktif memelihara konflik kognitif
-- [[polished-artifacts-fragile-engagement-2026]] — Artefak yang rapi, keterlibatan epistemik yang rapuh
-- [[breideband-community-builder-cobi-2026]] — Analitik wacana tingkat kelas untuk kolaborasi kelompok
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI sebagai mediator pedagogis kolaborasi
-- [[neurodivergent-computing-students]] — Persyaratan siswa neurodivergen untuk pembelajaran kolaboratif
-- [[academic-league-of-ai-2026]] — Tata kelola siswa yang demokratis dan tim proyek untuk pendidikan AI
-- [[teacher-student-agency-orchestration]] — Ko-orkestrasi agensi guru dan siswa secara real time
-- [[dollinger-equitable-assessment-ai-2026]] — Penilaian yang adil di era AI
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Permainan Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis

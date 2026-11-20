@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -38,8 +39,3 @@ Cada tema traz uma questão norteadora, disparadores de conversa, atividades est
 
 ## De onde veio
 Ele começou na Duke University em 2024–2025 como o AI Ethics Learning Toolkit, cocriado por estudantes de graduação, bibliotecários, docentes e tecnologistas do Center for Teaching and Learning e das Duke Libraries, e relançado após feedback e redesenho por Hannah Rozear, Remi Kalir e Aria Chernik.
-
-## Conceitos conectados
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -63,39 +65,3 @@ A tervezési gondolkodás az MI-oktatásban szorosan összefonódik a [[human-ai
 **„A tervezési gondolkodás szakaszonként automatizálható folyamat.”** Inkább a problémák keretezésének és újrakeretezésének fegyelme, és épp ezt zárja ki a rögzülés. A szakaszok automatizálása a keret vizsgálata nélkül hozzáértő kimenetet ad a rossz problémára.
 
 **„Azok az MI-ügynökök, amelyek egyetértenek a [[student-support-and-success|tanulói támogatással]], alátámasztják a tervezési érvelést.”** Az itt dokumentált produktív használat épp az ellenkező irányba mutat: az [[ai-agents-constructive-conflict-design-education-2026|építő jellegű konfliktusok MI-ügynökökkel]] a szembenálló promptolást teszteli, amely újragondolásra kényszerít. Az egyetértő ügynök megerősíti a rögzülést; a vitára hangolt az a tervezés, amely mögött oktatási állítás áll.
-
-## Kapcsolódó fogalmak
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Kapcsolódó cikkek
-
-- [[design-thinking-aigc-fashion-film-2026]] — A tervezési gondolkodás szemlélete a tanulási szakaszok mentén AIGC-támogatott divatfilm-tervezésben (Liu és mtsai. 2026)
-- [[genai-architecture-education]] — Gen-AI-tecture: a generatív MI használata építészhallgatók támogatására tervezési feladatokban
-- [[genai-architectural-design-studios]] — A generatív MI fejlődése és alkalmazásai az építészeti tervezőstúdiókban
-- [[social-robot-study-companions]] — Építhető és nyílt szociális robot tanulótársak közös alkotása egyetemi hallgatókkal
-- [[gaide-vibe-coding-k12-teachers]] — Útmutató keretrendszer K-12-es tanároknak MI-vezérelt tanulási technológiák létrehozásához vibe codinggal
-- [[dot-framework-survey-2026]] — DOT-keretrendszer felmérés: gyakorló szakemberek hiedelmei és viselkedése MI-vel gazdagított oktatásban
-- [[ai-agents-constructive-conflict-design-education-2026]] — Építő jellegű konfliktusok megvalósítása MI-ügynökökkel a kezdő interakciós tervezők újragondolásának elősegítésére
-- [[genai-usage-design-students-survey]] — Tanulmány a tervezőhallgatók GenAI-használatáról: felmérési eredmények és MI-gyakorlatok naplóinak elemzése a Politecnico di Milánón 2025/2026-ban

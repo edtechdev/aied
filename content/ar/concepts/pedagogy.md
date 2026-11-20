@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -104,50 +106,3 @@ ai_assist:
 - **«المعرفة التقنية بالذكاء الاصطناعي هي ما يحتاجه المعلمون أكثر.»** عبر **46 معلّمًا و2,832 طالبًا**، تنبّأت **معرفة المعلّم التربوية بالذكاء الاصطناعي** بتصوّرات الطلاب عن الذكاء الاصطناعي لأجل المصلحة الاجتماعية. فقد تجاوزت المعرفة التربوية المعرفة التقنية، وهو ما يعكس أين يذهب معظم الاستثمار في التدريب.
 - **«الإسهام الرئيسي للذكاء الاصطناعي في التعليم تعليمي.»** وجدت **مراجعة PRISMA لـ28 دراسة** أن الذكاء الاصطناعي غالبًا عزّز **التخطيط التعليمي وتصميم التقويم** — فأوضح إسهاماته **إفراغ العمل الإداري** لا التعليم. فالحجة المبنية على مكاسب تعليمية تُبنى على الفرع الأضعف من الأدلة.
 - **«تعليم ثقافة الذكاء الاصطناعي ينتقل تلقائيًا إلى تدريس أفضل.»** وجد تحليل بعدي على ثلاثة مستويات لـ**59 دراسة (172 حجم أثر)** أن **التدخّلات المركّزة على المعرفة (g ≈ .97)** تفوّقت بوضوح على المناهج الأخرى في تحريك المعرفة. فتحريك المعرفة هو الناتج المقيس؛ وأما ما إذا وصل إلى الممارسة فسؤال لاحق.
-
-
-## المفاهيم المتصلة
-
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[online-teaching-and-learning]] — التعليم والتعلّم عبر الإنترنت
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — الاستعارة والقياس كمهارة تعليمية
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — منهج الحالة والحالات المتباينة كتقنيات تعليمية
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — أدوات ذكاء اصطناعي مدرَّبة على اتباع مبادئ تربوية
-
-## المقالات المتصلة
-
-- [[genai-didactic-pedagogical-mediator-2026]] — الذكاء الاصطناعي التوليدي كوسيط تربوي–ديداكتيكي: نموذج المدرّس–الطالب–الذكاء الاصطناعي التوليدي (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — «البيداغوجيا أولًا، والتقنية ثانيًا» — TPAIK ترجح على TAIK التقني في مخرجات الطلاب (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — الشراكات التربوية مع الذكاء الاصطناعي التوليدي
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — كيف يشكّل التوجيه التعليمي آثار التوليد على التعلّم
-- [[generative-ai-guardrails-harm-learning]] — التدريس الخصوصي المضبوط بضوابط (تلميح لا جواب) يُلغي جزاء الامتحان
-- [[agentic-ai-pedagogical-best-practice-2026]] — توتر الأتمتة مقابل التعلّم في الذكاء الاصطناعي الوكيلي
-- [[jeon-isd-agent-bench-2026]] — تأسيس الوكلاء في نظرية التصميم التعليمي
-- [[ai-learning-tools-engineering-education-needs]] — أدوات تعلّم الذكاء الاصطناعي في التعليم الهندسي
-- [[fowlin-operationalizing-learning-principles-ai]] — تشغيل مبادئ التعلّم بالذكاء الاصطناعي
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — الذكاء الاصطناعي وممارسة التصميم التعليمي: مراجعة منهجية (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — المناهج التعليمية في تدخّلات الثقافة بالذكاء الاصطناعي
-- [[cognitive-distribution-student-genai-interaction-2026]] — تفاعل الطالب مع الذكاء الاصطناعي كتوزيع معرفي متحول لا اعتماد ثابت (53.3% امتدادًا)

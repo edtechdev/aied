@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -82,40 +84,3 @@ Come quadro anziché come studio, [[zhai-science-literacy-generative-ai-coherenc
 - **"L'IA nell'educazione scientifica non ha evidenza causale."** Una **valutazione randomizzata di quattro settimane** di una piattaforma di ripasso con IA nelle scienze GCSE fornisce una stima causale di **g di Hedges = 0,33**, **senza evidenza che l'effetto differisse per materia**. L'effetto è modesto ed è causale.
 - **"Dai agli studenti l'accesso e i guadagni seguono."** **È l'accesso strutturato, non l'accesso in sé, a guidare il guadagno**: la crescita riportata dai team è stata in media del **17% con accesso individuale illimitato ma del 34% e del 31% quando l'accesso era strutturato**. La struttura era l'intervento.
 - **"La simulazione scientifica richiede software specializzato."** Un **prompt in linguaggio naturale di quattro elementi** può generare una **simulazione di fisica in realtà aumentata controllata con le mani**. La barriera alla creazione di una simulazione è scesa alla progettazione del prompt, il che sposta la competenza richiesta dalla programmazione alla specificazione del fenomeno.
-
-## Concetti collegati
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Articoli collegati
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Framework chapter on science literacy as coherence across curriculum, instruction and assessment (Zhai et al. 2026)
-- [[ai-methodologies-science-education-research-2026]] — Quadro riflessivo di iterazione epistemica a sette fasi per riflettere su come le metodologie dell'IA possano trasformare la ricerca sull'educazione scientifica (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisione sistematica dell'IA nell'educazione scientifica e chimica
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT per l'apprendimento basato sull'indagine nelle STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Indagine guidata supportata dall'IA su fotosintesi e respirazione
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Testi di cambiamento concettuale vs. dialogo con l'IA per calore e temperatura
-- [[ai-grading-handwritten-physics-2026]] — Valutazione tramite IA su larga scala di prove di fisica scritte a mano
-- [[avraamidou-ai-colonization-science-education]] — Commento critico sulla colonizzazione dell'IA dell'educazione scientifica
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Percezioni e accettazione dell'IA nei docenti di scienze in formazione
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review
-- [[genai-learning-motivation-meta-analysis-2026]] — The only domain whose motivational interval crosses zero (g = 0.109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — La familiarità generale con l'IA non si è trasferita alla prontezza verso il GeoAI
-
-

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,9 +43,3 @@ Keskitetylle ja tutkimus-IT:lle, joka tarjoaa alustoja ja katselmointia; hallint
 ## Huomioita ja varauksia
 
 Se kuvaa itseään riippumattomaksi henkilökohtaiseksi projektiksi, ei institutionaaliseksi toimintaperiaatteeksi tai oikeudelliseksi neuvonnaksi; nimetyt instituutiot esiintyvät siksi, että ne ovat julkaisseet kuvauksia käytännöistään, eivät suosituksina, ja keskustelutapaukset ovat yhdistelmiä. Sen oikeudelliset esimerkit ovat amerikkalaisia (FERPA, ADA Title II, GLBA) ja päivättyjä esiintyessään, vaikka se väittää, etteivät polku, kysymykset, datatasot ja lähestymistavat riipu niistä. Sen näyttösivu linkittää jokaisen tutkimuksen, asettaa voitot yhdessä rajatuissa tehtävissä kokeneiden ylläpitäjien hidastumisten rinnalle heidän omassa koodissaan, ja myöntää, että kokeiludata kattaa koodiehdotukset eikä spesifikaatiopohjaista tai moniagenttityötä, joten perustelu suuremmalle rakenteelle nojaa käytäntöön ja vaatimustenmukaisuuslogiikkaan. Uudelleenkäyttölisenssiä ei ilmoiteta. Sisarsivustot [campusdatagov.com](https://campusdatagov.com/) ja [campusairegistry.com](https://campusairegistry.com/) kantavat datan hallinnan ja agenttirekisterin osat, joten tämä on hyvä portti [[educational-policy-ai|koulutuspolitiikan tekoälytyöhön]] mutta ei sen korvike.
-
-## Liittyvät käsitteet
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

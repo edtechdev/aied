@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -90,44 +92,3 @@ Mafunzo ya kitaalamu yanatofautiana na elimu ya kitaaluma katika uzito wake kwa 
 **"Mafunzo ya ujuzi wa AI yanajumla katika majukumu yote."** Vyombo vingi havipimi umahiri mahususi wa jukumu: katika mapitio ya kimfumo ya **vyombo 33 vya ujuzi wa AI vya walimu**, **29 (87.9%)** vililenga dhana za jumla za AI wakati **4 tu (12.1%)** vilishughulikia [[pedagogy|matumizi ya kielimu]] au ya kikazi ambayo kazi hiyo inahitaji kweli. Programu iliyojengwa juu ya vyombo vya jumla inapima kipimo mbadala.
 
 **"Kizibo ni mbadala wa mafunzo ya kazini."** Hukua utaratibu na huondoa matokeo, jambo ambalo ni la thamani na ndilo hasa sehemu ambayo haiwezi kuhamishwa; matokeo ndiyo mtaala katika kazi zenye hatari kubwa za usalama.
-
-## Dhana Zilizounganishwa
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — ambapo mazoezi ya kuvumbulia yameimarishwa zaidi
-
-## Makala Zilizounganishwa
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI na Mustakabali wa Wafanyakazi wa Uhandisi na Makokotozi
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Mfumo wa Kiwango cha Utayari wa Wafanyakazi kwa viwanda mahiri katika enzi ya AI
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Mfumo wa Ujuzi wa AI wa HiBob uliothibitishwa na wakufunzi na waajiri
-- [[cognitive-commons-ai-expertise-regeneration]] — Maafa ya commons ya kiakili: AI na uzalianishaji upya wa utaalamu
-- [[li-language-educators-genai-review-2026]] — Mazoezi ya waelimishaji wa lugha na maendeleo na GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Dodoso ya kulinganisha inayoonyesha hali za taasisi, si muktadha wa kitaifa, zinaeleza pengo za utayari wa GenAI wa wataalam (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Waelimishaji wa walimu wanabuni pamoja mfano wa ujuzi wa AI unaobadilika na dodoso la kutafakari (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Mapitio yanayoonyesha vyombo vya ujuzi wa AI vya walimu vinachelewa na AI ya kizalishaji, yakibainisha lengo la mafunzo (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — PD ya saa tatu iliongeza manufaa na urahisi wa matumizi yanayohisiwa ya walimu Wajerumani, lakini si nia ya kutumia AI kwa tofauti
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Mapitio ya AI katika mafunzo ya awali ya walimu kwa hisabati ya msingi: mafunzo mafupi yanayolenga zana hayatoshi
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Dodoso inayounganisha mafunzo ya awali ya AI na mara ya matumizi na mtazamo mzuri wa walimu wa msingi wa Kituruki
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Mzunguko wa jukumu kama mbinu ya kuunda kwa maandalizi ya kitaalamu yanayosaidiwa na AI
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Maswali Wazi Kuhusu Kutegemea Kunakodumisha Ujuzi katika Mwingiliano wa Kutafakari wa AI
-- [[prunuske-cognitive-windows-research-meetings-2026]]: Kuhamisha mikutano ya utafiti kutoka taarifa za data hadi madirisha ya kiakili katika zama za akili bandia
-- [[jongkind-genai-patient-medical-communication-2026]]: Matumizi ya mgonjwa wa GenAI kwa mafunzo ya mawasiliano ya tiba kwa wanafunzi wa shahada ya kwanza ya tiba: utafiti wa nusu-jaribio
-
-- [[cowhitt-deliberative-instructional-agents-2026]] — Mawakala wa maelekezo ya kufikiri kwa kina kwa ajili ya kujifunza kitaalamu kwa walimu, pamoja na masharti ya uwajibikaji kwa PD inayopatanishwa na AI
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Wakati mazoezi ya AI ya taaluma ya kiufundi yanapita njia yake ya kufundisha
-

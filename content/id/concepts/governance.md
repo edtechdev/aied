@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,7 +46,6 @@ Tata kelola AI dalam pendidikan semakin mendesak karena [[generative-ai|AI gener
 - **Tata kelola antisipatif melalui prototipe dan uji coba.** [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] membaca DfE Inggris sebagai memerintah melalui desain: prototipe AI dan uji coba di sekolah membayangkan masa depan yang dipilih, memperlakukan ruang kelas sebagai tempat uji coba, dan menghasilkan bukti "promisori" tepat waktu untuk penskalaan alih-alih "apa yang berhasil" yang sudah mapan.
 - **Kodesain kebijakan oleh mahasiswa:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] menunjukkan bagaimana aktivitas inkuiri terpandu di mana mahasiswa ikut merancang kebijakan kursus GenAI memunculkan nilai-nilai mahasiswa — memprioritaskan pelatihan, prosedur [[ai-use-disclosure|pengungkapan]] yang terstandardisasi, dukungan institusional yang lebih kuat, dan keterlibatan yang lebih besar dalam pengambilan keputusan. Ini memosisikan [[pedagogical-partnerships|mahasiswa sebagai mitra]] dalam tata kelola alih-alih objek pasif, melengkapi kebijakan tingkat institusi dengan suara mahasiswa dari bawah.
 
-
 - **Jebakan tekno-solutif dan defisit kebijakan:** Tinjauan sistematis atas 65 studi AI × [[social-emotional-learning|pembelajaran sosial-emosional]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) menemukan bahwa penelitian sering mengedepankan potensi teknis sementara kurang merinci kondisi institusional bagi implementasi yang bertanggung jawab — sebuah jebakan "tekno-solutif". Penulis menghubungkan [[student-engagement|keterlibatan]] kebijakan dengan tempat publikasi dan mengusulkan kerangka "pertanyaan-WH" untuk membuat implikasi tata kelola spesifik per aktor, sejalan dengan temuan basis pengetahuan yang lebih luas bahwa tata kelola institusional tertinggal dari adopsi AI.
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] menunjukkan ketidaksesuaian tata kelola alih-alih kekosongan tata kelola: mahasiswa ingin universitas "berbuat lebih banyak", tetapi institusi berpendapat bahwa keputusan berada di tingkat departemen, program, dan mata kuliah, sehingga permintaan dan mandat mengarah ke badan yang berbeda sementara keheningan mengisi celahnya.
@@ -64,7 +65,6 @@ Tata kelola AI dalam pendidikan semakin mendesak karena [[generative-ai|AI gener
 
 - **Integritas akademik dan penilaian:** Tata kelola menjadi pusat bagaimana institusi menangani kekhawatiran [[academic-integrity]] terkait AI dan merancang ulang [[assessment]] — bergerak dari larangan/pengawasan menuju panduan, literasi AI, dan desain berorientasi proses, seperti terlihat dalam penelitian tentang [[student-rationalization-ai-writing|rasionalisasi mahasiswa]] dan [[beyond-detection-authentic-assessment-ai-2025|desain ulang penilaian autentik]].
 - **Desain ulang berjalan pada tiga dimensi sekaligus.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] membingkai desain ulang penilaian era AI melalui dimensi kultural-diskursif (bahasa dan asumsi), material-ekonomis (sumber daya), dan sosial-politik (tata kelola dan kekuasaan), dan menyebut persimpangan sumber daya–kekuasaan sebagai titik pengungkit sekaligus risiko terbesar: sumber daya yang mengalir melalui struktur kekuasaan yang ada memperbesar ketidakadilan.
-
 
 - **Bauran instrumen tata kelola yang tertulis:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] mengaudit dokumen terkait AI dari seluruh 48 program magister informatika kesehatan dan manajemen informasi kesehatan terakreditasi CAHIIM di Amerika Serikat. Empat puluh dari 48 (83%) memiliki setidaknya satu dokumen yang tersedia publik, dan di antara 40 dokumen yang dianalisis tata kelola terwujud terutama sebagai panduan alih-alih aturan mengikat: 21 pedoman (53%), 9 dokumen informasional (23%), dan hanya 7 kebijakan formal (18%). Sebagian besar dokumen menyasar dosen dan mahasiswa sekaligus (20, 51%) alih-alih mahasiswa saja (6, 15%), dan baik jenis kebijakan maupun audiens tidak bervariasi menurut moda penyelenggaraan (Fisher's exact P = .85 dan P = .71), sehingga bauran instrumen mengikuti kebiasaan institusional alih-alih tuntutan program daring, kampus, atau hibrida. Isi mengelompok pada integritas akademik, penggunaan AI yang bertanggung jawab, dan perilaku mahasiswa, dengan sedikit panduan yang mencakup penggunaan AI dalam pembelajaran terapan, penelitian, dan lingkungan simulasi, tepat di tempat kekhawatiran kurikulum dan tata kelola data bersinggungan. Penulis juga melaporkan bahwa akreditor regional memasok sebagian besar korpus (Higher Learning Commission n = 14 dan SACSCOC n = 13, bersama-sama sekitar 60%, tanpa satu pun dari wilayah WASC) dan berargumen bahwa akreditasi adalah tuas eksternal yang paling tepat untuk mengurangi variasi antarprogram.
 
@@ -91,8 +91,6 @@ AI agentik menggeser lagi pertanyaan pengaturan: [[wong-sun-agentic-ai-assessmen
 Tata kelola AI beroperasi pada banyak tingkat — dari **nasional/regulatif** (kebijakan pemerintah, kerangka OECD, pedoman AI negara bagian) hingga **institusional** (kebijakan universitas, kelompok pengarah AI, dewan tinjauan etis) hingga **kelas** (pedoman instruktur, pernyataan silabus, desain tugas). Tata kelola yang efektif menyelaraskan tingkat-tingkat ini: kerangka nasional menetapkan ekspektasi, institusi menerjemahkannya menjadi kebijakan dan struktur dukungan, dan pendidik mengimplementasikannya dengan cara yang membangun literasi AI dan agensi mahasiswa. Penelitian basis pengetahuan menekankan bahwa tata kelola bukan sekadar soal pembatasan tetapi soal menciptakan kondisi bagi integrasi AI yang bertanggung jawab, adil, dan mendukung pembelajaran — termasuk [[educational-development|pengembangan dosen]], panduan yang transparan, dan evaluasi berkelanjutan.
 **Perilaku identik, vonis berbeda.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] menerapkan 15 vinyet penggunaan mahasiswa yang terstandardisasi pada lingkungan kebijakan publik 20 universitas Australia, menghasilkan 300 klasifikasi: 40.0% jelas dilarang, 32.3% potensi pelanggaran kebijakan, 9.0% diizinkan dengan syarat, dan 18.7% tak tentu — tidak ada yang memenuhi ambang jelas diizinkan. Instrumen mengikat tidak menyebut AI generatif dalam 100 kombinasi sementara panduan menyelesaikan 88, dan penulisan ulang bahasa yang diungkapkan serta paragraf yang disusun AI menghasilkan divergensi antaruniversitas tertinggi, bertentangan dengan suara bulat untuk larangan penilaian yang eksplisit. Di tempat tingkat-tingkat yang dijelaskan di atas diasumsikan selaras, studi ini mengukur seberapa jauh mereka menyimpang, dan menemukan batas operasionalnya pada panduan alih-alih kebijakan yang mengikat.
 
-
-
 **Tata kelola dosen dan argumen untuk tinjauan yang disengaja.** Di tempat tingkat-tingkat di atas diselaraskan melalui kebijakan, sebagian sektor mencapainya melalui tata kelola bersama. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski dan Hurley (2025)]] menggambarkan [[legal-education|sekolah hukum]] sebagai kasus sulit justru karena alasan ini: fakultas hukum AS memegang otoritas individual yang tidak biasa atas standar mata kuliah, sehingga kebijakan harus dibangun bersama mereka alih-alih diumumkan kepada mereka, dan sebagian besar sekolah yang menulis aturan larangan juga menyisakan diskresi bagi instruktur individual dan berkomitmen pada revisi seiring teknologi bergerak. Rekomendasi mereka — fleksibilitas secara desain, tinjauan berkala, pelatihan proaktif, dan regulasi diri melalui berbagi informasi alih-alih menunggu akreditor mendikte kebijakan — menggambarkan tata kelola sebagai proses yang berlanjut alih-alih sebagai dokumen, poin yang sama yang dibuat [[crompton-governing-genai-higher-ed-delphi-2026|konsensus Delphi]] dalam merekomendasikan siklus tinjauan terjadwal dan komite multidisiplin tetap.
 
 Secara institusi luas, **kerangka AIGEM** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) memosisikan AI yang bertanggung jawab sebagai kapabilitas organisasional strategis untuk manajemen pendidikan, mengintegrasikan kepemimpinan strategis AI, tata kelola yang bertanggung jawab, kecerdasan keputusan, kecerdasan kolaboratif manusia-AI, pengembangan kompetensi, dan penciptaan nilai berkelanjutan -- dan mengaitkan implementasi yang bertanggung jawab dengan SDG. Kerangka ini menegaskan bahwa tata kelola bukan hanya lapisan kepatuhan di atas pengajaran tetapi fungsi eksekutif institusi pendidikan.
@@ -117,7 +115,6 @@ Tata kelola berbeda dari — tetapi tidak terpisahkan dari — [[educational-pol
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] mengidentifikasi **etika & tata kelola data** sebagai salah satu dari tujuh pemungkin intervensi pendidikan berbasis LA yang tepercaya — kebijakan untuk penggunaan etis LA dan AI, privasi data, keamanan, dan akuntabilitas — dan memosisikan [[trust|kepercayaan]] (termasuk kepemimpinan dan tata kelola yang mendukung implementasi) sebagai prasyarat bagi intervensi berbasis data yang bermakna.
 
-
 - **Tata kelola dapat dirancang ke dalam alat.** Profil tata kelola enam dimensi - [[pedagogy|landasan pedagogis]], otoritas instruksional, akuntabilitas dan kendali manusia, agensi dan keterlibatan kognitif pembelajar, kekhususan konteks, dan visibilitas evaluasi - menempatkan tata kelola pada model interaksi, prompt, rubrik, gerbang persetujuan, dan [[visualization|dasbor]] sebuah alat pengajaran, dan menanyakan apakah mekanismenya sesuai dengan fungsi instruksional alih-alih seberapa ketat atau permisif sebuah alat ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **Kerangka yang berpusat pada manusia menempatkan interpretasi, bukan alat, di pusatnya.** Di sebuah perguruan tinggi seni liberal yang digerakkan misi, dosen menggunakan Assessment Wizard berbantuan AI generatif selama Hari Pendidikan terstruktur, dan penulis menyimpulkan bahwa pertimbangan manusia harus tetap menjadi otoritas interpretatif yang tidak dapat dinegosiasikan, dengan pos pemeriksaan verifikasi dan tata kelola yang sudah ada sebelum implementasi luas ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). Urutannya adalah pembentukan dan verifikasi dahulu, penskalaan kemudian.
 
@@ -128,65 +125,3 @@ Ketentuan tata kelola hanya muncul dalam dokumen kebijakan umum dan tidak pernah
 - **"Universitas telah mengadopsi kebijakan AI yang mengikat."** Dari **48 institusi**, **40 (83%)** memiliki setidaknya satu dokumen yang tersedia publik, dan di antara 40 itu **tata kelola terwujud terutama sebagai panduan alih-alih** aturan mengikat. Panduan yang diterbitkan bukan kebijakan yang dapat ditegakkan.
 - **"Kebijakan ditulis mengutamakan mahasiswa karena mahasiswalah risikonya."** Sebagian besar dokumen menyasar **dosen dan mahasiswa sekaligus (20, 51%) alih-alih mahasiswa saja (6, 15%)**, dan baik jenis kebijakan maupun audiens tidak bervariasi menurut moda penyelenggaraan. Pembingkaiannya bersifat bersama, yang berarti kewajibannya juga dibagi.
 - **"Kebijakan yang ambigu tidak menyentuh pengalaman mahasiswa."** Ambiguitas kebijakan muncul langsung dalam **pengalaman mahasiswa**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|keterlibatan mahasiswa dengan GenAI]] dibentuk oleh ketidakpastian itu, sehingga ambiguitas adalah kondisi aktif alih-alih celah netral.
-
-## Konsep terkait
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[ai-use-disclosure]] — Pernyataan penggunaan dan pengungkapan AI
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-- [[student-support-and-success]] — pengawasan atas sistem dukungan AI institusional
-
-## Artikel terkait
-- [[kaze-ai-management-higher-ed-2026]] — Adopsi AI di pendidikan tinggi: argumen untuk pengelolaan AI yang ditunjuk (Kaže et al. 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Etika kepedulian untuk tata kelola AI institusional, lima komponennya dan pertanyaan institusional yang dibangkitkannya
-- [[generative-ai-governance-education-scoping-review-2026]] — Tata kelola AI generatif dalam pendidikan: tinjauan cakupan prinsip, mekanisme, dan risiko (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — Literasi AI sebagai kapasitas tata kelola untuk pembangunan berkelanjutan: Taksonomi AIRE dan Nexus AI–SDG (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — Kerangka AIGEM untuk tata kelola AI dalam manajemen pendidikan
-- [[institutional-ai-policy-health-informatics-2026]] — Dokumen kebijakan dan panduan AI di 48 program informatika kesehatan terakreditasi CAHIIM: tata kelola sebagai panduan tidak mengikat yang berpusat pada integritas (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Mahasiswa merancang bersama kebijakan kursus GenAI melalui inkuiri terpandu (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Dari analitik pembelajaran ke intervensi pendidikan: pemungkin intervensi berbasis LA yang tepercaya (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Ketidakpatuhan mahasiswa terhadap deklarasi penggunaan AI
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Biaya pengungkapan yang tersembunyi
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Pengungkapan AI oleh mahasiswa, stigma, dan regulasi diri
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Inferensi mana yang berisiko: penalaran validitas penilaian dan AI generatif (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Delphi global tentang tata kelola dan kebijakan GenAI
-- [[qian-governing-genai-higher-ed-policy-2026]] — Tata kelola melalui panduan: aturan silabus yang ditetapkan instruktur dan ekosistem dukungan empat unit di 50 universitas AS yang inovatif (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Tata kelola dosen, diskresi instruktur, dan tinjauan berkala dalam kebijakan GenAI sekolah hukum (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Larangan "AI" yang terlalu inklusif, konversi format, dan masalah penyesuaian yang wajar (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Penolakan sebagai bukti: tata kelola yang tidak merata, kewajiban memahami, dan nilai diagnostik non-penggunaan (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Tata kelola antisipatif dan kepemimpinan untuk AI
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Menerapkan AIDA di Open University
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Memimpin untuk Perubahan Transformatif
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Keterlibatan Mahasiswa dengan GenAI (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui Deteksi: Desain Ulang Penilaian Autentik
-- [[genai-policies-higher-ed-computing]] — Kebijakan GenAI institusional di bidang komputasi
-- [[genai-declaration-frameworks-higher-education]] — Kerangka deklarasi AI
-- [[genai-assessment-governance]] — Tata kelola penilaian di bawah GenAI
-- [[ai-uk-higher-education-policy-2026]] — AI dalam kebijakan pendidikan tinggi Inggris
-- [[raza-farooq-aied-review-2020-2025]] — Tinjauan komprehensif penelitian AIED
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi commons kognitif: AI dan regenerasi keahlian
-- [[policy-deficit-ai-sel-2026]] — Defisit kebijakan dalam penelitian AI × SEL
-- [[agarwal-ethical-values-norms-aied-2026]] — Nilai dan norma etis untuk AI dalam pendidikan
-- [[perrotta-zero-shot-governance-2026]] — Tata kelola zero-shot: AI serbaguna dalam kebijakan (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Tahu, Siapa yang Menjawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
-- [[instructional-governance-design-computing-education-2026]] — Tata Kelola Instruksional secara Desain: Kerangka untuk AI dalam Pendidikan Komputasi
-- [[genai-governance-australian-higher-ed-2026]] — Memetakan Batas yang Diotorisasi: Studi Kebijakan-Vinyet Komparatif atas Tata Kelola AI Generatif di Pendidikan Tinggi Australia
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegasi, bukti, dan akses: apa yang diubah AI agentik dalam tata kelola penilaian universitas (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Prototipe AI dan uji coba sekolah sebagai mesin tata kelola yang membayangkan masa depan tertentu (Williamson et al
-- [[li-su-teacher-genai-decision-making-2026]] — Jalur yang diusulkan dari kejelasan tata kelola menuju episode keputusan guru
-- [[pandey-davies-he-governance-administrative-ai-2026]] — AI administratif sebagai persoalan operasi layanan
-- [[chan-ai-policy-gap-2026]] — Bahasa tata kelola berada di kebijakan umum dan tidak pernah di aturan pendanaan yang mengikat pemohon (Chan 2026)

@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -48,7 +49,3 @@ Hillsborough Collegen opettajille ja [[educational-development|koulutuksen kehit
 ## Huomioita ja varauksia
 
 Lukeminen ei vaadi tiliä, ja Canvas-kurssit ja tarkistuslistat, joihin se linkittää, ovat julkisia. Playlab-valmentajat sekä Gemini Gemit ja muistikirjat ovat kolmannen osapuolen palveluita, jotka kyllä vaativat tilin. Kortit renderöityvät tiedostosta `apps.json`, joten täysi luettelo vaatii JavaScriptin ja skriptitön varanäkymä nimeää kahdeksan viidestätoista; lyhyt linkki `tinyurl.com/fpdapps` ja otsikon QR-koodi avaavat sen puhelimessa. Repositorio on MIT-lisensoitua ohjelmistoa, kun taas oppailla, joihin se linkittää, on omat lisenssinsä – Pressbooks-kirja niistä ei-kaupallisella Creative Commons -lisenssillä. Julkaisuaikataulua ei ole, joten sivu muuttuu ilman ilmoitusta.
-
-## Liittyvät käsitteet
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

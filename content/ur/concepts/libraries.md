@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -67,22 +69,3 @@ ai_assist:
 - **کسی بھی AI خدمت میں انسانی محافظت کا راستہ رکھیں۔** ثبوت تلاش اور مسودہ سازی کے لیے AI کی، اور ماخذ کے بارے میں فیصلے کے لیے انسانی عملے کی حمایت کرتا ہے؛ ایسے ڈیزائن جو پہلے کو بڑھانے کے لیے دوسرے کو مٹا دیں، وہ حصہ ہٹا دیتے ہیں جو صارف کو کہیں اور نہیں مل سکتا۔
 - **تلاش کی تبدیلی کو سروے کرنے کے بجائے آلہ بند کریں۔** اُدھار اور دریافت کے لاگ پہلے ہی موجود ہیں؛ جو کتب خانہ اِنہیں ہدایت کے ڈیٹا کے ساتھ جوڑے گا وہ AI کے اثر کے بارے میں اُس سے زیادہ جانے گا جو ایک بار کا طلبہ سروے دکھا سکتا ہے۔
 - **AI خواندگی کو معلوماتی خواندگی کے نام پر مت بیچیں۔** وہ عملہ اور فریم ورک میں شریک ہیں مگر اِس بات میں مختلف کہ کیا جانچا جاتا ہے؛ اِنہیں ملا دینے سے ایسا پروگرام بنتا ہے جو دونوں میں سے کسی کو نہیں ناپتا۔
-
-## منسلک تصورات
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## منسلک مضامین
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — تعلیمی کتب خانوں میں مصنوعی ذہانت کا اپنانا: موجودہ طریقوں، چیلنجوں اور تحقیقی مواقعوں کا منظم جائزہ
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — تعلیمی کتب خانوں میں معلوماتی خواندگی کی ہدایت کے اندر AI خواندگی کے انضمام کا نقشہ
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — مصنوعی ذہانت تعلیمی کتب خانوں میں معلوماتی خواندگی کو کیسے نئی شکل دے رہی ہے
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — مصنوعی ذہانت اور معلومات کی تلاش: یونیورسٹی طلبہ میں معلومات کے ماخذ کے طور پر AI چیٹ بوٹس، سرچ انجنوں اور لائبریری وسائل کا تقابلی جائزہ
-- [[huang-genai-academic-information-resources-2026]] — جنریٹیو مصنوعی ذہانت یونیورسٹی طلبہ کے علمی معلوماتی وسائل کے پائیدار استعمال کو نئی شکل دیتی ہے
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — نائجیریا کے اعلیٰ تعلیمی اداروں میں معلوماتی خواندگی اور AI ہدایت کو فروغ دینے کے لیے تعلیمی لائبریرین کی طلبہ شمولیت

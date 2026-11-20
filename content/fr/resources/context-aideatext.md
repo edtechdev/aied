@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -43,12 +44,3 @@ Les étudiants qui travaillent sur une lecture ou une série d'exercices et veul
 ## Remarques et réserves
 
 Aucun prix ni compte n'est publié pour l'outil destiné aux étudiants, tandis que le déploiement institutionnel — cloud, sur site ou hybride — est proposé sur devis et après un entretien ; considérez « gratuit » comme l'état de la démo publique en novembre 2026, non comme une garantie. Le texte et les images vont à un service hébergé alimenté par Claude, et le site lui-même demande aux utilisateurs de retirer noms, montants, adresses et noms d'entreprises avant de téléverser, ce qui déplace la charge de la désidentification vers la personne qui téléverse plutôt que vers la plateforme. Les séances se suppriment d'elles-mêmes après une heure sauf export. L'entreprise sous-jacente commercialise aussi une plateforme d'évaluation par graphes de raisonnement plus large auprès des établissements, et ses affirmations sur la distinction entre graphes déductifs, inductifs, abductifs et analogiques proviennent de quatre textes de référence — le site parle d'une démonstration, la validation à l'échelle restant à venir.
-
-## Concepts liés
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

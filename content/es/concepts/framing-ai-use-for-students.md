@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -103,37 +105,3 @@ El encuadre también pone precio a la credencial más adelante: con unos 1.750 p
 **«Prohibir una herramienta elimina la conducta.»** La reubica en herramientas que usted no puede ver. El estudiantado ya prefiere las herramientas de acceso privado a las que ofrecen las instituciones, así que una prohibición empuja el uso fuera del único entorno donde son posibles el apoyo, el registro o la orientación. La tarea del encuadre es hacer atractiva la conducta permitida, no hacer más difícil de observar la prohibida.
 
 **«El encuadre es persuasión, así que es más retórica que diseño.»** Un encuadre eficaz va acompañado de diseño: expectativas formuladas con claridad y de forma reiterada *mientras se diseña en torno al estudiantado*. Los mensajes entregados en lugar de diseñados para la situación son la versión que fracasa, porque el estudiantado nota la diferencia entre un compromiso declarado y uno real.
-
-## Conceptos conectados
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Artículos conectados
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Razonamiento transparente para cada uso permitido y no permitido de IA generativa, tarea por tarea (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Estimular el uso apropiado de la IA generativa en lugar de condenarla como disrupción
-- [[student-rationalization-ai-writing]] — Los «cinco sitios» donde el estudiantado racionaliza el uso de IA en la escritura académica
-- [[student-regulatory-awareness-genai]] — Conocer las reglas no basta: conciencia regulatoria y uso real
-- [[ai-anxiety-strategic-regulation-writing-2026]] — De la ansiedad ante la IA a la regulación estratégica
-- [[chatgpt-inoculation-training-verification-2026]] — Mensajes de inoculación y conducta de verificación
-- [[ai-fallibility-warning-help-seeking]] — Advertir sobre la falibilidad de la IA aumenta la búsqueda de ayuda
-- [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA
-- [[access-not-enough-ai-tutoring-2026]] — El apoyo humano mejora la implicación con la tutoría de IA
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Implicación con la IA generativa basada en la teoría de la autodeterminación
-- [[ai-availability-student-motivation]] — Cómo la disponibilidad de IA moldea la motivación del estudiantado
-- [[youtube-frames-chatgpt-education]] — Cómo enmarca YouTube el uso de ChatGPT en educación
-- [[ai-ethics-education-public-discourse]] — El discurso público sobre la ética de la IA en educación
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — El profesorado enmarca la IA como uso crítico y responsable; las empresas la enmarcan como productividad
-- [[ssaho-ai-academic-integrity-review-2025]] — Construir una cultura de integridad académica mediante expectativas claras
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre la secuencia: adquirir sin IA generativa, consolidar con ella, y después pensar por sí mismo

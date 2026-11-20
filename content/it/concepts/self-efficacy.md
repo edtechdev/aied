@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -83,7 +85,6 @@ L'autoefficacia si collega alla [[motivation|motivazione]], all'[[self-regulated
 
 - **Necessaria per l'utilità, non solo correlata con essa.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu e Liu (2026)]] hanno collocato l'autoefficacia in IA davanti alle due credenze di accettazione per 405 studenti magistrali di design e l'hanno trovata l'antecedente più forte di entrambe: β = 0,458 sull'utilità percepita e β = 0,394 sulla [[technology-acceptance-model|facilità d'uso percepita]]. La loro analisi delle condizioni necessarie aggiunge una forma di affermazione più forte del percorso qui sopra. L'efficacia è stata l'unica condizione identificata come necessaria per l'utilità percepita (d = 0,125, p = 0,015). Un'utilità all'80%, 90% e 100% della sua scala richiedeva efficacia al 10,0%, 30,0% e 50,0%. La sicurezza si colloca quindi come un pavimento sotto il giudizio strumentale anziché come un contributore tra i tanti. Il disegno è trasversale e il modello spiega R² = 0,150 dell'intenzione, quindi trattare le soglie come interne al campione.
 
-
 - **Le tracce comportamentali possono portare il segnale, ma sono le etichette a fissare il tetto.** Una pipeline su due università ha rilevato la bassa autoefficacia dalle tracce di interazione; le etichette per occasione d'indagine hanno battuto una suddivisione a metà semestre, e la sola sottoscala MSLQ etichettava bene quanto lo strumento completo ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Idee sbagliate comuni
@@ -92,51 +93,3 @@ L'autoefficacia si collega alla [[motivation|motivazione]], all'[[self-regulated
 - **«Un uso maggiore dell'IA con bassa fiducia è una strategia di adattamento innocua.»** Lo stesso risultato collega quel percorso a **punteggi più bassi**, quindi il pattern di adattamento ha un costo misurabile anziché essere una scelta neutra.
 - **«L'alfabetizzazione da sola costruisce la fiducia.»** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] ha intervistato **450 studenti universitari** che già usano ChatGPT e trova **la fiducia come perno tra alfabetizzazione e sicurezza**. Il percorso passa attraverso la fiducia, quindi aumentare l'alfabetizzazione senza affrontare la fiducia lascia il meccanismo intatto.
 - **«I profili di autoefficacia sono uniformi in una popolazione con disabilità.»** Un'analisi dei profili latenti su **102 studenti universitari con disabilità motorie** in Spagna ha trovato **tre profili**, con il gruppo basso al **29,4%** e il resto diviso tra profili moderati e più alti. Trattare il gruppo come un'unica popolazione media su stati motivazionali distinti.
-
-## Concetti collegati
-
-- [[learners]] — Studenti: l'insieme ombrello dei concetti lato studente
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Apprendimento socio-emotivo
-
-## Articoli collegati
-
-- [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy, trust and academic self-efficacy in a serial chain to continued ChatGPT use
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Academic self-efficacy profiles and reported AI use among university students with motor disabilities
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
-- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
-
-- [[ai-proof-learning-cognitive-offloading-2026]] — Sostenere o sostituire il ragionamento degli studenti? Lo scaricamento cognitivo nell'apprendimento assistito dall'IA delle dimostrazioni (Chen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — La Self-Efficacy for Writing Scale prevedeva più interrogazioni di traduzione e revisione, e nessun aumento nella pianificazione o nella delega dell'intero saggio (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Usare l'apprendimento automatico per misurare la convinzione di autoefficacia attraverso le tracce di interazione degli studenti nell'apprendimento potenziato dalla tecnologia
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Autoefficacia verso l'IA -> alfabetizzazione all'IA -> accettazione dell'IA, con la quota mediata dalla conoscenza misurata (İşbulan et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] — L'autoefficacia accademica prevedeva una maggiore fiducia eccessiva nell'IA anziché minore
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — L'autoefficacia come condizione necessaria per l'utilità percepita, con soglie di collo di bottiglia (Chu & Liu 2026)
-

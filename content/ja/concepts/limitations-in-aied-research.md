@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -130,48 +132,3 @@ AIは継続的に変化しており、あるモデルやシステムから導か
 - **「限界の節は定型文である。」** 方法論的な限界は**印象ではなく測定可能**です。AI を用いた批判的思考に関する **80 本の HCI 研究**の批判的レビューでは、**42 本（52%）が対照群を置いていませんでした**。正確な計数が、その限界を実行可能にするのです。
 - **「異質性は引用できる単一の数値である。」** 同じレビューは報告上の危険を示します。異質性は**固定効果モデルの下で I² = 82.98%、ランダム効果モデルの下で I² = 15.75%** と引用されています。同じデータが、選んだモデルによってまったく異なる物語になるため、モデルを伴わない I² は解釈できません。
 - **「報告された大きな効果こそ、信じるべき数値である。」** **一つのサイトの一つのコースの 30 人の学生**からの効果といった見出しが、脆い主張のよくある形であり、対照群のない研究の数は、その脆さがどれほど頻繁に報告されずに済んでいるかを示しています。
-
-## 関連する概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — 教育におけるAIの理論開発
-
-## 関連する記事
-
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育におけるAIチャットボット：期待とエビデンスの比較（Thoeni & Fryer 2026）
-- [[ground-truth-reliability-aied]] — 評価におけるグラウンドトゥルースの信頼性と妥当性
-- [[ai-literacy-assessment-misalignment]] — 自己報告型とパフォーマンスベースのAIリテラシーの比較
-- [[machines-misread-pedagogical-quality]] — なぜ機械は教育的質を誤読するのか
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — AIチューターの重大な限界と理論の使い方
-- [[cross-dataset-bloom-question-classification]] — Bloomのタキソノミーと設問分類
-- [[eeg-familiarity-automated-assessment-2026]] — 学習者評価の自動化：EEGに基づく熟悉度予測
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育におけるChatGPT：原因を探し求める効果（メディア比較批判）
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — メタメタ分析：出版バイアス調整後のAI効果は報告された効果量の約1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — 有効と推定：14件のAIEDメタ分析のフォレンジック監査
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM：AI支援システマティックレビューのための実証的報告フレームワーク
-- [[frontier-models-physics-benchmark-audit-2026]] — フロンティアモデルは物理学をどれだけ解けるのか：専門家の再採点が暴いた評価の破綻と主要ベンチマークのほぼ飽和
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 厳密さの閾値として用いられた採択基準と、モデルによって変わる異質性の数値（Doğan et al. 2026）
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 成績のアウトカムが有意水準に達しなかったクラスターランダム化教室試験（Rücker & Becker-Genschow 2025）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AIと人間による指導はGREの学習成果で同等
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の作文に対するLLM生成フィードバックの焦点と教育的適応性の評価
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育対話の監査可能なコーディングのためのアサーションに基づくスキーマ
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情分類から実行可能で責任あるフィードバックへ：学生による授業評価におけるNLPのスコーピングレビューとエビデンスマップ、2015–2026年
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度指標が見落とすもの：合成教育データの構造的チェック
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 検索式の設計が報告される頻度を左右する、教員養成研究195件のスコーピングレビュー
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — K-12教員の国際比較調査：機械翻訳された項目、単一項目による懸念の測定、不変性検定なし
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — GenAI高等教育研究103件のシステマティックレビュー：56%が条件付きの成果、成績がプロセスの変化を覆い隠す（Hawi & Samaha 2026）
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — データ拡張は見出しとなる指標を人為的に作り出せる
-- [[tischkau-ai-simulated-patient-formats-2026]] — 実行可能性それ自体を独立したアウトカム分類とする：募集率26%、完了率100%、データ収集後に定義されたアウトカム

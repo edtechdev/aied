@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -94,27 +96,3 @@ LPA 假定样本来自若干子群的混合，每个子群在各指标上有自�
 - **“潜在剖面分析发现的是本来就存在的群体。”** LPA 把学习者多样性从修辞主张变成可测量的发现，而这些剖面是**在选定边界处切分的连续体模型**，不是自然类别。剖面的数量是一项分析决定。
 - **“潜在变量家族里的任何方法都可以。”** 用哪一种**取决于指标**：**分类指标用 LCA**，连续指标用 LPA。先选方法再选指标，会让结果成为选择的产物。
 - **“剖面可以跨研究比较。”** Chen 及其同事基于五个 [[technology-acceptance-model|TAM]]/UTAUT2 构念对 **128 名台湾职前教师**做剖面，而 Acquah 及其同事对 **509 名加纳本科生**做剖面。不同人群中的不同指标，不会产生可通约的剖面标签。
-
-## 关联概念
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## 关联文章
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — 379 名商科学生中四种 AI 态度类别的 Lo–Mendell–Rubin 保留证据
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — 心理适应的三波潜在类别转移分析
-- [[liang-ai-learning-motivation-sdt-2026]] — 一年内三种动机类别的潜在转移分析
-- [[trust-in-ai-psychological-profiles-ml-2026]] — k-means 类别；轮廓系数与 Calinski–Harabasz 分歧；ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 用层次聚类与 k-means 得到四种生成式 AI 采纳画像
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 来自 49 个系统 40,680 名教师的四种教师 AI 信念类别，含对齐稳定性

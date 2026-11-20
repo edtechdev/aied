@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,7 +38,3 @@ K-12-এর জন্য: পাঠ-পরিকল্পনা, ওয়ার
 
 ## টীকা
 প্রকল্পটি গতির জন্য স্থানীয়ভাবে ইনস্টল করা একটি এআই সার্ভারের দাবি করে এবং বলে ডেটা স্থানীয়ভাবে প্রক্রিয়া হয় ও কখনো সংরক্ষিত হয় না, সঙ্গে Department of Education নির্দেশনার সম্মতি; [দল-পাতা](https://teacherserver.com/index-team.php) প্রতিষ্ঠাতা ও ডেভেলপার হিসেবে দক্ষিণ ফ্লোরিডা বিশ্ববিদ্যালয়ের অধ্যাপক Zafer Unal-কে নাম দেয়, সঙ্গে অন্য বিশ্ববিদ্যালয়ের চারজন অনুষদের একটি উপদেষ্টা বোর্ড। শিক্ষার্থীর কাজ নিয়ে ব্যবহারের আগে এই দাবিগুলো তবুও যাচাই করার মতো। প্রবেশাধিকারের জন্য নিবন্ধন লাগে, এবং নিজের সরঞ্জাম বানানোর জন্য একটি সঙ্গী পরে-পেইড প্ল্যাটফর্ম আছে।
-
-## সংযুক্ত ধারণা
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

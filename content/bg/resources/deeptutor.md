@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -43,6 +44,3 @@ ai_assist:
 ## Бележки
 
 Лицензиран под Apache 2.0, версия 1.6.9 към септември 2026 г., с около 40 000 звезди в GitHub. Публикуваната оценка зад него — средно 10,8% подобрение по персонализирани показатели спрямо силни базови линии и 29,4% по-силно общо агентно разсъждение при пет базови модела, върху бенчмарка TutorBench — е обобщена на [[zhao-deeptutor-agentic-personalized-tutoring-2026|страницата на статията]], чиито ограничения важат и тук. Както при всеки AI стек с отворен код, вие осигурявате ключовете на доставчика на модели, а разгръщане на настолен компютър или сървър очаква Python 3.11 и Node.
-
-## Свързани понятия
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

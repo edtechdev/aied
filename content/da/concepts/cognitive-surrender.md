@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -112,38 +114,3 @@ Evidensen for overgivelse som et navngivet konstrukt hviler tungt på ét progra
 **"Løsningen er bedre AI, da overgivelse følger af fejl."** Overgivelse følger af interaktionens *struktur*: et system, der producerer et plausibelt svar først, fjerner anledningen for eleven til at generere et. Bedre nøjagtighed reducerer skaden fra forkerte svar og gør intet ved opgivelsen af at danne en dømmekraft, og det er den skade, der består, når værktøjet er væk.
 
 **"At undervise i kritisk evaluering er tilstrækkeligt."** Det er nødvendigt, og det ankommer for sent. Når først et plausibelt svar står på skærmen, bliver evaluering til bekræftelse, og derfor sætter designlitteraturen her elevens forsøg før systemets output i stedet for at revidere det efterfølgende.
-
-## Forbundne begreber
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Forbundne artikler
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teori og overgivelsens eksperimentelle signatur
-- [[generative-ai-reduced-study-time-math]] — Forskydning på befolkningsniveau i ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — rammen overgivelse/udlicitering/handlingsrum i PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — instrumentel versus dømmekraftsbærende assistance
-- [[ai-advice-suppresses-ikt-suspension-2026]] — kollapset i "det ved jeg ikke"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neural involvering og forfatterskab
-- [[genai-thoughtless-use-self-directed-learning-2026]] — tankeløs brug og selvstyret læring
-- [[stamatoulis-genai-use-patterns-2026]] — ibrugtagning med lav verifikation versus evaluerende integration
-- [[cognitive-washout-ai-skill-decay-2026]] — hvad der sker efter tilbagetrækning
-- [[ai-overreliance-complex-adaptive-system-2026]] — afhængighed som en befolkningsproces
-- [[brcic-effortless-trap-productive-struggle-2026]] — at placere AI, så opgaven forbliver krævende
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringstræning
-- [[family-school-autonomy-support-genai-2026]] — afhængig versus autonom udlicitering
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — En assistent forankret i arbejdsarket sænkede udliciteringen i stedet for at hæve den, en grænsebetingelse for overgivelsessignaturen (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistisk uddelegering af hele essayet: 15 af 77 essays helt modelskrevet, 20 anmodninger om et komplet essay (Jelson et al. 2026)

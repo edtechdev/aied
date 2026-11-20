@@ -19,12 +19,13 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
 > **সহায়তা-সন্ধান** — সহায়তার প্রয়োজন চিনে নেওয়া এবং কৌশলগতভাবে তা চাওয়ার শিক্ষার্থীর প্রক্রিয়া, এবং এআই-সমর্থিত শেখার পরিবেশে সেই প্রক্রিয়া কীভাবে প্রকাশ পায়। [[ai-education|শিক্ষায় এআই]]-তে সহায়তা-সন্ধান কেন্দ্রীয়, কারণ এআই সরঞ্জাম শেখাকে সমর্থন করে নাকি ক্ষয় করে তা নির্ভর করে সহায়তা-সন্ধানের *গুণমানের* উপর (কখন, কীভাবে ও কী চাওয়া হয়) এবং এআই টিউটর, সংকেত ও [[pedagogy|শিক্ষাগত]] এজেন্টগুলো নকশা করা হয় ঠিক যেন উত্তর-সন্ধানের বদলে ফলপ্রসূ সহায়তা-সন্ধান উৎপন্ন হয়।([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 সক্রিয় উদ্যোগ শেখার উপকরণে কোনো পরিবর্তন ছাড়াই সহায়তা-সন্ধান বাড়াতে পারে। বড়-ভর্তির স্নাতক কোর্সে একটি পূর্ব-নিবন্ধিত পরীক্ষায় শিক্ষার্থীদের একাডেমিক চ্যাটবটের মাধ্যমে বার্তা পাঠানো হয়েছিল এবং টিউটরিং ও সম্পূরক শিক্ষার গ্রহণ বেশি পাওয়া গেছে; মধ্যস্থতা-বিশ্লেষণ গ্রেড-প্রভাবের 17.8% সেই বর্ধিত সহায়তা-সন্ধানের জন্য আরোপ করেছে (p = 0.041) ([[chatbot-outreach-course-performance-2026]])।
 
@@ -115,7 +116,6 @@ ai_assist:
 
 **সহায়তা-সন্ধানের গতিপথ কেবল তার মাত্রা নয়, স্থানান্তরও পূর্বাভাস দেয়।** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani প্রমুখ (2026)]] এলএলএম দিয়ে গণিতের সমস্যা মডেল করা 112 মাধ্যমিক শিক্ষার্থীর 880 টার্ন কোড করেছেন এবং পেয়েছেন স্থির মিশ্রণ কোনো তথ্য দেয় না: 81.5% টার্ন ছিল অনুরোধ, কেবল 2.2% স্পষ্ট মূল্যায়ন, আর অনুরোধের 54% বোঝাপড়া-কেন্দ্রিক বনাম 46% উত্তর-সন্ধানী। এআই ছাড়া নেওয়া পরবর্তী-পরীক্ষার কর্মক্ষমতা পূর্বাভাস দিয়েছে অধিবেশন-মধ্যবর্তী ঢাল, তার মাত্রা নয়। বোঝাপড়া-কেন্দ্রিক সহায়তা-সন্ধান চ্যাট জুড়ে কমেছে (M = −0.20), এবং সেই গতিপথ পূর্ব-পরীক্ষার স্কোর-সহ একটি মডেলে ΔR2 = .110 যোগ করেছে (β = .34, p < .001)। স্থির মিথস্ক্রিয়া-বৈশিষ্ট্য যোগ করেছে কেবল ΔR2 = .023 (p = .684)। তাই সহায়তা-সন্ধানের গুণমান একটি বক্ররেখা হিসেবে পড়তে হয়: যে অধিবেশন ধারণাগত প্রশ্ন দিয়ে শুরু হয়ে উত্তর-অনুরোধে থিতিয়ে পড়ে তা দুর্বল সহায়তাহীন কর্মক্ষমতা চিহ্নিত করে, আর স্পষ্ট স্ব-নিয়ন্ত্রণে সামান্য বৃদ্ধি (M = +0.103) তা পূরণ করেনি।
 
-
 **একটি দ্বিতীয় পাইপলাইন অবকাঠামোর দিক থেকে একই প্রশ্ন তোলে।** [[taufer-human-ai-interaction-haidl-2026|Taufer প্রমুখ (2026)]] যুক্তি দেন মানব-এআই বিনিময় নিজেই একটি স্বতন্ত্র ডেটা-শ্রেণি: তাদের উপস্থাপনা একই বস্তু হিসেবে লিপিবদ্ধ করে সেই গণনামূলক অবস্থা যা অনুরোধের জন্ম দিয়েছে, অনুরোধ, উত্তর, ব্যবহারকারীর তার মূল্যায়ন এবং পরবর্তী সম্পাদন। এরপর কোয়েরিগুলোকে সেই প্রেক্ষাপট থেকে ত্রুটি-পুনরুদ্ধার, আটকে-পরবর্তী-ধাপ, ধারণাগত সহায়তা বা যাচাই হিসেবে শ্রেণিবদ্ধ করা হয়। 35 শিক্ষার্থীর একটি JupyterLab স্থাপনায় 140 শিক্ষার্থী-অ্যাসাইনমেন্ট জোড়া জুড়ে, সাধারণ মিথস্ক্রিয়া-গণনা সফলভাবে সম্পাদিত সেলের সঙ্গে সম্পর্কিত ছিল কেবল r = 0.12, অথচ 37 জোড়ার প্রবেশাধিকার ছিল কিন্তু কখনও ব্যবহার করেনি, আর 26 জোড়া তাদের নির্ধারিত শর্তের বাইরে এটি ব্যবহার করেছে।
 
 ## নকশা ও গবেষণার জন্য তাৎপর্য
@@ -131,52 +131,3 @@ ai_assist:
 - **"যে শিক্ষার্থীদের সহায়তা দরকার, তারা তা চায় না।"** বড়-ভর্তির স্নাতক কোর্সে একটি **পূর্ব-নিবন্ধিত পরীক্ষা** একাডেমিক চ্যাটবটের মাধ্যমে শিক্ষার্থীদের বার্তা পাঠিয়ে **টিউটরিং ও সম্পূরক সমর্থনের বেশি গ্রহণ** পেয়েছে। নাজ নড়িয়েছে আচরণ, তাই বাধা ছিল [[prompt-engineering|প্ররোচনা]], ইচ্ছা নয়।
 - **"সহায়তা-সন্ধানের অনুরোধ শেখার বিষয়ে।"** **পরিচালনামূলক সমর্থন-চাহিদা** এই ধারণাকে জটিল করে: **4,093 কোয়েরি** জুড়ে অন্তত **20.4% জ্ঞান চাওয়ার বদলে একটি অমীমাংসিত জমার অবস্থা সম্পর্কে জিজ্ঞাসা করেছে**। সহায়তার চাহিদার এক-পঞ্চমাংশ ছিল প্রশাসনিক।
 - **"এআই টিউটর ব্যবহার মানে নিজের শেখার পর্যবেক্ষণ।"** একটি জেনএআই টিউটর ব্যবহার করা **98 জন নবম-শ্রেণির শিক্ষার্থীর** গবেষণায় মিথস্ক্রিয়া ছিল **উপকরণভিত্তিক অনুরোধে প্রাধান্যপূর্ণ, নিজের শেখার প্রায় কোনো পর্যবেক্ষণ বা মূল্যায়ন ছাড়াই**। উত্তর চাওয়া সেই অর্থে সহায়তা-সন্ধান নয়, যে অর্থে গঠনটি বোঝায়।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — প্রাতিষ্ঠানিক উদ্যোগ ও সমর্থন-বণ্টন, কোর্স-অভ্যন্তরীণ সহায়তা-সন্ধানের বাইরে
-
-## সংযুক্ত নিবন্ধ
-
-- [[leite-its-k12-meta-analysis-2025]] — কোন টিউটরিং-সহায়তা প্রভাব বহন করে: স্বয়ংক্রিয় প্রম্পটের বদলে চাহিদামতো উদাহরণ ও সংকেত
-- [[taufer-human-ai-interaction-haidl-2026]] — প্রথম-শ্রেণির ডেটা হিসেবে মিথস্ক্রিয়া: চারপাশের সম্পাদন-অবস্থা দিয়ে কোয়েরি শ্রেণিবদ্ধ করা
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — সহায়তা-সন্ধানের গতিপথ, তার মাত্রা নয়, সহায়তাহীন গণিত-কর্মক্ষমতা পূর্বাভাস দেয়
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — চলমান প্রোগ্রামিং কোর্সে পরবর্তী-জমার সঠিকতা, প্রচেষ্টা ও সময়ের বিপরীতে মাপা সংকেতের দৈর্ঘ্য
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — যে সহায়ক-এজেন্ট কেউ চায়নি (Humburg প্রমুখ 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: এলএলএম ব্যবহারকারী কলম-ভিত্তিক ইন্টারঅ্যাকটিভ ইন-সিটু প্রশ্নোত্তর ব্যবস্থা
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM-এ এলএলএম-মধ্যস্থ সহায়তা-সন্ধান: স্তরিত, উপকরণভিত্তিক ও যাচাইকৃত
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — এক ক্লিক দূরে: দুই বছরের স্কুল-পরীক্ষায় Khanmigo
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — সিএএল-সহ ভার্চুয়াল টিউটরিং: গ্রহণ ও শেখার একটি পরীক্ষা
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — এআই কোর্সে শিক্ষার্থী–এলএলএম সংলাপের StudyChat ডেটাসেট
-- [[lak2026-hint-button-unproductive-use]] — অকালীন সংকেত-অনুরোধ ও পৃষ্ঠতল সংকেত-পাঠ আইটিএস-এ কম শিখন-লাভের পূর্বাভাস দেয়
-- [[ai-fallibility-warning-help-seeking]] — এআই-এর ভুলপ্রবণতা নিয়ে সতর্কবার্তা গণিত টিউটরিং ব্যবস্থায় সহায়তা-সন্ধান বাড়ায়
-- [[regulating-ai-tutor-adolescent-srl]] — কিশোরদের জেনএআই সহায়তা-সন্ধান ও স্ব-নিয়ন্ত্রিত শেখায় উদ্দেশ্য-আচরণ ব্যবধান
-- [[guided-llm-scaffolding-independent-learning]] — দিশাযুক্ত এলএলএম স্ক্যাফোল্ডিং যুক্তি-কেন্দ্রিক সহায়তা-সন্ধান ও স্বাধীন শেখা উন্নত করে
-- [[rethinking-scaffolding-llm-tutors]] — বাস্তব-জগতের এলএলএম টিউটর স্থাপনায় স্ক্যাফোল্ডিং/শিক্ষার্থী-গ্রহণের অসঙ্গতি
-- [[uneven-impact-generative-ai-student-learning-2026]] — আগাম নির্ভরতা: স্বাধীন চিন্তা, অনুসন্ধান বা প্রশিক্ষকের আগে জেনএআই-এর পরামর্শ নেওয়া সুবিধা ও ক্ষতি দুটোই পূর্বাভাস দেয় (Manikonda প্রমুখ 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — অনলাইন রচনায় সম্পদ-সাক্ষরতা: সীমাবদ্ধতা হলো কখন সহায়তা দরকার তা চিনে নেওয়া (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — একাডেমিক সমর্থনের বাধা কমানো: উচ্চশিক্ষায় সহায়তা-সন্ধানের বৈষম্য মোকাবিলায় কোর্স-নির্দিষ্ট আরএজি ব্যবস্থার মূল্যায়ন
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — অভিযোজনশীল স্ক্যাফোল্ডিংয়ের প্রয়োজন আকস্মিকতা: শিক্ষার্থী যা করে তার উপর ভিত্তি করে ওঠা-নামা করা এআই টিউটর
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: সমস্যা-সমাধানের সময় লক্ষ্যভিত্তিক এআই সহায়তা-সন্ধানের স্ক্যাফোল্ডিং
-- [[guided-ai-tutor-impasse-resolution-2026]] — দিশাযুক্ত এআই টিউটররা শিক্ষার্থীর অচলাবস্থা কীভাবে মেটায় তার ভিন্নতা পরীক্ষা
-- [[student-query-demand-hybrid-ai-support-2026]] — শিক্ষার্থীরা আসলে কী জিজ্ঞাসা করে: একটি সংকর সহায়তা ব্যবস্থায় চাহিদার কাঠামো ও স্বয়ংক্রিয়করণের সম্ভাবনা

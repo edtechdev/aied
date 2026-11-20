@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -41,11 +42,3 @@ Læs den som en række projektberetninger snarere end en evaluering. Bogen løbe
 ## Noter og forbehold
 
 Kapitellicenserne er fælden. Samlingen er CC BY 4.0, men de enkelte forfattere beholder ophavsretten og valgte deres egne Creative Commons-licenser, så et kapitel kan være mere restriktivt, end bogens forside antyder; kapitlet om lærebogsrevision er CC BY-NC-SA 4.0, og genbrug skal tjekke kapitlet snarere end frontmatteren. Forfatterne havde ingen påkrævet procedure for AI-deklaration, så de fleste kapitler diskuterer deres proces i forbifarten, generelt efter OER Commons' vejledning. Efter redaktionelt valg beholder hvert kapitel sin forfatters faglige stemme, tegnsætning og regionale retskrivning, så prosæn læses ikke ensartet. Frem for alt dokumenterer hvert kapitel ét lokalt projekt, og ingen to deler instrument eller sammenligning, så bindet tilbyder praksis at tilpasse snarere end evidens at citere.
-
-## Relaterede begreper
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

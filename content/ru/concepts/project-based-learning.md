@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -84,31 +86,3 @@ PBL связан с [[active-learning]], [[experiential-learning]], [[collaborat
 
 - Находка о модерации — это продуктовое предупреждение: встраивание чат-бота в специально созданную среду совпало с *меньшим* объединённым эффектом. Проверяйте, что адаптация добавляет учебную ценность, а не предполагаемое удобство.
 - Если вы выпускаете модуль PBL, результат приносит слой инструкций, а не модель.
-
-## Связанные понятия
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Зонтичное понятие: педагогики и стратегии преподавания в ИИ-образовании
-- [[arts-and-media-education]]
-
-## Связанные статьи
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — проблемное и проектное обучение как многообещающие рамки для образования с поддержкой генеративного ИИ: возникающие свидетельства из систематического обзора и трёхуровневого метаанализа
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL — доминирующая стратегия обучения вычислительному мышлению
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — разработка, управляемая спецификацией (SDD), с ИИ-агентами в командном программном PBL
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: иммерсивная VR-дизайн-студия со встроенным обучающим агентом, оценённая в сравнении с традиционным PBL (Jin et al. 2026)

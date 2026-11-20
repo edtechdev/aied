@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -99,30 +101,3 @@ ai_assist:
 
 - דווחו את תנאי קידוד האווירה (טהור מול קוד-גלוי) לצד התוצאות, והשתמשו במשימות מומחיות-מאומתות ומוכוונות-GUI ולא ב[[self-report-measures|הצלחה מדווחת-עצמית]], כדי שהתוצאות יהיו בנות-השוואה בין מחקרים.
 - מדדו גיוון ארטיפקטים, לא רק מספר ארטיפקטים או מספר בונים, אם טיעון הגישה נבחן.
-
-## מושגים מחוברים
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## מאמרים מחוברים
-
-- [[vibe-coding-writing-cs-achievement-2026]] — הישג במדעי המחשב ומיומנויות כתיבה חוזים מיומנות קידוד אווירה (מחקר אמפירי CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — מסגרת מכוונת למורי גן-תיכון ביצירת טכנולוגיות למידה מונעות-בינה מלאכותית דרך קידוד אווירה
-- [[vibe-coding-programming-process-visualizer]] — מרעיון לכיתה בימים: שימוש ב"קידוד אווירה" ליצירת ממשק תצוגת תהליך תכנות מיומני פעילות IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — קידוד אווירה בנה שתי סימולציות הנדסה בשעות; אבחון שגיאת פרוטוקול עדיין דרש את המרצה
-- [[prompt-problems-nl-programming-mistakes]] — הבנת תפיסות, טעויות וגישות ניפוי-באגים של סטודנטים כשהם פותרים משימות תכנות בשפה טבעית
-- [[code-to-learn-genai-artifact-construction-2026]] — קוד ללמידה עם בינה מלאכותית יוצרת: מסגרת מבוססת-תיאוריה לבניית ארטיפקטים בחינוך בית-ספר-על-יסודי
-- [[reshaping-cs-education-genai]] — עיצוב מחדש של חינוך CS לתואר ראשון עבור בינה מלאכותית יוצרת
-- [[flowcode-ai-creative-coding]] — Flowcode: סביבת תכנות מונעת-בינה מלאכותית לפיגום חוזרות במחשוב יצירתי
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — אינטרפרנרשיפ בינה מלאכותית: סגל שבונה את הכלים שלו, והמאפשרים הארגוניים שקובעים אם הדחף ישרוד (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — כלי אחד, טעם אחד? כיצד קידוד אווירה מחליף גיוון קולקטיבי ביצירתיות אינדיבידואלית

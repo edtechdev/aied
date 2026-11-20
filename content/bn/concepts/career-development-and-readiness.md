@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,7 +39,6 @@ ai_assist:
 
 ## জ্ঞানভাণ্ডারে কর্ম-বিকাশ ও প্রস্তুতি কীভাবে দেখা যায়
 - **কর্ম-অভিযোজনক্ষমতা এআই-উদ্বেগ কমায়।** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] দেখান, ইংরেজি বিভাগের শিক্ষার্থীদের মধ্যে কর্ম-অভিযোজন-সক্ষমতা এআই-উদ্বেগকে উল্লেখযোগ্যভাবে ও নেতিবাচকভাবে পূর্বানুমান করে, এবং মূল স্ব-মূল্যায়ন সম্পর্কটির আংশিক মধ্যস্থতা করে; কম-অভিযোজনক্ষমতা দলটি সর্বোচ্চ এআই-উদ্বেগ দেখিয়েছে। [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] SEM দিয়ে কাঠামোটি নিশ্চিত করেন: এআই-উদ্বেগ মূলত ক্ষয়প্রাপ্ত কর্ম-অভিযোজনক্ষমতার মধ্য দিয়ে কর্ম-সিদ্ধান্তে ক্ষতি করে (মোট প্রভাবের 63.35%), আর স্ব-কার্যকারিতা সীমিত বাফার জোগায়। [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] যোগ করেন, 1,057 শিক্ষার্থীর মধ্যে এআই-উদ্বেগ ও নেতিবাচক এআই-মনোভাব স্নাতকের পর চাকরি-খোঁজার উদ্বেগের পূর্বানুমান করে, যেখানে নারী, সমাজবিজ্ঞান বিভাগের শিক্ষার্থী ও দ্বিতীয় বর্ষের শিক্ষার্থীরা সবচেয়ে বেশি প্রভাবিত। [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] এটি স্বাস্থ্যবিজ্ঞানের শিক্ষার্থীদের পর্যন্ত বিস্তৃত করেন (821, r = 0.233)। ফলে কর্ম-প্রস্তুতি [[anxiety-and-stress|কর্মসংক্রান্ত এআই-উদ্বেগের]] বিরুদ্ধে পরীক্ষামূলকভাবে যাচাই করা একটি বাফার।
-
 
 - **প্রস্তুতি কার্যকলাপ-সম্পৃক্ততা মাপত, হুমকির মাত্রা নয়।** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]]-এ সবচেয়ে এআই-উদ্বিগ্ন প্রোফাইলটিই সর্বোচ্চ কর্ম-নির্মাণ (4.222) ও স্ব-অনুভূত কর্মনিয়োগযোগ্যতা (3.964) জানিয়েছে, সেই সঙ্গে অনুকূল প্রোফাইলটিও, যা উল্লেখযোগ্যভাবে আলাদা ছিল না — অর্থাৎ উদ্বেগের মাত্রা কর্ম-প্রস্তুতিকে নির্দেশ করেনি।
 - **এআই সাক্ষরতা প্রয়োজনীয়, কিন্তু যথেষ্ট নয়।** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] যুক্তি দেন, কর্ম-প্রস্তুতির জন্য কেবল এআই সাক্ষরতা যথেষ্ট নয় — শিক্ষার্থীর অভিযোজনক্ষমতা ও ইতিবাচক স্ব-মূল্যায়নও দরকার, যা [[ai-literacy]]-কে সরাসরি কর্ম-ফলাফলের সঙ্গে যুক্ত করে। [[ai-literacy-graduate-employability-2026|Hendrawan ও Lestari (2026)]] জাকার্তার 455 চূড়ান্ত বর্ষের শিক্ষার্থীর ওপর এটি পরিমাণগতভাবে পরীক্ষা করেন: কর্ম-অভিযোজনক্ষমতা উল্লেখযোগ্য পরোক্ষ প্রভাব বহন করে (β = 0.173), আর প্রবৃদ্ধি-মানসিকতা পথটিকে আদৌ নিয়ন্ত্রণ করে না, ফলে কাজটি মানসিকতা নয়, অভিযোজনক্ষমতাই করে।
@@ -67,34 +68,3 @@ ai_assist:
 - **"এআই-উদ্বেগ একটি সাধারণ প্রবণতা, যা আশ্বাস দিয়ে দূর করা যায়।"** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] SEM দিয়ে নিশ্চিত করেন, এআই-উদ্বেগ **মূলত ক্ষয়প্রাপ্ত কর্ম-অভিযোজনক্ষমতার (মোট প্রভাবের 63.35%) মধ্য দিয়ে কর্ম-সিদ্ধান্তে ক্ষতি করে**। কাঠামোটি নির্দিষ্ট: উদ্বেগ কাজ করে অভিযোজনের সক্ষমতা সরিয়ে নিয়ে, ফলে অনুভূতিকে লক্ষ্য করা আশ্বাস সেই মধ্যস্থতাকারীকে এড়িয়ে যায় যে প্রভাবটি বহন করে।
 - **"কর্ম-অভিযোজনক্ষমতা কারিগরি যোগ্যতার তুলনায় নরম দক্ষতা।"** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] দেখান, কর্ম-অভিযোজনক্ষমতা **এআই-উদ্বেগ কমায়**, যা এটিকে পরবর্তী ফলাফলের বদলে উজানের হস্তক্ষেপ করে তোলে। অভিযোজনক্ষমতা গড়লে কাঠামোটির মোকাবিলা হয়; এটিকে ঐচ্ছিক সুবিধা ভাবলে মধ্যস্থতাকারী অক্ষত থাকে।
 - **"এআই নিয়ে উদ্বেগ সমভাবে ছড়ানো।"** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] দেখেন, এআই-উদ্বেগ ও নেতিবাচক এআই-মনোভাব **1,057 শিক্ষার্থীর** মধ্যে স্নাতকের পর চাকরি-খোঁজার উদ্বেগের পূর্বানুমান করে, যেখানে **নারী ও সমাজবিজ্ঞান বিভাগের শিক্ষার্থীদের** ধরন ভিন্ন। অভিন্ন হস্তক্ষেপ সহায়তা ভুল জায়গায় বিনিয়োগ করে।
-
-## সংযুক্ত ধারণা
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — সমাপ্তির পর যে ফলাফল আসে: অধ্যবসায়, ধরে রাখা এবং স্নাতক সম্পন্ন
-
-## সংযুক্ত নিবন্ধ
-- [[ai-free-gates-engineering-students-india-2026]] — এআই-মুক্ত প্রবেশদ্বার থেকে এআই-প্রথম কাজ: ভারতের ইঞ্জিনিয়ারিং শিক্ষার্থীরা এআই-নির্দেশিকা ছাড়া বিশ্ববিদ্যালয়-শিক্ষা ও ক্যাম্পাস প্লেসমেন্ট কীভাবে সামলায়
-- [[boyd-swan-employer-responses-genai-2026]] — প্রায় 1,750 মার্কিন নিয়োগ-পেশাজীবীর ওপর জরিপ-পরীক্ষা: প্রতিস্থাপন-উপস্থাপনা সাক্ষাৎকার ও বেতন-আলোচনার ইচ্ছা কমিয়েছে, সবচেয়ে বেশি উচ্চ-GPA আবেদনকারীদের জন্য (Boyd-Swan ও Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM প্রমাণ যে এআই সাক্ষরতা কর্ম-অভিযোজনক্ষমতার মধ্য দিয়ে অনুভূত কর্মনিয়োগযোগ্যতায় পৌঁছায়, প্রবৃদ্ধি-মানসিকতা কিছুই যোগ করে না (Hendrawan ও Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — মূল্যায়ন বনাম কর্মশক্তি-যোগ্যতার বাণিজ্য, কাজে কাজে সিদ্ধান্ত (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — কর্ম-অভিযোজন-সক্ষমতা এআই-উদ্বেগ কমায়
-- [[ai-literacy-career-adaptability-business-2026]] — ব্যবসায়-শিক্ষায় এআই সাক্ষরতা ও কর্ম-অভিযোজনক্ষমতা
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — আটটি ফোকাস গ্রুপ: ব্যবহারকারীরা দক্ষতা ও পরিমার্জনকে কৃতিত্ব দেন, অ-ব্যবহারকারীরা মৌলিকত্ব ও দলগত কাজকে (সহায়িত স্বায়ত্তশাসন বনাম ধীর সৃজনশীলতা)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — কলেজ স্নাতকদের জন্য এআই দক্ষতা: প্রশিক্ষক ও নিয়োগকর্তার অগ্রাধিকার
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — স্মার্ট ম্যানুফ্যাকচারিংয়ের জন্য কর্মশক্তি-প্রস্তুতি
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — এআই এবং ইঞ্জিনিয়ারিং/কম্পিউটিং কর্মশক্তির ভবিষ্যৎ
-- [[post-covid-ict-career-aspirations]] — কোভিড-১৯-এর পর ICT কর্ম-আকাঙ্ক্ষা
-- [[kim-ai-anxiety-comprehensive-analysis]] — এআই-উদ্বেগ ও প্রতিস্থাপনের ভয়
-- [[duan-ai-anxiety-career-decisions-college-2026]] — এআই-উদ্বেগ কর্ম-অভিযোজনক্ষমতার মধ্য দিয়ে কর্ম-সিদ্ধান্তে ক্ষতি করে (63.35% মধ্যস্থতা)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — এআই-উদ্বেগ ও মনোভাব চাকরি-খোঁজার উদ্বেগের পূর্বানুমান করে (1,057 শিক্ষার্থী)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — স্বাস্থ্যবিজ্ঞানে এআই-উদ্বেগ চাকরি-অনুসন্ধানের উদ্বেগের পূর্বানুমান করে (r=0.233, 821 শিক্ষার্থী)
-- [[ai-attitude-latent-profiles-career-development-2026]] — চারটি এআই-মনোভাব প্রোফাইল: কর্ম-নির্মাণ ও কর্মনিয়োগযোগ্যতা অনুসরণ করেছিল সম্পৃক্ততাকে, উদ্বেগকে নয়
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — প্রশিক্ষকের পূর্বাভাস ভবিষ্যদ্বাণী, কর্মসংস্থান সম্পর্কে প্রমাণ নয়
-- [[kong-ai-employability-cognitive-engagement-2026]] — এআই-সমর্থিত শিখন থেকে কর্মনিয়োগযোগ্যতা পর্যন্ত একটি বর্ণনামূলক পর্যালোচনার গঠন-মানচিত্র

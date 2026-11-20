@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,41 +83,3 @@ ai_assist:
 - **「アクセシビリティとは配慮のことである。」** 神経発達の多様な学生のためのデジタル支援技術に関する**40研究**のスコーピングレビューでは、**28研究が参加の条件として正式な診断を求めて**いました。それは診断を条件とするモデルであり、ニーズはあるがラベルを持たないすべての学習者を排除します。普遍的な設計の正反対です。
 - **「中程度の効果で問いは決着する。」** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhangら]]は**29研究**をメタ分析し、中程度の正の効果を見出しました。それは実在しますが、どのニーズにどのツールかを何も語りません。異質な介入にわたる平均は推奨ではありません。
 - **「速度と即時性は利便性である。」** パレスチナの三つの大学にわたる**21人の視覚に障害のある学部生**の質的事例研究では、学習者は即時性を**利便性ではなく基盤的なアクセシビリティ要件**として枠づけました。外からは贅沢に見えるものが、参加の前提条件なのです。
-
-## 関連概念
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — 学習者の多様性にわたる教育設計のためのより広い傘
-- [[special-education]] — 診断された障害のある学習者のための教授の領域
-- [[universal-design-for-learning]] — 先を見越した設計の枠組み
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — ヘッドセット、動揺病、機器へのアクセスが誰が使えるかを決めます
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — 過度に広い規則、欠陥のあるエビデンス、合理的調整のための包括的なページ
-- [[arts-and-media-education]]
-
-## 関連記事
-- [[shin-ai-policies-sld-2026]] — 特定の学習障害のある学生のための AI 方針と配慮
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 障害のある学生への AI 介入のメタ分析
-- [[adhd-video-segmentation-computing-education]] — 固定された休止を入れた AI 区間分割動画
-- [[text-simplification-its]] — 知的指導のための LLM ベースのテキスト平易化
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — ろう者／難聴の学習者のための LLM 問題生成
-- [[kutti-ai-voice-first-learning-companion]] — 視覚に障害のある子どものための音声優先の伴走者
-- [[tactile-statistical-graphs-accessibility]] — 触覚的な 3D 印刷の統計グラフ
-- [[pepper-robot-sign-language-lis-2025]] — 手話を支援する Pepper ロボット
-- [[genai-minoritized-knowledges-disability]] — AI と障害中心の知に関する批判的視点
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX による数学的にアクセシブルな物理学動画の文字変換
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 視覚に障害のある学習者のための支援的な生成AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、バーチャルリアリティ、そしてその先へ：高等教育における神経発達の多様な学生のためのデジタル支援技術のスコーピングレビュー
-- [[wright-transcription-not-generation-2026]] — 文字変換は生成ではない：過剰包摂的な AI 禁止とそれが捉える支援ツール
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026)：100校のエリート大学の0%がAIのアクセシビリティ方針を公表する一方、93%はAIのキャンパスサービスを展開している
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

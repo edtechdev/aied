@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -141,60 +143,3 @@ Bir öğretmen hangi bileşimi seçerse seçsin, onu şekillendirmesi gereken bi
 **“YZ performansı yükseltiyorsa öğrenmeyi de yükseltir.”** Çevrim içi ortamlarda ayrışma sınıflardakiyle aynıdır: bir [[rct]], korumasız YZ desteğinin alıştırma performansını yükseltirken yardımsız sınav puanlarını *düşürdüğünü*, “cevabı değil ipucunu ver” öğretmeninin ise zararı ortadan kaldırdığını bulmuştur. Çevrim içi kurslar eşzamansız değerlendirmeye daha çok dayandığından geçerlilik, desteklenmiş ile desteklenmemiş performans arasındaki boşlukta kazanılır ya da yitirilir.
 
 **“Değerlendirme geçerliliği bir notlandırma politikası sorunudur.”** Ortamın yarattığı bir tasarım sorunudur: bir teslim, öğrenen orada olmadan üretilebildiğinde geçerlilik, görevin öğrencinin işi yaptığına dair kanıt üretip üretmemesine bağlıdır. Görevi yeniden tasarlamak bunu ele alır; suiistimal cezasını sıkılaştırmak almaz.
-
-## Bağlı kavramlar
-- [[pedagogical-patterns]] — Sıralamayı yük taşıyan kılan bağlam; çünkü sistem bir denemeyi göremez
-- [[assessment-validity]] — teslim edilen işten öğrenmeye çıkarımın geçerliliği
-- [[agentic-ai]] — bir LMS dâhil araçları ve platformları işleten özerk sistemler
-- [[community-of-inquiry]] — Community of Inquiry
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## Bağlı makaleler
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Özerk ajanlar gözetimsiz LMS değerlendirmelerini baştan sona tamamladı: bir değerlendirme geçerliliği problemi (Hadjisolomou ve El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — Değerlendirme ikizleri: YZ’ye kırılgan bir görevi, aynı çıktılar üzerinde yakın zamanda planlanmış daha az kırılgan biriyle eşleştirmek
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Geçerlilik kanıtı olarak ortak yazarlık bütünlüğü ve ölçeklenebilir doğrulama olarak AI Viva
-- [[asynchronous-oral-assessment-2026]] — Eşzamansız sözlü değerlendirmeler: gömülü derecelendirme ölçeklerine karşı notlanan süre sınırlı, üzerinde düzeltme yapılmayan kayıtlar
-- [[brcic-effortless-trap-productive-struggle-2026]] — Zahmetsiz tuzak: izinden çok YZ’nin yerleşimi
-- [[metacognitively-discordant-completion-genai-2026]] — Üstbilişsel olarak uyumsuz tamamlama: anlaşılmadan teslim edilen doğru iş
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Hangi öz düzenlemeli stratejiler düşük dijital dikkat dağılmasıyla çakışır (530 öğrenci)
-- [[song-genai-learning-partner-srl-over-time-2026]] — Kararlı bir yetenek ve dalgalanan bir durum olarak SRL; bir dönem boyunca azalan üstbiliş ve iyi oluş
-- [[genai-marketing-education-roles-2026]] — Öğretmen, takım arkadaşı ve araç olarak YZ: roller ve varlık üzerindeki etkileri
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Tespitin ötesinde: çevrim içi ortamlar için değerlendirme tasarımı
-- [[reconceptualizing-community-inquiry-generative-ai]] — Üretici YZ çağında Community of Inquiry’nin Yeniden Kavramlandırılması
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Yükseköğretimde çevrim içi öğrenmeye YZ bütünleştirmek: dört temalı eleştirel literatür derlemesi
-- [[mooc-to-maic]] — MOOC’tan MAIC’e: LLM güdümlü ajanlarla çevrim içi öğretim ve öğrenmenin yeniden şekillendirilmesi
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: Çevrim içi öğrenme için kişiselleştirilmiş ve uyarlanabilir destek sistemi
-- [[llm-facilitation-timing-online-discussions]] — Çevrim içi tartışmalarda insan ve LLM kolaylaştırıcı eğilimleri
-- [[elevate-genai-virtual-tutors]] — ELEVATE: İnsan merkezli GenAI sanal öğretmenleri
-- [[conversational-ai-tutors-framework]] — Konuşmaya dayalı YZ öğretmenlerine giden yol
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Açık Üniversite’de AIDA’nın uygulanması
-- [[ai-adult-learning-guidelines-dis2026]] — Yetişkin öğrenmeyi desteklemek üzere YZ teknolojileri tasarlamaya ilişkin yönergeler
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Ajan temelli kişiselleştirilmiş öğretmenliğe doğru
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Müdahale araç değil, rol tasarımıdır
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Çalışan öğretmenler için altı haftalık eşzamansız lisansüstü kurslar: biçimi sıkıştırmak yerine yeniden tasarlamak
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Harmanlanmış sınıflarda ML bulgularını öğretmenlere erişilebilir kılmak
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Öğrenciler kişiselleştirilmemiş insan kayıtlı videolara kıyasla kişiselleştirilmiş YZ üretimli videoları tercih eder (Tomlinson ve diğerleri 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Çevrim içi tartışma forumlarında YZ tarafından üretilen özetle güdümlenmiş öğrenme tasarımı
-- [[ai-training-science-teacher-tpack-distance-2026]] — Yerleşke temelli öğretmen adayları, uzaktan eğitimdeki akranlarına kıyasla YZ ile bütünleşik fen öğretimi için daha yüksek TPACK bildirdi (yüzde 64,0’a karşılık 47,4)
-- [[aggarwal-genai-cybersecurity-2026]] — İki kampüste 19 öğrenci: birlikte kayıt bazıları için kampüsler arası etkileşim üretmedi (Aggarwal 2026)

@@ -12,6 +12,8 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 > **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or [[explainable-ai|transparency]] statements, these mechanisms sit at the intersection of [[academic-integrity|academic integrity]], [[ethics|ethics]], [[trust|trust]], and [[assessment|assessment]] in the AI era. The [[research-methods-aied|research]] shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning|self-regulated learning]] and [[help-seeking|help-seeking]].
@@ -84,44 +86,3 @@ AI use and disclosure sits at the intersection of [[academic-integrity|academic 
 - **"Students hide AI use because they are dishonest."** The drivers are documented and specific: only **about 34% of economics students admitted AI use** with disclosure rarer, driven by **penalty anxiety**, while another study found **66% never or rarely disclosed** with **fear of academic penalty the top reason**. The policy design, not character, is what the data implicate.
 - **"A disclosure requirement is a low-cost control."** A **74% non-compliance rate** makes the resulting record worse than no record: it is a dataset that appears complete and is not, so the institution is making decisions on a sample it cannot trust.
 - **"Disclosing how the model was used is enough."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argues disclosure documents model use while responsible use requires claim-level authorial warrant — the contributor's capacity to understand, justify and defend the claims — separating [[cognitive-offloading|cognitive delegation]], where outputs shape substantive choices, from routine delegation, which does not.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — the harm disclosure is meant to make visible
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — why learners choose to hide rather than disclose
-
-## Connected Articles
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — A SEM split: detection certainty vs. the risk that declaring exposes improper use (Liu et al. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — The mirror direction: telling students when AI grades their work, and asking before uploading it
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Disclosure as the boundary between assistance and misrepresentation across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
-- [[authorial-warrant-ai-supported-scholarship-2026]] — When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship (Mirończuk 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI disclosure labels, perceived authenticity, and trust in AI-generated instructional videos
-
-- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI in Course Materials: Faculty Use and Perceptions

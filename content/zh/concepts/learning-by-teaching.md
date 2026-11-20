@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -121,32 +123,3 @@ ai_assist:
 **"让 LLM 装作困惑只是一句简单的提示。"** 这是一个设计问题，因为易错性必须校准到所教的概念以及学习者兼教师当前的模型上。随机错误产生调试练习；反映某个具体而可信的误解的错误才产生概念重构，而只有后者是教学目标。
 
 **"通过教学学习比被教更轻松。"** 它要求更高。为教学做准备迫使知识组织并定位自己的空白，这正是该方法暴露被动接受所掩盖的误解的原因：难度是机制，而不是需要被最小化的成本。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 向 AI 被辅导者讲解：知识库中证据最充分的序列
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-
-## 关联文章
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT 作为编程中的可教智能体
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique：面向 546 名学生的可教智能体
-- [[prompting-teachability-novice-personas-lbt-2026]] — 为可教性设计新手人设
-- [[socrates-students-instructors-llms-lbt-2025]] — 学生作为 LLM 的教师（Socrates）
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — 通过教 AI 来学习词汇
-- [[knowloop-confusion-to-consolidation-2026]] — 对话式回顾系统中的回讲巩固
-- [[simulating-novice-students-machine-unlearning-2026]] — 用机器遗忘把被辅导者维持在新手知识水平，并通过教学对话再学习
-- [[simulating-students-java-programming-errors-llms]] — 用 LLM 模拟学生错误
-- [[knowledge-building-tutor-learning-2026]] — 知识建构式回应而非先前知识预测辅导者的学习

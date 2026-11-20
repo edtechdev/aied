@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -90,41 +92,3 @@ Kullanmama da kendisi [[pedagogy]]’nin planlaması gereken bir etkileşim ör�
 - **“Etkileşim taksonomileri yerleşmiştir.”** **33 çalışmadan 46 kategorizasyon boyunca benzer etiketler farklı olguları adlandırmaktadır**; incelemenin birim olarak *etkileşim bölümünü* önermesinin nedeni budur. Bir taksonomiden ödünç alınan kodlama şeması, farklı bir yapıyı ölçüyor olabilir.
 - **“Öğrenciler YZ'yi özel öğretmen olarak kullanır.”** Denetimsiz argümantasyon kompozisyonlarını tamamlayan **38 lisans öğrencisi** arasında **%76,32'si tek turlu sor-cevap al-durdur örüntüsünü kullanmıştır** ve tipik olarak değerlendirme başlığını yapıştırmıştır. Baskın örüntü tek turlu bilgi çekmedir; bu, özel öğretmenlik değildir.
 - **“Daha fazla YZ kullanımı, materyalle daha fazla etkileşim olduğunu gösterir.”** **200 eş programlama sohbet oturumunun** analizi, **öğrenci-GenAI etkileşimlerinin %78,8'inin ustalık dışı amaç ve stratejiler üzerinde işlediğini** bulmuştur. Etkileşim hacmi öğrenme yöneliminden başka bir şeyi ölçmüştür; dolayısıyla oturum sayıları yanıltıcı bir etkileşim vekilidir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Bağlı makaleler
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Kullanım sıklığı ve kendi bildirilen uzmanlık 819 öğrenci boyunca hiçbir şeyi yordamadı
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Denetimsiz öğrenci–GenAI değerlendirmelerinde bilişsel dış kaynağa başvurma ve yeniden dağıtım (Yan ve ark. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": öğretmen adaylarının değerlendirmelerde GenAI’yi benimsememesi (Zou ve ark. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Öğrenci–YZ etkileşiminde talep türlerinin analizi
-- [[student-llm-interaction-taxonomy-review-2026]] — Öğrenci–LLM Etkileşim Taksonomi İncelemesi
-- [[teacher-authored-prompts-student-ai-dialogue]] — Öğrenci–YZ Diyalogunda Öğretmen Tarafından Yazılan İstek Metinleri
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): BB2’de LLM bütünleşimi
-- [[li-dbagent-llm-educational-agent-cs-2026]] — BB eğitiminde LLM tabanlı eğitim ajanı (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — Kayıtlı istek metni yazma ve bütünleştirme davranışları
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Öğrenci–YZ etkileşiminin Üç Yol tipolojisi: yüzde 46 Pasif İnceleme, yüzde 18 Doğrudan Soru, yüzde 36 Stratejik Diyalog
-- [[porcaro-ai-grading-benchmark-2026]] — Uyumun ötesinde: 22 istek metni puanlayıcısı, doğru yanıtı bilinen yoklamalarla sınanıyor ve çoğu yukarı konuşulabiliyor (Porcaro 2026)

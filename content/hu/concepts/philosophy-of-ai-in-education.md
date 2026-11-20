@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -87,34 +89,3 @@ A MI oktatásfilozófiája és a [[theory-development-aied|elméletfejlesztés a
 
 - Mondja meg, milyen tanulásfelfogást feltételez az értékelése, mert egy mért nyereség csak valamilyen, az oktatás céljáról alkotott felfogáshoz viszonyítva oktatási jó.
 - Finanszírozza a filozófiai munkát az empirikus munka mellett: azok a kérdések, hogy mi számít a tanuló teljesítményének, határozzák meg a siker kritériumait, amelyeket az empirikus tanulmányok aztán használnak.
-
-## Kapcsolódó fogalmak
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Kémiaoktatás és MI: laborok, formatív értékelés, LLM-korlátok, a kísérletezés filozófiája
-
-## Kapcsolódó cikkek
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI a kínai felsőoktatásban: integritás és elköteleződés
-- [[ensemble-cognition-philosophy-ai-education]] — Együttes kogníció: filozófiai keretrendszer az ember–MI kognícióhoz
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagógiai szimbiózis és a poszthumán tanuló
-- [[videla-embodied-ai-education-choreography]] — A testetlen MI oktatásbeli használatának megtestesült, posztkognitivista kritikája
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Az értelmező kogníció fejlődési-kritikai modellje a humán tudományokban
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Az episztemikai együgynökség mint a gépekkel való tanulás filozófiája
-- [[avraamidou-ai-colonization-science-education]] — Kritikai-feminista filozófia, amely az oktatás MI-gyarmatosítását firtatja
-- [[generative-ai-mediational-agent-sociocultural-2026]] — A generatív AI mint mediációs ügynök
-- [[young-people-learning-generative-ai-rapid-review-2026]] — A GenAI ökológiai tanuláselméleti keretezése
-- [[philosophy-experimentation-ai-chemistry-2026]] — A kísérletezés filozófiája a kémiában MI-vel
-- [[strydom-human-gai-paradigms-2026]] — Az ember–MI dinamika keretezése: hét GAI-elköteleződési paradigma (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternatív MI-filozófia: a daoizmus mint módszer az oktatásbeli MI-hez
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ki cselekszik, ki tud, ki válaszol? Korpusz-asszisztált diskurzuselemzés az ügynökségről, episztemikai felelősségről és elszámoltathatóságról a generatív MI felsőoktatási kutatásában
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — Az „emberközpontú" AIED antropocentrikus diskurzusként, kereskedelmi felhasználással (Wang és Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Tudnak-e a gépek érzelmi munkát végezni? Az 1950–1996-os vita, és miért határozza alul az utánzás a gondoskodást

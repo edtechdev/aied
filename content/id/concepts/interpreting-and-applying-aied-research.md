@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -156,41 +158,3 @@ Pemeriksaan di atas bukan kearifan rakyat; pemeriksaan itu berasal dari kegagala
 **"Nilai yang lebih tinggi saat menggunakan alat menunjukkan bahwa alat itu mengajar lebih banyak."** Dalam satu studi matematika [[k-12|K-12]], siswa yang berlatih dengan [[conversational-ai|chatbot]] serbaguna memperoleh nilai latihan yang lebih baik lalu mendapat skor **sekitar 17% lebih buruk** pada penilaian tanpa bantuan. Kinerja latihan yang diukur dengan alat itu hadir adalah ukuran yang digelembungkan; yang tanpa bantuan adalah hasilnya, dan hanya satu dari keduanya yang naik.
 
 **"Jika efeknya nyata, detail implementasinya tidak terlalu penting."** Detail itulah efeknya. Studi yang mengikuti 30 siswa dalam satu mata kuliah di satu institusi, pada versi alat yang tidak lagi digunakan siapa pun, telah menghasilkan temuan tentang konfigurasi yang tidak lagi ada. Spesifikasi perlakuan, versi, dan latar adalah bagian dari klaimnya, bukan konteks di sekitarnya.
-
-## Konsep terkait
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Artikel terkait
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit forensik atas 14 meta-analisis AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Efek AI yang disesuaikan bias publikasi sekitar sepertiga ukuran yang dilaporkan
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: sebuah efek yang mencari penyebab
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kriteria inklusi yang dipakai sebagai ambang ketelitian, dan heterogenitas yang berubah menurut model
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Ketika reliabilitas penilaian otomatis bertemu plafon pengukuran tugas
-- [[verification-quality-reliance-calibration-genai-2026]] — Apa yang tidak diukur oleh literatur verifikasi dan ketergantungan
-- [[citation-errors-hallucinations-computing-education-2026]] — Referensi yang difabrikasi dan lolos ke cetak pada 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Perolehan latihan, kerugian ujian: masalah penghilangan bantuan dalam matematika K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Efek subkelompok yang interval kepercayaannya melewati nol
-- [[chick-faculty-development-ethical-ai-2026]] — Kondisi pendukung: sinyal kebijakan, langganan pribadi, tanpa waktu
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Metrik vendor dengan kalibrasi dan jumlah eksperimennya diungkapkan
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Temuan yang terikat pada versi model, dan pergolakan bidangnya
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Jumlah bukti independen untuk 16 produk AI yang berhadapan dengan siswa dan sudah digunakan
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Sebuah tinjauan dapat mengukur kemencengan pelaporan dalam korpusnya sendiri

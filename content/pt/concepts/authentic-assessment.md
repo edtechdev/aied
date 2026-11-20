@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -104,64 +106,3 @@ O recuo carrega um custo probatório que a evidência dos arquivos de caso torna
 - **"Autenticidade é sobre tarefas realistas."** A [[meta-analysis-systematic-review|revisão de escopo]] de [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud e Du (2025)]] sobre **37 estudos empíricos (2000-2024)** propõe um modelo de desenho de **seis dimensões**, e apenas **3 dos 37 estudos trataram da autenticidade social** — se a avaliação ajuda os estudantes a contribuir para a transformação societal. O realismo é uma dimensão, e a dimensão mais avançada é mal estudada.
 - **"A avaliação autêntica resiste à IA."** A exposição é mensurável e grande: um **curso de três anos de psicologia** se mostrou **90% aprovável**, com o ChatGPT produzindo **saída adequada em 36 de 40 avaliações de curso**, restando apenas as demais. A maior parte da avaliação de um curso era satisfazível por IA.
 - **"O redesenho é opcional se o trabalho é do mundo real."** O resultado de 36 de 40 foi encontrado em trabalhos de curso cuja autenticidade supostamente não estava em questão. O realismo da tarefa não protegeu contra a conclusão por IA; o desenho do que é avaliado protegeu.
-
-## Conceitos conectados
-
-- [[learner-identity]] — identidades de estudante disciplinares, profissionais, criativas e acadêmicas em evolução
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Avaliação somativa: formatos resistentes à IA (oral, com supervisão, livros fechados)
-- [[arts-and-media-education]]
-- [[reflection]]
-
-## Artigos conectados
-
-- [[thapa-lewis-process-oriented-assessment-2026]] — avaliação orientada ao processo e autenticidade epistêmica como o que uma tarefa deve autenticar
-- [[ivory-psychology-assessment-integrity-2026]] — O que a IA não conseguiu passar: presença, artefatos visuais e os dados do próprio estudante (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — Uso paternalista de IA e identidade do estudante na educação em história
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Desenhando para a avaliação autêntica: uma revisão de escopo
-- [[beyond-detection-authentic-assessment-ai-2025]] — Além da detecção: avaliação autêntica
-- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação responsável na era da IA
-- [[authentic-products-authenticated-processes-2026]] — Produtos autênticos, processos autenticados
-- [[tool-invariant-framework-agentic-ai]] — Framework invariante a ferramentas para ensinar e avaliar métodos computacionais
-- [[cong-confidence-asag-2026]] — Correção automatizada de respostas curtas com consciência de confiança
-- [[llm-fallacy-misattribution]] — A Falácia do LLM e a Atribuição Indevida de Competência
-- [[universities-ai-era-rethinking]] — Repensando as Universidades na Era da IA
-- [[ssaho-ai-academic-integrity-review-2025]] — Múltiplos métodos de avaliação para combater a má conduta com IA
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderando as provas orais como avaliação autêntica e resistente à IA
-- [[roe-assessment-twins-2026]] — Gêmeas de avaliação para fortalecer a validade da avaliação na era da IA generativa (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para assegurar a qualidade da aprendizagem em um futuro integrado à IA generativa (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Avaliações orais assíncronas na era da IA (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: avaliando a aprendizagem através da interação com IA generativa (DRI + Visible Expertise)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Critérios de autenticidade que levaram grupos de estudantes a reduzir o uso de IA generativa
-- [[teacher-educators-ai-integration-preservice-2026]] — A crise de confiança em IA que empurrou os formadores de professores de volta às provas supervisionadas e às defesas orais (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — O desenho orientado à integridade distinguido da avaliação autêntica: tornando o julgamento visível (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — O que os arquivos de alegação de má conduta realmente contêm como evidência, e a evidência de processo que lhes falta (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Precisão dos detectores e falha na escrita híbrida: por que a detecção é uma evidência fraca de recurso (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Proibições de IA sobreinclusivas: transcrição não é geração (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando avaliações autênticas com IA generativa: um estudo piloto do Assessment Authentifire no ensino superior
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Corrosão do realismo da tarefa: o redesenho resistente à IA corroendo a autenticidade no ensino de línguas on-line
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Formatos de superfície autêntica (apresentações gravadas, projetos remotos em grupo, artefatos digitais) pontuam alto em 53.915 itens: a autenticidade não verifica a autoria

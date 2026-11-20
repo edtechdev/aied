@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
@@ -119,36 +121,3 @@ ai_assist:
 এতে কাজটি অকেজো হয় না। এতে দাবিগুলি যথাযথভাবে সংযত হয়। রূপক-উদ্ভাসন এমন অনুমান প্রকাশ করতে পারে যা জরিপ মিস করে। উপমা-সমালোচনা গঠনগত বোঝাপড়া দৃশ্যমান করতে পারে। সুবাছাই করা রূপক শ্রেণিকে বিতর্কের জন্য একটি ভাগাভাগি বস্তু দিতে পারে। কিন্তু ক্ষেত্রটির এখনও এমন গবেষণা দরকার যা রূপক-ভিত্তিক নির্দেশনাকে সাধারণ নির্দেশনার সঙ্গে তুলনা করে, রূপকের স্মরণের বদলে স্থানান্তর মাপে, এবং পদ্ধতিটি সংস্কৃতি ও বিষয়জুড়ে চলে কি না পরীক্ষা করে।
 
 অতিরিক্ত দাবির ঝুঁকি দুই দিকেই বাস্তব। যে শিক্ষক রূপককে সম্পূর্ণ ব্যাখ্যা হিসেবে দেখেন, তিনি ভুল ধারণা বসিয়ে দিতে পারেন। যে গবেষক রূপককে নিছক অলংকার হিসেবে দেখেন, তিনি সেই প্রক্রিয়াটি মিস করতে পারেন যার মাধ্যমে শিক্ষার্থীরা মানসিক মডেল গড়ে বা গড়তে ব্যর্থ হয়। ফলপ্রসূ অবস্থান হলো রূপককে নকশাকৃত, আংশিক ও সমালোচনাযোগ্য উপস্থাপনা হিসেবে দেখা, এবং শিক্ষার্থীরা তা দিয়ে কী করে তা অধ্যয়ন করা।
-
-## সংযুক্ত ধারণা
-
-- [[ai-literacy]] — সমালোচনামূলক এআই-সাক্ষরতা ও রূপক-ভিত্তিক শিক্ষাদানের ছাতা।
-- [[critical-thinking]] — গঠনগত যুক্তির একটি রূপ হিসেবে উপমা-সমালোচনা।
-- [[misconceptions]] — ত্রুটিপূর্ণ উপমা দীর্ঘস্থায়ী ভুল ধারণার উৎস।
-- [[student-ai-interaction]] — শিক্ষার্থীরা এআই-ব্যাখ্যা কীভাবে ব্যাখ্যা ও নিরীক্ষা করে।
-- [[pedagogical-agent]] — এআই টিউটর যারা ব্যাখ্যা বা উপমা তৈরি করে।
-- [[learning-design]] — উপমা-ভিত্তিক সামগ্রী বাছাই ও ক্রমানুসরণ।
-- [[educational-development]] — অনুষদ-উন্নয়নে রূপক-উদ্ভাসন।
-- [[engineering-education]] — প্রকৌশলে অনুষদ ও শিক্ষার্থীর রূপক।
-- [[cs-education]] — কম্পিউটিং শিক্ষায় উপমার ব্যবহার ও সমালোচনা।
-- [[cognitive-offloading]] — সরঞ্জাম ও সহকারী-রূপক এবং তাদের ঝুঁকি।
-- [[trust-calibration]] — মানবসদৃশ ভূমিকা ও ভুলভাবে স্থাপিত বিশ্বাস।
-- [[equity-in-ai-education]] — কার উৎস-ক্ষেত্র পরিচিত হিসেবে গণ্য।
-- [[teacher-role]] — এআই-উৎপন্ন ব্যাখ্যার উপর প্রশিক্ষকের বিচার।
-- [[explainable-ai]] — ব্যবস্থা-ব্যাখ্যা বনাম শিক্ষাতাত্ত্বিক উপমা।
-- [[student-engagement]] — ব্যক্তিগতকৃত উপমার সম্পৃক্তিমূলক প্রভাব।
-- [[higher-ed]] — এই গুচ্ছের বেশিরভাগ গবেষণার প্রেক্ষাপট।
-
-## সংযুক্ত নিবন্ধ
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — সমালোচনামূলক এআই-সাক্ষরতা শেখানোর চারটি রূপক ও মানদণ্ড
-- [[student-reception-genai-analogies-computing-2026]] — শিক্ষার্থীরা GenAI-উৎপন্ন উপমা নিরীক্ষা করে ভাঙা মানচিত্রায়ণ মেরামত করে
-- [[fear-awe-genai-metaphor-workshops-2025]] — শিক্ষার্থী, শিক্ষাবিদ ও কর্মীদের সঙ্গে রূপক-বিশ্লেষণ কর্মশালা
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — প্রকৌশল-অনুষদের রূপক এআই-বোঝাপড়া গড়ে ও সীমিত করে
-- [[genai-professionalization-metaphors-2026]] — GenAI ও পেশাগত শিখন সম্পর্কে শিক্ষার্থীদের রূপক-ধারণাকরণ
-- [[thermomix-genai-education-analogy-2026]] — অর্পণ ও এআই-সহ শিখনের জন্য একটি রান্নাঘর-যন্ত্রের উপমা
-- [[anvil-ai-educational-animations]] — কম্পিউটিংয়ের জন্য এআই-উৎপন্ন উপমা ও শিক্ষণ-অ্যানিমেশন
-- [[ai-engineering-education-balancing-act]] — শিক্ষার্থীদের "দৈববাণী" ও "টিউটর" রূপক LLM-সামর্থ্য ছাড়িয়ে যায়
-- [[code-anchor-multi-view-visualization]] — রূপক-ভিত্তিক দৃশ্যায়ন স্ক্যাফোল্ড ও তাদের বৈধতার সমস্যা
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — সাক্ষরতার প্রমাণ হিসেবে শিক্ষার্থীর "প্রতিক্রিয়ার ভেন্ডিং মেশিন" রূপক
-- [[daoism-ai-education-philosophy-2026]] — শিক্ষায় এআই-এর বিপরীত-রূপক হিসেবে "Zhenren"

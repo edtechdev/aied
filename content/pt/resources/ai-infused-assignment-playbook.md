@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -48,16 +49,3 @@ Professores das mais diversas disciplinas, especialmente no ensino superior e em
 ## Notas e ressalvas
 
 Este é um guia prático, não um estudo empírico; suas afirmações sobre o uso de IA pelos estudantes se apoiam em fontes externas citadas (BestColleges, Campbell, Digital Education Council, Flaherty), e não em dados novos. O framework da "construção de redes" e o enquadramento da "ilusão de compreensão" vêm da literatura mais ampla (Wigmore et al.; Williamson et al.) e são apresentados como justificativa pedagógica, não como resultados testados do próprio manual. As atividades são modelos escritos por autoria — nenhuma delas é relatada com tamanhos de efeito, então devem ser tratadas como desenhos a adaptar e avaliar localmente. Publicado em 2026-10-07, v1, no Zenodo sob CC BY 4.0; download gratuito sem necessidade de conta. No momento da ingestão, o registro mostra apenas ~35 visualizações e ~14 downloads, então ele teve pouco uso externo ou revisão por pares até agora.
-
-## Conceitos conectados
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

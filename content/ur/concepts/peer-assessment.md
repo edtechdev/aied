@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,7 +74,6 @@ ai_assist:
 
 ڈیزائن کتنا اہم ہے اس کا سب سے سخت امتحان ایک کثیر مقام جھرمٹ بے ترتیب تجربہ ہے۔ [[genai-feedback-design-multisite-experiment|Ateş (2026)]] نے 4 یونیورسٹیوں کے 48 سیکشن بے ترتیب تفویض کیے — [[biology-education|حیاتیات]]، [[chemistry-education|کیمسٹری]] اور [[physics-education|فزکس]] میں 1,176 پہلے سال کے انڈرگریجویٹس — اور سائنسی استدلال کے لیے چار شرطیں بنائیں: صرف ہم مرتبہ فیڈبیک، براہ راست GenAI فیڈبیک، غور طلب GenAI فیڈبیک (خود جانچ پھر AI تنقید)، اور خود جانچ → ہم مرتبہ فیڈبیک → GenAI تنقید کا امتزاج۔ براہ راست GenAI نے فوری دلیل کے معیار پر ہم مرتبہ فیڈبیک کو پیچھے چھوڑا مگر کمزور [[transfer-of-learning|منتقلی]] دکھائی؛ غور طلب اور امتزاجی ڈیزائنوں نے زیادہ مضبوط فیڈبیک قبولیت اور خود ضابطہ سیکھنا پیدا کیا؛ امتزاج نے تصوراتی سیکھنے پر سب سے واضح برتری دکھائی؛ دونوں نے تاخیری، AI سے پاک منتقلی پر براہ راست GenAI کو پیچھے چھوڑا۔ مصنفین یہ نتیجہ اخذ کرتے ہیں کہ GenAI کی قدر رسائی پر کم اور اس پر زیادہ منحصر ہے کہ ماحول نظرثانی کے دوران طالب علم کی ایجنسی اور ملکیت محفوظ رکھتا ہے یا نہیں۔
 
-
 AI فیڈبیک کو ہم مرتبہ بحث سے پہلے ترتیب دینا، بعد میں نہیں، بھی نتائج بڑھاتا ہے: صرف ہم مرتبہ فیڈبیک کے مقابلے میں، 122 چینی EFL طلبہ جنہیں AI اور ہم مرتبہ کا مربوط فیڈبیک دیا گیا، انہوں نے زیادہ جذباتی، رویّاتی اور علمی شمولیت رپورٹ کی (جزوی η² = 0.29، 0.28، 0.32) اور IELTS تحریر کی چاروں جہتوں پر بہتر کارکردگی دکھائی، سب سے زیادہ کام کی تکمیل میں (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]])۔
 
 یہ نمونہ — ابتدائی برتری جو قائم نہیں رہتی — پھر آتا ہے جب موازنہ صرف GenAI کے بجائے استاد کے فیڈبیک اور AI کی معاونت والے ہم مرتبہ فیڈبیک کے درمیان ہو۔ [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, and Luo (2026)]] نے 61 چینی L2 مصنفین (244 درجہ بند متون) کے ساتھ آٹھ ہفتے کا نیم تجربہ کیا جو ایک ہی پانچ جہتوں والی چیک لسٹ پر کام کر رہے تھے، ایک کلاس کو استاد کا تحریری فیڈبیک اور دوسری کو AI کی معاونت والا ہم مرتبہ فیڈبیک ملا۔ استاد کے فیڈبیک نے کہیں زیادہ تبصرے پیدا کیے — پہلے کام میں 185 کے مقابلے 316 اکائیاں — جو الفاظ اور تکنیکی تفصیلات پر مرکوز تھے، اور قدرے بڑا فوری فائدہ دیا، لیکن اس کی بہتری دوسرے کام تک تیزی سے گر گئی جبکہ AI کی معاونت والی ہم مرتبہ کلاس مستحکم رہی اور زیادہ نظرثانی اسکور کے ساتھ ختم ہوئی۔ AI کی معاونت والے ہم مرتبہ تبصرے کم تھے مگر مواد اور ساخت میں جڑے رہے، اور الفاظ کے تنوع میں ان کی ابتدائی برتری قائم نہ رہی؛ کسی بھی طریقے نے نحوی پیچیدگی کو حرکت نہیں دی۔ مصنفین دونوں کو تکمیلی [[scaffolding|سہارے]] پڑھتے ہیں اور AI–ہم مرتبہ–استاد کا امتزاج تجویز کرتے ہیں، جس میں AI مسودہ سازی کے دوران سطحی غلطیاں نشان زد کرتا ہے، ساتھی نظرثانی میں مواد پر گفت و شنید کرتے ہیں، اور استاد اس چیز کو نشانہ بناتا ہے جہاں تک کوئی نہ پہنچا۔
@@ -102,50 +103,3 @@ GenAI کی وساطت سے ہونے والا جائزہ ٹول کے لسانی �
 - **"ہم مرتبہ جائزہ مدرس کے فیڈبیک کا سستا متبادل ہے۔"** [[learning-by-teaching|سکھانے سے سیکھنا]] طریقہ کار ہے، اور یہ مشینوں میں بھی نظر آتا ہے: **2.4 ملین AI ایجنٹوں** کے درمیان ہم مرتبہ سیکھنے جیسی گفتگو زیادہ تر **دعوے پر مبنی تھی، تفتیش پر نہیں**۔ تنقید پیدا کرنا وصول کرنے سے مختلف فعل ہے۔
 
 - **گروپ گریڈ کے پیچھے ریکارڈ کے طور پر عکاسانہ ہم مرتبہ اور خود فارم۔** [[issa-teamwork-framework-academic-integrity-2024|Issa اور Hall (2024)]] نے پوسٹ گریجویٹ بزنس پروجیکٹ مینجمنٹ یونٹ میں ہر ٹیم کے ساتھی کے لیے ایک ہم مرتبہ عکاسانہ فارم اور ہر طالب علم کے لیے ایک خود عکاسانہ فارم استعمال کیا، ساتھ ہی ہر ٹیم کے ساتھ 30 منٹ کا اجلاس جس میں ارکان سے پوچھا گیا کہ اُن کی شراکت اصل تھی یا نہیں۔ فارم فیڈبیک کے تبادلے کے طور پر گریڈ نہیں کیے گئے۔ وہ فی شخص ثبوت تھے جن سے مدرس 40% ٹیم جانچ کے اندر انفرادی نمبر کا دفاع کر سکا۔ فریم ورک کا 27/40 سے 31/40 تک نمبروں کا اضافہ نئے لیکچرر کے ساتھ گڈمڈ ہے اور اُس کا دیانت کا دعویٰ غیر مقدار شدہ ہے، چنانچہ منتقل ہونے والا حصہ ریکارڈ رکھنے کا ڈھانچہ ہے، اثر کا حجم نہیں۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — PAIRR اور مشترکہ ہم مرتبہ جمع AI فیڈبیک: ترتیبیں اور ان کا موازناتی ثبوت
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## منسلک مضامین
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — مربوط AI جمع ہم مرتبہ فیڈبیک نے شمولیت کی تینوں جہتیں اور IELTS تحریر کی چاروں جہتیں بڑھائیں
-
-- [[usher-faraon-who-grades-best-2026]] — ChatGPT، ہم مرتبہ اور مدرس کی درجہ بندی کا منصوبے کے معیار کی سطحوں میں موازنہ (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — ہم مرتبہ اور AI جائزہ + غور (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI ہم مرتبہ فیڈبیک نظام
-- [[ai-internal-feedback-evaluative-judgments]] — انڈرگریجویٹس کی جانچی صلاحیت کی نشوونما کو کھولنا
-- [[learner-centered-feedback-ai]] — AI کے ساتھ سیکھنے والے مرکز فیڈبیک کو بہتر بنانا
-- [[genai-linguistic-diversity-academic-writing]] — جنریٹیو AI اور تعلیمی تحریر میں لسانی تنوع
-- [[gift-ai-pairr-business-writing-2025]] — بزنس رائٹنگ کورس میں PAIRR: ہم مرتبہ جائزہ، چیٹ بوٹ فیڈبیک، غور (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — خود ضابطہ فیڈبیک اور فیڈبیک خواندگی کے سہارے کے لیے GenAI بمقابلہ انسانی ساتھی (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — تقریر پر EFL ہم مرتبہ فیڈبیک میں GenAI بطور ٹرینر اور سنتھیسائزر (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — صرف ہم مرتبہ، براہ راست، غور طلب اور امتزاجی GenAI فیڈبیک کا کثیر مقام تجربہ (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — تعاونی استدلال میں پرامپٹ سہارے والا GenAI ہم مرتبہ فیڈبیک (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI کی وساطت والی گروپ جانچ میں ایجنسی: تعاون، ضبط، عدم نفاذ (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — CS1 میں GenAI کے لیے نقصان میں کمی کے طور پر زبانی کوڈ جائزہ انٹرویوز (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — ہم مرتبہ فیڈبیک کے قابل توسیع متبادل کے طور پر خودکار ملٹی موڈل پریزنٹیشن کوچنگ (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI کے پیدا کردہ بحث کے خلاصے آن لائن فورمس میں ہم مرتبہ کی نمائش کو وسیع کرتے ہیں (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — طلبہ کے GenAI افشا میں ہم مرتبہ اثر اور رشتوں کا اعتماد (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — تنقیدی سوچ، ٹیم ورک اور مسئلہ حل کرنے کے لیے LLMs کا منظم جائزہ (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — 2.4 ملین AI ایجنٹوں کے درمیان ہم مرتبہ سیکھنے جیسی گفتگو (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — 14 AIED میٹا تجزیوں اور 59 بنیادی مطالعات کا آڈٹ (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 تحریر میں استاد کا فیڈبیک بمقابلہ AI کی معاونت والا ہم مرتبہ فیڈبیک: دو کاموں میں مقدار، توجہ اور بہتری کے رجحانات (Tang, Li & Luo 2026)
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — گروپ گریڈ کے پیچھے فی شخص ثبوت کے طور پر خود/ہم مرتبہ عکاسانہ فارم (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 طلبہ کی کردار کی ذخیرہ الفاظ: ٹیوٹر 28.6%، ساتھی کار 23.1%، اوزار 9.9%، روبوٹ 7.7%
-

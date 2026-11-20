@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -79,32 +81,3 @@ L'apprendimento permanente si collega all'[[adult-learning]] e alla [[profession
 
 - Riportate gli effetti occupazionali per fascia di età anziché come cifra aggregata di sostituzione; il contrasto tra 16% e 8% è il risultato.
 - Studiate dove il lavoro formativo sta scomparendo, poiché è il meccanismo per cui i guadagni attuali diventano carenze future.
-
-## Concetti collegati
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Articoli collegati
-
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for designing AI technologies to support adult learning
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided learning for skill acquisition
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking higher education with Learnity graphs
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation in AI-mediated learning
-- [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
-- [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-
-- [[kim-ai-andragogy-2026]] — Adult learners' perspectives on AI as a collaborative learning agent in andragogy (Kim et al. 2026)
-

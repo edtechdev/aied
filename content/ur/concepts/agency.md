@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,7 +74,6 @@ ai_assist:
 - **ابتدائی کیریئر کی تحقیق میں علمی تفویض:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]] ڈاکٹریٹ اور پوسٹ ڈاکٹریٹ محققین میں AI انحصار کو *علمی تفویض* قرار دیتے ہیں — یعنی مسئلے کی تشکیل، طریقے کے انتخاب اور تشریحی اختیار کی ذہین نظام کو منتقلی — اور پایا کہ اس کا [[self-efficacy|تحقیقی خود اعتمادی]] اور تحقیقی خودمختاری دونوں سے منفی تعلق تھا، اور نگرانی کی مدد اس نقصان کو روکتی تھی۔ یہ ایجنسی کی بحثوں کو سیکھنے والے کی خودمختاری سے خود محقق کی تشکیل تک بڑھاتا ہے۔
 - **تشریحی اختیار بطور ڈیزائن متغیر (ایک تصوراتی فریم ورک)۔** [[porath-interpretive-authority-2026|Porath (2026)]] "کون فیصلہ کرتا ہے" کے سوال کو *تشریحی اختیار* کی تقسیم کے طور پر دوبارہ ترتیب دیتے ہیں — کون مسائل کی تعریف کرتا ہے، جوابات کا جائزہ لیتا ہے اور طے کرتا ہے کہ فہم کب حاصل ہوا — اور چار غیر درجہ بند ترتیبوں (انسان غالب، AI معاون، AI ہدایت کار، مکالماتی شراکت) کی نقشہ بندی کرتے ہیں جن کے درمیان کلاس روم ایک ہی کام کے اندر حرکت کرتے ہیں، اور تبدیلیوں کو فرد کی میٹا کوگنیشن سے سماجی ثقافتی بیانیوں تک پانچ ماحولیاتی تہوں میں جما دیتے ہیں۔ مضمون کا معیاری دعویٰ اس صفحے کے شواہد سے ہم آہنگ ہے: AI ہدایت کار ترتیبیں، خواہ کتنی ہی جدید ہوں، پیداواری جدوجہد اور میٹا کوگنیٹو ضابطگی کو دبا سکتی ہیں — وہی صلاحیتیں جنھیں یہ صفحہ ایجنسی کی بنیاد قرار دیتا ہے۔ تصوراتی تحریر ہونے کے ناطے یہ تشخیصی ذخیرہ الفاظ دیتی ہے، تجربی شواہد نہیں۔
 
-
 ایجنسی [[self-regulated-learning]]، [[motivation]]، [[self-efficacy]]، [[student-experience]]، [[human-ai-collaboration]]، [[ethics]]، [[cognitive-offloading|حد سے زیادہ انحصار]] اور [[metacognition]] سے جڑی ہے۔ یہ [[educational-robotics|روبوٹکس]]، [[intelligent-tutoring|ٹیوٹرنگ]] اور [[pedagogical-agent|AI سیکھنے والے ایجنٹوں]] کے ڈیزائن میں بنیادی حیثیت رکھتی ہے۔
 
 - **محدود استعمال بطور علمی کنٹرول، بطور ہچکچاہٹ نہیں۔** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] بتاتے ہیں کہ 484 جوابات والے [[higher-ed|یونیورسٹی]] سروے میں زیادہ کامیاب طلبہ نے AI کی کم فعال شمولیت اور [[self-report-measures|محسوس شدہ سیکھنے]] کا کم اثر دکھایا، جبکہ *ساتھ ہی* AI سے متعلق کم عدم دلچسپی بھی رپورٹ کی، اور اپنے استعمال کو تصدیق کے لحاظ سے کثیف بتایا: آؤٹ پٹ جانچے جاتے، پھر اپنی استدلال کے تابع کر دیے جاتے۔ اگر اسے اجتناب کے بجائے ایجنسی کے طور پر پڑھا جائے تو یہ نمونہ فیصلے کو دانستہ برقرار رکھنا ہے — طلبہ نتیجے کی تصنیف اپنے پاس رکھتے ہیں جبکہ اوزار کو وضاحت اور خلاصے کے لیے استعمال کرتے ہیں۔
@@ -81,11 +82,9 @@ ai_assist:
 - **عمل کرنا، جاننا اور جواب دینا ایک چیز نہیں۔** 366 [[generative-ai|GenAI]] اعلیٰ تعلیمی خلاصوں کے کارپس کی مدد سے گفتار کے تجزیے میں AI کو 2,050 بار بطور فاعل نام دیا گیا مگر کبھی جواب دہ نہیں بنایا گیا، جبکہ آؤٹ پٹ کا جائزہ لینے اور دعووں کی تصدیق کی ذمہ داری طلبہ پر ڈالی گئی: گرامر کے لحاظ سے فعالیت، فعلی ایجنسی، علمی اختیار اور معیاری جواب دہی الگ الگ ہو جاتے ہیں ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]])۔
 - **ایجنسی کے تین وضع ہیں، اور تیسرا پالیسی فراہم کرتی ہے۔** صرف 18% اساتذہ اور 24% پرنسپل نے اسکولی [[educational-policy-ai|AI پالیسی]] کی اطلاع دی، اس لیے زیادہ تر ماہرینِ تعلیم انفرادی ایجنسی استعمال کرتے ہیں اور کوئی پراکسی ایجنسی ان کے لیے کام نہیں کر رہی — Bandura کا تیسرا وضع، جو ادارہ جاتی قواعد فراہم کرتے ہیں ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]])۔
 
-
 ## ایجنسی بطور ابھرتا، تعاملی مظہر
 
 **ایجنسی ایک صلاحیت نہیں، اور یہ فرق AI کے ذریعے ہونے والے عمل تک بھی برقرار رہتا ہے۔** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] نے سوئڈن کے 47 ساتویں جماعت کے طلبہ کا ایک سمسٹر کی AI تدریس کے بعد سروے کیا اور پایا کہ AI کے *آؤٹ پٹ* کی طرف مبذول ایجنسی اُسے پیدا کرنے والے *نظاموں* تک نہیں پھیلتی۔ یہ تقسیم **انفرادی طلبہ کے اندر** بھی برقرار رہی: 79% کا نو اشیاء پر اسکور کی حد تین یا زیادہ تھی، اور فی طالب علم علیحدگی کا اشاریہ آؤٹ پٹ کی طرف مبذول شمولیت کو نظام کی طرف مبذول شمولیت پر ترجیح دیتا تھا — **35 طلبہ کے حق میں بمقابلہ 4 الٹے** (سائن ٹیسٹ, p < .001)۔ **سب سے زیادہ ماخذ تنقید کرنے والے 62% طلبہ** نے پھر بھی چیٹ بوٹس کے اپنی تحریر پڑھنے کے معاملے میں سب سے کم حفاظتی اختیار کی حمایت کی، اور نمونے میں صرف ایک طالب علم نے سب سے زیادہ رازداری والا موقف چنا۔ اہم بات یہ ہے کہ یہ **ایک مہینے بعد** اُس سبق کے ناپا گیا جس میں طلبہ نے اپنے لاگ شدہ رویے کو براہِ راست پیش ہوتے دیکھا — انھوں نے اسے "ڈراونا" کہا اور چھٹی تک پلیٹ فارم استعمال کرتے رہے۔ ایجنسی کا ابھرتا، تعاملی خاصیت کے طور پر دیکھا جانا اس سے ہم آہنگ ہے: یہ فی عمل نمودار ہوتی ہے، عمل سے عمل میں منتقل نہیں ہوتی، اور ایک سبق جو سامنے لاتا ہے وہ اُس رجسٹر تک عام نہیں ہوتا جسے اس نے چھیڑا ہی نہیں۔
-
 
 سیکھنے والے کی ایجنسی صرف ایک جمود شدہ انفرادی خصوصیت نہیں — یہ ایک **ابھرتا، تعامل سے تشکیل پانے والا عمل** بھی ہے جو گفتار کے ذریعے اور گروہی کام کی لمحہ بہ لمحہ ہم آہنگی کے ذریعے عمل میں آتا ہے۔ اشتراکی سیکھنے میں ایجنسی تقسیم ہوتی ہے اور متنوع عملوں (خیالات پیدا کرنا، متبادل تلاش کرنا) اور ہم گر عملوں (جائزہ لینا، یکجا کرنا، ترکیب بنانا) کے باہمی کھیل سے دوبارہ گفت و شنید ہوتی ہے۔ یہ نقطۂ نظر AI کے لیے اس لیے اہم ہے کہ [[agentic-ai|ایجنٹک AI]] نظام گروہ کے اندر علمی اور ضابطگی کی محنت خاموشی سے *دوبارہ تقسیم* کر سکتے ہیں، اور یہ بدلتے ہیں کہ کون حصہ ڈالتا ہے، کون سمت کا تعین کرتا ہے اور کون پیش رفت کو ضابطہ دیتا ہے — اکثر سیکھنے والوں کو خبر بھی نہیں ہوتی۔
 
@@ -118,7 +117,6 @@ ai_assist:
 عمل میں آنے والی ایجنسی اور مستحکم شناخت کا یہ فرق انکار پر بھی لاگو ہوتا ہے۔ جیسا کہ [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] بیان کرتے ہیں، جانچ شدہ تحریر کے لیے چیٹ بوٹ سے انکار، غیر معاون استدلال کے لیے اس کی ممانعت، [[student-support-and-success|طالب علم معاونت]] میں خودکار ترجیحی تقسیم کی مزاحمت، یا خریداری میں تاخیر — یہ الگ الگ نظاموں سے الگ الگ تعلقات ہیں، جو ذاتی، تدریسی، پیشہ ورانہ، انتظامی اور ادارہ جاتی سطحوں پر پھیلے ہیں، نہ کہ ایک پائیدار رجحان۔ یہ حق غیر یکساں طور پر تقسیم ہے: اعلیٰ تعلیمی اعتماد والے طلبہ بغیر جرمانے کے انکار کر سکتے ہیں، جبکہ جنھیں زبان، رسائی یا فوری فیڈبیک کی مدد درکار ہے وہ انکار کو موقع کا ضیاع سمجھتے ہیں، اور محفوظ تعلیمی حیثیت والے اصول پر انکار کرتے ہیں جبکہ عارضی عملہ اپنانے کا دباؤ محسوس کرتا ہے۔ جہاں AI بنیادی ڈھانچے میں بیٹھا ہو، وہاں انکار فرد کے دستبردار ہونے سے ہٹ کر خریداری، آڈٹ اور چیلنج پذیری کی طرف منتقل ہو جاتا ہے۔
 - **انکار بطور شناخت کی تعمیر، محض فیصلے کے طور پر نہیں ([[sociocultural-learning|اپرنٹس شپ]] سیکھنے میں رنگین طلبہ)۔** [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]] نے پانچ ثانوی اسکولی اپرنٹس کے نو ماہ میں انٹرویو کیے اور پایا کہ انھوں نے AI کے ذریعے تین حرکتوں میں خود کو تصنیف کیا: انکار (ادارہ جاتی ہم آہنگی کے طور پر عدم استعمال)، گفت و شنید (ادارہ جاتی عدم مطابقت کی مرمت، رازداری بطور دور کی تجرید)، اور پہچان (انصاف کو نظر آنے والے تعصب کی عدم موجودگی کے برابر سمجھنا — ایک "ثقافتی ہمواری" جس میں ان کی شناختیں AI جوابات میں غیر نمائندہ رہ جاتی ہیں)۔ مطالعے کے دو تشریحی تصورات — Institutional AI Literacy اور Recognition Bandwidth — اس صلاحیت کا نام ہیں کہ AI استعمال کو ادارہ جاتی طور پر قابلِ فہم بنایا جائے، اور وہ گنجائش جس میں طلبہ خود کو AI آؤٹ پٹ میں پہچانا ہوا دیکھ سکیں۔ یہ پانچ طلبہ کے ایک ہی پروگرام کی بیانیہ تحقیق ہے؛ اس کا حصہ یہ دکھانا ہے کہ AI کا استعمال، اس کی حد اور اس سے انکار اس بات سے جڑے ہیں کہ سیکھنے والے خود کو بطور مصنف اور ابھرتے پیشہ ور کیسے سمجھتے ہیں۔
 
-
 ## ماحولیاتی ہم ایجنسی فریم ورک: ایجنسی بطور علمی ڈیزائن مسئلہ
 
 [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] سیکھنے والے کی ایجنسی کو بنیادی طور پر ایک *علمی* معاملہ قرار دیتے ہیں: [[generative-ai|جنریٹو AI]] محض ایک اوزار نہیں جوڑتا بلکہ علمی اختیار — علم پیدا کرنے، دعووں کی تصدیق کرنے اور سیکھنے کے شواہد بنانے کی صلاحیت — اساتذہ سے طلبہ اور پھر مشینوں کو دوبارہ تفویض کرتا ہے۔ مقالے کا **Ecological Co-Agency Framework** ہم ایجنسی کو تین باہم منحصر جہتوں کے رشتے کے طور پر دیکھتا ہے، جن سب کی حد انسانی علمی جواب دہی کی ناقابلِ گفت و شنید شرط ہے:
@@ -138,69 +136,3 @@ ai_assist:
 - **"طلبہ اُس وقت ایجنسی استعمال کرتے ہیں جب وہ AI آزادانہ استعمال کریں۔"** **6,788 ChatGPT کی مدد سے چلنے والے موڑوں کو کوڈ کرنے والی 14 زمروں کی اسکیم** نے **ساتویں جماعت کے طلبہ کے 59% موڑ** ایسے زمروں میں رکھے جو ایجنٹک استعمال کی نمائندگی نہیں کرتے۔ استعمال کا حجم اور ایجنسی الگ الگ پیمانے ہیں۔
 - **"موجودہ ماڈل سیکھنے والے کی ایجنسی کو اچھی طرح سہارا دیتے ہیں۔"** **دس ماڈلوں پر بینچ مارک کیا گیا تو سیکھنے کے بعد ایجنسی کو سہارا دینے میں کارکردگی سب سے خراب نکلی**: ImpactBench نے مثبت معیارات پر **ایجنسی اور مقصد 56.0%** ناپا۔ ایجنسی وہ جہت ہے جسے AI نظام سب سے کم بہتر طور پر سنبھالتے ہیں، یہ قابلیت کا ضمنی نتیجہ نہیں۔
 - **"استاد کی وساطت ایجنسی پر پابندی ہے۔"** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] نے **دس ثانوی ریاضی کے اساتذہ کو آٹھ ہفتے کی ChatGPT-4** مداخلت میں پیروی کی اور وساطت رکاوٹ کے بجائے طریقہ کار ثابت ہوئی۔
-
-## منسلک تصورات
-- [[learners]] — سیکھنے والے: سیکھنے والے سے متعلق تصورات کی چھتری
-- [[pedagogical-partnerships]] — تدریسی شراکتیں
-- [[learner-identity]] — ترقی پذیر شعبہ جاتی، پیشہ ورانہ، تخلیقی اور تعلیمی سیکھنے والے کی شناختیں
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — AI کے ذریعے ہونے والے تعامل کی مشترکہ سمت
-- [[agentic-ai]] — خودمختار AI جو گروہوں میں ایجنسی دوبارہ تقسیم کر سکتا ہے
-- [[chemistry-education]] — کیمیا کی تعلیم اور AI: تجربہ گاہیں، تکوینی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[social-emotional-learning]] — سماجی-جذباتی سیکھنا
-- [[cognitive-surrender]]
-
-## منسلک مضامین
-- [[tench-ai-policy-isnt-a-playbook-2026]] — امریکی اساتذہ اور پرنسپلوں کا قومی نمائندہ سروے: AI پالیسی کی پہنچ، ایجنسی اور پانچ کلاس رومی حکمت عملیاں (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — مددگار ہاتھ یا غالب ساتھی؟ اشتراکی سیکھنے میں GenAI انحصار اور انسانی ایجنسی کے انفرادی تصورات
-- [[yan-agentivism-learning-theory-ai-2026]] — انسان-AI تعامل کے لیے ایک درمیانی سطح کا نظریۂ سیکھنا، چار طریقہ کار اور چھ قابلِ امتحان تجاویز کے ساتھ (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — سیکھنے والے کی ایجنسی بطور شعبہ، AI اور میٹا کوگنیٹو قابلیتوں کو ہم آہنگ کرنے کا ابھرتا معیار، نہ کہ الگ نوڈ (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — انتخاب تک رسائی بمقابلہ عمل میں ایجنسی: سلائیڈر، اختیاری AI ایجنٹ اور فلکنگ سمولیشن میں سیکھنا
-- [[guarded-adoption-genai-higher-education-2026]] — اعلیٰ تعلیم میں جنریٹو AI کا محتاط اختیار
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹ، خوشگوار جانچ اور تیسرا میدان
-- [[ai-mediated-research-agency-formation-2026]] — ابتدائی کیریئر کی سائنسی تربیت میں AI کے ذریعے تحقیقی ایجنسی کی تشکیل
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی مدد سے تحریر میں پرت حساس علمی منتقلی (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — اسکولی AI تعلیم نفسیاتی تیاری کے خلا کو کم کرتی ہے مگر علمی خلا کو نہیں
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — رشتی علمی ایجنسی اور چھ معیار جو پیداواری انحصار کو نقصان دہ انحصار سے الگ کرتے ہیں (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI سے ممکن بنائی گئی تدریسی معاونت جو STEM شناخت کو سہارا دیتی ہے
-- [[t2i-competence-paradox-2026]] — قابلیت کا تضاد: ٹیکسٹ ٹو امیج GenAI استعمال میں تخلیقی شناخت
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — مضمر انسان-AI اشتراک میں ابھرتی سیکھنے والے کی ایجنسی: معاون بمقابلہ مخالفانہ پرسونا
-- [[de-barba-srl-genai-2026]] — مختلف پیمانوں پر سیکھنے والے کی ایجنسی: ضابطگی، انضمام، مقام بندی
-- [[mishra-control-vs-agency-history-2025]] — AIED کی تاریخ میں کنٹرول بمقابلہ ایجنسی بطور بنیادی کشمکش
-- [[daoism-ai-education-philosophy-2026]] — متبادل AI فلسفہ: تعلیم میں AI کے لیے طریقہ کے طور پر داؤازم
-- [[human-autonomy-agency-hri-review-2025]] — HRI میں انسانی خودمختاری اور ایجنسی
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — جنریٹو سماجی روبوٹس کے لیے علم پر مبنی ڈیزائن
-- [[young-people-learning-generative-ai-rapid-review-2026]] — سیکھنے سے متعلق کام میں طالب علم کی ایجنسی کو پروان چڑھانا
-- [[shaw-nave-cognitive-surrender-2026]] — سہ نظام نظریہ اور علمی ہتھیار ڈالنا: AI انسانی استدلال کو کیسے نئی شکل دیتا ہے (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — سیکھنے کے ڈیزائن میں GenAI تعاملات کے دوران پری سروس استاد کی ایجنسی (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — آزادی بخش وژن: ایجنسی، اوزار کی ایجنسی کے ساتھ صفر جمع
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI کے ذریعے ہونے والی گروہی جانچ میں ایجنسی کے تین نمونے: تیز، ضبط شدہ اور غیر عمل شدہ
-- [[ai-integrated-teaching-identity-tensions]] — AI سے مربوط تدریس میں اصولی انتخابیت بطور استاد کی ایجنسی (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — انکار بطور تشخیصی شہادت: عدم استعمال بطور سیاق و سباق سے جڑا رشتہ اور AI سے انکار کا غیر یکساں حق (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — علمی اختیار کا اظہار مداخلت، اصلاح اور انکار کے ذریعے، زیادہ سے زیادہ اوزار استعمال کے ذریعے نہیں
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — کون عمل کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیم کی تحقیق میں ایجنسی، علمی ذمہ داری اور جواب دہی کا کارپس کی مدد سے گفتار تجزیہ
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — عکاسانہ AI شمولیت میں مہارت بچانے والے انحصار کی طرف کھلے سوالات
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — AI تعلیم کے مقاصد کے طور پر قابلیت بمقابلہ ایجنسی، اور باخبر AI ایجنسی ہیورسٹک (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — استاد کی وساطت بطور وہ شرط جو GenAI کو اختیار کے بجائے تنقید کی شے رکھتی ہے (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — استاد کی ایجنسی بطور ڈیزائن کے ذریعے متحرک کردہ وسیلہ، جس کی تیاری کا اندازہ استعمال کے بجائے اشیاء سے لگایا جائے (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — حقیقی وقت کی متحرک جوڑی بندی کے لیے ہم آہنگی اوزاروں میں استاد اور طالب علم کی ایجنسی کا توازن (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — تشریحی اختیار میٹرکس اور ماحولیاتی اختیار انضمام ماڈل: کون تشریح کرتا ہے کی چار ترتیبیں، اور وہ ماحولیاتی تہیں جو انھیں بدلتی ہیں
-- [[gyekye-selves-apprenticeship-2026]] — اپرنٹس شپ پروگراموں میں رنگین طلبہ نے انکار، گفت و شنید اور پہچان کے ذریعے AI سے خود کو تصنیف کیا ("ثقافتی ہمواری")؛ Institutional AI Literacy اور Recognition Bandwidth
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — ثانوی اسکولی سائنسی تحریر کے 6,788 ChatGPT کی مدد سے چلنے والے موڑوں میں مشترکہ علمی ایجنسی (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — محسوس شدہ ملکیت صرف وہاں گری جہاں پورا مضمون سونپا گیا؛ منصوبہ بندی اور جائزہ لینے والے صارفین غیر صارفین کے برابر رہے (Jelson et al. 2026)
-
-- [[shakiba-human-agency-depth-taxonomy-2026]] — کون سوچ رہا ہے؟ پہلے سال کے طلبہ کے AI تعاملات میں انسانی ایجنسی کی خصوصیات

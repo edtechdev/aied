@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -95,34 +97,3 @@ ai_assist:
 - **“一个真实的案例自己就会教学。”** 真实提供情境。问题、比较与辩护任务提供学习。
 - **“AI 生成的案例可以直接使用。”** 生成的案例可以流畅、可信，并且是错的。它们需要专家审阅，以及对它们所招引的推理的核查。
 - **“如果学生喜欢这场讨论，案例就奏效了。”** 投入不是迁移。结果必须在学生此前无法完成的任务上测量。
-
-## 关联概念
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## 关联文章
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — 一个被锚定的大语言模型守住了五个围手术期案例，未虚构内容
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT 缩短了护理案例编写时间，而质量没有测得差别
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 六项 AI 驱动 PBL/CBL 的随机对照试验；只有两项检验了 CBL
-- [[scaffolding-critical-engagement-genai-minority-students]] — 生成式 AI 课程中以对照案例进行的教师示范
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 与虚拟病人和模拟病人并列的案例式学习
-- [[genai-medical-education-transformation-review-2026]] — 该综述把案例式学习与临床推理列为其应用类别
-- [[hardie-genai-nursing-scoping-review-2026]] — 护理综述模拟主题之内的案例式学习
-- [[lorteau-sarro-ai-legal-education-2025]] — AI 补充苏格拉底式教学与法律模拟
-- [[csaszar-ai-management-education-2026]] — 管理教育中的案例研究与模拟，而没有案例方法分析

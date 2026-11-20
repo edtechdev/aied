@@ -9,6 +9,8 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 > Multilingual learning in AI education concerns how educational [[ai-technologies|technologies]] and LLM-based systems support learners across languages, dialects, and low-resource linguistic contexts — and the risks of linguistic exclusion when AI systems are built primarily for dominant languages.
@@ -64,30 +66,3 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 - **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualized phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as [[scaffolding|scaffolding]], not as avoidance.
 - **"AI language assessment is biased against multilingual writers."** Here the bias tracked the **human baseline rather than the model**: LLM-based comparative judgment on **Grades 3-6 informational writing converged with researcher rubrics (r = .59-.73)** and showed the same pattern the human raters did. That is not evidence of fairness in absolute terms — it is evidence that the model did not introduce a new distortion on top of the existing one.
 - **"Translation-quality output is the useful part."** The bridge use is explanatory and situated, not substitutive. A tool that replaces the learner's own production removes the practice that the bridging was meant to enable.
-
-## Connected Concepts
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI chatbots afford translanguaging, a use earlier language tools did not support
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Quadrilingual code-switching with conversational AI in Curacao and Aruba (Bush et al., 2026)
-

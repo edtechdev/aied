@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -114,40 +116,3 @@ ai_assist:
 **"מעורבות היא דבר אחד, ולכן ציון אחד יכול לייצג אותה."** למבנה יש שלושה גדילים, וחיישן מגיע בעיקר לראשון. E3Sense מצא שלומדים הגדירו אותה באמצעות מדדים קוגניטיביים, התנהגותיים ורגשיים בפרופורציות שונות, ושההגדרות האלה שינו את החיזוי ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). מספר בודד מסתיר איזו שכבה נמדדה.
 
 **"אם המודל הוגן בפיצול הוולידציה, הוא הוגן בכיתה."** מרסן שהשווה את שגיאת הוולידציה בין קבוצות מגדר החמיר את הפער על הנבדקים המוחזקים בצד ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). הוגנות היא תכונה של פריסה, לא של נקודת ביקורת.
-
-## מושגים מחוברים
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## מאמרים מחוברים
-- [[gaze-informed-ai-children]] — קריינות LLM שמופעלת במבט החזיקה ילדים באזור מקריין 6.48 שניות לעומת 1.67 שניות, אך המחקר מדד קשב ולא הבנה (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG נענד, מעקב עיניים ו-EDA על המצח חזו מעורבות מדווחת-עצמית בדיוק של 75.0% בטווח של רמה אחת לעומת בסיס של 63.0% (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage איחד שבעה זרמי לבישים ומצלמה להערכות מעורבות ברמת קטע (MAE 0.81) וטוען בעד מכשור קל יותר (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — מודל קשב מולטימודלי הגיע ל-MAE 0.283, ורווחי ההוגנות בוולידציה התהפכו על נבדקים מוחזקים (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — בינה מלאכותית לבישה היא שקופה כפולה, ולכן ההרחקה הפיזית נכשלת והאכיפה נסחפת לשפיטת גופים של סטודנטים (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — חמישה-עשר מודלים לחיזוי מוכרות מ-EEG נפלו מ-0.9853 ל-0.6038 F1 תחת ולידציה בלתי-תלויה בניסוי (Nanayakkara and Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — תמונות משוחזרות מ-EEG עקבו אחרי ביצועים במבחן ברמה של R² = 0.79, כאשר משתתף אחד עם שחזור איכותי ענה בטעות (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — יער אקראי חזה קטגוריות ציון בבחינה מ-EDA, מתנועה ומטמפרטורת עור — אותות שמשמשים מדד לעוררות ולא להבנה (Yamazaki and Rimal, 2026)
-- [[affective-text-wearable-student-health]] — ב-458 סטודנטים שענדו Oura, הרגיסטר הרגשי ולא נושא הדאגה עקב אחרי שינה ושונות קצב לב (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — מבט ממצלמת רשת הניע משוב למידת חיזוק ל-187 לומדים; קשב התכתב עם למידה ב-r = 0.017 בעוד שעומס התכתב שלילית (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — מאפייני תנוחה של YOLOv11 סימנו התנהגות חשודה ב-99.56% על מערך מתויג שנבנה במיוחד, בלי לבחון עבירה או הוגנות (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — קישוריות EEG ירדה עם תמיכת כתיבה חיצונית על פני 54 משתתפים, וממסגרת הסתמכות כחוב קוגניטיבי מצטבר (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — על פני 23 מחקרים, תפקידי חישה שלטו עם 62.5% מהתגים, ואף מערכת שנסקרה לא איחדה זרמים מולטימודליים בזמן אמת (Kim and Han, 2026)

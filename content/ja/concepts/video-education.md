@@ -18,6 +18,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -90,36 +92,3 @@ ai_assist:
 **「教員をアバターにクローン化することは、人間の存在感をスケールさせる。」** それは制作をスケールさせ、提供されるものの中身を変える。教員からクローン化されたAIアバターは大規模に動画を生成できるが、同時に不気味の谷の不快感を引き起こし、環境への影響、労働、[[academic-integrity|誠実性]]にわたる[[ethics|倫理]]上の異議を生じさせる。スケールされている存在感は教員のシミュレーションであり、コストはそのシミュレーションに付随する。
 
 **「1つの講義から多数のバリアントを生成することはパーソナライゼーションである。」** バリアント数は制作上の数値であり、教育上の数値ではない。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]は、医療、金融、エネルギー、および一般的な聴衆を対象に、31の大学院講義から209本の動画を生成したが、これはパイプラインの処理能力を示すものであり、いずれかのバリアントが特定の学習者のニーズに合致していたかどうかは、生成本数では答えられない別の問題である。
-
-## 関連概念
-
-- [[online-teaching-and-learning]] — オンラインとハイブリッド教授の中核的な媒体としての動画
-- [[generative-ai]] — AI生成・パーソナライズ動画のエンジン
-- [[personalized-learning]] — AI動画の訴求力の原動力としてのパーソナライズ
-- [[adaptive-learning]] — 適応的な動画生成とペース配分
-- [[multimodal]] — 視覚・音声・テキストの様態を組み合わせる動画
-- [[learning-analytics]] — 動画への関与と注意の分析
-- [[student-engagement]] — 動画のパーソナライズが高めを目指す関与
-- [[pedagogical-agent]] — 仮想の教育学的エージェントとしてのAIアバター・プレゼンター
-- [[llm]] — 脚本と動画生成を支える大規模言語モデル
-- [[trust]] — AIプレゼンターとコンテンツに対する学習者の信頼
-
-## 関連記事
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke：MOOC品質の産業パーソナライズ講義動画を規模をもって生成すること（Puechら 2026）
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT生成の動画内コメント：エントロピーによるタイミング、人間のコメントとの質の差（Wang、Du、Jin 2026）
-- [[personalized-ai-generated-videos-preference-2026]] — 学生はパーソナライズされていない人間収録よりもパーソナライズされたAI生成動画を好む（Tomlinsonら 2026）
-- [[ai-generated-instructional-videos-computing-ed]] — 計算機教育におけるAI生成教授動画に対する学生の認識・選好
-- [[ai-video-dual-gatekeeping-2026]] — 教育学的に裏付けられたAI動画創作のための二段階の門番
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint：適応的な教育学的動画生成
-- [[engagement-assessment-video]] — 動画学習における関与の評価
-- [[savvy-student-attention-video-learning]] — 動画ベースの学習のための学生の注意の可視化
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — アバターのアイデンティティがAI媒介学習における認識論的な信頼をどう形作るか
-- [[bilingual-llm-lecture-companion-srl-2026]] — 自己調整学習のためのバイリンガルLLM講義コンパニオン
-- [[adhd-video-segmentation-computing-education]] — 個人差のための時間的な動画分割
-- [[ai-psychotherapy-training-avatars]] — 心理療法の訓練におけるAIアバター
-- [[gemini-lualatex-physics-video-transcription-2026]] — 物理学の講義動画をアクセシブルなテキストに文字起こしすること
-- [[pivot-generative-video-tutors-stem-2026]] — コンテンツ生成から学習支援へ：STEM学習のための教育学的に誘導された生成的動画チューター
-
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — あっちを見て！ AI ナレーション付きスライドのための動的な視覚的ガイダンス
-

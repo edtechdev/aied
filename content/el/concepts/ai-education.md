@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -189,56 +191,3 @@ ai_assist:
 **«Επειδή η ΤΝ είναι γενικού σκοπού, ένα εύρημα από οπουδήποτε ισχύει παντού.»** Η γενικότητα της τεχνολογίας δεν δημιουργεί γενικότητα των τεκμηρίων. Οι κλάδοι αντικειμένου, βαθμίδας και πλαισίου υπάρχουν επειδή το ίδιο εργαλείο συμπεριφέρεται διαφορετικά ανάμεσά τους, και ένα αμετάβλητο εύρημα που μεταφέρεται πάνω από ένα όριο είναι μια επέκταση πέρα από τα όρια των δεδομένων.
 
 **«Η ωριμότητα του πεδίου διαβάζεται από τον όγκο των δημοσιεύσεων.»** Όγκος και ωριμότητα αποκλίνουν· ο κλάδος των ερευνητικών μεθόδων τεκμηριώνει επαναλαμβανόμενες αδυναμίες σχεδιασμού που ο όγκος δεν διορθώνει, και τα πλαίσια πληθύνονται ταχύτερα απ' όσο δοκιμάζονται.
-
-## Συνδεδεμένες Έννοιες
-
-- [[primary-education]]
-- [[secondary-education]]
-- [[undergraduate-education]]
-- [[graduate-education]]
-- [[pedagogical-patterns]] — Οι δοκιμασμένες ακολουθίες που τεκμηριώνουν τις παιδαγωγικές του πεδίου
-- [[ai-literacy]] — ομπρέλα: κατανόηση, χρήση και αξιολόγηση της ΤΝ
-- [[automation-bias]] — η αποτυχία από την πλευρά του αναγνώστη: αποδοχή μιας αυτοματοποιημένης κρίσης χωρίς έλεγχο
-- [[human-ai-collaboration]] — ομπρέλα: πώς οι άνθρωποι και η ΤΝ συνεργάζονται
-- [[pedagogy]] — ομπρέλα: μέθοδοι και στρατηγικές διδασκαλίας
-- [[case-based-learning]] — μέθοδος περίπτωσης, συζήτηση περίπτωσης και αντιτιθέμενες περιπτώσεις
-- [[metaphors-and-analogies]] — πώς η μεταφορά διαμορφώνει την κατανόηση της ΤΝ και πώς η αναλογία στηρίζει τη διδασκαλία
-- [[learning-theories]] — ομπρέλα: πώς συμβαίνει η μάθηση
-- [[ai-technologies]] — ομπρέλα: μοντέλα, τεχνικές και συστήματα
-- [[discipline-specific-aied]] — ομπρέλα: ΤΝ σε επιστημονικούς τομείς και επίπεδα
-- [[assessment]] — ομπρέλα: πώς η ΤΝ αξιολογεί τους μαθητές και αναδιαμορφώνει την εγκυρότητα
-- [[feedback]] — ομπρέλα: πώς παράγεται, παραδίδεται και χρησιμοποιείται η ανατροφοδότηση
-- [[stakeholders]] — ομπρέλα: ποιοι είναι οι δρώντες
-- [[learners]] — ομπρέλα: οι έννοιες της πλευράς του μαθητή (εμπειρία, ταυτότητα, δράση, αλληλεπίδραση, μοντέλα μαθητή)
-- [[ai-ed-evaluation]] — ομπρέλα: πώς γνωρίζουμε αν η ΤΝ λειτουργεί
-- [[research-methods-aied]] — ομπρέλα: ερευνητικές μέθοδοι αποτελεσματικότητας
-- [[ai-assisted-educational-research]] — ΤΝ-υποστηριζόμενη εκπαιδευτική έρευνα
-- [[governance]] — ομπρέλα: το θεσμικό και ρυθμιστικό επίπεδο
-- [[educational-policy-ai]] — ομπρέλα: πολιτική, καθοδήγηση και υλοποίηση
-- [[equity-in-ai-education]] — ομπρέλα: δίκαιη μεταχείριση, πρόσβαση και συμπερίληψη
-- [[learning-sciences]] — το εμπειρικό πεδίο πίσω από την AIED
-- [[ethics]] — οι ηθικές διαστάσεις της ΤΝ στην εκπαίδευση
-- [[misconceptions]] — τα νοητικά μοντέλα που φέρνουν οι άνθρωποι για την ΤΝ
-- [[interpreting-and-applying-aied-research]] — να διαβάσεις μια μελέτη, και να μεταφέρεις ένα εύρημα στην πράξη
-- [[limitations-in-aied-research]] — διασταυρούμενοι περιορισμοί της βάσης τεκμηρίωσης
-- [[meta-analysis-systematic-review]] — τι καθιερώνουν οι ανασκοπήσεις και οι μετα-αναλύσεις
-- [[history-of-aied]] — πώς εξελίχθηκε το πεδίο
-- [[philosophy-of-ai-in-education]] — οι φιλοσοφικές βάσεις
-- [[theories-and-frameworks]] — ο χάρτης των κόμβων θεωρίας και πλαισίων
-- [[theory-development-aied]] — οικοδόμηση και αναθεώρηση της θεωρίας
-- [[sensor-and-gaze-analytics]] — ομπρέλα: αίσθηση των μαθητών μέσω βλέμματος, EEG και φορετών συσκευών
-- [[ai-avatars-and-synthetic-instructors]] — ομπρέλα: συνθετικοί άνθρωποι που διδάσκουν, καθοδηγούν, προσομοιώνουν και αξιολογούν
-- [[civic-and-political-education]] — θεματική περιοχή: επάρκεια για τον δημόσιο βίο, με ισχνό ερευνητικό υπόβαθρο
-
-## Συνδεδεμένα Άρθρα
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Η εξέλιξη της έρευνας για ΤΝ και εκπαίδευση σε τέσσερις δεκαετίες (πλαίσιο AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Έλεγχος έναντι δράσης: μια ιστορία της ΤΝ στην εκπαίδευση
-- [[genai-higher-education-systematic-review-2026]] — Γενετική ΤΝ στην τριτοβάθμια εκπαίδευση: συστηματική ανασκόπηση 125 μελετών
-- [[stanford-evidence-base-ai-k12-2026]] — Η βάση τεκμηρίωσης για την ΤΝ στην K-12: ανασκόπηση 818 άρθρων
-- [[genai-educational-outcomes-meta-analysis]] — Γενετική ΤΝ και εκπαιδευτικές εκβάσεις: ολοκληρωμένη μετα-ανάλυση
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 μελέτες δευτεροβάθμιας: τα κέρδη έρχονται όπου οι μαθητές συγκρίνουν παραγωγές και εξασθενούν όπου το εργαλείο παράγει την εργασία (Pérez-Montesdeoca και συν. 2026)
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — Η ετοιμότητα για έρευνα με ΤΝ φτάνει στην αυτοαποτελεσματικότητα μέσω της υποστήριξης του επόπτη και όχι της χρήσης εργαλείου (Luo και συν. 2026)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Νομιμοποίηση, αποκάλυψη και διακυβέρνηση στη διδακτορική εποπτεία με γενετική ΤΝ (Guanilo Pareja και συν. 2026)
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Μεταπτυχιακό σεμινάριο: οι φοιτητές δέχονταν την παραγωγή της ΤΝ μόνο μετά από έλεγχο γνώστη φύλακα, δράση ανατεθειμένη παρά παραδομένη (Chen 2026)
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Η συχνότητα χρήσης προλέγει ελάχιστα την ικανότητα όταν μοντελοποιούνται η ηθική και η αυτορρύθμιση (Zaripova και συν. 2026)

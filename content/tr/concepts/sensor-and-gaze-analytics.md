@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -114,40 +116,3 @@ Son olarak, toplama bütünleştirme değildir. Kim ve Han, çok kipli çalışm
 **“Katılım tek bir şeydir, dolayısıyla tek bir puan onu temsil edebilir.”** Yapının üç kolu vardır ve bir sensör çoğunlukla birincisine ulaşır. E3Sense, öğrenenlerin onu bilişsel, davranışsal ve duygusal göstergelerle farklı oranlarda tanımladığını ve bu tanımların tahmini değiştirdiğini buldu ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan vd., 2026]]). Tek bir sayı hangi katmanın ölçüldüğünü saklar.
 
 **“Model doğrulama bölünmesinde adilse sınıfta da adildir.”** Cinsiyet grupları arasında doğrulama hatasını eşitleyen bir düzenleyici, ayrılmış kümedeki farkı daha da kötüleştirdi ([[student-attention-estimation-fairness-2026|Fragkiadakis vd., 2026]]). Adillik bir konuşlandırmanın özelliğidir, bir denetim noktasının değil.
-
-## Bağlı kavramlar
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Bağlı makaleler
-- [[gaze-informed-ai-children]] — Bakışla tetiklenen LLM anlatımı çocukları anlatılan bölgede 6,48 sn yerine 1,67 sn tuttu, ancak çalışma kavrayışı değil dikkati ölçtü (Wu vd., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Başa takılan EEG, göz izleme ve alın EDA’sı, %63,0 temele karşı %75,0 tek düzey içi doğrulukla öz değerlendirmeli katılımı öngördü (Anupkrishnan vd., 2026)
-- [[engagement-assessment-video]] — EduGage yedi giyilebilir ve kamera akışını bölüm düzeyinde katılım tahminlerinde birleştirdi (MAE 0,81) ve daha hafif ölçümlemeyi savunuyor (Leng vd., 2026)
-- [[student-attention-estimation-fairness-2026]] — Çok kipli bir dikkat modeli 0,283 MAE’ye ulaştı ve doğrulamadaki adillik kazanımları ayrılmış deneklerde tersine döndü (Fragkiadakis vd., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Giyilebilir YZ ikili şeffaftır; fiziksel dışlama başarısız olur ve uygulama öğrencilerin bedenlerini yargılamaya kayar (Corbin vd., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG aşinalık tahmini için on beş model, denemeden bağımsız doğrulama altında 0,9853’ten 0,6038 F1’e düştü (Nanayakkara ve Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG ile yeniden oluşturulan görüntüler test performansını R² = 0,79 ile izledi; yüksek yeniden oluşturma kalitesine sahip bir katılımcı yanlış yanıtladı (Su vd., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — Rastgele orman sınav not kategorilerini EDA, hareket ve cilt sıcaklığından öngördü; bu sinyaller kavrayışı değil uyarılmayı gösterir (Yamazaki ve Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Oura takan 458 öğrencide uykuyu ve kalp atış hızı değişkenliğini izleyen, endişe konusu değil duygusal tondu (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Web kamerası bakışı 187 öğrenen için pekiştirmeli öğrenme geri bildirimini yönlendirdi; dikkat öğrenmeyle r = 0,017, iş yükü ise olumsuz yönde ilişkiliydi (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 duruş özellikleri özel etiketlenmiş bir kümede şüpheli davranışı %99,56 ile işaretledi; suistimali ve adilliği test etmeden (Arif vd., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — EEG bağlantılılığı 54 katılımcı boyunca dış yazma desteğiyle azaldı ve yaslanmayı birikmiş bilişsel borç olarak çerçeveledi (Kosmyna vd., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23 çalışma boyunca algılama rolleri etiketlerin %62,5’inde baskındı ve incelenen hiçbir sistem çok kipli akışları canlı birleştirmedi (Kim ve Han, 2026)

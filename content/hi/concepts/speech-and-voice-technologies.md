@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,38 +99,3 @@ AkoVoice दो समानता विचार जोड़ती है ज
 - **"सशुल्क भाषण सेवाएँ निःशुल्क सेवाओं से बेहतर प्रदर्शन करती हैं।"** **दो निःशुल्क सेवाओं ने लगभग-पूर्ण प्रतिलेख लौटाए (87.96% और 88.34% कवरेज, शब्द त्रुटि दर 15.23% और 15.00%)**, जबकि दो सशुल्क सेवाओं ने केवल पूर्वावलोकन निर्यात किए, 32% कवरेज पर)। मूल्य ने उपयोगिता का पूर्वानुमान नहीं लगाया, और सशुल्क स्तर ने आउटपुट को सुधारने के बजाय सीमित किया।
 - **"कोई भी भाषा-अधिगम चैटबॉट उच्चारण सुधारता है।"** **दस अध्ययनों** में, **केवल भाषा-अधिगम के लिए डिज़ाइन किए गए चैटबॉट, Andy English bot और Xiaoying, ने सटीकता सुधारी**, एक नियंत्रण समूह तुलना में **14% त्रुटि कमी** के साथ। सामान्य संवादात्मक एजेंटों ने यह लाभ उत्पन्न नहीं किया।
 - **"स्व-प्रभावकारिता लाभ का अर्थ कौशल लाभ है।"** प्रौद्योगिकी और परिणामों के बीच संबंध सकारात्मक था और **स्व-प्रभावकारिता इसे आंशिक रूप से मध्यस्थ करती थी: अप्रत्यक्ष पथ कुल प्रभाव का 69.9% था जबकि एक प्रत्यक्ष प्रभाव बना रहा**। अधिकांश प्रभाव आत्मविश्वास से गुज़रा, जो एक तंत्र है और एक चेतावनी भी।
-
-## संबंधित अवधारणाएँ
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## संबंधित लेख
-
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR बोलने की प्रतिपुष्टि: मात्रा से बेहतर गुणवत्ता, और दक्षता नियंत्रित करती है कि किसे लाभ होता है (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — उच्चारण आत्म-प्रभावकारिता, GenAI उच्चारण प्रतिपुष्टि और संवाद इच्छा को मध्यस्थ करती है (1,701 EFL शिक्षार्थी)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS पाठ पाइपलाइन: संश्लेषित वर्णन ने प्रशिक्षक आवाज़ से मेल खाया; संवाद ने समझ में सहायता की
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — TTS-जनित पाठों में सीखने की शैली × संवाद-प्रारूप संवाद (222 छात्र)
-- [[ai-interlocutor-l2-spoken-dialogue]] — मानव बनाम AI संवादी: L2 जर्मन में समर्थित एकभाषण, अवलोकन और वाक्य-रचना प्राइमिंग
-- [[kutti-ai-voice-first-learning-companion]] — दृष्टिबाधित बच्चों के लिए वास्तविक समय संघर्ष पहचान के साथ वॉइस-फर्स्ट ऑफ़लाइन साथी
-- [[agent-voice-accents-k12-group-learning]] — एजेंट उच्चारण, K-12 समूह कार्य में मानवीकरण और सहयोग को आकार देता है (33 शिक्षक)
-- [[asynchronous-oral-assessment-2026]] — अतुल्यकालिक मौखिक मूल्यांकन: विस्तृत बोला गया मूल्यांकन, सीखने के लाभ की सावधानी के साथ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — मौखिक परीक्षाओं को प्रामाणिक, अखंडता-संरक्षी मूल्यांकन के रूप में प्रस्तुत करने वाली समीक्षा
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: व्यावसायिक कार्यशालाओं में ऑफ़लाइन वाक् मूल्यांकन जहाँ AI प्रमाण-सतह करता है, अंक नहीं
-- [[student-ai-interaction-consecutive-interpreting-2026]] — ASR/MT सहायता का उपयोग करने वाले अनुवाद प्रशिक्षार्थियों में चार संवाद प्रोफ़ाइल
-- [[gpt-item-generation-l2-listening-2026]] — L2 श्रवण आइटम जनरेटिंग के लिए GPT को संकेतित करना बनाम सूक्ष्म-अनुकूलित करना
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — इशारा और भाषण: क्यों केवल-भाषण मौखिक मूल्यांकन समझ के प्रमाण चूकता है
-- [[ai-guided-learning-audiovideo-2026]] — अनुकूली ऑडियो गति, आवाज़-संरक्षक वीडियो सारांश, और अनलेबल उच्चारण प्रतिपुष्टि
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — बहरे और कम श्रवण वाले शिक्षार्थियों के लिए LLM प्रश्न जनरेटिंग
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — जब AI शिक्षक बोलते हैं: एक यादृच्छिक फ़ील्ड प्रयोग से प्रमाण
-- [[ai-mediated-input-medical-english-asr-2026]] — मेडिकल अंग्रेज़ी में AI-मध्यस्थ इनपुट परिवर्तन: वाक् पहचान और प्रतिलेख विश्वसनीयता
-- [[chatbots-oral-proficiency-efl-systematic-review]] — सटीकता लाभ केवल भाषा-अधिगम चैटबॉट से, और उच्चारण-युक्त नामों पर ASR विफलताएँ
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — प्रतिपुष्टि चैनल पर ही लगाया गया टेलीफ़ोन आवाज़ एजेंट

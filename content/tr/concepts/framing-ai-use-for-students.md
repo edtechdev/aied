@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -96,37 +98,3 @@ Küçük, iyi tasarlanmış mesajlar davranışı kaydırabilir. ChatGPT’nin y
 **“Bir aracı yasaklamak davranışı ortadan kaldırır.”** Onu göremediğiniz araçlara taşır. Öğrenciler zaten kurum tarafından sağlanan araçlar yerine özel erişimli araçları tercih eder, dolayısıyla bir yasak kullanımı destek, günlük kaydı veya rehberliğin mümkün olduğu tek ortamdan dışarı iter. Çerçeveleme görevi, yasaklanan davranışı gözlenmesi zor hale getirmek değil izin verilen davranışı çekici kılmaktır.
 
 **“Çerçeveleme iknadır, dolayısıyla tasarımdan çok retoriktir.”** Bu sayfanın betimlediği çerçeveleme tasarımla eşleştirilir: beklentiler açık ve yinelenen biçimde belirtilir *ve öğrenciler çevresinde tasarlanır*. Tasarım yerine iletilen mesaj başarısız olan sürümdür, çünkü öğrenciler beyan edilen bir taahhüt ile gerçek bir taahhüt arasındaki farkı okur.
-
-## Bağlı kavramlar
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Bağlı makaleler
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Sıraya ilişkin 30 uzmanlık mutabakat: GenAI olmadan edin, onunla pekiştir, sonra kendi başına düşün
-- [[mccorkle-aligned-genai-course-policy-2025]] — Her izinli ve izinsiz GenAI kullanımı için şeffaf gerekçe, görev görev (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — GenAI’yı aksaklık olarak kınamak yerine uygun kullanımını teşvik etmek
-- [[student-rationalization-ai-writing]] — Öğrencilerin akademik yazımda YZ kullanımını gerekçelendirdiği “beş site”
-- [[student-regulatory-awareness-genai]] — Kuralları bilmek yeterli değil: düzenleyici farkındalık ve gerçek kullanım
-- [[ai-anxiety-strategic-regulation-writing-2026]] — YZ kaygısından stratejik düzenlemeye
-- [[chatgpt-inoculation-training-verification-2026]] — Aşıılama mesajları ve doğrulama davranışı
-- [[ai-fallibility-warning-help-seeking]] — YZ yanılabilirliği konusunda uyarmak yardım aramayı artırır
-- [[shame-guilt-ai-regulation-computing-education]] — YZ kullanımının sosyal düzenleyicileri olarak utanç ve suçluluk
-- [[access-not-enough-ai-tutoring-2026]] — İnsan desteği, YZ özel öğretmenliğiyle etkileşimi iyileştirir
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — GenAI ile SDT temelli etkileşim
-- [[ai-availability-student-motivation]] — YZ erişiminin öğrenci güdülenmesini nasıl şekillendirdiği
-- [[youtube-frames-chatgpt-education]] — YouTube’un eğitimde ChatGPT kullanımını nasıl çerçevelediği
-- [[ai-ethics-education-public-discourse]] — Eğitimde YZ etiği üzerine kamusal söylem
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Öğretim elemanları YZ’yi kritik/sorumlu kullanım olarak çerçeveler; işverenler onu verimlilik olarak çerçeveler
-- [[ssaho-ai-academic-integrity-review-2025]] — Açık beklentilerle akademik dürüstlük kültürü kurmak

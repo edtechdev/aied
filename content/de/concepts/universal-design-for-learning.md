@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,36 +100,3 @@ Wahl schließt nur dann ein, wenn die Optionen gleich glaubwürdig erscheinen. S
 **„UDL heißt, für die durchschnittliche lernende Person sorgfältiger zu gestalten.“** Die Kernaussage ist das Gegenteil: Variabilität unter Lernenden ist die Norm und nicht die Ausnahme, deshalb bietet das Design von Anfang an viele Wege an, statt einen Weg für die zu reparieren, die Schwierigkeiten haben. Nachrüstung ist genau das, was UDL ersetzen soll, und ein einzelner gut abgestimmter Weg bleibt ein einzelner Weg.
 
 **„KI macht UDL automatisch, weil sie Alternativformate erzeugen kann.“** Sie macht das Repräsentationsprinzip billig und lässt Engagement und Ausdruck unberührt. Text in Audio umzuwandeln adressiert eines von drei Mitteln; ein Kurs kann jetzt vollständig multiformatig sein und dennoch von jeder und jedem verlangen, Lernen auf dieselbe einzige Weise nachzuweisen.
-
-## Verbundene Konzepte
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Dach: Pädagogiken und Lehrstrategien in der KI-Bildung
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Verbundene Artikel
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitive Auslagerung durch GenAI bei Studierenden mit Lernbehinderungen
-- [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen
-- [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
-- [[neurodivergent-computing-students]] — Neurodivergente Informatikstudierende
-- [[ai-learning-tools-engineering-education-needs]] — Gestaltung von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
-- [[faculty-accessible-course-design-ai-2026]] — „AI is reducing options I had used“: Wahrnehmung zugänglichen Kursdesigns durch Lehrende in einer ChatGPT-Welt
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Künstliche Intelligenz und Universal Design for Learning an Hochschulen Kuwaits: auf ein KI-ermöglichendes Rahmenwerk für inklusive Bildung hin
-
-- [[mcdonald-inclusive-assessment-genai-2026]] — Inklusives Assessment-Design im Zeitalter von GenAI: Weiterentwicklung von Pädagogik und Praxis

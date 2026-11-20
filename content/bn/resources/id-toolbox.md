@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -36,7 +37,3 @@ ai_assist:
 
 ## এটি কেন আছে
 Curt Zilbersher, যিনি আটাশ বছর ধরে কর্পোরেট প্রশিক্ষণ নকশা করেছেন, তাঁর কর্মজীবনজুড়ে একই ছোট অমীমাংসিত সমস্যাগুলো বারবার ফিরে আসার কথা বলেন — বর্ণনার শব্দ গোনা, কোন উপাদান কোর্সকে একটি [[edtech-platform|LMS]]-সীমা ছাড়িয়ে দিয়েছে তা খোঁজা, হাতে-হাতে ক্যাপশন-কভারেজ যাচাই — এবং তিনি সমাধানগুলো বানিয়ে সেগুলো বিনামূল্যে দিচ্ছেন। সাইটটি ইনস্ট্রাকশনাল ডিজাইনাররা আসলে সপ্তাহটা কীভাবে কাটান তা নিয়ে একটি বিনামূল্যের বার্ষিক সমীক্ষাও চালায়।
-
-## সংযুক্ত ধারণা
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

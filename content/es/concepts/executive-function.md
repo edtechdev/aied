@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -105,35 +107,3 @@ La única revisión que vincula la descarga con la función ejecutiva es [[papas
 - **«Más uso de IA significa una función ejecutiva más débil.»** Sharma y colaboradores encontraron que la asociación pasaba por el estrés académico, y un diseño transversal no puede establecer la dirección. La dependencia y la pérdida de capacidad están correlacionadas, no se ha probado que sean causales.
 - **«La función ejecutiva es una sola cosa medible.»** La clasificación de tarjetas, la prueba de Flanker y los inventarios de autoinforme miden procesos distintos y a menudo discrepan.
 - **«Las escalas de autoinforme diagnostican déficits.»** La EFB-LDS-AI mide la dependencia autoinformada y la reducción percibida del esfuerzo, que sus autores distinguen explícitamente de un déficit clínico.
-
-## Conceptos conectados
-
-- [[metacognition]] — conocimiento y monitorización, distintos de la capacidad bajo carga
-- [[cognitive-offloading]] — qué se delega cuando una tarea pasa a un modelo
-- [[self-regulated-learning]] — planificación y monitorización aplicadas al propio estudio
-- [[cognitive-psychology]] — la memoria de trabajo y las tareas construidas a partir de ella
-- [[developmental-psychology]] — cómo cambia el constructo a lo largo de la infancia
-- [[special-education]] — apoyo, adaptación y la ética de ambos
-- [[neurodiversity]] — el marco en el que se discute el apoyo al TDAH
-- [[scaffolding]] — apoyo justo más allá de la capacidad independiente
-- [[assistive-technology]] — herramientas que compensan una capacidad
-- [[conversational-ai]] — el formato de entrega que usan la mayoría de los estudios de entrenamiento
-- [[generative-ai]] — las herramientas cuya dependencia se mide aquí
-- [[teacher-role]] — el apoyo que la dependencia puede desplazar
-- [[higher-ed]] — donde se hizo la mayor parte del trabajo de medición
-- [[k-12]] — donde se mide la dependencia en adolescentes
-- [[longitudinal-research]] — el diseño del que esta evidencia carece en su mayoría
-
-## Artículos conectados
-
-- [[genai-reliance-executive-functioning-2026]] — La dependencia de la IA generativa en la adolescencia definida como preferencia frente al esfuerzo
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Compensación, andamiaje y desarrollo como tres funciones de la herramienta
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Diez estudios de chatbots, 1.606 participantes, un mes de seguimiento como máximo
-- [[sidorkin-extended-executive-cognition-2025]] — La cognición ejecutiva extendida como resultado de la educación superior (marco)
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La flexibilidad cognitiva predice el nivel de la entrevista; la inhibición, no
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Una escala de autoinforme de 35 ítems para las dificultades de aprendizaje mediadas por IA
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Apoyo de IA para estudiantes con TDAH, con los intercambios éticos nombrados
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — El estrés académico media entre la dependencia de ChatGPT y la disfunción ejecutiva
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Niños y adultos conversando con ChatGPT en el escáner
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — La descarga cognitiva en la era de la IA generativa: la revisión que vincula la descarga con la función ejecutiva
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Tomar notas superó a un chatbot en comprensión y recuerdo diferidos

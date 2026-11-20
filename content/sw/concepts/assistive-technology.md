@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -59,27 +61,3 @@ Mapitio ya wigo ya mwaka 2026 ya teknolojia za usaidizi za kidijitali [[ai-techn
 - **"Ukubwa wa athari wa wastani hutambua chombo sahihi."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] wanagundua uingiliaji unaotegemea AI unazalisha athari chanya ya wastani katika matokeo ya kujifunza kwa wanafunzi wenye ulemavu (**g = 0.588**) kote kwa roboti, programu na VR yenye akili. Hiyo ni wastani juu ya teknolojia tofauti sana zinazohudumia mahitaji tofauti sana, kwa hivyo inasaidia kategoria na si chaguo ndani yake.
 - **"Upatikanaji unaotegemea utambuzi ni muundo unaoweza kutetewa."** Kuhitaji utambuzi rasmi ili kushiriki kunawaondoa wanafunzi wenye mahitaji halisi na wasio na lebo, jambo linalopingana na [[universal-design-for-learning|ubuni wa jumla kwa kujifunza]] na kusukuma gharama ya upatikanaji kwenye nyaraka za mwanafunzi.
 - **"Zana zaidi za usaidizi inamaanisha ujumuishaji zaidi."** Mapitio ya wigo yalichuja **rekodi 766** katika hifadhidata tano, na wingi wa pato si sawa na chanjo ya hitaji; idadi ya masudio kwa kila kizuizi ni takwimu inayofahamisha zaidi.
-
-## Dhana Zilizounganishwa
-
-- [[accessibility]] — sifa ya kubuni ambayo teknolojia ya usaidizi inafanya iwezekane
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Makala Zilizounganishwa
-
-- [[shin-ai-policies-sld-2026]] — Sera za AI na vifaa vya kufaa kwa wanafunzi wenye ulemavu mahususi wa kujifunza
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis ya uingiliaji wa AI kwa wanafunzi wenye ulemavu
-- [[kutti-ai-voice-first-learning-companion]] — AI inayoanza kwa sauti kwa watoto wenye ulemavu wa kuona
-- [[tactile-statistical-graphs-accessibility]] — Michoro ya takwimu ya kugusa iliyotengenezwa na AI
-- [[text-simplification-its]] — Urahisishaji wa maandishi unaotegemea LLM kwa ufafanuzi wa akili bandia
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Uundaji wa maswali wa LLM kwa wanafunzi Viziwi/Wenye Uziwa Mkubwa
-- [[gemini-lualatex-physics-video-transcription-2026]] — Unukuzi wa video ya fizikia unaoweza kufikiwa na hisabati ya Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI ya usaidizi kwa wanafunzi wenye ulemavu wa kuona
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizalishaji, halisi ya kweli, na zaidi: Mapitio ya wigo ya teknolojia za usaidizi za kidijitali kwa wanafunzi wenye tofauti za neva katika elimu ya juu

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -80,39 +82,3 @@ La stabilité des items allait de 79.0% à 85.4%, le kappa de Cohen moyen inter-
 - **« La position dans un classement indique la qualité d'un tuteur. »** StudentBench **répartit aléatoirement 2,383 adultes entre un tutorat par IA, un tutorat humain en direct par un expert et une condition vidéo** et note les résultats face à des tuteurs humains plutôt que face à d'autres systèmes. Un référentiel calibré sur d'autres modèles répond à une question dont personne n'avait besoin.
 - **« Les personas simulés constituent une base adéquate pour évaluer un tuteur. »** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] ancre l'évaluation dans la **littérature de cas documentée plutôt que dans des personas simulés**, avec **923 dialogues**. Des personas d'étudiants fabriqués laissent un système réussir des cas qui ne se produisent pas.
 - **« Un référentiel est fiable sans vérification du juge. »** L'hallucination a été notée comme une **implication par rapport aux fragments récupérés sous licence ouverte (κ = 0.76 par rapport au jugement d'experts)** — le juge a été validé face à des experts avant que ses scores ne soient utilisés. Un juge automatique non validé produit des nombres de signification inconnue.
-
-## Concepts liés
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Articles liés
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench : évaluer les tuteurs LLM face à des étudiants aux comportements difficiles (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Un référentiel de compétence en anglais de 624 items qui rapporte la capacité du modèle comme un niveau calibré (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et les LLM ? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Le Pedagogy Benchmark : connaissances pédagogiques des LLM (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking LLM-based instructional-design agents
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistants de base de connaissances en OER sur site : référentiel multidimensionnel
-- [[authentic-products-authenticated-processes-2026]] — Des produits authentiques aux processus authentifiés : l'évaluation authentique dans l'enseignement supérieur riche en IA
-- [[llm-cognitive-diagnosis-handwritten-math]] — Évaluer les grands modèles de langue pour le diagnostic des compétences cognitives des étudiants à partir de travaux mathématiques manuscrits
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench : un référentiel à long horizon pour les agents LLM pédagogiques avec des apprenants simulés
-- [[responsible-assessment-ai-era-stanford-2026]] — L'évaluation responsable à l'ère de l'IA : enseignements clés d'une conférence prospective
-- [[anvil-ai-educational-animations]] — ANVIL : analogies et vidéos pour les enseignants
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG : génération augmentée par récupération pour l'enseignement de l'informatique théorique, cadre d'évaluation complet pour l'analyse d'algorithmes et la théorie de la complexité
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE : construction de référentiels par annotation d'abord et génération de tâches, et non-redondance au niveau des dimensions sur 12 tâches d'imagerie artistique (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE
-- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par IA
-- [[llm-benchmark-secondary-science-topics-2026]] — Un benchmark pour la compréhension par les LLM des contenus scientifiques du collège et du lycée
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Huit principes de conception pour les référentiels de tuteurs IA, dérivés d'une métrique optimisée jusqu'à la répétition (Domínguez Figaredo & Fernández De la Cruz 2026)

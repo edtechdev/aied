@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -43,7 +45,6 @@ ai_assist:
 শারীরিকভাবে [[embodied-learning|মূর্ত]] টিউটরদের জন্য, 11টি RALL গবেষণার (N = 595) একটি মেটা-বিশ্লেষণ L2 শেখায় বড় সমন্বিত প্রভাব (g = 0.83) পেয়েছে উচ্চ ভিন্নতার সঙ্গে, এবং কেবল আন্তঃক্রিয়ার বিন্যাস তা নিয়ন্ত্রণ করেছে — দলভিত্তিক বিন্যাস এক-এক-এর চেয়ে ভালো, কিন্তু রোবটের আকার, মাধ্যম, স্বায়ত্তশাসন ও সামাজিক ভূমিকা নয় ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang ও Zou (2026)]])।
 
 জ্ঞান-উপাদানের সূক্ষ্মতা স্কুল-ভিত্তিক টিউটরিংয়ে একটি মডেলিং-সিদ্ধান্ত: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny ও Meurers (2026)]] জার্মান স্কুলে ইংরেজি শেখা 1,059 জন সপ্তম-শ্রেণির শিক্ষার্থীর 153,819টি প্রথম-প্রচেষ্টা প্রতিক্রিয়ায় FeedBook ডোমেইন-শ্রেণিবিন্যাসের 11টি স্তর জুড়ে 19টি জ্ঞান-উপাদান (KC) মডেল তুলনা করেন। সূক্ষ্ম আইটেম-স্তরের মডেল পরিচিত বিষয়বস্তুতে নতুন শিক্ষার্থীদের জন্য সেরা পূর্বানুমান করেছে, আর অর্থগতভাবে ভিত্তিপ্রাপ্ত মধ্য-স্তরের মডেল নতুন বিষয়বস্তুতে সেরা সাধারণীকরণ করেছে (AFM-এর অধীনে Property ID + Exercise Type RMSE 0.4243 বনাম Actionable Element ID-এর 0.4447)। একটি অ্যানোটেশন-কভারেজ অডিট দেখে কঠোর property mapping শুরুতে 45.7% রেকর্ড বাদ দিয়েছিল এবং একটি নতুন অ্যানোটেশন সরঞ্জাম বর্জন 30.6%-এ নামিয়ে এনেছে, যেখানে এককভাবে combined label positive|statement বাদ পড়া রেকর্ডের 74.9% জন্য দায়ী।
-
 
 **ভাষা মূল্যায়নে এআই** উদীয়মান, কারণ এলএলএম [[automated-question-generation|আইটেম উৎপাদন]] ও মূল্যায়নকে সহায়তা করে। **[[gpt-item-generation-l2-listening-2026|Aryadoust ও Wong (2026)]]** L2 শ্রবণ-মূল্যায়নে স্বয়ংক্রিয় আইটেম উৎপাদনের জন্য [[prompt-engineering|প্রম্পট ইঞ্জিনিয়ারিং]]-এর সঙ্গে ফাইন-টিউনিং তুলনা করেন: পুনরাবৃত্ত প্রম্পট-পরিমার্জন আইটেম-গুণমান উন্নত করেছে কিন্তু মঞ্চে থেমে গেছে, আর **অপ্টিমাইজ করা প্রম্পটে GPT-4.1 ফাইন-টিউন করলে** (প্রম্পট-নকশা স্থির রেখে) আরও লাভ হয়েছে — এটি একটি টেমপ্লেট, কখন মূল্যায়ন-উন্নয়নকারীদের প্রম্পট-পুনরাবৃত্তির বদলে [[llm-training-and-fine-tuning|মডেল-অভিযোজনে]] বিনিয়োগ করা উচিত।
 
@@ -98,63 +99,3 @@ ai_assist:
 - **"মূর্ত রোবট টিউটর কাজ করে মূর্ততার কারণে।"** **11টি RALL গবেষণার (N = 595)** মেটা-বিশ্লেষণ L2 শেখায় বড় সমন্বিত প্রভাব (**g = 0.83**) পেয়েছে **উচ্চ ভিন্নতায়**, এবং — গুরুত্বপূর্ণভাবে — কেবল **আন্তঃক্রিয়া**-স্তরের বৈশিষ্ট্যই তা নিয়ন্ত্রণ করেছে। গঠন ও মাধ্যম নয়, সুতরাং হার্ডওয়্যারই সক্রিয় উপাদান নয়।
 - **"এআই-উৎপন্ন মূল্যায়ন-আইটেম শিক্ষক-লিখিত আইটেমের চেয়ে খারাপ।"** **20 জন অভিজ্ঞ শিক্ষকের রেটিং করা 52টি EFL মূল্যায়ন-কাজের** তুলনায় **সামগ্রিকভাবে কোনো তাৎপর্যপূর্ণ গুণমান-পার্থক্য** পাওয়া যায়নি এআই-উৎপন্ন ও মানব-উন্নীত আইটেমের মধ্যে, কিন্তু নির্দিষ্ট মাত্রায় ভিন্নতা আছে। সামগ্রিক সমতা ও নির্দিষ্ট দুর্বলতা — উন্নতি বা ঘাটতির চেয়ে আলাদা দাবি।
 - **"এলএলএম প্রতিক্রিয়া কেবল লেখা স্কোর করতে পারে।"** একটি বক্তব্য-স্তরের ব্যবস্থা আরও এগিয়ে যায়: **লেখাকে স্কোর করার বদলে ত্রুটিটির নাম দেয়**, বাক্য-জোড়া সম্পর্কের শ্রেণিবিন্যাস **সুসংগতির বিচ্ছেদ** যেমন যুক্তির লাফ ও অনুপস্থিত সংযোগ স্থানীয়করণ করে। কাজে-লাগা আউটপুট ডায়াগনস্টিক, সংখ্যাগত নয়।
-
-## সংযুক্ত ধারণা
-
-- [[eportfolio]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — চ্যাটবটের মৌখিক-দক্ষতা লাভ পরিসর ও বোধগম্যতায় কেন্দ্রীভূত
-- [[student-ai-interaction-consecutive-interpreting-2026]] — কম্পিউটার-সহায়ক ধারাবাহিক দোভাষীতে শিক্ষার্থী-এআই আন্তঃক্রিয়া
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — এআই-সহায়ক জাপানি ভাষা শেখায় মনস্তাত্ত্বিক অভিযোজনের প্রোফাইল ও রূপান্তর
-- [[llm-agents-5e-esl-grammar-2026]] — ESL ব্যাকরণ-অর্জনে 5E কাঠামোসহ এলএলএম এজেন্ট (Yang, Weng ও Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — L2 শ্রবণ আইটেম উৎপাদনে GPT-এর প্রম্পটিং বনাম ফাইন-টিউনিং (Aryadoust ও Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — ইংরেজি শিক্ষাদানে BERT বক্তব্য-শ্রেণিবিন্যাস
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL-এ এআই-উৎপন্ন বনাম মানব-উন্নীত মূল্যায়ন-কাজ
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — অদৃশ্যকে শাসন: ভাষা-শিক্ষকদের মধ্যে এআই সাক্ষরতা
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — এআই-বর্ধিত মূর্ত রোবট-সহায়ক ভাষা শেখার মেটা-বিশ্লেষণ
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — বিশ্ববিদ্যালয় বিদেশি-ভাষা শিক্ষায় প্রশিক্ষক-নকশাকৃত এআই টিউটর: আত্ম-নির্ধারণ তত্ত্বভিত্তিক শিক্ষার্থী-প্রেরণা ও প্রতিফলনমূলক শেখার অভিজ্ঞতার মিশ্র-পদ্ধতি গবেষণা
-- [[lukesova-clue-before-correction-2026]] — সংশোধনের আগে সংকেত: স্বায়ত্তশাসিত ভাষা শেখার জন্য ChatGPT
-- [[chatgpt-english-language-learning-malaysia]] — ইংরেজি ভাষা শেখায় শিক্ষার্থীদের ChatGPT অভিজ্ঞতা
-- [[liu-emerging-tech-tefl-review-2026]] — EFL-এর জন্য উদীয়মান প্রযুক্তির মেটা-বিশ্লেষণ
-- [[wang-goal-setting-ai-engagement-2026]] — লক্ষ্য-নির্ধারণ তত্ত্ব: এআই-সহায়ক ইংরেজি শেখায় শিক্ষক-সহায়তা, অর্জন-লক্ষ্য ও সম্পৃক্ততা (758 চীনা শিক্ষার্থী)
-- [[li-language-educators-genai-review-2026]] — GenAI নিয়ে ভাষা-শিক্ষকদের অভ্যাস ও বিকাশ
-- [[asr-english-speaking-feedback-metacognition-2026]] — কলেজ ইংরেজি কথনে ASR প্রযুক্তি: প্রতিক্রিয়ার আত্মস্থকরণ ও অতিজ্ঞানগত কৌশল
-- [[genai-writing-program-primary-l2-motivation-engagement]] — প্রাথমিক L2 শিক্ষার্থীদের জন্য GenAI-সহায়ক লেখালেখি কর্মসূচি (Lu ও অন্যান্য 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: শিক্ষাগত ন্যায্যের দিকে স্বল্প-খরচে গৃহে ভাষা শেখার লোকাল-প্রথম এআই এজেন্ট কাঠামো
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — প্র্যাগমেটিক অন্ধত্ব: এআই ভাষা-আউটপুট ব্যাকরণগতভাবে সঠিক কিন্তু সাংস্কৃতিকভাবে ভুল হতে পারে
-- [[ai-speaking-practice-communicative-readiness-2026]] — প্রস্তুতি, পর্যবেক্ষিত কর্মক্ষমতা নয়
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — সহযোগী পাঠে এআই স্ক্যাফোল্ডিং সম্প্রসারণ
-- [[acoustic-lexical-native-language-identification-learners-2026]] — L1 শনাক্তকরণে শূন্য-শট GPT-4o প্রতিলিপি-শ্রেণিবিন্যাসকারীর চেয়ে অডিও এগিয়ে (Uluslu ও অন্যান্য 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — একটি সংবাদ-অনুবাদ কোর্সে প্রক্রিয়া-প্রতিক্রিয়া উৎস-পরামর্শ বাড়িয়েছে ও মেশিন-অনুবাদের ব্যবহার কমিয়েছে
-- [[wordofa-genai-grammar-instruction-efl-2026]] — জেনারেটিভ এআই-সহায়ক ব্যাকরণ শিক্ষাদান এবং ইথিওপীয় EFL শিক্ষার্থীদের স্ব-কার্যকারিতা ও অধিভাষিক সচেতনতা

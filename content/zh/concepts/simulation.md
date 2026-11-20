@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -100,50 +102,3 @@ ai_assist:
 - **“模拟更便宜，因此是次优选择。”** 自主的 [[llm|LLM]] 模拟飞行员**取代了为空中交通管制模拟配备的专职人类角色扮演者，消除了训练容量的瓶颈**：约束在人力，不在保真度。在人类角色扮演者稀缺之处，LLM 模拟不是替代品，而是唯一可得的选项。
 - **“模拟器应当表现得像平均情形。”** [[residencyrl-clinical-rl-training-2026|ResidencyRL（Liévin 等，2026）]] 把策略智能体与**被设定为对抗性行为的 LLM 患者模拟器**配对。一个被设计成配合的模拟器，会让学习者的练习比临床更容易，这与训练的需要正好相反。
 - **“脚本化情境能教不确定性下的决策。”** SupplyNet 的情境化多智能体智能体生成的是**由学习者决定涌现出的动态，而不是脚本化的**序列。脚本化情境排练的是一条已知路径，涌现式情境排练的是决策本身。
-
-## 关联概念
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — 化学教育与 AI：实验室、形成性评估、LLM 的局限、实验哲学
-- [[biology-education]] — 生物教育与 AI：实验室教学助手、生物中的 AI 素养、批判性思维、专门工具
-- [[ai-technologies]] — 总括：AI 技术与技法（模型、LLM 训练、机器人、RAG、智能体）
-- [[virtual-and-augmented-reality]] — 是模型，而非模态——沉浸式环境通常渲染的是一个模拟
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## 关联文章
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — AI 模拟与虚拟病人在情感领域训练中占主导，结果多为自评（Ismail 与 Zafira，2026）
-- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14 份文献的范围综述：模拟来访者占主导，受训者胜任力未被测量（Van Patten-Freeman 与 Rath，2026）
-- [[learner-agency-ai-simulation-2026]] — 复杂系统模拟中的参数控制与可选 AI 智能体：增益追随执行，而非可及性
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — 用于心理治疗训练的适应性虚拟病人
-- [[ai-enabled-serious-games]] — AI 赋能的严肃游戏
-- [[anvil-ai-educational-animations]] — ANVIL：面向讲授者的类比与视频
-- [[astra-atco-training-simulator]] — ASTRA：ATCO 训练模拟器
-- [[supplynet-visual-exploratory-learning]] — SupplyNet：视觉探究式学习
-- [[medeasy-ai-standardized-patients]] — MedEASY：AI 标准化病人
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 用于旁观者干预的机器人中介角色扮演游戏（应用戏剧）
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto et al. 2026）
-- [[conversational-agents-business-simulation-gaming-2026]] — 商业模拟游戏中 AI 对话智能体的 CAIS-GBL 框架（Wenzel et al. 2026）
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 复现协作式问题解决对话的、经微调的参与者特定 LLM 智能体（Fang 2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 用于多智能体辅导与参与平衡协作的 ASTRA 合成基准
-- [[simulation-assisted-drone-learning-stem-2026]] — 采用教师—AI 共同设计支架的模拟辅助无人机学习
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理中的 AI 驱动模拟：混合方法系统综述（真实性缺口、分级连续体）
-- [[sophie-clinical-communication-ai-assessment-2026]] — 可扩展的基于 AI 的临床沟通训练与自动评估
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 教育中的数字孪生：原型都奏效了，学习增益大多没有
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的翻转物理学习虚拟实验室：对初中生成绩、动机与认知负荷的影响
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 四层框架：区分所代表的实践、模拟的情境、能动性与适应，以及编排
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — 从技术采纳到课程一致性：技术增强的模拟作为健康专业教育中的桥梁
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — 教师在整个模拟循环中无法委派给对话智能体的东西
-- [[tischkau-ai-simulated-patient-formats-2026]] — 一个 LLM 病人在教师主持的小组与单人笔记本两种形式下：每名学生每次会话约 US\$2，学习者评分无可检测差异（Tischkau 等，2026）
-

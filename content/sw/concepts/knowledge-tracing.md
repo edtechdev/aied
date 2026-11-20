@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -59,7 +61,6 @@ Ufuatiliaji wa maarifa hubadilisha majibu ghafi ya mazoezi kuwa makadirio ya kil
 
 - **Ukubwa wa kipengele cha maarifa ni uamuzi wa uundaji wenyewe.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny na Meurers (2026)]] walilinganisha mifano 19 ya vipengele vya maarifa katika viwango 11 vya uongozi wa ufundishaji wa lugha kwenye majibu 153,819 ya jaribio la kwanza kutoka wanafunzi 1,059 wa darasa la saba. Mshindi hutegemea lengo la utabiri: kitambulisho cha kipengele kinachoweza kutekelezwa kilichogawanywa kipembamba kiliongoza utabiri uliozuiwa na mwanafunzi (RMSE 0.4083), wakati Kitambulisho cha Sifa kilichotegemea maana pamoja na Aina ya Zoezi kiliongoza utabiri uliozuiwa na kipengele (RMSE 0.4243). Vitambulisho vilivyogawanywa kipembamba pia vilionyesha viwango vya kujifunza vya wastani karibu sifuri (Kitambulisho cha Kipengele Kinachoweza Kutekelezwa 0.000).
 
-
 ### Uhusiano na dhana zingine
 
 Ufuatiliaji wa maarifa unahusiana karibu na [[student-modeling]] — wakati ufuatiliaji wa maarifa mahususi huunda mfano wa maarifa ya kiakili kwa muda, kuunda mfano wa mwanafunzi ni mazoezi pana zaidi ya kuwakilisha nyanja zote za mwanafunzi (hali ya [[affective-computing|kihisia]], [[student-engagement|ushirikiano]], mapendeleo). Ufuatiliaji wa maarifa unalisha mifumo ya [[adaptive-learning]] na [[personalized-learning]] inayohitaji kujua nini kifundishwe ijayo, na majukwaa ya [[intelligent-tutoring]] yanayotumia makadirio ya ustadi kuchagua matatizo yanayofaa. Unaungana na [[learning-analytics]] kwa ajili ya ubuni wa dashibodi na uingiliaji, na na [[cognitive-diagnosis]] kwa [[assessment]] ya ujuzi wa undani mdogo. Vijenzi vya ufuatiliaji wa maarifa pia vinaelekeza [[simulating-students|wanafunzi walioigwa]] — hali ya kiakili ya mwanafunzi aliyeigwa mara nyingi hufomaliwa kwa mienendo ile ile ya ustadi/kupotea ambayo ufuatiliaji wa maarifa huunda mfano, hivyo [[simulation]] ni njia ya *kuzalisha* hali za maarifa ambazo mbinu za ufuatiliaji kwa kawaida *huzitambua* kutoka data halisi ya majibu.
@@ -69,7 +70,6 @@ Ufuatiliaji wa maarifa unahusiana karibu na [[student-modeling]] — wakati ufua
 **Onyo: ustadi si sahihi.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, na Stamper (2026)]] wanaonyesha kuwa dhana ya hali mbili za BKT (kujifunza/kutokujifunza) inaweza kukiukwa na *ugawanyaji wa udanganyifu* — wanafunzi wanaweza kuonekana wana ustadi lakini bado wakitumia ujuzi vibaya kwa mpangilio wakati kikomo cha siri cha matumizi kinapokiukwa. Hii inahimiza ufuatiliaji wa ufahamu wa masharti (kujua *lini kujizuia* na kitendo), si tu usahihi wa kitendo, wakati makadirio ya ustadi yanaendesha kanuni za kusimama za [[adaptive-learning|mabadiliko]].
 
 **Onyo la haki: ujuzi usioandikwa katika mfano hupotosha hali iliyofuatiliwa dhidi ya makundi mazima.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar na wenzake (2026)]] waligundua BKT ya Bayesian kwenye kumbukumbu za MATHia kutoka wanafunzi 8,549 katika miaka miwili ya shule ikiwa na upendeleo mdogo tu kwa jumla — usawa wa kitakwimu −0.077 (2021–2022) na −0.066 (2022–2023) — licha ya mapengo makubwa zaidi katika ujuzi wenye kusoma kwa kiasi kikubwa. Athari tofauti zilikuwa 0.885 na 0.878, na tofauti za upimaji kati ya makundi ya kusoma zilikuwa muhimu licha ya ukubwa wao mdogo (.0046 na .0054). Upendeleo wa kiwango cha ujuzi ndipo madhara yanakusanyika: ujuzi 36 kati ya 50 uliochanganuliwa ulikuwa na upendeleo dhidi ya wasomaji wachanga, ukiongozwa na mfano wa "tumia kipeo" wenye kusoma kwa kiasi kikubwa ukiwa na usawa wa kitakwimu −0.262 na athari tofauti 0.609.
-
 
 **Onyo unaohusiana unahusu *jinsi* mifano ya ufuatiliaji inavyothibitishwa ikilinganishwa na inavyotumika.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, na Carvalho (2025)]] waliosoa BKT, BKT yenye Kusahau, na Mfano wa Vipengele vya Nyongeza kwenye seti ya data ya kujifunza-upya ya mfululizo ya vipindi vingi na wakagundua kuwa yanarudia mienendo ya kujifunza yanaposogezwa kwa nyuma kwenye vipindi vyote (AUC inayokubalika ≈ 0.74–0.79); lakini chini ya **uthibitishaji wa mseto unaotegemea muda** — kufunza kwenye kipindi kimoja kutabiri kile kinachofuata, mpangilio halisi wa matumizi — mifano yote mitatu inakadiria kupita utendaji wa baadaye kwa takribani 47–58%, inashindwa kukamata [[retrieval-spacing-interleaving|athari ya nafasi]], na inaweza hata kutabiri mpangilio wa mtiririko usio sahihi kati ya hali za mazoezi. Kwa kushtusha, mifano *isiyo na* mbinu ya wazi ya kusahau ilifanya kazi karibu sawa na toleo lililoimarishwa kwa kusahau kadiri vipindi vilivyoongezeka, ikipendekeza kuwa kusahau kulijazwa kwa kiasi katika vigezo vingine (mfano, viingilishi vya kila mwanafunzi katika AFM) badala ya kuundwa mfano kwa kweli. Waandishi wanaunganisha hili na tofauti ya kujifunza dhidi ya utendaji: mifano maarufu huchanganya utendaji wa juu wa wakati huo na uwezekano mkubwa wa uhifadhi wa muda mrefu. Athari ya vitendo ni kwamba kifuatiliaji kinachoonekana vizuri kwenye usogezaji wa nyuma kinaweza kupotosha mifumo inayobadilika inayotumia makadirio yake ya ustadi, ikihitaji tathmini ya mbele na mifano yanayochukulia muda wa uhifadhi, nafasi, na kusahau kati ya vipindi.
 
@@ -107,39 +107,3 @@ Ufuatiliaji wa maarifa unahusiana karibu na [[student-modeling]] — wakati ufua
 
 - Ripoti matokeo kwenye familia zaidi ya moja ya data kabla ya kudai ubora wa usanifu, kwa kuwa tofauti ya OKT inageuka kati ya data ya LMS ya uhandisi na ASSISTments.
 - Ripoti kanuni ya kuhesabu umahiri kama kigezo cha matokeo, si kama tanbihi ya mbinu.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: muunganisho wa dhana za upande wa mwanafunzi
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — kadirio la ustadi la undani mdogo linalisha maamuzi ya msaada
-
-## Makala Zilizounganishwa
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Ugawanyaji wa udanganyifu: ustadi unaobadilika unaweza kusimamisha mazoezi kabla ya wanafunzi kujua lini kujizuia na kitendo (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Ufundishaji Wenye Akili Unaotegemea Grafu kwa Vikoa Vinavyobadilika (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ufuatiliaji wa maarifa unaotegemea matokeo kwa ramani za uhusiano
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — ufuatiliaji unaowekwa kisemantiki wenye hali zilizokalibishwa kwa KC, unayotumika kama mazingira ya RL kwa mapendekezo
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu wa Wakala Anayejifunza Mwanafunzi wake katika Kitanzi cha Kujifunza cha Binadamu–AI
-- [[crediting-assisted-work-inflates-mastery-2026]] — Kanuni ipi ya ushahidi inaamua dai la ustadi (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — LLM ya kupita-moja inafuatilia maarifa juu ya mifano ya kina yaliyofunzwa kwa wanafunzi 8, kwa sehemu ya gharama (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Kubana historia ya mwanafunzi katika ufuatiliaji wa maarifa ya hisabati

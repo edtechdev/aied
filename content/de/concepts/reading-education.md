@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,33 +100,3 @@ Die Leseflüssigkeit in den ersten Grundschuljahren ist bislang die Ausnahme: An
 - **„KI-generierter Text ist leichter, weil er für ein Niveau erzeugt wird."** Die Evidenz läuft für Modellausgaben in die andere Richtung: Frontier-Modelle nutzen Konstruktionen übermäßig, die mit Verständniskosten verbunden sind.
 - **„Lesen mit KI ist ein einziges Verhalten."** Die AIR-Skala findet vier unterschiedliche Motive, und sie sagen unterschiedliche Arten der Nutzung voraus.
 - **„Wenn KI den Text umschreiben kann, spielt das Leseniveau keine Rolle mehr."** Differenzierung verändert die Unterstützung rund um eine Passage stärker als die strukturelle Komplexität der Passage, was eine andere Intervention ist als das Absenken ihres Niveaus.
-
-## Verbundene Konzepte
-
-- [[ai-education]] — der Schirm, unter dem diese Domäne sitzt
-- [[language-learning]] — L2-Lesen überschneidet sich, aber dort ist der Erwerb der Gegenstand
-- [[writing-education]] — die verfassende Seite der Literalität
-- [[english-education]] — EAP/EFL/ESL-Lesen und Lesbarkeit
-- [[educational-nlp]] — die Textmessungsschicht, auf der Lesbarkeit beruht
-- [[assessment]] — Leseassessment und Punktevalidität
-- [[motivation]] — warum Lesende KI nutzen und was das mit Verarbeitung macht
-- [[scaffolding]] — Unterstützungsschichten in differenzierten Lesematerialien
-- [[neurodiversity]] — Legasthenie und Leseschwierigkeit
-- [[accessibility]] — menschlich lesbarer versus maschinenlesbarer Text
-- [[generative-ai]] — die Technologie hinter erzeugten und angepassten Texten
-
-## Verbundene Artikel
-
-- [[air-scale-motivations-ai-reading-2026]] — eine validierte Skala der Motive für das Lesen mit GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — KI-vermitteltes Leseassessment in einem EFL-Klassenzimmer
-- [[genai-differentiated-eap-reading-materials-2026]] — differenzierte EAP-Lesematerialien
-- [[llm-children-reading-story-generation]] — niveaukontrollierte Lesegeschichten für Kinder
-- [[text-simplification-its]] — Textvereinfachung für das Tutoring bewerten
-- [[clara-developmental-appropriateness-children-stories-2026]] — Entwicklungsschwierigkeit jenseits von Lesbarkeitsformeln
-- [[bird-multimodal-educational-literature-2026]] — Literatur nach Key Stage klassifizieren
-- [[clark-ai-generated-language-readability-2026]] — warum KI-generierte Sprache schwerer zu lesen ist
-- [[sidorkin-ai-generated-course-readings-2026]] — zugeschnittene, KI-generierte Kurslektüren
-- [[airri-machine-resistant-reading-interface-2026]] — maschinenresistente Leseschnittstellen und ihre Lesbarkeitskosten
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — ChatGPT-Feedback im Lesen der Sekundarstufe
-- [[dabaghi-ai-dyslexia-education-review-2026]] — KI für Lernende mit Legasthenie
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — LLM-Nutzung, Mitschreiben und Leseverständnis in der Sekundarstufe: der randomisierte Vergleich

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -49,12 +50,3 @@ ai_assist:
 ## 说明与限定
 
 [[open-source|源码]]开放并不等于数据开放。Knowledge Graph 与 Evaluator 的代码是 MIT，Agent Skills 是 Apache-2.0，而每个数据集各自带有访问标签——Open、Open + Gated 或 Gated——且 Gated 内容不在该仓库所援引的开放许可覆盖范围之内，因此在假定拥有再使用权之前，请先查看数据集目录。Evaluator 的提示词内容是 CC BY 4.0，但它所使用的带标注的 CLEAR 与 PERSUADE 2.0 语料库是 CC BY-NC-SA 4.0。平台及其背后的数据集需要账户。
-
-## 关联概念
-
-- [[curriculum-design]] — 图谱的存在是为了把生成内容对齐到标准与课程
-- [[open-source]] — MIT 与 Apache-2.0 代码，数据按数据集分别授权
-- [[educational-nlp]] — 评估器是大语言模型输出之上的一层文本度量
-- [[agentic-ai]] — 把工作流打包给模型执行的技能
-- [[edtech-platform]] — Curriculum Sync 把课程载入学习管理系统
-- [[llm]] — 评估的对象，也是这些技能的消费者

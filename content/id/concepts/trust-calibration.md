@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -132,7 +134,6 @@ Kalibrasi kepercayaan adalah pusat [[ai-literacy]] dan berdiri bersama [[reducin
 - Ukur ketergantungan yang tepat sebagai luaran perilaku terhadap kebenaran dasar, bukan sebagai skor kepercayaan. Keduanya berkorelasi negatif dalam satu-satunya studi yang mengukur keduanya.
 - Laporkan tingkat pemulihan bagi peserta yang awalnya salah secara terpisah dari akurasi keseluruhan, karena agregat menyembunyikan angka di bawah peluang yang paling penting.
 
-
 **Pembelajar yang tampak paling tangguh adalah yang lebih memercayai alat itu.** Dalam survei atas 300 mahasiswa universitas Korea Selatan, [[kim-overtrust-ai-literacy-2026|Kim, Kim dan Zhang (2026)]] menemukan kepercayaan berlebih berkorelasi dengan [[self-efficacy|efikasi diri akademik]] (r = 0.230), [[motivation|motivasi intrinsik]] (r = 0.224) dan ekspektasi kinerja (r = 0.360), dan tidak berkorelasi dengan literasi AI (r = 0.051). Dalam model serial, efikasi diri memprediksi kepercayaan berlebih secara langsung pada B = 0.3901 (95% CI [0.2190, 0.5612]), di atas efek totalnya 0.3397, yang oleh penulis dibaca sebagai supresi. Kalibrasi tidak dapat dibaca dari keyakinan seorang pembelajar.
 
 Kalibrasi adalah keadaan, bukan luaran, dan luaran yang disahkannya memiliki halaman tersendiri. [[automation-bias]] mendokumentasikan kesalahan spesifik berupa menerima penilaian otomatis tanpa memeriksanya: seorang guru yang menerima tanda dasbor apa adanya, atau seorang penilai yang menerima skor mesin atas naskah yang tidak ia baca ulang.
@@ -148,56 +149,3 @@ Kalibrasi adalah keadaan, bukan luaran, dan luaran yang disahkannya memiliki hal
 **"Memeriksa itu mudah, jadi siswa yang peduli akan melakukannya."** Memeriksa itu murah dan jarang dilakukan. Panel pelacakan pasif atas **900 orang dewasa AS** menunjukkan penekanan yang sama: pembaca yang diberi ringkasan yang dihasilkan AI mengikuti sumber yang dikutip di dalamnya hanya pada **1% kunjungan**, dan membuka tautan hasil apa pun setengah lebih sering daripada mereka yang tidak melihat ringkasan. Ringkasan menekan verifikasi alih-alih [[prompt-engineering|mendorongnya]], sehingga pemeriksaan harus dibangun ke dalam tugas alih-alih diasumsikan dari ketekunan.
 
 **"Penyajian dan substansi dapat dipisahkan oleh pembaca yang cermat."** Kefasihan itulah yang memperoleh kepercayaan yang tidak layak diperoleh, yang menjadi sebab kalibrasi adalah masalah desain dan bukan hanya keterampilan pembelajar. Sistem yang antarmukanya menandakan otoritas akan dipercaya pada tingkat itu terlepas dari instruksi yang bertentangan.
-
-## Konsep terkait
-
-- [[automation-bias]] — kesalahan penerimaan yang diizinkan oleh kepercayaan yang salah kalibrasi
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## Artikel terkait
-- [[children-verification-ai-suggestions-game-2026]] — Perilaku verifikasi anak dalam kolaborasi manusia-AI berbasis permainan
-- [[student-perspectives-ai-writing-grading-2026]] — Perspektif mahasiswa tentang penilaian menulis berbantuan AI yang transparan (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kalibrasi dibingkai ulang: menahan posisi sistem bersifat protektif, bukan korektif
-- [[du-yuan-epistemic-dependence-2026]] — Enam kriteria diagnostik yang memisahkan ketergantungan produktif dari dependensi yang merugikan (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Menangani Kepercayaan pada Sistem AI melalui Pendidikan: Perspektif Didaktis
-- [[pearls-epistemic-verification-2026]] — Kerangka PEARLS untuk agensi epistemik dan verifikasi keluaran AI (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — Utang literasi agentik: celah literasi AI struktural akibat agen otonom (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Kepercayaan dan Ketergantungan pada AI dalam Pendidikan
-- [[calibrating-trustworthiness-llm-education-2026]] — Mengkalibrasi Keterpercayaan: Merancang Bersama Metrik untuk LLM dalam Pendidikan
-- [[llm-fallacy-misattribution]] — Kekeliruan LLM dan Salah Atribusi Kompetensi
-- [[ai-partner-science-epistemic-vigilance]] — Kewaspadaan Epistemik sebagai Kunci Augmentasi yang Produktif
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Cacat tetapi Mudah Diingat: Resepsi Kritis Mahasiswa atas Analogi GenAI yang Dipersonalisasi Menurut Minat dalam Pendidikan Komputasi
-- [[trust-calibration-chatbots-design-problem-2026]] — Kalibrasi kepercayaan dibingkai ulang sebagai masalah desain: tipologi pengguna dua dimensi dan delapan proposisi desain (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeksi prompt dalam penilaian yang dimediasi AI: alat yang menekan dan menentang peringatannya sendiri (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Inferensi bergerbang kepercayaan dan penilaian yang terjelaskan sejak desain, dengan kepercayaan yang tidak diukur (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — penyaringan keyakinan atas nilai AI dan tingkat positif-palsunya
-- [[bounded-reliance-ai-writing-feedback-2026]] — Ketergantungan Terbatas: Perspektif Kredibilitas Sumber atas Keterlibatan Mahasiswa EFL dengan Umpan Balik Menulis yang Dihasilkan AI
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Kepercayaan pada sistem berkemampuan AI: definisi, pengukuran dan faktor desain di 33 studi empiris (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Dari diagnosis ke meta-diagnosis: guru mengevaluasi inferensi diagnostik yang dihasilkan AI (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt refleksi memangkas penerimaan saran AI yang salah (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Kalibrasi kepercayaan sebagai mediator dalam rantai dari dukungan kontekstual ke perolehan transfer yang dipersepsikan (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Kepercayaan sebagai poros dari literasi AI ke penggunaan berkelanjutan, dilemahkan kecemasan AI (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotasi peran sebagai struktur untuk menangani rekomendasi AI secara kritis (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh Mahasiswa dan Batas Kesulitan Soal yang Dihasilkan AI dalam Mata Kuliah Ilmu Data
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Instrumen untuk mahasiswa yang memvalidasi kepercayaan pada AI-EdTech sebagai empat faktor, dengan kepercayaan di hulu kegunaan yang dipersepsikan (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — Bagaimana Anak Merancang dan Bernalar tentang Chatbot AI yang Dapat Dipercaya
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Ketika saran AI sependapat atau tidak sependapat dengan penilaian manusia: kepercayaan, efikasi diri, ketangguhan psikologis, dan respons adaptif dalam pendidikan jasmani
-- [[kim-overtrust-ai-literacy-2026]] - kepercayaan berlebih berkorelasi dengan efikasi diri dan ekspektasi kinerja tetapi tidak dengan literasi AI pada 300 mahasiswa

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -126,36 +128,3 @@ Marekebisho haya yameandikwa kwa makusudi katika muundo wa [[refutation-text|maa
 - **"Dhana potofu za walimu zinaweza kurekebishwa kwa kuwasilisha ushahidi."** Katika jaribio la awali na **waelimishaji 123 wa Italia**, kutokubaliana kulijikita zaidi katika **mitindo ya kujifunza ya kiakili (78% ya walimu walitetea ulinganifu wa kuona/kusikia)**, ushirikishaji na kazi za kikundi (68%) na mzigo wa ziada wa EdTech (54%). Kutokubaliana kwa nguvu zaidi ndizo zilizopinga ushahidi zaidi, ambayo ndiyo sababu [[refutation-text|maandishi ya kukanusha]] hushinda madai.
 - **"Pingamizi za walimu dhidi ya ushahidi zote ni upinzani."** Vipengele vile vile vilipotolewa kupitia AI ya mazungumzo iliyothibitisha muktadha wa mwalimu kabla ya kuleta tena ushahidi, **41% ya pingamizi zilihusu vikwazo halisi vya muktadha**: ukubwa wa darasa, mahitaji mahususi, mahitaji ya mtaala. Sehemu kubwa ya dhana potofu inayoonekana ilikuwa pingamizi sahihi.
 - **"Dhana potofu zinaweza kugunduliwa kwa uaminifu kutoka mazungumzo."** **Kati ya sehemu 241 zilizochochewa, 221 (91.7%) zilithibitishwa kama dhana potofu za kimkakati kwa kura nyingi za wataalam (Fleiss' κ = 0.9487)**, bila **tofauti kubwa** kati ya makundi. Uaminifu wa juu unawezekana chini ya uamuzi wa wataalam, na hilo ndilo sharti ambalo dai hutegemea.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Mifuatano ya mabadiliko ya dhana inayokabiliana na imani maalum inayoshikiliwa
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Makala Zilizounganishwa
-- [[rudolph-ai-myths-critical-higher-ed]] — Usiamini uvumi: ngano nane za AI na hitaji la mbinu mahususi katika elimu ya juu
-- [[student-rationalization-ai-writing]] — Uhalalishaji wa Wanafunzi wa Uandishi wa AI
-- [[genai-skill-bypass-literacy]] — Kupita Ujuzi kwa GenAI na Ujuzi
-- [[trust-reliance-ai-education-2026]] — Uaminifu na Utegemezi katika Elimu ya AI
-- [[contextual-sycophancy-ai-literacy]] — Kubembeleza Kulingana na Miktadha na Ujuzi wa AI
-- [[sycophantic-ai-social-interaction-2026]] — AI Inayobembeleza katika Ushirikiano wa Kijamii
-- [[llm-fallacy-misattribution]] — Kutofautisha Uongo wa LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Yenye Upungufu Lakini Inayokumbukwa: Upokeaji Mahususi wa Wanafunzi wa Mifano ya GenAI ya Maslahi ya Kibinafsi katika Elimu ya Kompyuta
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: maelezo ya ufasaha na ya mamlaka ambayo ni ya kosa kwa dhana badala ya kwa ukweli (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Maagizo yaliyofichwa katika faili iliyowasilishwa yanaweza kupandisha alama ya AI bila onyo linaloonekana (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Dhana potofu za usalama wa AI za watoto: urafiki na roboti kusomwa vibaya kama uhakikisho wa faragha (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

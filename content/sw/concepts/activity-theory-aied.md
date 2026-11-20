@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,7 +50,6 @@ Nadharia ya shughuli inashuka kutoka saikolojia ya kihistoria-kitamaduni ya Vygo
 Sifa inayofafanua ni **mgongano**: mifumo ya shughuli ina misongo ya kimuundo inayokusanyika kihistoria (ndani ya elementi, kati ya elementi, au kati ya elementi/zana ya zamani na mpya iliyoletwa). Migongano si hitilafu za kuondolewa bali ni *nguvu inayoendesha maendeleo* — inapozidi, inawasukuma washiriki kuuliza maswali na kuepuka viwango vilivyowekwa, ikifungua njia ya mabadiliko ya kupanuka (Engeström, 2001).
 
 Nafasi ya zana ndiyo inayompa AI inayozalisha mkazo. Insha ya kijamii-kitamaduni ya 2026 inadai kwamba [[llm]] hupatanisha shughuli na pia huzalisha michango inayotegemea muktadha ambayo hubadilisha mwelekeo wake, hivyo kuiita zana kunapunguza ushawishi wake wakati kuiita mshirikishi kunaihusisha na nia, uwajibikisho na uanachama wa jamii ambao haina ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate na Ritchie, 2026]]). **Wakala wao wa kupatanishi** anakaa katika nafasi ya zana bila kuwa na nafasi katika jamii, ambayo inamaanisha mgawanyo wa kazi unapaswa kuchanganuliwa kuzunguka michango na si kuzunguka vyombo pekee.
-
 
 ### Kwa nini nadharia ya shughuli inamuhimu kwa AI katika elimu
 
@@ -88,28 +89,3 @@ Kwa wabuni na waelimishaji, nadharia ya shughuli inashauri kutazama zaidi ya zan
 **"Ukibadilisha imani za mwalimu, mazoezi yatafuata."** Kipimo cha mabadiliko ni kikubwa kuliko mtu. Uingiliaji unaobadilisha kanuni, mgawanyo wa mzigo wa kazi na kanuni za pamoja hubadilisha mazoezi kwa uhakika zaidi kuliko ule unaolenga imani ya mtu binafsi, kwa sababu kitu cha shughuli huzalishwa kwa pamoja. Hii pia inaeleza kwa nini wapitishaji wenye shauku ya mtu binafsi hurudi nyuma pale idara yao haisogei pamoja nao.
 
 **"Nadharia ya shughuli ni lenzi ya kuelezea isiyo na matokeo ya kubuni."** Inaelekeza ubuni kwenye migongano kati ya vipengele vya mfumo, yaani chombo kinachopingana na kanuni, mgawanyo wa kazi unaopingana na kitu, ambapo mabadiliko hufanywa kweli. Lenzi inayobaini migongano inakupa mahali pa kuingilia, si msamiati peke yake.
-
-## Dhana Zilizounganishwa
-
-- [[sociocultural-learning]] — familia ya kinadharia ambayo nadharia ya shughuli ni sehemu yake (ya Vygotskian, kihistoria-kitamaduni)
-- [[learning-theories]] — kitovu kinachoweka nadharia ya shughuli miongoni mwa nadharia za kujifunza
-- [[distributed-cognition]] — msisitizo wa pamoja kwenye utambuzi unaoongozwa na zana na uliosambazwa kwa muktadha
-- [[situated-learning]] — msisitizo wa pamoja kwenye muktadha na ushiriki katika shughuli
-- [[agency]] — jinsi AI inavyosambaza upya wakala wa binadamu katika mfumo wa shughuli
-- [[teacher-role]] — nadharia ya shughuli mara nyingi huchanganua kukubaliwa na mazoezi ya walimu
-- [[learning-analytics]] — CHAT inaanzisha ubunifu wa analytics
-- [[generative-ai]] — kitu cha AI kinachohatarisha na kusukosua mifumo ya shughuli ya kielimu
-- [[technology-acceptance-model]] — akaunti inayopingana ya kukubaliwa ya imani ya mtu binafsi
-
-## Makala Zilizounganishwa
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
-- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
-- [[llm-family-education-activity-theory-2026]] — Mapitio ya wigo ya masomo 53 ya HCI: LLM zilisambaza upya kazi ya elimu ya familia, wakati kanuni zilitarajiwa zaidi kuliko kutekelezwa
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI kama wakala wa kupatanishi: si zana wala mshirikishi

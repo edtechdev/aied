@@ -74,6 +74,11 @@ const allConcepts = await getCollection('concepts');
 const conceptTitles: Record<string, string> = Object.fromEntries(
   allConcepts.map((c) => [c.id.replace('.md', ''), c.data.title]),
 );
+// Connected Concepts: slugs in frontmatter (2026-11-19 migration from the body section).
+const conceptById = new Map(allConcepts.map(c => [c.id.replace('.md', ''), c]));
+const connectedConcepts = (faq.data.connected_concepts || [])
+  .map(s => conceptById.get(s))
+  .filter((c): c is NonNullable<typeof c> => Boolean(c));
 
 // Tag chips show the concept's own title ("Well-Being", not "well being");
 // de-slugify only as a fallback, and skip long titles to keep chips short.
@@ -122,6 +127,9 @@ const allTitles: Record<string, string> = {};
 
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedConcepts.length > 0) {
+  toc.push({ text: 'Connected Concepts', slug: 'connected-concepts', depth: 2 });
+}
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
@@ -155,6 +163,16 @@ if (connectedResources.length > 0) {
     <div style="line-height:1.8" data-pagefind-body data-pagefind-weight="2">
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-concepts"
+      heading="Connected Concepts"
+      items={connectedConcepts.map((c: any) => ({
+        href: `/aied/concepts/${c.id.replace('.md', '')}/`,
+        title: c.data.title,
+        kind: 'concept' as const,
+      }))}
+    />
 
     <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
 

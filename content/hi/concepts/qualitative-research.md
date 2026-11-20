@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -104,41 +106,3 @@ ai_assist:
 **"संतृप्ति प्रतिभागियों की संख्या का गुण है।"** वह विश्लेषण का गुण है: आप तब रुकते हैं जब नया डेटा नए कोड देना बंद कर दे। समान नमूना-आकार वाले दो अध्ययन संतृप्ति से समान रूप से दूर हो सकते हैं, इसीलिए जो रिपोर्ट पर्याप्तता के प्रमाण के रूप में प्रतिभागी-संख्या बताती है, उसने कवरेज के बारे में कुछ सिद्ध नहीं किया।
 
 **"मात्रात्मक और गुणात्मक निष्कर्ष प्रतिस्पर्धा करते हैं।"** वे अलग प्रश्नों के उत्तर देते हैं: सर्वेक्षण बताता है कि कितने छात्र किसी ट्यूटर पर भरोसा नहीं करते, और साक्षात्कार बताते हैं कि क्यों। उन्हें एक ही चीज़ के प्रतिद्वंद्वी विवरण मानना वही झूठा विकल्प पैदा करता है जिसे समीक्षा अनुभाग बार-बार दोहराते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI-सहायित शैक्षणिक अनुसंधान
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## संबंधित लेख
-
-- [[chain-behind-claim-warrantability-2026]] — AI-सहायित गुणात्मक विश्लेषण के लिए गारंटीयोग्यता मानक
-- [[liu-tool-tutor-crutch-programming-2026]] — उपकरण, शिक्षक, या टेक: AI-सहायित प्रोग्रामिंग का एक आधारित सिद्धांत
-- [[trio-ethnography-llm-programming-education]] — LLM-समर्थित प्रोग्रामिंग में व्याख्या विकास का एक त्रयी-नृविज्ञान
-- [[absent-cognitive-baseline-2026]] — AI-मूल छात्रों के स्व-मूल्यांकन में एक संरचनात्मक अंतराल का सैद्धांतिक रूप से निर्माण
-- [[t2i-competence-paradox-2026]] — टेक्स्ट-से-छवि GenAI उपयोग में क्षमता विरोधाभास
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — भौतिकी शिक्षा में भरोसा–उपयोगिता अंतर
-- [[genai-teacher-feedback-comparison]] — GenAI और शिक्षक प्रतिपुष्टि की तुलना: छात्र धारणाएँ
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI शिक्षक सुरक्षा और शैक्षणिक हानियाँ
-- [[zha-ai-literacy-biology-case-study]] — जीवविज्ञान कक्षा में AI-साक्षरता एकीकरण का केस अध्ययन
-- [[becker-chatgpt-typology-physics-2026]] — भौतिकी में ChatGPT अपनाने का एक गुणात्मक श्रेणीबद्धकरण
-- [[scaffolding-critical-engagement-genai-minority-students]] — नस्लीय अल्पसंख्यक छात्रों में प्रॉम्प्ट इंजीनियरिंग में सहयोगपूर्ण प्रवचन
-- [[human-vs-llm-ordered-coding]] — गुणात्मक आँकड़ों के मानव और LLM क्रमबद्ध कोडिंग की तुलना
-- [[agreement-not-quality-llm-coding-verification]] — LLM गुणात्मक कोडिंग में सहमति गुणवत्ता नहीं है
-- [[same-ai-different-pathways]] — संदर्भों में AI-मध्यस्थ सीखने के तंत्रों को खोलना
-- [[drummond-genai-business-schools-framework-2026]] — केस अध्ययन के माध्यम से छात्र-सूचित GenAI ढाँचा
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — महत्वपूर्ण AI शिक्षक: सशक्त बनाएँ या दास बनाएँ
-- [[genai-runaway-object-math-higher-ed]] — उच्च-शिक्षा गणित में भागी हुई वस्तु के रूप में GenAI
-- [[khlaif-assistive-genai-visually-impaired-2026]] — दृष्टिबाधित शिक्षार्थियों के लिए सहायक GenAI
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — GenAI-सहायित लेखन में EFL शिक्षार्थियों का भावनात्मक जुड़ाव: एक अनुदैर्ध्य बहु-केस अध्ययन

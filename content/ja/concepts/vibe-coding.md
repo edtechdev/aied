@@ -20,6 +20,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -96,31 +98,3 @@ Vibe codingは自然に[[prompt-engineering|プロンプトエンジニアリン
 **開発者と管理者のために**
 
 **「アプリが動けば、生成されたコードは問題ない。」** 動作するというだけでは不十分なテストである。Veracodeの2025年の分析では、AIが生成したコードのうち安全なものは55%にすぎないと判明しており、そのためvibe codingで作られた教室用ツールであっても、学習者のデータを扱う前や、保護に値する何らかのシステムに接続する前には、レビューの工程を挟む必要がある。挙動の評価は、ユーザーがたまたま実行した経路を確認するだけであり、実行されなかった経路については何も語らない。
-
-## 関連概念
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## 関連記事
-
-- [[vibe-coding-writing-cs-achievement-2026]] — コンピュータサイエンスの学業成績とライティング能力がバイブコーディングの習熟度を予測する(CHI 2026 実証研究)
-- [[gaide-vibe-coding-k12-teachers]] — バイブコーディングを通じてAI搭載の学習テクノロジーを制作するK-12教員のための指針となるフレームワーク
-- [[vibe-coding-programming-process-visualizer]] — 数日でアイデアから教室へ:IDEの操作ログから「バイブコーディング」を用いてプログラミングプロセス可視化ツールを制作する
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — バイブコーディングは2つの工学シミュレーションを数時間で構築したが、プロトコルの誤りの診断には依然として教員が必要だった
-- [[prompt-problems-nl-programming-mistakes]] — 自然言語プログラミング課題を解く際の学生の認識・誤り・デバッグ方略の理解
-- [[code-to-learn-genai-artifact-construction-2026]] — 生成AIによる「学ぶためのコーディング」:後期中等教育における成果物制作のための理論的に基礎づけられたフレームワーク
-- [[reshaping-cs-education-genai]] — 生成AI時代に向けた学部CS教育の再構築
-- [[flowcode-ai-creative-coding]] — Flowcode:クリエイティブ・コンピューティング教育における反復をスキャフォールディングするAI搭載プログラミング環境
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AIイントラプレナーシップ:教員が自らツールを構築すること、そしてその意欲が生き残るかどうかを決める組織的な促進要因(Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — ツールは一つ、好みも一つ?バイブコーディングはいかにして集団の多様性を個人の創造性と引き換えるのか
-- [[ho-invariant-core-faculty-development-2027]] — 評価戦略としての教員自作ツール:人員の配置では賄えないプロセスの証拠(Ho 2026)

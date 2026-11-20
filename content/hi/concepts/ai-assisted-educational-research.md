@@ -26,7 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -207,48 +208,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - **"एलएलएम और सॉफ़्टवेयर पेपरों का मूल्यांकन समान रूप से अच्छा होता है।"** 2023 से, **38.0% सॉफ़्टवेयर और उत्पाद पेपरों ने कोई मूल्यांकन रिपोर्ट ही नहीं किया, जबकि एलएलएम पेपरों में यह दर 9.3% थी**। अंतर बड़ा है और यह इस मान्यता के विरुद्ध जाता है कि नए उपकरणों का परीक्षण कम कठोरता से होता है।
 - **"कार्य के आधार पर स्तरीकरण अंतर को ठीक कर देता है।"** **यह अंतर स्तरीकरण के बाद भी बना रहता है**: स्क्रीनिंग और चयन में सॉफ़्टवेयर पेपरों में औसतन **3.2 सार्थक मूल्यांकन वस्तुएँ थीं और 39.3% ने कोई भी नहीं रिपोर्ट किया**, जबकि एलएलएम पेपरों में औसत अधिक था। यह अंतर कार्य का नहीं, पेपर-वर्ग का व्यवस्थागत गुण है।
 - **"सकारात्मक मूल्यांकन का अर्थ है कि कार्यप्रवाह अपनी अपेक्षित सीमा तक पहुँच गया।"** **केवल सकारात्मक मूल्यांकन वाले 118 एलएलएम पेपरों में से 52% ने फिर भी कम से कम एक चिंता रिपोर्ट की कि कार्यप्रवाह अपनी भूमिका के लिए आवश्यक स्तर से नीचे रहा**। आधे सकारात्मक मूल्यांकन अपना ही खंडन समेटे हुए थे।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]] — शिक्षा में एआई का अध्ययन करने हेतु प्रयुक्त अभिकल्पनाओं का छत्र
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## संबंधित लेख
-
-- [[ai-methodologies-science-education-research-2026]] — एक सात-चरणीय चिंतनात्मक ढाँचा कि एआई पद्धतियाँ विज्ञान शिक्षा अनुसंधान को कैसे बदल सकती हैं (Martin एट अल., 2026)
-- [[scaffolding-systematic-reviews-2026]] — परामर्शदान और चयनात्मक एआई एकीकरण की एक अंतर्विषयक समीक्षा टीम का विवरण (Wang एट अल., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28 स्नातकोत्तर छात्रों ने अनुसंधान कार्यप्रवाह में जेएनएआई का कैसे उपयोग किया, और वे कौन-से दिशानिर्देश सुझाते हैं (Dai और Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — कंप्यूटिंग-शिक्षा साहित्य में गढ़े संदर्भों का क्षेत्र-स्तरीय ऑडिट (Denny एट अल., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — एआई-सहायक व्यवस्थित समीक्षाओं हेतु एक रिपोर्टिंग ढाँचा, और उसकी दर्ज की गई उत्तरदायित्व खाली जगह (Zabaleta और Lin, 2026)
-- [[genai-academic-search-workshop]] — जनरेटिव एआई और अकादमिक खोज पर CHIIR 2026 कार्यशाला रिपोर्ट (Liu, Arguello, Hoeber एट अल., 2026)
-- [[persistent-ai-agents-academic-research]] — एक शोध कार्यक्षेत्र में स्थायी एजेंट का एकल-शोधकर्ता केस अध्ययन (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — बिब्लियोमेट्रिक प्रमाण कि एआई-सहायक लेखन छोटी, युवा शोध टीमों के साथ चलता है (Wang एट अल., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — एक 30-दिवसीय बेंचमार्क जो ट्यूटर एजेंटों का सिम्युलेटेड शिक्षार्थी के विरुद्ध मूल्यांकन करता है (Lee एट अल., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — एक न्यूरो-सिंबोलिक सिम्युलेटर जो असली नौसिखिए संघर्ष को पुनरुत्पादित करता है (Wang एट अल., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — सिम्युलेटर किसी भी प्रतिपुष्टि में भ्रांति को क्यों छोड़ देते हैं, और प्रशिक्षण इसे कैसे ठीक करता है (Do, Sonkar और Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — एक पूर्व-पंजीकृत ऑडिट जो यह परखने के लिए एक निश्चित सिम्युलेटेड शिक्षार्थी का उपयोग करता है कि उपयोगिता शिक्षाशास्त्र को मापती है या नहीं (Fan एट अल., 2026)
-

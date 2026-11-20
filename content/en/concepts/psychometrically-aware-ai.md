@@ -7,6 +7,8 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 > **Psychometrically aware AI** — AI assessment systems aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp|Zhou et al. (2026)]], [[llm-item-difficulty-prediction|Wang et al. (2026)]], [[automated-assessment|Confidence Aware AI Assessment]], and [[item-response-theory|item response theory]]: calibrated, uncertainty-aware AI assessment preserves reliability and validity rather than substituting raw model confidence for psychometric evidence.
@@ -48,29 +50,3 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement|
 - **"A model that scores well is measuring the same thing."** On **the same assessment instrument**, human and LLM response structures **diverge** — a model can score well while measuring something different from what the instrument intends. Matching scores is the observation; construct equivalence is a separate claim that requires structure-level evidence.
 - **"Calibration can be read off a single accuracy figure."** **A single accuracy figure can hide a model that only looks calibrated**: asking GPT-4o and Gemini 2.0 Flash to infer learning-style dimensions from **153 undergraduates'** dialogues produced **moderate accuracy that performed differently under balanced metrics**. Aggregate accuracy hid a differential that balanced metrics exposed.
 - **"Automated scoring pipelines cannot reproduce psychometric procedure."** The authors reproduced an established pipeline in automated form (**a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper**), letting AI and human item scores be compared on the same footing. The procedure was reproducible; the construct question remains.
-
-## Connected Concepts
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Connected Articles
-- [[genai-reliance-scale-problem-solving-2026]] — A validated scale for students’ reliance on generative AI during problem solving (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate accuracy was majority-class prediction once per-class recall was checked (Zamanifard, Goudarzi & Robb 2026)

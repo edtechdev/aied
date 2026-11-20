@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -41,7 +42,3 @@ Det riktar sig till enskilda lärare och studenter, som kan använda det utan in
 ## Anteckningar och förbehåll
 
 Gratis täcker de individuella klassrumsarbetsflödena; institutionell prissättning finns separat och hänger på driftsättningens omfattning, datahantering, stöd och efterlevnad snarare än på en avgift per student eller lärare. Eftersom en rapport visar en process och inte en avsikt är kopiera-klistra i sig inte ett tjänstefel – projektets egen vägledning säger att en student kan klistra in sin egen tidigare text, och att studenter inte bör bestraffas enbart för att de klistrar in. Användningssiffrorna och betyget 5,0 i Chrome Web Store är projektets egen marknadsföring; recensioner i en tilläggsbutik är inte oberoende evidens för läranderesultat. Läs rapporterna som underlag för ett samtal, vilket är så verktyget är designat och så utvecklaren beskriver det.
-
-## Anslutna begrepp
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

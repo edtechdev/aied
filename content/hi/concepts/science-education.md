@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -79,40 +81,3 @@ GenAI और प्रेरणा के 42 अध्ययनों के म
 - **"विज्ञान शिक्षा में AI का कोई कारणात्मक साक्ष्य नहीं है।"** GCSE विज्ञान में एक AI पुनरीक्षण मंच के **चार सप्ताह के यादृच्छिक मूल्यांकन** से **Hedges' g = 0.33** का कारणात्मक अनुमान मिलता है, और **इस बात का कोई साक्ष्य नहीं कि प्रभाव विषय के अनुसार भिन्न था**। प्रभाव मामूली है और वह कारणात्मक है।
 - **"छात्रों को पहुँच दे दो, लाभ अपने आप आ जाएगा।"** **लाभ पहुँच से नहीं, संरचित पहुँच से आता है**: टीम-रिपोर्टेड वृद्धि असीमित व्यक्तिगत पहुँच में औसतन **17% थी, पर जब पहुँच संरचित थी तो 34% और 31%**। संरचना ही हस्तक्षेप थी।
 - **"वैज्ञानिक सिम्युलेशन के लिए विशेष सॉफ़्टवेयर चाहिए।"** एक **चार-तत्व प्राकृतिक-भाषा प्रॉम्प्ट** **हाथ से नियंत्रित संवर्धित-वास्तविकता भौतिकी सिम्युलेशन** उत्पन्न कर सकता है। सिम्युलेशन बनाने की बाधा प्रॉम्प्ट डिज़ाइन तक उतर आई, जिससे आवश्यक कौशल प्रोग्रामिंग से परिघटना को निर्दिष्ट करने की ओर खिसक जाता है।
-
-## संबंधित अवधारणाएँ
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## संबंधित लेख
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — पाठ्यक्रम, अनुदेशन और आकलन में सुसंगति के रूप में विज्ञान साक्षरता पर ढाँचा अध्याय (Zhai एट अल. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — विज्ञान शिक्षा शोध को किस प्रकार बदल सकती हैं, इस पर चिंतन के लिए सात-चरणीय ज्ञानात्मक-पुनरावृत्ति ढाँचा (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — विज्ञान और रसायन शिक्षा में एआई की व्यवस्थित समीक्षा
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM में खोज-आधारित शिक्षण के लिए ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — प्रकाश-संश्लेषण और श्वसन में एआई-समर्थित निर्देशित खोज
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — ताप और तापमान के लिए संकल्पनात्मक परिवर्तन पाठ बनाम एआई संवाद
-- [[ai-grading-handwritten-physics-2026]] — हस्तलिखित भौतिकी मूल्यांकनों का बड़े पैमाने पर एआई ग्रेडिंग
-- [[avraamidou-ai-colonization-science-education]] — विज्ञान शिक्षा के एआई उपनिवेशवाद पर समालोचनात्मक टिप्पणी
-- [[pre-service-science-teachers-ai-perceptions-2026]] — पूर्व-सेवा विज्ञान शिक्षकों की एआई धारणाएँ और स्वीकृति
-- [[ai-assisted-inquiry-ssi-climate]] — जलवायु परिवर्तन पर सामाजिक-वैज्ञानिक मुद्दों में एआई-सहायित खोज
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — विश्वविद्यालय भौतिकी AI समीक्षा में संरचित टीम पहुँच ने असीमित व्यक्तिगत पहुँच से बेहतर प्रदर्शन किया
-- [[genai-learning-motivation-meta-analysis-2026]] — एकमात्र क्षेत्र जिसका प्रेरणात्मक अंतराल शून्य को पार करता है (g = 0.109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — सामान्य एआई सहजता GeoAI तत्परता तक नहीं पहुँची
-

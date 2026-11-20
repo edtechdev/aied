@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -42,10 +43,3 @@ Ledere i ledergruppen, prorektorer og IT-direktører som avgjør hva som skal st
 ## Merknader og forbehold
 
 Rammeverket og nettstedet er lisensiert **CC BY-NC-SA 4.0**, så tilpasning er tillatt for ikke-kommersiell bruk med navngivelse og del-på-samme-vilkår; nettstedet oppgir sin egen forslag til navngivelse. Samsvaret med OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA og HIPAA er utgiverens egen sammenligning og bør leses som det. Søstersidene er separate prosjekter, flere av samme forfatter, og er verdt å kjenne som et sett: [Campus AI Exchange](https://www.campusaiexchange.com/) er knutepunktet, med [interaktive kart](https://www.campusaiexchange.com/ai-policies-guidelines-map) over institusjonelle AI-policyer og klasseromsveiledning, [egen vurdering av AI-styring](https://www.campusaiexchange.com/ai-governance-assessment), kart over datastyring og AI-standpunkter, og et ressursbibliotek. Rundt det ligger [campusaigovernance.com](https://campusaigovernance.com/) (ni domener for AI-styring), [campusairisks.com](https://campusairisks.com/) (NIST AI Risk Management Framework anvendt på disse domenene), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), en [mal for AI-innføringsplan](https://unit-ai-adoption-plan.netlify.app/) på enhetsnivå og en orientering om [agentisk AI for ledere](https://campusaiframework.com/sites). Det strategiske kompasset sirkulerer også som et delt Google-dokument, som krever en Google-konto for å åpnes. Et kort, valgfritt onboarding-spørsmål om rolle og institusjon dukker opp ved inngangen; e-post er valgfritt, og hele nettstedet kan leses uten.
-
-## Tilknyttede begreper
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

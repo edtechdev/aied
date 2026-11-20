@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,7 +50,6 @@ Etkinlik kuramı, Vygotsky ve Leontiev’in kültür-tarih psikolojisinden gelir
 Belirleyici bir özellik **çelişkidir**: etkinlik sistemleri tarihsel olarak biriken yapısal gerilimler içerir (bir öğenin içinde, öğeler arasında ya da eski ile yeni tanıtılan bir öğe/araç arasında). Çelişkiler ortadan kaldırılacak hatalar değil *gelişmenin itici gücüdür* — aşırılaştığında katılımcıları yerleşik normları sorgulamaya ve onlardan sapmaya iterek genişleyici dönüşümün yolunu açar (Engeström, 2001).
 
 **Araçlar yuvası, üretken YZ’nin zorladığı yuvadır.** 2026 tarihli sosyokültürel bir deneme, bir [[llm|LLM]]’in hem etkinliğe aracılık ettiğini hem de onun yörüngesini yeniden şekillendiren koşullu katkılar ürettiğini savunur; dolayısıyla ona araç demek etkisini hafife almak, ona işbirlikçi demek ise sahip olmadığı amaçlılık, hesap verebilirlik ve topluluk üyeliği atfetmek olur ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate ve Ritchie, 2026]]). Onların *aracı etmen* kavramı araç konumunda durur ama toplulukta bir konum tutmaz; bu da iş bölümünün yalnızca araçlar çevresinde değil katkılar çevresinde de analiz edilmesi gerektiği anlamına gelir.
-
 
 ### Etkinlik kuramı eğitimde YZ için neden önemlidir
 
@@ -88,30 +89,3 @@ Tasarımcılar ve eğitimciler için etkinlik kuramı, YZ aracının kendisinin 
 **“Öğretmenin inançlarını değiştirirseniz uygulama izler.”** Değişimin birimi kişiden büyüktür. Normları, iş yükü dağılımını ve paylaşılan kuralları değiştiren müdahaleler, bireysel kanaate yönelenlerden daha güvenilir biçimde uygulamayı değiştirir; çünkü etkinliğin nesnesi kolektif olarak üretilir. Bu, bireysel olarak hevesli benimseyicilerin bölümleri onlarla hareket etmediğinde neden geri döndüklerini de açıklar.
 
 **“Etkinlik kuramı, tasarım sonucu olmayan betimleyici bir mercektir.”** Tasarımı sistemin öğeleri arasındaki çelişkilere yöneltir: kurallarla çatışan araç, nesneyle çatışan iş bölümü. Değişim fiilen oradan kaldıraçlanır. Çelişkileri yerleştiren bir mercek size yalnızca bir sözlük değil, müdahale edilecek bir yer verir.
-
-## Bağlı kavramlar
-
-- [[sociocultural-learning]] — etkinlik kuramının ait olduğu kuramsal aile (Vygotskyan, kültür-tarihsel)
-- [[learning-theories]] — etkinlik kuramını öğrenme kuramları arasında konumlandıran merkez
-- [[distributed-cognition]] — araca aracılı, bağlamca dağıtık bilişe verilen ortak önem
-- [[situated-learning]] — bağlam ve etkinlikte katılıma verilen ortak önem
-- [[agency]] — YZ’nin insan etkenliğini etkinlik sistemi üzerinde nasıl yeniden dağıttığı
-- [[teacher-role]] — etkinlik kuramı sıklıkla öğretmenlerin benimsemesini ve uygulamasını analiz eder
-- [[learning-analytics]] — CHAT analitik tasarımını çıpalar
-- [[generative-ai]] — eğitim etkinlik sistemlerine giren ve bozan YZ yapıtı
-- [[technology-acceptance-model]] — benimsemenin karşıt bireysel inanç temelli açıklaması
-
-## Bağlı makaleler
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — Etkinlik kuramı merceğinden GenAI kullanımı ve beyanında disiplinsel farklar
-- [[genai-runaway-object-math-higher-ed]] — Öğretme ve araştırma etkinlik sistemlerini yeniden şekillendiren GenAI’nin CHAT analizi
-- [[raffaghelli-situated-ai-ethics-2026]] — Ekolojik sistem kuramı ile CHAT’i birleştiren yerleşik YZ etiği
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Öğretmenlerin YZ benimsemesi üzerine bir mercek olarak etkinlik kuramı (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Etkinlik kuramı yoluyla YZ kullanımına ilişkin K-12 öğretmenleri görüşleri
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT yoluyla mühendislik eğitiminde değişen öğrenci normları
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Öğretmen mesleki gelişiminin CHAT-ÖBK yeniden tasarımı
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — YZ okuryazarlığı için CHAT çıpalı öğrenme analitiği hattı
-
-- [[llm-family-education-activity-theory-2026]] — 53 HCI çalışmasının kapsam derlemesi: LLM’ler ailelerin eğitim emeğini yeniden dağıttı, kurallar ise çoğunlukla yürürlüğe konmak yerine öngörüldü
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Bir aracı etmen olarak GenAI: ne araç ne işbirlikçi
-

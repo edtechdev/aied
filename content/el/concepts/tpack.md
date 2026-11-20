@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -99,49 +101,3 @@ pedagogy: [tpack]
 - **«Η κυριαρχία του TPACK αντανακλά την ερμηνευτική του ισχύ.»** Αυτή η κυριαρχία είναι **εν μέρει παραπροϊόν ανάκτησης**: σε μια ανασκόπηση σκοπού PRISMA **195 μελετών εκπαίδευσης εκπαιδευτικών με υποστήριξη τεχνολογίας**, η ψηφιακή ικανότητα, το TPACK και το DigComp **κυριαρχούν στην ευρετηριασμένη βιβλιογραφία**. Η συχνότητα σε μια αναζήτηση είναι ιδιότητα του λεξιλογίου που χρησιμοποιεί το πεδίο, όχι απόδειξη ότι το πλαίσιο εξηγεί περισσότερα.
 - **«Ένα γνωστό πλαίσιο είναι επικυρωμένο για την ΤΝ.»** Το TPACK δεν σχεδιάστηκε για ικανότητες ειδικές για την ΤΝ, γι' αυτό αναπτύχθηκε το Intelligent-TPACK — και εμφανίζεται σε μόλις **πέντε μελέτες** στην ανασκόπηση των 78 μελετών. Η χρήση του TPACK για την επάρκεια σε GenAI το τεντώνει πέρα από την κατασκευή του.
 - **«Η εφαρμογή ενός πλαισίου σημαίνει ότι η έρευνα είναι θεωρητικά εδραιωμένη.»** Η ίδια ανασκόπηση βρήκε ότι το **76% των μελετών συνήγαγε ικανότητες από την πρακτική χωρίς καμία θεωρητική αντιστοίχιση**, επομένως η παρουσία του TPACK στο πεδίο συνυπάρχει με το ότι η περισσότερη έρευνα είναι αθεωρητικοποίητη. Ένα ονομασμένο πλαίσιο δεν είναι το ίδιο με ένα πλαίσιο που κάνει δουλειά.
-
-## Συνδεδεμένες Έννοιες
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Συνδεδεμένα Άρθρα
-- [[ai-literacy-tpack-preservice-2026]] — Αντιλαμβανόμενη επάρκεια σε ΤΝ και TPACK στην εκπαίδευση μελλοντικών εκπαιδευτικών: διαμεσολάβηση μέσω χρησιμότητας, ευκολίας χρήσης και αξίας (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Σύστημα δεικτών αξιολόγησης για προγράμματα πιστοποιητικών ΤΝ
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Δια-επίπεδη μελέτη: «πρώτα η παιδαγωγική, μετά η τεχνολογία» — το TPAIK υπερτερεί του τεχνικού TAIK για τα αποτελέσματα των μαθητών (Shen και συν. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — Το TPACK-GenAI των εν ενεργεία εκπαιδευτικών και ο διαμεσολαβητικός ρόλος της παιδαγωγικής γνώσης (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Πρότυπα για το διδακτικό προσωπικό σχετικά με την ενσωμάτωση τεχνολογίας (DBR σχετιζόμενη με TPACK)
-- [[edurev-100741-tpack-genai-review]] — Ενσωμάτωση της γενετικής ΤΝ στη μάθηση των μαθητών: μια συστηματική ανασκόπηση από την οπτική του TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Μοντελοποίηση του AI-TPACK μέσω ροών εργασίας πολλαπλών πρακτόρων εκπαιδευτικών
-- [[ai-tpack-preservice-math-teachers]] — Ετοιμότητα AI-TPACK μεταξύ μελλοντικών εκπαιδευτικών μαθηματικών
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Αλληλεπίδραση εκπαιδευτικού-ΤΝ στον σχεδιασμό μαθήματος: Intelligent-TPACK, εμπειρία και ευχέρεια (Choi και συν. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Εντατική επαγγελματική ανάπτυξη GenAI και κέρδη AI-PCK
-- [[teacher-ai-teaming-five-levels]] — Πλαίσιο συνεργασίας εκπαιδευτικού-ΤΝ πέντε επιπέδων
-- [[teacher-ai-adoption-confidence]] — Η αυτοπεποίθηση των εκπαιδευτικών και η υιοθέτηση της ΤΝ
-- [[teacher-education-ai-literacy-sdt-2026]] — Εκπαίδευση εκπαιδευτικών για την επάρκεια σε ΤΝ μέσω της θεωρίας αυτοπροσδιορισμού
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Εκπαίδευση στην επάρκεια σε GenAI με έρευνα βασισμένη στον σχεδιασμό
-- [[rail-ed-genai-literacy-teacher-education]] — Αναστοχασμός για την επάρκεια σε GenAI στην εκπαίδευση εκπαιδευτικών
-- [[sec-ai-literacy-narrative-review-2026]] — Κοινωνικο-συναισθηματικές ικανότητες και επάρκεια σε ΤΝ
-- [[genai-runaway-object-math-higher-ed]] — Η GenAI και τα μαθηματικά στην τριτοβάθμια εκπαίδευση
-- [[ai-changing-teaching-workflows]] — Πώς η ΤΝ αλλάζει τις ροές εργασίας της διδασκαλίας
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Αυτοαντιλαμβανόμενη γνώση TPACK-21 του διδακτικού προσωπικού για τη GenAI στην τριτοβάθμια εκπαίδευση (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Προς ένα νέο πλαίσιο AI-TPACK: η ηθική ως ολοκληρωτικός μεσολαβητής της τεχνικής γνώσης ΤΝ (Chen και συν. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Συγκριτική έρευνα 186 νοτιοαφρικανών μελλοντικών εκπαιδευτικών φυσικών επιστημών: πλεονέκτημα της φυσικής παρουσίας στο αυτοαναφερόμενο TPACK, και εκπαίδευση σε ΤΝ που συνδέεται με ασθενέστερο αναφερόμενο TPACK στο ίδρυμα εξ αποστάσεως
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — Το AI-TPACK και η αυτοαποτελεσματικότητα στη διδασκαλία φυσικών επιστημών μεσολαβούν σειριακά την επίδραση της επάρκειας σε ΤΝ στην πρόθεση ενσωμάτωσης της διερεύνησης (Zou και συν. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Επαγγελματική ανάπτυξη Intelligent-TPACK για πανεπιστημιακούς εκπαιδευτικούς: κέρδη ανά διάσταση, η συμμετοχή υπερτερεί της αυτοαντιλαμβανόμενης ενασχόλησης — ενότητα CTD-PBL με υποστήριξη ΤΝ και TPACK και συνεργατική επίλυση προβλημάτων μελλοντικών εκπαιδευτικών φυσικής (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Αξιολόγηση της συνεργασίας ανθρώπου-ΤΝ στη σχεδιαστική εκπαίδευση: μια διαδικαστική ρουμπρίκα εδραιωμένη σε ένα επεκταμένο πλαίσιο AI-TPACK
-- [[capability-decision-model-teacher-readiness-2026]] — Διατεταγμένο μοντέλο ετοιμότητας εκπαιδευτικών με προτεραιότητα στην ικανότητα και η προειδοποίηση επικάλυψης κατασκευασμάτων
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Προειδοποίηση ανασκόπησης σκοπού ότι η κυριαρχία των πλαισίων ικανοτήτων αντανακλά εν μέρει τους όρους αναζήτησης και όχι την επικράτηση στο πεδίο
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Ο ρόλος του ολοκληρωμένου TPACK στην ενδυνάμωση των μελλοντικών εκπαιδευτικών και στη διαμόρφωση των στάσεών τους απέναντι στη γενετική ΤΝ στη διδασκαλία

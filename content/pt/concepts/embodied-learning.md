@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -48,7 +50,6 @@ A aprendizagem incorporada está intimamente relacionada ao [[active-learning|ap
 
 - **Um facilitador apenas de linguagem puxa a investigação para o que pode ser dito.** Em um laboratório de hidrostática de mestrado, os estudantes construíram o modelo de empuxo à mão antes de um facilitador baseado em Gemini se juntar para aplicá-lo a um novo fenômeno. Ao longo de três duplas, a IA sustentou a sequência ISLE, mas, pressionada a "apenas nos diga", produziu valores de massa que ninguém havia medido, e um participante remoto completou um ciclo fisicamente correto que era limpo, mas desincorporado ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino e Damiani, 2026]]). A lição de desenho é a sequência, e não a substituição: construir o modelo no corpo primeiro, e só então deixar o modelo de linguagem trabalhar na aplicação dele.
 
-
 ## Inteligência incorporada e a crítica da IA desincorporada
 
 Uma segunda vertente, mais teórica, da pesquisa em incorporação da base de conhecimento diz respeito ao papel do *corpo* na aprendizagem [[sociocultural-learning|mediada]] por IA — não por meio de robôs físicos, mas por meio da questão de saber se os próprios [[ai-technologies|sistemas de IA]] são (ou podem ser) incorporados. Esse trabalho desafia o domínio de modelos simbólicos e desincorporados de IA construídos sobre processamento abstrato de informação:
@@ -64,42 +65,8 @@ A aprendizagem incorporada se conecta à [[educational-robotics|robótica educac
 
 - **A literatura mais corporal é a que menos mede o corpo.** De 32 etiquetas de desfecho, os desfechos cognitivos ficaram com 43,8%, os afetivos com 34,4% e os psicomotores com 21,9%, uma ordenação que se manteve entre os 16 artigos mais bem avaliados (24,0% de 25 etiquetas). Os autores culpam a dificuldade de selecionar medidas psicomotoras e o hábito de priorizar ganhos cognitivos, e não um efeito fraco sobre a habilidade corporal. Nenhum dos sistemas revisados foi desenhado para aprendizes agindo em conjunto; a colaboração que aparece é a cooperação entre [[teacher-role|professor]] e IA ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
 
-
 ## Ideias equivocadas comuns
 
 - **"O corpo é o que faz a aprendizagem incorporada funcionar."** Uma meta-análise de **11 estudos de RALL (N = 595, g = 0,83, I² = 84,4%)** constatou que **morfologia do robô, modalidade, autonomia e papel social não moderaram** os resultados de [[language-learning|aprendizagem de segunda língua]]. Os recursos de incorporação não eram o ingrediente ativo, e a heterogeneidade era alta o bastante (I² = 84,4%) para que o efeito agrupado descreva um conjunto muito misto de intervenções.
 - **"Um efeito grande resolve o mecanismo."** g = 0,83 com 595 participantes em 11 estudos é um sinal real, e ele não identifica o que o produziu. Como os recursos de desenho não moderaram o efeito, o mecanismo plausível está na atividade pedagógica, e não no hardware — o que muda em que investir.
 - **"A incorporação não pode ser medida, então permanece teórica."** O rastreamento corporal pode transformar a regulação em um **sinal mensurável**: em uma simulação de fotossíntese em realidade mista, na qual etiquetas de movimento deslocavam agentes-estudante por um modelo projetado, um pipeline de LLM rotulou **470 segmentos** de comportamento de regulação. O construto é operacionalizável mesmo onde é difícil de definir.
-
-## Conceitos conectados
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — a modalidade que tenta explorar a incorporação diretamente
-
-## Artigos conectados
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulação de fotossíntese com rastreamento de movimento analisada por um pipeline de LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Um framework multimodal para a cognição incorporada em explicações orais
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Promovendo a aprendizagem sustentável via inteligência incorporada (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper e língua de sinais
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integração robô–LLM na escrita criativa
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-análise da aprendizagem de línguas assistida por robôs incorporados e aprimorada por IA
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — A IA como facilitadora depois de modelos construídos à mão: uma IA baseada em linguagem não consegue acompanhar a investigação incorporada (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — A IA na aprendizagem incorporada sobretudo observa: papéis de sensoriamento em 62,5% das etiquetas de papel codificadas, e nenhum sistema revisado fundiu fluxos multimodais enquanto os aprendizes o usavam (Kim & Han 2026)

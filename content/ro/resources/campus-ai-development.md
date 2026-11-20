@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,9 +43,3 @@ IT central și de cercetare care furnizează platforme și revizuire; birouri de
 ## Note și precauții
 
 Se autodenumește un proiect personal independent, nu politică instituțională sau consultanță juridică; instituțiile numite apar pentru că au publicat relatări despre practica lor, nu ca aprobare, iar cazurile de discuție sunt compozite. Exemplele sale juridice sunt americane (FERPA, ADA Title II, GLBA) și datate acolo unde apar, deși susține că ruta, întrebările, nivelurile de date și abordările nu depind de ele. Pagina sa de dovezi leagă fiecare studiu, așezând câștigurile pe o sarcină delimitată lângă încetiniri pentru întreținătorii experimentați pe propriul cod, și recunoaște că datele din studii acoperă sugestia de cod, nu munca dirijată de specificații sau pe mai mulți agenți, așa că argumentul pentru mai multă structură se sprijină pe practică și pe logica conformării. Nu este declarată nicio licență de reutilizare. Site-urile înrudite [campusdatagov.com](https://campusdatagov.com/) și [campusairegistry.com](https://campusairegistry.com/) acoperă partea de guvernanță a datelor și registrul de agenți, așa că acesta este o bună intrare în munca de [[educational-policy-ai|politică educațională privind IA]], dar nu un substitut pentru ea.
-
-## Concepte conexe
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

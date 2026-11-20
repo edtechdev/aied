@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -75,23 +77,3 @@ foundations: [misconceptions]
 **"सही संकल्पना के बारे में अधिक जानकारी प्रतिरोध को ठीक कर देती है।"** सही जानकारी की मात्रा वही हस्तक्षेप है जो पहले से विफल होता है। संकल्पनात्मक परिवर्तन के लिए शिक्षार्थी के मौजूदा मॉडल को स्पष्ट किया जाना और अपर्याप्त पाया जाना चाहिए, जो साक्ष्य जोड़ने से भिन्न निर्देशात्मक कदम है।
 
 **"भ्रांतियों और साधारण अज्ञान का एक ही उपचार है।"** उनके उपचार अलग हैं: अज्ञान का समाधान ज्ञान देना है, और भ्रांति को पहले हटाना पड़ता है। दूसरे को पहले की तरह देखना ही कारण है कि अच्छी तरह समझाया गया पाठ भी छात्र के मूल मॉडल को अक्षुण्ण छोड़ सकता है।
-
-## संबंधित अवधारणाएँ
-- [[pedagogical-patterns]] — खंडन अनुक्रम, जिसमें दो सीधे विरोधाभासी परिणाम शामिल हैं
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## संबंधित लेख
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — विश्वास-संशोधन के लिए व्यक्तिगत एआई संवाद बनाम पाठ्यपुस्तक खंडन
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — विशेषज्ञ/एआई संकल्पनात्मक परिवर्तन पाठ बनाम इंटरैक्टिव एआई संवाद
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — सहयोगी सीखने के लिए एलएलएम-जनित गलतधारणाएँ
-- [[chatgpt-inoculation-training-verification-2026]] — संबंधित खंडन-शैली हस्तक्षेप के रूप में इनोकुलेशन प्रशिक्षण
-- [[critical-genai-use-predictors]] — संकल्पनात्मक गलतधारणाओं को लक्षित करने के लिए खंडन पाठों की सिफ़ारिश
-- [[ai-learning-companions-framework]] — एआई साथी और गलतधारणा संशोधन

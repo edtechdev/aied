@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -40,9 +41,3 @@ Decydenci polityczni i zespoły zamówień publicznych wybierające modele dla s
 ## Uwagi i zastrzeżenia
 
 Ranking mierzy modele na zadaniach samego benchmarku: wysoki wynik pedagogiczny jest dowodem dotyczącym tych zadań, a nie klasy szkolnej. Kolumna ceny łączy ceny tokenów wejściowych i wyjściowych w proporcji 3:1, co jest wyborem modelowym, a nie kosztem konkretnego wdrożenia. Pokrycie języków i modeli hostowanych lokalnie zmienia się wraz z pojawianiem się nowych modeli, a niskie wyniki małych modeli częściowo odzwierciedlają format zadania w równym stopniu co możliwości. Fab AI wyraźnie kieruje swoje przesłanie do krajów o niskich i średnich dochodach, więc zestaw zadań benchmarku odzwierciedla ten kontekst i nie należy go czytać jako ogólnego rankingu edukacji. Sprawdź daty wydań: kilka pozycji pochodzi sprzed obecnej generacji modeli.
-
-## Powiązane pojęcia
-
-- [[benchmark]] — szersza klasa instrumentów, do której należy ten zasób
-- [[digital-divide]] — ograniczenie, które kolumny ceny i otwartych wag mają uwidocznić
-- [[equity-in-ai-education]] — pytanie polityki publicznej, które ranking naświetla

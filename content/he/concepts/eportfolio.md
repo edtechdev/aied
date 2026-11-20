@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -80,29 +82,3 @@ ai_assist:
 **לחוקרים**
 
 - תכננו לבידוד מרכיבים כשלומדים חבילות של בינה מלאכותית ותיק עבודות; אחרת התחום יצבור אפקטי שילוב שאינו יכול לפרק.
-
-## מושגים מחוברים
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## מאמרים מחוברים
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — תפיסות הסטודנטים על פיתוח רב-אוריינות באמצעות הערכת תיקי עבודות בסיוע בינה מלאכותית (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT בשילוב עם הערכת תיק עבודות אלקטרוני לדיבור באנגלית כשפה זרה ולאוריינות משוב (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — הערכה מבוססת תיק עבודות וכשירות בעידן הבינה המלאכותית
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — הערכה אותנטית עמידה בפני בינה מלאכותית יוצרת, לרבות תיקי עבודות של תרומה חברתית
-- [[beyond-detection-authentic-assessment-ai-2025]] — תיקי עבודות מוערים / הגנות בעל-פה כהערכה עמידה בפני בינה מלאכותית
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — תיק העבודות הסימביוטי ללומדים היברידיים
-- [[pbl-structural-conditions-ai-2026]] — תיקי עבודות כתשובות חלקיות להערכה בקנה מידה גדול
-- [[learn-framework-responsible-genai-pbl-2026]] — תיקי למידה אישיים כעקבות למידה הניתנות להערכה

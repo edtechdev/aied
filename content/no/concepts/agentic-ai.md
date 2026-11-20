@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -184,62 +186,3 @@ Agentisk AI er verken et universalmiddel eller en uunngåelig skade: verdien avh
 **«Agentiske systemer i utdanning er pedagogisk forankret fordi utdanningsforskere bygger dem.»** Evidensen sier noe annet: en hurtiggjennomgang fant at bare **29 % av studiene om agentisk AI (138 av 474)** eksplisitt forankret systemene sine i utdanningsteori. Det faglige skillet mellom teknisk orientert og pedagogisk orientert arbeid er feltets tilstand, ikke en enkeltforfatters forglemmelse, så en demo som virker, er forventet utfall, og en demo som virker *for læring* er mindretallet.
 
 **«En agent som personaliserer og utdyper læring, er en netto gevinst sammenlignet med en chatbot.»** Den bærer en bestemt avveining med seg: agentiske systemer truer [[agency]] og inviterer til [[cognitive-offloading|avlasting]] av den kognitive innsatsen læringen avhenger av, og ved å utføre flere trinn uten tilsyn gjør de den avlastningen vanskeligere å oppdage. Spenningen mellom automatisering og læring er kategoriens sentrale analytiske problem, ikke et forbehold hengt på fordelene.
-
-## Tilknyttede begrep
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Tilknyttede artikler
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — agentisk sensurering av 60 håndskrevne eksamener: r = .97 samlet, kappa faller til .65 på evaluerende oppgaver
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenter organisert rundt et reviderbart kapabilitetsprogram, med eleven som medlem
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomi, kompetanse, tilhørighet og sosial tilstedeværelse som veiene fra agentisk AI til engasjement (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI-agenter, gledesfylt vurdering og tredje rom
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE-rammeverket: avgrenset, menneskesupervisert agentisk GAI i høyere utdanning (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Kritisk integrativ gjennomgang som introduserer AOE-rammeverket for evidens og tilsyn
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektiv på inkluderende agentiske multiagent-AI-økosystemer i høyere utdanning
-- [[baradziej-agentic-ai-higher-education-2026]] — Systematisk gjennomgang av rollene til agentisk AI i høyere utdanning (48 studier; seks roller; tredelt rammeverk for ansvarlig integrering)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentisk AI i utdanning: state of the art og framtidige retninger (IEEE Access-oversikt; operasjonell definisjon + taksonomi)
-- [[agentic-ai-education-scoping-review]] — Hurtiggjennomgang av agentisk AI i utdanning (474 studier)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Spenningen mellom automatisering og læring
-- [[tool-invariant-framework-agentic-ai]] — Å undervise i og vurdere beregningsmetoder i agentisk AI-tid
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking av undervisningsdesignagenter
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stresstesting av rollespillagenter
-- [[ai-agents-constructive-conflict-design-education-2026]] — AI-agenter for konstruktiv konflikt i designutdanning
-- [[ai-tpack-teacher-multi-agent-workflow]] — Læreres TPACK og multiagent-arbeidsflyter
-- [[code-gen]] — Kodegenereringsagenter
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Benchmark for pedagogiske LLM-agenter
-- [[guided-llm-scaffolding-independent-learning]] — Veiledet LLM-stillas for selvstendig læring
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptive læringsagenter
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Spillifiserte læringsagenter for cybersikkerhet
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentisk AI i klinisk simulering
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Spøkelseselever og verifiseringsgapet i agentisk AI (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI-agenter som fullfører LMS-oppgaver; validitetssvikt gjennom forutsetningen om menneskelig produksjon (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI-webagenter: en beskrivende agent som evaluator av læringsopplevelsen (forutsier frafall, gir designfeedback før studentene engasjerer seg)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD med AI-agenter i programvare-PBL; automatisering kontra forståelse
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluering av et stillasorientert multiagent stort språkmodellsystem for trening i klinisk intervju
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etikktopplæringsagenter: å legge til rette for gruppebasert etikkutdanning med rollespill og diskusjon for etisk refleksjon og utforsking
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Sammenligning av AI-tilnærminger for automatisert ferdighetsuttrekk: fra embeddings til agentiske systemer for ingeniørutdanning

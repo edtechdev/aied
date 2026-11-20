@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -75,26 +77,3 @@ La recherche à méthodes mixtes se situe entre les traditions [[quantitative-re
 - **« La triangulation signifie que deux méthodes faibles font une affirmation forte. »** La valeur de l'appariement est que chaque fil répond à une question différente. Un dispositif qui exécute les deux puis rapporte le constat qualitatif comme confirmation du quantitatif n'a pas triangulé, il a reformulé.
 
 - **La convergence peut être une règle d'admission, et non un récit.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] ne comptait une priorité de refonte que lorsqu'elle apparaissait dans au moins deux des cinq sources indépendantes et dans une source tournée vers la mise en œuvre, de sorte que la seule perception ne pouvait pas la promouvoir.
-
-## Concepts liés
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Articles liés
-
-- [[genai-over-reliance-learning-2026]] — De l'amélioration à la dépendance excessive (enquêtes + entretiens)
-- [[t2i-competence-paradox-2026]] — Le paradoxe des compétences (groupes de discussion + enquête + entretiens)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — L'écart confiance–utilité (enquête + entretiens)
-- [[same-ai-different-pathways]] — Les mécanismes de l'apprentissage médié par l'IA à travers les contextes
-- [[genai-feedback-design-multisite-experiment]] — Conception centrée sur l'humain de la rétroaction par l'IA générative (multisites)
-- [[hazra-safetutors-pedagogical-safety-2026]] — La sécurité des tuteurs d'IA et les préjudices pédagogiques
-- [[becker-chatgpt-typology-physics-2026]] — Une typologie qualitative de l'adoption de ChatGPT en physique
-- [[edtech-privacy-deferral-2026]] — « Nous le corrigerons plus tard » : l'éducation, l'IA et l'ajournement de la vie privée des étudiants dans les technologies éducatives
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER et un RoBERTa affiné ont attribué une valence opposée au même billet Bluesky (Geraili Meykola et al., 2026)

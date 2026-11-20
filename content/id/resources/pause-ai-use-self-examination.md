@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -54,7 +55,3 @@ sebagai kelompok.
 ## Catatan
 Ditulis oleh Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); alasan desain dan batas
 validasinya didokumentasikan dalam pracetak pendamping, dan kode sumbernya publik.
-
-## Konsep terkait
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]

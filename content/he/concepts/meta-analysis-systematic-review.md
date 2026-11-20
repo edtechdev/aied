@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -63,7 +65,6 @@ ai_assist:
 **ספרו רשומות, לא מחקרים, כאשר סקירה מדווחת על שכיחויות.** בסקירת היקף שהגיעה ל-31 מחקרים מתוך 21,720 רשומות, חמישה מחקרים סיפקו 62 מתוך 192 רשומות פרקטיקה, ולכן האחוזים מתארים את החומר שחולץ ולא תצפיות עצמאיות או שכיחות ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 - **זיהוי מפשרים ותנאים** — מטא-אנליזה בודקת האם ההשפעות נבדלות לפי [[learners|אוכלוסיית לומדים]], תחום, סוג מערכת AI או עיצוב מחקר, וחושפת עבור מי ותחת אילו תנאים כלי עובד. אך מפשר אמין רק כמו המחקרים שמאחוריו: ב[[genai-writing-performance-meta-analysis-2026|מטא-אנליזה משנת 2026 על כתיבת L2 בסיוע GenAI]], המפשר היחיד ששרד לבקרה מתודולוגית הייתה סיווג סיכון-ההטיה של המחקרים, בעוד שהבדל מודל-הוראה שנראה מובהק בניתוח תת-קבוצות התמוטט ברגע שאיכות המחקר וגודל הדגימה נכנסו. איכות מתודולוגית, לא פדגוגיה, נשאה את ההשפעה — כך שמפשרים פדגוגיים נראים מגיע לבדיקה כמו ההערכות המאוגרות. מפשרים אפסיים נושאים את אותה הלקחה בכיוון ההפוך. ב[[chen-digital-ai-foreign-language-skills-meta-analysis-2026|מטא-אנליזה של Chen and Wei על טכנולוגיות דיגיטליות ו-AI לכישורי שפה זרה]] (40 מחקרים, 3,367 משתתפים, g מאוגר = 0.962), המפשרים ששרדו היו עיצוב המחקר (כמעט-ניסויים g = 1.019 לעומת ניסויים אמיתיים g = 0.474), משך ההתערבות, ומספר הכלים, בעוד שסוג כישור-השפה, סוג הטכנולוגיה, רמה חינוכית, הגדרה וגודל הדגימה לא הראו הבדל בין-קבוצתי מובהק, דבר שהוביל את המחברים למסקנה שהיעילות אינה ניתנת לייחוס לתווית טכנולוגיה או לקטגוריית כישור. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|מטא-אנליזת Yu ועמיתיו על חינוך AI ב-K-12]] (16 מחקרים, 57 גדלי-אפקט, g = 0.892) מצאה ששלושת המפשרים שנבדקו (מקור פרסום, שנת פרסום, רמת בית-הספר) כולם אפסיים וקראה את ההטרוגניות השיורית (I2 = 94.68%) כראיה שהתחום לא הגיע להסכמה על איך למדוד [[ai-literacy]] כלל. כאשר מפשר חוזר אפסי וההטרוגניות נשארת גבוהה, מסקנת הסינתזה נוגעת לרוב למבנה התוצאה או לעיצובי המחקר הראשוני לא פחות מאשר להתערבות.
 - **חשיפת איכות מתודולוגית** — סקירות מוצאות באופן שגרתי שהתחום מסתמך על עיצובים חסרי-כוח, קדם-ניסוייים או כמעט-ניסוייים ועל מבחני-אחרי מיידיים, וממתנות מסקנות. ([[ai-vocational-education-training-review]]) ([[zerkouk-comprehensive-review-its-2025]]) דיווח דל על מה שבפועל נעשה הוא חלק מאותה תמונה, והוא מגביל מה שסינתזה מאוחרת כלשהי יכולה לומר: [[yalcin-genai-programming-education-systematic-review-2026|הסקירה השיטתית של Yalcin ועמיתיו על GenAI בחינוך לתכנות]] לא הצליחה לזהות גישת הוראה ב-26 מתוך 46 המחקרים שלה, ו-32 מתוך 46 הופיעו בכתבי-ועידה, כך שהסקירה לא הצליחה לקודד פדגוגיה לפחות מחצי מהקורפוס שלה ומסתיימת בראיות השפעה מעורבות (מחקרים מסוימים הראו שיפור בביצועי בחינות וקוד, בעוד שאחרים לא מצאו הבדל מובהק לעומת משוב המרצה). סינתזה יורשת את הרגלי הדיווח של התחום שלה.
-
 
 אמינות הסינון יכולה להיות תלוית-מבנה: בסקירת היקף PRISMA-ScR של 123 מחקרי GenAI, [[cognitive-offloading|הוצאה קוגניטיבית]] ו[[agency|סוכנות הלומד]], הסכם כותרת/תקציר (κ של Fleiss = 0.7103) ירד ל-κ = 0.4884 בטקסט המלא, דבר שהמחברים מייחסים לגבול הפרשני בין רלוונטיות GenAI רחבה לרלוונטיות מהותית למנגנון ([[genai-cognitive-offloading-learner-agency-review-2026|Wang et al. (2026)]]).
 
@@ -159,54 +160,3 @@ ai_assist:
 - **"אפקט מאוגר מובהק פירושו שההתערבות עובדת."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|המטא-אנליזה של Yu ועמיתיו לחינוך AI ב-K-12]] (**16 מחקרים, 57 גדלי-אפקט, g = 0.892**) מצאה אפקט גדול, אם כי המחברים מסייגים אותו. שישה-עשר מחקרים הם בסיס צר, ואפקט גדול על בסיס כזה הוא השערה עם רווח סמך רחב.
 - **"סוקרים מדווחים את איכות התחום במדויק כברירת מחדל."** תפקידה של סקירה כולל **חשיפת איכות מתודולוגית**, וסקירות **מוצאות באופן שגרתי שהתחום נשען על עיצובים חסרי-כוח, קדם-ניסוייים או קוואזי-ניסוייים** עם מבחני-אחרי מיידיים. המספר המאוגר יורש את החולשות האלה.
 - **"איגור תמיד מגביר את משקל הראיות."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|המטא-אנליזה של Chen and Wei]] של **40 מחקרים** לכישורי שפה זרה מאגדת על פני טכנולוגיות שונות מאוד, והממוצע אינו מתאר אף אחת מההתערבויות הספציפיות שהיא מכילה.
-
-## מושגים מקושרים
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## מאמרים מקושרים
-- [[edurev-100741-tpack-genai-review]] — סקירה שיטתית של GenAI בלמידת סטודנטים מנקודת-מבט TPACK
-- [[genai-meta-analysis-programming-learning]] — מטא-אנליזה של השפעת GenAI על פרודוקטיביות ולמידה בתכנות
-- [[ai-vocational-education-training-review]] — הסקירה השיטתית הראשונה של AI בחינוך והכשרה מקצועית
-- [[ai-collaborative-learning-systematic-review]] — סקירה שיטתית PRISMA של למידה שיתופית מונעת-AI
-- [[genai-higher-education-systematic-review-2026]] — סקירה שיטתית של GenAI בהשכלה גבוהה
-- [[zerkouk-comprehensive-review-its-2025]] — סקירה שיטתית מקיפה של מערכות חונכות חכמות
-- [[chatgpt-critical-creative-thinking-review]] — סקירה שיטתית של ChatGPT וחשיבה ביקורתית/יצירתית
-- [[stanford-evidence-base-ai-k12-2026]] — בסיס הראיות ל-AI ב-K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — מטא-אנליזה של אפקטי התערבות באוריינות AI
-- [[genai-writing-performance-meta-analysis-2026]] — מטא-אנליזה של כתיבת L2 בסיוע GenAI: אפקט מאוגר גדול שנערער על ידי הטרוגניות הקיצונית ומפשר מונחה-איכות
-- [[ai-literacy-heptagon-2026]] — סקירת ספרות אינטגרטיבית של מימדי אוריינות AI (מודרכת-PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — סקירה שיטתית של GenAI בחינוך בריאות מבוסס-תרחיש (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — סקירת מיפוי המסווגת 22 מחקרי אינטגרציית AI עם FACETS + SAMR; רובם ב-Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — ערכים ונורמות אתיים לבינה מלאכותית בחינוך
-- [[li-language-educators-genai-review-2026]] — פרקטיקות והתפתחות של מחנכי שפה עם GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI לסיוע לאנשים עם דיסלקציה בחינוך
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (ביקורת השוואת-מדיה)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — מטא-מטא-אנליזה: אפקטים מכוונים-להטיה בגדל של ~1/3 מהמדווח
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ביקורת פורנזית של 14 מטא-אנליזות AIEd
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — התערבות מורים בהוראה מבוססת-AI ב-K-12: סקירה שיטתית
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — מטא-אנליזה של כלים דיגיטליים ו-AI לכישורי שפה זרה: מפשר העיצוב מכפיל פי יותר משניים הערכות אפקט כמעט-ניסוייות
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — מטא-אנליזה של GenAI בהשכלה גבוהה: אפקטי התערבות קצרה מתמוטטים ככל שהמשך גדל
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — מטא-אנליזה של חינוך AI ב-K-12: אפקט גדול עם מפשרים אפסיים והטרוגניות המיוחסת למדידה
-- [[yalcin-genai-programming-education-systematic-review-2026]] — סקירה שיטתית של GenAI בחינוך לתכנות: דיווח הוראה דל ב-26 מתוך 46 מחקרים
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — סקירת היקף של 123 מחקרים הממפה GenAI, הוצאה קוגניטיבית וסוכנות לומד בהשכלה גבוהה
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — מטא-אנליזה של השפעות הבינה המלאכותית היוצרת על תוצאות למידה, קוגניטיביות ולשוניות
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — שימוש סטודנטיאלי אחראי בבינה מלאכותית יוצרת בכתיבה אקדמית: סקירת היקף של גבולות, גישות חינוכיות ופערי ראיות
-- [[kim-ai-embodied-learning-review-2026]] — בינה מלאכותית בלמידה מגופנת בעיקר מתבוננת: תפקידי חישה ב-62.5% מתגי התפקיד המקודדים, ואף מערכת שנסקרה לא חיברה זרמים רב-מודאליים בזמן למידה (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — מדוע ארבעה מחקרים אינם יכולים לשאת החלטת אימוץ

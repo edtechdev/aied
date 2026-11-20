@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -97,40 +99,3 @@ Auch die Integritätsbegründung der Mündlichen ist zeitlich begrenzt: [[corbin
 - **„Mündliche Prüfung lässt sich nicht skalieren."** In [[code-review-genai-cs1|der CS1-Studie zum mündlichen Code-Review]] trugen **wöchentliche fünfzehnminütige Interviews siebzig Prozent der Note jeder Aufgabe**, und das Verhältnis eingefügter zu Gesamtzeichen blieb dennoch informativ. Die Kosten sind real, und das Design ist auf Kursebene umsetzbar.
 - **„Mündliche Prüfungen sind weicher als schriftliche."** Im berichteten Pilot übertrafen die Werte **jene persönlicher Multiple-Choice-Tests: Zwischenprüfungsmedian 92,5 gegenüber 70 (p < .001) und Abschlussmedian 94,2 gegenüber 86,4 (p = .002)**. Mündliche Prüfung war nicht die nachsichtige Option.
 - **„Eine simulierte Begegnung ist gleichwertig zu Fällen mit progressiver Offenlegung."** In [[ai-standardized-patient-scaffolding-medical-2026|einem RCT mit hundert Medizinstudierenden im dritten Jahr]] wurde das Simulierte-Patienten-System **gegen progressive Offenlegung von Fallmaterialien** verglichen — ein direkter Test der Äquivalenz statt einer Annahme derselben.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Mündliche und Viva-Verifikationsabläufe, und was sie zeigen und nicht zeigen
-- [[assessment]] — das breitere Feld, in dem dieses Format sitzt
-- [[authentic-assessment]] — die Gestaltungstradition, die den Integritätsfall macht
-- [[assessment-validity]] — was ein Format beanspruchen kann und nicht zu messen
-- [[academic-integrity]] — der Druck, der mündliche Prüfungen zur Prominenz zurückführte
-- [[automated-assessment]] — maschinelle Lieferung und Bewertung mündlicher Leistung
-- [[ai-detection]] — die alternative Antwort, und warum sie schwächer ist
-- [[speech-and-voice-technologies]] — die Sprachpipeline, auf der ein mündliches System läuft
-- [[multimodal]] — Gestik und Sprache als kombinierte Evidenz
-- [[anxiety-and-stress]] — die affektive Kosten der Live-Leistung
-- [[feedback]] — was ein Viva einer lernenden Person über ihr eigenes Verständnis sagt
-- [[higher-ed]] — die Umgebung, aus der fast diese ganze Evidenz stammt
-
-## Verbundene Artikel
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Nicht-verzweigende KI-Dialogaufgaben verfehlen die Passung zwischen Aufgabenanforderungen und dem Sprechkonstrukt
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live-Vivas sind nicht mehr immun: KI-Brillen und Ohrstöpsel liefern verdeckte Echtzeit-Hinweise (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Die Nutzung mündlicher Prüfungen und Assessments neu bedenken (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments: Integrität, Engagement und professionelle Kommunikation
-- [[ai-supported-oral-assessment-tvet-2026]] — KI-unterstütztes mündliches Assessment in der beruflichen Ausbildung gestalten
-- [[aivaluate-anxiety-assessment-2026]] — Angst und Erleben bei KI-vermitteltem performanzbasiertem Assessment
-- [[code-review-genai-cs1]] — Mündliche Code-Review-Interviews in einem Einführungsprogrammierkurs
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gestik als Evidenz bei der Bewertung mündlicher Erklärungen
-- [[socratic-tests-conversational-assessment]] — Automatisiertes konversationelles Testen als mündliche Prüfung
-- [[tool-invariant-framework-agentic-ai]] — Mündliche Verteidigungen KI-unterstützter Arbeit
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Gesprochene klinische Interviews unter einem System simulierter Patientinnen und Patienten
-- [[pgr-students-genai-uses-qualitative-2026]] — Das Doktorviva unter generativer KI
-- [[computing-assessment-genai-workshop-report-2026]] — KI kann Ihre Hausaufgaben machen. Und nun? Bericht eines Online-Workshops zum Assessment in der Informatik im Zeitalter generativer KI
-- [[assessment-feedback-trilemma-model-2026]] — Bestreitet jedem Format einen festen Platz und rahmt Machbarkeit als pädagogische Priorität neu
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — KI-gestützte mündliche Paarprüfungen als Ausweichlösung für die Terminplanung in einem Kurs zur Wirtschaftsstatistik
-- [[deng-certification-consultation-university-teaching-2026]] — Universitäre Lehre nach generativer KI: jenseits von Vorlesung und forschendem Lernen hin zu einem Zertifizierungs- und Beratungsparadigma, in dem Lernende die Bewertung übernehmen
-- [[webb-davies-voice-first-written-assessment-2026]] — Ein zweistufiges schriftliches Assessment, das die Argumentation unter Beobachtung sichert, bevor eine zu Hause verfasste Abgabe bewertet wird — mit einem bedingten Viva bei unklaren Zusammenhängen (Webb-Davies, Ratner & Bassett 2026)
-- [[challen-conversational-assessment-chat-exams-2026]] — Skalierbares konversationelles Assessment: Chatbasierte Prüfungen mit einer Zwei-Agenten-LLM-Pipeline

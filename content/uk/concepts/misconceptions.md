@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -130,33 +132,3 @@ Bernstein і Sibia (2026) показують, що згенеровані [[gene
 - **«Хибні уявлення викладачів виправляються поданням доказів.»** У пілоті з **123 італійськими освітянами** незгода найміцніше скупчувалася навколо **когнітивних стилів навчання (78% викладачів захищали зіставлення візуального й аудіального)**, інклюзії та групової роботи (68%) і перевантаження освітніми технологіями (54%). Найсильніші незгоди були найопірнішими до доказів, тому [[refutation-text|спростування]] перемагає твердження.
 - **«Усі заперечення викладачів щодо доказів — це опір.»** Коли ті самі пункти подавали через розмовний ШІ, що **валідував контекст викладача перед повторним введенням доказів**, **41% заперечень стосувалися реальних контекстуальних обмежень** — розміру класу, особливих потреб, вимог навчального плану. Значна частка уявного хибного уявлення була точним запереченням.
 - **«Хибні уявлення можна надійно виявити з діалогу.»** **Із 241 спонуканого сегмента 221 (91.7%) підтверджено як стратегічні хибні уявлення експертним голосуванням більшістю (Fleiss’ κ = 0.9487)**, без значущих розбіжностей між групами. Висока надійність досяжна за експертного арбітражу, і саме ця умова є умовою твердження.
-## Пов’язані поняття
-- [[pedagogical-patterns]] — The conceptual-change sequences that confront a specific held belief
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-## Пов’язані статті
-- [[rudolph-ai-myths-critical-higher-ed]] — Не вірте хайпу: вісім міфів про ШІ та потреба критичного підходу у вищій освіті
-- [[student-rationalization-ai-writing]] — Раціоналізація студентами написання зі ШІ
-- [[genai-skill-bypass-literacy]] — Обхід навичок GenAI і грамотність
-- [[trust-reliance-ai-education-2026]] — Довіра й опора в освіті зі ШІ
-- [[contextual-sycophancy-ai-literacy]] — Контекстуальне підлабузництво і ШІ-грамотність
-- [[sycophantic-ai-social-interaction-2026]] — Підлабузницький ШІ в соціальній взаємодії
-- [[llm-fallacy-misattribution]] — Помилка LLM і хибна атрибуція (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Хибні, але запам’ятовувані: критичне сприйняття студентами персоналізованих за інтересами аналогій GenAI в освіті з інформатики
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: плинні, авторитетні пояснення, що помиляються концептуально, а не фактично (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Приховані інструкції в поданому файлі можуть підняти оцінку, виставлену ШІ, без видимого попередження (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Хибні уявлення дітей про безпеку ШІ: дружбу з роботом прочитують як гарантію приватності (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Діагностика хибних уявлень про викладання розмовним ШІ з діалогом, заґрунтованим на доказах (Miranda & Calvani 2026)

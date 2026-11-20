@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -63,40 +65,3 @@ AI教育におけるデザイン思考は、[[human-ai-collaboration]]と深く�
 **「デザイン思考は段階ごとに自動化される過程である。」** それは問題を枠づけ、枠を組み直す規律であり、固定が閉ざすのはまさにそれです。段階を自動化しながら枠を検討しないままにすると、誤った問題に対して有能な出力が生まれます。
 
 **「学生のデザイン推論に同意するAIエージェントは、[[student-support-and-success|学生支援]]である。」** ここで記録されている生産的な利用は逆方向です。[[ai-agents-constructive-conflict-design-education-2026|AIエージェントとの建設的な対立]]は、再考を強いる敵対的プロンプトを検証しています。同意するエージェントは固定を強め、異議を向けるエージェントこそ教育的な主張を伴う設計です。
-
-## 関連する概念
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## 関連する記事
-
-- [[design-thinking-aigc-fashion-film-2026]] — AIGC 支援のファッション・フィルムデザインにおける学習段階にわたるデザイン思考マインドセット（Liu et al. 2026）
-
-- [[genai-architecture-education]] — Gen-AI-tecture:デザイン課題で建築の学生を支えるための生成AIの利用
-- [[genai-architectural-design-studios]] — 建築のデザインスタジオにおける生成AIの開発と応用
-- [[social-robot-study-companions]] — 大学生との建造可能で開かれた社会性ロボットの学習仲間の共創
-- [[gaide-vibe-coding-k12-teachers]] — バイブコーディングを通じてAIを活用した学習技術をつくるK-12の教師のための導きの枠組み
-- [[dot-framework-survey-2026]] — DOT枠組みの調査:AIで強化された教育における実務家の信念と行動
-- [[ai-agents-constructive-conflict-design-education-2026]] — 初心者のインタラクションデザイナーの再考を高めるためのAIエージェントとの建設的な対立の実現
-- [[genai-usage-design-students-survey]] — デザイン学生によるGenAIの利用の研究:2025/2026年のポリテクニコ・ディ・ミラノにおける調査結果とAI実践の記録の分析

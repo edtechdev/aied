@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -58,29 +60,3 @@ ai_assist:
 - **"ভালো স্কোর করা একটি মডেল একই জিনিস মাপছে।"** **একই মূল্যায়ন যন্ত্রে** মানুষের ও LLM-এর প্রতিক্রিয়া-গঠন **ভিন্ন হয়ে যায়** — একটি মডেল ভালো স্কোর করতে পারে অথচ যন্ত্রটি যা বোঝাতে চায় তার থেকে ভিন্ন কিছু মাপতে পারে। স্কোরের মিল হলো পর্যবেক্ষণ; গঠন-সমতুল্যতা একটি আলাদা দাবি, যার জন্য গঠন-স্তরের প্রমাণ প্রয়োজন।
 - **"ক্রমাঙ্কন একটি নির্ভুলতার সংখ্যা থেকেই পড়া যায়।"** **একটি একক নির্ভুলতা-সংখ্যা কেবল ক্রমাঙ্কিত দেখানো মডেলকে লুকাতে পারে**: GPT-4o ও Gemini 2.0 Flash-কে **153 জন স্নাতকের** সংলাপ থেকে শিখন-শৈলীর মাত্রা অনুমান করতে বললে **মাঝারি নির্ভুলতা মিলেছিল যা ভারসাম্যপূর্ণ মেট্রিকের অধীনে ভিন্নভাবে আচরণ করে**। সমষ্টিগত নির্ভুলতা এমন একটি পার্থক্য লুকিয়েছিল যা ভারসাম্যপূর্ণ মেট্রিক প্রকাশ করে।
 - **"স্বয়ংক্রিয় স্কোরিং পাইপলাইন সাইকোমেট্রিক পদ্ধতি পুনরুৎপাদন করতে পারে না।"** লেখকেরা একটি প্রতিষ্ঠিত পাইপলাইন স্বয়ংক্রিয় রূপে পুনরুৎপাদন করেন (**নিম্ন কাটঅফের জন্য অন্তত 7টি রুব্রিক আইটেম সঠিকভাবে উত্তর দেওয়ার 67% সম্ভাবনা এবং উচ্চ কাটঅফের জন্য অন্তত 10টি**), যাতে এআই ও মানব আইটেম-স্কোর একই ভিত্তিতে তুলনা করা যায়। পদ্ধতিটি পুনরুৎপাদনযোগ্য ছিল; গঠনের প্রশ্নটি রয়ে যায়।
-
-## সংযুক্ত ধারণা
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[genai-reliance-scale-problem-solving-2026]] — সমস্যা সমাধানে শিক্ষার্থীদের জেনারেটিভ এআই-নির্ভরতার একটি বৈধতাপ্রাপ্ত স্কেল (Hou প্রমুখ 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — বৃহৎ-পরিসর লেখন মূল্যায়নে এআই-সহায়ক স্কোরিংয়ের মানব-চক্র কাঠামো
-- [[assessment-latent-structure-human-llm-2026]] — মূল্যায়ন যন্ত্র কি মানুষ ও LLM-এর জন্য একই জিনিস মাপে? (Strugatski প্রমুখ 2026)
-- [[llm-psychometric-calibration-cdp]] — LLM মূল্যায়নকে সাইকোমেট্রিক ক্রমাঙ্কনের সঙ্গে মেলানো
-- [[llm-item-difficulty-prediction]] — আইটেম-কঠিনতার LLM পূর্বানুমান
-- [[cong-confidence-asag-2026]] — আত্মবিশ্বাস-সচেতন স্বয়ংক্রিয় সংক্ষিপ্ত-উত্তর গ্রেডিং
-- [[multimodal-item-parameter-estimation-2026]] — মাল্টিমোডাল আইটেম-প্যারামিটার অনুমান
-- [[competency-based-education-genai-production-2026]] — জেনএআই-সহ দক্ষতা-ভিত্তিক শিক্ষা
-- [[ai-grading-handwritten-physics-2026]] — হাতে লেখা পদার্থবিজ্ঞান মূল্যায়নের এআই গ্রেডিং (অলিম্পিয়াড)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM ও ট্রি-ভিত্তিক এমএল ব্যবহার করে আইটেম-কঠিনতা অনুমান
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — এআই-সাক্ষরতা যন্ত্রের তুলনা: 55টি গঠন জুড়ে জ্যাঙ্গল ও জিঙ্গল জোড়া
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — শিক্ষার্থীদের LLM ব্যবহার এবং ডেটা-বিজ্ঞান কোর্সে এআই-উৎপন্ন প্রশ্ন-কঠিনতার সীমা
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — প্রতি-শ্রেণির রিকল যাচাইয়ের পর মাঝারি নির্ভুলতা ছিল সংখ্যাগরিষ্ঠ-শ্রেণির পূর্বানুমান (Zamanifard, Goudarzi ও Robb 2026)

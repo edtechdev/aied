@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -113,50 +115,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - ढाँचों के संचय के बजाय सिद्धांतों के बीच निर्णय के लिए डिज़ाइन करें। परिपक्वता प्रतिस्पर्धी पूर्वानुमानों के समाधान के रूप में दिखती है, शब्दावली की वृद्धि के रूप में नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — छत्र: शिक्षा में AI की पाठ्यपुस्तकें और शिक्षण रणनीतियाँ
-
-## संबंधित लेख
-
-- [[yan-agentivism-learning-theory-ai-2026]] — मानव-AI परस्पर क्रिया के लिए एक मध्य-श्रेणी का सीखने का सिद्धांत, चार तंत्रों और छह परीक्षणीय प्रतिज्ञानप्तियों के साथ (Yan और Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली दक्षता अभ्यास को रोक सकती है इससे पहले कि शिक्षार्थी जान लें कि कब कोई क्रिया रोकनी है (An, McLaren और Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — संकर प्रणालियों में AI-संवर्धित जाँच और नियमन (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — मानव-AI सह-नियमन में AI को संज्ञानात्मक साथी के रूप में रखता है; जीवन-भर का विकासात्मक ढाँचा
-- [[ensemble-cognition-philosophy-ai-education]] — एंसंबल संज्ञान: सोच को मानव-AI परस्पर क्रिया के रूप में पुनर्कल्पित करने वाला एक दार्शनिक ढाँचा
-- [[self-directed-growth-generative-ai-learning-analytics]] — स्व-निर्देशित सीखने को GenAI से विस्तारित करने वाला स्व-निर्देशित वृद्धि और A2PL मॉडल
-- [[generativism-learning-theory]] — जनरेटिव AI युग के लिए एक नया सीखने का सिद्धांत प्रस्तावित करता है, शास्त्रीय चारों पर पुनर्विचार करते हुए
-- [[ai-vocational-education-training-review]] — VET में AI के लिए constructivism/behaviorism सिद्धांत-अभ्यास अंतराल का दस्तावेज़ीकरण
-- [[genai-educational-outcomes-meta-analysis]] — 53 अध्ययनों की PRISMA मेटा-विश्लेषण: उपलब्धि, चिंतन, लेखन और अभिप्रेरणा पर संचित लाभ, प्रतिपुष्टि सबसे बड़ा तंत्र (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — एक मध्यस्थ एजेंट के रूप में जनरेटिव AI
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-असफलता-आधारित सीखने का समर्थन के लिए AI प्रणालियाँ डिज़ाइन करना
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक असफलता के लिए LLMs की शिक्षण-दिशा निर्धारण
-- [[lukesova-clue-before-correction-2026]] — संकेत से पहले सुधार: स्वायत्त भाषा सीखने के लिए ChatGPT
-- [[rachatasumrit-example-problem-ratio-2026]]

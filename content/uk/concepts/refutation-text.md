@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,23 +80,3 @@ foundations: [misconceptions]
 **«Більше інформації про правильне поняття долає опір».** Обсяг правильної інформації — це втручання, яке вже зазнає невдачі. Концептуальна зміна вимагає, щоб наявна модель здобувача була зроблена явною і визнана недостатньою, а це інший інструкційний хід, ніж додавання доказів.
 
 **«Хибні уявлення й звичайне незнання потребують того самого засобу».** Вони потребують різних: незнання розв’язується постачанням знання, а хибне уявлення треба спершу зсунути. Ставлення до другого як до першого — причина, чому добре пояснений урок може залишити початкову модель студента недоторканою.
-
-## Пов’язані поняття
-- [[pedagogical-patterns]] — Refutation sequences, including two directly conflicting results
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Пов’язані статті
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. interactive AI dialogue
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training as an adjacent refutation-style intervention
-- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
-- [[ai-learning-companions-framework]] — AI companions and misconception correction

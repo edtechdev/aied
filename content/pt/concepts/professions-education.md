@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -66,34 +68,3 @@ As profissões têm uma vantagem que as disciplinas não têm: um órgão extern
 **"A simulação é um substituto do estágio."** A simulação ensaia um cenário definido em condições controladas, e as revisões a encontram como aplicação líder precisamente porque é delimitada. O que ela não fornece é o julgamento não roteirizado que a supervisão existe para ver.
 
 **"Detectar o uso de IA resolve o problema da certificação."** A detecção responde se uma ferramenta foi usada, não se o candidato consegue praticar, e a literatura de enfermagem já mostra programas escolhendo a fiscalização porque não conseguem responder à segunda pergunta.
-
-## Conceitos conectados
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## Artigos conectados
-
-- [[llm-turing-test-italian-legal-exams-2026]] — teste de Turing cego em exames italianos da ordem, de juízes e de notários contra correção de especialistas
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — comparação em cinco fatores de políticas de GenAI em faculdades de direito e um framework de governança
-- [[hardie-genai-nursing-scoping-review-2026]] — revisão de escopo de 103 estudos sobre aplicações, atitudes e ética na educação em enfermagem
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, lacunas estruturais e a reconstituição da identidade profissional
-- [[dabkowski-nursing-academics-genai-2026]] — ambiguidade de políticas, valores profissionais e a deriva para a avaliação vigiada
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — proctoring remoto na avaliação em enfermagem: vigilância, equidade e dissuasão
-- [[genai-medical-education-transformation-review-2026]] — revisão de escopo de 153 relatos de GenAI na educação médica
-- [[virtual-standardized-patients-osce-evaluation-2026]] — avaliação estratizada com múltiplos avaliadores de pacientes padronizados virtuais baseados em LLM contra a prática de OSCE
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — currículos de IA em saúde ensinam ética (80,6%), mas raramente proveniência de dados (22,2%)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 professores em formação: adoção superficial de GenAI, ansiedade com integridade, letramento em avaliação
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — IA na formação de professores: frameworks, evidência empírica e ética
-- [[critsly-design-education-ai-critique-2026]] — ferramentas de crítica por IA leem o processo, e não a saída
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — adoção de IA em bibliotecas acadêmicas: uma revisão sistemática

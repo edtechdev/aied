@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -117,32 +119,3 @@ ai_assist:
 **«Попросити ВММ вдати замішання — тривіальна підказка.»** Це проєктувальна проблема, бо помилковість має бути відкалібрована до поняття, яке викладають, і до поточного стану моделі здобувача-тьютора. Випадкові помилки дають практику налагодження; помилки, що відображають конкретне правдоподібне хибне уявлення, дають концептуальну перебудову, і лише друга є педагогічною ціллю.
 
 **«Навчання через викладання — м’якша діяльність, ніж коли вчать тебе.»** Воно вимогливіше. Підготовка до викладання змушує організувати знання й знайти власні прогалини, і саме тому цей підхід виявляє нерозуміння, яке пасивне сприймання приховує: труднощі — це механізм, а не витрата, яку треба мінімізувати.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Пояснення навчабельному агенту ШІ: найкраще підтверджена послідовність у базі знань
-- [[generative-ai]] — Генеративний ШІ
-- [[active-learning]] — Активне навчання
-- [[constructivist]] — Конструктивізм
-- [[scaffolding]] — Скаффолдинг
-- [[self-regulated-learning]] — Саморегульоване навчання
-- [[metacognition]] — Метакогніція
-- [[desirable-difficulties]] — Бажані труднощі
-- [[cognitive-offloading]] — Когнітивне перекладання
-- [[cs-education]] — Освіта в галузі CS
-- [[collaborative-learning]] — Спільне навчання
-- [[intelligent-tutoring]] — Інтелектуальний тьюторінг
-- [[pedagogical-agent]] — Педагогічний агент
-- [[pedagogy]] — Зонтичне поняття: педагогіка й стратегії навчання в освіті зі ШІ
-
-## Пов’язані статті
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT як навчабельний агент у програмуванні
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: навчабельний агент для 546 студентів
-- [[prompting-teachability-novice-personas-lbt-2026]] — Проєктування персон новачків для навчабельності
-- [[socrates-students-instructors-llms-lbt-2025]] — Студенти як інструктори LLM (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Вивчення лексики шляхом навчання ШІ
-- [[knowloop-confusion-to-consolidation-2026]] — Укріплення через навчання у зворотному напрямку в розмовній системі огляду
-- [[simulating-novice-students-machine-unlearning-2026]] — машинне розучування для утримання підопічного на рівні знань новачка й переучування через діалог із навчанням
-- [[simulating-students-java-programming-errors-llms]] — Моделювання помилок студентів за допомогою LLM
-- [[knowledge-building-tutor-learning-2026]] — відповіді, що будують знання, а не попередні знання, передбачають навчання тьютора

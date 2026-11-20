@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -79,23 +81,3 @@ Para educadores, os textos de refutação permanecem uma forma confiável e de b
 **"Mais informação sobre a concepção correta resolve a resistência."** Volume de informação correta é a intervenção que já fracassa. A mudança conceitual exige que o modelo existente de quem aprende seja explicitado e considerado insuficiente, o que é um movimento instrucional diferente de acrescentar evidência.
 
 **"Equívocos e ignorância comum precisam do mesmo remédio."** Precisam de remédios diferentes: a ignorância é tratada fornecendo conhecimento, e um equívoco precisa primeiro ser destronado. Tratar o segundo como o primeiro é a razão pela qual uma aula bem explicada pode deixar intacto o modelo original do estudante.
-
-## Conceitos conectados
-- [[pedagogical-patterns]] — Sequências de refutação, incluindo dois resultados diretamente conflitantes
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Artigos conectados
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Diálogo personalizado por IA versus refutação de livro didático para correção de crenças
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Texto de mudança conceitual de especialista/IA versus diálogo interativo por IA
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Equívocos gerados por LLM para a aprendizagem colaborativa
-- [[chatgpt-inoculation-training-verification-2026]] — O treinamento de inoculação como intervenção adjacente de estilo refutativo
-- [[critical-genai-use-predictors]] — Recomenda textos de refutação para mirar equívocos conceituais
-- [[ai-learning-companions-framework]] — Companheiros de IA e correção de equívocos

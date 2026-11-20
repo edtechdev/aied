@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -96,7 +98,6 @@ Les chefs de département peuvent bâtir le soutien collégial qui a permis à c
 
 ## Idées fausses courantes
 
-
 **« L'IA fantôme n'est que l'informatique fantôme sous un nouveau nom. »** L'étude allemande trace la distinction : les risques de l'informatique fantôme portent sur l'infrastructure, tandis que ceux de l'IA fantôme portent sur le contenu, le jugement et la trace de ce qui a été produit.
 
 **« Une interdiction y mettra fin. »** Dans l'enquête de l'ASU, 30,3 % des éducateurs du primaire et du secondaire connaissaient une politique et 22 ont admis en avoir enfreint une. La prohibition sans alternative autorisée change l'endroit où l'usage se produit, pas s'il se produit.
@@ -113,23 +114,3 @@ Trois sources traitent directement de l'IA fantôme et ne peuvent être intégr�
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, février 2026. Un argument de praticien selon lequel l'usage non autorisé signale un besoin non satisfait : des enseignants rédigeant des plans de cours, des chercheurs montant des GPU cloud sur des cartes de département, et des personnels collant des données sensibles dans des outils grand public parce que la voie approuvée était plus lente.
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan et coll., Springer, 2026. PLS-SEM sur 214 employés du secteur public, traitant l'IA fantôme comme le mécanisme qui relie les conditions de gouvernance à un usage responsable.
-
-## Concepts liés
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## Articles liés
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE : 94 % ont utilisé l'IA pour travailler, 54 % connaissaient la politique, 13 % mesuraient le retour sur investissement
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — un compte rendu en trois étapes de la manière dont les éducateurs justifient un usage non autorisé
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 375 éducateurs, 1 373 applications, 24 citant la sécurité comme raison
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — des enseignants traçant des limites pédagogiques dans un vide de politique
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — l'adoption menée par les éducateurs comme alternative à l'attente de recommandations institutionnelles

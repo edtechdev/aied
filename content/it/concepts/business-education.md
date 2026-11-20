@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,7 +47,6 @@ L'AI nella formazione aziendale è uno strand [[discipline-specific-aied|discipl
 
 - **Un'analisi strategica basata sul valore, non uno studio sugli esiti.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] applicano la disponibilità a pagare e il costo di erogazione ai programmi MBA e affini. L'IA può sostituire la formazione o integrarla aumentando il valore del giudizio, dell'etica e della leadership; contenuti, metodi e pubblico dell'insegnamento sono tutti incerti, e la capacità di ricerca è la variabile che decide se le scuole vengono integrate o spiazzate.
 
-
 - **Un decennio di ricerca.** [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] mappano bibliometricamente 213 articoli (2015–2024) sull'AI nella formazione aziendale, identificando quattro cluster: trasformazione della formazione aziendale guidata dall'AI, pedagogie digitali innovative, [[personalized-learning|personalizzazione]] potenziata dall'AI, e formazione aziendale allineata all'economia digitale — con lacune persistenti in coerenza curricolare, preparazione dei docenti e validità della valutazione.
 - **Allineamento costruttivo.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] analizzano 17 casi di adozione della GenAI in una business school britannica, rilevando che l'equilibrio tra benefici e rischi pedagogici era modellato dal **grado di integrazione nel curriculum** — l'integrazione costruttiva produceva esiti migliori.
 - **Approfondimenti degli studenti sui curricula.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]] si basano su 166 studenti undergraduate di business in un'unità capstone, rilevando un forte sostegno all'integrazione della GenAI nei curricula con tre aree prioritarie: comprensione/ottimizzazione delle funzionalità della GenAI, esplorazione delle applicazioni in contesti diversi, e navigazione delle dimensioni etiche/legali.
@@ -69,9 +70,7 @@ L'AI nella formazione aziendale abbraccia **l'economia** e il **management** com
 
 Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida, quindi le business school affrontano una pressione acuta nel preparare gli studenti a un ambiente di lavoro integrato con l'AI. La ricerca sottolinea che un'integrazione efficace è **guidata dal curriculum e informata dagli studenti** — non solo aggiungere strumenti di AI ma riprogettare i programmi così che l'alfabetizzazione sulla GenAI, il giudizio etico e l'applicazione autentica siano intessuti nelle strutture dei percorsi di laurea. Questo collega la formazione aziendale ai temi più ampi della knowledge base dell'[[ai-literacy|alfabetizzazione sull'AI]], della preparazione dei [[teacher-role|docenti]], della riprogettazione della [[assessment]] e della riforma del [[curriculum-design|curriculum]] nell'era dell'AI.
 
-
 I casi di studio e le simulazioni sono i formati didattici più vicini a questa letteratura, ma l'evidenza manageriale non isola un intervento basato sui casi; si veda [[case-based-learning]] per la pedagogia e i suoi limiti.
-
 
 ## Implicazioni per i docenti di business
 
@@ -85,41 +84,3 @@ I casi di studio e le simulazioni sono i formati didattici più vicini a questa 
 - **"Gli studenti vogliono l'IA perché vogliono scorciatoie."** Un framework informato dagli studenti ha rilevato studenti **altamente coinvolti e consapevoli di aver bisogno di competenze in GenAI per la carriera**, che però desideravano anche **usare l'IA senza commettere involontariamente una violazione dell'integrità accademica**. La domanda è di competenza con confini chiari, non di permesso di evitare il lavoro.
 - **"Aggiungere moduli sull'IA a un curricolo di business ne cattura il beneficio."** La ricerca sull'allineamento costruttivo ha rilevato che **l'equilibrio tra benefici e rischi dipendeva dal grado di integrazione nel curriculum** — la distinzione operativa è **integrare, non aggiungere**. Un modulo appiccicato lascia immutata la progettazione della valutazione.
 - **"La sofisticazione dello strumento batte l'e-learning convenzionale."** Uno studio sulle percezioni con **130 studenti** ha rilevato che **sia il supporto chatbot sia quello agentico erano valutati al di sopra dell'e-learning tradizionale** per miglioramento, personalizzazione e supporto alle decisioni. Vale la pena notare che cosa misura: la *percezione* degli studenti rispetto a una linea di base convenzionale, non l'apprendimento rispetto a essa.
-
-## Concetti collegati
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — Casi di studio, metodo dei casi e discussione dei casi
-
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Articoli collegati
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-
-- [[csaszar-ai-management-education-2026]] — Gli effetti dell'IA sulla formazione manageriale: un'analisi strategica basata sul valore (Csaszar et al. 2026)
-
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
-- [[alam-process-oriented-collaborative-essays-2026]] — Saggi collaborativi orientati al processo in un apprendistato per Analista Aziendale: valutare l'iterazione documentata, non il tema
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un chatbot RAG costruito per il corso ha spostato le aspettative, non gli esiti

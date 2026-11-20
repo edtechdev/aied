@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -97,40 +99,3 @@ ai_assist:
 - **"口试无法规模化。"** 在[[code-review-genai-cs1|CS1 口头代码评审研究]]中，**每周 15 分钟的访谈承载了每次作业 70% 的分数**，而粘贴字符数与总字符数之比仍然提供了信息。代价是真实的，而该设计在课程规模上是可以实施的。
 - **"口试比笔试更宽松。"** 在报告的试点中，分数**超过了面对面选择题测验：期中中位数 92.5 对 70（p < .001），期末中位数 94.2 对 86.4（p = .002）**。口试并不是那个宽松的选项。
 - **"模拟的会面与渐进披露病例等价。"** 在[[ai-standardized-patient-scaffolding-medical-2026|一项针对一百名三年级医学生的随机试验]]中，标准化病人系统被**与渐进披露的病例材料相比较**，这是对等价性的直接检验，而不是对它的假定。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 口头与答辩验证序列，以及它们证明和不能证明什么
-- [[assessment]] — 这一形式所处的更大领域
-- [[authentic-assessment]] — 支撑诚信论证的设计传统
-- [[assessment-validity]] — 一种形式能主张和不能主张测量什么
-- [[academic-integrity]] — 让口试重回台前的压力
-- [[automated-assessment]] — 口头表现的机器交付与评分
-- [[ai-detection]] — 另一种回应，以及它为何更弱
-- [[speech-and-voice-technologies]] — 口试系统所运行的语音流水线
-- [[multimodal]] — 作为组合证据的手势与言语
-- [[anxiety-and-stress]] — 现场表现的情感代价
-- [[feedback]] — 一场答辩让学习者对自己理解所知道的事
-- [[higher-ed]] — 本证据几乎全部来自的场景
-
-## 关联文章
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — 非分支的 AI 对话任务使任务要求与口语构念错位
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 现场口试不再是免疫的：AI 眼镜与耳机传递隐蔽的实时提示（Corbin, Sharpe & Dawson 2026）
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新考量口试与口语考评的使用（Fenton 2025）
-- [[asynchronous-oral-assessment-2026]] — 异步口试：诚信、参与与专业沟通
-- [[ai-supported-oral-assessment-tvet-2026]] — 在职业教育中设计 AI 支持的口语考评
-- [[aivaluate-anxiety-assessment-2026]] — AI 中介的表现型考评中的焦虑与体验
-- [[code-review-genai-cs1]] — 入门编程课程中的口头代码评审访谈
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 手势作为口试解释中的证据
-- [[socratic-tests-conversational-assessment]] — 自动化对话测试作为口语考评
-- [[tool-invariant-framework-agentic-ai]] — 对 AI 辅助作品的口头答辩
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 标准化病人系统下的临床口头访谈
-- [[pgr-students-genai-uses-qualitative-2026]] — 生成式 AI 之下的博士答辩
-- [[computing-assessment-genai-workshop-report-2026]] — 《AI Can Do Your Homework. Now What?》：一场关于生成式 AI 时代计算机考评的在线研讨会报告
-- [[assessment-feedback-trilemma-model-2026]] — 否认任何形式占据固定位置，并把可行性重新框定为一项教育优先事项
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI 脚手架式的配对口试，作为商业统计课程中的排课变通办法
-- [[deng-certification-consultation-university-teaching-2026]] — 生成式 AI 之后的大学教学：超越讲授与探究，走向一种学习者成为评价者的认证与顾问范式
-- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面考评：先在观察下保障推理，再对在家完成的提交物评分，并对关联不清者设置条件性口试（Webb-Davies、Ratner 与 Bassett 2026）
-- [[challen-conversational-assessment-chat-exams-2026]] — 可规模化的对话式考评：采用双智能体大语言模型流水线的聊天式考试

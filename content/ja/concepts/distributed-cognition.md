@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,33 +77,3 @@ Fowlin ら（2026）は、その配分を2段階の順序として具体化し�
 - **「共有された文書は共有された認知を意味する。」** **97名の学習者**の量に基づくプロファイルは、**既有知識と著作の寄与**において異なりましたが、**能動的な役割や理解レベルのプロンプティング**においては異なりませんでした。参加の量は露出を測るものであり、認知的作業の配分を測るものではありません。したがって協働ツールの[[learning-analytics|利用分析]]は、誰が考えていたかについてほとんど何も語りません。
 - **「誰もが同じようにAIへ外部委託する。」** 新任教師は**教授設計の認知的負荷の大部分をAIシステムに委任し**、応答をほぼそのまま受け入れる**AI優位の分散**に至る一方、経験豊富でAIに習熟した教師は異なる仕方で負荷を配分します。専門性は、AIをどれだけ使うかだけでなく、負荷をどこに置くかに現れます。
 - **「AIの関与が増えるほど支援が増える。」** AI優位の分散は注視すべきパターンです。出力の量が増える一方で、人間が担う認知的作業の割合が縮むからです。利用者がより少なく行うまさにそのときに、システムはより有能に見ええます。
-
-## 関連する概念
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## 関連する記事
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 分散認知と共同調整のレンズを通じた人間とAIの協調的問題解決の実証研究
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — 人間と非人間のアクターにわたって認知を再配分する教育学的媒介者としてのAI
-- [[ai-cognitive-partner-co-regulation-learning]] — 共同調整された思考における認知的パートナーとしてのAI
-- [[ensemble-cognition-philosophy-ai-education]] — 思考を人間とAIの相互作用として再概念化するアンサンブル認知フレームワーク
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 生物的および人工的なシステムにわたって認知が分散されたポストヒューマンな学習者
-- [[fowlin-operationalizing-learning-principles-ai]] — 経験学習・状況づけられた学習と並ぶ分散認知の具体化
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知コモンズの悲劇:AI と専門性の再生
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 授業設計における教師とAIの相互作用:経験と習熟度による AI 優位と補完的な分散認知（Choi ら 2026）
-- [[xu-genai-collaborative-space-2026]] — 生成AIをエージェントおよび協働空間として:アクセス構成が集団の認知をどう分散させるか（Xu ら 2026）
-- [[cognitive-distribution-student-genai-interaction-2026]] — 認知分散フレームワーク:自己主導的な ChatGPT 利用から得られた5つの相互作用タイプと4つの役割
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI との取引記憶：分業と省察的な変容が批判的思考を媒介する（Akgun & Toker 2026）
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — 個々の学習者がなぜ誤った分析単位なのか
-- [[rivera-novoa-genai-extended-cognition-2026]] — 科学学習における拡張認知：GenAI は既定では代替的、設計によって補完的（Rivera-Novoa & Duarte Arias 2026）

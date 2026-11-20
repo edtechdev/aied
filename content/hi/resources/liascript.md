@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/liascript
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -48,8 +49,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 ## टिप्पणियाँ और सावधानियाँ
 
 LiaScript मुफ़्त है, कोई सशुल्क स्तर नहीं और कोई खाता आवश्यकता नहीं, और इसका विकास BSD-3-Clause के अंतर्गत खुलकर होता है, इसलिए संस्थाएँ इसे स्वयं होस्ट कर सकती हैं और उसमें परिवर्तन कर सकती हैं। Live Classroom सुविधा पर बड़े पैमाने पर भरोसा करने से पहले उस पर एक बार नज़र डालना चाहिए, क्योंकि वास्तविक-समय सिंक्रोनाइज़ेशन एक साझा सेवा का उपयोग करता है, पूर्णतः स्थानीय रेंडरिंग का नहीं। शिक्षण एजेंट नया और अभी थोड़ा ही अपनाया गया है, इसलिए इसे समर्थित उत्पाद के बजाय कार्यशील प्रोटोटाइप मानें।
-
-## संबद्ध अवधारणाएँ
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
-

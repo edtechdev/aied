@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-10-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 Campus AI Development is a free web guide on building software with AI in higher education, written
 from the institution's side of the question: what a campus needs to know about the tools its own people
@@ -58,9 +59,3 @@ and compliance logic. No reuse license is stated. Sibling sites
 [campusdatagov.com](https://campusdatagov.com/) and [campusairegistry.com](https://campusairegistry.com/)
 carry the data governance and agent registry parts, so this is a good entry to [[educational-policy-ai|educational AI policy]]
 work but not a substitute for it.
-
-## Connected Concepts
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

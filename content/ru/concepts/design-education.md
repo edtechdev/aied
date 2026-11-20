@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -73,46 +75,3 @@ ai_assist:
 - **«Студенты дизайна — энтузиасты внедрения.»** Та же когорта показывает **71% ежедневного или еженедельного использования GenAI, 65% недоверия к нему и 85% модификации его выдачи**. Частое использование и низкое доверие сосуществуют, поэтому инструмент, чьё ценностное предложение предполагает доверие, неверно прочитал пользователей.
 - **«GenAI в целом полезен на всём протяжении дизайн-процесса.»** Платформа GAI-A, построенная в лонгитюдном студийном исследовании, обнаружила **только два продуктивных использования**: GenAI как визуальный стимул на ранней стадии генерации идей и как **комбинаторный расширитель пространства решений во время разработки**. Полезность зависела от фазы.
 - **«Приросты творчества слишком рассеяны, чтобы их измерить.»** В **подгруппе из 31 студента** оценки творческого мышления выросли с **77,23 до 94,68 (d = 0.82)**. Прирост измерим и ограничен подгруппой — это и есть честная форма утверждения.
-
-## Связанные концепции
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Связанные статьи
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: рабочее пространство для студийной обратной связи с осведомлённой об артефакте ИИ-критикой; исследование готовности на симуляции, а не приростов в обучении
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — архитектурно-дизайнерский эксперимент, в котором рабочий процесс на DALL-E 3 снизил общую творческую самоэффективность
-- [[human-ai-collaboration-design-education-rubric-2026]] — рубрика процесса способна сделать верификацию ИИ оцениваемым объектом
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Осведомлённость о технологическом разрушении от ИИ, мышление дизайн-мышления и компетенция дизайн-инноваций у студентов-дизайнеров
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — установка как необходимый шлюз намерения студентов-дизайнеров использовать ИИ-агентов, с соответствием задаче–технологии как вторым путём (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — тип зависимости решает, становится ли промпт-грамотность вовлечённостью

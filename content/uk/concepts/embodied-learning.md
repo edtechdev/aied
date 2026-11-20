@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -65,35 +67,3 @@ ai_assist:
 - **«Тіло — це те, завдяки чому втілене навчання працює».** Мета-аналіз **11 досліджень RALL (N = 595, g = 0,83, I² = 84,4 %)** виявив, що **морфологія робота, модальність, автономність і соціальна роль не модерували** результати [[language-learning|навчання другої мови]]. Риси втіленості не були активним складником, а гетерогенність була достатньо високою (I² = 84,4 %), щоб об’єднаний ефект описував вельми змішаний набір інтервенцій.
 - **«Великий ефект вирішує питання механізму».** g = 0,83 із 595 учасниками в 11 дослідженнях — це реальний сигнал, і він не вказує, що його породило. Оскільки дизайнерські риси не модерували ефект, правдоподібний механізм лежить у педагогічній діяльності, а не в апаратурі, — що змінює те, у що варто інвестувати.
 - **«Втіленість не можна виміряти, тож вона залишається теоретичною».** Трекінг тіла може перетворити регуляцію на **вимірюваний сигнал**: у симуляції фотосинтезу в змішаній реальності, де рухомі теги пересували агентів-студентів проєктованою моделлю, конвеєр на LLM розмітив **470 сегментів** регуляційної поведінки. Конструкт операціоналізується навіть там, де його важко визначити.
-
-## Пов’язані поняття
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — модальність, яка намагається безпосередньо використати втіленість
-
-## Пов’язані статті
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Симуляція фотосинтезу з трекінгом руху, проаналізована конвеєром на LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Мультимодальна рамкова концепція втіленого пізнання в усних поясненнях
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Розвиток сталого навчання через втілену інтелігенцію (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper і жестова мова
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Інтеграція роботів і LLM у креативному письмі
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Метааналіз посиленого ШІ втіленого роботизованого навчання мовам
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — ШІ як фасилітатор після збудованих руками моделей: мовний ШІ не може йти за втіленим дослідженням (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — ШІ у втіленому навчанні переважно спостерігає: сенсорні ролі — 62,5% закодованих тегів ролей, і жодна оглянута система не поєднувала мультимодальні потоки під час роботи здобувачів (Kim & Han 2026)

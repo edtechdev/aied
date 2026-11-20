@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -87,29 +89,3 @@ VET में AI के बारे में विशिष्ट बात �
 **शोधकर्ताओं के लिए**
 
 - कम से कम कुछ अध्ययन कार्यस्थलों में करें। जो क्षेत्र कार्य-आधारित अधिगम से परिभाषित है और जिसके प्रमाण-आधार में कोई कार्यस्थल अध्ययन नहीं, उसने अपना केंद्रीय दावा अभी परखा ही नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## संबंधित लेख
-
-- [[ai-vocational-education-training-review]] — VET में AI पर पहली व्यवस्थित समीक्षा: उद्देश्य, सिद्धांत और अनुभवजन्य प्रभावशीलता
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: इमर्सिव परियोजना-आधारित शिक्षण और डिज़ाइन रचनात्मकता
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: TVET में ऑफलाइन AI-समर्थित मौखिक आकलन
-- [[ai-pedagogical-accompaniment-amico]] — Amico दोहरा-मोड प्रोटोटाइप: डिज़ाइन सिद्धांत और Observable संकेतक
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-सहायित स्वायत्त शिक्षण और घटा हुआ उपलब्धि, hardiness द्वारा मध्यस्थ
-- [[astra-atco-training-simulator]] — स्केलेबल ATCO प्रशिक्षण के लिए स्वायत्त sim-pilots
-- [[crewscaler-ai-upskilling-framework]] — त्वरित व्यावसायिक कौशल-उन्नयन के लिए AI-त्वरित अंत-से-अंत ढाँचा
-- [[genai-xr-architectural-design-education-2026]] — प्रतिमामला: घटते डिज़ाइन self-efficacy के साथ GenAI प्लस मल्टी-यूज़र XR
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — अनुकूली CTE पाठ्यचर्या नवीनीकरण, पाँच आयाम और छह नेतृत्व-परीक्षण
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — व्यावसायिक महाविद्यालयों में अनुभूत ICT समर्थन एक संस्थागत उत्तोलक के रूप में

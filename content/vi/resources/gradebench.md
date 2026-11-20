@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,9 +44,3 @@ Giảng viên đang cân nhắc có nên để một công cụ chấm điểm c
 ## Ghi chú và lưu ý
 
 GradeBench do Pensive, một nền tảng chấm điểm AI thương mại, công bố, nên chuẩn đánh giá và sản phẩm cùng chung một chủ sở hữu; cách xây dựng nhiệm vụ được ghi chép đầy đủ và có thể bảo vệ được, nhưng hãy coi cách định khung là của nhà cung cấp. Nó bao gồm các bài thi STEM với rubric có ít nhất bốn mục, tức là loại trừ bài luận, câu trả lời ngắn và bài đăng thảo luận — những định dạng mà phần lớn việc chấm điểm [[humanities-education|nhân văn]] diễn ra. Khớp rubric chính xác là một thước đo nghiêm ngặt: hai người chấm có thể bất đồng về một mục và cả hai đều đúng về phía sinh viên. Các điểm số mô tả những phiên bản mô hình hiện có vào tháng mười một năm 2026 và sẽ còn thay đổi.
-
-## Khái niệm liên quan
-
-- [[automated-assessment]] — thực hành mà chuẩn đánh giá này đo lường
-- [[assessment-validity]] — tiêu chí mà điểm số trên bảng xếp hạng đóng vai trò chỉ báo thay thế
-- [[benchmark]] — lớp công cụ rộng hơn mà nó thuộc về

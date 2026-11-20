@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -76,7 +78,6 @@ ai_assist:
 - **وسّع [[scaffolding|سقالة]] الذكاء الاصطناعي إلى [[reading-education|القراءة التعاونية]].** مع 63 طالبًا صينيًا في تخصص اللغة الإنجليزية في دراسة تعليق اجتماعي مدعومة بالذكاء الاصطناعي التوليدي، وجد [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] أن روبوت المحادثة رفع الانخراط المعرفي والوجداني وأداء القراءة وربط [[community-of-inquiry|الحضور الاجتماعي]] بالتكامل والحلّ، وإن كانت المجموعات عالية التحصيل قد استخدمت السقالة أكثر بكثير.
 - **الجاهزية، لا الأداء الملاحَظ.** عبر 708 متعلّمين، ارتبطت ممارسة التحدث المدعومة بالذكاء الاصطناعي الأكثر برغبة أعلى في التواصل موجّهة نحو البشر (β = 0.384) وبـ[[anxiety-and-stress|قلق]] أقل من التحدث باللغة الأجنبية (β = −0.416)، بينما خفّضت سيناريوهات مساعد الصوت بالذكاء الاصطناعي القلق المتوقَّع أكثر؛ ولم تلاحظ أي من الدراستين تحدثًا بشريًا فعليًا ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
-
 - **راقب مخرَج الذكاء الاصطناعي للخطأ العملي لا النحوي فحسب.** سُمّى معلّمون عبر خمس مناهج لتعليم اللغة عبر الإنترنت العمى العملي، حيث يكون مخرَج الذكاء الاصطناعي صحيحًا نحويًا لكن خاطئًا في النبرة أو الرسمية أو الثقافة ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi and Khan (2026)]]).
 - **أعطِ الأولوية لجودة التغذية الراجعة على كمّها في التحدث المدعوم بـASR.** يجد [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] أن تصحيح الأخطاء الدقيق ومهام التأمل المنظَّمة تحسّن استيعاب [[feedback|التغذية الراجعة]] والسلوك التأملي في التحدث الإنجليزي الجامعي، بينما يعزّز استخدام ASR المتكرر ودقة التعرّف الدافعية أو التأمل جزئيًا فقط — فالدقة التقنية وحدها لا تحرّك انخراطًا معرفيًا أعمق، وتُعدّل الكفاءة اللغوية المكاسب (فالمتعلّمون الأقوى يستوعبون التغذية الراجعة بفعالية أكبر). وهذا يُحاجّ بتغذية راجعة سليمة تربويًا (مثلًا، تفسيرات نُطقية فوق أعلام الأخطاء البسيطة)، وتأمل مسنَد، ودعم مُفروق بحسب الكفاءة.
 - **أعطِ دلائل قبل التصحيحات.** خفّضت مهمة ChatGPT «الدليل قبل التصحيح»، التي يستنتج فيها المتعلّمون الإصلاحات من تلميحات موجَّهة بدل تلقي تصحيحات مباشرة، الحمل المعرفي وأسندت التنقيح المخصّص — لكن النفع بقِي في الأساس للمتعلّمين الذين كانت لديهم [[prior-knowledge|معرفة مسبقة]] كافية (58 طالبًا، CEFR A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová & Jennings (2026)]]).
@@ -100,60 +101,3 @@ ai_assist:
 - **"يعمل مدرّبو الروبوتات المتجسدة بفضل التجسد نفسه."** وجد تحليل بَعْدي لـ **11 دراسة RALL (N = 595)** أثرًا مجمَّعًا كبيرًا على تعلّم L2 (**g = 0.83**) بـ**تغاير عالٍ**، والأهم أن سمات **مستوى التفاعل وحدها** عدّلت الأثر. ولم تُعدّله المورفولوجيا ولا الوسيط، فالأجهزة ليست المكوّن الفعّال.
 - **"البنود التقييمية المولَّدة بالذكاء الاصطناعي أدنى من تلك التي يكتبها المعلّم."** وجدت مقارنة **52 مهمة تقويم EFL قيّمها 20 معلّمًا ذا خبرة** **لا فرق جودة دال إجمالًا** بين البنود المولَّدة بالذكاء الاصطناعي والمطوّرة بشريًا، لكن مع تباين في أبعاد معيّنة. فالتكافؤ الإجمالي مع نقاط ضعف محدّدة ادعاء مختلف عن التحسّن أو القصور.
 - **"لا تستطيع تغذية النماذج اللغوية الكبيرة الراجعة إلا تقييم الكتابة."** يمضي نظام على مستوى الخطاب أبعد من ذلك بـ**تسمية العيب بدل تقييم النص**، إذ يحدّد تصنيف علاقات أزواج الجمل **كسور الترابط** مثل القفزات المنطقية والوصلات المفقودة. فالمخرَج المفيد تشخيصي لا رقمي.
-
-## المفاهيم المتصلة
-
-- [[eportfolio]]
-- [[writing-education]]
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## المقالات المتصلة
-- [[chatbots-oral-proficiency-efl-systematic-review]] — مكاسب المحادثة الآلية في الكفاءة الشفهية تتركّز في المدى والوضوح النطقي
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
-- [[llm-agents-5e-esl-grammar-2026]] — وكلاء نماذج لغوية كبيرة بإطار 5E لاكتساب قواعد الإنجليزية كلغة ثانية (Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR technology in college English speaking: feedback internalization and metacognitive strategies
-- [[genai-writing-program-primary-l2-motivation-engagement]] — برنامج كتابة مدعوم بالذكاء الاصطناعي التوليدي لمتعلّمي L2 في المرحلة الابتدائية (Lu et al. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — العمى العملي: قد يكون مخرَج لغة الذكاء الاصطناعي صحيحًا نحويًا وخاطئًا ثقافيًا
-- [[ai-speaking-practice-communicative-readiness-2026]] — الجاهزية لا الأداء الملاحَظ
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — وسّع سقالة الذكاء الاصطناعي إلى القراءة التعاونية
-- [[acoustic-lexical-native-language-identification-learners-2026]] — الصوت يتفوّق على مصنّف GPT-4o للنصوص في تحديد اللغة الأولى (Uluslu et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — تغذية راجعة على العملية رفعت استشارة المصادر وخفضت استخدام الترجمة الآلية في مقرر ترجمة أخبار
-- [[wordofa-genai-grammar-instruction-efl-2026]] — تعليم القواعد بمساعدة الذكاء الاصطناعي التوليدي والكفاءة الذاتية والوعي ما وراء اللغوي لدى متعلّمي الإنجليزية الإثيوبيين

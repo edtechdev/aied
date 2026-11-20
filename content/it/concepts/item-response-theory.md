@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -72,37 +74,3 @@ L'IRT è un fondamento della [[educational-measurement|misurazione educativa]] e
 - **"Un benchmark che quasi tutti i modelli superano è un buon benchmark."** Un benchmark allineato agli standard può **saturare**: su insiemi di scienze allineati a NGSS per la scuola secondaria di primo grado e la scuola superiore, **la maggior parte dei modelli open-weight ha superato il 90%**, lasciando povere le metriche classiche degli item. La saturazione non significa che i modelli siano eccellenti; significa che gli item non discriminano più.
 - **"La difficoltà di un item è una proprietà intrinseca dell'item."** Una sonda causale che ha **modificato 50 domande di test per dataset** verso o lontano da un'ipotesi ha rilevato che **le modifiche che aumentano la difficoltà riducono l'accuratezza media di 15,27 e 23,88 punti percentuali** su GSM8K e BBH-structured. La difficoltà è una relazione tra item e modello, e si muove quando l'item si muove.
 - **"L'IRT serve solo a valutare i discenti."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] usa un **modello 2PL gerarchico bayesiano con item di ancoraggio pre-test per collocare 1.686 studenti**, il che è garanzia di qualità della valutazione stessa anziché punteggio per lo studente.
-
-## Concetti collegati
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Articoli collegati
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Un quadro unificato di risposta per domande e dialoghi di tutoring
-
-- [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
-- [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM difficulty calibration in programming exams
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-benchmark-secondary-science-topics-2026]] — Un benchmark allineato agli standard può saturare

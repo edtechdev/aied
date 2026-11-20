@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,16 +48,3 @@ Cadre didactice din toate disciplinele, mai ales din învățământul superior 
 ## Note și precauții
 
 Acesta este un ghid practic, nu un studiu empiric; afirmațiile despre folosirea IA de către studenți se sprijină pe surse externe citate (BestColleges, Campbell, Digital Education Council, Flaherty), nu pe date noi. Cadrul „construcției de rețea” și formularea „iluzia înțelegerii” provin din literatura mai largă (Wigmore et al.; Williamson et al.) și sunt prezentate ca rațiune pedagogică, nu ca rezultate testate ale caietului. Sarcinile sunt șabloane autorale — niciuna nu este raportată cu mărime a efectului, așa că trebuie tratate ca proiecte de adaptat și de evaluat local. Publicat pe 2026-10-07, v1, pe Zenodo sub CC BY 4.0; descărcare gratuită, fără cont. La data ingerării, înregistrarea arată doar ~35 de vizualizări și ~14 descărcări, deci a avut până acum puțină utilizare externă și puțină recenzie inter-pares.
-
-## Concepte conexe
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,12 +48,3 @@ Sinh viên đang làm một bài đọc hoặc một bộ bài tập muốn đư
 ## Ghi chú và lưu ý
 
 Không có giá hay tài khoản nào được công bố cho công cụ dành cho sinh viên, trong khi triển khai cho cơ sở — đám mây, tại chỗ hoặc lai — được cung cấp qua đề xuất riêng và một cuộc họp; hãy coi "miễn phí" là trạng thái của bản demo công khai vào tháng 11 năm 2026, không phải bảo đảm. Văn bản và hình ảnh đi tới một dịch vụ được lưu trữ chạy bằng Claude, và chính trang khuyên người dùng xóa tên, số tiền, địa chỉ và tên công ty trước khi tải lên, điều này chuyển gánh nặng khử nhận dạng sang người tải lên thay vì nền tảng. Các phiên tự xóa sau một giờ trừ khi được xuất. Công ty đứng sau cũng bán một nền tảng đánh giá đồ thị lập luận rộng hơn cho các cơ sở, và các tuyên bố về việc phân biệt đồ thị suy diễn, quy nạp, suy luận giả định và loại suy đến từ bốn văn bản tham chiếu — trang gọi đó là một minh họa, còn việc kiểm chứng ở quy mô lớn vẫn chưa tới.
-
-## Khái niệm liên quan
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

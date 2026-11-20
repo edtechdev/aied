@@ -19,6 +19,8 @@ ai_assist:
 translation_of: concepts/music-education
 source_updated: "2026-11-16T20:55:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -72,26 +74,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **“AI 反馈替代教师的耳朵。”** 音准研究移除了教师且改善了音高，但作者称该工具是补充性的，且只测量了一项技能、为期四周；Li 明确论证，测得的偏差不等同于具身的协调。
 - **“生成式音频工具教作曲。”** Briot 对自主生成器与交互式助手的区分正是反证：提示即成品把学生置于产出消费者的位置，只有施加约束、学习风格的系统才作为伙伴运作。
 - **“如果自动评分与教师平均分一致，它就准备好了。”** 平均值上的一致可能掩盖维度层面的分歧，这正是 Lin 等人建议按标准验证并保留人类监督的原因。
-
-## 关联概念
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## 关联文章
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot（2026）：去物质化、流媒体分成，以及自主生成器与交互式助手的区分
-- [[ai-feedback-violin-intonation-2026]] — 十二名小提琴学生，四周无教师的 AI 音高分析，音准从 144.75 升至 207.33
-- [[ai-vocal-pedagogy-2026]] — Li（2026）：可测量的音高偏差不是具身的协调
-- [[embodied-string-learning-blindness-low-vision-musicians]] — 四名盲与低视力弦乐演奏者；触觉与动觉线索替代视觉示范
-- [[gpt4o-mini-music-analysis-scoring]] — 300 份音乐分析作答；少样本思维链最接近教师平均分，RAG 给分偏高，术语上更弱
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 34 名音乐学学生参加游戏化 AI 测验：形式比内容更让他们分化
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 跨模态音谱对齐，节奏错误召回率 91.2%，120 名参与者进步更快
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 850 名本科生，五波：参与、心流与情绪智力作为平行增长
-- [[chatgpt-music-education-junior-high-2026]] — 508 名台湾初中生对用 ChatGPT 学歌词的看法
-- [[middle-school-genai-steam-interactions-2026]] — 十二名八年级学生在一个数学与音乐 STEAM 模块中的表现

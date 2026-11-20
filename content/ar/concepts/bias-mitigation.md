@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -71,7 +73,6 @@ ai_assist:
 
 **يمكن للدقة المُجمَّعة أن تُخفي نموذجاً لا يستطيع العثور على الطلاب المتعثّرين.** درّب [[hooshyar-responsible-trustworthy-educational-data-mining-2026|هوشيار وآخرون (2026)]] ثلاث عائلات نماذج على مجموعة إستونية واحدة وقسّموها بطريقتين. على المجموعة المتوازنة كانت العائلات متقاربة. وعلى التقسيم غير المتوازن، مع 125 طالباً تحت الربع الأول مقابل 328 فوقه، بلغت أشجار القرار وشبكة بايز والغابات العشوائية استدعاء 8% و12% و16% للضعيفي الأداء عند دقة 80%، ولم يتجاوز النموذج العصبي الرمزي 50% وحده.
 
-
 ## مداخل التخفيف
 
 تُظهر أبحاث قاعدة المعارف عدّة استراتيجيات متكاملة:
@@ -111,59 +112,8 @@ ai_assist:
 
 كل ما في هذه الصفحة يتعلق بالانحياز داخل النظام. أما [[automation-bias|انحياز الأتمتة]] فيتعلق بالانحياز في الشخص الذي يقرأ مخرجاته — قبول توصية كان الإنسان سيتساءل عنها لو وصل إليها وحده — وهو يصمد حتى حين يكون النموذج دقيقاً.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«الانحياز مشكلة تصحيح وتغذية راجعة.»** يدخل الانحياز **أصناف مهام خارج التصحيح**: فثلاثة نماذج لغوية كبيرة تُسند **صفوف هندسة برمجيات من 28 طالبًا إلى أربعة فرق وجّهت الرجال أقل بنسبة 80% على الأقل من** التوزيع المرجعي. فتشكيل الفرق حمل انحيازًا بمقدار يقارب التصحيح.
 - **«تقديم المهارة الملائمة يزيل الانحياز.»** تقديم المهارات **قلّل الانحياز ولم يزله**: فـ**99.2% من الإسنادات القائمة على المهارة طابقت واحدة من فريقين مرجعيين، ومع ذلك ظل الجندر يحسم بين خيارين متكافئي الصلاحية (OR 2.53)**. فالتطابق شبه الكامل في المهمة تعايش مع أثر للجندر، لذا فالدقة على المعيار الأساسي ليست دليلًا على العدالة.
 - **«مدخل تخفيف واحد كافٍ.»** تُظهر الأبحاث **استراتيجيات متكاملة** — منها النمذجة الواعية بالعدالة — لأن الانحياز الداخل عند التشكيل لا يعالجه إصلاح موجَّه إلى نص المخرجات.
-
-## المفاهيم المرتبطة
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — فشل جانب القارئ الذي لا تغطّيه هذه الصفحة: قبول توصية دون فحصها
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## المقالات المرتبطة
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
-- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
-- [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[temporal-smoothness-debiased-kt]] — Debiased knowledge tracing
-- [[ground-truth-reliability-aied]] — Modernizing ground truth for AI reliability
-- [[data-annotations-pedagogical-hints]] — Data annotations as pedagogical hints
-- [[xai-education-framework]] — Explainable AI in education
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
-- [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — تحت اختلال توازن الصف لم تستطع ثلاث عائلات نماذج تحديد ضعيفي الأداء بينما بدت المقاييس المتوازنة سليمة
-

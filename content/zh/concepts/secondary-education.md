@@ -16,6 +16,8 @@ ai_assist:
 translation_of: concepts/secondary-education
 source_updated: "2026-11-15T06:35:09-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -125,41 +127,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **"检测能告诉你哪些句子是人工智能写的。"** 句子层面的 F1 降到 0.88，召回率在一次学生风格的改写后降到 0.60，而在使用聊天机器人之后、没有复制材料的文本有 94.6% 被读作人类所写。
 
 - **"批判性的[[ai-literacy|人工智能素养]]可以等到大学再学。"** 使用率从 12 岁到 17 岁逐年上升，而感知可靠性持平，并且 8–9 年级的一场两小时工坊在两天后改变了提示与追问行为。
-
-## 关联概念
-
-- [[k-12]] — 涵盖小学与中等教育的上一级学段。
-- [[primary-education]] — 前一个学段，那里主导的是发展适宜性。
-- [[undergraduate-education]] — 下一个学段，那里由大班课程与学业指导接管。
-- [[intelligent-tutoring]] — 大多数中等教育成绩试验背后的系统类别。
-- [[academic-integrity]] — 人工智能辅助课程作业的政策与推理框架。
-- [[ai-detection]] — 文本与回应模式方法及其局限。
-- [[automated-assessment]] — 评分与打分，包括使其可用的那个分派给人工的环节。
-- [[assessment-validity]] — 一个分数或基准能够支撑什么。
-- [[ai-literacy]] — 把使用与理解区分开来的知识与调节习惯。
-- [[help-seeking]] — 决定导师是否在困难时刻被使用的那个行为。
-
-## 关联文章
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 田纳西州 18 所初中的两年整群试验。
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Medly 在 GCSE 科学中的四周多中心 RCT。
-- [[leite-its-k12-meta-analysis-2025]] — 18 项美国智能辅导实验及其随时间的衰减。
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 项按学段分析的 AI 支持 STEM 教学研究。
-- [[genai-learning-motivation-meta-analysis-2026]] — 42 项动机对照研究，中等教育作为其中一个亚组。
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 在七所英格兰学校进行的预注册阅读实验。
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 1,507 名学生、一条反馈消息与修改增益。
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 122 名七年级学生与一个扣留答案的助手一起写作。
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 8–9 年级的两小时工坊，以行为来测量。
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 1,598 名 12–25 岁的学生；使用先于审慎上升。
-- [[schaller-ai-text-detection-authentic-writing-2026]] — PISA 2025 击键研究对文本层面与句子层面检测的考察。
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 133 名香港学生就目的与意图做的推理。
-- [[ai-marking-accuracy-gcse-physics-2026]] — 商用评分器对照 AQA 分数与一个教师小组。
-- [[porcaro-ai-grading-benchmark-2026]] — 22 个模型接受钻空子、标签效应与一致度测试。
-- [[wu-genai-scientific-literacy-china-2026]] — PISA 2025 科学素养与聊天机器人使用目的。
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — 2,464 名 7–8 年级的德国学生。
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 项研究的 PRISMA 综述；26 项使用研究对 7 项影响研究。
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 500 名 7–12 年级学生；自评的使用深度与能力。
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 513 名杭州学生；焦虑在施行阶段而非意向阶段。
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — 93 名意大利学生上的 19 题态度量表；试点级测量。
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 名受访者；感知学习对照一个投入指数。
-- [[cho-chatgpt-high-school-gpa-2025]] — 按科目、学校类型与社会经济地位划分的 GPA 关联。

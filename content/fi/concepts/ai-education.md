@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -189,60 +191,3 @@ Tekoäly koulutuksessa liittyy jokaiseen konseptiin tietopohjassa — se on ala,
 **”Koska tekoäly on yleiskäyttöistä, jossain saatu löydös pätee kaikkialla.”** Teknologian yleisyys ei luo näytön yleisyyttä. Oppiaineen, tason ja kontekstin säikeet ovat olemassa, koska sama työkalu käyttäytyy niissä eri tavoin, ja rajan yli muuttumattomana siirretty löydös on ekstrapolaatio.
 
 **”Alan kypsyys voidaan lukea julkaisumäärästä.”** Määrä ja kypsyys eroavat toisistaan; tutkimusmenetelmien säie dokumentoi toistuvia suunnittelun heikkouksia, joita määrä ei korjaa, ja viitekehyksiä syntyy nopeammin kuin niitä testataan.
-
-## Liittyvät käsitteet
-- [[primary-education]] — Tekoäly perusopetuksessa
-- [[secondary-education]] — Tekoäly yläkoulussa ja lukiossa
-- [[undergraduate-education]] — Tekoäly kandidaattitason opinnoissa
-- [[graduate-education]] — Tekoäly maisteri- ja tohtoriopinnoissa
-- [[pedagogical-patterns]] — Testatut jonot, jotka operationalisoivat alan pedagogiikat
-- [[ai-literacy]] — katto: tekoälyn ymmärtäminen, käyttäminen ja arvioiminen
-
-- [[automation-bias]] — lukijapuolen virhe: automaattisen päätöksen hyväksyminen sitä tarkistamatta
-- [[human-ai-collaboration]] — katto: miten ihmiset ja tekoäly työskentelevät yhdessä
-- [[pedagogy]] — katto: opetusmenetelmät ja strategiat
-
-- [[case-based-learning]] — tapausmenetelmä, tapauskeskustelu ja kontrastoivat tapaukset
-- [[metaphors-and-analogies]] — miten metafora muovaa tekoälyn ymmärtämistä ja miten analogia tukee opetusta
-- [[learning-theories]] — katto: miten oppiminen tapahtuu
-- [[ai-technologies]] — katto: mallit, tekniikat ja järjestelmät
-- [[discipline-specific-aied]] — katto: tekoäly eri ainealueilla ja tasoilla
-- [[assessment]] — katto: miten tekoäly arvioi oppijoita ja muokkaa validiteettia
-- [[feedback]] — katto: miten palaute luodaan, toimitetaan ja käytetään
-- [[stakeholders]] — katto: keitä toimijat ovat
-- [[learners]] — katto: oppijapuolen konseptit (kokemus, identiteetti, toimijuus, vuorovaikutus, oppijamallit)
-- [[ai-ed-evaluation]] — katto: miten tiedämme toimiiko tekoäly
-- [[research-methods-aied]] — katto: vaikuttavuuden tutkimusmenetelmät
-- [[ai-assisted-educational-research]] — Tekoälyavusteinen koulutustutkimus
-- [[governance]] — katto: institutionaalinen ja sääntelevä kerros
-- [[educational-policy-ai]] — katto: politiikka, ohjeistus ja toimeenpano
-- [[equity-in-ai-education]] — katto: oikeudenmukaisuus, saatavuus ja osallisuus
-- [[learning-sciences]] — AIEDin taustalla oleva empiirinen ala
-- [[ethics]] — tekoälyn eettiset ulottuvuudet koulutuksessa
-- [[misconceptions]] — mentaaliset mallit, jotka ihmiset tuovat tekoälylle
-- [[interpreting-and-applying-aied-research]] — tutkimuksen lukeminen ja havainnon vieminen käytäntöön
-- [[limitations-in-aied-research]] — evidenssipohjan poikkileikkaavat rajat
-- [[meta-analysis-systematic-review]] — mitä katsaukset ja meta-analyysit osoittavat
-- [[history-of-aied]] — miten ala on kehittynyt
-- [[philosophy-of-ai-in-education]] — filosofiset perusteet
-- [[theories-and-frameworks]] — teoria- ja viitekehyssolmujen kartta
-- [[theory-development-aied]] — teorian rakentaminen ja tarkistaminen
-
-- [[sensor-and-gaze-analytics]] — katto: oppijoiden aistiminen katseen, EEG:n ja puettavien signaalien kautta
-- [[ai-avatars-and-synthetic-instructors]] — katto: synteettiset ihmiset opettamassa, opastamassa, simuloimassa ja arvioimassa
-- [[civic-and-political-education]] — ainealue: lukutaito julkista elämää varten, ohut evidenssipohja
-
-## Liittyvät artikkelit
-
-Alan laajuisia katsauksia tekoälystä koulutuksessa — tutkimuksia, jotka kartoittavat koko alaa tai kokonaista oppimistasoa yhden aiheen sijaan:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Tekoäly- ja koulutustutkimuksen kehitys neljän vuosikymmenen ajalta (AIxEd-viitekehys)
-- [[mishra-control-vs-agency-history-2025]] — Hallinta vs. toimijuus: tekoälyn historian katsaus koulutuksessa
-- [[genai-higher-education-systematic-review-2026]] — Generatiivinen tekoäly korkeakoulutuksessa: 125 tutkimuksen systemaattinen katsaus
-- [[stanford-evidence-base-ai-k12-2026]] — Evidenssipohja tekoälystä K-12-tasolla: 52 vahvaa kausaalitutkimusta 1 686 arkistoartikkelista (marraskuun 2026 päivitys)
-- [[genai-educational-outcomes-meta-analysis]] — Generatiivinen tekoäly ja koulutukselliset tulokset: kattava meta-analyysi
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 toisen asteen tutkimusta; hyödyt siellä, missä opiskelijat arvioivat tuotosta, eivät siellä, missä työkalu tuottaa työn
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 maisteriopiskelijaa; valmius saavutti itsetehokkuuden ohjaajan tuen kautta
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61 lähteen katsaus tohtorikoulutuksen ohjauksen etiikasta, palautteesta ja hallinnosta
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Yhden ryhmän jatko-opintoseminaari; itseohjautuvan oppimisen hyödyt ilman avustamatonta testiä
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 opiskelijaa; kandidaatti- ja maisteritason kuilu etiikassa ja itsesäätelyssä

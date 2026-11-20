@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -51,11 +52,3 @@ Smjernice su iskrene o vlastitom statusu. Njihovi autori unose nazivaju hipoteza
 Dva daljnja ograničenja važna su za poučavanje. Preporuke su dizajnerski poticaji, a ne ispitane intervencije; ništa na mjestu ne izvješćuje o ishodu. I struktura dobnih raspona nameće grubu mrežu razvoju koji varira unutar raspona, među kulturama i među kontekstima, što i sam vodič priznaje.
 
 Okvir koji vrijedi prenijeti u praksu vlastiti je okvir mjesta: držite petlju ljudskom, pa razradite gdje se AI uklapa u nju, umjesto da stavljate ljudsku kontrolnu točku u petlju koja pripada stroju — ista briga koju korpus bilježi kao rizik [[cognitive-offloading|kognitivnog rasterećenja]] kada alat preuzme onaj dio zadatka koji je obavljao razvojni rad.
-
-## Povezani pojmovi
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

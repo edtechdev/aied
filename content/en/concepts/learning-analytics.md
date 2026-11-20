@@ -17,6 +17,8 @@ ai_assist:
     role: revision
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 > **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
@@ -53,7 +55,6 @@ ai_assist:
 Sensor and gaze analytics is a second instrument family feeding the same learner models, drawing on eye tracking, EEG, electrodermal activity and heart rate to estimate attention, engagement and cognitive load ([[sensor-and-gaze-analytics|sensor and gaze analytics]]). Its validity and consent problems are steeper than trace data's, because the measurements are biometric and the step from body to mental state is an interpretation.
 
 **Model course concurrency, not just sequence.** TRACE gives every course in a semester the same positional encoding, and jointly predicting courses and grades cut grade-prediction error to 0.1339 MAE — a 46.4% reduction over a grades-only transformer — on ten years of institutional data ([[trace-course-grade-prediction-2026|Savala (2026)]]).
-
 
 **Interaction data is a representation problem before it is a modeling one.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] treat each human-AI exchange as one structured record carrying the computation that motivated the request, the request, the response, the user's feedback and the execution that followed, rather than as an isolated prompt. Across 140 student-assignment pairs in a 35-student deployment, interaction count alone correlated with successfully executed cells at r = 0.12, and the same call could be an error recovery, a next step, a concept check or a validation depending on the state around it. Thirty-seven pairs with access produced no interactions at all, so absence of AI use in a log cannot be read as absence of need.
 
@@ -107,7 +108,6 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: [[governance|institutional]] strategic orientation, pedagogical & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. [[trust|Trustworthiness]] (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
 - **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]]: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
 
-
 - **A shared interaction unit is missing.** Across 46 categorizations from 33 studies there is no shared meta-characteristic — similar labels name different phenomena — so the review proposes the *interaction episode*, a goal-directed bounded exchange, as the unit for correlating dialogue with skill acquisition ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 - **Simulating collaborative discourse for learning analytics.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
 - **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark|benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analyzing interaction and participation balance in collaborative programming. Log and trace data are the natural counterweight to [[self-report-measures|self-report]] in this literature: the same construct is often measured twice, once by asking and once by observing, and the two do not always agree. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritizing [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026|Verma et al., 2026]]).
@@ -140,74 +140,3 @@ Holding the multimodal indicators constant and adding only a narrative explanati
 - **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
 
 Semantic analytics can score reasoning only where the categories are defined tightly enough to score. In a five-hour AI ethics module with 90 students, human coders reached Krippendorff α = 0.82 on 1,094 meaning units, and the human-in-the-loop classifier reached macro-F1 = 0.83 [0.78, 0.87] across 17 issue and solution categories, falling to 0.68 on the smallest ([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang & Yi (2026)]]). The single-group pre-post design cannot attribute the observed gains to the module.
-
-## Connected Concepts
-
-- [[automation-bias]] — Why a flag that exists gets acted on without being checked
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
-- [[sensor-and-gaze-analytics]]
-
-## Connected Articles
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: interpreting clickstreams through literature-defined learning strategies (Radmehr et al. 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Human-AI exchanges as structured records: prompt counts carry almost no signal about progress
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Noticing and orchestrating AI analyses into collective argumentation (Lee, Park & Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
-
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
-- [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse
-- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Active-control microteaching study isolating the explanation layer: interpretation moved, action did not (Liu et al. 2026)
-- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — Human-in-the-loop semantic scoring of moral reasoning, strong on large categories, weak on small ones
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
-- [[konca-digital-traces-critical-online-reasoning-2026]] — Pooled trace correlations reflect task differences, not student differences (Konca & Mehler, 2026)
-

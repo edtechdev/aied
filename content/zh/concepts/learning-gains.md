@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -160,68 +162,3 @@ ai_assist:
 **"更多练习与更多[[personalized-learning|个性化]]总是有帮助。"** 一项收益的大小取决于所训练的是什么，而不是提供了多少支持。[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 等（2025）]]报告，例题与习题的最优混合比例随目标技能而变：纯粹的提取练习对逐字事实产生更高收益，而例题与习题交替对可泛化技能产生更高收益。而[[lak2026-hint-button-unproductive-use|提示按钮研究]]发现提示使用量与学习呈负相关。帮助一个知识组件的同一种"支持"，可能浪费另一个。
 
 **"延迟后测的结果自动就是持久学习的结果。"** 延迟是必要条件，而非充分条件。在这批文献中，区分持久学习的是在延迟条件下进行的*无辅助*测量，以及有证据表明该效应并非由迁移时将缺席的脚手架所承载。
-
-## 关联概念
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — AI 教育中的理论发展
-- [[self-report-measures]]
-- [[research-methods-aied]] — AIED 研究方法（DBR 一节）
-- [[social-emotional-learning]] — 社会情感学习
-- [[student-support-and-success]] — 行政性结果（任务完成、学分、坚持、毕业）与学习收益有别
-
-## 关联文章
-
-- [[chen-genai-programming-understanding-2026]] — 24 名本科生：受助测试通过数上升，而无辅助理解未改进（Chen 等，2026）
-- [[gardella-copilot-fast-forgettable-2026]] — 22 名程序员：受助收益未能持续到无辅助重测（Gardella 等，2026）
-- [[epistemological-audit-genai-meta-analyses-2026]] — 对生成式 AI 教育研究中早期证据综合的批判性认识论审计（Fütterer 等人 2026）
-- [[contractor-learning-impact-generative-ai-2026]] — 现成聊天机器人访问提高了一周后仍持续的无辅助测试分数（Contractor & Reyes 2026）
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 辅导优于课堂主动学习：一项在真实教育情境中引入新研究设计的 RCT（Kestin 等人 2025）
-- [[genai-performance-vs-learning]] — 为何受助表现不是学习结果（Yan 等人 2025）
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 与 CAL 的虚拟辅导：一项关于采纳与学习的实验
-- [[making-ai-tutoring-productive-mastery-math-2026]] — 使 AI 辅导有成效：基于掌握的数学练习
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away：Khanmigo 在两年学校实验中
-- [[ai-literacy-assessment-misalignment]] — AI 素养评估：自报与表现错位
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: 生成式 AI 减少数学问题的学习时间及其建立的知识
-- [[genai-meta-analysis-programming-learning]] — 生成式 AI 对编程生产力与学习之影响的元分析
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 素养干预效应的元分析
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT 帮助产生与人类导师帮助等效的学习收益
-- [[generative-ai-guardrails-harm-learning]] — 无护栏的生成式 AI 可能损害学习（PNAS 2025 RCT）
-- [[absent-cognitive-baseline-2026]] — 缺席的认知基线：对 AI 原住民大学生学业自评中结构性差距的理论化
-- [[oecd-digital-education-outlook-2026]] — OECD 数字教育展望 2026
-- [[ai-changing-teaching-workflows]] — AI 如何改变教学工作流
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI 增强具身机器人辅助语言学习的元分析
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 即时表现对持久学习之分
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 学习惩罚：作业外包损害学习
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI 辅助协作学习模型 DBR（批判性思维 +24.1%，问题解决收益）
-- [[stanford-evidence-base-ai-k12-2026]] — 辅导专用对通用 AI
-- [[jost-llm-programming-education-learning-outcomes]] — 编程中的 LLM 依赖与成绩（负相关）
-- [[genai-can-harm-teaching-rct-2026]] — 生成式 AI 能损害教学（RCT）
-- [[zhao-genai-higher-order-thinking-meta-2026]] — 生成式 AI 与高阶思维元分析
-- [[mujib-ai-ibl-creative-math-2026]] — AI 支持的 IBL 与创造性数学表现
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI 增强 PBL 支架收益
-- [[ccct-cooperative-learning-technique]] — AI 设计的合作学习技术
-- [[scaffolding-srl-feedback-genai-human-peers]] — 支架化自我调节反馈收益
-- [[learner-ai-interaction-patterns-oop]] — 面向对象编程中的交互模式与学习收益
-- [[ai-feedback-critical-thinking-writing-2026]] — AI 反馈与写作中的批判性思维
-- [[pedagogy-ai-mistakes]] — AI 错误的教学法：培养高阶思维（Hosseini 2026）
-- [[computational-thinking-aica-2026]] — 计算思维层次与 AI 编程助手（2026）
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 元分析：自适应/AI 教育科技把学习提高约 0.125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT 进课堂：一个尚在寻找原因的效应（对收益测量的媒体比较批评）
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 元元分析：经偏见校正的 AI 学习收益效应约为所报规模的 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective：对有缺陷的 AIED 元分析的审计
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 一项控制了相依效应量并检验了发表偏见但未做质量评估的 STEM 综合（Doğan 等人 2026）
-- [[ai-education-effects-second-order-meta-analysis-2026]] — 对 45 项教育 AI 元分析的二阶元分析，带重叠校正效应与对合成层的质量评估（Emslander 等人 2026）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
-- [[rodrigues-aied-unplugged-numeracy-2026]] — 在教师中介的 AI 中，移动收益的是备课，而不是工具本身

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,31 +83,3 @@ PBL terhubung ke pedagogi [[active-learning|pembelajaran aktif]], [[experiential
 
 - Temuan moderasi itu adalah peringatan produk: merekayasa chatbot ke dalam lingkungan khusus bertepatan dengan efek terkumpul yang *lebih kecil*. Validasi bahwa penyesuaian menambah nilai pembelajaran alih-alih kenyamanan yang diasumsikan.
 - Jika Anda merilis modul PBL, lapisan instruksi adalah fitur yang menghasilkan hasilnya, bukan modelnya.
-
-## Konsep terkait
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[arts-and-media-education]]
-
-## Artikel terkait
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pembelajaran berbasis masalah dan berbasis proyek sebagai kerangka menjanjikan bagi pendidikan yang didukung AI generatif: Bukti awal dari tinjauan sistematis dan meta-analisis tiga tingkat
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Pendidikan Robotika Berbasis Permainan dan Bergamifikasi
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Pelatihan Literasi AI untuk Guru
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotika dan AI dalam Pendidikan
-- [[educational-robotics-pathways-2026]] — Jalan Menuju Pembelajaran Robotika Pendidikan Bertenaga AI (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL adalah strategi pembelajaran CT yang dominan
-- [[creative-project-approach-ai-early-childhood-2025]] — Pendekatan Proyek Kreatif: Agen AI dan robotika dalam Pendekatan Proyek pada anak usia dini (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD dengan agen AI dalam PBL perangkat lunak tim
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: studio desain VR imersif dengan agen pengajar tersemat, dievaluasi terhadap PBL tradisional (Jin dkk. 2026)

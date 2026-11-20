@@ -9,6 +9,8 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 > **Behaviorism** — the learning theory that treats learning as a change in observable behavior produced by stimulus–response associations and reinforcement, rather than by changes in internal mental states. In [[ai-education|AI in education]], behaviorist principles underlie the drill-and-practice, immediate-feedback, and adaptive-pacing designs that dominate many [[intelligent-tutoring|intelligent tutoring]] and [[adaptive-learning|adaptive learning]] systems.([[ai-vocational-education-training-review|Deutscher et al., 2026]])
@@ -78,26 +80,3 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 **"Behaviourist designs are simply inferior to constructivist ones."** They fit specific targets well — fluency, factual recall, procedural automaticity — where immediate feedback and repetition are genuinely what the task requires. The error is not the mechanism; it is using a mechanism whose validity condition (the learner must produce the response) has silently stopped holding.
 
 **"Because the theory is discredited, systems built on it can be judged by outcomes alone."** Outcomes are exactly what output equivalence corrupts. A system can report excellent behavioral outcomes while the learning has moved elsewhere, so behaviorist-influenced systems need the unassisted measure more than any other kind.
-
-## Connected Concepts
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Connected Articles
-
-- [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
-- [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
-- [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
-- [[sequenced-ai-feedback-learning]] — Sequenced hint feedback underperformed immediate full-solution feedback in a 199-participant randomized experiment
-

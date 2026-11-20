@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -85,29 +87,3 @@ Les méthodes de réseau sont utilisées à travers les données probantes pour 
 - **« L'analyse de réseaux est objective parce qu'elle est computationnelle. »** **Le codage en est le fondement** : toutes les variantes de réseaux dépendent du codage fiable des données brutes (énoncés, événements, relations) en nœuds discrets, et le codage automatisé hérite de ses définitions de celui qui les a fixées. La [[visualization|visualisation]] ressemble à une structure émergente et ses nœuds sont des choix interprétatifs.
 - **« Un changement de structure du réseau est automatiquement un gain d'apprentissage en soi. »** Dans une discussion de cas réunissant **vingt étudiants de deuxième cycle de disciplines mixtes**, la **part des termes partagés de taille 3 est passée de 5,2 % à 8,0 %** tandis que les **jetons de contenu tombaient à environ 0,65 fois leur valeur après le débat**. Deux mesures structurelles évoluaient en sens opposé : « le réseau a changé » n'est donc pas un résultat tant qu'on ne précise pas selon quelle mesure et pourquoi cela compte.
 - **« Partager plus de termes signifie mieux collaborer. »** Une part croissante de termes partagés accompagnée d'une diversité décroissante des jetons de contenu est compatible avec une convergence vers un vocabulaire plus restreint. Le consensus et le rétrécissement sont structurellement similaires, ce qui explique pourquoi la mesure a besoin du contenu à partir duquel elle a été calculée.
-
-## Concepts liés
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Articles liés
-
-- [[caeai-response-length-ai-ethics-education-2026]] — La longueur de la réponse, et non l'alignement lexical, pilote les statistiques de termes partagés dans les réseaux participant–morphème (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA des interactions apprenant–agent conversationnel dans l'écriture en anglais langue étrangère étayée
-- [[tracing-genai-literacy-interaction-patterns]] — ENA des régularités d'interaction de littératie en IA générative
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA de la résolution collaborative de problèmes humain–IA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Le délestage cognitif et la sollicitation (SNA/méthodes de réseau)
-- [[youtube-frames-chatgpt-education]] — ENA des cadrages de ChatGPT sur YouTube dans l'éducation
-- [[agency-gap-ai-writing]] — L'écart d'autonomie dans l'écriture assistée par IA (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : un contrôle structurel des données éducatives synthétiques
-- [[dang-human-ai-collaboration-competency-2026]] — L'ENA cartographie aussi le discours de compétence des éducateurs

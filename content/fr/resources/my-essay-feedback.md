@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -43,12 +44,3 @@ Aux enseignants de rédaction de première année et aux départements d'anglais
 ## Remarques et réserves
 
 Le site rapporte plus de 12 000 étudiants, plus de 700 cours et plus de 41 000 dissertations examinées — des chiffres déclarés par le fournisseur, non un audit indépendant. La conformité FERPA, la préparation au RGPD et l'accessibilité sont également des affirmations du fournisseur ; les dissertations passent par Azure OpenAI, et le site indique qu'elles ne servent pas à entraîner des modèles, ce qu'un district devrait confirmer dans l'accord de traitement des données plutôt que reprendre de la page marketing. La tarification est freemium et varie selon le public : un premier semestre gratuit pour les nouveaux enseignants (sur demande, limité à trois par école), environ \$12–15 par étudiant et par semestre ensuite, et un palier payant par évaluation pour les étudiants individuels avec la première évaluation gratuite. Le tableau comparatif face à ChatGPT Plus, Packback et Grammarly est celui du fournisseur. Un partenariat avec l'UC Davis sur le projet PAIRR est une collaboration de recherche, non une preuve publiée que la plateforme améliore l'écriture.
-
-## Concepts liés
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

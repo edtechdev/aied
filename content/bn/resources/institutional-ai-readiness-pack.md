@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,6 +38,3 @@ ai_assist:
 
 ## এটি কাদের জন্য
 গবেষণা-নেতা, কমিটি ও নীতি অফিস, যাঁদের দরকার একটি গবেষণা-পরিবেশজুড়ে এআই কীভাবে ব্যবহৃত ও [[governance|নিয়ন্ত্রিত]] হচ্ছে তার প্রমাণভিত্তিক চিত্র এবং সময়ের সঙ্গে [[change-management|পরিবর্তন]] অনুসরণের একটি উপায়। এটি *Responsible AI in Academic Research: A Competency Framework for Research Training*-এর সঙ্গী, যা প্রস্তুতির পাঁচটি মাত্রা নির্ধারণ করে, এবং লিখেছেন Instats-এর পরিচালক Michael J. Zyphur।
-
-## সংযুক্ত ধারণা
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -72,24 +74,3 @@ ai_assist:
 **"למידת שליטה היא הפדגוגיה ש-AI סוף סוף מאפשר."** המכניקה שלה קדמה ל-AI בהרבה — Bloom ניסח את המסגרת לפני עשורים — ו-AI מפעיל אותה בכך שהוא הופך לאוטומטיות את החלטות ההערכה והקצב, ולא בכך שהוא מגשים עיצוב שלא היה אפשרי קודם. המסגור הזה חשוב מפני שהאוטומציה יורשת את בחירת הכלל, והכלל הוא המקום שבו יושב השיפוט.
 
 **"הערכה תכופה יותר תחת שליטה הופכת את הסף לאמין יותר."** תדירות משפרת את האומדן ואינה מתקנת כלל שגוי. חישוב חוזר של שליטה לעיתים קרובות יותר מאירועים הכוללים עבודה בסיוע מתכנס מהר יותר לאותה תשובה שגויה.
-
-## מושגים מחוברים
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
-
-## מאמרים מחוברים
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — מעקב ידע מעריך ביתר את ביצועי הסשן הבא ומפספס את אפקט הריווח (Schuetze, Yan & Carvalho 2025)

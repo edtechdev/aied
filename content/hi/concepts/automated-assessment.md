@@ -23,6 +23,8 @@ translation_of: concepts/automated-assessment
 source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -151,76 +153,3 @@ contributors: [editor]
 - **"न्यायाधीश ही अविश्वसनीयता का स्रोत है।"** 378 निश्चित-पासा निर्णयों पर, दोबारा चलाने से **2.9 से 6.1 प्रतिशत** परिणाम अर्ध-कठोर विधि में और **13.5 से 15.9 प्रतिशत** मुक्त निर्णयन में बदले, जबकि न्यायाधीश AI बदलने से केवल लगभग 3 अंक जुड़े ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]); पुनरुत्पादनीयता प्रक्रिया तय करती है, न्यायाधीश नहीं।
 - **"आत्मविश्वास की रिपोर्टिंग एक अलंकरण है।"** जो स्कोर कहता कि वह **70% निश्चित** है, वह उसके उपयोग का तरीका बदल देता, और उस सूचना का अभाव पाठक को सभी स्कोरों को समान रूप से निश्चित मानने पर विवश करता है।
 - **"लघु-उत्तर स्वचालित अंकन एक तय क्षेत्र है।"** [[science-education|विज्ञान]] में लघु-उत्तर स्वचालित अंकन की स्कोपिंग समीक्षा (**2017 से 2024 की शुरुआत**) क्षेत्र का इतिहास दर्ज करती है, जो यह अभिलेख है कि क्या प्रयास किया गया, यह नहीं कि क्या मान्य किया गया।
-
-## संबंधित अवधारणाएँ
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — योगात्मक मूल्यांकन: AI-प्रतिरोधी प्रारूप (मौखिक, निगरानी वाली, बंद-पुस्तक परीक्षाएँ)
-
-## संबंधित लेख
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM रूब्रिक उप-आयाम लगभग-अतिरेकी हैं और प्रतिपुष्टि शायद ही कभी गलतफहमियों का नाम देती है (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise रिपोर्ट: तीन यूके विश्वविद्यालयों में 761 विश्वविद्यालय निबंधों का AI अंकन
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — एक बड़े पैमाने पर राष्ट्रीय लेखन मूल्यांकन में HITL AI-सहायित स्कोरिंग (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — सार्वभौमिक लेखन स्क्रीनिंग के लिए बड़ी भाषा मॉडल तुलनात्मक निर्णय की वैधता
-- [[usher-faraon-who-grades-best-2026]] — परियोजना गुणवत्ता स्तरों में ChatGPT, सहपाठी और शिक्षक ग्रेडिंग की तुलना (Usher और Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI-निर्मित परीक्षाओं की गुणवत्ता का मूल्यांकन: एक बड़े पैमाने पर क्षेत्र अध्ययन
-- [[automated-formative-assessments-a-level-sciences]] — A-स्तरीय विज्ञान में स्वचालित स्वरूपित मूल्यांकन
-- [[cong-confidence-asag-2026]] — आत्मविश्वास-जागरूक स्वचालित संक्षिप्त-उत्तर ग्रेडिंग
-- [[ai-scoring-language-bias-physics]] — भौतिकी में AI स्कोरिंग भाषा पूर्वाग्रह
-- [[llm-difficulty-calibration-programming-exams-2026]] — प्रोग्रामिंग परीक्षाओं के लिए LLM-आधारित कठिनाई कैलिब्रेशन
-- [[choi-anchor-aes-prompting-2025]] — एंकर-आधारित स्वचालित निबंध स्कोरिंग प्रॉम्प्टिंग
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL स्वरूपित मूल्यांकन स्कोरिंग
-- [[automated-grading-linux-bash-examinations-large-language-models]] — LLM के साथ Linux Bash परीक्षाओं का स्वचालित ग्रेडिंग
-- [[confidence-aware-student-drawing-assessment]] — छात्र-बनाए गए आकृतियों का आत्मविश्वास-जागरूक मूल्यांकन
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: निर्मित गणित आकृतियों का स्वचालित मूल्यांकन
-- [[shap-llm-rationales-teaching-quality-assessment]] — रूब्रिक-आधारित शिक्षण गुणवत्ता मूल्यांकन के लिए SHAP बनाम LLM औचित्य
-- [[eeg-familiarity-automated-assessment-2026]] — शिक्षार्थी मूल्यांकन को स्वचालित करना: EEG-आधारित परिचितता पूर्वानुमान
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI मूल्यांकन रूब्रिक निर्माण
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-सहायित शिक्षक-निगरानी वाली ग्रेडिंग और प्रतिपुष्टि
-- [[ai-grading-handwritten-physics-2026]] — हस्तलिखित भौतिकी मूल्यांकन का AI ग्रेडिंग (ओलंपियाड)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — मेरा कार्य किसे ग्रेड करे? उच्च शिक्षा में पारदर्शी AI-सहायित लेखन मूल्यांकन पर छात्र दृष्टिकोण
-- [[tripartite-feedback-framework-ai-assessment-2026]] — त्रि-पक्षीय ढाँचा: ज्ञानात्मक स्थिति के अनुसार प्रतिपुष्टि को छाँटना और AI भागीदारी के पाँच सीमा सिद्धांत (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI-मध्यस्थ ग्रेडिंग के विरुद्ध छात्र सबमिशन में छिपे प्रॉम्प्ट इंजेक्शन का रेड-टीम मूल्यांकन (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — भरोसा-नियंत्रित अनुमान के साथ स्वचालित शिक्षक मूल्यांकन के लिए डिज़ाइन से व्याख्यायोग्य LLM ढाँचा (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — मानव पुनः-जाँच के लिए आत्मविश्वास फिल्टर के साथ अर्ध-खुली हस्तलिखित गणित ग्रेडिंग
-- [[llm-grade-bands-calibration-bias-2026]] — क्या बड़ी भाषा मॉडल उच्च शिक्षा के ग्रेड बैंड को पुनरुत्पादित कर सकती हैं? प्रामाणिक छात्र लेखन में कैलिब्रेशन और ग्रेडिंग पूर्वाग्रह का क्रॉस-मॉडल अध्ययन
-- [[sophie-clinical-communication-ai-assessment-2026]] — स्केलेबल AI-आधारित नैदानिक संचार प्रशिक्षण और स्वचालित मूल्यांकन
-- [[automated-constructive-assessment-hdr-llm-2026]] — बड़ी भाषा मॉडल के साथ रचनात्मक मूल्यांकन को स्वचालित करना: व्यावहारिक योग्यता के स्केलेबल और पुनरावृत्त मूल्यांकन की ओर
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — छात्र लेखन पर LLM-निर्मित प्रतिपुष्टि में प्रतिपुष्टि फोकस और शैक्षणिक अनुकूलनियत का मूल्यांकन
-- [[llm-graders-computer-science-exams-2026]] — LLM ग्रेडर कहाँ सफल होते हैं और कहाँ टूटते हैं: दो कंप्यूटर-विज्ञान परीक्षाओं से प्रमाण
-- [[llm-automated-coding-teacher-pck-2026]] — बहु-एजेंट LLM (GradeOpt) शिक्षकों की खुले-अंत CK और PCK प्रतिक्रियाओं को कोड करना, कोडिंग मैनुअल के विरुद्ध प्रॉम्प्ट परिष्कार से विश्वसनीयता
-- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE भौतिकी में परीक्षा-बोर्ड अंकों और शिक्षक निर्णय से तुलना किया गया AI अंकन
-
-- [[llm-grading-assistants-public-health-2026]] — तर्क मोड ने LLM-मानव ग्रेडिंग सहमति को भारित कैप्पा 0.269 से 0.718 तक बढ़ाया
-- [[machine-human-marking-agreement-institutions-2026]] — स्नातक असाइनमेंट के अंकन में मशीन-मानव सहमति मॉडल, प्रॉम्प्ट और संस्था के लिए विशिष्ट है
-- [[wargaming-adjudication-ai-judged-grading-2026]] — पैमाने पर अंगूठा: AI-निर्णीत मूल्यांकन और ग्रेडिंग सुधारने के लिए पारंपरिक वारगेमिंग निर्णयन प्रथाएँ (Epstein 2026)
-
-- [[porcaro-ai-grading-benchmark-2026]] — सहमति से आगे: 22 प्रॉम्प्ट किए गए ग्रेडर उन जाँचों में पास होते हैं जिनका सही उत्तर ज्ञात है, और उनमें से अधिकांश को बढ़ाकर अंक दिलाए जा सकते हैं (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — कार्य के बजाय शिक्षण का मूल्यांकन, बिना संयोजन के
-

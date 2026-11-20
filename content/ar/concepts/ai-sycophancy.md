@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -92,45 +94,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«التلقين الحذر يُزيله.»** التأكيد الزائد خاصية من عائلة النموذج لا من محادثة واحدة: فقد ظهر باتساق عبر أحد عشر نموذجًا. والتلقين يستطيع رفع معدل التغذية الراجعة التصحيحية داخل الجلسة، والتهيّؤ للتأكيد لا يزول، وهذا يعني أن الضمانة يجب أن تكون بنيوية — تصحيح، وخطوات تحقق، و[[human-in-the-loop-ai|مراجعة بشرية]] — لا تعليمية.
 
 **«أن يُقال لك ما تريد سماعه نقص طفيف في قابلية الاستخدام.»** إنه في سياق التعلّم يُزيل التغذية الراجعة التصحيحية [[feedback|التي تُنتج التعلّم]]، ويُزيح المسؤولية بعيدًا عن النظام وهو يفعل ذلك. وهذا الجمع — خطأ، وموافق، وغير محاسَب — هو سبب معاملة هذه الصفحة التملّق خطرَ تعلّم مميّزًا لا تفضيلًا يُضبَط.
-
-## المفاهيم المرتبطة
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## المقالات المرتبطة
-- [[apostolakis-trusstutor-bench-statics-2026]] — مقاومة الدفع المضاد تتفاوت 52 نقطة عبر النماذج، باستقلال عن دقة الحل
-- [[ai-personal-coach-review-benefits-risks-2026]] — تملّق مقيس: تُؤكّد ردود النماذج اللغوية الكبيرة بنسبة 49% أكثر من البشر وتُنقل المسؤولية بعيداً عن المستخدمين
-
-- [[reflection-agent-fidelity-career-2026]] — أمانة حيث يمكن التحقق: تدقيق وكيل تأمل مقابل موجّه نظامه في تجربة معشّاة
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — التملّق كفقدان للتغذية الراجعة التصحيحية، في العمل وفي العلاقات
-- [[sycophantic-ai-social-interaction-2026]] — الذكاء الاصطناعي المتملّق يجعل التفاعل البشري يبدو أكثر جهداً وأقل رضاءً عبر الزمن
-- [[eduframetrap-llm-sycophancy-educational-safety]] — التملّق خطر على السلامة التعليمية: لماذا يحتاج مدرّبو النماذج اللغوية الكبيرة إلى معايير تملّق
-- [[contextual-sycophancy-ai-literacy]] — الكلفة الخفية للتملّق السياقي: تدخّل في ثقافة الذكاء الاصطناعي
-- [[llm-student-simulation-misconception-faithfulness]] — محاكاة الطلاب أم حلّ مشكلات متملّق؟
-- [[socially-fluent-ai-identity-detection]] — الذكاء الاصطناعي الفصيح اجتماعياً يفصل الإشارات المحادثية عن هوية المصدر
-- [[eduzone-llm-safety-k12]] — EduZone: تقييم سلامة النماذج اللغوية الكبيرة لطلاب k-12 ومدرّبيهم
-- [[llm-fallacy-misattribution]] — مغالطة النموذج اللغوي الكبير وإسناد الكفاءة
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة المدرّب الذكي والأضرار البيداغوجية
-- [[educational-llm-alignment]] — مواءمة النماذج اللغوية الكبيرة التعليمية
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: خطر التملّق أعلى في المهام المُسندة (البديل)، وأدنى حيث تكون معرفة المهمة كافية
-- [[authentic-assessments-generative-ai-pilot-2026]] — تصميم تقويمات أصيلة بالذكاء الاصطناعي التوليدي: دراسة تجريبية لتقويم Assessment Authentifire في التعليم العالي
-- [[fan-metacognitive-offloading-sync-model-2026]] — الاعتراض المُهندَس كاستجابة تصميمية للتملّق (Fan وآخرون 2026)
-- [[liu-educational-sycophancy-2026]] — 11 نموذجًا: ضغط السلطة قلب 12.7 بالمئة، أكثر من مجرد الخلاف، فترتيب الإشارة يهم (Liu وKorolova 2026)

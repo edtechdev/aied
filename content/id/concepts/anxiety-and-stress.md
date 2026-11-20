@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -55,7 +57,6 @@ Kluster ini menghubungkan kecemasan AI dengan [[privacy]], [[academic-integrity]
 Di luar proktoring, penggunaan AI sendiri menimbulkan kecemasan — tentang digantikan, tentang apakah karya seseorang "benar-benar miliknya", tentang kompetensi. Krusialnya, kecemasan ini **tidak sepenuhnya negatif**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] menemukan **kecemasan AI dapat produktif**: kecemasan AI yang lebih tinggi berkorelasi positif dengan perilaku verifikasi dan revisi (β=.24, p<.01), dan kapasitas evaluatif memprediksi [[student-engagement|keterlibatan]] aktif (β=.46, p<.001). Empat tipe regulasi Kim (Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%) menunjukkan pengamatan yang digerakkan kecemasan dapat menjadikan siswa pengguna [[generative-ai|AI generatif]] yang lebih cermat dan teregulasi diri alih-alih pengadopsi pasif. Ini membingkai ulang kecemasan AI dari penghalang menjadi sinyal yang berpotensi berguna dan mendorong pengamatan lebih dekat.
 
-
 Pembingkaian ulang itu punya batas dalam berbicara: di antara 708 [[multilingual-learning|pembelajar bahasa Inggris]], kaitan kecemasan berbicara–kesediaan berjalan −0.371 pada efikasi diri berbicara rendah tetapi +0.137 pada yang tinggi, dengan hanya 55 partisipan (7.8%) di atas ambang Johnson–Neyman ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - [[acceptance-ai-english-tools-2026|Studi penerimaan]] menunjukkan kecemasan membentuk adopsi alat AI oleh pembelajar, dan [[teacher-education-ai-literacy-sdt-2026|penelitian pendidikan guru]] mengaitkan kecemasan AI dengan motivasi dan [[self-regulated-learning|regulasi diri]].
 - **Dilema pengungkapan.** Dalam survei 409 mahasiswa sarjana, kenyamanan dengan dosen dan persepsi pengungkapan sejawat — bukan pelepasan moral — merupakan prediktor terkuat pengungkapan GenAI, dan non-pengungkapan terbaca sebagai adaptasi strategis terhadap norma sejawat dan rendahnya kepercayaan interpretatif, bukan kelalaian ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]]).
@@ -71,9 +72,7 @@ Pembingkaian ulang itu punya batas dalam berbicara: di antara 708 [[multilingual
 
 **Dukungan institusional bekerja pada kecemasan melalui penilaian, bukan penenangan.** Survei dua gelombang atas 547 mahasiswa sarjana Tiongkok ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) melacak bagaimana dukungan sekolah yang dipersepsikan berhubungan dengan kecemasan belajar AI lewat penilaian kontrol-nilai — rasa kompetensi (kontrol) dan kegunaan alat (nilai). Dukungan memprediksi kecemasan lebih rendah secara langsung, tetapi sebagian besar kaitannya berjalan melalui penilaian itu, bukan mengelilinginya: lewat efikasi diri belajar AI, lewat [[technology-acceptance-model|kegunaan yang dipersepsikan]], dan lewat jalur berurutan di mana efikasi diri mengisi kegunaan, yang kemudian menurunkan kecemasan. Model tingkat pertama menunjukkan *dimensi* dukungan tidak bekerja mandiri — hanya dukungan informasional yang mempertahankan jalur signifikan ke efikasi diri — dan validasi silang jaringan saraf tiruan menempatkan efikasi diri serta kegunaan yang dipersepsikan sebagai prediktor kecemasan paling stabil. Implikasinya: dorongan institusional yang diarahkan pada kecemasan hanya membekas bila mengubah keyakinan siswa tentang kemampuannya sendiri dan kegunaan alat; penenangan umum tidak mengubah penilaian yang menghasilkan kecemasan itu.
 
-
 AI juga dapat meredakan kecemasan akademik dengan memajukan tujuan belajar alih-alih dengan penenangan: dalam survei 721 mahasiswa kedokteran dan eksperimen dengan 398, persepsi kapabilitas asisten yang lebih tinggi memprediksi kemajuan tujuan belajar yang lebih besar, yang memprediksi kecemasan akademik lebih rendah dan kesehatan mental lebih baik ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen dkk. (2026)]]).
-
 
 Kompetensi bukan penyangga penuh: di antara 551 mahasiswa tahun pertama Tiongkok, tekanan penggunaan AI yang [[self-report-measures|dilaporkan sendiri]] melemahkan kaitan antara kecakapan AI dan penyesuaian psikologis, dengan kemiringan kecakapan-ke-penyesuaian turun dari 0.42 pada tekanan rendah ke 0.20 pada tekanan tinggi ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
@@ -90,10 +89,8 @@ Dimensi yang berbeda dan makin diteliti adalah **kecemasan karier** — takut AI
 
 - **Daya adaptasi karier adalah faktor protektif.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] menunjukkan kemampuan adaptasi karier memprediksi kecemasan AI secara signifikan dan negatif pada mahasiswa jurusan bahasa Inggris, dengan evaluasi diri inti memediasi sebagian hubungan itu; kelompok adaptabilitas rendah memiliki kecemasan AI tertinggi.
 
-
 - **Ancaman dan penilaian yang menguntungkan terkoaktivasi dalam satu profil.** [[ai-attitude-latent-profiles-career-development-2026|Song dkk. (2026)]] menemukan kelompok di atas rata-rata sampel pada keenam indikator sekaligus — kecemasan penggunaan AI 1.521 dan kesadaran STARA 0.951 bersama mutu yang dipersepsikan 1.753 — sehingga kecemasan tinggi tidak menandakan penilaian negatif atas teknologi itu.
 - **Kecemasan AI merusak keputusan karier.** [[duan-ai-anxiety-career-decisions-college-2026|Duan dkk.]] memakai pemodelan persamaan struktural dan menunjukkan kecemasan AI memprediksi keputusan karier secara langsung dan negatif, dan sebagian besar dengan menggerus **daya adaptasi karier** (menyumbang 63.35% efek total); [[self-efficacy]] hanya menawarkan penyangga terbatas.
-
 
 - **Pola pikir berkembang membatasi jalur ancaman-ke-daya-kerja.** Di antara 526 mahasiswa sarjana Tiongkok, persepsi ancaman kerja akibat AI memprediksi kecemasan keputusan karier yang lebih tinggi sebagian dengan menurunkan daya kerja yang dipersepsikan, dan kaitan itu hanya bertahan pada pola pikir berkembang rendah (b = −0.229), tidak pada yang tinggi (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]]).
 - **Kecemasan AI memprediksi kecemasan mencari kerja dalam skala besar.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 siswa) dan [[dag-ai-perceptions-career-anxiety-health-2026|Dağ dkk.]] (821 mahasiswa ilmu kesehatan) menemukan kecemasan AI dan sikap negatif terhadap AI memprediksi kecemasan mencari kerja, dengan perempuan, jurusan ilmu sosial, dan siswa berpenghasilan rendah paling terdampak.
@@ -124,57 +121,3 @@ Sisi positifnya: sistem AI makin banyak mendeteksi dan membantu meringankan stre
 - **"Kecemasan AI sepenuhnya merugikan."** Kecemasan ini **tidak sepenuhnya negatif**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] menemukan **kecemasan AI dapat produktif**, dengan kecemasan lebih tinggi terkait regulasi lebih strategis. Kecemasan berfungsi sebagai sinyal untuk mengamati, bukan sekadar beban.
 - **"Semua siswa cemas merespons dengan cara sama."** **Empat tipe regulasi** Kim — Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9% — menunjukkan pengamatan yang digerakkan kecemasan menghasilkan **empat** pola berbeda. Intervensi yang menyasar "siswa cemas" melewatkan bahwa kelompok tunggal terbesar berintegrasi secara selektif.
 - **"Kecemasan selalu menekan partisipasi."** Pembingkaian ulang itu punya **batas dalam berbicara**: di antara **708 pembelajar bahasa Inggris**, kaitan kecemasan berbicara ke kesediaan berjalan **-0.371 pada efikasi diri berbicara rendah tetapi +0.137 pada yang tinggi**. Kecemasan dapat menyertai kesediaan saat efikasi diri tinggi, sehingga arah efeknya bergantung pada keyakinan.
-
-## Konsep terkait
-- [[career-development-and-readiness]] — kesiapan karier sebagai faktor protektif terhadap kecemasan AI
-- [[well-being]] — payung luas yang dikembangkan konsep ini secara mendalam
-- [[remote-proctoring]] — sumber utama stres pengawasan/tuduhan palsu
-- [[social-emotional-learning]] — kompetensi emosional yang terlibat
-- [[affective-computing]] — AI membaca keadaan emosional
-- [[affective-tutoring]] — AI merespons afek
-- [[academic-integrity]] — dimensi integritas/tuduhan curang
-- [[privacy]] — kekhawatiran pengawasan di balik stres proktoring
-- [[student-experience]] — kecemasan sebagai bagian pengalaman pembelajar
-- [[motivation]] — efek kecemasan pada adopsi dan keterlibatan
-- [[self-regulated-learning]] — kaitan kecemasan produktif
-- [[ai-literacy]] — membangun kapasitas yang mengurangi kecemasan tak berdasar
-- [[equity-in-ai-education]] — stres tak proporsional pada siswa rentan
-- [[ethics]] — keadilan pengawasan dan tuduhan palsu
-- [[teacher-role]] — kecemasan di sisi pendidik
-- [[assessment]] — kecemasan asesmen termediasi AI
-- [[social-norms-ai-use]] — biaya afektif dari visibilitas
-
-## Artikel terkait
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Agen mirip penguji menaikkan kinerja berbicara terukur dan kecemasan sekaligus
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Kompetensi menaikkan kesadaran etis, kesadaran etis menaikkan kecemasan AI: mediasi tak-langsung-saja di antara 584 siswa
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Kecemasan AI sebagai sinyal regulasi strategis yang produktif
-- [[aivaluate-anxiety-assessment-2026]] — Kecemasan siswa dalam asesmen berbasis kinerja termediasi AI
-- [[ai-campus-wellbeing-tools]] — Alat berbasis AI untuk kesejahteraan kampus
-- [[affective-text-wearable-student-health]] — Teks afektif + penginderaan wearable untuk kesehatan siswa
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Proktoring otomatis, kecemasan peserta ujian, tuduhan palsu
-- [[automated-online-exam-proctoring-decade-review-2026]] — Tinjauan satu dekade proktoring ujian otomatis
-- [[moral-panic-genai-classroom]] — Kecemasan dosen dan panik moral tentang GenAI
-- [[acceptance-ai-english-tools-2026]] — Kecemasan membentuk penerimaan alat AI
-- [[teacher-education-ai-literacy-sdt-2026]] — Pendidikan guru, literasi AI, dan kecemasan
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Penggunaan AI terjalin dengan kecemasan, kepercayaan, keyakinan
-- [[qu-wang-disclose-or-not-genai-2026]] — Dilema pengungkapan sebagai sumber stres siswa
-- [[kim-ai-anxiety-comprehensive-analysis]] — Analisis komprehensif kecemasan AI dan intervensinya
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Kemampuan adaptasi karier mengurangi kecemasan AI
-- [[duan-ai-anxiety-career-decisions-college-2026]] — Kecemasan AI merusak keputusan karier lewat daya adaptasi karier
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — Kecemasan AI dan sikap memprediksi kecemasan mencari kerja
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Kecemasan AI memprediksi kecemasan mencari kerja di ilmu kesehatan
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Pengalaman dan persepsi dosen tentang GAI: kerentanan, memikirkan ulang asesmen, pembelajaran siswa terancam (Farazouli dkk. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot AI peka budaya untuk deteksi stres dan dukungan kesejahteraan di kalangan mahasiswa Pakistan dengan NLP dan machine learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Dukungan sekolah yang dipersepsikan menurunkan kecemasan belajar AI terutama lewat penilaian kontrol-nilai (69.5% termediasi); validasi silang ANN (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks Rasa Bersalah AI: rasa bersalah antisipatif melebihi penyesalan pascapenggunaan di kalangan staf akademik (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Survei AAC&U/Elon atas 1,057 dosen AS: ramalan ketergantungan berlebih, kekhawatiran integritas, peran dosen menyusut (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Dari takut ke penasaran: institut dosen enam minggu yang menggerakkan instruktur melewati ancaman identitas (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Perasaan penyemu dan ketidaknyamanan etis pengembang akademik sebagai kerja afektif dalam kerja termediasi AI
-- [[parlant-emotional-micro-interventions-2026]] — Mikrointervensi emosional real-time di sisi instruktur, berakar pada teori penilaian kognitif
-
-- [[ai-employment-threat-career-anxiety-2026]] — Ancaman kerja akibat AI dan kecemasan keputusan karier: daya kerja yang dipersepsikan memediasi dan pola pikir berkembang memoderasi
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Tekanan penggunaan AI melemahkan kaitan kecakapan AI dan penyesuaian tahun pertama
-- [[ai-attitude-latent-profiles-career-development-2026]] — Profil yang tinggi pada kecemasan AI sekaligus mutu AI yang dipersepsikan, bukan salah satunya
-- [[ai-speaking-practice-communicative-readiness-2026]] — Kaitan kecemasan berbicara dengan kesediaan berkomunikasi berbalik pada efikasi diri berbicara tinggi
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Kecerdasan asisten AI yang dipersepsikan menurunkan kecemasan akademik lewat kemajuan tujuan belajar (mahasiswa kedokteran)

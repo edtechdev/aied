@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -137,53 +139,3 @@ ai_assist:
 - **"গোষ্ঠী-লেবেল যে বৈচিত্র্য গুরুত্বপূর্ণ তা ধরে।"** **গোষ্ঠী-লেবেল তাদের ভেতরের বৈচিত্র্য লুকায়**: প্রতিবন্ধকতা-মেটা-বিশ্লেষণে **নির্দিষ্ট শেখার প্রতিবন্ধকতা, বৌদ্ধিক ও বিকাশগত প্রতিবন্ধকতা** ও অন্যান্য শ্রেণি একসঙ্গে পুল করা, তাই গোষ্ঠী-গড় তাদের কারও বর্ণনা দেয় না।
 - **"উপগোষ্ঠী-বিশ্লেষণ ভিন্নতর-প্রভাবের প্রশ্নের উত্তর দেয়।"** সেগুলো সাধারণত **উত্তর দিতে খুব ছোট**: [[ai-tutoring-micro-rct-gcse-science-2026|GCSE বিজ্ঞান মাইক্রো-RCT]] অস্বাভাবিকভাবে স্পষ্ট যে এর **হস্তক্ষেপ** বৈপরীত্য সামগ্রিক প্রভাবের জন্য শক্তিমান, উপগোষ্ঠী-পার্থক্যের জন্য নয়। অপর্যাপ্ত-শক্তিমান উপগোষ্ঠী-ফল একটি প্রকল্প, ফলাফল নয়।
 - **"একটি মাঝারি পুলকৃত প্রভাব বলে দেয় একটি নির্দিষ্ট গোষ্ঠী উপকৃত হয় কি না।"** [[zhang-ai-students-disabilities-meta-analysis-2024|29টি (কোয়াই-)পরীক্ষামূলক গবেষণা]] প্রতিবন্ধকতা-শ্রেণিজুড়ে পুল হয়ে **Hedges' g = 0.588 (95% CI [0.349, 0.826])**। বিরতিটি সেই শ্রেণিগুলোর উপর গড় বর্ণনা করে, আর "কোন গোষ্ঠী, কোন প্রয়োজন" আলাদা বিশ্লেষণ।
-
-## সংযুক্ত ধারণা
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — প্রতিবন্ধকতাসম্পন্ন শিক্ষার্থীদের জন্য এআই নিয়ে 29টি গবেষণা: g = 0.588, এবং পক্ষপাত-সমন্বয়ের পর g = 0.269
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — আন্তঃশাস্ত্রীয় শেখায় ChatGPT STEM ও non-STEM শিক্ষার্থীদের অসমভাবে উপকৃত করে
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — সংখ্যালঘু-জাতিসত্তার আন্তর্জাতিক শিক্ষার্থীদের মধ্যে GenAI-ব্যবহার ও চার-শাখা সম্পৃক্ততা
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 রেকর্ড থেকে 40 গবেষণা, যার 15টি জেনারেটিভ এআই
-- [[adhd-video-segmentation-computing-education]] — একটি সাধারণ নকশা-পরিবর্তন যা ADHD অংশগ্রহণকারীদের সমতায় আনে
-- [[neurodivergent-computing-students]] — কাঠামো, দ্ব্যর্থতা ও সহযোগিতা নিয়ে 24 নিউরোডাইভার্জেন্ট শিক্ষার্থী
-- [[genai-minoritized-knowledges-disability]] — এআই-তে জ্ঞানতাত্ত্বিক প্রান্তিকীকরণ, প্রতিবন্ধকতাকে উদাহরণ ধরে
-- [[robot-assisted-language-learning-meta-analysis-2026]] — ছোট L2 প্রমাণভিত্তিতে g = 0.83, I² = 84.4% সহ
-- [[structural-silence-underrepresented-language-ai-2026]] — ওয়েব-বিষয়বস্তুর 0.5%-এরও কম বাংলার বিপরীতে ইংরেজির 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — শনাক্তকারীরা EFL লেখা ভুল শ্রেণিবদ্ধ করে, অথচ পেশাদার পাঠ্যে নিখুঁত স্কোর দেয়
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — নারী-কোডেড রোল-মডেলের 195-শিক্ষার্থীর পরীক্ষা, কোনো লিঙ্গ-পার্থক্য ছাড়াই
-- [[gender-bias-transfer-llm-writing]] — লিঙ্গ-পক্ষপাতদুষ্ট প্রম্পট শিক্ষার্থী-প্রবন্ধে স্থানান্তরিত হওয়া
-- [[all-girls-genai-makerspace-gender-equity-2026]] — একক-লিঙ্গ স্থান মূল্যবান, girlification-এর বিরুদ্ধে সতর্কবার্তাসহ
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — টিউটর-ন্যায্যতা মডেল, ক্ষেত্র ও আচরণ-মাত্রাভেদে ভিন্ন
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — অভিন্ন প্রবন্ধে স্টেরিওটাইপ-সামঞ্জস্যপূর্ণ প্রতিক্রিয়া
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 কল: স্পষ্ট persona ও অন্তর্নিহিত ইতিহাস দুটোই মডেল নড়ায়
-- [[student-attention-estimation-fairness-2026]] — ন্যায্যতা-নিয়মিতকরণ যা সাধারণীকৃত হয়নি
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 শিক্ষার্থী: ফাঁকের মধ্যস্থকারী ডিজিটাল সাক্ষরতা, এআই-ব্যবহার নয়
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — গ্রামীণ অংশগ্রহণ যা কখনও ফেরেনি, এবং সীমাবদ্ধতা হিসেবে পরামর্শদান
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — একটি উপগোষ্ঠী-মিথস্ক্রিয়া যার আস্থা-বিরতি শূন্য অতিক্রম করে
-- [[student-ai-inquiry-types-cs2-2026]] — কর্পাসের একমাত্র প্রথম-প্রজন্ম ব্যবহার-ফল
-- [[international-students-conversational-ai-adaptation]] — কর্পাসের একমাত্র আন্তর্জাতিক-শিক্ষার্থী গবেষণা
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — প্রথম-প্রজন্মের শিক্ষার্থীদের জন্য কর্পাসের প্রথম প্রভাব-অনুমান: টিউটর-ব্যবহারাধিকার তাদের চূড়ান্ত গ্রেডের 0.50 SDs খরচ করায়, সহপাঠীদের 0.22-এর বিপরীতে (Liu প্রমুখ 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: বিক্রেতা-নিয়ন্ত্রিত early warning ব্যবস্থায় ঘটনোত্তর ন্যায্যতা-হস্তক্ষেপের মূল্যায়ন
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — সরাসরি প্রক্রিয়া-প্রমাণযুক্ত জ্ঞানভিত্তিক গ্রুপিং-চলক: পূর্বজ্ঞানে মিলিত কিন্তু পূর্বধারণার বৈচিত্র্যে ভিন্ন দল একই এআই ভিন্নভাবে গ্রহণ করে (Wang প্রমুখ 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — সম্মতির বাইরে: 22 প্রম্পটকৃত গ্রেডার এমন প্রোবের মুখোমুখি হয় যাদের সঠিক উত্তর জানা, এবং তাদের বেশিরভাগকে প্ররোচিত করা যায় (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — শিক্ষার্থী-প্রসঙ্গ অভিন্ন কাজে LLM গ্রেডারের নম্বর বদলায়, আর শিক্ষকের সঙ্গে সম্মতি তা ধরতে পারে না (Porcaro 2026, Paper VI)

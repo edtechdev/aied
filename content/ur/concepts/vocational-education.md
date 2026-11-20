@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -88,29 +90,3 @@ VET میں AI کے بارے میں جو چیز ممتاز ہے وہ اِس شع�
 **محققین کے لیے**
 
 - کم از کم کچھ مطالعات کام کی جگہوں میں کریں۔ وہ شعبہ جو کام پر مبنی سیکھنے سے متعین ہو اور جس کے ثبوت کی بنیاد میں کام کی جگہ کے مطالعات نہ ہوں، اُس نے ابھی اپنا مرکزی دعویٰ آزمایا ہی نہیں۔
-
-## منسلک تصورات
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## منسلک مضامین
-
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — پیشہ ورانہ کالجوں میں سمجھی گئی ICT معاونت بطور ادارہ جاتی لیور
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — موافقت پذیر CTE نصاب کی تجدید، پانچ جہتیں اور چھ قائدانہ معیار
-- [[ai-vocational-education-training-review]] — VET میں AI کا پہلا منظم جائزہ: مقاصد، نظریہ اور تجرباتی تاثیر
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: غرقابی منصوبہ جاتی سیکھائی اور ڈیزائن کی تخلیقیت
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: TVET میں آف لائن AI کی معاونت والی زبانی جانچ
-- [[ai-pedagogical-accompaniment-amico]] — Amico دوہری حالت کا نمونہ: ڈیزائن کے اصول اور قابلِ مشاہدہ اشارے
-- [[ai-autonomous-learning-accomplishment-2026]] — AI کی معاونت والی خودمختار سیکھائی اور کم کامیابی، جس میں ہارڈنیس ثالث ہے
-- [[astra-atco-training-simulator]] — قابلِ توسیع ATCO تربیت کے لیے خودمختار سِم پائلٹس
-- [[crewscaler-ai-upskilling-framework]] — تیز پیشہ ورانہ مہارت افزائی کے لیے AI سے تیز کیا گیا سر-تا-سر فریم ورک
-- [[genai-xr-architectural-design-education-2026]] — متضاد کیس: GenAI اور کثیرالمستخدم XR، ڈیزائن کی خود اعتمادی گرتی ہوئی

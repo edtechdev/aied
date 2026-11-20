@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
@@ -99,51 +101,3 @@ ai_assist:
 - **"信心低时更多使用 AI 是无害的应对策略。"** 同一发现把那种导入与**更低的分数**联系起来，因此这一应对模式有可测量的代价，而不是一种中性的选择。
 - **"仅靠素养就能建立信心。"** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu（2026）]]调查了 **450 名已在用 ChatGPT 的大学生**，发现**信任是素养与信心之间的枢纽**。路径经由信任，因此只提高素养而不处理信任，机制本身未被触及。
 - **"自我效能画像在残障人群中是均质的。"** 一项针对西班牙 **102 名有运动障碍的大学生**的潜在剖面分析发现**三个剖面**，低分组占 **29.4%**，其余分布在中等与较高剖面。把该群体当作单一总体，会把不同的动机状态平均掉。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — 社会情感学习
-
-## 关联文章
-
-- [[wang-ai-assisted-blended-teaching-crop-breeding-2026]] — 自我效能在 AI 组与对照组之间相差 d = 2.84，而考试成绩并未移动
-- [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是取代学生的推理？AI 辅助证明学习中的认知卸载（Chen 等人 2026）
-- [[confident-but-absent-ai-use-absenteeism-2026]] — 一般 AI 使用与更高自我效能和更高缺勤相随，但自我效能未预测出勤（Franco 等人 2026）
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育中的 AI 聊天机器人：比较预期与证据（Thoeni & Fryer 2026）
-- [[genai-performance-vs-learning]] — 信心上升而技术依赖增长：自我效能作为 AI 时代误导性的结果（Yan 等人 2025）
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI 支持的电子辅导提升 EFL 职前教师的自我效能与情商（准实验）
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC 可供性与学生自我调节
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI 素养、AI 准备度与职业适应性
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — 面向 AI 素养的教师教育（SDT）
-- [[social-robot-study-companions]] — 作为学习同伴的社交机器人
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — 生成式 AI 使用模式与学业自我效能
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS 量表；赋能与伦理意识中介 AI 素养课程中从项目本位学习到满意度的路径（Zhu & Kong 2026）
-- [[predicting-attrition-competitive-programming]] — 预测竞技编程中的学生流失
-- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作式建筑设计教育中：一项探索性工作室研究
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 通往持续 ChatGPT 使用的序列链中的 AI 素养、信任与学业自我效能
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 运动障碍大学生中学业自我效能画像与报告的 AI 使用
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 儿童中生成式 AI 报告的创造性自我效能增益（范围综述）
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — 口语自我效能逆转从 AI 辅助实践到意愿的焦虑路径
-- [[faculty-ai-well-being-social-supports-2026]] — 教师 SEM：技术自我效能是 AI 幸福感的弱预测因子
-- [[cen-self-efficacy-favorability-2026]] — 自我效能与偏好塑造从辅导系统与纸笔练习中的学习（Cen 等人 2026）
-- [[jelson-students-chatgpt-essay-writing-2026]] — 写作自我效能感量表预测了更多翻译与审阅类查询，而未预测更多规划或整篇作文的委托（Jelson 等人 2026）
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — 使用机器学习通过技术增强学习中学习者的交互轨迹测量自我效能信念
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI 自我效能 → AI 素养 → AI 接受度，并测量了知识中介的份额（İşbulan 等人 2026）
-- [[kim-overtrust-ai-literacy-2026]] — 学业自我效能预测了更高而非更低的 AI 过度信赖
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — 自我效能作为感知有用性的必要条件，带瓶颈阈值（Chu 与 Liu 2026）
-- [[petricini-ai-literacy-communication-equity-2026]] — 一次能力下降被解读为生产性的重新校准
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — 阅读 LLM 注释的代码把信心推向独立

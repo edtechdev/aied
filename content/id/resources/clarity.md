@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,6 +61,3 @@ dan sekitar 250 bintang saat diperiksa pada September 2026. Tiga kontributor tel
 perubahan. Instruksi skill dimuat ke agen yang sudah dijalankan pembaca, sehingga peringatan
 [[prompt-engineering|rekayasa prompt]] yang biasa berlaku: kualitas kritiknya bergantung pada draf yang
 diserahkan kepadanya.
-
-## Konsep terkait
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

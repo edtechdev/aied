@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,9 +43,3 @@ Središnja i istraživačka informatička služba koja osigurava platforme i pre
 ## Napomene i upozorenja
 
 Za sebe kaže da je neovisni osobni projekt, a ne institucionalna politika ni pravni savjet; imenovane ustanove pojavljuju se jer su objavile izvještaje o svojoj praksi, a ne kao preporuka, a raspravni slučajevi su složeni primjeri. Pravni su primjeri američki (FERPA, ADA Title II, GLBA) i datirani tamo gdje se pojavljuju, iako se tvrdi da put, pitanja, razine podataka i pristupi o njima ne ovise. Njegova stranica s dokazima povezuje svaku studiju, stavlja dobitke na jednom ograničenom zadatku uz usporavanja za iskusne održavatelje na vlastitom kodu i priznaje da podaci iz pokusa pokrivaju predlaganje koda, a ne rad vođen specifikacijom ili rad s više agenata, pa se argument za više strukture oslanja na praksu i logiku usklađenosti. Licencija za ponovnu upotrebu nije navedena. Sestrarna mjesta [campusdatagov.com](https://campusdatagov.com/) i [campusairegistry.com](https://campusairegistry.com/) nose dijelove o upravljanju podacima i registru agenata, pa je ovo dobar ulaz u rad na [[educational-policy-ai|obrazovnoj politici i umjetnoj inteligenciji]], ali ne i njegova zamjena.
-
-## Povezani pojmovi
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

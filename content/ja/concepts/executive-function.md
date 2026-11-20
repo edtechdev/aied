@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -105,35 +107,3 @@ Ayasrahらは、18人の専門家・教師・学生へのインタビューか�
 - 「AIの使用量が多いほど実行機能が弱い」。Sharmaらは、その関連が学業ストレスを通じて生じることを示し、横断デザインでは方向性を確定できない。依存と能力の低下は相関しており、因果が証明されたわけではない。
 - 「実行機能は測定可能な一つのものである」。カード分類課題、Flanker課題、自己報告式質問紙は異なるプロセスを測っており、しばしば食い違う。
 - 「自己報告尺度は欠陥を診断する」。EFB-LDS-AIは自己報告された依存と知覚された努力の低下を測るものであり、著者らはそれを臨床的な欠陥と明確に区別している。
-
-## 関連する概念
-
-- [[metacognition]] — 負荷のもとでの能力とは区別される、知識とモニタリング
-- [[cognitive-offloading]] — 課題をモデルに渡すときに委任されるもの
-- [[self-regulated-learning]] — 自分自身の学習に向けられた計画とモニタリング
-- [[cognitive-psychology]] — ワーキングメモリと、そこから作られた課題による指標
-- [[developmental-psychology]] — この構成概念が子ども期を通じてどう変わるか
-- [[special-education]] — 支援、合理的配慮、そして両者の倫理
-- [[neurodiversity]] — ADHD支援が論じられる枠組み
-- [[scaffolding]] — 独力では及ばないすぐ先を支える支援
-- [[assistive-technology]] — 能力を補償するツール
-- [[conversational-ai]] — 多くの訓練研究が用いる提供形式
-- [[generative-ai]] — ここで依存が測定されるツール
-- [[teacher-role]] — 依存が置き換えうる支援
-- [[higher-ed]] — 測定研究の大半が行われた場
-- [[k-12]] — 青年期において依存が測定される場
-- [[longitudinal-research]] — このエビデンスにほぼ欠けているデザイン
-
-## 関連する記事
-
-- [[genai-reliance-executive-functioning-2026]] — 自らの努力より優先することとして定義された青年期のGenAI依存
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 補償、足場かけ、発達というツールの三つの機能
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — チャットボット研究10件、参加者1,606人、追跡は最長1か月
-- [[sidorkin-extended-executive-cognition-2025]] — 高等教育の成果としての拡張実行認知（枠組み）
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 認知的柔軟性は面接の等級を予測するが、抑制は予測しない
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — AIを介した学習困難のための35項目自己報告尺度
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — ADHD学生へのAI支援と、明示された倫理的トレードオフ
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 学業ストレスがChatGPT依存と実行機能不全を媒介する
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — スキャナー内でChatGPTと会話する子どもと大人
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 生成AI時代の認知的オフローディング：オフローディングと実行機能を結ぶレビュー
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 遅延後の理解と再生でノート作成がチャットボットを上回った

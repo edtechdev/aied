@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -38,7 +40,6 @@ AI が職業を変革する中で、教育のキャリア形成における役�
 ## 知識ベースにおけるキャリア形成と準備の現れ方
 
 - **キャリア適応力は AI 不安を軽減する。** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang（2026）]]は、英語専攻学生においてキャリア適応力が AI 不安を有意に負方向に予測することを示しています。中核的自己評価がその関係を部分的に媒介しており、適応力の低い群で AI 不安が最も高くなりました。[[duan-ai-anxiety-career-decisions-college-2026|Duan ら]]は SEM によってこのメカニズムを確認しています。AI 不安は、低下したキャリア適応力を通じてキャリア上の意思決定を損ないます（全体効果の 63.35%）。また、自己効力感が提供する緩衝効果は限定的でした。[[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]]は、AI 不安と否定的な AI 態度が、1,057 人の学生において卒業後の就職活動不安を予測することを加えました。女性、社会科学系専攻、2 年生が最も影響を受けやすいとされています。[[dag-ai-perceptions-career-anxiety-health-2026|Dağ ら]]は、これを健康科学系の学生（821 人、r = 0.233）にまで拡張しました。このようにキャリアの即戦力度は、[[anxiety-and-stress|キャリア関連の AI 不安]]に対する実証的に検証された緩衝材なのです。
-
 
 - **即戦力度は脅威の度合いではなく関与の度合いを追跡した。** [[ai-attitude-latent-profiles-career-development-2026|Song ら（2026）]]では、最も AI 不安の高いプロファイルでも、キャリア・クラフティング（4.222）と自己認識される雇用可能性（3.964）が最も高く報告されており、好意的なプロファイルと有意な差はありませんでした。つまり不安の度合いはキャリアの即戦力度を反映していませんでした。
 - **AI リテラシーは必要だが十分ではない。** [[ai-literacy-career-adaptability-business-2026|Testa ら]]は、キャリアの即戦力には AI リテラシーだけでは不十分であり、学生には適応性と肯定的な自己評価も必要だと論じています。これにより [[ai-literacy|AI リテラシー]]とキャリアの成果が直接結びつけられます。[[ai-literacy-graduate-employability-2026|Hendrawan and Lestari（2026）]]はジャカルタの最終学年学生 455 人で定量的に検証し、キャリア適応力が有意な間接効果（β = 0.173）を持つ一方、成長的マインドセットはその経路を全く調整しないことを示しました。つまり働くのはマインドセットではなく適応性です。
@@ -73,38 +74,3 @@ AI が職業を変革する中で、教育のキャリア形成における役�
 プログラムレベルの枠組みは、機関として踏むべき步骤を明示しますが、プログラムとしてはまだ評価されていません。[[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale（2026）]]は、センシング、ステークホルダーによる検証、プログラム診断、カリキュラム再設計、実施と能力形成、成果レビューという6つの段階を提案しています。各段階には、明示的に割り当てられた決定権と説明責任を伴う成果物が結び付けられており、AIの役割は、労働市場情報を横断したパターン検出、コンピテンシーのマッピング、人間が評価するためのカリキュラム案の生成、実施指標のモニタリングという4つの限定的な支援機能に限定されています。その価値は、キャリア準備戦略が通常暗黙のままにしているガバナンス上の步骤を明示している点にあります。
 
 中国の大学生1,445人を対象とした調査は、有用性についての信念からAI利用を経てキャリア探索へと至る経路をたどっています。生成AIの知覚された有用性はβ = 0.569で利用を予測した一方、キャリア自己効力感による予測はβ = 0.082にとどまりました。さらに利用はキャリア探索行動とβ = 0.423で関連し、自己効力感は探索そのものの最も強い認知的予測因子であり続け（β = 0.285）、モデルは探索の分散の50.5%を説明しました（[[lu-career-cognitions-genai-exploration-2026|Lüら（2026）]]）。これらの間接経路は統計的かつ横断的なものであり、縦断的ではありません。
-
-## 関連概念
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — 修了の後に続く成果です。継続、留学率の維持、そして卒業
-
-## 関連記事
-
-- [[ai-free-gates-engineering-students-india-2026]] — AIのない関門からAI前提の仕事へ：インドの工学の学生が、AIの指針なしに大学教育とキャンパス採用をどう渡り歩くか
-- [[boyd-swan-employer-responses-genai-2026]] — 約 1,750 人の米国の採用担当者を対象とした調査実験：代替という枠づけが面接と給与交渉の意欲を下げ、高 GPA の応募者で最も顕著だった（Boyd-Swan & Reynolds 2026）
-- [[ai-literacy-graduate-employability-2026]] — AI リテラシーがキャリア適応力を通じて認識される雇用可能性に到達するという PLS-SEM の証拠。成長的マインドセットは何も付け加えない（Hendrawan & Lestari 2026）
-- [[mccorkle-aligned-genai-course-policy-2025]] — 評価と労働力コンピテンシーのトレードオフを課題ごとに決定（McCorkle 2025）
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — キャリア適応力が AI 不安を軽減する
-- [[ai-literacy-career-adaptability-business-2026]] — ビジネス教育における AI リテラシーとキャリア適応力
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — 8 つのフォーカスグループ：利用者は効率性と洗練を、非利用者は独創性とチームワークを評価した（支援された自律性 対 遅い創造性）
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 大学卒業生のための AI スキル。教育者と雇用主の優先順位
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — スマートマニュファクチャリングのための労働力の即戦力
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI とエンジニアリング／コンピューティングの労働力の未来
-- [[post-covid-ict-career-aspirations]] — COVID-19 後の ICT 分野のキャリア展望
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 不安と置き換えの恐怖
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI 不安がキャリア適応力を通じてキャリア上の意思決定を損なう（63.35% の媒介）
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 不安と態度が就職活動不安を予測する（1,057 人の学生）
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 健康科学において AI 不安が求職不安を予測する（r=0.233、821 人の学生）
-- [[ai-attitude-latent-profiles-career-development-2026]] — 4 つの AI 態度プロファイル。キャリア・クラフティングと雇用可能性は不安ではなく関与を追跡した
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — 教員の予測は雇用についての証拠ではなく予想である
-- [[kong-ai-employability-cognitive-engagement-2026]] — 物語レビューによる、AI 支援の学習から雇用可能性への構成概念の地図
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — プログラムを AI 時代の労働市場に整合させるための 6 段階のプロセス枠組み。評価は行われていない
-- [[lu-career-cognitions-genai-exploration-2026]] — 中国の学生 1,445 人：AI の有用性、利用、キャリア探索を 1 つの横断的モデルで扱う

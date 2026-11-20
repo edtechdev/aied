@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -88,26 +90,3 @@ A qualidade do andaimento importa independentemente do acesso. Uma comparação 
 - **“Satisfação e benefício percebido indicam que uma ferramenta de IA para ciência de dados está funcionando.”** Os estudantes usaram LLMs intensamente para depuração e perguntas conceituais e **relataram alta satisfação, enquanto o benefício percebido para a aprendizagem profunda diminuiu ao longo do semestre**. A satisfação se manteve e a trajetória de aprendizagem autoavaliada caiu, então nenhum dos dois números isolado é o resultado.
 - **“Um modelo irrestrito é tão bom quanto um tutor guiado.”** Uma comparação experimental constatou que **o treinamento explícito em andaimento voltado ao raciocínio — dicas passo a passo, verificação — produziu melhor desempenho independente** do que o acesso irrestrito. A orientação, e o treinamento em como usá-la, carregaram o efeito.
 - **“Proteger contra a entrega de respostas é o suficiente.”** Um tutor criado especificamente, envolvendo uma API hospedada e com prompt de sistema para **orientar em vez de responder**, foi implantado em um curso semestral de R para graduandos de psicologia, onde **76% a 84%** dos estudantes o usaram em semanas relevantes para a prova. Isso é adoção, não evidência de que a proteção produziu aprendizagem: a proteção no nível do prompt é uma alavanca entre várias e não produz aprendizagem por si só.
-
-## Conceitos conectados
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Artigos conectados
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Ferramenta agêntica que gera conjuntos de dados sintéticos inspecionáveis para prática personalizada de estatística
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tutor de R criado especificamente; a adoção acompanhou o calendário de provas
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Rótulos de dificuldade de LLM acompanham níveis de Bloom, não o desempenho dos estudantes
-- [[tactile-statistical-graphs-accessibility]] — Pipeline de código aberto que gera gráficos estatísticos táteis com revisão do professor
-- [[guided-llm-scaffolding-independent-learning]] — Andaimento guiado superou o acesso irrestrito em desempenho independente
-- [[lund-socially-accountable-data-science-xai-2026]] — Incorporar a responsabilidade social ao currículo técnico de ciência de dados

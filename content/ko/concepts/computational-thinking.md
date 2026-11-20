@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -63,7 +65,6 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 
 타인의 모형을 재사용하는 것은 생산자 태도에 속합니다. 출판된 AI 모형을 구현하는 것 — 선택하고, 설치하고, 실행하고, 검증하는 것 — 은 예상되는 각 실패에 대한 대안 경로와 함께 배울 수 있는 구조화된 기술로 가르쳐질 수 있으며, 프로그래밍 배경이 없는 세 명의 [[chemistry-education|화학]] BSc 학생이 4개월 안에 효소-기질 예측 모형을 재현하고 확장했습니다([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-
 ## 실천적 지침
 
 교육자에게 일관된 메시지는 CT가 수동적 AI 사용이 아니라 *명시적이고, 비계가 놓인, 관찰 가능한* 참여를 통해 발달한다는 것입니다. 로보틱스는 교육과정에 대한 명시적 CT 개념 매핑과 짝지으십시오; LLM은 [[simulation]], 자연어 제어, CT 성장의 규모 있는 평가에 쓰되 시스템 사고 같은 구성개념에 대한 인간의 판단은 남겨 두십시오; 그리고 평가를 재설계하여 날것의 생성보다 AI 산출물의 평가와 진단을 강조하십시오. 환경이 무엇이든 — 초기 아동기의 플러그를 뽑은 놀이, 중등 [[stem-education]]의 로봇, [[higher-ed]]의 가상 교사 — 활동을 구조화하여 학생이 분해, 패턴, 추상화, 알고리즘에 대해 추론해야 하게 하고 완성된 해법을 받지 않게 하십시오.
@@ -80,56 +81,3 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 - **"AI 지원은 자원이 부족한 환경의 격차를 해소한다."** 조건이 갖춰지면 그럴 수 있습니다. **나이지리아 1학년 학부생 103명을 대상으로 한 14주 준실험**은 AI 지원 문제 기반 학습(ChatGPT와 Teachable Machine)이 성과를 냈음을 발견했고, "더 유능한 동료"로서의 AI는 다른 지원이 없는 곳에서 CT를 나릅니다. 그러나 그것은 구조화된 개입에 관한 발견이지, 학생에게 [[conversational-ai|챗봇]]을 주는 것의 속성이 아닙니다.
 - **"LLM은 CT를 신뢰성 있게 평가할 수 없다."** [[llm-computational-thinking-physics-2026|물리 CT 평가 연구]]는 LLM이 대규모 수강 과목에서 데이터 수행과 계산적 문제 해결 수행의 성장을 채점할 때 **인간 평가자를 그대로 비출 수 있음**을 발견했습니다. CT 평가 확장의 장애물은 평가자 역량이었고 그 제약은 완화되고 있습니다. 이는 설계 문제를, 도구가 준수 여부가 아니라 CT를 측정하는지의 문제로 옮깁니다.
 - **"CT는 로보틱스가 우연히 가르치는 코딩 기술이다."** **95개 연구의 [[meta-analysis-systematic-review|체계적 검토]]**는 로보틱스가 CT, 창의성, 문제 해결을 기르지만 **환경이 결과를 조절한다**는 점도 확인합니다. [[game-based-learning|게임 기반]] 전달은 비형식적 환경에 맞고 게임화는 형식적 환경에서 다릅니다. CT는 고르지 않게 전이되는 실천의 집합이므로, 전이 주장에는 실제로 사용한 과제 설계가 함께 제시되어야 합니다.
-
-## 연결된 개념
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## 연결된 문서
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — 컴퓨팅 사고(AI 훈련 검사, CTAT)
-- [[computational-thinking-aica-2026]] — 컴퓨팅 사고 수준과 AI 코딩 보조 도구(2026)
-- [[ai-writes-code-student-writes-model-2026]] — 모형 저자됨: GenAI와의 구성을 통한 학습에 대한 이론과 측정
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: 산출물 구성을 위한 구성주의 프레임워크
-- [[astor-computational-thinking-meta-review-2026]] — 128개의 체계적 검토에 대한 CT 메타 검토
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 유치원에서 로보틱스를 통한 CT에 대한 체계적 검토
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: 비프로그래머 과학자가 출판된 AI 모형을 구현하기 위한 재현 가능한 워크플로
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: 컴퓨팅 사고와 디지털 리터러시를 향상시키기 위한 디지털 디자인 사고 및 학습 플랫폼

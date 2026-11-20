@@ -10,6 +10,8 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 reviewed_by: [editor]
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 > **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[misconceptions|conceptual-change]] literature of [[science-education|science education]], refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In [[ai-education|AI in education]], refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalized dialogue, [[llm|LLM]]-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
@@ -65,24 +67,3 @@ For educators, refutation texts remain a reliable, low-barrier way to correct st
 **"More information about the correct conception fixes the resistance."** Volume of correct information is the intervention that already fails. Conceptual change requires the learner's existing model to be made explicit and found insufficient, which is a different instructional move from adding evidence.
 
 **"Misconceptions and ordinary ignorance need the same remedy."** They need different ones: ignorance is addressed by supplying knowledge, and a misconception must be unseated first. Treating the second as the first is why a well-explained lesson can leave a student's original model intact.
-
-## Connected Concepts
-- [[pedagogical-patterns]] — Refutation sequences, including two directly conflicting results
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. interactive AI dialogue
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training as an adjacent refutation-style intervention
-- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
-- [[ai-learning-companions-framework]] — AI companions and misconception correction
-

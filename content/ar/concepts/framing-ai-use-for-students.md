@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -96,37 +98,3 @@ ai_assist:
 **«حظر أداة يُزيل السلوك.»** إنه ينقله إلى أدوات لا تستطيع رؤيتها. فالطلاب يفضّلون أصلًا الأدوات التي تُنال وصولًا خاصًا على التي توفرها المؤسسة، فالحظر يدفع الاستخدام خارج البيئة الوحيدة التي يمكن فيها الدعم أو التسجيل أو الإرشاد. ومهمة التأطير أن يجعل السلوك المسموح هو الجاذب، لا أن يجعل السلوك المحظور أصعب في الملاحظة.
 
 **«التأطير إقناع، فهو بلاغة أكثر منه تصميمًا.»** التأطير الذي تصفه هذه الصفحة مقترن بالتصميم: توقعات تُعلَن بوضوح وتكرار *مع التصميم حول الطلاب*. والرسائل التي تُسلَّم بدل أن يُصمَّم لها هي النسخة التي تفشل، لأن الطلاب يقرؤون الفرق بين التزام معلَن والتزام فعلي.
-
-## المفاهيم المرتبطة
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## المقالات المرتبطة
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع ثلاثين خبيرًا على التسلسل: اقتنع بلا الجيل التوليدي، ودعّمه به، ثم فكّر بنفسك
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — تبرير شفاف لكل استخدام مسموح وغير مسموح للجيل التوليدي، مهمة بمهمة (ماكوركل 2025)
-- [[moral-panic-genai-classroom]] — تشجيع الاستخدام الملائم للجيل التوليدي بدلًا من إدانته كاضطراب
-- [[student-rationalization-ai-writing]] — «المواقع الخمسة» التي يبرر فيها الطلاب استخدام الذكاء الاصطناعي في الكتابة الأكاديمية
-- [[student-regulatory-awareness-genai]] — معرفة القواعد لا تكفي: الوعي التنظيمي والاستخدام الفعلي
-- [[ai-anxiety-strategic-regulation-writing-2026]] — من قلق الذكاء الاصطناعي إلى التنظيم الاستراتيجي
-- [[chatgpt-inoculation-training-verification-2026]] — رسائل التلقيح وسلوك التحقق
-- [[ai-fallibility-warning-help-seeking]] — التحذير من قابلية خطأ الذكاء الاصطناعي يزيد طلب المساعدة
-- [[shame-guilt-ai-regulation-computing-education]] — الخزي والذنب كمنظمين اجتماعيين لاستخدام الذكاء الاصطناعي
-- [[access-not-enough-ai-tutoring-2026]] — الدعم البشري يحسن الانخراط بتوجيه الرياضيات بالذكاء الاصطناعي
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — انخراط قائم على نظرية تقرير المصير مع الجيل التوليدي
-- [[ai-availability-student-motivation]] — كيف يشكل توفر الذكاء الاصطناعي دافعية الطلاب
-- [[youtube-frames-chatgpt-education]] — كيف يؤطر YouTube استخدام ChatGPT في التعليم
-- [[ai-ethics-education-public-discourse]] — الخطاب العام حول أخلاقيات الذكاء الاصطناعي في التعليم
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — يؤطر المعلّمون الذكاء الاصطناعي كاستخدام نقدي/مسؤول؛ ويؤطره أصحاب العمل كإنتاجية
-- [[ssaho-ai-academic-integrity-review-2025]] — بناء ثقافة النزاهة الأكاديمية بتوقعات واضحة

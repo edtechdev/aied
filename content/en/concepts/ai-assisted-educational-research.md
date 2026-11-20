@@ -21,6 +21,8 @@ ai_assist:
     role: drafting
     date: "2026-10-05"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 > **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* [[ai-education|AI in education]]: the designs used to study whether AI helps learners belong to [[research-methods-aied|research methods]], the appraisal of AI systems belongs to [[ai-ed-evaluation|AI ed evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research|interpreting and applying AIEd research]]. The subject is the researcher's own workflow and the practitioner-researcher's inquiry: the scholarship of teaching and learning and classroom research, and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
@@ -203,47 +205,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## Connected Concepts
-
-- [[research-methods-aied]] — the umbrella for the designs used to study AI in education
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Connected Articles
-
-- [[ai-methodologies-science-education-research-2026]] — a seven-phase reflective framework for how AI methodologies may transform science education research (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — one interdisciplinary review team's account of mentoring and selective AI integration (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — how 28 postgraduate students used GenAI across the research workflow, and the guidelines they suggest (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — a field-scale audit of fabricated references in the computing-education literature (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — a reporting framework for AI-assisted systematic reviews, and the accountability gap it documents (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — a CHIIR 2026 workshop report on generative AI and academic search (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — a single-investigator case study of a persistent agent in a research workspace (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — bibliometric evidence that AI-assisted writing accompanies smaller, younger research teams (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — a 30-day benchmark that evaluates tutor agents against a simulated learner (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that reproduces genuine novice struggle (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — why simulators abandon a misconception under any feedback, and how training fixes it (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — a pre-registered audit that uses a fixed simulated learner to test whether helpfulness measures pedagogy (Fan et al., 2026)

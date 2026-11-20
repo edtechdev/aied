@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -36,7 +37,3 @@ ai_assist:
 
 ## Защо съществува
 Кърт Зилбершер, който проектира корпоративно обучение от двадесет и осем години, описва същите малки нерешени проблеми, повтарящи се през кариерата му — броене на думи за озвучаване, намиране на ресурса, който е изтласкал курса над лимита на [[edtech-platform|LMS]], ръчен одит на покритието на субтитрите — и изгражда решенията и ги подарява. Сайтът провежда и безплатно годишно проучване как дизайнерите на обучение всъщност прекарват седмицата си.
-
-## Свързани понятия
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -75,31 +77,3 @@ Kwa sababu kasha za kielektroniki zinaweka mbele **mchakato, tafakari, na ufaham
 **Kwa watafiti**
 
 - Buni kwa ajili ya kutenga vipengele unaposoma mchanganyiko wa AI na kasha; vinginevyo uwanja hukusanya athari za mchanganyiko ambao hauwezi kuugawanya.
-
-## Dhana Zilizounganishwa
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Mtazamo wa wanafunzi kuhusu maendeleo ya ujuzi mwingi kwa kutumia tathmini ya kasha inayosaidiwa na AI (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT iliyounganishwa na tathmini ya kasha la kielektroniki kwa kuzungumza kwa EFL na ujuzi wa maoni (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini inayotegemea kasha na uwezo katika zama za AI
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Tathmini halisi inayostahimili AI ya kizalishaji, ikijumuisha kasha za michango ya kijamii
-- [[beyond-detection-authentic-assessment-ai-2025]] — Kasha zenye maelezo / utetezi wa mdomo kama tathmini inayopinga AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Kasha la Ushirikiano kwa wanafunzi wa mseto
-- [[pbl-structural-conditions-ai-2026]] — Kasha kama majibu ya sehemu ya tathmini katika kiwango kikubwa
-- [[learn-framework-responsible-genai-pbl-2026]] — Kasha binafsi za kujifunza kama alama za kujifunza zinazoweza kutathminiwa

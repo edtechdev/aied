@@ -18,7 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -95,51 +96,3 @@ ai_assist:
 ## Цитування
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
-## Пов’язані поняття
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-
-## Пов’язані статті
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Від’єднана розмовна поведінка в діалогах студент—ШІ (Rho et al. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Підтримка студентів на базі ШІ: чотирирічне дослідження реалізації та впливу інституційного чат-бота (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Порівняння оцінювання ChatGPT, ровесників і викладача на різних рівнях якості проєкту (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — Агенти ВММ з рамковою моделлю 5E для засвоєння граматики в ESL (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Перспективи студентів щодо чат-ботів GenAI (змішані методи)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Персони впровадження для чат-ботів ШІ
-- [[conversational-ai-agents-umbrella-review-2026]] — Зонтиковий огляд агентів розмовного ШІ в освіті
-- [[conversational-ai-tutors-framework]] — Рамкова модель репетиторів розмовного ШІ
-- [[measuring-llm-tutors-teach-vs-solve]] — Вимірювання, чи ВММ-репетитори навчають, чи розв’язують
-- [[stanford-evidence-base-ai-k12-2026]] — Специфічний для репетиторства ШІ проти загального ШІ
-- [[rethinking-scaffolding-llm-tutors]] — Переосмислення скаффолдингу в репетиторах на ВММ
-- [[conversational-agents-novice-programmers-scoping-2025]] — Огляд-мапування розмовних агентів для програмістів-початківців
-- [[ba-ai-agents-cscl-review-2026]] — Огляд агентів ШІ в колаборативному навчанні з комп’ютерною підтримкою
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Стать та мотивація в досягненнях з GenAI
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Адаптивний до ролі компаньйон ШІ для початкової книжкової розмови; афективна стеля агентів із фіксованою роллю (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI як агент і спільний простір у динаміці малих груп (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Керований ШІ культурно обізнаний чат-бот для виявлення стресу та підтримки добробуту серед студентів пакистанських університетів із використанням NLP і машинного навчання
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: навчальні здобутки в GRE від репетиторства зі ШІ та з людиною еквівалентні
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: скаффолдинг цілеспрямованого пошуку допомоги в ШІ під час розв’язування задач

@@ -12,6 +12,8 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 > **Synthesis:** Learners are the primary audience of [[ai-education|AI in education]] — the students in [[k-12]], [[higher-ed|higher education]] and [[adult-learning|adult learning]] whose work, understanding, and sense of self AI now shapes. The learner-side concepts form a single family: what learners experience ([[student-experience|student experience]]), who they are becoming ([[learner-identity|learner identity]]), what they still choose ([[agency|agency]]), how they actually interact with the tool ([[student-ai-interaction|student-ai interaction]]), whether their effort and [[self-regulated-learning|self-regulation]] hold up under it ([[cognitive-offloading|cognitive offloading]]), and how AI systems model them ([[student-modeling|student modeling]]). The recurring finding across that research is that the same tool helps and harms different learners differently — gains concentrate where [[prior-knowledge|prior knowledge]], [[ai-literacy|AI literacy]] and verification habits are already present, and reversal concentrates where AI substitutes for the thinking the task was meant to build.
@@ -96,50 +98,3 @@ The learner strand is read with [[stakeholders|stakeholders]] for the people aro
 **"Students using AI for shortcuts is a moral failing."** Least-effort pull is a design and policy problem rather than a character problem — students describe it in their own words, and the [[reducing-ai-misuse|misuse]] and [[academic-integrity|integrity]] literature locates the lever in task and environment design. Framing it morally explains nothing about why the same student behaves differently across two courses.
 
 **"When a misconduct allegation is made, the evidence is there."** The case files show a weaker footing: the weakest-rated evidence is what gets cited, no evidentiary floor decides whether a case advances, and thin cases end in appeals. Documenting only learners' usage and not their exposure to accusation would cover half the experience.
-
-## Connected Concepts
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — How learners perceive, interact with, and are affected by AI
-- [[learner-identity]] — Who learners are becoming in relation to a discipline and to AI
-- [[agency]] — What learners still control and choose
-- [[student-ai-interaction]] — What learners actually ask AI and how dialogues evolve
-- [[cognitive-offloading]] — Over-reliance and the substitution of AI for thinking
-- [[self-regulated-learning]] — Planning, monitoring, and adjusting one's own learning
-- [[help-seeking]] — Asking for help well, and the failure modes when learners do not
-- [[metacognition]] — Knowing what one does and does not understand
-- [[motivation]] — Why learners persist or stop
-- [[self-efficacy]] — Learners' confidence in their own capability
-- [[student-engagement]] — Behavioral, emotional, and cognitive engagement
-- [[prior-knowledge]] — The background knowledge that decides whether support becomes learning
-- [[student-modeling]] — Representing the learner inside the system
-- [[knowledge-tracing]] — Estimating skill acquisition over time
-- [[simulating-students]] — LLM-simulated learners as provisional stand-ins
-- [[ai-literacy]] — The capability that decides whether learners use AI well
-- [[equity-in-ai-education]] — Who benefits and who is left out
-- [[well-being]] — Anxiety, stress, and the affective cost of AI-mediated study
-- [[misconceptions]] — The mental models learners bring to AI
-- [[stakeholders]] — The other side of the same field: teachers, leaders, designers
-- [[assessment]] — Which learner capabilities are ever made visible
-
-## Connected Articles
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Reliance patterns and evaluation literacy split student outcomes
-- [[student-perceptions-ai-study-productivity-2026]] — Learners report efficiency gains alongside dependency concerns
-- [[student-llm-interaction-taxonomy-review-2026]] — A taxonomy of learning-oriented student-LLM interaction
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-specific patterns in student-AI chat
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Assisted performance gains without independent capability
-- [[genai-performance-vs-learning]] — Why assisted performance and unassisted learning must be measured apart
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
-- [[metacognitively-discordant-completion-genai-2026]] — Learners who notice they do not understand and submit anyway
-- [[verification-quality-reliance-calibration-genai-2026]] — Verification quality and reliance calibration
-- [[simulating-students-llm-review-2026]] — Simulated students: architecture, mechanisms, and limits
-- [[stanbkt-bayesian-knowledge-tracing]] — Parameter estimation in Bayesian knowledge tracing
-- [[demographic-signals-llm-student-assessment-2026]] — Implicit and explicit demographic signals in LLM-based assessment
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy, engagement, and psychological capital
-- [[genai-student-experiences-uk-he-survey-2026]] — Students describe the pull of least effort
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

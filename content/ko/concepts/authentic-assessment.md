@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -100,66 +102,3 @@ ai_assist:
 - **"실제성은 현실적인 과제에 관한 것이다."** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud, Du(2025)]]의 **37편의 실증 연구(2000-2024)** [[meta-analysis-systematic-review|범위 검토]]는 **여섯 차원**의 설계 모형을 제안하며, **37편 중 단 3편만이 사회적 실제성**, 즉 평가가 학생의 사회 변혁 기여를 돕는지를 다루었습니다. 현실성은 하나의 차원일 뿐이며, 가장 발전된 차원은 거의 연구되지 않았습니다.
 - **"실제적 평가는 AI에 저항한다."** 노출은 측정 가능하며 큽니다. **3년제 심리학 학위**가 **90% 통과 가능**한 것으로 드러났고, ChatGPT는 **40개의 학업 평가 중 36개에서 적절한 출력**을 만들어 냈으며, 남은 평가들만이 살아남았습니다. 학위 평가의 대부분이 AI로 충족될 수 있었습니다.
 - **"과제가 현실 세계의 것이면 재설계는 선택 사항이다."** 36/40이라는 결과는 실제성이 의심받지 않았을 과제에서 나왔습니다. 과제의 현실성은 AI 완수를 막지 못했고, 무엇을 평가하는지의 설계가 막았습니다.
-
-## 연결된 개념
-
-- [[learner-identity]] — 진화하는 학문적·전문적·창조적·학문적 학습자 정체성
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — 총괄평가: AI에 강건한 형식(구두, 감독, 폐쇄 서적 시험)
-- [[arts-and-media-education]]
-
-- [[reflection]]
-
-
-## 연결된 문서
-
-- [[thapa-lewis-process-oriented-assessment-2026]] — 과제가 인증해야 하는 것으로서의 과정 중심 평가와 인식론적 실제성
-- [[ivory-psychology-assessment-integrity-2026]] — AI가 통과하지 못한 것: 존재감, 시각적 산출물, 그리고 학생 자신의 데이터(Ivory 외 2026)
-- [[paternalistic-filter-llm-history-education]] — 역사 교육에서의 가부장적 AI 사용과 학생 정체성
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 실제적 평가를 위한 설계: 범위 검토
-- [[beyond-detection-authentic-assessment-ai-2025]] — 탐지를 넘어서: 실제적 평가
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
-- [[authentic-products-authenticated-processes-2026]] — 실제적 산출물, 입증된 과정
-- [[tool-invariant-framework-agentic-ai]] — 계산적 방법의 교수와 평가를 위한 도구 불변 프레임워크
-- [[cong-confidence-asag-2026]] — 신뢰도를 아는 자동 단답형 채점
-- [[llm-fallacy-misattribution]] — LLM 오류와 역량의 오인
-- [[universities-ai-era-rethinking]] — AI 시대의 대학 재고
-- [[ssaho-ai-academic-integrity-review-2025]] — AI 부정행위에 대응하는 다중 평가 방법
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 실제적이고 AI에 강건한 평가로서의 구두 시험 재고
-- [[roe-assessment-twins-2026]] — GenAI 시대에 평가 타당성을 강화하는 평가 쌍둥이(Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — 생성형 AI가 통합된 미래에 양질의 학습을 보증하는 적응적 역량(Lodge 외 2026)
-- [[asynchronous-oral-assessment-2026]] — AI 시대의 비동기 구두 평가(Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI 상호작용을 통한 학습 평가(DRI와 가시적 전문성)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — 학생 조가 GenAI 사용을 줄이게 한 실제성 준거
-- [[teacher-educators-ai-integration-preservice-2026]] — 교사교육자를 감독된 시험과 구두 변론으로 다시 밀어낸 AI 신뢰 위기(Goldstein 외 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — 실제적 평가와 구분되는 정직성 중심 설계: 판단을 가시적으로 만들기(Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 신고 파일이 실제로 담고 있는 증거, 그리고 그것이 결여한 과정 증거(Munoz 외 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기 정확도와 혼합 글쓰기 실패: 탐지가 약한 예비 증거인 이유(Hadra 외 2026)
-- [[wright-transcription-not-generation-2026]] — 과도 포괄적인 AI 금지: 전사는 생성이 아니다(Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등 교육에서의 Assessment Authentifire 시범 연구
-- [[ai-ethics-tensions-online-pedagogy-2026]] — 과제 현실성 부식: 온라인 언어 교수에서 실제성을 침식하는 AI 강건 재설계
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 실제적 형식이 노출된 양식(녹화된 발표, 원격 조별 프로젝트, 디지털 산출물)이 53,915개 항목에서 높은 점수를 받음: 실제성은 저자를 입증하지 않는다

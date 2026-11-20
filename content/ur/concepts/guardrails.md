@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -123,45 +125,3 @@ ai_assist:
 **"گارڈ ریل کی حدیں انجینئرنگ کے انتخاب ہیں جنہیں ٹیون کیا جاتا ہے۔"** حد ایک پالیسی فیصلہ ہے جس کی تقسیمی لاگت ہے۔ زہریلے پن کی حد 0.3 سے 0.7 کرنے پر نشان زد پرامپٹ **35.62% سے 12.4%** ہو گئے؛ کسی فراڈ ڈیٹیکٹر پر اس نے **15 جھوٹے الارم اور 18 چھوٹے ہوئے فراڈ کے بدلے 2 اور 36** کر دیے۔ کوئی حد یہ سودا ختم نہیں کرتی — وہ صرف یہ طے کرتی ہے کہ ادارہ کون سی غلطی ترجیح دیتا ہے، اور یہ فیصلہ ادارے کا ہے، کسی طے شدہ مستقل کا نہیں۔
 
 **"انصاف کا آڈٹ گارڈ ریل کی کفایت سے الگ معاملہ ہے۔"** انکار اور معاونت کے نمونے یکساں طور پر لگائے جانے پر بھی فائدہ غیر مساوی تقسیم کرتے ہیں، اور اوسط نقصان کی شرح چھپا دیتی ہے کہ کون سے طلبہ اسے جھیل رہے ہیں۔ آڈٹ کو گارڈ ریل کی تفصیل کا حصہ ہونا چاہیے، بعد میں کرایا گیا مطالعہ نہیں۔
-
-## منسلک تصورات
-
-- [[pedagogical-safety]] — وہ مقصد جسے گارڈ ریل نافذ کرتے ہیں
-- [[prompt-engineering]] — جواب کے بجائے اشارہ کی ڈیزائن تکنیک
-- [[rag]] — علم کی بنیاد بطور گارڈ ریل
-- [[human-in-the-loop-ai]] — استاد کی معیار جانچ اور نگرانی
-- [[llm-training-and-fine-tuning]] — تربیت/ہم آہنگی کی تہہ
-- [[reinforcement-learning]] — محفوظ رویے کے لیے انعام کی تشکیل
-- [[bias-mitigation]] — انصاف کے لیے گارڈ ریل کا آڈٹ
-- [[ai-sycophancy]] — وہ ہیر پھیر کا خطرہ جس کی گارڈ ریل کو مزاحمت کرنی ہے
-- [[scaffolding]] — وہ تدریسی میکانزم جو گارڈ ریل بچاتے ہیں
-- [[socratic-method]] — جواب کے بجائے اشارہ کا تعامل طریقہ
-- [[hallucination-risk]] — وہ من گھڑت خطرہ جو گارڈ ریل کم کرتے ہیں
-- [[cognitive-offloading]] — وہ حد سے زیادہ انحصار کا نقصان جو گارڈ ریل روکتے ہیں
-- [[k-12]] — وہ سیاق و سباق جہاں گارڈ ریل سب سے زیادہ اہم ہیں
-- [[ethics]] — معیاری بنیاد
-- [[governance]] — پالیسی کی تہہ
-- [[intelligent-tutoring]] — وہ نظام جن کی نگہبانی کی جا رہی ہے
-- [[misconceptions]] — وہ علم جس کی گارڈ ریل کو جانچ کرنی ہے
-- [[trust]] — اچھے ڈیزائن والے گارڈ ریل کا نتیجہ
-- [[llm]] — وہ ماڈل تہہ جسے محدود کیا جا رہا ہے
-
-## منسلک مضامین
-- [[ai-security-literacy-k12-framework-2026]] — AI سیکیورٹی خواندگی: ماحولی نظام پر مبنی قابلیت کا فریم ورک اور K-12 سیکھنے کا پلیٹ فارم
-- [[reflection-agent-fidelity-career-2026]] — جہاں جانچ ممکن ہو وہاں وفادار: رینڈمائزڈ آزمائش میں ایک ریفلیکشن ایجنٹ کا اس کے سسٹم پرامپٹ کے مقابلے آڈٹ
-- [[scaffolding-student-ai-dialogue-framework-2026]] — طلبہ اور AI کے مکالمے کو ہدایت دینے کا SCAFFOLD فریم ورک، اور اس کا کلاس روم پائلٹ
-- [[generative-ai-guardrails-harm-learning]] — گارڈ ریل پر بنیادی فیلڈ RCT
-- [[eduzone-llm-safety-k12]] — K-12 میں LLM تحفظ کا فریم ورک
-- [[eduguard-safe-rag-llm-tutor]] — ٹیوٹروں کے لیے RAG پر مبنی تحفظ
-- [[paternalistic-filter-llm-history-education]] — تعصب کے لیے گارڈ ریل کا آڈٹ
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL سے ہم آہنگ رہنمائی والا سیکھنا
-- [[tact-pedagogically-adaptive-esl-tutoring]] — درجہ بندی سے ہم آہنگ بعد از تربیت
-- [[eduframetrap-llm-sycophancy-educational-safety]] — خوشامد بطور تحفظ کا خطرہ
-- [[ai-tutor-authoring-promptdecipher]] — استاد کی زیرِ قیادت معیار کی جانچ
-- [[llm-unlearning-math-privacy]] — ماڈل سطح پر ان سیکھنا
-- [[pedagogical-safety-rl]] — تدریسی تحفظ کے لیے انعام کی تشکیل
-- [[residencyrl-clinical-rl-training-2026]] — طبی تربیت میں تحفظ سے ہم آہنگ RL
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — ابتدائی ریاضی کے LLM ٹیوٹرنگ نظام میں قاعدے سے ہدایت والا بمقابلہ بے قاعدہ سہارا (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — ڈیزائن سے تدریسی گورننس: کمپیوٹنگ تعلیم میں AI کے لیے ایک فریم ورک
-- [[guardrails-ai-teaching-assistants-programming-2026]] — گارڈ ریل یا رکاوٹیں؟ پروگرامنگ کے AI تدریسی معاونوں میں تدریسی اسلوب اور سیاق و سباق کی آگاہی کے اثرات
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — حقیقی کلاس رومز میں مشاہدہ کیے گئے 20 AI اوزاروں میں طلبہ کی سوچ کو خطرہ مصنوع کی قسم کے مطابق کیسے بدلا

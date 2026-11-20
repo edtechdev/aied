@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -45,6 +46,3 @@ Instruktionsdesigners och lärare som vill ha ett designbeslut med evidensen bif
 ## Anteckningar och förbehåll
 
 Läs tillitspanelen på varje sida. Språkmodeller underhåller wikin under en mänsklig underhållare, ingen person har granskat någon sida, och sajten märker en sida som en välkällbelagd ledtråd snarare än ett fynd. Påståenden bär en designnivå, en kod för effektstorlek och en kod för stringens, och ”ingen effektstorlek angiven” betyder att källan inte rapporterade någon, inte att ingen finns. Innehållet är CC BY-SA 4.0, så återanvändning måste bära samma licens, och koden är MIT.
-
-## Anslutna begrepp
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

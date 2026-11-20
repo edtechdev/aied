@@ -11,6 +11,8 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 > **The SAMR model** — a technology-integration framework developed by Ruben Puentedura that classifies the extent to which a technology transforms learning along four levels: **Substitution, Augmentation, Modification, and Redefinition**. The lower two levels (Substitution, Augmentation) *enhance* an existing task — the technology does what was done before, better or more conveniently; the upper two (Modification, Redefinition) *transform* it — the task itself changes to something not previously possible. In [[ai-education|AI in education]], SAMR is the standard lens for asking whether [[generative-ai|generative AI]] is being used to incrementally improve existing practice or to reconceptualize learning, and it sits alongside [[tpack|TPACK]] as a way of describing how teachers integrate technology rather than why they accept it.
@@ -70,29 +72,3 @@ SAMR is best understood as an integration-depth lens used in planning and evalua
 **"SAMR and TPACK are competing frameworks."** They describe different things: SAMR describes the *degree of transformation* in a task, while [[tpack|TPACK]] describes the *knowledge* a teacher needs to integrate technology well. A teacher can be highly TPACK-capable and still operate at Substitution, which is why the two are used together rather than chosen between.
 
 **"A tool that is transformative at one level is transformative at all levels."** The same generative tool can support a Substitution in one course and a Redefinition in another, because the level is a property of the task design rather than of the technology. Attributing the level to the tool produces adoption decisions in place of design decisions.
-
-## Connected Concepts
-
-- [[ai-education]] — AI in education (umbrella)
-- [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Technology adoption models
-- [[icap-framework]] — The ICAP framework of cognitive engagement
-- [[ai-technologies]] — AI technologies and techniques
-- [[teacher-ai-competency]] — Teacher AI competency
-- [[educational-development]] — Educational development
-- [[learning-design]] — Learning design
-- [[k-12]] — K-12 education
-- [[higher-ed]] — Higher education
-- [[generative-ai]] — Generative AI
-
-## Connected Articles
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI integration in higher ed graded with SAMR: mostly Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP and SAMR mapping the four cooking-to-learning scenarios
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR among the lenses for GenAI-driven curriculum change
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR among the frameworks informing faculty technology standards
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
-- [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity
-

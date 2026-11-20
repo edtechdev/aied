@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -62,32 +64,3 @@ RAG играет роль, дополняющую дообучение [[llm]] �
 - **«Качество поиска — вся проблема».** Поиск необходим и недостаточен. Ответы с опорой набрали **9,05 из 10 с бутстрап-доверительным интервалом разности, исключающим ноль**, и **чаще опирались на материал, который отвечающий действительно видел (98% против 81%)**, — то есть измеренный прирост в верности доказательствам, а доказательства должны быть верными, чтобы эта верность что-то значила.
 - **«Поиск по одной странице обобщается».** Оба разрыва **примерно утраивались на вопросах, требовавших материала более чем с одной страницы** (межстраничные оценки 9,93 против более низкого базового уровня). Многодокументное рассуждение — там, где системы с опорой деградируют, и именно там курсы задают самые трудные вопросы.
 - **«Поиск снимает нужду в scrutiny».** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] извлекает из одобренных материалов одного модуля, чтобы обслуживать студентов, которые не решаются спросить человека, — защитимая область охвата. Именно узкие одобренные корпуса делают опору осмысленной; одна метка — нет.
-
-## Связанные концепции
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Зонтичная категория: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентность)
-
-## Связанные статьи
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Помощник по планированию уроков с опорой на учебный план, чья экономия времени не превысила общего чат-бота
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: генерация с дополненным поиском для образования по теоретической информатике — всеобъемлющая рамка оценки для анализа алгоритмов и теории сложности
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Снижение барьеров для академической поддержки: оценка системы RAG для конкретного курса при устранении неравенства в обращении за помощью в высшем образовании
-- [[wiki-llm-indexing-ml-classes-2026]] — Потенциал улучшения обучения на занятиях по машинному обучению с использованием индексирования через вики и LLM
-- [[on-premises-rag-tutoring-business-education-2026]] — Локальное тьюторство с RAG для нескольких курсов в бизнес-образовании

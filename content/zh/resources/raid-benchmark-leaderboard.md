@@ -22,6 +22,7 @@ ai_assist:
 translation_of: resources/raid-benchmark-leaderboard
 source_updated: "2026-11-17T13:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -41,9 +42,3 @@ RAID 是多数关于[[ai-detection|AI 文本检测]]的严肃主张背后的那�
 ## 说明与注意事项
 
 这项基准衡量的是机器生成文本的检测，而不是不端行为：一个用 AI 来构思、列提纲或修改的学生，产出的文本本就不是检测器为捕捉而造的，而一个[[language-learning|用第二语言写作]]的学生是排行榜无法显示的已知假阳性风险。RAID 是由一个学术团队维护的研究产物；覆盖范围跟随其测试集中的生成模型，因此在基准刷新之前，更新的模型可能被代表不足。排行榜给检测器排位，而不是给其厂商的数据处理实践排位，高 AUROC 也不说明把学生作业提交给那个服务在你的法域里是否合法或合乎伦理。
-
-## 关联概念
-
-- [[ai-detection]] — 这项基准所评估的方法家族
-- [[academic-integrity]] — 检测器分数被使用的政策语境
-- [[benchmark]] — 它所属的那一类更广泛的工具

@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,16 +87,3 @@ Portfolio이 그것입니다. 부록 A에는 과정을 포착하기 위한 AI–
 CC BY 4.0으로 v1 발표되었으며, 계정 없이 무료로 내려받을 수 있습니다. 수집 시점에
 기록에는 조회 약 35회, 다운로드 약 14회만 표시되어, 아직 외부 활용이나 동료 검토는
 거의 이루어지지 않았습니다.
-
-## 연결된 개념
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -86,39 +88,3 @@ Identitatea învățăcelului se leagă de [[agency|agenție]] (identitatea este
 **„Asistența IA coboară barierele și, prin urmare, lărgește participarea.”** Ea poate coborî bariera producerii unei lucrări în timp ce îngustează bariera revendicării autoratului. Un student care predă un artefact fluent pe care nu l-a autorat a primit acces la rezultat și i s-a refuzat recunoașterea care construiește identitatea din spatele lui.
 
 **„Recunoașterea identității unui învățăcel ține de reprezentarea în conținut.”** Reprezentarea contează, iar recunoașterea este pusă în act în practică: ale cui întrebări sunt preluate, a cui contribuție este creditată și cine este tratat ca fiind capabil. Un [[curriculum-design|curriculum]] poate fi reprezentativ și totuși poate reține recunoașterea pe care o cere formarea identității.
-
-## Concepte conectate
-
-- [[learners]] — Învățăceii: umbrela pentru conceptele din partea învățăcelului
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Articole conectate
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 studenți de licență despre ce continuă să facă singuri și de ce scopul rareori decide asta
-- [[guarded-adoption-genai-higher-education-2026]] — Adoptare precaută a IA generative în învățământul superior
-- [[t2i-competence-paradox-2026]] — Paradoxul competenței: identitatea creativă în utilizarea GenAI text-la-imagine
-- [[shame-guilt-ai-regulation-computing-education]] — Rușinea și vinovăția ca reglatori sociali ai utilizării IA
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacități adaptive pentru o identitate profesională viabilă într-un viitor GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbioza pedagogică și învățăcelul post-uman
-- [[ai-pedagogical-accompaniment-amico]] — Însoțire pedagogică asistată de IA care sprijină identitatea STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Proiectarea pentru evaluare autentică
-- [[paternalistic-filter-llm-history-education]] — Utilizarea paternalistă a IA și identitatea studentului în educația istorică
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI ca criză de identitate pentru cadrele didactice (identitatea profesorului)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Formarea profesorilor bazată pe TPK și identitatea profesională
-- [[genai-professionalization-metaphors-2026]] — Conceptualizări ale GenAI și identitatea profesională a studenților
-
-- [[synthetic-position-self-authorship-2026]] — Suspendarea autorală: autoratul delegat ca sine dens vocalizat, dar neautoral (analiză conceptuală)
-- [[vibe-coding-design-diversity-2026]] — Un instrument, un gust? Cum schimbă vibe coding diversitatea colectivă pentru creativitatea individuală

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -105,48 +107,3 @@ Temuannya baru bermakna setelah mencapai pengajaran, dan perjalanan itu melewati
 - Jangan menghentikan latihan hanya berdasarkan kebenaran. Modelkan kondisi penahanan sebagai keterampilan tersendiri, atau sistem akan mensertifikasi generalisasi berlebih.
 - Biarkan rasio menjadi parameter alih-alih konstanta, karena buktinya menyatakan optimumnya bergantung pada konten.
 - Laporkan konstruk mana yang diukur kriteria Anda, terpisah dari konstruk mana yang diukur validasi Anda.
-
-## Konsep terkait
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Artikel terkait
-
-- [[competent-generative-ai-use-measures-review-2026]] — Tinjauan dan meta-analisis eksploratif atas ukuran penggunaan AI generatif yang kompeten (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Kebenaran yang menutupi aturan tidak lengkap: aturan penghentian penguasaan dalam pembelajaran adaptif (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Audit kontrafaktual sinyal demografis dalam penilaian siswa oleh LLM (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Rantai Markov dan penambangan pola atas 29,064 aktivitas di 554 kursus (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Pemeriksaan diri yang menjaga privasi dan non-diagnostik untuk offloading terkait AI (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Tata kelola zero-shot: AI serba guna dalam kebijakan, dibaca melalui basis kode Redbox (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Mengapa rasio contoh–masalah terbaik bergantung pada konten (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Guru merancang chatbot ahli-terbatas, dengan delegasi pengajaran yang selektif (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK GenAI fakultas: pengetahuan konten kuat, pengetahuan terintegrasi teknologi lemah (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: uji acak tutorial langsung manusia–AI dalam skala besar (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Delphi terpreregistrasi 30 pakar tentang proses pembelajaran mana yang ditingkatkan GenAI dan mana yang diancamnya
-- [[three-pathways-student-ai-interaction-2026]] — Tipologi interaksi siswa-AI: 64% pasif atau transaksional, 36% dialog strategis
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Gaya umpan balik, bukan jenis agen, yang menggerakkan keterlibatan pengaturan diri
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Bukti proses bergantung pada saluran
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Distribusi penggunaan GenAI adalah pilihan institusional
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Ketergantungan dalam-diri mendahului penurunan agensi yang dirasakan
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Analisis sekuensial lag ditambah penambangan proses menempatkan AI di pusat interaksi kelompok atau pada jalur linear tergantung komposisi prakonsepsi (Wang et al. 2026)

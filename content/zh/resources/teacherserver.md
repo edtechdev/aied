@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -40,8 +41,3 @@ K-12 方面：教案、练习纸、[[special-education|IEP 目标]]、数学应�
 ## 说明
 
 项目声称使用本地安装的 AI 服务器以获得速度，数据在本地处理且从不存储，并符合教育部指南；[团队页面](https://teacherserver.com/index-team.php)署名 Zafer Unal（南佛罗里达大学教授）为创始人和开发者，另有一个由其他四所大学教师组成的顾问委员会。这些声明在用于学生作业之前仍然值得核实。使用需要注册，另有一个稍后收费的姊妹平台，可以让你构建自己的工具。
-
-## 关联概念
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

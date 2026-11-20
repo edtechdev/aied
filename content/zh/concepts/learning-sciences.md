@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,46 +107,3 @@ ai_assist:
 - **“更多的例题更安全。”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]把例题与问题的比例当作**内容与处理的交互**，而在 2×2 实验中，最优解**取决于内容**。不存在全局正确的比例，因此一个固定的教学模板是在与一种交互对赌。
 - **“修正[[misconceptions|误解]]就是告诉学生正确答案。”** 简短的“不要行动”练习配合指出缺失约束的[[feedback]]，把误用率降到 **0.0%-23.1%（Cohen's h 1.70-2.44）**，而对 **13 个 K-12 *Decimal Point* 数据集**的二次分析发现了同样的结构模式。有效的干预是带有针对性反馈的区分性练习，而不是断言式纠正，这也正是[[refutation-text|反驳文本]]研究一般性地确立的东西。
 - **“更高的 Bloom 层级意味着更多的[[active-learning|主动学习]]。”** 学习类型追踪的是预期结果层级，**习得从 Bloom 第 1 级约占活动的 50%，降到第 6 级的约 20%**。认知要求与活动类型一同移动，但不是同一根轴，因此按 Bloom 层级给任务贴标签，并不能告诉你学习者会拿它做什么。
-
-## 关联概念
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## 关联文章
-
-- [[competent-generative-ai-use-measures-review-2026]] — 对胜任使用生成式 AI 之测量的综述与探索性元分析（Verí 2026）
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 正确性掩盖了不完整的规则：适应性学习中的掌握停止规则（An, McLaren & Stamper 2026）
-- [[demographic-signals-llm-student-assessment-2026]] — LLM 学生评估中人口统计信号的反事实审计（Rooein, Benedetto & Hovy 2026）
-- [[learning-paths-patterns-learning-design-2026]] — 在 554 门课的 29,064 个活动上的马尔可夫链与模式挖掘（Divjak, Svetec & Horvat 2026）
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — 一个保护隐私、非诊断性的与 AI 相关卸责自检工具（Alam 2026）
-- [[perrotta-zero-shot-governance-2026]] — 零样本治理：通用 AI 在政策中的应用，借 Redbox 代码库解读（Perrotta 2026）
-- [[rachatasumrit-example-problem-ratio-2026]] — 为何最佳例题—问题比例取决于内容（Rachatasumrit, Koedinger & Carvalho 2025）
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教师设计有边界专家的聊天机器人，对教学做选择性委托（Reichert et al. 2026）
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 教师生成式 AI TPACK：内容知识强、技术整合知识弱（Sutedjo, Chowdhury & Liu 2026）
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot：一项大规模人机协同实时辅导的随机试验（Wang et al. 2024）
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 一项 30 位专家参与的预注册 Delphi 研究，关于 GenAI 增强哪些学习过程、威胁哪些学习过程
-- [[three-pathways-student-ai-interaction-2026]] — 学生与 AI 交互的类型学：64% 为被动或事务性，36% 为策略性对话
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 反馈风格，而非智能体类型，推动了自我调节的投入
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 过程证据是随渠道而定的
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — GenAI 使用的分布是一种制度性选择
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 个体内部的依赖先于感知到的能动性的下降
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 滞后序列分析加过程挖掘，依前概念构成把 AI 置于小组互动枢纽或线性路径上（Wang 等，2026）

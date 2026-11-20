@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -94,32 +96,3 @@ ai_assist:
 - **«Згенерований ШІ текст легший, бо його згенеровано під рівень».** Щодо виходу моделей докази свідчать про протилежне: передові моделі надмірно використовують конструкції, пов’язані із затратами на розуміння.
 - **«Читання зі ШІ — одна поведінка».** Шкала AIR виявляє чотири різні мотиви, і вони передбачають різні види використання.
 - **«Якщо ШІ може переписати текст, рівень читання вже не важить».** Диференціація змінює підтримку навколо уривка більше, ніж структурну складність уривка, а це інше втручання, ніж зниження його рівня.
-
-## Пов’язані поняття
-
-- [[ai-education]] — парасолька, під якою перебуває ця галузь
-- [[language-learning]] — читання другою мовою (L2) перетинається, але об’єктом там є опанування
-- [[writing-education]] — бік грамотності, пов’язаний із компонуванням
-- [[english-education]] — читання й читабельність у EAP/EFL/ESL
-- [[educational-nlp]] — шар вимірювання тексту, від якого залежить читабельність
-- [[assessment]] — оцінювання читання та валідність балів
-- [[motivation]] — чому читачі використовують ШІ і що це робить з опрацюванням
-- [[scaffolding]] — шари підтримки в диференційованих матеріалах читання
-- [[neurodiversity]] — дислексія та складність читання
-- [[accessibility]] — людиночитабельний текст проти машиночитабельного
-- [[generative-ai]] — технологія за згенерованими й адаптованими текстами
-
-## Пов’язані статті
-
-- [[air-scale-motivations-ai-reading-2026]] — валідована шкала мотивів читання з GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — опосередковане ШІ оцінювання читання в класі EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — диференційовані матеріали читання для EAP
-- [[llm-children-reading-story-generation]] — дитячі історії для читання з контролем рівня
-- [[text-simplification-its]] — оцінювання спрощення тексту для тьюторського супроводу
-- [[clara-developmental-appropriateness-children-stories-2026]] — складність розвитку поза формулами читабельності
-- [[bird-multimodal-educational-literature-2026]] — класифікація літератури за Key Stage
-- [[clark-ai-generated-language-readability-2026]] — чому згенеровану ШІ мову важче читати
-- [[sidorkin-ai-generated-course-readings-2026]] — курсові читання, згенеровані ШІ під запит
-- [[airri-machine-resistant-reading-interface-2026]] — машинностійкі інтерфейси читання та їхня ціна читабельності
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — зворотний зв’язок ChatGPT у читанні в середній школі
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ШІ для здобувачів з дислексією

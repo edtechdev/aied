@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -113,57 +115,3 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - **"只要在高信度上通过验证，[[llm|大语言模型]]就能映射一门课程。"** GPT-o3-mini 为 **48 项评估**中的每一项把 **100% 分配到七项企业技能**上，与专家权重相比达到 **Krippendorff's alpha 0.81**，而**一致性**在某些具体技能上崩塌。整体信度高而一致性不均，是信任该映射之前应当核查的模式。
 - **"嵌入 AI 素养意味着增设一门课程。"** LearnAI 展示了嵌入的形态：一层由简短报告构成的广泛接触层，嵌在横跨五个学科的 **18 门既有课程**中（**293 名学生**）。接触被分散到整个课程中，而非集中成一个单元。
 - **"学生来到课堂时已经能批判性地评价媒介。"** 只有 **13.8% 的受访教育与新闻专业学生**说自己的课程涉及批判性媒介分析，而有 **97.8%** 认为它重要。重视一项技能与真正被教过它之间的缺口，正是课程设计的入口。
-
-## 关联概念
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-- [[recommender-systems-and-learning-paths]]
-
-## 关联文章
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 面向认证的、经专家验证的加权技能映射
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对"GenAI 用于建构式对齐"指引的批判话语分析（McInnes et al. 2026）
-- [[icet-ml-education-trust-2026]] — 通过教育应对AI系统中的信任问题：一个教学法视角
-- [[refrain-amplify-genai-curriculum-2026]] — 为 GenAI 排序的"先克制后放大"课程框架（Torres-Sahli et al. 2026）
-- [[mechanical-engineering-ai-curriculum-2026]] — 热力学工程中的项目式AI教育课程
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 时代的智能制造劳动力就绪等级框架
-- [[rewriting-curriculum-genai-pedagogy-2026]] — 重写课程：GenAI 驱动的教学法变革
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI 技能框架：用于课程映射的 26 项可评估技能
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI：跨学科的即时 AI 共创
-- [[ai-video-dual-gatekeeping-2026]] — 说"不"如何做出更好的视频：面向有教学依据的AI内容创作的双重把关
-- [[niri-steam-ai-literacy-review-2026]] — 面向 AI 素养的 STEAM 教育：系统综述
-- [[caruana-pre-university-ai-education-slr-2026]] — 让学习者与教师为 AI 驱动的未来做好准备：大学前 AI 教育的系统综述（Caruana 等人 2026）
-- [[ai-modeling-problem-generation-platform-2026]] — 生成数学建模问题的 AI 驱动平台（ADDIE、RAG）
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — 粒子物理教育中的 AI：研究问题与基础技能
-- [[computing-assessment-genai-workshop-report-2026]] — AI 能替你做作业了，然后呢？一场关于生成式 AI 时代计算评估的在线工作坊报告
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 能力框架在五个维度上趋于一致，却没有共享的词汇或对照
-- [[bursic-ai-residency-education-curriculum-2026]] — 把 AI 整合进住院医师课程的障碍：对十二位医师领导者的质性访谈
-- [[rodafinos-llm-curriculum-audit-2026]] — 心理学中由大语言模型辅助的课程审计：一种基于提示的方法

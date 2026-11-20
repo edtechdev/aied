@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -120,34 +122,3 @@ Due altri risultati complicano qualsiasi storia semplice degli strumenti generat
 **Per i ricercatori**
 
 - Vai oltre i casi di studio su singolo studio prima di fare affermazioni valide per la disciplina, e riporta la struttura dello studio, poiché condiziona il risultato.
-
-## Concetti collegati
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## Articoli collegati
-
-- [[genai-xr-architectural-design-education-2026]] — GenAI più XR multi-utente in un vero studio architettonico: ruoli complementari, auto-efficacia di design in declino, nessun vantaggio di portfolio (Xiao et al. 2026)
-- [[genai-architecture-education]] — Un flusso di lavoro di immagini eseguito localmente e specifico per disciplina in uno studio di architettura: spazio di ricerca creativa più ampio e ansia da critica ridotta (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — Studio longitudinale e la piattaforma GAI-A: la GenAI come stimolo ed espansione dello spazio delle soluzioni, con la fissazione sul design come rischio (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — Designer di interni come curatori dell'output delle macchine, e che cosa dovrebbero farne curriculum e regolazione professionale (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Apprendimento basato sul progetto dentro un ambiente immersivo abilitato dall'IA nell'interior design vocazionale (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — Un capstone di narrazione digitale di 15 settimane con 426 studenti: novità forte, integrazione debole, l'IA come strumento non autore (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — Accettazione del testo-immagine tra 417 studenti di arte e design, e il paradosso della competenza dell'uso selettivo (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — Economia dello streaming, generatori autonomi contro assistenti di composizione, e ripensare il curriculum musicale (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — Mettere a benchmark GPT-4o-mini contro le medie dei docenti su 300 risposte di analisi musicale (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — Perché la precisione della misurazione non è valore educativo nell'insegnamento vocale assistito dall'IA (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Design guidato dalla disabilità dell'istruzione ad arco tattile e cinestetica per musicisti ciechi e ipovedenti (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Istruzione VR assistita da LLM per l'illuminazione di scena, e il divario tra rappresentazioni esperte e da novizio (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: giochi epistemici per interpretare i modelli testo-immagine (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Agentività creativa, fiducia e qualità dell'output valutata da esperti negli studenti d'arte

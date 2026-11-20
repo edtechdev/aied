@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,7 +69,6 @@ Kutunga nadharia upande wa mwalimu sasa unafanya dhamana ileile ya kufanyiwa maj
 - **Wakala wa kiakili wa mahusiano na utegemezi wa kiakili.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] wanachangia akaunti ya kukusanya-kwa-mahususi ya wakati utegemezi unaoendeshwa na AI unahifadhi dhidi ya kuondoa uamuzi. Wanaweka uendeshaji wa mpaka wa utegemezi wenye tija/utegemezi wenye madhara kupitia vigezo sita vya uchanganuzi (uwezo wa kupingwa, urejeshaji, uhamisho, ufuatiliaji, uwajibikisho uliogawanywa, utofauti wa kiakili) na kufuatilia njia nne za kiteknolojia-jamii (mamlaka yenye ufasaha, ukabidhiwa usio na mwendo, muunganisho usio na uwazi, utegemezi uliowekwa katika taasisi). Pendekezo lao la kanuni, **wakala wa kiakili wa mahusiano**, unapanua mistari ya uhuru wa mahusiano na wakala mwenza wa kiakili kwa kuhifadhi ukosefu wa usawa wazi — AI inaweza kuunda ufikiri bila uwajibikisho wa kupishana au mamlaka halali — huku ikijumuisha uwajibikisho na haki ya kiakili katika ngazi ya taasisi. Kama nadharia ya kujifunza na AI, inahamisha swali la uwanja kutoka kama AI inasaidia au inadhuru kwenda ni hatua zipi za kiakili zinahifadhiwa, zinabadilishwa, au zinaondolewa, na inafanya *ubunifu wa utegemezi* badala ya matumizi ya kawaida kuwa kitu cha hatua ya mbinu za kufundisha na taasisi.
 
 Matokeo ya mfano huo yanapanda hadi hadhi ya maarifa ya pamoja bila uthibitisho wa jumuiya ambao hadhi hiyo inahitaji — kile Webb et al. (2026) wanakiita pseudo-cPCK, na sababu uwanja unahitaji dhana mpya ya kinadharia badala ya kiolesura bora ([[webb-pck-genai-2026|Webb et al., 2026]]).
-
 
 ## Kusukuma nadharia zilizokwishakithiri
 
@@ -120,55 +121,3 @@ Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika el
 
 - Buni kwa ajili ya utofautishaji wa usanidi kama unakusudia mchango wa kinadharia. Jaribio la athari ya wastani linalochapishwa kama uundaji wa nadharia ni pato la kawaida zaidi na lisilo na manufaa zaidi la uwanja.
 - Ambatanisha madai wazi yanayoweza kukanushwa kwa mfumo wowote unaouanzisha, na ripoti ni tofauti zipi za usanidi ambazo zingeyakanusha.
-
-## Dhana Zilizounganishwa
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Makala Zilizounganishwa
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Kupanua uainishaji wa kiutendaji: machapisho 90 kati ya 154 yanayoweza kuainishwa (58.4%) yako nje ya makundi manne ya awali (Ranieri & Biagini 2026)
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Mzunguko wa ushirikiano wa kiakili
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Ugumu unaotamanika na kushindwa kwa tija vikitumika kwa wakala wa kufasiri katika elimu ya nje ya nchi
-- [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kujifunza ya kiwango cha kati ya mwingiliano wa binadamu-AI, yenye mifumo minne na madhai sita yanayoweza kufanyiwa majaribio (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupitisha kwa ujumla kwa udanganyifu: ustadi unaobadilika unaweza kusitisha mazoezi kabla ya wanafunzi kujua lini kukana kitendo (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativism kama nadharia mpya ya kujifunza
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Kuelekea nadharia ya wakala mwenza wa kiakili
-- [[du-yuan-epistemic-dependence-2026]] — Wakala wa kiakili wa mahusiano na mpaka wa utegemezi wenye tija/utegemezi wenye madhara (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Msingi wa kiasali uliopungua (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Hifadhi ya kiasali ya kiakili na uundaji upya wa utaalam
-- [[genai-performance-vs-learning]] — Utendaji dhidi ya kujifunza
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Ujuzi wa AI wa Kiakili (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Vyeti na utunzaji wa kiakili
-- [[ai-cognitive-partner-co-regulation-learning]] — AI kama mwenyeji wa kiakili katika ushirikiano
-- [[epistemic-proactivity-math]] — Nia ya kiakili katika hisabati
-- [[strydom-human-gai-paradigms-2026]] — Mifumo saba ya ushirikiano wa binadamu-GAI iliyowekwa kwenye imani za kiakili
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoksi ya ufikiri mahususi
-- [[dollinger-equitable-assessment-ai-2026]] — Tathmini ya usawa chini ya GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Nadharia ya Mifumo Mitatu na usitishaji wa kiakili: jinsi AI inavyounda upya ufikiri wa binadamu (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Kutafsiri upya Jumuiya ya Uchunguzi katika enzi ya AI inayozalisha
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Uzoefu na mitazamo ya walimu wa chuo kikuu kuhusu GAI: udhaifu, kufikiri upya tathmini, kujifunza kwa wanafunzi kukiwa hatarini (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Falsafa Badala ya AI: Kitaoisti kama Mbinu ya AI katika Elimu
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Miundo inayoelekezwa na Madai kwa Ukodishaji Unaoweza Kukaguliwa wa Mazungumzo ya Kielimu
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Umiliki wa metaji: ufafanuzi wa dhana, mipaka, na mpango wa utafiti
-
-- [[synthetic-position-self-authorship-2026]] — Msimamo wa bandia: ombi la nafsi-ya-mazungumzo linalotaja matangazo ya bandia na usimamizi wa uandishi pamoja na utabiri wa kupishana
-- [[capability-decision-model-teacher-readiness-2026]] — Mfano wa utayari wa mwalimu wa uwezo-kwanza unaoweza kukanushwa wenye hali nne za kukanusha
-- [[ai-connectedness-adolescent-mental-health-2026]] — Muunganisho wa akili bandia: dhana ya vipimo vitatu yenye madhai sita yanayoweza kukanushwa kwa majaribio ya baadaye
-
-- [[webb-pck-genai-2026]] — Visa vitatu na dhana mpya, pseudo-cPCK, kwa matokeo yanayoiga maarifa yaliyothibitishwa kwa pamoja bila uthibitisho (Webb et al. 2026)
-

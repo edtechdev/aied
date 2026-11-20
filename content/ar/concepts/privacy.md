@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -91,38 +93,3 @@ ai_assist:
 - **«أدبيات المراقبة تُثبت أخلاقيات المراقبة.»** وجدت مراجعة لـ**80 دراسة** أن **35% لم تفصح عن مجموعة بياناتها، و40% قيّمت نموذجًا واحدًا، و30% لم تكن قابلة للتكرار، و25% فقط** بلغت عتبة الإبلاغ. فقاعدة الأدلة فقيرة في الأسئلة ذاتها التي تحتاج مؤسسة إلى إجابتها قبل النشر.
 - **«الخصوصية إجراء امتثال لا قيد تصميمي.»** كل أداة ذكاء اصطناعي تقريبًا تُخصّص أو تتنبأ أو تقوّم تعتمد على بيانات المتعلّم، وهو ما يجعل تقليل البيانات قرارًا تصميميًا. فالأداة التي تتطلب البيانات ليست لها خصوصية اختيارية؛ لها تبعية بيانات اختارها التصميم.
 - **الوعي بممارسات البيانات لا ينشأ من رؤيتها.** وجد [[bergdahl-student-epistemic-agency-ai-2026|بيرغدال (2026)]] أن **66% من 47 طالبًا في الصف السابع** اختاروا الخيار الأقل حمايةً على [[conversational-ai|روبوتات محادثة]] تقرأ كتاباتهم. وقد استهان **47%** آخرون بالتأثير الخوارزمي باعتباره «مجرد متعة» — وقد قيس ذلك **بعد شهر** من درس شاهد فيه الصف سلوكه المسجَّل معروضًا مباشرةً، وتفاعل بأنه «مخيف»، وبقي عدة منهم خلال الاستراحة يواصلون استخدام المنصة. فتعليم الخصوصية الذي يجعل الآلية مرئية دون جعل الكلفة محسوسة يترك الموقف على حاله. ويشير المؤلف إلى أن الدرجات المنخفضة هنا قد تكون **أدق من العالية**، إذ لا توجد إجابة متوقعة اجتماعيًا لهذه البنود بينما تستدعي المسؤولية والحوكمة إجابةً تبدو صحيحة.
-
-## المفاهيم المرتبطة
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
-
-## المقالات المرتبطة
-
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

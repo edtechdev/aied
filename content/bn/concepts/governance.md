@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -61,7 +63,6 @@ ai_assist:
 
 - **প্রশাসনিক এআই শাসনকে শ্রেণিকক্ষের নয়, সেবা-পরিচালনার প্রশ্ন করে তোলে।** [[pandey-davies-he-governance-administrative-ai-2026|Pandey ও Davies (2026)]] প্রশাসনিক এআই-কে নিয়োগ, ভর্তি, তালিকাভুক্তি, নথি, উপদেশনা, আবাসন, কল্যাণ ও কর্মজীবনে সীমাবদ্ধ করেন এবং সংজ্ঞা অনুসারে শিক্ষাদান, শিখন ও গবেষণাকে বাদ দেন। তাঁদের সামাজিক-কারিগরি কাঠামো তিনটি পরীক্ষণযোগ্য প্রস্তাব দেয়: প্রযুক্তিকে ভূমিকা ও জবাবদিহির সঙ্গে যৌথভাবে অনুকূল করা, নিদর্শনের রাজনীতি এবং বিশ্বব্যাপী গঠিত অবকাঠামো। পাঁচটি চালক গ্রহণ ব্যাখ্যা করে: অবকাঠামোগত প্রস্তুতি ও বাণিজ্যিক প্ল্যাটফর্ম-বাস্তুতন্ত্র এটিকে সক্ষম ও পরিচালনা করে, আর ভর্তি-অস্থিরতার মধ্যে প্রতিযোগিতামূলক অবস্থান, নিয়ন্ত্রক ও গতিশীলতা-আদেশ এবং টেকসইতার বৈধতা এটিকে প্রেরণা দেয়। চারটি নেতৃত্ব-সক্ষমতা এর থেকে আসে — চুক্তি-সাক্ষরতা, উদ্দেশ্যকে প্রশ্ন করা, চাপের মধ্যে সংযম এবং স্থায়ী অংশগ্রহণ। এটি একটি ধারণাগত বিশ্লেষণ ও ব্যাখ্যামূলক পর্যালোচনা, তাই প্রস্তাবগুলো প্রতিষ্ঠিত নয়, পরীক্ষণের জন্য দেওয়া।
 
-
 - **শিক্ষাগত সততা ও মূল্যায়ন:** এআই-সম্পর্কিত [[academic-integrity|শিক্ষাগত সততার]] উদ্বেগ সামলানো এবং [[assessment|মূল্যায়ন]] পুনর্নকশায় শাসন কেন্দ্রীয় — নিষেধ/পাহারা থেকে নির্দেশনা, এআই সাক্ষরতা ও প্রক্রিয়া-কেন্দ্রিক নকশার দিকে সরে যাওয়া, যেমন দেখা যায় [[student-rationalization-ai-writing|শিক্ষার্থী-যুক্তিসঙ্গতকরণ]] ও [[beyond-detection-authentic-assessment-ai-2025|প্রামাণিক মূল্যায়ন পুনর্নকশার]] গবেষণায়।
 - **পুনর্নকশা একসঙ্গে তিন মাত্রায় চলে।** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] এআই-যুগের মূল্যায়ন পুনর্নকশাকে সাংস্কৃতিক-প্রাজ্ঞক (ভাষা ও অনুমান), বস্তুগত-অর্থনৈতিক (সম্পদ) ও সামাজিক-রাজনৈতিক (শাসন ও ক্ষমতা) মাত্রায় ফ্রেম করেন, এবং সম্পদ-ক্ষমতার ছেদবিন্দুকে একইসঙ্গে সর্বোচ্চ লিভারেজ-বিন্দু ও সর্বোচ্চ ঝুঁকি নাম দেন: বিদ্যমান ক্ষমতা-গঠনের মধ্য দিয়ে প্রবাহিত সম্পদ বৈষম্য বাড়িয়ে দেয়।
 
@@ -100,7 +101,6 @@ ai_assist:
 
 **স্বচ্ছতা থেকে আচরণে একটি প্রস্তাবিত পথ।** [[li-su-teacher-genai-decision-making-2026|Li ও Su (2026)]] মডেল করেন কীভাবে প্রাতিষ্ঠানিক স্বচ্ছতা শ্রেণিকক্ষে পৌঁছাতে পারে। শাসন-স্বচ্ছতা, অর্থাৎ নিয়ম-স্বচ্ছতা যোগ ভূমিকা-স্বচ্ছতা, প্রস্তাবিত প্রসঙ্গগত পূর্ববর্তী কারণ; অনুভূত জবাবদিহি সেই অবস্থা যার মধ্য দিয়ে এটি কাজ করে; এবং সিদ্ধান্ত-অনিশ্চয়তা সেই শর্ত যার উপর এটি ক্রিয়া করে, যা এর পদ্ধতিগত রূপে হ্রাসযোগ্য কিন্তু প্রকৃত কেস-অনিশ্চয়তায় নয়। এআই সাক্ষরতা একটি মডারেটর হিসেবে প্রস্তাবিত, এবং লেখকেরা পাঁচটি পরীক্ষণযোগ্য প্রস্তাব ও একটি বিন্যাসগত প্রত্যাশা দেন। এটি একটি Hypothesis-and-Theory গবেষণাপত্র যা কোনো উপাত্ত সংগ্রহ করে না, এবং এর লেখকেরা পথগুলোকে পরীক্ষামূলকভাবে প্রতিষ্ঠিত প্রভাব নয়, প্রস্তাব হিসেবে বর্ণনা করেন।
 
-
 ### সন্নিহিত ধারণাগুলোর সঙ্গে সংযোগ
 
 এআই শাসন যুক্ত হয় [[ethics]]-এর সঙ্গে (যে নীতিগুলো এটি বাস্তবে প্রয়োগ করে), [[higher-ed]]-এর সঙ্গে (প্রাতিষ্ঠানিক প্রসঙ্গ), [[privacy]] ও [[bias-mitigation]]-এর সঙ্গে (নির্দিষ্ট শাসন-উদ্বেগ), এবং [[academic-integrity]]-এর সঙ্গে (একটি প্রধান শাসন-আঙিনা)। এটি [[change-management|প্রাতিষ্ঠানিক পরিবর্তন]] ও দায়িত্বশীল এআই-এর কেন্দ্রে, এবং [[ai-literacy]]-এর সঙ্গে ছেদ করে (শাসন সমালোচনামূলক, অবহিত ব্যবহারের বিকাশ সমর্থন করে)। এটি [[learning-analytics]] (ডেটা শাসন) এবং [[student-experience]]-এর সঙ্গেও যুক্ত (শাসন গঠন করে শিক্ষার্থীরা গ্রহণযোগ্য ব্যবহার কীভাবে চালায়)।
@@ -120,71 +120,8 @@ ai_assist:
 
 শাসন-বিধান কেবল সাধারণ নীতি-নথিতে দেখা গেছে, কখনও সেই অর্থায়ন-নির্দিষ্ট দলিলে নয় যা আবেদনকারীদের বাঁধে, তাই একজন অর্থায়নকারী নীতিগতভাবে এআই শাসন করতে পারেন অথচ যে গবেষণার অর্থ তিনি দেন তার উপর কোনো শর্ত আরোপ করেন না ([[chan-ai-policy-gap-2026|Chan, 2026]])।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"বিশ্ববিদ্যালয়গুলো বাধ্যতামূলক এআই নীতি গ্রহণ করেছে।"** **48টি প্রতিষ্ঠানের** মধ্যে **40টি (83%)** অন্তত একটি প্রকাশ্য নথি ছিল, এবং সেই 40টি জুড়ে **শাসন বাস্তবায়িত হয়েছে মূলত নির্দেশনা হিসেবে, বাধ্যতামূলক** নিয়ম হিসেবে নয়। প্রকাশিত নির্দেশনা প্রয়োগযোগ্য নীতি নয়।
 - **"নীতি শিক্ষার্থী-প্রথম লেখা হয়, কারণ শিক্ষার্থীরাই ঝুঁকি।"** বেশিরভাগ নথি **অনুষদ ও শিক্ষার্থীদের একসঙ্গে (20, 51%) সম্বোধন করেছে, কেবল শিক্ষার্থীদের নয় (6, 15%)**, এবং নীতির ধরন বা লক্ষ্য-শ্রোতা কোনোটিই সরবরাহ-মাধ্যম অনুযায়ী বদলায়নি। ফ্রেমিং যৌথ, অর্থাৎ বাধ্যবাধকতাগুলো ভাগ-করা।
 - **"অস্পষ্ট নীতি শিক্ষার্থী-অভিজ্ঞতাকে অক্ষত রাখে।"** নীতির অস্পষ্টতা **শিক্ষার্থী-অভিজ্ঞতায়** সরাসরি দেখা যায়: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|শিক্ষার্থীদের জেনএআই-সম্পৃক্ততা]] সেই অনিশ্চয়তা দিয়ে গঠিত, তাই অস্পষ্টতা নিরপেক্ষ ফাঁক নয়, একটি সক্রিয় শর্ত।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-partnerships]] — শিক্ষাগত অংশীদারত্ব
-- [[ai-use-disclosure]] — এআই ব্যবহার ও ঘোষণা বিবৃতি
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — ছাতা: এআই শিক্ষায় মানুষ ও শ্রোতা (শিক্ষার্থী, শিক্ষক, নকশাকারী, প্রশাসক, নীতিনির্ধারক)
-- [[student-support-and-success]] — প্রাতিষ্ঠানিক এআই সমর্থন-ব্যবস্থার তদারকি
-
-## সংযুক্ত নিবন্ধ
-- [[kaze-ai-management-higher-ed-2026]] — উচ্চশিক্ষায় এআই গ্রহণ: নির্ধারিত এআই ব্যবস্থাপনার পক্ষে যুক্তি (Kaže প্রমুখ 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — প্রাতিষ্ঠানিক এআই শাসনে কেয়ার-এথিক্স, পাঁচটি উপাদান এবং তারা যে প্রাতিষ্ঠানিক প্রশ্নে পরিণত হয়
-- [[generative-ai-governance-education-scoping-review-2026]] — শিক্ষায় জেনএআই শাসন: নীতি, প্রক্রিয়া ও ঝুঁকির স্কোপিং পর্যালোচনা (Elmahjub প্রমুখ 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — টেকসই উন্নয়নের জন্য শাসন-সক্ষমতা হিসেবে এআই সাক্ষরতা: AIRE ট্যাক্সোনমি ও এআই–SDG নেক্সাস (Islam, Morshed ও Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — শিক্ষা-ব্যবস্থাপনায় এআই শাসনের AIGEM কাঠামো
-- [[institutional-ai-policy-health-informatics-2026]] — 48টি CAHIIM-স্বীকৃত স্বাস্থ্য-তথ্যবিজ্ঞান কর্মসূচিতে এআই নীতি ও নির্দেশনা নথি: অ-বাধ্যতামূলক, সততা-কেন্দ্রিক নির্দেশনা হিসেবে শাসন (Eldredge প্রমুখ 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — নির্দেশিত অনুসন্ধানের মধ্য দিয়ে শিক্ষার্থীদের জেনএআই কোর্স-নীতি সহ-নকশা (Hingle ও Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — লার্নিং অ্যানালিটিক্স থেকে শিক্ষামূলক হস্তক্ষেপে: বিশ্বাসযোগ্য হস্তক্ষেপের সক্রিয়কারী (Svetec, Divjak ও Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — এআই ব্যবহার ঘোষণা মানতে শিক্ষার্থীদের অনীহা
-- [[vetter-hidden-cost-disclosure-genai-2026]] — ঘোষণার লুকানো খরচ
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — শিক্ষার্থীর এআই ঘোষণা, কলঙ্ক ও স্ব-নিয়ন্ত্রিত শিখন
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — কোন অনুমান ঝুঁকিতে: মূল্যায়ন-বৈধতার যুক্তি ও জেনএআই (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — জেনএআই শাসন ও নীতি নিয়ে বৈশ্বিক Delphi
-- [[qian-governing-genai-higher-ed-policy-2026]] — নির্দেশনা দিয়ে শাসন: 50টি উদ্ভাবনী মার্কিন বিশ্ববিদ্যালয়ে প্রশিক্ষক-নির্ধারিত সিলেবাস-নিয়ম ও চার-একক সমর্থন-বাস্তুতন্ত্র (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — আইন বিদ্যালয়ের জেনএআই নীতিতে অনুষদ-শাসন, প্রশিক্ষকের বিবেচনা ও পর্যায়ক্রমিক পর্যালোচনা (Gutowski ও Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — অতিরিক্ত-ব্যাপক "এআই" নিষেধ, ফরম্যাট-রূপান্তর ও যুক্তিসঙ্গত-সমন্বয়ের সমস্যা (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — প্রমাণ হিসেবে প্রত্যাখ্যান: অসম শাসন, বোঝার দায় এবং অব্যবহারের ডায়াগনস্টিক মূল্য (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — এআই-এর জন্য প্রত্যাশামূলক শাসন ও নেতৃত্ব
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — ওপেন ইউনিভার্সিটিতে AIDA বাস্তবায়ন
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: রূপান্তরমূলক পরিবর্তনের নেতৃত্ব
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — শিক্ষার্থীদের জেনএআই-সম্পৃক্ততা (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Detection-এর ওপারে: প্রামাণিক মূল্যায়ন পুনর্নকশা
-- [[genai-policies-higher-ed-computing]] — কম্পিউটিং শিক্ষায় প্রাতিষ্ঠানিক জেনএআই নীতি
-- [[genai-declaration-frameworks-higher-education]] — এআই ঘোষণা-কাঠামো
-- [[genai-assessment-governance]] — জেনএআই-এর অধীনে মূল্যায়ন শাসন
-- [[ai-uk-higher-education-policy-2026]] — যুক্তরাজ্যের উচ্চশিক্ষা নীতিতে এআই
-- [[raza-farooq-aied-review-2020-2025]] — AIED গবেষণার সমন্বিত পর্যালোচনা
-- [[cognitive-commons-ai-expertise-regeneration]] — জ্ঞানীয় কমন্সের ট্র্যাজেডি: এআই ও দক্ষতা-পুনরুৎপাদন
-- [[policy-deficit-ai-sel-2026]] — এআই × SEL গবেষণায় নীতির ঘাটতি
-- [[agarwal-ethical-values-norms-aied-2026]] — শিক্ষায় এআই-এর নৈতিক মূল্য ও নিয়ম
-- [[perrotta-zero-shot-governance-2026]] — জিরো-শট শাসন: নীতিতে সাধারণ-উদ্দেশ্যের এআই (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — কে কাজ করে, কে জানে, কে উত্তর দেয়? জেনএআই উচ্চশিক্ষা গবেষণায় এজেন্সি, জ্ঞানতাত্ত্বিক দায় ও জবাবদিহির কর্পাস-সহায়ক বক্তৃতা-বিশ্লেষণ
-- [[instructional-governance-design-computing-education-2026]] — নকশা দিয়ে শিক্ষাদান-শাসন: কম্পিউটিং শিক্ষায় এআই-এর একটি কাঠামো
-- [[genai-governance-australian-higher-ed-2026]] — অনুমোদিত সীমারেখার মানচিত্র: অস্ট্রেলীয় উচ্চশিক্ষায় জেনএআই শাসনের তুলনামূলক নীতি-ভিনিয়েট গবেষণা
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — অর্পণ, প্রমাণ ও প্রবেশাধিকার: বিশ্ববিদ্যালয়ের মূল্যায়ন শাসনে এজেন্টিক এআই কী বদলায় (Wong ও Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — এআই প্রোটোটাইপ ও বিদ্যালয়-পাইলট শাসন-যন্ত্র হিসেবে, যা একটি বাছাই করা ভবিষ্যৎকে আগেই চিত্রিত করে (Williamson প্রমুখ
-- [[li-su-teacher-genai-decision-making-2026]] — শাসন-স্বচ্ছতা থেকে শিক্ষক-সিদ্ধান্তের পর্বে একটি প্রস্তাবিত পথ
-- [[pandey-davies-he-governance-administrative-ai-2026]] — সেবা-পরিচালনার প্রশ্ন হিসেবে প্রশাসনিক এআই
-- [[chan-ai-policy-gap-2026]] — শাসনের ভাষা সাধারণ নীতিতে বসে, কখনও আবেদনকারী-বাঁধনকারী অর্থায়ন-নিয়মে নয় (Chan 2026)

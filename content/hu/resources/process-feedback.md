@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -41,7 +42,3 @@ Egyéni tanároknak és diákoknak szól, akik intézményi megállapodások né
 ## Megjegyzések és fenntartások
 
 Az ingyenesség az egyéni osztálytermi munkafolyamatokat fedi; az intézményi árazás külön létezik, és a telepítés hatóköréhez, az adatkezeléshez, a támogatáshoz és a megfeleléshez kötődik, nem diák- vagy tanár alapú díjhoz. Mivel egy jelentés folyamatot mutat, nem szándékot, a másolás-beillesztés önmagában nem kötelességszegés – a projekt saját útmutatása szerint a diák éppen a saját korábbi szövegét illesztheti be, és a diákokat nem szabad pusztán a beillesztésért büntetni. Az átvételi számok és az 5.0-s Chrome Web Store-értékelés a projekt saját marketingje; egy bővítményáruház értékelései nem független bizonyítékok a tanulási eredményekre. A jelentéseket beszélgetéshez szóló bizonyítékként olvassa – így tervezték az eszközt, és így írja le a fejlesztő is.
-
-## Kapcsolódó fogalmak
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

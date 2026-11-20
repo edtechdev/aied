@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -72,26 +74,3 @@ ai_assist:
 **«Учащиеся, забросившие инструмент, не имели мотивации».** Заброшенность часто — верное прочтение пользователем той цены взаимодействия, которую проектировщик не измерил. Поскольку инструмент, которым никто не пользуется, не может оказать эффекта, доля забросок сама по себе является образовательным результатом.
 
 **«Тестирование юзабилити — то же самое, что измерение обучения».** Они отвечают на разные вопросы, и ни одно не заменяет другое; режим отказа — трактовать любое из них как достаточное для внедрения.
-
-## Связанные концепции
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Связанные статьи
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Исследование юзабилити гуманоида-рассказчика на базе LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: юзабилити приложения на генеративном ИИ
-- [[supplynet-visual-exploratory-learning]] — Пользовательское исследование SupplyNet
-- [[anvil-ai-educational-animations]] — Юзабилити сгенерированных ИИ образовательных анимаций
-- [[code-anchor-multi-view-visualization]] — Исследование методом «мышления вслух» многовыходных визуализаций кода
-- [[learn-framework-responsible-genai-pbl-2026]] — Фреймворк LEARN и оценка методом «мышления вслух»
-- [[feedback-futures-genai]] — Как учащиеся обрабатывают генерируемую ИИ обратную связь
-- [[llm-chatbots-cs-multiple-choice]] — Чат-боты LLM для заданий с множественным выбором в CS
-- [[conversational-ai-agents-umbrella-review-2026]] — Зонтичный обзор разговорных ИИ-агентов

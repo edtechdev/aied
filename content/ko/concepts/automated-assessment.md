@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -120,7 +122,6 @@ ai_assist:
 
 세 모형을 결합해도 그 오류는 제거되지 않았습니다. 그들의 실수가 서로 상관되어 있었기 — 과제의 63.4%에서 같은 방향이었기 때문 — 에 [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]]의 앙상블은 가장 좋은 단일 모형과 통계적으로 구별되지 않아, 공유된 중심 경향 압축을 그대로 남겨 두었습니다.
 
-
 LLM이 인간 평정자를 대신할 수 있는지는 가정하기보다 시험할 수 있습니다. 학생 응답 631건에 대한 523개 구성에 걸쳐, 두 인간 평정자 중 하나를 최선의 LLM-프롬프트 짝으로 대체했을 때 103개 준거의 88.3%에서 집단 일치가 낮아지지 않았으나, 준거당 시험한 20,464개 구성 중 그 기준을 통과한 것은 14.6%뿐이었습니다([[baumartz-rubric-aes-llm-ensembles-2026|Baumartz 외(2026)]]).
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos(2026)]]는 그 요건들이 전제하는 준거를 제공하며, 자동화를 방어 가능하게 만드는 것은 기술이 기술적으로 수행할 수 있는 것이 아니라 과제의 *인식론적 지위*라고 주장합니다. 그의 프레임워크는 AI를 사실적·절차적 주장의 제한된 검증에 국한시킵니다. 명백하게 문서화된 준거, 확립된 지식과의 직접 비교, 대안적 타당한 접근에 대한 평가 부재, 단 하나의 정답이나 사전 지정된 허용 가능한 집합, 이 네 가지가 모두 동시에 성립해야 하며, 모호함은 기본적으로 인간으로 상승합니다. 그리고 그 수준에서의 AI 개입은 동시에 모두 성립해야 하는 다섯 가지 양보할 수 없는 원칙에 조건부입니다. 지식 베이스는 평가자가 큐레이하고 모형의 모수 지식이 아니라 강좌 자료에 검색으로 근거를 붙여야 합니다. 인간 평가자는 모든 AI 출력이 학생에게 도달하기 전에 검토하고, 공유되지 않는 책임을 지닌 절대적 재량권을 가집니다. 피드백은 명확한 출처와 귀속을 지녀야 합니다. 그리고 보안은 처음부터 적대적 사용에 대비해 설계되어야 하며, 흰 글씨나 작은 글씨, 인코딩, 이미지, 문서 메타데이터에 숨겨진 지시에 대한 입력 살균을 포함합니다. 자동화된 시스템의 성공적 우회가 학생 집단에 퍼지기 때문입니다. 같은 논문은 그 원칙들이 동시 실현 가능성에 대해 시험되지 않았음을 명확히 하고, 큐레이션·보안 기반·고빈도 감독에 드는 평가자 시간이 노력을 줄이는 것이 아니라 옮길 수 있다고 말합니다. 이 주의사항은 위의 지역적 검증 요건과 나란히 놓입니다.
@@ -154,81 +155,3 @@ LLM이 인간 평정자를 대신할 수 있는지는 가정하기보다 시험�
 - **"신뢰할 수 없는 원인은 심사자입니다."** 378개의 고정 주사위 판정에서 재실행은 준경직 방법에서 결과의 **2.9퍼센트에서 6.1퍼센트**를, 자유 판정에서 **13.5퍼센트에서 15.9퍼센트**를 바꿨습니다. 반면 심사 AI를 교체한 것은 약 3포인트만 더했습니다([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]). 재현성을 정하는 것은 심사자가 아니라 절차입니다.
 - **"신뢰도 보고는 사치입니다."** **70퍼센트 확신한다**고 밝힌 점수는 그것이 쓰이는 방식을 바꿀 것입니다. 그리고 그 정보가 없다는 것은 읽는 사람이 모든 점수를 똑같이 확실한 것으로 다루도록 강요합니다.
 - **"단답 자동 채점은 이미 정리된 영역입니다."** [[science-education|과학교육]]의 단답 자동 채점에 관한 범위 검토(**2017년에서 2024년 초**)는 이 분야의 역사를 기록합니다. 그것은 검증된 것의 기록이 아니라 시도된 것의 기록입니다.
-
-## 연결된 개념
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — 총괄평가: AI에 강건한 형식(구두, 감독, 폐쇄 서적 시험)
-
-## 연결된 문서
-
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM 루브릭 하위 차원은 거의 중복적이며 피드백은 오개념을 거의 지목하지 않는다(Zhao 외 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 보고서: 영국 세 대학에 걸친 대학 에세이 761편의 AI 채점
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 국가 필기 평가에서의 인간 참여형 AI 지원 채점(Curi 외 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — 보편적 필기 선별을 위한 대규모 언어 모형 비교 판단의 타당성
-- [[usher-faraon-who-grades-best-2026]] — 프로젝트 질 수준에 걸친 ChatGPT, 동료, 교수자 채점 비교(Usher와 Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI가 생성한 시험의 질 평가: 대규모 현장 연구
-- [[automated-formative-assessments-a-level-sciences]] — A-level 과학에서의 자동화 형성평가
-- [[cong-confidence-asag-2026]] — 신뢰도를 아는 자동 단답 채점
-- [[ai-scoring-language-bias-physics]] — 물리에서의 AI 채점 언어 편향
-- [[llm-difficulty-calibration-programming-exams-2026]] — 프로그래밍 시험을 위한 LLM 기반 난이도 보정
-- [[choi-anchor-aes-prompting-2025]] — 앵커 기반 자동 에세이 채점 프롬프트
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL 형성평가 채점
-- [[automated-grading-linux-bash-examinations-large-language-models]] — LLM을 쓴 Linux Bash 시험의 자동화 채점
-- [[confidence-aware-student-drawing-assessment]] — 학생이 그린 도형의 신뢰도를 아는 평가
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: 생성된 수학 도형의 자동 평가
-- [[shap-llm-rationales-teaching-quality-assessment]] — 루브릭 기반 교수 품질 평가를 위한 SHAP 대 LLM 근거 진술
-- [[eeg-familiarity-automated-assessment-2026]] — 학습자 평가의 자동화: EEG 기반 친숙도 예측
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI 평가 루브릭 생성
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI 지원 교수자 감독 하의 채점과 피드백
-- [[ai-grading-handwritten-physics-2026]] — 손글씨 물리 평가의 AI 채점(올림피아드)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등 교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 시각
-- [[tripartite-feedback-framework-ai-assessment-2026]] — 삼분 프레임워크: 인식론적 지위에 따른 피드백 분류와 AI 개입의 다섯 가지 경계 원칙(Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI를 매개로 한 채점에 대해 학생 제출물에 숨겨진 프롬프트 인젝션의 레드팀 평가(Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 신뢰 문턱 추론을 갖춘 설계상 설명 가능한 자동화 교사 평가를 위한 LLM 프레임워크(Li 외 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — 인간 재검토를 위한 신뢰도 필터를 갖춘 손글씨 반개방 수학 채점
-- [[llm-grade-bands-calibration-bias-2026]] — 대규모 언어 모형이 고등 교육 성적 구간을 재현할 수 있는가? 진짜 학생 글쓰기에 걸친 모형 간 보정과 채점 편향 연구
-- [[sophie-clinical-communication-ai-assessment-2026]] — 확장 가능한 AI 기반 임상 의사소통 훈련과 자동화 평가
-- [[automated-constructive-assessment-hdr-llm-2026]] — 대규모 언어 모형으로 구성적 평가 자동화하기: 실용 역량의 확장 가능하고 반복적인 평가를 향하여
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에 대한 LLM 생성 피드백의 초점과 교수법적 적응성 평가
-- [[llm-graders-computer-science-exams-2026]] — LLM 채점자가 성공하고 무너지는 곳: 컴퓨터 과학 시험 두 개의 증거
-- [[llm-automated-coding-teacher-pck-2026]] — 다중 에이전트 LLM(GradeOpt)이 교수자의 개방형 CK와 PCK 응답을 코딩하며, 코딩 매뉴얼에 대한 프롬프트 정제에서 나오는 신뢰성
-- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE 물리에서 시험위원회 점수와 교사 판단에 비교한 AI 채점
-- [[llm-grading-assistants-public-health-2026]] — 추론 모드가 LLM-인간 채점 일치를 가중 카파 0.269에서 0.718로 끌어올림
-- [[machine-human-marking-agreement-institutions-2026]] — 학부 과제 채점에서의 기계–human 일치는 모형, 프롬프트, 기관에 따라 다르다
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: 전통적 워게이밍 판정 관행으로 AI 판정 평가와 채점을 개선하기(Epstein 2026)
-
-- [[porcaro-ai-grading-benchmark-2026]] — 일치를 넘어서: 프롬프트된 채점자 22개가 정답이 알려진 탐침을 만나고, 대부분이 설득당한다 (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — 학생 작업이 아니라 교수 행위를 평가하기, 통합 없이
-- [[stewart-tag-question-categorization-competency-2026]] — AI 교육과정 태깅: 질병 상태 카파 0.69, 블룸 0.57, COEPA 하위 영역 0.24(Stewart 외 2026)
-- [[zhao-ai-supported-grading-rubric-refinement-2026]] — PrairieLearn에서 루브릭 개발 신호로서의 AI–교수자 불일치(Zhao 외 2026)
-- [[roy-premise-rubrics-llm-judges-2026]] — 공격 표면으로서의 루브릭 문구: 검증된 익스플로잇의 46.4%가 높은 점수, 루브릭 정제로 36.0%로 감소(Roy 외 2026)
-- [[baumartz-rubric-aes-llm-ensembles-2026]] — LLM 앙상블을 쓴 루브릭 기반 AES, 인간 평정자 일치에 대해 시험됨(Baumartz 외, 2026)
-- [[zammel-mllm-kinematics-graph-grading-2026]] — 10/10의 왜곡된 운동학 그래프, 그리고 좌표 규약 없는 기준선: 이미지를 앞지른 준거 수준 부여(Zammel 외 2026)
-

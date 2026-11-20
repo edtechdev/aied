@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -72,26 +74,3 @@ Standards-based grading ist das Assessment-Gegenstück zu Mastery Learning, und 
 **„Mastery Learning ist die Pädagogik, die KI endlich möglich macht."** Ihre Mechanik ist deutlich älter als KI — Bloom formalisierte das Rahmenwerk vor Jahrzehnten —, und KI operationalisiert sie, indem sie die Assessment- und Tempoentscheidungen automatisiert, statt ein zuvor unmögliches Design zu verwirklichen. Diese Neurahmung zählt, weil die Automatisierung die Regelwahl erbt, und in der Regel liegt das Urteil.
 
 **„Häufigeres Prüfen unter Mastery macht die Schwelle zuverlässiger."** Häufigkeit verbessert die Schätzung und behebt keine falsch spezifizierte Regel. Mastery öfter aus Ereignissen neu zu berechnen, die assistierte Arbeit einschließen, konvergiert schneller auf dieselbe falsche Antwort.
-
-## Verbundene Konzepte
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — Abruf und Spacing als Übungsmotor innerhalb von Mastery-Zyklen
-
-## Verbundene Artikel
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Überverallgemeinerung: adaptives Mastery kann Übung beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Mastery-/Nicht-Mastery-Regeln in Deep Learning injizieren für verantwortungsvolles, interpretierbares Lernendenmodellieren
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Anrechnung assistierter Arbeit bläht Mastery auf: welche Evidenzregel entscheidet, wer für gemeistert erklärt wird (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulation der Aufgabenauswahlstrategien und Systemrandbedingungen von Lernenden im Mastery Learning (Noh et al. 2026)
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge Tracing überschätzt die Leistung der nächsten Sitzung und verfehlt den Spacing-Effekt (Schuetze, Yan & Carvalho 2025)
-

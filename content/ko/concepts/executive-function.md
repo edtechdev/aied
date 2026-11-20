@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -105,35 +107,3 @@ Ayasrah와 동료들은 전문가, 교사, 학생 18명과의 면담에서 만�
 - "AI를 더 많이 쓰면 실행 기능이 약해진다." Sharma와 동료들은 연관이 학업 스트레스를 통해 흐른다는 것을 발견했고, 횡단면 설계는 방향을 확립할 수 없습니다. 의존과 능력 상실은 상관되어 있을 뿐, 인과가 입증된 것이 아닙니다.
 - "실행 기능은 측정 가능한 하나의 것이다." 카드 분류, Flanker 검사, 자기보고 설문은 서로 다른 과정을 측정하며 종종 일치하지 않습니다.
 - "자기보고 척도는 결손을 진단한다." EFB-LDS-AI는 자기보고식 의존과 지각된 노력 감소를 측정하며, 저자들은 이를 임상적 결손과 명시적으로 구별합니다.
-
-## 연결된 개념
-
-- [[metacognition]] — 부하 하의 능력과 구별되는, 지식과 모니터링
-- [[cognitive-offloading]] — 과제를 모델에 넘길 때 위임되는 것
-- [[self-regulated-learning]] — 자신의 학습에 적용된 계획과 모니터링
-- [[cognitive-psychology]] — 작업 기억과 그로부터 만들어진 과제 측정치
-- [[developmental-psychology]] — 아동기를 거치며 구성개념이 어떻게 변하는가
-- [[special-education]] — 지원, 편의 제공, 그리고 둘의 윤리
-- [[neurodiversity]] — ADHD 지원이 논의되는 틀
-- [[scaffolding]] — 독립적 능력을 살짝 넘는 지원
-- [[assistive-technology]] — 능력을 보상하는 도구
-- [[conversational-ai]] — 대부분의 훈련 연구가 사용하는 전달 형식
-- [[generative-ai]] — 여기서 의존이 측정되는 도구
-- [[teacher-role]] — 의존이 밀어낼 수 있는 지원
-- [[higher-ed]] — 측정 연구 대부분이 이루어진 곳
-- [[k-12]] — 청소년의 의존이 측정되는 곳
-- [[longitudinal-research]] — 이 증거에 대부분 결여된 설계
-
-## 연결된 문서
-
-- [[genai-reliance-executive-functioning-2026]] — 노력보다 선호로 정의된 청소년 생성형 AI 의존
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — 세 가지 도구 기능으로서의 보상, 스캐폴딩, 발달
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 챗봇 연구 10건, 참가자 1,606명, 추적은 최대 1개월
-- [[sidorkin-extended-executive-cognition-2025]] — 고등 교육 결과로서의 확장된 실행 인지(프레임워크)
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 인지적 유연성은 면담 등급을 예측하지만 억제는 그렇지 않음
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — AI 매개 학습 곤란을 위한 35문항 자기보고 척도
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — 윤리적 맞바꿈을 이름 붙인, ADHD 학생을 위한 AI 지원
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 학업 스트레스가 ChatGPT 의존과 실행 기능 장애를 매개
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 스캐너 안에서 ChatGPT와 대화하는 아동과 성인
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 생성형 AI 시대의 인지 부하 외주화: 외주화를 실행 기능과 연결하는 검토
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 지연 이해와 회상에서 노트 필기가 챗봇을 이김

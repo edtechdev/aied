@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -42,6 +43,3 @@ Faça perguntas sobre todo o conjunto de fontes, resuma documentos longos e siga
 ## Observações e ressalvas
 
 O Google afirma que o conteúdo de contas pessoais não é usado para treinar seus modelos, a menos que o usuário envie feedback; que envios, consultas e respostas do Workspace não são usados para treinamento, mesmo quando há feedback; e que os [[privacy|dados não são compartilhados com terceiros]]; cadernos excluídos, no entanto, não podem ser recuperados. As afirmações de capacidade acima são do próprio fornecedor, e um distrito ou instituição deve confirmá-las contra o seu acordo de processamento de dados, e não contra uma página de produto. A cobertura de 2026 também descreveu um processo judicial sobre a voz usada nos podcasts gerados, que o Google negou, um lembrete de que saídas em áudio levantam [[legal-issues-and-risks|questões de semelhança]] separadas das salvaguardas de fundamentação nas fontes. Trate flashcards, questionários e resumos gerados como rascunhos a conferir contra as fontes, e note que os limites do nível gratuito mudam sem aviso.
-
-## Conceitos conectados
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

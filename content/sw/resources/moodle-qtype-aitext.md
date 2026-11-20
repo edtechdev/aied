@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,12 +49,3 @@ Wasimamizi na waendelezaji wa Moodle ambao tayari wanaendesha tovuti, waalimu wa
 ## Vidokezo na tahadhari
 
 Chanzo huria chini ya GPL v3 au baadaye, lakini bure haimaanishi bure kuendesha: mtu hulipa API ya modeli, na ubora wa utathmini hutegemea uchaguzi wa modeli na muundo wa ilani. Majibu ya maandishi huru huondoka kwenye seva ya Moodle wakati mtoa huduma wa mbali anatumika, hivyo makubaliano ya data ya taasisi ndiyo yanayotawala kile kinachoweza kutumwa; njia ya Ollama inayojihifadhi ipo kwa tovuti ambazo haziwezi kutuma kazi za wanafunzi nje. Hazina inasema hakuna utafiti wa usahihi au makubaliano uliochapishwa, hivyo programu-jalizi haipaswi kupitishwa kwa dhana kwamba utathmini wa LLM ni sawa na wa binadamu — [[assessment-validity|uhalali]] unapaswa kuthibitishwa kienyeji dhidi ya alama za binadamu kabla alama yoyote kuwa na uzito. Tabia shirikishi ni tegemezi gumu: kusakinisha aina ya swali peke yake huacha maswali yasiyoweza kutathminiwa.
-
-## Dhana zinazohusiana
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

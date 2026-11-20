@@ -19,10 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-
-
-
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -100,49 +98,3 @@ ai_assist:
 ## الاستشهاد
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
-## مفاهيم مرتبطة
-
-- [[intelligent-tutoring]] — أنظمة التدريس الذكية
-- [[pedagogical-agent]] — الوكلاء التربويون
-- [[generative-ai]] — الذكاء الاصطناعي التوليدي
-- [[llm]] — النماذج اللغوية الكبيرة
-- [[student-ai-interaction]] — تفاعل الطالب مع الذكاء الاصطناعي
-- [[ai-literacy]] — ثقافة الذكاء الاصطناعي
-- [[human-ai-collaboration]] — التعاون بين الإنسان والذكاء الاصطناعي
-- [[cognitive-offloading]] — الإزاحة المعرفية
-- [[feedback]] — التغذية الراجعة
-- [[metacognition]] — ما وراء المعرفة
-- [[self-regulated-learning]] — التعلّم المنظّم ذاتيًا
-- [[language-learning]] — تعلّم اللغة
-- [[academic-integrity]] — النزاهة الأكاديمية
-- [[hallucination-risk]] — خطر الهلوسة
-- [[equity-in-ai-education]] — الإنصاف في تعليم الذكاء الاصطناعي
-- [[reducing-ai-misuse]] — تقليل إساءة استخدام الذكاء الاصطناعي
-- [[speech-and-voice-technologies]] — تقنيات الكلام والصوت
-- [[parents-and-families]] — الآباء والعائلات
-
-## مقالات مرتبطة
-
-- [[rho-disengaged-conversational-behaviors-2026]] — السلوكيات الحوارية المنفصلة في حوارات الطالب مع الذكاء الاصطناعي (Rho et al. 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — إدامة الدعم الطلابي المُتاح بالذكاء الاصطناعي: دراسة تنفيذ وأثر ممتدّة أربع سنوات لروبوت محادثة مؤسسي (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — مقارنة تصحيح ChatGPT والأقران والمعلّم عبر مستويات جودة المشاريع (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — وكلاء نماذج لغوية كبيرة بإطار 5E لاكتساب قواعد اللغة الإنجليزية كلغة ثانية (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — وجهات نظر الطلاب في روبوتات محادثة الذكاء الاصطناعي التوليدي (طرائق مختلطة)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — شخصيات التبنّي لروبوتات محادثة الذكاء الاصطناعي
-- [[conversational-ai-agents-umbrella-review-2026]] — استعراض المظلات لوكلاء الذكاء الاصطناعي الحواري في التعليم
-- [[conversational-ai-tutors-framework]] — إطار مدرّسي الذكاء الاصطناعي الحواري
-- [[measuring-llm-tutors-teach-vs-solve]] — قياس ما إذا كان مدرّسو النماذج اللغوية الكبيرة يعلّمون أم يحلّون
-- [[stanford-evidence-base-ai-k12-2026]] — الذكاء الاصطناعي الخاص بالتدريس مقابل الذكاء الاصطناعي العام
-- [[rethinking-scaffolding-llm-tutors]] — إعادة التفكير في الإسناد بسقالات في مدرّسي النماذج اللغوية الكبيرة
-- [[conversational-agents-novice-programmers-scoping-2025]] — مراجعة نطاقية للوكلاء الحواريين للمبرمجين المبتدئين
-- [[ba-ai-agents-cscl-review-2026]] — مراجعة وكلاء الذكاء الاصطناعي في التعلّم التعاوني المدعوم بالحاسوب
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — الجنس والدافع في إنجاز الذكاء الاصطناعي التوليدي
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — رفيق ذكاء اصطناعي مُكيِّف الدور لحوار الكتب الابتدائي؛ السقف الوجداني للوكلاء ثابتة الدور (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — الذكاء الاصطناعي التوليدي كوكيل وفضاء تعاوني في ديناميات المجموعات الصغيرة (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — روبوت محادثة واعٍ ثقافيًا مدعوم بالذكاء الاصطناعي لكشف الإجهاد ودعم العافية بين الطلاب الجامعيين الباكستانيين باستخدام معالجة اللغة الطبيعية وتعلّم الآلة
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس بالذكاء الاصطناعي والتدريس البشري يُنتجان مكاسب تعلّم متكافئة في GRE
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: إسناد طلب المساعدة الموجَّه بالذكاء الاصطناعي بسقالات أثناء حلّ المشكلات

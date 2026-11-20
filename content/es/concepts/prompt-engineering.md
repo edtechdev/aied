@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -103,58 +105,3 @@ La ingeniería de prompts se conecta con el [[scaffolding|andamiaje]]: los promp
 - **«La calidad del prompt es un atributo del estudiantado.»** **La cognición del prompt sigue a la disciplina, no al estudiantado**: [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron **60.087 prompts de 116 cursos** y encontraron que la disciplina predecía la sofisticación del prompt. Enseñar al estudiantado a formular mejores prompts aborda una variación que reside en la materia.
 - **«El estudiantado desarrolla su propia práctica de prompting.»** Cuando el docente modeló el prompt, **el estudiantado lo reutilizó literalmente**: entre **310 prompts registrados de doce grupos STEAM de secundaria**, la copia exacta de la instrucción del docente fue frecuente. El modelado produce reproducción, y por eso es una palanca de diseño del sistema y no una competencia transferible.
 - **«El prompting es primero una competencia de quien aprende y después una propiedad del sistema.»** Esto desplaza el prompting **hacia una palanca de diseño adaptativo del sistema**, con efectos medidos sobre la **implicación y la eficiencia (28,1% frente a 19,6% de conversión de ejercicios)**. Las posibilidades de prompting de la interfaz movieron la conducta más de lo que lo hizo la instrucción sobre prompting.
-
-## Conceptos conectados
-- [[pedagogical-patterns]] — La capa de andamiaje dentro de las secuencias de uso estructurado
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Marco general: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
-
-## Artículos conectados
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — la competencia en prompts predice las ganancias y media el capital digital familiar; un andamiaje de cinco partes es entrenable
-- [[wang-teacher-student-centered-agents-physics-2026]] — Los prompts de rol y restricciones del agente como variable de diseño en el aprendizaje de la física (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting frente a ajuste fino para la generación de ítems de comprensión auditiva en L2 con GPT (Aryadoust y Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Lo que el estudiantado pregunta importa: profundidad de la interacción con LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: coaching en tiempo real para el prompting educativo con LLM
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Taxonomía de tareas de LLM basada en tareas para la alfabetización crítica en IA en el periodismo
-- [[prompt-privilege-equitable-ai-access-2026]] — Privilegio del prompt: medición y mitigación de las disparidades de accesibilidad en el acceso a los LLM
-- [[principal-trait-analysis-human-ai-skills-2026]] — Análisis de Rasgos Principales: rasgos de la colaboración humano-IA derivados de los datos
-- [[llms-text-linguistics-teaching-2026]] — Los LLM en la enseñanza de la lingüística del texto
-- [[idea-framework-metacognitive-genai-2026]] — El marco IDEA para el uso metacognitivamente regulado de la IA generativa
-- [[lin-llm-interactive-lesson-generation]] — Generación con LLM de lecciones interactivas de formación de tutores (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — Las directrices de IA de la UNESCO traducidas a la educación química; deriva epistémica
-- [[isaza-chatgpt-engineering-prompting-2026]] — Las conductas de prompting predicen el rendimiento de los estudiantes de ingeniería
-- [[student-ai-conversations-cognitive-engagement-2026]] — Implicación cognitiva por nivel de Bloom asociada a la disciplina en conversaciones entre estudiantes e IA (Chang y Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes de diseño pedagógico iterativo
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Ingeniería de prompts frente a alfabetización en prompts: un marco de participación centrado en el ser humano con IA generativa en cinco fases y un Ciclo de Alfabetización en Prompts de cinco pasos (Miles, Haber-Curran y Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — La ingeniería de prompts y la selección de modelo como predictores de la calidad de la retroalimentación con IA (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluación del Foco de la Retroalimentación y la Adaptatividad Pedagógica en la Retroalimentación Generada por LLM sobre la Escritura del Estudiantado
-- [[middle-school-genai-steam-interactions-2026]] — Los grupos STEAM de secundaria copiaron literalmente la instrucción del docente en el 47,1% de los prompts
-- [[ecd-prompts-automated-essay-scoring-2026]] — Uso del Diseño Centrado en la Evidencia para guiar la ingeniería de prompts en medición: una ilustración con puntuación automatizada de ensayos
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Los prompts vagos produjeron bucles de aclaración autorrepetitivos con la mayor brecha de frustración
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 estudiantes sobre qué les resulta difícil: la alineación de la intención, no la sintaxis del prompt
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — la competencia en ingeniería de prompts como vía de equidad, con un experimento de andamiaje entre modelos (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — la alfabetización en prompts como capacidad percibida que aun así predice la implicación
-- [[gold-genai-curriculum-design-preservice-2026]] — Los historiales de prompts muestran un refinamiento casi universal entre docentes en formación
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — Un juego para K-12 en el que el primer objetivo es escribir algún prompt

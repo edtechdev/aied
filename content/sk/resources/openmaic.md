@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -43,7 +44,3 @@ Pre vyučujúcich a kurzové tímy, ktoré chcú vygenerované materiály, ktor�
 ## Poznámky
 
 Licencia MIT, s používateľskou príručkou v angličtine a čínštine a aktívnou komunitou na Discorde a Feishu. Je nezávislý od modelu: dodáte aspoň jeden kľúč poskytovateľa LLM a voliteľné lokálne komponenty (Lemonade pre lokálne modely, FunASR pre rozpoznávanie reči) vám umožnia spustiť väčšiu časť zásobníka offline — takže „zadarmo“ opisuje softvér, nie účet za inferenciu. Článok za ním vyšiel v *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0) a repozitár mal do septembra 2026 viac ako 38 000 hviezd.
-
-## Prepojené pojmy
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

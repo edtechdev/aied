@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,10 +43,3 @@ Lãnh đạo nội các, hiệu phó phụ trách học thuật và các CIO quy
 ## Ghi chú và lưu ý
 
 Khuôn khổ và trang web được cấp phép **CC BY-NC-SA 4.0**, nên việc điều chỉnh được phép cho mục đích phi thương mại với ghi công và chia sẻ tương tự; trang có sẵn phần ghi công gợi ý của chính mình. Việc nó tương thích với OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA và HIPAA là so sánh của chính nhà xuất bản và nên được đọc như vậy. Các trang đồng hành là những dự án riêng, nhiều trang cùng một tác giả, và đáng biết như một bộ: [Campus AI Exchange](https://www.campusaiexchange.com/) là trung tâm, chứa [bản đồ tương tác](https://www.campusaiexchange.com/ai-policies-guidelines-map) về chính sách AI của các cơ sở và hướng dẫn trên lớp, [tự đánh giá quản trị AI](https://www.campusaiexchange.com/ai-governance-assessment), các bản đồ quản trị dữ liệu và quan điểm AI, và một thư viện tài nguyên. Quanh đó là [campusaigovernance.com](https://campusaigovernance.com/) (chín lĩnh vực quản trị AI), [campusairisks.com](https://campusairisks.com/) (Khung Quản lý Rủi ro AI của NIST áp dụng cho các lĩnh vực đó), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), một [mẫu kế hoạch tiếp nhận AI](https://unit-ai-adoption-plan.netlify.app/) ở cấp đơn vị, và một bản tóm tắt về [AI tác tử cho lãnh đạo](https://campusaiframework.com/sites). La bàn Chiến lược cũng lưu hành dưới dạng một tài liệu Google dùng chung, cần tài khoản Google để mở. Một câu hỏi giới thiệu ngắn không bắt buộc về vai trò và cơ sở giáo dục xuất hiện khi vào trang; email là tùy chọn và toàn bộ trang đọc được mà không cần nó.
-
-## Khái niệm liên quan
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

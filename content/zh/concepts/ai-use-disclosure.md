@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -99,44 +101,3 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 - **“学生隐藏 AI 使用是因为不诚实。”** 驱动因素有记录且具体：只有**约 34% 的经济学学生承认使用 AI**，披露更罕见，由**惩罚焦虑**驱动；另一项研究发现 **66% 从不或很少披露**，而**害怕学业受罚是首要原因**。数据指向的是政策设计，不是品格。
 - **“披露要求是一种低成本控制。”** **74% 的不遵从率**使由此产生的记录比没有记录更糟：它是一份看起来完整、实则并不完整的数据集，机构据此对自己无法信任的样本做决策。
 - **“说明模型如何被使用就足够了。”** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk（2026）]]论证，披露记录的是模型使用，而负责任的使用要求主张层面的作者授权，即贡献者理解、证成并捍卫这些主张的能力。这把[[cognitive-offloading|认知性委托]]（输出塑造了实质性选择）与常规性委托（并未如此）区分开来。
-
-## 关联概念
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — 披露意在使之可见的伤害
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — 学习者为何选择隐藏而非披露
-
-## 关联文章
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — 一项 SEM 拆分：被发现的确定性与“声明会暴露不当使用”的风险（Liu 等 2026）
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 镜像的方向：告知学生 AI 何时评分他们的作业，并在上传前征得同意
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 超越检测：学生如何在在线评估中使用与隐藏 AI
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生的 AI 披露、污名与自我调节学习
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 披露的隐性代价：披露与教师指控
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — 学生对 AI 使用声明的不遵从
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 作为教育而非检测的声明
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 作为评估设计阈值的诚实代价
-- [[student-perspectives-ai-writing-grading-2026]] — 谁来给我的作业评分？高等教育中透明的 AI 辅助写作评估的学生视角
-- [[qian-governing-genai-higher-ed-policy-2026]] — 披露作为 50 所创新美国大学中帮助与虚假陈述之间的边界（Qian 2026）
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院政策中披露与 AI 引用无共识（Gutowski & Hurley 2025）
-- [[ai-written-admissions-essays-penalized-2026]] — AI 写的申请文书普遍但受罚
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — 十三项实验：披露 AI 使用通过合法性降低披露者的可信度
-
-- [[authorial-warrant-ai-supported-scholarship-2026]] — 当披露规则不够时：AI 支持型学术中的作者授权与判断（Mirończuk 2026）
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI 披露标签、感知真实性与 AI 生成教学视频中的信任
-- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI 在课程材料中：教师的使用与认知

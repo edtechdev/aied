@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -64,7 +66,6 @@ ai_assist:
 
 **תשומת הלב המחקרית מרוכזת בפרוסה צרה של מערך הכלים.** במיפוי 85 כלי AI מול ספרות STEM והנדסה, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] מצאו שרק 36 נראים במחקר בכלל, ו[[conversational-ai|בינה מלאכותית שיחתית]] ומודלי שפה גדולים מהווים 73.7% מ-927 קשרי מאמר–כלי, עם 23 פרסומים בהקשר מעבדה מבוסס.
 
-
 ## השלכות עבור בינה מלאכותית בחינוך
 
 - **אוריינות טכנית תומכת בשימוש ביקורתי:** הבנת המודלים והטכניקות הבסיסיים עוזרת למחנכים וללומדים להשתמש בבינה מלאכותית היטב ולהעריך אותה באופן ביקורתי (ראו [[ai-literacy]]).
@@ -81,39 +82,3 @@ ai_assist:
 **"בחירות טכניות הן עניינו של הטכנולוג, לא של המחנך."** המסגור של העמוד הוא שאפשר להיות מחנך מצוין בלי לדעת לבנות מודל לשוני גדול, ובחירותיך הטכניות מעצבות עדיין מה בינה מלאכותית יכולה ומה היא אינה יכולה לעשות בכיתה שלך. האם מערכת מעגנת את תשובותיה בחומרי הקורס היא החלטה עם השלכות פדגוגיות שמישהו חייב לקבל.
 
 **"מודל מוכשר יותר יפתור את הפערים של התחום."** תזמור, זיכרון ותכנון לאופק ארוך הם בעיות ארכיטקטוניות ולא בעיות יכולת — ההיעדר המתועד הוא של מערכות שמנהלות את השימוש בכלים שלהן לאורך זמן, ומודל טוב יותר אינו מספק זאת מעצמו.
-
-## מושגים מחוברים
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## מאמרים מחוברים
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Research visibility of 85 AI tools in STEM and engineering education (Terkowsky et al. 2026)
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
-- [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
-- [[educational-llm-alignment]] — Aligning LLMs for education
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
-- [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
-- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom

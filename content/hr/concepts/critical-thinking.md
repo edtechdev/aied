@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -104,54 +106,3 @@ Kritičko mišljenje presijeca se s [[scaffolding|postupnom potporom]] (osmišlj
 - **„Bolji poticaj proizvodi bolje kritičko mišljenje.“** **Strukturirana kontrola dijaloga, a ne bolji poticaj**, razdvaja tutora za logičke pogreške od chatbota za debatu: posao je obavilo **usmjeravanje svakog poteza kroz Toulminovu detekciju namjere**. Mehanizam je struktura interakcije, a ne formulacija.
 - **„Upotreba genAI-a izravno podiže kritičko mišljenje.“** Veza upotrebe genAI-a sa **samoprijavljenim** kritičkim mišljenjem išla je **gotovo u cijelosti kroz genAI [[feedback-literacy|pismenost o povratnim informacijama]]** — kod **421 kineskog studenta** pismenost o povratnim informacijama posredovala je **71 %** veze. Pismenost je put.
 - **„Metaanalitički učinak je jednoličan.“** Kroz **29 eksperimenata** genAI je umjereno podigao mišljenje višeg reda (**g = 0,609**), s kritičkim mišljenjem na **ES = 0,691**. Umjereni objedinjeni učinci kroz heterogene intervencije podupiru kategoriju, ali ne određeni dizajn.
-
-## Povezani koncepti
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Kemijsko obrazovanje i UI: laboratoriji, formativna procjena, ograničenja LLM-a, filozofija eksperimentiranja
-- [[biology-education]] — Biološko obrazovanje i UI: laboratorijski asistenti za poučavanje, pismenost o umjetnoj inteligenciji u biologiji, kritičko mišljenje, specijalizirani alati
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Povezani članci
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kritičko mišljenje ide kroz podjelu rada i preradu rezultata, a ne kroz izloženost
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsenzus 30 stručnjaka: kritičko mišljenje nosi najvišu ocjenu poremećaja u izvješću (prosjek 4,00)
-- [[pearls-epistemic-verification-2026]] — Okvir PEARLS za epistemičku djelotvornost i verifikaciju UI rezultata (Wang 2026.)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Slojno osjetljivo kognitivno rasterećenje u pisanju potpomognutom genAI (Chen 2026.)
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks kritičkog mišljenja u učenju integriranom s genAI-om
-- [[pedagogy-ai-mistakes]] — Pedagogija UI pogrešaka: njegovanje mišljenja višeg reda (Hosseini 2026.)
-- [[shaw-nave-cognitive-surrender-2026]] — Trosustavna teorija i kognitivna predaja: kako UI preoblikuje ljudsko rasuđivanje (Shaw i Nave 2026.)
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedija kognitivnog zajedničkog dobra: UI i obnova stručnosti
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Metaanaliza genAI-a i mišljenja višeg reda
-- [[avraamidou-ai-colonization-science-education]] — Razbijanje UI kolonizacije znanstvenog obrazovanja
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Preusmjeravanje kritičke UI pismenosti
-- [[luo-ibl-patterns-llm-bloom-2026]] — Obrasci IBL-a u okruženjima vođenima LLM-om (Bloomova perspektiva)
-- [[probing-ai-generated-physics-solutions-2026]] — Priprema studenata za kritiku UI-generiranih fizikalnih rješenja
-- [[student-reception-genai-analogies-computing-2026]] — Pogrešne, ali pamtljive: studentski kritički prijem interesno personaliziranih genAI analogija u računalnom obrazovanju
-- [[daoism-ai-education-philosophy-2026]] — Alternativna filozofija umjetne inteligencije: daoizam kao metoda za umjetnu inteligenciju u obrazovanju
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Njegovanje održivog učenja kroz utjelovljenu inteligenciju (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Pretjerano oslanjanje na umjetnu inteligenciju modelirano kao složeni adaptivni sustav
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Rast kritičkog mišljenja specifičan za dimenzije u UI-potpomognutom multimodalnom pisanju (Lu i sur. 2027.)
-- [[lftutor-logical-fallacy-education-2026]] — poučavanje prepoznavanja logičkih pogrešaka kroz strukturirani višekratni dijalog
-- [[caeai-ai-companions-learning-over-performance-2026]] — učenje iznad izvedbe: za što bi suputnike trebalo optimizirati i mjeriti
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — UI potpora, rasterećenje i pismenost o verifikaciji kroz metakognitivnu samoregulaciju (Davor i sur. 2026.)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ovisnost o genAI-u ograničava vezu upotrebe i kritičkog mišljenja kod studenata poslovanja (Shojaei i sur. 2026.)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Refleksijski poticaj smanjuje prihvaćanje netočnih UI savjeta i pristranost pripisivanja (Ren 2026.)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotacija uloga kao struktura kritičke ljudsko-UI interakcije (Kenzhebayeva i sur. 2026.)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Integracija genAI-a usmjerena na verifikaciju u sveučilišnom kemijskom obrazovanju (Vega-Baudrit i Rivera Álvarez 2026.)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — nastavnički kurirana ChatGPT povratna informacija podigla je kritičko mišljenje kroz reviziju višeg reda (Chen i sur. 2026.)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — semestar pristupa umjetnoj inteligenciji ostavio je kritičko mišljenje nepromijenjenim; refleksivna upotreba predviđala ga je (Melanou i sur. 2026.)
-
-- [[genai-dependence-research-creativity-2026]] — Ovisnost o genAI-u pozitivno povezana s kritičkim mišljenjem kod 1.157 studenata diplomskog studija
-- [[genai-use-critical-thinking-moderation-2026]] — Upotreba genAI-a do kritičkog mišljenja kroz pismenost o povratnim informacijama, s izravnim putem samo za manje refleksivne studente
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Pesimistično čitanje dokaza o moderaciji: gubitak trenja, pristranost automatizacije, okvir učinkovitosti
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narativni pregled 108 dokumenata: predznak učinka prati prethodno znanje i vrijeme zadatka (okvir AMCIF)

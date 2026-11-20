@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -47,11 +48,3 @@ Lärare i grund- och gymnasieskola (K–12) som har använt [[generative-ai|gene
 Member och Builder är gratis (Builder: 50 appar, 50 MB); Pro kostar \$10 per månad eller \$60 per år för 500 appar. Åtkomsten är freemium.
 
 Integritet är det starkare påståendet, men det flyttar ansvaret till lärarna. Teacher Hive skapar inga elevkonton, ber inte eleverna om någon personlig information och kör inga analys- eller annonsskript inuti publicerade appar. Eftersom apparna är publika via länk gör villkoren lärarna ansvariga för att säkerställa att deras appar inte samlar in namn, e-postadresser, elev-ID:n eller plats. Tillgänglighetstäckningen (WCAG 2.2 AA) gäller Teacher Hives egna sidor, inte lärargjorda appar, som är otestade. Ingen öppen källkodslicens anges, och driftstid och datalagring garanteras inte.
-
-## Anslutna begrepp
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,31 +87,3 @@ CoI 起源于[[online-teaching-and-learning]]，并仍与之最紧密地关联�
 **“临场在同伴群体中均匀分布。”** 它在条件*内部*分开，而不是在条件之间。在一项有 **63 名中国本科生（33 名有 GPT-4o mini 聊天机器人，30 名无）**跨五个每周任务做共享阅读批注的准实验中，临场按小组成就分化：高成就组在 **2319 条批注中发起了 1407 次反馈请求（60.7%）**，而低成就组在 **2167 条中为 737 次（34.0%）**。对同一工具的访问，复制了该框架所测量的社会行为中既有的差距。
 
 **“给在线课程加一个聊天机器人就加了一种临场。”** 它改变了配比。该框架在 GenAI 下的价值在于它使替代变得可见：由模型满足的临场是同一构念的另一种配置，而同批数据表明这一替代的回报并不均等。
-
-## 关联概念
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## 关联文章
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21 项研究的范围综述：临场证据不均衡，教学临场研究最少，设计配置区分结果（Doo 与 Park 2026）
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — 拆解 GenAI 辅助社会性批注中的学生互动：认知临场与社会临场的认识网络分析
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新构想探究共同体
-- [[ai-communities-of-inquiry-2026]] — 探究共同体中的 AI
-- [[ai-online-education-engagement-satisfaction-2026]] — AI 与在线教育投入
-- [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：作为认知中介的 AI
-
-- [[llm-facilitation-timing-online-discussions]] — 人类与 LLM 促进者：模型比专家人类更急切地介入（Tsirmpas 等，2026）
-

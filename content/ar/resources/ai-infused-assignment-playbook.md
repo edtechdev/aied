@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -51,16 +52,3 @@ ai_assist:
 ## Notes and caveats
 
 هذا دليل عملي لا دراسة تجريبية؛ فادعاءاته حول استخدام الطلاب للذكاء الاصطناعي تستند إلى مصادر خارجية استُشهد بها (BestColleges، وCampbell، وDigital Education Council، وFlaherty) لا إلى بيانات جديدة. وإطار «بناء الشبكة» وتأطير «وهم الفهم» مسحوبان من الأدبيات الأوسع (Wigmore وآخرون؛ Williamson وآخرون) ومُقدَّمان كمبرر تربوي لا كنتائج مُختبرة للدليل نفسه. والواجبات قوالب مؤلَّفة — ولا واحدة منها مُبلَّغة بأحجام تأثير، لذا ينبغي معاملتها كتصاميم تُكيَّف وتُقيَّم محليًا. منشور في 2026-10-07، الإصدار v1، على Zenodo برخصة CC BY 4.0؛ والتنزيل مجاني دون حساب. وحتى لحظة الاستيعاب يُظهر السجل ~35 مشاهدة و~14 تنزيلًا فقط، لذا فقد رأى استخدامًا خارجيًا أو مراجعة أقران قليلًا حتى الآن.
-
-## المفاهيم المرتبطة
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

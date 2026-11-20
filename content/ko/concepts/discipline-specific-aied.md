@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -119,50 +121,3 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 - **"분야는 주로 내용 예시에만 중요하다."** **560명의 학생**을 대상으로 한 연구는 분야 소속이 **학생들이 [[generative-ai|생성형 AI]]를 얼마나 자주 그리고 공개적으로 사용하는지**를 예측함을 발견했습니다. 분야는 도구가 아예 사용되는지, 그리고 그 사용이 공개되는지를 형성하며, 무엇을 질문받는지만을 형성하지 않습니다.
 - **"학제성은 일반적인 제도적 목표다."** **"학제 간"의 형태 자체가 분야에 의해 결정됩니다**. [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.(2026)]]의 [[meta-analysis-systematic-review|검토]]는 그것이 취하는 형태가 분야마다 다르다고 발견합니다. 단일한 제도적 정의는 그것이 포괄하는 분야 가운데 적어도 일부를 잘못 읽습니다.
 - **"직업 교육은 학문 분야에 견줄 만한 연구 기반을 갖는다."** 직업 교육 줄기는 **그 증거에서 가장 얇습니다**. 직업 교육 훈련의 **26개 연구**에 대한 체계적 검토는 **직장 환경에서 수행된 연구가 하나도 없음**을 발견했습니다. 역량이 실제로 발휘되는 곳이 바로 그 환경입니다. 문헌의 부재는 격차이지 영 결과가 아닙니다.
-
-## 연결된 개념
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## 연결된 문서
-- [[yang-pe-teachers-ai-perceptions-2026]] — 대학 체육 교사 16명: 장벽으로서의 체현된 학문성, 엘리트 팀에 배정되는 AI 장비 (Yang, Chen & Rao, 2026)
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — 학제 간 고등교육의 AI에 관한 체계적 검토 (59개 연구)
-- [[llms-text-linguistics-teaching-2026]] — 텍스트 언어학 교육에서의 LLM
-- [[fowlin-operationalizing-learning-principles-ai]] — 보건 전문직 교육에서 AI로 학습 원칙 운영화
-- [[designing-ai-professional-development-itpack-2026]] — 지능형 TPACK 기반 AI 전문성 개발
-- [[teaching-the-teachers-genai-tpk-review-2026]] — 교사 교육에서의 GenAI 특정 TPK
-- [[human-centered-ai-teacher-educators-2026]] — 교사 교육자를 위한 비판적 AI 리터러시 전문 학습
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 인문학과 사회 과학 교육에서의 해석적 인지
-- [[becker-chatgpt-typology-physics-2026]] — 물리학 교육에서의 ChatGPT 사용 유형학
-- [[code-review-genai-cs1]] — CS1에서의 GenAI 코드 검토
-- [[ai-writing-support-stage-ownership-2026]] — 단계 기반 AI 글쓰기 지원과 소유권
-- [[ai-engineering-education-balancing-act]] — 공학 교육에서 AI의 균형 잡기
-- [[ai-literacy-career-adaptability-business-2026]] — 경영 교육에서 AI 리터러시와 경력 적응력
-- [[jiang-genai-activity-theory-disciplines-2026]] — 활동 이론: GenAI 사용과 공개의 분야 차이 (560명 학생)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 간호 교육에서 AI 기반 시뮬레이션: 지식과 자신감의 향상, 정신운동 기술에 대한 일관되지 않은 효과
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — 대학원 IT 학습에서 GenAI는 스캐폴드인가 지름길인가
-- [[ai-vocational-education-training-review]] — 직업 교육 훈련의 AI에 관한 첫 체계적 검토
-- [[genai-architectural-design-studios]] — 디자인 스튜디오의 생성 모델: 자극, 해법 공간 확장, 고착
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 과일반화된 규칙을 능력으로 인증하는 숙달 정지 규칙

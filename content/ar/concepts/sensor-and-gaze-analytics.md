@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -85,7 +87,6 @@ ai_assist:
 
 يمكن لجهاز استشعار أن يسجّل الحضور المكاني المشترك حيث تدّعي دراسة وجود تفاعل: فقد وجد [[hur-computational-analysis-teacher-group-interactions-2026|Hur وآخرون (2026)]] أن كاشفًا قائمًا على الوضعية بلغ استدعاءً قدره 55% فقط، فالتقط 11 من 20 حدثًا حدّدها مبرمجون بشريون في تفاعلات [[teacher-role|المعلّم]] مع مجموعات الطلاب. وكان المعلّم حاضرًا داخل حدود المجموعة في 49.2% من المقاطع المرمّزة بينما نظر الطلاب إلى المعلّم في 25.4% فقط، ولم تتغير أي سمة صوتية في المقارنتين، فسجّلت المنظومة حضورًا مكانيًا لا تفاعلًا مستمرًا.
 
-
 والملف الفسيولوجي ليس تشخيصًا. تتنبّأ نماذج توتر الامتحان بفئة درجة من الاستثارة والحركة، ويصرّ المؤلفون على أن المخرَج ينتمي إلى جانب الظروف الشخصية وسياق الصحة النفسية لا إلى قرار عالي المخاطر ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 
 وأخيرًا، الجمع ليس تكاملًا. وجد Kim and Han أن معظم الدراسات متعدّدة الوسائط جمعت التدفقات على التوازي، وأن دراسة واحدة صفّت وجوهًا وانفعالًا ونظرة وكشف وجوهٍ بعد الحدث، وأن لا واحدة دمجت مدخلاتها حيًّا أثناء استخدام متعلّم للنظام ([[kim-ai-embodied-learning-review-2026|Kim and Han, 2026]]). فصفحة من القنوات المتزامنة قد تبدو كنموذج للمتعلّم بينما هي تسجيل فقط.
@@ -115,40 +116,3 @@ ai_assist:
 **«الانخراط شيء واحد، فدرجة واحدة تمثّله.»** للبِناء ثلاثة خيوط، والمستشعر يبلغ الأول معظمه. فقد وجد E3Sense أن المتعلّمين عرّفوه بمؤشرات معرفية وسلوكية وانفعالية بنسب مختلفة، وأن تلك التعريفات غيّرت التنبّؤ ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). فرقم واحد يخفي أي طبقة قِيست.
 
 **«إذا كان النموذج عادلًا على تقسيم التحقّق فهو عادل في الصف.»** مُنظِّم وحّد خطأ التحقّق بين مجموعات الجنس جعل الفجوة على المحجوز أسوأ ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). فالعدالة خاصية نشر، لا خاصية نقطة تفتيش.
-
-## المفاهيم المتصلة
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## المقالات المتصلة
-- [[gaze-informed-ai-children]] — سرد بنموذج لغوي كبير يُطلَق بالنظرة أبقى الأطفال على منطقة مسرودة 6.48 ثانية مقابل 1.67، لكن الدراسة قاست الانتباه لا الفهم (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG على الرأس وتتبّع عين وEDA على الجبهة تنبّأت بانخراط مُقيَّم ذاتيًا بدقّة 75.0% في حدود مستوى واحد مقابل خط أساس 63.0% (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — دمج EduGage سبعة تدفقات قابلة للارتداء وكاميرات في تقديرات انخراط على مستوى المقطع (MAE 0.81) ويحاجّ لصالح أجهزة أخفّ (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — نموذج انتباه متعدّد الوسائط بلغ MAE 0.283، وانعكست مكاسب عدالته في التحقّق على أفراد محجوزين (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — الذكاء الاصطناعي القابل للارتداء شفاف مزدوجًا، فيفشل الاستبعاد المادي وينحرف الإنفاذ نحو الحكم على أجساد الطلاب (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — خمسة عشر نموذجًا للتنبّؤ بالألفة من EEG هبطت من 0.9853 إلى 0.6038 F1 في تحقّق مستقلّ عن المحاولة (Nanayakkara and Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — الصور المُعاد بناؤها من EEG تتبّعت أداء الاختبار عند R² = 0.79، مع مشارك واحد عالي إعادة البناء أجاب خطأً (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — تنبّأت غابة عشوائية بفئات درجات الامتحان من EDA والحركة وحرارة الجلد، وهي إشارات تفهرس الاستثارة لا الفهم (Yamazaki and Rimal, 2026)
-- [[affective-text-wearable-student-health]] — في 458 طالبًا يلبسون Oura، تتبّع السجل الانفعالي لا موضوع الاهتمام النومَ وتباينَ معدل ضربات القلب (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — نظرة كاميرا ويب قادت تغذية راجعة بتعلّم معزّز لـ 187 متعلّمًا؛ ارتبط الانتباه بالتعلّم عند r = 0.017 بينما ارتبط الحمل سلبًا (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — سمات وضعية YOLOv11 أشارت إلى سلوك مريب بدقّة 99.56% على مجموعة موسومة مخصّصة، دون اختبار المخالفة أو العدالة (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — تراجع الترابط العصبي مع دعم الكتابة الخارجي عبر 54 مشاركًا، مؤطِّرًا الاعتماد كدين معرفي متراكم (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — عبر 23 دراسة، هيمنت أدوار الاستشعار بـ 62.5% من الوسوم، ولم يدمج أي نظام مراجَع التدفقات متعدّدة الوسائط حيًّا (Kim and Han, 2026)

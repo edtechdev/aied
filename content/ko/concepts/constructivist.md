@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -96,7 +98,6 @@ ai_assist:
 - **답 기계가 아니라 사고 도구** — 도구가 학습자를 대체하기보다 학습자가 도구를 이끄는 [[genai-mindtool-generative-learning]]로서 GenAI를 사용하기.([[genai-mindtool-generative-learning]])
 - **건설적 갈등** — 소크라테스식 튜터링의 전통 안에서 학습자의 설계나 추론에 이의를 제기하여 재고와 대안의 더 깊은 구성을 촉구하는 대립적 AI 에이전트.([[ai-agents-constructive-conflict-design-education-2026]])
 
-
 - **모의된 반대는 반대가 아니다.** 요구에 따라 말해질 수 있으나 결코 저항하지 않는 반대 입장은 대화의 안무를 연습하면서 그것을 강하게 만드는 것을 삼킵니다. 그것은 구현, 이해관계, 결과에 대한 노출이 없으므로, 인간의 타자와 달리 수선으로 가는 어떤 길도 제공하지 않습니다([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **비교를 통한 내적 피드백** — 학습자가 자신의 작업을 AI가 생성한 모범 답안과 비교하게 하여, 비교 행위 자체가 학습을 생성하게 하기.([[ai-internal-feedback-evaluative-judgments]])
 - **질문 유형 인식 프롬프트** — 학습자의 질문을 구성주의적 역할로 분류하여, 시스템이 의도적으로 학생을 정보 추구에서 탐구적이고 대화적인 질의로 격상시킬 수 있게 하여, 질문이 내포하는 인지적 깊이와 무관하게 그것을 반영하기보다 말입니다. 촉진자와 공동 학습자 의도가 자동 분류기에게는 여전히 혼동되기 때문에, 이 설계는 분류가 [[feedback]]이나 [[scaffolding]]을 이끌기 전에 인간이 검증하게 유지합니다.([[lee-learner-question-types-ai-education-2026]])
@@ -118,56 +119,3 @@ ai_assist:
 - **"구성주의 수업은 던지는 질문으로 탐지할 수 있다."** DeBERTa 분류기는 **사실적 지식 전달자 질문을 96.67%의 정밀도로 분류했지만 촉진자 질문은 78.79%에 그쳤고**, **모든 모형이 두 고차원 역할을 혼동했습니다**. 가장 중요한 구성개념이 자동 탐지가 가장 잘 다루지 못하는 것입니다.
 - **"수업의 표면적 특징이 그 교수법을 드러낸다."** 분류기의 실패는 구현상의 세부 사항이 아닙니다. 촉진자 역할과 구성주의 역할이 어려운 사례인 이유는 그것이 교사가 학습자의 사고로 무엇을 하는지로 정의되며, 그 관계는 질문 텍스트만으로는 복원되지 않기 때문입니다.
 - **"구성주의란 교사가 설명하지 않는 것이다."** 이 이론은 학습을 학습자가 경험으로부터 구성하는 데 위치시키며, 이는 직접 교수와 양립합니다. 그것을 설명 금지로 다루는 것은 이론과 worked examples에 관한 증거를 모두 잘못 읽는 것입니다.
-
-## 연결된 개념
-- [[community-of-inquiry]] — Community of Inquiry(구성주의적/듀이적 실용주의에 기반)
-- [[cognitive-psychology]] — 인지주의, 학습 이론의 세 번째 고전적 극
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
-- [[theory-development-aied]] — AI 교육에서의 이론 발전
-- [[productive-failure]]
-
-## 연결된 문서
-- [[lee-learner-question-types-ai-education-2026]] — 세 구성주의적 역할로 분류된 학습자 질문: 전달자, 촉진자, 공동 학습자(Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — AIED 역사에서 구성주의(페퍼트)를 인지 튜터와 대비
-- [[code-to-learn-genai-artifact-construction-2026]] — GenAI로 Code-to-Learn: 산출물 구성을 위한 구성주의 틀
-- [[ai-writes-code-student-writes-model-2026]] — 모형 저작: GenAI로 구성에 의한 학습의 이론과 측정 프로그램
-- [[ai-vocational-education-training-review]] — 구성주의는 표방되나 VET에서 행동주의적 AI가 지배한다; '튜링 트랩'
-- [[generative-refusal-ai-tools-for-thought]] — 구성적 사고를 보호하기 위해 생성을 삼기는 AI 도구
-- [[genai-mindtool-generative-learning]] — 학습자 구성을 뒷받침하는 사고 도구로서의 GenAI
-- [[ai-agents-constructive-conflict-design-education-2026]] — 건설적 재고를 촉구하는 대립적 AI 에이전트
-- [[hingle-collaborative-ai-literacy-2025]] — 협력적 AI 리터러시와 ICAP 참여 틀
-- [[ai-internal-feedback-evaluative-judgments]] — 평가적 판단을 생성하는 AI 지원 비교
-- [[icap-cognitive-engagement-llm-agents]] — LLM 에이전트와의 ICAP와 인지적 참여
-- [[conversational-ai-tutors-framework]] — AI 튜터에서의 비계 대화
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI 촉진자와의 구현된 탐구
-- [[beyond-detection-authentic-assessment-ai-2025]] — 진정 평가와 지식 구성
-- [[teacher-ai-teaming-five-levels]] — 설계에서의 교사–AI 협력 수준
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 학습자와 기계 사이의 인식론적 공동 주체성
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — AI 기반 교육용 로봇공학 학습으로 가는 경로(2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: 학생의 인지 진화를 모의하는 생성 에이전트
-
-- [[synthetic-position-self-authorship-2026]] — 모의된 AI 반대 입장은 대화의 형식을 연습하지만 수정을 강요하는 저항을 삼긴다
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 학습 벌점: 숙제 점수 18% 상승, 폐쇄형 시험 20% 하락, 숙제 외주 사용자에 집중
-

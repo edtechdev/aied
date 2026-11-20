@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -37,7 +39,6 @@ ai_assist:
 ### Merasakan emosi untuk menyesuaikan pengajaran
 
 Komputasi afektif bertujuan membuat sistem AI sadar emosi agar dapat merespons bagaimana pembelajar merasa, bukan hanya apa yang mereka lakukan. Dalam pendidikan, ini berarti merasakan frustrasi, kebingungan, kepercayaan diri, kebosanan, atau keterlibatan lalu menyesuaikan pengajaran. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] mendemonstrasikan pendekatan ini dengan memodelkan afek dari dua modalitas — teks percakapan dan ekspresi wajah waktu nyata — dan memetakan keadaan emosional teragregasi ke strategi [[pedagogy|pedagogis]] sebelum [[prompt-engineering|memberi prompt]] kepada tutor.
-
 
 Sinyal-sinyalnya sendiri ambigu: satu kanal ekspresif tidak dapat secara andal membedakan kesusahan, usaha, rasa malu, kelelahan, atau presentasi diri yang strategis tanpa mengetahui orang, tugas, budaya, dan situasi yang menghasilkannya — "menuntut interpretasi kontekstual" — sehingga pengklasifikasi yang membaca sinyal terlihat saja berisiko menghasilkan rekomendasi yang masuk akal tetapi salah secara pedagogis ([[ai-emotion-regulation-sport-exercise-2026|Zhang dkk. (2026)]]).
 
@@ -67,33 +68,3 @@ Komputasi afektif berada di persimpangan [[affective-tutoring]] (aplikasi pedago
 - **"Keterlibatan lebih banyak berarti pembelajaran lebih banyak."** Sebuah studi penginderaan otak menemukan **antarmuka adaptif yang dibatasi menaikkan keterlibatan kognitif (p = .018) sementara chatbot tanpa batasan menghasilkan perolehan belajar lebih tinggi**. Antarmuka yang lebih melibatkan justru mengajar lebih sedikit. Keterlibatan bukan proksi pembelajaran, dan mengoptimalkannya dapat menggerakkan hasil ke arah yang salah.
 - **"Dukungan emosional adalah tambahan lunak bagi dukungan kognitif."** Dalam [[rct]] kelas kecil (**42 penyelesai dari 252 partisipan**), versi mindful mencapai **pembelajaran aljabar serupa dalam waktu lebih singkat dan dengan lebih sedikit permintaan petunjuk** dibandingkan dukungan kognitif saja. Komponen afektif mengubah efisiensi alih-alih plafon, yang merupakan klaim berbeda dan lebih menarik daripada "ini membantu pembelajaran".
 - **"Temuan afektif dari sampel kecil dapat ditransfer."** 42 penyelesai dari 252 partisipan adalah desain yang sekaligus menggembirakan dan rapuh: tingkat penyelesaian itu sendiri adalah temuan tentang siapa yang bertahan, dan efeknya terbatas pada kelompok tersebut.
-
-## Konsep terkait
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Pembelajaran Sosial-Emosional
-
-## Artikel terkait
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Merespons peringatan emosional yang dihasilkan AI: intervensi guru dan keterlibatan siswa di ruang kelas matematika
-- [[wang-teacher-student-centered-agents-physics-2026]] — Persepsi empati dari peran agen yang dirancang melalui prompt dalam pembelajaran fisika (Wang dkk. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Melampaui pemecahan masalah: model bahasa besar untuk dukungan emosional dan reflektif dalam pembelajaran matematika
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Penilaian kualitas kelas yang sadar emosi melalui pemantauan waktu nyata berbasis IoT (Nguyen dkk. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: penilaian kecemasan siswa yang diperkaya LLM (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates Menjadi Nuklir: membandingkan strategi interaksi untuk AI dalam pembelajaran
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Membingkai ulang regulasi emosi yang didukung AI: sinyal butuh konteks, bukan interpretasi otonom

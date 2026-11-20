@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -53,7 +55,6 @@ Bloom의 숙달 학습은 교수의 목표를 "학생들을 적성에 따라 분
 숙달은 단 한 번의 올바른 수행이 아닌 지속적인 기억 유지에도 의존합니다. [[retrieval-spacing-interleaving|인출 연습]]과 망각 곡선에 관한 인지 과학은 숙달 임계값에 도달한 뒤 간격 연습의 필요성을 뒷받침합니다. Memdora와 같은 AI 간격 반복 시스템은 읽는 시점에 연습 자료를 생성하고, 인지 과학에 기반한 인출 상호작용의 분류 체계를 제공하며, 최신 알고리즘에 따라 일정을 예약하여, 달성한 숙달이 몇 시간 만에 사라지지 않고 시간이 지나며 강화되도록 합니다. 이러한 설계는 [[cognitive-psychology]]와 [[desirable-difficulties]]의 원리에 기대어, 인출 자체의 노력을 학습 과정의 일부로 만듭니다.
 **기억 유지 주장에는 이제 측정치가 있으며, 숙달 모형은 그것을 통과하지 못합니다.** 세션 1로 훈련하여 일주일 뒤 수행을 예측했을 때, Additive Factors Model과 BKT는 다음 세션 수행을 약 58%와 51% 과대추정했고, BKT-Forgetting은 47% 과대추정했으며, 어느 것도 88명 참가자가 여섯 세션에 걸쳐 48개의 단어 쌍을 학습한 관찰된 간격 효과를 재현하지 못했습니다. 회고적 전체 데이터셋 적합은 같은 모형들을 수용 가능해 보이게 했습니다(AUC 0.79, 0.77, 0.74). 따라서 숙달 시스템의 기억 유지 주장은 그 검증 방법만큼만 좋습니다([[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan과 Carvalho, 2025]]).
 
-
 마지막으로, 증거는 AI로 생성된 지원이 고르게 유익하다고 가정하는 것에 반대합니다. 초보 프로그래머를 대상으로 한 다기관 [[governance|기관]] 간 연구에서 AI로 생성된 애니메이션 추적(animated traces)의 이점은 맥락 의존적이고 단기적이었으며, 중간 [[student-engagement|참여(engagement)]] 수준의 학습자는 조율 비용에 기인한 수행 저하를 경험했습니다 — 이는 도구를 일률적으로 적용하기보다 학습자의 현재 상태에 맞춰 지원을 개인화해야 함을 보여 주는 전문성 역전(expertise-reversal) 양식의 효과입니다. 이와 마찬가지로, [[higher-ed|고등교육]]에서 [[ai-literacy|AI 리터러시]]의 발달 연속선은 숙달을 단순히 AI 도구를 능숙히 사용하는 것이 아니라, 각자의 [[formative-assessment]] 전략을 지닌 정보에 기반하고 비판적인 사용의 단계들을 거치는 것으로 자리매김합니다. 이 발견들을 종합하면, AI가 가능하게 한 숙달 학습은 개별 학습자에게 보정되고, 지속 가능한 간격으로 유지되며, 유창한 출력이 아닌 진정한 능력에 대해 평가되어야 하는 시스템으로 그려집니다.
 
 - **공유 통제(shared-control) 숙달 학습은 학습자의 과제 선택 전략만큼만 효율적입니다.** 한 시뮬레이션 연구(실행당 1,000명의 [[simulating-students|시뮬레이션 학습자]], 실제 MathTutor 및 DataShop 로그에 맞춰 추정한 AFM과 BKT 매개변수)는 아홉 가지 과제 선택 전략을 비교했습니다. 효율성은 한 자릿수 차이로 달라집니다. 최악의 경우 숙달 손실이 가장 작은 기술을 고르는 위험 회피적 "Minimize Worst Case Loss" 전략은 방정식 풀이에서 30.28배의 과잉 연습을(그래프 해석에서는 28.93배) 낳은 반면, 다른 전략들에서는 평균 1.73 +/- 0.38이었습니다. 표적화된 시스템 제약이 이를 정밀하게 구제합니다. 과제 선택 제약은 과잉 연습을 12.88/14.46배로 줄이고, "Prefer Harder" 편향의 문제 선택은 이를 1.98배로 줄입니다(Cohen's d = 1.86) — 한편 이미 효율적인 전략들은 영향을 받지 않습니다. 설계 시사점: 제약은 전략 인식적이어야 하며, 병리적인 자기 조절자는 보호하되 좋은 전략에는 부담을 주지 말아야 하며, 30배의 과잉 연습에 학생들을 노출해 문제를 발견하기보다 시뮬레이션 우선 재설계가 바람직합니다. ([[simulating-learner-task-selection]])
@@ -69,24 +70,3 @@ Bloom의 숙달 학습은 교수의 목표를 "학생들을 적성에 따라 분
 **"숙달 학습은 AI가 마침내 가능하게 만든 교수법입니다."** 그 기제는 AI보다 훨씬 오래되었습니다. Bloom이 수십 년 전에 그 틀을 공식화했습니다. AI는 이전에 불가능했던 설계를 실현하는 것이 아니라 평가와 진도 결정을 자동화함으로써 그것을 작동시킵니다. 이 재규정이 중요한 이유는 자동화가 규칙 선택을 물려받고, 판단이 사는 곳이 바로 그 규칙이기 때문입니다.
 
 **"숙달 아래에서 평가가 더 잦으면 임계값이 더 신뢰할 만해집니다."** 빈도는 추정을 개선할 뿐 잘못 지정된 규칙을 고치지 못합니다. 도움받은 작업이 포함된 사건으로 숙달을 더 자주 다시 계산하면 같은 틀린 답에 더 빨리 수렴합니다.
-
-## 연결된 개념
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — 숙달 주기 안의 연습 엔진으로서의 인출과 간격 연습
-
-## 연결된 문서
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응적 숙달이 학습자가 행동을 억제할 시점을 알기 전에 연습을 중단할 수 있다 (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — 책임감 있고 해석 가능한 학습자 모델링을 위한 딥러닝에 숙달/비숙달 규칙 주입
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — 도움받은 작업을 인정하면 숙달이 부풀려진다: 어떤 증거 규칙이 누구를 숙달로 선언하는지를 결정하는가 (Srivastava 2026)
-- [[simulating-learner-task-selection]] — 숙달 학습에서 학습자의 과제 선택 전략과 시스템 제약 시뮬레이션 (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 지식 추적 모형은 기억 유지를 과대추정한다: 전체 데이터셋 적합이 회고적으로 숨기는 것 (Schuetze, Yan & Carvalho 2025)

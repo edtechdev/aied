@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,12 +48,3 @@ Wanafunzi wanaofanya kazi ya kusoma au seti ya maswali na wanataka kuulizwa bada
 ## Vidokezo na tahadhari
 
 Hakuna bei au akaunti inayochapishwa kwa zana inayomkabili mwanafunzi, wakati usambazaji wa kitaasisi — wingu, ndani au mseto — hutolewa kupitia pendekezo maalum na mkutano; chukulia "bure" kama hali ya onyesho la umma mnamo Novemba 2026, si dhamana. Maandishi na picha huenda kwa huduma inayohifadhiwa inayoendeshwa na Claude, na tovuti yenyewe inawaambia watumiaji kuondoa majina, kiasi, anwani na majina ya kampuni kabla ya kupakia, jambo linalohamishia mzigo wa kuondoa utambulisho kwa mtu anayepakia badala ya jukwaa. Vikao hujifuta baada ya saa moja isipokuwa vimehamishwa. Kampuni ya msingi pia inauza jukwaa pana la tathmini ya grafu za hoja kwa taasisi, na madai yake kuhusu kutofautisha grafu za kutoa hitimisho, za kufuatilia, za kukisia na za kulinganisha yanatoka kwa maandishi manne ya marejeleo — tovuti inaita hilo onyesho, huku uthibitisho kwa kiwango kikubwa ukiwa bado unakuja.
-
-## Dhana zinazohusiana
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -127,65 +129,3 @@ Peer-Status wird sozial erworben. Mathematische Fähigkeit floss kaum in die Urt
 - **„Gruppen KI zu geben bedeutet mehr Kollaboration."** Ein Scoping-Review von **18 Studien** kartiert einen Trade-off über Gruppenarbeit hinweg: GenAI unterstützte **Wissensentwicklung, Ideenfindung und Kommunikationseffizienz**, trug aber in denselben Interventionen auch relationale Kosten. Effizienzgewinn und relationale Kosten treten gemeinsam auf.
 - **„KI-unterstütztes kollaboratives Lernen hat meta-analytische Absicherung."** Der **einzige** verfügbare meta-analytische Kontrast für KI-unterstützte kollaborative Arbeit sitzt **innerhalb** von GenAI-unterstützten PBL/PjBL-Interventionen, statt direkt geschätzt zu werden; er ist also eine Komponente eines breiteren Effekts und keine Messung von Kollaboration.
 - **„Ein LLM-Partner bewahrt das eigene Schlussfolgern der Gruppe."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash und Connell Pensky (2025)]] testeten es im Klassenzimmermaßstab mit einführenden sozialwissenschaftlichen Studierenden, gerade weil Bewahrung eine offene Frage und keine Annahme ist.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Skriptierte geteilte-KI-Kollaboration und ihre getesteten Rollendesigns
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[group-work]] — Gruppenarbeit
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Online-Lehre und -Lernen
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
-
-## Verbundene Artikel
-- [[nixon-social-cost-ai-teammate-2026]] — Eine randomisierte Prüfung der relationalen Kosten: Reaktionsbereitschaft der Peers und Zugehörigkeitsgefühl sinken, wenn eine AI dem Team beitritt (Nixon et al. 2026)
-- [[lin-ai-peer-collaborative-mathematics-2026]] — Was einen LLM-Agenten als Peer lesbar macht: Sicherheit, tentatives Schlussfolgern, angemessene Unvollkommenheit
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten findet ein einseitiges soziales Risiko: Kollaborationsprozesse sind verwundbar, ohne einen Pfad zur Verbesserung
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Frameworks für generative KI-unterstützte Bildung: Aufkommende Evidenz aus einem systematischen Review und einer Metaanalyse auf drei Ebenen
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Aufkommende Handlungsfähigkeit von Lernenden in impliziter Mensch-KI-Kollaboration: unterstützende versus konträre Personas
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: proaktiver KI-adaptiver kollaborativer Tutor für Pair Programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: KI-Vermittlung von Disziplin in Studierenden-Projektteams
-- [[academic-league-of-ai-2026]] — Academic League of AI: kollaborative, projektbasierte KI-Bildung
-- [[icap-cognitive-engagement-llm-agents]] — Erweitertes ICAP-Framework zur Messung von Engagement in kollaborativem Dialog
-- [[llm-facilitation-timing-online-discussions]] — LLM-Facilitierungs-Timing in kollaborativen Online-Diskussionen
-- [[ba-ai-agents-cscl-review-2026]] — Review zu KI-Agenten im rechnerunterstützten kollaborativen Lernen
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI und Gruppenarbeit von Studierenden: ein Scoping-Review (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA-Synthetik-Benchmark für Multi-Agenten-Tutoring und partizipationsbalancierte Kollaboration
-- [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum in Kleingruppendynamiken (Xu et al. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — KI-generiertes, zusammenfassungsgesteuertes Lerndesign in Online-Diskussionsforen
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI als Koordinationsinfrastruktur in Studierendengruppen: intensivierte, zurückhaltende und nicht-umgesetzte Nutzung
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: gruppenbasierte Ethik-Bildung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung ermöglichen
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Sozial orientierte KI-Kollaborationsarbeit wurde in 1.048 Publikationen nie ein dominantes Thema
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Die epistemische Konfiguration der Gruppe entschied, wo die KI saß: ein Integrationsknoten in Gruppen mit unterschiedlichen Vorstellungen, ein linearer Anfrage-dann-Verarbeiten-Pfad in ähnlichen, bei gleichem Vorwissen (Wang et al. 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Paare mit einem Multiagentensystem erzielten die besten Projekte, während Einzelarbeit die größten Zuwächse im kritischen Denken erbrachte
-- [[alam-process-oriented-collaborative-essays-2026]] — Prozessorientierte kollaborative Essays: benotete Iteration und Zusammenarbeit, wobei GenAI innerhalb festgelegter Grenzen erlaubt ist (Alam & Jackson 2026)

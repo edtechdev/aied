@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -53,16 +54,3 @@ Proje ayrıca, yapay zeka araçlarının aranabilir tanımlayıcılar üretebilm
 ## Notlar ve uyarılar
 
 Bu, hakemli bir çalışma değil, bir uygulayıcı rehberi ve araç zinciridir — öğrenme kazanımlarına ilişkin kanıttan ziyade bir iş akışı ve onun kendi eğitim gerekçesi ("akıllı ders kitapları, öğrencileri bilgi arayışında kavramlar arasında yönlendirir") sunar. MicroSim araştırma makalesi, ampirik dayanak olarak ona en yakın olan şeydir ve arXiv'ta öz yayınlıdır. Her iki proje de açık kaynaktır (intelligent-textbooks deposu MIT lisansı ve 38 yıldız bildiriyor; MicroSims Creative Commons lisansı ve 13 yıldız bildiriyor) ve etkin biçimde sürdülmektedir. Kavram grafikleri ve sözlük-öncelikli yapı, keşfedilebilirlik için gerçekten faydalıdır, ancak rehber oldukça teknik bir yazım iş akışı — MkDocs, Git ve üretken YZ araçları — varsayar; bu bazı fakülteler için engel olabilir. İçerik alındığında MicroSims kayıt defteri hâlâ yol haritasında olduğundan, belirli bir mevcut simülasyonu bulmak sitenin kendi arama ve gezinmesine bağlıdır.
-
-## Bağlı kavramlar
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -72,37 +74,3 @@ SDTは、その上位の構築物として[[motivation]]に、感情を認識す
 - **「動機づけの種類は、動機づけの量よりも重要でない。」** 一年間にわたる研究は、**三つの動機づけのプロファイル、すなわち無関心、発達中、自己決定的が時間をかけて安定している**ことを見出し、**自己決定的**プロファイルに到達した学生が**最も大きな[[ai-literacy]]の伸び**を示しました。動機づけの質が学習を予測し、プロファイルは単に上向きに漂流したのではありません。
 - **「自律性の支援とは、構造を取り除くことである。」** SDTの機構は自律性、有能感、関係性が共にあることであり、縦断的なエビデンスは、それらを満たすことが伸びに伴っただけでなく伸びを予測したことを示しています。有能感の支援を伴わない自律性は放任であり、理論の条件を満たしません。
 - **「[[conversational-ai|チャットボット]]は三つの欲求を自動的に供給できる。」** ある研究は、ChatGPTが言語学習において自律性、関係性、有能感を支えうることを見出しました。それは可能性であり、性質ではありません。ある相互作用がそれらを支えるかどうかは、それがどう使われるかについての実証的な問いです。
-
-## 関連する概念
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## 関連する記事
-- [[family-school-autonomy-support-genai-2026]] — 子どもの生成AIの責任ある使用のための家庭と学校の自律性の支援
-- [[dual-ai-learning-pathways-sdt-2026]] — 高校の圧力と自律性の支援、そして二重のAI学習の経路(Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 学習の設計の意思決定におけるLAとGenAI
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — 英語の言語学習における学生のChatGPTの経験
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者の特性×TTSの対話形式の相互作用
-- [[liang-ai-learning-motivation-sdt-2026]] — 学生のAI学習の動機づけについてのSDT潜在転移分析(2,086人の中等学校の学生)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAIの教室における学生の動機づけと欲求の満足(Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAIの使用は欲求の満足と弱く結びつき、高い関与には不要(Heら2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — 教師とAIの協働から仕事への関与への二重の経路。デジタル的な能力によって調整される
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — ヒントの差し控えは自律性を保ち、答えの提示は保たなかった
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — 5〜8 年生における AI の利用可能性、自律性の低下、動機づけのプロファイル（Schweder & Grahl 2026）
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 の研究を 20 の活動分類に照らしてコード化：有能感が最も多く、関係性が最も少ない

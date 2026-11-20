@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 **LiaScript** is an extended Markdown dialect plus an interpreter for it. One plain text file becomes an interactive course: the same document can be read as a narrative, played as slides, or worked through as a course, all in the browser. Nothing needs installing to write or to read one.
@@ -40,8 +41,3 @@ The project also publishes a **[teaching agent](https://github.com/LiaScript/tea
 ## Notes and caveats
 
 LiaScript is free, with no paid tier and no account requirement, and is developed in the open under BSD-3-Clause, so institutions can self-host and modify it. The Live Classroom feature deserves a look before you rely on it at scale, since real-time synchronisation uses a shared service rather than purely local rendering. The teaching agent is young and lightly adopted, so treat it as a working prototype rather than a supported product.
-
-## Connected Concepts
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
-

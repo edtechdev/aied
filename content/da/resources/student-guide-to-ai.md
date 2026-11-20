@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -48,11 +49,3 @@ Bachelorstuderende på alle fag og elever i ungdomsuddannelserne. Undervisere, s
 Guiden er [[formative-assessment|formativt]] indrammet og siger det selv: scorer er et øjebliksbillede af vaner, ikke en karakter, et træk eller en forudsigelse, og studerende får besked på ikke at dele dem offentligt.
 
 Indramningen af AI hviler på citeret survey- og eksperimentel evidens for, at outsourcet indsats kan efterlade studerende med mindre tilbage — hvilket er det [[cognitive-offloading|offloading]]-spørgsmål, guiden er skrevet for at modgå, ikke for at afgøre. Feltguiden i PDF ligger bag en kort formular, der spørger om navn, rolle, institution og e-mail; lærerguidemodulerne og artiklen om den pædagogiske ramme downloades direkte. Den interaktive version kører i Gemini Notebook og kræver en Google-konto. Udgiverens tal på mere end 40.000 PDF-downloads på tværs af omkring 4.000 institutioner i 180 lande og over 130 tilpassede campusudgaver er deres egne, ligesom anbefalingerne fra ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute og RTI International.
-
-## Relaterede begreper
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

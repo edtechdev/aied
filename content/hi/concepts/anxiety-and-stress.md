@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -119,57 +121,3 @@ ai_assist:
 - **"AI चिंता पूरी तरह हानिकारक है।"** यह चिंता **पूरी तरह नकारात्मक नहीं है**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] पाते हैं कि **AI चिंता उत्पादक हो सकती है**, अधिक चिंता अधिक रणनीतिक नियमन से जुड़ी है। चिंता केवल बोझ नहीं, जाँचने का संकेत भी है।
 - **"सभी चिंतित छात्र एक जैसी प्रतिक्रिया देते हैं।"** Kim के **चार नियामक प्रकार, अनालोचनात्मक निर्भरता 18.7%, चयनात्मक एकीकरण 34.6%, मूल्यांकनात्मक रूपांतरण 31.8%, रणनीतिक अस्वीकृति 14.9%**, दिखाते हैं कि चिंता-चालित जाँच **चार भिन्न** पैटर्न उत्पन्न करती है। "चिंतित छात्रों" को लक्षित करने वाला हस्तक्षेप यह चूक जाता है कि सबसे बड़ा एकल समूह चयनात्मक रूप से एकीकृत कर रहा है।
 - **"चिंता सदैव भागीदारी को दबाती है।"** उस पुनर्ढाँचे की एक **सीमा बोलने में** है: **708 अंग्रेज़ी शिक्षार्थियों** में, बोलने-चिंता और तत्परता का संबंध कम बोलने-आत्म-दक्षता पर **-0.371** पर चला लेकिन उच्च पर **+0.137**। आत्म-दक्षता उच्च होने पर चिंता तत्परता के साथ चल सकती है, इसलिए प्रभाव की दिशा आत्मविश्वास पर निर्भर करती है।
-
-## संबंधित अवधारणाएँ
-- [[career-development-and-readiness]] — एआई चिंता के विरुद्ध एक सुरक्षात्मक कारक के रूप में करियर तैयारी
-- [[well-being]] — व्यापक छत्र जिसे यह अवधारणा गहराई से विकसित करती है
-- [[remote-proctoring]] — निगरानी/झूठे-आरोप तनाव का प्राथमिक स्रोत
-- [[social-emotional-learning]] — शामिल भावनात्मक क्षमताएँ
-- [[affective-computing]] — भावनात्मक स्थिति को पढ़ने वाला एआई
-- [[affective-tutoring]] — प्रभाव का जवाब देने वाला एआई
-- [[academic-integrity]] — सत्यनिष्ठता/नकली-आरोप आयाम
-- [[privacy]] — प्रॉक्टरिंग तनाव के नीचे की निगरानी चिंता
-- [[student-experience]] — शिक्षार्थी अनुभव के भाग के रूप में चिंता
-- [[motivation]] — अपनाने और जुड़ाव पर चिंता का प्रभाव
-- [[self-regulated-learning]] — उत्पादक-चिंता संबंध
-- [[ai-literacy]] — ऐसी क्षमता का निर्माण जो आधारहीन चिंता कम करती है
-- [[equity-in-ai-education]] — कमज़ोर छात्रों पर असंगत तनाव
-- [[ethics]] — निगरानी और झूठे आरोपों की निष्पक्षता
-- [[teacher-role]] — शिक्षक-पक्षीय चिंता
-- [[assessment]] — एआई-मध्यस्थ मूल्यांकन चिंता
-- [[social-norms-ai-use]] — दृश्यता का भावनात्मक लागत
-
-## संबंधित लेख
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — योग्यता नैतिक जागरूकता बढ़ाती है, नैतिक जागरूकता एआई चिंता बढ़ाती है: 584 छात्रों में केवल अप्रत्यक्ष मध्यस्थता
-- [[ai-anxiety-strategic-regulation-writing-2026]] — उत्पादक रणनीतिक-विनियमन संकेत के रूप में एआई चिंता
-- [[aivaluate-anxiety-assessment-2026]] — एआई-मध्यस्थ प्रदर्शन-आधारित मूल्यांकन में छात्र चिंता
-- [[ai-campus-wellbeing-tools]] — कैंपस कल्याण के लिए एआई-प्रेरित उपकरण
-- [[affective-text-wearable-student-health]] — छात्र स्वास्थ्य के लिए भावनात्मक पाठ + पहनने योग्य संवेदन
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — स्वचालित प्रॉक्टरिंग, परीक्षा-दाता चिंता, झूठे आरोप
-- [[automated-online-exam-proctoring-decade-review-2026]] — स्वचालित परीक्षा प्रॉक्टरिंग की दशक-लंबी समीक्षा
-- [[moral-panic-genai-classroom]] — जनरेटिव एआई को लेकर संकाय चिंता और नैतिक घबराहट
-- [[acceptance-ai-english-tools-2026]] — एआई उपकरण स्वीकृति को आकार देने वाली चिंता
-- [[teacher-education-ai-literacy-sdt-2026]] — शिक्षक शिक्षा, एआई साक्षरता और चिंता
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — चिंता, विश्वास, आत्मविश्वास के साथ इंटरट्वाइन एआई उपयोग
-- [[qu-wang-disclose-or-not-genai-2026]] — छात्र तनाव के स्रोत के रूप में खुलासे की दुविधा
-- [[kim-ai-anxiety-comprehensive-analysis]] — एआई चिंता और हस्तक्षेपों का व्यापक विश्लेषण
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — करियर अनुकूलन-क्षमताएँ एआई चिंता कम करती हैं
-- [[duan-ai-anxiety-career-decisions-college-2026]] — एआई चिंता करियर अनुकूलनशीलता के माध्यम से करियर निर्णयों को प्रभावित करती है
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — एआई चिंता और अभिवृत्तियाँ नौकरी-खोज चिंता की भविष्यवाणी करती हैं
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — स्वास्थ्य विज्ञान में एआई चिंता नौकरी-खोज चिंता की भविष्यवाणी करती है
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — विश्वविद्यालय शिक्षकों के अनुभव और धारणाएँ: भेद्यता, मूल्यांकन पर पुनर्विचार, खतरे में छात्र अध्ययन (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP और मशीन लर्निंग का उपयोग करते हुए पाकिस्तानी विश्वविद्यालय छात्रों में तनाव पहचान और कल्याण सहयोग के लिए एक एआई-संचालित सांस्कृतिक रूप से जागरूक चैटबॉट
-- [[school-support-ai-learning-anxiety-control-value-2026]] — अनुभूत विद्यालय सहयोग मुख्य रूप से नियंत्रण-मूल्य मूल्यांकनों के माध्यम से एआई अध्ययन चिंता कम करता है (69.5% मध्यस्थ); ANN क्रॉस-वैलिडेशन (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI Guilt Complex: शैक्षणिक कर्मचारियों में पश्चाताप-उपयोग से अधिक पूर्वानुमानित अपराध-बोध (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon 1,057 अमेरिकी संकाय का सर्वेक्षण: अति-निर्भरता, सत्यनिष्ठा चिंता और घटी हुई संकाय भूमिका के पूर्वानुमान (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — डर से जिज्ञासा तक: एक छह-सप्ताह की संकाय संस्था जो प्रशिक्षकों को पहचान के खतरे से गुजारती है (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — एआई-मध्यस्थ कार्य में भावनात्मक श्रम के रूप में शैक्षणिक डेवलपरों के इम्पोस्टर अनुभव और नैतिक असहजता
-- [[parlant-emotional-micro-interventions-2026]] — संज्ञानात्मक मूल्यांकन सिद्धांत पर आधारित प्रशिक्षक-पक्ष के वास्तविक-समय भावनात्मक सूक्ष्म-हस्तक्षेप
-
-- [[ai-employment-threat-career-anxiety-2026]] — एआई रोज़गार खतरा और करियर निर्णय चिंता: अनुभूत रोज़गार-योग्यता मध्यस्थता करती है और वृद्धि मानसिकता नियंत्रित करती है
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — एआई उपयोग-दबाव एआई दक्षता और प्रथम-वर्ष अनुकूलन के संबंध को कमज़ोर करता है
-- [[ai-attitude-latent-profiles-career-development-2026]] — एक ऐसी प्रोफ़ाइल जो एआई चिंता और अनुभूत एआई गुणवत्ता दोनों पर उच्च है, एक या दूसरे पर नहीं
-- [[ai-speaking-practice-communicative-readiness-2026]] — बोलने की चिंता का संवाद-इच्छा से संबंध उच्च बोलने आत्म-प्रभावकारिता पर उलट जाता है
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — अनुभूत एआई सहायक बुद्धिमत्ता अध्ययन-लक्ष्य प्रगति के माध्यम से शैक्षणिक चिंता कम करती है (चिकित्सा छात्र)
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — परीक्षक-जैसे एजेंट ने मापी गई बोलने की क्षमता और चिंता दोनों एक साथ बढ़ाए

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -44,8 +45,3 @@ Profesorado y equipos de curso que quieren materiales generados que todavía pue
 ## Notas
 
 Tiene licencia MIT, con una guía de usuario en inglés y chino y una comunidad activa en Discord y Feishu. Es neutral respecto al modelo: usted aporta al menos una clave de proveedor de LLM, y los componentes locales opcionales (Lemonade para modelos locales, FunASR para reconocimiento de voz) permiten ejecutar sin conexión una mayor parte de la pila, de modo que «gratis» describe el software, no la factura de inferencia. El artículo que lo respalda apareció en el *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), y el repositorio tenía más de 38.000 estrellas en septiembre de 2026.
-
-## Conceptos conectados
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

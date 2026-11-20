@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
+connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -136,35 +138,3 @@ ai_assist:
 - **「演習の得点が高いことは、より多くの学習を意味する。」** CS1の演習ではChatGPT利用者が71.84%、他方が29.85%であったが、概念的な伸びは両群で統計的に同一であった。
 - **「検出器は誠実性の事案を確定できる。」** 7つの検出器は非英語母語話者のエッセイで平均61.22%の偽陽性を出し、97%が少なくとも1つにフラグ付けされた。
 - **「日常的に使っているのだから[[ai-literacy|AIリテラシー]]は前提にできる。」** 自己報告の利用は中等教育の毎年で上昇したが、信頼性の判断は横ばいであった。研究課題での慎重さは4年次になって初めて現れた。
-
-## 関連する概念
-
-- [[scaffolding]] — ヒント優先のチューターと答えを出すエンジンの対比
-- [[help-seeking]] — 具体的な質問をすることは、インターフェースが教えられる技能である
-- [[feedback-literacy]] — コメントを学生がどう扱うかが、それが作品を変えるかを決める
-- [[self-regulated-learning]] — ツールなしでの計画、監視、評価
-- [[desirable-difficulties]] — 無制限のアシスタントが取り除いてしまう苦労
-- [[process-oriented-assessment]] — 成果物ではなく痕跡を採点する
-- [[self-report-measures]] — 調査が捉えるもの、そしてそれが学習成果ではない理由
-- [[ai-detection]] — 分類器の出力が所見ではなくレビューのための証拠である理由
-- [[learning-analytics]] — アウトリーチの早期シグナルとしてのLMS痕跡
-- [[student-support-and-success]] — アドバイジング、アウトリーチ、そしてナッジングの限界
-- [[equity-in-ai-education]] — 公開前に教材が確認されるときに誰が利益を得るか
-- [[writing-education]] — エッセイ中心の科目における評価の契約
-- [[stem-education]] — 物理学、コンピューティング、工学のゲートウェイ系列
-
-## 関連する記事
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 132人のPython学習者を対象とした2×2試行で、完全な文脈を持つソクラテス式アシスタントが最も支援的でないと評価された
-- [[genai-use-changing-institutional-policy-physics-2026]] — 学生がどのGenAI機能を使ったかを決めたのはポリシーの階層ではなく課題設計であった
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — 学部生130人。ChatGPTなしで書かれたノートはより多様で統合的であった
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 伸びを担ったのはアクセスではなくプロンプトの構造であった。5要素の足場かけが評価された質を3.32から4.60へ上げた
-- [[llm-math-homework-offloading-traces-2026]] — 1年次生23人。59件の提出のうち53件がモデルの生成物を再現するか、形式だけを修正したものであった
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31件の研究と1,585人の学生。教育者と学生の関心が分かれるのは誠実性である
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 3波にわたる342人の学生。個人内の変動において、依存はその後のエージェンシーの低さを予測した
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123件の研究。エージェンシーを支えるパターンと侵食するパターンが併存する
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 1年次生551人が高い支持を報告すると同時に、高い自己報告の負荷も報告した
-- [[thulin-chatbot-mental-health-students-2026]] — 15.4%がメンタルヘルスの理由でチャットボットを使った経験があり、利用はケアへの障壁と連動していた
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 回答者1,477人。自己評価の学習と3行動のエンゲージメント指標の相関は0.052であった
-- [[kumar-chatgpt-academic-assignments-2025]] — 学生304人。デジタルリテラシーは自己報告の遂行をβ = 0.393で予測し、倫理的意識はβ = −0.006であった
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 学部生は倫理尺度で平均3.527、大学院生は4.627であり、学部生の広がりははるかに大きかった

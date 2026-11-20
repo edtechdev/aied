@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -48,7 +49,3 @@ ai_assist:
 ## Σημειώσεις και επιφυλάξεις
 
 Η ανάγνωση δεν απαιτεί λογαριασμό, και τα μαθήματα Canvas και οι λίστες ελέγχου στους οποίους παραπέμπει είναι δημόσια. Οι καθοδηγητές Playlab και τα Gems και σημειωματάρια του Gemini είναι υπηρεσίες τρίτων που χρειάζονται έναν. Οι κάρτες αποδίδονται από το `apps.json`, οπότε η πλήρης λίστα απαιτεί JavaScript και η εναλλακτική χωρίς σενάρια ονομάζει οκτώ από τις δεκαπέντε· ο σύντομος σύνδεσμος `tinyurl.com/fpdapps` και ένας κωδικός QR στην κεφαλίδα την ανοίγουν σε τηλέφωνο. Το αποθετήριο είναι λογισμικό με άδεια MIT, ενώ οι οδηγοί στους οποίους παραπέμπει φέρουν τις δικές τους άδειες, μεταξύ τους το βιβλίο Pressbooks υπό μη εμπορική άδεια Creative Commons. Δεν υπάρχει πρόγραμμα δημοσίευσης, οπότε η σελίδα αλλάζει χωρίς προειδοποίηση.
-
-## Συνδεδεμένες έννοιες
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

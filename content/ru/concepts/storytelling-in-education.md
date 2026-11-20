@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -50,7 +52,6 @@ ai_assist:
 
 - **Сгенерированное повествование легко создать и трудно удержать связным.** С 22 студентами STEM интерактивная фантастика, сгенерированная ИИ, получила хорошие оценки по ясности повествования (M = 4,11) и длине (M = 4,14), но вовлечённость осталась на нейтральной середине (M = 3,08), а согласованность содержания истории оказалась самой слабой (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). Со-создание наследует эту слабость на том слое, где история и должна делать свою работу.
 
-
 Сторителлинг связан с [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] и [[educational-robotics]].
 
 ## Распространённые заблуждения
@@ -62,23 +63,3 @@ ai_assist:
 **«Генерация ИИ делает сторителлинг доступным для учащихся, которые не могли писать».** Она делает доступным *создание письменного артефакта*, а это другая выгода. Устное повествование, рисование и диктовка — устоявшиеся пути к той же цели, и они сохраняют авторство, которое генерация отнимает.
 
 **«Образовательная ценность истории — в отполированном результате».** Она в построении — в отборе и упорядочении, которые выполняет рассказчик. Отполированная история, которую учащийся не структурировал, продемонстрировала компетентность модели, а не учащегося.
-
-## Связанные концепции
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Связанные статьи
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-
-- [[ai-generated-interactive-fiction-education-2026]] — Интерактивная фантастика, сгенерированная ИИ: связность как слабое измерение в пилоте с 22 студентами
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -116,39 +118,3 @@ ai_assist:
 
 - সব সময় সহায়তাহীন পরিমাপ রিপোর্ট করুন, এবং তার বদলে নয়, তার পাশে ধারণ-উপলব্ধিও রিপোর্ট করুন।
 - ক্ষতি আরোপ করার সময় ব্যবহার-কম্পাঙ্ক নয়, কাজের প্রতিস্থাপন-কাঠামো রিপোর্ট করুন।
-
-## সংযুক্ত ধারণা
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## সংযুক্ত নিবন্ধ
-
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — সুইডিশ সমীক্ষা ও ফোকাস-গ্রুপ গবেষণা, যুক্তি দেয় প্রতারণার ফ্রেম নয়, অংশীদারত্ব-নীতিশাস্ত্রই প্রাতিষ্ঠানিক জেনএআই সিদ্ধান্ত পরিচালনা করা উচিত
-- [[rho-disengaged-conversational-behaviors-2026]] — শিক্ষার্থী-এআই সংলাপে বিচ্ছিন্ন কথোপকথনগত আচরণ ও শিখন (Rho ও অন্যান্য 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — গার্ডরেল ছাড়া জেনএআই শিখনের ক্ষতি করতে পারে
-- [[genai-performance-vs-learning]] — কর্মদক্ষতার লাভকে শিখন থেকে আলাদা করা
-- [[ai-availability-student-motivation]] — এআই-এর প্রাপ্যতা ও শিক্ষার্থীর প্রেরণা
-- [[genai-skill-bypass-literacy]] — জেনএআই দক্ষতা-পাশ কাটানো ও সাক্ষরতা
-- [[cognitive-shift-ai-education]] — এআই শিক্ষায় সংজ্ঞানাত্মক পরিবর্তন
-- [[misiejuk-cognitive-offloading-prompting-2026]] — শিক্ষার্থী–এআই সহযোগিতায় সংজ্ঞানাত্মক অফলোডিং
-- [[cognitive-commons-ai-expertise-regeneration]] — সংজ্ঞানাত্মক কমন্সের ট্র্যাজেডি: এআই ও দক্ষতার পুনরুৎপাদন
-- [[lodge-loble-cognitive-offloading-2026]] — এআই, সংজ্ঞানাত্মক অফলোডিং ও শিক্ষার জন্য তাৎপর্য (Lodge ও Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — এআই অতিরিক্ত নির্ভরতা একটি জটিল অভিযোজিত ব্যবস্থা হিসেবে মডেল করা
-- [[academic-erasure-complexity-ai-writing-2026]] — শিক্ষাগত মুছে ফেলা: এআই-সমর্থিত লেখায় জটিলতার অন্তর্ধান
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — এআই-নির্ভরতা স্ব-কার্যকারিতা ও শিক্ষক-সহায়তা থেকে শিখন-ক্লান্তির পথ সম্পূর্ণরূপে মধ্যস্থতা করে (Huang ও অন্যান্য 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — প্রাথমিক নির্ভরতা নেতিবাচক প্রভাবের পূর্বাভাস দেয় আর সংজ্ঞানাত্মক নির্ভরতা ইতিবাচক প্রভাবের, এবং মূল্যায়ন-সাক্ষরতা এআই-কে আগে জিজ্ঞাসার ক্ষতিকে দুর্বল করে না, বরং বাড়ায় (Manikonda ও অন্যান্য 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — এভাবেই আমরা এআই করি: কৃত্রিম বুদ্ধিমত্তা দিয়ে শিক্ষাদানের একটি ব্যবহারিক পদ্ধতি

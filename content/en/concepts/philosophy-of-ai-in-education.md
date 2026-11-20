@@ -8,6 +8,8 @@ pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 > **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency|agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) [[learning-theories|learning theories]], which catalogs theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
@@ -80,34 +82,3 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 **"Non-Western philosophy is content to add to an unchanged frame."** It can be a source of different foundations. One reconstruction treats Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" appended to a Western framework but as resources that reshape the conceptual foundations through which AI in education is understood. Adding a tradition as illustration and using it to reframe the questions are different scholarly acts.
 
 **"Philosophical critique is unactionable."** It sets what counts as success. Whether a system's output is a learner's achievement, and whether a measured gain is an educational good, are prior questions that no effect size can answer — and institutions that skip them will optimize the measurable and call it improvement.
-
-## Connected Concepts
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-
-## Connected Articles
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework for human–AI cognition
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — Embodied, post-cognitivist critique of disembodied AI in education
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model of interpretive cognition in the humanities
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
-- [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — how agency language across 366 abstracts names AI but assigns it no responsibility (Poudyal 2026)
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Human-centered' AIED read as an anthropocentric discourse with commercial uses (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care

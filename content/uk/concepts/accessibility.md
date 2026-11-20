@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -84,41 +86,3 @@ ai_assist:
 - **«Доступність означає пристосування».** Огляд **40 досліджень** цифрових асистивних технологій для нейровідмінних студентів виявив, що **28 ставили формальний діагноз умовою участі**. Це модель, замкнена на діагноз, і вона виключає кожного здобувача, який має потреби, але не має ярлика — протилежність універсальному дизайну.
 - **«Середні ефекти закривають питання».** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] метааналізують **29 досліджень** і знаходять середній позитивний ефект, що є реальним і водночас нічого не каже про те, який інструмент для якої потреби. Середнє за гетерогенними втручаннями не є рекомендацією.
 - **«Швидкість і негайність — це зручності».** У якісному кейс-дослідженні **21 слабозорого студента бакалаврату** з трьох палестинських університетів здобувачі описували негайність як **фундаментальну вимогу доступності, а не зручність**. Те, що ззовні виглядає приємним дріб’язком, є передумовою участі.
-
-## Пов’язані поняття
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — ширший засніт для проєктування освіти на всій варіативності здобувачів
-- [[special-education]] — навчальний домен для здобувачів із діагностованою інвалідністю
-- [[universal-design-for-learning]] — проактивна рамка проєктування
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — гарнітури, морська хвороба від руху та доступ до пристроїв визначають, хто може його використовувати
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — сторінка-засніт для надмірно ширі правил, дефектних доказів і розумної адаптації
-- [[arts-and-media-education]]
-
-## Пов’язані статті
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% зі 100 елітних університетів публікують політику доступності ШІ, тоді як 93% розгортають кампусні сервіси ШІ
-- [[shin-ai-policies-sld-2026]] — Політики ШІ та адаптації для студентів із специфічними навчальними труднощами
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Метааналіз інтервенцій ШІ для студентів з інвалідністю
-- [[adhd-video-segmentation-computing-education]] — Відео з сегментацією ШІ з фіксованими паузами
-- [[text-simplification-its]] — Спрощення тексту на основі LLM для інтелектуального тьюторінгу
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Генерація питань на основі LLM для глухих/слабочуючих здобувачів
-- [[kutti-ai-voice-first-learning-companion]] — Компаньйон, орієнтований на голос, для дітей з порушеннями зору
-- [[tactile-statistical-graphs-accessibility]] — Тактильні 3D-надруковані статистичні графіки
-- [[pepper-robot-sign-language-lis-2025]] — Робот Pepper, що підтримує жестову мову
-- [[genai-minoritized-knowledges-disability]] — Критична перспектива на ШІ та зцентровані на інвалідності знання
-- [[gemini-lualatex-physics-video-transcription-2026]] — Математично доступна розшифровка відео з фізики за допомогою Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Асистивний GenAI для здобувачів з порушеннями зору
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Генеративний ШІ, віртуальна реальність та інше: розгорнутий огляд цифрових асистивних технологій для нейровідмінних студентів у вищій освіті
-- [[wright-transcription-not-generation-2026]] — Розпізнавання не є генерацією: надмірно ширі заборони щодо ШІ та асистивні інструменти, які вони охоплюють
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: бенчмарк аудіоопису університетських лекцій за стандартами доступності, метриками та уподобаннями студентів (Psychias & Gao 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: щодо інтерфейсу читання, зручного для людей, стійкого для машин (Salaun et al. 2026)

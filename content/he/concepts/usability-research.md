@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -73,26 +75,3 @@ ai_assist:
 **"סטודנטים שנטשו כלי היו חסרי מוטיבציה."** נטישה היא לעתים קרובות הקריאה הנכונה של המשתמש בעלות-אינטראקציה שהמעצב מעולם לא מדד. כיוון שכלי שאיש אינו משתמש בו אינו יכול להשפיע, שיעור הנטישה הוא תוצאה חינוכית בפני עצמה.
 
 **"בדיקת שמישות היא אותו דבר כמו מדידת למידה."** הן עונות על שאלות שונות ואף אחת מהן אינה מחליפה את האחרת; מצב הכשל הוא התייחסות לאחת מהן כמספיקה לאימוץ.
-
-## מושגים מקושרים
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## מאמרים מקושרים
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — מחקר שמישות של הומנואיד מספק-סיפורים מונע-LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: שמישות של אפליקציית AI יוצרת
-- [[supplynet-visual-exploratory-learning]] — מחקר משתמש SupplyNet
-- [[anvil-ai-educational-animations]] — שמישות של אנימציות חינוכיות שנוצרו על ידי AI
-- [[code-anchor-multi-view-visualization]] — מחקר חשיבה-בקול של ויזואליזציות קוד מרובות-תצוגות
-- [[learn-framework-responsible-genai-pbl-2026]] — מסגרת LEARN והערכת חשיבה-בקול
-- [[feedback-futures-genai]] — כיצד לומדים מעבדים משוב שנוצר על ידי AI
-- [[llm-chatbots-cs-multiple-choice]] — צ'אטבוטים LLM לשאלות אמריקאיות במדעי המחשב
-- [[conversational-ai-agents-umbrella-review-2026]] — סקירת מטרייה של סוכני AI שיחתיים

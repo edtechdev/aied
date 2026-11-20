@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -102,46 +104,3 @@ AI की अंग्रेज़ी प्रधानता इस प्र�
 - **"भाषा शिक्षक या तो उत्साह से अपनाते हैं या बिल्कुल नहीं।"** [[li-language-educators-genai-review-2026|23 अध्ययनों की व्यवस्थित समीक्षा]] (Li एट अल.) **सतर्क, तैयारी-प्रथम ग्रहण** को ढर्रा पाती है। शिक्षक विचारपूर्वक सतर्क थे, उत्साही और इनकारकर्ताओं में विभाजित नहीं।
 - **"समग्र प्रभाव प्रयास को उचित ठहराता है।"** **33 TEFL अध्ययनों** के मेटा-विश्लेषण ने **छोटा-से-मध्यम समग्र प्रभाव (g = 0.38, ट्रिम-एंड-फिल द्वारा घटकर 0.28)** पाया जो **शैक्षणिक स्तर के साथ बढ़ा**। सुधार के बाद प्रभाव मामूली है और उच्च स्तरों पर केंद्रित है, इसलिए शुरुआती शिक्षार्थियों के लिए दावा संयुक्त आंकड़े से समर्थित नहीं है।
 - **"AI का कोई भी उपयोग भाषा अधिगम के लिए समान रूप से उत्पादक है।"** वही कार्य **प्रौद्योगिकी को उत्पादन की ओर भारित करने** का पक्ष देता है, लेखन और बोलना, उपभोग के बजाय। प्रभाव का निर्धारण AI की उपस्थिति से अधिक माध्यम ने किया।
-
-## संबंधित अवधारणाएँ
-
-- [[language-learning]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## संबंधित लेख
-
-- [[alharbi-ethical-genai-eap-2026]] — उच्च शिक्षा में EAP में नैतिक जनरेटिव AI एकीकरण
-- [[feedback-literacy-scripts-eap-writing]] — GenAI EAP लेखन संशोधन में प्रतिपुष्टि साक्षरता स्क्रिप्ट और द्वितीय-मूल्यांकक तंत्र
-- [[genai-differentiated-eap-reading-materials-2026]] — एकीकृत से विभेदित सामग्री तक: EAP पठन सामग्री के अनुकूलन में GenAI सहायता
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: शिक्षणशास्त्रीय रूप से अनुकूली अंग्रेज़ी शिक्षण के लिए वर्गीकरण-संरेखित पश्च-प्रशिक्षण
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ई-पोर्टफोलियो मूल्यांकन के साथ ChatGPT को EFL अधिगम मॉडल के रूप में संरेखित करना
-- [[irwin-muller-efl-peer-feedback-literacy]] — EFL सहपाठी प्रतिपुष्टि में जनरेटिव AI की स्थिति-निर्धारण
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL संदर्भ में AI-उत्पन्न बनाम मानव-निर्मित मूल्यांकन कार्य
-- [[acceptance-ai-english-tools-2026]] — उच्च शिक्षा में AI-सहायित अंग्रेज़ी भाषा अधिगम उपकरणों की स्वीकृति
-- [[ai-tools-arab-english-classrooms]] — अरब विश्वविद्यालय अंग्रेज़ी कक्षाओं में AI उपकरण
-- [[self-referential-l2-writing-llm-assessment]] — स्व-संदर्भित विश्लेषणात्मक मूल्यांकन की ओर: LLMs के साथ L2 लेखन मूल्यांकन के लिए एक प्रोफ़ाइल-आधारित दृष्टिकोण
-- [[ai-interlocutor-l2-spoken-dialogue]] — जब संवाददाता एक AI हो तो क्या बदलता है? L2 बोला गया संवाद
-- [[genai-linguistic-diversity-academic-writing]] — शैक्षणिक लेखन और प्रकाशन में जनरेटिव AI और भाषाई विविधता
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — अनदेखे का शासन: भाषा शिक्षकों में AI साक्षरता
-- [[structural-silence-underrepresented-language-ai-2026]] — संरचनात्मक मौन: AI अधसंरचना में कम प्रतिनिधित्व वाली भाषाएँ
-- [[liu-emerging-tech-tefl-review-2026]] — TEFL के लिए उभरती प्रौद्योगिकियाँ
-
-- [[bird-multimodal-educational-literature-2026]] — शैक्षणिक साहित्य के वर्गीकरण के लिए मल्टीमॉडल संलयन
-- [[li-language-educators-genai-review-2026]] — GenAI के साथ भाषा शिक्षकों के अभ्यास और विकास
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — EFL तर्कसंगत निबंधों के सहपाठी और AI संशोधन संवादी स्थिति-निर्धारण में भिन्न होते हैं (Zhao & Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — AI पर अत्यधिक निर्भरता (54 अध्ययनों में से 50%) और घटती आलोचनात्मक सोच रिपोर्ट की गई सीमाओं में अग्रणी

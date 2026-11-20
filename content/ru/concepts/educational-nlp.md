@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -76,39 +78,3 @@ ai_assist:
 - **«Семантическое сходство может отбирать материал под учебную программу».** При отборе **3 837 пар «цель стоматологического образования — абстракт»** поиск по эмбеддингам плюс проверка логического вывода на естественном языке **признал 22,9% пар** согласованными — семантическое сходство является **слабым сигналом** согласованности. Беглая тематическая близость и подлинное совпадение с учебной целью — разные отношения.
 - **«Классификация на уровне высказываний — естественная единица».** **Моделирование целого урока превосходит классификацию на уровне высказываний**: оценивание полных транскриптов вместо изолированных высказываний **повысило обнаружение цепочек рассуждений на 14,2 процентных пункта**. Контекст урока несёт информацию, которую уничтожает любой отдельный ход.
 - **«Масштабирование NLP на комментариях оценивания даёт эффект».** Scoping-обзор PRISMA-ScR и карта доказательств по **421 исследованию** (2015–2026), применяющему NLP к открытым студенческим оценкам преподавания, обнаружили масштабирование **без достижения применения**. Объём методической продукции — не внедрение, и разрыв приходится на этап развёртывания, а не на моделирование.
-
-## Связанные концепции
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Зонтичная концепция: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
-
-## Связанные статьи
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Кластеры эмбеддингов, организующие материал по формулировке, а не по физике
-- [[lee-learner-question-types-ai-education-2026]] — Классификация трансформерами вопросов учащихся по конструктивистским ролям (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Автоматическая классификация дискурсивных отношений с помощью BERT для преподавания английского языка
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Набор данных StudyChat диалогов студентов с LLM в курсе по ИИ
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Нейро-символическое педагогическое согласование (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP и рациональности LLM для основанного на рубриках оценивания качества преподавания
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистилляция самообъясняющей LM для аналитики обучения
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Мультиагентная LLM (GradeOpt) кодирует знание содержания и педагогического знание содержания преподавателей; классические энкодеры и наивный промптинг отстают по PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оценка предобученных моделей для педагогической оценки новых учебных вопросов, созданных с помощью ИИ
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

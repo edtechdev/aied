@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -46,7 +47,3 @@ ai_assist:
 ## 注記と注意点
 
 すべてのページの信頼パネルを読んでください。wiki は 1 人の人間の管理者の下で言語モデルが維持しており、どのページも人による確認を受けておらず、サイト自身がページを知見ではなく出典のしっかりした手がかりと表示しています。主張には設計の階層、効果量のコード、厳密さのコードが付き、「効果量の記載なし」は出典が報告しなかったという意味であって、効果量が存在しないという意味ではありません。コンテンツは CC BY-SA 4.0 なので、再利用には同じライセンスを伴う必要があり、コードは MIT です。
-
-## 関連する概念
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,7 +50,6 @@ ai_assist:
 **GenAI 시대를 위한 교훈.** 오늘날 생성형 AI에 관한 논쟁은 이 역사적 긴장을 밀접히 반영합니다. GenAI는 흔히 차세대 지능형 튜터(Anderson의 연장선)로 위치지어지며, 감시, 자료 수집, 표준화에 관한 우려를 불러일으킵니다. 다른 한편으로 그것은 창의적 자율성의 도구(Papert의 연장선)가 될 수도 있으며, 이를 위해서는 평가를 다시 생각하고 더 모호한 결과를 받아들여야 합니다. [[mishra-control-vs-agency-history-2025|Mishra 등]]의 결론대로, 제도적 힘은 기존 구조를 강화하는 접근을 반복적으로 우대하며, 우리가 선택하는 언어와 은유가 미래의 가능성을 형성할 것입니다. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi의 AI×Ed 틀]]은 이 직관에 경험적 토대를 제공합니다. 즉 AIED 학술대회 논문들(1985, 1993, 2021, 2024)과 IJAIED(2004, 2014, 2021)의 논문을 두 축 — AI의 역할(응용 도구 대 인간 지능에의 비유)과 최종 사용자 — 을 따라 위치시켜, 이 분야가 인간 지능에의 비유로서 AI를 상당 부분 사용한 초기 연구(학습의 계산적 모형, Papert의 마이크로월드, 지식 습득의 에이전트 기반 모형)를 포함한 다양한 혼합에서 2000년대에 이르러 응용적·수단적 사용에 거의 독점적으로 집중하는 방향으로 움직였음을 추적합니다. 특히 생성형 AI 시대는 그 궤적을 부분적으로 되돌리는 듯합니다. 즉 AIED 2024에서 이 분야의 "AI-as-analogy" 사분면에 있는 네 편의 논문 가운데 세 편이 LLM 기반이었고, LLM 기반 [[learning-by-teaching|가르칠 수 있는 에이전트]]에 관한 최우수 논문 작업이 여기에 포함됩니다.
 
 **저널 기록은 두 번 방향을 바꿉니다.** *Computers & Education* 논문 5,387편(1976–2026)에 대한 구조적 주제 모형은 390건(7.2%)에서 AI를 발견했으며, 이는 18개 주제 가운데 17개에 걸쳐 있었습니다. 한 논문이 AI 관련일 연간 승산은 1989년까지 매년 21.8% 상승했고, 2018년까지 매년 3.7% 하락했으며, 그다음 2025년까지 매년 40.1% 상승했습니다([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). 2018년의 전환은 ChatGPT보다 4년 앞서므로, 생성형 시대는 이미 진행 중이던 추세를 가속했을 뿐 시작한 것은 아닙니다.
-
 
 ## 생성형 AI의 최근 영향
 
@@ -98,29 +99,3 @@ ai_assist:
 **"개인화란 학습자마다 난이도를 조정하는 것이다."** 그것은 서로 양립할 수 없는 두 가지 의미 가운데 하나일 뿐이며, 둘을 혼동하면 정치적 선택을 가립니다. 첫 번째 의미에서는 결과를 고정한 채 경로만 달라지며, 그 계보는 Skinner의 교수 기계에서 숙달 기반 튜터링으로 이어집니다. 두 번째 의미에서는 결과 자체가 다양해지며, 학습자는 표준 교육과정의 경계에 매이지 않고 개별 관심과 재능을 좇습니다(Zhao, 2024). [[intelligent-tutoring|지능형 튜터링 시스템]]은 전자를, [[constructivist|구성주의]]는 후자를 구현합니다. "개인화"라는 설명만으로는 어느 쪽을 뜻하는지 알기 전까지 아무것도 알려 주지 못합니다.
 
 **"'인공지능'은 그 분야에 그저 당연한 이름이었다."** 그 용어는 의도적인 선택이었습니다. McCarthy가 1956년 다트머스 프로젝트를 기획했을 때 그는 *인공지능*을 *사이버네틱스*보다 선호했고, 그 이유의 일부는 그 작업을 Wiener의 아날로그 피드백 전통에서 떼어 놓는 것이었습니다. 그 한 번의 결정이 기계를 인간 인지와 직접 비교하는 틀에 놓았고, 그렇게 설치된 의인화적 틀은 오늘날까지 연구 우선순위와 제품 언어, 그리고 대중이 던지는 윤리적 질문을 형성하고 있습니다.
-
-## 연결된 개념
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## 연결된 문서
-
-- [[mishra-control-vs-agency-history-2025]] — 교육에서의 AI의 역사 탐구: 통제 대 자율성
-- [[prezenski-human-centered-ai-aided-learning]] — 인간 중심의 AI 지원 학습(Anderson의 유산과 맞섬)
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지와 AI 전문성(역사적 틀짓기)
-- [[programming-its]] — 지능형 튜터링 시스템 프로그래밍
-- [[lak2026-hint-button-unproductive-use]] — 인지 튜터의 힌트 버튼 재검토
-- [[socrates-students-instructors-llms-lbt-2025]] — LLM을 통한 가르치기 학습(Papert의 구성주의 계보)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Computers & Education 50년의 주제들: AI 비중은 ChatGPT 4년 전인 2018년 이후 상승으로 돌아섰습니다

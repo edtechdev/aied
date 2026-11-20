@@ -13,6 +13,8 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 > **Learning sciences** — the interdisciplinary research field that studies how people learn and how to design environments in which learning happens, drawing on [[cognitive-psychology|cognitive psychology]], [[learning-theories|learning theory]], [[cs-education|computer science]] and linguistics, and judging its designs with empirical evidence rather than theory alone. It is the research field around [[ai-education|AI in education]] rather than one of the school subjects. It supplies the mechanisms that AI systems operationalize (knowledge components, [[mastery-learning|mastery thresholds]], [[transfer-of-learning|transfer]]), the design objects they are embedded in ([[learning-design|planned course sequences]], [[intelligent-tutoring|tutors]], [[feedback|feedback]] regimes) and the standards by which they are judged ([[learning-gains|learning gains]], [[assessment-validity|assessment validity]], [[equity-in-ai-education|equity]]). Its organizing question is not whether a tool performs well but whether a learner changed.
@@ -94,48 +96,3 @@ The findings only matter once they reach teaching, and that journey runs through
 - **"More examples are safer."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] treat the example-problem ratio as a **content-treatment interaction**, and in a 2×2 experiment the optimum **depended on the content**. There is no globally correct ratio, so a fixed instructional template is a bet against an interaction.
 - **"Fixing the [[misconceptions|misconception]] is a matter of telling students the right answer."** Short do-not-act practice with [[feedback|feedback]] naming the missing constraint cut misapplication to **0.0%-23.1% (Cohen's h 1.70-2.44)**, and a secondary analysis of **thirteen K-12 *Decimal Point* datasets** found the same structural pattern. The effective intervention was discriminating practice with targeted feedback, not correction by assertion — which is what [[refutation-text|refutation]] work establishes generally.
 - **"Higher Bloom level means more [[active-learning|active learning]]."** Acquisition dominated the lower levels — **about 50% of activities at Bloom level 1** — and shrank to **around 20% by level 6**. Cognitive demand and activity type move together but are not the same axis, so tagging a task by Bloom level does not tell you what learners will do with it.
-
-## Connected Concepts
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert preregistered Delphi on which learning processes GenAI enhances and which it threatens
-- [[three-pathways-student-ai-interaction-2026]] — A typology of student-AI interaction: 64% passive or transactional, 36% strategic dialogue
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Feedback style, not agent type, moved self-regulatory engagement
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Process evidence is channel-conditional
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — The distribution of GenAI use is an institutional choice
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Within-person reliance precedes a drop in perceived agency
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Lag sequential analysis plus process mining placed the AI at a group-interaction hub or on a linear path depending on preconception composition (Wang et al. 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -72,34 +74,3 @@ AI generatif telah menjadikan pengetahuan awal pertimbangan desain yang sentral 
 **"Siswa dengan pengetahuan awal lebih sedikit membutuhkan lebih banyak dukungan AI."** Itu arah yang paling mungkin melebarkan kesenjangan, karena pola pengalihdayaan yang terukur memusatkan kehilangan kepengarangan di tempat pengetahuan awal paling tipis. Dukungan yang menyediakan pekerjaan kepada pembelajar yang paling kurang diperlengkapi untuk mendeteksi substitusi menghapus aktivitas yang akan membangun pengetahuan yang hilang.
 
 **"Pengetahuan awal adalah masukan tetap yang tidak dapat digerakkan mata kuliah."** Ia adalah faktor dengan bobot terbesar dalam pembelajaran baru, yang menjadikan pembangunannya tugas dengan daya ungkit tertinggi alih-alih kondisi latar — sebabnya pengetahuan domain adalah intervensi itu sendiri, bukan sekadar kovariat.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Kegagalan Produktif
-- [[retrieval-spacing-interleaving]] — bagaimana apa yang sudah diketahui pembelajar menentukan apa yang dapat dilakukan latihan pengambilan kembali
-
-## Artikel terkait
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Ketegangan antara otomasi dan pembelajaran (risiko aktivasi pengetahuan awal)
-- [[genai-mindtool-generative-learning]] — GenAI sebagai mindtool: menyiapkan dan mengaktifkan pengetahuan awal
-- [[nie-personavlm-long-term-personalization-2026]] — Pemodelan siswa dan memori dengan LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble tentang pengalihdayaan kognitif
-- [[cognitive-offloading-llm-synthesis-writing]] — Pengalihdayaan kognitif dalam penulisan sintesis dengan LLM
-- [[bridging-instructional-design-framework-math]] — Kerangka desain instruksional untuk matematika
-- [[knowledge-building-tutor-learning-2026]] — pembangunan pengetahuan alih-alih pengetahuan awal memprediksi pembelajaran tutor, dan tutor berpengetahuan awal rendah yang membangun pengetahuan menyusul
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Pengetahuan awal membawa pascates (η²p = .63) sementara pemilihan tugas adaptif tidak membawa apa pun (Sibley et al. 2026)

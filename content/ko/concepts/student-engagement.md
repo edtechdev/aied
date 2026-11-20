@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -65,7 +67,6 @@ ai_assist:
 
 - **AI 응용 갈래 여섯 + 다방법 측정:** [[ai-student-engagement-online-learning-review-2025|Zhou(2025)의 체계적 고찰]]은 WoS 연구 24편을 검토하여 참여를 위한 AI 응용 여섯 가지를 매핑합니다. 과정 설계에서의 [[conversational-ai|챗봇]], 정서/얼굴/음성 인식과 [[sensor-and-gaze-analytics|시선 추적]], 자료 분석을 위한 ML, 교수자-학생 상호작용 지원, 개인화된 피드백과 추천, 스마트 학습 환경에서의 AI 기반 봇이 그것입니다. 이 고찰은 여러 AI 양상과 자료 출처를 통합하는 것이 단일 출처 접근보다 인지적, 정서적, 행동적 참여에 관해 더 정확하고 실시간에 가까운 통찰을 준다는 것을 발견하여, 위의 지표 선택 문제를 강화합니다.
 
-
 지표의 선택은 정의의 문제입니다. 참여를 *과제 소요 시간*으로 측정하는 연구는 학생이 도구와 더 오래 상호작용할 때 AI 도구가 참여를 향상시킨다고 결론지을 수 있는 반면, 참여를 *비판적 처리*로 측정하는 연구는 같은 도구에 관해 정반대의 결론에 이를 수 있습니다. 이것이 지식베이스의 연구가 참여(참여 행위)와 학습(실제 인지적 성취)을 구별하는 이유입니다([[genai-performance-vs-learning|수행 대 학습]] 참고). 그리고 참여 지표가 그것이 측정한다고 주장하는 것에 대해 검증되어야 하는 이유입니다.
 
 게시물이 채점될 때, 게시물 수는 참여와 순응을 구분할 수 없습니다. STEM 학부생 26명과의 네 차례 포커스 그룹에서 대부분은 성적을 충족시키기 위해서만 게시했다고 말했고, 한 명은 토론 활동을 "목록에서 체크해야 할 또 하나의 무엇"이라고 묘사했습니다([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner와 Nugent, 2026]]). 행동적 지표는 활동이 평가되는 바로 그 지점에서 가장 약합니다. 성적이 그 지표가 기록하는 활동을 공급하기 때문입니다.
@@ -88,11 +89,9 @@ ai_assist:
 
 [[higher-ed|고등 교육에서의 AI]]에 관한 체계적 종합([[long-ai-higher-ed-engagement-teaching-methods-2026|Long 외, 2026]])은 AI 도구가 학생을 참여시키는지에 관해 **AI 도구가 담겨 있는 [[teacher-role|교수]] 방법이 결정적 매개자**임을 강조합니다. 챗봇, 적응형 시스템, 예측 분석은 독립형 도구가 아니라 상호작용적 교수법 — 뒤집힌 교실, [[project-based-learning|프로젝트 기반 학습]], 스캐폴딩된 [[feedback|피드백 순환]] — 안에 배치될 때 참여를 가장 많이 향상시킵니다. 이 고찰은 이것을 **PMAISE 모형**(학생 참여를 위한 AI의 [[pedagogy|교수법적]] 매개)로 형식화하며, AI [[ai-technologies|기술]], 교수법적 전략, 참여의 정서적·행동적·인지적 차원 사이의 정렬을 매핑합니다. 함의는 참여 결과가 도구 *와* 둘러싼 [[learning-design|교수 설계]]에 의해 공동 생산된다는 것입니다. 같은 AI가 한 교수법에서는 참여를 증폭하고 다른 교수법에서는 억제할 수 있습니다.
 
-
 이차원적 설명은 교수 측에서 같은 논점을 만듭니다. Al Nafjan의 엄격성–헌신 정렬 틀은 GenAI 아래의 참여를 과제가 얼마나 요구적인지와 교사가 학생의 학습에 얼마나 헌신하는지에 의해 공동으로 결정되는 것으로 다루며, 네 가지 배치를 예측합니다([[al-nafjan-genai-eap-writing-engagement-2026]]). 약한 엄격성과 약한 헌신(방임형), 약한 엄격성과 강한 헌신(관대형)은 모두 표면적 사용으로 정착합니다. 도구가 산출한 것을 평가하거나 정당화하도록 학생에게 요구하는 것이 없기 때문입니다. 높은 엄격성과 얇은 지원(처벌형)은 학생을 책임 있는 사용이 아니라 은폐로 밀어낼 것으로 예측되며, 높은 엄격성과 높은 지원만이 깊고 주체적인 참여를 낳을 것으로 예측됩니다.
 
 이 틀의 하중을 지는 주장은 인과가 아니라 증폭입니다. 네 배치 사이의 차이는 GenAI가 손쉽게 가용해질수록, 평가가 최종 산출물을 보상할수록, 작문 과정이 보이지 않는 채로 남을수록 벌어져야 합니다. 따라서 도구는 참여 양상을 스스로 만들어 내는 것이 아니라 과제와 교사가 이미 설정한 조건을 확대합니다. Al Nafjan은 이 틀이 명제적이며 시험되지 않았다고 밝히므로, 네 프로파일은 관찰된 효과가 아니라 경험적 시험을 기다리는 예상입니다.
-
 
 ## 관련 개념과의 연결
 
@@ -133,72 +132,3 @@ ai_assist:
 **"행동적 활동이 많을수록 참여가 깊습니다."** 흔히 그 반대입니다. AI와의 깊은 인지적 참여는 학습을 예측하는 반면, 얕은 행동적 참여는 위험 문헌을 지배하는 [[cognitive-offloading|과의존]]과 학습의 대체를 예측합니다. [[polished-artifacts-fragile-engagement-2026|윤나는 산출물]]이 전형적 사례로, 깔끔한 산출물이 활동을 신호하는 동안 사고는 일어나지 않았습니다. 분주한 상호작용 로그는 이탈과 양립합니다.
 
 **"AI는 기본적으로 학습을 더 참여적으로 만듭니다."** [[ai-availability-student-motivation|AI 가용성과 동기]]는 AI가 가용하다는 것을 아는 것만으로도 특히 초보 학습자에게서 노력이 드는 참여의 인지된 가치를 낮출 수 있음을 보여 줍니다. 참여는 도구 기능만큼이나 기대, 가치, 인지된 유능감에 의해 형성되며, 과제, 맥락, 학습자에 따라 달라집니다. 한 학생의 깊은 참여는 다른 학생의 산출물 추격입니다.
-
-## 연결된 개념
-- [[learners]] — 학습자: 학습자 측 개념의 상위 개념
-- [[pedagogical-partnerships]] — 교수 파트너십
-- [[community-of-inquiry]] — 탐구 공동체(에이전트적 참여를 CoI 차원으로)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — 상위 개념: AI 교육의 사람과 독자(학습자, 교수자, 설계자, 관리자, 정책 입안자)
-- [[self-report-measures]]
-- [[productive-failure]]
-
-- [[reflection]]
-
-
-## 연결된 문서
-
-- [[rho-disengaged-conversational-behaviors-2026]] — 학생-AI 대화에서의 이탈 대화 행동과 학습(Rho 외 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — 음성 기반 AI 수업 전 연습이 자발적 수업 기여를 약 31% 높였으나 두 번째 사용 이후에만(Wang 외 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI 사용이 더 큰 수업 결석과 함께 나타났으나 자기효능감은 그것을 예측하지 않았으며, 동료 영향이 지배적 관련 변수였다(Franco 외 2026)
-- [[gai-advocacy-practice-art-education-2026]] — 대학이 GAI를 옹호하지만 실천이 미치지 못할 때: 미술 교육에서의 학생 평가와 창의 과정 참여
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 머리에 고정된 뇌전도, 시선 추적, EDA가 5수준 참여 평점을 예측하는 반면 학습자 자신의 정의는 그 매핑을 옮긴다(Anupkrishnan 외 2026)
-- [[student-attention-estimation-fairness-2026]] — 실시간 학생 주의 추정을 위한 공정성 인식 멀티모달 트랜스포머 모형화
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 고등 교육에서의 AI: 참여와 교수 방법의 매개 역할에 관한 체계적 고찰
-- [[genai-motivation-engagement-2026]] — 생성형 AI가 학생 동기와 참여에 미치는 영향
-- [[critical-engagement-code-completion]] — Tab을 칠 것인가 말 것인가: AI 코드 완성에서 비판적 참여 측정하기
-- [[icap-cognitive-engagement-llm-agents]] — 협력 담화에서 인지적 참여 측정하기
-- [[genai-tutor-engagement-patterns]] — 모든 학생이 똑같이 참여하지는 않는다: 다기관 양상
-- [[polished-artifacts-fragile-engagement-2026]] — 윤나는 산출물, 취약한 참여
-- [[ai-availability-student-motivation]] — "왜 이만큼 노력해야 하지?": AI 가용성이 동기를 규정하는 방식
-- [[genai-performance-vs-learning]] — 수행 성과와 학습 구별하기
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI와의 비판적 참여 스캐폴딩하기
-- [[engagement-intensity-learner-modeling]] — 학습자 모형화 신호로서의 참여 강도
-- [[learning-engagement-assistant-lea]] — 학습 참여 도우미
-- [[engagement-assessment-video]] — 영상 학습에서의 참여 평가
-- [[engagement-forecasting-its]] — 휴리스틱에서 분석으로: 노력과 진도 예측하기
-- [[interactive-learning-dashboards-engagement]] — 상호작용적 학습 대시보드와 참여
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 학습자 특성 × TTS 대화 형식 상호작용
-- [[wang-goal-setting-ai-engagement-2026]] — 목표 설정 이론: AI 지원 영어 학습에서의 교수자 지원, 성취 목표, 참여(중국 학생 758명)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — 챗봇 참여의 동인으로서의 GenAI 역량과 정서(Zhao 외 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — 학생-AI 대화에서 학문과 연관된 Bloom 수준 인지적 참여(Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 초등 수준에서의 차원별 참여 성과(Lu 외 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 몰입형 VR PBL 스튜디오에서 인지적·행동적 참여는 상승하고 정서적 참여는 평평했다(Jin 외 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 집단 무작위 중등 수학 시험: 맞춤화된 챗봇으로 상황적 흥미는 상승하고 시험 수행은 그렇지 않았다(Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI 리터러시가 참여를 직접적으로 그리고 심리적 자본을 통해 추진하며, 전문 몰입에 의해 증폭된다(Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 성과를 낸다
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — AI 튜터에 대한 접근이 기록된 플랫폼 참여를 0.90 표준편차 낮춘 반면 숙제 제출은 유지되었다(Liu 외 2026)
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 피드백 리터러시와 주체적 참여: 세 차례 조사의 무선 절편 패널(Xu 2026)
-
-- [[eight-mode-ai-engagement-typology-2026]] — 자기보고와 관찰된 AI 참여 프로파일이 대응하지 않았고, 퀴즈 점수를 추적한 것은 행동뿐이었다(Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI 아래 예측된 네 가지 참여 배치, 그리고 도구가 그것들을 증폭하는 이유
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 토론 게시판에 대한 학생 인식: AI 지원 학습 분석 설계에 정보를 주는 기술 수용 모형 연구
-

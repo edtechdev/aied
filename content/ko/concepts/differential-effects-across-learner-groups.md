@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,7 +54,6 @@ ai_assist:
 
 **실제 학습자 감사는 존재하며, 교차적 주장을 뒷받침할 수 있습니다.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]]는 8,549명 학생의 MATHia 로그 2년치를 분석하여, 모의 페르소나 감사가 공급할 수 없는 증거를 발견했습니다. 2021–2022년 여학생 안에서 나타난 초기 독자 기저율 격차 .1007, 2022–2023년 히스패닉 학생 안에서 .0926에 이른 차이, 그리고 비초기 독자 가운데 12개 인종×읽기 집단 통계 중 8개가 유의한 반면 초기 독자 가운데서는 12개 중 1개만 유의했다는 점입니다.
 
-
 **공정성 수정은 일반화되지 않을 수 있다.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]는 학생 주의 추정에서 성별 및 연령 표적 오차 격차를 [[assessment-validity|검증]] 데이터에서 줄였지만, 그 향상은 홀드아웃 피험자나 반복된 피험자 수준 분할에 일관되게 이전되지 않았습니다.
 
 **집단 라벨은 그 안의 변동을 숨긴다.** 같은 장애 메타분석에서, 특정 학습 장애, 지적·발달 장애가 있거나 농성 학생들은 더 큰 효과(g = 0.952)를 보인 반면, 자폐 스펙트럼 장애 학생은 더 작은 효과(g = 0.368)를 보였습니다. 저자들이 41개 독립 표본의 239개 효과 크기에 걸쳐 통계적으로 유의하지 않다고 보고한 차이입니다. "장애"는 하나의 집단이 아니며, "L2 학습자"도 마찬가지입니다.
@@ -68,7 +69,6 @@ ai_assist:
 - **설계 선택은 인식론적으로 배제할 수도 있다.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]]는 영어 중심, 서구 중심 훈련 데이터가 비패권적 인식 방식을 주변화하고 장애 학습자의 상황을 그 비판의 중심에 놓는다고 주장합니다.
 
 - **"동일한 인간 성적에서, 채점자는 신원이 드러난 학생과 그렇지 않은 학생을 똑같이 대한다."** 판정된 성적에서 정확히 일치시킨 **3,000**개의 ASAP 2.0 에세이에서, **22개 모델 모두** 장애가 식별된 집단에 더 낮은 점수를 주었고, 6점 척도에서 **−0.086**에서 **−0.429**까지였으며, **20개**는 GAP REPLICATES로 읽혔습니다. 관례 오류와 길이는 **20개 중 17개** 모델에서 그 차이의 최대 5분의 1을 설명했을 뿐이며, ASAP 2.0이 성적을 하나만 공개하므로 이 설계는 인간 패널이 공유한 편향과 모델이 공유한 편향을 분리할 수 없습니다([[porcaro-ai-grading-benchmark-2026|이 해석은 모델 편향이 아니라 SHARED GAP입니다]]).
-
 
 ## 언어: 제2언어, 다중언어, 영어 학습자
 
@@ -127,7 +127,6 @@ ai_assist:
 
 - **"학습자 맥락은 채점자를 더 공정하게 만든다."** 두 모델이 채점한 **3,000**개 에세이에 대한 절제 실험에서, 시험할 수 있었던 모든 집단에 대해 상-하위 레이블 격차가 같았고, 모든 차이는 한 수준의 **0.045** 이내였습니다. Qwen에서는 낮은 레이블이 영어 학습자, 경제적으로 불리한 학생, 장애가 식별된 학생에게서 또래보다 **0.06~0.08점** 더 깎았습니다. 레이블이 없을 때도 두 모델 모두 동일한 인간 점수에서 마지막 두 집단을 또래 아래로 표시했습니다. [[porcaro-ai-grader-reliability-2026|틀릴 수 있는 기록은 점수를 움직이며, 이미 과소평가된 이들에게 가장 세게 움직입니다]].
 
-
 ## 집단 라벨에 과대적합하지 않고 이 증거를 사용하기
 
 - **집단 평균을 모집단에 관한 가설로, 결코 개인에 관한 예측으로 다루기.** 위의 모든 차등 주장은 분포적 진술입니다.
@@ -138,61 +137,8 @@ ai_assist:
 
 - **가장 직접적인 과정 증거를 지닌 집단 구분 변수는 인구통계가 아니라 지식 기반입니다.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]]는 [[prior-knowledge|사전 지식]]에서 집단을 매칭했고(U = 293.50, p = 0.515), 그런데도 학습자가 추론하는 방식이 일어난 일을 형성함을 발견했습니다. 서로 다른 선개념을 지닌 여덟 집단과 유사한 선개념을 지닌 여섯 집단이 같은 종류의 질문을 했지만, AI는 다양한 집단에서 통합 허브로 기능했고 유사한 집단에서는 선형 경로에 머물렀으며, 지속적 평가는 반대였습니다. 이는 60분짜리 과제 하나의 열네 집단에 기반하므로, 규칙이 아니라 집단을 어떻게 구성하는지에 관한 가설로 다루십시오.
 
-
 ## 흔한 오해
 
 - **"집단 라벨은 중요한 변이를 담아냅니다."** **집단 라벨은 그 안의 변이를 감춥니다.** 장애 메타분석에서는 **특정 학습장애, 지적 및 발달 장애** 학생과 다른 범주가 함께 모아지므로, 집단 평균은 그들 중 누구도 설명하지 못합니다.
 - **"하위 집단 분석이 차별적 효과 질문에 답합니다."** 그것들은 보통 **그 질문에 답하기에 너무 작습니다.** [[ai-tutoring-micro-rct-gcse-science-2026|GCSE 과학 소규모 RCT]]는 그 **처치** 대비가 전체 효과를 위해 검정력이 설계되었고 하위 집단 차이를 위해서는 아니라고 이례적으로 분명히 밝힙니다. 검정력이 부족한 하위 집단 발견은 결과가 아니라 가설입니다.
 - **"중간 크기의 통합 효과가 특정 집단의 이득 여부를 알려 줍니다."** [[zhang-ai-students-disabilities-meta-analysis-2024|29편의 (준)실험 연구]]가 장애 범주에 걸쳐 **Hedges의 g = 0.588(95% CI [0.349, 0.826])**로 통합되었습니다. 그 구간은 그 범주들에 걸친 평균을 서술하며, "어느 집단, 어느 필요"는 별개의 분석입니다.
-
-## 연결된 개념
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## 연결된 문서
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 장애 학생을 위한 AI에 관한 29개 연구: g = 0.588, 편향 조정 후에는 g = 0.269
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT가 융합 학습에서 STEM 학생과 비STEM 학생에게 불균등하게 도움이 되었음
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 소수 민족 유학생들의 생성형 AI 사용과 네 가지 차원의 참여
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766건의 기록에서 40개 연구로, 그중 15개가 생성형 AI
-- [[adhd-video-segmentation-computing-education]] — ADHD 참가자를 동등한 수준으로 끌어올린 전반적인 설계 변경
-- [[neurodivergent-computing-students]] — 구조, 모호성, 협력에 관한 신경다양성 학생 24명
-- [[genai-minoritized-knowledges-disability]] — 장애를 사례로 한 AI에서의 인식론적 주변화
-- [[robot-assisted-language-learning-meta-analysis-2026]] — 작은 L2 증거 기반에서 g = 0.83, I² = 84.4%
-- [[structural-silence-underrepresented-language-ai-2026]] — 벵골어가 웹 콘텐츠의 0.5% 미만인 데 비해 영어는 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기가 EFL 글쓰기를 오분류하면서 전문 텍스트는 완벽하게 채점함
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — 여성형 롤모델에 관한 195명의 시험에서 성별 차이는 없었음
-- [[gender-bias-transfer-llm-writing]] — 성별 편향 프롬프트가 학생 에세이로 전이됨
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 단성별 공간이 가치 있게 여겨졌으며, 소녀화에 대한 경고도 함께 제시됨
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — 모형, 영역, 행동 차원에 따라 달라지는 튜터의 공정성
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 동일한 에세이에 대한 고정관념에 정렬된 피드백
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480회 호출: 명시적 페르소나와 암묵적 이력 모두 모형을 움직임
-- [[student-attention-estimation-fairness-2026]] — 일반화되지 않은 공정성 정규화
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497명의 학생: AI 사용이 아닌 디지털 리터러시가 격차를 매개함
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — 결코 회복되지 않은 농촌 참여, 그리고 제약으로서의 멘토십
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 신뢰구간이 0을 가로지르는 하위집단 상호작용
-- [[student-ai-inquiry-types-cs2-2026]] — 코퍼스에 담긴 유일한 최초 세대(first-generation) 학생 사용 결과
-- [[international-students-conversational-ai-adaptation]] — 코퍼스에 담긴 유일한 국제학생 연구
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 최초 세대 학생에 관한 코퍼스 최초의 효과 추정: 튜터 접근으로 최종 성적이 또래의 0.22 SD에 비해 0.50 SD 손해였음 (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: 공급업체가 통제하는 조기경보 체계의 사후적 공정성 개입 평가
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 직접적인 과정 증거를 지닌 지식 기반 집단 구분 변수: 사전 지식은 매칭되었으나 선개념 다양성이 다른 집단은 같은 AI를 다르게 받아들였다 (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — 일치를 넘어서: 22개의 프롬프트된 채점자가 정답이 알려진 탐침을 만나고, 대부분은 설득될 수 있다 (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — 학습자 맥락은 동일한 작업에 대한 LLM 채점자의 점수를 바꾸며, 교사와의 일치는 그것을 포착하지 못한다 (Porcaro 2026, Paper VI)
-- [[petricini-ai-literacy-communication-equity-2026]] — 기초 커뮤니케이션 수업에서의 AI 리터러시: 형평성, 동기, 불확실성 줄이기에 관한 통찰
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
@@ -48,7 +50,6 @@ ai_assist:
 **אימוץ בינה מלאכותית ואמון בקרב סטודנטים** חוקר כיצד סטודנטים לפיזיקה משתמשים למעשה בכלי בינה מלאכותית. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** מצאו פער שימוש-ביטחון של 50 נקודות: 91% משתמשים בבינה מלאכותית לעבודות קורס אך רק 41% סומכים עליה, עם סטודנטים שמזהים מעצמם מצבי כשל של בינה מלאכותית בהיסק מרחבי-חזותי ובמעגלים חשמליים. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** פיתחו טקסונומיית שני פרופילים — 70% "משתמשים פרגמטיים" ו-30% "לא-משתמשים סקפטיים" — מתוך 1,189 תשובות סקר, ומראים ששתי הקבוצות מבצעות חליפות סיכון-תועלת מחושבות. מחקרים אלה מקדמים את המחקר ב[[ai-literacy|אוריינות AI]] וב[[trust-calibration|כיול אמון]], ומאתגרים מדיניויות [[educational-policy-ai|בינה מלאכותית]] במידה-אחת-לכולם.
 
 **השימוש סלקטיבי, וההסכמה עוקפת אותו.** בסקר של 209 סטודנטים להנדסה בשש אוניברסיטאות בקזחסטן, 36.1% דיווחו על שימוש כללי קבוע בבינה מלאכותית, אך רק 20.2% השתמשו בה בתדירות גבוהה מאוד בפיזיקה ובתחומים מתמחים ([[nauryzbayeva-ai-physics-education-future-engineers-2026|Nauryzbayeva et al. (2026)]]). השימוש התרכז במשימות של חיפוש הסברים — 55.1% לבירור נושאים קשים ו-51.4% לשיעורי בית — לפני מטלות כתובות ב-43.5%. חשיבה הנדסית משכה את התרומה הנתפסת החזקה ביותר ב-61.1%, אך המכשיר מדד רק דפוסי שימוש ו[[self-report-measures|תמיכה נתפסת]], לא למידה. דבר כאן אינו מראה שבינה מלאכותית שיפרה למידת פיזיקה, והמחברים אומרים זאת.
-
 
 **שימוש מובנה, לא רק אימוץ.** מחקרי האימוץ לעיל מתארים מי משתמש בבינה מלאכותית וכמה הוא סומך עליה. זרם מחקרי נפרד שואל מה עיצוב ההוראה צריך לעשות עם השימוש הזה, והראיות הרב-מוסדיות על כך היו מועטות. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** הפעילו את פרוטוקול שכפול-הבינה-המלאכותית בפיזיקה (Physics AI-Replication) בן ארבעת השלבים ב-11 סקציות מבוססות אלגברה וחדו"ם בארבעה מוסדות: זיהוי בעיה קשה, קבלת הסבר ופתרון מבינה מלאכותית, בקשת בעיות תרגול דומות, ואז פתרונן באופן עצמאי לפני הבדיקה.
 
@@ -116,61 +117,3 @@ ai_assist:
 - **"סטודנטים סומכים על AI מספיק כדי להישען עליו ללא ביקורת."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] מצאו **פער אמון-תועלת של 50 נקודות**: **91% משתמשים ב-AI לעבודות קורס אך רק 41% סומכים עליו**. שימוש נרחב מתקיים לצד אמון נמוך, ולכן התערבות שמכוונת לבניית התלהבות מטפלת במשתנה הלא-נכון.
 - **"סטודנטים לפיזיקה הם אוכלוסייה אחת."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] פיתחו טיפולוגיה בת שני פרופילים מ-**1,189 תשובות סקר**: **70% "משתמשים פרגמטיים" ו-30% "לא-משתמשים סקפטיים"**. מדיניות כיתתית אחת חייבת לשרת שתי קבוצות בעמדות מנוגדות.
 - **"הפער בין שימוש לאמון אינו רציונלי."** שני הנתונים מודדים דברים שונים — האם הכלי עוזר לכם לסיים עבודה, והאם אתם מאמינים שהוא עושה זאת נכון. הסטודנטים מבדילים בין תועלת לאמינות, וזו ההבחנה האנליטית הנכונה ולא סתירה.
-
-## מושגים מחוברים
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — הוראת כימיה ובינה מלאכותית: מעבדות, הערכה מעצבת, מגבלות מודלים לשוניים גדולים, פילוסופיה של ניסוי
-- [[biology-education]] — הוראת ביולוגיה ובינה מלאכותית: עוזרי מעבדה, אוריינות AI בביולוגיה, חשיבה ביקורתית, כלים מתמחים
-
-## מאמרים מחוברים
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — הקבלה של GenAI עברה מידול בכיתות פיזיקה בכיתה י'
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — סוכני פיזיקה ממורכזי-מורה לעומת ממורכזי-סטודנטים בהנחיית הנדסה (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — שימוש בבינה מלאכותית להפקת סימולציות פיזיקה / מעבדות וירטואליות במהירות (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[ai-grading-handwritten-physics-2026]] — דירוג בינה מלאכותית של הערכות פיזיקה בכתב יד (אולימפיאדה)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: הפיכת ה-FCI, FMCE וה-EMCS לאבחון קוגניטיבי בן 14 מטרות (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 זוגות שאלות-תשובה לפיזיקה תיכונית בנגלית הממופים לגרף תוכנית לימודים בן 1,760 צמתים, עם רווחי התאמה של מודלים קטנים
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — אימון GenAI מובנה לעריכת בעיות פיזיקה: ניסוי מבוקר אקראי (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — חונך מהונדס היטב ניצח למידה פעילה בכיתה
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — תפיסות מוקדמות של אנרגיה קבעו היכן ישב המשא ומתן על שאילתות AI ברשת הקבוצה: מוקד אינטגרציה כשהחברים חלקו, ומסלול ליניארי של שאילתה ואחריה קריאה כשהסכימו (Wang et al. 2026)
-
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — דפוסי שימוש ותמיכה נתפסת בקרב מהנדסים לעתיד
-

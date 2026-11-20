@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -70,12 +72,10 @@ AI katika elimu ya vitengo vya matibabu na afya ni mwelekeo unaoendelea wa chanz
 
 - **PBL na CBL zinazoendeshwa na AI: majaribio sita ya nasibu, mawili kati yao CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] waliunganisha majaribio manne kwa maarifa (46%, 95% CI 0.18 hadi 0.73), matatu kwa kuridhika (0.7, 95% CI 0.47 hadi 0.92), na hawakuweza kuunganisha fikra za kliniki kwa sababu vipimo vilitofautiana. Majaribio mawili pekee yalijaribu kujifunza kwa kesi na mapitio hayakuchanganua miundo kando, hivyo matokeo yanaunga mkono miundo ya matatizo inayosaidiwa na AI bila kubainisha vipengele gani vya kesi ni muhimu.
 
-
 Mapitio wa scoping ya ripoti 153 ya GenAI katika elimu ya matibabu unatafsiri ramani ya matumizi — [[simulation|mfano]] na ujuzi wa kliniki ni kubwa zaidi (ripoti 47), mbele ya uzalishaji wa tathmini na maoni (22) na kujifunza kwa kesi na fikra za kliniki (21) — hata hivyo ripoti 13 tu zilikuwa na ishara ya kufuatia au kuhifadhi na hakuna matokeo ya kiwango cha mgonjwa kilipatikana ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 - **Kile mitaala inachofundisha kuhusu asili ya data.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] walisimba mitaala iliyotangazwa hadharani ya programu 36 za AI za afya za Marekani na kugundua maadili yamefunikwa katika 29 (80.6%) lakini asili ya data katika kiwango cha muundo au kikomo cha seti ya data katika 8 pekee (22.2%), huku hakuna programu iliyoshughulikia gharama ya kimazingira ya ukokotoaji na hakuna hata moja ya shahada saba za uzamili iliyofikia kizingiti cha asili ya data. Kati ya wakufunzi 92 waliotajwa kwa jina, 76.1% walitoka katika taaluma za ukokotoaji na 3.3% kutoka sayansi za jamii au sayansi za kibinadamu. Pengo hilo lina matokeo ya kliniki: kushindwa kwa utekelezaji ambako karatasi hii inaanza nako kulianzishwa juu ya mto, katika jinsi data ya mafunzo ilivyozalishwa au kuwekewa lebo, ambayo ni uwezo unaoweza kufundishwa ambao mtaala unaonekana kuubeba.
 
 - **Matumizi yamepita mafunzo.** Kati ya wanafunzi 310 wa sayansi ya afya, 90% walikuwa wametumia ChatGPT wakati 82.6% hawakupata mafunzo rasmi ya AI; mara ya matumizi ilifuata GPA ya juu, na 61% waliripoti wasiwasi wa [[ethics|maadili]] ([[alshahrani-health-sciences-ai-use-2026|Alshahrani et al., 2026]]).
-
 
 ### Kwa nini ni muhimu
 
@@ -92,7 +92,6 @@ HPE ni uwanja wenye hatari kubwa, unaotegemea uwezo ambapo faida za AI (mazoezi 
 
 - **Panga mtaala kwa ushahidi, si kwa zana zilizopo.** Ramani hiyo hiyo ya KAS inaonyesha pale ushahidi ulipo mnene na mwembamba: maarifa ya maadili (masudio 14), uwajibikaji (14), ujuzi wa matumizi (16) na ujuzi wa tathmini (18) hubeba makubaliano, wakati maarifa ya kiufundi, maarifa ya matumizi na ujuzi wa uendeshaji viko katika 9 kila kimoja na ushirikiano katika 7. Pale miundombinu haiaminiki, fikia tabaka la kiufundi kupitia kesi za skrini na onyesho la mfano wa ufikiaji huria badala ya kusubiri mfano wa uhalisi wa juu.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Faida za mfano zimehakikishwa katika elimu ya matibabu, kwa hivyo mfano wa AI nao utakuwa hivyo."** Mapitio ya kimfumo ya mbinu mchanganyiko ya masudio 19 (N = 1,253) yanagundua mifano inayoendeshwa na AI huzalisha athari katika fasihi hiyo, msingi wa kiasi, na washiriki 1,253 katika masudio 19 ni msingi mwembamba kwa teknolojia inayotekelezwa kwa kiwango kikubwa.
@@ -100,59 +99,3 @@ HPE ni uwanja wenye hatari kubwa, unaotegemea uwezo ambapo faida za AI (mazoezi 
 - **"Wagonjwa waliosanifishwa ni ghali mno kupanuliwa."** Jaribio la kudhibitiwa nasibu lenye wanafunzi 95 wa matibabu waliokaguliwa lilitumia **wagonjwa waliosanifishwa wa AI wa mawakala wengi** katika mafunzo ya mahojiano ya kliniki. Kikwazo kinachoshughulikiwa ni upatikanaji wa waigizaji wa binadamu waliopata mafunzo, ambayo ni tatizo la wafanyakazi badala ya la uhalisi.
 
 - **"Kupitisha mfumo wa uwezo wa AI uliochapishwa kunamaliza swali la mtaala."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] walichuja rekodi 1,750 hadi masudio 23 — mapitio 15, [[qualitative-research|ya kina]] 4 na [[quantitative-research|ya kiasi]] 4, katika nchi 15 na 2022 hadi 2026 — na kuzipanga kwenye mfano wa Maarifa, Mtazamo na Ujuzi. Vikoa vya matumizi vilijikita katika elimu ya matibabu (n = 11, 47.8%), elimu ya jumla (n = 9, 39.1%) na elimu nyingine (n = 3, 13.0%), na mifumo ya uuguzi waliyoilinganisha — N.U.R.S.E.S., AI-ABCs na CARE — ama haikosi njia wazi za utekelezaji wa kielimu au inashughulikia ujuzi uliotengwa bila mbinu za tathmini. Ramani ya vipimo 12 wanayojenga ni pendekezo linalosubiri uthibitisho, jambo linaloifanya kitu cha kufundisha dhidi yake badala ya mtaala uliokwisha.
-
-
-## Dhana Zilizounganishwa
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — mwelekeo wa uuguzi wa elimu ya vitengo vya afya
-- [[virtual-and-augmented-reality]] — mafunzo ya kliniki ya kutia ndani na AR
-
-## Makala Zilizounganishwa
-
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Mitaala ya AI ya afya inafundisha maadili (80.6%) lakini mara chache asili ya data (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
-- [[genai-medical-education-transformation-review-2026]] — Mapitio ya scoping ya ripoti 153 za GenAI za elimu ya matibabu: mfano kinaongoza, udumu na matokeo ya mgonjwa hayapimwi
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kutathmini Mfumo wa Large Language Model ya Mawakala Wengi Unaoelekezwa kwa Ngazi za Msaada kwa Mafunzo ya Mahojiano ya Kliniki
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Tathmini ya rubriki ya vipimo 8 ya mawakala wa kufundisha wa AI katika elimu ya matibabu
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, pengo la muundo la elimu ya uuguzi, na uundaji upya wa utambulisho wa kitaalamu (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Mfumo wa SCAN: kufikiria upya mgawanyo wa kazi za AI katika mafunzo ya matibabu (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Kufanya kazi kujifunza kwa uzoefu, hali, na fikra zilizogawanywa kwa AI katika elimu ya vitengo vya afya
-- [[residencyrl-clinical-rl-training-2026]] — Mafunzo ya maboresho ya kujifunza kwa nguvu kwa ujuzi wa kliniki katika mafunzo ya uwazi
-- [[medgame-llm-medical-education-gamification]] — Kujifunza kwa LLM kwa kuchezesha kwa elimu ya matibabu
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Mfano wa AI ya wakala kwa mafunzo ya brachytherapy
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Kubadilisha elimu ya uuguzi kwa AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Mfano unaoendeshwa na AI katika uuguzi: mapitio ya kimfumo ya mbinu mchanganyiko
-- [[wang-safety-gap-productive-struggle-2026]] — Pengo la Usalama: Kurejesha Mapambano Yenye Tija
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: mafunzo ya radiographic ya meno yenye binadamu katika mzunguko (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya afya inayotegemea hali (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Mafunzo na tathmini ya mawasiliano ya kliniki yanayoweza kupanuliwa kwa msingi wa AI
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Ramani ya bibliometric ya maadili ya AI katika elimu ya matibabu: uzalishaji ulipanda 113 (2023) hadi 500 (2025), nchi 39, na kunukuwa hulipa vipimo vya uwezo kuliko utawala (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Mizunguko inayorudiwa haizalishi alama sawa
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — PBL na CBL zinazoendeshwa na AI katika elimu ya matibabu na meno: RCT sita, CBL mbili pekee (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — Pathologia ya kidijitali inayosaidiwa na AI huboresha utendaji wa utambuzi na kupunguza mapengo ya uzoefu kwa wakazi wanaosoma biopsy ya tezi
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Mapitio ya scoping yanayopanga mifumo ya uwezo wa AI wa kielimu kwenye ramani ya KAS ya vipimo 12
-- [[agency-gap-ai-writing]] — Mawakala wa uandishi wa AI msikivu dhidi ya mbele katika mafunzo ya taaluma za afya: pengo la uwakala
-- [[federated-learning-at-risk-student-prediction-2026]] — Utabiri wa hatari wa shirikishi katika programu za HPE: gharama ndogo ya faragha, na kwa nini kizingiti kilichoagizwa kinakosea
-- [[rony-nursing-educators-ai-tpack-2025]] — Waelimishaji wa uuguzi nchini Bangladesh kuhusu utayari wa AI, vikwazo, na utawala wa data, wakisomwa kupitia TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Vikwazo vya kuunganisha AI katika mitaala ya ukaaji: mahojiano ya kina na viongozi kumi na wawili wa matibabu
-- [[alshahrani-health-sciences-ai-use-2026]] — Kuziba teknolojia na ufundishaji: uchanganuzi wa matumizi ya AI, athari za kitaaluma zinazojitangaza, na wasiwasi wa maadili kati ya wanafunzi wa mitaala mbalimbali ya sayansi ya afya
-

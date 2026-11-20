@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -106,54 +108,3 @@ ai_assist:
 
 - Повідомляйте операційне визначення «адаптивного» поряд із будь-яким розміром ефекту, який цитуєте, бо визначення в літературі розходяться, і об’єднані числа успадковують цю неоднозначність.
 - Відрізняйте свій критерій оволодіння від результатів навчання у власній валідації. Якщо ваша міра валідації — той самий сигнал, що керує адаптацією, це не незалежний доказ.
-
-## Пов’язані поняття
-
-- [[online-teaching-and-learning]] — Онлайн-викладання та навчання
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Засніт: технології ШІ та прийоми (моделі, навчання LLM, робототехніка, RAG, агентність)
-- [[recommender-systems-and-learning-paths]]
-
-## Пов’язані статті
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: система адаптивного оцінювання з урахуванням імпульсу для персоналізованого оцінювання
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Оманливе надмірне узагальнення: адаптивне оволодіння може припинити практику раніше, ніж здобувачі знатимуть, коли стримувати дію (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Тьюторинг ШІ не є монолітом: що ми насправді знаємо (бриф Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Систематичний огляд залучення студентів на платформах адаптивного навчання
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Віртуальний тьюторинг із CAL: експеримент із засвоєнням та навчанням
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Зроблення тьюторингу ШІ продуктивним: практика математики на основі оволодіння
-- [[chudziak-ai-math-tutoring-platform]] — Адаптивний/персоналізований багатоагентний тьюторинг математики (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Перевизначення персоналізованого навчання: систематичний огляд
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — Специфічний для тьюторингу ШІ, калібрований до готовності здобувача, проти загальних чат-ботів
-- [[context-based-ai-secondary-chemistry-2026]] — Контекстне навчання 7E зі ШІ у хімії середньої школи
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Адаптивна програма STEM на основі ШІ для глибокого навчання
-- [[graph-its-adaptive-algorithms-2026]] — Інтелектуальний тьюторинг на основі графів для динамічних доменів (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Байєсівська когнітивна діагностика для персоналізованих шляхів навчання
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивний скаффолдинг ICAP в ITS (BKT проти DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Метааналіз, що об’єднує адаптивні інструменти та інструменти зі ШІ в 14 RCT
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Систематичний огляд: адаптивні шляхи серед провідних випадків інтеграції ШІ у вищій освіті
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Адаптивне впорядкування проблем перевершує фіксоване впорядкування: +0,156 SD на іспиті без допомоги, опосередковане залученням, а не складністю (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: агентний тьютор, який навчається свого здобувача в циклі спільного навчання людини та ШІ
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Використання стратегій домінує за станом (середній ICC 0,14), тож статичні профілі здобувача відкидають більшість сигналу

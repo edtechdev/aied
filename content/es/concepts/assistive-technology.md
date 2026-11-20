@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -64,27 +66,3 @@ Una revisión de alcance de 2026 sobre las [[ai-technologies|tecnologías]] asis
 - **«Un tamaño del efecto medio identifica la herramienta adecuada.»** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] encuentran que las intervenciones basadas en IA producen un efecto positivo medio en los resultados de aprendizaje del estudiantado con discapacidad (**g = 0,588**) en robots, software y realidad virtual inteligente. Es un promedio sobre tecnologías muy distintas que atienden necesidades muy distintas, así que respalda la categoría y no una elección dentro de ella.
 - **«Un acceso condicionado a un diagnóstico es un diseño defendible.»** Exigir un diagnóstico formal para participar excluye a quienes tienen necesidades reales y ninguna etiqueta, lo que entra en conflicto con el [[universal-design-for-learning|diseño universal para el aprendizaje]] y traslada el costo del acceso a la documentación del estudiante.
 - **«Más herramientas de asistencia significa más inclusión.»** Una revisión de alcance examinó **766 registros** en cinco bases de datos, y el volumen de producción no equivale a la cobertura de la necesidad: el recuento de estudios por barrera es la cifra más informativa.
-
-## Conceptos conectados
-
-- [[accessibility]] — la propiedad de diseño que la tecnología de asistencia operativiza
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Artículos conectados
-
-- [[shin-ai-policies-sld-2026]] — Políticas de IA y adaptaciones para el estudiantado con dificultades específicas de aprendizaje
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanálisis de las intervenciones con IA para el estudiantado con discapacidad
-- [[kutti-ai-voice-first-learning-companion]] — IA centrada en la voz para niños con discapacidad visual
-- [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles generados por IA
-- [[text-simplification-its]] — Simplificación de textos basada en LLM para la tutoría inteligente
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Generación de preguntas con LLM para estudiantes sordos y con dificultades auditivas
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física con matemáticas accesibles mediante Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: una revisión de alcance de las tecnologías de asistencia digitales para estudiantado neurodivergente en educación superior

@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -111,41 +113,3 @@ La fracture numérique est une préoccupation centrale de la recherche sur l'[[e
 - **« Si cela tourne dans un navigateur, c'est disponible. »** La plupart des outils de cours fondés sur un LLM présupposent un **audio en anglais monolingue et un internet fiable**, ce qui exclut précisément les classes qui mélangent l'anglais et une langue familiale. Les données UDISE+ de l'Inde situent l'accès internet des écoles bien en dessous du niveau que ce présupposé exige. Un outil bâti sur une infrastructure présupposée exclut silencieusement les contextes où le besoin est le plus fort.
 - **« La littératie numérique et l'usage de l'IA sont la même variable médiatrice. »** Une étude portant sur **4 497 élèves de 6e année** aux Pays-Bas a séparé **deux voies médiatrices distinctes** — l'usage de l'IA et la littératie numérique — reliant l'origine sociale et la personnalité aux gains d'apprentissage. Elles ne sont pas interchangeables, et les interventions qui augmentent l'une n'augmentent pas automatiquement l'autre.
 - **« Les [[simulation|simulations]] suppriment la barrière du coût. »** Une revue systématique de **11 études de jumeaux numériques** dans l'enseignement supérieur en STIM a trouvé des coûts matériels de **2 000 à 15 000 dollars** par installation. Un laboratoire simulé peut reproduire la facture d'équipement qu'il visait à éviter, si bien que l'argument du coût en faveur de l'offre virtuelle doit être vérifié plutôt que présumé.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Articles liés
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
-- [[watanabe-genai-education-gap-europe-2026]] — L'écart éducatif dans l'usage de l'IA générative est-il plus faible que celui de l'internet ? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED sans appareil : le tutorat par l'enseignant atteint les élèves qui n'ont aucun appareil (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — L'enseignement scolaire de l'IA réduit les écarts psychologiques mais non les écarts cognitifs de préparation
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Le cadre de littératie en IA étayée (SAIL)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Enseigner l'usage responsable des agents conversationnels d'IA aux élèves de la maternelle au secondaire
-- [[structural-silence-underrepresented-language-ai-2026]] — Silence structurel et langues sous-représentées
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revue systématique de l'IA dans l'enseignement des sciences et de la chimie
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — IA, déchargement cognitif et implications pour l'éducation (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC : l'accès à la robotique en milieu rural suit la géographie du mentorat, non l'accès aux appareils (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — L'inégalité numérique comme problème distributif et la colonialité algorithmique comme problème épistémique, dans des institutions sud-africaines historiquement défavorisées
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Les laboratoires de jumeaux numériques portent une facture d'équipement qui plafonne l'accès simultané

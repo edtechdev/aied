@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
@@ -81,51 +83,3 @@ Kujifunza hai ni mojawapo ya mifumo mikubwa zaidi ya [[learning-gains|mapato ya 
 - **"Uchunguzi unaosaidiwa na AI ni wa hali ya juu kiotomatiki."** Jaribio la nusu lililofanyika na **wanafunzi 120 wa Darasa la 8** liligundua kuwa [[inquiry-based-learning|kujifunza kwa msingi wa uchunguzi]] unaosaidiwa na AI uliinua utendaji wa ubunifu wa hisabati **na** kipimo chembamba zaidi: matibabu yalisogeza matokeo mengine na si mengine. Uhusiano na lebo ya hali ya juu si sawa na kazi ya hali ya juu.
 - **"Wanafunzi wanaobuni ualimu ni zoezi la kiufundi."** Katika utafiti wa ubadilishaji, **wanafunzi 345** katika kozi yenye wanafunzi 700 kila mmoja alibuni mwakala wa mazungumzo kufundisha mifumo mitatu ya ubuni kwa mwenzio. Kujifunza kwa vitendo kulitokana na kazi ya ubuni, ambayo ni [[pedagogy|kufikiri kwa kielimu]] badala ya uhandisi wa ilani.
 - **"Ugunduzi wa mahusiano ni ugunduzi wa kujifunza."** Msingi huo huo wa ushahidi unaonya kuwa ubuni **usio na kikundi cha udhibiti na wenye sampuli ya kujitolea** unasaidia madai ya mahusiano peke yake. Wanafunzi walithamini uhuru wa ubuni usio na mpaka (**asilimia 22.3** mada kuu chanya) na walilalamika zaidi kuhusu maelekezo yasiyo wazi (**asilimia 23.7**), na yote mawili ni kuhusu uzoefu.
-
-## Dhana Zilizounganishwa
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Mwavuli: mbinu za kibunifu na mikakati ya kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Ualumu wa AI hushinda kujifunza hai kwa darasa: RCT inayoanzisha ubuni mpya unaotegemea utafiti katika mazingira halisi ya kielimu (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Mfumo wa kielimu hai wa GenAI kwa uchumi (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — Somo la EEG la hali za mwingiliano wa AI (mwingiliano > otomatiki)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: kujifunza hai la kuona kupitia mfumo wa mawakala wengi
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: mapitio ya baada ya mihadhara ya mazungumzo ya hatua
-- [[academic-league-of-ai-2026]] — Ligi ya Kitaaluma ya AI: kujifunza hai kulingana na mradi
-- [[mujib-ai-ibl-creative-math-2026]] — IBL inayosaidiwa na AI na utendaji wa kiuumbaji wa hisabati
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Sifa za mwanafunzi × mwingiliano wa mazungumzo ya muundo wa TTS
-- [[instructional-guidance-genai-learning]] — Mapitio ya AI yaliyoagizwa na yasiyoagizwa: muundo, na si upatikanaji wa mfano, ulibadilisha alama za maswali huru
-- [[assigned-ai-preclass-student-engagement-2026]] — Mazoezi ya AI kabla ya darasa yaliongeza ushiriki darasani kwa 31% baada ya matumizi ya pili, si ya kwanza

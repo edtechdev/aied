@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -43,7 +44,3 @@ Opettajille ja kurssitiimeille, jotka haluavat tuotettuja materiaaleja, joita he
 ## Huomioita
 
 Lisensoitu MIT:llä, mukana englannin- ja kiinankielinen käyttöopas ja aktiivinen yhteisö Discordissa ja Feishussa. Se on mallineutraali: toimitat vähintään yhden LLM-tarjoajan avaimen, ja valinnaiset paikalliset komponentit (Lemonade paikallisille malleille, FunASR puheentunnistukselle) antavat ajaa suuremman osan pinosta offline-tilassa – joten "ilmainen" kuvaa ohjelmistoa, ei päättelylaskua. Sen taustalla oleva artikkeli ilmestyi *Journal of Computer Science and Technology* -lehdessä (2026, DOI 10.1007/s11390-025-6000-0), ja repositoriossa oli yli 38 000 tähteä syyskuuhun 2026 mennessä.
-
-## Liittyvät käsitteet
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

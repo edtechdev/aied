@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -159,69 +161,3 @@ PISA 2022–2025에 대한 국가 수준의 분석은 생성형 AI 사용이 더
 - **"대학에는 실제 AI 정책이 있다."** **법적 형식은 법적 언어보다 드뭅니다.** **160개 문서의 범위 검토**에서 **법적 효력을 지닌 도구는 2.5%였고 57.5%는 지침이나 툴킷**이었습니다. 백 건이 넘는 AI 거버넌스 문서에서 구속력 없는 지침이 대부분을 차지합니다.
 - **"기관의 신중함은 증거를 반영한다."** 신중함은 **증거가 아니라 시간 압박**에 기인합니다. ABA의 2024년 설문은 인증 학교의 약 **15%**만 응답했으므로, 그 신중한 합의는 대표성 없는 표본에 기대고 있습니다.
 - **"정책 범위는 대표성 있는 설문으로 지도화될 수 있다."** 한 영역에서 **CAHIIM 인증 48개 프로그램 전체**에서 AI 정책과 지침을 수집했습니다. 이는 틈새 영역의 완전한 인구 조사이며, 정책 일반에 관한 것보다 그 틈새에 관해 더 많은 것을 알려 줍니다.
-
-## 연결된 개념
-
-- [[pedagogical-partnerships]] — 교수법적 파트너십
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성적 평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 전문 도구
-- [[stakeholders]] — 우산 개념: AI 교육에서의 사람과 독자(학습자, 교사, 설계자, 행정가, 정책 입안자)
-- [[student-support-and-success]] — 기관 지원 배치의 정책적 맥락
-
-## 연결된 문서
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 유네스코와 OECD 문서는 거버넌스 어휘를 공유하지만 운영적 정의는 공유하지 않는다; 스물세 개 관할권이 정의 없이 수렴한다
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 스웨덴 설문과 포커스 그룹 연구: 부정행위 프레임이 아니라 파트너십 윤리가 기관의 생성형 AI 결정을 이끌어야 한다고 주장
-- [[generative-ai-governance-education-scoping-review-2026]] — 교육에서의 생성형 AI 거버넌스: 원칙, 기제, 위험에 관한 범위 검토 (Elmahjub et al. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 학생들이 조정할 수 없는 단위별 규칙
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — 예측적 거버넌스로서의 잉글랜드 EdTech Impact Testbed: 약속적 증거를 산출하는 파일럿 (Williamson et al. 2026)
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — AI 정책의 범위, 행위자 능력, 다섯 가지 교실 대응에 대한 미국 교사와 교장의 전국 대표 조사(Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — 대학이 GAI를 권장하지만 실천이 미치지 못할 때: 예술 교육에서의 학생 평가와 창의적 과정 참여
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 예비 영어 교사들의 교실 AI 정책: 무엇을 허용하고 제한하고 금지했는가(Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 쓰기 평가에서 AI 지원 채점을 위한 Human-in-the-Loop 체계
-- [[mccorkle-aligned-genai-course-policy-2025]] — 평가하는 것으로부터 과제별로 허용되고 허용되지 않는 생성형 AI 사용 도출하기(McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — 교원이 31,000개의 강의계획서에 걸쳐 AI를 어떻게 규제하는가(Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — 성적 인플레이션의 메커니즘으로서의 AI 과제 대체(Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 고등교육에서 생성형 AI 거버넌스에 대한 글로벌 델파이
-- [[qian-governing-genai-higher-ed-policy-2026]] — 정책보다 지침: 혁신적인 미국 대학 50곳에 걸친 교원 설정 강의계획서 규칙과 네 단위 지원 생태계(Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 증거 기반 없이 정책을 만드는 분야에서 법학전문대학원 생성형 AI 정책의 다섯 요인 비교(Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — 전사는 생성이 아니다: 지나치게 포괄적인 AI 규칙, 형식 변환, 그리고 장애 수용(Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — 고등교육에서 AI를 위한 선제적 거버넌스(범위 검토)
-- [[institutional-ai-policy-health-informatics-2026]] — 공인 건강정보학 석사 프로그램 48곳 전체의 AI 정책 문서: 대체로 지침이며 학문적 정직성을 중심으로 함(Eldredge 외 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — AI가 매개하는 평가를 위한 인지적 관리(대학 30곳 정책 감사)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 연구에서의 정책 결핍
-- [[agarwal-ethical-values-norms-aied-2026]] — 교육에서 AI를 위한 윤리 가치와 규범
-- [[perrotta-zero-shot-governance-2026]] — 제로샷 거버넌스: 정책에서의 일반 목적 AI(Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — 엘살바도르의 AI 튜터링 파일럿이 내세우는 학습 주장의 경계 짓기(Restrepo Morales 외 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 교수진 1,057명: 빈약한 기관·학과 지침에 맞서 자신의 과제 규칙을 작성하는 87%(Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — 보정된 공개와 결정 루브릭을 갖춘 목적 기반의 지원–대체 경계(Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI가 매개하는 채점에서의 프롬프트 인젝션: 들키지 않고 바뀐 성적, 그리고 정책 수준의 대응(Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 평가의 인증을 위한 130개의 거버넌스 지표, 그리고 개혁이 필요로 하는 외부 압력(Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — 정책 티어 대 과제 설계: 물리 평가 세 개에 걸쳐 학생이 생성형 AI를 무엇에 썼는가(Quince & Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — 더 높은 국가 수준의 생성형 AI 사용이 PISA 2022-2025의 더 큰 하락을 추적했으며, 선행 성과를 통제하면 사라진 상관관계(Guerra & Aslanov 2026)
-
-- [[pandey-davies-he-governance-administrative-ai-2026]] — 조달이 교수법보다 먼저 데이터 환경을 설정한다
-
-- [[chan-ai-policy-gap-2026]] — 46개 자금 제공자의 56개 문서: 자금 지원에 특정한 수단 12개를 갖춘 연구 자금 정책 층위(Chan 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE의 4개국 검토: 194개국 중 84국이 MIL을 기술적 기능을 넘어 교육과정에 넣었으며, 네 체계 모두에서 인간적 요인이 결과를 결정했다(Cerioli, 2026)
-- [[jiang-faculty-development-japan-2027]] — 일본의 법정 교수진 개발 의무: 적용 범위는 올라간 반면 워크숍, 동료 관찰, 동료 검토는 평평하거나 떨어졌다(Jiang, Wang & Taguchi 2026)
-- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명이 탐지, 평가 설계, AI 리터러시, 전략에 대해
-

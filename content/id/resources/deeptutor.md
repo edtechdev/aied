@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,6 +64,3 @@ yang kuat dan penalaran agentic umum yang 29,4% lebih kuat di lima model tulang 
 TutorBench — diringkas di [[zhao-deeptutor-agentic-personalized-tutoring-2026|halaman artikelnya]],
 yang batasannya juga berlaku di sini. Seperti tumpukan AI open-source mana pun, Anda menyediakan kunci
 penyedia model, dan penerapan desktop atau server mengharapkan Python 3.11 dan Node.
-
-## Konsep terkait
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

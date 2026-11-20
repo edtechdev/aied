@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -103,56 +105,3 @@ Die Evidenz aus Subsahara-Afrika macht diese Lücke unter materiellen Einschrän
 Ein Quasi-Experiment von 2026 in einem chinesischen Virologie-Laborkurs baute das Modul um einen Kurs-Wissensgraphen, einen graphgestützten Retrieval-Assistenten, adaptives Routing mit veröffentlichten Schwellenwerten und virtuelle Simulation neu auf und verglich dann 30 Studierende mit 30 in dem unveränderten Kurs. Die Versuchsklasse erzielte 11,4 Punkte mehr in der abschließenden Theorieprüfung (d = 1,39) und 13,3 Punkte mehr in der Checkliste zur Laborarbeit (d = 1,61).([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]])
 
 Zwei Vorbehalte gehören zu diesen Zahlen: Die Zuweisung erfolgte nach ganzen Klassen, sodass Clusterung nicht modelliert ist und die Intervalle wahrscheinlich zu eng sind, und die vier Komponenten wurden gemeinsam eingeführt, sodass der Effekt dem Gesamtpaket gehört und nicht dem Wissensgraphen oder dem Assistenten.
-
-## Verbundene Konzepte
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — der Pflegestrang der Gesundheitsberufebildung
-- [[virtual-and-augmented-reality]] — immersives und AR-gestütztes klinisches Training
-
-## Verbundene Artikel
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — KI-gestütztes PBL und CBL in der medizinischen und zahnmedizinischen Bildung: sechs RCTs, nur zwei zu CBL (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — KI-gestützte digitale Pathologie verbessert die diagnostische Leistung und verringert erfahrungsbedingte Leistungslücken bei Pathologie-Assistenzärztinnen und -ärzten, die Prostata-Biopsien interpretieren
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Gesundheits-KI-Curricula lehren Ethik (80,6%), aber selten Datenherkunft (22,2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Eine geschichtete Multi-Rater-Evaluation LLM-basierter virtueller standardisierter Patientinnen und Patienten mit einer eingesetzten Datengenerierungsplattform
-- [[genai-medical-education-transformation-review-2026]] — Scoping Review von 153 GenAI-Berichten zur medizinischen Bildung: Simulation führt, Nachhaltigkeit und patientenbezogene Ergebnisse nicht gemessen
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluation eines gerüstorientierten Multi-Agenten-Large-Language-Model-Systems für das Training klinischer Gespräche
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimensionale Rubrik-Evaluation von KI-Lehragenten in der medizinischen Bildung
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, strukturelle Lücken der Pflegebildung und die Neukonstitution professioneller Identität (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN-Rahmen: KI-Aufgabenverteilung in der medizinischen Ausbildung neu denken (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalisierung von erfahrungsbasiertem, situiertem und verteiltem Denken mit KI in der Gesundheitsberufebildung
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-Learning-Training für klinische Fertigkeiten in der Facharztausbildung
-- [[medgame-llm-medical-education-gamification]] — Gamifiziertes LLM-basiertes Lernen für die medizinische Bildung
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentische KI-Simulation für das Brachytherapie-Training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transformation der Pflegebildung mit KI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflege: Mixed-Methods-Systematischer-Review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: produktive Auseinandersetzung wiederherstellen
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: Human-in-the-Loop-Anleitung in der dentalen Röntgenbildaufnahme (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematischer Review zu GenAI in der szenariobasierten Gesundheitsbildung (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Skalierbares KI-basiertes Training klinischer Kommunikation und automatisches Assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometrische Karte der KI-Ethik in der medizinischen Bildung: Output stieg von 113 (2023) auf 500 (2025), 39 Länder, und Zitate belohnen Fähigkeitentests mehr als Steuerung (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Wiederholte Durchläufe reproduzieren nicht dieselbe Note
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping-Review, der pädagogische KI-Kompetenzrahmenwerke auf eine 12-teilige KAS-Karte abbildet
-- [[agency-gap-ai-writing]] — Reaktive versus proaktive KI-Schreibagenten im Training der Gesundheitsberufe: die Handlungsfähigkeitslücke
-- [[federated-learning-at-risk-student-prediction-2026]] — Föderierte Risikovorhersage über HPE-Programme hinweg: vernachlässigbare Datenschutzkosten und warum ein importierter Schwellenwert daneben liegt
-- [[rony-nursing-educators-ai-tpack-2025]] — Pflegelehrende in Bangladesch zu KI-Bereitschaft, Barrieren und Datengovernance, gelesen durch TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Barrieren bei der Integration von KI in Facharzt-Curricula: qualitative Interviews mit zwölf ärztlichen Leitungspersonen
-- [[alshahrani-health-sciences-ai-use-2026]] — Technologie und Pädagogik verbinden: eine Querschnittsanalyse von KI-Nutzung, selbstberichteten akademischen Effekten und ethischen Bedenken unter Studierenden verschiedener Gesundheitswissenschafts-Curricula
-- [[ago-prompt-literacy-allied-health-2026]] — Prompt-Kompetenz in sechs ghanaischen Studiengängen der Gesundheitsfachberufe: routinemäßige GenAI-Nutzung ohne Schulung, Abonnement- und Konnektivitätsbeschränkungen sowie ein Prompt-Verifizierungsparadoxon dort, wo das Vorwissen am geringsten ist (Ago et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphengestütztem Assistenten und adaptivem Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -113,64 +115,3 @@ A educação matemática se situa dentro do domínio mais amplo de [[stem-educat
 **"A matemática é um domínio fácil para a IA porque as respostas são verificáveis."** A verificabilidade é o que faz da matemática um bom campo de testes, não o que a torna segura. Como a resposta final é verificável, um estudante pode validar uma solução que não construiu — que é precisamente como o raciocínio da disciplina é contornado enquanto a nota permanece limpa. A propriedade que atrai pesquisadores é a propriedade que torna o descarregamento invisível.
 
 **"A [[item-response-theory|dificuldade de itens]] de matemática pode ser atribuída por um modelo capaz."** Ela precisa ser calibrada contra respostas. Em um estudo de dificuldade de itens abrangendo **5.170 itens de K-5** calibrados sob o modelo IRT de Rasch, as avaliações de dificuldade zero-shot geradas por modelo foram comparadas à calibração empírica precisamente porque dificuldade declarada e dificuldade medida são quantidades diferentes.
-
-## Conceitos conectados
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Artigos conectados
-- [[ledezma-geometry-task-design-genai-preservice-2026]] — Tarefas de geometria desenhadas por GenAI por futuros professores do ensino fundamental: alta demanda cognitiva, instruções fechadas, um erro de escala embutido (Ledezma et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — O que a entrega não mostra: complexificando o descarregamento cognitivo no trabalho matemático de estudantes com LLMs (Kontorovich & Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de provas assistida por IA (Chen et al. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — Analisando a comunicação matemática entre futuros professores de matemática e a GenAI: um estudo de caso em um curso de Álgebra Abstrata
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Obstáculos simbólicos no cálculo de graduação são um gargalo representacional, com menos erros simbólicos codificados após andaimento por IA (Nursit et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Integração de IA na educação matemática: desafios de implementação e implicações pedagógicas (Manto et al. 2026)
-- [[ai-mathematics-education-prisma-review-2026]] — Inteligência artificial na educação matemática: uma revisão sistemática da literatura baseada em PRISMA (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Correção automatizada por software de itens matemáticos de exames de certificação do ensino médio em economia usando um modelo de similaridade contextual
-- [[mindful-llm-math-tutoring-2026]] — Além da resolução de problemas: modelos de linguagem grandes para apoio emocional e reflexivo na aprendizagem de matemática
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Tornando a tutoria por IA produtiva: prática de matemática baseada em maestria
-- [[chudziak-ai-math-tutoring-platform]] — Plataforma de tutoria de matemática movida por IA (Chudziak & Kostka 2025)
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — Plataforma de maestria ALEKS: problemas baseados em texto, os mais suscetíveis à IA
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direcionamento pedagógico de LLMs para a falha produtiva
-- [[instructional-design-proficiency-masters-math-2026]] — Modelo de sala de aula inteligente e laço D-T-E melhorando a proficiência em desenho instrucional de M.Ed. em matemática (Zhu et al. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Andaimento guiado por regras versus ad-hoc num sistema de tutoria com LLM para matemática do ensino fundamental (Looi et al. 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimando a dificuldade de itens usando LLMs e ML baseado em árvores
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[genai-practice-platform-maths-feedback-2026]] — Plataforma opcional de prática com GenAI numa turma de matemática de 157 estudantes: feedback imediato valorizado, uso limitado a 34 usuários ativos
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — Avaliando a influência de respostas geradas por IA no desempenho acadêmico: uma perspectiva ética e autoeficácia
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Trabalho de orquestração em sala de aula na matemática do ensino médio: lendo painéis e corrigindo o feedback da IA
-- [[decision-making-agent-student-decision-acceptance-2026]] — Estudantes ainda preferem a decisão de correção do professor
-- [[genai-learning-motivation-meta-analysis-2026]] — Ganhos motivacionais em matemática repousam sobre quatro estudos (g = 0,711)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — IA em salas de aula de matemática: uma estratégia sinérgica para diversidade e inclusividade

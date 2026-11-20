@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,6 +46,3 @@ Walimu wa K-12 wanaotaka kusikia ufikiri unaoleta jibu, na wasimamizi wanaonunua
 ## Vidokezo na maelezo ya tahadhari
 
 Kila dai la uwezo hapa ni uuzaji wa muuzaji mwenyewe, ikijumuisha "inayoaminika katika shule 10,000+ duniani kote", ambayo wilaya inapaswa kuangalia dhidi ya makubaliano yake ya uchakataji wa data. Muuzaji anasema kuwa anaondoa vitambulisho vya kibinafsi kabla ya kutuma kazi kwa OpenAI chini ya makubaliano ya kutowahifadhi au kuwafundisha, hakuonyeshi wanafunzi matangazo yoyote, hauzi data kamwe, na inashikilia vyeti vya iKeepSafe na Common Sense Privacy. Snorkl pia inasema wazi kuwa haweki alama: inapima maelezo dhidi ya vigezo vilivyoainishwa na mwalimu kama maoni ya maendeleo, na mwalimu huendelea kuweka alama. Chukua hukumu hizi za AI kama ishara za maendeleo zinazolazika kwa maswali ya kawaida ya uhalali na upendeleo, na dhamira ya mazingira kama nia iliyoainishwa, sio marekebisho yaliyopimwa.
-
-## Dhana Zilizounganishwa
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

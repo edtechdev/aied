@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,29 +89,3 @@ Yang khas dari AI dalam VET adalah celah antara apa yang dikatakan sektor ini in
 **Bagi peneliti**
 
 - Lakukan setidaknya sebagian studi di tempat kerja. Sektor yang didefinisikan oleh pembelajaran berbasis kerja dan basis buktinya tidak memuat studi tempat kerja belum menguji klaim sentralnya.
-
-## Konsep terkait
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Artikel terkait
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Pembaruan kurikulum CTE adaptif, lima dimensi dan enam uji kepemimpinan
-- [[ai-vocational-education-training-review]] — Tinjauan sistematis pertama atas AI dalam VET: tujuan, teori, dan efektivitas empiris
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: pembelajaran berbasis proyek imersif dan kreativitas desain
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: penilaian lisan berbantuan AI luring dalam TVET
-- [[ai-pedagogical-accompaniment-amico]] — Prototipe dwimode Amico: prinsip desain dan indikator yang dapat diamati
-- [[ai-autonomous-learning-accomplishment-2026]] — Pembelajaran mandiri berbantuan AI dan prestasi yang menurun, dimediasi hardiness
-- [[astra-atco-training-simulator]] — Sim-pilot otonom untuk pelatihan ATCO yang dapat diskalakan
-- [[crewscaler-ai-upskilling-framework]] — Kerangka ujung-ke-ujung yang dipercepat AI untuk peningkatan keterampilan profesional yang cepat
-- [[genai-xr-architectural-design-education-2026]] — Kasus kontra: GenAI plus XR multiuser dengan efikasi diri desain yang menurun
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Dukungan ICT yang dipersepsikan sebagai tuas institusional di perguruan tinggi vokasional

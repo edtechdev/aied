@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -140,60 +142,3 @@ ai_assist:
 **"AI کارکردگی بڑھاتا ہے، تو سیکھنا بھی بڑھاتا ہے۔"** آن لائن سیاق میں یہ تفاوت وہی ہے جو کلاس روم میں ہے: ایک [[rct]] نے پایا کہ بغیر گارڈ ریل والی AI مدد نے مشق کی کارکردگی بڑھائی مگر بغیر مدد امتحان کے اسکور *گرا* دیے، جبکہ "اشارہ-نہ-جواب" ٹیوٹر نے نقصان ختم کر دیا۔ آن لائن کورسز غیر ہم وقتی جانچ پر زیادہ انحصار کرتے ہیں، اس لیے مدد والی اور بغیر مدد کارکردگی کے درمیان خلا ہی وہ جگہ ہے جہاں اعتبار جیتا یا ہارا جاتا ہے۔
 
 **"جانچ کا اعتبار درجہ بندی کی پالیسی کا سوال ہے۔"** یہ وسیلے سے پیدا ہونے والا ڈیزائن کا سوال ہے: جب جمع کرائی گئی شے سیکھنے والے کی موجودگی کے بغیر پیدا ہو سکے، تو اعتبار اِس پر منحصر ہے کہ ٹاسک ایسا ثبوت پیدا کرے کہ کام سیکھنے والے نے کیا۔ ٹاسک کو دوبارہ ڈیزائن کرنا اِسے حل کرتا ہے؛ بدانتظامی کی سزا سخت کرنا نہیں۔
-
-## منسلک تصورات
-- [[pedagogical-patterns]] — وہ سیاق جو ترتیب کو بوجھ اٹھانے والا بناتا ہے، کیونکہ نظام کسی کوشش کو نہیں دیکھ سکتا
-- [[assessment-validity]] — جمع کرائے گئے کام سے سیکھنے تک استنباط کا اعتبار
-- [[agentic-ai]] — خودمختار نظام جو آلات اور پلیٹ فارم چلاتے ہیں، بشمول LMS
-- [[community-of-inquiry]] — استفسار کی برادری
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## منسلک مضامین
-- [[ai-agents-complete-lms-assessment-validity-2026]] — خودمختار ایجنٹوں نے بغیر نگرانی والی LMS جانچیں سر سے آخر تک مکمل کیں: یہ جانچ کے اعتبار کا مسئلہ ہے (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — جانچ کے جڑواں: GenAI کے لیے کمزور ٹاسک کو قریب سے مقرر، کم کمزور اور اُنہی نتائج والے ٹاسک کے ساتھ جوڑنا
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — شریک مصنفیت کی سالمیت بطور اعتباری ثبوت، اور AI Viva بطور قابلِ پیمانہ تصدیق
-- [[asynchronous-oral-assessment-2026]] — غیر ہم وقتی زبانی جانچیں: وقت کی پابندی والی، بغیر نظرثانی ریکارڈنگز جو پیوست روبرک کے مقابلے میں درجہ بند ہوتی ہیں
-- [[brcic-effortless-trap-productive-struggle-2026]] — محنت کے بغیر کا پھندا: اجازت یا ممانعت کے بجائے AI کی جگہ
-- [[metacognitively-discordant-completion-genai-2026]] — میٹا کوگنیشن کے لحاظ سے متضاد تکمیل: سمجھ کے بغیر جمع کرایا گیا درست کام
-- [[decreasing-digital-distraction-college-online-learning-2026]] — کون سی خود ضابطگی والی حکمت عملیاں کم ڈیجیٹل توجہ کے ساتھ ملتی ہیں (530 طلبہ)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL بطور مستحکم استعداد اور اُتار چڑھاؤ والی حالت؛ ایک اصطلاح میں میٹا کوگنیشن اور بہبود کا زوال
-- [[genai-marketing-education-roles-2026]] — AI بطور ٹیوٹر، ساتھی اور آلہ: کردار اور موجودگی پر اُن کے اثرات
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — پتہ لگانے سے آگے: آن لائن سیاق کے لیے جانچ کا ڈیزائن
-- [[reconceptualizing-community-inquiry-generative-ai]] — جنریٹو AI کے دور میں استفسار کی برادری کی دوبارہ تعریف
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — اعلیٰ تعلیم میں آن لائن سیکھنے میں AI کا انضمام: چار موضوعات والا تنقیدی ادبی جائزہ
-- [[mooc-to-maic]] — MOOC سے MAIC تک: LLM سے چلنے والے ایجنٹوں کے ذریعے آن لائن تدریس اور سیکھنے کی تشکیلِ نو
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: آن لائن سیکھنے کے لیے ذاتی نوعیت اور موافقت پذیر معاونت کا نظام
-- [[llm-facilitation-timing-online-discussions]] — آن لائن مباحثوں میں انسانی اور LLM سہولت کاروں کے رجحانات
-- [[elevate-genai-virtual-tutors]] — ELEVATE: انسان مرکز GenAI مجازی ٹیوٹر
-- [[conversational-ai-tutors-framework]] — مکالماتی AI ٹیوٹر تک کا راستہ
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Open University میں AIDA کا نفاذ
-- [[ai-adult-learning-guidelines-dis2026]] — بالغوں کی سیکھنے کی مدد کے لیے AI ٹیکنالوجیز کی ڈیزائننگ کے رہنما اصول
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: ایجنٹک ذاتی نوعیت کی ٹیوٹرنگ کی طرف
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس روم میں اساتذہ کے لیے ML نتائج کو قابلِ رسائی بنانا
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — طلبہ ذاتی نوعیت والی AI پیدا کردہ ویڈیوز کو غیر ذاتی نوعیت والی انسانی ریکارڈ شدہ ویڈیوز پر ترجیح دیتے ہیں (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — آن لائن مباحثہ فورموں میں AI پیدا کردہ خلاصے سے چلنے والا سیکھنے کا ڈیزائن
-- [[ai-training-science-teacher-tpack-distance-2026]] — کیمپس پر مبنی طالب علم اساتذہ نے AI سے مربوط سائنس تدریس کے لیے فاصلاتی تعلیم کے ساتھیوں سے زیادہ TPACK بتایا (64.0% بمقابلہ 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — کردار کا ڈیزائن ہی مداخلت ہے، آلہ نہیں
-- [[packard-thinking-partner-framework-adult-learners-2026]] — کام کرنے والے اساتذہ کے لیے چھ ہفتوں کے غیر ہم وقتی گریجویٹ کورسز: شکل کو دبائیں نہیں، دوبارہ ڈیزائن کریں
-- [[aggarwal-genai-cybersecurity-2026]] — دو کیمپسوں کے 19 طلبہ: مشترکہ داخلہ کچھ کے لیے کوئی بین کیمپس تعامل پیدا نہ کر سکا (Aggarwal 2026)

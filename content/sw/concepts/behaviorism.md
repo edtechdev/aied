@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -90,27 +92,3 @@ Behaviorism pia inaonekana katika jinsi wanafunzi wanavyokutana na AI kama somo.
 **"Miundo ya behaviorism ni dhaifu tu kuliko ile ya ukustruktivisti."** Inafaa malengo mahususi vizuri: ufasaha, ukumbukaji wa ukweli, uotomatiki wa taratibu, pale maoni ya papo na kurudia ndivyo kazi inahitaji kwa kweli. Hitilafu si utaratibu; ni kutumia utaratibu ambao sharti lake la uhalali, kwamba mwanafunzi lazima azalishe jibu, limeacha kushikilia kimya kimya.
 
 **"Kwa kuwa nadharia imekataliwa, mifumo iliyojengwa juu yake inaweza kuhukumiwa kwa matokeo pekee."** Matokeo ndiyo hasa yanayoharibiwa na usawa wa matokeo. Mfumo unaweza kuripoti matokeo bora ya tabia wakati kujifunza kumehamia mahali pengine, hivyo mifumo inayoathiriwa na behaviorism inahitaji kipimo kisichosaidiwa zaidi kuliko aina nyingine yoyote.
-
-## Dhana Zilizounganishwa
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Ufahamu wa kiakili, nguzo ya tatu ya kimasomo ya nadharia ya kujifunza
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Makala Zilizounganishwa
-
-- [[ai-vocational-education-training-review]] — Mifumo ya AI ya behaviorism inatawala mazoezi ya VET licha ya ukustruktivisti uliohubiriwa; "Mtego wa Turing"
-- [[generativism-learning-theory]] — Behaviorism miongoni mwa nadharia nne zinazotawala ambazo akili bandia ya kuzalisha inahimiza kuzibadilisha
-- [[ccct-cooperative-learning-technique]] — Behaviorism inarejelewa katika ubini wa kujifunza kwa ushirikiano kwa elimu ya juu
-- [[wang-multi-agent-systems-learning-designers-2025]] — Tabia ya behaviorism miongoni mwa mbinu za ubini za wakala wengi wa kushirikiana
-
-- [[sequenced-ai-feedback-learning]] — Maoni ya vidokezo yaliyopangwa yalifanya vibaya kuliko maoni ya suluhisho kamili ya papo hapo katika jaribio la nasibu la washiriki 199
-

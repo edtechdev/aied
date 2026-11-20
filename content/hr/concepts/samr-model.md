@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -80,28 +82,3 @@ SAMR je najbolje razumjeti kao leću dubine integracije koja se rabi u planiranj
 **„SAMR i TPACK su konkurentski okviri.“** Opisuju različite stvari: SAMR opisuje *stupanj preobrazbe* zadatka, dok [[tpack|TPACK]] opisuje *znanje* koje nastavnik treba za dobru integraciju tehnologije. Nastavnik može biti visoko TPACK-sposoban i ipak djelovati na razini supstitucije, zbog čega se dva okvira rabe zajedno, a ne biraju se jedan umjesto drugoga.
 
 **„Alat koji je preobražavajuć na jednoj razini preobražavajuć je na svim razinama.“** Isti generativni alat može podupirati supstituciju u jednom kolegiju i redefiniciju u drugom, jer je razina svojstvo dizajna zadatka, a ne tehnologije. Pripisivanje razine alatu proizvodi odluke o usvajanju umjesto dizajnerskih odluka.
-
-## Povezani koncepti
-
-- [[ai-education]] — umjetna inteligencija u obrazovanju (krovni koncept)
-- [[tpack]] — tehnološko pedagoško sadržajno znanje
-- [[technology-acceptance-model]] — modeli usvajanja tehnologije
-- [[icap-framework]] — okvir ICAP za kognitivni angažman
-- [[ai-technologies]] — tehnologije i tehnike umjetne inteligencije
-- [[teacher-ai-competency]] — kompetencije nastavnika za umjetnu inteligenciju
-- [[educational-development]] — obrazovni razvoj
-- [[learning-design]] — oblikovanje učenja
-- [[k-12]] — obrazovanje od osnovne do srednje škole
-- [[higher-ed]] — visoko obrazovanje
-- [[generative-ai]] — generativna umjetna inteligencija
-
-## Povezani članci
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — integracija umjetne inteligencije u visokom obrazovanju ocijenjena SAMR-om: uglavnom supstitucija i nadgradnja
-- [[thermomix-genai-education-analogy-2026]] — ICAP i SAMR u preslikavanju četiriju scenarija od kuhanja do učenja
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR među lećama za kurikularne promjene potaknute generativnom umjetnom inteligencijom
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR među okvirima koji informiraju standarde za tehnologiju u radu nastavnog osoblja
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — posthumanistička kritika humanističke ontologije SAMR-a
-- [[reclaiming-epistemic-agency-co-agency-2026]] — šutnja SAMR-a o moći, vlasništvu nad podacima i odgovornosti
-- [[genai-use-changing-institutional-policy-physics-2026]] — studentska upotreba generativne umjetne inteligencije pod promjenjivim institucionalnim politikama: funkcije upotrebe preslikane na razine SAMR-a (Quince i Faulconer 2026.)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — Umjetna inteligencija u nastavi matematike: sinergijska strategija za raznolikost i uključivost

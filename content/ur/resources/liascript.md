@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -43,6 +44,3 @@ ai_assist:
 ## نوٹس اور احتیاطیں
 
 LiaScript مفت ہے، کوئی معاوضہ والی سطح نہیں اور کوئی اکاؤنٹ درکار نہیں، اور BSD-3-Clause کے تحت کھلے طور پر تیار ہوتی ہے، اس لیے ادارے خود میزبانی اور ترمیم کر سکتے ہیں۔ Live Classroom کی خصوصیت کو بڑے پیمانے پر بھروسا کرنے سے پہلے دیکھ لینا چاہیے، کیونکہ حقیقی وقت کی ہم آہنگی خالص مقامی rendering کے بجائے مشترکہ خدمت استعمال کرتی ہے۔ تدریسی ایجنٹ نیا اور کم استعمال شدہ ہے، اس لیے اسے معاون مصنوع کے بجائے کام کرتے prototype کی طرح لیں۔
-
-## منسلک تصورات
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]

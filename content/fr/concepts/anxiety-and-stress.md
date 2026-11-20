@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -59,7 +61,6 @@ Ce groupe relie l'anxiété face à l'IA à la [[privacy|vie privée]], à l'[[a
 Au-delà de la surveillance, l'usage de l'IA génère lui-même de l'anxiété — la crainte d'être remplacé, celle de savoir si son travail est « vraiment le sien », celle de sa propre compétence. Crucialement, cette anxiété n'est **pas purement négative** :
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] constate que **l'anxiété face à l'IA peut être productive** : une plus forte anxiété face à l'IA était positivement associée aux comportements de vérification et de révision (β=.24, p<.01), et la capacité d'évaluation prédisait l'[[student-engagement|engagement]] actif (β=.46, p<.001). Les quatre types régulatoires de Kim (recours non critique 18.7%, intégration sélective 34.6%, transformation évaluative 31.8%, rejet stratégique 14.9%) montrent que l'examen minutieux suscité par l'anxiété peut transformer les étudiants en utilisateurs plus délibérés et autorégulés de l'[[generative-ai|IA générative]], plutôt qu'en adoptants passifs. Cela recadre l'anxiété face à l'IA, d'un obstacle vers un signal potentiellement utile qui encourage un examen plus attentif.
 
-
 Ce recadrage a une frontière dans la prise de parole : parmi 708 [[multilingual-learning|apprenants d'anglais]], le lien entre anxiété à l'oral et disposition à communiquer valait −0.371 à faible sentiment d'efficacité personnelle à l'oral, mais +0.137 à fort sentiment, avec seulement 55 participants (7.8%) au-dessus du seuil supérieur de Johnson–Neyman ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - Les [[acceptance-ai-english-tools-2026|études sur l'acceptation]] montrent que l'anxiété façonne le point de savoir si les apprenants adoptent les outils d'IA, et la [[teacher-education-ai-literacy-sdt-2026|recherche sur la formation des enseignants]] relie l'anxiété face à l'IA à la motivation et à l'[[self-regulated-learning|autorégulation]].
 - **Le dilemme de la divulgation.** Dans une enquête menée auprès de 409 étudiants de premier cycle, l'aisance avec les enseignants et la divulgation perçue des pairs — et non le désengagement moral — étaient les plus forts prédicteurs de la divulgation de l'usage de GenAI, et la non-divulgation se lisait comme une adaptation stratégique aux normes des pairs et à une faible confiance interprétative, plutôt que comme une négligence ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]]).
@@ -83,9 +84,7 @@ par réseau de neurones artificiel classait le sentiment d'efficacité personnel
 qu'un encouragement institutionnel visant l'anxiété ne produit d'effet que s'il change ce que les étudiants croient de leur propre capacité et de
 l'utilité de l'outil ; une réassurance générale ne modifie pas les appréciations qui génèrent l'anxiété.
 
-
 L'IA peut aussi soulager l'anxiété académique en faisant progresser les objectifs d'apprentissage plutôt qu'en réassurant : dans une enquête menée auprès de 721 étudiants en médecine et une expérience portant sur 398 d'entre eux, une plus grande capacité perçue de l'assistant prédisait un plus grand progrès vers les objectifs d'étude, lequel prédisait une anxiété académique plus faible et une meilleure santé mentale ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]]).
-
 
 La compétence n'est pas un tampon complet, cependant : parmi 551 étudiants chinois de première année, la pression d'usage de l'IA [[self-report-measures|auto-déclarée]] affaiblissait le lien entre la compétence en IA et l'adaptation psychologique, la pente allant de la compétence en IA à l'adaptation tombant de 0.42 sous faible pression à 0.20 sous forte pression ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
@@ -102,10 +101,8 @@ Une dimension distincte et de plus en plus étudiée est l'**anxiété de carri�
 
 - **L'adaptabilité de carrière est un facteur de protection.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] montre que les capacités d'adaptation de carrière prédisent significativement et négativement l'anxiété face à l'IA parmi les étudiants en anglais, les auto-évaluations fondamentales médiatisant partiellement la relation ; le groupe à faible adaptabilité présentait l'anxiété face à l'IA la plus élevée.
 
-
 - **La menace et l'appréciation favorable coactivées dans un même profil.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] ont trouvé un groupe au-dessus de la moyenne de l'échantillon sur les six indicateurs à la fois — anxiété d'usage de l'IA 1.521 et conscience de STARA 0.951 aux côtés de la qualité perçue 1.753 — si bien qu'une anxiété élevée ne signalait pas une appréciation négative de la technologie.
 - **L'anxiété face à l'IA nuit aux décisions de carrière.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] recourent à la modélisation par équations structurelles pour montrer que l'anxiété face à l'IA prédit directement et négativement les décisions de carrière, et ce largement en sapant l'**adaptabilité de carrière** (qui rend compte de 63.35% de l'effet total) ; le [[self-efficacy|sentiment d'efficacité personnelle]] n'offrait qu'un tamponnement limité.
-
 
 - **L'état d'esprit de croissance borne le chemin de la menace à l'employabilité.** Parmi 526 étudiants de premier cycle chinois, la perception d'une menace pour l'emploi liée à l'IA prédisait une anxiété de décision de carrière plus élevée, en partie en abaissant l'employabilité perçue, et le lien de la menace à l'employabilité ne se maintenait qu'à faible état d'esprit de croissance (b = −0.229) et pas à fort (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]]).
 - **L'anxiété face à l'IA prédit l'anxiété de recherche d'emploi à grande échelle.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 étudiants) et [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 étudiants en sciences de la santé) constatent que l'anxiété face à l'IA et les attitudes négatives envers l'IA prédisent l'anxiété de recherche d'emploi, les femmes, les étudiants en sciences sociales et les étudiants à faible revenu étant les plus affectés.
@@ -140,57 +137,3 @@ Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, ps
 - **« L'anxiété face à l'IA est purement nuisible. »** Cette anxiété **n'est pas purement négative** : [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] constate que **l'anxiété face à l'IA peut être productive**, une anxiété plus élevée étant associée à une régulation plus stratégique. L'anxiété fonctionne comme un signal à examiner plutôt que seulement comme un fardeau.
 - **« Tous les étudiants anxieux réagissent de la même manière. »** Les **quatre types de régulation de Kim — recours non critique 18,7 %, intégration sélective 34,6 %, transformation évaluative 31,8 %, rejet stratégique 14,9 %** — montrent que l'examen critique suscité par l'anxiété produit **quatre** schémas distincts. Une intervention visant « les étudiants anxieux » manque le fait que le plus grand groupe unique intègre de façon sélective.
 - **« L'anxiété supprime toujours la participation. »** Ce recadrage a une **limite du côté de la parole** : chez **708 apprenants de l'anglais**, le lien entre anxiété de parole et volonté de parler allait de **-0,371 à faible auto-efficacité de parole à +0,137 à forte**. L'anxiété peut accompagner la volonté de parler lorsque l'auto-efficacité est élevée, si bien que le sens de l'effet dépend de la confiance.
-
-## Concepts liés
-- [[career-development-and-readiness]] — la préparation à la carrière comme facteur de protection contre l'anxiété face à l'IA
-- [[well-being]] — le large parapluie que ce concept développe en profondeur
-- [[remote-proctoring]] — la source principale du stress de surveillance et de fausse accusation
-- [[social-emotional-learning]] — les compétences émotionnelles en jeu
-- [[affective-computing]] — l'IA qui lit l'état émotionnel
-- [[affective-tutoring]] — l'IA qui répond à l'affect
-- [[academic-integrity]] — la dimension intégrité et accusation de triche
-- [[privacy]] — la préoccupation de surveillance qui sous-tend le stress de la surveillance des examens
-- [[student-experience]] — l'anxiété comme part de l'expérience de l'apprenant
-- [[motivation]] — l'effet de l'anxiété sur l'adoption et l'engagement
-- [[self-regulated-learning]] — le lien avec l'anxiété productive
-- [[ai-literacy]] — bâtir la capacité qui réduit l'anxiété non fondée
-- [[equity-in-ai-education]] — stress disproportionné sur les étudiants vulnérables
-- [[ethics]] — l'équité de la surveillance et des fausses accusations
-- [[teacher-role]] — l'anxiété du côté des éducateurs
-- [[assessment]] — l'anxiété liée à l'évaluation médiée par l'IA
-- [[social-norms-ai-use]] — le coût affectif de la visibilité
-
-## Articles liés
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Un agent ressemblant à un examinateur a élevé en même temps la performance à l'oral et l'anxiété
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La compétence élève la conscience éthique, la conscience éthique élève l'anxiété face à l'IA : médiation exclusivement indirecte parmi 584 étudiants
-- [[ai-anxiety-strategic-regulation-writing-2026]] — L'anxiété face à l'IA comme signal productif de régulation stratégique
-- [[aivaluate-anxiety-assessment-2026]] — L'anxiété des étudiants dans l'évaluation de performance médiée par l'IA
-- [[ai-campus-wellbeing-tools]] — Outils de bien-être sur le campus pilotés par l'IA
-- [[affective-text-wearable-student-health]] — Texte affectif et détection par objets connectés pour la santé des étudiants
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Surveillance automatisée des examens, anxiété des candidats, fausses accusations
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revue d'une décennie de surveillance automatisée des examens en ligne
-- [[moral-panic-genai-classroom]] — L'anxiété des enseignants et la panique morale au sujet de GenAI
-- [[acceptance-ai-english-tools-2026]] — L'anxiété qui façonne l'acceptation des outils d'IA
-- [[teacher-education-ai-literacy-sdt-2026]] — Formation des enseignants, littératie en IA et anxiété
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — L'usage de l'IA entrelacé avec l'anxiété, la confiance et l'assurance
-- [[qu-wang-disclose-or-not-genai-2026]] — Le dilemme de la divulgation comme source de stress étudiant
-- [[kim-ai-anxiety-comprehensive-analysis]] — Analyse complète de l'anxiété face à l'IA et des interventions
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Les capacités d'adaptation de carrière réduisent l'anxiété face à l'IA
-- [[duan-ai-anxiety-career-decisions-college-2026]] — L'anxiété face à l'IA nuit aux décisions de carrière par l'adaptabilité de carrière
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — L'anxiété face à l'IA et les attitudes prédisent l'anxiété de recherche d'emploi
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — L'anxiété face à l'IA prédit l'anxiété de recherche d'emploi en sciences de la santé
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Expériences et perceptions de l'IA générative chez les enseignants universitaires : vulnérabilité, reprise en main de l'évaluation, apprentissage des étudiants en danger (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — Un agent conversationnel culturellement conscient piloté par l'IA pour la détection du stress et le soutien au bien-être chez les étudiants universitaires pakistanais, par le TAL et l'apprentissage automatique
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Le soutien scolaire perçu abaisse l'anxiété d'apprentissage liée à l'IA principalement par les appréciations de contrôle-valeur (69.5% médiatisé) ; validation croisée par réseau de neurones artificiel (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Le complexe de culpabilité liée à l'IA : culpabilité anticipée excédant le remords postérieur à l'usage parmi le personnel académique (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Enquête AAC&U/Elon auprès de 1,057 enseignants américains : prévisions de recours excessif, de préoccupation d'intégrité et d'un rôle diminué du corps professoral (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — De la crainte à la curiosité : un institut de six semaines faisant traverser aux enseignants la menace identitaire (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les sentiments d'imposteur et l'inconfort éthique des développeurs académiques comme travail affectif dans le travail médié par l'IA
-- [[parlant-emotional-micro-interventions-2026]] — Micro-interventions émotionnelles en temps réel du côté de l'enseignant, ancrées dans la théorie de l'appréciation cognitive
-
-- [[ai-employment-threat-career-anxiety-2026]] — La menace pour l'emploi liée à l'IA et l'anxiété de décision de carrière : l'employabilité perçue médiatise et l'état d'esprit de croissance modère
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — La pression d'usage de l'IA affaiblit le lien entre compétence en IA et adaptation en première année
-- [[ai-attitude-latent-profiles-career-development-2026]] — Un profil élevé à la fois sur l'anxiété face à l'IA et sur la qualité perçue de l'IA, et non sur l'une ou l'autre
-- [[ai-speaking-practice-communicative-readiness-2026]] — Le lien de l'anxiété à l'oral avec la disposition à communiquer s'inverse à fort sentiment d'efficacité personnelle à l'oral
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — L'intelligence perçue de l'assistant d'IA abaisse l'anxiété académique par le progrès vers les objectifs d'étude (étudiants en médecine)

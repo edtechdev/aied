@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -78,54 +80,3 @@ ai_assist:
 - **«تسوّي مساعدة الذكاء الاصطناعي الفارق في البيئات محدودة الموارد.»** قد تفعل ذلك بشروط. فشبه تجربة مدتها 14 أسبوعًا مع 103 طلاب جامعيين في سنتهم الأولى في نيجيريا وجدت أن التعلّم القائم على المسائل المدعوم بالذكاء الاصطناعي (ChatGPT وTeachable Machine) أنتج مكاسب، وأن الذكاء الاصطناعي بوصفه «نظيرًا أكثر قدرة» يحمل التفكير الحاسوبي حيث تغيب أشكال الدعم الأخرى. لكن ذلك نتيجة عن تدخّل منظّم، لا خاصية من خصائص إعطاء الطلاب [[conversational-ai|روبوت محادثة]].
 - **«لا تستطيع النماذج اللغوية الكبيرة تقويم التفكير الحاسوبي تقويمًا موثوقًا.»** وجد [[llm-computational-thinking-physics-2026|بحث تقويم التفكير الحاسوبي في الفيزياء]] أن النماذج اللغوية الكبيرة تستطيع محاكاة المقيّمين البشر في تصحيح النمو في ممارسات البيانات وممارسات حل المسائل الحاسوبية عبر مقررات كبيرة الانتساب. فالعائق أمام توسيع تقويم التفكير الحاسوبي كان سعة المقيّمين، وهذا القيد يلين — وهو ما ينقل مشكلة التصميم إلى ما إذا كانت الأداة تقيس التفكير الحاسوبي أم الامتثال.
 - **«التفكير الحاسوبي مهارة برمجية تصادف أن الروبوتات تعليمها.»** يؤكد [[meta-analysis-systematic-review|استعراض منهجي]] لـ95 دراسة أن الروبوتات تعزّز التفكير الحاسوبي والإبداع وحل المسائل، لكنه يؤكد أيضًا أن السياق يعدّل النتيجة: فتقديم [[game-based-learning|التعلّم القائم على الألعاب]] يناسب البيئات غير النظامية بينما يختلف التلعيب في البيئات النظامية. فالتفكير الحاسوبي مجموعة ممارسات تنتقل انتقالًا غير متكافئ، لذا يحتاج ادعاء الانتقال إلى تصميم المهمة الذي استُخدم فعلًا.
-
-## مفاهيم مترابطة
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## مقالات مترابطة
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: سير عمل قابل لإعادة الإنتاج ليتمكّن العلماء غير المبرمجين من تنفيذ نماذج ذكاء اصطناعي منشورة

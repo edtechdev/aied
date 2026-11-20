@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,7 +44,3 @@ Oktatóknak és tanulástervezőknek való, akik behatárolt, ismételhető inte
 ## Megjegyzések és fenntartások
 
 Az ingyenes szint 10 000 MI-kreditre és három alkalmazásra korlátozódik; a korlátlan alkalmazások és a fejlett modellek a Pro szinten kezdődnek, az LTI-integráció, az egyszeri bejelentkezés és a fejlett analitika pedig az Enterprise szinten szerepel, így azok a funkciók, amelyekre egy intézménynek leginkább szüksége van, azok, amelyek árat viselnek. A repó a `LICENSE` fájlja szerint **AGPL-3.0** licenc alatt áll, ami mindenkinek számít, aki saját hosztolást vagy módosítást tervez, a README-je viszont még a változás előtti LGPL-t említi, ezért a licencfájlt olvassa, ne a README-t. Az intézményeknek saját adatfeldolgozási feltételeiket is meg kell erősíteniük, mielőtt diák munkáját hosztolt harmadik féltől származó szolgáltatáson keresztül vezetik át.
-
-## Kapcsolódó fogalmak
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

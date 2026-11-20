@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -60,7 +62,6 @@ ai_assist:
 
 - **জ্ঞান-উপাদানের সূক্ষ্মতা নিজেই একটি মডেলিং-সিদ্ধান্ত।** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny ও Meurers (2026)]] ভাষা-টিউটরিং শ্রেণিবিন্যাসের 11টি স্তর জুড়ে 19টি জ্ঞান-উপাদান মডেল তুলনা করেন 1,059 জন সপ্তম-শ্রেণির শিক্ষার্থীর 153,819টি প্রথম-প্রচেষ্টা প্রতিক্রিয়ায়। বিজয়ী নির্ভর করে পূর্বানুমান-লক্ষ্যের ওপর: সূক্ষ্ম Actionable Element ID শিক্ষার্থী-ব্লকড পূর্বানুমানে এগিয়ে (RMSE 0.4083), আর অর্থগতভাবে ভিত্তিপ্রাপ্ত Property ID + Exercise Type আইটেম-ব্লকড পূর্বানুমানে এগিয়ে (RMSE 0.4243)। সূক্ষ্ম শনাক্তকারীরা প্রায়-শূন্য গড় শিখন-হারও দেখিয়েছে (Actionable Element ID 0.000)।
 
-
 ### অন্যান্য ধারণার সঙ্গে সম্পর্ক
 
 নলেজ ট্রেসিং [[student-modeling]]-এর সঙ্গে ঘনিষ্ঠভাবে সম্পর্কিত — নলেজ ট্রেসিং বিশেষভাবে সময়ের সাথে জ্ঞানীয় জ্ঞান মডেল করে, আর শিক্ষার্থী-মডেলিং হলো শিক্ষার্থীর সব দিক ([[affective-computing|আবেগগত]] অবস্থা, [[student-engagement|নিবিষ্টতা]], পছন্দ) উপস্থাপনের বৃহত্তর চর্চা। নলেজ ট্রেসিং [[adaptive-learning]] ও [[personalized-learning]] ব্যবস্থায় খাদ্য জোগায়, যাদের জানা দরকার এরপর কী শেখাতে হবে, এবং [[intelligent-tutoring]] প্ল্যাটফর্মেও, যারা উপযুক্ত সমস্যা বাছতে দক্ষতা-অনুমান ব্যবহার করে। এটি ড্যাশবোর্ড ও হস্তক্ষেপ-নকশার জন্য [[learning-analytics]]-এর সঙ্গে যুক্ত, এবং [[cognitive-diagnosis]]-এর সঙ্গে — সূক্ষ্ম দক্ষতা-[[assessment]]-এর জন্য। নলেজ-ট্রেসিং-এর নির্মাণগুলো [[simulating-students|সিমুলেটেড শিক্ষার্থীদেরও]] পথ দেখায় — একজন সিমুলেটেড শিক্ষার্থীর জ্ঞানীয় অবস্থা প্রায়ই সেই একই দক্ষতা/ক্ষয় গতিবিদ্যা দিয়ে প্রচারিত করা হয় যা নলেজ ট্রেসিং মডেল করে, তাই [[simulation]] হলো সেই জ্ঞান-অবস্থাগুলো *উৎপন্ন করার* একটি উপায় যা ট্রেসিং পদ্ধতি সাধারণত বাস্তব প্রতিক্রিয়া-উপাত্ত থেকে *অনুমান* করে।
@@ -70,7 +71,6 @@ ai_assist:
 **একটি সতর্কতা: দক্ষতা মানেই সঠিকতা নয়।** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ও Stamper (2026)]] দেখান যে BKT-এর দ্বি-অবস্থা (শেখা/অশেখা) ধারণা *প্রতারণামূলক অতিসাধারণীকরণ* দ্বারা লঙ্ঘিত হতে পারে — শিক্ষার্থীরা দক্ষ দেখাতে পারে, অথচ কোনো লুকানো প্রয়োগ-শর্ত লঙ্ঘিত হলে পদ্ধতিগতভাবে একটি দক্ষতা ভুলভাবে প্রয়োগ করে। এটি যুক্তি দেয় শর্তসাপেক্ষ বোঝাপড়া ট্রেস করার পক্ষে (*কখন একটি কাজ থেকে বিরত থাকতে হবে* জানা), কেবল কাজের সঠিকতা নয়, যখন দক্ষতা-অনুমান [[adaptive-learning|অভিযোজিত]] থামার নিয়ম চালায়।
 
 **একটি ন্যায্যতা-সতর্কতা: অ-মডেলকৃত দক্ষতা ট্রেস করা অবস্থাকে গোটা গোষ্ঠীর বিরুদ্ধে পক্ষপাতদুষ্ট করে।** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar প্রমুখ (2026)]] দুই বিদ্যালয়-বছর জুড়ে 8,549 শিক্ষার্থীর MATHia লগে বায়েসীয় জ্ঞান-ট্রেসিংকে সামগ্রিকভাবে কেবল হালকা পক্ষপাতদুষ্ট পান — পরিসংখ্যানগত সমতা −0.077 (2021–2022) ও −0.066 (2022–2023) — পাঠ-নিবিড় দক্ষতায় অনেক বড় ফাঁক সত্ত্বেও। বিশম প্রভাব ছিল 0.885 ও 0.878, এবং পড়া-গোষ্ঠী জুড়ে ক্রমাঙ্কন-পার্থক্য ছোট আকার সত্ত্বেও উল্লেখযোগ্য (.0046 ও .0054)। ক্ষতি কেন্দ্রীভূত হয় দক্ষতা-স্তরে: বিশ্লেষিত 50টি দক্ষতার 36টি উদীয়মান পাঠকদের বিরুদ্ধে পক্ষপাতদুষ্ট, যার শীর্ষে পাঠ-নিবিড় "apply exponent" মডেল পরিসংখ্যানগত সমতা −0.262 ও বিশম প্রভাব 0.609 নিয়ে।
-
 
 **একটি সম্পৃক্ত সতর্কতা *কীভাবে* ট্রেসিং মডেল যাচাই হয় বনাম প্রয়োগ হয় তা নিয়ে।** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan ও Carvalho (2025)]] একটি বহু-অধিবেশন ধারাবাহিক-পুনঃশিখন উপাত্তসেটে BKT, BKT-with-Forgetting ও Additive Factors Model ফিট করেন এবং পান যে সব অধিবেশনে পশ্চাৎগামীভাবে ফিট করলে তারা শেখার প্রবণতা পুনরুৎপাদন করে (গ্রহণযোগ্য AUC ≈ 0.74-0.79); কিন্তু **সময়ভিত্তিক ক্রস-ভ্যালিডেশন**-এর অধীনে — এক অধিবেশনে প্রশিক্ষণ দিয়ে পরেরটি পূর্বানুমান, যা বাস্তব প্রয়োগের পরিস্থিতি — তিনটিই ভবিষ্যতের পারফরম্যান্স প্রায় 47-58% অতিরিক্ত অনুমান করে, [[retrieval-spacing-interleaving|স্পেসিং প্রভাব]] ধরতে ব্যর্থ হয়, আর এমনকি অনুশীলন-শর্তগুলোর ভুল ক্রমবিন্যাসও পূর্বানুমান করতে পারে। তাৎপর্যপূর্ণভাবে, সুস্পষ্ট বিস্মরণ-ব্যবস্থা *ছাড়া* মডেলগুলো অধিবেশন জমতে থাকলে বিস্মরণ-সমৃদ্ধ সংস্করণগুলোর প্রায় সমান ভালো ফল করেছে, যা ইঙ্গিত দেয় বিস্মরণ আংশিকভাবে অন্য প্যারামিটারে (যেমন AFM-এ প্রতি-শিক্ষার্থী ইন্টারসেপ্ট) শোষিত হয়েছে, সত্যিকারভাবে মডেল হয়নি। লেখকরা এটিকে শেখা-বনাম-পারফরম্যান্স পার্থক্যের সঙ্গে যুক্ত করেন: জনপ্রিয় মডেলগুলো তাৎক্ষণিক উচ্চ পারফরম্যান্সকে দীর্ঘমেয়াদি ধারণের উচ্চ সম্ভাবনার সঙ্গে গুলিয়ে ফেলে। ব্যবহারিক অনুবাদ হলো — যে ট্রেসার পশ্চাৎগামী ফিটে ভালো দেখায়, সে তার দক্ষতা-অনুমান ভোগকারী অভিযোজিত ব্যবস্থাগুলোকে বিভ্রান্ত করতে পারে, যা walk-forward মূল্যায়ন এবং ধারণ-ব্যবধান, স্পেসিং ও অধিবেশন-মধ্যবর্তী বিস্মরণ হিসাব করা মডেলের পক্ষে যুক্তি দেয়।
 
@@ -107,39 +107,3 @@ ai_assist:
 
 - স্থাপত্যিক শ্রেষ্ঠত্বের দাবি করার আগে একাধিক উপাত্তসেট-পরিবারে ফল প্রতিবেদন করুন, কারণ OKT-র বৈপরীত্য ইঞ্জিনিয়ারিং LMS উপাত্ত ও ASSISTments-এর মধ্যে উল্টে যায়।
 - দক্ষতা-গণনার নিয়মকে পদ্ধতিগত পাদটীকা নয়, ফলের একটি প্যারামিটার হিসেবে প্রতিবেদন করুন।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — সূক্ষ্ম দক্ষতা-অনুমান যা সহায়তা-সিদ্ধান্তে খাদ্য জোগায়
-
-## সংযুক্ত নিবন্ধ
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — প্রতারণামূলক অতিসাধারণীকরণ: অভিযোজিত দক্ষতা অনুশীলন থামিয়ে দিতে পারে শিক্ষার্থীরা কখন একটি কাজ থেকে বিরত থাকতে হবে তা জানার আগেই (An, McLaren ও Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — গতিশীল ডোমেইনের জন্য গ্রাফভিত্তিক বুদ্ধিদীপ্ত টিউটরিং (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity ম্যাপিংসহ ফলাফলভিত্তিক নলেজ ট্রেসিং
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — KC-ক্রমাঙ্কিত অবস্থাসহ অর্থভিত্তিক ট্রেসিং, সুপারিশের জন্য RL পরিবেশ হিসেবে ব্যবহৃত
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: মানব-এআই সহ-শেখার চক্রে নিজের শিক্ষার্থীকে শেখা একটি এজেন্টিক টিউটর
-- [[crediting-assisted-work-inflates-mastery-2026]] — কোন প্রমাণ-নিয়ম দক্ষতার দাবি নির্ধারণ করে (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — একটি একক-পাস LLM 8 শিক্ষার্থীর উপর প্রশিক্ষিত ডিপ মডেলের উপরে জ্ঞান ট্রেস করে, খরচের ভগ্নাংশে (Lee ও Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — গণিত নলেজ ট্রেসিংয়ে শিক্ষার্থী-ইতিহাস সংকুচিত করা

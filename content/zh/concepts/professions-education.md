@@ -18,6 +18,8 @@ ai_assist:
 translation_of: concepts/professions-education
 source_updated: "2026-11-16T22:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -66,34 +68,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 **"模拟可以替代实习。"** 模拟在受控条件下排练一个既定情境，综述之所以发现它是最领先的应用，正因为它有边界。它提供不了的，是监督之所以存在的、无脚本的判断。
 
 **"检测 AI 使用就能解决认证问题。"** 检测回答的是是否使用了工具，而不是候选人能否执业，而护理文献已经显示，项目之所以选择监考，是因为它们无法回答第二个问题。
-
-## 关联概念
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## 关联文章
-
-- [[llm-turing-test-italian-legal-exams-2026]] —— 对意大利律师、法官与公证人考试的盲测图灵测试，以专家评分为基准
-- [[gutowski-hurley-genai-policy-legal-education-2025]] —— 法学院生成式 AI 政策的五因素比较与治理框架
-- [[hardie-genai-nursing-scoping-review-2026]] —— 103 项研究的范围综述，覆盖护理教育中的应用、态度与伦理
-- [[sun-llm-nursing-education-professional-identity-2026]] —— LLM、结构性缺口与职业身份的重构
-- [[dabkowski-nursing-academics-genai-2026]] —— 政策模糊、专业价值观与向有监考评估的漂移
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] —— 护理评估中的远程监考：监控、公平与威慑
-- [[genai-medical-education-transformation-review-2026]] —— 153 份医学教育生成式 AI 报告的范围综述
-- [[virtual-standardized-patients-osce-evaluation-2026]] —— 基于 LLM 的虚拟标准化病人对照 OSCE 实践的分层多评分者评估
-- [[giancotti-data-provenance-health-ai-curricula-2026]] —— 健康 AI 课程教授伦理（80.6%），却很少教授数据来源（22.2%）
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] —— 85 名师范生：浅层生成式 AI 采用、诚信焦虑、评估素养
-- [[shukla-ai-teacher-education-frameworks-review-2026]] —— 教师教育中的 AI：框架、实证证据与伦理
-- [[critsly-design-education-ai-critique-2026]] —— AI 评论工具读懂过程而非产出
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] —— 高校图书馆中的 AI 采用：一项系统综述

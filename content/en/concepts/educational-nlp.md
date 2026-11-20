@@ -7,6 +7,8 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 reviewed_by: [editor]
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 > **Educational NLP** applies language [[ai-technologies|technologies]] to learning: [[llm-item-difficulty-prediction|Wang et al. (2026)]], [[teaching-feedback-classification-benchmark|Vega (2026)]], [[llm-sentiment-analysis-education-research|Gonzalez et al. (2026)]], and [[vocabulary-difficulty-prediction|Nohejl et al. (2026)]] show LLMs advancing analysis of student language at scale ([[educational-measurement|educational measurement]], educational-nlp).
@@ -63,39 +65,3 @@ Model compression belongs to the same toolkit: a two-stage pipeline distills a f
 - **"Semantic similarity can screen curriculum alignment."** Screening **3,837 dental objective-abstract pairs**, embedding retrieval plus a natural language inference check **judged 22.9% of items** as aligned — semantic similarity is a **weak signal** for alignment. A fluent topical match and a genuine learning-objective match are different relations.
 - **"Utterance-level classification is the natural unit."** **Whole-lesson modelling beats utterance-level classification**: scoring entire transcripts rather than isolated utterances **lifted reasoning-chain detection by 14.2 percentage points**. Context across the lesson carries information that any single turn destroys.
 - **"Scaling NLP on evaluation comments produces impact."** A PRISMA-ScR scoping review and evidence map of **421 studies** (2015-2026) applying NLP to open-ended student evaluation of teaching found scaling **without reaching use**. Volume of method output is not adoption, and the gap is the deployment step rather than the modeling.
-
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Connected Articles
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding clusters that organize by wording rather than physics
-- [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) codes teachers' content and pedagogical content knowledge; classical encoders and naive prompting fall short on PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

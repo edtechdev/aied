@@ -9,6 +9,8 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 > **Inquiry-based learning (IBL)** — a learner-centered [[pedagogy|pedagogy]] in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor [[scaffolding|scaffolding]] rather than lecturing. In the AI era, IBL's question-driven, exploration-centered structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
@@ -54,7 +56,6 @@ One study substitutes the facilitator rather than adding a tool beside them. In 
 
 In outdoor field settings the same imperative becomes spatial: GenAI can pre-structure what learners notice before they encounter the evidence, so a field-first sequence that withholds generated explanation until observations and initial interpretations are recorded protects the inquiry ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
 
-
 **A 66-study map places generative AI beside investigation and least often at orientation.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] coded GenAI use onto the five inquiry phases and found support reported most often in investigation (45 studies, 68.2%), then conclusion (29, 43.9%), discussion (28, 42.4%) and conceptualization (27, 40.9%), with orientation last (20, 30.3%). Eleven studies covered all five phases, 19 covered one and nine named none. Only 8 studies (12.1%) measured inquiry skills, and 4 of those had a comparison condition, so this is a map of where tools were placed rather than what inquiry gained.
 
 ## Common Misconceptions
@@ -66,39 +67,3 @@ In outdoor field settings the same imperative becomes spatial: GenAI can pre-str
 **"Inquiry is unstructured by definition."** The instructor scaffolds, and the structure is in the question design and the reflection cycle rather than in the delivery of content. Removing the scaffold does not make the inquiry more authentic; it makes it unscaffolded.
 
 **"Student-led questions will be well-formed if students are interested."** Generating a tractable question is the skill being developed, which is why a system that supplies good questions has performed the inquiry skill the activity exists to teach.
-
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Productive Failure
-
-## Connected Articles
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Human facilitator versus AI-mediated problem-based learning: equal content gains, weaker critical thinking without the facilitator (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66-study map of generative AI across the five inquiry phases, with only 8 studies measuring inquiry skills

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -86,47 +88,3 @@ OmniEdu صرف ویٹس کے بجائے پوری پائپ لائن جاری کر
 **"بند سرکردہ ماڈل سیدھے بہتر ہیں، اس لیے کھلے متبادل محض بیک اپ ہیں۔"** فرق اس مفروضے سے کم ہے۔ [[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark]] (CDPK + SEND، چلی کے اصل اساتذہ امتحانی سوالات سے بنا) میں 97 ماڈلوں پر، اوپن ویٹ **DeepSeek R1 86.65%** تک پہنچا، جبکہ اولین دس زیادہ تر بند استدلالی ماڈلوں پر مشتمل تھے — اور لاگت–درستگی کا موازنہ کھلی سمت میں مزید آگے جاتا ہے۔ چنانچہ کھلے پن کی باقی دلیل کنٹرول اور قابلِ آڈٹ ہونے کے بارے میں ہے، صلاحیت کی قربانی کے بارے میں نہیں۔
 
 **"ویٹس جاری کرنا کام جاری کرنا ہے۔"** مضبوط کھلی شراکتیں پائپ لائن جاری کرتی ہیں۔ OmniEdu صرف حتمی ویٹس کے بجائے 69,999 مثالوں کے آمیزے پر صلاحیت کے لحاظ سے متوازن نگرانی شائع کرتا ہے، اور کھلے 4B/9B/27B K–12 خاندان کے ہر پیمانے کو بلند کرتا ہے، جہاں فائن ٹیون شدہ 4B ماڈل نے MathTutorBench [[scaffolding|سکافولڈنگ]] کارکردگی میں **55 پوائنٹس** حاصل کیے؛ [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] بھی اپنے RL اور فائن ٹیوننگ کے طریقہ کار کو دستاویز کرتا ہے، بشمول 440 کھودے گئے سخت منفی نمونے اور 40,000 پیدا کردہ جوابات۔ ترکیب کے بغیر ویٹس نتیجہ دہراتے ہیں مگر طریقہ نہیں۔
-
-## منسلک تصورات
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## منسلک مضامین
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — صارفین کے ہارڈ ویئر پر آن پریمیس OER AI نالج بیس معاون (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — CC BY OpenStax مواد لائبریری کے ساتھ MIT لائسنس والا موافق ٹیوٹر (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — اوپن 32B پیداگوجیکل ماڈل جو کہیں بڑے ملکیتی نظاموں سے بہتر (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — فوری چلنے والا، FERPA کے مطابق مقامی-LLM آٹو گریڈر
-- [[programming-its]] — Python ITS میں GDPR/EU AI Act تعمیل کے لیے خود میزبان اوپن ویٹ LLM
-- [[aiawe-automated-writing-evaluation]] — خودکار تحریری جانچ کے لیے LoRA سے موافق اوپن ویٹ ماڈل
-- [[stanbkt-bayesian-knowledge-tracing]] — مکمل Bayesian نالج ٹریسنگ کے لیے کھلا Python پیکیج
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — سیکھنے والے کی میموری کے ساتھ مکمل اوپن سورس ایجنٹک ٹیوٹرنگ فریم ورک
-- [[vismatic-secure-sandbox-cs-education]] — عمل پر مبنی جانچ کے لیے کھلا کنٹینرائزڈ سینڈ باکس
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — کھلے کوڈ بیس کے ساتھ جذباتی ریاضی ٹیوٹر
-- [[cdpk-pedagogy-benchmark-llms]] — 97 ماڈلوں پر پھیلا کھلا پیداگوجی بینچ مارک اور لاگت–درستگی کی سرحد
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ٹریس پر مبنی کثیر ایجنٹ ٹیوٹرنگ جانچ کے لیے کھلا ڈیٹا سیٹ اور پروٹوٹائپ
-- [[mllm-scientific-visualization-literacy]] — بصریات کی خواندگی پر انسانی بنیاد سے نیچے اوپن ماڈل
-- [[iks-instruct-dataset-indian-knowledge]] — ثقافتی بنیاد والی ہدایات کے لیے کھلا کثیر لسانی ڈیٹا سیٹ
-- [[aied-carbon-footprint-reporting]] — LLM کے ماحولیاتی خرچ کی رپورٹنگ کا اوپن سورس طریقہ
-- [[egai-power-systems-education]] — انجینئرنگ AI کے لیے کھلی قابلِ عمل ماڈیول لائبریری
-- [[mooc-to-maic]] — LLM سے چلنے والی کورس سازی اور کورس پیداوار کی بدلتی معاشیات
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: سیکھنے اور سکھانے کے لیے کھلے بنیادی ماڈل

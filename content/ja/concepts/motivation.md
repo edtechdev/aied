@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -91,58 +93,3 @@ ai_assist:
 - **「生成AIの動機づけへの効果は、きれいで大きな利得である。」** 42研究のメタアナリシス（56効果量、6,059人の学生）は動機づけへの効果を g = 0.764（95% CI [0.566, 0.962]）と見出しましたが、**I² = 93.7%** でした。これほど高い異質性は、プールされた数値が互いに一致しない研究の集合を記述していることを意味し、それは一貫しない処置にわたる平均であって、再現可能な効果ではありません。
 - **「フラストレーションを減らすことは、動機づけを持続させることと同じである。」** 三群の[[rct|RCT]]は、足場づけられたチューターと制限のないChatGPTが**フラストレーションを等しく減らした**ことを見出しました（3.21と3.13）。二つの非常に異なる設計が同じ情動的な結果を生んだため、フラストレーションのデータはそれらを区別できません。
 - **「動機づけるデザインは、良いデザインである。」** **222人の高校1年生**において、教員から教員への対話形式は代替よりも**ARCS動機づけを高く**しながら、**全体的な評価を改善しませんでした**。動機づけは動き、判断された質は動きませんでした。
-
-## 関連する概念
-
-- [[learners]] — 学習者：学習者側の概念を束ねる上位概念
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — 社会情動的学習
-- [[reflection]]
-
-## 関連する記事
-- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — AI文脈における学習価値と学習自己効力感を測る2つの簡潔な尺度と、それらが予測するもの
-- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI受容の先行要因としての期待価値信念
-- [[liu-ai-assistance-reduces-persistence-2026]] — 短時間のAI利用が、その後の補助なしの問題に取り組む際の粘り強さを低下させた(Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 議論的文章に対する自動フィードバック:中等教育段階の生徒のフィードバック受容性とフィードバック知覚の役割
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 努力のパラドックスと、摩擦のない支援の悪循環
-- [[cui-motivation-roles-metacognitive-genai-2026]] — メタ認知的なGenAIエンゲージメントにおける動機づけと役割
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — ジェンダー、動機づけ、GenAI達成の軌跡
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAIカリキュラム設計のための教員デジタルコンピテンスの評価(Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — AIで教育の未来を形づくろうとする動機づけ
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者特性×TTS対話形式の交互作用
-- [[student-perceptions-ai-study-productivity-2026]] — 学習の生産性と学習のための人工知能ツールに対する学生の認識:探索的調査研究
-- [[liang-ai-learning-motivation-sdt-2026]] — 学生のAI学習動機づけに関するSDT潜在移行分析(中等教育段階の生徒2,086名)
-- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論:AI支援英語学習における教師のサポート、達成目標、エンゲージメント(中国人学生758名)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAIで責任ある指導を学ぶ過程における実用価値介入の効果(Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等教育のL2向けGenAIライティングプログラムにおける構成概念ごとの動機づけの向上(Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR尺度:読書中にAIを頼る4つの動機群
-- [[genai-math-relevance-intervention-2026]] — GenAIとの関連性対話は「同一化としての関連性」を高めたが、授業への興味は横ばいだった
-- [[genai-learning-motivation-meta-analysis-2026]] — GenAIが学習動機づけに及ぼす効果のランダム効果メタ分析(効果量56件、学生6,059名)
-- [[ai-student-motivation-scoping-review-2026]] — AIと学生の動機づけに関する156件の研究:85.3%が動機づけ理論を用いておらず、構成概念・教育段階・国のいずれにおいても対象範囲が狭い
-- [[gai-advocacy-practice-art-education-2026]] — GAI推進における政策と実践のギャップは、学生が認知的評価を行うストレス源として作用する
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — スキャフォールド付きチューターは内発的動機づけを高めたが、無制限のChatGPTは高めなかった
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 品質を揃えたAIフィードバックと教員フィードバック:動機づけの差は関係性を介して生じる(Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39件の研究を対象としたSDTに基づくレビュー：欲求とエンゲージメントは頻繁に測定されるが、動機づけの調整はほとんど測定されない
-- [[mekheimer-motivation-ethics-trust-efl-2026]] — 12週間のEFL研究において、動機づけの唯一の有意な予測因子は利用頻度だった
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI依存と動機づけは批判的思考に対して同等かつ逆向きの効果を持ち、差し引きでわずかな正の効果が残る(MASEM、31研究、学習者16,357名)

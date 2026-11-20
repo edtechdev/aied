@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -88,37 +90,3 @@ Diese Lücke ist in einem Bereich nicht mehr leer: Ein dreijähriges biomedizini
 - **„Die KI-Übernahme unter Ingenieurstudierenden ist ein Technologieakzeptanzproblem."** [[socio-cognitive-genai-adoption-engineering-2026|Asag und Al Mamun]] integrieren TAM mit [[technology-acceptance-model|UTAUT]], um die Übernahme bangladeschischer Ingenieurstudierender zu modellieren, und **erklären 64%** der Varianz — ein substanzieller Anteil liegt also außerhalb der Akzeptanzkonstrukte, in sozialen und kognitiven Faktoren, die das Modell nicht abdeckt.
 - **„Studierende nutzen KI für das, worin sie am besten ist."** [[ai-engineering-education-balancing-act|Kudina (2026)]] fand, dass **100 Ingenieurstudierende** LLMs am meisten für **Schreibunterstützung** schätzten, nicht für ingenieurwissenschaftliches Schlussfolgern. Ihre Metaphern für das Werkzeug übertrafen, was es lieferte, und ihre tatsächliche Nutzung folgte Bequemlichkeit statt Fähigkeit.
 - **„Ein reicherer Werkzeugstapel verbessert die Design-Ergebnisse."** In einem **27-Studierende**-Architekturdesignstudio zeigten Teams, die eine generative-KI-plus-[[virtual-and-augmented-reality|XR]]-Pipeline nutzten, **gedrückte Wirksamkeit ohne ein verbessertes Produkt**. Werkzeugreichtum kann Zuversicht kosten und das Artefakt unverändert lassen.
-
-## Verbundene Konzepte
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Verbundene Artikel
-- [[apostolakis-trusstutor-bench-statics-2026]] — Statik-Benchmark: Lösen und Fehlererkennung sättigen, Widerstand gegen Gegenwind nicht
-- [[mechanical-engineering-ai-curriculum-2026]] — Projektbasiertes KI-Bildungscurriculum im Maschinenbau (Thermodynamik)
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Fakultätsmetaphern in der Ingenieurbildung konstruieren (und begrenzen) das KI-Verständnis
-- [[tam-critical-use-genai-engineering-2026]] — Erweitertes TAM mit kritischer Nutzung für Ingenieur-/CS-Studierende
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Vereinheitlichtes soziokognitives Modell für die Ingenieurbildung (Bangladesch)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethischer Umgang mit KI in der Ingenieurbildung: ein systematisches Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ein multimodales Framework für verkörperte Kognition bei mündlichen Erklärungen
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — KI und die Zukunft der Ingenieur- und Computing-Arbeitskraft
-- [[ai-engineering-education-balancing-act]] — KI in der Ingenieurbildung nutzen: ein Gratwander
-- [[structured-ai-demonstrations-engineering-mechanics]] — Strukturierte KI-Demonstrationen in der Technischen Mechanik
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in der Ingenieurbildung
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Rahmenwerk für nachhaltige Ingenieurbildung (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Ausbildung: eine explorative Studio-Studie
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Gewohnheit, nicht Intention, sagt voraus, dass Studierende seltener Menschen um Hilfe bitten: 49,6 % berichten von seltenerem Hilfesuchen bei Menschen, β für Gewohnheit 0,711 vs. Intention 0,039

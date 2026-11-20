@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -86,38 +88,3 @@ Identita studujícího souvisí s [[agency|agenturností]] (identita je uskuteč
 **„Pomoc AI snižuje bariéry, a tím rozšiřuje účast.“** Může snížit bariéru k produkování práce, zatímco zužuje bariéru k nárokování autorství. Student, který odevzdá plynulý artefakt, jejž nevytvořil, dostal přístup k výsledku, ale bylo mu odepřeno uznání, které buduje identitu za ním.
 
 **„Uznat identitu studujícího je otázka reprezentace v obsahu.“** Reprezentace záleží a uznání se uskutečňuje v praxi: čí otázky se berou vážně, čí příspěvek se připisuje a kdo je považován za schopného. [[curriculum-design|Kurikulum]] může být reprezentativní a přesto odpírat uznání, které utváření identity vyžaduje.
-
-## Související koncepty
-
-- [[learners]] — Studující: zastřešující koncept pro pojmy na straně studujících
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Související články
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 vysokoškoláků o tom, co si dál dělají sami a proč o tom účel málokdy rozhoduje
-- [[guarded-adoption-genai-higher-education-2026]] — Ostražitá adopce generativní AI ve vysokoškolském vzdělávání
-- [[t2i-competence-paradox-2026]] — Paradox kompetence: tvůrčí identita při používání GenAI pro text-to-image
-- [[shame-guilt-ai-regulation-computing-education]] — Stud a vina jako sociální regulátory používání AI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptivní schopnosti pro životaschopnou profesní identitu v budoucnosti s GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogická symbióza a posthumánní studující
-- [[ai-pedagogical-accompaniment-amico]] — Pedagogické doprovázení s AI podporující identitu v STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Navrhování pro autentické hodnocení
-- [[paternalistic-filter-llm-history-education]] — Paternalistické používání AI a identita studentů v dějepisném vzdělávání
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI jako identitní krize akademických pracovníků (identita učitele)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Profesní příprava učitelů založená na TPK a profesní identita
-- [[genai-professionalization-metaphors-2026]] — Konceptualizace GenAI a profesní identita studentů
-
-- [[synthetic-position-self-authorship-2026]] — Autorské pozastavení: delegované autorství jako já hustě hlasité, ale neautorské (konceptuální analýza)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -113,23 +115,3 @@ Faveroら(2025)は、AIチューターとの感情的な[[student-engagement|関
 **「顔から感情を検出するチューターは、学生の状態を知っている」**情動は観察されるのではなく推論されるものであり、その推論が最も弱いのは、まさにリスクが最も高い場面です。[[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]]は、5次元の学習者プロファイルに情動の次元を保持していますが、それをキーワード辞書で埋めています。そのため、辞書に含まれていない言葉でフラストレーションを表現した学生は、単にプロファイル化されず、しかもそのプロファイルは専門家の判断に対して検証されていません。顔のキャプチャは、連続的な映像ストリームと、テキスト推論にはないプライバシー上の露出を追加します。
 
 **「異なる時点で得られた感情の測定値は互いに置き換え可能だ」**[[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]は、順序づけられた情動が短期的な持続と方向的な遷移を示すこと、そして、好奇心と混乱のまわりの自己ループであるプローブ捕捉型の報告が、フラストレーションや驚きのような自己捕捉型の報告とは異なる測定であることを明らかにしています。両者を平均して要約的な頻度にしてしまうと、信号を運ぶ系列が失われます。
-
-## 関連する概念
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## 関連する記事
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — 人々はAIが代わりに与えられると思うと、共感をオフロードする(Shastry & Gray 2026)

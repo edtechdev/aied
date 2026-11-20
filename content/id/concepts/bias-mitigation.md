@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -62,7 +64,6 @@ Penelitian basis pengetahuan mendokumentasikan bias yang masuk di beberapa titik
 - **Bias alokasi dalam pembentukan tim berbantuan AI.** [[genai-social-bias-software-engineering-education-2026|Entezami dkk. (2026)]] menunjukkan bias masuk ke kelas tugas di luar penilaian dan umpan balik: tiga LLM yang menugaskan kelas rekayasa perangkat lunak berisi 28 mahasiswa ke empat tim merutekan laki-laki setidaknya 80% lebih jarang daripada perempuan ke Desain Antarmuka alih-alih Pengembangan Inti (GPT-5.2 OR < 0.01), dan kebangsaan menggeser penempatan secara independen dari prestasi. Memberikan keterampilan mengurangi tetapi tidak menghilangkannya - 99.2% penugasan berbasis keterampilan cocok dengan salah satu dari dua tim data acuan, namun gender tetap menentukan di antara opsi yang sama validnya (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - dan pembuatan gambar paralel condong ke laki-laki dan berkulit terang untuk gambar satu orang (gender V = 0.64 dan 0.65; warna kulit V = 0.57 dan 0.61) sementara gambar banyak orang tetap relatif seimbang.
 - **Audit subkelompok dapat mendokumentasikan kesetaraan pada pengode otomatis** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman dan Borman (2026)]] menemukan pengode esai BERT yang disetel halus mencapai akurasi 0.92 untuk siswa yang terancam stereotip dan 0.94 untuk yang tidak terancam, dengan recall 0.98 di kedua kelompok. Akurasi gender berkumpul di 0.95 versus 0.93 dan kelompok makan siang gratis-atau-harga-rendah di 0.95 versus 0.94, sementara pelajar bahasa Inggris (8%) dan siswa dengan rencana pendidikan individual (10%) dikecualikan dari analisis subkelompok karena subsampelnya terlalu kecil.
 
-
 **Akurasi agregat dapat menyembunyikan model yang tidak dapat menemukan siswa yang kesulitan.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar dkk. (2026)]] melatih tiga keluarga model pada satu kohort Estonia dan membaginya dengan dua cara. Pada himpunan seimbang, keluarga-keluarga itu sebanding. Pada pemisahan tidak seimbang, dengan 125 siswa di bawah kuartil pertama berbanding 328 di atasnya, pohon keputusan, jaringan Bayesian, dan hutan acak mencapai recall 8%, 12%, dan 16% untuk berprestasi rendah pada presisi 80%, dan hanya model neuro-simbolik yang melewati 50%.
 
 ## Pendekatan mitigasi
@@ -104,55 +105,8 @@ Mitigasi bias adalah mekanisme teknis yang melaluinya [[equity-in-ai-education|K
 
 Semua yang ada di halaman ini menyangkut bias di dalam sistem. [[automation-bias]] menyangkut bias pada orang yang membaca keluarannya — menerima rekomendasi yang akan dipertanyakan manusia jika ia mencapainya sendiri — dan ia tetap bertahan bahkan ketika modelnya akurat.
 
-
 ## Miskonsepsi Umum
 
 - **"Bias adalah masalah penilaian dan umpan balik."** Bias masuk ke **kelas tugas di luar penilaian**: tiga LLM yang menugaskan **kelas rekayasa perangkat lunak berisi 28 mahasiswa ke empat tim merutekan laki-laki setidaknya 80% lebih jarang** daripada distribusi acuan. Pembentukan tim membawa bias pada magnitudo yang sebanding dengan penilaian.
 - **"Memberikan keterampilan yang relevan menghilangkan bias itu."** Memberikan keterampilan **mengurangi tetapi tidak menghilangkannya**: **99.2% penugasan berbasis keterampilan cocok dengan salah satu dari dua tim data acuan, namun gender tetap menentukan di antara opsi yang sama validnya (OR 2.53)**. Kecocokan tugas yang hampir sempurna hidup bersama efek gender, sehingga akurasi pada kriteria utama bukan bukti keadilan.
 - **"Satu pendekatan mitigasi sudah cukup."** Penelitian mengilustrasikan **strategi yang saling melengkapi** — pemodelan yang sadar keadilan termasuk di antaranya — karena bias yang masuk pada pembentukan tidak ditangani oleh perbaikan yang diarahkan pada teks keluaran.
-
-## Konsep terkait
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — kegagalan sisi pembaca yang tidak dicakup halaman ini: menerima rekomendasi tanpa memeriksanya
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Penyelarasan pedagogis neuro-simbolik (NSPA)
-- [[ai-scoring-language-bias-physics]] — Bias bahasa dalam penilaian berbasis AI
-- [[gender-bias-transfer-llm-writing]] — Transfer bias gender dalam penulisan berbantuan LLM
-- [[paternalistic-filter-llm-history-education]] — Filter paternalistik dan penolakan diferensial
-- [[fair-explainable-edu-recommendations]] — Rekomendasi pendidikan yang adil dan dapat dijelaskan
-- [[temporal-smoothness-debiased-kt]] — Pelacakan pengetahuan yang didebias
-- [[ground-truth-reliability-aied]] — Memodernkan data acuan untuk keandalan AI
-- [[data-annotations-pedagogical-hints]] — Anotasi data sebagai petunjuk pedagogis
-- [[xai-education-framework]] — AI yang dapat dijelaskan dalam pendidikan
-- [[antiskillbench-persona-skills-privacy-2026]] — Privasi dan audit bias persona-skills
-- [[genai-minoritized-knowledges-disability]] — GenAI dan peminggiran pengetahuan minoritas
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias yang selaras stereotip dalam umpan balik menulis otomatis
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang tepat bagi profil mahasiswa yang beragam? Sebuah evaluasi berskala besar
-- [[bias-representation-text-to-image-education-2026]] — Bias dan representasi dalam teks-ke-gambar yang dihasilkan AI: tinjauan sistematis (Alon dkk. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Nilai dan norma etis bagi AI dalam pendidikan
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Dari Klasifikasi Sentimen ke Umpan Balik yang Dapat Ditindaklanjuti dan Bertanggung Jawab: Tinjauan Cakupan dan Peta Bukti NLP dalam Evaluasi Pengajaran oleh Mahasiswa, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — AI Generatif Dapat Memperkuat Bias Sosial dalam Pendidikan Rekayasa Perangkat Lunak
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Mengevaluasi Intervensi Keadilan Pasca-Hoc dalam Sistem Peringatan Dini yang Dikendalikan Vendor
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - di bawah ketidakseimbangan kelas tiga keluarga model tidak dapat mengidentifikasi berprestasi rendah sementara metrik seimbang tampak sehat

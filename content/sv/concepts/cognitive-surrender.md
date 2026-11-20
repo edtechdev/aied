@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -112,38 +114,3 @@ Evidensen för kapitulation som ett namngivet konstrukt vilar tungt på ett enda
 **"Botemedlet är bättre AI, eftersom kapitulation följer av fel."** Kapitulation följer av interaktionens *struktur*: ett system som producerar ett trovärdigt svar först tar bort anledningen för eleven att generera ett eget. Förbättrad riktighet minskar skadan av felaktiga svar och gör ingenting åt övergivandet av att bilda ett omdöme, vilket är den skada som består sedan verktyget är borta.
 
 **"Att undervisa i kritisk värdering är tillräckligt."** Det är nödvändigt och det kommer för sent. När ett trovärdigt svar väl står på skärmen blir värderingen en bekräftelse - vilket är varför designlitteraturen här placerar elevens försök före systemets output i stället för att granska det i efterhand.
-
-## Anslutna begrepp
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Anslutna artiklar
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-systemteori och kapituationens experimentella signatur
-- [[generative-ai-reduced-study-time-math]] — Förskjutning på befolkningsnivå i ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — ramverket kapitulation/avlastning/handlingsutrymme i förskola till gymnasium
-- [[du-yuan-epistemic-dependence-2026]] — instrumentellt kontra omdömesbärande stöd
-- [[ai-advice-suppresses-ikt-suspension-2026]] — kollapsen av "jag vet inte"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuralt engagemang och ägarskap
-- [[genai-thoughtless-use-self-directed-learning-2026]] — tanklös användning och självstyrt lärande
-- [[stamatoulis-genai-use-patterns-2026]] — upptag med låg verifiering kontra värderande integration
-- [[cognitive-washout-ai-skill-decay-2026]] — vad som händer efter tillbakadragandet
-- [[ai-overreliance-complex-adaptive-system-2026]] — överlitan som en befolkningsprocess
-- [[brcic-effortless-trap-productive-struggle-2026]] — att placera AI så att uppgiften förblir ansträngande
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringsträning
-- [[family-school-autonomy-support-genai-2026]] — beroende kontra autonom avlastning
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — en assistent grundad i arbetsbladet sänkte avlastningen i stället för att höja den, ett gränsvillkor för kapitulationssignaturen (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — naturalistisk delegering av hela uppsatser: 15 av 77 uppsatser helt modellskrivna, 20 förfrågningar om en komplett uppsats (Jelson m.fl. 2026)

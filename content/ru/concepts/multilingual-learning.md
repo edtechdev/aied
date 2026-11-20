@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -73,28 +75,3 @@ ai_assist:
 - **«Целевой язык должен доминировать с первого дня».** В **систематическом обзоре 24 исследований** учащиеся просили **контекстуализированные фразы и объяснения на своём языке как мост в целевой язык** — использование, которое рецензенты классифицируют как подлинно новую суб-возможность, а не обходной путь. Поддержка на родном языке работала как [[scaffolding|скаффолдинг]], а не как избегание.
 - **«Оценивание языка с помощью ИИ предвзято против многоязычных авторов».** Здесь предвзятость отслеживала **человеческий базовый уровень, а не модель**: сравнительное суждение на базе LLM по **информационному письму для 3–6 классов сошлось с рубриками исследователей (r = .59–.73)** и показало ту же закономерность, что и человеческие оценивающие. Это не доказательство справедливости в абсолютных терминах — это доказательство того, что модель не внесла нового искажения поверх существующего.
 - **«Полезная часть — это выдача качества перевода».** Мостовое использование объяснительное и ситуативное, а не замещающее. Инструмент, который заменяет собственную продукцию учащегося, убирает ту практику, которую мост был призван включить.
-
-## Связанные концепции
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Чат-боты GenAI позволяют трансязычие — использование, которого более ранние языковые инструменты не поддерживали
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -105,56 +107,3 @@ A tantervtervezés közvetlenül kapcsolódik a [[learning-design|tanulástervez
 - **„Egy [[llm|LLM]] nagy megbízhatósággal validálva egyszer feltérképezhet egy tantervet.”** A GPT-o3-mini **100%-ot osztott szét hét vállalati készség között 48 értékelés mindegyikénél**, elérve a **0,81-es Krippendorff-alfát** a szakértői súlyokhoz képest — és az **egyetértés** bizonyos készségeknél megbomlott. A magas összesített megbízhatóság egyenetlen egyetértéssel az a mintázat, amelyet a feltérképezés megbízása előtt ellenőrizni kell.
 - **„Az MI-írástudás beágyazása egy kurzus hozzáadását jelenti.”** A LearnAI a beágyazott formát mutatja: **széles kitettségű réteg rövid előadásokból 18 meglévő kurzusban, öt tudományágban (293 diák)**. A kitettség a tanterven oszlott el, nem egy egységbe gyűlt.
 - **„A diákok már képesek kritikusan értékelni a médiát.”** A megkérdezett oktatási és újságíró szakos hallgatók csupán **13,8%-a** mondta, hogy a kurzusai foglalkoztak kritikus médiaelemzéssel, szemben a **97,8%-kal, akik fontosnak értékelték**. A készség értékelése és megtanítása közötti szakadék a tantervi nyílás.
-
-## Kapcsolódó fogalmak
-- [[pedagogical-partnerships]] — Pedagógiai partnerségek
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Ernyő: pedagógiák és tanítási stratégiák az MI-oktatásban
-- [[recommender-systems-and-learning-paths]]
-
-## Kapcsolódó cikkek
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Súlyozott, szakértőkkel validált készségfeltérképezés akkreditációhoz
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A GenAI konstruktív összehangolásra vonatkozó útmutatásának kritikus diskurzuselemzése (McInnes és mtsai. 2026)
-- [[icet-ml-education-trust-2026]] — A bizalom kezelése az MI-rendszerekben az oktatáson keresztül: didaktikai nézőpont
-- [[refrain-amplify-genai-curriculum-2026]] — Visszatartás–majd–felerősítés tantervi keretrendszer a GenAI szekvenálásához (Torres-Sahli és mtsai. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Projektalapú MI-oktatási tanterv a hőtechnikában
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Munkaerő-felkészültségi szint keretrendszer az intelligens gyártáshoz az MI korszakában
-- [[rewriting-curriculum-genai-pedagogy-2026]] — A tanterv újraírása: GenAI-vezérelt pedagógiai változás
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — MI-készségkeretrendszer: 26 értékelhető készség a tantervi feltérképezéshez
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: just-in-time MI-társkotrás tudományágakon át
-- [[ai-video-dual-gatekeeping-2026]] — Amikor a nem mondása jobb videókat ad: kettős kapuőrzés a pedagógiailag megalapozott MI-tartalomkészítéshez
-- [[niri-steam-ai-literacy-review-2026]] — STEAM-oktatás az MI-írástudásért: szisztematikus áttekintés
-- [[caruana-pre-university-ai-education-slr-2026]] — A tanulók és tanárok felkészítése egy MI-vezérelt jövőre: az egyetem előtti MI-oktatás szisztematikus áttekintése (Caruana és mtsai. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — MI-vezérelt platform matematikai modellezési feladatok generálásához (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — MI a részecskefizika-oktatásban: kutatási problémák és alapkészségek
-- [[computing-assessment-genai-workshop-report-2026]] — Az MI meg tudja csinálni a házi feladatodat. És most? Beszámoló egy online műhelyről a számítástechnikai értékelésről a generatív MI korában
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - a kompetenciakeretrendszerek öt dimenzióra konvergálnak közös szókincs és összevetés nélkül
-- [[bursic-ai-residency-education-curriculum-2026]] — Az MI rezidensképzési tantervekbe való integrálásának akadályai: kvalitatív interjúk tizenkét orvosvezetővel

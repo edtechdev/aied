@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -85,32 +87,3 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 - **"Personalizar a ferramenta melhora o resultado."** O tipo de ferramenta moderou o efeito de forma significativa (**QM = 14,301, p < ,001**), e a direção é contraintuitiva: um **chatbot geral usado diretamente agrupou mais alto (g = 0,970)** do que sistemas **personalizados em plataformas de curso, pacientes virtuais ou agentes (g = 0,455)**. A ferramenta nua superou a ferramenta engenheirada, o que argumenta contra presumir que produtos feitos sob medida são a compra melhor.
 - **"Os estudantes acham a abertura o mais difícil."** Nos dados de percepção dos estudantes, **a abertura foi o tema positivo principal (22,3%)** enquanto **instruções pouco claras lideraram os negativos (23,7%)**. Os estudantes acolheram a liberdade e se opuseram à ambiguidade — uma distinção que importa porque a correção é diferente: enquadramento de tarefa mais claro, e não menos trabalho aberto.
 - **"Os estudantes que gostaram aprenderam mais."** A aprendizagem percebida se correlacionou com as notas de quiz apenas **modestamente (r = 0,161–0,315)**. Satisfação e aprendizagem medida são fracamente relacionadas aqui, de modo que uma avaliação positiva de PBL não é, por si só, evidência de que os objetivos de aprendizagem foram cumpridos.
-
-## Conceitos conectados
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[arts-and-media-education]]
-
-## Artigos conectados
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e em projetos como frameworks promissores para a educação apoiada por IA generativa: evidências emergentes de uma revisão sistemática e meta-análise de três níveis
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Educação em robótica baseada em jogos e gamificada
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Formação em letramento em IA para professores
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-- [[educational-robotics-pathways-2026]] — Caminhos para a aprendizagem de robótica educacional com IA (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — A PBL é uma estratégia dominante de aprendizagem de CT
-- [[creative-project-approach-ai-early-childhood-2025]] — A Abordagem de Projeto Criativo: agentes de IA e robótica dentro do Project Approach na primeira infância (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in team software PBL
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: um estúdio de design imersivo em VR com um agente de ensino embutido, avaliado em comparação com a PBL tradicional (Jin et al. 2026)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -83,32 +85,3 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 - **„Aufsicht schützt akademische Integrität."** **Die Integritätsbegründung überlebte den größten Test nicht.** Über **vier Wellen und 1.760 Studierende in 105 Kursen** **erhöhte Aufsicht die Prüfungsangst (β = 0,60, p < 0,001), hatte aber keinen** erkennbaren Integritätsnutzen. Der gemessene Effekt betraf die Studierenden, nicht das Fälschen.
 - **„Bessere Erkennungsfähigkeit bedeutet bessere Aufsicht."** Ein ein Jahrzehnt umfassender systematischer Review von **80 begutachteten Studien (2014–2024)** findet, dass fortgeschrittene ML/DL-Aufsicht Fälschen **genauer erkennt** und nichts darüber sagt, ob ihr Einsatz das Verhalten ändert. Erkennungsleistung ist eine Eigenschaft des Klassifikators, nicht des Assessmentregimes.
 - **„Verhaltenssignale sind verlässliche Indikatoren für Fehlverhalten."** Systeme **verfolgen siebzehn Körperlandmarken pro Frame** mit YOLOv11, um Merkmale der **Haltungsabweichung, des Kopftrends und der Oberkörperbewegung** abzuleiten. Diese Konstrukte sind Stellvertreter, und eine markierte Haltung ist eine Klassifikation über einen Körper statt eine Beobachtung eines Verstoßes.
-
-## Verbundene Konzepte
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Verbundene Artikel
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Tragbare KI entfernt das Verhaltenssignal, auf das Proctoring angewiesen ist (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Zehnjähriger systematischer Review automatisierten Online-Prüfungs-Proctorings
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Umfassender Review akademischer Unehrlichkeit beim automatisierten Proctoring
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Die Angst vor Big Brother: die negativen Nebenwirkungen von Proctoring auf die Prüfungsangst
-- [[biology-degree-integrity-genai-cheating-2026]] — Können Studierende sich mit Schummelei zu einem Biologie-Abschluss schummeln? Eine Fallstudie zur Verwundbarkeit von Biologie-Kursnoten für akademische Unehrlichkeit im Zeitalter generativer KI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Unter Überwachung: Fern-Proctoring-Praktiken im Pflegeassessment kartieren
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44,2 % der Studierenden wurden in einer beaufsichtigten Präsenzprüfung als hochriskant eingestuft, wobei das Risiko aus LMS-Spuren aus dem frühen Semester vorhergesagt wurde

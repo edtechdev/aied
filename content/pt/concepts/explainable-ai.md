@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -88,7 +90,6 @@ Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuiçã
 
 **Explicável por desenho** é uma resposta ao problema de fidelidade do pós-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizam um decodificador de explicação pela mesma representação fundida e pela mesma nota prevista que decidem a [[assessment|avaliação]], de modo que uma nota baixa em questionamento [[formative-assessment|formativo]] produza uma justificativa que nomeia perguntas de sondagem insuficientes, e o combinam com atenção de dupla lente sobre padrões curriculares e movimentos de rubrica específicos da disciplina. O alinhamento atenção-rubrica alcança 78,0%, contra 41,7% do GPT-4 zero-shot e 32,1% do BERT, e a fidelidade é testada pela exclusão contrafactual de trechos críticos para a rubrica, juntamente com avaliações humanas em uma checklist ancorada na rubrica, dando uma pontuação de credibilidade da explicação de 0,78 — um aumento de 0,31 sobre o BERT-base. A auditoria também mostra onde a afirmação arquitetural enfraquece: em pistas emocionais, o modelo aloca 28,4% do peso de atenção contra 15,2% de um especialista (alinhamento 0,53), com um caso de falha atribuindo 28% ao token "frustrated", que os autores leem como overfitting ao afeto em vez de à pedagogia e nomeiam como uma área de refinamento. Embutir explicações no caminho da decisão as torna mais fiéis que justificativas pós-hoc; isso não as torna corretas.
 
-
 **O que um modelo diz que usou depende da família tanto quanto dos dados.** Em sete modelos sobre uma mesma coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] constataram que abordagens simbólicas se apoiavam em fatores cognitivos e [[motivation|motivacionais]], modelos subsimbólicos em aspectos cognitivos, conhecimento aprendido e gênero, e ambos em grande medida ignoravam fatores metacognitivos, enquanto o modelo neuro-simbólico usava um conjunto mais integrado. Os mesmos estudantes e os mesmos indicadores produziram relatos diferentes do que importava, de modo que o alinhamento com a [[learning-theories|teoria da aprendizagem]] se torna uma afirmação sobre atribuições, e não sobre acurácia.
 
 As métricas usadas para certificar a qualidade da explicação não medem o ajuste. Em um estudo pré-registrado com 166 participantes comparando três métodos de saliência (LIME, Grad-CAM, Guided Backpropagation), as avaliações de satisfação e de confiança foram constantes entre as condições, uma medida de tarefa favoreceu o Grad-CAM, e as métricas matemáticas de fidelidade favoreceram o Guided Backpropagation — três famílias de evidência apontando para três métodos diferentes ([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). Algumas relações métrica–desempenho correram na direção oposta àquela que as métricas deveriam certificar. Uma pontuação de fidelidade é evidência sobre o modelo, não sobre se um usuário consegue agir a partir da explicação.
@@ -109,47 +110,3 @@ Para a explicabilidade especificamente, as atribuições que importam são as qu
 ## Citação
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Conceitos conectados
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artigos conectados
-- [[kares-xai-evaluation-alignment-2027]] — 166 participantes, três métodos de saliência: satisfação e confiança constantes, desempenho na tarefa e métricas de fidelidade em desacordo (Kares et al., 2027)
-- [[lund-socially-accountable-data-science-xai-2026]] — Um framework de quatro pilares (responsividade, responsabilidade, aplicação, reflexividade) para ensinar XAI como prática de responsabilização (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Desenho sensível a valores de um ITS centrado no estudante (explicações colaborativas versus brutas)
-- [[xai-education-framework]] — XAI-ED: o framework fundador da IA explicável na educação (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Explicações específicas do domínio constroem confiança e aceitação dos professores (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Perspectivas dos estudantes sobre avaliação transparente assistida por IA (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Rastreamento de conhecimento interpretável
-- [[explainable-probabilistic-kt]] — Rastreamento de conhecimento explicável por embeddings probabilísticos
-- [[neural-symbolic-knowledge-tracing]] — Rastreamento de conhecimento neuro-simbólico
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilando modelos black-box em LMs autoexplicativos para analítica de aprendizagem
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica de aprendizagem federada e explicável para modelagem de risco preservadora de privacidade
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recurso contrafactual restrito por semântica para suporte à decisão educacional
-- [[fair-explainable-edu-recommendations]] — Recomendações educacionais justas e explicáveis
-- [[multimodal-affective-its-presentation]] — ITS de laço fechado interpretável para feedback afetivo multimodal
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explicando a adoção de ChatGPT no ensino superior
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Framework de LLM explicável por desenho: atenção de dupla lente e explicações parametrizadas pela nota para avaliação automatizada de professores (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeção de prompt na correção mediada por IA, onde a detecção nunca foi relatada ao usuário (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de novas questões educacionais assistidas por IA
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Decisões de correção feitas pelo professor versus pela IA: uma justificativa escrita ampliou a lacuna de equidade
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citações e sinais de autoridade elevaram a deferência a uma saída incorreta, com algumas referências mal atribuídas ou fictícias
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — Modelos simbólicos, subsimbólicos e neuro-simbólicos sobre uma mesma coorte atribuíram suas previsões a fatores diferentes
-

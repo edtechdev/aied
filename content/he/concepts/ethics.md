@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -111,54 +113,3 @@ ai_assist:
 - **"מסגור הרמאות הוא דרך מספקת לחשוב על אתיקת GenAI."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] טוענים שמוסדות צריכים להכריע בשאלות בינה מלאכותית יוצרת דרך **אתיקת שותפות ולא דרך מסגור של רמאות**. המסגור קובע אילו שאלות נשאלות, ומסגור של עבירה אינו יכול לשאול על מטרה חינוכית.
 - **"סגל וסטודנטים מסכימים מה אתי."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]], מחקר [[mixed-methods-research|שיטות מעורבות]] של **971 סטודנטים ו-135 אנשי סגל**, מוצא שהמימדים האתיים נבדלים בין הקבוצות. מדיניות שנכתבה מנקודת מבט אחת תטעה לגבי השנייה.
 - **"קונצנזוס אתי קודם לשימוש."** **האימוץ מקדים את ההסכמה האתית**: לאורך ארבעה סמסטרים בתוכנית להכשרת מורים בארה\"ב, שימוש הסטודנטים ב-GenAI **עלה מ-57% ל-83% להכנה להערכה**. הנורמות נוצרות על ידי הפרקטיקה ולא להפך.
-
-## מושגים מקושרים
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — הצהרות שימוש וגילוי AI
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — חינוך כימיה ובינה מלאכותית: מעבדות, הערכה מעצבת, מגבלות LLM, פילוסופיה של ניסוי
-- [[biology-education]] — חינוך ביולוגיה ובינה מלאכותית: עוזרי הוראה במעבדה, אוריינות AI בביולוגיה, חשיבה ביקורתית, כלים מיוחדים
-- [[civic-and-political-education]]
-
-## מאמרים מקושרים
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — מחקר סקר וקבוצות מיקוד משוודיה הטוען שאתיקת שותפות, ולא מסגור של רמאות, צריכה להנחות החלטות מוסדיות ב-GenAI
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — מודעות אתית הגבירה חרדת AI כשאף מסגרת התמודדות לא נלמדה: תיווך עקיף-בלבד בין 584 סטודנטים
-- [[learning-analytics-to-educational-interventions-2026]] — מלמידה אנליטית להתערבויות חינוכיות: מאפשרים של התערבויות אמינות מבוססות-LA (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — כיצד סטודנטים משתמשים ומסתירים AI בהערכות מקוונות
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — גילוי AI של סטודנטים, סטיגמה, ולמידה מוסדרת-עצמית
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — אי-ציות של סטודנטים להצהרות שימוש ב-AI
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — תצפיות פקולטה וסטודנטים על מימדים אתיים של AI
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[ai-ethics-education-public-discourse]] — ניתוח אורכי של שיח ציבורי על אתיקת AI בחינוך
-- [[ethical-ai-higher-ed-game-theory]] — מסגרת תיאוריית-משחק לשימוש אתי ב-AI בהשכלה גבוהה
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
-- [[xai-education-framework]] — Explainable AI in education (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — בטיחות חונך AI ונזקים פדגוגיים
-- [[raffaghelli-situated-ai-ethics-2026]] — אתיקת AI מושתתת: מסגרת תרבותית-היסטורית לחינוך
-- [[ethically-mediated-ai-tpack-china-2026]] — ידע AI-אתי כמתווך אינטגרטיבי ב-AI-TPACK של מורי אוניברסיטה (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — ניתוח מסגרת מדיניות GenAI של UNESCO
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — האם זה אתי שמורים ישתמשו ב-AI למשוב סטודנטים?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — גישור פערי אוריינות AI אתית בין סטודנטים, מחנכים ומדיניות
-- [[alharbi-ethical-genai-eap-2026]] — אינטגרציה אתית של בינה מלאכותית יוצרת באנגלית למטרות אקדמיות
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — גישה ביקורתית-ערכים לחינוך קיים ולבינה מלאכותית (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — תנאים אתיים לאימוץ LLM בהכנה לבחינות (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — שימוש אורכי ב-GenAI, אתיקה ומדיניות בהכשרת מורים (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — ערכים ונורמות אתיים לבינה מלאכותית בחינוך
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — מודעות אתית, רפלקציה ופרקטיקה אחראית מדווחת גדלו במידה רבה באופן בלתי תלוי לאורך שלושה גלים שנתיים (Ayanwale et al. 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[qi-information-ethics-ai-judgment-2026]] — הוראת אתיקת מידע ושיפוט אתי של בינה מלאכותית בקרב סטודנטים באוניברסיטה

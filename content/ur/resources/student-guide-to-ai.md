@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -48,10 +49,3 @@ Student Guide to Artificial Intelligence، Elon University کے Imagining the Di
 گائیڈ [[formative-assessment|تکوینی]] انداز میں ہے اور یہ خود کہتی ہے: اسکور عادات کی ایک تصویر ہیں، نہ گریڈ، نہ کوئی خصوصیت، نہ پیش گوئی، اور طلبہ کو کہا جاتا ہے کہ انہیں عوامی طور پر شیئر نہ کریں۔
 
 AI کے گرد فریمنگ حوالہ شدہ سروے اور تجرباتی شہادت پر ٹکی ہے کہ محنت آؤٹ سورس کرنے سے طلبہ کم یاد رکھ سکتے ہیں — یہی [[cognitive-offloading|آف لوڈنگ]] کا سوال ہے جس کا مقابلہ کرنے کے لیے گائیڈ لکھی گئی ہے، اسے طے کرنے کے لیے نہیں۔ فیلڈ گائیڈ کی PDF ایک مختصر فارم کے پیچھے ہے جو نام، کردار، ادارہ اور ای میل مانگتا ہے؛ استاد کے گائیڈ ماڈیولز اور تدریسی فریم ورک کا مقالہ براہِ راست ڈاؤن لوڈ ہوتے ہیں۔ انٹرایکٹو نسخہ Gemini Notebook میں چلتا ہے اور Google اکاؤنٹ مانگتا ہے۔ ناشر کے اعداد — تقریباً 4,000 اداروں اور 180 ممالک میں 40,000 سے زیادہ PDF ڈاؤن لوڈز، اور 130 سے زیادہ حسبِ ضرورت کیمپس ایڈیشنز — انہی کے ہیں، اور ALA، NASPA، EDUCAUSE، OLC، CAA، Gardner Institute اور RTI International کی تائیدیں بھی۔
-
-## منسلک تصورات
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

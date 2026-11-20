@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -51,7 +52,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 הקצב הוא גם המכירה וגם הסיכון. בנייה של יום אחד מכוונת לבעיית כיתה אמיתית, לא לשאלת מחקר, כך ששום דבר כאן לא נושא הערכה וטענה על מה שאפליקציה עושה צריכה להיבחן בכיתה. שלושים ושניים מאגרים ציבוריים יושבים בארגון GitHub בעוד הגלריה מציגה 34, כולם Apache-2.0 עם קוד זמין, כך שאפליקציה ניתנת לקריאה ולאחסון עצמי. עיצוב מקומי-ראשית הוא טענה שיש לאמת לכל אפליקציה, ומורה צריך לאשר לפני שהוא מעמיד כלי פונה-סטודנט מול כיתה.
-
-## מושגים מקושרים
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

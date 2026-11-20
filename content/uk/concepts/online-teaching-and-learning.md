@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -56,9 +58,7 @@ ai_assist:
 - **Синхронний в порівнянні з асинхронним дизайном.** Цей розподіл важливіший за середовище доставки, бо два формати висувають протилежні вимоги до здобувача. Синхронні заняття несуть увагу, темп і підзвітність у самому занятті; асинхронні курси мають проєктувати їх усередину, оскільки лише здобувач вирішує, коли працювати, і не отримує природної підзвітності від аудиторії. Дослідницька база часто розмиває це: огляд бази знань щодо ШІ та [[student-engagement|engagement]] в онлайн-навчанні (24 дослідження) розглядає залученість усамітнено та явно зливає синхронні й асинхронні контексти, тому його висновки не слід читати як специфічні для асинхронного. Специфічним для асинхронного є доказ того, як здобувачі з власним темпом втрачають фокус і темп — саморегульовані поведінки, такі як постановка цілей, структурування середовища та керування часом, найбільше збігаються з низьким цифровим відволіканням ([[decreasing-digital-distraction-college-online-learning-2026|Shi et al. 2026]], 530 студентів), тоді як метакогнітивні знання та [[well-being]] знижуються протягом семестру крок за кроком зі скупченими дедлайнами оцінювання ([[song-genai-learning-partner-srl-over-time-2026|Song et al. 2026]], 75 студентів). Практичним відповідником є розділ поширених запитань про [[asynchronous-online-courses-ai|designing and facilitating asynchronous courses when AI can do the work]].
 - **Дистанційна освіта.** Програми, розроблені для здобувачів, які навчаються дистанційно, часто масштабно й у кількох регіонах (наприклад, 200 тис. і більше здобувачів Відкритого університету). Дистанційне навчання — це місце, де підтримка ШІ цілодобово, вбудована в контекст, і неможливість очного інвигілювання є найбільш помітними. Порівняльні докази з підготовки вчителів у Південній Африці показують, що саме середовище пов’язане з готовністю: [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] виявили [[self-report-measures|самозвітований]] TPACK для викладання [[science-education|природничих наук]] з інтеграцією ШІ вищим серед студентів-учителів останнього курсу в університеті з очним навчанням (64,0%), ніж в університеті дистанційної освіти (47,4%), причому найслабшою заявленою областю в обох умовах було педагогічне знання. Цей патерн попереджає, що дистанційні програми не можуть припускати, що та сама підготовка зі ШІ дає ту саму готовність, і що саме дизайн підготовки, а не її наявність, є тим, що відрізняється.
 
-
 Два кампуси, спільно зареєстровані на одному асинхронному курсі, не дали жодної міжкампусної взаємодії принаймні для одного з 19 студентів, тож спільна реєстрація є фактом розкладу, а не дизайном, що створює той контекст однолітків, який асинхронний курс припускає ([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
-
 
 ## Можливості та вигоди ШІ для онлайн-викладання та онлайн-навчання
 
@@ -145,64 +145,3 @@ ai_assist:
 **«ШІ підвищує продуктивність, отже підвищує навчання».** В онлайн-умовах розбіжність та сама, що й в аудиторіях: [[rct]] виявив, що незахищена допомога ШІ підвищила продуктивність на практиці, але *знизила* оцінки за недопоможений іспит, тоді як тьютор «підказка, а не відповідь» усунув шкоду. Онлайн-курси більше покладаються на асинхронне оцінювання, тож розрив між допоможеною і недопоможеною продуктивністю — це те, де валідність або виграється, або втрачається.
 
 **«Валідність оцінювання — це питання політики оцінювання».** Це питання дизайну, створене самим середовищем: коли здачу можна створити без присутності здобувача, валідність залежить від того, чи продукує завдання докази, що роботу виконав здобувач. Перепроєктування завдання це вирішує; посилення покарання за порушення — ні.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Контекст, який робить послідовність несучою, оскільки система не може бачити спробу
-- [[assessment-validity]] — Валідність висновку від зданої роботи до навчання
-- [[agentic-ai]] — Автономні системи, які працюють із засобами та платформами, включно з LMS
-- [[community-of-inquiry]] — Спільнота дослідження
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## Пов’язані статті
-
-- [[aggarwal-genai-cybersecurity-2026]] — 19 студентів у двох кампусах: спільна реєстрація не дала міжкампусної взаємодії для частини з них (Aggarwal 2026)
-
-
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Автономні агенти завершили неінвигільовані оцінювання в LMS від початку до кінця: проблема валідності оцінювання (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — Близнюки оцінювання: поєднання завдання, вразливого до GenAI, з близько запланованим, менш вразливим на тих самих результатах
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Доброчесність співавторства як доказ валідності та AI Viva як масштабована верифікація
-- [[asynchronous-oral-assessment-2026]] — Асинхронні усні оцінювання: обмежені часом непереглянуті записи, оцінені за вбудованими рубриками
-- [[brcic-effortless-trap-productive-struggle-2026]] — Беззусильна пастка: розміщення ШІ, а не дозвіл чи заборона
-- [[metacognitively-discordant-completion-genai-2026]] — Метакогнітивно дискордантне завершення: правильна робота, здана без розуміння
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Які саморегульовані стратегії збігаються з низьким цифровим відволіканням (530 студентів)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL як стабільна схильність і коливний стан; метакогніція та благополуччя знижуються протягом семестру
-- [[genai-marketing-education-roles-2026]] — ШІ як репетитор, товариш по команді та інструмент: ролі та їхні ефекти на присутність
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Понад виявлення: дизайн оцінювання для онлайн-умов
-- [[reconceptualizing-community-inquiry-generative-ai]] — Переконцептуалізація Спільноти дослідження в епоху генеративного ШІ
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Інтеграція ШІ в онлайн-навчання у вищій освіті: критичний огляд літератури за чотирма темами
-- [[mooc-to-maic]] — Від MOOC до MAIC: переформатування онлайн-викладання та онлайн-навчання за допомогою агентів на базі LLM
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: персоналізована та адаптивна система підтримки онлайн-навчання
-- [[llm-facilitation-timing-online-discussions]] — Тенденції фасилітаторів-людей і LLM в онлайн-дискусіях
-- [[elevate-genai-virtual-tutors]] — ELEVATE: орієнтовані на людину віртуальні репетитори GenAI
-- [[conversational-ai-tutors-framework]] — Шлях до розмовних репетиторів на базі ШІ
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Впровадження AIDA у Відкритому університеті
-- [[ai-adult-learning-guidelines-dis2026]] — Настанови щодо проєктування технологій ШІ для підтримки навчання дорослих
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: до агентного персоналізованого репетиторства
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Робити знахідки машинного навчання доступними для викладачів у змішаних аудиторіях
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Студенти віддають перевагу персоналізованим згенерованим ШІ відео над неперсоналізованими записами людини (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Навчальний дизайн у форумах онлайн-дискусій, керований зведеннями, згенерованими ШІ
-- [[ai-training-science-teacher-tpack-distance-2026]] — Студенти-вчителі з очних університетів повідомляли про вищий TPACK для викладання природничих наук з інтеграцією ШІ, ніж колеги з дистанційної освіти (64,0 % проти 47,4 %)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Дизайн ролей — це і є втручання, а не інструмент
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Шеститижневі асинхронні магістерські курси для працюючих учителів: перепроєктувати формат, а не стискати його

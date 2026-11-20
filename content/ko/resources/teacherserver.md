@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -40,8 +41,3 @@ K-12용: 수업 계획, 학습지, [[special-education|IEP 목표]], 수학 서�
 ## 참고 사항
 
 이 프로젝트는 속도를 위해 로컬에 설치된 AI 서버를 사용하고 데이터가 로컬에서 처리되며 저장되지 않는다고 주장하며, 교육부 지침 준수도 주장합니다. [팀 페이지](https://teacherserver.com/index-team.php)는 사우스플로리다 대학교 교수인 Zafer Unal을 창립자이자 개발자로, 다른 대학의 네 명의 교수로 구성된 자문 위원회와 함께 지목합니다. 이러한 주장은 학생 과업에 사용하기 전에 검증할 가치가 있습니다. 이용에는 등록이 필요하며, 자신만의 도구를 만드는 유료 후속 플랫폼도 있습니다.
-
-## 연결된 개념
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

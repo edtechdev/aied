@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,6 +43,3 @@ Kysy kysymyksiä koko lähdejoukon yli, tiivistä pitkiä asiakirjoja ja seuraa 
 ## Huomioita ja varauksia
 
 Google ilmoittaa, ettei henkilökohtaisen tilin sisältöä käytetä sen mallien kouluttamiseen, ellei käyttäjä lähetä palautetta, ettei Workspace-latauksia, kyselyitä ja vastauksia käytetä kouluttamiseen edes palautetta annettaessa, ja että [[privacy|dataa ei jaeta kolmansille osapuolille]]; poistettuja muistikirjoja ei kuitenkaan voi palauttaa. Yllä olevat kyvykkyysväitteet ovat toimittajan omia, ja koulupiirin tai instituution tulisi vahvistaa ne tietojenkäsittelysopimuksestaan eikä tuotesivulta. Vuoden 2026 uutisointi kuvasi myös kanteen tuotetuissa podcasteissa käytetystä äänestä, minkä Google kiisti – muistutus siitä, että äänitulosteet nostavat [[legal-issues-and-risks|henkilöllisyyteen liittyviä kysymyksiä]] erillään lähteisiin nojaamisen suojakeinoista. Kohtele tuotettuja muistikortteja, visailuja ja tiivistelmiä luonnoksina, jotka tarkistetaan lähteitä vasten, ja huomioi, että ilmaisen tason rajat muuttuvat ilman ilmoitusta.
-
-## Liittyvät käsitteet
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

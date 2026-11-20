@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -70,26 +72,3 @@ ai_assist:
 - **「観察とインタビューの証拠がシステムレベルの主張を担いうる。」** システム観察と[[administrator|管理者]]との協議を、**8学期にわたる8,708名の学生を対象とした4年間のランダム化評価**（**0.05標準偏差**の効果を検出できる検出力を備える）と突き合わせることで、質的ストランドが単独ではできないこと、すなわち小さな効果を確実に検出することが示される。混合研究法は、ストランド間で検出力を移し替える手段ではない。
 - **「トライアンギュレーションとは、2つの弱い方法が1つの強い主張を作ることを意味する。」** この組み合わせの価値は、各ストランドが異なる問いに答える点にある。両方を実施したうえで質的知見を量的知見の確認として報告するデザインは、トライアンギュレーションを行ったのではなく、単に言い換えを行ったにすぎない。
 - **収束は物語ではなく採用基準となりうる。** [[liu-auditable-assessment-preservice-2026|Liu (2026)]]は、5つの独立した情報源のうち少なくとも2つに、かつ実施に直接関わる情報源1つに現れた場合にのみ再設計の優先事項として数えたため、認識だけではそれを優先事項に昇格させることはできなかった。
-
-## 関連する概念
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## 関連する記事
-
-- [[genai-over-reliance-learning-2026]] — 強化から過度の依存へ（調査＋インタビュー）
-- [[t2i-competence-paradox-2026]] — コンピテンシーのパラドックス（フォーカスグループ＋調査＋インタビュー）
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 信頼–有用性のギャップ（調査＋インタビュー）
-- [[same-ai-different-pathways]] — 文脈にわたるAI媒介学習のメカニズム
-- [[genai-feedback-design-multisite-experiment]] — 人間中心の生成AIフィードバックデザイン（多地点）
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI家庭教師の安全性と教授上の害
-- [[becker-chatgpt-typology-physics-2026]] — 物理学におけるChatGPT採用の定性的類型論
-- [[edtech-privacy-deferral-2026]] — 「後で直します」：教育、AI、そしてEdTechにおける学生プライバシーの先送り
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER と微調整した RoBERTa は同じ Bluesky の投稿に反対の感情価を割り当てた(Geraili Meykola ら、2026)

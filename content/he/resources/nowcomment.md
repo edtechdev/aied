@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,12 +48,3 @@ NowComment הופך טקסט, תמונה או וידאו למשטח דיון: ה
 ## הערות ואזהרות
 
 החשבונות חינם, ומסמכים יכולים להיות ציבוריים או משותפים עם קבוצה מוזמנת. שותפי הבינה המלאכותית פועלים על מודלי שפה גדולים של OpenAI, כך שקטעים ושאלות נבחרים עוזבים את האירוח של הפלטפורמה וכפופים לתנאי אותו ספק — מחוז צריך לקרוא את הסדר עיבוד הנתונים לפני שימוש עם קטינים. הפלט מוגבל בתקרת טוקנים שהאתר אומר שעדיין מרחיב, רשימת השותפים נמצאת מאחורי התחברות, ומשטחי הבינה המלאכותית הם חלק מהיר-תנועה במוצר: התייחסו לכל יכולת שמתוארת כאן כאל מצב האתר בנובמבר 2026, לא כמכלול תכונות מוגמר.
-
-## מושגים מחוברים
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

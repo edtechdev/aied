@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
@@ -66,22 +68,3 @@ ai_assist:
 - **যেকোনো এআই সেবায় মানুষের কাছে পাঠানোর পথ রাখুন।** প্রমাণ অনুসন্ধান ও খসড়া তৈরিতে এআই-কে এবং উৎস সম্পর্কে বিচারে মানুষ-কর্মীকে সমর্থন করে; প্রথমটিকে বড় মাপে চালাতে দ্বিতীয়টিকে মুছে ফেলা নকশা সেই অংশটিই সরিয়ে দেয় যা ব্যবহারকারী অন্য কোথাও পায় না।
 - **অনুসন্ধানের স্থানান্তর জরিপ নয়, যন্ত্রে মাপুন।** ঋণ ও ডিসকভারি লগ আগেই আছে; যে গ্রন্থাগার সেগুলিকে নির্দেশনা-তথ্যের সঙ্গে জোড়া দেবে, সে এআই-এর প্রভাব সম্পর্কে এককালীন শিক্ষার্থী-জরিপের চেয়ে বেশি জানবে।
 - **এআই-সাক্ষরতাকে তথ্য-সাক্ষরতা বলে চালিয়ে দেবেন না।** দুটির কর্মী ও কাঠামো অভিন্ন হলেও মূল্যায়নের বিষয় আলাদা; দুটিকে মিলিয়ে ফেললে এমন কর্মসূচি তৈরি হয় যা কোনওটিই মাপে না।
-
-## সংযুক্ত ধারণা
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — একাডেমিক গ্রন্থাগারে কৃত্রিম বুদ্ধিমত্তার গ্রহণ: বর্তমান অনুশীলন, চ্যালেঞ্জ ও গবেষণা-সুযোগের পদ্ধতিগত পর্যালোচনা
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — একাডেমিক গ্রন্থাগারে তথ্য-সাক্ষরতা নির্দেশনায় এআই-সাক্ষরতার সংযুক্তির মানচিত্র
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — কৃত্রিম বুদ্ধিমত্তা কীভাবে একাডেমিক গ্রন্থাগারে তথ্য-সাক্ষরতাকে নতুন রূপ দিচ্ছে
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — কৃত্রিম বুদ্ধিমত্তা (এআই) ও তথ্য-অনুসন্ধান: বিশ্ববিদ্যালয়-শিক্ষার্থীদের মধ্যে তথ্য-উৎস হিসেবে এআই চ্যাটবট, সার্চ ইঞ্জিন ও গ্রন্থাগার-সম্পদের তুলনামূলক অনুসন্ধান
-- [[huang-genai-academic-information-resources-2026]] — জেনারেটিভ কৃত্রিম বুদ্ধিমত্তা বিশ্ববিদ্যালয়-শিক্ষার্থীদের একাডেমিক তথ্য-সম্পদের টেকসই ব্যবহার নতুন রূপ দিচ্ছে
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — নাইজেরিয়ার তৃতীয়-পর্যায়ের প্রতিষ্ঠানে তথ্য-সাক্ষরতা ও এআই-নির্দেশনা প্রচারে একাডেমিক গ্রন্থাগারিকদের শিক্ষার্থী-সম্পৃক্তি

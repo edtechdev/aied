@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -96,55 +98,3 @@ Uhandisi wa ilani unaungana na [[scaffolding]] — ilani zilizobuniwa vizuri zin
 - **"Ubora wa ilani ni sifa ya mwanafunzi."** **Utambuzi wa ilani hufuata taaluma, si mwanafunzi**: [[student-ai-conversations-cognitive-engagement-2026|Chang na Li (2026)]] waliainisha **ilani 60,087 kutoka kozi 116** na kugundua taaluma ilitabiri ubora wa ilani. Kufundisha wanafunzi kuandika ilani bora kunashughulikia tofauti iliyo katika somo lenyewe.
 - **"Wanafunzi hukuza mazoezi yao wenyewe ya kuandika ilani."** Mwalimu alipoonyesha mfano wa ilani, **wanafunzi waliirudia kama ilivyo**: kati ya **ilani 310 zilizorekodiwa kutoka vikundi kumi na viwili vya STEAM vya shule ya kati**, kunakili maagizo ya mwalimu kwa usahihi kulikuwa kawaida. Kuonyesha mfano huzalisha uigaji, ndiyo sababu ni kigezo cha ubunifu wa mfumo badala ya ujuzi unaoweza kuhamishwa.
 - **"Kuandika ilani ni ujuzi wa mwanafunzi kwanza na sifa ya mfumo pili."** Hii huhamisha uandishi wa ilani **kuwa kigezo cha ubunifu wa mfumo unaobadilika**, na athari zilizopimwa kwenye **ushiriki na ufanisi (28.1% dhidi ya 19.6% ubadilishaji wa mazoezi)**. Uwezo wa kiolesura wa kuandika ilani ulisogeza tabia zaidi kuliko mafundisho ya kuandika ilani yalivyosogeza.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — Tabaka la ngazi za msaada ndani ya mifumo ya matumizi yenye muundo
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Nyumba kubwa: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, uendeshaji wa mawakala)
-
-## Makala Zilizounganishwa
-- [[wang-teacher-student-centered-agents-physics-2026]] — Ilani za wadhifa na vikomo vya wakala kama kigezo cha kubuni katika kujifunza fizikia (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Kutoa ilani dhidi ya kurekebisha mfano kwa uzalishaji wa vipengele vya kusikiliza L2 vya GPT (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Wanafunzi wanahoji nini ni muhimu: kina cha mwingiliano wa LLM, ubora wa kazi, na ukumbusho wa haraka (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: kufundisha kwa wakati halisi kwa kutoa ilani kwa LLM ya kielimu
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Taksonomia ya msingi wa kazi ya kazi za LLM kwa ujuzi mahususi wa AI katika uandishi wa habari
-- [[prompt-privilege-equitable-ai-access-2026]] — Upendeleo wa Ilani: kupima na kupunguza tofauti za upatikanaji katika upatikanaji wa LLM
-- [[principal-trait-analysis-human-ai-skills-2026]] — Uchanganuzi wa Sifa Kuu: sifa zinazotegemea data za ushirikiano wa binadamu–AI
-- [[llms-text-linguistics-teaching-2026]] — LLM katika ufundishaji wa isimu ya maandishi
-- [[idea-framework-metacognitive-genai-2026]] — Mfumo wa IDEA kwa matumizi ya GenAI yanayodhibitiwa na metaji
-- [[lin-llm-interactive-lesson-generation]] — Uzalishaji wa LLM wa masomo ya mafunzo ya ufundishaji ya mwingiliano (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — Miongozo ya AI ya UNESCO iliyotafsiriwa kwa elimu ya kemia; mwelekeo wa kielimu
-- [[isaza-chatgpt-engineering-prompting-2026]] — Tabia za kutoa ilani zinatabiri utendaji wa mwanafunzi wa uhandisi
-- [[student-ai-conversations-cognitive-engagement-2026]] — Ushirikiano wa kiakili wa ngazi ya Bloom unaohusiana na taaluma katika mazungumzo ya mwanafunzi–AI (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM kama mawakala wa kubuni kielimu cha kurudia
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Uhandisi wa ilani dhidi ya ujuzi wa ilani: mfumo wa ushirikiano wa GenAI wa binadamu wa hatua tano wenye Mzunguko wa Ujuzi wa Ilani wa hatua tano (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Uhandisi wa ilani na uteuzi wa mfano kama vigezo vya ubora wa maoni ya AI (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Kutathmini Lengo la Maoni na Kubadilika kwa Kielimu katika Maoni ya LLM juu ya Uandishi wa Mwanafunzi
-- [[middle-school-genai-steam-interactions-2026]] — Makundi ya STEAM ya shule ya kati yalinakili maelekezo ya mkufunzi kama ilivyo katika ilani 47.1%
-- [[ecd-prompts-automated-essay-scoring-2026]] — Kutumia Ubini wa Kielekezo cha Ushahidi (ECD) Kuongoza Uhandisi wa Ilani katika Upimaji: Mfano na Alama za Insha za Kiotomatiki
-- [[lei-fan-genai-prompting-strategies-2026]] — Wanafunzi 234 kuhusu kile wanachokiona kuwa kigumu: upatanisho wa nia, si sintaksia ya ilani
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Ilani zisizo wazi zilizalisha mizunguko ya ufafanuzi inayojirudia yenye pengo kubwa zaidi la kuchanganyikiwa
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Uwezo wa uhandisi wa ilani kama njia ya usawa, pamoja na jaribio la ngazi za msaada katika mifano mbalimbali (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Ujuzi wa ilani kama uwezo unaohisiwa ambao bado unatabiri ushiriki

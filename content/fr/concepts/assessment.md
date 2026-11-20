@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -106,55 +108,3 @@ Une proposition de cette littérature pousse au-delà de la refonte à l'intéri
 - **« L'intégrité est surtout un problème de détection. »** Des **entretiens avec retour en arrière menés auprès de 26 étudiants** révèlent que les étudiants jugent leur parcours d'évaluation avec GenAI selon un **spectre**, et sur **157 étudiants**, la *manière* dont GenAI est utilisée — **intégration évaluative au service de la compréhension contre** substitution — prédisait le résultat. Le mode d'usage sépare les étudiants plus nettement que la présence de l'usage.
 - **« Les locuteurs non natifs de l'anglais sont le risque de triche. »** Une **revue PRISMA de 25 études** ajoute un facteur de risque que le débat sur la détection laisse de côté : les locuteurs non natifs montraient une **forte tendance à enfreindre l'intégrité lorsqu'ils peinaient** avec l'exigence linguistique. C'est un problème de soutien linguistique lu à tort comme un problème d'honnêteté.
 - **« Une politique qui interdit GenAI règle la question. »** Les étudiants rapportent un spectre de jugements plutôt qu'un schéma de respect des règles, si bien qu'une règle qui n'engage pas le raisonnement évaluatif que les étudiants exercent déjà ne sera pas suivie de manière cohérente.
-
-## Concepts liés
-- [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
-- [[pedagogical-partnerships]] — Partenariats pédagogiques
-- [[formative-assessment]] — Évaluation formative : items générés, validés et adaptés par l'IA à grande échelle
-- [[automated-assessment]] — Notation et scoring automatisés à travers les modalités d'évaluation
-- [[authentic-assessment]] — Tâches authentiques fondées sur le processus et robustes face à l'IA
-- [[assessment-validity]] — Validité des évaluations sous l'IA générative
-- [[educational-measurement]] — Théorie de la mesure qui sous-tend l'évaluation par l'IA
-- [[automated-essay-scoring]] — Notation automatisée de dissertations
-- [[automated-question-generation]] — Génération automatisée de questions
-- [[oral-assessment]] — Évaluation orale : formats en direct et enregistrés qui résistent à la substitution par l'IA
-- [[summative-assessment]] — Évaluation sommative : formats résistants à l'IA (examens oraux, surveillés, à livre fermé)
-- [[item-response-theory]] — Théorie de la réponse à l'item pour interpréter les réponses aux évaluations à l'ère de l'IA
-- [[psychometrically-aware-ai]] — Notation par une IA consciente de la psychométrie
-- [[learning-analytics]] — Analytique reliant les données d'évaluation à l'apprentissage
-- [[feedback]] — Boucles de rétroaction refermant le cycle de l'évaluation à l'apprentissage
-- [[feedback-literacy]] — Littératie de la rétroaction de l'apprenant
-- [[academic-integrity]] — Intégrité et débat sur la détection de l'IA
-- [[ai-detection]] — Détection des textes générés par l'IA
-- [[ai-ed-evaluation]] — Méthodes et repères de référence pour évaluer les évaluateurs automatisés
-- [[eportfolio]] — Évaluation par portfolio électronique fondée sur le processus
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Articles liés
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Un programme d'un an qui définit la littératie d'évaluation multimodale et mesure ce qui a bougé, et ce qui n'a pas bougé
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers-espace
-- [[mccorkle-aligned-genai-course-policy-2025]] — Autorisations d'usage de l'IA au niveau de la tâche, dérivées de ce qui est évalué (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Comparer la notation par ChatGPT, par les pairs et par l'enseignant selon les niveaux de qualité des projets (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — L'évaluation responsable à l'ère de l'IA
-- [[beyond-detection-authentic-assessment-ai-2025]] — Au-delà de la détection : l'évaluation authentique
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coautorature, intégrité et validité de l'évaluation
-- [[competency-based-education-genai-production-2026]] — L'éducation par les compétences après l'IA générative
-- [[genai-assessment-governance]] — Gouvernance fondée sur les preuves de l'IA générative dans l'évaluation
-- [[ssaho-ai-academic-integrity-review-2025]] — Revue sur l'intégrité et l'IA : la détection doit être associée à la refonte de l'évaluation
-- [[bassett-ai-detectors-education-2026]] — Pile je gagne, face tu perds : les détecteurs d'IA en éducation (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate : évaluation de l'anxiété des étudiants augmentée par les LLM (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Tutorat intelligent fondé sur les graphes pour des domaines dynamiques (2026)
-- [[asynchronous-oral-assessment-2026]] — Les évaluations orales asynchrones à l'ère de l'IA (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE : évaluer l'apprentissage à travers l'interaction avec GenAI (DRI + expertise visible)
-- [[walton-bearman-assessment-judgment-2025]] — Le jugement dans le travail des étudiants avec GenAI sur des tâches d'évaluation (26 étudiants, retour en arrière)
-- [[stamatoulis-genai-use-patterns-2026]] — Les patrons d'usage de GenAI (intégration évaluative contre recours à faible vérification) et les résultats
-- [[luo-dawson-value-judgments-grading-2026]] — Jugements de valeur dans la notation des travaux assistés par GenAI : honnêteté, confiance, validité et transparence dans les deux sens (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimer la difficulté des items avec des LLM et de l'apprentissage automatique arborescent
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
-- [[koretsky-genai-stem-assessment-2026]] — Un cadre à trois sommets pour réaligner l'évaluation
-- [[rubrics-genai-process-based-assessment-2026]] — Des critères de grille qui notent l'interaction, et non l'artefact

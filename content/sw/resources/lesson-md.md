@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -38,8 +39,3 @@ Andika somo katika kihariri chochote cha maandishi na kuingiza katika zana yoyot
 ## Ni kwa nani
 
 Wabuni wa mafunzo na waundaji wa kozi wanaotaka maudhui yao yadumu mabadiliko ya zana, wauzaji wa eLearning wanaotaka muundo wa kuingiza na kutoa ambao watumiaji wao tayari wanauelewa, na mtu yeyote anayejenga uandishi unaosaidiwa na AI juu ya muundo unaosomeka. Wachangiaji ni pamoja na Dan Bashaw wa LXD Integral, na muundo una dira ya umma hadi v1.8.
-
-## Dhana Zilizounganishwa
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -112,38 +114,3 @@ Bằng chứng cho việc đầu hàng nhận thức như một khái niệm đ�
 **"Cách khắc phục là AI tốt hơn, vì đầu hàng nhận thức bắt nguồn từ lỗi."** Đầu hàng nhận thức bắt nguồn từ *cấu trúc* của tương tác: một hệ thống tạo ra câu trả lời có vẻ hợp lý trước tiên sẽ loại bỏ dịp để người học tự tạo ra một câu trả lời. Cải thiện độ chính xác làm giảm tổn hại từ các câu trả lời sai và không làm gì với việc từ bỏ việc hình thành phán đoán, mà đó là tổn hại còn tồn tại sau khi công cụ đã biến mất.
 
 **"Dạy đánh giá phê phán là đủ."** Điều đó cần thiết và nó đến quá muộn. Khi một câu trả lời có vẻ hợp lý đã hiện trên màn hình, việc đánh giá trở thành việc xác nhận - đó là lý do tài liệu thiết kế ở đây đặt nỗ lực của sinh viên trước đầu ra của hệ thống thay vì kiểm toán nó sau đó.
-
-## Khái niệm liên quan
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Bài viết liên quan
-
-- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ và dấu hiệu thực nghiệm của việc đầu hàng nhận thức
-- [[generative-ai-reduced-study-time-math]] — dịch chuyển ở cấp dân số trong ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — khuôn khổ đầu hàng/giảm tải/quyền chủ động ở PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — hỗ trợ công cụ so với hỗ trợ mang tính phán đoán
-- [[ai-advice-suppresses-ikt-suspension-2026]] — sự sụp đổ của "tôi không biết"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — sự tham gia thần kinh và quyền tác giả
-- [[genai-thoughtless-use-self-directed-learning-2026]] — sử dụng thiếu suy nghĩ và học tập tự định hướng
-- [[stamatoulis-genai-use-patterns-2026]] — tiếp nhận ít kiểm chứng so với tích hợp có đánh giá
-- [[cognitive-washout-ai-skill-decay-2026]] — điều gì xảy ra sau khi rút lui
-- [[ai-overreliance-complex-adaptive-system-2026]] — sự phụ thuộc như một quá trình dân số
-- [[brcic-effortless-trap-productive-struggle-2026]] — bố trí AI để nhiệm vụ vẫn đòi hỏi nỗ lực
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — huấn luyện hiệu chỉnh
-- [[family-school-autonomy-support-genai-2026]] — giảm tải phụ thuộc so với giảm tải tự chủ
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — một trợ lý neo vào bài tập làm giảm việc giảm tải thay vì làm tăng nó, một điều kiện biên cho dấu hiệu đầu hàng nhận thức (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — ủy thác toàn bộ bài luận trong điều kiện tự nhiên: 15 trong 77 bài luận hoàn toàn do mô hình viết, 20 yêu cầu một bài luận trọn vẹn (Jelson và cộng sự 2026)

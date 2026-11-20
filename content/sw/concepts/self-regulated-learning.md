@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -113,7 +115,6 @@ Gawa kabla ya kukabidhi: [[scan-framework-task-assignment-generative-ai-2025|Tsi
 
 **Utegemezi hufanya kazi kupitia udhibiti wa juhudi, si kiasi cha matumizi.** Katika utafiti wa wanafunzi 982 wa shahada ya kwanza, [[cognitive-offloading|utegemezi wa GenAI]] ulitabiri udhibiti mdogo wa juhudi (β = −0.257), ambao ulitabiri [[learning-gains|matokeo yanayohisiwa ya kujifunza]] (β = 0.497), na kutoa njia hasi isiyo ya moja kwa moja (β = −0.128) huku mara ngapi zana ilitumika ikibeba uhusiano wowote wa jumla wenye umuhimu ([[li-genai-dependency-effort-regulation-2026|Li, Zhang na Yang (2026)]]).
 
-
 ### Kutafakari kunakojua GenAI kama SRL
 
 [[5p-reflection-model-genai-2026|Mfumo wa Kutafakari wa 5P (Kadel et al. 2026)]] unaweka tena kutafakari kunakopangwa katika enzi ya GenAI kama mazoezi ya SRL yanayotekelezwa. SRL inamiliki kutafakari tu kama awamu moja ya mzunguko wake; mazoezi yenyewe — ilani, dihari, [[eportfolio|kwingineko]] na maandishi ya kutafakari yaliyopewa alama — yanabebwa na ukurasa wa [[reflection]], ambao pia unaeleza tofauti yake na [[metacognition]] na [[self-assessment]]. Wanafunzi wanazidi kuunda maana pamoja na AI, na miundo ya jadi ya kutafakari inashindwa kuthibitisha kile mwanafunzi amefanya. Mfumo wa 5P (Kusudi, Mchakato, Bidhaa, Mitego, Mpango) huunganisha kuweka malengo kunakoelekezwa na fikira ya awali, kutafakari-wakati-wa-kitendo (kurekodi ilani na mizunguko), kutafakari-juu-ya-kitendo (kuthibitisha matokeo ya uwezekano dhidi ya vyanzo vya nje), awamu wazi ya mitego kwa [[hallucination-risk|kutunga vitu visivyokuwepo]], [[academic-integrity|wizi wa kitaaluma]], na [[cognitive-offloading|utegemezi kupita kiasi]], na mpango unaoelekea mbele — huku ukifuatilia hisia kila sehemu. Falsafa yake ya "mchakato juu ya bidhaa" huchukulia nyaraka zilizopangwa za [[human-ai-collaboration|mwingiliano wa binadamu–AI]] kama mahitaji ya kujidhibiti ambayo huhifadhi uhalisi, [[agency]], na kina cha [[metacognition|kimetaji]], huku ikiweka kutafakari kunakojua GenAI kama ngazi za msaada kwa kujidhibiti badala ya mbadala wake.
@@ -144,7 +145,6 @@ Meta-analysis ya masudio 34 (ukubwa wa athari 91) inakadiria kuwa uingiliaji una
 
 - **Katika makundi, udhibiti huchochewa na ilani ya AI yenyewe, na utofauti wa mawazo ya awali hubadilisha jinsi ilani hiyo inavyowafikia.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] walilinganisha makundi 8 ya walimu wa awali-wa-huduma wenye mawazo tofauti ya awali na makundi 6 yenye mawazo yanayofanana yakifanya kazi na chatbot ya kimetaji ya mahitaji na wakala wa sauti anayechukua hatua. Kazi ya ilani ilikubaliana katika hali zote kwa ilani 39, 18 dhidi ya 21, wakati muundo wa mfululizo haukufanya: makundi tofauti yalidumisha tathmini chanya au isiyoegemea upande wowote ya matokeo, na makundi yanayofanana yalidumisha tathmini hasi pamoja na makubaliano ya kazi yanayojirudia. Uchunguzi wa data mbichi ulihusisha sehemu ya mzunguko hasi na wakala wa sauti anayechukua hatua, hivyo waandishi walisoma kama kutolingana kwa muda na modaliti badala ya kukataa msaada. Athari yao ya kubuni ni kwamba msaada wa udhibiti wa pamoja katika makundi ambayo tayari yamekubaliana unapaswa kubaki wa hiari.
 
-
 ## SRL Inayoendeshwa na LLM: Ngazi za Msaada, Njia ya Mkato, au Mshirika?
 Kundi la masudio ya Learning Letters (2026) linakubaliana juu ya msisongo mmoja wa msongo: [[generative-ai|GenAI]] inaweza kutoa ngazi za msaada, kuvuruga, au kushirikiana na kujidhibiti kulingana na ubuni na jinsi wanafunzi wanavyodhibiti matumizi yake. Ushahidi unaonyesha SRL yenyewe — si zana — kama kibadilika cha kuamua.
 
@@ -161,9 +161,7 @@ Somo la pamoja: **SRL ni mbinu kuu inayotofautisha matumizi ya uhakiki na yale b
 
 Ni msaada upi unaochukua nafasi huamua mpatanishi yupi anayebeba uhusiano: miongoni mwa walimu 3,003 wa awali-wa-huduma wa Kichina, msaada wa zana ya AI unaohisiwa ulipata uwezo wa ubunifu hasa kupitia [[self-efficacy]] ya AI (60.88% ya athari ya jumla ya njia hiyo), huku msaada wa mazingira ya akili ya shule unaohisiwa ukipita hasa kupitia kujifunza kwa kujidhibiti (29.64% dhidi ya 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
-
 Wanafunzi waliripoti kuchelewa zaidi (β = 0.525) pamoja na faida za utendaji zinazohisiwa, jambo linalotenganisha kuchelewesha kazi ya kusoma kwa sababu AI inapatikana na kuchelewesha kwa msaada wa AI — tofauti ambayo alama moja ya kujidhibiti haiwezi kuibeba ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
-
 
 ## Athari
 - **Kwa zana za dihari/chatbot:** Unganisha mafunzo ya SRL (yanayotegemea kozi) na msaada wa hiari wa uandishi ili kupata mapato ya motisha na ya ushirikiano
@@ -186,80 +184,8 @@ Wanafunzi waliripoti kuchelewa zaidi (β = 0.525) pamoja na faida za utendaji zi
 - **Uthabiti uliowekwa kodi kutoka mazungumzo na wakala wa kielimu huenda kinyume na utendaji, katika uwekaji kodi wa LLM na wa binadamu.** Katika tathmini ya mazungumzo ya wanafunzi 107 wa shule ya kati wanaojifunza Kiingereza, uthabiti uliobainishwa kutoka zamu za kumbukumbu za gumzo na usanidi nane wa ChatGPT4o ulihusiana kwa hasi na utendaji wa kazi (r = -0.19, p < .001), na hesabu za uthabiti za mwekaji kodi mmoja wa binadamu zililingana na mwelekeo huo kwa r = -0.32 ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). Changamoto inayohisiwa (r = -0.25) ilibeba uhusiano hasi wenye nguvu zaidi, na dhana nyingine zote zilienda hasi (self-efficacy r = -0.15, KSAs za awali r = -0.14, nia r = -0.08). Waandishi wanasoma maonyesho ya uthabiti kama mapambano yasiyo na tija na wanadai kutofautisha uthabiti unaobadilika na usio na tija — kujaribu tena kwa mkakati dhidi ya jaribio-na-kosa la kurudia — kabla mfumo wowote wa kiotomatiki kuchukulia mazungumzo ya uthabiti kama ushiriki.
 - **GPT-4o anaweza kujenga kitabu cha kodi cha SRL chenye msingi wa nadharia kutoka hifadhi yake ya maarifa peke yake.** Kwa kupewa marejeleo ya Zimmerman (2000) na Winne na Hadwin (1998) peke yake, GPT-4o alipendekeza dhana zinazofunika awamu zote tatu za Zimmerman na tatu kati ya nne za Winne-Hadwin, na awamu ya ufafanuzi wa kazi peke yake haipo, na uboreshaji wa binadamu ulimaliza kitabu cha kodi kwa dhana 11 ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]]). Kuongeza matamshi 955 ya kufikiri-sauti kutoka wanafunzi 15 kwenye ilani kulifunga pengo, kufunika awamu zote za mifano yote miwili na kuanzisha kodi zenye msingi wa data kama Utambuzi wa Kosa. Uboreshaji wa binadamu ulibaki muhimu: wawekaji kodi wawili waliunganisha mapendekezo ya GPT yanayogongana (Kupanga dhidi ya Kuweka Malengo, Ufuatiliaji dhidi ya Tathmini, Tathmini ya Matokeo dhidi ya Mchakato), na hakuna udanganyifu uliotokea.
 
-
 ## Dhana Potofu za Kawaida
 - **"Kujidhibiti ni sifa ya mwanafunzi."** Kujifunza kwa udhibiti hugawanyika katika **kutafakari, upatikanaji wa sababu na kubadilika**, na wanafunzi wenye ujuzi **hutumia mikakati ya kiakili ili kuboresha mafanikio**. Haya ni michakato inayoweza kufunzwa ambayo ubuni unaweza kuiunga mkono au kuiharibu.
 - **"Ubuni wowote unaobadilika huauni udhibiti kwa usawa."** **Jaribio la kubahatisha la uwanja la 2x2 la wanafunzi 179 kwa siku 22** la [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] lililinganisha kanuni mbili za ubuni na kuzikuta tofauti kwa mbinu, hivyo "unaobadilika" si matibabu moja.
 - **"Wasiwasi huharibu udhibiti."** Katika utafiti wa mbinu mchanganyiko wa **wanafunzi 107**, [[anxiety-and-stress|wasiwasi wa AI]] wa juu zaidi **ulihusishwa kwa njia chanya na kuhakiki na kukagua tena**. Wasiwasi ulifanya kazi kama kichocheo cha kuhakiki, jambo ambalo ni udhibiti badala ya kutokuwepo kwake.
 - **SRL ya kimetaji ilitabiri mzigo unaohusiana na kujifunza ambapo [[ai-feedback-quality|maoni ya AI]] hayakufanya.** Katika utafiti wa uwanja wa wiki tano na **wanafunzi 234 na mitazamo 1,147**, kujidhibiti kwa kimetaji kulikuwa mtabiri mzuri wa **mzigo wa kiakili unaofaa** (β = 0.363, p < 0.001 kwa nia-ya-kutibu; 0.346, p < 0.001 kwa matumizi). Hakukutabiri kwa kiasi kikubwa mzigo wa nje, huku upatikanaji peke yake wa maoni ya mazungumzo ya AI usikitabiri kimoja wapo. Ni ushirikiano **endelevu** tu na maoni uliotenganisha wanafunzi kwa mzigo unaofaa, na matumizi yasiyo ya kawaida hayakufanya (β = −0.219, p = 0.116), jambo linaloweka kiungo tendaji katika udhibiti wa mwanafunzi wa uchakataji badala ya katika ugavi wa maoni ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger na Liening, 2026]]).
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: muungano wa dhana za upande wa mwanafunzi
-- [[metacognition]] — ufuatiliaji wa kiakili ambao SRL inategemea
-- [[self-assessment]]
-- [[self-efficacy]] — imani ya awamu ya fikira ya awali inayochochea juhudi
-- [[scaffolding]] — msaada ulio na viwango unaohifadhi mahitaji ya kujidhibiti
-- [[feedback]] — ingizo ambalo wanafunzi wanajidhibiti kupitia
-- [[feedback-literacy]] — uwezo wa kutenda kulingana na maoni
-- [[help-seeking]] — tabia ya mkakati ya SRL
-- [[motivation]] — mshirika wa pande mbili wa kujidhibiti
-- [[cognitive-offloading]] — hatari wakati AI inaondoa kazi ya kujidhibiti
-- [[generative-ai]] — teknolojia ambayo inaweza kutoa ngazi za msaada au kuvuruga SRL
-- [[ai-literacy]] — uwezo wa kujidhibiti katika matumizi ya AI
-- [[self-directed-learning]] — dhana pana zaidi ya uhuru
-- [[agency]] — uwezo wa mwanafunzi wa kutenda kwa nia, muhimu kwa kujidhibiti, ujumuishaji, na kuweka nafasi
-- [[adaptive-learning]] — ubinafsishaji ambao unaweza kusaidia kujidhibiti
-- [[formative-assessment]] — maoni ya kuendelea kwa kujidhibiti
-- [[learning-by-teaching]] — mkakati unaojenga kujidhibiti
-- [[intelligent-tutoring]] — mifumo inayotoa ngazi za msaada kwa SRL
-- [[llm]] — mfano wa msingi wa zana za AI
-- [[retrieval-spacing-interleaving]] — kupanga, kujipima na chaguzi za mkakati wa kujifunza zinazofanywa na wanafunzi
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analysis ya kujifunza kwa kujidhibiti kunakosaidiwa na AI: g = 0.76 katika masudio 34, huku aina ya zana na jukumu la kielimu zikirekebisha athari (Zhang et al. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Utegemezi wa AI ya kizalishaji na matokeo yanayohisiwa ya kujifunza: njia ya udhibiti wa juhudi (Li, Zhang & Yang 2026)
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Usahihi kwa kila aina wa SRL iliyogawanywa na LLM katika darasa la kimwili (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Kile ambacho mawasilisho hayaonyeshi: kuchanganya kupunguza mzigo wa kiakili katika kazi za hisabati za wanafunzi kwa LLM (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Kuhusisha kujidhibiti kupita kiasi na mfano kutokana na dalili za juu juu katika upangaji wa mtaala (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — Upatikanaji wa AIGC na Kujidhibiti kwa Mwanafunzi
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Ujuzi wa mwingiliano wa AI: kuelekeza chatbot kulitaka SRL iliyokusudiwa kusaidiwa (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — Mfumo wa kutafakari wa 5P kwa enzi ya GenAI (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kupunguza mzigo wa kiakili kunakojali tabaka katika uandishi unaosaidiwa na GenAI (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — Wakala wa mwanafunzi katika viwango: kujidhibiti, ujumuishaji, kuweka nafasi
-- [[rented-self-decoupling-performance-becoming-2026]] — Kujikodisha: kukodisha kupangwa juu ya mifano ya SRL ya Winne, na maazimio kumi na viashiria vya ndani ya mwanafunzi
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI kama mshirika wa kujifunza anayejua muktadha kwa muda
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Jinsi wanafunzi wanavyodhibiti kujifunza na chatbot ya genAI
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Ngazi za msaada au njia ya mkato? Jukumu mbili la GenAI katika SRL
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Utafutaji wa msaada unaoendeshwa na LLM katika STEM: wenye tabaka, wa zana, na uliothibitishwa
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Maoni ya GenAI na SRL: chanzo kinachohisiwa ni muhimu
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Kutoka wasiwasi wa AI hadi udhibiti wa mkakati
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ushahidi mchanganyiko juu ya kimetaji/kujidhibiti na GenAI
-- [[agentic-ai-pedagogical-best-practice-2026]] — AI ya uwakala na msisongo wa kujidhibiti
-- [[decreasing-digital-distraction-college-online-learning-2026]] — SRL na kuchanganyikiwa kidogo na kidijitali katika kujifunza mtandaoni (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Kufanya matokeo ya ML yapatikane kwa walimu katika madarasa yaliyochanganywa
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: mzunguko unaomkabili mwanafunzi wa utambulishaji wa kazi, uthibitishaji na kutafakari baada ya kazi
-- [[learning-analytics-genai-secondary-writing-2026]] — Kutumia Uchanganuzi wa Kujifunza kusaidia Uandishi wa Wanafunzi wa Sekondari na Akili Bandia ya Kizalishaji
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Kifaa kilichothibitishwa kwa kujidhibiti kinachosaidiwa na AI katika kujifunza la STEM kunakobadilika, na ufahamu wa kimetaji kama mtabiri mwenye nguvu zaidi
-- [[iqbal-human-genai-support-essay-revision-2026]] — Hali ya msaada, si hukumu ya kimetaji, iliendelesha chaguo la mkakati wa marekebisho katika jaribio la marekebisho ya insha
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Muda mrefu: matumizi ya AI ya kutafakari yalitabiri ufikiri mahususi lakini si kupata maarifa, bila athari ya Matthew
-- [[genai-literacy-srl-special-education-2026]] — Ujuzi wa GenAI unahusiana na tabia za kujifunza kwa kujidhibiti hasa kupitia wakala wa kujifunza
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — Aina ya msaada hubadilisha mpatanishi: uwezo binafsi wa AI dhidi ya kujifunza kwa kujidhibiti
-- [[genai-learning-procrastination-planned-behavior-2026]] — Ucheleweshaji wa kujifunza kwa msaada wa GenAI: pengo la nia-tabia ambalo wasiwasi huimarisha
-- [[genai-srl-l2-writing-scale-2026]] — Kipimo cha GenAI-SRL cha vipimo sita kilichothibitishwa kwa uandishi wa L2, chenye udhibiti wa mazingira kama kipimo chake chenyewe na fomu fupi ya vipimo 12 iliyoboreshwa na ant-colony
-- [[borchers-srl-language-generalization-2025]] — Mifano Mikubwa ya Lugha Inahamisha Utabiri wa SRL katika Lugha Mpya Ndani Lakini Sio Kati ya Taaluma (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — Mfano wa Kujifunza Mseto Unaotegemea Mradi unaotumia Akili Bandia Kuboresha Kujifunza kwa Kujidhibiti kwa Wanafunzi
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Utofauti wa mawazo ya awali ulibadilisha jinsi ilani ya kimetaji ilivyowafikia: kazi zile zile za ilani, tathmini hasi tofauti ya matokeo ya AI (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — Kuchelewa kulipanda pamoja na matumizi (β = 0.525) kando ya faida inayohisiwa, ikitenganisha kuchelewa kunakowezeshwa na AI na kuchelewa kuhusu AI tu (Gouroubera et al. 2026)
-
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — Msaidizi wa kufundisha wa AI kama mjibu wa kwanza alichukua nafasi ya majibu ya marika, na pamoja nayo udhibiti wa pamoja uliokuza thamani ya kujidhibiti katika alama (Davis et al. 2026)

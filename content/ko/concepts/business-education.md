@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -64,9 +66,7 @@ ai_assist:
 
 경영은 생성 AI 도입이 가장 빠른 분야 가운데 하나이므로, 경영대는 AI가 통합된 직장을 위해 학생을 준비시켜야 한다는 절박한 압력을 받습니다. 이 연구는 효과적인 통합이 **교육과정이 이끌고 학생이 알려주는** 것임을 강조합니다. AI 도구를 더하는 것이 아니라, GenAI 리터러시와 윤리적 판단, 진본적 응용이 학위 구조를 통해 짜이도록 프로그램을 재설계하는 것입니다. 이것은 경영학 교육을 지식베이스의 더 넓은 주제 — [[ai-literacy|AI 리터러시]], [[teacher-role|교육자]] 준비, [[assessment]] 재설계, AI 시대의 [[curriculum-design|교육과정]] 개혁 — 와 연결합니다.
 
-
 사례 연구와 시뮬레이션은 이 문헌에 가장 가까운 교수 형식이지만, 경영학 증거는 사례 기반 개입을 분리해 내지 못합니다. 교수법과 그 한계는 [[case-based-learning]]을 참조하십시오.
-
 
 ## 경영 교수자를 위한 시사점
 
@@ -80,41 +80,3 @@ ai_assist:
 - **"학생들이 AI를 원하는 것은 지름길을 원해서입니다."** 한 학생이 알려준 틀은 학생들이 **높게 참여하고 있으며 진로를 위해 GenAI 기술이 필요함을 인식**하고 있고, 동시에 **의도하지 않게 학문적 부정행위를 저지르지 않고 AI를 사용하기를** 원한다는 것을 발견했습니다. 요구는 분명한 경계가 있는 역량이지, 일을 피할 허가가 아닙니다.
 - **"경영 교육과정에 AI 모듈을 더하면 이익을 확보합니다."** 건설적 정합성 연구는 **이익과 위험이 어느 쪽이 우세한지가 교육과정 통합의 정도에 의해 형성**된다는 것을 발견했습니다. 작동하는 구분은 **통합하되 덧붙이지 말라**는 것입니다. 덧붙인 모듈은 평가 설계를 바꾸지 않은 채로 남깁니다.
 - **"도구의 정교함이 기존 이러닝을 이깁니다."** **130명의 학생** 인식 연구는 **챗봇 지원과 에이전트 지원 모두가 전통적 이러닝보다** 학습 향상, 개인화, 의사결정에서 높게 평가되었다는 것을 발견했습니다. 이 연구가 무엇을 측정하는지 짚어 둘 만합니다. 전통적 기준선에 대비한 학생의 *인식*이며, 그것에 대비한 학습이 아닙니다.
-
-## 연결된 개념들
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — 사례 연구, 사례 방법, 사례 토론
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## 연결된 글들
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: 경영학 교육에서 실천적 지혜를 위한 해석학적 발견법(Heron & Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI가 증강하는 경영 공정 관리를 위한 AI 의사결정 검사 지점: 틀과 교육적 구현
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: 전자상거래 수업에서의 에이전틱 GAI 지원, 인식된 이익과 위험(Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — 경영대를 위한 학생이 알려준 GenAI 틀(Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — 경영학 교육에서의 AI 십 년(Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — 경영 고등교육에서의 GenAI에 대한 건설적 정합성(Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — GenAI를 교육과정에 통합하는 것에 관한 학생의 통찰(Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 고등교육에서 AI 도입의 조직적 동인(Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — 경영 시뮬레이션 게임을 위한 AI 대화형 도구의 CAIS-GBL 틀(Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — 학생 마케팅 게시물 자동 채점에서의 합의와 오류
-- [[shi-genai-experiential-learning-management-education-2026]] — 경영 교육 교수법을 재구성하기 위한 세 가지 생성 AI 기제
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 수업에서 구축한 RAG 챗봇은 결과가 아니라 기대를 움직였다 (Thoeni & Fryer 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — 비즈니스 분석가 도제 과정의 과정 중심 협력 에세이: 주제가 아니라 문서화된 반복을 채점
-
-- [[csaszar-ai-management-education-2026]] — 경영학 교육에 대한 AI의 효과: 가치 기반 전략 분석(Csaszar 외 2026)
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — 재무 수업 여덟 기수, 문항 채점 75,404건: ChatGPT 이후의 상승은 감독 없는 퀴즈와 개념 문항에 국한되었다(Rodríguez Longarela & McGrath 2026)
-

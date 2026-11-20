@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -77,42 +79,3 @@ ai_assist:
 **"이해관계자 분석은 초기 단계의 작업입니다."** 역할들이 같은 체계를 계속 다르게 해석하기 때문에 긴장은 운영 단계까지 지속됩니다. 학생 대상 [[personalized-learning|개인화]] 층과 교수진 대상 정직성 대시보드는 같은 데이터를 두 위치에서 본 것이며, 어느 한쪽이 조정될 때마다 갈등이 되풀이됩니다.
 
 **"여러 독자에 걸친 정체성은 하나의 메시지로 모두를 섬길 수 있다는 뜻입니다."** 독자를 가로질러 소통하려면 같은 결정을 왜곡하지 않으면서 다른 용어로 옮겨야 하며, 그것은 하나의 메시지를 네 가지로 다시 쓰는 것보다 많은 일입니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자 측 개념을 아우르는 상위 개념
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — 기관의 AI 지원 결정에 대해 누가 요구할 자격이 있는가
-
-## 연결된 문서
-
-- [[genai-student-experiences-uk-he-survey-2026]] — 영국 고등교육에서의 생성형 AI 경험에 관한 학생 조사
-- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책 속의 AI(학생과 기관)
-- [[ai-campus-wellbeing-tools]] — 캠퍼스 웰빙을 위한 AI 기반 도구
-- [[ai-tpack-mathematics-teacher-education-2026]] — 수학 교사 교육에서의 AI-TPACK 수준
-- [[genai-policies-higher-ed-computing]] — 컴퓨팅 분야의 기관 차원 생성형 AI 정책
-- [[ethical-ai-higher-ed-game-theory]] — 고등교육에서의 윤리적 AI 사용을 위한 협력 게임 틀
-- [[student-rationalization-ai-writing]] — 학문적 글쓰기에서 AI 사용에 대한 학생의 합리화
-- [[ai-changing-teaching-workflows]] — AI가 교수 작업 흐름을 바꾸는 방식
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — 고등교육에서 생성형 AI에 대한 이해관계자의 인식(Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "나중에 고치면 돼요": 에듀테크에서 교육, AI, 그리고 학생 프라이버시 문제의 미루기

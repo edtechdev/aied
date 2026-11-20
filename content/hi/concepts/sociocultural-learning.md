@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -78,34 +80,3 @@ ZPD (विगोत्स्की) सामाजिक-सांस्कृ
 **"समूह में कोई उपकरण जोड़ने से केवल समूह की दक्षता बदलती है।"** इससे श्रम-विभाजन बदलता है, और वही वह इकाई है जिसका विश्लेषण सिद्धांत करता है। जो समूह अपने अधिकांश प्रश्न किसी एजेंट की ओर भेजता है, उसने संज्ञानात्मक काम का पुनर्वितरण कर दिया है, चाहे उत्पाद अपरिवर्तित रहे।
 
 **"वितरित संज्ञान का अर्थ है कि व्यक्ति मायने नहीं रखता।"** इसका अर्थ है कि व्यक्ति के योगदान को केवल व्यक्तिगत प्रदर्शन से नहीं पढ़ा जा सकता; विश्लेषण की इकाई गतिविधि-तंत्र है, अलग-थलग व्यक्ति नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## संबंधित लेख
-- [[youth-enter-chat-llm-student-talk-2026]] — जब युवा चैट में आते हैं: छात्र-बातचीत के एलएलएम-आधारित मापों का सत्यापन
-- [[generative-ai-mediational-agent-sociocultural-2026]] — एक मध्यस्थीय एजेंट के रूप में जनरेटिव एआई
-- [[golrang-propact-pair-programming-2026]] — सहयोगी एआई शिक्षाप्रदान
-- [[finkelstein-principled-ai-education-2025]] — सैद्धांतिक एआई शिक्षा ढाँचे
-- [[stanford-evidence-base-ai-k12-2026]] — के-12 में एआई हेतु स्टैनफोर्ड प्रमाण-आधार
-- [[young-people-learning-generative-ai-rapid-review-2026]] — पीके-12 में जनरेटिव एआई पर सिडनी त्वरित समीक्षा
-- [[ai-cognitive-partner-co-regulation-learning]] — संज्ञानात्मक साथी और सह-नियमन के रूप में एआई
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — एलएलएम-लिखित संकेतों ने गणित सीखने के लाभों पर मानव शिक्षक संकेतों की बराबरी की (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — फीका करना इस पर कि शिक्षार्थी की बात किस ओर लक्षित है, उत्तर कितना गहरा है इस पर नहीं
-

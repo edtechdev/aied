@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -98,56 +100,3 @@ Rekayasa prompt terkait dengan [[scaffolding]] — prompt yang dirancang baik da
 - **"Kualitas prompt adalah atribut siswa."** **Kognisi prompt mengikuti disiplin ilmu, bukan siswa**: [[student-ai-conversations-cognitive-engagement-2026|Chang dan Li (2026)]] mengklasifikasikan **60,087 prompt dari 116 mata kuliah** dan menemukan disiplin memprediksi kecanggihan prompt. Mengajari siswa melakukan prompt lebih baik menangani variasi yang terletak pada materi pelajaran.
 - **"Siswa mengembangkan praktik prompting mereka sendiri."** Ketika instruktur memodelkan prompt, **siswa menggunakannya kembali secara verbatim** — di antara **310 prompt yang terekam dari dua belas kelompok STEAM sekolah menengah**, penyalinan persis atas instruksi instruktur adalah hal yang umum. Pemodelan menghasilkan reproduksi, itulah sebabnya ia adalah tuas desain sistem alih-alih keterampilan yang dapat ditransfer.
 - **"Prompting adalah keterampilan pembelajar terlebih dahulu dan sifat sistem kedua."** Ini menggeser prompting **menjadi tuas desain sistem adaptif**, dengan efek terukur pada **keterlibatan dan efisiensi (konversi latihan 28.1% vs 19.6%)**. Afordansi prompting pada antarmuka menggerakkan perilaku lebih dari instruksi tentang prompting.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Lapisan perancah di dalam urutan penggunaan terstruktur
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agen)
-
-## Artikel terkait
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 siswa tentang apa yang mereka anggap sulit: keselarasan maksud, bukan sintaksis prompt
-- [[wang-teacher-student-centered-agents-physics-2026]] — Prompt peran dan batasan agen sebagai variabel desain dalam pembelajaran fisika (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. penyetelan halus untuk pembangkitan butir menyimak L2 berbasis GPT (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Apa yang ditanyakan siswa itu penting: kedalaman interaksi LLM, kualitas tugas, dan daya ingat segera (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: pelatihan waktu nyata untuk prompting LLM pendidikan
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Taksonomi tugas LLM berbasis tugas untuk literasi AI kritis dalam jurnalisme
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: mengukur & memitigasi disparitas aksesibilitas dalam akses LLM
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: sifat kolaborasi manusia-AI yang digerakkan data
-- [[llms-text-linguistics-teaching-2026]] — LLM dalam pengajaran linguistik teks
-- [[idea-framework-metacognitive-genai-2026]] — Kerangka IDEA untuk penggunaan GenAI yang diatur secara metakognitif
-- [[lin-llm-interactive-lesson-generation]] — Pembangkitan pelajaran pelatihan tutor interaktif oleh LLM (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — Pedoman AI UNESCO diterjemahkan ke pendidikan kimia; pergeseran epistemik
-- [[isaza-chatgpt-engineering-prompting-2026]] — Perilaku prompting memprediksi kinerja mahasiswa teknik
-- [[student-ai-conversations-cognitive-engagement-2026]] — Keterlibatan kognitif tingkat Bloom yang terkait disiplin dalam percakapan siswa-AI (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Rekayasa prompt vs literasi prompt: kerangka keterlibatan GenAI berpusat manusia lima fase dengan Siklus Literasi Prompt lima langkah (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Rekayasa prompt dan pemilihan model sebagai prediktor kualitas umpan balik AI (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi Fokus Umpan Balik dan Adaptivitas Pedagogis dalam Umpan Balik yang Dihasilkan LLM atas Tulisan Siswa
-
-- [[middle-school-genai-steam-interactions-2026]] — Kelompok STEAM sekolah menengah menyalin instruksi instruktur secara verbatim dalam 47.1% prompt
-- [[ecd-prompts-automated-essay-scoring-2026]] — Menggunakan Evidence-Centered Design untuk Memandu Rekayasa Prompt dalam Pengukuran: Ilustrasi dengan Penilaian Esai Otomatis
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Prompt yang kabur menghasilkan lingkar klarifikasi yang mengulang diri sendiri dengan kesenjangan frustrasi terbesar
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Kompetensi rekayasa prompt sebagai jalur keadilan, dengan eksperimen perancah lintas model (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Literasi prompt sebagai kemampuan yang dipersepsikan yang tetap memprediksi keterlibatan

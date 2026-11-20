@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -117,53 +119,3 @@ ai_assist:
 - **«Помилка оцінювача — це випадковий шум.»** **Розсуд оцінювача несе вимірюваний власний напрям**: п’ять офіцерів із прийому, розділяючи **50 людських і 50 згенерованих ШІ есеїв до прийому**, досягли **AUC 0,70**, тобто розрізняли джерела лише слабко, — і оскільки ніхто не перевіряв подання, цей **непідсилений розсуд був усім механізмом примусу**, причому кожне позначене есе несло на **1,5 відсоткового пункта** меншу ймовірність прийому. Слабкий сигнал став реальним покаранням.
 - **«Рівесницьке та ШІ-рецензування — взаємозамінні.»** Модель PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **поєднує рівесницьке рецензування з ШІ-рецензуванням**, щоб структурувати калібрування. Поєднання і є дизайном, що означає, що жодне з них окремо його не забезпечує.
 - **«Якість розсуду — це властивість судді.»** Знахідка про прийом локалізує проблему в устрої — невалідований розсуд, застосований із наслідками без стадії відбору, — а не в здатності окремих людей.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Крок оцінювання, який студенти здійснюють над результатами ШІ всередині цих послідовностей
-- [[ai-education]] — ШІ в освіті (узагальнення)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Пов’язані статті
-- [[elkington-human-centred-assessment-value-2026]] — Людиноцентричне оцінювання, асамбляжі та генеративні обмеження (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Чому викладачі письма відмовляються віддавати оцінювання: це те, як вони пізнають своїх студентів
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT проти зворотного зв’язку рівесників як навчальних ґрунтів для різних вимірів оцінювального розсуду
-- [[ai-internal-feedback-evaluative-judgments]] — Як внутрішній зворотний зв’язок з підтримкою ШІ розвиває оцінювальні розсуди і де міркування залишається тонким
-- [[genai-feedback-design-multisite-experiment]] — Гібридний зворотний зв’язок себе/рівесників/ШІ зберігає аґентність і розсуд краще, ніж прямий зворотний зв’язок ШІ
-- [[pairr-ai-peer-review-2025]] — Огляд рівесників і ШІ зі структурованою рефлексією як калібрування в масштабі
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Як грамотність у зворотному зв’язку вирішує, чи зворотний зв’язок ШІ навчає, чи підміняє
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Прогалина сталості в зворотному зв’язку ШІ
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Оцінювальний розсуд як одна з ниток проєктування, що замінює примус, керований виявленням
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Роблячи видимим міркування і розсуд тим, що винагороджує рубрика
-- [[learner-centered-feedback-ai]] — Оцінювальний розсуд викладача з інструментами зворотного зв’язку ШІ
-- [[beyond-detection-authentic-assessment-ai-2025]] — Поза виявленням: автентичність перепроєктована, а не поліційована
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Переосмислення валідності оцінювання для епохи генеративного ШІ
-- [[du-yuan-epistemic-dependence-2026]] — Оспорюваність, відновлюваність і критерії, що відокремлюють сперяння від залежності
-- [[rethinking-ai-writing-feedback-literacy]] — Грамотність у зворотному зв’язку для письма з допомогою ШІ
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Розсуд як оцінювальне ядро доброчесності: антотовані сліди рішень, усний захист, історія версій (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Панелі, що зважують докази без кодифікованих стандартів: власна проблема розсуду закладу (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Неточність детектора і відмова на гібридному письмі: людський розсуд як рекомендована заміна вердикту (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Функція, а не платформа: судження про те, що зробив інструмент, а не що він є (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms і ставка розпізнавання: оцінювання сліду міркування позаду роботи з допомогою ШІ (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Написані ШІ есеї для прийому поширені, але карані
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — перевірка аґентності (credible, relevant, acceptable, nuanced), що структурує кожну взаємодію зі ШІ
-- [[judgment-centred-software-engineering-education-2026]] — Огляд і рамка після гайпу для освіти з програмної інженерії, посиленої ШІ
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Розсуд відрізняв якість лише тоді, коли був з’єднаний із переробкою (Z = 2,80 і 2,50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Правки викладачів стали повторно використовуваними критеріями валідації (Tang et al. 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Патернінг, вилучений із завдання, і розсуд, що його позичають

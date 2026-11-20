@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -45,12 +47,10 @@ ai_assist:
 
 **Дизайн завдань, а не лише тьюторство.** Проаналізувавши 158 закодованих текстових одиниць від 13 майбутніх учителів початкової школи, Ledezma et al. (2026) виявили, що геометричні завдання, спроєктовані GenAI, тяжіли до високої когнітивної вимоги, але писали закриті інструкції, і одне містило хибний масштаб (4 м зображено як 8 см, зазначено 1 м = 4 см) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al. (2026)]]).
 
-
 **Перцептивне позначення саме є змінною дизайну завдання:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang та співавт. (2026)]] виявили, що дизайн візуальних підказок у задачах на порядок дій розпадається на скаффолдинги та бажані труднощі. Припасувавши BKT-моделі, специфічні для умов підказок, до 19 952 точок даних від 688 шестикласників, вони виявили, що конгруентний інтервал із нейтральним кольором (CSNC) є послідовним скаффолдингом — єдина умова, яка на посттесті випередила референцію без підказок (B = 0,33, p = .011).
 Нейтральний інтервал із неконгруентним кольором (NSIC) дав найнижчу частку вгадування (0,190), найвищу швидкість навчання (0,0379) і найнижчу швидкість забування (0,0054).
 
 **Приріст у постановці задач лежить на поверхні.** 57 майбутніх учителів математики ставили задачі на ділення дробів до і з Gemini, і оцінки за рубрикою зросли з 5,95 до 6,65 з 8. Приріст зосередився в контексті та мові, тоді як тип задачі й розв’язність не мали куди рухатися, а звернення до змісту ділення дробів піднялося з підлоги 1,00 до 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
-
 
 **Штраф за задоволеність.** Керування LLM-тьютором через план [[productive-failure]] замість того, щоб дозволити йому просто відповідати, підвищило вірність стратегії та дало 2,6 спроби розв’язання за сеанс у дослідженні з 17 старшокласниками, проте здобувачі оцінили тьютора продуктивного провалу як менш корисного, ніж базовий ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
@@ -72,9 +72,7 @@ ai_assist:
 
 Єдиним галузевим синтезом цієї предметної області в базі знань є PRISMA-огляд 2021–2025, що охопив 42 дослідження, відібрані з 922 записів (каппа Коена = 0,88), і він додає категорію, якої бракує кластерам сторінки: автоматизацію для викладачів, де MATH41 підтримує швидке створення математичних завдань для здобувачів різних рівнів, а гібридна модель CognifyNet аналізує патерни активності здобувачів, щоб педагоги могли рано виявляти виникаючі труднощі. Той самий огляд локалізує сліпу пляму галузі — за частками предметних областей досліджень освіта становить 60 %, [[cs-education|комп’ютерні науки]] 28 %, і лише одне дослідження належало до психології, залишаючи емоційний вплив, довіру та етику порівняно недослідженими — та наполягає, що технічну здатність не слід ототожнювати з продемонстрованою ефективністю в аудиторії. ([[ai-mathematics-education-prisma-review-2026]])
 
-
 **Інклюзія є властивістю дизайну, а не побічним продуктом здатності.** Огляд 38 джерел поєднує [[universal-design-for-learning|UDL]] із [[samr-model|SAMR]] і виявляє, що ШІ може переосмислити математичне завдання, залишивши його недоступним для здобувачів, чия мова, пристрій або зв’язок не відповідають умовам ([[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi, 2026]]).
-
 
 Рейтинг викликів галузі ставить спроможність викладачів на перше місце. Другий [[meta-analysis-systematic-review|систематичний огляд]], 54 дослідження 2017–2025 років, нарахував технологічно-педагогічну інтеграцію та готовність викладачів у 38, [[equity-in-ai-education|ризики рівності й доступу]] в 34 та обмеження глибокого міркування в 29, і пов’язує їх з інструкційними відповідями в тривимірній рамці ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
@@ -117,67 +115,3 @@ ai_assist:
 **«Математика — легкий домен для ШІ, бо відповіді перевіряються».** Перевірність робить математику добрим полігоном, а не безпечною. Оскільки кінцеву відповідь можна перевірити, студент може валідувати розв’язок, який він не конструював, — і саме так міркування з предмета обходиться, поки оцінка залишається чистою. Властивість, яка приваблює дослідників, і є властивістю, що робить перекладання невидимим.
 
 **«[[item-response-theory|Складність пункту]] з математики може призначити здатна модель».** Її треба калібрувати проти відповідей. У дослідженні складності пунктів, що охоплювало **5 170 пунктів K-5**, каліброваних за моделлю IRT Раша, згенеровані моделлю оцінки складності zero-shot порівнювали з емпіричною калібрацією саме тому, що заявлена складність і виміряна складність є різними величинами.
-
-## Пов’язані поняття
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Пов’язані статті
-
-- [[ledezma-geometry-task-design-genai-preservice-2026]]
-- [[llm-math-homework-offloading-traces-2026]]
-- [[ai-proof-learning-cognitive-offloading-2026]]
-- [[preservice-math-teachers-genai-communication-2026]]
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]]
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]]
-- [[ai-mathematics-education-prisma-review-2026]]
-- [[automated-scoring-economics-math-items-nigeria-2026]]
-- [[mindful-llm-math-tutoring-2026]]
-- [[making-ai-tutoring-productive-mastery-math-2026]]
-- [[chudziak-ai-math-tutoring-platform]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]]
-- [[puech-pedagogical-steering-llm-productive-failure-2025]]
-- [[instructional-design-proficiency-masters-math-2026]]
-- [[rule-integrated-llm-tutoring-primary-math-2026]]
-- [[razavi-powers-item-difficulty-llm-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[genai-practice-platform-maths-feedback-2026]]
-- [[ai-generated-responses-achievement-self-efficacy-2026]]
-- [[teachers-instrumental-orchestration-ai-math-2026]]
-- [[decision-making-agent-student-decision-acceptance-2026]]
-- [[genai-learning-motivation-meta-analysis-2026]]
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — ШІ в математичних класах: синергійна стратегія різноманіття та інклюзивності
-

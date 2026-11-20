@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -115,7 +117,6 @@ ai_assist:
 
 [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]는 [[cs-education|AI 지원 프로그래밍 교육]]에서 도움 요청의 행동적 선행 요인을 다룹니다. 인간 튜터는 명시적 요청뿐 아니라 학습자의 관찰 가능한 행동에 적응하지만, AI 튜터는 그 맥락이 부족합니다. **TutorTrace**는 저수준 IDE 원격 측정으로부터 학습자의 행동 맥락을 실시간으로 계산 가능하게 만드는 데이터 집합과 파이프라인입니다(네 번의 배치, N=480; 약 180K 이벤트, 13,633개의 행동 세그먼트, 27개 지표), 첫 AI 질의 *이전에*, 연속된 질의들 *사이에*, 그리고 *세션 전체에* 걸친 학습자 활동의 유형론을 도출합니다. 이것은 시스템이 질의가 **안내된** 도움 요청(독립적 작업에 선행됨)을 반영하는지 **의존적** 도움 요청(독립적 작업 없음)을 반영하는지를 분류할 수 있게 합니다 — 홀드아웃 예측에서 AUROC=.717 — 그리고 임박한 질의를 예측합니다(AUROC=.726). 예비 교실 평가는 행동 인식 프롬프트가 독립적 작업 없는 질의들 사이의 간격을 50.0%에서 20.7%로 줄였음을 발견했습니다. 이것은 [[learning-analytics]] 원격 측정을 [[intelligent-tutoring|적응적 튜터링]]에 연결하여, 행동 맥락이 규모에 맞게 작동화되어 학생이 도움을 *어떻게* 구하는지를 비계로 세울 수 있으며, 단지 그들의 명시적 질문에 응답하기만 하는 것이 아님을 보여줍니다.
 
-
 **도움 요청의 궤적은 수준뿐 아니라 전이를 예측합니다.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]]는 LLM으로 수학 문제를 모델링한 중등 학생 112명의 발화 880개를 코딩하여, 정적인 구성비가 정보를 주지 못함을 발견했습니다: 발화의 81.5%가 요청이었고, 명시적 평가는 2.2%뿐이었으며, 요청의 54%는 이해 지향, 46%는 답 추구였습니다. AI 없이 치른 사후 시험의 수행은 그 수준이 아니라 세션 내 기울기로 예측되었습니다. 이해 지향 도움 요청은 대화가 진행되며 감소했고(M = −0.20), 그 궤적은 이미 사전 시험 점수를 포함한 모형에 ΔR2 = .110을 더했습니다(β = .34, p < .001). 정적 상호작용 특징은 ΔR2 = .023(p = .684)만 더했습니다. 따라서 도움 요청의 질은 곡선으로 읽어야 합니다: 개념적 질문으로 시작해 답 요청으로 정착하는 세션은 더 약한 비지원 수행을 표시하며, 명시적 자기조절의 완만한 상승(M = +0.103)이 그것을 상쇄하지 못했습니다.
 
 **두 번째 파이프라인은 인프라 측에서 같은 질문을 던집니다.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]]는 인간–AI 교환이 그 자체로 하나의 데이터 클래스라고 주장합니다: 그들의 표상은 요청을 촉발한 계산 상태, 요청, 응답, 사용자의 평가, 그리고 뒤따른 실행을 하나의 객체로 기록합니다. 그런 다음 질의는 그 맥락으로부터 오류 복구, 다음 단계 막힘, 개념적 도움, 검증으로 분류됩니다. 학생–과제 쌍 140개에 걸친 35명의 JupyterLab 배포에서, 단순 상호작용 횟수는 성공적으로 실행된 셀과 r = 0.12로만 상관되었고, 37개 쌍은 접근 권한이 있었지만 전혀 사용하지 않았으며 26개는 배정된 조건 밖에서 사용했습니다.
@@ -142,56 +143,3 @@ ai_assist:
 도움 요청은 보통 결정으로 연구됩니다. 묻기가 그 비용을 감수할 가치가 있는지에 대한 판단입니다. 필리핀의 공학 학생과 교육자 392명을 대상으로 한 2026년 PLS-SEM 연구는 [[generative-ai|생성형 AI]]가 일단 자리 잡으면 그 결정이 이미 대부분 내려져 있음을 시사합니다. **습관은 인간 도움 요청의 대체를 β = 0.711로 예측한** 반면, [[technology-acceptance-model|행동 의도]]는 β = 0.039로 예측했습니다. 통계적으로 0과 구별되지 않는 경로입니다. 그 표본의 GenAI 사용자 절반(49.6%)이 사람에게 도움을 덜 자주 요청한다고 보고했고, 막혔을 때 첫 번째 자원으로 인간을 꼽은 사람은 15.8%에 불과했습니다. 도구를 꼽은 30.4%와 대조적입니다.
 
 도움 요청을 어떻게 비계로 세울지에 대해 두 가지 함의가 따릅니다. 첫째, 태도를 겨냥하거나 묻기를 더 매력적으로 만들려는 개입은 이미 자동화된 루틴과 경쟁합니다. 믿음이 아니라 루틴을 겨냥해야 합니다. 둘째, 대체를 *줄인* 유일한 구성 개념은 [[academic-integrity|학문적 진실성]]에 대한 우려였습니다(β = −0.329). 이는 인간과의 상담을 보존하는 일이 메시지 전달보다 필수적인 대인 점검 시점 — 동료 검토, 구술 변론, 감독되는 실습 도움 — 을 통해 더 그럴듯하게 달성됨을 시사합니다.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념의 포괄 개념
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — 강좌 내 도움 요청을 넘어선 제도적 외부 연락과 지원 배분
-
-## 연결된 문서
-
-- [[leite-its-k12-meta-analysis-2025]] — 효과를 떠받치는 교습 지원: 자동 프롬프트보다 요청형 예제와 힌트
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — 실제 프로그래밍 강좌에서 힌트 길이를 다음 제출 정답, 시도 수, 시간에 대해 측정했다
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 아무도 요청하지 않은 도우미 에이전트 (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: LLM을 활용한 펜 기반 상호작용적 제자리 질의응답 시스템
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM에서의 LLM 매개 도움 요청: 층위적이고 도구적이며 검증된
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: 2년간의 학교 실험에서의 Khanmigo
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: 수용과 학습에 관한 실험
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 강좌에서 학생–LLM 대화의 StudyChat 데이터 집합
-- [[lak2026-hint-button-unproductive-use]] — 성급한 힌트 요청과 피상적인 힌트 읽기가 ITS에서 더 낮은 학습 향상을 예측한다
-- [[ai-fallibility-warning-help-seeking]] — AI의 오류 가능성에 대한 경고가 수학 튜터링 시스템에서 도움 요청을 높인다
-- [[regulating-ai-tutor-adolescent-srl]] — 청소년 GenAI 도움 요청과 자기조절 학습에서의 의도–행동 간극
-- [[guided-llm-scaffolding-independent-learning]] — 안내된 LLM 비계가 추론 중심 도움 요청과 독립적 학습을 개선한다
-- [[rethinking-scaffolding-llm-tutors]] — 실제 LLM 튜터 배치에서의 비계/학생 수용 불일치
-- [[uneven-impact-generative-ai-student-learning-2026]] — 초기 의존: 독립적 사고, 검색, 또는 교수자보다 먼저 GenAI를 참고하는 것이 이득과 해악을 모두 예측한다(Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — 온라인 작문에서의 자원 리터러시: 병목은 도움이 필요한 시점을 인식하는 것이다(Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 학업 지원의 장벽 낮추기: 고등 교육의 도움 요청 격차를 다루는 강좌 특화 RAG 시스템 평가
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: 학습자가 하는 것에 따라 에스컬레이션하고 걷히는 AI 튜터
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: 문제 해결 중 표적화된 AI 도움 요청의 비계
-- [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 막힘을 해결하는 방식의 변화 검토
-- [[student-query-demand-hybrid-ai-support-2026]] — 학생들이 실제로 묻는 것: 하이브리드 지원 시스템의 수요 구조와 자동화 가능성
-
-- [[taufer-human-ai-interaction-haidl-2026]] — 상호작용을 일급 데이터로: 주변의 실행 상태로 질의를 분류하기
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — 도움 요청의 수준이 아니라 궤적이 비지원 수학 수행을 예측한다
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — 공학 정역학 강좌에서 사용자 입력 데이터를 통한 학생의 생성형 AI 사용 검토
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — 컴퓨터 과학 교육에서 자기조절 학습과 개념적 이해를 높이는 다중 에이전트 인공지능 모형…
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 의도가 아니라 습관이 학생이 사람에게 도움을 덜 자주 요청하는 것을 예측한다: 49.6%가 인간 도움 요청 감소를 보고, 습관의 β 0.711 대 의도 0.039

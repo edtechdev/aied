@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -66,7 +68,6 @@ Utafiti wa hifadhi hii ya maarifa unarekodi upendeleo ukiingia katika sehemu nyi
 
 **Usahihi wa jumla unaweza kuficha mfano ambao hauwezi kuwapata wanafunzi wanaohangaika.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] walifunza familia tatu za mifano kwenye kohoti moja ya Estonia na kuigawanya kwa njia mbili. Kwenye seti iliyosawazishwa familia zilikuwa zinazolingana. Kwenye mgawanyo usio sawa, ukiwa na wanafunzi 125 chini ya robo ya kwanza dhidi ya 328 juu yake, miti ya maamuzi, mtandao wa Bayesian na misitu ya nasibu zilifika urejeshaji 8%, 12% na 16% kwa wanaofanya vibaya kwa usahihi 80%, na mfano wa neva-simboliki pekee ulipita 50%.
 
-
 ## Mbinu za kupunguza
 
 Utafiti wa hifadhi hii ya maarifa unaonyesha mikakati kadhaa inayokamiliana:
@@ -106,59 +107,8 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 
 Kila kitu katika ukurasa huu kinahusu upendeleo ndani ya mfumo. [[automation-bias]] inahusu upendeleo kwa mtu anayesoma pato lake — kukubali pendekezo ambalo mwanadamu angehoji kama angefikia peke yake — na inaendelea hata pale mfano ni sahihi.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Upendeleo ni tatizo la utiaji alama na maoni."** Upendeleo unaingia **katika madaraja ya kazi nje ya utiaji alama**: LLM tatu zilizoweka madarasa ya uhandisi wa programu ya wanafunzi 28 katika timu nne zilipanga wanaume angalau 80% mara chache zaidi kuliko usambazaji wa marejeleo. Uundaji wa timu ulibeba upendeleo kwa ukubwa unaolingana na utiaji alama.
 - **"Kutoa ujuzi husika kunaondoa upendeleo."** Kutoa ujuzi **kulipunguza lakini hakukuondoa**: **99.2% ya majukumu yaliyotegemea ujuzi yalilingana na mojawapo ya timu mbili za ukweli wa msingi, hata hivyo jinsia bado iliamua kati ya chaguo halali sawa (OR 2.53)**. Ulinganishaji wa kazi karibu kamili uliambatana na athari ya kijinsia, hivyo usahihi katika kigezo cha msingi si ushahidi wa haki.
 - **"Mbinu moja ya kupunguza inatosha."** Utafiti unaonyesha **mikakati inayokamilishana**, ikiwemo uundaji wa mifano unaozingatia haki, kwa sababu upendeleo unaoingia wakati wa uundaji haushughulikiwi na marekebisho yanayolenga maandishi ya matokeo.
-
-## Dhana Zilizounganishwa
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — kushindwa kwa upande wa msomaji ambao ukurasa huu haushughulikii: kukubali pendekezo bila kulikagua
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Makala Zilizounganishwa
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Ulinganifu wa kielimu wa neuro-simboliki (NSPA)
-- [[ai-scoring-language-bias-physics]] — Upendeleo wa lugha katika utiaji alama unaotegemea AI
-- [[gender-bias-transfer-llm-writing]] — Kuhamisha upendeleo wa jinsia katika uandishi unaosaidiwa na LLM
-- [[paternalistic-filter-llm-history-education]] — Kichujio cha kibaba na kukataa kwa njia tofauti
-- [[fair-explainable-edu-recommendations]] — Mapendekezo ya kielimu ya haki na ya uwazi
-- [[temporal-smoothness-debiased-kt]] — Kufuatilia maarifa bila upendeleo
-- [[ground-truth-reliability-aied]] — Kuboresha ukweli wa msingi kwa uaminifu wa AI
-- [[data-annotations-pedagogical-hints]] — Ufafanuzi wa data kama vidokezo vya kielimu
-- [[xai-education-framework]] — AI inayoweza kuelezewa katika elimu
-- [[antiskillbench-persona-skills-privacy-2026]] — Faragha na ukaguzi wa upendeleo wa ujuzi-wa-persona
-- [[genai-minoritized-knowledges-disability]] — GenAI na kutengwa kwa maarifa yaliyotengwa
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Mbinu za Kufundisha Zilizotiwa Alama: upendeleo unaolingana na dhana potofu katika maoni ya uandishi ya kiotomatiki
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Je, AI inaweza kutoa msaada unaofaa kwa mifumo tofauti ya wanafunzi? Tathmini ya kiwango kikubwa
-- [[bias-representation-text-to-image-education-2026]] — Upendeleo na uwakilishi katika maandishi-hadi-picha yanayozalishwa na AI: mapitio ya kimfumo (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Thamani na kanuni za maadili kwa AI katika elimu
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni ya Kuchukua Hatua na yenye Uwajibikisho: Mapitio ya Wigo na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Kufundisha, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Akili Bandia ya Kizalishaji Inaweza Kuimarisha Upendeleo wa Kijamii katika Elimu ya Uhandisi wa Programu
-- [[fairness-theatre-early-warning-systems-2026]] — Ukumbi wa Haki: Kutathmini Uingiliaji wa Haki wa Baada ya Tukio katika Mifumo ya Onyo la Mapema Inayodhibitiwa na Muuzaji
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — chini ya usawa mbaya wa madaraja familia tatu za mifano hazikuweza kuwatambua wanaofanya vibaya wakati vipimo vilivyosawazishwa vilionekana vizuri
-

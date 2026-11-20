@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -44,6 +45,3 @@ Beceri bir destek donanımıyla birlikte gelir: biri kabul görüşmeleri, biri 
 ## Terimler ve uyarılar
 
 Lisans Creative Commons BY-NC-ND 4.0'dır ve yazarın belirttiği koşullar kurumsal okuyucuların çoğu için önemlidir: kişisel, ticari olmayan çalışma ve mesleki gelişim memnuniyetle karşılanırken, ticari kullanım, yeniden dağıtım ve beyaz etiketleme ticari bir lisans gerektirir. Depo, on adet kendi tasarladığı meydan okumada 320 puanın 314'ünü bildiriyor; bu, bağımsız bir değerlendirme değil yazarın kendi değerlendirmesidir ve aynı yazar çerçeve üzerine danışmanlık ve atölyeler satmaktadır. Proje, işverenlerinden bağımsız kişisel bir girişim olarak tanımlanıyor ve son commit'i Nisan 2026'dan geliyor.
-
-## Bağlı kavramlar
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -39,7 +40,3 @@ ai_assist:
 ## Откъде произлиза
 
 Започва в Университета Дюк през 2024–2025 г. като AI Ethics Learning Toolkit, съвместно проектиран от студенти, библиотекари, преподаватели и технолози в Центъра за преподаване и учене и библиотеките на Дюк, и е пуснат наново след обратна връзка и преработка от Хана Розиър, Реми Калир и Ария Черник.
-
-## Свързани понятия
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]

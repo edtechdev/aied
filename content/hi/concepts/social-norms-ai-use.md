@@ -25,6 +25,8 @@ ai_assist:
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -109,38 +111,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 **"निगरानी उपयोग को दृश्य बनाकर मानदंड तय कर देगी।"** व्यवहार को दृश्य बनाना यह तय नहीं करता कि मानदंड क्या होना चाहिए; यह बदलता है कि लोग क्या प्रकट करने को तैयार हैं। मापा गया पैटर्न पहले से चयनात्मक प्रकटीकरण है, इसलिए उस पर लगाया गया निगरानी-तंत्र आचरण नहीं, छिपाव को मापता है।
 
 **"मानदंड अनौपचारिक हैं, इसलिए संस्थागत पहुँच से बाहर हैं।"** वे स्थानीय रूप से लागू होते हैं और स्थानीय रूप से बदले जा सकते हैं, जिससे वे नीति से अधिक सुलभ हैं: एक पाठ्यक्रम-दल का स्पष्ट अभ्यास इसलिए भी लीवर है क्योंकि वहीं प्रचलित नियम तय होता है।
-
-## संबंधित अवधारणाएँ
-
-- [[academic-integrity]] — वह औपचारिक नियम-पुस्तिका जिसके साथ ये मानदंड बढ़ते हैं
-- [[ai-use-disclosure]] — वह अभ्यास जिसे मानदंड सबसे सीधे नियंत्रित करते हैं
-- [[framing-ai-use-for-students]] — एक कक्षा अपनी अपेक्षाएँ कैसे व्यक्त करती है
-- [[reducing-ai-misuse]] — मानदंड-निर्धारण का शिक्षण-पक्षीय समकक्ष
-- [[learner-identity]] — जब एआई उपयोग दृश्य होता है तो शिक्षार्थी को कौन माना जाता है
-- [[ai-detection]] — वह तकनीकी प्रतिक्रिया जो अधिकतर विफल रहती है
-- [[remote-proctoring]] — मानदंडों का प्रतिस्थापी बनने का निगरानी-प्रयास
-- [[trust]] — वह जिस पर मानदंड और प्रकटीकरण दोनों निर्भर हैं
-- [[equity-in-ai-education]] — वह जो सामाजिक लागत उठाता है
-- [[help-seeking]] — वह व्यवहार जिसे लज्जा सबसे पहले दबाती है
-- [[group-work]] — जहाँ समूह मानदंडों पर बातचीत होती है
-- [[student-experience]] — इन सबका अनुभवजन्य पक्ष
-- [[anxiety-and-stress]] — वह भावनात्मक अवशेष
-- [[governance]] — वह औपचारिक परत जिनके नीचे ये मानदंड बैठे हैं
-- [[ethics]] — वह साहित्य जिसमें छात्रों के लिए कहने को सबसे कम है
-
-## संबंधित लेख
-
-- [[student-perception-ai-use-collaboration]] — साथियों के एआई उपयोग के बारे में छात्रों की धारणा-सटीकता और उसका सहयोग-प्रदर्शन से संबंध
-- [[shame-guilt-ai-regulation-computing-education]] — कंप्यूटिंग शिक्षा में एआई उपयोग के सामाजिक नियंता के रूप में लज्जा और अपराधबोध
-- [[chirikov-regulate-ai-syllabi-2026]] — प्रशिक्षक कॉलेज में एआई को कैसे नियंत्रित करते हैं: 31,000 पाठ्यक्रम-पाठ्यक्रमों से साक्ष्य
-- [[vassallo-ai-guilt-complex-faculty-2026]] — एआई अपराधबोध सम्मिश्रण: शैक्षणिक प्रौद्योगिकी गोद लेने में नैतिक भाव और नैतिक दुविधाएँ
-- [[agarwal-ethical-values-norms-aied-2026]] — कृत्रिम बुद्धिमत्ता के शिक्षा के लिए नैतिक मूल्यों और मानदंडों की पहचान
-- [[conijn-fear-big-brother-proctored-exams-2022]] — बड़े भाई का डर: परीक्षा-निगरानी परीक्षाओं की संभावित नकारात्मक दुष्प्रभाव
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — निगरानी में: नर्सिंग मूल्यांकन में दूरस्थ परीक्षा-निगरानी प्रथाओं का मानचित्रण
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — अधूरी जानकारी में मूल्यांकन-डिज़ाइन: जनरेटिव एआई, प्रकटीकरण और छात्र प्रतिक्रिया
-- [[teichmann-detecting-undetectable-misconduct-2026]] — अपहचनीय का पता लगाना: जनरेटिव एआई के बाद दुराचार प्रक्रियाएँ
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — धोखाधड़ी या प्रतिस्पर्धा? मार्केटिंग शिक्षा में एआई
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI-समर्थित समूह मूल्यांकन में सशक्तिकरण
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit विमर्श विश्लेषण: संकाय–छात्र संपर्क पहचान और प्रवर्तन विवादों में केंद्रित (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 स्नातक: अनुभूत साथी-प्रकटीकरण और प्रशिक्षक-सहजता ने नैतिक अलगाव से आगे प्रकटीकरण की भविष्यवाणी की (Qu और Wang 2026)

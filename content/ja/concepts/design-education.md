@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -88,48 +90,3 @@ ai_assist:
 - **「デザインの学生は熱心な採用者である。」** 同じコホートは、**71% が GenAI を毎日または毎週使い、65% がそれを信用せず、85% がその出力を修正している**ことを示します。頻繁な利用と低い信頼が併存しており、信頼を前提に価値を提案するツールは利用者を読み違えています。
 - **「GenAI はデザインの過程全体に一律に役立つ。」** 縦断的なスタジオ研究にわたって構築された GAI-A プラットフォームが見出した**生産的な用途は二つだけ**でした。初期のアイデア創出における視覚的刺激としての GenAI と、開発段階における**解空間の組合せ的な拡張器**としての GenAI です。有用性は段階に固有でした。
 - **「創造性の伸びは拡散していて測定できない。」** **31 名の下位群**では、創造的思考のスコアが **77.23 から 94.68 に上昇しました（d = 0.82）**。伸びは測定可能であり、下位群に限られています。これが主張の誠実な形です。
-
-## 関連概念
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## 関連論文
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit:スタジオでのフィードバックのために成果物を認識するAI批評ワークスペース。学習成果ではなく、シミュレーションに基づくレディネスの研究。
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — DALL-E 3のワークフローが一般的創造性自己効力感を低下させた建築設計実験。
-- [[human-ai-collaboration-design-education-rubric-2026]] — プロセス・ルーブリックによって、AIの検証そのものを採点対象にできる。
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — デザイン学生におけるAIによる技術的破壊への認識、デザイン思考マインドセット、デザイン・イノベーション・コンピテンス。
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — デザイン学生のAIエージェント利用意向にとって態度が必要な関門であり、タスク–技術適合が第二の経路となる(Chu & Liu 2026)。
-- [[han-prompt-literacy-ai-dependence-design-2026]] — 依存のタイプが、プロンプト・リテラシーがエンゲージメントへと結びつくかどうかを決める。
-- [[mokryn-ai-anchor-synthetic-stakeholders-2026]] — シミュレートされたステークホルダーがデザイン問題を枠づけるのか、それとも単に追認するだけなのかは、インタビューの順序によって決まる。

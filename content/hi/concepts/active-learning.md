@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -88,52 +90,3 @@ AI-सक्षम सक्रिय अधिगम इस ज्ञान आ
 - **"AI-समर्थित जाँच अपने आप उच्च-स्तरीय होती है।"** **120 कक्षा 8 छात्रों** वाले एक अर्ध-प्रयोग में पाया गया कि AI-समर्थित [[inquiry-based-learning|खोज-आधारित अधिगम]] ने रचनात्मक गणितीय प्रदर्शन **और** एक संकीर्ण माप दोनों को बढ़ाया: हस्तक्षेप ने कुछ परिणामों को हिलाया, सबको नहीं। उच्च-स्तरीय लेबल के साथ सहसंबंध उच्च-स्तरीय कार्य के बराबर नहीं है।
 - **"छात्रों द्वारा शिक्षण डिज़ाइन करना एक तकनीकी अभ्यास है।"** व्युत्क्रम अध्ययन में 700 छात्रों के पाठ्यक्रम के **345 छात्रों** ने प्रत्येक ने एक संवादात्मक एजेंट बनाया जो किसी साथी को तीन डिज़ाइन पैटर्न सिखाए। सक्रिय अधिगम डिज़ाइन के काम से आया, जो प्रॉम्प्ट इंजीनियरिंग नहीं बल्कि [[pedagogy|शिक्षाशास्त्रीय]] तर्क है।
 - **"जुड़ाव के निष्कर्ष अधिगम के निष्कर्ष हैं।"** वही साक्ष्य आधार चेताता है कि **नियंत्रण-समूह रहित, स्वयंसेवी नमूने** वाला डिज़ाइन केवल जुड़ाव के दावों का समर्थन करता है। छात्रों ने खुली डिज़ाइन स्वतंत्रता को सर्वाधिक महत्व दिया (**22.3%** शीर्ष सकारात्मक विषय) और सबसे अधिक अस्पष्ट निर्देशों की शिकायत की (**23.7%**); दोनों अनुभव से जुड़े हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — छत्र: AI शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-
-## संबंधित लेख
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ट्यूटरिंग इन-कक्षा सक्रिय अधिगम से बेहतर प्रदर्शन करती है: एक प्रामाणिक शैक्षणिक सेटिंग में नया अनुसंधान-आधारित डिज़ाइन पेश करने वाला एक RCT (केस्टिन एट अल. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — अर्थशास्त्र के लिए सक्रिय-अधिगम GenAI ढांचा (बेक और ब्रोडरसन 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — AI इंटरैक्शन मोड का EEG अध्ययन (इंटरैक्टिव > ऑटो)
-- [[supplynet-visual-exploratory-learning]] — सप्लाईनेट: बहु-एजेंट सिमुलेशन के माध्यम से दृश्य खोजपूर्ण सीखना
-- [[knowloop-confusion-to-consolidation-2026]] — नोलूप: चरणबद्ध संवादात्मक व्याख्यान-पश्चात समीक्षा
-- [[academic-league-of-ai-2026]] — AI का शैक्षणिक संघ: परियोजना-आधारित सक्रिय अधिगम
-- [[mujib-ai-ibl-creative-math-2026]] — AI-समर्थित IBL और सृजनात्मक गणितीय प्रदर्शन
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — शिक्षार्थी विशेषताएँ × TTS संवाद-प्रारूप इंटरैक्शन
-- [[instructional-guidance-genai-learning]] — प्रेरित बनाम अप्रेरित एआई समीक्षा: खुले अंत वाले अंकों को मॉडल पहुँच नहीं, संरचना ने हिलाया
-- [[assigned-ai-preclass-student-engagement-2026]] — कक्षा-पूर्व एआई पूर्वाभ्यास ने दूसरे उपयोग के बाद कक्षा-भीतर भागीदारी 31% बढ़ाई, पहले उपयोग के बाद नहीं

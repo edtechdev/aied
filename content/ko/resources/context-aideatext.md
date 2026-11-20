@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,12 +48,3 @@ conText는 [[intelligent-tutoring|AI 튜터링]]이 대부분 이야기하면서
 ## 참고사항과 유의점
 
 학생용 도구에는 가격이나 계정이 공개되어 있지 않으며, 기관 배포(클라우드, 온프레미스 또는 하이브리드)는 맞춤 제안과 회의를 통해 제공됩니다. "무료"는 2026년 11월 현재 공개 데모의 상태로 취급하고 보장으로 보지 마십시오. 텍스트와 이미지는 Claude로 구동되는 호스팅 서비스로 가며, 사이트 자체가 업로드 전에 이름, 금액, 주소, 회사명을 제거하라고 사용자에게 말합니다. 이는 비식별화 부담을 플랫폼이 아니라 업로드하는 사람에게 옮깁니다. 세션은 내보내지 않으면 한 시간 뒤 스스로 삭제됩니다. 기반 회사는 기관에 더 넓은 추론 그래프 평가 플랫폼도 판매하며, 연역적·귀납적·귀추적·유추적 그래프를 구분한다는 주장은 네 개의 참고 문헌에서 나옵니다. 사이트는 그것을 시연이라고 부르며, 규모에서의 검증은 아직 남아 있습니다.
-
-## 연결된 개념
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

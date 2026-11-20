@@ -29,6 +29,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -79,10 +80,3 @@ FERPA, HIPAA와의 정합성은 출판사 자신의 비교이며 그렇게 읽�
 공유 Google 문서로도 유통되며, 이를 열려면 Google 계정이 필요합니다. 입장 시
 역할과 기관을 묻는 짧은 선택형 온보딩 질문이 나타나며, 이메일은 선택 사항이고
 이메일 없이도 사이트 전체를 읽을 수 있습니다.
-
-## 연결된 개념
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

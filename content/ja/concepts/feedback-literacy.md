@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -89,51 +91,3 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 - **「AIフィードバックは批判的思考を直接改善する。」** **421人の中国の学部生**において、生成AIの利用と[[self-report-measures|自己報告された]]批判的思考の結びつきは、**フィードバック・リテラシーを通じて**生じていました。媒介するのはリテラシーであり、それを読む能力を築かずにAIフィードバックを加える介入は、間違った項に働きかけるのです。
 - **「リテラシーは前提条件であり、成果ではない。」** **399人の中国の学部生を対象とした三波のランダム切片パネル**は、AIフィードバック・リテラシーが**後の**エージェント的な関与を予測することを見出しました（**β = 0.222**）。したがって循環は双方向に走ります。一度通れば済む関門ではなく、動的なものなのです。
 - **「作文を変えるのは行動可能性である。」** **それぞれ48人の二つの学級**での三つの作文・フィードバック・改訂のサイクルを通じて、改訂の見返りを担ったのは**理解という次元**でした。学生が解析できないフィードバックは、より行動可能にしても改善されません。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — これらの配列がワークフローに組み込む批判的な検討の段階
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## 関連記事
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AIフィードバック・リテラシーとエージェント的な関与：三波のランダム切片パネル（Xu 2026）
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — ルーブリックで評定した成果物の見本を生成してフィードバック・リテラシーを教える（Pennington & Hock 2026）
-- [[ai-peer-feedback-stem-teacher-education-2026]] — 成果物の改善を伴わない選択的な受け入れ：フィードバックの翻訳の隔たり（Oh 2026）
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 教員の枠づけを伴わないAIフィードバックがフィードバック・リテラシーの水準を引き上げる（Brunnström & Palmqvist 2026）
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — フィードバック・リテラシーがAIフィードバック→自己調整学習を調整する（Mendoza et al. 2026）
-- [[hawkins-feedback-literacy-ai-essay-writing]] — フィードバック・リテラシーがAIで増強された作文のエッセイ成績を予測する（Hawkins et al. 2026）
-- [[liu-deris-ai-feedback-literacy-uptake]] — AIフィードバック・リテラシー尺度と受け入れの予測（Liu & Deris 2025）
-- [[zhan-boud-dawson-genai-feedback-engagement]] — フィードバックへの関与の可能化要因としての生成AIのフレームワーク（Zhan, Boud, Dawson & Yan 2025）
-- [[rethinking-ai-writing-feedback-literacy]] — AIに支援された作文のためのフィードバック・リテラシーの台本と校正の訓練（Dai 2026）
-- [[feedback-literacy-scripts-eap-writing]] — EAPの作文改訂におけるフィードバック・リテラシーの台本と第二評定者（Yao 2026）
-- [[tubino-adachi-ai-automated-feedback-literacy]] — フィードバック・リテラシーを育てるためのAI自動フィードバック道具（Tubino & Adachi 2025）
-- [[irwin-muller-efl-peer-feedback-literacy]] — フィードバック・リテラシーを訓練するためのEFLピアフィードバックにおける生成AIの位置づけ（Irwin & Muller 2026）
-- [[scaffolding-srl-feedback-genai-human-peers]] — 自己調整されたフィードバックの足場づくり：生成AI対人間のピア（Gu, Chen & Yan 2026）
-- [[jin-genai-learning-analytics-feedback-literacy]] — フィードバックにおける生成AIのラーニングアナリティクス、フィードバック・リテラシーの観点から（Jin et al. 2025）
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 生成AIによる評価が心理学的・フィードバック・AIのリテラシーを築く（Richmond & Nicholls 2025）
-- [[learner-centered-feedback-ai]] — 学習者中心のAIフィードバックについての教員の実践と知覚
-- [[care-full-feedback-genai]] — 生成AIによる配慮のこもったフィードバック設計
-- [[ai-generated-feedback-higher-ed]] — 高等教育におけるAIが生成するフィードバック
-- [[ai-feedback-ecosystem-higher-education-2026]] — AIが学生・教育者・ピア・資料の間の関係を作り直すフィードバックの生態系（Bearman et al. 2026）
-- [[ai-feedback-critical-thinking-writing-2026]] — 作文におけるAIフィードバックと批判的思考
-- [[repeated-ai-writing-feedback-semester]] — 学期を通した繰り返されるAI作文フィードバック
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-
-- [[genai-use-critical-thinking-moderation-2026]] — 生成AIの利用から批判的思考への経路が生成AIのフィードバック・リテラシーを通り、省察的思考とともに強まる
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 改訂の見返りを担ったのは行動可能性ではなく理解だった
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 一つの内省課題の中で、同じ草稿に対するピアとチャットボットのフィードバックを評価する

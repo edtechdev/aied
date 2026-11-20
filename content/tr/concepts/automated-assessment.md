@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -97,13 +99,11 @@ Bilgi tabanının araştırmasında **güvenin nasıl modellendiği**:
 
 - **Rubrik üretimi ve eğitmen denetimli notlandırma işlem hatları:** [[harmogen-ai-assessment-rubric-generation|Mendonça vd. (2026)]], LLM tarafından üretilen değerlendirme rubriklerinin (HARMOGEN-R), teknik içerik açısından ±5 puanlık eşdeğerlik payı içinde insan oluşturma rubriklerle eşleşebileceğini gösterir; yapılandırılmış üretim daha fazla çapraz model tutarlılığı sağlar. [[ai-assisted-instructor-supervised-grading-feedback|Cruz vd. (2026)]], YZ notlarının 362 gönderimin %83’ünde eğitmenin puanına 0,5 puan içinde kaldığı (MAE 0,31) uçtan uca bir GPT-4o notlandırma işlem hattını değerlendirir — en iyi biçimde, eğitmen yargısının yerine geçen değil, ölçeklenebilir bir tamamlayıcısı olarak çerçevelenir.
 
-
 ## İşi değil, öğretmeyi değerlendirmek
 
 Otomatik değerlendirme genellikle öğrencilerin ürettiği şeyi puanlar ve [[teacher-role|öğretmenin kendi performansını]] insan gözlemine bırakır. 2026 tarihli bütünleştirici bir derleme araçları öğretmenin kendisine çevirir; Scopus, Web of Science ve ERIC’teki 367 kayıttan çekilen 21 çalışmayı haritalar ([[dino-ai-teacher-performance-learner-behavior-review-2026|Dino vd., 2026]]). Derleme, Whittemore ve Knafl’ın beş aşamalı tasarımını PRISMA raporlamasıyla izlemiş, kaliteyi MMAT 2018 ile değerlendirmiş — 105 ölçütün 89’u Evet olarak derecelendirilmiş — ve anahtar sözcük haritasını VOSviewer’da kurmuştur.
 
 Derlemi dört tema düzenler: **Değerlendirme**, öğretmenleri öğrenci geri bildirimi ve anket verilerinden puanlayan modeller; **Angajman**, öğrencileri çevrimiçi, yerinde ve karma ortamlarda angajman düzeyine göre sıralayan araçlar; **İfade**, yazılı öğrenci geri bildiriminin duygu ve konu kodlaması; ve **Deneyim**, gözlemlenebilir sınıf davranışının sensör ve video ile yakalanması. Öğretmen performansı en yaygın hedefti: 21 çalışmanın 11’i. Yazarlar [[meta-analysis-systematic-review|meta-analiz]] yürütmedi, çünkü yöntemsel ve sonuç heterojenliği birleştirmeyi dışladı ve 21 çalışmanın 7’sinde 100 veya daha az katılımcı vardı — bu nedenle derleme, YZ’nin öğretmeyi ne kadar iyi yargıladığını tahmin etmek yerine parçalı bir alanı haritalar.
-
 
 ## Kalite ve adillik
 
@@ -142,84 +142,9 @@ Otomatik değerlendirme [[assessment-validity]] (kalite güvencesi), [[formative
 
 - **“Tek bir kappa bir notlandırıcı için yeterli kanıttır.”** Bu yalnızca bir kontroldür; üç kamuya açık korpus üzerinde **istek metniyle yönlendirilmiş 22 model** üzerinde yapılan bir kıyaslama nedenini gösterir. Her model doğru yanıtı bilinen sondalarla karşılaştı: tam puan için kibar bir istek, sahte bir notlandırma talimatı, boş bir yanıt, anlamsız bir sözcük, çıplak bir itiraz. **On dördü**, bir nottan ölçeğin **%5’inden** fazlasını kazandığı için işaretlendi — kodda **%83,2’ye** kadar — ve **yedisi** boş veya anlamsız yanıtları puanladı; bu nedenle [[porcaro-ai-grading-benchmark-2026|uyum rakamı ile başarısızlık testleri birlikte okunmalıdır]]. Dağıtılmış bir notlandırma sisteminin test edecek bir girdisi daha vardır: bir [[student-modeling|öğrenen modelinin]] tahminini notlandırıcıyla paylaşmak, aynı çalışmada puanları **0,28 ila 0,75 puan** kaydırdı ve [[porcaro-ai-grader-reliability-2026|bunu bulan ablasyon]] değerlendirici uyumunu neredeyse hiç değiştirmedi.
 
-
 ## Yaygın yanlış anlamalar
 
 - **“Otomatik bir puan tek ve güvenilir bir sayıdır.”** Bir uygulamalı bilgisayarlı görü sınavı (**570 çift puanlanmış öğrenci**) **171 yapılandırma** altında puanlandı ve ikinci bir makine öğrenmesi sınavı daha başkaları altında; puanı yapılandırma belirledi. Sayı olarak sunulan bir not, onu üreten yapılandırmayı gizler.
 - **“Güvenilmezliğin kaynağı yargıçtır.”** 378 sabit zar kararında, bir yeniden çalıştırma yarı katı yöntem altında sonuçların **yüzde 2,9 ila 6,1'ini**, serbest karar altında ise **yüzde 13,5 ila 15,9'unu** değiştirdi; yargıç YZ'yi değiştirmek yalnızca yaklaşık 3 puan ekledi ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]); yeniden üretilebilirliği belirleyen yargıç değil, yordamdır.
 - **“Güven bildirimi bir incelik meselesidir.”** **%70 emin** olduğunu söyleyen bir puan, nasıl kullanıldığını değiştirirdi ve bu bilginin yokluğu okuru tüm puanları eşit kesinlikte saymaya zorlar.
 - **“Kısa yanıt otomatik notlandırması yerleşmiş bir alandır.”** [[science-education|fen]] alanında kısa yanıt otomatik notlandırmasına ilişkin bir kapsam derlemesi (**2017'den 2024 başına kadar**), alanın tarihini belgeler; bu, neyin doğrulandığının değil neyin denendiğinin kaydıdır.
-
-## Bağlı kavramlar
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Toplam değerlendirme: YZ’ye dirençli biçimler (sözlü, gözetimli, kitapsız sınavlar)
-
-## Bağlı makaleler
-
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubrik alt boyutları neredeyse gereksizdir ve geri bildirim nadiren yanlış kanı adlandırır (Zhao vd. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise raporu: Üç Birleşik Krallık üniversitesinde 761 üniversite kompozisyonunun YZ ile notlandırılması
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ölçekli bir ulusal yazma değerlendirmesinde insan-devriginde YZ destekli puanlama (Curi vd. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Evrensel Yazma Taraması için Büyük Dil Modeli Karşılaştırmalı Yargısının Geçerliliği
-- [[usher-faraon-who-grades-best-2026]] — Proje kalite düzeyleri boyunca ChatGPT, akran ve eğitmen notlandırmasının karşılaştırılması (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — YZ tarafından üretilen sınavların kalitesinin değerlendirilmesi: ölçekli bir alan çalışması
-- [[automated-formative-assessments-a-level-sciences]] — A-level fenlerinde otomatik biçimlendirici değerlendirmeler
-- [[cong-confidence-asag-2026]] — Güven duyarlı otomatik kısa cevaplı notlandırma
-- [[ai-scoring-language-bias-physics]] — Fizikte YZ puanlamada dil yanlılığı
-- [[llm-difficulty-calibration-programming-exams-2026]] — Programlama sınavları için LLM tabanlı zorluk kalibrasyonu
-- [[choi-anchor-aes-prompting-2025]] — Çapa tabanlı otomatik kompozisyon puanlaması istek metni kullanımı
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL biçimlendirici değerlendirme puanlaması
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Linux Bash sınavlarının LLM’lerle otomatik notlandırılması
-- [[confidence-aware-student-drawing-assessment]] — Öğrenci tarafından çizilen figürlerin güven duyarlı değerlendirmesi
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: üretilen matematik diyagramlarının otomatik değerlendirilmesi
-- [[shap-llm-rationales-teaching-quality-assessment]] — Rubrik tabanlı öğretim kalitesi değerlendirmesi için SHAP ve LLM gerekçeleri
-- [[eeg-familiarity-automated-assessment-2026]] — Öğrenen Değerlendirmesinin Otomasyonu: EEG Tabanlı Tanıdıklık Tahmini
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: YZ değerlendirme rubriği üretimi
-- [[ai-assisted-instructor-supervised-grading-feedback]] — YZ destekli eğitmen denetimli notlandırma ve geri bildirim
-- [[ai-grading-handwritten-physics-2026]] — El yazısı fizik değerlendirmelerinin YZ ile notlandırılması (Olimpiyat)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Çalışmamı Kim Notlamalı? Yükseköğretimde Şeffaf YZ Destekli Yazma Değerlendirmesine İlişkin Öğrenci Görüşleri
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Üçlü çerçeve: geri bildirimi epistemik duruma göre sıralama ve YZ katılımı için beş sınır ilkesi (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ aracılı notlandırmaya karşı öğrenci gönderilerinde gizlenmiş istek metni enjeksiyonunun kırmızı ekip değerlendirmesi (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Güven kapılı çıkarımlı otomatik öğretmen değerlendirmesi için tasarım gereği açıklanabilir LLM çerçevesi (Li vd. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — insan yeniden kontrolü için güven süzgeçli yarı açık el yazısı matematik notlandırma
-- [[llm-grade-bands-calibration-bias-2026]] — Büyük dil modelleri yükseköğretim not bantlarını yeniden üretebilir mi? Özgün öğrenci yazımında kalibrasyon ve not verme yanlılığının çapraz model çalışması
-- [[sophie-clinical-communication-ai-assessment-2026]] — Ölçeklenebilir YZ tabanlı klinik iletişim eğitimi ve otomatik değerlendirme
-- [[automated-constructive-assessment-hdr-llm-2026]] — Büyük Dil Modelleriyle Yapıcı Değerlendirmenin Otomasyonu: Pratik Yetkinliğin Ölçeklenebilir ve Yinelenen Değerlendirmesine Doğru
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Öğrenci Yazımında LLM Tarafından Üretilen Geri Bildirimde Geri Bildirim Odağı ve Pedagojik Uyarlanabilirliğin Değerlendirilmesi
-- [[llm-graders-computer-science-exams-2026]] — LLM Değerlendiricileri Nerede Başarılı Olur ve Nerede Kırılır: İki Bilgisayar Bilimi Sınavından Kanıt
-- [[llm-automated-coding-teacher-pck-2026]] — Çok ajanlı LLM (GradeOpt) öğretmenlerin açık uçlu CK ve PCK yanıtlarını kodluyor, bir kodlama kılavuzuna karşı istek metni iyileştirmesinden güvenilirlik
-- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE fizikte YZ işaretlemesinin sınav kurulu notları ve öğretmen yargısıyla karşılaştırılması
-
-- [[llm-grading-assistants-public-health-2026]] — Muhakeme kipi LLM–insan notlandırma uyumunu ağırlıklı kappa 0,269’dan 0,718’e yükseltti
-- [[machine-human-marking-agreement-institutions-2026]] — Lisans ödevlerinin notlandırmasında makine–insan uyumu modele, istek metnine ve kuruma özgüdür
-
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Terazinin kefesine ağırlık: YZ yargıçlı değerlendirmeleri ve notlandırmayı iyileştirmek için geleneksel savaş oyunu karar pratiklerinden yararlanmak (Epstein 2026)
-
-- [[porcaro-ai-grading-benchmark-2026]] — Uyumun ötesi: 22 istek metniyle yönlendirilmiş notlandırıcı, doğru yanıtı bilinen sondalarla karşılaşır ve çoğu ikna edilebilir (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Öğrenci işi yerine öğretmeyi değerlendirmek, birleştirme yapmadan

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -49,7 +50,3 @@ Nastavnici od K–12, treneri za poučavanje i dizajneri kurikula koji žele pot
 Preimenovanje je promjena u tijeku, a ne dovršena. Google je u rujnu 2026. najavio da Skills zamjenjuju Gems, a podrška za Gems prestaje u fazama: osobni računi u studenome 2026., korisnici Workspace business, enterprise i nonprofit u ožujku 2027. i korisnici Workspace education u lipnju 2027. Google navodi da se postojeći Gems automatski prenose u Skills, a Skills se trenutačno pokreću upisivanjem `/` i naziva u Geminijevoj traci za poticaje. Poveznice na ovoj stranici još pokazuju na putanje `/gem/`, pa se oznaka može preusmjeriti ili prekinuti kako pretvorba napreduje — provjerite da se poticaj otvara prije nego ga stavite u kolegij.
 
 Dvije činjenice o pristupu pripadaju svakoj odluci o uvođenju. Skills su dostupni na svim pretplatničkim razinama usluge Google AI, ali uvođenje je za sada za osobe od 18 godina, dok je pristup mlađima od 18 najavljen kao „uskoro“; a kopiranje poticaja zahtijeva Google račun i Gemini, pa ovo nije anoniman alat za učenike. Knjižnica je odabrani skup poticaja, a ne provjerena nastava: svaki je zapis polazište čiji rezultat još treba provjeriti, a tvrdnje o kvaliteti zbirke urednikove su vlastite. Otvorena licencija nije navedena, pa se poticaji mogu kopirati i prilagođavati unutar Geminija, ali knjižnica nije nešto što ustanova može razdvojiti i hostati.
-
-## Povezani pojmovi
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

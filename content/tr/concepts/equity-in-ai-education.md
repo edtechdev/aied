@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -69,7 +71,6 @@ Hazırlık tercihten daha önemlidir ve reddetme hakkı eşitsiz dağılmıştı
 - **Temsil yalnızca öğrenenler için değil, kanıtın kendisi için de geçerlidir.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]], teknoloji destekli değerlendirmede eşitliğin bir tasarımın dayandığı bilginin bağlamsal aktarılabilirliğini de kapsadığını savunur; bu nedenle kaynakları iyi olan ortamlarda doğrulanmış bir sistem, başka yerlerde sınanmamış varsayımlar taşır.
 
 ## Sonuç eşitliği
-
 
 394 GenAI yükseköğretim çalışmasını kapsayan bir kapsam derlemesinde eşitlik ve erişim, [[metacognition|üstbiliş]], etik ve [[creativity|yaratıcılıkla]] birlikte en az hedeflenen sonuçlar arasında yer almıştır ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 
@@ -133,7 +134,6 @@ Hazırlık tercihten daha önemlidir ve reddetme hakkı eşitsiz dağılmıştı
 - **Resmî eğitimin ulaşamadığı kitlelere ulaşın:** [[ai-literacies-young-adults-2025|Kamu hizmeti medyası için YZ Okuryazarlıkları çerçevesi]], hizmetin farklı biçimde tasarlanmadığı sürece hâlihazırda avantajlı olanlara ulaşmaya devam edeceğini; dijital veya başka biçimlerde marjinalleştirilmiş gençleri resmî eğitim yoluyla en az fırsata sahip olanlar olarak adlandırır ve çözüm olarak evrensel yayın değil, hedefli ortaklıklar ve ulusal ölçekte hizmet sunumunu önermektedir.
 - **Politika ve yönetişim:** Kurumsal YZ politikası ([[educational-policy-ai]], [[governance]]), eşitliği yol gösteren bir ilke olarak içermelidir.
 
-
 Eşitliğin bir çevresel ve hesaplama boyutu da vardır: hesaplama yoğun modellere eşitsiz erişim, öğrenciler arasında ve kaynakları iyi olan ile yetersiz olan kurumlar arasında eşitsizlikleri genişletebilir; büyük modellerin dağıtımındaki yüksek enerji tüketimi ve karbon ayak izi ise yükseköğretimin sürdürülebilirlik hedefleriyle gerilim içindedir ([[large-language-models-teaching-learning-higher-ed|Li ve ark. (2026)]]).
 
 ## Yaygın yanlış anlamalar
@@ -141,77 +141,3 @@ Eşitliğin bir çevresel ve hesaplama boyutu da vardır: hesaplama yoğun model
 - **“Eşitlik sorunu araçlara erişimdir.”** **Uçurumun bir parçası araç erişimi değil, araç kalitesidir**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] **50 matematik görevi** göndermiş ve kalite farklarının kullanıcıyı değil aracı izlediğini bulmuştur.
 - **“Hibrit insan-YZ özel dersleri boşlukları daraltamaz.”** **Farklılaştırılmış insan-YZ özel dersleri, hibrit modellerin boşlukları daraltabileceğinin kanıtıdır: kaynak tahsisi ihtiyaca göre yapıldığında.** Bir farklılık-süreksizlikleri çalışması (**635** katılımcı) proaktif özel derslerin **marjinal olarak daha yüksek ortalama gelişim (%75, p = ,065) gösterdiğini ve bunun eşik değerinin altında kalan öğrencilerde yoğunlaştığını** bulmuştur. Kazanım, ihtiyacın en büyük olduğu yerde yoğunlaşmıştır.
 - **“Ortalama bir etki, eşitliğin iyileşip iyileşmediğini söyler.”** İçgörü, eşitlik sonucunu **tahsis kuralının** belirlediğidir: herkese eşit biçimde yardım eden bir müdahale boşlukları değiştirmeden bırakır, ihtiyaçla orantılı yardım eden bir müdahale ise onları daraltır.
-
-## Bağlı Kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Learners: öğrenen tarafı kavramlarının şemsiyesi
-- [[digital-divide]] — YZ araçlarına ve altyapısına sosyoekonomik hatlar, bölgeler ve uluslar boyunca eşitsiz erişim
-- [[bias-mitigation]] — YZ özel derslerinde, puanlayıcılarda ve öneri sistemlerinde önyargıyı tespit etme ve düzeltme yöntemleri
-- [[accessibility]] — YZ öğrenme araçlarını engelli öğrenenlerin kullanabileceği biçimde tasarlama
-- [[assistive-technology]] — YZ aracılı ortamlarda engelli öğrenenleri destekleyen araçlar
-- [[culturally-relevant-pedagogy]] — Baskın normları dayatmaktan ziyade öğrenenlerin kültürel bağlamlarını yansıtan öğretmenlik
-- [[language-learning]] — Çok dilli ve yeterince temsil edilmeyen dilleri konuşan öğrenenlerin dilsel kapsayıcılığı
-- [[inclusive-learning]] — Tüm öğrenenler için erişilebilir ve eşitlikçi öğrenme
-- [[universal-design-for-learning]] — Başlangıçtan itibaren öğrenen çeşitliliği için tasarım
-- [[neurodiversity]] — YZ eğitiminde nöroçeşitli öğrenenleri destekleme
-- [[special-education]] — YZ sistem tasarımında engelli öğrenenlerin ihtiyaçlarını karşılama
-- [[ai-literacy]] — Öğrenenlerin YZ’den eşit biçimde yararlanması için gereken beceriler
-- [[educational-policy-ai]] — Eşitliği yol gösteren ilke olarak içeren kurumsal politika
-- [[governance]] — Eşitlikçi YZ için gözetim ve hesap verebilirlik
-- [[agency]] — YZ’nin öğrenci sözünü güçlendirmesini, yerini almasını değil, sağlamak
-- [[stakeholders]] — Şemsiy: YZ eğitiminde insanlar ve kitleler (öğrenenler, öğretmenler, tasarımcılar, yöneticiler, politika yapıcılar)
-- [[parents-and-families]]
-- [[student-support-and-success]] — destek sistemlerinin kime ulaştığı ve bir risk puanına göre hareket etmenin riskleri
-
-## Bağlı Makaleler
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — GenAI görsel önyargısının çok kipli değerlendirmeye nasıl girdiği ve ona karşı-anlatı kurmanın neden bir öğretmen yetkinliği olduğu
-- [[rented-self-decoupling-performance-becoming-2026]] — Kiralanan benlik: para, benlik ve standartlar olarak ödenen kira ve mezuniyette sona eren lisanslar
-- [[verified-study-materials-learning-gains-2026]] — Üretilen değil, doğrulanmış: uzman doğrulamalı YZ çalışma materyalleri ve bir üniversite dersinde öğrenme kazanımlarının dağılımı
-
-- [[ai-literacies-young-adults-2025]] — Bir dağıtım sorunu olarak eşitlik: resmî eğitimin ulaşamadığı gençlere ulaşmak
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise raporu: üç Birleşik Krallık üniversitesindeki 761 üniversite kompozisyonunun YZ ile notlandırılması
-- [[kumar-genai-computing-education-systematic-review-2026]] — Beceri boşluğu ve kaynak boşluğu karşılaştırması: farklı çözümler gerektiren iki eşitlik mekanizması
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Yönlendirilmemiş GenAI boşlukları genişletebilir: etkileşim yönetimi yetkinliği (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Nijerya yükseköğretiminde kurumsal yapılar, dijital eşitsizlik ve YZ bütünleştirmesi
-- [[student-attention-estimation-fairness-2026]] — Gerçek Zamanlı Öğrenci Dikkat Tahmini için Adalet Bilincine Sahip Çok Kipli Transformatör Modellemesi
-- [[school-ai-education-readiness-gaps-agency-2026]] — Okul YZ eğitimi psikolojik ama bilişsel hazır bulunuşluk boşluklarını daraltıyor
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM erişiminde erişilebilirlik eşitsizliklerinin ölçülmesi ve azaltılması
-- [[ai-scoring-language-bias-physics]] — YZ temelli puanlamada dil önyargısı
-- [[gender-bias-transfer-llm-writing]] — LLM destekli yazmada cinsiyet önyargısı aktarımı
-- [[genai-minoritized-knowledges-disability]] — Üretici YZ ve marjinalleştirilmiş bilgilerin marjinalleştirilmesi
-- [[structural-silence-underrepresented-language-ai-2026]] — Yapısal sessizlik: YZ altyapısında yeterince temsil edilmeyen diller
-- [[genai-higher-education-systematic-review-2026]] — Yükseköğretimde GenAI: sistematik derleme
-- [[ai-lifelong-learning-policy]] — YZ ve yaşam boyu öğrenme politikası
-- [[generative-ai-education-productivity-gaps]] — Üretici YZ eğitim kaynaklı verimlilik boşluklarını daraltıyor mu?
-- [[genai-linguistic-diversity-academic-writing]] — YZ aracılığıyla gerçekleşen akademik yazmada dilsel çeşitlilik
-- [[access-not-enough-ai-tutoring-2026]] — Erişim yeterli değildir
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Matematik cinsiyet stereotiplerini azaltan kadın kimlikli sohbet robotu rol modeli
-- [[paternalistic-filter-llm-history-education]] — LLM temelli tarih eğitiminde kayırmacı filtreleme
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: dislektik öğrenenler için YZ desteği
-- [[ground-truth-reliability-aied]] — AIED’de temel gerçek güvenilirliği
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: öğrenci nitelikleri boyunca stereotiple uyumlu geri bildirim önyargısı
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — YZ çeşitli öğrenci profilleri için uygun destek sunabilir mi? Büyük ölçekli bir değerlendirme
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Yalnızca kız öğrencilere yönelik GenAI üretici atölyeleri ve bilişimde cinsiyet eşitliği
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Görme engelli öğrenenler için destekleyici GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ve Makine Öğrenimi Kullanarak Pakistanlı Üniversite Öğrencileri Arasında Stres Tespiti ve İyi Oluş Desteği için YZ Destekli Kültürel Olarak Duyarlı Bir Sohbet Robotu
-- [[demographic-signals-llm-student-assessment-2026]] — Örtük (konuşma geçmişi) demografik sinyallerin LLM puanlamasını, geri bildirimini ve yanıtlamasını kaydırması (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — YZ’nin bugünü ve geleceği üzerine 1.057 ABD’li akademisyen: %81 daha geniş dijital eşitsizlikler bekliyor, %26 araçları kullanmıyor
-- [[li-genai-assessment-language-equity-2026]] — Destek-ikame çizgisini çizmek: GenAI değerlendirme kuralları ve EAL öğrencilerinin uyum yükü
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Reddetme hakkı eşitsiz dağılmıştır: kurumsal yetersiz hazırlığın kanıtı olarak reddetme (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 üniversite öğrencisinde senaryo temelli etik yargı ve YZ okuryazarlığı
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: YZ ve insan özel derslerinin denk GRE öğrenme kazanımları sağlaması
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Üretici YZ çağında bilişim değerlendirmesi üzerine çevrim içi bir atölye raporu
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Matematikte ücretsiz katman ve ücretli model doğruluk boşluğu: %32,7’ye karşı %12 (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Derlenmiş GenAI öğrenme kazanımları (g=0,53) ve bunların yakalayamadığı yüksek maliyetli araçlara eşitsiz erişim
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Kapsayıcılık ve başarı boşluğu iddialarını desteklenmemiş bulan matematik YZ özel dersi derlemesi
-- [[gurung-hybrid-human-ai-tutoring-2026]] — İnsan öğretmen rollerini öğrenci ihtiyaçlarına göre farklılaştırarak hibrit insan-YZ özel derslerini iyileştirmek (Gurung ve ark. 2026)
-- [[alam-goblins-math-platform-2026]] — BEP’li, İngilizce öğrenen ve Hispanik öğrenciler için daha büyük keşfedici ilişkiler içeren ilçe YZ-matematiği uygulaması (çok kipli/çok dilli destekler; nedensellik test edilmemiştir)
-- [[gyekye-selves-apprenticeship-2026]] — Renkli çıraklar adaleti kültürel düzlükle özdeşleştirdi; etkinlik reddetme ve müzakere yoluyla inşa edildi; Recognition Bandwidth ve Institutional AI Literacy
-
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Öğretmen aracılı sunum, YZ’nin hiç temas etmediği öğrencilere ulaşır
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Tespit en çok çok dilli yazarlara isabet eder
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Yetkinlik, öğrencilerin LLM erişiminden çıkardığı faydayı aracılar (Li ve ark. 2026)

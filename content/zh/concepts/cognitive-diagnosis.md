@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -89,44 +91,3 @@ ai_assist:
 - **“模型能模拟学生错误，因此能诊断它们。”** 瓶颈在相反方向。模型在 **95.2% 的干扰项轨迹**中构造出解法，并以 **0.92 的准确率**模拟了一个具体的 Eedi 误解，然而限制它们的是**提供正确解**，而不是模拟错误。生成一个看似合理的错误答案，比识别一个更容易。
 - **“诊断需要一个手工构建的误解清单。”** 在 **6,106 对**正确与不正确的命题逻辑形式化上，一个工作流发现了 **248 个变换簇，解释了 5,156 对（84.44%）**，而参照集的手工挑选错误为 **4,370 对（71.57%）**。发现匹配或超过了专家策展，并且迁移到了模态逻辑，因此清单是一个起点，而不是天花板。
 - **“诊断只有在命名一个误解时才有用。”** 诊断学习者达成了哪些课程成果，是把成果当作知识概念来处理，并经由专家验证的亲和映射提供概念关系。对成果导向的项目而言，那是更可行动的单元，尽管它更粗。
-
-## 关联概念
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## 关联文章
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — 基准测试：从手写数学作业中诊断认知技能的 LLM
-- [[correct-answer-trap-misconceptions]] — 正确答案陷阱
-- [[llm-misconception-difficulty-easy-trap]] — 简单陷阱：LLM 为何低估误解驱动的难度
-- [[llm-student-misconception-identification]] — 对学生误解的 LLM 识别
-- [[student-math-competence-clustering]] — 为学生数学能力建模的聚类
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — 用于显式问题求解者建模的认知智能体编译
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench：从模拟学习者中进行诊断
-- [[huang-interpretable-knowledge-tracing-2026]] — 可解释的知识追踪
-- [[xie-hillm-cd-2026]] — HiLLM-CD：LLM 概念树 + 层级熟练度推断
-- [[yasir-llm-tutoring-agents-2026]] — 在 LLM 导师中分离诊断与反馈
-- [[zhang-ct-ai-training-test-2026]] — AI 训练测试中的计算思维（CTAT）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 面向个性化学习路径的贝叶斯认知诊断
-- [[personalized-neural-cognitive-architecture-search-2026]] — 面向学习者画像的 AutoML 个性化神经认知架构搜索
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 带亲和映射的成果导向知识追踪
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — 保护隐私的异质多 LLM 联邦诊断
-- [[llm-common-modeling-mistakes-formalisms-2026]] — 用 LLM 生成、算法验证的纠错变换大规模挖掘常见建模错误（Killich 等人 2026）
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic：从既有物理概念量表对 14 个学习目标做基于 DINA 的诊断（Le 等人 2026）
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM 知识概念标注与经校准的概念级知识状态
-- [[llm-distractor-generation-student-reasoning-2026]] — 作为诊断性题目设计任务的基于误解的干扰项
-- [[misconception-acquisition-dynamics-llms-2026]] — 错误进入解法之处即诊断瓶颈
-- [[pivot-generative-video-tutors-stem-2026]] — 从内容生成到学习支持：面向 STEM 学习的教学引导式生成式视频导师
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人机协同学习回路中学习其学习者的智能体导师
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：面向学与教的开放基础模型
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — 通过面向有意义学习的文化嵌入 AI 重新思考诊断性评估

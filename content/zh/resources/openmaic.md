@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -44,8 +45,3 @@ ai_assist:
 ## 说明
 
 项目以 MIT 许可发布，配有中英文用户指南，并在 Discord 和飞书上有活跃社区。它与模型无关：你至少需要提供一个 LLM 供应商的密钥，可选的本地组件（Lemonade 用于本地模型，FunASR 用于语音识别）可以让你把更多环节放到离线运行——所以"免费"指的是软件本身，不包括推理账单。背后的论文发表于 *Journal of Computer Science and Technology*（2026，DOI 10.1007/s11390-025-6000-0），到 2026 年 9 月仓库已获得超过 38,000 颗星。
-
-## 关联概念
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

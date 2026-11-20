@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -48,11 +49,3 @@ Pro vysokoškolské studenty jakéhokoli oboru a pro studenty vyššího sekund�
 Průvodce je [[formative-assessment|formativně]] zarámován a sám to říká: skóre je snímek návyků, nikoli známka, vlastnost nebo předpověď, a studentům se říká, aby je nezveřejňovali.
 
 Rámování kolem AI stojí na citovaných průzkumných a experimentálních důkazech, že předání úsilí může vést k tomu, že si studenti odnesou méně — což je otázka [[cognitive-offloading|odklánění]], kterou má průvodce vyvažovat, nikoli uzavřít. PDF terénního průvodce je za krátkým formulářem, který se ptá na jméno, roli, instituci a e-mail; moduly učitelského průvodce a článek o pedagogickém rámci se stahují přímo. Interaktivní verze běží v Gemini Notebook a vyžaduje účet Google. Čísla vydavatele o více než 40 000 stažení PDF na zhruba 4 000 institucích ve 180 zemích a o více než 130 vlastních kampusových vydáních jsou jeho, stejně jako doporučení od ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute a RTI International.
-
-## Související pojmy
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

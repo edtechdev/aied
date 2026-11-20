@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -44,7 +45,3 @@ Lärare och [[learning-design|instruktionsdesigners]] i K-12 och högre utbildni
 ## Anteckningar och förbehåll
 
 Centret är vägledning, inte en efterlevnadsprodukt: sajten gör inget anspråk på överensstämmelse med sitt eget WCAG 2.2 AA-mål, svarar nej på frågan ”gör användningen av dessa filer min sajt kompatibel?” och säger att en teknisk granskning inte ersätter skolans godkännande eller juridisk granskning. Säkerhetshyllan pekar på axe-core, Gitleaks, ZAP och Playwright; de är referenser snarare än medföljande programvara, och de invasiva är avsedda för ett tillfälligt eller uttryckligen auktoriserat mål. Läsning kräver inget konto. Att bygga om HTML-sidorna kräver Python och `markdown-it-py`, vilket är ett byggberoende och inte ett beroende för besökaren. Repot är MIT-licensierat, medan tredjepartsbilder och de länkade projekten behåller sina egna villkor, dokumenterade i `CREDITS.md`.
-
-## Anslutna begrepp
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

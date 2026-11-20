@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -128,36 +130,3 @@ ai_assist:
 - **«Заблуждения преподавателей исправимы предъявлением доказательств».** В пилоте со **123 итальянскими педагогами** несогласие сильнее всего группировалось вокруг **когнитивных стилей обучения (78% преподавателей защищали сопоставление «визуальное/аудиальное»)**, инклюзии и групповой работы (68%) и перегрузки EdTech (54%). Самые сильные несогласия оказались и наиболее устойчивыми к доказательствам, поэтому [[refutation-text|опровержение]] превосходит утверждение.
 - **«Возражения преподавателей против доказательств — это всё сопротивление».** Когда те же пункты подавались через разговорный ИИ, который **сначала подтверждал контекст преподавателя, а затем вновь вводил доказательства**, **41% возражений касались реальных контекстуальных ограничений** — размера класса, особых потребностей, требований учебной программы. Существенная доля кажущегося заблуждения была точным возражением.
 - **«Заблуждения можно надёжно обнаружить по диалогу».** **Из 241 сегмента с промптом 221 (91,7%) были подтверждены как стратегические заблуждения большинством голосов экспертов (Fleiss' κ = 0.9487)**, причём **без значимых различий** между группами. Высокая надёжность достижима при экспертной арбитраже, и именно от этого условия зависит утверждение.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — последовательности концептуального изменения, которые противостоят конкретному удерживаемому убеждению
-- [[learners]] — учащиеся: обобщающая концепция для концепций со стороны учащегося
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Связанные статьи
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: плавные, авторитетные объяснения, ошибочные скорее концептуально, чем фактически (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — скрытые инструкции в представленном файле могут повысить оценку, выставленную ИИ, без видимого предупреждения (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — заблуждения детей о безопасности ИИ: дружба с роботом, неверно прочитанная как гарантия приватности (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Диалоговый ИИ-диагностический инструмент заблуждений в преподавании с обоснованным диалогом (Miranda & Calvani 2026)

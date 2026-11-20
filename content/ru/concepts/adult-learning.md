@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -72,45 +74,3 @@ ai_assist:
 - **«Один хороший инструмент обслуживает взрослых учащихся.»** Исследование обнаружило, что **ни одна система ИИ для обучения взрослых не удовлетворяла всем проектным рекомендациям** — требовалась вся экосистема. Взрослые приходят с обязательствами, прерывистыми графиками и разнородными целями, поэтому один продукт не может покрыть проектное пространство.
 - **«Цифровую грамотность можно предполагать на взрослом уровне.»** [[community-centered-ai-education-adults|Кейс на Среднем Западе]] совместно спроектировал программу ИИ-грамотности для **54 взрослых в недостаточно обслуживаемом сообществе** и обнаружил, что ориентированное на справедливость образование взрослых в области ИИ **должно сначала заняться базовой цифровой грамотностью и доверием к данным**. Возраст не является прокси цифровой беглости.
 - **«Внедрение — это проблема мотивации.»** Выстраивание [[ai-literacy]] и [[trust]] вокруг приватности данных должно предшествовать ожиданию внедрения. Готовность следует из уверенности в том, что происходит с данными человека, а не из энтузиазма по поводу технологии.
-
-## Связанные понятия
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — онлайн-преподавание и обучение
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Связанные статьи
-
-- [[ai-adult-learning-guidelines-dis2026]] — Руководство по проектированию технологий ИИ для поддержки обучения взрослых
-- [[andragogy-cognitive-delegation-genai-2026]] — Что остаётся самостоятельным? Пересмотр андрагогики через когнитивное делегирование в обучении взрослых, опосредованном генеративным ИИ
-- [[ai-lifelong-learning-policy]] — Искусственный интеллект в непрерывном обучении: возможности и вызовы политики образования взрослых
-- [[sovereign-hive-titl-further-education-2026]] — Sovereign Hive и рамка Tutor-in-the-Loop (TITL) для справедливости в системе дальнейшего образования
-- [[community-centered-ai-education-adults]] — Совместное проектирование образования в области ИИ, центрированного на сообществе, для взрослых: исследование случая на Среднем Западе
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Новые системы обучения для институтов дистанционного образования? Обзор шести исследований внедрения AIDA
-- [[institutional-governance-ai-universities]] — Фрагментация политики или институциональное согласование? Институциональное управление ИИ в университетах и бизнес-школах
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Улучшенные генеративным ИИ учебные опыты для вычислительного мышления: систематический обзор с картированием области и рекомендации по проектированию
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Картирование формирующейся учебной программы для разработки программного обеспечения с помощью ИИ посредством анализа учебных планов
-- [[learner-ai-interaction-patterns-oop]] — Паттерны взаимодействия учащегося с ИИ и академическая успешность в курсе объектно-ориентированного программирования
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Проектирование систем ИИ для поддержки обучения на основе продуктивного провала
-- [[kim-ai-andragogy-2026]] — Применения ИИ в поддержке андрагогики (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Проектировать под диапазон вовлечённости: сделать глубокий сократический диалог более вознаграждающим путём

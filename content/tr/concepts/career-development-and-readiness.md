@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -44,7 +46,6 @@ YZ meslekleri dönüştürdükçe, eğitimin kariyer gelişimindeki rolü belge 
 - **Aracı inanç somut bir gelecekteki bendir.** 1.945 Çinli üniversite öğrencisiyle yapılan bir ankette, YZ okuryazarlığının algılanan istihdam edilebilirlikle ilişkisi, sınırsız kariyer zihniyetine (0,034) kıyasla üç katından fazla güçle gelecekteki iş benliği belirginliği (0,503’ten 0,201’e, dolaylı 0,117) üzerinden işledi ([[qiu-ai-literacy-employability-career-boundaries-2026|Qiu vd., 2026]]).
 - **Ölçülmüş bir yol değil, bir yapı haritası.** [[kong-ai-employability-cognitive-engagement-2026|Kong ve Zhang (2026)]], 46 yayını eleştirel bir anlatı derlemesi olarak okur ve YZ destekli öğrenme ile istihdam edilebilirlik arasına üç öğrenme süreci yerleştirir: öz düzenlemeyle bilişsel angajman, motivasyonel düzenlemeyle öz yeterlik ve kariyer keşfine köprü olarak kariyer uyum yeteneği. Kariyer uyum yeteneğini bir istihdam sonucu değil, kariyer gelişimi kaynağı olarak sınıflandırırlar. Derleme kendi verisini toplamadığı için bir etki büyüklüğü değil sınanabilir önermeler sunar ve bildirdiği her rakam dahil edilen bir çalışmaya aittir. Örneğin 120 STEM dışı öğrenciyle yürütülen on iki haftalık bir Birleşik Krallık modülü, YZ sermayesini mezuniyetten altı ay sonraki istihdam durumuyla ilişkilendirdi; rastgeleleştirilmemiş tek derslik bir tasarım bunu derse atfedemez.
 
-
 - **YZ’siz işe alım elemeleri, işin gerektirdiğini onaylamayı bırakır.** 23 Hintli mühendislik öğrencisi ve yeni mezunla yapılan görüşmelerde biri hariç tamamı, YZ’yi dışlayan yerleştirme elemelerine hazırlanmak için YZ kullanmış, mezunlar ise iş yerlerinin ilk günden YZ beklediğini anlatmıştır; bu nedenle sinyal kuramı açısından YZ yardımıyla üretilmiş bir CGPA, adayları artık maliyete göre ayırmaz ([[ai-free-gates-engineering-students-india-2026|Goutham ve Gu (2026)]]).
 - **Öğretim üyelerinin YZ’nin yerini almasını beklediği şeyler ve bu beklentinin olmadığı şey.** YZ odaklı bir [[engineering-education|mühendislik]] bölümünde yapılan on görüşmede öğretim üyeleri üretken YZ’nin işi nasıl yeniden biçimlendireceği konusunda anlaşmazlığa düşmüş, kodlamayı, [[writing-education|yazmayı]] ve bilgi işini yakın vadede kırılgan olarak adlandırmış, ancak bu beklentiler için hiçbir iş gücü piyasası kanıtı sunmamıştır ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **İşveren ve mezun görüşleri.** [[ithaka-sr-ai-skills-college-graduates-2026|ITHAKA S+R raporu]] (500 ABD’li dört yıllık kolej öğretmeni, 200 ABD’li işverenle karşılaştırıldı), [[higher-ed|yükseköğretim]] müfredatlarına yön veren iş gücü taleplerine işaret eden, öğretmenler ile işverenler arasında **sistematik bir beceri önceliklendirme boşluğunu** belgeler. Öğretmenler ve işverenler 26 YZ becerisinden yalnızca birinde (YZ ile güçlendirilmiş çalışma için gerçekçi beklentiler oluşturma) uzlaşır: öğretmenler *eleştirel, sorumlu kullanım* yönelimini önceliklendirir (atıf, insan hesap verebilirliği, YZ’nin sınırları), işverenler ise *iş akışı, otomasyon ve insan–YZ takım çalışması* becerilerini yeğler. Rapor, 26 beceriden yalnızca üçünün yarısı veya daha fazla öğretmen tarafından öğretildiğini bulur — yetersiz öğretilen kategoriler (iş akışı yeniden tasarımı, otomasyon, teknik bütünleştirme) tam olarak işveren taleplerinin en çok ayrıştığı yerlerdir — ve kurumların çoğunun hem YZ becerilerinin neye benzediğine dair bir uzlaşıdan hem de bunlar için bir değerlendirme çerçevesinden yoksun olduğunu gösterir. Kariyer gelişimi açısından bu, mezunların hazırbulunuşluğunun işverenlerin değer verdikleriyle müfredatların öğrettikleri arasındaki gerçek, ölçülebilir boşluğu kapatmaya bağlı olduğu, yalnızca YZ okuryazarlığı eklemeye bağlı olmadığı anlamına gelir.
@@ -73,40 +74,3 @@ Kariyer gelişimi ve hazırbulunuşluk, [[professional-training]] ile (mesleki b
 - **“YZ kaygısı, teselliyle giderilebilecek genel bir eğilimdir.”** [[duan-ai-anxiety-career-decisions-college-2026|Duan ve ark.]], SEM ile YZ kaygısının **kariyer kararlarını büyük ölçüde aşınmış kariyer uyum yeteneği üzerinden bozduğunu (toplam etkinin %63,35’i)** doğrular. Mekanizma özgüldür: kaygı, uyum sağlama kapasitesini ortadan kaldırarak işler; bu nedenle duygulara yönelen teselli, etkiyi taşıyan aracıyı ıskalar.
 - **“Kariyer uyum yeteneği, teknik yeterliğin ardından gelen yumuşak bir beceridir.”** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]], kariyer uyum yeteneğinin **YZ kaygısını azalttığını** gösterir; bu da onu aşağı akışta bir sonuç değil, yukarı akışta bir müdahale kılar. Uyum yeteneğini inşa etmek mekanizmayı ele alır; onu hoş bir ek olarak görmek aracıyı bozulmadan bırakır.
 - **“YZ kaygısı eşit dağılmıştır.”** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün ve Danacıoğlu]], YZ kaygısı ve olumsuz YZ tutumlarının **1.057 öğrenci** arasında mezuniyet sonrası iş bulma kaygısını yordadığını, örüntülerin **kadınlar ve sosyal bilimler öğrencileri** için farklılaştığını bulur. Tek tip bir müdahale desteği yanlış tahsis eder.
-
-## Bağlı kavramlar
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — tamamlamayı izleyen sonuçlar: süreklilik, devam ve mezuniyet
-
-## Bağlı makaleler
-
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
-- [[post-covid-ict-career-aspirations]] — ICT career aspirations after COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
-
-- [[ai-free-gates-engineering-students-india-2026]] — YZ’siz eşiklerden YZ öncelikli işe: Hindistan’daki mühendislik öğrencileri YZ rehberliği olmadan üniversite eğitimi ve kampüs yerleştirmelerinde nasıl yol alıyor
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Öğretim üyesi öngörüleri istihdam hakkında kanıt değil, tahmindir
-
-- [[boyd-swan-employer-responses-genai-2026]] — ~1.750 ABD’li işe alım profesyoneliyle anket deneyi: ikame çerçevelemesi mülakat ve maaş pazarlığı isteğini düşürdü, en çok yüksek GPA’lı başvuranlarda (Boyd-Swan & Reynolds 2026)
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Sekiz odak grubu: kullanıcılar verimlilik ve inceltmeyi, kullanmayanlar özgünlük ve ekip çalışmasını öne çıkarıyor (destekli özerklik ile yavaş yaratıcılık)
-- [[kong-ai-employability-cognitive-engagement-2026]] — Bir anlatı derlemesinin YZ destekli öğrenmeden istihdam edilebilirliğe uzanan yapı haritası
-

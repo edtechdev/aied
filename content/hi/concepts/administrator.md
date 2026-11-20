@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -71,32 +73,3 @@ ai_assist:
 - हस्ताक्षर से पहले पूछें कि किसी उपकरण का मूल्यांकन किस पर हो सकता है। यदि अनुबंध परिणामों, अंकेक्षण डेटा या उपयोग-विवरण तक पहुँच की अनुमति नहीं देता, तो संस्था ने ऐसी क्षमता खरीदी है जिसका वह आकलन नहीं कर सकती।
 - स्वीकृत उपयोग के बजाय वास्तविक उपयोग का सर्वेक्षण करें, क्योंकि दोनों अलग होते हैं और अस्वीकृत संख्या वही है जो उस जोखिम को ढोती है जिसके सामने आप पहले से हैं।
 - जहाँ उत्तोलन बचा है वहाँ नीति को तैनाती से पहले रखें। उपयोग व्यापक हो जाने पर नीति उस अभ्यास से बातचीत बन जाती है जो पहले ही तय हो चुका है।
-
-## संबंधित अवधारणाएँ
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — व्यापक श्रेणी: शिक्षा में AI के लिए लोग और श्रोता (शिक्षार्थी, शिक्षक, डिज़ाइनर, प्रशासक, नीति-निर्माता)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — वे संस्थागत प्रक्रियाएँ जिन्हें प्रशासक चलाते हैं: परामर्श, संपर्क, रेफ़रल और आवंटन
-
-## संबंधित लेख
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — शैक्षणिक नेतृत्व में AI: व्यापक वर्गीकरण
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI के लिए आकांक्षी शासन और नेतृत्व
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — यूके उच्च शिक्षा नीति और संस्थागत निर्णय-लेने में AI
-- [[ai-campus-wellbeing-tools]] — परिसर कल्याण के लिए AI-संचालित उपकरण
-- [[genai-policies-higher-ed-computing]] — कंप्यूटिंग में संस्थागत GenAI नीति
-- [[institutional-change-framework-ai]] — AI के लिए संस्थागत परिवर्तन ढाँचा
-- [[edtech-privacy-deferral-2026]] — "हम इसे बाद में ठीक करेंगे": शिक्षा, AI और EdTech में छात्र गोपनीयता का टालमटोल
-- [[students-at-stake-ai-deployment-risks-2026]] — चार-प्रश्नवाली खरीद-जाँच, जो जोखिम प्रबंधन के बजाय छात्रों के अधिकारों के रूप में ढाँचाबद्ध है

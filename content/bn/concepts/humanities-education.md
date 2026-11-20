@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,7 +39,6 @@ SSH শিক্ষা জ্ঞানভাণ্ডারে একটি স�
 
 নাগরিক ও রাজনৈতিক শিক্ষা এই শাস্ত্রগুলোর একটি সহোদর বিষয়ক্ষেত্র, তাদের একটি শাখা নয়, এবং [[civic-and-political-education]] এটিকে স্বাধীনভাবে দেখে। সেখানে জ্ঞানভাণ্ডারের প্রমাণ পাতলা: আটটি উৎস এই বিষয়টি স্পর্শ করে এবং কোনোটিই নাগরিক শিখন পরিমাপ করে না।
 
-
 ### মানবিক ও সামাজিক বিজ্ঞান শিক্ষায় এআই কীভাবে দেখা যায়
 
 - **ব্যাখ্যামূলক জ্ঞানকে পুনর্গঠন।** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] যুক্তি দেন জেনারেটিভ এআই একটি *জ্ঞানতাত্ত্বিক মধ্যস্থতাকারী* হিসেবে কাজ করে যা SSH শিক্ষায় অর্থ-নির্মাণ, লেখকত্ব ও শিক্ষার্থীর [[agency|কর্তৃত্ব]] পুনর্বিন্যাস করে। তিনি তিনটি রূপান্তর চিহ্নিত করেন — ব্যাখ্যামূলক জ্ঞানের বাহ্যিকীকরণ, লেখকত্বের সংকরায়ন ও বিতরণকৃত জ্ঞানতাত্ত্বিক কর্তৃত্বের উত্থান — এবং তিনটি বিকাশ-গতিপথ (এআই-নির্ভর, এআই-সমৃদ্ধ, এআই-সমালোচনামূলক ব্যাখ্যা)। এটি ব্যাখ্যামূলক গভীরতা রক্ষার একটি বিকাশ-সমালোচনামূলক [[pedagogy|শিক্ষাতাত্ত্বিক]] মডেলের ভিত্তি দেয়।
@@ -54,7 +55,6 @@ SSH শিক্ষা জ্ঞানভাণ্ডারে একটি স�
 SSH শিক্ষা ঠিক সেই সক্ষমতাগুলো সামনে আনে যা জেনারেটিভ এআই সবচেয়ে চ্যালেঞ্জ করে — মৌলিক লেখকত্ব, ব্যাখ্যামূলক বিচার, সমালোচনামূলক বিশ্লেষণ ও প্রসঙ্গ-সংবেদনশীল অর্থ-নির্মাণ। জ্ঞানভাণ্ডার এই ক্ষেত্রটিকে এআই-এর যন্ত্রসর্বস্ব, দক্ষতা-ভিত্তিক নির্মাণের একটি সমালোচনামূলক পাল্টা-ভার হিসেবে দেখে: এটি প্রশ্ন করে এআই-সমর্থিত শিখন [[critical-thinking]], জ্ঞানতাত্ত্বিক দায়বদ্ধতা ও ব্যাখ্যামূলক স্বায়ত্তশাসন রক্ষা করে কি না, [[critical-pedagogy]] ও [[ai-literacy]]-এর সঙ্গে যুক্ত হয়ে।
 
 মানবিক শিক্ষাদান এখন উৎস-সংকলন ও খসড়া তৈরির কাজে এজেন্টিক এআই ব্যবহার শুরু করেছে, যা এই শাস্ত্রের মূল্যায়ন-প্রশ্নকে "পাঠ্য তৈরি হয়েছে কি না" থেকে "ব্যাখ্যাটি শিক্ষার্থীর প্রতি আরোপযোগ্য কি না"-তে সরিয়ে নেয় ([[capodieci-humanities-hil-2026|Capodieci ও অন্যান্য, 2026]])।
-
 
 ## মানবিক ও সামাজিক বিজ্ঞান প্রশিক্ষকদের জন্য প্রভাব
 
@@ -74,32 +74,3 @@ SSH শিক্ষা ঠিক সেই সক্ষমতাগুলো স
 **"সমালোচনামূলক বিশ্লেষণই এআই সবচেয়ে বেশি হুমকি দেয়, তাই তা সীমিত করা উচিত।"** সমালোচনামূলক বিশ্লেষণই আবার সচেতন ব্যবহারে সবচেয়ে বেশি বিকশিত হয়, যখন কাজটি তা চ্যাপ্টা করার বদলে গভীর করার জন্য নকশা করা হয়। একটি [[human-in-the-loop-ai|মানব-চক্রে]] মডেল শাস্ত্রের অবদানকে সরঞ্জামের আউটপুটে নয়, শিক্ষার্থীর বিচারে স্থাপন করে।
 
 **"সাধারণ-উদ্দেশ্যের মডেল সারসংক্ষেপের মতোই পাঠ্য-পাণ্ডিত্যের জন্যও উপযোগী।"** ব্যাখ্যার জন্য পাঠকের অবস্থান দরকার, আর যে সহায়তা-স্তর পাঠটি সরবরাহ করে দেয়, সে-ই ব্যাখ্যামূলক কাজটি করেছে যা শেখানোই শাস্ত্রের অস্তিত্বের কারণ।
-
-## সংযুক্ত ধারণা
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-
-- [[civic-and-political-education]]
-
-
-## সংযুক্ত নিবন্ধ
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH শিক্ষার জন্য ব্যাখ্যামূলক জ্ঞানের একটি বিকাশ-সমালোচনামূলক মডেল
-- [[paternalistic-filter-llm-history-education]] — ইতিহাস শিক্ষায় LLM ব্যবহার ও ঐতিহাসিক যুক্তি
-- [[genai-impact-chinese-students-hss]] — মানবিক ও সামাজিক বিজ্ঞান শিক্ষার্থীদের উপর GenAI-এর প্রভাব
-- [[acceptance-ai-english-tools-2026]] — ভাষা ও মানবিক শিক্ষার্থীদের মধ্যে এআই গ্রহণযোগ্যতা
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587টি Go8 কলা ও মানবিক ইউনিটের গণনামূলক নিরীক্ষা: 2026 সালের মূল্যায়ন-উপাদানের 58.6% অত্যন্ত এআই-প্রকাশিত, প্রবন্ধ ও প্রতিবেদনে নিবদ্ধ
-- [[genai-values-education-affordances-risks-2026]] — মূল্যবোধ শিক্ষায় জেনারেটিভ এআই: সুবিধা, নৈতিক ঝুঁকি ও শিক্ষাদানে প্রভাব (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — কাজের বিন্যাস ও এআই-ব্যবহারের নির্দেশনা: পণ্য কী প্রমাণ দিতে পারে (Liu ও Liu 2026)
-
-- [[capodieci-humanities-hil-2026]] — মানবিক শিখনে এজেন্টিক এআই, এবং পাঠ্যের লেখকত্ব থেকে ব্যাখ্যার আরোপণে উত্তরণ (Capodieci ও অন্যান্য 2026)
-

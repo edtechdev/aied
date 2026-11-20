@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -119,59 +121,3 @@ ai_assist:
 - **«Точній моделі потрібен найскладніший метод.»** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries і Koprinska (2025)]] показують, що **точне відображення не потребує найскладнішого** підходу. Складність не є замінником точності, і простіша модель, яка схоплює релевантну структуру, може бути кращим інструментом.
 - **«Моделям здобувача потрібні дані трасування.»** Прогнозна модель здобувача може спиратися на **структуру зарахування**, а не на дані трасування: TRACE кодує кожен семестр як **невпорядкований кошик курсів** і прогнозує з нього. Прогнозний сигнал може жити в адміністративному записі установи.
 - **«Афективний стан потребує фізіологічного зондування.»** Тьютор із математики **виводив емоцію з тексту розмови та виразу обличчя** й відображав агрегований стан на тьюторські рішення. Афективний сигнал був відновлюваний із того, що здобувачі вже продукували.
-
-## Пов’язані поняття
-
-- [[learners]] — Здобувачі: узагальнення для понять на боці здобувача
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — моделі під прогнозуванням ризику та націлюванням підтримки
-- [[sensor-and-gaze-analytics]]
-
-## Пов’язані статті
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Оманливе узагальнення: адаптивне майстерність може припинити практику, перш ніж здобувачі дізнаються, коли утримати дію (Ан, Макларен і Стемпер, 2026)
-- [[causal-modeling-competency-assessment-2026]] — Причинне моделювання втручань підтримки для оцінювання компетентності здобувача
-- [[turano-ai-tutoring-not-a-monolith-2026]] — ШІ-тьюторінг — не моноліт: що ми насправді знаємо (бриф Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM-тьютори надмірно відхиляють валідні альтернативи, надмірно валідують неправильні (Ясір і співавтори, 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Від прогнозування ризику здобувача до SC2R: контрфактичний рекурс
-- [[graph-its-adaptive-algorithms-2026]] — Графовий інтелектуальний тьюторінг для динамічних доменів (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистиляція самопояснювальної LM для аналітики навчання
-- [[studentsim-llm-student-simulators]] — StudentSim: тренування симуляторів здобувачів на основі LLM
-- [[predicting-attrition-competitive-programming]] — Прогнозування відпливу здобувачів у конкурентному програмуванні
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Відстеження знань на основі результатів з відображенням спорідненості
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Поза ID-вбудовуваннями: обґрунтоване процесом мовне моделювання для когнітивної діагностики
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — компактний стан здобувача плюс калібрований трасер як середовище рекомендаційної системи
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: агентний тьютор, який вчить свого здобувача в петлі співнавчання люди зі ШІ
-
-- [[ai-game-based-learning-systematic-review-2026]] — Непомітне оцінювання досягало AUC 0,848–0,913, але аудити упередженості були майже відсутні в 55 дослідженнях
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Виведення стилю навчання з діалогів не проходить збалансованих метрик (Заманіфард, Ґударзі та Робб 2026)

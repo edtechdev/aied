@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -48,10 +49,3 @@ IT pusat dan kantor CIO yang sudah menjalankan beban kerja di AWS dan mengingink
 ## Catatan dan peringatan
 
 Gratis untuk dilisensikan, tidak gratis untuk dijalankan: institusi membayar AWS dan penyedia model. Pilihan model berjalan melalui Amazon Bedrock (Anthropic, Mistral) atau OpenAI dan Microsoft Azure, dan menjalankan model lokal Anda sendiri tidak diimplementasikan. Proyek ini menyatakan dengan jelas bahwa mereka tidak dapat mendukung penerapan individual dan merujuk organisasi ke mitra komersial — jadi biaya realistisnya mencakup staf atau kontraktor. Ini adalah penerapan tiga repositori (frontend, backend, infrastruktur) dengan puluhan bintang, bukan ribuan, dan perbandingan biaya di atas adalah pengalaman Vanderbilt sendiri, bukan studi terkontrol. Institusi yang lebih suka menyimpan inferensi pada perangkat keras milik sendiri harus melihat [MindRouter](/aied/resources/mindrouter/) dan membaca keduanya bersama: Amplify adalah lapisan aplikasi di atas model vendor, MindRouter adalah gateway di atas GPU Anda sendiri.
-
-## Konsep terkait
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

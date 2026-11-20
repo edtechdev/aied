@@ -18,6 +18,7 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 **EduPrompts** is Eric Curts's free, growing library of pre-made [[prompt-engineering|AI prompts]] for schools — more than 160 of them, each written for a specific teaching task and published on its own page. It was called EduGems until November 2026 and still lives partly at the old `/gem/` addresses, because the rename follows a platform change: Google is replacing Gemini Gems with Gemini Skills, and the library is being converted item by item. A teacher can open a prompt, read what it does, and either run it in Gemini or make a copy to adapt, which removes the blank-page problem that stops most staff from using AI at all.
@@ -39,7 +40,3 @@ K–12 teachers, instructional coaches and curriculum designers who want a worki
 The rename is a live transition, not a finished one. Google announced in September 2026 that Skills replace Gems, and support for Gems ends in stages: personal accounts in November 2026, Workspace business, enterprise and nonprofit customers in March 2027, and Workspace education customers in June 2027. Google says existing Gems migrate into Skills automatically, and Skills currently run by typing `/` and the name in Gemini's prompt bar. Links on this site still point at `/gem/` paths, so a bookmark may redirect or break as the conversion proceeds — check that a prompt resolves before putting it in a course.
 
 Two access facts belong in any adoption decision. Skills are available across Google AI subscription tiers, but the rollout is 18+ for now, with under-18 access described as coming soon; and copying a prompt requires a Google account and Gemini, so this is not an anonymous tool for students. The library is a curated set of prompts, not validated instruction: each entry is a starting point whose output still needs checking, and the collection's quality claims are the curator's own. No open license is stated, so prompts can be copied and adapted inside Gemini, but the library is not something an institution can fork and host.
-
-## Connected Concepts
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

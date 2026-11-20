@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -99,27 +101,3 @@ ICAPが重視する生成的で過程に即した関与は、生成AIを使っ�
 **「AI チューターは対話するから、自動的に相互作用的な関与を生む。」** 会話はモードではなく媒体です。システムが実質的な貢献のすべてを供給する対話は、相互作用的なインターフェースをまとった学習者にとって受動的です。これは[[student-engagement|関与の文献]]が、行動的な活動と認知的な投資の間で記録しているのと同じ混同です。
 
 **「より高い ICAP のモードは常に優れている。」** それらはより多くのコストを要し、この順序は、授業が常に目指すべきものではなく、関連する処理の単位あたりの学習についてのものです。基礎的な流暢さは、構成的な作業が可能になる前に能動的な反復を必要とすることがあります。誤りはそこに留まることであり、通過することではありません。
-
-## 関連概念
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## 関連記事
-
-- [[icap-cognitive-engagement-llm-agents]] — 人間とLLMのアノテーションによる関与の測定のための拡張ICAPフレームワーク
-- [[hingle-collaborative-ai-literacy-2025]] — 四つのICAPモードにわたる協働的なAIリテラシー
-- [[interactive-learning-dashboards-engagement]] — 浅いラーニングアナリティクスの関与への批判としてのICAP
-- [[multimodal-learning-genai]] — マルチモーダル学習設計における認知的関与とICAP
-- [[llm-facilitation-timing-online-discussions]] — オンラインでの協働的な議論におけるLLM促進のタイミング
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITSにおける適応的なICAPの足場かけ(BKT対DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — 生成的な学生シミュレーション・エージェントにおけるICAPの認知的深さモデル
-- [[assessing-student-drive-framework-2025]] — 生成AIとの省察的な相互作用のICAPに基づく評価

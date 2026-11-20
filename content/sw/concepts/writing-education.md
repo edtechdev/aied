@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -56,7 +58,6 @@ Makubaliano ni sifa ya mkusanyiko, si ya mtoaji alama: [[automated-scoring-marke
 - **Msaada wa mchakato wa kuandika na uwezo wa kutenda:** Utafiti wa [[agency-gap-ai-writing|pengo la uwezo wa kutenda]] na utafiti wa [[ai-writing-support-stage-ownership-2026|umiliki wa hatua]] huchunguza jinsi AI inavyobadilisha mchakato wa kuandika kutoka kupanga hadi marekebisho, na jinsi [[agency]] ya wanafunzi inavyoathirika AI inaposhiriki katika hatua tofauti.
 
 - **Ufikiri lazima uunganishwe na marekebisho.** Maike, chatbot ya Sokratiki inayotambua hoja na kulenga maswali bila kuzalisha maandishi ya insha, ilizalisha mazungumzo zaidi ya kiwango cha mawazo (56% dhidi ya 44% ya zamu) kuliko chatbot ya udhibiti ([[favero-thinking-not-writing-chatbot-2026|Favero na wenzake (2026)]]). Mpito kutoka mawazo yaliyojadiliwa hadi marekebisho ulihusishwa kwa njia chanya na ongezeko la alama, huku takriban 40% ya wanafunzi 65 wa sekondari wakiboresha insha zao.
-
 
 - **Mitazamo ya baada ya kibinadamu:** [[posthumanist-ai-literacy-2025|Mbinu ya baada ya kibinadamu ya ujuzi wa AI]] inaonyesha upya kuandika kama muungano wa binadamu-AI ambao [[agency]] umegawanyika, na hivyo kuchangia changamoto kwa wote wawili: kubebeshwa bila ukosoaji kwa AI na kudharauliwa kama zana tu — mtazamo wa mahusiano badala ya wa miamala kuhusu ujuzi wa AI.
 
@@ -117,7 +118,6 @@ Al Nafjan (2026) anapendekeza Mfumo wa Uwiano wa Ukakamavu–Kujitolea (RCAF), u
 
 Kwa kubuni kazi, dai ni kwamba ukakamavu na kujitolea vinaingiliana badala ya kuongezwa. Mahitaji makubwa yenye msaada mwembamba yanatabiriwa kuwasukuma wanafunzi kuelekea kuficha na michezo ya kugundua, wakati uchangamfu bila mahitaji unaruhusu matokeo ya ufasaha kupita kama kujifunza. Ni mazingira ya mahitaji makubwa na msaada mkubwa pekee yanayotabiriwa kuzalisha ushirikiano wa kina, huku [[evaluative-judgment|hukumu ya kutathmini]] ikifanya kazi ya kuamua lini matokeo ni muhimu, hayatoshi, au yanapotosha. Kwa kuwa GenAI inaweza kuzalisha maandishi ya kitaaluma yanayokubalika, mfumo unatoa tathmini ya uandishi wajibu mahususi: hitaji rasimu na marekebisho yanayoonekana ili utendaji ubaki umeunganishwa na ufikiri unaopaswa kuwakilisha.
 
-
 ## Athari kwa waelimishaji wa kuandika
 
 - **Waonyeshe AI kama kikamilisho, si mbadala, wa mchakato wa kuandika.** Utafiti wa hifadhi hii ya maarifa unamtendea AI kama ngazi za msaada za kutunga, marekebisho, na maoni huku yakilinda kazi ya kiakili na hadhira ya kibinadamu zinazofanya kuandika kuwa shughuri ya kujifunza — [[coach-not-crutch-ai-writing|kufundisha juu ya tegemezi]].
@@ -140,7 +140,6 @@ Kwa kubuni kazi, dai ni kwamba ukakamavu na kujitolea vinaingiliana badala ya ku
 
 Wasifu kamili zaidi wa darasa wa ubuni upya huo ni utekelezaji wa PAIRR. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman na wenzake (2026)]] wanaripoti sehemu 13 za kozi 10 zenye uandishi mkubwa na wanafunzi 654 mnamo 2024, zikienea uandishi wa maendeleo, muundo wa mwaka wa kwanza, uandishi wa kitaalamu na kozi za uandishi za STEM. Wanafunzi walisoma kuhusu mifano ya lugha kwanza, kisha wakabadilishana maoni ya wenzi, na kisha tu wakatoa ilani kwa chatbot kwa maoni yanayoendeshwa na rubriki. Ilani ilisema "Usinirekebishe insha yangu." Hoja ya waandishi kwa mpangilio huo ni kile kozi inaweza kudhibiti: mfano uliowekwa kama sauti moja ya pembezoni hauwezi kuchukua rasimu bila rubriki ya mwalimu kuona.
 
-
 ## Dhana Potofu za Kawaida
 
 **"Msaada wa AI katika kuandika ni kuandika haraka tu."** Kuandika ni mchakato wa kifikra, kijamii na kiretori, si matokeo tu, na ndiyo sababu AI inaweza kuondoa kazi ileile ya kiakili inayofanya kuandika kuwa shughuli ya kujifunza. Mwongozo wa kubuni unaofuata ni *kufundisha, si kutunga*: mfumo uulize maswali na ukague mpango huku mwanafunzi akizalisha maandishi. Zana inayozalisha rasimu imeondoa mawazo ambayo kazi ilikuwa imeundwa kukuza, hata ikiwa rasimu ni nzuri kiasi gani.
@@ -152,85 +151,3 @@ Wasifu kamili zaidi wa darasa wa ubuni upya huo ni utekelezaji wa PAIRR. [[still
 **"Wanafunzi hufanyia kazi maoni ya AI yanapotolewa."** Upokeaji ni wa kuchagua. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston na Long (2026)]] walifuatilia timu mbili za wanafunzi wa shahada ya kwanza wa [[biology-education|biolojia]] wakirekebisha utangulizi wa pendekezo kwa kutumia maoni ya AI yaliyoandaliwa na mwalimu: maoni 10 kati ya 22 yalishughulikiwa, kufuta kulizidi kuongeza, na maoni yaliyowahitaji wanafunzi kuhukumu mshikamano au uungwaji wa dai yalipuuzwa kabisa.
 
 **"Mfano unaweza kuchukua nafasi ya mtindo wa maoni wa mwalimu."** Haijafanya hivyo katika ushahidi. Kufuatilia mwalimu mmoja katika hatua za rasimu kuligundua mwendo mkubwa katika **aina tano** za umakini wa maoni, huku *Sifa* ikipanda kutoka **26.9%** katika rasimu za mwanzo hadi **84.9%** katika rasimu za mwisho, wakati mfano wa karibu zaidi ulihama katika tatu na mdogo zaidi katika hakuna, na hakuna mfano ulioiga mtindo huo. Maoni ya mwalimu husambaza upya msisitizo kwa hatua ya rasimu; maoni ya mfano huwa yanahifadhi mgawanyo wake. Kuyachukua ya pili kama sawa kunapoteza mwelekeo huo.
-
-## Dhana Zilizounganishwa
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-- [[gunay-ozden-process-genre-ai-writing-2026]] — Majaribio ya nusu ya kielelezo ya wanafunzi 32: ufundishaji wa mchakato na aina ulipandisha uandishi wa taarifa, wa njia nyingi na unaosaidiwa na AI (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Maprofesa 24 wa uandishi kuhusu kutoa alama kwa AI: faida kwa maoni, mkengeuko wa alama, hakuna kanuni ya kitaasisi
-- [[genai-l2-written-feedback-scoping-review-2026]] — Mapitio ya upeo ya masomo 51: mapengo ya uwazi wa ilani na kwa nini AI pamoja na mwalimu inashinda kila moja peke yake
-
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-
-- [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
-- [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
-- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: AI Writing Support at Different Stages
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[student-rationalization-ai-writing]] — \"It's OK Because...\": The Wild West of Student Rationalization
-- [[care-full-feedback-genai]] — Care-Full Feedback Approaches
-- [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
-
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting literacy and intrinsic motivation drive deep revision while external mandates have no direct effect (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback as heterogeneous L2 scaffolds in an 8-week quasi-experiment (Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI writing performance: large pooled effect, fragile magnitude, methodology over pedagogy (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematic review of AI writing customization and the theory–design mismatch (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Human and AI revisions of the same draft take different dialogic stances: peer feedback closes dialogic space, AI revision keeps it balanced (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: gating AI output on prior engagement redistributed effort to writing without costing time or accuracy (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing, with environmental regulation (tool governance) as a distinct dimension
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Kuunganisha AI na maoni ya wenzi hupandisha ushiriki na alama za uandishi
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Wanafunzi wanataka binadamu kwenye upande wa hatari kubwa
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Wanafunzi wa shahada ya kwanza wa biolojia na matumizi ya maoni yanayowezeshwa na AI kurekebisha uandishi wa kisayansi: upokeaji na vizuizi (Weston na Long 2026)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Matumizi ya kuwajibika ya AI inayozalisha katika uandishi wa kitaaluma: mapitio ya upeo ya mipaka, mbinu za kielimu na mapengo ya ushahidi
-
-- [[favero-thinking-not-writing-chatbot-2026]] — Ufikiri si Uandishi: Kubuni Chatbots za AI Kuunganisha Ufikiri na Marekebisho
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: watoaji alama 22 wanaojulikana hukutana na uchunguzi wenye jibu linalojulikana (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Muktadha wa mwanafunzi hubadilisha alama za mtoaji alama wa LLM kwenye kazi ile ile (Porcaro 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Ukabidhishaji unaopimwa kutoka kwa kumbukumbu: maswali 137 ya kazi nzima, wanafunzi 15 wakiwasilisha insha bila maneno (Jelson et al. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Ukakamavu na kujitolea kwa mwalimu kama vipimo viwili vya ushirikiano wa kuandika enzi ya GenAI
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Sehemu 13, kozi 10, wanafunzi 654: utekelezaji mkuu wa PAIRR na ilani yake ya maoni pekee
-

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -49,12 +50,3 @@ Programerima koji grade AI značajke u kurikul i [[assessment|proizvode za ocjen
 ## Napomene i upozorenja
 
 Otvorenost [[open-source|izvornog koda]] ne čini podatke otvorenima. Kôd grafa znanja i evaluatora je MIT, a Agent Skills je Apache-2.0, dok svaki skup podataka nosi vlastitu oznaku pristupa — Open, Open + Gated ili Gated — a Gated sadržaj nije obuhvaćen otvorenim licencijama na koje se repozitorij poziva, pa provjerite katalog skupova podataka prije nego pretpostavite prava na ponovnu upotrebu. Sadržaj upita evaluatora je CC BY 4.0, no anotirani korpusi CLEAR i PERSUADE 2.0 koje koriste licencirani su CC BY-NC-SA 4.0. Platforma i skupovi podataka iza nje zahtijevaju račun.
-
-## Povezani pojmovi
-
-- [[curriculum-design]] — graf postoji kako bi generirani sadržaj uskladio sa standardima i kurikulima
-- [[open-source]] — MIT i Apache-2.0 kôd, uz licenciranje podataka po skupu
-- [[educational-nlp]] — evaluatori su sloj mjerenja teksta nad izlazom LLM-a
-- [[agentic-ai]] — vještine koje pakiraju radni tok da ga model provede
-- [[edtech-platform]] — Curriculum Sync učitava kurikule u sustav za upravljanje učenjem
-- [[llm]] — meta ocjene i korisnik vještina

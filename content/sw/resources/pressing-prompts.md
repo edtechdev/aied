@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -39,8 +40,3 @@ Kila mada hubeba swali la kuweka muktadha, viuanzishi vya mazungumzo, shughuli z
 ## Ilitoka wapi
 
 Ilianza Chuo Kikuu cha Duke katika 2024–2025 kama AI Ethics Learning Toolkit, iliyobuniwa pamoja na wanafunzi wa shahada ya kwanza, wakurugenzi wa maktaba, wataalam, na wateknolojia katika Center for Teaching and Learning na Duke Libraries, na ikarejeshwa baada ya maoni na kubuni upya na Hannah Rozear, Remi Kalir na Aria Chernik.
-
-## Dhana Zilizounganishwa
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

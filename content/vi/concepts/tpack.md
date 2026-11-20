@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -95,49 +97,3 @@ TPACK là khuôn khổ tổ chức cho phía giáo viên trong nền tảng bằ
 - **"Sự chiếm ưu thế của TPACK phản ánh sức giải thích của nó."** Sự chiếm ưu thế đó **một phần là một tạo tác của việc truy xuất**: trong một tổng quan phạm vi PRISMA trên **195 nghiên cứu giáo dục giáo viên có công nghệ hỗ trợ**, năng lực số, TPACK và DigComp **chi phối tài liệu được lập chỉ mục**. Việc xuất hiện nhiều trong một tìm kiếm là thuộc tính của từ vựng mà lĩnh vực dùng, không phải bằng chứng rằng khuôn khổ giải thích được nhiều hơn.
 - **"Một khuôn khổ nổi tiếng là một khuôn khổ đã được kiểm chứng cho AI."** TPACK không được thiết kế cho những năng lực đặc thù AI, đó là lý do Intelligent-TPACK được phát triển — và nó chỉ xuất hiện trong **năm nghiên cứu** trong tổng quan 78 nghiên cứu. Dùng TPACK cho năng lực GenAI là kéo nó ra ngoài phạm vi mà nó được xây dựng.
 - **"Áp dụng một khuôn khổ nghĩa là nghiên cứu đã có lý thuyết."** Cùng tổng quan đó phát hiện **76% nghiên cứu suy ra năng lực từ thực hành mà không có ánh xạ lý thuyết nào**, nên sự hiện diện của TPACK trong lĩnh vực song hành với việc phần lớn nghiên cứu không có lý thuyết. Một khuôn khổ được gọi tên không giống với một khuôn khổ đang làm việc.
-
-## Khái niệm liên quan
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Bài viết liên quan
-- [[ai-literacy-tpack-preservice-2026]] — Năng lực AI được nhận thức và TPACK trong giáo dục giáo viên trước khi vào nghề: trung gian qua tính hữu ích, tính dễ dùng và giá trị (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Hệ thống chỉ báo đánh giá cho các chương trình chứng chỉ AI
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Nghiên cứu xuyên cấp: 'sư phạm trước, công nghệ sau' — TPAIK vượt trội TAIK kỹ thuật đối với kết quả của học sinh (Shen và cộng sự 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI của giáo viên tại chức và vai trò trung gian của kiến thức sư phạm (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Chuẩn tích hợp công nghệ cho giảng viên (DBR liên quan đến TPACK)
-- [[edurev-100741-tpack-genai-review]] — Tích hợp AI sinh tạo vào việc học của sinh viên: một tổng quan hệ thống từ góc nhìn TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Mô hình hóa AI-TPACK qua quy trình đa tác tử của giáo viên
-- [[ai-tpack-preservice-math-teachers]] — Mức sẵn sàng AI-TPACK của giáo viên toán trước khi vào nghề
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tương tác giáo viên–AI trong thiết kế bài học: Intelligent-TPACK, kinh nghiệm và sự thành thạo tương tác với nhau (Choi và cộng sự 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Phát triển chuyên môn GenAI chuyên sâu và mức tăng AI-PCK
-- [[teacher-ai-teaming-five-levels]] — Khuôn khổ năm cấp độ về việc giáo viên cùng làm việc với AI
-- [[teacher-ai-adoption-confidence]] — Sự tự tin của giáo viên và việc chấp nhận AI
-- [[teacher-education-ai-literacy-sdt-2026]] — Giáo dục giáo viên về năng lực AI qua thuyết tự quyết
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Huấn luyện năng lực GenAI bằng nghiên cứu dựa trên thiết kế
-- [[rail-ed-genai-literacy-teacher-education]] — Nghĩ lại về năng lực GenAI trong giáo dục giáo viên
-- [[sec-ai-literacy-narrative-review-2026]] — Năng lực cảm xúc – xã hội và năng lực AI
-- [[genai-runaway-object-math-higher-ed]] — GenAI và toán học trong giáo dục đại học
-- [[ai-changing-teaching-workflows]] — Cách AI đang thay đổi quy trình giảng dạy
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Kiến thức TPACK-21 tự nhận thức của giảng viên về GenAI trong giáo dục đại học (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Hướng tới một khuôn khổ AI-TPACK mới: đạo đức như yếu tố trung gian tích hợp của kiến thức AI kỹ thuật (Chen và cộng sự 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Khảo sát so sánh 186 giáo sinh khoa học Nam Phi: lợi thế của cơ sở chính trong TPACK tự báo cáo, và đào tạo AI gắn với TPACK được báo cáo yếu hơn ở cơ sở từ xa
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK và tự hiệu quả giảng dạy khoa học làm trung gian nối tiếp cho tác động của năng lực AI lên ý định tích hợp tìm hiểu (Zou và cộng sự 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Phát triển chuyên môn Intelligent-TPACK cho giảng viên đại học: mức tăng phân giải theo chiều, việc tham dự quan trọng hơn mức độ tham gia tự nhận thức — Mô-đun CTD-PBL có AI hỗ trợ và TPACK cùng việc giải quyết vấn đề cộng tác của giáo sinh vật lý (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Đánh giá sự cộng tác người–AI trong giáo dục thiết kế: một rubric định hướng quá trình dựa trên khuôn khổ AI-TPACK mở rộng
-- [[capability-decision-model-teacher-readiness-2026]] — Mô hình sẵn sàng AI của giáo viên ưu tiên năng lực, có thứ tự, và cảnh báo về sự chồng lấn cấu trúc của nó
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Cảnh báo từ tổng quan phạm vi rằng sự chiếm ưu thế của các khuôn khổ năng lực phần nào phản ánh các mô tả tìm kiếm, chứ không phải mức phổ biến trong lĩnh vực
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Vai trò của TPACK tích hợp trong việc trao quyền cho giáo sinh và định hình thái độ của họ đối với AI sinh tạo trong giảng dạy

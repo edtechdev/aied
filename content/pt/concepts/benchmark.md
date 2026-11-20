@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -96,40 +98,3 @@ A distinção vale a pena ser mantida. Uma pontuação de leaderboard é uma afi
 - **"A posição no leaderboard diz quão bom é um tutor."** O StudentBench **distribui aleatoriamente 2.383 adultos entre tutoria por IA, tutoria humana especialista ao vivo e uma condição de vídeo** e pontua contra tutores humanos, e não contra outros sistemas. Um benchmark escalado contra outros modelos responde a uma pergunta que ninguém precisava ver respondida.
 - **"Personas simuladas são uma base adequada para avaliar tutores."** O [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] fundamenta a avaliação na **literatura de casos documentada, e não em personas simuladas**, usando **923 diálogos**. Personas fabricadas de estudantes permitem que um sistema passe em casos que não ocorrem.
 - **"Os benchmarks podem ser confiados sem verificar o juiz."** A alucinação foi pontuada como **implicação contra os trechos recuperados de licença aberta (κ = 0,76 com o julgamento especialista)** — o juiz foi validado contra especialistas antes de suas pontuações serem usadas. Um juiz automático não validado produz números de significado desconhecido.
-
-## Conceitos conectados
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Artigos conectados
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: avaliando tutores de LLM com estudantes que apresentam comportamentos desafiadores (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Um benchmark de proficiência em inglês de 624 itens que reporta a capacidade do modelo como um nível calibrado (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Os instrumentos de avaliação medem a mesma coisa para humanos e LLMs? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — O Pedagogy Benchmark: conhecimento pedagógico de LLMs (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: colocando em benchmark agentes de desenho instrucional baseados em LLMs
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistentes de base de conhecimento com OER no local: benchmark multidimensional
-- [[authentic-products-authenticated-processes-2026]] — De produtos autênticos a processos autenticados: avaliação autêntica no ensino superior rico em IA
-- [[llm-cognitive-diagnosis-handwritten-math]] — Colocando em benchmark grandes modelos de linguagem para diagnosticar habilidades cognitivas de estudantes a partir de trabalho matemático manuscrito
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: um benchmark de horizonte longo para agentes pedagógicos com LLMs e estudantes simulados
-- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação responsável na era da IA: percepções-chave de uma conferência voltada ao futuro
-- [[anvil-ai-educational-animations]] — ANVIL: Analogias e vídeos para professores
-- [[icle-plus-plus-essay-scoring]] — ICLE++: modelando traços de granularidade fina para pontuação holística de redações
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: colocando em benchmark MLLMs para auditoria de slides
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark para avaliar diagramas matemáticos gerados
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizando a avaliação do estudante: predição de familiaridade baseada em EEG
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: geração aumentada por recuperação para educação em ciência da computação teórica -- um framework de avaliação abrangente para análise de algoritmos e teoria da complexidade
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: construção de benchmark anotação-primeiro e gerativa de tarefas, e não redundância no nível da dimensão ao longo de 12 tarefas de imagens artísticas (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria com IA e humana produzem ganhos de aprendizagem equivalentes no GRE
-- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de questões educacionais novas assistidas por IA
-- [[llm-benchmark-secondary-science-topics-2026]] — Um benchmark para a compreensão de tópicos de ciências do ensino médio por LLMs
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Oito princípios de desenho para benchmarks de tutores com IA, derivados de uma métrica que foi otimizada até a repetição (Domínguez Figaredo & Fernández De la Cruz 2026)
-
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparando abordagens de IA para extração automatizada de habilidades: de embeddings a sistemas agênticos para a educação em engenharia

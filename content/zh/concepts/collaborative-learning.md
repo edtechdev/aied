@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -135,67 +137,3 @@ ai_assist:
 - **“给小组配上 AI 就意味着更多协作。”** 一项对 **18 项研究**的范围综述描绘出小组作业中的权衡：GenAI 支持了**知识发展、想法生成与沟通效率**，同时在同一批干预中带来关系性代价。效率增益与关系代价是一起到来的。
 - **“AI 支持的协作学习有元分析支持。”** 关于 AI 支持的协作工作，**唯一**可得的元分析对比**位于** GenAI 支持的 PBL/PjBL 干预**之内**，而不是被直接估计，因此它是更大效应中的一个成分，而不是对协作本身的测量。
 - **“LLM 伙伴会保留下小组自己的推理。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 在课堂规模上以社会科学入门课程的学生检验了这一点，正因为“保留”是一个开放问题，而不是一个假定。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 脚本化的共享 AI 协作及其经检验的角色设计
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[group-work]] — 小组作业
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — 在线教学与学习
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-
-## 关联文章
-
-- [[nixon-social-cost-ai-teammate-2026]] — 对关系性代价的随机检验：当 AI 加入团队时，同伴回应性与归属感下降（Nixon 等 2026）
-- [[lin-ai-peer-collaborative-mathematics-2026]] — 什么让一个 LLM 智能体读起来像同伴：安全感、试探性推理、恰当的不完美
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题式与项目式学习作为生成式 AI 支持教育的有前景框架：来自一项系统综述与三层元分析的新证据
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 内隐人机协作中涌现的学习者能动性：支持型对唱反调型人设
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT：面向结对编程的主动式 AI 自适应协作导师
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz：学生项目团队中的 AI 学科中介
-- [[academic-league-of-ai-2026]] — AI 学术联盟：协作式、项目式的 AI 教育
-- [[icap-cognitive-engagement-llm-agents]] — 测量协作对话参与的扩展 ICAP 框架
-- [[llm-facilitation-timing-online-discussions]] — 在线协作讨论中的 LLM 促进时机
-- [[ba-ai-agents-cscl-review-2026]] — 计算机支持的协作学习中的 AI 智能体综述
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI 与学生小组作业：一项范围综述（Wei 与 Perkins，2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA：面向多智能体辅导与参与平衡协作的合成基准
-- [[xu-genai-collaborative-space-2026]] — GenAI 作为小组动态中的智能体与协作空间（Xu 等，2026）
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 在线讨论论坛中由 AI 生成摘要驱动的学习设计
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 作为学生小组中的协调基础设施：加剧的、克制的与未实施的使用
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 伦理训练智能体：用角色扮演与讨论促进基于小组的伦理教育，以进行伦理反思与探索
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 在 1,048 篇文献中，以社会为导向的 AI 协作工作从未成为主导主题
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 小组的认识配置决定了 AI 的位置：在异质前概念小组中是整合枢纽，在相似小组中是线性的先查询后处理路径，而先备知识相当（Wang 等，2026）
-- [[bjet-many-hands-make-light-work-2026]] — 与多智能体系统配对的二人组产出了最好的项目，而独自工作产生了最大的批判性思维增益
-- [[alam-process-oriented-collaborative-essays-2026]] — 面向过程的协作文章：对迭代与协作计分，并在边界内允许使用 GenAI（Alam 与 Jackson 2026）

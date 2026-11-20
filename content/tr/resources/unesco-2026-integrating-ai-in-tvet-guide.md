@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
@@ -41,12 +42,3 @@ Kullanılabilir malzeme üç ekte yer alır. Ek A, küçük ve işlevler arası 
 ## Notlar ve uyarılar
 
 Bu bir yönlendirmedir, değerlendirme değil. Rehber sonuç verisi sunmaz ve kurumsal örnekleri, Kanada'daki College of the North Atlantic'te içeriğe yapay zekâ entegre eden öğrenme modeli ile Kenya'nın 2023 tarihli mesleki eğitimde işletmede staj standardı, proje raporlarına dayanan betimleyici örnek kutularıdır, bağımsız denemeler değil. Ekler kendilerini yol gösterici olarak tanımlar; olgunluk ölçeği bir tartışma yardımcısıdır, ölçüm aracı değil. Güvenlik açısından kritik ve düzenlemeye tabi meslekler ayrı bir bölüm alır; ancak bu bölüm düzenleme düzeyinde ayrıntı vermek yerine insan gözetimi konusundaki tutumu savunur. CC BY-SA 3.0 IGO lisansı, atıf ve aynı koşullarla paylaşım kaydıyla uyarlama ve yeniden yayımlamaya izin verir.
-
-## Bağlı kavramlar
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

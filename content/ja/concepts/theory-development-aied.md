@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -119,53 +121,3 @@ AI時代のために既存の枠組みを応用するのではなく、明示的
 **開発者にとって**
 
 **「AIの教育的機能に関する既存の分類体系は、これらのシステムが行っていることをすでに網羅している。」** そうではない。応用機能を分類できる154件の出版物のうち、**90件(58.4%)が先行する枠組みの4つのカテゴリーに収まらなかった**のであり、だからこそ新しい研究は、機能を、委任される制御、認識論的立場、埋め込まれた教育学と交差させている。5件中3件近くを誤って分類する分類体系は、この分野の共通語彙として役立ち得ず、この隔たりは論文の不備ではなく、現象そのものについての知見である。
-
-## 関連概念
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## 関連記事
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 機能的類型の拡張:分類可能な154の出版物のうち90件(58.4%)が元の4カテゴリーの外に落ちる(Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — 4つのメカニズムと6つの検証可能な命題を備えた、人間とAIの相互作用のための中範囲学習理論（Yan and Gašević 2026）
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺瞞的過剰一般化。適応的な習熟は、学習者がいつ行動を差し控えるべきかを知る前に練習を止めることがある（An, McLaren & Stamper 2026）
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — 新しい学習理論としてのジェネラティビズム
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 認識的共働性の理論へ
-- [[du-yuan-epistemic-dependence-2026]] — 関係的認識的エージェンシーと生産的依存／有害な依存の境界（Du & Yuan 2026）
-- [[absent-cognitive-baseline-2026]] — 欠落した認知的基線（ACB）
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知コモンズと専門性の再生
-- [[genai-performance-vs-learning]] — 成績対学習
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 認識的AIリテラシー（EAIL）
-- [[credential-cognitive-stewardship-ai-assessment]] — 資格と認知的スチュワードシップ
-- [[ai-cognitive-partner-co-regulation-learning]] — 共規制における認知的パートナーとしてのAI
-- [[epistemic-proactivity-math]] — 数学における認識的能動性
-- [[strydom-human-gai-paradigms-2026]] — 認識論的信念に基づく7つの人間とGAIの関与パラダイム
-- [[critical-thinking-paradox-genai-learning-2026]] — 批判的思考のパラドックス
-- [[dollinger-equitable-assessment-ai-2026]] — 生成AIの下での公正な評価
-- [[shaw-nave-cognitive-surrender-2026]] — 三システム理論と認知的降伏。AIが人間の推論をどう形作り直すか（Shaw & Nave 2026）
-- [[reconceptualizing-community-inquiry-generative-ai]] — 生成AIの時代における探究共同体の再概念化
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教師のGAIに関する経験と知覚。脆弱性、評価の再考、危機にある学生の学習（Farazouli et al. 2026）
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — 代替のAI哲学。教育分野におけるAIの方法としての道家
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors。教育対話の監査可能な符号化のための主張に基づくスキーマ
-- [[metacognitive-ownership-human-ai-regulation-2026]] — メタ認知的所有。構成概念の定義、境界、研究の課題
-
-- [[synthetic-position-self-authorship-2026]] — 総合的立場。合成的促進と著作的宙づりを名指し、交差予測を行う対話的自己の試み
-- [[capability-decision-model-teacher-readiness-2026]] — 4つの反証条件を持つ反証可能なケイパビリティ優先の教師準備度モデル
-- [[ai-connectedness-adolescent-mental-health-2026]] — 人工知能つながり。後の検証のための6つの反証可能な命題を持つ3次元の構成概念
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 認知的パートナーシップ・サイクル
-- [[friction-paradox-generative-ai-education-abroad-2026]] — 留学教育における解釈的エージェンシーに適用された望ましい困難と生産的な失敗
-- [[webb-pck-genai-2026]] — 三つの事例と、共同体の検証を伴わずに集合的知識を模倣する出力のための新しい構成概念 pseudo-cPCK（Webb ら 2026）

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -121,58 +123,3 @@ ai_assist:
 - **"忠实的模型需要最复杂的方法。"** [[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2025）]]说明**忠实的表征并不需要最复杂**的方法。复杂度不是保真度的代理指标，一个捕捉到相关结构的更简单模型可以是更好的工具。
 - **"学习者模型需要轨迹数据。"** 一个预测性学习者模型可以建立在**注册的结构**之上，而非轨迹数据：TRACE 把每个学期编码为一组**无序的课程集合**，并据此预测。预测信号可以存在于机构的行政记录里。
 - **"情感状态需要生理感知。"** 一个数学辅导工具**从对话文本与面部表情推断情绪**，并把聚合状态映射到辅导策略。情感信号可以从学习者已经在产生的东西中恢复出来。
-
-## 关联概念
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 风险预测与支持定向之下的模型
-
-- [[sensor-and-gaze-analytics]]
-
-## 关联文章
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper 2026）
-- [[causal-modeling-competency-assessment-2026]] — 面向学生能力评估的支持干预的因果建模
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 辅导并非铁板一块：我们实际知道什么（斯坦福 SCALE／NSSA 简报）
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM 辅导工具过度拒绝有效替代方案、过度认可不正确方案（Yasir et al. 2026）
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — 从学生风险预测到 SC2R：反事实追索
-- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的基于图智能辅导（2026）
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 为学习分析蒸馏自我解释 LM
-- [[studentsim-llm-student-simulators]] — StudentSim：训练基于 LLM 的学生模拟器
-- [[predicting-attrition-competitive-programming]] — 预测竞争性编程中的学生流失
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于亲和映射的结果导向知识追踪
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — 超越 ID 嵌入：面向认知诊断的过程锚定语言建模
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 把紧凑的学习者状态与校准过的追踪器作为推荐环境
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：一个在人机共学循环中学习其学习者的智能体式导师
-- [[ai-game-based-learning-systematic-review-2026]] — 隐性评估达到 0.848–0.913 的 AUC，但 55 项研究中偏差审计近乎缺失
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 基于对话的学习风格推断在均衡指标上失效（Zamanifard、Goudarzi 与 Robb 2026）

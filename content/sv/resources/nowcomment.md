@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -47,12 +48,3 @@ Lärare som driver närläsning, dokumentstudier eller medieanalys i K-12 eller 
 ## Noteringar och förbehåll
 
 Konton är gratis, och dokument kan vara offentliga eller delas med en inbjuden grupp. AI-partnerna körs på OpenAI:s stora språkmodeller, så valda passager och frågor lämnar plattformens egen drift och omfattas av leverantörens villkor – ett distrikt bör läsa datahanteringsarrangemanget innan det används med minderåriga. Utdata begränsas av en tokengräns som sajten säger att man fortfarande utökar, partnerkatalogen ligger bakom inloggning, och AI-ytorna är en snabbrörlig del av produkten: betrakta varje förmåga som beskrivs här som sajtens läge i november 2026, inte som en fast funktionsuppsättning.
-
-## Anslutna begrepp
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

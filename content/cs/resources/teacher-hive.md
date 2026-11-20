@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -47,11 +48,3 @@ Učitelé K–12, kteří použili [[generative-ai|generativní AI]] k vytvořen
 Member a Builder jsou zdarma (Builder: 50 aplikací, 50 MB); Pro stojí \$10 měsíčně nebo \$60 ročně za 500 aplikací. Přístup je freemium.
 
 Soukromí je silnější tvrzení, ale přesouvá odpovědnost na učitele. Teacher Hive nezakládá studentské účty, neptá se studentů na osobní údaje a v publikovaných aplikacích nespouští analytické ani reklamní skripty. Protože jsou aplikace veřejné po odkazu, podmínky činí učitele odpovědnými za to, že jejich aplikace neshromažďují jména, e-maily, studentská ID ani polohu. Pokrytí přístupnosti (WCAG 2.2 AA) se vztahuje na vlastní stránky Teacher Hive, ne na učitelské aplikace, které testované nejsou. Licence s otevřeným zdrojovým kódem není uvedena a dostupnost ani uchovávání dat nejsou garantovány.
-
-## Související pojmy
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

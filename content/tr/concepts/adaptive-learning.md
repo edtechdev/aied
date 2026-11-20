@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -102,58 +104,3 @@ Uyarlanabilir öğrenme sıklıkla [[personalized-learning|kişiselleştirilmiş
 
 - Adlandırılan her etki büyüklüğünün yanında “uyarlanabilir”in işletimsel tanımı bildirilmelidir, çünkü literatürün tanımları birbirinden ayrışır ve birleştirilmiş sayılar bu belirsizliği devralır.
 - Kendi doğrulamada ustalık ölçütü öğrenme sonuçlarından ayrılmalıdır. Doğrulama ölçüsü uyarlamayı yürüten sinyalin kendisiyse, o ölçü bağımsız kanıt değildir.
-
-## Bağlı kavramlar
-
-- [[online-teaching-and-learning]] — Çevrim İçi Öğretme ve Öğrenme
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, etken)
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı makaleler
-
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Kişiselleştirilmiş değerlendirme için momentuma duyarlı uyarlanabilir bir puanlama sistemi
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aldatıcı aşırı genelleme: uyarlanabilir ustalık, öğrenenler bir eylemden ne zaman kaçınılacağını bilmeden alıştırmayı kesebilir (An, McLaren ve Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — YZ Özel Ders Tek Biçimli Değil: Aslında Neyi Bildiğimiz (Stanford SCALE/NSSA brifingi)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Uyarlanabilir öğrenme platformlarında öğrenci katılımına dair sistematik derleme
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL ile sanal özel ders: benimseme ve öğrenmeyle ilgili bir deney
-- [[making-ai-tutoring-productive-mastery-math-2026]] — YZ özel dersini üretken kılmak: ustalık temelli matematik alıştırması
-- [[chudziak-ai-math-tutoring-platform]] — Uyarlanabilir/kişiselleştirilmiş çok etkenli matematik özel dersi (Chudziak ve Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Kişiselleştirilmiş öğrenmeyi yeniden tanımlamak: sistematik derleme
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — Genel sohbet robotlarına karşı öğrenci hazırbulunuşuna kalibre edilmiş özel ders odaklı YZ
-- [[context-based-ai-secondary-chemistry-2026]] — Ortaöğretim kimyasında bağlam temelli 7E + YZ öğretimi
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Derin öğrenme için uyarlanabilir YZ temelli STEM programı
-- [[graph-its-adaptive-algorithms-2026]] — Dinamik Alanlar için Grafik Temelli Akıllı Öğretim (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Kişiselleştirilmiş öğrenme yolları için Bayesyen bilişsel teşhis
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Bir ITS’te uyarlanabilir ICAP iskelelemesi (BKT karşı DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14 RCT boyunca uyarlanabilir + YZ destekli araçları birleştiren meta-analiz
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Sistematik derleme: yükseköğretimde önde gelen YZ tümleşme kullanım alanları arasında uyarlanabilir yollar
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Uyarlanabilir problem sıralama sabit sıralamayı geride bırakıyor: yardımsız bir sınavda +0,156 standart sapma, zorluktan çok katılımı aracılık eden (Chung ve ark. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan-YZ Birlikte Öğrenme Döngüsünde Öğrencisini Öğrenen Etken Bir Öğretmen
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Strateji kullanımı durum baskın (ortalama ICC 0,14), dolayısıyla statik öğrenen profilleri sinyalin çoğunu atar
-

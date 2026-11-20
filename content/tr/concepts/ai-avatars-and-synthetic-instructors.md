@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -118,47 +120,3 @@ Bu darlık önemlidir. Theelen’in yazarları bunu doğrudan söyler: akıcıl�
 **“Avatar görünümü kozmetiktir.”** Kimlik ipuçları inandırıcılık değerlendirmelerini ve yönlendirmenin gerçek benimsenmesini değiştirdi; cezalar daha yaşlı Siyahi kadın avatarlarda birikti.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Yapılandırma pedagojik ve eşitlikçi bir karardır.
 
 **“Simüle edilmiş hasta, maliyeti düşülmüş standart hastadır.”** Kursiyer psikologlar sanal hastalarını işbirlikçi ve terapide zaten ilerlemiş buldu; davranışsal katılığı yeterince temsil etmeyen “ideal” bir vaka.([[ai-psychotherapy-training-avatars]]) Maliyet düşer; vaka geçerliliği kendiliğinden gelmez.
-
-## Bağlı kavramlar
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Bağlı makaleler
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar kimlik ipuçları inandırıcılığı ve yönlendirme benimsemesini kaydırır (Anthis ve Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Uygulamaya dayalı öğretmen eğitimi diyalogunda öğrenci avatarları (Hauk vd. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Bir YZ okuryazarlığı atölyesinde cinsiyete göre deepfake üretimi ve bildirimi
-- [[elevate-genai-virtual-tutors]] — Öğretmen yönetişim katmanı olan yerel öncelikli 3B avatar öğretim araçları (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Klinik iletişim için LLM yargıçlı avatar hastalar
-- [[genai-simulate-patient-history-pbl-2026]] — Bir PBL anamnez dersinde üretken YZ hasta avatarı
-- [[ai-psychotherapy-training-avatars]] — Psikoterapi eğitiminde ACT bağlılığı pratiği için hasta avatarları
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Genişletilmiş gerçeklikte pedagojik ajanlar: varlık, gerçekçilik ve yük (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Seyirci müdahalesi için kukla yönetimli avatarla robot aracılı rol yapma
-- [[personalized-ai-generated-videos-preference-2026]] — Klonlanmış eğitmen videosu kişiselleştirmesi ve öğrenci tercihi
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Sınıf simülasyonunda temsili faillikten ayıran dört katmanlı çerçeve
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Ders geri bildirimi görüşmeleri için önerilen konuşma tabanlı ses ajanı
-- [[trikonet-trivalence-co-creativity-2026]] — Sosyoteknik ağlarda ortak yaratıcı pedagojik avatarlar (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 öğrencinin yalnızca %51,7’si sunulan insanbiçimci rolleri seçti; biri ona geri bildirim otomatı dedi

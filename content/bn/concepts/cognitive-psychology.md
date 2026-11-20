@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -82,37 +84,3 @@ Mayer-এর বহুমাধ্যম শেখার জ্ঞানীয�
 - **"মানসিক উপস্থাপনা অপর্যবেক্ষণযোগ্য, তাই শেখা সম্পর্কে জ্ঞানবাদী দাবিগুলি অনুমানমাত্র।"** বিজ্ঞান-ভিডিও চলাকালীন শিক্ষার্থীদের **ইইজি** থেকে চিত্র পুনর্গঠনে পাওয়া গেছে **উপস্থাপনা-নিবিড়তা পরীক্ষার ফলাফল অনুসরণ করে** (রিগ্রেশন সহগ **0.8481, R² = 0.79**)। অভ্যন্তরীণ উপস্থাপনার জ্ঞানবাদী প্রাঙ্গণ পরিমাপযোগ্য, এবং পরিমাপটি ফলাফলের পূর্বানুমান করেছে।
 - **"উচ্চ R² মানে উপস্থাপনাটি শেখাকে ব্যাখ্যা করে।"** R² = 0.79 হলো একই উপকরণে নিবিড়তা ও পারফরম্যান্সের মধ্যে একটি শক্তিশালী সম্পর্ক। এটি প্রমাণ করে না যে নিবিড়তা বাড়ালে পারফরম্যান্স বাড়ে — সেটিই হস্তক্ষেপ-দাবি।
 - **"জ্ঞান-উপাদান কেবল সুবিধাজনক মডেলিং-কল্পনা।"** বিভাজনযোগ্যতাই [[knowledge-tracing]] ও [[cognitive-diagnosis]] সম্ভব করে, আর পদ্ধতিগুলি কাজ করে ঠিক ততটাই যতটা অনুমানটি টেকে। এটিকে কল্পনা ভাবলে পদ্ধতিগুলি ব্যবহারযোগ্য অনুমান কেন দেয় সেই কারণটিই বাতিল হয় — আবার এটিকে সত্য ভাবলে একটি ফিট করা মডেল মন সম্পর্কে কী বলে তা অতিরঞ্জিত হয়।
-
-## সংযুক্ত ধারণা
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — এই অনুশীলন-পরিবার যে ধারণ-ফলাফলের উপর দাঁড়িয়ে
-
-## সংযুক্ত নিবন্ধ
-
-- [[sim-ai-summary-memory-distortion-2026]] — বিভ্রান্তিকর এআই সারাংশ প্রাপ্তবয়স্কদের মনে যা রেখেছে তা বদলে দিয়েছে, সারাংশটি এআই- না মানব-লিখিত লেবেল পেয়েছিল তা নির্বিশেষে
-- [[cognitive-shift-ai-education]] — শিক্ষায় এআই-এর জ্ঞানীয় মোড়
-- [[cogtax-cognitive-taxonomy]] — এআই ব্যবহারের জন্য একটি জ্ঞানীয় শ্রেণিবিন্যাস
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — জ্ঞান অনুসরণে ভিত্তি করা শিক্ষাবিদ্যামূলক এলএলএম এজেন্ট
-- [[nie-personavlm-long-term-personalization-2026]] — এলএলএম শিক্ষার্থী মডেলিং ও স্মৃতি
-- [[ai-cognitive-partner-co-regulation-learning]] — সহ-নিয়ন্ত্রিত শেখায় জ্ঞানীয় সঙ্গী হিসেবে এআই
-- [[ensemble-cognition-philosophy-ai-education]] — সমবায় জ্ঞান: মানব–এআই মিথস্ক্রিয়া হিসেবে চিন্তা
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — শ্রমের পরিমাণ নয়, শ্রমের সংগঠন ভার ও হতাশা অনুসরণ করেছিল
-- [[crediting-assisted-work-inflates-mastery-2026]] — জ্ঞান অনুসরণ থেকে আয়ত্ত-দাবি নির্ভর করে সহায়তাপ্রাপ্ত কাজ কীভাবে কৃতিত্ব পায় তার উপর (Srivastava 2026)

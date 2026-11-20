@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,25 +81,3 @@ foundations: [misconceptions]
 **"עוד מידע על התפיסה הנכונה מתקן את ההתנגדות."** נפח המידע הנכון הוא ההתערבות שכבר נכשלת. שינוי מושגי דורש שהמודל הקיים של הלומד ייעשה מפורש ויימצא בלתי-מספיק, וזה מהלך הוראה שונה מהוספת ראיות.
 
 **"תפיסות מוטעות ובורות רגילה זקוקות לאותו תיקון."** הן זקוקות לתיקונים שונים: בורות נענית באספקת ידע, ותפיסה מוטעית חייבת להיות מודחת קודם. התייחסות לשנייה כראשונה היא הסיבה ששיעור מוסבר היטב יכול להשאיר את המודל המקורי של הסטודנט שלם.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — רצפי הפרכה, כולל שתי תוצאות סותרות ישירות
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## מאמרים מחוברים
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — דו-שיח בינה מלאכותית מותאם-אישית מול הפרכת ספר-לימודים לתיקון אמון
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — טקסט שינוי-קונספטואלי מומחי/בינה מלאכותית מול דו-שיח בינה מלאכותית אינטראקטיבי
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — תפיסות שגויות שנוצרו על ידי מודלים לשוניים ללמידה שיתופית
-- [[chatgpt-inoculation-training-verification-2026]] — אימון חיסון כהתערבות סמוכה בסגנון-הפרכה
-- [[critical-genai-use-predictors]] — ממליץ על טקסטי הפרכה כדי לפנות לתפיסות שגויות קונספטואליות
-- [[ai-learning-companions-framework]] — מלווי בינה מלאכותית ותיקון תפיסה-שגויה

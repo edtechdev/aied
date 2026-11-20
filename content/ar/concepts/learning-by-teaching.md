@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -118,32 +120,3 @@ ai_assist:
 **«أن تطلب من نموذج لغوي كبير أن يتظاهر بالارتباك مطالبة تافهة.»** إنها مشكلة تصميم، لأن قابلية الخطأ يجب أن تُعايَر على المفهوم المُدرَّس وعلى النموذج الحالي لمدرّب-المتعلّم. فالأخطاء العشوائية تُنتج تدريبًا على التنقيح؛ والأخطاء التي تعكس مفهومًا خاطئًا معقولًا بعينه تُنتج إعادة هيكلة مفاهيمية، والثانية وحدها هي الهدف البيداغوجي.
 
 **«التعلّم بالتعليم نشاط أرقّ من أن تُعلَّم.»** بل هو أكثر إلحاحًا. فالتحضير للتعليم يفرض تنظيم المعرفة وتحديد فجوات المرء نفسه، ولهذا يكشف النهج سوء الفهم الذي يخفيه التلقّي السلبي — فالصعوبة هي الآلية لا كلفة تُقلَّل.
-
-## المفاهيم المرتبطة
-
-- [[pedagogical-patterns]] — الشرح لمتعلّم موهَّم بالذكاء الاصطناعي: أفضل تسلسل مُدعّم بالأدلة في قاعدة المعارف
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — المظلة: الأساليب التربوية واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
-
-## المقالات المرتبطة
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT كوكيل قابل للتعليم في البرمجة
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: وكيل قابل للتعليم لـ546 طالبًا
-- [[prompting-teachability-novice-personas-lbt-2026]] — تصميم شخصيات المبتدئين من أجل القابلية للتعليم
-- [[socrates-students-instructors-llms-lbt-2025]] — الطلاب كمدرّسين للنماذج اللغوية الكبيرة (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — تعلّم المفردات بتعليم الذكاء الاصطناعي
-- [[knowloop-confusion-to-consolidation-2026]] — تثبيت التعليم المُعاد في نظام مراجعة حواري
-- [[simulating-novice-students-machine-unlearning-2026]] — فكّ تعلّم الآلة لتثبيت متعلّم موهَّم عند مستوى معرفة المبتدئ، وإعادة التعلّم من خلال حوار التعليم
-- [[simulating-students-java-programming-errors-llms]] — محاكاة أخطاء الطلاب بالنماذج اللغوية الكبيرة
-- [[knowledge-building-tutor-learning-2026]] — ردود بناء المعرفة، لا المعرفة السابقة، هي التي تتنبأ بتعلّم المدرّب

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -60,7 +62,6 @@ LearnAI دکھاتا ہے کہ شامل شدہ شکل کیسی ہوتی ہے: پ
 
 39 STEAM مطالعات (2016–2025) کے PRISMA جائزے نے AI خواندگی کے عناصر میں ایسا ہی عدم توازن پایا: نفاذ نے تکنیکی خواندگیاں — AI کے بنیادی تصورات، [[computational-thinking|حسابی سوچ]]، [[statistics-and-data-science-education|ڈیٹا خواندگی]] — ترقی دیں جبکہ اخلاقی آگاہی، تخلیقی تخیل، اور AI کے ساتھ تخلیق، انتظام و ڈیزائن کو کم ترقی دیا، اس لیے عملی جواب ہر یونٹ کا اِن کے خلاف تدقیق کرنا ہے ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]])۔
 
-
 [[student-experience|طلبہ کی آواز]] ایک اور ڈیزائن کا ایک مدخل ہے: 166 آخری سال کے بزنس طلبہ میں سے 84% چاہتے تھے کہ GenAI اُن کے یونٹس میں پڑھایا جائے اور 85% نے اُسے روزگار کے لیے لازمی سمجھا، جبکہ صرف 7% نے یہ اُسے اپنی یونیورسٹی سے سیکھا تھا ([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]])۔
 
 یونیورسٹی سے پہلے کی [[ai-education|AI تعلیم]] کے 42 مطالعات کے جائزے میں نصاب تکنیکی مواد سے ہٹ کر قابلیت پر مبنی ماڈلوں کی طرف بڑھتا ملتا ہے جو AI4K12 اور Five Big Ideas in AI جیسے فریم ورکوں پر کھڑے ہیں، جہاں [[ai-literacy]] کو بین نصابی قابلیت سمجھا جاتا ہے جبکہ اُس کی جانچ کے معیاری آلات اب بھی موجود نہیں ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]])۔
@@ -70,7 +71,6 @@ LearnAI دکھاتا ہے کہ شامل شدہ شکل کیسی ہوتی ہے: پ
 K-12 ML سرگرمیوں کا ڈیزائن سطح پر ہی رہتا ہے: ICE-T فریم ورک کے پیچھے ایک جائزے نے پایا کہ غیر مرئی استعمال، بٹن کا تعامل اور ماڈل کی تنصیب کوڈ شدہ زیرِ نگرانی سیکھنے کی سرگرمیوں کا تقریباً 60% ہیں، کھلے سرے کی تخلیق صرف دو بار آئی، اور تکنیکی و سماجی زاویے صرف تقریباً 3% سرگرمیوں میں ساتھ آئے ([[icet-ml-education-trust-2026|Haritz et al., 2026]])۔
 
 **[[discipline-specific-aied|شعبے سے مخصوص]] نصابی جدت** نصاب کی تشکیل کو مخصوص میدانوں پر لاگو کرتی ہے۔ **[[genai-architecture-education]]** کھوجتا ہے کہ جنریٹو AI تعمیراتی ڈیزائن کی [[pedagogy]] کو کیسے نئی شکل دیتا ہے۔ **[[talebzadeh-ai-green-education-2026]]** سبز تعلیم کے نصاب میں AI کے انضمام کا جائزہ لیتا ہے۔ **[[connected-ai-lesson-planning-vietnam]]** اور **[[llm-cultural-relevance-k12]]** [[culturally-relevant-pedagogy|ثقافتی لحاظ سے جوابدہ نصاب کی تشکیل]] کو حل کرتے ہیں۔
-
 
 **AI کو شعبے کے ساتھ نہیں، اُس کے اندر شامل کریں۔** تین سطحوں والے (تعارفی، اطلاقی، اعلیٰ) AI نصاب نے [[machine-learning|مشین لرننگ]] کو موجودہ حرارتی انجینئرنگ موضوعات میں 39.1 گھنٹے کے کورس میں شامل کیا، بجائے کمپیوٹر سائنس کے اختیاری کورسز جوڑنے کے، جس سے مکینیکل انجینئرنگ طلبہ پر اضافی بوجھ نہیں پڑا اور اُس نے اپنا سلیبس، ڈیٹا اور کوڈ کھلے طور پر جاری کیا ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]])۔
 
@@ -100,7 +100,6 @@ K-12 ML سرگرمیوں کا ڈیزائن سطح پر ہی رہتا ہے: ICE-T
 
 نصاب کی تشکیل براہِ راست [[learning-design]] سے جڑتی ہے — نصاب *کیا* متعین کرتا ہے، ہدایات *کیسے*۔ یہ [[ai-literacy]] سے جڑتی ہے کیونکہ AI قابلیتیں شامل کرنا نصاب کا ایک بنیادی چیلنج ہے، [[teacher-role]] اور [[educational-development]] سے کیونکہ نصاب کی تبدیلی اساتذہ کی تیاری مانگتی ہے، اور [[scaffolding]] سے کیونکہ اچھی طرح ڈیزائن کیا گیا نصاب کورسز اور برسوں میں مہارت کی نشوونما کو سہارا دیتا ہے۔ [[higher-ed]] اور [[k-12]] کے روابط نصاب کی تشکیل کی ہر تعلیمی سطح پر مطابقت کو ظاہر کرتے ہیں۔
 
-
 **ایک AI خواندگی فریم ورک چننا ایسی اصطلاحات چننا ہے جسے کسی نے باہم نہیں ملایا۔** K-12 کے 50 فریم ورکوں کے اسکوپنگ جائزے میں، [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] نے پایا کہ قابلیت کی تعریفیں علمی، جذباتی، رویاتی، اخلاقی اور سماجی جہتوں پر متفق ہوتی ہیں جبکہ لیبل اور constructs نہیں ملتے۔ صرف ABCE فریم ورک مشترک پیمائش کی روایت کے قریب آیا، جو ہانگ کانگ، شنگھائی اور تائیوان میں توثیق شدہ ہے، اور گریڈ بینڈز میں ترقی بار بار تجویز ہوئی مگر کہیں جانچی نہیں گئی۔
 
 ## عام غلط فہمیاں
@@ -108,56 +107,3 @@ K-12 ML سرگرمیوں کا ڈیزائن سطح پر ہی رہتا ہے: ICE-T
 - **"ایک [[llm|LLM]] اُس نصاب کا نقشہ بنا سکتا ہے جسے ایک بار اعلیٰ اعتبار کے ساتھ توثیق کیا جا چکا ہو۔"** GPT-o3-mini نے **48 جائزوں میں سے ہر ایک کے لیے سات انٹرپرائز مہارتوں پر 100% تقسیم کی**، اور ماہرین کے وزنوں کے مقابلے **Krippendorff's alpha 0.81** تک پہنچا — اور **اتفاق** خاص مہارتوں پر ٹوٹ گیا۔ مجموعی اعلیٰ اعتبار کے ساتھ ناہموار اتفاق وہی نمونہ ہے جسے نقشہ سازی پر بھروسے سے پہلے جانچنا چاہیے۔
 - **"AI خواندگی شامل کرنے کا مطلب ایک کورس جوڑنا ہے۔"** LearnAI شامل شدہ شکل دکھاتا ہے: **پانچ شعبوں کے 18 موجودہ کورسز (293 طلبہ) کے اندر مختصر پیشکشوں کی وسیع نمائش کی پرت**۔ نمائش نصاب میں پھیلائی گئی تھی، کسی ایک یونٹ میں جمع نہیں کی گئی۔
 - **"طلبہ پہلے ہی میڈیا کو تنقیدی طور پر جانچنے کے قابل آتے ہیں۔"** سروے میں شامل تعلیم اور صحافت کے صرف **13.8% طلبہ** نے کہا کہ اُن کے کورس ورک میں تنقیدی میڈیا تجزیہ شامل تھا، جبکہ **97.8% نے اُسے اہم قرار دیا**۔ کسی مہارت کو اہم سمجھنے اور اُسے سکھائے جانے کے درمیان یہ خلا ہی نصابی موقع ہے۔
-
-## منسلک تصورات
-- [[pedagogical-partnerships]] — پيدگوجیکل شراکت داریاں
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — چھتری: AI تعلیم میں پيدگوجیز اور تدریسی حکمت عملیاں
-- [[recommender-systems-and-learning-paths]]
-
-## منسلک مضامین
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — منظّم اعتماد کے لیے وزنی، ماہرین سے توثیق شدہ مہارت کی نقشہ سازی
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI برائے تعمیری ہم آہنگی رہنمائی کا تنقیدی بیانیہ تجزیہ (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — تعلیم کے ذریعے AI نظاموں میں اعتماد: ایک تدریسی زاویہ
-- [[refrain-amplify-genai-curriculum-2026]] — GenAI کی ترتیب کے لیے روکو-پھر-بڑھاؤ نصابی فریم ورک (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — حرارتی انجینئرنگ میں پروجیکٹ پر مبنی AI تعلیمی نصاب
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI دور میں سمارٹ مینوفیکچرنگ کے لیے Workforce Readiness Level فریم ورک
-- [[rewriting-curriculum-genai-pedagogy-2026]] — نصاب کی دوبارہ تحریر: GenAI سے چلنے والی پيدگوجیکل تبدیلی
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills فریم ورک: نصاب کی نقشہ سازی کے لیے 26 قابلِ جانچ مہارتیں
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: شعبوں میں بروقت AI مشترکہ تخلیق
-- [[ai-video-dual-gatekeeping-2026]] — جب نہ کہنا بہتر ویڈیوز بناتا ہے: پيدگوجیکل طور پر بنیاد رکھنے والی AI مواد کی تخلیق کے لیے دوہرا گیٹ کیپنگ
-- [[niri-steam-ai-literacy-review-2026]] — AI خواندگی کے لیے STEAM تعلیم: منظم جائزہ
-- [[caruana-pre-university-ai-education-slr-2026]] — سیکھنے والوں اور اساتذہ کو AI سے چلنے والے مستقبل کے لیے تیار کرنا: یونیورسٹی سے پہلے کی AI تعلیم کا منظم ادبی جائزہ (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — ریاضیاتی ماڈلنگ کے مسائل پیدا کرنے والا AI پلیٹ فارم (ADDIE، RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — ذراتی فزکس کی تعلیم میں AI: تحقیقی مسائل اور بنیادی مہارتیں
-- [[computing-assessment-genai-workshop-report-2026]] — AI آپ کا ہوم ورک کر سکتا ہے۔ اب کیا؟ جنریٹو AI کے دور میں کمپیوٹنگ کی جانچ پر آن لائن ورکشاپ کی رپورٹ
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - قابلیت کے فریم ورک پانچ جہتوں پر متفق ہوتے ہیں مگر مشترک اصطلاحات یا باہمی ربط کے بغیر
-- [[bursic-ai-residency-education-curriculum-2026]] — ریزیڈنسی نصاب میں AI شامل کرنے کی رکاوٹیں: بارہ معالج رہنماؤں کے ساتھ معیاری انٹرویوز

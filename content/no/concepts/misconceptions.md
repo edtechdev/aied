@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -126,36 +128,3 @@ Disse tilbakevisningene er bevisst skrevet i [[refutation-text]]-formen slik at 
 - **«Læreres misoppfatninger kan rettes ved å presentere evidens.»** I et pilotprosjekt med **123 italienske undervisere** klynget uenigheten seg hardest om **kognitive læringsstiler (78 % av lærerne forsvarte visuell/auditiv tilpasning)**, inkludering og gruppearbeid (68 %) og EdTech-overbelastning (54 %). De sterkeste uenighetene var de som var mest motstandsdyktige mot evidens, og derfor slår [[refutation-text|tilbakevisning]] en påstand.
 - **«Læreres innvendinger mot evidens er alt sammen motstand.»** Da de samme itemene ble levert gjennom en konversasjonell AI som **validerte lærerens kontekst før den gjeninnførte evidensen**, gjaldt **41 % av innvendingene reelle kontekstuelle begrensninger** — klassestørrelse, spesielle behov, læreplankrav. En betydelig andel av det som så ut som misoppfatning, var treffende innvending.
 - **«Misoppfatninger kan pålitelig oppdages fra dialog.»** **Av 241 promptede segmenter ble 221 (91,7 %) bekreftet som strategiske misoppfatninger ved ekspertflertallsavstemning (Fleiss' κ = 0,9487)**, med **ingen signifikante forskjeller** mellom grupper. Høy pålitelighet er oppnåelig under ekspertavgjørelse, og det er betingelsen påstanden avhenger av.
-
-## Tilknyttede begreper
-
-- [[pedagogical-patterns]] — Begrepsendringssekvensene som konfronterer en spesifikk fastholdt overbevisning
-- [[learners]] — Lærende: paraplyen for begrepene på den lærendes side
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Tilknyttede artikler
-- [[rudolph-ai-myths-critical-higher-ed]] — Ikke tro på hypen: åtte AI-myter og behovet for en kritisk tilnærming i høyere utdanning
-- [[student-rationalization-ai-writing]] — Studenters rasjonalisering av AI-skriving
-- [[genai-skill-bypass-literacy]] — GenAI-ferdighetsomgåelse og AI-kompetanse
-- [[trust-reliance-ai-education-2026]] — Tillit og avhengighet i AI-utdanning
-- [[contextual-sycophancy-ai-literacy]] — Kontekstuell sycophancy og AI-kompetanse
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantisk AI i sosial interaksjon
-- [[llm-fallacy-misattribution]] — LLM-feilslutning og feiltilskrivning (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Feilbeheftet, men minneverdig: Studenters kritiske resepsjon av interessepersonaliserte GenAI-analogier i informatikkutdanning
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: flytende, autoritative forklaringer som er konseptuelt snarere enn faktisk feil (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Skjulte instruksjoner i en innlevert fil kan heve en AI-vurdert karakter uten synlig advarsel (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Barns misoppfatninger om AI-sikkerhet: vennskap med en robot feilleses som en personvernsgaranti (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Konversasjonell AI-diagnostikk av undervisningsmisoppfatninger med evidensforankret dialog (Miranda & Calvani 2026)

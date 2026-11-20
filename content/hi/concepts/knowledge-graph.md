@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -90,37 +92,3 @@ ai_assist:
 
 - ग्राफ़-आधार-रेखा तुलनाएँ एल्गोरिदम के स्तर पर रिपोर्ट करें। "ज्ञान-ग्राफ़-आधारित" कोई उपचार नहीं है; ट्रैवर्सल रणनीति है।
 - अभिग्रहित-से-स्रोत मैपिंग और वर्गीकरण की विभेदनीयता को परिशुद्धता और रिकॉल के साथ रिपोर्ट करें, क्योंकि यहाँ की ऑडिट विफलताएँ पारंपरिक ग्राफ़ मेट्रिक्स को अदृश्य थीं।
-
-## संबंधित अवधारणाएँ
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — छत्र: एआई तकनीकें और तकनीकी (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 1,455 साहित्यिक अभिग्रहितों का एक क्यूरेटर-निर्मित ग्राफ़, एक संरचात्मक ऑडिट के साथ और बिना उत्पत्ति रिकॉर्ड (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — व्यक्तिगत ई-लर्निंग के लिए ऑन्टोलॉजी-आधारित स्तरीकृत संकर ज्ञान मॉडल
-- [[learnity-graphs-lifelong-learning-framework-2026]] — आजीवन अधिगम के लिए Learnity ग्राफ़
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: कथा-प्रारूपण स्कैफ़ोल्ड
-- [[quantum-education-its]] — क्वांटम शिक्षा बुद्धिमान ट्यूटरिंग (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — शैक्षणिक तर्क के लिए मल्टीमोडल ज्ञान ग्राफ़
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS कोर्स तुलना
-- [[proprl-prerequisite-relation-learning]] — ProPrL: पूर्वापेक्षा-संबंध अधिगम
-- [[knowledge-gap-detection-ai-tas]] — एआई शिक्षण सहायकों में ज्ञान-अंतराल पहचान
-- [[visual-query-tracer-declarative-logic-learning]] — घोषणात्मक तर्क अधिगम के लिए दृश्य क्वेरी ट्रेसर
-- [[fair-explainable-edu-recommendations]] — निष्पक्ष और व्याख्यात्मक शैक्षणिक सिफ़ारिशें
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — मल्टीमोडल शिक्षण संसाधनों के लिए संकर CF–KG क्रॉस-डोमेन सिफ़ारिश
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-संचालित संज्ञानात्मक निदान
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील डोमेन के लिए ग्राफ़-आधारित बुद्धिमान ट्यूटरिंग (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: अधिगम पर्यावरण जनरेशन

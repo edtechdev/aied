@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,50 +112,3 @@ ai_assist:
 
 - أبقِ تمييز المتعلّم/الطالب صريحًا في المعاينة، وأبلغ عمّن يُستبعد بها.
 - ادرس المتَّهم كما تدرس المستخدم؛ فجانب الإجراءات هو النصف الرقيق من هذه الأدبيات.
-
-## المفاهيم المرتبطة
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — كيف يُدرك المتعلّمون الذكاء الاصطناعي ويتفاعلون معه ويتأثرون به
-- [[learner-identity]] — من يصير المتعلّمون في علاقتهم بمجال دراسي وبالذكاء الاصطناعي
-- [[agency]] — ما يزال المتعلّمون يسيطرون عليه ويختارونه
-- [[student-ai-interaction]] — ما يطلبه المتعلّمون من الذكاء الاصطناعي فعلاً وكيف تتطور الحوارات
-- [[cognitive-offloading]] — الاعتماد المفرط وإبدال الذكاء الاصطناعي للتفكير
-- [[self-regulated-learning]] — تخطيط التعلم ومراقبته وتعديله
-- [[help-seeking]] — طلب المساعدة جيداً، وأنماط الفشل عندما لا يفعل المتعلّمون ذلك
-- [[metacognition]] — معرفة ما يفهمه المرء وما لا يفهمه
-- [[motivation]] — لماذا يواصل المتعلّمون أو يتوقفون
-- [[self-efficacy]] — ثقة المتعلّمين في قدرتهم الخاصة
-- [[student-engagement]] — الاندماج السلولي والعاطفي والمعرفي
-- [[prior-knowledge]] — المعرفة الخلفية التي تقرر ما إذا كان الدعم يتحول إلى تعلّم
-- [[student-modeling]] — تمثيل المتعلّم داخل النظام
-- [[knowledge-tracing]] — تقدير اكتساب المهارة عبر الزمن
-- [[simulating-students]] — المتعلّمون المحاكون بالنماذج اللغوية الكبيرة كبدائل مؤقتة
-- [[ai-literacy]] — القدرة التي تقرر ما إذا كان المتعلّمون يستخدمون الذكاء الاصطناعي جيداً
-- [[equity-in-ai-education]] — من يستفيد ومن يُخلف
-- [[well-being]] — القلق والإجهاد والكلفة الوجدانية للدراسة بوساطة الذكاء الاصطناعي
-- [[misconceptions]] — النماذج الذهنية التي يجلبها المتعلّمون إلى الذكاء الاصطناعي
-- [[stakeholders]] — الجانب الآخر من المجال نفسه: المدرِّسون والقادة والمصممون
-- [[assessment]] — أي قدرات المتعلّم تُصير مرئيةً أصلاً
-
-## المقالات المرتبطة
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — أنماط الاعتماد وثقافة التقييم تُفرّق نتائج الطلاب
-- [[student-perceptions-ai-study-productivity-2026]] — Learners report efficiency gains alongside dependency concerns
-- [[student-llm-interaction-taxonomy-review-2026]] — A taxonomy of learning-oriented student-LLM interaction
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-specific patterns in student-AI chat
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Assisted performance gains without independent capability
-- [[genai-performance-vs-learning]] — Why assisted performance and unassisted learning must be measured apart
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
-- [[metacognitively-discordant-completion-genai-2026]] — Learners who notice they do not understand and submit anyway
-- [[verification-quality-reliance-calibration-genai-2026]] — Verification quality and reliance calibration
-- [[simulating-students-llm-review-2026]] — Simulated students: architecture, mechanisms, and limits
-- [[stanbkt-bayesian-knowledge-tracing]] — Parameter estimation in Bayesian knowledge tracing
-- [[demographic-signals-llm-student-assessment-2026]] — Implicit and explicit demographic signals in LLM-based assessment
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy, engagement, and psychological capital
-- [[genai-student-experiences-uk-he-survey-2026]] — Students describe the pull of least effort
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

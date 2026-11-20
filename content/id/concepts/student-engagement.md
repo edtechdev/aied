@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -68,7 +70,6 @@ Keterlibatan adalah konstruk multidimensi yang berakar pada psikologi pendidikan
 
 - **Keterlibatan, flow, dan kecerdasan emosional tumbuh bersama di kelas musik berbantuan AI.** Lima gelombang sepanjang satu semester pada 850 mahasiswa sarjana menunjukkan pertumbuhan rata-rata pada ketiganya, dengan korelasi kemiringan 0,39 antara keterlibatan dan flow serta 0,22 antara keterlibatan dan kecerdasan emosional; pertumbuhan flow membawa kaitan dengan kecerdasan emosional ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]).
 
-
 ### Mengukur keterlibatan: masalah pilihan metrik
 
 Keterlibatan dioperasionalkan melalui berbagai sinyal teramati. **Metrik perilaku** mengukur apa yang *dilakukan* pembelajar (waktu pada tugas, jumlah aktivitas, frekuensi interaksi, ketekunan); **metrik kognitif** mengukur bagaimana pembelajar *berpikir* (kedalaman pemrosesan, keterlibatan kritis, analisis wacana); **metrik afektif** mengukur bagaimana pembelajar *merasa* (emosi, motivasi, minat); dan **metrik kontekstual** menangkap multitugas serta atensi. Penelitian pendidikan AI semakin banyak menggabungkan semuanya dan memperlakukan keterlibatan sebagai mekanisme mediasi antara desain alat AI dan [[learning-gains|luaran belajar]], alih-alih sebagai luaran itu sendiri.
@@ -103,7 +104,6 @@ Akun dua dimensi membuat poin yang sama dari sisi instruksional. Kerangka Rigor�
 
 Klaim penopang kerangka itu adalah amplifikasi alih-alih kausalitas. Perbedaan antarkeempat konfigurasi seharusnya melebar ketika GenAI menjadi mudah tersedia, ketika penilaian memberi imbalan pada produk akhir, dan ketika proses menyusun tetap tidak terlihat, sehingga alat itu memperbesar kondisi yang sudah ditetapkan tugas dan guru alih-alih menciptakan pola keterlibatan sendiri. Al Nafjan menyatakan bahwa kerangka itu bersifat proposisional dan belum teruji, yang menjadikan keempat profil itu ekspektasi yang menunggu uji empiris alih-alih efek yang teramati.
 
-
 ### Kaitan dengan konsep terkait
 
 Keterlibatan siswa terhubung ke [[motivation]] dan [[self-determination-theory]] sebagai pendorong psikologisnya, dan ke [[student-experience]] sebagai konteks yang dihayati. Pengukurannya bergantung pada [[learning-analytics]] dan [[educational-measurement]], yang menyediakan alat [[quantitative-research|kuantitatif]] untuk mengoperasionalkan dimensi-dimensi di atas. Pembedaan antara keterlibatan mendalam dan dangkal terikat langsung pada [[self-regulated-learning]] (pembelajar terarah mandiri terlibat secara strategis), [[cognitive-offloading]] dan [[cognitive-offloading|Ketergantungan Berlebih]] (ketergantungan dangkal sebagai mode kegagalan), serta [[metacognition]]. Dalam desain sistem, sinyal keterlibatan mengalir ke [[student-modeling]] dan [[adaptive-learning]], dan luaran keterlibatan muncul dalam evaluasi [[research-methods-aied]] atas intervensi pendidikan AI.
@@ -114,11 +114,9 @@ Keterlibatan siswa terhubung ke [[motivation]] dan [[self-determination-theory]]
 
 - **Disosiasi dapat berjalan ke arah sebaliknya (2026):** Dalam mata kuliah desain interior vokasi selama 12 minggu, studio VR imersif dengan asisten pengajar LLM tertanam menaikkan keterlibatan kognitif (d = 0,90) dan perilaku (d = 0,75) dibandingkan [[project-based-learning|pembelajaran berbasis proyek]] tradisional sementara keterlibatan afektif tidak berbeda secara signifikan (d = 0,38) — kebalikan dari kasus penulisan L2 di atas ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Perolehan kognitif dan perilaku di sini datang bersama beban kognitif yang *lebih rendah* menurut laporan, yang oleh penulisnya diatribusikan pada asisten yang menyerap usaha pencarian dan integrasi lintas disiplin. Dibaca terhadap kasus penulisan, kedua studi itu menunjukkan bahwa dimensi keterlibatan mana yang digerakkan oleh intervensi berbantuan AI adalah properti desainnya — [[collaborative-learning|kolaborasi]] imersif yang padat wacana versus dukungan penulisan soliter — alih-alih properti bantuan AI secara umum, dan bahwa keunggulan afektif tidak dapat diasumsikan dari kesetiaan tinggi atau umpan balik yang cerdas.
 
-
 - **Literasi AI bekerja pada keterlibatan melalui sumber daya psikologis (2026):** Studi mediasi termoderasi atas 1.198 mahasiswa di Zhengzhou, Tiongkok ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) memodelkan keterlibatan sebagai luaran [[ai-literacy]] alih-alih produk samping penggunaan alat. Literasi AI memprediksi keterlibatan belajar secara langsung dan juga tidak langsung dengan membangun modal psikologis, dengan rute tidak langsung membawa sekitar separuh dari efek total — mediasi parsial, sehingga kompetensi teknologis berubah menjadi keterlibatan hanya sebagian melalui sumber daya psikologis yang dihasilkannya. Komitmen profesional, variabel berbasis identitas, memoderasi kaitan modal-psikologis-ke-keterlibatan tanpa efek langsungnya sendiri, dan penerjemahan modal psikologis menjadi keterlibatan jauh lebih kuat bagi siswa yang memandang dirinya menuju profesi tersebut. Polanya adalah contoh paling jelas yang tersedia atas poin di atas bahwa karakteristik pembelajar mengondisikan bagaimana AI memengaruhi keterlibatan.
 
 - **Latihan AI prakelas dapat menaikkan partisipasi langsung (2026):** Eksperimen lapangan terdaftar lebih dulu bersama 759 mahasiswa MBA menemukan bahwa persiapan dengan mitra diskusi AI berbasis suara menaikkan kontribusi sukarela sekitar 31% pada sesi-sesi berikutnya, tetapi hanya setelah penggunaan kedua; penggunaan pertama mendahului partisipasi yang lebih rendah ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
-
 
 - **Pelepasan diri sebagai gerakan tingkat giliran, bukan keadaan stabil:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] mengodekan 5.522 ujaran siswa kepada agen ajar AI di Math Nation ke dalam enam kategori pelepasan diri percakapan (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) dan menemukan tingkat keterlibatan mendominasi pada 75,7% ujaran. Asosiasi berbasis prevalensi antara False Answering dan Mocking dengan skor pascauji tidak bertahan pada pemeriksaan sensitivitas yang dianotasi manusia. Analisis sekuensial adalah hasil yang relevan bagi keterlibatan: klaster berkinerja tertinggi menggabungkan pelepasan diri moderat dengan transisi pemulihan-ke-keterlibatan yang kuat (Withholding → Engagement p = 0,83), sementara klaster terendah menunjukkan swa-lingkar yang persisten tanpa pemulihan (Engagement self-loop p = 0,96). Withholding adalah satu-satunya jenis pelepasan diri yang cenderung bertahan alih-alih terselesaikan — persistensi versus perbaikan, bukan kehadiran versus ketiadaan, adalah pembedaan yang memisahkan lintasan keterlibatan.
 
@@ -150,67 +148,3 @@ Keterlibatan siswa terhubung ke [[motivation]] dan [[self-determination-theory]]
 
 - Laporkan dimensi dan instrumennya, dan hindari kata benda telanjang. Mengingat laporan diri dan log menyimpang, "keterlibatan meningkat" membutuhkan operasionalisasinya dalam kalimat yang sama.
 - Hindari menyimpulkan capaian dari afek. Hasil terbelah dari uji teracak klaster adalah model untuk melaporkan keduanya, termasuk hasil nol.
-
-## Konsep terkait
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[community-of-inquiry]] — Community of Inquiry (keterlibatan agensik sebagai dimensi CoI)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## Artikel terkait
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Literasi umpan balik AI dan keterlibatan agensik: panel intersep-acak tiga gelombang (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Perilaku percakapan yang melepaskan diri dan pembelajaran dalam dialog siswa-AI (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Latihan prakelas berbasis suara AI menaikkan kontribusi sukarela di kelas ~31%, tetapi hanya setelah penggunaan kedua (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Penggunaan AI terkait dengan ketidakhadiran kelas yang lebih besar sementara efikasi diri tidak memprediksinya, dengan pengaruh sebaya sebagai korelat dominan (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Ketika universitas mengadvokasi GAI tetapi praktiknya tertinggal: penilaian siswa dan keterlibatan proses kreatif dalam pendidikan seni
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG terbatas di kepala, pelacakan mata, dan EDA memprediksi penilaian keterlibatan lima tingkat, sementara definisi pembelajar sendiri menggeser pemetaannya (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Pemodelan Transformer Multimodal yang Sadar Keadilan untuk Estimasi Atensi Siswa secara Real-Time
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI di pendidikan tinggi: tinjauan sistematis keterlibatan + peran mediasi metode pengajaran
-- [[genai-motivation-engagement-2026]] — Dampak AI Generatif terhadap Motivasi dan Keterlibatan Siswa
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Mengukur Keterlibatan Kritis dalam Pelengkapan Kode AI
-- [[icap-cognitive-engagement-llm-agents]] — Mengukur Keterlibatan Kognitif dalam Wacana Kolaboratif
-- [[genai-tutor-engagement-patterns]] — Tidak Semua Siswa Terlibat Sama: Pola Multiinstitusi
-- [[polished-artifacts-fragile-engagement-2026]] — Artefak Mengilap, Keterlibatan Rapuh
-- [[ai-availability-student-motivation]] — "Mengapa Harus Berusaha Sebegitu?" : Bagaimana Ketersediaan AI Membentuk Motivasi
-- [[genai-performance-vs-learning]] — Membedakan Perolehan Kinerja dari Pembelajaran
-- [[scaffolding-critical-engagement-genai-minority-students]] — Memperancah Keterlibatan Kritis dengan GenAI
-- [[engagement-intensity-learner-modeling]] — Intensitas Keterlibatan sebagai Sinyal Pemodelan Pembelajar
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Penilaian Keterlibatan dalam Pembelajaran Video
-- [[engagement-forecasting-its]] — Dari Heuristik ke Analitik: Meramalkan Usaha dan Kemajuan
-- [[interactive-learning-dashboards-engagement]] — Dasbor Pembelajaran Interaktif dan Keterlibatan
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaksi karakteristik pembelajar × format dialog TTS
-- [[wang-goal-setting-ai-engagement-2026]] — Teori penetapan tujuan: dukungan guru, tujuan capaian, dan keterlibatan dalam pembelajaran bahasa Inggris berbantuan AI (758 siswa Tiongkok)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Kompetensi dan emosi GenAI sebagai pendorong keterlibatan chatbot (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Keterlibatan kognitif tingkat Bloom terkait disiplin dalam percakapan siswa-AI (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Perolehan keterlibatan khas dimensi di tingkat sekolah dasar (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Keterlibatan kognitif dan perilaku naik, keterlibatan afektif datar, dalam studio PBL VR imersif (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Uji teracak klaster matematika sekolah menengah: minat situasional naik bersama chatbot yang dikustomisasi sementara kinerja uji tidak (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Literasi AI menggerakkan keterlibatan secara langsung dan melalui modal psikologis, diperkuat komitmen profesional (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutor AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Akses ke tutor AI menurunkan partisipasi platform tercatat 0,90 SD sementara pengiriman tugas tetap stabil (Liu et al. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — Profil keterlibatan AI yang dilaporkan sendiri dan yang teramati gagal bersesuaian, dan hanya perilaku yang mengikuti skor kuis (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Empat konfigurasi keterlibatan yang diprediksi di bawah GenAI, dan mengapa alat itu memperkuatnya

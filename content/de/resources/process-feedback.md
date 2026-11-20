@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -42,8 +43,3 @@ Es zielt auf einzelne Lehrkräfte und Lernende, die es ohne institutionelle Vere
 ## Anmerkungen und Vorbehalte
 
 „Kostenlos“ deckt die Arbeitsabläufe des einzelnen Klassenzimmers; institutionelle Preise gibt es gesondert, und sie sind an den Umfang der Bereitstellung, die Datenhandhabung, die Unterstützung und die Compliance gebunden statt an eine Gebühr pro lernender Person oder pro Lehrkraft. Weil ein Bericht einen Prozess zeigt statt eine Absicht, ist Kopieren und Einfügen allein kein Fehlverhalten – die eigene Anleitung des Projekts sagt, dass eine lernende Person ihren eigenen früheren Text einfügen könnte, und dass Lernende nicht allein für das Einfügen bestraft werden sollten. Die Annahmezahlen und die Chrome-Web-Store-Bewertung von 5.0 sind das eigene Marketing des Projekts; Bewertungen in einem Erweiterungsladen sind kein unabhängiger Beleg für Lernergebnisse. Lesen Sie die Berichte als Beleg für ein Gespräch, was der Konstruktion des Werkzeugs entspricht und wie die Entwickelnden es beschreiben.
-
-## Verbundene Konzepte
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

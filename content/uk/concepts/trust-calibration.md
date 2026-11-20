@@ -25,6 +25,8 @@ translation_of: concepts/trust-calibration
 source_updated: "2026-11-04T18:35:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -144,57 +146,3 @@ contributors: [editor]
 **«Перевірка легка, тож студенти, яким не байдуже, її робитимуть.»** Перевірка дешева і рідко виконується. У пасивному трекінговому дослідженні **900 дорослих у США** читачі, які бачили згенерований ШІ підсумок, клікали на джерело, процитоване в ньому, лише в **1% візитів**, і клікали на будь-яке посилання результатів приблизно вдвічі рідше, ніж читачі, які не бачили підсумку. Підсумок пригнічує верифікацію, а не [[prompt-engineering|спонукає]] до неї, тож перевірку треба вбудовувати в завдання, а не припускати з ретельності.
 
 **«Презентацію й суть уважний читач може розділити.»** Плинність — це те, що здобуває незаслужену довіру, тому калібрування є проблемою проєктування, а не лише навичкою здобувача. Система, чий інтерфейс сигналізує авторитет, користуватиметься довірою на цьому рівні незалежно від інструкцій протилежного змісту.
-
-## Пов’язані поняття
-- [[automation-bias]] — помилка прийняття, яку дозволяє хибно калібрована довіра
-
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## Пов’язані статті
-
-- [[children-verification-ai-suggestions-game-2026]] — Поведінка дітей щодо верифікації в ігровій людсько-ШІ-співпраці
-- [[student-perspectives-ai-writing-grading-2026]] — Погляди студентів на прозоре оцінювання письма з допомогою ШІ (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Калібрування переосмислене: приховування позиції системи є захисним, а не коригувальним
-- [[du-yuan-epistemic-dependence-2026]] — Шість діагностичних критеріїв, що відділяють продуктивну залежність від шкідливої (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Звернення до довіри в системах ШІ через освіту: дидактична перспектива
-- [[pearls-epistemic-verification-2026]] — Фреймворк PEARLS для епістемічної агентності та перевірки продукції ШІ (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — Заборгованість агентної грамотності: структурна прогалина ШІ-грамотності від автономних агентів (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Довіра та залежність від ШІ в освіті
-- [[calibrating-trustworthiness-llm-education-2026]] — Калібрування гідності довіри: ко-проєктування метрик для LLM в освіті
-- [[llm-fallacy-misattribution]] — Хибність LLM та помилкове приписування компетентності
-- [[ai-partner-science-epistemic-vigilance]] — Епістемічна пильність як ключ до продуктивного посилення
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — Надмірна залежність від ШІ, змодельована як складноподійна адаптивна система
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Хибна, але пам’ятна: критичне сприйняття студентами персоналізованих за інтересами аналогій GenAI в обчислювальній освіті
-- [[trust-calibration-chatbots-design-problem-2026]] — Калібрування довіри, переформульоване як проблема проєктування: двовимірна типологія користувачів та вісім проєктних тез (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Ін’єкція підказок в оцінюванні, опосередкованому ШІ: інструмент, який пригнічував і суперечив власним попередженням (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Висновок під контролем довіри та оцінювання, пояснюване за проєктом, із довірою, залишеною невиміряною (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — фільтрування оцінок ШІ за впевненістю та частота хибнопозитивних результатів
-- [[bounded-reliance-ai-writing-feedback-2026]] — Обмежена залежність: перспектива достовірності джерела щодо залучення студентів із вивчення англійської як іноземної до згенерованого ШІ зворотного зв’язку на письмо
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Довіра в системах, уможливлених ШІ: визначення, вимірювання та фактори проєктування в 33 емпіричних дослідженнях (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Від діагностики до метадіагностики: викладачі оцінюють згенеровані ШІ діагностичні висновки (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Запит на рефлексію знижує прийняття хибних порад ШІ (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Калібрування довіри як медіатор у ланцюгу від контекстуальної підтримки до сприйнятих здобутків перенесення (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Довіра як точка опори від ШІ-грамотності до тривалого використання, послаблювана тривожністю щодо ШІ (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Ротація ролей як структура для критичного поводження з рекомендаціями ШІ (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Використання студентами LLM і межі згенерованої ШІ складності завдань на курсах науки про дані
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Звернений до студентів інструмент, що валідує довіру до AI-EdTech як чотири фактори, із довірою вище за сприйману корисність (Nazaretsky et al. 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — Як діти проєктують чатботів, гідних довіри, і міркують про них
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Коли порада ШІ погоджується або не погоджується з людським судженням: довіра, самоефективність, психологічна стійкість і адаптивні реакції у фізичному вихованні
-- [[kim-overtrust-ai-literacy-2026]] — надмірна довіра корелювала із самоефективністю та очікуваною результативністю, але не з ШІ-грамотністю, у 300 студентів

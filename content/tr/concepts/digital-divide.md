@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -34,7 +36,6 @@ ai_assist:
 Dijital uçurum yaygın olarak **üç düzey** üzerinde işleyen bir olgu olarak anlaşılır (van Deursen & van Dijk, 2014): *birinci düzey* uçurum teknolojilere ve altyapıya erişimi (bağlantı, cihazlar, destekleyici ortamlar) kapsar; *ikinci düzey* uçurum becerileri ve yetkinlikleri (araçları etkin ve anlamlı biçimde kullanmanın eşit olmayan kapasitesi) kapsar; *üçüncü düzey* uçurum ise çıktıları ve yararları (teknoloji kullanımından kimin gerçekten yararlandığı, YZ’nin sosyal, kültürel ve ekonomik eşitsizlikleri potansiyel olarak şiddetlendirdiği noktası) kapsar. YZ okuryazarlığını [[framing-ai-use-for-students|Çerçeveleme YZ]] bu mercekle okumak, eşitliğin cihaz ve altyapı boşluğunu kapatmaktan daha fazlasını gerektirdiğini açık kılar — YZ’yi etkin ve eleştirel biçimde kullanma becerilerini inşa etmeyi, böylece yararların mevcut eşitsizlikleri pekiştirmek yerine adil biçimde dağılmasını gerektirir.
 
 Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Özel öğretim sınavı bulutta değil tarayıcıda çalıştığında — WebLLM üzerinden [[browser-sized-agents-slm-webllm-tutor-2026|tarayıcıda yerleşik SLM özel öğretmenler]] — abonelik maliyeti engeli ortadan kalkar ama yerini bir yetkinlik engeli alır: tüketici dizüstü bilgisayarında aynı sistem deneme başına kabaca 180 saniye alırken uzak API için 10–58 saniye almış ve Chromebook sınıfı cihazlar bir 8B modelini hiç çalıştıramamıştır. Modern donanımı olan öğrenciler hızlı, kesintisiz üretim alır; eski cihazlardaki öğrenciler ise gecikme veya bellek tükenmesiyle yüzleşir; dolayısıyla yerel ve ucuz olan, varsayılan olarak eşitlikçi olanla aynı şey değildir.
-
 
 - **Bu uçurum internetinki kadar derin olmayabilir.** Her ülkenin 2025 üretken YZ kullanımını benzer toplam kullanıma sahip internet yılıyla eşleştiren çalışmada, eğitim uçurumu eşleştirilebilen 16 ülkenin 13’ünde daha küçük çıkmıştır ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 
@@ -57,13 +58,11 @@ Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Ö
 
 YZ, teknolojinin eşitlik sonuçlarına yeni katmanlar ekler. Algoritmik önyargı marjinalleştirilmiş topluluklardan gelen öğrencileri orantısız biçimde etkileyebilir ve [[ai-literacy|YZ okuryazarlığı]] — YZ’nin önyargılarını ve risklerini anlama, eleştirel biçimde değerlendirme ve azaltma yetisi — YZ’nin boşlukları genişletip genişletmeyeceğinin kendisi açısından temel bir etkendir. [[research-methods-aied|Araştırmalar]], YZ okuryazarlığı daha yüksek olan eğitimcilerin önyargılı çıktıları belirlemede ve azaltmada daha etkili olduğunu göstermektedir. YZ çağında dijital uçurum bu nedenle salt teknik bir teminat sorunu değil, adalet ve katılım sorusudur: kim YZ’ye erişebilir, kim onu eleştirel biçimde kullanabilir ve kim yararlanır.
 
-
 Kavramın kendisinin erişimden **dijital eşitliğe** nasıl evrildiğini izleyen köklü bir literatür damarı, bunu dört boyutta tanımlar — dijital okuryazarlık, satın alabilirlik, gruba duyarlı içerik ve altyapı erişilebilirliği — ve tüketici YZ’yi, makine çıktısını denetlemeye çoktan muktedir olan kullanıcıları destekleyen uçurumun yeni bir dalgası olarak okur ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
 **YZ çağı uçurumunu yalnızca sosyoekonomik durum değil, kişilik de şekillendirir.** [[ai-divide-ses-personality-primary-education-2026|Wang ve ark. (2026)]], Hollanda’daki **4.497 altıncı sınıf öğrencisine** ilişkin anket ve ulusal kayıt verilerini analiz ederek öğrenci geçmişini ve kişiliğini [[learning-gains|akademik performansa]] bağlayan iki aracı yolu — YZ kullanımı ve dijital okuryazarlık — birbirinden ayırmıştır. Temel bulguları klasik uçurumu yeniden çerçeveler: kişilik ile performans arasındaki bağlantıyı aracılık eden, **YZ kullanım yoğunluğu değil dijital okuryazlıktır**; ortaya çıkan yeni dijital beceri uçurumu ise sosyoekonomik durumdan çok **kişilik özellikleri** tarafından yönlendirilir. Performanstaki sosyoekonomik durum avantajları, YZ [[student-engagement|katılımı]]ndan bağımsız olarak işlemiştir. Bu, dijital uçurumun erişim ve sosyoekonomik durum çerçevelemesini karmaşıklaştırır; cihaz ve araç erişiminin yanında beceri oluşumunu ve eğilimsel desteği eşitlik açısından ilgili kaldıraçlar olarak gösterir.
 
 **Uçurumun bir [[metacognition|üstbilişsel]] katmanı vardır.** YZ’den üretken biçimde yararlanmak [[prior-knowledge|önceki bilgi]] ve [[self-regulated-learning|öz-düzenleme]] gerektirdiğinden, bunlara çoktan sahip olan öğrenciler en çok yararlanır; alıştırmaya en çok ihtiyaç duyanlar ise öğrenmenin kendisini devreder — eşit erişim koşulunda dahi başarı uçurumunu derinleştirebilen bir “üstbilişsel eşitlik boşluğu” ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
-
 
 Okulda yapılandırılmış YZ eğitimi psikolojik bir katalizördür ama bilişsel bir eşitleyici değildir: Hong Kong’ta 752 ortaokul sonrası öğrencisi üzerinde bir yıllık bir [[curriculum-design|müfredat]] güven ve motivasyon boşluklarını daraltmış, ancak yüksek etkenliğe sahip ve düşük etkenliğe sahip öğrenenler arasındaki nesnel YZ okuryazarlığı farklılıklarını olduğu gibi bırakmıştır ([[school-ai-education-readiness-gaps-agency-2026|Liang ve ark. (2026)]]).
 **Uçurum kurumsal düzeyde de işler.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye ve ark. (2026)]], Nijerya’nın yükseköğretim sisteminde YZ bütünleştirme kapasitesinin daha eski, Güneybatı bölgesi kurumlarında yoğunlaştığını ve karşılıklı pekiştiren ağ bağları (uluslararası işbirlikleri × sanayi ortaklıkları, r = 0,74) yoluyla birikerek arttığını göstermektedir — yani kurumsal “sahipli olmayanlar” (tipik olarak daha yeni devlet üniversiteleri) onları yakalamalarına yardım edecek ağlara girmeye yönelik yapısal engellerle karşı karşıyadır. Dijital eşitsizlik bu nedenle yalnızca bireysel öğrenenler arasında değil, YZ ile dönüşmüş bir bilgi ekonomisinde kimin katılabileceğini belirleyen [[governance|kurumsal]] yapılar arasında da yeniden üretilir.
@@ -103,42 +102,3 @@ Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kayg�
 - Cihaz dağıtımını uçurumu kapatmak olarak ele almayın. Ölçülebilir boşluklar ifade etme becerisinde, arayüz dilinde ve bağlantıdadır ve hiçbiri donanımla giderilmez.
 - Bir aracın varsaydığı altyapıyı yayımlayın. Açıkça belirtilen bir gereksinim, kaynakları kısıtlı bir ortamın yatırım yapmadan önce uygunluğu yargılamasını sağlar.
 - Yazılım lisansını değil, tam konuşlandırmayı maliyetlendirin. Dijital ikiz kanıtları donanım faturasının sanallaştırmadan sağ çıkabildiğini göstermektedir.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Bağlı makaleler
-- [[amol-ai-egovernance-digital-inclusion-2026]] — E-Yönetişim için YZ: Dijital Kapsayıcılık için Dil Teknolojilerinden Yararlanma
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Nijerya yükseköğretiminde kurumsal yapılar, dijital eşitsizlik ve YZ bütünleştirmesi
-- [[ai-divide-ses-personality-primary-education-2026]] — İlkokul eğitiminde sosyoekonomik durum, kişilik ve YZ uçurumları (Wang ve ark. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED bağlantısız: öğretmen-vekil ders desteği cihazı olmayan öğrencilere ulaşıyor (Rodrigues ve ark. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Okul YZ eğitimi psikolojik ama bilişsel hazır bulunuşluk boşluklarını daraltmıyor
-- [[prompt-privilege-equitable-ai-access-2026]] — İstek Metni Ayrıcalığı: LLM erişimindeki erişilebilirlik eşitsizliklerinin ölçülmesi ve azaltılması
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — İskeleli YZ okuryazarlığı (SAIL) çerçevesi
-- [[oecd-digital-education-outlook-2026]] — OECD Dijital Eğitim Görünümü 2026
-- [[aaai2026-prompting-literacy-k12]] — K-12 Öğrencilerine YZ Sohbet Robotlarının Sorumlu Kullanımının Öğretilmesi
-- [[structural-silence-underrepresented-language-ai-2026]] — Yapısal Sessizlik ve Yetersince Temsil Edilmeyen Diller
-- [[sec-ai-literacy-narrative-review-2026]] — YZ Okuryazarlığında Sosyal-Duygusal Yetkinlik
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — Çok Dilli ve Düşük Kaynaklı Bağlamlar için YZ Tabanlı Uyarlanabilir Öğrenme Platformu
-- [[ai-science-chemistry-education-systematic-review-2025]] — Fen/kimya eğitiminde YZ’ye ilişkin sistematik derleme
-- [[unesco-ai-guidelines-chemical-education-2026]] — Kimya eğitimine uyarlanan UNESCO YZ yönergeleri; epistemik kayma
-- [[lodge-loble-cognitive-offloading-2026]] — YZ, bilişsel yük devri ve eğitim için sonuçları (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Sosyalist hümanist YZ okuryazarlığı ve adil kullanım
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: kırsal robotik erişimi cihaz erişimi değil mentorluk coğrafyasını izler (Jacobson ve ark. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Güney Afrika HOD’lerinde dağıtımsal sorun olarak dijital eşitsizlik ve epistemik sorun olarak algoritmik kolonyalilik
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: Eğitim Eşitliğine Yönelik Düşük Maliyetli Ana Dil Öğrenimi için Yerel Öncelikli bir YZ Ajan Çerçevesi
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Dijital ikiz laboratuvarlar, eşzamanlı erişimi sınırlandıran bir ekipman faturası taşır
-
-- [[watanabe-genai-education-gap-europe-2026]] — Üretken YZ kullanımındaki eğitim uçurumu internetinkinden daha mı küçük? (Watanabe 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -77,54 +79,3 @@ Počítačové myšlení je sdíleným kognitivním základem pod [[ai-literacy|
 - **„Pomoc AI vyrovnává podmínky v nedostatečně vybavených prostředích."** Může, za určitých podmínek. **Čtrnáct týdnů trvající kvaziexperiment se 103 vysokoškoláky prvního ročníku v Nigérii** zjistil, že učení založené na problémech podporované AI (ChatGPT a Teachable Machine) přineslo zisky, a AI jako „schopnější vrstevník" nese CT tam, kde jiná podpora chybí. To je ale zjištění o strukturované intervenci, nikoli vlastnost toho, že studentům dáte [[conversational-ai|chatbota]].
 - **„LLM nedokážou CT hodnotit spolehlivě."** [[llm-computational-thinking-physics-2026|Výzkum hodnocení CT ve fyzice]] zjistil, že LLM dokážou **napodobit lidské hodnotitele** při skórování růstu v Data Practices a Computational Problem-Solving Practices ve velkých kurzech. Překážkou škálování hodnocení CT byla kapacita hodnotitelů a toto omezení slábne — což přesouvá designový problém k otázce, zda nástroj měří CT, nebo jen soulad s pokyny.
 - **„CT je programátorská dovednost, kterou robotika náhodou učí."** **[[meta-analysis-systematic-review|Systematický přehled]] 95 studií** potvrzuje, že robotika podporuje CT, kreativitu a řešení problémů, ale také že **prostředí moderuje výsledek**: [[game-based-learning|hra]] se hodí pro neformální prostředí, zatímco gamifikace se ve formálních liší. CT je soubor praktik, které se přenášejí nerovnoměrně, takže tvrzení o přenosu potřebuje úkolový design, který skutečně použil.
-
-## Související koncepty
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Související články
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Test počítačového myšlení v AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Úrovně počítačového myšlení a asistenti programování s AI (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Autorství modelu: teorie a měření pro učení tvorbou s generativní AI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: konstrukcionistický rámec pro tvorbu artefaktů
-- [[astor-computational-thinking-meta-review-2026]] — Meta-review CT ze 128 systematických přehledů
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematický přehled CT prostřednictvím robotiky v mateřské škole
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: reprodukovatelný postup pro neprogramátory k implementaci publikovaných modelů AI

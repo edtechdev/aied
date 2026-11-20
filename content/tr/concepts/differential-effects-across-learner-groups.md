@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -135,53 +137,3 @@ Bu taramanın dürüst bulgusu, bazı grupların ne kadar ince olduğudur. Bunla
 - **“Grup etiketleri önemli olan varyasyonu yakalar.”** **Grup etiketleri içlerindeki varyasyonu gizler**: engellilik meta-analizinde **özgün öğrenme güçlükleri, zihinsel ve gelişimsel engeller** olan öğrenciler ve diğer kategoriler bir araya getirilir, dolayısıyla grup ortalaması hiçbirini tanımlamaz.
 - **“Alt grup analizleri farklı etkiler sorusunu yanıtlar.”** Genellikle **yanıtlamak için çok küçüktür**: [[ai-tutoring-micro-rct-gcse-science-2026|GCSE fen mikro-RCT'si]], **müdahale** karşıtlığının genel etki için güçlendirildiğini ve alt grup farklılıkları için güçlendirilmediğini olağanüstü açık biçimde belirtir. Gücü yetersiz bir alt grup bulgusu bir hipotezdir, sonuç değil.
 - **“Orta düzeyde birleştirilmiş bir etki, belirli bir grubun yararlanıp yararlanmadığını söyler.”** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (yarı-)deneysel çalışma]] engellilik kategorileri boyunca **Hedges' g = 0,588 (%95 GA [0,349, 0,826])** olarak birleştirildi. Aralık bu kategoriler üzerinden ortalamayı tanımlar ve "hangi grup, hangi ihtiyaç" ayrı bir analizdir.
-
-## Bağlı kavramlar
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## Bağlı makaleler
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Engelli öğrenciler için YZ’ye ilişkin 29 çalışma: g = 0,588 ve yanlılık ayarlamasından sonra g = 0,269
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT disiplinler arası öğrenmede STEM ve STEM dışı öğrencilere eşit olmayan biçimde yarar sağladı
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — Azınlık etnik kökenli uluslararası öğrencilerde GenAI kullanımı ve dört başlıklı katılım
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 40 çalışmaya 766 kayıt, bunların 15’i üretken YZ
-- [[adhd-video-segmentation-computing-education]] — DEHB’li katılımcıları eşit düzeye getiren genel bir tasarım değişikliği
-- [[neurodivergent-computing-students]] — Yapı, belirsizlik ve işbirliği üzerine 24 nöroçeşitli öğrenci
-- [[genai-minoritized-knowledges-disability]] — YZ’de epistemik marjinalleştirme, engellilik örnek olarak
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Küçük bir L2 kanıt tabanında I² = %84,4 ile g = 0,83
-- [[structural-silence-underrepresented-language-ai-2026]] — İngilizcenin %49,5’ine karşılık Bengalinin web içeriğinin %0,5’inin altında
-- [[hadra-ai-detector-accuracy-efl-2026]] — Dedektörler profesyonel metinleri kusursuz puanlarken EFL yazmayı yanlış sınıflandırıyor
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Cinsiyet farkı olmaksızın kadın kodlu rol modellerin 195 öğrenciyle sınaması
-- [[gender-bias-transfer-llm-writing]] — Öğrenci makalelerine aktarılan cinsiyet yanlılıklı istek metinleri
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Tek cinsiyetli alan değerli bulundu, kızlaştırmaya karşı bir uyarıyla
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Modele, alana ve davranış boyutuna göre değişen ders yardımcısı adaleti
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Özdeş makalelerde kalıpla uyumlu geri bildirim
-- [[demographic-signals-llm-student-assessment-2026]] — 192.480 çağrı: hem açık kişilikler hem örtük geçmişler modelleri değiştiriyor
-- [[student-attention-estimation-fairness-2026]] — Genellemeyen adalet düzenlemesi
-- [[ai-divide-ses-personality-primary-education-2026]] — 4.497 öğrenci: boşluğu aracılık eden YZ kullanımı değil dijital okuryazarlık
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Asla toparlanmayan kırsal katılım ve kısıt olarak mentorluk
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Güven aralığı sıfırı geçen bir alt grup etkileşimi
-- [[student-ai-inquiry-types-cs2-2026]] — Derlemin tek ailelerinde ilk üniversite mezunu olan öğrenci kullanım bulgusu
-- [[international-students-conversational-ai-adaptation]] — Derlemin tek uluslararası öğrenci çalışması
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Ailelerinde ilk üniversite mezunu olan öğrencilere ilişkin derlemin ilk etki tahmini: ders yardımcısı erişimi onlara akranlarına göre 0,22 olan final notunun 0,50 SS’ini kaybettirdi (Liu ve ark. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Adalet Tiyatrosu: Satıcı Kontrollü Erken Uyarı Sistemlerinde Sonradan Uygulanan Adalet Müdahalelerinin Değerlendirilmesi
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Doğrudan süreç kanıtı taşıyan bilgi temelli bir gruplama değişkeni: ön bilgi üzerinde eşleşen ama ön kavrayış çeşitliliğinde farklaşan gruplar aynı YZ’yi farklı biçimde ele aldı (Wang ve ark. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Anlaşmanın ötesinde: 22 istek metinli notlandırıcı, doğru yanıtı bilinen sondalarla karşılaşır ve çoğu yükseltilebilir (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Öğrenen bağlamı, bir LLM notlandırıcısının özdeş çalışmadaki notlarını değiştirir ve öğretmenle anlaşma bunu kaydetmez (Porcaro 2026, Makale VI)

@@ -16,6 +16,8 @@ ai_assist:
     role: revision
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 > **Synthesis**: [[pedagogy|Pedagogical]] agents are AI-driven conversational interfaces embedded in learning environments that use pedagogical strategies (eliciting, telling, scaffolding) to support [[student-engagement|learner engagement]], reflection, and metacognition. Designs vary from simple information providers to interactive dialogue partners that adapt to learner states.
@@ -53,7 +55,6 @@ A complementary use of role-based agents targets [[teacher-education|teacher]] p
 
 **Role orientation is a design variable, not a stylistic choice.** The [[wang-teacher-student-centered-agents-physics-2026|physics agent comparison]] (Wang et al. 2026, 59 learners) isolates prompt-specified role while holding model, platform, and temperature fixed: a teacher-centered agent grounded in a bounded textbook source and answering from the instructor's perspective, versus a student-centered agent configured with knowledge of students' understanding and scripted to diagnose misconceptions, name the concept, and [[transfer-of-learning|transfer]] to an analogous case. The student-centered role won on every measured outcome — post-test performance, lower extraneous and higher germane cognitive load, flow experience, and perceived empathy — even though the teacher-centered agent was the one optimized for accuracy and textbook fidelity. This makes *role and interaction pattern* a first-class design parameter alongside [[prompt-engineering|prompt]] and model choice, and shows that empathy can be engineered from conversational structure rather than a differently trained model ([[affective-computing|affective computing]]).
 
-
 **Authoring intent does not guarantee enacted pedagogy.** When 27 middle school teachers configured a teacher-facing chatbot authoring tool, an evaluation of 108 bot-level criterion ratings found generated responses aligned far better with responsiveness (88.9%) and persona (81.5%) than with rules (70.4%) or the stated purpose (59.3%), which the authors frame through pedagogical forms of Norman's Gulf of Execution and Gulf of Evaluation — configurable controls alone did not make the teacher's instructional intent visible in the bot's behavior ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
 
 **Agents in immersive and extended-reality settings.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] extend the concept into [[virtual-and-augmented-reality|extended reality]] (AR, augmented virtuality and VR) with ACLIME, a conceptual framework that — unlike CAMIL, CATLM-VR and TICOL — keeps the agent inside the model. It names two interaction modes drawn from the literature: the tutor, offering guidance, encouragement, reflective questioning and explanations, and the role-playing partner, which occupies a defined role inside a scenario such as a local on a climate-change field trip or a negotiating counterpart in corporate training. The agent's body (head-only through full body) and behavior are treated as design surfaces: visual versus behavioral realism, flexible AI control versus fixed rule-based scripting, synthesized versus pre-recorded speech, and nonverbal channels including [[sensor-and-gaze-analytics|gaze]], gesture and proxemics. Immersion and body-based interactivity are argued to multiply the social cues behind [[community-of-inquiry|social presence]] — behavioral realism, not visual realism, is proposed as the decisive predictor — while the learner's own virtual body adds an [[embodied-learning|embodiment]] dimension (body ownership, virtual own body agency, self-location) and the proteus effect. The framework's explicit trade-off is cognitive: immersion and the agent's mere presence can raise cognitive load even as social interaction with the agent lowers it through the collective working-memory effect, and a temporal layer (familiarization, maturing human-agent relations, novelty decline, developing cybersickness) is added to the usual design variables. Its status is deliberately provisional: hardly any empirical work yet tests pedagogical agents in immersive media, and long-term [[learning-gains|learning outcomes]] as well as learner characteristics sit outside the model.
@@ -85,7 +86,6 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring|intelligent
 
 Crucially, pedagogical agents are judged by their [[learning-gains|learning gains]], not by how fluently they respond. The evidence is that agents produce durable gains when designed as tutoring-specific coaches with guardrails — [[stanford-evidence-base-ai-k12-2026|tutoring-specific AI consistently outperforms general-purpose chatbots]] — and can harm learning when they substitute for the learner's effort ([[generative-ai-guardrails-harm-learning|the guardrail RCT]], [[jost-llm-programming-education-learning-outcomes|LLM-reliance and grades]]). Measuring an agent's [[learning-gains|learning gains]] therefore requires unassisted, transferable outcome measures, not in-tool performance.
 
-
 Better feedback is not the same as better learning: customizing an agent with knowledge bases and a workflow raised feedback accuracy and specificity but left self-regulatory behaviors, learning experiences and outcomes unchanged, and its gain advantage appeared only under directive feedback ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 ## Common Misconceptions
@@ -93,67 +93,3 @@ Better feedback is not the same as better learning: customizing an agent with kn
 - **"Authoring intent determines what a pedagogical agent does."** **Authoring intent does not guarantee enacted pedagogy.** When **27 middle school teachers** configured a teacher-facing chatbot authoring tool, evaluation of 108 bot-level criteria showed the enacted behavior diverged from what teachers intended. The tool mediated the pedagogy.
 - **"A pedagogical agent moderating discussion is a solved role."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] shows what happens when an agent is asked to **moderate rather than** instruct — a qualitatively different demand from answering questions, and one the literature treats as unsettled.
 - **"The evidence base for computer-assisted instruction is thin."** A synthesis (**2025, 34 reviews**) quantifies CAI utilization across teaching and learning support (**97.1% of reviews**), psychological and motivational support (**91.2%**) and **metacognitive** support. Breadth of reviewed application is extensive, which makes the gap one of enacted quality rather than coverage.
-
-## Connected Concepts
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Connected Articles
-- [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Customized agent raised feedback quality but not self-regulation or outcomes; gain edge only under directive feedback
-- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Self-efficacy, engagement, attitudes, and perceived learning in AI-assisted STEM education
-- [[kozachek-orchestrating-scaffolding-agents-2026]] — Lead orchestrator with one specialist sub-agent per scaffold mechanism, persistent learner profiles, and curriculum-grounded replies

@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -41,9 +42,3 @@ Peneliti yang mengevaluasi metode deteksi, administrator yang menulis kebijakan 
 ## Catatan dan peringatan
 
 Tolok ukur ini mengukur deteksi teks yang dihasilkan mesin, bukan kecurangan: mahasiswa yang menggunakan AI untuk merencanakan, membuat kerangka, atau merevisi menghasilkan teks yang tidak dirancang untuk ditangkap oleh detektor, dan mahasiswa yang [[language-learning|menulis dalam bahasa kedua]] adalah risiko positif palsu yang diketahui dan tidak dapat ditunjukkan oleh papan peringkat. RAID adalah artefak penelitian yang dipelihara oleh tim akademik; cakupannya mengikuti model generator dalam set ujinya, sehingga model yang lebih baru mungkin kurang terwakili sampai tolok ukur diperbarui. Papan peringkat memberi peringkat detektor, bukan praktik penanganan data vendornya, dan AUROC tinggi tidak mengatakan apa-apa tentang apakah menyerahkan pekerjaan mahasiswa ke layanan tersebut sah atau etis di yurisdiksi Anda.
-
-## Konsep terkait
-
-- [[ai-detection]] — keluarga metode yang dievaluasi oleh tolok ukur ini
-- [[academic-integrity]] — konteks kebijakan tempat skor detektor digunakan
-- [[benchmark]] — kelas instrumen lebih luas tempat tolok ukur ini berada

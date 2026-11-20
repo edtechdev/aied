@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -83,7 +85,6 @@ Os conceitos formam um pipeline, e não competidores: a **modelagem do estudante
 
 Ao longo de toda a família, o desafio de validade que define é o mesmo: a representação de quem aprende precisa **refletir fielmente o verdadeiro estado de quem aprende**, e não as suposições padrão do sistema. Para a **modelagem do estudante** e o [[knowledge-tracing|rastreamento de conhecimento]], isso significa que o modelo precisa capturar genuinamente o que quem aprende sabe ([[ai-ed-evaluation|avaliação]] e [[assessment-validity|validade da mensuração]]). Para a [[simulating-students|simulação]], significa que o aprendente sintético precisa exibir imperfeição realista, e não a competência plena do modelo nem a concordância [[ai-sycophancy|sicofântica]]. Sistemas adaptativos que consomem modelos defeituosos herdam e propagam esse erro.
 
-
 Modelos que inferem o estado de quem aprende a partir de jogabilidade alcançaram AUCs de 0,848–0,913, mas apenas dois dos 55 estudos revisados auditaram-nos quanto a viés demográfico, e apenas um examinou resultados diferenciais por habilidade de quem aprende ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt (2026)]]).
 
 Alguns sinais pretendidos podem não ser recuperáveis do diálogo de forma alguma: o piloto do framework Learning Context recuperou equívocos em 91,4% e [[anxiety-and-stress|ansiedade]] em 100%, mas conscienciosidade em apenas 68,6% e proficiência linguística em 60%, então um modelo consciente do contexto deveria capturar traços de superfície lenta, em vez de esperar que o diálogo os exponha ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
@@ -105,11 +106,9 @@ Avanços recentes usam [[llm|LLMs]] para modelagem mais rica. O [[xie-hillm-cd-2
 
 A linguagem pode substituir os embeddings de ID como representação: o PLCD constrói esquemas de conceitos derivados de LLM e grafos de processo de exercício como prioris, alcançando 83,51% de precisão no XES3G5M, com os maiores ganhos em início frio — 4,60 pontos de ACC sobre o KCD para novos conceitos e 4,00 para novos exercícios — onde os modelos baseados em ID não têm histórico ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 
-
 A qualidade do simulador se separa em dois eixos: um pipeline de primeiro especializar no conjunto que treina padrões comportamentais compartilhados antes de um adaptador por estudante alcançou fidelidade comportamental de 0,51 e responsividade à orientação de 0,91 no xadrez, contra 0,23 e 0,72 para uma linha de base de representação de papel de fronteira, mostrando que um simulador precisa tanto corresponder a um estudante quanto ser dirigível ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 Pontuações de risco podem ser precisas e ainda assim não sustentadas: [[at-risk-students-ml-prediction|Gheisari e Salarian (2026)]] alcançaram 99% de precisão prevendo abandono a partir de registros de matrícula e de desempenho, mas sobre os 1.027 registros limpos de uma única instituição, sem validação externa, sem intervenção testada e com auditorias de equidade nomeadas como trabalho futuro — a pontuação apoia a triagem, não um veredicto sobre um estudante.
-
 
 Um modelo de quem aprende que apenas prediz risco não basta para apoio à decisão: acoplar um modelo calibrado de risco a recurso por programação inteira sobre ações discretas — validado contra restrições de tempo, orçamento, imutabilidade e disponibilidade — produziu planos de intervenção compactos, onde a otimização isoladamente aceitava os inaplicáveis ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -124,59 +123,3 @@ A modelagem de quem aprende e a instrução adaptativa alimentam os [[learning-a
 - **"Um modelo fiel precisa do método mais complexo."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries e Koprinska (2025)]] ilustram que **a representação fiel não exige a abordagem mais complexa**. Complexidade não é proxy de fidelidade, e um modelo mais simples que captura a estrutura relevante pode ser o instrumento melhor.
 - **"Modelos de quem aprende precisam de dados de rastreamento."** Um modelo preditivo de quem aprende pode repousar sobre **a estrutura da matrícula** em vez de dados de rastreamento: o TRACE codifica cada semestre como um **conjunto não ordenado de disciplinas** e prediz a partir disso. O sinal preditivo pode viver no registro administrativo da instituição.
 - **"O estado afetivo exige sensoriamento fisiológico."** Um tutor de matemática **inferiu emoção a partir de texto conversacional e expressão facial** e mapeou o estado agregado para decisões de tutoria. O sinal afetivo era recuperável daquilo que quem aprende já estava produzindo.
-
-## Conceitos conectados
-
-- [[learners]] — Quem aprene: o guarda-chuva dos conceitos do lado de quem aprende
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — os modelos sob a previsão de risco e a direção do apoio
-- [[sensor-and-gaze-analytics]]
-
-## Artigos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalização excessiva enganosa: o domínio adaptativo pode encerrar a prática antes que quem aprende saiba quando reter uma ação (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Modelagem Causal de Intervenções de Apoio para a Avaliação de Competência dos Estudantes
-- [[turano-ai-tutoring-not-a-monolith-2026]] — A Tutoria por IA Não É um Monólito: O Que Realmente Sabemos (briefing do Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — Tutores de LLM rejeitam demais o válido-alternativo e validam demais o incorreto (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Da Previsão de Risco do Estudante ao SC2R: Recurso Contrafactual
-- [[graph-its-adaptive-algorithms-2026]] — Tutoria Inteligente Baseada em Grafos para Domínios Dinâmicos (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilando uma LM autoexplicativa para learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Treinando Simuladores de Estudante Baseados em LLM
-- [[predicting-attrition-competitive-programming]] — Prevendo o Abandono de Estudantes na Programação Competitiva
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Rastreamento de conhecimento baseado em resultados com mapeamento de afinidade
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Além dos Embeddings de ID: Modelagem de Linguagem Fundamentada no Processo para Diagnóstico Cognitivo
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — estado compacto de quem aprende mais um rastreador calibrado como ambiente de recomendação
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Um Tutor Agêntico que Aprende sobre Quem Aprende em um Ciclo de Coaprendizagem Humano–IA
-
-- [[ai-game-based-learning-systematic-review-2026]] — A avaliação furtiva alcançou AUCs de 0,848–0,913, mas as auditorias de viés eram quase ausentes ao longo de 55 estudos
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — A inferência de estilo de aprendizagem baseada em diálogo falha em métricas balanceadas (Zamanifard, Goudarzi e Robb 2026)

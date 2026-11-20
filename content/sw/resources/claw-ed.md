@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/claw-ed
 source_updated: "2026-09-23T21:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,7 +47,3 @@ Mradi huo ni wa makusudi wa kuepukana na mfano. Inarekodi mifano ya ndani ya Oll
 ## Vidokezo na maelezo ya tahadhari
 
 Programu hii ni bila malipo na [[open-source|ya chanzo wazi]] chini ya leseni ya MIT kwa msimbo wake wa asili, ingawa vipengele vya watu wengine hudumisha masharti yao wenyewe, na kuiendesha inamaanisha kulipa kwa ajili ya inference ya mfano wako mwenyewe ikiwa unatumia mfano wa mwenyeji. Mradi unajitambulisha kama beta iliyokaguliwa na walimu na unasema wazi katika README yake kwamba kupita CI yake hakuthibitisha ubora wa kufundisha katika mifano hai, ambayo ndiyo njia sahihi ya kusoma majaribio ya kijani katika nafasi hii: inathibitisha programu, si [[pedagogy]]. Inadumishwa na MacxLabs na inakubali masomo ya mfano yaliyokaguliwa na walimu kama michango.
-
-## Dhana Zilizounganishwa
-
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -108,37 +110,3 @@ El coste de esa sustitución aparece en el lugar donde profesorado y estudiantad
 **«La vigilancia zanjaría la norma al hacer visible el uso.»** Hacer visible la conducta no resuelve cuál debería ser la norma; cambia qué está dispuesta a declarar la gente. El patrón medido ya es de declaración selectiva, así que un régimen de monitorización aplicado a él mide el ocultamiento y no la conducta.
 
 **«Las normas son informales, así que quedan fuera del alcance institucional.»** Se aplican localmente y se pueden cambiar localmente, lo que las hace más tratables que la política: la práctica explícita de un equipo docente es una palanca precisamente porque es donde se fija la regla operativa.
-
-## Conceptos conectados
-
-- [[academic-integrity]] — el reglamento formal junto al que crecen estas normas
-- [[ai-use-disclosure]] — la práctica que las normas regulan más directamente
-- [[framing-ai-use-for-students]] — cómo un aula declara sus expectativas
-- [[reducing-ai-misuse]] — la contraparte instruccional del establecimiento de normas
-- [[learner-identity]] — quién se considera que es quien aprende cuando el uso de IA se vuelve visible
-- [[ai-detection]] — la respuesta técnica que en su mayoría fracasa
-- [[remote-proctoring]] — la vigilancia como sustituto intentado de las normas
-- [[trust]] — aquello de lo que dependen tanto las normas como la declaración
-- [[equity-in-ai-education]] — quién absorbe el coste social
-- [[help-seeking]] — la conducta que la vergüenza suprime primero
-- [[group-work]] — donde se negocian las normas de grupo
-- [[student-experience]] — el lado vivido de todo esto
-- [[anxiety-and-stress]] — el residuo afectivo
-- [[governance]] — la capa formal bajo la que se sitúan estas normas
-- [[ethics]] — la literatura que menos tiene que decir al estudiantado
-
-## Artículos conectados
-
-- [[student-perception-ai-use-collaboration]] — La precisión con que el estudiantado percibe el uso de IA de sus parejas y su relación con el rendimiento colaborativo
-- [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA en la enseñanza de la informática
-- [[chirikov-regulate-ai-syllabi-2026]] — Cómo regula el profesorado la IA en la universidad: evidencia de 31.000 programas de asignatura
-- [[vassallo-ai-guilt-complex-faculty-2026]] — El complejo de culpa por IA: emociones morales y dilemas éticos en la adopción de tecnología académica
-- [[agarwal-ethical-values-norms-aied-2026]] — Identificar los valores y las normas éticas de la inteligencia artificial en la educación
-- [[conijn-fear-big-brother-proctored-exams-2022]] — El miedo al Gran Hermano: los posibles efectos secundarios negativos de los exámenes supervisados
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Bajo vigilancia: mapear las prácticas de supervisión remota en la evaluación de enfermería
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Diseño de la evaluación bajo información imperfecta: IA generativa, declaración y respuesta del estudiantado
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detectar lo indetectable: los procedimientos de mala conducta después de la IA generativa
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — ¿Hacer trampas o competir? La IA en la educación en marketing
-- [[chen-zou-genai-group-assessment-agency-2026]] — La agencia en la evaluación en grupo asistida por IA generativa
-- [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 estudiantes universitarios: la declaración percibida de los pares y la comodidad del profesorado predijeron la declaración por delante de la desconexión moral (Qu y Wang 2026)

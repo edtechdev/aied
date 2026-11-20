@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -39,8 +40,3 @@ ai_assist:
 ## הערות
 
 הפרויקט טוען על שרת בינה מלאכותית מותקן-מקומית למהירות ושנתונים מעובדים מקומית ואינם נשמרים לעולם, וכן על תאימות להנחיות משרד החינוך; [ערך הצוות](https://teacherserver.com/index-team.php) מכנה את Zafer Unal, פרופסור באוניברסיטת דרום פלורידה, כמייסד ומפתח, לצד דירקטוריון יועצים של ארבעה חברי סגל הוראה מאוניברסיטאות אחרות. טענות אלה עדיין שוות אימות לפני שימוש עם עבודת תלמידים. הגישה דורשת הרשמה, ויש פלטפורמת בת-זוג בתשלום-לאחר-מכן לבניית הכלים שלכם.
-
-## מושגים מחוברים
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

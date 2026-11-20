@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -52,9 +53,3 @@ Undervisere i høyere utdanning som vil at [[learning-design|læringsdesign]] sk
 - **Tredjepartsinferens.** Svar genereres gjennom Anthropics Claude-API med OpenAIs API som reserve, under kommersielle vilkår som policyen sier utelukker trening på API-input og -output per September 2026. En institusjon bør bekrefte dette gjennom sin egen avtale snarere enn gjennom en nettside.
 - **Den er ikke en karaktergiver.** Både policyen og vilkårene beskriver assistentens vurderinger, som «mål nådd», som hjelpemidler for underviseren; karakterer og akademiske beslutninger blir hos underviseren og institusjonen, og beslutninger om [[ai-use-disclosure|deklarasjon av AI-bruk]] overfor studentene overlates til underviseren.
 - **USA-hostet.** Data ligger i Google Cloud Firestore med Vercel-hosting, og policyen adresserer FERPA-forpliktelser der tjenesten håndterer utdanningsregistre; brukere utenfor USA får beskjed om at dataene deres behandles der.
-
-## Tilknyttede begreper
-
-- [[learning-design]] — strukturert oppgavedesign som punktet der AI-policyen blir konkret.
-- [[guardrails]] — engasjementssperrer og begrenset AI-hjelp som begrensninger på designstadiet.
-- [[ai-use-disclosure]] — underviseren, ikke plattformen, bestemmer hvordan AI-bruk deklareres overfor studentene.

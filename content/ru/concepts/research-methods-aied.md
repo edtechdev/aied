@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -199,53 +201,3 @@ DBR жертвует причинным контролем [[rct|экспери�
 **«Мягкое правило измерения — незначительный методологический выбор.»** Оно меняет находку. Зачёт любого выполнения предсказывал последующую результативность без посторонней помощи **едва выше константы по трудности навыка (объединённый AUC 0,604 против 0,595)**, объявляя при этом освоенными **93,9% пар «студент–навык» против 72,8%** при строгом правиле. Правило дало разницу в 21 пункт в том, кто был объявлен готовым, и почти никакого предсказательного улучшения в оправдание.
 
 **«Статистическая значимость решает, сработала ли интервенция.»** Она решает, был ли эффект обнаружим. Был ли он эффектом *обучения*, зависит от меры результата, сравнения и условий, в которых она снималась, — поэтому выбор дизайна и отчётности в разделах этой страницы весит столько же, сколько анализ.
-
-## Связанные концепции
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — Исследования в образовании с помощью ИИ
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Развитие теории в ИИ в образовании
-- [[qualitative-research]] — Качественное исследование
-- [[quantitative-research]] — Количественное исследование
-- [[mixed-methods-research]] — Исследование со смешанными методами
-- [[design-based-research]] — Исследование, основанное на дизайне
-- [[usability-research]] — Исследование удобства использования
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Связанные статьи
-
-- [[ai-methodologies-science-education-research-2026]] — Семифазная эпистемически-итеративная рамка для размышления о том, как методологии ИИ могут трансформировать исследования в научном образовании (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Доступа недостаточно: человеческая поддержка улучшает вовлечение в ИИ-тьюторство
-- [[genai-can-harm-teaching-rct-2026]] — Генеративный ИИ может вредить преподаванию
-- [[genai-over-reliance-learning-2026]] — От улучшения к чрезмерной опоре: исследование со смешанными методами
-- [[acceptance-ai-english-tools-2026]] — Принятие инструментов изучения английского языка с помощью ИИ
-- [[hazra-safetutors-pedagogical-safety-2026]] — Безопасность ИИ-тьютора и педагогический вред
-- [[zerkouk-comprehensive-review-its-2025]] — Всесторонний обзор интеллектуальных тьюторских систем
-- [[ai-assisted-collaborative-learning-model-dbr]] — Исследование, основанное на дизайне, для модели совместного обучения с помощью ИИ
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: оценивание способности LLM преподавать
-- [[ground-truth-reliability-aied]] — Модернизация эталонных данных: четыре сдвига к надёжности и валидности
-- [[llm-student-simulation-teacher-insights]] — Могут ли LLM эффективно моделировать человеческих учащихся?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 пунктов в десяти областях для прозрачной отчётности об исследованиях ИИ в образовании (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — Интегрированная с ИИ система управления обучением: лонгитюдное исследование
-- [[ai-in-the-wild-college]] — ИИ в естественных условиях: крупномасштабный анализ подлинных взаимодействий
-- [[same-ai-different-pathways]] — Тот же ИИ, разные пути: распаковка механизмов
-- [[tep-aied-model-reporting-2026]] — Модель TEP-AIED для строгой отчётности об исследованиях ИИ в образовании (Hwang, Xie, Wah и Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — Парадокс компетентности: генеративный ИИ «текст в изображение» в искусстве и дизайне
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT в образовании: эффект в поисках причины
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Мета-метаанализ эффекта ИИ на обучение
-- [[oneill-presumed-effective-meta-analysis-2026]] — Предполагаемое как эффективное: аудит порочного метаанализа AIED
-- [[synthetic-educational-data-structural-fidelity-2026]] — Чего не хватает метрикам точности: структурная проверка синтетических образовательных данных
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: probes whose right answer is known, planted-effect checks on simulated graders, and 22 prompted models (Porcaro 2026)

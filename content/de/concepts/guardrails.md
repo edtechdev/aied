@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -128,46 +130,3 @@ Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagog
 **„Leitplanken-Schwellen sind Ingenieursentscheidungen, die man abstimmt."** Eine Schwelle ist eine politische Entscheidung mit einem Verteilungspreis. Eine Toxizitätsschwelle von 0.3 auf 0.7 zu verschieben senkte markierte Prompts von **35.62% auf 12.4%**; bei einem Betrugsdetektor tauschte es **15 Fehlalarme und 18 übersehene Betrugsfälle gegen 2 und 36**. Keine Schwelle beseitigt den Zielkonflikt — sie entscheidet nur, welchen Fehler die Institution bevorzugt, und diese Entscheidung gehört der Institution, nicht einer Vorgabekonstante.
 
 **„Fairness-Auditing ist ein von der Angemessenheit der Leitplanken getrenntes Anliegen."** Ablehnungs- und Unterstützungsmuster verteilen Nutzen ungleich, auch wenn sie gleichmäßig angewandt werden, und eine durchschnittliche Schadensrate verbirgt, welche Studierenden sie tragen. Auditing muss Teil der Leitplanken-Spezifikation sein, nicht eine nachträglich beauftragte Studie.
-
-## Verbundene Konzepte
-
-- [[pedagogical-safety]] — das Ziel, das Leitplanken implementieren
-- [[prompt-engineering]] — die Hinweis-statt-Antwort-Designtechnik
-- [[rag]] — Wissensgrounding als Leitplanke
-- [[human-in-the-loop-ai]] — QA und Aufsicht durch Lehrkräfte
-- [[llm-training-and-fine-tuning]] — die Trainings-/Alignment-Schicht
-- [[reinforcement-learning]] — Reward-Shaping für sicheres Verhalten
-- [[bias-mitigation]] — Leitplanken auf Fairness auditieren
-- [[ai-sycophancy]] — das Manipulationsrisiko, dem Leitplanken widerstehen müssen
-- [[scaffolding]] — der pädagogische Mechanismus, den Leitplanken bewahren
-- [[socratic-method]] — ein Hinweis-statt-Antwort-Interaktionsmodus
-- [[hallucination-risk]] — das Fabrikationsrisiko, das Leitplanken reduzieren
-- [[cognitive-offloading]] — der Schaden der Überabhängigkeit, den Leitplanken verhindern
-- [[k-12]] — der Kontext, in dem Leitplanken am meisten zählen
-- [[ethics]] — die normative Grundlage
-- [[governance]] — die Politikschicht
-- [[intelligent-tutoring]] — die Systeme, die geschützt werden
-- [[misconceptions]] — das Wissen, das Leitplanken prüfen müssen
-- [[trust]] — das Ergebnis gut gestalteter Leitplanken
-- [[llm]] — die Modellschicht, die eingeschränkt wird
-
-## Verbundene Artikel
-
-- [[ai-security-literacy-k12-framework-2026]] — KI-Sicherheitskompetenz: ökosystembasierter Kompetenzrahmen und K-12-Lernplattform
-- [[reflection-agent-fidelity-career-2026]] — Treu, wo geprüft werden kann: Audit eines Reflexionsagenten gegen seinen eigenen Systemprompt in einem randomisierten Versuch
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Das SCAFFOLD-Framework zur Steuerung des Dialogs zwischen Studierenden und KI, mit seinem Klassenpiloten
-- [[generative-ai-guardrails-harm-learning]] — der kanonische Feld-RCT zu Leitplanken
-- [[eduzone-llm-safety-k12]] — KI-Sicherheitsframework für LLMs in K-12
-- [[eduguard-safe-rag-llm-tutor]] — RAG-basierte Sicherheit für Tutoren
-- [[paternalistic-filter-llm-history-education]] — Leitplanken auf Bias auditieren
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-ausgerichtetes gelenktes Lernen
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomieausgerichtetes Post-Training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie als Sicherheitsrisiko
-- [[ai-tutor-authoring-promptdecipher]] — lehrkraftgetriebene QA
-- [[llm-unlearning-math-privacy]] — Unlearning auf Modellebene
-- [[pedagogical-safety-rl]] — Reward-Shaping für pädagogische Sicherheit
-- [[residencyrl-clinical-rl-training-2026]] — sicherheitsausgerichtetes RL in der klinischen Ausbildung
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Regelgeleitetes vs. ad-hoc-Gerüstbau in einem LLM-Tutoringsystem für den Mathematikunterricht der Grundschule (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instruktionale Governance by Design: Ein Framework für KI in der Informatikbildung
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Leitplanken oder Hinterhalte? Wirkungen von pädagogischem Stil und Kontextbewusstsein in KI-Lehrassistenten für Programmierung
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — wie sich das Risiko für das Denken der Studierenden nach Produktkategorie über 20 in echten Klassenräumen beobachtete KI-Werkzeuge hinweg veränderte

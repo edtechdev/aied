@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -63,39 +65,3 @@ Dizajnersko razmišljanje u UI obrazovanju duboko je isprepleteno s [[human-ai-c
 **„Dizajnersko razmišljanje proces je koji treba automatizirati fazu po fazu.“** Ono je disciplina uokvirivanja i preuokvirivanja problema, što fiksacija isključuje. Automatizacija faza uz neispitani okvir daje kompetentan rezultat za pogrešan problem.
 
 **„UI agenti koji se slažu s [[student-support-and-success|podrškom studentima]] jačaju njihovo dizajnersko rezoniranje.“** Produktivna upotreba dokumentirana ovdje ide drugim smjerom: [[ai-agents-constructive-conflict-design-education-2026|konstruktivni sukobi s UI agentima]] testiraju suprotstavljeno poticanje koje prisiljava na preispitivanje. Agent koji se slaže jača fiksaciju; agent usmjeren na neslaganje dizajn je iza kojeg stoji obrazovna tvrdnja.
-
-## Povezani koncepti
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Povezani članci
-
-- [[design-thinking-aigc-fashion-film-2026]] — Mentalni sklop dizajnerskog razmišljanja kroz faze učenja u dizajnu modnog filma potpomognutom AIGC-om (Liu i sur. 2026.)
-- [[genai-architecture-education]] — Gen-AI-tecture: upotreba generativne umjetne inteligencije za podršku studentima arhitekture u dizajnerskim zadacima
-- [[genai-architectural-design-studios]] — Razvoj i primjene generativne umjetne inteligencije u arhitektonskim dizajnerskim studijima
-- [[social-robot-study-companions]] — Sustvaranje izgradivih i otvorenih društvenih robota kao studijskih suputnika sa studentima
-- [[gaide-vibe-coding-k12-teachers]] — Vodeći okvir za nastavnike K-12 pri stvaranju obrazovnih tehnologija potpomognutih umjetnom inteligencijom kroz vibe coding
-- [[dot-framework-survey-2026]] — Istraživanje okvira DOT: uvjerenja i ponašanja praktičara u obrazovanju pojačanom umjetnom inteligencijom
-- [[ai-agents-constructive-conflict-design-education-2026]] — Ostvarivanje konstruktivnih sukoba s UI agentima radi jačanja preispitivanja kod novih interakcijskih dizajnera
-- [[genai-usage-design-students-survey]] — Studija o upotrebi GenAI-a kod studenata dizajna: analiza rezultata ankete i dnevnika UI praksi na Politecnico di Milano 2025./2026.

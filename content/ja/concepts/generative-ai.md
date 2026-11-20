@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,45 +96,3 @@ ai_assist:
 - **「新しいモデルが解決してくれる」**。モデルの世代は律速となる制約ではありません。ChatGPT-5は薬学試験の客観的な項目では人間の教員と同等でしたが（CCC 0.935–1.000）、短答項目（≈0）やエッセイ（0.341–0.854）ではそうではなく、**構造化されたルーブリックでもこの差は確実に埋まりませんでした**。閉じた課題での能力向上は、開かれた作業へと比例して転移しておらず、実際の評価の大半はまさにその開かれた作業にあります。
 - **「利用データは機能していることを示している」**。394件の研究のマッピングでは、版が明記されないChatGPTが94件、3/3.5系列が66件に現れており、公表された能力の主張の大きな部分は**すでに後継に置き換えられたモデルの世代**を記述しています。そもそも版を報告していない研究も多くあります。報告された挙動は特定のモデルと特定の日付に結びついており、そのため「生成AI」に関する日付のない主張は、一般的な知見ではなく反証不可能なものになります。
 - **「専門家がすべての事例にラベルを付けたのだから安全だ」**。4,815件の学生とAIのメッセージを複数の専門家がアノテーションしたデータセットでは、そのコーディング体系が検出するために作られた有害な内容や課題から外れた内容を含むメッセージは、約0.68%にすぎませんでした。これは基底率についての知見であって、安全性についての知見ではありません。稀な事象は稀なのであり、システムの失敗の裾にある事例こそ、その規模のコーパスでは特徴づけるのが難しい事例です。
-
-## 関連概念
-
-- [[llm]] — 生成AIを支えるモデルのクラス
-- [[prompt-engineering]] — 産出がどう形づくられるか
-- [[rag]] — 検索拡張による接地
-- [[ai-literacy]] — それを効果的に使うために必要な能力
-- [[ai-education]] — より広い分野
-- [[intelligent-tutoring]] — 対話的で生成的なチューター・システム
-- [[cognitive-offloading]] — 生成AIが増幅する過度の依存のリスク
-- [[hallucination-risk]] — 生成された内容の中核的な信頼性のリスク
-- [[academic-integrity]] — 流暢な生成から生じる誠実性についての懸念
-- [[automated-assessment]] — 採点とフィードバックにおける生成的モデル
-- [[ai-technologies]] — AIの技術とモデルの包括項目
-- [[higher-ed]] — 主要な展開の文脈
-- [[k-12]] — 主要な展開の文脈
-- [[reflection]]
-
-## 関連記事
-- [[genai-learning-motivation-meta-analysis-2026]] — 害から便益までにわたる予測区間を伴う、生成AIの学習の動機づけへの効果のメタ分析
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[bicer-genai-pd-math-creativity-2026]] — 地方の8人の現職の教師を対象とした、生成AIが導く数学の専門能力開発の事例研究
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — まとめたg = 0.819がPET-PEESEの下で0.378に下がり、特注の道具(0.455)はチャットボット(0.970)を下回りました
-- [[idea-model-doctoral-education-genai-2026]] — 博士課程の学生が自らの授業を再設計する：76.5%が授業の再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を使用していた

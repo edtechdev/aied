@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -40,6 +41,3 @@ Los cursos entran a través de una conexión con la API de Canvas, un archivo IM
 ## Qué saber antes de adoptarla
 
 El complemento requiere Claude Code y un shell de bash para instalarse; PowerShell y cmd no pueden ejecutar el script de configuración, y se recomienda Python 3 para las tendencias de puntuación. Los datos del curso permanecen en la carpeta del proyecto en la propia máquina de quien lo usa, y solo salen de ella mediante una integración que usted invoque, como una llamada a la API de Canvas. La inferencia en vivo de la extensión de Chrome necesita la propia clave gratuita de Google AI Studio de quien la usa, aunque un modo de simulación la demuestra sin ella. El proyecto se etiqueta a sí mismo como beta en la versión 3.5.1.0 y advierte de cambios incompatibles entre versiones menores, y se publica bajo la cuenta de GitHub savvides en lugar de por una persona autora con nombre.
-
-## Conceptos conectados
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

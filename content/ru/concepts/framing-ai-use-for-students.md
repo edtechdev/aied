@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -96,37 +98,3 @@ ai_assist:
 **«Запрет инструмента устраняет поведение.»** Он переносит его в инструменты, которых вы не видите. Студенты уже предпочитают инструменты частного доступа институционально предоставляемым, поэтому запрет выталкивает использование из единственной среды, где возможны поддержка, логирование или руководство. Задача формирования представлений - сделать разрешённое поведение привлекательным, а не сделать запрещённое поведение труднее наблюдаемым.
 
 **«Формирование представлений - это убеждение, поэтому в нём больше риторики, чем проектирования.»** Формирование представлений, которое описывает эта страница, соединено с проектированием: ожидания формулируются ясно и многократно *одновременно с проектированием с учётом студентов*. Сообщения, доставленные вместо спроектированного, - это версия, которая проваливается, потому что студенты читают разницу между заявленным обязательством и действительным.
-
-## Связанные концепции
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Связанные статьи
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 экспертов о последовательности: усваивайте без генеративного ИИ, закрепляйте с ним, затем мыслите сами
-- [[mccorkle-aligned-genai-course-policy-2025]] — Прозрачное обоснование каждого разрешённого и неразрешённого использования генеративного ИИ, задание за заданием (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Поощрение надлежащего использования генеративного ИИ вместо осуждения его как нарушения
-- [[student-rationalization-ai-writing]] — «Пять сайтов», где студенты рационализируют использование ИИ в академическом письме
-- [[student-regulatory-awareness-genai]] — Знать правила недостаточно: регулятивная осведомлённость и фактическое использование
-- [[ai-anxiety-strategic-regulation-writing-2026]] — От тревожности по поводу ИИ к стратегическому регулированию
-- [[chatgpt-inoculation-training-verification-2026]] — Сообщения-прививки и поведение проверки
-- [[ai-fallibility-warning-help-seeking]] — Предупреждение о подверженности ИИ ошибкам повышает поиск помощи
-- [[shame-guilt-ai-regulation-computing-education]] — Стыд и вина как социальные регуляторы использования ИИ
-- [[access-not-enough-ai-tutoring-2026]] — Человеческая поддержка улучшает вовлечённость в ИИ-обучение
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Вовлечённость в генеративный ИИ на основе теории самодетерминации
-- [[ai-availability-student-motivation]] — Как доступность ИИ формирует мотивацию студентов
-- [[youtube-frames-chatgpt-education]] — Как YouTube формирует представление об использовании ChatGPT в образовании
-- [[ai-ethics-education-public-discourse]] — Общественный дискурс об этике ИИ в образовании
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Преподаватели формируют представление об ИИ как о критическом/ответственном использовании; работодатели — как о производительности
-- [[ssaho-ai-academic-integrity-review-2025]] — Построение культуры академической честности через чёткие ожидания

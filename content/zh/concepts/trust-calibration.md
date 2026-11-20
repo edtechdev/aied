@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -149,60 +151,3 @@ ai_assist:
 **“核查很容易，所以在意的学生会去做。”** 核查成本低，却很少被执行。在一项对 **900 名美国成年人**的被动追踪研究中，看到 AI 生成摘要的读者只有 **1% 的访问**会点击其中引用的来源，点击任何结果链接的频率约为没看到摘要者的一半。摘要抑制而非[[prompt-engineering|促发]]验证，因此核查必须被建进任务，而不能假定出于勤勉。
 
 **“谨慎的读者可以把呈现与实质分开。”** 流畅才是赢得不应得信任的东西，这就是为什么校准是设计问题，而不只是学习者技能。一个在界面上发出权威信号的系统，会被按那个层次信任，无论是否有相反的指令。
-
-## 关联概念
-
-- [[automation-bias]] — 校准失当的信任所许可的那种接受错误
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## 关联文章
-- [[shi-human-ai-complementarity-safety-2026]] — 416 名评分者、3,957 个条目：候选优先的协助使模型答错条目上的纠错率从 36.7% 降到 20.6%（Shi 等，2026）
-- [[children-verification-ai-suggestions-game-2026]] — 游戏化人机协作中儿童的核查行为
-- [[student-perspectives-ai-writing-grading-2026]] — 学生对透明的 AI 辅助写作评估的看法（AlGhamdi 2026）
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 重新框定校准：扣住系统立场是保护性的，而非纠正性的
-- [[du-yuan-epistemic-dependence-2026]] — 区分生产性依赖与有害依赖的六项诊断标准（Du & Yuan 2026）
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective：通过教育应对 AI 系统中的信任：教学论视角
-- [[pearls-epistemic-verification-2026]] — PEARLS：认识能动性与验证 AI 输出的框架（Wang 2026）
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — 智能体素养债：自主智能体带来的结构性 AI 素养缺口（Nama 2026）
-- [[trust-reliance-ai-education-2026]] — 教育中对 AI 的信任与依赖
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education：校准可信度：为教育中的大语言模型共同设计度量
-- [[llm-fallacy-misattribution]] — LLM 谬误与能力的误归因
-- [[ai-partner-science-epistemic-vigilance]] — 认识警觉是生产性增强的关键
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — 作为复杂适应系统建模的 AI 过度依赖
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但令人难忘：计算教育中学生对兴趣个性化 GenAI 类比的批判性接受
-- [[trust-calibration-chatbots-design-problem-2026]] — 信任校准被重新框定为设计问题：一个二维使用者类型学与八项设计命题（Jaidka & Cai 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 中介评分中的提示注入：一个先压制、后自相矛盾地发出警告的工具（Humble 2026）
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 受信任门控的推理与"可解释即设计"的评估，其中信任未被测量（Li et al. 2025）
-- [[gpt4-handwritten-math-exam-grading-2026]] — AI 成绩的置信度过滤及其假阳性率
-- [[bounded-reliance-ai-writing-feedback-2026]] — 有界的依赖：来源可信度视角下 EFL 学生对 AI 生成写作反馈的参与
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI 使能系统中的信任：33 项实证研究中的定义、测量与设计因素（Abramson et al. 2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 从诊断到元诊断：教师评估 AI 生成的诊断性推断（Hoppe et al. 2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 一段反思提示降低了对不正确 AI 建议的接受率（Ren 2026）
-- [[trust-calibration-genai-collaborative-regulation-2026]] — 信任校准作为从情境支持到感知迁移增益链条中的中介（Bu & Li 2026）
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 信任作为从 AI 素养到持续使用的枢轴，并被 AI 焦虑削弱（Hu 2026）
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为批判性处理 AI 建议的结构（Kenzhebayeva et al. 2026）
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 数据科学课程中学生对 LLM 的使用与 AI 生成题目难度的局限
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — 面向学生的量表：把 AI-EdTech 中的信任验证为四个因素，且信任位于感知有用性的上游（Nazaretsky et al. 2025）
-- [[children-design-trustworthy-ai-chatbots-2026]] — 儿童如何设计并思考可信赖的 AI 聊天机器人
-- [[kim-overtrust-ai-literacy-2026]] — 在 300 名学生中，过度信任与自我效能和绩效期望相关，而与 AI 素养不相关
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — 当 AI 建议与人类判断一致或不一致时：体育教育中的信任、自我效能、心理韧性与适应性反应
-- [[trust-ai-assistants-consistently-wrong-2026]] — 人们会在 AI 助手一错再错时仍然信任它们吗？
-- [[bego-course-guided-chatgpt-trust-attitudes-2026]] — 课程引导的 ChatGPT 体验对工程学生信任与态度的影响
-- [[jacobs-young-learners-multimodal-genai-scratch-2026]] — 儿童信任了语音多模态辅导工具的错误答案（Jacobs 等，2026）

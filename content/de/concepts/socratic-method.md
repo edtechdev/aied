@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -132,53 +134,3 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 - **„Sokratisches Fragen ist einfach die Abwesenheit von Antworten."** Ein maßgeschneiderter sokratischer KI-Chatbot, in einem einführenden Mechanikkurs mit großer Hörerzahl eingesetzt (**150 Erstsemester-[[stem-education|MINT-Studierende]]**), erzeugte **messbare** Zuwächse, und das Design ist strukturiertes Fragen — eine eingeschränkte Interaktion, kein schweigendes Modell.
 - **„Der Effekt liegt hinter dem Engagement."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna und Maes, 2026)]] ist eine **randomisierte EEG-Studie mit 50 Teilnehmenden**, die einen uneingeschränkten ChatGPT-artigen Bot mit einem **sokratischen** vergleicht und damit den Mechanismus misst, statt ihn aus Ergebnissen zu erschließen.
 - **„Einschränkungen sind das Problem, das zu entfernen ist."** Die stärkste kausale Stütze für Einschränkung weist in die andere Richtung: in einem K-12-Review schnitten Gymnasiastinnen und Gymnasiasten mit einem zweckallgemeinen Chatbot **etwa 17% schlechter in Closed-Book-Klausuren** ab als Peers mit einem eingeschränkten Werkzeug. Das uneingeschränkte Werkzeug war die schädliche Bedingung.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Die Fragefolge und ihre widersprüchliche Versuchslage
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in KI in der Bildung
-- [[productive-failure]] — Productive Failure
-
-## Verbundene Artikel
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Sokratische gegenüber direktiven Feedbackstilen in einer 2 x 2-Postgraduiertenstudie im Design
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agenten-Systems mit Large Language Models für das Training klinischer Gesprächsführung
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Strukturierte sokratische Hinweise gegenüber offenem allgemeinem Frage-Antwort-Betrieb
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Lenken von LLMs für Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — Die Sicherheitslücke: produktives Ringen wiederherstellen
-- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Entwurfs von PF-Problemen
-- [[lukesova-clue-before-correction-2026]] — Hinweis vor Korrektur: ChatGPT für autonomes Sprachenlernen
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Vergleich von Interaktionsstrategien für KI im Lernen
-- [[lftutor-logical-fallacy-education-2026]] — Sokratisches Fragen plus kritische Argumentation in einem vierstufigen Rahmenwerk zum Unterrichten von Fehlschlüssen
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Schutzgitter oder Hindernisse? Auswirkungen von pädagogischem Stil und Kontextbewusstsein in KI-Unterrichtsassistenten für Programmierung
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Stärkung der PISA-konformen Argumentationsfähigkeiten angehender Biologielehrkräfte durch generative künstliche Intelligenz
-- [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI-Diagnose für Fehlvorstellungen im Unterricht mit evidenzbasiertem Dialog (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Entwurf eines KI-Agenten, der nicht tutoriert: Designregeln für sokratisches Sondieren in der Einführung in die Physik
-- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Reflektierende Fragen wurden in einem angeleiteten Chatbot am niedrigsten und mit der größten Streuung bewertet

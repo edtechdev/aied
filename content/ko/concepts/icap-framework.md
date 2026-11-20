@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -99,27 +101,3 @@ ICAP의 생성적이고 과정 수준인 참여에 대한 강조는 생성형 AI
 **"AI 튜터는 대화하기 때문에 자동으로 상호작용적 참여를 만든다."** 대화는 양식이 아니라 매체입니다. 시스템이 실질적 기여를 모두 공급하는 대화는 상호작용적 인터페이스를 쓴 학습자에게 수동적이며, 이는 [[student-engagement|참여 문헌]]이 행동적 활동과 인지적 투자 사이에서 기록하는 것과 같은 혼동입니다.
 
 **"더 높은 ICAP 양식이 항상 더 좋다."** 그것은 더 많은 비용을 치르며, 이 순서는 수업이 항상 겨냥해야 할 것에 관한 것이 아니라 관련 처리 단위당 학습에 관한 것입니다. 기초적 유창성은 구성적 작업이 가능해지기 전에 능동적 반복을 요구할 수 있으며, 오류는 거기에 머무는 것이지 거쳐 가는 것이 아닙니다.
-
-## 연결된 개념
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## 연결된 문서
-
-- [[icap-cognitive-engagement-llm-agents]] — 인간 대 LLM 주석과의 참여 측정을 위한 확장된 ICAP 틀
-- [[hingle-collaborative-ai-literacy-2025]] — 네 ICAP 양식에 걸친 협력적 AI 리터러시
-- [[interactive-learning-dashboards-engagement]] — 얕은 학습 분석 참여에 대한 비판으로서의 ICAP
-- [[multimodal-learning-genai]] — 멀티모달 학습 설계에서의 ICAP과 인지적 참여
-- [[llm-facilitation-timing-online-discussions]] — 온라인 협력적 토론에서의 LLM 촉진 시점
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서의 적응적 ICAP 비계(BKT 대 DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — 생성형 학생 모의 에이전트에서의 ICAP 인지 깊이 모형
-- [[assessing-student-drive-framework-2025]] — 성찰적 GenAI 상호작용의 ICAP 닻 평가

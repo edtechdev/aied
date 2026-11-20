@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -79,39 +81,3 @@ En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA
 **«La indagación es no estructurada por definición.»** El profesorado andamia, y la estructura está en el diseño de la pregunta y en el ciclo de reflexión y no en la entrega de contenido. Quitar el andamiaje no hace la indagación más auténtica: la deja sin andamiaje.
 
 **«Las preguntas del estudiantado estarán bien formuladas si hay interés.»** Generar una pregunta abordable es la habilidad que se está desarrollando, y por eso un sistema que ofrece buenas preguntas ha realizado la habilidad de indagación que la actividad existe para enseñar.
-
-## Conceptos conectados
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Fracaso productivo
-
-## Artículos conectados
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para el aprendizaje basado en la indagación en STEAM (revisión sistemática)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y planteamiento de problemas en ciencias de primaria
-- [[luo-ibl-patterns-llm-bloom-2026]] — Patrones de ABI en entornos impulsados por LLM (perspectiva de Bloom)
-- [[mujib-ai-ibl-creative-math-2026]] — ABI apoyado por IA y rendimiento matemático creativo
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Metaanálisis sobre IA generativa y pensamiento de orden superior
-- [[niri-steam-ai-literacy-review-2026]] — Educación STEAM para la alfabetización en IA
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fracaso productivo
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
-- [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de idiomas
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Indagación guiada con apoyo de IA en fotosíntesis y respiración (formación del profesorado de ciencias)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información impulsada por IA para apoyar la tesis de grado y el aprendizaje basado en la investigación (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — Indagación asistida por IA en cuestiones sociocientíficas sobre el cambio climático
-- [[geoscience-field-learning-genai-2026]] — Un modelo instruccional que pone el campo primero e impide que la IA generativa preestructure lo que quienes aprenden advierten (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Persona facilitadora frente a aprendizaje basado en problemas mediado por IA: ganancias de contenido iguales y pensamiento crítico más débil sin ella (Shetty y Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Mapa de 66 estudios sobre IA generativa en las cinco fases de la indagación, con solo 8 estudios que miden habilidades de indagación

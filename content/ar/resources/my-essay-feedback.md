@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -47,12 +48,3 @@ ai_assist:
 ## ملاحظات وتحفظات
 
 يبلغ الموقع عن أكثر من 12,000 طالب و700 مقرر و41,000 مقال مراجَع — أرقام يبلّغ عنها المورّد لا تدقيق مستقل. والامتثال لـFERPA والجاهزية لـGDPR وإمكانية الوصول هي أيضًا ادعاءات المورّد نفسه؛ والمقالات تمر عبر Azure OpenAI، ويذكر الموقع أنها لا تُستخدم لتدريب النماذج، وهذا ينبغي أن تؤكده المنطقة في اتفاقية معالجة البيانات لا أن تأخذه من صفحة تسويقية. والتسعير بنموذج freemium ويتغيّر بحسب الجمهور: فصل أول مجاني للمعلّمين الجدد (بالطلب، وبحدّ ثلاثة لكل مدرسة)، ثم نحو \$12–15 لكل طالب في الفصل، وطبقة مدفوعة لكل مراجعة للطلاب الأفراد مع مراجعة أولى مجانية. وجدول المقارنة مع ChatGPT Plus وPackback وGrammarly هو جدول المورّد نفسه. وشراكة UC Davis في مشروع PAIRR تعاون بحثي، لا دليل منشور على أن المنصة تحسّن الكتابة.
-
-## المفاهيم المتصلة
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

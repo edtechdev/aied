@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -101,45 +103,3 @@ Muunganisho wa Scopus wa masudio 54 ya EFL unaweka [[limitations-in-aied-researc
 - **"Walimu wa lugha hupitisha kwa shauku au hawapitishi kabisa."** [[li-language-educators-genai-review-2026|Mapitio ya kimfumo ya tafiti 23]] (Li et al.) yanagundua **upitishaji wa tahadhari, unaotanguliza maandalizi** kama mfumo. Walimu walikuwa na wasiwasi kwa njia iliyofikiriwa, hawakugawanywa katika wapenda na wakataaji.
 - **"Athari ya jumla inahalalisha jitihada."** Uchanganuzi-makubwa wa **tafiti 33 za TEFL** uligundua **athari ndogo hadi ya kati kwa ujumla (g = 0.38, iliyopunguzwa hadi 0.28 kwa trim-and-fill)** ambayo **ilipanda pamoja na ngazi ya elimu**. Athari ni ya kiasi baada ya marekebisho na imejikita katika ngazi za juu, hivyo dai kwa wanafunzi wa mwanzo haliungwi mkono na takwimu iliyounganishwa.
 - **"Matumizi yoyote ya AI ni yenye tija sawa kwa kujifunza lugha."** Kazi hiyo hiyo inatoa hoja ya **kuelekeza teknolojia kwenye uzalishaji**: uandishi na kuzungumza badala ya matumizi. Njia ndiyo iliyoamua athari zaidi kuliko uwepo wa AI.
-
-## Dhana Zilizounganishwa
-
-- [[language-learning]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## Makala Zilizounganishwa
-
-- [[alharbi-ethical-genai-eap-2026]] — Muunganisho wa Maadili wa AI ya Kizalishaji katika EAP katika Elimu ya Juu
-- [[feedback-literacy-scripts-eap-writing]] — Hati za Ujuzi wa Maoni na Mfumo wa Mtathmini wa Pili katika Kuboresha Uandishi wa EAP wa GenAI
-- [[genai-differentiated-eap-reading-materials-2026]] — Kutoka Nyenzo Zilizounganishwa hadi Zilizotofautishwa: Mabadilisho ya Nyenzo za Kusoma za EAP Yanayosaidiwa na GenAI
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Mafunzo ya Baada ya Kupanga Yaliyo na Taksonomia kwa Ufundishaji wa Kiingreza Unaobadilika kwa Kieledu
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Kulinganisha ChatGPT na Tathmini ya E-Portfolio kama Mfano wa Kujifunza EFL
-- [[irwin-muller-efl-peer-feedback-literacy]] — Kuweka AI ya Kizalishaji katika Maoni ya Mwanafunzi-Mwenza ya EFL
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Kazi za Tathmini Zilizozalishwa na AI dhidi ya Zilizoendelezwa na Binadamu katika Miktadha ya EFL
-- [[acceptance-ai-english-tools-2026]] — Kukubalika kwa Zana za Kujifunza Lugha ya Kiingreza Zinazosaidiwa na AI katika Elimu ya Juu
-- [[ai-tools-arab-english-classrooms]] — Zana za AI katika madarasa ya Kiingreza ya vyuo vikuu vya Kiarabu
-- [[self-referential-l2-writing-llm-assessment]] — Kuelekea Tathmini ya Kichanganuzi Inayojirejelea: Mbinu ya Msingi wa Wasifu kwa Tathmini ya Uandishi wa L2 na LLM
-- [[ai-interlocutor-l2-spoken-dialogue]] — Nini Hubadilika Wakati Mzungumzaji ni AI? Mazungumzo Yanayozungumzwa ya L2
-- [[genai-linguistic-diversity-academic-writing]] — AI ya Kizalishaji na Wingi wa Lugha katika Uandishi na Uchapishaji wa Kitaaluma
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Kutawala Yasiyoonekana: Ujuzi wa AI kati ya Walimu wa Lugha
-- [[structural-silence-underrepresented-language-ai-2026]] — Ukimya wa Kimuundo: Lugha Zisizowakilishwa katika Miundombinu ya AI
-- [[liu-emerging-tech-tefl-review-2026]] — Teknolojia zinazoibuka kwa TEFL
-- [[ai-limitations-efl-higher-education-review-2026]] — Kutegemea kupita kiasi AI (50% ya tafiti 54) na kufifia kwa kufikiri kwa mahusisi vinaongoza vikomo vinavyoripotiwa
-- [[bird-multimodal-educational-literature-2026]] — Muunganisho wa hali nyingi kwa kugawa fasihi ya kieledu
-- [[li-language-educators-genai-review-2026]] — Mazoezi na maendeleo ya waelimishaji wa lugha na GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Marekebisho ya mwanafunzi-mwenza na ya AI ya insha za EFL za kubishana yanatofautiana katika uwekaji wa mazungumzo (Zhao & Ji 2026)

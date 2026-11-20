@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -115,56 +117,3 @@ Yapılandırmacılık, YZ okuryazarlığının kendisinin nasıl öğretildiğin
 - **“Yapılandırmacı öğretimi sorulan sorulardan tespit edebilirsiniz.”** Bir DeBERTa sınıflandırıcısı **olgusal bilgi aktarıcı sorularını %96,67 kesinlikle, kolaylaştırıcı soruları ise yalnızca %78,79 kesinlikle** sınıflandırdı ve **her model iki üst düzey rolü karıştırdı**. En çok önem taşıyan yapı, otomatik tespitin en kötü ele aldığı yapıdır.
 - **“Bir dersin yüzey özellikleri pedagojisini açığa çıkarır.”** Sınıflandırıcının başarısızlığı bir uygulama ayrıntısı değildir. Kolaylaştırıcı ve yapılandırmacı roller tam olarak zor vakalardır, çünkü öğretmenin öğrenenin düşüncesiyle ne yaptığıyla tanımlanırlar ve bu ilişki yalnızca soru metninden geri kazanılamaz.
 - **“Yapılandırmacılık, öğretmenin açıklamaması demektir.”** Kuram, öğrenmeyi öğrenenin deneyimden inşasında konumlandırır; bu doğrudan öğretimle uyumludur. Onu anlatmanın yasaklanması olarak ele almak, hem kuramı hem de çözümlü örnekler üzerine kanıtı yanlış okur.
-
-## Bağlı kavramlar
-- [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
-- [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[theory-development-aied]] — Theory Development in AI in Education
-- [[productive-failure]]
-
-## Bağlı makaleler
-- [[lee-learner-question-types-ai-education-2026]] — Learner questions classified into three constructivist roles: transmitter, facilitator, co-learner (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: constructionism framework for artifact construction
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory and measurement program for learning-by-construction with GenAI
-- [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
-- [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
-- [[genai-mindtool-generative-learning]] — GenAI as a thinking tool supporting learner construction
-- [[ai-agents-constructive-conflict-design-education-2026]] — Adversarial AI agents prompting constructive reconsideration
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy and the ICAP engagement framework
-- [[ai-internal-feedback-evaluative-judgments]] — AI-supported comparison generating evaluative judgments
-- [[icap-cognitive-engagement-llm-agents]] — ICAP and cognitive engagement with LLM agents
-- [[conversational-ai-tutors-framework]] — Scaffolding dialogue in AI tutors
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied inquiry with an AI facilitator
-- [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
-- [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-
-- [[synthetic-position-self-authorship-2026]] — Simulated AI counter-positions rehearse dialogue's form but withhold the resistance that compels revision
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Öğrenme cezası: ev ödevi puanları %18 yukarı, kapalı kitap sınavları %20 aşağı, en çok ev ödevini dışsallaştıranlarda
-

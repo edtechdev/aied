@@ -7,6 +7,8 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 > **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education [[research-methods-aied|research]], this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency|agency]], responsibility, and [[learning-gains|learning outcomes]] in terms of how cognitive work is apportioned across a human–AI system.
@@ -65,33 +67,3 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 - **"A shared document means shared cognition."** Volume-based profiles of **97 learners** differed in **prior knowledge and authorship** but **not in active-role or comprehension-level prompting**. Participation volume measured exposure, not the distribution of cognitive work — so usage [[learning-analytics|analytics]] of a collaborative tool say little about who was thinking.
 - **"Everyone offloads to AI equally."** Novice teachers **delegate a large share of instructional-design cognitive load to the AI system**, arriving at an **AI-dominant distribution** in which they largely accept responses, whereas experienced and AI-knowledgeable teachers distribute differently. Expertise shows up in where the load is placed, not only in how much AI is used.
 - **"More AI involvement means more support."** An AI-dominant distribution is the pattern to watch for, because the human's share of the cognitive work shrinks while the output volume rises. The system can look more capable precisely as the user is doing less.
-
-## Connected Concepts
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirical study of human–AI collaborative problem-solving through a distributed cognition + co-regulation lens
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as a pedagogical mediator redistributing cognition across human and non-human actors
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated thinking
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition framework reconceptualizing thinking as human–AI interaction
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Transactive memory with GenAI: division of labor and reflective transformation mediate critical thinking (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Why the individual learner is the wrong unit of analysis
-- [[rivera-novoa-genai-extended-cognition-2026]] — Extended cognition in science learning: GenAI is substitutive by default, complementary by design (Rivera-Novoa & Duarte Arias 2026)

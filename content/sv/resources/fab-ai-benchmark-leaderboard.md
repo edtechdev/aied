@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -40,9 +41,3 @@ Beslutsfattare och upphandlingsteam som väljer modeller för nationella system,
 ## Anteckningar och förbehåll
 
 En topplista mäter modeller på benchmarkets egna uppgifter: en hög pedagogikpoäng är evidens om de frågorna, inte om ett klassrum. Priskolumnen blandar input- och outputtokenpriser i förhållandet 3:1, vilket är ett modelleringsval och inte vad någon specifik drift kommer att kosta. Täckningen av språk och av lokalt hostade modeller rör sig när nya modeller tillkommer, och de låga poängen för små modeller speglar delvis uppgiftsformat lika mycket som förmåga. Fab AI:s inramning handlar uttryckligen om låg- och medelinkomstländer, så benchmarkets uppsättning frågor speglar det sammanhanget och bör inte läsas som en allmän utbildningsrankning. Kontrollera releasedatum: flera poster föregår den nuvarande modellgenerationen.
-
-## Anslutna begrepp
-
-- [[benchmark]] — den bredare klass av instrument som detta tillhör
-- [[digital-divide]] — den begränsning som kolumnerna för pris och öppna vikter finns för att synliggöra
-- [[equity-in-ai-education]] — den policyfråga som topplistan informerar

@@ -20,6 +20,8 @@ ai_assist:
     date: "2026-11-05"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 > **Libraries** — the institutions that provide access to the scholarly and public record, and the operational systems behind that access: catalogues and discovery layers, reference and research services, collections, and the instruction programs that sit on top. In [[ai-education|AI in education]] they matter twice over: as a setting where [[generative-ai|generative AI]] is being deployed in live services, and as the institution that carries [[information-and-media-literacy|information-literacy]] instruction while its own search layer is rebuilt underneath it.
@@ -69,22 +71,3 @@ The library's oldest function — providing access that individuals cannot buy �
 - **Students have abandoned the library.** Search engines remain the dominant starting point, and nine years of loan records show no breakpoint change in borrowing.
 - **Funding is the only barrier.** Skill gaps and poor data quality are named more often than money, which makes this a capacity problem as much as a budget one.
 - **A growing literature means the field is transforming.** Publication volume rose without any measured change in practice; the reviews find enthusiasm ahead of effect.
-
-## Connected Concepts
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adoption of artificial intelligence in academic libraries: A systematic review of current practices, challenges, and research opportunities
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and AI Instruction in Nigerian Tertiary Institutions

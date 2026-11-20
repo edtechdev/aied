@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -39,8 +40,3 @@ Avant de construire : choisir entre des outils de création selon des critères 
 ## Pourquoi il existe
 
 Curt Zilbersher, qui conçoit de la formation en entreprise depuis vingt-huit ans, décrit les mêmes petits problèmes non résolus qui reviennent au long de sa carrière — compter les mots de la narration, trouver l'actif qui a poussé un cours au-delà d'une limite d'[[edtech-platform|LMS]], auditer à la main la couverture des sous-titres — et il construit les correctifs et les donne. Le site mène aussi une enquête annuelle gratuite sur la manière dont les concepteurs pédagogiques passent réellement leur semaine.
-
-## Concepts liés
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

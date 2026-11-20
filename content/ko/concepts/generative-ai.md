@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -56,7 +58,6 @@ ai_assist:
 
 22개 연구에 대한 삼수준 메타분석은 생성형 AI 지원 문제 기반 및 [[project-based-learning|프로젝트 기반 학습]]이 학습자 내적 결과에 큰 통합 효과(g = 0.819)를 낸다고 발견하지만, PET-PEESE 보정은 그것을 g = 0.378로 낮춥니다. 내장 방식도 중요했습니다. 범용 챗봇은 g = 0.970으로 통합된 반면 맞춤형 또는 API 시스템은 g = 0.455였습니다([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
-
 별도의 42개 동기 연구 메타분석은 종합 효과를 더 낮게 잡고(g = 0.764) 95% 예측 구간이 [−0.689, 2.217]에 걸친다고 보고하여, [[motivation|동기]] 우위가 새로운 상황에서 믿을 만하게 양의 값은 아님을 보여줍니다([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 생성형 UI는 이 줄기의 가장 새로운 역량입니다. 산문이 아니라 작동하는 인터랙티브 산출물(슬라이더, 조작 가능한 시뮬레이션)을 내놓는 모델입니다. Google Research 팀인 [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]]는 기성품 생성형 UI가 복잡한 구성 개념에 대해 아직 교수법적으로 정밀하지 않으나, 학습 목표를 점진적 수준별 목표로 분해하고 생성을 비판과 자기개선 루프로 감싸면 전문가 교사가 수용 가능하다고 평가하는 인터랙티브가 나온다고 보고합니다. 이들의 것은 오케스트레이션 설계입니다. 교사가 목표를 진술하고 승인하며 후보 시뮬레이션 중에서 선택하므로, 맞춤 [[simulation|인터랙티브 학습 자료]]에 대한 구속 제약은 생산에서 명세로 옮겨가고, [[guardrails|교수법적 가드레일]]은 교수자의 사후 경계가 아니라 생성 파이프라인에 내장됩니다.
@@ -95,48 +96,3 @@ ai_assist:
 - **"더 새로운 모형이 그것을 해결합니다."** 모형 세대는 구속 조건이 아닙니다. ChatGPT-5는 객관식 약학 시험 문항에서 인간 교수진과 대등했지만(CCC 0.935-1.000) 단답 문항(≈0)이나 에세이(0.341-0.854)에서는 그렇지 않았고, **구조화된 루브릭도 그 간극을 믿을 만하게 좁히지 못했습니다**. 폐쇄형 과제에서의 역량 향상은 대부분의 평가가 실제로 놓여 있는 개방형 작업으로 비례해 전이되지 않았습니다.
 - **"사용 자료가 그것이 작동함을 보여 줍니다."** 394개 연구 지형에서 버전이 명시되지 않은 ChatGPT는 94개 연구에, 3/3.5 계열은 66개 연구에 나타났습니다. 따라서 출판된 역량 주장의 상당 부분이 **이미 대체된 모형 세대**를 서술하며, 많은 연구가 버전을 아예 보고하지 않습니다. 보고된 행동은 특정 모형과 특정 날짜에 묶여 있으므로, 날짜 없는 "생성형 AI" 주장은 일반적이기보다 반증 불가능합니다.
 - **"전문가가 말뭉치에 주석을 달았으므로 안전합니다."** 학생-AI 메시지 4,815건의 다중 전문가 주석 말뭉치에서 코딩 체계가 탐지하도록 만들어진 유해하거나 과제 밖 내용이 포함된 메시지는 약 0.68%뿐이었습니다. 그것은 안전이 아니라 기저율에 관한 발견입니다. 희귀 사건은 희귀하며, 시스템의 실패 꼬리는 그 규모의 말뭉치가 특성화하기 어려워하는 바로 그 사례들입니다.
-
-## 연결된 개념
-
-- [[llm]] — 생성형 AI의 기반이 되는 모델 부류
-- [[prompt-engineering]] — 출력이 형성되는 방식
-- [[rag]] — 검색 증강 근거 제공
-- [[ai-literacy]] — 효과적으로 사용하기 위해 필요한 역량
-- [[ai-education]] — 더 넓은 분야
-- [[intelligent-tutoring]] — 대화형·생성형 튜터링 시스템
-- [[cognitive-offloading]] — 생성형 AI가 증폭하는 과잉 의존 위험
-- [[hallucination-risk]] — 생성 콘텐츠의 핵심 신뢰성 위험
-- [[academic-integrity]] — 유창한 생성에서 비롯되는 정직성 문제
-- [[automated-assessment]] — 채점과 피드백의 생성 모델
-- [[ai-technologies]] — AI 기법과 모델의 포괄 개념
-- [[higher-ed]] — 주요 배치 맥락
-- [[k-12]] — 주요 배치 맥락
-
-- [[reflection]]
-
-
-## 연결된 문서
-- [[genai-learning-motivation-meta-analysis-2026]] — GenAI가 학습 동기에 미치는 영향의 메타분석, 해악부터 이득까지 걸친 예측 구간
-
-- [[typology-generative-ai-tools-education-2026]] — 교육용 생성형 AI 도구의 유형론
-- [[generative-ui-education-learning-interactives-2026]] — 교육을 위한 생성형 UI 활용: 맞춤 학습 인터랙티브
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템 평가
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: 안전하고 건전한 학습용 AI를 위한 설계 프레임워크
-- [[genai-educational-outcomes-meta-analysis]] — GenAI 학습 결과의 메타분석
-- [[genai-meta-analysis-programming-learning]] — 프로그래밍 학습에서 GenAI의 메타분석
-- [[genai-performance-vs-learning]] — GenAI와 수행 대 학습
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터링 에이전트의 해악
-- [[eduguard-safe-rag-llm-tutor]] — 안전한 RAG LLM 튜터의 가드레일
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: 학습 환경 생성
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 시각장애 학습자를 위한 보조 GenAI
-- [[li-language-educators-genai-review-2026]] — 언어 교육자들의 GenAI 실천과 발전
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — AI 지원 교육 문항의 교수법적 평가를 위한 사전 훈련 모델 평가
-- [[bicer-genai-pd-math-creativity-2026]] — 농촌 현직 교사 여덟 명과 함께한 생성형 AI 안내 수학 전문성 개발 사례 연구
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 통합 g = 0.819가 PET-PEESE 아래 0.378로 하락했고, 맞춤 도구(0.455)는 챗봇(0.970)에 뒤처졌다
-- [[idea-model-doctoral-education-genai-2026]] — 박사과정 후보의 자기 강좌 재설계: 76.5%가 강좌 재설계를 지속했고 73.5%는 후속 조사에서도 AI 지원 실천을 사용

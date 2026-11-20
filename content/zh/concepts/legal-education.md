@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -96,29 +98,3 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 - **"法学院已经确定了一个立场。"** 多数采纳了**总体禁止的立场**，常被解释为**争取时间以研究这项技术**，而**几乎所有政策都为个别教师保留了酌处权**。一项带有教师覆盖权的禁止不是已确定的立场，而是一次带有默认值的推迟。
 - **"调查证据描述了这个领域。"** **ABA 2024 年的调查只收到 29 所法学院的回覆，约占 ABA 认可法学院的 15%**，而 LexisNexis 对 **800 名**执业者的调查测量的是另一个总体。两者都不能被当作法律教育的代表，而两者都被当作代表来引用。
 - **"不给出 AI 的建议是中立的。"** 在一项法律情境实验中，**仲裁庭民事案件中的 186 名非专业决策者在系统不给出自身立场时，远较少地屈从于错误的 AI 立场（5.7 至 8.2% 对比 42.0 至 60.5%）**。不给出并未产生中立；它产生的是屈从的大幅减少，而后者本身就是一种效应。
-
-## 关联概念
-
-- [[academic-integrity]] — 适用于辅助性工作的行为框架
-- [[assessment-validity]] — 辅助表现是否测量了预期的胜任力
-- [[authentic-assessment]] — 要求无辅助分析的设计
-- [[ai-use-disclosure]] — 尚无共识的署名与报告规范
-- [[governance]] — 法学院实践中的教师治理与政策制定
-- [[educational-policy-ai]] — 作为研究对象的机构 AI 政策
-- [[critical-thinking]] — 案例法意在培养的推理
-- [[case-based-learning]] — 案例法与案例讨论作为一种教学法
-- [[socratic-method]] — 依赖学生预习的对话
-- [[experiential-learning]] — 诊所与实践性训练
-- [[professional-training]] — 持证职业的更大族群
-- [[career-development-and-readiness]] — 执业就绪作为明示的目的
-- [[ai-literacy]] — 技术胜任作为专业义务
-- [[hallucination-risk]] — 伪造引注作为该领域的标志性失败
-- [[legal-issues-and-risks]] — 治理失败时机构面临什么
-
-## 关联文章
-
-- [[lorteau-sarro-ai-legal-education-2025]] — 法律教育中的 AI：一项覆盖 82 项作品的范围综述（Lorteau 与 Sarro 2025）
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院生成式 AI 政策的五因素比较与一个治理框架
-- [[llm-turing-test-italian-legal-exams-2026]] — 对意大利律师、法官与公证人考试的盲测图灵测试，以专家评分作为基准
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 在系统不给出自身立场时，非专业决策者对错误 AI 立场的屈从大幅减少
-- [[xie-genai-mystery-game-legal-education-2026]] — 生成式 AI 创作的推理角色扮演游戏对讲授：一项随机试验（Xie 等 2026）

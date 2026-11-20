@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -49,11 +51,9 @@ Mwelekeo wa inference ya ukingo huongeza kipengele cha vifaa kwenye migawanyo ya
 
 - **Huduma za kidijitali za umma huzalisha upya mgawanyo.** Jukwaa la eCitizen la serikali ya kielektroniki la Kenya ni hasa Kiingereza likiwa na Kiswahili kidogo na kiolesura cha maandishi pekee, jambo linalotenga vijana wasiojua kusoma na kuandika, wenye ulemavu wa kuona, na wa vijijini; mahojiano pamoja na meza ya duara ya watu kumi na moja katika majukwaa manne ya riziki (Ajira Digital, KRA iTax, HELB, YEDF) yanaonyesha teknolojia za lugha na ubuni unaozingatia WCAG 2.1 kama nyenzo za ujumuishaji ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-
 ### AI inazidisha (na inaweza kufunga) migawanyo
 
 AI inaongeza tabaka mpya kwa athari za usawa za teknolojia. Upendeleo wa algoriti unaweza kuathiri kwa kiasi kikubwa wanafunzi kutoka jamii zilizotengwa, na [[ai-literacy|ujuzi wa AI]] — uwezo wa kuelewa, kutathmini kwa njia mahususi, na kupunguza upendeleo na hatari za AI — ni yenyewe kigezo muhimu cha iwapo AI inapana au kupunguza mapengo. [[research-methods-aied|Utafiti]] unaonyesha kuwa waelimishaji wenye ujuzi wa juu wa AI ni wenye ufanisi zaidi katika kutambua na kupunguza matokeo yenye upendeleo. Mgawanyo wa kidijitali katika zama za AI kwa hivyo si tatizo rahisi la upatikanaji wa kiufundi bali ni swali la haki na ushiriki: nani anaweza kupata AI, nani anaweza kuitumia kwa njia mahususi, na nani anayefaidika.
-
 
 Mkondo wa muda mrefu wa fasihi unafuatilia jinsi dhana yenyewe ilibadilika kutoka upatikanaji hadi **usawa wa kidijitali**, sasa unaoelezewa katika vipimo vinne — ujuzi wa kidijitali, uwezo wa kulipa, maudhui yanayojali vikundi, na upatikanaji wa miundo msingi — na unachukulia AI ya watumiaji kama wimbi jipya la mgawanyo linalowafaa watumiaji wanaoweza tayari kukagua matokeo ya mashine ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
@@ -100,43 +100,3 @@ Mgawanyo wa kidijitali ni wasiwasi wa msingi wa utafiti wa [[equity-in-ai-educat
 - Usichukulie ugawaji wa vifaa kama kufunga mgawanyiko. Mapengo yanayopimika yako katika ujuzi wa kuandika ilani, lugha ya kiolesura na muunganisho, na hakuna kati yao linalotatuliwa na vifaa.
 - Tangaza miundombinu ambayo zana inaidhania. Sharti linalotajwa wazi humruhusu mazingira yenye rasilimali chache kuhukumu ufaafu kabla ya kuwekeza.
 - Hesabu gharama ya utekelezaji mzima, si leseni ya programu. Ushahidi wa pacha wa kidijitali unaonyesha bili ya vifaa inaweza kunusurika ubadilishaji wa kidijitali.
-
-## Dhana Zilizounganishwa
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Makala Zilizounganishwa
-- [[watanabe-genai-education-gap-europe-2026]] — Je, pengo la elimu katika matumizi ya AI ya uzalishaji ni dogo zaidi kuliko lilikuwa la mtandao? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Miundo ya taasisi, ukosefu wa usawa wa kidijitali, na uunganishaji wa AI katika elimu ya juu ya Nigeria
-- [[ai-divide-ses-personality-primary-education-2026]] — Hali ya kiuchumi, tabia, na migawanyo ya AI katika elimu ya msingi (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED bila mtandao: mafunzo ya mwalimu-kama-mwakala yanawafikia wanafunzi bila kifaa (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Elimu ya AI ya shule inapunguza mapengo ya kisaikolojia lakini si ya kiakili ya utayari
-- [[prompt-privilege-equitable-ai-access-2026]] — Upendeleo wa Ilani: kupima na kupunguza tofauti za upatikanaji katika upatikanaji wa LLM
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Mfumo wa ujuzi wa AI ulio na Ngazi za Msaada (SAIL)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Kufundisha Matumizi yenye Uwajibikisho ya Chatboti za AI kwa Wanafunzi wa K-12
-- [[structural-silence-underrepresented-language-ai-2026]] — Ukimya wa Kimuundo na Lugha Zisizo na Uwakilishi
-- [[sec-ai-literacy-narrative-review-2026]] — Uwezo wa Kihisia-Kijamii katika Ujuzi wa AI
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — Jukwaa la Kujifunza la Kubadilika linalotumia AI kwa Miktadha Yenye Rasilimali Ndogo na Lugha Nyingi
-- [[ai-science-chemistry-education-systematic-review-2025]] — Mapitio ya kimfumo ya AI katika elimu ya sayansi/kemia
-- [[unesco-ai-guidelines-chemical-education-2026]] — Miongozo ya AI ya UNESCO iliyotafsiriwa kwa elimu ya kemia; mwelekeo wa maarifa
-- [[lodge-loble-cognitive-offloading-2026]] — AI, kupunguza mzigo wa kiakili na athari kwa elimu (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Ujuzi wa AI wa kibinadamu-kisoshalisti + matumizi ya haki
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: upatikanaji wa robotiki vijijini unafuatia jiografia ya uongozi, si upatikanaji wa vifaa (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Ukosefu wa usawa wa kidijitali kama tatizo la usambazaji dhidi ya ukoloni wa algoriti kama la maarifa, katika HDI za Afrika Kusini
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: Mfumo wa Wakala wa AI wa Kwanza-Ndani kwa Kujifunza Lugha ya Nyumbani wa Gharama Ndogo kuelekea Usawa wa Kielimu
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Maabara za kidijitali-mapacha hubeba bili ya vifaa inayozuia upatikanaji wa wakati mmoja
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI kwa eGovernance: Kutumia Teknolojia za Lugha kwa Ujumuishaji wa Kidijitali
-

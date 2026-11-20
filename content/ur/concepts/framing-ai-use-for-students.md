@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -97,37 +99,3 @@ ai_assist:
 **"کسی ٹول پر پابندی رویہ ختم کر دیتی ہے۔"** یہ اسے ایسے ٹولز میں منتقل کر دیتی ہے جو آپ کو نظر نہیں آتے۔ طلبہ پہلے ہی ادارے کے فراہم کردہ ٹولز کے بجائے ذاتی طور پر حاصل کردہ ٹولز کو ترجیح دیتے ہیں، اس لیے پابندی استعمال کو واحد ماحول سے باہر دھکیل دیتی ہے جہاں معاونت، لاگنگ یا رہنمائی ممکن ہو۔ فریمنگ کا کام جائز رویے کو پرکشش بنانا ہے، ممنوع رویے کو دیکھنا مشکل بنانا نہیں۔
 
 **"فریمنگ قائل کرنا ہے، اس لیے یہ ڈیزائن سے زیادہ بیان بازی ہے۔"** اس صفحے کی بیان کردہ فریمنگ ڈیزائن کے ساتھ جڑی ہے: توقعات واضح اور بار بار بتائی جائیں *اور ساتھ ساتھ طلبہ کے گرد ڈیزائن کیا جائے*۔ جو پیغام ڈیزائن کرنے کے بجائے صرف پہنچایا جائے وہی ناکام ہوتا ہے، کیونکہ طلبہ بیان کردہ عہد اور حقیقی عہد کا فرق پڑھ لیتے ہیں۔
-
-## منسلک تصورات
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## منسلک مضامین
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 ماہرین کا اتفاق ترتیب پر: GenAI کے بغیر حاصل کریں، اس کے ساتھ مستحکم کریں، پھر خود سوچیں
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — ہر جائز اور ناجائز GenAI استعمال کے لیے شفاف وجہ، کام بہ کام (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — GenAI کے مناسب استعمال کی ترغیب، اسے خلل کے طور پر مذمت کرنے کے بجائے
-- [[student-rationalization-ai-writing]] — وہ "پانچ مقامات" جہاں طلبہ تعلیمی تحریر میں AI استعمال کا جواز بناتے ہیں
-- [[student-regulatory-awareness-genai]] — قواعد جاننا کافی نہیں: ریگولیٹری آگاہی اور اصل استعمال
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI کی بے چینی سے حکمت عملی والی ریگولیشن تک
-- [[chatgpt-inoculation-training-verification-2026]] — inoculation پیغام اور تصدیقی رویہ
-- [[ai-fallibility-warning-help-seeking]] — AI کی غلطی پذیری کی تنبیہ مدد طلبی بڑھاتی ہے
-- [[shame-guilt-ai-regulation-computing-education]] — شرم اور جرم بطور AI استعمال کے سماجی ریگولیٹر
-- [[access-not-enough-ai-tutoring-2026]] — انسانی معاونت AI ٹیوٹرنگ میں مشغولیت بہتر بناتی ہے
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT پر مبنی GenAI کے ساتھ مشغولیت
-- [[ai-availability-student-motivation]] — AI کی دستیابی طلبہ کے حوصلے کو کیسے شکل دیتی ہے
-- [[youtube-frames-chatgpt-education]] — YouTube تعلیم میں ChatGPT کے استعمال کو کیسے فریم کرتا ہے
-- [[ai-ethics-education-public-discourse]] — تعلیم میں AI اخلاقیات پر عوامی گفتگو
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — مدرسین AI کو تنقیدی/ذمہ دارانہ استعمال کے طور پر فریم کرتے ہیں؛ آجر اسے پیداواریت کے طور پر
-- [[ssaho-ai-academic-integrity-review-2025]] — واضح توقعات کے ذریعے علمی سالمیت کی ثقافت بنانا

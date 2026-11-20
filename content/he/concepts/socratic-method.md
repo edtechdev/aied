@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -57,7 +59,6 @@ ai_assist:
 הגישה הסוקרטית מגלמת באופן ישיר את העיקרון מ[[llm-training-and-fine-tuning|EduQwen]]: **תגמלו "הנחיה" על פני "מתן תשובות".** עם זאת, כיול סוקרטי בזמן אמת קשה יותר מפדגוגיה על נייר: EduQwen ממקסם הנחיה נכונה על [[benchmark|מדד ייצוגי]] מרובה-אפשרויות, בעוד חונך סוקרטי חי חייב להחליט *מתי* להנחות, *מתי* לרמז ו*מתי* לענות — על סמך אותות בזמן אמת של התלמיד. [[affective-tutoring|המצב האפקטיבי]] הוא מנחה קריטי: תלמיד מתוסכל עשוי להזדקק לתשובה ישירה קצרה לפני חזרה למצב סוקרטי. וריאנט מחמיר יותר מסיר את ההוראה לגמרי: סוכן בפיזיקה מבוא שמאתגר את הסטודנט קורא לתמוך בחיזוי נכון מול משתנה אחד ששונה (גילוי מערות) ומשאיר את ההודעה שאחרי תשובה נכונה בלתי-ניתנת להבחנה מזו שאחרי תשובה שגויה ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 לעיצוב רמזים יש צורה מתועדת בתחום שהעמוד הזה אינו מכסה אחרת. במשימת עריכה בשפה שנייה עם 58 סטודנטים באוניברסיטה ברמות CEFR A1–B1, העיצוב סיפק רמזים מודרכים ודרש מהלומדים להסיק את התיקון במקום לקבל אותו ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). הפחתת עומס קוגניטיבי ומסלולי תיקון מותאמים-אישית דווחו בעיקר אצל לומדים שכבר החזיקו בידע קודם מספיק כדי לפעול לפי רמז, ועומק המשוב השתנה לפי מידת ההנחיה של הסטודנט. למניעת התיקון יש אפוא רצפת-כשירות, וזו בעיית הכיול בצורה שמחקר יכול למדוד.
-
 
 ## ראיות ליעילות
 
@@ -130,51 +131,3 @@ Favero et al. (2025) מזהירים שאפילו בינה מלאכותית סו�
 - **"שאלה סוקרטית היא רק היעדר תשובות."** צ'אטבוט AI סוקרטי מותאם שנפרס בקורס מבוא למכניקה בהרשמה גדולה (**150 סטודנטים [[stem-education|STEM]] בשנה הראשונה**) הניב רווחים **מדידים**, והעיצוב הוא שאלה מובנית — אינטראקציה מוגבלת, לא מודל שקט.
 - **"האפקט נובע מהמעורבות."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna ו-Maes, 2026)]] הוא **מחקר EEG אקראי של 50 משתתפים** שמשווה בוט בסגנון ChatGPT בלתי-מוגבל לבוט **סוקרטי**, ומודד את המנגנון במקום להסיק אותו מהתוצאות.
 - **"אילוצים הם הבעיה שיש להסיר."** התמיכה הסיבתית החזקה ביותר לאילוץ מצביעה דווקא לכיוון ההפוך: בסקירת K-12, תלמידי תיכון שהשתמשו בצ'אטבוט כללי **השיגו ציונים נמוכים בכ-17% יותר בבחינות סופיות בספר סגור** מעמיתים שהשתמשו בכלי מוגבל. הכלי הבלתי-מוגבל היה התנאי המזיק.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — רצף השאלה וראיות הניסוי הסותרות שלו
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-- [[productive-failure]] — כישלון פרודוקטיבי
-
-## מאמרים מחוברים
-- [[agent-type-feedback-style-self-directed-learning-2026]] — סגנונות משוב סוקרטיים לעומת מנחים במחקר עיצוב 2×2 ללימודי תא
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — רמזים סוקרטיים מובנים לעומת שאלות ותשובות כלליות פתוחות
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-- [[lftutor-logical-fallacy-education-2026]] — שאלה סוקרטית בשילוב טיעון ביקורתי במסגרת ליווי ארבע-שלבים לטעויות לוגיות
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)
-- [[genai-socratic-tutor-biology-argumentation-2026]] — חיזוק מיומנויות טיעון בהתאמה ל-PISA בקרב מורות ביולוגיה עתידיות באמצעות בינה מלאכותית גנרטיבית
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Designing an AI Agent That Does Not Tutor: Design Rules for Socratic Probing in Introductory Physics

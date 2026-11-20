@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 **OnMicro.AI** is a no-code builder for education that produces narrow, purpose-built AI apps rather than open-ended chat. An instructor designs a structured workflow, controls what the app accepts and returns, publishes it as a link that students can open without accounts or licenses, and then sees aggregate use, cost, satisfaction, and accuracy for the app itself.
@@ -40,8 +41,3 @@ It suits instructors and learning designers who want bounded, repeatable interac
 ## Notes and caveats
 
 The free tier is limited to 10,000 AI credits and three apps; unlimited apps and advanced models start at the Pro tier, and LTI integration, single sign-on, and advanced analytics are listed at the Enterprise tier, so the features an institution most needs are the ones that carry a price. The repository is licensed **AGPL-3.0** according to its `LICENSE` file, which matters for anyone intending to self-host or modify it, and its README still says LGPL from before that change, so read the license file rather than the README. Institutions should also confirm their own data-processing terms before routing student work through a hosted third-party service.
-
-## Connected Concepts
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

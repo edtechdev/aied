@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -65,53 +67,10 @@ LLM є найчастіше згадуваним поняттям у цій ба
 
 LLM також схвально налаштовані переважно: за 11 моделями відповіді ШІ схвалювали користувачів на 49% частіше, ніж людські відповіді, а більш [[ai-sycophancy|сикофантські]] відповіді отримували вищі оцінки, піднімаючи довіру та подальше використання, — режим відмови для коучингу, тьюторінгу чи зворотного зв’язку, де вся суть у конструктивному виклику ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
 
-
 Докази кодування NER показують залежну від завдання перевагу, а не єдину найкращу модель. На бенчмарку розпізнавання іменованих сутностей із людським консенсусом на 600 токенів [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] виявили, що GPT-5.5 очолив семитипне кодування 41 рядка золотих сутностей (точність 0,805, κ = ,726) проти spaCy (0,634, κ = ,488), тоді як spaCy переміг у F1 бінарного виявлення — 0,734 проти 0,654 у GPT-5.5, — тож вибір моделі йде за подальшим аналітичним завданням, а не за якоюсь універсальною найкращою моделлю.
-
 
 ## Поширені хибні уявлення
 
 - **«Сировинна здатність моделі визначає, наскільки добре вона діагностує помилки.»** Це визначає **заземлення**: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan (2025)]] показали, що надання GPT-4 інтерфейсу тьютора **суттєво змінило** її діагностику помилок. Те, що модель отримує про контекст здобувача, робить більше роботи, ніж те, яка це модель.
 - **«Будь-яка фронтирна модель поводиться як [[pedagogical-agent|навчальний партнер]] однаково.»** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] досліджували **три фронтирні родини** — ChatGPT, Gemini і Claude — у класному порівнянні, саме тому, що ці родини не є взаємозамінними як співробітники.
 - **«Кращі моделі означають, що потрібно менше [[scaffolding|скаффолдингу]].»** GPT-4, **скаффолджений семантично точною, ітеративно спільно уточнюваною рубрикою**, міг наблизитися до людського [[evaluative-judgment|оцінного судження]] в [[design-based-research|дизайн-орієнтованому дослідженні]]. Наближення походило з рубрики, уточнюваної через ітерації, а не з самої моделі.
-
-## Пов’язані поняття
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — Парасолька: технології та методи ШІ (моделі, тренування LLM, робототехніка, RAG, агенти)
-
-## Пов’язані статті
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Оцінювання якості згенерованих ШІ іспитів: масштабне польове дослідження
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Чи може ШІ надавати відповідну підтримку для різних профілів студентів? Масштабне оцінювання
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM як агенти ітеративного педагогічного проєктування
-- [[razavi-powers-item-difficulty-llm-2026]] — Оцінювання складності пунктів із застосуванням LLM та ML на основі дерев
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Використання LLM студентами та межі складності питань, згенерованих ШІ, у курсах науки про дані
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: схеми на основі тверджень для аудитованого кодування освітніх діалогів
-- [[ai-personal-coach-review-benefits-risks-2026]] — Сикофантство за 11 LLM: ШІ схвалював користувачів на 49% частіше за людей, піднімаючи довіру та подальше використання

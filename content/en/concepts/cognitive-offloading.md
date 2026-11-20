@@ -14,6 +14,8 @@ connected_videos: [cognitive-offloading-vs-surrender]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, agency, critical-thinking, creativity, distributed-cognition, embodied-learning, generative-ai, metacognition, online-teaching-and-learning, prompt-engineering, scaffolding, self-directed-learning, self-regulated-learning, trust-calibration, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, riva-cognitive-capital-generative-ai-review-2026, pradubwate-illusion-ai-competence-miscalibration-2026, akcaoglu-offloading-ladder-experience-2026, ai-proof-learning-cognitive-offloading-2026, llm-math-homework-offloading-traces-2026, genai-support-threaten-learning-k20-expert-consensus-2026, shastry-gray-empathy-offloading-2026, rented-self-decoupling-performance-becoming-2026, caeai-ai-scaffolding-inquiry-profiles-middle-school-2026, liu-ai-assistance-reduces-persistence-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, yan-cognitive-outsourcing-genai-assessments-2026, family-school-autonomy-support-genai-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, thermomix-genai-education-analogy-2026, cognitive-washout-ai-skill-decay-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, layer-sensitive-cognitive-offloading-writing-2026, du-yuan-epistemic-dependence-2026, seung-basham-cognitive-offloading-swld-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, metacognitive-training-optimal-cognitive-offloading-2026, critical-thinking-paradox-genai-learning-2026, cognitive-offloading-speedup-illusion, misiejuk-cognitive-offloading-prompting-2026, shaw-nave-cognitive-surrender-2026, young-people-learning-generative-ai-rapid-review-2026, ai-making-us-stupid, brcic-effortless-trap-productive-struggle-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, stromberg-generative-ai-learning-penalty-secondary-2026, coach-not-crutch-ai-writing, making-ai-tutoring-productive-mastery-math-2026, cognitive-commons-ai-expertise-regeneration, pause-ai-cognitive-offloading-self-reflection-2026, chatgpt-writing-cognitive-impact-2026, student-cognitive-offloading-ai-higher-ed-2026, metacognitive-feedback-anti-deskilling-offloading-2026, chatgpt-programming-performance-retention-ownership-2026, davor-ai-supported-learning-higher-order-outcomes-2026, ren-metacognitive-awareness-genai-reliance-2026, shojaei-genai-dependence-critical-thinking-employability-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, braun-cognitive-dormancy-ai-affordances-2026, yahya-generative-ai-inquiry-based-learning-review-2026, fan-metacognitive-offloading-sync-model-2026, zhang-usefulness-dependence-genai-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, ayasrah-executive-function-learning-difficulties-scale-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, ho-invariant-core-faculty-development-2027, su-genai-dependence-academic-performance-adolescents-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 > **Cognitive offloading** — the use of external tools (including AI) to reduce internal cognitive demand, shifting mental work from the learner to the system. In [[ai-education|AI education]], cognitive offloading is the central mechanism through which AI tools can either support or undermine learning: appropriate offloading frees cognitive resources for higher-order thinking, while excessive offloading bypasses the processing required for durable learning. **Over-reliance** is the harmful end of this spectrum — the unproductive pattern where offloading crosses from strategic support into learning displacement.
@@ -165,7 +167,6 @@ The ladder has three rungs, and only the first two belong here. **Offloading** i
 
 **Access to [[ai-feedback-quality|AI feedback]] is not the same treatment as engaging with it, and the load measures separate.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]] ran a five-week longitudinal field study in a business simulation game (**234 students, 1,147 weekly observations**) and separated assignment from receipt. Merely providing access to conversational AI feedback moved neither **extraneous** (β = .071, p = .481) nor **germane** load (β = .019, p = .807). But students who used it **regularly** reported significantly **higher germane load** than experimental non-users (β = −.468, p < .001) and than controls (β = −.253, p = .028) — while **extraneous load was never reduced** by access or engagement (F(1, 219) = 0.499; usage-based F(3, 214) = 0.172). That is the theoretically interesting pattern and the opposite of the usual claim: the intervention made learners work harder on the material without making the environment easier. Intrinsic load drove extraneous load (**β = .647, p < .001**) and metacognitive self-regulation drove germane load (**β = .363, p < .001**), with extraneous load negatively associated with germane load (β = −.178, p < .001) exactly as CLT specifies. Both loads also **declined across the five weeks** (extraneous β = −.388, p < .001) — a novelty effect visible on a cognitive measure rather than an engagement one.
 
-
 Cognitive Load Theory (Sweller) provides a contested theoretical lens on [[cognitive-psychology|working memory]] and instruction: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving students with completed tasks and empty learning. Note that the theory's claims are contested in the wider literature, but its framing remains influential in how offloading effects are discussed.
 
 **The profession-level stakes of offloading.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) extends offloading from an individual to a collective level: when AI lets junior workers skip the cognitive struggle that builds deep expertise, it can deplete a profession's shared expertise pool over time — the "Validation Tether" means effective AI oversight depends on the very mastery that AI adoption may undermine. This reframes individual-level offloading and skill-decay as a systems-level regeneration problem with [[governance|governance]] implications.
@@ -184,8 +185,6 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 Two controlled studies in the recent batch pin down the two halves of this claim — whether the behavior shifts, and what it was protecting. [[metacognitive-feedback-anti-deskilling-offloading-2026|Maier et al. (2026)]] made the learning consequence of offloading visible before each choice in a preregistered experiment with 704 participants practicing fraction arithmetic: odds of offloading an answer fell to OR = 0.47 and odds of answering a later unaided test item correctly rose to OR = 1.51, while an effort-based reward moved neither outcome. Offloading compounded within the session — after offloading one item, participants offloaded the next in 69.7% of cases without the feedback and 55.9% with it — and a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success (OR = 0.68). [[chatgpt-programming-performance-retention-ownership-2026|Bergh et al. (2026)]] supply the outcome-side complement: 55 [[cs-education|computer science]] undergraduates who coded with ChatGPT scored 89% against 69% without it, recalled less of the same material immediately (41% vs. 53%) and at 48 hours (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81%. Read together, the feedback study shows the behavior can be shifted without restricting access to the tool, and the programming study shows what the shifted behavior was protecting.. The model is calibrated against the strongest available field evidence: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students raised practice performance by 48% yet left a 17% deficit on the unassisted exam, whereas hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. Offloading is therefore harmful only in the bypass configuration, and the operative design variable is whether the model substitutes for the graded target skill. ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]])
 The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] train LLM tutors with a masked near-transfer post-test and two binary gates, so the reward can rise only through what the student wrote in its own turns, and their ablation shows the gates, not the raw learning-gain reward, are what reduce solution handover.
 
-
-
 **Over-reliance shows up as a named challenge across disciplines, not as a single study's anomaly.** In a 66-study review of generative AI in [[inquiry-based-learning|inquiry learning]], [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found over-reliance or cognitive offloading reported in 16 studies (24.2%), behind inaccuracy at 31.8%. The pattern is reported by the primary studies rather than measured by the review, whose authors appraised neither study quality nor reporting bias.
 
 **The bypass configuration has a civic price the learning studies do not bill.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] argue that willed offloading of inquiry, analysis, evaluation and synthesis atrophies the practice democratic citizenship depends on. Their sequencing rule is the bypass/scaffold distinction stated developmentally: arithmetic before calculators, citation conventions before reference managers, and a chatbot introduced after the skill rather than in place of it. They also name the frame that makes bypass attractive, which is the efficiency premise that the point of schoolwork is to finish quickly.
@@ -201,89 +200,3 @@ Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
 - **"Students use AI mainly to understand."** **Analyze topped the distribution at 27.28% (831 messages) ahead of Understand at 23.76%** — the first fine-grained evidence that naturalistic [student-AI interaction] leans analytic rather than comprehension-oriented.
 - **"Prompt traces reveal whether offloading happened."** What prompt-level traces cannot supply comes from a **16-student subsample with linked grades, whose 1,140 messages were hand-coded**: **49.6% of 125 dialogues showed no offloading** at all. Trace patterns overstate offloading relative to hand-coded dialogue.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — The risk every effort-first sequence is designed to avoid
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
-- [[agency]] — Diminished when AI substitutes for the learner's cognition
-- [[critical-thinking]] — Degraded by uncalibrated offloading
-- [[creativity]] — Undermined when AI replaces the learner's generative act
-- [[distributed-cognition]] — The efficiency–regulation trade-off of delegation
-- [[embodied-learning]] — Situated cognition as the alternative to outsourcing
-- [[generative-ai]] — The tool context of AI-mediated offloading
-- [[metacognition]] — Calibrating when to offload vs. engage
-- [[online-teaching-and-learning]] — A medium vulnerable to the "ask for the answer" shortcut
-- [[prompt-engineering]] — The primary mechanism of offloading in LLM use
-- [[scaffolding]] — Reducing load without eliminating cognitive demand
-- [[self-directed-learning]] — Eroded by thoughtless AI use
-- [[self-regulated-learning]] — Regulating offloading decisions
-- [[trust-calibration]] — Knowing when to trust and when to question AI
-- [[retrieval-spacing-interleaving]] — the counter-practice to letting a model retrieve on the learner's behalf
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-## Connected Articles
-- [[chen-genai-programming-understanding-2026]] — beginner and intermediate programmers: ChatGPT raised test passes 410.7 vs 80.7 while understanding did not follow (Chen et al., 2026)
-- [[gardella-copilot-fast-forgettable-2026]] — 22 novices: Copilot's 14.09-point advantage did not survive an unassisted retest a week later (Gardella et al., 2026)
-- [[riva-cognitive-capital-generative-ai-review-2026]] — Cognitive capital: offloading as a drawdown on a renewable stock of capability
-- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Cross-dimensional miscalibration: operational fluency misread as evaluative and domain competence (conceptual review)
-- [[akcaoglu-offloading-ladder-experience-2026]] — The Offloading Ladder: how experience changes what learners and practitioners should hand to AI (Akcaoglu 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
-- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
-- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: offloading that costs the learner's domain self, not only the skill
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a randomized controlled trial on knowledge retention 45 days later (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Excess vs beneficial friction: why AI offloading differs from earlier tools
-- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning: six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence network analysis of prompt patterns
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
-- [[ai-making-us-stupid]] — Research on AI's cognitive effects and learning displacement
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless AI use erodes self-directed learning
-- [[generative-ai-guardrails-harm-learning]] — High-school math RCTs on unguarded GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[coach-not-crutch-ai-writing]] — AI can work less and learn more (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[chatgpt-writing-cognitive-impact-2026]] — a writing-to-learn experiment in which ChatGPT-assisted writing produced less knowledge gain than an unaided control
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
-- [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: a preregistered experiment in which AI affordances lowered deep processing and raised disorganization without raising offloading (Braun 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - over-reliance or cognitive offloading named as a challenge in 16 of 66 inquiry studies
-- [[fan-metacognitive-offloading-sync-model-2026]] - SYNC quadrants and the recalibration loop: delegating the regulator, not just the work (Fan et al. 2026)
-- [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Withdrawing the regulator raises offloading and lowers output quality
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Sequencing rule applied developmentally: arithmetic before calculators, citations before reference managers
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Six self-reported dimensions of AI-mediated learning difficulty
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: a narrative review linking offloading to memory, learning and executive function
-- [[ho-invariant-core-faculty-development-2027]] — SOLO levels explain why GenAI can supply the relational artifact, so assessment must weight the process (Ho 2026)
-- [[su-genai-dependence-academic-performance-adolescents-2026]] — Attentional control carries most of the dependence-to-performance association in adolescents
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039
-- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI dependence and motivation carry equal and opposite effects on critical thinking, leaving a small net gain (MASEM, 31 studies, 16,357 learners)

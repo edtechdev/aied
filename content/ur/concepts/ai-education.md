@@ -38,6 +38,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -201,59 +203,3 @@ AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا
 **"چونکہ AI عام مقصد کا ہے، کہیں کی دریافت ہر جگہ لاگو ہوتی ہے۔"** ٹیکنالوجی کی عمومیت ثبوت کی عمومیت پیدا نہیں کرتی۔ مضمون، درجہ اور سیاق کے رخ اسی لیے موجود ہیں کہ ایک ہی اوزار ان میں مختلف برتاؤ کرتا ہے، اور حد کے پار بغیر تبدیلی لے جایا گیا نتیجہ ایک توسیعی قیاس ہے۔
 
 **"میدان کی پختگی اس کی اشاعت کے حجم سے پڑھی جا سکتی ہے۔"** حجم اور پختگی الگ الگ چلتے ہیں؛ تحقیقی طریقوں کا رخ بار بار آنے والی ڈیزائن کمزوریوں کو دستاویز کرتا ہے جنہیں حجم ٹھیک نہیں کرتا، اور فریم ورک ان کی جانچ سے زیادہ تیزی سے بڑھتے ہیں۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — وہ آزمودہ تسلسل جو میدان کی پيدگوجیز کو عملی شکل دیتے ہیں
-- [[ai-literacy]] — چھتری: AI کو سمجھنا، استعمال کرنا، اور جانچنا
-- [[automation-bias]] — قاری کی طرف کی ناکامی: خودکار فیصلے کو بغیر جانچے قبول کر لینا
-- [[human-ai-collaboration]] — چھتری: لوگ اور AI مل کر کیسے کام کرتے ہیں
-- [[pedagogy]] — چھتری: تدریسی طریقے اور حکمت عملیاں
-- [[case-based-learning]] — کیس طریقہ، کیس گفتگو، اور متضاد کیسز
-- [[metaphors-and-analogies]] — استعارہ AI کی سمجھ کو کیسے شکل دیتا ہے اور تشبیہ تدریس کو کیسے سہارا دیتی ہے
-- [[learning-theories]] — چھتری: سیکھنا کیسے ہوتا ہے
-- [[ai-technologies]] — چھتری: ماڈلز، تکنیکیں، اور نظام
-- [[discipline-specific-aied]] — چھتری: مضامین اور درجات میں AI
-- [[assessment]] — چھتری: AI سیکھنے والوں کا جائزہ کیسے لیتا ہے اور صداقت کو دوبارہ شکل دیتا ہے
-- [[feedback]] — چھتری: فیڈ بیک کیسے پیدا، پہنچایا، اور استعمال ہوتا ہے
-- [[stakeholders]] — چھتری: اداکار کون ہیں
-- [[learners]] — چھتری: سیکھنے والے کی طرف کے تصورات (تجربہ، شناخت، خودآگہی، تعامل، سیکھنے والے کے ماڈلز)
-- [[ai-ed-evaluation]] — چھتری: ہم کیسے جانتے ہیں کہ AI کام کرتا ہے
-- [[research-methods-aied]] — چھتری: اثر آفرزی کے تحقیقی طریقے
-- [[ai-assisted-educational-research]] — AI معاون تعلیمی تحقیق
-- [[governance]] — چھتری: اداراتی اور ریگولیٹری پرت
-- [[educational-policy-ai]] — چھتری: پالیسی، رہنمائی، اور نفاذ
-- [[equity-in-ai-education]] — چھتری: انصاف، رسائی، اور شمولیت
-- [[learning-sciences]] — AIED کے پیچھے تجرباتی میدان
-- [[ethics]] — تعلیم میں مصنوعی ذہانت کے اخلاقی ابعاد
-- [[misconceptions]] — وہ ذہنی ماڈل جو لوگ AI کے ساتھ لاتے ہیں
-- [[interpreting-and-applying-aied-research]] — ایک مطالعہ کو پڑھنا، اور نتیجے کو عمل میں لانا
-- [[limitations-in-aied-research]] — ثبوت بنیاد کی سراسری حدود
-- [[meta-analysis-systematic-review]] — جائزوں اور میٹا تجزیات کیا قائم کرتے ہیں
-- [[history-of-aied]] — میدان کیسے بدلا
-- [[philosophy-of-ai-in-education]] — فلسفیانہ بنیادیں
-- [[theories-and-frameworks]] — نظریہ اور فریم ورک کے نوڈس کا نقشہ
-- [[theory-development-aied]] — نظریہ کی تعمیر اور نظرثانی
-- [[sensor-and-gaze-analytics]] — چھتری: نگاہ، EEG اور پہننے والے اشاروں سے سیکھنے والوں کو محسوس کرنا
-- [[ai-avatars-and-synthetic-instructors]] — چھتری: مصنوعی انسان جو پڑھاتے، ٹیوٹرنگ کرتے، نقالی کرتے اور جانچتے ہیں
-- [[civic-and-political-education]] — موضوعی شعبہ: عوامی زندگی کی خواندگی، جس کی ثبوت کی بنیاد پتلی ہے
-
-- [[primary-education]] — ابتدائی تعلیم میں AI
-- [[secondary-education]] — مڈل اور ہائی اسکول میں AI
-- [[undergraduate-education]] — بیچلر کی سطح کے مطالعے میں AI
-- [[graduate-education]] — ماسٹرز اور ڈاکٹریٹ مطالعے میں AI
-
-## منسلک مضامین
-
-تعلیم میں مصنوعی ذہانت کے میدان گیر جائزے — وہ مطالعات جو پورے میدان یا پورے تعلیمی درجے کا سروے کرتے ہیں، ایک موضوع کا نہیں:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — چار دہاؤں میں AI اور تعلیم کی تحقیقات کا ارتقا (AIxEd فریم ورک)
-- [[mishra-control-vs-agency-history-2025]] — کنٹرول بمقابلہ خودآگہی: تعلیم میں AI کی تاریخ
-- [[genai-higher-education-systematic-review-2026]] — اعلیٰ تعلیم میں جنریٹو AI: 125 مطالعات کا منظم جائزہ
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 میں AI پر ثبوت کی بنیاد: 818 مقالوں کا جائزہ
-- [[genai-educational-outcomes-meta-analysis]] — جنریٹو AI اور تعلیمی نتائج: جامع میٹا تجزیہ
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 ثانوی مطالعات؛ فائدے وہاں جہاں طلبہ آؤٹ پٹ کا فیصلہ کرتے ہیں، نہ کہ جہاں ٹول کام پیدا کرتا ہے
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 ماسٹرز طلبہ؛ تیاری نے نگران کی حمایت سے خود اثر آفرینی حاصل کی
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — ڈاکٹریٹ نگرانی کی اخلاقیات، فیڈبیک اور گورننس کا 61 ذرائع کا جائزہ
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — یک گروہ گریجویٹ سیمینار؛ خود ہدایت سیکھائی میں اضافہ بغیر کسی غیر معاون امتحان کے
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 طلبہ؛ اخلاقیات اور خود ضبط میں انڈرگریجویٹ–گریجویٹ خلا

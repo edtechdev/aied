@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -85,43 +87,3 @@ ai_assist:
 - **"উচ্চ নম্বর মানে শিক্ষার্থী আমাদের নকশা করা কাজটিই করেছে।"** চিহ্ন নম্বর থেকে **সরাসরি আলাদা হতে পারে**: **১৫০টি শিক্ষার্থী-এআই কথোপকথনে** **৪১% ঠিক ১.০০ নম্বর পেয়েছে, অথচ পর্যবেক্ষণযোগ্য সংজ্ঞানাত্মক অংশগ্রহণ ভিন্ন ছিল**। নম্বরটি সম্পৃক্ত হয়ে যায়, অথচ যে প্রক্রিয়ার কথা তাকে তৈরি করার কথা ছিল তা করে না।
 - **"প্রক্রিয়ার উপাত্ত বড় মাপে সামলানো যায় না।"** আবশ্যক নথিভুক্তি **ছয় সেমিস্টার জুড়ে ছয় সপ্তাহের অ্যাসিঙ্ক্রোনাস স্নাতকোত্তর গবেষণা-পদ্ধতি কোর্সে, যেখানে প্রায় ৪৪০ জন কে-১২ শিক্ষক ছিলেন**, কোর্স-মাপে সম্ভবপর প্রমাণিত হয়েছে। লজিস্টিক সমাধানযোগ্য ছিল; আপত্তিটি ব্যয়কে অতিরঞ্জিত করে।
 - **"সমস্যা-সমাধান প্রক্রিয়া দিয়ে মূল্যায়নের জন্য অতিরিক্ত সামগ্রিক।"** এটিকে **চারটি পর্যায় ও আটটি রোগনির্দিষ্ট উপ-দক্ষতায়** পরিচালনযোগ্য করা যায়, যাতে একটি এলএলএম **পর্যায়-নির্দিষ্ট প্রশ্ন ও রুব্রিক** তৈরি করতে পারে — ব্যবহৃত হয়েছে **পাঁচজন শিক্ষক ও ৬৪ জন শিক্ষার্থীর** সঙ্গে। বিভাজনই প্রক্রিয়াটিকে পাঠযোগ্য ও মূল্যায়নযোগ্য করে তুলেছে।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — ধাপে-ধাপে চেকপয়েন্ট ও প্রক্রিয়ার প্রমাণ ক্রমবিন্যস্ত নকশা হিসেবে
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — একটি সমালোচনামূলক বর্ণনামূলক পর্যালোচনা যুক্তি দেয় যে ডিফল্ট ব্যর্থতা হলো কখনো ফিকে না হওয়া এআই সহায়তা, সঙ্গে পণ্য-একমাত্র মূল্যায়ন (সালামেহ ২০২৬)
-- [[alam-process-oriented-collaborative-essays-2026]] — প্রথম বর্ষের ডিগ্রি-অ্যাপ্রেন্টিসশিপে নম্বরযোগ্য, যৌথভাবে লেখা প্রক্রিয়া-প্রবন্ধ: রুব্রিকে পুনরাবৃত্তি ও সহযোগিতা, নির্দিষ্ট সীমার মধ্যে জেনএআই অনুমোদিত (আলম ও জ্যাকসন ২০২৬)
-- [[genai-performance-vs-learning]] — কর্মদক্ষতা শিখন নয়: প্রক্রিয়া-পরিমাপের ওপর গড়া গবেষণা-এজেন্ডা (ইয়ান প্রমুখ ২০২৬)
-- [[human-centered-ai-teacher-educators-2026]] — শিক্ষক-প্রশিক্ষকরা যৌক্তিকতা ও প্রতিফলনের ওপর গড়া এআই-প্রতিরোধী, প্রক্রিয়া-ভিত্তিক কাজ চাইছেন (বারণ প্রমুখ ২০২৬)
-- [[sharma-judgment-visible-genai-assessment-2026]] — টীকাকৃত সিদ্ধান্ত-পথ, মৌখিক পক্ষসমর্থন ও খসড়ার পার্থক্য, দৃশ্যমান বিচারের জন্য বাছা
-- [[munoz-misconduct-allegation-evidence-2026]] — অসদাচরণের মামলা-ফাইলে কী থাকে, আর কোন প্রক্রিয়া-প্রমাণ থাকে না
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — মূল্যায়ন-প্রমাণ প্রতিস্থাপিত হলে কোন অনুমান ঝুঁকিতে
-- [[beyond-detection-authentic-assessment-ai-2025]] — খাঁটিত্ব পুনর্নকশা করতে হবে, পুলিশি দিয়ে নয়
-- [[authentic-products-authenticated-processes-2026]] — খাঁটি পণ্য এবং যে প্রক্রিয়া তা তৈরি করেছে
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — এআই-প্রতিরোধী ধরন হিসেবে মৌখিক পরীক্ষা, যা যুক্তিকে জীবন্ত করে
-- [[thapa-lewis-process-oriented-assessment-2026]] — জ্ঞানতাত্ত্বিক খাঁটিত্ব এবং প্রক্রিয়াকেন্দ্রিক মূল্যায়নের পেছনের চারটি নকশা-অঙ্গীকার (থাপা ও লুইস ২০২৬)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — মাধ্যম-শর্তসাপেক্ষ প্রক্রিয়া-প্রমাণ: লগ ও থিংক-অ্যালাউড ভিন্ন প্রক্রিয়া দেখায়
-- [[drafttrace-ai-writing-analytics-2026]] — ড্রাফটট্রেস: এআই-সংযুক্ত লেখার জন্য বহু-দৃশ্য বিশ্লেষণ পরিবেশ
-- [[epistemic-ownership-ai-mediated-education-2026]] — একই কর্মদক্ষতা, ভিন্ন প্রক্রিয়া: এআই-মধ্যস্থ শিক্ষায় জ্ঞানতাত্ত্বিক মালিকানা
-- [[stepwise-teacher-diagnosis-math-2026]] — স্টেপওয়াইজ: এলএলএম-উৎপন্ন প্রশ্নের মাধ্যমে শিক্ষার্থীর গাণিতিক সমস্যা-সমাধান দক্ষতা রোগনির্ণয়ে শিক্ষকদের সহায়তা
-- [[packard-thinking-partner-framework-adult-learners-2026]] — এআই সংলাপের চেকপয়েন্ট-নথিভুক্তি ছয় সেমিস্টারে প্রায় ৪৪০ শিক্ষকের মধ্যে ৯৬% সম্পন্নতার হারে টিকে গেছে
-- [[rubrics-genai-process-based-assessment-2026]] — বিগসের ৩পি মডেল থেকে তিনটি রুব্রিক-মাত্রা: এজেন্সি ও তত্ত্বাবধান, সংলাপমূলক স্ক্যাফোল্ডিং, সংজ্ঞানাত্মক সার্বভৌমত্ব (ওভিয়েদো ও দিয়াস ২০২৬)
-- [[jelson-students-chatgpt-essay-writing-2026]] — একটি কোডমিরর এডিটর ও লগকৃত চ্যাট প্যানেল এক প্রবন্ধ-অধিবেশনকে প্রক্রিয়া-প্রমাণে পরিণত করেছে, তার টাইপিং-বনাম-চিন্তার সীমা নিয়ে (জেলসন প্রমুখ ২০২৬)
-- [[xian-process-visualization-feedback-news-translation-2026]] - প্রক্রিয়া-ভিজ্যুয়ালাইজেশন ও একটি প্রতিফলন-অধিবেশন সম্পাদনার পরিমাণ না বাড়িয়ে সংশোধনকে পৃষ্ঠতল থেকে অর্থ-স্তরে সরিয়েছে

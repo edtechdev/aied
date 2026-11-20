@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -41,11 +42,3 @@ Lees het als een set projectverslagen en niet als een evaluatie. Het boek loopt 
 ## Opmerkingen en kanttekeningen
 
 De licentiëring per hoofdstuk is de valkuil. De verzameling is CC BY 4.0, maar individuele auteurs behouden het auteursrecht en kozen hun eigen Creative Commons-licenties, zodat een hoofdstuk beperkender kan zijn dan de boekpagina suggereert; het hoofdstuk over de leerboekherziening is CC BY-NC-SA 4.0, en hergebruik moet het hoofdstuk controleren en niet de voorpagina. Auteurs hadden geen verplichte procedure voor AI-openbaarmaking, dus de meeste hoofdstukken bespreken hun proces terloops, doorgaans volgens de richtlijnen van OER Commons. Door een redactionele keuze houdt elk hoofdstuk de vakstem, interpunctie en regionale spelling van zijn auteur, zodat het proza niet uniform leest. Bovenal documenteert elk hoofdstuk één lokaal project en delen er geen twee een instrument of een vergelijking, dus de bundel biedt praktijk om aan te passen in plaats van bewijs om te citeren.
-
-## Gerelateerde concepten
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

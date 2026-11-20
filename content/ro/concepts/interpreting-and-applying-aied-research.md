@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -156,41 +158,3 @@ Verificările de mai sus nu sunt înțelepciune populară; ele provin din eșecu
 **„Note mai mari în timp ce folosesc instrumentul indică faptul că instrumentul a predat mai mult.”** Într-un studiu de matematică din [[k-12|K-12]], elevii care au exersat cu un [[conversational-ai|chatbot]] de uz general au obținut note mai bune la exerciții și apoi au obținut **cu aproximativ 17% mai slab** la evaluarea fără asistență. Performanța la exerciții măsurată cu instrumentul de față este măsura umflată; cea fără asistență este rezultatul, și doar una dintre ele creștea.
 
 **„Dacă efectul este real, detaliile de implementare nu contează mult.”** Ele *sunt* efectul. Un studiu care a urmărit 30 de studenți într-un curs, la o instituție, pe o versiune a instrumentului pe care nimeni nu o mai folosește, a produs o constatare despre o configurație care nu mai există. Specificarea tratamentului, versiunea și contextul fac parte din afirmație, nu sunt contextul din jurul ei.
-
-## Concepte conectate
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — Cercetare educațională asistată de IA
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Articole conectate
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presupus eficace: audit criminalistic al 14 meta-analize AIED
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Efectele IA ajustate pentru părtinirea publicării, aproximativ o treime din mărimea raportată
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT în educație: un efect în căutarea unei cauze
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Criteriile de includere folosite drept prag de rigoare și heterogenitatea care se schimbă cu modelul
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Când fiabilitatea scorării automate atinge plafonul de măsurare al sarcinii
-- [[verification-quality-reliance-calibration-genai-2026]] — Ce nu măsoară literatura despre verificare și dependență
-- [[citation-errors-hallucinations-computing-education-2026]] — Referințe fabricate care au ajuns în tipar în 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Câștiguri la exerciții, pierderi la examen: problema retragerii asistenței în matematica K-12
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Efecte de subgrup ale căror intervale de încredere traversează zero
-- [[chick-faculty-development-ethical-ai-2026]] — Condiții favorizante: semnale de politică, abonamente personale, lipsă de timp
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Metrici de furnizor cu calibrarea și numărul de experimente dezvăluite
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Constatări legate de versiunile de model și frământarea domeniului
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Numărători de dovezi independente pentru 16 produse de IA adresate elevilor deja în uz
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — O recenzie poate cuantifica distorsiunea de raportare din propriul corpus

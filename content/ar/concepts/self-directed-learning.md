@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -60,7 +62,6 @@ ai_assist:
 
 لأن التعلّم الموجه ذاتيًا يؤكد على التوجيه المبادَر من المتعلّم، فإن التدخلات لحمايته تركز على الحفاظ على [[agency]] والفاعلية الذاتية بدل مجرد تنظيم السلوك لحظةً بلحظة. وتشير الأدلة على أن الاستخدام غير المتأمّل للذكاء الاصطناعي يُضعف الدافعية والفاعلية الذاتية — الموارد النفسية التي يعتمد عليها التعلّم الموجه ذاتيًا — إلى أن تعزيز [[ai-literacy|الاستخدام المسؤول للذكاء الاصطناعي]] ليس قضية نزاهة فحسب بل قضية نموّية: حماية قدرة الطلاب على توجيه تعلّمهم.
 
-
 ## بحث استخلاص الذكاء الاصطناعي للسقالة في التعلّم القائم على البحث
 
 - **الاستخلاص بالذكاء الاصطناعي كسقالة للتعلّم القائم على البحث.** يصمّم An وزملاؤه (2026) نظام استخلاص معلومات يعمل بالذكاء الاصطناعي يحوّل المنشورات البحثية إلى مجموعات بيانات منظمة وقابلة للتتبّع لدعم إتمام أطاريح البكالوريوس في [[stem-education|STEM]]، مُتمركزًا بوصفه **سقالة معرفية** تُتيح فحص علاقات الدليل-الدعوى مع تخفيف مطالب معالجة البيانات ذات المستوى المنخفض. وفي تجربة نموذجية [[mixed-methods-research|مختلطة المناهج]] على 80 وثيقة بمشاركة 20 طالبًا، استخلص الطلاب أكثر من 90% من المعاملات المستهدفة، وانخفض الوقت [[self-report-measures|المُبلَّغ عنه]] لمراجعة الأدبيات بنحو 65%، وارتفعت قدرتهم على تحديد المتغيرات المؤثّرة بنسبة 50% — مما يدعم فكرة أن [[generative-ai|الذكاء الاصطناعي]] يستطيع إعادة موازنة الحمل الإدراكي نحو استدلال بحثي ذاتي التوجيه من الرتبة الأعلى بدلًا من التلخيص الروتيني.
@@ -91,32 +92,3 @@ ai_assist:
 **للمحقّقين**
 
 - أبلغ عن البنية التي استهدفها التدخّل؛ فلا ينبغي استخدام مخرجات SDL وSRL تبادليًا.
-
-## المفاهيم المرتبطة
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## المقالات المرتبطة
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — الاستخدام غير المتأمّل للذكاء الاصطناعي التوليدي والتعلّم الموجه ذاتيًا (نمذجة المعادلات البنائية، الفروق بين الجنسين)
-- [[ai-lifelong-learning-policy]] — سياسة الذكاء الاصطناعي والتعلّم مدى الحياة
-- [[self-directed-growth-generative-ai-learning-analytics]] — النمو الذاتي التوجيه مع الذكاء الاصطناعي التوليدي وتحليلات التعلّم
-- [[genai-educational-outcomes-meta-analysis]] — تحليل بعدي لمخرجات التعليم بالذكاء الاصطناعي التوليدي
-- [[andragogy-cognitive-delegation-genai-2026]] — تعليم الكبار والتفويض الإدراكي مع الذكاء الاصطناعي التوليدي
-- [[kim-ai-andragogy-2026]] — تطبيقات الذكاء الاصطناعي في دعم تعليم الكبار (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — استخدام الذكاء الاصطناعي التوليدي الموجّه ذاتيًا والتطور الأكاديمي لدى طلاب المدارس الثانوية: دراسة طولية واسعة النطاق لعام واحد
-- [[llm-goal-selection-self-directed-learning-2026]] — النماذج لا تختار أهداف التعلّم كما يختارها البشر في مهمة اختيار حر (Molinaro وآخرون 2026)
-
-

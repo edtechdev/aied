@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -105,37 +107,3 @@ Biaya substitusi itu terlihat pada tempat fakultas dan siswa benar-benar berbica
 **"Pengawasan akan menuntaskan norma dengan membuat penggunaan terlihat."** Membuat perilaku terlihat tidak menyelesaikan apa norma yang seharusnya; itu mengubah apa yang bersedia diungkapkan orang. Pola terukur yang ada sudah berupa pengungkapan selektif, sehingga rezim pemantauan yang diterapkan padanya mengukur penyembunyian alih-alih perilakunya.
 
 **"Norma bersifat informal, jadi berada di luar jangkauan institusi."** Mereka ditegakkan secara lokal dan dapat diubah secara lokal, yang membuatnya lebih mudah ditangani daripada kebijakan: praktik eksplisit sebuah tim mata kuliah adalah pengungkit justru karena di situlah aturan operatif ditetapkan.
-
-## Konsep terkait
-
-- [[academic-integrity]] — buku aturan formal yang tumbuh bersama norma-norma ini
-- [[ai-use-disclosure]] — praktik yang paling langsung diregulasi norma
-- [[framing-ai-use-for-students]] — bagaimana sebuah kelas menyatakan harapannya
-- [[reducing-ai-misuse]] — padanan instruksional bagi penetapan norma
-- [[learner-identity]] — siapa yang dianggap sebagai siswa ketika penggunaan AI menjadi terlihat
-- [[ai-detection]] — respons teknis yang sebagian besar gagal
-- [[remote-proctoring]] — pengawasan sebagai upaya pengganti norma
-- [[trust]] — hal yang menjadi sandaran norma dan pengungkapan
-- [[equity-in-ai-education]] — siapa yang menyerap biaya sosial
-- [[help-seeking]] — perilaku yang pertama kali ditekan rasa malu
-- [[group-work]] — tempat norma kelompok dinegosiasikan
-- [[student-experience]] — sisi yang dihayati dari semua ini
-- [[anxiety-and-stress]] — residu afektif
-- [[governance]] — lapisan formal tempat norma-norma ini berada
-- [[ethics]] — literatur yang paling sedikit berbicara kepada siswa
-
-## Artikel terkait
-
-- [[student-perception-ai-use-collaboration]] — Akurasi persepsi siswa atas penggunaan AI pasangan dan kaitannya dengan performa kolaborasi
-- [[shame-guilt-ai-regulation-computing-education]] — Rasa malu dan rasa bersalah sebagai regulator sosial penggunaan AI dalam pendidikan komputasi
-- [[chirikov-regulate-ai-syllabi-2026]] — Bagaimana instruktur meregulasi AI di perguruan tinggi: bukti dari 31,000 silabus mata kuliah
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks rasa bersalah AI: emosi moral dan dilema etis dalam adopsi teknologi akademik
-- [[agarwal-ethical-values-norms-aied-2026]] — Mengidentifikasi nilai dan norma etis untuk kecerdasan buatan dalam pendidikan
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Ketakutan akan Big Brother: efek samping negatif potensial dari ujian dengan pengawasan
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Di bawah pengawasan: memetakan praktik pengawasan jarak jauh dalam penilaian keperawatan
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Desain penilaian di bawah informasi yang tidak sempurna: AI generatif, pengungkapan, dan respons siswa
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Mendeteksi yang tak terdeteksi: prosedur pelanggaran setelah AI generatif
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Menyontek atau bersaing? AI dalam pendidikan pemasaran
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agensi dalam penilaian kelompok yang didukung GenAI
-- [[reddit-genai-education-discourse-analysis-2026]] — Analisis wacana Reddit: kontak fakultas–siswa terkonsentrasi pada perselisihan deteksi dan penegakan (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 mahasiswa sarjana: pengungkapan rekan yang dipersepsikan dan kenyamanan instruktur memprediksi pengungkapan di atas pelepasan moral (Qu & Wang 2026)

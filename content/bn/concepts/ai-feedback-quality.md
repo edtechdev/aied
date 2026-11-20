@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -41,11 +43,8 @@ ai_assist:
 - **মানব প্রতিক্রিয়ার সঙ্গে তুলনীয়তা:** [[ai-generated-feedback-higher-ed|উচ্চশিক্ষার গবেষণা]] দেখে এআই-উৎপন্ন প্রতিক্রিয়া গ্রহণযোগ্য ও সহায়ক হিসেবে অভিজ্ঞতায় পাওয়া যায় — শিক্ষকের প্রতিক্রিয়ার তুলনায় সমমানের। কিন্তু গ্রহণযোগ্যতা শিখন-কার্যকারিতার নিশ্চয়তা দেয় না। 42টি প্রায়োগিক অধ্যয়নের (2023–2025) একটি PRISMA-নির্দেশিত [[meta-analysis-systematic-review|পদ্ধতিগত পর্যালোচনা]] একইভাবে দেখে [[llm]] গ্রেডিং ও প্রতিক্রিয়ার গুণমান কাজ-নির্ভর — সংক্ষিপ্ত, সু-কাঠামোবদ্ধ উত্তর ও বিস্তারিত রুব্রিকে মানব মূল্যায়নকারীর সঙ্গে মেলে, কিন্তু জটিল, মুক্ত-সমাপ্ত বা [[multilingual-learning|বহুভাষিক]] কাজে অবনতি ঘটে, আর প্রতিক্রিয়া কখনও অতি-সাধারণ বা গ্রেডের সঙ্গে অসঙ্গত হয় — এবং প্রম্পটের গুণমান, রুব্রিকের বিস্তার, মডেল-সংস্করণ ও মূল্যায়ন-ভাষাকে গ্রেডিং ও প্রতিক্রিয়ার গুণমানের প্রধান নির্ধারক হিসেবে চিহ্নিত করে ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])।
 - **এলএলএম-উৎপন্ন পাঠ্য-উপকরণ মানুষের তৈরি উপকরণের সমান হয়েছে — যখন প্রতিক্রিয়া উপস্থিত ছিল।** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] বাছাই করা গবেষণা-উৎসের ওপর একটি [[rag|পুনরুদ্ধার-বর্ধিত]] পাইপলাইন দিয়ে দৃশ্যপট-ভিত্তিক টিউটর-প্রশিক্ষণ পাঠ তৈরি করেছেন এবং র‍্যান্ডমাইজড আট-শর্তের পরীক্ষায় (N = 208) সাবধানে মানুষ-রচিত পাঠের সঙ্গে তুলনা করেছেন। মানুষ-তৈরি পাঠ পরীক্ষা-পরবর্তী কর্মদক্ষতায় বেশি ফল দিয়েছে (0.793 বনাম 0.730), কিন্তু কেবল প্রতিক্রিয়া-বিহীন শর্তে; তাৎক্ষণিক ব্যাখ্যামূলক প্রতিক্রিয়াসহ উৎস-পার্থক্য মিলিয়ে গেছে, এবং প্রতিক্রিয়ার সামগ্রিক মূল প্রভাব ছিল না। কনটেন্ট-উৎপাদনের জন্য ফলাফলটি ইঙ্গিত করে মানুষ-বনাম-এলএলএম ফাঁক আসলে একটি স্ক্যাফোল্ডিং-ফাঁক: উৎপন্ন উপকরণ প্রতিযোগিতামূলক যখন শিখন-পরিবেশ সেই ব্যাখ্যামূলক প্রতিক্রিয়া যোগায় যা পাঠ নিজে দেয় না।
 
-
-
 শিক্ষার্থী-অনুভূত গুণমান গ্রহণযোগ্যতার ইঙ্গিতের চেয়ে বেশি মিশ্র: 93 জন স্নাতকের 77 জন এআই প্রতিক্রিয়া সহজে বোঝার মতো বলে মনে করেছেন, তবুও 68 জন তা পুনরাবৃত্তিমূলক এবং 79 জন স্ব-বিরোধী পেয়েছেন; কেবল 31 জন একমত যে এটি জটিল বা সৃজনশীল লেখা গ্রেড করে, এবং 81.7% গ্রেডের 40% মূল্যের চূড়ান্ত প্রবন্ধের জন্য মানব স্কোরিং পছন্দ করেছেন ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]])।
 - **প্রতিক্রিয়া-প্রক্রিয়ার একটি সম্মিলিত অ্যাঙ্কর।** 53টি অধ্যয়নের একটি মেটা-বিশ্লেষণ দেখে জেনএআই প্রতিক্রিয়া অধ্যয়নে সবচেয়ে বড় প্রভাব তৈরি করেছে (g = 1.27), যেখানে অর্জনের জন্য g = 0.40, যা বোঝাপড়া, সময়োপযোগিতা ও বস্তুনিষ্ঠতাকে কৃতিত্ব দেওয়া হয় — যদিও শিক্ষার্থীরা এআই প্রতিক্রিয়ায় অবিশ্বাস করতে পারে এবং এর আবেগগত প্রতিক্রিয়ার অভাব সংজ্ঞানাত্মক ভার বাড়াতে পারে ([[genai-educational-outcomes-meta-analysis|Dong (2026)]])।
-
 
 একটি নিয়ন্ত্রিত তুলনা প্রতিক্রিয়া-উপাদানকে অভিযোজিত ব্যবস্থা থেকে আলাদা করে: একই নৈদানিক [[intelligent-tutoring|টিউটরিং]] ব্যবস্থায়, স্বয়ংক্রিয় রিয়েল-টাইম প্রতিক্রিয়া পাওয়া শিক্ষার্থীরা চার-পয়েন্টের গণিত মূল্যায়নে 1.90 থেকে 3.54-তে উঠেছে, যা ছাড়া 1.90 থেকে 2.85 (F(1, 76) = 9.24, p = .003, d = 0.73) ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]])।
 
@@ -92,7 +91,6 @@ ai_assist:
 
 - **গুণমানের মাপা পূর্বানুমানক হিসেবে প্রম্পট-নকশা ও মডেল-নির্বাচন:** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] 153 জন শিক্ষার্থী-শিক্ষকের পাঠ-পরিকল্পনা লক্ষ্যের জন্য উৎপন্ন প্রতিক্রিয়ার ওপর স্তরক্রমিক রিগ্রেশন দিয়ে এআই প্রতিক্রিয়ার গুণমানের উৎসগুলো বিশ্লেষণ করেন। চারটি পদ্ধতিগতভাবে বৈচিত্র্যময় প্রম্পটের অধীনে তিনটি মডেলের 240টি প্রতিক্রিয়া জুড়ে, কেবল মডেল নয়-শ্রেণির গুণমান-রেটিংয়ের ভেদাঙ্কের 26.9% ব্যাখ্যা করেছে এবং প্রম্পট যোগ করলে তা 42.8%-এ উঠেছে (ΔR² = 15.9%); সবচেয়ে শক্তিশালী মডেল-প্রম্পট সংমিশ্রণের (345 প্রতিক্রিয়া) একটি প্রতিরূপণে মডেল 18.4% এবং প্রম্পট আরও 5.7% ব্যাখ্যা করেছে। সবচেয়ে বড় একক প্রম্পট-প্রভাব ছিল নেতিবাচক: ক্ষেত্র-নির্দিষ্ট প্রযুক্তিগত পরিভাষাকে দৈনন্দিন ভাষায় বদলে দেওয়া প্রতিক্রিয়ার গুণমান উল্লেখযোগ্যভাবে কমিয়েছে (β = −0.412), যেখানে মূর্ত উদাহরণ যোগ করা ও চেইন-অব-থট নির্দেশনা সরানো প্রথম অধ্যয়নে তাৎপর্যপূর্ণ ছিল না। তাই গুণমান "এআই"-এর স্থির বৈশিষ্ট্য নয় — তা যৌথভাবে উৎপন্ন হয় কোন মডেল বেছে নেওয়া হয় এবং কাজটি কীভাবে ভাষায় প্রকাশ করা হয় তার দ্বারা, এবং দুটোই শেখানো যায়।
 
-
 শৈলী একটি গুণমান-মাত্রা, যার একটি খরচ আছে: একই মডেল নিয়ে নির্দেশমূলক প্রতিক্রিয়া অপরিহার্য বৈশিষ্ট্যকে প্রাধান্য দেওয়া ও নির্দিষ্টতায় বেশি স্কোর করেছে, যখন [[socratic-method|সক্রেটিক]] প্রতিক্রিয়া বোঝাপড়া-পর্যবেক্ষণ বাড়িয়েছে — এবং নির্দেশমূলক প্রতিক্রিয়া বেশি সংজ্ঞানাত্মক ভার বহন করেছে ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]])।
 
 প্রতিক্রিয়া *কীভাবে উৎপাদিত হয়* তাও সেই তালিকায় থাকা উচিত। যুক্তিপূর্ণ প্রবন্ধের জন্য একটি মডুলার স্বয়ংক্রিয় লেখন-মূল্যায়ন ব্যবস্থায়, 90টি শিক্ষক-চিহ্নিত প্রবন্ধে সুপারভাইজড [[llm-training-and-fine-tuning|ফাইন-টিউনিং]] অব্যবহারযোগ্য প্রতিক্রিয়া তৈরি করেছে — ফাইন-টিউন করা GPT-4o প্রতিটি অনুমানে তার 8,000-টোকেন প্রসঙ্গ-জানালা ছাড়িয়ে গেছে এবং ফাইন-টিউন করা LLaMA-3.3-70B এমন JSON দিয়েছে যা পার্স হয় না — যেখানে সরাসরি Claude 3.7 প্রম্পট করলে 40টি প্রবন্ধ জুড়ে 630টি মাইক্রো-মন্তব্য তৈরি হয়েছে যার 94.69% শিক্ষকেরা প্রয়োজনীয় ও কার্যকর বলেছেন, ফলে লেখকেরা সিদ্ধান্তে আসেন যে একটি অ-নির্ধারক উৎপাদন-কাজে প্রম্পটিং ফাইন-টিউনিংকে হারাতে পারে ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]])।
@@ -127,9 +125,7 @@ ai_assist:
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li ও Moorhouse (2026)]] DeepSeek-এর স্পষ্ট যুক্তি-চিহ্নকে প্রতিক্রিয়া-সুবিধা হিসেবে পরীক্ষা করেন এবং দেখেন দৃশ্যমান যুক্তি একটি মন্তব্যের ভিত্তিকে লেখকের কাছে নিরীক্ষাযোগ্য করে, যখন মডেল তবুও উচ্চতর-ক্রমের বিচার, যেমন যুক্তিপ্রদান, মানুষের দিকেই ছেড়ে দেয়।
 
-
 প্রথম পালাতেই সঠিক একটি উত্তর তৃতীয় পালায় ভুল হয়ে যেতে পারে: 11টি মডেল জুড়ে 12.7 শতাংশ কর্তৃত্ব-চাপে ভুল উত্তরে ফিরে গেছে, তাই প্রতিক্রিয়ার গুণমান প্রথম প্রতিক্রিয়ায় নয়, পুরো মিথস্ক্রিয়া জুড়ে স্কোর করতে হবে ([[liu-educational-sycophancy-2026|Liu ও Korolova, 2026]])।
-
 
 ## সাধারণ ভুল ধারণা
 
@@ -137,67 +133,3 @@ ai_assist:
 - **"প্রতিক্রিয়ার প্রভাব মাঝারি।"** একটি **53-অধ্যয়নের মেটা-বিশ্লেষণ** দেখে জেনএআই প্রতিক্রিয়া **অধ্যয়নের সবচেয়ে বড় প্রভাব তৈরি করেছে (g = 1.27)**, যেখানে সামগ্রিক জেনএআই প্রভাবের জন্য **g = 0.40**। প্রতিক্রিয়া সবচেয়ে শক্তিশালী মাপা প্রক্রিয়া, যা সাধারণ আশাবাদ-বিতর্কের থেকে আলাদা চিত্র।
 - **"প্রতিক্রিয়াই পুরো হস্তক্ষেপ।"** একটি নিয়ন্ত্রিত তুলনা উপাদানটিকে আলাদা করে: একই নৈদানিক [[intelligent-tutoring|টিউটরিং]] ব্যবস্থায়, **প্রতিক্রিয়া-উপাদান** পাওয়া শিক্ষার্থীরা মাপযোগ্যভাবে আলাদা ছিল। প্রতিক্রিয়াকে অভিযোজিত ব্যবস্থা থেকে আলাদা করাই দাবিটিকে আরোপযোগ্য করে।
 - **প্রবেশাধিকার ও সম্পৃক্তি আলাদা হস্তক্ষেপ।** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ও Liening (2026)]] পাঁচ সপ্তাহের একটি ব্যবসায়িক সিমুলেশনে **234 জন শিক্ষার্থী ও 1,147টি সাপ্তাহিক পর্যবেক্ষণ** জুড়ে দুটোকে আলাদা করেন। [[conversational-ai|কথোপকথনমূলক এআই]] প্রতিক্রিয়ায় নিয়োগ জার্মেন সংজ্ঞানাত্মক ভার (β = .019, p = .807) বা বহিঃস্থ ভার (β = .071, p = .481)-এ **কোনো প্রভাব** ফেলেনি। **প্রকৃত নিয়মিত ব্যবহার** পরীক্ষামূলক অ-ব্যবহারকারীদের (β = −.468, p < .001) এবং নিয়ন্ত্রণ-দলের (β = −.253, p = .028) চেয়ে উল্লেখযোগ্যভাবে বেশি জার্মেন ভার-এর সঙ্গে যুক্ত ছিল, যেখানে **অনিয়মিত ব্যবহার নিয়মিত ব্যবহার থেকে আলাদা হয়নি** (p = .116)। তাই যে গুণমান-বিচার intention-to-treat বৈপরীত্যের ওপর দাঁড়ায়, তা এমন প্রতিক্রিয়া-হস্তক্ষেপকে কম দেখাবে যার গ্রহণ আংশিক, এবং সন্তুষ্টি বা প্রবেশাধিকারের মেট্রিক সম্পৃক্তির তথ্যের বিকল্প হতে পারে না।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — গুণমান সংশোধন নিশ্চিত করে না: যে ক্রমগুলো এআই প্রতিক্রিয়াকে ব্যবহারযোগ্য করে
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — দীর্ঘ এলএলএম সংকেত খারাপ তাৎক্ষণিক ফলাফলের পূর্বানুমান করেছে; বিন্যাস কম প্রচেষ্টার বিনিময়ে ধীর পুনরায়-জমা দিয়েছে
-- [[wu-lam-genai-writing-assessment-professors-2026]] — এআই প্রতিক্রিয়ার গুণমান নিয়ে অধ্যাপকেরা: ডিফল্টে তোষামোদপ্রবণ, দীর্ঘ, অস্পষ্ট এবং পরিমার্জনায় ধীর
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51টি অধ্যয়নের কেবল 27টি তাদের প্রম্পট জানিয়েছে; 16টি পরীক্ষায় নিয়ন্ত্রণ-দল ছিল না
-- [[ai-feedback-violin-intonation-2026]] — 2,208টি যন্ত্র-মাপা সুর-বিচ্যুতির বিপরীতে যাচাই করা সুর-প্রতিক্রিয়া (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: যুক্তিপূর্ণ প্রবন্ধের জন্য একটি মডুলার স্বয়ংক্রিয় লেখন-মূল্যায়ন ব্যবস্থা
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-এর ভিডিও-ভেতরের মন্তব্য মূল্যায়ন: ভাষাগত, অর্থগত ও উপলব্ধিগত গুণমান (Wang, Du ও Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — এআই লেখন-প্রতিক্রিয়া অনুশীলন-চিঠিতে মানব সম্পাদকদের হারিয়েছে (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: শিক্ষাবিদদের চক্রে রেখে এলএলএম প্রতিক্রিয়া-উৎপাদন (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — এলএলএম শ্রেণিকক্ষ-পর্যবেক্ষণ প্রতিক্রিয়ার নির্ভরযোগ্যতা ও সীমা (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — এআই শিক্ষার্থী-কেন্দ্রিক প্রতিক্রিয়া নিয়ে শিক্ষকদের চর্চা ও উপলব্ধি (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — উচ্চশিক্ষায় এআই-উৎপন্ন প্রতিক্রিয়া
-- [[teaching-feedback-classification-benchmark]] — শিক্ষাদান-প্রতিক্রিয়া শ্রেণিবিন্যাস বেঞ্চমার্ক
-- [[becerra-aicofe-feedback-2026]] — AICoFE: এআই-চালিত সহযোগিতামূলক প্রতিক্রিয়া
-- [[cong-confidence-asag-2026]] — আত্মবিশ্বাস-সচেতন সংক্ষিপ্ত উত্তর গ্রেডিং
-- [[choi-anchor-aes-prompting-2025]] — অ্যাঙ্কর-ভিত্তিক AES প্রম্পটিং
-- [[ai-assistance-discretionary-feedback]] — বিবেচনাধীন প্রতিক্রিয়ায় এআই সহায়তা
-- [[sequenced-ai-feedback-learning]] — ক্রমবদ্ধ এআই প্রতিক্রিয়া ও শিখন
-- [[eduframetrap-llm-sycophancy-educational-safety]] — তোষামোদ একটি শিক্ষামূলক নিরাপত্তা-ঝুঁকি: কেন এলএলএম টিউটরদের তোষামোদ-বেঞ্চমার্ক দরকার
-- [[contextual-sycophancy-ai-literacy]] — প্রাসঙ্গিক তোষামোদের লুকানো খরচ: একটি এআই-সাক্ষরতা হস্তক্ষেপ
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: স্বয়ংক্রিয় লেখন-প্রতিক্রিয়ায় পক্ষপাত
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — এআই-প্রতিক্রিয়ার গুণমানের পূর্বানুমানক হিসেবে প্রম্পট-প্রকৌশল ও মডেল-নির্বাচন (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — অভিন্ন GPT-4 প্রতিক্রিয়ায় র‍্যান্ডমাইজড উৎস-লেবেল: শিক্ষকেরা এআই-আরোপিত প্রতিক্রিয়াকে ছাড় দেন (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — সহকর্মী-দল ও এআই-উৎপন্ন প্রতিক্রিয়ার তুলনামূলক বিশ্লেষণ: উচ্চশিক্ষায় প্রতিক্রিয়ার গুণমান ও শিক্ষার্থী-উপলব্ধি নিয়ে অন্তর্দৃষ্টি
-- [[ai-assisted-physics-lab-report-assessment-2026]] — পরীক্ষামূলক পদার্থবিজ্ঞান ল্যাব-প্রতিবেদনের এআই-সহায়ক মূল্যায়ন: সম্ভাবনা, সীমাবদ্ধতা এবং শিক্ষাদান-চর্চার সহায়তা
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — শিক্ষার্থীর লেখায় এলএলএম-উৎপন্ন প্রতিক্রিয়ার ফোকাস ও শিক্ষাদানগত অভিযোজনশীলতা মূল্যায়ন
-- [[risk-adaptive-genai-feedback-programming-2026]] — প্রোগ্রামিং শিক্ষায় জেনারেটিভ এআই প্রতিক্রিয়ার জন্য একটি ঝুঁকি-অভিযোজিত ও প্রমাণ-সীমিত কাঠামো
-- [[real-time-ai-feedback-technical-skills-2026]] — রিয়েল-টাইম টিউটরে নিজ-ভাষার "Clarify" ব্যাখ্যা ও স্ক্যাফোল্ডেড খোঁচা: সমকালীন প্রতিক্রিয়াকে কী ব্যবহারযোগ্য করে (Muritala, Ahmed ও Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — শিক্ষক বনাম এআই-সহায়ক সহপাঠী-প্রতিক্রিয়া: কর্তৃত্বপূর্ণ ত্রুটি-সংশোধন ক্ষয় পায়, স্থির ফোকাস টেকে, এবং শিক্ষার্থীরা প্রত্যেকটি দিয়ে কী করে (Tang, Li ও Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — অভিন্ন প্রতিক্রিয়ায় অন্ধ-তারপর-প্রকাশিত উৎস-লেবেল: শিক্ষার্থীরা এআই-লেবেলযুক্ত প্রতিক্রিয়াকে কম রেট করে এবং কম-রেট পাওয়া মানব প্রতিক্রিয়াকে এআই পড়ে
-- [[intelligent-tutoring-mathematics-education-review-2026]] — গণিতে এআই টিউটরিংয়ের আখ্যানমূলক পর্যালোচনা: রিয়েল-টাইম প্রতিক্রিয়ার লাভ ও বাস্তবায়নের শর্ত
-- [[agent-type-feedback-style-self-directed-learning-2026]] — সক্রেটিক বনাম নির্দেশমূলক প্রতিক্রিয়া-শৈলী: প্রাধান্যের বিপরীতে বোঝাপড়া-পর্যবেক্ষণ, এবং সংজ্ঞানাত্মক ভারের খরচ
-- [[when-students-prefer-ai-scoring-feedback-2026]] — শিক্ষার্থী-অনুভূত এআই প্রতিক্রিয়ার গুণমান: বোধগম্য তবুও পুনরাবৃত্তিমূলক, যান্ত্রিকতায় আস্থা, ব্যাখ্যায় নয়
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-উৎপন্ন টিউটর-প্রশিক্ষণ পাঠ প্রতিক্রিয়া উপস্থিত থাকলে মানুষ-তৈরি পাঠের সমান হয়েছে; মানব সুবিধা দেখা গেছে কেবল প্রতিক্রিয়া ছাড়া
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 68টি অধ্যয়ন জুড়ে তিনটি মূল্যায়ন-মাত্রা, যেখানে রুব্রিক-সামঞ্জস্যই পাতলা (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157টি রেট করা প্রতিক্রিয়া-বার্তায় মানদণ্ড-স্তর ও রেটার-স্তরের বিচ্যুতি (Vanhoyweghen et al. 2026)
-
-- [[liu-educational-sycophancy-2026]] — নির্ভুলতা মিথস্ক্রিয়া-নির্ভর: চাপে 12.7 শতাংশ ফ্লিপ-হার (Liu ও Korolova 2026)
-

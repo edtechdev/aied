@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -87,46 +89,3 @@ STEM کی ساختہ علمی نمائندگی، قابلِ تصدیق جواب�
 - **"ذہین ٹیوٹرنگ پورے STEM میں یکساں کام کرتی ہے۔"** **20 مطبوعات (2020–اپریل 2026)** کے ساختہ بیانیہ جائزے نے سب سے واضح ماپا گیا فائدہ خاص طور پر **حقیقی وقت کے تشخیصی** ٹیوٹرنگ میں پایا۔ ثبوت **محدود اور مشروط** ہیں، اور انہیں تمام ریاضی ITS پر عام کرنا جائزے سے آگے بڑھنا ہے۔
 - **"نقلی ماحول عملی کام کا پھیکا متبادل ہے۔"** نقلی گروپ نے **نصاب کے مطابق STEM علم میں عملی گروپ سے زیادہ فائدہ حاصل کیا (M = 3.00 بمقابلہ 2.06؛ t(28) = 2.23، p = .034، d = 0.82)**۔ نقلی ماحول حقیقی چیز سے کم کارکردگی دکھانے والا متبادل نہیں تھا۔
 - **"AI سے معاونت یافتہ لٹریچر ورک فلو زیادہ تر وقت بچاتا ہے۔"** **80 دستاویزات میں 20 طلبہ** کے نتائج نے **تجرباتی پیرامیٹرز کے 90% سے زیادہ استخراج، لٹریچر ریویو کے وقت میں تقریباً 65% کمی، اور بااثر کام کی شناخت کی طالب علم کی صلاحیت میں 50% اضافہ** دکھایا۔ قابلیت کا فائدہ بڑا نتیجہ تھا اور وقت کی بچت چھوٹا۔
-
-## منسلک تصورات
-- [[learner-identity]] — ترقی پذیر ضابطگی، پیشہ ورانہ، تخلیقی اور علمی سیکھنے کی شناخت
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — کیمسٹری کی تعلیم اور AI: لیبز، تشکیلاتی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب میں تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص ٹولز
-
-## منسلک مضامین
-- [[ai-pedagogical-accompaniment-amico]] — STEM شناخت کو سہارا دینے والی AI سے فعال تدریسی سنگت
-- [[lnenicka-secondary-students-genai-stem-2026]] — STEM کے مختلف شعبوں میں ثانوی طلبہ اصل میں GenAI ٹولز سے کیا کرتے ہیں
-- [[dai-chatbots-problem-posing-primary-2026]] — ابتدائی سائنس میں GenAI چیٹ بوٹس اور مسئلہ پیش کرنا
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM میں تفتیش پر مبنی سیکھنے کے لیے ChatGPT
-- [[niri-steam-ai-literacy-review-2026]] — AI خواندگی کے لیے STEAM تعلیم: منظم جائزہ
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — گہری سیکھنے کے لیے موافق AI پر مبنی STEM پروگرام
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — پری سروس اساتذہ کی ChatGPT قبولیت کے پروفائلز
-- [[zhang-ct-ai-training-test-2026]] — AI ٹریننگ میں کمپیوٹیشنل سوچ ٹیسٹ (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — ٹول، ٹیوٹر یا بیساکھی: AI سے معاونت یافتہ پروگرامنگ کا grounded theory
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — سائنس/کیمسٹری کی تعلیم میں AI کا منظم جائزہ
-- [[ai-information-extraction-undergraduate-thesis-2026]] — انڈرگریجویٹ تھیسس اور تحقیق پر مبنی سیکھنے کو سہارا دینے والا AI سے فعال معلومات کا استخراج (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — استاد-AI کے مشترکہ ڈیزائن کردہ سہاروں کے ساتھ نقلی ماحول سے معاونت یافتہ ڈرون سیکھنا
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 مطالعات میں AI سے معاونت یافتہ STEM تدریس کا مجموعی اثر، سب سے بڑے فائدے ہائی اسکول میں (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM میں ڈیجیٹل ٹوئنز: جائزہ لیا گیا ہر مطالعہ کام کرنے والا پروٹوٹائپ بھیجا، کم نے سیکھنے کو ناپا
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 45 منٹ کے پرامپٹنگ اور غلطی کی جانچ کے سیشن نے فزکس کے بعد از امتحان اسکور بڑھائے (*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — ریاضی کے ITS ثبوت محدود اور مشروط ہیں

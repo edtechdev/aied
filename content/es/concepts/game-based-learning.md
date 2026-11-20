@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -87,34 +89,3 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 **«Los efectos positivos sobre la motivación y el conocimiento se refuerzan mutuamente.»** Se miden por separado y, en la literatura más amplia, se programan por separado: la [[student-engagement|implicación y el logro]] avanzan en calendarios distintos, así que un juego que eleva la motivación intrínseca ha demostrado un resultado. Tratar el resultado motivacional como corroboración del resultado de conocimiento infla un hallazgo de dos partes en uno más fuerte de lo que el diseño respalda.
 
 **«Si un juego implica al estudiantado, el aprendizaje se sigue de la diversión.»** La diversión es el mecanismo de entrega de la repetición que el juego hace tolerable, no el mecanismo de aprendizaje. Un juego que añade implicación sin añadir práctica productiva ha añadido la parte que nunca escaseaba.
-
-## Conceptos conectados
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Marco general: pedagogías y estrategias de enseñanza en la educación en IA
-- [[virtual-and-augmented-reality]] — la práctica inmersiva y la gamificada se solapan en diseño y evidencia
-
-## Artículos conectados
-- [[ai-game-based-learning-systematic-review-2026]] — Revisión sistemática de 55 estudios de aprendizaje basado en juegos apoyado por IA: resultados positivos, una base de evidencia delgada
-
-- [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
-- [[genai-motivation-engagement-2026]] — IA generativa, motivación e implicación
-- [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabajo NASA-TLX en condiciones gamificadas y con IA
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivación ARCS y gamificación apoyada por IA
-- [[xie-genai-mystery-game-legal-education-2026]] — Juego de rol de misterio escrito por IA generativa frente a la clase magistral en educación jurídica (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Diseño y validación preliminar de un entorno de aprendizaje basado en juegos mejorado con IA para el pensamiento computacional
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — Estudiantes de primaria diseñan un juego de mesa de escape; la alfabetización en IA sube dentro de un laboratorio de curso en línea
-
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: una herramienta basada en juegos para enseñar ingeniería de prompts mediante la generación de texto a imagen en contextos de K-12

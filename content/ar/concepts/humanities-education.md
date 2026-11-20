@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -75,28 +77,3 @@ ai_assist:
 **«التحليل النقدي هو ما يهدّده الذكاء الاصطناعي أكثر، فينبغي تقييده.»** التحليل النقدي هو أيضًا ما يطوّره الاستخدام المتعمّد أكثر، حين تُصمّم المهمة لتعميقه لا تسطيحه. ونموذج [[human-in-the-loop-ai|الإنسان في الحلقة]] يضع إسهام التخصص في حكم المتعلّم لا في مخرَج الأداة.
 
 **«النموذج العام مفيد للبحث النصي كما هو للتلخيص.»** التفسير يقتضي موقف القارئ، وطبقة مساعدة تُقدّم القراءة قد أدّت الفعل التأويلي الذي وُجد التخصص لتعليمه.
-
-## المفاهيم المتصلة
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[civic-and-political-education]]
-
-## المقالات المتصلة
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — نموذج تطويري نقدي للإدراك التأويلي في تعليم العلوم الإنسانية والاجتماعية
-- [[paternalistic-filter-llm-history-education]] — استخدام النماذج اللغوية الكبيرة والاستدلال التاريخي في تعليم التاريخ
-- [[genai-impact-chinese-students-hss]] — أثر الذكاء الاصطناعي التوليدي على طلاب العلوم الإنسانية والاجتماعية
-- [[acceptance-ai-english-tools-2026]] — قبول الذكاء الاصطناعي بين متعلّمي اللغة والعلوم الإنسانية
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — تدقيق حسابي لـ15,587 وحدة فنون وعلوم إنسانية في مجموعة الثمانية (Go8): 58.6% من بنود تقييم عام 2026 عالية التعرّض للذكاء الاصطناعي، مركّزةً في المقالات والتقارير
-- [[genai-values-education-affordances-risks-2026]] — الذكاء الاصطناعي التوليدي في تعليم القيم: الإمكانات والمخاطر الأخلاقية والتبعات للتدريس (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — صيغة المهمة وتعليمات استخدام الذكاء الاصطناعي بوصفها ما يستطيع الأثر أن يشهد عليه (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — الذكاء الاصطناعي الوكيلي في تعلّم العلوم الإنسانية، والانتقال من تأليف النص إلى عزو التأويل (Capodieci وآخرون 2026)

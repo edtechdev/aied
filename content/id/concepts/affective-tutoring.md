@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -109,24 +111,3 @@ Tutoring afektif bersinggungan dengan [[hazra-safetutors-pedagogical-safety-2026
 
 - Laporkan baseline yang menjadi pembanding tingkat kemenangan Anda, dan nyatakan dengan jelas bahwa itu adalah penilaian komparatif. Lalu ukur apa yang sebenarnya dibutuhkan bidang ini: transfer ke konteks non-adaptif, retensi setelah tutor ditarik, dan apakah keuntungan bertahan ketika saluran emosional dimatikan.
 - Validasi profil afek terhadap penilaian ahli sebelum menggunakannya sebagai variabel independen.
-
-## Konsep terkait
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Artikel terkait
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — Orang melimpahkan empati ketika mereka mengira AI dapat memberikannya (Shastry & Gray 2026)

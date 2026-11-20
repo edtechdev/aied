@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -55,13 +57,11 @@ ai_assist:
 
 AI ٹیکنالوجی کے مساواتی مضمرات میں نئی پرتیں جوڑتا ہے۔ الگورتھمی تعصب پسماندہ برادریوں کے سیکھنے والوں کو غیر متناسب طور پر متاثر کر سکتا ہے، اور [[ai-literacy|AI خواندگی]] — یعنی AI کے تعصب اور خطرات کو سمجھنے، تنقیدی طور پر جانچنے اور انہیں کم کرنے کی صلاحیت — خود اس بات کا کلیدی عامل ہے کہ AI خلیجیں چوڑی کرتا ہے یا تنگ۔ [[research-methods-aied|تحقیق]] دکھاتی ہے کہ زیادہ AI خواندگی والے اساتذہ متعصبانہ نتائج کی نشاندہی اور تخفیف میں زیادہ مؤثر ہیں۔ چنانچہ AI کے دور میں ڈیجیٹل تقسیم محض تکنیکی فراہمی کا مسئلہ نہیں بلکہ انصاف اور شرکت کا سوال ہے: AI تک کون پہنچ سکتا ہے، کون اسے تنقیدی طور پر استعمال کر سکتا ہے، اور فائدہ کس کو پہنچتا ہے۔
 
-
 ادب کی ایک پرانی لڑی بتاتی ہے کہ تصور خود رسائی سے **ڈیجیٹل مساوات** کی طرف کیسے بدلا، جسے اب چار جہتوں میں بیان کیا جاتا ہے — ڈیجیٹل خواندگی، سستی، گروہ کے لحاظ سے حساس مواد، اور بنیادی ڈھانچے کی دستیابی — اور صارف AI کو تقسیم کی ایک نئی لہر کے طور پر پڑھتی ہے جو اُن صارفین کو فائدہ دیتی ہے جو پہلے ہی مشین کے نتائج کا جائزہ لینے کے قابل ہیں ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]])۔
 
 **AI کے دور کی تقسیم کو صرف سماجی و معاشی حیثیت نہیں، شخصیت بھی تشکیل دیتی ہے۔** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] نے نیدرلینڈز کے **4,497 چھٹی جماعت کے طلبہ** کے سروے اور قومی رجسٹری کے ڈیٹا کا تجزیہ کیا، اور دو واسطہ راستوں — AI کا استعمال اور ڈیجیٹل خواندگی — کو الگ کیا جو طالب علم کے پس منظر اور شخصیت کو [[learning-gains|تعلیمی کارکردگی]] سے جوڑتے ہیں۔ ان کی کلیدی دریافت کلاسیکی تقسیم کو نئے سرے سے بیان کرتی ہے: **شخصیت اور کارکردگی کے درمیان تعلق میں ڈیجیٹل خواندگی واسطہ ہے، AI کے استعمال کی شدت نہیں**، اور ایک نئی ڈیجیٹل مہارت کی تقسیم ابھرتی ہے جو **سماجی و معاشی حیثیت سے زیادہ شخصیتی خصلتوں** سے چلتی ہے۔ کارکردگی پر سماجی و معاشی حیثیت کے فوائد AI [[student-engagement|شمولیت]] سے آزاد طور پر عمل کرتے رہے۔ یہ ڈیجیٹل تقسیم کی رسائی اور سماجی و معاشی حیثیت والی فریمنگ کو پیچیدہ بناتا ہے، اور آلے و ٹول تک رسائی کے ساتھ ساتھ مہارت کی تشکیل اور مزاجی معاونت کو بھی مساوات سے متعلق اہم مقامات قرار دیتا ہے۔
 
 **اس تقسیم کی ایک [[metacognition|میٹا کوگنیشنل]] پرت بھی ہے۔** چونکہ AI سے پیداواری فائدے کے لیے [[prior-knowledge|پیشگی علم]] اور [[self-regulated-learning|خود ضابطگی]] ضروری ہے، وہ طلبہ جن کے پاس یہ پہلے سے ہیں سب سے زیادہ فائدہ اٹھاتے ہیں جبکہ جنہیں مشق کی سب سے زیادہ ضرورت ہے وہ سیکھائی خود سونپ دیتے ہیں — ایک "میٹا کوگنیشنل مساوات کا خلا" جو برابر رسائی پر بھی کارکردگی کی تقسیمیں چوڑی کر سکتا ہے ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]])۔
-
 
 اسکول میں منظم AI تدریس ایک نفسیاتی محرک ہے مگر علمی برابری پیدا کرنے والا نہیں: ہانگ کانگ کے 752 نچلے ثانوی طلبہ میں ایک سال طویل [[curriculum-design|نصاب]] نے اعتماد اور حوصلے کے خلا تنگ کیے مگر اعلیٰ اور نچلی عاملیت والے سیکھنے والوں کے درمیان معروضی AI خواندگی کے فرق کو برقرار رکھا ([[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]])۔
 **یہ تقسیم اداراتی سطح پر بھی عمل کرتی ہے۔** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] دکھاتے ہیں کہ نائجیریا کے اعلیٰ تعلیمی نظام میں AI انضمام کی صلاحیت پرانے، جنوب مغربی خطے کے اداروں میں مرکوز ہے اور باہمی طور پر مضبوط کرنے والے نیٹ ورک روابط (بین الاقوامی تعاون × صنعتی شراکت داریاں، r = 0.74) کے ذریعے بڑھتی ہے — یعنی اداراتی "محروم" (عام طور پر نئی ریاستی یونیورسٹیاں) کو انہی نیٹ ورکس میں داخل ہونے میں ساختی رکاوٹیں ہیں جو انہیں آگے بڑھنے میں مدد دیتے۔ چنانچہ ڈیجیٹل عدم مساوات صرف انفرادی سیکھنے والوں میں نہیں بلکہ اُن [[governance|اداراتی]] ڈھانچوں میں بھی دوبارہ پیدا ہوتی ہے جو طے کرتے ہیں کہ AI سے تبدیل شدہ علمی معیشت میں کون شریک ہو سکتا ہے۔
@@ -103,41 +103,3 @@ AI ٹیکنالوجی کے مساواتی مضمرات میں نئی پرتیں 
 - آلہ تقسیم کرنے کو تقسیم ختم کرنا نہ سمجھیں۔ قابلِ پیمائش خلا بیان کی مہارت، انٹرفیس کی زبان و رابطہ، اور اُن میں سے کوئی ہارڈ ویئر سے ختم نہیں ہوتا۔
 - وہ بنیادی ڈھانچہ شائع کریں جو آلہ مفروضہ بناتا ہے۔ صاف طور پر بیان کردہ ضرورت کم وسائل والے ماحول کو سرمایہ کاری سے پہلے موزونیت جانچنے دیتی ہے۔
 - مکمل تعیناتی کی لاگت نکالیں، صرف سافٹ ویئر لائسنس کی نہیں۔ ڈیجیٹل ٹوئن کا ثبوت دکھاتا ہے کہ ہارڈ ویئر کا بل مجازی بنانے کے بعد بھی رہ سکتا ہے۔
-
-## منسلک تصورات
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## منسلک مضامین
-- [[amol-ai-egovernance-digital-inclusion-2026]] — ای-گوورنس کے لیے AI: ڈیجیٹل شمولیت کے لیے زبان کی ٹیکنالوجیز کا استعمال
-- [[watanabe-genai-education-gap-europe-2026]] — کیا جنریٹو AI کے استعمال میں تعلیمی خلا انٹرنیٹ کے خلا سے چھوٹا ہے؟ (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — اداراتی ڈھانچے، ڈیجیٹل عدم مساوات اور نائجیریائی اعلیٰ تعلیم میں AI انضمام
-- [[ai-divide-ses-personality-primary-education-2026]] — ابتدائی تعلیم میں سماجی و معاشی حیثیت، شخصیت اور AI کی تقسیمیں (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: استاد بطور واسطہ ٹیوٹرنگ اُن طلبہ تک پہنچتی ہے جن کے پاس کوئی آلہ نہیں (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — اسکولی AI تعلیم نفسیاتی خلا تنگ کرتی ہے مگر علمی تیاری کے خلا نہیں
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM تک رسائی میں دستیابی کے تفاوتوں کی پیمائش اور تخفیف
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — سکافولڈ شدہ AI خواندگی (SAIL) فریم ورک
-- [[oecd-digital-education-outlook-2026]] — OECD ڈیجیٹل تعلیم آؤٹ لک 2026
-- [[aaai2026-prompting-literacy-k12]] — K-12 طلبہ کو AI چیٹ بوٹس کے ذمہ دارانہ استعمال کی تعلیم
-- [[structural-silence-underrepresented-language-ai-2026]] — ساختی خاموشی اور کم نمائندگی والی زبانیں
-- [[sec-ai-literacy-narrative-review-2026]] — AI خواندگی میں سماجی جذباتی قابلیت
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — کثیر لسانی کم وسائل سیاق و سباق کے لیے AI پر مبنی اڈاپٹیو سیکھائی پلیٹ فارم
-- [[ai-science-chemistry-education-systematic-review-2025]] — سائنس/کیمیا کی تعلیم میں AI کا منظم جائزہ
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO کی AI رہنما ہدایات کا کیمیا کی تعلیم میں ترجمہ؛ علمی بہاؤ
-- [[lodge-loble-cognitive-offloading-2026]] — AI، علمی بوجھ اتارنا اور تعلیم کے لیے مضمرات (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — سوشلسٹ انسانیت پسند AI خواندگی + منصفانہ استعمال
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: دیہی روبوٹکس کی رسائی آلے کی رسائی کے بجائے رہنمائی کے جغرافیے کی پیروی کرتی ہے (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — ڈیجیٹل عدم مساوات بطور تقسیمی مسئلہ بمقابلہ الگورتھمی نوآبادیات بطور علمی مسئلہ، جنوبی افریقہ کے HDIs میں
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: تعلیمی مساوات کی طرف کم لاگت گھریلو زبان سیکھائی کے لیے مقامی اولیت والا AI ایجنٹ فریم ورک
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — ڈیجیٹل ٹوئن تجربہ گاہیں ایک سازوسامان کا بل ساتھ لاتی ہیں جو بیک وقت رسائی کو محدود کرتا ہے

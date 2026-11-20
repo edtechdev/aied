@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-10-07"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 **Snorkl** is a K-12 classroom tool that asks students to explain their thinking aloud and on a whiteboard, then returns AI [[formative-assessment|formative feedback]] on those explanations — celebrating the approach and prompting a next step, rather than issuing a grade. The design choice is the point: the student produces the reasoning, and the model responds to it, the opposite of an [[intelligent-tutoring|answer-generating tutor]].
@@ -38,6 +39,3 @@ K-12 teachers who want to hear the reasoning behind an answer, and administrator
 ## Notes and caveats
 
 Every capability claim here is the vendor's own marketing, including "trusted in 10,000+ schools worldwide", which a district should check against its data processing agreement. The vendor states that it strips personal identifiers before sending work to OpenAI under an agreement not to retain or train on it, shows students no advertising, never sells data, and holds iKeepSafe and Common Sense Privacy certifications. Snorkl also states plainly that it does not grade: it scores explanations against teacher-specified criteria as formative feedback, and the teacher keeps grading. Treat those AI judgments as formative signals subject to the usual validity and bias questions, and the environmental commitment as stated intent, not a measured offset.
-
-## Connected Concepts
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -43,9 +44,3 @@ Undervisere som vurderer om de skal la et vurderingsverktøy slippe karakterer u
 ## Merknader og forbehold
 
 GradeBench publiseres av Pensive, en kommersiell AI-vurderingsplattform, så benchmarken og produktet deler eier; oppgavekonstruksjonen er dokumentert og forsvarlig, men behandle innrammingen som leverandørens. Den dekker STEM-eksamener med rubrikker på minst fire elementer, noe som utelater essays, kortsvar og diskusjonsinnlegg — formatene der det meste av vurderingsarbeidet i [[humanities-education|humaniora]] skjer. Eksakt rubrikktreff er et strengt mål: to sensorer kan være uenige om et element og begge ha rett om studenten. Poengsummene beskriver modellversjoner som var tilgjengelige i november 2026, og vil endre seg.
-
-## Tilknyttede begreper
-
-- [[automated-assessment]] — praksisen benchmarken måler
-- [[assessment-validity]] — kriteriet en leaderboard-poengsum er en proxy for
-- [[benchmark]] — den bredere klassen av instrumenter denne tilhører

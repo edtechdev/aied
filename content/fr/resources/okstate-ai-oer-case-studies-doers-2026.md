@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -42,11 +43,3 @@ Aux personnels des [[educational-policy-ai|politiques]] et aux responsables des 
 ## Remarques et réserves
 
 Le piège est celui des licences par chapitre. Le recueil est sous CC BY 4.0, mais chaque auteur conserve ses droits et a choisi sa propre licence Creative Commons, si bien qu'un chapitre peut être plus restrictif que la page du livre ne le suggère ; le chapitre sur la révision du manuel est sous CC BY-NC-SA 4.0, et toute réutilisation doit vérifier le chapitre plutôt que les pages liminaires. Les auteurs n'avaient pas de procédure de déclaration d'usage de l'IA, donc la plupart des chapitres décrivent leur processus au passage, en suivant généralement les recommandations d'OER Commons. Par choix éditorial, chaque chapitre conserve la voix disciplinaire de son auteur, sa ponctuation et son orthographe régionale, de sorte que la prose n'est pas uniforme. Surtout, chaque chapitre documente un projet local et deux chapitres ne partagent ni instrument ni comparaison : le volume offre une pratique à adapter plutôt que des preuves à citer.
-
-## Concepts liés
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

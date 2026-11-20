@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -70,40 +72,3 @@ ai_assist:
 - **「誤りは現れれば明らかである。」** 手書きの数学を診断するAIは、**確信を主張しながら、存在しない証拠の引用をでっち上げる**ことがありました。失敗はもっともらしいが誤った答えではなく、確信とともに提示された捏造された裏づけであり、注意深い読み手がまさに求める証拠のように読めるため、最も捕まえにくい種類のものです。
 - **「引用のない出力は書式の問題である。」** 市販の教科書をAI生成の読解資料に置き換えた大学院のコースでは、**4,487ページの記録のうちAPA形式の本文中の引用を含んでいたのは約0.80%**だけでした。それは時折の省略ではなくコーパス水準の出自の不在であり、検証に出発点がないことを意味します。
 - **「ハルシネーションは新しいモデルが解決するモデル世代の問題である。」** その率の幅は125研究にわたって10〜40%であり、モデルと同じくらい課題と配備の性質です。率の低下は確かな進歩ですが、読み手が点検できなければならないことを変えはしません。
-
-## 関連概念
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## 関連記事
-
-- [[sim-ai-summary-memory-distortion-2026]] — 誤解を招くAIの要約が成人の動画に対する記憶を歪め、AIか人間かの表示はそれを防がなかった
-- [[frontiers-gai-hallucination-dependence-2026]] — GAIの対話をでっち上げとして標識づけることは、信頼と依存を共に下げた
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 信頼性の手がかりがAIの出力への追従を高め、引用された事例のいくつかは誤帰属あるいは架空でした
-- [[ivory-psychology-assessment-integrity-2026]] — 合格可能な学生の成果物の中のでっち上げの引用と自己矛盾する出力(Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS:概念的レベルで誤った、流暢でもっともらしい説明(Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 隠されたプロンプト・インジェクションがAI採点の評定を検出されずに上げ、検出された攻撃は報告されない(Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — 生成AIを用いた真正な評価の設計:高等教育における評価Authentifireのパイロット研究
-
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 次世代の文献レビュー:新任研究者のための実践的なAIガイド

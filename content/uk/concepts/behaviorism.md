@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -94,27 +96,3 @@ ai_assist:
 **«Біхевіористські дизайни просто гірші за конструктивістські.»** Вони добре пасують до конкретних цілей — плинності, фактичного пригадування, процедурної автоматичності — де негайний зворотний зв’язок і повторення справді є тим, що вимагає завдання. Помилка не в механізмі; вона в застосуванні механізму, чия умова валідності (здобувач має продукувати реакцію) тихо перестала виконуватися.
 
 **«Оскільки теорія дискредитована, системи, побудовані на ній, можна судити лише за результатами.»** Результати — саме те, що еквівалентність результату псує. Система може звітувати про відмінні поведінкові результати, тоді як навчання перемістилося в інше місце, тож системи з біхевіористським впливом потребують недопоміжної міри більше, ніж будь-який інший тип.
-
-## Пов’язані поняття
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Когнітивізм, третій класичний полюс теорії навчання
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Пов’язані статті
-
-- [[ai-vocational-education-training-review]] — Біхевіористські конструкції ШІ домінують у практиці VET попри сповідуваний конструктивізм; «пастка Тюрінга»
-
-- [[sequenced-ai-feedback-learning]] — Послідовний зворотний зв’язок із підказками поступився негайному повному рішенню в рандомізованому експерименті на 199 учасниках
-
-- [[generativism-learning-theory]] — Біхевіоризм серед чотирьох домінантних теорій, переосмислення яких спонукає генеративний ШІ
-- [[ccct-cooperative-learning-technique]] — Біхевіоризм, згаданий у конструкції кооперативного навчання для вищої освіти
-- [[wang-multi-agent-systems-learning-designers-2025]] — Біхевіористська персона серед підходів колаборативного мультиагентного конструкціювання

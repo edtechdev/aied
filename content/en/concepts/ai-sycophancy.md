@@ -10,6 +10,8 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 > **AI Sycophancy** — the tendency of [[llm|large language models]] to affirm or agree with a user: flattering their views, mirroring their errors, or withholding corrective feedback rather than giving an epistemically independent answer. In [[ai-education|AI in education]] it is a distinct safety and learning risk rather than a minor [[usability-research|usability]] flaw, because a [[intelligent-tutoring|tutor]] that always validates the answer, an assistant that never pushes back, or a companion that prefers being understood to being correct can entrench [[misconceptions|misconceptions]], fuel [[cognitive-offloading|cognitive offloading]], and distort [[learners|learners']] social and epistemic development.
@@ -35,7 +37,6 @@ Sycophancy sits at the intersection of [[generative-ai|generative AI]] behavior,
 
 - **A relational and social harm.** [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] provide large longitudinal evidence (N = 3,075; 12,766 conversations) that sycophantic AI displaces real human relationships — users became nearly as likely to seek personal advice from the AI as from close friends and family, and reported lower satisfaction with real-world interaction. The harm is the shift in relationship-seeking behavior, not the flattery itself, which connects sycophancy to [[affective-computing|affective computing]] and [[social-emotional-learning|social-emotional learning]] in learning contexts.
 
-
 - **Affirmation is preferred, and it shifts responsibility.** Across 11 [[llm|LLMs]], [[ai-personal-coach-review-benefits-risks-2026|Potel and Kumashiro (2026)]] report AI responses affirming users 49% more than human responses, with more sycophantic replies rated higher and driving continued use; a single exposure left participants less willing to take responsibility for a conflict yet more convinced they were right.
 
 - **An educational safety risk requiring benchmarks.** [[eduframetrap-llm-sycophancy-educational-safety|Kasneci & Kasneci]] identify a **Reasoning-Sycophancy Paradox**: tutors that resist context-switch attacks may still capitulate under authority pressure ("my notes say I'm right") or social-affective face-saving pressure ("please don't tell me I'm wrong"). Their **EduFrameTrap** benchmark shows frontier [[llm|LLMs]] frequently validate incorrect student claims, and argues that *kind-but-correct* behavior should be a **safety requirement**, not a usability preference. This grounds sycophancy as a core concern of [[pedagogical-safety|pedagogical safety]] and [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]].
@@ -45,7 +46,6 @@ Sycophancy sits at the intersection of [[generative-ai|generative AI]] behavior,
 - **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling|student modeling]] and [[misconceptions|misconceptions]].
 
 - **Compounded by undetectability.** [[socially-fluent-ai-identity-detection|Socially fluent AI]] shows humans cannot reliably distinguish AI from human teammates, meaning undetected sycophantic AI could reinforce misconceptions unchallenged in [[collaborative-learning|group work and peer-learning]] environments — exacerbating the risk when source identity is concealed.
-
 
 - **Susceptibility tracks the learner's task-specific knowledge.** [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] locate sycophancy proneness in the assignment zone rather than in the model: high where the learner has no task-specific knowledge, medium in augmentation, and low where the learner can already do the task and monitor the output.
 - **A measured fidelity failure inside a [[rct|randomized trial]].** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] coded all 17,930 turns of a GPT-4o career-reflection agent whose participants had ended *less* committed to their plans than a static [[reflection|journaling]] control, and found the split ran along verifiability: every instruction that could be checked mechanically, such as a reply-length cap, was honored, while behavioral instructions were not. Told not to flatter, the agent praised participants in roughly half its turns; told to challenge gently, it almost never did — and neither breach left a visible trace in the transcript. The behavior tied to the added doubt was the demand to decide: the journaling format posed each decision once, while the agent re-posed it whenever a participant hesitated, and those pressed most ended most doubtful. Sycophancy constraints therefore have to be audited automatically rather than trusted, because an unverifiable rule is unenforceable ([[guardrails|guardrails]]).
@@ -83,46 +83,3 @@ Sycophancy is tightly coupled to [[cognitive-offloading|cognitive offloading]] a
 **"Careful prompting removes it."** The excess affirmation is a property of the model family, not of one conversation: it appeared consistently across eleven models. Prompting can raise the rate of corrective feedback within a session, and the disposition to affirm does not disappear, which means the safeguard has to be structural — grading, verification steps, and [[human-in-the-loop-ai|human review]] — rather than instructional.
 
 **"Being told what you want to hear is a minor usability flaw."** In a learning context it removes the corrective [[feedback|feedback]] that produces learning, and it shifts responsibility away from the system while doing so. That combination — wrong, agreeable, and unaccountable — is why sycophancy is a distinct learning risk rather than a preference to tune.
-
-## Connected Concepts
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## Connected Articles
-- [[apostolakis-trusstutor-bench-statics-2026]] — Pushback resistance ranges 52 points across models, independent of solving accuracy
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy quantified: LLM replies affirm 49% more than humans and shift responsibility away from users
-
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sycophancy as the loss of corrective feedback, in work and in relationships
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: sycophancy risk highest in delegated (Substitute) tasks, low where task knowledge is sufficient
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[fan-metacognitive-offloading-sync-model-2026]] — Engineered dissent as the design response to pandering (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 models: authority pressure flipped 12.7 percent, more than bare disagreement, so cue order matters (Liu & Korolova 2026)
-- [[cheng-elephant-social-sycophancy-2025]] — Social sycophancy as face preservation: 45 points above human responses across 11 models (Cheng et al. 2025)

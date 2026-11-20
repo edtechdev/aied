@@ -25,6 +25,7 @@ ai_assist:
 translation_of: resources/okstate-ai-oer-case-studies-doers-2026
 source_updated: "2026-10-28T19:59:58-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -42,11 +43,3 @@ AI + OER Case Studies는 Kathy Essmiller가 편집하고 Oklahoma State Universi
 ## 참고사항과 유의점
 
 장별 라이선스가 함정입니다. 선집은 CC BY 4.0이지만 개별 저자가 저작권을 보유하고 각자 크리에이티브 커먼즈 라이선스를 골랐으므로, 한 장이 책 표지가 시사하는 것보다 더 제한적일 수 있습니다. 교재 개정 장은 CC BY-NC-SA 4.0이며, 재사용 시 앞부분이 아니라 해당 장을 확인해야 합니다. 저자들에게 요구된 AI 공개 절차가 없었으므로 대부분의 장은 자기 과정을 지나가듯 논하며, 대체로 OER Commons 지침을 따릅니다. 편집 방침상 각 장은 저자의 학문적 목소리와 구두점, 지역 철자를 유지하므로 산문이 일관되게 읽히지는 않습니다. 무엇보다 모든 장이 하나의 지역 프로젝트를 기록하고 어느 두 장도 같은 도구나 비교를 공유하지 않으므로, 이 책은 인용할 증거가 아니라 각색할 실천을 제공합니다.
-
-## 연결된 개념
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

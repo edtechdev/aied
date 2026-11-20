@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -43,7 +44,3 @@ Das deutlichste Beispiel ist `teach`, das über mehrere Sitzungen läuft und das
 ## Was vor der Einführung zu wissen ist
 
 Alles ist unter MIT [[open-source|Open Source]] und frei als Ausgangspunkt für lokale [[ai-literacy|KI-Kompetenz]] oder [[self-directed-learning|selbstgesteuertes Studium]] zu nehmen. Die Annahme ist groß und schnelllebig: etwa 270.000 Sterne und 23.000 Forks bei der Prüfung im September 2026, mit dem jüngsten Commit am 18. September 2026. Der Vorbehalt ist der Rahmen. Die Skills setzen den Arbeitskontext eines [[human-ai-collaboration|Ingenieurs]] voraus, sie sind in die Rubriken Engineering, Produktivität, veraltet und in Arbeit gegliedert, sodass manche Einträge ausdrücklich unfertig oder stillgelegt sind, und die README dient zugleich als Newsletter-Anmeldung. Behandeln Sie die Lehr- und Befragungs-Skills als den übertragbaren Teil, und rechnen Sie damit, jeden davon umzuschreiben, bevor Sie einen Lernenden vorsetzen.
-
-## Verbundene Konzepte
-
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -105,48 +107,3 @@ ai_assist:
 - مشق صرف درستی پر نہ روکیں۔ روکنے کی شرط کو اپنی الگ مہارت کے طور پر ماڈل کریں، ورنہ نظام حد سے زیادہ عمومیت کی تصدیق کر دے گا۔
 - تناسب کو مستقل نہیں، پیرامیٹر رہنے دیں، کیونکہ شواہد کہتے ہیں کہ بہترین توازن مواد پر منحصر ہے۔
 - بتائیں کہ آپ کا معیار کس تصور کی پیمائش کرتا ہے، اور اُس سے الگ بتائیں کہ آپ کی تصدیق کس تصور کی پیمائش کرتی ہے۔
-
-## منسلک تصورات
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## منسلک مضامین
-
-- [[competent-generative-ai-use-measures-review-2026]] — باکفایت تخلیقی AI استعمال کے اقدامات کا جائزہ اور تلاشی میٹا تجزیہ (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — درستگی جو نامکمل قاعدے کو چھپا دے: انطباقی سیکھنے میں مہارت کے رکنے کے قاعدے (An, McLaren اور Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — LLM کی طالب علم جانچ میں آبادیاتی اشاروں کا پِچھلی حالت والا آڈٹ (Rooein, Benedetto اور Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554 کورسز کی 29,064 سرگرمیوں پر Markov زنجیریں اور نمونہ کان کنی (Divjak, Svetec اور Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — AI سے جڑی منتقلی کے لیے رازداری بچانے والا، غیر تشخیصی خود جائزہ (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — صفر شاٹ حکمرانی: پالیسی میں عام مقصد والا AI، Redbox کوڈ بیس سے پڑھا گیا (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — بہترین مثال اور مسئلے کا تناسب مواد پر کیوں منحصر ہے (Rachatasumrit, Koedinger اور Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — اساتذہ محدود ماہر چیٹ بوٹ ڈیزائن کرتے ہیں، تدریس کی منتخب تفویض کے ساتھ (Reichert وغیرہ 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — فیکلٹی کی GenAI TPACK: مضبوط مواد کا علم، کمزور ٹیکنالوجی میں پیوست علم (Sutedjo, Chowdhury اور Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: بڑے پیمانے پر انسانی اور AI کی براہِ راست ٹیوٹرنگ کا بے ترتیب آزمائشی مطالعہ (Wang وغیرہ 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 ماہرین کا پہلے سے رجسٹرڈ Delphi کہ GenAI کن سیکھنے کے عملوں کو بڑھاتا ہے اور کن کو خطرے میں ڈالتا ہے
-- [[three-pathways-student-ai-interaction-2026]] — طالب علم اور AI تعامل کی ایک درجہ بندی: 64% غیر فعال یا لین دین والا، 36% حکمتِ عملی پر مبنی مکالمہ
-- [[agent-type-feedback-style-self-directed-learning-2026]] — ایجنٹ کی قسم نے نہیں، فیڈبیک کے انداز نے خود ضابطگی والی شمولیت کو حرکت دی
-- [[metacognitive-processes-genai-interaction-logs-2026]] — عمل کا ثبوت چینل کی شرط پر ہے
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — GenAI استعمال کی تقسیم ایک ادارہ جاتی انتخاب ہے
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — شخص کے اندر انحصار سمجھی گئی ایجنسی میں کمی سے پہلے آتا ہے
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — تاخیری تسلسلی تجزیہ اور عمل کی کان کنی نے AI کو، پیشگی تصورات کی ترکیب کے لحاظ سے، گروہی تعامل کے مرکز یا خطی راستے پر رکھا (Wang وغیرہ 2026)

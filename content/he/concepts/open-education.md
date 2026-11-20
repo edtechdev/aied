@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -90,39 +92,3 @@ ai_assist:
 **"AI מוזיל תוכן עד כדי כך ש-OER מתייתר."** הקריאה ההפוכה זמינה ומבוססת יותר. אם היצירה כמעט חינם, הסחורה הנדירה הופכת להיות הרישיון, שרשרת הייחוס, תהליך הביקורת והפלטפורמה המתוחזקת. לכן הספרות הזו מתכנסת על ממשל ותשתית ולא על ייצור.
 
 **"הוספת כלי AI למטלה פתוחה משפרת את הלמידה."** המבחן הכמעט-ניסויי היחיד כאן מצא צמיחה נתפסת במיומנות בשתי הזרועות בלי הבדל שניתן לזהות ביניהן, לצד השלמה גבוהה יותר וציונים נמוכים במעט בכיתת ה-AI. AI שינה את מה שהסטודנטים הפיקו ולא שינה את מה שדיווחו שלמדו.
-
-## מושגים מקושרים
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## מאמרים מקושרים
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — חמש מסגרות ל-OER כשהבינה המלאכותית היוצרת נכנסת לייצור (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER כמשאב ציבורי דיגיטלי והטיעון בעד תשתית בניהול ציבורי (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — מדוע עשרים וחמש שנות פתיחות הותירו את הליבה המוסדית שלמה (Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — פדגוגיה פתוחה עם כלי AI ובלעדיהם בשתי כיתות של קורס (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — ארבעה עשר מודלים של פרקטיקה חינוכית פתוחה והיכן יושב ה-AI בהם (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — אוריינות AI של מורים ופרקטיקת הוראה פתוחה ב-30 מחוזות בסין (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — מסגרת בת שבעה עמודים לשילוב אחראי של OER ו-AI (Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — חונכות והפקת OER מבוסס AI במעבדה וירטואלית (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — רובריקה בת שבעה עקרונות לבדיקת OER של אוריינות AI (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — אינטראקטיביות ב-OER כטיעון עיצובי ולא כממצא (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — שיתוף פעולה בינלאומי בחינוך פתוח כמקרה אינסטרומנטלי (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — ממליץ היברידי ל-OER מול בסיס חזק מכפי שנטען (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — טרנספורמציה דיגיטלית בלמידה פתוחה כטרנספורמציה פדגוגית (Panda, 2026)

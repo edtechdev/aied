@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -84,45 +86,3 @@ Kerangka itu berfungsi sebagai uji, bukan katalog. Tiga pertanyaan menentukan fu
 - **"Simulasi lebih murah dan karenanya pilihan kedua."** Sim-pilot [[llm|LLM]] otonom **menggantikan pemain peran manusia spesialis yang mengisi simulasi pengendalian lalu lintas udara, menghapus hambatan kapasitas pelatihan** — kendalanya adalah kepegawaian, bukan kesetiaan. Di tempat pemain peran manusia langka, simulasi LLM bukan pengganti melainkan satu-satunya opsi yang tersedia.
 - **"Simulator seharusnya berperilaku seperti kasus rata-rata."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] memasangkan agen kebijakan dengan **simulator pasien LLM yang dibangun untuk berperilaku adversarial**. Simulator yang dirancang kooperatif membuat latihan siswa lebih mudah daripada klinik, yang merupakan kebalikan dari apa yang dibutuhkan pelatihan.
 - **"Skenario yang diskripkan mengajarkan pengambilan keputusan di bawah ketidakpastian."** Agen kontekstual multi-agen SupplyNet menghasilkan **dinamika yang muncul dari keputusan siswa alih-alih urutan yang diskripkan**. Skenario yang diskripkan melatih jalur yang diketahui; yang emergen melatih keputusannya.
-
-## Konsep terkait
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimentasi
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
-- [[ai-technologies]] — Payung: Teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-- [[ai-avatars-and-synthetic-instructors]]
-- [[virtual-and-augmented-reality]] — modelnya, bukan modalitasnya — lingkungan imersif biasanya merender sebuah simulasi
-
-## Artikel terkait
-- [[learner-agency-ai-simulation-2026]] — Kendali parameter dan agen AI opsional dalam simulasi sistem kompleks: perolehan mengikuti pelaksanaan, bukan akses
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Pasien Virtual Adaptif untuk Pelatihan Psikoterapi
-- [[ai-enabled-serious-games]] — Gim Serius Bertenaga AI
-- [[anvil-ai-educational-animations]] — ANVIL: Analogi dan Video untuk Dosen
-- [[astra-atco-training-simulator]] — ASTRA: Simulator Pelatihan ATCO
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Pembelajaran Eksploratif Visual
-- [[medeasy-ai-standardized-patients]] — MedEASY: Pasien Terstandardisasi AI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Gim bermain peran yang dimediasi robot untuk intervensi pengamat perundungan (drama terapan)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Tinjauan sistematis GenAI dalam pendidikan kesehatan berbasis skenario (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Kerangka CAIS-GBL untuk agen percakapan AI dalam gim simulasi bisnis (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agen LLM spesifik-peserta yang disetel halus untuk mereproduksi dialog pemecahan masalah kolaboratif (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Tolok ukur sintetis ASTRA untuk tutoring multi-agen dan kolaborasi yang seimbang partisipasinya
-- [[simulation-assisted-drone-learning-stem-2026]] — Pembelajaran drone berbantuan simulasi dengan perancah hasil kodesain guru-AI
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulasi bertenaga AI dalam keperawatan: tinjauan sistematis metode campuran (kesenjangan keaslian, kontinum bertahap)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Pelatihan komunikasi klinis berbasis AI yang dapat diskalakan dan penilaian otomatis
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Kembaran digital dalam pendidikan STEM: semua prototipe berfungsi, perolehan belajar sebagian besar tidak
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorium virtual berbantuan AI untuk pembelajaran fisika terbalik: efek pada capaian, motivasi, dan beban kognitif siswa sekolah menengah
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Kerangka empat lapis yang memisahkan praktik yang direpresentasikan, situasi yang disimulasikan, agency dan adaptasi, serta orkestrasi
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — Dari adopsi teknologi ke koherensi kurikuler: simulasi yang ditingkatkan teknologi sebagai jembatan dalam pendidikan profesi kesehatan
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Apa yang tidak dapat didelegasikan guru kepada agen percakapan sepanjang siklus simulasi

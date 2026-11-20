@@ -24,6 +24,8 @@ ai_assist:
 translation_of: concepts/sensor-and-gaze-analytics
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -122,41 +124,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 **“参与是一件事，所以一个分数就能代表它。”** 这一构念有三条脉络，而传感器主要触及第一条。E3Sense 发现学习者以不同比例通过认知、行为与情绪指标来定义它，而这些定义改变了预测（[[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan 等人，2026]]）。单一数字掩盖了被测量的是哪一层。
 
 **“如果模型在验证划分上公平，它在课堂上就公平。”** 一个在性别组之间拉平验证误差的正则项，让留出集上的差距变得更糟（[[student-attention-estimation-fairness-2026|Fragkiadakis 等人，2026]]）。公平性是部署的属性，不是检查点的属性。
-
-## 关联概念
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## 关联文章
-- [[nissan-nursing-empathy-computer-vision-2026]] — 身体接触检测追随观察者评定的共情，微笑检测则反转，目光接触与热图为空结果（Nissan 等人，2026）
-- [[gaze-informed-ai-children]] — 注视触发的 LLM 叙述让儿童在有叙述的区域停留 6.48 秒，对照为 1.67 秒，但该研究测量的是注意而非理解（Wu 等人，2026）
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 头戴式 EEG、眼动追踪与额部 EDA 以 75.0% 的差一级以内准确率预测自评参与，基线为 63.0%（Anupkrishnan 等人，2026）
-- [[engagement-assessment-video]] — EduGage 把七路可穿戴与摄像头数据流融合为片段级参与估计（MAE 0.81），并主张更轻量的仪器（Leng 等人，2026）
-- [[student-attention-estimation-fairness-2026]] — 一个多模态注意模型达到 MAE 0.283，其验证集上的公平性增益在留出受试者上反转（Fragkiadakis 等人，2026）
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 可穿戴 AI 具有双重透明性，因此物理隔离失效，执法漂向裁决学生的身体（Corbin 等人，2026）
-- [[eeg-familiarity-automated-assessment-2026]] — 十五个 EEG 熟悉度预测模型在与试次无关的验证下从 0.9853 跌至 0.6038 F1（Nanayakkara 与 Halloluwa，2026）
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG 重建的图像在 R² = 0.79 上追踪测验表现，其中一名高重建质量的参与者作答错误（Su 等人，2026）
-- [[physiological-signals-exam-outcomes-ml]] — 随机森林从 EDA、运动与皮肤温度预测考试成绩类别，这些信号标示的是唤起而非理解（Yamazaki 与 Rimal，2026）
-- [[affective-text-wearable-student-health]] — 在 458 名佩戴 Oura 的学生中，情感语域而非关切主题追踪了睡眠与心率变异性（2026）
-- [[tutorloop-sensor-cognitive-feedback-2026]] — 网络摄像头注视驱动了面向 187 名学习者的强化学习反馈；注意与学习的相关为 r = 0.017，工作负荷呈负相关（2026）
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 姿态特征在专门构建的标注集上以 99.56% 标记可疑行为，未检验不当行为或公平性（Arif 等人，2026）
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 在 54 名参与者中，EEG 连接随外部写作支持而下降，把依赖框定为累积的认知债务（Kosmyna 等人，2025）
-- [[kim-ai-embodied-learning-review-2026]] — 在 23 项研究中，传感类角色以 62.5% 的标签占主导，且没有受综述的系统实时融合多模态数据流（Kim 与 Han，2026）

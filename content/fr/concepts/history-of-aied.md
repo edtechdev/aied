@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -101,30 +103,3 @@ L'arrivée de l'[[generative-ai|IA générative]] — une large famille qui incl
 
 - Utilisez les actes historiques comme référence plutôt que de traiter le présent comme la seule comparaison disponible. Les actes d'AIED pour 1985, 1993, 2021 et 2024 et ceux d'IJAIED pour 2004, 2014 et 2021 constituent un échantillon longitudinal tout prêt des propres affirmations du champ.
 - Citez la lignée lorsque vous revendiquez une nouveauté. Une affirmation selon laquelle un système « personnalise l'apprentissage » ou « modélise l'apprenant » n'est nouvelle que par rapport à une tradition antérieure précise, et cette tradition est documentée.
-
-## Concepts liés
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Articles liés
-
-- [[mishra-control-vs-agency-history-2025]] — Contrôle contre agentivité : explorer l'histoire de l'IA en éducation
-- [[prezenski-human-centered-ai-aided-learning]] — Apprentissage assisté par IA centré sur l'humain (prolonge l'héritage d'Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Les communs cognitifs et l'expertise en IA (cadrage historique)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiter le bouton d'indice dans les tuteurs cognitifs
-- [[socrates-students-instructors-llms-lbt-2025]] — L'apprentissage par l'enseignement avec les LLM (la lignée constructiviste de Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Cinquante ans de thématiques de Computers & Education : la prévalence de l'IA a basculé à la hausse après 2018, quatre ans avant ChatGPT

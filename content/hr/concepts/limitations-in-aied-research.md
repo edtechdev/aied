@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -125,48 +127,3 @@ Dvije specifične prakse izvješćivanja napuhuju ili iskrivljuju sintezu, a obj
 - **„Odjeljci o ograničenjima su šablonski.“** Metodološka ograničenja **mjerljiva su, a ne impresionistička**: u kritičkom pregledu **80 HCI studija** kritičkog mišljenja s umjetnom inteligencijom **42 (52 %) nije imalo kontrolnu skupinu**. Precizan broj je ono što ograničenje čini primjenjivim.
 - **„Heterogenost je jedan broj koji možete citirati.“** Isti pregled pokazuje opasnost u izvješćivanju: heterogenost se navodi kao **I² = 82,98 % u modelu s fiksnim učinkom i I² = 15,75 % u modelu sa slučajnim učincima**. Isti podaci daju priču od devet bodova ili priču od dva boda, ovisno o odabranom modelu, pa je navedeni I² bez modela netumačljiv.
 - **„Velik prijavljeni učinak broj je kojemu treba vjerovati.“** Naslov poput učinka iz **30 studenata na jednom kolegiju na jednom mjestu** uobičajen je oblik krhke tvrdnje, a broj studija bez kontrolnih skupina pokazuje kako često ta krhkost ostaje neizviještena.
-
-## Povezani koncepti
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Razvoj teorije u umjetnoj inteligenciji u obrazovanju
-
-## Povezani članci
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Pouzdanost i valjanost zlatnog standarda u evaluaciji
-- [[ai-literacy-assessment-misalignment]] — Samoprocjena prema izvedbi utemeljena pismenost u području umjetne inteligencije
-- [[machines-misread-pedagogical-quality]] — Zašto strojevi pogrešno čitaju pedagošku kvalitetu
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Kritičke granice UI tutora i upotrebe teorije
-- [[cross-dataset-bloom-question-classification]] — Bloomova taksonomija i klasifikacija pitanja
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT u obrazovanju: učinak u potrazi za uzrokom (kritika usporedbe medija)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Metaanaliza metaanaliza: UI učinci ispravljeni za pristranost objavljivanja ~1/3 prijavljene veličine
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: empirijski okvir izvješćivanja za sustavne preglede potpomognute umjetnom inteligencijom
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kriteriji uključivanja kao prag rigoroznosti i brojka heterogenosti koja se mijenja s modelom (Doğan i sur. 2026.)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Klaster-randomizirano razredno ispitivanje čiji ishod izvedbe nije dosegnuo značajnost (Rücker i Becker-Genschow 2025.)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping pregled 195 studija obrazovanja nastavnika u kojem dizajn pretraživačkog niza oblikuje prijavljene frekvencije
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Međunacionalna anketa nastavnika K-12: strojno prevedene čestice, pojedinačne mjere zabrinutosti, bez testiranja invarijantnosti
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Sustavni pregled 103 studije generativne umjetne inteligencije u visokom obrazovanju: 56 % uvjetnih dobitaka, ocjene prikrivaju promjenu procesa (Hawi i Samaha 2026.)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Proširenje podataka može proizvesti naslovnu metriku

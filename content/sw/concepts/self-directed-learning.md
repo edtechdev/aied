@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -55,7 +57,6 @@ Kujifunza kwa kujiongoza mwenyewe ni jirani wa karibu wa [[self-regulated-learni
 
 Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa kuilinda unazingatia kuhifadhi [[agency]] na uwezo binafsi badala ya kudhibiti tu tabia ya wakati mmoja. Ushahidi kwamba matumizi ya AI bila kufikiri yanadhoofisha motisha na uwezo binafsi — rasilimali za kisaikolojia ambazo SDL inategemea — unapendekeza kuwa kukuza [[ai-literacy|matumizi ya AI yenye uwajibikishaji]] si suala la uadilifu tu bali la maendeleo: kulinda uwezo wa wanafunzi wa kuelekeza kujifunza kwao wenyewe.
 
-
 ## Utafiti wa Ngazi za Msaada za Utoaji wa AI katika Kujifunza Kulingana na Utafiti
 
 - **Utoaji wa AI kama ngazi za msaada kwa kujifunza kulingana na utafiti.** An na wenzake (2026) wanabuni mfumo wa utoaji wa taarifa unaotumia AI ambao hubadilisha machapisho ya utafiti kuwa seti za data zilizopangwa, zenye ufuatiliaji ili kuunga mkono ukamilishaji wa tasnifu ya shahada ya kwanza katika [[stem-education|STEM]], na kuwekwa kama **ngazi za msaada za maarifa** zinazoruhusu ukaguzi wa uhusiano kati ya ushahidi na madai huku zikipunguza mahitaji ya kiwango cha chini ya kushughulikia data. Katika jaribio la [[mixed-methods-research|mbinu mchanganyiko]] la wanafunzi 20 kwenye nyaraka 80, wanafunzi walitoa zaidi ya 90% ya vigezo vilivyolengwa, muda wa mapitio ya fasihi [[self-report-measures|walioripotiwa wenyewe]] ulipungua kwa ~65%, na uwezo wao wa kutambua vigezo vya kuathiri uliongezeka kwa 50% — jambo linalounga mkono wazo kwamba [[generative-ai|AI]] inaweza kusawazisha upya mzigo wa kiakili kuelekea ufikiri wa utafiti wa kiwango cha juu, wa kujiongoza mwenyewe, badala ya muhtasari wa kawaida.
@@ -86,33 +87,3 @@ Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa ku
 **Kwa watafiti**
 
 - Ripoti ni dhana ipi uingiliaji ulilenga; matokeo ya SDL na SRL hayapaswi kutumika kama visawe.
-
-## Dhana Zilizounganishwa
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Makala Zilizounganishwa
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — Matumizi ya GenAI ya kujiongoza mwenyewe na maendeleo ya kitaaluma kati ya wanafunzi wa sekondari: utafiti mkubwa wa wimbo wa mwaka mmoja
-
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Matumizi ya GenAI bila kufikiri na kujifunza kwa kujiongoza mwenyewe (SEM, tofauti za jinsia)
-- [[ai-lifelong-learning-policy]] — Sera ya AI na kujifunza maisha yote
-- [[self-directed-growth-generative-ai-learning-analytics]] — Kukua kwa kujiongoza mwenyewe kwa GenAI na uchanganuzi wa kujifunza
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisi ya matokeo ya kielimu ya AI ya kizalishaji
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy na kuagiza kazi za kiakili kwa GenAI
-- [[kim-ai-andragogy-2026]] — Matumizi ya AI katika Kuunga Mkono Andragogy (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-
-- [[llm-goal-selection-self-directed-learning-2026]] — Mifano haichagui malengo ya kujifunza kama wanadamu katika kazi ya uchaguzi huru (Molinaro et al. 2026)
-

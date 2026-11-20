@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -96,42 +98,3 @@ ai_assist:
 **"AI 让内容变得如此便宜，OER 已经过时。"** 相反的读法同样成立，而且得到更好的支持。如果生成近乎免费，那么稀缺之物就变成许可、署名链条、审校流程与受维护的平台。这正是这批文献汇聚于治理与基础设施而非生产的原因。
 
 **"在开放作业里加入 AI 工具会改善学习。"** 此处唯一一项准实验检验发现，两个组都报告了技能增长，两者之间没有可检出的差异，同时 AI 班的完成率更高、得分略低。AI 改变了学生产出什么，却没有改变他们报告自己学到了什么。
-
-## 关联概念
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## 关联文章
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — 用本地 AI 与 RAG 生成开放教育材料的物理教学方法（Beznosko 等，2026）
-- [[powell-chatbot-enhanced-oer-composition-2026]] — 会回话的文本：异步 Composition II 课程中由聊天机器人增强的 OER（Powell 等，2026）
-- [[jordan-faculty-ai-oer-creation-2025]] — 从提示到实践：一项以教师为中心、探索 AI 支持 OER 创作的倡议（Jordan 等，2025）
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — 生成式 AI 进入生产之后 OER 的五种框定（Tlili et al. 2026）
-- [[atenas-oer-digital-public-goods-2026]] — 作为数字公共产品的 OER 与受治理基础设施的论证（Atenas et al. 2026）
-- [[deimann-rethinking-openness-ai-2026]] — 25 年的开放为何让教育中层的制度原封不动（Deimann and Lukács 2026）
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — 两个班里有 AI 工具与没有 AI 工具的开放教学法（Clinton-Lisell 2026）
-- [[duan-open-educational-practices-evolution-2026]] — 十四种开放教学实践模型以及 AI 在其中的位置（Duan 2026）
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 中国 30 个省的教师 AI 素养与开放教学实践（Guo et al. 2026）
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER 与 AI 负责任整合的七支柱框架（Rodés-Paragarino and Atenas 2026）
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — 虚拟实验室中的导师指导与 AI-OER 生产（González Miy 2026）
-- [[ryu-developing-ai-literacy-oer-2026]] — 评审 AI 素养 OER 的七原则评分标准（Ryu 2026）
-- [[ahmadfard-interactive-oer-review-2026]] — 作为设计论证而非发现的 OER 交互性（Ahmadfard 2026）
-- [[patino-ai-international-cooperation-open-education-2026]] — 作为工具性案例的开放教育国际合作（Patiño et al. 2026）
-- [[peng-personalized-recommendation-oer-2026]] — 在比所宣称更强的基线上检验的 OER 混合推荐器（Peng 2026）
-- [[panda-editorial-digital-transformation-open-education-2026]] — 作为教学转型的开放学习中的数字化转型（Panda 2026）

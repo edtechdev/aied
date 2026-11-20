@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -81,48 +83,3 @@ ai_assist:
 - **"डिज़ाइन छात्र उत्साही अपनाने वाले हैं।"** वही समूह दिखाता है: **71% GenAI का दैनिक या साप्ताहिक उपयोग, 65% उस पर अविश्वास, और 85% उसके आउटपुट में संशोधन**। बार-बार उपयोग और कम भरोसा सहअस्तित्व रखते हैं, इसलिए वह उपकरण जिसका मूल्य-प्रस्ताव भरोसा मानता है, उपयोगकर्ताओं को गलत पढ़ रहा है।
 - **"GenAI डिज़ाइन प्रक्रिया में सामान्य रूप से सहायक है।"** एक अनुदैर्ध्य स्टूडियो अध्ययन में बना GAI-A मंच ने **केवल दो उत्पादक उपयोग** पाए: प्रारंभिक विचार-निर्माण में दृश्य उद्दीपक के रूप में GenAI, और विकास के दौरान समाधान-स्थान के **संयोजनात्मक विस्तारक** के रूप में। उपयोगिता चरण-विशिष्ट थी।
 - **"सृजनात्मकता के लाभ मापने के लिए बहुत विसरित हैं।"** एक **31-छात्र उपसमूह** में, सृजनात्मक-चिंतन अंक **77.23 से 94.68 (d = 0.82)** तक बढ़े। लाभ मापने योग्य है और एक उपसमूह तक सीमित है, और यही दावे का ईमानदार रूप है।
-
-## संबंधित अवधारणाएँ
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## संबंधित लेख
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: कलाकृति-जागरूक AI आलोचना कार्यक्षेत्र स्टूडियो प्रतिपुष्टि के लिए; सिमुलेशन-आधारित तैयारी अध्ययन, सीखने की उपलब्धि नहीं
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — एक स्थापत्य-डिज़ाइन प्रयोग जिसमें DALL-E 3 कार्यप्रवाह ने सामान्य सृजनात्मक आत्म-दक्षता घटाई
-- [[human-ai-collaboration-design-education-rubric-2026]] — एक प्रक्रिया रूब्रिक AI सत्यापन को ग्रेडिंग की वस्तु बना सकता है
-- [[wang-ai-disruption-design-innovation-competence-2026]] — डिज़ाइन छात्रों में AI तकनीकी व्यवधान जागरूकता, डिज़ाइन चिंतन मानसिकता, और डिज़ाइन नवाचार क्षमता
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — डिज़ाइन छात्रों के AI एजेंट उपयोग के इरादे पर दृष्टिकोण की अनिवार्य शर्त, कार्य–प्रौद्योगिकी अनुकूलता के दूसरे मार्ग के साथ (Chu और Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — निर्भरता का प्रकार तय करता है कि प्रॉम्प्ट-साक्षरता जुड़ाव बनती है या नहीं
-

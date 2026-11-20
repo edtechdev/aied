@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -131,67 +133,3 @@ ai_assist:
 - **"اعتمدت الجامعات سياسات ذكاء اصطناعي مُلزمة."** من بين **48 مؤسسة**، كان لدى **40 (83%)** وثيقة واحدة متاحة للعموم على الأقل، وفي تلك الأربعين تحققت **الحوكمة في معظمها إرشادًا لا قاعدة مُلزمة**. فالإرشاد المنشور ليس سياسة قابلة للإنفاذ.
 - **"السياسة تُكتب للطلاب أولًا لأن الطلاب هم الخطر."** تناولت معظم الوثائق **أعضاء الهيئة التدريسية والطلاب معًا (20، 51%) لا الطلاب وحدهم (6، 15%)**، ولم يتغير نوع السياسة ولا الجمهور المستهدف مع نمط التسليم. فالصياغة مشتركة، أي أن الالتزامات مشتركة.
 - **"السياسة الغامضة لا تمسّ تجربة الطلاب."** يظهر غموض السياسة في **تجربة الطلاب** مباشرة: فـ[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|تفاعل الطلاب مع الذكاء الاصطناعي التوليدي]] يشكّله عدم اليقين، فالغموض شرط فعّال لا فجوة محايدة.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[ai-use-disclosure]] — بيانات استخدام الذكاء الاصطناعي والإفصاح
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — المظلة: الأشخاص والجماهير المستهدفة في تعليم الذكاء الاصطناعي (المتعلمون، والمدرّسون، والمصممون، والإداريون، وصنّاع السياسات)
-- [[student-support-and-success]] — الرقابة على أنظمة الدعم المؤسسية للذكاء الاصطناعي
-
-## المقالات المتصلة
-- [[kaze-ai-management-higher-ed-2026]] — تبنّي الذكاء الاصطناعي في التعليم العالي: الحجة لإدارة ذكاء اصطناعي مخصّصة (Kaže et al. 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — أخلاقيات الرعاية للحوكمة المؤسسية للذكاء الاصطناعي، ومكوّناتها الخمسة والأسئلة المؤسسية التي تتحول إليها
-- [[generative-ai-governance-education-scoping-review-2026]] — حوكمة الذكاء الاصطناعي التوليدي في التعليم: مراجعة استقصائية للمبادئ والآليات والمخاطر (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — الثقافة المعرفية بالذكاء الاصطناعي بوصفها قدرةً حوكمية للتنمية المستدامة: تصنيف AIRE وعلاقة الذكاء الاصطناعي بأهداف التنمية المستدامة (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — إطار AIGEM لحوكمة الذكاء الاصطناعي في الإدارة التعليمية
-- [[institutional-ai-policy-health-informatics-2026]] — وثائق سياسات وإرشادات الذكاء الاصطناعي في 48 برنامجًا معتمدًا لدى CAHIIM للمعلوماتية الصحية: الحوكمة إرشادًا غير مُلزم متمركزًا على النزاهة (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — الطلاب يصمّمون سياسات مقررات للذكاء الاصطناعي التوليدي بالاستقصاء الموجّه (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — من تحليلات التعلّم إلى التدخلات التعليمية: مُيسّرات التدخلات الجديرة بالثقة القائمة على تحليلات التعلّم (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — عدم امتثال الطلاب لإفصاحات استخدام الذكاء الاصطناعي
-- [[vetter-hidden-cost-disclosure-genai-2026]] — الكلفة الخفية للإفصاح
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — إفصاح الطلاب عن الذكاء الاصطناعي، والوصم، والتعلّم المنظّم ذاتيًا
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — أي استدلال في خطر: استدلال صدق التقويم والذكاء الاصطناعي التوليدي (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — إجماع دلفي العالمي حول حوكمة الذكاء الاصطناعي التوليدي والسياسة
-- [[qian-governing-genai-higher-ed-policy-2026]] — الحوكمة بالإرشاد: قواعد المناهج التي يضعها المدرّسون ونظام دعم من أربع وحدات في 50 جامعة أمريكية مبتكرة (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — حوكمة أعضاء الهيئة التدريسية، وتقدير المدرّس، والمراجعة الدورية في سياسة كليات الحقوق للذكاء الاصطناعي التوليدي (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — مناهضات "الذكاء الاصطناعي" ذات الشمول المفرط، وتحويل الصيغة، ومشكلة التعديل المعقول (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — الرفض بوصفه دليلًا: حوكمة غير متساوية، والواجب في الفهم، والقيمة التشخيصية لعدم الاستخدام (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — الحوكمة الاستباقية والقيادة للذكاء الاصطناعي
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — تنفيذ AIDA في الجامعة المفتوحة
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: القيادة نحو تغيير مُحوِّل
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — تفاعل الطلاب مع الذكاء الاصطناعي التوليدي (نظرية تقرير المصير)
-- [[beyond-detection-authentic-assessment-ai-2025]] — ما بعد الكشف: إعادة تصميم التقويم الأصيل
-- [[genai-policies-higher-ed-computing]] — سياسات الذكاء الاصطناعي التوليدي المؤسسية في الحوسبة
-- [[genai-declaration-frameworks-higher-education]] — أطر الإفصاح عن الذكاء الاصطناعي
-- [[genai-assessment-governance]] — حوكمة التقويم في ظل الذكاء الاصطناعي التوليدي
-- [[ai-uk-higher-education-policy-2026]] — الذكاء الاصطناعي في سياسة التعليم العالي بالمملكة المتحدة
-- [[raza-farooq-aied-review-2020-2025]] — مراجعة شاملة لأبحاث تعليم الذكاء الاصطناعي
-- [[cognitive-commons-ai-expertise-regeneration]] — مأساة التراث المعرفي المشترك: الذكاء الاصطناعي وتجديد الخبرة
-- [[policy-deficit-ai-sel-2026]] — عجز السياسة في أبحاث الذكاء الاصطناعي × التعلّم الاجتماعي العاطفي
-- [[agarwal-ethical-values-norms-aied-2026]] — القيم والأعراف الأخلاقية للذكاء الاصطناعي في التعليم
-- [[perrotta-zero-shot-governance-2026]] — الحوكمة ذات الإطلاق الصفري: الذكاء الاصطناعي العام في السياسة (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — من يتصرف، ومن يعلم، ومن يُجيب؟ تحليل خطابي بمعاونة المجموعات النصية للفاعلية والمسؤولية المعرفية والمساءلة في أبحاث التعليم العالي حول الذكاء الاصطناعي التوليدي
-- [[instructional-governance-design-computing-education-2026]] — الحوكمة التعليمية بالتصميم: إطار للذكاء الاصطناعي في تعليم الحوسبة
-- [[genai-governance-australian-higher-ed-2026]] — رسم الحد المصرَّح به: دراسة مقارنة بالسيناريوهات لحوكمة الذكاء الاصطناعي التوليدي في التعليم العالي الأسترالي
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — التفويض والأدلة والوصول: ما يغيّره الذكاء الاصطناعي الوكيلي في حوكمة تقويم الجامعات (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — نماذج الذكاء الاصطناعي الأولية والتجارب المدرسية بوصفها آلة حوكمة تُشكّل مسبقًا مستقبلًا مختارًا (Williamson et al 2026)
-
-- [[li-su-teacher-genai-decision-making-2026]] — مسار مقترح من وضوح الحوكمة إلى حلقات قرار المعلّم
-- [[pandey-davies-he-governance-administrative-ai-2026]] — الذكاء الاصطناعي الإداري بوصفه سؤال عمليات خدمية
-- [[chan-ai-policy-gap-2026]] — لغة الحوكمة تقيم في السياسات العامة ولا تظهر قطّ في قواعد التمويل التي تُلزم المتقدّمين (Chan 2026)

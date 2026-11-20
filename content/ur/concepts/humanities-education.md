@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,28 +74,3 @@ SSH تعلیم ٹھیک وہی صلاحیتیں سامنے لاتی ہے جنہ�
 **"تنقیدی تجزیہ وہی ہے جسے AI سب سے زیادہ خطرے میں ڈالتا ہے، چنانچہ اُسے محدود کرنا چاہیے۔"** تنقیدی تجزیہ وہی ہے جسے سوچی سمجھی استعمال سب سے زیادہ پروان چڑھاتا ہے، جب کام اُسے ہموار کرنے کے بجائے گہرا کرنے کے لیے ڈیزائن کیا گیا ہو۔ [[human-in-the-loop-ai|انسان-در-حلقہ]] ماڈل شعبے کی خدمات طالب علم کے فیصلے میں رکھتا ہے، اوزار کے اخراج میں نہیں۔
 
 **"عمومی مقصد کا ماڈل متنی اسکالرشپ کے لیے اُتنا ہی کارآمد ہے جتنا خلاصہ سازی کے لیے۔"** تشریح کے لیے قاری کی پوزیشن درکار ہے، اور ایسی معاونت کی تہہ جو پڑھائی مہیا کر دے، وہ تشریحی فعل سرانجام دے چکی ہے جسے سکھانا اِس شعبے کی وجۂ وجود ہے۔
-
-## منسلک تصورات
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[civic-and-political-education]]
-
-## منسلک مضامین
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH تعلیم کے لیے تشریحی علمی عمل کا ترقیاتی-تنقیدی ماڈل
-- [[paternalistic-filter-llm-history-education]] — تاریخ کی تعلیم میں LLM کا استعمال اور تاریخی استدلال
-- [[genai-impact-chinese-students-hss]] — انسانیت اور سماجی سائنس کے طلبہ پر GenAI کا اثر
-- [[acceptance-ai-english-tools-2026]] — زبان اور انسانیت کے سیکھنے والوں میں AI کی قبولیت
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Go8 فنون اور انسانیت کے 15,587 یونٹوں کا کمپیوٹیشنل آڈٹ: 2026 کی 58.6% جانچی اشیاء AI کے لیے انتہائی نمائش شدہ، مرکوز مضامین اور رپورٹس میں
-- [[genai-values-education-affordances-risks-2026]] — اقدار کی تعلیم میں جنریٹو AI: صلاحیتیں، اخلاقی خطرات اور تدریس کے لیے مضمرات (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — کام کی ساخت اور AI استعمال کی ہدایات بطور اِس کے کہ مصنوع کس بات کا ثبوت دے سکتا ہے (Liu & Liu 2026)
-- [[capodieci-humanities-hil-2026]] — انسانیت کی سیکھائی میں ایجنٹک AI، اور متن کی مصنفیت سے تشریح کی نسبت تک تبدیلی (Capodieci et al. 2026)

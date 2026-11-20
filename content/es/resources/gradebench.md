@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,9 +44,3 @@ Docentes que deciden si permitir que una herramienta de calificación publique n
 ## Notas y advertencias
 
 GradeBench lo publica Pensive, una plataforma comercial de calificación con IA, de modo que el conjunto de referencia y el producto comparten propietario; la construcción de la tarea está documentada y es defendible, pero conviene tratar el encuadre como el del proveedor. Cubre exámenes STEM con rúbricas de al menos cuatro ítems, lo que excluye ensayos, respuestas breves y publicaciones de debate, los formatos donde ocurre la mayor parte de la calificación en [[humanities-education|humanidades]]. La coincidencia exacta de rúbrica es una métrica estricta: dos calificadores pueden discrepar sobre un ítem y ambos tener razón respecto al estudiante. Las puntuaciones describen versiones de modelos disponibles en noviembre de 2026 y cambiarán.
-
-## Conceptos conectados
-
-- [[automated-assessment]] — la práctica que mide el conjunto de referencia
-- [[assessment-validity]] — el criterio del que una puntuación de clasificación es un proxy
-- [[benchmark]] — la clase más amplia de instrumentos a la que pertenece

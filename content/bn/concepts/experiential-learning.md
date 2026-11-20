@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -65,7 +67,6 @@ ai_assist:
 
 26টি সম্প্রদায়-সম্পৃক্ত গবেষণা জুড়ে এআই প্রস্তুতি (18) ও কার্যক্রমে (15) ঘনীভূত এবং মূল্যায়ন (8) ও প্রতিফলনে (3) পাতলা, তাই চক্রের পরবর্তী, সমন্বয়মূলক পর্যায়গুলি সেবা-শিক্ষার নকশা-ফাঁক হিসেবে রয়ে গেছে ([[yusuf-service-learning-mapping-2026|Yusuf প্রমুখ, 2026]])।
 
-
 ## সাধারণ ভুল ধারণা
 
 **"প্রায়োগিক শেখা মানে হাতে-কলমে কাজ।"** কাজ পৃষ্ঠতল; শিখন-প্রক্রিয়া হলো করা, প্রতিফলন, ধারণায়ন ও পরীক্ষার চক্র। কাঠামোবদ্ধ প্রতিফলনহীন একটি ল্যাব-সেশন ধারণাগত পরিবর্তনের বদলে পরিচিতি তৈরি করে, তাই "আমরা একটি ব্যবহারিক অংশ যোগ করেছি" প্রায়োগিক শেখার প্রমাণ নয়।
@@ -92,38 +93,3 @@ ai_assist:
 **কর্মসূচি-নকশাকারীদের জন্য**
 
 - যাচাই করুন প্রয়োগমূলক কর্মসূচিতে প্রয়োগমূলক কাজ আছে, ল্যাব-বিকল্প নয়; স্থানান্তরের দাবি মুখোমুখি হওয়ার খাঁটিতার উপর দাঁড়ায়।
-
-## সংযুক্ত ধারণা
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাদান-পদ্ধতি ও শিক্ষণ-কৌশল
-- [[virtual-and-augmented-reality]] — সচেতন অভিজ্ঞতা হিসেবে নিমজ্জিত অনুশীলন
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — এআই যুগে স্মার্ট ম্যানুফ্যাকচারিংয়ের Workforce Readiness Level কাঠামো
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — দৈহিক বুদ্ধিমত্তার (E3-HOT) মাধ্যমে টেকসই শেখা লালন
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — সাইবার-নিরাপত্তা শিক্ষায় GenAI
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — শিক্ষায় রোবোটিকস ও এআই
-- [[ai-lms-middle-school-longitudinal]] — এআই-সংহত LMS অনুদৈর্ঘ্য গবেষণা
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — সম্প্রদায়-মাঠকর্মের প্রতিস্থাপক এআই ব্যক্তিসত্তা, প্রতিস্থাপন কোথায় ব্যর্থ তার পাঁচ-সূচক রুব্রিকসহ (Elhajj প্রমুখ 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — এআই-সমর্থিত নকশা শিক্ষায় দৈহিক হাতে-কলমে ও জ্ঞানীয় হাতে-কলমে আলাদা করা বিষয়ভিত্তিক পর্যালোচনা (Yu, Liu ও Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — তিনটি জেনারেটিভ এআই ব্যবস্থার চারদিকে পুনর্গঠিত একটি কৌশলগত ব্যবস্থাপনা কোর্স
-- [[gelli-experiential-language-learning-2026]] — GELLI: প্রায়োগিক ভাষা-শিখন মিথস্ক্রিয়ার একটি জেনারেটর (Symonette প্রমুখ 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — ফ্লিপড পদার্থবিজ্ঞান শেখার জন্য এআই-সমর্থিত ভার্চুয়াল ল্যাব: মধ্য-বিদ্যালয় শিক্ষার্থীর অর্জন, প্রেরণা ও জ্ঞানীয় ভারে প্রভাব
-- [[metacognitive-awareness-experiential-vs-instructional]] — এআই-সহায়ক শেখায় অধিজ্ঞানমূলক সচেতনতার জন্য প্রায়োগিক বনাম শিক্ষাদানমূলক সেশন (Benazet i Montobbio প্রমুখ 2026)
-
-- [[yusuf-service-learning-mapping-2026]] — সেবা-শিক্ষা চক্রে মানচিত্রিত 26টি গবেষণা: মূল্যায়ন ও প্রতিফলনে এআই পাতলা হয়ে যায় (Yusuf প্রমুখ 2026)
-

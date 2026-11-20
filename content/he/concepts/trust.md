@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -56,7 +58,6 @@ ai_assist:
 
 **תפיסת סיכון ואמון אינם הפכים.** מחקר תפיסות בן 130 סטודנטים של GenAI [[agentic-ai|סוכני]] ב[[higher-ed|השכלה גבוהה]] מצא סיכון נתפס מוגבר במתינות (M = 3.33, SD 0.89) לצד אמון וכיוון אימוץ נוחים יותר (M = 3.62, SD 0.81), ו — בניגיד לציפיית הרתעה הפשוטה — שיוך *חיובי* בין סיכון נתפס לכיוון שימוש-מתמשך (Spearman's ρ = 0.317, p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). החותמים קוראים זאת כאימוץ מודע ולא כהתנכרות: משתמשים מעורבים או מנוסים מזהים גם את הערך וגם את המגבלות של הטכנולוגיה, ורק 45.4% אמרו שסמכו על סוכנים תחת הדרכת מרצה. עבור [[trust-calibration]], ההשלכה היא שמודעות לסיכון אינה העדרו של אמון — היא עשויה להיות מרכיב שלו — בעוד התכנון החוצה-חתך משאיר מודעות, חשיפה ובחירה-עצמית בלתי-ניתנות להבחנה.
 
-
 אמון בבינה מלאכותית מתנהג כנתיב מהערכה להסתמכות ולא כעמדה בודדת: העצמה נתפסת של בינה מלאכותית ואיום נתפס של בינה מלאכותית היו כמעט-בלתי-תלויים (r=0.030) אך הניעו אמון בכיוונים מנוגדים (β=0.576 ו-β=−0.328), והאמון נשא שיוכי עקיפים מובהקים עם תלות ב-GenAI בשני הכיוונים ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 מודל מבני מעמיד את תפקיד הגישור הזה למבחן אמפירי. בסקר של [[trust-calibration-genai-collaborative-regulation-2026|Bu ו-Li (2026)]] בקרב 642 סטודנטים באוניברסיטה, תמיכה הקשרית ניבאה כיול אמון (β = 0.56), כיול אמון ניבא [[collaborative-learning|ויסות]] [[regulation|שיתופי]] (β = 0.49) ורווחי [[transfer-of-learning|העברה]] נתפסים (β = 0.22), והנתיב הישיר מתמיכה הקשרית לרווחים לא היה מובהק.
@@ -66,7 +67,6 @@ ai_assist:
 הקונסטרוקט דק יותר מכפי שהמקדם מרמז. הוא מודד אמון טכנולוגי אינסטרומנטלי בתוספת נספח של ערך אמנותי — ביטחון מוצהר ולא אמינות מכוילת — ושני פריטי המחברות הוסרו לאחר שיצרו גורם עצמאי בפיילוט של 121 סטודנטים. סטודנט יכול לסמוך על המודל הזה באופן הולם או בלי הבחנה, והכלי אינו מסוגל להבדיל בין השניים.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] תומך בחשבון **ספציפי-פונקציה ולא גלובלי** של אמון באלגוריתמים: לא גירוע-אלגוריתמים ולא הערכת-אלגוריתמים תיארו את 13 הסטודנטים האלה, שסמכו בו-זמנית ב-ChatGPT למשוב ברמת-פני-השטח ולא סמכו עליו כמהלכת. האמון שלהם היה מותנה בפיקוח מרצה, והסקפטיציזם שלהם נבע ממגבלות הקשרית של ה-AI — קריאה שגויה של כתב-יד שנסרק ("היא רשמה את שם המשפחה שלי לא נכון והיא חושבת שעשיתי שגיאות באיות כשעשיתי"), אי-היכרות עם מערכת הדירוג של המרצה, וחיוביות כרונית — ולא מטכנופוביה, מה שמצביע על כך שמדדי אמון צריכים להתפרק לפי הפונקציה שבה מלאכות מבצעת ולפי ההימורים המצורפים לה.
-
 
 שלושת ממדי אמינות המקור יכולים להתנתק: שבעה-עשר סטודנטים לתואר ראשון ב-EFL העניקו לעוזר כתיבה AI מומחיות רחבה, הטילו ספק במהימנות שלו בעיקר סביב מה שהפלטפורמה שומרת, ודרגו את הנאות שלו הנמוך ביותר - תקרת ההסתמכות שלהם נחה בטיפול, לא במיומנות ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
 
@@ -87,7 +87,6 @@ ai_assist:
 הסתמכות על זיהויים וניטור, טוענים [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], מטפחת אקלים חשד שמחליש את אמון התלמידים בהערכה ובמוסד — ההיפך מהאמון שהליכי היושרה אמורים להגן עליו.
 
 משוב הוא אתר מפתח של אמון בין-אישי. [[genai-teacher-feedback-comparison|תפיסות התלמידים על משוב GenAI לעומת משוב מורה]] מוצאות שהשניים משרתים צרכים שונים — משלימים אך לא מתחלפים — כאשר תלמידים סומכים על משוב המורה לשיפוט יחסי ומותאם-אישית ועל [[generative-ai|GenAI]] למהירות ול[[accessibility]]. חשבון [[care-full-feedback-genai|"טיפול-מלא" של משוב]] טוען שמשוב אמין הוא פרקטיקה [[ethics|אתית]] ויחסית: הוא בונה יחסים חינוכיים ונכבד כמלאכה מקצועית, ערכים שבינה מלאכותית אינה מסוגלת לשחזר בפשטות. זו הסיבה שאמון מורה-תלמיד — הבנוי על טיפול ושיפוט מקצועי — נשאר מרכזי גם כאשר AI נכנס ללולאת המשוב.
-
 
 אמון עמיתים רץ בערוץ שונה: בין 406 סטודנטים אוניברסיטאים שדרגו בן-כיתה שנזכר, שימוש ה-GenAI של אותו בן-כיתה שויך לאמון בין-אישי נמוך יותר, נשוא על ידי חום ומיומנות נתפסים, והשיוך השלילי החזיק רק כאשר [[ai-literacy|אוריינות AI]] נתפסת הייתה נמוכה — הוא היה לא-מובהק בגובה ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al. (2026)]]).
 
@@ -127,53 +126,3 @@ ai_assist:
 
 - דווחו אמון, תפיסת סיכון והסתמכות הולמת כמבנים נבדלים, משום שהם משתנים יחד בכיוונים לא-מובנים-מראש — כולל שלילי.
 - דווחו את התוצאה ההתנהגותית (שיעור קבלת הצעות שגויות) לצד אמון מדווח-עצמי; סולמות אמון לבדם מהפכים את המסקנה.
-
-## מושגים מקושרים
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — הסיכון החברתי שהנורמות והגילוי רצים עליו
-
-## מאמרים מקושרים
-- [[ilieva-agentic-genai-higher-education-2026]] — סיכון נתפס מתאם באופן חיובי לכיוון שימוש-מתמשך: אימוץ מודע (Ilieva et al. 2026)
-- [[lucau-uneven-use-similar-trust-genai-2026]] — שימוש לא-אחיד, אמון דומה: בינה מלאכותית יוצרת בדנמרק וברומניה (Lucau, Voicu ו-Christensen 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — פער האמון מורה-תלמיד על שליטה וסוכנות ב-AI בכיתת K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — גילוי שימוש AI מונע על ידי גורמים יחסיים ונוחות עם מרצים, לא מדיניות
-- [[genai-teacher-feedback-comparison]] — משוב GenAI ומשוב מורה משרתים צרכי אמון שונים ומשלימים
-- [[care-full-feedback-genai]] — משוב אמין כפרקטיקה "טיפול-מלאה" ויחסית
-- [[ai-fallibility-warning-help-seeking]] — אזהרה על שגיאות AI מגבירה חיפוש עזרה ב-ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — תכנון משותף של מדדי אמינות וויזואליזציות למודלים לשוניים גדולים בחינוך
-- [[ai-overreliance-complex-adaptive-system-2026]] — הסתמכות יתר על בינה מלאכותית כמודל של מערכת מורכבת אדפטיבית
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — פער האמון-תועלתנות בכלי AI לפיזיקה
-- [[t2i-competence-paradox-2026]] — הפרדוקס של המיומנות ביצירת תמונות AI
-- [[task-context-trust-educational-hri-2026]] — הקשר משימה מעצב אמון ברובוטים חינוכיים יותר ממראה
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — זהות אווטאר ואמון אפיסטמי בלמידה בתיווך AI
-- [[contextual-sycophancy-ai-literacy]] — סנסופיות הקשרית וגבולותיה לכיול אמון
-- [[sycophantic-ai-social-interaction-2026]] — בינה מלאכותית סנסופית הופכת אינטראקציה אנושית לפחות מספקת לאורך זמן
-- [[ai-pedagogical-accompaniment-amico]] — תיווך פדגוגי אחראי ואמון במערכות מאופשרות-AI
-- [[best-response-student-ai-dialog-2026]] — אמון בדיאלוג תלמיד-AI
-- [[ai-adaptation-gap-higher-education-2026]] — תועלתנות נתפסת כחוזה החזק ביותר של אמון ב-AI בהשכלה גבוהה
-- [[bassett-ai-detectors-education-2026]] — אמון ואי-אמון במערכות זיהוי AI
-- [[genai-use-usefulness-student-experience-australia-2026]] — חוויית תועלתנות GenAI של סטודנטים בהשכלה גבוהה אוסטרלית (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — הפיכת ממצאי למידת מכונה לנגישים למורים בכיתות משולבות
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — שלושה פרופילי תלמידים שבהם אמון AI עוקב אחר חוסן ולחץ ולא אחר דמוגרפיה (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — הערכות העצמה ואיום הניעו אמון בכיוונים מנוגדים, ונשאו תלות ב-GenAI
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — שימוש GenAI של עמיתים מוריד אמון בין-אישי באמצעות חום ומיומנות נתפסים, שאותו מאגנת אוריינות AI
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — רמזי אמינות העלו מעבר לעמדת AI שגויה; מניעת המלצה דיכאה אותו
-- [[trust-calibration-genai-collaborative-regulation-2026]] — מודל מבני מעמיד את תפקיד הגישור הזה למבחן אמפירי
-- [[zhu-creative-agency-trust-genai-art-2026]] — אמון אינסטרומנטלי כמנבא החזק ביותר של כוונת GenAI אצל סטודנטים לאמנות ולעיצוב

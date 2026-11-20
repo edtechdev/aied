@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -78,32 +80,3 @@ ai_assist:
 **«ثقافة المعلومات جلسة تعريفية تُعطى مرة واحدة.»** إنها تعليم لا مساعدة: فالأسئلة التي يأتي بها الطلاب مشكلات تقييم واستراتيجية — هل هذا المصدر موثوق، وكيف أبحث عن هذا — وهي مهارات قابلة للتعليم لا معاملات تُنجَز. ومعاملة الخدمة كمساعدة تحوّل منهجًا إلى مكتب مساعدة وتُفقد القدرة المتينة.
 
 **«من يدفع مقابل التحقق مشكلة شخص آخر.»** يقع عبء الاستشارات على أعداد موظفي المكتبة، وسؤال الورقة نفسه هو ما إذا كان طلب المكتبات حمل ذلك يتجاوز أعداد موظفيها. والتصميم المشترك والشراكة هما الجوابان اللذان توصي بهما الأدبيات بالضبط لأن كلفة التحقق حقيقية وتقع على وحدة لم تُخطِّط لها في ميزانيتها.
-
-## المفاهيم المترابطة
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## المقالات المترابطة
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — منصة ندوات أمين مكتبة مدمج؛ 312 استشارة يقودها تقييم المصادر
-- [[genai-academic-search-workshop]] — ورشة CHIIR 2026 عن GenAI والبحث الأكاديمي؛ فجوة ثقة أمناء المكتبات
-- [[maybee-disruptive-partnerships-sap-2025]] — أمناء مكتبات أكاديميون يصمّمون ثقافة الذكاء الاصطناعي بالمشاركة مع الطلاب كشركاء
-- [[aarc-ai-research-competency-2026]] — التحقق والاقتباس والتأمل كالتزامات بحثية قابلة للتعليم
-- [[pearls-epistemic-verification-2026]] — بروتوكول تحقق من ستة أبعاد؛ الوصول والمشروعية كبوابتين
-- [[hingle-collaborative-ai-literacy-2025]] — التعلّم التعاوني لثقافة الذكاء الاصطناعي؛ فوائد ثقافة المعلومات تنتقل
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — المدرّسون يرتّبون النسبة والاستخدام المسؤول أعلى، لكنهم يعلّمون القليل من 26 مهارة
-- [[bird-multimodal-educational-literature-2026]] — أداة تعقيد النص المبنية لمستخدمين غير تقنيين كمعلّمي الإنجليزية وأمناء المكتبات
-- [[cognitive-offloading-llm-synthesis-writing]] — ما يُحمّله المتعلّمون عندما يجمع الذكاء الاصطناعي المصادر عنهم
-- [[citation-errors-hallucinations-computing-education-2026]] — الاقتباسات المُلفَّقة والخاطئة كمشكلة تحقق

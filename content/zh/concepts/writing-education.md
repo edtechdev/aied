@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -162,89 +164,3 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
 **"只要提供 AI 反馈，学生就会照着做。"** 采纳是有选择的。[[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston 与 Long（2026）]]追踪了两个本科[[biology-education|生物]]团队对照教师构建的 AI 反馈修改提案引言：22 条意见中有 10 条被处理，删除多于增补，而要求学生判断连贯性或主张支撑的意见被完全忽略。
 
 **"模型可以替代教师的反馈模式。"** 在证据中它并没有做到。追踪一位教师跨草稿阶段的表现，发现在**五**种反馈焦点类型上有显著变动，其中*表扬*从初稿的 **26.9%** 升到终稿的 **84.9%**，而最接近的模型在三种上变动，最小的模型一种都没有，且没有模型复现这一模式。教师反馈按草稿阶段重新分配重点，模型反馈倾向于保持其分布。把后者当作等价，就丢掉了这条轨迹。
-
-## 关联概念
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-
-- [[reflection]]
-
-## 关联文章
-
-- [[powell-chatbot-enhanced-oer-composition-2026]] — 文本会回话：异步写作二课程中的聊天机器人增强开放教材（Powell 等 2026）- [[favero-thinking-not-writing-chatbot-2026]] — 思考不是写作：设计连接推理与修改的 AI 聊天机器人
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — 一项 32 名学生的准实验：过程与体裁教学抬高了信息性、多模态与 AI 辅助写作（Günay 与 Özden 2026）
-
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24位写作教授谈用AI评分：对反馈有好处，分数会漂移，且无机构规定
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51项研究的范围综述：提示透明度缺口，以及为何AI加教师优于任何单独一方
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 职前教师的课堂AI政策：张力与纠缠
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大规模写作评估中AI辅助评分的人在本回路框架
-- [[llm-comparative-judgment-writing-screening-2026]] — 大语言模型比较判断用于普遍写作筛查的效度
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成式AI辅助写作中的层次敏感型认知卸载（Chen 2026）
-- [[coach-not-crutch-ai-writing]] — AI写作工具可以在减少努力的同时提升写作技能（Lira et al. 2025）
-- [[llms-do-not-grade-essays-like-humans-2026]] — 大语言模型评阅作文的方式与人类不同（Mathew et al. 2026）
-- [[pairr-ai-peer-review-2025]] — 同伴与人工智能评审加反思（PAIRR）
-- [[posthumanist-ai-literacy-2025]] — 一种后人类主义的人工智能素养路径
-- [[choi-anchor-aes-prompting-2025]] — 基于锚点的自动作文评分
-- [[aiawe-automated-writing-evaluation]] — AIAWE：自动化写作评价
-- [[agency-gap-ai-writing]] — 人工智能支持写作中的能动性差距
-- [[ai-writing-support-stage-ownership-2026]] — 从规划到修改：不同阶段的AI写作支持
-- [[genai-teacher-feedback-comparison]] — 生成式人工智能与教师反馈的比较
-- [[student-rationalization-ai-writing]] — “没关系，因为……”：学生合理化的狂野西部
-- [[care-full-feedback-genai]] — 关怀取向的反馈方法
-- [[self-referential-l2-writing-llm-assessment]] — 自参照的二语写作评价
-- [[becerra-aicofe-feedback-2026]] — 人工智能同伴反馈系统
-- [[repeated-ai-writing-feedback-semester]] — 学生对反复AI反馈的评价
-- [[ai-feedback-critical-thinking-writing-2026]] — 用AI生成的反馈促进批判性思维
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 标记教学法：个性化自动写作反馈中的语言偏见
-- [[bassett-ai-detectors-education-2026]] — 我们赢头你输尾：教育中的人工智能检测器（Bassett et al. 2026）
-- [[academic-erasure-complexity-ai-writing-2026]] — 学术抹除：人工智能支持写作下复杂性的消失
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 小学写作中的多模态AI创作与批判性思维（Lu et al. 2027）
-- [[student-genai-use-views-writing]] — 学生对写作中生成式AI的使用与看法（Kuznetsov, Sheely & Baker 2026）
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 一项面向小学二语动机、投入与表现的GenAI支持写作项目（Lu et al. 2026）
-- [[automated-scoring-marketing-posts-agreement-2026]] — 学生营销帖子自动评分中的一致性与误差
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — 提示素养与内在动机驱动深度修改，而外部要求没有直接效应（Li & Zhang 2026）
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 评估大语言模型生成写作反馈中的反馈焦点与教学适应性
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 教师反馈与AI辅助同伴反馈作为异质二语支架：一项为期8周的准实验（Tang et al. 2026）
-- [[genai-writing-performance-meta-analysis-2026]] — 生成式AI写作表现的元分析：大的合并效应、脆弱的量级，方法论重于教学法（Teng 2026）
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 人工智能写作定制化的系统综述与理论–设计错配（Luo 2026）
-- [[human-ai-collaboration-academic-writing-2026]] — 学术写作与数字批判性思维中的结构化人机协作（Alshehri et al. 2026）
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 对同一初稿的人工与AI修改采取不同的对话立场：同伴反馈关闭对话空间，AI修改保持平衡（Zhao & Ji 2026）
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock：以先前的参与为闸门释放AI输出，把努力重新分配回写作而不牺牲时间或准确度（N = 398）
-- [[genai-srl-l2-writing-scale-2026]] — 一项面向二语写作的六维度GenAI-SRL量表，环境调节（工具治理）作为独立维度
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — 把AI与同伴反馈配对会提升投入与写作分数
-- [[when-students-prefer-ai-scoring-feedback-2026]] — 学生希望在高风险一端由人来做
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — 生物学本科生使用 AI 反馈修改科学写作：接受度与障碍（Weston 与 Long 2026）
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学生在学术写作中负责任地使用生成式 AI：关于边界、教育路径与证据缺口的范围综述
-
-- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个被提示的评分者面对答案已知的探针，其中多数可以被说服抬高分数（Porcaro 2026）
-- [[porcaro-ai-grader-reliability-2026]] — 学习者情境会改变 LLM 评分者对同一份作品的评分，在六个模型的题内消融中测得（Porcaro 2026，论文 VI）
-- [[jelson-students-chatgpt-essay-writing-2026]] — 从追踪数据测量委托：137 条整任务查询，15 名学生提交了没有一个字的作文（Jelson 等 2026）
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — 严谨与教师投入作为 GenAI 时代写作投入的两个维度
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 个班次、10 门课程、654 名学生：旗舰 PAIRR 部署及其只给反馈的提示
-- [[alam-process-oriented-collaborative-essays-2026]] — 过程取向的协作论文：在边界内允许使用生成式人工智能的计分迭代与协作（Alam 与 Jackson 2026）
-- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面评估：先在观察下确认推理，再给家中写成的提交评分，对关联不清者设条件式口试（Webb-Davies、Ratner 与 Bassett 2026）
-- [[black-box-assessment-winstone-2026]] — 黑箱评估：过程窗口、把错误当作证据，以及通过可见性实现的诚信（Winstone、Gravett 与 Elkington 2026）
-
-- [[dumin-ai-research-projects-first-year-writing-2026]] — 大学一年级英语写作中的人工智能研究项目分析
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 名社会学学生：用 ChatGPT 列提纲与修改，以及他们不得不核验的理论

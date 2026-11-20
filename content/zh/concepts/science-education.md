@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,39 +85,3 @@ AI 评分正在高风险作业上迅速推进。[[ai-grading-handwritten-physics
 - **“科学教育中的 AI 没有因果证据。”** 一项对 GCSE 科学中 AI 修订平台的**四周随机评估**给出了 **Hedges' g = 0.33** 的因果估计，且**没有证据显示效应随学科而异**。效应不大，但它是因果的。
 - **“让学生用上，增益自然到手。”** **起作用的是结构化的使用，而不是使用本身**：团队报告的增长率在**不限量的个人使用下平均为 17%，而在使用受到结构化安排时为 34% 与 31%**。结构才是干预。
 - **“科学模拟需要专门的软件。”** 一个**四要素的自然语言提示词**即可生成一个**手动控制的增强现实物理模拟**。编写模拟的门槛降到了提示词设计上，这把所需技能从编程转向了现象界定。
-
-## 关联概念
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## 关联文章
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 关于科学素养作为课程、教学与评价之间协调的框架章节（Zhai 等 2026）
-- [[ai-methodologies-science-education-research-2026]] — 七阶段认识论迭代框架，用于反思 AI 方法论可能如何转变科学教育研究（Martin 等，2026）
-- [[ai-science-chemistry-education-systematic-review-2025]] — AI 在科学与化学教育中的系统综述
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT 用于 STEAM 中的探究式学习
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 光合作用与呼吸作用中的 AI 支持引导探究
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 概念转变文本对 AI 对话：热与温度
-- [[ai-grading-handwritten-physics-2026]] — 手写物理评价的大规模 AI 评分
-- [[avraamidou-ai-colonization-science-education]] — 关于科学教育 AI 殖民化的批判评论
-- [[pre-service-science-teachers-ai-perceptions-2026]] — 职前科学教师的 AI 认知与接受度
-- [[ai-assisted-inquiry-ssi-climate]] — AI 辅助的社会性科学议题探究：气候变化
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 以创新的速度评估 AI 辅导：GCSE 科学中 AI 辅导平台的实践者主导微观随机试验
-- [[llm-benchmark-secondary-science-topics-2026]] — 一个基准测试：LLM 对中学科学主题的掌握
-- [[nature-of-science-generative-ai-2026]] — 生成式人工智能时代的科学本质：认识论权威、物质性与协同回应
-- [[ai-university-physics-education-review-2026]] — 在大学物理的 AI 复习中，有结构的团队访问胜过了无限的个人访问
-- [[genai-learning-motivation-meta-analysis-2026]] — 唯一一个动机区间跨零的学科（g = 0.109，k = 3）
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — 对通用 AI 的舒适感并未转化为 GeoAI 就绪度
-

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,7 +47,6 @@ Fikra za kubuni zinawekwa katika makutano ya ubunifu, ufundi, na uhakiki — na 
 
 **Mwelekeo wenyewe unapimika, na unahama katika programu nzima.** [[design-thinking-aigc-fashion-film-2026|Liu et al. (2026)]] walithibitisha vipimo vitano vya mwelekeo wa fikra za kubuni katika wanafunzi 409 wa ubuni wa filamu za mitindo wanaotumia AIGC na kugundua wanafunzi wa mwaka wa tatu wakiwa juu zaidi katika vipimo vyote vitano, huku ufikiri wa abduktivi (0.865) na ujiamini wa ubunifu (0.760) vikiwa tofauti kubwa zaidi zilizosawazishwa — matokeo ya [[design-education|elimu ya kubuni]] ambayo mbadala zinazozalishwa peke yake hazithibitishi.
 
-
 ## Mwongozo wa vitendo
 
 Kwa waelimishaji, ushahidi wa pamoja unashauri dhidi ya zuio la jumla au kupitishwa bila mipaka. Chukua GenAI kama *nyenzo ya kubuni ambayo thamani yake inategemea upangaji*: inafanya vizuri katika uchunguzi wa hatua za awali na kazi ya kuweka katika hali, wakati waalimu wa binadamu huongeza msingi wa muktadha katika kuunda kiolezo na tathmini. Unapotumia mawakala wa [[agentic-ai]], zingatia majukumu ya kupingana au ya Socratic yanayohamasisha kufikiri upya badala ya uthibitishaji wa ushirikiano laini. Na kwa wabuni wa usaidizi unaoelekezwa kwa waalimu, kumbuka kuwa imani peke yake haitoshi — wataalam wanahitaji ngazi za msaada kwa mzunguko mzima wa kubuni (tathmini ya mahitaji, mizunguko ya maoni), si matumizi ya zana tu, na vyombo vya tathmini ili kuthibitisha kuwa fikra za kubuni zinaendelezwa kweli (ona [[ai-ed-evaluation]]).
@@ -63,41 +64,3 @@ Fikra za kubuni katika elimu ya AI zimeunganishwa kwa kina na [[human-ai-collabo
 **"Mawazo ya ubunifu ni mchakato wa kuendesha kiotomatiki awamu kwa awamu."** Ni taaluma ya kuweka na kuweka upya muundo wa matatizo, ndilo kufungwa kunazuia. Kuendesha awamu kiotomatiki huku ukiacha mfumo bila kuchunguzwa huzalisha matokeo yenye uwezo kwa tatizo lisilofaa.
 
 **"Mawakala wa AI wanaokubaliana na [[student-support-and-success|msaada wa mwanafunzi]] wanaunga mkono hoja zake za ubuni."** Matumizi yenye tija yaliyorekodiwa hapa yanaenda kinyume: [[ai-agents-constructive-conflict-design-education-2026|migongano yenye kujenga na mawakala wa AI]] hujaribu ilani za upinzani zinazolazimisha kufikiria upya. Wakala anayekubali huimarisha kufungwa; wakala anayeelekea upinzani ni ubuni wenye dai la kielimu nyuma yake.
-
-## Dhana Zilizounganishwa
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Makala Zilizounganishwa
-
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-
-- [[design-thinking-aigc-fashion-film-2026]] — Mwelekeo wa fikra za kubuni katika hatua za kujifunza katika ubuni wa filamu za mitindo unaosaidiwa na AIGC (Liu et al. 2026)
-

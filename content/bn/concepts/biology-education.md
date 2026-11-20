@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -67,36 +69,3 @@ ai_assist:
 - **"শিক্ষার্থীরা মানব শিক্ষণ-সহায়ক থেকে এআই আলাদা করতে পারে না।"** একটি ভার্চুয়াল ল্যাব শিক্ষণ-সহায়ক গবেষণায় দেখা গেছে **মানব TA-রা ChatGPT-এর চেয়ে বেশি নির্ভুল ও কার্যকর**, তবু শিক্ষার্থীরা **40% সময় এআই-উত্তর পছন্দ করেছে** এবং কেবল **45% সময় এআই-উৎপাদ শনাক্ত করতে পেরেছে**। শনাক্তকরণ প্রায় মুদ্রা-নিক্ষেপের সমান ছিল এবং পছন্দ কম নির্ভুল উৎসের দিকে ঝুঁকেছে, তাই সন্তুষ্টির ডেটা এখানে মানের জায়গা নিতে পারে না।
 - **"পছন্দ মান নির্দেশ করে।"** একই গবেষণা সরাসরি দুটোকে আলাদা করে: পছন্দের উৎপাদই ছিল খারাপটি। জীববিজ্ঞান এআই সরঞ্জামের যে মূল্যায়ন নির্ভুলতার মাপক ছাড়া শিক্ষার্থী-সন্তুষ্টি রিপোর্ট করে, সে ভুল রাশিই রিপোর্ট করছে।
 - **"এআই-সাক্ষরতা আলাদা বিষয় হিসেবে শেখাতে হবে।"** একটি **মাধ্যমিক জীববিজ্ঞান কোর্সে** মেশিন-লার্নিং ধারণা অন্তর্ভুক্ত করে দেখা গেছে জীববিজ্ঞানের প্রেক্ষাপট এআই-শিখনকে **সমর্থন করেছে** — যা আলাদা ইউনিট জুড়ে দেওয়ার বদলে পাঠ্যক্রমে এআই-সাক্ষরতা অন্তর্ভুক্ত করার প্রমাণ। বিষয়টি ধারণাগুলোকে জোড়া লাগানোর কিছু দিয়েছে।
-
-## সংযুক্ত ধারণা
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — খোলা-প্রান্তের প্রশ্নে বড় ভাষা-মডেলের কর্মক্ষমতা মূল্যায়ন: উত্তর দেওয়া ও নম্বর দেওয়ার সক্ষমতা
-- [[biology-degree-integrity-genai-cheating-2026]] — শিক্ষার্থীরা কি প্রতারণা করে জীববিজ্ঞান ডিগ্রি নিতে পারে? উৎপাদনশীল এআই-যুগে জীববিজ্ঞান কোর্স-নম্বরের একাডেমিক অসততার ঝুঁকিযোগ্যতার একটি কেস স্টাডি
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ভার্চুয়াল ল্যাব শিক্ষণ-সহায়ক হিসেবে ChatGPT
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — জৈবিক শিক্ষায় এআই সরঞ্জামের পর্যালোচনা
-- [[critical-thinking-biological-sciences-ai-2025]] — জৈবিক বিজ্ঞান ও এআইয়ে সমালোচনামূলক চিন্তা
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — চ্যালেঞ্জ-ভিত্তিক জীববিজ্ঞান/গণিত কোর্সে ChatGPT
-- [[zha-ai-literacy-biology-case-study]] — জীববিজ্ঞান শ্রেণিতে এআই-সাক্ষরতা শিক্ষা
-- [[genai-socratic-tutor-biology-argumentation-2026]] — উৎপাদনশীল কৃত্রিম বুদ্ধিমত্তার মাধ্যমে ভাবী জীববিজ্ঞান শিক্ষকদের PISA-সারিবদ্ধ যুক্তি-দক্ষতা উন্নয়ন

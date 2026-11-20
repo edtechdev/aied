@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,30 +80,3 @@ Proctoring jarak jauh berada pada suatu spektrum. **Proctoring daring** biasanya
 - **"Proctoring melindungi integritas akademik."** **Rasional integritas tidak bertahan pada uji terbesar.** Di **empat gelombang dan 1,760 siswa dalam 105 kursus**, proctoring **menaikkan kecemasan ujian (β = 0.60, p < 0.001) tetapi tidak memiliki** manfaat integritas yang terdeteksi. Efek yang terukur ada pada siswa, bukan pada kecurangan.
 - **"Kemampuan deteksi yang lebih baik berarti proctoring yang lebih baik."** Tinjauan sistematis selama satu dekade atas **80 studi yang ditelaah sejawat (2014-2024)** menemukan proctoring ML/DL canggih **mendeteksi kecurangan lebih** akurat dan tidak mengatakan apa pun tentang apakah penerapannya mengubah perilaku. Performa deteksi adalah properti pengklasifikasi, bukan properti rezim penilaian.
 - **"Sinyal perilaku adalah indikator pelanggaran yang andal."** Sistem **melacak tujuh belas penanda tubuh per bingkai** dengan YOLOv11 untuk menurunkan fitur **deviasi postur, tren kepala, dan gerakan tubuh bagian atas**. Konstruk itu adalah proksi, dan postur yang ditandai adalah klasifikasi tentang tubuh alih-alih pengamatan atas suatu pelanggaran.
-
-## Konsep terkait
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Artikel terkait
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI yang dapat dikenakan menghilangkan sinyal perilaku yang menjadi sandaran proctoring (Corbin, Sharpe & Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Tinjauan sistematis selama satu dekade atas proctoring ujian daring otomatis
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Tinjauan komprehensif ketidakjujuran akademik dalam proctoring otomatis
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Ketakutan akan Big Brother: efek samping negatif proctoring terhadap kecemasan ujian
-- [[biology-degree-integrity-genai-cheating-2026]] — Bisakah siswa curang sampai meraih gelar biologi? Studi kasus kerentanan nilai mata kuliah biologi terhadap ketidakjujuran akademik di era AI generatif
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Di bawah pengawasan: memetakan praktik proctoring jarak jauh dalam penilaian mahasiswa keperawatan
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% siswa dilabeli berisiko tinggi dalam ujian tatap muka dengan pengawasan, dengan risiko diprediksi dari jejak LMS awal semester

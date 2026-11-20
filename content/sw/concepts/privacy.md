@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -76,37 +78,3 @@ Faragha inaunganishwa na [[learning-analytics]] (mkusanyaji wa data), [[personal
 - **"Fasihi ya ufuatiliaji inathibitisha maadili ya ufuatiliaji."** Mapitio ya **masudio 80** yaligundua **35% hayakufichua seti yao ya data, 40% yalitathmini mfano mmoja, 30% hayakuweza kurudiwa na 25% tu** yalifikia kiwango cha kuripoti. Msingi wa ushahidi ni mwembamba hasa kwa maswali ambayo taasisi inahitaji majibu kabla ya utekelezaji.
 - **"Faragha ni kisanduku cha utiifu badala ya sharti la ubuni."** Karibu kila chombo cha AI kinachobinafsisha, kutabiri au kutathmini kinategemea data ya mwanafunzi, jambo linalofanya upunguzaji wa data kuwa uamuzi wa ubuni. Chombo kinachohitaji data hakina mpangilio wa faragha wa hiari; kina utegemezi wa data ambao ubuni uliuchagua.
 - **Uelewa wa mazoea ya data haufuati kwa kuyaona.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] aligundua **66% ya wanafunzi 47 wa mwaka wa 7** wakichagua chaguo lisilo na ulinzi wowote kwa [[conversational-ai|chatbot]] zinazosoma maandishi yao. Zaidi ya hayo, **47%** walipuuza ushawishi wa algoriti kama "burudani tu", jambo lililopimwa **mwezi mmoja baada** ya somo ambalo darasa lilijiangalia tabia yake iliyorekodiwa ikiwasilishwa moja kwa moja, likaitikia kwamba ni "ya kutisha", na wengi walibaki wakati wa mapumziko kuendelea kutumia jukwaa. Mafundisho ya faragha yanayofanya utaratibu uonekane bila kufanya gharama iwe thabiti huacha msimamo bila mabadiliko. Mwandishi anabainisha kwamba alama za chini hapa zinaweza kuwa **za kuaminika zaidi kuliko za juu**, kwa kuwa hakuna jibu linalotarajiwa kijamii kwa vitu hivi ilhali uwajibikaji na utawala hualika jibu linalosikika sahihi.
-
-## Dhana Zilizounganishwa
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — rekodi za mwanafunzi, kushirikiana data kati ya ofisi, na uundaji wa hatari unaofadhiliwa
-
-## Makala Zilizounganishwa
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Uchanganuzi wa kujifunza unaofadhiliwa na unaoweza kufafanuliwa kwa uundaji wa hatari ya kitaaluma unaohifadhi faragha (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Kutoka uchanganuzi wa kujifunza hadi uingiliaji wa kielimu: wezeshaji wa uingiliaji wa LA unaoaminika (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Deni la ujuzi wa mawakala: pengo la kimuundo la ujuzi wa AI kutoka kwa mawakala huru (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: kuficha utambulisho na ridhaa kwa data halisi ya kujifunza
-- [[bassett-ai-detectors-education-2026]] — Tuna shinda, wewe unapoteza: zana za kugundua AI katika elimu (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Utambuzi wa kiakili wa LLM unaofadhiliwa unaohifadhi faragha
-- [[agarwal-ethical-values-norms-aied-2026]] — Thamani na kanuni za maadili za AI katika elimu
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Kile mifumo ya ufuatiliaji inayokusanya, na kutokuwepo kwa fasihi ya faragha katika msingi wa ushahidi
-- [[edtech-privacy-deferral-2026]] — "Tutarekebisha Baadaye": Elimu, AI, na Kuahirishwa kwa Faragha ya Mwanafunzi katika EdTech
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Senti kwa ajili ya ilani zako: uvujaji wa muktadha katika majukwaa ya mazungumzo ya AI (Bekos et al. 2026)

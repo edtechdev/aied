@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -81,7 +83,6 @@ ai_assist:
 
 평가되는 시스템의 속도는 추가적인 제약입니다. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison 외(2026)]]는 그 시간적 문제를 직접 서술합니다. 대규모 시험이 설계되고 전달되고 분석되고 출판될 무렵에는 연구 대상인 기술이 이미 실질적으로 변했을 수 있으며, 이는 더 강한 증거가 필요한 바로 그 순간에 실천을 약한 관찰 자료나 사용 자료 쪽으로 밀어냅니다. 그들의 답은 더 약한 설계를 받아들이는 것이 아니라 고리를 짧게 하는 것입니다. 즉 인과 대비를 유지하면서 플랫폼이 진화함에 따라 반복되는 실무자 주도의 마이크로 무작위 시험입니다.
 
-
 - **자료 충실도는 출력 품질과 구분되는 별개의 평가 문제다.** 각 변수의 요약 통계를 재현하는 합성 교육 코호트도 자료의 구조를 잘못 서술할 수 있습니다. 학습자에 대한 주간 근접 그래프는 학기 동안 합성 버전에서 실제 코호트보다 2.6배에서 4.9배 덜 달랐으므로, 충실도 점수는 어떤 분석이 실제 자료에서 살아남는지를 예측하지 못합니다([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **분포 내 정확도는 배치 가능성이 아니다.** 선별된 문항 은행에서 macro F1 0.88을 기록한 Bloom 수준 분류기가 AI가 생성한 두 문항 집합에서는 0.48과 0.20으로 떨어졌고, 그 손실은 모형 크기가 아니라 명시적 Bloom 촉발 동사의 거의 없는 데를 추적했습니다. 훈련되지 않은 [[llm|LLM]]이 분포 밖에서 가장 강건한 선택이었으며(0.79와 0.41–0.51), 라벨 붙은 분포 밖 자료로 재훈련하는 것이 가장 큰 회복을 얻었습니다(최대 0.82). 따라서 전이는 분포 내 적합 곁에 보고에 들어가야 합니다([[bloom-classifier-ai-assisted-questions-2026|Castanares 외, 2026]]).
@@ -115,69 +116,3 @@ ai_assist:
 - **"채점 기준은 기술적인 문제입니다."** 엄격 일치는 같은 2,250개의 튜터링 대화를 **42.1%**로 채점한 반면, 인간이 보정한 LLM 판정자는 **81.3%**로 채점했습니다([[misconcept-dialogue-llm-math-tutoring-2026|Lee 외, 2026]]). 기준은 튜터 모형이나 전략, 파이프라인보다 숫자를 더 많이 움직입니다.
 - **"인식과 생성은 비교 가능한 능력입니다."** **인식은 생성이 아닙니다.** TutorCaseBench에서 **11개 모형** 중 최고는 **네 개 선택지 문항의 63.0%**에서 문서화된 전략을 골랐으나, 문서화된 실행 기준은 훨씬 덜 자주 충족했습니다. 네 개 중 옳은 답을 고르는 일과 그것을 산출하는 일은 다른 과제입니다.
 - **"모형 점수는 검증된 도구 없이도 의미가 있습니다."** **71개 반**을 위한 강좌 맞춤 시험이 생성되어 인간이 작성한 AP Statistics 문항에 **베이지안 위계 2PL** 모형으로 벤치마킹되었습니다. 점수가 해석되기 전에 도구가 먼저 적합되었습니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[assessment-validity]] — 교육 분야 AI 평가에서 해석의 타당성
-- [[educational-measurement]] — 학습 평가를 위한 측정 이론
-- [[psychometrically-aware-ai]] — AI 기반 평가에 심리측정 적용하기
-- [[benchmark]] — AI 시스템 평가를 위한 표준화된 벤치마크
-- [[automated-assessment]] — AI 기반 채점과 점수화 시스템
-- [[learning-analytics]] — 학습 행동의 자료 기반 분석
-- [[research-methods-aied]] — 교육에서의 AI를 위한 연구 방법
-- [[learning-gains]] — AI 도구로부터의 학습 성과 측정
-- [[formative-assessment]] — 교수에 정보를 주기 위한 계속되는 평가
-- [[summative-assessment]] — 총괄평가: AI에 강한 형식(구두, 감독 하의 시험, 폐북고사)
-- [[authentic-assessment]] — 실제 세계의 전이 가능한 수행 평가
-- [[human-in-the-loop-ai]] — AI 평가의 인간 감독
-- [[trust-calibration]] — AI 시스템에 대한 신뢰의 보정
-- [[hallucination-risk]] — AI 산출물에 날조된 내용의 위험
-- [[intelligent-tutoring]] — AI 튜터링 시스템 평가
-- [[agentic-ai]] — 자율적 AI 에이전트 행동 평가
-
-## 연결된 문서
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 플랫폼 점수가 놓치는 것: AI 교수 에이전트의 다차원 평가
-- [[assessment-latent-structure-human-llm-2026]] — 평가 기구는 인간과 LLM에게 같은 것을 측정하는가?(Strugatski 외 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI가 생성한 시험의 질 평가: 대규모 현장 연구
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 뉴로-상징적 교수법 정렬(NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — LLM 튜터링 에이전트의 삼분법 분류 벤치마크(Yasir 외 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — DrawEduMath에 대한 VLM 평가: 오류 내용이 가장 어렵다(Lucy 외 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — LLM 교수법적 지식의 벤치마킹(CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM 교실 관찰 검증: 신뢰성 대 정확도(Melo 외 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 온프레미스 OER AI 지식베이스 보조자: 다차원 평가
-- [[ground-truth-reliability-aied]] — 정답의 현대화: 신뢰성과 타당성을 향한 네 가지 전환
-- [[calibrating-trustworthiness-llm-education-2026]] — 신뢰성의 보정: 지표와 시각화의 공동 설계
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: LLM의 교수 능력 평가
-- [[machines-misread-pedagogical-quality]] — 왜 기계가 교수법적 품질을 잘못 읽는가: 인간-기계 정렬
-- [[cong-confidence-asag-2026]] — LLM을 활용한 자동 단답형 채점
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: 형성평가를 위한 인간 참여형 프롬프트 엔지니어링
-- [[llm-cognitive-diagnosis-handwritten-math]] — 학생의 인지 기술 진단을 위한 LLM 벤치마킹
-- [[tutoring-effectiveness-index]] — 튜터링 효과 지수: LLM 수학 튜터의 질 예측
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM 기반 교수 설계 에이전트의 벤치마킹
-- [[tool-invariant-framework-agentic-ai]] — 계산적 방법의 교수와 평가를 위한 도구 불변 틀
-- [[valid-student-simulation-llm-2026]] — 대규모 언어 모형과 함께하는 타당한 학생 시뮬레이션을 위하여
-- [[llm-difficulty-calibration-programming-exams-2026]] — 평가되는 모형에서 평가 보조물로
-- [[socratic-tests-conversational-assessment]] — 소크라테스식 시험의 이론적 기반
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
-- [[authentic-products-authenticated-processes-2026]] — 실제적 산출물에서 입증된 과정으로
-- [[genai-educational-outcomes-meta-analysis]] — 생성형 AI 교육 결과에 관한 메타분석
-- [[zhang-tutormoments-2026]] — 도움이 도움이 되지 않을 때: 생산적 투쟁을 위한 AI 튜터 평가
-- [[elbench-education-llm-benchmark-2026]] — ELBench: 교육 LLM 벤치마크
-- [[ai-grading-handwritten-physics-2026]] — 손으로 쓴 물리 평가의 AI 채점(올림피아드)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위한 자기 설명 LM의 증류
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 적응형 + AI 에드테크의 메타분석적 평가
-- [[xiong-ai-educational-measurement-review-2026]] — 채점, 심리측정, 평가에 걸친 AI의 역할
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 혁신의 속도로 AI 튜터링 평가하기: GCSE 과학에서 AI 튜터링 플랫폼의 실무자 주도 마이크로 무작위 시험
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: 과정 기반 수학 문항 품질 평가
-- [[durable-skills-measurement-ai-teammates-2026]] — 지속 가능한 기술의 확장 가능한 측정을 위하여
-- [[pivot-generative-video-tutors-stem-2026]] — 내용 생성에서 학습 지원으로: STEM 학습을 위한 교수법 안내 생성 영상 튜터
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 성과를 낸다
-- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
-- [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 지원 교육 문항의 교수법적 평가를 위한 사전 훈련 모형 평가
-- [[llm-judge-evaluation-educational-ai-2026]] — 늑대가 나타났다고 우는 평가자들: 교육 AI의 운영 LLM 심사자 평가에서 얻은 교훈
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 도전적 행동을 보이는 학생에 대한 LLM 튜터 평가 (Park 외 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: 온라인 튜터링 영상에서의 교수법적 조건성 이해 진단
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: 평가 기준이 LLM 수학 튜터링의 측정된 성공을 형성한다 (Lee 외 2026)
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 서지 지도는 평가 문화가 무엇을 보상하는지를 드러낼 수 있다 (Sriram 외 2026)

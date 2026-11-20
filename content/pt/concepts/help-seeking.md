@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -143,55 +145,3 @@ Na [[english-education|composição]] totalmente online, a disponibilidade da fe
 A busca de ajuda é geralmente estudada como uma decisão — um julgamento sobre se pedir vale o custo. Um estudo PLS-SEM de 2026 com 392 estudantes e educadores de engenharia nas Filipinas sugere que, uma vez que a [[generative-ai|IA generativa]] está incorporada, a decisão já foi em grande parte tomada: **o hábito previu o deslocamento da busca humana de ajuda com β = 0,711**, enquanto a [[technology-acceptance-model|intenção comportamental]] o previu com β = 0,039, um caminho estatisticamente indistinguível de zero. Metade dos usuários de GenAI nessa amostra (49,6%) relatou pedir ajuda a uma pessoa com menos frequência, e apenas 15,8% nomearam um humano como seu primeiro recurso quando empacavam, contra 30,4% que nomearam uma ferramenta.
 
 Duas implicações se seguem para como a busca de ajuda recebe scaffolding. Primeiro, intervenções voltadas a atitudes ou a tornar o pedir mais atraente competem com uma rotina que já é automática — elas precisam mirar a rotina, e não a crença. Segundo, o único construto que *reduziu* o deslocamento foi a preocupação com a [[academic-integrity|integridade acadêmica]] (β = −0,329), o que sugere que preservar a consulta humana é mais plausivelmente alcançado por pontos de verificação interpessoais obrigatórios — revisão por pares, defesa oral, ajuda supervisionada em laboratório — do que por mensagens.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
-
-## Conceitos conectados
-
-- [[learners]] — Estudantes: o guarda-chuva para os conceitos do lado do estudante
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — alcance institucional e alocação de apoio, além da busca de ajuda dentro do curso
-
-## Artigos conectados
-- [[leite-its-k12-meta-analysis-2025]] — Quais apoios de tutoria carregam o efeito: exemplos e dicas sob demanda acima de prompts automáticos
-- [[taufer-human-ai-interaction-haidl-2026]] — Interações como dados de primeira classe: classificar uma consulta pelo estado de execução ao seu redor
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — A trajetória da busca de ajuda, e não seu nível, prevê o desempenho em matemática sem assistência
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — O comprimento das dicas medido contra a correção da submissão seguinte, as tentativas e o tempo, num curso de programação ao vivo
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Um agente de ajuda que ninguém chamou (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: um sistema interativo de perguntas e respostas in-situ baseado em caneta que aproveita LLMs
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Busca de ajuda mediada por LLM em STEM: em camadas, instrumental e verificada
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — A um clique de distância: o Khanmigo num experimento escolar de dois anos
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoria virtual com CAL: um experimento de adesão e aprendizagem
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — O conjunto de dados StudyChat de diálogos estudante–LLM num curso de IA
-- [[lak2026-hint-button-unproductive-use]] — Pedidos prematuros de dica e leitura superficial de dicas predizem menores ganhos de aprendizagem num ITS
-- [[ai-fallibility-warning-help-seeking]] — Avisar sobre a falibilidade da IA aumenta a busca de ajuda num sistema de tutoria de matemática
-- [[regulating-ai-tutor-adolescent-srl]] — A lacuna entre intenção e comportamento na busca de ajuda por GenAI e na autorregulação de adolescentes
-- [[guided-llm-scaffolding-independent-learning]] — Scaffolding guiado com LLM melhora a busca de ajuda focada em raciocínio e a aprendizagem independente
-- [[rethinking-scaffolding-llm-tutors]] — O descompasso entre scaffolding e adesão do estudante em implantações reais de tutores de LLM
-- [[uneven-impact-generative-ai-student-learning-2026]] — Dependência precoce: consultar a GenAI antes do pensamento independente, da busca ou de um instrutor prediz tanto benefício quanto dano (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Letramento de recursos na composição online: o gargalo é reconhecer quando a ajuda é necessária (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reduzindo barreiras ao apoio acadêmico: avaliando um sistema RAG específico de curso para abordar disparidades de busca de ajuda no ensino superior
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — A contingência da necessidade de scaffolding adaptativo: um tutor de IA que escala e desvanece conforme o que o estudante faz
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: scaffolding de busca direcionada de ajuda por IA durante a resolução de problemas
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examinando a variação em como tutores de IA guiados resolvem impasses dos estudantes
-- [[student-query-demand-hybrid-ai-support-2026]] — O que os estudantes realmente perguntam: estrutura da demanda e potencial de automação num sistema híbrido de apoio
-
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examinando o uso de IA generativa por estudantes por meio de dados de entrada do usuário num curso de Estática de engenharia
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Modelo de inteligência artificial multiagente para ampliar a aprendizagem autorregulada e a compreensão conceitual na educação em ciência da computação
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — O hábito, e não a intenção, prediz estudantes pedindo ajuda a pessoas com menos frequência: 49,6% relatam menos busca humana de ajuda, β do hábito 0,711 vs. intenção 0,039

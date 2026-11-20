@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -115,35 +117,3 @@ Para educadores e instituições que buscam adotar a parceria pedagógica, a pes
 - **"Parceria significa elevar a voz do estudante."** Uma parceria pedagógica é uma **relação delimitada e negociada**, com papéis definidos e obrigação recíproca, não uma consulta. Voz sem papel, sem mandato e sem uma parte da decisão não muda nada de estrutural.
 - **"Parceria é uma postura que se pode adotar."** Ela exige condições institucionais — tempo, reconhecimento para o estudante parceiro e uma mudança que os parceiros possam de fato afetar. Parceria declarada sem essas condições reproduz a hierarquia que afirma interromper.
 - **"Compartilhar poder não pode ser desenvolvimento docente."** A afirmação da literatura é que a parceria é desenvolvimento *porque* muda a compreensão do educador por meio da relação. Enquadrá-la apenas como benefício ao estudante descarta o mecanismo.
-
-## Conceitos conectados
-- [[pedagogy]] — Pedagogias e estratégias de ensino
-- [[collaborative-learning]]
-- [[agency]] — Agência de quem aprende
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Artigos conectados
-- [[guided-inquiry-genai-course-policy-2026]] — Uma Abordagem de Investigação Guiada para Estudantes Codesenharem Políticas de Curso de IA Generativa
-- [[lo-co-creating-custom-gpts-sap-2026]] — Cocriando GPTs sob medida: um estudo autoetnográfico de estudantes de graduação como parceiros na inovação em IA generativa
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Desenho da avaliação por meio da cocriação: parceria estudante–equipe na avaliação da IA
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Cinco princípios norteadadores para navegar a IA na prática de estudantes como parceiros para preservar a confiança pedagógica
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Codesenhando a IA com parceiros jovens: um framework ético de privacidade relacional
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Iluminando as realidades complexas dos estudantes com a IA por meio de um framework de pedagogia emaranhada
-- [[anastasia-shared-agency-partnership-framework-2026]] — Agência Compartilhada: O Framework de Parceria de Agência para a Colaboração Instrutor–Estudante
-- [[maybee-disruptive-partnerships-sap-2025]] — Parcerias Perturbadoras: Colaborando com Estudantes em Estudos da Informação
-- [[student-centered-genai-responsible-framework-2026]] — Framework centrado no estudante para o uso responsável de IA generativa
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Estudantes construíram um tutor de IA para pares em escala de 710 estudantes: engajamento alto, evidência de aprendizagem exploratória (Zangari et al. 2026)

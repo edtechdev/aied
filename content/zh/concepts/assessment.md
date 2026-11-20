@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -108,58 +110,3 @@ ai_assist:
 - **"诚信主要是一个检测问题。"** 对 **26 名学生**的滚动回看访谈显示，学生在使用 GenAI 的评估中沿着一个**光谱**作判断，而在 **157 名学生**中，GenAI *如何*被使用，即支持理解的评价性整合与替代性的走捷径，预测了结果。使用的方式比使用本身更能区分学生。
 - **"非英语母语者才是作弊风险。"** 一项对 **25 项研究**的 PRISMA 综述补上了一个检测之争遗漏的风险因素：非英语母语者在挣扎于语言要求时表现出**很高的违反诚信倾向**。这是一个被误读为诚实问题的语言支持问题。
 - **"一条禁止 GenAI 的政策就能定论。"** 学生报告的是一系列判断，而不是遵循规则的模式，因此一条不触及学生已在进行的评价性推理的规则，不会被一致地遵守。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[formative-assessment]] — 形成性评估：大规模人工智能生成、验证、自适应的题目
-- [[automated-assessment]] — 跨评估模态的自动评分与打分
-- [[authentic-assessment]] — 基于过程、抗人工智能的真实任务
-- [[assessment-validity]] — 生成式人工智能下评估的效度
-- [[educational-measurement]] — 支撑人工智能评估的测量理论
-- [[automated-essay-scoring]] — 自动作文评分
-- [[automated-question-generation]] — 自动出题
-- [[oral-assessment]] — 口语评估：抵御人工智能替代的现场与录制格式
-- [[summative-assessment]] — 终结性评估：抗人工智能的格式（口试、监考、闭卷考试）
-- [[item-response-theory]] — 用于解释人工智能时代评估作答的 IRT
-- [[psychometrically-aware-ai]] — 心理测量学感知的人工智能评分
-- [[learning-analytics]] — 把评估数据连接到学习的分析
-- [[feedback]] — 闭合评估到学习循环的反馈回路
-- [[feedback-literacy]] — 学习者的反馈素养
-- [[academic-integrity]] — 诚信与人工智能检测之争
-- [[ai-detection]] — 检测人工智能生成的文本
-- [[ai-ed-evaluation]] — 评价自动评估者的方法与基准
-- [[eportfolio]] — 基于过程的电子档案评估
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## 关联文章
-
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 一个为期一年的项目，定义了多模态评估素养，并测量了什么动了、什么没动
-- [[ai-agents-joyful-assessment-third-space-2026]] — 人工智能智能体、愉悦评估与第三空间
-- [[mccorkle-aligned-genai-course-policy-2025]] — 由所评估内容推导的任务层面人工智能许可（McCorkle，2025）
-- [[usher-faraon-who-grades-best-2026]] — 跨项目质量水平比较 ChatGPT、同伴与教师评分（Usher 与 Faraon，2026）
-- [[responsible-assessment-ai-era-stanford-2026]] — 人工智能时代的负责任评估
-- [[beyond-detection-authentic-assessment-ai-2025]] — 超越检测：真实性评估
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 共同作者诚信与评估效度
-- [[competency-based-education-genai-production-2026]] — 生成式人工智能之后的基于胜任力之教育
-- [[genai-assessment-governance]] — 生成式人工智能在评估中的以证据为中心的治理
-- [[ssaho-ai-academic-integrity-review-2025]] — 人工智能诚信综述：检测必须与评估重构配对
-- [[bassett-ai-detectors-education-2026]] — 正面我们赢，反面你输：教育中的人工智能检测器（Bassett 等，2026）
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：学生焦虑的 LLM 增强评估（2026）
-- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的基于图的智能导学（2026）
-- [[asynchronous-oral-assessment-2026]] — 人工智能时代的异步口试（Pentland，2026）
-- [[assessing-student-drive-framework-2025]] — DRIVE：通过与生成式人工智能的交互评估学习（DRI + Visible Expertise）
-- [[walton-bearman-assessment-judgment-2025]] — 学生在评估任务中与生成式人工智能一同工作时的判断（26 名学生，滚动回看）
-- [[stamatoulis-genai-use-patterns-2026]] — 生成式人工智能的使用模式（评价性整合对低核验接收）与结果
-- [[luo-dawson-value-judgments-grading-2026]] — 生成式人工智能辅助作业评分中的价值判断：诚实、信任、效度与双向透明（Luo 与 Dawson，2026）
-- [[razavi-powers-item-difficulty-llm-2026]] — 用 LLM 与树模型估计题目难度
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — 人工智能能做你的作业。现在怎么办？关于生成式人工智能时代计算评估的在线工作坊报告
-- [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment：重新对齐评估的三顶点框架
-- [[rubrics-genai-process-based-assessment-2026]] — 对交互而非制品评分的量规标准
-- [[nerantzi-traffic-light-assessment-genai-2026]] — 以利兹大学的交通灯框架对生成式人工智能时代的评估所作的一场反思性对话

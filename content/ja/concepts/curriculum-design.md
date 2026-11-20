@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -109,59 +111,3 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 - **「[[llm|LLM]]は高い信頼性で検証されればカリキュラムを写像できる。」** GPT-o3-miniは**48の評価それぞれについて7つの企業技能に100%を配分**し、専門家の重みに対して**Krippendorffのα 0.81**に達しましたが、**一致は特定の技能で崩れました**。全体の信頼性が高くても一致が不均一であるというパターンを、写像を信頼する前に点検すべきです。
 - **「AIリテラシーを埋め込むとは、コースを一つ追加することである。」** LearnAIは埋め込み型を示します。**5つの分野にわたる18の既存コース(学生293人)の内部にある短い発表からなる広い露出層**です。露出は単位にまとめられるのではなく、カリキュラム全体に分配されていました。
 - **「学生はメディアを批判的に評価する力をすでに備えて到着する。」** 調査した教育・ジャーナリズムの学生のうち、コースワークが批判的メディア分析を扱っていると述べたのは**13.8%**だけで、**97.8%がそれを重要と評価**していました。技能を評価することと、それを教えられることの隔たりが、カリキュラム上の余地です。
-
-## 関連する概念
-- [[pedagogical-partnerships]] — 教育学的パートナーシップ
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — 包括概念:AI教育における教授法と教授戦略
-- [[recommender-systems-and-learning-paths]]
-
-## 関連する記事
-
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 認定のための、重みづけられ専門家に検証された技能の写像
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAIによる構成的整合の助言の批判的言説分析(McInnes他 2026)
-- [[icet-ml-education-trust-2026]] — 教育を通じてAIシステムにおける信頼に対処する:教育的な視点
-- [[refrain-amplify-genai-curriculum-2026]] — GenAIを順序づけるための控えてから増幅するカリキュラム枠組み(Torres-Sahli他 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — 熱工学におけるプロジェクトベースのAI教育カリキュラム
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI時代のスマートマニュファクチャリングにおける Workforce Readiness Level 枠組み
-- [[rewriting-curriculum-genai-pedagogy-2026]] — カリキュラムを書き直す:GenAI駆動の教授法的変化
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AIスキル枠組み:カリキュラムマッピングのための26の評価可能なスキル
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI:分野をわたるジャストインタイムのAI共創
-- [[ai-video-dual-gatekeeping-2026]] — ノーと言うことがより良い動画をつくるとき:教授法的に基礎づけられたAIコンテンツ制作のための二重のゲートキーピング
-- [[niri-steam-ai-literacy-review-2026]] — AIリテラシーのためのSTEAM教育:体系的なレビュー
-- [[caruana-pre-university-ai-education-slr-2026]] — AI駆動の未来に向けた学習者と教師の準備:大学進学前のAI教育のSLR(Caruana他 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — 数学的モデリング問題を生成するAI活用プラットフォーム(ADDIE、RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — 粒子物理学教育におけるAI:研究上の課題と基礎的なスキル
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? 生成AI時代のコンピューティング評価に関するオンラインワークショップの報告
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — コンピテンスの枠組みは五つの次元に収束するが、共有された語彙も突き合わせもない
-- [[bursic-ai-residency-education-curriculum-2026]] — レジデンシー・カリキュラムへのAI統合の障壁：12人の医師リーダーへの質的インタビュー
-
-- [[rodafinos-llm-curriculum-audit-2026]] — 心理学における大規模言語モデル支援のカリキュラム監査:プロンプトベースの手法

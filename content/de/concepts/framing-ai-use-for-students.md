@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -99,38 +101,3 @@ Der Frame bestimmt auch nachgelagert den Marktwert des Abschlusses mit: Bei ~1.7
 **„Ein Werkzeug zu verbieten beseitigt das Verhalten.“** Es verlagert es in Werkzeuge, die Sie nicht sehen. Studierende bevorzugen bereits privat zugängliche Werkzeuge gegenüber institutionell bereitgestellten, sodass ein Verbot die Nutzung aus der einzigen Umgebung drängt, in der Unterstützung, Protokollierung oder Anleitung möglich ist. Die Aufgabe der Einordnung ist, das erlaubte Verhalten zum attraktiven zu machen und nicht, das verbotene schwerer beobachtbar zu machen.
 
 **„Einordnung ist Überzeugungsarbeit, also mehr Rhetorik als Design.“** Die Einordnung, die diese Seite beschreibt, ist mit Design gepaart: Erwartungen klar und wiederholt kommuniziert, *während* rund um Studierende gestaltet wird. Botschaften, die geliefert werden, statt dass für sie gestaltet wird, sind die Version, die scheitert, weil Studierende den Unterschied zwischen einer erklärten und einer tatsächlichen Verpflichtung lesen.
-
-## Verbundene Konzepte
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Verbundene Artikel
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten zur Sequenz: ohne GenAI erwerben, mit ihr konsolidieren, dann selbst denken
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparente Begründung für jede erlaubte und jede unerlaubte GenAI-Nutzung, Aufgabe für Aufgabe (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Angemessene Nutzung von GenAI ermutigen statt sie als Störung zu verurteilen
-- [[student-rationalization-ai-writing]] — Die „fünf Orte", an denen Studierende KI-Nutzung im akademischen Schreiben rationalisieren
-- [[student-regulatory-awareness-genai]] — Die Regeln zu kennen reicht nicht: regulatorisches Bewusstsein und tatsächliche Nutzung
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Von KI-Angst zu strategischer Regulation
-- [[chatgpt-inoculation-training-verification-2026]] — Inokulationsbotschaften und Verifikationsverhalten
-- [[ai-fallibility-warning-help-seeking]] — Warnung vor KI-Fehlbarkeit erhöht Hilfesuche
-- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
-- [[access-not-enough-ai-tutoring-2026]] — Menschliche Unterstützung verbessert das Engagement mit KI-Tutoring
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-basiertes Engagement mit GenAI
-- [[ai-availability-student-motivation]] — Wie KI-Verfügbarkeit die Motivation von Studierenden prägt
-- [[youtube-frames-chatgpt-education]] — Wie YouTube die Nutzung von ChatGPT in der Bildung einordnet
-- [[ai-ethics-education-public-discourse]] — Öffentlicher Diskurs über KI-Ethik in der Bildung
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Lehrende ordnen KI als kritische/verantwortungsvolle Nutzung ein; Arbeitgeber als Produktivität
-- [[ssaho-ai-academic-integrity-review-2025]] — Eine Kultur akademischer Integrität über klare Erwartungen aufbauen

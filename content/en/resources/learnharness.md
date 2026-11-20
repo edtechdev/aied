@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 **LearnHarness** is a desktop application for [[agentic-ai|agent-assisted]] learning that organizes a lesson around [[prior-knowledge|what a learner already understands]] rather than around a topic list. The project describes four moves: **measure**, probing the ideas the goal depends on to find where understanding ends; **plan**, deriving a dependency map to the goal and showing it as a lesson map; **teach**, working one reasoning step at a time through a predict–explain–check rhythm so confusions are repaired before anything is built on them; and **practice**, a stream of problems targeted at the learner's own difficulties.
@@ -42,10 +43,3 @@ Independent learners working on difficult material, and instructors or developer
 ## Notes and caveats
 
 Free covers the software, not the inference: learners bring provider keys, a subscription, a local Claude Code CLI or any OpenAI-compatible endpoint, and pay the provider with no markup; a live meter estimates known API costs only. Records, chats and keys stay on the machine as plain files, but the project warns that local storage does not mean offline processing, since model requests, optional dictation and web research all reach external services. The Windows x64 installer is unsigned, so Windows will warn. No efficacy study is reported, so the case rests on stated rationale rather than measured outcomes; the repository had roughly 4,800 stars when checked on 2 November 2026.
-
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

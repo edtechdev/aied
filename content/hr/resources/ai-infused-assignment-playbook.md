@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -47,16 +48,3 @@ Nastavnici u različitim disciplinama, posebno u visokom obrazovanju i stručnim
 ## Napomene i upozorenja
 
 Ovo je praktični vodič, a ne empirijska studija; njegove tvrdnje o studentskoj upotrebi umjetne inteligencije oslanjaju se na citirane vanjske izvore (BestColleges, Campbell, Digital Education Council, Flaherty), a ne na nove podatke. Okvir „izgradnje mreže“ i uokvirivanje „iluzije razumijevanja“ preuzeti su iz šire literature (Wigmore i sur.; Williamson i sur.) i predstavljeni su kao pedagoško obrazloženje, a ne kao provjereni ishodi samog priručnika. Zadaci su autorski predlošci — nijedan nije popraćen veličinom učinka, pa ih treba tretirati kao dizajne za lokalnu prilagodbu i evaluaciju. Objavljeno 7. listopada 2026., v1, na Zenodu pod licencijom CC BY 4.0; besplatno preuzimanje bez računa. U trenutku unosa zapis pokazuje samo oko 35 pregleda i oko 14 preuzimanja, pa je dosad imao malo vanjske upotrebe ili recenzije.
-
-## Povezani pojmovi
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -126,52 +128,3 @@ Jede dieser Disziplinen würde von anhaltender wissenschaftlicher Aufmerksamkeit
 - **„Die Disziplin zählt vor allem für Inhaltbeispiele."** Forschung mit **560 Studierenden** fand, dass die disziplinäre Zugehörigkeit **vorhersagt, wie häufig und wie offen Studierende** [[generative-ai|generative KI]] nutzen. Die Disziplin prägt, ob das Werkzeug überhaupt genutzt wird und ob diese Nutzung offengelegt wird, nicht nur, wonach es gefragt wird.
 - **„Interdisziplinarität ist ein allgemeines institutionelles Ziel."** Die **Form des „Interdisziplinären" ist selbst disziplinbestimmt**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.s (2026)]] [[meta-analysis-systematic-review|Review]] findet, dass die Gestalt, die sie annimmt, nach Fach variiert. Eine einzige institutionelle Definition missversteht mindestens einige der Disziplinen, die sie abdeckt.
 - **„Berufsbildung hat eine Forschungsbasis, die mit der akademischer Disziplinen vergleichbar ist."** Der berufliche Strang ist **der dünnste in dieser Evidenz**: ein systematisches Review von **26 Studien** in der Berufsbildung fand **keine in Arbeitsplatzsettings** — den Settings, in denen die Kompetenz tatsächlich ausgeübt wird. Das Fehlen der Literatur ist eine Lücke, kein Nullergebnis.
-
-## Verbundene Konzepte
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Verbundene Artikel
-
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 PE-Lehrkräfte an Hochschulen: verkörperte Disziplinarität als Barriere und AI-Ausstattung, die Elite-Teams zugewiesen wird (Yang, Chen & Rao, 2026)
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematischer Review zu KI in der interdisziplinären Hochschulbildung (59 Studien)
-- [[llms-text-linguistics-teaching-2026]] — LLMs in der Textlinguistik-Lehre
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalisierung von Lernprinzipien mit AI in der Ausbildung für Gesundheitsberufe
-- [[designing-ai-professional-development-itpack-2026]] — KI-Fortbildungen auf Basis von Intelligent-TPACK
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-spezifisches TPK in der Lehrkräftebildung
-- [[human-centered-ai-teacher-educators-2026]] — Berufliche Weiterbildung zu kritischer AI-Kompetenz für Lehrkräftebildner
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretative Kognition in der geistes- und sozialwissenschaftlichen Bildung
-- [[becker-chatgpt-typology-physics-2026]] — Typologie der ChatGPT-Nutzung in der Physikdidaktik
-- [[code-review-genai-cs1]] — GenAI-Code-Review in CS1
-- [[ai-writing-support-stage-ownership-2026]] — Phasenbasierte KI-Schreibunterstützung und Eigenverantwortung
-- [[ai-engineering-education-balancing-act]] — Der Balanceakt von KI in der Ingenieurausbildung
-- [[ai-literacy-career-adaptability-business-2026]] — AI-Kompetenz und Karriereanpassungsfähigkeit in der kaufmännischen Bildung
-- [[jiang-genai-activity-theory-disciplines-2026]] — Aktivitätstheorie: disziplinäre Unterschiede bei Nutzung und Offenlegung von GenAI (560 Studierende)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflegeausbildung: Zugewinne an Wissen und Selbstvertrauen, uneinheitliche Effekte auf psychomotorische Fähigkeiten
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI als Lerngerüst oder Abkürzung beim IT-Lernen in postgradualen Studiengängen
-- [[ai-vocational-education-training-review]] — Erste systematische Übersichtsarbeit zu AI in der beruflichen Aus- und Weiterbildung
-- [[genai-architectural-design-studios]] — Generative Modelle im Entwurfsstudio: Anregung, Erweiterung des Lösungsraums und Fixierung
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Mastery-Abbruchregeln, die eine übergeneralisierte Regel als Kompetenz bescheinigen

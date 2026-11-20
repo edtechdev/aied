@@ -31,6 +31,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
+connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,7 +72,6 @@ ai_assist:
 
 המקרה הסיבתי לכלל הוא ניסוי שדה בכחמישים כיתות מתמטיקה בתיכון בטורקיה עם כמעט 1,000 תלמידים ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). GPT-4 לא-מוגבל העלה את ביצועי התרגול עם סיוע ב-48% וקיצץ את הבחינה ללא סיוע ב-17% לעומת הביקורת, בעוד GPT-4 מוגן העלה את התרגול ב-127% והשאיר את הבחינה כמעט ללא שינוי. ה[[guardrails|מגנים]] היו רק שניים: רמזים במקום תשובות, ותוכן ספציפי-לבעיה שנכתב בידי המורה (פתרון נכון, טעויות נפוצות) שהוזרק להנחיה כך שהרמזים היו מדויקים. נתוני המעורבות מיקמו את הנזק בהעתקה, כיוון שתלמידים לא-מוגנים ביקשו בעיקר תשובות, ותלמידים בשתי זרועות הבינה המלאכותית טעו בהערכת הלמידה של עצמם.
 
-
 ### כישלון פרודוקטיבי: ניסיון לפני הדרכה
 
 **ראיות: מעורב, ורעב יותר מהמוניטין שלו.** תלמידים מנסים בעיה המכוונת למושג שלא הורו להם, החונך מעלים את הפתרון ומעורר ניסיונות מרובים, עזרה מגיעה רק כשנחוצה בהחלט, ולאחר מכן מגיע גיבוש עם השוואה והדרכה ישירה.
@@ -91,7 +92,6 @@ ai_assist:
 
 כמה דוגמאות לתת לפני התרגול הוא עצמו תלוי-תוכן, מה שמסגור הסעיף של "דוגמאות פתורות ואז בעיות" משאיר פתוח. בניסוי 2×2 עם 95 משתתפים בחומרי שטח גיאומטריה, אימון בתרגול-בלבד הפיק רווחים גדולים יותר לעובדות לשינון, בעוד החלפה של דוגמאות בתרגול הפיקה רווחים גדולים יותר למיומנויות הניתנות להכללה (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho, 2025]]). לא ניתן לשפוט רצף כדוגמאות פתורות מול תרגול באופן מופשט, כי התמהיל הנכון נובע מכך אם היעד הוא עובדה או מיומנות.
 
-
 ## דפוסים שמשלבים משוב בינה מלאכותית עם משוב אנושי
 
 הממצא המשוכפל ביותר במאגר הידע על משוב בינה מלאכותית הוא שהוא עובד טוב יותר *בשילוב* עם משוב אנושי מאשר לבדו — ושהאיכות שלו אינה מה שקובע אם תלמידים משתמשים בו.
@@ -103,7 +103,6 @@ ai_assist:
 המחקר הגדול ביותר עד עתה על שימוש תלמידים במשוב בינה מלאכותית עקב אחרי 654 סטודנטים בעשרת קורסי כתיבה ושלושה קורסי [[stem-education|STEM]] אינטנסיביים לכתיבה: 58% העדיפו שילוב של ChatGPT ו[[peer-assessment|משוב עמיתים]], 36% עמיתים בלבד ורק 6% בינה מלאכותית בלבד; 75% מצאו את השניים דומים ומחזקים זה את זה; משוב בינה מלאכותית כונה "כללי מדי" על ידי 31% בעוד משוב עמיתים היה ספציפי יותר עבור 28%; ורק 5.3% הראו מוגנות-יתר במשוב בינה מלאכותית ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). הדגם הופעל גם בקורס כתיבה עסקית מתקדם עם 34 סטודנטים, שבו כרבע מהרפלקציות הממוקדות הביעו סקפטיות או ציינו אי-דיוקים במשוב בינה מלאכותית ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). שני המחקרים מדווחים נתוני תפיסה; לאף אחד אין תנאי ביקורת, ולכן הדפוס הוא *מעורב* ולא *נבדק*.
 
 כתיבה שלישית של אותה הטמעה מ-2024 שואלת איך התלמידים מכנים את הכלי ולא איך דירגו אותו. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] מתארים 13 סקציות בעשרה קורסי כתיבה אינטנסיביים ו-654 סטודנטים, ומדווחים שרק כמחצית (51.7%) אימצו את תפקידי החונך או המשתף שהציע הנחיית הרפלקציה. השאר כינו אותו כלי, תוכנית, רובוט או מחשב, או המציאו מטאפורות כמו מכונת ממכר של משוב. המחברים קוראים את אוצר המילים הזה כתוצאת האוריינות וכעדות לסוכנות כותבת, והנתונים שלהם תפיסתיים באותו אופן, ולכן דרגת הראיות שלמעלה אינה משתנה.
-
 
 ### משוב עמיתים ובינה מלאכותית משולב
 
@@ -204,92 +203,3 @@ ai_assist:
 - **"כל תרגול שמספק AI הוא תרגול."** תנאי חזרה-מרווחת אדפטיבי הפיק **את ציוני המבחן-המאוחר הגבוהים ביותר (M = 78.19)** ו**גבר באופן מובהק על לימוד AI מונחה-לומד (M = 67.28)**. הסידור המונחה-לומד היה נחות מזה המובנה, ולכן אוטונומיה אינה אוטומטית העיצוב הטוב יותר.
 - **"ללמוד עם [[conversational-ai|צ'אטבוט]] טוב יותר מלמוד בלי."** **מקרה ההנגדה מכריע**: ב[[rct|ניסוי אקראי]] של **120 סטודנטים**, אלה שעבדו **עם** ChatGPT לא-מוגבל זכרו **פחות כשנבחנו ללא התראה** מאשר אלה שלא. הכלי הזיק לשימור בסידור שנבדק.
 - **"הראיות של הדפוס הן ניסוי מאגר גדול."** **התמיכה החזקה ביותר היא עקיפה** ומגיעה מ**ניסוי אקראי בתוך-נבדקים עם 26 סטודנטים**, שבו [[scaffolding|פיגום]] תשובה-מיידית התנהג באופן מובהק אחרת. הראיות תומכות בדפוס ונשארות דלות בקנה מידה, וכך יש לקרוא את העמוד.
-
-## מושגים מחוברים
-
-- [[pedagogy]] — המטרייה של גישות ההוראה שהעמוד הזה מתפעל לרצפים
-- [[learning-design]] — היכן דפוסים נבחרים, מסודרים ומוטבעים בקורס
-- [[scaffolding]] — עקרון התמיכה-וההתפוגגות ששולט היכן עזרת בינה מלאכותית שייכת
-- [[feedback]] — המערכת שדפוסי המשוב של העמוד הזה ממומשים
-- [[formative-assessment]] — מטרת ההערכה שרוב הדפוסים האלה משרתים
-- [[peer-assessment]] — החצי האנושי של דפוסי PAIRR והמשוב המשולב
-- [[ai-feedback-quality]] — מדוע איכות המשוב לבדה אינה קובעת עריכה
-- [[evaluative-judgment]] — ההערכה שהתלמידים חייבים להפעיל על פלט בינה מלאכותית
-- [[feedback-literacy]] — היכולת ששלבי ההערכה הביקורתית בונים
-- [[human-in-the-loop-ai]] — מבנה הפיקוח של דפוסי הביקורת
-- [[oral-assessment]] — הפורמט שמאחורי דפוסי האימות
-- [[process-oriented-assessment]] — ההיגיון שמאחורי נקודות ביקורת מדורגות
-- [[productive-failure]] — המושג שמאחורי ניסיון-לפני-הדרכה
-- [[retrieval-spacing-interleaving]] — בסיס הראיות לדפוסי שליפה מפוזרת
-- [[desirable-difficulties]] — מדוע רצפים מאמץ-דורשים מנצחים רצפים זורמים
-- [[misconceptions]] — מה שדפוסי השינוי-הקונספטואלי מכוונים
-- [[refutation-text]] — צורת הטקסט של התמודדות עם תפיסה שגויה
-- [[learning-by-teaching]] — הפדגוגיה שמאחורי דפוס תלמיד-AI
-- [[socratic-method]] — דפוס השאלות וראיותיו הסותרות
-- [[collaborative-learning]] — ההקשר לעבודת AI משותף מתוסקרת
-- [[cognitive-offloading]] — הסיכון שכל דפוס מאמץ-קודם מעוצב להימנע ממנו
-- [[metacognition]] — מה ששלבי הרפלקציה ברצפים האלה מיועדים להפעיל
-- [[prompt-engineering]] — שכבת הפיגום בדפוסי שימוש מובנים
-- [[transfer-of-learning]] — התוצאה שרוב הדפוסים נשפטים עליה בסופו של דבר
-- [[assessment-validity]] — הסיבה שראיות תהליך מוצעות מלכתחילה
-- [[academic-integrity]] — המניע מאחורי אימות בעל-פה ותהליכי
-- [[ai-literacy]] — היכולת שמפותחת בביקורת פלט בינה מלאכותית
-- [[online-teaching-and-learning]] — ההקשר שהופך את הרצף למכביד
-- [[higher-ed]] — השלב שרוב הראיות האלה נוצרו בו
-- [[k-12]] — השלב של מחקרי הכישלון-הפרודוקטיבי, השינוי-הקונספטואלי וההערכה-הבעל-פה
-
-## מאמרים מחוברים
-
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): הרצף הדגל, N = 654 (Sperber et al. 2025)
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR שהופעל בקורס כתיבה עסקית (MacArthur et al. 2025)
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — מה 654 סטודנטים קראו לצ'אטבוט: 51.7% אימצו את תפקידי החונך או המשתף שהוצעו (Stillman et al. 2026)
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — משוב משולב של בינה מלאכותית-בתוספת-עמיתים העלה מעורבות ואת ארבעת ממדי IELTS (Liu 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — משוב עמיתים GenAI מונחה-הנחיה בארגומנטציה שיתופית (Chang et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — אימון תלמידים לסנן ולהעריך משוב בינה מלאכותית: תנאי FRAC ו-APCA
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — משוב בינה מלאכותית באיכות גבוהה יותר לא הפיק רווחי עריכה גדולים יותר (Farrokhnia et al. 2026)
-- [[guardrails-ai-teaching-assistants-programming-2026]] — סוקרטיות בתוספת הקשר מלא דורגה גרוע יותר מכל תצורת עוזר אחרת (Eastwood et al. 2026)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — פיגום סוקרטי מופעל-צורך באימון ראיונות קליניים, N = 100 (Yang et al. 2026)
-- [[hashmi-socratic-physics-chatbot-2025]] — צ'אטבוט סוקרטי במכניקת יסוד: ספציפיות השאלות עלתה מ-10–15% ל-100% (Hashmi et al. 2025)
-- [[agent-type-feedback-style-self-directed-learning-2026]] — משוב סוכנים סוקרטי מול נוגדני, כאשר הסדר לא אוזן (Han et al. 2026)
-- [[adaptive-pretesting-retention]] — שליפה מפוזרת אדפטיבית ניצחה לימוד AI מונחה-לומד (Akgun & Toker 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT חופשי במהלך הלימוד הוריד שימור ל-45 יום (Barcaui 2025)
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — רווחי חונכות מובנים עקפו שבועות שהושלמו, לא דקות (Yang et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — דוגמאות מול תרגול מצטלבות לפי סוג הידע (Rachatasumrit et al. 2025)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — דוגמאות מודרכות ומוכתמות אדפטיביות בחונך לוגי חכם (Dey Tithi et al. 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — הוספת הסבר-עצמי למשוב AI הפסידה בכל מדד (Asher et al. 2025)
-- [[generative-ai-guardrails-harm-learning]] — חונכות מוגנת בטלה את נזק הבחינה שגרם GPT חסר-מגן, ~1,000 סטודנטים (Bastani et al. 2025)
-- [[guided-llm-scaffolding-independent-learning]] — שימוש ב-LLM מודרך מול חופשי בסטטיסטיקה (Amanlou et al. 2026)
-- [[preferred-scaffolding-ai-mathematical-modeling]] — פיגום תשובה-מיידית דיכא הפשטת מודל בעוד הוא הועדף (Zhu et al., 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — כיוונון חונך LLM להעלאת פתרונות עבור כישלון פרודוקטיבי (Puech et al. 2025)
-- [[pedagogy-ai-mistakes]] — מחזורי ביקורת-ושיפור שבועיים שנבנו על מקרי כישלון ביודעין של בינה מלאכותית (Hosseini 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — ניתוח שגיאות ככושר נפרד, על פני 72 מחקרי חינוך מחשוב (Kumar et al. 2026)
-- [[lukesova-clue-before-correction-2026]] — רמזים מודרכים במקום תיקון שגיאות ישיר בעריכת L2 (Lukešová & Jennings 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — הסבר ללומד-טירון AI, N = 68 (Wang et al. 2026)
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — מבחן רנדומלי של הוראת סוכן ChatGPT לתכנות (Chen et al. 2024)
-- [[explique-teachable-agent-algorithms-546-students-2026]] — לימוד דרך הוראה שפורש ל-546 סטודנטים על פני 11 שבועות (Wang et al. 2026)
-- [[socrates-students-instructors-llms-lbt-2025]] — סטודנטים מעצבים שאלות ש-LLM אינו יכול לענות עליהן (Yang et al. 2025)
-- [[code-review-genai-cs1]] — ראיונות ביקורת קוד בעל-פה חובה כתגובה ל-GenAI ב-CS1 (Fowles et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — הערכה בעל-פה מוקלטת אסינכרונית מול בחירה-מרובה פנים-אל-פנים (Pentland et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — viva מבוסס-צ'אט הפחית חרדה בעוד פנים-אל-פנים דורג טוב יותר להבנה (Yusuf et al. 2026)
-- [[ai-supported-oral-assessment-tvet-2026]] — בינה מלאכותית מחשיפת ראיות מחוון לשיפוט המורה בסדנאות מקצועיות (Adams 2026)
-- [[quantum-education-its]] — נקודות ביקורת פלט-וגישה בקורס מתקדם בקצב עצמי (Elhaimeur & Chrisochoides 2026)
-- [[agentic-education-coding]] — נקודות ביקורת עצירה-חסימה ובדיקת קדם-קידום, N = 27 (Naboulsi 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — למידה מבוססת-בעיות בארבעה מודולים עם אבני דרך ומחוונים (Nnamdi et al. 2026)
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — לולאת ביקורת עם ארבעה סוכנים עם מורים, והיכן התאמת העניין נכשלה (Walkington et al. 2026)
-- [[zhao-learnlens-feedback-educators-loop]] — משוב עם מחנך-בתוך-הלולאה עם ציוני מאמת (Zhao et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — הזרקות הנחיה ששינו ציונים בלי להתגלות, ומשאירות את המורה כבדיקה היחידה (Humble 2026)
-- [[golrang-propact-pair-programming-2026]] — בינה מלאכותית משותפת חוזה קריסת שיתוף פעולה בתכנות-זוגי (Golrang et al. 2026)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — תפקידי לומד ו-AI מתוסקרים בבניית ידע קבוצתית (Cheng et al. 2026)
-- [[paratutor-parent-child-tutoring]] — תמיכת AI בתפקידים מופרדים בחונכות הורה-ילד (Luo et al. 2026)
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — דיאלוג AI מותאם ניצח הפרכת ספר-לימודים מיידית, ומתכנס עד חודשיים (Corbett & Tangen 2026)
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — טקסטי שינוי-קונספטואלי ניצחו דיאלוג AI אינטראקטיבי, התוצאה ההפוכה (Akdogan 2025)
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — חקר מודרך בתמיכת AI והבנה קונספטואלית (Aydin 2026)
-- [[ai-enhanced-flipped-classroom-three-year-2026]] — השוואה תלת-שנתית של מסורתי, הפוך ו-Flipped משופר-AI (Liu et al. 2026)
-- [[flipped-learning-genai-design-education-2026]] — קורס סטודיו הפוך עם פיגום הנחיה מונחה-פרמטרים (Qu et al. 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — מודל ההוראה כמתווך תוצאות: הפוך g = 1.96 מול מסורתי g = 0.46 (Jing et al. 2026)
-- [[ai-tutor-statistical-programming-adoption-2026]] — שימוש חונך-שיעורי-בית שבועי חזה ציוני משימות העברה בקורס הפוך (Préau et al. 2026)
-- [[beck-genai-literacy-economics-hands-on]] — דיון ביקורת-AI בחמישה שלבים שנבנה על שגיאת בינה מלאכותית (Beck & Brodersen 2025)
-- [[ccct-cooperative-learning-technique]] — רצף למידה שיתופית שנבדק עם תפקידים מוקצים וטיול גלריה (Tutal 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — מודול סמינר ודיון-עמיתים עם ממליץ אחזור AI (Huang 2026)

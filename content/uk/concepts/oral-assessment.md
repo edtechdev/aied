@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -92,36 +94,3 @@ ai_assist:
 - **«Усне оцінювання не масштабується.»** У [[code-review-genai-cs1|дослідженні усного огляду коду в CS1]] **щотижневі п’ятнадцятихвилинні інтерв’ю несли сімдесят відсотків оцінки кожного завдання**, і вставлені-до-загальних символи все ще залишалися інформативними. Ціна реальна, і дизайн є здійсненним у масштабі курсу.
 - **«Усні іспити м’якші за письмові.»** У повідомленому пілоті бали **перевершували бали очних іспитів із вибором відповіді: медіана семестрового іспиту 92,5 проти 70 (p < .001) і медіана фінального 94,2 проти 86,4 (p = .002)**. Усне оцінювання не було поблажливим варіантом.
 - **«Симульована зустріч є еквівалентом випадків із поступовим розкриттям.»** У [[ai-standardized-patient-scaffolding-medical-2026|РКД зі ста третьокурсниками медичного факультету]] систему симульованого пацієнта порівнювали **з матеріалом випадків із поступовим розкриттям** — прямий тест еквівалентності, а не припущення про неї.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Послідовності усної верифікації та заліку, і що вони демонструють і не демонструють
-- [[assessment]] — ширше поле, усередині якого стоїть цей формат
-- [[authentic-assessment]] — дизайнерська традиція, яка робить справа за доброчесність
-- [[assessment-validity]] — що формат може і не може стверджувати, що вимірює
-- [[academic-integrity]] — тиск, який повернув усні заліки до визнання
-- [[automated-assessment]] — машинна подача й оцінювання усної діяльності
-- [[ai-detection]] — альтернативна відповідь і чому вона слабша
-- [[speech-and-voice-technologies]] — конвеєр мовлення, на якому працює усна система
-- [[multimodal]] — жест і мовлення як поєднаний доказ
-- [[anxiety-and-stress]] — афективна вартість живої діяльності
-- [[feedback]] — що усний залік говорить здобувачеві про власне розуміння
-- [[higher-ed]] — умова, з якої майже всі ці докази походять
-
-## Пов’язані статті
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Діалогові завдання ШІ без розгалуження розводять вимоги завдання з конструктом мовлення
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Живі усні захисти більше не імунні: ШІ-окуляри й навушники доставляють приховані підказки в реальному часі (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Переосмислення використання усних іспитів і оцінювань (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Асинхронні усні оцінювання: доброчесність, залученість і професійна комунікація
-- [[ai-supported-oral-assessment-tvet-2026]] — Проєктування усного оцінювання з підтримкою ШІ в професійній освіті
-- [[aivaluate-anxiety-assessment-2026]] — Тривожність і досвід в оцінюванні діяльності, опосередкованому ШІ
-- [[code-review-genai-cs1]] — Інтерв’ю усного огляду коду у вступному курсі програмування
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Жест як доказ в оцінюванні усних пояснень
-- [[socratic-tests-conversational-assessment]] — Автоматизоване розмовне тестування як усне оцінювання
-- [[tool-invariant-framework-agentic-ai]] — Усні захисти роботи з допомогою ШІ
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Усні клінічні інтерв’ю під системою симульованого пацієнта
-- [[pgr-students-genai-uses-qualitative-2026]] — Докторський усний залік в умовах генеративного ШІ
-- [[computing-assessment-genai-workshop-report-2026]] — ШІ може виконати ваше домашнє завдання. Що тепер? Звіт з онлайн-воркшопу про оцінювання в обчислювальній галузі в епоху генеративного ШІ
-- [[assessment-feedback-trilemma-model-2026]] — Відмовляє будь-якому формату у фіксованій позиції та переосмислює здійсненність як освітній пріоритет

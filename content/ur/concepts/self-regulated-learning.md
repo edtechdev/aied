@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -46,18 +48,15 @@ SRL وہ عمل ہے جس کے ذریعے سیکھنے والے تین باہم 
 
 ماہر خود ضابطگی والے سیکھنے والے کامیابی بڑھانے کے لیے علمی حکمتِ عملیاں بروئے کار لاتے ہیں اور اپنے سیکھنے کے عملوں کو مسلسل بہتر بنانے کے لیے [[metacognition]] کا استعمال کرتے ہیں۔([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-
 ٹیکنالوجی کی مداخلت والے ایک کورس میں تجرباتی کام مراحل کے اِن روابط کی تصدیق کرتا ہے: ایک آٹھ ہفتے کے موافق اسٹوکاسٹکس مطالعے (194 طلبہ) میں، عمل سے پہلے کے مرحلے میں کام کی قدر، خود اعتمادی، ہدف کی سمت اور مثبت جذبات نے عملی ضابطگی رویّے کی پیش گوئی کی جبکہ منفی جذبات نے اُسے روکا، اور عمل کے بعد کی اطمینان اگلے عمل سے پہلے کے مرحلے میں آگے بہی ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]])۔
 
 84 AI–SRL مطالعات کی منظم نقشہ بندی سے پتہ چلا کہ تحقیق اعلیٰ تعلیم کے طلبہ اور خود ضابطگی کے میٹا کوگنیٹو اور علمی پہلوؤں پر مرکوز رہی، محرک کی جہت کم دریافت ہوئی اور ایک تہائی سے زیادہ مطالعات نے کوئی SRL نظریہ ہی متعین نہیں کیا ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]])۔
 
 اہم بات یہ ہے کہ AI کے گرد SRL رویّے کے ساتھ ساتھ *ادراک* سے بھی شکل پاتی ہے: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] دکھاتے ہیں کہ طلبہ فیڈبیک کو AI کی طرف سے آیا ہوا سمجھیں یا انسان کی طرف سے، اِس کا اُن کی خود ضابطگی والی سیکھنے اور نظرثانی کے رویّے پر نمایاں اثر پڑتا ہے — یہ یاد دہانی کہ AI کی سماجی تشکیل، نہ صرف اُس کا مواد، بدلتی ہے کہ سیکھنے والے اُس کے گرد کیسے ضابطہ بناتے ہیں۔
 
-
 نقصان کا ایک نمونہ ضابطگی شروع ہونے سے پہلے ہی موجود ہوتا ہے: GenAI کی مدد سے سیکھنے میں تاخیر — GenAI کی معاونت والے کام کو شروع کرنے میں بے جا تاخیر، باوجود اُسے استعمال کرنے کی حقیقی نیت کے۔ 1,243 چینی انڈرگریجویٹس میں، GenAI کا زیادہ کثرت سے استعمال اُس کے کم استعمال کے ساتھ جاتا رہا (β = −0.195)، اور GenAI سیکھنے کی بے چینی نے نیت اور تاخیر کے ربط کو مضبوط کیا ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]])۔
 
 GenAI حلقے میں کہاں داخل ہوتا ہے، یہی اُس کا اثر طے کرتا ہے: Zimmerman کے پیشگی سوچ، عمل اور عکاسی کے مراحل کو AI کے ذریعے عمل میں آنے والے ماحول پر نقش کرتے ہوئے، ایک ہم ایجنسی فریم ورک دلیل دیتا ہے کہ داخلے کا مقام طے کرتا ہے کہ ٹول سیکھنے والے کے کنٹرول کے احساس کو بڑھاتا ہے یا کُرتا ہے، اور یہ کہ منتقلی تبدیلی آمیز سیکھنے کی معاونت صرف اُس وقت کرتی ہے جب فیصلہ دانستہ ہو، معمول نہیں ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]])۔
-
 
 434 [[special-education|خصوصی تعلیم]] کے انڈرگریجویٹس کے ایک کراس سیکشنل سروے نے ایسی ہی ایک زنجیر ناپی: [[generative-ai|GenAI]] خواندگی کا GenAI کی معاونت والے خود ضابطگی سیکھنے کے رویّوں سے مثبت تعلق تھا (کل B = 0.701)، جو بنیادی طور پر سیکھنے کی [[agency]] کے راستے چلتا ہے (B = 0.345)، نہ کہ چیلنج جذبات کے راستے (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]])۔
 
@@ -107,7 +106,6 @@ AI ٹولز اِس حلقے میں مختلف مقامات پر داخل ہو س
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] مؤثر [[generative-ai|GenAI]] استعمال کو [[writing-education|علمی تحریر]] میں **اسٹریٹجک ضابطگی** کے طور پر نئے سرے سے بیان کرتے ہیں — یعنی AI کے نتائج کی تصدیق، نظرثانی، انتخابی اپنانے یا رد کرنے کا عملی SRL عمل۔ 107 طلبہ کے [[mixed-methods-research|مخلوط طریقہ]] مطالعے میں، زیادہ [[anxiety-and-stress|AI بے چینی]] کا تصدیق اور نظرثانی سے مثبت تعلق تھا (β=.24)، جبکہ جانچ کی صلاحیت نے فعال نظرثانی اور انتخابی ادغام کی پیش گوئی کی (β=.46)۔ طلبہ چار ضابطگی اقسام میں جھرمٹ بن گئے — غیر تنقیدی انحصار (18.7%)، انتخابی ادغام (34.6%)، جانچ آمیز تبدیلی (31.8%)، اور اسٹریٹجک انکار (14.9%) — جو دکھاتا ہے کہ [[ai-literacy]] [[higher-ed]] میں قبولیت سے زیادہ [[evaluative-judgment]] اور [[ethics|اخلاقی]] ذمہ داری پر مبنی ضابطگی صلاحیت کے طور پر کام کرتی ہے۔ یہ SRL کو تنقیدی اور غیر تنقیدی AI استعمال میں فرق کرنے کا بنیادی میکانزم کھڑا کرتا ہے۔
 
 ٹول کی گورننس بذاتِ خود ایک ناپا جانے والا پہلو ہے: چینی EFL سیکھنے والوں کے ساتھ دو مرحلوں والی تصدیق (EFA N = 305؛ CFA N = 342) چھ ضابطگی جہتیں الگ کرتی ہے اور *ماحولیاتی ضابطگی* — پیدا شدہ نتیجے کی درستگی جانچنا، تجویز کردہ وسائل چھاننا، اور انحصار پر حدود مقرر کرنا — کو اپنی الگ جہت قرار دیتی ہے ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]])۔
-
 
 تفویض سے پہلے درجہ بندی کریں: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] خود ضابطگی کو فی کام پروٹوکول میں بدل دیتے ہیں — ہر ذیلی کام کو Substitute، Complement، Aid یا Non-negotiable کا لیبل دیں، اُسے ایک مختصر میٹا کوگنیٹو نوٹ میں جگہ دیں، اور پرامپٹس، مسودوں اور انسانی نظرثانی کا آڈٹ ریکارڈ رکھیں — اور یہ چکر دہرایا جاتا ہے تاکہ ایک کام کی تفویض اگلے کو راہ دکھائے۔
 **ہر پرامپٹ بطور ضابطگی نشان۔** 23 طلبہ کے 429 پرامپٹس کو خود ضابطگی سیکھنے کے واقعات کے طور پر پڑھنے سے پتہ چلا کہ ساخت کا مرکب کام کے ڈیزائن کے ساتھ بدلتا ہے جبکہ 59 میں سے 53 جمع کرائے گئے کام ماڈل کے نتیجے کے قریب رہے، جو ضابطگی کو مصنوع کے بجائے تبادلے میں تلاش کرتا ہے ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]])۔
@@ -168,7 +166,6 @@ Learning Letters کے مطالعات کا ایک جھرمٹ (2026) ایک مرک
 
 اجتماعی سبق: **SRL وہ بنیادی میکانزم ہے جو تنقیدی اور غیر تنقیدی AI استعمال میں فرق کرتا ہے۔** GenAI سہارا، شارٹ کٹ یا ساتھی کے طور پر کام کرتا ہے یا نہیں، یہ سیکھنے والوں کی ضابطگی صلاحیت اور اِس پر منحصر ہے کہ ٹولز کو اُن ضابطگی تقاضوں کو محفوظ رکھنے (نہ کہ ہٹانے) کے لیے ڈیزائن کیا گیا ہے یا نہیں جو مہارت پیدا کرتے ہیں۔
 
-
 کون سی معاونت زیرِ بحث ہے، یہ طے کرتی ہے کہ کون سا ثالث تعلق اُٹھاتا ہے: 3,003 چینی پری سروس اساتذہ میں، سمجھی گئی AI ٹول معاونت بنیادی طور پر AI [[self-efficacy]] کے راستے جدت پسند قابلیت تک پہنچی (اُس راستے کے کل اثر کا 60.88%)، جبکہ سمجھی گئی اسکول پر مبنی ذہین ماحول معاونت بنیادی طور پر خود ضابطگی والی سیکھنے کے راستے (29.64% بمقابلہ 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]])۔
 
 طلبہ نے سمجھے گئے کارکردگی فوائد کے ساتھ زیادہ تاخیر (β = 0.525) بھی بتائی، جو AI کی دستیابی کی وجہ سے مطالعے کے کام کو ملتوی کرنے کو AI کی مدد سے ملتوی کرنے سے الگ کرتا ہے — یہ امتیاز جسے ایک واحد خود ضابطگی اسکور اٹھا نہیں سکتا ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]])۔
@@ -181,11 +178,9 @@ Learning Letters کے مطالعات کا ایک جھرمٹ (2026) ایک مرک
 - **[[educational-policy-ai|AI پالیسی]] کے لیے:** خریداری کے معیار کو پوچھنا چاہیے کہ کیا کوئی ٹول خود ضابطگی کو ترقی دیتا ہے یا ہٹاتا ہے
 - **[[research-methods-aied|محققین]] کے لیے:** SRL نتائج (نہ کہ صرف فوری کارکردگی) ناپنے والے طویل مدتی مطالعات ضروری ہیں؛ Melanou et al. اُس صبر کا فائدہ دکھاتے ہیں، کیونکہ ایک سمسٹر کے عکاسانہ استعمال نے تنقیدی سوچ کو ہلایا (β = 0.43) مگر علم کے اضافے کو نہیں۔
 
-
 ## گفتگو کے ایجنٹ اور نقلی کھیلوں میں SRL
 
 - **کھیلوں میں خود ضابطگی والی سیکھنے کی معاونت کرنے والے گفتگو کے ایجنٹ۔** Wenzel, Geiger, and Liening (2026) دکھاتے ہیں کہ کاروباری [[simulation]] کھیل میں ایک AI گفتگو کا ایجنٹ (Lara) میٹرک پر مبنی [[formative-assessment|تشکیلی]] فیڈبیک، آن ڈیمانڈ رہنمائی اور منظم عکاسی کے ذریعے خود ضابطگی والی سیکھنے کی معاونت کر سکتا ہے — اور اِس عام محدودیت کا ازالہ کرتا ہے کہ نقلی کھیل محدود تشکیلی فیڈبیک اور عکاسی کے پرامپٹس دیتے ہیں۔ طالب علم اساتذہ اور BSG شرکا کے ساتھ جانچ نے ایجنٹ کی علمی اور [[community-of-inquiry|سماجی موجودگی]] اور خود ضابطگی کے لیے اُس کی معاونت کے بارے میں مثبت تاثرات بتائے۔
-
 
 ## SRL کی خودکار شناخت: کیا منتقل ہوتا ہے اور کیا نہیں
 
@@ -204,70 +199,3 @@ Learning Letters کے مطالعات کا ایک جھرمٹ (2026) ایک مرک
 - **"کوئی بھی موافقت پذیر ڈیزائن ضابطگی کو برابر سہارا دیتا ہے۔"** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] کا **179 طلبہ کے ساتھ 22 دن پر محیط 2x2 بے ترتیب فیلڈ تجربہ** دو ڈیزائن اصولوں کا موازنہ کرتا ہے اور اُنہیں میکانزم میں مختلف پاتا ہے، چنانچہ "موافقت پذیر" کوئی واحد علاج نہیں۔
 - **"بے چینی ضابطگی کو کمزور کرتی ہے۔"** **107 طلبہ** کے مخلوط طریقہ مطالعے میں، زیادہ [[anxiety-and-stress|AI بے چینی]] کا **تصدیق اور دوبارہ جانچنے سے مثبت تعلق** تھا۔ بے چینی نے تصدیق کی ترغیب کا کام کیا، جو ضابطگی ہے، اُس کی عدم موجودگی نہیں۔
 - **میٹا کوگنیٹو SRL نے سیکھنے سے متعلق بوجھ کی پیش گوئی کی جہاں [[ai-feedback-quality|AI فیڈبیک]] نے نہیں کی۔** **234 طلبہ اور 1,147 مشاہدات** کے پانچ ہفتے کے فیلڈ مطالعے میں، میٹا کوگنیٹو خود ضابطگی **جرمن علمی بوجھ** کا کافی مثبت پیش گو تھی (β = .363، p < .001 نیت-بہ-علاج؛ .346، p < .001 استعمال پر مبنی) اور غیر متعلق بوجھ کی نمایاں پیش گوئی نہیں کی — جبکہ گفتگو والے AI فیڈبیک تک محض رسائی نے کسی کی بھی پیش گوئی نہیں کی۔ صرف فیڈبیک کے ساتھ **مسلسل** شمولیت نے جرمن بوجھ پر طلبہ کو الگ کیا، اور بے قاعدہ استعمال نے نہیں (β = −.219، p = .116)، جو فعال جزو کو فیڈبیک کی فراہمی کے بجائے سیکھنے والے کی کارروائی کی ضابطگی میں تلاش کرتا ہے ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]])۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[metacognition]] — وہ علمی نگرانی جس پر SRL انحصار کرتی ہے
-- [[self-assessment]]
-- [[self-efficacy]] — پیشگی سوچ کے مرحلے کا عقیدہ جو محنت چلاتا ہے
-- [[scaffolding]] — بتدریج معاونت جو ضابطگی تقاضا محفوظ رکھتی ہے
-- [[feedback]] — وہ ان پٹ جس کے گرد سیکھنے والے ضابطہ بناتے ہیں
-- [[feedback-literacy]] — فیڈبیک پر عمل کرنے کی صلاحیت
-- [[help-seeking]] — ایک اسٹریٹجک SRL رویّہ
-- [[motivation]] — خود ضابطگی کا باہمی ساتھی
-- [[cognitive-offloading]] — وہ خطرہ جب AI ضابطگی کا کام ہٹا دیتا ہے
-- [[generative-ai]] — وہ ٹیکنالوجی جو SRL کو سہارا یا شارٹ سرکٹ کر سکتی ہے
-- [[ai-literacy]] — AI استعمال میں ضابطگی صلاحیت
-- [[self-directed-learning]] — وسیع تر خودمختاری کا تصور
-- [[agency]] — سیکھنے والے کی نیت سے عمل کرنے کی صلاحیت، جو ضابطگی، ادغام اور مقام بندی میں مرکزی ہے
-- [[adaptive-learning]] — شخصی بندی جو ضابطگی کی معاونت کر سکتی ہے
-- [[formative-assessment]] — ضابطگی کے لیے مسلسل فیڈبیک
-- [[learning-by-teaching]] — خود ضابطگی بنانے والی حکمتِ عملی
-- [[intelligent-tutoring]] — وہ نظام جو SRL کو سہارا دیتے ہیں
-- [[llm]] — AI ٹولز کا بنیادی ماڈل
-- [[retrieval-spacing-interleaving]] — شیڈولنگ، خود جانچ اور مطالعے کی حکمتِ عملی کے انتخاب جو سیکھنے والے کرتے ہیں
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## منسلک مضامین
-- [[li-genai-dependency-effort-regulation-2026]] — جنریٹو AI انحصار اور سمجھے گئے سیکھنے کے نتائج: محنت کی ضابطگی کا راستہ (Li, Zhang & Yang 2026)
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — AI کی معاونت والی خود ضابطگی سیکھنے کا میٹا تجزیہ: 34 مطالعات میں g = 0.76، ٹول کی قسم اور تدریسی کردار اثر کو معتدل کرتے ہیں (Zhang et al. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — ایک مجسم کلاس روم میں LLM سے منقسم SRL کی فی قسم درستگی (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — جو جمع کرایا گیا کام نہیں دکھاتا: LLMs کے ساتھ طلبہ کے ریاضی کے کام میں علمی منتقلی کو پیچیدہ بنانا (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — نصاب کی نقشہ بندی میں سطحی اشاروں سے خود ضابطگی کی ماڈل کی زیادہ منسوبی (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC سہولت اور طلبہ کی خود ضابطگی
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-تعامل خواندگی: چیٹ بوٹ کو ہدایت دینے کے لیے وہی SRL درکار تھی جس کی معاونت وہ کرنے والا تھا (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — GenAI دور کے لیے 5P عکاسی ماڈل (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی معاونت والی تحریر میں تہہ حساس علمی منتقلی (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — سیکھنے والے کی ایجنسی مختلف مقیاسوں پر: ضابطگی، ادغام، مقام بندی
-- [[rented-self-decoupling-performance-becoming-2026]] — کرائے کا خود: کرایہ داری Winne کے SRL ماڈلز پر نقش، دس تجاویز اور سیکھنے والے کے اندر کے اشاریوں کے ساتھ
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI وقت کے ساتھ سیاق و سباق سے واقف سیکھنے کا ساتھی
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — طلبہ genAI چیٹ بوٹ کے ساتھ سیکھنے کو کیسے ضابطہ دیتے ہیں
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — سہارا یا شارٹ کٹ؟ SRL میں GenAI کا دوہرا کردار
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM میں LLM کے ذریعے مدد طلبی: تہہ دار، اوزاری اور تصدیق شدہ
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI فیڈبیک اور SRL: سمجھا گیا ماخذ اہم ہے
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI بے چینی سے اسٹریٹجک ضابطگی تک
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI کے ساتھ میٹا کوگنیشن/خود ضابطگی پر مخلوط شواہد
-- [[agentic-ai-pedagogical-best-practice-2026]] — ایجنٹک AI اور خود ضابطگی کی کشمکش
-- [[decreasing-digital-distraction-college-online-learning-2026]] — آن لائن سیکھنے میں SRL اور کم ڈیجیٹل توجہ ہٹاؤ (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس رومز کے اساتذہ کے لیے ML نتائج کو قابلِ رسائی بنانا
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: کام کی شناخت، جواز اور کام کے بعد عکاسی کا سیکھنے والے کی طرف حلقہ
-- [[learning-analytics-genai-secondary-writing-2026]] — جنریٹو AI کے ساتھ ثانوی اسکول طلبہ کی تحریر کی معاونت کے لیے سیکھنے کے تجزیات کا استعمال
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — موافقت پذیر STEM سیکھنے میں AI کی معاونت والی خود ضابطگی کے لیے ایک تصدیق شدہ اوزار، میٹا کوگنیٹو بیداری سب سے مضبوط پیش گو کے طور پر
-- [[iqbal-human-genai-support-essay-revision-2026]] — مقالہ نظرثانی کے تجربے میں نظرثانی حکمتِ عملی کے انتخاب کو معاونت کی کیفیت نے چلایا، میٹا کوگنیٹو فیصلے نے نہیں
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — طولی: عکاسانہ AI استعمال نے تنقیدی سوچ کی پیش گوئی کی مگر علم کے اضافے کی نہیں، کوئی Matthew اثر نہیں
-
-- [[genai-literacy-srl-special-education-2026]] — GenAI خواندگی خود ضابطگی والی سیکھنے کے رویّوں سے بنیادی طور پر سیکھنے کی ایجنسی کے ذریعے جُڑی
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — معاونت کی قسم ثالث کو پلٹ دیتی ہے: AI خود اعتمادی بمقابلہ خود ضابطگی والی سیکھنا
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI کی معاونت والے سیکھنے میں تاخیر: نیت اور عمل کا خلا جسے بے چینی مضبوط کرتی ہے
-- [[genai-srl-l2-writing-scale-2026]] — L2 تحریر کے لیے ایک تصدیق شدہ چھ جہتوں والا GenAI-SRL پیمانہ، ماحولیاتی ضابطگی کو اپنی الگ جہت اور 12 آئٹم کا چیونٹی کالونی سے بہتر بنایا گیا مختصر فارم
-- [[borchers-srl-language-generalization-2025]] — بڑے لینگویج ماڈلز SRL کی پیش گوئی کو نئی زبانوں میں عام کرتے ہیں، ڈومینوں کے اندر مگر اُن کے درمیان نہیں (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — طلبہ کی خود ضابطگی والی سیکھنے کو بہتر بنانے کے لیے مصنوعی ذہانت استعمال کرنے والا منصوبہ پر مبنی مخلوط سیکھنے کا ماڈل
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — ایک AI TA بطور پہلے جواب دہندہ ہم منصب جوابات کی جگہ لے گیا، اور اُن کے ساتھ وہ ہم ضابطگی بھی جو خود ضابطگی کی گریڈ قدر کو بڑھاتی تھی (Davis et al. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — پیشگی تصورات کے تنوع نے بدلا کہ میٹا کوگنیٹو پرامپٹ کیسے اترا: پرامپٹ کے فعل یکساں، AI کے نتیجے کی مستقل جانچ مخالف (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — استعمال کے ساتھ تاخیر (β = 0.525) سمجھے گئے فائدے کے ساتھ، AI سے ممکن ہونے والے التوا کو محض AI کے بارے میں التوا سے الگ کرتی ہے (Gouroubera et al. 2026)

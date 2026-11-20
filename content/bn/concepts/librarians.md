@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -74,32 +76,3 @@ ai_assist:
 **"তথ্য-সাক্ষরতা এককালীন অভিযোজন-অধিবেশন।"** এটি নির্দেশনা, সহায়তা নয়: শিক্ষার্থীরা যে প্রশ্ন নিয়ে আসে তা মূল্যায়ন ও কৌশলের সমস্যা — এই উৎস বিশ্বাসযোগ্য কি না, এটি কীভাবে অনুসন্ধান করব — যা শেখানো যায় এমন দক্ষতা, সম্পন্ন করার লেনদেন নয়। সেবাটিকে সহায়তা হিসেবে দেখলে পাঠ্যক্রম একটি হেল্পডেস্কে পরিণত হয় এবং টেকসই সামর্থ্য হারিয়ে যায়।
 
 **"যাচাইয়ের খরচ কে দেবে তা অন্যের সমস্যা।"** পরামর্শের বোঝা গ্রন্থাগারের জনবলে পড়ে, আর গবেষণাপত্রের নিজের প্রশ্ন হলো, গ্রন্থাগারগুলোকে তা বহন করতে বললে তা তাদের জনসংখ্যার চেয়ে এগিয়ে যায় কি না। সহনকশা ও অংশীদারত্বই সাহিত্য যে সাড়া সুপারিশ করে, ঠিক এই কারণে যে যাচাইয়ের খরচ বাস্তব এবং তা এমন এক ইউনিটে পড়ে, যার বাজেটে তা ছিল না।
-
-## সংযুক্ত ধারণা
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — এমবেডেড-গ্রন্থাগারিক সেমিনার প্ল্যাটফর্ম; উৎস-মূল্যায়ন-চালিত 312টি পরামর্শ
-- [[genai-academic-search-workshop]] — GenAI ও পাণ্ডিত্যপূর্ণ অনুসন্ধান নিয়ে CHIIR 2026 কর্মশালা; গ্রন্থাগারিকদের আস্থার ফাঁক
-- [[maybee-disruptive-partnerships-sap-2025]] — একাডেমিক গ্রন্থাগারিকরা শিক্ষার্থীদের অংশীদার করে এআই-সাক্ষরতার সহনকশা করছেন
-- [[aarc-ai-research-competency-2026]] — যাচাই, উদ্ধৃতি, প্রতিফলন শেখানোযোগ্য গবেষণা-অঙ্গীকার হিসেবে
-- [[pearls-epistemic-verification-2026]] — ছয়-মাত্রার যাচাই প্রোটোকল; প্রবেশাধিকার ও বৈধতা গেট হিসেবে
-- [[hingle-collaborative-ai-literacy-2025]] — এআই-সাক্ষরতার জন্য সহযোগিতামূলক শিখন; তথ্য-সাক্ষরতার সুবিধা স্থানান্তরিত হয়
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — প্রশিক্ষকেরা স্বীকৃতি ও দায়িত্বশীল ব্যবহারকে সর্বোচ্চে রাখেন, কিন্তু 26টি দক্ষতার অল্পই শেখান
-- [[bird-multimodal-educational-literature-2026]] — অ-কারিগরি ব্যবহারকারীদের জন্য তৈরি পাঠ্য-জটিলতা সরঞ্জাম, যেমন ইংরেজি শিক্ষক ও গ্রন্থাগারিক
-- [[cognitive-offloading-llm-synthesis-writing]] — এআই যখন শিক্ষার্থীর জন্য উৎস সংশ্লেষ করে, তখন তারা কী অফলোড করে
-- [[citation-errors-hallucinations-computing-education-2026]] — বানানো ও ভুল উদ্ধৃতি যাচাই-সমস্যা হিসেবে

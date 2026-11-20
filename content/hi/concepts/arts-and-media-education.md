@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -116,35 +118,3 @@ Immersive वातावरण व्यावसायिक डिज़ा�
 **शोधकर्ताओं के लिए**
 
 - विषय-व्यापी दावे करने से पहले एकल-स्टूडियो केस अध्ययनों से आगे बढ़ें, और स्टूडियो की संरचना रिपोर्ट करें, क्योंकि वह परिणाम को संयमित करती है।
-
-## संबंधित अवधारणाएँ
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## संबंधित लेख
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — कला में GenAI अपनाना: UTAUT पथों में विश्वास सबसे मज़बूत, और रचनात्मक एजेंसी का दाँव (Zhu 2026)
-
-- [[genai-xr-architectural-design-education-2026]] — एक वास्तविक वास्तुकला स्टूडियो में GenAI प्लस बहु-उपयोगकर्ता XR: पूरक भूमिकाएँ, घटती डिज़ाइन स्व-प्रभावशीलता, कोई पोर्टफोलियो लाभ नहीं (Xiao et al. 2026)
-- [[genai-architecture-education]] — एक वास्तुकला स्टूडियो में स्थानीय रूप से निष्पादित, विषय-विशिष्ट छवि वर्कफ़्लो: व्यापक रचनात्मक खोज-क्षेत्र और घटी हुई crit चिंता (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — अनुदैर्ध्य स्टूडियो अध्ययन और GAI-A मंच: प्रोत्साहन और समाधान-क्षेत्र विस्तार के रूप में GenAI, जिसमें डिज़ाइन फिक्सेशन जोखिम है (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — मशीन-आउटपुट के संग्रहकर्ता के रूप में इंटीरियर डिज़ाइनर, और पाठ्यक्रम तथा व्यावसायिक विनियमन को इसके बारे में क्या करना चाहिए (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — व्यावसायिक इंटीरियर डिज़ाइन में AI-सक्षम immersive वातावरण के भीतर परियोजना-आधारित सीखना (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — 426 छात्रों के साथ एक 15-सप्ताह की डिजिटल कहानी-कथन कैपस्टोन: नवीनता प्रबल, एकीकरण कमज़ोर, लेखक नहीं बल्कि उपकरण के रूप में AI (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — 417 कला और डिज़ाइन छात्रों में पाठ-से-छवि स्वीकृति, और चयनात्मक उपयोग का सक्षमता विरोधाभास (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — स्ट्रीमिंग अर्थशास्त्र, स्वायत्त जनरेटर बनाम रचना सहायक, और संगीत पाठ्यक्रम का पुनर्विचार (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — 300 संगीत विश्लेषण प्रतिक्रियाओं पर शिक्षक-माध्यों के सापेक्ष GPT-4o-mini का बेंचमार्किंग (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — AI-सहायित गायन शिक्षण में मापन सटीकता शैक्षणिक मूल्य क्यों नहीं है (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — नेत्रहीन और कम दृष्टि वाले संगीतकारों के लिए स्पर्श और kinesthetic तार-निर्देश की अपंगता-नेतृत्व वाली डिज़ाइन (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — मंच प्रकाश-व्यवस्था के लिए LLM-सहायित VR निर्देश, और विशेषज्ञ तथा नौसिखिया प्रतिनिधित्वों के बीच अंतराल (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: पाठ-से-छवि मॉडलों की व्याख्या हेतु ज्ञानमीमांसीय खेल (Foka 2026)

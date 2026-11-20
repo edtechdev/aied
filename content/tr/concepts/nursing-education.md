@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -105,40 +107,3 @@ Alan ayrıca üç komşu kavramı da inceltir. [[simulation]]’dan gerçekçili
 **Araştırmacılar için**
 
 - Lisans öncesi ve çalışan hemşire örnekleri ayrı ayrı bildirilmeli ve yeterlilik iddiasının klinik açıdan anlamlı olması isteniyorsa gözetimli uygulamaya geçiş incelenmelidir.
-
-## Bağlı kavramlar
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Bağlı makaleler
-- [[hardie-genai-nursing-scoping-review-2026]] — Hemşirelik eğitiminde uygulamalar, tutumlar ve etik: 103 çalışmalık bir kapsam derlemesi (Hardie ve ark. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Hemşirelik eğitiminde üretken yapay zeka destekli simülasyon ve beceri eğitimine ilişkin öğrenen deneyimleri: bir meta-sentez
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Hemşirelik eğitiminde YZ’ye ilişkin sistematik derleme (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Hemşirelik eğitiminde YZ destekli simülasyon: karma yöntemli sistematik derleme
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM’ler, yapısal boşluklar ve mesleki kimliğin yeniden oluşumu
-- [[akbaba-nursing-ai-experiences-tam-2026]] — TAM yoluyla hemşirelik öğrencilerinin ve öğretim üyelerinin YZ deneyimleri
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Sağlık bilimleri öğrencileri arasında YZ algıları ve kariyer kaygısı
-- [[genai-counter-learner-groupthink-2025]] — Meslekler arası PBL’de akıl hocalığını karşılamak için üretici YZ
-- [[dabkowski-nursing-academics-genai-2026]] — GenAI konusunda hemşirelik akademisyenleri: politika belirsizliği, mesleki değerler ve gözetimli değerlendirmeye kayma
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Hemşirelik değerlendirmesinde uzaktan gözetim: gözetim, eşitlik ve algı üzerine kurulu bir caydırıcılık savısı
-- [[xiang-ai-nursing-education-kas-framework-2026]] — YZ yetkinlik çerçevelerini hemşirelik müfredatları için 12 KAS alt boyutuna eşleyen tarama derlemesi
-- [[rony-nursing-educators-ai-tpack-2025]] — Bangladeş’te hemşirelik eğitimcilerinin YZ hazırbulunuşluğu, engelleri ve veri yönetişimi: TPACK üzerinden bir okuma
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18 derlemenin şemsiye derlemesi: etik, müfredat dönüşümü ve entegrasyon engelleri
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Hemşirelik öğrencileri YZ kullanımının açık sırrını anlatıyor: kişiselleştirilmiş öğrenme, zaman ve dijital uçurum
-- [[agency-gap-ai-writing]] — Tıp ve hemşirelik öğrencileriyle RKÇ: tepkisel ve proaktif etmen tasarımı ile etmenlik boşluğu
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1.020 hemşirelik öğrencisi: GenAI etkileşimi, eğitimsel etkileşim ve tam tanımlı bir aracılık modeli
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Rony ve ark.’a yayımlanmış bir yanıt: kurumsal ekosistemler, hazırbulunuşluk ve YZ gözetimi
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Öğretim üyeleri ve öğrenciler bir hemşirelik eğitimi analitiği panosunu birlikte tasarlıyor
-- [[federated-learning-at-risk-student-prediction-2026]] — Sağlık meslekleri programları arasında mahremiyeti koruyan risk altı tahmini ve ithal eşiğin hemşirelikte neden yanlış ateşlediği

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -142,69 +144,3 @@ Um enquadramento intimamente relacionado é a **autonomia epistêmica relacional
 - **"Estudantes exercem autonomia quando usam IA livremente."** Um **esquema de 14 categorias que codificou 6.788 turnos assistidos pelo ChatGPT** colocou **59% dos turnos de estudantes do sétimo ano** em categorias que não representam uso agêntico. Volume de uso e autonomia são medidas diferentes.
 - **"Os modelos atuais apoiam bem a autonomia de quem aprende."** **Medido em dez modelos, apoiar a autonomia é onde eles se saem pior, depois da aprendizagem**: o ImpactBench mediu **Autonomia e Propósito em 56,0%** nos critérios positivos. A autonomia é a dimensão que os sistemas de IA tratam menos bem, e não um subproduto da capacidade.
 - **"A mediação do professor é uma restrição à autonomia."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] acompanhou **dez professores de matemática do ensino médio ao longo de uma intervenção de oito semanas com ChatGPT-4** e a mediação é o mecanismo, e não o obstáculo.
-
-## Conceitos conectados
-- [[learners]] — Estudantes: o guarda-chuva dos conceitos do lado do estudante
-- [[pedagogical-partnerships]] — Parcerias pedagógicas
-- [[learner-identity]] — identidades de quem aprende disciplinares, profissionais, criativas e acadêmicas em evolução
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — direção compartilhada da interação mediada por IA
-- [[agentic-ai]] — IA autônoma que pode redistribuir autonomia nos grupos
-- [[chemistry-education]] — Educação em química e IA: laboratórios, avaliação formativa, limites dos LLMs, filosofia da experimentação
-- [[social-emotional-learning]] — Aprendizagem socioemocional
-- [[cognitive-surrender]]
-
-## Artigos conectados
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Uma pesquisa nacionalmente representativa com professores e diretores dos EUA sobre cobertura de [[educational-policy-ai|política de IA]], autonomia e cinco "jogadas" de sala de aula (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Uma mão amiga ou um parceiro dominante? Percepções individuais de dependência de GenAI e autonomia humana na aprendizagem colaborativa
-- [[yan-agentivism-learning-theory-ai-2026]] — Uma teoria de aprendizagem de médio alcance para a interação humano-IA, com quatro mecanismos e seis proposições testáveis (Yan e Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — A autonomia do estudante como qualidade emergente da coordenação das competências de domínio, IA e metacognição, e não como um nó isolado (Dang et al., 2026)
-
-- [[learner-agency-ai-simulation-2026]] — Acesso à escolha versus autonomia realizada: sliders, um agente de IA opcional e aprendizagem em uma simulação de bando
-- [[guarded-adoption-genai-higher-education-2026]] — Adoção guardada da IA generativa no ensino superior
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, avaliação prazerosa e terceiro espaço
-- [[ai-mediated-research-agency-formation-2026]] — Formação de autonomia na pesquisa mediada por IA na formação científica em início de carreira
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descarregamento cognitivo sensível a camadas na escrita assistida por GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — A educação em IA na escola estreita as lacunas psicológicas, mas não as cognitivas, de prontidão
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Autonomia epistêmica relacional e seis critérios que separam dependência produtiva de dependência nociva (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Acompanhamento pedagógico habilitado por IA apoiando a identidade em STEM
-- [[t2i-competence-paradox-2026]] — O paradoxo da competência: identidade criativa no uso de GenAI de texto para imagem
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Autonomia emergente do estudante na colaboração humano-IA implícita: personas apoiadoras versus contrárias
-- [[de-barba-srl-genai-2026]] — Autonomia do estudante através de escalas: regulação, integração, posicionamento
-- [[mishra-control-vs-agency-history-2025]] — Controle versus autonomia como a tensão essencial na história da AIED
-- [[daoism-ai-education-philosophy-2026]] — Filosofia alternativa da IA: o taoismo como método para a IA na educação
-- [[human-autonomy-agency-hri-review-2025]] — Autonomia humana e agência na IHR
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Desenho baseado em conhecimento para robôs sociais generativos
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Promover a autonomia do estudante no trabalho relevante para a aprendizagem
-- [[shaw-nave-cognitive-surrender-2026]] — Teoria dos Três Sistemas e rendição cognitiva: como a IA remodela o raciocínio humano (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Autonomia de professores em formação durante interações com GenAI no desenho para a aprendizagem (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Visão emancipatória: a autonomia como soma zero com a autonomia da ferramenta
-- [[chen-zou-genai-group-assessment-agency-2026]] — Três padrões de autonomia na avaliação em grupo mediada por GenAI: intensificada, contida e não realizada
-- [[ai-integrated-teaching-identity-tensions]] — Seletividade fundamentada como autonomia do professor no ensino integrado à IA (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — A recusa como evidência diagnóstica: o não uso como relação situada e o direito desigual de recusar a IA (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — autoridade epistêmica afirmada por meio de interrupção, correção e recusa, e não pelo uso máximo da ferramenta
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Quem Age, Quem Sabe, Quem Responde? Uma análise de discurso assistida por corpus sobre autonomia, responsabilidade epistêmica e responsabilização na pesquisa em IA generativa no ensino superior
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Questões em aberto rumo a uma dependência que sustenta as habilidades no engajamento reflexivo com IA
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competência versus autonomia como propósitos da educação em IA, e a heurística de autonomia informada em IA (Fagerlund et al., 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — A mediação do professor como condição que mantém a GenAI um artefato para crítica, e não uma autoridade (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — A autonomia do professor como recurso mobilizado pelo desenho, com a prontidão julgada a partir dos artefatos, e não do uso (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Equilibrar a autonomia do professor e do estudante em ferramentas de co-orquestração para a formação dinâmica de duplas em tempo real (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Matriz de Autoridade Interpretativa e Modelo de Integração de Autoridade Ecológica: quatro configurações de quem interpreta, e as camadas ecológicas que as deslocam
-- [[gyekye-selves-apprenticeship-2026]] — Estudantes de cor em programas de apprenticeship se autoraram por meio da IA via recusa, negociação e reconhecimento ("planicidade cultural"); Letramento em IA Institucional e Largura de Banda de Reconhecimento
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Autonomia epistêmica compartilhada em 6.788 turnos assistidos pelo ChatGPT na escrita científica do ensino médio (Chang et al.
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — A propriedade percebida caiu apenas onde o ensaio inteiro foi delegado; quem planejava e revisava igualou quem não usava (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Quem está fazendo o pensamento? Caracterizando a agência humana nas interações com IA de estudantes do primeiro ano

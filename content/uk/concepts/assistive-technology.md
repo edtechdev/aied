@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -63,27 +65,3 @@ ai_assist:
 - **«Середній розмір ефекту вказує на правильний інструмент.»** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] виявляють, що втручання на основі ШІ дають середній позитивний ефект на результати навчання студентів з інвалідністю (**g = 0.588**) у роботах, програмному забезпеченні та інтелектуальній VR. Це середнє за дуже різними технологіями для дуже різних потреб, тож воно підтримує категорію, а не вибір усередині неї.
 - **«Доступ, обумовлений діагнозом, — виправданий дизайн.»** Вимога формального діагнозу для участі виключає здобувачів із реальними потребами й без ярлика, що суперечить [[universal-design-for-learning|універсальному дизайну]] та перекладає ціну доступу на документацію студента.
 - **«Більше асистивних інструментів означає більше інклюзії.»** Огляд обсягу відсіяв **766 записів** у п’яти базах даних, а обсяг доробку — не те саме, що покриття потреби: кількість досліджень на бар’єр — інформативніша цифра.
-
-## Пов’язані поняття
-
-- [[accessibility]] — властивість дизайну, яку операціоналізують асистивні технології
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## Пов’язані статті
-
-- [[shin-ai-policies-sld-2026]] — Політики ШІ та адаптації для студентів із специфічними навчальними труднощами
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Метааналіз інтервенцій ШІ для студентів з інвалідністю
-- [[kutti-ai-voice-first-learning-companion]] — Голосовий ШІ з пріоритетом голосу для дітей з вадами зору
-- [[tactile-statistical-graphs-accessibility]] — Згенеровані ШІ тактильні статистичні графіки
-- [[text-simplification-its]] — Спрощення тексту на основі LLM для інтелектуального репетиторства
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Генерація питань за допомогою LLM для глухих/слабочуючих здобувачів
-- [[gemini-lualatex-physics-video-transcription-2026]] — Транскрипція фізичних відео, доступна для математики, за допомогою Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Асистивний GenAI для слабозорих здобувачів
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Генеративний ШІ, віртуальна реальність та далі: оглядовий огляд цифрових асистивних технологій для нейровідмінних студентів у вищій освіті

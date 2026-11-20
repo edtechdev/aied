@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -75,7 +77,6 @@ HITL является ответом на пределы и риски полн�
 Ким, Пэк и Квак (2026) распространяют HITL на [[video-education|сгенерированное ИИ обучающее видео]] посредством **PedaCo** (педагогическое со-творчество), конвейера с двумя взаимодополняющими слоями привращения, которые инстанцируют *принципиальное сопротивление*, основанное на когнитивной теории мультимедийного обучения Майера (CTML). **Первый слой** размещает человека на стадии сценария: LLM составляет черновик сценария, ИИ-рецензент помечает потенциальные нарушения CTML (например, «Сцена 3 вводит технические термины без предварительного объяснения»), а педагог решает принять, пересмотреть или сгенерировать заново. **Второй слой** выполняет автоматические метрики после синтеза по связности, избыточности, временной смежности, модальности и качеству изображения, которые педагог проверяет. В исследовании внутрииспытуемого типа (23 педагога) подход, основанный на проверке, улучшил каждый принцип CTML (средняя оценка 3,07→3,86, p<,01), при этом педагоги оценили эффективность производства в 4,26 из 5 — трение воспринималось как продуктивное, а не обременительное. Проектный принцип перекликается с синтезом HITL базы знаний: люди и алгоритмы выявляют *разные* виды проблем, так что наиболее эффективные системы автоматизируют там, где вычислительная проверка точна (временная синхронизация), и сохраняют человеческое суждение там, где педагогический нюанс незаменим (тон, соответствие аудитории).
 
 Размещение может иметь большее значение, чем присутствие: практики высоко оценили удобство использования инструмента создания социальных историй (SUS 86,8), однако сообщили, что проверка приходила слишком поздно, поскольку культурные и клинические ограничения, заданные до генерации — например, абая вместо западной уличной одежды, — труднее восстановить путём редактирования вывода после него ([[adapted-stories-social-story-intervention-2026|Энхжаргал и др. (2026)]]).
-
 
 ## Почему HITL важен в эпоху ИИ
 
@@ -131,65 +132,3 @@ HITL является ответом на пределы и риски полн�
 - **«Показ рекомендации системы помогает человеку её контролировать.»** **Сокрытие предпочтительного ответа системы защищает, а не исправляет**: в мультиагентном споре, где **рекомендованная позиция никогда не раскрывалась**, вредное переключение на ответ ИИ **снижалось**. Раскрытие приглашало к почтению; сокрытие поддерживало суждение.
 - **«Человек в контуре должен означать один человек — одно решение.»** Мультиагентная аудитория из архетипов [[teacher-role|Teacher]] Agent, TA Agent и однокурсника была развёрнута в Университете Цинхуа с **более чем 500 студентами и более чем 100 000 учебных записей**. Надзор масштабируется через организацию, а не через размножение надзирателей.
 - **«Проверять вывод ИИ — это интуитивно.»** В **внутрисубъектном исследовании с 23 преподавателями** подход на основе проверки **улучшил каждый принцип CTML (средняя оценка с 3,07 до 3,86, p < .01)**, причём преподаватели благоприятно оценили эффективность производства. Проверка — это навык, который улучшился при структурированном методе.
-
-## Связанные понятия
-- [[pedagogical-patterns]] — где человеческая проверка находится в проверенных последовательностях и что никогда не было проверено в изоляции
-- [[automation-bias]] — Что решает, вмешивается ли человек в контуре на самом деле
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — человеческое суждение внутри автоматизированного потока поддержки
-
-## Связанные статьи
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Четырёхслойная HITL-архитектура для генеративного ИИ в естественнонаучном образовании (Zhai и др. 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Кодировщики, валидирующие поведенческие сегменты LLM как инструментацию исследования (Fonteles и др. 2026)
-- [[lee-learner-question-types-ai-education-2026]] — Классификация вопросов с маркировкой экспертами: люди управляют маркировкой, дополнением и анализом ошибок (Ли, Атиф и Кан, 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Человеческий надзор и управление как третий слой проектирования агентного курса с GAI (Илиева и др., 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Чувствительное к ценностям проектирование центрированного на студенте ITS (учащиеся в контуре репетиторства)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Оценивание HITL с помощью ИИ в крупномасштабном национальном оценивании письма (Кури и др., 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Рамка SCAN: переосмысление распределения ИИ-задач в медицинской подготовке (Цим и др., 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Мэтью и др., 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Ким и др., 2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Ван, 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Оценивание и обратная связь с помощью ИИ под надзором преподавателя
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Трипартийная рамка: сортировка обратной связи по эпистемическому статусу и пять пограничных принципов вовлечения ИИ (Венецанос, 2026)
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[llm-grading-assistants-public-health-2026]] — Идентичные повторные прогоны оценивания LLM в различные дни воспроизводятся лишь на альфе Криппендорфа 0,625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Студенты бакалавриата предпочитают оценку человеком для высокозначимой работы и ИИ как ассистента, а не замену
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
-
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Отказ от предпочтительного ответа системы сократил откладывание решения на неверный совет ИИ — защитно, а не корректирующе
-- [[capodieci-humanities-hil-2026]] — Разделяет, где стоит человеческая проверка и кто написал процесс, в гуманитарном обучении (Capodieci et al. 2026)

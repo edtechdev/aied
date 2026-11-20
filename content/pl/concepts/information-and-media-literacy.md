@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -82,29 +84,3 @@ Czytane razem, obie strony bilansu sugerują regułę: SI może nieść obciąż
 ## Ograniczenia dowodów
 
 Większość badań tutaj jest mała, oparta na [[self-report-measures|samoocenie]] albo jedno i drugie: 236 studentów w jednej ankiecie, 36 dzieci w jednej interwencji, 412 bibliotekarzy oceniających siebie. Widoczność bibliometryczna nie jest praktyką, a autorzy scientometryczni mówią to wprost. Żadne badanie w korpusie nie ocenia połączonego programu kompetencji informacyjnych i medialnych, a narzędzia detekcji i fact-checkingu, które zaleca literatura praktyczna, są w tych źródłach w dużej mierze niezmierzone. Twierdzenie, że weryfikacja oparta na SI poprawia wyniki, należy traktować jako hipotezę projektową, dopóki ktoś nie przetestuje jej wobec grupy kontrolnej.
-
-## Połączone koncepcje
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Połączone artykuły
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapowanie integracji kompetencji w zakresie SI w nauczaniu kompetencji informacyjnych w bibliotekach akademickich: przegląd systematyczny wschodzących badań
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Jak sztuczna inteligencja przekształca kompetencje informacyjne w bibliotekach akademickich: globalna analiza scientometryczna (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Sztuczna inteligencja i poszukiwanie informacji: porównawcze badanie chatbotów SI, wyszukiwarek i zasobów bibliotecznych jako źródeł informacji wśród studentów uniwersytetów
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Opracowanie platformy uczenia się opartej na seminarium ze wsparciem wbudowanego bibliotekarza
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Kompetencje informacyjne przez otwartą pedagogikę: jaka jest rola narzędzi SI?
-- [[huang-genai-academic-information-resources-2026]] — Generatywna sztuczna inteligencja przekształca zrównoważone korzystanie z akademickich zasobów informacyjnych przez studentów uniwersytetów
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Zaangażowanie bibliotekarzy akademickich w promowanie kompetencji informacyjnych i nauczania o sztucznej inteligencji w nigeryjskich instytucjach szkolnictwa wyższego
-- [[offem-ai-information-literacy-library-users-2026]] — Sztuczna inteligencja jako narzędzie promowania kompetencji informacyjnych wśród użytkowników bibliotek
-- [[critical-media-literacy-education-2026]] — Technologia, edukacja i krytyczne kompetencje medialne: potencjał, wyzwania i możliwości
-- [[demir-akar-ai-media-literacy-children-2026]] — Przekształcanie kliknięć w myślenie krytyczne: program kompetencji medialnych oparty na SI dla dzieci
-- [[ai-literacies-young-adults-2025]] — Wspieranie kompetencji w zakresie SI u młodych dorosłych w wieku 14–19 lat

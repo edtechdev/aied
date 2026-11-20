@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,10 +49,3 @@ Amplify GenAI는 상용 어시스턴트의 캠퍼스 전체 라이선스와 반�
 ## 참고사항과 유의점
 
 라이선스는 무료지만 운영은 무료가 아닙니다. 기관이 AWS와 모델 공급자에게 지불합니다. 모델 선택은 Amazon Bedrock(Anthropic, Mistral) 또는 OpenAI와 Microsoft Azure를 거치며, 자체 로컬 모델 운영은 구현되어 있지 않습니다. 프로젝트는 개별 배포를 지원할 수 없다고 분명히 밝히고 조직을 상용 파트너에게 안내하므로, 현실적 비용에는 직원이나 계약업체가 포함됩니다. 세 개 저장소(프런트엔드, 백엔드, 인프라)로 된 배포이며 별이 수천 개가 아니라 수십 개이고, 위의 비용 비교는 통제된 연구가 아니라 Vanderbilt 자신의 경험입니다. 추론을 자기가 소유한 하드웨어에 두고 싶은 기관은 [MindRouter](/aied/resources/mindrouter/)를 살펴보고 두 글을 함께 읽어야 합니다. Amplify는 공급업체 모델 위의 애플리케이션 계층이고, MindRouter는 자체 GPU 위의 게이트웨이입니다.
-
-## 연결된 개념
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

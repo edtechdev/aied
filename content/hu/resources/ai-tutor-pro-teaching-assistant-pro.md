@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -45,12 +46,3 @@ Owston (2026), az egyik fejlesztő, kifejti az AI Tutor Pro három módjának te
 ## Megjegyzések és fenntartások
 
 Mindkét alkalmazás ingyenes, és nem kér személyes adatokat, de a „privát és névtelen” nem ugyanaz, mint a „nincs adat”: a Contact North szabályzata szerint ChatGPT-interakciós naplókat és Google Analytics-adatokat gyűjt, ezeket kanadai szervereken tárolja, nem engedi, hogy az OpenAI ezeken tanítson, és az interakciós adatokat megosztja az OpenAI-jal, amely legfeljebb 30 napig őrzi meg azokat. Az AI Tutor Pro 18 év alatti felhasználóknak szülői vagy gondviselői engedély nélkül nem ajánlott. A szállító interakciós számai a saját marketingadatai, nem független használati adatok, a Slide Builder béta jelölése pedig azt jelenti, hogy a kimenetét a tantermi használat előtt ellenőrizni kell. Nyílt forráskódú licencet nem ad meg, így a kód intézményi módosításra nem áll rendelkezésre.
-
-## Kapcsolódó fogalmak
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

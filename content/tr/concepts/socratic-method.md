@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -125,52 +127,3 @@ Sokratik yöntem, [[scaffolding]] (tam yeterli destek sağlamaya), verimli zorla
 - **“Sokratik sorgulama yalnızca yanıtların yokluğudur.”** Büyük kayıtlı bir giriş mekaniği dersinde (**150 birinci sınıf [[stem-education|STEM]] öğrencisi**) konuşlandırılan özel bir Sokratik YZ sohbet robotu **ölçülebilir** kazanımlar üretmiştir ve tasarım yapılandırılmış sorgulamadır: sessiz bir model değil, kısıtlanmış bir etkileşim.
 - **“Etki, etkileşimin aşağısında bir sonuçtur.”** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna ve Maes, 2026)]], kısıtlanmamış bir ChatGPT tarzı botu **Sokratik** bir botla karşılaştıran **50 katılımcılı rastgele bir EEG çalışmasıdır**; mekanizmayı sonuçlardan çıkarsamak yerine doğrudan ölçer.
 - **“Kısıtlar, ortadan kaldırılması gereken sorundur.”** Kısıt lehine en güçlü nedensel destek ters yönü gösterir: bir K-12 derlemesinde, genel amaçlı bir sohbet robotu kullanan lise öğrencileri **kapalı kitap finallerinde kısıtlı bir araç kullanan akranlarından yaklaşık %17 daha kötü** puan almıştır. Zararlı koşul, kısıtlanmamış araçtı.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Sorgulama dizisi ve çelişkili deneme kanıtları
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[productive-failure]] — Productive Failure
-
-## Bağlı makaleler
-
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Özel ders vermeyen bir YZ ajanı tasarlamak: giriş fiziğinde Sokratik yoklama için tasarım kuralları
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles in a 2 x 2 postgraduate design study
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-- [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -82,38 +84,3 @@ VR/AR کا سب سے مضبوط ثبوت تقابلی اور [[discipline-specif
 - **"مظہر کو محسوس کرنا اُسے سمجھنا ہے۔"** ایک پائلٹ نے پایا کہ طلبہ نے ہاتھ کے اشارے سے طولِ موج اور طولِ ہیئت کو سلائیڈر سے زیادہ شدت سے **محسوس** کرنے کی اطلاع دی — مگر **اُس نے ادراک ناپا، کامیابی نہیں**۔ محسوس شدہ احساس وہ سہولت ہے، اور یہ کہ اُس نے سمجھ پیدا کی یا نہیں، یہ الگ امتحان ہے۔
 - **"قابلِ استعمالی کے اعلیٰ سکور تعلیمی VR ٹول کی تصدیق کرتے ہیں۔"** Meta Quest 3 پر **10 طلبہ کے ساتھ ایک گھنٹے کے سیشن** میں، مطالعے نے **System Usability Scale پر اچھی قابلِ استعمالی اور سملٹیشن کی بیماری بہت کم** بتائی۔ قابلِ استعمالی اور سہولت پیشگی شرطیں ہیں اور کوئی بھی سیکھنے کا پیمانہ نہیں۔
 - **"طلبہ کا اتفاق سہولت کا ثبوت ہے۔"** **دوسرے سال کے میڈیکل امیجنگ کے 29 طلبہ** کے ساتھ، تمام 29 نے **اتفاق کیا کہ اشارے نے اُنہیں یہ "محسوس" کرنے میں مدد دی کہ طولِ موج کیا ہے (اوسط 4.52)**۔ کسی احساس پر متفقہ اتفاق تجربے کی خود رپورٹ ہے، اور سہولت کے دعوے کو ایسے نتیجے کی ضرورت ہے جو طالب علم کے اپنی سمجھ کے فیصلے پر منحصر نہ ہو۔
-
-## منسلک تصورات
-
-- [[simulation]] — عمیق ماحول عام طور پر جو دکھاتے ہیں؛ ماڈل، طریقہ نہیں
-- [[embodied-learning]] — وہ میکانزم جس سے یہ طریقہ فائدہ اٹھانے والا ہے
-- [[multimodal]] — اشارہ، آواز اور مقامی اِن پٹ بطور سیکھنے کے ذرائع
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — وہ ماحول جہاں عمیق مشق سب سے زیادہ قائم ہے
-- [[generative-ai]] — نئی مصنفیت کی تہہ
-- [[prompt-engineering]] — غیر پروگرامر عمیق ٹول کیسے بناتے اور بہتر کرتے ہیں
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — ہیڈ سیٹ کے اندر رہنمائی کی بنیاد
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — وفاداری، اور سیکھنے والے کی اُس کی حدوں سے آگاہی
-- [[cognitive-offloading]] — تاخیر اور عدم استحکام بطور غیر متعلقہ بوجھ
-- [[edtech-platform]] — ہم آہنگی، تاخیر اور کثیر مقام حاضر ہونا
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## منسلک مضامین
-
-- [[genai-ar-physics-simulation-prompt-2026]] — چار عناصر والا پرامپٹ جو ہاتھ سے کنٹرول شدہ AR فزکس سملٹیشن بناتا ہے؛ 29 طلبہ کا پائلٹ، صرف ادراک کا ثبوت
-- [[mixed-reality-engineering-learning]] — انجینئرنگ میکینکس میں مخلوط حقیقت کی ایپس بمقابلہ جسمانی ٹول کٹس بمقابلہ کلاس روم؛ مشغولیت بڑھی، پیچیدہ بصری شکل پھر بھی مشکل
-- [[medgame-llm-medical-education-gamification]] — AI کے ساتھ کھیل بنائی گئی طبی تربیت
-- [[tech-enhanced-tabletop-cybersecurity-education]] — سائبر سیکیورٹی تعلیم میں آگمنٹڈ ٹیبل ٹاپ منظرنامے
-- [[genai-xr-architectural-design-education-2026]] — شراکتی معماری ڈیزائن تعلیم میں جنریٹو AI اور ایکسٹینڈڈ ریئلٹی: ایک اکتشافی اسٹوڈیو مطالعہ
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: LLM سے چلنے والے تدریسی معاون کے ساتھ عمیق VR ڈیزائن اسٹوڈیو، روایتی PBL کے مقابل جانچا گیا (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: VR اسٹیج لائٹنگ تعلیم میں LLM کی معاونت والی کثیر الشکلی تدریس، اور جہاں بنیاد ٹوٹی (Liang et al. 2026)

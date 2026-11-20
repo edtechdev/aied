@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -80,42 +82,3 @@ ai_assist:
 - **«Результати ПЗЗ слід об’єднувати з результатами навчання на основі проєктів.»** Трирівневий метааналіз тримає **продуктивність продукту й розв’язку в окремій моделі** саме тому, що вона міряє **взаємодію людини й ШІ**, а не власне міркування здобувача. Об’єднання їх приписало б спільно створений артефакт студентові.
 - **«Колаборативні здобутки — побічний ефект використання ШІ.»** Дослідження виявило вище сприймане колаборативне вирішення проблем (**M = 3.62 проти 3.05, d = 0.88**) і спільне вирішення проблем (**3.40, d = 1.02**), причому **найбільші ефекти взаємодії — на спільному побудуванні знань і соціальній регуляції**, тобто на вимірах колаборативного процесу, які передбачає дизайн. Механізм — структурована колаборація, а не інструмент.
 - **«ПЗЗ зі ШІ головно економить час фасилітатора.»** Вимірювані здобутки лежать у якості процесу на вимірах, які існують лише тоді, коли групова структура спроєктована під них. Реалізація ПЗЗ, що додає ШІ без структурування спільного побудування знань, не має чекати того самого ефекту.
-
-## Пов’язані поняття
-
-- [[project-based-learning]]
-- [[case-based-learning]] — Підготовлені кейси й обговорення кейсів, відмінні від відкритого дослідження ПЗЗ
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Продуктивна невдача
-
-## Пов’язані статті
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — ПЗЗ і структурні умови продуктивної інтеграції ШІ (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Систематичний огляд залученості викладачів до ШІ в ПЗЗ (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — Віртуальний пацієнт на базі GenAI для медичних туторіалів ПЗЗ (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — Рамка LEARN для відповідального GenAI в ПЗЗ (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT як адаптивний скаффолдинг у ПЗЗ з підсиленням ШІ (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — ПЗЗ у біомедичній інженерії в епоху GenAI (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — ПЗЗ з підтримкою ШІ для обчислювального мислення
-- [[genai-counter-learner-groupthink-2025]] — Агент на базі GenAI протистоїть груповій думці в міжпрофесійному ПЗЗ
-- [[dai-chatbots-problem-posing-primary-2026]] — Чатботи на базі GenAI і проблемопостановка в природничих науках початкової школи
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для навчання на основі дослідження в STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Систематичний огляд GenAI в сценарійній освіті охорони здоров’я (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Модуль CTD-PBL з підтримкою ШІ для 130 викладачів-початківців фізики: TPACK і колаборативне вирішення задач (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — ПЗЗ з опосередкуванням фасилітатора проти опосередкування ШІ в освіті з фармакології: квазіекспериментальне дослідження серед студентів-медиків другого курсу

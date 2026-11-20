@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -126,36 +128,3 @@ Sanggahan ini sengaja ditulis dalam bentuk [[refutation-text]] agar dapat sendir
 - **"Miskonsepsi guru dapat dikoreksi dengan menyajikan bukti."** Dalam uji coba dengan **123 pendidik Italia**, ketidaksetujuan paling mengelompok pada **gaya belajar kognitif (78% guru membela pencocokan visual/auditori)**, inklusi dan kerja kelompok (68%), serta kelebihan EdTech (54%). Ketidaksetujuan terkuat adalah yang paling resistan terhadap bukti, itulah sebabnya [[refutation-text|sanggahan]] mengalahkan pernyataan.
 - **"Keberatan guru terhadap bukti semuanya resistensi."** Ketika butir yang sama disampaikan melalui AI percakapan yang **memvalidasi konteks guru sebelum memperkenalkan kembali buktinya**, **41% keberatan menyangkut kendala kontekstual nyata** — ukuran kelas, kebutuhan khusus, tuntutan kurikulum. Sebagian besar yang tampak sebagai miskonsepsi adalah keberatan yang akurat.
 - **"Miskonsepsi dapat dideteksi secara andal dari dialog."** **Dari 241 segmen berprompt, 221 (91.7%) dikonfirmasi sebagai miskonsepsi strategis oleh suara mayoritas ahli (Fleiss' κ = 0.9487)**, dengan **tidak ada perbedaan signifikan** antar kelompok. Keandalan tinggi dapat dicapai di bawah ajudikasi ahli, dan itulah kondisi yang menjadi sandaran klaimnya.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Urutan perubahan-konseptual yang menghadapi keyakinan tertentu yang dipegang
-- [[learners]] — Pembelajar: payung untuk konsep-konsep sisi pembelajar
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Artikel terkait
-- [[rudolph-ai-myths-critical-higher-ed]] — Jangan percaya hype: delapan mitos AI dan kebutuhan akan pendekatan kritis dalam pendidikan tinggi
-- [[student-rationalization-ai-writing]] — Rasionalisasi siswa atas penulisan dengan AI
-- [[genai-skill-bypass-literacy]] — Pemintasan keterampilan GenAI dan literasi
-- [[trust-reliance-ai-education-2026]] — Kepercayaan dan kebergantungan dalam pendidikan AI
-- [[contextual-sycophancy-ai-literacy]] — Sikofansi kontekstual dan literasi AI
-- [[sycophantic-ai-social-interaction-2026]] — AI sikofanis dalam interaksi sosial
-- [[llm-fallacy-misattribution]] — Salah atribusi kekeliruan LLM (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Cacat tetapi mudah diingat: penerimaan kritis siswa atas analogi GenAI yang dipersonalisasi-minat dalam pendidikan komputasi
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: penjelasan lancar dan berwibawa yang salah secara konseptual alih-alih faktual (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Instruksi tersembunyi dalam berkas yang dikirimkan dapat menaikkan nilai yang dinilai AI tanpa peringatan yang terlihat (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Miskonsepsi keselamatan AI pada anak: persahabatan dengan robot disalahbaca sebagai jaminan privasi (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostik AI percakapan untuk miskonsepsi pengajaran dengan dialog berbasis bukti (Miranda & Calvani 2026)

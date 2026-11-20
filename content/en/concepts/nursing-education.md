@@ -13,6 +13,8 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 > **Nursing Education** — the preparation of nurses for licensed practice, and the subfield of [[medical-education|health-professions education]] where AI is currently most studied. AI enters nursing curricula through [[simulation|simulation]] with virtual patients and mannequins, [[llm|LLM]]-based study and clinical-reasoning support, [[automated-assessment|automated assessment]], and adaptive platforms for at-risk learners. Its object is distinctive: nursing competence fuses psychomotor skill, relational practice, and [[learner-identity|professional identity]] formation, so a technology that raises measured performance can simultaneously erode the developmental work that produces a nurse.
@@ -96,40 +98,3 @@ The field also refines three adjacent concepts. From [[simulation|simulation]] i
 **"Any simulation study generalises to clinical practice."** The evidence base reviewed here — **19 studies, N = 1,253, mostly prelicensure students** — is largely classroom and laboratory based, and the translation from simulated competence to supervised practice is exactly the step an AI-assisted simulation does not by itself rehearse.
 
 **"AI competency for nursing means handling the tools, so training should start with them."** The framework literature runs the other way. The dimensions the reviewers found consistently addressed are ethics knowledge, responsibility, application and evaluation skills; technical and operational use is where the field has least to say. A program that buys tool licenses first is building the thinnest-evidenced part of the map, and the named frameworks it might adopt instead of a curriculum, N.U.R.S.E.S., AI-ABCs and CARE, are precisely the ones without assessment methods.
-
-## Connected Concepts
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[hardie-genai-nursing-scoping-review-2026]] — Applications, attitudes and ethics in nursing education: a 103-study scoping review (Hardie et al. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Learners’ experiences of generative artificial intelligence-supported simulation and skills training in nursing education: a meta-synthesis
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematic review of AI in nursing education (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences through the TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI perceptions and career anxiety among health sciences students
-- [[genai-counter-learner-groupthink-2025]] — Generative AI to counter groupthink in interprofessional PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Nursing academics on GenAI: policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity, and a deterrence case built on perception
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping review mapping AI competency frameworks onto 12 KAS sub-dimensions for nursing curricula
-- [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Umbrella review of 18 reviews: ethics, curriculum transformation, and integration barriers
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Nursing students on the open secret of AI use: personalized learning, time, and the digital divide
-- [[agency-gap-ai-writing]] — RCT with medical and nursing students: reactive versus proactive agent design and the agency gap
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1,020 nursing students: GenAI interaction, educational interaction, and a just-identified mediation model
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — A published reply to Rony et al.: institutional ecosystems, readiness, and AI oversight
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Faculty and students co-design a nursing education analytics dashboard
-- [[federated-learning-at-risk-student-prediction-2026]] — Privacy-preserving at-risk prediction across health-professions programs, and why an imported threshold misfires in nursing

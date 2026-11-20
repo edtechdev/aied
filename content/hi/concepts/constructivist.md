@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -115,53 +117,3 @@ ai_assist:
 - **"पूछे गए प्रश्नों से रचनावादी शिक्षण का पता लगाया जा सकता है।"** एक DeBERTa वर्गीकरणकर्ता ने **तथ्यात्मक ज्ञान-संप्रेषक प्रश्नों को 96.67% परिशुद्धता पर वर्गीकृत किया पर सुविधाकार प्रश्नों को केवल 78.79%** पर, और **हर मॉडल ने दोनों उच्च-क्रम भूमिकाओं को भ्रमित किया**। जो कंस्ट्रक्ट सबसे अधिक मायने रखता है, स्वचालित पहचान उसी को सबसे बुरी तरह संभालती है।
 - **"पाठ की सतही विशेषताएँ उसकी शैक्षणिकी प्रकट करती हैं।"** वर्गीकरणकर्ता की विफलता कार्यान्वयन का विवरण नहीं है। सुविधाकार और रचनावादी भूमिकाएँ इसीलिए कठिन मामले हैं क्योंकि वे इससे परिभाषित होती हैं कि शिक्षक शिक्षार्थी की सोच के साथ क्या करता है, और वह संबंध केवल प्रश्न-पाठ से पुनर्प्राप्त नहीं किया जा सकता।
 - **"रचनावाद का अर्थ है कि शिक्षक व्याख्या न करे।"** सिद्धांत सीखने को शिक्षार्थी के अनुभव से निर्माण में रखता है, जो प्रत्यक्ष निर्देश के साथ संगत है। इसे कहने पर रोक मानना सिद्धांत और कृत उदाहरणों के साक्ष्य, दोनों को गलत पढ़ता है।
-
-## संबंधित अवधारणाएँ
-- [[community-of-inquiry]] — इंक्वायरी समुदाय (कंस्ट्रक्टिविस्ट/ड्यूई व्यावहारिकता में निहित)
-- [[cognitive-psychology]] — संज्ञानवाद, अधिगम सिद्धांत का तीसरा शास्त्रीय ध्रुव
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — रसायन शिक्षा और AI: प्रयोगशालाएँ, गठनात्मक मूल्यांकन, LLM सीमाएँ, प्रयोग का दर्शन
-- [[theory-development-aied]] — AI शिक्षा में सिद्धांत विकास
-- [[productive-failure]]
-
-## संबंधित लेख
-- [[lee-learner-question-types-ai-education-2026]] — तीन कंस्ट्रक्टिविस्ट भूमिकाओं में वर्गीकृत शिक्षार्थी प्रश्न: संप्रेषक, सुगमक, सह-शिक्षार्थी (ली, अतिफ एंड कांग 2026)
-- [[mishra-control-vs-agency-history-2025]] — AIED इतिहास में कंस्ट्रक्शनिज़्म (पेपर्ट) को संज्ञानात्मक ट्यूटरों के विरुद्ध रखना
-- [[code-to-learn-genai-artifact-construction-2026]] — जेनAI के साथ कोड-टू-लर्न: कलाकृति निर्माण के लिए कंस्ट्रक्शनिज़्म ढाँचा
-- [[ai-writes-code-student-writes-model-2026]] — मॉडल लेखन: जेनAI के साथ निर्माण-द्वारा-अधिगम के लिए सिद्धांत और मापन कार्यक्रम
-- [[ai-vocational-education-training-review]] — कंस्ट्रक्टिविज़्म घोषित लेकिन VET में व्यवहारवादी AI प्रभावी; "ट्यूरिंग ट्रैप"
-- [[generative-refusal-ai-tools-for-thought]] — रचनात्मक विचार की रक्षा के लिए जनरेशन रोकने वाले AI उपकरण
-- [[genai-mindtool-generative-learning]] — शिक्षार्थी निर्माण का समर्थन करने वाला विचार उपकरण के रूप में जेनAI
-- [[ai-agents-constructive-conflict-design-education-2026]] — रचनात्मक पुनर्विचार को प्रेरित करने वाले प्रतिद्वंद्वी AI एजेंट
-- [[hingle-collaborative-ai-literacy-2025]] — सहयोगात्मक AI साक्षरता और ICAP भागीदारी ढाँचा
-- [[ai-internal-feedback-evaluative-judgments]] — मूल्यांकनात्मक निर्णय उत्पन्न करने वाली AI-समर्थित तुलना
-- [[icap-cognitive-engagement-llm-agents]] — LLM एजेंटों के साथ ICAP और संज्ञानात्मक भागीदारी
-- [[conversational-ai-tutors-framework]] — AI शिक्षकों में सहायक संवाद
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — एक AI सुगमक के साथ मूर्त इंक्वायरी
-- [[beyond-detection-authentic-assessment-ai-2025]] — प्रामाणिक मूल्यांकन और ज्ञान निर्माण
-- [[teacher-ai-teaming-five-levels]] — डिज़ाइन में शिक्षक–AI सहयोग के स्तर
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — शिक्षार्थी और मशीन के बीच संज्ञानात्मक सह-सशक्तिकरण
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — AI-संचालित शैक्षणिक रोबोटिक्स सीखने के मार्ग (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: छात्रों के संज्ञानात्मक विकास का अनुकरण करने वाला जनरेटिव एजेंट
-- [[synthetic-position-self-authorship-2026]] — अनुकरण-प्रतिरूप AI प्रति-स्थितियाँ संवाद का रूप अभ्यास करती हैं लेकिन उस प्रतिरोध को रोकती हैं जो संशोधन के लिए विवश करता है
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — अधिगम दंड: होमवर्क स्कोर 18% ऊपर, क्लोज़्ड-बुक परीक्षा 20% नीचे, मुख्यतः होमवर्क आउटसोर्स करने वालों में

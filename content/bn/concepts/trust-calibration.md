@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -132,11 +134,9 @@ ai_assist:
 - উপযুক্ত নির্ভরতাকে ভিত্তিসত্যের বিপরীতে আচরণগত ফলাফল হিসেবে মাপুন, বিশ্বাস-স্কোর হিসেবে নয়। যে একটি গবেষণায় দুটিই মাপা হয়েছে সেখানে তারা ঋণাত্মকভাবে সম্পর্কিত।
 - প্রাথমিকভাবে ভুল অংশগ্রহণকারীদের পুনরুদ্ধারের হার সামগ্রিক নির্ভুলতা থেকে আলাদাভাবে রিপোর্ট করুন, কারণ সামগ্রিক সংখ্যা সেই সম্ভাবনার-নিচে হারের কথা ঢেকে দেয় যা সবচেয়ে বেশি গুরুত্বপূর্ণ।
 
-
 **যে শিক্ষার্থীরা সবচেয়ে স্থিতিস্থাপক দেখায় তারাই সরঞ্জামকে বেশি বিশ্বাস করেছে।** 300 জন দক্ষিণ কোরীয় বিশ্ববিদ্যালয় শিক্ষার্থীর জরিপে [[kim-overtrust-ai-literacy-2026|Kim, Kim ও Zhang (2026)]] দেখেন অতিরিক্ত বিশ্বাস সম্পর্কিত [[self-efficacy|একাডেমিক স্ব-কার্যকারিতা]] (r = 0.230), [[motivation|অন্তর্নিহিত প্রেরণা]] (r = 0.224) ও কর্মক্ষমতা-প্রত্যাশা (r = 0.360) এর সঙ্গে, এবং এআই সাক্ষরতার সঙ্গে নয় (r = 0.051)। ক্রমিক মডেলে স্ব-কার্যকারিতা সরাসরি অতিরিক্ত বিশ্বাসের পূর্বাভাস দিয়েছে B = 0.3901-এ (95% CI [0.2190, 0.5612]), যা এর মোট প্রভাব 0.3397-এর উপরে, যাকে লেখকেরা দমন হিসেবে পড়েন। শিক্ষার্থীর আত্মবিশ্বাস থেকে ক্রমাঙ্কন পড়া যায় না।
 
 ক্রমাঙ্কন একটি অবস্থা, কোনো ফলাফল নয়, আর এটি যে ফলাফলকে অনুমোদন দেয় তার নিজস্ব পাতা আছে। [[automation-bias]] যাচাই না করে একটি স্বয়ংক্রিয় বিচার মেনে নেওয়ার নির্দিষ্ট ত্রুটি নথিভুক্ত করে: একজন শিক্ষক ড্যাশবোর্ডের একটি পতাকা মুখের কথায় মেনে নেওয়া, বা একজন রেটার নিজে না-পড়া একটি স্ক্রিপ্টে মেশিন-স্কোর গ্রহণ করা।
-
 
 ## প্রচলিত ভ্রান্ত ধারণা
 
@@ -149,57 +149,3 @@ ai_assist:
 **"যাচাই সহজ, তাই যারা গুরুত্ব দেয় তারা করবে।"** যাচাই সস্তা এবং বিরলভাবে সম্পাদিত। **900 মার্কিন প্রাপ্তবয়স্কের** নিষ্ক্রিয় ট্র্যাকিং গবেষণায়, এআই-উৎপাদিত সারাংশ দেখানো পাঠকরা তার ভেতরে উদ্ধৃত উৎসে ক্লিক করেছেন মাত্র **1% ভিজিটে**, এবং সারাংশ না-দেখা পাঠকদের প্রায় অর্ধেক হারে যেকোনো ফলাফল-লিঙ্কে ক্লিক করেছেন। সারাংশ যাচাই [[prompt-engineering|উসকে]] না দিয়ে দমন করে, তাই যাচাই কাজের ভেতরেই গাঁথতে হবে, পরিশ্রম থেকে ধরে নেওয়া যাবে না।
 
 **"সতর্ক পাঠক উপস্থাপনা ও মর্ম আলাদা করতে পারে।"** সাবলীলতাই অযোগ্য বিশ্বাস অর্জন করে, এ কারণেই ক্রমাঙ্কন কেবল শিক্ষার্থীর দক্ষতা নয়, একটি নকশা-সমস্যা। যে ব্যবস্থার ইন্টারফেস কর্তৃত্বের সংকেত দেয় তাকে সেই স্তরেই বিশ্বাস করা হবে, বিপরীত নির্দেশনা যাই থাকুক।
-
-## সংযুক্ত ধারণা
-
-- [[automation-bias]] — ভুল-ক্রমাঙ্কিত বিশ্বাস যাকে অনুমোদন দেয় সেই গ্রহণ-ত্রুটি
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[children-verification-ai-suggestions-game-2026]] — খেলা-ভিত্তিক মানব-এআই সহযোগিতায় শিশুদের যাচাই-আচরণ
-- [[student-perspectives-ai-writing-grading-2026]] — স্বচ্ছ এআই-সহায়ক লেখা মূল্যায়ন নিয়ে শিক্ষার্থীর দৃষ্টিভঙ্গি (AlGhamdi 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — ক্রমাঙ্কন নতুন করে কাঠামোবদ্ধ: ব্যবস্থার অবস্থান আটকে রাখা প্রতিরক্ষামূলক, সংশোধনমূলক নয়
-- [[du-yuan-epistemic-dependence-2026]] — উৎপাদনশীল নির্ভরতা ও ক্ষতিকর নির্ভরতা আলাদা করার ছয়টি নির্ণায়ক মানদণ্ড (Du ও Yuan 2026)
-- [[icet-ml-education-trust-2026]] — শিক্ষার মধ্য দিয়ে এআই ব্যবস্থায় বিশ্বাসের মোকাবিলা: একটি শিক্ষণীয় দৃষ্টিভঙ্গি
-- [[pearls-epistemic-verification-2026]] — জ্ঞানতাত্ত্বিক কর্তৃত্ব ও এআই আউটপুট যাচাইয়ের PEARLS কাঠামো (Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — এজেন্টিক সাক্ষরতা-ঋণ: স্বায়ত্তশাসিত এজেন্ট থেকে কাঠামোগত এআই-সাক্ষরতার ব্যবধান (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — শিক্ষায় এআই-এর প্রতি বিশ্বাস ও নির্ভরতা
-- [[calibrating-trustworthiness-llm-education-2026]] — বিশ্বাসযোগ্যতা ক্রমাঙ্কন: শিক্ষায় এলএলএম-এর জন্য সহ-নকশা করা মেট্রিক
-- [[llm-fallacy-misattribution]] — এলএলএম ভ্রান্তি ও সক্ষমতার ভুল আরোপ
-- [[ai-partner-science-epistemic-vigilance]] — উৎপাদনশীল বর্ধনের চাবিকাঠি হিসেবে জ্ঞানতাত্ত্বিক সতর্কতা
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — জটিল অভিযোজনশীল ব্যবস্থা হিসেবে মডেল করা এআই অতিনির্ভরতা
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — ত্রুটিপূর্ণ অথচ স্মরণীয়: কম্পিউটিং শিক্ষায় আগ্রহ-ব্যক্তিগতকৃত GenAI উপমার প্রতি শিক্ষার্থীর সমালোচনামূলক গ্রহণ
-- [[trust-calibration-chatbots-design-problem-2026]] — নকশা-সমস্যা হিসেবে নতুন করে কাঠামোবদ্ধ বিশ্বাস ক্রমাঙ্কন: দ্বিমাত্রিক ব্যবহারকারী-টাইপোলজি ও আটটি নকশা-প্রস্তাব (Jaidka ও Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — এআই-মধ্যস্থ গ্রেডিংয়ে প্রম্পট ইনজেকশন: এমন সরঞ্জাম যা নিজের সতর্কবার্তা চেপে রেখেছিল ও তার বিরোধিতা করেছিল (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — বিশ্বাস-গেটযুক্ত অনুমান ও নকশা-দ্বারা-ব্যাখ্যাযোগ্য মূল্যায়ন, বিশ্বাস অপরিমাপিত রেখে (Li প্রমুখ 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — এআই গ্রেডের আত্মবিশ্বাস-ফিল্টারিং ও তার মিথ্যা-ধনাত্মক হার
-- [[bounded-reliance-ai-writing-feedback-2026]] — সীমিত নির্ভরতা: এআই-উৎপাদিত লেখার প্রতিক্রিয়ায় EFL শিক্ষার্থীদের সম্পৃক্ততার উৎস-বিশ্বাসযোগ্যতা দৃষ্টিভঙ্গি
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — এআই-সক্ষম ব্যবস্থায় বিশ্বাস: 33টি অভিজ্ঞতামূলক গবেষণা জুড়ে সংজ্ঞা, পরিমাপ ও নকশা-উপাদান (Abramson প্রমুখ 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — নির্ণয় থেকে মেটা-নির্ণয়ে: এআই-উৎপাদিত নির্ণয়গত অনুমান মূল্যায়নকারী শিক্ষক (Hoppe প্রমুখ 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — একটি প্রতিফলন-প্রম্পট ভুল এআই পরামর্শ গ্রহণ কমায় (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — প্রাসঙ্গিক সহায়তা থেকে অনুভূত স্থানান্তর-অর্জনের শৃঙ্খলে মধ্যস্থতাকারী হিসেবে বিশ্বাস ক্রমাঙ্কন (Bu ও Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — এআই সাক্ষরতা থেকে চলমান ব্যবহারে বিশ্বাসই কেন্দ্রবিন্দু, যা এআই উদ্বেগে দুর্বল হয় (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — এআই সুপারিশ সমালোচনামূলকভাবে সামলানোর কাঠামো হিসেবে ভূমি-আবর্তন (Kenzhebayeva প্রমুখ 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ডেটা সায়েন্স কোর্সে শিক্ষার্থীদের এলএলএম ব্যবহার ও এআই-উৎপাদিত প্রশ্নের কঠিনতার সীমা
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — AI-EdTech-এ বিশ্বাসকে চার উপাদানে বৈধতা দেওয়া শিক্ষার্থী-মুখী সরঞ্জাম, অনুভূত উপযোগিতার আগে বিশ্বাস রেখে (Nazaretsky প্রমুখ 2025)
-- [[children-design-trustworthy-ai-chatbots-2026]] — শিশুরা কীভাবে বিশ্বাসযোগ্য এআই চ্যাটবট নকশা করে ও তা নিয়ে যুক্তি দেয়
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — যখন এআই পরামর্শ মানব বিচারের সঙ্গে মেলে বা বিরোধ করে: শারীরিক শিক্ষায় বিশ্বাস, স্ব-কার্যকারিতা, মনস্তাত্ত্বিক স্থিতিস্থাপকতা ও অভিযোজনশীল প্রতিক্রিয়া
-- [[kim-overtrust-ai-literacy-2026]] - 300 জন শিক্ষার্থীর মধ্যে অতিরিক্ত বিশ্বাস স্ব-কার্যকারিতা ও কর্মক্ষমতা-প্রত্যাশার সঙ্গে সম্পর্কিত ছিল, এআই সাক্ষরতার সঙ্গে নয়

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -69,26 +71,3 @@ ai_assist:
 **"যে শিক্ষার্থীরা একটি সরঞ্জাম ছেড়ে দেয় তাদের প্রেরণার অভাব।"** পরিত্যাগ প্রায়ই ব্যবহারকারীর সঠিক পাঠ — এমন একটি মিথস্ক্রিয়া-ব্যয়ের, যা নকশাকার কখনও মাপেননি। যেহেতু কেউ ব্যবহার না করা সরঞ্জামের প্রভাব থাকতে পারে না, পরিত্যাগের হার নিজেই একটি শিক্ষাগত ফল।
 
 **"ব্যবহারযোগ্যতা পরীক্ষা আর শিখন মাপা একই জিনিস।"** তারা আলাদা প্রশ্নের উত্তর দেয় এবং কেউ কারও বিকল্প নয়; ব্যর্থতার ধরন হলো যেকোনোটিকে গ্রহণের জন্য যথেষ্ট ভাবা।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-চালিত গল্প-বলা হিউম্যানয়েডের একটি ব্যবহারযোগ্যতা-গবেষণা
-- [[rhaimi-productivemath-2025]] — ProductiveMath: একটি জেনারেটিভ-এআই অ্যাপের ব্যবহারযোগ্যতা
-- [[supplynet-visual-exploratory-learning]] — SupplyNet ব্যবহারকারী-গবেষণা
-- [[anvil-ai-educational-animations]] — এআই-উৎপন্ন শিক্ষামূলক অ্যানিমেশনের ব্যবহারযোগ্যতা
-- [[code-anchor-multi-view-visualization]] — বহু-দৃশ্য কোড ভিজুয়ালাইজেশনের থিংক-অ্যালাউড গবেষণা
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN কাঠামো ও থিংক-অ্যালাউড মূল্যায়ন
-- [[feedback-futures-genai]] — শিক্ষার্থীরা এআই-উৎপন্ন প্রতিক্রিয়া কীভাবে প্রক্রিয়া করে
-- [[llm-chatbots-cs-multiple-choice]] — CS বহুনির্বাচনী প্রশ্নের জন্য LLM চ্যাটবট
-- [[conversational-ai-agents-umbrella-review-2026]] — কথোপকথনমূলক এআই এজেন্টের ছাতা-পর্যালোচনা

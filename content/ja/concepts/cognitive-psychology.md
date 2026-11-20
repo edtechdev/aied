@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -84,39 +86,3 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 - **「心的表象は観察できないので、学習についての認知主義的な主張は想定にすぎない」。** 科学のビデオ中の学習者の**EEG**から画像を再構成すると、**表象の忠実度がテスト成績と連動する**ことが分かりました(回帰係数**0.8481、R² = 0.79**)。内的表象という認知主義的な前提は測定可能であり、その測定は成果を予測しました。
 - **「高いR²は表象が学習を説明することを意味する」。** R² = 0.79は、同じ教材における忠実度と成績の間の強い関連です。忠実度を上げれば成績が上がるという介入の主張を確立するものではありません。
 - **「知識構成要素は便利なモデリング上の虚構である」。** 分解可能性こそが[[knowledge-tracing]]と[[cognitive-diagnosis]]を可能にし、これらの手法はその想定が成り立つ程度に機能します。虚構として扱うことは、手法が使える推定を生む理由を捨てることになり、事実として扱うことは、適合したモデルが心について何を語るかを過大に伝えることになります。
-
-## 関連する構成概念
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — この実践の一群が依拠する保持に関する知見
-
-## 関連する記事
-
-- [[sim-ai-summary-memory-distortion-2026]] — 誤解を招く AI の要約は、AI 執筆か人間執筆かのラベルに関わらず、成人が記憶した内容を変えた
-- [[cognitive-shift-ai-education]] — AI教育における認知的転換
-- [[cogtax-cognitive-taxonomy]] — AI利用のための認知的タクソノミー
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 知識追跡に基づく教授学的LLMエージェント
-- [[nie-personavlm-long-term-personalization-2026]] — LLMによる学習者モデリングと記憶
-- [[ai-cognitive-partner-co-regulation-learning]] — 共調整された学習における認知的パートナーとしてのAI
-- [[ensemble-cognition-philosophy-ai-education]] — アンサンブル認知：人間とAIの相互作用としての思考
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 負荷とフラストレーションを追跡したのは努力の量ではなく努力の組織化
-- [[crediting-assisted-work-inflates-mastery-2026]] — 知識追跡からの習得の主張は、支援された作業をどう功績として数えるかに依存する（Srivastava 2026）

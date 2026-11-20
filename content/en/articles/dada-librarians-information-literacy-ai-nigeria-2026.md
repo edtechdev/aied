@@ -20,6 +20,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [libraries, information-and-media-literacy, librarians, ai-literacy, higher-ed, governance]
 ---
 
 > **Synthesis:** Dada surveys 412 academic librarians across 38 Nigerian universities, polytechnics and colleges of education to ask how they engage students on [[information-and-media-literacy|information literacy]] and [[ai-literacy|AI instruction]], how competent they feel, what blocks them and what predicts effectiveness. The pattern is a competence paradox: librarians rate themselves high on traditional information-literacy delivery (M = 4.02) and database instruction (M = 4.07), but their composite AI competency sits below the scale midpoint (M = 2.86), with the weakest items being designing AI literacy objectives (M = 2.70) and assessing AI literacy outcomes (M = 2.62). Face-to-face reference and formal instruction dominate engagement; AI orientation sessions are the least-used mode (M = 2.77), and 50.7% say they rarely run them.
@@ -63,15 +64,6 @@ The study is also silent on sampling and response bias: a 91.6% response rate is
 - The article has no dedicated limitations section and does not discuss sampling, response bias or generalizability.
 - The reported item counts in the method (12 engagement items, 14 barrier items) do not match the eight modes and ten barriers reported in the tables.
 - The sample is confined to Nigerian tertiary institutions and predates the current generation of generative and agentic tools.
-
-## Connected Concepts
-
-- [[libraries]]
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[governance]]
 
 ## Citation
 

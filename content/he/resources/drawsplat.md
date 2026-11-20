@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,8 +48,3 @@ ai_assist:
 ## הערות
 
 אתר המוצר אינו מזהה מחבר פרטני ומנתב בקשות לתיבת דואר נכנס של הפרויקט; DrawSplat נבנה על ידי Miguel Guhlin, שאתרו מתעד את ההשקות שלו. הקוד חופשי במובן הרישוי, לא רק במובן המחיר: הלוח הלבן הוא GNU AGPL-3.0-or-later והיישומי SplatWorks הם GPL-3.0-only, ללא רישיון לפי מושב במכשירי תלמיד. כלים שקוראים את הקבצים שלכם פועלים מקומית בדפדפן, בעוד שמירה בענן וכל בקשת למידה מקצועית שולחות נתונים, ולכן בדקו את דף מלאי האחסון לפני שימוש עם עבודת תלמידים.
-
-## מושגים מחוברים
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

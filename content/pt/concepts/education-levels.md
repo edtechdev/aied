@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -112,40 +114,3 @@ Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve o
 **"Um [[intelligent-tutoring|tutor adaptativo]] ajuda todos os níveis igualmente."** A comparação que isola a variável é instrutiva: duas versões do mesmo tutor de matemática do segundo ano — conteúdo, interface, feedback e dicas faladas idênticos —, diferindo **apenas em se a seleção de tarefas seguia ou não um modelo bayesiano de [[knowledge-tracing|rastreamento de conhecimento]]**. A seleção adaptativa de tarefas é uma intervenção sensível ao nível, e seu benefício depende de se quem aprende naquele nível consegue agir sobre a adaptação.
 
 **"A evidência concentrada no ensino superior generaliza para baixo."** Não generaliza, e a distribuição da literatura é um alerta, e não uma conveniência. Onde a evidência é densa e onde ela é escassa é uma propriedade da economia da pesquisa, não de onde a IA é mais usada, de modo que uma afirmação sobre o K-12 extraída de amostras universitárias é uma extrapolação através da fronteira que mais importa.
-
-## Conceitos conectados
-- [[primary-education]] — A faixa do ensino fundamental I em si mesma
-- [[secondary-education]] — Ensino fundamental II e ensino médio juntos
-- [[undergraduate-education]] — Trabalho de curso sob julgamento externo
-- [[graduate-education]] — Orientação, formação em pesquisa, programas profissionais
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Artigos conectados
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Tutoria adaptativa versus não adaptativa em matemática do segundo ano (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa e formulação de problemas com crianças do terceiro ano em ciências no ensino fundamental I
-- [[chatgpt-music-education-junior-high-2026]] — Atitudes de estudantes do ensino fundamental II em relação ao ChatGPT no aprendizado de letras de música (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — LMS com IA integrada desenhado para o ensino fundamental II, com um estudo longitudinal proposto
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — A penalidade de aprendizagem da IA generativa no ensino médio chinês (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Quatro tipos de dependência de LLM entre escritores de graduação (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Plataforma de seminário assistida por IA com apoio bibliotecário embutido para estudantes de engenharia
-- [[ai-mediated-research-agency-formation-2026]] — Dependência de IA, autonomia e inovação na formação doutoral e pós-doutoral (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Visões das partes interessadas sobre privacidade de dados no ensino superior africano (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Prontidão para adoção de IA entre gestores de educação em toda a Ucrânia (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — ABP imersiva habilitada por IA para estudantes de design profissionalizante (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Intenção de professores de educação infantil de usar IA em contextos da primeira infância
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Atitudes de crianças em relação a um chatbot de IA ajustado à idade
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 estudos no ensino fundamental I; quatro componentes, incluindo ética e letramento crítico de dados (Yim & Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 estudos no ensino médio; a acurácia desaba nos itens de ordem superior (Pérez-Montesdeoca et al. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1.477 respondentes entre ensino médio, universidade e professores; aprendizagem percebida versus engajamento
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 estudantes de graduação e pós-graduação; o letramento digital previu o desempenho, a ética não
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Comparação entre graduação e pós-graduação; a diferença em ética e autonomia é a mais ampla (Zaripova et al. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modelo de letramento em IA generativa na pós-graduação com cinco dimensões

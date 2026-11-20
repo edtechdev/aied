@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -43,6 +44,3 @@ ai_assist:
 ## টীকা
 
 Apache 2.0 লাইসেন্সপ্রাপ্ত, সেপ্টেম্বর 2026 অনুযায়ী সংস্করণ 1.6.9, GitHub-এ প্রায় 40,000 স্টার। এর পেছনের প্রকাশিত মূল্যায়ন — শক্তিশালী বেসলাইনের তুলনায় ব্যক্তিগতকৃত মেট্রিকে গড়ে 10.8% উন্নতি এবং পাঁচটি ব্যাকবোন মডেলজুড়ে সাধারণ এজেন্টিক যুক্তিতে 29.4% বেশি শক্তি, TutorBench বেঞ্চমার্কে — সারাংশ আছে [[zhao-deeptutor-agentic-personalized-tutoring-2026|নিবন্ধের পাতায়]], যার সীমাবদ্ধতাগুলো এখানেও খাটে। যে-কোনো ওপেন-সোর্স এআই স্ট্যাকের মতো, মডেল-প্রোভাইডারের কী আপনাকেই সরবরাহ করতে হবে, আর ডেস্কটপ বা সার্ভার স্থাপনার জন্য Python 3.11 ও Node দরকার।
-
-## সংযুক্ত ধারণা
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

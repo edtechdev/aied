@@ -13,6 +13,8 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 > **Administrators** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
@@ -62,32 +64,3 @@ The administrator perspective connects to [[educational-policy-ai|educational AI
 - **"Adoption figures measure readiness."** Declared use and governed use are different quantities, and the evidence separates them: institutions report strategic intent at roughly half the population and leadership capacity at under a tenth. A survey showing that staff use AI tells you what individuals have already done without permission, not what the institution can support or supervise.
 - **"Procurement is an administrative step."** Where capability is purchased rather than built, the contractual terms decide what becomes possible later — data ownership, audit access, and whether the tool can be evaluated at all. A vendor decision made as a purchasing task forecloses evaluation questions the institution has not yet asked.
 - **"Governance can follow adoption."** The sequencing claim is common and unsupported here: the evidence documents the opposite pattern, with policy and leadership structures trailing use that is already happening. Governance framed as something to build after rollout is governance built from a position of less leverage.
-
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — the institutional processes administrators run: advising, outreach, referral, and allocation
-
-## Connected Articles
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — A four-question procurement screen, framed as students' rights rather than as risk management

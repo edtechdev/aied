@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -109,47 +111,3 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - **«Lo que el profesorado más necesita es conocimiento técnico de IA.»** En **46 docentes y 2.832 estudiantes**, el **conocimiento pedagógico de la IA del profesorado** predijo las percepciones del estudiantado sobre la IA para el bien social. El conocimiento pedagógico superó al técnico, lo que invierte el lugar al que va la mayor parte de la inversión en formación.
 - **«La principal contribución de la IA en la educación es instruccional.»** Una **revisión PRISMA de 28 estudios** encontró que la IA mejoró con más frecuencia la **planificación instruccional y el diseño de la evaluación**: la contribución más clara es **liberar trabajo administrativo**, no enseñar. Un caso construido en torno a ganancias instruccionales se apoya en la rama más débil de la evidencia.
 - **«La formación en alfabetización en IA se traduce automáticamente en mejor enseñanza.»** Un metaanálisis de tres niveles de **59 estudios (172 tamaños de efecto)** encontró que **las intervenciones centradas en el conocimiento (g ≈ 0,97)** superaban claramente a otros enfoques para mover el conocimiento. Mover el conocimiento es el resultado medido; si llegó a la práctica es la siguiente pregunta.
-
-## Conceptos conectados
-- [[pedagogical-partnerships]] — Alianzas pedagógicas
-- [[online-teaching-and-learning]] — Enseñanza y aprendizaje en línea
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — La metáfora y la analogía como técnica de enseñanza
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — El método de casos y los casos contrastivos como técnicas de enseñanza
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — Herramientas de IA entrenadas para seguir principios pedagógicos
-
-## Artículos conectados
-- [[genai-didactic-pedagogical-mediator-2026]] — La IA generativa como mediador didáctico-pedagógico: modelo triádico de instructor, estudiantado e IA generativa (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — «La pedagogía primero, la tecnología después»: el TPAIK pesa más que el TAIK técnico en los resultados del estudiantado (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Alianzas pedagógicas con IA generativa
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Cómo la orientación instruccional da forma a los efectos de aprendizaje de la IA generativa
-- [[generative-ai-guardrails-harm-learning]] — La tutoría con barreras (pista y no respuesta) elimina la penalización en el examen
-- [[agentic-ai-pedagogical-best-practice-2026]] — La tensión entre automatización y aprendizaje en la IA agéntica
-- [[jeon-isd-agent-bench-2026]] — Fundamentar los agentes en la teoría del diseño instruccional
-- [[ai-learning-tools-engineering-education-needs]] — Herramientas de aprendizaje con IA en la educación en ingeniería
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar los principios del aprendizaje con IA
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA y práctica del diseño instruccional: una revisión sistemática (Kibar e Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Enfoques instruccionales en las intervenciones de alfabetización en IA
-- [[cognitive-distribution-student-genai-interaction-2026]] — La interacción estudiantado-IA como distribución cognitiva cambiante y no como dependencia fija (53,3% de extensión)

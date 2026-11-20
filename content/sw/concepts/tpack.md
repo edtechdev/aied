@@ -17,6 +17,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -85,7 +87,6 @@ TPACK ni mfumo wa kupanga upande wa waelimishaji katika msingi wa ushahidi wa hi
 **Upatanishi unapitia zaidi urahisi wa matumizi.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] alijaribu njia sita zisizo za moja kwa moja kutoka [[ai-literacy|ujuzi wa AI]] na TPACK hadi kujifunza kwa kina kwa waelimishaji 423 wa kabla ya huduma: TPACK kupitia [[technology-acceptance-model|urahisi unaohisiwa wa matumizi]] ilikuwa kubwa zaidi (0.212) na ujuzi wa AI kupitia manufaa ulikuwa mdogo zaidi (0.033), hivyo maarifa ya uunganishaji yalifanya kazi kupitia [[usability-research|uwezo wa kutumika]] badala ya manufaa.
 **Vipengele havina uzito sawa katika kisa cha AI.** Miongoni mwa waelimishaji 988 wa kabla ya huduma, TCK (β = 0.67) na TPK (β = 0.41) zilitabiri AI-TPACK iliyounganishwa wakati TK peke yake haikutabiri (β = −0.10, p = 0.066), na TPACK iliyounganishwa ilitabiri mtazamo kuelekea GenAI (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
 
-
 ## Mabadiliko ya Kubuni
 
 1. **Funza mapitio, si zana tu.** PD inapaswa kujenga maarifa ya kiteknolojia, ya kipadia, na ya yaliyomo pamoja badala ya kutoa mafunzo ya zana yaliyotengwa — kanuni kuu ya ubunifu ya TPACK.
@@ -100,49 +101,3 @@ TPACK ni mfumo wa kupanga upande wa waelimishaji katika msingi wa ushahidi wa hi
 - **"Mfumo unaojulikana ni uliothibitishwa kwa AI."** TPACK haukuundwa kwa ajili ya uwezo mahususi wa AI, ndiyo sababu Intelligent-TPACK uliundwa, na unaonekana katika **masomo matano** pekee katika mapitio ya masomo 78. Kutumia TPACK kwa umahiri wa GenAI kunaukunjua zaidi ya ujenzi wake.
 
 - **"Kutumia mfumo maana yake utafiti umefafanuliwa kinadharia."** Mapitio hayo hayo yaligundua **76% ya masomo yalikisia uwezo kutoka mazoezi bila ramani ya kinadharia**, hivyo uwepo wa TPACK katika nyanja unaenda pamoja na utafiti mwingi kuwa bila nadharia. Mfumo uliotajwa si sawa na mfumo unaofanya kazi.
-
-## Dhana Zilizounganishwa
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Makala Zilizounganishwa
-- [[ai-literacy-tpack-preservice-2026]] — Ujuzi wa AI unaohisiwa na TPACK katika elimu ya waelimishaji wa kabla ya huduma: upatanishi kupitia manufaa, urahisi wa matumizi na thamani (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Mfumo wa Viashiria vya Tathmini kwa Miundo ya Cheti cha AI
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Utafiti wa ngazi mbalimbali: 'kipadia kwanza, teknolojia pili' — TPAIK inazidi TAIK ya kiufundi kwa matokeo ya wanafunzi (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI ya waelimishaji wenye hudumi na jukumu la kipatanishi la maarifa ya kipadia (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Viwango vya wataalam kwa uunganishaji wa teknolojia (DBR inayohusiana na TPACK)
-- [[edurev-100741-tpack-genai-review]] — Kuunganisha AI inayozalisha katika kujifunza kwa wanafunzi: mapitio ya kimfumo kutoka mtazamo wa TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Kuonyesha AI-TPACK kupitia milolongo ya mafunzo ya mawakala wengi ya waelimishaji
-- [[ai-tpack-preservice-math-teachers]] — Utayari wa AI-TPACK miongoni mwa waelimishaji wa hisabati wa kabla ya huduma
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mwingiliano wa mwalimu-AI katika kubuni somo: Intelligent-TPACK, uzoefu, na mwingiliano wa ufasaha (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Maendeleo ya kitaalama ya kudumu ya GenAI na mapato ya AI-PCK
-- [[teacher-ai-teaming-five-levels]] — Mfumo wa ngazi tano wa timu ya mwalimu-AI
-- [[teacher-ai-adoption-confidence]] — Imani ya waelimishaji na kupokea AI
-- [[teacher-education-ai-literacy-sdt-2026]] — Elimu ya waelimishaji kwa ujuzi wa AI kupitia nadharia ya kujitambua
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Mafunzo ya ujuzi wa GenAI yanayotegemea utafiti wa ubunifu
-- [[rail-ed-genai-literacy-teacher-education]] — Kufikiria upya ujuzi wa GenAI katika elimu ya waelimishaji
-- [[sec-ai-literacy-narrative-review-2026]] — Uwezo wa kihisia-kijamii na ujuzi wa AI
-- [[genai-runaway-object-math-higher-ed]] — GenAI na hisabati katika elimu ya juu
-- [[ai-changing-teaching-workflows]] — Jinsi AI inavyobadilisha milolongo ya kazi ya kufundisha
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Maarifa ya TPACK-21 yanayohisiwa na wataalam kwa GenAI katika elimu ya juu (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Kuelekea Mfumo Mpya wa AI-TPACK: maadili kama mpatanishi wa kuunganisha maarifa ya kiufundi ya AI (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Dodoso la kulinganisha la waelimishaji 186 wa sayansi wa Afrika Kusini: faida ya kampasi katika TPACK iliyoripotiwa na mwenyewe, na mafunzo ya AI yanayohusishwa na TPACK iliyoripotiwa dhaifu katika taasisi ya umbali
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK na uwezo wa kujifunza kufundisha sayansi yanapatanisha kwa mfululizo athari ya ujuzi wa AI kwa nia ya uunganishaji wa uchunguzi (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Maendeleo ya kitaalama ya Intelligent-TPACK kwa waelimishaji wa chuo kikuu: mapato yaliyotatuliwa kwa kipimo, mahudhurio juu ya ushirikiano unaohisiwa na mwenyewe — moduli ya CTD-PBL inayoungwa na AI na TPACK ya waelimishaji wa fizikia wa kabla ya hudumi na utatuzi wa matatizo ya ushirikiano (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Kutathmini Ushirikiano wa Binadamu-AI katika Elimu ya Ubunifu: rubriki inayoelekezwa na mchakato iliyojengwa juu ya mfumo wa AI-TPACK uliopanuliwa
-- [[capability-decision-model-teacher-readiness-2026]] — Mfano wa uwezo-kwanza uliopangwa wa utayari wa waelimishaji kwa AI na onyo lake la kukanyagana kwa dhana
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Onyo la mapitio ya wigo kwamba utawala wa miundo ya uwezo sehemu yanakisi vivigezo vya utafutaji, si uwepo wa uwanja
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Jukumu la TPACK Iliyounganishwa katika Kuwawezesha Waelimishaji wa Kabla ya Huduma na Kuunda Mitazamo Yao Kuelekea AI Inayozalisha katika Ufundishaji

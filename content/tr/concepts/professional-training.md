@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -79,43 +81,3 @@ Mesleki eğitim, uygulamalı becerilere, doğrudan iş yeri ilgililiğine ve yet
 **“YZ okuryazarlığı eğitimi roller arasında genellenir.”** Çoğu araç rol özgü yetkinliği ölçmez: **33 öğretmen YZ okuryazarlığı aracının** sistematik derlemesinde **29’u (%87,9)** genel YZ kavramlarını hedeflerken yalnızca **4’ü (%12,1)** işin gerçekte gerektirdiği [[pedagogy|pedagojik]] veya mesleki kullanımı ele almıştır. Genel araçlar üzerine kurulu bir program bir vekili ölçmektedir.
 
 **“Benzetimci, iş yeri eğitiminin yerine geçer.”** Prosedürü geliştirir ve sonucu ortadan kaldırır; bu değerlidir ve tam olarak aktarılamayan kısımdır: güvenlik açısından kritik işte müfredat, sonucun kendisidir.
-
-## Bağlı kavramlar
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — sürükleyici uygulamanın en köklü olduğu yer
-
-## Bağlı makaleler
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — Mühendislik ve Bilişim İş Gücünün Geleceğinde YZ
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — YZ çağında akıllı imalat için İş Gücü Hazırbulunuş Düzeyi çerçevesi
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob YZ Becerileri Çerçevesi, öğretmenler ve işverenlerle doğrulandı
-- [[cognitive-commons-ai-expertise-regeneration]] — Bilişsel ortak varlığın trajedisi: YZ ve uzmanlığın yenilenmesi
-- [[li-language-educators-genai-review-2026]] — GenAI ile dil eğitimcilerinin uygulamaları ve gelişimi
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Ulusal bağlam değil, kurumsal koşulların kadro GenAI hazırbulunuşu boşluklarını açıkladığını gösteren karşılaştırmalı anket (Bi ve ark. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Öğretmen eğitimcileri uyarlanabilir bir YZ okuryazarlığı modeli ve yansıtıcı bir anket ortak tasarlıyor (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Öğretmen YZ okuryazarlığı araçlarının üretken YZ’nin gerisinde kaldığını ve eğitim hedefini işaretlediğini gösteren derleme (Zainal ve ark. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Üç saatlik HP, Alman öğretmenlerinin algılanan yararlılığını ve kullanım kolaylığını artırdı, ancak farklılaştırma için YZ kullanma niyetini artırmadı
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — İlkokul matematiğinde ilk öğretmen eğitiminde YZ derlemesi: kısa araç odaklı eğitim yeterli değildir
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Önceki YZ eğitimini ve kullanım sıklığını Türk ilkokul öğretmenlerinin olumlu algılarına bağlayan anket
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — YZ destekli mesleki hazırlık için yapılandırıcı mekanizma olarak rol rotasyonu
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Yansıtıcı YZ Etkileşiminde Beceri Sürdürücü Bağımlılığa Doğru Açık Sorular
-
-- [[prunuske-cognitive-windows-research-meetings-2026]] — Araştırma toplantılarını veri güncellemelerinden yapay zeka çağında bilişsel pencerelere taşımak
-- [[jongkind-genai-patient-medical-communication-2026]] — Lisans tıp öğrencilerinin tıbbi iletişim eğitiminde üretken YZ hastası kullanımı: yarı deneysel bir çalışma
-- [[cowhitt-deliberative-instructional-agents-2026]] — Öğretmen mesleki öğrenmesi için müzakereci öğretimsel ajanlar ve YZ aracılı mesleki gelişim için sorumluluk koşulları
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Teknik bir mesleğin YZ pratiği öğretim yolunun önüne geçtiğinde

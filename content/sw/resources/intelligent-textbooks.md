@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -53,16 +54,3 @@ Wabunua wa mafunzo na wabunua wa maendeleo ya kitaaluma ambao wanataka kujenga a
 ## Vidokezo na mambo ya kuzingatia
 
 Huu ni mwongozo wa mtaalamu na mnyororo wa zana, sio somo lililokaguliwa na wataalam — unatoa mtiririko wa kazi na mantiki yake ya kielimu ("vitabu mahiri huwaongoza wanafunzi kupitia dhana katika safari yao ya maarifa") badala ya ushahidi wa matokeo ya kujifunza. Karatasi ya utafiti ya MicroSims ni kitu kinachokaribia zaidi ushahidi wa kihisabati, na imejichapisha yenyewe kwenye arXiv. Miundo yote mawili ni ya chanzo wazi (hifadhi ya intelligent-textbooks inaripoti leseni ya MIT na nyota 38; MicroSims inaripoti leseni ya Creative Commons na nyota 13) na hudumuliwa kwa bidii. Michoro ya dhana na muundo wa faharasa-ya-kwanza ni ya manufaa kweli kwa upatikani, lakini mwongozo unadhani mtiririko wa kazi wa uandishi wa kiufundi kiasi — MkDocs, Git, na zana za AI ya kizalishaji — ambayo inaweza kuwa kizuizi kwa baadhi ya wataalam. Kwa wakati wa kuingiza, rejista ya MicroSims bado ipo njiani tu, hivyo kupata mfano mahususi uliopo kunategemea utafutaji na usogezaji wa tovuti yenyewe.
-
-## Dhana Zilizounganishwa
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

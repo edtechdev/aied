@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -44,7 +46,6 @@ Nadharia ya kitamaduni na kijamii (Vygotsky, 1978; Luria; Leontiev) inashikilia 
 ZPD (Vygotsky) ni dhana ya kitamaduni na kijamii inayotumika zaidi katika [[intelligent-tutoring|ukufunzaji wa AI]]: nafasi kati ya kile ambacho mwanafunzi anaweza kufanya peke yake na kile anachoweza kufanya kwa msaada. Kujifunza hutokea kwa ufanisi zaidi wakati mafunzo yanalenga eneo hili — yenye changamoto ya kutosha kusukuma maendeleo, yenye msaada wa kutosha kufanya maendeleo. Ni msingi wa kinadharia wa [[scaffolding]]: msaada wa muda mfupi, unaoweza kurekebishwa, unaoondolewa kadri uwezo unavyoongezeka. Katika Akili Bandia katika elimu, ZPD inaeleza swali kuu la ubunifu la kiasi gani cha msaada ambao mwalimu wa [[intelligent-tutoring|AI]] anapaswa kutoa ili kujifunza kuendelee bila kugawiwa — ona [[stanford-evidence-base-ai-k12-2026]].
 
 Maarifa yaliyotengenezwa na mashine yanaweza kutua ndani ya eneo hilo. Katika utafiti wa nasibu wa wanafunzi 274 wa [[adult-learning|watu wazima]] katika masomo manne ya hisabati, vidokezo vya suluhisho vilivyotengenezwa na ChatGPT vilizalisha ongezeko la 17.00% kabla hadi baada dhidi ya 1.85% bila vidokezo, wakati vidokezo vilivyoandikwa na mwalimu wa binadamu vilizalisha 11.62%; hali mbili za msaada hazikuweza kutenganishwa kitakwimu ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos na Bhandari, 2024]]). Kiwango cha makosa kinahitimu usawa huo: 32% ya vidokezo vilivyotengenezwa vilishindwa ukaguzi wa ubora hadi [[prompt-engineering|uandishi wa vidokezo]] wa kujitosheleza ulipunguza hilo hadi karibu sifuri katika masomo matatu ya algebra na 13% katika takwimu. Mtu mwingine mwenye maarifa zaidi ambaye anakosea mara moja kati ya tatu bado ni wakala wa kupatia, ndiyo sababu mchango wa mashine unapaswa kukaguliwa kabla mwanafunzi kuujenga juu.
-
 
 ### Kujifunza kwa mtazamo wa kitamaduni na kijamii katika elimu ya AI
 
@@ -78,34 +79,3 @@ Mwezi wa kitamaduni na kijamii unahusishwa kikamilifu na Nadharia ya [[cognitive
 **"Kuongeza zana kwenye kikundi kunabadilisha ufanisi wa kikundi peke yake."** Kunabadilisha mgawanyo wa kazi, ambayo ndiyo kipimo cha uchanganuzi wa nadharia. Kikundi kinachoelekeza maswali yake mengi kwa wakala kimesambaza upya kazi ya kiakili hata pale matokeo hayabadiliki.
 
 **"Utambuzi uliosambazwa unamaanisha mtu binafsi hahusiki."** Unamaanisha mchango wa mtu binafsi hauwezi kusomwa kutoka utendaji wa mtu binafsi peke yake; kipimo cha uchanganuzi ni mfumo wa shughuli, si mtu peke yake.
-
-## Dhana Zilizounganishwa
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Makala Zilizounganishwa
-- [[youth-enter-chat-llm-student-talk-2026]] — Wakati Vijana Wanaingia Kwenye Gumzo: Uthibitishaji wa Vipimo vya Mazungumzo ya Wanafunzi Vinavyotegemea LLM
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI ya Kizalishaji kama Wakala wa Kupatia
-- [[golrang-propact-pair-programming-2026]] — Ukufunzaji wa AI wa Ushirikiano
-- [[finkelstein-principled-ai-education-2025]] — Miundo ya Elimu ya AI yenye Kanuni
-- [[stanford-evidence-base-ai-k12-2026]] — Msingi wa ushahidi wa Stanford kwa AI katika K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Mapitio ya haraka ya Sydney ya GenAI katika PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiakili na kudhibiti pamoja
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Vidokezo vilivyoandikwa na LLM vililingana na vidokezo vya mwalimu wa binadamu katika faida za kujifunza hisabati (Pardos na Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Kupunguza kwa kile zamu ya mwanafunzi inalenga, si kwa kina cha jibu
-

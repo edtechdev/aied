@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -57,7 +59,6 @@ ai_assist:
 ### طولانی تحقیق
 طولانی ڈیزائن ایک ہی سیکھنے والوں کو وقت کے ساتھ ٹریک کرتے ہیں، اور تبدیلی، ترقی اور پائیدار سیکھائی کو پکڑتے ہیں جو واحد وقت کی پیمائش سے چھوٹ جاتی ہے۔ [[ai-lms-middle-school-longitudinal|LMS کا ایک طولانی مطالعہ]] طلبہ کو پورے تعلیمی سال میں ٹریک کرتا ہے۔ طولانی ڈیزائن AI سے پھولی ہوئی کارکردگی کو [[genai-performance-vs-learning|پائیدار سیکھائی]] سے الگ کرنے کے لیے لازم ہیں۔
 
-
 ڈیٹا سیٹوں کے درمیان موازنوں کے لیے ایک مقررہ نقطۂ کار درکار ہے: مصنوعی تعلیمی ڈیٹا کی ساختی جانچ نے پایا کہ ہر ڈیٹا سیٹ کا اپنی اپنی حد پر تجزیہ کرنا اُس تضاد کو اُلٹ دیتا ہے جو مشترکہ نقطے پر قائم تھا، اور یہ کہ اس کے متبادل موازنے کو صرف مصنوعی ڈیٹا اور اس کی اپنی ترتیب بدلیوں کی ضرورت تھی - مطلق حد کے بجائے ترتیب پر مبنی صفر مفروضہ ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]])۔
 
 ### کمپیوٹیشنل اور سائیکو میٹرک مقداریت
@@ -89,35 +90,3 @@ ai_assist:
 - **"ارادہ–علاج کا تخمینہ بتاتا ہے کہ اوزار کیا کرتا ہے۔"** گروہی تصادفی رسائی کے ایک تجربے میں جہاں **علاج والی کلاسوں میں تقریباً 15% طلبہ نے کبھی ٹیوٹر استعمال کیا**، ITT تخمینہ اوزار **متعارف کرانے کے اثر** کی عکاسی کرتا ہے، اسے استعمال کرنے کے اثر کی نہیں۔ کم اپٹیک ITT کے عدد کو نفاذ کے بارے میں بیان بنا دیتا ہے، اور اسے اوزار کے اثر کے طور پر پیش کرنا اس بات کو بڑھا چڑھا کر دکھاتا ہے کہ ناپا کیا گیا۔
 - **"کام پر کارکردگی ہی نتیجہ ہے۔"** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] **120 طلبہ** کو AI کی معاونت والی یا روایتی پڑھائی میں تصادفی طور پر تقسیم کرتا ہے اور **یادداشت** ناپتا ہے — یہی وہ ڈیزائن ہے جو فوری کارکردگی کو پائیدار سیکھائی سے الگ کرتا ہے۔ جو مطالعہ کام پر ہی رک جائے اس نے آسان مقدار ناپ لی ہے۔
 - **"ڈیٹا سیٹوں کے درمیان موازنے سیدھے سادے ہیں۔"** مصنوعی تعلیمی ڈیٹا کی ساختی جانچ نے پایا کہ **ہر ڈیٹا سیٹ کا اپنی اپنی حد پر تجزیہ کرنا اُس تضاد کو اُلٹ دیتا ہے جو مشترکہ نقطۂ کار پر قائم تھا**۔ موازنے کی سمت کا انحصار ایک تجزیاتی انتخاب پر تھا، اور یہی وہ نزاکت ہے جسے پیشگی اندراج شدہ نقطۂ کار روکنے کے لیے موجود ہے۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## منسلک مضامین
-
-- [[access-not-enough-ai-tutoring-2026]] — انسانی معاونت کے ساتھ AI ٹیوٹرنگ کا تصادفی میدانی مطالعہ
-- [[genai-can-harm-teaching-rct-2026]] — جنریٹو AI تدریس کو نقصان پہنچا سکتا ہے: ایک RCT
-- [[acceptance-ai-english-tools-2026]] — AI کی معاونت والے انگریزی سیکھنے کے اوزاروں کی قبولیت
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI اپنانے کے راستے (PLS-SEM، fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — خود ارادی نظریے کے ذریعے اساتذہ کی AI خواندگی
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT سے تصدیق شدہ GenAI خواندگی کا امتحان
-- [[ai-lms-middle-school-longitudinal]] — AI سے یکجا LMS کا ایک طولانی مطالعہ
-- [[adaptive-pretesting-retention]] — موافقت پذیر پیشگی جانچ اور یادداشت
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے میٹرکس کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ایک ساختی جانچ
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — گروہی تصادفی رسائی کے تجربے کو اپٹیک کی جانچ درکار ہے
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — کتابیات پیمائی ایک اور مقداری خاندان ہے: Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — نرسنگ طلبہ میں جنریٹو مصنوعی ذہانت کا استعمال اور باہمی تعلیمی تعامل: خود ضابطہ سیکھائی بطور شماریاتی وسطی
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — ڈیزائن طلبہ میں AI تکنیکی خلل کی آگاہی، ڈیزائن سوچ کی ذہنیت اور ڈیزائن جدت کی قابلیت

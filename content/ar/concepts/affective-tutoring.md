@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -113,24 +115,3 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - أبلِغوا عن خط الأساس الذي يُقاس عليه معدل فوزكم، وصرّحوا بأنه حكم مقارن. ثم قيسوا ما يحتاجه المجال فعلًا: الانتقال إلى سياقات غير تكيفية، والاحتفاظ بعد سحب الدرس الخاص، وهل تصمد المكاسب حين تُغلق القناة الانفعالية.
 - صادِقوا ملامح الوجدان مقابل حكم الخبراء قبل استخدامها متغيّرات مستقلة.
-
-## المفاهيم المرتبطة
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## المقالات المرتبطة
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — الناس يُفرغون التعاطف حين يظنون أن الذكاء الاصطناعي يستطيع تقديمه بدلًا منهم (Shastry وGray 2026)

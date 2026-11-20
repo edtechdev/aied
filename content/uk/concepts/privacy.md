@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -90,38 +92,3 @@ ai_assist:
 - **«Література про прокторинг встановлює етику прокторингу.»** Огляд **80 досліджень** виявив, що **35% не розкрили свій набір даних, 40% оцінювали одну модель, 30% не могли бути відтворені, і лише 25%** відповідали планці звітування. База доказів тонка саме щодо питань, на які установі потрібна відповідь до розгортання.
 - **«Приватність — це галочка відповідності, а не обмеження проєктування.»** Майже кожен інструмент ШІ, який персоналізує, прогнозує чи оцінює, залежить від даних здобувача, що робить мінімізацію даних рішенням проєктування. Інструмент, який потребує цих даних, не має опційного налаштування приватності; він має залежність від даних, яку обрала його конструкція.
 - **Обізнаність із практиками даних не випливає з їх спостереження.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] виявив, що **66% із 47 учнів 7 класу** обирали найменш захисний варіант щодо [[conversational-ai|чатботів]], які читають їхнє письмо, а **47%** відкидали алгоритмічний вплив як «просто розвагу» — виміряно **через місяць** після уроку, на якому клас бачив власну залоговану поведінку, спроєктовану наживо, реагував, що це «моторошно», і кілька учнів залишилися через перерву, щоб далі користуватися платформою. Інструкція про приватність, яка робить механізм видимим, не роблячи ціну конкретною, залишає позицію незмінною. Автор зазначає, що низькі бали тут можуть бути **надійнішими за високі**, оскільки для цих пунктів не існує соціально очікуваної відповіді, тоді як відповідальність і управління запрошують правильно звучачу реакцію.
-
-## Пов’язані поняття
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — записи студентів, обмін даними між підрозділами та федеративне моделювання ризику
-
-## Пов’язані статті
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Пенні за ваші підказки: контекстуальні витоки в платформах ШІ-чату (Bekos et al. 2026)
-
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Федеративна та пояснювана аналітика навчання для моделювання академічного ризику зі збереженням приватності (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Від аналітики навчання до освітніх інтервенцій: чинники надійних інтервенцій на основі аналітики навчання (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Агентний борг за грамотністю: структурний розрив у ШІ-грамотності від автономних агентів (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: анонімізація та згода для автентичних навчальних даних
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Федеративна когнітивна діагностика на базі LLM зі збереженням приватності
-- [[agarwal-ethical-values-norms-aied-2026]] — Етичні цінності та норми для ШІ в освіті
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Що фіксують системи прокторингу і чому відсутня література про приватність у базі доказів
-- [[edtech-privacy-deferral-2026]] — \"We'll Fix It Later\": Education, AI, and the Deferral of Student Privacy in EdTech

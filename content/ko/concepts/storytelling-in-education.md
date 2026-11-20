@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -49,7 +51,6 @@ ai_assist:
 
 - **이야기는 평가의 틀이지, 단지 산출물의 목적지가 아닙니다.** 터키의 한 유치원에서 22명의 어린이가 모든 이미지 프롬프트를 작성하는 교사와 함께 그림책을 만들었습니다. 생성된 이미지에 대한 그들의 판단은 이야기 적합성에 관한 것이었습니다. 네 후보 중 어느 것을 반이 남길지, "조종사 같은" 추가 사물이 어울리는지, 요청한 꽃이 빠져서 그 이미지가 못생겼는지 — 그리고 "안경을 쓴 나비는 있을 수 없어" 같은 개연성 판단과 나란히 놓였습니다([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]]). 스토리텔링은 반이 산출물을 특징별로 점검할 이유를 주었으며, 그것이 도구에 대한 그들의 추론을 비로소 가시화한 것입니다.
 
-
 스토리텔링은 [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], 그리고 [[educational-robotics]]와 연결됩니다.
 
 ## 흔한 오해
@@ -61,22 +62,3 @@ ai_assist:
 **"AI 생성은 글을 쓸 수 없던 학생에게 스토리텔링을 열어 준다."** 그것이 열어 주는 것은 *글로 된 결과물을 산출하는 일*이며, 이는 또 다른 이점입니다. 구술, 그림, 받아쓰기는 같은 목표에 이르는 확립된 경로이고, 생성이 없애 버리는 저자성을 그 경로들은 보존합니다.
 
 **"이야기의 교육적 가치는 다듬어진 결과물에 있다."** 그것은 구성, 즉 이야기꾼이 수행하는 선택과 배열에 있습니다. 학생이 구조화하지 않은 다듬어진 이야기는 학습자의 역량이 아니라 모델의 역량을 입증한 것입니다.
-
-## 연결된 개념
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## 연결된 문서
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — 디지털 스토리텔링 로봇 MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — 교실용 LLM 사회적 로봇 RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub 서사 인간-로봇 상호작용
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 로봇 매개 역할극을 통한 따돌림 예방 REMind
-- [[white-wu-robotics-ai-education-2026]] — 교육에서의 로보틱스와 AI
-- [[ai-generated-interactive-fiction-education-2026]] — AI 생성 상호작용 픽션: 22명 파일럿에서 약한 차원으로서의 일관성
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 이야기 적합성과 개연성이 AI 이미지 판단의 기준이 된 유치원 그림책 만들기 (Konca & Yigit-Gencten, 2026)

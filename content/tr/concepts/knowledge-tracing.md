@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -99,40 +101,3 @@ Bilgi izleme, [[student-modeling]] ile yakından ilişkilidir — bilgi izleme �
 
 - Mimari üstünlüğü iddia etmeden önce sonuçları birden fazla veri kümesi ailesinde bildirin, çünkü OKT karşılaştırması mühendislik LMS verisi ile ASSISTments arasında tersine döner.
 - Yeterlilik sayım kuralını yöntemsel bir dipnot olarak değil, sonucun bir parametresi olarak bildirin.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramlar için şemsiye
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — destek kararlarını besleyen ince ayarlı yeterlilik tahmini
-
-## Bağlı makaleler
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aldatıcı aşırı genelleme: uyarlanabilir yeterlilik, öğrenenler bir eylemi ne zaman geri tutacaklarını bilmeden pratiği durdurabilir (An, McLaren ve Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Dinamik Alanlar için Grafik Temelli Akıllı Özel Ders (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Yakınlık eşlemesi ile çıktı temelli bilgi izleme
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — KC-kalibreli durumlarla anlamsal olarak temellendirilmiş izleme, öneri için bir RL ortamı olarak kullanılır
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan–YZ Ortak Öğrenme Döngüsünde Öğrenenisini Öğrenen Bir Ajan Tabanlı Özel Ders Asistanı
-- [[crediting-assisted-work-inflates-mastery-2026]] — Yeterlilik iddiasını hangi kanıt kuralı belirler (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — Tek geçişli bir LLM, 8 öğrenci üzerinde eğitilmiş derin modelleri, maliyetin bir bölümüyle geçer (Lee ve Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Matematik bilgi izlemede öğrenci geçmişini sıkıştırmak

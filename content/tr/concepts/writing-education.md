@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -144,80 +146,3 @@ Bu yeniden tasarımın en eksiksiz sınıf anlatısı PAIRR uygulamasıdır. [[s
 **"Öğrenciler YZ geri bildirimi sunulduğunda ona göre hareket eder."** Alım seçicidir. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston ve Long (2026)]], bir öneri girişini öğretim üyesinin hazırladığı YZ geri bildirimine göre revize eden iki lisans [[biology-education|biyoloji]] ekibini izledi: 22 yorumun 10'u ele alındı, silmeler eklemelerden fazla oldu ve öğrencilerden tutarlılığı ya da iddia desteğini yargılamalarını isteyen yorumlar tamamen görmezden gelindi.
 
 **"Bir model öğretmenin geri bildirim örüntüsünün yerini tutabilir."** Kanıtlarda bunu başaramamıştır. Bir öğretmenin taslak aşamaları boyunca izlenmesi **beş** geri bildirim odak türünde anlamlı hareket buldu; *Övgü* ilk taslaklardaki **%26,9** düzeyinden son taslaklarda **%84,9**'a yükseldi; oysa en yakın model üç türde hareket etti, en küçüğü hiçbirinde etmedi ve hiçbir model bu örüntüyü yeniden üretmedi. Öğretmen geri bildirimi vurguyu taslak aşamasına göre yeniden dağıtır; model geri bildirimi dağılımını koruma eğilimindedir. İkincisini eşdeğer saymak yörüngeyi kaybettirir.
-
-## Bağlı kavramlar
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## Bağlı makaleler
-- [[favero-thinking-not-writing-chatbot-2026]] — Yazmak düşünmek değildir: akıl yürütme ile revizyonu birbirine bağlayan YZ sohbet robotları tasarlamak
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — 32 öğrencili bir yarı deney: süreç–tür öğretimi bilgilendirici, çok kipli ve YZ destekli yazmayı yükseltti (Günay ve Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 yazma profesörü YZ ile puanlama üzerine: geri bildirimde yararlar, puanlarda kayma, kurumsal kural yok
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51 çalışmalık kapsam derlemesi: istek metni şeffaflığı boşlukları ve YZ artı öğretmenin neden tek başına her birinden iyi olduğu
-
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Öğretmen adaylarının sınıf YZ politikaları: gerilimler ve iç içelikler
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Geniş Ölçekli Yazma Değerlendirmesinde YZ Destekli Puanlamaya İlişkin İnsan-Döngüsü Bir Çerçeve
-- [[llm-comparative-judgment-writing-screening-2026]] — Evrensel Yazma Taramasında Büyük Dil Modeli Karşılaştırmalı Yargısının Geçerliliği
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Üretici YZ destekli yazmada katmana duyarlı bilişsel yük devretme (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — YZ yazma araçları çabayı azaltsa da yazma becerisini iyileştirebilir (Lira ve ark. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM'ler denemeleri insanlar gibi puanlamaz (Mathew ve ark. 2026)
-- [[pairr-ai-peer-review-2025]] — Akran ve YZ Değerlendirmesi + Yansıtma (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — YZ Okuryazarlığına Posthümanist Bir Yaklaşım
-- [[choi-anchor-aes-prompting-2025]] — Çıpa Temelli Otomatik Deneme Puanlaması
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Otomatik Yazma Değerlendirmesi
-- [[agency-gap-ai-writing]] — YZ Destekli Yazmada Faillik Boşluğu
-- [[ai-writing-support-stage-ownership-2026]] — Planlamadan Revizyona: Farklı Aşamalarda YZ Yazma Desteği
-- [[genai-teacher-feedback-comparison]] — Üretici YZ ile Öğretmen Geri Bildiriminin Karşılaştırılması
-- [[student-rationalization-ai-writing]] — "Sorun Değil, Çünkü...": Öğrenci Rasyonalizasyonunun Vahşi Batısı
-- [[care-full-feedback-genai]] — Özenli Geri Bildirim Yaklaşımları
-- [[self-referential-l2-writing-llm-assessment]] — Öz Yönelimli L2 Yazma Değerlendirmesi
-- [[becerra-aicofe-feedback-2026]] — YZ Akran Geri Bildirim Sistemleri
-- [[repeated-ai-writing-feedback-semester]] — Yinelenen YZ Geri Bildiriminin Öğrenci Değerlendirmesi
-- [[ai-feedback-critical-thinking-writing-2026]] — Eleştirel Düşünmeyi İyileştirmek için YZ Üretilmiş Geri Bildirim Kullanmak
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — İşaretli Pedagojiler: kişiselleştirilmiş otomatik yazma geri bildiriminde dilbilgisel yanlılıklar
-- [[bassett-ai-detectors-education-2026]] — Tura yazarız, yazı siz kaybedersiniz: eğitimde YZ tespit araçları (Bassett ve ark. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Akademik silme: YZ destekli yazma altında karmaşıklığın yok olması
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — İlkokul yazmasında çok kipli YZ bestesi ve eleştirel düşünme (Lu ve ark. 2027)
-- [[student-genai-use-views-writing]] — Öğrencilerin yazma için üretici YZ kullanımı ve görüşleri (Kuznetsov, Sheely ve Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — İlkokul L2 motivasyonu, katılımı ve performansı için üretici YZ destekli bir yazma programı (Lu ve ark. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Öğrenci pazarlama gönderilerinin otomatik puanlanmasında uyum ve hata
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Dışsal zorlamaların hiç doğrudan etkisi olmazken derin revizyonu istek metni okuryazarlığı ve içsel motivasyon yönlendirir (Li ve Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Öğrenci Yazmasındaki LLM Üretilmiş Geri Bildirimde Geri Bildirim Odağı ve Pedagojik Uyumluluğun Değerlendirilmesi
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 8 haftalık yarı deneysel bir tasarımda heterojen L2 iskeleleri olarak öğretmen geri bildirimi ve YZ destekli akran geri bildirimi (Tang ve ark., 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Üretici YZ yazma performansının meta-analizi: büyük havuzlanmış etki, kırılgan büyüklük, pedagoji yerine yöntem (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — YZ yazma özelleştirmesinin sistematik derlemesi ve kuram–tasarım uyumsuzluğu (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Akademik yazma ve dijital eleştirel düşünmede yapılandırılmış insan–YZ işbirliği (Alshehri ve ark. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Aynı taslağın insan ve YZ revizyonları farklı diyalojik duruşlar alır: akran geri bildirimi diyalojik alanı kapatır, YZ revizyonu onu dengeli tutar (Zhao ve Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: YZ çıktısını önceki katılıma bağlamak, zaman veya doğruluk pahasına çıkmadan çabayı yazmaya yeniden dağıttı (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — L2 yazma için ayrı bir boyut olarak çevresel düzenlemeyle (araç yönetimişi) altı boyutlu üretici YZ-ÖDA ölçeği
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — YZ'yi akran geri bildirimiyle eşleştirmek katılımı ve yazma puanlarını yükseltir
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Öğrenciler yüksek riskli uçta insanı ister
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Biyoloji lisans öğrencilerinin bilimsel yazmayı revize etmek için YZ destekli geri bildirimi kullanımı: alım ve engeller (Weston ve Long 2026)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Akademik yazmada üretici YZ'nin sorumlu öğrenci kullanımı: sınırlar, eğitim yaklaşımları ve kanıt boşlukları üzerine bir kapsam derlemesi
-- [[porcaro-ai-grading-benchmark-2026]] — Uzlaşının ötesinde: 22 istemli puanlayıcı, doğru yanıtı bilinen sınamalarla karşılaşır ve çoğu yukarı çekilebilir (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Öğrenen bağlamı, bir LLM puanlayıcının özdeş işe verdiği notları değiştirir (Porcaro 2026, Makale VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — İzlerden ölçülen devretme: 137 bütün görev sorgusu, 15 öğrenci kendi yazdığı sözcük olmadan deneme teslim etti (Jelson ve ark. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI çağı yazma katılımının iki boyutu olarak titizlik ve öğretmen bağlılığı
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 şube, 10 ders, 654 öğrenci: amiral gemisi PAIRR uygulaması ve yalnızca geri bildirim isteyen istemi

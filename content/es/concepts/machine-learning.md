@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -74,34 +76,3 @@ El aprendizaje automático también aparece en la educación como *materia*. En 
 **«La IA generativa ha dejado obsoleto el aprendizaje automático clásico en la educación.»** Hacen trabajos distintos. La predicción de estados de quien aprende, la estimación de la dificultad y la previsión del progreso siguen siendo problemas clásicos de aprendizaje automático, y la literatura sobre trazado de conocimiento y calibración de ítems no se sirve de un modelo de lenguaje. La IA generativa es un subconjunto del aprendizaje automático y no su sustituto.
 
 **«La formación docente debería enseñar al estudiantado sobre los LLM y no sobre el aprendizaje automático.»** Limitar la alfabetización a la capa generativa deja a los profesionales incapaces de interrogar los sistemas predictivos que toman decisiones sobre su estudiantado, que es donde se concentran los errores consecuentes.
-
-## Conceptos conectados
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Artículos conectados
-
-- [[at-risk-students-ml-prediction]] — Clasificación supervisada con aprendizaje automático para identificar al estudiantado en riesgo de abandono
-- [[trace-course-grade-prediction-2026]] — Transformer que predice conjuntamente cursos y calificaciones (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Gemelos digitales del estudiantado impulsados por IA para trayectorias preventivas y alineadas con la carrera
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recurso contrafactual con restricciones semánticas para una intervención accionable
-- [[interactive-online-learning-ai-2025]] — Híbrido DMO-GRU para la predicción en el aprendizaje en línea interactivo
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje adaptativo de la implicación cognitiva en un ITS (BKT frente a DRL)
-- [[pedagogical-safety-rl]] — Marco formal para la seguridad pedagógica en el aprendizaje por refuerzo educativo
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revisión de una década de supervisión automatizada de exámenes con aprendizaje profundo
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Seguimiento del conocimiento basado en resultados con asignación de afinidad
-- [[bird-multimodal-educational-literature-2026]] — Fusión multimodal para clasificar literatura educativa
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimación de la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturalmente consciente impulsado por IA para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios pakistaníes mediante PNL y aprendizaje automático
-- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos

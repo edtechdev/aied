@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -42,10 +43,3 @@ ai_assist:
 ## Σημειώσεις και επιφυλάξεις
 
 Το πλαίσιο και ο ιστότοπος διατίθενται με άδεια **CC BY-NC-SA 4.0**, οπότε η προσαρμογή επιτρέπεται για μη εμπορική χρήση με αναφορά και κοινή χρήση υπό τους ίδιους όρους· ο ιστότοπος παρέχει τη δική του προτεινόμενη αναφορά. Η ευθυγράμμισή του με OECD, NIST, ISO/IEC 42001, την Πράξη ΤΝ της ΕΕ, FERPA και HIPAA είναι σύγκριση του εκδότη και θα πρέπει να διαβάζεται ως τέτοια. Οι συνοδευτικοί ιστότοποι είναι ξεχωριστά έργα, αρκετά από τον ίδιο συγγραφέα, και αξίζει να τα γνωρίζει κανείς ως σύνολο: το [Campus AI Exchange](https://www.campusaiexchange.com/) είναι ο κόμβος, που φιλοξενεί [διαδραστικούς χάρτες](https://www.campusaiexchange.com/ai-policies-guidelines-map) θεσμικών πολιτικών ΤΝ και καθοδήγησης για την αίθουσα, [αυτοαξιολόγηση διακυβέρνησης ΤΝ](https://www.campusaiexchange.com/ai-governance-assessment), χάρτες διακυβέρνησης δεδομένων και θέσεων για την ΤΝ, και μια βιβλιοθήκη πόρων. Γύρω του βρίσκονται το [campusaigovernance.com](https://campusaigovernance.com/) (εννέα τομείς διακυβέρνησης ΤΝ), το [campusairisks.com](https://campusairisks.com/) (το NIST AI Risk Management Framework εφαρμοσμένο σε αυτούς τους τομείς), το [campusaioperations.com](https://campusaioperations.com/), το [campusairegistry.com](https://campusairegistry.com/), ένα [πρότυπο σχεδίου υιοθέτησης ΤΝ](https://unit-ai-adoption-plan.netlify.app/) σε επίπεδο μονάδας και ένα ενημερωτικό σημείωμα για την [πρακτορική ΤΝ για στελέχη](https://campusaiframework.com/sites). Η Στρατηγική Πυξίδα κυκλοφορεί επίσης ως κοινόχρηστο έγγραφο Google, που απαιτεί λογαριασμό Google για να ανοίξει. Μια σύντομη προαιρετική ερώτηση υποδοχής για τον ρόλο και το ίδρυμα εμφανίζεται στην είσοδο· το email είναι προαιρετικό και ολόκληρος ο ιστότοπος διαβάζεται χωρίς αυτό.
-
-## Συνδεδεμένες έννοιες
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

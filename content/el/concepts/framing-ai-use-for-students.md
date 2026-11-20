@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -97,37 +99,3 @@ ai_assist:
 **«Η απαγόρευση ενός εργαλείου αφαιρεί τη συμπεριφορά.»** Τη μετατοπίζει σε εργαλεία που δεν βλέπετε. Οι μαθητές προτιμούν ήδη εργαλεία ιδιωτικής πρόσβασης έναντι εκείνων που παρέχει το ίδρυμα, οπότε μια απαγόρευση σπρώχνει τη χρήση έξω από το μόνο περιβάλλον όπου είναι δυνατή η υποστήριξη, η καταγραφή ή η καθοδήγηση. Το έργο της πλαισίωσης είναι να κάνει την επιτρεπόμενη συμπεριφορά την ελκυστική, όχι να κάνει την απαγορευμένη δυσκολότερα παρατηρήσιμη.
 
 **«Η πλαισίωση είναι πειθώ, άρα είναι περισσότερο ρητορική παρά σχεδιασμός.»** Η πλαισίωση που περιγράφει αυτή η σελίδα συνδυάζεται με σχεδιασμό: προσδοκίες διατυπωμένες καθαρά και επανειλημμένα *ενώ σχεδιάζουμε γύρω από τους μαθητές*. Τα μηνύματα που παραδίδονται αντί να σχεδιάζονται γι' αυτούς είναι η εκδοχή που αποτυγχάνει, επειδή οι μαθητές διαβάζουν τη διαφορά ανάμεσα σε μια διακηρυγμένη δέσμευση και σε μια πραγματική.
-
-## Συνδεδεμένες έννοιες
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Συνδεδεμένα άρθρα
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Συναίνεση 30 ειδικών για τη σειρά: απόκτηση χωρίς γενετική ΤΝ, εμπέδωση με αυτήν, και μετά σκέψη με το δικό σας κεφάλι
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Διαφανές σκεπτικό για κάθε επιτρεπόμενη και μη επιτρεπόμενη χρήση γενετικής ΤΝ, εργασία προς εργασία (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Ενθάρρυνση της κατάλληλης χρήσης γενετικής ΤΝ αντί καταδίκης της ως αναστάτωσης
-- [[student-rationalization-ai-writing]] — Οι «πέντε τόποι» όπου οι μαθητές εκλογικεύουν τη χρήση ΤΝ στην ακαδημαϊκή γραφή
-- [[student-regulatory-awareness-genai]] — Η γνώση των κανόνων δεν αρκεί: κανονιστική ενημέρωση και πραγματική χρήση
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Από το άγχος για την ΤΝ στη στρατηγική ρύθμιση
-- [[chatgpt-inoculation-training-verification-2026]] — Μηνύματα εμβολιασμού και συμπεριφορά επαλήθευσης
-- [[ai-fallibility-warning-help-seeking]] — Η προειδοποίηση για την αναξιοπιστία της ΤΝ αυξάνει την αναζήτηση βοήθειας
-- [[shame-guilt-ai-regulation-computing-education]] — Η ντροπή και η ενοχή ως κοινωνικοί ρυθμιστές της χρήσης ΤΝ
-- [[access-not-enough-ai-tutoring-2026]] — Η ανθρώπινη υποστήριξη βελτιώνει την εμπλοκή με τη διδασκαλία μέσω ΤΝ
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Εμπλοκή με τη γενετική ΤΝ με βάση τη θεωρία του αυτοπροσδιορισμού
-- [[ai-availability-student-motivation]] — Πώς η διαθεσιμότητα της ΤΝ διαμορφώνει τα κίνητρα των μαθητών
-- [[youtube-frames-chatgpt-education]] — Πώς το YouTube πλαισιώνει τη χρήση του ChatGPT στην εκπαίδευση
-- [[ai-ethics-education-public-discourse]] — Ο δημόσιος λόγος για την ηθική της ΤΝ στην εκπαίδευση
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Οι διδάσκοντες πλαισιώνουν την ΤΝ ως κριτική/υπεύθυνη χρήση, οι εργοδότες ως παραγωγικότητα
-- [[ssaho-ai-academic-integrity-review-2025]] — Οικοδόμηση κουλτούρας ακαδημαϊκής ακεραιότητας μέσω σαφών προσδοκιών

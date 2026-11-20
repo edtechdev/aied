@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -107,53 +109,3 @@ Các đòn bẩy giáo dục lại trông khác đi một khi liêm chính đư�
 **"Phát hiện lạm dụng và trừng phạt nó là một chiến lược phòng ngừa."** Việc phòng ngừa phải bao gồm cả chính bộ chấm. Đánh giá red team của [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] phát hiện hai trong năm chiến lược chèn prompt gián tiếp nhúng trong một tệp bài nộp đã nâng điểm của một bài luận rớt. Một quy trình phát hiện lạm dụng của sinh viên trong khi tin vào nội dung bài nộp chưa được kiểm tra chỉ được phòng thủ ở một phía.
 
 **"Lạm dụng là một vấn đề động lực của sinh viên."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher và Calderon (2025)]] đẩy ràng buộc chi phối lên một cấp, coi quản trị chứ không phải hành vi sinh viên là thứ cần thay đổi, và đề xuất một khuôn khổ 130 chỉ báo liêm chính. Và tổn hại học tập có thể đo được ở quy mô lớn: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei và Wu (2026)]] phát hiện việc thuê ngoài bài tập về nhà nâng điểm bài tập về nhà 18% trong khi *làm giảm* điểm thi đóng sách 20% - một thất bại thiết kế hiện ra đúng ở khoảng cách mà trang này nói tới.
-
-## Khái niệm liên quan
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Bài viết liên quan
-- [[ivory-psychology-assessment-integrity-2026]] — Dấu vết chứng cứ bằng kiểm soát phiên bản và tài liệu phân tích có thể tái lập như những biện pháp ngăn lạm dụng (Ivory và cộng sự 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Việc giữ lại một khuyến nghị phần lớn ngăn được phụ thuộc quá mức mà không xây dựng phán đoán mà nó bảo vệ
-- [[generative-ai-guardrails-harm-learning]] — GenAI không có rào chắn có thể gây hại cho việc học
-- [[genai-performance-vs-learning]] — Phân biệt mức tăng hiệu năng với việc học
-- [[ai-assessment-scale-reform]] — Thang đánh giá AI và cải cách đánh giá
-- [[critical-thinking-genai-scaffolding]] — Giàn giáo tư duy phản biện với AI sinh tạo
-- [[aaai2026-prompting-literacy-k12]] — Học cách dùng AI để học (mô-đun năng lực AI K-12)
-- [[genai-declaration-frameworks-higher-education]] — Cấu trúc hóa sự minh bạch: các khuôn khổ khai báo GenAI
-- [[absent-cognitive-baseline-2026]] — Đường cơ sở nhận thức vắng mặt
-- [[ai-literacy-power-knowledge]] — Năng lực AI: một bài tập về quyền lực-tri thức
-- [[contextual-sycophancy-ai-literacy]] — Chi phí ẩn của sự nịnh bợ theo bối cảnh: một can thiệp năng lực AI
-- [[sycophantic-ai-social-interaction-2026]] — AI nịnh bợ làm cho tương tác giữa người với người trở nên mệt mỏi hơn và kém thỏa mãn hơn theo thời gian
-- [[ssaho-ai-academic-integrity-review-2025]] — Xây dựng văn hóa và thiết kế lại đánh giá thay vì giám sát bằng phát hiện
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Đầu hàng nhận thức, ma sát có ích, và bất công trong siêu nhận thức
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Xem xét lại thi vấn đáp như một đánh giá thực chất, kháng AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Hình phạt học tập của AI sinh tạo: thuê ngoài bài tập về nhà gây hại cho việc học
-- [[ai-overreliance-complex-adaptive-system-2026]] — Phụ thuộc quá mức vào AI được mô hình hóa như một hệ thống thích nghi phức hợp
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Loại bỏ rào chắn giảm tổn hại mà không cải thiện điểm thi
-- [[munoz-misconduct-allegation-evidence-2026]] — Các hồ sơ cáo buộc vi phạm thực sự chứa gì làm chứng cứ
-- [[wright-transcription-not-generation-2026]] — Các quy tắc AI bao trùm quá mức và những sinh viên mà chúng bắt được
-- [[sharma-judgment-visible-genai-assessment-2026]] — Liêm chính như phán xét đánh giá thay vì tuân thủ
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Sinh viên nói về việc GenAI là công cụ gian lận hay đối tác học tập
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Điều mà giám sát thi từ xa làm với sinh viên, và với công bằng
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Phòng ngừa tội phạm theo tình huống chống gian lận có AI hỗ trợ: từ 183 xuống 27 vụ, và năm thiết kế lại đặc thù ngành học (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Điều mà 38 nghiên cứu về tiếng nói sinh viên khuyến nghị: sự rõ ràng được đồng kiến tạo và lập luận mang tính giáo dục thay vì phát hiện (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Nơi hỗ trợ ngôn ngữ kết thúc và sự thay thế bắt đầu đối với người viết EAL (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection như một con đường lạm dụng nhắm vào việc chấm điểm bằng AI (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Quản trị như ràng buộc chi phối của liêm chính: một khuôn khổ 130 chỉ báo (Coates, Croucher & Calderon 2025)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Sử dụng AI sinh tạo có trách nhiệm của sinh viên trong viết học thuật: tổng quan phạm vi về ranh giới, cách tiếp cận giáo dục và các khoảng trống bằng chứng
-- [[guo-overreliance-genai-feedback-2026]] — Tải nhận thức đi qua giảm tải tới phụ thuộc quá mức, với việc giám sát làm thay đổi tuyến đường

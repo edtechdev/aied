@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -71,7 +73,6 @@ Los métodos de redes se usan en toda la base de evidencia para responder pregun
 3. **Validar la codificación automatizada.** Con grandes conjuntos de registros, la clasificación basada en [[llm|LLM]] es potente, pero debe contrastarse con la codificación humana (informar del acuerdo entre evaluadores) antes de interpretar la estructura de la red.
 4. **Diseñar para la diferenciación.** El análisis de redes revela a menudo que la *misma* herramienta de IA produce patrones de interacción distintos entre subgrupos de estudiantes, lo que informa un diseño adaptativo en lugar de una evaluación uniforme.
 
-
 ## Validación con ENA del diálogo colaborativo simulado
 
 - **El ENA como validación del diálogo simulado.** Fang (2026) aplica el Análisis de Redes Epistémicas para evaluar si agentes LLM ajustados reproducen la estructura del diálogo real de [[problem-solving]] colaborativa. Al comparar los vectores de adyacencia simulados con la red empírica, reporta una distancia ENA de 0,17 —dentro del umbral del percentil 95 de la distribución nula, con un valor p de permutación de 0,65—, lo que demuestra el poder del ENA como comprobación [[quantitative-research|cuantitativa]] de la fidelidad de las [[simulation|simulaciones]] generativas del discurso, junto a otras aplicaciones del ENA, el SNA y el TNA en la investigación educativa.
@@ -81,28 +82,3 @@ Los métodos de redes se usan en toda la base de evidencia para responder pregun
 - **«El análisis de redes es objetivo porque es computacional.»** **La codificación es el fundamento**: todas las variantes de red dependen de codificar de forma fiable datos brutos (enunciados, eventos, relaciones) en nodos discretos, y la codificación automatizada hereda sus definiciones de quien las estableció. La [[visualization|visualización]] parece una estructura emergente y sus nodos son decisiones interpretativas.
 - **«Un cambio en la estructura de la red es automáticamente una ganancia de aprendizaje en sí mismo.»** En una discusión de caso con **veinte estudiantes de posgrado de disciplinas mixtas**, **la proporción de términos compartidos de tamaño 3 subió del 5,2% al 8,0%** mientras **los tokens de contenido cayeron a aproximadamente 0,65× su tasa posterior**. Dos medidas estructurales se movieron en direcciones opuestas, así que «la red cambió» no es un hallazgo hasta que se dice en qué medida y por qué importa.
 - **«Compartir más términos significa mejor colaboración.»** Una proporción creciente de términos compartidos junto con una diversidad decreciente de tokens de contenido es compatible con una convergencia hacia un vocabulario más pequeño. El consenso y el estrechamiento son estructuralmente similares, y por eso la medida necesita el contenido con el que se calculó.
-
-## Conceptos conectados
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Artículos conectados
-
-- [[caeai-response-length-ai-ethics-education-2026]] — La longitud de la respuesta, y no la alineación léxica, determina las estadísticas de términos compartidos en las redes participante–morfema (Shao et al. 2026)
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA de las interacciones entre estudiantado y chatbot en la escritura en inglés con andamiaje
-- [[tracing-genai-literacy-interaction-patterns]] — ENA de los patrones de interacción de la alfabetización en IA generativa
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA de la resolución colaborativa de problemas entre humanos y IA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Descarga cognitiva y prompting (métodos de SNA y de redes)
-- [[youtube-frames-chatgpt-education]] — ENA de los encuadres de YouTube sobre ChatGPT en educación
-- [[agency-gap-ai-writing]] — La brecha de agencia en la escritura apoyada por IA (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
-- [[dang-human-ai-collaboration-competency-2026]] — El ENA también cartografía el discurso del profesorado sobre competencias

@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -52,11 +53,3 @@ Veiledningen er ærlig om sin egen status. Forfatterne kaller oppføringene hypo
 To flere grenser betyr noe for undervisning. Anbefalingene er designpåminnelser, ikke testede intervensjoner; ingenting på nettstedet rapporterer et utfall. Og aldersbåndsstrukturen legger et grovt rutenett på en utvikling som varierer innenfor båndene, på tvers av kulturer og på tvers av kontekster, noe veiledningen selv innrømmer.
 
 Den innrammingen som er verdt å ta med i praksis, er nettstedets egen: hold løkken menneskelig og finn deretter ut hvor AI passer inni den, i stedet for å sette et menneskelig kontrollpunkt inni en løkke som tilhører maskinen – samme bekymring som korpuset registrerer som [[cognitive-offloading|avlastningsrisiko]] når et verktøy overtar den delen av oppgaven som gjorde utviklingsarbeidet.
-
-## Tilknyttede begreper
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

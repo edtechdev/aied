@@ -29,7 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -112,48 +113,3 @@ Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcour
 - **« Plus d'exemples est toujours plus sûr. »** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] traitent le rapport exemples–problèmes comme une **interaction contenu–traitement**, et dans une expérimentation 2×2 l'optimum **dépendait du contenu**. Il n'y a pas de rapport correct universel : un modèle pédagogique fixe est donc un pari contre une interaction.
 - **« Corriger l'[[misconceptions|idée fausse]] consiste à énoncer la bonne réponse. »** Une courte pratique « ne pas agir » avec une [[feedback|rétroaction]] nommant la contrainte manquante a ramené la mauvaise application à **0,0 %-23,1 % (h de Cohen 1,70-2,44)**, et une analyse secondaire de **treize jeux de données *Decimal Point* du primaire et du secondaire** a trouvé le même schéma structurel. L'intervention efficace était une pratique discriminante avec rétroaction ciblée, et non une correction par affirmation — ce que les travaux sur le [[refutation-text|texte de réfutation]] établissent de façon générale.
 - **« Un niveau de Bloom plus élevé signifie plus d'[[active-learning|apprentissage actif]]. »** L'Acquisition dominait les niveaux inférieurs — **environ 50 % des activités au niveau 1 de Bloom** — avant de se réduire **à environ 20 % au niveau 6**. L'exigence cognitive et le type d'activité évoluent ensemble mais ne sont pas le même axe : étiqueter une tâche par son niveau de Bloom ne dit donc pas ce que les apprenants en feront.
-
-## Concepts liés
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Articles liés
-
-- [[competent-generative-ai-use-measures-review-2026]] — Revue et méta-analyse exploratoire des instruments de mesure de l'usage compétent de l'IA générative (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — L'exactitude masquant une règle incomplète : les règles d'arrêt par maîtrise dans l'apprentissage adaptatif (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Audit contrefactuel des signaux démographiques dans l'évaluation des étudiants par LLM (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Chaînes de Markov et exploration de patrons sur 29,064 activités réparties sur 554 cours (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Un auto-contrôle préservant la vie privée et non diagnostique du délestage associé à l'IA (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance : l'IA à usage général dans l'action publique, lue à travers la base de code de Redbox (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Pourquoi le meilleur rapport exemples–problèmes dépend du contenu (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Les enseignants conçoivent des chatbots experts bornés, avec délégation sélective de l'enseignement (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK et IA générative chez les enseignants : solides connaissances du contenu, faibles connaissances intégrant la technologie (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot : un essai randomisé de tutorat en direct humain–IA à l'échelle (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un Delphi préenregistré de 30 experts sur les processus d'apprentissage que l'IA générative renforce et ceux qu'elle menace
-- [[three-pathways-student-ai-interaction-2026]] — Une typologie de l'interaction étudiant-IA : 64% passive ou transactionnelle, 36% de dialogue stratégique
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Le style de rétroaction, et non le type d'agent, a modifié l'engagement autorégulateur
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Les preuves de processus dépendent du canal
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — La distribution des usages de l'IA générative est un choix institutionnel
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Le recours intra-individuel précède une baisse de l'agentivité perçue
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — L'analyse séquentielle de lag et la fouille de processus placent l'IA au centre d'un réseau d'interaction de groupe ou sur un chemin linéaire selon la composition des préconceptions (Wang et al. 2026)

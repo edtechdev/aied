@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -73,36 +75,3 @@ AI inayozalisha imefanya maarifa ya awali kuwa kigezo cha kubuni cha kati badala
 **"Wanafunzi wenye maarifa ya awali kidogo wanahitaji msaada zaidi wa AI."** Hiyo ni mwelekeo unaoweza kupanua pengo zaidi, kwa kuwa mtindo uliopimwa wa upunguzaji wa mzigo unakusanya upotevu wa uandishi pale maarifa ya awali yalipo dhaifu zaidi. Msaada unaompa kazi mwanafunzi asiye na vifaa vya kutosha vya kutambua uingizwaji unaondoa shughuli ambayo ingejenga maarifa yanayokosekana.
 
 **"Maarifa ya awali ni kiingilio kisichobadilika ambacho kozi haiwezi kukisogeza."** Ni kigezo chenye uzito mkubwa zaidi katika kujifunza kipya, jambo linaloufanya ujenzi wake kuwa kazi yenye kujiinua zaidi badala ya hali ya usuli: sababu ambayo maarifa ya nyanja ni uingiliaji wenyewe, na si kigezo cha pamoja tu.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: mnara kwa dhana za upande wa mwanafunzi
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — jinsi kile mwanafunzi tayari anachokijua huamua mazoezi ya kukumbuka yanaweza kufanya nini
-
-## Makala Zilizounganishwa
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Msongo wa mawazo kati ya otomatiki na kujifunza (hatari ya uwashi wa maarifa ya awali)
-- [[genai-mindtool-generative-learning]] — GenAI kama zana ya akili: uanzishaji na uwashi wa maarifa ya awali
-- [[nie-personavlm-long-term-personalization-2026]] — Uundaji wa mifano ya wanafunzi na kumbukumbu ya LLM
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble juu ya kupunguza mzigo wa kiakili
-- [[cognitive-offloading-llm-synthesis-writing]] — Kupunguza mzigo wa kiakili katika uandishi wa muundo wa LLM
-- [[bridging-instructional-design-framework-math]] — Mfumo wa ubunifu wa mafunzo kwa hisabati
-- [[knowledge-building-tutor-learning-2026]] — kujenga maarifa badala ya maarifa ya awali hutabiri kujifunza kwa kufundisha, na waelimishaji wenye maarifa madogo ya awali ambao hujenga maarifa wanapata
-- [[rachatasumrit-example-problem-ratio-2026]]
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Maarifa ya awali yalibeba mtihani wa baadaye (η²p = .63) wakati uteuzi wa kazi unaobadilika haukuchangia chochote (Sibley et al. 2026)
-

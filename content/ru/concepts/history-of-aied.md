@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -49,7 +51,6 @@ ai_assist:
 **Две формы персонализации.** [[personalized-learning|Персонализация]] имеет два различных толкования, которые отображаются на эти видения. Первое сохраняет единообразные результаты, варьируя путь (укоренено в обучающих машинах Скиннера; видение Khan Academy как репетиторства на пути к мастерству). Второе принимает разнообразные результаты — учащихся, следующих индивидуальным интересам и талантам, не связанных границами стандартной [[curriculum-design|учебной программы]] (Чжао, 2024). Модель ITS поддерживает первое; конструктивизм — второе.
 
 **Уроки для эпохи GenAI.** Сегодняшние дискуссии о генеративном ИИ тесно зеркалят эти исторические противоречия. GenAI часто позиционируется как интеллектуальный тьютор следующего поколения (развивая линию Андерсона), вызывая озабоченности по поводу наблюдения, сбора данных и стандартизации. Альтернативно он может быть инструментом для творческой агентности (развивая линию Пейперта), требуя от нас переосмыслить оценивание и принять более неоднозначные результаты. Как заключают [[mishra-control-vs-agency-history-2025|Мишра и др.]], институциональные силы неоднократно отдают предпочтение подходам, укрепляющие существующие структуры, — и язык и метафоры, которые мы выбираем, будут формировать будущие возможности. [[rismanchian-ai-education-four-decades-aixed-2026|Рамка AI×Ed Рисманджиан и Доруди]] даёт этой интуиции эмпирическое основание: располагая статьи из трудов AIED (1985, 1993, 2021, 2024) и IJAIED (2004, 2014, 2021) по двум осям — роли ИИ (прикладной инструмент против аналогии человеческому интеллекту) и конечному пользователю, — они прослеживают поле, которое переместилось от разнообразного набора, включая значительный объём ранних исследований с использованием ИИ как аналогии человеческому интеллекту (вычислительные модели обучения, микромиры Пейперта, агентные модели приобретения знаний), к почти исключительному фокусу на прикладных, инструментальных применениях к 2000-м годам. Примечательно, что эпоха генеративного ИИ, по-видимому, частично обращает эту траекторию вспять: на AIED 2024 три из четырёх статей в квадранте «ИИ-как-аналогия» были основаны на LLM, включая работу с наградой за лучшую статью об обучаемых агентах на базе LLM.
-
 
 **Журнальная летопись поворачивает дважды.** Структурная тематическая модель 5 387 статей *Computers & Education* (1976–2026) обнаружила ИИ в 390 записях (7,2%), в 17 из 18 её тем. Годовые шансы, что статья связана с ИИ, росли на 21,8% в год до 1989 года, падали на 3,7% ежегодно до 2018 года, а затем росли на 40,1% в год до 2025 года ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). Поворот 2018 года на четыре года предшествует ChatGPT, так что генеративная эпоха ускорила уже начавшуюся тенденцию, а не запустила новую.
 
@@ -101,30 +102,3 @@ ai_assist:
 
 - Используйте исторические корпуса как базовую линию, а не рассматривайте настоящее как единственно доступное сравнение. Труды AIED 1985, 1993, 2021 и 2024 годов и IJAIED 2004, 2014 и 2021 годов — готовая лонгитюдная выборка собственных утверждений области.
 - Ссылайтесь на преемственность, когда заявляете о новизне. Утверждение, что система «персонализирует обучение» или «моделирует учащегося», ново лишь относительно конкретной предшествующей традиции, и эта традиция документирована.
-
-## Связанные понятия
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Связанные статьи
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Пятьдесят лет тем *Computers & Education*: распространённость ИИ пошла вверх после 2018 года, за четыре года до ChatGPT

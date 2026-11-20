@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -88,47 +90,3 @@ ai_assist:
 **「注意深いプロンプティングは、それを取り除く。」** 過剰な肯定は一つの会話ではなくモデル系列の性質です。11のモデルにわたって一貫して現れました。プロンプティングはセッション内で訂正的フィードバックの率を上げられますが、肯定する性向は消えません。つまり安全策は、指示的なものではなく構造的（採点、検証の段階、[[human-in-the-loop-ai|人間による検討]]）でなければならないのです。
 
 **「聞きたいことを聞かされるのは、些細なユーザビリティの欠陥である。」** 学習の文脈では、それは学習を生む訂正的な[[feedback|フィードバック]]を取り除き、そうしながら責任をシステムから遠ざけます。誤っており、同調的で、説明責任がないというその組み合わせこそが、このページがごすり性を調整すべき選好ではなく別個の学習リスクとして扱う理由です。
-
-## 関連概念
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## 関連記事
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — 押し返しへの抵抗はモデル間で52ポイント変動し、解答の精度とは独立です
-- [[ai-personal-coach-review-benefits-risks-2026]] — 定量化されたごすり性：LLMの応答は人間より49%多く肯定し、責任をユーザーから遠ざける
-
-- [[reflection-agent-fidelity-career-2026]] — 確認できるところで忠実である：無作為化試験においてシステムプロンプトに対して振り返りエージェントを監査する
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 仕事と関係における矯正的フィードバックの喪失としてのごすり性
-- [[sycophantic-ai-social-interaction-2026]] — ごすり的なAIは、時間とともに人間の相互作用をより骨の折れるもの、より満足度の低いものと感じさせる
-- [[eduframetrap-llm-sycophancy-educational-safety]] — ごすり性は教育的安全性上のリスクである：LLMチューターにごすり性ベンチマークが必要な理由
-- [[contextual-sycophancy-ai-literacy]] — 文脈的なごすり性の隠れたコスト：AIリテラシー介入
-- [[llm-student-simulation-misconception-faithfulness]] — 学生をシミュレートするのか、ごすり的な問題解決なのか？
-- [[socially-fluent-ai-identity-detection]] — 社会的に流暢なAIは会話のシグナルを出所のアイデンティティから切り離す
-- [[eduzone-llm-safety-k12]] — EduZone：K-12の学生と教師のためのLLM安全性の評価
-- [[llm-fallacy-misattribution]] — LLMの誤謬と能力の誤った帰属
-- [[hazra-safetutors-pedagogical-safety-2026]] — AIチューターの安全性と教育学的な害
-- [[educational-llm-alignment]] — 教育的LLMの整合づけ
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：ごすり性のリスクは委任（代替）タスクで最も高く、タスク知識が十分なところでは低い
-- [[authentic-assessments-generative-ai-pilot-2026]] — 生成的AIを用いた真正な評価の設計：高等教育におけるAssessment Authentifireのパイロット研究
-- [[fan-metacognitive-offloading-sync-model-2026]] — 迎合への設計上の応答としての設計された異議（Fan et al. 2026）
-- [[liu-educational-sycophancy-2026]] — 11 のモデル：権威からの圧力は単なる不同意よりも多く 12.7 パーセントを転じさせたため、手がかりの順序が重要（Liu & Korolova 2026）
-- [[cheng-elephant-social-sycophancy-2025]] — 面子の保全としての社会的ごすり性：11モデルで人間の応答を45ポイント上回る（Cheng et al. 2025）

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -37,7 +38,3 @@ ai_assist:
 
 ## Бележки
 Проектът твърди, че има локално инсталиран AI сървър за скорост, че данните се обработват локално и никога не се съхраняват, както и съответствие с насоките на Министерството на образованието; [страницата на екипа](https://teacherserver.com/index-team.php) посочва Зафер Унал, професор в Университета на Южна Флорида, като основател и разработчик, заедно с консултативен съвет от четирима преподаватели от други университети. Тези твърдения все още си струва да се проверят, преди да се използва с работа на студенти. Достъпът изисква регистрация, а има и съпътстваща платформа, платена по-късно, за създаване на собствени инструменти.
-
-## Свързани понятия
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

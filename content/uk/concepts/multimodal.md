@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -68,7 +70,6 @@ ai_assist:
 - **Стеля низька на автентичних для навчальної програми фігуро-залежних математичних задачах — і відмова є каліброваною стратегією.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] оцінили шість мультимодальних моделей на 376 пунктах [[math-education|середньої школи]], де зображення є обов’язковим і фігури несуть критичні для завдання обмеження.
 З зображеннями моделі міркування o4-mini розв’язали 57,7% пунктів, а o3 — 52,4%, проти 34,0–42,6% для родини без міркування; коли фігуру приховували, моделі відмовлялися, а не вгадували, у 95,4–98,9% прогонів — патерн утримання, який тьютор може трактувати як сигнал відсутнього контексту, а не як помилку здобувача.
 
-
 Практичним наслідком для проєктування є **контрольний пункт візуального заземлення** в мультимодальному тьюторстві: свідомий крок, на якому система описує те, що вона бачить, перш ніж намагатись розв’язати задачу, даючи студенту або людському наглядачеві можливість виправити перцептивні помилки.([[syal-multimodal-dialogue-stem-2026]])
 
 [[ai-assisted-physics-lab-report-assessment-2026|Abreu та співавт. (2026)]] додають попереднє обмеження: рівняння, графік або одиниця можуть з’являтися у звіті, але ніколи не бути отриманими з обробленого документа, тому розбіжність із викладачем може бути невдачею видобування, а не міркування — що робить формат подання частиною проєктування оцінювання.
@@ -87,9 +88,7 @@ ai_assist:
 - **Мультимодальне оцінювання може відтворити результат відбору навіть там, де оцінювання на рівні пунктів відстає.** Оцінюючи 10 364 рукописні сторінки олімпіади та університетських робіт, LLM збіглась із сумами екзаменаторів на r = 0,93–0,96 і помістила тих самих п’ятьох студентів до олімпійської команди, проте згода за частинами сягала 70%: свідчення другого читача, а не оцінювача протоколу ([[ai-grading-handwritten-physics-2026|Pathak та співавт., 2026]]).
 - **Генерація діаграм є межею можливостей, а не розв’язаною задачею.** На бенчмарку з 15 246 фізичних задач, який оцінює мультимодальний вивід, синтез або редагування структурованих фізичних діаграм виявилось важчим, ніж відповіді, і провідні моделі залишались нижче 70% строгого оволодіння — свідчення, що візуальна *продукція* відстає від візуального *розуміння* ([[omniphys-multimodal-physics-benchmark-2026|Chen та співавт., 2026]]).
 
-
 Мультимодальність має другий сенс: злиття сигналів із тіла здобувача, а не з контенту, де айтрекінг, ЕЕГ, електродермальна активність, варіабельність серцевого ритму та поза з камери живлять оцінки уваги, залученості й когнітивного навантаження. Ця сенсорна лінія живе на сторінці [[sensor-and-gaze-analytics]], і її проблеми валідності та згоди не є тими, які ставить мультимодальний контент.
-
 
 ## Мультимодальний ШІ для мовного та доступного навчання
 
@@ -105,7 +104,6 @@ ai_assist:
 6. **Узгоджуйте конвеєр із контентом.** Мультимодальний LLM асистента лабораторії з кібербезпеки краще опрацьовував щільні візуальні слайди, тоді як конвеєр OCR плюс LLM давав порівнянну навчальну цінність на текстовоцентричних слайдах за значно нижчих обчислювальних витрат.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel та співавт. (2025)]])
 7. **Збирати кілька потоків — не те саме, що інтегрувати їх.** Огляд 23 досліджень ШІ для [[embodied-learning]] розсортував мультимодальну роботу на три рівні — потоки, зібрані паралельно; потоки, вирівняні на спільній часовій шкалі; потоки, злиті в одній моделі, що оцінює стан здобувача — і розмістив більшість досліджень на першому, поєднуючи зображення з текстом або рух із текстом, так і не з’єднавши їх. Одне дослідження вирівняло лицевий афект, погляд і виявлення облич після факту; найближчий до злиття підхід моделював спільні стани з сигналів браслета й скелета марковським процесом і працював після сесії, а не інформуючи зворотний зв’язок, який отримували здобувачі. Жодна оглянута система не зливала свої входи під час використання ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
 
-
 ## Поширені хибні уявлення
 
 **«Мультимодальна модель справляється з мультимодальними задачами.»** Точність різко падає, коли сенс несе малюнок, а не текст. Репетитор із [[physics-education|фізики]] відповідає на текстові задачі у **96%** випадків, але опускається приблизно до **74%** на задачах, що вбудовують сенс у діаграми, — **Ефект мультимодальної інтерференції**. Двадцять два пункти можливості зникають саме там, де живе дисциплінарний зміст.
@@ -115,63 +113,3 @@ ai_assist:
 **«Мультимодальна здатність — це єдина драбина, тож найкраща модель загалом найкраща й для задачі, насиченої зображеннями.»** Здатність специфічна для завдання, і модель, що лідирує в загальних [[benchmark|бенчмарках]], може відставати на діаграмах сил. Для дисциплін, насичених зображеннями, релевантним тестом є той, де сенс вбудований у малюнок.
 
 **«Обмеження текстового тьюторства — це прикрість, а не проблема [[curriculum-design|навчальної програми]].»** У дисциплінах, де діаграма *є* задачею — фізика, хімія, геометрія, інженерія, медицина, — межа компетентності текстового тьютора проходить крізь оцінюваний зміст, а не по його краях.
-
-## Пов’язані поняття
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Збірне: технології та методи ШІ (моделі, навчання LLM, робототехніка, RAG, агенти)
-- [[virtual-and-augmented-reality]] — жест, голос і просторовий ввід як канали навчання
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Пов’язані статті
-- [[elkington-human-centred-assessment-value-2026]] — Оцінювання, орієнтоване на людину: ансамблі та генеративні обмеження (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Відеокомпонування оголошень громадської служі на тему етики ШІ як педагогіка критичної ШІ-грамотності (Burriss та співавт. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — Продуктивність VLM на рукописних математичних роботах студентів (DrawEduMath, Lucy та співавт. 2026)
-- [[multimodal-learning-genai]] — Посібник для освітян щодо мультимодального навчання з генеративним ШІ (модель MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — Ефект мультимодальної інтерференції та відновлення за допомогою структурованого діалогу в STEM
-- [[multimodal-ai-feedback-learning]] — Мультимодальний зворотний зв’язок зі ШІ збігається з освітянами за навчанням, перевершує за сприйняттям
-- [[multimodal-prompting-ai-literacy]] — Мультимодальні підказки студентів як епістемічна робота в ШІ-грамотності
-- [[multimodal-item-parameter-estimation-2026]] — Оцінювання параметрів пунктів IRT за допомогою мультимодальних LLM
-- [[ai-guided-learning-audiovideo-2026]] — Підтримка навчання на аудіо-відео з наведенням ШІ
-- [[multimodal-knowledge-graph-educational-reasoning]] — Мультимодальні графи знань для освітнього міркування
-- [[mllm-scientific-visualization-literacy]] — Мультимодальна грамотність LLM для наукової візуалізації
-- [[multimodal-affective-its-presentation]] — Мультимодальні сигнали в афективному інтелектуальному тьюторстві
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Афективне мультимодальне тьюторство математики
-- [[llm-cognitive-diagnosis-handwritten-math]] — Когнітивна діагностика рукописної математики за допомогою LLM
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Навчання «текст-у-зображення» в освіті з ядерної інженерії
-- [[privacy-aware-classroom-incident-recognition-2026]] — Приватничо-обізнане мультимодальне відстеження в аудиторії
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Мультимодальна інструкція з OCR в освіті з кібербезпеки
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: бенчмаркінг мультимодальних LLM для аудиту слайдів
-- [[ai-grading-handwritten-physics-2026]] — Оцінювання рукописних фізичних робіт за допомогою ШІ (олімпіада)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Мультимодальне компонування зі ШІ та критичне мислення в письмі початкової школи (Lu та співавт. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 завдань над 1 174 художніми творами показують можливості VLM як вимірно-специфічний профіль, найслабші в афективній інтерпретації та просторовому міркуванні, залежному від точки зору (Zhu та співавт. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-
-- [[kim-ai-embodied-learning-review-2026]] — ШІ в тілесному навчанні переважно спостерігає: сенсорні ролі — 62,5% закодованих тегів ролей, і жодна оглянута система не поєднувала мультимодальні потоки під час роботи здобувача (Kim & Han 2026)
-

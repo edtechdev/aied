@@ -10,6 +10,8 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 reviewed_by: [editor]
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 > **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: [[generative-ai|generative AI]] can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).
@@ -41,12 +43,9 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Perceived exemplar source, not content, shapes group ideation.** Identical ChatGPT-generated exemplars labeled as human- versus AI-produced changed group creativity in an fNIRS hyperscanning study of 113 dyads: human attribution raised idea uniqueness during stimulation and interbrain synchrony in premotor and supplementary motor regions, AI attribution only increased switching among ideation pathways, and neither effect persisted once the exemplars were withdrawn ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 - **Developmental implementation, not capacity, separates children's AI-assisted creativity.** In the first neuroimaging comparison of children and adults co-creating with ChatGPT, 6–7-year-olds and adults held the same five-minute spoken conversation inside an MRI scanner. Creativity measured outside the scanner did not differ between groups. Yet adults showed significantly stronger within-network connectivity in the frontoparietal control, salience and dorsal attention networks, and higher creativity predicted stronger frontoparietal–salience coupling in adults but not children. The authors read this as a difference in how creative cognition is *implemented* during AI dialog, not in baseline capacity. It also raises a question the scaffolding advice has not had to answer: when does the control machinery AI-assisted creative work recruits actually mature? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 
-
 A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with [[self-report-measures|self-reported]] research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
-
 A national survey complicates that pattern: across 5,764 Chinese university students, AI dependence correlated negatively with self-reported creativity (r = −0.17), with escape and social motivations carrying negative indirect paths and instrumental and entertainment motivations positive ones ([[ai-dependence-creativity-motivation-literacy-2026|Hou et al. (2026)]]).
-
 
 - **Embodiment pays off unevenly.** A physical robot paired with a high-creativity model significantly raised originality over human–human and text-based collaboration, while human and text-based conditions kept the advantage in imagery and voice — an embodiment paradox in which the robot amplified the AI's output without improving style ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
 
@@ -83,42 +82,3 @@ Creativity connects to [[critical-thinking|critical thinking]] and to [[construc
 - **"Disrupting students produces creative gains."** **Friction is not creative gain.** Contrarian AI personas drove challenge-and-reflection discourse in **38.2% of groups** yet produced **no measurable creative-performance improvement**. The discourse changed and the measured outcome did not.
 - **"The K-12 literature establishes that GenAI improves creativity."** A PRISMA-guided scoping review of **45 studies (2017-2025)** shows GenAI mostly **enhances** creativity and **rarely measures** it. The field's dominant finding is an inference from perceived enhancement, which is not an outcome measurement.
 - **"More dependence on GenAI means more creative output."** Among **1,157 Chinese graduate students**, GenAI dependence was **positively associated with self-reported research creativity** — and the association is with **self-report**, which is the weakest available measure of the construct.
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Connected Articles
-
-- [[malkani-paul-ai-steam-visual-storytelling-2026]] — AI visual storytelling moved design students from imitating nature toward user-centered scenarios (Malkani & Paul 2026)
-- [[wei-genai-configurations-creative-phases-2026]] — Generative AI configurations across creative phases: a 2 × 2 experiment on creative performance and immediate knowledge in art and design education
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
-- [[multi-agent-llm-social-learning]] — Two-model assistance restored ideational diversity that a single model flattened (Kumar et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source

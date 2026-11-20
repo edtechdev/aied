@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -88,28 +90,3 @@ Utatuzi wa matatizo ni matokeo ya kutumika ya [[critical-thinking|ufikiri mahusu
 **Kwa watafiti**
 
 - Uigaji wa mawakala mahususi kwa mshiriki ni chombo chenye nguvu cha kusoma udhibiti wa ushirikiano. Ripoti kama hivyo badala ya kama ushahidi kuhusu ushirikiano wa wanafunzi usiosimamiwa.
-
-## Dhana Zilizounganishwa
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Makala Zilizounganishwa
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Wasifu wa mwingiliano (hoja zilizopachikiwa dhidi ya tafsiri ya pamoja) na biashara ya ufanisi–udhibiti
-- [[ai-assisted-collaborative-learning-model-dbr]] — Mfano wa DBR unaoweka AI inayozalisha kama mshirika mwenye akili wa kujifunza
-- [[llm-critical-thinking-teamwork-review]] — Mapitio ya PRISMA ya LLM zinazokuza ufikiri mahususi, kazi ya timu, na utatuzi wa matatizo
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Ngazi za msaada zinazobadilika zilizochimbwa kwa mpangilio kwa utatuzi wa matatizo wa ushirikiano
-- [[genai-assisted-problem-posing-physics-2026]] — Kutunga matatizo kama mkakati wa kujifunza kwa kujidhibiti na GenAI
-- [[genai-feedback-design-multisite-experiment]] — Maoni ya kutafakari/mseto yanashinda maoni ya moja kwa moja ya AI katika uhamisho uliochelewa
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot zinaboresha kutunga matatizo kwa wanafunzi wa msingi katika kujifunza kwa msingi wa uchunguzi
-- [[llm-computational-thinking-physics-2026]] — LLM kama wapimaji wanaoweza kupanuka wa utatuzi wa matatizo wa kikokotozi katika fizikia
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Ngazi za msaada zinazoongozwa na kanuni dhidi ya zisizo na mpangilio katika mfumo wa ualumu wa LLM kwa hisabati ya msingi (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

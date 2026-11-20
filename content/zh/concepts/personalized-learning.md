@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -138,44 +140,3 @@ GRADE 证据确定性被评为极低。诚实的读法是：点估计很大，�
 **“生成材料消除了真实内容所施加的约束。”** 生成放松了一种约束，却无法放松其他约束。[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]生成与学生的陈述兴趣、课程目标与目标技能水平相匹配的合成统计数据集，这种三方匹配真实数据集很少满足，但其作者把限度说得很明白：合成数据无法教授数据收集、测量或研究设计，因此该工具补充真实数据，而不是取代它。
 
 **“被报告的[[learning-gains|学习增益]]才是这些系统的验证。”** 在此综述的强化学习与个性化研究中，策略最常在指导相关的调适与情感变量上胜过非自适应基线（被测研究的 63%），而学习增益，尤其是归一化学习增益，是*最少*被报告的结果。一个报告参与与情感远多于学习的文献，并不是学习占主导的证据。
-## 关联概念
-
-- [[adaptive-learning]] — 实时把内容、节奏与难度裁剪给学习者的自适应系统
-- [[intelligent-tutoring]] — 对学习者建模并交付个别化教学的导学系统
-- [[student-modeling]] — 表示驱动适应的学习者知识、技能与状态
-- [[knowledge-tracing]] — 从随时间的表现推断对知识成分的掌握
-- [[cognitive-diagnosis]] — 从回应中诊断潜在的学习者知识与属性
-- [[scaffolding]] — 校准于个体学习者需求的支持与淡出
-- [[student-experience]] — 学习者对个性化的亲身体验
-- [[learning-analytics]] — 为调适提供依据的数据驱动学习测量
-- [[formative-assessment]] — 提示下一步调适什么的持续评价
-- [[summative-assessment]] — 个性化使其可比性复杂化的终点评价
-- [[generative-ai]] — 基于大语言模型的对话式个性化
-- [[edtech-platform]] — 规模化交付个性化学习的平台
-- [[higher-ed]] — 个性化的高等教育情境
-- [[online-teaching-and-learning]] — 在线教学与学习
-- [[recommender-systems-and-learning-paths]]
-## 关联文章
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 项研究：75.4% 编码为学习者主导的控制，8.2% 为系统驱动的调适（Aybar-Bellido 等，2026）
-- [[bespoke-industry-personalized-lecture-videos-2026]] — 从一份种子讲稿重新生成行业个性化讲座视频：受众层面的裁剪，由领域专家评分（Puech 等，2026）
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 教学助手的提示工程微观个性化（Basu、Kakar 与 Goel，2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)：AI 辅导并非铁板一块：我们实际知道什么（斯坦福 SCALE／NSSA 简报）
-- [[mishra-control-vs-agency-history-2025]] — 区分两种个性化形式（统一 对 多样的结果）
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — 重新定义个性化学习：系统综述
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 面向导学的智能体原生个性化基座
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 面向个性化在线学习的本体分层混合知识模型
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 初等分数的个性化自适应学习
-- [[ai-coaching-rl-skill-development]] — 面向技能发展的强化学习教练
-- [[personalized-ai-generated-videos-preference-2026]] — 学生偏好个性化 AI 生成视频，胜过非个性化的人类录制视频（Tomlinson 等，2026）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 面向个性化学习路径的贝叶斯认知诊断
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的基于图的智能辅导
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 增强的形成性评价中的教师与 AI 角色
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback：自动写作反馈中的偏差
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 系统综述：自适应路径与推荐器是高等教育中首要的 AI 整合用例
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education：有缺陷但令人难忘：计算教育中学生对兴趣个性化 GenAI 类比的批判性接受
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — 个性化悖论：感知到的自适应个性化经学业情绪与更低的自我调节学习相关，由 AI 素养缓冲（Li、Lin 与 Qiu，2026）
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM 规划器达到 90.9% 效度，但向陈述的学习者目标个性化路径时无一模型超过 44.7% 适应性（Liu 等，2026）
-
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 四项研究、一个很大的合并效应，以及极低的确定性

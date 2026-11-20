@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -112,7 +114,6 @@ Bernstein와 Sibia(2026)는 흥미 개인화와 전문성 개인화를 구분합
 
 GRADE 확실성은 매우 낮음으로 평가되었습니다. 정직한 독해는 점 추정치가 크지만 구간이 너무 불확실하여 행동에 옮길 수 없다는 것입니다. 통합된 결과는 학습 전반이 아니라 컴퓨팅 및 공학 강좌의 학업 수행이었습니다. AI 개인화가 작동한다는 주장에는 그 단서가 따라붙어야 합니다. 이것이 이 페이지의 증거가 기대는 가장 얇은 토대이기 때문입니다.
 
-
 ## 프롬프트 조건화된 미시 개인화
 
 [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar와 Goel(2026)]]는 시스템과 인식된 개인화 사이의 간극이 응답 수준에서 다루어질 수 있음을 보여 줍니다. Jill Watson [[llm]]/[[rag]] 튜터를 위한 그들의 프레임워크는 학습자가 선택한 선호(추상화, 상세함, 인식, 처리, 이해)와 시스템이 추론한 인지적 요구([[cognitive-diagnosis|Bloom의 분류]])를 결합하여, 각 상호작용에서 적응되는 96개의 미시 프로파일을 만들어 냅니다 — [[prompt-engineering|구조적 프롬프트 조건화]]를 통해 재훈련도, [[discipline-specific-aied|영역 특정]] 저작도 없이. 이것은 [[adaptive-learning|적응 가능성]](학습자 주도 선호 선택)과 적응성(시스템 주도 인지 평가)의 혼합으로, 내용이 *어떻게* 제시되는지의 개인화가 규모도 가능하고 학습자에게 인식도 가능할 수 있음을 보여 줍니다.
@@ -151,45 +152,3 @@ GRADE 확실성은 매우 낮음으로 평가되었습니다. 정직한 독해�
 **"자료를 생성하면 실제 콘텐츠가 부과하는 제약이 사라진다."** 생성은 하나의 제약을 풀지만 다른 제약은 풀 수 없습니다. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]는 학생의 흥미, 강좌 목표, 의도된 기술 수준에 맞춘 합성 통계 데이터셋을 생성하며, 이는 실제 데이터셋이 거의 충족하지 못하는 삼중 일치이지만 저자들은 한계를 분명히 밝힙니다. 합성 데이터는 자료 수집, 측정, 연구 설계를 가르칠 수 없으므로 도구는 실제 데이터를 대체하지 않고 보완합니다.
 
 **"보고된 [[learning-gains|학습 이득]]이 이 시스템들을 검증한다."** 여기서 조사된 RL 및 개인화 연구에서 정책은 비적응 기준선을 가장 자주 안내 관련 적응과 정의적 변인에서 앞섰고(시험된 연구의 63%), 학습 이득, 특히 정규화 학습 이득은 *가장 덜* 보고된 결과였습니다. 참여와 정의를 학습보다 훨씬 많이 보고하는 문헌은 학습이 우세하다는 증거가 아닙니다.
-
-## 연결된 개념
-
-- [[adaptive-learning]] — 학습자에게 내용, 속도, 난이도를 실시간으로 맞추는 적응 시스템
-- [[intelligent-tutoring]] — 학습자를 모델링하고 개별화된 수업을 제공하는 교습 시스템
-- [[student-modeling]] — 적응을 구동하는 학습자 지식, 기능, 상태의 표현
-- [[knowledge-tracing]] — 시간에 따른 수행으로부터 지식 요소 숙달의 추론
-- [[cognitive-diagnosis]] — 응답으로부터 잠재적 학습자 지식과 속성의 진단
-- [[scaffolding]] — 개별 학습자 필요에 보정된 지원과 소거
-- [[student-experience]] — 학습자가 개인화를 살아 겪는 경험
-- [[learning-analytics]] — 적응에 정보를 주는 학습의 데이터 기반 측정
-- [[formative-assessment]] — 다음에 무엇을 적응시킬지 신호하는 지속적 평가
-- [[summative-assessment]] — 개인화가 비교 가능성을 복잡하게 만드는 종점 평가
-- [[generative-ai]] — LLM 기반 대화형 개인화
-- [[edtech-platform]] — 규모의 개인화 학습을 제공하는 플랫폼
-- [[higher-ed]] — 개인화의 고등교육 맥락
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 연구 61편: 75.4%가 학습자 주도 통제로 코딩, 8.2%가 시스템 주도 적응(Aybar-Bellido 외, 2026)
-- [[bespoke-industry-personalized-lecture-videos-2026]] — 종자 전사록으로부터의 산업 개인화 강의 영상 재생성: 영역 전문가가 평가한 청중 수준 맞춤(Puech 외 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 조교의 프롬프트 공학 미시 개인화(Basu, Kakar와 Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 교습은 하나가 아니다: 우리가 실제로 아는 것(Stanford SCALE/NSSA 브리프)
-- [[mishra-control-vs-agency-history-2025]] — 개인화의 두 형태를 구분하다(균일 대 다양한 성과)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — 개인화 학습의 재정의: 체계적 검토
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 교습을 위한 에이전트 네이티브 개인화 기반
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 개인화된 e-학습을 위한 온톨로지 기반 계층형 혼합 지식 모형
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 초등 분수를 위한 개인화 적응 학습
-- [[ai-coaching-rl-skill-development]] — 기능 개발을 위한 강화학습 코칭
-- [[personalized-ai-generated-videos-preference-2026]] — 학생들은 비개인화 인간 녹음 영상보다 개인화 AI 생성 영상을 선호한다(Tomlinson 외 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 개인화된 학습 경로를 위한 베이지안 인지 진단
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교습(2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 강화 형성 평가에서의 교수자와 AI의 역할
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: 개인화된 자동 되먹임의 편향
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 체계적 검토: 적응 경로와 추천 시스템이 고등교육 AI 통합의 선도적 활용 사례
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 흠 있으나 기억에 남다: 컴퓨팅 교육에서 흥미 개인화 GenAI 유추에 대한 학생의 비판적 수용
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — 개인화 역설: 인식된 적응 개인화가 학업 감정을 통해 낮은 자기조절 학습과 연합되며, AI 리터러시에 의해 완화(Li, Lin과 Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM 기획자는 90.9% 타당성에 도달하지만 명시된 학습자 목표에 경로를 개인화할 때 어떤 모델도 44.7% 적응성을 넘지 못한다(Liu 외 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 개인화 학습 메타분석: 통합 효과 g = 1.01은 네 연구, 420명, GRADE 매우 낮음에 기대고 있다

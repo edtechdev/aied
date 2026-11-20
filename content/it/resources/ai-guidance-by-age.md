@@ -29,6 +29,7 @@ verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -52,11 +53,3 @@ La guida è onesta sul proprio statuto. Gli autori definiscono le schede ipotesi
 Due ulteriori limiti contano per l'insegnamento. Le raccomandazioni sono spunti di progettazione, non interventi sperimentati; nulla nel sito riporta un esito. E la struttura per fasce d'età impone una griglia grossolana a uno sviluppo che varia all'interno delle fasce, tra culture e tra contesti, come la guida stessa riconosce.
 
 L'inquadramento che vale la pena portare nella pratica è quello del sito stesso: mantieni umano il ciclo, poi individua dove l'IA vi si inserisce, invece di mettere un punto di controllo umano dentro un ciclo che appartiene alla macchina — la stessa preoccupazione che la ricerca registra come rischio di [[cognitive-offloading|offloading]] quando uno strumento si assume la parte del compito che svolgeva il lavoro di sviluppo.
-
-## Concetti collegati
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

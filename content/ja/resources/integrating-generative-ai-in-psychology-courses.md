@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -92,9 +93,3 @@ Society for the Teaching of Psychologyが無料で公開する編著（2026年�
 ## 注記と留意点
 
 PDFは無料で、アカウント登録は不要。著作権はSTPにあり、Creative Commonsライセンスではない。出典を明記すれば個人利用および授業での複製が認められるが、再配布や商業利用には著者の許諾が必要である。各章は研究ではなく実践者の報告であり——デザインも標本も効果量もない——ため、主張は経験報告として扱い、引用は章ごとに行うこと。
-
-## 関連する概念
-
-- [[social-sciences-education]] — 本書が科目レベルの実践で埋める、心理学セクションを持つクラスターページ
-- [[ai-literacy]] — 編者が本書全体に与えている発達的な枠組み
-- [[academic-integrity]] — 方針を扱う章の主題であり、いくつかの科目章が検証手順を組み込む理由

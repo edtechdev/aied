@@ -33,6 +33,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -192,62 +194,3 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 **"AI는 범용이므로 어디서 얻은 발견이 어디에나 적용된다."** 기술의 범용성이 증거의 범용성을 만들어 내지는 않습니다. 전공 분야, 수준, 맥락이라는 갈래가 존재하는 이유는 같은 도구가 이들 사이에서 다르게 작동하기 때문이며, 경계를 넘어 그대로 옮겨진 발견은 외삽입니다.
 
 **"이 분야의 성숙도는 출판량에서 읽어 낼 수 있다."** 양과 성숙도는 갈라집니다. 연구 방법 갈래는 양으로는 고쳐지지 않는 반복적인 설계 약점을 기록하고 있으며, 프레임워크는 검증되는 속도보다 빠르게 늘어납니다.
-
-## 연결된 개념
-
-- [[primary-education]] — 초등 교육에서의 AI
-- [[secondary-education]] — 중등 교육에서의 AI
-- [[undergraduate-education]] — 학부 과정에서의 AI
-- [[graduate-education]] — 대학원 과정에서의 AI
-
-- [[ai-literacy]] — AI를 이해하고, 사용하고, 평가하기 위한 상위 개념
-
-- [[automation-bias]] — 독자 측 실패: 자동화된 판단을 받아들이는 것
-- [[human-ai-collaboration]] — 사람과 AI가 함께 일하는 방식에 대한 상위 개념
-- [[pedagogy]] — 교수 방법과 전략에 대한 상위 개념
-
-- [[case-based-learning]] — 사례 방법, 사례 토론, 대조 사례
-- [[metaphors-and-analogies]] — 은유가 AI 이해를 형성하고 유추가 수업을 뒷받침하는 방식
-- [[learning-theories]] — 학습이 이루어지는 방식에 대한 상위 개념
-- [[ai-technologies]] — 모델, 기법, 시스템에 대한 상위 개념
-- [[discipline-specific-aied]] — 여러 교과 영역과 수준을 아우르는 AI에 대한 상위 개념
-- [[assessment]] — AI가 학습자를 평가하고 타당성을 재편하는 방식에 대한 상위 개념
-- [[feedback]] — 피드백이 생성되고 전달되고 활용되는 방식에 대한 상위 개념
-- [[stakeholders]] — 행위자가 누구인지에 대한 상위 개념
-- [[learners]] — 학습자 측 개념(경험, 정체성, 주체성, 상호작용, 학습자 모델)에 대한 상위 개념
-- [[ai-ed-evaluation]] — AI가 효과가 있는지 우리가 어떻게 아는지에 대한 상위 개념
-- [[research-methods-aied]] — 효과 연구 방법에 대한 상위 개념
-- [[governance]] — 제도와 규제 층위에 대한 상위 개념
-- [[educational-policy-ai]] — 정책, 지침, 실행에 대한 상위 개념
-- [[equity-in-ai-education]] — 공정성, 접근성, 포용에 대한 상위 개념
-- [[learning-sciences]] — AIED의 바탕이 되는 경험적 분야
-- [[ethics]] — 교육에서의 인공지능의 윤리적 차원
-- [[misconceptions]] — 사람들이 AI에 대해 품는 심적 모형
-- [[interpreting-and-applying-aied-research]] — 연구 한 편을 읽고 그 결과를 실천으로 옮기기
-- [[limitations-in-aied-research]] — 근거 기반의 교차적 한계
-- [[meta-analysis-systematic-review]] — 리뷰와 메타분석이 확립하는 것
-- [[history-of-aied]] — 이 분야가 진화해 온 방식
-- [[philosophy-of-ai-in-education]] — 철학적 토대
-- [[theories-and-frameworks]] — 이론과 프레임워크 노드의 지도
-- [[theory-development-aied]] — 이론을 세우고 수정하기
-
-- [[sensor-and-gaze-analytics]] — 시선, EEG 등으로 학습자를 감지하는 상위 개념
-- [[ai-avatars-and-synthetic-instructors]] — 가르치는 합성 인간
-- [[civic-and-political-education]] — 교과 영역: 공적 삶을 위한 리터러시
-- [[pedagogical-patterns]] — 교육학적 패턴: 해당 분야 교수법을 구현하는 검증된 순차
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-
-## 연결된 문서
-
-교육에서의 인공지능을 분야 전체 차원에서 검토한 연구들입니다. 하나의 주제가 아니라 분야 전체나 하나의 교육 수준을 훑는 연구입니다.
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 2차 연구 33편: 학생이 결과물을 판단하는 곳에서 이득이 나타나고, 도구가 작업을 대신하는 곳에서는 나타나지 않음
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 석사 과정 학생 425명: 준비도는 지도교수 지원을 통해 자기효능감에 도달
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 박사 지도의 윤리·피드백·거버넌스에 관한 61개 출처 검토
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 단일 집단 대학원 세미나: 비계 없는 시험 없이도 자기주도 학습 이득
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 학생 381명: 윤리와 자기조절에서 학부–대학원 격차

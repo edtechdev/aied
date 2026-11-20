@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -89,27 +91,3 @@ Ce qui est distinctif au sujet de l'IA dans ce domaine, c'est que la même techn
 **« La plupart des programmes ayant un document sur l'IA disposent donc d'une gouvernance de l'IA. »** Dans un examen environnemental des **48** programmes de master accrédités en informatique de santé et en gestion de l'information de santé, **40 (83 %)** disposaient d'au moins un document sur l'IA accessible publiquement — mais ce constat s'intitule orientations, non politique. Un ensemble de recommandations publié n'est pas un mécanisme de gouvernance : il n'attribue ni responsabilité ni conséquence en cas de défaillance d'un système.
 
 **« Les étudiants incapables d'expliquer une décision assistée par l'IA font un mauvais usage de l'IA. »** L'explication alternative est qu'ils n'arrivent pas à formuler une décision qu'ils ont prise correctement. Le travail en TI est plein de pratiques compétentes dont la logique est tacite, et traiter une compétence inarticulée comme un manquement prend une cible pédagogique pour un problème de discipline : cela demande un entraînement à l'explication, pas une politique.
-
-## Concepts liés
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## Articles liés
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

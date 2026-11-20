@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -52,11 +53,3 @@ Rehberlik kendi durumu hakkında dürüsttür. Yazarları kayıtları, yerleşik
 Öğretim açısından iki sınır daha önemlidir. Öneriler test edilmiş müdahaleler değil tasarım istemleridir; sitede hiçbir şey bir sonuç raporlamıyor. Yaş bandı yapısı da, bantların içinde, kültürler arasında ve bağlamlar arasında değişen gelişime kaba bir ızgara dayatıyor; kılavuzun kendisi de bunu kabul ediyor.
 
 Uygulamaya taşınmaya değer çerçeve sitenin kendi çerçevesidir: döngüyü insan tutun, sonra YZ'nin bu döngünün neresine oturacağını çalışın; makineye ait bir döngünün içine insan kontrol noktası yerleştirmek yerine. Bu, derleminin bir aracın görevin gelişimsel işi yapan kısmını devralması durumunda [[cognitive-offloading|yük boşaltma]] riski olarak kaydettiği kaygının aynısıdır.
-
-## Bağlı kavramlar
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -139,55 +141,3 @@ ai_assist:
 - **"需要帮助的学生不会开口。"** 一项在大型本科课程中通过学术聊天机器人给学生发消息的**预注册实验**发现，**辅导与补充支持的使用率更高**。推动改变了行为，因此障碍在于[[prompt-engineering|提示]]，而不在于意愿。
 - **"求助请求都与学习有关。"** **操作性支持需求**使这个假设变得复杂：在 **4,093 条查询**中，至少 **20.4% 问的是待处理提交的状态，而不是求知识**。对帮助的需求有五分之一是行政性的。
 - **"使用 AI 导师就意味着监控自己的学习。"** 在一项 **98 名九年级学生**使用 GenAI 导师的研究中，互动**以工具性请求为主，几乎没有对自己学习的监控或评价**。索要答案并不是该构念意义上的求助。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — 机构外联与支持分配，超越课程内的求助
-
-## 关联文章
-
-- [[leite-its-k12-meta-analysis-2025]] — 哪些辅导支持承载效应：按需示例与提示优于自动提示
-
-- [[taufer-human-ai-interaction-haidl-2026]] — 互动作为一等数据：按查询周围的执行状态对其分类
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — 预测无辅助数学表现的是求助的轨迹，而非其水平
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — 在真实编程课程中，以提示长度对照下次提交正确率、尝试次数与用时
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 一个没人索要的助手代理（Humburg et al. 2025）
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry：基于笔的交互式原位问答系统，利用 LLM
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM 中的 LLM 中介求助：分层、工具性与可验证
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 一键之遥：Khanmigo 的两年学校实验
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 结合 CAL 的虚拟辅导：一项关于参与和学习的实验
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 课程中学生与 LLM 对话的 StudyChat 数据集
-- [[lak2026-hint-button-unproductive-use]] — 过早请求提示与浅层阅读提示预示 ITS 中更低的学习增益
-- [[ai-fallibility-warning-help-seeking]] — 警告 AI 可能出错会增加数学导学系统中的求助行为
-- [[regulating-ai-tutor-adolescent-srl]] — 青少年 GenAI 求助与自我调节学习中的意图—行为落差
-- [[guided-llm-scaffolding-independent-learning]] — 受引导的 LLM 脚手架改善面向推理的求助与独立学习
-- [[rethinking-scaffolding-llm-tutors]] — 真实世界 LLM 导师部署中的脚手架/学生采用错配
-- [[uneven-impact-generative-ai-student-learning-2026]] — 早期依赖：在独立思考、搜索或询问教师之前咨询 GenAI 同时预示收益与危害（Manikonda 等 2026）
-- [[reed-resource-literacy-genai-composition-2026]] — 线上写作中的资源素养：瓶颈在于识别何时需要帮助（Reed 2026）
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 减少障碍以获得学业支持：评估面向高等教育求助差异的课程专属 RAG 系统
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 自适应脚手架需要应变性：一个根据学习者行为升降支架的 AI 导师
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题解决过程中为定向 AI 求助搭脚手架
-- [[guided-ai-tutor-impasse-resolution-2026]] — 受引导 AI 导师如何化解学生僵局的差异考察
-- [[student-query-demand-hybrid-ai-support-2026]] — 学生实际问什么：混合支持系统中的需求结构与自动化潜力
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — 通过用户输入数据考察工程静力学课程中学生对生成式 AI 的使用
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — 多智能体人工智能模型以提升计算机教育中的自我调节学习与概念理解

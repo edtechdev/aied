@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -37,6 +38,3 @@ Một **bộ đánh giá**: bài tự đánh giá độ chín sẵn sàng AI c�
 
 ## Dành cho ai
 Lãnh đạo nghiên cứu, các ủy ban và văn phòng chính sách cần một bức tranh dựa trên bằng chứng về cách AI được dùng và được [[governance|quản trị]] trong một môi trường nghiên cứu, cùng một cách theo dõi [[change-management|thay đổi]] theo thời gian. Bộ công cụ đi kèm *Responsible AI in Academic Research: A Competency Framework for Research Training*, tài liệu định nghĩa năm chiều của mức sẵn sàng, và do Michael J. Zyphur, giám đốc Instats, viết.
-
-## Khái niệm liên quan
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

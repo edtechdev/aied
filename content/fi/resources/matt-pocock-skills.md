@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,6 +43,3 @@ Selkein esimerkki on `teach`, joka toimii useiden istuntojen yli ja kohtelee ty�
 ## Mitä on tiedettävä ennen käyttöönottoa
 
 Kaikki on [[open-source|avointa lähdekoodia]] MIT-lisenssillä ja vapaasti otettavissa lähtökohdaksi paikalliseen [[ai-literacy|tekoälylukutaitoon]] tai [[self-directed-learning|itseohjautuvaan opiskeluun]]. Käyttö on laajaa ja nopeasti liikkuvaa: noin 270 000 tähteä ja 23 000 haarautumaa syyskuussa 2026 tarkistettaessa, ja uusin commit 18. syyskuuta 2026. Varaus koskee laajuutta. Taidot olettavat [[human-ai-collaboration|insinöörin]] työkontekstin, ne on jaettu insinöörityön, tuottavuuden, vanhentuneiden ja työn alla olevien koreihin, joten osa merkinnöistä on selvästi keskeneräisiä tai poistettu käytöstä, ja README toimii samalla uutiskirjeen tilauslomakkeena. Kohtele opetus- ja kyselytaitoja siirrettävänä osana ja oleta, että kirjoitat minkä tahansa niistä uudelleen ennen kuin asetat sen opiskelijoiden eteen.
-
-## Liittyvät käsitteet
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

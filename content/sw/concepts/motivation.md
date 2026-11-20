@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,7 +50,6 @@ Meta-analysis ya masudio 42 (ukubwa 56 wa athari, wanafunzi 6,059) ilipata kuwa 
 
 - **Ubora sawa wa maoni haumaanishi athari sawa ya motisha.** RCT ya mikono mitatu na waandishi 312 wa mwaka wa kwanza iligundua maoni yaliyozalishwa na AI na maoni ya mwalimu yaliboresha insha zilizorekebishwa kwa kiasi kile kile: d = 0.60 na 0.59, sawa ndani ya bendi iliyobainishwa mapema ya ±0.35 SD. Maoni ya mwalimu hata hivyo yalipandisha motisha ya ndani zaidi ya maoni ya AI (5.16 dhidi ya 4.90, d = 0.31), na uhusiano unaoonekana na chanzo ulipatanisha pengo hilo (isiyo ya moja kwa moja 0.25, 95% CI [0.12, 0.40]) bila athari ya moja kwa moja kubaki ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et al. (2026)]]). Utendaji ulipitia ushiriki wa maoni badala ya ujuzi wa uwezo binafsi, ambao njia yake isiyo ya moja kwa moja haikuwa na umuhimu. Pale jaribio la Bassner lilipotenganisha uhuru na utoaji wa majibu, hili linashikilia ubora wa matokeo bila mabadiliko na kuweka tofauti ya motisha katika nani mwanafunzi anamjibu.
 
-
 Sababu msomaji anafikia AI yenyewe ni kigezo kinachoweza kupimwa: kipimo cha AIR kinatatua nia nne za kusoma kunakosaidiwa na GenAI — Kuelekezwa na Kazi, Kuhisi-Vizuri, Tafsiri na Juhudi-Ndogo — na Kuhisi-Vizuri pekee, kutumia AI mtu akichoka au bila kushiriki, ilihusishwa kwa njia hasi na mahitaji ya kiakili (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar na Sidi (2026)]]).
 
 **Motisha katika ushirikiano unaopitishwa na AI** inachunguza jinsi ubora wa motisha (si wingi tu) unavyobadilika na AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** waliunganisha nadharia ya kujitambua na [[network-analysis|uchanganuzi wa mtandao wa maarifa]] kuchunguza ushirikiano na [[generative-ai|AI ya kizalishaji]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** walifuatilia motisha katika maendeleo kupitia uchanganuzi wa mpito wa siri wa **wanafunzi 2,086 wa [[k-12|sekondari]]** katika mtaala wa AI wa mwaka mzima, wakipata mifumo mitatu thabiti (Isiyoshiriki, Inayokua, Inayojitambua) na kuwa kufikia mfumo wa Inayojitambua ulitabiri maendeleo makubwa zaidi ya [[ai-literacy]]. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** walitumia nadharia ya kuweka malengo na **wanafunzi 758 wa [[higher-ed|chuo kikuu]]** wa [[multilingual-learning|Kiingereza]], wakionyesha kuwa **msaada wa mwalimu** unaelekeza ushirikiano unaosaidiwa na AI hasa kupitia malengo ya mbinu ya ustadi na malengo ya mbinu ya utendaji (mbinu, si kuepuka, mwelekeo wa malengo). Pamoja masudio haya yanaonyesha kuwa motisha katika miktadha ya AI ni ya maendeleo na ya kijamii iliyowekwa kwa ngazi za msaada — inabadilika kwa muda na inaitikia msaada wa mwalimu na kuweka muktadha wa malengo, si ubuni wa zana tu.
@@ -79,7 +80,6 @@ Uingiliaji wa thamani-ya-matunda haufaidishi kwa njia ya usawa: toleo lililo na 
 
 **Udhibiti wa motisha ni dhana nyembamba zaidi katika fasihi hii.** Katika masudio 39, [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna na Jiang (2026)]] waligundua motisha ya kujitawala ilipimwa katika masudio 2, huku udhibiti unaotambulika na motisha inayodhibitiwa zikipimwa katika 1 kila moja, dhidi ya masudio 17 yaliyopima mahitaji ya msingi ya kisaikolojia na 10 yaliyopima ushirikiano. Waandishi wanaiita pengo hilo tatizo la kati la mapitio, kwa sababu udhibiti unauliza kwa nini mwanafunzi ana motisha wakati kuridhika kwa mahitaji kunauliza tu kama mazingira yalimsaidia.
 
-
 ## Mahusiano na dhana zinazohusiana
 
 Motisha ni dhana ya mzazi ya [[self-determination-theory]], ambayo inabainisha mahitaji ya kisaikolojia (uhuru, uwezo, uhusiano) yanayodumisha motisha ya ndani. Inahusishwa na [[student-experience]] kama safu ya uzoefu ya ushirikiano wenye motisha, na [[student-engagement]] kama kipimo chake kinachoweza kupimwa, na [[affective-computing]] kwa mitiririko ya kihisia inayoanza motisha. Motisha pia inahusishwa na [[cognitive-offloading|Kutegemea Kupita Kiasi]] (AI inapunguza [[desirable-difficulties|mapigano yenye tija]]), [[self-regulated-learning]] (wanafunzi wenye motisha hujidhibiti), na [[teacher-role]] (motisha inatumika kwa waelimishaji vile vile kama wanafunzi).
@@ -91,61 +91,3 @@ Motisha ni dhana ya mzazi ya [[self-determination-theory]], ambayo inabainisha m
 - **"Kupunguza kufadhaika ni sawa na kudumisha motisha."** [[rct|RCT]] ya mikono mitatu iligundua mfunzi mwenye ngazi za msaada na ChatGPT isiyo na mipaka **zilipunguza kufadhaika kwa usawa** (3.21 na 3.13). Miundo miwili tofauti sana ilizalisha tokeo lile lile la kihisia, hivyo data ya kufadhaika haiwezi kutofautisha kati yao.
 
 - **"Muundo wenye motisha ni muundo mzuri."** Katika **wanafunzi 222 wa mwaka wa kwanza wa shule ya sekondari**, muundo wa mazungumzo ya mwalimu-kwa-mwalimu **ulipandisha motisha ya ARCS zaidi** kuliko mbadala wake wakati **haukuboresha tathmini ya jumla**. Motisha ilisogea na ubora uliohukumiwa haukusogea.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Kujifunza Kihisia-Kijamii
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-- [[high-school-genai-acceptance-tam-physics-2026]] — Imani za thamani ya matarajio kama vitangulizi vya kukubalika kwa GenAI
-
-- [[gai-advocacy-practice-art-education-2026]] — Mapengo ya sera na mazoezi katika utetezi wa GAI hufanya kazi kama kichocheo cha msongo wanachotathmini wanafunzi
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Mfunzi mwenye ngazi za msaada ulipandisha motisha ya asili pale ChatGPT isiyo na mipaka haikufanya hivyo
-- [[liu-ai-assistance-reduces-persistence-2026]] — Matumizi ya AI ya muda mfupi yalipunguza uvumilivu katika matatizo ya baadaye bila msaada (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Maoni otomatiki kwenye uandishi wa hoja: jukumu la upokeaji wa maoni na mtazamo wa maoni wa wanafunzi wa sekondari
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Dhana potofu ya juhudi na mzunguku mbaya wa msaada bila msuguano
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motisha na majukumu katika ushirikiano wa metaji wa GenAI
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Jinsia, motisha, na njia za mafanikio ya GenAI
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Kutathmini Uwezo wa Kidijitali wa Mwalimu kwa Ubuni wa Mtaala wa GenAI (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motisha ya kuunda mustakabali wa elimu na AI
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Sifa za mwanafunzi × mwingiliano wa muundo wa mazungumzo ya TTS
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[liang-ai-learning-motivation-sdt-2026]] — Uchanganuzi wa mpito wa siri wa SDT wa motisha ya wanafunzi katika kujifunza kwa AI (wanafunzi 2,086 wa sekondari)
-- [[wang-goal-setting-ai-engagement-2026]] — Nadharia ya kuweka malengo: msaada wa mwalimu, malengo ya mafanikio, na ushirikiano katika kujifunza Kiingereza kunakosaidiwa na AI (wanafunzi 758 wa Kichina)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Athari za uingiliaji wa thamani-ya-matunda katika kujifunza kufundisha kwa uwajibikisho na GenAI (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Maendeleo ya motisha mahususi ya dhana katika mpango wa kuandika L2 wa msingi unaosaidiwa na GenAI (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — Kipimo cha AIR: familia nne za nia za kufikia AI wakati wa kusoma
-- [[genai-math-relevance-intervention-2026]] — Mazungumzo ya umuhimu ya GenAI yalipandisha umuhimu kama utambuzi lakini yaliachia nia ya darasa bila mabadiliko
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis ya athari za kubahatisha za GenAI juu ya motisha ya kujifunza (ukubwa 56 wa athari, wanafunzi 6,059)
-- [[ai-student-motivation-scoping-review-2026]] — Masudio 156 kuhusu AI na motisha ya wanafunzi: 85.3% hayakutumia nadharia ya motisha, na ufafanuzi ni mdogo katika dhana, kiwango, na nchi
-
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Maoni ya AI na ya mwalimu yenye ubora unaolingana, na pengo la motisha likipitia uhusiano (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — Mapitio yanayoongozwa na SDT ya masudio 39: mahitaji na ushirikiano hupimwa mara nyingi, udhibiti wa motisha karibu kamwe
-

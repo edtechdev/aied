@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -36,7 +37,3 @@ Viết một bài học trong bất kỳ trình soạn thảo văn bản nào v�
 
 ## Dành cho ai
 Nhà thiết kế giảng dạy và người tạo học phần muốn nội dung của mình sống sót qua một lần đổi công cụ, các nhà cung cấp eLearning muốn một định dạng nhập và xuất mà người dùng của họ đã hiểu, và bất kỳ ai xây việc soạn thảo có AI hỗ trợ trên một định dạng đọc được. Những người đóng góp gồm Dan Bashaw của LXD Integral, và định dạng có một changelog công khai tới v1.8.
-
-## Khái niệm liên quan
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

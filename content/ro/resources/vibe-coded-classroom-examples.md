@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,12 +43,3 @@ Instructori din orice disciplină care vor un exemplu lucrat al propriului tip d
 ## Note și precauții
 
 Sunt demonstrații didactice, nu intervenții evaluate: pagina nu raportează nicio dovadă privind rezultatele învățării pentru niciuna dintre ele, iar câteva sunt construcțiile autorului însuși, nu utilizări independente în clasă. Calitatea construcției urmează modelul și numărul de iterații, așa că un exemplu care a funcționat într-o versiune a modelului poate deriva sau se poate strica mai târziu, iar instrumentele generate afirmă destul de des fapte greșit încât lista de verificare a paginii însăși este să verifici fiecare număr față de sursele pe care le enumeră instrumentul. Galeria amestecă munca lui Bowen cu contribuțiile altor educatori și linkuri terțe care pot putrezi. Citirea nu cere cont; pagina este gratuită, în timp ce atelierele și consultanța lui Bowen sunt plătite.
-
-## Concepte conexe
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

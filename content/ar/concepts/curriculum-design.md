@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T06:34:27-05:00"
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -55,7 +57,6 @@ updated: "2026-11-08T06:34:27-05:00"
 يغيّر الترجيح ما يُبلّغ عنه تحليل المنهج: وزّع [[genai-curriculum-analytics-mapping-higher-ed-2026|جايالات وزملاءه (2026)]] 100% على سبع مهارات مؤسسية لكل واحد من 48 تقويمًا عبر GPT-o3-mini، فبلغ ألفا كريبندورف 0.81 مقابل أوزان الخبراء، لكن الاتفاق صار سالبًا في المهارات التي لا تنصّ الأوصاف عليها صراحةً (-0.19).
 
 **البنية المعيارية تعمّر أطول من المحتوى الراهن.** يتكرّر نمط حيث يتحرّك الميدان أسرع من دورة المراجعة: نواة مستقرّة من [[ai-literacy|ثقافة الذكاء الاصطناعي]]، والتقييم النقدي، وكشف الانحياز و[[ethics|الأخلاقيات]]، مع محتوى تخصصي وأدوات متاحة محليًا تُلحق كوحدات وتُعاد زيارتها كل ستة إلى اثني عشر شهرًا ([[bursic-ai-residency-education-curriculum-2026|Bursic وآخرون (2026)]]). و[[medical-education|التعليم الطبي]] للدراسات العليا هو الحالة المعلنة، لكن المبدأ يعمّم: يلتزم البرنامج بكفاءات تبقى بعد تبدّل الأدوات ويجدول الطبقة الخاصة بالأدوات للاستبدال.
-
 
 **تكامل ثقافة الذكاء الاصطناعي** يضمّ كفاءات الذكاء الاصطناعي عبر المجالات. يوفّر **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** إطارًا سقاليًا لثقافة الذكاء الاصطناعي قابلًا للتطبيق على جميع الأعمار والمراحل التعليمية، معالجًا [[digital-divide|الفجوات الرقمية]] من المستوى الثاني والثالث. ويفحص **[[tracing-genai-literacy-interaction-patterns]]** كيف تتطوّر ثقافة الذكاء الاصطناعي عبر أنماط التفاعل. ويستكشف **[[hingle-collaborative-ai-literacy-2025]]** مناهج تعاونية لتطوير منهج ثقافة الذكاء الاصطناعي، متصلًا بـ[[collaborative-learning]].
 
@@ -105,62 +106,8 @@ updated: "2026-11-08T06:34:27-05:00"
 
 **اختيار إطار واحد لثقافة الذكاء الاصطناعي يعني اختيار مفردات لم يوائم بينها أحد.** في مراجعة نطاقية لـ50 إطارًا في K-12، وجد [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وآخرون (2026)]] أن تعريفات الكفاءة تتقارب على أبعاد معرفية ووجدانية وسلوكية وأخلاقية واجتماعية بينما لم تتحاذَ التسميات والبنى. ولم يقترب إطار ABCE وحده من تقليد قياس مشترك، مُتحقَّقًا منه عبر هونغ كونغ وشنغهاي وتايوان، بينما اقتُرح التدرّج عبر نطاقات الصفوف مرارًا ولم يُختبر في أي مكان.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«يمكن لـ[[llm|نموذج لغوي كبير]] أن يرسم خريطة منهج بمجرد التحقق منه بموثوقية عالية.»** وزّع GPT-o3-mini **100% على سبع مهارات مؤسسية لكل واحد من 48 تقويمًا**، فبلغ **ألفا كريبندورف 0.81** مقابل أوزان الخبراء — و**انهار الاتفاق** في مهارات بعينها. فالموثوقية الكلية العالية مع اتفاق غير متساوٍ هي النمط الذي ينبغي فحصه قبل الثقة بالخريطة.
 - **«دمج ثقافة الذكاء الاصطناعي يعني إضافة مقرر.»** يُظهر LearnAI الشكل المدمج: **طبقة تعريض واسعة من عروض قصيرة داخل 18 مقررًا قائمًا عبر خمسة مجالات (293 طالبًا)**. فقد وُزّع التعرّض عبر المنهج بدل جمعه في وحدة.
 - **«يصل الطلاب قادرين أصلًا على تقييم الوسائط نقديًا.»** قال **13.8% فقط من طلاب التعليم والصحافة المشموّلين** إن مقرراتهم تناولت التحليل النقدي للوسائط، مقابل **97.8% قيّموه مهمًا**. فالفجوة بين تقدير مهارة وتدريسها هي الفتحة المنهجية.
-
-## مفاهيم مترابطة
-- [[pedagogical-partnerships]] — شراكات بيداغوجية
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — المظلة: البيداغوجيات واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
-- [[recommender-systems-and-learning-paths]]
-
-## مقالات مترابطة
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — رسم خرائط مهارات مرجّح ومتحقَّق منه بالخبراء للاعتماد
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[refrain-amplify-genai-curriculum-2026]] — إطار منهج الامتناع-ثم-التضخيم لتسلسل GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders

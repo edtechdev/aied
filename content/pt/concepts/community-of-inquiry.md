@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -84,28 +86,3 @@ Os próprios autores do framework fornecem uma taxonomia de papéis para essa co
 **"A presença se distribui uniformemente por uma coorte."** Ela se separa *dentro* da condição, e não entre condições. Em um quase-experimento com **63 graduandos chineses (33 com um chatbot GPT-4o mini, 30 sem)** anotando leituras compartilhadas ao longo de cinco tarefas semanais, as presenças divergiram pelo desempenho do grupo: grupos de alto desempenho iniciaram **1407 solicitações de feedback em 2319 anotações (60,7%)**, contra **737 em 2167 (34,0%)** nos grupos de baixo desempenho. O acesso à mesma ferramenta reproduziu uma lacuna existente no comportamento social que o framework mede.
 
 **"Acrescentar um chatbot a um curso on-line acrescenta uma presença."** Ela muda a mistura. O valor do framework sob GenAI é que ele torna a substituição visível: uma presença satisfeita por um modelo é uma configuração diferente do mesmo construto, e os dados da coorte mostram a substituição compensando de forma desigual.
-
-## Conceitos conectados
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## Artigos conectados
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Revisão de escopo de 21 estudos: a evidência das presenças é desigual, a presença docente é a menos estudada, e a configuração de desenho ordena os desfechos (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Desempacotando as interações dos estudantes na anotação social assistida por IA generativa: uma análise de redes epistêmicas das presenças cognitiva e social
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceituando a CoI na era da IA generativa
-- [[ai-communities-of-inquiry-2026]] — IA em comunidades de investigação
-- [[ai-online-education-engagement-satisfaction-2026]] — IA e engajamento na educação on-line
-- [[reflective-triangle-model-teacher-ai-2026]] — Modelo do Triângulo Reflexivo: a IA como mediadora cognitiva
-- [[llm-facilitation-timing-online-discussions]] — Facilitadores humanos versus LLM: os modelos intervêm com mais avidez do que humanos especialistas (Tsirmpas et al. 2026)

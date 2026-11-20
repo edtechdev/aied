@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,7 +61,3 @@ Langganan menambahkan opsi membeli lebih banyak kredit, yang tidak kedaluwarsa. 
 berniat mengandalkan platform ini sebaiknya memeriksa ketentuan yang berlaku, karena pemakaian gratisnya
 diukur alih-alih tak terbatas, dan sebaiknya memperlakukan aplikasi buatan siswa sebagai konten dengan
 pertanyaan penanganan datanya sendiri.
-
-## Konsep terkait
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

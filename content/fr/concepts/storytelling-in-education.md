@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -61,22 +63,3 @@ Le récit est en lien avec l'[[student-engagement|engagement des étudiants]], l
 **« La génération par l'IA rend le récit accessible aux étudiants qui ne savent pas écrire. »** Elle rend disponible la *production d'un artefact écrit*, ce qui est un bénéfice différent. La narration orale, le dessin et la dictée sont les voies établies vers le même but, et elles préservent la qualité d'auteur que la génération supprime.
 
 **« La valeur éducative d'une histoire est dans le résultat poli. »** Elle est dans la construction — la sélection et l'ordonnancement qu'un conteur opère. Une histoire polie que l'étudiant n'a pas structurée a démontré la compétence du modèle, non celle de l'apprenant.
-
-## Concepts liés
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Articles liés
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotique et IA en éducation
-- [[ai-generated-interactive-fiction-education-2026]] — La fiction interactive générée par l'IA : la cohérence comme dimension faible dans un pilote de 22 étudiants
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — construction d'albums illustrés en maternelle, où l'adéquation au récit et la plausibilité sont devenues les critères de jugement des images générées (Konca & Yigit-Gencten, 2026)

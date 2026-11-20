@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -45,10 +47,8 @@ ai_assist:
 
 - **تعمیم۔** ایک کورس، ادارے، مضمون یا قومی سیاق کی یافتیں منتقل نہیں ہو سکتیں۔ چھوٹے، سہولت پر مبنی یا ایک ادارے کے نمونے بیرونی اعتبار کو محدود کرتے ہیں؛ ایک AI اوزار کے نتائج شاذ و نادر ہی کسی دوسرے اوزار یا سیاق تک پھیلتے ہیں۔
 
-
 - **بین الاقوامی اعتقادی موازنے پیمائش کا خطرہ اٹھاتے ہیں۔** 1,405 [[k-12|K-12]] اساتذہ کے پانچ ملکوں کے سروے نے خودکار مشینی ترجمہ استعمال کیا، بغیر واپسی ترجمے یا پیمائش کی عدم تغیریت کی جانچ کے، اور [[academic-integrity|سرقے]] اور [[creativity|تخلیقیت]] کی تشویش کو واحد اشیاء سے ناپا، چنانچہ اُس کے ملکی موازنے مساوی ساختوں کے طور پر نہیں پڑھے جا سکتے ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]])۔
 - **ترکیب کی سطح کی سخت گیری بنیادی مطالعے کی سخت گیری سے الگ محور ہے۔** ایک میٹا تجزیہ اپنے شمولیت کے معیار پورے کر سکتا ہے اور پھر بھی ایسے مطالعات یکجا کر سکتا ہے جو ڈیزائن، نفاذ کی وفاداری اور نتائج کے پیمانے میں مختلف ہوں، بغیر اِن میں سے کسی کو وزن دیے: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan اور ساتھی (2026)]] صاف کہتے ہیں کہ اُنہوں نے کوئی باقاعدہ معیار جانچنے والا اوزار استعمال نہیں کیا اور شمولیت کے معیار کو ہی سخت گیری کی حد سمجھا، چنانچہ ایک نیم تجرباتی مطالعہ اور ایک بے ترتیب مطالعہ نے یکجا [[stem-education|STEM]] اندازے میں برابر حصہ ڈالا۔ یہی جائزہ ایک متعلقہ رپورٹنگ خطرہ بھی دکھاتا ہے: اُس کی متفاوتیت ایک مقرر اثر ماڈل کے تحت I² = 82.98% اور بے ترتیب اثرات ماڈل کے تحت I² = 15.75% بتائی گئی ہے، یعنی جو قاری ماڈل کے بغیر متفاوتیت کا کوئی واحد عدد اُٹھا لے، وہ نہیں جان سکتا کہ کارپس واقعی کتنا متضاد ہے۔ کسی ترکیب کا اندازہ اِس بات پر کریں کہ اُس نے منحصر اثرات کے حجموں، معیار اور متفاوتیت کو کیسے نمٹا، صرف اِس پر نہیں کہ اُس نے تلاش کا پروٹوکول مانا یا نہیں۔
-
 
 - **ریٹریول ڈیزائن ترکیب کے سرخی والے اعداد طے کرتا ہے۔** [[teacher-education|اساتذہ کی تعلیم]] کے 195 مطالعات کے اسکوپنگ جائزے میں ڈیجیٹل صلاحیت اور [[tpack|TPACK]] واضح تلاشی وصف تھے جبکہ تدریسی ڈیزائن اور جانچ کا کوئی متبادل نہیں تھا، چنانچہ بتائے گئے 46.5% اور 1.9% میدان کے بجائے حاصل شدہ کارپس کو بیان کرتے ہیں ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]])۔
 - **چھوٹے نمونے۔** بہت سے AIED مطالعات کم طاقت والے ہیں — اتنے کم شرکاء کہ معنی خیز اثرات قابلِ اعتماد طور پر پکڑے نہ جا سکیں یا اُن سے کبھی کبھی اخذ کیے جانے والے مضبوط دعوے سہار نہ پائیں۔
@@ -127,48 +127,3 @@ AI مسلسل بدل رہا ہے، اور کسی دیے گئے ماڈل یا ن�
 - **”حدود کے حصے رسمی تکرار ہوتے ہیں۔“** طریقہ کار کی حدود **تاثراتی نہیں بلکہ ناپی جانے والی** ہیں: AI کے ساتھ تنقیدی سوچ کے **80 HCI مطالعات** کے تنقیدی جائزے میں **42 (52%) میں کوئی کنٹرول گروہ نہیں تھا**۔ درست گنتی ہی حد کو قابلِ عمل بناتی ہے۔
 - **”متفاوتیت ایک واحد عدد ہے جسے آپ بتا سکتے ہیں۔“** یہی جائزہ ایک رپورٹنگ خطرہ دکھاتا ہے: متفاوتیت **مقرر اثر ماڈل کے تحت I² = 82.98% اور بے ترتیب اثرات ماڈل کے تحت I² = 15.75%** بتائی جاتی ہے۔ ایک ہی ڈیٹا منتخب ماڈل کے لحاظ سے نو نکاتی یا دو نکاتی کہانی دیتا ہے، چنانچہ ماڈل کے بغیر بتایا گیا I² ناقابلِ تفسیر ہے۔
 - **”بڑا رپورٹ شدہ اثر وہ عدد ہے جس پر بھروسا کرنا چاہیے۔“** **ایک مقام کے ایک کورس کے 30 طلبہ** سے آئے اثر جیسی سرخی کمزور دعوے کی عام شکل ہے، اور کنٹرول کے بغیر مطالعات کی گنتی دکھاتی ہے کہ یہ کمزوری کتنی بار غیر رپورٹ شدہ رہ جاتی ہے۔
-
-## منسلک تصورات
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — تعلیم میں AI میں نظریاتی ترقی
-
-## منسلک مضامین
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — اعلیٰ تعلیم میں AI چیٹ بوٹ: توقعات کا شواہد سے موازنہ (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — جانچ میں حقیقتِ زمین کی اعتماد پذیری اور اعتبار
-- [[ai-literacy-assessment-misalignment]] — خود رپورٹ شدہ بمقابلہ کارکردگی پر مبنی AI خواندگی
-- [[machines-misread-pedagogical-quality]] — مشینیں تدریسی معیار کو کیوں غلط پڑھتی ہیں
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — AI ٹیوٹرز اور نظریے کے استعمال کی تنقیدی حدیں
-- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy اور سوالات کی درجہ بندی
-- [[eeg-familiarity-automated-assessment-2026]] — سیکھنے والوں کی جانچ خودکار کرنا: EEG پر مبنی شناسائی کی پیش گوئی
-- [[weidlich-chatgpt-effect-search-cause-2025]] — تعلیم میں ChatGPT: سبب کی تلاش میں ایک اثر (میڈیا موازنے کی تنقید)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — میٹا-میٹا تجزیہ: اشاعت تعصب کے بعد ایڈجسٹ شدہ AI اثرات بتائی گئی مقدار کا تقریباً 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — مفروضہ مؤثر: 14 AIED میٹا تجزیوں کا فرانزک آڈٹ
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: AI سے معاونت یافتہ منظم جائزوں کے لیے ایک تجرباتی رپورٹنگ فریم ورک
-- [[frontier-models-physics-benchmark-audit-2026]] — فرنٹیئر ماڈل فزکس میں کتنے اچھے ہیں؟ ماہرانہ دوبارہ درجہ بندی خراب جانچیں اور سرکردہ بینچ مارکوں کی قریب الکمال حالت سامنے لاتی ہے
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — شمولیت کے معیار کو سخت گیری کی حد بنایا گیا، اور متفاوتیت کا عدد جو ماڈل کے ساتھ بدلتا ہے (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — ایک جھرمٹ بے ترتیب کلاس روم تجربہ جس کا کارکردگی کا نتیجہ اہمیت تک نہ پہنچا (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ سے GRE سیکھنے کے برابر اضافے
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — طلبہ کی تحریر پر LLM سے پیدا شدہ فیڈبیک میں توجہ اور تدریسی موافقت کا جائزہ
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: تعلیمی مکالموں کی قابلِ آڈٹ کوڈنگ کے لیے دعوے پر مبنی اسکیما
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — جذبات کی درجہ بندی سے قابلِ عمل اور ذمہ دار فیڈبیک تک: تدریس کے طلبہ جائزے میں NLP کا اسکوپنگ جائزہ اور شواہد کا نقشہ، 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے میٹرکس کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ایک ساختی جانچ
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — اساتذہ کی تعلیم کے 195 مطالعات کا اسکوپنگ جائزہ جہاں تلاشی سٹرنگ کا ڈیزائن رپورٹ شدہ تعدد کو شکل دیتا ہے
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — بین الاقوامی K-12 اساتذہ سروے: مشینی ترجمہ شدہ اشیاء، واحد شے کی تشویش کے پیمانے، کوئی عدم تغیریت جانچ نہیں
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — GenAI اعلیٰ تعلیم کے 103 مطالعات کا منظم جائزہ: 56% مشروط اضافے، درجات عمل کی تبدیلی چھپاتے ہیں (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — ڈیٹا کی افزائش سرخی والا میٹرک خود بنا سکتی ہے

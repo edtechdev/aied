@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,29 +84,3 @@ ai_assist:
 ## साक्ष्य की सीमाएँ
 
 यहाँ के अधिकांश अध्ययन छोटे, स्व-रिपोर्टित या दोनों हैं: एक सर्वेक्षण में 236 छात्र, एक हस्तक्षेप में 36 बच्चे, 412 पुस्तकालयाध्यक्ष स्वयं को रेट करते हुए। बिब्लियोमेट्रिक दृश्यता अभ्यास नहीं है, और साइंटोमेट्रिक लेखक स्वयं यह स्पष्ट कहते हैं। ज्ञानकोष में कोई अध्ययन संयुक्त सूचना-और-मीडिया-साक्षरता पाठ्यक्रम का मूल्यांकन नहीं करता, और अभ्यास-साहित्य जिन डिटेक्टर और तथ्य-जाँच उपकरणों की सलाह देता है वे इन स्रोतों में बड़े भाग में अ-मापित हैं। यह दावा कि AI-संचालित सत्यापन परिणाम सुधारता है, तब तक एक डिज़ाइन परिकल्पना माना जाना चाहिए जब तक कोई उसे किसी नियंत्रण के विरुद्ध परखे नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## संबंधित लेख
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19

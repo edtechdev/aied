@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -164,45 +166,3 @@ Yukarıdaki başarısızlık kiplerinin çoğunu atlatan bir başlangıç istemi
 - **“[[automated-assessment|Otomatik puanlama]] ölçek sorununu çözer.”** Sınıflandırıcılar, ciddi sınıf dengesizliği olan iyi etiketlenmiş bir korpusta yansıtma düzeyinde kabaca %70'e ulaşır ve bu tavan makul metnin erişebileceği bir düzeydedir.
 - **“Portfolyolar doğası gereği yansıtıcıdır.”** Kap eylem değildir; cilalanmış ürünlerden bir araya getirilmiş bir portfolyo hiç yansıtma içermeyebilir.
 - **“Yansıtma öğretim gerektirmez.”** Hem Macar deneme korpusu hem de öğretmen adayı deneyi, düzeyin ve kalitenin öğrenildiğini ve hazırlığın sonuçları değiştirdiğini varsayar.
-
-## Bağlı kavramlar
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Ön kayıtlı 302 yetişkin deneyi: yansıtma istemleri geri bildirimde geçirilen süreyi ikiye katladı ve pratik hacmini %40 kesti, problem başına kazanımı artırmadan (Asher, Gold ve Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — Nihai metin yerine belgelenmiş istemler ve yinelemeler üzerine kurulu YZ farkındalıklı beş parçalı yansıtma modeli (Kadel ve ark. 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1.954 etiketli deneme, ciddi sınıf dengesizliği, sığ modeller %71'de ve dönüştürücüler %68'de (2026)
-- [[reflection-agent-fidelity-career-2026]] — Bir YZ yansıtma ortağının kullanıcıları neden daha az bağlı bıraktığını açıklamak için kodlanan 17.930 tur (Nepal ve ark. 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — YZ bilişsel aracıyken öz, işbirlikli ve topluluk yansıtması (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 K–12 öğretmeni: zaman acemi için engel, performans izleme uzman için (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — Her biri yansıtıcı düşünmeyi destekleyebilen ya da değiştirebilen dört GenAI pratiği ve on bir süreç (Dalsgaard ve Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Yansıtıcı günlük tutma rutinini sürdürmek üzerine randomize 2×2 saha deneyi (Scheu ve ark. 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Strateji eğitiminin Sokratik bir LLM yansıtma ortağına karşı 2×2 sınavı (Zhang ve ark. 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Bileşik puanı olmayan, tanı koymayan öz yansıtma aracı (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Kabulü öz yeterlilik ve katılıma bağlayan ölçülmüş bir yapı olarak yansıtıcı YZ kullanımı (Wang ve Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Bir sonraki geri bildirim döngüsünü yeniden kalibre eden canlı girdi olarak yapılandırılmış yansıtma (Oktoma ve ark. 2026)
-- [[pedlow-genai-selfassessment-2026]] — Etik GenAI kullanımı için öz değerlendirme içinde rehberli yansıtma (Pedlow ve Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — YZ kullanımını tanıma, bilişi yeniden dağıtma ve sonrasında yansıtıcı biçimde yeniden angaje olma üzerine 18 öğretmen (Ho ve Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Görüş yazısı: yansıtma istemlerinin kalıcı öz izleme inşa ettiğine dair kanıt yok (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAI geri bildirim sağlayıcı ve sentezleyiciyken 16 haftalık WordPress e-portfolyoları (Ni ve Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — E-portfolyo değerlendirmesiyle hizalanmış ChatGPT, Wilks' λ = 0,476, kısmi η² = 0,524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — Bir iskele analitik ve değerlendirici derinliği yükseltirken eylem planlaması düz kaldı (Liu ve ark. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 çalışmalık haritalama: yansıtma, hizmet öğrenimi döngüsünün en az hizmet verilen evresi (Yusuf ve ark. 2026)

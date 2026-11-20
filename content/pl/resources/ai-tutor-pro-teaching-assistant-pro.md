@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -45,12 +46,3 @@ Owston (2026), pisząc jako jeden z twórców, przedstawia uzasadnienie projekto
 ## Uwagi i zastrzeżenia
 
 Oba narzędzia są bezpłatne i nie wymagają danych osobowych, ale „prywatne i anonimowe” to nie to samo co „brak danych”: polityka Contact North mówi, że zbiera logi interakcji z ChatGPT i dane Google Analytics, przechowuje je na serwerach w Kanadzie, nie pozwala OpenAI trenować na nich i udostępnia dane o interakcjach OpenAI, a ta przechowuje je do 30 dni. AI Tutor Pro nie jest zalecany użytkownikom poniżej 18 lat bez zgody rodzica lub opiekuna. Liczniki interakcji dostawcy to jego własne dane marketingowe, a nie niezależne dane o użyciu, a etykieta beta przy Slide Builder oznacza, że jego wynik należy sprawdzić przed użyciem w klasie. Nie podano licencji open source, więc kod nie jest dostępny do modyfikacji instytucjonalnej.
-
-## Powiązane pojęcia
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

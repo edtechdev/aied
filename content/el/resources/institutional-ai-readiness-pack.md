@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -38,6 +39,3 @@ ai_assist:
 ## Σε ποιους απευθύνεται
 
 Σε ερευνητικούς ηγέτες, επιτροπές και γραφεία πολιτικών που χρειάζονται μια εικόνα βασισμένη σε τεκμήρια για το πώς η ΤΝ χρησιμοποιείται και [[governance|διακυβερνάται]] σε ένα ερευνητικό περιβάλλον, και έναν τρόπο να παρακολουθούν την [[change-management|αλλαγή]] στον χρόνο. Συνοδεύει το *Responsible AI in Academic Research: A Competency Framework for Research Training*, το οποίο ορίζει πέντε διαστάσεις ετοιμότητας, και γράφτηκε από τον Michael J. Zyphur, διευθυντή της Instats.
-
-## Συνδεδεμένες έννοιες
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -100,35 +102,3 @@ Karıştırma’nın buradaki yerinin dayanağı bu nedenle, diğer iki teknikle
 **“Geri çağırma pratiği test demektir ve her test sayılır.”** Mekanizma, bir yanıtı tanımak değil bellekten üretmektir; çoktan seçmeli bir tanıma görevinin aynı etkinliğin daha zayıf bir sürümü olmasının nedeni budur. Sonsuz tanıma maddesi üreten bir YZ, doğru adı ve yanlış mekanizmayı taşıyan etkinlik üretmiştir.
 
 **“YZ bu teknikleri sadakatle uygulayabilir, çünkü iyi belirtilmişlerdir.”** Onları sessizce de bozabilir. Aralık, sistemin talep üzerine sağlamaya en yetenekli olduğu materyali geri tutmasını gerektirir; geri çağırma ise yanıt vermemesini. Dolayısıyla tekniğin etkililiği, uysal bir asistanın dayatmak için hiçbir teşviki olmayan kısıtlamalara bağlıdır.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Aralıklı hatırlatma dizileri ve kodlama sırasında yardım etmenin kalıcılık maliyeti
-- [[desirable-difficulties]] — bu üç tekniğin uygulamaya koyduğu ilke
-- [[cognitive-psychology]] — hafıza, kodlama ve hatırlatma, üçünün de teorik yuvası
-- [[prior-knowledge]] — hatırlatma uygulaması, öğrencinin sahip olduğunun etkinleştirilmesi olarak
-- [[metacognition]] — akıcılığın öğrenmeyi yansıtıp yansıtmadığını yargılamak
-- [[self-regulated-learning]] — bir YZ’nin sizin için planlayabileceği veya cevaplayabileceği şeyi istikrarlı biçimde çalışmak
-- [[mastery-learning]] — ustalık eşiğinden sonraki kalıcılık ve onu sürdüren aralıklılık
-- [[knowledge-tracing]] — planlama kararlarını doğru ya da yanlış yapan modeller
-- [[cognitive-offloading]] — hatırlatmanın bir araca devredildiğinde ortaya çıkan başarısızlık biçimi
-- [[transfer-of-learning]] — tekniklerin ele aldığı performans–öğrenme açığı
-- [[formative-assessment]] — kapalı araç kontrol noktaları, hatırlatma olayları olarak
-- [[productive-failure]] — yardım almadan önce denemek
-- [[learners]] — akıcı değil kalıcı öğrenmenin neyin hesaba katıldığı
-
-## Bağlı makaleler
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: yedi hafta boyunca uyarlanabilir aralıklı hatırlatma, sabit hatırlatma ve öğrenci yönlendirmeli YZ
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 planlaması ve kanıta dayalı kart etkileşimlerinin sınıflandırması
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: açıklama derinliği görev kalitesini ama anında hatırlamayı yordamıyor
-- [[rachatasumrit-example-problem-ratio-2026]] — Gerçekler için hatırlatma uygulaması, beceriler için çözümlü örnekler; içerik–uygulama etkileşimi
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Bilgi izleme modelleri, zamana dayalı doğrulamada aralıklılık etkisini yakalayamıyor
-- [[bilingual-llm-lecture-companion-srl-2026]] — Aralıklı uygulamanın içerik üretme maliyetini kaldıran otomatik kart üretimi
-- [[student-cheat-sheets-make-or-take]] — Kopya kağıdı hazırlamayı üretici çalışma olarak görmek; hazırlamayı YZ ile dışa devretmek
-- [[knowloop-confusion-to-consolidation-2026]] — Açıklamanın ortaya çıkarmadığı boşlukları gün yüzüne çıkaran öğreterek öğrenmeyle pekiştirme
-- [[simulating-learner-task-selection]] — Görev seçimi kısıtları altında modellenen öğrenen stratejileri olarak Karıştırma ve Bloklama
-- [[nie-personavlm-long-term-personalization-2026]] — Uzunlamasına öğrenci belleği ve aralıklı tekrar ile unutma eğrileriyle açık ilişkisi
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Öğrenmeyi öğrenme çerçevesinin Araçlar katmanında hatırlatma uygulaması
-- [[agentic-ai-pedagogical-best-practice-2026]] — Önceden içerik getiren aracılar hatırlatma uygulamasını atlıyor; kasıtlı sürtünme durumu
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — YZ Özel Öğretmenler Konuştuğunda: Bir Randomize Saha Deneyinden Kanıtlar

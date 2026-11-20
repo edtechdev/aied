@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -97,37 +99,3 @@ ai_assist:
 **„Забраната на инструмент премахва поведението.“** Тя го премества към инструменти, които не можете да видите. Учениците вече предпочитат частно достъпни инструменти пред институционално предоставени, така че забраната изтласква използването извън единствената среда, в която са възможни подкрепа, регистриране или насоки. Задачата на рамкирането е да направи разрешеното поведение привлекателно, а не забраненото поведение по-трудно за наблюдение.
 
 **„Рамкирането е убеждаване, значи е по-скоро реторика, отколкото дизайн.“** Рамкирането, което тази страница описва, е съчетано с дизайн: очаквания, заявени ясно и многократно, *докато се проектира около учениците*. Послания, доставени вместо проектирани, са версията, която се проваля, защото учениците различават заявен ангажимент от действителен.
-
-## Свързани концепции
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Свързани статии
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус на 30 експерти за последователността: усвояване без GenAI, консолидиране с него, после мислене със собствена глава
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Прозрачна обосновка за всяко разрешено и неразрешено използване на GenAI, задача по задача (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Насърчаване на подходящо използване на GenAI вместо осъждането му като смущение
-- [[student-rationalization-ai-writing]] — „Петте места“, където учениците рационализират използването на AI в академичното писане
-- [[student-regulatory-awareness-genai]] — Да знаеш правилата не е достатъчно: регулаторна осведоменост и действително използване
-- [[ai-anxiety-strategic-regulation-writing-2026]] — От тревожност относно AI към стратегическа регулация
-- [[chatgpt-inoculation-training-verification-2026]] — Имунизационни съобщения и поведение на проверка
-- [[ai-fallibility-warning-help-seeking]] — Предупреждението за податливост на AI на грешки увеличава търсенето на помощ
-- [[shame-guilt-ai-regulation-computing-education]] — Срамът и вината като социални регулатори на използването на AI
-- [[access-not-enough-ai-tutoring-2026]] — Човешката подкрепа подобрява ангажираността с AI обучение
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Ангажираност с GenAI, основана на теорията на самоопределянето
-- [[ai-availability-student-motivation]] — Как наличието на AI оформя мотивацията на учениците
-- [[youtube-frames-chatgpt-education]] — Как YouTube рамкира използването на ChatGPT в образованието
-- [[ai-ethics-education-public-discourse]] — Публичен дискурс за етиката на AI в образованието
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Преподавателите рамкират AI като критично и отговорно използване; работодателите - като продуктивност
-- [[ssaho-ai-academic-integrity-review-2025]] — Изграждане на култура на академична почтеност чрез ясни очаквания

@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-05"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 > **Information and media literacy** are adjacent capabilities that AI is rewriting at the same seam. Information literacy centers on finding and verifying accurate data; media literacy centers on understanding who created a message, how it was constructed, and why. They overlap in their shared goal of building the [[critical-thinking|critical thinking]] that lets people navigate a digital world and spot misinformation — and they now share a second problem: [[generative-ai|generative AI]] produces fluent, plausible content whose origin and intent are hidden, so the provenance question that media literacy always asked has moved into information literacy too.
@@ -94,33 +96,3 @@ Most studies here are small, [[self-report-measures|self-reported]] or both: 236
 - **The two literacies are one skill under two names.** Their objects differ — source credibility against authorship and intent — so a single rubric assesses neither well.
 - **Spotting AI inoculates against it.** In the strongest persuasion experiment reviewed here, detection ran high and the shift toward the AI's position still grew.
 - **Librarian competence transfers to AI literacy.** The staff shortfall shows up at designing objectives (M = 2.70) and assessing outcomes (M = 2.62), not at operating tools.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — Personalized GPT-4 beat human debaters; detection did not inoculate (Salvi et al. 2025)
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: the digital design thinking and learning platform to enhance computational thinking and digital literacy

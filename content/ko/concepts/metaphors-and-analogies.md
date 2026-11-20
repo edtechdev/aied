@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -124,37 +126,3 @@ ai_assist:
 - **"은유는 중립적 예시입니다."** 모든 은유는 일부 특징을 선택하고 다른 것을 숨깁니다. 그 선택은 주체성, 신뢰, 책임에 관한 가정을 나릅니다.
 - **"AI 생성 유추는 바로 사용할 수 있습니다."** 생성된 유추는 구조적으로 틀리거나, 문화적으로 협소하거나, 교수적으로 맞지 않을 수 있습니다. 교사 검토나 학생 비판 과제가 필요합니다.
 - **"학생이 유추를 즐기면 개념을 배운 것입니다."** 참여와 학습은 별개의 결과입니다. 여기 증거 기반은 대부분 질적이며 학습 이득을 입증하지 못합니다.
-
-## 연결된 개념
-
-- [[ai-literacy]] — 비판적 AI 리터러시와 은유 기반 교수를 아우르는 상위 개념.
-- [[critical-thinking]] — 구조적 추론의 한 형태로서의 유추 비판.
-- [[misconceptions]] — 지속적인 오개념의 원천으로서의 결함 있는 유추.
-- [[student-ai-interaction]] — 학생이 AI 설명을 해석하고 감사하는 방식.
-- [[pedagogical-agent]] — 설명이나 유추를 생성하는 AI 튜터.
-- [[learning-design]] — 유추 기반 자료의 선택과 배열.
-- [[educational-development]] — 교수진 개발에서의 은유 이끌어내기.
-- [[engineering-education]] — 공학에서의 교수자와 학생 은유.
-- [[cs-education]] — 컴퓨팅 교육에서의 유추 사용과 비판.
-- [[cognitive-offloading]] — 도구와 조수 은유 및 그 위험.
-- [[trust-calibration]] — 의인화된 역할과 잘못 놓인 신뢰.
-- [[equity-in-ai-education]] — 누구의 출발 영역이 익숙한 것으로 셈해지는가.
-- [[teacher-role]] — AI 생성 설명에 대한 교수자의 판단.
-- [[explainable-ai]] — 시스템 설명 대 교수적 유추.
-- [[student-engagement]] — 개인화된 유추의 참여 효과.
-- [[higher-ed]] — 이 군집의 대부분 연구가 이루어진 환경.
-
-## 연결된 문서
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 비판적 AI 리터러시를 가르치기 위한 네 가지 은유와 기준
-- [[student-reception-genai-analogies-computing-2026]] — 학생의 GenAI 생성 유추 감사와 깨진 대응 수리
-- [[fear-awe-genai-metaphor-workshops-2025]] — 학생, 학계, 직원과 함께한 은유 분석 워크숍
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — AI 이해를 구성하고 제약하는 공학 교수자의 은유
-- [[genai-professionalization-metaphors-2026]] — GenAI와 전문직 학습에 대한 학생들의 은유적 개념화
-- [[thermomix-genai-education-analogy-2026]] — 위임과 AI 학습을 위한 주방 기기 유추
-- [[anvil-ai-educational-animations]] — 컴퓨팅을 위한 AI 생성 유추와 교수 애니메이션
-- [[ai-engineering-education-balancing-act]] — LLM의 능력을 넘어서는 학생들의 "신탁"과 "튜터" 은유
-- [[code-anchor-multi-view-visualization]] — 은유적 시각화 비계와 그 정당성 문제
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 리터러시 증거로서 한 학생의 "피드백 자판기" 은유
-- [[daoism-ai-education-philosophy-2026]] — 교육에서 AI를 위한 반대 은유로서의 "Zhenren"
-- [[rodak-hire-ai-future-focused-literacy-2026]] — 고용된 조수 은유와 학생이 작성한 작업 범위

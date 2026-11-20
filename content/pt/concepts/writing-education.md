@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -155,85 +157,3 @@ Um desenho que vale a pena copiar vem de um curso assíncrono de composição co
 **"Os estudantes agem sobre o feedback de IA quando ele é oferecido."** A adoção é seletiva. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston e Long (2026)]] acompanharam duas equipes de graduação em [[biology-education|biologia]] revisando a introdução de uma proposta com feedback de IA construído pelo instrutor: 10 de 22 comentários foram atendidos, as exclusões superaram as adições, e os comentários que exigiam que os estudantes julgassem a coerência ou o apoio às afirmações foram ignorados por completo.
 
 **"Um modelo pode substituir o padrão de feedback do professor."** Não o fez na evidência. Acompanhar um professor ao longo dos estágios de rascunho encontrou movimento significativo em **cinco** tipos de foco de feedback — com *Elogio* subindo de **26,9%** nos rascunhos iniciais para **84,9%** nos finais —, enquanto o modelo mais próximo mudou em três e o menor em nenhum, e nenhum modelo replicou o padrão. O feedback do professor realoca a ênfase por estágio de rascunho; o feedback de modelo tende a manter sua distribuição. Tratar o segundo como equivalente perde a trajetória.
-
-## Conceitos conectados
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## Artigos conectados
-- [[powell-chatbot-enhanced-oer-composition-2026]] — O texto responde: OER aprimorado por chatbot em Composição II assíncrona (Powell et al., 2026)- [[favero-thinking-not-writing-chatbot-2026]] — Pensar não é escrever: desenhando chatbots de IA para conectar raciocínio e revisão
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — Um quase-experimento com 32 estudantes: a instrução de processo–gênero elevou a escrita informativa, multimodal e assistida por IA (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 professores de escrita sobre avaliar com IA: benefícios para o feedback, deriva nas notas, nenhuma regra institucional
-- [[genai-l2-written-feedback-scoping-review-2026]] — Revisão de escopo de 51 estudos: lacunas de transparência nos prompts e por que IA mais professor supera cada um isolado
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de IA em sala de aula de professores em formação: tensões e entrelaçamentos
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Um framework com humano no circuito para a correção assistida por IA em avaliação de escrita em larga escala
-- [[llm-comparative-judgment-writing-screening-2026]] — Validade do julgamento comparativo por grandes modelos de linguagem para a triagem universal de escrita
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descarregamento cognitivo sensível a camadas na escrita assistida por IA generativa (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — Ferramentas de escrita com IA podem melhorar a habilidade de escrita apesar de reduzir o esforço (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — Os LLMs não corrigem redações como os humanos (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — Revisão por Pares e IA + Reflexão (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — Uma abordagem pós-humanista do letramento em IA
-- [[choi-anchor-aes-prompting-2025]] — Correção automatizada de redações baseada em âncoras
-- [[aiawe-automated-writing-evaluation]] — AIAWE: avaliação automatizada de escrita
-- [[agency-gap-ai-writing]] — A lacuna de agência na escrita apoiada por IA
-- [[ai-writing-support-stage-ownership-2026]] — Do planejamento à revisão: apoio de IA à escrita em diferentes estágios
-- [[genai-teacher-feedback-comparison]] — Comparando feedback de IA generativa e do professor
-- [[student-rationalization-ai-writing]] — "Tudo bem porque…": o faroeste da racionalização dos estudantes
-- [[care-full-feedback-genai]] — Abordagens de feedback cuida-so
-- [[self-referential-l2-writing-llm-assessment]] — Avaliação de escrita em L2 autorreferencial
-- [[becerra-aicofe-feedback-2026]] — Sistemas de feedback entre pares com IA
-- [[repeated-ai-writing-feedback-semester]] — Avaliação pelos estudantes do feedback repetido de IA
-- [[ai-feedback-critical-thinking-writing-2026]] — Usando feedback gerado por IA para melhorar o pensamento crítico
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogias marcadas: vieses linguísticos no feedback automatizado de escrita personalizado
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: detectores de IA na educação (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Apagamento acadêmico: o desaparecimento da complexidade sob a escrita apoiada por IA
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Composição com IA multimodal e pensamento crítico na escrita no fundamental (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — Uso e visões dos estudantes sobre IA generativa para a escrita (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Um programa de escrita apoiado por IA generativa para motivação, engajamento e desempenho em L2 no fundamental (Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Concordância e erro na correção automatizada de posts de marketing de estudantes
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — O letramento em prompting e a motivação intrínseca impulsionam a revisão profunda, enquanto mandatos externos não têm efeito direto (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Avaliando o foco do feedback e a adaptatividade pedagógica no feedback gerado por LLM sobre a escrita dos estudantes
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Feedback do professor versus feedback entre pares assistido por IA como andaimentos heterogêneos em L2 em um quase-experimento de 8 semanas (Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-análise do desempenho de escrita com IA generativa: grande efeito agrupado, magnitude frágil, metodologia acima da pedagogia (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Revisão sistemática da personalização da escrita com IA e o descompasso entre teoria e desenho (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Colaboração humano–IA estruturada na escrita acadêmica e no pensamento crítico digital (Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Revisões humanas e de IA do mesmo rascunho assumem posturas dialógicas diferentes: o feedback entre pares fecha o espaço dialógico, a revisão por IA o mantém equilibrado (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: condicionar a saída de IA ao engajamento prévio redistribuiu o esforço para a escrita sem custar tempo ou precisão (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — Uma escala GenAI-SRL de seis dimensões para a escrita em L2, com a regulação ambiental (governança de ferramentas) como uma dimensão distinta
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Combinar IA com feedback entre pares eleva o engajamento e as notas de escrita
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Os estudantes querem o humano na ponta de maior risco
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Uso do feedback habilitado por IA por graduandos em biologia para revisar a escrita científica: recepção e barreiras (Weston e Long 2026)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Uso responsável de IA generativa por estudantes na escrita acadêmica: uma revisão de escopo de fronteiras, abordagens educacionais e lacunas de evidência
-- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompt enfrentam sondas cuja resposta certa é conhecida, e a maioria pode ser convencida a subir a nota (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — O contexto do aprendiz muda as notas de um corretor LLM em trabalhos idênticos, medido em uma ablação within-item com seis modelos (Porcaro 2026, Paper VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Delegação medida a partir de rastros: 137 consultas de tarefa inteira, 15 estudantes entregando redações sem nenhuma palavra digitada (Jelson et al. 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor e compromisso do professor como as duas dimensões do engajamento na escrita na era da GenAI
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 turmas, 10 cursos, 654 estudantes: a implantação emblemática do PAIRR e seu prompt de feedback apenas
-- [[alam-process-oriented-collaborative-essays-2026]] — Redações colaborativas orientadas ao processo: iteração e colaboração avaliadas, com GenAI permitida dentro de fronteiras (Alam & Jackson 2026)
-- [[webb-davies-voice-first-written-assessment-2026]] — Uma avaliação escrita em duas etapas que assegura o raciocínio sob observação antes de notar uma submissão escrita em casa, com arguição condicional para vínculos pouco claros (Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — Avaliação Caixa-Preta: janelas de processo, erro como evidência e integridade por visibilidade (Winstone, Gravett & Elkington 2026)
-
-- [[dumin-ai-research-projects-first-year-writing-2026]] — Análise de projetos de pesquisa com IA em composição de inglês de primeiro ano
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 estudantes de sociologia: ChatGPT para esboço e revisão, e a teoria que tiveram de verificar

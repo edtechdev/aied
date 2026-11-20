@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -76,37 +78,3 @@ Berufsentwicklung und Berufsfähigkeit verbindet sich mit [[professional-trainin
 Ein Rahmenwerk auf Programmebene macht die institutionellen Schritte explizit, wurde allerdings nicht als Programm evaluiert. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] schlägt sechs Phasen vor: Sondierung, Stakeholder-Validierung, Programmdiagnose, Neugestaltung des Curriculums, Umsetzung und Befähigung sowie Ergebnisüberprüfung. Jede Phase ist mit einem benannten Entscheidungsrecht und einem rechenschaftspflichtigen Ergebnis verknüpft, und AI ist auf vier klar abgegrenzte Unterstützungsfunktionen beschränkt: Mustererkennung über Arbeitsmarktinformationen hinweg, Kompetenz-Mapping, die Generierung von Curriculums-Optionen zur menschlichen Beurteilung und die Überwachung von Umsetzungsindikatoren. Der Wert liegt darin, dass es die Governance-Schritte benennt, die eine Strategie zur Vorbereitung auf das Berufsleben üblicherweise implizit belässt.
 
 Eine Befragung von 1.445 chinesischen Studierenden zeichnet einen Pfad von Nützlichkeitsüberzeugungen über die KI-Nutzung bis hin zur beruflichen Exploration. Die wahrgenommene Nützlichkeit generativer KI sagte die Nutzung mit β = 0,569 voraus, während die berufliche Selbstwirksamkeit sie nur mit β = 0,082 vorhersagte. Die Nutzung war anschließend mit beruflichem Explorationsverhalten assoziiert (β = 0,423), die Selbstwirksamkeit blieb der stärkste kognitive Prädiktor der Exploration selbst (β = 0,285), und das Modell erklärte 50,5 % der Varianz in der Exploration ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Die indirekten Pfade sind statistisch und querschnittlich, nicht längsschnittlich.
-
-## Verbundene Konzepte
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — die Ergebnisse, die auf den Abschluss folgen: Persistenz, Verbleib und Abschluss
-
-## Verbundene Artikel
-
-- [[ai-free-gates-engineering-students-india-2026]] — Von AI-freien Toren zur AI-First-Arbeitswelt: Wie Studierende der Ingenieurwissenschaften in Indien Hochschulstudium und Campus-Placements ohne AI-Richtlinien bewältigen
-- [[boyd-swan-employer-responses-genai-2026]] — Survey-Experiment mit ~1.750 US-Personalverantwortlichen: Substitutions-Framing senkte die Bereitschaft zu Vorstellungsgesprächen und Gehaltsverhandlungen, am stärksten bei Bewerbern mit hohen GPA-Werten (Boyd-Swan & Reynolds 2026)
-- [[ai-literacy-graduate-employability-2026]] — PLS-SEM-Belege dafür, dass AI Literacy die wahrgenommene Beschäftigungsfähigkeit über die Karriereadaptabilität wirkt, wobei ein Growth Mindset keinen zusätzlichen Beitrag leistet (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Abwägungen zwischen Leistungsbeurteilung und beruflichen Kompetenzen werden Aufgabe für Aufgabe entschieden (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Karriereanpassungsfähigkeiten verringern AI-Angst
-- [[ai-literacy-career-adaptability-business-2026]] — KI-Kompetenz und Karriereanpassungsfähigkeit in der Wirtschaftsausbildung
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Acht Fokusgruppen: Nutzende würdigen Effizienz und Verfeinerung, Nicht-Nutzende Originalität und Teamarbeit (assistierte Autonomie vs. langsame Kreativität)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — KI-Kompetenzen für Hochschulabsolventen: Prioritäten von Lehrenden und Arbeitgebern
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Qualifizierung der Arbeitskräfte für die intelligente Fertigung
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — KI und die Zukunft der Fachkräfte in Ingenieurwesen und Informatik
-- [[post-covid-ict-career-aspirations]] — ICT-Karriereaspirationen nach COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — KI-Angst und die Furcht, ersetzt zu werden
-- [[duan-ai-anxiety-career-decisions-college-2026]] — KI-Angst beeinträchtigt Berufsentscheidungen über die Karriereadaptabilität (63,35 % Mediation)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — KI-Angst und Einstellungen sagen die Angst vor der Stellensuche voraus (1.057 Studierende)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — KI-Angst sagt Angst bei der Stellensuche in den Gesundheitswissenschaften voraus (r=0,233, 821 Studierende)
-- [[ai-attitude-latent-profiles-career-development-2026]] — Vier AI-Einstellungsprofile: Career Crafting und Beschäftigungsfähigkeit gingen mit Engagement einher, nicht mit Angst
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Prognosen von Hochschullehrenden sind Vorhersagen, keine Belege zur Beschäftigungslage
-- [[kong-ai-employability-cognitive-engagement-2026]] — Konstruktlandkarte eines narrativen Reviews von KI-gestütztem Lernen bis zur Beschäftigungsfähigkeit
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Sechsstufiges, nicht evaluiertes Prozessframework zur Ausrichtung von Studiengängen auf die Arbeitsmärkte des KI-Zeitalters
-- [[lu-career-cognitions-genai-exploration-2026]] — 1.445 chinesische Studierende: Nützlichkeit und Nutzung von KI sowie Karriereexploration in einem Querschnittsmodell

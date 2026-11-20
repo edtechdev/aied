@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -165,45 +167,3 @@ AI を用いたサービスラーニングの 26 研究の写像では、省察�
 - **「[[automated-assessment|自動採点]]が規模の問題を解決する」** 分類器は、十分に注釈が付き、しかも著しいクラスの不均衡を抱えるコーパスで、省察水準についておよそ70%に達する。そしてその上限は、もっともらしいテキストの手の届く範囲にある。
 - **「ポートフォリオは本質的に省察的である」** 容器は行為ではない。磨かれた成果物から組み上げられたポートフォリオは、省察をまったく含まないことがある。
 - **「省察に指導は要らない」** ハンガリーのエッセイコーパスも教員養成の実験も、水準と質が学ばれるものであり、準備が成果を変えることを前提としている。
-
-## 関連する概念
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## 関連する記事
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — 事前登録された成人302人の実験。省察プロンプトはフィードバックに費やす時間を二倍にし、練習量を40%削ったが、一問あたりの伸びは上げなかった（Asher, Gold & Carvalho 2026）
-- [[5p-reflection-model-genai-2026]] — 最終テキストではなく、記録されたプロンプトと反復に基づく、GenAIを意識した五部分の省察モデル（Kadel et al. 2026）
-- [[reflection-level-classification-hungarian-essays-2026]] — 注釈付きエッセイ1,954本、著しいクラスの不均衡、浅いモデルが71%、トランスフォーマーが68%（2026）
-- [[reflection-agent-fidelity-career-2026]] — AIの省察パートナーがなぜ利用者の関与を弱めたのかを説明するためにコード化された17,930ターン（Nepal et al. 2026）
-- [[reflective-triangle-model-teacher-ai-2026]] — 自己、協働、コミュニティの省察。AIを認知的媒介者とする（2026）
-- [[falhs-teacher-expertise-reflection-2025]] — K–12教師100人。時間は初心者の障害、学習状況の追跡は熟練者の障害（Falhs 2025）
-- [[ai-cognitive-partner-reflective-thought-2026]] — 四つのGenAIの実践と十一の過程。それぞれが省察的思考を支えることも置き換えることもできる（Dalsgaard & Prilop 2026）
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — 省察的なジャーナリングの習慣を持続させることについてのランダム化2×2フィールド実験（Scheu et al. 2026）
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 方略訓練とソクラテス的LLM省察パートナーの2×2の検証（Zhang et al. 2026）
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — 合成スコアを持たない、診断的でない自己省察ツール（Alam 2026）
-- [[wang-reflective-ai-use-engagement-programming-2026]] — 受容を自己効力感とエンゲージメントに結びつける、測定された構成概念としての省察的なAI利用（Wang & Zhao 2026）
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 次のフィードバック循環を再較正する生きた入力としての構造化された省察（Oktoma et al. 2026）
-- [[pedlow-genai-selfassessment-2026]] — 倫理的なGenAI利用のための、自己評価の内側の導かれた省察（Pedlow & Maldon 2026）
-- [[teachers-reflective-regulators-cognition-offloading]] — AI利用の後に認識し、再分配し、省察的に再度関与することについての教師18人（Ho & Chen 2026）
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 立場論文。省察プロンプトが持続する自己監視を築くという証拠はない（de Jong 2026）
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAIをフィードバックの提供者および統合者とする16週間のWordPress eポートフォリオ（Ni & Lam 2026）
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — eポートフォリオ評価に整合させたChatGPT、Wilksのλ = 0.476、偏η² = 0.524（Sutama 2026）
-- [[liu-teaching-analytics-dashboard-2026]] — 一つの足場かけは分析的・評価的深さを高めたが、行動計画は横ばいのままだった（Liu et al. 2026）
-- [[yusuf-service-learning-mapping-2026]] — 26 研究の写像：省察はサービスラーニングのサイクルで最も支援の薄い段階（Yusuf et al. 2026）

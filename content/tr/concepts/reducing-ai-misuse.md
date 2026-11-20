@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -108,54 +110,3 @@ Dürüstlük, bir ceza kuralından çok öğretilmesi gereken bir uygulama olara
 **“Kötüye kullanımı tespit edip cezalandırmak bir önleme stratejisidir.”** Önleme, notlandırıcının kendisini de kapsamak zorundadır. [[humble-prompt-injection-ai-grading-red-team-2026|Humble’ın (2026)]] kırmızı ekip değerlendirmesi, bir teslim dosyasına gömülen beş dolaylı istek metni enjeksiyonu stratejisinden ikisinin başarısız bir kompozisyonun notunu yükselttiğini bulmuştur. Öğrenci kötüye kullanımını tespit ederken incelenmemiş teslim içeriğine güvenen bir iş hattı yalnızca tek taraftan savunulmuştur.
 
 **“Kötüye kullanım bir öğrenci motivasyonu sorunudur.”** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]], bağlayıcı kısıtı bir basamak yukarı taşır; değiştirilecek şey olarak öğrenci davranışı yerine yönetişimi ele alır ve 130 maddelik bir dürüstlük gösterge çerçevesi önerir. Öğrenme zararı da ölçekte ölçülebilir: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu (2026)]], ödev dışarıdan devretmenin ödev puanlarını %18 artırırken kitapsız sınav puanlarını *%20 düşürdüğünü* bulmuştur; bu, tam olarak bu sayfanın konusu olan boşlukta görünen bir tasarım başarısızlığıdır.
-
-## Bağlı kavramlar
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Bağlı makaleler
-
-- [[ivory-psychology-assessment-integrity-2026]] — Kötüye kullanımı caydırıcı olarak sürüm denetimi kanıt izleri ve tekrarlanabilir analiz belgeleri (Ivory ve ark. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Bir öneriyi esirgemek, koruduğu yargıyı inşa etmeden aşırı güveni büyük ölçüde önledi
-- [[generative-ai-guardrails-harm-learning]] — Koruma Olmadan GenAI Öğrenmeye Zarar Verebilir
-- [[genai-performance-vs-learning]] — Performans Kazanımlarını Öğrenmeden Ayırt Etmek
-- [[ai-assessment-scale-reform]] — YZ Değerlendirme Ölçeği ve Değerlendirme Reformu
-- [[critical-thinking-genai-scaffolding]] — Üretken YZ ile Eleştirel Düşüncenin İskelelenmesi
-- [[aaai2026-prompting-literacy-k12]] — Öğrenmek için YZ Kullanmayı Öğrenmek (K-12 YZ Okuryazarlığı Modülü)
-- [[genai-declaration-frameworks-higher-education]] — Şeffaflığı Yapılandırmak: GenAI Beyan Çerçeveleri
-- [[absent-cognitive-baseline-2026]] — Eksik Bilişsel Taban Çizgisi
-- [[ai-literacy-power-knowledge]] — YZ Okuryazarlığı: Güç–Bilgi Üzerine Bir Alıştırma
-- [[contextual-sycophancy-ai-literacy]] — Bağlamsal Yağcılığın Gizli Maliyeti: bir YZ okuryazarlığı müdahalesi
-- [[sycophantic-ai-social-interaction-2026]] — Yağcı YZ, insan etkileşimini zamanla daha zahmetli ve daha az tatmin edici hissettirir
-- [[ssaho-ai-academic-integrity-review-2025]] — Tespit polisliği yerine kültür inşası ve değerlendirme yeniden tasarımı
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Bilişsel teslim, verimli sürtünme ve üstbilişsel eşitsizlik
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Özgün, YZ’ye dirençli değerlendirme olarak sözlü sınavları yeniden düşünmek
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Üretken YZ öğrenme cezası: ödevi dışarıya devretmek öğrenmeye zarar verir
-- [[ai-overreliance-complex-adaptive-system-2026]] — YZ aşırı güveni karmaşık uyarlanabilir bir sistem olarak modelleniyor
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Koruma kaldırıldı, sınav puanlarını iyileştirmeden zarar ortadan kalktı
-- [[munoz-misconduct-allegation-evidence-2026]] — Usulsüzlük suçlaması dosyaları kanıt olarak aslında ne içeriyor
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı YZ kuralları ve onların yakaladığı öğrenciler
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uyumdan ziyade değerlendirici muhakeme olarak dürüstlük
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Öğrencilere göre GenAI bir hile aracı mı, öğrenme ortağı mı
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Uzaktan gözetimli sınavın öğrencilere ve eşitliğe etkisi
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — YZ kaynaklı hileye karşı durumsal suç önleme: 183’ten 27 vakaya, beş disipline özgü yeniden tasarım (Leaton Gray, Edsall ve Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Öğrenci sözlerinin 38 çalışmasının önerdiği şey: birlikte oluşturulmuş netlik ve eğitici akıl yürütme, tespitin önünde (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — EAL yazarları için dil desteğinin nerede bittiği ve yer değiştirmenin nerede başladığı (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ notlandırmaya karşı bir kötüye kullanım vektörü olarak istek metni enjeksiyonu (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Dürüstlüğün üzerindeki bağlayıcı kısıt olarak yönetişim: 130 maddelik gösterge çerçevesi (Coates, Croucher ve Calderon 2025)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Akademik yazımda üretken YZ’nin sorumlu öğrenci kullanımı: sınırlar, eğitici yaklaşımlar ve kanıt boşlukları üzerine bir kapsam incelemesi
-- [[guo-overreliance-genai-feedback-2026]] — Cognitive load runs through offloading into overreliance, with monitoring changing the route

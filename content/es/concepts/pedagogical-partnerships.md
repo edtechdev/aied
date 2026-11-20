@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -114,37 +116,3 @@ Para el profesorado y las instituciones que quieran adoptar la alianza pedagógi
 - **"La alianza consiste en dar más voz al estudiantado."** Una alianza pedagógica es una **relación acotada y negociada**, con papeles definidos y obligación recíproca, no una consulta. La voz sin un papel, un mandato y una cuota de la decisión no cambia nada estructural.
 - **"La alianza es una postura que se puede adoptar."** Requiere condiciones institucionales: tiempo, reconocimiento para el estudiante socio y un cambio que las partes puedan afectar de verdad. Una alianza declarada sin esas condiciones reproduce la jerarquía que dice interrumpir.
 - **"Compartir el poder no puede ser desarrollo docente."** Lo que sostiene la literatura es que la alianza es desarrollo *precisamente porque* cambia la comprensión de quien educa a través de la relación. Enmarcarla solo como un beneficio para el estudiantado descarta el mecanismo.
-
-## Conceptos conectados
-
-- [[pedagogy]] — Pedagogías y estrategias de enseñanza
-- [[collaborative-learning]]
-- [[agency]] — La agencia de quien aprende
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Artículos conectados
-
-- [[guided-inquiry-genai-course-policy-2026]] — Un enfoque de indagación guiada para que el estudiantado codiseñe las políticas de IA generativa de un curso
-- [[lo-co-creating-custom-gpts-sap-2026]] — Cocrear GPT personalizados: un estudio autoetnográfico de estudiantes de grado como socios en la innovación con IA generativa
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Diseño de la evaluación mediante cocreación: alianza entre estudiantado y personal para evaluar la IA
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Cinco principios guía para navegar la IA en la práctica de estudiantes como socios y preservar la confianza pedagógica
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Codiseñar IA con socios jóvenes: un marco ético de privacidad relacional
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Iluminar las realidades complejas del estudiantado con la IA mediante un marco de pedagogía enredada
-- [[anastasia-shared-agency-partnership-framework-2026]] — Agencia compartida: el marco de alianza de agencia para la colaboración entre docente y estudiante
-- [[maybee-disruptive-partnerships-sap-2025]] — Alianzas disruptivas: colaborar con el estudiantado en estudios de la información
-- [[student-centered-genai-responsible-framework-2026]] — Marco centrado en el estudiante para un uso responsable de la IA generativa
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — El estudiantado construyó un tutor de IA para sus pares a escala de 710 estudiantes: implicación alta, evidencia de aprendizaje exploratoria (Zangari et al. 2026)

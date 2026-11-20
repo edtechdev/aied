@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,7 +46,6 @@ ai_assist:
 
 지식 구성요소의 세분성은 학교 기반 교습에서의 모델링 결정입니다: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny와 Meurers(2026)]]는 독일 학교에서 영어를 배우는 7학년 1,059명의 첫 시도 응답 153,819건에 대해 FeedBook 영역 위계의 11개 수준에 걸친 지식 구성요소(KC) 모형 19개를 비교했습니다. 세밀한 문항 수준 모형은 알려진 내용에서 새 학생에게 가장 잘 예측했고, 의미론적으로 근거한 중간 수준 모형은 새 내용에 가장 잘 일반화했습니다(AFM 아래 Property ID + Exercise Type RMSE 0.4243 대 Actionable Element ID 0.4447). 주석 커버리지 감사는 엄격한 속성 매핑이 처음에 기록의 45.7%를 제거했고 더 새로운 주석 도구가 배제를 30.6%로 줄였으며, positive|statement 결합 라벨만이 배제된 기록의 74.9%를 차지했음을 발견했습니다.
 
-
 **언어 평가에서의 AI**는 LLM이 [[automated-question-generation|문항 생성]]과 평가를 지원함에 따라 새로운 영역으로 떠오르고 있습니다. **[[gpt-item-generation-l2-listening-2026|Aryadoust와 Wong(2026)]]**는 L2 듣기 평가의 자동 문항 생성에 대해 [[prompt-engineering|프롬프트 공학]]과 [[llm-training-and-fine-tuning|미세 조정]]을 비교했습니다: 반복적 프롬프트 정제는 문항 질질을 개선했으나 정체되었고, **최적화된 프롬프트로 GPT-4.1을 미세 조정하는 것**(프롬프트 설계를 고정한 채)이 추가 이득을 냈습니다 — 평가 개발자가 프롬프트 반복보다 모형 적응에 언제 투자해야 하는지에 대한 템플릿입니다.
 
 숙련된 교사 20명이 채점한 EFL 평가 과제 52개의 비교는 AI 생성과 인간 개발 문항 사이에 전반적으로 유의미한 질질 차이를 발견하지 못했으나, 분명한 노동 분담을 보였습니다: AI는 문법과 어휘(69%)에서 선호되고, 인간 개발은 읽기, 쓰기, 듣기, 말하기(75–83%)에서 선호되었습니다([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia와 Darvishi(2026)]]).
@@ -64,7 +65,6 @@ ai_assist:
 **초등 수준의 GenAI 지원 쓰기.** [[genai-writing-program-primary-l2-motivation-engagement|Lu 등(2026)]]은 중국 동부 5–6학년 학습자 301명을 대상으로 9주 의견 쓰기 프로그램을 실시했으며, 여덟 개의 온전한 학급을 프로그램 또는 전통적 교수에 무작위 배정했습니다. 이 프로그램은 학습자의 이상적 L2 쓰기 자아(조정 평균 차이 0.20)와 학업적 부양력(0.17)을 높이고 행동적·정서적 참여를 끌어올렸으나, 성장 마인드셋, 인지적 또는 메타인지적 참여, 루브릭으로 채점된 구성은 움직이지 않았습니다 — 쓰기 차원 가운데 언어 사용만이 개선되었습니다. 언어 교사에게 중요한 설계의 두 특성은 다음과 같습니다: 프롬프트가 구체적 쓰기 목표에 연결된 분류된 프롬프트 저장고를 통해 명시적으로 가르쳐졌고, GenAI 되먹임은 교사 되먹임과의 비교 및 반복적 수정과 함께 사용되었습니다. 학습자가 보고한 저자됨 이득은 그 교수 구조에 기대어 있었으며 도구 그 자체에는 기대지 않았고, 저자들은 줄어든 [[metacognition|자기 감시]]와 지름길 지향적 전략을 상존하는 위험으로 지목합니다.
 
 **GenAI 문법 교수는 논평이 아니라 수정을 통해 작동합니다.** 에티오피아 EFL 학생 88명을 대상으로 한 10주 준실험에서 초안–프롬프트–성찰–수정 주기가 문법(η² = 0.499)과 전반적 쓰기를 높였고, 프롬프트가 내용 되먹임을 금지했음에도 내용 점수가 올랐습니다([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]]).
-
 
 ## 언어 교수자를 위한 함의
 
@@ -101,63 +101,3 @@ Zhang, Aubrey, Wu, Chiu의 통제 연구 48편(N = 5196) 종합은 GenAI의 혜�
 - **"체화된 로봇 교사는 체화 덕분에 작동한다."** **RALL 연구 11편(N = 595)**의 메타분석은 L2 학습에 대한 큰 통합 효과(**g = 0.83**)와 **높은 이질성**을 발견했으며, 중요하게도 **상호작용** 수준의 특징만이 그것을 조절했습니다. 형태와 양태는 그렇지 않았으므로, 하드웨어가 활성 성분은 아닙니다.
 - **"AI가 생성한 평가 문항은 교사가 쓴 것보다 나쁘다."** **경험 많은 교사 20명이 평정한 EFL 평가 과제 52개**의 비교는 AI 생성 문항과 인간 개발 문항 사이에 **전반적으로 유의미한 품질 차이를 발견하지 못했으나**, 특정 차원에서는 갈렸습니다. 전반적 동등성과 특정 약점은 개선이나 결함과 다른 주장입니다.
 - **"LLM 피드백은 글쓰기 채점만 할 수 있다."** 담화 층위 시스템은 **텍스트를 채점하는 대신 결함에 이름을 붙임**으로써 더 나아갑니다. 문장 쌍 관계 분류가 논리적 도약과 빠진 연결 같은 **일관성 단절**을 국소화합니다. 유용한 산출물은 수치가 아니라 진단입니다.
-
-## 연결된 개념
-
-- [[eportfolio]]
-- [[writing-education]]
-
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## 연결된 문서
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 챗봇의 구술 능력 이득은 범위와 명료성에 집중된다
-- [[acoustic-lexical-native-language-identification-learners-2026]] — L1 식별에서 오디오가 제로샷 GPT-4o 전사 분류기를 이긴다 (Uluslu et al. 2026)
-- [[ai-speaking-practice-communicative-readiness-2026]] — 준비도이지 관찰된 수행이 아니다
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — GenAI 지원 사회적 주석에서의 인식 네트워크 분석
-- [[student-ai-interaction-consecutive-interpreting-2026]] — 컴퓨터 보조 순차 통역에서의 학생-AI 상호작용
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI 지원 일본어 학습에서의 심리 적응 프로파일과 전이
-- [[llm-agents-5e-esl-grammar-2026]] — ESL 문법 습득을 위한 5E 프레임워크의 LLM 에이전트(Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — L2 듣기 문항 생성을 위한 GPT 프롬프팅 대 미세 조정(Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — 영어 교수를 위한 BERT 담화 분류
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL에서의 AI 생성 대 인간 개발 평가 과제
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — 보이지 않는 것을 다스리기: 언어 교사 사이의 AI 리터러시
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI 강화 구현 로봇 보조 언어 학습에 대한 메타 분석
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — 대학 외국어 교육에서의 교사 설계 AI 교사: 자기결정 이론에 기반한 학습자 동기와 성찰적 학습 경험의 혼합 방법 연구
-- [[lukesova-clue-before-correction-2026]] — 수정 전 단서: 자율 언어 학습을 위한 ChatGPT
-- [[chatgpt-english-language-learning-malaysia]] — 영어 언어 학습에서의 학생 ChatGPT 경험
-- [[liu-emerging-tech-tefl-review-2026]] — EFL을 위한 신기술에 대한 메타 분석
-- [[wang-goal-setting-ai-engagement-2026]] — 목표 설정 이론: 교사 지원, 성취 목표, AI 지원 영어 학습에서의 참여(중국 학생 758명)
-- [[li-language-educators-genai-review-2026]] — GenAI와 함께하는 언어 교육자의 실천과 발달
-- [[asr-english-speaking-feedback-metacognition-2026]] — 대학 영어 말하기에서의 ASR 기술: 되먹임 내면화와 메타인지 전략
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 초등 L2 학습자를 위한 GenAI 지원 쓰기 프로그램(Lu 등 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: 교육 형평성을 향한 저비용 가정 언어 학습을 위한 로컬 우선 AI 에이전트 프레임워크
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — 화용적 맹목: AI 언어 산출물은 문법적으로 옳을 수 있으나 문화적으로 그르다
-- [[xian-process-visualization-feedback-news-translation-2026]] — 뉴스 번역 강좌에서 과정 피드백이 출처 조회를 높이고 기계 번역 사용을 줄였다
-- [[wordofa-genai-grammar-instruction-efl-2026]] — 생성형 AI 지원 문법 교수와 에티오피아 EFL 학습자의 자기효능감 및 메타언어적 인식
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — 3수준 메타 분석: GenAI는 균일한 개입이 아니라 되먹임과 학습자 주도 설계를 통해 작동한다(Zhang 등 2026)

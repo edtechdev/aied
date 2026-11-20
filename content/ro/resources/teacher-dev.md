@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,6 +48,3 @@ Profesori din K-12 care vor un instrument pentru o problemă anume, fără abona
 ## Note și precauții
 
 Ritmul este și argumentul, și riscul. Construcțiile de o zi vizează o problemă reală de clasă, nu o întrebare de cercetare, așa că nimic de aici nu poartă o evaluare, iar o afirmație despre ce face o aplicație ar trebui testată în clasă. Treizeci și două de depozite publice stau în organizația GitHub, în timp ce galeria listează 34, toate Apache-2.0, cu sursa disponibilă, așa că o aplicație poate fi citită și găzduită singur. Designul local-first este o afirmație de verificat pentru fiecare aplicație, iar un profesor ar trebui să confirme înainte de a pune în fața unei clase orice instrument destinat elevilor.
-
-## Concepte conexe
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -100,47 +102,3 @@ ai_assist:
 - **«Технічні знання про ШІ — це те, що викладачам потрібно найбільше.»** Серед **46 викладачів і 2 832 студентів** **педагогічні знання викладачів про ШІ** передбачали сприйняття студентами ШІ для суспільного блага. Педагогічні знання перевершили технічні, що перевертає те, куди йде більшість інвестицій у підготовку.
 - **«Головний внесок ШІ в освіті — інструкційний.»** **Огляд PRISMA 28 досліджень** виявив, що ШІ найчастіше посилював **інструкційне планування й проєктування оцінювання**; найясніший внесок — **зняття адміністративної роботи**, а не викладання. Справа, побудована на інструкційних здобутках, стоїть на слабшій гілці свідчень.
 - **«Викладання ШІ-грамотності автоматично переноситься в краще викладання.»** Трирівневий метааналіз **59 досліджень (172 розміри ефекту)** виявив, що **втручання, зосереджені на знаннях (g ≈ .97)**, чітко перевершили інші підходи в русі знань. Рух знань — виміряний результат; чи дійшов він до практики — наступне питання.
-
-## Пов’язані поняття
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Метафора й аналогія як техніка викладання
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Метод кейсів і контрастні випадки як техніки викладання
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — AI tools trained to follow pedagogical principles
-
-## Пов’язані статті
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
-- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
-- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
-- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
-- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
-- [[cognitive-distribution-student-genai-interaction-2026]] — Взаємодія студента й ШІ як змінний когнітивний розподіл, а не фіксована залежність (53,3% розширення)

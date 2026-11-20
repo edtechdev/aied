@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -106,33 +108,3 @@ AIはこの技法について3つのことを変えます。項目とルーブ�
 **「AIの[[feedback|フィードバックループ]]を加えれば、自己評価は自動的に改善する。」** フィードバックループは学生が比較する対象を変え、較正を改善することも、システムの判断に学生を固定することもあります。ここでの比較研究（**1年生の学部生118人、生成AI群56人とピア群62人**、1学期にわたる3回の循環）は、ループが働くのか社会的比較が働くのかを検証するために設計されており、答えは「ループだからループが働く」ではありません。
 
 **「自己評価は試験に代わるやさしい選択肢である。」** それは別の目標です。自己評価は自分の仕事を判断する調整の技能を育て、試験は判断される能力を測定します。一方を他方の代わりにすることは、遂行を評価する能力と遂行そのものを混同します。
-
-## 関連する概念
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## 関連する記事
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — 自己主導的な成長の枠組みの中心に置かれた自己評価(2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 発達的に段階分けされたAIリテラシーの教材。受容と妥当性の測定を伴う(2026)
-- [[chatgpt-critical-creative-thinking-review]] — AIのフィードバックをピア、教師、自己評価と三角測量すること(2026)
-- [[yasir-llm-tutoring-agents-2026]] — フィードバックがモデルの自己評価した推論の妥当性に依るべきでない理由(Yasirら2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 4年生から6年生のための検証された15項目のAIリテラシー自己評価質問紙。子どもの自己報告のメタ認知的限界を伴う(Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33件の教師のAIリテラシー道具のうち31件は自己報告、2件は知識を客観的にテスト、どれもパフォーマンス課題を用いない(Zainal, Mohd Matore & Maat 2026)

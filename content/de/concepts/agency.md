@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -139,70 +141,3 @@ Eine eng verwandte Rahmung ist **relationale epistemische Handlungsfähigkeit** 
 - **„Studierende üben Handlungsfähigkeit aus, wenn sie KI frei nutzen.“** Ein **14-Kategorien-Schema, das 6.788 ChatGPT-unterstützte Züge kodierte**, ordnete **59% der Züge von Siebtklässlerinnen und Siebtklässlern** Kategorien zu, die keine agentische Nutzung darstellen. Nutzungsvolumen und Handlungsfähigkeit sind verschiedene Maße.
 - **„Aktuelle Modelle unterstützen die Handlungsfähigkeit von Lernenden gut.“** **Über zehn Modelle benchmarkt ist die Stützung von Handlungsfähigkeit das, was sie nach dem Lernen am schlechtesten machen**: ImpactBench maß **„Agency & Purpose“ bei 56.0%** auf positiven Kriterien. Handlungsfähigkeit ist die Dimension, die KI-Systeme am schlechtesten handhaben, kein Nebenprodukt von Fähigkeit.
 - **„Vermittlung durch Lehrkräfte ist eine Einschränkung der Handlungsfähigkeit.“** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] begleitete **zehn Mathematiklehrkräfte der Sekundarstufe über eine achtwöchige ChatGPT-4-Intervention**, und die Vermittlung ist der Mechanismus, nicht das Hindernis.
-
-## Verbundene Konzepte
-- [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[learner-identity]] — sich entwickelnde fachliche, professionelle, kreative und akademische Identitäten der Lernenden
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — gemeinsame Richtung der KI-vermittelten Interaktion
-- [[agentic-ai]] — autonome KI, die Handlungsfähigkeit in Gruppen umverteilen kann
-- [[chemistry-education]] — Chemieunterricht und KI: Labore, formatives Assessment, Grenzen von LLMs, Philosophie des Experimentierens
-- [[social-emotional-learning]] — Sozial-emotionales Lernen
-- [[cognitive-surrender]]
-
-## Verbundene Artikel
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Umfrage unter US-Lehrkräften und Schulleitungen zu Abdeckung durch KI-Politik, Handlungsfähigkeit und fünf Unterrichtsmustern (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Eine helfende Hand oder ein dominanter Partner? Individuelle Wahrnehmungen von Abhängigkeit von GenAI und menschlicher Handlungsfähigkeit im kollaborativen Lernen
-- [[yan-agentivism-learning-theory-ai-2026]] — Eine Mittelfeld-Lerntheorie für Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan und Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Handlungsfähigkeit der Lernenden als emergente Qualität der Koordination von Domänen-, KI- und metakognitiver Kompetenz, und nicht als eigenständiger Knoten (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — Zugang zu Wahlmöglichkeiten versus vollzogene Handlungsfähigkeit: Regler, ein optionaler KI-Agent und Lernen in einer Schwarm-Simulation
-- [[guarded-adoption-genai-higher-education-2026]] — Gebremste Übernahme generativer KI in der Hochschulbildung
-- [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudvolles Assessment und Third Space
-- [[ai-mediated-research-agency-formation-2026]] — KI-vermittelte Formierung von Handlungsfähigkeit in der Forschung in der frühen wissenschaftlichen Ausbildung
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ebenensensitive kognitive Entlastung im GenAI-unterstützten Schreiben (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Schulische KI-Bildung verengt psychologische, aber nicht kognitive Bereitschaftslücken
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relationale epistemische Handlungsfähigkeit und sechs Kriterien, die produktive Verlässlichkeit von schädlicher Abhängigkeit trennen (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — KI-gestützte pädagogische Begleitung, die STEM-Identität stützt
-- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: kreative Identität bei der Nutzung von Text-zu-Bild-GenAI
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergente Handlungsfähigkeit der Lernenden in impliziter Mensch-KI-Zusammenarbeit: unterstützende versus konträre Personas
-- [[de-barba-srl-genai-2026]] — Handlungsfähigkeit der Lernenden über Ebenen hinweg: Regulation, Integration, Positionierung
-- [[mishra-control-vs-agency-history-2025]] — Kontrolle gegen Handlungsfähigkeit als wesentliche Spannung in der Geschichte von KI in der Bildung
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[human-autonomy-agency-hri-review-2025]] — Menschliche Autonomie und Handlungsfähigkeit in der Mensch-Roboter-Interaktion
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Wissensbasiertes Design für generative soziale Roboter
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Handlungsfähigkeit von Schülerinnen und Schülern in lernrelevanter Arbeit stützen
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: wie KI menschliches Denken umformt (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Handlungsfähigkeit angehender Lehrkräfte während GenAI-Interaktionen im Design für Lernen (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emanzipatorische Vision: Handlungsfähigkeit als Nullsummenspiel gegen Handlungsfähigkeit des Werkzeugs
-- [[chen-zou-genai-group-assessment-agency-2026]] — Drei Muster von Handlungsfähigkeit in GenAI-vermitteltem Gruppen-Assessment: verstärkt, begrenzt und nicht vollzogen
-- [[ai-integrated-teaching-identity-tensions]] — Prinzipielle Selektivität als Handlungsfähigkeit von Lehrenden im KI-integrierten Unterricht (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Verweigerung als diagnostischer Beleg: Nicht-Nutzung als situierte Beziehung und das ungleich verteilte Recht, KI abzulehnen (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemische Autorität, die durch Unterbrechung, Korrektur und Verweigerung geltend gemacht wird statt durch maximale Werkzeugnutzung
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Handlungsfähigkeit, epistemischer Verantwortung und Rechenschaftspflicht in der Forschung zu generativer KI in der Hochschulbildung
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen zu kompetenzerhaltender Verlässlichkeit in reflektierter KI-Nutzung
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetenz gegen Handlungsfähigkeit als Zwecke von KI-Bildung, und die Heuristik informierter KI-Handlungsfähigkeit (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Vermittlung durch Lehrende als Bedingung, die GenAI zu einem Artefakt für Kritik macht statt zu einer Autorität (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Handlungsfähigkeit von Lehrenden als durch Design mobilisierte Ressource, wobei Bereitschaft an Artefakten gemessen wird und nicht an Nutzung (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Ausbalancieren von Handlungsfähigkeit von Lehrenden und Lernenden in Co-Orchestrierungswerkzeugen für dynamische Paarbildung in Echtzeit (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix und Ecological Authority Integration Model: vier Konfigurationen davon, wer deutet, und die ökologischen Schichten, die sie verschieben
-- [[gyekye-selves-apprenticeship-2026]] — Studierende of Color in Ausbildungsprogrammen verfassten sich durch KI in Verweigerung, Aushandlung und Anerkennung („kulturelle Flachheit“) selbst; Institutional AI Literacy und Recognition Bandwidth
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Geteilte epistemische Handlungsfähigkeit in 6.788 ChatGPT-unterstützten Zügen im naturwissenschaftlichen Schreiben in der Sekundarstufe (Chang et al
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Wahrgenommenes Eigentum sank nur dort, wo der ganze Essay delegiert wurde; Planende und Überprüfende glichen Nichtnutzenden (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Wer denkt hier? Charakterisierung menschlicher Handlungsfähigkeit in KI-Interaktionen von Erstsemester-Studierenden
-

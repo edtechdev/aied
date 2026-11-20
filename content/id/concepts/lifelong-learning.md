@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -73,30 +75,3 @@ Pembelajaran sepanjang hayat terhubung dengan [[adult-learning]] dan [[professio
 
 - Laporkan efek ketenagakerjaan per kelompok usia, bukan sebagai angka perpindahan agregat; kontras 16% versus 8% itulah temuannya.
 - Pelajari di mana pekerjaan formatif menghilang, sebab di situlah mekanisme yang mengubah keuntungan kini menjadi kekurangan nanti.
-
-## Konsep terkait
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Artikel terkait
-
-- [[ai-adult-learning-guidelines-dis2026]] — Pedoman merancang teknologi AI yang mendukung pembelajaran orang dewasa
-- [[ai-guided-learning-audiovideo-2026]] — Pembelajaran terpandu AI untuk perolehan keterampilan
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Memikirkan ulang pendidikan tinggi dengan Learnity graph
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogi dan delegasi kognitif dalam pembelajaran bermediasi AI
-- [[ai-lifelong-learning-policy]] — AI dalam pembelajaran sepanjang hayat: peluang dan tantangan kebijakan pendidikan orang dewasa
-- [[community-centered-ai-education-adults]] — Merancang bersama pendidikan AI berbasis komunitas untuk orang dewasa
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi milik bersama kognitif: AI dan regenerasi keahlian
-- [[kim-ai-andragogy-2026]] — Perspektif pembelajar dewasa tentang AI sebagai agen pembelajaran kolaboratif dalam andragogi (Kim et al. 2026)

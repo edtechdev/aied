@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -102,66 +104,3 @@ Una terza via irrobustisce il compito stesso: rendere i prompt come immagini per
 - **"L'adozione istituzionale dell'IA è maturata."** Lo **strato simbolico è saturo mentre quello strutturale è esile**: **il 100% ha un gruppo di lavoro sull'IA e un corso di laurea magistrale in IA, ma solo il 12% ha una leadership IA a livello dirigenziale** e solo il 5% richiede un ulteriore passo istituzionale. Gli annunci hanno superato le strutture di un ordine di grandezza.
 - **"Il prestigio predice la maturità istituzionale nell'IA."** L'istituzionalizzazione si è rivelata **indipendente dal prestigio (correlazione di rango r ≈ 0,04)**, con una significativa **variazione regionale (ANOVA F = 5,86, p < .001)**. La reputazione non è un proxy della prontezza, e la geografia predice più dello status.
 - **"Come l'IA distribuisce il lavoro epistemico è uniforme tra le istituzioni."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn e Rehm (2026)]] hanno classificato **102 studi empirici sull'istruzione superiore** in base a come il lavoro epistemico era distribuito, e la variazione è il risultato anziché un dettaglio.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Il livello in cui è stata generata la maggior parte dell'evidenza su sequenze testate
-- [[online-teaching-and-learning]] — Insegnamento e apprendimento online
-- [[generative-ai]] — Tecnologie e modelli di IA generativa
-- [[llm]] — Large language model
-- [[student-experience]] — Esperienza studentesca con l'IA nell'istruzione superiore
-- [[educational-development]] — Sviluppo professionale del corpo docente e prontezza all'IA
-- [[academic-integrity]] — Integrità accademica in un corpo studentesco capace di usare l'IA
-- [[ai-literacy]] — Alfabetizzazione all'IA per studenti e corpo docente
-- [[assessment-validity]] — Validità della valutazione nell'era della GenAI
-- [[educational-policy-ai]] — Politiche educative sull'IA
-- [[regulation]] — Regolamentazione dell'IA in educazione
-- [[remote-proctoring]] — Remote proctoring e integrità automatizzata degli esami
-- [[self-directed-learning]] — Apprendimento autodiretto con l'IA
-- [[problem-based-learning]] — Apprendimento basato su problemi con l'IA
-- [[teacher-role]] — Ruolo docente in evoluzione nelle classi con IA
-- [[stakeholders]] — Ombrello: persone e pubblici nell'educazione all'IA (chi apprende, insegnanti, progettisti, amministratori, policymaker)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — orientamento, outreach, segnalazione e allocazione del supporto — il lato istituzionale del successo studentesco
-
-## Articoli collegati
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): AI Institutionalization Index across 100 top-ranked universities; discourse outruns structure, adoption independent of prestige
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
-- [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
-- [[institutional-change-framework-ai]] — Institutional Change in the Age of AI
-- [[genai-availability-grades-satisfaction]] — GenAI Availability and Student Satisfaction
-- [[ai-assessment-scale-reform]] — AI Assessment Scale and Reform
-- [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
-- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI in higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher ed
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — AI in student feedback: ethics
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[genai-student-experiences-uk-he-survey-2026]] — GenAI experiences among UK higher-education students (survey)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
-- [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students
-- [[ai-uk-higher-education-policy-2026]] — UK higher-education AI policy
-- [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review mapping AI integration in higher ed via FACETS + SAMR frameworks (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Postgraduate researchers' GenAI use in the research workflow and AI-literacy-oriented guidelines (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — Engagement intensity as a learner-modeling signal for adaptive AI ethics instruction (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — AI-assisted writing shifts research teams toward smaller, junior-leaner, highly cited collaborations (Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Assistant and Enabler forms dominate higher-education GenAI research; the marginal entanglement types stay rare for institutional rather than technical reasons (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Student-side map of AI deployment across admissions, financial aid, student services and education delivery, with a four-question procurement screen (Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — Perturbed-image assignments raised LLM completion failure from 7.4% to 55.6%: content design as an integrity route
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI glasses and hearing aids defeat an in-room exam ban: dual transparency with no gaze or posture cue
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — A functional-domain taxonomy of higher-education AI applications, 58.4% of which fall outside the 2019 categories
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Write method-specific guidance, not one campus-wide AI policy
-- [[ai-literacy-determinants-university-students-2026]] — Perceived resources and teacher support explained 29% of AI-literacy variance; demographics did not
-- [[faculty-ai-well-being-social-supports-2026]] — Fund AI literacy, not just tool confidence, for faculty

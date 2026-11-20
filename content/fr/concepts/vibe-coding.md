@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -99,30 +101,3 @@ Une étude de cas au niveau du corps enseignant fournit la couche organisationne
 
 - Rapportez la condition de vibe coding (pur ou à code visible) avec les résultats, et utilisez des tâches orientées interface graphique validées par des experts plutôt que le succès [[self-report-measures|auto-déclaré]], afin que les résultats soient comparables d'une étude à l'autre.
 - Mesurez la diversité des artefacts, et pas seulement leur nombre ou celui des constructeurs, si l'argument de l'accès est mis à l'épreuve.
-
-## Concepts liés
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Articles liés
-
-- [[vibe-coding-writing-cs-achievement-2026]] — La réussite en informatique et les compétences rédactionnelles prédisent la maîtrise du vibe coding (étude empirique CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Un cadre d'orientation pour les enseignants du primaire et du secondaire qui créent des technologies d'apprentissage propulsées par l'IA par le vibe coding
-- [[vibe-coding-programming-process-visualizer]] — De l'idée à la classe en quelques jours : créer un visualiseur de processus de programmation à partir des journaux d'activité de l'EDI par le « vibe coding »
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Le vibe coding a produit deux simulations d'ingénierie en quelques heures ; diagnostiquer une erreur de protocole exigeait encore l'enseignant
-- [[prompt-problems-nl-programming-mistakes]] — Comprendre les perceptions, les erreurs et les approches de débogage des étudiants dans des tâches de programmation en langage naturel
-- [[code-to-learn-genai-artifact-construction-2026]] — Coder pour apprendre avec l'IA générative : un cadre théoriquement fondé pour la construction d'artefacts dans l'enseignement secondaire supérieur
-- [[reshaping-cs-education-genai]] — Refonte de l'informatique de premier cycle pour l'IA générative
-- [[flowcode-ai-creative-coding]] — Flowcode : un environnement de programmation propulsé par l'IA pour étayer l'itération dans l'enseignement de la programmation créative
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — L'intrapreneuriat en IA : des enseignants qui construisent leurs propres outils, et les leviers organisationnels qui décident si l'élan survit (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Un outil, un seul goût ? Comment le vibe coding échange la diversité collective contre la créativité individuelle

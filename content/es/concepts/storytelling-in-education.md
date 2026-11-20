@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -57,22 +59,3 @@ La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity
 **«La generación con IA hace que la narrativa esté disponible para estudiantes que no sabían escribir.»** Hace disponible *producir un artefacto escrito*, que es un beneficio distinto. La narración oral, el dibujo y el dictado son las vías establecidas hacia el mismo objetivo, y preservan la autoría que la generación elimina.
 
 **«El valor educativo de una historia está en el resultado pulido.»** Está en la construcción: la selección y el orden que realiza quien cuenta. Una historia pulida que el estudiante no estructuró ha demostrado la competencia del modelo y no la de quien aprende.
-
-## Conceptos conectados
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Artículos conectados
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación (White y Wu)
-- [[ai-generated-interactive-fiction-education-2026]] — La ficción interactiva generada por IA: la coherencia como dimensión débil en un piloto con 22 estudiantes
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — Construcción de libros ilustrados en preescolar, donde la adecuación a la historia y la verosimilitud se convirtieron en criterios para juzgar imágenes de IA (Konca y Yigit-Gencten, 2026)

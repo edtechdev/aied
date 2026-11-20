@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -87,32 +89,3 @@ ai_assist:
 - ارفع جودة تصميم المجال لا حجمه؛ فمعدّل 7% للجودة العالية هو القيد المقيّد لما يمكن استنتاجه.
 
 - **التغذية الراجعة الحوارية في محاكاة ترفع الحمل المعرفي المُلائم دون تخفيض الحمل الدخيل.** في لعبة محاكاة أعمال استمرّت خمسة أسابيع مع **234 طالبًا**، أفاد المستخدمون المنتظمون لروبوت محادثة للتغذية الراجعة قائم على GPT-4o بـ**حجم معرفي مُلائم أعلى بدرجة معتبرة** من المستخدمين الذين أُتيح لهم الوصول دون أن يشاركوا (β = −.468، p < .001) ومن الضابط ذي التغذية الراجعة الثابتة (β = −.253، p = .028) — بينما **لم يُظهر الحمل الدخيل أثرًا** في أي من المواصفتين (F(1, 219) = 0.499، p = .481). وتراجع الحملان **عبر الأسابيع الخمسة** (الدخيل β = −.388، p < .001)، وهو أثر جِدّة مقيس على الحمل المعرفي لا على الانخراط ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]). ونقطة التصميم أن التغذية الراجعة حملت [[personalized-learning|التخصيص]] والتأشير والتقطيع وبنية التغذية الأمامية عبر 19 مؤشرًا ملموسًا — فواجهة روبوت المحادثة وحدها ليست التدخّل.
-
-## المفاهيم المتصلة
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — شامل: أصول التدريس واستراتيجيات التعليم في تعليم الذكاء الاصطناعي
-- [[virtual-and-augmented-reality]] — يتقاطع التدريب الغامر والمُلعَّب في التصميم والأدلة
-
-## المقالات المتصلة
-- [[karampa-students-game-designers-ai-literacy-2026]] — طلاب ابتدائي يصمّمون لعبة لوحية هروب؛ ثقافة الذكاء الاصطناعي ترتفع داخل مختبر مقرر إلكتروني واحد
-- [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
-
-- [[xie-genai-mystery-game-legal-education-2026]] — لعبة أدوار غامضة من تأليف الذكاء الاصطناعي التوليدي مقابل المحاضرة في التعليم القانوني (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — تصميم وتحقق أولي من بيئة تعلّم قائمة على الألعاب معزّزة بالذكاء الاصطناعي للتفكير الحسابي

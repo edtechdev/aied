@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -64,7 +66,6 @@ ai_assist:
 
 - **أمانة الكيانات في نصوص النسخ الآلي مسألة منفصلة عن الدقة المعجمية.** بمعايرة خمسة أنظمة تعرّف على الكلام مقابل نص مرجعي بشري، يُبلّغ [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] عن أول دليل في قاعدة المعارف على أمانة الكيانات في النسخ الآلي والتعرّف على الكيانات المسماة: فتراوحت معدلات خطأ الكلمات من 2.43% (TurboScribe) إلى 15.32% (Vosk)، في حين بلغت دقة ترميز نوع الكيان الذهبي بسبع فئات 0.805 لدى GPT-5.5 (κ = .726) مقابل 0.634 لدى spaCy (κ = .488). ولا يستطيع معدل خطأ الكلمات المجمَّع وحده أن يشهد بأن بنية الكيانات نجت من النسخ.
 
-
 ### الارتباط بالتدريس والقياس
 
 تُسنِد معالجة اللغة الطبيعية التعليمية كلاً من تحليل لغة المتعلّم ([[student-modeling]]، [[knowledge-tracing]]) وتوليد المحتوى التعليمي التكيفي ([[intelligent-tutoring]]، [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] يُظهر توليد المحتوى المدفوع بمعالجة اللغة الطبيعية للتعلم، في حين يضع [[zerkouk-comprehensive-review-its-2025]] معالجة اللغة الطبيعية داخل مناظر [[intelligent-tutoring]] الأوسع. مع نمو التحليل القائم على النماذج اللغوية الكبيرة، تُهم أطر [[rct]] و[[research-methods-aied]] للتحقق من أن البصائر المستخلصة من معالجة اللغة الطبيعية تُحسّن التعلم حقاً.
@@ -78,38 +79,3 @@ ai_assist:
 - **«التشابه الدلالي يمكن أن يفحص مواءمة المنهج.»** فبفحص **3,837 زوجًا من الأهداف والملخّصات في طبّ الأسنان**، حكم الاسترجاع بالتضمينات مع فحص استلزام لغوي بأن **22.9% من البنود** مواءَمة — فالتشابه الدلالي **إشارة ضعيفة** للمواءمة. فالتطابق الموضوعي الطليق والتطابق الحقيقي مع هدف تعلّمي علاقتان مختلفتان.
 - **«تصنيف على مستوى القول هو الوحدة الطبيعية.»** **نمذجة الدرس كاملًا تتفوق على التصنيف على مستوى القول**: فتقويم النصوص الكاملة بدل الأقوال المفردة **رفع كشف سلسلة الاستدلال 14.2 نقطة مئوية**. فالسياق عبر الدرس يحمل معلومات يهدمها أي دور واحد.
 - **«توسيع معالجة اللغة الطبيعية على تعليقات التقويم يُنتج أثرًا.»** وجدت مراجعة نطاق وخريطة أدلة وفق PRISMA-ScR لـ**421 دراسة** (2015-2026) تُطبّق معالجة اللغة الطبيعية على تقويم الطلاب المفتوح للتدريس أن التوسّع جرى **دون بلوغ الاستخدام**. فحجم مخرَج الأساليب ليس تبنّيًا، والفجوة في خطوة النشر لا في النمذجة.
-
-## المفاهيم المرتبطة
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — مظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتية، وRAG، والوكالية)
-
-## المقالات المرتبطة
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — عناقيد تضمينات تنظّم حسب الصياغة لا حسب الفيزياء
-- [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) codes teachers' content and pedagogical content knowledge; classical encoders and naive prompting fall short on PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
-- [[nlp-reading-lists-dental-education-2026]] — معالجة اللغة الطبيعية لمواءمة القراءات مع أهداف التعلّم وتقييم توازن الموضوعات في تعليم طبّ الأسنان
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: مجموعة بيانات لأوراق الإجابات المكتوبة بخطّ اليد من أجل تحليل مستندات هجينة ضوضائية

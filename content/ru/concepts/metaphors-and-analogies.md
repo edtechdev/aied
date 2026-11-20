@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -120,36 +122,3 @@ ai_assist:
 Это не делает работу бесполезной. Это делает утверждения уместно скромными. Выявление метафор может раскрыть допущения, которые опросы упускают. Критика аналогий может сделать структурное понимание видимым. Хорошо выбранная метафора может дать классу общий объект для спора. Но поле всё ещё нуждается в исследованиях, которые сравнивают обучение на основе метафор с обычным обучением, измеряют перенос, а не припоминание метафоры, и проверяют, переносится ли подход через культуры и дисциплины.
 
 Риск переоценки реален в обе стороны. Преподаватель, который трактует метафору как полное объяснение, может установить заблуждение. Исследователь, который трактует метафору как простое украшение, может упустить механизм, через который студенты строят или не строят мысленную модель. Продуктивная позиция — трактовать метафору как спроектированную, частичную и критикуемую репрезентацию и изучать, что учащиеся с ней делают.
-
-## Связанные понятия
-
-- [[ai-literacy]] — зонтик для критической ИИ-грамотности и обучения на основе метафор.
-- [[critical-thinking]] — критика аналогий как форма структурного рассуждения.
-- [[misconceptions]] — ошибочные аналогии как источник устойчивых заблуждений.
-- [[student-ai-interaction]] — как студенты интерпретируют и аудируют объяснения ИИ.
-- [[pedagogical-agent]] — ИИ-тьюторы, генерирующие объяснения или аналогии.
-- [[learning-design]] — отбор и секвенирование материалов на основе аналогий.
-- [[educational-development]] — выявление метафор в развитии преподавателей.
-- [[engineering-education]] — метафоры преподавателей и студентов в инженерии.
-- [[cs-education]] — использование и критика аналогий в образовании в области вычислений.
-- [[cognitive-offloading]] — метафоры инструмента и ассистента и их риски.
-- [[trust-calibration]] — антропоморфные роли и неуместное доверие.
-- [[equity-in-ai-education]] — чьи исходные области считаются знакомыми.
-- [[teacher-role]] — суждение преподавателя об объяснениях, сгенерированных ИИ.
-- [[explainable-ai]] — объяснение системы против педагогической аналогии.
-- [[student-engagement]] — эффекты вовлечённости от персонализированных аналогий.
-- [[higher-ed]] — условие большинства исследований в этом кластере.
-
-## Связанные статьи
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Четыре метафоры и критерии для обучения критической ИИ-грамотности
-- [[student-reception-genai-analogies-computing-2026]] — Студенты аудируют аналогии, сгенерированные генеративным ИИ, и чинят сломанные отображения
-- [[fear-awe-genai-metaphor-workshops-2025]] — Мастерские по анализу метафор со студентами, академическими работниками и сотрудниками
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Метафоры преподавателей инженерии конструируют и ограничивают понимание ИИ
-- [[genai-professionalization-metaphors-2026]] — Метафорические концептуализации генеративного ИИ и профессионального обучения у студентов
-- [[thermomix-genai-education-analogy-2026]] — Аналогия с кухонным прибором для делегирования и обучения с ИИ
-- [[anvil-ai-educational-animations]] — Сгенерированные ИИ аналогии и учебные анимации для вычислений
-- [[ai-engineering-education-balancing-act]] — Метафоры «оракула» и «тьютора» у студентов превышают возможности LLM
-- [[code-anchor-multi-view-visualization]] — Метафорические визуальные подпорки и их проблема легитимности
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Метафора «торгового автомата с обратной связью» у студента как свидетельство грамотности
-- [[daoism-ai-education-philosophy-2026]] — «Чжэньжэнь» как контр-метафора для ИИ в образовании

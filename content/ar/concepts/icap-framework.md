@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -101,27 +103,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«مدرّس الذكاء الاصطناعي يُنتج انخراطًا تفاعليًا تلقائيًا لأنه يتحاور.»** الحوار وسيط لا نمط. فحوارٌ يقدّم فيه النظام كل مساهمة جوهرية هو انخراط سلبي لمتعلّم يرتدي واجهة تفاعلية، وهو الخلط نفسه الذي توثّقه [[student-engagement|أدبيات المشاركة]] بين النشاط السلوكي والاستثمار المعرفي.
 
 **«الأنماط الأعلى في ICAP أفضل دائمًا.»** إنها أعلى كلفة، والترتيب يتعلق بالتعلّم لكل وحدة من المعالجة المعنية لا بما ينبغي أن يستهدفه الدرس دائمًا. فالطلاقة الأساسية قد تتطلب تكرارًا نشطًا قبل أن يصير العمل البنّاء ممكنًا؛ والخطأ هو الاستقرار هناك لا المرور به.
-
-## المفاهيم المتصلة
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## المقالات المتصلة
-
-- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement with human vs. LLM annotation
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
-- [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
-- [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
-- [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction

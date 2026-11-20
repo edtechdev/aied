@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -82,7 +84,6 @@ Kuongeza uwezo wa familia ya [[tpack|TPACK]] kando ya mifumo ya imani kama Nadha
 
 - **[[explainable-ai|Uelewevu]] na umuhimu wa taaluma kama mifumo ya kukubalika kwa walimu:** Kwa kurekebisha nadharia ya uaminifu kwa otomatiki kuendana na kukubalika kwa walimu kwa mapendekeo ya AI, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] walipata kuwa uelewevu (unaoinuliwa na AI inayoeleweka) ulihusiana kwa chanya na uaminifu na kukubalika kwa zana ya kupanga vikundi ya AI, na kuwa maelezo yanayosukumwa na taaluma katika lugha ya [[curriculum-design|mtaala]] yalifanya vizuri zaidi kuliko yale yanayosukumwa na data ya umuhimu wa kipengele katika zote tatu. Kukubalika pia kulisukumwa na upatanishaji wa [[pedagogy|kibunifu]] na uwezo wa kupunguza mzigo wa kazi — mambo ya hali zaidi ya uaminifu ambayo dhana za kawaida za TAM/UTAUT mara chache huzicamata, zikithibitisha hoja ya kupanua miundo ya kupokea na muktadha na uelewevu.
 
-
 Katika utafiti wa mahojiano ya mawimbi mawili kwa wataalam 22, kujifunza zaidi kuhusu AI kuliwafanya wengine kuwa waangalifu zaidi badala ya kukubali zaidi, kikipindua mwelekeo unaodhaniwa wa mfano kutoka uzoefu hadi urahisi wa matumizi ([[stalboerger-faculty-perceptions-2026|Stalboerger na wenzake, 2026]]).
 
 - **Kukubalika kupimwa katika kiwango cha nyenzo za kufundisha (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang na Wu (2026)]] waliweka Matarajio ya Utendaji, Matarajio ya Juhudi, Kuchezesha Kunachohisiwa, na Nia ya Tabia katika vitabu viwili vya ujuzi wa AI vilivyo na kizingiti cha umri vilivyotumiwa na wanafunzi 794 wa [[k-12]] na walimu 37, wakithibitisha muundo wa vipengele vinne kwa EFA na CFA za sampuli mbili na kusaidia kutokuwa na mabadiliko ya upimaji katika matoleo ya 9-12 na 13-18. Wanafunzi wadogo waliripoti viwango vya juu zaidi katika dhana zote nne, na kuchezesha kulikuwa na mahusiano makubwa zaidi na nia katika makundi yote mawili — huku koeffisheni ya kuchezesha-hadi-nia iliyosawazwa ikizidi 1.00 katika kikundi cha wanafunzi wadogo na HTMT ya .950 kati ya dhana hizo mbili. Waandishi husoma hilo kama mwingiliano wa dhana na uwezekano wa kuzuia badala ya athari kubwa, kikumbusho chenye manufaa kwamba vyombo vya kukubalika vilivyotumika kwa nyenzo vinaweza kuzalisha vipengele vilivyounganishwa kwa kimaana ambavyo hupata ugumu katika tafsiri ya kimuundo.
@@ -99,7 +100,6 @@ Kiungo cha hatari na matumizi pia kinategemea mfumo: katika mifumo 49 ya TALIS 2
 
 **Matarajio ya utendaji yanaweza kubeba uhusiano ambao utafiti wa kupokea huusoma kama nia ya kutumia.** Katika [[kim-overtrust-ai-literacy-2026|Kim, Kim na Zhang (2026)]] matarajio ya utendaji yalitabiri kuzidi kwa imani kwa AI kwa B = 0.6107 na yalikuwa mpatanishi wa kwanza ambao uwezo binafsi, motisha ya ndani na [[motivation|motisha ya nje]] zilifikia kuzidi kwa imani. Njia isiyo ya moja kwa moja ya matarajio pekee ilikuwa chanya kwa vitabiri vyote vitatu, 0.1355 (95% CI [0.0542, 0.2330]) kwa uwezo binafsi, hivyo matarajio hayakuwa yanatabiri tu iwapo wanafunzi wangeitumia zana.
 
-
 Upanuzi wa hivi karibuni unapindua mwelekeo wa kawaida, ukiweka imani ya [[discipline-specific-aied|taaluma mahususi]] za motisha mahususi kwa somo juu ya mitazamo ya TAM badala ya kando yao. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] wanaripoti thamani ya manufaa ikitabiri ufaafu unaohisiwa kwa β = 0.43 na matarajio ya mafanikio yakitabiri urahisi wa matumizi kwa β = 0.39, wakati njia za msingi za TAM zikipungua lakini zikibaki na umuhimu.
 
 **Kufaa kwa kazi na teknolojia kama njia sambamba, na ulazima kama swali tofauti.** Upanuzi mwingi juu unaongeza vipimo *ndani* ya mfano wa imani. Mfumo mmoja wa ndugu ambao masudio ya TAM mara chache huubeba ni Kufaa kwa Kazi na Teknolojia, unaouliza iwapo uwezo wa chombo unalingana na mahitaji ya kazi mahususi. [[chu-design-students-ai-agent-tam-ttf-2026|Chu na Liu (2026)]] waliunganisha hizi mbili kwa wanafunzi 405 wa uzamili wa ubuni katika vyuo vikuu vya China, na kufaa kulifanya kazi kama njia ya pili kwenye mtazamo badala ya kiini cha manufaa.
@@ -112,63 +112,8 @@ Nyongeza ya kimbinu ndiyo sehemu inayohamishika zaidi. Mtandao wa perceptron wa 
 
 Uchanganuzi wa sharti la lazima kisha ulitenganisha ushawishi na sharti. Urahisi wa matumizi, kitabiri kilichopangwa juu, ulishindwa kabisa (d = 0, p = 0.592). Manufaa yalikuwa ya lazima lakini madogo (d = 0.027, p = 0.011). Waandishi wanasoma mgawanyiko huo kama tahadhari dhidi ya kuchukulia mgawo wa njia kama sakafu. Mgawo wenye nguvu unasema kitengo cha urahisi hununua nia kwa wastani; ni ulazima pekee unaosema iwapo imani nyingine inaweza kukosekana.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Miundo ya TAM inaeleza upitishaji."** [[socio-cognitive-genai-adoption-engineering-2026|Asag na Al Mamun]] waliunganisha TAM na UTAUT kwa wanafunzi wa uhandisi nchini Bangladesh na wakaeleza **64% ya** tofauti. Kubwa na kutokamilika kwa wakati mmoja: takriban theluthi moja ya kile kinachosukuma upitishaji kiko nje ya miundo ya kawaida ya kukubalika.
 - **"Miundo ya kukubalika haihitaji marekebisho ya kikoa."** Kuongeza **uhuru bandia unaohisiwa**, yaani jinsi walimu wanavyoamini GenAI inaweza kutekeleza kazi ya kufundisha iliyopewa kwa uhuru, na **kuepuka hatari** kwenye miundo ya kawaida kulibadilisha mfano kwa kiasi kikubwa. Miundo ya awali ilibuniwa kwa zana zisizo na wakala, na GenAI ina wakala unaohisiwa.
 - **"Kadirio la upitishaji la meta-analysis linaelezea idadi yoyote."** [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis ya wanafunzi wa elimu ya juu]] ni kadirio la ngazi ya idadi; matokeo ya uhandisi yanayoeleza 64% ni idadi mahususi. Kuhamisha moja kwenye lingine hudhani uthabiti ambao ushahidi hauthibitishi.
-
-## Dhana Zilizounganishwa
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Makala Zilizounganishwa
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI kama \"rafiki-mtesi\": uhuru bandia na kupuuza hatari yanapanua TAM kwa walimu (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Uzoefu wa AI katika uuguzi; upanuzi wa kisaikolojia-kijamii wa TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Wahusika wa kupokea GenAI kupitia makundi
-- [[tian-genai-learning-adoption-pathways-2026]] — Njia za uwiano na za kutokuwiano katika kupokea GenAI (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Ushirikiano tofauti wa GenAI kulingana na jinsia na motisha
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Mfano wa TOE + DOI wa kupokea AI wa shirika katika elimu ya juu
-- [[tam-critical-use-genai-engineering-2026]] — TAM iliyopanuliwa na matumizi mahususi kwa wanafunzi wa uhandisi/informatics
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Mfano mmoja wa kisosholojia (TAM + UTAUT) kwa elimu ya uhandisi
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Kutoka wasiwasi wa AI hadi udhibiti wa kimkakati
-- [[genai-reliance-types-scale]] — Skela ya aina za kutegemea GenAI
-- [[llm-reliance-types-undergrad]] — Aina za kutegemea LLM miongoni mwa wanafunzi wa chuo kikuu
-- [[acceptance-ai-english-tools-2026]] — Kukubalika kwa zana za Kiingereza za AI
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Vigezo vya tabia na vya maadili vya kupokea ChatGPT kwa wanafunzi
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT na motisha ya chatbot ya walimu
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB kwa walimu wa sayansi wa kabla ya huduma nchini Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Wasifu wa kukubalika ChatGPT kwa walimu wa kabla ya huduma (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis ya vipengele vya kupokea AI; inapinga TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — Vigezo vya ML/SHAP vya matumizi ya ChatGPT ya baadaye katika elimu ya juu
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — UTAUT2 iliyoongezwa na XAI: tabia kama mtabiri mwenye nguvu zaidi, wasifu wanne wa kupokea (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Mfano wa PE/EE/kuchezesha/maelezi ya kiwango cha nyenzo kwa vitabu vya ujuzi wa AI vilivyo na kizingiti cha umri, na mwingiliko wa dhana ya kuchezesha-maelezi ulioripotiwa
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT zilizounganishwa katika TAM/UTAUT2: athari za hatari maalum za kipengele na zisizo za mstari juu ya faida za GenAI zinazotambatika (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Mbadala uliopangwa wa kubandika uwezo wa TPACK juu ya miundo ya kupokea ya Nadharia ya Kitendo chenye Mpango
-
-- [[pinedo-genai-adoption-marketing-students-2026]] — UTAUT2 kwa wanafunzi 310 wa masoko: tabia inabeba nia na matumizi, matarajio yanakaa kimya
-- [[stalboerger-faculty-perceptions-2026]] — Wataalam 22: kujifunza zaidi kuhusu AI kunaweza kuongeza uangalifu badala ya kukubali
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Ujuzi wa AI kama mpatanishi kati ya uwezo binafsi na kukubalika kwa wanafunzi 622
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — Kufaa kwa kazi na teknolojia kama njia ya pili kwenye mtazamo kwa wanafunzi 405 wa ubuni
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Sifa za mfumo juu ya imani: ubinafsishaji, mwingiliano, akili na ukamilifu wa maudhui
-- [[kim-overtrust-ai-literacy-2026]] — Matarajio ya utendaji yanatabiri kuzidi kwa imani, si nia ya kutumia tu
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Wasifu wa TALIS 2024 unaozingatia mtu wa ufaafu na hatari ya AI inayotambatika katika mifumo 49
-- [[genai-learning-procrastination-planned-behavior-2026]] — Upanuzi wa TPB unaopima ucheleweshaji wa kujifunza unaosaidiwa na GenAI na udhibiti wa wasiwasi juu ya kiungo cha nia–ucheleweshaji

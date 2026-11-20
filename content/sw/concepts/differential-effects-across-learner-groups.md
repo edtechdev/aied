@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -49,9 +51,7 @@ Haijalengi kurudia maenea jirani. [[equity-in-ai-education|Usawa katika Elimu ya
 
 **Sifa za kidemografia kwa kawaida hufanywa simulizi.** Demografia halisi ya wanafunzi mara chache huambatishwa kwa maingizo ya mfano, hivyo ukaguzi hutoa persona badala yake. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto na Hovy (2026)]] waliendesha mifano sita iliyoboreshwa kwa maagizo katika kazi tatu za kielimu chini ya hali za mfano-chaguo-msingi, persona-wazi, na historia-ya-kifichuanio — 192,480 wito wa inference — na wakapata kwamba persona wazi na historia za mazungumzo *zisizo wazi* zote zinabadilisha tabia ya mfano. Tofauti yao inastahili kuhifadhiwa: ufahamu wa tofauti za wanafunzi unaweza kuwa unaotakiwa (kurekebisha maoni kwa lugha ya kwanza ya mwanafunzi), huku uvuvuzi ule ule ukiumia wakati unabadilisha hukumu ya kazi zinazofanana.
 
-
 **Ukaguzi wa wanafunzi halisi upo, na unaweza kusaidia madai ya makutano.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] walichanganua kumbukumbu za miaka miwili za MATHia kutoka wanafunzi 8,549 na wakapata ushahidi ambao ukaguzi wa persona za kuigwa hauwezi kutoa: pengo la kiwango cha msingi cha msomaji chipukizi la .1007 kati ya wanafunzi wa kike mwaka 2021–2022, tofauti zilizofikia .0926 kati ya wanafunzi wa Kihispania mwaka 2022–2023, na takwimu 8 kati ya 12 za kabila-kwa-kikundi-cha-kusoma zilikuwa na umuhimu kati ya wasomaji wasio chipukizi dhidi ya 1 tu kati ya 12 kati ya wasomaji chipukizi.
-
 
 **Marekebisho ya usawa yanaweza yasieenezi.** [[student-attention-estimation-fairness-2026|Fragkiadakis na wengine (2026)]] walipunguza pengo la makosa linalolenga kijinsia na umri katika ukadiriaji wa umakini wa wanafunzi kwenye data ya [[assessment-validity|uthibitishaji]], lakini manufaa hayakuhamishwa kwa uthabiti kwa masomo yaliyowekwa kando au mgawanyo wa kiwango cha somo uliorudiwa.
 
@@ -68,7 +68,6 @@ Huu ni mwelekeo wenye kina zaidi katika hifadhi ya maarifa, na ule ambao ripoti 
 - **Chaguo za kubuni pia zinaweza kutenga kimetabolojia.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] anadai kuwa data ya mafunzo inayozingatia Kiingereza na Magharibi inatenga njia za kujua zisizo za kihegemonikia na inaweka hali ya wanafunzi wenye ulemavu katikati ya ukosoaji huo.
 
 - **"Kwa daraja lile lile la binadamu, mtoa alama huwatendea wanafunzi waliotambuliwa na wasiotambuliwa kwa usawa."** Katika insha **3,000** za ASAP 2.0 zilizolinganishwa kikamilifu kwa daraja lililohukumiwa, **kila mmoja wa mifano 22** aliwapa alama za chini kikundi kilichotambuliwa kwa ulemavu, kutoka **−0.086** hadi **−0.429** kwenye kipimo cha pointi sita, na **20** zilisoma GAP REPLICATES. Makosa ya kawaida na urefu vilieleza si zaidi ya moja ya tano kwa **17 kati ya 20** za mifano, na kwa kuwa ASAP 2.0 hutoa daraja moja, muundo hauwezi kutenganisha upendeleo unaoshirikiwa na jopo la binadamu na ule unaoshirikiwa na mifano ([[porcaro-ai-grading-benchmark-2026|usomaji ni SHARED GAP, si upendeleo wa mfano]]).
-
 
 ## Lugha: wanafunzi wa lugha ya pili, wenye lugha nyingi, na wa Kiingereza
 
@@ -125,7 +124,6 @@ Kupatikana kwa kweli kwa utafiti huu ni jinsi baadhi ya vikundi vilivyo finyu. K
 
 - **"Muktadha wa mwanafunzi humfanya mtoa alama kuwa wa haki zaidi."** Uchanganuzi wa uondoaji kwenye insha **3,000** zilizopewa alama na mifano miwili uligundua pengo la lebo ya juu-chini lilikuwa sawa kwa kila kikundi kilichoweza kupimwa, kila tofauti ikiwa ndani ya **0.045** ya ngazi moja. Kwenye Qwen lebo ya chini bado ilichukua **pointi 0.06 hadi 0.08** zaidi kwa wanafunzi wa Kiingereza, walio na shida kiuchumi na waliotambuliwa kwa ulemavu kuliko wenzao. Bila lebo mifano yote miwili bado iliweka vikundi viwili vya mwisho chini ya wenzao kwa alama sawa za binadamu. [[porcaro-ai-grader-reliability-2026|Rekodi inayoweza kuwa na makosa hubadilisha alama, na hubadilisha kwa ukali zaidi kwa wale waliokwisha darauliwa chini]].
 
-
 ## Kutumia ushahidi huu bila kufanya modeli nyingi ya lebo ya kikundi
 
 - **Tendea wastani wa vikundi kama nadharia kuhusu watu, kamwe kama utabiri kuhusu mtu.** Kila dai la tofauti hapo juu ni taarifa ya usambazaji.
@@ -136,61 +134,8 @@ Kupatikana kwa kweli kwa utafiti huu ni jinsi baadhi ya vikundi vilivyo finyu. K
 
 - **Kigezo cha kikundi chenye ushahidi wa moja kwa moja wa mchakato zaidi ni cha maarifa, si cha kidemografia.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] walilinganisha vikundi kwa [[prior-knowledge|maarifa ya awali]] (U = 293.50, p = 0.515) na bado wakagundua kuwa jinsi wanafunzi wanavyofikiri iliunda kilichotokea. Vikundi vinane vyenye dhana potofu tofauti na sita vyenye zinazofanana viliuliza aina zile zile za maswali, lakini AI ilitumika kama kitovu cha ujumuishaji katika vikundi mbalimbali na ikakaa kwenye njia mstari katika vile vinavyofanana, na tathmini endelevu iliyopingana. Hilo linategemea vikundi kumi na nne katika kazi moja ya dakika 60, kwa hiyo chukulia kama nadharia kuhusu jinsi unavyounda vikundi badala ya kanuni.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Lebo za vikundi hukamata tofauti inayojalisha."** **Lebo za vikundi huficha tofauti ndani yao**: katika meta-analysis ya ulemavu, wanafunzi wenye **ulemavu mahususi wa kujifunza, ulemavu wa akili na maendeleo** na kategoria nyingine wamekusanywa pamoja, hivyo wastani wa kikundi hauwakilishi hata mmoja wao.
 - **"Uchanganuzi wa vikundi vidogo hujibu swali la athari tofauti."** Kwa kawaida **ni vidogo sana kujibu hilo**: [[ai-tutoring-micro-rct-gcse-science-2026|micro-RCT ya sayansi ya GCSE]] ni wazi kwa njia isiyo ya kawaida kuwa mlinganisho wake wa **matibabu** una nguvu kwa athari ya jumla na si kwa tofauti za vikundi. Ugunduzi wa kikundi kidogo usio na nguvu ni dhana, si matokeo.
 - **"Athari ya wastani ya kati inakuambia iwapo kikundi fulani kinafaidika."** [[zhang-ai-students-disabilities-meta-analysis-2024|masudio 29 ya (quasi-)majaribio]] yalikusanywa hadi **Hedges' g = 0.588 (95% CI [0.349, 0.826])** katika kategoria za ulemavu. Kipindi hicho kinaeleza wastani juu ya kategoria hizo, na "kikundi kipi, hitaji lipi" ni uchanganuzi tofauti.
-
-## Dhana Zinazohusiana
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## Makala Zinazohusiana
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Masomo 29 ya AI kwa wanafunzi wenye ulemavu: g = 0.588, na g = 0.269 baada ya marekebisho ya upendeleo
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT ilifaidika wanafunzi wa STEM na wasio-STEM bila usawa katika kujifunza kwa fani mchanganyiko
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — Matumizi ya GenAI na mvutano wa mawezi manne kati ya wanafunzi wa kimataifa wa kabila madogo
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Rekodi 766 hadi masomo 40, 15 kati yao ya AI ya kizazi
-- [[adhd-video-segmentation-computing-education]] — Mabadiliko ya kubuni ya jumla yaliyowaleta washiriki wa ADHD kwenye usawa
-- [[neurodivergent-computing-students]] — Wanafunzi 24 wenye tofauti za neva kuhusu muundo, utata, na ushirikiano
-- [[genai-minoritized-knowledges-disability]] — Kutengwa kimetabolojia katika AI, na ulemavu kama mfano
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 na I² = 84.4% katika msingi mdogo wa ushahidi wa L2
-- [[structural-silence-underrepresented-language-ai-2026]] — Kibenki chini ya 0.5% ya yaliyomo ya mtandao dhidi ya Kiingereza 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — Vibainishi hufanya uainishaji mbaya wa uandishi wa EFL huku yakipata alama kamili kwa maandishi ya kitaalamu
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Mtihani wa wanafunzi 195 wa mifano ya kuigua ya kike bila tofauti ya jinsia
-- [[gender-bias-transfer-llm-writing]] — Ilani (prompts) zenye upendeleo wa jinsia zinahamishwa kwenye insha za wanafunzi
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Nafasi ya jinsia moja inathaminiwa, na onyo dhidi ya girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Usawa wa mkufunzi unavyotofautiana kwa mfano, kikoa, na kipimo cha tabia
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Maoni yanayolingana na dhana potofu kwa insha zinazofanana
-- [[demographic-signals-llm-student-assessment-2026]] — Wito 192,480: persona wazi na historia za kifichuanio zote zinabadilisha mifano
-- [[student-attention-estimation-fairness-2026]] — Marekebisho ya kawaida ya usawa ambayo hayakueenezi
-- [[ai-divide-ses-personality-primary-education-2026]] — Wanafunzi 4,497: ustadi wa kidijitali, si matumizi ya AI, unapatanisha pengo
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Ushiriki wa vijijini ambao haukurejea kamwe, na uongozi kama kizuizi
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Mwingiliano wa kikundi kidogo ambao kipindi chake cha kuaminika kinapita sifuri
-- [[student-ai-inquiry-types-cs2-2026]] — Kupatikana kwa matumizi kimoja tu ya kizazi cha kwanza katika corpus
-- [[international-students-conversational-ai-adaptation]] — Utafiti mmoja tu wa mwanafunzi wa kimataifa katika corpus
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Kadirio la kwanza la athari la wanafunzi wa kizazi cha kwanza katika corpus: upatikanaji wa mkufunzi uligharimu SD 0.50 za alama ya mwisho dhidi ya 0.22 kwa wenzao (Liu na wengine 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Kigezo cha kikundi cha maarifa chenye ushahidi wa moja kwa moja wa mchakato: vikundi vilivyolinganishwa kwa maarifa ya awali lakini tofauti katika utofauti wa dhana potofu zilitumia AI ile ile kwa njia tofauti (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: watoa alama 22 walioandaliwa wanakabiliana na majaribio yenye jibu sahihi linalojulikana, na wengi wao wanaweza kushawishiwa kupanda (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Muktadha wa mwanafunzi hubadilisha alama za mtoa alama wa LLM kwenye kazi ile ile, na makubaliano na mwalimu hayasajili hilo (Porcaro 2026, Karatasi VI)
-

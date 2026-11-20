@@ -8,6 +8,8 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 > **Lifelong learning and AI** — how AI supports continuous education and skill development beyond formal schooling, and how it reshapes adult and workplace learning. AI can personalize, scaffold, and make learning-on-demand more accessible for adults, while also raising questions about autonomy, self-direction, and who controls the learning process in AI-mediated environments.
@@ -63,32 +65,3 @@ Lifelong learning connects to [[adult-learning|adult learning]] and [[profession
 **"Lifelong learning means adults taking more courses."** Course-taking is one delivery form of a broader requirement: maintaining and rebuilding competence as the tasks change. A workforce that needs continuous regeneration is not short of course offerings; it is short of the practice opportunities where new competence is actually formed.
 
 **"Lifelong learning is a personal responsibility, so institutional design is secondary."** The regeneration problem is structural — it concerns where formative work exists at all — and individuals cannot create the work their own development requires. Framing it as motivation explains nothing about the 16% decline concentrated at the bottom of the age distribution.
-
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for designing AI technologies to support adult learning
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided learning for skill acquisition
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking higher education with Learnity graphs
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation in AI-mediated learning
-- [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
-- [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[kim-ai-andragogy-2026]] — Adult learners' perspectives on AI as a collaborative learning agent in andragogy (Kim et al. 2026)
-
-

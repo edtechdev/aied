@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -173,78 +175,3 @@ AI ट्यूटर तैनात करने वाले प्रशि�
 **"इंटेलिजेंट ट्यूटरिंग एक LLM-पूर्व तकनीक थी जिसे LLMs ने पीछे छोड़ दिया।"** यह वंशावली निरंतर है और ITS का योगदान वही है जो LLM युग में अब भी अनुपस्थित है। ITS ने शिक्षार्थी मॉडल, इंटरफ़ेस बाधाएँ और महारत अनुमान दिए; जो आधुनिक प्रणालियाँ इन घटकों में एक LLM जोड़ती हैं, वे अकेले LLM से बेहतर प्रदर्शन करती हैं, जिससे पुराना अनुशासन पूर्ववर्ती नहीं बल्कि एक घटक बन जाता है।
 
 **"AI ट्यूटर एक ही तरह की चीज़ है।"** ट्यूटरिंग संबंध-तीव्रता के एक स्पेक्ट्रम में फैली है, संकेत निर्माण से लेकर सतत संवाद तक, और उस स्पेक्ट्रम के एक बिंदु से निकाले गए डिज़ाइन निष्कर्ष दूसरे पर लागू नहीं होते। इसलिए शैक्षणिक डिज़ाइन का प्रश्न सदैव "कौन-सी ट्यूटरिंग, कौन-सा कार्य करते हुए" होता है, न कि "AI ट्यूटरिंग काम करती है या नहीं"।
-
-## संबंधित अवधारणाएँ
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## संबंधित लेख
-
-- [[leite-its-k12-meta-analysis-2025]] — अमेरिकी K-12 मेटा-विश्लेषण: 18 प्रयोग, g = 0.271, और इसे क्या मध्यस्थ करता है (Leite एट अल. 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — विस्तारित ब्रिटिश RCT: 10 सप्ताह में निकट-स्थानांतरण लाभ, पर मानकीकृत परीक्षण में कोई बढ़त नहीं (LearnLM टीम, Google और Eedi 2026)
-- [[rho-disengaged-conversational-behaviors-2026]] — छात्र-AI संवादों में असंलग्न संवादी व्यवहार और सीखना (Rho et al. 2026)
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ट्यूटरिंग इन-कक्षा सक्रिय शिक्षण को पछाड़ती है: एक मौलिक शैक्षणिक सेटिंग में एक नए अनुसंधान-आधारित डिज़ाइन को पेश करने वाला एक RCT (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — नैदानिक साक्षात्कार प्रशिक्षण के लिए स्कैफोल्डिंग-उन्मुख मल्टी-एजेंट बड़ी भाषा मॉडल प्रणाली का मूल्यांकन
-- [[ko-hughes-vsd-student-centered-its-2026]] — सामुदायिक कॉलेज विकासात्मक गणित में छात्र-केंद्रित ITS का मूल्य-संवेदनशील डिज़ाइन
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — एक AI शिक्षण सहायक का प्रॉम्प्ट-इंजीनियरिंग सूक्ष्म-व्यक्तिगतकरण (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली महारत अभ्यास को उससे पहले रोक सकती है कि शिक्षार्थी जान लें कि किसी क्रिया को कब रोकना है (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ट्यूटरिंग एकरूप नहीं है: हम वास्तव में क्या जानते हैं (स्टैनफ़ोर्ड SCALE/NSSA संक्षिप्त)
-- [[real-time-ai-feedback-technical-skills-2026]] — क्वारा राज्य शिक्षण महाविद्यालयों में तकनीकी कौशल अधिग्रहण के लिए रीयल-टाइम AI फीडबैक: एक स्थानीयकृत ट्यूटर जिसे कर्मचारी सब्सिडी के रूप में रखा गया
-- [[mishra-control-vs-agency-history-2025]] — ITS वंशावली का अनुसंधण 1960-70 के दशकों की विशेषज्ञ प्रणालियों से संज्ञानात्मक ट्यूटरों तक
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ट्यूटरिंग को उत्पादक बनाना: महारत-आधारित गणित अभ्यास
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — एक क्लिक दूर: दो-वर्षीय स्कूल प्रयोग में खानमिगो
-- [[yasir-llm-tutoring-agents-2026]] — KG ग्राउंड ट्रुथ के साथ LLM फीडबैक एजेंट का बेंचमार्किंग (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — विश्वविद्यालय विदेशी भाषा शिक्षा में प्रशिक्षक-डिज़ाइन किए गए AI ट्यूटर (स्व-निर्धारण सिद्धांत)
-- [[measuring-llm-tutors-teach-vs-solve]] — LLM ट्यूटर सिखाते हैं या हल करते हैं, इसका मापन
-- [[ai-tutoring-quality-k12-methodologies-2026]] — K-12 शिक्षा में AI ट्यूटरिंग की गुणवत्ता में सुधार की विधियाँ
-- [[zhang-tutormoments-2026]] — जब सहायता असहायक हो: उत्पादक संघर्ष के लिए AI ट्यूटरों का मूल्यांकन
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील डोमेन के लिए ग्राफ-आधारित इंटेलिजेंट ट्यूटरिंग (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक ITS में अनुकूली ICAP स्कैफोल्डिंग (BKT बनाम DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — ट्यूटरिंग-विशिष्ट बनाम सामान्य-उद्देशीय AI: टिकाऊ शिक्षण परिणामों पर साक्ष्य
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors और शैक्षणिक सुरक्षा
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — मैथबडी प्रभावी गणित ट्यूटरिंग
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL के साथ आभासी ट्यूटरिंग: अपनाने और सीखने में एक प्रयोग
-- [[learnlm-improving-gemini-learning]] — LearnLM: सीखने के लिए जेमिनी में सुधार
-- [[teachlm-post-training-llms-education]] — TeachLM: प्रामाणिक शिक्षण डेटा से LLM का पोस्ट-ट्रेनिंग
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — एफिनिटी मैपिंग के साथ परिणाम-आधारित नॉलेज ट्रैसिंग
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — नवाचार की गति पर AI ट्यूटरिंग का मूल्यांकन: GCSE विज्ञान में एक AI ट्यूटरिंग मंच के व्यावसायिक-नेतृत्व वाले माइक्रो-रैंडमाइज़्ड परीक्षण
-- [[misconception-acquisition-dynamics-llms-2026]] — ट्यूटर मॉडल जो सही हल खोए बिना कई छात्र भ्रांतियाँ अर्जित करते हैं
-- [[studentbench-ai-human-tutoring-gre-2026]] — स्टूडेंटबेंच: AI और मानव ट्यूटरिंग समतुल्य GRE शिक्षण लाभ देती हैं
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — गार्डरेल या रोडब्लॉक? प्रोग्रामिंग के लिए AI शिक्षण सहायकों में शैक्षणिक शैली और संदर्भ जागरूकता के प्रभाव
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — एक पाठ्यक्रम-आधारित, LMS-एम्बेडेड AI ट्यूटर का बहु-विषय RCT: सटीक-मिलान नमूने में अंतिम ग्रेड 0.37 SDs नीचे, मंच सहभागिता 0.90 SDs नीचे, बिना किसी निर्देशात्मक एकीकरण के (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — मार्गदर्शित AI ट्यूटर छात्र अड़चनों को कैसे हल करते हैं, और उन्नयन को गहराई के साथ क्यों बदलना चाहिए
-- [[lyu-data-driven-redesign-tutoring-2026]] — इंटेलिजेंट ट्यूटरिंग सिस्टम के लिए एक डेटा-चालित फिर से डिज़ाइन प्रक्रिया का मूल्यांकन: अधिक उत्पादक कार्य-पर-समय और अभ्यास किए गए कौशल, लेकिन पतले अभ्यास डोज़ पर कोई सीखने-लाभ अंतर नहीं (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: दीर्घकालिक वैयक्तिकृत सीखने के लिए एक सिद्धांत-सूचित ढाँचा (Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — पूर्ण-जिला शिक्षक-मध्यस्थ AI गणित रोलआउट: ~51% संलग्नता निष्ठा और 0.11 SD (2 समस्याएँ/सप्ताह) से 0.31 SD (20+/सप्ताह) तक एक डोज़ ढाल; IEP, EL और हिस्पैनिक छात्रों के लिए बड़े अन्वेषणात्मक संबंध
-- [[llm-tutors-process-synthesis-2026]] — क्या LLM ट्यूटर वास्तव में सिखाते हैं? ट्यूटरिंग लूप की एक प्रक्रिया-केंद्रित संश्लेषण
-
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: बहु-समाधान प्रोग्रामिंग समस्याओं पर LLM ट्यूटरों की प्रतिक्रियाशीलता की खाइयाँ उजागर करना (Cen और Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — छात्रों के तर्क का समर्थन या प्रतिस्थापन? AI-सहायित प्रमाण अधिगम में संज्ञानात्मक ऑफलोडिंग (Chen et al. 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: चुनौतीपूर्ण व्यवहार वाले छात्रों पर LLM ट्यूटरों का मूल्यांकन (Park et al. 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — हस्तलिखित काम पर कैमरा: दृश्य पहुँच और सक्रिय मरम्मत (Kotalwar et al. 2026)
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — उपलब्ध मॉडल वह साक्ष्य नहीं दे सकते: Worden et al
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — गैर-मूलभाषी अंग्रेज़ी छात्रों के लिए बहु-स्रोत AI ट्यूटर

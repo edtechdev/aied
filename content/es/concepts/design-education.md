@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
@@ -89,46 +91,3 @@ Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-i
 - **«El estudiantado de diseño adopta las herramientas con entusiasmo.»** La misma cohorte muestra un **71% que usa la IA generativa a diario o semanalmente, un 65% que desconfía de ella y un 85% que modifica sus salidas**. El uso frecuente y la baja confianza coexisten, así que una herramienta cuya propuesta de valor presupone confianza ha leído mal a sus usuarios.
 - **«La IA generativa es genéricamente útil a lo largo de todo el proceso de diseño.»** La plataforma GAI-A, construida a lo largo de un estudio longitudinal de taller, encontró **solo dos usos productivos**: la IA generativa como estímulo visual en la ideación temprana y como **ampliadora combinatoria del espacio de soluciones durante el desarrollo**. La utilidad dependía de la fase.
 - **«Las ganancias de creatividad son demasiado difusas para medirlas.»** En un **subgrupo de 31 estudiantes**, las puntuaciones de pensamiento creativo subieron de **77,23 a 94,68 (d = 0,82)**. La ganancia es medible y está acotada a un subgrupo, que es la forma honesta de la afirmación.
-
-## Conceptos conectados
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Artículos conectados
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Conciencia de la disrupción tecnológica de la IA, mentalidad de pensamiento de diseño y competencia en innovación de diseño en estudiantado de diseño
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — la actitud como compuerta necesaria de la intención del estudiantado de diseño de usar agentes de IA, con el ajuste tarea-tecnología como segunda vía (Chu y Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — el tipo de dependencia decide si la alfabetización en prompts se convierte en implicación
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: espacio de trabajo de crítica con IA consciente del artefacto para la retroalimentación de taller; estudio de preparación basado en simulación, no en mejoras de aprendizaje
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Un experimento de diseño arquitectónico en el que un flujo de trabajo con DALL-E 3 redujo la autoeficacia creativa general
-- [[human-ai-collaboration-design-education-rubric-2026]] — Una rúbrica de proceso puede convertir la verificación con IA en el objeto calificado

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -79,35 +81,3 @@ Fowlin et al. (2026) opérationnalisent cette répartition comme une séquence e
 - **« Un document partagé signifie une cognition partagée. »** Des profils fondés sur le volume chez **97 apprenants** différaient par les **connaissances préalables et l'auctorialité** mais **non par la sollicitation d'un rôle actif ou d'un niveau de compréhension**. Le volume de participation mesurait l'exposition, non la distribution du travail cognitif — les [[learning-analytics|analyses]] d'usage d'un outil collaboratif disent donc peu de qui pensait.
 - **« Tout le monde se décharge également sur l'IA. »** Les enseignants novices **délèguent une large part de la charge cognitive de conception pédagogique au système d'IA** et aboutissent à une **distribution dominée par l'IA** où ils acceptent largement les réponses, tandis que les enseignants expérimentés et compétents en IA distribuent autrement. L'expertise se montre là où la charge est placée, pas seulement dans le volume d'IA utilisé.
 - **« Plus d'implication de l'IA signifie plus de soutien. »** Une distribution dominée par l'IA est précisément le schéma à surveiller, car la part humaine du travail cognitif se réduit tandis que le volume de productions augmente. Le système peut sembler plus capable au moment même où l'utilisateur en fait moins.
-
-## Concepts liés
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Articles liés
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Étude empirique de la résolution collaborative de problèmes entre humain et IA, par le prisme de la cognition distribuée et de la co-régulation
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — L'IA comme médiateur pédagogique redistribuant la cognition entre acteurs humains et non humains
-- [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans une pensée co-régulée
-- [[ensemble-cognition-philosophy-ai-education]] — Le cadre de la cognition d'ensemble reconceptualisant la pensée comme interaction humain-IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — L'apprenant posthumain dont la cognition est distribuée entre systèmes biologiques et artificiels
-- [[fowlin-operationalizing-learning-principles-ai]] — Opérationnaliser la cognition distribuée aux côtés de l'apprentissage expérientiel et situé
-- [[cognitive-commons-ai-expertise-regeneration]] — La tragédie des communs cognitifs : l'IA et la régénération de l'expertise
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — L'interaction enseignant-IA dans la conception de leçon : cognition distribuée dominée par l'IA ou complémentaire selon l'expérience et la compétence (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — L'IA générative comme agent et comme espace collaboratif : comment la configuration de l'accès distribue la cognition de groupe (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Le Cognitive Distribution Framework : cinq types d'interaction et quatre rôles issus de l'usage autodirigé de ChatGPT
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La mémoire transactive avec l'IAG : division du travail et transformation réflexive médiatisent la pensée critique (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Pourquoi l'apprenant individuel est la mauvaise unité d'analyse
-
-- [[rivera-novoa-genai-extended-cognition-2026]] — La cognition étendue dans l'apprentissage des sciences : l'IA générative est substitutive par défaut, complémentaire par conception (Rivera-Novoa et Duarte Arias 2026)
-

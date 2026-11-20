@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -116,37 +118,3 @@ ai_assist:
 **"解决办法是更好的 AI，因为投降源自错误。"** 投降源自交互的*结构*：一个先产出看似合理答案的系统，移除了学习者自己生成一个答案的场合。提升准确率减少了错误答案带来的伤害，却对判断形成之被放弃毫无作用，而那正是工具被拿走之后仍然留存的伤害。
 
 **"教批判性评价就足够了。"** 它是必要的，而且它来得太晚。一旦一个看似合理的答案出现在屏幕上，评价就变成了确认，这正是这里的设计文献把学生的尝试放在系统输出之前、而非在事后加以审计的原因。
-
-## 关联概念
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## 关联文章
-
-- [[shaw-nave-cognitive-surrender-2026]] —— 三系统理论与投降的实验签名
-- [[generative-ai-reduced-study-time-math]] —— ALEKS 中的人口层面被挤走
-- [[young-people-learning-generative-ai-rapid-review-2026]] —— PreK-12 中的投降/卸载/能动性框架
-- [[du-yuan-epistemic-dependence-2026]] —— 工具性帮助对带判断的帮助
-- [[ai-advice-suppresses-ikt-suspension-2026]] —— "我不知道"的崩溃
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] —— 神经参与和所有权
-- [[genai-thoughtless-use-self-directed-learning-2026]] —— 无思考的使用与自主学习
-- [[stamatoulis-genai-use-patterns-2026]] —— 低核验式采纳对评估性整合
-- [[cognitive-washout-ai-skill-decay-2026]] —— 撤回之后会发生什么
-- [[ai-overreliance-complex-adaptive-system-2026]] —— 依赖作为一个人口过程
-- [[brcic-effortless-trap-productive-struggle-2026]] —— 把 AI 放在任务保持费力的位置
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] —— 校准训练
-- [[family-school-autonomy-support-genai-2026]] —— 依赖式对自主式卸载
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 一个以练习纸为依据的助手降低了卸载而非提高它：投降签名的一个边界条件（Braun 2026）
-- [[jelson-students-chatgpt-essay-writing-2026]] —— 自然情境中的整篇论文委派：77 篇论文中有 15 篇完全由模型撰写，20 次索要完整论文的请求（Jelson 等 2026）

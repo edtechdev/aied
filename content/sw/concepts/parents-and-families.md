@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -92,32 +94,3 @@ Kile kinakosekana ni cha kushangaza zaidi. Maelezo ya wazazi wenyewe ni nadra: w
 **"Wazazi wataona kama AI inadhuru kujifunza kwa mtoto wao."** Wao ndio wenye nafasi ndogo zaidi ya kuona. Katika data ya [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei na Wu (2026)]], alama za kazi za nyumbani zilipanda **asilimia 18** wakati alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] zilishuka **asilimia 20** ndani ya miezi sita, na namba inayopanda ndiyo inayoonekana nyumbani. Mzazi anayetazama kazi za nyumbani anaona uboreshaji wakati matokeo ya kudumu yanashuka.
 
 **"Matumizi ya AI nyumbani ni swali la idhini ya wazazi."** Ni swali la ujuzi na utetezi. Ujuzi wa AI wa wazazi wenyewe unaamua kile wanachoweza kuchunguza kuhusu zana iliyotolewa na shule, na ukosefu wa usawa wa upatikanaji kati ya familia unaunda ni watoto gani wanapata upatanishi wa watu wazima kabisa.
-
-## Dhana Zilizounganishwa
-- [[stakeholders]] — ukurasa wa jumla wa hadhira na washiriki katika AI katika elimu
-- [[early-childhood-elementary-ai-education]] — kikoa cha maendeleo ambapo matumizi ya nyumbani na ya familia yanatafitiwa zaidi
-- [[ai-use-disclosure]] — mazoezi ya ufichuli na swali la kile kinachowafikia familia
-- [[ai-literacy]] — uwezo wa wazazi wenyewe na miundo iliyojengwa na shule inayowafafanua
-- [[equity-in-ai-education]] — jinsi faida na mizigo husambaa kati ya kaya
-- [[digital-divide]] — tabaka za upatikanaji, ujuzi na matokeo kama zinavyotumika nyumbani
-- [[conversational-ai]] — aina inayotawala ambayo AI huchukua katika miktadha ya familia
-- [[self-determination-theory]] — msaada wa kujitegemea kama fremu ya mwongozo wa familia
-- [[cognitive-offloading]] — upunguzaji wa mzigo unaotegemea dhidi ya unaojitegemea, na kwa nini wazazi hawawezi kuona tofauti
-- [[intelligent-tutoring]] — mfano unaotegemea ufundishaji wa mzazi na mtoto unaosababishwa na AI
-
-## Makala Zilizounganishwa
-- [[ai-connectedness-adolescent-mental-health-2026]] — Uunganisho wa AI kwa vijana na lini uunganisho wa AI unachukua nafasi ya utambuzi wa mlezi usiotimizwa
-
-- [[paratutor-parent-child-tutoring]] — msaada wa LLM uliotenganishwa na majukumu kwa jozi 23 za mzazi na mtoto katika ufundishaji wa hesabu nyumbani wa Kichina
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — rafiki wa jukumu la mwenza mahiri dhidi ya mwalimu, na wanafunzi 19 wa shule ya msingi nchini Taiwan
-- [[family-school-autonomy-support-genai-2026]] — mapitio yanayochukua uratibu wa familia–shule kama nadharia isiyojaribiwa
-- [[raise-framework-ai-education-reporting-2026]] — wajibu wa kuripoti yanayohusu ridhaa, muktadha wa washiriki na usawa wa upatikanaji
-- [[k12-teachers-ai-companion-literacy-2026]] — walimu 33 kuhusu mamlaka ya kisheria, wazazi na mahusiano ya watoto na marafiki wa AI
-- [[ai-play-framework-early-childhood-2026]] — ujuzi wa AI usio na mtandao uliojaribiwa kupitia tukio la Hour of Code lililozingatia familia
-- [[all-girls-genai-makerspace-gender-equity-2026]] — wazazi kati ya walezi; gharama ya zana na vizuizi vya lugha katika miktadha isiyo rasmi
-- [[creative-project-approach-ai-early-childhood-2025]] — mawakala wa kimwili kwa watoto wadogo, pamoja na tahadhari za gharama, upatikanaji na faragha
-- [[demir-akar-ai-media-literacy-children-2026]] — programu ya shule kuhusu faragha ya data, mawasiliano salama na maadili ya media katika wanafunzi 36 wa darasa la nne
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — kujiingiza kulipanda kutoka 45% hadi 83% hatua za kulenga familia zikiondolewa
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — kupeleka kazi za nyumbani kwa wengine, kushuka kwa mitihani na hoja ya kufuatilia ingizo
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — viwango vya ujuzi wa AI visivyoegemea umri na mgawanyiko wa kidijitali wa ngazi tatu
-- [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature

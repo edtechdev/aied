@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -126,32 +128,3 @@ Sladění mechanismu s teorií však může být rozhodující: tematická synt�
 **„Teorie učení, modely žáka a rámce přijetí jsou zaměnitelné optiky."** Odpovídají na různé otázky — jak učení probíhá, jaký je stav studujícího a proč se praxe šíří — a tomu odpovídají i jejich typy důkazů. Volba špatné vrstvy vede ke studii, která měří správnou proměnnou proti špatné predikci, což se čte jako nulový výsledek, i když jde o kategorickou chybu.
 
 **„Více rámců znamená zralejší obor."** Rámce vzniklé pro éru AI se hromadí rychleji, než se testují, a hromadění bez falzifikace je symptomem, nikoli pokrokem. Zralost se projevuje rozřešením soupeřících predikcí, ne růstem slovníku.
-
-## Související koncepty
-
-- [[theory-development-aied]] — budování a revize teorie v oboru
-- [[philosophy-of-ai-in-education]] — normativní a konceptuální vrstva
-- [[learning-theories]] — zastřešující pojem pro teorii učení
-- [[learning-sciences]] — sousední obor, z něhož se většina teorie vypůjčuje
-- [[limitations-in-aied-research]] — co důkazní základna unese a co ne
-- [[tpack]] — rámec učitelských znalostí
-- [[technology-acceptance-model]] — rámce přijetí
-- [[item-response-theory]] — měřicí model
-- [[universal-design-for-learning]] — designový rámec
-- [[research-methods-aied]] — jak se teorie testuje
-
-## Související články
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Emocionální afordance navržené jako čtvrtá kategorie taxonomie afordancí
-- [[ai-game-based-learning-systematic-review-2026]] — Účinnost v 55 studiích učení založeného na hrách s AI řídilo sladění mechanismu s teorií, nikoli algoritmická sofistikovanost
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — čtyři desetiletí AIED optikou rámce AI×Ed
-- [[educating-minds-generative-ai-2026]] — teoreticky hutná syntéza generativní AI a učení
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teorie aktivity aplikovaná na profesní rozvoj učitelů
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teorie aktivity a přijetí učiteli
-- [[generativism-learning-theory]] — teorie učení navržená pro éru generativní AI
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — k teorii epistemické spoluagenturnosti
-- [[absent-cognitive-baseline-2026]] — teoretizace strukturální mezery v sebehodnocení studentů odchovaných na AI
-- [[yan-agentivism-learning-theory-ai-2026]] — teorie učení středního dosahu pro interakci člověka a AI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — vývoj nástrojů napříč mladým konstruktem
-- [[mishra-control-vs-agency-history-2025]] — zakládající napětí oboru mezi kontrolou a agenturností

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -58,29 +60,3 @@ ai_assist:
 - **"جو ماڈل اچھا اسکور کرتا ہے وہ وہی چیز ناپ رہا ہے۔"** **ایک ہی جانچ کے اوزار** پر انسانی اور LLM جوابات کے ڈھانچے **الگ** ہو جاتے ہیں — ماڈل اچھا اسکور کر سکتا ہے جبکہ کچھ اور ناپ رہا ہو جو اوزار کا مقصود نہیں۔ اسکوروں کا ملنا مشاہدہ ہے؛ تصوراتی ہم ارزی ایک الگ دعویٰ ہے جس کے لیے ڈھانچے کی سطح کا ثبوت درکار ہے۔
 - **"کیلیبریشن ایک ہی درستگی کے عدد سے پڑھی جا سکتی ہے۔"** **ایک ہی درستگی کا عدد اُس ماڈل کو چھپا سکتا ہے جو صرف کیلیبریٹ شدہ دکھتا ہے**: GPT-4o اور Gemini 2.0 Flash سے **153 انڈر گریجویٹس** کی گفتگو سے سیکھنے کے انداز کے جہات کا اندازہ لگانے پر **معتدل درستگی ملی جو متوازن پیمانوں کے تحت مختلف برتاؤ کرتی ہے**۔ مجموعی درستگی نے وہ تفاوت چھپا دیا جو متوازن پیمانوں نے بے نقاب کیا۔
 - **"خودکار اسکورنگ پائپ لائنیں سائیکو میٹرک طریقہ کار دہرا نہیں سکتیں۔"** مصنفین نے ایک قائم شدہ پائپ لائن کو خودکار شکل میں دہرایا (**نچلی حد کے لیے کم از کم 7 روبرک آئٹموں کے درست جواب کی 67% احتمال اور اوپری حد کے لیے کم از کم 10 کی**)، جس سے AI اور انسانی آئٹم اسکوروں کا موازنہ ایک ہی بنیاد پر ممکن ہوا۔ طریقہ کار دہرایا جا سکا؛ تصور کا سوال باقی ہے۔
-
-## منسلک تصورات
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## منسلک مضامین
-- [[genai-reliance-scale-problem-solving-2026]] — مسئلہ حل کرنے میں طلبہ کے جنریٹو AI پر انحصار کا تصدیق شدہ پیمانہ (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی تحریری جانچ میں AI کی مدد سے اسکورنگ کے لیے انسان-در-حلقہ فریم ورک
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچ کے اوزار انسانوں اور LLM کے لیے وہی چیز ناپتے ہیں؟ (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — LLM جانچ کو سائیکو میٹرک کیلیبریشن سے ہم آہنگ کرنا
-- [[llm-item-difficulty-prediction]] — آئٹم کی دشواری کی LLM پیش گوئی
-- [[cong-confidence-asag-2026]] — اعتماد سے باشعور خودکار مختصر جواب گریڈنگ
-- [[multimodal-item-parameter-estimation-2026]] — ملٹی موڈل آئٹم پیرامیٹر کا تخمینہ
-- [[competency-based-education-genai-production-2026]] — GenAI کے ساتھ قابلیت پر مبنی تعلیم
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی طبیعیات کی جانچ کی AI گریڈنگ (اولمپیاڈ)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM اور درخت پر مبنی ML سے آئٹم کی دشواری کا تخمینہ
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — AI خواندگی کے اوزاروں کا موازنہ: 55 تصورات میں جینگل اور جنگل جوڑے
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسوں میں طلبہ کا LLM استعمال اور AI سے پیدا کردہ سوال کی دشواری کی حدود
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — فی جماعت یاد دہانی جانچنے پر معتدل درستگی اکثریتی جماعت کی پیش گوئی نکلی (Zamanifard, Goudarzi & Robb 2026)

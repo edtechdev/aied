@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -77,34 +79,3 @@ ai_assist:
 **«Генеративный ИИ сделал классическое машинное обучение в образовании устаревшим».** Они делают разную работу. Предсказание состояний учащегося, оценка сложности и прогноз прогресса остаются классическими задачами ML, и литература по трассировке знаний и калибровке заданий, которую документирует этот корпус, не обслуживается языковой моделью. Генеративный ИИ — подмножество машинного обучения, а не замена ему.
 
 **«Педагогическое образование должно учить студентов LLM, а не машинному обучению».** Ограничение грамотности генеративным слоем оставляет практиков неспособными допрашивать предсказательные системы, принимающие решения об их студентах, — а именно там концентрируются значимые ошибки.
-
-## Связанные понятия
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Связанные статьи
-
-- [[at-risk-students-ml-prediction]] — Контролируемая классификация с помощью ML для выявления студентов, подверженных риску отчисления
-- [[trace-course-grade-prediction-2026]] — Трансформер, совместно предсказывающий курсы и оценки (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Цифровые двойники студентов на базе ИИ для превентивных траекторий, согласованных с карьерой
-- [[sc2r-counterfactual-recourse-educational-2026]] — Семантически ограниченные контрфактические рекомендации для действенного вмешательства
-- [[interactive-online-learning-ai-2025]] — Гибрид DMO-GRU для предсказания в интерактивном онлайн-обучении
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивный скаффолдинг когнитивной вовлечённости в ITS (BKT против DRL)
-- [[pedagogical-safety-rl]] — Формальная рамка педагогической безопасности в образовательном обучении с подкреплением
-- [[automated-online-exam-proctoring-decade-review-2026]] — Десятилетний обзор автоматического прокторинга на глубоком обучении
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Отслеживание знаний на основе результатов с отображением аффинности
-- [[bird-multimodal-educational-literature-2026]] — Мультимодальное слияние для классификации образовательной литературы
-- [[razavi-powers-item-difficulty-llm-2026]] — Оценка сложности заданий с использованием LLM и древовидного ML
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

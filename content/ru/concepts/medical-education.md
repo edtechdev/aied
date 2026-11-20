@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -93,55 +95,3 @@ HPE — высокоставочная, основанная на компете
 - **«Вопрос в том, что LLM могут делать в клинической подготовке».** Критический интегративный обзор **489 исследований в 47 странах** смещает вопрос **от того, что LLM могут делать, к тому**, чему им можно доверять. Вопрос возможностей в основном решён; вопрос управления — нет.
 - **«Стандартизированные пациенты слишком дороги для масштабирования».** **Рандомизированное контролируемое испытание со 95 проанализированными студентами-медиками** использовало **мультиагентных ИИ-стандартизированных пациентов** в обучении клиническому интервью. Ограничение, которое при этом снимается, — доступность обученных живых актёров, а это проблема кадров, а не достоверности.
 - **«Принятие опубликованной рамки компетентностей ИИ решает вопрос учебного плана».** [[xiang-ai-nursing-education-kas-framework-2026|Xiang и др. (2026)]] отобрали из 1 750 записей 23 исследования — 15 обзоров, 4 [[qualitative-research|качественных]] и 4 [[quantitative-research|количественных]], из 15 стран с 2022 по 2026 год — и нанесли их на модель «Знания, установки и навыки». Области применения сосредоточены в медицинском образовании (n = 11, 47,8%), общем образовании (n = 9, 39,1%) и прочем образовании (n = 3, 13,0%), а названные сестринские рамки, с которыми они сравнивали, — N.U.R.S.E.S., AI-ABCs и CARE — либо не имеют ясных путей педагогической реализации, либо охватывают изолированные навыки без методов оценивания. Карта из 12 подразмерностей, которую они строят, — предложение, ожидающее валидации, что делает её чем-то, относительно чего следует преподавать, а не устоявшимся учебным планом.
-
-## Связанные понятия
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — направление медицинских профессий, относящееся к сестринскому делу
-- [[virtual-and-augmented-reality]] — иммерсивная клиническая подготовка и подготовка с дополненной реальностью
-
-## Связанные статьи
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — PBL и CBL с ИИ в медицинском и стоматологическом образовании: шесть РКИ, только два CBL (Wei и др. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — Цифровая патология с помощью ИИ улучшает диагностику и сокращает разрыв, связанный с опытом, у резидентов-патологов, читающих биопсии предстательной железы
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Учебные планы по ИИ в здравоохранении учат этике (80,6%), но редко — происхождению данных (22,2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
-- [[genai-medical-education-transformation-review-2026]] — Обзор 153 отчётов о GenAI в медицинском образовании: симуляция лидирует, длительность эффекта и результаты для пациентов не измерены
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Оценка обучающих агентов ИИ в медицинском образовании по рубрике из восьми измерений
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, структурные пробелы сестринского образования и переустройство профессиональной идентичности (Sun и др. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Рамка SCAN: переосмысление распределения задач ИИ в медицинской подготовке (Tsim и др. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Воплощение опытного, ситуативного и распределённого познания с помощью ИИ в образовании медицинских профессий
-- [[residencyrl-clinical-rl-training-2026]] — Тренировка клинических навыков в резидентуре с помощью обучения с подкреплением
-- [[medgame-llm-medical-education-gamification]] — Геймифицированное обучение на базе LLM для медицинского образования
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Симуляция агентного ИИ для подготовки по брахитерапии
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Преобразование сестринского образования с помощью ИИ
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Симуляция на базе ИИ в сестринском деле: смешаннометодный систематический обзор
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: обучение стоматологической рентгенографии с человеком в контуре (Dong и др. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Систематический обзор GenAI в сценарном образовании в здравоохранении (Neto и др. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Масштабируемое обучение клинической коммуникации на базе ИИ и автоматизированное оценивание
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Библиометрическая карта этики ИИ в медицинском образовании: объём вырос с 113 (2023) до 500 (2025), 39 стран, цитирования вознаграждают тестирование возможностей, а не управление (Sriram и др. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Повторные прогоны не воспроизводят ту же оценку
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Обзор, отображающий рамки компетентностей ИИ в образовании на карту KAS из 12 частей
-- [[agency-gap-ai-writing]] — Реактивные и проактивные агенты письма на базе ИИ в подготовке медицинских профессий: разрыв в агентности
-- [[federated-learning-at-risk-student-prediction-2026]] — Федеративное прогнозирование риска в программах HPE: ничтожная цена приватности и почему импортированный порог даёт сбой
-- [[rony-nursing-educators-ai-tpack-2025]] — Преподаватели сестринского дела в Бангладеш о готовности к ИИ, барьерах и управлении данными, прочитанные через TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Барьеры интеграции ИИ в учебные планы резидентуры: качественные интервью с двенадцатью врачами-руководителями
-- [[alshahrani-health-sciences-ai-use-2026]] — Мост между технологией и педагогикой: кросс-секционный анализ использования ИИ, самоотчётных академических эффектов и этических опасений среди студентов разных учебных планов наук о здоровье

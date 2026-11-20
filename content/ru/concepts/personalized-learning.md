@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -151,44 +153,3 @@ Bernstein and Sibia (2026) уточняют различие между перс
 
 - Перестаньте смешивать персонализацию с адаптацией в измеряемых конструктах и указывайте явно, какой механизм произвёл эффект.
 - Сообщайте нормированный прирост в обучении как первичный результат; его редкость в литературе — пробел, который нужно закрыть, а не конвенция, которую нужно наследовать.
-
-## Связанные концепты
-
-- [[adaptive-learning]] — Адаптивные системы, подгоняющие содержание, темп и сложность под учащегося в реальном времени
-- [[intelligent-tutoring]] — Тьюторские системы, моделирующие учащегося и доставляющие индивидуализированное обучение
-- [[student-modeling]] — Представление знаний, навыков и состояний учащегося, управляющее адаптацией
-- [[knowledge-tracing]] — Выведение овладения компонентами знания из результативности во времени
-- [[cognitive-diagnosis]] — Диагностика латентных знаний и атрибутов учащегося по откликам
-- [[scaffolding]] — Поддержка и снятие, калиброванные под индивидуальные потребности учащегося
-- [[student-experience]] — Житый опыт учащегося от персонализации
-- [[learning-analytics]] — Управляемое данными измерение обучения, информирующее адаптацию
-- [[formative-assessment]] — Непрерывное оценивание, сигнализирующее, что адаптировать дальше
-- [[summative-assessment]] — Итоговое оценивание, сравнимость которого персонализация осложняет
-- [[generative-ai]] — Разговорная персонализация на базе ЛЛМ
-- [[edtech-platform]] — Платформы, доставляющие персонализированное обучение в масштабе
-- [[higher-ed]] — Контекст высшего образования для персонализации
-- [[online-teaching-and-learning]] — Онлайн-преподавание и обучение
-- [[recommender-systems-and-learning-paths]]
-
-## Связанные статьи
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Регенерация лекционного видео с персонализацией по индустрии из исходной расшифровки: подгонка на уровне аудитории, оценённая доменными экспертами (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Микроперсонализация ИИ-ассистента преподавания через промптинг (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — ИИ-тьюторство — не монолит: что мы действительно знаем (бриф Stanford SCALE/NSSA)
-- [[mishra-control-vs-agency-history-2025]] — Различает две формы персонализации (единообразные против разнообразных результатов)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Переопределение персонализированного обучения: систематический обзор
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Родной для агентов субстрат персонализации для тьюторства
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Слоистая гибридная модель знаний на основе онтологий для персонализированного электронного обучения
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Персонализированное адаптивное обучение дробям в начальной школе
-- [[ai-coaching-rl-skill-development]] — Коучинг на обучении с подкреплением для развития навыков
-- [[personalized-ai-generated-videos-preference-2026]] — Студенты предпочитают персонализированные сгенерированные ИИ видео неперсонализированным, записанным человеком (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Байесовская когнитивная диагностика для персонализированных траекторий обучения
-- [[graph-its-adaptive-algorithms-2026]] — Интеллектуальное тьюторство на графах для динамических областей (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Роли преподавателя и ИИ в усиленном ChatGPT формирующем оценивании
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: смещение в персонализированной автоматизированной обратной связи
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Систематический обзор: адаптивные траектории и рекомендатели — ведущий случай интеграции ИИ в высшем образовании
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Несовершенные, но запоминающиеся: критическое восприятие студентами персонализированных по интересу аналогий GenAI в вычислительном образовании
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Парадокс персонализации: воспринимаемая адаптивная персонализация связана с более низким саморегулируемым обучением через академические эмоции, смягчаемая ИИ-грамотностью (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: планировщики на ЛЛМ достигают 90,9% достоверности, но ни одна модель не превышает 44,7% адаптивности при персонализации траекторий к заявленной цели учащегося (Liu et al. 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Четыре исследования, большой объединённый эффект и очень низкая уверенность

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -114,28 +116,3 @@ Song과 동료들의 75명 대학 1학년생 대상 한 학기 연구는, 보통
 - **"큰 표본이 짧은 기간을 해결한다."** 표본 크기는 정밀도를 다루지, 발달 과정이나 제도 과정이 펼쳐지는 데 필요한 시간을 다루지 않습니다.
 - **"같은 프로그램이면 같은 사람들이다."** 반복 횡단면은 개인이 아니라 모집단을 추적합니다. 둘은 다른 주장을 지지합니다.
 - **"자기보고 추세는 태도 추세다."** 보고된 사용과 보고된 입장은 행동뿐 아니라 규범과 도구에 따라서도 움직입니다.
-
-## 연결된 개념
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## 연결된 문서
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — 특성과 상태를 분리하는 3차시 패널(Xu)
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 참여, 몰입, 정서 지능의 5차시 성장 모형
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 교사 교육에서 생성형 AI 사용과 윤리 인식의 4학기
-- [[song-genai-learning-partner-srl-over-time-2026]] — 평가 압박 아래 감소를 보여 주는 한 학기 자기조절 연구
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 세 AI 조건에 걸친 9주 종단 준실험
-- [[ai-lms-middle-school-longitudinal]] — 중학교용 AI 통합 LMS 제안(설계이지 종단 연구가 아님)

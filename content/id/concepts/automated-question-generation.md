@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -89,53 +91,3 @@ AQG merupakan pemungkin utama pembelajaran [[adaptive-learning|adaptif]] dan [[p
 **"Pembuatan soal secara alami mempersonalisasi latihan."** Ia menghasilkan pasokan, sedangkan personalisasi adalah masalah pencocokan. Menghasilkan lebih banyak butir tidak memberi tahu butir mana yang harus dilihat siswa tertentu berikutnya, dan pemilihan adaptif adalah mekanisme terpisah dengan buktinya sendiri.
 
 **"Generasi menskalakan penilaian tanpa mengubah apa yang diukur oleh penilaian."** Ia mengubah komposisi apa yang diukur, karena butir yang mudah dihasilkan bukan sampel representatif dari butir yang menilai dengan baik. Format yang mudah dihasilkan akan secara progresif mendesak keluar format yang lebih sulit dihasilkan, yang diam-diam membentuk ulang konstruknya.
-
-## Konsep terkait
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Artikel terkait
-- [[genai-medical-education-transformation-review-2026]] — Tinjauan cakupan atas 153 laporan pendidikan kedokteran tentang pembuatan butir AI versus kualitas butir dosen
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validasi lapangan berskala besar atas kualitas ujian yang dihasilkan AI melalui IRT
-- [[generate-then-validate-question-gen]] — Pembuatan soal Generate-Then-Validate
-- [[kt4eqg-personalized-question-generation]] — Pembuatan soal yang dipersonalisasi melalui penelusuran pengetahuan
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Pembuatan soal berbasis LLM untuk siswa Tuli dan Gangguan Pendengaran
-- [[llm-educational-question-cognitive-depth]] — Kedalaman kognitif soal yang dihasilkan LLM
-- [[slidesqaqa-pedagogical-question-generation]] — Pembuatan soal pedagogis tanya-jawab dari dek slide
-- [[code-gen]] — CODE-GEN: pembuatan soal berbasis RAG dengan manusia dalam loop
-- [[nsmq-riddles-science-math-benchmark]] — Tolok ukur NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — Tugas personal berbasis minat
-- [[llm-difficulty-calibration-programming-exams-2026]] — Kalibrasi kesulitan berbasis LLM
-- [[self-referential-l2-writing-llm-assessment]] — Penilaian tulisan analitis yang mengacu pada diri sendiri
-- [[cross-dataset-bloom-question-classification]] — Klasifikasi soal Bloom lintas kumpulan data
-- [[llm-chatbots-cs-multiple-choice]] — Chatbot LLM dan butir pilihan ganda CS
-- [[socratic-tests-conversational-assessment]] — Tes Sokratik: penilaian konversasional
-- [[llm-turing-test-italian-legal-exams-2026]] — Uji Turing LLM dalam ujian hukum
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimasi kesulitan butir menggunakan LLM dan ML berbasis pohon
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Penilaian Kualitas Butir Matematika Berbasis Proses
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Tutor Agen yang Mempelajari Siswanya dalam Loop Ko-Pembelajaran Manusia-AI
-- [[automated-constructive-assessment-hdr-llm-2026]] — Mengotomatiskan Penilaian Konstruktif dengan Model Bahasa Besar: Menuju Evaluasi Kompetensi Praktis yang Terukur dan Berulang
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh Siswa dan Batas Kesulitan Soal yang Dihasilkan AI dalam Mata Kuliah Ilmu Data
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluasi model terlatih untuk penilaian pedagogis soal pendidikan baru yang dibantu AI
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Siswa tidak dapat membedakan PG yang dihasilkan AI dari butir ujian lisensi dalam ujian yang dinilai, dan 18.2% butir yang dihasilkan dieliminasi dalam tinjauan (Vogt et al. 2026)

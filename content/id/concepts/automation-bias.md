@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -117,45 +119,3 @@ Sebagian besar korpus mendaftar bias otomasi dalam model ancaman tanpa mengujiny
 - **"Manusia dalam lingkar memperbaikinya."** Lingkar itu hanya sebaik kesempatan untuk campur tangan, dan studi-studi penilaian belum mengukur penjangkaran.
 - **"Ini masalah siswa."** Guru, penilai, anotator, dan administrator adalah pihak yang menyetujui dalam setiap rancangan yang dideskripsikan korpus.
 - **"Ini cacat karakter yang hilang dengan pelatihan yang lebih baik."** Pelatihan membantu, tetapi orang yang sama berperilaku berbeda tergantung pada apakah verifikasi murah, apakah keluarannya lancar, dan apakah ketidaksetujuan menanggung biaya.
-
-## Konsep terkait
-
-- [[trust-calibration]] — keadaan ketergantungan yang kegagalannya dinamai bias otomasi
-- [[bias-mitigation]] — pasangan di sisi sistem: bias di dalam model
-- [[cognitive-offloading]] — delegasi kerja mental, yang penerimaan tanpa pemeriksaan merupakan salah satu hasilnya
-- [[human-in-the-loop-ai]] — pengaman yang kekuatannya ditentukan oleh kegagalan ini
-- [[explainable-ai]] — intervensi transparansi yang diusulkan korpus dan jarang diuji
-- [[learning-analytics]] — dasbor dan peringatan dini, tempat kesalahan omisi terkonsentrasi
-- [[recommender-systems-and-learning-paths]] — memberi peringkat apa yang harus dilakukan berikutnya, yang dapat sekadar diikuti siswa
-- [[automated-assessment]] — skor yang mungkin diterima manusia tanpa membaca ulang
-- [[scaffolding]] — pemeriksaan yang tetap lebih murah daripada penerimaan
-- [[self-efficacy]] — sifat yang menjadi dasar prediksi standar
-- [[ai-detection]] — deteksi yang diputuskan manusia di bawah tekanan waktu
-- [[remote-proctoring]] — kecurigaan yang dimunculkan model dan diputuskan orang
-- [[ai-literacy]] — tempat verifikasi sebagai keterampilan yang dinilai akan berada
-
-## Artikel terkait
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — guru diperingatkan agar tidak tunduk pada rekomendasi yang dibangun dari data tipis
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — menamai penjangkaran penilai oleh skor AI sebagai risiko yang belum diuji dan mengusulkan penyamaran
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — dasbor, umpan balik berbasis ciri permukaan, dan lampu lalu lintas sebagai pola umum
-- [[factria-responsible-institutional-analytics-2026]] — sebelas pemangku kepentingan, empat kasus, chatbot yang menolak memberi rekomendasi
-- [[ludia-udl-ai-thought-partner-2026]] — pengaman pendidik yang melemah karena mempercayai pengetahuan domain alat
-- [[extended-minds-coupling-flexibility-2026]] — hak formal untuk menolak bukanlah pengawasan jika bias otomasi mengalahkannya
-- [[ground-truth-reliability-aied]] — anotasi LLM, validasi sirkular, dan pergeseran label diam-diam
-- [[polished-artifacts-fragile-engagement-2026]] — bias otomasi sebagai untaian sosio-kognitif dari usaha epistemik yang berkurang
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — salah satu dari empat mode kegagalan dalam kerja rekursif manusia-AI
-- [[eight-mode-ai-engagement-typology-2026]] — mode Oracle dan risiko khasnya
-- [[assessing-student-drive-framework-2025]] — agensi manusia yang aktif sebagai pengaman terhadap bias otomasi
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 studi tentang apakah AI menggantikan kerja yang asing atau yang konstitutif
-- [[geoscience-field-learning-genai-2026]] — anchoring, konfirmasi, dan bias otomasi dalam kerja lapangan yang terikat bukti
-- [[ahmadfard-interactive-oer-review-2026]] — bias otomasi didaftar di antara risiko yang menggerus agensi pembelajar dan guru
-- [[alshahrani-health-sciences-ai-use-2026]] — kekhawatiran etis 310 mahasiswa dibaca sebagai alasan untuk pelatihan eksplisit
-- [[ai-literacy-legal-translation-2026]] — pasca-sunting diajarkan sebagai keterampilan yang dinilai terhadap tekanan ilusi kualitas
-- [[morales-cevallos-ai-forensic-science-education-2026]] — bias otomasi terdokumentasi dalam studi AI forensik yang ditinjau
-- [[rana-genai-design-thinking-2025]] — perancah yang menjaga pertimbangan manusia di pusat
-- [[kim-overtrust-ai-literacy-2026]] — prediksi yang terbalik: siswa yang percaya diri lebih mempercayai alat
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — kerangka yang dibangun di atas penelitian bias otomasi, bukan ujian atasnya
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — salah satu dari tiga mekanisme yang menggerus kewargaan kritis
-- [[academic-erasure-complexity-ai-writing-2026]] — bias otomasi di dalam kerja afektif penegakan penggunaan AI
-- [[llm-fallacy-misattribution]] — pembedaan terdekat: ketergantungan berlebih pada sistem versus persepsi kompetensi pribadi

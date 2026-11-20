@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -126,43 +128,3 @@ Das Feld verfeinert auch drei benachbarte Konzepte. Von [[simulation|Simulation]
 **„Jede Simulationsstudie lässt sich auf die klinische Praxis verallgemeinern.“** Die hier betrachtete Evidenzbasis — **19 Studien, N = 1.253, überwiegend Studierende vor der Zulassung** — ist größtenteils im Klassenraum und im Labor verankert, und die Übersetzung von simulierter Kompetenz in beaufsichtigte Praxis ist genau der Schritt, den eine KI-assistierte Simulation für sich allein nicht einübt.
 
 **„KI-Kompetenz für die Pflege bedeutet, die Werkzeuge zu beherrschen, also sollte das Training mit ihnen beginnen.“** Die Framework-Literatur verläuft in die andere Richtung. Die Dimensionen, die die Reviewenden durchgängig adressiert fanden, sind Ethikwissen, Verantwortung sowie Anwendungs- und Bewertungsfähigkeiten; der technische und operative Gebrauch ist der Bereich, zu dem das Feld am wenigsten zu sagen hat. Ein Programm, das zuerst Werkzeuglizenzen kauft, baut den am dünnsten belegten Teil der Landkarte, und die benannten Frameworks, die es statt eines Curriculums übernehmen könnte, N.U.R.S.E.S., AI-ABCs und CARE, sind genau diejenigen ohne Assessmentmethoden.
-
-## Verbundene Konzepte
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Verbundene Artikel
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Anwendungen, Haltungen und Ethik in der Pflegebildung: ein Scoping-Review über 103 Studien (Hardie et al. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Erfahrungen Lernender mit generativer KI-gestützter Simulation und Fertigkeitstraining in der Pflegebildung: eine Meta-Synthese
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematischer Review zu KI in der Pflegebildung (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflegebildung: Mixed-Methods-Systematischer-Review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, strukturelle Lücken und die Neukonstitution professioneller Identität
-- [[akbaba-nursing-ai-experiences-tam-2026]] — KI-Erfahrungen von Pflegestudierenden und Lehrkräften durch das TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — KI-Wahrnehmung und Karriereangst unter Studierenden der Gesundheitswissenschaften
-- [[genai-counter-learner-groupthink-2025]] — Generative KI gegen Groupthink im interprofessionellen PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Pflegewissenschaftlerinnen und -wissenschaftler zu GenAI: Richtlinienambiguität, professionelle Werte und die Drift zur beaufsichtigten Prüfung
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Fernaufsicht in der Pflege-Assessmentpraxis: Überwachung, Gerechtigkeit und ein Abschreckungsfall, der auf Wahrnehmung beruht
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping-Review, das KI-Kompetenzrahmen auf 12 KAS-Subdimensionen für Pflegecurricula abbildet
-- [[rony-nursing-educators-ai-tpack-2025]] — Pflegelehrende in Bangladesch zu KI-Bereitschaft, Barrieren und Datengovernance, gelesen durch TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Umbrella-Review über 18 Reviews: Ethik, Transformation des Curriculums und Integrationsbarrieren
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Pflegestudierende über das offene Geheimnis der KI-Nutzung: personalisiertes Lernen, Zeit und die digitale Spaltung
-- [[agency-gap-ai-writing]] — RCT mit Medizin- und Pflegestudierenden: reaktives versus proaktives Agentendesign und die Agency-Lücke
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1.020 Pflegestudierende: GenAI-Interaktion, pädagogische Interaktion und ein gerade identifiziertes Mediationsmodell
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Ein veröffentlichter Leserbrief auf Rony et al.: institutionelle Ökosysteme, Bereitschaft und KI-Aufsicht
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Lehrende und Studierende co-designen ein Analytics-Dashboard für die Pflegebildung
-- [[federated-learning-at-risk-student-prediction-2026]] — Datenschutzwahrende Risikovorhersage über gesundheitsberufliche Programme und warum ein importierter Schwellenwert in der Pflege daneben greift
-

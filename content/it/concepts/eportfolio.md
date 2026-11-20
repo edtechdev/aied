@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -80,31 +82,3 @@ Poiché gli e-portfolio mettono in primo piano **processo, riflessione e compren
 **Per i ricercatori**
 
 - Progetta per isolare le componenti quando studi pacchetti IA-più-portfolio; altrimenti il campo accumula effetti di combinazione che non riesce a scomporre.
-
-## Concetti collegati
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-
-## Articoli collegati
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- and competency-based assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment robust to generative AI, incl. social contribution portfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Annotated portfolios / oral defenses as AI-resistant assessment
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The Symbiotic Portfolio for hybrid learners
-- [[pbl-structural-conditions-ai-2026]] — Portfolios as partial answers to assessment at scale
-- [[learn-framework-responsible-genai-pbl-2026]] — Personal learning portfolios as assessable learning traces

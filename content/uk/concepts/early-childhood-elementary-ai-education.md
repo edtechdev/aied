@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -83,47 +85,3 @@ ai_assist:
 - **«Викладачі використовуватимуть ШІ для генерації цілих уроків».** Викладачі делегували найчастіше (**60%**) **заповнення прогалин у змісті самопідготовленого плану уроку**, а не генерацію цілих планів. Одиниця делегування — прогалина, а не урок.
 - **«Малі діти менше виграють від медійної грамотності з підтримкою ШІ».** Група з підтримкою ШІ показала **великі здобутки в читанні медіа (+3,50), письмі (+1,67) і загальній медійній грамотності (+5,17, усі p < .01)** із міжгруповими розмірами ефекту d = 1,12 і вище. Здобутки в цьому віковому діапазоні були великими, а не маргінальними.
 - **«Автоматизоване спостереження узгоджується з людськими оцінювачами за всіма вимірами».** Узгодженість була **помірною загалом (зважений κ = 0.681), але залежала від конструкту**: збіжність зберігалася для домену **«Емоційна підтримка»** і для **«Якості зворотного зв’язку»**, а не деінде. Усереднення за доменами приховує те, де інструмент зазнає невдачі.
-
-## Пов’язані поняття
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Пов’язані статті
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Формування раннього дитинства в епоху ШІ: компетентності, педагогіка та екологічна підтримка (Pei 2026)
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational thinking through robotics in kindergarten
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing instruction in the age of GenAI
-- [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — Грамотність у ШІ для «нативних» дітей ШІ? Порівняння чотирьох країн
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Опосередковані ШІ інструменти в початковій англомовній освіті: скопінг-огляд педагогічних функцій і оркестрації викладачем

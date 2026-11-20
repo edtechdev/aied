@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -85,57 +87,3 @@ Tema yang menentukan adalah bahwa robot efektif ketika mendukung tujuan pembelaj
 - **"Robotika mengajarkan berpikir komputasional karena ia adalah robot."** Sebuah tinjauan sistematis atas **53 studi** menemukan **pembelajaran berbasis masalah, storytelling, dan pemberian perancah** sebagai strategi yang paling sering digunakan — pedagoginyalah yang membawa hasil, dan itulah yang sebenarnya dilakukan studi-studi itu.
 - **"Robot fisik mengalahkan alternatif berbasis layar di semua aspek."** Perolehannya **bergantung tugas**: skor transfer jangka pendek **60% lebih tinggi** bagi [[aifred-desk-robotic-ai-guidance-2026|Orlando dkk., 2026]] (4.4/10, p = .003) yang oleh penulisnya diatribusikan pada **ko-lokasi spasial alih-alih penggantian umum**. Klaimnya adalah tentang ko-lokasi pada tugas tertentu, bukan tentang keberwujudan secara umum.
 - **"CT taman kanak-kanak terlalu dini untuk bermakna."** Bukti yang ditinjau mencakup robotika taman kanak-kanak secara langsung, yang berarti rentang usia itu diteliti alih-alih diasumsikan tidak sesuai.
-
-## Konsep terkait
-- [[early-childhood-elementary-ai-education]] — Pendidikan AI anak usia dini dan sekolah dasar
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-
-## Artikel terkait
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Tinjauan Lingkup Robot Pepper dalam Pendidikan Formal
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analisis pembelajaran bahasa berbantuan robot berwujud yang diperkaya AI
-- [[white-wu-robotics-ai-education-2026]] — Robotika dan AI dalam Pendidikan
-- [[computational-thinking-educational-robotics-secondary-2026]] — Berpikir Komputasional dan Robotika Pendidikan
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — Desain Berbasis Pengetahuan untuk Robot Sosial Generatif
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — Konteks Tugas dan Kepercayaan dalam HRI Pendidikan
-- [[human-autonomy-agency-hri-review-2025]] — Otonomi dan Agensi Manusia dalam HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — HRI Naratif iCub
-- [[pepper-robot-sign-language-lis-2025]] — Pepper dan Bahasa Isyarat
-- [[social-robot-study-companions]] — Robot Sosial sebagai Pendamping Belajar
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integrasi Robot–LLM dalam Penulisan Kreatif
-- [[game-based-gamified-robotics-education-review-2026]] — Pendidikan Robotika Berbasis Permainan dan Bergamifikasi
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — Jalur Menuju Pembelajaran Robotika Pendidikan Bertenaga AI (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — CT termediasi robot di taman kanak-kanak
-- [[ai-toys-child-development-2026]] — Mainan bertenaga AI dan perkembangan anak
-- [[creative-project-approach-ai-early-childhood-2025]] — Pendekatan Proyek Kreatif: mengintegrasikan robot pengodean dan robot sosial generatif ke dalam proyek anak usia dini (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — Lima tipe robot kelas yang berbeda secara fungsional, dari demonstrasi berskenario hingga dialog empatik satu-lawan-satu (Christ dkk. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: kerangka berbasis hub yang memperlakukan kapasitas pendampingan teknis dan geografi hub, bukan perangkat keras, sebagai kendala program robotika K–12 pedesaan (Jacobson dkk. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — Mengajarkan Pembelajaran Penguatan dan Robotika Humanoid kepada Siswa Sekolah Menengah: Desain Kurikulum Tervalidasi Ahli pada Platform Terbuka Berbiaya Rendah
-- [[aifred-desk-robotic-ai-guidance-2026]] — Proyektor robotik yang dipasang di meja: panduan ko-lokasi mempertahankan transfer di tempat ChatGPT laptop kehilangannya
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Model visi-bahasa merencanakan Shoebox Tasks untuk robot Nao (Kudláčková 2026)

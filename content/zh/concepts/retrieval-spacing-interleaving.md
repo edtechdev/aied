@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -107,36 +109,3 @@ ai_assist:
 **"提取练习就是小测，而任何小测都算数。"** 机制是从记忆中产出一个答案，而不是认出它，这正是多项选择的再认任务是同一活动较弱版本的原因。一个不断生成再认题项的 AI，生成的是名字正确、机制错误的练习活动。
 
 **"既然这些技术都被清楚规定，AI 就能忠实交付它们。"** 它也能悄悄破坏它们。间隔要求系统扣留它最有能力按需提供的材料，提取要求它不作答，因此这些技术的有效性依赖于一个随和的助手没有动机去施加的约束。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 间隔提取序列，以及编码时提供帮助的保持代价
-- [[desirable-difficulties]] — 这三种技术所操作的原理
-- [[cognitive-psychology]] — 记忆、编码与提取，三者的理论归属
-- [[prior-knowledge]] — 提取练习作为对学习者已有之物的激活
-- [[metacognition]] — 判断流畅感是否反映了学习
-- [[self-regulated-learning]] — 持续学习 AI 可以替你安排或替你作答的东西
-- [[mastery-learning]] — 掌握阈值之后的保持，以及维持它的间隔安排
-- [[knowledge-tracing]] — 做出或错失调度决定的模型
-- [[cognitive-offloading]] — 当提取被外包给工具时的失败模式
-- [[transfer-of-learning]] — 这些技术所针对的表现—学习之差
-- [[formative-assessment]] — 闭卷检查点作为提取事件
-- [[productive-failure]] — 在获得帮助之前先行尝试
-- [[learners]] — 持久学习而非流畅学习的利害所在
-
-## 关联文章
-
-- [[adaptive-pretesting-retention]] — Akgun 与 Toker：七周内自适应间隔提取对照固定提取与学习者主导 AI
-- [[memdora-ai-spaced-repetition]] — Memdora：FSRS-6 调度与一套有依据的抽认卡交互分类法
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris：解释深度预测任务质量但不预测即时回忆
-- [[rachatasumrit-example-problem-ratio-2026]] — 事实用提取练习，技能用已解例题；内容—处理交互
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 知识追踪模型在基于时间的验证下未能捕捉间隔效应
-- [[bilingual-llm-lecture-companion-srl-2026]] — 自动抽认卡生成消除间隔练习的编写成本
-- [[student-cheat-sheets-make-or-take]] — 制作作弊纸作为生成性学习；用 AI 外包其制作
-- [[knowloop-confusion-to-consolidation-2026]] — 回授巩固显现澄清未能显现的缺口
-- [[simulating-learner-task-selection]] — 交错与分组作为任务选择约束下的被建模学习者策略
-- [[nie-personavlm-long-term-personalization-2026]] — 纵向学生记忆及其与间隔重复、遗忘曲线的开放关系
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 提取练习在学会学习框架的工具层
-- [[agentic-ai-pedagogical-best-practice-2026]] — 预抓取智能体绕过提取练习；有意摩擦的理由
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 当 AI 辅导者开口说话：一项随机现场实验的证据
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT 生成的前问题提升记忆与文本理解

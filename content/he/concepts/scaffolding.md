@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -108,61 +110,3 @@ ai_assist:
 - **"פיגום הוא רמת תמיכה קבועה."** סימון מומחים של **207 ייעוצים** הראה שהצורך בפיגום היה **תלוי שלב במידה רבה, ועלה מכ‑16.1% מהאמירות של הסטודנטים בראשית** המפגש. רמת פיגום אחת מוקצה שלא כהלכה בשני קצוותיו של אותו ייעוץ.
 - **"כל תנאי ביקורת מובנה הוא השוואה הוגנת לפיגום."** ב[[summative-assessment|בחינה]], זרוע הפיגום בכל זאת גברה על חלופה אמיתית של גילוי פרוגרסיבי (**71.8% לעומת 55.6%**), ולכן הרווח נמדד מול חלופה [[pedagogy|פדגוגית]] אמיתית ולא מול כלום.
 - **"השפעות הפיגום הן כלליות."** הרווח היה **16.4 נקודות אחוז (P = 3.30e-4)**, עם השיפור הגדול ביותר ב**תקשורת (Hedges' g = −0.79)**. האפקט התרכז בתוצאה אחת, ולכן ממוצע על פני תוצאות מפחית מהיכן שהוא עובד ומגזים היכן שלא.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — היכן בסדרה התמיכה שייכת, ומדוע ניסיון-לפני-עזרה הוא הכלל הנושא-משקל
-- [[problem-based-learning]] — PBL מטמיע פיגומים נדעכים סביב בעיות לא מובנות
-- [[learning-by-teaching]] — פיגום בניית ידע דרך הסבר
-- [[sociocultural-learning]] — יסוד ויגוטסקי: ZPD ולמידה מתווכת חברתית
-- [[cognitive-offloading]] — פיגום שלא דועך יוצר הסתמכות מוגברת
-- [[feedback]] — פיגום מספק משוב מעצב ככל שהתמיכה דועכת
-- [[ai-literacy]] — זיהוי מתי פיגום תומך ומתי הוא דוחה למידה
-- [[intelligent-tutoring]] — מערכות חונכות חכמות מתאימות את עוצמת הפיגום להערכות שליטה
-- [[socratic-method]] — שאלה המעלמת תשובות ישירות
-- [[metacognition]] — פיגומים הבונים ניטור עצמי וויסות עצמי
-- [[adaptive-learning]] — מערכות אדפטיביות מכפיפות תמיכה בתוך ZPD של הלומד
-- [[learning-design]] — פיגום היא אסטרטגיית עיצוב הוראה ליבה
-- [[help-seeking]] — פיגום מעצב מתי וכיצד לומדים מבקשים עזרה
-- [[teacher-role]] — מורים מעמידים פיגום, ואז מדעיכים ככל שהכשירות גדלה
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-- [[agentic-ai]]
-- [[productive-failure]] — כישלון פרודוקטיבי
-
-## מאמרים מחוברים
-
-- [[kumar-genai-computing-education-systematic-review-2026]] — סילוק פיגום כמנגנון האכיפה של האימות (מסגרת VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — הערכת מערכת רב-סוכנית מבוססת מודלים לשוניים גדולים המכוונת לפיגום להכשרת ראיון קליני
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — תגובות בינה מלאכותית בעלות תזמון אנטרופיה כפיגום ידע ורגשי בתוך וידאו (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — הנחיה מונחית של מודלים לשוניים גדולים כהתערבות למידה מובנית
-- [[scaffolding-critical-engagement-genai-minority-students]] — פיגום רגיש תרבותית למעורבות ביקורתית עם בינה מלאכותית יוצרת
-- [[rethinking-scaffolding-llm-tutors]] — דפוסי עיצוב לפיגום בחונכי מודלים לשוניים גדולים
-- [[concept-catalyst-engineering-scaffolds]] — פיגומי Concept Catalyst לשינוי קונספטואלי
-- [[correct-answer-trap-ai-tutor]] — מתי רמזים עוזר ומתי הם מעודדים הסתמלות מוגברת
-- [[critical-thinking-genai-scaffolding]] — פיגום חשיבה ביקורתית עם בינה מלאכותית יוצרת
-- [[veriforge-narrative-drafting-scaffolding-2026]] — ניסוח נרטיבי מפוגם עם Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — מהחלפה לפיגום: פירוק מעגל הנזק המעצם
-- [[preferred-scaffolding-ai-mathematical-modeling]] — פיגום מועדף במידול מתמטי הנתמך בבינה מלאכותית
-- [[agentic-ai-pedagogical-best-practice-2026]] — פיגומים דינמיים (נדעכים) כמעקה בטיחות לבינה מלאכותית סוכנית
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: הערכת חונכי בינה מלאכותית למאבק פרודוקטיבי
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[making-ai-tutoring-productive-mastery-math-2026]] — הפיכת חונכות בינה מלאכותית לפרודוקטיבית: תרגול מתמטיקה מבוסס שליטה
-- [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — עיצוב ניסויי נתמך בינה מלאכותית בכימיה מעשית
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — סוכנות מורים עתידיים במהלך אינטראקציות עם בינה מלאכותית יוצרת בעיצוב למידה (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI across the pedagogies of practice in mathematics teacher education: structured rehearsal feedback raised probing questions (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — שילוב בינה מלאכותית כעיצוב הוראה: ביקורת פלט בינה מלאכותית חייבת להיות מוטלת, וניתוח תחום דעת קודם
-- [[ai-literacy-tool-design-programming-education-2026]] — מאמן לימוד בהנחיית תקציב רמזים: שימוש בפיגום מול שימוש בלתי מוגבל בבינה מלאכותית יוצרת, ומדוע ההגבלה לבדה לא הניבה למידה (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: פיגום ממוסגר מחדש כהחלטה לאיזו תת-אזור שייכת המשימה
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — ניקוד אוטומטי כפיגום מעצב: הוא מתגבר להכנסה רק במקום שהחסר המכוון ניתן לפירוק, אמין ובעל קנה מידה רגיש (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — פיגום אדפטיבי במעגל סגור העוקב אחר הגבול הנוכחי של הלומד בתרגול מוזיקלי, עם זיהוי שגיאות כמיון (Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — צורת הפיגום חייבת להתאים ליכולת ההתפתחותית של ילדים, לא רק למשימה (Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — פיגומים חייבים לדרוש תרגול ייצוגי ואימות, מכיוון שסטודנטים אינם יכולים לאמת מה שאינם מבינים (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — בינה מלאכותית יוצרת כפיגום הנחיה שגשר מהאינטואיציה החזותית להוכחה הדדוקטיבית בגאומטריה, שבה המחשה לבדה אינה מספיקה (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — שכבות פיגום תוכן וזמן בקורס בקצב עצמי, עם שיעורי התחלה-מאוחרת וכישלון לפי עיתוי הלמידה
-- [[assistance-dilemma-rl-tutoring-2026]] — דילמת הסיוע: אימון חונך RL רב-תורי שאופק התגמול שלו מסתיים עם הבעיה מאמן הרחקה מהדעכה (Macina, Kapur & Sachan 2026)

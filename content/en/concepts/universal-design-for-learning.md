@@ -10,6 +10,8 @@ audience: [learners]
 level: [special education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of [[student-engagement|engagement]], representation, and action/expression, rather than retrofitting accommodations for individuals.
@@ -84,35 +86,3 @@ Choice only includes when the options look equally credible. Students in one Fac
 **"UDL means designing for the average student more carefully."** The core claim is the opposite: learner variability is the norm rather than the exception, so design provides many pathways from the start instead of fixing one path for those who struggle. Retrofit is what UDL exists to replace, and a single well-tuned path is still a single path.
 
 **"AI makes UDL automatic, since it can generate alternate formats."** It makes the representation principle cheap and leaves engagement and expression untouched. Converting text to audio addresses one of three means; a course can now be fully multi-format and still require every student to demonstrate learning in the same single way.
-
-## Connected Concepts
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Connected Articles
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Artificial intelligence and universal design for learning in Kuwait's higher education institutions: towards an AI-enabled framework for inclusive education
-
-- [[mcdonald-inclusive-assessment-genai-2026]] — Inclusive assessment design in the age of GenAI: Advancing pedagogy and practice

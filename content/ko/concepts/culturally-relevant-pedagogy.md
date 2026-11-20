@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -97,34 +99,3 @@ AI는 교수가 문화에 응답하도록 돕는 데 기여할 수 있지만, �
 **"기관의 AI 사용 정책이 학생들이 무엇을 윤리적으로 여기는지를 결정한다."** 정책 문안보다 문화가 더 많은 일을 합니다. 캐나다와 한국의 [[cs-education|컴퓨팅]] 학생을 대상으로 한 비교문화 설문조사는 **정책이 아니라 문화가 AI 사용의 윤리성 인식을 이끌었다**는 것을 발견했습니다. 동일한 행동이 집단에 따라 다르게 판단되었습니다. 따라서 하나의 기관 전체 정책은 공유된 윤리를 만들어 내지 못하며, 그것이 그런 것처럼 다루면 학생들을 잘못 읽게 됩니다.
 
 **"교사 네 명이 더 자신감을 느꼈다는 파일럿은 그 접근이 통한다는 증거다."** 그것은 교사 인식에 관한 증거이며, 가치가 있지만 같은 것은 아닙니다. 그 파일럿에서 문화적 응답의 기회를 포착하는 교사의 자신감은 높아졌고 **78%가 자료를 다양화하는 데 AI 제안이 도움이 된다고 답했습니다.** 그러나 저자들은 문화적 적응이 **NLP 파이프라인이 아니라 프롬프트에** 머문다는 점과, 문화적 적합성이 설계된 것이 아니라 평가된 것임을 인정합니다. 자신감과 유용성은 학생들에게 입증된 문화적 적합성이 아닙니다.
-
-## 연결된 개념
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — 상위 개념: AI 교육에서의 교수법과 교수 전략
-
-## 연결된 문서
-
-- [[llm-cultural-relevance-k12]] — K-12 교수법의 문화적 적합성을 위한 LLM
-- [[civic-education-ai-lesson-plans]] — 시민교육에서 AI가 생성한 수업 지도안
-- [[ojeda-ramirez-community-based-ai-learning]] — 공동체 기반 AI 학습
-- [[genai-minoritized-knowledges-disability]] — 생성형 AI와 소수화된 지식의 소외
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: 가나 STEM 벤치마크
-- [[cross-cultural-student-perceptions-genai-computing]] — 생성형 AI 활용에 대한 비교문화적 인식
-- [[international-students-conversational-ai-adaptation]] — 유학생과 대화형 AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: 베트남 수업 계획
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 머신러닝을 활용한 파키스탄 대학생의 스트레스 탐지와 웰빙 지원을 위한 문화를 아는 AI 챗봇
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 초안 작성 전에 교사와 문화적 맥락을 면담하는 수업 계획 도구 (Zhai et al. 2026)

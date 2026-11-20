@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -93,9 +94,3 @@ Psykologian opettajat uran missä tahansa vaiheessa sekä [[social-sciences-educ
 ## Huomioita ja varauksia
 
 Ilmainen PDF, ei tiliä. Tekijänoikeus on STP:llä, ei Creative Commons -lisenssi: henkilökohtaiset ja luokkahuonekopiot ovat sallittuja, kun lähde mainitaan, mutta uudelleenjakelu tai kaupallinen käyttö edellyttää kirjoittajan lupaa. Luvut ovat käytännön kokemuskuvauksia, eivät tutkimuksia — ei asetelmia, otoksia tai vaikutuskokoja — joten pidä väitteitä kokemusraportteina ja siteeraa lukuja yksittäin.
-
-## Liittyvät käsitteet
-
-- [[social-sciences-education]] — klusterisivu, jonka psykologia-osion tämä teos täyttää kurssitason käytännöillä
-- [[ai-literacy]] — kehityksellinen kehys, jonka toimittajat antavat kokoelmalle
-- [[academic-integrity]] — politiikkaluvun aihe ja syy siihen, miksi useat kurssiluvut rakentavat sisään tarkistusvaiheita

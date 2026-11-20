@@ -29,6 +29,7 @@ ai_assist:
 translation_of: resources/okstate-ai-oer-case-studies-doers-2026
 source_updated: "2026-10-28T19:59:58-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,11 +47,3 @@ Wafanyakazi wa [[educational-policy-ai|sera]] na viongozi wa OER wa maktaba wana
 ## Vidokezo na tahadhari
 
 Leseni za sura ni mtego. Mkusanyiko ni CC BY 4.0, lakini waandishi wanabaki na hakimiliki na walichagua leseni zao za Creative Commons, hivyo sura inaweza kuwa na vikwazo zaidi kuliko ukurasa wa kitabu; sura ya marekebisho ya kitabu ni CC BY-NC-SA 4.0, na kutumia tena kunapaswa kuangalia sura badala ya kurasa za mbele. Hakukuwa na utaratibu unaohitajika wa kufichua AI, hivyo sura nyingi zinajadili mchakato wao kwa kupita, kwa kufuata miongozo ya OER Commons. Kila sura inabaki na sauti, uakifishaji na tahajia ya mwandishi wake, hivyo maandishi hayasomi kwa usawa. Kila sura inaandika mradi mmoja na hakuna mbili zinazoshiriki chombo au ulinganisho, hivyo kitabu kinatoa mazoea ya kubadilisha badala ya ushahidi wa kunukuu.
-
-## Dhana Zilizounganishwa
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -35,7 +37,6 @@ ai_assist:
 ## Giriş
 
 Öğrencilerden iş üretmelerini isteyen değerlendirmeler, onların önce başkalarının, sonunda da kendi iyilerini ayırt edebildiğini varsayar. Bu varsayım artık güvenilir değildir: [[generative-ai|generative AI]] talep üzerine yetkin metin, kod ve analiz üretebildiğinde, bir ürün *üretme* yeteneği öğrenmenin zayıf bir göstergesi iken bir ürünü *yargılama* yeteneği güçlü bir göstergedir. Değerlendirici yargı bu yeteneği adlandırır ve bilgi tabanının değerlendirme alanı çalışmaları, neyin değerlendirilebilir ve değerlendirilmeye değer kaldığını sorduğunda sürekli buraya varmaktadır. Yargı, çalışmaları standartlara karşı karşılaştırma ve fark üzerinde eylemde bulunma yoluyla geliştiğinden, [[feedback]], [[formative-assessment]] ve [[self-regulated-learning]]nin kesiştiği yerde yer alır; YZ çıktısıyla gerçekten [[critical-thinking|critical]] [[student-engagement|engagement]] ertelenen bir hedeften ziyade mümkün kılan şey budur.
-
 
 [[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu ve Abdi (2026)]], on iki çalışmalık bir kapsam derlemesinden yola çıkarak YZ yazma puanlarının dar bir yapıyı yeniden ürettiğini savunur: denetlenebilir yüzeysel özellikleri izlerler ve düzenleme, tutarlılık ile argümanı hafife alırlar; bunlar bir [[writing-education|yazma niteliği]] yargısının dayandığı boyutlardır.
 
@@ -114,58 +115,3 @@ Yerinden edilmenin bir öğretmen tarafı sürümü vardır ve birkaç yazma pro
 - **“Değerlendirici hatası rastgele gürültüdür.”** **Değerlendirici yargı, kendine ait ölçülebilir bir yön taşır**: **50 insanı 50 YZ başvuru kompozisyonundan** ayıran beş kabul görevlisi **AUC 0.70**'e ulaştı, yani kaynakları yalnızca zayıf biçimde ayırt edebildi; ve başvuruları hiç kimse elemediği için **yardımsız yargı tüm yaptırım mekanizmasıydı** ve işaretlenen her kompozisyon **1,5 yüzde puanı daha düşük kabul olasılığı** taşıdı. Zayıf bir sinyal gerçek bir cezaya dönüştü.
 - **“Akran ve YZ incelemesi birbirinin yerine geçer.”** PAIRR modeli [[pairr-ai-peer-review-2025|(Sperber ve ark., 2025)]] kalibrasyonu yapılandırmak için **akran incelemesini YZ incelemesiyle birleştirir**. İkisini birleştirmek tasarımın kendisidir; bu da hiçbirinin tek başına bunu sağlamadığını ima eder.
 - **“Yargı niteliği yargıcın bir özelliğidir.”** Kabul bulgusu sorunu bireylerin yeteneğinde değil, düzenekte konumlar: hiçbir eleme aşaması olmadan sonuç doğuracak biçimde uygulanan doğrulanmamış bir yargı.
-
-## Bağlı Kavramlar
-
-- [[pedagogical-patterns]] — Öğrencilerin bu diziler içinde YZ çıktısı üzerinde gerçekleştirdiği değerlendirme adımı
-- [[ai-education]] — Eğitimde YZ (şemsiye)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Bağlı Makaleler
-
-- [[elkington-human-centred-assessment-value-2026]] — İnsan merkezli değerlendirme, bir araya getirmeler ve üretici kısıtlamalar (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Yazma profesörleri notlandırmayı neden dışarıya vermiyor: öğrencilerini böyle tanıyorlar
-
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — Değerlendirici yargının farklı boyutları için eğitim alanı olarak ChatGPT ve akran geri bildirimi karşılaştırması
-
-- [[ai-internal-feedback-evaluative-judgments]] — YZ destekli içsel geri bildirimin değerlendirici yargıları nasıl geliştirdiği ve akıl yürütmenin zayıf kaldığı yerler
-- [[genai-feedback-design-multisite-experiment]] — Hibrit öz/akran/YZ geri bildirimi, doğrudan YZ geri bildiriminden daha iyi etkinlik ve yargıyı korur
-- [[pairr-ai-peer-review-2025]] — Yapılandırılmış yansıtmayla akran ve YZ incelemesi ölçekte kalibrasyon olarak
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Geri bildirim okuryazarlığının YZ geri bildiriminin öğretip öğretmediğini veya yerine geçip geçmediğini nasıl yönettiği
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — YZ geri bildiriminde sürdürülebilirlik boşluğu
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Tespite dayalı yaptırımın yerini alan tasarım çizgilerinden biri olarak değerlendirici yargı
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Görünür akıl yürütme ve yargıyı rubriğin ödüllendirdiği şey yapmak
-- [[learner-centered-feedback-ai]] — YZ geri bildirim araçlarıyla öğretmenin değerlendirici yargısı
-- [[beyond-detection-authentic-assessment-ai-2025]] — Tespitin ötesinde: denetlenmekten ziyade yeniden tasarlanan otantiklik
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Üretici YZ çağı için değerlendirme geçerliliğini yeniden kavramsallaştırmak
-- [[du-yuan-epistemic-dependence-2026]] — İtiraza açıklık, geri kazanılabilirlik ve bağımlılığı güvenmeden ayıran ölçütler
-- [[rethinking-ai-writing-feedback-literacy]] — YZ destekli yazma için geri bildirim okuryazarlığı
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Dürüstlüğün değerlendirici çekirdeği olarak yargı: açıklamalı karar izleri, sözlü savunma, sürüm geçmişi (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Kanıtı kodlaştırılmış standartlar olmadan tartlayan komisyonlar: kurumun kendi yargı sorunu (Munoz ve ark. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Dedektör yanlışlığı ve hibrit yazma başarısızlığı: hükmün yerine önerilen insan yargısı (Hadra ve ark. 2026)
-- [[wright-transcription-not-generation-2026]] — Platform değil, işlev: bir aracın ne olduğundan çok ne yaptığını yargılamak (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms ve Ayırt Etme Oranı: YZ destekli işin ardındaki akıl yürütme izini notlandırmak (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — YZ tarafından yazılmış başvuru kompozisyonları yaygın ama cezalandırılıyor
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — her YZ etkileşimini yapılandıran Ajans Denetimi (inanılır, ilgili, kabul edilebilir, nüanslı)
-
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
-
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Yargı, ancak revizyona bağlandığında niteliği ayırdı (Z = 2.80 ve 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Eğitmenlerin revizyonları yeniden kullanılabilir doğrulama ölçütlerine dönüştü (Tang ve ark. 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Örüntüleme görevden çıkarıldığında ödünç alınan yargı

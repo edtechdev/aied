@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,51 +107,3 @@ ai_assist:
 - **"同伴互评是教师反馈的廉价替代品。"** 机制是[[learning-by-teaching|以教促学]]，而它在机器之间也会显现：超过 **240 万个 AI 智能体**之间出现的类似同伴学习的话语，大多是**断言而非探询**。产出批评与接受批评是不同的行为。
 
 - **反思性的同伴与自我表单，作为小组分数背后的记录。** [[issa-teamwork-framework-academic-integrity-2024|Issa 与 Hall（2024）]]在一门研究生商业项目管理单元中，为每位队友使用一份同伴反思表、为每位学生使用一份自我反思表，并配合与每个小组的一次 30 分钟会议，会上询问成员各自的贡献是否为原创。这些表单不是作为反馈交换来评分的，而是逐人的证据，让教师在占 40% 的小组评估中为个人分数辩护。该框架的分数从 27/40 升到 31/40，但与一位新讲师混杂，其诚信主张也未量化，因此可迁移的部分是记录结构，而不是效应量。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — PAIRR 与"同伴加 AI"的组合反馈：这些序列及其比较性证据
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## 关联文章
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — 整合式"AI 加同伴"反馈提升了全部三个投入维度与雅思写作全部四个维度
-
-- [[usher-faraon-who-grades-best-2026]] — 跨项目质量水平比较 ChatGPT、同伴与教师评分（Usher & Faraon 2026）
-- [[pairr-ai-peer-review-2025]] — 同伴评审 + AI 评审 + 反思（PAIRR）
-- [[becerra-aicofe-feedback-2026]] — AI 同伴反馈系统
-- [[ai-internal-feedback-evaluative-judgments]] — 解开本科生评价性判断的发展
-- [[learner-centered-feedback-ai]] — 用 AI 增强以学习者为中心的反馈
-- [[genai-linguistic-diversity-academic-writing]] — 学术写作中的生成式 AI 与语言多样性
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR 在商务写作课程中的应用：同伴评阅、聊天机器人反馈与反思（MacArthur et al. 2025）
-- [[scaffolding-srl-feedback-genai-human-peers]] — 生成式 AI 与人类同伴在为自我调节的反馈与反馈素养搭建脚手架上的比较（Gu et al. 2026）
-- [[irwin-muller-efl-peer-feedback-literacy]] — 生成式 AI 作为 EFL 口语同伴反馈中的培训师与综合者（Irwin & Muller 2026）
-- [[genai-feedback-design-multisite-experiment]] — 比较仅有同伴、直接式、反思式与混合式生成式 AI 反馈的多中心实验（Ateş 2026）
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 协作论证中有提示脚手架支持的生成式 AI 同伴反馈（Chang et al. 2026）
-- [[chen-zou-genai-group-assessment-agency-2026]] — 生成式 AI 中介的小组评估中的能动性：合作、约束与未实现（Chen & Zou 2026）
-- [[code-review-genai-cs1]] — 口头代码审查访谈作为 CS1 中应对生成式 AI 的危害消减手段（Fowles et al. 2026）
-- [[multimodal-affective-its-presentation]] — 自动化多模态演示辅导作为同伴反馈的可规模化替代（Suen & Hung 2026）
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI 生成的讨论摘要在在线论坛中扩大同伴接触面（Hao & Cukurova 2026）
-- [[qu-wang-disclose-or-not-genai-2026]] — 学生披露生成式 AI 使用中的同伴影响与关系性信任（Qu & Wang 2026）
-- [[llm-critical-thinking-teamwork-review]] — 大语言模型在批判性思维、团队协作与问题解决上的系统综述（Martínez-Peláez et al. 2025）
-- [[ai-agents-peer-learning-discourse]] — 240 万个 AI 智能体之间的类同伴学习话语（Chen et al. 2026）
-- [[oneill-presumed-effective-meta-analysis-2026]] — 对 14 项 AIED 元分析与 59 项原始研究的审计（O'Neill 2026）
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 教师反馈与 AI 辅助同伴反馈在二语写作中的比较：两个任务上的数量、焦点与改进轨迹（Tang, Li & Luo 2026）
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — 自我／同伴反思表作为小组分数背后的逐人证据（Issa & Hall 2024）
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 名学生的角色词汇：导师 28.6%、合作者 23.1%、工具 9.9%、机器人 7.7%
-

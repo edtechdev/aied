@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -59,7 +61,6 @@ L'expérience intégrée au monde du travail peut être la condition déterminan
 
 Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparation (18) et l'action (15) et s'amenuisait à l'évaluation (8) et à la réflexion (3), si bien que les phases ultérieures et intégratives du cycle restent la lacune de conception propre à l'apprentissage par le service communautaire ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -86,37 +87,3 @@ Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparat
 **« Des [[authentic-assessment|tâches plus authentiques]] sont simplement meilleures. »** L'authenticité élève à la fois la valeur de transfert et le problème d'évaluation : les systèmes réels produisent des preuves variables et difficiles à noter, et plus la tâche est authentique, moins le résultat ressemble à un score. La conception doit tenir les deux, et c'est pourquoi la structure de réflexion pèse autant que la tâche.
 
 **« Le [[intelligent-tutoring|tutorat par IA]] s'insère dans l'apprentissage expérientiel comme dans un contenu magistral. »** L'ajustement est plus faible, car un tuteur peut fournir une explication et non la rencontre avec le système. Sa place naturelle dans cette [[pedagogy|pédagogie]] se situe autour des étapes de réflexion et de conceptualisation, lorsque l'apprenant donne sens à ce qui s'est produit — non à la place du faire. [[gelli-experiential-language-learning-2026|Symonette et coll. (2026)]] génèrent la rencontre plutôt que de la scénariser : à partir des objectifs d'un apprenant, GELLI construit des scènes situées avec personnages, soutien et réflexion à l'exécution, et dans une étude intra-sujets avec 40 apprenants japonais, il a battu des vidéos écrites par des experts sur le rappel de vocabulaire (d = 0.45) et la confiance (d = 0.45), mais pas sur l'expression orale.
-
-## Concepts liés
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Ombrelle : pédagogies et stratégies d'enseignement dans l'IA en éducation
-- [[virtual-and-augmented-reality]] — la pratique immersive comme expérience délibérée
-- [[reflection]]
-
-## Articles liés
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Le jeu de rôle en situation réelle a surpassé la RV et le dialogue avec un LLM sur les gains d'empathie, bien que le temps d'exposition ait été confondu (Zwoliński et al., 2026)
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Le cadre des Workforce Readiness Levels pour la fabrication intelligente à l'ère de l'IA
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser l'apprentissage durable par l'intelligence incarnée (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — L'IAG en éducation à la cybersécurité
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotique et IA en éducation
-- [[ai-lms-middle-school-longitudinal]] — Étude longitudinale sur un LMS intégrant l'IA au collège
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — Des personas d'IA se substituant au travail de terrain communautaire, avec un critère à cinq indicateurs pour identifier où la substitution échoue (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Revue thématique distinguant l'« Embodied Hands-on » du « Cognitive Hands-on » dans la formation au design soutenue par l'IA (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — un cours de management stratégique reconfiguré autour de trois mécanismes d'IA générative
-- [[gelli-experiential-language-learning-2026]] — GELLI : un générateur d'interactions pour l'apprentissage expérientiel des langues (Symonette et coll. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratoire virtuel assisté par IA pour l'apprentissage inversé de la physique : effets sur la réussite, la motivation et la charge cognitive au collège
-- [[metacognitive-awareness-experiential-vs-instructional]] — Séances expérientielles contre magistrales pour la conscience métacognitive dans l'apprentissage assisté par IA (Benazet i Montobbio et coll. 2026)
-
-- [[yusuf-service-learning-mapping-2026]] — 26 études rapportées au cycle de l'apprentissage par le service communautaire : l'IA s'amenuise à l'évaluation et à la réflexion (Yusuf et al. 2026)
-

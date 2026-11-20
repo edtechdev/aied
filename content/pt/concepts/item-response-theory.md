@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -81,36 +83,3 @@ A TRI é uma fundação da [[educational-measurement|mensuração educacional]] 
 - **"Um benchmark que a maioria dos modelos passa é um bom benchmark."** Um benchmark alinhado a padrões pode **saturar**: em conjuntos de ciências do ensino fundamental e médio alinhados ao NGSS, **a maioria dos modelos de pesos abertos pontuou acima de 90%**, deixando as métricas clássicas de itens pobres. Saturação não significa que os modelos são excelentes; significa que os itens já não discriminam.
 - **"A dificuldade de um item é uma propriedade intrínseca do item."** Uma sonda causal que **editou 50 questões de teste por conjunto de dados** rumo a uma hipótese ou na direção oposta constatou que **edições que aumentam a dificuldade reduziram a precisão média em 15,27 e 23,88 pontos percentuais** no GSM8K e no BBH-structured. A dificuldade é uma relação entre item e modelo, e ela se move quando o item se move.
 - **"A TRI serve apenas para pontuar quem aprende."** [[assessing-quality-ai-generated-exams-field-2025|Avaliando Exames Gerados por IA]] usa um **modelo 2PL hierárquico bayesiano com itens-âncora de pré-teste para posicionar 1.686 estudantes**, o que é garantia de qualidade para a própria avaliação, e não pontuação para o estudante.
-
-## Conceitos conectados
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Artigos conectados
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Um Framework de Resposta Unificado para Questões e Diálogos de Tutoria
-- [[explaining-question-difficulty-natural-language-2026]] — Explicando a dificuldade das questões de LLM em linguagem natural por meio da TRI e de edições causais (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — O impacto das falhas de elaboração de itens sobre a dificuldade e a discriminação em TRI (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Modelagem Causal de Intervenções de Apoio para a Avaliação de Competência dos Estudantes
-- [[assessment-latent-structure-human-llm-2026]] — Os instrumentos de avaliação medem a mesma coisa para humanos e para LLMs? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validação de campo em grande escala com TRI de exames gerados por IA
-- [[jin-glat-genai-literacy-assessment]] — O GLAT usa validação TRI/2PL (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — Predição de dificuldade de itens por LLM
-- [[llm-psychometric-calibration-cdp]] — Alinhando a avaliação por LLM com a calibração psicométrica
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibração de dificuldade por LLM em exames de programação
-- [[multimodal-item-parameter-estimation-2026]] — Estimativa multimodal de parâmetros de itens
-- [[huang-interpretable-knowledge-tracing-2026]] — Rastreamento de conhecimento interpretável
-- [[irt-human-genai-mcq-responses]] — Usando a TRI para separar respostas humanas de respostas de GenAI em múltipla escolha
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimando a dificuldade dos itens usando LLMs e ML baseado em árvores
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Além dos Embeddings de ID: Modelagem de Linguagem Fundamentada no Processo para Diagnóstico Cognitivo
-- [[bayesian-consensus-irt-item-banks-2026]] — Calibração por consenso bayesiana de um banco de itens de TRI continuamente em evolução (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoria de campo mostrando que a TRI/Rasch é raramente usada como evidência primária de validação em instrumentos de letramento em IA de professores
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: a tutoria por IA e a tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
-- [[llm-benchmark-secondary-science-topics-2026]] — Um benchmark alinhado a padrões pode saturar

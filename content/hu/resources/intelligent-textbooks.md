@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -49,16 +50,3 @@ Oktatók és oktatástervezők, akik kurzustankönyvet akarnak építeni vagy ka
 ## Megjegyzések és fenntartások
 
 Ez gyakorlati útmutató és eszközlánc, nem lektorált tanulmány – munkafolyamatot és saját pedagógiai indoklást ad („az intelligens tankönyvek fogalmakon vezetik végig a diákokat tudásuk keresésében”), nem a tanulási eredmények bizonyítékát. A MicroSim-tanulmány áll a legközelebb az empirikus alaphoz, és maga publikálja az arXivon. Mindkét projekt nyílt forráskódú (az intelligent-textbooks repó MIT licencet és 38 csillagot jelez; a MicroSims Creative Commons licencet és 13 csillagot) és aktívan karbantartott. A fogalomgráfok és a szójegyzék-első szerkezet valóban hasznos a felfedezhetőséghez, de az útmutató meglehetősen technikai szerzői munkafolyamatot feltételez – MkDocs, Git és generatív MI-eszközök –, ami egyes kar tagjainak akadály lehet. A betöltés idején a MicroSimek nyilvántartása még csak a tervekben szerepel, így egy konkrét meglévő szimuláció megtalálása az oldal saját keresésére és navigációjára támaszkodik.
-
-## Kapcsolódó fogalmak
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

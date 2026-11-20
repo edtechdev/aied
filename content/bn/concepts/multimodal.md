@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -105,61 +107,3 @@ ai_assist:
 **"মাল্টিমোডাল সক্ষমতা একটি একক সিঁড়ি, তাই সামগ্রিকভাবে সেরা মডেলই চিত্রবহুল কাজে সেরা।"** সক্ষমতা কাজ-নির্দিষ্ট, আর সাধারণ [[benchmark|বেঞ্চমার্কে]] এগিয়ে থাকা মডেল বল-চিত্রে পিছিয়ে পড়তে পারে। চিত্রবহুল শাস্ত্রে প্রাসঙ্গিক পরীক্ষা হলো সেইটি যেখানে অর্থ চিত্রে ধারণ করা।
 
 **"কেবল-পাঠ টিউটরিংয়ের সীমা একটি উপদ্রব, [[curriculum-design|পাঠ্যক্রমের]] সমস্যা নয়।"** যে শাস্ত্রে চিত্রই সমস্যা — পদার্থবিদ্যা, রসায়ন, জ্যামিতি, প্রকৌশল, চিকিৎসা — সেখানে কেবল-পাঠ টিউটরের সক্ষমতার সীমানা মূল্যায়িত বিষয়বস্তুর প্রান্তে নয়, তার বুকের ওপর দিয়ে পড়ে।
-
-## সংযুক্ত ধারণা
-
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, এলএলএম প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
-- [[virtual-and-augmented-reality]] — শেখার চ্যানেল হিসেবে অঙ্গভঙ্গি, কণ্ঠ ও স্থানিক ইনপুট
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[elkington-human-centred-assessment-value-2026]] — মানুষ-কেন্দ্রিক মূল্যায়ন, assemblage ও উৎপাদনশীল সীমাবদ্ধতা (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — সমালোচনামূলক এআই সাক্ষরতার শিক্ষণপদ্ধতি হিসেবে এআই-নৈতিকতা নিয়ে ভিডিও PSA রচনা (Burriss প্রমুখ 2026)
-- [[student-attention-estimation-fairness-2026]] — রিয়েল-টাইম শিক্ষার্থী-মনোযোগ অনুমানের জন্য ন্যায্যতা-সচেতন মাল্টিমোডাল ট্রান্সফরমার মডেলিং
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — হাতে লেখা শিক্ষার্থী-গণিতে VLM-এর কর্মদক্ষতা (DrawEduMath, Lucy প্রমুখ 2026)
-- [[multimodal-learning-genai]] — জেনারেটিভ এআই নিয়ে মাল্টিমোডাল শেখার শিক্ষক-নির্দেশিকা (MMLD-AI মডেল)
-- [[syal-multimodal-dialogue-stem-2026]] — STEM-এ মাল্টিমোডাল ইন্টারফেরেন্স ইফেক্ট ও কাঠামোবদ্ধ-সংলাপ পুনরুদ্ধার
-- [[multimodal-ai-feedback-learning]] — মাল্টিমোডাল এআই প্রতিক্রিয়া শেখায় শিক্ষকের সমান, উপলব্ধিতে বেশি
-- [[multimodal-prompting-ai-literacy]] — এআই সাক্ষরতায় জ্ঞানতাত্ত্বিক কাজ হিসেবে শিক্ষার্থীদের মাল্টিমোডাল প্রম্পটিং
-- [[multimodal-item-parameter-estimation-2026]] — মাল্টিমোডাল এলএলএম দিয়ে IRT আইটেম-প্যারামিটার অনুমান
-- [[ai-guided-learning-audiovideo-2026]] — এআই-নির্দেশিত অডিও-ভিডিও শেখার সহায়তা
-- [[multimodal-knowledge-graph-educational-reasoning]] — শিক্ষামূলক যুক্তির জন্য মাল্টিমোডাল নলেজ গ্রাফ
-- [[mllm-scientific-visualization-literacy]] — বৈজ্ঞানিক দৃশ্যায়নের জন্য মাল্টিমোডাল এলএলএম সাক্ষরতা
-- [[multimodal-affective-its-presentation]] — আবেগিক বুদ্ধিমান টিউটরিংয়ে মাল্টিমোডাল সংকেত
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — আবেগিক মাল্টিমোডাল গণিত টিউটরিং
-- [[llm-cognitive-diagnosis-handwritten-math]] — হাতে লেখা গণিতের এলএলএম জ্ঞানীয় রোগনির্ণয়
-- [[nuclear-diffusion-text-to-image-learning-2026]] — নিউক্লিয়ার প্রকৌশল শিক্ষায় পাঠ-থেকে-চিত্র শেখা
-- [[privacy-aware-classroom-incident-recognition-2026]] — গোপনীয়তা-সচেতন মাল্টিমোডাল শ্রেণিকক্ষ-সংবেদন
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — সাইবার নিরাপত্তা শিক্ষায় মাল্টিমোডাল OCR নির্দেশনা
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: স্লাইড নিরীক্ষায় মাল্টিমোডাল এলএলএম-এর বেঞ্চমার্কিং
-- [[ai-grading-handwritten-physics-2026]] — হাতে লেখা পদার্থবিদ্যা মূল্যায়নের এআই গ্রেডিং (অলিম্পিয়াড)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — প্রাথমিক লেখায় মাল্টিমোডাল এআই রচনা ও সমালোচনামূলক চিন্তা (Lu প্রমুখ 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — সৃষ্টি ও নির্ভুলতার বাইরে: জ্যামিতি সমস্যা সমাধানে চাক্ষুষ চেইন-অব-থট নির্ণয় ও উন্নয়ন
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174টি শিল্পকর্মের ওপর 12টি কাজ দেখায় VLM-সক্ষমতা মাত্রা-নির্দিষ্ট প্রোফাইল হিসেবে, দুর্বলতম আবেগিক ব্যাখ্যা ও দৃষ্টিকোণ-নির্ভর স্থানিক যুক্তিতে (Zhu প্রমুখ 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — পরীক্ষামূলক পদার্থবিদ্যা ল্যাব-রিপোর্টের এআই-সহায়ক মূল্যায়ন: সম্ভাবনা, সীমা ও শিক্ষাদান-অনুশীলনে সহায়তা
-- [[kim-ai-embodied-learning-review-2026]] — এমবডিড শেখায় এআই মূলত পর্যবেক্ষণ করে: কোডকৃত ভূমিকা-ট্যাগের 62.5% সংবেদন-ভূমিকা, আর পর্যালোচিত কোনো ব্যবস্থাই শিক্ষার্থীদের ব্যবহারকালে মাল্টিমোডাল ধারা একীভূত করেনি (Kim ও Han 2026)

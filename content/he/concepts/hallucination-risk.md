@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,38 +72,3 @@ ai_assist:
 - **"שגיאות בולטות כשהן מופיעות."** AI המאבחן מתמטיקה בכתב-יד יכול **להמציא ציטוטי ראיות שלא היו שם תוך הצהרת ביטחון**. הכשל לא היה תשובה סבירה-אך-שגויה; הוא היה תמיכה מומצאת שהוצגה בוודאות, וזה הסוג הקשה ביותר לתפיסה משום שהוא נקרא בדיוק כראיה שקורא זהיר היה מבקש.
 - **"פלט בלי ציטטונים הוא בעיית עיצוב."** בקורס בוגרים שהחליף את ספר-הלימוד המסחרי שלו בקריאות שנוצרו ב-AI, רק **כ-0.80% מתוך 4,487 עמודים שנרשמו נשאו ציטטון-בתוך-טקסט בסגנון APA**. זהו היעדר אסמכתא ברמת-המאגר ולא השמטה מזדמנת, והוא פירושו שלאימות אין נקודת התחלה.
 - **"הזיה היא בעיית ייצור של המודל שמודלים חדשים פותרים."** טווח השכיחות משתרע על 10–40% לאורך 125 מחקרים, וזהו מאפיין של המשימה ושל הפריסה לא פחות מאשר של המודל. הפחתת השיעור היא התקדמות אמיתית ואינה משנה שקורא חייב להיות מסוגל לבדוק.
-
-## מושגים מחוברים
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## מאמרים מחוברים
-
-- [[sim-ai-summary-memory-distortion-2026]] — סיכום AI מטעה עיוות את זיכרונם של מבוגרים לסרטון, ותווית AI או אדם לא הגנה עליהם
-- [[frontiers-gai-hallucination-dependence-2026]] — תווית דו-שיח GAI כמומצא הורידה אמון ותלות יחד
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — רמזי אמינות הגבירו ציות לפלט AI, וחלק מן המקרים המצוטטים יוחסו בטעות או היו פיקטיביים
-- [[ivory-psychology-assessment-integrity-2026]] — ציטטונים מומצאים ופלטים סותרים-עצמית בתוך עבודת סטודנט עוברת (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: הסברים סבירי-שטף שגויים ברמה הקונספטואלית (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — הזרקות הנחיה מוסתרות מגבילות ציונים שנבדקו בבינה מלאכותית ללא זיהוי, והתקפות שזוהו לא מדווחות (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — עיצוב הערכות אותנטיות עם בינה מלאכותית יוצרת: מחקר פיילוט של הערכת Assessment Authentifire בהשכלה גבוהה

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -91,40 +93,3 @@ Bernstein اور Sibia (2026) دستاویز کرتے ہیں کہ CS2 طلبہ G
 - **"تعامل کی درجہ بندیاں طے شدہ ہیں۔"** **33 مطالعات کی 46 درجہ بندیوں میں ملتے جلتے لیبل مختلف مظاہر کو نام دیتے ہیں**، یہی وجہ ہے کہ جائزہ *تعامی قسط* کو اکائی تجویز کرتا ہے۔ ایک درجہ بندی سے مستعار لیا گیا کوڈنگ اسکیم شاید کوئی اور تعمیر ناپ رہا ہو۔
 - **"طلبہ AI کو بطور ٹیوٹر استعمال کرتے ہیں۔"** بغیر نگرانی کے استدلالی مضامین مکمل کرنے والے **38 انڈرگریجویٹ** طلبہ میں، **76.32% نے ایک ہی موڑ کا پوچھو-جواب لو-رک جاؤ انداز** استعمال کیا، عام طور پر جانچ کا عنوان چسپاں کرتے ہوئے۔ غالب انداز ایک موڑ کی بازیافت ہے، جو ٹیوٹرنگ نہیں۔
 - **"AI کا زیادہ استعمال مواد کے ساتھ زیادہ شمولیت ظاہر کرتا ہے۔"** **200 مشترکہ پروگرامنگ چیٹ نشستوں** کے تجزیے نے پایا کہ **78.8% طالب علم-GenAI تعاملات غیر مہارتی مقاصد اور حکمتِ عملیوں پر چلے**۔ تعامل کے حجم نے سیکھنے کی سمت کے علاوہ کچھ اور ناپا، چنانچہ نشستوں کی گنتی شمولیت کا گمراہ کن نمائندہ ہے۔
-
-## منسلک تصورات
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## منسلک مضامین
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — استعمال کی تعدد اور خود بتائی گئی مہارت نے 819 طلبہ میں کچھ بھی پیش نہ کیا
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — غیر نگرانی شدہ طالب علم–GenAI جانچوں میں علمی آؤٹ سورسنگ بمقابلہ دوبارہ تقسیم (Yan وغیرہ 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "کیا یہ جال ہے؟": جانچوں میں طالب علم اساتذہ کا GenAI نہ اپنانا (Zou وغیرہ 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — طالب علم-AI تعامل میں استفسارات کی اقسام کا تجزیہ
-- [[student-llm-interaction-taxonomy-review-2026]] — طالب علم-LLM تعامل کی درجہ بندی کا جائزہ
-- [[teacher-authored-prompts-student-ai-dialogue]] — طالب علم-AI مکالمے میں اساتذہ کے لکھے پرامپٹ
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — علمی AI خواندگی کی تعمیر
-- [[dura-llm-cs2]] — سمجھیں، استعمال کریں، غور کریں، جانچیں (DURA): CS2 میں LLM کا انضمام
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS تعلیم میں LLM پر مبنی تعلیمی ایجنٹ (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — لاگ شدہ پرامپٹنگ اور انضمام کے رویے
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — ناقص مگر یاد رہنے والا: کمپیوٹنگ تعلیم میں دلچسپی کے مطابق بنائی گئی GenAI تشبیہات کی طلبہ کی تنقیدی وصولی
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — بائی پاس، منتقلی، یا سہارا: بڑے زبان ماڈل سیکھنے کی شکل کیسے بناتے ہیں اِس کا تصوراتی ماڈل
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — جب AI ٹیوٹر بولتے ہیں: ایک بے ترتیب میدانی تجربے سے شہادت
-- [[context-prompts-physics-assignments-2026]] — سیاق کے پرامپٹ استعمال کرتے ہوئے AI سے چلنے والے طبیعیات کے اسائنمنٹ
-- [[three-pathways-student-ai-interaction-2026]] — طالب علم-AI تعامل کی تین راستوں والی درجہ بندی: 46% غیر فعال جائزہ، 18% براہِ راست سوال، 36% حکمتِ عملی والا مکالمہ
-- [[porcaro-ai-grading-benchmark-2026]] — اتفاق سے آگے: 22 پرامپٹ شدہ درجہ بندی کرنے والے ایسی جانچوں سے گزرتے ہیں جن کا صحیح جواب معلوم ہے، اور اُن میں سے زیادہ تر سے بات کر کے نمبر بڑھوائے جا سکتے ہیں (Porcaro 2026)

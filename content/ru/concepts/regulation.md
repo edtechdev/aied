@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -70,43 +72,3 @@ ai_assist:
 - **«Правила живут в институциональной политике по ИИ».** Опрос [[watson-rainie-ai-challenge-faculty-survey-2026|Watson и Rainie (2026)]] среди **1 057 американских преподавателей** показывает, насколько ниже институционального слоя лежат действующие правила: **87% респондентов написали** собственные руководства. Действующая политика в значительной степени написана преподавателями, а значит, документированный институциональный слой описывает меньше, чем кажется.
 - **«Написание политики покрывает рискованную поверхность».** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] показывает, почему инструменты оценивания принадлежат к регулируемому множеству: в ред-тим тесте **две из пяти непрямых инъекций промптов**, скрытых в сданной работе, сработали. Правило, которое называет инструменты, но не поверхности инъекций, оставляет эксплойт без ответа.
 - **«Агентные системы покрываются расширением существующих правил».** В документальном анализе **12 университетов** [[wong-sun-agentic-ai-assessment-governance-2026|Wong и Sun (2026)]] обнаружили, что **ни одна сравниваемая политика не рассматривала агента, входящего в систему управления обучением**. Пробел управления структурный: у существующих категорий нет слота для автономного актора с учётными данными.
-
-## Связанные концепции
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — правовое воздействие, когда регулирование и управление неясны или чрезмерно широки
-
-## Связанные статьи
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — ИИ в политике высшего образования Великобритании
-- [[oecd-digital-education-outlook-2026]] — Обзор цифрового образования ОЭСР 2026
-- [[genai-declaration-frameworks-higher-education]] — Рамки декларирования ИИ
-- [[genai-assessment-governance]] — Управление оцениванием при генеративном ИИ
-- [[league-ethical-governance-student-data-2026]] — Этическое управление данными студентов
-- [[student-regulatory-awareness-genai]] — Осведомлённость студентов о правилах в отношении генеративного ИИ
-- [[dot-framework-survey-2026]] — Рамочные системы внедрения технологий
-- [[raza-farooq-aied-review-2020-2025]] — Комплексный обзор исследований AIED
-- [[qian-governing-genai-higher-ed-policy-2026]] — Руководства вместо обязательной политики: внутренние правила ИИ в 50 инновационных университетах США (Цянь 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Политика юридических школ в отношении генеративного ИИ, оценённая по пяти измерениям: запретительна по умолчанию, усмотрение преподавателя, периодический пересмотр (Густовски и Хёрли 2025)
-- [[wright-transcription-not-generation-2026]] — Чрезмерно широкие запреты на ИИ и обязанности разумных приспособлений, которые они могут затрагивать (Райт 2026)
-- [[li-genai-assessment-language-equity-2026]] — Языковая принадлежность в правилах оценивания: граница «поддержка–подмена» как вопрос равенства (Ли 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Атаки с инъекцией промптов на ИИ-проверяющих и аргумент в пользу стандартизованного тестирования устойчивости (Хамбл 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Внешнее регуляторное давление как условие реформы управления (Коутс, Краучер и Калдерон 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% преподавателей пишут собственные правила при тонком институциональном политическом слое (Уотсон и Рейни 2026)
-- [[edtech-privacy-deferral-2026]] — «Мы исправим это позже»: образование, ИИ и отсрочка конфиденциальности студентов в EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Ни одна сравниваемая политика не рассматривала ИИ-агента, входящего в LMS или держащего учётные данные студента (Wong и Sun 2026)
-- [[chan-ai-policy-gap-2026]] — Вертикальное неприменение: правила штатов существуют, а финансирующие органы под ними не выпускают обязывающего инструмента (Chan 2026)

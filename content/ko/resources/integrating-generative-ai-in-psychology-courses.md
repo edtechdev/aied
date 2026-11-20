@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -92,9 +93,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 무료 PDF, 계정 불필요. 저작권은 STP에 있으며 크리에이티브 커먼즈 라이선스가 아닙니다. 출처 표시 시 개인 및 수업용 복사는 허용되지만, 재배포나 상업적 사용에는 저자의 허가가 필요합니다. 장들은 연구가 아니라 실무자 보고입니다 — 설계, 표본, 효과크기가 없습니다 — 따라서 주장을 경험 보고로 다루고 장을 개별적으로 인용하십시오.
-
-## 연결된 개념
-
-- [[social-sciences-education]] — 이 논문집이 강좌 수준 실천으로 심리학 섹션을 채우는 클러스터 페이지
-- [[ai-literacy]] — 편집자들이 이 모음집에 부여하는 발달적 틀
-- [[academic-integrity]] — 정책 장의 주제이자, 여러 강좌 장이 검증 단계를 내장하는 이유

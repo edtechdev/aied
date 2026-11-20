@@ -34,6 +34,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -194,54 +196,3 @@ L'IA in educazione si collega a ogni concetto della knowledge base — è il cam
 **"Poiché l'IA è general-purpose, un risultato trovato ovunque vale ovunque."** La generalità della tecnologia non crea generalità delle prove. I filoni delle discipline, dei livelli e dei contesti esistono perché lo stesso strumento si comporta diversamente al loro interno, e un risultato trasportato senza modifiche oltre un confine è un'estrapolazione.
 
 **"La maturità del campo si legge dal suo volume di pubblicazioni."** Volume e maturità divergono; il filone dei metodi di ricerca documenta debolezze ricorrenti di progettazione che il volume non corregge, e i framework si moltiplicano più in fretta di quanto vengano testati.
-
-## Concetti collegati
-- [[primary-education]] — l'IA nella scuola primaria
-- [[secondary-education]] — l'IA nella scuola secondaria di primo e secondo grado
-- [[undergraduate-education]] — l'IA negli studi di primo ciclo
-- [[graduate-education]] — l'IA negli studi magistrali e dottorali
-- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
-- [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
-- [[human-ai-collaboration]] — umbrella: how people and AI work together
-- [[pedagogy]] — umbrella: teaching methods and strategies
-- [[learning-theories]] — umbrella: how learning happens
-- [[ai-technologies]] — umbrella: models, techniques, and systems
-- [[discipline-specific-aied]] — umbrella: AI across subject areas and levels
-- [[assessment]] — umbrella: how AI assesses learners and reshapes validity
-- [[feedback]] — umbrella: how feedback is generated, delivered, and used
-- [[stakeholders]] — umbrella: who the actors are
-- [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
-- [[ai-ed-evaluation]] — umbrella: how we know whether AI works
-- [[research-methods-aied]] — umbrella: efficacy research methods
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[governance]] — umbrella: the institutional and regulatory layer
-- [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
-- [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion
-- [[learning-sciences]] — the empirical field behind AIED
-- [[ethics]] — the ethical dimensions of AI in education
-- [[misconceptions]] — the mental models people bring to AI
-- [[interpreting-and-applying-aied-research]] — reading a study, and carrying a finding into practice
-- [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
-- [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
-- [[history-of-aied]] — how the field evolved
-- [[philosophy-of-ai-in-education]] — the philosophical foundations
-- [[theories-and-frameworks]] — the map of theory and framework nodes
-- [[theory-development-aied]] — building and revising theory
-- [[case-based-learning]] — apprendimento basato su casi
-- [[metaphors-and-analogies]] — metafore e analogie
-- [[automation-bias]] — il fallimento lato lettore: accettare un giudizio automatizzato senza verificarlo
-- [[ai-avatars-and-synthetic-instructors]] — avatar di IA e istruttori sintetici
-- [[sensor-and-gaze-analytics]] — analisi di sensori e sguardo
-- [[civic-and-political-education]] — educazione civica e politica
-
-## Articoli collegati
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — L'evoluzione della ricerca su IA ed educazione lungo quattro decenni (framework AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — La base di evidenze sull'IA nella K-12: 52 solidi studi causali estratti da 1.686 paper di repository (aggiornamento novembre 2026)
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 studi sulla secondaria; guadagni dove gli studenti giudicano l'output, non dove lo strumento produce il lavoro
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 studenti magistrali; la prontezza raggiungeva l'auto-efficacia attraverso il supporto del supervisore
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Revisione di 61 fonti su etica, feedback e governance della supervisione dottorale
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminario post-laurea a gruppo singolo; guadagni di apprendimento autodiretto senza un test non assistito
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studenti; divario primo ciclo–post-laurea su etica e autoregolazione

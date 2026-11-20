@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -91,40 +93,3 @@ Bernstein ও Sibia (2026) CS2 শিক্ষার্থীরা GenAI ব্
 - **"মিথস্ক্রিয়া-শ্রেণিবিন্যাস নিষ্পত্তি হয়েছে।"** **33টি গবেষণার 46টি শ্রেণিবিন্যাসজুড়ে একই রকম লেবেল ভিন্ন ঘটনাকে নাম দেয়**, এজন্যই পর্যালোচনা *মিথস্ক্রিয়া-পর্ব*-কে একক হিসেবে প্রস্তাব করে। একটি শ্রেণিবিন্যাস থেকে ধার করা কোডিং-স্কিম ভিন্ন গঠন মাপতে পারে।
 - **"শিক্ষার্থীরা এআই-কে টিউটর হিসেবে ব্যবহার করে।"** অনিয়ন্ত্রিত যুক্তিমূলক প্রবন্ধ সম্পন্নকারী **38 স্নাতক শিক্ষার্থীর** মধ্যে **76.32% একক-পালার জিজ্ঞাসা-উত্তর-নাও-থামো ধরন ব্যবহার করেন**, সাধারণত মূল্যায়নের শিরোনাম পেস্ট করে। প্রধান ধরনটি একক-পালার পুনরুদ্ধার, যা টিউটরিং নয়।
 - **"বেশি এআই-ব্যবহার বিষয়বস্তুর সঙ্গে বেশি সম্পৃক্ততা বোঝায়।"** **200 সহ-প্রোগ্রামিং চ্যাট অধিবেশনের** বিশ্লেষণে দেখা যায় **শিক্ষার্থী-GenAI মিথস্ক্রিয়ার 78.8% অ-দক্ষতা-লক্ষ্য ও কৌশলে চলেছে**। মিথস্ক্রিয়ার আয়তন শেখার অভিমুখের বদলে অন্য কিছু মাপে, তাই অধিবেশন-সংখ্যা একটি বিভ্রান্তিকর সম্পৃক্ততা-প্রতিনিধি।
-
-## সংযুক্ত ধারণা
-- [[learners]] — শিক্ষার্থীরা: শিক্ষার্থী-পক্ষীয় ধারণাগুলোর ছাতা
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 শিক্ষার্থীজুড়ে ব্যবহার-কম্পাঙ্ক ও স্ব-মূল্যায়িত দক্ষতা কিছুই পূর্বাভাস দেয়নি
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — অনিয়ন্ত্রিত শিক্ষার্থী–GenAI মূল্যায়নে জ্ঞানসংক্রান্ত আউটসোর্সিং বনাম পুনর্বণ্টন (Yan প্রমুখ 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "এটি কি ফাঁদ?": মূল্যায়নে শিক্ষক-প্রশিক্ষণার্থীদের GenAI অ-গ্রহণ (Zou প্রমুখ 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — শিক্ষার্থী-এআই মিথস্ক্রিয়ায় অনুসন্ধানের ধরন বিশ্লেষণ
-- [[student-llm-interaction-taxonomy-review-2026]] — শিক্ষার্থী-LLM মিথস্ক্রিয়া শ্রেণিবিন্যাস পর্যালোচনা
-- [[teacher-authored-prompts-student-ai-dialogue]] — শিক্ষার্থী-এআই সংলাপে শিক্ষক-লিখিত প্রম্পট
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — জ্ঞানতাত্ত্বিক এআই-সাক্ষরতা গঠন
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): CS2-তে LLM-সমন্বয়
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS শিক্ষায় LLM-ভিত্তিক শিক্ষামূলক এজেন্ট (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — লগকৃত প্রম্পটিং ও সমন্বয়-আচরণ
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — ত্রুটিপূর্ণ কিন্তু স্মরণীয়: কম্পিউটিং শিক্ষায় আগ্রহ-ব্যক্তিগতকৃত GenAI উপমার প্রতি শিক্ষার্থীদের সমালোচনামূলক গ্রহণ
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — পাশ কাটানো, আউটসোর্স করা, নাকি স্ক্যাফোল্ড: বড় ভাষা-মডেল কীভাবে শেখা গড়ে তার একটি ধারণাগত মডেল
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — এআই টিউটর যখন কথা বলে: একটি র‍্যান্ডমাইজড ক্ষেত্র-পরীক্ষার প্রমাণ
-- [[context-prompts-physics-assignments-2026]] — প্রসঙ্গ-প্রম্পট ব্যবহার করে এআই-চালিত পদার্থবিজ্ঞান অ্যাসাইনমেন্ট
-- [[three-pathways-student-ai-interaction-2026]] — শিক্ষার্থী-এআই মিথস্ক্রিয়ার Three Pathways শ্রেণিবিন্যাস: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
-- [[porcaro-ai-grading-benchmark-2026]] — সম্মতির বাইরে: 22 প্রম্পটকৃত গ্রেডার এমন প্রোবের মুখোমুখি হয় যাদের সঠিক উত্তর জানা, এবং তাদের বেশিরভাগকে প্ররোচিত করা যায় (Porcaro 2026)

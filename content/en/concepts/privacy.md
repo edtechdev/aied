@@ -11,6 +11,8 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 reviewed_by: [editor]
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 > **Privacy** — the protection of student data, identity, and [[agency|autonomy]] in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[adaptive-learning|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
@@ -74,40 +76,3 @@ Privacy connects to [[learning-analytics|learning analytics]] (the data collecto
 - **"The proctoring literature establishes the ethics of proctoring."** A review of **80 studies** found **35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25%** met the reporting bar. The evidence base is thin on exactly the questions an institution needs answered before deployment.
 - **"Privacy is a compliance checkbox rather than a design constraint."** Nearly every AI tool that personalises, predicts or assesses depends on learner data, which makes data minimisation a design decision. A tool that requires the data does not have an optional privacy setting; it has a data dependency that the design chose.
 - **Awareness of data practices does not follow from seeing them.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found **66% of 47 year 7 students** selecting the least protective option on [[conversational-ai|chatbots]] reading their writing. A further **47%** dismissed algorithmic influence as "just fun," measured **one month after** a lesson in which the class watched its own logged behavior projected live, reacted that it was "scary," and several stayed through recess to keep using the platform. Privacy instruction that makes the mechanism visible without making the cost concrete leaves the stance unchanged. The author notes the low scores here may be **more reliable than the high ones**, since no socially expected answer exists for these items whereas responsibility and governance invite the correct-sounding response.
-
-## Connected Concepts
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
-
-## Connected Articles
-- [[stefanile-middle-secondary-ai-guidance-2026]] — COPPA and GDPR age floors that a product's terms of service do not clear (Stefanile, 2026)
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[kaziya-learner-data-privacy-governance-2026]] — Framework separating a teacher's privacy competence from the institutional authority to act on it
-- [[wells-genai-research-assistant-sociology-2026]] — A licensed institutional tenancy plus a certification gate as the privacy design

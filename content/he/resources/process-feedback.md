@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -45,8 +46,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 "חופשי" מכסה את זרימות העבודה של הכיתה הבודדת; תמחור מוסדי קיים בנפרד וקשור להיקף הפריסה, לטיפול בנתונים, לתמיכה ולתאימות ולא לחיוב לכל-תלמיד או לכל-מורה. מכיוון שדוח מציג תהליך ולא כוונה, העתקה-הדבקה לבדה אינה עבירה — ההדרכה של הפרויקט עצמה אומרת שתלמיד עשוי להדביק את הטקסט הקודם שלו, ושהתלמידים אינם צריכים להיענש רק על הדבקה. נתוני האימוץ ודירוג ה-Chrome Web Store של 5.0 הם השיווק של הפרויקט עצמו; ביקורות בחנות תוספים אינן ראיה עצמאית לתוצאות למידה. קראו את הדוחות כראיה לשיחה, וזה האופן שבו הכלי מעוצב ואופן שבו המפתח מתאר אותו.
-
-## מושגים מחוברים
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

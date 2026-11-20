@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,9 +42,3 @@ Tespit yöntemlerini değerlendiren araştırmacılar, bir dedektöre atıfta bu
 ## Notlar ve uyarılar
 
 Benchmark, makine tarafından üretilen metnin tespitini ölçer, suistimali değil: planlamak, taslak çıkarmak veya gözden geçirmek için AI kullanan bir öğrenci, dedektörlerin yakalamak için inşa edilmediği metin üretir ve [[language-learning|ikinci bir dilde yazan]] bir öğrenci, bir liderlik tablosunun gösteremeyeceği bilinen bir yanlış pozitif riskidir. RAID, akademik bir ekip tarafından sürdürülen bir araştırma eseridir; kapsam, test kümesindeki üretici modelleri izler, dolayısıyla benchmark yenilenene kadar yeni modeller yeterince temsil edilmeyebilir. Liderlik tablosu dedektörleri sıralar, satıcılarının veri işleme uygulamalarını değil; yüksek bir AUROC, öğrenci çalışmalarını o hizmete göndermenin sizin yargı bölgenizde yasal veya etik olup olmadığı hakkında hiçbir şey söylemez.
-
-## Bağlı kavramlar
-
-- [[ai-detection]] — benchmark'ın değerlendirdiği yöntem ailesi
-- [[academic-integrity]] — dedektör puanlarının kullanıldığı politika bağlamı
-- [[benchmark]] — bu aracın ait olduğu daha geniş araç sınıfı

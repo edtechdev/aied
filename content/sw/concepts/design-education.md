@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -72,47 +74,3 @@ Matatizo ya tathmini hapa hayatenganiki na ya kitaalamu. [[ai-interior-design-ma
 - **"GenAI inasaidia kwa jumla katika mchakato wote wa ubunifu."** Jukwaa la GAI-A lililojengwa katika somo la muda mrefu la studio liligundua **matumizi mawili yenye tija tu**: GenAI kama mchocheo wa kuona katika ubunifu wa mapema wa mawazo, na kama **kipanuzi cha mchanganyiko wa nafasi ya suluhisho wakati wa maendeleo**. Manufaa yalitegemea awamu.
 
 - **"Faida za ubunifu zinaenea mno kupimika."** Katika **kikundi kidogo cha wanafunzi 31**, alama za mawazo ya ubunifu zilipanda kutoka **77.23 hadi 94.68 (d = 0.82)**. Faida inapimika na imefungwa kwa kikundi kidogo, ambayo ni namna ya uaminifu ya dai hilo.
-
-## Dhana Zilizounganishwa
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Makala Zilizounganishwa
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: nafasi ya kazi ya ukosoaji wa AI inayotambua kitu kwa maoni ya studio; somo la utayari linalotegemea mifano, si faida za kujifunza
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]]: Jaribio la ubunifu wa usanifu ambapo mtiririko wa DALL-E 3 ulipunguza imani ya jumla ya kibunifu
-- [[human-ai-collaboration-design-education-rubric-2026]]: Rubriki ya mchakato inaweza kufanya uthibitishaji wa AI kuwa kitu kinachopewa alama
-- [[wang-ai-disruption-design-innovation-competence-2026]]: Ufahamu wa mabadiliko ya kiteknolojia ya AI, mtazamo wa fikra ya ubuni na uwezo wa ubunifu miongoni mwa wanafunzi wa ubunifu
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — mtazamo kama lango la lazima kwa nia ya wanafunzi wa ubunifu kutumia mawakala wa AI, na ufaafu wa kazi–teknolojia kama njia ya pili (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Aina ya utegemezi huamua kama ujuzi wa kutoa ilani unakuwa ushiriki
-

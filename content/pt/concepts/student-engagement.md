@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -134,68 +136,3 @@ O engajamento do estudante se conecta à [[motivation|motivação]] e à [[self-
 **"Mais atividade comportamental significa engajamento mais profundo."** Frequentemente o contrário. O engajamento cognitivo profundo com IA prevê a aprendizagem, enquanto o engajamento comportamental raso prevê o [[cognitive-offloading|excesso de dependência]] e o deslocamento da aprendizagem que dominam a literatura de risco; os [[polished-artifacts-fragile-engagement-2026|artefatos polidos]] são o caso canônico, em que uma saída limpa sinaliza atividade enquanto o pensamento não aconteceu. Registros de interação movimentados são compatíveis com desengajamento.
 
 **"A IA torna a aprendizagem mais envolvente por padrão."** [[ai-availability-student-motivation|Disponibilidade de IA e motivação]] mostra que apenas saber que a IA está disponível pode reduzir o valor percebido do engajamento esforçado, particularmente para quem aprende sendo novato. O engajamento é moldado por expectativa, valor e competência percebida tanto quanto pelos recursos da ferramenta, e varia por tarefa, contexto e quem aprende — o engajamento profundo de um estudante é a perseguição de saída de outro.
-
-## Conceitos conectados
-- [[learners]] — Quem aprende: o guarda-chuva dos conceitos do lado do estudante
-- [[pedagogical-partnerships]] — Parcerias pedagógicas
-- [[community-of-inquiry]] — Comunidade de investigação (o engajamento agêntico como dimensão da CdI)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Ensino e aprendizagem on-line
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (quem aprende, professores, designers, administradores, formuladores de políticas)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## Artigos conectados
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Letramento em feedback de IA e engajamento agêntico: um painel de três ondas com intercepto aleatório (Xu 2026)
-- [[assigned-ai-preclass-student-engagement-2026]] — A prática pré-aula com IA baseada em voz elevou as contribuições voluntárias às aulas em ~31%, mas apenas após um segundo uso (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — O uso de IA se associou a maior absenteísmo às aulas, enquanto a autoeficácia não o previu, com a influência dos pares como correlato dominante (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Quando as universidades defendem a IAG, mas a prática fica aquém: avaliações dos estudantes e engajamento no processo criativo na educação em arte
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG confinado à cabeça, rastreamento ocular e EDA preveem avaliações de engajamento em cinco níveis, enquanto as definições dos próprios estudantes deslocam o mapeamento (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Modelagem de transformador multimodal consciente de equidade para estimativa de atenção do estudante em tempo real
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — IA no ensino superior: revisão sistemática do engajamento + papel mediador dos métodos de ensino
-- [[genai-motivation-engagement-2026]] — Impacto da IA generativa sobre a motivação e o engajamento dos estudantes
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: mensurando o engajamento crítico no completamento de código por IA
-- [[icap-cognitive-engagement-llm-agents]] — Mensurando o engajamento cognitivo no discurso colaborativo
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: padrões multi-instituição
-- [[polished-artifacts-fragile-engagement-2026]] — Artefatos polidos, engajamento frágil
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": como a disponibilidade de IA molda a motivação
-- [[genai-performance-vs-learning]] — Distinguindo ganhos de desempenho de aprendizagem
-- [[scaffolding-critical-engagement-genai-minority-students]] — Andaimento ao engajamento crítico com IA generativa
-- [[engagement-intensity-learner-modeling]] — Intensidade do engajamento como sinal de modelagem de quem aprende
-- [[learning-engagement-assistant-lea]] — Assistente de Engajamento na Aprendizagem
-- [[engagement-assessment-video]] — Avaliação de engajamento na aprendizagem em vídeo
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: prevendo esforço e progresso
-- [[interactive-learning-dashboards-engagement]] — Painéis interativos de aprendizagem e engajamento
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Características de quem aprende × interações em formato de diálogo com TTS
-- [[wang-goal-setting-ai-engagement-2026]] — Teoria de estabelecimento de metas: apoio do professor, metas de desempenho e engajamento na aprendizagem de inglês assistida por IA (758 estudantes chineses)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Competência em IA generativa e emoção como impulsionadores do engajamento com chatbot (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Engajamento cognitivo de nível de Bloom associado à disciplina em conversas estudante–IA (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Ganhos de engajamento específicos por dimensão no nível fundamental (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Engajamento cognitivo e comportamental em alta, engajamento afetivo estável, em um estúdio imersivo de ABP em RV (Jin et al., 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Ensaio randomizado por cluster de matemática do ensino médio: o interesse situacional subiu com um chatbot personalizado, enquanto o desempenho em prova não (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — O letramento em IA impulsiona o engajamento diretamente e por meio do capital psicológico, amplificado pelo compromisso profissional (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria com IA e humana produzem ganhos de aprendizagem equivalentes no GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — O acesso a um tutor de IA reduziu a participação registrada na plataforma em 0,90 DP, enquanto o envio de lição de casa se manteve estável (Liu et al. 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Comportamentos conversacionais de desengajamento e aprendizagem em diálogos estudante–IA (Rho et al. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — Perfis de engajamento com IA autorrelatados e observados não corresponderam, e apenas o comportamento acompanhou as notas de quiz (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Quatro configurações de engajamento previstas sob IA generativa, e por que a ferramenta as amplifica
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Percepções de estudantes sobre fóruns de discussão: um estudo do Modelo de Aceitação de Tecnologia para informar o desenho de analítica da aprendizagem habilitada por IA

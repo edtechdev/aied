@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -40,9 +41,3 @@ Ulusal sistemler için model seçen politika yapıcılar ve satın alma ekipleri
 ## Notlar ve uyarılar
 
 Bir liderlik tablosu, modelleri benchmark'ın kendi görevlerinde ölçer: yüksek bir pedagoji puanı, o maddeler hakkında kanıttır, bir sınıf hakkında değil. Fiyat sütunu, girdi ve çıktı token fiyatlarını 3:1 oranında harmanlar; bu bir modelleme tercihidir ve herhangi bir belirli dağıtımın maliyeti değildir. Dillerin ve yerel olarak barındırılan modellerin kapsamı yeni modeller ortaya çıktıkça değişir ve küçük modellerin düşük uç puanları kısmen yetenek kadar görev biçimini de yansıtır. Fab AI'nın çerçevelemesi açıkça düşük ve orta gelirli ülkeler hakkındadır; dolayısıyla benchmark'ın madde kümesi bu bağlamı yansıtır ve genel bir eğitim sıralaması olarak okunmamalıdır. Yayımlanma tarihlerini kontrol edin: birkaç girdi mevcut model neslinden öncedir.
-
-## Bağlı kavramlar
-
-- [[benchmark]] — bu aracın ait olduğu daha geniş araç sınıfı
-- [[digital-divide]] — fiyat ve açık ağırlık sütunlarının görünür kılmak için var olduğu kısıt
-- [[equity-in-ai-education]] — liderlik tablosunun bilgi verdiği politika sorusu

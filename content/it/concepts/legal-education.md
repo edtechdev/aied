@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,9 +47,7 @@ La formazione giuridica prepara gli studenti a una professione regolamentata, co
 
 L'attuale base di evidenze è sottile e dominata dalle policy. Un articolo sostanzioso costituisce l'ancora della pagina: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski e Hurley (2025)]] hanno rilevato e confrontato le policy istituzionali sull'IA generativa nelle facoltà di giurisprudenza statunitensi approvate dall'ABA e hanno proposto un quadro di governance. Questo squilibrio è esso stesso un risultato, e la pagina lo segnala anziché mascherarlo.
 
-
 L'evidenza sperimentale comincia ad arrivare: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] hanno randomizzato 84 studenti universitari di giurisprudenza a un gioco di ruolo investigativo scritto dalla GenAI o alla lezione dello stesso docente, e il gruppo del gioco ha segnato molto più alto in un post-test di conoscenza e ragionamento (η² parziale = 0,566).
-
 
 ## Come l'IA compare nella formazione giuridica
 
@@ -59,7 +59,6 @@ L'evidenza sperimentale comincia ad arrivare: [[xie-genai-mystery-game-legal-edu
 - **Valutazione e integrità.** I casi problematici ricorrenti: redazione non dichiarata, citazione di autorità inesistenti ed esami che non misurano più l'analisi senza aiuti.
 
 - **Una revisione esplorativa di 82 lavori, per lo più non empirici.** [[lorteau-sarro-ai-legal-education-2025|Lorteau e Sarro (2025)]] mappano 82 lavori da 26 paesi; il 74% è apparso dopo il 2023 e solo 22 erano empirici. I modelli senza aiuti superano le valutazioni delle facoltà di giurisprudenza ma si collocano sotto gli studenti, e la prestazione migliora con istruzioni dettagliate e autorità fornite senza diventare affidabile. Gli usi pratici della rassegna sono materiali generati, simulazioni, coaching di scrittura e istruzione sulle competenze di IA; il suo rischio centrale è l'affidamento passivo, con la [[assessment-validity|valutazione]] come punto di pressione.
-
 
 ## Cosa mostra l'evidenza delle policy
 
@@ -78,9 +77,7 @@ Le raccomandazioni sono procedurali: linee guida chiare e complete qualunque sia
 
 Tre cose fanno della formazione giuridica più di un'ulteriore area disciplinare.
 
-
 Il metodo dei casi è un membro della più ampia famiglia dell'[[case-based-learning]]; quella pagina distingue i casi preparati e la discussione dei casi dall'indagine basata sui problemi e dalla simulazione.
-
 
 **La validità della valutazione è inseparabile dalla competenza professionale.** Si teme che l'[[cognitive-offloading|iperaffidamento]] durante gli studi di giurisprudenza lasci i laureati impreparati a un lavoro che richiede analisi e argomentazione giuridica indipendenti, e che una valutazione che premia l'output fluente non possa distinguere la comprensione dello studente da quella di un modello. La questione della [[assessment-validity|validità]] non è pertanto accademica.
 
@@ -101,33 +98,3 @@ In un esperimento in contesto giuridico, 186 decisori laici su casi civili di tr
 - **«Le facoltà di giurisprudenza hanno adottato una posizione definita.»** La maggior parte ha adottato **posizioni generalmente proibitive**, spesso spiegate come **un modo per guadagnare tempo per studiare la tecnologia**, mentre **quasi tutte le policy riservavano la discrezionalità ai singoli docenti**. Un divieto con l'eccezione del docente non è una posizione definita, è un rinvio con un valore predefinito.
 - **«L'evidenza delle indagini descrive il settore.»** **L'indagine ABA del 2024 ha raccolto risposte da sole 29 scuole, circa il 15% delle facoltà di giurisprudenza approvate dall'ABA**, e un'indagine LexisNexis su **800** professionisti misura una popolazione diversa. Nessuna delle due può essere trattata come rappresentativa della formazione giuridica, ed entrambe vengono citate come se lo fossero.
 - **«Omettere una raccomandazione dell'IA è neutrale.»** In un esperimento in contesto giuridico, **186 decisori laici su casi civili di tribunale hanno deferito a una posizione dell'IA scorretta molto meno quando il sistema ometteva la propria posizione (5,7-8,2% contro 42,0-60,5%)**. L'omissione non ha prodotto neutralità; ha prodotto una forte riduzione della deferenza, che è un effetto a sé.
-
-## Concetti collegati
-
-- [[academic-integrity]] — il quadro di condotta applicato al lavoro assistito
-- [[assessment-validity]] — se la performance assistita misuri la competenza attesa
-- [[authentic-assessment]] — progetti che richiedono analisi senza aiuti
-- [[ai-use-disclosure]] — norme di attribuzione e dichiarazione ancora prive di consenso
-- [[governance]] — la governance del corpo docente e la creazione di policy come la praticano le facoltà di giurisprudenza
-- [[educational-policy-ai]] — la policy istituzionale sull'IA come oggetto di studio
-- [[critical-thinking]] — il ragionamento che il metodo dei casi intende costruire
-
-- [[case-based-learning]] — il metodo dei casi e la discussione dei casi come pedagogia
-
-- [[socratic-method]] — dialogo dipendente dalla preparazione dello studente
-- [[experiential-learning]] — clinic e formazione basata sulla pratica
-- [[professional-training]] — la famiglia più ampia delle professioni regolamentate
-- [[career-development-and-readiness]] — la prontezza all'esercizio come scopo dichiarato
-- [[ai-literacy]] — la competenza tecnologica come dovere professionale
-- [[hallucination-risk]] — le citazioni fabbricate come fallimento caratteristico del campo
-- [[legal-issues-and-risks]] — ciò che le istituzioni affrontano quando la governance fallisce
-
-## Articoli collegati
-
-- [[lorteau-sarro-ai-legal-education-2025]] — L'intelligenza artificiale nella formazione giuridica: una revisione esplorativa di 82 lavori (Lorteau & Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Omettere la posizione del sistema riduce l'iperaffidamento nelle decisioni in contesto giuridico senza costruire giudizio (decisori laici, non studenti di giurisprudenza)
-
-- [[xie-genai-mystery-game-legal-education-2026]] — Gioco di ruolo investigativo scritto dalla GenAI contro lezione: un trial randomizzato (Xie et al. 2026)
-

@@ -9,6 +9,8 @@ created: "2026-08-29T12:55:12-04:00"
 updated: "2026-11-14T08:32:58-05:00"
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 > **Science education** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education literature reveals a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.
@@ -69,37 +71,3 @@ As a framework rather than a study, [[zhai-science-literacy-generative-ai-cohere
 - **"AI in science education has no causal evidence."** A **four-week randomized evaluation** of an AI revision platform in GCSE science gives a causal estimate of **Hedges' g = 0.33**, with **no evidence the effect differed by subject**. The effect is modest and it is causal.
 - **"Give students access and the gains follow."** **Structured access, not access itself, drives the gain**: team-reported growth averaged **17% under unlimited individual access but 34% and 31% when access was structured**. The structure was the intervention.
 - **"Scientific simulation requires specialised software."** A **four-element natural-language prompt** can generate a **hand-controlled augmented-reality physics simulation**. The barrier to authoring a simulation fell to the prompt design, which shifts the skill required from programming to specifying the phenomenon.
-
-## Connected Concepts
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Framework chapter on science literacy as coherence across curriculum, instruction and assessment (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science and chemistry education
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis and respiration
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Conceptual change texts vs. AI dialogue for heat and temperature
-- [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
-- [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Pre-service science teachers' AI perceptions and acceptance
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review
-- [[genai-learning-motivation-meta-analysis-2026]] — The only domain whose motivational interval crosses zero (g = 0.109, k = 3)
-- [[laiskhanov-ai-gis-geography-education-2026]] — General AI comfort did not transfer to GeoAI readiness

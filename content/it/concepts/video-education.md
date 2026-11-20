@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,7 +47,6 @@ Il video è una pietra miliare dell'educazione contemporanea — soprattutto del
 - **Generazione adattiva e strutturata di video.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] offre una pipeline strutturata che genera video pedagogico adattivo ancorato a corpora di corso, mostrando che la struttura pedagogica esplicita — non solo la [[ai-literacy|padronanza dell'IA]] — guida un video IA efficace. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] applica la stessa logica alla scala dell'intera lezione: da 31 lezioni magistrali ha generato 209 video per pubblici del settore sanitario, finanziario, energetico e generico, e 25 esperti con corrispondenza di dominio che ne hanno valutati 92 ne hanno collocato l'87% a metà o sopra la soglia scritta come "la qualità di una lezione MOOC standard" (media 3,42 su 5), con un costo API di circa \$0,22 al minuto — con voce, tempismo delle slide e layout come difetti ricorrenti.
 - **Un ciclo di apprendimento batte una resa migliore.** [[pivot-generative-video-tutors-stem-2026|Ma et al. (2026)]] pianificano ogni video come uno storyboard di obiettivi, attivazione dei prerequisiti, esempi svolti e sonde diagnostiche, abbinato a un quiz che evita gli esempi del video e a un rimedio per ogni opzione errata; il 96,9% di 32 docenti ha giudicato il ciclo più efficace di un video autonomo.
 
-
 - [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang e Nguyen (2026)]] accoppiano uno stadio di trascrizione MLLM a uno stadio di codifica LLM solo testuale in GAIVA per portare l'affidabilità a livello umano nell'analisi dei video di classe. I prompt di assegnazione dei ruoli producevano le trascrizioni più equilibrate (accuratezza M = 3,24, completezza M = 3,86), la doppia codifica dei valutatori raggiungeva ICC da 0,89 a 0,99, e la codifica basata sulle trascrizioni di GPT-4o raggiungeva κ = 0,91 per la Collaborazione Coordinata — sopra il κ umano-umano = 0,83.
 
 - **Una lettura neurale della codifica del video.** Le ricostruzioni [[sensor-and-gaze-analytics|EEG]] di fotogrammi video guardati erano semanticamente più simili per le domande a cui si rispondeva correttamente (M = 71,43) che per quelle sbagliate (M = 62,30, p < .001), e un disallineamento temporale sistematico — ricostruzioni che somigliano a fotogrammi precedenti — era quantificabile come misura di dispersione associata alla performance ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
@@ -54,10 +55,8 @@ Il video è una pietra miliare dell'educazione contemporanea — soprattutto del
 - **Commenti di supporto incorporati nel video — e ciò che l'IA sbaglia ancora.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du e Jin (2026)]] generano gli *i-Comments*, messaggi di [[scaffolding|supporto]] renderizzati all'interno della cornice del video e sincronizzati con il contenuto, calcolando l'entropia a livello di fotogramma e inserendo supporto solo negli intervalli a bassa informazione. Confrontati con 120 commenti di docenti esperti, i 1.000 commenti di ChatGPT erano più densi, molto meno variati strutturalmente (diversità di POS 3-grammi 5,5–6,2% contro 25,1–38,5%), più difficili da leggere su ogni indice di leggibilità, e meno allineati tematicamente (BERTScore per il supporto emotivo 0,317 contro 0,574); 40 studenti hanno valutato i commenti umani significativamente più alti su tempismo e utilità, sebbene un modello più recente abbia ridotto quel divario. L'argomentazione è un'argomentazione di design tanto quanto di automazione: il supporto incorporato nel mezzo evita il costo attentivo e cognitivo di mettere in pausa per interrogare un [[conversational-ai|chatbot]] separato ([[ai-feedback-quality|qualità del feedback]], [[social-emotional-learning|supporto emotivo]]).
 - **Supporto dell'IA per il consumo di video di lezione.** Oltre alla generazione, l'IA aiuta studenti e docenti a lavorare con il video esistente: i [[bilingual-llm-lecture-companion-srl-2026|compagni di lezione LLM bilingue]] supportano l'apprendimento autoregolato con le lezioni registrate, e le [[gemini-lualatex-physics-video-transcription-2026|pipeline di trascrizione]] convertono il video di lezione in testo accessibile.
 
-
 - **La fedeltà della trascrizione determina ciò che il testo può sostituire del video.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard e Rosenberg (2026)]] hanno messo a confronto cinque sistemi ASR con una trascrizione di riferimento umana su episodi di Crash Course U.S. History, con tassi di errore per parola che andavano dal 2,43% (TurboScribe) al 15,32% (Vosk). La codifica GPT-5.5 delle 48 trascrizioni ha trovato PERSON la categoria di entità nominata più frequente (2.033 in totale; M = 42,35 per episodio), e una scansione K predefinita ha selezionato K = 5, dove l'espansione dei riferimenti da parte dell'LLM produceva una separazione dei temi più chiara rispetto alla baseline ASR.
 - **Lo zoom a livello di regione è lo strato che mancava alle slide narrate.** Uno studio within-subjects con 24 spettatori ha trovato che lo zoom automatico più le evidenziazioni sincronizzate riducevano il carico NASA-TLX da 5,74 a 4,53 (d = 0,84) e alzavano la comprensione immediata (d = 0,46), sebbene il vantaggio a 24 ore non raggiungesse la significatività (p = ,054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
-
 
 ### Personalizzazione versus presenza umana
 
@@ -95,37 +94,3 @@ Produrre video IA efficace richiede struttura pedagogica e supervisione umana, e
 
 - Riporta insieme misure di preferenza e di esito, e dichiara apertamente quando uno studio ha solo le prime.
 - Riporta esplicitamente l'allineamento temporale, dato che il disallineamento tra contenuto video ed [[cognitive-psychology|elaborazione cognitiva]] emerge nei dati neurali.
-
-## Concetti collegati
-
-- [[online-teaching-and-learning]] — il video come mezzo centrale dell'istruzione online e ibrida
-- [[generative-ai]] — il motore del video generato e personalizzato dall'IA
-- [[personalized-learning]] — la personalizzazione come motore dell'attrattiva del video IA
-- [[adaptive-learning]] — la generazione e il ritmo adattivi del video
-- [[multimodal]] — il video che combina le modalità visiva, audio e testuale
-- [[learning-analytics]] — analytics su coinvolgimento e attenzione nel video
-- [[student-engagement]] — il coinvolgimento che la personalizzazione del video mira ad accrescere
-- [[pedagogical-agent]] — avatar/presentatori IA come agenti pedagogici virtuali
-- [[llm]] — i large language model alla base della generazione di sceneggiature e video
-- [[trust]] — la fiducia di chi apprende nei presentatori e nei contenuti IA
-
-## Articoli collegati
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: generating MOOC-quality industry-personalized lecture videos at scale (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
-- [[engagement-assessment-video]] — Engagement assessment in video learning
-- [[savvy-student-attention-video-learning]] — Student attention visualization for video-based learning
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companions for self-regulated learning
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
-- [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-
-
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Guarda là! Guida visiva dinamica per slide narrate dall'IA
-

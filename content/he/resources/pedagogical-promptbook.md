@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,7 +42,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## מה כדאי לדעת לפני השימוש
 
 הספר גלוי-גישה ברישיון CC BY, שהינו הקצה המתיר של הטווח לחומרי הוראה: מרצים רשאים להעתיק, להתאים ולהשתמש ב[[prompt-engineering|הנחיות]], לרבות למטרות מסחריות, בכפוף לייחוס נאות. הודות לכך פשוט להתאים הנחיה לקורס מסוים או להגדרת [[pedagogical-agent|סוכן]], דבר שהרישיונות המגבילים יותר על אוספים דומים אינם מתירים. הספר מתפרסם ב-EdTech Books בשנת 2026 עם הורדת PDF ומספר DOI 10.59668/2340, בעריכתו של David Wiley. מכיוון שכל פרק מדווח על עיצוב ההערכה כמו גם על התוצאה, הספר משמש גם כמודל למרצים שרוצים לבדוק את ההנחיות שלהם במקום לאמץ את שיקול הדעת של מישהו אחר.
-
-## מושגים מקושרים
-
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

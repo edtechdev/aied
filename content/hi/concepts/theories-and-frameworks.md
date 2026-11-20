@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -126,30 +128,3 @@ ai_assist:
 **"सीखने के सिद्धांत, शिक्षार्थी के मॉडल और अपनाने के ढाँचे विनिमेय लेंस हैं।"** वे अलग प्रश्नों के उत्तर देते हैं: सीखना कैसे होता है, शिक्षार्थी की स्थिति क्या है, और कोई अभ्यास क्यों फैलता है; और उनके प्रमाण-प्रकार तदनुसार भिन्न हैं। गलत परत चुनने पर ऐसा अध्ययन बनता है जो सही चर को गलत भविष्यवाणी के विरुद्ध मापता है, जो शून्य परिणाम जैसा पढ़ा जाता है जबकि वह श्रेणी-त्रुटि है।
 
 **"अधिक ढाँचे अर्थात अधिक परिपक्व क्षेत्र।"** AI युग के लिए गढ़े गए ढाँचे परखे जाने से तेज़ जमा होते हैं, और असत्यापन के बिना संचय प्रगति नहीं, लक्षण है। परिपक्वता प्रतिस्पर्धी भविष्यवाणियों के निराकरण में दिखती है, शब्दावली की वृद्धि में नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[theory-development-aied]] — क्षेत्र में सिद्धांत का निर्माण और संशोधन
-- [[philosophy-of-ai-in-education]] — मानदंड और वैचारिक परत
-- [[learning-theories]] — सीखने के सिद्धांत का छत्र
-- [[learning-sciences]] — पड़ोसी क्षेत्र जिससे अधिकांश सिद्धांत उधार लिए जाते हैं
-- [[limitations-in-aied-research]] — प्रमाण आधार क्या सहारा दे सकता है और क्या नहीं
-- [[tpack]] — शिक्षक ज्ञान ढाँचा
-- [[technology-acceptance-model]] — अपनाने के ढाँचे
-- [[item-response-theory]] — एक मापन मॉडल
-- [[universal-design-for-learning]] — एक डिज़ाइन ढाँचा
-- [[research-methods-aied]] — सिद्धांत की परीक्षा कैसे होती है
-
-## संबंधित लेख
-- [[ai-game-based-learning-systematic-review-2026]] — 55 AI खेल-आधारित सीखने के अध्ययनों में तंत्र-से-सिद्धांत संरेखण ने, एल्गोरिदमिक परिष्कार ने नहीं, प्रभावशीलता चलाई
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed ढाँचे के माध्यम से AIED के चार दशक
-- [[educating-minds-generative-ai-2026]] — जेनेरेटिव AI और सीखने का सिद्धांत-भारी संश्लेषण
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — शिक्षक व्यावसायिक विकास पर लागू गतिविधि सिद्धांत
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — गतिविधि सिद्धांत और शिक्षकों का अपनाना
-- [[generativism-learning-theory]] — जेनेरेटिव AI युग के लिए प्रस्तावित एक सीखने का सिद्धांत
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — ज्ञानवादिक सह-एजेंसी के सिद्धांत की ओर
-- [[absent-cognitive-baseline-2026]] — AI-मूल छात्रों के स्व-मूल्यांकन में एक संरचनात्मक अंतर का सिद्धांतांतरण
-- [[yan-agentivism-learning-theory-ai-2026]] — मानव-AI अंतरक्रिया के लिए एक मध्यवर्ती सीखने का सिद्धांत
-- [[ai-literacy-instrument-development-systematic-review-2026]] — एक कच्चे निर्माण में उपकरण विकास
-- [[mishra-control-vs-agency-history-2025]] — क्षेत्र का बुनियादी नियंत्रण-बनाम-एजेंसी तनाव
-- [[genai-chatbots-language-learning-affordances-review-2026]] — सामर्थ्य वर्गीकरण में चौथी श्रेणी के रूप में भावनात्मक सामर्थ्य प्रस्तावित

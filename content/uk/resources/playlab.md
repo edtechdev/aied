@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -42,8 +43,3 @@ ai_assist:
 ## Зауваження
 
 Доступ до конструктора обмежений: сторінка «з чого почати» просить адресу електронної пошти й місце на вступному семінарі або код-запрошення. Заяви про відповідність (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), обіцянку, що ваша робота ніколи не тренує зовнішні моделі, і передання прав на результати творцеві належить шукати в угоді про обробку даних, а не лише на маркетинговій сторінці; порівняння можливостей із MagicSchool і провідними чатботами належить самому Playlab і датоване серединою 2026 року. Проєкт виріс із роботи з кінцевим програмуванням користувачів, пов’язаної зі Scratch і MIT Media Lab.
-
-## Пов’язані поняття
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

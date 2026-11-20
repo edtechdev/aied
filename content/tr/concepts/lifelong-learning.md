@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -72,30 +74,3 @@ Yaşam boyu öğrenme, [[adult-learning]] ve [[professional-training]] (temel ba
 
 - İstihdam etkileri toplu bir yerinden etme rakamı olarak değil, yaş bandına göre bildirilmelidir; %16’ya karşı %8 karşıtlığı bulgunun kendisidir.
 - Biçimlendirici işin nerede kaybolduğu incelenmelidir, çünkü bugünkü kazanımların gelecekteki kıtlıklara dönüşme mekanizması budur.
-
-## Bağlı kavramlar
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## Bağlı makaleler
-
-- [[ai-adult-learning-guidelines-dis2026]] — Yetişkin öğrenmeyi destekleyen YZ teknolojileri tasarlamaya ilişkin yönergeler
-- [[ai-guided-learning-audiovideo-2026]] — Beceri edinimi için YZ rehberli öğrenme
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs ile yükseköğretimi yeniden düşünmek
-- [[andragogy-cognitive-delegation-genai-2026]] — YZ aracılı öğrenmede andragogi ve bilişsel devir
-- [[ai-lifelong-learning-policy]] — Yaşam boyu öğrenmede YZ: yetişkin eğitimi politikasında fırsatlar ve zorluklar
-- [[community-centered-ai-education-adults]] — Yetişkinler için topluluk merkezli YZ eğitimini ortak tasarlamak
-- [[cognitive-commons-ai-expertise-regeneration]] — Bilişsel mülkün trajedisi: YZ ve uzmanlığın yeniden üretimi
-- [[kim-ai-andragogy-2026]] — Yetişkin öğrenenlerin andragogide YZ’yi işbirlikçi bir öğrenme etmeni olarak görme perspektifleri (Kim ve ark. 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -74,32 +76,3 @@ Eğitimde sürdürülebilirlik ve YZ, [[ethics]], [[governance]], [[ai-education
 - **“Soyut YZ bilgisi, öğretmenlerin sürdürülebilirlik öğretme kapasitesini öngörür.”** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]], öğretmenlerin fen ve yeşil enerji bağlamlarında **YZ’yi pratik kullanımının** ve **sürdürülebilir kalkınma eğitimi (SKE) ile uyumlu materyaller geliştirmeye katılımlarının**, **soyut YZ bilgisinden ya da tutumlardan daha fazla** kapasitelerini öngördüğünü buldu. YZ hakkında bilmek ile onunla inşa edebilmek ayrıştı ve pratik yol daha fazlasını öngördü.
 - **“Sürdürülebilirlik pedagojisi altında YZ destekli öğretim tasarımı, sürdürülebilirlik pedagojisi üretir.”** Aynı çalışma, Sürdürülebilir Kalkınma Pedagojisi altında YZ destekli [[learning-design|öğretim tasarımının]] tasarımı genişletmek yerine belirli biçimlerde **kısıtladığını** buldu. Geleneksel materyallerle eğitilmiş bir model, tasarım çalışması bunu düzeltmedikçe geleneksel çerçevelemeleri yeniden üretir.
 - **“Sürdürülebilirlik bir konudur, kesişen bir tema değil.”** Her iki yol da düzeyler arasında uzandığı için sürdürülebilirlik [[higher-ed|yükseköğretimde]], K-12’de ve mesleki bağlamlarda görünür; bu da onun ayrı bir ders olarak öğretilmesi yerine her disiplinin içinde ele alınması gereken kurucu bir tema olduğu anlamına gelir.
-
-## Bağlı kavramlar
-
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Bağlı makaleler
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — İsveç anket ve odak grubu çalışması: kurumsal üretken YZ kararlarına intihal çerçevesi değil işbirliği etiği yön vermelidir
-- [[daniel-ai-sustainability-scoping-review-2026]] — Yükseköğretimde sürdürülebilirlik için YZ ve sürdürülebilir YZ'nin kapsam incelemesi
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sürdürülebilir eğitim ve YZ'ye değer-eleştirel yaklaşım
-- [[liu-ai-sustainable-engineering-education-2026]] — Sürdürülebilir mühendislik eğitimi için AI-SEE çerçevesi
-- [[riandi-teacher-ai-green-energy-education-2026]] — Yeşil enerji eğitiminde YZ bütünleşmesinde öğretmen katılımı
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sürdürülebilir YZ bilgi tabanı asistanları
-- [[llm-environmental-impact-student-usage-2026]] — LLM kullanımının çevresel etkileri
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Gömülü istihbarat aracılığıyla sürdürülebilir öğrenmeyi beslemek
-- [[caruana-pre-university-ai-education-slr-2026]] — Üniversite öncesi YZ eğitiminin sistematik literatür incelemesi (SKE 4 çerçevelemesi)

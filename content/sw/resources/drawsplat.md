@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -44,8 +45,3 @@ Walimu na wanafunzi wanaohitaji zana haraka na hawanawezi kusubiri leseni ya wil
 
 ## Vidokezo
 Tovuti ya bidhaa haitaji mwandishi binafsi na inaelekeza maombi kwa kikasha cha mradi; DrawSplat imejengwa na Miguel Guhlin, ambaye tovuti yake hurekodi uzinduzi wake. Kodi ni bure kwa maana ya leseni, si kwa maana ya bei tu: ubao mweupe ni GNU AGPL-3.0-or-later na programu za SplatWorks ni GPL-3.0-only, bila leseni kwa kila kiti kwenye vifaa vya wanafunzi. Zana zinazosoma faili zako hufanya kazi kwa ndani kwenye kivinjari, huku kuhifadhi kwenye wingu na ombi lolote la kujifunza kitaalamu likituma data, hivyo angalia ukurasa wa hesabu ya hifadhi kabla ya kuitumia na kazi ya wanafunzi.
-
-## Dhana Zilizounganishwa
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
-

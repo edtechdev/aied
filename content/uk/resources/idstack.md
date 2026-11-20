@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -43,6 +44,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Що варто знати перед впровадженням
 
 Для встановлення плагін вимагає Claude Code і оболонку bash; PowerShell і cmd не можуть виконати скрипт установки, а для трендів оцінок рекомендується Python 3. Дані курсу залишаються в папці проєкту на власній машині читача і залишають її лише через інтеграцію, яку викликає користувач, як-от запит до Canvas API. Інференс у режимі реального часу розширення Chrome потребує власного безкоштовного ключа API Google AI Studio читача, хоча режим симуляції демонструє його без такого ключа. Проєкт позначає себе бета-версією на рівні 3.5.1.0 і попереджає про несумісні зміни між другорядними версіями, а опублікований він на обліковому записі GitHub savvides, а не іменованим автором.
-
-## Пов’язані поняття
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

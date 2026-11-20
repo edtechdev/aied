@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -91,36 +93,3 @@ Los documentos de política y de contratación usan «adecuado a la edad» como 
 - **«Si dos grupos de edad difieren, el desarrollo lo explica.»** Las diferencias de edad transversales confunden cohorte, currículo, acceso a dispositivos y contexto. Solo los diseños que siguen a las mismas personas pueden separar el cambio de la diferencia.
 - **«Una herramienta que apoya el desempeño está desarrollando la capacidad.»** La compensación, el andamiaje y el desarrollo son funciones distintas; solo de la última cabe esperar que persista una vez retirada la herramienta.
 - **«Los juguetes de IA son materiales de juego neutros.»** El argumento de la redistribución de la agencia dice lo contrario: la capacidad de respuesta del juguete determina quién está imaginando.
-
-## Conceptos conectados
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## Artículos conectados
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 estudios de alfabetización en IA en K–12: una progresión de cuatro bandas sin ningún estudio que siga a los mismos estudiantes entre niveles (Guo, Ali y Wong, 2026)
-
-- [[ai-toys-child-development-2026]] — Los juguetes habilitados por IA redistribuyen la agencia en el juego (Xu, Girouard y Shi)
-- [[clara-developmental-appropriateness-children-stories-2026]] — Puntuación de adecuación evolutiva a partir de una taxonomía de 122 etiquetas
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Revisión de alcance sobre IA generativa y pensamiento creativo infantil
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Compensación, andamiaje y desarrollo como tres funciones de la herramienta
-- [[genai-reliance-executive-functioning-2026]] — La dependencia de la IA generativa en la adolescencia como preferencia frente al esfuerzo
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Niños y adultos conversando con ChatGPT en el escáner
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — Qué revelan los adolescentes a los chatbots, no cuánto los usan
-- [[ai-connectedness-adolescent-mental-health-2026]] — La conectividad con la IA como vínculo éticamente asimétrico (teoría)
-- [[ai-play-framework-early-childhood-2026]] — Alfabetización en IA basada en el juego y sin dispositivos para preescolar y jardín de infancia
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Dos ediciones de una guía de alfabetización en IA organizadas por edad
-- [[preservice-early-childhood-genai-magnetism-2026]] — Futuros docentes de educación infantil diseñando con IA generativa
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Entrenamiento con chatbots para las funciones ejecutivas, diez estudios
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Dependencia, estrés y disfunción ejecutiva en estudiantes universitarios

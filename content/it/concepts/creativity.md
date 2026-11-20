@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -46,11 +48,9 @@ La creatività abbraccia l'estremo del pensiero divergente dello spettro cogniti
 
 - **La modalità corrisponde alla fase creativa.** In un esperimento 2 × 2 con 120 studenti di arte e design, l'IA testuale durante la divergenza superava l'IA generativa di immagini nella performance creativa divergente (differenza media 0,823, p aggiustato con Holm < 0,001) ([[wei-genai-configurations-creative-phases-2026|Wei e Li (2026)]]). Il vantaggio della generazione di immagini nella convergenza non sopravviveva alla correzione di Holm (p aggiustato = 0,052), e nessuna sequenza — inclusa Text-to-Image — batteva le alternative nella performance creativa finale. I guadagni a livello di fase non si sommavano in un prodotto superiore.
 
-
 - **Rischio di omogeneizzazione:** l'assistenza di un singolo modello può ridurre la diversità delle idee tra gli studenti, cosicché lo stesso modello produce output convergenti. Questa è una minaccia diretta alla creatività nell'[[writing-education|educazione alla scrittura]] e nel [[design-education|design]].
 
 - **L'omogeneizzazione è una proprietà del dispiegamento, non dell'assistenza IA in quanto tale.** In un esperimento di scrittura con 247 partecipanti, l'assistenza con un solo modello e con due modelli alzavano entrambe la qualità dei saggi (Δ = 0,332 e 0,234 rispetto al controllo), eppure solo la condizione a due modelli riportava la diversità delle idee tra partecipanti alla baseline ([[multi-agent-llm-social-learning|Kumar et al. (2026)]]). Gli output convergenti di cui questa pagina avverte sono prodotti da *un* modello usato da tutti, quindi la leva di progettazione è il numero e la distinzione degli assistenti anziché la presenza dell'IA.
-
 
 - **Proteggere l'autonomia creativa:** mantenere il processo generativo dello studente nel ciclo — routine di bozza-prima, richiedere sintesi originale, e usare l'IA per sfidare anziché sostituire — preserva il lavoro creativo che produce apprendimento durevole.
 - **L'attrito non è guadagno creativo.** Personas di IA contrarie hanno guidato discorsi di sfida-e-riflessione nel 38,2% dei gruppi eppure non hanno prodotto alcun miglioramento misurabile della performance creativa, quindi pattern di interazione più ricchi non sono prova di creatività ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
@@ -96,45 +96,3 @@ La creatività si collega al [[critical-thinking|pensiero critico]] e all'appren
 - **"Disturbare gli studenti produce guadagni creativi."** **L'attrito non è guadagno creativo.** Personas di IA contrarie hanno guidato discorsi di sfida-e-riflessione nel **38,2% dei gruppi** eppure non hanno prodotto **alcun miglioramento misurabile della performance creativa**. Il discorso è cambiato e l'esito misurato no.
 - **"La letteratura K-12 stabilisce che la GenAI migliora la creatività."** Una revisione di scoping guidata da PRISMA su **45 studi (2017-2025)** mostra che la GenAI per lo più **migliora** la creatività e **raramente la misura**. Il risultato dominante del campo è un'inferenza dal miglioramento percepito, che non è una misurazione di esito.
 - **"Più dipendenza dalla GenAI significa più output creativo."** Tra **1.157 studenti laureati cinesi**, la dipendenza dalla GenAI era **associata positivamente alla creatività nella ricerca auto-riferita** — e l'associazione è con l'**autovalutazione**, che è la misura più debole disponibile del costrutto.
-
-## Concetti collegati
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Articoli collegati
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
-
-- [[wei-genai-configurations-creative-phases-2026]] — Configurazioni di IA generativa attraverso le fasi creative: un esperimento 2 × 2 su performance creativa e conoscenza immediata nell'educazione artistica e del design
-
-
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers' engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
-
-- [[multi-agent-llm-social-learning]] — L'assistenza a due modelli ha ripristinato la diversità ideativa che un singolo modello appiattiva (Kumar et al. 2026)
-
-
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source

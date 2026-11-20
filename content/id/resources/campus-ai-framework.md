@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -75,10 +76,3 @@ AI](https://unit-ai-adoption-plan.netlify.app/) tingkat unit, dan taklimat tenta
 eksekutif](https://campusaiframework.com/sites). Strategic Compass juga beredar sebagai dokumen Google
 bersama, yang memerlukan akun Google untuk dibuka. Pertanyaan onboarding singkat yang opsional tentang
 peran dan institusi muncul saat masuk; surel bersifat opsional dan seluruh situs dapat dibaca tanpanya.
-
-## Konsep terkait
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

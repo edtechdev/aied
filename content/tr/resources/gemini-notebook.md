@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 verified: [links]
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,7 +47,3 @@ Kendi ders materyallerinden tekrar yapan [[self-directed-learning|kendi kendine 
 ## Notlar ve uyarılar
 
 Google; kişisel hesap içeriğinin, kullanıcı geri bildirim göndermedikçe modellerini eğitmek için kullanılmadığını, Workspace yüklemelerinin, sorgularının ve yanıtlarının geri bildirim verildiğinde bile eğitim için kullanılmadığını ve [[privacy|verilerin üçüncü taraflarla paylaşılmadığını]] belirtir; ancak silinen not defterleri kurtarılamaz. Yukarıdaki yetenek iddiaları satıcının kendi iddialarıdır ve bir ilçe ya da kurum bunları bir ürün sayfasına değil kendi veri işleme sözleşmesine karşı doğrulamalıdır. 2026’daki haber kapsamı ayrıca üretilen podcast’lerde kullanılan sese ilişkin, Google’ın reddettiği bir davadan söz etti; bu, ses çıktılarının kaynak temelli korumalardan ayrı [[legal-issues-and-risks|benzerlik soruları]] gündeme getirdiğinin bir hatırlatıcısıdır. Üretilen flashcard’ları, quiz’leri ve özetleri kaynaklara karşı kontrol edilecek taslaklar olarak ele alın ve ücretsiz katmanın limitlerinin haber verilmeden değiştiğini not edin.
-
-## Bağlı kavramlar
-
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -51,7 +52,3 @@ narasi, menemukan aset yang membuat mata kuliah melewati batas [[edtech-platform
 cakupan takarir dengan tangan — dan membangun perbaikannya lalu membagikannya gratis. Situsnya juga
 menjalankan survei tahunan gratis tentang bagaimana perancang pembelajaran sebenarnya menghabiskan
 pekannya.
-
-## Konsep terkait
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

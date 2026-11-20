@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -88,38 +90,3 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - **“感受到现象就意味着理解它。”** 一项试点发现，学生报告通过手势比通过滑块更强烈地**感受到**波长与振幅，但它**测量的是感知，而非成绩**。所感受到的东西是可供性，而它是否产出了理解是另一个检验。
 - **“高可用性得分验证了一件教育 VR 工具。”** 在一场用 Meta Quest 3 进行的**一小时课程、10 名学生**中，该研究报告了**系统可用性量表上的良好可用性与极轻微的模拟不适**。可用性与舒适是前提，二者都不是学习测量。
 - **“学生的认同是可供性的证据。”** 在 **29 名二年级医学影像学生**中，全部 29 人都**同意该手势帮助他们“感受”波长是什么（均值 4.52）**。对一个感受的一致同意是关于体验的自我报告，而可供性主张需要一个不依赖学生对自己理解之判断的结果。
-
-## 关联概念
-
-- [[simulation]] — 沉浸式环境通常显示的东西；模型，而非模态
-- [[embodied-learning]] — 该模态本应利用的机制
-- [[multimodal]] — 手势、语音与空间输入作为学习通道
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — 沉浸式练习最为成熟的环境
-- [[generative-ai]] — 新的创作层
-- [[prompt-engineering]] — 非程序员如何构建与精炼沉浸式工具
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — 在头显内落地指导
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — 保真度，以及学习者对其局限的觉察
-- [[cognitive-offloading]] — 延迟与不稳定作为额外负荷
-- [[edtech-platform]] — 同步、延迟与多地点的临场
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## 关联文章
-
-- [[genai-ar-physics-simulation-prompt-2026]] — 四要素提示生成手控 AR 物理模拟；29 名学生试点，仅感知证据
-- [[mixed-reality-engineering-learning]] — 工程力学中混合现实应用 vs. 实体工具包 vs. 课堂；参与度上升，复杂可视化仍难
-- [[medgame-llm-medical-education-gamification]] — 带 AI 的游戏化医学训练
-- [[tech-enhanced-tabletop-cybersecurity-education]] — 网络安全教育中的增强桌面场景
-- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作式建筑工作室教学中的应用：一项探索性研究
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL：配有 LLM 支持教学助手的沉浸式 VR 设计工作室，与常规 PBL 对比评估（Jin 等，2026）
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote：VR 舞台灯光教育中的 LLM 辅助多模态教学，以及落地在哪里失效（Liang 等，2026）

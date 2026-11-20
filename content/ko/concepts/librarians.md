@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -74,35 +76,3 @@ ai_assist:
 **"정보 리터러시는 일회성 오리엔테이션 세션입니다."** 그것은 보조가 아니라 수업입니다. 학생들이 가져오는 질문은 평가와 전략의 문제, 즉 이 출처가 신뢰할 만한가, 이것을 어떻게 검색하는가이며, 완료해야 할 거래가 아니라 가르칠 수 있는 기능입니다. 서비스를 보조로 다루면 교육과정이 헬프데스크로 바뀌고 지속되는 역량을 잃습니다.
 
 **"검증 비용을 누가 부담하는지는 다른 사람의 문제입니다."** 상담 부하는 도서관 인력에 떨어지며, 논문 자체의 질문은 도서관에 그 부담을 지우라고 요구하는 것이 인력 규모를 앞지르는지 여부입니다. 공동 설계와 파트너십이 문헌이 권하는 대응인 이유는 검증 비용이 실재하고, 그것을 예산에 넣지 않은 부서에 떨어지기 때문입니다.
-
-## 연결된 개념
-
-- [[ai-literacy]]
-- [[information-and-media-literacy]]
-- [[libraries]]
-
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## 연결된 문서
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 내장 사서 세미나 플랫폼, 출처 평가가 이끈 상담 312건
-- [[genai-academic-search-workshop]] — GenAI와 학술 검색에 관한 CHIIR 2026 워크숍, 사서 신뢰 격차
-- [[maybee-disruptive-partnerships-sap-2025]] — 학생을 동반자로 삼아 AI 리터러시를 공동 설계하는 학술 사서들
-- [[aarc-ai-research-competency-2026]] — 가르칠 수 있는 연구 헌신으로서의 검증, 인용, 성찰
-- [[pearls-epistemic-verification-2026]] — 여섯 차원 검증 프로토콜, 관문으로서의 접근과 정당성
-- [[hingle-collaborative-ai-literacy-2025]] — AI 리터러시를 위한 협동 학습, 정보 리터러시 이득의 전이
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 교수자는 귀속과 책임 있는 사용을 가장 높이 평가하지만 26가지 기술 중 몇 가지만 가르친다
-- [[bird-multimodal-educational-literature-2026]] — 영어 교사와 사서 같은 비기술 사용자를 위해 만들어진 텍스트 복잡도 도구
-- [[cognitive-offloading-llm-synthesis-writing]] — AI가 출처를 종합해 줄 때 학습자들이 무엇을 부담 전가하는가
-- [[citation-errors-hallucinations-computing-education-2026]] — 검증의 문제로서의 날조되고 잘못된 인용

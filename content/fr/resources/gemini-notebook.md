@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -42,6 +43,3 @@ Aux [[self-directed-learning|apprenants autodirigés]] qui révisent à partir d
 ## Remarques et réserves
 
 Google déclare que le contenu des comptes personnels n'est pas utilisé pour entraîner ses modèles sauf si l'utilisateur envoie un retour, que les téléversements, requêtes et réponses Workspace ne sont pas utilisés pour l'entraînement même lorsqu'un retour est donné, et que les [[privacy|données ne sont pas partagées avec des tiers]] ; les carnets supprimés, en revanche, ne peuvent pas être récupérés. Les affirmations de capacité ci-dessus sont celles du fournisseur, et un district ou une institution devrait les vérifier contre son propre accord de traitement des données plutôt que contre une page produit. La couverture de 2026 a aussi décrit un procès au sujet de la voix utilisée dans les podcasts générés, que Google a nié, rappel que les sorties audio soulèvent des [[legal-issues-and-risks|questions de ressemblance]] distinctes des protections d'ancrage dans les sources. Traitez les cartes mémoire, quiz et résumés générés comme des brouillons à vérifier contre les sources, et notez que les limites de l'offre gratuite changent sans préavis.
-
-## Concepts liés
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

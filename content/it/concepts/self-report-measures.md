@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -89,9 +91,7 @@ Una revisione strutturata e [[meta-analysis-systematic-review|meta-analisi]] esp
 
 Una revisione sistematica in due fasi assegna un tasso a quella divergenza a livello di conclusioni: su 51 coppie sullo stesso costrutto tratte da 47 rapporti, 30 concordavano, 11 divergevano e 10 erano miste. Il disaccordo correva in entrambe le direzioni: cinque confronti accoppiavano un risultato autodichiarato nullo a un risultato di performance positivo, contro due nel senso opposto ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
-
 Una biblioteca universitaria ha messo i due flussi a confronto sulle stesse proposizioni e li ha trovati divergenti. I prestiti annuali in formato cartaceo sono scesi da 406.120 nel 2017 a 46.339 nel 2025 e i mutuati unici da 30.033 a 7.278, ma il calo era iniziato prima del periodo GenAI, e il punto di rottura di gennaio 2023 non mostrava alcun cambiamento di livello o di pendenza. L'indagine attribuiva il peso esplicativo ai costrutti: la domanda di lettura profonda prediceva l'intenzione di continuare con la carta a H1 β = 0,908, mentre il percorso di sostituzione ipotizzato era prossimo allo zero (H4 β = 0,038, *p* = 0,631), e le funzionalità di IA della piattaforma erano lo 0,53% delle operazioni nella prima metà del 2026. I rispondenti non potevano essere collegati ai registri dei prestiti secondo le regole di governance dei dati, quindi la divergenza può essere letta solo a livello di popolazione, non persona per persona ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
-
 
 La letteratura sugli strumenti può essere essa stessa letta come evidenza della scala del divario. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore e Maat (2026)]] hanno valutato 33 strumenti per l'alfabetizzazione all'IA degli insegnanti e hanno trovato che 31 (93,9%) erano scale di autodichiarazione della fiducia percepita, solo 2 (6,1%) testavano la conoscenza in modo oggettivo, e nessuno usava compiti basati sulla performance tra il 2019 e il 2025. La loro conclusione è quella a cui questa pagina continua a giungere da altre direzioni: i punteggi di autodichiarazione indicizzano la fiducia anziché la capacità, perciò non possono sostituirsi alla competenza quando si confrontano gruppi o programmi.
 
@@ -100,7 +100,6 @@ Le misure di esito ereditano lo stesso divario. [[pramod-agentic-ai-motivational
 L'intenzione è il caso più netto di quel divario, perché un solo punteggio di intenzione può coprire comportamenti opposti. Somministrando di nuovo gli item a 68 dei 340 studenti e intervistandone otto, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] hanno trovato la stessa intenzione dichiarata coprire un uso orientato all'apprendimento, uno orientato alla scorciatoia e uno misto — con gli utenti della scorciatoia che citavano una bassa fiducia anziché disinteresse.
 
 - **«Gli studenti riportano ciò che hanno fatto.»** La traccia ha contraddetto l'indagine in una direzione utile. In uno studio sui saggi in cui **15 su 77 (19,5%)** hanno consegnato saggi senza parole digitate, la titolarità percepita è calata solo in quel gruppo che delegava del tutto, mentre chi usava il modello per pianificare o rivedere riportava una titolarità al livello degli studenti che non lo avevano mai aperto. L'autodichiarazione distingueva quindi gli estremi e appiattiva tutto ciò che stava in mezzo, che è ciò che una misura della percezione può fare e ciò che non può fare. [[jelson-students-chatgpt-essay-writing-2026|Il divario percezione-comportamento, misurato con le battute di tastiera]].
-
 
 ## Soddisfazione e apprendimento percepito come esiti
 
@@ -113,9 +112,7 @@ La soddisfazione è l'esito autodichiarato più frequente in questo corpus, pres
 
 Lo schema da portare con sé: la soddisfazione è sensibile alle cose sbagliate quando l'obiettivo è l'apprendimento. Un sistema che risponde rapidamente, concorda prontamente e riduce lo sforzo sarà valutato positivamente, e quelle stesse proprietà sono quelle che la base di conoscenza associa a una ridotta [[desirable-difficulties|lotta produttiva]] e a performance gonfiate sul lavoro assistito dall'IA. La soddisfazione riportata e l'apprendimento misurato non sono nemici; semplicemente non sono sostituti, e trattare la prima come evidenza del secondo è lo slittamento più comune che questa pagina documenta.
 
-
 **Le misure della percezione superano quelle delle abilità nella letteratura sull'indagine con l'IA generativa.** In una revisione di 66 studi, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] hanno trovato le percezioni degli utenti il dominio di esito più riportato (32 studi, 48,5%), seguito dagli esiti affettivi a 25, mentre solo 8 studi (12,1%) misuravano abilità di indagine e 4 di questi avevano una condizione di confronto. Gli autori non hanno attribuito alcun livello di certezza all'evidenza, quindi i conteggi delle percezioni descrivono ciò che è stato chiesto anziché ciò che è stato ottenuto.
-
 
 ## Che cosa rende credibile uno strumento di autodichiarazione
 
@@ -126,9 +123,7 @@ Quattro proprietà separano un'indagine che può sostenere un'affermazione da un
 - **Invarianza, quando si confrontano gruppi.** Una scala che si comporta diversamente tra popolazioni non può sostenere un confronto. [[same-ai-different-pathways|Il lavoro in SEM multigruppo]] riporta il test di invarianza di misura (configurale, metrica, scalare) accanto ai suoi effetti indiretti, e [[genai-thoughtless-use-self-directed-learning-2026|un confronto Svizzera–Cina]] ha trovato che solo il valore intrinseco raggiungeva l'invarianza metrica e non quella scalare — un limite dichiarato anziché nascosto, e uno che vincola ciò che le sue differenze tra paesi possono significare.
 - **Un'alternativa di performance dove il costrutto è la competenza.** I 20 item a scelta multipla di GLAT esistono precisamente perché l'autodichiarazione non può reggere un'affermazione di competenza.
 
-
 **La maggior parte degli strumenti in questo spazio riporta l'affidabilità e quasi nessuno riporta la validità.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citano la revisione di Su et al. su 36 studi sull'alfabetizzazione all'IA, che ha trovato il 63,8% degli strumenti riportare evidenza di affidabilità e meno del 20% riportare evidenza di validità. La stessa revisione ha trovato un solo strumento specifico per l'IA generativa, il GAIAS a 27 item, tra 50 framework [[k-12|K-12]]. Che una scala sia internamente coerente non dice nulla sul fatto che misuri il costrutto nominato nel suo titolo.
-
 
 ## Campionamento, risposta e non risposta
 
@@ -170,55 +165,3 @@ Le risposte costruttive della base di conoscenza sono coerenti, e nessuna di ess
 - **"L'evidenza da sondaggio è debole ma più o meno priva di distorsioni."** La struttura delle risposte delimita la stima prima ancora del bias: un sondaggio ottiene **112 risposte con un tasso di risposta del 31%**, oppure **90 risposte su 572 inviti**. Il bacino dei rispondenti è un sottoinsieme autoselezionato, quindi la cifra descrive quel sottoinsieme.
 - **"I sondaggi sono un metodo minoritario in questo campo."** Una revisione esplorativa di **394 studi sull'[[mapping-genai-higher-ed-scoping-review|IA generativa nell'istruzione superiore]]** ha trovato le **scale di sondaggio il metodo di valutazione più frequentemente riportato (269 studi, 68,3%)**, davanti a test e quiz. L'evidenza dominante del campo è autodichiarata.
 - **"Autodichiarazione e costrutti misurati concordano."** Il **carico cognitivo autodichiarato non differiva in modo significativo tra profili di scaricamento che andavano dall'80% al 2% nella paternità dei saggi**, mentre gli scaricatori più intensi differivano in modo misurabile. La misura soggettiva era piatta dove il comportamento variava di un fattore quaranta.
-
-## Concetti collegati
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Articoli collegati
-- [[high-school-genai-acceptance-tam-physics-2026]] — Un solo punteggio di intenzione, due usi opposti
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — La modalità di somministrazione di uno strumento autodichiarato cambia che cosa misura
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profili derivati da proxy autodichiarati invece che da tracce di interazione
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisione in due fasi che assegna un tasso al disaccordo tra autodichiarazione e performance sullo stesso costrutto (Fan et al. 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
-- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
-- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
-- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
-- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
-- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
-- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
-- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
-- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
-- [[student-genai-use-views-writing|Uso di GenAI da parte degli studenti e opinioni sulla scrittura]] — Survey plus interviews in one sociology department
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — La titolarità percepita separava la delega dell'intero saggio da tutto il resto, mentre la traccia separava molto di più (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - percezioni riportate in 32 studi su 66 contro 8 che misuravano abilità di indagine
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - Il 63,8% degli strumenti di alfabetizzazione all'IA riporta evidenza di affidabilità e meno del 20% evidenza di validità
-- [[huang-genai-academic-information-resources-2026]] — Log della biblioteca e atteggiamenti da indagine che puntano in direzioni diverse
-

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -142,53 +144,3 @@ ai_assist:
 - **"תוויות קבוצה לוכדות את השונות שחשובה."** **תוויות קבוצה מסתירות את השונות שבתוכן**: במטא-אנליזה של מוגבלות, תלמידים עם **מוגבלויות למידה ספציפיות, מוגבלויות אינטלקטואליות והתפתחותיות** וקטגוריות אחרות נאגדים יחד, ולכן הממוצע הקבוצתי אינו מתאר אף אחד מהם.
 - **"ניתוחי תת-קבוצות עונים על שאלת ההשפעות הדיפרנציאליות."** הם בדרך כלל **קטנים מדי כדי לענות עליה**: ה[[ai-tutoring-micro-rct-gcse-science-2026|micro-RCT במדעים ב‑GCSE]] אומר זאת באופן בלתי-רגיל במפורש, שהניגוד של ה**טיפול** מתוכנן לעוצמה עבור האפקט הכולל ולא עבור הבדלי תת-קבוצות. ממצא תת-קבוצה חסר-עוצמה הוא היפותזה, לא תוצאה.
 - **"אפקט משוכלל בינוני אומר לך אם קבוצה נתונה נהנית."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 מחקרים (קווזי-)ניסוייים]] אוגדו ל‑**Hedges' g = 0.588 (95% CI [0.349, 0.826])** על-פני קטגוריות מוגבלות. הרווח מתאר את הממוצע על-פני אותן קטגוריות, ו"איזו קבוצה, איזה צורך" הוא ניתוח נפרד.
-
-## מושגים קשורים
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## מאמרים קשורים
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 מחקרים של בינה מלאכותית עבור תלמידים עם מוגבלות: g = 0.588, ו-g = 0.269 לאחר התאמת הטיה
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT הועיל לתלמידי STEM ושאינם STEM באופן לא-שווה בלמידה בין-תחומית
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — שימוש ב-GenAI ומעורבות בארבעה תילים בקרב תלמידים בינלאומיים ממוצא אתני מיעוט
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 רשומות ל-40 מחקרים, 15 מהם בינה מלאכותית גנרטיבית
-- [[adhd-video-segmentation-computing-education]] — שינוי תכן כללי שהביא משתתפי ADHD לשוויון
-- [[neurodivergent-computing-students]] — 24 סטודנטים נוירודיברגנטיים על מבנה, דו-משמעות ושיתוף פעולה
-- [[genai-minoritized-knowledges-disability]] — שולייות אפיסטמית בבינה מלאכותית, עם מוגבלות כמקרה
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 עם I² = 84.4% בבסיס ראיות L2 קטן
-- [[structural-silence-underrepresented-language-ai-2026]] — פחות מ-0.5% מתוכן הרשת של בנגלית לעומת 49.5% של אנגלית
-- [[hadra-ai-detector-accuracy-efl-2026]] — גלאים מסווגים באופן שגוי כתיבה EFL תוך ציון טקסטים מקצועיים בצורה מושלמת
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — מבחן של 195 תלמידים על דגמי-חיקוי מקודדים-נשיים ללא הבדל מגדרי
-- [[gender-bias-transfer-llm-writing]] — הנחיות מוטות-מגדרית המועברות למסות תלמידים
-- [[all-girls-genai-makerspace-gender-equity-2026]] — מרחב מגדר-יחיד מוערך, עם אזהרה מנשיות-על
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — הוגנות חונכים המשתנה לפי מודל, תחום וממד התנהגות
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — משוב המיושר-סטריאוטיפית על מסות זהות
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 קריאות: פרסונות מפורשות והיסטוריות מרומזות מזיזות מודלים
-- [[student-attention-estimation-fairness-2026]] — רגולריזציית הוגנות שלא הוכללה
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 תלמידים: אוריינות דיגיטלית, לא שימוש בבינה מלאכותית, מתווכת את הפער
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — השתתפות כפרית שלא התאוששה, ומנטוריות כאילוץ
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — אינטראקציית תת-קבוצה שמרווח הביטחון שלה חוצה אפס
-- [[student-ai-inquiry-types-cs2-2026]] — ממצא השימוש היחיד של דור-ראשון במאגר
-- [[international-students-conversational-ai-adaptation]] — המחקר היחיד של תלמיד-בינלאומי במאגר
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — הערכת האפקט הראשונה במאגר עבור תלמידי דור ראשון: גישה לחונך עלתה להם 0.50 SDs של ציון סופי לעומת 0.22 עבור עמיתהם (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — משתנה קיבוץ מבוסס-ידע עם ראיה תהליכית ישירה: קבוצות שהותאמו על ידע קודם אך נבדלו בגיוון תפיסות-קדומות אימצו את אותה בינה מלאכותית אחרת (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — מעבר להסכמה: 22 מדרגים מונחי-פרומפט מתמודדים עם בדיקות שתשובתן הנכונה ידועה, ורובם ניתנים לשכנוע להעלות ציון (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — הקשר הלומד משנה את ציוניו של מדרג LLM על עבודה זהה, וההסכמה עם המורה אינה מזהה זאת (Porcaro 2026, מאמר VI)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -93,33 +95,3 @@ Produzir vídeo eficaz por IA exige estrutura pedagógica e supervisão humana, 
 **"Clonar um instrutor em um avatar escala a presença humana."** Escala a produção e muda o que está sendo entregue. Avatares de IA clonados de instrutores podem gerar vídeo em escala, mas também disparam o desconforto do vale da estranheza e levantam objeções [[ethics|éticas]] que abrangem impacto ambiental, trabalho e [[academic-integrity|integridade]]. A presença que se escala é uma simulação do instrutor, e os custos se ligam à simulação.
 
 **"Gerar muitas variantes de uma aula é personalização."** A contagem de variantes é um número de produção, não instrucional. O [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] gerou 209 vídeos a partir de 31 aulas de pós-graduação para saúde, finanças, energia e um público genérico, o que demonstra a capacidade do pipeline; se alguma variante atendeu às necessidades de um dado aprendiz é uma pergunta separada que a contagem de geração não responde.
-
-## Conceitos conectados
-
-- [[online-teaching-and-learning]] — o vídeo como meio central da instrução online e híbrida
-- [[generative-ai]] — o motor do vídeo gerado e personalizado por IA
-- [[personalized-learning]] — a personalização como impulsionadora do apelo do vídeo por IA
-- [[adaptive-learning]] — geração e ritmo adaptativos de vídeo
-- [[multimodal]] — vídeo combinando modalidades visual, sonora e textual
-- [[learning-analytics]] — analytics sobre engajamento e atenção em vídeo
-- [[student-engagement]] — o engajamento que a personalização de vídeo visa aumentar
-- [[pedagogical-agent]] — avatares/apresentadores de IA como agentes pedagógicos virtuais
-- [[llm]] — grandes modelos de linguagem subjacentes à geração de roteiro e vídeo
-- [[trust]] — a confiança de quem aprende em apresentadores e conteúdo de IA
-
-## Artigos conectados
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: gerando vídeos de aula personalizados por indústria com qualidade de MOOC em escala (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Comentários no vídeo gerados pelo ChatGPT: momento por entropia, lacunas de qualidade vs. comentários humanos (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Estudantes preferem vídeos personalizados gerados por IA aos gravados por humanos e não personalizados (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Percepções/preferências de estudantes sobre vídeo instrucional gerado por IA em educação em computação
-- [[ai-video-dual-gatekeeping-2026]] — Dupla portaria para criação de vídeo por IA pedagogicamente fundamentada
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: geração adaptativa de vídeo pedagógico
-- [[engagement-assessment-video]] — Avaliação de engajamento na aprendizagem por vídeo
-- [[savvy-student-attention-video-learning]] — Visualização da atenção dos estudantes para aprendizagem baseada em vídeo
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Como a identidade do avatar modela a confiança epistêmica na aprendizagem mediada por IA
-- [[bilingual-llm-lecture-companion-srl-2026]] — Companheiros bilíngues de aula com LLM para aprendizagem autorregulada
-- [[adhd-video-segmentation-computing-education]] — Segmentação temporal de vídeo para diferenças individuais
-- [[ai-psychotherapy-training-avatars]] — Avatares de IA no treinamento em psicoterapia
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcrevendo vídeo de aula de física em texto acessível
-- [[pivot-generative-video-tutors-stem-2026]] — Da geração de conteúdo ao apoio à aprendizagem: tutores de vídeo generativos guiados pela pedagogia para aprendizagem em STEM
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Olhe ali! Orientação visual dinâmica para slides narrados por IA

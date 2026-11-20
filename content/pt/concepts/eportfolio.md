@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -80,29 +82,3 @@ Como os e-portfólios colocam em primeiro plano o **processo, a reflexão e a co
 **"Um resultado multivariado significativo prova que o portfólio foi o ingrediente ativo."** Prova que o pacote moveu os resultados. O estudo combinou uma ferramenta de IA, uma estrutura de portfólio e tarefas de oralidade, e um desenho desse formato não consegue isolar qual componente produziu o ganho. A afirmação defensável é sobre a combinação, e a ressalva de [[learning-gains|ganhos de aprendizagem]] se aplica: os ganhos relatados precisam ser rastreados até um componente antes de poderem ser reutilizados.
 
 **"Os e-portfólios substituem a necessidade de avaliação sem assistência."** Eles a complementam. Um portfólio evidencia processo e crescimento ao longo do tempo; ele não evidencia o que um estudante consegue fazer sem apoio, e confundir as duas coisas reintroduz o problema do artefato como proxy que o formato foi adotado para resolver.
-
-## Conceitos conectados
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Artigos conectados
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Percepções dos estudantes sobre o desenvolvimento de multiletramentos usando avaliação de portfólio assistida por IA (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT alinhado à avaliação por e-portfólio para oralidade e letramento em feedback em EFL (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação baseada em portfólios e competências na era da IA
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Avaliação autêntica robusta à IA generativa, incluindo portfólios de contribuição social
-- [[beyond-detection-authentic-assessment-ai-2025]] — Portfólios anotados / defesas orais como avaliação resistente à IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — O Portfólio Simbiótico para estudantes híbridos
-- [[pbl-structural-conditions-ai-2026]] — Os portfólios como respostas parciais para a avaliação em escala
-- [[learn-framework-responsible-genai-pbl-2026]] — Portfólios de aprendizagem pessoais como traços de aprendizagem avaliáveis

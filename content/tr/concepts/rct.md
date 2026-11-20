@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -65,25 +67,3 @@ Eğitimde YZ’de deneysel tasarımın daha ayrıntılı işlenişi — bir RCT�
 - **“Randomizasyon, aracın ne yaptığına dair geçerli bir tahmini garanti eder.”** Randomizasyon karıştırıcıları dengeler; kimsenin müdahaleyi kullanmasını sağlamaz. Düşük benimsemeli grup randomizasyonlu bir deney **aracı sunmanın** etkisini tahmin eder ve niyet-ile-değerlendirme ile tedavi-görenler-üzerinde farklı soruları yanıtlar.
 - **“Büyük bir deney her zaman daha iyi tasarımdır.”** Bazıları geleneksel büyük ölçekli denemelerin **çalışma sırasında maddi olarak değişen özel ders platformlarıyla** başa çıkamayacağını savunur ve bunun yerine sistem evrilirken geçerliliğini koruyan öğretmen yönetimindeki tasarımları kullanır. Hareketli bir hedefin deneyi iyi güçlendirilmiş olabilir ve yine de artık var olmayan bir sistemi ölçebilir.
 - **“RCT’ler ile gözlemsel kanıt birbirinin yerine geçebilir.”** **1.174 katılımcılı** bir RCT, GenAI’nin **eğitime dayalı üretkenlik uçurumunun yaklaşık dörtte üçünü kapattığını** bulmuştur; belirli bir dönem için kesin bir nedensel iddia. Gözlem mekanizmayı ve benimsemeyi açıklar; o tahmini taşıyamaz ve RCT nedeni açıklayamaz.
-
-## Bağlı kavramlar
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — the design behind the strongest student-support evidence
-
-## Bağlı makaleler
-
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Ders planlama süresi 108 ilkokulda karşılaştırma grubunun 0,76’sına düştü, %7’lik bir araç kullanım dozunda
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Oturumun sonunda değil, bir gecikmeden sonra ölçülen bir sonuç

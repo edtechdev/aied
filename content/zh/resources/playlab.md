@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -44,8 +45,3 @@ ai_assist:
 
 ## 说明
 构建器的使用是受限的：入门页面要求留下电子邮件地址并参加一次入门工作坊，或者需要邀请码。它的合规声明（FERPA、COPPA、GDPR、CCPA、SOC 2 Type II）、你的作品不会用于训练外部模型的承诺，以及将输出权利归属于创作者的做法，都应当写入数据处理协议，而不仅仅出现在营销页面上；它与 MagicSchool 及各大聊天机器人的能力对比出自 Playlab 自身，时间为 2026 年年中。它源自与 Scratch 和 MIT 媒体实验室相关的最终用户编程研究。
-
-## 关联概念
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

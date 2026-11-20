@@ -17,6 +17,8 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 reviewed_by: [editor]
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 > **Anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being [[legal-issues-and-risks|falsely accused]], surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being|well-being]] family and overlaps with [[social-emotional-learning|social-emotional learning]] and [[affective-computing|affective computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education [[research-methods-aied|research]] now studies directly.
@@ -50,7 +52,6 @@ This cluster connects AI anxiety to [[privacy|privacy]], [[academic-integrity|ac
 Beyond proctoring, AI use itself generates anxiety — about being replaced, about whether one's work is "really one's own," about competence. Crucially, this anxiety is **not purely negative**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**: higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01), and evaluative capacity predicted active [[student-engagement|engagement]] (β=.46, p<.001). Kim's four regulatory types (Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%) show anxiety-driven scrutiny can transform students into more deliberate, self-regulated users of [[generative-ai|generative AI]] rather than passive adopters. This reframes AI anxiety from a barrier to a potentially useful signal that encourages closer scrutiny.
 
-
 That reframing has a boundary in speaking: among 708 [[multilingual-learning|English learners]], the speaking-anxiety–willingness link ran −0.371 at low speaking self-efficacy but +0.137 at high, with only 55 participants (7.8%) above the upper Johnson–Neyman threshold ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 - **A second interaction, in the opposite direction.** Among 898 Chinese and Malaysian university students, the self-efficacy-to-willingness slope was 0.24 at low speaking anxiety and 0.52 at high, so efficacy converted into willingness more readily as anxiety rose ([[chen-human-ai-conversation-l2-willingness-to-communicate-2026|Chen & Wang, 2026]])..
@@ -79,9 +80,7 @@ That reframing has a boundary in speaking: among 708 [[multilingual-learning|Eng
 
 A course can lower this anxiety through low-stakes contact, but the relief does not distribute itself evenly. Across 133 students in an asynchronous public speaking course that embedded ten short AI literacy activities, worry about not performing well once AI tools were involved fell from 2.63 to 2.16 on a seven-point scale, p = .04 ([[petricini-ai-literacy-communication-equity-2026|Petricini & Cruz, 2026]]). White-identifying students dropped significantly on all three pressure and tension items, including worry from 2.67 to 1.90, while students of other racial, ethnic or heritage identities showed no significant change on any of them. The authors report the pattern without a mechanism, which makes the equity gap a design problem rather than a reassurance problem.
 
-
 AI can also relieve academic anxiety by advancing learning goals rather than by reassurance: across a survey of 721 medical students and an experiment with 398, higher perceived assistant capability predicted greater study-goal progress, which predicted lower academic anxiety and better mental health ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]]).
-
 
 Competence is not a full buffer, though: among 551 Chinese first-year students, [[self-report-measures|self-reported]] AI usage pressure weakened the link between AI proficiency and psychological adjustment, with the AI-proficiency-to-adjustment slope falling from 0.42 under low pressure to 0.20 under high pressure ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
@@ -100,10 +99,8 @@ A distinct and increasingly studied dimension is **career anxiety** — the fear
 
 - **Career adaptability is a protective factor.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group had the highest AI anxiety.
 
-
 - **Threat and favorable appraisal co-activated in one profile.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] found a group above the sample mean on all six indicators at once — AI use anxiety 1.521 and STARA awareness 0.951 alongside perceived quality 1.753 — so high anxiety did not signal a negative appraisal of the technology.
 - **AI anxiety impairs career decisions.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] use structural equation modeling to show AI anxiety directly and negatively predicts career decisions, and does so largely by undermining **career adaptability** (accounting for 63.35% of the total effect); [[self-efficacy|self-efficacy]] offered only limited buffering.
-
 
 - **Growth mindset bounds the threat-to-employability path.** Among 526 Chinese undergraduates, AI employment-threat perception predicted higher career decision-making anxiety partly by lowering perceived employability, and the threat-to-employability link held only at low growth mindset (b = −0.229) and not at high (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]]).
 - **AI anxiety predicts job-search anxiety at scale.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 students) and [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 health-sciences students) find AI anxiety and negative AI attitudes predict job-finding/job-search anxiety, with women, social-science majors, and lower-income students most affected.
@@ -137,60 +134,3 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - **"AI anxiety is purely harmful."** This anxiety is **not purely negative**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**, with higher anxiety associated with more strategic regulation. Anxiety functions as a signal to scrutinize rather than only as a burden.
 - **"All anxious students respond the same way."** Kim's **four regulatory types — Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%** — show anxiety-driven scrutiny producing **four distinct** patterns. An intervention targeting "anxious students" misses that the largest single group is selectively integrating.
 - **"Anxiety always suppresses participation."** That reframing has a **boundary in speaking**: among **708 English learners**, the speaking-anxiety to willingness link ran **-0.371 at low speaking self-efficacy but +0.137 at high**. Anxiety can accompany willingness when self-efficacy is high, so the effect direction depends on confidence.
-
-## Connected Concepts
-- [[career-development-and-readiness]] — career readiness as a protective factor against AI anxiety
-- [[well-being]] — the broad umbrella this concept develops in depth
-- [[remote-proctoring]] — the primary source of surveillance/false-accusation stress
-- [[social-emotional-learning]] — the emotional competencies involved
-- [[affective-computing]] — AI reading emotional state
-- [[affective-tutoring]] — AI responding to affect
-- [[academic-integrity]] — the integrity/cheating-accusation dimension
-- [[privacy]] — the surveillance concern underlying proctoring stress
-- [[student-experience]] — anxiety as part of the learner experience
-- [[motivation]] — anxiety's effect on adoption and engagement
-- [[self-regulated-learning]] — the productive-anxiety link
-- [[ai-literacy]] — building capacity that reduces unfounded anxiety
-- [[equity-in-ai-education]] — disproportionate stress on vulnerable students
-- [[ethics]] — the fairness of surveillance and false accusations
-- [[teacher-role]] — educator-side anxiety
-- [[assessment]] — AI-mediated assessment anxiety
-- [[social-norms-ai-use]] — the affective cost of visibility
-
-## Connected Articles
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — An examiner-like agent raised measured speaking and anxiety at once
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
-- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[affective-text-wearable-student-health]] — Affective text + wearable sensing for student health
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated proctoring, test-taker anxiety, false accusations
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of automated exam proctoring
-- [[moral-panic-genai-classroom]] — Faculty anxiety and moral panic about GenAI
-- [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
-- [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
-- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
-
-- [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment
-- [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking anxiety's link to willingness to communicate reverses at high speaking self-efficacy
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)
-
-- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty
-- [[tischkau-ai-simulated-patient-formats-2026]] — Five of seven group participants privately reported discomfort interviewing an avatar patient in front of classmates

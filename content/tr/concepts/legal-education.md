@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -77,7 +79,6 @@ Vaka yöntemi, daha geniş [[case-based-learning]] ailesinin bir üyesidir; o sa
 
 **Meslekî etik mezunla birlikte taşınır.** ABA’nın teknolojik yeterlilik görevi ve gizlilik, denetim ve mahkeme karşısında samimiyet konusundaki rehberliği bu araçları kullanan çalışan avukatlara uygulanır ve hukuk fakülteleri bunları öğretme işini miras alır. Disiplinin bu nedenle bilgi tabanının [[ai-use-disclosure|YZ kullanım açıklaması]] ve kurumların YZ’yi kötü yönettiğinde ortaya çıkan [[legal-issues-and-risks|hukukî sorunlar ve riskler]] üzerine çalışmalarına doğrudan bağlandığı bunun nedenidir.
 
-
 Hukuk bağlamında bir deneyde, mahkeme hukuk davalarında 186 meslekten olmayan karar verici, sistem kendi konumunu sakladığında hatalı bir YZ konumuna çok daha az uymuş (%5,7 ile %8,2 arasında, %42,0 ile %60,5’e karşı), ancak ölçülebilir bir yargı oluşturmamıştır; bu, düzeltici değil koruyucu bir etkidir ve hukuk öğrencilerinde değil, meslekten olmayan karar vericilerde ölçülmüştür ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ve ark., 2026]]).
 
 ## Açık Sorular
@@ -91,31 +92,3 @@ Hukuk bağlamında bir deneyde, mahkeme hukuk davalarında 186 meslekten olmayan
 - **“Hukuk fakülteleri bir duruşta karar kılmıştır.”** Çoğu **genellikle yasakçı tutumlar** benimsemiş, bu genellikle **teknolojiyi incelemek için zaman kazanma** olarak açıklanmış, buna karşın **neredeyse tüm politikalar takdiri tek tek öğretim elemanlarına bırakmıştır**. Öğretim elemanına geçersiz kılma yetkisi veren bir yasak, karar kılınmış bir duruş değil, varsayılanı olan bir ertelemedir.
 - **“Anket kanıtı alanı betimler.”** **ABA’nın 2024 anketi yalnızca 29 okuldan, ABA onaylı hukuk fakültelerinin kabaca %15’inden yanıt almıştır** ve **800** uygulayıcıyla yapılan bir LexisNexis anketi farklı bir popülasyonu ölçer. Hiçbiri hukuk eğitiminin temsili örneği olarak alınamaz, oysa her ikisi de öyleymiş gibi atıf alır.
 - **“Bir YZ önerisini saklamak tarafsızdır.”** Hukuk bağlamında bir deneyde, mahkeme hukuk davalarında **186 meslekten olmayan karar verici**, sistem kendi konumunu sakladığında hatalı bir YZ konumuna **çok daha az uymuştur (%5,7 ile %8,2 arasında, %42,0 ile %60,5’e karşı)**. Saklama tarafsızlık üretmedi; uymada büyük bir azalma üretti ve bu, kendi başına bir etkidir.
-
-## Bağlı kavramlar
-
-- [[academic-integrity]] — yardımla yapılan çalışmaya uygulanan davranış çerçevesi
-- [[assessment-validity]] — yardımla yapılan performansın hedeflenen yeterliliği ölçüp ölçmediği
-- [[authentic-assessment]] — yardımsız analiz gerektiren tasarımlar
-- [[ai-use-disclosure]] — hâlâ fikir birliği olmayan atıf ve bildirim normları
-- [[governance]] — hukuk fakültelerinin uyguladığı biçimiyle öğretim üyesi yönetişimi ve politika oluşturma
-- [[educational-policy-ai]] — çalışma nesnesi olarak kurumsal YZ politikası
-- [[critical-thinking]] — dava usulünün inşa etmek için tasarlandığı akıl yürütme
-- [[socratic-method]] — öğrenci hazırlığına bağlı diyalog
-- [[experiential-learning]] — klinikler ve uygulamaya dayalı eğitim
-- [[professional-training]] — lisanslı mesleklerin daha geniş ailesi
-- [[career-development-and-readiness]] — açıkça belirtilen amaç olarak uygulama hazırlığı
-- [[ai-literacy]] — mesleki bir görev olarak teknolojik yeterlilik
-- [[hallucination-risk]] — alanın ayırt edici başarısızlığı olarak uydurma atıflar
-- [[legal-issues-and-risks]] — yönetişim başarısız olduğunda kurumların karşı karşıya kaldıkları
-- [[case-based-learning]] — bir pedagoji olarak vaka yöntemi ve vaka tartışması
-
-## Bağlı makaleler
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Hukuk fakültelerinin üreten YZ politikalarının beş faktörlü karşılaştırması ve bir yönetişim çerçevesi
-- [[llm-turing-test-italian-legal-exams-2026]] — İtalyan bar, hâkim ve noter sınavları üzerine kör Turing testi, uzman notlandırmasına karşı ölçülmüş
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sistemin kendi konumunu saklaması, hukuk bağlamındaki kararlarda aşırı güvenmeyi bastırır ama yargı oluşturmaz (hukuk öğrencileri değil, meslekten olmayan karar vericiler)
-- [[lorteau-sarro-ai-legal-education-2025]] — Hukuk eğitiminde yapay zeka: 82 eserlik bir kapsam derlemesi (Lorteau ve Sarro 2025)
-- [[xie-genai-mystery-game-legal-education-2026]] — Üreten YZ tarafından yazılmış gizem rol yapma oyunu ile ders: randomize bir deneme (Xie ve ark. 2026)
-

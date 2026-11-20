@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -116,39 +118,3 @@ Literatur tentang mengakali sistem (penyalahgunaan petunjuk, menebak secara sist
 
 - Selalu laporkan ukuran tanpa bantuan, dan laporkan persepsi berdampingan dengannya alih-alih sebagai penggantinya.
 - Laporkan struktur substitusi tugas, bukan hanya frekuensi penggunaan, ketika mengatribusikan kerugian.
-
-## Konsep terkait
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Artikel terkait
-
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Studi survei dan kelompok fokus Swedia yang berargumen bahwa etika kemitraan, bukan bingkai kecurangan, seharusnya memandu keputusan genAI institusional
-- [[rho-disengaged-conversational-behaviors-2026]] — Perilaku percakapan yang tidak terlibat dan pembelajaran dalam dialog siswa–AI (Rho et al. 2026)
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI tanpa pagar pengaman dapat merugikan pembelajaran
-- [[genai-performance-vs-learning]] — Membedakan keuntungan kinerja dari pembelajaran
-- [[ai-availability-student-motivation]] — Ketersediaan AI dan motivasi siswa
-- [[genai-skill-bypass-literacy]] — Pelewatan keterampilan GenAI dan literasi
-- [[cognitive-shift-ai-education]] — Pergeseran kognitif dalam pendidikan AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Offloading kognitif dalam kolaborasi siswa–AI
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi commons kognitif: AI dan regenerasi keahlian
-- [[lodge-loble-cognitive-offloading-2026]] — AI, offloading kognitif, dan implikasinya bagi pendidikan (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
-- [[academic-erasure-complexity-ai-writing-2026]] — Penghapusan akademik: hilangnya kompleksitas di bawah penulisan berbantuan AI
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — Dependensi AI sepenuhnya memediasi jalur dari efikasi diri dan dukungan guru ke kelelahan belajar (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Ketergantungan dini memprediksi dampak negatif sementara ketergantungan kognitif memprediksi dampak positif, dan literasi evaluasi memperkuat alih-alih meredam kerugian berkonsultasi dengan AI lebih dahulu (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: Pendekatan praktis untuk mengajar dengan kecerdasan buatan

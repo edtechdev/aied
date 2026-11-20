@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -68,7 +70,6 @@ PBL קשורה מקרוב ל[[project-based-learning|למידה מבוססת פ�
 
 [[case-based-learning|למידה מבוססת-מקרה]] היא השכנה הקרובה יותר: היא מתחילה ממקרה מוכן וממטרת הוראה מוגדרת, בעוד PBL משאיר את הבעיה פתוחה יותר ואת החקר מונחה-לומד.
 
-
 ## מדוע PBL חשובה לשילוב בינה מלאכותית
 
 מכיוון ש-PBL מעמידה בחזית תהליך, שיתוף פעולה והבנה מוכחת על פני הפקת תוצר, היא בית טבעי ל[[ai-literacy|שימוש אחראי בבינה מלאכותית]]: סטודנטים לומדים *עם* בינה מלאכותית כשותפה במקום *ממנה* כחלופה. תפקיד המנחה ועיצוב הבעיה הופכים לדוושות שקובעות האם בינה מלאכותית תומכת בלמידה או מזיזה אותה — אותם חששות [[human-in-the-loop-ai|פיקוח אנושי]] ועיצוב-הערכה שחוזרים לאורך מאגר הידע.
@@ -82,43 +83,3 @@ PBL קשורה מקרוב ל[[project-based-learning|למידה מבוססת פ�
 - **"יש לאחד בין תוצאות PBL לתוצאות של למידה מבוססת פרויקטים."** המטא-אנליזה התלת-רמתית שומרת את **ביצועי התוצר והפתרון במודל נפרד** בדיוק מכיוון שהם מודדים **שיתוף פעולה בין אדם ל‑AI** ולא את החשיבה של הלומד עצמו. איחוד שלהם היה מייחס לסטודנט תוצר שנוצר במשותף.
 - **"רווחים שיתופיים הם תוצאת לוואי של השימוש ב‑AI."** מחקר מצא פתרון בעיות שיתופי נתפס גבוה יותר (**M = 3.62 לעומת 3.05, d = 0.88**) ופתרון בעיות משותף (**3.40, d = 1.02**), כאשר **אפקטי האינטראקציה הגדולים ביותר נפלו על בניית ידע משותפת ועל רגולציה חברתית** — ממדי תהליך שיתופי שהעיצוב מנבא. המנגנון הוא השיתוף המובנה, לא הכלי.
 - **"PBL עם AI בעיקר חוסכת זמן של מנחה."** הרווחים המדידים יושבים באיכות התהליך, בממדים שקיימים רק כאשר מבנה הקבוצה תוכנן עבורם. יישום PBL שמוסיף AI בלי לבנות בניית ידע משותפת לא צריך לצפות לאותו אפקט.
-
-## מושגים מחוברים
-
-- [[project-based-learning]]
-
-- [[case-based-learning]] — מקרים מוכנים ודיון במקרה, שונים מחקר פתוח של PBL
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — כישלון פרודוקטיבי
-
-## מאמרים מחוברים
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — חולה וירטואלי של GenAI להדרכות PBL רפואיות (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — מודול CTD-PBL נתמך-בינה מלאכותית עם 130 מורי פיזיקה לפני-השירות: TPACK ופתרון בעיות שיתופי (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — PBL המתווך-מנחה מול PBL המתווך-AI בחינוך פרמקולוגיה: מחקר קוואזי-ניסויי בקרב סטודנטים לרפואה בשנה השנייה

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -105,37 +107,3 @@ AI اخلاقیات کا پیشہ ورانہ ادب اور وہ کلاس روم 
 **"نگرانی استعمال کو نظر آنے والا بنا کر اصول طے کر دے گی۔"** رویہ نظر آنے والا بنانا یہ طے نہیں کرتا کہ اصول کیا ہونا چاہیے؛ یہ بدلتا ہے کہ لوگ کیا ظاہر کرنے کو تیار ہیں۔ ناپا گیا نمونہ پہلے ہی منتخب افشا ہے، چنانچہ اس پر لگایا گیا نگرانی کا نظام رویے کے بجائے چھپانے کو ناپتا ہے۔
 
 **"اصول غیر رسمی ہیں، اس لیے ادارے کی پہنچ سے باہر ہیں۔"** وہ مقامی طور پر نافذ اور مقامی طور پر بدلنے والے ہیں، جو انھیں پالیسی سے زیادہ قابلِ عمل بناتا ہے: کورس ٹیم کی واضح عملیت اسی لیے لیور ہے کہ رائج اصول وہیں طے ہوتا ہے۔
-
-## منسلک تصورات
-
-- [[academic-integrity]] — وہ رسمی ضابطہ کتاب جس کے ساتھ یہ اصول پروان چڑھتے ہیں
-- [[ai-use-disclosure]] — وہ عمل جسے اصول سب سے براہ راست ضابطہ کرتے ہیں
-- [[framing-ai-use-for-students]] — کلاس روم اپنی توقعات کیسے بیان کرتا ہے
-- [[reducing-ai-misuse]] — اصول سازی کا تدریسی ہم منصب
-- [[learner-identity]] — جب AI استعمال نظر آنے لگے تو سیکھنے والا کون سمجھا جاتا ہے
-- [[ai-detection]] — وہ تکنیکی جواب جو زیادہ تر ناکام ہوتا ہے
-- [[remote-proctoring]] — اصولوں کے متبادل کی کوشش کے طور پر نگرانی
-- [[trust]] — جس پر اصول اور افشا دونوں کھڑے ہیں
-- [[equity-in-ai-education]] — سماجی قیمت کون اٹھاتا ہے
-- [[help-seeking]] — وہ رویہ جسے شرم سب سے پہلے دباتی ہے
-- [[group-work]] — جہاں گروہی اصولوں پر سودے بازی ہوتی ہے
-- [[student-experience]] — اس سب کا جیا ہوا رخ
-- [[anxiety-and-stress]] — جذباتی تلچھٹ
-- [[governance]] — وہ رسمی تہہ جس کے نیچے یہ اصول بیٹھتے ہیں
-- [[ethics]] — وہ ادب جس کے پاس طلبہ سے کہنے کو سب سے کم ہے
-
-## منسلک مضامین
-
-- [[student-perception-ai-use-collaboration]] — ساتھیوں کے AI استعمال کے بارے میں طلبہ کی ادراک درستگی اور اس کا تعاون کی کارکردگی سے تعلق
-- [[shame-guilt-ai-regulation-computing-education]] — کمپیوٹنگ تعلیم میں AI استعمال کے سماجی ضابطوں کے طور پر شرم اور احساسِ جرم
-- [[chirikov-regulate-ai-syllabi-2026]] — اساتذہ کالج میں AI کو کیسے ضابطہ کرتے ہیں: 31,000 کورس نصاب سے ثبوت
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI جرم کا عقدہ: تعلیمی ٹیکنالوجی اپنانے میں اخلاقی جذبات اور اخلاقی مخمصے
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں مصنوعی ذہانت کے لیے اخلاقی قدروں اور اصولوں کی شناخت
-- [[conijn-fear-big-brother-proctored-exams-2022]] — بگ برادر کا خوف: پروکٹرڈ امتحانات کے ممکنہ منفی ضمنی اثرات
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — نگرانی کے نیچے: نرسنگ جانچ میں ریموٹ پروکٹرنگ کے طریقوں کا نقشہ
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — نامکمل معلومات کے تحت جانچ کا ڈیزائن: جنریٹو AI، افشا اور طالب علم کا ردِعمل
-- [[teichmann-detecting-undetectable-misconduct-2026]] — ناقابلِ شناخت کو پکڑنا: جنریٹو AI کے بعد بدعنوانی کے طریقہ کار
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — دھوکہ یا مقابلہ؟ مارکیٹنگ تعلیم میں AI
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI کی معاونت والی گروہی جانچ میں ایجنسی
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit گفتگو کا تجزیہ: استاد–طالب علم رابطہ شناخت اور نفاذ کے جھگڑوں میں مرکوز ہے (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 انڈرگریجویٹس: محسوس کیا گیا ہم مرتبہ افشا اور استاد کی سہولت نے اخلاقی بے تعلقی سے آگے افشا کی پیش گوئی کی (Qu & Wang 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -79,30 +81,3 @@ PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learn
 - **「ツールをカスタマイズすると成果が向上する。」** ツールの種類は効果を有意に調整していた（**QM = 14.301、p < .001**）が、その方向は直感に反する。**汎用チャットボットをそのまま直接用いた場合の統合値の方が高く（g = 0.970）**、**コースプラットフォームや仮想患者、エージェントへと作り込まれたシステム（g = 0.455）**を上回ったのである。素のツールが作り込まれたツールより優れたという結果は、専用設計の製品こそがより良い購入選択だと想定することに反する論拠となる。
 - **「学生が難しいと感じるのはオープンエンド性である。」** 学生の知覚データでは、**オープンエンド性が肯定的テーマの首位（22.3%）**であった一方、**指示の不明瞭さが否定的テーマの首位（23.7%）**であった。学生は自由を歓迎し、曖昧さには異議を唱えたのである。この区別は重要であり、対処法が異なるからである。必要なのは課題の枠組みをより明確に示すことであって、オープンエンドな作業を減らすことではない。
 - **「楽しめた学生ほど多くを学んだ。」** 知覚された学習とクイズ得点の相関は**わずか（r = 0.161-0.315）**にとどまった。ここでは満足度と測定された学習の関連は弱く、したがってPBLに対する肯定的な評価だけでは、学習目標が達成された証拠にはならない。
-
-## 関連概念
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — 包括:AI教育における教授法と教育戦略
-- [[arts-and-media-education]]
-
-## 関連記事
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成AIに支援された教育のための有望な枠組みとしての問題基盤型・プロジェクト基盤型学習:系統的レビューと3レベルメタ分析からの新たな証拠
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — ゲーム基盤・ゲーミフィケーション化されたロボティクス教育
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 教師のためのAIリテラシー訓練
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — 教育におけるロボティクスとAI
-- [[educational-robotics-pathways-2026]] — AIを活用した教育ロボティクスへの学びのパスウェイ(2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBLは支配的なCT学習の戦略である
-- [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクト・アプローチ:幼児期のプロジェクト・アプローチにおけるAIエージェントとロボティクス(Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — チームでのソフトウェアPBLにおけるAIエージェントを用いたSDD
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL:教育エージェントを埋め込んだ没入型のVRデザインスタジオ、伝統的なPBLに対して評価された(Jin et al. 2026)

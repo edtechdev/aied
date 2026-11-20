@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -41,6 +42,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Що варто знати перед використанням
 
 Книга є відкритою за ліцензією CC BY, що є найліберальнішим кінцем діапазону для навчальних матеріалів: викладачі можуть копіювати, адаптувати й використовувати [[prompt-engineering|підказки]], зокрема комерційно, за умови належного вказання авторства. Це робить простим локалізацію підказки для конкретного курсу чи конфігурації [[pedagogical-agent|агента]], чого не дозволяють більш обмежувальні ліцензії подібних збірок. Книгу видано на EdTech Books у 2026 з можливістю завантажити PDF та з DOI 10.59668/2340, редактор — Девід Вайлі. Оскільки кожен розділ повідомляє і дизайн оцінювання, і його результат, книга працює й як модель для викладачів, які хочуть перевіряти власні підказки замість того, щоб ухвалювати чийсь висновок.
-
-## Пов’язані поняття
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

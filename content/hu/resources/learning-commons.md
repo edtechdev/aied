@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -49,12 +50,3 @@ Azoknak a fejlesztőknek, akik MI-funkciókat építenek tantervi és [[assessme
 ## Megjegyzések és fenntartások
 
 Az, hogy [[open-source|forráskódban]] nyílt, nem teszi nyílttá az adatot. A tudásgráf és az értékelők kódja MIT, az Agent Skills Apache-2.0, míg minden adathalmaz saját hozzáférési címkét visel — Open, Open + Gated vagy Gated —, és a Gated tartalom nem tartozik azokhoz a nyílt licencekhez, amelyekre a repó hivatkozik, ezért az újrafelhasználási jogok feltételezése előtt nézze meg az adathalmaz-katalógust. Az értékelők promptjainak tartalma CC BY 4.0, de az általuk használt annotált CLEAR és PERSUADE 2.0 korpuszok CC BY-NC-SA 4.0 alatt állnak. A platform és a mögötte lévő adathalmazok fiókot igényelnek.
-
-## Kapcsolódó fogalmak
-
-- [[curriculum-design]] — a gráf azért létezik, hogy a generált tartalmat szabványokhoz és tantervekhez igazítsa
-- [[open-source]] — MIT és Apache-2.0 kód, adathalmazonkénti adatlicenceléssel
-- [[educational-nlp]] — az értékelők szövegmérő réteg az LLM-kimenet felett
-- [[agentic-ai]] — olyan készségek, amelyek munkafolyamatot csomagolnak a modell számára
-- [[edtech-platform]] — a Curriculum Sync tanterveket tölt a tanulásirányítási rendszerbe
-- [[llm]] — az értékelés célpontja és a készségek fogyasztója

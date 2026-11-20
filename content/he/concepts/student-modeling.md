@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -59,7 +61,6 @@ ai_assist:
 
 קושי נתפס הוא ממד נוסף של מידול לומד, וניתן לחזות אותו מתכונות הקשורות לאדם ולא מסטטיסטיקת טקסט לבדה. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] בנו מודלי קורא מבוססי-פרופיל מדירוגים של 3,954 משפטים על ידי 193 תלמידי תיכון גרמנים, והאנסמבל KNN-plus-XGBoost שלהם הגיע ל-RMSE 0.822 לעומת בסיס ממוצע של 1.070, עם R2 = 0.396. כל רגרסור שכלל מאפייני קורא גבר גם על בסיס הממוצע וגם על בסיס המורכבות הממוצעת, ולכן מודל לומד שלוכד מי הקורא חוזה כמה קשה טקסט מרגיש — ממד תפיסה שהמודלים האחרים בעמוד הזה אינם נושאים.
 
-
 ## שכבת ההוראה האדפטיבית
 
 מושגים אלה עונים על "מה יש ללמד הלאה?" — צד היישום הצורך מודלי לומד.
@@ -89,7 +90,6 @@ ai_assist:
 חלק מהאותות המיועדים עשויים שלא להישלל מדיאלוג כלל: הטיוט של מסגרת הקשר הלמידה שיחזרה תפיסות שגויות ב-91.4% ו[[anxiety-and-stress|חרדה]] ב-100% אך מצפינות רק ב-68.6% ומיינות שפה ב-60%, ולכן מודל מודע-הקשר צריך ללכוד תכונות איטות-להיחשוף במקום להמתין שהדיאלוג יחשוף אותן ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 אותות פיזיולוגיים ומבט מרחיבים את בסיס המידול: מעקב עיניים, EEG, פעילות אלקטרודרמלית וקצב לב משמשים כעת להסקת מעורבות, קשב ועומס קוגניטיבי ([[sensor-and-gaze-analytics]]). ההסקה מן האות למצב מנטלי היא החוליה החלשה, שכן גוף יכול להיות מתועד בלי שמצבו יזוהה.
-
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] חושפים מעגליות באופן שבו לומדים סינתטיים כאלה מאומתים: סוכני EduMirror מנהלים שאלונים [[self-report-measures|פסיכומטריים]] לאחר מעשה וקוראים הסכמה עם ייצוג הערך הפנימי של הסוכן כתוקף פסיכולוגי, אך מכיוון שה-Surveyor מודד ממדים שכבר מקודדים במערכת הערך הזו, הבדיקה היא בדיקת עקביות ולא אימות עצמאי.
 
@@ -123,61 +123,3 @@ ai_assist:
 - **"מודל נאמן מחייב את השיטה המורכבת ביותר."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ו-Koprinska (2025)]] ממחישים ש**ייצוג נאמן אינו מחייב** את הגישה המורכבת ביותר. מורכבות אינה פרוקסי לנאמנות, ומודל פשוט יותר הלוכד את המבנה הרלוונטי יכול להיות המכשיר הטוב יותר.
 - **"מודלי לומד זקוקים לנתוני עקבות."** מודל לומד חזאי יכול להישען על **מבנה הרישום** ולא על נתוני עקבות: TRACE מקודד כל סמסטר כ**סל בלתי-מסודר של קורסים** וחוזה ממנו. האות החזאי יכול לחיות ברשומה המנהלית של המוסד.
 - **"מצב אפקטיבי מחייב חישה פיזיולוגית."** חונך מתמטי **הסיק רגש מטקסט שיחתי ומביטוי פנים** ומיפה את המצב המצובר להחלטות חונכות. אות הרגש היה ניתן-לשחזור ממה שהלומדים כבר הפיקו.
-
-## מושגים מחוברים
-
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — המודלים שמתחת לחיזוי סיכון ולמיקוד תמיכה
-
-- [[sensor-and-gaze-analytics]]
-
-
-## מאמרים מחוברים
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — הכללה מוטעית מטעה: שליטה אדפטיבית עשויה לעצור תרגול לפני שהלומדים יודעים מתי למנוע פעולה (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — חונכי LLM דוחים יתר על המידה אלטרנטיבה חוקית, ומאמתים יתר על המידה שגויה (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — מעקב ידע מבוסס-תוצאות עם מיפוי קרבה
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — מצב לומד קומפקטי בצירוף מעקב מכויל כסביבת המלצה
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[ai-game-based-learning-systematic-review-2026]] — הערכה סמויה הגיעה ל-AUCs של 0.848–0.913, אך ביקורות הטיה היו כמעט נעדרות ב-55 מחקרים
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — הסקת סגנון למידה מדיאלוג נכשלת במדדים מאוזנים (Zamanifard, Goudarzi ו-Robb 2026)

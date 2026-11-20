@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -111,36 +113,3 @@ La transferencia del aprendizaje conecta con la [[metacognition|metacognición]]
 **«La transferencia proviene de modelos más capaces.»** La transferencia proviene de las condiciones que la producen: la generalidad de la práctica, la variabilidad de los contextos y la medida en que quien aprende generó el razonamiento por sí mismo. La capacidad del modelo eleva el techo del desempeño asistido y no hace nada en particular por lo que queda cuando el modelo ya no está.
 
 **«La guía siempre favorece la transferencia, así que cuanta más guía, mejor.»** La guía que realiza el razonamiento sustituye al proceso del que depende la transferencia. La distinción está entre la ayuda que mantiene a quien aprende generando el paso siguiente y la ayuda que lo genera por esa persona, y solo la primera queda del lado de la transferencia en esa línea.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — El resultado por el que en última instancia se juzgan la mayoría de estas secuencias
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Fracaso productivo
-
-## Artículos conectados
-- [[yan-agentivism-learning-theory-ai-2026]] — Una teoría de rango medio del aprendizaje para la interacción humano-IA, con cuatro mecanismos y seis proposiciones contrastables (Yan y Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Delegación cognitiva sensible a la capa en la escritura asistida por IA generativa (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — La distinción entre desempeño y aprendizaje y la transferencia duradera
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — La IA en la educación en física de partículas: problemas de investigación y habilidades fundacionales
-- [[shi-genai-experiential-learning-management-education-2026]] — sostiene que las simulaciones de aula protegidas pueden formar hábitos de decisión que fallan fuera de ellas
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — La práctica oral asistida por IA aumentó la disposición hacia las personas, pero ningún estudio observó el habla humana
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: aprendizaje aumentado mediante encarnación robótica funcional en el escritorio
-- [[cognitive-washout-ai-skill-decay-2026]] — Desvanecimiento cognitivo: el intervalo posterior a la retirada y un protocolo de medición de 22 semanas (Yajee 2026)

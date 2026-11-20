@@ -25,6 +25,8 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation, numbers]
+connected_concepts: [cognitive-offloading, executive-function, self-regulated-learning, critical-thinking, metacognition]
+connected_articles: [kreijkes-llm-note-taking-reading-comprehension-2026, genai-reliance-executive-functioning-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 > **Synthesis:** Cognitive offloading — handing mental work to an external aid — used to mean looking up a fact or reaching for a calculator. [[generative-ai|Generative AI]] moves the boundary: a model can now do the reasoning, synthesis and evaluation that learning depends on. Papasideri and colleagues review a decade of work on what that shift costs. Their answer is consistent across studies: offloaded material is remembered less well, self-regulated effort thins out, and the effects are worst when the tool is unstructured and the task is complex. The same review finds that the cost is not fixed — tasks that demand justification, or that withhold the tool at the point of assessment, keep the learner in the work.
@@ -73,20 +75,6 @@ The authors' conclusion is a qualified offloading-cost hypothesis. A metacogniti
 - Operational definitions of offloading, dependency and metacognitive engagement vary across studies, which prevents pooling.
 - The models studied evolve quickly, so findings from earlier generations may not transfer to current tools.
 - As a narrative review it offers no record flow or pooled effects, and its evidence skews toward higher-income educational and knowledge-work settings.
-
-## Connected Concepts
-
-- [[cognitive-offloading]] — the construct the review extends to generative AI
-- [[executive-function]] — the third outcome domain, alongside memory and self-regulation
-- [[self-regulated-learning]] — the processes that thin out under heavy reliance
-- [[critical-thinking]] — the self-assessed outcome most often reported
-- [[metacognition]] — monitoring and regulation as the moderators that decide the cost
-
-## Connected Articles
-
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — an experiment where the chatbot condition produced less learning than writing
-- [[genai-reliance-executive-functioning-2026]] — individual differences in reliance and executive function
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — dependency, stress and executive dysfunction in a mediation model
 
 ## Citation
 

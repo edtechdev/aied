@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -42,8 +43,3 @@ Das herausstechende Merkmal des Projekts ist seine Fundierung: Skills belegen di
 ## Anmerkungen und Vorbehalte
 
 Die Bildungs-Skills, die Dokumentation und die Curriculum-Materialien stehen unter CC BY-SA 4.0, sodass Weiterverwendung und Bearbeitung offen sind, während abgeleitete Werke dieselbe Lizenz tragen müssen. Zwei betriebliche Details sind wichtig, wenn Sie es einsetzen. Der gehostete MCP-Endpunkt erfordert Tokens und ist nicht für alle offen, und weil der Server eine festgeschriebene Momentaufnahme statt der SKILL.md-Dateien ausliefert, erscheint ein Skill, den Sie hinzufügen, ohne das Bündel neu zu bauen und festzuschreiben, selbst nach einem Redeployment nicht auf dem Live-Server. Die Bibliothek wird von Gareth Manning gebaut, einem Pädagogen und Curriculum-Designer, und die Lizenzbedingungen gelten speziell für die Bildungsinhalte.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

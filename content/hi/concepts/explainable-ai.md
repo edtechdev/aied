@@ -19,7 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -103,46 +104,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - **"उपयोगकर्ताओं को संतुष्ट करने वाली व्याख्या ने प्रणाली समझा दी है।"** पठनीयता की वही विफलता [[automated-assessment|स्वचालित मूल्यांकन]] के सुरक्षा पक्ष पर दिखती है: [[humble-prompt-injection-ai-grading-red-team-2026|Humble का (2026) रेड-टीम]] अध्ययन पाया कि एक सामान्य ग्रेडिंग कार्यप्रवाह को इंजेक्ट किए गए निर्देशों से हेरफेर किया जा सकता है। प्रशंसनीय आख्यान और लेखा-परीक्षण योग्य आख्यान अलग-अलग वस्तुएँ हैं।
 - **"सामान्य XAI अभ्यास शिक्षा में स्थानांतरित हो जाता है।"** [[xai-education-framework|XAI-ED ढाँचा]] (Khosravi एट अल., 2022) ज़ोर देता है कि शिक्षा की सामान्य XAI से परे **विशिष्ट व्याख्यायोग्यता आवश्यकताएँ** हैं, क्योंकि दर्शकों में वे शिक्षार्थी भी हैं जिन्हें व्याख्या पर कार्य करना है, न कि वे लेखा-परीक्षक जिन्हें उसका प्रमाणन करना है।
 - **"निष्ठा वह गुण है जिसका दावा बिना परख किया जा सकता है।"** मापी गई निष्ठा के लिए मानवीय रेटिंग के साथ-साथ **रूब्रिक-महत्वपूर्ण अंशों का प्रति-तथ्यात्मक विलोपन** आवश्यक है। रूब्रिक के प्रति ध्यान-संरेखण का **GPT-4 ज़ीरो-शॉट के 41.7% और BERT के 32.1% के विरुद्ध 78.0%** तक पहुँचना उसी प्रकार की परख का तुलनात्मक परिणाम है, व्याख्यायोग्यता के किसी दावे का नहीं।
-
-## संबंधित अवधारणाएँ
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[lund-socially-accountable-data-science-xai-2026]] — एक चार-स्तंभ ढाँचा (उत्तरदेयता, उत्तरदायित्व, प्रवर्तन, प्रतिवर्तन) जवाबदेही-अभ्यास के रूप में XAI पढ़ाने के लिए (लुंड एवं सहयोगी 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — शिक्षार्थी-केंद्रित ITS का संवेदन-संवेदी डिज़ाइन (सहयोगात्मक बनाम कच्ची व्याख्याएँ)
-- [[xai-education-framework]] — XAI-ED: शिक्षा में व्याख्यायोग्य एआई के लिए आधारभूत ढाँचा (ख़ोसरावी एवं सहयोगी 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — विषय-विशिष्ट व्याख्याएँ शिक्षकों के विश्वास और स्वीकृति बनाती हैं (फ़ेल्डमैन-मैग्गोर एवं सहयोगी 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — पारदर्शी एआई-सहायित मूल्यांकन पर शिक्षार्थी-दृष्टिकोण (अलग़मदी 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — व्याख्यायोग्य ज्ञान-ट्रैकिंग
-- [[explainable-probabilistic-kt]] — संभाव्यता-एम्बेडिंग के माध्यम से व्याख्यायोग्य ज्ञान-ट्रैकिंग
-- [[neural-symbolic-knowledge-tracing]] — तंत्रिका-प्रतीक ज्ञान-ट्रैकिंग
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — अध्ययन-विश्लेषण के लिए कृष्ण-बॉक्स मॉडलों को स्व-व्याख्या करने वाले LM में सघन करना
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — गोपनीयता-संरक्षी जोखिम-मॉडलिंग के लिए संघीय और व्याख्यायोग्य अध्ययन-विश्लेषण
-- [[sc2r-counterfactual-recourse-educational-2026]] — शैक्षिक निर्णय-समर्थन के लिए अर्थ-अभिबद्ध प्रतिविपरीत प्रतिकार
-- [[fair-explainable-edu-recommendations]] — निष्पक्ष और व्याख्यायोग्य शैक्षिक सिफ़ारिशें
-- [[multimodal-affective-its-presentation]] — बहु-माध्यम भावनात्मक प्रतिपुष्टि के लिए व्याख्यायोग्य बंद-लूप ITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — उच्च शिक्षा में ChatGPT अपनाने की व्याख्या
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — डिज़ाइन-से-व्याख्यायोग्य LLM ढाँचा: स्वचालित शिक्षक मूल्यांकन के लिए द्वि-लेंस ध्यान और अंक-पैरामीट्रित व्याख्याएँ (ली एवं सहयोगी 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — एआई-माध्यमित ग्रेडिंग में प्रॉम्प्ट-इंजेक्शन, जहाँ पहचान उपयोगकर्ता को कभी रिपोर्ट नहीं की गई (हंबल 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — नए एआई-सहायित शैक्षिक प्रश्नों के शैक्षणिक मूल्यांकन के लिए पूर्व-प्रशिक्षित मॉडलों का मूल्यांकन
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — शिक्षक- बनाम एआई-निर्मित ग्रेडिंग निर्णय: एक लिखित औचित्य ने निष्पक्षता-खाई चौड़ी की
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — उद्धरणों और प्राधिकार-संकेतों ने गलत आउटपुट के प्रति समर्पण बढ़ाया, कुछ संदर्भ गलत श्रेय दिए या काल्पनिक
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — प्रतीकात्मक, उप-प्रतीकात्मक और तंत्रिका-प्रतीक मॉडलों ने एक ही समूह पर अपने पूर्वानुमानों को भिन्न कारकों से जोड़ा
-

@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -42,12 +43,3 @@ Prowadzący z dowolnej dyscypliny, którzy chcą zobaczyć rozebrany przykład n
 ## Uwagi i zastrzeżenia
 
 To są demonstracje dydaktyczne, a nie ocenione interwencje: strona nie podaje żadnych dowodów na efekty uczenia się dla którejkolwiek z nich, a kilka z nich to własne konstrukcje autora, a nie niezależne użycie w klasie. Jakość konstrukcji idzie za modelem i liczbą iteracji, więc przykład, który działał w jednej wersji modelu, może później dryfować albo się zepsuć, a generowane narzędzia dość często podają fakty błędnie, by sama lista kontrolna strony kazała weryfikować każdą liczbę ze źródłami, które wymienia narzędzie. Galeria miesza prace Bowena z wkładem innych edukatorów i linkami zewnętrznymi, które mogą wygasnąć. Czytanie nie wymaga konta; strona jest bezpłatna, natomiast warsztaty i konsultacje Bowena są płatne.
-
-## Powiązane pojęcia
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -49,16 +50,3 @@ Cadre didactice și designeri instrucționali care vor să construiască sau să
 ## Note și precauții
 
 Acesta este un ghid de practician și un lanț de instrumente, nu un studiu recenzat inter-pares — prezintă un flux de lucru și propria rațiune educațională („manualele inteligente ghidează studenții prin concepte în căutarea lor de cunoaștere”), nu dovezi privind rezultatele învățării. Lucrarea despre MicroSims este cel mai apropiat lucru de sprijin empiric și este auto-publicată pe arXiv. Ambele proiecte sunt cu sursă deschisă (depozitul intelligent-textbooks raportează o licență MIT și 38 de stele; MicroSims raportează o licență Creative Commons și 13 stele) și sunt întreținute activ. Grafurile conceptuale și structura care pune glosarul pe primul loc sunt cu adevărat utile pentru descoperire, dar ghidul presupune un flux de autorare destul de tehnic — MkDocs, Git și unelte de IA generativă — care poate fi o barieră pentru unii membri ai corpului didactic. La data ingerării, registrul pentru MicroSims este încă doar pe roadmap, așa că găsirea unei simulări existente anume se bazează pe căutarea și navigarea proprii ale site-ului.
-
-## Concepte conexe
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

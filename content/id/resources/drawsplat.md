@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -59,7 +60,3 @@ dalam arti lisensi, bukan hanya harga: papan tulisnya GNU AGPL-3.0-or-later dan 
 GPL-3.0-only, tanpa lisensi per kursi pada perangkat siswa. Alat yang membaca berkas Anda berjalan lokal
 di peramban, sementara penyimpanan awan dan permintaan pengembangan profesional memang mengirim data,
 jadi periksa halaman inventaris penyimpanan sebelum memakainya dengan karya siswa.
-
-## Konsep terkait
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

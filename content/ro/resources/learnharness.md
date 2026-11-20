@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -45,10 +46,3 @@ Cursanți autonomi care lucrează pe material dificil, și cadre didactice sau d
 ## Note și precauții
 
 Gratuit acoperă software-ul, nu inferența: cursanții își aduc cheile de furnizor, un abonament, un Claude Code CLI local sau orice endpoint compatibil OpenAI și plătesc furnizorului fără adaos; un contor live estimează doar costurile API cunoscute. Înregistrările, conversațiile și cheile rămân pe mașină ca fișiere simple, însă proiectul avertizează că stocarea locală nu înseamnă procesare offline, fiindcă cererile către model, dictarea opțională și cercetarea web ajung toate la servicii externe. Instalatorul pentru Windows x64 nu este semnat, așa că Windows va avertiza. Nu este raportat niciun studiu de eficacitate, deci argumentul se sprijină pe rațiunea declarată, nu pe rezultate măsurate; depozitul avea aproximativ 4.800 de stele la verificarea din 2 noiembrie 2026.
-
-## Concepte conexe
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

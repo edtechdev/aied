@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -51,7 +53,6 @@ La narrazione si fonda sulle [[learning-theories|teorie dell'apprendimento]] del
 
 - **La narrazione generata è facile da produrre e difficile da mantenere coerente.** Con 22 studenti STEM, la fiction interattiva generata dall'IA otteneva buone valutazioni su chiarezza narrativa (M = 4,11) e lunghezza (M = 4,14), ma il coinvolgimento si fermava al punto neutro (M = 3,08) e la coerenza del contenuto narrativo era la dimensione più debole (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). La co-creazione eredita quella debolezza proprio nello strato in cui una storia dovrebbe fare il suo lavoro.
 
-
 La narrazione si collega al [[student-engagement]], alla [[motivation]], alla [[creativity]], all'[[educational-robotics]], al [[language-learning]], al [[social-emotional-learning]] e all'[[educational-robotics]].
 
 ## Idee sbagliate comuni
@@ -63,21 +64,3 @@ La narrazione si collega al [[student-engagement]], alla [[motivation]], alla [[
 **"La generazione con l'IA rende la narrazione accessibile agli studenti che non sanno scrivere."** Rende disponibile *produrre un artefatto scritto*, che è un beneficio diverso. La narrazione orale, il disegno e la dettatura sono le vie consolidate verso lo stesso obiettivo, e preservano la paternità che la generazione rimuove.
 
 **"Il valore educativo di una storia sta nel risultato rifinito."** Sta nella costruzione — la selezione e l'ordinamento che un narratore compie. Una storia rifinita che lo studente non ha strutturato ha dimostrato la competenza del modello anziché quella del discente.
-
-## Concetti collegati
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Articoli collegati
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-
-- [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -91,29 +93,3 @@ ai_assist:
 **לחוקרים**
 
 - הציבו לפחות חלק מהמחקרים במקומות עבודה. מגזר שמוגדר על ידי למידה מבוססת-עבודה ושבסיס הראיות שלו אינו כולל מחקרי מקום עבודה טרם בחן את טענת הליבה שלו.
-
-## מושגים מחוברים
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## מאמרים מחוברים
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — חידוש תכנית לימודים אדפטיבי ב-CTE: חמישה ממדים ושש בחינות מנהיגות
-- [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET
-- [[ai-pedagogical-accompaniment-amico]] — Amico dual-mode prototype: design principles and observable indicators
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-assisted autonomous learning and reduced accomplishment, mediated by hardiness
-- [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
-- [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — תמיכת ICT נתפסת כמנוף מוסדי במכללות מקצועיות

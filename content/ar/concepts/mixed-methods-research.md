@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -75,26 +77,3 @@ ai_assist:
 - **"البحث بالمناهج المختلطة خيار متخصص في بحوث الذكاء الاصطناعي في التعليم."** عبر **394 دراسة للذكاء الاصطناعي التوليدي في التعليم العالي**، كان البحث بالمناهج المختلطة **تصميم البحث الأكثر شيوعاً (213 دراسة، 54%)**، تلاه الكمي (109، 28%) والكيفي (72، 18%). فالتصميم السائد في المجال ليس ذاك الذي تفترضه مناظراته المنهجية.
 - **"الدليل الرصدي والمقابلات يستطيعان حمل دعوى على مستوى النظام."** إن قرن ملاحظة النظام ومناقشات [[administrator|المسؤولين]] بـ**تقييم عشوائي على مدى أربع سنوات لـ8,708 طالباً عبر ثمانية فصول دراسية**، مُعَدٍّ لكشف آثار قدرها **0.05 انحراف معياري**، يُظهر ما لا يستطيع الخيط الكيفي فعله وحده: كشف أثر صغير بصورة موثوقة. فخلط المناهج ليس وسيلةً لنقل القوة من خيط إلى آخر.
 - **"التثليث يعني أن منهجين ضعيفين يصنعان دعوى قوية."** قيمة القرنين أن كل خيط يجيب عن سؤال مختلف. أما تصميم يجري الاثنين ثم يبلّغ عن النتيجة الكيفية تأكيداً للنتيجة الكمية فلم يثلّث، بل أعاد الصياغة.
-
-## المفاهيم المرتبطة
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## المقالات المرتبطة
-
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
-- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al., 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -126,36 +128,3 @@ Te obalenia są celowo napisane w formie [[refutation-text|tekstu obalającego]]
 - **„Błędne przekonania nauczycieli można skorygować, przedstawiając dowody."** W pilotażu z **123 włoskimi edukatorami** niezgodność skupiała się najsilniej na **poznawczych stylach uczenia się (78% nauczycieli broniło dopasowania wzrokowego/słuchowego)**, inkluzji i pracy grupowej (68%) oraz przeciążeniu technologią edukacyjną (54%). Najsilniejsze niezgodności były tymi najbardziej opornymi na dowody, dlatego [[refutation-text|obalanie]] wygrywa z twierdzeniem.
 - **„Zastrzeżenia nauczycieli wobec dowodów to zawsze opór."** Gdy te same pozycje przedstawiono przez konwersacyjną SI, która **zwalidowała kontekst nauczyciela przed ponownym wprowadzeniem dowodów**, **41% zastrzeżeń dotyczyło realnych ograniczeń kontekstowych** — liczebności klasy, specjalnych potrzeb, wymagań programu. Znaczna część pozornego błędnego przekonania była trafnym zastrzeżeniem.
 - **„Błędne przekonania można rzetelnie wykryć z dialogu."** **Z 241 promptowanych segmentów 221 (91,7%) potwierdzono jako strategiczne błędne przekonania większością głosów ekspertów (κ Fleissa = 0,9487)**, bez **istotnych różnic** między grupami. Wysoka rzetelność jest osiągalna przy orzekaniu eksperckim i to jest warunek, od którego zależy to twierdzenie.
-
-## Powiązane pojęcia
-
-- [[pedagogical-patterns]] — Sekwencje zmiany konceptualnej, które konfrontują konkretne żywione przekonanie
-- [[learners]] — Uczący się: parasol dla koncepcji po stronie uczącego się
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Powiązane artykuły
-- [[rudolph-ai-myths-critical-higher-ed]] — Nie wierz w hype: osiem mitów o SI i potrzeba krytycznego podejścia w szkolnictwie wyższym
-- [[student-rationalization-ai-writing]] — Racjonalizacja pisania z SI przez studentów
-- [[genai-skill-bypass-literacy]] — Omijanie umiejętności przez generatywną SI a kompetencje
-- [[trust-reliance-ai-education-2026]] — Zaufanie i poleganie w edukacji z SI
-- [[contextual-sycophancy-ai-literacy]] — Kontekstowa sykofancja a kompetencje w zakresie SI
-- [[sycophantic-ai-social-interaction-2026]] — Sykofantyczna SI w interakcji społecznej
-- [[llm-fallacy-misattribution]] — Błąd atrybucji LLM (Kim i in.)
-- [[student-reception-genai-analogies-computing-2026]] — Wadliwe, lecz zapadające w pamięć: krytyczny odbiór przez studentów analogii generatywnej SI personalizowanych pod zainteresowania w edukacji informatycznej
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: płynne, autorytatywne wyjaśnienia, które są błędne koncepcyjnie, a nie faktograficznie (Miličević i in. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Ukryte instrukcje w złożonym pliku mogą podnieść ocenę wystawioną przez SI bez widocznego ostrzeżenia (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Błędne przekonania dzieci o bezpieczeństwie SI: przyjaźń z robotem odczytana jako gwarancja prywatności (Leisten i in. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Konwersacyjna diagnoza SI dla błędnych przekonań o nauczaniu z dialogiem ugruntowanym w dowodach (Miranda i Calvani 2026)

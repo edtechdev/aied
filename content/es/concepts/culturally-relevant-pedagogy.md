@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -97,33 +99,3 @@ A partir de la investigación, el profesorado y los diseñadores pueden aplicar 
 **«La política institucional de uso de la IA determina lo que el estudiantado considera ético.»** La cultura hace más trabajo que el texto de las políticas. Una encuesta transcultural con estudiantes canadienses y surcoreanos de [[cs-education|informática]] encontró que **la cultura, y no la política, determinaba las percepciones sobre la ética del uso de la IA**: comportamientos idénticos se juzgaban de forma distinta entre cohortes. Una única política para toda la institución no produce, por tanto, una ética compartida, y tratarla como si lo hiciera llevará a malinterpretar a tu estudiantado.
 
 **«Un piloto con cuatro docentes en el que el profesorado se siente más seguro es evidencia de que el enfoque funciona.»** Es evidencia sobre la percepción del profesorado, que vale la pena tener y no es lo mismo. En ese piloto mejoró la confianza del profesorado para detectar oportunidades de sensibilidad cultural y **el 78% consideró útiles las sugerencias de la IA para diversificar los materiales** —mientras los autores admiten que la adaptación cultural vive **en el prompt y no en la canalización de PLN**, y que la idoneidad cultural se evaluó en lugar de diseñarse. Confianza y utilidad no equivalen a una relevancia cultural demostrada para el estudiantado.
-
-## Conceptos conectados
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Marco general: pedagogías y estrategias de enseñanza en la educación con IA
-
-## Artículos conectados
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Planificador de clases que entrevista al profesorado sobre el contexto cultural antes de redactar (Zhai et al. 2026)
-- [[llm-cultural-relevance-k12]] — LLM para una pedagogía culturalmente relevante en K-12
-- [[civic-education-ai-lesson-plans]] — Planes de clase generados por IA en la educación cívica
-- [[ojeda-ramirez-community-based-ai-learning]] — Aprendizaje con IA basado en la comunidad
-- [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: referencia de evaluación STEM de Ghana
-- [[cross-cultural-student-perceptions-genai-computing]] — Percepciones transculturales del uso de la IA generativa
-- [[international-students-conversational-ai-adaptation]] — El estudiantado internacional y la IA conversacional
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: planificación de clases en Vietnam
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturalmente consciente impulsado por IA para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios pakistaníes mediante PLN y aprendizaje automático

@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,6 +48,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 Google은 개인 계정 콘텐츠는 사용자가 피드백을 보내지 않는 한 자사 모형 학습에 사용되지 않고, Workspace 업로드·질의·응답은 피드백을 보낸 경우에도 학습에 사용되지 않으며, [[privacy|데이터가 제3자와 공유되지 않는다]]고 밝힙니다. 다만 삭제된 노트북은 복구할 수 없습니다. 위의 기능 주장은 벤더 자신의 것이므로, 교육구나 기관은 제품 소개 페이지가 아니라 자사의 데이터 처리 협정을 근거로 이를 확인해야 합니다. 2026년 보도는 생성된 팟캐스트에 사용된 음성과 관련한 소송을 다루었고 Google은 이를 부인했는데, 이는 오디오 산출물이 출처 근거 보호장치와는 별개의 [[legal-issues-and-risks|초상·목소리 유사성 문제]]를 제기한다는 상기시켜 줍니다. 생성된 플래시카드, 퀴즈, 요약은 출처와 대조해 확인해야 할 초안으로 다루고, 무료 요금제의 한도는 예고 없이 바뀐다는 점을 알아 두십시오.
-
-## 연결된 개념
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

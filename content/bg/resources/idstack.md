@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -39,6 +40,3 @@ ai_assist:
 ## Какво да знаете, преди да го възприемете
 
 Плъгинът изисква Claude Code и bash обвивка за инсталиране; PowerShell и cmd не могат да изпълнят скрипта за настройка, а Python 3 се препоръчва за тенденциите в оценките. Данните за курса остават в папката на проекта на машината на читателя и я напускат само чрез интеграция, която потребителят извика, например заявка към API на Canvas. Живият извод на разширението за Chrome изисква собствения безплатен ключ за API на Google AI Studio на читателя, макар режим за симулация да го демонстрира и без него. Проектът се обозначава като бета, версия 3.5.1.0, и предупреждава за промени, които чупят съвместимостта между минорните версии, а е публикуван под GitHub акаунта savvides, а не от посочен автор.
-
-## Свързани понятия
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

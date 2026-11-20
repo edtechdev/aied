@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -88,35 +90,3 @@ Sababu ya uadilifu ya mdomo pia ina kikomo cha muda: [[corbin-ai-glasses-wearabl
 - **"Tathmini ya mdomo haiwezi kupanuka."** Katika [[code-review-genai-cs1|masudio ya ukaguzi wa msimbo wa mdomo wa CS1]], **mahojiano ya dakika kumi na tano kila wiki yalibeba asilimia sabini ya alama ya kila kazi**, na uwiano wa herufi zilizopachikwa kwa jumla bado ulibaki na maana. Gharama ni halisi na ubuni unatekelezwa katika kiwango cha kozi.
 - **"Mitihani ya mdomo ni laini zaidi kuliko ya maandishi."** Katika jaribio lililoripotiwa, alama **zilizidi zile za mitihani ya chaguo nyingi ya ana kwa ana: wastani wa mtihani wa kati 92.5 dhidi ya 70 (p < .001) na wastani wa mwisho 94.2 dhidi ya 86.4 (p = .002)**. Tathmini ya mdomo haikuwa chaguo la upole.
 - **"Kukutana kwa uigaji ni sawa na kesi zinazofichua hatua kwa hatua."** Katika [[ai-standardized-patient-scaffolding-medical-2026|jaribio la nasibu linalodhibitiwa na wanafunzi mia moja wa mwaka wa tatu wa tiba]] mfumo wa mgonjwa aliyeigwa ulilinganishwa **na nyenzo za kesi zinazofichua hatua kwa hatua**, jaribio la moja kwa moja la usawa badala ya dhana yake.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Mifululizo ya uthibitishaji wa mdomo na viva, na wanachonyesha na kutokuonyesha
-- [[assessment]] — uwanja mpana ambao umbile hii inakaa ndani yake
-- [[authentic-assessment]] — mazoezi ya kubuni ambayo hufanya kesi ya uadilifu
-- [[assessment-validity]] — kile umbile inaweza na haiwezi kudai kupima
-- [[academic-integrity]] — shinikizo ambalo lilirudisha orals kwenye umaarufu
-- [[automated-assessment]] — utoaji na upangaji wa mashine wa utendaji wa mdomo
-- [[ai-detection]] — jibu mbadala, na kwa nini ni dhaifu zaidi
-- [[speech-and-voice-technologies]] — mtiririko wa hotuba ambao mfumo wa mdomo unafanya kazi
-- [[multimodal]] — ishara na hotuba kama ushahidi uliounganishwa
-- [[anxiety-and-stress]] — gharama ya kihisia ya utendaji wa moja kwa moja
-- [[feedback]] — kile viva anamwambia mwanafunzi kuhusu ufahamu wao wenyewe
-- [[higher-ed]] — mpangilio ambao karibu ushahidi wote unatokana
-
-## Makala Zilizounganishwa
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[ai-second-language-listening-speaking-assessment-2025]] — Kazi za mazungumzo ya AI zisizo na matawi hazioanishi mahitaji ya kazi na kigezo cha kuzungumza
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Viva za moja kwa moja haziko tena salama: miwani na vipokea sauti vya AI huwasilisha vidokezo vya siri vya wakati halisi (Corbin, Sharpe & Dawson 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Haipi muundo wowote nafasi isiyobadilika na inabadilisha uwezekano kuwa kipaumbele cha kielimu

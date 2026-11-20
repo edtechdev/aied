@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -113,7 +115,6 @@ AI خواندگی وہ ساخت ہے جس کی آلات کی کوریج علم �
 - **غیر خود رپورٹ پیمائش ہی درست پیمائش نہیں۔** ایک ہی ساخت کے 51 جوڑوں کے دو مرحلوں والے جائزے نے پایا کہ 41.2% متضاد یا مخلوط نتائج تک پہنچے، اور دلیل دیتا ہے کہ امتحانات، درجہ بندیاں اور نشانات متفاوت ہیں، معیار نہیں، اور ہر ایک کو اپنا اعتباری استدلال چاہیے ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]])۔
 - **اعتبار — غلط چیز کی پیمائش۔** اعتبار پوچھتا ہے کہ کیا آلہ وہی ساخت ناپتا ہے جس کا وہ دعویٰ کرتا ہے۔ عام ناکامیوں میں **ساخت کی کم نمائندگی** (ایسا AI خواندگی امتحان جو صرف تکنیکی علم کا نمونہ لے اور اخلاقیات چھوڑ دے) اور **ساخت سے غیر متعلق تغیر** (ایسا آئٹم جو ہدف مہارت کے بجائے پڑھنے کی روانی کو انعام دے) شامل ہیں۔ [[ai-scoring-language-bias-physics|AI اسکورنگ اور زبان کا تعصب]] دکھاتا ہے کہ سطحی خصوصیات — زبان، الفاظ کی ترتیب، اسلوب — خودکار اسکوروں کو اُن طریقوں سے چلا سکتی ہیں جو مطلوب ساخت سے غیر متعلق ہیں۔ [[assessment-validity]] اِن خطرات کے خلاف گارڈ ریل ہے۔
 
-
 - **پیمانہ عوامل کی مطلوب تعداد لوٹا سکتا ہے بغیر مطلوب ساختوں کی پیمائش کے۔** [[ai-empathy-scale-psychometric-evaluation-2026|Kang, Lee and Kang (2026)]] نے 42 آئٹم والے AI ہمدردی کے پیمانے سے چھ عوامل برقرار رکھے، مگر آئٹمز نے چھ مطلوب ذیلی عوامل بحال نہ کیے — سماجی بھلائی کا ارادہ کوئی عامل نہ بنا — اس لیے ساخت کو عارضی قرار دیا گیا ہے۔
 - **خود رپورٹ کا خلا۔** خود رپورٹ پیمائشیں *سمجھی گئی* قابلیت پکڑتی ہیں، حقیقی قابلیت نہیں۔ علم کی بنیاد بار بار دکھاتی ہے کہ خود رپورٹ شدہ AI خواندگی کارکردگی پر مبنی پیمائشوں سے تیزی سے ہٹتی ہے ([[ai-literacy-assessment-misalignment]]، اساتذہ کا ~40% زیادہ اندازہ) اور یہ کہ خود رپورٹ حقیقی AI کی مدد والی کارکردگی کی پیش گوئی میں ناکام رہتی ہے جہاں کارکردگی کے امتحانات کامیاب ہوتے ہیں ([[jin-glat-genai-literacy-assessment|GLAT]])۔ خود رپورٹ پر ٹکی پیمائشیں ساختوں کو منظم طور پر بڑھا چڑھا کر پیش کر سکتی ہیں اور حقیقی مہارت کے خلا چھپا سکتی ہیں۔
 - **یکجا اندازہ نازک ہے۔** 2026 کے منظم جائزے نے صرف ایک ہی نمونے والے ذاتی–معروضی AI خواندگی کے ارتباط یکجا کیے (N = 2,765) اور r = .055 دیا (Hartung-Knapp 95% CI [−.047, .156])؛ k = 3 پر، تغیر کے اندازہ لگانے والوں کے اختلاف اور ایک مطالعے کے 77.2% وزن کے ساتھ، یہ قابلیت کی کوئی کٹ مقرر نہیں کر سکتا ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]])۔
@@ -127,7 +128,6 @@ AI خواندگی وہ ساخت ہے جس کی آلات کی کوریج علم �
 
 مختصراً، تعلیمی پیمائش اُس چیز کو **چھوڑ** سکتی ہے جس کا نمونہ نہ لے (عمل، پائیداری، رسائی، جذبات) اور اُس چیز کو **غلط** کر سکتی ہے جس کا نمونہ بری طرح لے (خود ادراک، سطحی خصوصیات، آبادیوں کے پار ساختیں)۔ اِس لیے AI-تعلیم کے نتائج پڑھنے کے لیے صرف یہ نہیں پوچھنا ہوتا کہ *کیا* ناپا گیا بلکہ *کیسے* — اور یہ کہ آلہ کیا پکڑنے میں ناکام رہا ہوگا۔
 
-
 - **قابلِ جائزہ کوڈنگ تعریفی خطا کو ماڈل کی خطا سے الگ کرتی ہے۔** EduBehaviors کسی ساخت کو الگ الگ تشریح شدہ قابلِ مشاہدہ رویّوں اور ایک واضح جمعی قاعدے میں توڑتا ہے، تاکہ جائزہ لینے والا دیکھ سکے کہ کون سا ثبوت کون سا لیبل پیدا کرتا ہے اور قاعدہ بدلنے کے بعد نئے ماڈل کالوں کے بغیر لیبل دوبارہ اخذ کر سکے؛ اُس نے Teacher TalkMoves پر macro-F1 0.673 حاصل کیا، جو براہِ راست [[llm|LLM]] پرامپٹنگ کے مقابلے میں مسابقتی ہے ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]])۔
 
 ## روابط
@@ -140,70 +140,3 @@ AI خواندگی وہ ساخت ہے جس کی آلات کی کوریج علم �
 - **"ماڈل آئٹم کے مشکل کا اندازہ لگا سکتے ہیں۔"** چار سرکردہ ماڈلز **2,548 ریاضیاتی آئٹمز پر IRT کی بنیادی سچ** کے مقابلے میں اسکور کیے گئے: وہ **نسبتی مشکل پر 68.6%** تک پہنچتے ہیں مگر مطلق انشانکن میں **اتفاق سے نیچے** گر جاتے ہیں۔ درجہ بندی اور انشانکن الگ صلاحیتیں ہیں، اور دوسری وہی ہے جس کی جانچ کے ڈیزائن کو ضرورت ہوتی ہے۔
 - **"ٹیکسونومی کا لیبل بتا دیتا ہے کہ آئٹم کتنا مشکل ہے۔"** **265 ریاضیاتی آئٹمز** پر، ارادی Bloom سطح نے **مشکل میں تغیر کا 5% سے کم حصہ** بیان کیا۔ کسی آئٹم کو Bloom سطح سے لیبل کرنا اُس کے تجرباتی مشکل کے بارے میں تقریباً کچھ نہیں بتاتا۔
 - **"آئٹم کے معیار کا فیصلہ اُس کے الفاظ سے ہوتا ہے۔"** **پیدا شدہ آئٹمز کا فیصلہ حل کے راستے پر کریں، الفاظ پر نہیں**: ہر آئٹم کے **تصدیق شدہ استدلالی درخت** کو انکوڈ کرنے نے دوسرے بہترین طریقے سے کارکردگی کو ایک واضح فرق سے بڑھایا۔ اشارہ استدلالی ساخت میں تھا، سطحی متن میں نہیں۔
-
-## منسلک تصورات
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI کی مدد سے تعلیمی تحقیق
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## منسلک مضامین
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — بڑے پیمانے کی تحریری جانچ میں AI کی مدد والی اسکورنگ کے لیے انسانی-در-حلقہ فریم ورک
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — طلبہ کی قابلیت کی جانچ کے لیے مدد کی مداخلتوں کی سببی ماڈلنگ
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچی آلات انسانوں اور LLMs کے لیے ایک ہی چیز کی پیمائش کرتے ہیں؟ (Strugatski et al. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT سے توثیق شدہ GenAI خواندگی کا امتحان (Jin et al. 2025)
-- [[icap-cognitive-engagement-llm-agents]] — توسیع شدہ ICAP فریم ورک کے ساتھ علمی شمولیت کی پیمائش
-- [[roe-assessment-twins-2026]] — GenAI کے تحت جانچ کا اعتبار مضبوط کرنے کے لیے جانچ کے جڑواں
-- [[ai-literacy-heptagon-2026]] — AI خواندگی کا ہفت ضلع
-- [[ai-literacy-assessment-misalignment]] — خود رپورٹ شدہ بمقابلہ کارکردگی والی AI خواندگی کی عدم مطابقت
-- [[teacher-education-ai-literacy-sdt-2026]] — خود ارادیت نظریے کے ذریعے اساتذہ کی AI خواندگی
-- [[acceptance-ai-english-tools-2026]] — انگریزی سیکھنے کے آلات کے لیے AI قبولیت کی پیمائشیں
-- [[llm-difficulty-calibration-programming-exams-2026]] — جانچے گئے ماڈلز سے جانچ کے معاون آلات تک
-- [[llm-item-difficulty-prediction]] — LLM کی آئٹم مشکل کی پیش گوئی کا علمی جائزہ
-- [[multimodal-item-parameter-estimation-2026]] — کثیرالوسیط آئٹم پیرامیٹر کا اندازہ
-- [[ai-scoring-language-bias-physics]] — طبیعیات میں AI اسکورنگ اور زبان کا تعصب
-- [[ai-writes-code-student-writes-model-2026]] — ماڈل مصنفیت: GenAI کے ساتھ تعمیر کے ذریعے سیکھنے کا نظریہ اور پیمائش
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI تعامل کے ذریعے سیکھنے کا جائزہ (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — تعلیمی پیمائش میں AI کا دہائی وار موضوعاتی جائزہ
-- [[questionnaire-teachers-genai-uses-validation-2026]] — جنریٹو AI کے اساتذہ کے استعمال پر سوالنامہ (Pérez-Montesdeoca et al. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — سیکھنے والوں کے پروفائلز کے لیے AutoML ذاتی عصبی علمی ساخت کی تلاش
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMs اور درخت پر مبنی ML سے آئٹم کے مشکل کا اندازہ
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — تقسیم نصف EFA/CFA توثیق، عدم تغیر، HTMT اور DIF جانچوں کے ساتھ، بشمول کھیل پن-ارادے کے ساختی تداخل کا ایماندار بیان
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: عمل پر مبنی ریاضیاتی آئٹم کے معیار کا جائزہ
-- [[competent-generative-ai-use-measures-review-2026]] — AI خواندگی سے آگے: قابل GenAI استعمال کی پیمائشوں کا منظم جائزہ اور اکتشافی میٹا تجزیہ
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian اتفاقی انشانکن: مسلسل بدلتے IRT آئٹم بینک کی تقسیم-اور-فتح دوبارہ انشانکن (Jewsbury et al. 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — ایل سلواڈور کے AI ٹیوٹرنگ پائلٹ کے سیکھنے کے دعوے کی حد بندی (Restrepo Morales et al. 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — جانئے کب بھروسہ کریں: ماڈل کی خود اعتمادی، احتمالی اسکورنگ اور مجموعے بطور اسکورنگ اعتماد کے بڑھانے والے
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — اعلیٰ ابتدائی AI خواندگی کے لیے توثیق شدہ 15 آئٹم والا خود جائزہ سوالنامہ (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — COSMIN طرز کے معیاری شعبوں میں 33 اساتذہ AI خواندگی آلات کا منظم جائزہ (Zainal et al. 2026)
-- [[mental-health-literacy-students-llms-2026]] — نفسیات کے طلبہ اور بڑے لسانی ماڈلز میں ذہنی صحت کی خواندگی
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ برابر GRE سیکھنے کے فوائد دیتے ہیں
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسز میں طلبہ کا LLMs کا استعمال اور AI کے پیدا کردہ سوال کی مشکل کی حدود
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: تعلیمی مکالموں کی قابلِ جائزہ کوڈنگ کے لیے دعوے پر مبنی اسکیمے
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے میٹرک کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ساختی جانچ
-
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42 آئٹم والا AI ہمدردی کا پیمانہ جس کے چھ عوامل چھ مطلوب ذیلی عوامل بحال نہ کر سکے
-- [[genai-srl-l2-writing-scale-2026]] — L2 تحریر کے لیے چھ جہتوں والا GenAI-SRL پیمانہ؛ چیونٹی کالونی سے بہتر شدہ 12 آئٹم مختصر روپ مکمل پیمانے کے ساتھ چلتا ہے (r = 0.910–0.944) مگر مواد کی کوریج تنگ کرتا ہے
-- [[bloom-taxonomy-llm-item-classification-2026]] — کیا علمی درجہ بندیاں تجرباتی آئٹم رویّے کی پیش گوئی کرتی ہیں؟ Bloom کی ٹیکسونومی کو درجہ 4–12 کے قومی مرکزی ریاضیاتی آئٹمز کی نفسیاتی پیمائشی خصوصیات سے ہم آہنگ کرنا
-- [[llm-benchmark-secondary-science-topics-2026]] — مصنوعی بینچ مارک کا پیمائشی معیار اُس کی پیداواری پائپ لائن پر ٹکا ہے
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — امتیاز کے بغیر مشکل
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — ایک ہی ساخت کے جوڑے 41.2% معاملات میں اختلاف کرتے ہیں، اور کارکردگی کی پیمائشوں کو اپنا اعتباری استدلال چاہیے (Fan et al. 2026)
-- [[chang-ai-cognitive-offloading-scale-2026]] — AI علمی آف لوڈنگ پیمانے کی توثیق، اور وہ اعتباری جانچیں جو اُس میں نہیں

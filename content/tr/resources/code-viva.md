@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,7 +42,3 @@ Bir öğrencinin kendi kodunu açıklayabildiğine dair kanıt isteyen ve bütü
 ## Notlar ve uyarılar
 
 Her şey tarayıcıda çalışır: kurs, JSON dışa aktarımı olan yerel depolamada durur; sorular bir bağlantının tarayıcıların sunuculara göndermediği bölümünde taşınır ve yanıtlar yalnızca öğrencilerin göndermeyi seçtiği kodlar olarak döner, böylece hiçbir öğrenci verisi üçüncü bir tarafa ulaşmaz. Soru üreticisi model güdümlü değil, kural tabanlıdır. Aracın kendi ifadesine göre kod okuyucusu sezgiseldir, bu nedenle olağandışı biçimlendirme ya da makrolar bir fonksiyonu gizleyebilir ve bir puan, kodu anlamak yerine sözcük dağarcığını bilmeyi ödüllendirebilir; bu yüzden puanlar eğitmenin onayladığı önerilerdir ve araç riskin düşük tutulmasını önerir. Hiçbir lisans ve hiçbir kaynak deposu yayımlanmamıştır; bağlantılar soruları taşıdığı için birkaç kilobayta ulaşırlar, bu da bir öğrenme yönetimi sistemindeki mesaj kutusunda satır atlayacak kadar uzundur.
-
-## Bağlı kavramlar
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

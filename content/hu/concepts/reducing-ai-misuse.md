@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -108,53 +110,3 @@ A nevelő eszközök másképp néznek ki, ha az integritást tanítandó gyakor
 **„A visszaélés felismerése és megbüntetése megelőzési stratégia.”** A megelőzésnek magára a javítóra is ki kell terjednie. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red team értékelése szerint a beadandó fájlba ágyazott öt közvetett promptinjektálási stratégia közül kettő megemelte egy elégtelen esszé pontszámát. Az a folyamat, amely felismeri a diák visszaélését, miközben megvizsgálatlan beadott tartalomban bízik, csak az egyik oldalon védett.
 
 **„A visszaélés a diák motivációjának problémája.”** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher és Calderon (2025)]] egy szinttel feljebb tolják a kötelező korlátot, az irányítást, nem a diák viselkedését tekintve a megváltoztatandó dolognak, és egy 130 tételes integritásmutató keretrendszert javasolnak. És a tanulási ártalom nagy léptékben mérhető: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei és Wu (2026)]] szerint a házi feladat kihelyezése 18%-kal növelte a házi feladat pontszámait, miközben 20%-kal *csökkentette* a zártkönyves vizsgapontszámokat: tervezési kudarc, amely pontosan abban a szakadékban jelenik meg, amelyről ez az oldal szól.
-
-## Kapcsolódó fogalmak
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Kapcsolódó cikkek
-
-- [[ivory-psychology-assessment-integrity-2026]] — Verziókövetési bizonyítéknyomok és reprodukálható elemzési dokumentumok mint visszaélés-elrettentő eszközök (Ivory és mtsai 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Egy ajánlás visszatartása nagyrészt megakadályozta a túlzott támaszkodást, anélkül hogy felépítette volna a védett ítéletet
-- [[generative-ai-guardrails-harm-learning]] — A korlátok nélküli GenAI árthat a tanulásnak
-- [[genai-performance-vs-learning]] — A teljesítménynövekedés megkülönböztetése a tanulástól
-- [[ai-assessment-scale-reform]] — Az MI-értékelési skála és az értékelési reform
-- [[critical-thinking-genai-scaffolding]] — A kritikai gondolkodás támogatása generatív MI-vel
-- [[aaai2026-prompting-literacy-k12]] — Megtanulni MI-t használni a tanuláshoz (K-12 MI-írástudatossági modul)
-- [[genai-declaration-frameworks-higher-education]] — Az átláthatóság strukturálása: GenAI-nyilatkozatkeretrendszerek
-- [[absent-cognitive-baseline-2026]] — A hiányzó kognitív alapvonal
-- [[ai-literacy-power-knowledge]] — MI-írástudatosság: gyakorlat a hatalom-tudásban
-- [[contextual-sycophancy-ai-literacy]] — A kontextuális hízelgés rejtett költsége: egy MI-írástudatossági beavatkozás
-- [[sycophantic-ai-social-interaction-2026]] — A hízelgő MI idővel fáradságosabbá és kevésbé kielégítővé teszi az emberi interakciót
-- [[ssaho-ai-academic-integrity-review-2025]] — Kultúraépítés és értékelés-újratervezés a detektáló rendészet helyett
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Kognitív megadás, termékeny súrlódás és metakognitív egyenlőtlenség
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — A szóbeli vizsgák újragondolása mint autentikus, MI-ellenálló értékelés
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — A generatív MI tanulási büntetése: a házi feladat kihelyezése árt a tanulásnak
-- [[ai-overreliance-complex-adaptive-system-2026]] — Az MI-re való túlzott támaszkodás mint komplex adaptív rendszer
-- [[burneo-can-edtech-close-learning-gaps-2026]] — A korlátok eltávolítása megszüntette az ártalmat anélkül, hogy javította volna a vizsgapontszámokat
-- [[munoz-misconduct-allegation-evidence-2026]] — Mit tartalmaznak valójában bizonyítékként a kötelességszegési vádak iratai
-- [[wright-transcription-not-generation-2026]] — Túl széles MI-szabályok és a diákok, akiket elkapnak
-- [[sharma-judgment-visible-genai-assessment-2026]] — Az integritás mint értékelő ítélet, nem megfelelés
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Diákok arról, hogy a GenAI csalóeszköz vagy tanulási partner
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Mit tesz a távfelügyelet a diákokkal és az esélyegyenlőséggel
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Helyzeti bűnmegelőzés az MI-közvetített csalás ellen: 183-ról 27 esetre, és öt tudományterületspecifikus újratervezés (Leaton Gray, Edsall és Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Mit javasol 38 diákhang-vizsgálat: közösen létrehozott tisztaság és nevelő érvelés a detektálás helyett (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Hol végződik a nyelvi támogatás és hol kezdődik a helyettesítés az EAL-írók számára (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Promptinjektálás mint visszaélési vektor az MI-osztályozás ellen (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Az irányítás mint az integritás kötelező korlátja: 130 tételes mutatókeretrendszer (Coates, Croucher és Calderon 2025)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — A felelős hallgatói GenAI-használat irodalma az akadémiai írásban: 122 rekord, 51 megvalósított és értékelt, négy határvonal-teszt (Tie, Gil Ortega és Zhao 2026)
-- [[guo-overreliance-genai-feedback-2026]] — A kognitív terhelés a leterhelésen át a túlzott támaszkodásba fut, monitorozási különbségekkel (Guo és Dong 2026)

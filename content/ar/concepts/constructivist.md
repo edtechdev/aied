@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -121,56 +123,3 @@ ai_assist:
 - **«يمكنك كشف التعليم البنائي من الأسئلة المطروحة.»** صنّف مصنّف DeBERTa **أسئلة ناقل المعرفة الواقعية بدقة 96.67% لكن أسئلة الميسّر بدقة 78.79% فقط**، و**خلط كل نموذج بين الدورين الأعلى رتبة**. فالبناء الأكثر أهمية هو ما تتعامل معه الكشوف الآلية أسوأ تعامل.
 - **«السمات السطحية للدرس تكشف بيداغوجياه.»** فشل المصنّف ليس تفصيلًا تنفيذيًا. فأدوار الميسّر والبنائي هي الحالات الصعبة تحديدًا لأنها تُعرَّف بما يفعله المعلّم بتفكير المتعلّم، وتلك العلاقة لا تُستعاد من نصّ السؤال وحده.
 - **«البنائية تعني أن المعلّم لا يشرح.»** تضع النظرية التعلّم في بناء المتعلّم من الخبرة، وهو ما يتوافق مع التعليم المباشر. فمعاملة ذلك كممنوع من الإخبار تُخطئ قراءة النظرية والأدلة على الأمثلة المُحلولة معًا.
-
-## المفاهيم المتصلة
-- [[community-of-inquiry]] — مجتمع الاستقصاء (مؤسَّس على البراغماتية البنائية/الدويية)
-- [[cognitive-psychology]] — المعرفية، القطب الكلاسيكي الثالث لنظرية التعلّم
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقييم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب
-- [[theory-development-aied]] — تطوير النظرية في الذكاء الاصطناعي في التعليم
-- [[productive-failure]]
-
-## المقالات المتصلة
-- [[lee-learner-question-types-ai-education-2026]] — أسئلة المتعلّمين مصنّفة في ثلاثة أدوار بنائية: الناقل، والمُيسِّر، والمتعلّم المشارك (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — يُواجه البنائية البنائية (Papert) بالمدرّسين المعرفيين في تاريخ الذكاء الاصطناعي في التعليم
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: إطار بنائي بناء لبناء المُنتَجات
-- [[ai-writes-code-student-writes-model-2026]] — تأليف النموذج: نظرية وبرنامج قياس للتعلّم بالبناء مع الذكاء الاصطناعي التوليدي
-- [[ai-vocational-education-training-review]] — بنائية مُعلَنة لكن ذكاءً اصطناعيًا سلوكيًا يسود في التعليم المهني؛ «مصيدة تورينغ»
-- [[generative-refusal-ai-tools-for-thought]] — أدوات ذكاء اصطناعي تحجب التوليد لحماية التفكير البنّاء
-- [[genai-mindtool-generative-learning]] — الذكاء الاصطناعي التوليدي كأداة تفكير تدعم بناء المتعلّم
-- [[ai-agents-constructive-conflict-design-education-2026]] — وكلاء ذكاء اصطناعي خصوم يدفعون إلى إعادة نظر بنّاءة
-- [[hingle-collaborative-ai-literacy-2025]] — ثقافة الذكاء الاصطناعي التعاونية وإطار الاندماج المعرفي ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — المقارنة المدعومة بالذكاء الاصطناعي تُنتج أحكامًا تقييمية
-- [[icap-cognitive-engagement-llm-agents]] — ICAP والانخراط المعرفي مع وكلاء النماذج اللغوية الكبيرة
-- [[conversational-ai-tutors-framework]] — حوار السقالات في مدرّسي الذكاء الاصطناعي
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — الاستقصاء المجسَّد مع مُيسِّر ذكاء اصطناعي
-- [[beyond-detection-authentic-assessment-ai-2025]] — التقييم الأصيل وبناء المعرفة
-- [[teacher-ai-teaming-five-levels]] — مستويات التعاون بين المعلّم والذكاء الاصطناعي في التصميم
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — الفاعلية المعرفية المشتركة بين المتعلّم والآلة
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: فاعل توليدي يحاكي التطوّر المعرفي للطلاب
-
-- [[synthetic-position-self-authorship-2026]] — المواقف المضادة المحاكاة بالذكاء الاصطناعي تُتمرّن على شكل الحوار لكنها تحجب المقاومة التي تُلزم بالمراجعة
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة التعلّم: درجات الواجبات ترتفع 18% والاختبارات المغلقة تهبط 20%، متركّزة بين مَن فوّضوا واجباتهم
-

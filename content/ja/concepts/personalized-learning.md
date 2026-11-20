@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -151,45 +153,3 @@ GRADE の確実性は非常に低いと評価されました。正直な読み�
 **「教材を生成することは、実際の内容が課す制約を取り除く。」** 生成は一つの制約を緩めるが、他の制約を緩めることはできない。[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]は、学習者が表明した関心、コースの目標、意図されたスキル水準に合致した合成統計データセットを生成する——実在のデータセットがめったに満たさない三者間の一致である——しかし著者らはその限界を率直に述べている。合成データはデータ収集、測定、研究デザインを教えることはできないため、このツールは実データを置き換えるのではなく補完するものである。
 
 **「報告された[[learning-gains|学習ゲイン]]こそが、これらのシステムを正当化するものである。」** ここで概観したRLおよびパーソナライゼーションの研究では、方策が非適応型ベースラインを上回ったのは、ガイダンス関連の適応と情動的変数において最も多く（検証対象研究の63%）、一方で学習ゲイン——とりわけ正規化学習ゲイン——は、報告された成果指標のうち*最も*頻度の低いものであった。学習よりもエンゲージメントや情動をはるかに多く報告する文献群は、学習が支配的であることの証拠ではない。
-
-## 関連概念
-
-- [[adaptive-learning]] — 内容・進度・難易度を学習者に応じてリアルタイムに調整する適応システム
-- [[intelligent-tutoring]] — 学習者をモデル化し個別化された教授を提供する学習支援システム
-- [[student-modeling]] — 適応を駆動する学習者の知識・スキル・状態の表現
-- [[knowledge-tracing]] — 時間経過に伴う成績から知識要素の習得度を推定すること
-- [[cognitive-diagnosis]] — 解答から学習者の潜在的な知識と属性を診断すること
-- [[scaffolding]] — 個人の学習者のニーズに応じて調整された支援とその漸次的撤回
-- [[student-experience]] — 学習者がパーソナライズを生きられた経験として体験すること
-- [[learning-analytics]] — 適応に情報を与える、学習のデータ駆動型測定
-- [[formative-assessment]] — 次に何を適応させるかのシグナルとなる継続的な評価
-- [[summative-assessment]] — その比較可能性をパーソナライズが困難にする終点での評価
-- [[generative-ai]] — LLM ベースの対話的パーソナライズ
-- [[edtech-platform]] — 規模をもってパーソナライズド・ラーニングを提供するプラットフォーム
-- [[higher-ed]] — パーソナライズの高等教育の文脈
-- [[online-teaching-and-learning]] — オンライン教授と学習
-- [[recommender-systems-and-learning-paths]]
-
-## 関連記事
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61件の研究：75.4%が学習者主導の制御、8.2%がシステム駆動の適応としてコード化（Aybar-Bellido et al., 2026）
-- [[bespoke-industry-personalized-lecture-videos-2026]] — シードとなる文字起こしから業界別にパーソナライズされた講義動画を再生成：聴衆のレベルに合わせた調整を行い、当該領域の専門家が評価（Puech et al. 2026）
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AIティーチングアシスタントのプロンプトエンジニアリングによるマイクロ・パーソナライゼーション（Basu, Kakar & Goel 2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AIチュータリングは一枚岩ではない：私たちが実際に知っていること（Stanford SCALE/NSSAブリーフ）
-- [[mishra-control-vs-agency-history-2025]] — パーソナライゼーションの2つの形態（均一な成果と多様な成果）を区別する
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — パーソナライズド・ラーニングの再定義：システマティックレビュー
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — チュータリングのためのエージェントネイティブなパーソナライゼーション基盤
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズされたeラーニングのためのオントロジーに基づく階層型ハイブリッド知識モデル
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 小学校の分数学習に向けたパーソナライズされた適応学習
-- [[ai-coaching-rl-skill-development]] — スキル発達のための強化学習コーチング
-- [[personalized-ai-generated-videos-preference-2026]] — 学生は、パーソナライズされていない人間収録の動画よりもパーソナライズされたAI生成動画を好む（Tomlinson et al. 2026）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — パーソナライズされた学習経路のためのベイズ認知診断
-- [[graph-its-adaptive-algorithms-2026]] — 動的ドメインのためのグラフベース知的チュータリング（2026）
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPTで強化された形成的評価における教員とAIの役割
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 「Marked Pedagogies」：パーソナライズされた自動フィードバックにおけるバイアス
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — システマティックレビュー：適応型学習経路とレコメンダーは高等教育におけるAI統合の主要ユースケースである
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：コンピューティング教育における興味別にパーソナライズされたGenAIアナロジーに対する学生の批判的受容
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — パーソナライゼーションのパラドックス：知覚された適応的パーソナライゼーションは学業感情を介して自己調整学習の低下と結び付き、AIリテラシーがそれを緩和する（Li, Lin & Qiu 2026）
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath：LLMプランナーは90.9%の妥当性に達するが、明示された学習者目標に合わせて経路をパーソナライズする際、適応性で44.7%を超えるモデルはない（Liu et al. 2026）
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 4件の研究、大きなプール効果量、そして非常に低い確実性

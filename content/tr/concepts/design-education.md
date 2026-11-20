@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -68,47 +70,3 @@ Buradaki değerlendirme sorunları profesyonel olanlardan ayrılamaz. [[ai-inter
 - **“Tasarım öğrencileri hevesli benimseyicilerdir.”** Aynı kohort, **%71'inin GenAI'yi günlük veya haftalık kullandığını, %65'inin ona güvenmediğini ve %85'inin çıktısını değiştirdiğini** göstermektedir. Sık kullanım ile düşük güven bir arada bulunmaktadır, dolayısıyla değer önerisi güveni varsayan bir araç kullanıcılarını yanlış okumuştur.
 - **“GenAI tasarım süreci boyunca genel olarak yararlıdır.”** Boylamsal bir atölye çalışması boyunca geliştirilen GAI-A platformu **yalnızca iki verimli kullanım** bulmuştur: erken fikir aşamasında görsel uyaran olarak GenAI ve geliştirme sırasında **çözüm uzayının kombinatoryal genişleticisi** olarak GenAI. Yararlılık aşamaya özgüdür.
 - **“Yaratıcılık kazanımları ölçülemeyecek kadar dağınıktır.”** **31 öğrencilik bir alt grupta** yaratıcı düşünme puanları **77,23'ten 94,68'e (d = 0,82)** yükselmiştir. Kazanım ölçülebilirdir ve bir alt grupla sınırlıdır; iddianın dürüst biçimi budur.
-
-## Bağlı kavramlar
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Bağlı makaleler
-
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — DALL-E 3 akışının genel yaratıcı öz yeterliliği düşürdüğü bir mimari tasarım deneyi
-- [[human-ai-collaboration-design-education-rubric-2026]] — Bir süreç rubriği YZ doğrulamasını notlandırılan nesne yapabilir
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Tasarım öğrencilerinde YZ teknolojik yıkım farkındalığı, tasarım düşüncesi zihniyeti ve tasarım yenilik yetkinliği
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: atölye geri bildirimi için yapıta duyarlı YZ eleştiri çalışma alanı; benzetime dayalı hazır bulunuşluk çalışması, öğrenme kazanımları değil
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — tasarım öğrencilerinin YZ ajanlarını kullanma niyetinde tutumun gerekli kapı olması ve ikinci bir yol olarak görev–teknoloji uyumu (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Bağımlılık türü, istem okuryazarlığının etkileşime dönüşüp dönüşmeyeceğini belirler

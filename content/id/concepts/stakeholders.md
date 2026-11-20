@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -77,42 +79,3 @@ Identitas adalah jangkar manusia dari lanskap pemangku kepentingan: ia adalah ap
 **"Analisis pemangku kepentingan adalah latihan tahap awal."** Ketegangannya bertahan hingga operasional, karena peran-peran itu terus menafsirkan sistem yang sama secara berbeda. Lapisan [[personalized-learning|personalisasi]] yang menghadap siswa dan dasbor integritas yang menghadap fakultas adalah data yang sama dilihat dari dua posisi, dan konfliknya berulang setiap kali salah satunya disesuaikan.
 
 **"Identitas lintas audiens berarti satu pesan dapat melayani semuanya."** Berkomunikasi lintas audiens menuntut menerjemahkan keputusan yang sama ke dalam istilah yang berbeda tanpa salah menggambarkannya, yang lebih dari sekadar menulis ulang satu pesan dalam empat cara.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: konsep payung bagi konsep-konsep di sisi pembelajar
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — siapa yang memiliki klaim atas keputusan dukungan AI institusional
-
-## Artikel terkait
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Pengalaman siswa dengan GenAI di pendidikan tinggi Inggris
-- [[ai-uk-higher-education-policy-2026]] — AI dalam kebijakan pendidikan tinggi Inggris (siswa dan institusi)
-- [[ai-campus-wellbeing-tools]] — Alat berbasis AI untuk kesejahteraan kampus
-- [[ai-tpack-mathematics-teacher-education-2026]] — Kesiapan AI-TPACK dalam pendidikan guru matematika
-- [[genai-policies-higher-ed-computing]] — Kebijakan GenAI institusional di bidang komputasi
-- [[ethical-ai-higher-ed-game-theory]] — Kerangka permainan koordinasi untuk penggunaan AI yang etis di pendidikan tinggi
-- [[student-rationalization-ai-writing]] — Rasionalisasi siswa atas penggunaan AI dalam penulisan akademik
-- [[ai-changing-teaching-workflows]] — Bagaimana AI mengubah alur kerja pengajaran
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Persepsi pemangku kepentingan tentang GenAI di pendidikan tinggi (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech

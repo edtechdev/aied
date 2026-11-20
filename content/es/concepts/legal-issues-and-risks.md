@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -102,43 +104,3 @@ En los programas profesionales, la exposición no termina con la graduación. Gu
 **«La detección aporta la prueba que un procedimiento necesita.»** La detección aporta una puntuación. La cuestión probatoria es si una acusación puede probarse siquiera, y la [[ai-detection|literatura sobre detección]] muestra que las herramientas no producen ni la fiabilidad ni la categoría interpretable que exige un proceso disciplinario. Construir el procedimiento sobre un detector es construirlo sobre el eslabón más débil.
 
 **«Los riesgos son hipotéticos y la política los alcanzará.»** Los riesgos se están distribuyendo de forma desigual ahora, y el estudiantado que los absorbe es el que menos puede impugnar un procedimiento. La asimetría entre la capacidad de una institución para investigar y la de un estudiante para responder es un daño presente y no futuro.
-
-## Conceptos conectados
-
-- [[academic-integrity]] — el marco de conducta cuya aplicación conlleva el riesgo
-- [[ai-detection]] — el instrumento en el centro de los casos de acusación injusta
-- [[remote-proctoring]] — la vigilancia en la evaluación y sus cuestiones de protección de datos
-- [[assessment-validity]] — si la prueba puede establecer la afirmación que se deriva de ella
-- [[privacy]] — recogida, conservación y tratamiento posterior de los datos del estudiantado
-- [[regulation]] — obligaciones legales y regulatorias que las instituciones deben cumplir
-- [[governance]] — diseño de políticas internas y coherencia de su aplicación
-- [[educational-policy-ai]] — la política institucional de IA como fuente de exposición no intencionada
-- [[ai-use-disclosure]] — las expectativas de declaración y sus límites inaplicables
-- [[accessibility]] — ajuste razonable cuando una regla elimina una herramienta de asistencia
-- [[assistive-technology]] — las herramientas en el centro del problema de inclusión excesiva
-- [[neurodiversity]] — el estudiantado más expuesto a prohibiciones demasiado amplias
-- [[equity-in-ai-education]] — la carga diferencial de la detección y la vigilancia
-- [[student-experience]] — el coste humano que precede al jurídico
-- [[hallucination-risk]] — la autoridad fabricada como responsabilidad profesional e institucional
-- [[reducing-ai-misuse]] — la alternativa de prevención a la acusación
-
-## Artículos conectados
-
-- [[munoz-misconduct-allegation-evidence-2026]] — Qué contienen realmente los expedientes de acusaciones de mala conducta y el requisito de justicia natural
-- [[hadra-ai-detector-accuracy-efl-2026]] — Exactitud de los detectores, fallo con texto híbrido y riesgo de clasificación errónea de estudiantes de inglés como lengua extranjera
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Fiabilidad de las herramientas de detección en un segundo corpus
-- [[bassett-ai-detectors-education-2026]] — Por qué ningún umbral de detección puede ser correcto: el argumento de la disyuntiva de errores
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Los procedimientos de mala conducta reevaluados cuando la prueba se ha vuelto indetectable
-- [[wright-transcription-not-generation-2026]] — Reglas sobre IA demasiado inclusivas, ajustes por discapacidad y adaptación razonable
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — La supervisión remota mapeada, con preocupaciones de privacidad y vigilancia
-- [[automated-online-exam-proctoring-decade-review-2026]] — Una década de investigación sobre supervisión automatizada
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Deshonestidad académica y supervisión en la era de la IA
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — La claridad de las políticas como condición previa para una aplicación defendible
-- [[qian-governing-genai-higher-ed-policy-2026]] — Políticas y ecosistemas de apoyo en universidades estadounidenses innovadoras
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Consenso experto sobre una gobernanza fragmentada
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integridad mediante un juicio visible en lugar de vigilancia
-- [[shin-ai-policies-sld-2026]] — El vacío de políticas para estudiantes con dificultades específicas de aprendizaje
-- [[li-genai-assessment-language-equity-2026]] — La equidad lingüística como problema de diseño de reglas: el límite entre apoyo y sustitución, la discriminación indirecta y la revisabilidad (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Estudiantes que atacan a los correctores de IA mediante inyección indirecta de prompts, con calificaciones modificadas sin ser detectadas (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Indicadores de gobernanza y programa de reforma para autenticar la evaluación (Coates, Croucher y Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes estadounidenses: las políticas individuales superan con creces a las institucionales y la respuesta estructural es escasa (Watson y Rainie 2026)

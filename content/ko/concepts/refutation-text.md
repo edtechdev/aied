@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,9 +54,7 @@ foundations: [misconceptions]
 
 반박 텍스트는 비유, 불일치 사례(discrepant events), 상호작용 대화와 함께 개념 변화 도구 모음의 한 구성원입니다. 그 장점은 **확장 가능하고, 비용이 낮으며, 입증되게 효과적**이라는 것입니다. 그 한계는 정적인 텍스트가 학습자에게 적응할 수 없다는 것입니다. AI 대화는 이 적응의 격차를 해소하지만, 설계 의존성([[personalized-learning|개인화]], 프롬프트 품질)을 도입하고, 어떤 연구에서는 잘 만들어진 텍스트에 비해 이점이 없습니다. 따라서 반박 텍스트와 AI 대화의 관계는 상호보완적입니다. 텍스트는 규모 있게 신뢰할 만한 기초 교정을 제공하고, 개인화된 AI 대화는 잘 설계되었을 때 더 강하고, 더 빠르며, 더 동기를 자극하는 교정을 제공합니다.
 
-
 그 설계 의존성의 배후에 있는 두 연구는 영역 이상으로 다릅니다. Corbett과 Tangen은 19세에서 78세까지의 성인 375명을 무작위 배정하고 단일 3회차 대화에서 각 참가자가 가장 높게 평가한 오개념을 겨냥했습니다. 교과서식 반박에 대한 대화의 이점은 10일에도 유지되었으나 두 달이 되자 수렴했습니다([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett and Tangen, 2026]]). Akdoğan의 앙카라 10학년 413명은 개인화된 세션이 아니라 하나의 대본 프롬프트 세션을 받았고, 상호작용 조건은 통제 조건에 비해 이점이 없었으나 전문가 작성 텍스트와 AI 생성 텍스트는 모두 이점을 보였습니다([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan, 2025]]). 결과를 가르는 것은 상호작용성 자체가 아니라 개인화와 유지 기간이며, 감쇠 곡선이 실천적 발견입니다. 한 번의 대화는 몇 주의 교정을 사지만 지속적인 신념 변화를 사지는 못합니다.
-
 
 ## 주요 연구 주제
 
@@ -77,25 +77,3 @@ foundations: [misconceptions]
 **"옳은 개념에 관한 정보를 더 주면 저항이 해결된다."** 옳은 정보의 양은 이미 실패하는 개입입니다. 개념 변화는 학습자의 기존 모형이 명시적으로 드러나 그 불충분함이 발견되어야 하며, 이는 증거를 더하는 것과 다른 교수적 움직임입니다.
 
 **"오개념과 보통의 무지는 같은 처방을 필요로 한다."** 둘은 다른 처방이 필요합니다. 무지는 지식을 공급하여 다루고, 오개념은 먼저 그 자리에서 밀려나야 합니다. 후자를 전자로 다루기 때문에 잘 설명된 수업이 학생의 원래 모형을 그대로 남길 수 있습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 반박 서열, 직접 상충하는 결과 두 건을 포함
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## 연결된 문서
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — 신념 교정을 위한 개인화된 AI 대화 대 교과서 반박
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 전문가/AI 개념 변화 텍스트 대 상호작용 AI 대화
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — 협력적 학습을 위한 LLM 생성 오개념
-- [[chatgpt-inoculation-training-verification-2026]] — 인접한 반박 양식의 개입으로서의 예방접종 훈련
-- [[critical-genai-use-predictors]] — 개념적 오개념을 겨냥해 반박 텍스트를 권장
-- [[ai-learning-companions-framework]] — AI 동반자와 오개념 교정

@@ -7,6 +7,8 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 > **Experiential learning** — learning through direct experience, reflection, and the application of knowledge in authentic or hands-on contexts ("learning by doing"). Drawing on Kolb's experiential learning cycle (concrete experience, reflective observation, abstract conceptualization, active experimentation), experiential approaches emphasize that learners learn most deeply when they act, observe the results, and reflect. In [[ai-education|AI education]], experiential learning includes hands-on labs, project-based work, [[educational-robotics|robotics]], [[simulation|simulations]], and real-world [[problem-solving|problem solving]].
@@ -81,35 +83,3 @@ Across 26 community-engaged studies, AI concentrated in preparation (18) and act
 **"More [[authentic-assessment|authentic tasks]] are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
 
 **"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy|pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
-
-## Connected Concepts
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
-- [[reflection]]
-
-## Connected Articles
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Real-world role-play beat VR and LLM dialogue on empathy gains, though exposure time was confounded (Zwoliński et al., 2026)
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
-- [[gelli-experiential-language-learning-2026]] — GELLI: A Generator for Experiential Language Learning Interactions (Symonette et al. 2026)
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
-- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential versus instructional sessions for metacognitive awareness in AI-assisted learning (Benazet i Montobbio et al. 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26 studies mapped onto the service-learning cycle: AI thins out at evaluation and reflection (Yusuf et al. 2026)

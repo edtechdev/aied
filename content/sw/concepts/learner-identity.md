@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -58,7 +60,6 @@ Sharti tofauti la uandishi, si tishio tu kwa uandishi: mazungumzo ya kuunda nafs
 
 - **Kusudi lililotajwa haliathiri kila uamuzi wa AI.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] waliwahoji wanafunzi 14 wa shahada ya kwanza na wakapanga kila mahojiano kwa uhusiano kati ya [[self-determination-theory|kusudi]] la mwanafunzi — nia yenye maana binafsi ya kuchangia zaidi ya nafsi — na chaguo zao za AI. Ni wachache tu waliounganisha: mmoja alikataa AI kwa sababu gharama zake za kimazingira na za kibinadamu zilipingana na kusudi lake, na watatu waliruhusu utambulisho wa kitaalama wa baadaye kuunda chaguo zao ("unachangia kwa mwanasaikolojia nitakayekuwa duniani siku moja"). Wengine wenye hisia sawa ya kusudi hawakufanya uhusiano huo, wakielezea kusudi na AI kama "vitu tofauti kwa kiasi," hivyo kuwa na utambulisho wa kulinda hakukuwa sawa na kuutegemea. Karatasi pia inatenganisha sababu wanafunzi wanazotoa kwa kuhifadhi kazi kuwa zao — maendeleo ya ujuzi, [[evaluative-judgment|umiliki na fahari]], na pingamizi la kimaadili — zinazokuja kupitia mifumo tofauti na hazipaswi kuunganishwa kuwa motisha mmoja.
 
-
 ## Uhusiano na wakala wa mwanafunzi
 
 Wakala wa mwanafunzi na utambulisho wa mwanafunzi ni dhana zinazohusiana kwa karibu lakini tofauti ambazo ni rahisi kuchanganywa — na zote mbili ni muhimu kwa jinsi AI inavyoathiri kujifunza.
@@ -87,40 +88,3 @@ Utambulisho wa mwanafunzi unaungana na [[agency]] (utambulisho unatekelezwa kupi
 **"Msaada wa AI hupunguza vizuizi na kwa hivyo hupanua ushiriki."** Unaweza kupunguza kizuizi cha kuzalisha kazi huku ukibana kizuizi cha kudai uandishi. Mwanafunzi anayewasilisha kazi ya ufasaha ambayo hakuandika amepewa ufikiaji wa matokeo na kunyimwa utambuzi unaojenga utambulisho nyuma yake.
 
 **"Kutambua utambulisho wa mwanafunzi ni suala la uwakilishi katika maudhui."** Uwakilishi ni muhimu na utambuzi hutekelezwa katika mazoezi: maswali ya nani yanachukuliwa, mchango wa nani unatambuliwa, na nani anachukuliwa kama mwenye uwezo. [[curriculum-design|Mtaala]] unaweza kuwa wa uwakilishi na bado ukanyima utambuzi ambao uundaji wa utambulisho unahitaji.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Makala Zilizounganishwa
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Aibu na hatia kama waudhibiti wa kijamii wa matumizi ya AI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Uwezo wa kurekebisha kwa utambulisho wa kitaalama unaoweza kudumu katika mustakabali wa GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Ushirikiano wa kielimu na mwanafunzi wa baada ya binadamu
-- [[ai-pedagogical-accompaniment-amico]] — Ushirikiano wa kielimu unaosaidiwa na AI unaosaidia utambulisho wa STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Kubuni kwa ajili ya tathmini halisi
-- [[paternalistic-filter-llm-history-education]] — Matumizi ya AI ya kibaba na utambulisho wa mwanafunzi katika elimu ya historia
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI kama mgogoro wa utambulisho kwa wataalam (utambulisho wa mwalimu)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Mafunzo ya walimu yanayotegemea TPK na utambulisho wa kitaalama
-- [[genai-professionalization-metaphors-2026]] — Dhana za GenAI na utambulisho wa kitaalama wa mwanafunzi
-
-- [[synthetic-position-self-authorship-2026]] — Kusimamishwa kwa uandishi: uandishi uliotolewa kama nafsi yenye sauti nyingi lakini isiyoandikwa (uchanganuzi wa dhana)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
-
-- [[ting-ai-learning-ownership-purpose-2026]] — Wanafunzi 14 wa shahada ya kwanza kuhusu kile wanachoendelea kufanya wenyewe, na kwa nini kusudi mara chache huamua
-

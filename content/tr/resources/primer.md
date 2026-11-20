@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,12 +46,3 @@ Eğitmenler, öğretim tasarımcıları ve fakülte geliştirme uzmanları, bir 
 ## Notlar ve uyarılar
 
 Yazarlar Primer'ı denenmiş bir sınıf ürünü değil deneysel bir prototip olarak adlandırıyor. Sınıflarda bir öğrenme müdahalesi olarak değerlendirilmedi ve hiç kimse onu FERPA, COPPA, eyalet öğrenci mahremiyeti hukuku veya bölge politikası açısından incelemedi; dolayısıyla onu öğrencilerle kullanan kurum bu incelemenin sahibidir. Yazılım MIT lisanslı ve ücretsizdir, ancak bir simülasyon çalıştırmak para maliyeti olan model erişimi gerektirir. Modelden bağımsız olduğu ve yerel ya da açık ağırlıklı modellerde çalıştığı için mahremiyet kurallarının daha sıkı olduğu yerlerde kurulabilir. Mimari ve istemler üzerine bir teknik rapor proje sayfasından bağlantılıdır. Depoda Kasım 2026'da kontrol edildiğinde 98 yıldız ve 16 çatal vardı.
-
-## Bağlı kavramlar
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -120,36 +122,3 @@ ai_assist:
 इससे यह काम बेकार नहीं होता। इससे दावे उचित रूप से विनम्र होते हैं। रूपक-उद्धरण उन धारणाओं को उजागर कर सकता है जो सर्वेक्षण चूक जाते हैं। सादृश्य-आलोचना संरचनात्मक समझ को दृश्यमान बना सकती है। एक अच्छी तरह चुना गया रूपक कक्षा को बहस के लिए एक साझा वस्तु दे सकता है। पर क्षेत्र को अभी भी ऐसे अध्ययन चाहिए जो रूपक-आधारित निर्देश की तुलना साधारण निर्देश से करें, रूपक की याद के बजाय स्थानांतरण मापें, और परखें कि यह दृष्टिकोण संस्कृतियों और अनुशासनों में चलता है या नहीं।
 
 अति-दावे का जोखिम दोनों दिशाओं में वास्तविक है। जो शिक्षक रूपक को पूर्ण व्याख्या मानता है, वह भ्रांति बैठा सकता है। जो शोधकर्ता रूपक को केवल सजावट मानता है, वह उस तंत्र को चूक सकता है जिससे छात्र मानसिक मॉडल बनाते हैं या बनाने में विफल रहते हैं। उपयोगी स्थिति यह है कि रूपक को एक डिज़ाइन किया गया, आंशिक और आलोचना के योग्य प्रतिनिधित्व माना जाए, और यह अध्ययन किया जाए कि शिक्षार्थी उसके साथ क्या करते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-literacy]] — महत्वपूर्ण AI साक्षरता और रूपक-आधारित शिक्षण के लिए छत्र।
-- [[critical-thinking]] — संरचनात्मक तर्क के एक रूप के रूप में सादृश्य-आलोचना।
-- [[misconceptions]] — त्रुटिपूर्ण सादृश्य टिकाऊ भ्रांतियों के स्रोत के रूप में।
-- [[student-ai-interaction]] — छात्र AI व्याख्याओं को कैसे समझते और ऑडिट करते हैं।
-- [[pedagogical-agent]] — व्याख्याएँ या सादृश्य उत्पन्न करने वाले AI ट्यूटर।
-- [[learning-design]] — सादृश्य-आधारित सामग्री का चयन और क्रमबद्धता।
-- [[educational-development]] — संकाय विकास में रूपक-उद्धरण।
-- [[engineering-education]] — इंजीनियरिंग में संकाय और छात्र रूपक।
-- [[cs-education]] — कंप्यूटिंग शिक्षा में सादृश्य का उपयोग और आलोचना।
-- [[cognitive-offloading]] — उपकरण और सहायक रूपक तथा उनके जोखिम।
-- [[trust-calibration]] — मानवीयकृत भूमिकाएँ और गलत जगह पर भरोसा।
-- [[equity-in-ai-education]] — किनके स्रोत-डोमेन परिचित गिने जाते हैं।
-- [[teacher-role]] — AI-जनित व्याख्याओं पर प्रशिक्षक का निर्णय।
-- [[explainable-ai]] — प्रणाली-व्याख्या बनाम शिक्षाशास्त्रीय सादृश्य।
-- [[student-engagement]] — व्यक्तिगत सादृश्यों के जुड़ाव-प्रभाव।
-- [[higher-ed]] — इस समूह के अधिकांश अध्ययनों का संदर्भ।
-
-## संबंधित लेख
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — महत्वपूर्ण AI साक्षरता सिखाने के लिए चार रूपक और मानदंड
-- [[student-reception-genai-analogies-computing-2026]] — छात्र GenAI-जनित सादृश्यों का ऑडिट करते हैं और टूटे मानचित्रण ठीक करते हैं
-- [[fear-awe-genai-metaphor-workshops-2025]] — छात्रों, शिक्षाविदों और कर्मचारियों के साथ रूपक-विश्लेषण कार्यशालाएँ
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — इंजीनियरिंग संकाय के रूपक AI समझ को बनाते और सीमित करते हैं
-- [[genai-professionalization-metaphors-2026]] — GenAI और पेशेवर सीखने की छात्रों की रूपक-संकल्पनाएँ
-- [[thermomix-genai-education-analogy-2026]] — सौंपने और AI के साथ सीखने के लिए रसोई-मशीन का सादृश्य
-- [[anvil-ai-educational-animations]] — कंप्यूटिंग के लिए AI-जनित सादृश्य और निर्देशात्मक एनिमेशन
-- [[ai-engineering-education-balancing-act]] — छात्रों के "ओरेकल" और "ट्यूटर" रूपक LLM क्षमताओं से आगे निकल जाते हैं
-- [[code-anchor-multi-view-visualization]] — रूपक-आधारित दृश्य स्कैफ़ोल्ड और उनकी वैधता की समस्या
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — एक छात्र की "प्रतिक्रिया की वेंडिंग मशीन" रूपक साक्षरता-साक्ष्य के रूप में
-- [[daoism-ai-education-philosophy-2026]] — शिक्षा में AI के लिए प्रति-रूपक के रूप में "झेनरेन"

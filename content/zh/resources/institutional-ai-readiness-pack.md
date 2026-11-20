@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -40,7 +41,3 @@ ai_assist:
 ## 适合谁
 
 适合需要一幅基于证据的图景来了解 AI 在研究环境中如何被使用和[[governance|治理]]，并需要随时间追踪[[change-management|变革]]的研究领导者、委员会和政策办公室。它配套 *Responsible AI in Academic Research: A Competency Framework for Research Training*（负责任地在学术研究中使用 AI：研究培训能力框架）使用，后者定义了准备度的五个维度；工具包由 Instats 主任 Michael J. Zyphur 撰写。
-
-## 关联概念
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

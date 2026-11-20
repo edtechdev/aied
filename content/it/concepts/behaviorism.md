@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -46,7 +48,6 @@ Il comportamentismo sostiene che l'apprendimento sia il rafforzamento o l'indebo
 - **Piccoli passi e scaffolding attraverso il ritmo.** L'istruzione è scomposta in unità incrementali con feedback a ogni passo, analogamente al modo in cui i sistemi adattivi sequenziano la pratica.
 
 - **I piccoli passi sono un'assunzione di progetto, e un test randomizzato del ritmo vi si è opposto.** Con 199 studenti universitari statunitensi, un feedback sequenziato come incoraggiamento, poi suggerimenti, poi risposta produceva un apprendimento peggiore del feedback con soluzione completa consegnato immediatamente, sebbene gli studenti trovassero la versione sequenziata più incoraggiante. Il guadagno affettivo era annullato da un percorso comportamentale, più reinvii per compito, e l'effetto netto era un apprendimento più scarso ([[sequenced-ai-feedback-learning]]).
-
 
 - **Chi apprende è in larga misura passivo nella costruzione della conoscenza.** L'ambiente (o il sistema) struttura e premia le risposte; chi apprende risponde anziché costruire significato: l'esatto opposto delle ipotesi [[constructivist|costruttiviste]].
 
@@ -95,28 +96,3 @@ Il comportamentismo compare anche nel modo in cui chi apprende incontra l'IA com
 **"Le progettazioni comportamentiste sono semplicemente inferiori a quelle costruttiviste."** Si adattano bene a obiettivi specifici — fluidità, richiamo fattuale, automaticità procedurale — dove feedback immediato e ripetizione sono davvero ciò che il compito richiede. L'errore non è il meccanismo; è usare un meccanismo la cui condizione di validità (il discente deve produrre la risposta) ha smesso silenziosamente di valere.
 
 **"Poiché la teoria è screditata, i sistemi costruiti su di essa possono essere giudicati dai soli esiti."** Gli esiti sono esattamente ciò che l'equivalenza dell'output corrompe. Un sistema può riportare esiti comportamentali eccellenti mentre l'apprendimento si è spostato altrove, quindi i sistemi influenzati dal comportamentismo hanno bisogno della misura senza assistenza più di ogni altro tipo.
-
-## Concetti collegati
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Cognitivismo, il terzo polo classico della teoria dell'apprendimento
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Articoli collegati
-
-- [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
-- [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
-- [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
-
-- [[sequenced-ai-feedback-learning]] — Il feedback sequenziato a suggerimenti è risultato inferiore al feedback immediato con soluzione completa in un esperimento randomizzato con 199 partecipanti
-
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -80,45 +82,3 @@ La literatura sobre evaluación insiste en que la [[assessment|evaluación]] es 
 - **«Un LLM no puede calificar con los estándares oficiales.»** Frente a **calificaciones oficiales moderadas**, un LLM multimodal que calificó **10.364 páginas manuscritas** de la Olimpiada de Física y de exámenes universitarios mostró una correlación fuerte. La concordancia en los resultados puede sobrevivir a una puntuación imprecisa ítem por ítem, lo que significa que la pregunta útil es dónde se exige realmente precisión a nivel de ítem.
 - **«La inflación de notas por IA es especulación.»** El cuasiexperimento de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] sobre **más de 500.000 calificaciones** concreta el mecanismo: tras el lanzamiento de ChatGPT, **los cursos con más tareas expuestas a la IA vieron subir la proporción de notas altas**. El efecto se concentró donde las tareas estaban expuestas, que es el patrón que predeciría un mecanismo.
 - **«No se puede distinguir a quien usa IA de quien no, así que la procedencia es un callejón sin salida.»** El hallazgo de que **no había diferencias significativas en la atribución de la fuente** entre ítems generados por IA e ítems de exámenes con licencia, con un reconocimiento correcto del **68,6-77,5 por ciento** y una tasa de atribución errónea del **18,2 por ciento**, trata de un fallo del reconocimiento, no de que la procedencia sea innecesaria. Si acaso, eleva la exigencia de una procedencia verificada.
-
-## Conceptos conectados
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Artículos conectados
-
-- [[llm-grading-assistants-public-health-2026]] — Los calificadores con LLM comprimen la escala de notas y evitan los extremos en la evaluación de ensayos de alto riesgo
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Replantear los exámenes orales como evaluación sumativa auténtica y resistente a la IA
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La penalización de aprendizaje de la IA generativa: evidencia de exámenes supervisados y con libros cerrados
-- [[chirikov-ai-grade-inflation-2026]] — El desplazamiento de tareas hacia la IA como mecanismo de inflación de notas; cursos con mucha carga de deberes (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Finalización más rápida, menos aprendizaje: las medidas supervisadas son esenciales
-- [[generative-ai-guardrails-harm-learning]] — La IA generativa sin barreras de protección daña el aprendizaje
-- [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de los exámenes generados por IA
-- [[llms-do-not-grade-essays-like-humans-2026]] — Los LLM no califican los ensayos como las personas
-- [[llm-automated-assessment-student-self-explanations]] — LLM para la evaluación automatizada de las autoexplicaciones del estudiantado
-- [[cong-confidence-asag-2026]] — Calificación automática de respuestas breves
-- [[psyscore-essay-scoring-zpd-feedback]] — Puntuación de ensayos adaptativa por rasgo con conciencia psicométrica
-- [[socratic-tests-conversational-assessment]] — Pruebas socráticas: evaluación dinámica, conversacional y multimodal
-- [[code-review-genai-cs1]] — Entrevistas de revisión de código en CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Evaluación responsable en la era de la IA
-- [[test-driven-ai-assisted-learning]] — Aprendizaje asistido por IA guiado por pruebas
-- [[genai-oop-programming-assessments-2026]] — Rendimiento de la IA generativa en evaluaciones de programación orientada a objetos
-- [[brcic-effortless-trap-productive-struggle-2026]] — La trampa sin esfuerzo: el esfuerzo productivo y la ilusión de aprendizaje
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tareas de evaluación generadas por IA frente a desarrolladas por personas en inglés como lengua extranjera
-- [[roe-assessment-twins-2026]] — Gemelos de evaluación para reforzar la validez de la evaluación en la era de la IA generativa (Roe, Perkins y Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones manuscritas de física (Olimpiada)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — El estudiantado no distingue de forma fiable los ítems redactados por IA

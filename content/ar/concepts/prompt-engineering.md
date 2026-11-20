@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -95,56 +97,3 @@ ai_assist:
 - **"جودة المطالبة سمة للطالب."** **الإدراك المعرفي للمطالبة يتبع التخصص لا الطالب**: فـ[[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] صنّفا **60,087 مطالبة من 116 مقررًا** ووجدا أن التخصص تنبّأ بمستوى تقدّم المطالبة. فتعليم الطلاب صياغةً أفضل يعالج تباينًا كامنًا في المادة ذاتها.
 - **"الطلاب يطوّرون ممارستهم في الصياغة بأنفسهم."** حين نمذج المدرّس المطالبة، **أعاد الطلاب استخدامها حرفيًا** — فبين **310 مطالبات مسجَّلة من اثنتي عشرة مجموعة STEAM في المرحلة المتوسطة**، كان النسخ الحرفي لتعليمة المدرّس شائعًا. فالنمذجة تُنتج استنساخًا، ولهذا فهي رافعة تصميم نظام لا مهارة قابلة للنقل.
 - **"الصياغة مهارة متعلّم أولًا وخاصية نظام ثانيًا."** هذا ينقل الصياغة **إلى رافعة تصميم نظام تكيفي**، بآثار مقيسة على **الانخراط والكفاءة (تحويل التمارين 28.1% مقابل 19.6%)**. فإمكانات الصياغة في الواجهة حرّكت السلوك أكثر مما حرّكه التدريس على الصياغة.
-
-## المفاهيم المتصلة
-- [[pedagogical-patterns]] — طبقة السقالة داخل تسلسلات الاستخدام المنظَّم
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — محور جامع: تقنيات وتقنيّات الذكاء الاصطناعي (نماذج، وتدريب نماذج لغوية، وروبوتات، وتوليد معزَّز بالاستدعاء، ووكيل)
-
-## المقالات المتصلة
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 طالبًا عن ما يجدونه صعبًا: مواءمة القصد لا صياغة المطالبة
-- [[wang-teacher-student-centered-agents-physics-2026]] — مطالبات دور الوكيل وقيوده كمتغيّر تصميم في تعلّم الفيزياء (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — صياغة المطالبات مقابل الضبط الدقيق في توليد مفردات استماع باللغة الثانية لـGPT (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — ما يسأله الطلاب يهمّ: عمق تفاعل النموذج اللغوي، وجودة المهمة، والاستدعاء الفوري (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: تدريب في الزمن الحقيقي لصياغة مطالبات نماذج لغوية تعليمية
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — تصنيف مهام قائم على النماذج اللغوية للثقافة النقدية بالذكاء الاصطناعي في الصحافة
-- [[prompt-privilege-equitable-ai-access-2026]] — امتياز المطالبات: قياس فوارق إمكانية الوصول في الوصول إلى النماذج اللغوية الكبيرة وتخفيفها
-- [[principal-trait-analysis-human-ai-skills-2026]] — تحليل السمات الرئيسية: سمات مدفوعة بالبيانات للتعاون بين الإنسان والذكاء الاصطناعي
-- [[llms-text-linguistics-teaching-2026]] — النماذج اللغوية الكبيرة في تعليم اللغويات النصية
-- [[idea-framework-metacognitive-genai-2026]] — إطار IDEA للاستخدام المُنظَّم معرفيًا للذكاء الاصطناعي التوليدي
-- [[lin-llm-interactive-lesson-generation]] — توليد دروس تدريب مدرّسين تفاعلية بنماذج لغوية (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — إرشادات اليونسكو للذكاء الاصطناعي مُترجَمة إلى التعليم الكيميائي؛ الانحراف المعرفي
-- [[isaza-chatgpt-engineering-prompting-2026]] — سلوكيات الصياغة تتنبّأ بأداء طلاب الهندسة
-- [[student-ai-conversations-cognitive-engagement-2026]] — الانخراط المعرفي بمستوى بلوم المرتبط بالمجال في محادثات الطالب مع الذكاء الاصطناعي (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — النماذج اللغوية الكبيرة كوكلاء للتصميم التربوي التكراري
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — هندسة المطالبات مقابل ثقافة المطالبات: إطار تفاعل متمركز على الإنسان من خمس مراحل مع دورة ثقافة مطالبات من خمس خطوات (Miles وHaber-Curran وArar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — هندسة المطالبات واختيار النموذج كمتنبّئَين بجودة التغذية الراجعة للذكاء الاصطناعي (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — تقويم تركيز التغذية الراجعة والقابلية التكيّفية التربوية في التغذية الراجعة المولَّدة بنماذج لغوية على كتابة الطلاب
-
-- [[middle-school-genai-steam-interactions-2026]] — نسخت مجموعات STEAM في المرحلة المتوسطة تعليمة المدرّس حرفيًا في 47.1% من المطالبات
-- [[ecd-prompts-automated-essay-scoring-2026]] — استخدام التصميم المرتكز على الأدلّة لتوجيه هندسة المطالبات في القياس: مثال على التصحيح الآلي للمقالات
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — مطالبات غامضة أنتجت حلقات توضيح ذاتية التكرار مع أكبر فجوة إحباط
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — كفاءة هندسة المطالبات كمسار إنصاف، مع تجربة سقالة عبر النماذج (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — ثقافة المطالبات كقدرة مُدرَكة تظلّ تتنبّأ بالمشاركة

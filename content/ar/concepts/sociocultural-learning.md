@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -56,7 +58,6 @@ ai_assist:
 
 وقد تقع المساعدة المصنوعة آليًا داخل تلك المنطقة. في دراسة عشوائية على 274 [[adult-learning|متعلّمًا بالغًا]] عبر أربعة موضوعات رياضية، أنتجت تلميحات الحلول المشروحة المولّدة بـChatGPT مكسبًا من قبل إلى بعد قدره 17.00% مقابل 1.85% بلا تلميحات، بينما أنتجت تلميحات مؤلَّفة بأيدي مدرّسين بشريين 11.62%؛ ولم يكن شرطا المساعدة قابلين للفصل إحصائيًا ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos and Bhandari, 2024]]). ويؤهّل معدل الخطأ هذه المكافأة: فشل 32% من التلميحات المولّدة في فحوص الجودة حتى خفّض [[prompt-engineering|التحفيز]] بالاتساق الذاتي ذلك إلى ما يقارب الصفر في موضوعات الجبر الثلاثة وإلى 13% في الإحصاء. فالآخر الأعلم معرفةً الذي يخطئ مرة في كل ثلاث لا يزال وكيلًا وسيطًا، ولهذا يجب فحص مساهمة الآلة قبل أن يبني عليها المتعلّم.
 
-
 - **رواية حساسة للمرحلة لدور الذكاء الاصطناعي التنظيمي.** يمنح [[ai-cognitive-partner-co-regulation-learning|إطار نمائي للتنظيم المشترك بين الإنسان والذكاء الاصطناعي]] الذكاء الاصطناعي أربعة أدوار — سقالة، ودعم ما وراء معرفي، وذاكرة خارجية، وشريك قرار — ويضعها بالمرحلة: تنظيم خارجي مهيكل في [[early-childhood-elementary-ai-education|الطفولة المبكرة]]، وشريك [[metacognition|ما وراء معرفي]] في منتصف الطفولة والمراهقة، ومتعاون في الإدراك المعقّد في الرشد.
 
 - **إشارة مغادرة المنطقة هي القصد لا العمق.** مدرّب يصعّد ويتلاشى بحسب نقطة القرار تنازل عن 65.0% من الوقت بعد دور عن قرار *مختلف*، أي ضعف معدل الأدوار الموجّهة إلى القرار موضوع الدعم، ولم يرتّب عمق الرد النتائج ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). والانسحاب يفترض متعلّمًا يجيب: فقد هبط التبنّي من 37.0% بعد الطلب الأول إلى 21.8% بعد الثالث، فالصمت ليس دليل جهوزية.
@@ -82,34 +83,3 @@ ai_assist:
 **"إضافة أداة إلى مجموعة تغيّر كفاءتها فقط."** إنها تغيّر تقسيم العمل، وهو وحدة التحليل عند النظرية. فالمجموعة التي تحوّل معظم أسئلتها إلى وكيل تكون قد أعادت توزيع العمل المعرفي حتى حين لا يتغيّر المخرَج.
 
 **"المعرفة الموزّعة تعني أن الفرد لا يهم."** إنها تعني أن إسهام الفرد لا يمكن قراءته من الأداء الفردي وحده؛ فوحدة التحليل هي نظام النشاط لا الشخص المعزول.
-
-## المفاهيم المرتبطة
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## المقالات المرتبطة
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM-authored hints matched human tutor hints on mathematics learning gains (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Fading on what the learner's turn is aimed at, not on how deep the reply is
-

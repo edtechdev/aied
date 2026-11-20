@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -92,35 +94,3 @@ I metodi quantitativi e [[qualitative-research|qualitativi]] sono complementi �
 - **"Una stima intent-to-treat descrive ciò che fa lo strumento."** In uno studio randomizzato di accesso per gruppi in cui **circa il 15% degli studenti nelle classi trattate ha mai usato il tutor**, la stima ITT riflette **l'effetto dell'introduzione** dello strumento anziché l'effetto del suo uso. Un'adesione bassa rende una cifra ITT un'affermazione sull'implementazione, e riportarla come effetto dello strumento sovrastima ciò che è stato misurato.
 - **"La prestazione sul compito è l'esito."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomizza **120 studenti** a studio assistito dall'IA o tradizionale e misura la **ritenzione** — il disegno che separa la prestazione immediata dall'apprendimento durevole. Uno studio che si ferma al compito ha misurato la quantità più facile.
 - **"I confronti tra dataset sono immediati."** Un controllo strutturale su dati educativi sintetici ha rilevato che **analizzare ogni dataset alla propria soglia invertiva un contrasto che reggeva a un punto di lavoro condiviso**. Il segno del confronto dipendeva da una scelta analitica, che è il tipo di fragilità che un punto di lavoro preregistrato esiste per prevenire.
-
-## Concetti collegati
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Articoli collegati
-
-- [[access-not-enough-ai-tutoring-2026]] — A randomized field study of human support plus AI tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI adoption pathways (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[jin-glat-genai-literacy-assessment]] — GLAT: an IRT-validated GenAI literacy test
-- [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
-- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

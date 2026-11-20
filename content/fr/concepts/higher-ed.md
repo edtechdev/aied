@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -118,74 +120,3 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 - **« L'adoption institutionnelle de l'IA est parvenue à maturité. »** **La couche symbolique est saturée tandis que la couche structurelle est mince** : **100 % disposent d'un groupe de travail sur l'IA et d'un master en IA, mais seulement 12 % ont une direction de l'IA au niveau exécutif** et 5 % seulement exigent une étape institutionnelle supplémentaire. Les annonces ont dépassé les structures d'un ordre de grandeur.
 - **« Le prestige prédit la maturité institutionnelle en IA. »** L'institutionnalisation s'est révélée **indépendante du prestige (corrélation de rang r ≈ 0,04)**, avec une **variation régionale significative (ANOVA F = 5,86, p < .001)**. La réputation n'est pas un indicateur de préparation, et la géographie prédit davantage que le statut.
 - **« La manière dont l'IA distribue le travail épistémique est uniforme d'un établissement à l'autre. »** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn et Rehm (2026)]] ont classé **102 études empiriques sur l'enseignement supérieur** selon la distribution du travail épistémique, et la variation est le résultat plutôt qu'un détail.
-
-## Concepts liés
-
-- [[undergraduate-education]] — L'IA dans les études de licence : grands cours, STIM d'introduction, intégrité de l'évaluation
-- [[graduate-education]] — L'IA dans les études de master et de doctorat : encadrement, formation à la recherche, programmes professionnels
-- [[pedagogical-patterns]] — Le niveau où la majeure partie des preuves de séquences testées a été produite
-- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
-- [[generative-ai]] — Technologies et modèles d'IA générative
-- [[llm]] — Grands modèles de langue
-- [[student-experience]] — Expérience étudiante avec l'IA dans l'enseignement supérieur
-- [[educational-development]] — Développement des enseignants et préparation à l'IA
-- [[academic-integrity]] — Intégrité académique face à un public étudiant capable d'utiliser l'IA
-- [[ai-literacy]] — Littératie en IA pour les étudiants et les enseignants
-- [[assessment-validity]] — Validité de l'évaluation à l'ère de l'IA générative
-- [[educational-policy-ai]] — Politique éducative en matière d'IA
-- [[regulation]] — Réglementation de l'IA dans l'éducation
-- [[remote-proctoring]] — Surveillance d'examens à distance et intégrité automatisée des épreuves
-- [[self-directed-learning]] — Apprentissage autodirigé avec l'IA
-- [[problem-based-learning]] — Apprentissage par problèmes avec l'IA
-- [[teacher-role]] — Évolution du rôle enseignant dans les classes avec IA
-- [[stakeholders]] — Parapluie : acteurs et publics de l'éducation à l'IA (apprenants, enseignants, concepteurs, administrateurs, décideurs)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — conseil, démarche proactive, orientation et allocation du soutien — le volet institutionnel de la réussite étudiante
-
-## Articles liés
-
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Cadre EPIQ-AI de préparation des enseignants
-- [[ai-in-the-wild-college]] — AI in the Wild : usage de l'IA par les étudiants de premier cycle
-- [[institutional-change-framework-ai]] — Changement institutionnel à l'ère de l'IA
-- [[genai-availability-grades-satisfaction]] — Disponibilité de l'IA générative et satisfaction des étudiants
-- [[ai-assessment-scale-reform]] — Échelle d'évaluation de l'IA et réforme
-- [[universities-ai-era-rethinking]] — Repenser les universités à l'ère de l'IA
-- [[teacher-ai-adoption-confidence]] — Adoption de l'IA parmi les enseignants
-- [[enright-staff-perspectives-genai-2026]] — Points de vue du personnel sur l'IA générative dans l'enseignement supérieur
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Facteurs organisationnels de l'adoption de l'IA dans l'enseignement supérieur
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — L'IA dans la rétroaction aux étudiants : éthique
-- [[beyond-detection-authentic-assessment-ai-2025]] — Au-delà de la détection : reconcevoir l'évaluation authentique dans un monde médiatisé par l'IA
-- [[genai-student-experiences-uk-he-survey-2026]] — Expériences de l'IA générative chez les étudiants de l'enseignement supérieur britannique (enquête)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Enseignants et employeurs face aux compétences en IA des diplômés de premier cycle
-- [[generative-ai-reduced-study-time-math]] — Baisse de 26.9% du temps d'étude chez les étudiants de premier cycle
-- [[ai-uk-higher-education-policy-2026]] — Politique d'IA dans l'enseignement supérieur britannique
-- [[ai-tools-academic-work-cheating-2026]] — Outils d'IA, travaux académiques et triche
-- [[assessing-quality-ai-generated-exams-field-2025]] — Évaluer la qualité des examens générés par IA : une étude de terrain à grande échelle
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidérer les examens oraux comme évaluation authentique et résistante à l'IA
-- [[roe-assessment-twins-2026]] — Jumeaux d'évaluation pour renforcer la validité de l'évaluation à l'ère de l'IA générative
-- [[student-perceptions-ai-study-productivity-2026]] — Les perceptions qu'ont les étudiants des outils d'intelligence artificielle pour la productivité d'étude et l'apprentissage : une enquête exploratoire
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — étude phénoménographique des conceptions de l'IA chez les enseignants universitaires
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformation numérique d'une université d'arts libéraques vers un modèle à intensité de recherche à l'ère de l'IA générative (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revue systématique cartographiant l'intégration de l'IA dans l'enseignement supérieur via les cadres FACETS + SAMR (AlSheikh et al., 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Expériences et perceptions des enseignants universitaires face à l'IA générative : vulnérabilité, remise en question de l'évaluation, apprentissage étudiant menacé (Farazouli et al., 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Usage de l'IA générative par les chercheurs de troisième cycle dans le flux de travail de recherche et lignes directrices orientées vers la littératie en IA (Dai & Chan 2026)
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026) : AI Institutionalization Index appliqué à 100 universités de premier rang ; le discours devance la structure, l'adoption est indépendante du prestige
-- [[engagement-intensity-learner-modeling]] — L'intensité de l'engagement comme signal de modélisation de l'apprenant pour un enseignement adaptatif d'éthique de l'IA (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — La rédaction assistée par IA oriente les équipes de recherche vers des collaborations plus petites, moins pourvues en seniors et très citées (Wang et al., 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Les formes Assistant et Enabler dominent la recherche sur l'IA générative dans l'enseignement supérieur ; les types d'interdépendance marginaux restent rares pour des raisons institutionnelles plutôt que techniques (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Cartographie du déploiement de l'IA du côté des étudiants à travers les admissions, l'aide financière, les services aux étudiants et la dispense des enseignements, avec un filtre d'achat en quatre questions (Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — Des énoncés sous forme d'images perturbées font passer le taux d'échec des LLM de 7.4% à 55.6% : la conception des contenus comme voie d'intégrité
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Lunettes et appareils auditifs à IA : l'interdiction d'examen en salle devient inopérante, une double transparence sans indice de regard ni de posture
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Une taxonomie par domaines fonctionnels des applications de l'IA dans l'enseignement supérieur, dont 58.4% échappent aux catégories de 2019
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Rédiger des consignes propres à chaque méthode, et non une politique d'IA unique pour tout le campus
-- [[ai-literacy-determinants-university-students-2026]] — Les ressources perçues et le soutien des enseignants expliquaient 29% de la variance de littératie en IA, les variables démographiques non
-- [[faculty-ai-well-being-social-supports-2026]] — Financer la littératie en IA, et pas seulement la confiance dans les outils, pour les enseignants
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Étudiants de troisième cycle supérieurs sur six des sept échelles (d = 1.29 pour l'usage, d = 1.47 pour l'éthique), avec une dispersion bien plus étroite que les étudiants de licence
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — Apprentissage auto-évalué et indice d'engagement à trois comportements corrélés à 0.052 chez 1 477 répondants
-- [[kumar-chatgpt-academic-assignments-2025]] — La conscience éthique ne prédisait pas la performance déclarée aux devoirs (β = −0.006, p = .924)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Quatre profils d'adoption dans une même université ; l'habitude est le prédicteur le plus fort et le niveau d'études ne modère rien
-- [[kong-ai-employability-cognitive-engagement-2026]] — L'adoption et la fréquence sont lues comme des proxys de capacité ; presque chaque résultat mesuré se situe à l'extrémité proximale

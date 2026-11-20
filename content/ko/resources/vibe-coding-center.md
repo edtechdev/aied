@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,7 +45,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 이 센터는 안내이지 준수 제품이 아닙니다. 사이트는 자체 WCAG 2.2 AA 목표에 대해 적합성 주장을 하지 않고, "이 파일들을 쓰면 내 사이트가 준수합니까?"라는 질문에 아니라고 답하며, 엔지니어링 검토가 학교 승인이나 법률 검토를 대체하지 않는다고 말합니다. 보안 선반은 axe-core, Gitleaks, ZAP, Playwright를 가리킵니다. 그것들은 함께 제공되는 소프트웨어가 아니라 참조이며, 침습적인 것들은 일회용이거나 명시적으로 승인된 대상에 쓰도록 되어 있습니다. 읽는 데는 계정이 필요 없습니다. HTML 페이지를 다시 빌드하려면 Python과 `markdown-it-py`가 필요하며, 이는 방문자 의존성이 아니라 빌드 의존성입니다. 저장소는 MIT 라이선스이고, 제3자 아트워크와 링크된 프로젝트는 `CREDITS.md`에 문서화된 자체 조건을 유지합니다.
-
-## 연결된 개념
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

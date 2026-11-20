@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -44,8 +45,3 @@ Descreva um aplicativo, continue conversando para revisá-lo e escolha se ele fi
 ## Observações e ressalvas
 
 A plataforma tem um nível gratuito, mas ele é baseado em créditos: as contas recebem 1.000 créditos de IA por mês, e construir, editar, gerar imagens e usar funcionalidades de IA dentro do aplicativo gastam esses créditos. Uma assinatura acrescenta a opção de comprar mais créditos, que não expiram. Qualquer curso que pretenda depender da plataforma deve verificar os termos atuais, já que o uso gratuito é medido em vez de ilimitado, e deve tratar aplicativos criados por estudantes como conteúdo com questões próprias de tratamento de dados.
-
-## Conceitos conectados
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -41,7 +43,6 @@ ai_assist:
 شناخت ایک تحریکی اور ترقیاتی ساخت ہے جو متعلقہ صلاحیتوں اور عقائد سے الگ (مگر جڑی ہوئی) ہے۔ جہاں [[self-efficacy]] کا تعلق *کیا میں یہ کر سکتا ہوں؟* سے ہے، شناخت کا تعلق *میں کون ہوں — اور کون بن رہا ہوں؟* سے ہے۔ یہ شرکت، تسلیم اور مصنفیت سے بنتی ہے — خود کو کسی میدان میں جھلکتا دیکھنے اور اُس خود کی تصویر کی توثیق پانے سے۔ AI اُن شرطوں کو نئے سانچے میں ڈالتا ہے جن میں شناخت بنتی ہے، کیونکہ وہ بدلتا ہے کہ *کام کون کرتا ہے*، *کیا چیز اپنا حصہ گردانی جاتی ہے*، اور *کیا سیکھنے والا اپنی سیکھائی کا مصنف تسلیم محسوس کرتا ہے*۔ یہ شناخت کو ایک بنیادی ڈیزائن کا معاملہ بناتا ہے، نہ کہ حاشیے کا کوئی "نرم" عنصر۔
 
 - **مصنفیت اور قابلیت خطرے میں۔** جب AI متن، تصویریں یا کوڈ پیدا کرتا ہے، تو سیکھنے والے سوال اٹھا سکتے ہیں کہ نتیجہ واقعی "اُن کا" ہے یا نہیں — یہ شناخت کی مصنفیت والی جہت کو چیلنج ہے۔ **[[t2i-competence-paradox-2026|Liu وغیرہ (2026)]]** فن اور ڈیزائن کے اُن طلبہ میں *قابلیت کا تضاد* دستاویز کرتے ہیں جو ٹیکسٹ ٹو امیج GenAI استعمال کرتے ہیں: آلات آسان اور کارآمد محسوس ہوتے ہیں، پھر بھی اُن کا استعمال بیک وقت اُس **تخلیقی شناخت** کو خطرے میں ڈالتا ہے جو طلبہ ہاتھ کے ہنر اور مصنفیت سے حاصل کرتے ہیں، جس سے آسانی اور خود قدری کے درمیان حقیقی کشیدگی پیدا ہوتی ہے۔
-
 
 مصنفیت کی ایک الگ شرط، محض مصنفیت کے لیے خطرہ نہیں: جب خود کو تشکیل دینے والی گفتگو عادتاً کسی مکالماتی ماڈل کے حوالے کر دی جائے، تو مصنفین دلیل دیتے ہیں کہ مصنفیت کا مربوط کام *تفویض* ہو جاتا ہے، نہ کہ غیر ترقی یافتہ یا غائب رہتا ہے — ایک خود جو گھنی آواز والا مگر بے مصنف ہے، اور اُن کے بقول موجودہ ساختیں اِس کے لیے کوئی خانہ نہیں رکھتیں ([[synthetic-position-self-authorship-2026|Du وغیرہ (2026)]])۔
 - **شرم اور چھپا ہوا استعمال۔** **[[shame-guilt-ai-regulation-computing-education|Lin وغیرہ]]** دکھاتے ہیں کہ کمپیوٹنگ کے طلبہ AI کے استعمال پر شرم اور جرم محسوس کرتے ہیں، جو سماجی ضابطوں کا کام کرتے ہیں اور *چھپانے* اور منتخب افشا کی طرف دھکیلتے ہیں — ایسے رویے جو تعلیمی شناخت کو ٹکڑے ٹکڑے کر سکتے ہیں اور سیکھنے کے ساتھ ایماندارانہ شمولیت کو کمزور کرتے ہیں۔
@@ -87,38 +88,3 @@ ai_assist:
 **"AI کی معاونت رکاوٹیں کم کرتی ہے اور اس لیے شرکت کو وسیع کرتی ہے۔"** یہ کام پیدا کرنے کی رکاوٹ کم کر سکتی ہے جبکہ مصنفیت کا دعویٰ کرنے کی رکاوٹ تنگ کر سکتی ہے۔ وہ طالب علم جو کوئی رواں نمونہ جمع کراتا ہے جسے اُس نے خود نہیں لکھا، اُسے نتیجے تک رسائی دی گئی مگر وہ تسلیم روک لی گئی جو اُس کے پیچھے کی شناخت بناتی ہے۔
 
 **"سیکھنے والے کی شناخت کو تسلیم کرنا مواد میں نمائندگی کا معاملہ ہے۔"** نمائندگی اہم ہے اور تسلیم عملی طور پر ظاہر ہوتی ہے: کس کے سوالات اٹھائے جاتے ہیں، کس کے حصے کو کریڈٹ ملتا ہے، اور کسے قابل سمجھا جاتا ہے۔ کوئی [[curriculum-design|نصاب]] نمائندہ بھی ہو سکتا ہے اور پھر بھی وہ تسلیم روک سکتا ہے جو شناخت کی تشکیل کے لیے ضروری ہے۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## منسلک مضامین
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 انڈرگریجویٹ اِس بارے میں کہ وہ خود کیا کرتے رہتے ہیں، اور مقصد اِس کا فیصلہ کم ہی کرتا ہے
-- [[guarded-adoption-genai-higher-education-2026]] — اعلیٰ تعلیم میں جنریٹو AI کا محتاط اپنانا
-- [[t2i-competence-paradox-2026]] — قابلیت کا تضاد: ٹیکسٹ ٹو امیج GenAI کے استعمال میں تخلیقی شناخت
-- [[shame-guilt-ai-regulation-computing-education]] — شرم اور جرم بطور AI استعمال کے سماجی ضابطے
-- [[lodge-adaptive-capabilities-genai-future-2026]] — GenAI کے مستقبل میں قابلِ عمل پیشہ ورانہ شناخت کے لیے موافقت پذیر صلاحیتیں
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — تدریسی ہم زیستی اور ماورائے انسانی سیکھنے والا
-- [[ai-pedagogical-accompaniment-amico]] — AI کی مدد سے تدریسی ہمراہی جو STEM شناخت کی تائید کرتی ہے
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — مستند جانچ کے لیے ڈیزائن کرنا
-- [[paternalistic-filter-llm-history-education]] — تاریخ کی تعلیم میں پدرانہ AI استعمال اور طلبہ کی شناخت
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI بطور فیکلٹی کے لیے شناخت کا بحران (استاد کی شناخت)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK پر مبنی استاد کی تربیت اور پیشہ ورانہ شناخت
-- [[genai-professionalization-metaphors-2026]] — GenAI کے تصورات اور طلبہ کی پیشہ ورانہ شناخت
-
-- [[synthetic-position-self-authorship-2026]] — مصنفی تعطل: تفویض شدہ مصنفیت بطور گھنی آواز والا مگر بے مصنف خود (تصوراتی تجزیہ)
-- [[vibe-coding-design-diversity-2026]] — ایک آلہ، ایک ذائقہ؟ وائب کوڈنگ کس طرح اجتماعی تنوع کو انفرادی تخلیقیت کے بدلے بیچتی ہے

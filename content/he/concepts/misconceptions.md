@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -130,36 +132,3 @@ Bernstein and Sibia (2026) מראים שאנלוגיות שנוצרו על-יד�
 - **"אפשר לתקן תפיסות מוטעות של מורים על-ידי הצגת ראיות."** במחקר-טיס עם **123 מחנכים איטלקיים**, אי-ההסכם התרכז באופן הקשה ביותר ב**סגנונות למידה קוגניטיביים (78% מהמורים הגנו על התאמה ויזואלית/שמיעתית)**, בהכללה ובעבודת קבוצה (68%) ובעומס יתר של EdTech (54%). אי-ההסכמים החזקים ביותר היו גם אלה שעמידים ביותר לראיות, וזו הסיבה ש[[refutation-text|טקסט התייחסות]] עדיף על הצהרה גרידא.
 - **"התנגדויות מורים לראיות הן כולן התנגדות."** כאשר אותם פריטים הוצגו באמצעות בינה מלאכותית שיחתית ש**אישרה את הקשר של המורה לפני שהציגה מחדש את הראיה**, **41% מההתנגדויות עסקו במגבלות הקשר אמיתיות** — גודל כיתה, צרכים מיוחדים, דרישות תכנית הלימודים. חלק ניכר ממה שנראה כתפיסה מוטעעת היה התנגדות מדויקת.
 - **"אפשר לזהות תפיסות מוטעות באופן אמין מתוך דיאלוג."** **מתוך 241 קטעים מונחים, 221 (91.7%) אושרו כתפיסות מוטעות אסטרטגיות בהצבעת רוב של מומחים (Fleiss' κ = 0.9487)**, עם **ללא הבדלים מובהקים** בין הקבוצות. אמינות גבוהה ניתנת להשגה תחת הכרעת מומחים, וזהו התנאי שהטענה תלויה בו.
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — רצפי השינוי-המושגי המתמודדים עם אמונה ספציפית שנחזקת
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## מאמרים מקושרים
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)

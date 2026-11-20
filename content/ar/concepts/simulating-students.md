@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -66,7 +68,6 @@ ai_assist:
 
 ويضيف [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang وآخرون (2026)]] محور استجابة الاستبيان إلى محاكاة الطلاب، فيولّدون استجابات BREQ من نص مقابلة كل شخص، فحسّن محتوى المقابلة التوافق والتنوع لدى بعض النماذج بينما أضافت الخصائص الديموغرافية القليل. وأنتجت استجابات النماذج اللغوية الكبيرة تباينًا بشريًا أقل في كل شرط، ولم يُعِد التقليد على مستوى البند بناء البنية السيكومترية على مستوى الاختبار، إذ حسّن Claude وحده مع تلقينات المقابلة التوافق على مؤشر الاستقلالية النسبي.
 
-
 يعمل تكييف التوليد على نموذج سلوك متوقع دون [[llm-training-and-fine-tuning|تلقين دقيق]]: إطار خالٍ من التدريب يبني النموذج الأولي المعرفي لكل طالب من [[knowledge-graph]] ويقيّم مرشّحي البحث الشعاعي مقابله، ويُبلغ عن تحسّن 100% في دقة المحاكاة ([[simulating-students-diverse-cognitive-levels-2025|Wu وآخرون (2025)]]). وترتفع جودته مع المستوى المعرفي للطالب، لذا يبقى المتعلّمون الأضعف هو الحالة الأصعب على المحاكاة.
 
 - **توقّع المتعلّم بدل التمثيل به.** أعاد [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang وآخرون (2026)]] صياغة المحاكاة كتنبؤ بضمير الغائب: فالنموذج الطلابي المبني من تاريخ المتعلّم يوفّر أولوية، وحالة المتعلّم المستنتجة تقيّد الفعل التالي، ويقع توزيع القدرة المُحاكى أقرب 2.4–8.4 مرة إلى التوزيع الحقيقي بمسافة Wasserstein-1.
@@ -74,7 +75,6 @@ ai_assist:
 نمذج CogEvolution الديناميكيات المعرفية بدلًا من شخصية ساكنة — حيث يحدّد مُدرك عمق [[icap-framework|ICAP]] حجم كل تحديث للحالة، ويبقى التحديث التطوري داخل نصف قطر منطقة التطور الأدنى — محققًا R²LC = 0.92 حيث يبلغ الوكلاء الساكنون 0.45 وينهار إلى 0.58 بدون وحدة ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang وآخرون (2026)]]).
 
 **الانحراف مشكلة أفق لا مشكلة شخصية.** يُظهر [[radmehr-alps-simulated-students-long-horizon-2026|Radmehr وآخرون (2026)]] أن التوليد على مستوى الدور يفقد الملمح المُسنَد مع طول المسارات، بينما حافظ تخطيط مقاطع متوائمة مع الملمح قبل توليد الأفعال على الكثافة والاتساق الذي يحكم عليه المقيّمون حتى مع ثلاثة مسارات حقيقية لكل ملمح.
-
 
 ### الصدق المعرفي قبل الواقعية السطحية
 
@@ -99,7 +99,6 @@ ai_assist:
 الاثنتان متكاملتان لا متنافستان. فالطالب المحاكى عالي الصدق *يحتوي* عادةً على نموذج طالب (حالة معرفية، ومجموعة مفاهيم خاطئة، وملفّ [[student-engagement|اندماج]]) ويستمد من المنشآت ذاتها التي يُشكّلها [[student-modeling]] و[[knowledge-tracing]]. وتحدي الصلاحية المشترك واحد في الاثنين: يجب أن يعكس التمثيل حالة المتعلّم الحقيقية بأمانة لا السلوك الافتراضي للنظام. لكن *الغرض* يختلف — فنمذجة الطلاب تُشخّص متعلّمًا حقيقيًا للتصرف معه؛ والمحاكاة تُصوّر متعلّمين للاختبار أو التدريب. ولهذا يُستخدم بحث الطلاب المحاكون بشكل متزايد لتدقيق الذكاء الاصطناعي (انظر أدناه) بينما يبقى بحث نمذجة الطلاب موجّهًا نحو [[adaptive-learning]] و[[personalized-learning]] الحيّين.
 
 والسؤال المرآوي يسير في الاتجاه الآخر. فـ[[ai-avatars-and-synthetic-instructors|الوكلاء الرمزية والمدرّبون الاصطناعيون]] يحاكون الشخص الذي يُعلّم لا الشخص الذي يتعلّم، فالطلاب المحاكون يعرّضون طريقةً للتدقيق بينما يقف المدرّبون الاصطناعيون أمام متعلّم هو المستفيد والحَكَم.
-
 
 ### الصدق ثنائي المحور: المطابقة السلوكية والاستجابة للإرشاد
 
@@ -142,65 +141,3 @@ ai_assist:
 - **«طلاب النماذج اللغوية الكبيرة بدائل مقبولة.»** **تغطي المحاكيات أسهل الطلاب، وقليل منها مُتحقَّق منه**: فقد أبلغ **اثنا عشر معلّمًا** درّسوا طلابًا من نماذج لغوية كبيرة عن **لغة شديدة التعقيد، وغياب الانفعال** وغيرهما من الانحرافات عن المتعلّمين الحقيقيين. فالبديل ينمذج الحالة القابلة للتعامل.
 - **«المتعلّم المحاكى الذي لديه فجوة معرفية يتصرف كمتعلّم لديه تلك الفجوة.»** خفض كبت **16 مكوّنًا معرفيًا مستهدفًا في Mistral-7B** الدقة من نحو 0.75 عند نسبة نسيان 10% إلى أقل من 0.5 عند 40%، بينما صمد النموذج الأساسي. فالتدهور مُهندَس، وهو ما يجعله تلاعبًا مضبوطًا لا محاكاة.
 - **«استقرار الشخصية مسألة اختيار نموذج.»** إنه **مسألة تصميم تفاعل**: فبتقاطع **خمسة نماذج لغوية كبيرة مع ثلاثة تصاميم مطالبات وأربع شخصيات بكثافة ADHD**، تتبعت الفروق المكتوبة تصميم المطالبة لا النموذج. فاختيار نموذج أفضل لا يصلح شخصية غير مستقرة.
-
-## مفاهيم مترابطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — البحث التربوي بمساعدة الذكاء الاصطناعي
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## مقالات مترابطة
-
-
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: التخطيط الهرمي يُبقي الطلاب المحاكين على ملمحهم عبر الآفاق الطويلة (Radmehr وآخرون 2026)
-
-
-- [[rudolph-llm-simulated-counselling-clients-2026]] — العملاء المحاكون في الإرشاد يفصحون أسرع، فيتخطى المتدرّبون التوسّط التيسيري
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: من لعب الأدوار إلى نمذجة سلوك المتعلّم لمحاكاة طالب وفيّة
-- [[tutorloop-sensor-cognitive-feedback-2026]] — مدرّس بتعلّم معزز مدرَّب على محاكٍ انتقل دون اتصال إلى مهمة حقيقية جديدة (Xu & Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — هل تستطيع النماذج اللغوية الكبيرة محاكاة المتعلّمين البشريين؟ رؤى المدرّسين
-- [[llm-student-simulation-misconception-faithfulness]] — محاكاة الطلاب أم حل مسائل بالنفاق الملقائي؟
-- [[llm-educational-simulation-adhd]] — المحاكاة التعليمية القائمة على النماذج اللغوية الكبيرة واستقرار شخصية الطالب
-- [[simulating-students-java-programming-errors-llms]] — محاكاة أخطاء الطلاب في برمجة Java
-- [[adaptive-virtual-patient-psychotherapy-training]] — مرضى افتراضيون تكيفيون لتدريب العلاج النفسي
-- [[medeasy-ai-standardized-patients]] — MedEasy: مرضى معياريون بالذكاء الاصطناعي
-- [[simulating-students-diverse-cognitive-levels-2025]] — تبنّي النقص: محاكاة مستويات معرفية متنوعة
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: نموذج طالب أصيل مُلقّن دقيقًا لحوارات صناعية
-- [[educasim-cs1-instructional-practice]] — EducaSim: وكلاء توليديون يحاكون قسم CS1 لممارسة المدرّسين
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — التكامل المسؤول للذكاء الاصطناعي في بيداغوجيات الممارسة في تعليم مدرّسي الرياضيات
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: وكيل توليدي يحاكي التطور المعرفي للطلاب
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — هل يستطيع الذكاء الاصطناعي تقديم دعم مناسب لتشكيلات طلاب متنوعة؟ تقويم واسع النطاق
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — وكلاء لغويون خاصون بالمشاركين ومُلقّنون دقيقًا يعيدون إنتاج حوارات حل المسائل التعاوني (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: تدريب محاكيات طلاب قائمة على النماذج اللغوية الكبيرة
-- [[ai-web-agents-lesson-design-2025]] — وكلاء الويب بالذكاء الاصطناعي: وكيل وصْفي واحد يتفوّق على محاكاة توزيع من الطلاب للتنبؤ بالانسحاب ونقد التصميم
-- [[simulating-learner-task-selection]] — محاكاة استراتيجيات اختيار المتعلّمين للمهام وقيود النظام في تعلّم الإتقان (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — نحو قياس قابل للتوسّع للمهارات الدائمة
-- [[agent-based-educational-science-2026]] — نحو علم تربوي قائم على الوكلاء: جهاز المحاكاة كأداة بحث (Zhang, Jiang & Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: تدقيق من 28,000 سجل لأداء الرياضيات والثقة والقلق لدى الطلاب المحاكون والمساعدين الذكيين
-- [[swim-student-writing-simulation-2026]] — التلقين مقابل التلقين الدقيق المُشرف مقابل التدريب بالمكافآت لمحاكي كتابة الطالب
-- [[misconception-acquisition-dynamics-llms-2026]] — ما يجب أن يكون في بيانات التدريب قبل أن يحمل محاكٍ مفهومًا خاطئًا على الإطلاق
-- [[llm-distractor-generation-student-reasoning-2026]] — تحليل على مستوى الأثر لكيفية محاكاة النماذج للاستدلال الطلابي الخاطئ
-- [[llm-simulating-student-scientific-thinking-2026]] — ستة نماذج مقابل 8,820 فكرة علمية مدمجة في الدروس: حيث يتجاوز الاستدلال المحاكى نطاق ومفردات ويقين صغار المتعلّمين
-- [[simulated-students-tutoring-dialogues-2026]] — معيار قياسي من سبعة مقاييس لتسع أساليب محاكاة طلاب، مع تقويم بشري بثلاثة مدرّبين
-- [[simulating-novice-students-machine-unlearning-2026]] — النسيان الآلي كطريقة لوضع محاكٍ عند مستوى معرفي مبتدئ ثابت، وإعادة التعلّم عبر حوار التدريس
-- [[student-development-agent-risk-free-simulation-2025]] — التنبؤ بنتائج تنمية الطلاب ما بعد المقرر على منصة متعددة الوكلاء دون تعريضهم للتدخل
-- [[preservice-teachers-noticing-ai-simulations-2026]] — ثلاثة أسابيع من حضور مدرّسي ما قبل الخدمة وتفسيرهم وتشكيلهم في محاكاة روبوت محادثة لعلامة التساوي، وكيف يقود التصميم ما يلاحظونه
-- [[llm-goal-selection-self-directed-learning-2026]] — اختيار الأهداف لدى النماذج اللغوية يختلف عن البشر في مهمة تعلّم ذاتي التوجيه
-- [[beagle-grounded-learner-emulation-2026]] — مُحاكٍ عصبي رمزي يفرض بنية التعلّم التنظيم الذاتي معماريًا لا بالتلقين، ويجتاز اختبار تورينغ بشري

@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -40,9 +41,3 @@ Factori de decizie și echipe de achiziții care aleg modele pentru sisteme naț
 ## Note și precauții
 
 Un clasament măsoară modelele pe sarcinile proprii ale benchmark-ului: un scor mare de pedagogie este o dovadă despre acei itemi, nu despre o clasă de elevi. Coloana de preț combină prețurile tokenilor de intrare și de ieșire într-un raport de 3:1, ceea ce este o alegere de modelare, nu costul unei implementări concrete. Acoperirea limbilor și a modelelor găzduite local se schimbă pe măsură ce apar modele noi, iar scorurile scăzute ale modelelor mici reflectă parțial formatul sarcinilor la fel de mult ca capacitățile. Încadrarea Fab AI este explicit despre țările cu venituri mici și medii, astfel încât setul de itemi al benchmark-ului reflectă acel context și nu trebuie citit ca un clasament general al educației. Verificați datele de lansare: mai multe intrări preced generația actuală de modele.
-
-## Concepte conexe
-
-- [[benchmark]] — clasa mai largă de instrumente din care face parte
-- [[digital-divide]] — constrângerea pe care coloanele de preț și ponderi deschise există pentru a o face vizibilă
-- [[equity-in-ai-education]] — întrebarea de politică publică pe care o informează clasamentul

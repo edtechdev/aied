@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -77,54 +79,3 @@ Računalno mišljenje zajednički je kognitivni temelj ispod [[ai-literacy|pisme
 - **„UI pomoć izjednačava uvjete u slabo opremljenim sredinama.“** Može, pod određenim uvjetima. **Kvazieksperiment od 14 tjedana sa 103 studenta prve godine u Nigeriji** pokazao je da je UI-potpomognuto učenje utemeljeno na problemima (ChatGPT i Teachable Machine) dalo dobitke, a UI kao „sposobniji vršnjak“ nosi RM tamo gdje druge usluge izostaju. No to je nalaz o strukturiranoj intervenciji, a ne svojstvo davanja [[conversational-ai|chatbota]] studentima.
 - **„LLM-ovi ne mogu pouzdano procijeniti RM.“** [[llm-computational-thinking-physics-2026|Istraživanje procjene RM-a u fizici]] pronašlo je da LLM-ovi mogu **oponašati ljudske ocjenjivače** u bodovanju rasta u praksama podataka i praksama računalnog rješavanja problema na velikim kolegijima. Prepreka skaliranju procjene RM-a bila je kapacitet ocjenjivača, a to ograničenje slabi — što dizajnerski problem pomiče na pitanje mjeri li instrument RM ili poslušnost.
 - **„RM je programerska vještina koju robotika slučajno poučava.“** **[[meta-analysis-systematic-review|Sustavni pregled]] 95 studija** potvrđuje da robotika potiče RM, kreativnost i rješavanje problema, ali i da **kontekst moderira ishod**: [[game-based-learning|igrom zasnovana]] provedba odgovara neformalnim okruženjima, dok se gamifikacija u formalnim razlikuje. RM je skup praksi koje se prenose neujednačeno, pa tvrdnja o prijenosu treba dizajn zadatka koji je doista korišten.
-
-## Povezani koncepti
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Povezani članci
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Test računalnog mišljenja u UI obuci (CTAT)
-- [[computational-thinking-aica-2026]] — Razine računalnog mišljenja i UI asistenti za programiranje (2026.)
-- [[ai-writes-code-student-writes-model-2026]] — Autorstvo modela: teorija i mjerenje učenja izgradnjom s genAI-om
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: konstrukcionistički okvir za izgradnju artefakata
-- [[astor-computational-thinking-meta-review-2026]] — Metapregled RM-a iz 128 sustavnih pregleda
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Sustavni pregled RM-a kroz robotiku u vrtiću
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: reproducibilni tijek rada za neprogramere znanstvenike pri implementaciji objavljenih UI modela

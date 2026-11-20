@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -65,7 +67,6 @@ SDT تعلیم میں AI کی [[research-methods-aied|تحقیق]] میں تیز
 
 SDT براہِ راست [[motivation|تحریک]] سے جڑا ہے بطور اپنے بنیادی عنصر، [[affective-computing|جذباتی کمپیوٹنگ]] اور [[affective-tutoring|جذباتی ٹیوٹرنگ]] سے جذبات سے آگاہ AI ڈیزائن کے لیے، اور [[student-experience|طالب علم تجربہ]] سے اِس بارے میں کہ سیکھنے والے AI ثالثی ماحول کا تجربہ کیسے کرتے ہیں۔ نظریے کا خود مختاری پر زور [[self-regulated-learning|خود ضابطگی سے سیکھنے]] سے جڑتا ہے، جبکہ اُس کا قابلیت کا پہلو [[self-efficacy-tutoring-learning]] اور [[teacher-ai-competency]] سے جڑتا ہے۔ SDT خاص طور پر [[professional-training]] اور [[educational-development]] سے متعلق ہے، کیونکہ ضرورت معاون ڈیزائن اساتذہ کو AI استعمال کرنے کے لیے تیار کرنے کا ایک منتقل ہو سکنے والا اصول ہے۔
 
-
 **تین ضرورتیں پیدا کردہ AI کی تحقیق میں یکساں طور پر بروئے کار نہیں لائی گئیں۔** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna اور Jiang (2026)]] نے 39 مطالعات کو 20 سرگرمیوں کی درجہ بندی کے مطابق کوڈ کیا اور 14 سرگرمیاں موجود پائیں، جن میں قابلیت سے متعلق سات اقسام کے مقابلے میں خود مختاری کے لیے پانچ اور تعلق کے لیے دو تھیں۔ چھ سرگرمیاں ہر مطالعے سے غائب تھیں، اور زیادہ تر طالب علم سے اوزار کو پرکھنے یا چیلنج کرنے کا مطالبہ کرتی ہیں: مشکل مسائل پیدا کرنا، اوزار کے اَخراج کی پیشگی توقع کرنا، اُن اَخراج کو درجہ دینا اور اُس سے بحث کرنا۔ تعلق وہ ضرورت ہے جسے ادب سب سے کم جانچتا ہے۔
 
 ## عام غلط فہمیاں
@@ -73,37 +74,3 @@ SDT براہِ راست [[motivation|تحریک]] سے جڑا ہے بطور اپ
 - **"تحریک کی قسم تحریک کی مقدار سے کم اہم ہے۔"** ایک سال طویل مطالعے نے **تین تحریکی پروفائل — غیر مشغول، ترقی پذیر، خود تعین یافتہ — وقت کے ساتھ مستحکم** پائے، اور جن طلبہ نے **خود تعین یافتہ** پروفائل حاصل کیا اُنہوں نے **[[ai-literacy]] میں سب سے زیادہ اضافہ** دکھایا۔ تحریک کے معیار نے سیکھنے کی پیش گوئی کی، اور پروفائل محض اوپر کی طرف نہیں سرکے۔
 - **"خود مختاری کی حمایت کا مطلب ساخت ہٹا دینا ہے۔"** SDT کا طریقہ کار خود مختاری، قابلیت اور تعلق سب مل کر ہے، اور طولی ثبوت بتاتا ہے کہ اِن کی تکمیل نے فوائد کی پیش گوئی کی، محض اُن کے ساتھ ساتھ نہیں چلی۔ قابلیت کی حمایت کے بغیر خود مختاری ڈھیل ہے، اور یہ نظریے کی شرائط پوری نہیں کرتی۔
 - **"[[conversational-ai|چیٹ بوٹ]] تینوں ضرورتیں خود بخود مہیا کر سکتا ہے۔"** ایک مطالعے نے پایا کہ ChatGPT زبان سیکھنے میں خود مختاری، تعلق اور قابلیت کو سہارا دے سکتا ہے — یہ ایک امکان ہے، خاصیت نہیں۔ کوئی مخصوص تعامل اِنہیں سہارتا ہے یا نہیں، یہ ایک تجرباتی سوال ہے کہ اُسے کیسے استعمال کیا جاتا ہے۔
-
-## منسلک تصورات
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## منسلک مضامین
-- [[family-school-autonomy-support-genai-2026]] — بچوں کے پیدا کردہ AI کے ذمہ دارانہ استعمال کے لیے خاندان-اسکول خود مختاری کی حمایت
-- [[dual-ai-learning-pathways-sdt-2026]] — ہائی اسکول کا دباؤ/خود مختاری کی حمایت اور AI سیکھنے کے دوہرے راستے (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — سیکھنے کے ڈیزائن کے فیصلہ سازی میں LA اور GenAI
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — انگریزی زبان سیکھنے میں طلبہ کے ChatGPT تجربات
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — سیکھنے والے کی خصوصیات × TTS مکالمے کی شکل کے تعاملات
-- [[liang-ai-learning-motivation-sdt-2026]] — طلبہ کی AI سیکھنے کی تحریک کا SDT لیٹنٹ ٹرانزیشن تجزیہ (2,086 ثانوی طلبہ)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAI کلاس رومز میں طالب علم تحریک اور ضرورت کی تسکین (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI کا استعمال ضرورت کی تسکین سے کمزور طور پر جڑا اور اعلیٰ شمولیت کے لیے غیر ضروری ہے (He وغیرہ 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — استاد–AI تعاون سے کام کی شمولیت تک دوہرے راستے، جنہیں ڈیجیٹل قابلیت تعدیل کرتی ہے
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — اشارہ روکنے نے خود مختاری محفوظ رکھی، جواب دینے نے نہیں
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — جماعت 5–8 میں AI کی دستیابی، خود مختاری میں کمی اور تحریکی پروفائل (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 مطالعات 20 سرگرمیوں کی درجہ بندی کے مطابق کوڈ کیے گئے؛ قابلیت سب سے زیادہ، تعلق سب سے کم بروئے کار

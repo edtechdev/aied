@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -108,59 +110,3 @@ AI میں کثیرالوسیطیت سے مراد صرف متن کے بجائے �
 **"کثیرالوسیط قابلیت ایک ہی سیڑھی ہے، اِس لیے مجموعی طور پر بہترین ماڈل تصویر سے بھرپور ٹاسک کے لیے بھی بہترین ہے۔"** قابلیت ٹاسک کے لحاظ سے مخصوص ہے، اور جو ماڈل عمومی [[benchmark|بینچ مارکس]] پر آگے ہو وہ قوت کے ڈایاگرام پر پیچھے رہ سکتا ہے۔ تصویر سے بھرپور شعبوں کے لیے متعلقہ امتحان وہی ہے جس میں معنی شکل میں پیوست ہو۔
 
 **"متن صرف ٹیوٹرنگ کی حدود محض ایک جھنجھلاہٹ ہیں، [[curriculum-design|نصابی]] مسئلہ نہیں۔"** اُن شعبوں میں جہاں ڈایاگرام ہی مسئلہ ہے — طبیعیات، کیمیا، جیومیٹری، انجینئرنگ، طب — متن صرف ٹیوٹر کی قابلیت کی حد جانچے جانے والے مواد کے کناروں پر نہیں بلکہ اُس کے پار پڑتی ہے۔
-
-## منسلک تصورات
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیاں اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
-- [[virtual-and-augmented-reality]] — اشارہ، آواز اور مقامی اِن پُٹ بطور سیکھنے کے ذرائع
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-## منسلک مضامین
-- [[elkington-human-centred-assessment-value-2026]] — انسان مرکز جانچ، مجموعے اور تخلیقی قیدیں (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — AI اخلاقیات پر ویڈیو PSA کی تشکیل بطور تنقیدی AI خواندگی تدریس (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — حقیقی وقت میں طلبہ کی توجہ کے اندازے کے لیے انصاف سے آگاہ کثیرالوسیط ٹرانسفارمر ماڈلنگ
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — ہاتھ سے لکھے طلبہ کے ریاضی کے کام پر VLM کی کارکردگی (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — جنریٹیو AI کے ساتھ کثیرالوسیط سیکھنے کے لیے ماہر تعلیم کی رہنما کتاب (MMLD-AI ماڈل)
-- [[syal-multimodal-dialogue-stem-2026]] — STEM میں کثیرالوسیط مداخلت کا اثر اور ساختیافتہ مکالمے سے بحالی
-- [[multimodal-ai-feedback-learning]] — کثیرالوسیط AI فیڈبیک سیکھنے میں ماہرین تعلیم کے برابر، ادراک میں اُن سے آگے
-- [[multimodal-prompting-ai-literacy]] — AI خواندگی میں طلبہ کی کثیرالوسیط پرامپٹنگ بطور علمی کام
-- [[multimodal-item-parameter-estimation-2026]] — کثیرالوسیط LLMs سے IRT آئٹم پیرامیٹرز کا اندازہ
-- [[ai-guided-learning-audiovideo-2026]] — AI کی رہنمائی والی آڈیو-ویڈیو سیکھنے کی معاونت
-- [[multimodal-knowledge-graph-educational-reasoning]] — تعلیمی استدلال کے لیے کثیرالوسیط علمی گراف
-- [[mllm-scientific-visualization-literacy]] — سائنسی بصریات کے لیے کثیرالوسیط LLM خواندگی
-- [[multimodal-affective-its-presentation]] — جذباتی ذہین ٹیوٹرنگ میں کثیرالوسیط اشارے
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — جذباتی کثیرالوسیط ریاضی ٹیوٹرنگ
-- [[llm-cognitive-diagnosis-handwritten-math]] — ہاتھ سے لکھی ریاضی کی LLM علمی تشخیص
-- [[nuclear-diffusion-text-to-image-learning-2026]] — جوہری انجینئرنگ تعلیم میں متن سے تصویر تک سیکھنا
-- [[privacy-aware-classroom-incident-recognition-2026]] — رازداری سے آگاہ کثیرالوسیط کلاس روم کی نگرانی
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — سائبر سکیورٹی تعلیم میں کثیرالوسیط OCR تدریس
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: سلائیڈ جانچ کے لیے کثیرالوسیط LLMs کا بینچ مارکنگ
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی طبیعیات کی جانچوں کی AI درجہ بندی (اولمپیاڈ)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — ابتدائی تحریر میں کثیرالوسیط AI تشکیل اور تنقیدی سوچ (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — تخلیق اور درستگی سے آگے: جیومیٹری کے مسئلے حل کرنے کے لیے بصری سوچ کی زنجیر کی تشخیص اور بہتری
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174 فن پاروں پر 12 کام دکھاتے ہیں کہ VLM قابلیت جہت کے لحاظ سے مخصوص پروفائل ہے، جذباتی تفسیر اور نقطۂ نظر پر منحصر مقامی استدلال میں سب سے کمزور (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — تجرباتی طبیعیات کی لیبارٹری رپورٹس کی AI کی مدد والی جانچ: امکانات، حدود، اور تدریسی مشق کی معاونت
-- [[kim-ai-embodied-learning-review-2026]] — جسمانی سیکھنے میں AI زیادہ تر مشاہدہ کرتا ہے: کوڈ شدہ کردار کے ٹیگز میں 62.5% حسی کردار، اور کسی جائزہ شدہ نظام نے سیکھنے والوں کے استعمال کے دوران کثیرالوسیط رواں دھارے یکجا نہیں کیے (Kim & Han 2026)

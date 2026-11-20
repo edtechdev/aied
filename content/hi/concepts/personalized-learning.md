@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -148,44 +150,3 @@ GRADE निश्चितता को बहुत निम्न आँक�
 
 - जिन संरचनाओं को आप मापते हैं, उनमें व्यक्तिगतकरण को अनुकूलन के साथ मिलाना बंद करें, और स्पष्ट कहें कि प्रभाव किस तंत्र से उत्पन्न हुआ।
 - सामान्यीकृत सीखने के लाभ को प्राथमिक परिणाम के रूप में रिपोर्ट करें; साहित्य में इसकी दुर्लभता एक ऐसा अंतराल है जिसे भरा जाना चाहिए, न कि विरासत में मिली परंपरा।
-
-## संबंधित अवधारणाएँ
-
-- [[adaptive-learning]] — अनुकूली सिस्टम जो रीयल-टाइम में सामग्री, गति और कठिनाई को शिक्षार्थी के अनुसार ढालते हैं
-- [[intelligent-tutoring]] — ट्यूटरिंग सिस्टम जो शिक्षार्थी को मॉडल करते हैं और वैयक्तिकृत निर्देश देते हैं
-- [[student-modeling]] — उन शिक्षार्थी ज्ञान, कौशल और अवस्थाओं का प्रतिनिधित्व जो अनुकूलन को संचालित करती हैं
-- [[knowledge-tracing]] — समय के साथ प्रदर्शन से ज्ञान-घटकों की महारत का अनुमान लगाना
-- [[cognitive-diagnosis]] — प्रतिक्रियाओं से शिक्षार्थी के लैटेंट ज्ञान और विशेषताओं का निदान
-- [[scaffolding]] — व्यक्तिगत शिक्षार्थी आवश्यकताओं के अनुसार अंशत: समर्थन और फ़ीकापन
-- [[student-experience]] — व्यक्तिगतकरण का शिक्षार्थी का जीवित अनुभव
-- [[learning-analytics]] — सीखने का डेटा-संचालित मापन जो अनुकूलन को सूचित करता है
-- [[formative-assessment]] — निरंतर मूल्यांकन जो संकेत देता है कि आगे क्या अनुकूलित करना है
-- [[summative-assessment]] — अंत-बिंदु मूल्यांकन जिसकी तुलनात्मकता को व्यक्तिगतकरण जटिल बनाता है
-- [[generative-ai]] — LLM-आधारित संवादात्मक व्यक्तिगतकरण
-- [[edtech-platform]] — मंच जो पैमाने पर व्यक्तिगत शिक्षा देते हैं
-- [[higher-ed]] — व्यक्तिगतकरण के लिए उच्च-शिक्षा संदर्भ
-- [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और शिक्षा
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[bespoke-industry-personalized-lecture-videos-2026]] — बीज प्रतिलेख से उद्योग-व्यक्तिगत व्याख्यान वीडियो का पुनर्निर्माण: दर्शक-स्तर अनुकूलन, डोमेन विशेषज्ञों द्वारा मूल्यांकित (Puech एवं सहयोगी 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — एक AI शिक्षण सहायक का संकेत-अभिकल्प सूक्ष्म-व्यक्तिगतकरण (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ट्यूटरिंग एक एकरूप संरचना नहीं है: हम वास्तव में क्या जानते हैं (Stanford SCALE/NSSA संक्षिप्त)
-- [[mishra-control-vs-agency-history-2025]] — व्यक्तिगतकरण के दो रूपों में अंतर (एक समान बनाम विविध परिणाम)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — व्यक्तिगत शिक्षा का पुनर्निर्धारण: व्यवस्थित समीक्षा
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — ट्यूटरिंग के लिए एजेंट-मूल व्यक्तिगतकरण आधार
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — व्यक्तिगत ई-लर्निंग के लिए ऑन्टोलॉजी-आधारित स्तरित संकर ज्ञान मॉडल
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — प्राथमिक भिन्नों के लिए व्यक्तिगत अनुकूली शिक्षा
-- [[ai-coaching-rl-skill-development]] — कौशल विकास के लिए रिइन्फ़ोर्समेंट-लर्निंग कोचिंग
-- [[personalized-ai-generated-videos-preference-2026]] — छात्र व्यक्तिगत AI-उत्पन्न वीडियो को ग़ैर-व्यक्तिगत मानव-रिकॉर्ड वालों पर प्राथमिकता देते हैं (Tomlinson एवं सहयोगी 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — व्यक्तिगत शिक्षा मार्गों के लिए बेज़ियन संज्ञानात्मक निदान
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील डोमेन के लिए ग्राफ़-आधारित इंटेलिजेंट ट्यूटरिंग (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT-संवर्धित रूपरेखात्मक मूल्यांकन में प्रशिक्षक और AI की भूमिकाएँ
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — मार्क्ड पैडागॉजीज़: व्यक्तिगत स्वचालित प्रतिक्रिया में पूर्वाग्रह
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — व्यवस्थित समीक्षा: अनुकूली मार्ग और सिफ़ारिशकर्ता उच्च शिक्षा में शीर्ष AI एकीकरण उपयोग-केस हैं
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — त्रुटिपूर्ण लेकिन यादगार: कंप्यूटिंग शिक्षा में रुचि-व्यक्तिगत GenAI उपमाओं पर छात्रों की आलोचनात्मक प्रतिक्रिया
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — व्यक्तिगतकरण विरोधाभास: अनुभूत अनुकूली व्यक्तिगतकरण का संबंध शैक्षणिक भावनाओं के माध्यम से कम स्व-नियमित शिक्षा से है, जो AI साक्षरता से कम होता है (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM योजनाकार 90.9% वैधता तक पहुँचते हैं, लेकिन किसी भी मॉडल की अनुकूलता 44.7% से अधिक नहीं होती जब मार्गों को किसी निर्धारित शिक्षार्थी लक्ष्य के अनुसार व्यक्तिगत बनाया जाता है (Liu एवं सहयोगी 2026)
-
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — चार अध्ययन, एक बड़ा संयुक्त प्रभाव, और अत्यंत कम निश्चितता

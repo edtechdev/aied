@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -42,12 +43,3 @@ Waalimu wa fani yoyote wanaotaka mfano uliofanyiwa kazi wa aina yao ya zana kabl
 ## Vidokezo na tahadhari
 
 Hizi ni onyesho za kufundisha, si afua zilizopimwa: ukurasa hauripoti ushahidi wowote wa matokeo ya kujifunza kwa yoyote kati yao, na kadhaa ni miundo ya mwandishi mwenyewe badala ya matumizi huru darasani. Ubora wa muundo hufuata modeli na idadi ya marudio, hivyo mfano uliofanya kazi katika toleo moja la modeli unaweza kuteleza au kuvunjika baadaye, na zana zinazozalishwa hutaja ukweli vibaya mara nyingi vya kutosha hivi kwamba orodha ya ukaguzi ya ukurasa yenyewe ni kuthibitisha kila namba dhidi ya vyanzo ambavyo zana inataja. Galari huchanganya kazi ya Bowen na michango ya waalimu wengine na viungo vya wahusika wengine vinavyoweza kuharibika. Kusoma hakuhitaji akaunti; ukurasa ni bure, wakati warsha na ushauri wa Bowen ni wa kulipia.
-
-## Dhana zinazohusiana
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

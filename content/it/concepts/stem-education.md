@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -85,46 +87,3 @@ Un insieme concentrato di studi del 2026 pubblicati sull'*International Journal 
 - **«Il tutoraggio intelligente funziona uniformemente in tutte le STEM.»** Una revisione narrativa strutturata di **20 pubblicazioni (2020-aprile 2026)** ha trovato il vantaggio misurato più chiaro proprio nel tutoraggio **diagnostico in tempo reale**. Le evidenze sono **limitate e condizionali**, e generalizzarle a tutti gli ITS di matematica sopravvaluta ciò che è stato esaminato.
 - **«La simulazione è un pallido sostituto del lavoro pratico.»** Il gruppo della simulazione **ha superato quello pratico nella conoscenza STEM allineata al curricolo (M = 3,00 contro 2,06; t(28) = 2,23, p = .034, d = 0,82)**. La simulazione non era una soluzione di ripiego che rendeva meno del reale.
 - **«Un flusso di lavoro di letteratura assistito dall'IA fa soprattutto risparmiare tempo.»** I risultati di **20 studenti su 80 documenti** hanno mostrato **oltre il 90% di estrazione dei parametri sperimentali, circa il 65% di riduzione del tempo di revisione della letteratura e un aumento del 50% nella capacità degli studenti di identificare i lavori influenti**. Il guadagno di capacità era il risultato maggiore e il risparmio di tempo quello minore.
-
-## Concetti collegati
-- [[learner-identity]] — identità di chi apprende in evoluzione: disciplinari, professionali, creative e accademiche
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Educazione chimica e IA: laboratori, valutazione formativa, limiti degli LLM, filosofia della sperimentazione
-- [[biology-education]] — Educazione biologica e IA: assistenti di laboratorio, alfabetizzazione in IA in biologia, pensiero critico, strumenti specializzati
-
-## Articoli collegati
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Pooled effect of AI-supported STEM instruction across 35 studies, with the largest gains in high school (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Gemelli digitali nelle STEM: ogni studio esaminato ha prodotto un prototipo funzionante, pochi hanno misurato l'apprendimento
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Una sessione di 45 minuti su prompting e controllo degli errori ha innalzato i punteggi post-test di fisica (*d* = 0,814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Le evidenze sugli ITS per la matematica sono limitate e condizionali

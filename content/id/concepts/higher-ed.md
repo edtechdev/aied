@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -98,66 +100,3 @@ Jalur ketiga mengeraskan tugas itu sendiri: merender prompt sebagai gambar terpe
 - **"Adopsi AI institusional sudah matang."** **Lapisan simbolik jenuh sementara lapisan struktural tipis**: **100% memiliki gugus tugas AI dan gelar master AI, tetapi hanya 12% memiliki kepemimpinan AI eksekutif** dan hanya 5% mewajibkan langkah institusional lebih lanjut. Pengumuman telah melampaui struktur sebesar satu orde magnitudo.
 - **"Prestise memprediksi kematangan AI institusional."** Institusionalisasi terbukti **independen dari prestise (korelasi peringkat r ≈ 0.04)**, dengan **variasi regional yang signifikan (ANOVA F = 5.86, p < .001)**. Reputasi bukan proksi bagi kesiapan, dan geografi memprediksi lebih banyak daripada status.
 - **"Cara AI mendistribusikan kerja epistemik seragam di semua institusi."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn dan Rehm (2026)]] mengklasifikasikan **102 studi pendidikan tinggi empiris** berdasarkan bagaimana kerja epistemik didistribusikan, dan variasinya adalah temuannya, bukan detailnya.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Tingkat tempat sebagian besar bukti urutan yang teruji dihasilkan
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[generative-ai]] — Teknologi dan model AI generatif
-- [[llm]] — Model bahasa besar
-- [[student-experience]] — Pengalaman mahasiswa dengan AI di pendidikan tinggi
-- [[educational-development]] — Pengembangan dosen dan kesiapan AI
-- [[academic-integrity]] — Integritas akademik pada populasi mahasiswa yang mampu memakai AI
-- [[ai-literacy]] — Literasi AI bagi mahasiswa dan dosen
-- [[assessment-validity]] — Validitas penilaian di era GenAI
-- [[educational-policy-ai]] — Kebijakan pendidikan tentang AI
-- [[regulation]] — Regulasi AI dalam pendidikan
-- [[remote-proctoring]] — Pengawasan ujian jarak jauh dan integritas ujian otomatis
-- [[self-directed-learning]] — Pembelajaran mandiri dengan AI
-- [[problem-based-learning]] — Pembelajaran berbasis masalah dengan AI
-- [[teacher-role]] — Peran guru yang terus berkembang di kelas AI
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — pendampingan akademik, penjangkauan, rujukan, dan alokasi dukungan — sisi institusional keberhasilan mahasiswa
-
-## Artikel terkait
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): AI Institutionalization Index di 100 universitas berperingkat teratas; wacana melampaui struktur, adopsi independen dari prestise
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Kerangka Kesiapan Dosen EPIQ-AI
-- [[ai-in-the-wild-college]] — AI in the Wild: Penggunaan AI oleh Mahasiswa
-- [[institutional-change-framework-ai]] — Perubahan Institusional di Era AI
-- [[genai-availability-grades-satisfaction]] — Ketersediaan GenAI dan Kepuasan Mahasiswa
-- [[ai-assessment-scale-reform]] — Skala Penilaian AI dan Reformasi
-- [[universities-ai-era-rethinking]] — Memikirkan Ulang Universitas di Era AI
-- [[teacher-ai-adoption-confidence]] — Adopsi AI di Kalangan Guru
-- [[enright-staff-perspectives-genai-2026]] — Perspektif staf tentang GenAI di pendidikan tinggi
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Pendorong organisasi adopsi AI di pendidikan tinggi
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — AI dalam umpan balik mahasiswa: etika
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui deteksi: mendesain ulang penilaian autentik di dunia yang dimediasi AI
-- [[genai-student-experiences-uk-he-survey-2026]] — Pengalaman GenAI di kalangan mahasiswa pendidikan tinggi Inggris (survei)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instruktur vs. pemberi kerja tentang keterampilan AI bagi lulusan perguruan tinggi
-- [[generative-ai-reduced-study-time-math]] — Penurunan waktu belajar 26.9% di kalangan mahasiswa
-- [[ai-uk-higher-education-policy-2026]] — Kebijakan AI pendidikan tinggi Inggris
-- [[ai-tools-academic-work-cheating-2026]] — Alat AI, kerja akademik, dan kecurangan
-- [[assessing-quality-ai-generated-exams-field-2025]] — Menilai kualitas ujian yang dihasilkan AI: studi lapangan berskala besar
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mempertimbangkan ulang ujian lisan sebagai penilaian autentik yang tahan AI
-- [[roe-assessment-twins-2026]] — Kembaran penilaian untuk memperkuat validitas penilaian di era GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Persepsi Mahasiswa tentang Alat Kecerdasan Buatan untuk Produktivitas Belajar dan Pembelajaran: Studi Survei Eksploratif
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — studi fenomenografis tentang konsepsi dosen universitas mengenai AI
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformasi digital universitas seni liberal menuju model intensif riset di era GenAI (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tinjauan sistematis yang memetakan integrasi AI di pendidikan tinggi melalui kerangka FACETS + SAMR (AlSheikh dkk. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Pengalaman dan persepsi dosen universitas tentang GAI: kerentanan, memikirkan ulang penilaian, pembelajaran mahasiswa dalam risiko (Farazouli dkk. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Penggunaan GenAI oleh peneliti pascasarjana dalam alur kerja penelitian dan pedoman berorientasi literasi AI (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — Intensitas keterlibatan sebagai sinyal pemodelan pembelajar untuk pengajaran etika AI yang adaptif (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — Penulisan berbantuan AI menggeser tim peneliti ke arah kolaborasi yang lebih kecil, lebih condong junior, dan berkutip tinggi (Wang dkk. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Bentuk Assistant dan Enabler mendominasi penelitian GenAI pendidikan tinggi; tipe keterjalinan marginal tetap langka karena alasan institusional, bukan teknis (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Peta sisi mahasiswa atas penerapan AI di seluruh penerimaan, bantuan keuangan, layanan mahasiswa, dan penyampaian pendidikan, dengan saringan pengadaan empat pertanyaan (Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — Tugas bergambar terperturbasi menaikkan kegagalan penyelesaian LLM dari 7.4% menjadi 55.6%: desain konten sebagai jalur integritas
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Kacamata AI dan alat bantu dengar mengalahkan larangan ujian di ruang ujian: transparansi ganda tanpa isyarat pandangan atau postur
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Taksonomi domain fungsional aplikasi AI pendidikan tinggi, 58.4% di antaranya berada di luar kategori 2019
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Tulis panduan spesifik metode, bukan satu kebijakan AI kampus
-- [[ai-literacy-determinants-university-students-2026]] — Sumber daya yang dipersepsikan dan dukungan guru menjelaskan 29% varian literasi AI; demografi tidak
-- [[faculty-ai-well-being-social-supports-2026]] — Danai literasi AI, bukan hanya keyakinan alat, bagi dosen

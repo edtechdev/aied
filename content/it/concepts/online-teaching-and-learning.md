@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -58,7 +60,6 @@ La didattica e l'apprendimento online assumono diverse forme correlate che condi
 - **Formazione a distanza.** Programmi progettati per discenti che studiano da remoto, spesso su larga scala e tra regioni (ad esempio gli oltre 200.000 studenti della Open University). L'apprendimento a distanza è dove il supporto dell'IA contestuale e attivo 24/7 e l'impossibilità della sorveglianza in presenza sono più salienti. Le evidenze comparative dalla preparazione degli insegnanti in Sudafrica mostrano che il mezzo stesso è associato alla preparazione. [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] hanno riportato un divario nel TPACK [[self-report-measures|auto-riportato]] per l'insegnamento delle [[science-education|scienze]] integrato con l'IA del 64,0% contro il 47,4% tra i tirocinanti dell'ultimo anno in programmi con sede fisica e a distanza, con la Conoscenza Pedagogica più debole in entrambe le istituzioni. Lo schema avverte che i programmi a distanza non possono assumere che lo stesso addestramento sull'IA produca la stessa preparazione, e che è la progettazione dell'addestramento, non la sua presenza, a differire.
 
 In due campus coiscritti a un unico corso asincrono non si è prodotta alcuna interazione tra campus per almeno uno di 19 studenti, quindi la coiscrizione è un fatto di programmazione anziché una progettazione che crea il contesto tra pari che un corso online presuppone ([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
-
 
 ## Opportunità e benefici dell'IA per la didattica e l'apprendimento online
 
@@ -145,62 +146,3 @@ Qualunque combinazione un docente scelga, un vincolo dovrebbe modellarla. Lo stu
 **«L'IA alza la performance, quindi alza l'apprendimento.»** Nei contesti online la divergenza è la stessa delle aule: un [[rct]] ha trovato che l'assistenza non sorvegliata dell'IA alzava la performance nella pratica ma *abbassava* i punteggi all'esame senza assistenza, mentre un tutor «suggerimento e non risposta» rimuoveva il danno. I corsi online si affidano maggiormente alla valutazione asincrona, quindi il divario tra performance assistita e non assistita è dove si vince o si perde la validità.
 
 **«La validità della valutazione è una questione di politica dei voti.»** È una questione di progettazione creata dal mezzo: quando una consegna può essere prodotta senza che chi apprende sia presente, la validità dipende dal fatto che il compito produca evidenze che è stato lui a svolgere il lavoro. Riprogettare il compito lo affronta; inasprire la sanzione per la condotta scorretta no.
-
-## Concetti collegati
-- [[pedagogical-patterns]] — Il contesto che rende portante il sequenziamento, poiché il sistema non può vedere un tentativo
-- [[assessment-validity]] — validità dell'inferenza dal lavoro consegnato all'apprendimento
-- [[agentic-ai]] — sistemi autonomi che operano strumenti e piattaforme, inclusi un LMS
-- [[community-of-inquiry]] — Community of Inquiry
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## Articoli collegati
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Autonomous agents completed unproctored LMS assessments end to end: an assessment-validity problem (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — Assessment twins: pairing a GenAI-vulnerable task with a closely scheduled, less vulnerable one on the same outcomes
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity as validity evidence, and the AI Viva as scalable verification
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: time-limited unrevised recordings graded against embedded rubrics
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap: placement of AI rather than permission or prohibition
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion: correct work submitted without understanding
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Which self-regulated strategies coincide with low digital distraction (530 students)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL as stable aptitude and fluctuating state; metacognition and well-being declining across a term
-- [[genai-marketing-education-roles-2026]] — AI as tutor, teammate and tool: roles and their effects on presence
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: assessment design for online settings
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
-- [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
-- [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — La progettazione dei ruoli è l'intervento, non lo strumento
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Corsi universitari asincroni di sei settimane per insegnanti in servizio: riprogettare il formato anziché comprimerlo
-
-- [[aggarwal-genai-cybersecurity-2026]] — 19 students across two campuses: co-enrollment produced no cross-campus interaction for some (Aggarwal 2026)
-

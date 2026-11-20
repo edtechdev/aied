@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,12 +48,3 @@ Studenți care lucrează la o lectură sau o fișă de probleme și vor să fie 
 ## Note și precauții
 
 Nu este publicat niciun preț sau cont pentru instrumentul destinat studenților, în timp ce implementarea instituțională — cloud, on-premises sau hibrid — este oferită printr-o propunere personalizată și o întâlnire; tratează „gratuit” ca starea demonstrației publice din noiembrie 2026, nu ca o garanție. Textul și imaginile ajung la un serviciu găzduit alimentat de Claude, iar site-ul le spune utilizatorilor să elimine numele, sumele, adresele și numele companiilor înainte de încărcare, ceea ce mută sarcina de anonimizare asupra persoanei care încarcă, nu asupra platformei. Sesiunile se șterg automat după o oră dacă nu sunt exportate. Compania din spate comercializează de asemenea o platformă mai largă de evaluare prin grafuri de raționament pentru instituții, iar afirmațiile sale despre distingerea grafului deductiv, inductiv, abductiv și analogic provin din patru texte de referință — site-ul numește asta o demonstrație, cu validarea la scară încă în viitor.
-
-## Concepte conexe
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

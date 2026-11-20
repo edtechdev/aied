@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -67,22 +69,3 @@ ai_assist:
 - **Зберігайте шлях людського ескалування в будь-якій послузі ШІ.** Докази підтримують ШІ для пошуку фактів і чернеткування та людський персонал для судження про джерела; дизайни, що стирають друге, щоб масштабувати перше, усувають те, чого відвідувачі не можуть отримати деінде.
 - **Збирайте дані про пошуковий зсув, а не опитуйте його.** Журнали видач і логи пошуку вже існують; бібліотека, яка поєднає їх із даними про навчання, знатиме про ефект ШІ більше, ніж може показати одноразове опитування студентів.
 - **Не видавайте грамотність зі ШІ за інформаційну грамотність.** Вони поділяють персонал і рамки, але відрізняються тим, що оцінюється; змішування їх дає програму, яка не вимірює ні того, ні того.
-
-## Пов’язані поняття
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Пов’язані статті
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Упровадження штучного інтелекту в академічних бібліотеках: систематичний огляд поточних практик, викликів і дослідницьких можливостей
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Картування інтеграції грамотності зі ШІ в навчання інформаційної грамотності в академічних бібліотеках
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Як штучний інтелект переформатовує інформаційну грамотність в академічних бібліотеках
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Штучний інтелект (ШІ) і пошук інформації: порівняльне дослідження ШІ-чатботів, пошукових систем і бібліотечних ресурсів як джерел інформації серед студентів університетів
-- [[huang-genai-academic-information-resources-2026]] — Генеративний штучний інтелект переформатовує стале використання академічних інформаційних ресурсів студентами університетів
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Залучення студентів академічними бібліотекарями для просування інформаційної грамотності та навчання про ШІ в нігерійських закладах вищої освіти

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -84,9 +86,7 @@ Mapitio ya muundo ya 2026 na [[meta-analysis-systematic-review|meta-analysis]] y
 
 Mapitio ya kimfumo ya awamu mbili yanaweka kiwango cha mtengano huo katika kiwango cha hitimisho: kati ya jozi 51 za muundo mmoja kutoka ripoti 47, 30 zilikubaliana, 11 hazikukubaliana na 10 zilichanganyika. Kutokubaliana kulienea pande zote mbili: tofauti tano ziliunganisha matokeo batili ya kujitangaza na matokeo chanya ya utendaji, dhidi ya mbili kinyume chake ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
-
 Maktaba moja ya chuo kikuu iliweka mito yote mawili dhidi ya madai yale yale na kukuta yanaelekea kando. Mikopo ya machapisho ya mwaka ilishuka kutoka 406,120 mwaka 2017 hadi 46,339 mwaka 2025 na wakopaji wa kipekee kutoka 30,033 hadi 7,278, lakini kushuka kulianza kabla ya kipindi cha GenAI, na kizingiti cha Januari 2023 hakikuonyesha mabadiliko ya kiwango au mteremko. Utafiti uliweka uzito wa maelezo kwenye miundo: mahitaji ya kusoma kwa kina yalitabiri nia ya kuendelea na machapisho kwa H1 β = 0.908, wakati njia iliyodhaniwa ya uingizwaji ilikuwa karibu sifuri (H4 β = 0.038, *p* = 0.631), na sifa za AI za jukwaa zilikuwa 0.53% ya shughuli katika nusu ya kwanza ya 2026. Wajibu hawakuweza kuunganishwa na kumbukumbu za mikopo chini ya kanuni za utawala wa data, hivyo mtengano unaweza kusomwa tu katika ngazi ya idadi ya watu, si mtu kwa mtu ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
-
 
 Fasihi ya vyombo yenyewe inaweza kusomwa kama ushahidi wa kiwango cha pengo hilo. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore na Maat (2026)]] walitathmini vyombo 33 vya ujuzi wa AI vya walimu na walipata kuwa 31 (93.9%) vilikuwa skela za kujitangaza za ujasiri unaohisiwa, viwili tu (6.1%) vilipima maarifa kwa njia ya lengo, na hakuna kilichotumia kazi zinazotegemea utendaji kati ya 2019 na 2025. Hitimisho lao ni lile ambalo ukurasa huu unafikia kutoka mwelekeo mingine: alama za kujitangaza zinaonyesha ujasiri badala ya uwezo, hivyo haziwezi kuchukua nafasi ya uwezo wakati vikundi au mipango inalinganishwa.
 
@@ -94,9 +94,7 @@ Vipimo vya matokeo hurithi pengo lile lile. [[pramod-agentic-ai-motivational-pat
 
 Nia ndiyo kisa chenye ukali zaidi wa pengo hilo, kwa sababu alama moja ya nia inaweza kufunika tabia zinazopingana. Kwa kuwasimamia tena vipengele kwa wanafunzi 68 kati ya 340 na kuwahoji wanane, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi na Lu (2026)]] waligundua nia ile ile iliyotamkwa ikifunika matumizi yanayoelekea kujifunza, yanayoelekea njia za mkato na mchanganyiko, huku watumiaji wa njia za mkato wakitaja kujiamini kwa chini badala ya kutopenda.
 
-
 - **"Wanafunzi huripoti walichofanya."** Alama ilipingana na utafiti kwa mwelekeo wenye manufaa. Katika somo la insha ambapo **15 kati ya 77 (19.5%)** waliwasilisha insha zisizo na maneno yaliyoandikwa, umiliki unaohisiwa ulishuka tu katika kundi hilo lililokabidhi kikamilifu, wakati waandishi waliotumia mfano kwa kupanga au kupitia waliripoti umiliki katika kiwango cha wanafunzi ambao hawakufungua zana kamwe. Kujitangaza kwa hivyo kulitofautisha miisho na kubatilisha kila kitu kati yao, ambayo ni kile kipimo cha mtazamo kinaweza kufanya na kisichoweza. [[jelson-students-chatgpt-essay-writing-2026|Pengo la mtazamo–tabia, lililopimwa kwa mibonyezo]].
-
 
 ## Kuridhika na kujifunza kunachohisiwa kama matokeo
 
@@ -109,9 +107,7 @@ Kuridhika ni matokeo yanayoripotiwa na mwenyewe mara nyingi zaidi katika mkusany
 
 Mtindo unaostahili kubebwa: kuridhika kinajibu vitu visivyo sahihi wakati kujifunza ni lengo. Mfumo unaojibu haraka, unaokubali kwa urahisi, na kupunguza jitihaji utapimwa juu, na sifa hizo hizo ni zile ambazo hifadhi ya maarifa inazihusisha na [[desirable-difficulties|mapambano ya kuunda]] yaliyopungua na utendaji uliopindukwa kwenye kazi zinazosaidiwa na AI. Kuridhika kilichoripotiwa na kujifunza kilichopimwa si maadui; ni mbadala tu, na kutendea kile cha kwanza kama ushahidi wa cha pili ni kutangatanga kwa kawaida zaidi ambako ukurasa huu unarekodi.
 
-
 **Vipimo vya mtazamo vinazidi vipimo vya ujuzi katika fasihi ya uchunguzi wa AI ya kizalishaji.** Katika mapitio ya masudio 66, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] waligundua mitazamo ya watumiaji kuwa kikoa cha matokeo kilichoripotiwa zaidi (masudio 32, 48.5%), kikifuatiwa na matokeo ya kihisia kwa 25, wakati masudio 8 tu (12.1%) yalipima ujuzi wa uchunguzi na 4 kati yao yalikuwa na hali ya kulinganisha. Waandishi hawakukadiria uhakika wowote wa ushahidi, hivyo hesabu za mtazamo zinaeleza kile kilichoulizwa badala ya kile kilichofikiwa.
-
 
 ## Kile kinachofanya chombo cha kujitangaza kuwa cha kuaminika
 
@@ -122,9 +118,7 @@ Sifa nne zinatenga utafiti unaoweza kuunga mkono dai na ule ambao hauwezi.
 - **Kutokuwa na mabadiliko, wakati vikundi vinavyolinganishwa.** Skela inayojitenda kwa namna tofauti katika idadi haziwezi kuunga mkono kulinganisha. [[same-ai-different-pathways|Kazi ya SEM ya vikundi vingi]] inaripoti kupima kutokuwa na mabadiliko (ya usanifu, ya kimetriki, ya skela) pamoja na athari zake za moja kwa moja, na [[genai-thoughtless-use-self-directed-learning-2026|kulinganisha kwa Uswisi–Uchina]] kulipata thamani ya ndani pekee ilifikia kutokuwa na mabadiliko kwa kimetriki na si kwa skela — kikomo kilichotamkwa badala ya kufichwa, na kimoja kinachozima kile ambacho tofauti zake za nchi zinaweza kumaanisha.
 - **Mbadala wa utendaji pale uwezo ni muundo.** Vipengele 20 vya chaguo nyingi vya GLAT vipo hasa kwa sababu kujitangaza haiwezi kubeba dai la uwezo.
 
-
 **Vyombo vingi katika nafasi hii huripoti uaminifu na karibu hakuna huripoti uhalali.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] wanataja mapitio ya Su et al. ya masudio 36 ya ujuzi wa AI, yaliyogundua 63.8% ya zana zikiripoti ushahidi wa uaminifu na chini ya 20% zikiripoti ushahidi wa uhalali. Mapitio yale yale yaligundua chombo kimoja tu mahususi kwa AI ya kizalishaji, GAIAS ya vipengele 27, kati ya mifumo 50 ya [[k-12]]. Skela kuwa thabiti ndani yake haisemi chochote kuhusu iwapo inapima muundo unaotajwa katika kichwa chake.
-
 
 ## Sampuli, majibu, na kutojibu
 
@@ -166,56 +160,3 @@ Majibu ya kujenga ya hifadhi ya maarifa ni thabiti, na hakuna kati yao inahitaji
 - **"Ushahidi wa tafiti ni hafifu lakini takriban hauna upendeleo."** Muundo wa majibu huweka mipaka ya kadirio kabla ya upendeleo: utafiti hupata **majibu 112 kwa kiwango cha majibu cha 31%**, au **majibu 90 kutoka kwa mialiko 572**. Bwawa la wanaojibu ni sehemu iliyojichagua yenyewe, kwa hivyo takwimu inaelezea sehemu hiyo.
 - **"Tafiti ni mbinu ya wachache katika uwanja huu."** Mapitio ya upeo ya **masudio 394 ya GenAI katika elimu ya juu** yaligundua **vipimo vya utafiti ndiyo mbinu ya tathmini iliyoripotiwa mara nyingi zaidi (masudio 269, 68.3%)**, mbele ya mitihani na majaribio ya maswali. Ushahidi tawala wa uwanja ni wa kujitangaza.
 - **"Kujitangaza na dhana zilizopimwa hukubaliana."** **Mzigo wa kiakili uliojitangazwa haukutofautiana kwa kiasi kikubwa kote ya wasifu wa kupunguza mzigo ulioanzia 80% hadi 2% katika uandishi wa insha**, wakati wale waliokabidhi zaidi walitofautiana kwa kiasi kinachoweza kupimwa. Kipimo cha hisia kilikuwa tambarare pale tabia ilitofautiana kwa kipimo cha arobaini.
-
-## Dhana Zilizounganishwa
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Makala Zilizounganishwa
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Alama moja ya nia, matumizi mawili yanayopingana
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Hali ya usimamizi ambayo chombo cha kujitangaza hutumia hubadilisha kile kinachopimwa
-- [[capability-decision-model-teacher-readiness-2026]] — Vigezo vya uhalali wa ubaguzi vya kutenga uwezo wa AI unaoripotiwa na mwenyewe na imani za uwezo
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Mahusiano yanatabiri utendaji unaohisiwa badala ya ule uliopimwa katika mfano wa njia wa AI ya wakala (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Vipimo sambamba vya kujitangaza na vya lengo vya ujuzi wa AI vya mwalimu
-- [[jin-glat-genai-literacy-assessment]] — GLAT: mbadala unaotegemea utendaji wa kujitangaza
-- [[genai-student-experiences-uk-he-survey-2026]] — Matumizi ya GenAI ya wanafunzi yalivyotafitiwa katika taasisi za Uingereza
-- [[student-llm-interaction-taxonomy-review-2026]] — Taksonomia zilizoundwa na iwapo data zilitoka kwa kujitangaza au kumbukumbu
-- [[tracing-genai-literacy-interaction-patterns]] — Data ya mchakato zinazoelezea ujuzi wa GenAI
-- [[engagement-intensity-learner-modeling]] — Matumizi yanayoripotiwa na mwenyewe kama ishara ya kuunda mfano wa mwanafunzi
-- [[predicting-attrition-competitive-programming]] — Ujasiri unaoripotiwa na mwenyewe dhidi ya tabia ya mazoezi
-- [[ai-use-critical-thinking-medical-students-2026]] — Upendeleo wa mbinu ya kawaida katika mfano wa upatanishi wa chanzo kimoja
-- [[genai-motivation-engagement-2026]] — PLS-SEM ya kujitangaza pekee la motisha na mahusiano
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Utafiti wa wanafunzi 81 wa fizikia juu ya matumizi ya AI na uaminifu
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Kurekodiwa kwa skrini na kumbukumbu yaliyochochewa kama tiba ya kujitangaza
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Kujitangaza pamoja na data ya alama juu ya kujidhibiti kujifunza
-- [[adaptive-pretesting-retention]] — Viashiria vya tabia vya jitihaji vilivyotokana na kumbukumbu
-- [[ai-vocational-education-training-review]] — Mapitio yanayoripoti ukosefu wa usawa wa kujitangaza/kipimo cha lengo
-- [[student-genai-use-views-writing|Matumizi ya wanafunzi na maoni kuhusu GenAI katika uandishi]] — Utafiti wa vidokezo pamoja na mahojiano katika idara moja ya sosholojia
-- [[competent-generative-ai-use-measures-review-2026]] — Zaidi ya Ujuzi wa AI: Mapitio ya Muundo na Meta-Analysis ya Uchunguzi ya Vipimo vya Matumizi yenye Uwezo wa AI ya Kizalishaji
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: Chombo cha Kujipima Binafsi Kinacholinda Faragha kwa Kupunguza Mzigo wa Kiakili unaohusiana na AI
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Chombo cha kujipima cha vipengele 15 kwa wanafunzi wa juu wa msingi, chenye uwazi kuhusu kile ambacho uwezo unaohisiwa unaweza kuthibitisha
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Mapitio yalipata vyombo 31 kati ya 33 vya ujuzi wa AI vya walimu ni vya kujitangaza na hakuna kinachotegemea utendaji
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Wasifu unaotokana na kujitangaza hufanya vivyo hivyo
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Mapitio ya awamu mbili yanaweka kiwango cha kutokubaliana kwa muundo mmoja kati ya kujitangaza na utendaji (Fan et al. 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Umiliki unaohisiwa ulitenganisha ukabidhi wa insha nzima na kila kitu kingine, wakati alama ilitenganisha mengi zaidi (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — mitazamo iliripotiwa katika masudio 32 kati ya 66 dhidi ya 8 yaliyopima ujuzi wa uchunguzi
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63.8% ya zana za ujuzi wa AI huripoti ushahidi wa uaminifu na chini ya 20% huripoti ushahidi wa uhalali
-- [[huang-genai-academic-information-resources-2026]] — Kumbukumbu za maktaba na mitazamo ya utafiti zikielekea pande tofauti
-

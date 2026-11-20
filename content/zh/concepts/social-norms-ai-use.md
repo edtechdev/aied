@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -109,39 +111,3 @@ ai_assist:
 **“监控通过让使用可见，就能确定规范。”** 让行为可见并不能解决规范应当是什么，它改变的是人们愿意披露什么。已测量的模式已经是选择性披露，因此施加于此的监控机制测量的是隐瞒，而不是行为。
 
 **“规范是非正式的，因此在机构触及范围之外。”** 它们在本地被实施，也在本地可改变，这使它们比政策更可操作：一个课程团队的明确实践之所以是杠杆，正因为它就是实际规则被设定之处。
-
-## 关联概念
-
-- [[academic-integrity]] — 这些规范与之并行的正式规则手册
-- [[ai-use-disclosure]] — 规范最直接调节的实践
-- [[framing-ai-use-for-students]] — 一个课堂如何陈述其期望
-- [[reducing-ai-misuse]] — 规范设定的教学对应物
-- [[learner-identity]] — 当 AI 使用变得可见时，学习者被认为是谁
-- [[ai-detection]] — 大体失败的技术回应
-- [[remote-proctoring]] — 监控作为规范的替代尝试
-- [[trust]] — 规范与披露都依赖的东西
-- [[equity-in-ai-education]] — 谁承担社会代价
-- [[help-seeking]] — 羞耻最先压制的行为
-- [[group-work]] — 小组规范被协商的地方
-- [[student-experience]] — 这一切的生活化一面
-- [[anxiety-and-stress]] — 情绪残留
-- [[governance]] — 这些规范位于其下的正式层
-- [[ethics]] — 对学生最没有话可说的文献
-
-## 关联文章
-
-- [[student-perception-ai-use-collaboration]] — 学生对伙伴 AI 使用的感知准确度及其与协作表现的关系
-- [[shame-guilt-ai-regulation-computing-education]] — 羞耻与内疚作为计算机教育中 AI 使用的社会调节器
-- [[chirikov-regulate-ai-syllabi-2026]] — 教师如何在大学规制 AI：来自 31,000 份课程教学大纲的证据
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 内疚复合体：学术技术采用中的道德情绪与伦理困境
-- [[agarwal-ethical-values-norms-aied-2026]] — 识别人工智能教育中的伦理价值与规范
-- [[conijn-fear-big-brother-proctored-exams-2022]] — 对老大哥的恐惧：监考考试的潜在负面副作用
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 在监控之下：护理评估中远程监考实践的图谱
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 不完美信息下的评估设计：生成式 AI、披露与学生回应
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 检测不可检测者：生成式 AI 之后的不当行为程序
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — 作弊还是竞争？营销教育中的 AI
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 支持的小组评估中的主体性
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit 话语分析：教师—学生接触集中于检测与执法争议（Yüce 等人 2026）
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 名本科生：感知到的同伴披露与教师舒适感在道德推脱之前预测披露（Qu 与 Wang 2026）
-

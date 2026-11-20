@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -46,13 +47,3 @@ Yleiset kirjastot, jotka haluavat isännöidä kioskia (ohjelma ottaa hakemuksia
 - Osallistuvat kirjastot maksavat **\$1,000 kioskin käyttöönottoa ja vuotta kohden**; pilotti rajoittuu hakeneisiin paikkoihin.
 - Tietosuojalausunto on ohjelman oma väite, ei auditoitu havainto; kirjaston kannattaa varmistaa säilytys- ja lapsiturvallisuusehdot omasta tietojenkäsittelysopimuksestaan.
 - Tiekartan toinen ja kolmas vaihe, joiden avulla kirjastot voivat syöttää paikallisia arkistojaan järjestelmään ja hallita syntyviä järjestelmiä, ovat suunnitteilla eivätkä käytössä.
-
-## Liittyvät käsitteet
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -70,9 +72,7 @@ Il pattern progettuale dominante mantiene il pari al centro e aggiunge l'IA atto
 
 Il pattern si generalizza alla scrittura professionale. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] hanno applicato PAIRR a un corso avanzato di scrittura business in cui ciascuno dei cinque compiti principali richiedeva una bozza, un'analisi del pubblico, una revisione tra pari di 2–3 pari, e una revisione finale (hanno partecipato 34 dei 46 studenti iscritti; 69% multilingue). Gli studenti apprezzavano il feedback dell'IA ma talvolta lo trovavano troppo generale, e apprezzavano la conoscenza contestuale dei pari — "i miei pari lo guardavano dalla prospettiva del datore di lavoro… ChatGPT non lo faceva allo stesso modo." Un quarto delle riflessioni codificate nel più ampio studio PAIRR esprimeva scetticismo sul feedback dell'IA o ne notava inesattezze, cosa che gli autori leggono come sviluppo dell'alfabetizzazione sull'IA. Lo studio è descrittivo e specifico del corso.
 
-
 La stessa implementazione del 2024 ha un secondo resoconto che legge le riflessioni per come gli studenti descrivevano lo strumento anziché per come hanno valutato il feedback. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] hanno codificato le riflessioni di revisione delle 13 sezioni e dei 10 corsi, e hanno trovato che solo circa la metà degli studenti adottava i ruoli antropomorfi offerti dal prompt: tutor (28,6%) e collaboratore (23,1%). Il resto ricorreva a strumento o risorsa (9,9%), amici o pari (7,7%), robot o computer (7,7%), o a schemi propri. Gli autori leggono quella collocazione come il punto: gli studenti mettono il chatbot alla periferia di un'ecologia della scrittura il cui centro è lo studente, i pari e il docente.
-
 
 ## La GenAI come scaffolding interno al feedback tra pari e alla valutazione di gruppo
 
@@ -107,51 +107,3 @@ Le domande aperte riguardano la solidità delle evidenze, non solo la progettazi
 - **«La revisione tra pari è un sostituto più economico del feedback del docente.»** È l'[[learning-by-teaching|apprendere insegnando]] il meccanismo, e compare persino tra le macchine: il discorso simile all'apprendimento tra pari tra oltre **2,4 milioni di agenti IA** era per lo più **asserzione anziché interrogazione**. Produrre una critica è un atto diverso dal riceverla.
 
 - **Forme riflessive tra pari e di autovalutazione come registro dietro un voto di gruppo.** [[issa-teamwork-framework-academic-integrity-2024|Issa e Hall (2024)]] hanno usato un modulo riflessivo tra pari per ciascun compagno di squadra più un modulo riflessivo di autovalutazione per studente in un'unità post-laurea di Business Project Management, accanto a una riunione di 30 minuti con ogni squadra in cui ai membri veniva chiesto se il loro contributo fosse originale. I moduli non erano valutati come scambio di feedback. Erano l'evidenza per persona che consentiva al docente di difendere un voto individuale dentro una valutazione di squadra del 40%. L'aumento del voto del framework da 27/40 a 31/40 è confuso con un nuovo docente e la sua pretesa di integrità non è quantificata, quindi la parte trasferibile è la struttura di tenuta dei registri, non la dimensione dell'effetto.
-
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — PAIRR e il feedback combinato pari-più-IA: le sequenze e le loro evidenze comparative
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Articoli collegati
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Integrated AI-plus-peer feedback raised all three engagement dimensions and all four IELTS writing dimensions
-
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR in a business writing course: peer review, chatbot feedback, reflection (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. human peers for scaffolding self-regulated feedback and feedback literacy (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI as Trainer and Synthesizer in EFL peer feedback on speaking (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Multisite experiment comparing peer-only, direct, reflective, and hybrid GenAI feedback (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-scaffolded GenAI peer feedback in collaborative argumentation (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-mediated group assessment: cooperation, restraint, non-enactment (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Oral code review interviews as harm reduction for GenAI in CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Automated multimodal presentation coaching as a scalable alternative to peer feedback (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-generated discussion summaries broaden peer exposure in online forums (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and relational trust in students' GenAI disclosure (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — moduli riflessivi di autovalutazione e tra pari come evidenza per persona dietro un voto di gruppo (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Vocabolario dei ruoli da 654 studenti: tutor 28,6%, collaboratore 23,1%, strumento 9,9%, robot 7,7%
-
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)

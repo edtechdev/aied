@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -101,50 +103,3 @@ ai_assist:
 **"AI 리터러시 훈련은 역할을 넘어 일반화된다."** 대부분의 도구는 역할 특정 역량을 측정하지 않습니다. **교사 AI 리터러시 도구 33개**에 대한 [[meta-analysis-systematic-review|체계적 검토]]에서 **29개(87.9%)**가 일반 AI 개념을 겨냥한 반면, 직무가 실제로 요구하는 [[pedagogy|교수법적]] 또는 직업적 사용을 다룬 것은 **4개(12.1%)**뿐이었습니다. 일반 도구로 구축한 프로그램은 대리 지표를 측정합니다.
 
 **"시뮬레이터는 직장 훈련의 대체물이다."** 그것은 절차를 기르고 결과를 제거합니다. 이는 가치 있으며, 안전이 중요한 업무에서 결과가 곧 교육과정이기 때문에 전이될 수 없는 바로 그 부분입니다.
-
-## 연결된 개념
-
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — 몰입형 연습이 가장 성숙한 곳
-
-## 연결된 문서
-
-- [[prunuske-cognitive-windows-research-meetings-2026]] — 인공지능 시대에 연구 회의를 데이터 업데이트에서 인지 창으로 옮기기
-- [[jongkind-genai-patient-medical-communication-2026]] — 학부 의대생의 의료 커뮤니케이션 훈련을 위한 생성형 AI 환자 사용: 준실험 연구
-
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI와 공학·컴퓨팅 인력의 미래
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대의 스마트 제조를 위한 인력 준비도 수준 틀
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 교수자와 고용주로 검증된 HiBob AI 기술 틀
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지의 비극: AI와 전문성 재생
-- [[li-language-educators-genai-review-2026]] — 언어 교육자의 GenAI 실천과 개발
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — 제도적 조건이 국가 맥락이 아니라 교수 GenAI 준비도 격차를 설명함을 보여 주는 비교 설문 (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — 교사 교육자가 적응형 AI 리터러시 모형과 반성 질문지를 공동 설계하다 (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사 AI 리터러시 도구가 생성형 AI에 뒤처져, 훈련 대상을 알려 주는 검토 (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — 3시간 전문성 개발이 독일 교사의 인지된 유용성과 사용 용이성을 높였으나, 개별화에 AI를 쓰려는 의도는 높이지 못했다
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 초등 수학 교사 초기 훈련에서 AI 검토: 짧은 도구 중심 훈련은 충분하지 않다
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — 기존 AI 훈련과 사용 빈도를 터키 초등 교사의 긍정적 인식에 연결한 설문
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AI 지원 전문 준비의 구조화 메커니즘으로서의 역할 순환
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 반성적 AI 관여에서 스킬 유지형 의존을 향한 열린 질문들
-
-- [[cowhitt-deliberative-instructional-agents-2026]] — 교사 전문 학습을 위한 숙고적 교수 에이전트, AI 매개 전문성 개발의 책임 조건과 함께
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 기술 직업의 AI 실천이 그 교육 경로를 앞설 때
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 단 한 번의 GPT-4o 대화가 자기 평가 커뮤니케이션 역량을 d = 0.58만큼 높였으나 대조군은 없었다(Müller 외, 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17개 연구에 걸쳐 자신감 향상은 흔했고 공감 증거는 얇았다(Ismail & Zafira, 2026)
-- [[bodek-prompted-to-explore-microlearning-2026]] — 12주 마이크로러닝 더하기 Teams 공동체: 프로그램 후 보고된 GenAI 사용이 늘었다(Bodek 외 2026)
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 교사는 분과에 기반한 훈련을 요청했고 빈번한 사용과 리터러시를 구별했다

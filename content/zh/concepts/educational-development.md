@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -152,74 +154,3 @@ ai_assist:
 **"对 AI 使用感到内疚表明违规。"** 它追踪的是隐瞒而非披露：因不安而限制 AI 使用，与隐藏它相关，而与被禁止的行为无关。因此把内疚读作不当行为的证据，会误认其来源，而把它当作合规信号，则会把该行为推得更远离视野。
 
 **"低问卷回收率意味着教师没有强烈感受。"** 论文把 **109 份回答（3.5% 的回收率）**本身读作关于伦理辩论现状的信息：对一个关于不适的问题给出低回应，是关于那种不适的一项发现，而非其缺席。而一个纯粹被框定为技能提升的生成式 AI 整合，会错过部分教师实际在问的身份问题：在生成式 AI 的世界里，教学的意义何在。
-
-## 关联概念
-
-- [[teacher-ai-competency|教师人工智能能力]]
-- [[teacher-role|教师角色]]
-- [[ai-literacy|人工智能素养]]
-- [[metaphors-and-analogies]] — 教师发展中的隐喻引出与类比设计
-- [[educational-policy-ai|教育人工智能政策]]
-- [[higher-ed|高等教育]]
-- [[k-12]]
-- [[learning-design|学习设计]]
-- [[curriculum-design|课程设计]]
-- [[professional-training|专业培训]]
-- [[teacher-education|教师教育]]
-- [[learning-sciences|学习科学]]
-- [[educational-technology-developers|教育技术开发者]]
-- [[stakeholders]] — 总括：人工智能教育中的人群与受众（学习者、教师、设计者、管理者、政策制定者）
-
-## 关联文章
-
-- [[jordan-faculty-ai-oer-creation-2025]] — 七位教师的八周 OER 共创项目：津贴与工会协议是干预的一部分（Jordan 等人，2025）；另见 [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对生成式人工智能对齐建议的批判话语分析：开发者被重新塑造为技术培训者
-- [[crompton-faculty-technology-integration-standards-2026]] — 技术整合的教师标准（DBR）
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — 人工智能的伦理维度：教师与学生的看法
-- [[nicola-richmond-programwide-assessment-genai-2025]] — 贯穿全项目的评估改革与生成式 AI（Nicola 与 Richmond，2025）
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师的隐喻如何建构（并约束）对人工智能的理解
-- [[fear-awe-genai-metaphor-workshops-2025]] — 恐惧与敬畏：通过隐喻理解生成式人工智能（教师／职员／学生隐喻工作坊）
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 教授批判性 AI 素养的四项标准与四种隐喻
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — 治理不可见者：语言教师中的人工智能素养
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI：认知、教学、制度与质量合规四个准备度领域
-- [[teacher-ai-adoption-confidence]] — 教师 AI 采用研究：关切、支持、信心与态度是关键预测因子
-- [[institutional-change-framework-ai]] — 机构变革框架
-- [[genai-policies-higher-ed-computing]] — 高等教育计算领域的机构 AI 政策分析
-- [[ai-tpack-preservice-math-teachers]] — 基于 TPACK 的职前数学教师培训
-- [[crewscaler-ai-upskilling-framework]] — AI 技能提升框架
-- [[ai-assessment-scale-reform]] — 评估改革
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL 高等教育框架：生成式 AI 内容创作
-- [[genai-pd-ai-pck-learning-gain-2026]] — 生成式 AI 专业发展与 AI-PCK 学习增益
-- [[genai-higher-education-systematic-review-2026]] — 高等教育中生成式 AI 的系统综述
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 生成式人工智能作为身份危机，而非技能差距
-- [[zuo-instructor-power-genai-writing-2026]] — 应对写作中生成式人工智能的大学教师所感知的权力关系（Zuo、Xu 与 Dunning，2026）
-- [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：人工智能作为认知中介
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 教师对生成式人工智能的自我感知 TPACK-21 知识（Sutedjo、Chowdhury 与 Liu，2026）
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 专业发展：出勤预测增益，而自我感知的参与不预测
-- [[instructional-design-proficiency-masters-math-2026]] — 智慧课堂模型与 D-T-E 循环改善数学教育硕士的教学设计能力（Zhu 等，2026）
-- [[talebzadeh-ai-group-activity-roles-2026]] — 人工智能设计的分组活动中角色的架构（Talebzadeh，2026）
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教师对生成式人工智能的经验与知觉：脆弱性、重思评估、处于风险中的学生学习（Farazouli 等，2026）
-- [[chick-faculty-development-ethical-ai-2026]] — 从恐惧到创新：一个六周的教师研修班、共生教学法，以及它无法提供的机构条件
-- [[vassallo-ai-guilt-complex-faculty-2026]] — 人工智能内疚情结：学术人员中的预期性内疚、隐瞒与职业阶段差异（Vassallo，2026）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon 对 1,057 位美国教师的调查：机构准备不足、治理薄弱与 87%/48% 的政策差距（Watson 与 Rainie，2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 全球南方高等教育中的学术发展者作为数字中介：发展作为社会技术实践
-- [[physics-faculty-learning-community-ai-2026]] — 在不确定时代有效使用人工智能的系列工作坊：建设一个物理教师学习社区
-- [[faculty-ai-well-being-social-supports-2026]] — 教师的人工智能幸福感追随人工智能素养，而非技术自我效能
-- [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it：采用一个框架之前，先核对它的层级描述的是什么
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育能否为 AI 设定议程？教师教育中的模拟式创新与教学方向设定
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 名化学教师、六周项目的追踪：规模有记录，课堂变化没有（Ussenbay 等人，2026）
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 28 个国家 150 多名语言教师的 20 周在线项目
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 名斯堪的纳维亚教师：所感知收益提升 0.20 SD
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 名教师：专业发展参与中介了动机与预期生成式 AI 使用（Yuan 等人）
-- [[bodek-prompted-to-explore-microlearning-2026]] — 契合教师实际时间的微学习模型（Bodek，2026）
-- [[bursic-ai-residency-education-curriculum-2026]] — AI 住院医师项目把教师发展与共同学习当作机制，而非附加项（Bursic 等人）
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 项幼儿教育资源的综述把教育者发展列为四个主题之一
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 位教师要求的是学徒制式的支持：懂课堂限制的前教师、一页指南与规划时间（Dangol 等人）
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE（2026）：在战略包含劳动力技能的机构中，69% 正在提升现有员工的能力
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 位在指引缺席下自建规则的教育者：缺乏发展是一项政策选择
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — CTE 更新在课程变革暴露能力缺口时才求诸教师发展（Wang）
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — 把发展当作机构支持的反复一层，而非一次性活动（AALHE，2026）
-- [[chen-future-faculty-development-ai-2027]] — 七种教师角色可以分布在一个团队中，前提是人人保留基础技术与伦理能力（Chen 等人，2026）
-- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断空间作为关系性、规范性与条件性的互动；AI 使其成为三方（Ji 与 Mercer，2026）
-- [[jiang-faculty-development-japan-2027]] — 日本高校参与率升至 32.7%，而主动学习工作坊与同侪评审持平或下降（Jiang 等人，2026）
-- [[tian-transnational-faculty-development-governance-2027]] — 跨境教师发展的分析单位在研讨会之外：秘书处、带日期的档案与共享治理（Tian 等人，2026）
-- [[ho-invariant-core-faculty-development-2027]] — 不变的核心与移动的边缘：先深化学习如何发生，再让教师编写小工具（Ho，2026）

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -42,6 +43,3 @@ Het project is bewust model-agnostisch. Het documenteert lokale Ollama-modellen,
 ## Opmerkingen en kanttekeningen
 
 De software is gratis en [[open-source|open source]] onder de MIT-licentie voor de oorspronkelijke code, al houden componenten van derden hun eigen voorwaarden, en het draaien betekent betalen voor uw eigen modelinferentie als u een gehost model gebruikt. Het project noemt zichzelf een door docenten nagekeken bèta en zegt ronduit in zijn README dat het slagen van de CI de onderwijskwaliteit over live modellen niet aantoont; dat is de juiste manier om naar een groene testsuite in dit veld te kijken: die verifieert de software, niet de [[pedagogy]]. Het wordt onderhouden door MacxLabs en accepteert door docenten nagekeken voorbeeldlessen als bijdragen.
-
-## Gerelateerde concepten
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

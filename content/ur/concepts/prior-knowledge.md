@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,34 +74,3 @@ ai_assist:
 **"کم سابقہ علم والے طلبہ کو زیادہ AI سہارا چاہیے۔"** یہی وہ سمت ہے جو خلا کو کشادہ کرنے کا سب سے زیادہ امکان رکھتی ہے، کیونکہ ناپا گیا منتقلی کا نمونہ تصنیف کا نقصان وہاں مرکوز کرتا ہے جہاں سابقہ علم سب سے پتلا ہے۔ ایسا سہارا جو کام اُس سیکھنے والے کو مہیا کر دے جو اِس متبادل کو پکڑنے کے سب سے کم قابل ہو، وہی سرگرمی ہٹا دیتا ہے جو غائب علم تعمیر کرتی۔
 
 **"سابقہ علم ایک مقررہ مدخل ہے جسے کورس ہلا نہیں سکتا۔"** یہ نئی سیکھائی میں سب سے زیادہ وزن رکھنے والا عامل ہے، جس سے اُسے تعمیر کرنا پس منظر کی حالت کے بجائے سب سے زیادہ اثر رکھنے والا کام بن جاتا ہے — یہی وجہ ہے کہ شعبے کا علم اپنی ذات میں مداخلت ہے، محض ہم متغیر نہیں۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — نتیجہ خیز ناکامی
-- [[retrieval-spacing-interleaving]] — کہ سیکھنے والا پہلے سے کیا جانتا ہے یہ طے کرتا ہے کہ بازیابی کی مشق کیا کر سکتی ہے
-
-## منسلک مضامین
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — خودکاری اور سیکھائی کے درمیان کشیدگی (سابقہ علم کی فعال سازی کا خطرہ)
-- [[genai-mindtool-generative-learning]] — GenAI بطور mindtool: سابقہ علم کو پرائم اور فعال کرنا
-- [[nie-personavlm-long-term-personalization-2026]] — LLM سے طالب علم کی ماڈلنگ اور یاد داشت
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble علمی منتقلی پر
-- [[cognitive-offloading-llm-synthesis-writing]] — LLM ترکیب نگاری میں علمی منتقلی
-- [[bridging-instructional-design-framework-math]] — ریاضی کے لیے تدریسی ڈیزائن کا فریم ورک
-- [[knowledge-building-tutor-learning-2026]] — سابقہ علم کے بجائے علم کی تعمیر ٹیوٹر کی سیکھائی کی پیش گوئی کرتی ہے، اور علم تعمیر کرنے والے کم سابقہ علم والے ٹیوٹرز برابر آ جاتے ہیں
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — سابقہ علم نے بعد کا امتحان اٹھایا (η²p = .63) جبکہ موافق کام کے انتخاب نے کچھ نہیں اٹھایا (Sibley et al. 2026)

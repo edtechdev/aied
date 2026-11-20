@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -49,7 +50,3 @@ Lehrende und Mitarbeitende der [[educational-development]]-Arbeit am Hillsboroug
 ## Anmerkungen und Vorbehalte
 
 Das Lesen erfordert kein Konto, und die Canvas-Kurse und Checklisten, auf die es verweist, sind öffentlich. Die Playlab-Coaches und die Gemini-Gems und -Notebooks sind Dienste Dritter, die eines erfordern. Die Karten werden aus `apps.json` erzeugt, sodass die vollständige Liste JavaScript braucht und der No-Script-Fallback acht der fünfzehn nennt; der Kurzlink `tinyurl.com/fpdapps` und ein QR-Code im Kopfbereich öffnen sie auf einem Telefon. Das Repository ist als Software unter MIT lizenziert, während die Leitfäden, auf die es verweist, ihre eigenen Lizenzen tragen, unter ihnen das Pressbooks-Buch unter einer nicht-kommerziellen Creative-Commons-Lizenz. Es gibt keinen Publikationsplan, sodass sich die Seite unangekündigt ändert.
-
-## Verbundene Konzepte
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

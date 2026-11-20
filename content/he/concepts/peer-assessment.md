@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,13 +72,11 @@ ai_assist:
 
 לאותה הטמעה מ-2024 יש כתיבה שנייה שקוראת את הרפלקציות לפי איך התלמידים תיארו את הכלי ולא לפי איך דירגו את המשוב. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] קידדו את רפלקציות השיפוץ של 13 הסקציות ו-10 הקורסים, ומצאו שרק כמחצית מהתלמידים אימצו את התפקידים האנתרופומורפיים שהציעה ההנחיה: חונך (28.6%) ומשתף (23.1%). השאר פנו לכלי או משאב (9.9%), לחברים או עמיתים (7.7%), לרובוט או מחשב (7.7%), או לסכמות משלהם. המחברים קוראים את המיקום הזה כנקודה עצמה: התלמידים מיקמו את הצ'אטבוט בפריפריה של אקולוגיה של כתיבה שמרכזה התלמיד, העמיתים והמרצה.
 
-
 הדפוס מתכלל לכתיבה מקצועית. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] יישמו PAIRR בקורס כתיבה עסקית ברמה מתקדמת שבו חמש משימות מרכזיות דרשו כל אחת טיוטה, ניתוח קהל, סקירת עמיתים על ידי 2–3 עמיתים, ושיפוץ (34 מתוך 46 סטודנטים רשומים השתתפו; 69% רב-לשוניים). התלמידים העריכו משוב AI אך מצאו אותו לעתים כללי מדי, והעריכו את הידע ההקשרי של העמיתים — "העמיתים שלי הסתכלו על זה מנקודת המבט של המעסיק... ChatGPT לא עשה זאת במידה כזו." רבע מהרהורים המקודדים במחקר PAIRR הגדול יותר הביעו סקפטיציזם כלפי משוב AI או ציינו אי-דיוקים, אשר החותמים קוראים כפיתוח אוריינות AI. המחקר תיאורי וספציפי-קורס.
 
 ## GenAI כפיגום בתוך משוב עמיתים והערכה קבוצתית
 
 המבחן הנוקשה ביותר לשאלה כמה העיצוב משנה הוא ניסוי אקראי-אשכולות מרובי-אתרים. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] חילקו 48 קבוצות לאורך 4 אוניברסיטאות — 1,176 סטודנטים לתואר ראשון בשנה הראשונה ב[[biology-education|ביולוגיה]], [[chemistry-education|כימיה]], ו[[physics-education|פיזיקה]] — לארבע תנאים לטיעון מדעי: משוב עמיתים בלבד, משוב GenAI ישיר, משוב GenAI מהרהר (הערכה עצמית ולאחריה ביקורת AI), והיברידי של הערכה עצמית → משוב עמיתים → ביקורת GenAI. GenAI ישיר ניצח את משוב העמיתים באיכות הטיעון המיידית אך הראה [[transfer-of-learning|העברה]] חלשה יותר; התכנונים המהרהרים וההיברידיים הפיקו ספיגת משוב ולמידה מוסדרת-עצמית חזקים יותר; ההיברידי הראה את היתרון הברור ביותר בלמידה קונספטואלית; שניהם העפילו על GenAI ישיר בהעברה מודרכת-החופשית. הערך של GenAI, מסיקים החותמים, תלוי פחות בגישה ויותר בשאלה האם הסביבה משמרת סוכנות ובעלות תלמיד במהלך השיפוץ.
-
 
 מיון משוב AI לפני דיון עמיתים, במקום אחריו, גם כן העלה תוצאות: לעומת משוב עמיתים בלבד, 122 סטודנטים סיניים ל-EFL שקיבלו משוב משולב AI-plus-עמיתים דיווחו על מעורבות אפקטיבית, התנהגותית וקוגניטיבית גבוהה יותר (partial η² = 0.29, 0.28, 0.32) והעפילו בכל ארבעת ממדי הכתיבה ב-IELTS, הגדול ביותר בהישג המשימה (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
@@ -107,51 +107,3 @@ ai_assist:
 - **"סקירת עמיתים היא תחליף זול יותר למשוב של מרצה."** [[learning-by-teaching|למידה דרך הוראה]] היא המנגנון, והיא מופיעה אפילו בין מכונות: דיבור דמוי-למידת-עמיתים בין למעלה מ-**2.4 מיליון סוכני AI** היה ברובו **הטענה ולא חקירה**. הפקת ביקורת היא מעשה שונה מקבלתה.
 
 - **טפסי עמית ועצמי רפלקטיביים כרשומה שמאחורי ציון קבוצתי.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] השתמשו בטופס רפלקטיבי-עמית אחד לכל חבר צוות ובטופס רפלקטיבי-עצמי אחד לכל סטודנט ביחידת ניהול פרויקטים עסקיים לתואר שני, לצד פגישה בת 30 דקות עם כל צוות שבה נשאלו החברים אם תרומתם הייתה מקורית. הטפסים לא דורגו כחילופי משוב. הם היו הראיה לכל אדם שאפשרה למרצה להגן על ציון אישי בתוך הערכה קבוצתית של 40%. עליית הציון של המסגרת מ-27/40 ל-31/40 מבולבלת עם מרצה חדש, וטענת היושרה שלה אינה מכומתת, ולכן החלק שניתן להעברה הוא מבנה תיעוד הרשומות, לא גודל האפקט.
-
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — PAIRR ומשוב משולב של עמיתים-plus-AI: הסדרות והראיות המשווה שלהן
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## מאמרים מקושרים
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — משוב משולב AI-plus-עמיתים העלה את שלושת ממדי המעורבות ואת ארבעת ממדי הכתיבה ב-IELTS
-
-- [[usher-faraon-who-grades-best-2026]] — השוואה בין ניקוד ChatGPT, עמיתים ומרצה לאורך רמות איכות פרויקט (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — מערכות משוב עמיתים AI
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR בקורס כתיבה עסקית: סקירת עמיתים, משוב צ'אטבוט, הרהור (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI לעומת עמיתים אנושיים לפיגום משוב מוסדר-עצמית ואוריינות משוב (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI כמאמן ומסנתז במשוב עמיתים על דיבור ב-EFL (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — ניסוי מרובי-אתרים המשווה משוב עמיתים-בלבד, ישיר, מהרהר, והיברידי של GenAI (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — משוב עמיתים GenAI בפיגום הנחיה בטיעון שיתופי (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — סוכנות בהערכה קבוצתית בתיווך GenAI: שיתוף פעולה, צימצום, אי-מימוש (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — ראיונות סקירת קוד בעל-פה כהפחתת נזק מ-GenAI ב-CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — אימון מצגת רב-מודאלי אוטומטי כחלופה מדידה למשוב עמיתים (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — סיכומי דיון שנוצרו על ידי AI מרחיבים חשיפת עמיתים בפורומים מקוונים (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — השפעת עמיתים ואמון יחסי בגילוי GenAI של תלמידים (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — סקירה שיטתית של מודלים לשוניים גדולים לחשיבה ביקורתית, עבודת צוות ופתרון בעיות (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — דיבור דמוי-למידת-עמיתים בין 2.4 מיליון סוכני AI (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — ביקורת של 14 מטא-אנליזות AIED ו-59 מחקרים ראשוניים (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — משוב מורה לעומת משוב עמיתים בסיוע AI בכתיבת L2: כמות, מיקוד, ומסלולי שיפור לאורך שתי משימות (Tang, Li & Luo 2026)
-
-- [[issa-teamwork-framework-academic-integrity-2024]] — טפסי עמית ועצמי רפלקטיביים כראיה לכל אדם מאחורי ציון קבוצתי (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — אוצר המילים של 654 סטודנטים: חונך 28.6%, משתף 23.1%, כלי 9.9%, רובוט 7.7%
-

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,29 +92,3 @@ ai_assist:
 - **"环境教育中的 AI 主要提供信息。"** 被测到的增益在**决策**上：在与 AI 伙伴合作完成一项结构化[[inquiry-based-learning|探究]]任务的学生，在决策测量上胜过只做探究的同侪（**d = 0.69**）与传统教学（**d = 1.88**），且增益**集中于最弱的那些步骤**。效应在推理质量上，正在学生最弱的地方。
 - **"探究本身才是有效成分。"** AI 辅助的探究**在气候决策上优于单独的探究**，因此 AI 的贡献是在教学结构之上附加的，而不是与它可互换的。
 - **"来自小样本的大效应仍然是大效应。"** 可持续发展教学法下的 AI 辅助[[learning-design|教学设计]]**以 28 名参与者取得 d = 2.80，改善了职前教师的教案**，审阅者自己用的词是*大得不可信*，而来自那个样本的那么大的效应应当被当作一个信号，而不是一个估计。
-
-## 关联概念
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## 关联文章
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — 区分"AI 为可持续性"与"可持续的 AI"；全球南方缺口
-- [[ai-assisted-inquiry-ssi-climate]] — AI 辅助气候探究，比单纯探究高 d = 0.69
-- [[aied-carbon-footprint-reporting]] — AIED 2025 披露综述，外加一种开源足迹方法
-- [[llm-environmental-impact-student-usage-2026]] — 89 名 CS 学生的延迟—碳权衡生态反馈
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 本地部署量化助手，每次查询 1.8 mWh
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE：工程教育中的可持续性意识
-- [[riandi-teacher-ai-green-energy-education-2026]] — 实践性 AI 使用与 ESD 材料开发预测整合能力
-- [[talebzadeh-ai-green-education-2026]] — 可持续发展教学法约束下的 AI 辅助设计
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI 对可持续教育的贡献作为由治理中介之物
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "可持续学习"作为持久的认知主体性，而非环境主张

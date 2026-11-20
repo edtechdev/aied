@@ -28,6 +28,8 @@ ai_assist:
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -102,48 +104,3 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - **"Uma nota alta implica que o estudante fez o trabalho que projetamos."** Os rastros podem **divergir das notas de forma direta**: em **150 conversas estudante–IA**, **41% tinham nota de tarefa de exatamente 1,00 enquanto a participação cognitiva observável variava**. A nota satura enquanto o processo que deveria produzi-la não satura.
 - **"Dados de processo são inviáveis em escala."** A documentação exigida mostrou-se viável em escala de curso ao longo de **seis semestres de cursos assíncronos de seis semanas de métodos de pesquisa de pós-graduação, atendendo aproximadamente 440 professores da educação básica**. A logística era solucionável; a objeção superestima o custo.
 - **"A resolução de problemas é holística demais para ser avaliada pelo processo."** Ela pode ser operacionalizada como **quatro etapas e oito sub-habilidades diagnósticas**, permitindo que um LLM gere **perguntas e rubricas específicas por etapa** — usado com **cinco professores e 64 estudantes**. A decomposição foi o que tornou o processo legível e avaliável.
-
-## Conceitos conectados
-- [[pedagogical-patterns]] — Pontos de verificação em etapas e evidência de processo como desenhos sequenciados
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## Artigos conectados
-- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — Três fluxos de evidência, pares de tarefas pareadas e orquestração como metacompetência
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Uma revisão narrativa crítica que argumenta que a falha padrão é o apoio de IA que nunca desaparece combinado com avaliação apenas do produto (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — Uma redação de processo colaborativa e pontuada em uma aprendizagem de graduação de primeiro ano: iteração e colaboração na rubrica, GenAI permitida dentro de limites declarados (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — o desempenho não é aprendizagem: uma agenda de pesquisa construída sobre medidas de processo (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — formadores de professores pedindo tarefas baseadas no processo e resistentes à IA, construídas sobre justificativa e reflexão (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — trilhas de decisão anotadas, defesa oral e diferenças entre rascunhos selecionadas pelo julgamento visível
-- [[munoz-misconduct-allegation-evidence-2026]] — o que os arquivos de caso de má conduta contêm, e a evidência de processo que lhes falta
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — qual inferência está em risco quando a evidência da avaliação é substituída
-- [[beyond-detection-authentic-assessment-ai-2025]] — a autenticidade precisa ser redesenhada, não policiada
-- [[authentic-products-authenticated-processes-2026]] — produtos autênticos e os processos que os produziram
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — o exame oral como um formato resistente à IA que torna o raciocínio vivo
-- [[thapa-lewis-process-oriented-assessment-2026]] — autenticidade epistêmica e os quatro compromissos de desenho por trás da avaliação orientada ao processo (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Evidência de processo condicional ao canal: registros e pensamento em voz alta revelam processos diferentes
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Um Ambiente de Analytics de Múltiplas Visualizações para Escrita Integrada à IA
-- [[epistemic-ownership-ai-mediated-education-2026]] — Mesmo Desempenho, Processo Diferente: Propriedade Epistêmica na Educação Mediado por IA
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: apoiando professores no diagnóstico das habilidades de resolução de problemas matemáticos dos estudantes por meio de questões geradas por LLM
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Documentação por pontos de verificação atingiu 96% de conclusão ao longo de seis semestres e cerca de 440 professores
-- [[rubrics-genai-process-based-assessment-2026]] — Três dimensões de rubrica a partir do modelo 3P de Biggs: agência e supervisão, andaimento dialógico, soberania cognitiva (Oviedo & Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Um editor CodeMirror mais um painel de chat registrado transformaram uma sessão de ensaio em evidência de processo, com seu limite entre digitar e pensar (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - visualizações de processo mais uma sessão de reflexão deslocaram a revisão da superfície para o nível de significado sem aumentar o volume de edição
-- [[webb-davies-voice-first-written-assessment-2026]] — Uma avaliação escrita em duas etapas que assegura o raciocínio sob observação antes de corrigir uma submissão escrita em casa, com arguição oral condicional para vínculos pouco claros (Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — Avaliação de Caixa Preta: janelas de processo, erro como evidência e integridade pela visibilidade (Winstone, Gravett & Elkington 2026)
-- [[francis-pace-framework-genai-assessment-2026]] — PACE: pontuando o processo em uma escala de agência de quatro níveis (Francis et al., 2026)
-- [[performance-without-capability-genai-assessment-validity-2026]] — Um framework de duas dimensões (responsabilidade cognitiva, visibilidade do processo) explicando por que um processo visível ainda pode documentar substituição

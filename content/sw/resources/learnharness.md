@@ -27,6 +27,7 @@ ai_assist:
 translation_of: resources/learnharness
 source_updated: "2026-11-02T07:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -46,10 +47,3 @@ Wanafunzi wanaojitegemea wanaofanya kazi na nyenzo ngumu, na walimu au watengene
 ## Vidokezo na maelezo ya tahadhari
 
 Bure inahusu programu, si uelekezaji wa modeli: wanafunzi huleta funguo za mtoa huduma, usajili, CLI ya Claude Code ya ndani au kiungo chochote kinacholingana na OpenAI, na humlipa mtoa huduma bila ongezeko la bei; kipimo cha moja kwa moja hukadiria gharama zinazojulikana za API pekee. Rekodi, mazungumzo na funguo hubaki kwenye mashine kama faili za kawaida, lakini mradi unaonya kuwa hifadhi ya ndani haimaanishi uchakataji wa nje ya mtandao, kwa kuwa maombi ya modeli, uamuru wa hiari na utafiti wa wavuti vyote hufikia huduma za nje. Kisanidi cha Windows x64 hakijatiwa sahihi, hivyo Windows itatoa onyo. Hakuna utafiti wa ufanisi ulioripotiwa, kwa hivyo hoja inategemea sababu zilizoelezwa badala ya matokeo yaliyopimwa; hazina ilikuwa na takriban nyota 4,800 ilipokaguliwa tarehe 2 Novemba 2026.
-
-## Dhana Zilizounganishwa
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

@@ -32,6 +32,7 @@ ai_assist:
 translation_of: "resources/intelligent-textbooks"
 source_updated: "2026-10-10T11:10:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -81,16 +82,3 @@ davvero utili per la scopribilità, ma la guida presume un flusso di autore piut
 MkDocs, Git e strumentazione per l'IA generativa — che può essere una barriera per alcuni docenti. Al momento dell'acquisizione il
 registro delle MicroSim è ancora solo in roadmap, quindi trovare una specifica simulazione esistente dipende
 dalla ricerca e dalla navigazione del sito stesso.
-
-## Concetti collegati
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

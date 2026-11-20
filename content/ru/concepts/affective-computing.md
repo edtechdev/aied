@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -68,33 +70,3 @@ ai_assist:
 - **«Больше вовлечённости — больше обучения».** Исследование с нейросенсингом обнаружило, что **ограниченный адаптивный интерфейс поднял когнитивную вовлечённость (p = .018), тогда как неограниченный чат-бот дал более высокие приросты в обучении**. Интерфейс, который вовлекал сильнее, учил меньше. Вовлечённость — не прокси для обучения, и оптимизация её может двинуть результат в неверную сторону.
 - **«Эмоциональная поддержка — мягкая добавка к когнитивной».** В небольшом аудиторном [[rct]] (**42 завершивших из 252 участников**) версия с осознанностью достигла **сходного обучения алгебре за меньшее время и с меньшим числом запрошенных подсказок**, чем только когнитивная поддержка. Аффективный компонент изменил эффективность, а не потолок, — это другое и более интересное утверждение, чем «это помогает обучению».
 - **«Аффективные находки на малых выборках переносятся».** 42 завершивших из 252 участников — план и обнадёживающий, и хрупкий: доля завершения сама по себе является находкой о том, кто удержался, и эффект ограничен этой группой.
-
-## Связанные понятия
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — социально-эмоциональное обучение
-
-## Связанные статьи
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Реагирование на генерируемые ИИ эмоциональные оповещения: вмешательство преподавателей и вовлечённость студентов на занятиях по математике
-- [[wang-teacher-student-centered-agents-physics-2026]] — Восприятие эмпатии от ролей агентов, заданных промптом, в изучении физики (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Оценка качества учебной аудитории с учётом эмоций посредством мониторинга в реальном времени на базе IoT (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: усиленная LLM оценка тревожности студентов (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Переосмысление поддерживаемой ИИ регуляции эмоций: сигналам нужен контекст, а не автономная интерпретация

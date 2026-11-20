@@ -17,6 +17,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -84,7 +86,6 @@ TPACK, bilgi tabanının kanıt tabanının öğretmen tarafı için örgütsel 
 **Aracılık çoğunlukla kullanım kolaylığı üzerinden işler.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]], 423 hizmet öncesi öğretmende [[ai-literacy|YZ okuryazarlığı]] ve TPACK’ten derin öğrenmeye giden altı dolaylı yolu sınamıştır: TPACK’in [[technology-acceptance-model|algılanan kullanım kolaylığı]] üzerinden etkisi en büyük (0,212), YZ okuryazarlığının yararlılık üzerinden etkisi ise en küçüktür (0,033); yani tümleşim bilgisi yararlılık yerine [[usability-research|kullanılabilirlik]] üzerinden işlemiştir.
 **Bileşenler YZ durumunda eşit ağırlık taşımaz.** 988 hizmet öncesi öğretmende TCK (β = 0,67) ve TPK (β = 0,41) bütünleşik AI-TPACK’i öngörürken, TK tek başına öngörmemiştir (β = −0,10, p = 0,066) ve bütünleşik TPACK, GenAI’ye yönelik tutumu öngörmüştür (β = 0,75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil ve ark., 2026]]).
 
-
 ## Tasarım Çıkarımları
 
 1. **Kesişimleri eğitin, yalnızca araçları değil.** HG, teknolojik, pedagojik ve içerik bilgisini izole araç eğitimini sunmak yerine birlikte inşa etmelidir — temel TPACK tasarım ilkesi.
@@ -97,49 +98,3 @@ TPACK, bilgi tabanının kanıt tabanının öğretmen tarafı için örgütsel 
 - **“TPACK'in baskınlığı açıklama gücünü yansıtır.”** Bu baskınlık **kısmen bir bulma artefaktıdır**: **195 teknoloji destekli öğretmen eğitimi çalışmasını** kapsayan bir PRISMA tarama derlemesinde dijital yetkinlik, TPACK ve DigComp **dizinlenmiş literatüre egemendir**. Bir aramadaki yaygınlık, alanın kullandığı sözcük dağarcığının bir özelliğidir; çerçevenin daha fazlasını açıkladığının kanıtı değildir.
 - **“İyi bilinen bir çerçeve, YZ için doğrulanmış bir çerçevedir.”** TPACK, YZ'ye özgü kapasiteler için tasarlanmamıştır; Intelligent-TPACK'in geliştirilme nedeni budur ve 78 çalışmalık derlemede yalnızca **beş çalışmada** görünmektedir. TPACK'i GenAI yetkinliği için kullanmak, onu yapısının ötesine germek demektir.
 - **“Bir çerçeve uygulamak, araştırmanın kuramsallaştırıldığı anlamına gelir.”** Aynı derleme, **çalışmaların %76'sının pratikten hiçbir kuramsal eşleme olmaksızın yetkinlik çıkarsadığını** bulmuştur; dolayısıyla TPACK'in alandaki varlığı, araştırmaların çoğunun kuramsallaştırılmamış olmasıyla bir arada bulunmaktadır. Adlandırılmış bir çerçeve, iş yapan bir çerçeveyle aynı şey değildir.
-
-## Bağlı kavramlar
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Bağlı makaleler
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — YZ Sertifika Programları için Değerlendirme Gösterge Sistemi
-- [[ai-literacy-tpack-preservice-2026]] — Hizmet öncesi öğretmen eğitiminde algılanan YZ okuryazarlığı ve TPACK: yararlılık, kullanım kolaylığı ve değer aracılığıyla aracılık (Zhao 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Düzeyler arası çalışma: "önce pedagoji, sonra teknoloji" — öğrenci sonuçları için TPAIK teknik TAIK’i geride bırakır (Shen ve ark. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — Hizmet içi öğretmenlerin TPACK-GenAI’si ve pedagojik bilginin aracılık rolü (Mohebi ve ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Teknoloji tümleşimi için öğretim elemanı standartları (TPACK ilişkili TBY)
-- [[edurev-100741-tpack-genai-review]] — Üretken YZ’yi öğrenci öğrenmesine tümleştirmek: TPACK perspektifinden bir sistematik derleme
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK’i öğretmen çok ajanlı iş akışlarıyla modellemek
-- [[ai-tpack-preservice-math-teachers]] — Hizmet öncesi matematik öğretmenleri arasında AI-TPACK hazırbulunuşluğu
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Ders tasarımında öğretmen–YZ etkileşimi: Zeki-TPACK, deneyim ve yeterlilik etkileşimi (Choi ve ark. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Yoğun GenAI mesleki gelişimi ve AI-PCK kazanımları
-- [[teacher-ai-teaming-five-levels]] — Beş düzeyli öğretmen–YZ ekip çalışması çerçevesi
-- [[teacher-ai-adoption-confidence]] — Öğretmen güveni ve YZ benimsemesi
-- [[teacher-education-ai-literacy-sdt-2026]] — Öz-belirleme kuramı aracılığıyla YZ okuryazarlığı için öğretmen eğitimi
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Tasarım temelli araştırma GenAI okuryazarlığı eğitimi
-- [[rail-ed-genai-literacy-teacher-education]] — Öğretmen eğitiminde GenAI okuryazarlığını yeniden düşünmek
-- [[sec-ai-literacy-narrative-review-2026]] — Sosyal-duygusal yetkinlikler ve YZ okuryazarlığı
-- [[genai-runaway-object-math-higher-ed]] — Yükseköğretimde GenAI ve matematik
-- [[ai-changing-teaching-workflows]] — YZ öğretim iş akışlarını nasıl değiştiriyor
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Yükseköğretimde GenAI için öğretim üyelerinin kendinden algıladığı TPACK-21 bilgisi (Sutedjo, Chowdhury ve Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Yeni Bir AI-TPACK Çerçevesine Doğru: teknik YZ bilgisinin bütünleyici aracısı olarak etik (Chen ve ark. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186 Güney Afrikalı fen öğretmeni adayının karşılaştırmalı anketi: kendinden bildirilen TPACK’te kampüs avantajı ve uzaktan kurumda daha zayıf bildirilen TPACK ile ilişkili YZ eğitimi
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK ve fen öğretimi öz yeterliliği, YZ okuryazarlığının sorgulama tümleşim niyeti üzerindeki etkisini sırayla araci hale getirir (Zou ve ark. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Üniversite öğretmenleri için Zeki-TPACK mesleki gelişimi: boyut çözümlü kazanımlar, kendinden algılanan angajman yerine katılım — YZ destekli CTD-PBL modülü ve hizmet öncesi fizik öğretmenlerinin TPACK’i ile işbirlikçi problem çözme (Chen ve Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Tasarım Eğitiminde İnsan–YZ İşbirliğini Değerlendirmek: genişletilmiş bir AI-TPACK çerçevesine temellendirilmiş sürece yönelik bir rubrik
-- [[capability-decision-model-teacher-readiness-2026]] — Öğretmen YZ hazırbulunuşluğunun sıralı yetenek-öncelikli modeli ve yapı çakışması uyarısı
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Yetkinlik çerçevesi baskınlığının kısmen alan yaygınlığı değil arama tanımlayıcılarını yansıttığına dair tarama derlemesi uyarısı
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Bütünleşik TPACK’in Rolü: Hizmet Öncesi Öğretmenleri Güçlendirmek ve Öğretimde Üretken YZ’ye Yönelik Tutumlarını Şekillendirmek

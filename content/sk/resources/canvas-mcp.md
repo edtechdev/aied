@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,8 +43,3 @@ Učitelia, ktorí chcú, aby agent zvládol rutinné čítanie a posielanie spr�
 ## Poznámky a upozornenia
 
 Inštalácia je lokálna: Python 3.11 alebo novší, token a URL API Canvas a klient MCP, s rozšírením spustiteľným dvojklikom pre Claude Desktop. Verejný hostovaný server bol vyradený, takže zdieľané nasadenie znamená samohosting za vlastnou autentifikáciou inštitúcie. Nástroje na zápis sú za bránou — HTTP servery sú len na čítanie, ak nie sú nástroje na zápis výslovne povolené, mazanie vyžaduje potvrdzovacie tokeny a spúšťanie kódu beží v sandboxe, ktorý pri zlyhaní zlyhá bezpečne. Ovládanie súkromia je opt-in: anonymizácia odpovedí, maskovanie e-mailov a filtrovanie PII sa musia zapnúť a README je opatrné v tom, že môžu podporiť povinnosti podľa FERPA bez toho, aby zakladali súlad, ktorý závisí od nasadenia a poskytovateľa AI. V serveri nie je žiadna telemetria, ale Canvas a zvolený klient si vedú vlastné logy. Projekt má licenciu MIT, aktívne sa vyvíja a jeho vlastné príručky sú autoritou pre aktuálne názvy nástrojov a konfiguráciu.
-
-## Prepojené pojmy
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -99,32 +101,3 @@ ai_assist:
 **«[[intelligent-tutoring|Адаптивный тьютор]] помогает каждому уровню одинаково».** Сравнение, изолирующее переменную, поучительно: две версии одного и того же тьютора по математике для второго класса — идентичное содержание, интерфейс, обратная связь и устные подсказки, — различающиеся **только тем, следовал ли выбор заданий байесовской модели [[knowledge-tracing]]**. Адаптивный выбор заданий — интервенция, чувствительная к уровню, и её польза зависит от того, могут ли учащиеся этого уровня действовать по адаптации.
 
 **«Доказательства, сконцентрированные в высшем образовании, обобщаются вниз».** Нет, и распределение литературы — это предупреждение, а не удобство. Где доказательства плотны и где разрежены — свойство исследовательской экономики, а не того, где ИИ используется больше, поэтому утверждение о K-12, выведенное из университетских выборок, — экстраполяция через самую важную границу.
-
-## Связанные концепции
-
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Связанные статьи
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Adaptive versus non-adaptive tutoring in second-grade mathematics (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing with third-graders in primary science
-- [[chatgpt-music-education-junior-high-2026]] — Junior high students' attitudes toward ChatGPT for lyric learning (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS designed for middle school, with a proposed longitudinal study
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty in Chinese secondary education (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Four types of LLM reliance among undergraduate writers (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI-assisted seminar platform with embedded librarian support for engineering students
-- [[ai-mediated-research-agency-formation-2026]] — AI dependence, autonomy and innovation in doctoral and postdoctoral training (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Stakeholder views on data privacy in African higher education (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Education managers' AI adoption readiness across Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-enabled immersive PBL for vocational design students (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' intention to use AI in early childhood settings
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Children's attitudes toward an age-tailored AI chatbot

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -37,7 +38,3 @@ Voor K-12: generatoren voor lesplannen, werkbladen, [[special-education|IEP-doel
 
 ## Opmerkingen
 Het project claimt een lokaal geïnstalleerde AI-server voor snelheid en dat data lokaal worden verwerkt en nooit opgeslagen, plus naleving van de richtlijnen van het Department of Education; de [teampagina](https://teacherserver.com/index-team.php) noemt Zafer Unal, hoogleraar aan de University of South Florida, als oprichter en ontwikkelaar, naast een adviesraad van vier docenten van andere universiteiten. Die claims zijn nog steeds de moeite van het verifiëren waard voordat u het met werk van studenten gebruikt. Toegang vereist registratie, en er is een begeleidend platform dat later betaald wordt voor het bouwen van uw eigen hulpmiddelen.
-
-## Gerelateerde concepten
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

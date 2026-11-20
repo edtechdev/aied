@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -65,7 +67,6 @@ ai_assist:
 
 SDT সরাসরি যুক্ত তার মূল ধারণা [[motivation]]-এর সঙ্গে, আবেগ-সচেতন এআই নকশার জন্য [[affective-computing]] ও [[affective-tutoring]]-এর সঙ্গে, এবং শিক্ষার্থীরা এআই-মধ্যস্থ পরিবেশ কীভাবে অভিজ্ঞতা করে তা নিয়ে [[student-experience]]-এর সঙ্গে। তত্ত্বের স্বায়ত্তশাসনের ওপর জোর যুক্ত [[self-regulated-learning]]-এর সঙ্গে, আর এর যোগ্যতা-মাত্রা যুক্ত [[self-efficacy-tutoring-learning]] ও [[teacher-ai-competency]]-এর সঙ্গে। SDT বিশেষভাবে প্রাসঙ্গিক [[professional-training]] ও [[educational-development]]-এ, কারণ প্রয়োজন-সমর্থক নকশা শিক্ষকদের এআই-ব্যবহারে প্রস্তুত করার একটি হস্তান্তরযোগ্য নীতি।
 
-
 **তিনটি প্রয়োজন জেনারেটিভ-এআই গবেষণায় সমানভাবে চর্চিত নয়।** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna ও Jiang (2026)]] 39টি গবেষণাকে 20-কার্যকলাপ শ্রেণিবিন্যাসের বিপরীতে কোড করে 14টি কার্যকলাপের উপস্থিতি পান, যেখানে যোগ্যতা-সম্পর্কিত সাত ধরন, স্বায়ত্তশাসনের পাঁচ ও সম্পর্কের দুই। ছয়টি কার্যকলাপ প্রতিটি গবেষণা থেকে অনুপস্থিত, এবং বেশিরভাগই শিক্ষার্থীকে সরঞ্জামটিকে বিচার বা চ্যালেঞ্জ করতে বলে: চ্যালেঞ্জিং সমস্যা তৈরি, সরঞ্জামের আউটপুট অনুমান, সেই আউটপুট গ্রেড করা এবং তার সঙ্গে বিতর্ক। সম্পর্ক হলো সেই প্রয়োজন যা সাহিত্য সবচেয়ে কম পরীক্ষা করে।
 
 ## সাধারণ ভুল ধারণা
@@ -73,37 +74,3 @@ SDT সরাসরি যুক্ত তার মূল ধারণা [[mot
 - **"প্রেরণার ধরন প্রেরণার পরিমাণের চেয়ে কম গুরুত্বপূর্ণ।"** এক বছরের একটি গবেষণায় **তিনটি প্রেরণা-প্রোফাইল — অনাগ্রহী, বিকাশমান, স্ব-নির্ধারিত — সময়ের সঙ্গে স্থির** পাওয়া যায়, আর যে শিক্ষার্থীরা **স্ব-নির্ধারিত** প্রোফাইলে পৌঁছেছে তারা **সর্বোচ্চ [[ai-literacy]] অর্জন** দেখেছে। প্রেরণার গুণই শিখনকে পূর্বানুমান করেছে, আর প্রোফাইলগুলো কেবল ওপরে ভেসে ওঠেনি।
 - **"স্বায়ত্তশাসন-সমর্থন মানে কাঠামো সরিয়ে নেওয়া।"** SDT-র কাঠামো হলো স্বায়ত্তশাসন, যোগ্যতা ও সম্পর্ক একসঙ্গে, এবং দীর্ঘমেয়াদি প্রমাণ দেখায় সেগুলো পূরণ অর্জনের পূর্বানুমান করেছে, কেবল সঙ্গে চলেনি। যোগ্যতা-সমর্থন ছাড়া স্বায়ত্তশাসন হলো উদাসীনতা, এবং তা তত্ত্বের শর্ত পূরণ করে না।
 - **"একটি [[conversational-ai|চ্যাটবট]] স্বয়ংক্রিয়ভাবে তিন প্রয়োজন জোগাতে পারে।"** একটি গবেষণায় দেখা গেছে ChatGPT ভাষা শিখনে স্বায়ত্তশাসন, সম্পর্ক ও যোগ্যতা সমর্থন করতে পারে — এটি একটি সম্ভাবনা, ধর্ম নয়। একটি নির্দিষ্ট মিথস্ক্রিয়া সেগুলো সমর্থন করে কি না তা কীভাবে ব্যবহৃত হচ্ছে সে সম্পর্কে একটি অভিজ্ঞতামূলক প্রশ্ন।
-
-## সংযুক্ত ধারণা
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## সংযুক্ত নিবন্ধ
-- [[family-school-autonomy-support-genai-2026]] — শিশুদের জেনারেটিভ এআই দায়িত্বশীল ব্যবহারের জন্য পরিবার-বিদ্যালয় স্বায়ত্তশাসন-সমর্থন
-- [[dual-ai-learning-pathways-sdt-2026]] — উচ্চবিদ্যালয়ের চাপ/স্বায়ত্তশাসন-সমর্থন ও দ্বৈত এআই শিখন-পথ (Shen ও Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — শিখন-নকশা সিদ্ধান্তগ্রহণে LA ও GenAI
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — ইংরেজি ভাষা শিখনে শিক্ষার্থীদের ChatGPT-অভিজ্ঞতা
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — শিক্ষার্থীর বৈশিষ্ট্য × TTS সংলাপ-বিন্যাসের মিথস্ক্রিয়া
-- [[liang-ai-learning-motivation-sdt-2026]] — শিক্ষার্থীদের এআই শিখন-প্রেরণার SDT সুপ্ত-রূপান্তর বিশ্লেষণ (2,086 মাধ্যমিক শিক্ষার্থী)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAI শ্রেণিকক্ষে শিক্ষার্থীর প্রেরণা ও প্রয়োজন-সন্তুষ্টি (Schweder, Hagenauer ও Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI-ব্যবহার প্রয়োজনের সন্তুষ্টির সঙ্গে দুর্বলভাবে যুক্ত এবং উচ্চ সম্পৃক্ততার জন্য অপ্রয়োজনীয় (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — শিক্ষক–এআই সহযোগিতা থেকে কাজের সম্পৃক্ততায় দ্বৈত পথ, ডিজিটাল যোগ্যতা দ্বারা নিয়ন্ত্রিত
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — সংকেত গোপন করা স্বায়ত্তশাসন রক্ষা করেছে, উত্তর দেওয়া করেনি
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — ৫ম-৮ম শ্রেণিতে এআই-প্রাপ্যতা, স্বায়ত্তশাসন-হ্রাস ও প্রেরণা-প্রোফাইল (Schweder ও Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39টি গবেষণা 20-কার্যকলাপ শ্রেণিবিন্যাসে কোড করা; যোগ্যতা সবচেয়ে বেশি চর্চিত, সম্পর্ক সবচেয়ে কম

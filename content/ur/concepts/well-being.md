@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -46,9 +48,7 @@ ai_assist:
 - **امتحانی اضطراب ہٹایا نہیں جاتا، دوبارہ تقسیم ہوتا ہے۔** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] دلیل دیتے ہیں کہ جب [[assessment]] وقفے وقفے کی زیادہ داؤ والی جانچ سے مسلسل، ڈیٹا پر مبنی تشخیص کی طرف جاتی ہے، تو الگورتھمی جواب دہی ایک نیا دباؤ کا نظام جوڑ دیتی ہے جس کے میکانزم — فوری پن، نظر آنا اور ڈیٹا کی دوام — شدید امتحانی تناؤ کو پھیلے ہوئے، جاری کارکردگی کی چوکسی میں بدل دیتے ہیں جس کی رپورٹ کم ہی ہوتی ہے۔
 - **اضطراب میں کمی ہمیشہ فائدہ مند نہیں۔** 35 پری یونیورسٹی طلبہ کے متوازن اندرونی-شرکاء مطالعے میں ایک LLM سے افزودہ مکالماتی ایجنٹ نے [[oral-assessment|زبانی جانچ]] کے دوران [[self-report-measures|خود رپورٹ کردہ]] اضطراب کم کیا (سکون 6.50 بمقابلہ 5.86، p = .028)، مگر مصنفین متنبہ کرتے ہیں کہ معتدل اضطراب سہولت بخش ہو سکتا ہے اور انہوں نے کوئی حصولی اسکور درج نہیں کیا ([[aivaluate-anxiety-assessment-2026|Yusuf, Money and Daylamani-Zad (2026)]])۔
 
-
 - **زیادہ منظوری کے ساتھ تناؤ بھی ہو سکتا ہے، اور AI کام کا دباؤ فائدہ کمزور کر دیتا ہے۔** 551 پہلے سال کے طلبہ میں 82.76% نے ڈیجیٹل اور ذہین مواد کے انضمام کی منظوری دی جبکہ 69.51% نے [[anxiety-and-stress|اضطراب]] یا تناؤ رپورٹ کیا، اور AI کام کے دباؤ کے بڑھنے کے ساتھ AI قابلیت سے موافقت تک کی ڈھلوان 0.42 سے 0.20 پر آ گئی ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]])۔
-
 
 - **سمجھی گئی AI قابلیت مقصد کی پیش رفت کے ذریعے ذہنی صحت بڑھا سکتی ہے۔** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]] نے سمجھی گئی معاون ذہانت سے ذہنی صحت تک کے سلسلہ وار راستے کو معنی خیز پایا (B = 0.098) اور زیادہ [[ai-literacy]] پر (0.124) کم کے مقابلے (0.072) مضبوط، حالانکہ تمام نتائج ایک مختصر کام کے فوراً بعد ناپے گئے۔
 
@@ -56,12 +56,10 @@ ai_assist:
 
 - **AI اضطراب، موافقت اور انحصار بطور بہبود کے اشارے:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] ایک بڑے چینی نمونے میں پاتے ہیں کہ AI اضطراب تعلیمی ترغیب سے منفی طور پر جڑا ہے، جزوی طور پر [[metacognition|جذبات کے ضبط]] میں کمی کے ذریعے (جس میں صنف اعتدال ڈالتی ہے)؛ [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] دکھاتے ہیں کہ [[language-learning|جاپانی]] سیکھنے والے ٹیکنو اسٹریس اور لچک کے باعث غیر موافق، معتدل اور مثبت نفسیاتی موافقت کے پروفائلوں میں بٹ جاتے ہیں جو ایک سمسٹر میں بہتر موافقت کی طرف سرکتے ہیں؛ اور [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] متنبہ کرتے ہیں کہ [[conversational-ai]] شمولیت کے کراس سیکشنل متعلقات (تنہائی، اضطراب، کم بہبود) کو نتائج نہیں پڑھا جانا چاہیے، اور یہ کہ سہارا دینے والے اور نقصان دہ تجربات ساتھ ساتھ موجود رہتے ہیں۔
 
-
 - **AI سے جڑاؤ بچاتا ہے یا نقصان پہنچاتا ہے، یہ آف لائن رشتوں پر منحصر ہے۔** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] تجویز کرتے ہیں کہ ذہنی صحت کے اثرات AI سے جڑاؤ کی شدت کے بجائے روایتی آف لائن جڑاؤ کے مقابلے میں اس کے تناسب پر چلتے ہیں — جب حقیقی دنیا کے رشتے شناخت کی تصدیق کی ضروریات پوری کریں تو تکمیلی، اور جب [[parents-and-families|دیکھ بھال کرنے والے]] پورا نہ کریں تو معاوضاتی — اور دونوں کے درمیان اُلٹی U کا تعلق پیش کرتے ہیں۔
 - **ثقافتی طور پر [[situated-learning|حالاتی]] بہبود سہارا اور اس کی حدود:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] Sukoon بیان کرتے ہیں، پاکستانی یونیورسٹی طلبہ کے لیے ایک ہائبرڈ بہبود نظام جو Random Forest تناؤ درجہ بندی کرنے والے (تین شدت کی سطحوں پر 89.09% درستگی؛ 20 سروے خصوصیات) کو ایک [[llm]] مکالمے کی تہہ کے ساتھ جوڑتا ہے جو Stepped Care Model کے مطابق تین سطحوں میں لہجہ اور سہارا کی شدت بڑھاتی ہے۔ یہ اس لیے بنایا گیا کہ مغربی ڈیزائن والے ذہنی صحت کے ٹولز انگریزی زبان میں ہیں اور اُن طلبہ کے لیے ثقافتی طور پر ناہم ہیں جو تکلیف اردو یا رومن اردو میں بیان کرتے ہیں اور تعلیمی، مالی، خاندانی اور رشتوں کے دباؤ کا بیک وقت سامنا کرتے ہیں؛ مصنفین واضح ہیں کہ یہ [[medical-education|طبی]] تشخیصی یا علاج کا ٹول نہیں، کہ زیادہ تکلیف والے جوابات پیشہ ورانہ مشاورت کی طرف اشارہ کرتے ہیں، اور یہ کہ چیٹ بوٹ کی تہہ کی ثقافتی موزونیت یا جذباتی حفاظت کے لحاظ سے ابھی طلبہ کے ساتھ جانچ نہیں ہوئی۔
 
 - **استاد کی بہبود اور کردار:** [[teacher-role|اساتذہ]] پر AI کا اثر — بشمول کام کا بوجھ، خلل ڈالنے والی ٹیکنالوجی کے ساتھ پڑھانے کے بارے میں اضطراب، اور جذباتی سہارا دینے کی صلاحیت — بار بار آنے والی فکر ہے، جو [[teacher-ai-competency]] اور [[educational-development|پیشہ ورانہ ترقی]] سے جڑتی ہے۔
-
 
 502 یونیورسٹی فیکلٹی کے ساختی مساوات ماڈل نے پایا کہ AI خواندگی نے AI بہبود کی پیش گوئی تکنیکی [[self-efficacy|خود اعتمادی]] (β = 0.082) سے کہیں زیادہ مضبوطی سے کی (β = 0.713)، اور سماجی و تنظیمی سہارا بہبود تک صرف بالواسطہ پہنچا — اثر قابلیت نے اٹھایا، حوصلہ افزائی نے نہیں ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]])۔
 - **رشتوں کی تکثیف بطور AI کی معاونت والی استاد ترقی کا تشخیصی معیار:** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] دلیل دیتے ہیں کہ AI اساتذہ کی سماجی-جذباتی ترقی کی مدد صرف اُس وقت کرتا ہے جب وہ انسانی رفاقت کے علامتی متبادل کے بجائے رشتوں کا بنیادی ڈھانچہ بن کر کام کرے۔ وہ AI کی معاونت والے پیشہ ورانہ ترقی کے اقدامات کو جانچنے کا معیار **رشتوں کی تکثیف** تجویز کرتے ہیں — یعنی کیا وہ اعتماد، رہنمائی، ہم مرتبہ سہارا، تعاون، نفسیاتی حفاظت اور تنہائی میں کمی کو مضبوط کرتے ہیں — اور نوٹ کرتے ہیں کہ یہ رشتے کلاس روم کی فضا، [[pedagogy|تدریسی]] ذمہ داری اور سماجی-جذباتی سہارا کے ذریعے طلبہ پر ثانوی اثرات ڈالتے ہیں۔ یہ ترکیب یہ بھی متنبہ کرتی ہے کہ جذباتی ڈیٹا کی [[governance]] اور تعلیمی AI کی سیاسی معیشت الگ الگ اخلاقی خطرات رکھتی ہیں، اور [[ai-literacy|تنقیدی AI خواندگی]] کو ایک سماجی-جذباتی قابلیت قرار دیتی ہے۔
@@ -75,7 +73,6 @@ ai_assist:
 بار بار آنے والی بات یہ ہے کہ بہبود کو تعلیم میں AI کے ڈیزائن میں سوچا سمجھا پہلو ہونا چاہیے، بعد کی سوچ نہیں۔ اس کا مطلب ہے: AI کو انسانی رشتوں کو بدلنے کے بجائے سہارا دینے کے لیے ڈیزائن کرنا؛ یہ یقینی بنانا کہ طلبہ اپنی ایجنسی اور خود اعتمادی برقرار رکھ سکیں، [[anxiety-and-stress|AI سے پیدا ہونے والا اضطراب]] یا حد سے زیادہ انحصار نہ جھیلیں؛ AI کو شامل کرتے وقت ماہرینِ تعلیم کی صلاحیت اور بہبود کو سہارا دینا؛ اور [[ai-ed-evaluation|AI کا جائزہ]] صرف [[learning-gains|سیکھنے کے نتائج]] پر نہیں بلکہ طلبہ اور اساتذہ کی بہبود پر اس کے اثرات پر بھی لینا۔ [[research-methods-aied|تحقیق]] بہبود کو [[motivation]]، [[self-regulated-learning]] اور [[student-experience]] (تعلقیت اور شمولیت) سے جوڑتی ہے۔ [[daoism-ai-education-philosophy-2026|Xie (2026)]] اس کے مطابق ایک تعلیمی مقصد کی دلیل دیتے ہیں: داؤسٹ "Zhenren" کا متقابل نمونہ بے رکاوٹ اصلاح کے بجائے "کاشتہ کلیت" پیش کرتا ہے، سیکھنے کو خود، معاشرے اور کائنات کے ہم آہنگ یکجا ہونے کے طور پر نئے سرے سے تصور کرتا ہے، اور اصرار کرتا ہے کہ "کوئی طالب علم محض سنبھالنے کا ڈیٹا سیٹ نہیں، بلکہ ایک مکمل وجود ہے جو اعتدال حاصل کر سکتا ہے۔"
 
 **سماجی-جذباتی ثبوت کی بنیاد یہ نہیں بتاتی کہ کس کو عمل کرنا چاہیے۔** AI اور [[social-emotional-learning|سماجی-جذباتی سیکھنے]] کے ملاپ پر 65 مطالعات کے [[meta-analysis-systematic-review|منظم جائزے]] نے پایا کہ تقریباً تین چوتھائی نے پالیسی مضمرات کا کوئی ذکر نہیں کیا، اور جن اقلیت نے کیا انہوں نے رازداری، [[teacher-education|استاد کی تربیت]] یا وسائل کی تقسیم پر اداکار کے لحاظ سے مخصوص رہنمائی بہت کم دی ([[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]])۔ چنانچہ ڈیزائن پہلو کے طور پر بہبود کے پاس اثرات کا ثبوت ہے اور ذمہ داری کا بہت کم، جس سے یہ سوال کہ اسے کون ڈیزائن کرے، لٹریچر کے بجائے ادارے کے سپرد رہ جاتا ہے۔
-
 
 ایک تصوراتی باز فریمنگ [[self-regulated-learning|جذبات کے ضبط]] کے سہارے کو محض جذبات کی نشان دہی کے بجائے جسمانی سرگرمی اور کیمپس ماحولیات میں جما دیتی ہے: کوئی اکیلا اظہاری راستہ سیاق کے بغیر تکلیف کی شناخت نہیں کرتا، چنانچہ AI کو ورزش کے ذریعے ضبط کی مدد کرنی چاہیے جبکہ تشریح اساتذہ اور مشیروں کے پاس رہے، اور جذبات کی نگرانی حاضری یا درجہ بندی سے جڑتے ہی جابرانہ ہو جاتی ہے ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]])۔
 
@@ -92,43 +89,3 @@ ai_assist:
 - **"طلبہ کی منظوری ظاہر کرتی ہے کہ بہبود کو سہارا دیا جا رہا ہے۔"** **551 پہلے سال کے طلبہ** میں **82.76% نے ڈیجیٹل اور ذہین مواد کے انضمام کی منظوری دی** — اور **زیادہ منظوری تناؤ کے ساتھ موجود رہی، جبکہ AI کام کے دباؤ نے فائدہ کمزور کیا**۔ منظوری اور تناؤ ساتھ بڑھتے ہیں، چنانچہ اطمینان کے سروے خاص طور پر یہاں گمراہ کرتے ہیں۔
 - **"فلاح و بہبود کا سہارا ثقافتی طور پر غیر جانبدار ہے۔"** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] Sukoon کو، ایک ہائبرڈ بہبود سہارا ٹول، **ثقافتی طور پر حالات گیر** بتاتے ہیں — اور صفحے کی اپنی فریمنگ اس کی حدود نوٹ کرتی ہے۔ ایسا سہارا ڈیزائن جو ہر طالب علم کو یکساں فرض کرے، آبادی کو غلط پڑھتا ہے۔
 - **"کام کا دباؤ ٹیکنالوجی سے الگ ہے۔"** نتیجہ یہ ہے کہ AI **کام کے دباؤ** نے انضمام کا فائدہ کمزور کیا، جو کام کے بوجھ کو ٹیکنالوجی کے اثرات کے ساتھ ساتھ نہیں بلکہ ان کے اندر رکھتا ہے۔
-
-## منسلک تصورات
-- [[learners]] — سیکھنے والے: طالب علم کی طرف کے تصورات کی چھتری
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — کیمپس کی معاون خدمات جو مشورہ، رابطہ اور حوالے تک پھیلی ہیں
-
-## منسلک مضامین
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 طلبہ نے چیٹ بوٹس کو بلند درجہ دیا اور انسانی جڑاؤ کے نقصان کا سب سے زیادہ خوف رکھا
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — رکاوٹ، معنی، اور تنہائی بطور حیاتیاتی اشارہ
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI اضطراب اور تعلیمی ترغیب کے درمیان تعلق
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI کی معاونت والی جاپانی زبان سیکھنے میں نفسیاتی موافقت کے پروفائل اور منتقلیاں
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — مکالماتی AI شمولیت اور انحصار کی تنقیدی بیانیاتی ترکیب
-- [[mindful-llm-math-tutoring-2026]] — مسئلہ حل کرنے سے آگے: ریاضی سیکھنے میں جذباتی اور غور طلب سہارے کے لیے بڑے لینگویج ماڈل
-- [[sec-ai-literacy-narrative-review-2026]] — سماجی-جذباتی قابلیتوں کا AI خواندگی میں انضمام
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — طلبہ کی GenAI کے ساتھ شمولیت (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — AI خواندگی کے لیے استاد کی تربیت (SDT)
-- [[genai-motivation-engagement-2026]] — جنریٹیو AI، ترغیب اور شمولیت
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI چیٹ بوٹس، اجتماعی خود اعتمادی اور تعاون
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: طلبہ کے اضطراب کی LLM سے افزودہ جانچ (2026)
-- [[policy-deficit-ai-sel-2026]] — AI × SEL تحقیق میں پالیسی کی کمی
-- [[culturally-aware-student-stress-chatbot-2026]] — پاکستانی یونیورسٹی طلبہ میں تناؤ کی نشان دہی اور فلاح کے سہارے کے لیے NLP اور مشین لرننگ استعمال کرنے والا AI سے چلنے والا ثقافتی طور پر آگاہ چیٹ بوٹ
-- [[daoism-ai-education-philosophy-2026]] — متبادل AI فلسفہ: تعلیم میں AI کے لیے طریقہ کے طور پر دائومزم
-- [[ai-emotional-intelligence-teacher-development-2026]] — رشتوں کی تکثیف بطور AI کی معاونت والی استاد ترقی کا معیار
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI کورس کی زیادہ منظوری کے ساتھ خود رپورٹ شدہ تناؤ، اور کام کے دباؤ کا موافقت کو کمزور کرنا
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI جڑاؤ اور نوجوانوں کی ذہنی صحت: تکمیلی بمقابلہ معاوضاتی رشتہ بندی، اُلٹی-U پیش گوئی کے ساتھ
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — سمجھی گئی AI معاون ذہانت، مقصد کی پیش رفت اور ذہنی صحت، AI خواندگی بطور اعتدال گر
-- [[ai-emotion-regulation-sport-exercise-2026]] — کھیل، ورزش اور کیمپس ماحولیات کے ذریعے AI کی معاونت والے جذبات کے ضبط کی تصوراتی باز فریمنگ
-- [[faculty-ai-well-being-social-supports-2026]] — فیکلٹی کی AI بہبود کا ساختی مساوات ماڈل: AI خواندگی خود اعتمادی پر غالب
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — امتحانی اضطراب ہٹایا نہیں جاتا، دوبارہ تقسیم ہوتا ہے

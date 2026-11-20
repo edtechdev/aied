@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -96,50 +98,3 @@ ai_assist:
 **“AI 素养培训可跨角色泛化。”** 多数工具并不测量角色特定的胜任力：在一项对 **33 个教师 AI 素养工具**的系统综述中，**29 个（87.9%）**瞄准一般 AI 概念，只有 **4 个（12.1%）**涉及工作实际要求的[[pedagogy|教学]]或职业用途。建立在一般工具上的项目，测量的是一个代理变量。
 
 **“模拟器可以替代职场培训。”** 它训练程序并移除后果，这很有价值，而后果恰是无法迁移的那一部分：在安全关键的工作中，后果就是课程。
-
-## 关联概念
-
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — 沉浸式练习最成熟之处
-
-## 关联文章
-
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 一次 GPT-4o 对话使自评沟通胜任力提高 d = 0.58，但没有对照组（Müller 等，2026）
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 在 17 项研究中，信心增益常见，而共情证据单薄（Ismail 与 Zafira，2026）
-- [[bodek-prompted-to-explore-microlearning-2026]] — 十二周微学习加一个 Teams 社群：项目中报的自报 GenAI 使用有所上升（Bodek 等，2026）
-- [[prunuske-cognitive-windows-research-meetings-2026]] — 在人工智能时代把研究会议从数据更新转向认知窗口
-
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — 工程与计算劳动力的未来中的人工智能
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — 人工智能时代智能制造的劳动力准备度水平框架
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 经教师与雇主验证的 HiBob 人工智能技能框架
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：人工智能与专长再生
-- [[li-language-educators-genai-review-2026]] — 语言教育者的实践与 GenAI 发展
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — 比较调查显示是机构条件而非国家情境解释教师 GenAI 准备度差距（Bi 等人 2026）
-- [[adaptive-ai-model-teacher-educators-2025]] — 教师教育者共同设计一个适应性人工智能素养模型与一份反思性问卷（Eyal 2025）
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 综述显示教师人工智能素养工具落后于生成式人工智能，标志着培训目标（Zainal 等人 2026）
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — 三小时的专业发展提高了德国教师的感知有用性与易用性，但没有提高使用人工智能进行差异化的意图
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 小学数学初始教师培训中人工智能的综述：简短的工具导向培训不够
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — 调查把先前人工智能培训与使用频率连接到土耳其小学教师的正面看法
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为人工智能支持的专业准备的结构机制
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement：迈向反思性 AI 投入中技能保全性依赖的开放问题
-
-- [[jongkind-genai-patient-medical-communication-2026]] — 在本科医学教育中使用 GenAI 病人进行医学沟通训练：一项准实验研究
-- [[cowhitt-deliberative-instructional-agents-2026]] — 面向教师专业学习的商议式教学智能体，附 AI 中介专业发展的责任条件
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 当一个技术专业的 AI 实践跑在它的教学路径之前
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 教师要求有学科根基的培训，并把频繁使用与素养区分开来

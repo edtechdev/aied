@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -69,7 +71,6 @@ ai_assist:
 - **استاد کے ذریعے AI میں، اضافے تیاری سے آئے، اوزار سے نہیں۔** برازیل کی 19 سرکاری اسکولوں کی حسابی کلاسوں میں، تربیت یافتہ اساتذہ کے پڑھائے گئے طلبہ کنٹرول گروپ سے بہتر رہے، مگر اُس تربیت میں AIED-U نظام شامل کرنے سے کوئی اضافی سیکھنے کا اضافہ پیدا نہ ہوا، اور استاد کے کام کا بوجھ اضافے سے منفی طور پر وابستہ تھا ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]])۔
 
 **نتیجہ:** شواہد کا وزن AI کی طرف سے **معتدل، مشروط اور ڈیزائن پر منحصر سیکھنے کے اضافے** کی حمایت کرتا ہے — یہ اضافے حقیقی ہوتے ہیں جب AI کو جواب دینے کے بجائے کوچنگ کے لیے ترتیب دیا جائے، گارڈ ریل ہو، اور بغیر مدد کے نتیجہ پیمانوں کے ساتھ جوڑا جائے، اور غیر حاضر یا منفی ہوتے ہیں جب وہ سیکھنے والے کی اپنی محنت کی جگہ لے لے۔ اسی لیے سیکھنے کے اضافے کو بطور نتیجہ درست اور AI کے خلاف مزاحمت کرنے والے اوزاروں سے ناپنا ضروری ہے، اور اسی لیے [[ai-ed-evaluation]] تاثیر کے دعووں کو [[research-methods-aied|طریقہ کارانہ]] جانچ کے ساتھ جوڑتا ہے۔
-
 
 - **AI ٹیوٹرنگ معیاری امتحان کے اضافے میں ماہر انسانی ٹیوٹرنگ کا ہم پلہ ہو سکتی ہے۔** 2,383 شرکاء کے ایک جائزے میں، یکجا AI ٹیوٹرنگ GRE سیکھنے کے اضافے میں ماہر انسانی ٹیوٹرنگ کے اعداد و شمار کے لحاظ سے برابر رہی (p = .015)، اور دونوں بغیر ٹیوٹرنگ کے کنٹرول سے اوپر رہے؛ مصنفین ٹیوٹرز کا موازنہ کرنے کے لیے فی صد پوائنٹ اضافے کی لاگت کو اکائی کے طور پر تجویز کرتے ہیں ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]])۔
 
@@ -151,65 +152,3 @@ ai_assist:
 - نتیجہ ناپنے کے پیمانے کو پیشگی رجسٹر کریں اور بتائیں کہ وہ AI کی اجازت والا ہے یا بغیر مدد۔ دریافت کی سمت صرف اِس انتخاب سے پلٹ سکتی ہے۔
 - اثرات کے حجم کا موازنہ کسی نامزد موازنہ سے کریں، نہ کہ مجرد "روایتی طریقوں" سے۔ عالمی بینک کا نتیجہ صرف اِس لیے قابلِ تشریح ہے کہ وہ اپنے موازنہ طبقے کا نام لیتا ہے۔
 - کارکردگی کی بڑھوتری اور سیکھنے کی نقل مکانی میں واضح فرق کریں، کیونکہ دونوں الگ علاج تجویز کرتے ہیں — کام کا دوبارہ ڈیزائن بمقابلہ دوبارہ تدریس۔
-
-## منسلک تصورات
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — تعلیم میں AI میں نظریہ کی تشکیل
-- [[self-report-measures]]
-- [[research-methods-aied]] — AIED میں تحقیقی طریقے (DBR حصہ)
-- [[social-emotional-learning]] — سماجی اور جذباتی سیکھنا
-- [[student-support-and-success]] — انتظامی نتائج (کام کی تکمیل، کریڈٹس، استقامت، فارغ التحصیل ہونا) بطور الگ از سیکھنے کے اضافے
-
-## منسلک مضامین
-- [[epistemological-audit-genai-meta-analyses-2026]] — شروعاتی ثبوت ترکیبوں کا تنقیدی علمیاتی جائزہ (Fütterer et al. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — تیار چیٹ بوٹ کی رسائی نے بغیر مدد امتحانی نمبر بڑھائے جو ایک ہفتے تک قائم رہے (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ٹیوٹرنگ کلاس روم کے فعال سیکھنے سے بہتر: ایک RCT جو مستند تعلیمی ماحول میں نیا تحقیقی ڈیزائن متعارف کراتا ہے (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — کیوں مدد والی کارکردگی سیکھنے کا نتیجہ نہیں (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL کے ساتھ مجازی ٹیوٹرنگ: شرکت اور سیکھنے کا ایک تجربہ
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ٹیوٹرنگ کو پیداواری بنانا: مہارت پر مبنی ریاضی کی مشق
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — ایک کلک کی دوری پر: دو سالہ اسکولی تجربے میں Khanmigo
-- [[ai-literacy-assessment-misalignment]] — AI خواندگی کی جانچ: خود رپورٹ بمقابلہ کارکردگی کا عدم توازن
-- [[generative-ai-reduced-study-time-math]] — تیز تکمیل، کم سیکھنا: جنریٹو AI نے ریاضی کے مسئلوں اور اُن سے بننے والے علم پر وقت کم کیا
-- [[genai-meta-analysis-programming-learning]] — پروگرامنگ میں پیداواریت اور سیکھنے پر جنریٹو AI کے اثر کا میٹا تجزیہ
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI خواندگی مداخلتوں کے اثرات کا میٹا تجزیہ
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT کی مدد انسانی ٹیوٹر کی مدد کے برابر سیکھنے کے اضافے پیدا کرتی ہے
-- [[generative-ai-guardrails-harm-learning]] — گارڈ ریل کے بغیر جنریٹو AI سیکھنے کو نقصان پہنچا سکتا ہے (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — غائب علمی بنیاد: AI کے ساتھ پیدا ہونے والے کالج طلبہ کے تعلیمی خود جائزے میں ساختی خلا کا نظریہ
-- [[oecd-digital-education-outlook-2026]] — OECD ڈیجیٹل تعلیم آؤٹ لک 2026
-- [[ai-changing-teaching-workflows]] — AI تدریسی کام کے بہاؤ کو کیسے بدل رہا ہے
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI سے بہتر جسمانی روبوٹ کی مدد سے زبان سیکھنے کا میٹا تجزیہ
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — فوری کارکردگی بمقابلہ پائیدار سیکھنے کا فرق
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — جنریٹو AI کا سیکھنے کا نقصان: ہوم ورک آؤٹ سورس کرنا سیکھنے کو نقصان پہنچاتا ہے
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI کی مدد سے تعاونی سیکھنے کا ماڈل DBR (تنقیدی سوچ +24.1%، مسئلہ حل کرنے کے اضافے)
-- [[stanford-evidence-base-ai-k12-2026]] — ٹیوٹرنگ کے لیے مخصوص بمقابلہ عام AI
-- [[jost-llm-programming-education-learning-outcomes]] — کوڈنگ میں LLM انحصار اور درجات (منفی ارتباط)
-- [[genai-can-harm-teaching-rct-2026]] — جنریٹو AI تدریس کو نقصان پہنچا سکتا ہے (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI اور اعلیٰ درجے کی سوچ کا میٹا تجزیہ
-- [[mujib-ai-ibl-creative-math-2026]] — AI کی مدد والا IBL اور تخلیقی ریاضی کی کارکردگی
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI سے بہتر PBL اسکیفولڈنگ کے اضافے
-- [[ccct-cooperative-learning-technique]] — AI کے ڈیزائن کردہ تعاونی سیکھنے کا طریقہ
-- [[scaffolding-srl-feedback-genai-human-peers]] — اسکیفولڈ شدہ خود ضابطہ فیڈبیک کے اضافے
-- [[learner-ai-interaction-patterns-oop]] — OOP میں تعامل کے نمونے اور سیکھنے کے اضافے
-- [[ai-feedback-critical-thinking-writing-2026]] — تحریر میں AI فیڈبیک اور تنقیدی سوچ
-- [[pedagogy-ai-mistakes]] — AI کی غلطیوں کی پيدگوجی: اعلیٰ درجے کی سوچ کی پرورش (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — حسابی سوچ کی سطحیں اور AI کوڈنگ اسسٹنٹ (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — میٹا تجزیہ: موافقتی/AI تعلیمی ٹیکنالوجی سیکھنے کو ~0.125 sd بڑھاتی ہے
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — تعلیم میں ChatGPT: ایک اثر جو وجہ کی تلاش میں ہے (اضافے کے پیمانوں کی میڈیا موازنہ تنقید)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — میٹا میٹا تجزیہ: تعصب کے بعد ایڈجسٹ شدہ AI سیکھنے کے اضافے رپورٹ شدہ حجم کا ~1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — مفروضہ مؤثر: ناقص AIED میٹا تجزیوں کی جانچ
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — ایک STEM ترکیبی جائزہ جس نے منحصر اثرات کے حجم کو قابو کیا اور اشاعت تعصب جانچا، مگر کوئی معیار کی جانچ لاگو نہ کی (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — 45 تعلیمی AI میٹا تجزیوں کا دوسرے درجے کا میٹا تجزیہ، اوورلیپ کی تصحیح شدہ اثرات اور ترکیب کی پرت کی معیار جانچ کے ساتھ (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ یکساں GRE سیکھنے کے اضافے دیتے ہیں
-- [[rodrigues-aied-unplugged-numeracy-2026]] — استاد کے ذریعے AI میں، اضافے تیاری سے آئے، اوزار سے نہیں

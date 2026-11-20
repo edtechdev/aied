@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
@@ -97,35 +99,3 @@ Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son compl
 - **«Una estimación por intención de tratar describe lo que hace la herramienta.»** En un ensayo aleatorizado por grupos de acceso en el que **alrededor del 15% del estudiantado de las aulas tratadas llegó a usar el tutor**, la estimación ITT refleja **el efecto de introducir** la herramienta y no el de usarla. Una adopción baja convierte una cifra ITT en una afirmación sobre la implementación, e informarla como efecto de la herramienta exagera lo que se midió.
 - **«El desempeño en la tarea es el resultado.»** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] asigna al azar **120 estudiantes** a estudio asistido por IA o tradicional y mide la **retención**: el diseño que separa el desempeño inmediato del aprendizaje duradero. Un estudio que se detiene en la tarea ha medido la cantidad más fácil.
 - **«Las comparaciones entre conjuntos de datos son sencillas.»** Una comprobación estructural de datos educativos sintéticos encontró que **analizar cada conjunto de datos con su propio umbral invertía un contraste que se mantenía en un punto de trabajo compartido**. El signo de la comparación dependía de una decisión analítica, que es el tipo de fragilidad que un punto de trabajo prerregistrado existe para prevenir.
-
-## Conceptos conectados
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Artículos conectados
-
-- [[access-not-enough-ai-tutoring-2026]] — Un estudio de campo aleatorizado sobre el apoyo humano más la tutoría con IA
-- [[genai-can-harm-teaching-rct-2026]] — La IA generativa puede perjudicar la enseñanza: un ECA
-- [[acceptance-ai-english-tools-2026]] — La aceptación de herramientas de aprendizaje de inglés asistidas por IA
-- [[tian-genai-learning-adoption-pathways-2026]] — Vías de adopción de la IA generativa (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — La alfabetización en IA del profesorado a través de la teoría de la autodeterminación
-- [[jin-glat-genai-literacy-assessment]] — GLAT: una prueba de alfabetización en IA generativa validada con TRI
-- [[ai-lms-middle-school-longitudinal]] — Un estudio longitudinal de un LMS integrado con IA
-- [[adaptive-pretesting-retention]] — Preprueba adaptativa y retención
-- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Un ensayo de acceso aleatorizado por grupos necesita una comprobación de adopción
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — El análisis bibliométrico como otra familia cuantitativa: Sriram et al. (2026)
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Uso de la IA generativa e interacción educativa interpersonal entre estudiantes de enfermería: el aprendizaje autorregulado como mediador estadístico
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Conciencia de la disrupción tecnológica de la IA, mentalidad de pensamiento de diseño y competencia en innovación de diseño entre estudiantes de diseño

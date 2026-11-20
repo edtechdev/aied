@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -37,6 +38,3 @@ De hoofdstukken bestrijken [[learning-design|instructional design]] en onderwijs
 ## Wat u moet weten voordat u het gebruikt
 
 Het boek is open access onder een CC BY-licentie, het permissieve uiteinde van het spectrum voor onderwijsmateriaal: docenten mogen de [[prompt-engineering|prompts]] kopiëren, aanpassen en gebruiken, ook commercieel, mits ze correct worden toegeschreven. Dat maakt het eenvoudig om een prompt te lokaliseren voor een specifieke cursus of [[pedagogical-agent|agent]]-opstelling, wat de beperkendere licenties op vergelijkbare verzamelingen niet toestaan. Het is in 2026 gepubliceerd op EdTech Books met een pdf-download en DOI 10.59668/2340, geredigeerd door David Wiley. Omdat elk hoofdstuk zowel het evaluatieontwerp als het resultaat rapporteert, werkt het ook als model voor docenten die hun eigen prompts willen testen in plaats van het oordeel van iemand anders over te nemen.
-
-## Gerelateerde concepten
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

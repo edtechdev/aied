@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -75,23 +77,3 @@ Para el profesorado, los textos de refutación siguen siendo una forma fiable y 
 **«Más información sobre la concepción correcta resuelve la resistencia.»** El volumen de información correcta es justamente la intervención que ya fracasa. El cambio conceptual exige que el modelo existente de quien aprende se haga explícito y se revele insuficiente, lo que es un movimiento instruccional distinto de añadir evidencia.
 
 **«Las ideas erróneas y la ignorancia ordinaria necesitan el mismo remedio.»** Necesitan remedios distintos: la ignorancia se atiende aportando conocimiento, y una idea errónea debe desalojarse primero. Tratar la segunda como la primera es la razón por la que una lección bien explicada puede dejar intacto el modelo original de un estudiante.
-
-## Conceptos conectados
-- [[pedagogical-patterns]] — Secuencias de refutación, incluidos dos resultados directamente contradictorios
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Artículos conectados
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Diálogo personalizado con IA frente a la refutación de libro de texto para corregir creencias
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Texto de cambio conceptual de especialistas o de IA frente a diálogo interactivo con IA
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Ideas erróneas generadas por LLM para el aprendizaje colaborativo
-- [[chatgpt-inoculation-training-verification-2026]] — La formación en inoculación como intervención adyacente de estilo refutativo
-- [[critical-genai-use-predictors]] — Recomienda textos de refutación para atacar ideas erróneas conceptuales
-- [[ai-learning-companions-framework]] — Compañeros de IA y corrección de ideas erróneas

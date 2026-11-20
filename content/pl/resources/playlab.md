@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -42,7 +43,3 @@ Nauczyciele K-12 i okręgi, które chcą kontroli klasowych i ugruntowania w pro
 ## Uwagi
 
 Dostęp do kreatora jest ograniczony: strona startowa prosi o adres e-mail i miejsce w warsztacie wdrożeniowym albo kod zaproszenia. Twierdzenia o zgodności (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), obietnica, że praca nigdy nie trenuje zewnętrznych modeli, oraz przypisanie praw do wyników twórcy należą do umowy powierzenia przetwarzania danych, a nie tylko do strony marketingowej; porównanie możliwości z MagicSchool i głównymi czatbotami jest własnym materiałem Playlab z połowy 2026. Platforma wyrosła z pracy nad programowaniem dla użytkowników końcowych związanej ze Scratchem i MIT Media Lab.
-
-## Powiązane pojęcia
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

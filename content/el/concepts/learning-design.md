@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -125,72 +127,3 @@ ai_assist:
 - **«Ο σχεδιασμός μαθημάτων με ΤΝ επιστρέφει χρόνο στους εκπαιδευτικούς.»** Ο χρόνος σχεδιασμού έπεσε όντως, από 3,32 ώρες την εβδομάδα σε 2,51 με το εργαλείο, αλλά **ο διάμεσος εκπαιδευτικός σχεδίαζε από το μηδέν μόνο το 21% έως 40% των μαθημάτων**. Ο χρόνος εξοικονομήθηκε και ο σχεδιασμός δεν έγινε ουσιαστικά πιο ενδελεχής· η εξοικονόμηση συσσωρεύτηκε αντί να επανεπενδυθεί.
 - **«Η συν-σχεδίαση με ΤΝ είναι καλά τεκμηριωμένη.»** Μια συστηματική ανασκόπηση της [[wang-teacher-ai-co-design-review-2026|συν-σχεδίασης μαθησιακών εργασιών από εκπαιδευτικούς και ΤΝ]] **επιβεβαιώνει το μοτίβο σε κλίμακα σε 28 μελέτες**, το οποίο περιγράφει μια σταθερή πρακτική και δεν καταδεικνύει ανώτερα αποτελέσματα.
 - **«Η ρουμπρίκα είναι σταθερή είσοδος.»** Η ρουμπρίκα λειτουργεί ως **διαμεσολαβητική διεπαφή ανάμεσα στην ανθρώπινη παιδαγωγική πρόθεση και στη μηχανική συμπερασματολογία**: το να αντιμετωπίζονται τα κριτήρια αξιολόγησης ως **αναθεωρήσιμα** είναι αυτό που επιτρέπει στο όργανο να φέρει την πρόθεση του εκπαιδευτικού. Μια σταθερή ρουμπρίκα μεταφέρει το προεπιλεγμένο πλαίσιο της μηχανής στην αξιολόγηση.
-
-## Συνδεδεμένες έννοιες
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — Παιδαγωγικές εταιρικές σχέσεις
-- [[online-teaching-and-learning]] — Διαδικτυακή διδασκαλία και μάθηση
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — Ομπρέλα: παιδαγωγικές και διδακτικές στρατηγικές στην εκπαίδευση με ΤΝ
-- [[stakeholders]] — Ομπρέλα: άνθρωποι και κοινά στην εκπαίδευση με ΤΝ (μαθητές, εκπαιδευτικοί, σχεδιαστές, διοικητές, χαράκτες πολιτικής)
-
-## Συνδεδεμένα άρθρα
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Μια μετρημένη εξοικονόμηση χρόνου σχεδιασμού δίπλα στο εύρημα ότι οι εκπαιδευτικοί σχεδιάζουν από το μηδέν μόνο το 21% έως 40% των μαθημάτων
-- [[powerful-learning-with-emerging-technology-2025]] — Ισχυρή μάθηση με αναδυόμενη τεχνολογία
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Αναλυτικά μάθησης και γενετική ΤΝ στη λήψη σχεδιαστικών αποφάσεων για τη μάθηση
-- [[tang-chatbots-learning-design-2026]] — Χρήση chatbot στον σχεδιασμό μάθησης: οι σχεδιαστές εμμένουν στα αποτελέσματα και στην παιδαγωγική και όχι στην παραγωγή περιεχομένου (Tang και συν. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Μοτίβα αλληλεπίδρασης εκπαιδευτικού και ΤΝ στον σχεδιασμό μαθημάτων ανά εμπειρία και επάρκεια στην ΤΝ (Choi και συν. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — ΤΝ στην τριτοβάθμια εκπαίδευση: ενασχόληση και διαμεσολαβητικός ρόλος των διδακτικών μεθόδων
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Ταξονομία (οριακό αντικείμενο) για την ταξινόμηση μαθησιακών δραστηριοτήτων με γενετική ΤΝ
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Πράκτορες ιστού με ΤΝ: ένας αυτόνομος πράκτορας αξιολογεί σχέδια μαθημάτων και προβλέπει την εγκατάλειψη των μαθητών πριν εμπλακούν (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: ένα πλαίσιο για γνωστικά ενεργοποιημένη ενίσχυση με ΤΝ στη φυσική
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Σχεδιασμός για εμβέλεια: επτά μοχλοί και ο μαθητής μόνος με την ΤΝ
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Όταν το «όχι» φτιάχνει καλύτερα βίντεο: διπλή πύλη για παιδαγωγικά θεμελιωμένη παραγωγή περιεχομένου με ΤΝ
-- [[rhaimi-productivemath-2025]] — ProductiveMath: ΤΝ για την υποστήριξη του σχεδιασμού προβλημάτων παραγωγικής αποτυχίας
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — ΤΝ και πρακτική σχεδιασμού διδασκαλίας: μια συστηματική ανασκόπηση (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Έξυπνη διδασκαλία βασισμένη σε γράφημα για δυναμικούς τομείς (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Κάνοντας την ΤΝ ενοχλητική επίτηδες: ο περιορισμός στη γραφή με υποστήριξη ΤΝ (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Μοντέλο έξυπνης τάξης και βρόχος D-T-E για τη βελτίωση της επάρκειας σχεδιασμού διδασκαλίας σε μεταπτυχιακό μαθηματικών (Zhu και συν. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Πλατφόρμα με ΤΝ που παράγει προβλήματα μαθηματικής μοντελοποίησης (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Συν-σχεδίαση μαθησιακών εργασιών από εκπαιδευτικούς και ΤΝ: τάσεις και προοπτικές (Wang και συν. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Αρχιτεκτονική ρόλων σε διαφοροποιημένες ομαδικές δραστηριότητες σχεδιασμένες με ΤΝ (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Τα LLM ως πράκτορες επαναληπτικού παιδαγωγικού σχεδιασμού
-- [[zeivots-postdigital-co-design-genai-2025]] — Η γενετική ΤΝ ως αναξιόπιστος συνεργάτης στη συν-σχεδίαση
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Τριών επιπέδων μετα-ανάλυση: ο σχεδιασμός ρυθμίζει την επίδραση (g = 0.92 κατευθυνόμενη έναντι 0.34 αυτόνομης χρήσης) (Zhang και συν. 2026)
-- [[williams-coding-curriculum-critique-2026]] — Κωδικοποιώντας το πρόγραμμα σπουδών: κριτική των πέντε φάσεων του ADDIE και των συνθηκών χρήσης που παραλείπουν (Williams & Prishtina 2026)
-- [[chng-ai-instructional-design-2023]] — Πώς η ΤΝ διαμορφώνει τον ρόλο του σχεδιαστή διδασκαλίας (Ch'ng 2023)

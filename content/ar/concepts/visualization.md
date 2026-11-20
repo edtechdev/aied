@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,25 +70,3 @@ ai_assist:
 - **"تصوّرات بصرية أفضل تُنتج نتائج أفضل."** **فضّل المعلّمون منهجيًا تصوّرات أبسط وأكثر تقليدية** (مخططات الأعمدة، والمخططات الدائرية، ومفاتيح الرموز) **حتى حين أنتجت تصاميم معقدة كالخرائط الحرارية رؤى أكثر تفصيلًا**. فالأثر الأكثر إفادة لم يكن الذي استُخدم، أي أن التبنّي مشكلة منفصلة عن جودة التصميم.
 - **"الطلاب ينظرون حيث توجد السقالة."** وجدت إحدى الدراسات أن الطلاب **أنفقوا معظم نظراتهم على الشيفرة رغم السقالات البصرية المفصّلة** — فالمعينات ببساطة لم تجتذب الانتباه. والدعم البصري الحاضر غير الملاحَظ لا يغيّر شيئًا.
 - **"الانخراط والفهم يتحرّكان معًا."** وجد المشاركون أن القصص المصوّرة للبيانات المولَّدة بالذكاء الاصطناعي **أكثر جذبًا وأسهل فهمًا، لكن كثيرين منهم أشاروا أيضًا إلى خطر التضليل والإفراط في المعلومات**. فكلا التفاعلين جاء من الأثر نفسه، لذا فالقبول الإيجابي ليس قراءة مُتحقَّقًا منها.
-
-## المفاهيم المتصلة
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — التمثيل المكاني وثلاثي الأبعاد
-
-## المقالات المتصلة
-
-- [[interactive-learning-dashboards-engagement]] — إعادة التفكير في مرئيات التعلّم بوصفها أدوات اندماج عبر العوامل التربوية
-- [[mllm-scientific-visualization-literacy]] — تقييم النماذج اللغوية الكبيرة متعددة الوسائط لثقافة التصوير البصري العلمي
-- [[nuclear-diffusion-text-to-image-learning-2026]] — نماذج من النص إلى الصورة مُكيَّفة بالمجال لتصوير المفاهيم النووية
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — الفعالية والفوائد وأخلاقيات القصص المصوّرة للبيانات المُساعَدة بالذكاء الاصطناعي
-- [[cfes-p24-multimodal-slide-auditing-2026]] — معيار مضاد للواقع لتدقيق الشرائح متعدد الوسائط
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — جعل نتائج تعلّم الآلة في متناول المدرّسين في الصفوف المُدمجة
-- [[genai-visualization-education-framework-2026]] — بناء المعنى لا الرسوم فحسب: إطار معرفي-تعليمي لاستخدام الذكاء الاصطناعي التوليدي في تعليم التصوير البصري

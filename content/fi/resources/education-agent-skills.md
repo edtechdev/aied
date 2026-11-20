@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -41,7 +42,3 @@ Projektin erottava väite on sen perustuminen näyttöön: taidot viittaavat sii
 ## Huomioita ja varauksia
 
 Koulutustaidot, dokumentaatio ja opetussuunnitelmamateriaalit on lisensoitu CC BY-SA 4.0 -lisenssillä, joten uudelleenkäyttö ja mukauttaminen ovat avoimia, mutta johdannaisten on kannettava sama lisenssi. Kaksi toiminnallista yksityiskohtaa on merkityksellinen, jos otat sen käyttöön. Isännöity MCP-päätepiste vaatii tokeneita eikä ole avoin kaikille, ja koska palvelin tarjoaa committoidun tilannevedoksen eikä SKILL.md-tiedostoja, taito, jonka lisäät rakentamatta ja committoimatta nippua uudelleen, ei ilmesty live-palvelimelle edes uudelleenkäyttöönoton jälkeen. Kirjaston on rakentanut Gareth Manning, kasvattaja ja opetussuunnittelija, ja lisenssiehdot koskevat nimenomaan koulutussisältöä.
-
-## Liittyvät käsitteet
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

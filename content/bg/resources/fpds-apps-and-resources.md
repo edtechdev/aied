@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -48,7 +49,3 @@ ai_assist:
 ## Бележки и предупреждения
 
 Четенето не изисква акаунт, а курсовете в Canvas и контролните списъци, към които води, са публични. Коучовете в Playlab и Gemini Gems и тетрадките са услуги на трети страни, които наистина изискват такъв. Картите се изчертават от `apps.json`, така че пълният списък изисква JavaScript, а резервният вариант без скриптове изброява осем от петнадесетте; кратката връзка `tinyurl.com/fpdapps` и QR код в заглавието го отварят на телефон. Репозиторият е софтуер под лиценз MIT, докато ръководствата, към които води, носят собствени лицензи, включително книгата в Pressbooks под нетърговски лиценз Creative Commons. Няма график за публикуване, така че страницата се променя без предизвестие.
-
-## Свързани понятия
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

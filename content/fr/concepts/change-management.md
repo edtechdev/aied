@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -84,35 +86,3 @@ La conduite du changement est le complément institutionnel de l'intégration au
 - **« L'intention stratégique crée la capacité. »** Seuls **7 % des établissements** ont créé des postes de direction senior en IA alors que **49 % considèrent l'IA comme une priorité stratégique**. L'écart est entre la déclaration et la structure, et c'est l'échec récurrent de la conduite du changement en IA.
 - **« Adopter un outil d'IA est un événement. »** **La durabilité est une propriété de l'organisation, non de l'outil** — l'essai de messagerie textuelle de la CSUN illustre l'échelle de temps. L'évaluation a duré quatre ans parce que la durabilité était ce qu'il fallait tester.
 - **« Les établissements doivent réagir plus vite, pas anticiper. »** Le **leadership anticipatoire** est le fil complémentaire : la [[baroudi-anticipatory-governance-ai-higher-ed-2026|revue de cadrage]] constate que les établissements doivent passer d'une gouvernance **réactive à une gouvernance fondée sur la prospective**. Réagir avec compétence à une technologie déjà arrivée est précisément ce que les preuves documentent comme un échec.
-
-## Concepts liés
-
-- [[governance]] — les structures de politique et de supervision que la conduite du changement opérationnalise
-- [[educational-policy-ai]] — l'intention de politique d'IA nationale et institutionnelle que la conduite du changement doit traduire en pratique
-- [[educational-development]] — bâtir la capacité et l'orientation pédagogiques du corps enseignant pour l'intégration de l'IA
-- [[administrator]] — le leadership et la gouvernance anticipatrice comme agents du changement
-- [[ai-literacy]] — la capacité transversale qui sous-tend une adoption institutionnelle responsable
-- [[equity-in-ai-education]] — faire en sorte que les bénéfices du changement se répartissent également entre établissements et apprenants
-- [[technology-acceptance-model]] — les moteurs de l'adoption qui expliquent comment le changement se diffuse
-- [[academic-integrity]] — l'ancrage réglementaire central autour duquel s'organise la réforme de l'évaluation
-- [[student-support-and-success]] — faire durer un programme de soutien au-delà du pilote
-
-## Articles liés
-
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 enseignants en design : l'usage de l'IA générative augmente à la fois l'auto-efficacité et l'anxiété liée à l'IA, et le soutien organisationnel décide quelle trajectoire domine (Ding et coll., 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Faire durer un soutien aux étudiants permis par l'IA : étude de mise en œuvre et d'impact sur quatre ans d'un chatbot institutionnel (Mata, Russell et Page 2026)
-- [[institutional-change-framework-ai]] — cadre à six dimensions pour adapter les modèles de changement institutionnel à l'IA comme technologie d'arrivée
-- [[leveraging-complex-systems-leading-for-transformative-change]] — cadre SPARK et leadership de la complexité pour un changement transformateur
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — consensus Delphi mondial sur une gouvernance de l'IA générative en huit domaines
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — examen de cadrage de la gouvernance anticipatrice et du leadership
-- [[ai-adaptation-gap-higher-education-2026]] — écarts entre parties prenantes dans l'usage de l'IA, les attitudes et la confiance chez les étudiants, le corps enseignant et le personnel
-- [[ai-uk-higher-education-policy-2026]] — intention politique nationale contre capacité institutionnelle dans l'enseignement supérieur britannique
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — moteurs organisationnels et technologiques de l'adoption de l'IA
-- [[adarkwah-genai-unesco-policy-2026]] — analyse du cadre UNESCO appliquée aux politiques institutionnelles d'IA générative
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformation numérique d'une université de lettres vers un modèle axé sur la recherche à l'ère de l'IA générative (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Des médiateurs numériques traduisant la stratégie institutionnelle d'IA en pratique ancrée dans le réel, sous la rareté des infrastructures
-- [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — travail de terrain intersystèmes sur la manière dont la mise en œuvre et les actions des enseignants décident de l'utilité d'un produit d'IA
-- [[dot-framework-survey-2026]] — données d'enquête montrant que le développement professionnel doit couvrir un cycle de conception complet plutôt que le seul usage des outils
-- [[flipped-classroom-ai-assessment-math-2026]] — Un arc de diffusion sur une décennie, de l'initiative individuelle au financement central en mathématiques de premier cycle (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Budgéter 15 à 20 heures de refonte par cours intégrant l'IA avant tout ajustement continu

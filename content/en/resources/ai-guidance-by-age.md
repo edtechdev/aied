@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 Most AI guidance for education is written for one age or one role, and quietly assumes a generic learner. This does the opposite: it fixes an age band and a developmental capacity, then reasons about that specific pairing. The premise is that the same tool meets a very different mind at five, fifteen and thirty-five, so advice that ignores which capacity is still forming is advice about the tool rather than about the learner.
@@ -43,11 +44,3 @@ The guidance is explicit about its own status. Its authors call the entries hypo
 Two further limits matter for teaching. The recommendations are design prompts, not tested interventions; nothing on the site reports an outcome. And the age-band structure imposes a coarse grid on development that varies within bands, across cultures and across contexts, which the guide itself acknowledges.
 
 The framing worth carrying into practice is the site's own: keep the loop human, then work out where AI fits inside it, rather than putting a human checkpoint inside a loop that belongs to the machine. That is the same concern the research records as [[cognitive-offloading|offloading]] risk when a tool takes over the part of the task that was doing the developmental work.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

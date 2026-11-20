@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -96,37 +98,3 @@ Verimli başarısızlık [[learning-theories]] (yapılandırmacılık), [[desira
 - **“Yardımı esirgemek öğrenenleri hüsrana uğratır ve motivasyona mal olur.”** Üç kollu bir [[rct|RCT]], ipucu esirgeyen bir öğretmenin **hüsranı azaltmada ve motivasyonda kısıtlanmamış ChatGPT ile eşleştiğini** bulmuştur; bedel **yalnızca tercihte** görünmüştür. Öğrenenler ondan o kadar hoşlanmamış, ama bundan zarar da görmemiştir; bu da tercih verisinin işleyen tasarımı reddetmiş olacağı anlamına gelir.
 - **“Daha fazla hüsran, daha fazla öğrenme demektir.”** Kademelendiren öğretmen, istek üzerine cevap veren öğretmenden **0,42 ölçek puanı daha hüsran vericiydi (p < ,001) ve en hüsran verici koldan 0,29 daha az hüsran vericiydi**. Verimli aralık bir üst sınır değil bir ortadır; dolayısıyla “arzu edilen güçlük”, görevi sürekli zorlaştırmayı meşrulaştırmaz.
 - **“Verimli başarısızlık, öğretmenlerin yardım etmemesi gerektiği anlamına gelir.”** Tasarım *yanıtı* esirgerken yapı ve kademelendirme sunar. Bir ipucunu esirgemek ile desteği esirgemek farklı müdahalelerdir ve buradaki kanıta sahip olan yalnızca birincisidir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Aynı sıranın tamamı olarak öğretimden önce deneme, ince kanıt temeliyle
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — İlk deneme için paylaşılan problem alanı olarak vakalar
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Bağlı makaleler
-
-- [[kim-ai-productive-failure-adult-2026]] — Verimli Başarısızlığa Dayalı Öğrenmeyi Destekleyen YZ Sistemlerinin Tasarımı
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Verimli Başarısızlık için LLM’lerin Pedagojik Yönlendirilmesi
-- [[rhaimi-productivemath-2025]] — ProductiveMath: VB Problem Tasarımını Destekleyen YZ
-- [[wang-safety-gap-productive-struggle-2026]] — Güvenlik Boşluğu: Verimli Uğraşın Yeniden Kurulması
-- [[lukesova-clue-before-correction-2026]] — Düzeltmeden Önce İpucu: Özerk Öğrenme için ChatGPT
-- [[pedagogy-ai-mistakes]] — YZ Hatalarının Pedagojisi
-
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Çözümleri esirgemek hüsran bedelinden kaçındı ama öğrenci tercihinde kaybetti

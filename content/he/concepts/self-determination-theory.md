@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -46,13 +48,11 @@ SDT משמשת יותר ויותר במחקר ב[[research-methods-aied|בינה
 
 **SDT במעורבות למידה בתיווך בינה מלאכותית** בוחנת כיצד כלי [[generative-ai|בינה מלאכותית יוצרת]] מעצבים מוטיבציה של סטודנטים. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** שילבו SDT עם [[network-analysis|ניתוח רשת אפיסטימי]] כדי לחקור את מעורבותם של סטודנטים עם בינה מלאכותית יוצרת בלמידה אקדמית. **[[ai-availability-student-motivation]]** חוקר כיצד זמינות בינה מלאכותית משפיעה על מוטיבציה והתמדה של סטודנטים, ומתחבר לדאגות של [[cognitive-offloading|הסתמכות יתר]] על שחיקת מוטיבציה. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** מרחיבים SDT ללמידת AI עם ניתוח מעבר לאטנטי של **2,086 סטודנטים תיכון** בתכנית לימודים שנתית ל[[curriculum-design|AI]], ומזהים **שלוש פרופיליות מוטיבציוניות (לא-מעורבים, מתפתחים, בעלי הכרעה עצמית)** שהיו יציבות לאורך זמן ומראים שרוב הסטודנטים שמרו על פרופיל או עלו לפרופיל גבוהה יותר. באופן מכריע, סטודנטים שהגיעו לפרופיל בעל ההכרעה העצמית או נשארו בו הראו את **רווחי [[ai-literacy|אוריינות ה-AI]] הגדולים ביותר** — ראיה אורכית ישירה לכך שסיפוק אוטונומיה, מיומנות וקרבה מנבא תוצאות טובות יותר בלמידת AI, ושהמוטיבציה היא תכונת לומד התפתחותית (לא קבועה).
 
-
 תוצאה מכיתות מנוגדת מראה שהצרכים אינם נעים יחד: מבין 2,464 סטודנטים בחטיבה הנמוכה, למידה מבוססת-מיומנות בתמיכת ChatGPT הגבירה את התמיכה באוטונומיה ואת סיפוק המיומנות אך ייצרה חלק גדול יותר של פרופיליות מוטיבציוניות באיכות נמוכה, וסיפוק הקרבה היה חלש יותר מאשר בלמידה מבוססת-מיומנות ללא AI ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
 - **זמינות אינה שימוש.** עם 406 סטודנטים בכיתות ה'–ח' שכתבו פעמיים, פעם בלי כלים דיגיטליים ופעם עם GenAI אופציונלי, סיפוק האוטונומיה ירד (Δ = −0.28) בעוד הויסות הממוצע נשאר יציב ומידת השימוש ב-AI לא ניבאה השתייכות לפרופיל ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
 
 אוטונומיה, ולא נוחות, נשאה את הרווח המוטיבציוני כאן. ניסוי [[rct|אקראי]] בשלוש זרועות מצא שחונך שמעכב רמזים, ששמר על הלומדים בונים את הפתרון בעצמם, היה הזרוע היחידה שהעלתה מוטיבציה פנימית (2.82 לעומת 2.42), בעוד ש-ChatGPT בלתי-מוגבל, שמספק את התשובה, לא עשה זאת (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
-
 
 מבחן קונפיגורציוני מחדד את הנקודה: מבין 498 סטודנטים לרפואה, שימוש ב-GAI היה קשור רק בחולשה לסיפוק צרכים (β = 0.155) והתברו כבלתי-נחוצים למעורבות גבוהה, בעוד שסיפוק צורך המיומנות היה התנאי המרכזי בקונפיגורציה החזקה ביותר ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
@@ -61,7 +61,6 @@ SDT משמשת יותר ויותר במחקר ב[[research-methods-aied|בינה
 - **ChatGPT וצרכי SDT בלמידת שפות:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] השתמשו בעדשה של SDT עם 25 סטודנטים אוניברסיטה מלזיים, ומצאו ש-ChatGPT תומך באוטונומיה, קרבה ומיומנות ב[[language-learning|למידת אנגלית]] — מגביר דקדוק, כתיבה ומשימות שיחה, תוך מתן אפשרות ל[[teacher-role|מחנכים]] להתמקד בהכשרה ברמה גבוהה יותר.
 
 **SDT מיושמת על הפרקטיקה הבת-ייווץ של המרצים עצמם.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] השתמשו ב-SDT כעדשה פרשנית על כיצד מרצים משלבים [[learning-analytics|אנליטיקת למידה]] ובינה מלאכותית יוצרת ב[[learning-design|עיצוב למידה]] — ומצאו שתמיכה בצרכים הבסיסיים של המרצים (אוטונומיה, מיומנות, קרבה) מטפחת את [[problem-solving|פתרון הבעיות]] היצירתי שעיצובם דורש. בניתוח ה-ENA שלהם, שימוש ב-GenAI היה מקושר לעיצוב למען הכרעה עצמית של הסטודנטים (למשל, יצירה משותפת של מנגנוני הערכה עם הסטודנטים), ובכך מרחיבים SDT מהלומדים למחנכים הבונים סביבות מבוססות-AI תומכות-צרכים.
-
 
 עבור המורים עצמם, שיתוף פעולה עם בינה מלאכותית פועל בשני כיוונים: מחקר בשלוש גלים על 468 מורים באוניברסיטה מצא שהיא הגבירה את מעורבות העבודה באמצעות זמינות פסיכולוגית והפחיתה אותה באמצעות ניכור מעבודה, ו[[teacher-ai-competency|מיומנות דיגיטלית]] חיזקה את המסלול הראשון והחלישה את השני ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
@@ -80,37 +79,3 @@ SDT מתחברת ישירות ל[[motivation|מוטיבציה]] כבניית-ה�
 - **"סוג המוטיבציה חשוב פחות מכמות המוטיבציה."** מחקר בן שנה מצא **שלושה פרופילים מוטיבציוניים — לא-מעורבים, מתפתחים, בעלי הכרעה עצמית — יציבים לאורך זמן**, וסטודנטים שהגיעו לפרופיל **בעל ההכרעה העצמית** הראו את **רווחי ה[[ai-literacy|אוריינות AI]] הגדולים ביותר**. איכות המוטיבציה ניבאה את הלמידה, והפרופילים לא פשוט נסחפו כלפי מעלה.
 - **"תמיכה באוטונומיה פירושה הסרת מבנה."** המנגנון של SDT הוא אוטונומיה, מיומנות וקרבה יחד, והראיה האורכית מראה שסיפוקם ניבא רווחים ולא רק ליווה אותם. אוטונומיה בלי תמיכת מיומנות היא מתירנות, והיא אינה מספקת את תנאי התיאוריה.
 - **"[[conversational-ai|צ'אטבוט]] יכול לספק את שלושת הצרכים אוטומטית."** מחקר מצא ש-ChatGPT יכול לתמוך באוטונומיה, בקרבה ובמיומנות בלמידת שפות — אפשרות, לא תכונה. האם אינטראקציה נתונה תומכת בהם היא שאלה אמפירית על אופן השימוש בה.
-
-## מושגים מקושרים
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## מאמרים מקושרים
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — עיכוב רמזים שימר אוטונומיה במקום שבו מתן תשובות לא עשה זאת
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — זמינות AI, ירידת אוטונומיה ופרופילים מוטיבציוניים בכיתות ה'–ח' (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 מחקרים שקודדו מול סיווג של 20 פעילויות; מיומנות מתורגלת ביותר, קרבה פחות מכול

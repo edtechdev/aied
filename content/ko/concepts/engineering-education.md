@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -55,7 +57,6 @@ ai_assist:
 
 - **밀려날 때의 피드백 신뢰성을 정하는 것은 프롬프트가 아니라 모델 선택입니다.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]]은 검증된 2차원 트러스 문제 200개를 만들고 열세 모델을 세 가지 자세에 통과시켰습니다. 풀기, 학생이 틀렸다고 주장하는 정답을 확인하기, 그리고 주입된 오류 찾기입니다. 풀이 정확도는 64.5%에서 97.0%까지였고 모든 모델이 주입된 오류의 최소 90.4%를 잡아냈으므로, 둘 다 모델을 가르지 못했습니다. 가른 것은 밀어붙임에 대한 저항이었고, 46.5%에서 98.5%까지 걸쳤습니다. 정역학 강좌에서 튜터링의 위험은 틀린 최종 답이 아니라, 학생이 올바른 작업을 잘못 의심할 때 모델이 동의해 버리는 것이며, 저자들은 신뢰성이 유료 등급을 따른다면 학생이 받는 피드백이 기관이 라이선스할 수 있는 것에 따라 달라질 것이라고 지적합니다.
 
-
 ## 특징적 우려
 
 공학 교육의 특징적 우려들은 AI가 어떻게 수용되는지를 형성합니다. **실습과 실험실 학습**(AI가 실천을 시뮬레이션할 때 무엇이 잃히는지), **전문적 형성**(윤리적 책임, 안전, 사회적 영향), **설계와 문제 해결**(AI가 얼마나 많은 인지 작업을 해야 하는지), 그리고 **노동력을 위한 역량 기반의 준비**입니다. 이것들은 공학 교육을 AI가 전문적 전문성에 필수적인 인지 작업을 보강하는지 대체하는지를 연구하는 풍부한 장소로 만듭니다 — [[physics-education]], [[math-education]], [[cs-education]]의 논쟁들과 평행하게.
@@ -84,39 +85,3 @@ ai_assist:
 - **"공학 학생들의 AI 수용은 기술 수용 문제다."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]]는 TAM을 [[technology-acceptance-model|UTAUT]]와 통합하여 방글라데시 공학 학생들의 수용을 모형화했고 **분산의 64%를 설명**했습니다. 따라서 상당 부분은 수용 구성개념 밖에, 모델이 다루지 않는 사회적·인지적 요인에 놓입니다.
 - **"학생들은 AI를 가장 잘하는 일에 사용한다."** [[ai-engineering-education-balancing-act|Kudina (2026)]]는 **공학 학생 100명**이 LLM을 **글쓰기 지원**에서 가장 가치 있게 여겼으며 공학적 추론에서는 그렇지 않았음을 발견했습니다. 도구에 대한 그들의 은유는 도구가 실제로 제공한 것보다 컸고, 실제 사용은 역량이 아니라 편의를 따랐습니다.
 - **"더 풍부한 도구 스택이 설계 결과를 개선한다."** **학생 27명**의 건축 설계 스튜디오에서 생성형 AI와 [[virtual-and-augmented-reality|XR]] 파이프라인을 사용한 팀은 **개선된 산출물 없이 효능감이 낮아진** 모습을 보였습니다. 도구의 풍부함은 산출물을 그대로 둔 채 자신감을 앗아갈 수 있습니다.
-
-## 연결된 개념
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## 연결된 문서
-- [[mechanical-engineering-ai-curriculum-2026]] — 열공학에서의 프로젝트 기반 AI 교육 교육과정
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 공학 교수자들의 비유가 AI 이해를 구성하고(제약)한다
-- [[tam-critical-use-genai-engineering-2026]] — 공학/CS 학생들을 위한 비판적 사용이 더해진 확장 TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 공학 교육을 위한 통합된 사회인지 모형(방글라데시)
-- [[ethical-use-ai-engineering-education-review-2026]] — 공학 교육에서의 AI의 윤리적 사용: 체계적 검토
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 구술 설명에서 구현된 인지를 위한 다중양식 프레임워크
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI와 공학 및 전산 노동력의 미래
-- [[ai-engineering-education-balancing-act]] — 공학 교육에서 AI 사용하기: 균형 잡기
-- [[structured-ai-demonstrations-engineering-mechanics]] — 공학 역학에서의 구조화된 AI 시연
-- [[isaza-chatgpt-engineering-prompting-2026]] — 공학 교육에서의 ChatGPT
-- [[liu-ai-sustainable-engineering-education-2026]] — 지속가능한 공학 교육을 위한 AI-SEE 프레임워크 (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — 협력적 건축 설계 교육에서의 생성형 AI와 확장 현실: 탐색적 스튜디오 연구
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — 정역학 벤치마크: 풀이와 오류 탐지는 포화되지만 밀어붙임 저항은 그렇지 않다
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 의도가 아니라 습관이 학생의 사람 대상 도움 요청 감소를 예측한다: 49.6%가 인간 대상 도움 요청 감소를 보고, 습관의 β 0.711 대 의도 0.039
-

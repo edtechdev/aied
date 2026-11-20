@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -78,38 +80,3 @@ Utulivu wa kipengele kwa kila mwendo ulishikilia 79.0%–85.4% ya uthabiti, wast
 - **"Nafasi kwenye orodha ya viongozi inakuambia mfunzi ni mzuri kiasi gani."** StudentBench **hugawa kwa nasibu watu wazima 2,383 kati ya ufundishaji wa AI, ufundishaji wa binadamu mtaalamu na hali ya video** na hupima dhidi ya wakufunzi wa binadamu badala ya dhidi ya mifumo mingine. Kigezo kilichopimwa kwa mifano mingine hujibu swali ambalo hakuna aliyelihitaji.
 - **"Watu wa kuiga ni msingi wa kutosha wa tathmini ya mfunzi."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] huweka tathmini kwenye **fasihi ya kesi zilizoandikwa badala ya watu wa kuiga**, kikitumia **mazungumzo 923**. Watu wa kuiga wa wanafunzi waliotungwa huruhusu mfumo kupita kesi ambazo hazitokei.
 - **"Vigezo vya kupima vinaweza kuaminiwa bila kukagua mwamuzi."** Utungaji wa vitu visivyokuwepo ulipimwa kama **umakinifu dhidi ya vipande vilivyorejeshwa vya leseni huria (κ = 0.76 na hukumu ya mtaalamu)**: mwamuzi alithibitishwa dhidi ya wataalamu kabla alama zake kutumika. Mwamuzi otomatiki asiyethibitishwa huzalisha namba zenye maana isiyojulikana.
-
-## Dhana Zilizounganishwa
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Makala Zilizounganishwa
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: kutathmini wakufunzi wa LLM kwa wanafunzi wenye tabia zenye changamoto (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — Kigezo cha 624 vipengele cha ufasaha wa Kiingereza kinachoripoti uwezo wa mfano kama kiwango kilichosahihishwa (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Je, vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Kigezo cha Mbinu za Kufundisha: maarifa ya kieledu ya LLM (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: kupima mawakala wa ubini wa mafunzo wanaotegemea LLM
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Msaidizi wa maarifa ya AI wa OER wa ndani ya kampasi: kigezo ya vipimo vingi
-- [[authentic-products-authenticated-processes-2026]] — Kutoka bidhaa halisi hadi michakato iliyothibitishwa: tathmini halisi katika elimu ya juu yenye AI nyingi
-- [[llm-cognitive-diagnosis-handwritten-math]] — Kupima Mifano Mikubwa ya Lugha kwa Uchunguzi wa Ujuzi wa Kiakili wa Wanafunzi kutoka Kazi za Hisabati za Mkono
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Kigezo cha Muda Mrefu cha Mawakala wa Kibeledu wa LLM wenye Wanafunzi wa Kuigwa
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye Uwajibikisho katika Nyakati za AI: Ufahamu Muhimu kutoka Mkutano unaozingatia Mustakabali
-- [[anvil-ai-educational-animations]] — ANVIL: Mifano na Video kwa Waalimu
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Kuunda Mifano ya Vipimo Vya Kina kwa Kupima Karatasi kwa Jumla
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Kupima MLLMs kwa Ukaguzi wa Slaidi
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: kigezo kwa kutathmini michoro ya hisabati iliyotolewa
-- [[eeg-familiarity-automated-assessment-2026]] — Uendeshaji Otomatiki wa Tathmini ya Mwanafunzi: Utabiri wa Ufahamu Unaotegemea EEG
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Uzazishaji Ulioimarishwa kwa Upatikanaji kwa Elimu ya Sayansi ya Kompyuta ya Kinadharia — Mfumo wa Tathmini ya Kina kwa Uchanganuzi wa Algoriti na Nadharia ya Ugumu
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: ujenzi wa kigezo unaozalisha kazi, linalozaliwa kwanza kwa lebo, na kutokuwajibika kwa kiwango cha vipimo kati ya kazi 12 za michoro ya kisanii (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ualumi wa AI na wa binadamu hutoa faida za kujifunza za GRE zinazolingana
-- [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano yaliyofunzwa mapema kwa tathmini ya kieledu ya maswali mapya ya kieledu yanayosaidiwa na AI
-- [[llm-benchmark-secondary-science-topics-2026]] — Kigezo kwa Ufahamu wa LLM wa Mada za Sayansi za Shule ya Kati na Sekondari
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Kanuni nane za ubini kwa vigezo vya mwalimu wa AI, zilizotokana na kipimo kilichoboreshwa hadi kurudiwa (Domínguez Figaredo & Fernández De la Cruz 2026)

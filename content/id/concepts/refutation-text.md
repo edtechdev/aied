@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -75,23 +77,3 @@ Bagi pendidik, teks refutasi tetap cara yang andal dan berhambatan rendah untuk 
 **"Lebih banyak informasi tentang konsepsi yang benar memperbaiki penolakan itu."** Volume informasi yang benar adalah intervensi yang sudah gagal. Perubahan konseptual menuntut model yang ada pada pembelajar dibuat eksplisit dan ditemukan tidak memadai, yang merupakan langkah instruksional berbeda dari menambahkan bukti.
 
 **"Miskonsepsi dan ketidaktahuan biasa membutuhkan obat yang sama."** Keduanya membutuhkan yang berbeda: ketidaktahuan ditangani dengan menyediakan pengetahuan, dan miskonsepsi harus digeser lebih dulu. Memperlakukan yang kedua sebagai yang pertama adalah sebabnya pelajaran yang dijelaskan dengan baik dapat meninggalkan model asli siswa tetap utuh.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Urutan refutasi, termasuk dua hasil yang saling bertentangan secara langsung
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Artikel terkait
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Dialog AI yang dipersonalisasi vs. refutasi buku teks untuk koreksi keyakinan
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Teks perubahan konseptual pakar/AI vs. dialog AI interaktif
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Miskonsepsi yang dihasilkan LLM untuk pembelajaran kolaboratif
-- [[chatgpt-inoculation-training-verification-2026]] — Pelatihan inokulasi sebagai intervensi bergaya refutasi yang berdekatan
-- [[critical-genai-use-predictors]] — Menganjurkan teks refutasi untuk menyasar miskonsepsi konseptual
-- [[ai-learning-companions-framework]] — Pendamping AI dan koreksi miskonsepsi

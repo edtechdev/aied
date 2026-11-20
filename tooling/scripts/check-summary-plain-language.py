@@ -99,6 +99,11 @@ def changed_slugs() -> list[str]:
         if len(parts) == 4 and parts[0] == 'content' and parts[1] == 'en' and parts[2] == 'articles' \
                 and p.endswith('.md'):
             out.append(os.path.basename(p)[:-3])
+    # A connected-list-only migration does not touch the summary/practice bullets this gate
+    # checks, so don't re-audit pages whose only change is that migration.
+    import connected_migration
+    skip = connected_migration.migration_only_set([f'content/en/articles/{s}.md' for s in out])
+    out = [s for s in out if f'content/en/articles/{s}.md' not in skip]
     return sorted(out)
 
 

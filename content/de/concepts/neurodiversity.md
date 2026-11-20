@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -94,35 +96,3 @@ Der Review von [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh und N
 - **„Forschung zu Neurodiversität ist eine Nische in der [[ai-education|AIED]].“** Das Feld hat sich **um [[generative-ai|generative KI]] neu organisiert — 15 der 40 Studien** —, mit immersiven Formaten an zweiter Stelle (11). Die Literatur bewegte sich mit der Technologie, statt sich um stabile Fragen zu sammeln.
 - **„Mehr KI bei Legasthenie bedeutet bessere Unterstützung.“** [[dabaghi-ai-dyslexia-education-review-2026|Der interdisziplinäre Review zu KI bei Legasthenie (Dabaghi, D'Urso und Sciarrone, 2026)]] umfasst **72 Studien aus 2018–2024** und findet KI über eine breite Spanne von Zwecken eingesetzt. Breite der Anwendung ist kein Beleg für Wirksamkeit in einem dieser Zwecke.
 - **„Anpassungen sind der richtige Rahmen für neurodivergente Lernende.“** [[neurodivergent-computing-students|Eine Befragung von 24 neurodivergenten Informatikstudierenden und 20 neurotypischen Peers]] mit vier Tiefeninterviews fand Bedürfnisse, die **allgemeine Designanforderungen** sind — strukturierte Aufgaben, kleine konsistente Teams, explizite Rollen —, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
-
-## Verbundene Konzepte
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[executive-function]]
-
-## Verbundene Artikel
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderung, und ein Effekt, der nach Kategorie differiert
-- [[adhd-video-segmentation-computing-education]] — Temporale Videosegmentierung, die ADHS-Teilnehmende auf Parity brachte
-- [[neurodivergent-computing-students]] — 24 neurodivergente Informatikstudierende zu Struktur, Mehrdeutigkeit und Zusammenarbeit
-- [[genai-reliance-executive-functioning-2026]] — Schwierigkeiten exekutiver Funktionen, wahrgenommene Nützlichkeit und der Weg zur KI-Abhängigkeit
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitives Offloading mit GenAI für Studierende mit Lernbehinderungen
-- [[dabaghi-ai-dyslexia-education-review-2026]] — KI, um Menschen mit Legasthenie in der Bildung zu helfen
-- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minorisierter Wissensformen
-- [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
-- [[ai-learning-tools-engineering-education-needs]] — Design von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detektorgetriebene Prozesse können legitime Anpassungsnutzung abschrecken
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Achtundzwanzig Studien zu KI für Studierende mit ADHS, mit ausdrücklich benannter Ethik

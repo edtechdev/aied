@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -42,9 +43,3 @@ Pro centrální a výzkumné IT, které dodává platformy a revizi; pro úřady
 ## Poznámky a upozornění
 
 Prohlašuje se za nezávislý osobní projekt, nikoli za institucionální politiku nebo právní radu; uvedené instituce se objevují proto, že publikovaly zprávy o své praxi, nikoli jako doporučení, a diskusní případy jsou složené. Jeho právní příklady jsou americké (FERPA, ADA Title II, GLBA) a u každého je uvedeno datum, i když průvodce tvrdí, že cesta, otázky, datové úrovně a přístupy na nich nezávisí. Stránka s důkazy odkazuje na každou studii, staví zisky u jednoho ohraničeného úkolu vedle zpomalení u zkušených správců na jejich vlastním kódu a přiznává, že data z pokusů pokrývají návrhy kódu, nikoli práci řízenou specifikací nebo multiagentní práci, takže argument pro větší strukturu stojí na praxi a logice souladu. Licence pro opětovné použití není uvedena. Sesterské weby [campusdatagov.com](https://campusdatagov.com/) a [campusairegistry.com](https://campusairegistry.com/) nesou části o správě dat a registru agentů, takže toto je dobrý vstup do práce na [[educational-policy-ai|vzdělávací politice AI]], ale ne její náhrada.
-
-## Související pojmy
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

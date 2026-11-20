@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -106,50 +108,3 @@ ai_assist:
 **「学生が近道のためにAIを使うのは道徳的な欠陥である。」** 最小労力への引力は、性格の問題ではなく設計とポリシーの問題である——学生はそれを自らの言葉で語っており、[[reducing-ai-misuse|誤用]]と[[academic-integrity|誠実性]]に関する文献は、その手立てを課題と環境の設計のうちに位置づけている。これを道徳的に捉える枠組みでは、同じ学生が2つの科目で異なる行動をとるのはなぜかについて、何も説明できない。
 
 **「不正行為の告発がなされたとき、証拠はそこにある。」** 事例ファイルが示すのは、それよりも弱い足場である。評価が最も低い証拠こそが引用され、事例を先へ進めるかどうかを決める証拠上の最低水準は存在せず、根拠の薄い事例は不服申立てに至る。学習者の利用のみを記録し、告発にさらされる側面を記録しないことは、経験の半分しか覆わないことになる。
-
-## 関連する概念
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — 学習者が AI をどう知覚し、相互作用し、影響されるか
-- [[learner-identity]] — 学習者が学問と AI に対して誰になりつつあるか
-- [[agency]] — 学習者が依然として統制し選択すること
-- [[student-ai-interaction]] — 学習者が実際に AI に何を求め、対話がどう進化するか
-- [[cognitive-offloading]] — 過度の依存と、思考の AI への代替
-- [[self-regulated-learning]] — 自分の学習を計画し、監視し、調整すること
-- [[help-seeking]] — うまく助けを求めること、そして学習者がそれをしないときの失敗モード
-- [[metacognition]] — 自分が何を理解し理解していないかを知ること
-- [[motivation]] — 学習者がなぜ続け、なぜ止めるか
-- [[self-efficacy]] — 学習者自身の能力への自信
-- [[student-engagement]] — 行動的、感情的、認知的関与
-- [[prior-knowledge]] — 支援が学習になるかどうかを決める背景知識
-- [[student-modeling]] — システムの内部に学習者を表現すること
-- [[knowledge-tracing]] — 時間を通じたスキル習得の推定
-- [[simulating-students]] — 暫定的な代役としての LLM でシミュレートされた学習者
-- [[ai-literacy]] — 学習者が AI をうまく使えるかどうかを決める能力
-- [[equity-in-ai-education]] — 誰が益を得て、誰が見捨てられるか
-- [[well-being]] — AI を介した学習の感情的コスト——不安、ストレス
-- [[misconceptions]] — 学習者が AI に持ち込むメンタルモデル
-- [[stakeholders]] — 同じ分野のもう一方の側——教師、指導者、設計者
-- [[assessment]] — どの学習者能力がつねに可視にされるか
-
-## 関連する記事
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — 依存パターンと評価リテラシーが学生の成果を分かつ
-- [[student-perceptions-ai-study-productivity-2026]] — 学習者が依存の懸念と並んで効率の利得を報告する
-- [[student-llm-interaction-taxonomy-review-2026]] — 学習志向の学生と LLM の相互作用の分類法
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生と AI のチャットにおける学科特有のパターン
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 独立的な能力を伴わない支援されたパフォーマンスの利得
-- [[genai-performance-vs-learning]] — なぜ支援されたパフォーマンスと支援なしの学習を切り離して測定しなければならないか
-- [[shaw-nave-cognitive-surrender-2026]] — 偶然ではなく性向としての認知的降伏
-- [[metacognitively-discordant-completion-genai-2026]] — 理解していないと気づきながら提出する学習者
-- [[verification-quality-reliance-calibration-genai-2026]] — 検証の質と依存の較正
-- [[simulating-students-llm-review-2026]] — シミュレートされた学生——アーキテクチャ、メカニズム、限界
-- [[stanbkt-bayesian-knowledge-tracing]] — ベイズ知識追跡におけるパラメータ推定
-- [[demographic-signals-llm-student-assessment-2026]] — LLM ベースの評価における暗黙的および明示的な人口統計的シグナル
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI リテラシー、関与、心理的資本
-- [[genai-student-experiences-uk-he-survey-2026]] — 学生が最小努力の引力を語る
-- [[mulisa-students-genai-integrity-perspectives-2026]] — 生成 AI が不正ツールか学習のパートナーかについての学生の見解
-- [[munoz-misconduct-allegation-evidence-2026]] — 不正申立てファイルが証拠として実際に含むもの
-- [[wright-transcription-not-generation-2026]] — 過度に広い AI 規則と、それが捕まえる学生たち
-- [[sharma-judgment-visible-genai-assessment-2026]] — コンプライアンスではなく評価的判断としての誠実性
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 学生にとっての遠隔監視の感情的・公平性上のコスト

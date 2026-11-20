@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -68,24 +70,3 @@ Attraverso i lavori discussi qui, la visualizzazione emerge come mezzo a duplice
 - **"Visualizzazioni migliori producono esiti migliori."** I docenti **preferivano sistematicamente visualizzazioni più semplici e tradizionali** (grafici a barre, grafici a torta, legende) **anche quando disegni complessi come le heatmap producevano intuizioni più dettagliate**. L'artefatto più informativo non era quello che veniva usato, quindi l'adozione è un problema separato dalla qualità del design.
 - **"Gli studenti guardano dove sta il supporto."** Uno studio ha trovato che gli studenti **spendevano la maggior parte dello sguardo sul codice nonostante supporti visivi elaborati** — gli aiuti semplicemente non catturavano l'attenzione. Un supporto visivo presente ma non osservato non cambia nulla.
 - **"Coinvolgimento e comprensione si muovono insieme."** I partecipanti trovavano i data comic generati dall'IA **più coinvolgenti e comprensibili, eppure molti segnalavano anche rischio di disinformazione e sovraccarico informativo**. Entrambe le reazioni venivano dallo stesso artefatto, quindi un'accoglienza positiva non è una lettura verificata.
-
-## Concetti collegati
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — rappresentazione spaziale e tridimensionale
-
-## Articoli collegati
-
-- [[interactive-learning-dashboards-engagement]] — Rethinking learning visualizations as engagement tools via pedagogical agents
-- [[mllm-scientific-visualization-literacy]] — Benchmarking multimodal LLMs for scientific visualization literacy
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Domain-adapted text-to-image models for nuclear concept visualization
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

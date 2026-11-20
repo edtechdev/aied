@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -32,7 +34,6 @@ ai_assist:
 ### Eğitimde NLP’nin işlevi
 
 Eğitimde doğal dil işleme, hesaplama yöntemlerini öğretme ve öğrenme diline — öğrenci denemelerine, yanıtlara, tartışma gönderilerine, geri bildirime ve öğretim metnine — uygular. [[llm|LLM’ler]], otomatik olarak çözümlenebilecekleri belirgin biçimde genişletmiştir; önceden ölçekte pratik olmayan öğrenci dilinin ayrıntılı anlaşılmasını mümkün kılmıştır.
-
 
 Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biçimine göre de düzenleyebilir. Sentetik bir Carnot motoru kümesinde aynı hat, ifadeleri fizik yerine sözcük seçimine göre gruplandırdı; [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber ve Kortemeyer (2026)]] bunu acemi benzeri bir temsil olarak okur ve kümelemeyi puanlama için değil keşif için bir araç yapar.
 
@@ -88,40 +89,3 @@ Model sıkıştırma aynı araca takımının parçasıdır: iki aşamalı bir h
 - **“Anlamsal benzerlik müfredat uyumunu tarayabilir.”** **3.837 diş hekimliği hedef–özet çiftini** tarayan gömme temelli erişim artı bir doğal dil çıkarımı denetimi, maddelerin **%22,9’unu** uyumlu saydı; anlamsal benzerlik uyum için **zayıf bir sinyaldir**. Akıcı bir konusal eşleşme ile gerçek bir öğrenme hedefi eşleşmesi farklı ilişkilerdir.
 - **“Sözce düzeyinde sınıflandırma doğal birimdir.”** **Dersin bütününü modellemek sözce düzeyinde sınıflandırmayı geçer**: izole sözceler yerine tüm deşifre metinlerini puanlamak **akıl yürütme zinciri tespitini 14,2 yüzde puanı yükseltti**. Ders boyunca bağlam, herhangi bir tek turun yok ettiği bilgiyi taşır.
 - **“Değerlendirme yorumları üzerinde NLP’yi ölçeklemek etki üretir.”** Açık uçlu öğrenci öğretim değerlendirmesine NLP uygulayan **421 çalışmanın** (2015-2026) PRISMA-ScR kapsam incelemesi ve kanıt haritası, ölçeklemenin **kullanıma ulaşmadan** gerçekleştiğini buldu. Yöntem çıktısının hacmi benimseme değildir ve boşluk modelleme değil konuşlandırma adımıdır.
-
-## Bağlı kavramlar
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Bağlı makaleler
-
-- [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) codes teachers' content and pedagogical content knowledge; classical encoders and naive prompting fall short on PCK
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding clusters that organize by wording rather than physics

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -104,73 +106,3 @@ Bu durum insan–YZ işbirliğini teknik bir kavram kadar *pedagojik* bir kavram
 - **“İşbirliği, YZ’nin işin bir bölümünü yapması demektir.”** **Öğrenen karar verici rolü elinde tutar** ve bu yazmaya da ölçeklenir: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ve Connell Pensky (2025)]], düzenleme buna göre tasarlandığında bunun geçerli olduğunu gösterir. İş bölümü, insan yargıyı elinde tutmadıkça işbirliği değildir.
 - **“Tersyüz edilmiş bir düzenlemede açıklamayı YZ yapar.”** **YZ’ye öğreten öğrenciler daha iyi açıkladı**: tersyüz edilmiş sınıfı tanımlama **M = 4,18’e karşılık 3,29**, öğretim etkinlikleri **M = 4,91’e karşılık 3,06, her ikisi için p < 0,001**. Öğrenme, açıklayan kişide birikti.
 - **“İnsan ve YZ katkıları birbirinin yerine geçebilir.”** İki 2026 çalışması sınıf işbirliğinin **birbirini tamamlayan yarılarını** haritalar ve bu, tasarım sorununu yerine geçme değil tahsis sorunu olarak çerçeveler.
-
-## Bağlı kavramlar
-
-- [[pedagogical-partnerships]] — Pedagojik ortaklıklar
-- [[community-of-inquiry]] — Soruşturma topluluğu (insan–GenAI sosyoteknik başarıları olarak görünümler)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deney felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim asistanları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özelleşmiş araçlar
-- [[human-in-the-loop-ai]] — gözetim
-- [[agentic-ai]] — özerklik
-- [[productive-failure]]
-
-## Bağlı makaleler
-
-
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Bir anlatı bilim oyununda üç ajan rolü ve her birinin hangi değerlendirme ölçütünü gerektirdiği (Humburg ve arkadaşları 2025)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Tercih edilen yanıt gizlenmiş çok ajanlı tartışma, yanlış YZ tavsiyesine boyun eğmeyi azalttı ancak düzeltici biçimde değil
-- [[wang-agentic-translation-education-2026]] — Çeviri eğitimini YZ orkestrasyonu, stratejik yargı ve eleştirel değerlendirme yetkinliklerine yönlendiren tasarım protokolü (henüz deneysel veri yok)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Duygusal bir uyarı, öğretmenin yorumladığı bir ipucudur, uyulması gereken bir talimat değil
-
-- [[bjet-many-hands-make-light-work-2026]] — Bir GenAI çok ajanlı sistemiyle eşli çalışma tasarım projesini kazanırken eleştirel düşünme farkındalığı yalnızca yalnız çalışanlarda arttı (Chu ve arkadaşları 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: ortaya çıkan öğrenen etkililiğiyle birlikte alan, YZ ve üstbilişsel yetkinliğin dinamik bir yapılandırması olarak işbirliği yetkinliği (Dang ve arkadaşları 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Ortaokul öğretmenleri, insan gözetimi altında sınırlı uzmanlar olarak sınıf sohbet robotları tasarlar
-- [[ai-integration-instructional-design-collaboratory-2026]] — On iki öğretmen adayı eğitimi kurs uygulaması YZ entegrasyonunu bir öğretim tasarımı problemi olarak ele alır
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: insan–YZ’nin uzmanlığı acemi öğretmenlere ölçeklemesinin ilk RCT’si
-- [[think-first-chatgpt-later-2026]] — Önce Düşün, ChatGPT Sonra: Bağımsız İnsan Yaratıcılığı
-- [[principal-trait-analysis-human-ai-skills-2026]] — İnsan–YZ işbirliğinin veri güdümlü “nitelikleri”
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Deneyim ve YZ yeterliliği boyunca ders tasarımında öğretmen–YZ etkileşim örüntüleri (Choi ve arkadaşları 2026)
-- [[tang-chatbots-learning-design-2026]] — Tasarımcılar gömülü sohbet robotunu içerik üretimi değil çıktılar ve pedagoji konusundaki uyum denetimleri için kullanır
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Yerine Geçmeden İskelelemeye: Kendini Güçlendiren Zarar Döngüsünü Kırmak
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Bir Aracılık Eden Ajan Olarak Üretici YZ
-- [[conversational-ai-agents-umbrella-review-2026]] — Eğitimde konuşkan YZ ajanlarının şemsiyye derlemesi
-- [[ai-overreliance-complex-adaptive-system-2026]] — Karmaşık uyarlanabilir bir sistem olarak modellenen YZ aşırı güveni
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — İlkokul kitap konuşması için rol uyumlu YZ arkadaşı; sabit rollü ajanların duygusal tavanı (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Öğretmen–YZ öğrenme görevi birlikte tasarımı: eğilimler ve bakış açıları (Wang ve arkadaşları 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — YZ tasarımı farklılaştırılmış grup etkinliklerinde rollerin mimarisi (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — Küçük grup dinamiklerinde ajan ve işbirlikçi alan olarak GenAI (Xu ve arkadaşları 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Klinik Görüşme Eğitimi için İskeleleme Yönelimli Çok Ajanlı Büyük Dil Modeli Sisteminin Değerlendirilmesi
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etik Eğitimi Ajanları: Etik Yansıtma ve Keşif için Rol Yapma ve Tartışmayla Grup Temelli Etik Eğitimini Kolaylaştırmak
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: görev atamasının sürekliliği olarak otomasyon, güçlendirme ve işbirliği
-- [[bounded-reliance-ai-writing-feedback-2026]] — Sınırlı Güven: EFL Öğrencilerinin YZ Kaynaklı Yazma Geri Bildirimiyle Etkileşimine Bir Kaynak Güvenilirliği Bakış Açısı
-- [[human-ai-collaboration-academic-writing-2026]] — Beş bölümlü yapılandırılmış EFL yazma iş akışı; doğrulama ve sorumlu kullanım rutinleri eşli yazma ve dijital eleştirel düşünme kazanımlarını yönlendirdi
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Rol tersine çevirme: öğrenciler bir GAI acemi öğrenene öğretir ve bir GAI öğretmene sorgu yapan akranlarını geride bırakır
-- [[iqbal-human-genai-support-essay-revision-2026]] — Destek türü revizyon stratejilerini ve puanları şekillendirdi, ancak hiçbir strateji kazanımı öngörmedi; GenAI kazanımları göreve özgü olabilir
-- [[kuhail-great-debaters-ai-facilitators-2026]] — İnsan ve YZ tartışma moderatörleri eşdeğer biçimde değerlendirildi; yararlılık ve memnuniyet yeniden kullanımı farklı yönlendirir
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Ders çalışması, öğretmen eğitimcilerinin diyalojik YZ etkileşimi tasarlama kapasitesini geliştirir; pedagojik düşünme olarak istek metni yazımı
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Beş öğrenci–GenAI dolanışma türü ve yazarlığı dağıtan türlerin neden marjinal kaldığı (Sun, Dohn ve Rehm 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Öğretmen–YZ işbirliğinin psikolojik erişilebilirlik ve işten yabancılaşma üzerinden işe bağlılığa giden zıt yolları, dijital yetkinlikle sınırlandırılmıştır
-
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — The authorship legitimation deficit in human–AI co-creation

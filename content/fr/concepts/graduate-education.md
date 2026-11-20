@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-15"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -126,34 +128,3 @@ Les cycles supérieurs héritent des problèmes sectoriels d'intégrité, de [[a
 - **« L'IA peut remplacer le facilitateur sans coût. »** Les gains aux choix multiples étaient équivalents en apprentissage par problèmes mené par l'IA, mais la pensée critique et le processus de groupe ne l'étaient pas, et seulement 15.8 % des enseignants interrogés avaient rédigé une politique d'usage de l'IA.
 
 - **« La [[ai-literacy|littératie en IA]] de cycle supérieur signifie la maîtrise des outils. »** Le cadre de cycle supérieur sépare les fondations cognitives, les compétences opérationnelles, la pensée d'ordre supérieur, la réflexion métacognitive et la responsabilité éthique.
-
-## Concepts liés
-
-- [[academic-integrity]] — autorité d'auteur, divulgation et faute lorsque le texte peut être généré
-- [[assessment-validity]] — ce qu'une note, une soutenance ou une évaluation clinique peut légitimement affirmer
-- [[ai-literacy]] — la capacité que les programmes de cycle supérieur sont censés certifier chez leurs diplômés
-- [[cognitive-offloading]] — la délégation qui soutient la pensée contre celle qui la remplace
-- [[evaluative-judgment]] — la capacité que la supervision est censée construire et qu'elle doit désormais évaluer
-- [[professional-training]] — la préparation clinique, juridique et de gestion hors de la salle de séminaire
-- [[medical-education]] — la plus grande source d'essais sur l'IA de niveau supérieur
-- [[business-education]] — les cours de MBA et de master en gestion qui fournissent les expériences les plus solides
-- [[career-development-and-readiness]] — l'employabilité comme processus de développement, non comme placement
-- [[oral-assessment]] — soutenances, vivas et assurance orale comme preuves d'une capacité individuelle
-
-## Articles liés
-
-- [[genai-medical-education-transformation-review-2026]] — 153 rapports sur des diplômes de médecine menant à la pratique ; 13 avec suivi et aucun résultat au niveau du patient
-- [[packard-thinking-partner-framework-adult-learners-2026]] — documentation socratique en méthodes de recherche de cycle supérieur ; 96 % d'achèvement des points de contrôle sur six semestres
-- [[issa-teamwork-framework-academic-integrity-2024]] — travail d'équipe supervisé dans une unité de commerce postgrade ; les notes sont passées de 27 à 31 sur 40, sans décompte des fautes
-- [[genai-dependence-research-creativity-2026]] — 1,157 étudiants de cycle supérieur ; la dépendance fonctionnelle associée à la créativité bien plus que la dépendance existentielle
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 programmes américains d'IA en santé ; éthique enseignée dans 80.6 %, provenance des données dans 22.2 %
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — le tutorat IA structuré a gagné 6.63 points sur 55 dans un MBA en ligne ; voix et texte équivalents
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 étudiants de MBA ; la participation a augmenté d'environ 31 % seulement après une deuxième répétition assignée
-- [[llm-grading-assistants-public-health-2026]] — examens de dissertation de master notés à un kappa pondéré de 0.718, avec 0.625 d'accord sur une répétition à cinq jours
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 études d'enseignement supérieur cartographiant les schémas qui soutiennent et qui érodent l'agentivité
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 études ; éducateurs et étudiants s'accordent sur la dépendance excessive et divergent sur l'intégrité
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 études, trois avec des données pédagogiques, aucune dans une classe de forensique
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 étudiants de master ; la préparation atteignait l'auto-efficacité de recherche par le soutien du superviseur (chemin β = 0.201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revue de 61 sources sur la supervision doctorale ; éthique fondée sur la tâche, divulgation proportionnée, gouvernance par jalons
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — séminaire à groupe unique ; l'apprentissage autodirigé est passé de 80.62 à 87.38 avec huit enregistrements appariés
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — les étudiants de cycle supérieur devançaient le premier cycle en éthique et autonomie (d = 1.47) ; la fréquence d'usage ne prédisait pas la compétence

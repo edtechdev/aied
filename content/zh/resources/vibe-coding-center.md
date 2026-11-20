@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -44,7 +45,3 @@ ai_assist:
 ## 说明与注意事项
 
 这个中心提供的是指引，不是合规产品：站点不为自己的 WCAG 2.2 AA 目标作符合性声明，对「使用这些文件能让我的站点合规吗？」的回答是不能，并说明工程审查不能替代学校授权或法律审查。安全书架指向 axe-core、Gitleaks、ZAP 和 Playwright；这些是参考资料而不是随附软件，其中具有侵入性的那些要针对一次性或明确授权的目标使用。阅读不需要账号。重建 HTML 页面需要 Python 和 `markdown-it-py`，这是构建依赖，不是访客依赖。仓库以 MIT 许可发布，而第三方美术作品与所链接的项目保留各自的条款，记录在 `CREDITS.md` 中。
-
-## 关联概念
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

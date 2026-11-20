@@ -19,6 +19,8 @@ ai_assist:
 translation_of: concepts/psychology-education
 source_updated: "2026-11-17T13:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -99,27 +101,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **"心理学教育中的人工智能主要是临床工具。"** 研究的最大份额关涉[[writing-education|写作]]、反馈与学习习惯；临床工具是一条规模小、时间近且独立的线索。
 - **"可靠的生成题目就是可用的题目。"** 没有覆盖高阶成果的信度，产生的是一个测量得当却测错了东西的测验。
 - **"受训者要么支持要么反对人工智能。"** 潜在类别的证据表明每个领域有四个或更多剖面，并随工具而异。
-
-## 关联概念
-
-- [[social-sciences-education]] — 该学科所处的集群页面，也是社会学证据所在之处
-- [[humanities-education]] — 相邻的阐释性学科，面对同样的评估问题
-- [[ai-literacy]] — 大多数心理学教育研究实际在测量的那个构念
-- [[assessment-validity]] — 任何人工智能辅助的评估决定的判据
-- [[feedback]] — 这里最强的研究所赖以成立的那个机制
-- [[self-efficacy]] — 中介持续使用的那项倾向
-- [[student-ai-interaction]] — 学生实际如何接触该工具，相对于他们声称自己如何接触
-
-## 关联文章
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT 在一个二年级心理学媒介作业中取代同伴评估
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 道生成题目：可靠，且 73.75% 为回忆
-- [[ai-tutor-statistical-programming-adoption-2026]] — 心理学统计课中 R-Tutor 的预注册纵向研究
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o 充任来访者：焦虑更低、过于随和、文化平淡
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 每个领域都有三到四个潜在类别
-- [[mental-health-literacy-students-llms-2026]] — 150 名心理学专业学生在 30 条陈述上与四个大语言模型对比
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 名本科生、六个情境，以及素养能否预测判断
-- [[critical-genai-use-predictors]] — 知识、认识取向与价值观预测批判性使用
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 信任与自我效能承载持续使用；焦虑踩下刹车
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 反馈素养作为论文成绩唯一的显著预测因子
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 名学生、相隔两年：使用翻倍，作弊感知下降

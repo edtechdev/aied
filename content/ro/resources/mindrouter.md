@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,9 +48,3 @@ Grupurile de calcul științific și IT central cu capacitate GPU existentă, ce
 ## Note și precauții
 
 Gratuit și open source sub Apache-2.0, dar costul se mută, nu dispare: hardware, electricitate și timpul personalului pentru a rula un cluster. Software-ul este tânăr după standardele infrastructurii — trei contribuitori, o singură instituție de origine și versiuni numerotate în sute de tag-uri — așa că un colegiu ar trebui să îl piloteze alături de un serviciu existent, nu ca singura cale către un model. O evaluare publicată a comportamentului de programare și de cote sub încărcare reală de campus nu există în repository; lucrarea PEARC este locul unde să cauți relatarea autorilor înșiși.
-
-## Concepte conexe
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

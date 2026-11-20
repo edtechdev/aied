@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -51,7 +53,6 @@ Due revisioni definiscono la forma del campo, ed entrambe descrivono una frammen
 [[dabaghi-ai-dyslexia-education-review-2026|La revisione interdisciplinare dell'IA per la dislessia (Dabaghi, D'Urso e Sciarrone, 2026)]] copre il periodo 2018–2024 attraverso 72 studi e rileva che l'IA è usata per il rilevamento, il supporto assistivo e la [[personalized-learning|personalizzazione]], con questi filoni che si evolvono in parallelo anziché in integrazione, e con il campo guidato più dalle opportunità tecnologiche che da una teoria educativa consolidata. La sua ricerca sul rilevamento ([[sensor-and-gaze-analytics|EEG]], eye-tracking, modelli di [[machine-learning]]) mostra una promessa diagnostica per l'intervento precoce ma spesso necessita di attrezzature specializzate e condizioni controllate, il che ne limita l'uso nelle aule ordinarie. Questo è il test pratico che l'intero filone continua a non superare: il supporto deve essere incorporato nel corso che lo studente sta effettivamente seguendo.
 
 - **Le aule primarie mostrano la stessa concentrazione.** Una revisione di scoping sulle tecnologie educative per aule primarie neuro-inclusive (3.340 record esaminati, 93 studi) ha trovato evidenze concentrate sugli studenti autistici e sul supporto accademico e cognitivo individualizzato, con gli esiti sociali, comunicativi e di interazione tra pari trascurati e il valore educativo validato soprattutto dai ricercatori anziché dagli utenti in aula ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola e Goodacre (2026)]]).
-
 
 ## Autismo e ADHD in aula
 
@@ -93,34 +94,3 @@ La neurodiversità si collega a [[special-education]], [[inclusive-learning]], [
 - **"La ricerca sulla neurodiversità è un angolo di nicchia nell'[[ai-education|AIED]]."** Il campo si è **riorganizzato attorno all'[[generative-ai|IA generativa]] — 15 dei 40 studi** — con i formati immersivi secondi a 11. La letteratura si è mossa con la tecnologia anziché accumularsi attorno a domande stabili.
 - **"Più IA per la dislessia significa supporto migliore."** [[dabaghi-ai-dyslexia-education-review-2026|La revisione interdisciplinare sull'IA per la dislessia (Dabaghi, D'Urso e Sciarrone, 2026)]] copre **72 studi tra il 2018 e il 2024** e trova l'IA usata in un'ampia gamma di scopi. L'ampiezza delle applicazioni non è prova di efficacia per nessuna di esse.
 - **"Gli accomodamenti sono la cornice giusta per i discenti neurodivergenti."** [[neurodivergent-computing-students|Un'indagine su 24 studenti di informatica neurodivergenti e 20 pari neurotipici]] con quattro interviste in profondità ha trovato bisogni che sono **requisiti generali di progettazione** — compiti strutturati, team piccoli e coerenti, ruoli espliciti — anziché aggiustamenti individuali concessi dopo una diagnosi.
-
-## Concetti collegati
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Articoli collegati
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent computing students on structure, ambiguity, and collaboration
-- [[genai-reliance-executive-functioning-2026]] — Executive-functioning difficulties, perceived usefulness, and the route to AI reliance
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detector-driven processes can deter legitimate accommodation use
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
-

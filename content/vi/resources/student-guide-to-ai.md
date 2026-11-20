@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -48,11 +49,3 @@ Sinh viên đại học ở mọi ngành, và học sinh trung học phổ thôn
 Cẩm nang được đóng khung theo hướng [[formative-assessment|định hình]] và nói rõ điều đó: điểm số là một ảnh chụp thói quen, không phải điểm số học tập, một nét tính cách hay một dự báo, và sinh viên được dặn không chia sẻ chúng công khai.
 
 Cách đóng khung về AI dựa trên bằng chứng khảo sát và thực nghiệm được trích dẫn rằng việc thuê ngoài nỗ lực có thể khiến sinh viên ghi nhớ ít hơn — đó là câu hỏi [[cognitive-offloading|giảm tải nhận thức]] mà cẩm nang được viết để phản biện chứ không phải để giải quyết. Tệp PDF của cẩm nang nằm sau một biểu mẫu ngắn hỏi tên, vai trò, cơ sở giáo dục và email; các mô-đun hướng dẫn cho giáo viên và bài báo về khung sư phạm tải trực tiếp. Bản tương tác chạy trong Gemini Notebook và cần tài khoản Google. Các con số của nhà xuất bản — hơn 40,000 lượt tải PDF trên khoảng 4,000 cơ sở ở 180 quốc gia, và hơn 130 ấn bản riêng cho từng trường — là của họ, cũng như các lời chứng thực từ ALA, NASPA, EDUCAUSE, OLC, CAA, Viện Gardner và RTI International.
-
-## Khái niệm liên quan
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

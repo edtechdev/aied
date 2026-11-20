@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -76,39 +78,3 @@ Alur teknis tidak terpisahkan dari tema-tema lain dalam basis pengetahuan:
 **"Pilihan teknis adalah urusan teknolog, bukan pendidik."** Pembingkaian halaman ini adalah bahwa Anda bisa menjadi pendidik yang sangat baik tanpa mampu membangun LLM dan pilihan teknis Anda tetap membentuk apa yang bisa dan tidak bisa dilakukan AI di ruang kelas Anda. Apakah sebuah sistem mendasarkan jawabannya pada materi kursus adalah keputusan dengan konsekuensi pedagogis yang harus diambil seseorang.
 
 **"Model yang lebih cakap akan menyelesaikan kesenjangan bidang ini."** Orkestrasi, memori, dan perencanaan jangka panjang adalah masalah arsitektural, bukan masalah kapabilitas — ketiadaan yang terdokumentasi adalah ketiadaan sistem yang mengendalikan penggunaan alatnya sendiri dari waktu ke waktu, yang tidak disediakan model yang lebih baik dengan sendirinya.
-
-## Konsep terkait
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Artikel terkait
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Visibilitas penelitian 85 alat AI dalam pendidikan STEM dan teknik (Terkowsky et al. 2026)
-
-- [[agentic-ai-education-scoping-review]] — Tinjauan cakupan AI agentic dalam pendidikan
-- [[genai-meta-analysis-programming-learning]] — Meta-analisis efek GenAI terhadap produktivitas dan pembelajaran dalam pemrograman
-- [[cstutorbench-slm-tutors]] — Tolok ukur tutoring model bahasa kecil
-- [[educational-llm-alignment]] — Menyelaraskan LLM untuk pendidikan
-- [[eduguard-safe-rag-llm-tutor]] — Pagar pengaman tutor LLM berbasis RAG
-- [[hazra-safetutors-pedagogical-safety-2026]] — Keamanan dan kerugian tutor AI
-- [[elbench-education-llm-benchmark-2026]] — Tolok ukur LLM pendidikan
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Robot sosial generatif Teachy Mini
-- [[benzion-ai-physics-simulations-virtual-lab]] — Simulasi fisika buatan LLM untuk ruang kelas

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -140,70 +142,3 @@ Studierendenengagement verbindet sich mit [[motivation]] und [[self-determinatio
 **„Mehr behaviorale Aktivität bedeutet tieferes Engagement.“** Oft ist das Gegenteil der Fall. Tiefes kognitives Engagement mit KI sagt Lernen voraus, während flaches behaviorales Engagement die [[cognitive-offloading|übermäßige Abhängigkeit]] und die Verdrängung des Lernens vorhersagt, die die Risikoliteratur dominieren; [[polished-artifacts-fragile-engagement-2026|polierte Artefakte]] sind der kanonische Fall, bei dem eine saubere Ausgabe Aktivität signalisiert, während das Denken nicht stattgefunden hat. Geschäftige Interaktionsprotokolle sind mit Disengagement vereinbar.
 
 **„KI macht Lernen von sich aus engagierender.“** [[ai-availability-student-motivation|KI-Verfügbarkeit und Motivation]] zeigt, dass schon das Wissen um die Verfügbarkeit von KI den wahrgenommenen Wert anstrengungsreichen Engagements senken kann, besonders bei Novizen. Engagement wird durch Erwartung, Wert und wahrgenommene Kompetenz ebenso geprägt wie durch Werkzeugeigenschaften, und es variiert mit Aufgabe, Kontext und lernender Person — das tiefe Engagement der einen studierenden Person ist bei der anderen ein Jagen nach der Ausgabe.
-
-## Verbundene Konzepte
-- [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[community-of-inquiry]] — Untersuchungsgemeinschaft (agentisches Engagement als CoI-Dimension)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Online-Lehre und -Lernen
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Dachbegriff: Personen und Zielgruppen in der KI-Bildung (Lernende, Lehrkräfte, Gestaltende, Verwaltende, Politik)
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## Verbundene Artikel
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — KI-Feedback-Kompetenz und agentisches Engagement: ein Drei-Wellen-Panel mit zufälligem Intercept (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Desengagiertes Konversationsverhalten und Lernen in Studierenden-KI-Dialogen (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Sprachbasierte KI-Übung vor der Sitzung erhöhte freiwillige Beiträge im Kurs um ~31 %, aber erst nach einer zweiten Nutzung (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — KI-Nutzung ging mit größerer Kursabsenz einher, während Selbstwirksamkeit sie nicht vorhersagte, mit Peer-Einfluss als dominanter Korrelat (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Wenn Hochschulen GAI befürworten, die Praxis aber hinterherhinkt: Einschätzungen der Studierenden und kreatives Prozessengagement in der Kunstbildung
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Kopfgebundenes EEG, Blickverfolgung und EDA sagen fünfstufige Engagementbewertungen voraus, während die eigenen Definitionen der Lernenden die Abbildung verschieben (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Faire multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit von Studierenden
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — KI in der Hochschulbildung: systematischer Review zu Engagement + vermittelnde Rolle von Unterrichtsmethoden
-- [[genai-motivation-engagement-2026]] — Einfluss generativer KI auf Motivation und Engagement von Studierenden
-- [[critical-engagement-code-completion]] — Tab oder nicht Tab: Messung kritischen Engagements bei KI-Code-Vervollständigung
-- [[icap-cognitive-engagement-llm-agents]] — Messung kognitiven Engagements in kollaborativem Diskurs
-- [[genai-tutor-engagement-patterns]] — Nicht alle Studierenden engagieren sich gleich: Muster über mehrere Institutionen hinweg
-- [[polished-artifacts-fragile-engagement-2026]] — Polierte Artefakte, fragiles Engagement
-- [[ai-availability-student-motivation]] — „Warum diesen Aufwand betreiben?“: Wie KI-Verfügbarkeit Motivation prägt
-- [[genai-performance-vs-learning]] — Leistungszuwächse vom Lernen unterscheiden
-- [[scaffolding-critical-engagement-genai-minority-students]] — Gerüstbildung kritischen Engagements mit GenAI
-- [[engagement-intensity-learner-modeling]] — Engagementintensität als Signal für die Lernendenmodellierung
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagementbewertung im Video-Lernen
-- [[engagement-forecasting-its]] — Von Heuristiken zur Analytik: Vorhersage von Aufwand und Fortschritt
-- [[interactive-learning-dashboards-engagement]] — Interaktive Lerndashboards und Engagement
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Lernendenmerkmale × TTS-Dialogformat-Interaktionen
-- [[wang-goal-setting-ai-engagement-2026]] — Zielsetzungstheorie: Lehrkraftunterstützung, Leistungsziele und Engagement im KI-unterstützten Englischlernen (758 chinesische Studierende)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI-Kompetenz und Emotion als Treiber von Chatbot-Engagement (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Disziplinassoziiertes kognitives Engagement auf Bloom-Stufen in Studierenden-KI-Gesprächen (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Dimensionsspezifische Engagementgewinne auf der Primarstufe (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Kognitives und verhaltensbezogenes Engagement steigen, affektives Engagement bleibt flach, in einem immersiven VR-PBL-Studio (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomisierter Mathematikversuch in der Sekundarstufe: situuiertes Interesse stieg mit einem maßgeschneiderten Chatbot, während die Testleistung stagnierte (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — KI-Kompetenz treibt Engagement direkt und über psychologisches Kapital, verstärkt durch berufliches Engagement (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen gleichwertige GRE-Lernzuwächse
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Zugang zu einem KI-Tutor senkte die protokollierte Plattformteilhabe um 0,90 SDs, während die Hausaufgabeneinreichung stabil blieb (Liu et al. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — Selbstberichtete und beobachtete KI-Engagementprofile entsprachen sich nicht, und nur das Verhalten folgte den Quiz-Werten (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Vier vorhergesagte Engagementkonfigurationen unter GenAI, und warum das Werkzeug sie verstärkt
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Studierendenwahrnehmungen von Diskussionsforen: eine Technologieakzeptanzmodell-Studie zur Fundierung des Designs KI-gestützter Learning Analytics

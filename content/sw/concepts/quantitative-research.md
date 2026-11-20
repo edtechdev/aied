@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -57,7 +59,6 @@ Majraribio hugawa wanafunzi kwa nasibu kwa hali (mfano, mwalimu wa AI dhidi ya m
 ### Utafiti wa wimbo
 Miundo ya wimbo hufuatilia wanafunzi hao wale kwa muda, na kukamata mabadiliko, ukuaji, na kujifunza kudumu ambacho upimaji wa muda mmoja haupati. [[ai-lms-middle-school-longitudinal|Utafiti wa wimbo wa LMS]] unafuatilia wanafunzi katika mwaka wa shule. Miundo ya wimbo ni muhimu kwa kutofautisha utendaji ulioinuliwa na AI na [[genai-performance-vs-learning|kujifunza kudumu]].
 
-
 Mlinganisho kati ya seti za data unahitaji pointi maalum ya kufanya kazi: ukaguzi wa muundo wa data ya elimu ya kisintetiki uligundua kuwa kuchanganua kila seti ya data kwenye kizingiti chake kulipinduka mlinganisho ulioshikilia katika pointi ya pamoja, na kuwa kulinganisha kwake kwa surrogate kulihitaji data ya kisintetiki tu na permutations zake - null inayotegemea permutation badala ya kizingiti kamili ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Upimaji wa kikokotzi na wa kisaikolojia
@@ -89,33 +90,3 @@ Mbinu za kiasi na [[qualitative-research|kina]] ni zinazojumuisha — kazi ya ki
 - **"Kadirio la nia-ya-kutibu linaeleza kile zana inachofanya."** Katika jaribio la upatikanaji lililogawanywa kwa vikundi ambapo **takriban asilimia 15 ya wanafunzi katika madarasa yaliyotibiwa waliwahi kutumia mwalimu**, kadirio la ITT linaakisi **athari ya kuanzisha** zana badala ya athari ya kuitumia. Upatikanaji mdogo hufanya takwimu ya ITT kuwa taarifa kuhusu utekelezaji, na kuiripoti kama athari ya zana kunazidisha kile kilichopimwa.
 - **"Utendaji katika kazi ndio matokeo."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] anagawanya kwa nasibu **wanafunzi 120** kwa kujifunza kunaosaidiwa na AI au cha kawaida na anapima **uhifadhi**, muundo unaotenganisha utendaji wa papo hapo na kujifunza kudumu. Utafiti unaokoma kwenye kazi umepima kiasi kilicho rahisi zaidi.
 - **"Kulinganisha seti za data mbalimbali ni jambo la moja kwa moja."** Ukaguzi wa kimuundo wa data za kielimu za sanisi uligundua kuwa **kuchanganua kila seti ya data kwenye kizingiti chake kuligeuza utofautishaji ulioendelea kwenye sehemu moja ya kazi iliyoshirikiwa**. Ishara ya kulinganisha ilitegemea chaguo la uchanganuzi, ambayo ni aina ya udhaifu ambao sehemu ya kazi iliyosajiliwa mapema ipo kwa ajili ya kuuzuia.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Makala Zilizounganishwa
-
-- [[access-not-enough-ai-tutoring-2026]] — Utafiti wa uwanja wa nasibu wa msaada wa binadamu pamoja na ufundishaji wa AI
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[acceptance-ai-english-tools-2026]] — Kukubaliwa kwa zana za kujifunza Kiingereza zinazosaidiwa na AI
-- [[tian-genai-learning-adoption-pathways-2026]] — Njia za kupitisha GenAI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Ujuzi wa AI wa walimu kupitia nadharia ya uamuzi binafsi
-- [[jin-glat-genai-literacy-assessment]] — GLAT: mtihani wa ujuzi wa GenAI uliothibitishwa na IRT
-- [[ai-lms-middle-school-longitudinal]] — Utafiti wa wimbo wa LMS unaojumuisha AI katika shule ya kati
-- [[adaptive-pretesting-retention]] — Kupima kabla kwa kubadilika na kuhifadhi
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Jaribio la ufikiaji lililogawanywa kwa vikundi linahitaji ukaguzi wa matumizi
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Uchanganuzi wa bibliometriki ni familia nyingine ya kiasi: Sriram et al.
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Matumizi ya AI ya kizalishaji na mwingiliano wa kielimu kati ya wanafunzi wa uuguzi: kujifunza kwa kujidhibiti kama mpatanishi wa kitakwimu
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Ufahamu wa usumbufu wa kiteknolojia wa AI, mwelekeo wa fikira za ubuni, na umahiri wa uvumbuzi wa ubuni kati ya wanafunzi wa ubuni

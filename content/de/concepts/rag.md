@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -67,35 +69,3 @@ RAG spielt eine ergänzende Rolle zum [[llm|LLM]]-Fine-Tuning — Retrieval lief
 - **„Die Abrufqualität ist das ganze Problem."** Abruf ist notwendig und nicht hinreichend. Fundiertes Antworten erreichte **9,05 von 10 mit einem Bootstrap-Konfidenzintervall für die Differenz, das die Null ausschließt**, und war **häufiger in dem Material fundiert, das die antwortende Person tatsächlich gesehen hatte (98% vs. 81%)** —, der gemessene Gewinn liegt also in der Treue zur Evidenz, und die Evidenz muss korrekt sein, damit diese Treue etwas bedeutet.
 - **„Einseitiger Abruf verallgemeinert."** Beide Lücken **verdreifachten sich ungefähr bei Fragen, die Material von mehr als einer Seite verlangten** (seitenübergreifende Scores 9,93 gegenüber einer niedrigeren Baseline). Mehrdokumenten-Schlussfolgern ist der Punkt, an dem fundierte Systeme degradieren, und genau dort stellen Kurse die schwierigsten Fragen.
 - **„Abruf beseitigt die Notwendigkeit der Prüfung."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] ruft aus den freigegebenen Materialien eines einzelnen Moduls ab, um Studierende zu bedienen, die zögern, eine Person zu fragen —, ein vertretbarer Umfang. Enge, freigegebene Korpora sind es, was die Fundierung bedeutsam macht; das Label allein nicht.
-
-## Verbundene Konzepte
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Überblicksseite: KI-Technologien und Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
-
-## Verbundene Artikel
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Ansatz für die Physikausbildung mit lokaler KI und RAG zur Generierung offener Bildungsmaterialien (Beznosko et al., 2026)
-- [[hughes-rag-ai-feedback-implementation-2026]] — RAG erhöhte die wahrgenommene Feedbackqualität und Nützlichkeit, nicht jedoch die Umsetzbarkeit, in zwei Graduiertenkohorten
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Ein curriculum-gebundener Lektionsassistent, dessen Zeiteinsparung die eines allgemeinen Chatbots nicht übertraf
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation für die theoretische Informatikausbildung -- ein umfassendes Evaluationsrahmenwerk für Algorithmusanalyse und Komplexitätstheorie
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Barrieren für akademische Unterstützung abbauen: Evaluation eines kursspezifischen RAG-Systems zur Behebung von Ungleichheiten bei der Hilfesuche in der Hochschulbildung
-- [[wiki-llm-indexing-ml-classes-2026]] — Potenzial verbesserten Lernens in Maschinen-Lernen-Kursen durch Wiki-LLM-Indexierung
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises-RAG-Tutoring über mehrere Kurse für die wirtschaftswissenschaftliche Bildung
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — Index-Kuratierung und Retrieval-Umfang als die eigentliche Implementierungsarbeit
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphgestützter Assistent und adaptives Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

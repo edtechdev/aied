@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -104,50 +106,3 @@ Inklusives Lernen ist eng mit [[equity-in-ai-education|Gerechtigkeit]] verbunden
 **„Studierende, die Schwierigkeiten haben, sollten einfach besser prompten lernen."** Das verwandelt einen Systemdefekt in ein Lernendendefizit. Bei festgehaltener zugrunde liegender Aufgabe stieg die Modellgenauigkeit nur von **82,4 % bei Formulierung für geringe Schriftlichkeit auf 83,4 % bei Expertenformulierung** — ein Unterschied von einem Punkt —, während das Verlangen nach besserem [[prompt-engineering|Prompting]] einen neuen Ausschluss auf den bestehenden legt. Der Hebel liegt im systemseitigen Umgang mit Sprachvariation, nicht in nachholendem Prompt-Training.
 
 **„Ein Werkzeug, das für gut ausgestattete Klassenräume gebaut wurde, dient ressourcenarmen Kontexten, sobald es übersetzt ist."** Der Kontext verändert die Designrandbedingung. [[suacode-african-students-motivations|SuaCode]] erreichte Studierende in ressourcenarmen afrikanischen Kontexten, wo **weniger als 1 % Programmierfähigkeiten haben**, indem es für Smartphones statt für Desktop-Labormaschinen baute — ein anderes Design, nicht eine kleinere Version desselben.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — die konkrete Zugangsschicht (Untertitel, Alternativtext, Assistenztechnologie-Kompatibilität)
-- [[assistive-technology]] — die Werkzeugschicht, die Studierende nutzen, um auf Inhalte zuzugreifen
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## Verbundene Artikel
-
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: Messen und Abmildern von Zugänglichkeitsdisparitäten im LLM-Zugang
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-gestützte Fragenerzeugung für gehörlose und schwerhörige Lernende
-- [[text-simplification-its]] — Textvereinfachung für intelligentes Tutoring
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: sprachorientierter Begleiter für sehbehinderte Kinder
-- [[tactile-statistical-graphs-accessibility]] — Taktile 3D-gedruckte statistische Diagramme
-- [[pepper-robot-sign-language-lis-2025]] — Pepper-Roboter unterstützt Gebärdensprach-Kommunikation
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX mathematikzugängliche Physik-Videotranskription
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbehinderte Lernende
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, virtuelle Realität und darüber hinaus: Ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -76,33 +78,3 @@ ai_assist:
 - اسأل عمّ يمكن تقويم الأداة به قبل التوقيع. فإن لم يسمح العقد بالوصول إلى المخرجات أو بيانات التدقيق أو تفاصيل الاستخدام، فقد اشترت المؤسسة قدرة لا تستطيع تقديرها.
 - استقصِ الاستخدام الفعلي لا الاستخدام المصرَّح به، لأن الاثنين يتباعدان والرقم غير المصرَّح به هو الذي يحمل خطرًا أنت مكشوف له بالفعل.
 - قدّم السياسة على النشر حيث لا يزال النفوذ قائمًا. فحين يصير الاستخدام واسعًا، تصير السياسة تفاوضًا مع ممارسة استقرّت سلفًا.
-
-## مفاهيم مترابطة
-
-- [[educational-policy-ai|سياسة الذكاء الاصطناعي التعليمية]]
-- [[student-support-and-success|دعم الطلاب ونجاحهم]] — العمليات المؤسسية التي يديرها الإداريون: الإرشاد، والتواصل، والإحالة، والتخصيص
-- [[governance|الحكم]]
-- [[regulation|التنظيم]]
-- [[higher-ed|التعليم العالي]]
-- [[edtech-platform|منصة التقنية التعليمية]]
-- [[learning-analytics|تحليلات التعلّم]]
-- [[privacy|الخصوصية]]
-- [[llm|النماذج اللغوية الكبيرة]]
-- [[generative-ai|الذكاء الاصطناعي التوليدي]]
-- [[student-experience|تجربة الطالب]]
-- [[stakeholders|المظلة: الناس والجماهير المستهدفة في تعليم الذكاء الاصطناعي (المتعلمون، والمعلمون، والمصممون، والإداريون، وصناع السياسة)]]
-- [[educational-development|التطوير التعليمي]]
-- [[teacher-role|دور المدرس]]
-- [[ai-literacy|ثقافة الذكاء الاصطناعي]]
-
-## مقالات مترابطة
-
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — الذكاء الاصطناعي في القيادة التعليمية: تصنيف شامل
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — الحكم الاستباقي والقيادة للذكاء الاصطناعي
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — الذكاء الاصطناعي في سياسة التعليم العالي البريطانية وصنع القرار المؤسسي
-- [[ai-campus-wellbeing-tools]] — أدوات مقودة بالذكاء الاصطناعي لرفاه الحرم الجامعي
-- [[genai-policies-higher-ed-computing]] — سياسة الذكاء الاصطناعي التوليدي المؤسسية في الحوسبة
-- [[institutional-change-framework-ai]] — إطار التغيير المؤسسي للذكاء الاصطناعي
-- [[edtech-privacy-deferral-2026]] — "سنصلحه لاحقًا": التعليم والذكاء الاصطناعي وتأجيل خصوصية الطلاب في التقنية التعليمية
-- [[students-at-stake-ai-deployment-risks-2026]] — فحص شرائي من أربعة أسئلة، مؤطَّر كحقوق للطلاب لا كإدارة مخاطر

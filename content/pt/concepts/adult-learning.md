@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -73,45 +75,3 @@ A aprendizagem de adultos fica na interseção de vários conceitos estreitament
 - **"Uma boa ferramenta serve a adultos que aprendem."** A pesquisa não encontrou **nenhum sistema único de IA para aprendizagem de adultos que satisfizesse todas as diretrizes de desenho** — o ecossistema completo era necessário. Adultos chegam com obrigações, horários intermitentes e objetivos heterogêneos, de modo que um único produto não cobre o espaço de desenho.
 - **"O letramento digital pode ser presumido no nível adulto."** [[community-centered-ai-education-adults|Um estudo de caso do Meio-Oeste]] codesenhou um programa de letramento em IA para **54 adultos de uma comunidade desatendida** e concluiu que a educação em IA para adultos orientada pela equidade **precisa enfrentar primeiro o letramento digital fundamental e a confiança nos dados**. A idade não é proxy de fluência digital.
 - **"A adoção é um problema de motivação."** Construir [[ai-literacy|letramento em IA]] e [[trust|confiança]] em torno da privacidade dos dados precisa preceder a expectativa de adoção. A disposição decorre da confiança sobre o que acontece com os próprios dados, não do entusiasmo com a tecnologia.
-
-## Conceitos conectados
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Ensino e Aprendizagem On-line
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Artigos conectados
-
-- [[ai-adult-learning-guidelines-dis2026]] — Diretrizes para Desenhar Tecnologias de IA de Apoio à Aprendizagem de Adultos
-- [[andragogy-cognitive-delegation-genai-2026]] — O que permanece autodirigido? Revisitando a andragogia pela delegação cognitiva na aprendizagem de adultos mediada por IA generativa
-- [[ai-lifelong-learning-policy]] — Inteligência artificial na aprendizagem ao longo da vida: oportunidades e desafios na política de educação de adultos
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive e o framework Tutor-in-the-Loop (TITL) para equidade na educação continuada
-- [[community-centered-ai-education-adults]] — Co-desenhando educação em IA centrada na comunidade para adultos: um estudo de caso do Meio-Oeste
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Novos sistemas de aprendizagem para instituições de educação a distância? Uma revisão de seis estudos sobre a implementação do AIDA
-- [[institutional-governance-ai-universities]] — Fragmentação de políticas ou alinhamento institucional? A governança institucional da IA em universidades e escolas de negócios
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Experiências de aprendizagem aprimoradas por IA generativa para o pensamento computacional: uma revisão sistemática de escopo e diretrizes de desenho
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapeando o currículo emergente de engenharia de software assistida por IA via análise de ementas
-- [[learner-ai-interaction-patterns-oop]] — Padrões de interação aprendiz–IA e desempenho acadêmico em um curso de programação orientada a objetos
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falha produtiva
-- [[kim-ai-andragogy-2026]] — Aplicações de IA no apoio à andragogia (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Desenhe para uma faixa de engajamento: faça do diálogo socrático profundo o caminho mais recompensador

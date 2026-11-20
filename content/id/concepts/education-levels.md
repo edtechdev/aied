@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -96,30 +98,3 @@ Satu pola berlaku pada setiap tingkat yang disurvei: lapisan manusia menyerap ka
 **"[[intelligent-tutoring|Tutor adaptif]] membantu setiap tingkat secara setara."** Perbandingan yang mengisolasi variabel itu instruktif: dua versi tutor matematika kelas dua yang sama — konten, antarmuka, umpan balik, dan petunjuk lisan identik — berbeda **hanya pada apakah pemilihan tugas mengikuti model [[knowledge-tracing|Bayesian]]**. Pemilihan tugas adaptif adalah intervensi yang peka tingkat, dan manfaatnya bergantung pada apakah siswa pada tingkat itu dapat bertindak atas adaptasi tersebut.
 
 **"Bukti yang terkonsentrasi di pendidikan tinggi dapat digeneralisasi ke bawah."** Tidak bisa, dan distribusi literatur adalah peringatan alih-alih kemudahan. Di mana bukti padat dan di mana ia tipis adalah sifat ekonomi penelitian, bukan sifat tempat AI paling banyak digunakan, sehingga klaim tentang K-12 yang ditarik dari sampel universitas adalah ekstrapolasi melintasi batas yang paling penting.
-
-## Konsep terkait
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Artikel terkait
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Tutoring adaptif versus non-adaptif dalam matematika kelas dua (Sibley dkk. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot GenAI dan pengajuan masalah bersama siswa kelas tiga dalam sains sekolah dasar
-- [[chatgpt-music-education-junior-high-2026]] — Sikap siswa SMP terhadap ChatGPT untuk pembelajaran lirik (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — LMS terintegrasi AI yang dirancang untuk sekolah menengah pertama, dengan studi longitudinal yang diusulkan
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran AI generatif dalam pendidikan menengah Tiongkok (Strömberg dkk. 2026)
-- [[llm-reliance-types-undergrad]] — Empat jenis ketergantungan LLM di antara penulis sarjana (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Platform seminar berbantuan AI dengan dukungan pustakawan tertanam bagi mahasiswa teknik
-- [[ai-mediated-research-agency-formation-2026]] — Ketergantungan AI, otonomi, dan inovasi dalam pelatihan doktoral dan pascadoktoral (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Pandangan pemangku kepentingan tentang privasi data di pendidikan tinggi Afrika (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Kesiapan adopsi AI manajer pendidikan di seluruh Ukraina (Kremen dkk. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — PBL imersif berbantuan AI bagi siswa desain vokasi (Jin dkk. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Niat guru prasekolah menggunakan AI di lingkungan anak usia dini
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Sikap anak terhadap chatbot AI yang disesuaikan usia

@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -49,7 +51,6 @@ Bilgi tabanının araştırması, bağlamsal öğrenmeyi yalnızca soyut bir kur
 
 Bağlamsal öğrenme, [[embodied-learning]] (ikisi de bilişin bağlam ve eyleme temellendirilmesini vurgular), [[distributed-cognition]] (insanlar, araçlar ve bağlamlar arasında dağıtılmış öğrenme), [[experiential-learning]] ve [[constructivist]] kuramıyla yakından bağlantılıdır. Eğitimde YZ’de bağlamdan soyutlanmış, bedenden uzaklaştırılmış öğrenme eleştirisini topraklar: öğrencileri özgün uygulamada tutan YZ tasarımı, kalıcı öğrenmenin gerektirdiği bağlamsallığı korur.
 
-
 - **Senaryolar ve yeniden kullanılabilir varlıklar altyapı olarak.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]], bağlamsal öğrenmeyi bir senaryo olarak işlevselleştirir: hedef, role özelleşmiş etmenler, sorgulanabilir bilgi ve durum tutan bir çalışma tezgâhı; ayrıca süreç kayıtlarını ve deneyim izlerini kökenleriyle birlikte saklayan, böylece sonraki senaryoların önceki uygulamayı getirebildiği bir varlık belleği. Önceden kaydedilmiş iki üç kollu randomize deneme, hukuki akıl yürütmede sade bir asistana karşı 7,0 puanlık bir öğrenme kazanımı avantajı (d = 0,56) ve rekabetçi programlamada ölçüt ustalığına ulaşan daha büyük bir pay (%45'e karşı %68) buldu; aynı modeli öğretmen gibi davranmaya yönlendirmek ise saptanabilir bir yarar üretmedi. Bu, durumun ve çalışma alanının öğrenmenin konuşmaya dayalı açıklamadan daha fazlasını taşıdığı iddiasının ender bir sınamasıdır.
 
 ## Yaygın yanlış anlamalar
@@ -58,31 +59,3 @@ Bağlamsal öğrenme, [[embodied-learning]] (ikisi de bilişin bağlam ve eyleme
 - **"Özgünlük, görevin bir özelliğidir."** Özgünlük, etkinlik ile gerçek bir topluluğun meşru işi arasındaki ilişkidir. Bir görev ayrıntılı olabilir ve yine de okul biçimli kalabilir: bir öğretmen tarafından, bir not için değerlendirilir ve temsil ettiğini iddia ettiği dünyada hiçbir sonuç doğurmaz.
 - **"Görevden doğan değerlendirme, değerlendirmenin olmaması demektir."** Ölçütün sınıfın değil topluluğun olduğu anlamına gelir: işin, o işi yapanlar için kabul edilebilir olup olmadığı. Bu, rubrikten farklı ve genellikle daha katı bir standarttır.
 - **"Çıraklık fiziksel bir ortam gerektirir."** Mekanizma meşru çevresel katılımdır: bir uygulamanın kenarından merkezine, gerçek sorumlulukla ilerlemek. Çevrimiçi ve benzetimli ortamlar bunu destekleyebilir veya çevreyi simüle edip katılımı hiç tanımayabilir; fark, öğrenenin katkısının fiilen kullanılıp kullanılmadığıdır.
-
-## Bağlı kavramlar
-
-- [[learner-identity]] — disiplinsel, mesleki, yaratıcı ve akademik öğrenen kimliklerinin evrimi
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — özgün bağlama giden bir yol olarak sürükleyici ortamlar
-
-## Bağlı makaleler
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Senaryolar ve köken taşıyan yeniden kullanılabilir varlıklar, iki denemede sade bir asistanı geride bıraktı
-
-- [[vargas-situated-learning-ai-review-2024]] — eğitimde bağlamsal öğrenme ve YZ’nin PRISMA sistematik derlemesi (bu sayfanın birincil kaynağı)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — yinelemeli pedagojik tasarımın aracıları olarak LLM’ler

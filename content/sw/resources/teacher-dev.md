@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,6 +53,3 @@ Walimu wa K-12 wanaotaka zana kwa tatizo mahususi bila usajili, bila akaunti ya 
 ## Vidokezo na tahadhari
 
 Mwendo ni tangazo na hatari pia. Ujenzi wa siku moja unalenga tatizo halisi la darasa, si swali la utafiti, hivyo hakuna kinachobeba tathmini na dai kuhusu kile programu inachofanya linapaswa kujaribiwa darasani. Hifadhi 32 za umma ziko GitHub wakati ghala linaorodhesha 34, zote ni Apache-2.0 na chanzo kipo, hivyo programu inaweza kusomwa na kuendeshwa nyumbani. Ubunifu wa kufanya kazi ndani ya kifaa ni dai la kuthibitisha kwa kila programu, na mwalimu anapaswa kuhakikisha kabla ya kuweka zana ya mwanafunzi mbele ya darasa.
-
-## Dhana Zilizounganishwa
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

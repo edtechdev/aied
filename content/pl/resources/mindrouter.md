@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -47,9 +48,3 @@ Grupy obliczeń naukowych i centralne IT z istniejącą mocą GPU, centra naucza
 ## Uwagi i zastrzeżenia
 
 Bezpłatny i otwarty na licencji Apache-2.0, ale koszt się przenosi, a nie znika: sprzęt, prąd i czas pracy personelu na prowadzenie klastra. Oprogramowanie jest młode jak na standardy infrastruktury — trzech współtwórców, jedna instytucja pochodzenia i wydania numerowane w setkach tagów — więc uczelnia powinna pilotować je obok istniejącej usługi, a nie jako jedyną drogę do modelu. Opublikowana ocena zachowania szeregowania i limitów pod rzeczywistym obciążeniem kampusu nie znajduje się w repozytorium; artykuł z PEARC to miejsce, gdzie szukać własnego opisu autorów.
-
-## Powiązane pojęcia
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

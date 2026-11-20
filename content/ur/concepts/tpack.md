@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -108,50 +110,3 @@ TPACK علم بنیاد کے ثبوتی ذخیرے کے استاد والے حص
 - **"TPACK کا غلبہ اُس کی وضاحتی طاقت کو ظاہر کرتا ہے۔"** یہ غلبہ **جزوی طور پر ریٹریول کا نتیجہ ہے**: **ٹیکنالوجی کی مدد والی اساتذہ کی تعلیم کی 195 مطالعات** کے PRISMA اسکوپنگ ریویو میں ڈیجیٹل قابلیت، TPACK اور DigComp **اشاریہ شدہ ادب پر غالب** ہیں۔ کسی تلاش میں کثرت اُس ذخیرۂ الفاظ کی خاصیت ہے جو میدان استعمال کرتا ہے، اِس بات کا ثبوت نہیں کہ فریم ورک زیادہ وضاحت کرتا ہے۔
 - **"معروف فریم ورک AI کے لیے تصدیق شدہ ہے۔"** TPACK AI کی مخصوص صلاحیتوں کے لیے ڈیزائن نہیں کیا گیا، اسی لیے Intelligent-TPACK تیار کیا گیا — اور وہ 78 مطالعات والے ریویو میں صرف **پنج مطالعات** میں آتا ہے۔ GenAI قابلیت کے لیے TPACK استعمال کرنا اُسے اُس کی تعمیر سے آگے کھینچنا ہے۔
 - **"کسی فریم ورک کا اطلاق مطلب یہ ہے کہ تحقیق نظریہ بند ہے۔"** اسی ریویو نے پایا کہ **76% مطالعات نے مشق سے قابلیتیں اخذ کیں، بغیر کسی نظریاتی نقشہ بندی کے**، اس لیے میدان میں TPACK کی موجودگی اور زیادہ تر تحقیق کا بغیر نظریہ ہونا ساتھ ساتھ چلتے ہیں۔ نامزد فریم ورک کا ہونا اور فریم ورک کا کام کرنا ایک چیز نہیں۔
-
-## منسلک تصورات
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## منسلک مضامین
-- [[ai-literacy-tpack-preservice-2026]] — پری سروس استاد کی تعلیم میں ادراک شدہ AI خواندگی اور TPACK: افادیت، استعمال میں آسانی اور قدر کے ذریعے ثالثی (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — AI سرٹیفکیٹ پروگراموں کے لیے جائزے کا اشاریہ نظام
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — بین سطحی مطالعہ: 'پہلے پیڈاگوجی، بعد میں ٹیکنالوجی' — طلبہ کے نتائج کے لیے TPAIK تکنیکی TAIK پر بھاری ہے (Shen وغیرہ 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — ان سروس اساتذہ کا TPACK-GenAI اور پیڈاگوجیکل علم کا ثالثی کردار (Mohebi اور ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — ٹیکنالوجی انضمام کے لیے فیکلٹی معیارات (TPACK سے متعلق DBR)
-- [[edurev-100741-tpack-genai-review]] — جنریٹو AI کو طلبہ کی سیکھنے میں شامل کرنا: TPACK کے نقطۂ نظر سے ایک منظم ریویو
-- [[ai-tpack-teacher-multi-agent-workflow]] — استاد کے کثیر ایجنٹ ورک فلو کے ذریعے AI-TPACK کی ماڈلنگ
-- [[ai-tpack-preservice-math-teachers]] — پری سروس ریاضی کے اساتذہ میں AI-TPACK کی تیاری
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — سبق کی ڈیزائننگ میں استاد-AI تعامل: Intelligent-TPACK، تجربہ اور مہارت کا باہمی عمل (Choi وغیرہ 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — شدید GenAI پیشہ ورانہ ترقی اور AI-PCK میں اضافے
-- [[teacher-ai-teaming-five-levels]] — استاد-AI ٹیمنگ کا پانچ سطحی فریم ورک
-- [[teacher-ai-adoption-confidence]] — استاد کا اعتماد اور AI کی قبولیت
-- [[teacher-education-ai-literacy-sdt-2026]] — خود ارادیت نظریے کے ذریعے AI خواندگی کے لیے استاد کی تعلیم
-- [[genai-literacy-training-teacher-education-dbr-2026]] — ڈیزائن پر مبنی تحقیق GenAI خواندگی کی تربیت
-- [[rail-ed-genai-literacy-teacher-education]] — استاد کی تعلیم میں GenAI خواندگی پر نظرِ ثانی
-- [[sec-ai-literacy-narrative-review-2026]] — سماجی-جذباتی قابلیتیں اور AI خواندگی
-- [[genai-runaway-object-math-higher-ed]] — اعلیٰ تعلیم میں GenAI اور ریاضی
-- [[ai-changing-teaching-workflows]] — AI تدریسی ورک فلو کیسے بدل رہا ہے
-- [[sutedjo-faculty-genai-tpack-21-2026]] — اعلیٰ تعلیم میں GenAI کے لیے فیکلٹی کا خود ادراک شدہ TPACK-21 علم (Sutedjo, Chowdhury اور Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — نئے AI-TPACK فریم ورک کی طرف: اخلاقیات بطورِ تکنیکی AI علم کا یکجا کرنے والا ثالث (Chen وغیرہ 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186 جنوبی افریقی سائنس طالب علم اساتذہ کا تقابلی سروے: خود رپورٹ شدہ TPACK میں کیمپس کی برتری، اور فاصلاتی ادارے میں AI تربیت کا کمزور بتائے گئے TPACK سے منسلک ہونا
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK اور سائنس کی تدریس کی خود اعتمادی AI خواندگی کے تحقیقات کے انضمام کی نیت پر اثر میں سلسلہ وار ثالثی کرتے ہیں (Zou وغیرہ 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — یونیورسٹی اساتذہ کے لیے Intelligent-TPACK پیشہ ورانہ ترقی: جہت کے لحاظ سے الگ اضافے، خود ادراک شدہ شمولیت کے بجائے حاضری — AI کی مدد والا CTD-PBL ماڈیول اور پری سروس طبیعیات اساتذہ کا TPACK اور مشترکہ مسئلہ حل کرنا (Chen اور Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — ڈیزائن تعلیم میں انسانی-AI تعاون کی جانچ: توسیع شدہ AI-TPACK فریم ورک پر استوار ایک عمل پر مبنی روبرک
-- [[capability-decision-model-teacher-readiness-2026]] — استاد کی AI تیاری کا ترتیب وار، قابلیت کو اولیت دینے والا ماڈل اور اُس کا تصوراتی اوورلیپ کا انتباہ
-- [[digital-competence-ai-responsive-pedagogy-2026]] — اسکوپنگ ریویو کا انتباہ کہ قابلیت کے فریم ورک کا غلبہ جزوی طور پر تلاش کی وضاحتوں کا عکس ہے، میدان کی کثرت کا نہیں
-
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — یکجا TPACK کا کردار: پری سروس اساتذہ کو بااختیار بنانا اور تدریس میں جنریٹو AI کے بارے میں اُن کے رویّے کی تشکیل (Khalil et al. 2026)

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -42,7 +43,3 @@ Giáo viên K-12 và các quận muốn kiểm soát trong lớp và nền tản
 ## Ghi chú
 
 Việc truy cập công cụ xây dựng bị hạn chế: trang bắt đầu yêu cầu một địa chỉ email và một chỗ trong buổi workshop giới thiệu, hoặc một mã mời. Các tuyên bố tuân thủ của nó (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), lời hứa rằng tác phẩm của bạn không bao giờ dùng để huấn luyện các mô hình bên ngoài, và việc giao quyền đối với đầu ra cho người tạo, đều thuộc về thỏa thuận xử lý dữ liệu chứ không chỉ trang tiếp thị; so sánh năng lực của nó với MagicSchool và các chatbot lớn là của chính Playlab, ghi ngày giữa năm 2026. Nó lớn lên từ công việc lập trình cho người dùng cuối gắn với Scratch và Phòng thí nghiệm Truyền thông MIT.
-
-## Khái niệm liên quan
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

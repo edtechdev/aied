@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -43,7 +44,3 @@ Nastavnici i timovi za kolegije koji žele generirane materijale koje i dalje mo
 ## Napomene
 
 Licencirano MIT, s korisničkim vodičem na engleskom i kineskom i aktivnom zajednicom na Discordu i Feishuu. Neovisan je o modelu: osiguravate barem jedan ključ davatelja LLM-a, a neobavezni lokalni dijelovi (Lemonade za lokalne modele, FunASR za prepoznavanje govora) omogućuju da se više sustava pokreće izvan mreže — pa „besplatno“ opisuje softver, a ne račun za inferenciju. Rad iza njega objavljen je u *Journal of Computer Science and Technology* (2026., DOI 10.1007/s11390-025-6000-0), a repozitorij je do rujna 2026. imao više od 38.000 zvjezdica.
-
-## Povezani pojmovi
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

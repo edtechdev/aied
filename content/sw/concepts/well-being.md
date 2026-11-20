@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -71,7 +73,6 @@ Mada inayojirudia ni kwamba ustawi unapaswa kuwa kizingiri cha kubuni chenye nia
 
 **Ushahidi wa kijamii-kihisia hausemi nani anapaswa kutenda.** [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya masudio 65 katika makutano ya AI na [[social-emotional-learning|kujifunza kwa kijamii-kihisia]] yaligundua karibu robo tatu hayakutaja athari za sera, na wachache waliotaja yalitoa mwongozo mdogo unaomhusisha mhusika mahususi kuhusu faragha, [[teacher-education|mafunzo ya walimu]] au ugawaji wa rasilimali ([[policy-deficit-ai-sel-2026|Tran, Liu na Nguyen (2026)]]). Ustawi kama kizingiti cha kubuni kwa hivyo una ushahidi kuhusu athari na kidogo sana kuhusu uwajibikaji, jambo linaloacha swali la nani anabuni kwa ajili yake kwa taasisi badala ya fasihi.
 
-
 Marejeo upya ya dhana yanaweka msingi wa msaada wa [[self-regulated-learning|udhibiti wa hisia]] katika shughuli ya mwili na mazingira ya chuo badala ya kugundua hisia peke yake: hakuna chaneli moja ya kuelezea inayotambua dhiki bila muktadha, hivyo AI inapaswa kusaidia udhibiti kupitia mazoezi huku walimu na washauri wakiweka tafsiri, na ufuatiliaji wa hisia unakuwa wa kulazimisha unapounganishwa na mahudhurio au alama ([[ai-emotion-regulation-sport-exercise-2026|Zhang na wenzake (2026)]]).
 
 ### Mahusiano na dhana zinazohusiana
@@ -85,42 +86,3 @@ Ustawi unaunganisha na [[student-experience]] (kama kipimo cha uzoefu wa jumla w
 - **"Kukubali kwa wanafunzi kunaonyesha ustawi unasaidiwa."** Kati ya **wanafunzi 551 wa mwaka wa kwanza**, **82.76% walikubali ujumuishaji** wa maudhui ya kidijitali na ya kiakili, na **kukubali kwa juu kuliambatana na mkazo, huku shinikizo la kazi za AI likidhoofisha faida**. Kukubali na mkazo hupanda pamoja, hivyo tafiti za ridhaa zinapotosha hasa hapa.
 - **"Msaada wa ustawi hauna upande wa kitamaduni."** [[culturally-aware-student-stress-chatbot-2026|Bashir na Afzal (2026)]] wanaeleza Sukoon, chombo cha mseto cha msaada wa ustawi, kama **kilichowekwa kitamaduni**, na fremu ya ukurasa yenyewe inabainisha mipaka yake. Ubuni wa msaada unaodhani mwanafunzi wa jumla husoma vibaya idadi ya watu.
 - **"Shinikizo la kazi ni tofauti na teknolojia."** Ugunduzi ni kwamba **shinikizo la kazi** za AI lilidhoofisha faida ya ujumuishaji, jambo linaloweka mzigo wa kazi ndani ya athari za teknolojia badala ya kando yake.
-
-## Dhana Zilizounganishwa
-- [[student-support-and-success]] — huduma za msaada za chuo zinazojumuisha ushauri, ufikiaji, na rufaa
-- [[learners]] — Wenye kujifunza: paa ya dhana za upande wa mwanafunzi
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-
-## Makala Zilizounganishwa
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Msuguano, maana, na upweke kama ishara ya kibiolojia
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — Uhusiano kati ya Wasiwasi wa AI na Motisha ya Kitaaluma
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Wasifu na Mabadiliko ya Mabadiliko ya Kisaikolojia katika Kujifunza Lugha ya Kijapani Yanayosaidiwa na AI
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Muunganisho wa Hadithi Mahususi wa Ushirikiano na Utegemezi wa Mazungumzo ya AI
-- [[mindful-llm-math-tutoring-2026]] — Zaidi ya Utatuzi wa Matatizo: Mifano Mikubwa ya Lugha kwa Msaada wa Kihisia na wa Tafakari katika Kujifunza Hisabati
-- [[sec-ai-literacy-narrative-review-2026]] — Kujumuisha Uwezo wa Kijamii-Kihisia katika Ujuzi wa AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Ushirikiano wa Wanafunzi na GenAI (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — Elimu ya Walimu kwa Ujuzi wa AI (SDT)
-- [[genai-motivation-engagement-2026]] — Akili Bandia ya Kizalishaji, Motisha, na Ushirikiano
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Chatbot za AI, Ufanisi wa Pamoja, na Ushirikiano
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Tathmini ya Wasiwasi wa Mwanafunzi Iliyoimarishwa na LLM (2026)
-- [[policy-deficit-ai-sel-2026]] — Upungufu wa Sera katika Utafiti wa AI × SEL
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Yenye Ufahamu wa Kitamaduni Inayoendeshwa na AI kwa Kugundua Mkaza na Kusaidia Ustawi kati ya Wanafunzi wa Chuo Kikuu wa Pakistan Kutumia NLP na Kujifunza kwa Mashine
-- [[daoism-ai-education-philosophy-2026]] — Falsafa ya AI Mbadala: Daoism kama Mbinu ya AI katika Elimu
-- [[ai-emotional-intelligence-teacher-development-2026]] — Kuongezeka kwa uhusiano kama kigezo cha maendeleo ya walimu yanayosaidiwa na AI
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Kupitishwa kwa hali ya juu kwa kozi ya AI kikiishi pamoja na mkazo uliojitangazwa, na shinikizo la kazi likidhoofisha mabadiliko
-- [[ai-connectedness-adolescent-mental-health-2026]] — Uhusiano wa AI na afya ya akili ya vijana: uhusiano wa nyongeza dhidi ya ule wa kufidia, na utabiri wa inverted-U
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Akili ya msaidizi wa AI inayohisika, maendeleo ya malengo na afya ya akili, na ujuzi wa AI kama mdhibiti
-- [[ai-emotion-regulation-sport-exercise-2026]] — Marejeo upya ya dhana ya udhibiti wa hisia unaosaidiwa na AI kupitia mchezo, mazoezi na mazingira ya chuo
-- [[faculty-ai-well-being-social-supports-2026]] — Mfano wa mlinganyo
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Wanafunzi 819 walipima chatbot juu na wakaogopa zaidi upotevu wa uhusiano wa binadamu
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — Wasiwasi wa mitihani unagawanywa upya, hauondolewi wa muundo wa ustawi wa AI wa wataalam: ujuzi wa AI unatawala juu ya uwezo binafsi

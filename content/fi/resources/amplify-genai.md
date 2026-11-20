@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -48,10 +49,3 @@ Keskitetylle IT:lle ja tietohallintojohtajien toimistoille, jotka ajavat jo työ
 ## Huomioita ja varauksia
 
 Ilmainen lisensoida, ei ilmainen ajaa: oppilaitos maksaa AWS:lle ja mallien tarjoajille. Mallin valinta kulkee Amazon Bedrockin (Anthropic, Mistral) tai OpenAI:n ja Microsoft Azure:n kautta, eikä omien paikallisten mallien ajaminen ole toteutettu. Projekti toteaa suoraan, ettei se voi tukea yksittäisiä asennuksia, ja ohjaa organisaatiot kaupallisten kumppanien puoleen – joten realistiseen kustannukseen sisältyy henkilöstöä tai urakoitsija. Kyseessä on kolmen repon asennus (frontend, backend, infrastruktuuri), jolla on kymmeniä tähtiä eikä tuhansia, ja yllä oleva kustannusvertailu on Vanderbiltin oma kokemus eikä kontrolloitu tutkimus. Oppilaitosten, jotka pitäisivät päättelylaskun omassa laitteistossaan, kannattaa katsoa [MindRouter](/aied/resources/mindrouter/) ja lukea nämä kaksi yhdessä: Amplify on sovelluskerros toimittajien mallien päällä, MindRouter on yhdyskäytävä omien GPU:iden päällä.
-
-## Liittyvät käsitteet
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

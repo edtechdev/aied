@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -67,24 +69,3 @@ ai_assist:
 - **«Кращі візуалізації дають кращі результати.»** Викладачі **систематично віддавали перевагу простішим, традиційнішим візуалізаціям** (стовпчикові, кругові, легенди) **навіть коли складні конструкції, як-от теплокарти, давали детальніші прозріння**. Інформативніший артефакт не був тим, який використали, тож впровадження — окрема проблема від якості дизайну.
 - **«Студенти дивляться туди, де скаффолдинг.»** Одне дослідження виявило, що студенти **проводили більшість погляду на коді попри вигадливі візуальні скаффолди** — підказки просто не захоплювали уваги. Візуальна підтримка, присутня, але не помічена, не змінює нічого.
 - **«Залученість і розуміння рухаються разом.»** Учасники вважали згенеровані ШІ комікси даних **цікавішими та зрозумілішими, проте багато хто також вказував на ризик дезінформації та інформаційне перевантаження**. Обидві реакції походили з одного артефакту, тож позитивне сприйняття — не перевірене прочитання.
-
-## Пов’язані поняття
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — просторове та тривимірне подання
-
-## Пов’язані статті
-
-- [[interactive-learning-dashboards-engagement]] — Переосмислення навчальних візуалізацій як інструментів залучення через педагогічних агентів
-- [[mllm-scientific-visualization-literacy]] — Бенчмаркінг мультимодальних LLM на візуалізаційну грамотність у науковій візуалізації
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Адаптовані до домену моделі текст-у-зображення для візуалізації ядерних понять
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Ефективність, вигоди та етика коміксів про дані з підтримкою ШІ
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Контрфактичний бенчмарк для мультимодального аудиту слайдів
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Роблення висновків ML доступними для викладачів у змішаних аудиторіях
-- [[genai-visualization-education-framework-2026]] — Конструювання значення, а не просто діаграм: когнітивно-інструкційна рамкова основа для використання генеративного ШІ в освіті з візуалізації

@@ -34,7 +34,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -54,7 +54,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحفظات
 
 اقرأ لوحة الثقة في كل صفحة. تدير نماذج لغوية الويكي تحت مشرف بشري واحد، ولم يفحص أي شخص أي صفحة، ويصف الموقع الصفحة بأنها خيط جيد المصدر لا نتيجة. وتحمل الادعاءات طبقة تصميم ورمز حجم أثر ورمز صرامة، وعبارة «لا حجم أثر مطبوع» تعني أن المصدر لم يذكر أي حجم أثر، لا أنه غير موجود. والمحتوى بموجب CC BY-SA 4.0، فإعادة الاستخدام يجب أن تحمل الرخصة نفسها، والشيفرة بموجب MIT.
-
-## المفاهيم المتصلة
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

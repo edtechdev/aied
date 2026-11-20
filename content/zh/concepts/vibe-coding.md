@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -97,31 +99,3 @@ ai_assist:
 **“‘纯粹的’氛围编程才是这个词的意思，所以这一区分不重要。”** 它对评估与安全都重要。本页区分纯粹的氛围编程，即使用者有意不检查、不编辑生成的源码，完全依赖迭代提示与行为评估，与可见代码的工作，即使用者会阅读产出的内容。它们是错误画像不同的两种活动，对其中一种的研究不能为关于另一种的主张背书。
 
 **“如果应用能跑起来，生成的代码就没问题。”** 能跑是一个很弱的测试。Veracode 2025 年的分析发现只有 55% 的 AI 生成代码是安全的，因此氛围编程出来的课堂工具在处理学生数据或连接任何值得保护的系统之前仍需要一次审查。行为评估只确认使用者碰巧走到的那些路径，对没走到的路径什么也没说。
-
-## 关联概念
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## 关联文章
-
-- [[vibe-coding-writing-cs-achievement-2026]] — 计算机科学成就与写作技能预测氛围编程熟练度（CHI 2026 实证研究）
-- [[gaide-vibe-coding-k12-teachers]] — 一个引导 K-12 教师通过氛围编程创建 AI 驱动学习技术的框架
-- [[vibe-coding-programming-process-visualizer]] — 从想法到课堂只需数天：用"氛围编程"从 IDE 活动日志创建编程过程可视化器
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — 氛围编程在数小时内构建了两个工程模拟；诊断协议错误仍然需要教师
-- [[prompt-problems-nl-programming-mistakes]] — 理解学生在解决自然语言编程任务时的认知、错误与调试方法
-- [[code-to-learn-genai-artifact-construction-2026]] — 与生成式 AI 一起以代码学习：高中教育中产物构建的有理论依据的框架
-- [[reshaping-cs-education-genai]] — 为生成式 AI 重塑本科计算机科学教育
-- [[flowcode-ai-creative-coding]] — Flowcode：一个用于脚手架化创意计算教育中迭代的 AI 编程环境
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI 内部创业：教师自建工具，以及决定这种冲动能否存续的组织使能因素（Zimmer 2026）
-- [[vibe-coding-design-diversity-2026]] — 一种工具，一种口味？氛围编程如何以集体多样性换取个人创造力
-- [[ho-invariant-core-faculty-development-2027]] — 教师自建工具作为一种评估策略：人手无法提供的过程证据（Ho 2026）

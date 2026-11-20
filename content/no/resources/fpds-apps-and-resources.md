@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -48,7 +49,3 @@ Undervisere og [[educational-development|utdanningsutviklere]] ved Hillsborough 
 ## Merknader og forbehold
 
 Lesing krever ingen konto, og Canvas-kursene og sjekklistene den lenker til, er offentlige. Playlab-coachene og Gemini-Gem-ene og -notatbøkene er tredjepartstjenester som faktisk krever en. Kortene rendres fra `apps.json`, så hele listen krever JavaScript, og reservevisningen uten skript navngir åtte av de femten; kortlenken `tinyurl.com/fpdapps` og en QR-kode i toppteksten åpner den på en telefon. Repoet er programvare under MIT-lisens, mens guidene den lenker til har egne lisenser, blant dem Pressbooks-boken under en ikke-kommersiell Creative Commons-lisens. Det finnes ingen publiseringsplan, så siden endres uten varsel.
-
-## Tilknyttede begreper
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -91,42 +93,3 @@ AI استعمال اور انکشاف [[academic-integrity]] (اُس کی بنی
 - **"طلبہ AI استعمال اس لیے چھپاتے ہیں کہ وہ بددیانت ہیں۔"** محرکات دستاویز شدہ اور مخصوص ہیں: معاشیات کے صرف **تقریباً 34% طلبہ نے AI استعمال کا اعتراف کیا** اور انکشاف اُس سے بھی کم تھا، جس کی وجہ **سزا کی بے چینی** تھی، جبکہ ایک اور مطالعے نے پایا کہ **66% نے کبھی یا شاذ و نادر ہی انکشاف کیا** اور **تعلیمی سزا کا خوف سب سے بڑی وجہ تھا**۔ اعداد و شمار کردار کے بجائے پالیسی کے ڈیزائن کو نشان زد کرتے ہیں۔
 - **"انکشاف کا تقاضا ایک کم خرچ کنٹرول ہے۔"** **74% عدم تعمیل کی شرح** نتیجے میں بننے والے ریکارڈ کو بغیر ریکارڈ سے بدتر بنا دیتی ہے: یہ ایسا ڈیٹا سیٹ ہے جو مکمل دکھائی دیتا ہے اور نہیں ہے، اس لیے ادارہ ایسے نمونے پر فیصلے کر رہا ہے جس پر وہ بھروسا نہیں کر سکتا۔
 - **"یہ بتا دینا کافی ہے کہ ماڈل کیسے استعمال ہوا۔"** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] دلیل دیتے ہیں کہ انکشاف ماڈل کے استعمال کو دستاویز کرتا ہے جبکہ ذمہ دار استعمال کے لیے دعوے کی سطح پر مصنفانہ جواز درکار ہے — یعنی معاون کی وہ صلاحیت کہ وہ دعووں کو سمجھے، جائز قرار دے اور دفاع کرے — جو [[cognitive-offloading|علمی تفویض]]، جہاں نتائج اہم انتخاب کی تشکیل کرتے ہیں، کو معمول کی تفویض سے الگ کرتا ہے، جو ایسا نہیں کرتی۔
-
-## منسلک تصورات
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — وہ نقصان جسے انکشاف نظر آنے والا بنانا چاہتا ہے
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — سیکھنے والے انکشاف کے بجائے چھپانا کیوں چنتے ہیں
-
-## منسلک مضامین
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — ایک SEM تقسیم: پکڑ کا یقین بمقابلہ اِس کا خطرہ کہ اعلان ناجائز استعمال بے نقاب کرے گا (Liu et al. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — آئینے کی سمت: طلبہ کو بتانا کہ AI اُن کے کام کی نمبر بندی کب کرتا ہے، اور اپ لوڈ سے پہلے پوچھنا
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — پکڑ سے آگے: طلبہ آن لائن جائزوں میں AI کیسے استعمال اور کیسے چھپاتے ہیں
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — طلبہ کا AI انکشاف، بدنامی اور خود ضابطگی والی سیکھنا
-- [[vetter-hidden-cost-disclosure-genai-2026]] — انکشاف کی چھپی ہوئی قیمت: انکشاف اور اساتذہ کے الزامات
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — طلبہ کا AI استعمال کے اعلانات کی عدم تعمیل
-- [[teichmann-detecting-undetectable-misconduct-2026]] — اعلانات بطور تعلیم، بطور پکڑ نہیں
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — جانچ میں ایمانداری کی قیمت بطور ڈیزائن کی حد
-- [[student-perspectives-ai-writing-grading-2026]] — میرا کام کسے نمبر دینا چاہیے؟ اعلیٰ تعلیم میں شفاف AI کی معاونت والی تحریر کی جانچ پر طلبہ کے نقطہ نظر
-- [[qian-governing-genai-higher-ed-policy-2026]] — امریکہ کی 50 اختراعی یونیورسٹیوں میں انکشاف بطور معاونت اور غلط بیانی کے درمیان حد (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — قانونی اسکول کی پالیسی میں انکشاف اور AI کے حوالے پر کوئی اتفاق نہیں (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI کے لکھے داخلے کے مضامین وسیع ہیں مگر جرمانہ پاتے ہیں
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — تیرہ تجربات: AI استعمال کا انکشاف، انکشاف کرنے والے کا بھروسا جواز کے ذریعے کم کرتا ہے
-- [[authorial-warrant-ai-supported-scholarship-2026]] — جب انکشاف کے اصول کافی نہیں: AI کی معاونت والی علمیات میں مصنفانہ جواز اور فیصلہ (Mirończuk 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI انکشاف کے لیبل، سمجھی جانے والی اصالت، اور AI کے پیدا کردہ تدریسی ویڈیوز پر بھروسا

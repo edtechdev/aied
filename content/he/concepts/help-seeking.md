@@ -23,12 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
 > **חיפוש עזרה** — תהליכו של הלומד בזיהוי הצורך בסיוע ובבקשתו האסטרטגית, וכיצד התהליך הזה מתגלגל בסביבות למידה הנתמכות בבינה מלאכותית. ב[[ai-education|בינה מלאכותית בחינוך]], חיפוש עזרה הוא מרכזי לשאלה האם כלי בינה מלאכותית תומכים בלמידה או פוגעים בה: *איכות* חיפוש העזרה (מתי, כיצד, ומה הלומדים מבקשים) מעצבת בחזקה את התוצאות, וחונכים מבוססי בינה מלאכותית, רמזים ו[[pedagogy|סוכנים פדגוגיים]] מתוכננים בדיוק כדי לעורר חיפוש עזרה פורה במקום חיפוש תשובות.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 יוזמה מוקדמת יכולה להגביר את חיפוש העזרה ללא שינוי כלשהו בחומרי הלמידה. ניסוי טרום-רשום בקורסים לתואר ראשון עם רישום גדול שלח הודעות לסטודנטים באמצעות צ'אטבוט אקדמי ומצא תפיסה גדולה יותר של חונכות והדרכה משלימה; ניתוח תיווך ייחס 17.8% מאפקט הציון לחיפוש העזרה המוגבר הזה (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
@@ -132,53 +133,3 @@ ai_assist:
 - **"סטודנטים שזקוקים לעזרה אינם מבקשים אותה."** **ניסוי טרום-רשום** בקורסים לתואר ראשון עם רישום גדול שלח הודעות לסטודנטים דרך צ'אטבוט אקדמי ומצא **תפיסה גדולה יותר של חונכות ותמיכה משלימה**. הדחיפה שינתה את ההתנהגות, ולכן המחסום היה ב[[prompt-engineering|תזכורת]] ולא בנכונות.
 - **"בקשות חיפוש עזרה עוסקות בלמידה."** **ביקוש לתמיכה תפעולית** מסבך את ההנחה הזו: לאורך **4,093 שאילתות**, לפחות **20.4% שאלו על הסטטוס של הגשה ממתינה ולא על ידע**. חמישית מהביקוש לעזרה היה אדמיניסטרטיבי.
 - **"שימוש בחונך AI פירושו ניטור הלמידה שלך."** במחקר של **98 תלמידי כיתה ט'** שהשתמשו בחונך GenAI, האינטראקציות היו **נשלטות בבקשות אינסטרומנטליות עם כמעט ללא ניטור או הערכה של הלמידה שלהם**. בקשת תשובות אינה חיפוש עזרה במשמעות שהמבנה הזה נושא.
-
-## מושגים מחוברים
-
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — יוזמה מוסדית והקצאת תמיכה, מעבר לחיפוש עזרה בתוך-קורס
-
-## מאמרים מחוברים
-
-- [[leite-its-k12-meta-analysis-2025]] — אילו תמיכות חונכות נושאות את האפקט: דוגמאות ורמזים לפי דרישה לפני הנחיות אוטומטיות
-
-- [[taufer-human-ai-interaction-haidl-2026]] — אינטראקציות כנתונים במעמד ראשון: סיווג שאילתה לפי מצב הביצוע שסביבה
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — מסלול חיפוש העזרה, לא רמתו, חוזה ביצועי מתמטיקה ללא סיוע
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — אורך הרמז נמדד מול נכונות ההגשה הבאה, הניסיונות והזמן, בקורס תכנות חי
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — סוכן עוזר שאיש לא ביקש (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: מערכת שאלות ותשובות אינטראקטיבית מבוססת-עט המנצלת מודלים לשוניים גדולים
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — חיפוש עזרה מתווך-מודל לשוני גדול ב-STEM: שכבתי, אינסטרומנטלי, ומאומת
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo בניסוי בית ספרי בן שנתיים
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — חונכות וירטואלית עם למידה בסיוע מחשב: ניסוי בתפיסה ובלמידה
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — מערך הנתונים StudyChat של דיאלוגים בין סטודנט למודל לשוני גדול בקורס בינה מלאכותית
-- [[lak2026-hint-button-unproductive-use]] — בקשות רמז מוקדמות וקריאת רמז שטחית חוזים הישגי למידה נמוכים יותר במערכת חונכות חכמה
-- [[ai-fallibility-warning-help-seeking]] — הזהרה על כשלות בינה מלאכותית מגבירה חיפוש עזרה במערכת חונכות מתמטית
-- [[regulating-ai-tutor-adolescent-srl]] — פער הכוונה-להתנהגות בחיפוש עזרה מבוסס GenAI ובמידה עצמית מוסדרת בקרב מתבגרים
-- [[guided-llm-scaffolding-independent-learning]] — פיגום מונחה למודל לשוני גדול משפר חיפוש עזרה ממוקד-חשיבה ולמידה עצמאית
-- [[rethinking-scaffolding-llm-tutors]] — אי-ההתאמה בין פיגום לתפיסת הסטודנט בפריסות חונכי מודל לשוני גדול בעולם האמיתי
-- [[uneven-impact-generative-ai-student-learning-2026]] — הסתמכות מוקדמת: התייעצות ב-GenAI לפני חשיבה עצמאית, חיפוש, או מדריך חוזה הן רווח והן נזק (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — אוריינות משאבים בהלחנה מקוונת: צוואר הבקבוק הוא זיהוי מתי נדרשת עזרה (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — הפחתת מחסורים לתמיכה אקדמית: הערכת מערכת RAG ספציפית-לקורס לטיפול בפערי חיפוש עזרה בהשכלה גבוהה
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — צורך בפיגום אדפטיבי כתלות: חונך בינה מלאכותית שמסלים ומסוגר על פי מה שהלומד עושה
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: פיגום חיפוש עזרה ממוקד בבינה מלאכותית במהלך פתרון בעיות
-- [[guided-ai-tutor-impasse-resolution-2026]] — בחינת וריאציה באופן שבו חונכי בינה מלאכותית מונחים פותרים מבוכי סטודנטים
-- [[student-query-demand-hybrid-ai-support-2026]] — על מה סטודנטים שואלים בפועל: מבנה ביקוש ופוטנציאל אוטומציה במערכת תמיכה היברידית

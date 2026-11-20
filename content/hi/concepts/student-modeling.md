@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -117,59 +119,3 @@ ai_assist:
 - **"एक निष्ठावान मॉडल के लिए सबसे जटिल विधि चाहिए।"** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries और Koprinska (2025)]] दिखाते हैं कि **निष्ठावान प्रतिनिधित्व के लिए सबसे जटिल दृष्टिकोण आवश्यक नहीं है**। जटिलता निष्ठा का प्रतिनिधि नहीं है, और जो सरल मॉडल प्रासंगिक संरचना को पकड़ लेता है वह बेहतर उपकरण हो सकता है।
 - **"अधिगमकर्ता मॉडलों को ट्रेस डेटा चाहिए।"** एक पूर्वानुमानकारी अधिगमकर्ता मॉडल **नामांकन की संरचना** पर टिक सकता है, ट्रेस डेटा पर नहीं: TRACE हर सेमेस्टर को **पाठ्यक्रमों की अक्रमित टोकरी** के रूप में कूटबद्ध करता है और उसी से पूर्वानुमान लगाता है। पूर्वानुमानकारी संकेत संस्था के प्रशासनिक अभिलेख में भी रह सकता है।
 - **"भावनात्मक स्थिति के लिए शारीरिक संवेदन आवश्यक है।"** एक गणित ट्यूटर ने **संवादात्मक पाठ और चेहरे के भाव से भावना का अनुमान लगाया** और संयुक्त स्थिति को ट्यूटरिंग निर्णयों से जोड़ा। भाव-संकेत वहीं से पुनः प्राप्त हो सका जो अधिगमकर्ता पहले से उत्पन्न कर रहे थे।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[sensor-and-gaze-analytics]]
-- [[student-support-and-success]] — जोखिम-भविष्यवाणी और सहायता लक्षितीकरण के नीचे के मॉडल
-
-## संबंधित लेख
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली दक्षता अभ्यास को इससे पहले रोक सकती है कि शिक्षार्थी जानें कि क्रिया कब रोकनी है (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — छात्र दक्षता मूल्यांकन के लिए सहाया हस्तक्षेपों का कारणात्मक मॉडलिंग
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI ट्यूटरिंग एक एकरूप वस्तु नहीं: जो हम वास्तव में जानते हैं (स्टैनफ़ोर्ड SCALE/NSSA संक्षिप्त)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM ट्यूटर वैध विकल्पों को अत्यधिक अस्वीकार करते हैं, गलत को अत्यधिक मान्य करते हैं (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — छात्र जोखिम भविष्यवाणी से SC2R तक: प्रतिबिंबात्मक पुनर्निवार
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील क्षेत्रों के लिए ग्राफ-आधारित इंटेलिजेंट ट्यूटरिंग (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — शिक्षा विश्लेषिकी के लिए स्वयं-व्याख्यात्मक LM का संक्षिप्तीकरण
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM-आधारित छात्र सिम्युलेटर का प्रशिक्षण
-- [[predicting-attrition-competitive-programming]] — प्रतियोगी प्रोग्रामिंग में छात्र पीछे हटने की भविष्यवाणी
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — एफिनिटी मैपिंग के साथ परिणाम-आधारित ज्ञान अनुरेखण
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID एम्बेडिंग से आगे: संज्ञानात्मक निदान के लिए प्रक्रिया-आधारित भाषा मॉडलिंग
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — संक्षिप्त छात्र अवस्था और एक अंशांकित अनुरेखक, एक अनुशंसक परिवेश के रूप में
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: एक एजेंटिक ट्यूटर जो मानव-AI सह-सीखने के लूप में अपने शिक्षार्थी को सीखता है
-
-- [[ai-game-based-learning-systematic-review-2026]] — गुप्त मूल्यांकन 0.848–0.913 AUC तक पहुँचा, लेकिन 55 अध्ययनों में पूर्वाग्रह ऑडिट लगभग अनुपस्थित थे
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — संवाद-आधारित शैली-अनुमान संतुलित मीट्रिक्स पर विफल (Zamanifard, Goudarzi और Robb 2026)

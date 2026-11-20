@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -75,26 +77,3 @@ Os métodos mixtos ficam entre as tradições [[quantitative-research|quantitati
 - **"Evidência observacional e de entrevistas consegue sustentar uma afirmação sobre o sistema."** Parear observação do sistema e conversas com [[administrator|administradores]] contra uma **avaliação randomizada de quatro anos com 8.708 estudantes ao longo de oito semestres**, com poder para detectar efeitos de **0,05 desvio padrão**, mostra o que a vertente qualitativa não consegue fazer sozinha: detectar um efeito pequeno de forma confiável. Misturar métodos não é uma forma de transferir poder entre vertentes.
 - **"Triangulação significa que dois métodos fracos produzem uma afirmação forte."** O valor do pareamento é que cada vertente responde a uma pergunta diferente. Um desenho que executa ambas e depois relata o achado qualitativo como confirmação do quantitativo não triangulou, apenas repetiu.
 - **A convergência pode ser uma regra de admissão, não uma narrativa.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] só contava uma prioridade de redesenho quando ela aparecia em pelo menos duas de cinco fontes independentes e em uma fonte voltada à implementação, de modo que a percepção sozinha não podia promovê-la.
-
-## Conceitos conectados
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Artigos conectados
-
-- [[genai-over-reliance-learning-2026]] — Da melhoria à dependência excessiva (pesquisas + entrevistas)
-- [[t2i-competence-paradox-2026]] — O paradoxo da competência (grupos focais + pesquisa + entrevistas)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — A lacuna entre confiança e utilidade (pesquisa + entrevistas)
-- [[same-ai-different-pathways]] — Mecanismos da aprendizagem mediada por IA entre contextos
-- [[genai-feedback-design-multisite-experiment]] — Desenho centrado no humano de feedback com GenAI (multissítio)
-- [[hazra-safetutors-pedagogical-safety-2026]] — Segurança do tutor de IA e danos pedagógicos
-- [[becker-chatgpt-typology-physics-2026]] — Uma tipologia qualitativa da adoção do ChatGPT na física
-- [[edtech-privacy-deferral-2026]] — \"Consertaremos Depois\": Educação, IA e a Postergação da Privacidade dos Estudantes em EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER e um RoBERTa ajustado atribuíram valência oposta ao mesmo post do Bluesky (Geraili Meykola et al., 2026)

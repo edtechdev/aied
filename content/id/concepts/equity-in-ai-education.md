@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -131,74 +133,3 @@ Keadilan juga memiliki dimensi lingkungan dan komputasional: akses yang tidak se
 - **"Masalah keadilan adalah akses ke alat."** **Mutu alat adalah bagian dari kesenjangan, bukan hanya aksesnya**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] mengirimkan **50 tugas matematika** dan menemukan perbedaan mutu yang mengikuti alatnya alih-alih penggunanya.
 - **"Tutor hibrida manusia-AI tidak dapat mempersempit kesenjangan."** **Tutor manusia-AI yang terdiferensiasi adalah bukti bahwa model hibrida dapat mempersempit kesenjangan — ketika alokasinya mengikuti kebutuhan.** Sebuah studi difference-in-discontinuities (**635** partisipan) menemukan tutor proaktif menunjukkan **pertumbuhan rata-rata sedikit lebih tinggi (75%, p = 0,065) yang terkonsentrasi pada siswa yang lebih jauh di bawah ambang**. Perolehannya terkonsentrasi di tempat kebutuhan paling besar.
 - **"Efek rata-rata memberi tahu Anda apakah keadilan membaik."** Wawasannya adalah bahwa **aturan alokasi** menentukan luaran keadilan: intervensi yang membantu semua orang secara setara membiarkan kesenjangan tak berubah, dan yang membantu secara proporsional terhadap kebutuhan mempersempitnya.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[digital-divide]] — Akses yang tidak setara ke alat dan infrastruktur AI lintas garis sosial-ekonomi, wilayah, dan negara
-- [[bias-mitigation]] — Metode untuk mendeteksi dan mengoreksi bias pada tutor, penilai, dan penyaring AI
-- [[accessibility]] — Desain yang membuat alat belajar AI dapat digunakan oleh pembelajar dengan disabilitas
-- [[assistive-technology]] — Alat yang mendukung pembelajar dengan disabilitas dalam lingkungan bermediasi AI
-- [[culturally-relevant-pedagogy]] — Pengajaran yang mencerminkan konteks budaya pembelajar alih-alih memaksakan norma dominan
-- [[language-learning]] — Inklusi linguistik bagi pembelajar multibahasa dan bahasa yang kurang terwakili
-- [[inclusive-learning]] — Pembelajaran yang aksesibel dan adil bagi semua pembelajar
-- [[universal-design-for-learning]] — Merancang untuk variabilitas pembelajar sejak awal
-- [[neurodiversity]] — Mendukung pembelajar neurodivergen dalam pendidikan AI
-- [[special-education]] — Memenuhi kebutuhan pembelajar dengan disabilitas dalam desain sistem AI
-- [[ai-literacy]] — Keterampilan yang dibutuhkan pembelajar untuk memperoleh manfaat dari AI secara adil
-- [[educational-policy-ai]] — Kebijakan institusional yang menanamkan keadilan sebagai prinsip pemandu
-- [[governance]] — Pengawasan dan akuntabilitas untuk AI yang adil
-- [[agency]] — Memastikan AI memberdayakan alih-alih menggantikan suara siswa
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-- [[parents-and-families]]
-- [[student-support-and-success]] — siapa yang dijangkau sistem dukungan, dan risiko bertindak atas skor risiko
-
-## Artikel terkait
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Bagaimana bias visual GenAI masuk ke penilaian multimodal, dan mengapa melakukan kontra-narasi atasnya adalah kompetensi guru
-- [[rented-self-decoupling-performance-becoming-2026]] — Diri yang disewa: sewa dibayar dengan uang, diri, dan standar, serta lisensi yang berakhir saat kelulusan
-- [[verified-study-materials-learning-gains-2026]] — Terverifikasi, bukan dihasilkan: materi belajar AI yang diverifikasi pakar dan distribusi perolehan belajar dalam mata kuliah universitas
-
-- [[ai-literacies-young-adults-2025]] — Keadilan sebagai masalah pengantaran: menjangkau kaum muda yang dilewatkan pendidikan formal
-- [[opraise-automated-marking-ai-assessment-2026]] — Laporan OpRaise: penilaian AI atas 761 esai universitas di tiga universitas Inggris
-- [[kumar-genai-computing-education-systematic-review-2026]] — Celah keterampilan vs celah sumber daya: dua mekanisme keadilan yang membutuhkan obat berbeda
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — GenAI tanpa panduan dapat melebarkan kesenjangan: kompetensi pengelolaan interaksi (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Struktur institusional, ketidaksetaraan digital, dan integrasi AI di pendidikan tinggi Nigeria
-- [[student-attention-estimation-fairness-2026]] — Pemodelan Transformer Multimodal yang Sadar Keadilan untuk Estimasi Atensi Siswa secara Real-Time
-- [[school-ai-education-readiness-gaps-agency-2026]] — Pendidikan AI sekolah mempersempit kesenjangan kesiapan psikologis tetapi tidak kognitif
-- [[prompt-privilege-equitable-ai-access-2026]] — Privilese Prompt: mengukur & memitigasi disparitas aksesibilitas dalam akses LLM
-- [[ai-scoring-language-bias-physics]] — Bias bahasa dalam penilaian berbasis AI
-- [[gender-bias-transfer-llm-writing]] — Transfer bias gender dalam penulisan berbantuan LLM
-- [[genai-minoritized-knowledges-disability]] — AI generatif dan peminggiran pengetahuan yang terminoritaskan
-- [[structural-silence-underrepresented-language-ai-2026]] — Kesunyian struktural: bahasa yang kurang terwakili dalam infrastruktur AI
-- [[genai-higher-education-systematic-review-2026]] — GenAI di pendidikan tinggi: tinjauan sistematis
-- [[ai-lifelong-learning-policy]] — Kebijakan AI dan pembelajaran sepanjang hayat
-- [[generative-ai-education-productivity-gaps]] — Apakah AI generatif mempersempit kesenjangan produktivitas berbasis pendidikan?
-- [[genai-linguistic-diversity-academic-writing]] — Keragaman linguistik dalam penulisan akademik bermediasi AI
-- [[access-not-enough-ai-tutoring-2026]] — Akses tidak cukup
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Chatbot terkode perempuan sebagai panutan yang mengurangi stereotip gender matematika
-- [[paternalistic-filter-llm-history-education]] — Penyaringan paternalistik dalam pendidikan sejarah berbasis LLM
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: dukungan AI bagi pembelajar disleksia
-- [[ground-truth-reliability-aied]] — Keandalan ground truth dalam AIED
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias umpan balik yang selaras stereotip lintas atribut siswa
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang sesuai bagi profil siswa yang beragam? Evaluasi skala besar
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Lokakarya makerspace GenAI khusus perempuan dan keadilan gender dalam komputasi
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI asistif untuk pembelajar tunanetra
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Sadar Budaya Berbasis AI untuk Deteksi Stres dan Dukungan Kesejahteraan di Kalangan Mahasiswa Universitas Pakistan Menggunakan NLP dan Pembelajaran Mesin
-- [[demographic-signals-llm-student-assessment-2026]] — Sinyal demografis implisit (riwayat percakapan) menggeser penilaian, umpan balik, dan penjawaban LLM (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 dosen AS tentang AI kini dan nanti: 81% memperkirakan ketidakadilan digital melebar, 26% tidak memakai alatnya
-- [[li-genai-assessment-language-equity-2026]] — Menarik garis dukungan-substitusi: aturan penilaian GenAI dan beban kepatuhan siswa EAL
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Hak untuk menolak terdistribusi tidak merata: penolakan sebagai bukti kurangnya persiapan institusi (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Penilaian etis berbasis skenario dan literasi AI di antara 531 mahasiswa
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutor AI dan manusia menghasilkan perolehan belajar GRE yang setara
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Laporan lokakarya daring tentang penilaian komputasi di era AI generatif
-- [[genai-social-bias-software-engineering-education-2026]] — AI generatif dapat memperkuat bias sosial dalam pendidikan rekayasa perangkat lunak
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Celah akurasi tingkat gratis vs model premium dalam matematika: 32,7% vs 12% (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Perolehan belajar GenAI yang dipadukan (g=0,53) dan akses tidak adil ke alat berbiaya tinggi yang tidak dapat ditangkapnya
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Tinjauan tutor AI matematika yang menemukan klaim inklusivitas dan kesenjangan capaian tidak didukung
-- [[gurung-hybrid-human-ai-tutoring-2026]] — Meningkatkan tutor hibrida manusia-AI dengan mendiferensiasikan peran tutor manusia berdasarkan kebutuhan siswa (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Peluncuran AI matematika skala distrik dengan asosiasi eksploratif lebih besar bagi siswa IEP, pembelajar bahasa Inggris, dan siswa Hispanik (dukungan multimodal/multibahasa; kausalitas belum diuji)
-- [[gyekye-selves-apprenticeship-2026]] — Perajin muda kulit berwarna menyamakan keadilan dengan kedataran budaya; agensi dibangun melalui penolakan dan negosiasi; Recognition Bandwidth dan Institutional AI Literacy
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Pengantaran bermediasi guru menjangkau siswa yang tak tersentuh AI
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Deteksi menghantam paling keras penulis multibahasa
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Kompetensi memediasi manfaat yang diperoleh siswa dari akses LLM (Li et al. 2026)

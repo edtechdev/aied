@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -39,7 +40,3 @@ Dla K-12: generatory scenariuszy lekcji, kart pracy, [[special-education|celów 
 ## Uwagi
 
 Projekt twierdzi, że korzysta z lokalnie zainstalowanego serwera SI dla szybkości, że dane są przetwarzane lokalnie i nigdy nie przechowywane, oraz że spełnia wytyczne Departamentu Edukacji; [strona zespołu](https://teacherserver.com/index-team.php) wymienia Zafera Unala, profesora University of South Florida, jako założyciela i dewelopera, obok rady doradczej z czterech członków kadry z innych uczelni. Te twierdzenia wciąż warto zweryfikować przed użyciem z pracą studentów. Dostęp wymaga rejestracji, a istnieje towarzysząca platforma płatna później do budowania własnych narzędzi.
-
-## Powiązane pojęcia
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

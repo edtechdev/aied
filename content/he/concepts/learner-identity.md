@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -90,38 +92,3 @@ ai_assist:
 **"סיוע AI מוריד חסמים ולכן מרחיב השתתפות."** הוא יכול להוריד את החסם להפקת עבודה ובו-זמנית לצמצם את החסם לתביעת יוצרות. סטודנט שמגיש ארטיפקט שוטף שלא הוא כתב קיבל גישה לתוצר ונמנעה ממנו ההכרה שבונה את הזהות שמאחוריו.
 
 **"הכרה בזהות הלומד היא עניין של ייצוג בתכנים."** ייצוג חשוב, וההכרה מופעלת בפרקטיקה: שאלותיו של מי נלקחות ברצינות, תרומתו של מי נזקפת לזכותו, ומי נתפס כמסוגל. [[curriculum-design|תכנית לימודים]] יכולה להיות מייצגת ובכל זאת לשלול את ההכרה שהתגבשות הזהות דורשת.
-
-## מושגים מחוברים
-
-- [[learners]] — לומדים: מטריית המושגים בצד הלומד
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## מאמרים מחוברים
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 סטודנטים לתואר ראשון על מה שהם ממשיכים לעשות בעצמם, ולמה מטרה כמעט אינה מכריעה זאת
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
-
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

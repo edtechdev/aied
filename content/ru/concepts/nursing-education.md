@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -110,40 +112,3 @@ ai_assist:
 **Для исследователей**
 
 - Сообщайте выборки предлицензионной подготовки и практикующих медсестёр раздельно и изучайте переход к практике под надзором, если утверждение о компетентности должно что-то значить клинически.
-
-## Связанные концепции
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## Связанные статьи
-
-- [[hardie-genai-nursing-scoping-review-2026]] — Применения, установки и этика в сестринском образовании: обзор охвата 103 исследований (Hardie и др. 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — Опыт учащихся с симуляцией и отработкой навыков на базе генеративного ИИ в сестринском образовании: мета-синтез
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Систематический обзор ИИ в образовании в области сестринского дела (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Симуляция на базе ИИ в образовании в области сестринского дела: смешаннометодный систематический обзор
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, структурные пробелы и восстановление профессиональной идентичности
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Опыт студентов и преподавателей сестринского дела с ИИ через TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Восприятие ИИ и тревожность о карьере среди студентов медицинских наук
-- [[genai-counter-learner-groupthink-2025]] — Генеративный ИИ для противодействия групповому мышлению в межпрофессиональном PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Академики в области сестринского дела о GenAI: неоднозначность политики, профессиональные ценности и дрейф к оцениванию под наблюдением
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Удалённое наблюдение в оценивании в сестринском деле: слежка, справедливость и аргумент сдерживания, построенный на восприятии
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Скоупинг-обзор, отображающий рамки ИИ-компетентности на 12 подразмерностей KAS для учебных программ сестринского дела
-- [[rony-nursing-educators-ai-tpack-2025]] — Преподаватели сестринского дела в Бангладеш о готовности к ИИ, барьерах и управлении данными, прочитанные через TPACK
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — Зонтичный обзор 18 обзоров: этика, трансформация учебных программ и барьеры интеграции
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — Студенты сестринского дела об открытом секрете использования ИИ: персонализированное обучение, время и цифровое неравенство
-- [[agency-gap-ai-writing]] — РКИ со студентами медицинских и сестринских специальностей: реактивный и проактивный дизайн агента и разрыв агентности
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 1 020 студентов сестринского дела: взаимодействие с GenAI, образовательное взаимодействие и точно идентифицированная модель медиации
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Опубликованный ответ на Rony et al.: институциональные экосистемы, готовность и надзор за ИИ
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — Преподаватели и студенты совместно проектируют аналитическую панель сестринского образования
-- [[federated-learning-at-risk-student-prediction-2026]] — Прогнозирование риска с сохранением приватности по программам медицинских профессий и почему импортированный порог срабатывает ложно в сестринском деле

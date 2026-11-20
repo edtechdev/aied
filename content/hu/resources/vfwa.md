@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -51,11 +52,3 @@ Felsőoktatási program- és modulvezetők, akik továbbra is szeretnék, hogy a
 A modellt nem értékelték nagy léptékben. A tanulmány egyértelműen kimondja, hogy még nem létezik minta, eszköz vagy mért eredmény, és hogy pilotokra van szükség annak teszteléséhez, hogy az 1. szakasz artefaktumai növelik-e az értékelők bizalmát vagy az interpretáció konzisztenciáját, a diákok igazságosabbnak élik-e meg a konstrukciót, és hogyan állít egy szakterület elegendőségi küszöböt anélkül, hogy az 1. szakaszt második vizsgává tenné.
 
 Két gyakorlati költség valódi. Az 1. szakasz megfigyelt üléseket és biztonságos, nagy léptékű rögzítést igényel, a többnyelvű felvétel és fordítás pedig előfeltétel, nem kiegészítés. Az értelmezési ítélet pedig szándékosan a javítóknál marad: a modell olyan szakmai szakértelmet feltételez, amely nem automatizálható, ami legalább annyira személyzeti, mint tervezési feltevés.
-
-## Kapcsolódó fogalmak
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

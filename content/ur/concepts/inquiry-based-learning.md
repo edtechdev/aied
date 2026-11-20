@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -64,7 +66,6 @@ IBL کا سوال پر مبنی، عمل پر مرکوز ڈھانچہ AI کے ن
 
 کھلے میدانی ماحول میں یہی تقاضا مکانی ہو جاتا ہے: GenAI یہ پہلے سے طے کر سکتا ہے کہ سیکھنے والے شہادت کے سامنے آنے سے پہلے کیا نوٹ کریں، چنانچہ میدان پہلے والا ایسا سلسلہ جو مشاہدات اور ابتدائی تشریحات ریکارڈ ہونے تک تیار کردہ وضاحت روکے رکھتا ہے، تفتیش کو محفوظ رکھتا ہے ([[geoscience-field-learning-genai-2026|Choi، 2026]])۔
 
-
 **66 مطالعات کا نقشہ جنریٹیو AI کو تفتیش کے پہلو میں اور سب سے کم سمت کاری میں رکھتا ہے۔** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وغیرہ (2026)]] نے GenAI کے استعمال کو تفتیش کے پانچ مراحل پر کوڈ کیا اور پایا کہ معاونت کی اطلاع سب سے زیادہ تفتیش (45 مطالعات، 68.2%)، پھر نتیجہ (29، 43.9%)، بحث (28، 42.4%) اور تصور سازی (27، 40.9%) میں ملی، جبکہ سمت کاری سب سے آخر میں (20، 30.3%)۔ گیارہ مطالعات نے پانچوں مراحل کا احاطہ کیا، 19 نے ایک کا اور نو نے کسی کا نام نہیں لیا۔ صرف 8 مطالعات (12.1%) نے تفتیشی مہارتیں ناپیں، اور اُن میں سے 4 کے پاس موازنے کی حالت تھی، چنانچہ یہ اِس بات کا نقشہ ہے کہ اوزار کہاں رکھے گئے، اِس کا نہیں کہ تفتیش نے کیا حاصل کیا۔
 
 ## عام غلط فہمیاں
@@ -76,39 +77,3 @@ IBL کا سوال پر مبنی، عمل پر مرکوز ڈھانچہ AI کے ن
 **"تفتیش تعریف ہی سے غیر ساختہ ہوتی ہے۔"** مدرس سہارا دیتا ہے، اور ساخت سوال کے ڈیزائن اور غور کے چکر میں ہے، مواد کی پیشکش میں نہیں۔ سہارا ہٹانا تفتیش کو زیادہ مستند نہیں بناتا؛ وہ اُسے بے سہارا بنا دیتا ہے۔
 
 **"اگر طلبہ دلچسپی رکھیں تو اُن کے اٹھائے سوال اچھی طرح بنے ہوں گے۔"** قابلِ عمل سوال پیدا کرنا ہی وہ مہارت ہے جو پروان چڑھ رہی ہے، اِسی لیے وہ نظام جو اچھے سوال فراہم کر دے، اُس تفتیشی مہارت کا کام کر چکا ہوتا ہے جس کے لیے سرگرمی موجود ہے۔
-
-## منسلک تصورات
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — نتیجہ خیز ناکامی
-
-## منسلک مضامین
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM میں تفتیشی سیکھنے کے لیے ChatGPT (منظم جائزہ)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI چیٹ بوٹس اور ابتدائی سائنس میں مسئلہ تراشی
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM سے چلنے والے ماحول میں IBL کے نمونے (بلوم کا نقطہ نظر)
-- [[mujib-ai-ibl-creative-math-2026]] — AI کی معاونت والی IBL اور تخلیقی ریاضیاتی کارکردگی
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI اور اعلیٰ درجے کی سوچ کا میٹا تجزیہ
-- [[niri-steam-ai-literacy-review-2026]] — AI خواندگی کے لیے STEAM تعلیم
-- [[kim-ai-productive-failure-adult-2026]] — نتیجہ خیز ناکامی پر مبنی سیکھنے کی حمایت کے لیے AI نظام ڈیزائن کرنا
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — نتیجہ خیز ناکامی کے لیے LLM کی تدریسی سمت کاری
-- [[lukesova-clue-before-correction-2026]] — اشارہ پہلے، تصحیح بعد: خود مختار زبان سیکھنے کے لیے ChatGPT
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — ضیائی تالیف اور تنفس میں AI کی معاونت والی رہنمائی شدہ تفتیش (سائنس استاد کی تعلیم)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — انڈرگریجویٹ تھیسس اور تحقیقی سیکھنے کی حمایت کرنے والا AI سے چلنے والا معلومات کا اخراج (An وغیرہ 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — موسمیاتی تبدیلی کے سماجی سائنسی مسائل میں AI کی معاونت والی تفتیش
-- [[geoscience-field-learning-genai-2026]] — میدان پہلے والا تدریسی ماڈل جو GenAI کو سیکھنے والوں کے نوٹ کرنے کو پہلے سے طے کرنے سے روکتا ہے (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — انسانی سہولت کار بمقابلہ AI کے ذریعے مسئلہ پر مبنی سیکھنا: مواد میں برابر فائدہ، سہولت کار کے بغیر کمزور تنقیدی سوچ (Shetty اور Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - تفتیش کے پانچ مراحل میں جنریٹیو AI کا 66 مطالعاتی نقشہ، جہاں صرف 8 مطالعات نے تفتیشی مہارتیں ناپیں

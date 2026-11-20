@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -86,29 +88,3 @@ ai_assist:
 - **"পরিবেশ-শিক্ষায় এআই মূলত তথ্য জোগায়।"** মাপা অর্জনগুলো **সিদ্ধান্তগ্রহণে**: কাঠামোবদ্ধ [[inquiry-based-learning|অনুসন্ধান]] কাজে এআই-অংশীদারের সঙ্গে কাজ করা শিক্ষার্থীরা সিদ্ধান্তগ্রহণ-মাপে কেবল-অনুসন্ধানকারী সহপাঠীদের (**d = 0.69**) এবং প্রথাগত শিক্ষাদানকে (**d = 1.88**) ছাড়িয়ে গেছে, আর অর্জন **সবচেয়ে দুর্বল ধাপগুলোতে কেন্দ্রীভূত**। প্রভাবটি যুক্তির মানের মধ্যে, ঠিক যেখানে শিক্ষার্থীরা দুর্বল ছিল।
 - **"কেবল অনুসন্ধানই সক্রিয় উপাদান।"** এআই-সহায়ক অনুসন্ধান **কেবল অনুসন্ধানের চেয়ে জলবায়ু-সিদ্ধান্তগ্রহণ উন্নত করেছে**, ফলে এআই-এর অবদান শিক্ষাতাত্ত্বিক কাঠামোর অতিরিক্ত ছিল, তার বিনিময়যোগ্য নয়।
 - **"ছোট নমুনার বড় প্রভাবও বড় প্রভাব।"** টেকসই উন্নয়ন শিক্ষাতত্ত্বের সীমায় এআই-সহায়ক [[learning-design|শিক্ষা-নকশা]] **28 জন অংশগ্রহণকারীর কাছ থেকে d = 2.80 দিয়ে প্রাক-সেবা শিক্ষকদের পাঠ-পরিকল্পনা উন্নত করেছে** — পর্যালোচকদের নিজেদের শব্দ *অসম্ভবভাবে বড়*, আর সেই নমুনা থেকে এমন আকারের প্রভাবকে অনুমান নয়, সংকেত হিসেবে দেখা উচিত।
-
-## সংযুক্ত ধারণা
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — টেকসইতার জন্য এআই ও টেকসই এআই-কে আলাদা করে; বৈশ্বিক দক্ষিণের ফাঁক
-- [[ai-assisted-inquiry-ssi-climate]] — এআই-সহায়ক জলবায়ু-অনুসন্ধান, কেবল অনুসন্ধানের চেয়ে d = 0.69 বেশি
-- [[aied-carbon-footprint-reporting]] — AIED 2025 প্রকাশ-পর্যালোচনা এবং একটি ওপেন-সোর্স পদচিহ্ন পদ্ধতি
-- [[llm-environmental-impact-student-usage-2026]] — 89 জন CS শিক্ষার্থীর সঙ্গে বিলম্ব-কার্বন বাণিজ্যে ইকো-ফিডব্যাক
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — প্রতি কোয়েরিতে 1.8 mWh-এ অন-প্রিমাইজ কোয়ান্টাইজড সহায়ক
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: ইঞ্জিনিয়ারিং শিক্ষায় টেকসইতা-চেতনা
-- [[riandi-teacher-ai-green-energy-education-2026]] — ব্যবহারিক এআই-ব্যবহার ও ESD উপকরণ-নির্মাণ সংযুক্তির পূর্বানুমান করে
-- [[talebzadeh-ai-green-education-2026]] — টেকসই উন্নয়ন শিক্ষাতত্ত্বের সীমায় এআই-সহায়ক নকশা
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — টেকসই শিক্ষায় এআই-এর অবদান শাসন-মধ্যস্থ
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "টেকসই শিখন" টেকসই জ্ঞানীয় এজেন্সি হিসেবে, পরিবেশগত দাবি নয়

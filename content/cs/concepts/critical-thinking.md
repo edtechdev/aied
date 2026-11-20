@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -104,54 +106,3 @@ Kritické myšlení se protíná se [[scaffolding|scaffoldingem]] (navrhování 
 - **„Lepší prompt produkuje lepší kritické myšlení."** **Strukturované řízení dialogu, nikoli lepší prompt**, odlišuje tutora logických klamů od chatbota pro debatu: práci odvedlo **směrování každého tahu přes detekci záměru založenou na Toulminově modelu**. Mechanismem je struktura interakce, nikoli formulace.
 - **„Používání generativní AI přímo zvyšuje kritické myšlení."** Vazba používání generativní AI na **sebeposuzované** kritické myšlení probíhala **téměř výhradně přes [[feedback-literacy|gramotnost ve zpětné vazbě]]** u generativní AI — u **421 čínských vysokoškoláků** gramotnost ve zpětné vazbě zprostředkovala **71 %** asociace. Cestou je gramotnost.
 - **„Metaanalytický efekt je uniformní."** Napříč **29 experimenty** generativní AI mírně zvýšila vyšší myšlení (**g = 0,609**) s kritickým myšlením na **ES = 0,691**. Mírné sdružené efekty napříč heterogenními intervencemi podporují kategorii, nikoli konkrétní design.
-
-## Související koncepty
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Chemické vzdělávání a AI: laboratoře, formativní hodnocení, limity LLM, filozofie experimentování
-- [[biology-education]] — Biologické vzdělávání a AI: laboratorní asistenti, gramotnost v AI v biologii, kritické myšlení, specializované nástroje
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Související články
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kritické myšlení probíhá přes dělbu práce a přepracování výstupu, nikoli expozici
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsenzus 30 odborníků: kritické myšlení nese nejvyšší míru narušení ve zprávě (průměr 4,00)
-- [[pearls-epistemic-verification-2026]] — Rámec PEARLS pro epistemickou agenturnost a ověřování výstupu AI (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Vrstvově citlivý kognitivní offloading v psaní asistovaném generativní AI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradox kritického myšlení v učení integrujícím generativní AI
-- [[pedagogy-ai-mistakes]] — Pedagogika chyb AI: rozvíjení vyššího myšlení (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-systémová teorie a kognitivní kapitulace: jak AI přetváří lidské uvažování (Shaw a Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragédie kognitivního společenství: AI a obnova odbornosti
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Metaanalýza generativní AI a vyššího myšlení
-- [[avraamidou-ai-colonization-science-education]] — Narušování AI kolonizace přírodovědného vzdělávání
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorientace kritické gramotnosti v AI
-- [[luo-ibl-patterns-llm-bloom-2026]] — Vzorce IBL v prostředích řízených LLM (perspektiva Bloomovy taxonomie)
-- [[probing-ai-generated-physics-solutions-2026]] — Příprava studentů na kritiku fyzikálních řešení generovaných AI
-- [[student-reception-genai-analogies-computing-2026]] — Vadné, ale zapamatovatelné: kritická recepce zájmově personalizovaných analogií generativní AI studenty v informatickém vzdělávání
-- [[daoism-ai-education-philosophy-2026]] — Alternativní filozofie AI: daoismus jako metoda pro AI ve vzdělávání
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Podpora udržitelného učení prostřednictvím ztělesněné inteligence (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Přehnané spoléhání na AI modelované jako komplexní adaptivní systém
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimenzně specifické zisky kritického myšlení v multimodálním psaní podporovaném AI (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — výuka rozpoznávání klamů prostřednictvím strukturovaného vícetahového dialogu
-- [[caeai-ai-companions-learning-over-performance-2026]] — učení před výkonem: na co mají být společníci optimalizováni a měřeni
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Scaffolding AI, offloading a gramotnost ve verifikaci přes metakognitivní seberegulaci (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Závislost na generativní AI ohraničuje vazbu používání na kritické myšlení u studentů obchodu (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflektivní prompt snižuje přijímání nesprávných rad AI a atribuční zkreslení (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotace rolí jako struktura kritické interakce člověk–AI (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Integrace generativní AI zaměřená na verifikaci v univerzitním chemickém vzdělávání (Vega-Baudrit a Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — zpětná vazba ChatGPT kurátorovaná učitelem zvýšila kritické myšlení přes revize vyššího řádu (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — semestr přístupu k AI nechal kritické myšlení ploché; predikovalo ho reflektivní používání (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Závislost na generativní AI pozitivně spojena s kritickým myšlením u 1 157 postgraduálních studentů
-- [[genai-use-critical-thinking-moderation-2026]] — Používání generativní AI a kritické myšlení přes gramotnost ve zpětné vazbě, s přímou cestou jen u méně reflektivních studentů
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Pesimistické čtení důkazů o moderaci: ztráta tření, zaujatost automatizace, rámec efektivity
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narativní přehled 108 dokumentů: znaménko efektu sleduje předchozí znalosti a načasování úkolu (rámec AMCIF)

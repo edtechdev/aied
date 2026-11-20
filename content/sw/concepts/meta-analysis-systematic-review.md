@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -115,7 +117,6 @@ Kitu kile kile kinaonekana katika kizio cha muda. [[jing-genai-learning-outcomes
 
 Meta-analysis ya masomo manne inaonyesha somo lile lile kutoka upande wa sampuli ndogo. [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor na García Ortiz (2026)]] waliunganisha wanafunzi 420 katika masomo manne ya kijaribio ya kujifunza kunakobinafsishwa kwa AI katika ukokotoaji na uhandisi na kuripoti *g* = 1.01, 95% CI 0.33 hadi 1.68. Marekebisho ya Hartung-Knapp, ambayo ni marekebisho yanayoteteka katika masomo machache kiasi hicho, yalipanua kipindi hadi −0.10 hadi 2.11 (*p* = .063), hivyo kikadirio kilichochanganywa hakikuondoa tena athari ya sifuri. Kwa *k* = 4, majaribio ya upendeleo wa kuchapisha hayawezi kuendeshwa kabisa, na uhakika wa GRADE ulipimwa kuwa wa chini sana. Kuunganisha masomo manne huzalisha kikadirio ambacho hakiwezi kubeba uamuzi wa kupitisha, hata kikionekana kikubwa kiasi gani.
 
-
 **Utafiti wa meta unaonya msingi wa muunganisho wa AIED kwa sasa ni dhaifu.** Seti inayoongozeka ya ukosoaji yanarekodi kuwa ukubwa wa athari za AI wa kichwa cha uwanja — hasa kutoka meta-analysis za mapema — unapandishwa na upendeleo wa kuchapisha, ukosefu wa uthabiti wa dhana, na njia za mkato za mbinu. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], wakichanganya-meta vipimo 1,840 vya athari kutoka meta-analysis 67, wanakadiria athari ya AI iliyorekebishwa kwa upendeleo wa kuchapisha kwa takribani theluthi moja ya ukubwa ulioripotiwa (SMD ≈ 0.196), na tofauti kali. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] anapitia meta-analysis 14 za AIED za athari kubwa na hakuna iliyo na dhana inayothibitisha, tathmini halali ya upendeleo wa kuchapisha, au tofauti iliyotatuliwa; kumi na mbili zilitendea vipimo vya athari vinavyotegemea kama huru. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] wanaonyesha kulinganisha kwingi za msingi hazina matibabu, udhibiti, na kipimo cha kujifunza vilivyofafanuliwa vizuri. Hii inamaanisha wasomaji wanapaswa kutendea ukubwa wa athari za AIED zilizochanganywa kama vizingiti vya juu hadi ubora wa muunganisho unaporekebishwa — ona [[limitations-in-aied-research|Mipaka katika Utafiti wa AIEd]] kwa uchanganuzi kamili.
 - **Viwango vya ripoti havijatimiza na otomatiki.** PRISMA-LLM inachanganua SciLitBench, mkusanyiko wa makala 888 za otomatiki ya mapitio yenye maelezo 14,726, na kurekodi kiwango cha ukuaji cha karibu 4.7% kwa mwezi pamoja na pengo la uwajibikisho: tangu 2023, 38.0% ya makala za programu na bidhaa hazikuripoti tathmini yoyote, dhidi ya 9.3% ya makala za LLM, na 52% ya tathmini za LLM za chanya tu ziliripoti wasiwasi wa kizingiti cha juu ambao haukutimizwa. Kwa sababu michakato ya LLM na programu sasa inashiriki katika hatua zinazoweza kubadilisha msingi wa ushahidi, mfumo unahitaji kufichua otomatiki ilifanya kazi wapi katika mtiririko wa kazi ya mapitio, nini kilichotathminiwa, na mipaka gani ilikaguliwa — nyongeza ya moja kwa moja ya tatizo la uwazi ambao [[limitations-in-aied-research|ukosoaji wa mapitio ya AIED]] umerekodiwa kwa meta-analysis za athari za kujifunza. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
 - **Mfano halisi wa mapitio yaliyoamua kwa makusudi kutounganisha.** [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou na Kameas (2026)]] walijumuisha masudio 78 ya [[learning-design|ubunifu wa mafunzo]] unaosaidiwa na AI (2022-2026) na wakahukumu muunganisho wa kiasi kuwa **haunafaa** kwa sababu korpusi ilichanganya ripoti za wataalam, masudio ya kesi ya sampuli ndogo na miundo ya mbinu mchanganyiko. Badala ya kulazimisha athari ya pamoja, walifanya muunganisho wa kimaudhui wa kimaudhui na wakaeleza wazi kuwa nguvu ya ushahidi inapimwa kote badala ya kudhaniwa. Hilo ni uamuzi sahihi mara nyingi zaidi kuliko fasihi inavyoonyesha: pale korpusi haiwezi kuhimili muunganisho, kukataa kuunganisha ni ugunduzi kuhusu uwanja badala ya upungufu wa mbinu wa mapitio.
@@ -155,55 +156,3 @@ Katika mandhari ya mbinu ya hifadhi ya maarifa, meta-analysis na mapitio ya kimf
 - **"Wakaguzi huripoti ubora wa uwanja kwa usahihi kwa chaguo-msingi."** Kazi ya mapitio inajumuisha **kufichua ubora wa mbinu**, na mapitio **kwa kawaida hugundua kuwa uwanja unategemea miundo isiyo na nguvu ya kutosha, ya kijaribio-awali au ya nusu-jaribio** yenye vipimo vya baada ya hapo hapo. Takwimu ya pamoja inarithi udhaifu huo.
 
 - **"Kuunganisha daima huongeza uzito wa ushahidi."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Meta-analysis ya Chen na Wei]] ya **masudio 40** kwa ujuzi wa lugha za kigeni inaunganisha teknolojia tofauti sana, na wastani hauelezi hata moja ya uingiliaji mahususi iliyo nao.
-
-## Dhana Zilizounganishwa
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Makala Zilizounganishwa
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Meta-analysis ya athari za akili bandia ya uzalishaji kwenye matokeo ya kujifunza, kiakili na kilugha
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Matumizi ya GenAI yenye uwajibikaji kwa wanafunzi katika uandishi wa kitaaluma: mapitio ya upeo ya mipaka, mbinu za kielimu na mapengo ya ushahidi
-- [[edurev-100741-tpack-genai-review]] — Mapitio ya kimfumo ya GenAI katika kujifunza kwa wanafunzi kwa mtazamo wa TPACK
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis ya athari ya GenAI juu ya tija na kujifunza katika uandishi wa programu
-- [[ai-vocational-education-training-review]] — Mapitio ya kwanza ya kimfumo ya AI katika elimu ya kitaaluma na mafunzo
-- [[ai-collaborative-learning-systematic-review]] — Mapitio ya kimfumo ya PRISMA ya kujifunza kwa ushirikiano unaoendeshwa na AI
-- [[genai-higher-education-systematic-review-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya juu
-- [[zerkouk-comprehensive-review-its-2025]] — Mapitio kamili ya kimfumo ya mifumo ya ufafanuzi mahiri
-- [[chatgpt-critical-creative-thinking-review]] — Mapitio ya kimfumo ya ChatGPT na ufikiri mahususi/kibunifu
-- [[stanford-evidence-base-ai-k12-2026]] — Msingi wa ushahidi kwa AI katika K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis ya athari za uingiliaji wa ujuzi wa AI
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis ya uandishi wa L2 unaoungwa na GenAI: athari kubwa iliyochanganywa iliyodhoofishwa na tofauti kali na kirekebishaji kinachoendeshwa na ubora
-- [[ai-literacy-heptagon-2026]] — Mapitio ya fasihi ya kuunganisha ya vipimo vya ujuzi wa AI (yanayoongozwa na PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya matibabu inayotegemea hali (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapitio ya kuramani yanayainisha masudio 22 ya muunganisho wa AI na FACETS + SAMR; mengi yako katika Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Thamani na kanuni za maadili kwa AI katika elimu
-- [[li-language-educators-genai-review-2026]] — Mazoezi na maendeleo ya waelimishaji wa lugha na GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI ya kusaidia watu wenye dyslexia katika elimu
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT katika Elimu: Athari Inayotafuta Sababu (ukosoaji wa kulinganisha vyombo)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: athari za AI zilizorekebishwa kwa upendeleo ~1/3 ya ukubwa ulioripotiwa
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ukaguzi wa kisasi wa meta-analysis 14 za AIED
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Uingiliaji wa walimu katika ufundishaji unaotegemea AI wa K-12: mapitio ya kimfumo
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Meta-analysis ya zana za kidijitali na AI kwa ujuzi wa lugha ya kigeni: kirekebishaji cha ubini kinazidisha maradufu vikadirio vya athari za nusu-kimajaribio
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-analysis ya GenAI katika elimu ya juu: athari za uingiliaji mifupi zinavunjika muda unavyoongezeka
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-analysis ya elimu ya AI ya K-12: athari kubwa na virekebishaji visivyo na athari na tofauti iliyohusishwa na upimaji
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya uandishi wa programu: ripoti nyembamba ya kielimu katika 26 kati ya masudio 46
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — Mapitio ya wigo ya masudio 123 yanayaramani GenAI, kupunguza mzigo wa kiakili na wakala wa mwanafunzi katika elimu ya juu
-
-- [[kim-ai-embodied-learning-review-2026]] — AI katika kujifunza kwa mwili mara nyingi hutazama tu: majukumu ya kuhisi ni 62.5% ya lebo za jukumu zilizowekwa kodi, na hakuna mfumo uliopitiwa uliounganisha mito ya modaliti nyingi wakati wanafunzi wakiutumia (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Kwa nini masomo manne hayawezi kubeba uamuzi wa kupitisha
-
-

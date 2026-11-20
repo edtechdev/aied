@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,7 +39,6 @@ ai_assist:
 ### নির্দেশনা অভিযোজিত করতে আবেগ অনুধাবন
 
 আবেগীয় কম্পিউটিংয়ের লক্ষ্য এআই ব্যবস্থাকে আবেগ-সচেতন করা, যাতে তারা শিক্ষার্থীরা কী করে তা নয়, বরং কেমন বোধ করে তার প্রতি সাড়া দিতে পারে। শিক্ষায় এর অর্থ হতাশা, বিভ্রান্তি, আস্থা, বিরক্তি বা সম্পৃক্ততা অনুধাবন করে নির্দেশনা সেই অনুযায়ী অভিযোজিত করা। [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] দুই মাধ্যম থেকে আবেগ মডেল করে এই পদ্ধতিটি প্রদর্শন করে — কথোপকথনের লেখা ও তাৎক্ষণিক মুখের অভিব্যক্তি — এবং সমষ্টিভুক্ত আবেগীয় অবস্থাকে [[pedagogy|শিক্ষাতাত্ত্বিক]] কৌশলে মেপে টিউটরকে [[prompt-engineering|প্রম্পট]] করার আগে।
-
 
 সংকেতগুলো নিজেই অস্পষ্ট: একটি একক অভিব্যক্তিমূলক চ্যানেল ব্যক্তি, কাজ, সংস্কৃতি ও পরিস্থিতি ছাড়া দুঃখ, প্রচেষ্টা, লজ্জা, ক্লান্তি বা কৌশলগত আত্মপ্রকাশকে নির্ভরযোগ্যভাবে আলাদা করতে পারে না — "ব্যাখ্যায় প্রাসঙ্গিক-নির্ভর" — তাই কেবল দৃশ্যমান সংকেত পড়া একটি শ্রেণিবিন্যাসকারী এমন সুপারিশের ঝুঁকি নেয় যা বিশ্বাসযোগ্য কিন্তু শিক্ষাতাত্ত্বিকভাবে ভুল ([[ai-emotion-regulation-sport-exercise-2026|Zhang প্রমুখ (2026)]])।
 
@@ -67,33 +68,3 @@ ai_assist:
 - **"বেশি সম্পৃক্ততা মানে বেশি শিখন।"** একটি মস্তিষ্ক-সংকেত গবেষণায় দেখা গেল, একটি **সীমিত, অভিযোজিত ইন্টারফেস জ্ঞানীয় সম্পৃক্ততা বাড়ায় (p = .018), অথচ অনিয়ন্ত্রিত চ্যাটবট বেশি শিখন-লাভ দেয়**। যে ইন্টারফেস বেশি সম্পৃক্ত করেছিল, সে কম শিখিয়েছিল। সম্পৃক্ততা শিখনের প্রতিনিধি নয়, আর তা অনুকূল করা ফলাফলকে ভুল দিকে সরাতে পারে।
 - **"আবেগীয় সমর্থন জ্ঞানীয় সমর্থনের নরম সংযোজন।"** একটি ছোট শ্রেণিকক্ষের [[rct]]-এ (**252 অংশগ্রহণকারীর মধ্যে 42 জন সম্পন্নকারী**), মাইন্ডফুল সংস্করণ কেবল জ্ঞানীয় সমর্থনের চেয়ে **কম সময়ে ও কম চাওয়া সংকেতে অনুরূপ বীজগণিত শিখন** পৌঁছায়। আবেগীয় উপাদানটি সিলিং নয়, দক্ষতা বদলেছে, যা "এটি শিখনে সাহায্য করে"-এর চেয়ে আলাদা ও বেশি কৌতূহলোদ্দীপক দাবি।
 - **"ছোট-নমুনার আবেগীয় ফলাফল হস্তান্তরযোগ্য।"** 252 অংশগ্রহণকারীর মধ্যে 42 সম্পন্নকারী একটি উৎসাহব্যঞ্জক ও ভঙ্গুর দুইই নকশা: সম্পূর্ণতার হার নিজেই একটি ফলাফল — কারা টিকে ছিল তা নিয়ে — এবং প্রভাবটি সেই গোষ্ঠীতেই সীমিত।
-
-## সংযুক্ত ধারণা
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — সামাজিক-আবেগীয় শিখন
-
-## সংযুক্ত নিবন্ধ
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — এআই-উৎপন্ন আবেগীয় সতর্কবার্তায় সাড়া: গণিতের শ্রেণিকক্ষে শিক্ষকদের হস্তক্ষেপ ও শিক্ষার্থীদের সম্পৃক্ততা
-- [[wang-teacher-student-centered-agents-physics-2026]] — পদার্থবিজ্ঞান শিখনে প্রম্পট-নকশাকৃত এজেন্ট-ভূমিকা থেকে সহানুভূতি-অনুধাবন (Wang প্রমুখ 2026)
-- [[mindful-llm-math-tutoring-2026]] — সমস্যা সমাধানের বাইরে: গণিত শিখনে আবেগীয় ও প্রতিফলনমূলক সমর্থনের জন্য বড় ভাষা-মডেল
-- [[emotion-aware-classroom-iot-monitoring-2026]] — IoT-ভিত্তিক তাৎক্ষণিক পর্যবেক্ষণের মাধ্যমে আবেগ-সচেতন শ্রেণিকক্ষ-মান মূল্যায়ন (Nguyen প্রমুখ 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: শিক্ষার্থী-দুশ্চিন্তার LLM-সমৃদ্ধ মূল্যায়ন (2026)
-- [[socratic-nuclear-ai-learning]] — সক্রেটিস পারমাণবিক হয়ে গেলেন: শিখনে এআই মিথস্ক্রিয়া-কৌশল তুলনা
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — এআই-সমর্থিত আবেগ-নিয়ন্ত্রণের পুনর্নির্মাণ: সংকেতের প্রসঙ্গ দরকার, স্বায়ত্ত ব্যাখ্যা নয়

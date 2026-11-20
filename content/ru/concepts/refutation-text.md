@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -78,23 +80,3 @@ foundations: [misconceptions]
 **«Больше информации о правильной концепции исправляет сопротивление».** Объём правильной информации — это то вмешательство, которое уже не работает. Концептуальное изменение требует, чтобы существующая модель учащегося была сделана явной и признана недостаточной, что является иным обучающим ходом, чем добавление доказательств.
 
 **«Заблуждения и обычное незнание требуют одного средства».** Они требуют разных: незнание адресуется поставкой знания, а заблуждение нужно сначала вытеснить. Трактовка второго как первого — причина того, что хорошо объяснённый урок может оставить исходную модель студента нетронутой.
-
-## Связанные концепции
-- [[pedagogical-patterns]] — Последовательности опровержений, включая два прямо противоречащих результата
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## Связанные статьи
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Персонализированный диалог с ИИ против учебникового опровержения для исправления убеждений
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Экспертный/ИИ-текст концептуального изменения против интерактивного диалога с ИИ
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Сгенерированные LLM ложные представления для коллаборативного обучения
-- [[chatgpt-inoculation-training-verification-2026]] — Обучение инокуляции как смежное вмешательство в стиле опровержения
-- [[critical-genai-use-predictors]] — Рекомендует тексты-опровержения для воздействия на концептуальные ложные представления
-- [[ai-learning-companions-framework]] — Компаньоны ИИ и исправление ложных представлений

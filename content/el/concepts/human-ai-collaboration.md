@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -102,69 +104,3 @@ ai_assist:
 - **«Συνεργασία σημαίνει ότι η ΤΝ κάνει μέρος της δουλειάς.»** **Ο μαθητής κρατά τον αποφασιστικό ρόλο**, και αυτό ισχύει και στη γραφή: οι [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash και Connell Pensky (2025)]] δείχνουν ότι ισχύει όταν η διευθέτηση είναι σχεδιασμένη γι' αυτό. Η κατανομή της εργασίας δεν είναι συνεργασία αν ο άνθρωπος δεν διατηρεί την κρίση.
 - **«Η ΤΝ κάνει την εξήγηση σε μια ανεστραμμένη διευθέτηση.»** **Οι μαθητές που δίδαξαν την ΤΝ εξήγησαν καλύτερα** — ορισμός της ανεστραμμένης τάξης στο **M = 4,18 έναντι 3,29**, διδακτικές δραστηριότητες στο **M = 4,91 έναντι 3,06, και τα δύο p < 0,001**. Η μάθηση επήλθε στον εξηγητή.
 - **«Οι ανθρώπινες και οι ΤΝ συμβολές είναι υποκατάστατα.»** Δύο μελέτες του 2026 χαρτογραφούν **συμπληρωματικά μισά** της συνεργασίας στην τάξη, πλαισιώνοντας το σχεδιαστικό πρόβλημα ως κατανομή παρά ως αντικατάσταση.
-
-## Συνδεδεμένες Έννοιες
-- [[pedagogical-partnerships]] — Παιδαγωγικές συνεργασίες
-- [[community-of-inquiry]] — Κοινότητα διερεύνησης (οι παρουσίες ως κοινωνικοτεχνικά επιτεύγματα ανθρώπων και γενετικής ΤΝ)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Εκπαίδευση στη χημεία και ΤΝ: εργαστήρια, διαμορφωτική αξιολόγηση, όρια των LLM, φιλοσοφία του πειραματισμού
-- [[biology-education]] — Εκπαίδευση στη βιολογία και ΤΝ: βοηθοί διδασκαλίας εργαστηρίου, επάρκεια σε ΤΝ στη βιολογία, κριτική σκέψη, εξειδικευμένα εργαλεία
-- [[human-in-the-loop-ai]] — εποπτεία
-- [[agentic-ai]] — αυτονομία
-- [[productive-failure]]
-
-## Συνδεδεμένα Άρθρα
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Τρεις ρόλοι πρακτόρων σε ένα αφηγηματικό παιχνίδι επιστήμης, και ποιο κριτήριο αξιολόγησης χρειάζεται ο καθένας (Humburg και συν. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Η εργασία σε ζεύγη με σύστημα πολλαπλών πρακτόρων γενετικής ΤΝ κέρδισε το σχεδιαστικό έργο ενώ η επίγνωση κριτικής σκέψης αυξήθηκε μόνο σε όσους δούλεψαν μόνοι (Chu και συν. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Το debate πολλαπλών πρακτόρων με κρυμμένη την προτιμώμενη απάντηση μείωσε την υποχώρηση σε λανθασμένη συμβουλή ΤΝ, αλλά όχι διορθωτικά
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: η επάρκεια συνεργασίας ως δυναμική διαμόρφωση τομέα, επάρκειας σε ΤΝ και μεταγνωστικής επάρκειας, με τη δράση του μαθητή αναδυόμενη (Dang και συν. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Εκπαιδευτικοί δευτεροβάθμιας σχεδιάζουν chatbots τάξης ως περιορισμένους ειδικούς υπό ανθρώπινη εποπτεία
-- [[ai-integration-instructional-design-collaboratory-2026]] — Δώδεκα υλοποιήσεις μαθημάτων εκπαίδευσης εκπαιδευτικών αντιμετωπίζουν την ενσωμάτωση ΤΝ ως πρόβλημα σχεδιασμού διδασκαλίας
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: η πρώτη τυχαιοποιημένη δοκιμή ανθρώπινης–ΤΝ κλιμάκωσης εξειδίκευσης προς αρχάριους διδάσκοντες
-- [[think-first-chatgpt-later-2026]] — Σκέψου πρώτα, ChatGPT μετά: ανεξάρτητη ανθρώπινη δημιουργικότητα
-- [[principal-trait-analysis-human-ai-skills-2026]] — «Χαρακτηριστικά» της ανθρώπινης–ΤΝ συνεργασίας βασισμένα σε δεδομένα
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Μοτίβα αλληλεπίδρασης εκπαιδευτικού–ΤΝ στον σχεδιασμό μαθήματος ανά εμπειρία και επάρκεια σε ΤΝ (Choi και συν. 2026)
-- [[tang-chatbots-learning-design-2026]] — Οι σχεδιαστές χρησιμοποιούν ενσωματωμένο chatbot για ελέγχους ευθυγράμμισης σε εκβάσεις και παιδαγωγική, όχι για παραγωγή περιεχομένου
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Από την υποκατάσταση στη στηρικτική προσέγγιση: σπάζοντας τον αυτοενισχυόμενο κύκλο βλάβης
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Η γενετική ΤΝ ως διαμεσολαβητικός δρων
-- [[conversational-ai-agents-umbrella-review-2026]] — Ανασκόπηση-ομπρέλα των πρακτόρων συνομιλιακής ΤΝ στην εκπαίδευση
-- [[ai-overreliance-complex-adaptive-system-2026]] — Η υπερβολική εξάρτηση από την ΤΝ μοντελοποιημένη ως πολύπλοκο προσαρμοστικό σύστημα
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Σύντροφος ΤΝ με προσαρμογή ρόλου για συζήτηση βιβλίων στο δημοτικό· συναισθηματικό ταβάνι των πρακτόρων σταθερού ρόλου (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Συν-σχεδίαση μαθησιακών εργασιών από εκπαιδευτικό και ΤΝ: τάσεις και προοπτικές (Wang και συν. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Αρχιτεκτονική ρόλων σε διαφοροποιημένες ομαδικές δραστηριότητες σχεδιασμένες από ΤΝ (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — Η γενετική ΤΝ ως πράκτορας και συνεργατικός χώρος στη δυναμική μικρών ομάδων (Xu και συν. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Αξιολόγηση πολυπρακτορικού συστήματος μεγάλου γλωσσικού μοντέλου προσανατολισμένου στη στηρικτική προσέγγιση για εκπαίδευση σε κλινική συνέντευξη
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Πράκτορες εκπαίδευσης ηθικής: διευκόλυνση ομαδικής ηθικής εκπαίδευσης με παιχνίδι ρόλων και συζήτηση για ηθικό αναστοχασμό και διερεύνηση
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: αυτοματοποίηση, επαύξηση και συνεργασία ως συνεχές ανάθεσης εργασιών
-- [[bounded-reliance-ai-writing-feedback-2026]] — Περιορισμένη εξάρτηση: προοπτική αξιοπιστίας πηγής στην εμπλοκή φοιτητών EFL με ανατροφοδότηση γραφής από ΤΝ
-- [[human-ai-collaboration-academic-writing-2026]] — Ροή εργασίας γραφής EFL πέντε μερών· οι ρουτίνες επαλήθευσης και υπεύθυνης χρήσης οδήγησαν τα κέρδη στη γραφή σε ζεύγη και στην ψηφιακή κριτική σκέψη
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Αντιστροφή ρόλων: οι μαθητές διδάσκουν αρχάριο μαθητή GAI και υπερέχουν των ομοτίμων που ρωτούν δάσκαλο GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — Ο τύπος υποστήριξης διαμόρφωσε στρατηγικές αναθεώρησης και βαθμολογίες, αλλά καμία στρατηγική δεν προέβλεψε κέρδος· τα κέρδη της γενετικής ΤΝ μπορεί να είναι ειδικά για την εργασία
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Ανθρώπινοι έναντι ΤΝ συντονιστών debate αξιολογήθηκαν ισοδύναμα· χρησιμότητα και ικανοποίηση οδηγούν την επιστροφή διαφορετικά
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Η μελέτη μαθήματος χτίζει την ικανότητα εκπαιδευτών εκπαιδευτικών να σχεδιάζουν διαλογική εμπλοκή με ΤΝ· η μηχανική προτροπών ως παιδαγωγική σκέψη
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Πέντε τύποι συνύφανσης μαθητή–γενετικής ΤΝ, και γιατί όσοι κατανέμουν την πατρότητα μένουν οριακοί (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Οι αντίθετες διαδρομές της συνεργασίας εκπαιδευτικού–ΤΝ προς την εργασιακή εμπλοκή μέσω ψυχολογικής διαθεσιμότητας και εργασιακής αποξένωσης, με όριο την ψηφιακή επάρκεια
-- [[wang-agentic-translation-education-2026]] — Πρωτόκολλο σχεδιασμού που ανακατευθύνει την εκπαίδευση μεταφραστών προς την ενορχήστρωση ΤΝ, τη στρατηγική κρίση και τις επάρκειες κριτικής αξιολόγησης (χωρίς εμπειρικά δεδομένα ακόμη)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Μια συναισθηματική ειδοποίηση είναι σήμα που ερμηνεύει ο εκπαιδευτικός, όχι εντολή προς υπακοή
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Το έλλειμμα νομιμοποίησης της πατρότητας στην ανθρώπινη–ΤΝ συν-δημιουργία

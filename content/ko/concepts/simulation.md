@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -68,11 +70,9 @@ ai_assist:
 - **교육과정이 모의의 가치를 결정하는 단위입니다.** 교육과정 연결 모형(Curricular Bridge Model)은 모의의 수익이 플랫폼 충실도가 아니라 프로그램 전반에 걸쳐 경험이 어떻게 배열되는지 — 맥락 재사용, 추론 요구의 변화, 진전에 먹이는 증거 — 에 달려 있다고 주장합니다([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 - **모의 내담자가 증거를 앞질렀습니다.** 상담자 교육에서의 생성형 AI에 관한 14개 출처의 범위 검토는 AI 모의 내담자가 지배적인 응용임을 발견했으나, 어떤 연구도 훈련생 역량을 측정하거나, 비교 조건을 사용하거나, 위기 및 위험 평가 시나리오를 시험하지 않았습니다([[van-patten-freeman-rath-ai-counselor-education-scoping-2026|Van Patten-Freeman et al., 2026]]).
 
-
 ### 연결
 
 모의는 [[active-learning]], [[adaptive-learning]], 그리고 [[pedagogical-agent]]와 연결됩니다. 그것은 경험적이고 [[constructivist]] 학습을 위한 기제이며, 적응적이고 현실적인 연습 환경을 생성하는 AI의 능력에 의해 증폭됩니다.
-
 
 모의 기반 학습은 이제 합성 환자, 학생, 역할극 상대를 포함하며, [[ai-avatars-and-synthetic-instructors]]는 이들의 동의, 공개, 인물 충실도 문제가 장비나 시나리오의 충실도와 같지 않다고 주장합니다.
 
@@ -82,61 +82,8 @@ ai_assist:
 
 이 틀은 목록이 아니라 검사로 쓰입니다. 세 가지 질문이 어떤 기능이든 결정합니다. 에이전트에게 무엇이 넘어가는지, 교사가 실패를 교정할 수 있는지, 그리고 에이전트의 말 뒤에 설 것을 누구에게 요구할 수 있는지입니다. 세 번째에 답이 없는 기능은 후보가 아닙니다. 준비 단계에 적용하면 이 검사는 여섯 가지 판정을 냅니다. 진단과 물류는 위임 가능하고, 명시된 목표는 부분적으로 위임 가능하며, 픽션 계약, 심리적 안전, 평가 조건은 거부됩니다. 디브리핑에서 논문은 에이전트가 취할 수 있는 세 가지 입장, 즉 전문가, 등장인물, 마이유티크(Maieutic)를 제시하고, 마이유티크의 실패 양식을 보고합니다. 결코 답하지 않음으로써 가르치도록 만들어진 에이전트는 학생들을 좌절하게 남겼습니다. 이것은 설계 틀이지 결과 연구가 아닙니다. 저자들은 연구를 위해 수집된 데이터가 없으며, 보고된 배치는 교사 자신의 관찰을 통해 읽은 파일럿이라고 밝힙니다.
 
-
 ## 흔한 오해
 
 - **"모의는 더 저렴하므로 차선책이다."** 자율 [[llm|LLM]] 모의 조종사는 **항공 교통 관제 모의를 담당하는 전문 인간 역할 수행자를 대체하여 훈련 용량의 병목을 없앱니다**. 제약은 충실도가 아니라 인력이었습니다. 인간 역할 수행자를 구하기 어려운 곳에서 LLM 모의는 대체물이 아니라 유일하게 가능한 선택입니다.
 - **"모의 장치는 평균적인 사례처럼 행동해야 한다."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]]은 정책 에이전트를 **적대적으로 행동하도록 설계된 LLM 환자 모의 장치**와 짝지웁니다. 협력적으로 설계된 모의 장치는 학습자의 연습을 실제 진료보다 쉽게 만들며, 이는 훈련이 필요로 하는 것과 정반대입니다.
 - **"대본이 있는 시나리오는 불확실성 속의 의사결정을 가르친다."** SupplyNet의 맥락적 다중 에이전트는 대본이 아니라 **학습자의 결정에서 창발하는 역학**을 생성합니다. 대본 시나리오는 알려진 경로를 예행연습하고, 창발적 시나리오는 결정을 예행연습합니다.
-
-## 연결된 개념
-
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성 평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물학 교육과 AI: 실험실 교수 조력자, 생물학 속의 AI 리터러시, 비판적 사고, 전문화된 도구
-- [[ai-technologies]] — 우산 항목: AI 기술과 기법 (모델, LLM 훈련, 로봇공학, RAG, 에이전틱)
-- [[virtual-and-augmented-reality]] — 모델이지, 양식이 아니다 — 몰입 환경은 대개 모의를 렌더링한다
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## 연결된 문서
-
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 정서적 영역 훈련에서 AI 모의와 가상 환자가 지배적이며, 결과는 대부분 자기보고 (Ismail & Zafira, 2026)
-- [[hernandez-ai-clinical-simulation-scoping-2026]] — 30편 범위 검토: 76.7%가 텍스트 기반 가상 환자, 추론 향상은 대본 사례에 기반 (Hernández Rincón et al., 2026)
-- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14개 출처 범위 검토: 모의 내담자가 지배적, 훈련생 역량 미측정 (Van Patten-Freeman & Rath 2026)
-- [[learner-agency-ai-simulation-2026]] — 복잡계 모의에서의 매개변수 통제와 선택적 AI 에이전트: 향상이 접근이 아니라 실천을 추적했다
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — 심리치료 훈련을 위한 적응형 가상 환자
-- [[ai-enabled-serious-games]] — AI 활용 진지한 게임
-- [[anvil-ai-educational-animations]] — ANVIL: 강의자를 위한 비유와 영상
-- [[astra-atco-training-simulator]] — ASTRA: ATCO 훈련 시뮬레이터
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: 시각적 탐구 학습
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI 표준화 환자
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — 시나리오 기반 의학 교육에서의 GenAI 체계적 고찰 (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — 사업 모의 게임을 위한 AI 대화 에이전트의 CAIS-GBL 프레임워크 (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 협력적 문제 해결 대화를 재현하는 미세조정된 참가자 특정 LLM 에이전트 (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 다중 에이전트 튜터링과 참여 균형 잡힌 협력을 위한 ASTRA 합성 벤치마크
-- [[simulation-assisted-drone-learning-stem-2026]] — 교사–AI 공동 설계 스캐폴드를 활용한 모의 지원 드론 학습
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 간호학에서의 AI 추동 모의: 혼합 방법 체계적 고찰 (진정성 간극, 단계적 연속체)
-- [[sophie-clinical-communication-ai-assessment-2026]] — 규모 있는 AI 기반 임상 의사소통 훈련과 자동화 평가
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 교육에서의 디지털 트윈: 프로토타입은 모두 작동했고, 학습 향상은 대부분 그렇지 못했다
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 뒤집힌 물리 학습을 위한 AI 지원 가상 실험실: 중학생의 성취도, 동기, 인지 부하에 미치는 효과
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 재현되는 실천, 모의된 상황, 주체성과 적응의 분배, 조율을 구분하는 네 계층 틀
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — 기술 도입에서 교육과정 정합으로: 보건 전문직 교육의 다리로서의 기술 강화 모의
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — 모의 순환 전체에서 교사가 대화 에이전트에 위임할 수 없는 것
-- [[tischkau-ai-simulated-patient-formats-2026]] — 촉진된 집단 형식과 단독 노트북 형식의 LLM 환자 하나: 학생 1인당 세션당 약 US\$2, 학습자 평가에서 감지 가능한 차이 없음 (Tischkau et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — 바이러스학 실험실의 지식 그래프와 그래프 기반 조수 및 적응적 라우팅: 이론 시험 +11.4점, d = 1.39
-

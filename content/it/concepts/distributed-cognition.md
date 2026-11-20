@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -54,7 +56,6 @@ I sistemi di IA generativa e interattiva ridistribuiscono il lavoro cognitivo in
 
 - **La cognizione estesa come scelta di design, non come proprietà dello strumento.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa e Duarte Arias (2026)]] sostengono che l'IA generativa sia sostitutiva per impostazione predefinita perché svolge il compito cognitivo, ma lo stesso sistema diventa complementare quando critica una bozza o fornisce un feedback che il discente deve valutare. Il loro quadro della mente estesa rende unità di analisi l'artefatto più il suo uso, che è la versione normativa della domanda di distribuzione di questa pagina.
 
-
 ### Cognizione distribuita e prospettive correlate
 
 La base di conoscenza tratta la cognizione distribuita insieme alle tradizioni teoriche vicine, che si sovrappongono ma non sono identiche:
@@ -64,11 +65,9 @@ La base di conoscenza tratta la cognizione distribuita insieme alle tradizioni t
 - **[[cognitive-offloading]]** è il meccanismo pratico con cui il lavoro cognitivo viene trasferito a sistemi esterni (inclusa l'IA), ed è la controparte carica di rischi rispetto al resoconto descrittivo della DCog.
 - **Cognizione estesa / tesi della mente estesa** (usata nel lavoro postumanista) sostiene che gli artefatti esterni possono essere parti *costitutive* di un sistema cognitivo, non meri strumenti — un'affermazione più forte, che l'IA è parte della mente stessa del discente.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-
 ### Di chi è la cognizione? Il problema dell'unità di analisi
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] spinge quella domanda sull'unità di analisi più a fondo della maggior parte del lavoro in questa tradizione. La sua tesi è che l'alfabetizzazione non sia un possesso individuale ma qualcosa che si attua con materiali e macchine, il che rende il singolo discente l'unità di analisi sbagliata. Un quadro di competenze centrato sulla persona non può quindi registrare i contributi infrastrutturali o non umani, così il campo continua a nominare la distribuzione e poi a risolverla di nuovo sul discente. Il margine di equità è il suo argomento sulla difficoltà: la riflessività dipende dall'esperienza vissuta e dalle relazioni di potere, quindi gli studenti le cui pratiche linguistiche o di scrittura stanno più lontane dalla norma codificata portano il costo maggiore. L'argomento è teorico e non riporta alcun dataset, e i suoi orientamenti di design restano proposte non testate.
-
 
 ### Perché conta per il design e la valutazione dell'IA
 
@@ -83,35 +82,3 @@ Fowlin et al. (2026) operazionalizzano quella ripartizione come una sequenza a d
 - **"Un documento condiviso significa cognizione condivisa."** I profili basati sul volume di **97 discenti** differivano per **conoscenza pregressa e paternità** ma **non per prompting con ruolo attivo o a livello di comprensione**. Il volume della partecipazione misurava l'esposizione, non la distribuzione del lavoro cognitivo — quindi le [[learning-analytics|analitiche]] d'uso di uno strumento collaborativo dicono poco su chi stesse pensando.
 - **"Tutti fanno offloading verso l'IA allo stesso modo."** Gli insegnanti novizi **delegano una grande quota del carico cognitivo della progettazione didattica al sistema di IA**, arrivando a una **distribuzione dominata dall'IA** in cui accettano largamente le risposte, mentre gli insegnanti esperti e competenti nell'IA distribuiscono diversamente. L'esperienza si vede in dove viene collocato il carico, non solo in quanta IA si usa.
 - **"Più coinvolgimento dell'IA significa più supporto."** Una distribuzione dominata dall'IA è il pattern da tenere d'occhio, perché la quota umana del lavoro cognitivo si restringe mentre il volume di output cresce. Il sistema può sembrare più capace proprio mentre l'utente fa di meno.
-
-## Concetti collegati
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Articoli collegati
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirical study of human–AI collaborative problem-solving through a distributed cognition + co-regulation lens
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as a pedagogical mediator redistributing cognition across human and non-human actors
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated thinking
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition framework reconceptualizing thinking as human–AI interaction
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La memoria transattiva con la GenAI: divisione del lavoro e trasformazione riflessiva mediano il pensiero critico (Akgun e Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Perché il singolo discente è l'unità di analisi sbagliata
-- [[rivera-novoa-genai-extended-cognition-2026]] — La cognizione estesa nell'apprendimento delle scienze: la GenAI è sostitutiva per impostazione predefinita, complementare per design (Rivera-Novoa e Duarte Arias 2026)
-
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use

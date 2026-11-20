@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,7 +49,6 @@ ai_assist:
 
 **이 코퍼스는 또한 측정이 아니라 논증의 형태로 비관적 독해를 담고 있습니다.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz와 Castro Samayoa(2026)]]는 지배적인 사용 양상이 모형에 대한 접근이 아니라 비판적 사고를 침식한다고 주장합니다. 그들은 사고가 오직 연습을 통해서만 개선된다는 듀이의 주장과, 세 가지 기제 — 제거된 마찰, [[automation-bias|자동화 편향]], 효율성 프레임 — 에 근거합니다. Zhao 등과의 긴장은 실재하며 코퍼스 안에서 해소되지 않았습니다. 그들의 메타분석적 이득 g = 0.609는 설계된 개입을 서술하는 반면, Muñiz와 Castro Samayoa는 전형적 사용을 서술합니다. 함께 읽으면 두 편은 설계 변수가 중요하다는 데 동의하고, 관리되지 않은 기본값이 어떤 모습인지에 대해서는 의견을 달리합니다.
 
-
 **조절 주장에 대한 [[meta-analysis-systematic-review|메타분석적]] 닻.** 29개 실험에 걸쳐 생성형 AI는 고차원적 사고를 중간 정도 높였으며(g = 0.609), 비판적 사고는 ES = 0.691로, [[problem-solving|문제 해결]](0.745)보다 낮고 [[creativity|창의성]](0.444)보다 높았으며, 8–16주 개입(0.759)과 높은 자기조절 학습(SRL) 학습자(0.284에 대비 0.863)에서 가장 강했습니다([[zhao-genai-higher-order-thinking-meta-2026|Zhao 외(2025)]]).
 
 [[chatgpt-critical-creative-thinking-review|ChatGPT의 사고에 대한 영향에 관한 고찰]]들은 혼합된 발견을 기록합니다. AI는 의도적으로 사용될 때(예컨대 학생에게 AI가 만든 논증을 비판하게 하는 것) 비판적 분석을 [[scaffolding|스캐폴딩]]할 수 있지만, 답변 엔진으로 쓰일 때는 사고를 질식시킬 수 있습니다. 이 긴장은 자기보고한 AI 역량이 실제 비판적 평가 능력을 훨씬 웃돈다는 [[ai-literacy-assessment-misalignment]] 연구와 연결됩니다. AI와 함께하는 비판적 사고에 관한 HCI 연구 80편에 대한 비판적 고찰은, 이 분야가 자신이 거의 정의하지 않는 것을 측정하고 있음을 발견했습니다. 80편 중 23편만이 자신들이 비판적 사고를 어떻게 이해하는지 밝혔고, 49편(61%)이 수행이 아니라 자기보고로 그것을 평가했으며, 42편(52%)은 대조군을 쓰지 않았습니다([[critical-review-critical-thinking-hci-research-ai-2026]]).
@@ -65,7 +66,6 @@ ai_assist:
 더 큰 횡단면 조사는 반대 방향을 가리킵니다. 중국 대학원생 1,157명 가운데, [[generative-ai|생성형 AI]] 의존은 비판적 사고와 양으로 연관되었으며(β = 0.492), 비판적 사고는 기능적 의존에서 연구 창의성으로 가는 경로의 약 85.0%를 나르고 있었습니다([[genai-dependence-research-creativity-2026|Yin 외(2026)]]).
 
 - **선행 지식과 과제 시점이 효과의 부호를 정합니다.** 검토한 문서 108편에 걸쳐, 생성형 AI는 경험 많은 연구자의 비판적 사고 수행을 높였고(+0.20) 초심자의 그것을 낮추었으며(−0.13), 이른 접근은 시간 압박 아래에서는 도움이 되지만 숙고할 시간이 있을 때는 비판적 사고를 해칩니다([[zapata-hernandez-genai-cognitive-infrastructure-review-2026|Zapata-Hernandez 외 2026]]).
-
 
 - **짧은 성찰 프롬프트가 AI 조언에 대한 의존을 더 변별적으로 만듭니다.** 학부생 342명의 삼조건 실험에서 Ren(2026)은 열린 ChatGPT 지원이 틀린 AI 추천을 시도의 62.4%에서 수용한 반면, 짧은 메타인지 성찰 프롬프트로 39.7%로 낮아졌음을(OR = 0.40, 95% CI [0.28, 0.56]) 발견했습니다. 성찰은 인식 보정(0.59 대 0.41)도 개선하고 AI 특정 귀인 편향 지수를 0.42에서 0.21로 낮추었으며, 추천의 정확도를 떨어뜨리거나 유용한 조언을 일률적으로 거부하게 만들지는 않았습니다.([[ren-metacognitive-awareness-genai-reliance-2026|Ren 2026]])
 
@@ -91,7 +91,6 @@ ai_assist:
 
 - **노출이 아니라 파트너십의 구조가 연관을 운반합니다.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun과 Toker(2026)]]는 미국과 터키의 대학생 891명을 상호기억 체계 이론으로 모형화하여, 자기평가된 사고 능력도 AI 파트너십에 대한 확신도 비판적 사고 실행을 직접 예측하지 못함을 발견했습니다. 둘 다 생성형 AI 친숙도를 통해 작동했고, 친숙도는 두 행동만 예측했습니다: 전문화와 노동의 조정(b = 0.636), 그리고 산출물의 성찰적 변형(b = 0.367)입니다. 그 행동들이 비판적 사고를 예측했고(b = 0.230과 b = 0.175) 직접 경로는 남지 않았습니다(CFI = 0.974, RMSEA = 0.048). 이것은 이 분야에서 되풀이되는 널 결과의 기제 수준 판본입니다: 사용 시간과 자기평정 역량은 비판적 사고의 대리물이 아니며, 노출에 관해 물을 때 연구가 측정하는 것은 사슬의 결과가 아니라 투입입니다.
 
-
 ## 흔한 오해
 
 - **"더 나은 프롬프트가 더 나은 비판적 사고를 만든다."** 오류 논증 튜터와 토론 챗봇을 가르는 것은 **더 나은 프롬프트가 아니라 구조화된 대화 제어**입니다. 각 차례를 **툴민 기반 의도 탐지**로 라우팅하는 일이 그 일을 해냈습니다. 메커니즘은 문구가 아니라 상호작용 구조입니다.
@@ -103,56 +102,3 @@ ai_assist:
 AI 사용이 [[critical-thinking|비판적 사고]]를 돕는지 해치는지는 어떤 기제를 측정하느냐에 달려 있습니다. 31개 연구와 학습자 16,357명을 통합한 2026년 메타분석적 구조방정식 모형은 **거의 같은 크기로 반대 방향으로 달리는 두 간접 경로**를 발견했습니다. AI 사용은 의존을 높여 비판적 사고를 낮추었고(β = −0.212), [[motivation|학습 동기]]를 높여 비판적 사고를 높였습니다(β = +0.217). 두 경로는 거의 정확히 상쇄되었습니다 — 총 간접 β = 0.004 — 작은 양의 직접 효과(β = 0.149)와 설명된 분산 40%를 남겼습니다.([[motivational-gain-trumping-cognitive-offloading-2026|Wang 외, 2026]])
 
 그 문헌의 영차 상관은 유의하지 않으며(r = 0.156, 95% CI [−0.040, 0.353]), 이것은 연구가 결과만 측정할 때 상쇄가 보이는 모습입니다. 설계 함의는 [[cognitive-offloading|오프로딩]]이 도구의 속성이 아니라 과제가 어떻게 설정되는지의 속성이라는 것입니다. 종단 간 답을 보류하는 도구와 평가를 강제하는 메타인지 점검점이 균형을 동기 경로 쪽으로 밀어냅니다.
-
-## 연결된 개념
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 전문 도구
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## 연결된 문서
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30명 전문가 합의: 비판적 사고가 이 보고서에서 가장 높은 교란 평정을 받는다(평균 4.00)
-- [[pearls-epistemic-verification-2026]] — 인식론적 주체성과 AI 산출물 검증을 위한 PEARLS 프레임워크(Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 생성형 AI 지원 글쓰기에서의 층위 민감적 인지적 오프로딩(Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — 생성형 AI 통합 학습에서의 비판적 사고 역설
-- [[pedagogy-ai-mistakes]] — AI 오류의 교수법: 고차원적 사고 기르기(Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — 삼중 계층 이론과 인식적 항복: AI가 인간의 추론을 다시 빚는 방식(Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지적 공동 자원의 비극: AI와 전문성 재생
-- [[zhao-genai-higher-order-thinking-meta-2026]] — 생성형 AI와 고차원적 사고 메타분석
-- [[avraamidou-ai-colonization-science-education]] — 과학교육의 AI 식민화 뒤흔들기
-- [[li-mroziak-reorienting-critical-ai-literacy]] — 비판적 AI 리터러시 재지향
-- [[luo-ibl-patterns-llm-bloom-2026]] — LLM 기반 환경에서의 탐구 기반 학습 양상(블룸의 관점)
-- [[probing-ai-generated-physics-solutions-2026]] — AI 생성 물리 풀이를 비판하도록 학생 준비시키기
-- [[student-reception-genai-analogies-computing-2026]] — 흠 있지만 기억에 남는다: 컴퓨팅 교육에서 흥미에 맞춘 생성형 AI 유비에 대한 학생의 비판적 수용
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가주의
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 체화적 지능을 통한 지속 가능한 학습 기르기(E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — 복잡 적응 계로서 모형화된 AI 과잉 의존
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — AI 지원 다중양식 쓰기에서의 차원별 비판적 사고 향상(Lu 외 2027)
-- [[lftutor-logical-fallacy-education-2026]] — 구조화된 다중 차례 대화를 통한 오류 인식 가르치기
-- [[caeai-ai-companions-learning-over-performance-2026]] — 수행이 아닌 학습 우선: 동반자가 무엇에 최적화되고 무엇으로 측정되어야 하는가
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 메타인지적 자기조절을 통한 AI 스캐폴딩, 오프로딩, 검증 리터러시(Davor 외 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 생성형 AI 의존이 경영학 학생의 사용-비판적 사고 연결을 묶는다(Shojaei 외 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 틀린 AI 조언의 수용과 귀인 편향을 줄인다(Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 비판적 인간-AI 상호작용의 구조로서의 역할 순환(Kenzhebayeva 외 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 대학 화학 교육에서의 검증 중심 생성형 AI 통합(Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — 교수가 큐레이한 ChatGPT 피드백이 고차원적 수정을 통해 비판적 사고를 높였다(Chen 외 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — AI 접근의 한 학기는 비판적 사고를 평평하게 남겼고, 성찰적 사용이 그것을 예측했다(Melanou 외 2026)
-
-- [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명에서 비판적 사고와 양으로 연관된 생성형 AI 의존
-- [[genai-use-critical-thinking-moderation-2026]] — 피드백 리터러시를 통한 생성형 AI 사용에서 비판적 사고로, 덜 성찰적인 학생에게만 직접 경로
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — 비판적 사고는 노출이 아니라 노동 분업과 산출물 재작업을 통과한다
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 조절 증거의 비관적 독해: 마찰 손실, 자동화 편향, 효율성 프레임
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — 문서 108편에 대한 서사적 검토: 효과의 부호는 선행 지식과 과제 시점을 따른다(AMCIF 틀)
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI 의존과 동기가 비판적 사고에 같고 반대인 효과를 운반하여, 작은 순이득을 남긴다(MASEM, 31개 연구, 학습자 16,357명)
-

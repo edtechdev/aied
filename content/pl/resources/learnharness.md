@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -45,10 +46,3 @@ Uczący się samodzielnie, którzy pracują nad trudnym materiałem, oraz wykła
 ## Uwagi i zastrzeżenia
 
 Darmowość obejmuje oprogramowanie, nie wnioskowanie: uczący się przynoszą klucze dostawcy, subskrypcję, lokalny CLI Claude Code albo dowolny punkt końcowy zgodny z OpenAI, i płacą dostawcy bez marży; licznik na żywo szacuje tylko znane koszty API. Zapisy, czaty i klucze zostają na maszynie jako zwykłe pliki, ale projekt ostrzega, że lokalne przechowywanie nie oznacza przetwarzania offline, ponieważ zapytania do modeli, opcjonalne dyktowanie i badanie sieciowe sięgają do usług zewnętrznych. Instalator dla Windows x64 jest niepodpisany, więc Windows ostrzeże. Nie opisano badania skuteczności, więc argument opiera się na deklarowanym uzasadnieniu, a nie na zmierzonych wynikach; w chwili sprawdzania 2 listopada 2026 repozytorium miało około 4 800 gwiazdek.
-
-## Powiązane pojęcia
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

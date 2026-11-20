@@ -18,6 +18,8 @@ connected_videos: [a-new-ai-literacy]
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, metaphors-and-analogies, learners, automation-bias, generative-ai, llm, critical-thinking, prompt-engineering, metacognition, cognitive-offloading, reducing-ai-misuse, academic-integrity, self-assessment, trust-calibration, ai-sycophancy, equity-in-ai-education, digital-divide, ethics, teacher-ai-competency, educational-development, ai-assisted-educational-research, k-12, higher-ed, career-development-and-readiness, ai-education, civic-and-political-education]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhanced-oer-composition-2026, guo-ai-literacy-developmental-paces-2026, cerioli-human-centered-ai-literacy-schools-2026, islam-credibility-weaker-llms-2026, yang-collaborative-ai-literacy-measures-review-2026, early-childhood-ai-holistic-competencies-review-2026, ai-security-literacy-k12-framework-2026, mu-ai-competence-ethical-awareness-anxiety-2026, caeai-digital-literacy-frameworks-review-2026, ai-literacies-young-adults-2025, ai-literacy-heptagon-2026, ai-literacy-continuum-higher-education, ai-literacy-measurement-conceptual-landscape-llm-2026, ai-literacy-instrument-development-systematic-review-2026, gails-generative-ai-literacy-scale-2026, jin-glat-genai-literacy-assessment, ai-literacy-assessment-misalignment, genai-assessment-literacy-scale-2026, competent-generative-ai-use-measures-review-2026, ai-literacy-correlates-affective-behavioral-cognitive-2025, assessing-teachers-ai-literacy-measurement-tools-2026, ai-literacy-self-assessment-questionnaire-primary-2025, metacognitive-ai-literacy-beyond-skills-gap-2026, liu-ai-literacy-interventions-meta-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, age-tiered-ai-literacy-guidebooks-2026, li-mroziak-reorienting-critical-ai-literacy, miles-prompt-literacy-human-centered-genai-framework-2026, contextual-sycophancy-ai-literacy, student-dependency-on-ai-literacy-self-efficacy-2026, clerc-ai-literacy-workshop-llm-regulation-2026, ai-literacy-sdg-governance-framework-2026, ukraine-ai-literacy-secondary-framework-2026, niri-steam-ai-literacy-review-2026, hingle-collaborative-ai-literacy-2025, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, davor-ai-supported-learning-higher-order-outcomes-2026, yu-designing-ai-literacy-self-determination-2026, hu-psychological-predictors-continued-chatgpt-use-2026, zhi-modeling-measuring-graduate-genai-literacy-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-higher-ed-agency-responsibility-discourse-2026, elsayary-ai-literacy-employability-competencies-2026, fagerlund-competency-agency-purposes-ai-education-2026, charles-teacher-readiness-by-design-ai-rich-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, sun-student-genai-entanglement-literacy-demands-2026, ai-competence-framework-landscape-2026, ai-literacy-determinants-university-students-2026, sfailq-six-facet-ai-literacy-questionnaire-2026, faculty-ai-well-being-social-supports-2026, bozkurt-3wai-literacy-scale-2026, hallstrom-ai-literacy-stem-education-frontiers-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, genait-genai-literacy-test-high-school-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, kim-overtrust-ai-literacy-2026, liang-ai-literacy-facets-creative-higher-education-2026, chen-genai-literacy-task-performance-cognitive-load-2026, huang-ai-literacy-vocational-problem-solving-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, roe-perkins-furze-metaphors-critical-ai-literacy-2025, cuenca-rodriguez-genai-use-caution-trajectories-2026, boison-freirean-critical-ai-literacy-framework-2026, dumancic-tool-to-method-ai-literacy-history-2026, ago-prompt-literacy-allied-health-2026, making-ai-work-for-students-ofs-2026, yan-genai-use-critical-thinking-feedback-literacy-2026, ethics-education-meta-analysis-moral-outcomes-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI [[ai-technologies|AI technologies]] in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical [[ai-ed-evaluation|evaluation of AI]] outputs, and ethical awareness of AI's societal implications.
@@ -195,7 +197,6 @@ The frameworks and empirical studies converge on a set of practical guidelines f
 
 Provision is thin even where a professional curriculum already exists. Among 417 allied-health undergraduates at one Ghanaian public university, 76.3% (n = 318) reported no prior training in responsible AI use, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate ([[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]]). Intervention design in health professions therefore starts from novices who were never taught the material, not from learners extending an existing curriculum.
 
-
 Sequencing shows up as the design decision that matters most in two of the field's recent accounts. [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] put short AI literacy videos in Weeks 1 to 4 of an asynchronous composition course, before the assignments where students would need the assistant, and both students and instructors named those videos as the element that made acceptable use legible. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] ran the same logic for instructors: eight weeks, paid time, a cohort, and a shared framework for critiquing output, which moved self-reported familiarity modestly (3.2 to 3.5 on a five-point scale) while comfort rose to four or five for every participant.
 ## Measuring AI literacy
 
@@ -280,109 +281,3 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
 - **"AI literacy is one construct."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** and found the construct is not unitary. A program that builds one dimension leaves the others unaddressed.
 - **"A 40% overestimate is a minor calibration issue."** It means the students and teachers most confident about their AI literacy may be the ones least able to evaluate output — which is exactly the population an intervention has to reach first.
-
-## Connected Concepts
-- [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences
-- [[metaphors-and-analogies]] — Metaphor and analogy as sensemaking and teaching techniques
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[automation-bias]] — The failure that verification and post-editing instruction is meant to prevent
-- [[generative-ai]] — the technology AI literacy targets
-- [[llm]] — the systems at the heart of AI literacy
-- [[critical-thinking]] — core evaluative disposition
-- [[prompt-engineering]] — core practical competence
-- [[metacognition]] — literacy as metacognitive social practice
-- [[cognitive-offloading]] — the over-reliance risk literacy counters
-- [[reducing-ai-misuse]] — literacy's behavioral payoff
-- [[academic-integrity]] — knowing what constitutes appropriate AI use
-- [[self-assessment]] — judging your own work and skill, as technique and as measure
-- [[trust-calibration]] — calibrating appropriate trust
-- [[ai-sycophancy]] — literacy skill of detecting agreement
-- [[equity-in-ai-education]] — fair distribution of literacy
-- [[digital-divide]] — the access/skills/outcomes gap
-- [[ethics]] — ethical awareness dimension
-- [[teacher-ai-competency]] — educator preparedness
-- [[educational-development]] — building educator literacy
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[k-12]] — school-level literacy
-- [[higher-ed]] — university-level literacy
-- [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
-- [[ai-education]] — the broader field
-- [[civic-and-political-education]]
-
-## Connected Articles
-
-- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — The text talks back: Chatbot-enhanced OER in asynchronous Composition II (Powell et al., 2026)- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 school-education studies: six teacher and eight student AI literacy dimensions sharing a psychological core (Feng & Carolus, 2026)
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12 records into nine categories: a ten-consideration progression from sensory play to team projects, and nine validated instruments, none of which captures process (Guo, Ali & Wong, 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
-- [[islam-credibility-weaker-llms-2026]] — 42 undergraduates: answer-first lowered AI credibility to 5.65 against 6.60 unrestricted, with verification at 6.22 (Islam et al., 2026)
-- [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 AI literacy measures: collaboration is rarely assessed as a construct, and the proposed coordination/communication/metacognition factors remain unvalidated (Yang et al. 2026)
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Raising the ethical dimension of literacy without a coping framework can leave students more anxious
-- [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
-- [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Mapping the AI literacy instrument corpus: 55 constructs, jangle and jingle pairs, LLM-based coding
-- [[ai-literacy-instrument-development-systematic-review-2026]] — COSMIN appraisal of 58 studies and 47 AI literacy instruments: validity evidence clusters around internal structure while criterion, content and invariance evidence stays largely missing (Jin et al. 2026)
-- [[gails-generative-ai-literacy-scale-2026]] — GAILS: 34-item GenAI literacy scale validated in 341 adults, scalar-invariant across sex and student/workforce groups (Zhang et al. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[genai-assessment-literacy-scale-2026]] — GAA-LS: validated Generative AI Assessment Literacy Scale for higher-ed students (Nie et al. 2026)
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[ai-literacy-correlates-affective-behavioral-cognitive-2025]] — systematic review of what AI literacy correlates with
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — systematic review of the tools that measure teacher AI literacy
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — self-assessment questionnaire for upper primary students
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Age-tiered AI literacy guidebooks evaluated with 794 students and 37 teachers: four-factor acceptance structure invariant across the 9-12 and 13-18 editions, with younger learners higher on every construct
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt literacy as a foundational literacy distinct from prompt engineering: the five-phase human-centered GenAI engagement model (Miles, Haber-Curran & Arar 2026)
-- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour workshop changed middle-school students' regulation of LLM interaction, while self-reports predicted nothing (Clerc et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework for Ukrainian secondary educators (Marienko et al. 2026)
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — reframes AI literacy as judging which interpretive work should not be delegated
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — AI verification literacy mattered only through metacognitive self-regulation, while cognitive offloading predicted lower critical thinking and problem solving (Davor et al. 2026)
-- [[yu-designing-ai-literacy-self-determination-2026]] — Thinking-based instruction beat skills-based instruction on an objectively rated task, with autonomy and competence carrying the effect (Yu, Lin & Chen 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy to continued ChatGPT use runs through trust and academic self-efficacy, and AI anxiety thins the first link (Hu 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Five-dimension Marzano-grounded model and 15-item self-report scale for graduate GenAI literacy (Zhi et al. 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Eleven studies of AI in initial mathematics teacher training, mostly short-term, with ethics addressed in only three (Pinto et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry, with representational translation as the core AI literacy demand (Vega-Baudrit & Rivera Alvarez 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[elsayary-ai-literacy-employability-competencies-2026]] — Self-reported AI literacy explained 60.8% of perceived employability readiness, with the evaluative and affective dimensions strongest (ElSayary & Ragab 2026)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Teachers' purposes for AI education read through Biesta's qualification, socialization and subjectification, and the informed AI agency heuristic (Fagerlund et al. 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher readiness as design quality rather than adoption or confidence, with self-efficacy as a resource and non-use not unreadiness (Charles 2026)
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI education raised AI literacy with a pooled g = 0.892 across 57 positive effects, and measurement disagreement explains the heterogeneity (Yu et al. 2026)
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Literacy demands differ by student–GenAI entanglement type; Assistant and Enabler forms dominate while the rest stay marginal for institutional reasons (Sun, Dohn & Rehm 2026)
-- [[ai-competence-framework-landscape-2026]] — Comparative analysis of 16 AI competence frameworks for education and workforce development
-- [[ai-literacy-determinants-university-students-2026]] — External resources, digital competence and psychological profile as joint determinants, with a technology-anxiety sign reversal
-- [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
-- [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy
-- [[bozkurt-3wai-literacy-scale-2026]] — Validated 17-item self-report scale with three distinct AI-literacy factors (Know What/How/Why); Know-How and Know-Why most coupled (HTMT = 0.544)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — The demand to learn about AI read as a disciplining discourse (Wang & Jin 2026)
-- [[genait-genai-literacy-test-high-school-2026]] — GenAIT: An Objective Generative AI Literacy Test for High School Students and Its Associations with LLM Use and Perceptions (Puppart, Laak and Aru 2026)
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 50 K-12 AI literacy frameworks; only one instrument assesses generative AI specifically
-- [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled
-- [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
-- [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Literacy reaching problem solving through cognitive moves, not tool access
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Critical AI and media literacies as the civic counterweight to cognitive outsourcing
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implemented across 13 sections: readings, peer feedback, rubric-driven AI feedback, reflection
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University
-- [[boison-freirean-critical-ai-literacy-framework-2026]] — Freirean critique arguing competency lists cannot explain movement from recognition to action
-
-- [[dumancic-tool-to-method-ai-literacy-history-2026]] — From Tool to Method: Developing AI Literacy in an Upper-Level History Course
-- [[ago-prompt-literacy-allied-health-2026]] — 417 allied-health undergraduates in Ghana: 76.3% had no responsible-AI training, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate (Ago et al. 2026)
-- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy
-- [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 421 undergraduates: feedback literacy carries 72% of the AI-to-critical-thinking association
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not
-- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

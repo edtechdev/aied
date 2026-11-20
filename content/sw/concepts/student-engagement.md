@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,7 +69,6 @@ Ngazi za msaada [[scaffolding]] hizo zina mwenzake wa taasisi wenye njia mbili. 
 
 - **Mahusiano, mtiririko na akili ya kihisia zilikua pamoja katika madarasa ya muziki yanayosaidiwa na AI.** Mawimbi matano katika muhula mmoja na wanafunzi 850 wa shahada ya kwanza yalionyesha ukuaji wa wastani katika yote matatu, na uwiano wa mteremko wa 0.39 kati ya mahusiano na mtiririko na 0.22 kati ya mahusiano na akili ya kihisia; ukuaji wa mtiririko ulibeba kiungo hadi akili ya kihisia ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang na Tang, 2026]]).
 
-
 ### Kupima mahusiano: tatizo la kuchagua kipimo
 
 Mahusiano yanafanywa kupitia ishara mbalimbali zinazoweza kuonekana. **Vipimo vya tabia** hupima wanaojifunza *wanafanya nini* (muda kwenye kazi, hesabu za shughuli, mara ya mwingiliano, kudumu); **vipimo vya kiakili** hupima wanaojifunza *wanafikiri vipi* (kina cha uchakataji, mahusiano mahususi, uchanganuzi wa mazungumzo); **vipimo vya kihisia** hupima wanaojifunza *wanahisi vipi* (hisia, motisha, hamu); na **vipimo vya muktadha** vinakamata kazi nyingi na uangalifu. Utafiti wa elimu ya AI unachanganya hizi kwa kiwango kinachoongezeka na unachukulia mahusiano kama mbinu ya kuwasiliana kati ya ubini wa zana ya AI na [[learning-gains|matokeo ya kujifunza]], badala ya matokeo yenyewe.
@@ -77,7 +78,6 @@ Mahusiano yanafanywa kupitia ishara mbalimbali zinazoweza kuonekana. **Vipimo vy
 Uchaguzi wa kipimo ni wa ufafanuzi: utafiti unaopima mahusiano kama *muda kwenye kazi* unaweza kuhitimisha kuwa zana ya AI inaimarisha mahusiano wakati wanafunzi wanatumia muda zaidi kuwasiliana nayo, huku utafiti unaopima mahusiano kama *uchakataji mahususi* ukiweza kufikia hitimisho kinyume kwa zana ile ile. Hii ndiyo sababu utafiti wa hifadhi ya maarifa unatofautisha mahusiano (ushiriki) na kujifunza (kupata kisaikolojia halisi ya kiakili) — ona [[genai-performance-vs-learning|utendaji dhidi ya kujifunza]] — na kwa nini vipimo vya mahusiano lazima vithibitishwe dhidi ya vile vinavyodai kupima.
 
 **Rekodi za kujiripoti na za tabia za matumizi yale yale zinaweza kutofautiana karibu kabisa.** Keith, Wood na Posey (2026) walipima mifumo ya mahusiano ya AI mara mbili kwa wanafunzi wale wale 171: mara moja kwa chombo cha kujiripoti cha vipengele 29, na mara nyingine kwa kuainisha zamu 1,353 za nakala. Hakuna uwiano wa wasifu uliooanishwa uliobaki baada ya marekebisho katika |r| ≥ .30, umbali wa wastani wa tofauti yote ulikuwa .701 na karibu kwa .002 tu kuliko uoanishaji wa nasibu, na muundo wa tabia uliongeza tofauti iliyoelezwa kwa .166 dhidi ya .031 kwa kujiripoti; ni wasifu ulioonekana pekee uliofuatilia alama za maswali, ambapo zamu za kutafuta maelezo ziliambatana na alama za juu (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). Kujiripoti kwa jinsi mwanafunzi anavyoshiriki kulibeba karibu hakuna taarifa kuhusu jinsi mwanafunzi huyo alivyoshiriki kwa hakika, jambo linalofanya onyo la kuchagua kipimo kuwa tokeo lililopimwa badala ya tahadhari.
-
 
 - **Mahusiano kama ishara yenye kudhoofu, inayotegemea hali:** [[polished-artifacts-fragile-engagement-2026|Vitu vilivyopangwa, mahusiano yenye kudhoofu]] na [[genai-tutor-engagement-patterns|miundo ya mahusiano ya taasisi nyingi]] yanagundua kuwa mahusiano hutofautiana kwa muktadha, kazi, na mwanafunzi — zana ile ile inazalisha mahusiano makubwa kwa wanafunzi wengine na tabia ya kina kidogo, ya kufuatilia matokeo kwa wengine.
 
@@ -102,7 +102,6 @@ Muunganisho wa kimfumo wa [[higher-ed|AI katika elimu ya juu]] ([[long-ai-higher
 Maelezo ya pande mbili yanatoa hoja ile ile kutoka upande wa ufundishaji. Mfumo wa Uoanishaji wa Ukali–Kujitolea wa Al Nafjan unachukulia mahusiano chini ya GenAI kama yanayoamuliwa kwa pamoja na jinsi kazi inavyotaka na jinsi mwalimu anavyojitolea kwa kujifunza kwa wanafunzi, na unatabiri miundo minne ([[al-nafjan-genai-eap-writing-engagement-2026]]). Ukali mdogo pamoja na kujitolea kidogo (Kupuuza) na ukali mdogo pamoja na kujitolea kwa nguvu (Kufumbia macho) zote hutulia katika matumizi ya juu juu, kwa kuwa hakuna kinachomlazimu mwanafunzi kutathmini au kuhalalisha kile chombo kilichozalisha. Ukali mkubwa pamoja na msaada mdogo (Adhabu) unatabiriwa kusukuma wanafunzi kuelekea kujificha badala ya matumizi yenye uwajibikaji, na ni ukali mkubwa pamoja na msaada mkubwa tu unaotabiriwa kutoa mahusiano ya kina na ya wakala.
 
 Dai la msingi la mfumo ni ukuzaji badala ya sababu. Tofauti kati ya miundo minne zinapaswa kupanuka kadiri GenAI inavyopatikana kwa urahisi, kadiri tathmini inavyothamini bidhaa ya mwisho, na kadiri michakato ya utunzi inavyobaki isionekane, hivyo chombo hukaza hali ambazo kazi na mwalimu tayari wameweka badala ya kuunda mifumo ya mahusiano yenyewe. Al Nafjan anasema kuwa mfumo ni wa pendekezo na haujajaribiwa, jambo linalofanya profaili nne kuwa matarajio yanayosubiri jaribio la kitaalamu badala ya athari zilizoonekana.
-
 
 ### Mahusiano na dhana zinazohusiana
 
@@ -148,72 +147,3 @@ Mahusiano ya mwanafunzi yanaungana na [[motivation]] na [[self-determination-the
 
 - Ripoti kipimo na chombo, na epuka nomino tupu. Kwa kuwa kujitangaza na kumbukumbu zinatofautiana, "mahusiano yaliongezeka" yanahitaji utekelezaji wake wa kiutendaji katika sentensi hiyo hiyo.
 - Epuka kuhitimisha mafanikio kutoka kwa hisia. Matokeo ya mgawanyiko wa jaribio lililogawanywa kwa nguzo ni mfano wa kuripoti vyote viwili, pamoja na tupu.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanaojifunza: mwanya wa dhana za upande wa mwanafunzi
-- [[pedagogical-partnerships]] — Mahusiano ya Mbinu za Kufundisha
-- [[community-of-inquiry]] — Jumuiya ya Uchunguzi (mahusiano ya wakala kama kipimo cha CoI)
-- [[eportfolio]]
-
-- [[reflection]]
-
-- [[online-teaching-and-learning]] — Kufundisha na Kujifunza Mtandaoni
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — Mwanya: watu na hadhira katika elimu ya AI (wanaojifunza, walimu, wabuni, wasimamizi, watayarishaji wa sera)
-- [[self-report-measures]]
-- [[productive-failure]]
-
-## Makala Zilizounganishwa
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Tabia za mazungumzo za kutokuhusika na kujifunza katika mazungumzo ya mwanafunzi-AI (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Mazoezi ya kabla ya darasa ya AI ya sauti yaliongeza michango ya hiari ya darasa kwa ~31%, lakini tu baada ya matumizi ya pili (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Matumizi ya AI yalisogea pamoja na kutokuwa darasa zaidi huku uwezo binafsi haukutabiri, na mvuto wa wenza ukiwa mhusika mkuu (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Wakati vyuo vikuu vinatetea GAI lakini mazoezi hayaendani: tathmini za wanafunzi na mahusiano ya mchakato wa ubunifu katika elimu ya sanaa
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG iliyowekwa kichwani, ufuatiliaji wa jicho, na EDA zinataabiri ukadiriaji wa mahusiano wa ngazi tano, huku ufafanuzi wa wanaojifunza wenyewe ukibadilisha uramanishaji (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Kuunda Mfano wa Transformer wa Uangalifu wa Mwanafunzi wa Wakati Halisi Unaoelewa Usawa
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI katika elimu ya juu: mapitio ya kimfumo ya mahusiano + jukumu la mwasilishaji la mbinu za kufundisha
-- [[genai-motivation-engagement-2026]] — Athari ya Akili Bandia ya Kizalishaji kwenye Motisha na Mahusiano ya Mwanafunzi
-- [[critical-engagement-code-completion]] — Kubofya Tab au au La: Kupima Mahusiano Mahususi katika Ukamilishaji wa Kodi ya AI
-- [[icap-cognitive-engagement-llm-agents]] — Kupima Mahusiano ya Kiakili katika Mazungumzo ya Ushirikiano
-- [[genai-tutor-engagement-patterns]] — Si Wanafunzi Wote Wanahusiana Vilevile: Miundo ya Taasisi Nyingi
-- [[polished-artifacts-fragile-engagement-2026]] — Vitu Vilivyopangwa, Mahusiano Yenye Kudhoofu
-- [[ai-availability-student-motivation]] — "Kwa Nini Kutoa Juhudi Hii Nyingi?": Jinsi Upatikanaji wa AI Unaunda Motisha
-- [[genai-performance-vs-learning]] — Kutofautisha Maendeleo ya Utendaji Kutoka Kwa Kujifunza
-- [[scaffolding-critical-engagement-genai-minority-students]] — Kuweka Ngazi za Msaada za Mahusiano Mahususi na GenAI
-- [[engagement-intensity-learner-modeling]] — Mahusiano ya Kina kama Ishara ya Kuunda Mfano wa Mwanafunzi
-- [[learning-engagement-assistant-lea]] — Msaidizi wa Mahusiano ya Kujifunza
-- [[engagement-assessment-video]] — Tathmini ya Mahusiano katika Kujifunza kwa Video
-- [[engagement-forecasting-its]] — Kutoka Heuristi hadi Uchanganuzi: Kukadiria Juhudi na Maendeleo
-- [[interactive-learning-dashboards-engagement]] — Dashibodi za Kujifunza Zinazowasiliana na Mahusiano
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Sifa za wanaojifunza × mwingiliano wa umbizo la mazungumzo ya TTS
-- [[wang-goal-setting-ai-engagement-2026]] — Nadharia ya kuweka malengo: msaada wa mwalimu, malengo ya mafanikio, na mahusiano katika kujifunza Kiingereza kunaosaidiwa na AI (wanafunzi 758 wa Kichina)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Uwezo wa GenAI na hisia kama viongozi wa mahusiano ya chatbot (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Mahusiano ya kiakili ya kiwango cha Bloom yanayohusiana na taaluma katika mazungumzo ya mwanafunzi-AI (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Maendeleo mahususi ya kipimo ya mahusiano katika kiwango cha msingi (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Mahusiano ya kiakili na ya tabia yamepanda, mahusiano ya kihisia yamesimama, katika studio ya PBL ya VR ya kuvutia (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Jaribio la hisabati ya sekondari lililogawanywa kwa nasibu: hamu ya hali ilipanda na chatbot mahususi huku utendaji wa jaribio haukupanda (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Ujuzi wa AI unaongoza mahusiano moja kwa moja na kupitia mtaji wa kisaikolojia, unaoimarishwa na kujitolea kitaaluma (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: mafunzo ya AI na ya binadamu yanatoa maendeleo ya GRE yanayofanana
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Upatikanaji wa mwalimu wa zana ya AI ulipunguza ushiriki wa jukwaa uliorekodiwa kwa SD 0.90 huku kuwasilisha kazi za nyumbani kikidumu (Liu et al. 2026)
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Usomi wa maoni ya AI na mahusiano ya wakala: paneli ya mawimbi matatu yenye kizuizi cha nasibu (Xu 2026)
-
-- [[eight-mode-ai-engagement-typology-2026]] — Vipimo vya kujiripoti na vya tabia vya mifumo ya mahusiano hukosa kuoanisha; wasifu ulioonekana pekee unafuatilia alama
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Mfumo wa Ukali–Kujitolea: ukali mkubwa pamoja na msaada mkubwa pekee hutabiri mahusiano ya kina na ya wakala
-

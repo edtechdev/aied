@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -47,11 +48,3 @@ ai_assist:
 MemberとBuilderは無料です(Builder: アプリ50、50 MB)。Proは月額\$10または年額\$60で、アプリ500です。アクセスはフリーミアムです。
 
 プライバシーはより強い主張ですが、責任を教員へ移します。Teacher Hiveは学生アカウントを作らず、学生に個人情報を尋ねず、公開されたアプリ内で分析や広告のスクリプトを実行しません。アプリはリンクで公開されるため、利用規約は、アプリが名前、メール、学生ID、位置情報を収集しないことを保証する責任を教員に負わせています。アクセシビリティの範囲(WCAG 2.2 AA)はTeacher Hive自身のページに適用され、未検証の教員製アプリには適用されません。オープンソースライセンスは明示されておらず、稼働時間とデータ保持は保証されていません。
-
-## 関連する概念
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

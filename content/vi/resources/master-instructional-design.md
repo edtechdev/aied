@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -40,6 +41,3 @@ Skill đi kèm một bộ khung hỗ trợ: hai tác tử phụ, một cho phỏ
 ## Điều khoản và lưu ý
 
 Giấy phép là Creative Commons BY-NC-ND 4.0, và các điều khoản tác giả nêu có ý nghĩa với phần lớn độc giả ở cơ sở giáo dục: học tập cá nhân, phi thương mại và phát triển chuyên môn được hoan nghênh, còn sử dụng thương mại, phân phối lại và gắn nhãn trắng cần một giấy phép thương mại. Kho mã báo 314 trên 320 điểm qua mười thử thách do chính tác giả thiết kế, đó là đánh giá của tác giả chứ không phải đánh giá độc lập, và cùng tác giả đó bán dịch vụ tư vấn và workshop về khung này. Dự án được mô tả là nỗ lực cá nhân không liên kết với các nhà tuyển dụng của ông, và lần commit cuối của nó là tháng 4 năm 2026.
-
-## Khái niệm liên quan
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

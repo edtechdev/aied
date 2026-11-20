@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
@@ -115,59 +117,3 @@ La educación en física se sitúa dentro del dominio más amplio de la [[stem-e
 - **«El estudiantado confía en la IA lo suficiente como para usarla sin crítica.»** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad y Bentley]] encontraron una **brecha de 50 puntos entre confianza y utilidad**: **el 91% usa la IA para el trabajo de curso, pero solo el 41% confía en ella**. Un uso extendido convive con una confianza baja, así que una intervención dirigida a generar entusiasmo aborda la variable equivocada.
 - **«El estudiantado de física es una sola población.»** [[becker-chatgpt-typology-physics-2026|Becker et al.]] desarrollaron una tipología de dos perfiles a partir de **1.189 respuestas de encuesta**: **70% «usuarios pragmáticos» y 30% «no usuarios escépticos»**. Una política única de aula tiene que servir a dos grupos con posturas opuestas.
 - **«La brecha entre uso y confianza es irracional.»** Las dos cifras miden cosas distintas: si la herramienta le ayuda a terminar el trabajo y si cree que lo hace correctamente. El estudiantado distingue utilidad de fiabilidad, que es la distinción analíticamente correcta y no una contradicción.
-
-## Conceptos conectados
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — La educación química y la IA: laboratorios, evaluación formativa, límites de los LLM, filosofía de la experimentación
-- [[biology-education]] — La educación en biología y la IA: asistentes docentes de laboratorio, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
-
-## Artículos conectados
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — La aceptación de la IA generativa modelada en física de décimo curso
-- [[genai-video-engineering-physics-workflow-2026]] — De los prompts a las leyes físicas: un flujo de trabajo con IA generativa para la educación en física de ingeniería
-- [[wang-teacher-student-centered-agents-physics-2026]] — Agentes de física diseñados por prompt centrados en el docente frente a centrados en el estudiante (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — Uso de la IA para generar rápidamente simulaciones de física y laboratorios virtuales (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: un marco para la aumentación con IA cognitivamente activada en física
-- [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones de física manuscritas (Olimpiada)
-- [[ai-particle-physics-education-redesign-2026]] — La IA en la educación en física de partículas: problemas de investigación y habilidades fundamentales
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Diagnóstico Cognitivo de Mecánica: convertir el FCI, el FMCE y el EMCS en un diagnóstico cognitivo de 14 objetivos (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Escepticismo frente a comodidad: percepciones y uso de los grandes modelos de lenguaje por parte del estudiantado de física antes y después de la instrucción
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Evaluación asistida por IA de informes de laboratorio de física experimental: potencial, limitaciones y apoyo a la práctica docente
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1.834 pares de preguntas y respuestas de física secundaria en bengalí mapeados a un grafo curricular de 1.760 nodos, con ganancias de adaptación en modelos pequeños
-- [[ai-university-physics-education-review-2026]] — La inteligencia artificial en la educación universitaria de física: una revisión sistemática de estudios empíricos
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formación estructurada con IA generativa para la revisión de problemas de física: un ensayo controlado aleatorizado (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Un tutor bien diseñado superó el aprendizaje activo en el aula
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Las preconcepciones sobre la energía decidieron dónde se situaba la negociación de consultas a la IA en la red del grupo: un centro de integración cuando sus miembros discrepaban, una ruta lineal de consulta y luego lectura cuando coincidían (Wang et al. 2026)
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Patrones de uso y apoyo percibido entre futuros ingenieros

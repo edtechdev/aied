@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -103,39 +105,3 @@ ai_assist:
 
 - דווחו תוצאות על יותר ממשפחת מערכי נתונים אחת לפני שאתם טוענים לעליונות ארכיטקטונית, מאחר שהניגוד של OKT מתהפך בין נתוני LMS הנדסה ל-ASSISTments.
 - דווחו את כלל ספירת השליטה כפרמטר של התוצאה, לא כהערת שוליים מתודולוגית.
-
-## מושגים מקושרים
-
-- [[learners]] — לומדים: המטרייה למושגי צד-הלומד
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — הערכת שליטה עדינה מזינה החלטות תמיכה
-
-## מאמרים מקושרים
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — הכללה-יתרה מרמה: שליטה מסתגלת יכולה לעצור תרגול לפני שלומדים יודעים מתי לעצור פעולה (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — הוראה אינטליגנטית מבוססת-גרף לתחומים דינמיים (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — עקיבה אחר ידע מבוססת-תוצאה עם מיפוי זיקה
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — עקיבה מעוגנת-סמנטית עם מצבים מכוילי-KC, המשמשת כסביבה RL להמלצה
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: יועץ סועני שלומד את הלומד שלו בלולאת למידה-משותפת אנושית-בינה מלאכותית
-- [[crediting-assisted-work-inflates-mastery-2026]] — איזה כלל ראיה מחליט על טענת שליטה (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — LLM חד-מעבר עוקב ידע מעל מודלים עמוקים שאומנו על 8 לומדים, בפחות חלק מהעלות (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — כיווץ היסטורית התלמיד במעקב-ידע במתמטיקה

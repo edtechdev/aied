@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -69,9 +71,7 @@ Metinden görüntüye araçlar, stüdyonun yinelemeli iş akışının en doğru
 
 Benimseme sorusunun disipline özgü bir yanıtı [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]]’da vardır: Zhu, sekiz Zhejiang kurumunda 450 sanat bölümü öğrencisini [[trust]] ile genişletilmiş bir UTAUT modeliyle anketlemiştir. Güven, davranışsal niyete giden en güçlü yoldu (β = 0,425); sosyal etkinin (0,155) önündeydi, üstbilişsel kontrol ise güvene (β = 0,099) göre niyete daha doğrudan uzanıyordu (β = 0,146). Yazarlar bunu bu disiplinin bahsi olarak okur: sanatın durdurma kuralları belirsizdir, dolayısıyla yaratıcı failliği elde tutmak neyin saklanacağına, revize edileceğine veya atılacağına tekrar tekrar karar vermek demektir. 80 öğrenciyle yapılan randomize bir takip çalışmasında kör uzmanlar üretilen görüntüleri derecelendirmiş ve istek metni verilen öğrenciler anlamsal içerik (d = 0,67), görsel üslup (d = 1,30) ve mekânsal kompozisyon (d = 0,63) bakımından daha yüksek puan almıştır.
 
-
 Dijital medya üretimi, yapılandırılmış bir sürecin ne yapabileceğini gösterir. [[project-based-digital-storytelling-art-design-2026|Tian ve ark. (2026)]], 426 son sınıf lisans öğrencisinin, yaklaşık 1:9 oranında 48 mentor eşliğinde yerel kültürel mirası [[multimodal]] anlatılara dönüştürdüğü 15 haftalık proje temelli dijital hikâye anlatımı bitirme çalışması “Creative Shanzhou”u incelemiştir. Ortaya çıkan 92 işin uzman puanları yenilikte (M = 4,21, SD = 0,72) en güçlü olmuş, etkililik (3,96) ve bütünlük (3,68) takip etmiş ve projelerin %43’ü bütünlükte 3,5’in altında puan almıştır — öğrenciler özgün fikirleri bütünleştirmelerinden daha başarılı üretmişlerdir. 31 öğrencili Animasyon alt grubunda, figüratif yaratıcı düşünme puanları 77,23’ten 94,68’e yükselmiştir (ortalama fark 17,45, t(30) = 4,55, p < .001, Cohen’s d = 0,82). Analiz edilen projeler boyunca YZ bilgi düzenleyici, görsel referans, fikir yardımı ve düzenleme aracı olarak hizmet etmiş; öğrenciler konu seçimini, anlatı yorumunu, kültürel anlam oluşturmayı ve nihai kararları elinde tutmuştur; en yüksek puanlı örnek tutarlılığını YZ parlaklığından çok kaynak materyalle süregelen insan angajmanına atfetmiştir. Proje üç günlük bir kamu sergisiyle sonuçlanmış ve 31 iş yerel Kültür ve Turizm Bürosu tarafından benimsenmiştir.
-
 
 [[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]], eleştiriyi yinelenebilir bir yönteme dönüştürür: Yorumla, Sorgula ve İfşa Et adlı üç epistemik oyun, stüdyo tartışmasını izlenimsel tepkiden gerekçelendirilmiş yanlılık hipotezlerine taşır; BiasSlot kuralı bir yanlılık ipucunu değiştirirken sabit bir motif yerinde kalır.
 
@@ -117,37 +117,3 @@ Sanatlarda [[accessibility]], uyumdan çok bir tasarım ve maddi uygulama sorusu
 **Araştırmacılar için**
 
 - Disiplin çapında iddialarda bulunmadan önce tek stüdyolu vaka çalışmalarının ötesine geçilmeli ve stüdyonun yapısı bildirilmelidir; çünkü sonucu koşullayan budur.
-
-## Bağlı kavramlar
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## Bağlı makaleler
-
-- [[genai-xr-architectural-design-education-2026]] — Gerçek bir mimarlık stüdyosunda GenAI artı çok kullanıcılı XR: tamamlayıcı roller, düşen tasarım öz yeterliliği, portfolyo avantajı yok (Xiao ve ark. 2026)
-- [[genai-architecture-education]] — Bir mimarlık stüdyosunda yerelde çalıştırılan, disipline özgü görüntü iş akışı: daha geniş yaratıcı arama uzayı ve azalmış eleştiri kaygısı (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — Uzunlamasına stüdyo çalışması ve GAI-A platformu: tasarım sabitleşmesi riskiyle birlikte uyaran ve çözüm uzayı genişlemesi olarak GenAI (Gül ve ark. 2026)
-- [[ai-interior-design-malaysia-2026]] — Makine çıktısının küratörleri olarak iç tasarımcılar ve bunun hakkında müfredat ve mesleki düzenlemenin ne yapması gerektiği (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Mesleki iç tasarımda YZ etkin sürükleyici bir ortamın içinde proje temelli öğrenme (Jin ve ark. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — 426 öğrencili 15 haftalık dijital hikâye anlatımı bitirme çalışması: yenilik güçlü, bütünleştirme zayıf, araç olarak YZ yazar değil (Tian ve ark. 2026)
-- [[t2i-competence-paradox-2026]] — 417 sanat ve tasarım öğrencisi arasında metinden görüntüye kabulü ve seçici kullanımın yetkinlik paradoksu (Liu, Meng ve Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — Akış ekonomisi, özerk üreteçler karşı kompozisyon yardımcıları ve müzik müfredatını yeniden düşünmek (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — 300 müzik analizi yanıtında GPT-4o-mini’nin öğretmen ortalamalarına karşı kıyaslanması (Lin, Jin ve Min 2026)
-- [[ai-vocal-pedagogy-2026]] — YZ destekli vokal öğretiminde ölçme kesinliğinin neden eğitimsel değer olmadığı (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Kör ve az gören müzisyenler için dokunsal ve kinestetik yaylı çalgı öğretiminin engelli liderli tasarımı (Shi ve ark. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Sahne ışığında LLM destekli VR öğretimi ve uzman ile acemi temsilleri arasındaki boşluk (Liang ve ark. 2026)
-
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: metinden görüntüye modelleri yorumlamaya yönelik epistemik oyunlar (Foka 2026)
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — Sanat öğrencilerinin yaratıcı failliği, güven ve uzman derecelendirmeli çıktı kalitesi
-

@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -48,7 +49,3 @@ Lärare och personal inom [[educational-development]] vid Hillsborough College, 
 ## Anteckningar och förbehåll
 
 Läsning kräver inget konto, och de Canvas-kurser och checklistor den länkar till är publika. Playlab-coacherna samt Gemini Gemarna och anteckningsböckerna är tredjepartstjänster som däremot kräver ett. Korten renderas från `apps.json`, så hela listan kräver JavaScript och reservversionen utan skript namnger åtta av de femton; kortlänken `tinyurl.com/fpdapps` och en QR-kod i sidhuvudet öppnar den på en telefon. Förrådet är MIT-licensierad programvara, medan guiderna den länkar till bär sina egna licenser, bland dem Pressbooks-boken under en icke-kommersiell Creative Commons-licens. Det finns inget publiceringsschema, så sidan ändras utan varsel.
-
-## Anslutna begrepp
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

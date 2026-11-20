@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -73,36 +75,3 @@ ai_assist:
 - **"低资源情境缺乏 AI 伦理框架，需要输入一套。"** 一个低资源情境中的在职中学 STEAM 教师**是通过专业认同、课堂现实与文化规范，而非正式原则来思考 AI 伦理的**。这种推理存在且是情境化的，一份普适的原则清单很难移植到它之上。
 - **"治理类型预测大学的 AI 整合。"** 一项对 **45 所尼日利亚大学**（联邦、州立与私立）的比较内容分析发现，AI 整合由**机构年龄与地理位置预测，而非治理类型**。公立与私立机构会分化的假定被否证了。
 - **"数字鸿沟是主要障碍。"** 一项对**三所巴勒斯坦大学 21 名视障本科生**的[[qualitative-research|质性]]案例研究发现，GenAI 同时弥合了**数字、地理与社会经济**障碍。障碍是分层的，把可及性当作唯一障碍会让其他障碍原封不动。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## 关联文章
-- [[genai-assessment-african-higher-education-review-2026]] — 生成式 AI 时代对评估的再思：非洲高等教育系统文献综述
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 尼日利亚高等教育中的机构结构、数字不平等与 AI 整合
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 面向工科教育的统一社会认知模型（孟加拉）
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED：越南备课
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct：印度知识体系数据集
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles：加纳 STEM 基准
-- [[genai-minoritized-knowledges-disability]] — 边缘化知识的边缘化
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy：面向文化相关K-12教学法的LLM
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — 通过建构主义在孟加拉高等教育中整合 GenAI（Alam 等，2026）
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] —— 一个 AI 驱动的文化敏感聊天机器人，用 NLP 与机器学习为巴基斯坦大学生的压力检测与心理健康提供支持
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — 界定萨尔瓦多 AI 辅导试点的学习宣称（Restrepo Morales 等，2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 南非 HDI 中作为数字中介的学术发展者：数字不平等 vs. 算法殖民性
-- [[ai-ethical-awareness-ghana-students-2026]] — 加纳大学生的 AI 伦理意识
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — 教育中的 AI 伦理原则：教师的情境化伦理推理
-- [[gouroubera-genai-benin-2026]] — 贝宁 633 名学生：每周使用率 92.3%，工作量是主导驱动因素，可及性已不再是约束条件（Gouroubera 等 2026）

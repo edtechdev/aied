@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -67,7 +69,6 @@ AI dalam pendidikan kedokteran dan profesi kesehatan adalah untaian yang tumbuh 
 
 - **Bentuk literatur bidang itu sendiri.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti dan Gue (2026)]] memetakan literatur AI-etis-dalam-pendidikan-kedokteran itu sendiri: 1,403 publikasi Web of Science dari 1995 hingga 2026, dapat diabaikan selama dua dekade, lalu 113 pada 2023, 256 pada 2024 dan 500 pada 2025; 39 negara melewati ambang kepengarangan, dipimpin Amerika Serikat (533 publikasi) di atas Tiongkok (189) dan Inggris (95); dan karya yang paling banyak dikutip adalah uji kemampuan — kinerja ChatGPT pada ujian lisensi kedokteran terutama — alih-alih keilmuan tata kelola. Bacaan mereka adalah bahwa bidang ini tumbuh cepat tanpa tumbuh merata, dan bahwa evaluasi empiris atas kerangka [[governance|tata kelola]] adalah pekerjaan yang tidak diberi imbalan oleh catatan sitasi. Ini peringatan yang berguna bagi siapa pun yang memperlakukan volume penelitian AI-dalam-pendidikan-kedokteran yang terbit sebagai bukti bahwa pertanyaan penggunaan amannya telah terjawab.
 
-
 Tinjauan cakupan atas 153 laporan GenAI dalam pendidikan kedokteran memetakan aplikasi — [[simulation|simulasi]] dan keterampilan klinis terbesar (47 laporan), di depan pembangkitan penilaian dan umpan balik (22) serta pembelajaran berbasis kasus dan penalaran klinis (21) — namun hanya 13 laporan yang membawa sinyal tindak lanjut atau retensi dan tidak ada hasil tingkat pasien yang ditemukan ([[genai-medical-education-transformation-review-2026|Zhao dkk. (2026)]]).
 
 - **PBL dan CBL bertenaga AI: enam uji acak, dua di antaranya CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei dkk. (2025)]] menggabungkan empat uji untuk pengetahuan (46%, 95% CI 0.18 hingga 0.73), tiga untuk kepuasan (0.7, 95% CI 0.47 hingga 0.92), dan tidak dapat menggabungkan penalaran klinis karena instrumennya berbeda. Hanya dua uji menguji pembelajaran berbasis kasus dan tinjauan itu tidak menganalisis format secara terpisah, sehingga hasilnya mendukung desain masalah berbantuan AI tanpa mengidentifikasi fitur kasus mana yang penting.
@@ -96,54 +97,3 @@ HPE adalah domain berisiko tinggi dan berbasis kompetensi di mana manfaat AI (la
 - **"Pertanyaannya adalah apa yang dapat dilakukan LLM dalam pelatihan klinis."** Tinjauan integratif kritis atas **489 studi di 47 negara** menggeser pertanyaannya **dari apa yang dapat dilakukan LLM ke** apa yang seharusnya dipercayakan kepadanya. Pertanyaan kemampuan sebagian besar sudah terjawab; pertanyaan tata kelola belum.
 - **"Pasien terstandar terlalu mahal untuk diskalakan."** Sebuah **uji acak terkontrol dengan 95 mahasiswa kedokteran yang dianalisis** menggunakan **pasien terstandar AI multi-agen** dalam pelatihan wawancara klinis. Kendala yang ditangani adalah ketersediaan aktor manusia terlatih, yang merupakan masalah kepegawaian alih-alih masalah fidelitas.
 - **"Mengadopsi kerangka kompetensi AI yang terbit menyelesaikan pertanyaan kurikulum."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang dkk. (2026)]] menyaring 1,750 rekaman menjadi 23 studi — 15 tinjauan, 4 [[qualitative-research|kualitatif]] dan 4 [[quantitative-research|kuantitatif]], di 15 negara dan 2022 hingga 2026 — dan memetakannya ke model Knowledge, Attitude and Skill. Domain aplikasi terkonsentrasi pada pendidikan kedokteran (n = 11, 47.8%), pendidikan umum (n = 9, 39.1%) dan pendidikan lain (n = 3, 13.0%), dan kerangka keperawatan bernama yang mereka bandingkan — N.U.R.S.E.S., AI-ABCs dan CARE — entah tidak memiliki jalur jelas untuk implementasi pedagogis atau mencakup keterampilan terisolasi tanpa metode penilaian. Peta 12 sub-dimensi yang mereka bangun adalah usulan yang menunggu validasi, yang menjadikannya sesuatu untuk diajarkan dengan acuan, bukan kurikulum yang sudah mapan.
-
-## Konsep terkait
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — untaian keperawatan dalam pendidikan profesi kesehatan
-- [[virtual-and-augmented-reality]] — pelatihan klinis imersif dan AR
-
-## Artikel terkait
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — PBL dan CBL bertenaga AI dalam pendidikan kedokteran dan kedokteran gigi: enam RCT, hanya dua CBL (Wei dkk. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — Patologi digital berbantuan AI meningkatkan kinerja diagnostik dan mempersempit kesenjangan kinerja terkait pengalaman pada residen patologi yang membaca biopsi prostat
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Kurikulum AI kesehatan mengajarkan etika (80.6%) tetapi jarang provenans data (22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Evaluasi Multi-Penilai Terstratifikasi atas Pasien Terstandar Virtual Berbasis LLM dengan Platform Pembangkitan Data yang Diterapkan
-- [[genai-medical-education-transformation-review-2026]] — Tinjauan cakupan atas 153 laporan GenAI pendidikan kedokteran: simulasi memimpin, daya tahan dan hasil pasien tidak terukur
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multi-Agen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Evaluasi rubrik 8 dimensi atas agen pengajar AI dalam pendidikan kedokteran
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, celah struktural pendidikan keperawatan, dan rekonstitusi identitas profesional (Sun dkk. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Kerangka SCAN: memikirkan ulang distribusi tugas AI dalam pelatihan kedokteran (Tsim dkk. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Mengoperasionalkan pembelajaran pengalaman, tersituasi, dan kognisi terdistribusi dengan AI dalam pendidikan profesi kesehatan
-- [[residencyrl-clinical-rl-training-2026]] — Pelatihan berbasis pembelajaran penguatan untuk keterampilan klinis dalam residensi
-- [[medgame-llm-medical-education-gamification]] — Pembelajaran berbasis LLM yang digamifikasi untuk pendidikan kedokteran
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Simulasi AI agentik untuk pelatihan brakiterapi
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Mentransformasi pendidikan keperawatan dengan AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulasi berbasis AI dalam keperawatan: tinjauan sistematis metode campuran
-- [[wang-safety-gap-productive-struggle-2026]] — Celah Keselamatan: Memulihkan Pergulatan Produktif
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: instruksi radiografi gigi dengan manusia dalam lingkar (Dong dkk. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Tinjauan sistematis GenAI dalam pendidikan kesehatan berbasis skenario (Neto dkk. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Pelatihan komunikasi klinis berbasis AI yang dapat diskalakan dan penilaian otomatis
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Peta bibliometrik etika AI dalam pendidikan kedokteran: keluaran naik dari 113 (2023) ke 500 (2025), 39 negara, dan sitasi memberi imbalan pada uji kemampuan alih-alih tata kelola (Sriram dkk. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Pengulangan tidak menghasilkan nilai yang sama
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Tinjauan cakupan yang memetakan kerangka kompetensi AI pendidikan ke peta KAS 12 bagian
-- [[agency-gap-ai-writing]] — Agen penulisan AI reaktif versus proaktif dalam pelatihan profesi kesehatan: celah agensi
-- [[federated-learning-at-risk-student-prediction-2026]] — Prediksi berisiko terfederasi lintas program HPE: biaya privasi yang dapat diabaikan, dan mengapa ambang yang diimpor salah sasaran
-- [[rony-nursing-educators-ai-tpack-2025]] — Pendidik keperawatan di Bangladesh tentang kesiapan AI, hambatan, dan tata kelola data, dibaca melalui TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Hambatan mengintegrasikan AI ke kurikulum residensi: wawancara kualitatif dengan dua belas pemimpin dokter
-- [[alshahrani-health-sciences-ai-use-2026]] — Menjembatani teknologi dan pedagogi: analisis lintas bagian atas penggunaan AI, efek akademik yang dilaporkan sendiri, dan kekhawatiran etis di antara mahasiswa dari beragam kurikulum ilmu kesehatan

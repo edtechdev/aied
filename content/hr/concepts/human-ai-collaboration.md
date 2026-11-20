@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -102,71 +104,3 @@ Suradnja čovjeka i umjetne inteligencije povezuje se s [[human-in-the-loop-ai|�
 - **„Suradnja znači da umjetna inteligencija obavi dio posla.“** **Učenik zadržava odlučujuću ulogu**, i to se prenosi na pisanje: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash i Connell Pensky (2025.)]] pokazuju da to vrijedi kada je raspored tako osmišljen. Podjela rada nije suradnja ako čovjek ne zadrži prosudbu.
 - **„U obrnutom rasporedu umjetna inteligencija objašnjava.“** **Studenti koji su poučavali umjetnu inteligenciju objašnjavali su bolje** — definiranje obrnute učionice na **M = 4,18 prema 3,29**, nastavne aktivnosti na **M = 4,91 prema 3,06, oba p < 0,001**. Učenje je pripalo onome koji objašnjava.
 - **„Doprinosi ljudi i umjetne inteligencije su zamjene.“** Dvije studije iz 2026. mapiraju **komplementarne polovice** razredne suradnje, što dizajnerski problem uokviruje kao raspodjelu, a ne zamjenu.
-
-## Povezani koncepti
-
-- [[pedagogical-partnerships]] — Pedagoška partnerstva
-- [[community-of-inquiry]] — Zajednica istraživanja (prisutnosti kao sociotehnička postignuća čovjeka i GenAI-a)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Kemijsko obrazovanje i UI: laboratoriji, formativna procjena, ograničenja LLM-a, filozofija eksperimentiranja
-- [[biology-education]] — Biološko obrazovanje i UI: laboratorijski asistenti za poučavanje, pismenost o umjetnoj inteligenciji u biologiji, kritičko mišljenje, specijalizirani alati
-- [[human-in-the-loop-ai]] — nadzor
-- [[agentic-ai]] — autonomija
-- [[productive-failure]]
-
-## Povezani članci
-
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tri uloge agenata u narativnoj znanstvenoj igri i kriterij vrednovanja koji svaka od njih traži (Humburg i sur. 2025.)
-- [[bjet-many-hands-make-light-work-2026]] — Rad u parovima sa sustavom s više GenAI agenata pobijedio je na dizajnerskom projektu, dok je svijest o kritičkom mišljenju porasla samo onima koji su radili sami (Chu i sur. 2026.)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Rasprava s više agenata uz zadržan preferirani odgovor smanjila je prepuštanje netočnim UI savjetima, ali ne korektivno
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: kompetencija suradnje kao dinamička konfiguracija domenske, UI i metakognitivne kompetencije, uz emergentnu učeničku djelotvornost (Dang i sur. 2026.)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Srednjoškolski nastavnici osmišljavaju razredne chatbote kao ograničene stručnjake pod ljudskim nadzorom
-- [[ai-integration-instructional-design-collaboratory-2026]] — Dvanaest provedbi kolegija u obrazovanju nastavnika tretira integraciju umjetne inteligencije kao problem dizajna poučavanja
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: prvi RCT o prenošenju stručnosti s umjetne inteligencije na nove tutore
-- [[think-first-chatgpt-later-2026]] — Prvo razmisli, ChatGPT kasnije: neovisna ljudska kreativnost
-- [[principal-trait-analysis-human-ai-skills-2026]] — „Osobine“ suradnje čovjeka i umjetne inteligencije izvedene iz podataka
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Obrasci interakcije nastavnika i umjetne inteligencije u osmišljavanju lekcija kroz iskustvo i UI umješnost (Choi i sur. 2026.)
-- [[tang-chatbots-learning-design-2026]] — Dizajneri ugrađeni chatbot rabe za provjere usklađenosti ishoda i pedagogije, a ne za generiranje sadržaja
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Od zamjene do postupne potpore: prekidanje samopojačavajućeg ciklusa štete
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generativna umjetna inteligencija kao posrednički agent
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella pregled konverzacijskih UI agenata u obrazovanju
-- [[ai-overreliance-complex-adaptive-system-2026]] — Pretjerano oslanjanje na umjetnu inteligenciju modelirano kao složeni adaptivni sustav
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — UI suputnik s prilagodljivom ulogom za razgovor o knjizi u osnovnoj školi; afektivni plafon agenata s fiksnom ulogom (Liao 2026.)
-- [[wang-teacher-ai-co-design-review-2026]] — Sudizajn zadataka učenja između nastavnika i umjetne inteligencije: trendovi i perspektive (Wang i sur. 2026.)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u UI dizajniranim diferenciranim grupnim aktivnostima (Talebzadeh 2026.)
-- [[xu-genai-collaborative-space-2026]] — GenAI kao agent i suradnički prostor u dinamici male skupine (Xu i sur. 2026.)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Vrednovanje višeagentskog LLM sustava usmjerenog na potporu u obuci kliničkog intervjua
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti za etičku obuku: potpora grupnom etičkom obrazovanju igranjem uloga i raspravom radi etičke refleksije i istraživanja
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automatizacija, pojačavanje i suradnja kao kontinuum dodjele zadataka
-- [[bounded-reliance-ai-writing-feedback-2026]] — Ograničeno oslanjanje: perspektiva vjerodostojnosti izvora na angažman studenata engleskog kao stranog jezika s UI povratnim informacijama o pisanju
-- [[human-ai-collaboration-academic-writing-2026]] — Strukturirani tijek pisanja na engleskom u pet dijelova; rutine provjere i odgovorne upotrebe pokretale su dobitke u pisanju u paru i digitalnom kritičkom mišljenju
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Preokretanje uloga: studenti poučavaju GAI učenika početnika i nadmašuju vršnjake koji pitaju GAI nastavnika
-- [[iqbal-human-genai-support-essay-revision-2026]] — Vrsta podrške oblikovala je strategije revizije i rezultate, ali nijedna strategija nije predviđala dobitak; dobitci od GenAI-a mogu biti specifični za zadatak
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Ljudski i UI moderatori rasprave ocijenjeni su jednako; korisnost i zadovoljstvo različito pokreću ponovnu upotrebu
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Studija lekcije gradi kapacitet edukatora nastavnika za osmišljavanje dijaloškog UI angažmana; inženjering upita kao pedagoško mišljenje
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Pet vrsta isprepletenosti studenta i GenAI-a i zašto one koje raspodjeljuju autorstvo ostaju marginalne (Sun, Dohn i Rehm 2026.)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Suprotni putovi suradnje nastavnika i umjetne inteligencije do radnog angažmana kroz psihološku dostupnost i otuđenje od rada, ograničeni digitalnom kompetencijom
-- [[wang-agentic-translation-education-2026]] — Dizajnerski protokol koji obrazovanje prevoditelja preusmjerava na orkestraciju umjetne inteligencije, stratešku prosudbu i kompetencije kritičkog vrednovanja (još bez empirijskih podataka)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Afektivno upozorenje je znak koji nastavnik tumači, a ne uputa koju treba poslušati
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Deficit legitimacije autorstva u sustvaranju čovjeka i umjetne inteligencije

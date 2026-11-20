@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -40,9 +41,3 @@ Responsables de políticas y equipos de compras que eligen modelos para sistemas
 ## Notas y advertencias
 
 Una clasificación mide modelos en las tareas propias del conjunto de referencia: una puntuación alta de pedagogía es evidencia sobre esos ítems, no sobre un aula. La columna de precio combina los precios de tokens de entrada y de salida en una proporción de 3:1, lo que es una decisión de modelización y no lo que costará ningún despliegue concreto. La cobertura de lenguas y de modelos alojados localmente cambia a medida que aparecen modelos nuevos, y las puntuaciones bajas de los modelos pequeños reflejan en parte el formato de la tarea tanto como la capacidad. El encuadre de Fab AI trata explícitamente de países de renta baja y media, por lo que el conjunto de ítems del conjunto de referencia refleja ese contexto y no debe leerse como una clasificación educativa general. Compruebe las fechas de publicación: varias entradas son anteriores a la generación actual de modelos.
-
-## Conceptos conectados
-
-- [[benchmark]] — la clase más amplia de instrumentos a la que pertenece
-- [[digital-divide]] — la restricción que las columnas de precio y de pesos abiertos existen para hacer visible
-- [[equity-in-ai-education]] — la cuestión de política que informa la clasificación

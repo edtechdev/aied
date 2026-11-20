@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -89,35 +91,3 @@ ADHD 대학생을 위한 AI에 관한 연구 28편에 대한 [[deep-adhd-ai-cogn
 - **"신경다양성 연구는 [[ai-education|AIED]]의 변두리다."** 이 분야는 [[generative-ai|생성형 AI]]를 중심으로 **재편되었습니다. 40개 연구 가운데 15개**가 그것이며, 몰입형 형식이 11개로 두 번째입니다. 문헌은 안정된 질문을 중심으로 축적되기보다 기술을 따라 움직였습니다.
 - **"난독증을 위한 AI가 많을수록 더 나은 지원이다."** [[dabaghi-ai-dyslexia-education-review-2026|난독증을 위한 AI에 관한 학제 간 검토(Dabaghi, D'Urso and Sciarrone, 2026)]]는 **2018년부터 2024년까지 72개 연구**를 다루며 AI가 매우 넓은 목적 범위에서 사용됨을 발견합니다. 적용의 폭은 그 가운데 어느 하나에 대한 효과의 증거가 아닙니다.
 - **"수용 조치는 신경다양성 학습자에게 맞는 틀이다."** [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생 24명과 신경전형 또래 20명을 대상으로 한 설문]]과 네 건의 심층 인터뷰는, 필요가 진단 이후 부여되는 개별 조정이 아니라 **일반적 설계 요구사항**(구조화된 과제, 작고 일관된 팀, 명시적 역할)임을 발견했습니다.
-
-## 연결된 개념
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[executive-function]]
-
-## 연결된 문서
-
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 탐지기 기반 절차는 정당한 수용 조치 사용을 억제할 수 있다
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: 고등교육의 신경다양 학생들을 위한 디지털 보조 기술에 관한 범위 고찰
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 장애를 지닌 학생들을 위한 AI에 관한 연구 29편, 그리고 범주에 따라 달라지는 효과
-- [[adhd-video-segmentation-computing-education]] — ADHD 참여를 동등한 수준으로 끌어올린 시간적 영상 구간화
-- [[neurodivergent-computing-students]] — 구조, 모호함, 협력에 대한 신경다양 컴퓨팅 학생 24명의 증언
-- [[genai-reliance-executive-functioning-2026]] — 실행기능의 어려움, 지각된 유용성, AI 의존으로 가는 길
-- [[seung-basham-cognitive-offloading-swld-2026]] — 학습장애를 지닌 학생들을 위한 생성형 AI의 인지적 오프로딩
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 교육에서 난독증이 있는 사람을 돕는 AI
-- [[genai-minoritized-knowledges-disability]] — 생성형 AI와 소수화된 지식의 소외
-- [[tactile-statistical-graphs-accessibility]] — 접근성을 위한 촉각 통계 그래프
-- [[ai-learning-tools-engineering-education-needs]] — 욕구 및 주의 인식 AI 학습 도구의 설계
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — 신경포용적 초등 교실을 위한 에듀테크의 교육적 가치 재구성: 범위 검토
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — ADHD 학생을 위한 AI에 관한 연구 28편, 윤리를 명시하다

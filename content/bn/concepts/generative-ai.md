@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -94,48 +96,3 @@ ai_assist:
 - একত্রিত প্রভাব-আকারের বিরুদ্ধে রোডম্যাপ করবেন না। 14টি মেটা-বিশ্লেষণের নিরীক্ষায় কোনোটিই তার দাবি সমর্থন করেনি, তাই শিরোনাম *g*-এর উপর দাঁড়ানো পণ্য-দাবি এমন পদ্ধতির উপর দাঁড়ায় যা পরীক্ষায় টেকে না।
 - ভিত্তি-হার অপ্টিমাইজ করার আগে তা যন্ত্রভুক্ত করুন। 0.68% ঘটনার হার মানে গুণমানের বেশিরভাগ কাজ লেজে ঘটে, এবং লেজ-কর্মক্ষমতাই ঠিক করে একটি স্থাপনা গ্রহণযোগ্য কি না।
 - প্রতিটি প্রকাশিত বেঞ্চমার্ক-সংখ্যার সঙ্গে সংস্করণ, তারিখ ও কাজের ধরন প্রতিবেদন করুন, কারণ সেগুলো বাদ দেওয়া সক্ষমতা-দাবি পুনরুৎপাদনযোগ্য নয়।
-
-## সংযুক্ত ধারণা
-
-- [[llm]] — উৎপাদক এআই-এর ভিত্তি মডেল-শ্রেণি
-- [[prompt-engineering]] — ফলাফল কীভাবে গড়া হয়
-- [[rag]] — পুনরুদ্ধার-বর্ধিত ভিত্তিকরণ
-- [[ai-literacy]] — কার্যকরভাবে ব্যবহারের প্রয়োজনীয় যোগ্যতা
-- [[ai-education]] — বৃহত্তর ক্ষেত্র
-- [[intelligent-tutoring]] — কথোপকথনমূলক ও উৎপাদক টিউটরিং ব্যবস্থা
-- [[cognitive-offloading]] — উৎপাদক এআই যে অতিনির্ভরতার ঝুঁকি বাড়ায়
-- [[hallucination-risk]] — উৎপন্ন বিষয়বস্তুর একটি মূল নির্ভরযোগ্যতা-ঝুঁকি
-- [[academic-integrity]] — সাবলীল উৎপাদন থেকে সততা-উদ্বেগ
-- [[automated-assessment]] — গ্রেডিং ও ফিডব্যাকে উৎপাদক মডেল
-- [[ai-technologies]] — এআই কৌশল ও মডেলের ছাতা
-- [[higher-ed]] — একটি প্রধান স্থাপনা-প্রসঙ্গ
-- [[k-12]] — একটি প্রধান স্থাপনা-প্রসঙ্গ
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-learning-motivation-meta-analysis-2026]] — শেখার প্রেরণায় GenAI-এর প্রভাবের মেটা-বিশ্লেষণ, ক্ষতি থেকে সুবিধা জুড়ে পূর্বাভাস-ব্যবধানসহ
-
-- [[typology-generative-ai-tools-education-2026]] — শিক্ষার জন্য উৎপাদক এআই উপকরণের শ্রেণিবিন্যাস
-- [[generative-ui-education-learning-interactives-2026]] — শিক্ষার জন্য উৎপাদক UI কাজে লাগানো: উপযোগী শেখার ইন্টারঅ্যাকটিভ
-- [[ai-standardized-patient-scaffolding-medical-2026]] — ক্লিনিক্যাল সাক্ষাৎ-প্রশিক্ষণের জন্য স্ক্যাফোল্ডিং-কেন্দ্রিক বহু-এজেন্ট বৃহৎ ভাষা মডেল ব্যবস্থার মূল্যায়ন
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: শেখার জন্য নিরাপদ ও সুদৃঢ় এআই-এর নকশা-কাঠামো
-- [[genai-educational-outcomes-meta-analysis]] — GenAI শেখার ফলাফলের মেটা-বিশ্লেষণ
-- [[genai-meta-analysis-programming-learning]] — প্রোগ্রামিং শেখায় GenAI-এর মেটা-বিশ্লেষণ
-- [[genai-performance-vs-learning]] — GenAI-সহ কর্মক্ষমতা বনাম শেখা
-- [[hazra-safetutors-pedagogical-safety-2026]] — এআই টিউটরিং এজেন্টের ক্ষতি
-- [[eduguard-safe-rag-llm-tutor]] — একটি নিরাপদ RAG LLM টিউটরের গার্ডরেলিং
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: শেখার পরিবেশ উৎপাদন
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[li-language-educators-genai-review-2026]] — ভাষা শিক্ষকদের GenAI-সহ অনুশীলন ও বিকাশ
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — অভিনব এআই-সহায়িত শিক্ষাগত প্রশ্নের শিক্ষাগত মূল্যায়নে পূর্ব-প্রশিক্ষিত মডেলের মূল্যায়ন
-- [[bicer-genai-pd-math-creativity-2026]] — আটজন গ্রামীণ কর্মরত শিক্ষকের সঙ্গে GenAI-নির্দেশিত গণিত পেশাগত-বিকাশ কেস-স্টাডি
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — একত্রিত g = 0.819 যা PET-PEESE-এ 0.378-এ নামে; কাস্টম উপকরণ (0.455) চ্যাটবট (0.970)-এর চেয়ে পিছিয়ে

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -97,31 +99,3 @@ Un estudio de caso a nivel de facultad aporta la capa organizativa. [[zimmer-ai-
 **«El vibe coding "puro" es lo que significa el término, así que la distinción da igual.»** Importa para la evaluación y para la seguridad. En el vibe coding puro, la persona deliberadamente no inspecciona ni edita el código generado y se apoya por completo en el prompting iterativo y la evaluación conductual; el trabajo con código visible es aquel en el que la persona lee lo que se produjo. Son actividades distintas con perfiles de error distintos, y un estudio de una no autoriza afirmaciones sobre la otra.
 
 **«Si la aplicación funciona, el código generado está bien.»** Que funcione es una prueba débil. El análisis de Veracode de 2025 encontró que solo el 55% del código generado por IA era seguro, así que las herramientas de aula hechas con vibe coding siguen necesitando una pasada de revisión antes de manejar datos del estudiantado o de conectarse a cualquier sistema que merezca protección. La evaluación conductual confirma los caminos que la persona ejercita por casualidad y no dice nada de los que no ejercita.
-
-## Conceptos conectados
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Artículos conectados
-
-- [[vibe-coding-writing-cs-achievement-2026]] — El rendimiento en informática y las habilidades de escritura predicen la competencia en vibe coding (estudio empírico de CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Un marco orientativo para docentes de K-12 en la creación de tecnologías de aprendizaje impulsadas por IA mediante vibe coding
-- [[vibe-coding-programming-process-visualizer]] — De la idea al aula en días: usar el «vibe coding» para crear un visualizador del proceso de programación a partir de registros de actividad del IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — El vibe coding construyó dos simulaciones de ingeniería en horas; diagnosticar un error de protocolo seguía necesitando al docente
-- [[prompt-problems-nl-programming-mistakes]] — Entender las percepciones, los errores y los enfoques de depuración del estudiantado al resolver tareas de programación en lenguaje natural
-- [[code-to-learn-genai-artifact-construction-2026]] — Aprender programando con IA generativa: un marco teóricamente fundamentado para la construcción de artefactos en la educación secundaria superior
-- [[reshaping-cs-education-genai]] — Reconfigurar la enseñanza de grado en informática para la IA generativa
-- [[flowcode-ai-creative-coding]] — Flowcode: un entorno de programación impulsado por IA para andamiar la iteración en la educación en computación creativa
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intraemprendimiento con IA: el profesorado que construye sus propias herramientas, y los facilitadores organizativos que deciden si el impulso sobrevive (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Una herramienta, un gusto? Cómo el vibe coding cambia diversidad colectiva por creatividad individual
-- [[ho-invariant-core-faculty-development-2027]] — Herramientas construidas por el profesorado como estrategia de evaluación: evidencia de proceso que la dotación de personal no puede aportar (Ho 2026)

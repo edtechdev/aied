@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,11 +48,3 @@ Küçük bir araç oluşturmak için [[generative-ai|üretici YZ]] kullanmış v
 Üye ve Builder ücretsizdir (Builder: 50 uygulama, 50 MB); Pro, 500 uygulama için ayda \$10 ya da yılda \$60'tır. Erişim freemiumdur.
 
 Gizlilik daha güçlü iddiadır, ama sorumluluğu öğretmenlere kaydırır. Teacher Hive öğrenci hesabı oluşturmaz, öğrencilerden kişisel bilgi istemez ve yayımlanmış uygulamaların içinde analitik ya da reklam betiği çalıştırmaz. Uygulamalar bağlantıyla genel olduğu için koşullar, uygulamalarının ad, e-posta, öğrenci numarası ya da konum toplamamasını sağlamaktan öğretmenleri sorumlu tutar. Erişilebilirlik kapsamı (WCAG 2.2 AA) öğretmen yapımı uygulamalar için değil Teacher Hive'ın kendi sayfaları için geçerlidir; bunlar sınanmamıştır. Açık kaynak lisansı belirtilmemiştir ve çalışma süresi ile veri saklama garanti edilmez.
-
-## Bağlı kavramlar
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

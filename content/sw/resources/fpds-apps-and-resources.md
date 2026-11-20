@@ -40,6 +40,7 @@ translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 updated: "2026-11-16T19:27:35-05:00"
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -57,7 +58,3 @@ Waelimishaji na wafanyakazi wa [[educational-development]] katika Chuo cha Hills
 ## Vidokezo na tahadhari
 
 Kusoma hakuhitaji akaunti, na kozi za Canvas na orodha ni za umma. Wasahauri wa Playlab, Gemu za Gemini na daftari ni huduma za watu wengine zinazohitaji akaunti. Kadi zinatengenezwa kutoka `apps.json`, hivyo orodha kamili inahitaji JavaScript na njia mbadala inataja nane kati ya kumi na tano; kiungo kifupi `tinyurl.com/fpdapps` na msimbo wa QR wa kichwa vinaifungua kwenye simu. Hifadhi ni programu ya leseni ya MIT, wakati miongozo inayounganisha ina leseni zake, kitabu cha Pressbooks kikiwa chini ya leseni ya Creative Commons isiyo ya kibiashara. Hakuna ratiba ya kuchapisha, hivyo ukurasa hubadilika bila taarifa.
-
-## Dhana Zilizounganishwa
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

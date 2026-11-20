@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -75,23 +77,3 @@ foundations: [misconceptions]
 **"درست تصور کے بارے میں زیادہ معلومات مزاحمت ختم کر دیتی ہیں۔"** درست معلومات کی مقدار وہی مداخلت ہے جو پہلے ہی ناکام ہو چکی ہے۔ تصوراتی تبدیلی کے لیے ضروری ہے کہ طالب علم کا موجودہ ماڈل واضح کیا جائے اور ناکافی ثابت کیا جائے، جو شواہد بڑھانے سے مختلف تدریسی اقدام ہے۔
 
 **"غلط فہمیوں اور عام لاعلمی کا علاج ایک ہی ہے۔"** اِن کے علاج مختلف ہیں: لاعلمی کا ازالہ علم فراہم کر کے ہوتا ہے، اور غلط فہمی کو پہلے اُکھاڑنا پڑتا ہے۔ دوسرے کو پہلا سمجھنا ہی وجہ ہے کہ اچھی طرح سمجھایا گیا سبق بھی طالب علم کا اصل ماڈل برقرار چھوڑ سکتا ہے۔
-
-## منسلک تصورات
-- [[pedagogical-patterns]] — تردید کے سلسلے، بشمول دو براہِ راست متضاد نتائج
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## منسلک مضامین
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — عقیدہ اصلاح کے لیے ذاتی نوعیت کا AI مکالمہ بمقابلہ نصابی کتابی تردید
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — ماہر یا AI کا تصوراتی تبدیلی متن بمقابلہ تعاملی AI مکالمہ
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — باہمی سیکھائی کے لیے LLM سے تیار کردہ غلط فہمیاں
-- [[chatgpt-inoculation-training-verification-2026]] — حفاظتی تربیت بطور قریبی تردید-طرز مداخلت
-- [[critical-genai-use-predictors]] — تصوراتی غلط فہمیوں کو نشانہ بنانے کے لیے تردید متون تجویز کرتا ہے
-- [[ai-learning-companions-framework]] — AI ساتھی اور غلط فہمی کی اصلاح

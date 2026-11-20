@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -85,51 +87,3 @@ ai_assist:
 - **«Поддержанное ИИ исследование автоматически является деятельностью высшего порядка.»** Квазиэксперимент со **120 учениками 8 класса** обнаружил, что поддержанное ИИ [[inquiry-based-learning|обучение через исследование]] повысило творческую математическую результативность **и** более узкую меру — вмешательство сдвинуло одни результаты и не сдвинуло другие. Корреляция с ярлыком «высшего порядка» — не то же, что задача высшего порядка.
 - **«Проектирование преподавания студентами — техническое упражнение.»** В исследовании с инверсией **345 студентов** в курсе на 700 студентов каждый спроектировал разговорного агента, обучающего трём паттернам проектирования сверстника. Активное обучение шло от проектной работы, которая есть [[pedagogy|педагогическое]] рассуждение, а не инжиниринг промптов.
 - **«Находки о вовлечённости — это находки об обучении.»** Та же доказательная база предупреждает, что дизайн **без контрольной группы и с выборкой волонтёров** поддерживает только утверждения о вовлечённости. Студенты ценили свободу открытого проектирования (**22,3%** топовая позитивная тема) и больше всего жаловались на неясные инструкции (**23,7%**) — и то и другое об опыте.
-
-## Связанные концепции
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Зонтик: педагогики и стратегии преподавания в ИИ-образовании
-
-## Связанные статьи
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — ИИ-тьюторинг превосходит активное обучение в классе: РКИ, вводящий новое научно-обоснованное проектирование в аутентичную образовательную среду (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Рамка активного обучения GenAI для экономики (Beck и Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — Исследование с ЭЭГ режимов взаимодействия с ИИ (интерактивный > автоматический)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: визуальное исследовательское обучение через мультиагентную симуляцию
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: поэтапное разговорное повторение после лекции
-- [[academic-league-of-ai-2026]] — Академическая лига ИИ: проектное активное обучение
-- [[mujib-ai-ibl-creative-math-2026]] — Поддержанное ИИ исследовательское обучение и творческая математическая результативность
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Характеристики учащегося × взаимодействия в формате диалога с TTS
-- [[instructional-guidance-genai-learning]] — Обзор с ИИ с промптингом и без него: результаты по открытым вопросам изменила структура, а не доступ к модели
-- [[assigned-ai-preclass-student-engagement-2026]] — Предзанятийная репетиция с ИИ повысила участие на занятии на 31% после второго использования, а не первого

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -117,24 +119,3 @@ A tutoria afetiva se cruza com [[hazra-safetutors-pedagogical-safety-2026|SafeTu
 **"Um tutor que detecta emoção a partir de um rosto conhece o estado do estudante."** O afeto é inferido, não observado, e a inferência é mais fraca exatamente onde as apostas são mais altas. [[ecnuclaw-k12-personalized-companion|Zhou, Li e Zhang (2026)]] mantêm uma dimensão emocional em um perfil de estudante de cinco dimensões, mas a preenchem com dicionários de palavras-chave, de modo que um estudante que expressa frustração em palavras que o dicionário não contém simplesmente não é perfilado, e o perfil não foi validado contra o julgamento de especialistas. A captura facial acrescenta um fluxo de vídeo contínuo e uma exposição de privacidade que a inferência por texto não tem.
 
 **"Medições de emoção tomadas em momentos diferentes são intercambiáveis."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] constatam que o afeto ordenado mostra persistência de curto alcance e transições direcionais, e que os relatos capturados por sondagem, os auto-laços em torno de curiosidade e confusão, são uma mensuração diferente dos capturados espontaneamente, como frustração e surpresa. Mediar as duas em uma frequência resumida descarta a sequência que carrega o sinal.
-
-## Conceitos conectados
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Artigos conectados
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — As pessoas deslocam a empatia quando acham que a IA pode oferecê-la (Shastry & Gray 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -34,7 +36,6 @@ ai_assist:
 
 Etik, eğitimde YZ’nin normatif omurgasıdır: her YZ aracı, politikası ve [[pedagogy|pedagojik]] karar, neyin adil, şeffaf, hesap verebilir ve güvenli olduğuna ilişkin varsayımları kodlar. Bilgi tabanı etiği hem bir ilke kümesi (adalet, gizlilik, şeffaflık, özerklik, hesap verebilirlik) hem de bir *uygulama* kümesi olarak ele alır — paydaşların YZ hakkında fiilen nasıl akıl yürüttüğü, kurumların onu nasıl yönettiği ve öğrenenlerin onu sorumlu biçimde kullanmaya nasıl hazırlandığı. Yakın dönem [[research-methods-aied|araştırmaları]], çift bir hareketi belgelemektedir: bir yanda, ilke temelli “kontrol listesi” etiğinin yetersiz olduğuna ilişkin derinleşen bir kaygı; diğer yanda, etik yargının [[situated-learning|yerleşik]] ve ekolojik hesaplarına ve sorumlu kullanımı mümkün kılan yapısal ve kurumsal koşullara artan bir vurgu.
 
-
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], İsveç anket ve odak grubu verilerinden hareketle kurumların üretken YZ sorularına kopya çekme çerçevesi yerine bir ortaklık etiği üzerinden karar vermesi gerektiğini savunmakta ve Carolyn Merchant'ın karşılıklı bağımlılık, çeşitliliğe saygı, kapsayıcılık, hesap verebilirlik ve uzun vadeli [[sustainability|sürdürülebilirlik]] taahhüdüne dayanmaktadır: katılımcıların %31'i etiği kendiliğinden gündeme getirmiş ve çoğu sahip olduğundan daha açık kurumsal yönerge istemiştir.
 
 ## Temel etik boyutlar
@@ -51,7 +52,6 @@ Etik, eğitimde YZ’nin normatif omurgasıdır: her YZ aracı, politikası ve [
 ## Paydaşlar YZ etiği hakkında fiilen nasıl akıl yürütür
 
 Etik YZ kullanımı yalnızca ilkelerin değil, ilgililerin onları nasıl yorumlayıp uyguladığının da meselesidir — ve araştırmalar gruplar arasında sistematik farklılıklar ortaya koymaktadır.
-
 
 **Etik alanın merkezindedir ancak nadiren bir çıktıdır.** 394 GenAI yükseköğretim çalışması boyunca etik ve akademik dürüstlük en az hedeflenen sonuçlar arasında yer almış ve yönetişim uygulamaları yeterince bildirilmemiştir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 
@@ -98,7 +98,6 @@ Bu pratik sav, etiğin YZ okuryazarlığının kendisi içinde nasıl işlediği
 
 **Bu mekanizmanın işareti, ardından gelen şeye bağlıdır.** YZ yetkinliğini kendi kendine çalışmadan edinen 584 üniversite öğrencisi arasında yetkinlik YZ etik farkındalığını yükseltmiştir (β = 0,644, p < ,001). Etik farkındalık ise bunu düşürmek yerine [[anxiety-and-stress|YZ kaygısını]] yükseltmiştir (β = 0,439, p < ,001) — yalnızca dolaylı aracılık; yazarlar bunu baş etme çerçevesi öğretilmeden uyanan bir farkındalık olarak okumaktadır ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu ve ark. (2026)]]). Etik öğretimi için çıkardıkları sonuç, bunun bilişsel düzeyde durmaması gerektiğidir. Bir şeffaflık veya gizlilik kaygısı, ona yanıt veren yönetişim yoluyla birlikte gelmelidir; bu nedenle önerdikleri modül [[legal-education|hukuk eğitimi]] içinde yer almaktadır.
 
-
 Etik farkındalık, yansıtıcı akıl yürütme ve [[self-report-measures|öz bildirime dayalı]] sorumlu uygulama büyük ölçüde bağımsız gelişmektedir. 350 Nijeryalı bilişim [[higher-ed|lisans öğrencisinin]] üç yıllık dalgası boyunca [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale ve ark. (2026)]], üçünün de önemli ölçüde yükseldiğini, ancak büyüme faktörlerinin neredeyse ilişkisiz olduğunu ve başlangıçtaki farkındalığın sonraki büyümeyi yordamadığını bulmuştur.
 
 ## Bağlantılar
@@ -110,55 +109,3 @@ Etik [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]
 - **“Kopya çekme çerçevesi, GenAI etiğini düşünmek için yeterli bir yoldur.”** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark., 2026]] kurumların üretken YZ sorularına **kopya çekme çerçevesi yerine bir ortaklık etiği** üzerinden karar vermesi gerektiğini savunmaktadır. Çerçeve, hangi soruların sorulacağını belirler ve bir suistimal çerçevesi eğitim amacını soramaz.
 - **“Akademisyenler ve öğrenciler neyin etik olduğu konusunda hemfikirdir.”** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç ve Sever (2026)]], **971 öğrenci ve 135 akademisyen** üzerinde yürütülen [[mixed-methods-research|karma yöntemli]] bir çalışmada etik boyutların gruplar arasında farklılaştığını bulmaktadır. Tek bir bakış açısından yazılan bir politika, diğerini yanlış betimleyecektir.
 - **“Etik uzlaşma kullanımdan önce gelir.”** **Benimseme, etik uzlaşmayı geride bırakır**: bir ABD öğretmen yetiştirme programında dört dönem boyunca öğrencilerin GenAI kullanımı **değerlendirmeye hazırlık için %57'den %83'e yükselmiştir**. Normlar, tersi değil, pratik tarafından oluşturulmaktadır.
-
-## Bağlı Kavramlar
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — YZ kullanımı ve açıklama ifadeleri
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deneyleme felsefesi
-- [[biology-education]] — Biyoloji eğitimi ve YZ: laboratuvar öğretim asistanları, biyolojide YZ okuryazarlığı, eleştirel düşünme, özel araçlar
-- [[civic-and-political-education]]
-
-## Bağlı Makaleler
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Kurumsal genAI kararlarına kopya çekme çerçevesi yerine ortaklık etiğinin yön vermesi gerektiğini savunan İsveç anket ve odak grubu çalışması
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Etik farkındalığın, baş etme çerçevesi öğretilmediği yerde YZ kaygısını yükseltmesi: 584 öğrenci arasında yalnızca dolaylı aracılık
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Etik farkındalık, yansıtma ve bildirilen sorumlu uygulama üç yıllık dalgada büyük ölçüde bağımsız gelişti (Ayanwale ve ark.)
-- [[learning-analytics-to-educational-interventions-2026]] — Öğrenme analitiğinden eğitim müdahalelerine: güvenilir LA temelli müdahalelerin etkinleştiricileri (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Öğrenciler çevrim içi değerlendirmelerde YZ’yi nasıl kullanır ve gizler
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Öğrenci YZ açıklaması, damgalanma ve öz-düzenlemeli öğrenme
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Açıklamanın gizli maliyeti
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Öğrencilerin YZ kullanım beyanlarına uymaması
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — YZ’nin etik boyutlarına ilişkin akademisyen ve öğrenci görüşleri
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[ai-ethics-education-public-discourse]] — Eğitimde YZ etiği üzerine kamu söyleminin uzunlamasına analizi
-- [[ethical-ai-higher-ed-game-theory]] — Yükseköğretimde etik YZ kullanımı için oyun kuramı çerçevesi
-- [[cost-of-ethics-crisis-cs-ethics-education]] — BS öğrencilerinin iş arayışlarında etiğin maliyeti krizi
-- [[xai-education-framework]] — Eğitimde açıklanabilir YZ (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — YZ özel ders güvenliği ve pedagojik zararlar
-- [[raffaghelli-situated-ai-ethics-2026]] — Yerleşik YZ etiği: eğitim için kültürel-tarihsel bir çerçeve
-- [[ethically-mediated-ai-tpack-china-2026]] — Üniversite öğretmenlerinin AI-TPACK’inde bütünleştirici bir aracı olarak YZ-etik bilgi (Chen ve ark. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan ve ark. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO üretici YZ politika çerçevesi analizi
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Öğretmenlerin öğrenci geri bildirimi için YZ kullanması etik mi?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Öğrenciler, eğitimciler ve politika arasında etik YZ okuryazarlığı boşluklarını kapatmak
-- [[alharbi-ethical-genai-eap-2026]] — Akademik İngilizce bağlamında etik üretici YZ bütünleştirmesi
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sürdürülebilir eğitim ve YZ’ye değer-eleştirel yaklaşım (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Sınav hazırlığında LLM benimsemesinin etik koşulları (Pérez-Portabella ve ark. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Öğretmen yetiştirmede uzunlamasına GenAI kullanımı, etik ve politika (Parker ve ark. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Eğitimde YZ için etik değerler ve normlar
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-
-- [[qi-information-ethics-ai-judgment-2026]] — Bilgi etiği eğitimi ve üniversite öğrencilerinde YZ etik yargısı

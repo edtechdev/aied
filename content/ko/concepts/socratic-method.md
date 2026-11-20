@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,9 +54,7 @@ ai_assist:
 
 소크라테스식 접근은 [[llm-training-and-fine-tuning|EduQwen]]의 원리를 직접 구현합니다. **'답하기'보다 '안내하기'를 보상하는 것.** 그러나 실시간 소크라테스식 보정은 종이 벤치마크 교수법보다 어렵습니다. EduQwen은 객관식 [[benchmark]]에서 올바른 안내를 최적화하는 반면, 살아있는 소크라테스식 튜터는 실시간 학생 신호에 기반해 *언제* 안내하고, *언제* 힌트를 주고, *언제* 답할지를 결정해야 합니다. [[affective-tutoring|정서 상태]]는 결정적 조절 변수입니다. 좌절한 학생은 소크라테스 모드로 돌아가기 전에 짧은 직접 답이 필요할 수 있습니다. 더 엄격한 변형은 교수를 완전히 제거합니다. 오직 추궁만 하는 입문 물리 에이전트는 학생에게 하나의 변수를 바꾼 상태에서 올바른 예측을 변호하도록 요구하며(동굴 탐지), 정답 이후의 메시지를 오답 이후의 메시지와 구별할 수 없게 유지합니다([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
-
 힌트 설계는 이 페이지가 달리 다루지 않는 영역에서 문서화된 형태를 지닙니다. CEFR A1–B1의 대학생 58명을 대상으로 한 제2언어 수정 과제에서, 설계는 안내된 단서를 주고 학습자가 교정을 받는 대신 추론하도록 요구했습니다([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). 인지 부하 감소와 개인화된 수정 경로는 주로 단서에 따라 행동할 만큼 충분한 선행 지식을 이미 지닌 학습자에게 보고되었고, 피드백 깊이는 학생이 얼마나 잘 프롬프트했는지에 따라 달라졌습니다. 따라서 교정을 보류하는 데는 숙련도 하한이 있으며, 이것이 연구가 측정할 수 있는 형태의 보정 문제입니다.
-
 
 ## 효과의 증거
 
@@ -128,52 +128,3 @@ Favero et al.(2025)은 학생들이 질문 구조에 의존하게 되어 그것�
 - **"소크라테스식 질문은 답이 없는 것일 뿐입니다."** 대규모 등록의 역학 입문 강좌(**1학년 [[stem-education|STEM]] 전공 150명**)에 배치된 맞춤형 소크라테스식 AI 챗봇은 **측정 가능한** 향상을 만들어냈으며, 그 설계는 구조화된 질문입니다. 침묵하는 모형이 아니라 제약된 상호작용입니다.
 - **"그 효과는 참여의 하류입니다."** [[socratic-nuclear-ai-learning|Socrates went Nuclear(Clin Deffarges, Kosmyna and Maes, 2026)]]는 제한 없는 ChatGPT식 봇과 **소크라테스식** 봇을 비교한 **참가자 50명의 무작위 EEG 연구**로, 결과로부터 메커니즘을 추론하는 대신 그것을 직접 측정합니다.
 - **"제약은 제거해야 할 문제입니다."** 제약에 대한 가장 강한 인과적 지지는 반대 방향을 가리킵니다. K-12 고찰에서 범용 챗봇을 사용한 고등학생은 제약된 도구를 쓰는 또래보다 **폐쇄북 기말고사에서 약 17% 더 낮은 점수**를 받았습니다. 해로운 조건은 제약 없는 도구였습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 질문 순서와 그것의 상충하는 시험 증거
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
-- [[productive-failure]] — 생산적 실패
-
-## 연결된 문서
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 2 x 2 대학원 설계 연구에서의 소크라테스적 대 지시적 피드백 양식
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템 평가
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — 구조화된 소크라테스식 힌트 대 개방형 범용 질의응답
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: 생산적 투쟁의 회복
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF 문제 설계를 지원하는 AI
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: 자율 언어 학습을 위한 ChatGPT
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: 학습에서 AI의 상호작용 전략 비교
-- [[lftutor-logical-fallacy-education-2026]] — 네 단계 오류 튜터링 틀에서의 소크라테스식 질문과 비판적 논증
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? 프로그래밍 AI 교수 조력자에서 교수법 양식과 맥락 인식의 효과
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 생성형 인공지능을 통해 예비 생물 교사의 PISA 정합 논증 기술 향상하기
-- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — 가르치지 않는 AI 에이전트 설계하기: 입문 물리에서 소크라테스식 추궁을 위한 설계 규칙
-- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — 안내형 챗봇에서 가장 낮고 가장 변동이 큰 평점을 받은 성찰적 질문

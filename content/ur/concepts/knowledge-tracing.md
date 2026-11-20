@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -98,39 +100,3 @@ ai_assist:
 
 - فن تعمیری برتری کا دعوی کرنے سے پہلے ایک سے زیادہ ڈیٹا سیٹ خاندانوں پر نتائج رپورٹ کریں، کیونکہ OKT کا موازنہ انجینئرنگ LMS ڈیٹا اور ASSISTments کے درمیان الٹ جاتا ہے۔
 - مہارت گنتی کے اصول کو نتیجے کا پیرامیٹر سمجھ کر رپورٹ کریں، طریقہ کار کے حاشیے کے طور پر نہیں۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — باریک بین مہارت کا اندازہ جو معاونت کے فیصلوں کو خوراک دیتا ہے
-
-## منسلک مضامین
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دینے والی حد سے زیادہ تعمیم: موافق مہارت مشق اس وقت روک سکتی ہے جب طلبہ یہ جاننا سیکھنے سے پہلے کہ کب کوئی عمل روکنا ہے (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — متحرک شعبوں کے لیے گراف پر مبنی ذہین ٹیوٹرنگ (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — affinity mapping کے ساتھ نتائج پر مبنی نالج ٹریسنگ
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — KC کیلیبریٹڈ حالتوں کے ساتھ معنوی بنیاد پر ٹریسنگ، جو تجویز کے لیے RL ماحول کے طور پر استعمال ہوتی ہے
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ایک ایجنٹک ٹیوٹر جو انسان-AI مشترکہ سیکھنے کے حلقے میں اپنے سیکھنے والے کو سیکھتا ہے
-- [[crediting-assisted-work-inflates-mastery-2026]] — کون سا ثبوت کا اصول مہارت کے دعوے کا فیصلہ کرتا ہے (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — یک مرحلہ LLM 8 سیکھنے والوں پر تربیت یافتہ ڈیپ ماڈلوں سے اوپر علم ٹریس کرتا ہے، کہیں کم لاگت پر (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — ریاضی کی نالج ٹریسنگ میں طالب علم کی تاریخ کا کمپریشن

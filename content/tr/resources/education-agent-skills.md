@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,8 +46,3 @@ Projenin ayırt edici iddiası kanıta dayanmasıdır: beceriler üzerinde durdu
 ## Notlar ve uyarılar
 
 Eğitim becerileri, belgeleri ve müfredat materyalleri CC BY-SA 4.0 ile lisanslıdır; dolayısıyla yeniden kullanım ve uyarlama açıktır, türev çalışmalar ise aynı lisansı taşımalıdır. Dağıtım yapacaksanız iki işletim ayrıntısı önemlidir. Barındırılan MCP uç noktası herkese açık değil, jeton (token) gerektirir; ve sunucu SKILL.md dosyaları yerine kaydedilmiş bir anlık görüntü sunduğundan, paketi yeniden derleyip kaydetmeden eklediğiniz bir beceri, yeniden dağıtımdan sonra bile canlı sunucuda görünmez. Kütüphane, eğitimci ve müfredat tasarımcısı Gareth Manning tarafından geliştirilmiştir ve lisans koşulları özellikle eğitim içeriği için geçerlidir.
-
-## Bağlı kavramlar
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, social-sciences-education, arts-and-media-education, music-education, higher-ed, critical-thinking, ai-literacy, agency, philosophy-of-ai-in-education]
+connected_articles: [voicu-ai-interpretive-cognition-ssh-2026, capodieci-humanities-hil-2026, paternalistic-filter-llm-history-education, dumancic-tool-to-method-ai-literacy-history-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, villanueva-ai-vulnerability-assessment-audit-2026, corbin-essay-time-genai-2026, ai-digital-transformation-liberal-arts-lingnan-2026, genai-values-education-affordances-risks-2026, liu-argumentative-work-visible-genai-assessment-2026, stornaiuolo-humanities-genai-integrity-framework-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -70,29 +72,3 @@ SSH eğitimi, üretken yapay zekanın en çok meydan okuduğu yetenekleri öne �
 **“YZ'nin en çok tehdit ettiği şey eleştirel analizdir, dolayısıyla sınırlandırılmalıdır.”** Eleştirel analiz, görev onu yüzeyselleştirmek yerine derinleştirecek biçimde tasarlandığında kasıtlı kullanımın en çok geliştirdiği şeydir de. [[human-in-the-loop-ai|İnsan-denetiminde]] bir model, disiplinin katkısını aracın çıktısında değil öğrenenin yargısında konumlandırır.
 
 **“Genel amaçlı bir model, metin incelemesi için de özetleme kadar yararlıdır.”** Yorum okurun konumunu gerektirir ve okumayı hazır sunan bir destek katmanı, disiplinin öğretmek için var olduğu yorumlayıcı edimi gerçekleştirmiş olur.
-
-## Bağlı kavramlar
-
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[civic-and-political-education]]
-
-## Bağlı makaleler
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
-- [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
-- [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
-- [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
-
-- [[genai-values-education-affordances-risks-2026]] — Değerler eğitiminde üretken YZ: olanaklar, etik riskler ve öğretim için çıkarımlar (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Görev biçimi ve YZ kullanım yönergeleri, eserin neyi kanıtlayabileceğini belirler (Liu ve Liu 2026)
-- [[capodieci-humanities-hil-2026]] — Beşeri bilimler öğreniminde ajan YZ ve metnin yazarlığından yorumun atfedilmesine geçiş (Capodieci ve ark. 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -97,27 +99,3 @@ ICAP-এর মোডগুলোকে *লক্ষ্য-অবস্থা* 
 **"এআই টিউটর সংলাপ করে বলে স্বয়ংক্রিয়ভাবে ইন্টার‍্যাকটিভ সম্পৃক্ততা তৈরি করে।"** সংলাপ মাধ্যম, মোড নয়। যে সংলাপে ব্যবস্থাটি প্রতিটি মূলগত অবদান জোগায়, তা ইন্টার‍্যাকটিভ ইন্টারফেস পরা শিক্ষার্থীর জন্য প্যাসিভ — আচরণগত কার্যকলাপ ও জ্ঞানীয় বিনিয়োগের মধ্যে [[student-engagement|সম্পৃক্ততা-সাহিত্য]] যে বিভ্রান্তি নথিভুক্ত করে, এটিও তাই।
 
 **"উচ্চতর ICAP মোড সর্বদা ভালো।"** এগুলোর খরচ বেশি, আর ক্রমবিন্যাসটি প্রাসঙ্গিক প্রক্রিয়াকরণের প্রতি একক শিখন নিয়ে, কোন পাঠের সর্বদা কোনটি লক্ষ্য হওয়া উচিত তা নিয়ে নয়। মৌলিক সাবলীলতার জন্য কনস্ট্রাকটিভ কাজ সম্ভব হওয়ার আগে অ্যাকটিভ পুনরাবৃত্তি দরকার হতে পারে; ভুল হলো সেখানেই থেমে যাওয়া, সেখান দিয়ে যাওয়া নয়।
-
-## সংযুক্ত ধারণা
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[icap-cognitive-engagement-llm-agents]] — মানব বনাম LLM টীকাকরণে সম্পৃক্ততা মাপার জন্য সম্প্রসারিত ICAP কাঠামো
-- [[hingle-collaborative-ai-literacy-2025]] — চারটি ICAP মোড জুড়ে সহযোগিতামূলক এআই সাক্ষরতা
-- [[interactive-learning-dashboards-engagement]] — ভাসা-ভাসা শিখন-বিশ্লেষণ সম্পৃক্ততার সমালোচনা হিসেবে ICAP
-- [[multimodal-learning-genai]] — মাল্টিমোডাল শিখন-নকশায় ICAP ও জ্ঞানীয় সম্পৃক্ততা
-- [[llm-facilitation-timing-online-discussions]] — অনলাইন সহযোগিতামূলক আলোচনায় LLM পরিচালনার সময়
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি ITS-এ অ্যাডাপ্টিভ ICAP স্ক্যাফোল্ডিং (BKT বনাম DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — জেনারেটিভ শিক্ষার্থী-অনুকরণ এজেন্টে ICAP জ্ঞানীয়-গভীরতা মডেল
-- [[assessing-student-drive-framework-2025]] — প্রতিফলনমূলক GenAI মিথস্ক্রিয়ার ICAP-ভিত্তিক মূল্যায়ন

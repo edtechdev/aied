@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -107,67 +109,3 @@ ai_assist:
 - **«Аутентичність — це про реалістичні завдання».** [[meta-analysis-systematic-review|Оглядове дослідження]] [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud і Du (2025)]] **37 емпіричних досліджень (2000–2024)** пропонує **шестивимірну** модель дизайну, і лише **3 із 37 досліджень** адресували соціальну аутентичність — чи допомагає оцінювання студентам робити внесок у суспільну трансформацію. Реалізм — це один вимір, і найбільш просунутий вимір майже не досліджений.
 - **«Аутентичне оцінювання протистоїть ШІ».** Піддатливість вимірювана й велика: **трирічний ступінь із психології** виявився **прохідним на 90 %**, причому ChatGPT продукував **адекватний вивід у 36 із 40 оцінювань курсових робіт**, і витримали лише решта оцінювань. Більшість оцінювання ступеня була задовільною для ШІ.
 - **«Перепроєктування необов’язкове, якщо робота реальна».** Результат 36 із 40 був отриманий на курсових роботах, чия аутентичність імовірно не викликала сумнівів. Реалізм завдання не захистив від виконання ШІ; захистив дизайн того, що оцінюється.
-
-## Пов’язані поняття
-
-- [[learner-identity]] — Еволюція дисциплінарних, професійних, творчих та академічних ідентичностей здобувача
-- [[eportfolio]]
-- [[problem-based-learning]]
-
-- [[reflection]]
-
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — Підсумкове оцінювання: формати, стійкі до ШІ (усні, іспити з наглядом, закриті іспити)
-- [[arts-and-media-education]]
-
-## Пов’язані статті
-
-- [[thapa-lewis-process-oriented-assessment-2026]] — оцінювання, орієнтоване на процес, та епістемічна аутентичність як те, що завдання має засвідчувати
-- [[ivory-psychology-assessment-integrity-2026]] — Чого ШІ не міг скласти: присутність, візуальні артефакти та власні дані студента (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — Патерналістське використання ШІ та ідентичність студента в освіті з історії
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[authentic-products-authenticated-processes-2026]] — Authentic Products, Authenticated Processes
-- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework for Teaching and Assessing Computational Methods
-- [[cong-confidence-asag-2026]] — Оцінювання коротких відповідей, уважне до упевненості
-- [[llm-fallacy-misattribution]] — Заблудження LLM і хибна атрибуція компетентності
-- [[universities-ai-era-rethinking]] — Переосмислення університетів в епоху ШІ
-- [[ssaho-ai-academic-integrity-review-2025]] — Кілька методів оцінювання для протидії порушенням із ШІ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Переосмислення усних іспитів як аутентичного, стійкого до ШІ оцінювання
-- [[roe-assessment-twins-2026]] — Близнюки оцінювання для зміцнення валідності оцінювання в епоху GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Асинхронні усні оцінювання в епоху ШІ (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: оцінювання навчання через взаємодію з GenAI (DRI + Visible Expertise)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Критерії аутентичності, що призвели до скорочення студентськими групами використання GenAI
-- [[teacher-educators-ai-integration-preservice-2026]] — Криза довіри до ШІ, що відкинула освітян викладачів назад до контрольованих іспитів і усних захистів (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Орієнтований на доброчесність дизайн, відмінний від аутентичного оцінювання: зробити судження видимим (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Що насправді містять файли звинувачень про порушення як докази і яких доказів процесу їм бракує (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Точність детектора та провал на гібридному письмі: чому виявлення є слабким резервним доказом (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Надмірно широкі заборони ШІ: транскрипція — це не генерація (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Корозія реалізму завдань: перепроєктування, стійке до ШІ, що руйнує аутентичність в онлайн-викладанні мов
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Формати з аутентичною поверхнею (записані презентації, віддалені групові проєкти, цифрові артефакти) оцінюються високо на 53 915 пунктів: аутентичність не перевіряє авторство

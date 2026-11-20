@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -42,6 +43,3 @@ Det tydeligste eksempel er `teach`, som kører over flere sessioner og behandler
 ## Det skal du vide, før du tager det i brug
 
 Alt er [[open-source|open source]] under MIT og frit at tage som udgangspunkt for lokal [[ai-literacy|AI-kompetence]] eller [[self-directed-learning|selvstændigt studie]]. Udbredelsen er stor og hurtigt bevægelig: omkring 270.000 stjerner og 23.000 forks, da det blev tjekket i september 2026, med det seneste commit 18. september 2026. Forbeholdet er omfanget. Færdighederne forudsætter en [[human-ai-collaboration|ingeniørs]] arbejdskontekst, de er organiseret i bøtterne engineering, productivity, deprecated og in-progress, så nogle poster er udtrykkeligt ufærdige eller pensionerede, og README'et fungerer samtidig som nyhedsbrevstilmelding. Behandl undervisnings- og udspørgningsfærdighederne som den overførbare del, og forvent at skulle omskrive enhver af dem, før du sætter en foran elever.
-
-## Relaterede begreper
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

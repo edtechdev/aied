@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/claw-ed
 source_updated: "2026-09-23T21:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,6 +47,3 @@ Proje bilerek modele bağımsızdır. Yerel Ollama modellerini, bütçeli OpenRo
 ## Notlar ve uyarılar
 
 Yazılım özgürdür ve özgün kodu için MIT lisansı altında [[open-source|açık kaynaklıdır]], ancak üçüncü taraf bileşenler kendi koşullarını korur ve barındırılan bir model kullanılıyorsa yazılımı çalıştırmak kendi model çıkarımınız için ödeme yapmak anlamına gelir. Proje kendisini öğretmen tarafından incelenmiş bir beta olarak tanımlar ve README’sinde CI’sini geçirmenin canlı modellerde öğretme niteliğini doğrulamadığını açıkça söyler; bu, bu alanda yeşil bir test paketini doğru okumanın yoludur: yazılımı doğrular, [[pedagogy]] değil. MacxLabs tarafından sürdürülür ve öğretmen tarafından incelenmiş örnek dersleri katkı olarak kabul eder.
-
-## Bağlı kavramlar
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

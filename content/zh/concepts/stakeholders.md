@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -81,42 +83,3 @@ ai_assist:
 **“利益相关者分析是早期阶段的练习。”** 这些张力会持续到运行阶段，因为各角色对同一系统的解读一直在变。面向学生的[[personalized-learning|个性化]]层与面向教师的诚信看板，是同一份数据从两个位置看到的景象，任一方调整时冲突就会重现。
 
 **“跨受众共享一种身份意味着一条信息可以服务所有人。”** 跨受众沟通要求把同一项决定翻译成不同的表述而不歪曲它，这比把一条信息改写成四个版本要做得多。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的伞形概念
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — 谁对机构的 AI 支持决策拥有主张
-
-## 关联文章
-
-- [[genai-student-experiences-uk-he-survey-2026]] — 英国高等教育中学生对 GenAI 的体验
-- [[ai-uk-higher-education-policy-2026]] — AI 在英国高等教育政策中（学生与机构）
-- [[ai-campus-wellbeing-tools]] — 面向校园幸福感的 AI 驱动工具
-- [[ai-tpack-mathematics-teacher-education-2026]] — 数学教师教育中的 AI-TPACK 准备度
-- [[genai-policies-higher-ed-computing]] — 计算领域的机构 GenAI 政策
-- [[ethical-ai-higher-ed-game-theory]] — 高等教育中伦理 AI 使用的协调博弈框架
-- [[student-rationalization-ai-writing]] — 学生在学术写作中对 AI 使用的合理化
-- [[ai-changing-teaching-workflows]] — AI 如何改变教学工作流
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — 高等教育中对 GenAI 的利益相关者认知（Humble & Mozelius 2026）
-- [[edtech-privacy-deferral-2026]] — "我们以后再修"：教育技术中的教育、人工智能与学生隐私拖延

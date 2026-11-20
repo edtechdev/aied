@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -79,7 +81,6 @@ Tidak ada format yang memegang posisi tetap dalam pertukaran ini: keteramatan pe
 
 Dasar integritas penilaian lisan juga terbatas waktu: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin dkk. (2026)]] berargumen bahwa kacamata AI dan penyumbat telinga dapat menyampaikan prompt waktu nyata secara tersembunyi di dalam viva langsung, karena AI yang dapat dikenakan tidak menghasilkan pergeseran pandangan mata atau sinyal yang dapat dideteksi, sehingga penilaian lisan interaktif tidak lagi kebal.
 
-
 - **Batas atas skala adalah kendala desain.** Dalam lokakarya dengan 73 pendidik [[cs-education|komputasi]], penilaian lisan dan interaktif dilaporkan sebagai bukti terkuat yang tersedia tentang pemahaman individual dan remedi yang paling sulit diskalakan. Mitigasi yang dijelaskan para partisipan adalah distribusi dan pengambilan sampel: kumpulan asisten pengajar bersama, [[peer-assessment|penilaian sejawat]] dengan bobot di bawah [[summative-assessment|ujian akhir]],, dan memanggil sebagian siswa secara bergilir ([[computing-assessment-genai-workshop-report-2026|Akbar dkk., 2026]]).
 
 ## Miskonsepsi Umum
@@ -87,36 +88,3 @@ Dasar integritas penilaian lisan juga terbatas waktu: [[corbin-ai-glasses-wearab
 - **"Penilaian lisan tidak dapat diskalakan."** Dalam [[code-review-genai-cs1|studi tinjauan kode lisan CS1]], **wawancara lima belas menit setiap minggu membawa tujuh puluh persen dari nilai setiap tugas**, dan rasio karakter hasil tempel terhadap total tetap informatif. Biayanya nyata dan desainnya dapat diimplementasikan pada skala kursus.
 - **"Ujian lisan lebih lunak daripada ujian tertulis."** Dalam uji coba yang dilaporkan, skornya **melebihi skor tes pilihan ganda tatap muka: median tengah semester 92.5 berbanding 70 (p < .001) dan median akhir 94.2 berbanding 86.4 (p = .002)**. Penilaian lisan bukan pilihan yang lunak.
 - **"Pertemuan simulasi setara dengan kasus pengungkapan progresif."** Dalam [[ai-standardized-patient-scaffolding-medical-2026|sebuah RCT dengan seratus mahasiswa kedokteran tahun ketiga]] sistem pasien simulasi dibandingkan **dengan materi kasus pengungkapan progresif** — uji kesetaraan secara langsung, bukan asumsi tentangnya.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Urutan verifikasi lisan dan viva, serta apa yang ditunjukkan dan tidak ditunjukkannya
-- [[assessment]] — bidang yang lebih luas tempat format ini berada
-- [[authentic-assessment]] — tradisi desain yang membangun dasar integritas
-- [[assessment-validity]] — apa yang dapat dan tidak dapat diklaim untuk diukur oleh suatu format
-- [[academic-integrity]] — tekanan yang mengembalikan penilaian lisan ke panggung
-- [[automated-assessment]] — penyampaian dan penilaian kinerja lisan oleh mesin
-- [[ai-detection]] — respons alternatifnya, dan mengapa ia lebih lemah
-- [[speech-and-voice-technologies]] — pipa tuturan tempat sistem lisan berjalan
-- [[multimodal]] — gestur dan tuturan sebagai bukti gabungan
-- [[anxiety-and-stress]] — biaya afektif dari kinerja langsung
-- [[feedback]] — apa yang dikatakan viva kepada pembelajar tentang pemahamannya sendiri
-- [[higher-ed]] — latar tempat hampir semua bukti ini berasal
-
-## Artikel terkait
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Tugas dialog AI tanpa percabangan membuat tuntutan tugas tidak selaras dengan konstruk berbicara
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Viva langsung tidak lagi kebal: kacamata AI dan penyumbat telinga menyampaikan prompt waktu nyata secara tersembunyi (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Meninjau ulang penggunaan ujian dan penilaian lisan (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Penilaian lisan asinkron: integritas, keterlibatan, dan komunikasi profesional
-- [[ai-supported-oral-assessment-tvet-2026]] — Merancang penilaian lisan berbantuan AI dalam pendidikan kejuruan
-- [[aivaluate-anxiety-assessment-2026]] — Kecemasan dan pengalaman dalam penilaian berbasis kinerja yang dimediasi AI
-- [[code-review-genai-cs1]] — Wawancara tinjauan kode lisan dalam kursus pemrograman pengantar
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gestur sebagai bukti dalam menilai penjelasan lisan
-- [[socratic-tests-conversational-assessment]] — Pengujian percakapan otomatis sebagai penilaian lisan
-- [[tool-invariant-framework-agentic-ai]] — Pertahanan lisan atas karya berbantuan AI
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Wawancara klinis lisan di bawah sistem pasien simulasi
-- [[pgr-students-genai-uses-qualitative-2026]] — Viva doktoral di bawah AI generatif
-- [[computing-assessment-genai-workshop-report-2026]] — AI Bisa Mengerjakan PR Anda. Lalu Apa? Laporan dari lokakarya daring tentang penilaian komputasi di era AI generatif
-- [[assessment-feedback-trilemma-model-2026]] — Menyangkal adanya posisi tetap bagi format apa pun dan membingkai ulang kelayakan sebagai prioritas pendidikan

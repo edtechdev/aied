@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -41,7 +42,3 @@ Lehrkräfte von Programmierkursen, die Belege dafür wollen, dass eine Person de
 ## Anmerkungen und Vorbehalte
 
 Alles läuft im Browser: Der Kurs liegt im lokalen Speicher mit einem JSON-Export, Fragen reisen in dem Teil eines Links, den Browser nicht an Server senden, und Antworten kommen nur als Codes zurück, die Studierende selbst abschicken, sodass keine Studierendendaten zu Dritten gelangen. Der Fragengenerator arbeitet regelbasiert und nicht modellgetrieben. Nach eigener Auskunft des Werkzeugs ist sein Code-Leser heuristisch, sodass ungewöhnliche Formatierung oder Makros eine Funktion verbergen können, und eine Bewertung kann das Kennen der Fachsprache belohnen statt das Verstehen des Codes, weshalb Bewertungen Vorschläge sind, die eine Lehrkraft freigibt, und weshalb es rät, den Einsatz mit geringem Gewicht zu versehen. Es sind keine Lizenz und kein Quellcode-Repository veröffentlicht, und weil Links die Fragen mitführen, werden sie einige Kilobyte groß – lang genug, um in ein Nachrichtenfeld eines Lernmanagementsystems zu passen.
-
-## Verbundene Konzepte
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

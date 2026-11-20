@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -91,53 +93,3 @@ AQG היא מאפשר-מפתח של למידה [[adaptive-learning|מסתגלת]
 **"יצירת שאלות מתאימה אישית תרגול באופן טבעי."** היא מייצרת היצע, והתאמה אישית היא בעיית התאמה. ייצור פריטים רבים יותר אינו אומר לכם איזה פריט לומד נתון צריך לראות לאחר מכן, ושאלת הבחירה המסתגלת היא מנגנון נפרד עם ראיות משלו.
 
 **"היצירה מרחיבה את ההערכה בלי לשנות מה ההערכה מודדת."** היא משנה את הרכב הנמדד, משום שהפריטים שמיוצרים היטב אינם מדגם מייצג של הפריטים שמעריכים היטב. פורמטים קלים-לייצור ידחקו בהדרגה את הקשים-לייצור, ובכך יעצבו מחדש בשקט את המבנה.
-
-## מושגים מקושרים
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## מאמרים מקושרים
-- [[genai-medical-education-transformation-review-2026]] — סקירת היקף של 153 דוחות חינוך רפואי על ייצור פריטים ב-AI לעומת איכות פריטים של הפקולטה
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — אימות בשטח בקנה מידה גדול של איכות בחינות מיוצרות-AI באמצעות IRT
-- [[generate-then-validate-question-gen]] — יצירת שאלות Generate-Then-Validate
-- [[kt4eqg-personalized-question-generation]] — יצירת שאלות מותאמת-אישית באמצעות מעקב ידע
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — יצירת שאלות המונעת LLM ללומדים כבדי-שמיעה וכקשיי-שמיעה
-- [[llm-educational-question-cognitive-depth]] — עומק קוגניטיבי של שאלות מיוצרות-LLM
-- [[slidesqaqa-pedagogical-question-generation]] — יצירת שאלות ותשובות פדגוגית ממצגות
-- [[code-gen]] — CODE-GEN: יצירת שאלות מבוססת-RAG עם אדם-בתמונה
-- [[nsmq-riddles-science-math-benchmark]] — בנצ'מרק NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — מטלות מותאמות-אישית מבוססות-עניין
-- [[llm-difficulty-calibration-programming-exams-2026]] — כיול קושי מבוסס-LLM
-- [[self-referential-l2-writing-llm-assessment]] — הערכת כתיבה אנליטית עצמית-התייחסות
-- [[cross-dataset-bloom-question-classification]] — סיווג שאלות בלום חוצה-מאגרי-נתונים
-- [[llm-chatbots-cs-multiple-choice]] — צ'אטבוטים של LLM ופריטי רב-ברירה במדעי המחשב
-- [[socratic-tests-conversational-assessment]] — מבחנים סוקרטיים: הערכה שיחתית
-- [[llm-turing-test-italian-legal-exams-2026]] — מבחן טיורינג של LLM בבחינות משפטיות איטלקיות
-- [[razavi-powers-item-difficulty-llm-2026]] — הערכת קושי פריט באמצעות LLMs ו-ML מבוסס-עץ
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: הערכת איכות פריט מתמטי מבוססת-תהליך
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: חונך סוכני שלומד את הלומד שלו בלולאת למידה משותפת אדם-AI
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — סטודנטים לא הצליחו להבחין בין שאלות רב-ברירה מיוצרות-AI לבין פריטי מבחן-רישוי בבחינה מדורגת, ו-18.2% מהפריטים המיוצרים נמחקו בסקירה (Vogt et al. 2026)

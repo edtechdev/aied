@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -115,56 +117,3 @@ Ujenzi wa maarifa pia unaunda jinsi ujuzi wa AI unavyofundishwa. Ikiwa maarifa h
 - **"Unaweza kubaini ufundishaji wa kiujenzi kutokana na maswali yanayoulizwa."** Kigawanya cha DeBERTa **kiliainisha maswali ya uhamishaji wa maarifa ya ukweli kwa usahihi wa 96.67% lakini maswali ya mwezeshaji kwa 78.79% tu**, na **kila mfano ulichanganya majukumu mawili ya ngazi ya juu**. Dhana inayojalisha zaidi ni ile ambayo utambuzi wa kiotomatiki unashughulikia vibaya zaidi.
 - **"Sifa za uso za somo hufichua mbinu zake za kufundisha."** Kushindwa kwa kigawanya si maelezo ya kiufundi ya utekelezaji. Majukumu ya mwezeshaji na ya kiujenzi ni kesi ngumu hasa kwa sababu hufafanuliwa na kile mwalimu anachofanya na ufikiri wa mwanafunzi, na uhusiano huo hauwezi kupatikana tena kutoka kwa maandishi ya swali peke yake.
 - **"Ujenzi unamaanisha mwalimu haelezi."** Nadharia inaweka kujifunza katika ujenzi wa mwanafunzi kutoka kwa uzoefu, ambao unapatana na mafundisho ya moja kwa moja. Kuichukulia kama katazo la kueleza kunasoma vibaya nadharia na ushahidi kuhusu mifano iliyofanyiwa kazi.
-
-## Dhana Zilizounganishwa
-- [[community-of-inquiry]] — Jamii ya Uchunguzi (iliyotegemea ujenzi/pragmatisi ya Dewey)
-- [[cognitive-psychology]] — Ugunduzi wa kiakili (Cognitivism), nguzo ya tatu ya kieledu ya nadhamia za kujifunza
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya mchakato, mipaka ya LLM, falsafa ya majaribio
-- [[theory-development-aied]] — Ukuzaji wa Nadhamia katika AI katika Elimu
-- [[productive-failure]]
-
-## Makala Zilizounganishwa
-- [[lee-learner-question-types-ai-education-2026]] — Maswali ya wanafunzi yamegawanywa katika majukumu matatu ya ujenzi: mhamishaji, mwelekezi, mwanafunzi-mwenza (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — Inaweka constructionism (Papert) dhidi ya kocha za kiakili katika historia ya AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn na GenAI: mfumo wa constructionism kwa ujenzi wa vitu
-- [[ai-writes-code-student-writes-model-2026]] — Uandishi wa mfano: nadhamia na mpango wa upimaji kwa kujifunza kwa ujenzi na GenAI
-- [[ai-vocational-education-training-review]] — Ujenzi unaenezwa lakini AI ya behaviorist inatawala katika VET; "Mtego wa Turing"
-- [[generative-refusal-ai-tools-for-thought]] — Zana za AI zinazuia uzalishaji kulinda mawazo ya ujenzi
-- [[genai-mindtool-generative-learning]] — GenAI kama zana ya kufikiri inayoungwa mkono na ujenzi wa mwanafunzi
-- [[ai-agents-constructive-conflict-design-education-2026]] — Mawakala wa AI wanaopinga na kuashiria kufikiria upya kwa ujenzi
-- [[hingle-collaborative-ai-literacy-2025]] — Ujuzi wa AI wa ushirikiano na mfumo wa shirikiano wa ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — Kulinganisha kwa msaada wa AI kunazalisha hukumu za kutathmini
-- [[icap-cognitive-engagement-llm-agents]] — ICAP na shirikiano la kiakili na mawakala wa LLM
-- [[conversational-ai-tutors-framework]] — Mazungumzo ya ngazi za msaada katika wakufunzi wa AI
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Uchunguzi wa mwili na mwelekezi wa AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Tathmini halisi na ujenzi wa maarifa
-- [[teacher-ai-teaming-five-levels]] — Viwango vya ushirikiano wa mwalimu–AI katika kubini
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Ujenzi pamoja wa epistemolojia kati ya mwanafunzi na mashine
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Njia za Kujifunza Roboti ya Kieledu Inayoendeshwa na AI (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: wakala wa kizalishaji unaiga mageuko ya kiakili ya wanafunzi
-
-- [[synthetic-position-self-authorship-2026]] — Msimamo wa kupinga wa AI ulioiga unazoeza umbo la mazungumzo lakini unazuia upinzani unaolazimu kufikiria upya
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza: alama za kazi za nyumbani zilipanda 18%, mitihani ya kitabu kilichofungwa zilishuka 20%, zikijikita kwa wanaohamishia kazi za nyumbani nje
-

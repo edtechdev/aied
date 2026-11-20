@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -101,49 +103,3 @@ ai_assist:
 - **«Технические знания об ИИ — то, что преподавателям нужно больше всего.»** Среди **46 преподавателей и 2 832 студентов** **педагогические знания преподавателей об ИИ** предсказывали восприятие студентами ИИ для общего блага. Педагогическое знание превзошло техническое, что переворачивает то, куда идёт большая часть инвестиций в обучение.
 - **«Главный вклад ИИ в образовании — учебный.»** **PRISMA-обзор 28 исследований** обнаружил, что ИИ чаще всего улучшал **планирование обучения и проектирование оценивания**, — яснейший вклад — **снятие административной работы**, а не преподавание. Кейс, построенный на учебных приростах, строится на более слабой ветви доказательств.
 - **«Обучение ИИ-грамотности автоматически переносится в лучшее преподавание.»** Трёхуровневый метаанализ **59 исследований (172 размера эффекта)** обнаружил, что **вмешательства, ориентированные на знания (g ≈ .97)**, явно превосходили другие подходы в продвижении знаний. Продвижение знаний — измеренный результат; дошло ли это до практики — следующий вопрос.
-
-## Связанные концепты
-
-- [[pedagogical-partnerships]] — Педагогические партнёрства
-- [[online-teaching-and-learning]] — Онлайн-преподавание и обучение
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Метафора и аналогия как техника преподавания
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Кейс-метод и контрастирующие кейсы как техники преподавания
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — инструменты ИИ, обученные следовать педагогическим принципам
-
-## Связанные статьи
-
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI как дидактико-педагогический посредник: триадическая модель «преподаватель—студент—GenAI» (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — «Сначала педагогика, потом технология» — TPAIK перевешивает технический TAIK для результатов студентов (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Педагогические партнёрства с генеративным ИИ
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Как учебное руководство формирует эффекты обучения на GenAI
-- [[generative-ai-guardrails-harm-learning]] — Ограниченное (подсказка, а не ответ) тьюторство устраняет штраф на экзамене
-- [[agentic-ai-pedagogical-best-practice-2026]] — Напряжение «автоматизация против обучения» в агентном ИИ
-- [[jeon-isd-agent-bench-2026]] — Обоснование агентов теорией учебного проектирования
-- [[ai-learning-tools-engineering-education-needs]] — Инструменты обучения на ИИ в инженерном образовании
-- [[fowlin-operationalizing-learning-principles-ai]] — Операционализация принципов обучения с помощью ИИ
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — ИИ и практика учебного проектирования: систематический обзор (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Учебные подходы во вмешательствах по ИИ-грамотности
-- [[cognitive-distribution-student-genai-interaction-2026]] — Взаимодействие студента с ИИ как изменчивое распределение когниции, а не фиксированная зависимость (53,3% расширения)

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -40,6 +41,3 @@ ai_assist:
 ## 采用之前需要了解什么
 
 仓库发布了一套评估协议、`samples/` 目录下的前后对照样例，以及 Skill 背后的参考文件，因此审阅者可以亲自检查这些规则的实际行为，而不必凭宣传就采信；本页不复述任何实测结果。作者是 Addy Osmani，许可证为 MIT，这份工作是个人独立成果，而非任何机构的产物。它年轻而活跃：创建于 2026 年 8 月，54 次提交，三个版本，最新版为同年 9 月的 0.2.1，2026 年 9 月查看时约 250 stars，已有三位贡献者提交过改动。Skill 指令加载进用户已经在运行的代理，因此通常的 [[prompt-engineering|提示工程]]（prompt engineering）注意事项同样适用：批评的质量取决于交给它的草稿。
-
-## 关联概念
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -93,34 +95,3 @@ ai_assist:
 - **«Посмішка означає теплоту».** У болісній клінічній зустрічі спостерігачі читають посмішку як недоречність, а детектор лицьових дій — як позитивний афект. Контекст — це відсутня змінна.
 - **«Шкали самозвіту вимірюють емпатію».** Вони вимірюють диспозицію або самоконцепцію; вони не вимірюють поведінку в зустрічі.
 - **«Що імерсивніше, то краще».** Імерсивні методи дають більші прирости, але коштують у кілька разів дорожче й довше, і порівняння не вирівнюють експозицію.
-
-## Пов’язані поняття
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Пов’язані статті
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Рольова гра 13,2%, VR 11,6%, діалог зі ШІ 8,8% за IRI, із змішаним часом експозиції (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Виявлення фізичного контакту узгоджувалося зі спостерігачами; виявлення посмішки дало негативний результат (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Самооцінювана компетентність зросла на d = 0,58 після 13 обмінів, без контрольної групи (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 досліджень; приріст упевненості поширений, докази емпатії обмежені (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA і генеративні зображення як конвеєр збудження, де емпатію заявлено, а не виміряно (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — Віра в емпатійну здатність ШІ передбачала меншу готовність надавати підтримку (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Шкала диспозиції з 42 пунктів, чия факторна структура не відповідала задуму (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — Емпатійна мова підвищувала відчуття розуміння, яке передбачало залученість, а не зміну поведінки (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — Задані підказкою роль і ходи дали велику різницю у сприйнятій емпатії (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Студенти-медсестри описували ШІ як емоційну підтримку під час клінічного стресу (Akbaba et al., 2026)

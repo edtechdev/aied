@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -85,57 +87,3 @@ ai_assist:
 - **"روبوٹکس محض روبوٹ ہونے کی وجہ سے کمپیوٹیشنل سوچ سکھاتی ہے۔"** **53 مطالعات** کے منظم جائزے نے **مسئلہ پر مبنی سیکھنے، کہانی سنانے اور سکافولڈنگ** کو سب سے زیادہ استعمال شدہ حکمت عملیاں پایا — نتیجہ پیدگوجی نے اُٹھایا، اور وہی وہ چیز ہے جو مطالعات نے واقعی کی۔
 - **"جسمانی روبوٹ ہر معاملے میں اسکرین پر مبنی متبادلوں سے بہتر ہیں۔"** فائدے **کام پر منحصر** تھے: [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] کے لیے **60% زیادہ** قلیل مدتی منتقلی کا اسکور (4.4/10، p = .003) جسے مصنفین **عمومی متبادل کے بجائے فضائی ہم مقامی ہونے** سے منسوب کرتے ہیں۔ دعویٰ مخصوص کاموں پر ہم مقامی ہونے کے بارے میں ہے، عمومی جسمانیت کے بارے میں نہیں۔
 - **"کنڈرگارٹن CT بامعنی ہونے کے لیے بہت جلدی ہے۔"** جائزہ لیا گیا ثبوت براہِ راست کنڈرگارٹن روبوٹکس کو محیط ہے، یعنی اِس عمر کے گروہ کا مطالعہ ہوا ہے، اُسے نامناسب فرض نہیں کیا گیا۔
-
-## منسلک تصورات
-- [[early-childhood-elementary-ai-education]] — ابتدائی بچپن اور ابتدائی درجے کی AI تعلیم
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیز اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
-
-## منسلک مضامین
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — رسمی تعلیم میں Pepper روبوٹ کا اسکوپنگ جائزہ
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI سے بہتر جسمانی روبوٹ کی معاونت والی زبان کی سیکھائی کا میٹا تجزیہ
-- [[white-wu-robotics-ai-education-2026]] — تعلیم میں روبوٹکس اور AI
-- [[computational-thinking-educational-robotics-secondary-2026]] — کمپیوٹیشنل سوچ اور تعلیمی روبوٹکس
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — جنریٹو سماجی روبوٹ کے لیے علم پر مبنی ڈیزائن
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — تعلیمی HRI میں کام کا سیاق و سباق اور بھروسا
-- [[human-autonomy-agency-hri-review-2025]] — HRI میں انسانی خودمختاری اور ایجنسی
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub بیانی HRI
-- [[pepper-robot-sign-language-lis-2025]] — Pepper اور اشاروں کی زبان
-- [[social-robot-study-companions]] — مطالعے کے ساتھی کے طور پر سماجی روبوٹ
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — تخلیقی تحریر میں روبوٹ-LLM انضمام
-- [[game-based-gamified-robotics-education-review-2026]] — گیم پر مبنی اور گیمیفائیڈ روبوٹکس تعلیم
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — AI سے چلنے والی تعلیمی روبوٹکس سیکھنے کے راستے (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — کنڈرگارٹن میں روبوٹ کی وساطت سے CT
-- [[ai-toys-child-development-2026]] — AI سے فعال کھلونے اور بچوں کی نشوونما
-- [[creative-project-approach-ai-early-childhood-2025]] — Creative Project Approach: کوڈنگ اور جنریٹو سماجی روبوٹ کو ابتدائی بچپن کے منصوبوں میں ضم کرنا (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — کلاس روم کے روبوٹ کی پانچ فعلی طور پر مختلف اقسام، اسکرپٹ شدہ مظاہرے سے ایک بہ ایک ہمدردانہ مکالمے تک (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: ایک مراکز پر مبنی فریم ورک جو دیہی K–12 روبوٹکس پروگراموں کی اصل رکاوٹ کے طور پر ہارڈ ویئر کے بجائے تکنیکی رہنمائی کی صلاحیت اور مراکز کے جغرافیے کو دیکھتا ہے (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — ہائی اسکول کے طلبہ کو تقویتی سیکھنا اور ہیومنائیڈ روبوٹکس سکھانا: کم لاگت کھلے پلیٹ فارم پر ماہر سے توثیق شدہ نصابی ڈیزائن
-- [[aifred-desk-robotic-ai-guidance-2026]] — ڈیسک پر نصب روبوٹک پروجیکٹر: ہم مقام رہنمائی نے منتقلی محفوظ رکھی جہاں لیپ ٹاپ ChatGPT نے اُسے گنوا دیا
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — ایک وژن-لینگویج ماڈل Nao روبوٹ کے لیے Shoebox Tasks کی منصوبہ بندی کرتا ہے (Kudláčková 2026)

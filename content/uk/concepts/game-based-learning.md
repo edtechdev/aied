@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -89,34 +91,3 @@ GBL і геміфікація разом пов’язуються з [[educatio
 - Підвищуйте якість дизайну поля, а не його обсяг; частка 7% високоякісних — це обмежувальний фактор того, що можна виснувати.
 
 - **Розмовний зворотний зв’язок у симуляції підвищує споріднене навантаження, не знижуючи стороннього.** У п’ятитижневій бізнес-симуляції з **234 студентами** постійні користувачі чатбота зворотного зв’язку на базі GPT-4o повідомляли про **суттєво вище споріднене когнітивне навантаження**, ніж користувачі з доступом, які ним не скористалися (β = −.468, p < .001), і ніж контрольна група зі статичним зворотним зв’язком (β = −.253, p = .028). **Стороннє навантаження не показало ефекту** в жодній специфікації (F(1, 219) = 0.499, p = .481). Обидва навантаження **знижувалися протягом п’яти тижнів** (стороннє β = −.388, p < .001), що є ефектом новизни, виміряним на когнітивному навантаженні, а не на залученості ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]). Дизайнерський висновок полягає в тому, що зворотний зв’язок ніс [[personalized-learning|персоналізацію]], сигналізацію, сегментацію та структуру випереджального зв’язку за 19 конкретними індикаторами, — сам поверх чатбота не є втручанням.
-
-## Пов’язані поняття
-
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Зонтична категорія: педагогіки та стратегії викладання в освіті зі ШІ
-- [[virtual-and-augmented-reality]] — імерсивна та геміфікована практика перетинаються в дизайні та доказах
-
-## Пов’язані статті
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — Учні початкової школи проєктують гру-ескейп; ШІ-грамотність зростає в межах однієї лабораторії онлайн-курсу
-- [[ai-game-based-learning-systematic-review-2026]] — Систематичний огляд 55 досліджень навчання на основі ігор із підтримкою ШІ: позитивні результати, тонка база доказів
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — Навантаження за NASA-TLX у геміфікованих/ШІ-умовах
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Мотивація за ARCS та підтримувана ШІ геміфікація
-
-- [[xie-genai-mystery-game-legal-education-2026]] — Детективна рольова гра, написана GenAI, проти лекції в юридичній освіті (Xie та співавт. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Дизайн і попередня валідація освітнього середовища на основі ігор із підтримкою ШІ для обчислювального мислення

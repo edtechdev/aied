@@ -7,6 +7,8 @@ research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 > **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency|agency]], identity) — and neither a survey nor an interview alone captures both.
@@ -60,26 +62,3 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - **"Observational and interview evidence can carry a system claim."** Pairing system observation and [[administrator|administrator]] discussions against a **four-year randomized evaluation of 8,708 students across eight semesters**, powered to detect effects of **0.05 standard deviation**, shows what the qualitative strand cannot do alone: detect a small effect reliably. Mixing methods is not a way to transfer power between strands.
 - **"Triangulation means two weak methods make a strong claim."** The value of the pairing is that each strand answers a different question. A design that runs both and then reports the qualitative finding as confirmation of the quantitative one has not triangulated, it has restated.
 - **Convergence can be an admission rule, not a narrative.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] counted a redesign priority only when it appeared in at least two of five independent sources and in one enactment-facing source, so perception alone could not promote it.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
-- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al., 2026)

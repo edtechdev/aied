@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -48,10 +49,3 @@ Centrálne IT a kancelárie CIO, ktoré už prevádzkujú záťaže v AWS a chc�
 ## Poznámky a upozornenia
 
 Licencia je bezplatná, prevádzka nie: inštitúcia platí AWS a poskytovateľom modelov. Výber modelu ide cez Amazon Bedrock (Anthropic, Mistral) alebo OpenAI a Microsoft Azure a prevádzka vlastných lokálnych modelov nie je implementovaná. Projekt otvorene uvádza, že nevie podporiť individuálne nasadenia, a organizácie odkazuje na komerčných partnerov — realistické náklady teda zahŕňajú zamestnanca alebo dodávateľa. Ide o nasadenie z troch repozitárov (frontend, backend, infraštruktúra) s desiatkami hviezdičiek, nie tisíckami, a porovnanie nákladov vyššie je vlastná skúsenosť Vanderbiltu, nie kontrolovaná štúdia. Inštitúcie, ktoré by radšej držali inferenciu na hardvéri, ktorý vlastnia, by sa mali pozrieť na [MindRouter](/aied/resources/mindrouter/) a čítať oba spolu: Amplify je aplikačná vrstva nad modelmi dodávateľov, MindRouter je brána nad vašimi vlastnými GPU.
-
-## Prepojené pojmy
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -86,26 +88,3 @@ ai_assist:
 **"শিক্ষকের বিশ্বাস বদলালে অনুশীলনও বদলাবে।"** পরিবর্তনের একক ব্যক্তির চেয়ে বড়। যে হস্তক্ষেপ রীতিনীতি, কাজের ভারবণ্টন ও ভাগ করা নিয়ম বদলায়, তা ব্যক্তিগত দৃঢ়বিশ্বাস-লক্ষ্য হস্তক্ষেপের চেয়ে বেশি নির্ভরযোগ্যভাবে অনুশীলন বদলায়, কারণ ক্রিয়াকলাপের লক্ষ্যবস্তু সমষ্টিগতভাবে উৎপাদিত হয়। এটিই ব্যাখ্যা করে কেন ব্যক্তিগতভাবে উৎসাহী গ্রহণকারীরা ফিরে যান যখন তাঁদের বিভাগ তাঁদের সঙ্গে চলে না।
 
 **"ক্রিয়াকলাপ তত্ত্ব একটি বর্ণনামূলক দৃষ্টি, নকশার পরিণতি নেই।"** এটি নকশাকে ব্যবস্থার উপাদানগুলোর মধ্যকার বৈপরীত্যের দিকে পরিচালিত করে — নিয়মের সঙ্গে সংঘাতকারী সরঞ্জাম, লক্ষ্যবস্তুর সঙ্গে সংঘাতকারী শ্রমবিভাজন — আর সেখানেই পরিবর্তনের লিভার থাকে। যে দৃষ্টি বৈপরীত্য চিহ্নিত করে, সে আপনাকে হস্তক্ষেপের জায়গা দিচ্ছে, কেবল শব্দভাণ্ডার নয়।
-
-## সংযুক্ত ধারণা
-- [[sociocultural-learning]] — যে তাত্ত্বিক পরিবারের অন্তর্গত ক্রিয়াকলাপ তত্ত্ব (ভাইগটস্কীয়, সাংস্কৃতিক-ঐতিহাসিক)
-- [[learning-theories]] — যে হাব ক্রিয়াকলাপ তত্ত্বকে শিখন-তত্ত্বের মধ্যে স্থাপন করে
-- [[distributed-cognition]] — সরঞ্জাম-মধ্যস্থ, প্রসঙ্গে বিতরণকৃত সংজ্ঞানের ওপর যৌথ গুরুত্বারোপ
-- [[situated-learning]] — প্রসঙ্গ ও ক্রিয়াকলাপে অংশগ্রহণের ওপর যৌথ গুরুত্বারোপ
-- [[agency]] — এআই কীভাবে ক্রিয়াকলাপ-ব্যবস্থা জুড়ে মানব এজেন্সি পুনর্বণ্টন করে
-- [[teacher-role]] — ক্রিয়াকলাপ তত্ত্ব প্রায়ই শিক্ষকদের গ্রহণ ও অনুশীলন বিশ্লেষণ করে
-- [[learning-analytics]] — CHAT বিশ্লেষণের নকশাকে ভিত্তি দেয়
-- [[generative-ai]] — যে এআই উপাদান শিক্ষামূলক ক্রিয়াকলাপ-ব্যবস্থায় প্রবেশ করে বিঘ্ন ঘটায়
-- [[technology-acceptance-model]] — গ্রহণের বৈপরীত্যপূর্ণ ব্যক্তিগত-বিশ্বাসভিত্তিক বিবরণ
-
-## সংযুক্ত নিবন্ধ
-- [[jiang-genai-activity-theory-disciplines-2026]] — ক্রিয়াকলাপ-তত্ত্বের দৃষ্টিতে GenAI ব্যবহার ও প্রকাশে শাস্ত্রীয় পার্থক্য
-- [[genai-runaway-object-math-higher-ed]] — GenAI শিক্ষাদান ও গবেষণা-ক্রিয়াকলাপ-ব্যবস্থা পুনর্গঠনের CHAT বিশ্লেষণ
-- [[raffaghelli-situated-ai-ethics-2026]] — বাস্তুতন্ত্র-তত্ত্ব ও CHAT মিলিয়ে অবস্থিত এআই নীতিশাস্ত্র
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — শিক্ষকের এআই গ্রহণের দৃষ্টি হিসেবে ক্রিয়াকলাপ তত্ত্ব (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — ক্রিয়াকলাপ তত্ত্বের মধ্য দিয়ে K-12 শিক্ষকদের এআই-ব্যবহারের দৃষ্টিভঙ্গি
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT দিয়ে প্রকৌশল শিক্ষায় শিক্ষার্থীদের বদলাতে থাকা রীতিনীতি
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — শিক্ষকের পেশাগত বিকাশের CHAT-SDT পুনর্নকশা
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — এআই সাক্ষরতার জন্য CHAT-ভিত্তিক শিখন-বিশ্লেষণ পাইপলাইন
-- [[llm-family-education-activity-theory-2026]] — 53টি HCI গবেষণার স্কোপিং পর্যালোচনা: LLM পারিবারিক শিক্ষার শ্রম পুনর্বণ্টন করেছে, অথচ নিয়মগুলো বেশিরভাগ ক্ষেত্রেই অনুমিত ছিল, কার্যকর নয়
-- [[generative-ai-mediational-agent-sociocultural-2026]] — মধ্যস্থ এজেন্ট হিসেবে GenAI: সরঞ্জামও নয়, সহকর্মীও নয়

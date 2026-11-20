@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -130,56 +132,3 @@ ai_assist:
 - **"قلق الذكاء الاصطناعي ضارّ محضًا."** هذا القلق **ليس سلبيًّا محضًا**: فـ[[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] يجد أن **قلق الذكاء الاصطناعي قد يكون مُثمرًا**، إذ يرتبط القلق الأعلى بتنظيم استراتيجي أكبر. فالقلق يعمل إشارةً إلى الفحص لا عبئًا فحسب.
 - **"كل الطلاب القلقين يستجيبون بالطريقة ذاتها."** تُظهر **أنماط Kim التنظيمية الأربعة — الاعتماد غير النقدي 18.7%، الإدماج الانتقائي 34.6%، التحوّل التقييمي 31.8%، الرفض الاستراتيجي 14.9%** — أن الفحص المدفوع بالقلق ينتج **أربعة** أنماط متمايزة. فتدخّل يستهدف «الطلاب القلقين» يغفل أن أكبر مجموعة مفردة هي التي تدمج انتقائيًّا.
 - **"القلق يكبت المشاركة دائمًا."** لهذا التأطير **حدّ في التحدّث**: فبين **708 متعلّمي لغة إنجليزية**، جرى رابط قلق التحدّث إلى الرغبة على **−0.371 عند كفاءة ذاتية منخفضة في التحدّث لكن +0.137 عند كفاءة عالية**. فالقلق قد يصاحب الرغبة حين تكون الكفاءة الذاتية عالية، واتجاه الأثر يعتمد على الثقة.
-
-## المفاهيم المرتبطة
-- [[career-development-and-readiness]] — الجاهزية المهنية كعامل واقٍ من قلق الذكاء الاصطناعي
-- [[well-being]] — المظلة الواسعة التي يُطوّرها هذا المفهوم بعمق
-- [[remote-proctoring]] — المصدر الأوّلي لتوتر المراقبة/الاتهام الكاذب
-- [[social-emotional-learning]] — الكفاءات العاطفية المعنية
-- [[affective-computing]] — الذكاء الاصطناعي يقرأ الحالة العاطفية
-- [[affective-tutoring]] — الذكاء الاصطناعي يستجيب للتأثّر
-- [[academic-integrity]] — بُعد النزاهة/اتهام الغشّ
-- [[privacy]] — القلق من المراقبة الكامن في توتر المراقبة
-- [[student-experience]] — القلق كجزء من تجربة المتعلّم
-- [[motivation]] — أثر القلق على التبنّي والمشاركة
-- [[self-regulated-learning]] — رابط القلق المُثمر
-- [[ai-literacy]] — بناء قدرة تُخفّف القلق غير المؤسَّس
-- [[equity-in-ai-education]] — توتر غير متناسب على الطلاب العرضة
-- [[ethics]] — عدالة المراقبة والاتهامات الكاذبة
-- [[teacher-role]] — قلق جانب المربّي
-- [[assessment]] — قلق التقويم بوساطة الذكاء الاصطناعي
-- [[social-norms-ai-use]] — الكلفة العاطفية للرؤية
-
-## المقالات المرتبطة
-- [[chatbots-oral-proficiency-efl-systematic-review]] — وكيل يشبه المُمتحِن رفع التحدّث المقيس والقلق معًا
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
-- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[affective-text-wearable-student-health]] — Affective text + wearable sensing for student health
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated proctoring, test-taker anxiety, false accusations
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of automated exam proctoring
-- [[moral-panic-genai-classroom]] — Faculty anxiety and moral panic about GenAI
-- [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
-- [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
-- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
-
-- [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment
-- [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking anxiety's link to willingness to communicate reverses at high speaking self-efficacy
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)

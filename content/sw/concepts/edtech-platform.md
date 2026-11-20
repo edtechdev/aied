@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -75,11 +77,9 @@ Hesabu adimu ya chaguo la jukwaa lililoripotiwa na waelimishaji inatoka kwa taks
 
 Mfano wa jukwaa wenyewe unaendelea kubadilika. **MAIC** (Massive AI-empowered Course) hubadilisha mfano wa MOOC wa "video moja kwa wanafunzi N" na darasa la mawakala wengi linaloendeshwa na [[llm|LLM]] — "mawakala N kwa mwanafunzi 1" — ikitumia mawakala mahususi wa [[teacher-role|Mwalimu]], Msaidizi, Mwenzangu, na Mchanganuzi kufikisha kujifunza mahususi, kunabadilika kwa kiwango kikubwa, na kupunguza uzalishaji wa kozi kutoka takribani \$25K/masaa 60 hadi chini ya \$2/dakika 30.([[mooc-to-maic]]) Vilevile, miundo ya LMS iliyounganishwa na AI inapendekeza kuondoka zaidi ya majukwaa ya mtiririko wa kazi pekee kuelekea msaada wa mafunzo wa wakati halisi na AI yenye vikomo vya sera (vikomo), vidokezo vya kuunda, mapitio ya nafasi, na [[visualization|dashibodi]] za walimu.([[ai-lms-middle-school-longitudinal]]) Katika upande mwingine wa wigo la utumaji, AI iliyowekwa darasani lazima ionyeshe uwezekano katika mazingira halisi ya ana kwa ana. Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — jukwaa la darasa lote linalotumia [[speech-and-voice-technologies|utambuzi wa sauti]] na ufahamu wa lugha kuwazia majadiliano ya kikundi kidogo ya ushirikiano — lilitumwa kikamilifu katika madarasa ya shule ya kati yenye kelele kwa kutumia maikrofoni za kawaida na mtiririko wa wingu unaoweza kupanuliwa, yakionyesha kuwa miundombinu ya AI ya sauti ya wakati halisi inaweza kufanya kazi katika mipangilio halisi ya [[k-12|K-12]] hata kama kutokulingana kwa kiolesura (mionekano ya mwalimu dhidi ya mwanafunzi kama maoni yalikuwa ya kikundi au ya darasa) yalizaa msuguano wa utumaji.
 
-
 ### Tabaka zilizoundwa kwa madhumuni juu ya mifano ya jumla
 
 Mchango wa jukwaa mara nyingi ni muundo ambao mfano wa jumla hauna. [[learnmate2-llm-adaptive-learning|LearnMate^2]] hufunika LLM katika upangaji wa masomo, msaada wa muktadha na shughuli zinazojibu utendaji, na katika ulinganisho wa washiriki 16 ilishinda Khan Academy iliyounganishwa na Gemini 2.5 Pro kwenye majaribio yote mawili (M = 13.375 dhidi ya 10.875, p = .0126; 7.875 dhidi ya 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] hutafsiri maagizo ya lugha ya asili kuwa tabia ya roboti ya CoppeliaSim kwa wanaoanza, ikifanikiwa kwa 100% ya kazi rahisi lakini 88.9% ya kazi ngumu katika kesi 108.
-
 
 ### Vipengele vya jukwaa vilivyotegemea riba na muktadha
 
@@ -105,53 +105,3 @@ Faragha inaweza kujengwa katika mtiririko badala ya sera: kifaa cha kugundua mat
 **"Wazi dhidi ya miliki ni maelezo ya leseni yasiyoathiri matokeo."** Muundo wa jukwaa unaunda kile taasisi zinazoweza kufanya na mfumo: majukwaa ya [[open-source|wazi]] kama OATutor, mkufunzi unaobadilika wenye leseni ya MIT na maktaba ya maudhui ya algebra ya Creative Commons, [[knowledge-tracing|ukadiriaji wa umahiri]] na upimaji wa A/B uliojengwa ndani, huruhusu idara kupima na kubadilisha [[pedagogy|mbinu zake za kufundisha]], jambo ambalo jukwaa lililofungwa haliwezi. Leseni huamua nani anaweza kufanya jaribio.
 
 **"Jukwaa linalofanya kazi katika taasisi moja litafanya kazi kama lilivyopitishwa."** Athari za jukwaa hupitia utawala wa ndani: usanifu unaotanguliza faragha, upunguzaji wa data, kumbukumbu zinazoweza kukaguliwa na ufikiaji unaotegemea jukumu ndivyo vinavyofanya jukwaa lililounganishwa na AI liweze kutumika kabisa, na ni maamuzi ya kitaasisi badala ya vipengele unavyoweza kudhania kutoka onyesho la muuzaji.
-
-## Dhana Zilizounganishwa
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Makala Zilizounganishwa
-
-- [[typology-generative-ai-tools-education-2026]] — Waelimishaji 211 walioripoti kutumia nini: zana 50 katika kategoria tisa
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Kufanya kufundisha kwa msaada kwa AI kuwa kizuri: mazoezi ya hisabati yanayotegemea ustadi
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo katika jaribio la shule la miaka miwili
-- [[access-not-enough-ai-tutoring-2026]] — Kupokelewa na mahusiano ni vizuizi vinavyofunga kwa majukwaa ya kufundisha kwa msaada ya AI
-- [[oatutor-open-source-adaptive-tutor-2023]] — Jukwaa huru la kufundisha kwa msaada linalobadilika la chanzo wazi kwa utafiti unaoweza kurudiwa
-- [[mooc-to-maic]] — Kuhamia kutoka MOOC kwenye madarasa ya AI ya mawakala wengi yanayoendeshwa na LLM
-- [[ai-lms-middle-school-longitudinal]] — LMS iliyounganishwa na AI kwa shule ya kati yenye msaada wenye vikomo na unaotoa kipaumbele faragha
-- [[taklif-ai-interest-based-personalized-assignments]] — Jukwaa la kazi mahususi linalotegemea riba
-- [[edusim-llm-robotic-simulation-education-2026]] — Jukwaa la uigizaji wa LLM-roboti kwa elimu
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Jukwaa la kufundisha la roboti wa kijamii linalozalisha katika elimu ya juu
-- [[hypergamification-game-engine-lms]] — LMS linalotegemea injini ya mchezo linalounganisha gamification
-- [[edtech-design-time-generative-ui]] — Kubuni elimu ya kidijitali kwa UI inayozalisha
-- [[lata-ferpa-compliant-local-llm-autograder]] — Jukwaa la alama za kiotomatiki la LLM la mahali linalozingatia FERPA
-- [[vismatic-secure-sandbox-cs-education]] — Jukwaa salama la sandbox kwa elimu ya CS
-- [[learnmate2-llm-adaptive-learning]] — Jukwaa la kujifunza kunabadilika mahususi linaloendeshwa na LLM
-- [[privacy-aware-classroom-incident-recognition-2026]] — Hisia ya kompyuta inayojali faragha katika majukwaa ya darasa
-- [[raza-farooq-aied-review-2020-2025]] — Mapitio ya kina ya utafiti wa AIED na mifumo
-- [[credentials-carry-evidence-ai-agents-2026]] — Vyeti vinavyobeba ushahidi wao kwa kazi za mawakala wa AI
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

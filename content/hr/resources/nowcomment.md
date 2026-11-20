@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -47,12 +48,3 @@ Nastavnici koji vode pomno čitanje, proučavanje dokumenata ili analizu medija 
 ## Napomene i upozorenja
 
 Računi su besplatni, a dokumenti mogu biti javni ili dijeljeni s pozvanom skupinom. AI partneri rade na OpenAI-jevim velikim jezičnim modelima, pa odabrani odlomci i pitanja napuštaju vlastiti hosting platforme i podliježu uvjetima tog pružatelja — okrug bi trebao pročitati ugovor o obradi podataka prije korištenja s maloljetnicima. Rezultat je ograničen tokenima koje stranica, kako navodi, još proširuje, imenik partnera je iza prijave, a AI površine su dio proizvoda koji se brzo mijenja: tretirajte svaku ovdje opisanu mogućnost kao stanje stranice u studenom 2026., a ne kao ustaljen skup značajki.
-
-## Povezani pojmovi
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

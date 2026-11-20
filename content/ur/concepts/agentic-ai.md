@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -188,62 +190,3 @@ ai_assist:
 **"تعلیم میں ایجنٹک نظام پیدگوجیکل طور پر استوار ہیں کیونکہ انہیں تعلیمی محققین بناتے ہیں۔"** ثبوت اس کے برعکس کہتا ہے: ایک اسکوپنگ جائزے نے پایا کہ ایجنٹک AI کی صرف **29% مطالعات (474 میں سے 138)** نے اپنے نظاموں کو واضح طور پر تعلیمی نظریے پر استوار کیا۔ تکنیکی رجحان اور پیدگوجیکل رجحان والے کام کے درمیان تدریسی تقسیم میدان کی حالت ہے، کسی فرد مصنف کی کوتاہی نہیں، اس لیے ایک ڈیمو جو کام کرے متوقع نتیجہ ہے اور ایک ڈیمو جو *سیکھنے کے لیے* کام کرے اقلیتی معاملہ ہے۔
 
 **"ایجنٹ جو ذاتی نوعیت اور گہرائی دیتا ہے، چیٹ بوٹ سے خالص فائدہ ہے۔"** اس کے ساتھ ایک مخصوص سودا ہے: ایجنٹک نظام [[agency]] کو خطرے میں ڈالتے ہیں اور اُس علمی محنت کے [[cognitive-offloading|بوجھ اتارنے]] کی دعوت دیتے ہیں جس پر سیکھنا منحصر ہے، اور زیادہ مراحل بغیر نگرانی کر کے وہ اس بوجھ اتارنے کو مزید مشکل بنا دیتے ہیں کہ کسی کی نظر میں آئے۔ خودکاری بمقابلہ سیکھنے کا تناؤ اس زمرے کا مرکزی تجزیاتی مسئلہ ہے، نہ کہ اس کے فوائد کے ساتھ لگایا گیا ایک حاشیہ۔
-
-## منسلک تصورات
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## منسلک مضامین
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — 60 ہاتھ سے لکھے امتحانات کی ایجنٹک نشاندہی: مجموعی طور پر r = .97، تشخیصی آئٹمز پر kappa .65 تک گرتا ہے
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — قابلِ نظرثانی قابلیت پروگرام کے گرد منظم ایجنٹس، جس میں سیکھنے والا ایک رکن ہے
-- [[pramod-agentic-ai-motivational-pathways-2026]] — خود مختاری، قابلیت، تعلق اور سماجی موجودگی بطور راستے ایجنٹک AI سے مشغولیت تک (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹس، مسرت بھرا جائزہ، اور تیسری فضا
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE فریم ورک: اعلیٰ تعلیم میں باوَسطہ، انسانی نگرانی والا ایجنٹک GAI (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — تنقیدی انضمامی جائزہ جو AOE ثبوت/نگرانی فریم ورک متعارف کراتا ہے
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — اعلیٰ تعلیم میں شامل ایجنٹک ملٹی ایجنٹ AI ماحولیاتی نظاموں پر نقطہ نظر
-- [[baradziej-agentic-ai-higher-education-2026]] — اعلیٰ تعلیم میں ایجنٹک AI کے کرداروں کا منظم جائزہ (48 مطالعات؛ چھ کردار؛ سہ رخی ذمہ دار انضمام فریم ورک)
-- [[kostopoulos-agentic-ai-education-2025]] — تعلیم میں ایجنٹک AI: موجودہ حالت اور مستقبل کی سمتیں (IEEE Access سروے؛ عملی تعریف + درجہ بندی)
-- [[agentic-ai-education-scoping-review]] — تعلیم میں ایجنٹک AI کا اسکوپنگ جائزہ (474 مطالعات)
-- [[agentic-ai-pedagogical-best-practice-2026]] — خودکاری اور سیکھنے کے درمیان تناؤ
-- [[tool-invariant-framework-agentic-ai]] — ایجنٹک AI کے دور میں کمپیوٹیشنل طریقوں کی تدریس اور جائزہ
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: تدریسی ڈیزائن ایجنٹس کا بینچ مارکنگ
-- [[adversarial-stress-testing-role-playing-agents]] — کردار ادا کرنے والے ایجنٹس کی مخالفانہ اسٹریس ٹیسٹنگ
-- [[ai-agents-constructive-conflict-design-education-2026]] — ڈیزائن تعلیم میں تعمیری اختلاف والے AI ایجنٹس
-- [[ai-tpack-teacher-multi-agent-workflow]] — استاد کا TPACK اور ملٹی ایجنٹ workflows
-- [[code-gen]] — کوڈ جنریشن ایجنٹس
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — پیدگوجیکل LLM ایجنٹ بینچ مارک
-- [[guided-llm-scaffolding-independent-learning]] — خود مختار سیکھنے کے لیے رہنمائی شدہ LLM سکافولڈنگ
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 موافق سیکھنے والے ایجنٹس
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — گیم پر مبنی سائبر سیکیورٹی سیکھنے والے ایجنٹس
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — طبی سمولیشن میں ایجنٹک AI
-- [[bozkurt-ghost-students-agentic-ai-2026]] — بھوت طلبہ اور ایجنٹک AI کے تصدیق کا خلا (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS کام مکمل کرنے والے AI ایجنٹس؛ انسانی پیداوار کے مفروضے سے صداقت کی ناکامی (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI ویب ایجنٹس: سیکھنے کے تجربے کے جائزہ لینے والے کے طور پر بیان کرنے والا ایجنٹ (کورس چھوڑنے کی پیش گوئی، طلبہ کی شمولیت سے پہلے ڈیزائن فیڈ بیک)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — سافٹ ویئر PBL میں AI ایجنٹس کے ساتھ SDD؛ خودکاری بمقابلہ فہم
-- [[ai-standardized-patient-scaffolding-medical-2026]] — طبی انٹرویو کی تربیت کے لیے سکافولڈنگ پر مبنی ملٹی ایجنٹ بڑے زبان کے ماڈل نظام کا جائزہ
-- [[ethics-training-agents-group-ethics-discussion-2026]] — اخلاقیات تربیتی ایجنٹس: کردار بازی اور بحث کے ذریعے گروپ پر مبنی اخلاقیات کی تعلیم
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — خودکار مہارت نکالنے کے AI طریقوں کا موازنہ: انجینئرنگ تعلیم کے لیے embeddings سے ایجنٹک نظاموں تک

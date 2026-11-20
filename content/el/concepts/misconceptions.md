@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -125,37 +127,3 @@ ai_assist:
 - **«Οι παρανοήσεις των εκπαιδευτικών διορθώνονται με την παρουσίαση τεκμηρίων.»** Σε ένα πιλοτικό πρόγραμμα με **123 Ιταλούς εκπαιδευτικούς**, η διαφωνία συγκεντρώθηκε περισσότερο στα **γνωστικά μαθησιακά στυλ (78% των εκπαιδευτικών υπερασπίστηκαν την αντιστοίχιση οπτικού/ακουστικού)**, στην ένταξη και την ομαδική εργασία (68%) και στην υπερφόρτωση από εκπαιδευτική τεχνολογία (54%). Οι ισχυρότερες διαφωνίες ήταν εκείνες που αντιστέκονται περισσότερο στα τεκμήρια, γι' αυτό η [[refutation-text|ανασκευή]] υπερτερεί της διακήρυξης.
 - **«Οι αντιρρήσεις των εκπαιδευτικών στα τεκμήρια είναι όλες αντίσταση.»** Όταν τα ίδια στοιχεία παραδόθηκαν μέσω μιας συνομιλιακής ΤΝ που **επικύρωσε το πλαίσιο του εκπαιδευτικού πριν επανεισαγάγει τα τεκμήρια**, **το 41% των αντιρρήσεων αφορούσε πραγματικούς πλαισιακούς περιορισμούς** — μέγεθος τάξης, ειδικές ανάγκες, απαιτήσεις του προγράμματος σπουδών. Ένα σημαντικό μερίδιο της φαινομενικής παρανόησης ήταν ακριβής αντίρρηση.
 - **«Οι παρανοήσεις ανιχνεύονται αξιόπιστα από τον διάλογο.»** **Από 241 τμήματα που παράχθηκαν, 221 (91,7%) επιβεβαιώθηκαν ως στρατηγικές παρανοήσεις με ψήφο πλειοψηφίας ειδικών (Fleiss' κ = 0,9487)**, με **καμία σημαντική διαφορά** μεταξύ των ομάδων. Υψηλή αξιοπιστία είναι εφικτή υπό ειδική κρίση, και αυτή είναι η συνθήκη από την οποία εξαρτάται ο ισχυρισμός.
-
-## Συνδεδεμένες έννοιες
-
-- [[pedagogical-patterns]] — Οι ακολουθίες εννοιολογικής αλλαγής που αντιμετωπίζουν μια συγκεκριμένη διατηρούμενη πεποίθηση
-- [[learners]] — Εκπαιδευόμενοι: η ομπρέλα για τις έννοιες της πλευράς του εκπαιδευομένου
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Συνδεδεμένα άρθρα
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Μην πιστεύετε τη φημολογία: οκτώ μύθοι για την ΤΝ και η ανάγκη για κριτική προσέγγιση στην τριτοβάθμια εκπαίδευση
-- [[student-rationalization-ai-writing]] — Η εκλογίκευση της γραφής με ΤΝ από τους φοιτητές
-- [[genai-skill-bypass-literacy]] — Παράκαμψη δεξιοτήτων από τη γενετική ΤΝ και επάρκεια
-- [[trust-reliance-ai-education-2026]] — Εμπιστοσύνη και εξάρτηση στην εκπαίδευση με ΤΝ
-- [[contextual-sycophancy-ai-literacy]] — Συμφραζόμενη κολακεία και επάρκεια σε ΤΝ
-- [[sycophantic-ai-social-interaction-2026]] — Κολακευτική ΤΝ στην κοινωνική αλληλεπίδραση
-- [[llm-fallacy-misattribution]] — Η πλάνη των LLM και η εσφαλμένη απόδοση (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Ελαττωματικές αλλά αξιομνημόνευτες: η κριτική πρόσληψη από φοιτητές αναλογιών γενετικής ΤΝ εξατομικευμένων ως προς το ενδιαφέρον στην εκπαίδευση υπολογιστών
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: ρέουσες, έγκυρες εξηγήσεις που είναι λανθασμένες εννοιολογικά παρά πραγματολογικά (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Κρυφές οδηγίες σε ένα υποβαλλόμενο αρχείο μπορούν να ανεβάσουν βαθμό που αποδόθηκε από ΤΝ χωρίς ορατή προειδοποίηση (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Παρανοήσεις παιδιών για την ασφάλεια της ΤΝ: η φιλία με ένα ρομπότ παρερμηνεύεται ως εγγύηση ιδιωτικότητας (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Διαγνωστικό συνομιλιακής ΤΝ για διδακτικές παρανοήσεις με διάλογο θεμελιωμένο σε τεκμήρια (Miranda & Calvani 2026)

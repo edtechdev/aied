@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -101,38 +103,3 @@ AkoVoice 增添了很少同时浮现的两项公平考量。第一是数据：�
 - **“付费语音服务胜于免费服务。”** **两项免费服务返回了近乎完整的转写（覆盖率 87.96% 与 88.34%，词错误率为 15.23% 与 15.00%）**，而两项付费服务只导出了预览版，覆盖率 32%。价格并未预测效用，付费层级把关的是输出，而不是改善它。
 - **“任何语言学习聊天机器人都能改善发音。”** 在**十项研究**中，**只有为语言学习设计的聊天机器人（Andy English bot 与 Xiaoying）提升了准确率**，其中一项比较显示**一个对照组的错误减少 14%**。通用对话式智能体没有产生这一增益。
 - **“自我效能的提升意味着技能的提升。”** 技术与结果之间的关联为正，且**自我效能部分中介了它：间接路径占总效应的 69.9%，同时仍存在直接效应**。大部分效应经由信心传导，这既是一个机制，也是一个告诫。
-
-## 关联概念
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## 关联文章
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 准确率提升只来自语言学习聊天机器人，以及 ASR 在带口音姓名上的失败
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一个电话语音智能体把反馈通道本身打开了
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR 口语反馈：质量胜过数量，且熟练度调节谁受益（Chen 等 2026）
-- [[genai-pronunciation-feedback-wtc-2026]] — 发音自我效能感中介 GenAI 发音反馈与交际意愿（1,701 名 EFL 学习者）
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS 课程流水线：合成朗读与教师声音相当；对话帮助理解
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — TTS 生成课程中学习风格 × 对话格式的交互（222 名学生）
-- [[ai-interlocutor-l2-spoken-dialogue]] — 人类对 AI 对话方：L2 德语中的被支持独白、习得与句法启动
-- [[kutti-ai-voice-first-learning-companion]] — 面向视障儿童的语音优先离线伙伴，带实时困难检测
-- [[agent-voice-accents-k12-group-learning]] — 智能体口音塑造 K-12 小组学习中的拟人化与协作（33 位教师）
-- [[asynchronous-oral-assessment-2026]] — 异步口头评价：可扩展的口语评价，附带学习增益的告诫
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 为口试作为真实、保护诚信的评价方式立论的综述
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice：在职业工作坊中进行离线语音评价，AI 浮现证据而非打分
-- [[student-ai-interaction-consecutive-interpreting-2026]] — 使用 ASR/MT 支持的口译学员的四种交互画像
-- [[gpt-item-generation-l2-listening-2026]] — 提示与微调 GPT 生成 L2 听力题目的比较
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 手势加语音：为什么纯语音的口头评价漏掉理解证据
-- [[ai-guided-learning-audiovideo-2026]] — 自适应音频速度、保留音色的视频摘要与无标注发音反馈
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向听障与重听学习者的 LLM 出题
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 当 AI 导学系统开口说话：来自一项随机实地实验的证据
-- [[ai-mediated-input-medical-english-asr-2026]] — 医学英语中的 AI 中介输入转换：语音识别与转写可靠性

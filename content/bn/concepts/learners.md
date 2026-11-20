@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -106,50 +108,3 @@ ai_assist:
 
 - নমুনায় শিক্ষার্থী/student পার্থক্য স্পষ্ট রাখুন, এবং এর ফলে কে বাদ পড়ছে তা প্রতিবেদন করুন।
 - ব্যবহারকারীর পাশাপাশি অভিযুক্তেরও গবেষণা করুন; প্রক্রিয়ার দিকটি এই সাহিত্যের পাতলা অর্ধেক।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — শিক্ষার্থীরা এআই কীভাবে দেখে, তার সঙ্গে মিথস্ক্রিয়া করে ও তার দ্বারা প্রভাবিত হয়
-- [[learner-identity]] — একটি শাস্ত্র ও এআই-এর সাপেক্ষে শিক্ষার্থীরা কী হয়ে উঠছে
-- [[agency]] — শিক্ষার্থীরা এখনও কী নিয়ন্ত্রণ করে ও বেছে নেয়
-- [[student-ai-interaction]] — শিক্ষার্থীরা এআই-এর কাছে আসলে কী চায় এবং সংলাপ কীভাবে বিবর্তিত হয়
-- [[cognitive-offloading]] — অতিনির্ভরতা এবং চিন্তার বিকল্প হিসেবে এআই
-- [[self-regulated-learning]] — নিজের শেখার পরিকল্পনা, পর্যবেক্ষণ ও সমন্বয়
-- [[help-seeking]] — ভালোভাবে সাহায্য চাওয়া, এবং না চাইলে যে ব্যর্থতার ধরনগুলো আসে
-- [[metacognition]] — কী জানে আর কী জানে না তা জানা
-- [[motivation]] — শিক্ষার্থীরা কেন টেকে বা থামে
-- [[self-efficacy]] — নিজের সক্ষমতা নিয়ে শিক্ষার্থীর আস্থা
-- [[student-engagement]] — আচরণগত, আবেগিক ও জ্ঞানীয় সম্পৃক্ততা
-- [[prior-knowledge]] — যে পটভূমি-জ্ঞান ঠিক করে সহায়তা শেখা হবে কি না
-- [[student-modeling]] — ব্যবস্থার ভেতরে শিক্ষার্থীকে উপস্থাপন
-- [[knowledge-tracing]] — সময়ের সঙ্গে দক্ষতা-অর্জন অনুমান
-- [[simulating-students]] — সাময়িক প্রতিনিধি হিসেবে এলএলএম-অনুকরণকৃত শিক্ষার্থী
-- [[ai-literacy]] — যে সক্ষমতা ঠিক করে শিক্ষার্থীরা এআই ভালোভাবে ব্যবহার করে কি না
-- [[equity-in-ai-education]] — কে উপকৃত হয় আর কে বাদ পড়ে
-- [[well-being]] — উদ্বেগ, চাপ, এবং এআই-মধ্যস্থ পড়াশোনার আবেগিক খরচ
-- [[misconceptions]] — শিক্ষার্থীরা এআই নিয়ে যে মানসিক মডেল নিয়ে আসে
-- [[stakeholders]] — একই ক্ষেত্রের অপর দিক: শিক্ষক, নেতৃত্ব, নকশাকারী
-- [[assessment]] — শিক্ষার্থীর কোন সক্ষমতাগুলো কখনো দৃশ্যমান হয়
-
-## সংযুক্ত নিবন্ধ
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — নির্ভরতার ধরন ও মূল্যায়ন-সাক্ষরতা শিক্ষার্থীর ফলাফলকে ভাগ করে
-- [[student-perceptions-ai-study-productivity-2026]] — শিক্ষার্থীরা দক্ষতা-লাভের পাশাপাশি নির্ভরতার উদ্বেগ জানায়
-- [[student-llm-interaction-taxonomy-review-2026]] — শেখা-কেন্দ্রিক শিক্ষার্থী-এলএলএম মিথস্ক্রিয়ার একটি শ্রেণিবিন্যাস
-- [[student-ai-conversations-cognitive-engagement-2026]] — শিক্ষার্থী-এআই চ্যাটে শাস্ত্র-নির্দিষ্ট ধরন
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — স্বাধীন সক্ষমতা ছাড়াই সহায়তাপ্রাপ্ত কর্মদক্ষতার লাভ
-- [[genai-performance-vs-learning]] — কেন সহায়তাপ্রাপ্ত কর্মদক্ষতা ও সহায়তাহীন শেখা আলাদা করে মাপতে হবে
-- [[shaw-nave-cognitive-surrender-2026]] — জ্ঞানীয় আত্মসমর্পণ প্রবণতা হিসেবে, দুর্ঘটনা নয়
-- [[metacognitively-discordant-completion-genai-2026]] — যে শিক্ষার্থীরা বোঝে তারা বোঝেনি, তবু জমা দেয়
-- [[verification-quality-reliance-calibration-genai-2026]] — যাচাইয়ের গুণমান ও নির্ভরতার ক্রমাঙ্কন
-- [[simulating-students-llm-review-2026]] — অনুকরণকৃত শিক্ষার্থী: স্থাপত্য, প্রক্রিয়া ও সীমা
-- [[stanbkt-bayesian-knowledge-tracing]] — বায়েসিয়ান জ্ঞান-অনুসরণে প্যারামিটার অনুমান
-- [[demographic-signals-llm-student-assessment-2026]] — এলএলএম-ভিত্তিক মূল্যায়নে অন্তর্নিহিত ও স্পষ্ট জনতাত্ত্বিক সংকেত
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — এআই সাক্ষরতা, সম্পৃক্ততা ও মনস্তাত্ত্বিক মূলধন
-- [[genai-student-experiences-uk-he-survey-2026]] — শিক্ষার্থীরা ন্যূনতম শ্রমের টান বর্ণনা করে
-- [[mulisa-students-genai-integrity-perspectives-2026]] — জেনএআই প্রতারণার হাতিয়ার নাকি শেখার সঙ্গী, তা নিয়ে শিক্ষার্থীরা
-- [[munoz-misconduct-allegation-evidence-2026]] — অসদাচরণ-অভিযোগের ফাইলে প্রমাণ হিসেবে আসলে কী থাকে
-- [[wright-transcription-not-generation-2026]] — অতিব্যাপক এআই-নিয়ম এবং যে শিক্ষার্থীদের তা ধরে
-- [[sharma-judgment-visible-genai-assessment-2026]] — নীতিপালন নয়, মূল্যায়নমূলক বিচার হিসেবে সততা
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — শিক্ষার্থীদের জন্য দূরবর্তী প্রক্টরিংয়ের আবেগিক ও ন্যায্যতা-খরচ

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -121,32 +123,3 @@ Die obige [[research-methods-aied|Forschung]] konvergiert auf einige wiederverwe
 **„Ein LLM zu bitten, sich verwirrt zu geben, ist ein trivialer Prompt."** Es ist ein Designproblem, weil die Fehlbarkeit auf das unterrichtete Konzept und auf das aktuelle Modell der Lernend-Lehrenden kalibriert sein muss. Zufällige Fehler erzeugen Debugging-Übung; Fehler, die eine spezifische plausible Fehlvorstellung widerspiegeln, erzeugen konzeptuelle Umstrukturierung, und nur das zweite ist das pädagogische Ziel.
 
 **„Lernen durch Lehren ist eine weichere Aktivität als unterrichtet zu werden."** Es ist anspruchsvoller. Sich aufs Unterrichten vorzubereiten erzwingt die Organisation des Wissens und das Auffinden der eigenen Lücken, weshalb der Ansatz Missverständnisse sichtbar macht, die passives Rezipieren verdeckt — die Schwierigkeit ist der Mechanismus, nicht ein zu minimierender Kostenfaktor.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Erklären gegenüber einem KI-Unterrichteten: die am besten belegte Abfolge in der Wissensdatenbank
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
-
-## Verbundene Artikel
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT als lehrbarer Agent im Programmieren
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: lehrbarer Agent für 546 Studierende
-- [[prompting-teachability-novice-personas-lbt-2026]] — Entwurf von Novizen-Personas für Lehrbarkeit
-- [[socrates-students-instructors-llms-lbt-2025]] — Studierende als Instruierende von LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Wortschatzlernen durch Lehren von KI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back-Konsolidierung in einem konversationellen Review-System
-- [[simulating-novice-students-machine-unlearning-2026]] — Machine Unlearning, um einen Unterrichteten auf Novizen-Wissensniveau zu halten, und Wiederlernen durch Lehr-Dialog
-- [[simulating-students-java-programming-errors-llms]] — Simulation von Studierenden-Fehlern mit LLMs
-- [[knowledge-building-tutor-learning-2026]] — Wissensbildende Antworten, nicht Vorwissen, sagen das Lernen des Unterrichteten vorher

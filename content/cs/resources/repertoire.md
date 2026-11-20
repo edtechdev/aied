@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -52,9 +53,3 @@ Vyučující ve vyšším vzdělávání, kteří chtějí, aby [[learning-desig
 - **Inference třetí strany.** Odpovědi se generují přes Claude API společnosti Anthropic s API společnosti OpenAI jako zálohou, za obchodních podmínek, které podle politiky k září 2026 vylučují trénování na vstupech a výstupech API. Instituce by si to měla potvrdit vlastní smlouvou, nikoli webovou stránkou.
 - **Není to hodnotitel.** Politika i podmínky popisují úsudky asistenta, jako je „cíl splněn“, jako pomůcku pro vyučujícího; známky a akademická rozhodnutí zůstávají na vyučujícím a instituci a rozhodnutí o [[ai-use-disclosure|zveřejnění používání AI]] studentům se ponechávají na vyučujícím.
 - **Hostováno v USA.** Data jsou uložena v Google Cloud Firestore s hostingem u Vercel a politika řeší závazky podle FERPA tam, kde služba nakládá se vzdělávacími záznamy; uživatelům mimo USA je sdělováno, že jejich data jsou zpracovávána tam.
-
-## Související pojmy
-
-- [[learning-design]] — strukturovaný návrh zadání jako bod, kde se politika AI stává konkrétní.
-- [[guardrails]] — brány zapojení a zastropovaná pomoc AI jako návrhová omezení.
-- [[ai-use-disclosure]] — o tom, jak se používání AI oznamuje studentům, rozhoduje vyučující, nikoli platforma.

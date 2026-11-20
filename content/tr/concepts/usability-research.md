@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -68,26 +70,3 @@ Kullanılabilirlik araştırması, veri toplama yöntemlerini [[qualitative-rese
 **"Bir aracı terk eden öğrencilerin motivasyonu yoktu."** Terk etme, çoğu zaman kullanıcının tasarımcının hiç ölçmediği bir etkileşim maliyetini doğru okumasıdır. Kimsenin kullanmadığı bir araç etki üretemeyeceğinden, terk etme oranı başlı başına bir eğitim sonucudur.
 
 **"Kullanılabilirlik testi, öğrenmeyi ölçmekle aynı şeydir."** Farklı soruları yanıtlarlar ve hiçbiri diğerinin yerini tutmaz; başarısızlık kipi, ikisinden birini benimseme için yeterli saymaktır.
-
-## Bağlı kavramlar
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Bağlı makaleler
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM destekli hikâye anlatan bir insansı robot üzerine kullanılabilirlik çalışması
-- [[rhaimi-productivemath-2025]] — ProductiveMath: üreten YZ’ye dayalı bir uygulamanın kullanılabilirliği
-- [[supplynet-visual-exploratory-learning]] — SupplyNet kullanıcı çalışması
-- [[anvil-ai-educational-animations]] — YZ tarafından üretilen eğitim animasyonlarının kullanılabilirliği
-- [[code-anchor-multi-view-visualization]] — Çok görünümlü kod görselleştirmeleri üzerine sesli düşünme çalışması
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN çerçevesi ve sesli düşünme değerlendirmesi
-- [[feedback-futures-genai]] — Öğrenenler YZ tarafından üretilen geri bildirimi nasıl işler
-- [[llm-chatbots-cs-multiple-choice]] — Bilgisayar bilimleri çoktan seçmeli soruları için LLM sohbet robotları
-- [[conversational-ai-agents-umbrella-review-2026]] — Konuşma tabanlı YZ etmenleri üzerine şemsiye derleme

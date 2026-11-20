@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,12 +48,3 @@ MyEssayFeedback מציבה את המרצה בין הסטודנט למודל. ב�
 ## הערות ואזהרות
 
 האתר מדווח על יותר מ-12,000 סטודנטים, יותר מ-700 קורסים ויותר מ-41,000 חיבורים שנסקרו — נתונים שמדווחים על ידי הספק, לא ביקורת עצמאית. עמידה ב-FERPA, מוכנות ל-GDPR ונגישות הם גם כן טענות הספק עצמו; חיבורים עוברים דרך Azure OpenAI, והאתר מציין שהם אינם משמשים לאימון מודלים, דבר שמחוז צריך לאשר בהסכם עיבוד הנתונים ולא לקחת מעמוד השיווק. התמחור הוא freemium ומשתנה לפי קהל: קדנציה ראשונה חינם למרצים חדשים (לפי בקשה, מוגבל לשלושה לבית ספר), כ-\$12–15 לסטודנט לקדנציה לאחר מכן, ומסלול בתשלום לפי סקירה לסטודנטים בודדים כשהסקירה הראשונה חינם. טבלת ההשוואה מול ChatGPT Plus, Packback ו-Grammarly היא של הספק עצמו. שותפות עם UC Davis בפרויקט PAIRR היא שיתוף פעולה מחקרי, לא ראיה שפורסמה לכך שהפלטפורמה משפרת כתיבה.
-
-## מושגים מחוברים
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

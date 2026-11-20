@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -75,40 +77,3 @@ ai_assist:
 **«إضافة الذكاء الاصطناعي إلى درس استقصائي قائم لا يمكن أن تضرّ.»** بل يمكن، والمقارنة التي تُظهر منفعة أضيق مما تبدو. جمع [[context-based-ai-secondary-chemistry-2026|عبد القيوموفا وماديبيكوفا]] **النموذج التعليمي 7E** مع محاكاة PhET *و*تدريس ChatGPT لكيمياء الصف العاشر، فوجدّا إنجازًا ومشاركة أعلى إشارةً دالة من الاستقصاء وحده أو التعليم التقليدي. فالمعالجة هي التركيبة المهيكلة — نموذج تعليمي زائد محاكاة زائد تدريس — لا روبوت المحادثة وحده، وروبوت محادثة يُضاف إلى استقصاء غير مهيكل لم تختبره تلك النتيجة.
 
 **«الكيمياء موضوع إجابته قابلة للتحقق، فأخطاء الذكاء الاصطناعي غير ضارة.»** الإجابات القابلة للتحقق هي الطريقة التي يمر بها الاستدلال الخاطئ دون أن يُلاحَظ: فالطالب الذي يتلقى قيمة صحيحة من نموذج استدل استدلالًا رديئًا لا سبيل لديه إلى كشف النقص، ويسجّل التقويم نجاحًا. وفي تخصص كمي، فإن نقطة النهاية القابلة للتحقق أضعف دليل متاح على الفهم.
-
-## المفاهيم المترابطة
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو تدريس المختبر وثقافة الذكاء الاصطناعي في الأحياء والتفكير النقدي والأدوات المتخصصة
-
-## المقالات المترابطة
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — مراجعة منهجية للذكاء الاصطناعي في تعليم العلوم/الكيمياء
-- [[unesco-ai-guidelines-chemical-education-2026]] — ترجمة إرشادات اليونسكو في الذكاء الاصطناعي إلى تعليم الكيمياء
-- [[context-based-ai-secondary-chemistry-2026]] — القائم على السياق + الذكاء الاصطناعي في كيمياء المرحلة الثانوية (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — تصميم التجارب المدعوم بالذكاء الاصطناعي في الكيمياء العملية
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — أدوار المدرّس والذكاء الاصطناعي في التقويم البنّاء المعزّز بـ ChatGPT
-- [[philosophy-experimentation-ai-chemistry-2026]] — فلسفة التجريب في الكيمياء بالذكاء الاصطناعي
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

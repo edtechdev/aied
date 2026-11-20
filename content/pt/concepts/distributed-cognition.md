@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -66,7 +68,6 @@ A base de conhecimento trata a cognição distribuída ao lado de suas tradiçõ
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] empurra essa questão da unidade de análise mais longe do que a maior parte do trabalho nesta tradição. Sua tese é que o letramento não é uma posse individual, mas algo encenado com materiais e máquinas, o que torna o estudante individual a unidade de análise errada. Um framework de competência centrado na pessoa, portanto, não consegue registrar contribuições infraestruturais ou não humanas, e assim o campo segue nomeando a distribuição para depois resolvê-la de volta no estudante. A aresta de equidade é seu argumento sobre dificuldade: a reflexividade depende de experiência vivida e de relações de poder, de modo que estudantes cujas práticas de língua ou escrita estão mais distantes da norma codificada carregam o maior custo. O argumento é teórico e não relata conjunto de dados, e suas orientações de desenho permanecem propostas não testadas.
 
-
 ## Por que importa para o desenho e a avaliação da IA
 
 A cognição distribuída fornece tanto uma lente de desenho quanto uma lente de avaliação. Para o desenho, ela pergunta como repartir o trabalho cognitivo entre estudantes e IA para preservar (e não erodir) a agência, a [[metacognition|metacognição]] e a autorregulação do estudante humano. Para a avaliação, ela reformula as métricas de sucesso: em vez de perguntar apenas \"o desempenho melhorou?\", a DCog pergunta se a distribuição da cognição sustenta aprendizagem durável, agência epistêmica e justiça educacional — uma perspectiva que conecta às preocupações de [[ai-ed-evaluation]] e [[learning-theories|teorias da aprendizagem]] da base de conhecimento.
@@ -80,34 +81,3 @@ Fowlin et al. (2026) operacionalizam essa repartição como uma sequência de du
 - **"Um documento compartilhado significa cognição compartilhada."** Perfis baseados em volume de **97 aprendizes** diferiam em **conhecimento prévio e autoria**, mas **não no prompting de papel ativo ou de nível de compreensão**. O volume de participação mediu exposição, não a distribuição do trabalho cognitivo — então a [[learning-analytics|analítica]] de uso de uma ferramenta colaborativa diz pouco sobre quem estava pensando.
 - **"Todo mundo delega à IA da mesma forma."** Professores novatos **delegam uma grande parcela da carga cognitiva do desenho instrucional ao sistema de IA**, chegando a uma **distribuição dominada pela IA** em que aceitam em grande parte as respostas, enquanto professores experientes e com conhecimento de IA distribuem de outro modo. A expertise aparece em onde a carga é colocada, e não apenas em quanto de IA se usa.
 - **"Mais envolvimento da IA significa mais apoio."** Uma distribuição dominada pela IA é o padrão a vigiar, porque a parcela humana do trabalho cognitivo encolhe enquanto o volume de produto cresce. O sistema pode parecer mais capaz exatamente quando o usuário está fazendo menos.
-
-## Conceitos conectados
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Artigos conectados
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Estudo empírico de resolução de problemas colaborativa humano–IA por uma lente de cognição distribuída + corregulação
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — A IA como mediador pedagógico redistribuindo a cognição por atores humanos e não humanos
-- [[ai-cognitive-partner-co-regulation-learning]] — A IA como parceira cognitiva no pensamento corregulado
-- [[ensemble-cognition-philosophy-ai-education]] — Framework de Cognição de Conjunto reconceitualizando o pensamento como interação humano–IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Estudante pós-humano com a cognição distribuída por sistemas biológicos e artificiais
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizando a cognição distribuída ao lado da aprendizagem experiencial e situada
-- [[cognitive-commons-ai-expertise-regeneration]] — A tragédia dos bens comuns cognitivos: IA e regeneração da expertise
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Interação professor-IA no desenho de aula: cognição distribuída dominada pela IA vs. complementar por experiência e proficiência (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — A GenAI como agente e espaço colaborativo: como a configuração do acesso distribui a cognição do grupo (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Framework de Distribuição Cognitiva: cinco tipos de interação e quatro papéis a partir do uso autodirigido do ChatGPT
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Memória transativa com GenAI: divisão do trabalho e transformação reflexiva medeiam o pensamento crítico (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Por que o estudante individual é a unidade de análise errada
-- [[rivera-novoa-genai-extended-cognition-2026]] — Cognição estendida na aprendizagem de ciências: a GenAI é substitutiva por padrão e complementar por desenho (Rivera-Novoa & Duarte Arias 2026)

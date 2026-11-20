@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -80,28 +82,3 @@ SAMR được hiểu đúng nhất như một lăng kính độ sâu tích hợp
 **"SAMR và TPACK là những khuôn khổ cạnh tranh nhau."** Chúng mô tả những thứ khác nhau: SAMR mô tả *mức độ biến đổi* trong một nhiệm vụ, còn [[tpack|TPACK]] mô tả *kiến thức* mà giáo viên cần để tích hợp công nghệ tốt. Một giáo viên có thể rất giỏi TPACK mà vẫn vận hành ở mức Thay thế, đó là lý do hai bên được dùng cùng nhau thay vì chọn một.
 
 **"Một công cụ có tính biến đổi ở một cấp độ thì cũng biến đổi ở mọi cấp độ."** Cùng một công cụ tạo sinh có thể hỗ trợ một phép Thay thế ở khóa này và một phép Tái định nghĩa ở khóa khác, vì cấp độ là thuộc tính của thiết kế nhiệm vụ chứ không phải của công nghệ. Quy cấp độ cho công cụ sẽ tạo ra những quyết định chấp nhận thay cho những quyết định thiết kế.
-
-## Khái niệm liên quan
-
-- [[ai-education]] — AI trong giáo dục (khái niệm ôm trùm)
-- [[tpack]] — Kiến thức Nội dung Sư phạm Công nghệ
-- [[technology-acceptance-model]] — Các mô hình chấp nhận công nghệ
-- [[icap-framework]] — Khuôn khổ ICAP về sự tham gia nhận thức
-- [[ai-technologies]] — Công nghệ và kỹ thuật AI
-- [[teacher-ai-competency]] — Năng lực AI của giáo viên
-- [[educational-development]] — Phát triển giáo dục
-- [[learning-design]] — Thiết kế học tập
-- [[k-12]] — Giáo dục K-12
-- [[higher-ed]] — Giáo dục đại học
-- [[generative-ai]] — AI sinh tạo
-
-## Bài viết liên quan
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tích hợp AI trong giáo dục đại học được chấm bằng SAMR: phần lớn ở Thay thế/Tăng cường
-- [[thermomix-genai-education-analogy-2026]] — ICAP và SAMR ánh xạ bốn kịch bản từ nấu ăn đến học tập
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR trong số các lăng kính cho thay đổi chương trình do GenAI thúc đẩy
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR trong số các khuôn khổ định hình chuẩn công nghệ cho giảng viên
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Phê phán hậu nhân văn đối với bản thể luận nhân văn của SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Sự im lặng của SAMR về quyền lực, quyền sở hữu dữ liệu và trách nhiệm giải trình
-- [[genai-use-changing-institutional-policy-physics-2026]] — Sinh viên dùng GenAI dưới chính sách thể chế đang thay đổi: các chức năng sử dụng được ánh xạ vào cấp SAMR (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

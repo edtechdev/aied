@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -46,11 +47,3 @@ Equipes de [[educational-policy-ai|política]] e responsáveis por REA em biblio
 ## Notas e ressalvas
 
 O licenciamento dos capítulos é a armadilha. A coleção é CC BY 4.0, mas autores individuais mantêm os direitos autorais e escolheram suas próprias licenças Creative Commons, então um capítulo pode ser mais restritivo do que a página do livro sugere; o capítulo sobre revisão de livro didático é CC BY-NC-SA 4.0, e o reúso precisa verificar o capítulo, e não os elementos pré-textuais. Os autores não tinham um procedimento obrigatório de divulgação de IA, então a maioria dos capítulos discorre de passagem sobre o processo, seguindo em geral a orientação do OER Commons. Por escolha editorial, cada capítulo mantém a voz disciplinar, a pontuação e a grafia regional do seu autor, de modo que a prosa não se lê de forma uniforme. Acima de tudo, cada capítulo documenta um projeto local e nenhum par deles compartilha um instrumento ou uma comparação, então o volume oferece prática para adaptar, e não evidência para citar.
-
-## Conceitos conectados
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -95,30 +97,3 @@ ai_assist:
 
 - ফলাফলের পাশাপাশি ভাইব-কোডিং অবস্থা (শুদ্ধ বনাম কোড-দৃশ্যমান) প্রতিবেদন করুন, এবং [[self-report-measures|স্ব-প্রতিবেদিত]] সাফল্যের বদলে বিশেষজ্ঞ-যাচাইকৃত, GUI-মুখী কাজ ব্যবহার করুন, যাতে ফলাফল গবেষণাজুড়ে তুলনাযোগ্য হয়।
 - প্রবেশাধিকারের যুক্তি পরীক্ষা করা হলে কেবল আর্টিফ্যাক্ট-সংখ্যা বা নির্মাতা-সংখ্যা নয়, আর্টিফ্যাক্ট-বৈচিত্র্যও মাপুন।
-
-## সংযুক্ত ধারণা
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[vibe-coding-writing-cs-achievement-2026]] — কম্পিউটার-বিজ্ঞান অর্জন ও লেখার দক্ষতা ভাইব কোডিং দক্ষতার পূর্বাভাস দেয় (CHI 2026 অভিজ্ঞতাভিত্তিক গবেষণা)
-- [[gaide-vibe-coding-k12-teachers]] — ভাইব কোডিংয়ের মাধ্যমে এআই-চালিত শিখন-প্রযুক্তি তৈরিতে K-12 শিক্ষকদের জন্য একটি পথনির্দেশক কাঠামো
-- [[vibe-coding-programming-process-visualizer]] — ধারণা থেকে শ্রেণিকক্ষে দিনের মধ্যে: IDE কার্যকলাপ-লগ থেকে একটি প্রোগ্রামিং-প্রক্রিয়া ভিজ্যুয়ালাইজার তৈরি করতে "ভাইব কোডিং" ব্যবহার
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — ভাইব কোডিং ঘণ্টার মধ্যে দুটি প্রকৌশল-সিমুলেশন তৈরি করেছে; প্রোটোকল-ত্রুটি নির্ণয়ের জন্য তবুও প্রশিক্ষক দরকার ছিল
-- [[prompt-problems-nl-programming-mistakes]] — প্রাকৃতিক-ভাষা প্রোগ্রামিং কাজ সমাধানে শিক্ষার্থীদের ধারণা, ভুল ও ডিবাগিং পদ্ধতি বোঝা
-- [[code-to-learn-genai-artifact-construction-2026]] — জেনারেটিভ এআই দিয়ে কোড করে শেখা: উচ্চ-মাধ্যমিক শিক্ষায় আর্টিফ্যাক্ট নির্মাণের জন্য একটি তত্ত্বভিত্তিক কাঠামো
-- [[reshaping-cs-education-genai]] — জেনারেটিভ এআই-এর জন্য স্নাতক কম্পিউটার-বিজ্ঞান শিক্ষা পুনর্গঠন
-- [[flowcode-ai-creative-coding]] — Flowcode: সৃজনশীল কম্পিউটিং শিক্ষায় পুনরাবৃত্তিকে স্ক্যাফোল্ড করার একটি এআই-চালিত প্রোগ্রামিং পরিবেশ
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — এআই ইন্ট্রাপ্রিনিউরশিপ: প্রশিক্ষকেরা নিজেদের সরঞ্জাম বানান, এবং যে সাংগঠনিক সক্রিয়কারীরা ঠিক করে এই প্রবণতা টিকে থাকবে কি না (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — এক সরঞ্জাম, এক রুচি? ভাইব কোডিং কীভাবে সামষ্টিক বৈচিত্র্যকে ব্যক্তিগত সৃজনশীলতার বিনিময়ে বদলায়

@@ -36,7 +36,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -56,7 +56,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحفظات
 
 الإيقاع هو العرض والخطر معًا. فعمليات البناء في يوم واحد تستهدف مشكلة صفية حقيقية لا سؤالًا بحثيًا، فلا شيء هنا يحمل تقييمًا، وأي ادعاء بشأن ما يفعله تطبيق ينبغي اختباره في الصف. ويوجد 32 مستودعًا عامًا في منظمة GitHub بينما يسرد المعرض 34، وكلها بموجب Apache-2.0 مع مصدر متاح، فيمكن قراءة أي تطبيق واستضافته ذاتيًا. والتصميم المحلي أولًا ادعاء يجب التحقق منه لكل تطبيق، وعلى المعلم أن يتأكد قبل وضع أي أداة موجّهة للطلاب أمام صف.
-
-## المفاهيم المتصلة
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,11 +47,9 @@ Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ d
 
 - **İlkokul ders öğrenimi.** İlkokul kesirlerinde [[ai-powered-personalized-learning-elementary-fractions-2026|YZ destekli kişiselleştirilmiş öğrenme]] ve [[awareness-technological-isomorphism|ilkokul matematiğinde YZ]] (“teknolojik izomorfizm” — anlamadan YZ çıktısını taklit eden öğrenciler — kaygıları dahil), erken dönem konu öğretiminde YZ’nin hem vaatlerini hem tuzaklarını göstermektedir. [[elementary-writing-genai-systematic-review-2026|İlkokul yazma eğitimi ve üretici YZ’ye ilişkin sistematik bir derleme]], [[generative-ai|üretici YZ’nin]] ilkokul sınıflarında [[writing-education|yazma öğretimini]] nasıl yeniden şekillendirdiğini haritalamaktadır.
 
-
 - **İlkokul İngilizce [[language-learning|öğreniminin]] kendi haritası vardır.** İlkokul İngilizcesinde YZ aracılı araçlara ilişkin 119 raporun [[meta-analysis-systematic-review|PRISMA]]-ScR incelemesi bunları beş pedagojik işleve ayırmıştır; en güçlü tasarımı, 217 ikinci sınıf öğrencisiyle yürütülen bir küme [[rct|rastgele denemesi]], öğretilen sözcüklerde kazanım sağlamış (etki büyüklüğü = .38), ancak standartlaştırılmış sözcük dağarcığı ve [[reading-education|okuduğunu anlama]] anlamlılığa ulaşmamıştır ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li ve Zhou (2026)]]).
 
 - **Robotlar ve küçük çocuklar.** [[tsingidou-ct-robotics-kindergarten-2026|Anaokulunda robotik]], [[educational-robotics|eğitsel robotlar]] aracılığıyla hesapsal düşünmeyi destekler; [[icub-humanoid-storytelling-llm-hri-2025|LLM güçlü insansı hikâye anlatımı]], ebeveynlerin robotları çocukları için anlatı oyunu partneri olarak kabul edip etmeyeceklerini araştırır — [[trust]] ve yetişkin tutumlarını ön plana çıkarır.
-
 
 - **Sosyal-duygusal öğrenme kolaylaştırıcıları olarak konuşma ajanları, ikame değil.** [[human-ai-complementarity-social-emotional-learning-2026|Raave ve ark. (2026)]], 18 eğitimci ve 18 ajan benzetiminin her birinin statik bir YZ çocuğuyla üç hikâye temelli [[social-emotional-learning|sosyal-duygusal öğrenme]] etkinliği yürütmesini sağlamış ve 108 kör kodlanmış gözlem elde etmiştir: ajan saygılı ton ve prosedürel iskelelemede daha istikrarlıyken, eğitimciler yansıtmayı yönlendirme ve sosyal-duygusal bilgide öne çıkmıştır.
 
@@ -86,48 +86,3 @@ Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: 
 - **“Küçük çocuklar YZ destekli medya okuryazarlığından daha az kazanır.”** YZ destekli grup medya okumada (**+3,50**), yazmada (**+1,67**) ve toplam medya okuryazarlığında (**+5,17, hepsi p < .01**) **büyük kazanımlar** göstermiştir; gruplar arası etki büyüklükleri d = 1,12 ya da üzerindedir. Bu yaş bandında kazanımlar marjinal değil büyüktür.
 
 - **“Otomatik gözlem insan derecelendiricilerle her alanda uyuşur.”** Uyum **genel olarak orta düzeydedir (ağırlıklı κ = 0,681) ama yapıya bağlıdır**: yakınsama **Duygusal Destek** alanı ile **Geri Bildirim Niteliği** için geçerli olmuş, başka yerlerde geçerli olmamıştır. Alanlar üzerinden ortalama almak, aracın nerede başarısız olduğunu gizler.
-
-## Bağlı kavramlar
-
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Bağlı makaleler
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational thinking through robotics in kindergarten
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing instruction in the age of GenAI
-- [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — YZ çağında erken çocukluğu şekillendirmek: yetkinlikler, pedagoji ve ekolojik destek (Pei 2026)
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — İlkokul İngilizce eğitiminde YZ aracılı araçlar: pedagojik işlevler ve öğretmen düzenlemesi üzerine bir kapsam incelemesi

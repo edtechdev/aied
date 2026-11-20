@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -88,42 +90,3 @@ Die Entwicklung ist eine eigene Fragestellung: Diese Mechanismen werden als stab
 - **„Mentale Repräsentationen sind nicht beobachtbar, also sind kognitive Aussagen über Lernen Annahmen.“** Das Rekonstruieren von Bildern aus dem **EEG** von Lernenden während Wissenschaftsvideos ergab, dass die **Treue der Repräsentation mit der Testleistung einherging** (Regressionskoeffizient **0,8481, R² = 0,79**). Die kognitivistische Prämisse einer internen Repräsentation ist messbar, und die Messung sagte das Ergebnis vorher.
 - **„Ein hohes R² bedeutet, dass die Repräsentation das Lernen erklärt.“** R² = 0,79 ist ein starker Zusammenhang zwischen Treue und Leistung auf demselben Material. Er belegt nicht, dass eine Erhöhung der Treue die Leistung erhöht — und genau das wäre die Interventionsbehauptung.
 - **„Wissenskomponenten sind eine bequeme Modellierungsfiktion.“** Zerlegbarkeit ist das, was [[knowledge-tracing]] und [[cognitive-diagnosis]] möglich macht, und die Verfahren funktionieren in dem Maß, in dem die Annahme gilt. Sie als Fiktion zu behandeln verwirft den Grund, warum die Verfahren brauchbare Schätzungen liefern; sie als Tatsache zu behandeln überzeichnet, was ein angepasstes Modell über einen Kopf aussagt.
-
-## Verbundene Konzepte
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — die Befunde zur Behaltensleistung, auf denen diese Praxisfamilie beruht
-
-## Verbundene Artikel
-
-- [[sim-ai-summary-memory-distortion-2026]] — Irreführende KI-Zusammenfassungen veränderten, woran Erwachsene sich erinnerten, unabhängig davon, ob die Zusammenfassung als KI- oder menschlich verfasst gekennzeichnet war
-
-- [[cognitive-shift-ai-education]] — Der kognitive Wandel in der KI-Bildung
-- [[cogtax-cognitive-taxonomy]] — Eine kognitive Taxonomie für KI-Nutzung
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pädagogische LLM-Agenten, gegründet in Knowledge Tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM-Lernendenmodellierung und Gedächtnis
-- [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner im ko-regulierten Lernen
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: Denken als Mensch-KI-Interaktion
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Die Organisation der Anstrengung, nicht ihre Menge, war mit Last und Frustration verknüpft
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — Beherrschungsaussagen aus Knowledge Tracing hängen davon ab, wie unterstützte Arbeit verbucht wird (Srivastava 2026)
-

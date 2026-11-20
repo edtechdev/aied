@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -83,44 +85,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«لا يستطيع نموذج لغة كبيرة التصحيح وفق المعايير الرسمية.»** مقابل **العلامات الرسمية المعدّلة**، ارتبط تصحيح نموذج لغة كبيرة متعدد الوسائط لـ**10,364 صفحة مكتوبة بخط اليد** من أولمبياد الفيزياء والجامعات ارتباطًا قويًا. فالاتفاق في النتائج يمكن أن يصمد أمام تصحيح بنود غير دقيق — ما يعني أن السؤال المفيد هو أين يُشترط فعلًا الدقة على مستوى البند.
 - **«تضخيم الذكاء الاصطناعي للدرجات مجرد تخمين.»** شبه التجربة التي أجراها [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] على **أكثر من 500,000 درجة** تجعل الآلية ملموسة: فبعد إصدار ChatGPT، **ارتفعت حصّة الدرجات الأعلى في المقررات ذات المهام الأكثر تعرّضًا للذكاء الاصطناعي**. وتركّز الأثر حيث تعرّضت المهام، وهو النمط الذي تتوقّعه آلية ما.
 - **«الطلاب الذين يستخدمون الذكاء الاصطناعي لا يمكن تمييزهم عن غيرهم، فالإسناد ميؤوس منه.»** إن نتيجة **عدم وجود فرق دالّ في نسبة المصدر** بين البنود المولَّدة بالذكاء الاصطناعي وبنود امتحان الترخيص، مع تعرّف صحيح بنسبة **68.6–77.5 في المئة** ومعدّل إسناد خاطئ **18.2 في المئة**، تتعلق بفشل التعرّف لا بعدم لزوم الإسناد. بل إنها ترفع، إن أرادت شيئًا، شرط الإسناد المُتحقَّق منه.
-
-## مفاهيم مرتبطة
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## مقالات مرتبطة
-- [[llm-grading-assistants-public-health-2026]] — مصحّحو نماذج اللغة الكبيرة يُضغطون سلّم الدرجات ويتجنّبون الطرفين في تقويم المقالات عالي المخاطر
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — إعادة النظر في الامتحانات الشفهية بوصفها تقويمًا ختاميًا أصيلًا ومقاومًا للذكاء الاصطناعي
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — جزرة تعلّم الذكاء الاصطناعي التوليدي: أدلّة الامتحانات الخاضعة للمراقبة/مغلقة الكتاب
-- [[chirikov-ai-grade-inflation-2026]] — إحلال الذكاء الاصطناعي محلّ المهام كآلية لتضخيم الدرجات؛ المقررات الثقيلة بالواجبات المنزلية (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — إتمام أسرع، تعلّم أقل: المقاييس الخاضعة للمراقبة ضرورية
-- [[generative-ai-guardrails-harm-learning]] — الذكاء الاصطناعي التوليدي بلا ضوابط يُضرّ بالتعلّم
-- [[assessing-quality-ai-generated-exams-field-2025]] — تقييم جودة الامتحانات المولَّدة بالذكاء الاصطناعي
-- [[llms-do-not-grade-essays-like-humans-2026]] — نماذج اللغة الكبيرة لا تُصحّح المقالات كما يفعل البشر
-- [[llm-automated-assessment-student-self-explanations]] — نماذج اللغة الكبيرة في التقويم الآلي للشروحات الذاتية للطلاب
-- [[cong-confidence-asag-2026]] — التصحيح الآلي للأجوبة القصيرة
-- [[psyscore-essay-scoring-zpd-feedback]] — تصحيح المقالات التكيّفي للسمات الواعي بالقياس النفسي
-- [[socratic-tests-conversational-assessment]] — الاختبارات السقراطية: تقويم ديناميكي ومحادثاتي ومتعدد الوسائط
-- [[code-review-genai-cs1]] — مقابلات مراجعة الشيفرة في مقرر علوم الحاسوب الأول
-- [[responsible-assessment-ai-era-stanford-2026]] — التقويم المسؤول في عصر الذكاء الاصطناعي
-- [[test-driven-ai-assisted-learning]] — التعلّم المسانَد بالذكاء الاصطناعي والمقود بالاختبارات
-- [[genai-oop-programming-assessments-2026]] — أداء الذكاء الاصطناعي التوليدي في تقاويم البرمجة كائنية التوجه
-- [[brcic-effortless-trap-productive-struggle-2026]] — «الفخّ بلا جهد»: النضال المُثمر ووهم التعلّم
-- [[ai-vs-human-assessment-efl-tpck-2026]] — مهام التقويم المولَّدة بالذكاء الاصطناعي مقابل المطوّرة بشريًا في تعليم الإنجليزية كلغة أجنبية
-- [[roe-assessment-twins-2026]] — توأمان للتقويم لتعزيز صلاحية التقويم في عصر الذكاء الاصطناعي التوليدي (Roe وPerkins وGiray 2026)
-- [[ai-grading-handwritten-physics-2026]] — تصحيح تقاويم الفيزياء المكتوبة بخط اليد بالذكاء الاصطناعي (الأولمبياد)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — لا يستطيع الطلاب تمييز البنود التي صاغها الذكاء الاصطناعي بموثوقية
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

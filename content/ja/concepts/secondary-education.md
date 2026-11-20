@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -125,41 +127,3 @@ ai_assist:
 - **「検出はAIが書いた文を特定できる。」** 文レベルのF1は0.88に下がり、生徒らしい文体で一度書き直すと再現率は0.60に落ちた。また、チャットボットを使った後にコピーした素材を一切含めずに書かれたテキストは、94.6%のケースで人間によるものと判定された。
 
 - **「批判的な[[ai-literacy|AIリテラシー]]は大学まで待てる。」** 利用は12から17まで毎年増えるのに知覚された信頼性は横ばいで、8–9学年での2時間のワークショップは2日後のプロンプト作成と追加質問の行動を変えた。
-
-## 関連する概念
-
-- [[k-12]] — 初等・中等の学校教育を包含する上位の学段。
-- [[primary-education]] — 先行する学段で、発達的適切さが支配的。
-- [[undergraduate-education]] — 次の学段で、大規模講義と履修指導が中心になる。
-- [[intelligent-tutoring]] — 中等教育の成績に関する試験研究の大半を支えるシステム群。
-- [[academic-integrity]] — AI支援による課題学習に対する方針と推論の枠組み。
-- [[ai-detection]] — テキストおよび応答パターンの手法と、その限界。
-- [[automated-assessment]] — 採点とスコアリング。実用に足るものにする人間への振り分けを含む。
-- [[assessment-validity]] — スコアやベンチマークが何を支持できるか。
-- [[ai-literacy]] — 利用と理解を分ける知識と自己調整の習慣。
-- [[help-seeking]] — 困難の瞬間にチューターが使われるかどうかを決める行動。
-
-## 関連する記事
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — テネシー州の18の中学校での2年間のクラスター無作為化試験。
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — GCSE理科におけるMedlyの4週間・複数サイトのRCT。
-- [[leite-its-k12-meta-analysis-2025]] — 米国の18の知的チュータリング実験と、その時間経過による減衰。
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — AI支援STEM指導の35研究を学校段階別に分析。
-- [[genai-learning-motivation-meta-analysis-2026]] — 動機づけに関する42の対照研究。中等教育はサブグループ。
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — イングランドの7校での事前登録済み読解実験。
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 1,507人の生徒、1通のフィードバックメッセージ、そして修正による向上。
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 答えを伏せるアシスタントと文章を書く7学年の生徒122人。
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 8–9学年での2時間のワークショップを行動で測定。
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 12–25歳の生徒1,598人。慎重さより先に利用が増える。
-- [[schaller-ai-text-detection-authentic-writing-2026]] — PISA 2025のキーストローク研究。テキストレベルと文レベルの検出。
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 目的と意図について推論する香港の生徒133人。
-- [[ai-marking-accuracy-gcse-physics-2026]] — 商用採点システムとAQAの点数・教師パネルとの比較。
-- [[porcaro-ai-grading-benchmark-2026]] — 22モデルを操作されやすさ、ラベル効果、一致度について検証。
-- [[wu-genai-scientific-literacy-china-2026]] — PISA 2025の科学的リテラシーとチャットボットの利用目的。
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — ドイツの7–8学年の生徒2,464人。
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33研究のPRISMAレビュー。利用研究26に対し効果研究7。
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 7–12学年の生徒500人。自己評価の利用の深さと能力。
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 杭州の生徒513人。不安は意図ではなく実行の段階で働く。
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — イタリアの生徒93人に対する19項目の態度尺度。予備的な測定。
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 回答者1,477人。知覚された学習とエンゲージメント指標の対比。
-- [[cho-chatgpt-high-school-gpa-2025]] — 教科、学校種、社会経済的地位別のGPAとの関連。

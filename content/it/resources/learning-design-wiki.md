@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -48,6 +49,3 @@ A progettisti didattici e docenti che vogliono una decisione di progettazione co
 ## Note e avvertenze
 
 Leggi il pannello di fiducia su ogni pagina. I modelli linguistici mantengono la wiki sotto un solo curatore umano, nessuna persona ha verificato alcuna pagina, e il sito etichetta una pagina come pista ben documentata anziché come risultato. Le affermazioni portano un livello di progettazione, un codice della dimensione dell'effetto e un codice di rigore, e "nessuna dimensione dell'effetto stampata" significa che la fonte non ne riportava alcuna, non che non ne esista nessuna. Il contenuto è CC BY-SA 4.0, quindi il riuso deve portare la stessa licenza, e il codice è MIT.
-
-## Concetti collegati
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

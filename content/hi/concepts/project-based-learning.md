@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,32 +84,3 @@ PBL [[active-learning]], [[experiential-learning]], [[collaborative-learning]], 
 
 - मॉडरेशन निष्कर्ष एक उत्पाद चेतावनी है: चैटबॉट को निर्मित वातावरण में इंजीनियर करना *छोटे* एकत्रित प्रभाव के साथ संयोग कर गया। सत्यापित करें कि अनुकूलन सीख-मूल्य जोड़ता है, यह न मान लें कि वह सुविधा जोड़ता है।
 - यदि आप PBL मॉड्यूल देते हैं, तो परिणाम अर्जित करने वाला अंश निर्देश-परत है, मॉडल नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — छत्र: AI शिक्षा में पैडागॉजी और शिक्षण रणनीतियाँ
-- [[arts-and-media-education]]
-
-## संबंधित लेख
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — जनरेटिव AI-समर्थित शिक्षा के लिए आशाजनक ढाँचे के रूप में समस्या-आधारित और परियोजना-आधारित अधिगम: एक व्यवस्थित समीक्षा और तीन-स्तरीय मेटा-विश्लेषण से उभरते प्रमाण
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — बॉट्स एंड ब्लॉक्स
-- [[game-based-gamified-robotics-education-review-2026]] — गेम-आधारित और गेमिफाइड रोबोटिक्स शिक्षा
-- [[genai-literacy-training-teacher-education-dbr-2026]] — शिक्षकों के लिए AI साक्षरता प्रशिक्षण
-- [[roboblockly-conversational-block-robotics-ct-2026]] — रोबोब्लॉकली स्टूडियो
-- [[white-wu-robotics-ai-education-2026]] — शिक्षा में रोबोटिक्स और AI
-- [[educational-robotics-pathways-2026]] — AI-संचालित शैक्षणिक रोबोटिक्स सीखने के मार्ग (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL एक प्रमुख CT सीखने की रणनीति है
-- [[creative-project-approach-ai-early-childhood-2025]] — क्रिएटिव प्रोजेक्ट अप्रोच: प्रारंभिक शैशवावस्था में प्रोजेक्ट अप्रोच के भीतर AI एजेंट और रोबोटिक्स (यांग, ली और ली 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — टीम सॉफ़्टवेयर PBL में AI एजेंट के साथ SDD
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: एक इमर्सिव VR डिज़ाइन स्टूडियो जिसमें एक एम्बेडेड टीचिंग एजेंट है, पारंपरिक PBL के मुकाबले मूल्यांकित (जिन एट अल. 2026)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -92,38 +94,3 @@ ai_assist:
 
 - أبلغوا عن مقابلات المخطّط بخط الأساس على مستوى الخوارزمية. فـ«قائم على مخطّط معرفي» ليس معالجة؛ استراتيجية الاجتياز هي المعالجة.
 - أبلغوا عن إسقاطات الأصل إلى المصدر وقابلية فصل التصنيف إلى جانب الدقة والاستدعاء، لأن إخفاقات التدقيق هنا كانت غير مرئية لمقاييس المخطّط التقليدية.
-
-## المفاهيم المتصلة
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — مظلة: تقنيات الذكاء الاصطناعي والأساليب (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتات، والتوليد المعزَّز بالاستدعاء، والأنظمة الوكيلية)
-- [[recommender-systems-and-learning-paths]]
-
-## المقالات المتصلة
-
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — مخطّط مبني بمشرفين من 1,455 بديهية أدبية مع تدقيق بنيوي وبلا سجل مصدر (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — نموذج معرفي هجين طبقي مؤسَّس على الأنطولوجيا للتعلّم الإلكتروني المخصّص
-- [[learnity-graphs-lifelong-learning-framework-2026]] — مخطّطات Learnity للتعلّم مدى الحياة
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: سقالات صياغة السرد
-- [[quantum-education-its]] — التدريس الخصوصي الذكي في تعليم الكم (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — مخطّطات معرفية متعددة الوسائط للاستدلال التعليمي
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: مقارنة مقرّرات علوم الحاسوب
-- [[proprl-prerequisite-relation-learning]] — ProPrL: تعلّم علاقات السوابق
-- [[knowledge-gap-detection-ai-tas]] — كشف فجوات المعرفة في مساعدي التدريس بالذكاء الاصطناعي
-- [[visual-query-tracer-declarative-logic-learning]] — متتبّع استعلام بصري لتعلّم المنطق التعريفي
-- [[fair-explainable-edu-recommendations]] — توصيات تعليمية عادلة وقابلة للتفسير
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — توصية عبر المجالات هجينة بالترشيح التعاوني والمخطّطات المعرفية لموارد التدريس متعددة الوسائط
-- [[xie-hillm-cd-2026]] — HiLLM-CD: التشخيص المعرفي المدفوع بالنماذج اللغوية الكبيرة
-- [[graph-its-adaptive-algorithms-2026]] — التدريس الخصوصي الذكي المبني على الرسوم البيانية للمجالات الديناميكية (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: توليد بيئات التعلّم

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -71,24 +73,3 @@ ai_assist:
 **«Обучение на основе мастерства — это педагогика, которую ИИ наконец делает возможной».** Его механика значительно старше ИИ — Блум формализовал рамку десятилетия назад, — и ИИ операционализирует её, автоматизируя решения об оценивании и темпе, а не реализуя прежде невозможный замысел. Эта переформулировка важна, потому что автоматизация наследует выбор правила, а именно в правиле и живёт суждение.
 
 **«Более частые оценивания при мастерстве делают порог надёжнее».** Частота улучшает оценку и не исправляет неверно заданное правило. Пересчёт мастерства чаще по событиям, включающим работу с поддержкой, быстрее сходится к тому же неверному ответу.
-
-## Связанные понятия
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — воспроизведение и распределение во времени как двигатель практики внутри циклов мастерства
-
-## Связанные статьи
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивое чрезмерное обобщение: адаптивное освоение может прекратить практику до того, как учащиеся узнают, когда следует воздержаться от действия (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Встраивание правил освоенности/неосвоенности в глубокое обучение для ответственного, интерпретируемого моделирования учащегося
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Зачёт работы с помощью раздувает мастерство: какое правило работы с данными решает, кого объявить освоившим материал (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Симуляция стратегий выбора заданий учащимися и системных ограничений при обучении на основе мастерства (Noh и др. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Отслеживание знаний переоценивает успешность следующей сессии и упускает эффект распределения во времени (Schuetze, Yan и Carvalho 2025)

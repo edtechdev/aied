@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -49,16 +50,3 @@ Nastavnici i dizajneri nastave koji žele izraditi ili održavati udžbenik za k
 ## Napomene i upozorenja
 
 Ovo je vodič praktičara i alatni lanac, a ne recenzirana studija — predstavlja tijek rada i vlastito obrazloženje („inteligentni udžbenici vode studente kroz pojmove na njihovu putu prema znanju“), a ne dokaze o ishodima učenja. Istraživački rad o MicroSims najbliži je empirijskoj potpori, a i on je samostalno objavljen na arXivu. Oba su projekta otvorenog koda (repozitorij intelligent-textbooks navodi MIT licenciju i 38 zvjezdica; MicroSims navodi licenciju Creative Commons i 13 zvjezdica) i aktivno se održavaju. Grafovi pojmova i struktura koja počinje pojmovnikom doista pomažu pronalaženju, ali vodič pretpostavlja prilično tehnički tijek rada — MkDocs, Git i alate generativne umjetne inteligencije — što nekima od nastavnika može biti prepreka. U trenutku unosa registar za MicroSims još je samo u planu, pa se pronalaženje određene postojeće simulacije oslanja na pretraživanje i navigaciju samog mjesta.
-
-## Povezani pojmovi
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

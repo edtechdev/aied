@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -37,6 +38,3 @@ Kapitoly pokrývajú [[learning-design|inštrukčný dizajn]] a vyučovaciu prax
 ## Čo treba vedieť pred použitím
 
 Kniha je open access pod licenciou CC BY, čo je permisívny koniec spektra pre vyučovacie materiály: vyučujúci môžu [[prompt-engineering|prompty]] kopírovať, prispôsobovať a používať vrátane komerčného použitia, ak ich riadne uvedú. To uľahčuje lokalizáciu promptu pre konkrétny kurz alebo nastavenie [[pedagogical-agent|agenta]], čo reštriktívnejšie licencie na podobných zbierkach neumožňujú. Vyšla v EdTech Books v roku 2026 so stiahnutím PDF a DOI 10.59668/2340, zostavil ju David Wiley. Keďže každá kapitola uvádza aj návrh hodnotenia, aj výsledok, slúži aj ako vzor pre vyučujúcich, ktorí chcú otestovať vlastné prompty namiesto preberania cudzieho úsudku.
-
-## Prepojené pojmy
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

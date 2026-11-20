@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -116,38 +118,3 @@ A evidência da rendição como construto nomeado repousa fortemente em um únic
 **"A solução é uma IA melhor, já que a rendição decorre de erros."** A rendição decorre da *estrutura* da interação: um sistema que produz uma resposta plausível primeiro remove a ocasião para quem aprende gerar uma. Melhorar a acurácia reduz o dano de respostas erradas e não faz nada quanto ao abandono de formar um julgamento, que é o dano que persiste depois que a ferramenta se vai.
 
 **"Ensinar avaliação crítica é suficiente."** É necessário, e chega tarde demais. Uma vez que uma resposta plausível está na tela, a avaliação se torna confirmação, razão pela qual a literatura de desenho aqui coloca a tentativa do estudante antes da saída do sistema, em vez de auditá-la depois.
-
-## Conceitos conectados
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Artigos conectados
-
-- [[shaw-nave-cognitive-surrender-2026]] — Teoria dos Três Sistemas e a assinatura experimental da rendição
-- [[generative-ai-reduced-study-time-math]] — deslocamento em nível populacional no ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — o framework rendição/descarregamento/autonomia no PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — assistência instrumental versus assistência portadora de julgamento
-- [[ai-advice-suppresses-ikt-suspension-2026]] — o colapso do "não sei"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — engajamento neural e propriedade
-- [[genai-thoughtless-use-self-directed-learning-2026]] — uso irreflexivo e aprendizagem autodirigida
-- [[stamatoulis-genai-use-patterns-2026]] — adoção com baixa verificação versus integração avaliativa
-- [[cognitive-washout-ai-skill-decay-2026]] — o que acontece depois da retirada
-- [[ai-overreliance-complex-adaptive-system-2026]] — a dependência como processo populacional
-- [[brcic-effortless-trap-productive-struggle-2026]] — posicionar a IA para que a tarefa siga esforçada
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — treinamento de calibração
-- [[family-school-autonomy-support-genai-2026]] — descarregamento dependente versus autônomo
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Um assistente ancorado na folha de exercícios reduziu o descarregamento em vez de elevá-lo, uma condição de contorno para a assinatura da rendição (Braun 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Delegação naturalística do ensaio inteiro: 15 de 77 ensaios totalmente escritos pelo modelo, 20 pedidos de um ensaio completo (Jelson et al. 2026)

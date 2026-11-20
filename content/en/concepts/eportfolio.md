@@ -10,6 +10,8 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 > **E-Portfolio (e-portfolio)** — a digital collection of a learner's work, reflections, and evidence of achievement, used for [[assessment|assessment]], learning, and evaluation. In the AI era, e-portfolios have emerged as a relatively **AI-robust and AI-assisted** assessment form: they capture the *process* of learning (reasoning, drafting, reflection) rather than just the final artifact, making them valuable against the collapse of the artifact-as-proxy, and [[generative-ai|generative AI]] can support their creation, [[feedback|feedback]], and evaluation.
@@ -66,30 +68,3 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 **"A significant multivariate result proves the portfolio was the active ingredient."** It proves the package moved the outcomes. The study combined an AI tool, a portfolio structure and speaking tasks, and a design of that shape cannot isolate which component produced the gain. The defensible claim is about the combination, and the [[learning-gains|learning gains]] caution applies: reported gains need to be traced to a component before they can be reused.
 
 **"E-portfolios replace the need for unassisted assessment."** They complement it. A portfolio evidences process and growth over time; it does not evidence what a learner can do without support, and conflating the two reintroduces the artifact-as-proxy problem the format was adopted to solve.
-
-## Connected Concepts
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Connected Articles
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- and competency-based assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment robust to generative AI, incl. social contribution portfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Annotated portfolios / oral defenses as AI-resistant assessment
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The Symbiotic Portfolio for hybrid learners
-- [[pbl-structural-conditions-ai-2026]] — Portfolios as partial answers to assessment at scale
-- [[learn-framework-responsible-genai-pbl-2026]] — Personal learning portfolios as assessable learning traces
-

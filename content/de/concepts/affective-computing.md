@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -68,34 +70,3 @@ Affective Computing liegt an der Schnittstelle von [[affective-tutoring|affektiv
 - **„Mehr Engagement bedeutet mehr Lernen.“** Eine gehirnsensorische Studie fand, dass eine **eingeschränkte, adaptive Schnittstelle kognitives Engagement erhöhte (p = .018), während der uneingeschränkte Chatbot höhere Lernzuwächse erzielte**. Die Schnittstelle, die stärker band, lehrte weniger. Engagement ist kein Stellvertreter für Lernen, und es zu optimieren kann das Ergebnis in die falsche Richtung bewegen.
 - **„Emotionale Unterstützung ist ein weiches Add-on zur kognitiven Unterstützung.“** In einer kleinen [[rct]] im Klassenzimmer (**42 Abschließende von 252 Teilnehmenden**) erreichte die achtsame Variante **ähnliches Algebra-Lernen in weniger Zeit und mit weniger angeforderten Hinweisen** als kognitive Unterstützung allein. Die affektive Komponente veränderte die Effizienz statt der Obergrenze, was eine andere und interessantere Aussage ist als „es hilft beim Lernen“.
 - **„Affektive Befunde aus kleinen Stichproben übertragen sich.“** 42 Abschließende von 252 Teilnehmenden sind ein ebenso ermutigendes wie fragiles Design: die Abschlussquote ist selbst ein Befund dazu, wer durchgehalten hat, und der Effekt bleibt auf diese Gruppe begrenzt.
-
-## Verbundene Konzepte
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Sozial-emotionales Lernen
-
-## Verbundene Artikel
-
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reaktion auf KI-generierte emotionale Alarme: Intervention von Lehrkräften und Engagement der Lernenden im Mathematikunterricht
-- [[wang-teacher-student-centered-agents-physics-2026]] — Empathiewahrnehmung aus per Prompt gestalteten Agentenrollen im Physiklernen (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Über Problemlösen hinaus: große Sprachmodelle für emotionale und reflexive Unterstützung im Mathematiklernen
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotionssensitive Bewertung der Klassenzimmerqualität über IoT-basierte Echtzeitüberwachung (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-gestützte Bewertung von Angst bei Studierenden (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Vergleich von Interaktionsstrategien für KI im Lernen
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — KI-gestützte Emotionsregulation neu gerahmt: Signale brauchen Kontext, keine autonome Interpretation

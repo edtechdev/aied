@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -86,36 +88,3 @@ Ufunikaji wa hifadhi hii ya maarifa wa elimu ya uhandisi bado unaendelea. Maeneo
 - **"Upatikanaji wa AI miongoni mwa wanafunzi wa uhandisi ni tatizo la kukubali teknolojia."** [[socio-cognitive-genai-adoption-engineering-2026|Asag na Al Mamun]] wanaunganisha TAM na [[technology-acceptance-model|UTAUT]] kuunda mfano wa upatikanaji wa wanafunzi wa uhandisi wa Bangladesh, **wakielezea 64% ya** tofauti, kwa hivyo sehemu kubwa iko nje ya dhana za kukubali, katika mambo ya kijamii na kiakili ambayo mfano haufuniki.
 - **"Wanafunzi hutumia AI kwa kile inachofanya vyema zaidi."** [[ai-engineering-education-balancing-act|Kudina (2026)]] aligundua **wanafunzi 100 wa uhandisi** walithamini zaidi LLM kwa **msaada wa uandishi**, si kwa ufikiri wa uhandisi. Mifano yao ya zana ilizidi kile ilichotoa, na matumizi yao halisi yalifuata urahisi badala ya uwezo.
 - **"Mkusanyiko tajiri wa zana huboresha matokeo ya ubuni."** Katika studio ya ubuni wa usanifu ya **wanafunzi 27**, timu zilizotumia mtiririko wa AI ya kizalishaji pamoja na [[virtual-and-augmented-reality|XR]] zilionyesha **kupungua kwa ufanisi bila bidhaa iliyoboreshwa**. Utajiri wa zana unaweza kugharimu ujasiri huku ukiacha bidhaa bila mabadiliko.
-
-## Dhana Zilizounganishwa
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Makala Zilizounganishwa
-- [[apostolakis-trusstutor-bench-statics-2026]] — Kiwango cha statics: utatuzi na ugunduzi wa hitilafu hufikia kikomo, upinzani dhidi ya shinikizo haufikii
-- [[mechanical-engineering-ai-curriculum-2026]] — Mtaala wa Elimu ya AI unaotegemea Mradi katika Uhandisi wa Joto
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Mifano ya Mifano ya Wataalam wa Uhandisi Inajenga (na Inazuia) Ufahamu wa AI
-- [[tam-critical-use-genai-engineering-2026]] — TAM iliyopanuliwa na matumizi mahususi kwa wanafunzi wa uhandisi/Sayansi ya Kompyuta
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Mfano wa pamoja wa kisayansi-kijamii wa elimu ya uhandisi (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Matumizi ya Maadili ya AI katika Elimu ya Uhandisi: Mapitio ya Kimfumo
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Mfumo wa Njia Nyingi kwa Ufahamu wa Mwili katika Maelezo ya Mdomoni
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI na Mustakabali wa Wafanyakazi wa Uhandisi na Kompyuta
-- [[ai-engineering-education-balancing-act]] — Kutumia AI katika Elimu ya Uhandisi: Kitendo cha Kusawazisha
-- [[structured-ai-demonstrations-engineering-mechanics]] — Maonyesho ya AI Yaliyopangwa katika Makanika ya Uhandisi
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT katika elimu ya uhandisi
-- [[liu-ai-sustainable-engineering-education-2026]] — Mfumo wa AI-SEE kwa elimu ya uhandisi endelevu (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — AI Inayozalisha na Uhalisia Iliyopanuliwa katika Elimu ya Ubunifu wa Usanifu ya Ushirikiano: Utafiti wa Studio wa Uchunguzi

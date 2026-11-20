@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -40,9 +41,3 @@ Tvorcovia politík a obstarávacie tímy vyberajúce modely pre národné systé
 ## Poznámky a výhrady
 
 Rebríček meria modely na úlohách samotného benchmarku: vysoké pedagogické skóre je dôkazom o týchto položkách, nie o triede. Stĺpec ceny mieša ceny vstupných a výstupných tokenov v pomere 3:1, čo je modelovacia voľba, nie to, čo bude stáť akékoľvek konkrétne nasadenie. Pokrytie jazykov a lokálne hostovaných modelov sa mení s tým, ako pribúdajú nové modely, a nízke skóre malých modelov sčasti odráža formát úloh rovnako ako schopnosti. Rámcovanie Fab AI je výslovne o krajinách s nízkymi a strednými príjmami, takže sada položiek benchmarku odráža tento kontext a nemala by sa čítať ako všeobecné vzdelávacie poradie. Skontrolujte dátumy vydania: viaceré záznamy predchádzajú súčasnej generácii modelov.
-
-## Prepojené pojmy
-
-- [[benchmark]] — širšia trieda nástrojov, do ktorej patrí
-- [[digital-divide]] — obmedzenie, ktoré majú stĺpce ceny a otvorených váh zviditeľniť
-- [[equity-in-ai-education]] — politická otázka, ktorú rebríček informuje

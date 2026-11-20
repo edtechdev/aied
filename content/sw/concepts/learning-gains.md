@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -68,7 +70,6 @@ Katika [[rct|RCT]] zote, [[meta-analysis-systematic-review|meta-analysis]], na m
 - **Katika AI inayopitia mwalimu, maandalizi yalisogeza faida na zana haikusogeza.** Katika madarasa 19 ya hesabu ya shule za umma za Brazil, wanafunzi waliokuwa wakifundishwa na walimu waliopata mafunzo walifanya vizuri zaidi ya kikundi cha kudhibiti, lakini kuongeza mfumo wa AIED-U kwenye mafunzo hayo hakukuzalisha faida yoyote zaidi ya kujifunza, na mzigo wa kazi wa mwalimu ulihusiana hasi na faida ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Hitimisho:** uzito wa ushahidi unaunga mkono **faida za kujifunza za wastani, za masharti, na zinazotegemea ubuni** kutoka kwa AI — halisi wakati AI imepangwa kufundisha na kusaidia mwanafunzi badala ya kujibu, yenye ulinzi, na imeunganishwa na vipimo vya matokeo visivyosaidiwa, na hazipo au hasi wakati inachukua nafasi ya juhudi za mwanafunzi mwenyewe. Hii ndiyo sababu faida za kujifunza kama matokeo zinapaswa kupimwa kwa vyombo sahihi, vinavyostahimili AI, na kwa nini [[ai-ed-evaluation]] huunganisha madai ya ufanisi na uchanganuzi wa [[research-methods-aied|mbinu]].
-
 
 - **Ualimu wa AI unaweza kulingana na ualumu wa mtaalam wa binadamu katika faida za mtihani sanifu.** Katika tathmini ya washiriki 2,383, ualimu wa AI uliochanganywa ulikuwa sawa kimahesabu na ualumu wa mtaalam wa binadamu katika faida za kujifunza za GRE (p = .015), wote wawili juu ya kikundi cha kudhibiti bila ualumu; waandishi wanapendekeza gharama kwa kila pointi ya asilimia ya faida kama kipimo cha kulinganisha walimu ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
@@ -150,65 +151,3 @@ Faida za kujifunza zinaunganisha na [[assessment-validity]] — iwapo [[assessme
 - Sajili mapema kipimo cha matokeo na ueleze iwapo kinaruhusu AI au hakisaidiwi. Mwelekeo wa ugunduzi unaweza kubadilika kwa uchaguzi huu peke yake.
 - Ripoti ukubwa wa athari dhidi ya mlinganisho uliotajwa, si dhidi ya "mbinu za jadi" kwa ujumla. Matokeo ya Benki ya Dunia yanaweza kutafsirika tu kwa sababu yanataja darasa lake la mlinganisho.
 - Tofautisha upandishaji wa utendaji na kuhamishwa kwa kujifunza kwa uwazi, kwa kuwa vyote viwili vinaashiria tiba tofauti: kubuni upya kazi dhidi ya kufundisha upya.
-
-## Dhana Zilizounganishwa
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — Maendeleo ya Nadharia katika Akili Bandia katika Elimu
-- [[self-report-measures]]
-- [[research-methods-aied]] — Mbinu za Utafiti katika AIED (sehemu ya DBR)
-- [[social-emotional-learning]] — Kujifunza Kihisia-Kijamii
-- [[student-support-and-success]] — matokeo ya kiutawala (kukamilisha kazi, alama, kudumu, kuhitimu) tofauti na faida za kujifunza
-
-## Makala Zilizounganishwa
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Katika AI inayopitia mwalimu, maandalizi yalisogeza faida na zana haikusogeza
-- [[epistemological-audit-genai-meta-analyses-2026]] — Ukaguzi wa Kiakili Muhimu wa Ushahidi wa Mapema wa Muhtasari katika Utafiti wa Kielimu wa AI ya Kizalishaji (Fütterer et al. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — Upatikanaji wa chatbot ya rejareja ulipandisha alama za mtihani bila msaada zilizodumu wiki moja (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Ualumu wa AI unashinda kujifunza kwa njia ya shughuli darasani: RCT inayoanzisha ubini mpya wa msingi wa utafiti katika muktadha halisi wa kielimu (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — kwa nini utendaji unaosaidiwa si matokeo ya kujifunza (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Ualumu wa mtandao na CAL: jaribio katika kuchukua na kujifunza
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Kufanya ualumu wa AI kuwa wenye tija: mazoezi ya hesabu ya msingi wa ufasaha
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Bofya Moja: Khanmigo katika jaribio la shule la miaka miwili
-- [[ai-literacy-assessment-misalignment]] — Tathmini ya Ujuzi wa AI: Kutofautiana kati ya Kujitangaza na Utendaji
-- [[generative-ai-reduced-study-time-math]] — Kukamilisha Haraka, Kujifunza Kidogo: AI ya Kizalishaji Ilipunguza Muda wa Kujifunza kwenye Matatizo ya Hesabu na Maarifa Wanayoyajenga
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis ya athari ya AI ya kizalishaji kwa tija na kujifunza katika upangaji wa programu
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis ya athari za uingiliaji wa ujuzi wa AI
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Msaada wa ChatGPT unazalisha faida za kujifunza zinazolingana na msaada wa mwalimu wa binadamu
-- [[generative-ai-guardrails-harm-learning]] — AI ya Kizalishaji bila vizazi vya ulinzi inaweza kudhuru kujifunza (RCT ya PNAS 2025)
-- [[absent-cognitive-baseline-2026]] — Misingi ya Kiakili Inayokosekana: Kufikiri Kuhusu Pengo la Kimuundo katika Tathmini Binafsi ya Kitaaluma ya Wanafunzi wa Chuo Kikuu wa Asili ya AI
-- [[oecd-digital-education-outlook-2026]] — Mtazamo wa OECD wa Elimu ya Kidijitali 2026
-- [[ai-changing-teaching-workflows]] — Jinsi AI Inavyobadilisha Mtiririko wa Kazi ya Walimu
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis ya roboti za kimwili zilizoboreshwa na AI za kujifunza lugha
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Tofauti ya utendaji wa papo hapo dhidi ya kujifunza kwa muda mrefu
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza ya AI ya kizalishaji: kupandikiza kazi za nyumbani kwa nje kunadhuru kujifunza
-- [[ai-assisted-collaborative-learning-model-dbr]] — Mfano wa Kujifunza kwa Ushirikiano Unaosaidiwa na AI wa DBR (ufikiri mahususi +24.1%, faida za utatuzi wa matatizo)
-- [[stanford-evidence-base-ai-k12-2026]] — AI maalum ya ualumu dhidi ya AI ya jumla
-- [[jost-llm-programming-education-learning-outcomes]] — Kutegemea LLM na alama katika upangaji wa kodu (mahusiano hasi)
-- [[genai-can-harm-teaching-rct-2026]] — AI ya Kizalishaji inaweza kudhuru kufundisha (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analysis ya GenAI na ufikiri mahususi
-- [[mujib-ai-ibl-creative-math-2026]] — AI-inayosaidia IBL na utendaji wa hesabu wa kibunifu
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — Faida za ngazi za msaada za PBL zilizoimarishwa na AI
-- [[ccct-cooperative-learning-technique]] — Mbinu ya kujifunza kwa ushirikiano iliyobuniwa na AI
-- [[scaffolding-srl-feedback-genai-human-peers]] — Faida za maoni ya kujidhibiti yaliyo na ngazi za msaada
-- [[learner-ai-interaction-patterns-oop]] — Miundo ya mwingiliano na faida za kujifunza katika OOP
-- [[ai-feedback-critical-thinking-writing-2026]] — Maoni ya AI na ufikiri mahususi katika uandishi
-- [[pedagogy-ai-mistakes]] — Mbinu za Kufundisha za Makosa ya AI: Kukuza Ufikiri Mahususi (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Viwango vya Ufikiri wa Kikokotozi na Masaidi wa Kodu ya AI (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: EdTech ya adaptifu/AI inapandisha kujifunza ~0.125 sd
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT katika Elimu: Athari Inayotafuta Sababu (ukosoaji wa kulinganisha vyombo vya habari wa vipimo vya faida)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: athari za faida za kujifunza za AI zilizorekebishwa kwa upendeleo ~1/3 ya ukubwa ulioripotiwa
-- [[oneill-presumed-effective-meta-analysis-2026]] — Dhaniana Kuwa na Ufanisi: ukaguzi wa meta-analysis za AIED zenye kasoro
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Muhtasari wa STEM uliodhibiti vipimo tegemezi vya athari na kupima upendeleo wa kuchapisha, lakini haukutumia tathmini ya ubora (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Meta-analysis ya ngazi ya pili ya meta-analysis 45 za AI katika elimu, yenye athari zilizorekebishwa kwa kuenea na tathmini ya ubora ya tabaka la muhtasari (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ualumu wa AI na wa binadamu unazalisha faida za kujifunza za GRE zinazolingana

@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -42,6 +43,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## מה לדעת לפני אימוץ
 
 הכל הוא [[open-source|open source]] תחת MIT וחופשי לקחת כנקודת מוצא לאוריינות AI ([[ai-literacy|AI literacy]]) מקומית או ללימוד עצמאי ([[self-directed-learning|self-directed study]]). האימוץ גדול ומהיר: בערך 270,000 כוכבים ו-23,000 פורקים כשנבדק בספטמבר 2026, עם הקומיט האחרון ב-18 בספטמבר 2026. האזהרה היא היקף. הכישורים מניחים הקשר עבודה של [[human-ai-collaboration|engineer's]], הם מאורגנים לדליים הנדסיים, פרודוקטיביות, מיושנים ובעיצומם, כך שחלק מהרשומות אינן גמורות במפורש או יצאו משימוש, וה-README מכפול כרישום לניוזלטר. התייחסו לכישורי ההוראה והחקירה כחלק הניתן-להעברה, וצפו לשכתב כל אחד מהם לפני הצגתו בפני סטודנטים.
-
-## מושגים מקושרים
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

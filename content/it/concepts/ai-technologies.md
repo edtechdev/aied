@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -80,39 +82,3 @@ Il filone tecnico è inseparabile dagli altri temi della knowledge base:
 **«Le scelte tecniche sono affare del tecnologo, non dell'educatore.»** L'inquadramento di questa pagina è che si può essere educatori eccellenti senza saper costruire un LLM, e le proprie scelte tecniche continuano a plasmare ciò che l'IA può e non può fare nella propria classe. Se un sistema fonda le sue risposte nel materiale del corso è una decisione con conseguenze pedagogiche che qualcuno deve prendere.
 
 **«Un modello più capace risolverà le lacune del campo.»** Orchestrazione, memoria e pianificazione a lungo orizzonte sono problemi architetturali anziché di capacità — l'assenza documentata è di sistemi che governano il proprio uso di strumenti nel tempo, cosa che un modello migliore non fornisce da solo.
-
-## Concetti collegati
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Articoli collegati
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Visibilità nella ricerca di 85 strumenti di IA nell'educazione STEM e ingegneristica (Terkowsky et al. 2026)
-- [[agentic-ai-education-scoping-review]] — Revisione di scoping dell'IA agentica in educazione
-- [[genai-meta-analysis-programming-learning]] — Meta-analisi dell'effetto della GenAI su produttività e apprendimento nella programmazione
-- [[cstutorbench-slm-tutors]] — Benchmark di tutoraggio con modelli linguistici piccoli
-- [[educational-llm-alignment]] — Allineare gli LLM per l'educazione
-- [[eduguard-safe-rag-llm-tutor]] — Mettere in guardrail i tutor LLM basati su RAG
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicurezza e danni dei tutor di IA
-- [[elbench-education-llm-benchmark-2026]] — Benchmark di LLM per l'educazione
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Robot sociale generativo Teachy Mini
-- [[benzion-ai-physics-simulations-virtual-lab]] — Simulazioni di fisica generate da LLM per la classe

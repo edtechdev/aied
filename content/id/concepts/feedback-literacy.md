@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +51,6 @@ Literasi umpan balik umumnya dirumuskan sebagai seperangkat kapabilitas yang sal
 ### Bagaimana literasi umpan balik muncul dalam penelitian
 
 - **Literasi umpan balik sebagai moderator nilai umpan balik AI:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] menunjukkan bahwa literasi umpan balik memoderasi kaitan antara penerimaan ChatGPT dan [[self-regulated-learning]]: siswa dengan literasi lebih kuat merasakan manfaat SRL lebih besar dari umpan balik AI, sementara siswa berliterasi lemah menunjukkan efek minimal atau negatif ([[cognitive-offloading|Ketergantungan Berlebih]]). Literasi umpan balik adalah syarat batas bagi kemampuan siswa "memaknai" umpan balik AI.
-
 
 - **Literasi umpan balik sebagai jalur dari penggunaan GenAI ke berpikir kritis:** pada 421 mahasiswa sarjana Tiongkok, kaitan penggunaan GenAI dengan berpikir kritis [[self-report-measures|yang dilaporkan sendiri]] berjalan hampir seluruhnya melalui literasi umpan balik GenAI (β=0.185, 71.98% dari efek total), dan jalur itu menguat seiring naiknya berpikir reflektif (indeks mediasi termoderasi = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
@@ -97,50 +98,3 @@ Menindaklanjuti umpan balik tidak sama dengan memperbaiki artefak. Di antara 22 
 - **"Umpan balik AI memperbaiki berpikir kritis secara langsung."** Pada **421 mahasiswa sarjana Tiongkok**, kaitan penggunaan GenAI dengan berpikir kritis [[self-report-measures|yang dilaporkan sendiri]] **berjalan melalui literasi umpan balik**. Literasi itulah mediatornya, sehingga intervensi yang menambahkan umpan balik AI tanpa membangun kapasitas membacanya menangani suku yang salah.
 - **"Literasi adalah prasyarat, bukan hasil."** Sebuah **panel random-intercept tiga gelombang atas 399 mahasiswa sarjana Tiongkok** menemukan literasi umpan balik AI memprediksi keterlibatan agentik **yang lebih belakangan** (**β = 0.222**), sehingga lingkarnya berjalan dua arah. Ia bersifat dinamis alih-alih gerbang yang dilewati sekali.
 - **"Keterlaksanaan adalah yang membuat umpan balik mengubah tulisan."** Sepanjang tiga siklus umpan balik-revisi menulis di **dua kelas utuh yang masing-masing berisi 48 siswa**, **pemahaman adalah dimensi** yang membawa hasil revisi. Umpan balik yang tak dapat diurai siswa tidak membaik dengan membuatnya lebih mudah dilaksanakan.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Langkah penilaian kritis yang dibangun rangkaian ini ke alur kerja
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Artikel terkait
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Literasi umpan balik AI dan keterlibatan agentik: panel random-intercept tiga gelombang (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Menghasilkan contoh karya yang dinilai rubrik untuk mengajarkan literasi umpan balik (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Pengambilan selektif tanpa perbaikan artefak: celah penerjemahan umpan balik (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Umpan balik AI tanpa pembingkaian guru menaikkan ambang literasi umpan balik (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Literasi umpan balik memoderasi umpan balik AI → pembelajaran teregulasi diri (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Literasi umpan balik memprediksi nilai esai dalam penulisan yang diperkaya AI (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Skala AI Feedback Literacy dan prediksi pengambilan umpan balik (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI sebagai pemungkin kerangka keterlibatan umpan balik (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Naskah literasi umpan balik dan pelatihan kalibrasi untuk penulisan berbantuan AI (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Naskah literasi umpan balik + penilai kedua dalam revisi tulisan EAP (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Alat umpan balik otomatis AI untuk mengembangkan literasi umpan balik (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Menempatkan GenAI dalam umpan balik sejawat EFL untuk melatih literasi umpan balik (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Perancah umpan balik teregulasi diri: GenAI vs. teman sebaya manusia (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Analitik pembelajaran GenAI dalam umpan balik, perspektif literasi umpan balik (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Penilaian GenAI membangun literasi psikologis, umpan balik, dan AI (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Praktik dan persepsi guru atas umpan balik AI berpusat siswa
-- [[care-full-feedback-genai]] — Desain umpan balik yang penuh perhatian dengan GenAI
-- [[ai-generated-feedback-higher-ed]] — Umpan balik yang dihasilkan AI di pendidikan tinggi
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI membentuk ulang relasi antara siswa, pendidik, teman sebaya, dan materi dalam ekosistem umpan balik (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — Umpan balik AI dan berpikir kritis dalam menulis
-- [[repeated-ai-writing-feedback-semester]] — Umpan balik menulis AI yang berulang sepanjang satu semester
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang Seharusnya Menilai Karya Saya? Perspektif Siswa tentang Penilaian Tulisan Berbantuan AI yang Transparan di Pendidikan Tinggi
-
-- [[genai-use-critical-thinking-moderation-2026]] — Penggunaan GenAI ke berpikir kritis berjalan melalui literasi umpan balik GenAI, menguat seiring berpikir reflektif
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Pemahaman, bukan keterlaksanaan, yang membawa hasil revisi
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Menilai umpan balik teman sebaya dan chatbot atas draf yang sama di dalam satu tugas refleksi

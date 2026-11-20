@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -130,73 +132,3 @@ Zhang과 동료들의 종합에서 기술보다 설계가 효과를 더 크게 �
 - **"AI 수업 계획은 교사에게 시간을 돌려준다."** 무작위 배정된 초등학교의 교사들은 **도구로 주당 2.51시간을 수업 준비에 썼고 도구 없이는 3.32시간을 썼지만**, **중앙값 교사는 수업의 21%에서 40%만을 처음부터 계획했습니다**. 시간은 절약되었지만 계획이 실질적으로 더 철저해지지는 않았습니다. 절약은 재투자되지 않고 쌓였습니다.
 - **"AI와의 공동 설계는 근거가 잘 갖춰져 있다."** [[wang-teacher-ai-co-design-review-2026|학습 과제의 교사-AI 공동 설계]]에 대한 체계적 검토는 **28편의 연구에 걸쳐 그 양상을 규모 있게 확인**하며, 이는 우월한 결과를 입증한 것이 아니라 일관된 실천을 기술한 것입니다.
 - **"루브릭은 고정된 입력이다."** 루브릭은 **인간의 교수법적 의도와 기계의 추론 사이의 매개 인터페이스**로 기능합니다. 평가 기준을 **수정 가능한** 것으로 다루는 것이 그 도구가 교육자의 의도를 실어 나르게 합니다. 고정된 루브릭은 기계의 기본 틀 짓기를 평가로 전이합니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-
-## 연결된 문서
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 측정된 계획 시간 절약과 함께, 교사들이 수업의 21%에서 40%만을 처음부터 계획한다는 발견
-- [[powerful-learning-with-emerging-technology-2025]] — 신기술을 활용한 강력한 학습
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
-- [[tang-chatbots-learning-design-2026]] — 학습 설계에서의 챗봇 활용: 설계자들은 콘텐츠 생성보다 결과와 교수법에 집중함 (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 경험과 AI 숙련도에 따른 수업 설계에서의 교사-AI 상호작용 양상 (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 고등교육에서의 AI: 참여와 교수법의 매개 역할
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — 생성형 AI 학습 활동을 분류하기 위한 분류 체계(경계 대상)
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI 웹 에이전트: 자율 웹 에이전트가 수업 설계를 평가하고 학생이 참여하기 전에 중도 이탈을 예측함 (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — 물리학에서 인지적으로 활성화된 AI 증강을 위한 프레임워크 AIRIS
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — 도달 범위 설계: 일곱 가지 지렛대와 AI와 홀로 남은 학생
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — '아니오'라고 말하는 것이 더 나은 영상을 만드는 때: 교육적으로 근거 있는 AI 콘텐츠 제작을 위한 이중 관문
-- [[rhaimi-productivemath-2025]] — 생산적 실패 문제 설계를 지원하는 AI ProductiveMath
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI와 수업 설계 실천에 관한 체계적 문헌 고찰 (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 튜터링 (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — 의도적으로 AI를 성가시게 만들기: AI 지원 글쓰기에서의 제약 (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — 수학에서 교육학 석사(M.Ed.)의 수업 설계 역량을 향상시키는 스마트 교실 모형과 D-T-E 루프 (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — 수학적 모형화 문제를 생성하는 AI 기반 플랫폼(ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교사-AI 공동 설계: 경향과 관점 (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차등화 집단 활동에서의 역할 구조 (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수법 설계의 주체로서의 LLM
-
-- [[zeivots-postdigital-co-design-genai-2025]] — 공동 설계에서 신뢰할 수 없는 협력자로서의 GenAI
-- [[williams-coding-curriculum-critique-2026]] — 교육과정을 코드로: "AI가 수업 설계에 남기는 흔적"에 대한 비판
-- [[chng-ai-instructional-design-2023]] — AI가 수업 설계에 남기는 흔적
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — 3수준 메타분석: GenAI는 균일한 개입이 아니라 피드백과 학습자 주도 설계를 통해 작동한다 (Zhang 등, 2026)

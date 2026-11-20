@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -88,39 +90,3 @@ Le développement est une question distincte : les mécanismes décrits ici sont
 - **« Les représentations mentales étant inobservables, les affirmations cognitives sur l'apprentissage sont des postulats. »** La reconstruction d'images à partir de l'**EEG** d'apprenants pendant des vidéos scientifiques a montré que la **fidélité de la représentation suivait la performance au test** (coefficient de régression **0.8481, R² = 0.79**). Le postulat cognitiviste de la représentation interne est mesurable, et la mesure prédisait le résultat.
 - **« Un R² élevé signifie que la représentation explique l'apprentissage. »** R² = 0.79 est une forte association entre fidélité et performance sur le même matériel. Cela n'établit pas qu'augmenter la fidélité augmente la performance, ce qui est l'affirmation d'intervention.
 - **« Les composantes de connaissances sont une fiction de modélisation commode. »** La décomposabilité est ce qui rend possibles le [[knowledge-tracing|traçage des connaissances]] et le [[cognitive-diagnosis|diagnostic cognitif]], et ces méthodes fonctionnent dans la mesure où le postulat tient. Le traiter comme une fiction écarte la raison pour laquelle ces méthodes produisent des estimations utilisables — tandis que le traiter comme un fait surestime ce qu'un modèle ajusté dit d'un esprit.
-
-## Concepts liés
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — les constats de rétention sur lesquels repose cette famille de pratiques
-
-## Articles liés
-
-- [[sim-ai-summary-memory-distortion-2026]] — Des résumés d'IA trompeurs ont modifié ce dont les adultes se souvenaient, que le résumé ait été étiqueté comme écrit par l'IA ou par un humain
-- [[cognitive-shift-ai-education]] — Le virage cognitif dans l'IA en éducation
-- [[cogtax-cognitive-taxonomy]] — Une taxonomie cognitive pour l'usage de l'IA
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Agents LLM pédagogiques ancrés dans le traçage des connaissances
-- [[nie-personavlm-long-term-personalization-2026]] — Modélisation et mémoire de l'étudiant par LLM
-- [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans l'apprentissage co-régulé
-- [[ensemble-cognition-philosophy-ai-education]] — Cognition d'ensemble : la pensée comme interaction humain-IA
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organisation de l'effort, et non son volume, suivait la charge et la frustration
-- [[crediting-assisted-work-inflates-mastery-2026]] — Les affirmations de maîtrise issues du traçage des connaissances dépendent de la manière dont le travail assisté est crédité (Srivastava 2026)

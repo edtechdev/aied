@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
+connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -84,7 +86,6 @@ Kim, Baek ও Kwak (2026) HITL-কে [[video-education|এআই-উৎপা�
 - **সহায়ক বিশ্লেষণী সহযোগী হিসেবে পুনর্বিন্যাস।** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone প্রমুখ (2026)]] মানুষ-চক্রে এআই-কে অনুমোদন-দ্বার থেকে একটি সহায়ক বিশ্লেষণী সহযোগীতে পুনর্বিন্যাস করেন, যার ভুল-শ্রেণিবিন্যাস ও সীমানা-কেসগুলো ফিল্টার করার ত্রুটি নয়, বরং মানব অর্থ-সমঝোতার ইনপুট হয়ে ওঠে। 18,883টি লেবেলযুক্ত নমুনার তাদের বাক্য-স্তরের কোডিংয়ে মডেলটি সামগ্রিকভাবে 81.94% নির্ভুলতায় নির্মাণের উপস্থিতি শনাক্ত করে কিন্তু কখনও গুণমান বা প্রাসঙ্গিকতা বিচার করেনি, তাই বিতর্কিত কেসগুলো মানব কোডবুক-পরিমার্জনায় ফিরে যায়।
 - **শিক্ষার্থী-এজেন্সি।** মানুষকে চক্রে রাখা [[agency|এজেন্সি]] রক্ষা করে এবং [[self-regulated-learning|স্ব-নিয়ন্ত্রিত শিখনকে]] সমর্থন করে, সম্পূর্ণ স্বায়ত্তশাসিত সহায়তা যে [[cognitive-offloading|অতিরিক্ত নির্ভরতা]] ঘটাতে পারে তার বিরুদ্ধে কাজ করে।
 
-
 - **শিক্ষার্থীরা নিজেরাই মানুষকে উচ্চ-ঝুঁকির প্রান্তে রাখে।** 93 জন স্নাতকের মধ্যে 81.7% গ্রেডের 40% মূল্যের চূড়ান্ত প্রবন্ধে মানব-স্কোরিং পছন্দ করেন, 93 জনের 75 জন চান এআই গ্রেডারের সহায়ক হোক, প্রতিস্থাপক নয়, এবং 69 জন চান এআই স্কোরিং সর্বদা মানব-পর্যালোচিত হোক ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli প্রমুখ (2026)]])।
 - **আস্থা ও ক্যালিব্রেশন।** স্বচ্ছ মানব-তদারকি [[trust-calibration|আস্থা-ক্যালিব্রেশনকে]] সমর্থন করে — শিক্ষার্থী ও শিক্ষক জানেন একজন যোগ্য মানুষ সিস্টেমের পিছনে আছেন।
 - **পর্যালোচনার আগে দৃশ্যমান মানদণ্ড ঐকমত্য বাড়ায়।** [[calibrating-trustworthiness-llm-education-2026|Coscia প্রমুখ (2026)]] দেখেন পর্যালোচকদের সামনে বিশ্বাসযোগ্যতা-মেট্রিক তুলে দিলে, যখন তারা LLM উত্তর তুলনা করেন, আন্তঃ-রেটার ঐকমত্য Krippendorff's alpha 0.3987 থেকে 0.4931-এ ওঠে, যেখানে আরও মাপ যোগ করলে প্রতিদান ছাড়াই সংজ্ঞানাত্মক বোঝা বাড়ে।
@@ -130,68 +131,3 @@ Kim, Baek ও Kwak (2026) HITL-কে [[video-education|এআই-উৎপা�
 - **"সিস্টেমের সুপারিশ দেখানো মানুষকে তা তদারকি করতে সাহায্য করে।"** **একটি সিস্টেমের পছন্দের উত্তর গোপন রাখা সংশোধনমূলক নয়, সুরক্ষামূলক**: এমন একটি বহু-এজেন্ট বিতর্কে যা **কখনও সুপারিশকৃত অবস্থান প্রকাশ করেনি**, এআই-এর উত্তরে ক্ষতিকর পরিবর্তন **নেমে গেছে**। প্রকাশ বিচারকে আমন্ত্রণ জানায়; গোপন রাখা বিচারকে সমর্থন করে।
 - **"মানুষ-চক্রে মানে অবশ্যই একজন মানুষ, একটি সিদ্ধান্ত।"** [[teacher-role|শিক্ষক]] এজেন্ট, TA এজেন্ট ও সহপাঠী আর্কিটাইপের একটি বহু-এজেন্ট শ্রেণিকক্ষ সিংহুয়া বিশ্ববিদ্যালয়ে মোতায়েন ছিল **500-এর বেশি শিক্ষার্থী ও 100,000-এর বেশি শিখন-রেকর্ড** নিয়ে। তদারকি ব্যবস্থার মাধ্যমে স্কেল করে, তত্ত্বাবধায়ক গুণ করে নয়।
 - **"এআই আউটপুট পর্যালোচনা স্বতঃসিদ্ধ।"** **23 জন শিক্ষাবিদের একটি অন্তঃ-বিষয়ক অধ্যয়নে** পর্যালোচনা-ভিত্তিক পদ্ধতি **প্রতিটি CTML নীতিকে উন্নত করেছে (গড় রেটিং 3.07 থেকে 3.86, p < .01)**, শিক্ষাবিদেরা উৎপাদন-দক্ষতাকে অনুকূলভাবে রেট করেছেন। পর্যালোচনা একটি দক্ষতা যা একটি কাঠামোবদ্ধ পদ্ধতির অধীনে উন্নত হয়েছে।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — পরীক্ষিত ক্রমে মানব-পর্যালোচনা কোথায় বসে, এবং কী কখনও আলাদাভাবে পরীক্ষিত হয়নি
-
-- [[automation-bias]] — মানুষ-চক্রে থাকা মানুষটি সত্যিই হস্তক্ষেপ করে কি না তা কী নির্ধারণ করে
-
-- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[student-support-and-success]] — স্বয়ংক্রিয় সহায়তা-প্রবাহের ভেতরে মানব-বিচার
-
-## সংযুক্ত নিবন্ধ
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — বিজ্ঞান শিক্ষায় জেনারেটিভ এআই-এর জন্য চার-স্তরের HITL স্থাপত্য (Zhai প্রমুখ 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — গবেষণা-যন্ত্রপাতি হিসেবে LLM আচরণ-খণ্ড যাচাইকারী কোডার (Fonteles প্রমুখ 2026)
-- [[lee-learner-question-types-ai-education-2026]] — বিশেষজ্ঞ-লেবেলযুক্ত প্রশ্ন শ্রেণিবিন্যাস: মানুষ লেবেলিং, সমৃদ্ধকরণ ও ত্রুটি-বিশ্লেষণ পরিচালনা করে (Lee, Atif ও Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — এজেন্টিক GAI কোর্স-নকশার তৃতীয় স্তর হিসেবে মানব-তদারকি ও শাসন (Ilieva প্রমুখ 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — শিক্ষার্থী-কেন্দ্রিক ITS-এর মূল্য-সংবেদনশীল নকশা (টিউটরিং-চক্রে শিক্ষার্থীরা)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — বৃহৎ-স্কেল জাতীয় লেখন মূল্যায়নে HITL এআই-সহায়িত স্কোরিং (Curi প্রমুখ 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN কাঠামো: চিকিৎসা প্রশিক্ষণে এআই কাজ-বণ্টন নতুন করে ভাবা (Tsim প্রমুখ 2026)
-- [[agentic-ai-education-scoping-review]]
-- [[becerra-aicofe-feedback-2026]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM মানুষদের মতো প্রবন্ধ গ্রেড করে না (Mathew প্রমুখ 2026)
-- [[kim-ai-andragogy-2026]] — অ্যান্ড্রাগজি সমর্থনে এআই প্রয়োগ (Kim প্রমুখ 2026)
-- [[scaffolding-systematic-reviews-2026]] — পরামর্শ ও এআই দিয়ে পদ্ধতিগত পর্যালোচনা স্ক্যাফোল্ড করা (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — এআই-সহায়িত শিক্ষক-তত্ত্বাবধানে গ্রেডিং ও ফিডব্যাক
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — এআই কি বৈচিত্র্যময় শিক্ষার্থী-প্রোফাইলের জন্য উপযুক্ত সহায়তা দিতে পারে? একটি বৃহৎ-স্কেল মূল্যায়ন
-- [[breideband-community-builder-cobi-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — ক্লিনিক্যাল সাক্ষাৎকার প্রশিক্ষণের জন্য স্ক্যাফোল্ডিং-ভিত্তিক বহু-এজেন্ট বৃহৎ ভাষা মডেল সিস্টেম মূল্যায়ন
-- [[tripartite-feedback-framework-ai-assessment-2026]] — ত্রিপাক্ষিক কাঠামো: জ্ঞানতাত্ত্বিক অবস্থান অনুসারে ফিডব্যাক সাজানো এবং এআই-সম্পৃক্তির পাঁচটি সীমানা-নীতি (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — বিশেষ শিক্ষার জন্য এআই-সহায়িত Social Story হস্তক্ষেপ: AdaptED Stories-এর নকশা
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: শিক্ষামূলক সংলাপের নিরীক্ষাযোগ্য কোডিংয়ের জন্য দাবি-ভিত্তিক স্কিমা
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — অনুভূতি শ্রেণিবিন্যাস থেকে কার্যকর ও দায়িত্বশীল ফিডব্যাকে: শিক্ষাদান মূল্যায়নে শিক্ষার্থীর NLP, 2015–2026 — একটি স্কোপিং পর্যালোচনা ও প্রমাণ-মানচিত্র
-
-- [[llm-grading-assistants-public-health-2026]] — একই LLM গ্রেডিং রিরান ভিন্ন দিনে পুনরুৎপাদিত হয় মাত্র Krippendorff's alpha 0.625-এ
-- [[when-students-prefer-ai-scoring-feedback-2026]] — স্নাতকেরা উচ্চ-ঝুঁকির কাজে মানব-স্কোরিং এবং সহায়ক হিসেবে এআই পছন্দ করেন, প্রতিস্থাপক হিসেবে নয়
-- [[student-query-demand-hybrid-ai-support-2026]] — শিক্ষার্থীরা আসলে কী জিজ্ঞাসা করে: একটি হাইব্রিড সহায়তা সিস্টেমে চাহিদা-গঠন ও স্বয়ংক্রিয়করণ-সম্ভাবনা
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — শিক্ষামূলক এআই-তে "ইন-দ্য-লুপ" পদ্ধতি নতুন করে ভাবা: একটি শিখন-বিজ্ঞান দৃষ্টিভঙ্গি
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — সিস্টেমের পছন্দের উত্তর গোপন রাখা ভুল এআই-পরামর্শে স্থগিতকরণ কমিয়েছে, সংশোধনমূলকভাবে নয় বরং সুরক্ষামূলকভাবে
-
-- [[capodieci-humanities-hil-2026]] — মানবিক শিক্ষায় মানব-যাচাই কোথায় বসে এবং প্রক্রিয়াটি কে রচনা করেছে তা আলাদা করে (Capodieci প্রমুখ 2026)
-

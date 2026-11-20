@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
+connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -50,7 +52,6 @@ La ZPD (Vygotskij) è il concetto socioculturale più ampiamente applicato nel [
 
 L'aiuto prodotto dalla macchina può cadere dentro quella zona. In uno studio randomizzato su 274 [[adult-learning|studenti adulti]] attraverso quattro materie matematiche, i suggerimenti con soluzione svolta generati da ChatGPT hanno prodotto un guadagno pre-post del 17,00% contro l'1,85% senza suggerimenti, mentre i suggerimenti scritti da tutor umani hanno prodotto l'11,62%; le due condizioni di aiuto non erano statisticamente separabili ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos e Bhandari, 2024]]). Il tasso di errore qualifica l'equivalenza: il 32% dei suggerimenti generati falliva i controlli di qualità finché il [[prompt-engineering|prompting]] di auto-coerenza non lo ha ridotto quasi a zero nelle tre materie algebriche e al 13% in statistica. Un altro più competente che sbaglia una volta su tre resta comunque un agente mediatore, ed è per questo che il contributo della macchina va verificato prima che chi apprende vi costruisca sopra.
 
-
 ### L'apprendimento socioculturale nell'educazione all'IA
 
 La teoria socioculturale plasma la [[research-methods-aied|ricerca]] AIED in diversi modi distinti:
@@ -62,7 +63,6 @@ La teoria socioculturale plasma la [[research-methods-aied|ricerca]] AIED in div
 - **Supporto calibrato sulla ZPD.** I [[intelligent-tutoring|tutor IA]] dovrebbero calibrare dinamicamente l'aiuto perché cada nella zona di ciascun discente. [[stanford-evidence-base-ai-k12-2026]] mostra come i tutor sintonizzati sul livello di chi apprende superino l'assistenza generica; [[adaptive-learning|l'adattività]] e [[golrang-propact-pair-programming-2026]] rendono operativa la ZPD regolando difficoltà e suggerimenti; e quadri di principio come [[finkelstein-principled-ai-education-2025]] sostengono che il supporto debba essere ritirato man mano che la competenza cresce.
 
 - **Il segnale per uscire dalla zona è la mira, non la profondità.** Un tutor che intensifica e attenua per punto decisionale ha concesso il 65,0% delle volte dopo un turno su una decisione *diversa*, il doppio del tasso per i turni mirati alla decisione in esame, e la profondità della risposta non ordinava gli esiti ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Il ritiro presuppone uno studente che risponda: l'accoglimento è sceso dal 37,0% dopo la prima richiesta al 21,8% dopo la terza, quindi un silenzio non è prova di prontezza.
-
 
 - **Una quarta zona: ciò che il modello sa.** [[scan-framework-task-assignment-generative-ai-2025|Tsim e Gutoreva (2025)]] estendono il diagramma di Vygotskij anziché il ciclo del tutoraggio, aggiungendo alla ZPD una zona *nota all'[[generative-ai|IA generativa]]* e ricavandone quattro sotto-zone che classificano a cosa un compito debba essere assegnato: Substitute (nessuna conoscenza specifica del compito, quindi la competenza generale del modello lo sostiene), Aid (conoscenza parziale, potenziata), Complement (conoscenza sufficiente per supervisionare l'output del modello) e Non-negotiable (conoscenza sufficiente per svolgerlo da sé, quindi delegare aggiunge poco). Lo [[scaffolding|supporto]] si esprime come assegnazione del compito anziché come consegna di suggerimenti, e un ciclo [[metacognition|metacognitivo]] di valutazione, riflessione e apprendimento in tempo reale è ciò che sposta un compito fra le sotto-zone nel tempo.
 
@@ -87,34 +87,3 @@ Il filone socioculturale è strettamente accoppiato alla Teoria del [[cognitive-
 **"Aggiungere uno strumento a un gruppo ne cambia solo l'efficienza."** Ne cambia la divisione del lavoro, che è l'unità che la teoria analizza. Un gruppo che indirizza la maggior parte delle proprie domande a un agente ha ridistribuito il lavoro cognitivo anche quando l'output resta invariato.
 
 **"La cognizione distribuita implica che l'individuo non conti."** Implica che il contributo dell'individuo non possa essere letto dalla sola prestazione individuale; l'unità di analisi è il sistema di attività, non la persona isolata.
-
-## Concetti collegati
-
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[activity-theory-aied]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-
-## Articoli collegati
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM-authored hints matched human tutor hints on mathematics learning gains (Pardos & Bhandari 2024)
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Fading on what the learner's turn is aimed at, not on how deep the reply is
-

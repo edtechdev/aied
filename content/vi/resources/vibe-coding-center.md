@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -44,7 +45,3 @@ Giáo viên và [[learning-design|nhà thiết kế học tập]] ở K-12 và g
 ## Ghi chú và lưu ý
 
 Trung tâm này là hướng dẫn, không phải một sản phẩm tuân thủ: trang không đưa ra tuyên bố tương thích nào cho mục tiêu WCAG 2.2 AA của chính nó, trả lời "không" cho câu hỏi "dùng những tệp này có làm trang của tôi tuân thủ không?", và nói rằng một lần rà soát kỹ thuật không thay thế sự cho phép của nhà trường hay rà soát pháp lý. Kệ bảo mật trỏ tới axe-core, Gitleaks, ZAP và Playwright; đó là tài liệu tham chiếu chứ không phải phần mềm đi kèm, và những công cụ xâm nhập chỉ dành cho một mục tiêu dùng một lần hoặc được cho phép rõ ràng. Việc đọc không cần tài khoản. Dựng lại các trang HTML cần Python và `markdown-it-py`, một phụ thuộc lúc dựng chứ không phải phụ thuộc của người truy cập. Kho mã theo giấy phép MIT, còn hình ảnh của bên thứ ba và các dự án được liên kết giữ điều khoản riêng, ghi trong `CREDITS.md`.
-
-## Khái niệm liên quan
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

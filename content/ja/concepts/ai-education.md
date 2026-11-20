@@ -37,6 +37,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -197,55 +199,3 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 **「AIは汎用だから、どこで得られた知見もどこにでも当てはまる。」** 技術の一般性は証拠の一般性を生みません。専門分野・段階・文脈の系列が存在するのは、同じツールがそれらの中で異なる振る舞いをするからであり、境界を越えてそのまま持ち込まれた知見は外挿です。
 
 **「分野の成熟度は出版量から読み取れる。」** 量と成熟度は乖離します。研究方法の系列は、量では直らない設計上の弱点が繰り返し現れることを記録しており、枠組みは検証される速さよりも速く増えていきます。
-
-## 関連する概念
-- [[primary-education]] — 初等教育におけるAI
-- [[secondary-education]] — 中等教育におけるAI
-- [[undergraduate-education]] — 学部課程におけるAI
-- [[graduate-education]] — 修士・博士課程におけるAI
-- [[pedagogical-patterns]] — 教育学的パターン：当該分野の教授法を具体化する実証済みの連鎖
-- [[ai-literacy]] — 最上位概念:AIを理解し、使い、評価すること
-- [[automation-bias]] — 読み手側の失敗:自動化された判断を確かめずに受け入れること
-- [[human-ai-collaboration]] — 最上位概念:人とAIがどのように協働するか
-- [[pedagogy]] — 最上位概念:教育方法と戦略
-- [[case-based-learning]] — ケースメソッド、ケース討議、対比的な事例
-- [[metaphors-and-analogies]] — メタファーがAIの理解をどう形づくり、類推が教授をどう支えるか
-- [[learning-theories]] — 最上位概念:学習がどのように起こるか
-- [[ai-technologies]] — 最上位概念:モデル・手法・システム
-- [[discipline-specific-aied]] — 最上位概念:教科領域と教育段階をまたぐAI
-- [[assessment]] — 最上位概念:AIが学習者をどう評価し、妥当性を作り変えるか
-- [[feedback]] — 最上位概念:フィードバックがどう生成され、届けられ、使われるか
-- [[stakeholders]] — 最上位概念:行為者は誰か
-- [[learners]] — 最上位概念:学習者側の概念(経験・アイデンティティ・主体性・相互作用・学習者モデル)
-- [[ai-ed-evaluation]] — 最上位概念:AIが機能するかどうかをどうやって知るか
-- [[research-methods-aied]] — 最上位概念:有効性研究の方法
-- [[governance]] — 最上位概念:制度と規制の層
-- [[educational-policy-ai]] — 最上位概念:政策・指針・実施
-- [[equity-in-ai-education]] — 最上位概念:公正さ・アクセス・包摂
-- [[learning-sciences]] — AIEDの背後にある実証研究分野
-- [[ethics]] — 教育におけるAIの倫理的側面
-- [[misconceptions]] — 人々がAIに持ち込むメンタルモデル
-- [[interpreting-and-applying-aied-research]] — 研究を読み、知見を実践に持ち込むこと
-- [[limitations-in-aied-research]] — 根拠基盤の横断的な限界
-- [[meta-analysis-systematic-review]] — レビューとメタ分析が何を明らかにするか
-- [[history-of-aied]] — この分野がどのように発展したか
-- [[philosophy-of-ai-in-education]] — 哲学的基盤
-- [[theories-and-frameworks]] — 理論と枠組みのノードの地図
-- [[theory-development-aied]] — 理論を構築し改訂すること
-- [[sensor-and-gaze-analytics]] — 最上位概念:視線、EEG、ウェアラブル信号を通じて学習者を感知する
-- [[ai-avatars-and-synthetic-instructors]] — 最上位概念:教え、指導し、シミュレートし、評価する合成された人間
-- [[civic-and-political-education]] — 教科領域:公共生活のためのリテラシー、証拠基盤は薄い
-- [[ai-assisted-educational-research]] — AI支援教育研究
-
-## 関連する記事
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — 40年にわたるAIと教育の研究の進化(AI×Edフレームワーク)
-- [[mishra-control-vs-agency-history-2025]] — 統制か主体性か:教育におけるAIの歴史
-- [[genai-higher-education-systematic-review-2026]] — 高等教育における生成的AI:125研究の系統的レビュー
-- [[stanford-evidence-base-ai-k12-2026]] — K-12におけるAIの証拠基盤:818本の論文のレビュー
-- [[genai-educational-outcomes-meta-analysis]] — 生成的AIと教育成果:包括的なメタ分析
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 中等教育の33研究:学生が出力を判断するところで伸び、道具が作業を生み出すところでは伸びない
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 修士の学生425人:準備は指導教員の支援を通じて自己効力感に届いた
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士課程の指導の倫理、フィードバック、ガバナンスに関する61資料のレビュー
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 単一群の大学院演習:支援なしのテストなしで自己主導学習の伸び
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 学生381人:倫理と自己調整における学部と大学院の隔たり

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -89,27 +91,3 @@ ai_assist:
 **“多数项目都有一份 AI 文件，就意味着 AI 治理已经到位。”** 在一项对全部 **48 个经认证** 的健康信息学与健康信息管理硕士项目的环境扫描中，**40 个（83%）** 至少有一份公开可得的 AI 文件，但该发现的标题是指导，而不是政策。一套已发布的建议并不构成治理机制：它既没有指派责任，也没有规定系统失效时会发生什么。
 
 **“无法解释一个 AI 支持的决定的学生，就是在误用 AI。”** 另一种解释是，他们无法把自己其实做对了的那个决定讲清楚。信息技术工作中充满胜任的实践，而其理由往往是默会的；把不善表述的胜任当作不端行为，就是把一个教学问题误诊为纪律问题。它需要的是解释练习，而不是一条政策。
-
-## 关联概念
-
-- [[cs-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[vocational-education]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[governance]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## 关联文章
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

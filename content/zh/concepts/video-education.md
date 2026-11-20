@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,35 +92,3 @@ ai_assist:
 **"把教师克隆成虚拟形象就能规模化人类在场。"** 它规模化的是产出，并改变了被交付的东西。从教师克隆而来的 AI 虚拟形象可以大规模生成视频，但它们也会触发恐怖谷式的不适，并引发横跨环境影响、劳动与[[academic-integrity|诚信]]的[[ethics|伦理]]异议。被规模化的在场是对这位教师的一种模拟，而代价附着于这一模拟之上。
 
 **"为一堂课生成许多变体就是个性化。"** 变体数量是一个产出指标，而不是教学指标。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]从 31 场研究生讲座出发，为医疗、金融、能源与一般受众生成了 209 个视频，这证明了流水线的能力；是否有任何变体匹配了某位学习者的需求，是生成数量无法回答的另一个问题。
-
-## 关联概念
-
-- [[online-teaching-and-learning]] — 视频作为线上与混合教学的核心媒介
-- [[generative-ai]] — AI 生成与个性化视频的引擎
-- [[personalized-learning]] — 个性化作为 AI 视频吸引力的驱动者
-- [[adaptive-learning]] — 自适应视频生成与节奏
-- [[multimodal]] — 结合视觉、音频与文本模态的视频
-- [[learning-analytics]] — 对视频参与度与注意力的分析
-- [[student-engagement]] — 视频个性化旨在提升的参与度
-- [[pedagogical-agent]] — AI 化身/主讲者作为虚拟教学智能体
-- [[llm]] — 支撑脚本与视频生成的大语言模型
-- [[trust]] — 学习者对 AI 主讲者与内容的信任
-
-## 关联文章
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke：规模化生成 MOOC 质量的行业个性化讲座视频（Puech 等 2026）
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT 生成的视频内评论：熵时机、与人类评论的质量差距（Wang、Du 与 Jin 2026）
-- [[personalized-ai-generated-videos-preference-2026]] — 学生偏好个性化 AI 生成视频，胜过未个性化的人类录制视频（Tomlinson 等 2026）
-- [[ai-generated-instructional-videos-computing-ed]] — 计算教育中学生对 AI 生成教学视频的认知/偏好
-- [[ai-video-dual-gatekeeping-2026]] — 双重把关以生成有教学基础的 AI 视频
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint：自适应教学视频生成
-- [[engagement-assessment-video]] — 视频学习中的参与度评估
-- [[savvy-student-attention-video-learning]] — 面向视频学习的学生注意力可视化
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — 化身身份如何在 AI 中介学习中塑造认识论信任
-- [[bilingual-llm-lecture-companion-srl-2026]] — 面向自我调节学习的双语 LLM 讲座伴侣
-- [[adhd-video-segmentation-computing-education]] — 面向个体差异的时序视频分段
-- [[ai-psychotherapy-training-avatars]] — 心理治疗培训中的 AI 化身
-- [[gemini-lualatex-physics-video-transcription-2026]] — 把物理讲座视频转写为可及的文本
-- [[pivot-generative-video-tutors-stem-2026]] — 从内容生成到学习支持：面向 STEM 学习的教学引导式生成式视频导师
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — 看那边！AI 旁白幻灯片的动态视觉引导
-

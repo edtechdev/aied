@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -49,7 +50,3 @@ ai_assist:
 名称変更は完了した話ではなく、進行中の移行です。Google は 2026 年 9 月に、Skills が Gems に取って代わると発表し、Gems のサポートは段階的に終了します。個人アカウントは 2026 年 11 月、Workspace のビジネス・エンタープライズ・非営利のお客様は 2027 年 3 月、Workspace for Education のお客様は 2027 年 6 月です。Google によれば、既存の Gems は自動的に Skills へ移行し、現在 Skills は Gemini のプロンプトバーに `/` と名前を入力して実行します。このサイトのリンクは今も `/gem/` のパスを指しているため、変換が進むにつれてブックマークがリダイレクトされたり切れたりする可能性があります。コースに入れる前に、プロンプトが開くことを確認してください。
 
 採用を決める際には、アクセスに関する二つの事実を押さえておく必要があります。Skills は Google AI の各サブスクリプション階層で利用できますが、現在の展開は 18 歳以上が対象で、18 歳未満は「近日提供」とされています。また、プロンプトをコピーするには Google アカウントと Gemini が必要で、学生が匿名で使えるツールではありません。このライブラリは厳選されたプロンプトの集合であり、検証済みの指導法ではありません。各項目は出発点で、その出力は確認が必要であり、コレクションの品質に関する主張はキュレーター自身のものです。オープンライセンスは明示されていないため、プロンプトは Gemini 内でコピーして調整できますが、機関がフォークして自前でホストできるものではありません。
-
-## 関連する概念
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

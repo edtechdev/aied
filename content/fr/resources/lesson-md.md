@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -39,8 +40,3 @@ Rédigez une leçon dans n'importe quel éditeur de texte et importez-la dans to
 ## À qui cela s'adresse
 
 Aux concepteurs pédagogiques et créateurs de cours qui veulent que leur contenu survive à un changement d'outil, aux fournisseurs d'eLearning qui veulent un format d'import et d'export que leurs utilisateurs comprennent déjà, et à quiconque construit une création assistée par IA au-dessus d'un format lisible. Parmi les contributeurs figure Dan Bashaw de LXD Integral, et le format possède un journal des modifications public allant jusqu'à la v1.8.
-
-## Concepts liés
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

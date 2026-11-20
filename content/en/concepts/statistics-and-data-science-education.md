@@ -16,6 +16,8 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 > **Statistics and data [[science-education|science education]]** — teaching learners to reason about data: framing a question, planning a study, collecting and inspecting data, analyzing it, and communicating what the evidence will and will not support. In [[ai-education|AI in education]] it shares the [[math-education|math education]] focus on reasoning with right and wrong answers, but its signature pedagogy turns on the **material**: the dataset, the chart, the code. That is why the distinctive AI question here is rarely "can the model explain a concept" and more often "can it produce or scaffold the artifact the lesson runs on". Those artifacts are a synthetic dataset with knowable structure, a tactile chart a blind student can read, a practice question whose stated difficulty is honest, an R tutor that withholds the answer. Because the artifact can now be generated, the discipline's central risk is that generated artifacts carry claims nobody validated.
@@ -80,26 +82,3 @@ Scaffolding quality matters independently of access. An experimental comparison 
 - **"Satisfaction and perceived benefit indicate a data-science AI tool is working."** Students used LLMs heavily for debugging and concept questions and **reported high satisfaction, while their perceived deep-learning benefit declined over the term**. Satisfaction held and the self-assessed learning trajectory fell, so neither figure alone is the outcome.
 - **"An unrestricted model is as good as a guided tutor."** The gain came from scaffolding training — explicit instruction in stepwise hints and verification — which beat plain access to the same model on independent performance and on self-assessment calibration. The guidance, and the training in how to use it, carried the effect.
 - **"Guarding against answer-giving is enough."** A course-specific tutor on a hosted API, instructed to nudge rather than supply answers, was adopted by **76% to 84%** of psychology undergraduates during exam-relevant weeks of a semester-long R programming course. That is adoption, not evidence that the guarding produced learning: prompt-level guarding is one lever among several and does not by itself produce learning.
-
-## Connected Concepts
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Connected Articles
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentic tool generating inspectable synthetic datasets for personalized statistics practice
-- [[ai-tutor-statistical-programming-adoption-2026]] — Purpose-built R tutor; adoption tracked the exam calendar
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM difficulty labels track Bloom's levels, not student performance
-- [[tactile-statistical-graphs-accessibility]] — Open-source pipeline generating tactile statistical charts with teacher review
-- [[guided-llm-scaffolding-independent-learning]] — Guided scaffolding beat unrestricted access on independent performance
-- [[lund-socially-accountable-data-science-xai-2026]] — Embedding social accountability in the technical data science curriculum

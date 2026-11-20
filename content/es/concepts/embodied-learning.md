@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -64,33 +66,3 @@ El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-
 - **«El cuerpo es lo que hace funcionar el aprendizaje encarnado.»** Un metaanálisis de **11 estudios de RALL (N = 595, g = 0,83, I² = 84,4%)** encontró que **la morfología del robot, la modalidad, la autonomía y el rol social no moderaban** los resultados de [[language-learning|aprendizaje de una segunda lengua]]. Las características de encarnación no eran el ingrediente activo, y la heterogeneidad era lo bastante alta (I² = 84,4%) como para que el efecto agrupado describa un conjunto muy heterogéneo de intervenciones.
 - **«Un efecto grande resuelve el mecanismo.»** g = 0,83 con 595 participantes en 11 estudios es una señal real y no identifica qué la produjo. Como las características del diseño no moderaron el efecto, el mecanismo plausible reside en la actividad pedagógica y no en el hardware, lo que cambia en qué invertir.
 - **«La encarnación no se puede medir, así que queda en lo teórico.»** El seguimiento corporal puede convertir la regulación en una **señal medible**: en una simulación de fotosíntesis en realidad mixta donde etiquetas de movimiento desplazaban a los agentes del estudiantado por un modelo proyectado, una canalización de LLM etiquetó **470 segmentos** de conducta autorregulada. El constructo es operacionalizable incluso cuando es difícil de definir.
-
-## Conceptos conectados
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — la modalidad que intenta explotar la encarnación directamente
-
-## Artículos conectados
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulación de fotosíntesis con seguimiento de movimiento analizada con una canalización de LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia encarnada (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper y la lengua de signos
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Metanálisis del aprendizaje de lenguas asistido por robots corpóreos y mejorado con IA
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — La IA como facilitadora después de modelos construidos a mano: una IA lingüística no puede seguir la indagación encarnada (Tufino y Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — La IA en el aprendizaje encarnado sobre todo observa: roles de detección en el 62,5% de las etiquetas de rol, y ningún sistema revisado fusionó flujos multimodales mientras el estudiantado lo usaba (Kim y Han 2026)

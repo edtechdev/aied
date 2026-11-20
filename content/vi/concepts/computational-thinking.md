@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -77,54 +79,3 @@ Tư duy tính toán là nền tảng nhận thức chung bên dưới [[ai-liter
 - **"Hỗ trợ AI san bằng sân chơi ở các bối cảnh thiếu nguồn lực."** Nó có thể, dưới những điều kiện nhất định. Một **bán thực nghiệm 14 tuần với 103 sinh viên đại học năm thứ nhất ở Nigeria** phát hiện học tập dựa trên vấn đề có AI hỗ trợ (ChatGPT và Teachable Machine) tạo ra thu hoạch, và AI như một "bạn học có năng lực hơn" mang CT ở nơi các nguồn cung khác vắng mặt. Nhưng đó là một phát hiện về một can thiệp có cấu trúc, không phải một thuộc tính của việc đưa cho học sinh một [[conversational-ai|chatbot]].
 - **"LLM không thể đánh giá CT một cách đáng tin cậy."** [[llm-computational-thinking-physics-2026|Nghiên cứu đánh giá CT trong vật lý]] phát hiện LLM có thể **phản chiếu người chấm con người** khi chấm điểm sự phát triển ở các Thực hành Dữ liệu và Thực hành Giải quyết Vấn đề Tính toán trong các khóa có sĩ số lớn. Trở ngại cho việc mở rộng đánh giá CT từng là năng lực người chấm, và ràng buộc đó đang mềm đi — điều làm dịch chuyển vấn đề thiết kế sang việc liệu công cụ có đang đo CT hay đang đo sự tuân thủ.
 - **"CT là một kỹ năng lập trình mà robot học tình cờ dạy."** Một **[[meta-analysis-systematic-review|tổng quan hệ thống]] 95 nghiên cứu** xác nhận robot học nuôi dưỡng CT, sáng tạo và giải quyết vấn đề, nhưng cũng cho thấy **bối cảnh điều tiết kết quả**: cách triển khai [[game-based-learning|dựa trên trò chơi]] phù hợp với các bối cảnh phi chính quy trong khi trò chơi hóa khác đi trong bối cảnh chính quy. CT là một tập hợp thực hành chuyển giao không đồng đều, nên khẳng định về chuyển giao cần đến thiết kế nhiệm vụ mà nó thực sự đã dùng.
-
-## Khái niệm liên quan
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Bài viết liên quan
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Bài kiểm tra Tư duy Tính toán trong Đào tạo AI (CTAT)
-- [[computational-thinking-aica-2026]] — Mức tư duy tính toán và trợ lý lập trình AI (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Quyền tác giả mô hình: lý thuyết và đo lường cho việc học qua kiến tạo với GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: khuôn khổ chủ nghĩa kiến tạo cho việc kiến tạo hiện vật
-- [[astor-computational-thinking-meta-review-2026]] — Tổng quan tổng hợp CT của 128 tổng quan hệ thống
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Tổng quan hệ thống về CT qua robot học ở mẫu giáo
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: Một quy trình tái lập được cho các nhà khoa học không lập trình để triển khai các mô hình AI đã công bố

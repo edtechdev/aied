@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -40,8 +41,3 @@ ai_assist:
 ## 이 자료의 기원
 
 2024–2025년 듀크 대학교에서 AI Ethics Learning Toolkit으로 시작되어, 교수·학습 센터와 듀크 도서관에 걸친 학부생, 사서, 교수진, 기술자들이 공동 설계했으며, 피드백과 재설계를 거쳐 Hannah Rozear, Remi Kalir, Aria Chernik에 의해 재출범했습니다.
-
-## 연결된 개념
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

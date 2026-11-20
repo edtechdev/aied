@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -58,7 +60,6 @@ ai_assist:
 স্কুলের বছরগুলোর ভেতরে মাপা ফলাফল ব্যান্ডভেদে তীক্ষ্ণভাবে বদলায়। প্রাথমিকে এটি বিষয়-শিক্ষা: [[conversational-ai|জেনএআই চ্যাটবট]] ব্যবহার করা 97 জন চীনা তৃতীয় শ্রেণির শিক্ষার্থী [[science-education|বিজ্ঞান অনুসন্ধানে]] সার্চ-ইঞ্জিন নিয়ন্ত্রণ দলের চেয়ে ভালো সমস্যা গড়ে তুলেছিল (t = 2.47, p = 0.015) ([[dai-chatbots-problem-posing-primary-2026]])। মাধ্যমিকে এটি প্রায়শই অর্জনের বদলে মনোভাব হয়ে যায়: 508 জন তাইওয়ানি জুনিয়র হাই শিক্ষার্থীর একটি জরিপে দেখা গেল, অভিজ্ঞতামূলক আকর্ষণ আনন্দের মধ্য দিয়ে [[generative-ai|ChatGPT]] দিয়ে গীতিকবিতা শেখার ব্যবহার-ইচ্ছা গড়ে তোলে (XM → PEOU β = 0.630; PE → ATU β = 0.369), যার 81.5% বিনামূল্যের স্তরে—একটি প্রবেশ-[[equity-in-ai-education|সমতা]]র তথ্য যা প্রযুক্তি-গ্রহণযোগ্যতার ফলাফলের ছদ্মবেশে লুকানো ([[chatgpt-music-education-junior-high-2026]])। মাধ্যমিকে জ্ঞানভাণ্ডারের সবচেয়ে বড় শিক্ষা-সতর্কবার্তাও আছে: 7–12 শ্রেণির 26,811 জন চীনা শিক্ষার্থীর মধ্যে বাড়ির কাজের নম্বর 18% বেড়েছিল আর সম্পন্ন করার সময় 30% কমেছিল, অথচ [[summative-assessment|বন্ধ-বই পরীক্ষার]] নম্বর ছয় মাসের মধ্যে প্রায় 20% নেমে গিয়েছিল, যা কেন্দ্রীভূত ছিল সেই প্রায় 81%-এর মধ্যে যাদের আচরণ বাড়ির কাজ আউটসোর্সিংয়ের ইঙ্গিত দেয় ([[stromberg-generative-ai-learning-penalty-secondary-2026]])।
 
 বিশ্ববিদ্যালয়ের বছরগুলো আবার ভাগ হয়। স্নাতক শিক্ষা বাহ্যিক বিচারের অধীনে কোর্সওয়ার্ক: একটি সংখ্যালঘু-সেবা প্রদানকারী R1 বিশ্ববিদ্যালয়ের স্নাতক লেখকদের মধ্যে [[ai-literacy]] পূর্বানুমান করেছিল একজন শিক্ষার্থী *কোন ধরনের* [[llm]]-নির্ভরতায় আছে, কতটা ব্যবহার করে তা নয় ([[llm-reliance-types-undergrad]])। স্নাতকোত্তর শিক্ষা গবেষণা-প্রশিক্ষণ, যেখানে ফলাফল কর্মদক্ষতা থেকে গঠনের দিকে সরে যায়। 420 জন জ্যোতির্বিজ্ঞান ডক্টরাল ও পোস্টডক্টরাল গবেষকের মধ্যে এআই-নির্ভরতা গবেষণার [[agency|স্বায়ত্তশাসনের]] সঙ্গে ঋণাত্মকভাবে সম্পর্কিত ছিল (r = −.355) এবং [[self-efficacy]]-এর সঙ্গেও (r = −.321), আর উদ্ভাবনী আচরণের পরোক্ষ পথটি বেশিরভাগই স্বায়ত্তশাসনের মধ্য দিয়ে গিয়েছিল (−.115), স্ব-কার্যকারিতার মধ্য দিয়ে নয় (−.069); তত্ত্বাবধায়ক সমর্থন স্বায়ত্তশাসনের সঙ্গে ঋণাত্মক সম্পর্ক দুর্বল করেছিল (B = .077, p = .020) ([[ai-mediated-research-agency-formation-2026]])। একজন ডক্টরাল শিক্ষার্থীকে যে বিচারবোধ এআই-নির্ভরতা ক্ষয় করে বলে দেখা যাচ্ছে তার ভিত্তিতে বিচার করা হয়; স্নাতক শিক্ষার্থীকে নয়। দুজনকে একসঙ্গে 'উচ্চশিক্ষা'-র মধ্যে ঢুকিয়ে দেওয়া এটাই লুকায়।
-
 
 ## প্রমাণ কোথায় ঘন, আর কোথায় পাতলা
 
@@ -97,30 +98,3 @@ ai_assist:
 **"একটি [[intelligent-tutoring|অভিযোজিত টিউটর]] প্রতিটি স্তরকে সমানভাবে সাহায্য করে।"** চলকটিকে পৃথক করা তুলনাটি শিক্ষণীয়: একই দ্বিতীয় শ্রেণির গণিত টিউটরের দুটি সংস্করণ—অভিন্ন বিষয়বস্তু, ইন্টারফেস, প্রতিক্রিয়া ও কথ্য সংকেত—**কেবল এই পার্থক্যে** যে কাজের নির্বাচন একটি বায়েসীয় [[knowledge-tracing]] মডেল অনুসরণ করে কি না। অভিযোজিত কাজ-নির্বাচন একটি স্তর-সংবেদনশীল হস্তক্ষেপ, আর তার সুবিধা নির্ভর করে সেই স্তরের শিক্ষার্থীরা অভিযোজনের উপর কাজ করতে পারে কি না তার উপর।
 
 **"উচ্চশিক্ষায় ঘনীভূত প্রমাণ নিচের দিকে সাধারণীকৃত হয়।"** হয় না, আর সাহিত্যের বণ্টনটি সুবিধার বদলে সতর্কবার্তা। প্রমাণ কোথায় ঘন আর কোথায় পাতলা তা গবেষণা-অর্থনীতির বৈশিষ্ট্য, এআই কোথায় সবচেয়ে বেশি ব্যবহৃত হয় তার নয়; তাই বিশ্ববিদ্যালয়ের নমুনা থেকে K-12 নিয়ে করা দাবি সেই সীমানা পেরিয়ে একটি অনুমান-প্রসারণ যা সবচেয়ে বেশি গুরুত্বপূর্ণ।
-
-## সংযুক্ত ধারণা
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## সংযুক্ত নিবন্ধ
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — দ্বিতীয় শ্রেণির গণিতে অভিযোজিত বনাম অ-অভিযোজিত টিউটরিং (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — প্রাথমিক বিজ্ঞানে তৃতীয় শ্রেণির শিক্ষার্থীদের সঙ্গে জেনএআই চ্যাটবট ও সমস্যা-গঠন
-- [[chatgpt-music-education-junior-high-2026]] — গীতিকবিতা শেখায় ChatGPT-এর প্রতি জুনিয়র হাই শিক্ষার্থীদের মনোভাব (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — মাধ্যমিক নিম্নস্তরের জন্য নকশা করা এআই-সংযুক্ত LMS, সঙ্গে একটি প্রস্তাবিত দীর্ঘমেয়াদি গবেষণা
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — চীনা মাধ্যমিক শিক্ষায় জেনারেটিভ এআই-এর শিক্ষা-ক্ষতি (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — স্নাতক লেখকদের মধ্যে LLM-নির্ভরতার চার ধরন (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — প্রকৌশল শিক্ষার্থীদের জন্য গ্রন্থাগারিক সমর্থনসম্বলিত এআই-সহায়ক সেমিনার প্ল্যাটফর্ম
-- [[ai-mediated-research-agency-formation-2026]] — ডক্টরাল ও পোস্টডক্টরাল প্রশিক্ষণে এআই-নির্ভরতা, স্বায়ত্তশাসন ও উদ্ভাবন (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — আফ্রিকান উচ্চশিক্ষায় তথ্য-গোপনীয়তা নিয়ে অংশীজনের মতামত (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — ইউক্রেনজুড়ে শিক্ষা-ব্যবস্থাপকদের এআই গ্রহণের প্রস্তুতি (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — বৃত্তিমূলক নকশা শিক্ষার্থীদের জন্য এআই-সক্ষম নিমজ্জনমূলক PBL (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — প্রাক-প্রাথমিক প্রেক্ষাপটে এআই ব্যবহারে শিক্ষকদের ইচ্ছা
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — বয়স-উপযোগী এআই চ্যাটবটের প্রতি শিশুদের মনোভাব

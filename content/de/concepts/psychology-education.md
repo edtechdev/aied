@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -99,27 +101,3 @@ Wenn ein Beitrag „Scaffolding“ oder „kritisches Denken“ sagt, fragen Sie
 - **„KI in der Psychologieausbildung betrifft vor allem klinische Werkzeuge.“** Der größte Anteil der Studien betrifft [[writing-education|Schreiben]], Feedback und Lerngewohnheiten; klinische Werkzeuge sind ein kleiner, junger und eigenständiger Strang.
 - **„Reliable generierte Items sind brauchbare Items.“** Reliabilität ohne Abdeckung höherstufiger Lernergebnisse ergibt einen gut gemessenen Test des Falschen.
 - **„Auszubildende sind entweder für oder gegen KI.“** Die Latente-Klassen-Evidenz zeigt vier oder mehr Profile pro Domäne, die sich nach Werkzeug unterscheiden.
-
-## Verbundene Konzepte
-
-- [[social-sciences-education]] — die Clusterseite, in der diese Disziplin liegt, und wo die soziologische Evidenz zu finden ist
-- [[humanities-education]] — die benachbarte interpretative Disziplin mit demselben Prüfungsproblem
-- [[ai-literacy]] — das Konstrukt, das die meisten Studien zur Psychologieausbildung eigentlich messen
-- [[assessment-validity]] — das Kriterium für jede KI-gestützte Prüfungsentscheidung
-- [[feedback]] — der Mechanismus, um den die stärksten Studien hier kreisen
-- [[self-efficacy]] — die Disposition, die die weitere Nutzung mediiert
-- [[student-ai-interaction]] — wie Studierende das Werkzeug tatsächlich nutzen, im Gegensatz zu dem, was sie sagen
-
-## Verbundene Artikel
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT ersetzt Peer-Assessment in einer Psychologie-Medienaufgabe im zweiten Studienjahr
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 generierte Items: reliabel, und 73,75 % Erinnern
-- [[ai-tutor-statistical-programming-adoption-2026]] — Präregistrierte Längsschnittstudie zu R-Tutor in einem Psychologie-Statistikkurs
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o als Klient: weniger Angst, zustimmend und kulturell flach
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — Drei bis vier latente Klassen in jeder Domäne
-- [[mental-health-literacy-students-llms-2026]] — 150 Psychologiestudierende gegen vier LLMs bei 30 Aussagen
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 Studierende, sechs Vignetten und die Frage, ob Kompetenz Urteilen vorhersagt
-- [[critical-genai-use-predictors]] — Wissen, epistemische Orientierung und Werte sagen kritische Nutzung vorher
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Vertrauen und Selbstwirksamkeit tragen die weitere Nutzung; Angst bremst sie
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback-Literacy als einziger signifikanter Prädiktor der Aufsatznote
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 Studierende, zwei Jahre auseinander: Nutzung verdoppelt, Betrugswahrnehmung gesunken

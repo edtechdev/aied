@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -105,35 +107,3 @@ Pia inaleta hatari ya majina inayostahili kutajwa wazi. **Kujitathmini kwa AI** 
 **"Kuongeza mzunguko wa maoni ya AI huboresha tathmini binafsi kiotomatiki."** Mzunguko wa [[feedback|maoni]] hubadilisha kile mwanafunzi anacholinganisha nacho, jambo ambalo linaweza kuboresha usawazishaji na pia kuwaunganisha kwenye hukumu ya mfumo. Utafiti wa ulinganisho hapa (**wanafunzi 118 wa shahada ya kwanza, 56 katika kundi la GenAI na 62 katika kundi la wenzi**, mizunguko mitatu katika muhula mmoja) umeundwa mahsusi kujaribu kama mzunguko au ulinganisho wa kijamii ndio unaofanya kazi, na jibu si "mzunguko, kwa kuwa ni mzunguko".
 
 **"Tathmini binafsi ni mbadala mwororo wa mtihani."** Ni lengo tofauti. Tathmini binafsi hukuza ujuzi wa udhibiti wa kuhukumu kazi yako mwenyewe; mtihani hupima uwezo unaohukumiwa. Utafiti unaobadilisha mmoja kwa mwingine unachanganya uwezo wa kutathmini utendaji na utendaji wenyewe.
-
-## Dhana Zilizounganishwa
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Tathmini binafsi iliyowekwa katika kituo cha mfumo wa ukuaji unaojiongoza (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Nyenzo za ujuzi wa AI zilizopangwa kulingana na kimaendeleo, pamoja na upimaji wa kukubalika na uhalali (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Kuunganisha maoni ya AI na tathmini binafsi ya marika, mkufunzi, na mwanafunzi (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Kwa nini maoni hayapaswi kutegemea uhalali wa hoja uliotathminiwa na mfano mwenyewe (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Dodoso la tathmini binafsi ya ujuzi wa AI la vipimo 15 lililothibitishwa kwa Madarasa 4 hadi 6, pamoja na vikomo vya metaji vya kujitangaza kwa watoto (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Vyombo 31 kati ya 33 vya ujuzi wa AI vya walimu ni vya kujitangaza, viwili vinapima maarifa kwa njia ya lengo, hakuna kinachotumia kazi za utendaji (Zainal, Mohd Matore & Maat 2026)

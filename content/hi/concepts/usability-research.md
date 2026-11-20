@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -69,26 +71,3 @@ ai_assist:
 **"जो छात्र उपकरण छोड़ देते हैं, उनमें प्रेरणा की कमी थी।"** परित्याग अक्सर उस अंतःक्रिया-लागत के प्रति उपयोगकर्ता का सही पाठ होता है जिसे डिज़ाइनर ने कभी मापा ही नहीं। चूँकि जिस उपकरण का कोई उपयोग ही न करे उसका प्रभाव नहीं हो सकता, परित्याग-दर अपने आप में एक शैक्षणिक परिणाम है।
 
 **"उपयोग-सुगम्यता परीक्षण और सीखने का मापन एक ही हैं।"** वे अलग प्रश्नों के उत्तर देते हैं और कोई भी दूसरे का विकल्प नहीं है; विफलता की विधा यह है कि किसी एक को अपनाने के लिए पर्याप्त मान लिया जाए।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## संबंधित लेख
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-संचालित कहानी सुनाने वाले ह्यूमनॉइड का उपयोग-सुगम्यता अध्ययन
-- [[rhaimi-productivemath-2025]] — ProductiveMath: एक जनरेटिव-AI ऐप की उपयोग-सुगम्यता
-- [[supplynet-visual-exploratory-learning]] — SupplyNet उपयोगकर्ता अध्ययन
-- [[anvil-ai-educational-animations]] — AI-जनित शैक्षिक एनिमेशन की उपयोग-सुगम्यता
-- [[code-anchor-multi-view-visualization]] — मल्टी-व्यू कोड विज़ुअलाइज़ेशन का सोच-व्यक्त-करने वाला अध्ययन
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN फ़्रेमवर्क और सोच-व्यक्त-करने वाला मूल्यांकन
-- [[feedback-futures-genai]] — शिक्षार्थी AI-जनित फीडबैक को कैसे संसाधित करते हैं
-- [[llm-chatbots-cs-multiple-choice]] — CS बहुविकल्पीय प्रश्नों के लिए LLM चैटबॉट
-- [[conversational-ai-agents-umbrella-review-2026]] — संवादी AI एजेंटों का अंब्रेला समीक्षा

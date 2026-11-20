@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -72,32 +74,3 @@ ai_assist:
 - Запитуйте, за чим інструмент можна оцінити, перш ніж підписувати. Якщо контракт не дозволяє доступу до результатів, даних аудиту чи деталей використання, установа купила здатність, яку не може оцінити.
 - Досліджуйте фактичне використання, а не санкціоноване, бо ці два розходяться, і несанкціоноване число несе ризик, якому ви вже піддані.
 - Ставте політику перед розгортанням там, де ще є вплив. Щойно використання стає широким, політика перетворюється на переговори з практикою, яка вже усталилася.
-
-## Пов’язані поняття
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Засніт: люди та аудиторії в освіті з ШІ (здобувачі, викладачі, проєктувальники, адміністратори, політики)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — інституційні процеси, якими керують адміністратори: консультування, зовнішній зв’язок, направлення та розподіл
-
-## Пов’язані статті
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — ШІ в освітньому керівництві: всеохопна таксономія
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Антиципаційне управління та керівництво для ШІ
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — ШІ в політиці та інституційному прийнятті рішень вищої освіти Великобританії
-- [[ai-campus-wellbeing-tools]] — Інструменти на основі ШІ для благополуччя в кампусі
-- [[genai-policies-higher-ed-computing]] — Інституційна політика щодо GenAI в обчислювальних дисциплінах
-- [[institutional-change-framework-ai]] — Рамка інституційної зміни для ШІ
-- [[edtech-privacy-deferral-2026]] — «Ми виправимо це пізніше»: освіта, ШІ та відкладання приватності студентів в EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — Екран закупівлі з чотирьох питань, обрамлений як права студентів, а не як управління ризиками

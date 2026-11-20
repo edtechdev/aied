@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -51,11 +52,3 @@ Viongozi wa programu na moduli katika elimu ya juu ambao bado wanataka maandishi
 Muundo huu haujatathminiwa kwa kiwango kikubwa. Karatasi inaeleza waziwazi kuwa hakuna sampuli, chombo au matokeo yaliyopimwa bado, na kwamba majaribio ya awali yanahitajika kujaribu iwapo zao za Hatua 1 huongeza uhakika wa mtathmini au uthabiti wa tafsiri, iwapo wanafunzi hupata ubunifu huu kuwa wa haki zaidi, na jinsi taaluma huweka kizingiti cha utoshelevu bila kugeuza Hatua 1 kuwa mtihani wa pili.
 
 Gharama mbili za kiutendaji ni za kweli. Hatua 1 inahitaji vipindi vya uangalizi na kunasa kwa usalama kwa kiwango kikubwa, na kurekodi na kutafsiri kwa lugha nyingi ni masharti ya lazima badala ya nyongeza. Na hukumu ya tafsiri imeachwa kwa makusudi kwa wale wanaoweka alama: muundo unadhania utaalamu wa kitaaluma usioweza kufanywa kiotomatiki, jambo ambalo ni dhana kuhusu wafanyakazi sawa na ilivyo dhana kuhusu ubunifu.
-
-## Dhana zinazohusiana
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

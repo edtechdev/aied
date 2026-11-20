@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -78,30 +80,3 @@ DBR은 [[learning-sciences|학습 과학]]의 대표적 방법입니다 — 학�
 **"설계 기반 연구가 작동하는 산출물을 내놓았다면 효과를 입증한 것이다."** 그것을 공동 생산한 현장에서 작동하는 설계는 지역적 실행 가능성을 입증한 것이며, 이는 효과성과 다른 주장입니다. 산출물은 그 맥락을 위해 만들어진 적응을 지니고 있고, 그것을 옮기면 가정으로 명시된 적 없는 가정들을 함께 옮깁니다.
 
 **"도구를 수정 가능한 설계 산출물로 다루는 것은 설계 기반 연구에서 벗어나는 일이다."** 그것은 설계 기반 연구의 반복적 성격을 개입이 아니라 측정에 적용한 것입니다. 이 말뭉치의 한 연구는 루브릭 자체를 산출물로 다루며 [[llm|LLM]]과의 공동 정교화를 순환했습니다. 이 확장은 도구 자체의 개발을 증거의 일부로 만들기 때문에 주목할 만합니다.
-
-## 연결된 개념
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## 연결된 문서
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI 지원 협력적 학습 모형을 위한 DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 교사 교육에서 AI 리터러시 훈련을 위한 DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — 교수 기술 통합 기준을 위한 DBR
-- [[human-centered-ai-teacher-educators-2026]] — 교사 교육자를 위한 인간 중심 AI (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Open University에서 AIDA를 구현한 여섯 건의 DBR 연구
-- [[critical-thinking-genai-scaffolding]] — GenAI 비판적 사고 비계 설정을 위한 DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — 과학 통합 AI 리터러시 교육과정을 위한 DBR (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): pre-K와 유치원을 위한 놀이 중심의 AI 리터러시 교육과정 (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수법적 설계의 에이전트로서의 LLM

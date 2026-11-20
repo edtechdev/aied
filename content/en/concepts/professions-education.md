@@ -14,6 +14,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
+connected_concepts: [discipline-specific-aied, medical-education, nursing-education, legal-education, teacher-education, design-education, libraries, stem-education, social-sciences-education, assessment-validity, authentic-assessment, professional-training]
+connected_articles: [llm-turing-test-italian-legal-exams-2026, gutowski-hurley-genai-policy-legal-education-2025, hardie-genai-nursing-scoping-review-2026, sun-llm-nursing-education-professional-identity-2026, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, genai-medical-education-transformation-review-2026, virtual-standardized-patients-osce-evaluation-2026, giancotti-data-provenance-health-ai-curricula-2026, zou-is-this-a-trap-student-teachers-genai-2026, shukla-ai-teacher-education-frameworks-review-2026, critsly-design-education-ai-critique-2026, ayinde-ai-academic-libraries-systematic-review-2026]
 ---
 
 > **Professions education** — the programs that prepare people for licensed or certified practice: medicine, nursing, law, teaching, design and librarianship. Their curricula are ordered by an external gate — accreditation, licensure examinations, supervised practice hours, portfolio review — so AI's first effect lands on the evidence chain rather than on the content. A program has to be able to show that the judgment it certifies was the candidate's, and generative AI makes the artifacts of that judgment cheap to produce. The cluster sits under [[discipline-specific-aied|AI in the disciplines]] beside [[stem-education|STEM education]] and [[social-sciences-education|social science education]], and each profession keeps its own page: [[medical-education|medical education]], [[nursing-education|nursing education]], [[legal-education|legal education]], [[teacher-education|teacher education]], [[design-education|design education]] and [[libraries|libraries]].
@@ -60,34 +62,3 @@ The professions have an advantage the disciplines lack: an external body that ca
 **"Simulation is a substitute for the practicum."** Simulation rehearses a defined scenario under controlled conditions, and the reviews find it the leading application precisely because it is bounded. What it does not supply is the unscripted judgment that supervision exists to see.
 
 **"Detecting AI use solves the certification problem."** Detection answers whether a tool was used, not whether the candidate can practice, and the nursing literature already shows programs choosing invigilation because they cannot answer the second question.
-
-## Connected Concepts
-
-- [[discipline-specific-aied]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[legal-education]]
-- [[teacher-education]]
-- [[design-education]]
-- [[libraries]]
-- [[stem-education]]
-- [[social-sciences-education]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges' and notaries' examinations against expert marking
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school GenAI policies and a governance framework
-- [[hardie-genai-nursing-scoping-review-2026]] — 103-study scoping review of applications, attitudes and ethics in nursing education
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[dabkowski-nursing-academics-genai-2026]] — Policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity and deterrence
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Stratified multi-rater evaluation of LLM-based virtual standardized patients against OSCE practice
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Health AI curricula teach ethics (80.6%) but rarely data provenance (22.2%)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, assessment literacy
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — AI in teacher education: frameworks, empirical evidence and ethics
-- [[critsly-design-education-ai-critique-2026]] — AI critique tools read process rather than output
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Adoption of AI in academic libraries: a systematic review

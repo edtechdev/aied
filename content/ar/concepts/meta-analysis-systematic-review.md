@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -123,7 +125,6 @@ ai_assist:
 
 يُظهر تحليل بعدي من أربع دراسات الدرس نفسه من جهة العيّنة الصغيرة. جمع [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor وGarcía Ortiz (2026)]] 420 طالبًا عبر أربع دراسات مضبوطة للتعلّم المخصّص القائم على الذكاء الاصطناعي في الحوسبة والهندسة وأبلغا عن *g* = 1.01، فاصل ثقة 95% من 0.33 إلى 1.68. وقد وسّع تعديل Hartung-Knapp، وهو التصحيح المعتمد عند هذا العدد القليل من الدراسات، الفاصل إلى −0.10 إلى 2.11 (*p* = .063)، فلم يعد التقدير المجمّع يستبعد غياب الأثر. ومع *k* = 4، لا يمكن تشغيل فحوص تحيّز النشر أصلًا، وصُنّف يقين GRADE بالمنخفض جدًا. فجمع أربع دراسات يُنتج تقديرًا لا يحمل قرار تبنٍّ، مهما بدا كبيرًا.
 
-
 **تحذّر الأبحاث الفوقية من أن قاعدة التجميع في AIED ضعيفة حالياً.** توثّق مجموعة متنامية من النقد أن أحجام أثر الذكاء الاصطناعي البارزة في المجال — وخصوصاً من التحليلات البعدية المبكرة — مُضخّمة بسبب تحيّز النشر، وعدم تماسك البنية، والاختصارات المنهجية. يُقدّر [[bartos-ai-learning-meta-meta-analysis-2026|بارتوش وزملاؤه (2026)]]، في تحليل فوقي-بعدي لـ 1,840 حجم أثر من 67 تحليلاً بعدياً، أثر الذكاء الاصطناعي المُعدَّل بسبب تحيّز النشر بنحو ثلث المقدار المُبلّغ عنه (SMD ≈ 0.196)، مع عدم تجانس بالغ. ويفحص [[oneill-presumed-effective-meta-analysis-2026|أونيل (2026)]] 14 تحليلاً بعدياً عالية التأثير في AIED ولا يجد في أي منها بنيةً متماسكة، أو تقييماً صالحاً لتحيّز النشر، أو عدم تجانس محلولاً؛ وعاملت اثنتا عشرة منها أحجام الأثر التابعة كأنها مستقلة. ويُظهر [[weidlich-chatgpt-effect-search-cause-2025|فايدليش وزملاؤه (2025)]] أن معظم المقارنات الأولية تفتقر إلى علاج ومجموعة ضابطة ومقياس تعلّم معرّفين بدقة. وهذا يعني أنه ينبغي للقرّاء أن يعاملوا أحجام الأثر المجمّعة في AIED كحدود عليا حتى تتحسّن جودة التجميع — انظر [[limitations-in-aied-research|الحدود في أبحاث AIEd]] للتحليل الكامل.
 - **لم تُواكب معايير الإبلاغ وتيرة الأتمتة.** يحلّل PRISMA-LLM قاعدة SciLitBench، وهي مجلّد من 888 ورقة أتمتة مراجعات مع 14,726 ترميزاً، ويوثّق معدل نمو قريباً من 4.7% شهرياً إلى جانب فجوة المساءلة: منذ 2023، أبلغ 38.0% من أوراق البرمجيات والمنتجات عن عدم وجود أي تقييم، مقابل 9.3% من أوراق النماذج اللغوية الكبيرة، وأبلغ 52% من تقييمات النماذج اللغوية الكبيرة الإيجابية فقط عن مخاوف من عتبة عليا غير مستوفاة. ولأن خطوط أنابيب النماذج اللغوية الكبيرة والبرمجيات تشارك الآن في مراحل يمكن أن تُغيّر قاعدة الأدلة، يشترط الإطار الإفصاح عن موضع عمل الأتمتة في سير عمل المراجعة، وما تم تقييمه، وأي الحدود تم فحصها — امتداد مباشر لمشكلة الشفافية التي وثّقها [[limitations-in-aied-research|نقد مراجعات AIED]] للتحليلات البعدية لآثار التعلّم. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
 - **مثال عملي لمراجعة رفضت الجمع عن قصد.** جمع [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou و Kameas (2026)]] 78 دراسة عن [[learning-design|التصميم التعليمي]] المدعوم بالذكاء الاصطناعي (2022-2026) وعدّوا الجمع الكمي **غير مناسب** لأن المجلّد خلط تقارير ممارسين ودراسات حالات صغيرة العيّنة وتصاميم أساليب مختلطة. فبدلًا من فرض أثر مجمّع، أجروا تجميعًا موضوعيًا كيفيًا وكانوا صريحين في أن قوة الأدلة تُرجَّح في كل موضع لا تُفترض. وهذا هو القرار الصحيح أكثر بكثير مما تعكسه الأدبيات: فحيث لا يستطيع المجلّد تحمّل الجمع، يكون الامتناع عن الجمع نتيجةً عن المجال لا قصورًا منهجيًا في المراجعة.
@@ -161,52 +162,3 @@ ai_assist:
 - **«أثر مجمّع ذو دلالة يعني أن التدخل ناجع.»** وجد [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|تحليل يو وزملائه البعدي لتعليم الذكاء الاصطناعي وثقافته في مرحلة K-12]] (**16 دراسة، 57 حجم أثر، g = 0.892**) أثرًا كبيرًا، وإن كان المؤلفون يتحفّظون عليه. فست عشرة دراسة قاعدة ضيّقة، والأثر الكبير فوق تلك القاعدة فرضية بفاصل واسع.
 - **«المراجعون يبلّغون عن جودة المجال بدقة افتراضيًا.»** تشمل مهمة المراجعة **كشف الجودة المنهجية**، والمراجعات **تجد بانتظام أن المجال يعتمد على تصاميم ضعيفة القدرة الإحصائية أو سابقة للتجريب أو شبه تجريبية** مع اختبارات فورية بعد التدخل. فالرقم المجمّع يرث تلك النقاط الضعف.
 - **«الجمع يزيد الوزن الإثباتي دائمًا.»** يجمع [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|تحليل تشن ووي البعدي]] لـ**40 دراسة** في مهارات اللغة الأجنبية عبر تقنيات شديدة الاختلاف، والمتوسط لا يصف أيًا من التدخلات المحددة التي يحتويها.
-
-## المفاهيم المرتبطة
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — الأبحاث التعليمية المساعدة بالذكاء الاصطناعي
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## المقالات المرتبطة
-- [[edurev-100741-tpack-genai-review]] — مراجعة منهجية للذكاء الاصطناعي التوليدي في تعلّم الطلاب من منظور TPACK
-- [[genai-meta-analysis-programming-learning]] — تحليل بعدي لأثر الذكاء الاصطناعي التوليدي على الإنتاجية والتعلّم في البرمجة
-- [[ai-vocational-education-training-review]] — أول مراجعة منهجية للذكاء الاصطناعي في التعليم والتدريب المهني
-- [[ai-collaborative-learning-systematic-review]] — مراجعة منهجية بـ PRISMA للتعلّم التعاوني المدعوم بالذكاء الاصطناعي
-- [[genai-higher-education-systematic-review-2026]] — مراجعة منهجية للذكاء الاصطناعي التوليدي في التعليم العالي
-- [[zerkouk-comprehensive-review-its-2025]] — مراجعة منهجية شاملة لأنظمة التدريس الذكية
-- [[chatgpt-critical-creative-thinking-review]] — مراجعة منهجية لـ ChatGPT والتفكير النقدي/الإبداعي
-- [[stanford-evidence-base-ai-k12-2026]] — قاعدة الأدلة للذكاء الاصطناعي في مرحلة K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — تحليل بعدي لآثار تدخلات ثقافة الذكاء الاصطناعي
-- [[genai-writing-performance-meta-analysis-2026]] — تحليل بعدي للكتابة باللغة الثانية المدعومة بالذكاء الاصطناعي التوليدي: أثر مجمّع كبير تُقوّضه عدم تجانس بالغ وعامل مُعدِّل مدفوع بالجودة
-- [[ai-literacy-heptagon-2026]] — مراجعة أدبيات تكاملية لأبعاد ثقافة الذكاء الاصطناعي (موجّهة بـ PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — مراجعة منهجية للذكاء الاصطناعي التوليدي في التعليم الصحي القائم على السيناريوهات (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — مراجعة رسم خرائط تُصنّف 22 دراسة دمج للذكاء الاصطناعي بـ FACETS + SAMR؛ جلّها عند الاستبدال/الإثراء
-- [[agarwal-ethical-values-norms-aied-2026]] — القيم الأخلاقية والمعايير للذكاء الاصطناعي في التعليم
-- [[li-language-educators-genai-review-2026]] — ممارسات وتطوير معلّمي اللغة مع الذكاء الاصطناعي التوليدي
-- [[dabaghi-ai-dyslexia-education-review-2026]] — الذكاء الاصطناعي لمساعدة المصابين بالديسلكسيا في التعليم
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT في التعليم: أثر يبحث عن سبب (نقد المقارنة بين الوسائط)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — تحليل فوقي-بعدي: آثار الذكاء الاصطناعي المُعدَّلة بسبب التحيز نحو ثلث الحجم المُبلّغ عنه
-- [[oneill-presumed-effective-meta-analysis-2026]] — "يُفترض أنه فعّال": تدقيق جنائي لـ 14 تحليلاً بعدياً في AIED
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — تدخل المعلّم في التعليم القائم على الذكاء الاصطناعي في مرحلة K-12: مراجعة منهجية
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — تحليل بعدي للأدوات الرقمية وأدوات الذكاء الاصطناعي في مهارات اللغة الأجنبية: العامل المُعدِّل للتصميم يضاعف تقديرات الأثر شبه التجريبية أكثر من الضعف
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — تحليل بعدي للذكاء الاصطناعي التوليدي في التعليم العالي: آثار التدخل القصير تنهار مع نمو المدّة
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — تحليل بعدي لتعليم الذكاء الاصطناعي في مرحلة K-12: أثر كبير مع عوامل مُعدِّلة صفرية وعدم تجانس يُنسب إلى القياس
-- [[yalcin-genai-programming-education-systematic-review-2026]] — مراجعة منهجية للذكاء الاصطناعي التوليدي في تعليم البرمجة: إبلاغ تعليمي رقيق في 26 من أصل 46 دراسة
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — مراجعة نطاق لـ 123 دراسة تُصوّر الذكاء الاصطناعي التوليدي والتخفيف المعرفي وفاعلية المتعلّم في التعليم العالي
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — تحليل بعدي لآثار الذكاء الاصطناعي التوليدي على مخرجات التعلّم والمعرفة واللغة
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — الاستخدام الطلابي المسؤول للذكاء الاصطناعي التوليدي في الكتابة الأكاديمية: مراجعة نطاق للحدود والأساليب التعليمية وفجوات الأدلة
-- [[kim-ai-embodied-learning-review-2026]] — الذكاء الاصطناعي في التعلّم المُجسَّد يراقب في الأغلب: أدوار الاستشعار 62.5% من وسوم الأدوار المرمَّزة، ولا نظام مُراجَع دمج تدفقات متعددة الأنماط أثناء استخدام المتعلّمين لها (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — لماذا لا تستطيع أربع دراسات حمل قرار تبنٍّ

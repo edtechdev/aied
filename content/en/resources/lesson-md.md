@@ -18,6 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 **LESSON.md** is an open format for block-based eLearning content: a Markdown file with YAML frontmatter and `:::` directives for text, images and knowledge checks, readable by a person and parseable by any tool. It exists because course content is usually locked inside one authoring tool, and because [[llm|large language models]] can only help with lessons they can actually read.
@@ -27,8 +28,3 @@ Write a lesson in any text editor and import it into any tool that supports the 
 
 ## Who it is for
 Instructional designers and course creators who want their content to survive a tool change, eLearning vendors who want an import and export format their users already understand, and anyone building AI-assisted authoring on top of a readable format. Contributors include Dan Bashaw of LXD Integral, and the format has a public changelog up to v1.8.
-
-## Connected Concepts
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

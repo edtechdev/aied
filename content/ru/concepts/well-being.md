@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -81,43 +83,3 @@ ai_assist:
 - **«Одобрение студентов означает, что благополучие поддерживается.»** Среди **551 студента первого курса** **82,76% одобрили интеграцию** цифрового и интеллектуального контента — и **высокое одобрение сосуществовало с напряжением, тогда как давление ИИ-задач ослабляло пользу**. Одобрение и напряжение растут вместе, поэтому опросы удовлетворённости вводят в заблуждение именно здесь.
 - **«Поддержка благополучия культурно нейтральна.»** [[culturally-aware-student-stress-chatbot-2026|Bashir и Afzal (2026)]] описывают Sukoon, гибридный инструмент поддержки благополучия, как **культурно обусловленный** — и сама рамка страницы отмечает его ограничения. Дизайн поддержки, предполагающий универсального студента, неверно читает популяцию.
 - **«Давление задач отделено от технологии.»** Находка состоит в том, что **давление задач** ИИ ослабляло пользу интеграции, что помещает рабочую нагрузку внутрь эффектов технологии, а не рядом с ними.
-
-## Связанные концепции
-
-- [[learners]] — Учащиеся: зонтичная категория для концепций стороны учащегося
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — службы поддержки в кампусе, охватывающие консультирование, работу со студентами и направление к специалистам
-
-## Связанные статьи
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 студентов высоко оценили чат-ботов и больше всего боялись утраты человеческой связи
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Трение, смысл и одиночество как биологический сигнал
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — Взаимосвязь между тревожностью об ИИ и академической мотивацией
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Профили и переходы психологической адаптации в обучении японскому языку с поддержкой ИИ
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Критический нарративный синтез вовлечённости и зависимости в разговорном ИИ
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[sec-ai-literacy-narrative-review-2026]] — Интеграция социально-эмоциональных компетентностей в ИИ-грамотность
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Вовлечённость студентов с GenAI (ТСА)
-- [[teacher-education-ai-literacy-sdt-2026]] — Подготовка преподавателей для ИИ-грамотности (ТСА)
-- [[genai-motivation-engagement-2026]] — Генеративный ИИ, мотивация и вовлечённость
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — ИИ-чат-боты, коллективная эффективность и сотрудничество
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: оценивание тревожности студентов с дополнением LLM (2026)
-- [[policy-deficit-ai-sel-2026]] — Дефицит политики в исследованиях ИИ × СЭО
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[daoism-ai-education-philosophy-2026]] — Альтернативная философия ИИ: даосизм как метод для ИИ в образовании
-- [[ai-emotional-intelligence-teacher-development-2026]] — Реляционное уплотнение как критерий для поддерживаемого ИИ развития преподавателей
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Высокое одобрение курса с ИИ при одновременном самоотчётном напряжении и давление задач, ослабляющее адаптацию
-- [[ai-connectedness-adolescent-mental-health-2026]] — Связанность с ИИ и психическое здоровье подростков: дополнительное против компенсаторного связывания, с предсказанием перевёрнутого U
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Воспринимаемый интеллект ИИ-ассистента, прогресс в целях и психическое здоровье с ИИ-грамотностью как модератором
-- [[ai-emotion-regulation-sport-exercise-2026]] — Концептуальное переосмысление поддерживаемой ИИ регуляции эмоций через спорт, упражнения и экологию кампуса
-- [[faculty-ai-well-being-social-supports-2026]] — Структурная модель уравнений благополучия преподавателей в отношении ИИ: доминирование ИИ-грамотности над самоэффективностью
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — Тревожность перед тестом перераспределяется, а не устраняется

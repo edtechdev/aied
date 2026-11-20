@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,41 +83,3 @@ Video dengan takarir akurat dan transkrip yang ditandai dengan benar bersifat *a
 - **"Aksesibilitas berarti akomodasi."** Tinjauan cakupan terhadap **40 studi** teknologi bantu digital bagi siswa neurodivergen menemukan **28 menjadikan diagnosis formal sebagai syarat partisipasi**. Itu model yang dibatasi diagnosis, dan mengecualikan setiap siswa berkebutuhan tanpa label — kebalikan dari desain universal.
 - **"Efek sedang menyelesaikan pertanyaan."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] melakukan meta-analisis terhadap **29 studi** dan menemukan efek positif sedang, yang nyata tetapi tidak mengatakan apa pun tentang alat mana untuk kebutuhan mana. Rata-rata lintas intervensi heterogen bukan rekomendasi.
 - **"Kecepatan dan kesegeraan adalah kenyamanan."** Dalam studi kasus kualitatif terhadap **21 mahasiswa sarjana dengan gangguan penglihatan** di tiga universitas Palestina, siswa memandang kesegeraan sebagai **persyaratan aksesibilitas mendasar, bukan kenyamanan**. Yang tampak mewah dari luar adalah prasyarat partisipasi.
-
-## Konsep terkait
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — payung yang lebih luas untuk merancang pendidikan lintas keragaman siswa
-- [[special-education]] — domain instruksional bagi siswa dengan disabilitas terdiagnosis
-- [[universal-design-for-learning]] — kerangka perancangan proaktif
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — headset, mabuk gerak, dan akses perangkat menentukan siapa yang dapat menggunakannya
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — halaman payung untuk aturan yang terlalu luas, bukti yang cacat, dan penyesuaian yang wajar
-- [[arts-and-media-education]]
-
-## Artikel terkait
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% dari 100 universitas elite menerbitkan kebijakan aksesibilitas AI sementara 93% menerapkan layanan kampus AI
-- [[shin-ai-policies-sld-2026]] — Kebijakan AI dan akomodasi bagi siswa dengan disabilitas belajar spesifik
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analisis intervensi AI bagi siswa dengan disabilitas
-- [[adhd-video-segmentation-computing-education]] — Video tersegmentasi AI dengan jeda tetap
-- [[text-simplification-its]] — Penyederhanaan teks berbasis LLM untuk tutor cerdas
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Pembuatan pertanyaan LLM untuk siswa Tuli/Kurang Dengar
-- [[kutti-ai-voice-first-learning-companion]] — Pendamping voice-first untuk anak dengan gangguan penglihatan
-- [[tactile-statistical-graphs-accessibility]] — Grafik statistik taktil hasil cetak 3D
-- [[pepper-robot-sign-language-lis-2025]] — Robot Pepper mendukung bahasa isyarat
-- [[genai-minoritized-knowledges-disability]] — Perspektif kritis tentang AI dan pengetahuan yang berpusat pada disabilitas
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transkripsi video fisika aksesibel matematis Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI bantu untuk siswa dengan gangguan penglihatan
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: Tinjauan cakupan teknologi bantu digital bagi siswa neurodivergen di pendidikan tinggi
-- [[wright-transcription-not-generation-2026]] — Transkripsi bukan generasi: larangan AI yang terlalu luas dan alat bantu yang terkena dampaknya
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Tolok ukur Deskripsi Audio Kuliah Universitas lintas Standar, Metrik, dan Preferensi Siswa
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Menuju Antarmuka Bacaan yang Mudah Dibaca Manusia dan Tahan Mesin

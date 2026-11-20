@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -92,9 +93,3 @@ Giảng viên tâm lý học ở bất kỳ giai đoạn nghề nghiệp nào, v
 ## Ghi chú và lưu ý
 
 PDF miễn phí, không cần tài khoản. Bản quyền thuộc về STP, không phải giấy phép Creative Commons: được phép sao chép cho cá nhân và lớp học kèm ghi nguồn, trong khi phân phối lại hoặc dùng thương mại cần sự cho phép của tác giả. Các chương là tường thuật của người thực hành, không phải nghiên cứu — không thiết kế, mẫu hay kích thước hiệu ứng — nên hãy coi các tuyên bố là báo cáo kinh nghiệm và trích dẫn từng chương riêng lẻ.
-
-## Khái niệm liên quan
-
-- [[social-sciences-education]] — trang cụm mà phần tâm lý học của nó được tuyển tập này lấp đầy bằng thực hành cấp học phần
-- [[ai-literacy]] — cách định khung phát triển mà các biên tập viên đặt cho tuyển tập
-- [[academic-integrity]] — chủ đề của chương chính sách, và lý do vài chương học phần cài sẵn các bước kiểm chứng

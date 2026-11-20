@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -76,39 +78,3 @@ ai_assist:
 - **"सिमेंटिक समानता पाठ्यक्रम संरेखण की स्क्रीनिंग कर सकती है।"** **3,837 दंत उद्देश्य-सारांश जोड़ों** की स्क्रीनिंग में, एम्बेडिंग पुनर्प्राप्ति और प्राकृतिक भाषा निष्कर्ष जाँच ने **22.9% आइटमों** को संरेखित माना, सिमेंटिक समानता संरेखण के लिए एक **कमज़ोर संकेत** है। धाराप्रवाह विषय-मेल और वास्तविक अधिगम-उद्देश्य मेल दो भिन्न संबंध हैं।
 - **"उच्चारण-स्तरीय वर्गीकरण स्वाभाविक इकाई है।"** **संपूर्ण-पाठ मॉडलिंग उच्चारण-स्तरीय वर्गीकरण से बेहतर है**: पृथक उच्चारणों के बजाय पूरे प्रतिलेखों को स्कोर करने से **तर्क-शृंखला पहचान में 14.2 प्रतिशत-अंक की वृद्धि** हुई। पूरे पाठ में फैला संदर्भ वह जानकारी रखता है जिसे कोई भी एकल बदलाव नष्ट कर देता है।
 - **"मूल्यांकन टिप्पणियों पर एनएलपी का विस्तार प्रभाव पैदा करता है।"** खुले-अंत छात्र-मूल्यांकन पर एनएलपी लागू करने वाले **421 अध्ययनों** (2015-2026) का PRISMA-ScR स्कोपिंग समीक्षा और साक्ष्य-मानचित्र पाया कि विस्तार **उपयोग तक नहीं पहुँचा**। विधि-आउटपुट का आयतन अंगीकरण नहीं है, और अंतराल मॉडलिंग में नहीं, तैनाती के चरण में है।
-
-## संबंधित अवधारणाएँ
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — छत्र: एआई तकनीकें और तकनीकियाँ (मॉडल, एलएलएम प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-
-## संबंधित लेख
-
-- [[lee-learner-question-types-ai-education-2026]] — निर्माणवादी भूमिकाओं में शिक्षार्थी प्रश्नों का ट्रांसफॉर्मर वर्गीकरण (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — अंग्रेज़ी शिक्षण के लिए बर्ट के साथ स्वचालित विभाग संबंध वर्गीकरण
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — एक एआई पाठ्यक्रम में छात्र–एलएलएम संवादों का StudyChat डेटासेट
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — न्यूरो-सिंबोलिक शिक्षणात्मक संरेखण (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — रूब्रिक-आधारित शिक्षण गुणवत्ता के लिए SHAP और एलएलएम औचित्य
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — लर्निंग एनालिटिक्स के लिए स्व-व्याख्या देने वाले LM का आसवन
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — बहु-एजेंट एलएलएम (GradeOpt) शिक्षकों की सामग्री और शिक्षणात्मक सामग्री ज्ञान को कोड करता है; पीसीके पर शास्त्रीय एन्कोडर और सरल प्रांप्टिंग असफल
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: शैक्षिक संवादों की लेखा-परीक्षित कोडिंग के लिए दावा-आधारित स्कीमा
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — भावना वर्गीकरण से क्रियाशील और उत्तरदायी प्रतिपुष्टि तक: छात्र-मूल्यांकन में एनएलपी का स्कोपिंग समीक्षा और साक्ष्य-मानचित्र, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — नए एआई-सहायित शैक्षिक प्रश्नों के शिक्षणात्मक मूल्यांकन के लिए पूर्व-प्रशिक्षित मॉडलों का मूल्यांकन
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: सूक्ष्म ज्ञान संकल्पना टैगिंग के लिए चयनात्मक-तर्क पाइपलाइन
-- [[nlp-reading-lists-dental-education-2026]] — दंत शिक्षा में सीखने के उद्देश्यों के साथ पठन संरेखित करने और विषय संतुलन का आकलन करने के लिए प्राकृतिक भाषा प्रसंस्करण
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: शोरयुक्त संकर दस्तावेज़ पार्सिंग के लिए एक हस्तलिखित उत्तर पत्रक डेटासेट
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — शब्दावली के आधार पर संगठित करने वाले एम्बेडिंग क्लस्टर, भौतिकी के आधार पर नहीं

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -41,7 +43,6 @@ ai_assist:
 ## مقدمة
 
 الوكيل البيداغوجي هو مكوّن تفاعلي من الذكاء الاصطناعي داخل نظام تعلّم يُشرك المتعلمين عبر الحوار أو الأسئلة أو المحفزات لدعم العمليات المعرفية و[[metacognition|ما وراء المعرفية]]. بخلاف [[visualization|لوحات المعلومات]] السلبية أو التغذية الراجعة الثابتة، يستخدم الوكلاء البيداغوجيون استراتيجيات تدريس قائمة على الأدلة — مثل استنطاق تقويمات المتعلم الذاتية [[assessment|]] قبل تقديم [[feedback|التغذية الراجعة]]، أو [[scaffolding|السقالة]] على [[problem-solving|حل المشكلات]] عبر الحوار السقراطي. تغطي المظلة الآن كل شيء من [[intelligent-tutoring|مدرّس ذكي]] تحادثي واحد إلى أساطيل من [[agentic-ai|الوكلاء]] متخصصي الأدوار الذين يُحاضرون ويُوجّهون ويُيسّرون التعاون وحتى ينسّقون توليد المقررات، وكل ذلك مؤسس على عقود من [[research-methods-aied|أبحاث]] أنظمة التدريس الذكية.
-
 
 - **وكيل يكون دوره التنظيم لا الشرح.** بنى تشن وآخرون (2026) SSRLAgent لتشخيص الحالة التنظيمية المشتركة للمجموعة والتنبيه وفقها، وأبقوا وكيل دعم بالمحتوى ثابتًا في الشرطين ([[chen-genai-team-moderator-cscl-shared-regulation-2026|تشن وآخرون، 2026]]). ولأن كلا الذراعين ضم وكيلًا ومنصة منظّمة، فإن المكاسب تتعلق بـ[[adaptive-learning|تكيّف]] التنبيهات التنظيمية لا بحضور وكيل تحادثي.
 ## كيف تُدرَس الوكلاء البيداغوجيون في قاعدة المعارف
@@ -70,7 +71,6 @@ ai_assist:
 **التقويم والمعايير.** قياس وكيل بيداغوجي يتطلب اختبار البيداغوجيا لا المحتوى. يقيس [[teaching-monster-pck-benchmark-2026|تحدي Teaching Monster]] المعرفة بالمحتوى البيداغوجي بطلب تكييف الوكلاء درسًا لشخصية متعلم محددة، فيجد الأنظمة قوية على المحتوى وضعيفة في تكييفه — ويكشف أن حكام النماذج اللغوية الكبيرة يُخطئون في ترتيب الأنظمة القوية. يُقيّم [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] الوكلاء عبر الحكم البيداغوجي المهني، والتدريس [[situated-learning|الموضوعي]] متعدد الأدوار، وإتمام سير العمل على هيئة لوحة، مُظهرًا أن النماذج تقصر عن معايير التدريس المهنية. تضيف [[ai-generated-interactive-fiction-education-2026|الخيال التفاعلي المولَّد بالذكاء الاصطناعي]] زاوية تقويم تصميمية: الاتساق وتكامل الاختبار، لا قدرة التوليد، هما ما يحدّ من الفائدة لـ[[student-experience|تجربة الطالب]].
 **اختبار إجهاد صلابة الشخصية عبر أدوار متعددة.** شغّل [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] ست هجمات متصاعدة ضد وكلاء تقمص أدوار بحكم آلي: خفّض الاختبار متعدد الاستراتيجيات الصلابة بمقدار 0.17–0.20 مقابل خط أساس أحادي الاستراتيجية، وتجمّعت الإخفاقات الحرجة بعد الدور 5–6، فتقويمات الأدوار القصيرة أو الأحادية تبالغ في تقدير استقرار الشخصية والالتزام الأخلاقي.
 
-
 - **وكيل نظير تكون اقتراحاته القابلة للخطأ هي المقصد.** يقرن Copa الاسترجاع السياقي بالسجل بـGPT-4o وقاعدة معرفة مهمة خاصة من خمسة عشر جزءًا، ويلخّص كل مقطع طالب وكيليًا: يقارن نموذج الطالب بنسخة خبير، ويشخّص المشكلة المعبَّر عنها، ويسمّي ما ينبغي استرجاعه. وفي دراسة صفية مع 16 طالبًا ومجموعتي تركيز، قال جميع المشاركين إن إرشاده دعم حل مشكلاتهم وكان دقيقًا، وإنهم جميعًا سيستخدمونه مرة أخرى. وطلب عدد منهم إجابات مباشرة أيضًا، وافترض بعضهم صحة اقتراح حتى ساء نموذجه. ويقرأ المؤلفون ذلك ككلفة تصميم وكيل للتنبيه إلى التقييم لا للإجابة ([[cohn-lc-rag-log-contextualized-retrieval-2025|كون وآخرون، 2025]]).
 ## إرشادات عملية
 
@@ -93,67 +93,3 @@ ai_assist:
 - **«نية التأليف تحدد ما يفعله الوكيل البيداغوجي.»** **نية التأليف لا تضمن البيداغوجيا المُنفَّذة.** عندما هيّأ **27 مدرسًا في المرحلة المتوسطة** أداة تأليف روبوت محادثة موجّهة للمعلم، أظهر تقييم 108 معيارًا على مستوى الروبوت أن السلوك المُنفَّذ انحرف عمّا قصده المعلمون. فالأداة وسّطت البيداغوجيا.
 - **«وكيل بيداغوجي يدير النقاش دورٌ محلول.»** يُظهر [[ethics-training-agents-group-ethics-discussion-2026|وكلاء تدريب الأخلاقيات (سيو وآخرون، 2026)]] ما يحدث عندما يُطلب من وكيل أن **يدير** لا أن يعلّم — وهو مطلب مختلف نوعيًا عن الإجابة عن الأسئلة، وتتعامل معه الأدبيات كمسألة غير مستقرة.
 - **«قاعدة الأدلة للتعليم بمساعدة الحاسوب هزيلة.»** يُكمّم توليف (**2025، 34 مراجعة**) استخدام التعليم بمساعدة الحاسوب عبر دعم التعليم والتعلّم (**97.1% من المراجعات**)، والدعم النفسي والدافعي (**91.2%**)، والدعم **ما وراء المعرفي**. فاتساع التطبيقات المراجَعة واسع، وهو ما يجعل الفجوة فجوة جودة مُنفَّذة لا تغطية.
-
-
-## مفاهيم مترابطة
-
-- [[learning-gains|مكاسب التعلّم]]
-- [[pedagogical-safety|السلامة البيداغوجية]]
-- [[agentic-ai|الذكاء الاصطناعي الوكيلي]]
-- [[ai-education|الذكاء الاصطناعي في التعليم]]
-- [[intelligent-tutoring|التدريس الذكي]]
-- [[scaffolding|السقالة]]
-- [[metacognition|ما وراء المعرفة]]
-- [[feedback|التغذية الراجعة]]
-- [[collaborative-learning|التعلّم التعاوني]]
-- [[llm|النماذج اللغوية الكبيرة]]
-- [[generative-ai|الذكاء الاصطناعي التوليدي]]
-- [[student-experience|تجربة الطالب]]
-- [[knowledge-tracing|تتبع المعرفة]]
-- [[self-regulated-learning|التعلّم الذاتي التنظيم]]
-- [[human-in-the-loop-ai|الإنسان في الحلقة]]
-- [[cognitive-offloading|التخفيف المعرفي]]
-- [[benchmark|المعايير القياسية]]
-- [[ai-ed-evaluation|تقييم AIEd]]
-- [[socratic-method|المنهج السقراطي]]
-- [[teacher-role|دور المدرس]]
-- [[ai-avatars-and-synthetic-instructors]] — الصور الرمزية والمدرّسون الاصطناعيون: الهوية والحضور والثقة كسطح تصميم مستقل
-
-## مقالات مترابطة
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — دور الوكيل المتمركز على الطالب يتفوق على الدور المتمركز على المدرس عبر الأداء والحمل والانسياب والتعاطف (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: إطار مفاهيمي للوكلاء البيداغوجيين في الواقعية المعززة والافتراضية — مدرّس مقابل شريك تقمص أدوار، والواقعية والحضور والحمل المعرفي (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: وكلاء طلاب توليديون للممارسة التعليمية
-- [[conversational-ai-agents-umbrella-review-2026]] — مراجعة مظلات لوكلاء الذكاء الاصطناعي التحادثيين في التعليم
-- [[conversational-agents-novice-programmers-scoping-2025]] — مراجعة استقصائية للوكلاء التحادثيين للمبرمجين المبتدئين
-- [[ba-ai-agents-cscl-review-2026]] — مراجعة لوكلاء الذكاء الاصطناعي في التعلّم التعاوني المدعوم بالحاسوب
-- [[kim-ai-productive-failure-adult-2026]] — تصميم أنظمة الذكاء الاصطناعي لدعم التعلّم القائم على الفشل المنتج
-- [[preferred-scaffolding-ai-mathematical-modeling]] — السقالة المفضلة في النمذجة الرياضية المدعومة بالذكاء الاصطناعي
-- [[llm-adaptive-programming-error-explanations-2026]] — شروح تكيفية لأخطاء البرمجة بالنماذج اللغوية الكبيرة
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — رفيق ذكاء اصطناعي يكيّف الدور لحديث الكتب الابتدائي؛ السقف الانفعالي لوكلاء الدور الثابت (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: تيسير تعليم الأخلاقيات القائم على المجموعات بتقمص الأدوار والمناقشة للتأمل الأخلاقي والاستكشاف
-
-- [[teachers-configure-educational-chatbots-2026]] — هل سيعلّم كما هو مقصود؟ كيف يهيّئ المعلمون روبوتات المحاورة التعليمية بالذكاء الاصطناعي
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — وكيل مخصص رفع جودة التغذية الراجعة لا التنظيم الذاتي أو النتائج؛ تفوق المكسب فقط تحت التغذية الراجعة الموجِّهة

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -115,50 +117,3 @@ Di samping keluarga klasik, basis pengetahuan mendokumentasikan teori yang ditul
 **Bagi peneliti**
 
 - Rancang untuk adjudikasi antar teori alih-alih akumulasi kerangka. Kedewasaan tampak sebagai prediksi saingan yang terselesaikan, bukan sebagai pertumbuhan kosakata.
-
-## Konsep terkait
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-- [[yan-agentivism-learning-theory-ai-2026]] — Teori belajar kelas menengah untuk interaksi manusia-AI, dengan empat mekanisme dan enam proposisi yang dapat diuji (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalisasi berlebih yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum siswa tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Memosisikan AI sebagai mitra kognitif dalam ko-regulasi manusia-AI; kerangka perkembangan sepanjang rentang hidup
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: kerangka filosofis yang mengonseptualisasi ulang berpikir sebagai interaksi manusia–AI
-- [[self-directed-growth-generative-ai-learning-analytics]] — Pertumbuhan Berarah Diri dan model A2PL yang memperluas pembelajaran berarah diri dengan GenAI
-- [[generativism-learning-theory]] — Mengusulkan teori belajar baru untuk era AI generatif, meninjau ulang empat teori klasik
-- [[ai-vocational-education-training-review]] — Mendokumentasikan kesenjangan teori-praktik konstruktivisme/behaviorisme dalam AI untuk VET
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analisis PRISMA atas 53 studi: perolehan terkumpul pada capaian, berpikir, menulis, dan motivasi, dengan umpan balik sebagai mekanisme terbesar (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI generatif sebagai agen mediasi
-- [[kim-ai-productive-failure-adult-2026]] — Merancang sistem AI untuk mendukung pembelajaran berbasis kegagalan produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan pedagogis LLM untuk kegagalan produktif
-- [[lukesova-clue-before-correction-2026]] — Petunjuk sebelum koreksi: ChatGPT untuk pembelajaran bahasa mandiri
-- [[rachatasumrit-example-problem-ratio-2026]]

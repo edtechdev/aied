@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -86,29 +88,3 @@ ai_assist:
 **"学习者在实操训练中会过度依赖 AI。"** 试点证据指向相反方向。探索性试点（**N = 30**，意大利与中国，**20 次有边界的会话**）发现参与者把系统当作一个有边界的支持工具，**没有报告出对替代或依赖的期望**。这是探索性的、规模很小，而它确实提示：职业学习者把一个工具框定为设备而非权威，是一种值得围绕它来设计的资源。
 
 **"学习者认可一项模拟任务，就意味着它评到了正确的东西。"** 在 **33 名受访学习者中，21 人（64%）**认为语音任务真实，同样比例的人说它给出了一种清晰的传达所知内容的方式，而且没有人不同意实时口语适合这种[[authentic-assessment|真实评估]]。真实感与沟通清晰度值得了解，但它们不是效度：一项任务可以感觉真实，却仍未采样到它所代表的那种职业表现。
-
-## 关联概念
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## 关联文章
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] —— 自适应 CTE 课程更新：五个维度与六项领导力检验
-- [[ai-vocational-education-training-review]] —— 首个 VET 中 AI 的系统综述：目的、理论与实证效力
-- [[ai-ive-pbl-vocational-design-creativity-2026]] —— AI-IVE-PBL：沉浸式项目式学习与设计创造力
-- [[ai-supported-oral-assessment-tvet-2026]] —— AkoVoice：TVET 中离线 AI 支持的口头评估
-- [[ai-pedagogical-accompaniment-amico]] —— Amico 双模原型：设计原则与可观察指标
-- [[ai-autonomous-learning-accomplishment-2026]] —— AI 辅助的自主学习与成就感下降，由坚毅性中介
-- [[astra-atco-training-simulator]] —— 可规模化的 ATCO 训练的自主模拟飞行员
-- [[crewscaler-ai-upskilling-framework]] —— 用于快速专业技能提升的 AI 加速端到端框架
-- [[genai-xr-architectural-design-education-2026]] —— 反例：生成式 AI 加多人 XR，设计自我效能感下降
-- [[huang-ai-literacy-vocational-problem-solving-2026]] —— 感知到的 ICT 支持作为职业院校中的机构杠杆

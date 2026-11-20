@@ -19,7 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -112,52 +113,3 @@ Chacune gagnerait à bénéficier d'une attention de recherche soutenue à mesur
 - **« La discipline compte surtout pour les exemples de contenu. »** Une recherche portant sur **560 étudiants** a trouvé que l'appartenance disciplinaire **prédit la fréquence et la franchise avec lesquelles les étudiants utilisent** l'[[generative-ai|IA générative]]. La discipline façonne si l'outil est utilisé du tout et si cet usage est divulgué, et pas seulement ce qu'on lui demande.
 - **« L'interdisciplinarité est un objectif institutionnel générique. »** La **forme de l'« interdisciplinaire » est elle-même déterminée par la discipline** : la [[meta-analysis-systematic-review|revue]] de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] constate que la forme qu'elle prend varie selon le champ. Une définition institutionnelle unique se méprend sur au moins une partie des disciplines qu'elle couvre.
 - **« L'enseignement professionnel dispose d'une base de recherche comparable à celle des disciplines académiques. »** Le fil professionnel est **le plus mince de ces données probantes** : une revue systématique de **26 études** en enseignement et formation professionnels n'en a trouvé **aucune menée en milieu de travail** — les milieux où la compétence s'exerce réellement. L'absence dans la littérature est une lacune, pas un résultat nul.
-
-## Concepts liés
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Articles liés
-
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 enseignants universitaires d'éducation physique : la disciplinarité incarnée comme obstacle, et l'équipement d'IA attribué aux équipes d'élite (Yang, Chen et Rao, 2026)
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Revue systématique de l'IA dans l'enseignement supérieur interdisciplinaire (59 études)
-- [[llms-text-linguistics-teaching-2026]] — Les LLM dans l'enseignement de la linguistique textuelle
-- [[fowlin-operationalizing-learning-principles-ai]] — Opérationnaliser les principes d'apprentissage avec l'IA dans la formation aux professions de santé
-- [[designing-ai-professional-development-itpack-2026]] — Développement professionnel en IA fondé sur le TPACK intelligent
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Le TPK propre à l'IA générative dans la formation des enseignants
-- [[human-centered-ai-teacher-educators-2026]] — Apprentissage professionnel en littératie critique en IA pour les formateurs d'enseignants
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — La cognition interprétative dans l'enseignement des sciences humaines et sociales
-- [[becker-chatgpt-typology-physics-2026]] — Typologie d'usage de ChatGPT dans l'enseignement de la physique
-- [[code-review-genai-cs1]] — La revue de code par l'IA générative en CS1
-- [[ai-writing-support-stage-ownership-2026]] — Soutien à l'écriture par l'IA selon l'étape et paternité
-- [[ai-engineering-education-balancing-act]] — L'exercice d'équilibre de l'IA dans l'enseignement de l'ingénierie
-- [[ai-literacy-career-adaptability-business-2026]] — Littératie en IA et adaptabilité de carrière dans l'enseignement de la gestion
-- [[jiang-genai-activity-theory-disciplines-2026]] — Théorie de l'activité : différences disciplinaires dans l'usage et la divulgation de l'IA générative (560 étudiants)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulation assistée par l'IA dans la formation en soins infirmiers : gains de connaissances et de confiance, effets inconstants sur la compétence psychomotrice
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — L'IA générative comme étayage ou comme raccourci dans l'apprentissage informatique de troisième cycle
-- [[ai-vocational-education-training-review]] — Première revue systématique de l'IA dans l'enseignement et la formation professionnels
-- [[genai-architectural-design-studios]] — Les modèles génératifs dans l'atelier de conception : stimulus, expansion de l'espace des solutions et fixation
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Des règles d'arrêt fondées sur la maîtrise qui certifient une règle surgénéralisée comme compétence

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,34 +80,3 @@ ai_assist:
 **"生成式 AI 已使经典机器学习在教育中过时。"** 两者做的是不同的工作。学习者状态预测、难度估计与进度预报仍是经典的机器学习问题，本知识库所记录的知识追踪与题目校准文献并不由语言模型来承担。生成式 AI 是机器学习的一个子集，而不是它的替代。
 
 **"教师教育应当教学生了解 LLM，而不是了解机器学习。"** 把素养限制在生成层，会让从业者无法质询那些正在对其学生做出决定的预测系统，而后果严重的错误恰恰集中在那里。
-
-## 关联概念
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## 关联文章
-
-- [[at-risk-students-ml-prediction]] — 用监督式 ML 分类识别有退学风险的学生
-- [[trace-course-grade-prediction-2026]] — 联合预测课程与成绩的 Transformer（TRACE）
-- [[precision-education-student-digital-twins-2026]] — 用于预防性、职业对齐路径的 AI 学生数字孪生
-- [[sc2r-counterfactual-recourse-educational-2026]] — 用于可行动干预的语义约束反事实追索
-- [[interactive-online-learning-ai-2025]] — 用于互动式在线学习预测的 DMO-GRU 混合架构
-- [[adaptive-scaffolding-cognitive-engagement-its]] — 一个 ITS 中认知投入的自适应脚手架（BKT 对 DRL）
-- [[pedagogical-safety-rl]] — 教育强化学习中教学安全的正式框架
-- [[automated-online-exam-proctoring-decade-review-2026]] — 十年长的深度学习自动化监考综述
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 带亲缘映射的成果导向知识追踪
-- [[bird-multimodal-educational-literature-2026]] — 用于教育文献分类的多模态融合
-- [[razavi-powers-item-difficulty-llm-2026]] — 用 LLM 与基于树的 ML 估计题目难度
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — 一个面向巴基斯坦大学生的、基于 NLP 与机器学习的 AI 文化敏感聊天机器人，用于压力检测与福祉支持
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性核查

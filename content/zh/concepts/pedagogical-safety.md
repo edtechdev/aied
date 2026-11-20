@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -84,49 +86,3 @@ ai_assist:
 **“最安全的辅导工具是拒绝得最多的那个。”** 一个均匀地拒绝的系统仍然可能固化不平等，这正是本页关于安静失败的描述的后半部分。失败模式不只是一个正确作答却侵蚀学习的辅导工具；也是一个其拒绝在学生之间不均匀地分配支持的辅导工具，而一刀切的拒绝政策，是用一个可见的风险换一个不可见的风险。
 
 **“任何模型层面的安全工作都是公关手段。”** 其中有些是可测量的。[[llm-unlearning-math-privacy|数学遗忘]] 的工作应用基于梯度的遗忘，剥离可识别信息与有害内容，报告 PII 输出降到 **0.1%**、毒性率降到 **0.0%**，同时保留能力。模型层面的控制是分层防御中的一层：单独使用并不充分，但也不是什么都不是。
-
-## 关联概念
-- [[guardrails]] — 实现安全的设计机制
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## 关联文章
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — 用于引导"学生—AI"对话的 SCAFFOLD 框架，及其课堂试点
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教师设计的安全层：领域边界、过滤与覆盖
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL：一个面向安全且健全的学习 AI 的设计框架
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -114,37 +116,3 @@ La evidencia de la rendición como constructo con nombre propio se apoya en gran
 **«La solución es una IA mejor, porque la rendición se sigue de los errores.»** La rendición se sigue de la *estructura* de la interacción: un sistema que produce primero una respuesta plausible elimina la ocasión para que quien aprende genere una. Mejorar la exactitud reduce el daño de las respuestas incorrectas y no hace nada frente al abandono de formar un juicio, que es el daño que persiste después de que la herramienta desaparece.
 
 **«Enseñar evaluación crítica es suficiente.»** Es necesario y llega demasiado tarde. Una vez que hay una respuesta plausible en pantalla, la evaluación se convierte en confirmación, y por eso la literatura de diseño que se recoge aquí sitúa el intento del estudiantado antes de la salida del sistema en lugar de auditarla después.
-
-## Conceptos conectados
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Artículos conectados
-
-- [[shaw-nave-cognitive-surrender-2026]] — La teoría tri-sistema y la firma experimental de la rendición
-- [[generative-ai-reduced-study-time-math]] — Desplazamiento a escala poblacional en ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — El marco rendición/descarga/agencia en PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — Asistencia instrumental frente a asistencia que conlleva juicio
-- [[ai-advice-suppresses-ikt-suspension-2026]] — El colapso del «no lo sé»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Implicación neuronal y autoría
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Uso irreflexivo y aprendizaje autodirigido
-- [[stamatoulis-genai-use-patterns-2026]] — Adopción con poca verificación frente a integración evaluativa
-- [[cognitive-washout-ai-skill-decay-2026]] — Qué ocurre después de la retirada
-- [[ai-overreliance-complex-adaptive-system-2026]] — La dependencia como proceso poblacional
-- [[brcic-effortless-trap-productive-struggle-2026]] — Colocar la IA para que la tarea siga exigiendo esfuerzo
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Entrenamiento en calibración
-- [[family-school-autonomy-support-genai-2026]] — Descarga dependiente frente a autónoma
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un asistente anclado a la hoja de trabajo redujo la descarga en lugar de elevarla: una condición límite para la firma de la rendición (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Delegación naturalista de ensayos completos: 15 de 77 ensayos escritos enteramente por el modelo, 20 solicitudes de un ensayo completo (Jelson et al. 2026)

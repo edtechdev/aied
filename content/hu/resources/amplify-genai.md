@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -48,10 +49,3 @@ Azoknak a központi IT- és CIO-irodáknak, amelyek már futtatnak munkaterhelé
 ## Megjegyzések és fenntartások
 
 Licencelni ingyenes, futtatni nem: az intézmény fizet az AWS-nek és a modellszolgáltatóknak. A modellválasztás az Amazon Bedrockon (Anthropic, Mistral) vagy az OpenAI-n és a Microsoft Azure-on keresztül megy, saját helyi modellek futtatása nincs megvalósítva. A projekt nyíltan kimondja, hogy egyedi telepítéseket nem tud támogatni, és a szervezeteket kereskedelmi partnerekhez irányítja – így a reális költség személyzetet vagy vállalkozót is tartalmaz. Ez egy három repository-ból álló telepítés (frontend, backend, infrastruktúra), néhány tíz csillaggal, nem ezerrel, és a fenti költség-összehasonlítás a Vanderbilt saját tapasztalata, nem kontrollált vizsgálat. Azoknak az intézményeknek, amelyek inkább saját hardveren tartanák az inferenciát, érdemes a [MindRouter](/aied/resources/mindrouter/) oldalt is elolvasniuk, és a kettőt együtt értelmezniük: az Amplify alkalmazási réteg a beszállítói modellek felett, a MindRouter átjáró a saját GPU-k felett.
-
-## Kapcsolódó fogalmak
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

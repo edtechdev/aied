@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -66,39 +68,3 @@ ai_assist:
 **«Η σχεδιαστική σκέψη είναι μια διαδικασία που αυτοματοποιείται στάδιο προς στάδιο.»** Είναι μια πειθαρχία πλαισίωσης και επαναπλαισίωσης προβλημάτων, την οποία η προσήλωση αποκλείει. Η αυτοματοποίηση των σταδίων αφήνοντας το πλαίσιο ανεξέταστο παράγει ικανή παραγωγή για το λάθος πρόβλημα.
 
 **«Οι πράκτορες ΤΝ που συμφωνούν με τον [[student-support-and-success|μαθητή]] στηρίζουν τη σχεδιαστική του συλλογιστική.»** Η παραγωγική χρήση που τεκμηριώνεται εδώ κινείται αντίστροφα: οι [[ai-agents-constructive-conflict-design-education-2026|εποικοδομητικές συγκρούσεις με πράκτορες ΤΝ]] δοκιμάζουν ανταγωνιστική προτροπή που επιβάλλει επανεξέταση. Ένας σύμφωνος πράκτορας ενισχύει την προσήλωση· ένας προσανατολισμένος στη διαφωνία είναι ο σχεδιασμός πίσω από τον οποίο υπάρχει εκπαιδευτικός ισχυρισμός.
-
-## Συνδεδεμένες Έννοιες
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Συνδεδεμένα Άρθρα
-- [[design-thinking-aigc-fashion-film-2026]] — Η νοοτροπία σχεδιαστικής σκέψης στα μαθησιακά στάδια στον σχεδιασμό ταινιών μόδας με υποστήριξη AIGC (Liu και συν. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: χρήση γενετικής ΤΝ για την υποστήριξη φοιτητών αρχιτεκτονικής σε σχεδιαστικές εργασίες
-- [[genai-architectural-design-studios]] — Ανάπτυξη και εφαρμογές της γενετικής ΤΝ στα στούντιο αρχιτεκτονικού σχεδιασμού
-- [[social-robot-study-companions]] — Συν-δημιουργία κατασκευάσιμων και ανοιχτών κοινωνικών ρομπότ-συνοδών μελέτης με φοιτητές πανεπιστημίου
-- [[gaide-vibe-coding-k12-teachers]] — Ένα καθοδηγητικό πλαίσιο για εκπαιδευτικούς της K-12 στη δημιουργία τεχνολογιών μάθησης με ΤΝ μέσω vibe coding
-- [[dot-framework-survey-2026]] — Έρευνα του πλαισίου DOT: πεποιθήσεις και συμπεριφορές επαγγελματιών στην εκπαίδευση επαυξημένη με ΤΝ
-- [[ai-agents-constructive-conflict-design-education-2026]] — Ενσάρκωση εποικοδομητικών συγκρούσεων με πράκτορες ΤΝ για την ενίσχυση της επανεξέτασης σε αρχάριους σχεδιαστές αλληλεπίδρασης
-- [[genai-usage-design-students-survey]] — Μελέτη της χρήσης γενετικής ΤΝ από φοιτητές σχεδιασμού: ανάλυση αποτελεσμάτων έρευνας και ημερολογίων πρακτικών ΤΝ στο Politecnico di Milano το 2025/2026

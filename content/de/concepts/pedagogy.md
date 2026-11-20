@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -105,49 +107,3 @@ Jene Betonung erhaltener Anstrengung ist nicht absolut: ein vierstudien-[[mixed-
 - **„Technisches KI-Wissen ist, was Lehrkräfte am meisten brauchen.“** Über **46 Lehrkräfte und 2.832 Lernende** hinweg sagte **pädagogisches KI-Wissen der Lehrkräfte** die Wahrnehmungen der Lernenden von KI für das sozial Gute voraus. Pädagogisches Wissen übertraf technisches Wissen, was umkehrt, wohin die meisten Trainingsinvestitionen gehen.
 - **„Der Hauptbeitrag von KI in der Bildung ist instruktional.“** Ein **PRISMA-Review von 28 Studien** fand, dass KI am häufigsten **Unterrichtsplanung und Assessment-Design** verbesserte — der klarste Beitrag ist das **Auslagern administrativer Arbeit**, nicht das Lehren. Ein Fall, der auf instruktionalen Gewinnen aufbaut, steht auf dem schwächeren Zweig der Evidenz.
 - **„KI-Kompetenz-Unterricht überträgt sich automatisch auf besseres Lehren.“** Eine Metaanalyse auf drei Ebenen von **59 Studien (172 Effektstärken)** fand, dass **wissensfokussierte Interventionen (g ≈ .97)** andere Ansätze beim Bewegen von Wissen klar übertrafen. Wissen zu bewegen ist das gemessene Ergebnis; ob es die Praxis erreichte, ist die nächste Frage.
-
-## Verbundene Konzepte
-
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[online-teaching-and-learning]] — Online-Lehre und -Lernen
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-- [[metaphors-and-analogies]] — Metapher und Analogie als Lehrtechnik
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[case-based-learning]] — Fallmethode und kontrastierende Fälle als Lehrtechniken
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — KI-Werkzeuge, die darauf trainiert sind, pädagogischen Prinzipien zu folgen
-
-## Verbundene Artikel
-
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI als didaktisch-pädagogischer Mediator: triadisches Modell aus Lehrkraft, lernender Person und GenAI (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — „Pädagogik zuerst, Technologie danach" — TPAIK überwiegt technisches TAIK für Lernergebnisse der Studierenden (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pädagogische Partnerschaften mit generativer KI
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Wie Instruktionsanleitung die Lerneffekte von GenAI prägt
-- [[generative-ai-guardrails-harm-learning]] — Leitplankengesichertes (Hinweis-statt-Antwort-)Tutoring beseitigt die Prüfungsabwertung
-- [[agentic-ai-pedagogical-best-practice-2026]] — Die Spannung zwischen Automatisierung und Lernen bei agentischer KI
-- [[jeon-isd-agent-bench-2026]] — Agenten in Instruktionsdesigntheorie fundieren
-- [[ai-learning-tools-engineering-education-needs]] — KI-Lernwerkzeuge in der Ingenieurpädagogik
-- [[fowlin-operationalizing-learning-principles-ai]] — Lernprinzipien mit KI operationalisieren
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — KI und Instruktionsdesign-Praxis: Ein systematischer Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instruktionsansätze in KI-Kompetenz-Interventionen
-- [[cognitive-distribution-student-genai-interaction-2026]] — Student-KI-Interaktion als sich verschiebende kognitive Verteilung, nicht als feste Abhängigkeit (53,3 % Extension)

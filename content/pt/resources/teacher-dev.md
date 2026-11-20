@@ -33,6 +33,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -52,7 +53,3 @@ Professores da educação básica que querem uma ferramenta para um problema esp
 ## Notas e ressalvas
 
 O ritmo é tanto o argumento quanto o risco. Construções de um dia miram um problema real de sala de aula, não uma pergunta de pesquisa, então nada aqui carrega uma avaliação e uma afirmação sobre o que um aplicativo faz deveria ser testada em sala de aula. Trinta e dois repositórios públicos estão na organização do GitHub enquanto a galeria lista 34, todos Apache-2.0 com código disponível, de modo que um aplicativo pode ser lido e auto-hospedado. O desenho local-first é uma afirmação a verificar aplicativo por aplicativo, e o professor deve confirmar antes de colocar qualquer ferramenta voltada ao estudante diante de uma turma.
-
-## Conceitos conectados
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

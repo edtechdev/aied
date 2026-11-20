@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -94,32 +96,3 @@ Mkondo huu una utajiri wa upimaji na umaskini wa matokeo. Kuna vyombo vilivyothi
 - **"Maandishi yaliyozalishwa na AI ni rahisi kwa sababu yamezalishwa kwa kiwango."** Ushahidi unaenda upande mwingine kwa matokeo ya modeli: modeli za mipaka zinatumia kupita kiasi miundo inayohusishwa na gharama ya ufahamu.
 - **"Kusoma kwa AI ni tabia moja."** Kipimo cha AIR kinagundua motisha nne tofauti, na zinatabiri aina tofauti za matumizi.
 - **"Iwapo AI inaweza kuandika upya maandishi, kiwango cha kusoma hakina maana tena."** Utofautishaji hubadilisha msaada kuzunguka kifungu zaidi kuliko utata wa kimuundo wa kifungu, ambayo ni uingiliaji tofauti na kupunguza kiwango chake.
-
-## Dhana zinazohusiana
-
-- [[ai-education]] — mwavuli ambao uwanja huu uko chini yake
-- [[language-learning]] — kusoma kwa L2 kunapishana, lakini upatikanaji ndio kitu huko
-- [[writing-education]] — upande wa utungaji wa ujuzi wa kusoma na kuandika
-- [[english-education]] — kusoma na usomekaji wa EAP/EFL/ESL
-- [[educational-nlp]] — tabaka la upimaji wa maandishi ambalo usomekaji unategemea
-- [[assessment]] — tathmini ya kusoma na uhalali wa alama
-- [[motivation]] — kwa nini wasomaji hutumia AI, na hilo hufanya nini kwa usindikaji
-- [[scaffolding]] — tabaka za msaada katika nyenzo za kusoma zilizotofautishwa
-- [[neurodiversity]] — disleksia na ugumu wa kusoma
-- [[accessibility]] — maandishi yanayosomwa na binadamu dhidi ya yanayosomwa na mashine
-- [[generative-ai]] — teknolojia iliyo nyuma ya maandishi yaliyozalishwa na yaliyobadilishwa
-
-## Makala zinazohusiana
-
-- [[air-scale-motivations-ai-reading-2026]] — kipimo kilichothibitishwa cha motisha za kusoma kwa GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — tathmini ya kusoma inayopitia AI katika darasa la EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — nyenzo za kusoma za EAP zilizotofautishwa
-- [[llm-children-reading-story-generation]] — hadithi za kusoma za watoto zinazodhibitiwa kwa kiwango
-- [[text-simplification-its]] — kutathmini kurahisisha maandishi kwa ufundishaji
-- [[clara-developmental-appropriateness-children-stories-2026]] — ugumu wa maendeleo zaidi ya fomula za usomekaji
-- [[bird-multimodal-educational-literature-2026]] — kuainisha fasihi kwa Key Stage
-- [[clark-ai-generated-language-readability-2026]] — kwa nini lugha iliyozalishwa na AI ni ngumu kusoma
-- [[sidorkin-ai-generated-course-readings-2026]] — usomaji wa kozi uliobinafsishwa uliozalishwa na AI
-- [[airri-machine-resistant-reading-interface-2026]] — violesura vya kusoma vinavyostahimili mashine na gharama yao ya usomekaji
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — maoni ya ChatGPT katika kusoma kwa sekondari
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI kwa wanafunzi wenye disleksia

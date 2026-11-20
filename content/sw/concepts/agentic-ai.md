@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -221,62 +223,3 @@ AI inayojitegemaa si tiba wala dhara isiyoweza kuepukika: thamani yake inategeme
 **"Mifumo yenye wakala katika elimu ina msingi wa kielimu kwa sababu watafiti wa elimu wanajenga."** Ushahidi unasema kinyume: mapitio ya wigo yaligundua kuwa **29% tu ya masudio ya AI yenye wakala (138 kati ya 474)** yaliweka mifumo yao kwa uwazi juu ya nadharia ya kielimu. Mgawanyiko wa kitaaluma kati ya kazi inayoelekea kiufundi na kazi inayoelekea kielimu ni hali ya uwanja, si uzembe wa mwandishi mmoja, hivyo onyesho linalofanya kazi ni matokeo yanayotarajiwa na onyesho linalofanya kazi *kwa kujifunza* ni hali ya wachache.
 
 **"Wakala anayebinafsisha na kukuza kujifunza ni faida halisi juu ya chatbot."** Unabeba biashara mahususi pamoja nao: mifumo yenye wakala inatishia [[agency|wakala wa mwanafunzi]] na inakaribisha [[cognitive-offloading|kupunguza]] juhudi za kiakili ambazo kujifunza kunategemea, na kwa kufanya hatua nyingi bila usimamizi inafanya kupunguza huko kuwa vigumu kutambua. Msongo wa kuotomatisha dhidi ya kujifunza ni tatizo kuu la uchanganuzi wa kategoria hii badala ya onyo linaloongezwa kwenye faida zake.
-
-## Dhana Zilizounganishwa
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Makala Zilizounganishwa
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — kupiga alama kwa wakala kwa mitihani 60 iliyoandikwa kwa mkono: r = .97 kwa ujumla, kappa ikishuka hadi .65 kwenye vitu vya tathmini
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Mawakala waliopangwa kuzunguka programu ya uwezo inayoweza kurekebishwa, na mwanafunzi kama mwanachama
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Uhuru, uwezo, uhusiano na uwepo wa kijamii kama njia kutoka AI inayojitegemaa hadi kuhusika (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini yenye furaha, na nafasi ya tatu
-- [[ilieva-agentic-genai-higher-education-2026]] — Mfumo wa AGAI-HE: GAI inayojitegemaa yenye mipaka, inayosimamiwa na binadamu katika elimu ya juu (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — mapitio makini ya kuunganisha yanayoanzisha mfumo wa ushahidi/usimamizi wa AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Mtazamo juu ya mifumo ya mawakala wengi inayojitegemaa yenye ujumuishaji katika elimu ya juu
-- [[baradziej-agentic-ai-higher-education-2026]] — Mapitio ya kimfumo ya majukumu ya AI inayojitegemaa katika elimu ya juu (masudio 48; majukumu sita; mfumo wa ujumuishaji wenye uwajibikishaji wa pande tatu)
-- [[kostopoulos-agentic-ai-education-2025]] — AI inayojitegemaa katika elimu: hali ya sanaa na mwelekeo wa baadaye (uchunguzi wa IEEE Access; ufafanuzi wa kiendeshaji + taksonomia)
-- [[agentic-ai-education-scoping-review]] — Mapitio ya wigo ya AI inayojitegemaa katika elimu (masudio 474)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Msongo wa mawazo kati ya kuotomatisha na kujifunza
-- [[tool-invariant-framework-agentic-ai]] — Kufundisha na kutathmini mbinu za kikokotozi katika enzi ya AI inayojitegemaa
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: kupima mawakala wa kubuni mafunzo
-- [[adversarial-stress-testing-role-playing-agents]] — Upimaji wa matendo mabaya ya mawakala wanaocheza jukumu
-- [[ai-agents-constructive-conflict-design-education-2026]] — Mawakala wa mgogoro wa kujenga katika elimu ya kubuni
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK ya mwalimu na mitiririko ya kazi ya mawakala wengi
-- [[code-gen]] — Mawakala wa kuzalisha msimbo
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Kigezo cha kupima wakala wa LLM wa kieledu
-- [[guided-llm-scaffolding-independent-learning]] — Ngazi za msaada za LLM zilizoelekezwa kwa kujifunza huru
-- [[learnmate2-llm-adaptive-learning]] — Mawakala wa kujifunza kulingana na mabadiliko wa LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Mawakala wa kujifunza usalama wa mtandao kwa mtindo wa mchezo
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — AI inayojitegemaa katika uigizaji wa kliniki
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Wanafunzi wa kigeni na pengo la uhakiki la AI inayojitegemaa (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Mawakala wa AI wanaokamilisha kazi za LMS; kushindwa kwa uhalani kupitia dhania ya uzalishaji wa binadamu (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — Mawakala wa Wavuti wa AI: wakala wa kuelezea kama mthamini wa uzoefu wa kujifunza (anatabiri kuacha, anatoa maoni ya kubuni kabla wanafunzi hawajashiriki)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD na mawakala wa AI katika PBL ya programu; kuotomatisha dhidi ya ufahamu
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kutathmini Mfumo wa Mawakala Wengi wa LLM unaoelekezwa na Ngazi za Msaada kwa Mafunzo ya Mahojiano ya Kliniki
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Mawakala wa Mafunzo ya Maadili: Kuwezesha Elimu ya Maadili ya Kikundi kwa Kucheza Jukumu na Majadiliano kwa Tafakari ya Maadili na Uchunguzi
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Kulinganisha Mbinu za AI kwa Uchimbaji wa Ujuzi kwa Kiotomatiki: Kutoka Uwekaji hadi Mifumo ya Mawakala kwa Elimu ya Uhandisi

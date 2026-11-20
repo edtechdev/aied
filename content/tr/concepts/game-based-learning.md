@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -82,35 +84,3 @@ GBL ve oyunlaştırma birlikte [[educational-robotics]], [[student-engagement]],
 - Alanın hacmini değil tasarım niteliğini yükseltin; %7'lik yüksek nitelik oranı, ne sonuç çıkarılabileceği üzerindeki bağlayıcı kısıttır.
 
 - **Bir simülasyonda konuşmaya dayalı geri bildirim, dışsal yükü düşürmeden ilgili yükü artırır.** **234 öğrencinin** yer aldığı beş haftalık bir iş simülasyonu oyununda, GPT-4o tabanlı bir geri bildirim sohbet robotunun düzenli kullanıcıları, erişimi olup etkileşime girmeyen kullanıcılara (β = −.468, p < .001) ve statik geri bildirim kontrolüne (β = −.253, p = .028) kıyasla **anlamlı biçimde daha yüksek ilgili bilişsel yük** bildirdi; oysa **dışsal yük her iki spesifikasyonda da etki göstermedi** (F(1, 219) = 0.499, p = .481). Her iki yük de **beş hafta boyunca azaldı** (dışsal β = −.388, p < .001); bu, etkileşim yerine bilişsel yük üzerinde ölçülen bir yenilik etkisidir ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ve Liening, 2026]]). Tasarım noktası, geri bildirimin [[personalized-learning|kişiselleştirme]], işaretleme, bölümleme ve ileriye dönük yapıyı 19 somut gösterge üzerinden taşımasıdır; tek başına sohbet robotu yüzeyi müdahale değildir.
-
-## Bağlı kavramlar
-
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Şemsiye: Eğitimde YZ bağlamında pedagojiler ve öğretim stratejileri
-- [[virtual-and-augmented-reality]] — sürükleyici ve oyunlaştırılmış uygulama, tasarım ve kanıtlarda örtüşür
-
-## Bağlı makaleler
-
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — İlkokul öğrencileri bir kaçış kutu oyunu tasarlıyor; YZ okuryazarlığı tek bir e-ders laboratuvarında yükseliyor
-
-- [[ai-game-based-learning-systematic-review-2026]] — 55 YZ destekli oyun temelli öğrenme çalışmasının sistematik derlemesi: olumlu sonuçlar, ince bir kanıt tabanı
-- [[game-based-gamified-robotics-education-review-2026]] — Oyun Temelli ve Oyunlaştırılmış Robotik Eğitimi
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Eğitimde Robotik ve YZ
-- [[genai-motivation-engagement-2026]] — Üretici YZ, Güdülenme ve Etkileşim
-- [[nasa-tlx-workload-gamified-ai-2026]] — Oyunlaştırılmış/YZ koşullarında NASA-TLX iş yükü
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS güdülenmesi ve YZ destekli oyunlaştırma
-
-- [[xie-genai-mystery-game-legal-education-2026]] — Hukuk eğitiminde GenAI yazımı gizemli rol yapma oyunu ile ders karşılaştırması (Xie ve ark. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Hesaplamalı düşünme için YZ ile güçlendirilmiş oyun temelli öğrenme ortamının tasarımı ve ön doğrulaması

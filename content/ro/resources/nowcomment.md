@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -47,12 +48,3 @@ Profesori care fac lectură atentă, studiu de documente sau analiză media în 
 ## Note și precauții
 
 Conturile sunt gratuite, iar documentele pot fi publice sau partajate cu un grup invitat. Partenerii IA rulează pe modele lingvistice mari OpenAI, așa că pasajele și întrebările selectate părăsesc găzduirea proprie a platformei și sunt supuse termenilor acelui furnizor — un district școlar ar trebui să citească aranjamentul de prelucrare a datelor înainte de a-l folosi cu minori. Rezultatul este limitat de un plafon de tokeni pe care site-ul spune că îl extinde încă, catalogul de parteneri este în spatele unei autentificări, iar suprafețele IA sunt o parte a produsului care se mișcă repede: tratează orice capabilitate descrisă aici ca starea site-ului în noiembrie 2026, nu ca un set de funcții stabil.
-
-## Concepte conexe
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

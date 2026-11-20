@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,7 +50,6 @@ ai_assist:
 
 Çok dilli YZ, [[culturally-relevant-pedagogy|kültürel olarak ilgili pedagojiyi]] yansıtacak şekilde çevirinin ötesine geçmelidir — dilsel ve bağlamsal olarak uygun içerik üretmelidir. [[llm-cultural-relevance-k12|K-12’de YZ kültürel ilgisi]] ve [[scaffolding-critical-engagement-genai-minority-students|azınlık öğrenciler arasında Üretken YZ ile eleştirel etkileşim]] çalışmaları, dilsel ve kültürel uyumun öğrencilerin gerçekten yarar görüp görmediğini şekillendirdiğini gösterir. Ele alınmadığında, YZ’deki tek dilli önyargı [[digital-divide]] derinleştirir ve [[equity-in-ai-education|Küresel Güney genelinde Eşitliği]] [[global-south|Küresel Güney genelinde]] zarara uğratır.
 
-
 Diller arası geçiş (translanguaging), üretken [[conversational-ai|sohbet robotlarının]] eklediği ve önceki dil araçlarının sahip olmadığı bir olanaktır. 24 çalışma üzerine bir [[meta-analysis-systematic-review|sistematik derlemede]] öğrenenler, hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar istedi; derleyiciler bu kullanımı yeniden paketlenmiş değil yeni bir alt olanak olarak sınıflandırır ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
 
 ## Değerlendirme önyargısı
@@ -70,29 +71,3 @@ YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel
 - **"Hedef dil ilk günden egemen olmalıdır."** **24 çalışma üzerine bir sistematik derlemede**, öğrenenler **hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar** istedi; derleyiciler bu kullanımı bir geçici çözüm değil gerçekten yeni bir alt olanak olarak sınıflandırır. Ana dili desteği kaçınma değil [[scaffolding|iskeleleme]] işlevi gördü.
 - **"YZ dil değerlendirmesi çok dilli yazarlara karşı yanlıdır."** Burada önyargı modelden çok **insan temel çizgisini** izledi: **3-6. sınıf bilgilendirici yazımı** üzerine LLM tabanlı karşılaştırmalı yargı **araştırmacı rubrikleriyle yakınsadı (r = ,59-,73)** ve insan değerlendiricilerin gösterdiği örüntünün aynısını gösterdi. Bu, mutlak anlamda adillik kanıtı değildir; modelin mevcut çarpıklığın üzerine yeni bir çarpıklık eklemediğinin kanıtıdır.
 - **"Yararlı olan kısım çeviri kalitesindeki çıktıdır."** Köprü kullanımı açıklayıcı ve bağlamsaldır, ikame edici değil. Öğrenenin kendi üretiminin yerine geçen bir araç, köprünün mümkün kılmayı amaçladığı alıştırmayı ortadan kaldırır.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Bağlı makaleler
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Üretken YZ sohbet robotları, önceki dil araçlarının desteklemediği diller arası geçişi mümkün kılıyor
-
-- [[llm-comparative-judgment-writing-screening-2026]] — Evrensel Yazım Taraması için Büyük Dil Modeli Karşılaştırmalı Yargısının Geçerliliği
-- [[multilingual-adaptive-learning-nigeria-2026]] — Nijerya için YZ Tabanlı Uyarlanabilir Öğrenme Platformu
-- [[bilingual-llm-lecture-companion-srl-2026]] — İki Dilli YZ Ders Arkadaşı
-- [[structural-silence-underrepresented-language-ai-2026]] — Yapısal Sessizlik: Yetersiz Temsal Edilen Diller
-- [[llm-cultural-relevance-k12]] — K-12’de YZ Kültürel İlgisi
-- [[scaffolding-critical-engagement-genai-minority-students]] — Azınlık Öğrenciler Arasında Üretken YZ ile Eleştirel Etkileşim
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Hint Bilgi Sistemleri Veri Kümesi
-- [[kutti-ai-voice-first-learning-companion]] — Ses Öncelikli Öğrenme Arkadaşı
-- [[ai-scoring-language-bias-physics]] — Fizikte YZ Puanlama Dil Önyargısı

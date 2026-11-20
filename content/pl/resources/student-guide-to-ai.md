@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -48,11 +49,3 @@ Studenci studiów licencjackich dowolnej dyscypliny oraz uczniowie starszych kla
 Przewodnik jest ujęty [[formative-assessment|formatywnie]] i mówi to wprost: wyniki są migawką nawyków, a nie oceną, cechą czy predykcją, a studentów prosi się, by nie udostępniali ich publicznie.
 
 Ujęcie SI opiera się na przywołanych dowodach sondażowych i eksperymentalnych, że zlecanie wysiłku na zewnątrz może zostawić studentom mniej — to pytanie o [[cognitive-offloading|odciążanie]], napisane, by mu przeciwdziałać, a nie by je rozstrzygnąć. PDF przewodnika terenowego stoi za krótkim formularzem pytającym o imię, rolę, instytucję i e-mail; moduły przewodnika nauczyciela i praca o ramach pedagogicznych pobierają się bezpośrednio. Wersja interaktywna działa w Gemini Notebook i wymaga konta Google. Liczby wydawcy — ponad 40 000 pobrań PDF w około 4 000 instytucji w 180 krajach i ponad 130 własnych wydań kampusowych — są jego własne, podobnie jak rekomendacje ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute i RTI International.
-
-## Powiązane pojęcia
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

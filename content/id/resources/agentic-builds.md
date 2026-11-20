@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,7 +43,3 @@ Dosen dan [[learning-design|perancang pembelajaran]] yang menginginkan contoh ny
 ## Catatan dan peringatan
 
 Karya-karyanya dijelaskan sebagai dibagikan secara terbuka, tetapi tidak ada lisensi yang dinyatakan di halaman karya maupun galeri, sehingga penggunaan ulang memerlukan izin penulis alih-alih asumsi pemberian lisensi. Sumbernya publik, tetapi — repositori akun itu memuat HTML dan JavaScript di balik karya-karya tersebut, plus tutorial untuk bekerja dengan agen pengkodean di pendidikan, sehingga pembaca dapat memeriksa sebuah aplikasi alih-alih hanya menjalankannya. Beberapa tautan mengarah ke alamat pratinjau deploy Netlify alih-alih situs proyek; itu dibangun untuk tinjauan dan dapat kedaluwarsa, sementara karya GitHub Pages adalah yang stabil. Beberapa karya bergantung pada model Jev TypeSafe AI dan menampilkan probabilitasnya, sehingga perilaku yang mendasarinya adalah pertimbangan sebuah model alih-alih aturan tetap. Jalur kesulitan yang diinginkan adalah sebuah argumen — friksi sebagai fitur — dan halaman ini menyajikannya tanpa melaporkan evaluasi apakah siswa belajar lebih banyak.
-
-## Konsep terkait
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

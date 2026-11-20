@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -90,47 +92,3 @@ A própria palavra é contestada a montante. [[deimann-rethinking-openness-ai-20
 **"Modelos de fronteira fechados são simplesmente melhores, então alternativas abertas são um recurso de reserva."** A lacuna é mais estreita do que essa suposição implica. No [[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark]] (CDPK + SEND, construído a partir de itens genuínos de provas de professores chilenos) cobrindo 97 modelos, o **DeepSeek R1 de pesos abertos alcançou 86,65%**, contra um top 10 formado majoritariamente por modelos fechados de raciocínio — e a comparação custo–acurácia corre ainda mais na direção aberta. O argumento restante a favor da abertura é, portanto, sobre controle e auditabilidade, e não sobre um sacrifício de capacidade.
 
 **"Liberar os pesos é liberar o trabalho."** As contribuições abertas mais fortes liberam o pipeline. O OmniEdu publica supervisão equilibrada por capacidade sobre uma mistura de 69.999 exemplos, em vez de apenas os pesos finais, elevando toda escala de uma família K-12 aberta de 4B/9B/27B, com o modelo 4B ajustado ganhando **55 pontos** de desempenho de [[scaffolding|andaimento]] no MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] igualmente documenta seu procedimento de RL e ajuste fino, incluindo 440 negativos difíceis minerados e 40.000 respostas geradas. Pesos sem a receita reproduzem um resultado sem reproduzir o método.
-
-## Conceitos conectados
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Artigos conectados
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistente de IA de base de conhecimento com REA em hardware de consumo (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — Tutor adaptativo com licença MIT e biblioteca de conteúdo OpenStax em CC BY (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Modelo pedagógico aberto de 32B superando sistemas proprietários muito maiores (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Corretor automático local com LLM compatível com a FERPA, de encaixe imediato
-- [[programming-its]] — LLM de pesos abertos autohospedado para conformidade com GDPR/Lei de IA da UE em um ITS em Python
-- [[aiawe-automated-writing-evaluation]] — Modelo de pesos abertos adaptado com LoRA para avaliação automatizada de escrita
-- [[stanbkt-bayesian-knowledge-tracing]] — Pacote Python aberto para rastreamento de conhecimento bayesiano completo
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Framework de tutoria agêntica totalmente de código aberto com memória de quem aprende
-- [[vismatic-secure-sandbox-cs-education]] — Sandbox em contêiner aberto para avaliação orientada ao processo
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutor de matemática sensível ao afeto com base de código aberta
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmark aberto de pedagogia ao longo de 97 modelos e a fronteira custo–acurácia
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Conjunto de dados e protótipo abertos para avaliação de tutoria multiagente baseada em rastros
-- [[mllm-scientific-visualization-literacy]] — Modelos abertos abaixo da linha de base humana em letramento de visualização
-- [[iks-instruct-dataset-indian-knowledge]] — Conjunto de dados multilíngue aberto para instrução culturalmente fundamentada
-- [[aied-carbon-footprint-reporting]] — Método de código aberto para relatar o custo ambiental de LLM
-- [[egai-power-systems-education]] — Biblioteca aberta e executável de módulos para IA em engenharia
-- [[mooc-to-maic]] — Geração de cursos movida por LLM e a economia em mudança da produção de cursos
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: modelos fundacionais abertos para aprendizagem e ensino

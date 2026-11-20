@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -45,6 +46,3 @@ Nhà thiết kế giảng dạy và giảng viên muốn một quyết định t
 ## Ghi chú và lưu ý
 
 Hãy đọc bảng độ tin cậy trên mỗi trang. Các mô hình ngôn ngữ duy trì wiki dưới một người duy trì là con người, không ai đã kiểm tra bất kỳ trang nào, và trang tự gắn nhãn một trang là manh mối có nguồn tốt chứ không phải một phát hiện. Các tuyên bố mang một bậc thiết kế, một mã cỡ hiệu ứng và một mã độ chặt chẽ, và “không in cỡ hiệu ứng” nghĩa là nguồn không báo cáo cỡ nào, không phải là không có. Nội dung theo CC BY-SA 4.0, nên việc tái dùng phải mang cùng giấy phép, còn mã là MIT.
-
-## Khái niệm liên quan
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

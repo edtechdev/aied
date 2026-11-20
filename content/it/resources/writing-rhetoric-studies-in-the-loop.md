@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -43,6 +44,3 @@ L'introduzione della raccolta inquadra un prompt come un genere retorico con una
 ## Cosa sapere prima di usarlo
 
 L'intero libro è gratuito in PDF e ePub, e i singoli capitoli sono pubblicati separatamente con i propri DOI. La pubblicazione è del luglio 2026 per il WAC Clearinghouse nella serie WAC Repository, 402 pagine, a cura di Anuj Gupta e Brian Gogan, con il DOI della raccolta 10.37514/TWR-B.2026.2999. La licenza è Creative Commons BY-NC-ND 4.0, quindi i lettori possono consultare, stampare copie personali e collegarsi al libro, ma non possono riprodurlo su un altro sito o adattarlo senza permesso; un corso che voglia una formulazione modificata dei prompt dovrebbe scriversi la propria versione anziché ristampare queste. Il prompt di ciascun capitolo è stato testato su diverse piattaforme, anche se il libro non riporta alcun confronto controllato degli esiti, quindi vanno trattati come progetto esperto anziché come intervento validato.
-
-## Concetti collegati
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

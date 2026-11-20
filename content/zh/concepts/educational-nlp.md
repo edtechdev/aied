@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,38 +85,3 @@ ai_assist:
 - **“语义相似度可以筛选课程对齐。”** 在筛选 **3,837 对牙科目标与摘要**时，嵌入检索加一项自然语言推断检查，把 **22.9% 的条目**判为对齐：语义相似度是对齐的**弱信号**。流畅的主题匹配与真正的学习目标匹配，是两种不同的关系。
 - **“话语级分类是自然的单位。”** **整课建模胜过话语级分类**：对整个转录评分而非对孤立话语评分，把推理链检出率**提高了 14.2 个百分点**。跨越整课的上下文携带了任何单一回合都会破坏的信息。
 - **“把 NLP 规模化地用于评价评论就能产生影响力。”** 一项 PRISMA-ScR 范围综述与证据地图覆盖 **421 项研究**（2015-2026），它们把 NLP 应用于开放式的教学学生评价，发现规模化**没有抵达使用**。方法输出的数量不是采纳，缺口在部署环节，而非建模。
-
-## 关联概念
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — 总览：AI技术与技术（模型、LLM训练、机器人、RAG、智能体）
-
-## 关联文章
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — 按措辞而非按物理组织的嵌入聚类
-- [[lee-learner-question-types-ai-education-2026]] — 用Transformer将学习者问题分类为建构主义角色（Lee, Atif & Kang 2026）
-- [[bert-discourse-english-teaching-2026]] — 用BERT为英语教学做自动话语关系分类
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — StudyChat：AI课程中学生—LLM对话数据集
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 神经符号教学对齐（NSPA）
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — 用于评分量表教学质量评估的SHAP与LLM理由
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 为学习分析蒸馏自解释语言模型
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — 多智能体LLM（GradeOpt）编码教师的内容知识与教学内容知识；经典编码器与朴素提示在PCK上力有不逮
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：用于教育对话可审计编码的断言模式
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 从情感分类到可行动且负责任的反馈：NLP在教学学生评价中的范围综述与证据图谱，2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — 对新颖AI辅助教育题的教学评估中预训练模型的评估
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge：用于细粒度知识概念标注的选择性推理流水线
-- [[nlp-reading-lists-dental-education-2026]] — 用自然语言处理把阅读材料与学习目标对齐并评估牙科教育中的主题平衡
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS：用于噪声混合文档解析的手写作答纸数据集

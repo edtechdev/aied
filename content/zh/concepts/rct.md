@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -69,24 +71,3 @@ ai_assist:
 - **"随机化保证了关于工具作用的有效估计。"** 随机化平衡混杂因素，它并不确保有人真的使用了处理。一个低采纳率的整群随机试验估计的是**提供**该工具的效应，而意图处理与处理组平均处理效应回答的是不同的问题。
 - **"大试验总是更好的设计。"** 有人主张，常规的大规模试验**无法跟上在研究期间发生实质变化的辅导平台**，于是改用随着系统演化仍然有效的教师主导设计。针对一个移动靶的试验可以有充分的功效，却仍然在测量一个已不存在的系统。
 - **"RCT 与观察性证据可以相互替代。"** 一项有 **1,174 名参与者**的 RCT 发现，生成式 AI **弥合了约四分之三的教育基础生产力差距**，这是关于一个特定时期的精确因果主张。观察可以解释机制与采纳，它承载不了那个估计，而 RCT 解释不了原因。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — 最强学生支持证据背后的设计
-
-## 关联文章
-
-- [[generative-ai-education-productivity-gaps]] — 生成式 AI 能缩小教育造成的生产力差距吗？一项随机实验的证据
-- [[genai-can-harm-teaching-rct-2026]] — 生成式 AI 能损害教学：一项随机对照试验
-- [[access-not-enough-ai-tutoring-2026]] — 仅有获取并不够：人类支持改善对 AI 辅导的参与
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 以创新的速度评估 AI 辅导：GCSE 科学中 AI 辅导平台的实践者主导微观随机试验
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 按教师整群随机分组：期末成绩下降 0.37 SD、平台参与下降 0.90 SD，采用率 15%，34 个集群上的推断（Liu et al. 2026）
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 45 天后，AI 辅助组的保持率为 57.5%，对照组为 68.5%（Barcaui 2025）
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 备课时间为对照组的 0.76，尽管该工具只覆盖 7% 的课时（Roy 等人 2026）

@@ -15,6 +15,8 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 > **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every program faces: whether assisted performance on law-school tasks is evidence of the analysis the license depends on. Its structure is unusual. In the United States, [[governance|governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.
@@ -83,30 +85,3 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 - **"Law schools have settled on a position."** Most adopted **generally prohibitive stances**, often explained as **buying time to study the technology**, while **almost all policies reserved discretion to individual instructors**. A prohibition with an instructor override is not a settled position, it is a deferral with a default.
 - **"Survey evidence describes the field."** The **ABA's 2024 survey drew responses from only 29 schools, roughly 15% of ABA-approved law schools**, and a LexisNexis survey of **800** practitioners measures a different population. Neither can be treated as representative of legal education, and both get cited as though they were.
 - **"Withholding an AI recommendation is neutral."** In a legal-context experiment, **186 lay decision-makers on tribunal civil cases deferred to an incorrect AI position far less when the system withheld its own position (5.7-8.2% versus 42.0-60.5%)**. Withholding did not produce neutrality; it produced a large reduction in deference, which is an effect in its own right.
-
-## Connected Concepts
-
-- [[academic-integrity]] — the conduct framework applied to assisted work
-- [[assessment-validity]] — whether assisted performance measures the intended competence
-- [[authentic-assessment]] — designs that require unaided analysis
-- [[ai-use-disclosure]] — attribution and reporting norms still without consensus
-- [[governance]] — faculty governance and policy creation as law schools practice it
-- [[educational-policy-ai]] — institutional AI policy as an object of study
-- [[critical-thinking]] — the reasoning the case method is meant to build
-- [[case-based-learning]] — the case method and case discussion as a pedagogy
-- [[socratic-method]] — dialogue dependent on student preparation
-- [[experiential-learning]] — clinics and practice-based training
-- [[professional-training]] — the wider family of licensed professions
-- [[career-development-and-readiness]] — practice readiness as the stated purpose
-- [[ai-literacy]] — technological competence as a professional duty
-- [[hallucination-risk]] — fabricated citations as the field's signature failure
-- [[legal-issues-and-risks]] — what institutions face when governance fails
-
-## Connected Articles
-
-- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: an 82-work scoping review (Lorteau & Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's position suppresses overreliance in legal-context decisions without building judgment (lay decision-makers, not law students)
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture: a randomized trial (Xie et al. 2026)
-

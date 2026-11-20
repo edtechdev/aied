@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,7 +47,6 @@ Kwa walimu wenye [[embodied-learning|umbo la kimwili]], uchanganuzi-makubwa wa m
 
 Ukubwa wa kipengele cha maarifa ni uamuzi wa uundaji katika ufundishaji wa shuleni: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny na Meurers (2026)]] walilinganisha mifano 19 ya kipengele cha maarifa (KC) inayochukua viwango 11 vya uongozi wa kikoa cha FeedBook kwenye majibu 153,819 ya jaribio la kwanza kutoka wanafunzi 1,059 wa darasa la saba wanaojifunza Kiingereza katika shule za Ujerumani. Mifano ya kiwango cha kipengele kilichogawanywa kipembamba ilitabiri vyema zaidi kwa wanafunzi wapya kwenye maudhui yanayojulikana, wakati mifano ya kiwango cha kati iliyotegemea maana ilienea vyema zaidi kwenye maudhui mapya (Kitambulisho cha Sifa + Aina ya Zoezi RMSE 0.4243 chini ya AFM dhidi ya 0.4447 kwa Kitambulisho cha Kipengele Kinachoweza Kutekelezwa). Ukaguzi wa ufunikaji wa uwekaji alama uligundua kuwa ramani kali ya sifa mwanzoni iliondoa 45.7% ya rekodi na chombo kipya cha uwekaji alama kilipunguza kutengwa hadi 30.6%, huku lebo ya pamoja positive|statement peke yake ikichukua 74.9% ya rekodi zilizotengwa.
 
-
 Ulinganisho wa kazi 52 za tathmini za EFL zilizokadiriwa na walimu 20 wenye uzoefu haukupata tofauti kubwa ya ubora kwa ujumla kati ya vipengele vilivyotengenezwa na AI na vilivyotengenezwa na binadamu, lakini ulionesha mgawanyo wazi wa kazi: AI ilipendekezwa kwa sarufi na msamiati (69%) na maendeleo ya binadamu kwa kusoma, kuandika, kusikiliza na kusema (75–83%) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia na Darvishi (2026)]]).
 
 **Tathmini ya kiotomatiki ya uandishi kwa wanafunzi wa L2** inatathmini uwezo wa AI wa kutathmini uandishi usio wa asili. **[[self-referential-l2-writing-llm-assessment|Bannò na wenzake]]** walipendekeza mbinu ya kujirejelea inayolinganisha uandishi wa mwanafunzi na kazi zao za awali badala ya viwango vya wazungumzaji asili. **[[ai-scoring-language-bias-physics|Feser na Tschisgale]]** waligundua alama za AI zinadharau kwa mpango wanafunzi wenye udhaifu wa lugha — ugunduzi unaoungana na wasiwasi wa [[assessment-validity]] na [[bias-mitigation]]. **[[genai-linguistic-diversity-academic-writing]]** huchunguza jinsi AI inavyoathiri urasilishaji wa lugha katika miktadha ya kitaaluma.
@@ -63,7 +64,6 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 **Uandishi unaoungwa mkono na GenAI katika kiwango cha msingi.** [[genai-writing-program-primary-l2-motivation-engagement|Lu na wenzake (2026)]] waliendesha mpango wa wiki tisa wa uandishi wa maoni na wanafunzi 301 wa Darasa la 5 na 6 katika China ya Mashariki, zikiwa na madarasa manane kamili yaliyogawiwa nasibu kwa mpango au kwa mafunzo ya kawaida. Mpango uliinua wanafunzi kuelekea bora ya uandishi wa L2 (tofauti ya wastani iliyorekebishwa 0.20) na uwezo wa kubaki kielimu (0.17), na kuinua kushiriki kwa tabia na kihisia, lakini hakusogeza mawazo ya ukuaji, kushiriki kwa kiakili au metakognitivi, au mpangilio uliokadiriwa na rubric — miongoni mwa vipimo vya uandishi ni matumizi ya lugha tu yaliyoboreshwa. Vipengele viwili vya ubunifu ni muhimu kwa walimu wa lugha: kuweka prompt kulitafundishwa waziwazi, kupitia benki ya prompt iliyopangwa iliyoungana na malengo mahususi ya uandishi, na maoni ya GenAI yalitumika pamoja na kulinganisha na maoni ya mwalimu na marekebisho ya kurudiwa. Faida za uandishi zilizotangazwa na wanafunzi zilitegemea muundo huo wa kielimu badala ya zana yenyewe, na waandishi wanataja kupungua kwa [[metacognition|kujisimamia]] na mikakati inayoelekea njia za mkato kama hatari zinazodumu.
 
 **Mafundisho ya sarufi ya GenAI hufanya kazi kupitia marekebisho, si maoni.** Katika jaribio la nusu la wiki kumi na wanafunzi 88 wa EFL wa Ethiopia, mizunguko ya rasimu–ilani–tafakari–rekebisha ilipandisha sarufi (η² = 0.499) na uandishi kwa ujumla, na alama za maudhui zilipanda ingawa ilani ilizuia maoni ya maudhui ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa na Abo, 2026]]).
-
 
 ## Mabadiliko kwa walimu wa lugha
 
@@ -92,7 +92,6 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 
 **Wanafunzi wa tafsiri wanaweza kuhamishwa kutoka marekebisho ya uso.** Katika kozi ya tafsiri ya habari, [[xian-process-visualization-feedback-news-translation-2026|Xian na wenzake (2026)]] waligundua ushauri wa injini ya utaftaji ukipanda kutoka wastani wa 15.6% hadi 27.7% ya muda wa kikao (p = 0.020, ilirekebishwa kwa Holm) na utaftaji unaotegemea maarifa kutoka 7.2% hadi 28.8% (p = 0.010). Matumizi ya tafsiri ya mashine yalishuka kutoka 28.5% hadi 5.1% bila kufikia umuhimu (p = 0.338), na matumizi ya AI ya mwingiliano yalibaki katika wastani wa sifuri. Kigezo kilikuwa kuwaonyesha wanafunzi mchakato wao wenyewe badala ya kuzuia zana.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Walimu wa roboti wanaofanya kazi kwa sababu ya mwili."** Meta-analysis ya **masudio 11 ya RALL (N = 595)** iligundua athari kubwa iliyokusanywa kwenye kujifunza L2 (**g = 0.83**) ikiwa na **tofauti kubwa**, na muhimu zaidi, **vipengele vya ngazi ya mwingiliano pekee** vilipunguza athari hiyo. Morfolojia na namna ya uwasilishaji hazikufanya hivyo, kwa hivyo vifaa siyo kiungo tendaji.
@@ -100,64 +99,3 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 - **"Vipengele vya tathmini vilivyozalishwa na AI ni vibaya kuliko vilivyoandikwa na mwalimu."** Ulinganisho wa **kazi 52 za tathmini ya EFL zilizokadiriwa na walimu 20 wenye uzoefu** uligundua **hakuna tofauti kubwa ya ubora kwa jumla** kati ya vipengele vilivyozalishwa na AI na vya binadamu, lakini tofauti katika vipimo mahususi. Usawa wa jumla pamoja na udhaifu mahususi ni dai tofauti na uboreshaji au upungufu.
 
 - **"Maoni ya LLM yanaweza kupima uandishi tu."** Mfumo wa ngazi ya mazungumzo huenda mbali zaidi kwa **kutaja kasoro badala ya kupima maandishi**, huku uainishaji wa uhusiano wa jozi za sentensi ukibainisha **mikondo ya ulinganifu** kama kuruka kwa kimantiki na viungo vinavyokosekana. Matokeo yenye manufaa ni ya utambuzi, si ya namba.
-
-## Dhana Zilizounganishwa
-
-- [[eportfolio]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## Makala Zilizounganishwa
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[chatbots-oral-proficiency-efl-systematic-review]]: Faida za chatbot katika ufasaha wa kusema hujikita kwenye upeo na ueleweka
-
-- [[xian-process-visualization-feedback-news-translation-2026]] — maoni ya mchakato yalipandisha ushauri wa vyanzo na kupunguza matumizi ya tafsiri ya mashine katika kozi ya tafsiri ya habari
-- [[wordofa-genai-grammar-instruction-efl-2026]] — Mafundisho ya sarufi yanayosaidiwa na AI ya kizalishaji na kujiamini kwa uwezo binafsi na ufahamu wa metalugha wa wanafunzi wa EFL wa Ethiopia
-
-- [[acoustic-lexical-native-language-identification-learners-2026]]: Sauti inazidi kifaa cha uainishaji cha nakala cha GPT-4o cha hatua-sifuri kwa utambuzi wa L1 (Uluslu na wenzake 2026)
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR technology in college English speaking: feedback internalization and metacognitive strategies
-- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong
-- [[ai-speaking-practice-communicative-readiness-2026]] — Utayari, si utendaji ulioonekana
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Panua kiunzi cha AI hadi usomaji wa kushirikiana

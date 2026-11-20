@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -71,14 +73,12 @@ Fasihi ya [[collaborative-learning|ushirikiano]] na tathmini ya hifadhi hii ya m
 
 - **Zana ya maoni inaweza kuweka ngazi za hukumu huku walimu wakihifadhi sehemu ya uhusiano.** Pamoja na walimu 21 wa elimu ya juu wanaotumia PolyFeed, mfano ulibaini vipengele vilivyoachwa (20 kati ya 21 walikuwa wameruka "Kufikia Lengo la Kujifunza") na 12 waliandika upya maandishi ya ChatGPT, wakikita zaidi katika kipimo cha uhusiano wa mwanafunzi–mwalimu ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
-
 - **Chanzo cha maoni huunda kipimo gani cha hukumu kinajengwa.** Katika utafiti wa kesi wa takwimu za udaktari, ChatGPT-4o alitoa mwongozo wa taratibu lakini hakuweza kutambua faili ya data iliyo na makosa au jaribio lililotumika vibaya, wakati mazungumzo ya marika yaligundua data yenye makosa kwa wakati halisi na yalilazimisha uthibitishaji wa uchaguzi wa mbinu ([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]]).
 - **Mapitio yaliyopangwa ya marika na AI yanapanua usawa wa kimantiki.** Mfano wa PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] unaunganisha mapitio ya marika na mapitio ya AI na kutafakari kwa muundo, na ulijaribiwa katika utafiti mkubwa zaidi hadi sasa wa matumizi ya maoni ya AI na wanafunzi (wanafunzi 654, kozi kumi za uandishi). Unachukua *kulinganisha* kati ya hukumu ya mtu mwenyewe, ya marika, na ya AI kama uwanja wa mafunzo, na kuweka hukumu ya kutathmini kama matokeo ya kujifunza yanayoeleweka wazi badala ya bidhaa ya pili isiyoeleweka.
 - **Maoni ya AI yanasaidia tu wakati ujuzi wa maoni umekuwepo.** Mfumo wa dhana kutoka kwa viongozi wa ujuzi wa maoni [[zhan-boud-dawson-genai-feedback-engagement|(Boud, Dawson & Yan)]] unachanganua maoni katika kuvutiwa, kuchakata, na kutekeleza, kwa kutumia kesi mbili zinazotofautiana za IELTS na ChatGPT: mwanafunzi mwenye [[feedback-literacy|ujuzi wa maoni]] wa chini alitumia ilani ya kutokuwa na uhakika, alipokea matokeo ya jumla, na akaamini au kuyanakili kupita kiasi, wakati mwanafunzi mwenye ujuzi alitumia AI kwa njia mahususi na akajifunza. GenAI hupunguza vizuizi vya kiakili na vya kihisia vya kutafuta maoni lakini matokeo yenyewe yanaweza kuwa ya kutunga, ya upendeleo, au ya jumla — ndiyo maana [[teacher-role|walimu]] wanadaiwa kuiga mipango ya tathmini ya kufikiri na kufundisha hukumu, si tu [[prompt-engineering|kutoa ilani]].
 - **Hukumu endelevu, si maoni ya muda tu, ndiyo pengo.** [[meta-analysis-systematic-review|Mapitio ya upeo]] ya tathmini halisi [[zhan-boud-du-authentic-assessment-scoping-review-2025|(Zhan, Boud & Du)]] yalipata maoni ya AI ya uundaji yamepatikana kwa wingi lakini **maoni endelevu** — yanayoweza kuhamishwa kwa miktadha ya baadaye — yalikuwepo katika masudio 4 tu ya 23 ya uundaji. Maoni yanayofunga kazi ya sasa huku yakimwachia mwanafunzi bila uwezo wa kuhukumu kazi za baadaye ni kushindwa kwa hukumu ya kutathmini katika hali yake ya uwazi zaidi.
 
 - **Hukumu iliyokopwa: kupokea tafsiri bila kufanya mazoezi ya kutafsiri.** [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman na Thorén (2026)]] wanataja hali ya kushindwa ambayo ukurasa huu unaichukulia kama kazi iliyobaki ya mwanafunzi. Pale zana ya kusoma inazalisha muhtasari, muundo na upangaji wa kipaumbele, mwanafunzi anapewa *bidhaa* za kufikiri huku akiruka mapambano ya kutafsiri yanayozalisha hukumu — "hukumu iliyokopwa" yao. Tofauti hiyo ni muhimu kwa sababu si swali la ubora wa matokeo. Zana ya kusoma ya AI inaweza kunukuliwa kikamilifu kutoka vyanzo vilivyopakiwa na mwanafunzi mwenyewe na bado ikapanga umuhimu mapema, hivyo hukumu hufanywa mazoezi tu pale mfumo unapomtaka mwanafunzi kuchukua msimamo, kukabiliana na tafsiri zinazoshindana, na kueleza chaguo lake.
-
 
 - **Kukosoa rasimu zilizozalishwa kulijenga hukumu ya waelimishaji.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] walipata kuwa ujuzi wa tathmini wa waangalizi wanane wa kozi ulikua walipokosoa rubriki na ratiba zilizozalishwa na zana ya GPT-4.1 dhidi ya viwango vya taaluma, huku wote wanane wakikataa uendeshaji otomatiki kamili — zana iliimarisha hukumu ya kitaaluma badala ya kuichukua nafasi.
 - **Tathmini inaweza kubuniwa ili kulipa hukumu badala ya bidhaa.** [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mfano wa eneo la majibu]] unaeleza kwa nini: ubuni upya hupunguza faida ya kuhamisha kwa siri na kuongeza thamani ya mantiki inayoonekana, maelezo, na ukosoaji. Kuwaomba wanafunzi kueleza ni mapendekezo yapi ya AI waliyakubali na kuyakataa hubadilisha uamuzi wenyewe kuwa ushahidi unaoweza kutathminiwa.
@@ -91,9 +91,7 @@ Fasihi ya [[collaborative-learning|ushirikiano]] na tathmini ya hifadhi hii ya m
 
 Hatari ya uwazi zaidi ni upotoshaji, na inashuhudiwa katika fasihi ya maoni badala ya kutegemea nadharia tu. Wakati zana inatoa rubriki, maoni, na ufuatiliaji, mazoezi ya [[metacognition|metaji]] na ya kutathmini ya mwanafunzi yanapotoshwa badala ya kusaidiwa — tathmini inakuwa maonyesho ya hukumu ambayo mwanafunzi hakuyatumia, hali ile ile ya kushindwa kama [[cognitive-offloading|kupunguza mzigo wa kiakili]] iliyoelezwa katika rejista ya tathmini. Maoni ya GenAI ya moja kwa moja katika jaribio la maeneo mengi yalisukuma kuelekea hasa kuhamisha kwa njia isiyo ya moja kwa moja. Shinikizo la alama huongeza hilo: mahali ambapo tathmini binafsi au kutafakari kuhusu matumizi ya AI yenyewe yanapata alama, wanafunzi wanaweza kuzalisha kutafakari ambako rubriki inataka badala ya mantiki, hivyo hukumu halisi inahitaji kufanya mazoezi yawe na matokeo — uamuzi unaoonekana katika kazi za baadaye, maelezo ya mdomo, au hoja iliyorekodiwa ambayo yenyewe inachunguzwa.
 
-
 Hoja hiyo hiyo inakubali toleo la kimuundo. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman na Thorén (2026)]] wanataja **upangaji wa mifumo** kama kazi ya maendeleo ya kupanga utata katika miundo ambayo mwanafunzi anaiona yenye maana, na wanadai kuwa mfumo unaopanga umuhimu mapema huondoa masharti ambayo kazi hiyo inahitaji. Neno lao kwa matokeo ni **hukumu iliyokopwa**: mwanafunzi hutathmini nyenzo ambazo mfumo tayari umezipanga, hivyo hukumu hufanywa lakini haipatikani kwa ustahili. Karatasi ni uchanganuzi wa kinadharia usio na data yake yenyewe — jukwaa la Tentaklar linaonyesha utaratibu badala ya kuujaribu — hivyo hali ya kushindwa inahesabiwa kutoka kwa ubuni, si kuonekana kwa wanafunzi.
-
 
 Upotoshaji una toleo la upande wa mwalimu, na ndilo lililowafanya maprofesa kadhaa wa uandishi kukataa kukabidhi upimaji kabisa. Watano kati ya ishirini na wanne walisema upimaji ni jinsi mwalimu anavyowafahamu wanafunzi wake, kwa hivyo kuukabidhi kunapoteza ufahamu huo badala ya saa tu ([[wu-lam-genai-writing-assessment-professors-2026|Wu na Lam (2026)]]). Kumi na wanane kati ya ishirini na wanne walichukulia hukumu ya binadamu kama inayokamata makosa ya zana na inayomiliki uwajibikaji kwayo.
 
@@ -115,57 +113,3 @@ Upotoshaji una toleo la upande wa mwalimu, na ndilo lililowafanya maprofesa kadh
 - **"Mapitio ya marika na ya AI ni mbadala."** Mfano wa PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **unaunganisha mapitio ya marika na mapitio ya AI** ili kupanga usawa wa kimantiki. Kuunganisha ndio ubuni, jambo linalomaanisha hakuna kimoja peke yake kinachotoa hilo.
 
 - **"Ubora wa hukumu ni sifa ya mhukumu."** Ugunduzi wa upokeaji unaweka tatizo kwenye mpangilio, yaani hukumu isiyothibitishwa inayotumika wakati wa matokeo bila hatua ya ukaguzi, badala ya kwenye uwezo wa watu binafsi.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Hatua ya tathmini wanafunzi wanayofanya kwenye matokeo ya AI ndani ya milolongo hii
-- [[ai-education]] — AI katika elimu (mwanya)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Makala Zilizounganishwa
-
-- [[elkington-human-centred-assessment-value-2026]] — Tathmini inayomweka binadamu katikati, mikusanyiko na vikwazo vya kizalishaji (Elkington 2026)
-
-
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT dhidi ya maoni ya marika kama viwanja vya mafunzo vya vipimo tofauti vya hukumu ya kutathmini
-- [[wu-lam-genai-writing-assessment-professors-2026]]: Kwa nini maprofesa wa uandishi wanakataa kukabidhi upimaji, ni jinsi wanavyowafahamu wanafunzi wao
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]]: Hukumu ilitenganisha ubora pale tu ilipounganishwa na marekebisho (Z = 2.80 na 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]]: Uhariri wa wakufunzi ukawa vigezo vya uthibitishaji vinavyoweza kutumika tena (Tang na wenzake 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Upangaji ulioondolewa kwenye kazi, na hukumu inayokopwa
-
-- [[ai-internal-feedback-evaluative-judgments]] — Jinsi maoni ya ndani yanayosaidiwa na AI yanavyojenga hukumu za kutathmini, na mahali mantiki zinabaki nyembamba
-- [[genai-feedback-design-multisite-experiment]] — Maoni ya mseto ya mwenyewe/marika/AI yanahifadhi wakala na hukumu vizuri zaidi kuliko maoni ya AI ya moja kwa moja
-- [[pairr-ai-peer-review-2025]] — Mapitio ya marika na ya AI yenye kutafakari kwa muundo kama usawa wa kimantiki kwa kiwango kikubwa
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Jinsi ujuzi wa maoni unavyotawala kama maoni ya AI yanafundisha au yanachukua nafasi
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Pengo la uendelevu katika maoni ya AI
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Hukumu ya kutathmini kama mojawapo ya milango ya ubuni inayobadilisha utekelezaji unaoongozwa na kugundua
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Kufanya mantiki na hukumu zinazoonekana kuwa kitu ambacho rubriki hulipa
-- [[learner-centered-feedback-ai]] — Hukumu ya kutathmini ya mwalimu kwa zana za maoni za AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Zaidi ya kugundua: uhalasia uliobuniwa upya badala ya kudhibitiwa
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Kufikiria upya uhalali wa tathmini kwa zama za akili bandia ya kuzalisha
-- [[du-yuan-epistemic-dependence-2026]] — Kupingika, kurudika, na vigezo vinavyotenga kutegemea na utegemezi
-- [[rethinking-ai-writing-feedback-literacy]] — Ujuzi wa maoni kwa uandishi unaosaidiwa na AI
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Hukumu kama kiini cha kutathmini cha uadilifu: njia za maamuzi zilizowekwa alama, utetezi wa mdomo, historia ya matoleo (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Jopo zinazopima ushahidi bila viwango vilivyoandikwa: tatizo la hukumu ya taasisi yenyewe (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Upungufu wa usahihi wa kigunduzi na kushindwa kwa uandishi mseto: hukumu ya binadamu kama mbadala unaopendekezwa kwa uamuzi (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Kazi, si jukwaa: kuhukumu kile zana ilifanya badala ya kile ilicho (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms na Kiwango cha Upambanaji: kupima njia ya mantiki nyuma ya kazi iliyosaidiwa na AI (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Insha za kujiunga zilizoandikwa na AI ni za kawaida lakini zinaadhibiwa
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Ukaguzi wa Wakala (kuaminika, husika, kukubalika, yenye nuance) unaopanga kila mwingiliano wa AI
-- [[judgment-centred-software-engineering-education-2026]] — Mapitio na Mfumo wa Baada ya Fadhaa kwa Elimu ya Uhandisi wa Programu Iliyoongezwa na AI

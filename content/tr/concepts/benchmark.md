@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -76,40 +78,3 @@ Karşılaştırma testleri [[ai-ed-evaluation]] ve [[assessment-validity]] ile b
 - **“Sıralama konumu bir özel ders hocasının ne kadar iyi olduğunu söyler.”** StudentBench, **2.383 yetişkini YZ özel dersi, canlı uzman insan özel dersi ve video** koşullarına randomize eder ve diğer sistemlere karşı değil, insan özel ders hocalarına karşı puanlar. Diğer modellere ölçeklenmiş bir karşılaştırma testi, kimsenin yanıtlanmasına ihtiyaç duymadığı bir soruyu yanıtlar.
 - **“Simüle edilmiş personalar özel ders değerlendirmesi için yeterli bir temeldir.”** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]], değerlendirmeyi simüle edilmiş personalar yerine **belgelenmiş vaka literatürüne** dayandırır ve **923 diyalog** kullanır. Uydurulmuş öğrenci personaları, bir sistemin gerçekte oluşmayan vakaları geçmesine izin verir.
 - **“Değerlendirici denetlenmeden karşılaştırma testlerine güvenilebilir.”** Halüsinasyon, **erişilen açık lisanslı parçalara karşı gerektirim olarak (uzman yargısıyla κ = 0,76)** puanlanmıştır; değerlendirici, puanları kullanılmadan önce uzmanlara karşı doğrulanmıştır. Doğrulanmamış bir otomatik değerlendirici, anlamı bilinmeyen sayılar üretir.
-
-## Bağlı kavramlar
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## Bağlı makaleler
-
-- [[standardized-assessment-llm-english-proficiency-2026]] — Model yeteneğini kalibre edilmiş bir düzey olarak bildiren 624 maddelik bir İngilizce yeterlilik testi (Min vd. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Değerlendirme araçları insanlar ve LLM’ler için aynı şeyi mi ölçüyor? (Strugatski vd. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Pedagoji Karşılaştırma Testi: LLM pedagojik bilgisi (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM tabanlı öğretim tasarımı etmenlerinin test edilmesi
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Yerinde çalışan OER YZ bilgi tabanı asistanları: çok boyutlu karşılaştırma testi
-- [[authentic-products-authenticated-processes-2026]] — Otantik ürünlerden doğrulanmış süreçlere: YZ’nin yaygın olduğu yükseköğretimde otantik değerlendirme
-- [[llm-cognitive-diagnosis-handwritten-math]] — Elle yazılmış matematik çalışmalarından öğrencilerin bilişsel becerilerinin teşhisi için Büyük Dil Modellerinin test edilmesi
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Simüle edilmiş öğrenenlerle pedagojik LLM etmenleri için uzun ufuklu bir karşılaştırma testi
-- [[responsible-assessment-ai-era-stanford-2026]] — YZ Çağında Sorumlu Değerlendirme: Gelecek Odaklı Bir Konferanstan Temel Çıkarımlar
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: üretilen matematik diyagramlarını değerlendirmeye yönelik karşılaştırma testi
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotation-first, task-generative benchmark construction, and dimension-level non-redundancy across 12 artistic-imagery tasks (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: zorlayıcı davranışlar sergileyen öğrenciler üzerinde LLM özel ders hocalarının değerlendirilmesi (Park ve ark. 2026)

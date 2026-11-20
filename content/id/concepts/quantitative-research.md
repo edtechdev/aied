@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,7 +59,6 @@ Eksperimen secara acak menugaskan siswa ke kondisi (misalnya, tutor AI vs. tutor
 ### Penelitian longitudinal
 Desain longitudinal melacak siswa yang sama sepanjang waktu, menangkap perubahan, pertumbuhan, dan pembelajaran yang bertahan lama yang terlewat oleh pengukuran satu titik waktu. [[ai-lms-middle-school-longitudinal|Studi LMS longitudinal]] melacak siswa sepanjang satu tahun ajaran. Desain longitudinal esensial untuk membedakan kinerja yang digelembungkan AI dari [[genai-performance-vs-learning|pembelajaran yang bertahan lama]].
 
-
 Perbandingan antar kumpulan data membutuhkan titik kerja tetap: pemeriksaan struktural atas data pendidikan sintetis menemukan bahwa menganalisis setiap kumpulan data pada ambangnya sendiri membalik kontras yang bertahan pada titik bersama, dan bahwa perbandingan surrogatnya hanya membutuhkan data sintetis dan permutasi dari dirinya sendiri - null berbasis permutasi alih-alih ambang absolut ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Kuantifikasi komputasional dan psikometrik
@@ -89,35 +90,3 @@ Metode kuantitatif dan [[qualitative-research|kualitatif]] saling melengkapi —
 - **"Estimasi intent-to-treat menggambarkan apa yang dilakukan alat."** Dalam uji akses teracak kelompok di mana **sekitar 15% siswa di kelas perlakuan pernah menggunakan tutor**, estimasi ITT mencerminkan **efek pengenalan** alat alih-alih efek penggunaannya. Penyerapan yang rendah membuat angka ITT menjadi pernyataan tentang implementasi, dan melaporkannya sebagai efek alat melebih-lebihkan apa yang diukur.
 - **"Kinerja pada tugas adalah hasilnya."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] mengacak **120 siswa** ke belajar berbantuan AI atau tradisional dan mengukur **retensi** — desain yang memisahkan kinerja langsung dari pembelajaran yang bertahan lama. Studi yang berhenti pada tugas telah mengukur kuantitas yang lebih mudah.
 - **"Perbandingan antar kumpulan data itu lugas."** Pemeriksaan struktural atas data pendidikan sintetis menemukan bahwa **menganalisis setiap kumpulan data pada ambangnya sendiri membalik kontras yang bertahan pada titik kerja bersama**. Tanda perbandingan itu bergantung pada pilihan analitis, yang merupakan jenis kerapuhan yang hendak dicegah oleh titik kerja terpraregistrasi.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Artikel terkait
-
-- [[access-not-enough-ai-tutoring-2026]] — Studi lapangan acak tentang dukungan manusia plus tutoring AI
-- [[genai-can-harm-teaching-rct-2026]] — AI generatif dapat merugikan pengajaran: sebuah RCT
-- [[acceptance-ai-english-tools-2026]] — Penerimaan alat pembelajaran bahasa Inggris berbantuan AI
-- [[tian-genai-learning-adoption-pathways-2026]] — Jalur adopsi GenAI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Literasi AI guru melalui teori penentuan diri
-- [[jin-glat-genai-literacy-assessment]] — GLAT: tes literasi GenAI yang divalidasi IRT
-- [[ai-lms-middle-school-longitudinal]] — Studi LMS terintegrasi AI yang longitudinal
-- [[adaptive-pretesting-retention]] — Pretesting adaptif dan retensi
-- [[synthetic-educational-data-structural-fidelity-2026]] — Apa yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Uji akses teracak kelompok membutuhkan pemeriksaan penyerapan
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Analisis bibliometrik adalah keluarga kuantitatif lebih lanjut: Sriram et al.
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Penggunaan kecerdasan buatan generatif dan interaksi pendidikan interpersonal di antara mahasiswa keperawatan: pembelajaran mandiri sebagai mediator statistik
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Kesadaran disrupsi teknologi AI, pola pikir design thinking, dan kompetensi inovasi desain di antara mahasiswa desain

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,34 +68,3 @@ ai_assist:
 - **"[[usability-research|ব্যবহারযোগ্যতার]] রেটিং একটি সহায়ক সরঞ্জামকে বৈধতা দেয়।"** অনুশীলনকারীরা সহ-নকশা করা একটি Social Story সরঞ্জামকে **অত্যন্ত ব্যবহারযোগ্য (SUS 86.8)** রেট করেছেন, তবু এর **ছবিগুলোকে সাধারণভাবে পশ্চিমা** এবং এর **আচরণ-ট্র্যাকারকে লক্ষ্য-সংযুক্ত ক্লিনিকাল বিচারের সঙ্গে বেমানান** বলেছেন। উচ্চ ব্যবহারযোগ্যতা সারগর্ভ ব্যর্থতার সঙ্গে সহাবস্থান করেছে, তাই একটি SUS স্কোর উপযুক্ততার সমর্থন নয়।
 - **"সাধারণ বেঞ্চমার্ক বলে দেয় একটি টিউটর বিশেষ-শিক্ষার ক্ষেত্রগুলো কীভাবে সামলায়।"** বিশেষ-শিক্ষা ও শিক্ষা-মনোবিজ্ঞান সাহিত্য থেকে নেওয়া **923টি ঘটনা-ভিত্তিক সংলাপের** মধ্যে **11টি মডেলের সেরাটি** একটি নথিভুক্ত মানদণ্ড পূরণ করেছে — আর **এটিই সেই সীমা, যতদূর পর্যন্ত একটি টিউটর বেঞ্চমার্ক পৌঁছায়**। প্রমিত মূল্যায়ন সেই ক্ষেত্রগুলো পর্যন্ত পৌঁছায় না যেখানে অনুশীলনকারীদের সবচেয়ে বেশি সাহায্য দরকার।
 - **"স্নায়ুবৈচিত্র্যময় শিক্ষার্থীদের accommodate করা দরকার, নকশা-শর্ত নয়।"** [[neurodivergent-computing-students|Zastudil প্রমুখ]] দেখেন স্নায়ুবৈচিত্র্যময় কম্পিউটিং শিক্ষার্থীদের **সুগঠিত অ্যাসাইনমেন্ট, ছোট ধারাবাহিক দল ও স্পষ্ট ভূমিকা-সংজ্ঞা** দরকার — যা সবার উপকার করা সাধারণ নকশা-শর্ত, নির্ণয়ের পরে দেওয়া ব্যক্তিগত সমন্বয় নয়।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: চ্যালেঞ্জিং আচরণসম্পন্ন শিক্ষার্থীদের ওপর LLM টিউটরদের মূল্যায়ন (Park প্রমুখ 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — শিখন-প্রতিবন্ধকতাসম্পন্ন শিক্ষার্থীদের জন্য GenAI জ্ঞানমূলক অফলোডিং
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির ও শ্রবণপ্রতিবন্ধী শিক্ষার্থীদের জন্য LLM-চালিত প্রশ্ন-উৎপাদন
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — উৎপাদনশীল এআই, ভার্চুয়াল রিয়েলিটি এবং তার বাইরে: উচ্চশিক্ষায় স্নায়ুবৈচিত্র্যময় শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির একটি স্কোপিং পর্যালোচনা
-- [[adapted-stories-social-story-intervention-2026]] — বিশেষ শিক্ষার জন্য এআই-সহায়িত Social Story হস্তক্ষেপ: AdaptED Stories-এর নকশা
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — একটি দৃষ্টি-ভাষা মডেল Nao রোবটের জন্য Shoebox Tasks পরিকল্পনা করে (Kudláčková 2026)

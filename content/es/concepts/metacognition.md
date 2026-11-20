@@ -33,6 +33,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -184,68 +186,3 @@ La función ejecutiva es el constructo vecino, y un resultado los separa con cla
 - **«La asistencia de IA deja intacta la capacidad subyacente.»** El estudiantado que usó asistencia de IA para redactar ensayos fue **un 83% incapaz de recordar citas de sus propios ensayos, frente al 11% de quienes no usaron IA**, lo que indica que **no se implicó con el contenido durante la producción**. El proceso de producción es donde ocurre la implicación, y saltárselo se nota después.
 - **«La descarga cognitiva lo degrada todo.»** El coste parece **acotado y no global**: la descarga degrada **la habilidad específica que se practica, no las capacidades generales de dominio subyacentes**, y aflora en las pruebas de transferencia **con** algo. La localización importa, porque dice qué proteger en lugar de advertir de un declive general.
 - **«Poder producir implica poder retener.»** La brecha de recuerdo del 83% frente al 11% es el contraejemplo directo: en ambas condiciones se produjo un resultado y la huella en la memoria difirió enormemente.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — Los pasos de reflexión que estas secuencias construyen
-- [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — los juicios de aprendizaje y la ilusión de fluidez que corrige la práctica de recuperación
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-
-## Artículos conectados
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — un taller de alfabetización en IA de dos horas cambió la regulación de la interacción con el LLM de estudiantes de secundaria, a diferencia de su metacognición autoinformada (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[du-yuan-epistemic-dependence-2026]] — La dependencia epistémica en el aprendizaje mediado por IA (Du y Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Lo que pregunta el estudiantado importa: profundidad de la interacción con el LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — La descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — La búsqueda de ayuda mediada por LLM en STEM: por capas, instrumental y verificada
-- [[cui-motivation-roles-metacognitive-genai-2026]] — La motivación y los papeles en la implicación metacognitiva con IA generativa
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — El entrenamiento metacognitivo facilita una descarga cognitiva óptima (Ngai y Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Perspectivas metacognitivas sobre la descarga cognitiva: mecanismos, intervenciones e implicaciones educativas (Guo y Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — El marco IDEA para el uso de la IA generativa regulado metacognitivamente
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: un modelo metacognitivo de aprendizaje con IA centrado en las personas (agencia y aprendizaje reflexivo)
-- [[metacognitively-discordant-completion-genai-2026]] — La finalización metacognitivamente discordante y el paso consciente por la no comprensión
-- [[ai-metacognition-stem-review]] — Las herramientas de IA que andamian la metacognición en STEM
-- [[ai-making-us-stupid]] — ¿Nos está volviendo estúpidos la IA? Una crítica de la descarga cognitiva
-- [[stanford-evidence-base-ai-k12-2026]] — La IA de propósito general suprime la metacognición al completar el razonamiento
-- [[ai-advice-suppresses-ikt-suspension-2026]] — Los consejos de IA suprimen la disposición a decir «no lo sé», incluso con consejos incorrectos e incentivos de precisión
-- [[agentic-ai-pedagogical-best-practice-2026]] — La IA agéntica y las buenas prácticas pedagógicas: la tensión entre automatización y aprendizaje
-- [[cognitive-offloading-speedup-illusion]] — La descarga cognitiva y la ilusión de aceleración en la interacción entre personas y IA
-- [[lodge-loble-cognitive-offloading-2026]] — La IA, la descarga cognitiva y sus implicaciones para la educación (Lodge y Loble 2026)
-- [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA: fomentar el pensamiento de orden superior (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fallo productivo
-- [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de idiomas
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — La reflexión sobre el proceso de prompting y el desarrollo de la autoría en el ciclo de alfabetización en prompts (Miles, Haber-Curran y Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Una indicación de reflexión redujo la aceptación de consejos de IA incorrectos y mejoró la calibración de la conciencia (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — La puntuación automatizada reforzó la monitorización pero no la planificación, y la reflexión autoinformada siguió siendo improductiva (Chen y Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — La alfabetización en verificación que actúa solo a través de la autorregulación metacognitiva (Davor, Larbi y Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — El apoyo externo, y no la precisión del juicio metacognitivo, determinó la elección de estrategia de revisión (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Una ganancia selectiva: el conocimiento metacognitivo subió mientras la planificación y la monitorización no lo hicieron (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — El uso reflexivo aumentó con el acceso a la IA y predijo el pensamiento crítico, no la ganancia de conocimiento (Melanou, Beege y Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — La conciencia metacognitiva como el predictor más fuerte del aprendizaje STEM adaptativo (Alatoai y Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Del diagnóstico al metadiagnóstico: el profesorado juzga las inferencias generadas por IA (Hoppe, Loibl y Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostiene las habilidades en la implicación reflexiva con IA
-- [[dang-human-ai-collaboration-competency-2026]] — La metacognición, y no la pedagogía, como mecanismo de la agencia de quien aprende en la colaboración persona-IA (Dang, Hong, Doyle y Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — La propiedad metacognitiva: un constructo para la gobernanza que ejerce quien aprende sobre estándares, juicios y acciones
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Los registros y el pensamiento en voz alta capturan procesos metacognitivos distintos en el aprendizaje asistido por IA generativa
-- [[ai-cognitive-partner-reflective-thought-2026]] — cuatro prácticas y once procesos de pensamiento reflexivo cuando el estudiantado trata la IA como socio cognitivo
-- [[karaki-think-aloud-ethical-genai-2026]] — El Pensar en Voz Alta hizo visibles la construcción de prompts, la verificación y el razonamiento ético, pero la evaluación crítica se mantuvo superficial; no es una solución por sí sola
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — La formación metacognitiva y el andamiaje socrático basado en IA en la práctica reflexiva de docentes en formación: un diseño experimental de doble estudio
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormancia cognitiva: una explicación experimental de la implicación metacognitiva suspendida y la creciente desorganización (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Metaanálisis de tres niveles: g agrupada = 0,624, que cae a la no significación en la monitorización calificada por precisión (Li et al. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — Modelo SYNC: descarga frente a oncarga metacognitiva, y desempeño en la tarea desacoplado del aprendizaje duradero (Fan et al. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — La monitorización no bloquea tanto la ruta de la descarga como la redirige
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Cuando se omite la monitorización, y lo que cuesta
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La flexibilidad cognitiva predice el nivel de la entrevista; la regulación autoinformada, no
-- [[sidorkin-extended-executive-cognition-2025]] — La cognición ejecutiva extendida como resultado de aprendizaje (marco)
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Modelo multiagente de inteligencia artificial para mejorar el aprendizaje autorregulado y la comprensión conceptual en la educación en informática

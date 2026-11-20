@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,33 +63,3 @@ RAG berperan komplementer terhadap penyetelan halus [[llm]] — pengambilan meny
 - **"Kualitas pengambilan adalah seluruh masalahnya."** Pengambilan itu perlu dan tidak cukup. Penjawaban yang berpijak memperoleh **9.05 dari 10 dengan CI bootstrap pada selisih yang mengecualikan nol** dan **lebih sering berpijak pada materi yang benar-benar dilihat penjawab (98% vs. 81%)** — jadi keuntungan yang terukur ada pada kesetiaan terhadap bukti, dan buktinya harus benar agar kesetiaan itu bermakna.
 - **"Pengambilan satu halaman dapat digeneralisasi."** Kedua kesenjangan **kira-kira menjadi tiga kali lipat pada pertanyaan yang membutuhkan materi dari lebih dari satu halaman** (skor lintas halaman 9.93 terhadap baseline yang lebih rendah). Penalaran multi-dokumen adalah tempat sistem yang berpijak menurun, dan justru di situlah mata kuliah mengajukan pertanyaan tersulit.
 - **"Pengambilan menghapus kebutuhan akan pemeriksaan."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] mengambil dari materi resmi satu modul untuk melayani siswa yang ragu bertanya kepada orang — cakupan yang dapat dipertahankan. Korpus sempit yang resmi adalah yang membuat pendasaran bermakna; labelnya saja tidak.
-
-## Konsep terkait
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-
-## Artikel terkait
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Asisten pelajaran yang berpijak pada kurikulum yang penghematan waktunya tidak melampaui chatbot umum
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education

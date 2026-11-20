@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -42,7 +43,3 @@ ai_assist:
 ## 注記と注意点
 
 ビルドは公然と共有されていると説明されていますが、ビルドのページにもギャラリーのページにもライセンスは明示されていないため、再利用には当然の許諾ではなく作者の許可が必要です。ただしソースは公開されています。アカウントのリポジトリにはビルドの背後の HTML と JavaScript、さらに教育でコーディングエージェントを扱うためのチュートリアルがあり、読者はアプリを動かすだけでなく点検できます。いくつかのリンクはプロジェクトのサイトではなく Netlify のデプロイプレビューのアドレスを指しており、これらはレビュー用に作られ期限切れになりえますが、GitHub Pages のビルドは安定したほうです。一部のビルドは TypeSafe AI の Jev モデルに依存してその確率を示すため、背後の挙動は固定の規則ではなくモデルの判断です。望ましい困難の経路は 1 つの主張であり、摩擦を機能として扱うもので、ページは学生がより多く学ぶかどうかの評価を報告せずにそれを提示しています。
-
-## 関連する概念
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

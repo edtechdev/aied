@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -63,33 +65,3 @@ La RAG joue un rôle complémentaire de l'affinage des [[llm|LLM]] — la récup
 - **« La qualité de la récupération est tout le problème. »** La récupération est nécessaire et non suffisante. La réponse ancrée a obtenu **9,05 sur 10 avec un intervalle de confiance bootstrap sur la différence excluant zéro** et était **plus souvent ancrée dans le matériau que le répondeur avait réellement vu (98 % contre 81 %)** — le gain mesuré porte donc sur la fidélité aux preuves, et les preuves doivent être exactes pour que cette fidélité signifie quelque chose.
 - **« La récupération sur une seule page se généralise. »** Les deux écarts **ont à peu près triplé sur les questions exigeant du matériau de plus d'une page** (scores inter-pages de 9,93 contre une base de référence plus basse). Le raisonnement multi-documents est là où les systèmes ancrés se dégradent, et c'est précisément là que les cours posent les questions les plus difficiles.
 - **« La récupération supprime le besoin d'examen critique. »** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] récupère dans les matériaux approuvés d'un seul module pour servir des étudiants qui hésitent à s'adresser à une personne — une portée défendable. Ce sont les collections de sources étroites et approuvées qui rendent l'ancrage signifiant ; l'étiquette seule ne le fait pas.
-
-## Concepts liés
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Ensemble : technologies et techniques d'IA (modèles, entraînement des LLM, robotique, RAG, agentic)
-
-## Articles liés
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un assistant de préparation de cours ancré dans le curriculum dont le gain de temps n'a pas dépassé celui d'un chatbot généraliste
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG : génération augmentée par récupération pour l'enseignement théorique de l'informatique — un cadre d'évaluation complet pour l'analyse d'algorithmes et la théorie de la complexité
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Réduire les obstacles au soutien académique : évaluation d'un système RAG propre au cours pour traiter les disparités de demande d'aide dans l'enseignement supérieur
-- [[wiki-llm-indexing-ml-classes-2026]] — Potentiel d'apprentissage amélioré dans les cours d'apprentissage automatique par l'indexation wiki de LLM
-- [[on-premises-rag-tutoring-business-education-2026]] — Tutorat RAG multi-cours sur site pour la formation en gestion

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -126,48 +128,3 @@ AI लगातार बदल रहा है, और किसी दिए 
 - **"सीमाएँ अनुभाग औपचारिकता हैं।"** पद्धतिगत सीमाएँ **प्रभाव-आधारित नहीं, मापनीय** हैं: AI के साथ आलोचनात्मक सोच के **80 HCI अध्ययनों** की आलोचनात्मक समीक्षा में **42 (52%) ने कोई नियंत्रण समूह नहीं रखा**। सटीक गणना ही सीमा को क्रियायोग्य बनाती है।
 - **"विषमता एक संख्या है जिसे आप उद्धृत कर सकते हैं।"** वही समीक्षा एक रिपोर्टिंग जोखिम दिखाती है: विषमता **स्थिर-प्रभाव मॉडल के अंतर्गत I² = 82.98% और यादृच्छिक-प्रभाव मॉडल के अंतर्गत I² = 15.75%** के रूप में उद्धृत की जाती है। वही डेटा चुने गए मॉडल के अनुसार नौ-अंक या दो-अंक की कहानी देता है, इसलिए अपने मॉडल के बिना उद्धृत I² अव्याख्येय है।
 - **"बड़ा रिपोर्ट किया गया प्रभाव वह संख्या है जिस पर भरोसा करना चाहिए।"** **एक साइट के एक पाठ्यक्रम के 30 छात्रों** से प्राप्त प्रभाव जैसा शीर्षक नाज़ुक दावे का सामान्य रूप है, और नियंत्रण-रहित अध्ययनों की गिनती दिखाती है कि यह नाज़ुकपन कितनी बार अरिपोर्ट रह जाता है।
-
-## संबंधित अवधारणाएँ
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — AI शिक्षा में सिद्धांत विकास
-
-## संबंधित लेख
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — उच्च शिक्षा में AI चैटबॉट: अपेक्षाओं की प्रमाण से तुलना (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — मूल्यांकन में ground truth की विश्वसनीयता और वैधता
-- [[ai-literacy-assessment-misalignment]] — स्व-रिपोर्ट बनाम प्रदर्शन-आधारित AI literacy
-- [[machines-misread-pedagogical-quality]] — मशीनें शैक्षणिक गुणवत्ता को गलत क्यों पढ़ती हैं
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — AI ट्यूटर और सिद्धांत उपयोग की आलोचनात्मक सीमाएँ
-- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy और प्रश्न वर्गीकरण
-- [[eeg-familiarity-automated-assessment-2026]] — शिक्षार्थी मूल्यांकन को स्वचालित बनाना: EEG-आधारित familiarity prediction
-- [[weidlich-chatgpt-effect-search-cause-2025]] — शिक्षा में ChatGPT: कारण की खोज में एक प्रभाव (media-comparison आलोचना)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — मेटा-मेटा-विश्लेषण: प्रकाशन-पक्षपात-समायोजित AI प्रभाव रिपोर्ट किए गए आकार के ~1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14 AIED meta-analyses का forensic audit
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: AI-सहायित systematic reviews के लिए एक अनुभवजन्य reporting ढाँचा
-- [[frontier-models-physics-benchmark-audit-2026]] — Frontier मॉडल भौतिकी में कितने अच्छे हैं? Expert Re-Grading टूटे हुए मूल्यांकन और प्रमुख benchmarks के लगभग संतृप्त होने को उजागर करता है
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Rigor की सीमा के रूप में उपयोग किए गए inclusion criteria, और एक heterogeneity आँकड़ा जो मॉडल के साथ बदलता है (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — एक cluster-randomized classroom trial जिसका performance outcome सार्थकता तक नहीं पहुँचा (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI और मानव tutoring समतुल्य GRE सीखने की वृद्धि देते हैं
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — विद्यार्थी लेखन में LLM-जनित feedback के feedback focus और pedagogical adaptivity का मूल्यांकन
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: शैक्षणिक संवादों के auditable coding के लिए assertion-आधारित schemas
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Sentiment classification से कार्रवाई-योग्य और उत्तरदायी feedback तक: छात्रों द्वारा शिक्षण के मूल्यांकन में NLP का एक scoping review और evidence map, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Fidelity मेट्रिक्स क्या चूकते हैं: Synthetic शैक्षणिक डेटा पर एक structural जाँच
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 195 teacher-education अध्ययनों का scoping review जहाँ search-string डिज़ाइन रिपोर्ट की गई आवृत्तियों को आकार देता है
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — अंतर-राष्ट्रीय K-12 शिक्षक सर्वेक्षण: मशीन-अनुवादित items, single-item concern माप, कोई invariance परीक्षण नहीं
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 GenAI higher-education अध्ययनों का systematic review: 56% conditional gains, process बदलाव को छिपाते grades (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — डेटा संवर्धन मुख्य मीट्रिक गढ़ सकता है

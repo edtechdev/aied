@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -93,34 +95,3 @@ ai_assist:
 - **«Улыбка означает теплоту».** В тяжёлой клинической встрече наблюдатели читают улыбку как несоответствие, а детектор лицевой активности — как позитивный аффект. Контекст — недостающая переменная.
 - **«Шкалы самоотчёта измеряют эмпатию».** Они измеряют диспозицию или представление о себе; они не измеряют поведение во встрече.
 - **«Чем иммерсивнее, тем всегда лучше».** Иммерсивные методы дают больший прирост, но при многократно больших затратах и длительности, и сравнения не выравнивают экспозицию.
-
-## Связанные понятия
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Связанные статьи
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Ролевая игра 13.2%, VR 11.6%, диалог с ИИ 8.8% по IRI, при смешанном времени экспозиции (Zwoliński и др., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Детекция физического контакта согласовалась с наблюдателями; детекция улыбки дала отрицательную связь (Nissan и др., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Самооценка компетентности выросла на d = 0.58 после 13 обменов репликами, без контрольной группы (Müller и др., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 исследований; прирост уверенности обычен, доказательства эмпатии ограничены (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA и генеративные изображения как конвейер возбуждения, где эмпатия заявлена, а не измерена (Lim и др., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — Вера в эмпатическую способность ИИ предсказывала меньшую готовность оказывать поддержку (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Шкала диспозиции из 42 пунктов, факторная структура которой не совпала с замыслом (Kang и др., 2026)
-- [[empathy-coaching-chatbot]] — Эмпатичный язык повышал ощущение понимания, что предсказывало вовлечённость, а не изменение поведения (Siyan и др., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — Заданные промптом роль и ходы дали большое различие в воспринимаемой эмпатии (Wang и др., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Студенты сестринского дела описывали ИИ как эмоциональную поддержку во время клинического стресса (Akbaba и др., 2026)

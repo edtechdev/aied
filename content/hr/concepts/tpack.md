@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -99,49 +101,3 @@ TPACK je organizacijski okvir za nastavničku stranu dokazne osnove ove baze zna
 - **„Dominacija TPACK-a odražava njegovu eksplanatornu moć.“** Ta je dominacija **dijelom artefakt pretraživanja**: u PRISMA pregledu opsega **195 studija o pripremi nastavnika uz potporu tehnologije** digitalna kompetencija, TPACK i DigComp **dominiraju indeksiranom literaturom**. Zastupljenost u pretraživanju jest svojstvo rječnika koji područje rabi, a ne dokaz da okvir objašnjava više.
 - **„Dobro poznat okvir je validiran okvir za umjetnu inteligenciju.“** TPACK nije osmišljen za UI-specifične sposobnosti, zbog čega je Intelligent-TPACK razvijen — a pojavljuje se u samo **pet studija** u pregledu od 78 studija. Upotreba TPACK-a za kompetenciju u generativnoj umjetnoj inteligenciji rasteže ga izvan njegove konstrukcije.
 - **„Primjena okvira znači da je istraživanje oteoretizirano.“** Isti pregled utvrdio je da je **76 % studija zaključivalo o kompetencijama iz prakse bez ikakvog teorijskog preslikavanja**, pa prisutnost TPACK-a u području supostoji s time da je većina istraživanja neoteoretizirana. Imenovani okvir nije isto što i okvir koji obavlja posao.
-
-## Povezani koncepti
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Povezani članci
-- [[ai-literacy-tpack-preservice-2026]] — percipirana pismenost o umjetnoj inteligenciji i TPACK u pripremi budućih nastavnika: posredovanje kroz korisnost, lakoću upotrebe i vrijednost (Zhao 2026.)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — sustav pokazatelja vrednovanja programa certifikacije za umjetnu inteligenciju
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — višerazinska studija: „pedagogija prvo, tehnologija drugo“ — TPAIK nadmašuje tehnički TAIK za ishode učenika (Shen i sur. 2026.)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI zaposlenih nastavnika i posredujuća uloga pedagoškog znanja (Mohebi i ElSayary 2026.)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — standardi za integraciju tehnologije u radu nastavnog osoblja (DBR povezan s TPACK-om)
-- [[edurev-100741-tpack-genai-review]] — integracija generativne umjetne inteligencije u učenje studenata: sustavni pregled iz perspektive TPACK-a
-- [[ai-tpack-teacher-multi-agent-workflow]] — modeliranje AI-TPACK-a kroz višeagentske radne tijekove nastavnika
-- [[ai-tpack-preservice-math-teachers]] — spremnost budućih nastavnika matematike za AI-TPACK
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — interakcija nastavnika i umjetne inteligencije u osmišljavanju lekcije: Intelligent-TPACK, iskustvo i osposobljenost (Choi i sur. 2026.)
-- [[genai-pd-ai-pck-learning-gain-2026]] — intenzivni profesionalni razvoj za generativnu umjetnu inteligenciju i dobitci u AI-PCK
-- [[teacher-ai-teaming-five-levels]] — petorazinski okvir timskog rada nastavnika i umjetne inteligencije
-- [[teacher-ai-adoption-confidence]] — pouzdanje nastavnika i usvajanje umjetne inteligencije
-- [[teacher-education-ai-literacy-sdt-2026]] — obrazovanje nastavnika za pismenost o umjetnoj inteligenciji kroz teoriju samoodređenja
-- [[genai-literacy-training-teacher-education-dbr-2026]] — obuka o pismenosti u području generativne umjetne inteligencije kroz istraživanje temeljeno na dizajnu
-- [[rail-ed-genai-literacy-teacher-education]] — promišljanje pismenosti o generativnoj umjetnoj inteligenciji u obrazovanju nastavnika
-- [[sec-ai-literacy-narrative-review-2026]] — socioemocionalne kompetencije i pismenost o umjetnoj inteligenciji
-- [[genai-runaway-object-math-higher-ed]] — generativna umjetna inteligencija i matematika u visokom obrazovanju
-- [[ai-changing-teaching-workflows]] — kako umjetna inteligencija mijenja nastavne tijekove rada
-- [[sutedjo-faculty-genai-tpack-21-2026]] — samopercipirano znanje TPACK-21 nastavnog osoblja za generativnu umjetnu inteligenciju u visokom obrazovanju (Sutedjo, Chowdhury i Liu 2026.)
-- [[ethically-mediated-ai-tpack-china-2026]] — prema novom okviru AI-TPACK: etika kao integrativni medijator tehničkog UI znanja (Chen i sur. 2026.)
-- [[ai-training-science-teacher-tpack-distance-2026]] — komparativna anketa 186 južnoafričkih budućih nastavnika prirodnih predmeta: prednost kampusa u samoprijavljenom TPACK-u i UI obuka povezana sa slabijim izvješćenim TPACK-om na ustanovi na daljinu
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK i samoučinkovitost u poučavanju prirodnih predmeta serijski posreduju učinak pismenosti o umjetnoj inteligenciji na namjeru integracije istraživanja (Zou i sur. 2026.)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — profesionalni razvoj za Intelligent-TPACK sveučilišnih nastavnika: dobitci razlučeni po dimenzijama, pohađanje iznad samopercipiranog angažmana — modul CTD-PBL uz potporu umjetne inteligencije te TPACK i kolaborativno rješavanje problema budućih nastavnika fizike (Chen i Osman 2026.)
-- [[human-ai-collaboration-design-education-rubric-2026]] — procjena suradnje čovjeka i umjetne inteligencije u dizajnerskom obrazovanju: procesno orijentirana rubrika utemeljena u proširenom okviru AI-TPACK
-- [[capability-decision-model-teacher-readiness-2026]] — uređeni model spremnosti nastavnika koji polazi od sposobnosti i njegovo upozorenje o preklapanju konstrukata
-- [[digital-competence-ai-responsive-pedagogy-2026]] — upozorenje pregleda opsega da dominacija okvira kompetencija dijelom odražava deskriptore pretraživanja, a ne zastupljenost u području
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — uloga integriranog TPACK-a u osnaživanju budućih nastavnika i oblikovanju njihovih stavova prema generativnoj umjetnoj inteligenciji u poučavanju

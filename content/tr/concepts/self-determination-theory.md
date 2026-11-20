@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -34,7 +36,6 @@ ai_assist:
 ## Giriş
 
 SDT, giderek daha fazla, hem öğrenciye hem öğretmene yönelik YZ sistemleri için teorik bir mercek olarak eğitimde YZ [[research-methods-aied|research]] kullanılmaktadır. Kuramın merkezî iddiası — motivasyonun, öğrenenlerin sahip olduğu basit bir miktar değil, toplumsal ve teknolojik çevre tarafından şekillenen bir nitelik olduğu — onu, YZ araçlarının [[student-engagement|engagement]], direnci ve [[learning-gains|learning outcomes]] nasıl etkilediğine ilişkin sorulara doğrudan ilgili kılar. Bu bilgi tabanındaki makaleler, SDT'yi üç temel bağlamda uygular: öğretmen mesleki gelişimi, YZ aracılı öğrenme katılımı ve duygusal hesaplama.
-
 
 Buradaki motivasyonel kazancı kolaylık değil özerklik taşımıştır. Üç kollu bir [[rct|RCT]], öğrenenleri kendi çözümlerini kurmaya devam ettiren ipucu-esirgeyen öğretmenin içsel motivasyonu yükselten tek kol olduğunu (2,82’ye karşı 2,42), yanıtı doğrudan sunan kısıtlanmamış ChatGPT’nin ise yükseltmediğini (2,64, p = ,076) bulmuştur ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner ve ark. (2026)]]).
 
@@ -73,39 +74,3 @@ SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[a
 - **“Motivasyonun türü, miktarından daha az önemlidir.”** Bir yıl süren bir çalışma, **üç motivasyonel profil (İlgisiz, Gelişen, Öz Belirleyici) bulmuş ve bunlar zaman içinde kararlı kalmıştır**; **Öz Belirleyici** profile ulaşan öğrenciler **en büyük [[ai-literacy]] kazanımlarını** göstermiştir. Öğrenmeyi öngören motivasyonun niteliğiydi ve profiller yalnızca yukarı doğru kaymamıştır.
 - **“Özerklik desteği, yapıyı kaldırmak demektir.”** SDT’nin mekanizması özerklik, yetkinlik ve bağlılığın birlikte işlemesidir ve boylamsal kanıt, bunların karşılanmasının kazanımlara yalnızca eşlik etmediğini, onları öngördüğünü göstermektedir. Yetkinlik desteği olmayan özerklik müsamahakârlıktır ve kuramın koşullarını karşılamaz.
 - **“Bir [[conversational-ai|sohbet robotu]] üç ihtiyacı otomatik olarak sağlayabilir.”** Bir çalışma, ChatGPT’nin dil öğreniminde özerkliği, bağlılığı ve yetkinliği destekleyebildiğini bulmuştur; bu bir olanak, bir özellik değildir. Belirli bir etkileşimin bunları destekleyip desteklemediği, nasıl kullanıldığına ilişkin ampirik bir sorudur.
-
-## Bağlı kavramlar
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Bağlı makaleler
-
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — İpucu esirgeme özerkliği korudu, yanıt verme korumadı
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — 5–8. sınıflarda YZ erişilebilirliği, özerklik düşüşü ve motivasyon profilleri (Schweder ve Grahl 2026)
-
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 20 etkinlikten oluşan bir sınıflandırmaya göre kodlanan 39 çalışma; en çok yetkinlik, en az bağlılık işletiliyor
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[dual-ai-learning-pathways-sdt-2026]] — Lise baskısı/özerklik desteği ve çift YZ öğrenme yolu (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Öğrenme tasarımı karar vermesinde öğrenme analitiği ve üretici YZ
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — İngilizce dil öğreniminde öğrencilerin ChatGPT deneyimleri
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × TTS diyalog biçimi etkileşimleri
-- [[liang-ai-learning-motivation-sdt-2026]] — Öğrencilerin YZ öğrenme motivasyonunun SDT gizil geçiş analizi (2.086 ortaöğretim öğrencisi)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Üretici YZ sınıflarında öğrenci motivasyonu ve ihtiyaç doyumu (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — Üretici YZ kullanımı, ihtiyaç doyumuyla zayıf bağlı ve yüksek katılım için gereksiz (He ve ark. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Öğretmen–YZ işbirliğinden iş katılımına çift yol, dijital yetkinlikle modere edilmiş

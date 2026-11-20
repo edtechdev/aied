@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
+connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -65,7 +67,6 @@ Masharti ya nafasi ya kukumbua yanayobadilika yalizalisha alama za juu zaidi za 
 
 Hoja ya sababu kwa kanuni hii ni jaribio la uwanja katika takriban madarasa 50 ya hisabati ya shule za upili za Kituruki yenye karibu wanafunzi 1,000 ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). GPT-4 isiyo na vikomo iliongeza utendaji wa mazoezi yaliyosaidiwa kwa 48% na kupunguza mtihani usiosaidiwa kwa 17% dhidi ya kikundi cha kudhibiti, wakati GPT-4 iliyolindwa iliongeza mazoezi kwa 127% na kuacha mtihani bila mabadiliko makubwa. [[guardrails]] zilikuwa mbili tu: vidokezo badala ya majibu, na maudhui maalum ya tatizo yaliyoandikwa na mwalimu (suluhisho sahihi, makosa ya kawaida) yaliyowekwa kwenye ilani ili vidokezo vifae. Data ya ushiriki iliweka madhara kwenye kunakili, kwa kuwa wanafunzi wasiolindwa waliomba majibu mara nyingi, na wanafunzi katika mikono yote miwili ya AI walikosea kuhukumu kujifunza kwao wenyewe.
 
-
 ### Kushindwa kwa tija: jaribu kabla ya maelekezo
 
 **Ushahidi: mchanganyiko, na nyembamba zaidi kuliko sifa yake.** Wanafunzi hujaribu tatizo linalolenga dhana ambayo hawajafundishwa, mwalimu anazuia suluhisho na huchochea majaribio mengi, msaada huja tu unapohitajika kabisa, na uimarishaji hufuata na kulinganisha na maelekezo ya moja kwa moja.
@@ -86,7 +87,6 @@ Kugawa kwa njia inayobadilika mifano iliyoongozwa na yenye makosa kulishinda mga
 
 Ni mifano mingapi ya kutoa kabla ya mazoezi ni suala linalotegemea maudhui yenyewe, jambo ambalo uundaji wa sehemu hii wa "mifano iliyofanyiwa kazi kisha matatizo" unaacha wazi. Katika jaribio la 2×2 la washiriki 95 kwenye nyenzo za eneo la jiometri, mafunzo ya mazoezi peke yake yalizalisha faida kubwa kwa ukweli wa neno kwa neno wakati kupishanisha mifano na mazoezi kulizalisha faida kubwa kwa ujuzi unaoweza kujumuishwa (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger na Carvalho, 2025]]). Mfululizo hauwezi kuhukumiwa kama mifano iliyofanyiwa kazi dhidi ya mazoezi kwa ujumla, kwa sababu mchanganyiko sahihi unafuata kama lengo ni ukweli au ujuzi.
 
-
 ## Mifumo inayounga maoni ya AI na maoni ya kibinadamu
 
 Matokeo yanayorudiwa zaidi katika hifadhi ya maarifa kuhusu maoni ya AI ni kwamba yanafanya kazi vizuri zaidi *yanapoungwa* na maoni ya kibinadamu kuliko peke yake — na kwamba ubora wake hauumui kama wanafunzi wanayatumia.
@@ -98,7 +98,6 @@ Matokeo yanayorudiwa zaidi katika hifadhi ya maarifa kuhusu maoni ya AI ni kwamb
 Somo kubwa zaidi hadi leo la matumizi ya maoni ya AI na wanafunzi wa chuo kikuu lilifuatia wanafunzi 654 katika kozi kumi za uandishi na kozi tatu za [[stem-education|STEM]] zenye msongamano wa uandishi: 58% walipendelea ChatGPT iliyoungwa na [[peer-assessment|maoni ya marika]], 36% marika peke yake na 6% tu AI peke yake; 75% waliona viwili vimefanana na kuimarisha; maoni ya AI yalitiwa sahihiwa "ya jumla kupita kiasi" na 31% wakati maoni ya marika yalikuwa mahususi zaidi kwa 28%; na 5.3% tu yalionesha kujiamini kupita kiasi katika maoni ya AI ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). Muundo pia uliendeshwa katika kozi ya uandishi wa biashara ya ngazi ya juu ya wanafunzi 34, ambapo karibu robo ya tafakari zilizowekewa kodi zilionyesha shaka juu ya au ziligundua upungufu wa usahihi katika maoni ya AI ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). Zote mbili zinaripoti data ya mtazamo; hakuna hali ya kudhibiti katika yoyote, ndiyo maana mfumo ni *mchanganyiko* badala ya *imejaribiwa*.
 
 Andiko la tatu la utekelezaji ule ule wa 2024 linauliza wanafunzi wanaiita zana nini badala ya jinsi walivyoipima. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] wanaeleza sehemu 13 za kozi 10 zenye msongamano wa uandishi na wanafunzi 654, na wanaripoti kuwa karibu nusu tu (51.7%) walichukua majukumu ya kocha au mwenza ambayo ilani ya tafakari ilitoa. Wengine waliiita zana, programu, roboti au kompyuta, au walibuni sitiari kama mashine ya kuuza maoni. Waandishi wanasoma msamiati huo kama matokeo ya ujuzi na kama ushahidi wa wakala wa mwandishi, na data yao ni ya mtazamo kwa njia ile ile, hivyo daraja la ushahidi hapo juu haliendi.
-
 
 ### Maoni ya marika na ya AI yaliyoungwa
 
@@ -199,92 +198,3 @@ Onyo la mwongozo lenyewe linatumika: video zilizorekodiwa, tafakari na kumbukumb
 - **"Mazoezi yoyote yanayotolewa na AI ni mazoezi."** Hali ya kurejesha kumbukumbu kwa vipindi iliyobadilika ilizalisha **alama za juu zaidi za mtihani wa baada (M = 78.19)** na **ilishinda kwa kiasi kikubwa masomo ya AI yanayoongozwa na mwanafunzi (M = 67.28)**. Mpangilio unaoongozwa na mwanafunzi ulifanya vibaya kuliko ule uliopangwa, hivyo uhuru si ubuni bora kiotomatiki.
 - **"Kusoma na [[conversational-ai|chatbot]] ni bora kuliko kusoma bila."** **Kisa pinzani kinaamua**: katika [[rct|jaribio la nasibu]] la **wanafunzi 120**, wale waliokisoma **na** ChatGPT isiyo na mipaka walikumbuka **kidogo zaidi walipojaribiwa bila tahadhari** kuliko wale ambao hawakufanya hivyo. Zana ilikuwa na madhara kwa uhifadhi katika mpangilio uliojaribiwa.
 - **"Ushahidi wa muundo ni jaribio kubwa la pamoja."** **Msaada imara zaidi ni wa moja kwa moja** na unatoka katika **jaribio la nasibu la ndani ya washiriki lenye wanafunzi 26**, ambapo [[scaffolding|ngazi za msaada]] za jibu la papo zilifanya kazi kwa njia tofauti kwa kiasi kikubwa. Ushahidi unaunga mkono muundo na unabaki mwembamba kwa kiwango, na ukurasa unapaswa kusomwa hivyo.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogy]] — mnara wa mbinu za kufundisha ambao ukurasa huu unazibadilisha kuwa mipangilio
-- [[learning-design]] — mahali mifumo inapochaguliwa, kupangwa na kupachikwa katika kozi
-- [[scaffolding]] — kanuni ya msaada-na-kupungua inayosimamia mahali msaada wa AI unafaa
-- [[feedback]] — mfumo ambao mifumo ya maoni ya ukurasa huu inatekeleza
-- [[formative-assessment]] — kusudi la tathmini ambalo mifumo mingi ya haya inahudumia
-- [[peer-assessment]] — nusu ya kibinadamu ya mifumo ya PAIRR na ya maoni yaliyoungwa
-- [[ai-feedback-quality]] — kwa nini ubora wa maoni peke yake hauumui marekebisho
-- [[evaluative-judgment]] — tathmini ambayo wanafunzi lazima wafanye kwenye pato la AI
-- [[feedback-literacy]] — uwezo ambao hatua za tathmini mahususi zinajenga
-- [[human-in-the-loop-ai]] — muundo wa usimamizi wa mifumo ya mapitio
-- [[oral-assessment]] — umbo linaloegemea mifumo ya uthibitishaji
-- [[process-oriented-assessment]] — mantiki nyuma ya vituo vya awali
-- [[productive-failure]] — dhana nyuma ya jaribu-kabla-ya-maelekezo
-- [[retrieval-spacing-interleaving]] — msingi wa ushahidi wa mifumo ya kukumbua kwa nafasi
-- [[desirable-difficulties]] — kwa nini mipangilio yenye juhudi hushinda yenye ufasaha
-- [[misconceptions]] — kile mifumo ya mabadiliko ya dhana inalenga
-- [[refutation-text]] — umbo la maandiko la kukabiliana na dhanapotofu
-- [[learning-by-teaching]] — mbinu za kufundisha nyuma ya mfumo wa mwanafunzi wa AI
-- [[socratic-method]] — mfumo wa maswali na ushahidi wake unaopingana
-- [[collaborative-learning]] — muktadha wa kazi ya pamoja ya AI iliyoshirikiwa na iliyoandikwa
-- [[cognitive-offloading]] — hatari ambayo kila mfumo wa juhudi-kwanza umeundwa kuepuka
-- [[metacognition]] — kile hatua za tafakari katika mipangilio hii zinakusudiwa kuchochea
-- [[prompt-engineering]] — tabaka la ngazi za msaada katika mifumo ya matumizi yaliyopangwa
-- [[transfer-of-learning]] — matokeo ambayo mifumo mingi hutathminiwa mwishoni
-- [[assessment-validity]] — sababu ushahidi wa mchakato unapendekezwa kabisa
-- [[academic-integrity]] — msukumo nyuma ya uthibitishaji wa mdomo na wa mchakato
-- [[ai-literacy]] — uwezo unaoendelezwa kwa kukosoa pato la AI
-- [[online-teaching-and-learning]] — muktadha unaofanya mpangilio kuwa muhimu
-- [[higher-ed]] — ngazi ambapo mifumo mingi ya ushahidi hii ilizalishwa
-- [[k-12]] — ngazi ya masudio ya kushindwa kwa tija, mabadiliko ya dhana na tathmini ya mdomo
-
-## Makala Zilizounganishwa
-
-- [[pairr-ai-peer-review-2025]] — PAIRR: mpangilio wa msingi, N = 654 (Sperber et al. 2025)
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR inayotekelezwa katika kozi ya uandishi wa biashara (MacArthur et al. 2025)
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Wanafunzi 654 waliiita chatbot nini: asilimia 51.7 walichukua majukumu ya kocha au mwenza waliotolewa (Stillman et al. 2026)
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Maoni ya AI-na-marika yaliyoungwa yaliinua mwingiliano na vipimo vyote vinne vya IELTS (Liu 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Maoni ya marika ya GenAI yaliyozungukwa na ngazi za msaada za ilani katika ubainishaji wa ushirikiano (Chang et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Kuwafundisha wanafunzi kuchuja na kutathmini maoni ya AI: hali za FRAC na APCA
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Maoni ya AI ya ubora wa juu hayakuzalisha faida zaidi za marekebisho (Farrokhnia et al. 2026)
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Socratic pamoja na muktadha kamili ilipimwa dhaifu kuliko usanidi mwingine wote wa msaidizi (Eastwood et al. 2026)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Ngazi za msaada za Socratic zinazochochewa na hitaji katika mafunzo ya mahojiano ya kliniki, N = 100 (Yang et al. 2026)
-- [[hashmi-socratic-physics-chatbot-2025]] — Chatbot ya Socratic katika mitambo ya utangulizi: uhusika wa maswali ulipanda kutoka 10–15% hadi 100% (Hashmi et al. 2025)
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Maoni ya wakala wa Socratic dhidi ya ya moja kwa moja, huku mpangilio usio na usawa (Han et al. 2026)
-- [[adaptive-pretesting-retention]] — Kukumbua kwa nafasi kwa kubadilika kulishinda somo la AI linaloongozwa na mwanafunzi (Akgun & Toker 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT bila vikomo wakati wa kusoma ilipunguza uhifadhi wa siku 45 (Barcaui 2025)
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Faida za ualimu zilizopangwa zilifuatilia wiki zilizokamilika, si dakika (Yang et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Mifano dhidi ya mazoezi yanavuka kulingana na aina ya maarifa (Rachatasumrit et al. 2025)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Mifano iliyoongozwa na yenye makosa ya kubadilika katika mwalimu wa mantiki mahiri (Dey Tithi et al. 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Kuongeza kujielezea kwenye maoni ya AI kulipotea katika kila kipimo (Asher et al. 2025)
-- [[generative-ai-guardrails-harm-learning]] — Ualimu uliolindwa uliondoa madhara ya mtihani yaliyosababishwa na GPT bila ulinzi, wanafunzi ~1,000 (Bastani et al. 2025)
-- [[guided-llm-scaffolding-independent-learning]] — Matumizi ya LLM yaliyoongozwa dhidi ya bila vikomo katika takwimu (Amanlou et al. 2026)
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Ngazi za msaada za jibu la papo hapo zilipunguza uelewa wa mfano huku zikipendelekwa (Zhu et al. 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Kuongoza mwalimu wa LLM kuzuia suluhisho kwa kushindwa kwa tija (Puech et al. 2025)
-- [[pedagogy-ai-mistakes]] — Mizunguko ya kila wiki ya ukosoaji-na-urekebishaji iliyojengwa juu ya matukio ya kushindwa ya AI kwa makusudi (Hosseini 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — Uchanganuzi wa makosa kama uwezo tofauti, katika masudio 72 ya elimu ya kompyuta (Kumar et al. 2026)
-- [[lukesova-clue-before-correction-2026]] — Vidokezo vilivyoongozwa badala ya msahihisho wa moja kwa moja wa kosa katika marekebisho ya L2 (Lukešová & Jennings 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Kuelezea kwa mwanafunzi mwenye uzoefu mdogo wa AI, N = 68 (Wang et al. 2026)
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — Jaribio nasibu la kufundisha wakala wa ChatGPT kuandika programu (Chen et al. 2024)
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Kujifunza kwa kufundisha kutekelezwa kwa wanafunzi 546 katika wiki 11 (Wang et al. 2026)
-- [[socrates-students-instructors-llms-lbt-2025]] — Wanafunzi wakibuni maswali ambayo LLM haiwezi kujibu (Yang et al. 2025)
-- [[code-review-genai-cs1]] — Mahojiano ya lazima ya mapitio ya kodi ya mdomo kama mwitikio wa GenAI katika CS1 (Fowles et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Tathmini ya mdomo iliyorekodiwa bila kufuatana dhidi ya maswali ya chaguo-nyingi ya ana kwa ana (Pentland et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — Viva ya gumzo ilipunguza wasiwasi wakati ana kwa ana ilipimwa bora zaidi kwa ufahamu (Yusuf et al. 2026)
-- [[ai-supported-oral-assessment-tvet-2026]] — AI inayoonyesha ushahidi wa rubriki kwa hukumu ya mwalimu katika warsha za ufundi (Adams 2026)
-- [[quantum-education-its]] — Vituo vya pato-na-mbinu katika kozi ya nyumbani ya kasi (Elhaimeur & Chrisochoides 2026)
-- [[agentic-education-coding]] — Vituo vya kuzuia-vizuizi na ukaguzi wa kabla ya maendeleo, N = 27 (Naboulsi 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — Kujifunza kwa msingi wa matatizo ya moduli nne pamoja na vituo na rubriki (Nnamdi et al. 2026)
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — Mlolongo wa mapitio wa mawakala wanne na walimu, na mahali muafaka wa nia ulishindwa (Walkington et al. 2026)
-- [[zhao-learnlens-feedback-educators-loop]] — Maoni ya mwalimu-katika-mlolongo na alama za kuthibitisha (Zhao et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Viajazo vya ilani ambavyo vilibadilisha alama bila kugunduliwa, vikimwacha mwalimu kama ukaguzi pekee (Humble 2026)
-- [[golrang-propact-pair-programming-2026]] — AI iliyoshirikiwa inayotabiri kushindwa la ushirikiano katika upangaji wa jozi (Golrang et al. 2026)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Majukumu ya mwanafunzi na ya AI yaliyoandikwa katika ujenzi wa maarifa ya kikundi (Cheng et al. 2026)
-- [[paratutor-parent-child-tutoring]] — Msaada wa AI wenye majukumu yaliyotengwa katika ualimu wa mzazi-mtoto (Luo et al. 2026)
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Mazungumzo ya AI yaliyobinafsishwa yalishinda ukataaji wa kitabu papo hapo, yakikutana ndani ya miezi miwili (Corbett & Tangen 2026)
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Maandiko ya mabadiliko ya dhana yalishinda mazungumzo ya mwingiliano ya AI, matokeo ya kinyume (Akdogan 2025)
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Uchunguzi ulioongozwa na unaosaidiwa na AI na ufahamu wa dhana (Aydin 2026)
-- [[ai-enhanced-flipped-classroom-three-year-2026]] — Kulinganisha kwa kipindi cha miaka mitatu cha kawaida, kugeuzwa na kugeuzwa na AI (Liu et al. 2026)
-- [[flipped-learning-genai-design-education-2026]] — Kozi ya studio iliyogeuzwa na ngazi za msaada za ilani zinazoongozwa na vigezo (Qu et al. 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Muundo wa kufundisha ulisimamia matokeo: kugeuzwa g = 1.96 dhidi ya kawaida g = 0.46 (Jing et al. 2026)
-- [[ai-tutor-statistical-programming-adoption-2026]] — Matumizi ya ualimu wa kazi za nyuma ya kila wiki yalitabiri alama za kazi za uhamishaji katika kozi iliyogeuzwa (Préau et al. 2026)
-- [[beck-genai-literacy-economics-hands-on]] — Majadiliano ya ukosoaji wa AI ya hatua tano yaliyojengwa juu ya kosa la AI (Beck & Brodersen 2025)
-- [[ccct-cooperative-learning-technique]] — Mpangilio la kujifunza kwa ushirikiano lililojaribiwa lenye majukumu yaliyogawiwa na ziara ya maonyesho (Tutal 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Moduli ya semina na majadiliano ya marika na mtoa mapendekezo wa urejeshaji wa AI (Huang 2026)

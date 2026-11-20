@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -52,11 +53,3 @@ verified: [citation]
 وثمة حدّان آخران يهمان التعليم. فالتوصيات مطالبات تصميمية لا تدخلات مختبرة؛ ولا شيء في الموقع يبلغ عن نتيجة. وبنية الفئات العمرية تفرض شبكة خشنة على نمو يتفاوت داخل الفئات وعبر الثقافات والسياقات، وهو ما يقر به الدليل نفسه.
 
 والإطار الجدير بالحمل إلى الممارسة هو إطار الموقع نفسه: أبقِ الحلقة بشرية، ثم اعمل على أين يقع الذكاء الاصطناعي داخلها، بدل وضع نقطة تفتيش بشرية داخل حلقة تخص الآلة — وهو القلق نفسه الذي يسجله المتن باسم خطر [[cognitive-offloading|تفريغ الحمل المعرفي]] عندما تتولى أداة الجزء من المهمة الذي كان يؤدي العمل النمائي.
-
-## المفاهيم المتصلة
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -164,73 +166,3 @@ LoRA и её родственники — там, где большинство 
 - **«Модель — главный детерминант приростов в обучении».** Выбор модели и промпта объясняет лишь **около 15%** разрыва между LLM и приростом в обучении студентов. Оптимизация остальных 85% — вот где работа, и она не в весах.
 - **«Локальная модель уступит размещённой, поэтому поиск — рычаг второго порядка».** В оценке трёх конфигураций **первоочередным проектным решением был поиск, а не модель**: локальная LLM **без поиска достигла лишь 52.3% точности, ниже базовой линии TF-IDF**. Добавление поиска провело ту же модель через порог, которого никакая замена модели сама по себе не достигла бы.
 - **«Больше обучающих данных — лучше преподавательское поведение».** Дообучение для оценивания, улучшившее форматирование при ухудшении генерации обратной связи, — это контрпример в миниатюре: оптимизация под похожую на вид цель может улучшить прокси и ухудшить то, что вы хотели.
-
-## Связанные понятия
-
-- [[llm]] — что это за модели; эта страница — как они делаются
-- [[ai-technologies]] — зонт: технологии и методы ИИ
-- [[rag]] — поиск, шаг до обучения
-- [[prompt-engineering]] — самый дешёвый рычаг и базовая линия, которую нужно побить
-- [[reinforcement-learning]] — стадия RL пост-обучения
-- [[intelligent-tutoring]] — основная область применения
-- [[adaptive-learning]] — адаптация к учащимся, в отличие от адаптации моделей
-- [[automated-assessment]] — куда попадают дообученные модели оценивания
-- [[automated-essay-scoring]] — задача, из которой берётся большая часть доказательств об оценивании
-- [[ai-feedback-quality]] — что дообучение исправляет, а что нет
-- [[educational-nlp]] — смежное семейство методов
-- [[simulating-students]] — применение той же машины на стороне учащегося
-- [[student-modeling]] — слой моделирования под симуляцией
-- [[open-source]] — открытые веса — то, что делает локальное дообучение возможным
-- [[benchmark]] — как оцениваются эти системы, и каковы пределы этого
-- [[assessment-validity]] — почему хорошая метрика может всё ещё означать плохой инструмент
-- [[pedagogical-safety]] — чего обучение не гарантирует
-- [[ai-sycophancy]] — поведение, на которое может быть нацелено пост-обучение
-- [[hallucination-risk]] — режим отказа, который дообучение не может излечить
-- [[privacy]] — ограничение на обучающие данные и на забывание
-- [[human-in-the-loop-ai]] — резервный вариант, который делает автоматизацию доступной по цене
-- [[metacognition]] — педагогическая цель для пост-обучения
-- [[scaffolding]] — поведение, которое функции награды пытаются закодировать
-- [[ai-education]] — поле, которому эта работа служит
-
-## Связанные статьи
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — конвейер RL–SFT–RL: 96,52% на CDPK, превосходя Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — следование педагогическим инструкциям внутри пост-обучения Gemini
-- [[teachlm-post-training-llms-education]] — пост-обучение на 100 000 часов аутентичных данных тьюторства
-- [[tact-pedagogically-adaptive-esl-tutoring]] — согласованное с таксономией пост-обучение, нацеленное на педагогическое решение
-- [[swim-student-writing-simulation-2026]] — SFT и GRPO в сравнении с руководимым рубрикой промптингом, с деталями проектирования награды
-- [[misconception-acquisition-dynamics-llms-2026]] — пошаговые трассы как обязательное требование для обучения заблуждениям
-- [[jeon-isd-agent-bench-2026]] — агенты проектирования обучения, опирающиеся на теорию, на 25 795 сценариях
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — эвристический RL для согласования моделей как сократических наставников
-- [[special-r1-rl-special-education]] — обучение с подкреплением для согласования со специальным образованием
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — управляемое LLM обучение с подкреплением для персонализации
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — большая педагогическая модель рассуждений
-- [[omniedu-open-educational-foundation-models-2026]] — одно целевое поведение на пример, на разных масштабах моделей
-- [[garrod-edu-qurating-educational-data-curation-2026]] — курирование образовательных данных для обучения
-- [[lora-finetuned-control-systems-course-qa-2026]] — влияние ранга LoRA и прирост на параметр адаптера
-- [[aiawe-automated-writing-evaluation]] — адаптированная LoRA система AWE, где масштаб не предсказывал успех
-- [[llm-graders-computer-science-exams-2026]] — один адаптер примерно на 3 900 примерах, достигающий паритета с человеком-оценщиком
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Структурированные учебным планом данные экономны по выборке
-- [[iks-instruct-dataset-indian-knowledge]] — набор инструкций из 24 795 примеров и почти нулевая базовая линия
-- [[llm-children-reading-story-generation]] — управляемость в противовес масштабу для контроля уровня чтения
-- [[bert-discourse-english-teaching-2026]] — какие слои дообучать и почему четыре превзошли двенадцать
-- [[nuclear-diffusion-text-to-image-learning-2026]] — архитектура, а не число параметров, решает, работает ли дообучение
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — дистилляция в модель 2B с аудитом верности
-- [[llm-unlearning-math-privacy]] — забывание на основе градиентов для персональных данных и вредного содержания
-- [[reflection-level-classification-hungarian-essays-2026]] — дообученные трансформеры в сравнении с классическими базовыми линиями и базовыми линиями на встраиваниях
-- [[multimodal-item-parameter-estimation-2026]] — обучение кривым IRT по мультимодальным заданиям
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — маршрутизация по уверенности как политика с человеком в контуре
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — поиск как решение первого порядка, с указанными энергией и VRAM
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 исследования: промптинг 13, дообучение 7, гибриды 3
-- [[gpt-item-generation-l2-listening-2026]] — промптинг выходит на плато, затем дообучение добавляет остальное
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — дообучение выиграло на выставлении оценок и провалилось на обратной связи
-- [[educational-llm-alignment]] — потолок около 15% на выборе модели и промпта
-- [[yasar-llms-iterative-pedagogical-design-2026]] — руководимый рубрикой промптинг как альтернатива без обучения
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — контроль персоны на уровне промпта для симуляции заблуждений
-- [[eduframetrap-llm-sycophancy-educational-safety]] — сикофантство как явное требование обучения
-- [[contextual-sycophancy-ai-literacy]] — сикофантство, выживающее после промптинга и согласования
-- [[hazra-safetutors-pedagogical-safety-2026]] — безопасность, деградирующая в продолжительном диалоге
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — около 35% негодных подсказок от необученной фронтовой модели
-- [[simulated-students-tutoring-dialogues-2026]] — ведут ли себя симулированные студенты как студенты
-- [[inside-llm-student-simulator-reasoning-2026]] — дообучение модели действовать и мыслить как студент
-- [[history-aware-student-simulation]] — симуляция, обусловленная траекторией учащегося

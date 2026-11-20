@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,33 +65,3 @@ Kompyuta ya hisia iko katika muingiliano wa [[affective-tutoring]] (matumizi yak
 - **"Ushiriki zaidi unamaanisha kujifunza zaidi."** Utafiti wa kuhisi ubongo uligundua **kiolesura kilichowekewa mipaka, kinachobadilika kiliinua ushiriki wa kiutambuzi (p = .018) huku chatbot isiyo na mipaka ikizalisha ongezeko kubwa la kujifunza**. Kiolesura kilichoshirikisha zaidi kilifundisha kidogo. Ushiriki si kiwakilishi cha kujifunza, na kuuboresha kunaweza kusogeza matokeo upande usiofaa.
 - **"Msaada wa kihisia ni nyongeza laini kwa msaada wa kiutambuzi."** Katika [[rct|jaribio la bahati nasibu]] dogo la darasani (**wahitimu 42 kati ya washiriki 252**), toleo la uangalifu lilifikia **kujifunza algebra sawa kwa muda mfupi na kwa vidokezo vichache vilivyoombwa** kuliko msaada wa kiutambuzi peke yake. Sehemu ya kihisia ilibadilisha ufanisi badala ya kikomo cha juu, ambayo ni dai tofauti na la kuvutia zaidi kuliko "inasaidia kujifunza".
 - **"Matokeo ya kihisia ya sampuli ndogo huhamishwa."** Wahitimu 42 kati ya washiriki 252 ni ubunifu unaotia moyo na dhaifu kwa wakati mmoja: kiwango cha ukamilishaji chenyewe ni ugunduzi kuhusu nani aliendelea, na athari ina kikomo kwa kikundi hicho.
-
-## Dhana Zinazohusiana
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Ujifunzaji wa Kihisia-Kijamii
-
-## Makala Zinazohusiana
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Kutahini tahadhari za kihisia zilizozalishwa na AI: muingiliano wa wakufunzi na ushiriki wa wanafunzi katika darasa la hesabu
-- [[wang-teacher-student-centered-agents-physics-2026]] — Kuhisiwa kwa huruma kutoka kwa majukumu ya mawakala yaliyoundwa na ilani katika ujifunzaji wa fizikia (Wang na wenzake 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Tathmini ya ubora wa darasa unaoelewa hisia kupitia ufuatiliaji wa wakati halisi unaotegemea IoT (Nguyen na wenzake 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Kutafsiri upya udhibiti wa hisia unaosaidiwa na AI: ishara zinahitaji muktadha, si tafsiri inayojitegemea

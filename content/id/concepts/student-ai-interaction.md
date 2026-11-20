@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -91,40 +93,3 @@ Non-penggunaan itu sendiri adalah pola interaksi yang harus direncanakan oleh [[
 - **"Taksonomi interaksi sudah mapan."** **Dari 46 kategorisasi pada 33 studi, label serupa menamai fenomena berbeda**, itulah sebabnya tinjauan mengusulkan *episode interaksi* sebagai unitnya. Skema pengodean yang dipinjam dari satu taksonomi mungkin mengukur konstruk yang berbeda.
 - **"Siswa menggunakan AI sebagai tutor."** Di antara **38 mahasiswa sarjana** yang menyelesaikan esai argumentatif tanpa pengawasan, **76.32% menggunakan pola satu putaran tanya-dapat-jawaban-berhenti**, biasanya menempelkan judul tugas. Pola dominannya adalah pengambilan satu putaran, yang bukan tutoring.
 - **"Semakin besar penggunaan AI menunjukkan semakin besar keterlibatan dengan materi."** Analisis atas **200 sesi obrolan ko-pemrograman** menemukan **78.8% interaksi siswa-GenAI berjalan pada tujuan dan strategi non-penguasaan**. Volume interaksi mengukur sesuatu selain orientasi belajar, sehingga jumlah sesi adalah proksi keterlibatan yang menyesatkan.
-
-## Konsep terkait
-- [[learners]] — Siswa: payung bagi konsep-konsep sisi siswa
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Artikel terkait
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Frekuensi penggunaan dan keahlian yang dinilai sendiri tidak memprediksi apa pun pada 819 siswa
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Outsourcing kognitif vs. realokasi dalam penilaian siswa–GenAI tanpa pengawasan (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Apakah ini perangkap?”: non-adopsi GenAI oleh calon guru dalam penilaian (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analisis Jenis Inkuiri dalam Interaksi Siswa-AI
-- [[student-llm-interaction-taxonomy-review-2026]] — Tinjauan Taksonomi Interaksi Siswa-LLM
-- [[teacher-authored-prompts-student-ai-dialogue]] — Prompt yang Ditulis Guru dalam Dialog Siswa-AI
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Membangun Literasi AI Epistemik
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): Integrasi LLM di CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — Agen pendidikan berbasis LLM (DBagent) dalam pendidikan CS
-- [[isaza-chatgpt-engineering-prompting-2026]] — Perilaku prompting dan integrasi yang tercatat
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Cacat tetapi Mudah Diingat: Penerimaan Kritis Siswa terhadap Analogi GenAI yang Dipersonalisasi Minat dalam Pendidikan Komputasi
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, atau Scaffold: Model Konseptual tentang Bagaimana Model Bahasa Besar Membentuk Pembelajaran
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Ketika Tutor AI Berbicara: Bukti dari Eksperimen Lapangan Acak
-- [[context-prompts-physics-assignments-2026]] — Tugas Fisika Berbasis Kecerdasan Buatan menggunakan Prompt Konteks
-- [[three-pathways-student-ai-interaction-2026]] — Tipologi Tiga Jalur interaksi siswa-AI: 46% Tinjauan Pasif, 18% Pertanyaan Langsung, 36% Dialog Strategis
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai berprompt menghadapi probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)

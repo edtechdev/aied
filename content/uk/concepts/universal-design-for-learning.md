@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -95,33 +97,3 @@ UDL перетворює «виправляй здобувача» на «вип
 **«UDL означає проєктування для середнього студента, але ретельніше.»** Основне твердження протилежне: різноманітність здобувачів є нормою, а не винятком, тож проєктування дає багато шляхів від початку замість виправлення одного шляху для тих, кому важко. Добудова — це те, що UDL існує замінити, а єдиний добре налаштований шлях усе ще є єдиним шляхом.
 
 **«ШІ робить UDL автоматичним, бо може генерувати альтернативні формати.»** Він робить принцип репрезентації дешевим і залишає залучення та вираження незайманими. Перетворення тексту на аудіо стосується одного з трьох засобів; курс тепер може бути цілком мультиформатним і все ж вимагати від кожного студента демонструвати навчання тим самим єдиним способом.
-
-## Пов’язані поняття
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Парасолька: педагогіки та стратегії навчання в освіті зі ШІ
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Пов’язані статті
-- [[seung-basham-cognitive-offloading-swld-2026]] — Когнітивне розвантаження за допомогою GenAI для студентів із порушеннями навчання
-- [[authentic-products-authenticated-processes-2026]] — Від автентичних продуктів до автентифікованих процесів
-- [[tactile-statistical-graphs-accessibility]] — Тактильні статистичні графіки для доступності
-- [[neurodivergent-computing-students]] — Нейровідмінні студенти комп’ютерних наук
-- [[ai-learning-tools-engineering-education-needs]] — Проєктування інструментів навчання на основі ШІ з урахуванням потреб і уваги
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Генеративний ШІ, віртуальна реальність і не тільки: огляд цифрових асистивних технологій для нейровідмінних студентів у вищій освіті
-- [[faculty-accessible-course-design-ai-2026]] — «AI is reducing options I had used»: вивчення сприйняття доступного проєктування курсів викладачами в світі ChatGPT
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — ШІ та універсальне проєктування навчання в закладах вищої освіти Кувейту: до рамки інклюзивної освіти з підтримкою ШІ

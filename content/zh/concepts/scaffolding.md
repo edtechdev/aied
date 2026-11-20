@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -117,65 +119,3 @@ ai_assist:
 - **“脚手架是一个恒定的支持水平。”** 对 **207 次问诊**的专家标注显示，脚手架需求**强烈依赖阶段，从问诊早期占学生话语的约 16.1% 起上升**。单一的支持水平在同一次问诊的两端都会被误配。
 - **“任何结构化对照条件都是脚手架的公平比较。”** 在[[summative-assessment|考试]]中，脚手架组仍然击败了一个真正的渐进披露替代方案（**71.8% 对 55.6%**），因此增益是对照一个真实的[[pedagogy|教学]]替代方案测量的，而不是对照什么都没有。
 - **“脚手架效应是普遍的。”** 增益为 **16.4 个百分点（P = 3.30e-4）**，其中最大改善在**沟通（Hedges' g = -0.79）**。效应集中在一个结果上，因此跨结果的平均会低估它在何处有效、高估它在何处无效。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 支持在序列中该落在何处，以及为何"先尝试后求助"是承重规则
-- [[problem-based-learning]] — PBL 把渐隐脚手架嵌在结构不良的问题周围
-- [[learning-by-teaching]] — 通过解释为知识建构搭脚手架
-- [[sociocultural-learning]] — 维果茨基基础：ZPD 与社会中介学习
-- [[cognitive-offloading]] — 从不撤除的脚手架制造过度依赖
-- [[feedback]] — 脚手架在支持撤除时交付形成性反馈
-- [[ai-literacy]] — 识别脚手架何时支持、何时取代学习
-- [[intelligent-tutoring]] — ITS 依掌握估计调整脚手架强度
-- [[socratic-method]] — 不直接给答案的提问
-- [[metacognition]] — 建立自我监控与自我调节的脚手架
-- [[adaptive-learning]] — 自适应系统在学习者的 ZPD 内调制支持
-- [[learning-design]] — 脚手架是一项核心教学设计策略
-- [[help-seeking]] — 脚手架塑造学习者何时以及如何求助
-- [[teacher-role]] — 教师搭脚手架，再随能力增长撤除
-- [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-- [[agentic-ai]]
-- [[productive-failure]] — 有效失败
-
-## 关联文章
-
-- [[stone-gpt5-kinematics-sensemaking-2026]] — 改变学生对话的是一份计分评分规则，而不是更好的模型：从索要配方转向出声思考（Stone、Zhang 与 Utter，2026）
-- [[kumar-genai-computing-education-systematic-review-2026]] — 脚手架撤除作为强制验证的机制（VIE 框架）
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 评估面向临床问诊训练的脚手架导向多智能体大模型系统
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — 熵定时 AI 评论作为视频内知识与情感脚手架（Wang、Du & Jin 2026）
-- [[guided-llm-scaffolding-independent-learning]] — 引导式 LLM 提示作为结构化学习干预
-- [[scaffolding-critical-engagement-genai-minority-students]] — 面向少数群体学生的文化回应批判性参与脚手架与 GenAI
-- [[rethinking-scaffolding-llm-tutors]] — LLM 导师中脚手架的设计模式
-- [[concept-catalyst-engineering-scaffolds]] — 服务于概念转变的 Concept Catalyst 脚手架
-- [[correct-answer-trap-ai-tutor]] — 提示何时有帮助 vs. 何时助长过度依赖
-- [[critical-thinking-genai-scaffolding]] — 用 GenAI 为批判性思维搭脚手架
-- [[veriforge-narrative-drafting-scaffolding-2026]] — 用 Veriforge 进行脚手架化叙事起草
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 从替代到脚手架：打破自我强化的伤害循环
-- [[preferred-scaffolding-ai-mathematical-modeling]] — AI 支持数学建模中的被偏好脚手架
-- [[agentic-ai-pedagogical-best-practice-2026]] — 动态（渐隐）脚手架作为智能体 AI 的护栏
-- [[zhang-tutormoments-2026]] — 当帮助适得其反：评估 AI 导师的有效挣扎
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持有效失败式学习的 AI 系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向有效失败的 LLM 教学引导
-- [[making-ai-tutoring-productive-mastery-math-2026]] — 让 AI 辅导变得有效：掌握式数学练习
-- [[brcic-effortless-trap-productive-struggle-2026]] — 有护栏与无护栏的 AI：放置规则（Brcic & Frljic 2026）
-- [[ai-supported-experimental-design-chemistry-2026]] — 实践化学中的 AI 支持实验设计
-- [[scaffolding-systematic-reviews-2026]] — 以指导与 AI 为系统综述搭脚手架（Wang 2026）
-- [[preservice-teacher-agency-genai-design-learning-2026]] — 职前教师在"为学习而设计"中 GenAI 互动时的能动性（Krushinskaia、Elen & Raes 2026）
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 数学教师教育中贯穿教学实践法的 AI：结构化演练反馈提升了探询性问题（Bondurant & Shaughnessy 2026）
-- [[ai-integration-instructional-design-collaboratory-2026]] — AI 整合作为教学设计：对 AI 产出的批评必须被布置，且学科分析先行
-- [[ai-literacy-tool-design-programming-education-2026]] — 一个提示预算制 AI 学习教练：有脚手架与无限制的 GenAI 使用，以及为何仅靠约束未能产生学习（Azimi 2026）
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：脚手架被重构为判定任务属于哪个子区间
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自动评分作为形成性脚手架：它只在目标缺口可分解、可靠且敏感可分度之处转化为增益（Chen & Liu 2026）
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 在音乐练习中追踪学习者当前边界的闭环自适应脚手架，以错误检测作为分诊（Zhu et al. 2026）
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 脚手架形式必须匹配儿童的发展能力，而非仅是任务（Niu et al. 2026）
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 脚手架必须要求表征转换与验证，因为学生无法验证自己不理解之物（Vega-Baudrit & Rivera Álvarez 2026）
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI 作为连接视觉直觉与几何演绎证明的提示脚手架，单凭可视化不足之处（Davor 2026）
-- [[guided-ai-tutor-impasse-resolution-2026]] — 考察引导式 AI 导师如何化解学生卡壳的变异
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 在 STEM 问题求解中把学习者训练当作 GenAI 使用的脚手架（Huang et al. 2026）
-- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
-
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — 自定进度课程中的内容与时间脚手架层，以及按学习时机的晚开始率与失败率
-- [[assistance-dilemma-rl-tutoring-2026]] — 协助困境：训练一个奖励视野以题目为终点的多轮强化学习导师，会把淡出训练掉（Macina、Kapur 与 Sachan 2026）
-- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — 一条写进教师撰写系统提示词中的固定渐隐阶梯
-

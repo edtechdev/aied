@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -46,13 +47,3 @@ Biblioteche pubbliche che vogliono ospitare un chiosco (il programma accoglie ca
 - Le biblioteche partecipanti contribuiscono con **\$1,000 per ogni installazione di un chiosco all'anno**; il progetto pilota stesso è limitato alle sedi che hanno presentato domanda.
 - L'informativa sulla privacy è un'affermazione del programma, non un accertamento verificato; una biblioteca dovrebbe confermare i termini di conservazione e di sicurezza per i minori nel proprio accordo sul trattamento dei dati.
 - La seconda e la terza fase della roadmap, che consentono alle biblioteche di importare archivi locali e governare i sistemi che ne derivano, sono pianificate e non ancora rilasciate.
-
-## Concetti collegati
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -81,50 +83,3 @@ Pedagojik güvenlik, [[hallucination-risk]], [[rag]]’i, [[k-12]]’yi, [[ethic
 **“En güvenli özel ders öğretmeni en çok reddedendir.”** "Eşit biçimde reddeden" bir sistem yine de eşitsizliği yerleştirebilir; bu, sayfanın sessiz başarısızlık tanımının ikinci yarısıdır. Başarısızlık kipi yalnızca doğru yanıt verip öğrenmeyi aşındıran bir özel ders öğretmeni değildir; reddetmeleri desteği öğrenciler arasında eşit olmayan biçimde dağıtan bir özel ders öğretmeni de öyledir ve her şeyi reddeden bir politika görünür bir riski görünmez bir riskle değiştirir.
 
 **“Her model düzeyinde güvenlik çalışması bir halkla ilişkiler önlemidir.”** Bir kısmı ölçülebilirdir. [[llm-unlearning-math-privacy|matematik-öğrenmeyi-geri-alma]] çalışması, kimlik belirtici bilgiyi ve zararlı içeriği ayıklamak için gradyan temelli öğrenmeyi-geri-almayı uygular; yeteneği korurken PII çıktısını **%0,1**'e ve toksik oranları **%0,0**'a düşürdüğünü bildirir. Model düzeyinde denetimler katmanlı bir savunmanın bir katmanıdır: tek başına yetersiz ve hiçbir şey de değil.
-
-## Bağlı kavramlar
-
-- [[guardrails]] — güvenliği hayata geçiren tasarım mekanizmaları
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Bağlı makaleler
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Sınıf pilotiyle birlikte öğrenci–YZ diyalogunu yönlendiren SCAFFOLD çerçevesi
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Öğretmen tasarımı güvenlik katmanları: alan sınırları, süzme ve müdahale
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Öğrenme İçin Güvenli ve Sağlam YZ Tasarım Çerçevesi
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

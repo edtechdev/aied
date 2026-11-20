@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -66,35 +68,3 @@ ai_assist:
 - **"छात्र AI और मानव शिक्षण सहायक में अंतर नहीं कर सकते।"** एक आभासी प्रयोगशाला शिक्षण सहायक अध्ययन ने पाया कि **मानव TA ChatGPT से अधिक सटीक और अधिक प्रभावी** थे, फिर भी छात्रों ने **40% मामलों में AI उत्तर को प्राथमिकता दी** और वे केवल **45% मामलों में AI आउटपुट पहचान सके**। पहचान सिक्का उछालने के करीब थी और प्राथमिकता कम सटीक स्रोत की ओर चली, इसलिए संतुष्टि का डेटा यहाँ गुणवत्ता का विकल्प नहीं बन सकता।
 - **"प्राथमिकता गुणवत्ता दर्शाती है।"** वही अध्ययन इन्हें सीधे अलग करता है: पसंद किया गया उत्पाद ही कमतर था। जीवविज्ञान के किसी AI उपकरण का कोई भी मूल्यांकन जो सटीकता के माप के बिना छात्र संतुष्टि रिपोर्ट करता है, गलत मात्रा रिपोर्ट कर रहा है।
 - **"AI साक्षरता एक अलग विषय के रूप में पढ़ाई जानी चाहिए।"** मशीन-लर्निंग अवधारणाओं को **उच्च विद्यालय के जीवविज्ञान पाठ्यक्रम में समाहित** करने पर पाया गया कि जीवविज्ञान संदर्भ ने AI सीखने का **समर्थन** किया, जो AI साक्षरता को पाठ्यक्रम में समाहित करने के पक्ष में प्रमाण है, अलग इकाई जोड़ने के पक्ष में नहीं। विषय ने अवधारणाओं को जुड़ने का आधार दिया।
-
-## संबंधित अवधारणाएँ
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## संबंधित लेख
-- [[biology-degree-integrity-genai-cheating-2026]] — क्या छात्र जीवविज्ञान की डिग्री के लिए नकल करके आगे बढ़ सकते हैं? जनरेटिव AI युग में जीवविज्ञान पाठ्यक्रम ग्रेड की शैक्षणिक बेईमानी के प्रति कमज़ोरी का एक केस अध्ययन
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — एक आभासी प्रयोगशाला शिक्षण सहायक के रूप में ChatGPT
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — जैविक शिक्षा में AI उपकरणों की समीक्षा
-- [[critical-thinking-biological-sciences-ai-2025]] — जैविक विज्ञान और AI में आलोचनात्मक चिंतन
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — चुनौती-आधारित जीवविज्ञान/गणित पाठ्यक्रमों में ChatGPT
-- [[zha-ai-literacy-biology-case-study]] — एक जीवविज्ञान कक्षा में AI साक्षरता शिक्षा
-- [[genai-socratic-tutor-biology-argumentation-2026]] — प्रस्तावित जीव विज्ञान शिक्षकों की PISA-संरेखित वाद-विवाद कौशल को बेहतर बनाने के लिए जनरेटिव कृत्रिम बुद्धिमत्ता
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities

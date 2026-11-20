@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -101,31 +103,3 @@ Um estudo de caso no nível do corpo docente nesta base de conhecimento fornece 
 **"'Vibe coding puro' é o que o termo significa, então a distinção não importa."** Ela importa para a avaliação e para a segurança. A página distingue o vibe coding puro, em que o usuário deliberadamente não inspeciona nem edita o código-fonte gerado e depende inteiramente de prompting iterativo e avaliação comportamental, do trabalho com código visível, em que o usuário lê o que foi produzido. São atividades diferentes, com perfis de erro diferentes, e um estudo de uma não autoriza afirmações sobre a outra.
 
 **"Se o aplicativo roda, o código gerado está bom."** Rodar é um teste fraco. A análise da Veracode de 2025 constatou que apenas 55% do código gerado por IA é seguro, de modo que ferramentas de sala de aula construídas por vibe coding ainda precisam de uma passada de revisão antes de lidar com dados de estudantes ou de se conectar a qualquer sistema que valha proteger. A avaliação comportamental confirma os caminhos que um usuário por acaso percorre e não diz nada sobre os que ele não percorre.
-
-## Conceitos conectados
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Artigos conectados
-
-- [[vibe-coding-writing-cs-achievement-2026]] — Desempenho em ciência da computação e habilidades de escrita preveem a proficiência em vibe coding (estudo empírico da CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Um framework orientador para professores do K-12 na criação de tecnologias de aprendizagem movidas por IA por vibe coding
-- [[vibe-coding-programming-process-visualizer]] — Da ideia à sala de aula em dias: usando "vibe coding" para criar um visualizador do processo de programação a partir de logs de atividade da IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — O vibe coding construiu duas simulações de engenharia em horas; diagnosticar um erro de protocolo ainda exigiu o instrutor
-- [[prompt-problems-nl-programming-mistakes]] — Compreendendo percepções, erros e abordagens de depuração dos estudantes ao resolver tarefas de programação em linguagem natural
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: um framework teoricamente fundamentado para a construção de artefatos no ensino médio
-- [[reshaping-cs-education-genai]] — Remodelando a graduação em ciência da computação para a IA generativa
-- [[flowcode-ai-creative-coding]] — Flowcode: um ambiente de programação movido a IA para dar andaimento à iteração na educação em computação criativa
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intraempreendedorismo em IA: o corpo docente construindo suas próprias ferramentas, e os habilitadores organizacionais que decidem se o impulso sobrevive (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Uma ferramenta, um gosto? Como o vibe coding troca a diversidade coletiva pela criatividade individual
-- [[ho-invariant-core-faculty-development-2027]] — Ferramentas construídas por professores como estratégia de avaliação: evidência de processo que o quadro de pessoal não consegue fornecer (Ho 2026)

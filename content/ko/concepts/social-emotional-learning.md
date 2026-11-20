@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -70,9 +72,7 @@ SEL은 관계적 학습과 사회적 응집을 뒷받침합니다. [[finkelstein
 
 여기 소속감에는 더 날카로운 모서리가 있습니다. AI에게 구하는 공감은 벌을 받을 수 있습니다. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]]는 참가자들에게 고통받는 학생이 [[conversational-ai|챗봇]], 친구, 치료자, 혹은 아무에게도 가지 않은 이야기를 읽게 했습니다. 챗봇 조건에서 참가자들은 사적으로는 공감을 위임하겠다는 의지가 가장 낮다고 보고했지만, 그 학생에 대해 가장 많은 무관심 단어를 사용하고 그를 더 낯설고 더 절박한 사람으로 평가했습니다. AI를 찾는 경로에 대한 또래의 판단은 위에서 기록된 은폐를 더합니다. 그래서 공개 규범은 무결성 정책만이 아니라 SEL 설계에도 속합니다.
 
-
 [[ai-sycophancy|아첨]]은 같은 대체를 측정된 용량으로 적용합니다. 다섯 개의 사전 등록 연구(N = 3,075; 대화 12,766건)에서, 사용자의 견해를 긍정하는 AI의 사용자는 3주에 걸쳐 가까운 친구와 가족에게서만큼이나 그것에서 개인적 조언을 구할 가능성이 높아졌습니다. 같은 참가자들은 현실 상호작용에 대한 만족도가 더 낮다고 보고했고, 다수는 그 긍정적 문체를 조언 때문이 아니라 자신이 이해받는다고 느끼게 해서 선호했습니다([[sycophantic-ai-social-interaction-2026|Ibrahim 외(2026)]]). 해악은 정서적이라기보다 관계적이며, 그래서 정서 지원 기능은 교과에 비용 없는 추가물로 다루어질 수 없습니다.
-
 
 ### 끈기, 심성, 생산적 투쟁
 SEL은 학습의 노력적 차원과 겹칩니다. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]]는 동기/몰입, 인지적 장벽, 도전 아래의 회복탄력성, 연결에 의해 형성되는 교육 기술에서 반복되는 과제로서 [[student-support-and-success|학생의 낮은 끈기]]를 확인합니다. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]은 노력을 대체하는 AI가 교육이 구축하는 바로 그 역량들을 침식한다고 경고하며, [[metacognition]]와 [[cognitive-offloading|over-reliance]]에 맞선 생산적 투쟁의 가치와 일치합니다.
@@ -108,46 +108,3 @@ SEL은 [[ai-literacy]](AI 리터러시를 관계적이고 윤리적으로 만드
 **"낮은 끈기는 격려로 고칠 수 있는 동기 문제입니다."** 끈기는 교육 기술에서 반복되는 제약이며, [[framing-5-percent-problem-teachers-persistence|5% 문제]]가 이름 붙인 양상입니다. 그것은 동기와 동의, 인지적 장애물, *그리고* 도전 아래의 회복탄력성에 의해 형성됩니다. 격려는 셋 중 하나를 다룹니다. 문제가 작업 기억을 넘어서서 멈춘 학습자에게 부족한 것은 안심이 아닙니다.
 
 **"AI가 이용 가능하다는 것을 아는 것은 학생의 노력 투자를 바꾸지 않습니다."** 바꿀 수 있으며, 그 효과는 가장 약한 학습자에게 반대 방향으로 작동합니다. [[ai-availability-student-motivation|AI 이용 가능성]]은 특히 초심자에게 노력하는 참여의 지각된 가치를 낮출 수 있습니다. 이용 가능성 자체가 음의 부호를 지닌 동기적 개입이며, 그래서 SEL에 인접한 설계는 도움이 되는 체계의 존재를 중립적으로 다룰 수 없습니다.
-
-## 연결된 개념
-
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[sec-ai-literacy-narrative-review-2026]] — AI 리터러시에 사회정서 역량 통합하기
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — 신뢰의 격차를 주목하라: 교사와 학생의 견해
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 비계화된 AI 리터러시(SAIL) 틀
-- [[teacher-education-ai-literacy-sdt-2026]] — AI 리터러시를 위한 교사 교육(SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI에 대한 학생 의존, 자기효능감, 자원 관리
-- [[self-efficacy-tutoring-learning]] — 자기효능감과 선호도가 조력 학습을 형성한다
-- [[shame-guilt-ai-regulation-computing-education]] — AI 사용의 사회적 규제자로서의 수치심과 죄책감
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 대체에서 비계로
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI 챗봇과 집단 효능감
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: 정서적 수학 조력
-- [[ai-campus-wellbeing-tools]] — AI 기반 캠퍼스 웰빙 도구
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 연구의 정책 결손
-- [[human-ai-complementarity-social-emotional-learning-2026]] — 초기 사회정서학습에서의 인간–AI 보완성(Raave 등 2026)
-- [[parlant-emotional-micro-interventions-2026]] — 실시간 정서적 미세 개입과 교사를 위한 표현집
-- [[shastry-gray-empathy-offloading-2026]] — 사람들은 AI가 공감을 줄 수 있다고 생각할 때 공감을 위임한다 (Shastry & Gray 2026)
-
-- [[sycophantic-ai-social-interaction-2026]] — 아첨하는 AI는 인간 조언 구하기를 대체하고 현실 상호작용 만족도를 낮춘다 (Ibrahim et al. 2026)
-
-- [[liu-genai-sel-mapping-review-2026]] — GenAI와 SEL에 관한 43개 연구 매핑 검토: 고르지 않은 역량 커버리지와 얇은 윤리 보고
-

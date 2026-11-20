@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -45,12 +46,3 @@ Owston(2026)は、開発者の一人として、AI Tutor Proの3つのモード�
 ## 注記と注意点
 
 どちらのアプリも無料で個人情報を必要としませんが、「プライベートで匿名」は「データがない」と同じではありません。Contact Northの方針は、ChatGPTのやり取りのログとGoogle Analyticsのデータを収集し、カナダのサーバーに保存し、OpenAIによる訓練を許可せず、やり取りのデータをOpenAIと共有し、OpenAIが最大30日間保持すると述べています。AI Tutor Proは、保護者または後見人の許可なしに18歳未満の利用者には推奨されていません。ベンダーのやり取りの回数は自社のマーケティング上の数字であり、独立した利用データではなく、Slide Builderのベータ表示は、教室で使う前に出力を確認すべきことを意味します。オープンソースライセンスは明示されておらず、コードは機関による改変には利用できません。
-
-## 関連する概念
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -71,40 +73,3 @@ ai_assist:
 **"বিদ্যমান অনুসন্ধান-পাঠে এআই যোগ করলে ক্ষতি হতে পারে না।"** হতে পারে, এবং যে তুলনা লাভ দেখায় তা শোনার চেয়ে সংকীর্ণ। [[context-based-ai-secondary-chemistry-2026|Abdikayumova ও Madybekova]] দশম শ্রেণির রসায়নে **7E নির্দেশনা-মডেল**-এর সঙ্গে PhET সিমুলেশন *এবং* ChatGPT টিউটরিং যুক্ত করে কেবল-অনুসন্ধান বা প্রচলিত শিক্ষাদানের চেয়ে উল্লেখযোগ্যভাবে উচ্চতর অর্জন ও সম্পৃক্ততা পান। চিকিৎসাটি হলো কাঠামোবদ্ধ সমন্বয় — একটি নির্দেশনা-মডেল যোগ সিমুলেশন যোগ টিউটরিং — চ্যাটবট একা নয়, এবং অকাঠামোবদ্ধ অনুসন্ধানে যোগ করা চ্যাটবট এই ফলাফলে অপরীক্ষিত।
 
 **"রসায়ন এমন বিষয় যেখানে উত্তর যাচাইযোগ্য, তাই এআই-এর ভুল নিরীহ।"** যাচাইযোগ্য উত্তরই ভুল যুক্তি অলক্ষ্যে পার হওয়ার পথ: যে শিক্ষার্থী খারাপভাবে যুক্তি করা মডেল থেকে সঠিক মান পায়, তার সেই ঘাটতি শনাক্ত করার উপায় নেই, আর মূল্যায়নে সফলতা লিপিবদ্ধ হয়। একটি পরিমাণগত শাস্ত্রে যাচাইযোগ্য শেষবিন্দুই বোঝাপড়ার সবচেয়ে দুর্বল প্রাপ্ত প্রমাণ।
-
-## সংযুক্ত ধারণা
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — জীববিজ্ঞান শিক্ষা ও এআই: ল্যাব শিক্ষণ-সহায়ক, জীববিজ্ঞানে এআই সাক্ষরতা, সমালোচনামূলক চিন্তা, বিশেষায়িত সরঞ্জাম
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — বিজ্ঞান/রসায়ন শিক্ষায় এআই-এর পদ্ধতিগত পর্যালোচনা
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO এআই নির্দেশিকাকে রসায়ন শিক্ষায় অনুবাদ
-- [[context-based-ai-secondary-chemistry-2026]] — মাধ্যমিক রসায়নে প্রসঙ্গ-ভিত্তিক + এআই (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — ব্যবহারিক রসায়নে এআই-সহায়ক পরীক্ষামূলক নকশা
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT-সমৃদ্ধ গঠনমূলক মূল্যায়নে প্রশিক্ষক ও এআই-এর ভূমিকা
-- [[philosophy-experimentation-ai-chemistry-2026]] — এআই-সহ রসায়নে পরীক্ষণের দর্শন
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

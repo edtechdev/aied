@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -56,7 +58,6 @@ ai_assist:
 
 **ভূমিকা-ঝোঁক একটি নকশা-চলক, শৈলীগত পছন্দ নয়।** [[wang-teacher-student-centered-agents-physics-2026|পদার্থবিজ্ঞান এজেন্ট তুলনা]] (Wang et al. 2026, 59 শিক্ষার্থী) মডেল, প্ল্যাটফর্ম ও তাপমাত্রা স্থির রেখে প্রম্পট-নির্দিষ্ট ভূমিকাকে আলাদা করে: একটি শিক্ষক-কেন্দ্রিক এজেন্ট যা একটি সীমিত পাঠ্যপুস্তক-উৎসে ভিত্তিগত এবং প্রশিক্ষকের দৃষ্টিকোণ থেকে উত্তর দেয়, বনাম একটি শিক্ষার্থী-কেন্দ্রিক এজেন্ট যা শিক্ষার্থীদের বোঝাপড়ার জ্ঞান দিয়ে সাজানো এবং ভুল ধারণা নির্ণয়, ধারণার নাম দেওয়া ও [[transfer-of-learning|স্থানান্তরে]] নির্দেশনাযুক্ত একই ধরনের কেসে যাওয়ার স্ক্রিপ্টযুক্ত। শিক্ষার্থী-কেন্দ্রিক ভূমিকা প্রতিটি মাপা ফলাফলে জিতেছে — পরবর্তী-পরীক্ষার কর্মদক্ষতা, কম অপ্রাসঙ্গিক ও বেশি সারগর্ভ সংজ্ঞানাত্মক ভার, প্রবাহ-অভিজ্ঞতা এবং অনুভূত সহানুভূতি — যদিও শিক্ষক-কেন্দ্রিক এজেন্টই ছিল নির্ভুলতা ও পাঠ্যপুস্তক-বিশ্বস্ততার জন্য অনুকূলিত। এটি *ভূমিকা ও মিথস্ক্রিয়া-ধরনকে* [[prompt-engineering|প্রম্পট]] ও মডেল-পছন্দের পাশে প্রথম-শ্রেণির নকশা-পরামিতি করে তোলে, এবং দেখায় সহানুভূতি আলাদাভাবে প্রশিক্ষিত মডেল নয়, বরং সংলাপ-কাঠামো থেকে প্রকৌশল করা যায় ([[affective-computing]])।
 
-
 **রচনা-অভিপ্রায় কার্যকর শিক্ষণ-পদ্ধতির নিশ্চয়তা দেয় না।** 27 জন মাধ্যমিক শিক্ষক যখন একটি শিক্ষক-মুখী চ্যাটবট রচনা-সরঞ্জাম কনফিগার করেন, তখন 108টি বট-স্তরের মানদণ্ড-রেটিংয়ের মূল্যায়নে দেখা যায় উৎপন্ন প্রতিক্রিয়া নিয়ম (70.4%) বা ঘোষিত উদ্দেশ্য (59.3%)-এর চেয়ে সাড়াদানশীলতা (88.9%) ও ব্যক্তিত্বে (81.5%) অনেক ভালো মিলেছে, যা লেখকেরা Norman-এর Gulf of Execution ও Gulf of Evaluation-এর শিক্ষণ-পদ্ধতিগত রূপ দিয়ে ফ্রেম করেন — কনফিগারযোগ্য নিয়ন্ত্রণ একা শিক্ষকের নির্দেশনামূলক অভিপ্রায়কে বটের আচরণে দৃশ্যমান করেনি ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]])।
 
 **নিমজ্জনমূলক ও বর্ধিত-বাস্তবতা পরিবেশে এজেন্ট।** [[aclime-pedagogical-agents-extended-reality-2026|Ross ও Kaspar (2026)]] ধারণাটিকে [[virtual-and-augmented-reality|বর্ধিত বাস্তবতায়]] (AR, অগমেন্টেড ভার্চুয়ালিটি ও VR) বিস্তৃত করেন ACLIME দিয়ে, একটি ধারণাগত কাঠামো যা — CAMIL, CATLM-VR ও TICOL-এর বিপরীতে — এজেন্টকে মডেলের ভেতরেই রাখে। এটি সাহিত্য থেকে নেওয়া দুইটি মিথস্ক্রিয়া-ধরনের নাম দেয়: টিউটর, যা পথনির্দেশ, উৎসাহ, প্রতিফলনমূলক প্রশ্ন ও ব্যাখ্যা দেয়, এবং ভূমিকা-অভিনয় অংশীদার, যা একটি পরিস্থিতির ভেতরে নির্দিষ্ট ভূমিকায় থাকে — যেমন জলবায়ু-পরিবর্তন মাঠ-ভ্রমণে স্থানীয় বাসিন্দা বা কর্পোরেট প্রশিক্ষণে দর-কষাকষির প্রতিপক্ষ। এজেন্টের দেহ (কেবল-মাথা থেকে পূর্ণ দেহ) ও আচরণকে নকশা-পৃষ্ঠ হিসেবে দেখা হয়: দৃশ্যমান বনাম আচরণগত বাস্তবতা, নমনীয় এআই-নিয়ন্ত্রণ বনাম স্থির নিয়ম-ভিত্তিক স্ক্রিপ্টিং, সংশ্লেষিত বনাম পূর্ব-রেকর্ডকৃত বাক্য, এবং [[sensor-and-gaze-analytics|দৃষ্টি]], অঙ্গভঙ্গি ও প্রক্সিমিকসসহ অমৌখিক চ্যানেল। নিমজ্জন ও দেহ-ভিত্তিক আন্তঃক্রিয়া [[community-of-inquiry|সামাজিক উপস্থিতির]] পেছনের সামাজিক সংকেতগুলোকে বহুগুণ করে বলে যুক্তি দেওয়া হয় — নির্ধারক পূর্বানুমানক হিসেবে প্রস্তাবিত হয় আচরণগত বাস্তবতা, দৃশ্যমান বাস্তবতা নয় — আর শিক্ষার্থীর নিজের ভার্চুয়াল দেহ একটি [[embodied-learning|দেহবদ্ধতা]] মাত্রা (দেহ-মালিকানা, ভার্চুয়াল নিজ-দেহ এজেন্সি, স্ব-অবস্থান) ও proteus প্রভাব যোগ করে। কাঠামোর স্পষ্ট বিনিময় সংজ্ঞানাত্মক: নিমজ্জন ও এজেন্টের নিছক উপস্থিতি সংজ্ঞানাত্মক ভার বাড়াতে পারে, অথচ এজেন্টের সঙ্গে সামাজিক মিথস্ক্রিয়া সমষ্টিগত কর্ম-স্মৃতি প্রভাবের মাধ্যমে তা কমায়, এবং সাধারণ নকশা-চলকের সঙ্গে একটি কালিক স্তর (পরিচিতি, মানুষ-এজেন্ট সম্পর্কের পরিপক্বতা, অভিনবত্ব-হ্রাস, সাইবার-অসুস্থতার বিকাশ) যোগ হয়। এর অবস্থা ইচ্ছাকৃতভাবে সাময়িক: নিমজ্জনমূলক মিডিয়ায় শিক্ষণ-এজেন্ট পরীক্ষা করা প্রায় কোনো অভিজ্ঞতামূলক কাজই এখনও নেই, এবং দীর্ঘমেয়াদি [[learning-gains|শিখন-ফলাফল]] ও শিক্ষার্থী-বৈশিষ্ট্য মডেলের বাইরে।
@@ -82,7 +83,6 @@ ai_assist:
 
 মূল হলো, শিক্ষণ-এজেন্ট বিচার হয় তাদের [[learning-gains|শিখন-লাভে]], তারা কত সাবলীলভাবে সাড়া দেয় তা দিয়ে নয়। জ্ঞানভাণ্ডারের প্রমাণ হলো গার্ডরেইল-যুক্ত টিউটরিং-নির্দিষ্ট কোচ হিসেবে নকশাকৃত এজেন্টরা টেকসই লাভ দেয় — [[stanford-evidence-base-ai-k12-2026|টিউটরিং-নির্দিষ্ট এআই ধারাবাহিকভাবে সাধারণ-উদ্দেশ্য চ্যাটবটের চেয়ে ভালো করে]] — আর শিখনের ক্ষতি করতে পারে যখন তারা শিক্ষার্থীর পরিশ্রমের বিকল্প হয় ([[generative-ai-guardrails-harm-learning|গার্ডরেইল RCT]], [[jost-llm-programming-education-learning-outcomes|LLM-নির্ভরতা ও গ্রেড]])। তাই একটি এজেন্টের [[learning-gains]] মাপতে চায় অসহায়ক, স্থানান্তরযোগ্য ফলাফল-মাপক, সরঞ্জাম-ভেতরের কর্মদক্ষতা নয়।
 
-
 উন্নততর প্রতিক্রিয়া উন্নততর শিখন নয়: জ্ঞানভাণ্ডার ও কর্মপ্রবাহ দিয়ে একটি এজেন্ট কাস্টমাইজ করলে প্রতিক্রিয়ার নির্ভুলতা ও নির্দিষ্টতা বেড়েছে অথচ স্ব-নিয়ন্ত্রক আচরণ, শিখন-অভিজ্ঞতা ও ফলাফল অপরিবর্তিত থেকেছে, এবং এর লাভ-সুবিধা কেবল নির্দেশনামূলক প্রতিক্রিয়ার অধীনে প্রকাশ পেয়েছে ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]])।
 
 ## সাধারণ ভুল ধারণা
@@ -90,65 +90,3 @@ ai_assist:
 - **"রচনা-অভিপ্রায় নির্ধারণ করে একটি শিক্ষণ-এজেন্ট কী করবে।"** **রচনা-অভিপ্রায় কার্যকর শিক্ষণ-পদ্ধতির নিশ্চয়তা দেয় না।** যখন **27 জন মাধ্যমিক শিক্ষক** একটি শিক্ষক-মুখী চ্যাটবট রচনা-সরঞ্জাম কনফিগার করেন, 108টি বট-স্তরের মানদণ্ডের মূল্যায়নে দেখা যায় কার্যকর আচরণ শিক্ষকদের অভিপ্রেত থেকে বিচ্যুত হয়েছে। সরঞ্জামটি শিক্ষণ-পদ্ধতির মধ্যস্থতা করেছে।
 - **"আলোচনার মধ্যস্থতা করা শিক্ষণ-এজেন্টের একটি সমাধান হয়ে যাওয়া ভূমিকা।"** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] দেখায় কী ঘটে যখন একটি এজেন্টকে নির্দেশনা দেওয়ার বদলে **মধ্যস্থতা করতে** বলা হয় — প্রশ্নের উত্তর দেওয়া থেকে গুণগতভাবে ভিন্ন দাবি, এবং যা সাহিত্য অমীমাংসিত হিসেবে দেখে।
 - **"কম্পিউটার-সহায়ক নির্দেশনার প্রমাণভিত্তি পাতলা।"** একটি সংশ্লেষণ (**2025, 34টি পর্যালোচনা**) CAI-ব্যবহার পরিমাণ করে শিক্ষাদান ও শিখন-সহায়তায় (**পর্যালোচনার 97.1%**), মনস্তাত্ত্বিক ও প্রেরণামূলক সহায়তায় (**91.2%**) এবং **অধিসংজ্ঞানাত্মক** সহায়তায়। পর্যালোচিত প্রয়োগের বিস্তার ব্যাপক, ফলে ফাঁকটি কভারেজের নয়, কার্যকর গুণমানের।
-
-## সংযুক্ত ধারণা
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## সংযুক্ত নিবন্ধ
-- [[wang-teacher-student-centered-agents-physics-2026]] — শিক্ষার্থী-কেন্দ্রিক এজেন্ট ভূমিকা কর্মদক্ষতা, ভার, প্রবাহ ও সহানুভূতিতে শিক্ষক-কেন্দ্রিক ভূমিকাকে ছাড়িয়ে যায় (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: AR/VR-এ শিক্ষণ-এজেন্টের ধারণাগত কাঠামো — টিউটর বনাম ভূমিকা-অভিনয় অংশীদার, বাস্তবতা, উপস্থিতি, সংজ্ঞানাত্মক ভার (Ross ও Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: নির্দেশনামূলক অনুশীলনের জন্য জেনারেটিভ শিক্ষার্থী-এজেন্ট
-- [[conversational-ai-agents-umbrella-review-2026]] — শিক্ষায় কথোপকথনমূলক এআই এজেন্টের ছাতা-পর্যালোচনা
-- [[conversational-agents-novice-programmers-scoping-2025]] — নবীন প্রোগ্রামারদের জন্য কথোপকথনমূলক এজেন্টের স্কোপিং পর্যালোচনা
-- [[ba-ai-agents-cscl-review-2026]] — কম্পিউটার-সমর্থিত সহযোগিতামূলক শিখনে এআই এজেন্ট পর্যালোচনা
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শিখন সমর্থনের জন্য এআই ব্যবস্থার নকশা
-- [[preferred-scaffolding-ai-mathematical-modeling]] — এআই-সহায়ক গাণিতিক মডেলিংয়ে পছন্দের স্ক্যাফোল্ডিং
-- [[llm-adaptive-programming-error-explanations-2026]] — প্রোগ্রামিং ভুলের LLM অভিযোজিত ব্যাখ্যা
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — প্রাথমিক বুক টকের জন্য ভূমিকা-অভিযোজিত এআই সঙ্গী; নির্দিষ্ট-ভূমিকা এজেন্টের আবেগগত সিলিং (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: ভূমিকা-অভিনয় ও আলোচনার মাধ্যমে দলগত নৈতিকতা-শিক্ষা সহজতর করা
-
-- [[teachers-configure-educational-chatbots-2026]] — অভিপ্রেতভাবে কি শেখাবে? শিক্ষকেরা শিক্ষামূলক এআই চ্যাটবট কীভাবে কনফিগার করেন
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — কাস্টমাইজড এজেন্ট প্রতিক্রিয়ার গুণমান বাড়িয়েছে কিন্তু স্ব-নিয়ন্ত্রণ বা ফলাফল নয়; লাভ-সুবিধা কেবল নির্দেশনামূলক প্রতিক্রিয়ায়

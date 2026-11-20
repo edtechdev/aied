@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -84,38 +86,3 @@ La misma lógica explica por qué la presencia no es automáticamente buena. Los
 - **«Sentir el fenómeno significa comprenderlo.»** Un piloto encontró que el estudiantado declaraba **sentir** la longitud de onda y la amplitud mediante un gesto de la mano con más fuerza que mediante un deslizador, pero **medía la percepción, no el rendimiento**. La sensación es la posibilidad de acción, y si produjo comprensión es una prueba aparte.
 - **«Las puntuaciones altas de usabilidad validan una herramienta de RV educativa.»** En una **sesión de una hora con 10 estudiantes** en unas Meta Quest 3, el estudio informó de **buena usabilidad en la System Usability Scale y un mareo de simulación mínimo**. La usabilidad y la comodidad son condiciones previas y ninguna es una medida de aprendizaje.
 - **«El acuerdo del estudiantado es evidencia de la posibilidad de acción.»** Con **29 estudiantes de segundo curso de imagen médica**, los 29 **coincidieron en que el gesto les ayudaba a «sentir» qué es la longitud de onda (media 4,52)**. El acuerdo unánime sobre una sensación es autoinforme sobre la experiencia, y la afirmación sobre la posibilidad de acción necesita un resultado que no dependa del juicio del estudiantado sobre su propia comprensión.
-
-## Conceptos conectados
-
-- [[simulation]] — lo que suelen mostrar los entornos inmersivos; el modelo, no la modalidad
-- [[embodied-learning]] — el mecanismo que la modalidad se supone que explota
-- [[multimodal]] — el gesto, la voz y la entrada espacial como canales de aprendizaje
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — el ámbito donde la práctica inmersiva está más consolidada
-- [[generative-ai]] — la nueva capa de autoría
-- [[prompt-engineering]] — cómo las personas sin programación construyen y refinan herramientas inmersivas
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — anclar la orientación dentro del visor
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — la fidelidad y la conciencia de quien aprende sobre sus límites
-- [[cognitive-offloading]] — la latencia y la inestabilidad como carga extrínseca
-- [[edtech-platform]] — sincronización, latencia y presencia en varios sitios
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artículos conectados
-
-- [[genai-ar-physics-simulation-prompt-2026]] — Un prompt de cuatro elementos que genera simulaciones de física en RA controladas con las manos; piloto con 29 estudiantes y evidencia solo de percepción
-- [[mixed-reality-engineering-learning]] — Aplicaciones de realidad mixta frente a kits físicos frente al aula en mecánica de ingeniería; más implicación, visualización compleja todavía difícil
-- [[medgame-llm-medical-education-gamification]] — Formación médica gamificada con IA
-- [[tech-enhanced-tabletop-cybersecurity-education]] — Escenarios de mesa aumentada en la enseñanza de la ciberseguridad
-- [[genai-xr-architectural-design-education-2026]] — IA generativa y realidad extendida en la enseñanza colaborativa del diseño arquitectónico: un estudio exploratorio de estudio de diseño
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: estudio de diseño en RV inmersiva con un asistente docente respaldado por LLM, evaluado frente al PBL tradicional (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: instrucción multimodal asistida por LLM en la enseñanza de la iluminación escénica en RV, y dónde se rompió el anclaje (Liang et al. 2026)

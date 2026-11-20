@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback-literacy, formative-assessment, summative-assessment, peer-assessment, self-assessment, automated-assessment, assessment, authentic-assessment, assessment-validity, self-regulated-learning, ai-literacy, scaffolding, writing-education, reflection]
+connected_articles: [morris-same-feedback-different-source-2026, meyer-teacher-ai-feedback-writing-2026, liu-ai-feedback-motivational-pathways-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, guberman-control-or-support-grading-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, jansen-argumentative-writing-feedback-receptivity-2026, ai-agents-joyful-assessment-third-space-2026, student-perspectives-ai-writing-grading-2026, usher-faraon-who-grades-best-2026, layer-sensitive-cognitive-offloading-writing-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, farrokhnia-genai-feedback-student-revisions-2026, yilmaz-genai-feedback-srl-online-higher-ed-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, luo-eaton-ai-student-feedback-ethics-2026, metacognitive-training-optimal-cognitive-offloading-2026, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, mendoza-ai-feedback-feedback-literacy-srl, rethinking-ai-writing-feedback-literacy, jin-genai-learning-analytics-feedback-literacy, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, ai-generated-feedback-higher-ed, care-full-feedback-genai, ai-feedback-ecosystem-higher-education-2026, learner-centered-feedback-ai, genai-feedback-design-multisite-experiment, ai-feedback-critical-thinking-writing-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, zhao-learnlens-feedback-educators-loop, sequenced-ai-feedback-learning, becerra-aicofe-feedback-2026, automated-formative-assessments-a-level-sciences, fenton-oral-exams-ai-authentic-assessment-2025, marked-pedagogies-linguistic-bias-writing-feedback, shap-llm-rationales-teaching-quality-assessment, llm-adaptive-programming-error-explanations-2026, student-perceptions-ai-study-productivity-2026, yasar-llms-iterative-pedagogical-design-2026, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, tripartite-feedback-framework-ai-assessment-2026, structured-reflection-ai-explanatory-feedback-2026, bounded-reliance-ai-writing-feedback-2026, pivot-generative-video-tutors-stem-2026, llm-feedback-focus-adaptivity-student-writing-2026, nlp-student-evaluation-teaching-scoping-review-2026, nazaretsky-feedback-source-bias-2025, ai-powered-writing-feedback-awe-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, xu-automated-feedback-tutor-training-2025, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, porcaro-ai-grading-benchmark-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, xian-process-visualization-feedback-news-translation-2026, zhang-genai-l2-learning-meta-analysis-2026, wang-human-ai-vs-teacher-collaboration-instructional-design-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -138,7 +140,6 @@ Umpan balik adalah salah satu mekanisme paling konsekuensial dan paling terbukti
 
 - **"Nada adalah detail kualitas umpan balik."** Dalam tolok ukur itu ia mengikuti angka yang diberikan: setiap model, ketika diberi nilai yang bertentangan dengan pekerjaannya, menulis umpan balik yang nadanya mengikuti nilai tersebut, dan bagi **delapan dari 22** pergeseran per poin menyamai atau melampaui pergeseran mengikuti kualitas karya. Hanya aturan nada yang divalidasi terhadap anotator terlatih, pada **1,655** balasan tutor, sehingga substansinya tidak terukur. [[porcaro-ai-grading-benchmark-2026|Penilai yang menulis umpan balik dari nilai yang salah mencuci galat itu menjadi pujian atau kritik]].
 
-
 **Umpan balik dapat dibangun dari proses alih-alih produk.** Dalam [[xian-process-visualization-feedback-news-translation-2026|Xian dkk. (2026)]] satu lengan menerima [[visualization|visualisasi]] personal atas aktivitas ketukan tombol dan layar mereka sendiri disertai refleksi terstruktur, sementara lengan lain menerima komentar tertulis instruktur tentang ketepatan, kejelasan, dan kualitas editorial. Lengan proses memperoleh 5.64 poin pada penilaian editorial buta 0-100 berbanding 1.91 pada lengan produk, dengan interaksi Grup menurut Waktu (F(1, 20) = 4.94, p = 0.038, eta kuadrat parsial 0.198) dan perolehan lengan kontrol sendiri tidak signifikan (p = 0.123). Sebelas siswa per lengan berarti arahnya adalah temuannya, bukan besarnya.
 
 ## Miskonsepsi Umum
@@ -146,81 +147,3 @@ Umpan balik adalah salah satu mekanisme paling konsekuensial dan paling terbukti
 - **"Siswa tidak dapat membedakan umpan balik AI dari umpan balik manusia."** Mereka bisa, dan labelnya mengubah penilaian: **begitu label diungkap, penilaian varian AI turun dan varian manusia naik — signifikan untuk Keaslian (p < .01)**. Kredibilitas penyedia membentuk evaluasi atas umpan balik bergaya identik.
 - **"Persetujuan laboratorium memprediksi penggunaan semester."** **Persetujuan laboratorium bukan penggunaan semester**: **semua 18 siswa** bereaksi positif terhadap fungsi penjelasan GenAI dalam sesi laboratorium, **namun hanya separuhnya menggunakannya selama semester**. Kesenjangan niat-penggunaan adalah masalah desainnya.
 - **"Umpan balik korektif segera sudah teratasi dengan LLM."** Menghasilkannya di dalam tutor **layak tetapi tidak sempurna**: dari **6,926 transaksi tercatat** dalam koleksi Apprentice Tutor, umpan baliknya cukup baik untuk diterapkan dan belum cukup baik untuk diasumsikan benar.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Urutan umpan balik yang teruji, termasuk mengapa umpan balik AI yang lebih berkualitas tidak menghasilkan revisi lebih banyak
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[reflection]]
-
-## Artikel terkait
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Umpan balik agen yang terulang lintas revisi (Humburg dkk. 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Umpan balik otomatis pada tulisan argumentatif: peran penerimaan dan persepsi umpan balik siswa menengah
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[student-perspectives-ai-writing-grading-2026]] — Perspektif siswa tentang penilaian tulisan berbantuan AI yang transparan (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — Membandingkan penilaian ChatGPT, sejawat, dan instruktur lintas tingkat kualitas proyek (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pembebanan kognitif sensitif lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Umpan balik guru vs. GenAI: siswa merevisi lebih sedikit dengan AI
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Umpan balik GenAI dan pembelajaran mandiri: sumber yang dipersepsikan itu penting
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Umpan balik sejawat berbantuan GenAI dalam argumentasi kolaboratif
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Etika AI dalam umpan balik siswa
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Pelatihan metakognitif memfasilitasi pembebanan kognitif yang optimal (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Skala Literasi Umpan Balik AI dan prediksi penyerapan (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI sebagai pemungkin keterlibatan umpan balik siswa (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Literasi umpan balik memoderasi umpan balik AI → SRL (Mendoza dkk. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Naskah literasi umpan balik untuk penulisan berbantuan AI (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Analitik pembelajaran GenAI dalam umpan balik (Jin dkk. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Alat umpan balik otomatis AI untuk literasi umpan balik (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI dalam umpan balik sejawat EFL untuk literasi umpan balik (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — Umpan balik yang dihasilkan AI di pendidikan tinggi
-- [[care-full-feedback-genai]] — Desain umpan balik penuh kepedulian dengan GenAI
-- [[ai-feedback-ecosystem-higher-education-2026]] — Ekosistem umpan balik di pendidikan tinggi: AI mengerjakan ulang relasi umpan balik, dan manusia sebagai loop (Bearman dkk. 2026)
-- [[learner-centered-feedback-ai]] — Praktik umpan balik AI yang berpusat pada siswa
-- [[genai-feedback-design-multisite-experiment]] — Desain umpan balik GenAI multi-situs
-- [[ai-feedback-critical-thinking-writing-2026]] — Umpan balik AI dan berpikir kritis dalam menulis
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Penilaian GenAI membangun literasi psikologis, umpan balik, dan AI
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: umpan balik berbasis kurikulum dengan pengawasan pendidik (Zhao dkk. 2025)
-- [[sequenced-ai-feedback-learning]] — Studi umpan balik AI berurutan
-- [[becerra-aicofe-feedback-2026]] — Sistem umpan balik sejawat AI
-- [[automated-formative-assessments-a-level-sciences]] — Penilaian formatif otomatis dalam sains A-level
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Menimbang ulang ujian lisan sebagai penilaian autentik yang resistan AI
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias dalam umpan balik tulisan otomatis
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs rasional LLM untuk umpan balik pengajaran berbasis rubrik
-- [[llm-adaptive-programming-error-explanations-2026]] — Penjelasan adaptif LLM atas galat pemrograman
-- [[student-perceptions-ai-study-productivity-2026]] — Persepsi siswa terhadap alat kecerdasan artifisial untuk produktivitas belajar dan pembelajaran: studi survei eksploratif
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Kerangka tripartit: memilah umpan balik menurut status epistemik dan lima prinsip batas untuk keterlibatan AI (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Manfaat atau hambatan? Refleksi terstruktur atas umpan balik penjelasan AI (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Reliance Terbatas: Perspektif Kredibilitas Sumber tentang Keterlibatan Mahasiswa EFL dengan Umpan Balik Tulisan yang Dihasilkan AI
-- [[pivot-generative-video-tutors-stem-2026]] — Dari Pembuatan Konten ke Dukungan Pembelajaran: Tutor Video Generatif Terpandu Pedagogi untuk Pembelajaran STEM
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi Fokus Umpan Balik dan Adaptivitas Pedagogis dalam Umpan Balik yang Dihasilkan LLM atas Tulisan Siswa
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Dari Klasifikasi Sentimen ke Umpan Balik yang Dapat Ditindaklanjuti dan Bertanggung Jawab: Tinjauan Lingkup dan Peta Bukti NLP dalam Evaluasi Pengajaran oleh Siswa, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Siapa yang memberi umpan balik itu penting: label sumber menggeser penilaian ketika teksnya dipegang setara (Nazaretsky dkk. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — Sistem Umpan Balik Berbasis AI untuk Menulis: Tinjauan Alat Evaluasi Tulisan Otomatis (AWE)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Apa yang dilakukan revisi terhadap sikap penulis: umpan balik sejawat membuat esai argumentatif lebih kontraktif, revisi AI mempertahankan keseimbangan Contract/Expand (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — Memperbaiki sistem umpan balik otomatis untuk pelatihan tutor dalam skenario sumber daya rendah melalui augmentasi data (Xu dkk. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostik AI percakapan untuk miskonsepsi pengajaran dengan dialog berbasis bukti (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Menamai trade-off antara kegunaan, sumber, dan keberlanjutan, menjadikan keberlanjutan kutub desain
-- [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai berprompt menghadapi probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Umpan balik AI dan instruktur setara pada kualitas revisi, tidak setara pada motivasi (Liu & Shi 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - umpan balik yang dihasilkan dari jejak ketukan tombol dan layar mengungguli komentar produk tertulis, 11 per lengan

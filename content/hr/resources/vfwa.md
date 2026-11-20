@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -50,11 +51,3 @@ Voditelji programa i modula u visokom obrazovanju koji još žele da se opsežno
 Model nije evaluiran na razini opsega. Rad izričito navodi da još ne postoji uzorak, instrument ni izmjereni ishod te da su potrebni piloti kako bi se provjerilo podižu li artefakti prvog stupnja ocjenjivačevu sigurnost ili dosljednost interpretacije, doživljavaju li studenti taj dizajn pravednijim i kako disciplina postavlja prag dostatnosti, a da prvi stupanj ne pretvori u drugi ispit.
 
 Dva praktična troška su stvarna. Prvi stupanj traži promatrane sesije i zaštićeno bilježenje na razini opsega, a višejezično snimanje i prevođenje preduvjeti su, a ne dodaci. I interpretativna prosudba namjerno je prepuštena ocjenjivačima: model pretpostavlja disciplinarnu stručnost koja se ne može automatizirati, što je pretpostavka o kadrovima koliko i o dizajnu.
-
-## Povezani pojmovi
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

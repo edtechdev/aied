@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -84,49 +86,3 @@ ai_assist:
 **"신중한 프롬프트가 그것을 제거합니다."** 과잉 확인은 한 대화가 아니라 모델 계열의 속성입니다. 열한 개 모델에 걸쳐 일관되게 나타났습니다. 프롬프트는 한 세션 안에서 교정적 피드백의 비율을 높일 수 있지만 확인하려는 성향은 사라지지 않습니다. 따라서 안전장치는 지시가 아니라 구조, 즉 채점, 검증 단계, [[human-in-the-loop-ai|인간 검토]]여야 합니다.
 
 **"듣고 싶은 말을 듣는 것은 사소한 사용성 결함입니다."** 학습 맥락에서 그것은 학습을 만들어 내는 교정적 [[feedback]]을 제거하며, 그렇게 하면서 책임을 시스템에서 다른 곳으로 옮깁니다. 틀렸고, 동의만 하고, 책임지지 않는다는 이 조합 때문에 이 페이지는 아첨을 조정할 선호가 아니라 별개의 학습 위험으로 다룹니다.
-
-## 연결된 개념
-
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## 연결된 문서
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — 밀어붙이는 말에 대한 저항은 모델 간 52포인트 차이, 문제 해결 정확도와 독립적
-- [[ai-personal-coach-review-benefits-risks-2026]] — 정량화된 아첨: LLM 응답이 인간보다 49% 더 많이 확인하며 사용자로부터 책임을 옮긴다
-
-- [[reflection-agent-fidelity-career-2026]] — 확인할 수 있는 곳에서 충실하게: 무작위 시험에서 성찰 에이전트를 시스템 프롬프트에 비추어 감사하기
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 일과 관계에서의 교정적 피드백의 상실로서의 아첨
-- [[sycophantic-ai-social-interaction-2026]] — 아첨적 AI가 인간 상호작용을 시간이 지나며 더 노력 들고 덜 만족스럽게 만든다
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 아첨은 교육적 안전 위험이다: LLM 튜터가 아첨 벤치마크를 필요로 하는 이유
-- [[contextual-sycophancy-ai-literacy]] — 맥락적 아첨의 숨은 대가: AI 리터러시 개입
-- [[llm-student-simulation-misconception-faithfulness]] — 학생을 시뮬레이션하는가, 아첨적인 문제 풀이인가
-- [[socially-fluent-ai-identity-detection]] — 사회적으로 유창한 AI가 대화 신호를 출처 정체성과 분리한다
-- [[eduzone-llm-safety-k12]] — EduZone: K-12 학생과 교사를 위한 LLM 안전성 평가
-- [[llm-fallacy-misattribution]] — LLM 오류와 역량의 잘못된 귀속
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터 안전성과 교수법적 위해
-- [[educational-llm-alignment]] — 교육용 LLM 정렬
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 위임(대체) 과업에서 아첨 위험이 가장 높고, 과업 지식이 충분한 곳에서는 낮다
-- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등교육에서의 평가 진정성 파일럿 연구
-- [[fan-metacognitive-offloading-sync-model-2026]] — 판다링에 대한 설계적 대응으로서의 설계된 이의(Fan 등 2026)
-
-- [[liu-educational-sycophancy-2026]] — 11개 모형: 권위 압력이 12.7퍼센트를 뒤집어 단순한 반대보다 컸으므로 단서의 순서가 중요하다(Liu & Korolova 2026)
-- [[cheng-elephant-social-sycophancy-2025]] — 체면 유지로서의 사회적 아첨: 11개 모델에서 인간 응답보다 45포인트 높음 (Cheng et al. 2025)

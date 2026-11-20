@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -39,7 +40,3 @@ K-12-opettajille ja koulupiireille, jotka haluavat luokkahuoneen hallintaa ja op
 
 ## Huomioita
 Pääsy rakentajaan on portilla: aloita-sivu kysyy sähköpostiosoitetta ja paikkaa perehdytystyöpajassa tai kutsukoodia. Sen vaatimustenmukaisuusväitteet (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), lupaus siitä, ettei työsi koskaan kouluta ulkopuolisia malleja, ja tulosteiden oikeuksien siirtäminen tekijälle kuuluvat tietojenkäsittelysopimukseen eikä vain markkinointisivulle; sen kyvykkyysvertailu MagicSchooliin ja suuriin chatbotteihin on Playlabin oma ja päivätty keskelle vuotta 2026. Se kasvoi loppukäyttäjän ohjelmointityöstä, joka liittyy Scratchiin ja MIT Media Labiin.
-
-## Liittyvät käsitteet
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

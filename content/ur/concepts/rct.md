@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -66,25 +68,3 @@ ai_assist:
 - **"بے ترتیب تفویض اوزار کے کام کرنے کے اندازے کی ضمانت دیتی ہے۔"** بے ترتیب تفویض خلل ڈالنے والے عوامل کو متوازن کرتی ہے؛ یہ یقینی نہیں بناتی کہ کسی نے علاج استعمال کیا۔ کم قبولیت والی گروہی-بے ترتیب آزمائش **اوزار پیش کرنے کے اثر** کا اندازہ لگاتی ہے، اور intent-to-treat اور treatment-on-treated مختلف سوالوں کے جواب دیتے ہیں۔
 - **"بڑی آزمائش ہمیشہ بہتر ڈیزائن ہوتی ہے۔"** کچھ دلیل دیتے ہیں کہ روایتی بڑے پیمانے کی آزمائشیں **ٹیوٹرنگ پلیٹ فارمز کا ساتھ نہیں دے سکتیں جو مطالعے کے دوران بنیادی طور پر بدل جاتے ہیں**، اور اس کے بجائے استاد کی زیرِ قیادت ایسے ڈیزائن استعمال کرتے ہیں جو نظام کے ارتقا کے ساتھ درست رہتے ہیں۔ ہلتے ہدف کی آزمائش اچھی طاقت والی ہو سکتی ہے اور پھر بھی ایسے نظام کو ناپ رہی ہو سکتی ہے جو اب موجود نہیں۔
 - **"RCT اور مشاہداتی شواہد ایک دوسرے کے متبادل ہیں۔"** **1,174 شرکاء** والی ایک RCT نے پایا کہ GenAI نے **تعلیم پر مبنی پیداواری خلا کا تقریباً تین چوتھائی بند کر دیا** — یہ کسی مخصوص عرصے پر ایک درست سببی دعوی ہے۔ مشاہدہ طریقہ کار اور اختیار کی وضاحت کرتا ہے؛ وہ یہ اندازہ اٹھا نہیں سکتا، اور RCT یہ نہیں بتا سکتی کہ کیوں۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — مضبوط ترین طلبہ-معاونت شواہد کے پیچھے کا ڈیزائن
-
-## منسلک مضامین
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 108 پرائمری اسکولوں میں سبق کی تیاری کا وقت موازنہ گروہ کے 0.76 پر آیا، اوزار استعمال کی 7% خوراک پر
-
-- [[generative-ai-education-productivity-gaps]] — کیا جنریٹو AI تعلیم پر مبنی پیداواری خلا کو تنگ کرتا ہے؟ ایک بے ترتیب تجربے سے شواہد
-- [[genai-can-harm-teaching-rct-2026]] — جنریٹو AI تدریس کو نقصان پہنچا سکتا ہے: ایک RCT
-- [[access-not-enough-ai-tutoring-2026]] — رسائی کافی نہیں: انسانی معاونت AI ٹیوٹرنگ میں شمولیت بہتر بناتی ہے
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — جدت کی رفتار سے AI ٹیوٹرنگ کا جائزہ: GCSE سائنس میں AI ٹیوٹرنگ پلیٹ فارم کی پریکٹیشنر کی زیرِ قیادت مائیکرو-بے ترتیب آزمائشیں
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ یکساں GRE سیکھنے کے فوائد دیتے ہیں
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — استاد کے لحاظ سے گروہی بے ترتیب تفویض: حتمی درجات میں 0.37 SD کمی اور پلیٹ فارم شرکت میں 0.90 SD کمی، 15% قبولیت اور 34 کلسٹروں پر استنباط کے ساتھ (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ایک نتیجہ جو تاخیر کے بعد ناپا جائے، سیشن کے آخر میں نہیں

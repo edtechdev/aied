@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -105,59 +107,3 @@ HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展�
 - **“标准化患者成本太高，无法规模化。”** 一项**含 95 名受分析医学生的随机对照试验**在临床问诊训练中使用了**多智能体 AI 标准化患者**。它要解决的约束是受过训练的人类演员的可获得性，这是人力配置问题，而不是保真度问题。
 
 - **“采用一份已发表的 AI 能力框架就解决了课程问题。”** [[xiang-ai-nursing-education-kas-framework-2026|Xiang 等（2026）]]从 1,750 条记录筛到 23 项研究——15 篇综述、4 项[[qualitative-research|质性]]与 4 项[[quantitative-research|量化]]，横跨 15 个国家、2022 至 2026 年——并把它们映射到知识、态度与技能模型上。应用领域集中于医学教育（n = 11，47.8%）、通识教育（n = 9，39.1%）与其他教育（n = 3，13.0%），而他们比较的具名护理框架——N.U.R.S.E.S.、AI-ABCs 与 CARE——要么缺乏清晰的教学实施路径，要么只覆盖孤立技能而没有评价方法。他们构建的 12 子维度地图是一份等待验证的提议，这使它成为一个可以据以教学的对象，而不是一份已定论的课程。
-
-## 关联概念
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — 卫生专业教育中的护理线索
-- [[virtual-and-augmented-reality]] — 沉浸式与 AR 临床培训
-
-## 关联文章
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 医学与牙科教育中的 AI 驱动 PBL 与 CBL：六项随机试验，仅两项为 CBL（Wei 等，2025）
-- [[zhu-ai-digital-pathology-residents-2026]] — AI 辅助的数字病理改善诊断表现，并缩小病理住院医师解读前列腺活检时的经验差距
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 卫生 AI 课程教伦理（80.6%），却很少教数据来源（22.2%）
-
-- [[virtual-standardized-patients-osce-evaluation-2026]] — 用已部署的数据生成平台对基于大语言模型的虚拟标准化患者做分层多评定者评估
-- [[genai-medical-education-transformation-review-2026]] — 对 153 份医学教育 GenAI 报告的范围综述：模拟领先，持久性与患者结果未被测量
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 面向临床问诊训练的脚手架式多智能体大语言模型系统评估
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 用 8 维标准评估医学教育中的 AI 教学智能体
-- [[sun-llm-nursing-education-professional-identity-2026]] — 大语言模型、护理教育的结构性缺口与专业身份的重构（Sun 等人 2026）
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN 框架：重新思考医学训练中的 AI 任务分配（Tsim 等人 2026）
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — 在卫生专业教育中用 AI 落实经验式、情境式与分布式认知
-- [[residencyrl-clinical-rl-training-2026]] — 用于住院医师临床技能训练的强化学习训练
-- [[medgame-llm-medical-education-gamification]] — 面向医学教育的游戏化大语言模型学习
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 近距离放射治疗训练中的智能体 AI 模拟
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — 用 AI 变革护理教育
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理中的 AI 驱动模拟：混合方法系统综述
-- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复建设性的挣扎
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor：人类在环的牙科影像教学（Dong 等人 2026）
-- [[genai-scenario-based-healthcare-education-2026]] — 基于情境的卫生教育中 GenAI 的系统综述（Neto 等人 2026）
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — 可扩展的基于 AI 的临床沟通训练与自动评估
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 医学教育中 AI 伦理的书目计量地图：产出从 113（2023）升至 500（2025），39 个国家，引用奖励能力测试而非治理（Sriram 等人 2026）
-- [[llm-grading-assistants-public-health-2026]] — 重跑并不能复现同一个分数
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — 把教育 AI 能力框架映射为 12 部分 KAS 地图的范围综述
-- [[agency-gap-ai-writing]] — 卫生专业训练中反应式与主动式 AI 写作智能体：主动性差距
-- [[federated-learning-at-risk-student-prediction-2026]] — 跨 HPE 项目的联邦风险预测：可忽略的隐私代价，以及为什么引入的阈值会失灵
-- [[rony-nursing-educators-ai-tpack-2025]] — 孟加拉国护理教育者论 AI 就绪、障碍与数据治理：以 TPACK 解读
-- [[bursic-ai-residency-education-curriculum-2026]] — 把 AI 整合进住院医师课程的障碍：对十二位医生领导者的质性访谈
-- [[alshahrani-health-sciences-ai-use-2026]] — 连接技术与教学法：对多元卫生科学课程学生的 AI 使用、自评学业影响与伦理关切的横断分析
-- [[ago-prompt-literacy-allied-health-2026]] — 加纳六个联合健康专业的提示素养：常规 GenAI 使用而无培训、订阅与连通性限制，以及在先验知识最薄弱之处的提示—验证悖论（Ago 等，2026）
-

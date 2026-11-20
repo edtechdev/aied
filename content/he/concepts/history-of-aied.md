@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -52,7 +54,6 @@ ai_assist:
 **שיעורים לעידן ה-GenAI.** דיוני יומנו על בינה מלאכותית יוצרת משקפים מקרוב את המתחים ההיסטוריים האלה. GenAI ממוקמת לעתים קרובות כחונכת חכמה מדור הבא (מרחיבה את אנדרסון), ומעלה חששות על פיקוח, איסוף נתונים ותקנון. לחלופין היא יכולה להיות כלי ל[[creativity|סוכנות יצירתית]] (מרחיבה את Papert), ודורשת מאיתנו לחשוב מחדש על הערכה ולקבל תוצאות עמומות יותר. כפי ש[[mishra-control-vs-agency-history-2025|Mishra et al.]] מסיקים, כוחות מוסדיים מעדיפים באופן חוזר גישות שמחזיקות את המבנים הקיימים — והשפה והמטפורות שנבחר יעצבו אפשרויות עתידיות. [[rismanchian-ai-education-four-decades-aixed-2026|מסגרת AI×Ed של Rismanchian & Doroudi]] נותנת לאינטואיציה הזו עיגון אמפירי: על ידי מיקום מאמרים מפרוקדינגס AIED (1985, 1993, 2021, 2024) ו-IJAIED (2004, 2014, 2021) לאורך שני צירים — תפקידה של בינה המלאכותית (כלי יישומי מול אנלוגיה לאינטליגנציה אנושית) והמשתמש הקצה — הם עוקבים אחר שדה שעבר מתערובת מגוונת, כולל מחקר מוקדם ניכר המשתמש בבינה מלאכותית כאנלוגיה לאינטליגנציה אנושית (מודלים חישוביים של למידה, מיקרועולמות של Papert, מודלים מבוססי סוכנים של רכישת ידע), להתמקדות כמעט בלעדית בשימושים יישומיים ומכניים עד שנות ה-2000. יש לציין שעידן הבינה המלאכותית היוצרת נראה להיפך חלקית את המסלול הזה: ב-AIED 2024, שלושה מתוך ארבעת המאמרים בריבוע "בינה מלאכותית כאנלוגיה" של השדה היו מבוססי מודלים לשוניים, כולל עבודת המאמר הטוב ביותר על סוכנים ניתנים להוראה מבוססי מודלים לשוניים.
 
 **רשומת כתב-העת מתהפכת פעמיים.** מודל נושאים סטרוקטורלי של 5,387 מאמרים ב-*Computers & Education* (1976–2026) מצא AI ב-390 רשומות (7.2%), על פני 17 מ-18 הנושאים שלה. הסיכויים השנתיים שמאמר יהיה קשור ל-AI עלו ב-21.8% לשנה עד 1989, ירדו ב-3.7% בשנה עד 2018, ואז טיפסו ב-40.1% בשנה עד 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). המפנה של 2018 מקדים את ChatGPT בארבע שנים, ולכן העידן הגנרטיבי האיץ מגמה שכבר הייתה בעיצומה במקום להתחיל אותה.
-
 
 ## ההשפעה האחרונה של בינה מלאכותית יוצרת
 
@@ -102,29 +103,3 @@ ai_assist:
 
 - השתמשו בקורפוסים ההיסטוריים כקו-בסיס במקום להתייחס להווה כהשוואה הזמינה היחידה. הפרוקידינגס של AIED לשנים 1985, 1993, 2021 ו-2024 ו-IJAIED לשנים 2004, 2014 ו-2021 הם מדגם אורכי מוכן של הטענות של השדה עצמו.
 - צטטו שושלת כאשר אתם טוענים לחדשנות. טענה שמערכת "מתאימה אישית למידה" או "מדמה את הלומד" היא חדשה רק ביחס למסורת קודמת מסוימת, והמסורת מתועדת.
-
-## מושגים מחוברים
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## מאמרים מחוברים
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — חמישים שנה של Computers & Education: שני מפנים בשיעור מאמרי ה-AI

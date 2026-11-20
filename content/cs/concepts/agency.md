@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -133,67 +135,3 @@ Blízce příbuzné rámování je **relační epistemická agenturnost** ([[du-
 - **„Studující uplatňují agenturnost, když AI používají volně."** **Schéma se 14 kategoriemi, které kódovalo 6 788 tahů asistovaných ChatGPT**, zařadilo **59 % tahů žáků sedmé třídy** do kategorií, které nepředstavují agentní použití. Objem používání a agenturnost jsou různé míry.
 - **„Současné modely dobře podporují agenturnost studujících."** **Při benchmarku deseti modelů je podpora agenturnosti oblastí, kde si po učení vedou nejhůř**: ImpactBench naměřil **Agenturnost a účel na 56,0 %** u pozitivních kritérií. Agenturnost je dimenze, kterou systémy AI zvládají nejhůře, nikoli vedlejší produkt schopnosti.
 - **„Zprostředkování učitelem je omezením agenturnosti."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] sledoval **deset učitelů matematiky na střední škole během osmi týdnů intervence s ChatGPT-4** a zprostředkování je mechanismem, nikoli překážkou.
-
-## Související koncepty
-- [[learners]] — Studující: zastřešující koncept pro pojmy na straně studujících
-- [[pedagogical-partnerships]] — Pedagogická partnerství
-- [[learner-identity]] — vyvíjející se disciplinární, profesní, kreativní a akademické identity studujících
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — sdílené řízení interakce zprostředkované AI
-- [[agentic-ai]] — autonomní AI, která může přerozdělovat agenturnost ve skupinách
-- [[chemistry-education]] — Chemické vzdělávání a AI: laboratoře, formativní hodnocení, limity LLM, filozofie experimentování
-- [[social-emotional-learning]] — Sociálně-emocionální učení
-- [[cognitive-surrender]]
-
-## Související články
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Celonárodně reprezentativní průzkum amerických učitelů a ředitelů o pokrytí politikou AI, agenturnosti a pěti výukových postupech (Tench, Weinstein a James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Pomocná ruka, nebo dominantní partner? Individuální vnímání spoléhání na generativní AI a lidské agenturnosti v kolaborativním učení
-- [[yan-agentivism-learning-theory-ai-2026]] — Střednědosahová teorie učení pro interakci člověk–AI se čtyřmi mechanismy a šesti testovatelnými tvrzeními (Yan a Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Agenturnost studujícího jako emergentní kvalita koordinace doménové, AI a metakognitivní kompetence, nikoli samostatný uzel (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Přístup k volbě vs. vykonávaná agenturnost: posuvníky, volitelný agent AI a učení v hejnové simulaci
-- [[guarded-adoption-genai-higher-education-2026]] — Ostražitá adopce generativní AI ve vysokoškolském vzdělávání
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agenti AI, radostné hodnocení a třetí prostor
-- [[ai-mediated-research-agency-formation-2026]] — Formování výzkumné agenturnosti zprostředkované AI v rané vědecké přípravě
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Vrstvově citlivý kognitivní offloading v psaní asistovaném generativní AI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Školní vzdělávání v AI zúžuje psychologické, ale ne kognitivní mezery v připravenosti
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relační epistemická agenturnost a šest kritérií oddělujících produktivní spoléhání od škodlivé závislosti (Du a Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Pedagogické doprovázení podporované AI pro identitu v STEM
-- [[t2i-competence-paradox-2026]] — Paradox kompetence: kreativní identita při používání generativní AI pro text-to-image
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergentní agenturnost studujícího v implicitní spolupráci člověk–AI: podpůrné vs. kontrariánské persony
-- [[de-barba-srl-genai-2026]] — Agenturnost studujícího napříč měřítky: regulace, integrace, pozicování
-- [[mishra-control-vs-agency-history-2025]] — Kontrola vs. agenturnost jako zásadní napětí v historii AIED
-- [[daoism-ai-education-philosophy-2026]] — Alternativní filozofie AI: daoismus jako metoda pro AI ve vzdělávání
-- [[human-autonomy-agency-hri-review-2025]] — Lidská autonomie a agenturnost v HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Design generativních sociálních robotů založený na znalostech
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Podporovat agenturnost studentů v práci relevantní pro učení
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-systémová teorie a kognitivní kapitulace: jak AI přetváří lidské uvažování (Shaw a Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agenturnost budoucích učitelů při interakcích s generativní AI při návrhu učení (Krushinskaia, Elen a Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipační vize: agenturnost jako hra s nulovým součtem proti agenturnosti nástroje
-- [[chen-zou-genai-group-assessment-agency-2026]] — Tři vzorce agenturnosti v hodnocení skupin zprostředkovaném generativní AI: zesílená, omezená a neuskutečněná
-- [[ai-integrated-teaching-identity-tensions]] — Principiální selektivita jako učitelská agenturnost v AI-integrované výuce (Adiozaman a Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Odmítnutí jako diagnostický důkaz: nepoužívání jako situovaný vztah a nerovnoměrné právo odmítnout AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemická autorita uplatňovaná přerušením, opravou a odmítnutím, nikoli maximálním používáním nástroje
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kdo jedná, kdo ví, kdo odpovídá? Korpusově asistovaná diskurzní analýza agenturnosti, epistemické odpovědnosti a odpovědnosti ve výzkumu generativní AI ve vysokoškolském vzdělávání
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Otevřené otázky k spoléhání udržujícímu dovednosti v reflektivní angažovanosti s AI
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetence vs. agenturnost jako účely vzdělávání v AI a heuristika informované agenturnosti v AI (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Zprostředkování učitelem jako podmínka udržující generativní AI artefaktem ke kritice, nikoli autoritou (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Učitelská agenturnost jako zdroj mobilizovaný designem, s připraveností posuzovanou podle artefaktů, nikoli podle používání (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Vyvažování agenturnosti učitele a studenta v nástrojích pro koordinaci dynamického párování v reálném čase (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Matice interpretační autority a model ekologické integrace autority: čtyři konfigurace toho, kdo interpretuje, a ekologické vrstvy, které je posouvají
-- [[gyekye-selves-apprenticeship-2026]] — Studenti jiné barvy pleti v učňovských programech se autorizovali skrze AI odmítnutím, vyjednáváním a uznáním („kulturní plochost"); institucionální gramotnost v AI a šířka uznání
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Sdílená epistemická agenturnost v 6 788 tazích asistovaných ChatGPT při psaní ve vědě na střední škole (Chang et al.
-- [[jelson-students-chatgpt-essay-writing-2026]] — Vnímané vlastnictví kleslo jen tam, kde byl delegován celý esej; uživatelé pro plánování a revizi dosáhli úrovně neuživatelů (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Kdo myslí? Charakterizace lidské agenturnosti v interakcích studentů prvního ročníku s AI

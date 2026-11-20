@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -111,37 +113,3 @@ Důkazy pro kapitulaci jako pojmenovaný konstrukt stojí silně na jednom progr
 **„Nápravou je lepší AI, protože kapitulace vyplývá z chyb."** Kapitulace vyplývá ze *struktury* interakce: systém, který nejprve vytvoří věrohodnou odpověď, odnímá příležitost, aby si student nějakou vytvořil. Zlepšení přesnosti snižuje újmu z chybných odpovědí a nedělá nic pro opuštění vytváření úsudku, což je újma, která přetrvává i po odebrání nástroje.
 
 **„Výuka kritického hodnocení postačí."** Je nutná a přichází pozdě. Jakmile je na obrazovce věrohodná odpověď, hodnocení se stává potvrzením, a proto designová literatura staví pokus studenta před výstup systému, místo aby ho auditovala dodatečně.
-
-## Související koncepty
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Související články
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory a experimentální signatura kapitulace
-- [[generative-ai-reduced-study-time-math]] — posun na úrovni populace v ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — rámec kapitulace, odklánění a agenturnosti v PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — instrumentální versus úsudek nesoucí pomoc
-- [[ai-advice-suppresses-ikt-suspension-2026]] — kolaps „nevím"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurální angažovanost a autorství
-- [[genai-thoughtless-use-self-directed-learning-2026]] — bezmyšlenkové používání a sebeřízené učení
-- [[stamatoulis-genai-use-patterns-2026]] — přejímání s nízkým ověřováním versus hodnotící integrace
-- [[cognitive-washout-ai-skill-decay-2026]] — co se děje po odebrání nástroje
-- [[ai-overreliance-complex-adaptive-system-2026]] — závislost jako populační proces
-- [[brcic-effortless-trap-productive-struggle-2026]] — umístit AI tak, aby úkol zůstal namáhavý
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — trénink kalibrace
-- [[family-school-autonomy-support-genai-2026]] — závislé versus autonomní odklánění
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asistent zakotvený v pracovním listu snížil odklánění, místo aby je zvýšil — okrajová podmínka signatury kapitulace (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistické delegování celého eseje: 15 ze 77 esejů zcela napsaných modelem, 20 žádostí o kompletní esej (Jelson et al. 2026)

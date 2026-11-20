@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -44,8 +45,3 @@ ai_assist:
 ## 注意事项
 
 该平台有免费档，但它是基于额度的：账号每月获得 1,000 个 AI 额度，构建、编辑、生成图片和应用内的 AI 功能都会消耗额度。订阅可以额外购买额度，这些额度不会过期。任何打算依赖该平台的课程都应查看当前条款，因为免费用量是计量的，而不是无限的，并且应把学生创建的应用视为自带数据处理问题的内容。
-
-## 关联概念
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

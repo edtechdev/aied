@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,7 +46,6 @@ Kendali dialog terstruktur, bukan prompt yang lebih baik, adalah yang membedakan
 Artikel-artikel dalam basis pengetahuan mengeksplorasi berpikir kritis melalui lensa [[design-based-research|berbasis desain]] dan empiris. [[ai-agents-constructive-conflict-design-education-2026|Agen AI adversarial]] menerapkan konflik konstruktif untuk mendorong pertimbangan ulang pada desainer pemula — varian Sokratis yang memaksa evaluasi ulang secara kritis. [[genai-can-harm-teaching-rct-2026|Penelitian RCT tentang GenAI dalam pengajaran]] memunculkan pertanyaan apakah alat AI yang mengoptimalkan hasil tingkat permukaan mungkin secara tidak sengaja menekan berpikir kritis yang mengarah pada pembelajaran lebih mendalam. Bukti terukur mempertajam poin ini: apakah berpikir kritis bergerak bergantung pada bagaimana umpan balik dan tugas yang dimediasi AI dirancang, dan pada regulasi [[metacognition|metakognitif]] pembelajar, bukan pada akses ke model.
 
 Kaitan penggunaan GenAI dengan berpikir kritis yang dilaporkan sendiri berjalan hampir seluruhnya melalui [[feedback-literacy|literasi umpan balik]] GenAI: pada 421 mahasiswa sarjana Tiongkok, literasi umpan balik memediasi 71.98% dari asosiasi total (β=0.185), dan jalur langsung residual hanya positif bagi siswa yang kurang reflektif (β=0.177) serta tidak signifikan bagi yang lebih reflektif ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
-
 
 Korpus juga memuat bacaan pesimistis dalam bentuk argumen alih-alih pengukuran. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz dan Castro Samayoa (2026)]] berargumen bahwa pola penggunaan yang dominan menggerus berpikir kritis, bukan akses ke model. Mereka bersandar pada klaim Dewey bahwa berpikir membaik hanya melalui latihan, dan pada tiga mekanisme: hilangnya gesekan, [[automation-bias|bias otomasi]], dan bingkai efisiensi. Ketegangan dengan Zhao et al. nyata dan belum terselesaikan dalam korpus. Keuntungan meta-analitik mereka sebesar g = 0.609 menggambarkan intervensi yang dirancang, sementara Muñiz dan Castro Samayoa menggambarkan penggunaan tipikal. Dibaca bersama, keduanya sepakat bahwa variabel desainlah yang penting, dan berbeda pendapat tentang seperti apa default yang tidak dikelola.
 
@@ -105,56 +106,3 @@ Berpikir kritis bersinggungan dengan [[scaffolding]] (merancang dukungan AI yang
 - **"Prompt yang lebih baik menghasilkan berpikir kritis yang lebih baik."** **Kendali dialog terstruktur, bukan prompt yang lebih baik**, yang membedakan tutor kesalahan penalaran dari chatbot debat: mengarahkan setiap giliran melalui **deteksi niat berbasis Toulmin** yang melakukan pekerjaannya. Mekanismenya adalah struktur interaksi, bukan pilihan kata.
 - **"Penggunaan GenAI menaikkan berpikir kritis secara langsung."** Kaitan penggunaan GenAI dengan berpikir kritis **yang dilaporkan sendiri** berjalan **hampir seluruhnya melalui [[feedback-literacy|literasi umpan balik]] GenAI** — pada **421 mahasiswa sarjana Tiongkok**, literasi umpan balik memediasi **71%** dari asosiasi itu. Literasi adalah jalurnya.
 - **"Efek meta-analitik itu seragam."** Di **29 eksperimen**, GenAI menaikkan berpikir tingkat tinggi secara moderat (**g = 0.609**) dengan berpikir kritis pada **ES = 0.691**. Efek gabungan yang moderat atas intervensi yang heterogen mendukung kategori, bukan desain tertentu.
-
-## Konsep terkait
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## Artikel terkait
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Berpikir kritis berjalan melalui pembagian kerja dan pengolahan ulang keluaran, bukan paparan
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 pakar: berpikir kritis membawa peringkat gangguan tertinggi dalam laporan (rata-rata 4.00)
-- [[pearls-epistemic-verification-2026]] — Kerangka PEARLS untuk agensi epistemik dan verifikasi keluaran AI (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pengalihan beban kognitif yang sensitif lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks berpikir kritis dalam pembelajaran terintegrasi GenAI
-- [[pedagogy-ai-mistakes]] — Pedagogi Kesalahan AI: Menumbuhkan Berpikir Tingkat Tinggi (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Teori Tri-Sistem dan penyerahan kognitif: bagaimana AI membentuk ulang penalaran manusia (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi milik bersama kognitif: AI dan regenerasi keahlian
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analisis GenAI dan berpikir tingkat tinggi
-- [[avraamidou-ai-colonization-science-education]] — Mengganggu kolonisasi AI atas pendidikan sains
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Mengorientasikan ulang literasi AI yang kritis
-- [[luo-ibl-patterns-llm-bloom-2026]] — Pola IBL dalam lingkungan yang digerakkan LLM (perspektif Bloom)
-- [[probing-ai-generated-physics-solutions-2026]] — Mempersiapkan siswa mengkritik solusi fisika yang dihasilkan AI
-- [[student-reception-genai-analogies-computing-2026]] — Cacat tetapi Mudah Diingat: Penerimaan Kritis Siswa terhadap Analogi GenAI yang Dipersonalisasi Berdasarkan Minat dalam Pendidikan Komputasi
-- [[daoism-ai-education-philosophy-2026]] — Filsafat AI alternatif: Daoisme sebagai metode bagi AI dalam pendidikan
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Menumbuhkan pembelajaran berkelanjutan melalui kecerdasan berwujud (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Keuntungan berpikir kritis yang spesifik dimensi dalam penulisan multimodal berbantuan AI (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — mengajarkan pengenalan kesalahan penalaran melalui dialog multiturn terstruktur
-- [[caeai-ai-companions-learning-over-performance-2026]] — pembelajaran alih-alih kinerja: untuk apa pendamping harus dioptimalkan dan diukur
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Perancahan AI, pengalihan beban kognitif, dan literasi verifikasi melalui regulasi diri metakognitif (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ketergantungan GenAI membatasi kaitan penggunaan dengan berpikir kritis pada mahasiswa bisnis (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt refleksi memangkas penerimaan saran AI yang salah dan bias atribusi (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rotasi peran sebagai struktur bagi interaksi manusia-AI yang kritis (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Integrasi GenAI yang berpusat pada verifikasi dalam pendidikan kimia universitas (Vega-Baudrit dan Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — umpan balik ChatGPT yang dikurasi guru menaikkan berpikir kritis melalui revisi tingkat tinggi (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — satu semester akses AI membiarkan berpikir kritis datar; penggunaan reflektif memprediksinya (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Ketergantungan GenAI berasosiasi positif dengan berpikir kritis pada 1,157 mahasiswa pascasarjana
-- [[genai-use-critical-thinking-moderation-2026]] — Penggunaan GenAI ke berpikir kritis melalui literasi umpan balik, dengan jalur langsung hanya bagi siswa yang kurang reflektif
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Bacaan pesimistis atas bukti moderasi: hilangnya gesekan, bias otomasi, bingkai efisiensi
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Tinjauan naratif atas 108 dokumen: tanda efeknya mengikuti pengetahuan awal dan waktu pemberian tugas (kerangka AMCIF)

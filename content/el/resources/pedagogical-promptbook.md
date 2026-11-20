@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -37,6 +38,3 @@ ai_assist:
 ## Τι να ξέρετε πριν το χρησιμοποιήσετε
 
 Το βιβλίο είναι ανοιχτής πρόσβασης υπό άδεια CC BY, που είναι το επιτρεπτικό άκρο του φάσματος για διδακτικά υλικά: οι διδάσκοντες μπορούν να αντιγράψουν, να προσαρμόσουν και να χρησιμοποιήσουν τις [[prompt-engineering|προτροπές]], και εμπορικά, αρκεί να τις αναφέρουν σωστά. Αυτό κάνει απλή την τοπική προσαρμογή μιας προτροπής για συγκεκριμένο μάθημα ή ρύθμιση [[pedagogical-agent|πράκτορα]], κάτι που οι πιο περιοριστικές άδειες παρόμοιων συλλογών δεν επιτρέπουν. Δημοσιεύεται στο EdTech Books το 2026 με λήψη PDF και DOI 10.59668/2340, σε επιμέλεια David Wiley. Επειδή κάθε κεφάλαιο αναφέρει και τον σχεδιασμό αξιολόγησης μαζί με το αποτέλεσμα, λειτουργεί και ως πρότυπο για διδάσκοντες που θέλουν να δοκιμάσουν τις δικές τους προτροπές αντί να υιοθετήσουν την κρίση κάποιου άλλου.
-
-## Συνδεδεμένες έννοιες
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

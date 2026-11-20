@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -80,50 +82,3 @@ ai_assist:
 **"सबसे सुरक्षित ट्यूटर वही है जो सबसे अधिक इनकार करता है।"** जो प्रणाली "समान रूप से इनकार" करती है, वह भी असमानता गहरा सकती है, जो पेज के चुप-विफलता विवरण का दूसरा आधा हिस्सा है। विफलता का रूप केवल यह नहीं कि ट्यूटर सही उत्तर दे और सीख को कमज़ोर करे; यह भी है कि ट्यूटर के इनकार छात्रों के बीच सहायता असमान रूप से बाँटें, और एक व्यापक इनकार नीति दृश्य जोखिम को अदृश्य जोखिम से बदल देती है।
 
 **"मॉडल-स्तरीय सुरक्षा कार्य जनसंपर्क उपाय है।"** उसका कुछ हिस्सा मापनीय है। [[llm-unlearning-math-privacy|गणित-अनलर्निंग]] कार्य पहचानकारी सूचना और हानिकारक सामग्री हटाने के लिए ग्रेडिएंट-आधारित अनलर्निंग लागू करता है, और क्षमता बनाए रखते हुए PII आउटपुट **0.1%** तक तथा विषाक्त दरें **0.0%** तक रिपोर्ट करता है। मॉडल-स्तरीय नियंत्रण परतीय रक्षा की एक परत हैं: अकेले अपर्याप्त, और व्यर्थ भी नहीं।
-
-## संबंधित अवधारणाएँ
-- [[guardrails]] — सुरक्षा को लागू करने वाली डिज़ाइन तंत्र
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## संबंधित लेख
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — छात्र-एआई संवाद को निर्देशित करने के लिए स्कैफोल्ड ढाँचा, इसके कक्षा पायलट के साथ
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — शिक्षक-डिज़ाइन सुरक्षा परतें: डोमेन सीमाएँ, फ़िल्टरिंग और अधिरोहण
-- [[ssail-safe-sound-ai-learning-2026]] — एसएसएआईएल: सीखने के लिए सुरक्षित और सुदृढ़ एआई के लिए एक डिज़ाइन ढाँचा
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]
-

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -64,35 +66,3 @@ Duygusal hesaplama, [[affective-tutoring]] (pedagojik uygulaması), [[student-mo
 - **“Daha fazla angajman daha fazla öğrenme demektir.”** Bir beyin algılama çalışması, **kısıtlanmış, uyarlanabilir bir arayüzün bilişsel angajmanı yükselttiğini (p = ,018)**, kısıtlanmamış sohbet robotunun ise **daha yüksek öğrenme kazanımları** ürettiğini buldu. Daha çok angaje eden arayüz daha az öğretti. Angajman öğrenmenin vekili değildir ve onu en iyilemek sonucu yanlış yöne taşıyabilir.
 - **“Duygusal destek, bilişsel desteğe yumuşak bir ektir.”** Küçük bir sınıf [[rct|rastgele denemesinde]] (**252 katılımcıdan 42 tamamlayıcı**), farkındalık temelli sürüm yalnızca bilişsel destekle karşılaştırıldığında **daha kısa sürede ve daha az istenen ipucuyla benzer cebir öğrenmesine** ulaştı. Duyuşsal bileşen tavanı değil verimliliği değiştirdi; bu, "öğrenmeye yardımcı olur"dan farklı ve daha ilginç bir iddiadır.
 - **“Az örnekli duyuşsal bulgular aktarılır.”** 252 katılımcıdan 42 tamamlayıcı, hem cesaret verici hem kırılgan bir tasarımdır: tamamlama oranı kimin devam ettiğine dair bir bulgudur ve etki o grupla sınırlıdır.
-
-## Bağlı kavramlar
-
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-## Bağlı makaleler
-
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
-- [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reframing AI-supported emotion regulation: signals need context, not autonomous interpretation

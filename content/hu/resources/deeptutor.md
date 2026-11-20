@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,6 +44,3 @@ Felsőoktatási oktatók és kutatók, akik a cikkben bemutatott keretrendszer t
 ## Megjegyzések
 
 Apache 2.0 licenc, 2026 szeptemberében 1.6.9-es verzió, körülbelül 40 000 GitHub-csillaggal. A mögötte álló publikált értékelést – átlagosan 10,8%-os javulás a személyre szabott mérőszámokon erős alapvonalakhoz képest, és 29,4%-kal erősebb általános ügynöki következtetés öt gerincmodellen, a TutorBench benchmarkon – a [[zhao-deeptutor-agentic-personalized-tutoring-2026|cikkoldal]] foglalja össze, amelynek korlátai itt is érvényesek. Mint minden nyílt forráskódú MI-verem esetében, a modellszolgáltatói kulcsokat Ön adja, az asztali vagy szerveres telepítés pedig Python 3.11-et és Node-ot vár.
-
-## Kapcsolódó fogalmak
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -97,33 +99,3 @@ AI اساتذہ کی مدد کر سکتا ہے کہ تدریس کو ثقافتی
 
 - ثقافتی مواد کو موجودگی یا عدم موجودگی کے بجائے درجے کے حساب سے رپورٹ کریں، کیونکہ 94% بمقابلہ 6% موجودگی اِس بارے میں کچھ نہیں کہتی کہ وہ 6% کیا ہے۔
 - پائلٹ رپورٹ کرتے وقت استاد کے تاثر کے نتائج کو طلبہ کے نتائج سے واضح طور پر الگ رکھیں۔
-
-## منسلک تصورات
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — چھتری: AI تعلیم میں تدریسی طریقے اور حکمت عملیاں
-
-## منسلک مضامین
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — سبق منصوبہ ساز جو مسودہ بنانے سے پہلے اساتذہ سے ثقافتی سیاق کا انٹرویو کرتا ہے (Zhai et al. 2026)
-
-- [[llm-cultural-relevance-k12]] — K-12 میں ثقافتی طور پر متعلقہ تدریس کے لیے LLM
-- [[civic-education-ai-lesson-plans]] — شہری تعلیم میں AI سے پیدا کردہ سبق منصوبے
-- [[ojeda-ramirez-community-based-ai-learning]] — برادری پر مبنی AI سیکھنا
-- [[genai-minoritized-knowledges-disability]] — جنریٹو AI اور اقلیتی علوم کی نظراندازی
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: گھانا کا STEM بینچ مارک
-- [[cross-cultural-student-perceptions-genai-computing]] — GenAI کے استعمال کے بین الثقافتی تاثرات
-- [[international-students-conversational-ai-adaptation]] — بین الاقوامی طلبہ اور گفتگو کرنے والا AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: ویتنامی سبق منصوبہ بندی
-- [[culturally-aware-student-stress-chatbot-2026]] — پاکستانی یونیورسٹی طلبہ میں دباؤ کی نشان دہی اور بہبود کی معاونت کے لیے NLP اور مشین لرننگ پر مبنی ثقافتی طور پر باخبر AI چیٹ بوٹ

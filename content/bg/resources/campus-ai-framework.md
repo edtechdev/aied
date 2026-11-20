@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -42,10 +43,3 @@ Campus AI Framework е оперативен модел, роден във вис
 ## Бележки и предупреждения
 
 Рамката и сайтът са лицензирани под **CC BY-NC-SA 4.0**, така че адаптирането е разрешено за нетърговска употреба с посочване на автора и споделяне при същите условия; сайтът дава собствено предложение за цитиране. Съответствието му с OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA и HIPAA е собствено сравнение на издателя и трябва да се чете като такова. Съпътстващите сайтове са отделни проекти, няколко от същия автор, и си струва да се познават като набор: [Campus AI Exchange](https://www.campusaiexchange.com/) е хъбът, който държи [интерактивни карти](https://www.campusaiexchange.com/ai-policies-guidelines-map) на институционалните AI политики и насоки за класната стая, [самооценка за AI управление](https://www.campusaiexchange.com/ai-governance-assessment), карти за управление на данни и AI позиции, и библиотека с ресурси. Около него стоят [campusaigovernance.com](https://campusaigovernance.com/) (девет области на AI управление), [campusairisks.com](https://campusairisks.com/) (Рамката за управление на AI рискове на NIST, приложена към тези области), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), шаблон за [план за усвояване на AI](https://unit-ai-adoption-plan.netlify.app/) на ниво звено и брифинг за [агентен AI за ръководители](https://campusaiframework.com/sites). Стратегическият компас се разпространява и като споделен документ в Google, който изисква акаунт в Google, за да се отвори. При влизане се появява кратък незадължителен въпрос за роля и институция; имейлът е незадължителен и целият сайт се чете и без него.
-
-## Свързани понятия
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

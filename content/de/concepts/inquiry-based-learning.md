@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -79,39 +81,3 @@ In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturiere
 **„Erkundung ist per Definition unstrukturiert.“** Die Lehrperson gibt Scaffolding, und die Struktur liegt im Fragedesign und im Reflexionszyklus statt in der Vermittlung von Inhalten. Das Scaffold zu entfernen macht die Erkundung nicht authentischer; es macht sie ungescaffoldet.
 
 **„Von Studierenden geleitete Fragen werden wohlgeformt sein, wenn sie interessiert sind.“** Eine bearbeitbare Frage zu generieren ist die Fähigkeit, die entwickelt wird, weshalb ein System, das gute Fragen liefert, die Erkundungsfähigkeit bereits ausgeübt hat, für die die Aktivität existiert.
-
-## Verbundene Konzepte
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Produktives Scheitern
-
-## Verbundene Artikel
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT für erkundungsbasiertes Lernen in STEAM (systematisches Review)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und Problemstellung in der Grundschul-Naturwissenschaft
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-Muster in LLM-getriebenen Umgebungen (Blooms Perspektive)
-- [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI- und höheres-Denken-Metaanalyse
-- [[niri-steam-ai-literacy-review-2026]] — STEAM-Bildung für KI-Kompetenz
-- [[kim-ai-productive-failure-adult-2026]] — KI-Systeme gestalten, die produktives Scheitern als Lernbasis unterstützen
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
-- [[lukesova-clue-before-correction-2026]] — Hinweis vor der Korrektur: ChatGPT für autonomes Sprachenlernen
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — KI-unterstützte geführte Erkundung zu Photosynthese & Atmung (Naturwissenschaftslehrkräftebildung)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — KI-gestützte Informationsextraktion unterstützt Thesis im Grundstudium und forschungsbasiertes Lernen (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — KI-unterstützte Erkundung zu sozio-wissenschaftlichen Fragen des Klimawandels
-- [[geoscience-field-learning-genai-2026]] — Ein Feld-zuerst-Instruktionsmodell, das verhindert, dass GenAI vorstrukturiert, was Lernende bemerken (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Menschliche Facilitatorin versus KI-vermitteltes problembasiertes Lernen: gleiche Inhaltsgewinne, schwächeres kritisches Denken ohne die Facilitatorin (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66-Studien-Karte generativer KI über die fünf Erkundungsphasen, wobei nur 8 Studien Erkundungsfähigkeiten messen

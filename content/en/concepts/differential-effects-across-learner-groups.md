@@ -13,6 +13,8 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 reviewed_by: [editor]
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 > **Differential effects across learner groups** — what [[ai-education|AI in education]] research finds about how the *use* of AI and its *effects* differ across kinds of learners: [[inclusive-learning|students with disabilities]] and [[neurodiversity|neurodivergent students]], second-language and [[multilingual-learning|multilingual learners]], girls and boys, minoritized students, students from lower-income backgrounds, rural students, first-generation students, international students, and [[adult-learning|adult learners]]. The pattern worth carrying away is uneven in two directions at once. Some strands have real evidence (disability, language) while others are close to empty (first-generation, international, refugee). Even the strong strands rarely establish that a *group* differs: they establish that a tool helped or harmed a sample of that group, which is a different claim. Across these strands, what exists, what it shows, and the methodological reasons a group average is not a prediction about a learner differ sharply.
@@ -129,55 +131,3 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - **"Group labels capture the variation that matters."** **Group labels hide the variation inside them**: in the disability meta-analysis, students with **specific learning disabilities, intellectual and developmental disabilities** and other categories are pooled, so the group average describes none of them.
 - **"Subgroup analyses answer the differential-effects question."** They are usually **too small to answer it**: the [[ai-tutoring-micro-rct-gcse-science-2026|GCSE science micro-RCT]] is unusually explicit that its **treatment** contrast is powered for the overall effect and not for subgroup differences. An underpowered subgroup finding is a hypothesis, not a result.
 - **"A medium pooled effect tells you whether a given group benefits."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (quasi-)experimental studies]] pooled to **Hedges' g = 0.588 (95% CI [0.349, 0.826])** across disability categories. The interval describes the average over those categories, and "which group, which need" is a separate analysis.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## Connected Articles
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities: g = 0.588, and g = 0.269 after bias adjustment
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefited STEM and non-STEM students unequally in interdisciplinary learning
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI use and four-strand engagement among minority ethnic international students
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 records to 40 studies, 15 of them generative AI
-- [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent students on structure, ambiguity, and collaboration
-- [[genai-minoritized-knowledges-disability]] — Epistemic marginalization in AI, with disability as the case
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 with I² = 84.4% in a small L2 evidence base
-- [[structural-silence-underrepresented-language-ai-2026]] — Bengali's under 0.5% of web content against English's 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detectors misclassify EFL writing while scoring professional texts perfectly
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — A 195-student test of female-coded role models with no gender difference
-- [[gender-bias-transfer-llm-writing]] — Gender-biased prompts transferring into student essays
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Single-gender space valued, with a warning against girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Tutor fairness varying by model, domain, and behavior dimension
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotype-aligned feedback on identical essays
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 calls: explicit personas and implicit histories both move models
-- [[student-attention-estimation-fairness-2026]] — Fairness regularization that did not generalize
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 students: digital literacy, not AI use, mediates the gap
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Rural participation that never recovered, and mentorship as the constraint
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — A subgroup interaction whose confidence interval crosses zero
-- [[student-ai-inquiry-types-cs2-2026]] — The only first-generation usage finding
-- [[international-students-conversational-ai-adaptation]] — The only international-student study
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — The first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — A knowledge-based grouping variable with direct process evidence: groups matched on prior knowledge but differing in preconception diversity took up the same AI differently (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
-
-- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -90,42 +92,3 @@ Yaratıcılık, [[critical-thinking]] ile ve [[constructivist]] öğrenmeyle ba�
 - **“Öğrencileri sarsmak yaratıcı kazanımlar üretir.”** **Sürtünme, yaratıcı kazanım değildir.** Karşıt YZ kişilikleri **grupların %38,2’sinde** meydan okuma ve yansıtma söylemini yönlendirmiş, ancak **ölçülebilir bir yaratıcı performans iyileşmesi üretmemiştir**. Söylem değişti, ölçülen çıktı değişmedi.
 - **“K-12 literatürü GenAI’nin yaratıcılığı geliştirdiğini ortaya koyar.”** **45 çalışmayı (2017-2025)** kapsayan PRISMA güdümlü bir kapsam taraması, GenAI’nin yaratıcılığı çoğunlukla **geliştirdiğini** ve nadiren **ölçtüğünü** göstermektedir. Alanın baskın bulgusu, algılanan gelişmeden yapılan bir çıkarımdır; bu bir çıktı ölçümü değildir.
 - **“GenAI’ye daha fazla bağımlılık daha fazla yaratıcı çıktı demektir.”** **1.157 Çinli lisansüstü öğrenci** arasında GenAI bağımlılığı **öz bildirimli araştırma yaratıcılığıyla pozitif ilişkiliydi** ve ilişki **öz bildirimle** kuruludur; bu da yapı için mevcut en zayıf ölçüttür.
-
-## Bağlı kavramlar
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Bağlı makaleler
-- [[wei-genai-configurations-creative-phases-2026]] — Yaratıcı aşamalar boyunca üretken YZ yapılandırmaları: sanat ve tasarım eğitiminde yaratıcı performans ve anlık bilgi üzerine 2 × 2 bir deney
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
-
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source
-
-- [[multi-agent-llm-social-learning]] — İki model destekli çalışma, tek modelin düzleştirdiği fikir çeşitliliğini geri getirdi (Kumar vd. 2026)
-

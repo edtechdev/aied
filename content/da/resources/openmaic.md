@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -43,7 +44,3 @@ Undervisere og kursteams, der vil have genererede materialer, de stadig kan redi
 ## Noter
 
 Licenseret under MIT, med en engelsk og kinesisk brugerguide og et aktivt fællesskab på Discord og Feishu. Det er modelneutralt: du leverer mindst én nøgle til en LLM-udbyder, og valgfrie lokale komponenter (Lemonade til lokale modeller, FunASR til talegenkendelse) lader dig køre mere af stakken offline — så »gratis« beskriver softwaren, ikke inferensregningen. Artiklen bag det udkom i *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), og repositoriet havde mere end 38.000 stjerner i september 2026.
-
-## Relaterede begreper
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

@@ -40,6 +40,7 @@ ai_assist:
 translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -56,6 +57,3 @@ A chi insegna e allo staff di [[educational-development|sviluppo del corpo docen
 ## Note e avvertenze
 
 Leggere non richiede alcun account, e i corsi Canvas e le checklist a cui rimanda sono pubblici. I coach Playlab e i Gemini Gem e i notebook sono servizi di terze parti che invece ne richiedono uno. Le schede si generano da `apps.json`, quindi l'elenco completo richiede JavaScript e il fallback senza script nomina otto delle quindici; il link breve `tinyurl.com/fpdapps` e un codice QR nell'intestazione lo aprono su un telefono. Il repository è software con licenza MIT, mentre le guide a cui rimanda portano le proprie licenze, il libro Pressbooks tra esse sotto una licenza Creative Commons non commerciale. Non c'è un calendario di pubblicazione, quindi la pagina cambia senza preavviso.
-
-## Concetti collegati
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

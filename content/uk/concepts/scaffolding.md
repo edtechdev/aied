@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -103,59 +105,3 @@ ai_assist:
 - **«Скаффолдинг — це постійний рівень підтримки.»** Експертна анотація **207 консультацій** показала, що потреба в скаффолдингу **сильно залежить від фази, зростаючи з близько 16.1% висловлювань студентів на ранньому етапі** зустрічі. Єдиний рівень скаффолда хибно розподіляється на обох кінцях тієї самої консультації.
 - **«Будь-яка структурована контрольна умова є чесним порівнянням для скаффолдингу.»** Умова скаффолдингу перевершила **структурований контроль із поступовим розкриттям** на фінальному [[summative-assessment|іспиті]], узгодженому з OSCE (**71.8% проти 55.6%**), тож приріст було виміряно проти справжньої [[pedagogy|педагогічної]] альтернативи, а не проти нічого.
 - **«Ефекти скаффолдингу є загальними.»** Приріст становив **16.4 відсоткового пункту (P = 3.30e-4)**, з найбільшим покращенням у **комунікації (Hedges' g = -0.79)**. Ефект зосередився в одному результаті, тож середнє за результатами занижує те, де він працює, і завищує те, де ні.
-
-## Пов’язані поняття
-- [[pedagogical-patterns]] — Де в послідовності має стояти підтримка і чому правило «спроба перед допомогою» є несучим
-- [[problem-based-learning]] — PBL вбудовує згасаючі скаффолди навколо погано структурованих задач
-- [[learning-by-teaching]] — Скаффолдинг побудови знань через пояснення
-- [[sociocultural-learning]] — Виготськівська основа: ЗБР і опосередковане соціально навчання
-- [[cognitive-offloading]] — Скаффолдинг, який ніколи не згасає, створює надмірну залежність
-- [[feedback]] — Скаффолдинг забезпечує формувальний зворотний зв’язок у міру згасання підтримки
-- [[ai-literacy]] — Розпізнавання, коли скаффолдинг підтримує, а коли витісняє навчання
-- [[intelligent-tutoring]] — ITSs адаптують інтенсивність скаффолду до оцінок володіння
-- [[socratic-method]] — Запитання, які утримують прямих відповідей
-- [[metacognition]] — Скаффолди, що розвивають самоконтроль і саморегуляцію
-- [[adaptive-learning]] — Адаптивні системи модулюють підтримку в межах ЗБР здобувача
-- [[learning-design]] — Скаффолдинг — ключова стратегія навчального проєктування
-- [[help-seeking]] — Скаффолдинг формує, коли і як здобувачі звертаються по допомогу
-- [[teacher-role]] — Викладачі скаффолдять, а потім згасають у міру зростання компетентності
-- [[pedagogy]] — Парасолька: педагогіки та стратегії викладання в освіті ШІ
-- [[agentic-ai]]
-- [[productive-failure]] — Productive Failure
-
-## Пов’язані статті
-- [[kumar-genai-computing-education-systematic-review-2026]] — Зняття скаффолду як механізм забезпечення перевірки (рамка VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Оцінювання багатоагентної системи великих мовних моделей, орієнтованої на скаффолдинг, для навчання клінічному інтерв’ю
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Коментарі ШІ з ентропійним хронометражем як увідеопідтримка знань та емоцій (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — Формулювання підказок до мовних моделей як структурована навчальна інтервенція
-- [[scaffolding-critical-engagement-genai-minority-students]] — Скаффолдинг критичної залученості з GenAI на культурно адаптованих засадах
-- [[rethinking-scaffolding-llm-tutors]] — Патерни проєктування скаффолдингу в тьюторах на базі мовних моделей
-- [[concept-catalyst-engineering-scaffolds]] — Скаффолди Concept Catalyst для понятійної зміни
-- [[correct-answer-trap-ai-tutor]] — Коли підказки допомагають, а коли сприяють надмірній залежності
-- [[critical-thinking-genai-scaffolding]] — Скаффолдинг критичного мислення за допомогою GenAI
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Скаффолдинг наративного чернеткування з Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Від заміщення до скаффолдингу: розрив самопідсилюваного циклу шкоди
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Переважний скаффолдинг у математичному моделюванні з підтримкою ШІ
-- [[agentic-ai-pedagogical-best-practice-2026]] — Динамічні (згасаючі) скаффолди як запобіжник для агентного ШІ
-- [[zhang-tutormoments-2026]] — Коли допомога шкодить: оцінювання ШІ-тьюторів на предмет продуктивної боротьби
-- [[kim-ai-productive-failure-adult-2026]] — Проєктування систем ШІ для підтримки навчання на основі продуктивних невдач
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Педагогічне керування мовними моделями задля продуктивних невдач
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Робота тьюторства ШІ продуктивним: практика математики на основі володіння
-- [[brcic-effortless-trap-productive-struggle-2026]] — Обмежений і необмежений ШІ: правило розміщення (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — Проєктування експериментів із підтримкою ШІ в практичній хімії
-- [[scaffolding-systematic-reviews-2026]] — Скаффолдинг систематичних оглядів через менторство та ШІ (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Агентність викладачів-стажерів під час взаємодій з GenAI в проєктуванні для навчання (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — ШІ в педагогіках практики в освіті вчителів математики: структурований зворотний зв’язок за репетиціями підвищив зондувальні запитання (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Інтеграція ШІ як навчальне проєктування: критика результатів ШІ має бути призначена, а дисциплінарний аналіз — першим
-- [[ai-literacy-tool-design-programming-education-2026]] — ШІ-коуч для навчання з бюджетом підказок: скаффолдинговане та необмежене використання GenAI і чому одне обмеження не дало навчання (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: скаффолдинг переосмислений як визначення, до якої підзони належить завдання
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Автоматичне оцінювання як формувальний скаффолдинг: воно перетворюється на приріст лише там, де цільовий дефіцит розкладний, надійний і чутливо масштабований (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Скаффолдинг із замкненим циклом, що відстежує поточну межу здобувача в музичній практиці, з виявленням помилок як сортуванням (Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Форма скаффолду має відповідати розвитковій спроможності дітей, а не лише завданню (Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Скаффолди мають вимагати репрезентаційного перекладу та перевірки, оскільки студенти не можуть перевірити те, чого не розуміють (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI як скаффолд підказок, що з’єднує візуальну інтуїцію з дедуктивним доказом у геометрії, де самої візуалізації недостатньо (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Вивчення варіацій у тому, як керовані ШІ-тьютори розв’язують заклинення студентів
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Навчання здобувача як скаффолдинг для використання GenAI в розв’язуванні STEM-задач (Huang et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — конверсаційний ШІ-діагностикум для виявлення педагогічних місконцепцій із діалогом, що спирається на докази (Miranda & Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Шари скаффолдингу змісту й часу в самостійно темпованому курсі, з частками пізнього старту та невдач за часом навчання
-- [[assistance-dilemma-rl-tutoring-2026]] — Дилема допомоги: навчання багатоходового RL-тьютора, чий горизонт винагороди закінчується задачею, витреновує згасання (Macina, Kapur & Sachan 2026)

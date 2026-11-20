@@ -26,6 +26,8 @@ translation_of: concepts/automated-assessment
 source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -149,77 +151,3 @@ contributors: [editor]
 - **«Джерело ненадійності — оцінювач.»** На 378 фіксованих кидках кубиків повторний запуск змінив **від 2.9 до 6.1 відсотка** результатів за напівжорсткого методу та **від 13.5 до 15.9 відсотка** за вільного арбітражу, тоді як заміна ШІ-оцінювача додала лише близько 3 пунктів ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — відтворюваність задає процедура, а не оцінювач.
 - **«Звітування про впевненість — це приємна дрібниця.»** Оцінка, що заявляє **70% упевненості**, змінила б те, як її використовують, а відсутність цієї інформації змушує читача трактувати всі оцінки як однаково певні.
 - **«Автоматичне оцінювання коротких відповідей — вирішена галузь.»** Огляд обсягу автоматичного оцінювання коротких відповідей у [[science-education|природничій освіті]] (**2017 — початок 2024**) документує історію поля, що є записом того, що було спробувано, а не того, що було валідовано.
-
-## Пов’язані поняття
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Підсумкове оцінювання: формати, стійкі до ШІ (усні, іспити з наглядом, закриті іспити)
-
-## Пов’язані статті
-
-- [[llm-structured-assessment-diagnostic-quality-2026]] — Підвиміри рубрики LLM майже надмірні, і зворотний зв’язок рідко називає хибні уявлення (Zhao et al. 2026)
-
-- [[porcaro-ai-grading-benchmark-2026]] — Поза узгодженістю: 22 оцінювачі з підказками проходять проби з відомою правильною відповіддю, і більшість можна вмовити завищити бал (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Оцінювання викладання, а не роботи студентів, без об’єднання
-
-- [[opraise-automated-marking-ai-assessment-2026]] — Звіт OpRaise: оцінювання за допомогою ШІ 761 університетського есе в трьох університетах Великої Британії
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Оцінювання за допомогою ШІ з людиною в циклі в масштабному національному оцінюванні письма (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[usher-faraon-who-grades-best-2026]] — Порівняння оцінювання ChatGPT, однокурсників і інструктора на різних рівнях якості проєкту (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[automated-formative-assessments-a-level-sciences]] — Автоматизовані формативні оцінювання в наукових дисциплінах рівня A
-- [[cong-confidence-asag-2026]] — Уважне до упевненості автоматизоване оцінювання коротких відповідей
-- [[ai-scoring-language-bias-physics]] — Мовна упередженість оцінювання ШІ у фізиці
-- [[llm-difficulty-calibration-programming-exams-2026]] — Калібрування складності іспитів із програмування на основі LLM
-- [[choi-anchor-aes-prompting-2025]] — Підказки для автоматизованого оцінювання есе на основі анкорів
-- [[cotal-formative-assessment-scoring-2026]] — Оцінювання формативних оцінок CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Автоматизоване оцінювання іспитів із Linux Bash за допомогою LLM
-- [[confidence-aware-student-drawing-assessment]] — Уважне до упевненості оцінювання намальованих студентами рисунків
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: автоматична оцінка згенерованих математичних діаграм
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP проти обґрунтувань LLM для оцінювання якості викладання на основі рубрики
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: генерація рубрик оцінювання за допомогою ШІ
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Оцінювання та зворотний зв’язок із підтримкою ШІ під наглядом інструктора
-- [[ai-grading-handwritten-physics-2026]] — Оцінювання рукописних робіт із фізики за допомогою ШІ (Олімпіада)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Тристоронні рамки: сортування зворотного зв’язку за епістемічним статусом і п’ять граничних принципів участі ШІ (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Оцінка методом червоної команди ін’єкцій підказок, прихованих у подачах студентів, проти оцінювання, опосередкованого ШІ (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — оцінювання напіввідкритої рукописної математики з фільтром упевненості для перевірки людиною
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[sophie-clinical-communication-ai-assessment-2026]] — Масштабоване тренування клінічної комунікації на основі ШІ та автоматизоване оцінювання
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
-- [[llm-automated-coding-teacher-pck-2026]] — Багатоагентна LLM (GradeOpt) кодує відповіді викладачів із відкритим закінченням на CK і PCK; надійність від удосконалення підказок проти посібника з кодування
-- [[ai-marking-accuracy-gcse-physics-2026]] — Оцінювання ШІ в порівнянні з оцінками екзаменаційної комісії та судженням викладачів у фізиці GCSE
-
-- [[llm-grading-assistants-public-health-2026]] — Режим міркування підняв згоду оцінювання LLM–людина з зваженої каппи 0.269 до 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — Узгодженість між машиною та людиною в оцінюванні студентських робіт бакалаврату є специфічною для моделі, підказки та установи
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Палець на терезах: використання практик традиційного воєнного арбітражу для поліпшення оцінювання й виставлення оцінок за допомогою ШІ (Epstein 2026)

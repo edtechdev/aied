@@ -29,6 +29,8 @@ ai_assist:
 translation_of: concepts/oral-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -93,36 +95,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 - **"הערכה בעל-פה אינה ניתנת להרחבה."** ב[[code-review-genai-cs1|מחקר ראיית הקוד בעל-פה ב-CS1]], **ראיונות שבועיים בני חמש-עשרה דקות נשאו שבעים אחוז מציון כל מטלה**, ויחס התווים המדובקים לסך התווים נשאר אינפורמטיבי. העלות אמיתית והעיצוב ניתן ליישום בקנה מידה של קורס.
 - **"מבחנים בעל-פה קלים יותר מכתובים."** בפילוט המדווח, הציונים **עלו על אלה של מבחני אמרה-אחת פנים-אל-פנים: חציון אמצע 92.5 לעומת 70 (p < .001) וחציון סוף 94.2 לעומת 86.4 (p = .002)**. ההערכה בעל-פה לא הייתה האפשרות המקלה.
 - **"מפגש מדומה שווה לחומרי מקרה בהתגלות הדרגתית."** ב[[ai-standardized-patient-scaffolding-medical-2026|ניסוי אקראי עם מאה סטודנטים לרפואה בשנתם השלישית]] הושוותה מערכת החולה המדומה **מול חומרי מקרה בהתגלות הדרגתית** — מבחן ישיר של שקילות ולא הנחה שלה.
-
-## מושגים קשורים
-
-- [[pedagogical-patterns]] — רצפי אימות בעל-פה ובוויווה, ומה הם מדגימים ומה אינם
-- [[assessment]] — השדה הרחב יותר שהפורמט יושב בתוכו
-- [[authentic-assessment]] — מסורת העיצוב שמקימה את טענת היושרה
-- [[assessment-validity]] — מה שפורמט יכול ואינו יכול לטעון שהוא מודד
-- [[academic-integrity]] — הלחץ שהחזיר את המבחנים בעל-פה לקדמת הבמה
-- [[automated-assessment]] — אספקת מכונה וניקוד של ביצוע בעל-פה
-- [[ai-detection]] — התשובה האלטרנטיבית, ומדוע היא חלשה יותר
-- [[speech-and-voice-technologies]] — צינור הדיבור שמערכת הערכה בעל-פה פועלת עליו
-- [[multimodal]] — מחווה ודיבור כראיה משולבת
-- [[anxiety-and-stress]] — העלות הרגשית של ביצוע חי
-- [[feedback]] — מה שוויווה מספר ללומד על ההבנה שלו עצמו
-- [[higher-ed]] — ההקשר ממנו כמעט כל הראיות מגיעות
-
-## מאמרים קשורים
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — משימות דיאלוג AI לא-מסתעפות מיישרות לא נכון את דרישות המשימה עם מבנה הדיבור
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — וויווה חי אינו חסין עוד: משקפי AI ואוזניות מעבירים רמזים חשאיים בזמן אמת (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[assessment-feedback-trilemma-model-2026]] — שולל מכל פורמט עמדה קבועה וממסגר מחדש את ההיתכנות כעדיפות חינוכית

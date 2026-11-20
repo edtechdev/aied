@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-10-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 Code Viva runs a written, timed version of a [[oral-assessment|viva]] for every student in a programming
 course, about fifteen to twenty minutes each, without an instructor in the room. It reads a student's
@@ -56,8 +57,3 @@ hide a function, and a score can reward knowing the vocabulary rather than under
 is why scores are proposals an instructor approves and why it advises keeping the stakes low. No license
 and no source repository are published, and because links carry the questions they run to a few
 kilobytes, long enough to wrap in a learning management message box.
-
-## Connected Concepts
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]
-

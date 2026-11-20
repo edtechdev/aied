@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -55,7 +57,6 @@ SAMR은 [[icap-framework|ICAP 프레임워크]]와 자주 짝지어지는데, �
 
 - **깊이와 포용은 별개의 축입니다.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]]는 38개 출처에 걸쳐 SAMR을 [[universal-design-for-learning|UDL]]과 짝지으며, 재정의 수준 과제도 언어, 기기, 연결성이 설계에 맞지 않는 학생을 여전히 배제할 수 있다고 주장합니다.
 
-
 ## SAMR, TPACK, 그리고 기술 수용: 어떻게 다른가
 
 세 프레임워크는 흔히 혼동되지만 서로 다른 질문에 답합니다:
@@ -82,28 +83,3 @@ SAMR은 계획과 평가에 쓰이는 통합 깊이 렌즈로 이해하는 것�
 **"SAMR과 TPACK은 경쟁하는 틀이다."** 둘은 다른 것을 기술합니다. SAMR은 과제에서의 *변혁의 정도*를, [[tpack|TPACK]]은 교사가 기술을 잘 통합하는 데 필요한 *지식*을 기술합니다. 교사는 TPACK 역량이 높으면서도 대체 수준에서 운영될 수 있으며, 그래서 둘은 택일이 아니라 함께 쓰입니다.
 
 **"한 수준에서 변혁적인 도구는 모든 수준에서 변혁적이다."** 같은 생성 도구가 한 강좌에서는 대체를, 다른 강좌에서는 재정의를 뒷받침할 수 있습니다. 수준은 기술이 아니라 과제 설계의 속성이기 때문입니다. 수준을 도구에 귀속시키면 설계 결정 대신 도입 결정이 나옵니다.
-
-## 연결된 개념
-
-- [[ai-education]] — AI 교육(포괄)
-- [[tpack]] — 기술적 교수 내용 지식
-- [[technology-acceptance-model]] — 기술 수용 모형
-- [[icap-framework]] — 인지 참여의 ICAP 프레임워크
-- [[ai-technologies]] — AI 기술과 기법
-- [[teacher-ai-competency]] — 교수의 AI 역량
-- [[educational-development]] — 교육 개발
-- [[learning-design]] — 학습 설계
-- [[k-12]] — K-12 교육
-- [[higher-ed]] — 고등교육
-- [[generative-ai]] — 생성 AI
-
-## 연결된 문서
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — SAMR로 채점한 고등교육의 AI 통합: 대부분 대체/보강
-- [[thermomix-genai-education-analogy-2026]] — 네 가지 요리–학습 시나리오에 대응하는 ICAP과 SAMR
-- [[rewriting-curriculum-genai-pedagogy-2026]] — 생성 AI 기반 교과 변화의 렌즈들 중 SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — 교수진 기술 기준에 정보를 주는 프레임워크들 중 SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR의 휴머니스트 존재론에 대한 포스트휴머니스트 비판
-- [[reclaiming-epistemic-agency-co-agency-2026]] — 권력, 데이터 소유, 책무에 대한 SAMR의 침묵
-- [[genai-use-changing-institutional-policy-physics-2026]] — 변화하는 기관 정책 아래 학생의 생성 AI 활용: SAMR 수준에 대응된 활용 기능(Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — 수학 교실에서의 AI: 다양성과 포용성을 위한 상승 전략

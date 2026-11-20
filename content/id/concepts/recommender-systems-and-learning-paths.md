@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -45,9 +47,7 @@ Jika [[adaptive-learning]] menggambarkan mekanisme penyesuaian konten, tempo, da
 
 Sistem rekomendasi perilaku mewarisi logika [[machine-learning|penyaringan kolaboratif]]: pembelajar dengan riwayat serupa diasumsikan menginginkan sumber daya yang serupa, sehingga sistem memprediksi dari ko-okurensi alih-alih dari konten. Ini ampuh di tempat data padat dan rapuh di tempat data tidak padat. [[fair-explainable-edu-recommendations|Evangelista dan Bukhari (2026)]] menyatakan masalahnya secara terus terang — sistem rekomendasi yang berfokus pada akurasi memberikan dukungan yang kurang andal kepada siswa dengan riwayat partisipasi terbatas sementara sumber daya populer mendominasi daftar — dan menjawabnya dengan kerangka Hybrid HKG-GRU yang menyematkan [[knowledge-graph|graf pengetahuan]] heterogen atas materi kuliah dan memodelkan urutan pembelajar dengan GRU, lalu berlatih untuk ketahanan lintas kelompok pembelajar (GroupDRO) dan memeringkat ulang untuk keragaman eksposur (Maximal Marginal Relevance). Pada log Moodle dari 152 siswa, 59 sumber daya, dan sekitar 150,000 interaksi, sistem itu mencapai HR@10 = 0.68 dan MRR = 0.41, tetapi bias popularitas yang substansial tetap bertahan pada tingkat katalog — bukti bahwa [[bias-mitigation|mitigasi bias]] bersifat parsial.
 
-
 Baseline ringan juga dapat mengalahkan model dalam secara langsung. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi dkk. (2026)]] membandingkan tujuh sistem rekomendasi pada NedBox, platform bahasa Belanda sebagai bahasa kedua, dan model item-item dangkal EASE memimpin pada setiap ukuran — AUROC 0.955, MAP 0.283, NDCG@3 0.205, NDCG@5 0.279 — di depan variational autoencoder dalam MVAE (AUROC 0.949) dan ansambel PentaForest (0.953), dengan faktorisasi matriks paling buruk (IALS 0.719, UKNN 0.767). Sinyal rekomendasi dan [[knowledge-tracing]] juga saling melengkapi: memeringkat ulang 10 teratas EASE berdasarkan prediksi kemahiran menaikkan NDCG@3 sekitar 3%.
-
 
 Sistem rekomendasi semantik menggantikan ko-okurensi dengan struktur. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun, dan Song (2026)]] membangun graf pengetahuan atas sumber daya pengajaran, konsep bahasa, keterampilan, kelompok pembelajar, dan atribut [[pedagogy|pedagogis]], serta menguraikan setiap sumber daya sepanjang empat dimensi instruksional — konteks pengajaran, tingkat kognitif, fitur teknologi, dan kemampuan adaptasi budaya. Rekomendasi memperluas k-hop pada graf dari persyaratan yang dinyatakan pembelajar, menyaring kandidat dengan penyaring kolaboratif berbasis fitur, dan memeringkatnya dengan koefisien fusi yang naik seiring indeks kemampuan, kemajuan, dan minat pembelajar, sehingga pembelajar yang kurang maju mendapat panduan lebih terstruktur dari graf sementara pembelajar berkemampuan lebih tinggi bersandar pada pola perilakunya. Pada subset bahasa Inggris dari kumpulan data MARS (4,800 pengguna, 14,200 sumber daya, 132,000 interaksi, sparsitas 0.9981) sistem ini mencapai NDCG 0.625 dan HR 0.751, sekitar peningkatan 7–8% atas baseline neural terbaik, dan mengalahkan baseline yang sadar graf termasuk RippleNet dan KGAT pada cakupan dan akurasi lintas domain. Ablasi menunjukkan sinyal-sinyalnya saling melengkapi (NDCG hanya-CF 0.584, hanya-KG 0.604), dan penulisnya mencatat bahwa ini adalah metrik perangkingan, bukan bukti [[learning-gains|efektivitas pembelajaran]].
 
@@ -98,42 +98,3 @@ Literatur yang sama telah mulai mengusulkan obat bagi penyempitan, meskipun belu
 **"Data yang jarang hanyalah gangguan teknis."** Pada tingkat sparsitas dalam literatur ini (0.9981) sistem hampir tidak melihat apa pun, yang membuat cold start dan bias popularitas bersifat struktural alih-alih dapat diperbaiki dengan penyetelan. Sistem rekomendasi yang dilatih pada sinyal itu akan secara sistematis menampilkan apa yang sudah populer, dan pembelajar yang pendiam atau tidak biasa adalah pihak yang tidak dapat dilihatnya.
 
 **"Keterjelasan adalah fitur pelaporan."** Apakah seorang guru atau pembelajar dapat mengaudit sebuah rekomendasi adalah syarat legitimasi: jalur yang tidak dapat diperiksa siswa adalah jalur yang tidak dapat mereka bantah, yang merupakan masalah tata kelola sebelum menjadi masalah antarmuka.
-
-## Konsep terkait
-
-- [[knowledge-graph]] — Representasi terstruktur atas konsep, sumber daya, dan relasi prasyarat
-- [[explainable-ai]] — Penjelasan sebagai fitur desain yang memediasi keterpahaman dan kepercayaan
-- [[curriculum-design]] — Keputusan pengurutan yang dimodelkan, disimpulkan, dan direproduksi sistem rekomendasi
-- [[learning-design]] — Urutan aktivitas terencana yang menjadi objek analisis jalur
-- [[learning-analytics]] — Data dan metode di balik rekomendasi, serta objek auditnya
-- [[cognitive-diagnosis]] — Mendiagnosis keadaan pengetahuan yang menyemai jalur remediasi
-- [[knowledge-tracing]] — Memodelkan penguasaan sepanjang waktu untuk memutuskan kesiapan pembelajar
-- [[student-modeling]] — Representasi pembelajar yang dikonsumsi rekomendasi
-- [[personalized-learning]] — Tujuan yang lebih luas; halaman ini mencakup keputusan seleksi
-- [[adaptive-learning]] — Mekanisme penyesuaian real time; halaman ini mencakup perangkingan dan pengurutan
-- [[intelligent-tutoring]] — Platform yang bertindak atas rekomendasi dalam dialog
-- [[bias-mitigation]] — Intervensi keadilan dalam perangkingan dan eksposur
-- [[equity-in-ai-education]] — Perbedaan kualitas rekomendasi pada tingkat kelompok
-- [[human-in-the-loop-ai]] — Pengawasan atas navigasi sumber daya otomatis
-- [[self-directed-learning]] — Jalur yang dipelihara pembelajar dan navigasi sepanjang hayat
-- [[lifelong-learning]] — Pembelajaran terstruktur graf di luar urutan gelar
-- [[trust-calibration]] — Menyesuaikan kebergantungan dengan keandalan rekomendasi
-- [[student-support-and-success]] — merekomendasikan dukungan, sumber daya, dan jalur akademik
-
-## Artikel terkait
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Penyaringan kolaboratif hibrida plus graf pengetahuan untuk sumber daya pengajaran multimodal, dengan fusi yang sadar kemampuan dan kemajuan (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Graf pengetahuan heterogen + sistem rekomendasi GRU dengan keadilan GroupDRO dan keterjelasan kontrafaktual (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Penjelasan berbasis domain membangun kepercayaan guru lebih besar daripada bagan kepentingan fitur (Feldman-Maggor dkk. 2025)
-- [[proprl-prerequisite-relation-learning]] — Pembelajaran relasi prasyarat dengan kendala ketakdapatbalikan untuk konsistensi terarah (Cheng dkk. 2026)
-- [[pattern-kc-programming-recommendation]] — Merekomendasikan latihan pemrograman berdasarkan kemiripan komponen pengetahuan berbasis pola (Hoq dkk. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Analisis Markov dan penambangan pola atas 29,064 aktivitas yang dirancang di 554 mata kuliah (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnosis DINA Bayesian dan jalur remediasi terpendek, dimediasi oleh beban kognitif (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Memetakan pertanyaan asisten pengajar AI ke graf prasyarat yang diekstraksi GPT-4 untuk menemukan kesenjangan tingkat kurikulum (Medhat dkk. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graph sebagai alternatif kurikulum tetap untuk pembelajaran sepanjang hayat (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Taksonomi lima tingkat yang menunjukkan sebagian besar interaksi manusia–AI adalah konsultasi, bukan kolaborasi (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Dukungan otonomi versus tekanan yang memprediksi jalur AI konstruktif atau kompulsif (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — Tinjauan PRISMA atas tren personalisasi pembelajaran, jalur, dan model rekomendasi (Ikram dkk. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: tolok ukur perencanaan Berpusat Pengetahuan yang menunjukkan LLM mencapai 90.9% validitas tetapi hanya 44.3% adaptivitas (Liu dkk. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — rekomendasi latihan sebagai keputusan berurutan atas pelacak yang berlandaskan semantik
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Pengelompokan perilaku atas 14,003 catatan ke dalam enam profil, dipetakan ke objek pembelajaran dengan kerangka rekomendasi yang diregularisasi keragaman (Najem dkk. 2026)

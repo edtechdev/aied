@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -160,41 +162,3 @@ ai_assist:
 **“使用工具时分数更高，说明工具教得更多。”** 在一项 [[k-12|K-12]] 数学研究中，使用通用 [[conversational-ai|聊天机器人]] 练习的学生获得了更好的练习成绩，随后在无协助评价中得分**低约 17%**。有工具在场时测得的练习表现是膨胀的那一项；无协助的那一项才是结果，而上升的只有前者。
 
 **“如果效应是真的，实施细节就不太重要。”** 实施细节就是效应本身。一项只在一所机构的一门课程中追踪 30 名学生、且使用的是如今无人再用的工具版本的研究，产生的是关于一种已不存在的配置的发现。干预界定、版本与情境是主张的一部分，而不是主张周围的背景。
-
-## 关联概念
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] —— AI 辅助的教育研究
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## 关联文章
-
-- [[oneill-presumed-effective-meta-analysis-2026]] —— 《被假定有效》：对 14 项 AIED 元分析的法医式审计
-- [[bartos-ai-learning-meta-meta-analysis-2026]] —— 经发表偏倚校正的 AI 效应约为所报告规模的三分之一
-- [[weidlich-chatgpt-effect-search-cause-2025]] —— 教育中的 ChatGPT：一个在寻找原因的效应
-- [[ai-supported-instruction-stem-meta-analysis-2026]] —— 把纳入标准当作严格性门槛，以及随模型变化的异质性
-- [[know-when-to-trust-ai-scoring-reliability-2026]] —— 当自动评分信度遇上任务自身的测量上限
-- [[verification-quality-reliance-calibration-genai-2026]] —— 核验与依赖文献没有测量什么
-- [[citation-errors-hallucinations-computing-education-2026]] —— 2025–2026 年间进入印本的可伪造参考文献
-- [[stanford-evidence-base-ai-k12-2026]] —— 练习收益、考试损失：K-12 数学中的辅助移除问题
-- [[ai-tutoring-micro-rct-gcse-science-2026]] —— 置信区间跨零的子组效应
-- [[chick-faculty-development-ethical-ai-2026]] —— 支撑条件：政策信号、个人订阅、没有时间
-- [[ai-tutoring-quality-k12-methodologies-2026]] —— 披露了校准与实验数量的供应商指标
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] —— 与模型版本绑定的发现，以及领域的高速更迭
-- [[instruction-partners-ai-in-action-learning-tour-2026]] —— 16 款已在使用的面向学生 AI 产品的独立证据计数
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] —— 综述可以量化其自身语料中的报告偏斜

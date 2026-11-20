@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -92,9 +93,3 @@ Psychologie-Lehrende in jeder Karrierephase sowie Lehrende in benachbarten [[soc
 ## Hinweise und Vorbehalte
 
 Kostenloses PDF, kein Konto nötig. Das Urheberrecht liegt bei der STP, nicht bei einer Creative-Commons-Lizenz: Kopien für den persönlichen Gebrauch und für den Unterricht sind mit Quellenangabe erlaubt, Weiterverbreitung oder kommerzielle Nutzung brauchen die Erlaubnis des Autors. Die Kapitel sind Praxisberichte, keine Studien — keine Designs, Stichproben oder Effektstärken —, behandeln Sie Aussagen also als Erfahrungsberichte und zitieren Sie Kapitel einzeln.
-
-## Verbundene Konzepte
-
-- [[social-sciences-education]] — die Cluster-Seite, deren Psychologie-Abschnitt dieser Band mit Praxis auf Kursebene füllt
-- [[ai-literacy]] — die entwicklungsorientierte Rahmung, die die Herausgeber der Sammlung geben
-- [[academic-integrity]] — der Gegenstand des Policy-Kapitels und der Grund, warum mehrere Kurskapitel Überprüfungsschritte einbauen

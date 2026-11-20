@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -69,26 +71,3 @@ ai_assist:
 **"도구를 포기한 학생은 동기가 부족했다."** 포기는 설계자가 측정하지 않은 상호작용 비용에 대한 사용자의 올바른 판단인 경우가 많습니다. 아무도 쓰지 않는 도구는 효과를 낼 수 없으므로, 포기율 자체가 교육적 결과입니다.
 
 **"사용성 시험은 학습 측정과 같다."** 둘은 다른 질문에 답하며 어느 쪽도 다른 쪽을 대신하지 못합니다. 실패 양상은 어느 한쪽을 도입에 충분한 근거로 취급하는 것입니다.
-
-## 연결된 개념
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## 연결된 문서
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM 기반 이야기하는 휴머노이드에 관한 사용성 연구
-- [[rhaimi-productivemath-2025]] — ProductiveMath: 생성형 AI 앱의 사용성
-- [[supplynet-visual-exploratory-learning]] — SupplyNet 사용자 연구
-- [[anvil-ai-educational-animations]] — AI가 생성한 교육 애니메이션의 사용성
-- [[code-anchor-multi-view-visualization]] — 다중 뷰 코드 시각화에 관한 생각 말하기 연구
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN 틀과 생각 말하기 평가
-- [[feedback-futures-genai]] — 학습자가 AI가 생성한 피드백을 처리하는 방식
-- [[llm-chatbots-cs-multiple-choice]] — 컴퓨터과학 객관식 문항을 위한 LLM 챗봇
-- [[conversational-ai-agents-umbrella-review-2026]] — 대화형 AI 에이전트에 관한 엄브렐라 검토

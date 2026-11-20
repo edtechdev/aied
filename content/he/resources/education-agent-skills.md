@@ -34,7 +34,7 @@ ai_assist:
 translation_of: resources/education-agent-skills
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
-
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -50,8 +50,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 המיומנויות החינוכיות, התיעוד וחומרי תוכנית הלימודים ברישיון CC BY-SA 4.0, כך ששימוש חוזר והתאמה פתוחים אך יצירות נגזרות חייבות לשאת את אותו הרישיון. שני פרטים תפעוליים חשובים אם אתם פורסים אותה. נקודת הקצה המארחת של MCP דורשת טוקנים ואינה פתוחה לכולם, וכיוון שהשרת מגיש תמונת-מצב שהועמדה במקום קבצי SKILL.md, מיומנות שתוסיפו בלי לבנות מחדש ולהצהיר על החבילה לא תופיע בשרת החי גם לאחר פריסה מחדש. הספרייה נבנתה על ידי Gareth Manning, מחנך ומעצב תוכניות לימודים, ותנאי הרישיון חלים על התוכן החינוכי ספציפית.
-
-## מושגים קשורים
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

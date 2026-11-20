@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -68,26 +70,3 @@ Utafiti wa utekelezaji unashiriki mbinu za kukusanya data na [[qualitative-resea
 **"Wanafunzi wanaoacha zana walikosa motisha."** Kuacha mara nyingi ni usomaji sahihi wa mtumiaji wa gharama ya mwingiliano ambayo mbunifu hakupima. Kwa kuwa zana ambayo hakuna anayetumia haiwezi kuwa na athari, kiwango cha kuacha ni matokeo ya kielimu yenyewe.
 
 **"Upimaji wa utekelezaji ni sawa na kupima kujifunza."** Hujibu maswali tofauti na hakuna kimoja kinachochukua nafasi ya kingine; hali ya kushindwa ni kuchukulia kimoja wapo kuwa cha kutosha kwa kupitisha.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Makala Zilizounganishwa
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Somo la utekelezaji la robota ya hadithi ya binadamu inayoendeshwa na LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: utekelezaji wa programu ya AI ya kizalishaji
-- [[supplynet-visual-exploratory-learning]] — Somo la watumiaji la SupplyNet
-- [[anvil-ai-educational-animations]] — Utekelezaji wa uhuishaji wa kieledu uliotengenezwa na AI
-- [[code-anchor-multi-view-visualization]] — Somo la kuzungumza-kwa sauti la mwonekano wa msimbo wa maonyesho mengi
-- [[learn-framework-responsible-genai-pbl-2026]] — Mfumo wa LEARN na tathmini ya kuzungumza-kwa sauti
-- [[feedback-futures-genai]] — Jinsi wanafunzi wanavyosindikiza maoni yaliyotolewa na AI
-- [[llm-chatbots-cs-multiple-choice]] — Chatbot za LLM kwa maswali ya chaguo-nyingi za CS
-- [[conversational-ai-agents-umbrella-review-2026]] — Mapitio ya mwanya ya mawakala wa mazungumzo ya AI

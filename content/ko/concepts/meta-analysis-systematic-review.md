@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -59,7 +61,6 @@ ai_assist:
 **고찰이 빈도를 보고할 때는 연구 수가 아니라 기록 수를 세십시오.** 21,720건의 기록에서 31편의 연구에 도달한 범위 고찰에서 다섯 편의 연구가 192건의 실천 기록 가운데 62건을 제공했으므로, 그 백분율은 독립적 관찰이나 유병률이 아니라 추출된 자료를 서술합니다([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 - **조절 변수와 조건을 규명한다** — 메타분석은 효과가 [[learners|학습자 인구]], 영역, AI 시스템 유형, 연구 설계에 따라 다른지를 검정하여, 어떤 도구가 누구에게 어떤 조건에서 작동하는지를 드러냅니다. 그러나 조절 변수는 그것 뒤의 연구만큼만 신뢰할 만합니다. [[genai-writing-performance-meta-analysis-2026|2026년 생성형 AI 지원 L2 쓰기에 관한 한 메타분석]]에서 방법론적 통제를 넘어선 조절 변수는 연구들의 편향 위험 분류 하나뿐이었으며, 하위집단 분석에서 유의미해 보였던 교수 모형 차이는 연구 질과 표본 크기가 들어오자 무너졌습니다. 교수법이 아니라 방법론적 질이 효과를 나르고 있었습니다. 따라서 겉보기 교수법적 조절 변수는 묶인 추정만큼 같은 시선을 받을 만합니다. 귀무 조절 변수는 거꾸로 같은 교훈을 나릅니다. [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|디지털·AI 기술의 외국어 기술에 관한 Chen과 Wei의 메타분석]](연구 40편, 참여자 3,367명, 묶인 g = 0.962)에서 살아남은 조절 변수는 연구 설계(준실험 g = 1.019 대 진실험 g = 0.474), 개입 기간, 도구 수였으며, 언어 기술 유형, 기술 유형, 교육 수준, 맥락, 표본 크기는 유의미한 집단 간 차이를 보이지 않아, 저자들이 효과가 기술 라벨이나 기술 범주에 돌릴 수 없다고 결론짓게 했습니다. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|K-12 AI 교육에 관한 Yu와 동료들의 메타분석]](연구 16편, 효과 크기 57개, g = 0.892)은 검정된 세 조절 변수(출판 출처, 출판 연도, 학교 수준)가 모두 귀무였음을 발견하고 잔차 이질성(I2 = 94.68%)을 이 분야가 [[ai-literacy]]를 어떻게 측정할 것인지에 전혀 합의하지 않았음을 보여 주는 증거로 읽었습니다. 조절 변수가 귀무로 돌아오고 이질성이 높게 남을 때, 종합의 결론은 종종 결과 구인이나 1차 연구 설계에 관해, 개입에 관해만큼이나 많이 말합니다.
 - **방법론적 질을 드러낸다** — 고찰은 이 분야가 검정력이 부족하고 전실험적이거나 준실험적인 설계와 즉각적인 사후 검사에 의존함을 늘 찾아내어 결론을 누그러뜨립니다.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) 실제로 무엇을 했는지의 박한 보고도 그 그림의 일부이며, 그것은 이후 어떤 종합이 말할 수 있는 것을 제한합니다. [[yalcin-genai-programming-education-systematic-review-2026|프로그래밍 교육에서의 생성형 AI에 관한 Yalcin과 동료들의 체계적 고찰]]은 46개 연구 중 26개에서 교수적 접근을 규명할 수 없었고, 46개 중 32개가 학회 논문집에 실렸으므로, 이 고찰은 말뭉치의 절반도 채 되지 않는 부분에 교수법을 부호화할 수 있었고 혼합된 영향 증거로 끝맺습니다(일부 연구는 시험과 코딩 수행의 향상을, 다른 연구는 교수 피드백에 비해 유의미한 차이 없음을 보였습니다). 종합은 자기 분야의 보고 습관을 물려받습니다.
-
 
 선별의 신뢰성은 구인에 따라 달라질 수 있습니다. 생성형 AI 123개 연구에 대한 PRISMA-ScR 범위 고찰에서, [[cognitive-offloading|오프로딩]]과 [[agency|학습자 주체성]]에 관해 제목/초록 합의(Fleiss' κ = 0.7103)가 전문 수준에서는 κ = 0.4884로 떨어졌으며, 저자들은 이를 넓은 생성형 AI 관련성과 그 메커니즘에 대한 실질적 관련성 사이의 해석적 경계에 돌립니다([[genai-cognitive-offloading-learner-agency-review-2026|Wang 외(2026)]]).
 
@@ -118,7 +119,6 @@ ai_assist:
 
 네 연구 메타분석은 같은 교훈을 소표본 쪽에서 보여 줍니다. [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor와 García Ortiz(2026)]]는 컴퓨팅 및 공학에서의 AI 기반 개인화 학습에 관한 네 개의 통제 연구에 걸쳐 학생 420명을 묶어 *g* = 1.01, 95% CI 0.33에서 1.68을 보고했습니다. 연구 수가 그렇게 적을 때 방어 가능한 보정인 Hartung-Knapp 조정은 구간을 −0.10에서 2.11로 넓혔고(*p* = .063), 따라서 묶인 추정치는 더 이상 효과 없음을 배제하지 못했습니다. *k* = 4에서는 출판 편향 검정을 아예 돌릴 수 없고, GRADE 확실성은 매우 낮음으로 평가되었습니다. 네 연구를 묶으면 아무리 커 보여도 채택 결정을 지탱할 수 없는 추정치가 나옵니다.
 
-
 **메타연구는 AIED 종합 기반이 현재 약하다고 경고한다.** 커지는 비판의 집합은 이 분야의 대표적인 AI 효과 크기 — 특히 초기 메타분석에서 나온 것 — 가 출판 편향, 구인의 비일관성, 방법론적 지름길에 의해 부풀려져 있음을 문서화합니다. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš 외(2026)]]는 67개 메타분석의 효과 크기 1,840개를 메타분석하여, 출판 편향 보정된 AI 효과가 보고된 크기의 대략 3분의 1(SMD ≈ 0.196)임을 추정하며, 극단적 이질성을 보입니다. [[oneill-presumed-effective-meta-analysis-2026|O'Neill(2026)]]는 영향력 있는 AIED 메타분석 14개를 감사하여, 일관된 구인, 타당한 출판 편향 평가, 해결된 이질성을 가진 것이 하나도 없었고, 12개가 종속 효과 크기를 독립적인 것처럼 다루었음을 발견합니다. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich 외(2025)]]는 대부분의 1차 비교가 잘 정의된 처치, 대조, 학습 측정을 결여하고 있음을 보여 줍니다. 이는 독자들이 종합의 질이 향상될 때까지 묶인 AIED 효과 크기를 상한으로 다루어야 함을 뜻합니다. 전체 분석은 [[limitations-in-aied-research|AIED 연구의 한계]]를 참고하십시오.
 - **보고 기준이 자동화의 속도를 따라가지 못했다.** PRISMA-LLM은 SciLitBench, 주석 14,726개가 달린 고찰 자동화 논문 888편의 말뭉치를 분석하여, 월 4.7%에 가까운 성장률과 함께 책임성 공백을 문서화합니다. 2023년 이래로 소프트웨어와 제품 논문의 38.0%가 평가 없음으로 보고된 반면 LLM 논문은 9.3%였고, 긍정 결과만 보고한 LLM 평가의 52%가 충족되지 않은 높은 기준의 우려를 보고했습니다. LLM과 소프트웨어 파이프라인이 이제 증거 기반을 바꿀 수 있는 단계에 참여하므로, 이 틀은 고찰 작업 흐름의 어디에서 자동화가 운용되었는지, 무엇이 평가되었는지, 어떤 한계가 점검되었는지의 공개를 요구합니다. 이는 [[limitations-in-aied-research|AIED 고찰 비판]]이 학습 효과의 메타분석에 관해 문서화한 투명성 문제의 직접적 연장입니다. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
 - **의도적으로 풀링하지 않은 고찰의 실례.** [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou and Kameas (2026)]]는 AI 지원 [[learning-design|교수설계]]에 관한 78편의 연구(2022-2026)를 종합하고, 코퍼스가 실천가 보고와 소표본 사례 연구, 혼합방법 설계를 섞고 있어 양적 종합이 **부적절**하다고 판단했습니다. 풀링된 효과를 억지로 만들지 않고 질적 주제 종합을 수행했으며, 증거의 강도는 가정이 아니라 전 과정에서 가중된다는 점을 명시했습니다. 코퍼스가 풀링을 지지하지 못할 때 풀링을 거부하는 것은 고찰의 방법론적 결함이 아니라 분야에 관한 발견입니다.
@@ -156,52 +156,3 @@ ai_assist:
 - **"유의한 풀링 효과는 개입이 작동한다는 뜻이다."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu 등이 수행한 K-12 AI 교육 메타분석]](**16개 연구, 57개 효과 크기, g = 0.892**)은 큰 효과를 발견했지만 저자들도 그것을 한정합니다. 16개 연구는 좁은 기반이며, 그 기반 위의 큰 효과는 넓은 구간을 가진 가설입니다.
 - **"고찰자들은 기본적으로 분야의 질을 정확히 보고한다."** 고찰의 임무에는 **방법론적 질을 드러내는 일**이 포함되며, 고찰은 **이 분야가 검정력이 부족하고 전실험적이거나 준실험적인 설계와 즉각적 사후 검사에 의존한다**는 것을 늘 발견합니다. 풀링된 수치는 그 취약점을 물려받습니다.
 - **"풀링은 언제나 증거의 무게를 높인다."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen과 Wei의 메타분석]]은 외국어 기술에 관한 **40개 연구**를 매우 다른 기술들에 걸쳐 풀링하며, 그 평균은 포함된 어떤 특정 개입도 서술하지 않습니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI 지원 교육 연구
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## 연결된 문서
-- [[edurev-100741-tpack-genai-review]] — TPACK 관점에서 본 학생 학습에서의 생성형 AI에 관한 체계적 고찰
-- [[genai-meta-analysis-programming-learning]] — 프로그래밍에서의 생성형 AI가 생산성과 학습에 미치는 영향에 관한 메타분석
-- [[ai-vocational-education-training-review]] — 직업 교육과 훈련에서의 AI에 관한 첫 체계적 고찰
-- [[ai-collaborative-learning-systematic-review]] — AI 기반 협력 학습에 관한 PRISMA 체계적 고찰
-- [[genai-higher-education-systematic-review-2026]] — 고등 교육에서의 생성형 AI에 관한 체계적 고찰
-- [[zerkouk-comprehensive-review-its-2025]] — 지능형 튜터링 시스템의 종합 체계적 고찰
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT와 비판적·창의적 사고에 관한 체계적 고찰
-- [[stanford-evidence-base-ai-k12-2026]] — K-12에서의 AI에 관한 증거 기반
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 리터러시 개입 효과에 관한 메타분석
-- [[genai-writing-performance-meta-analysis-2026]] — 생성형 AI 지원 L2 쓰기에 관한 메타분석: 극단적 이질성과 질에 의해 움직이는 조절 변수에 의해 훼손되는 큰 묶인 효과
-- [[ai-literacy-heptagon-2026]] — AI 리터러시 차원의 통합적 문헌 고찰(PRISMA 안내)
-- [[genai-scenario-based-healthcare-education-2026]] — 시나리오 기반 보건 의료 교육에서의 생성형 AI에 관한 체계적 고찰(Neto 외 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS + SAMR로 22개 AI 통합 연구를 분류하는 매핑 고찰, 대부분이 대체/증강에 머묾
-- [[agarwal-ethical-values-norms-aied-2026]] — 교육에서의 AI를 위한 윤리적 가치와 규범
-- [[li-language-educators-genai-review-2026]] — 생성형 AI와 함께하는 언어 교육자의 실천과 개발
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 교육에서 난독증이 있는 사람을 돕는 AI
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 교육에서의 ChatGPT: 원인을 찾는 효과(언론 비교 비판)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 메타-메타분석: 편향 보정된 AI 효과가 보고된 크기의 약 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정된 것들: AIED 메타분석 14개의 법의학적 감사
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI 기반 교수에서의 교사 개입: 체계적 고찰
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — 외국어 기술을 위한 디지털·AI 도구에 관한 메타분석: 준실험적 효과 추정을 두 배가 넘게 만드는 설계 조절 변수
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 고등 교육에서의 생성형 AI에 관한 메타분석: 기간이 자람에 따라 붕괴하는 단기 개입 효과
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI 교육에 관한 메타분석: 귀무 조절 변수와 측정에 돌려진 이질성을 지닌 큰 효과
-- [[yalcin-genai-programming-education-systematic-review-2026]] — 프로그래밍 교육에서의 생성형 AI에 관한 체계적 고찰: 46개 연구 중 26개의 박한 교수 보고
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 고등 교육에서 생성형 AI, 인지적 오프로딩, 학습자 주체성을 지도로 만드는 123연구 범위 고찰
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — 생성형 인공지능이 학습, 인지, 언어 결과에 미치는 효과에 관한 메타분석
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 학술 작문에서 생성형 AI의 책임 있는 학생 사용: 경계, 교육적 접근, 증거 격차에 관한 범위 검토
-- [[kim-ai-embodied-learning-review-2026]] — AI와 체화 학습 고찰: 질 평가 뒤 재계산이 남기는 것
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 개인화 학습 메타분석: 네 연구, 420명, GRADE 매우 낮음

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -150,66 +152,3 @@ ai_assist:
 - परिणाम-माप को पूर्व-पंजीकृत करें और बताएँ कि वह AI-अनुमत है या बिना-सहायता। अकेले इस चयन पर निष्कर्ष की दिशा बदल सकती है।
 - प्रभाव आकार किसी नामित तुलना के विरुद्ध रिपोर्ट करें, अमूर्त रूप में "पारंपरिक दृष्टिकोणों" के विरुद्ध नहीं। विश्व बैंक का परिणाम केवल इसलिए व्याख्यायोग्य है क्योंकि वह अपनी तुलना-श्रेणी का नाम लेता है।
 - प्रदर्शन-फुलाव और अधिगम-विस्थापन को स्पष्ट रूप से अलग करें, क्योंकि दोनों भिन्न उपचार दर्शाते हैं: कार्य का पुनर्डिज़ाइन बनाम पुनःशिक्षण।
-
-## संबंधित अवधारणाएँ
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — AIEd में सिद्धांत विकास
-- [[self-report-measures]]
-- [[research-methods-aied]] — AIED अनुसंधान कार्यपद्धियाँ (DBR अनुभाग)
-- [[social-emotional-learning]] — सामाजिक-भावनात्मक अधिगम
-- [[student-support-and-success]] — प्रशासनिक परिणाम (कार्य पूर्णता, क्रेडिट, निरंतरता, स्नातक) जो अधिगम लाभ से भिन्न हैं
-
-## संबंधित लेख
-
-- [[contractor-learning-impact-generative-ai-2026]] — तैयार चैटबॉट पहुँच ने असहायक परीक्षण अंक बढ़ाए जो एक सप्ताह बने रहे (Contractor और Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI ट्यूटरिंग इन-क्लास सक्रिय अधिगम से बेहतर: एक मौलिक अनुसंधान-आधारित डिज़ाइन पेश करने वाला RCT एक प्रामाणिक शैक्षणिक सेटिंग में (Kestin एट अल. 2025)
-- [[genai-performance-vs-learning]] — सहायक प्रदर्शन अधिगम परिणाम क्यों नहीं है (Yan एट अल. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL के साथ आभासी ट्यूटरिंग: स्वीकृति और अधिगम में एक प्रयोग
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ट्यूटरिंग को उत्पादक बनाना: निपुणता-आधारित गणित अभ्यास
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — वन क्लिक अवे: एक दो-वर्षीय विद्यालय प्रयोग में Khanmigo
-- [[ai-literacy-assessment-misalignment]] — AI साक्षरता मूल्यांकन: स्व-रिपोर्ट बनाम प्रदर्शन असंगति
-- [[generative-ai-reduced-study-time-math]] — तेज़ पूर्णता, कम अधिगम: जनरेटिव AI ने गणित समस्याओं पर अध्ययन समय और उनसे बनने वाले ज्ञान को कम किया
-- [[genai-meta-analysis-programming-learning]] — प्रोग्रामिंग में जनरेटिव AI के उत्पादकता और अधिगम पर प्रभाव का एक मेटा-विश्लेषण
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI साक्षरता हस्तक्षेप प्रभावों का मेटा-विश्लेषण
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT सहायता मानव ट्यूटर सहायता के बराबर अधिगम लाभ उत्पन्न करती है
-- [[generative-ai-guardrails-harm-learning]] — बिना गार्डरेल जनरेटिव AI सीखने को नुकसान पहुँचा सकता है (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — अनुपस्थित संज्ञानात्मक आधार: AI-मूल महाविद्यालय छात्रों की शैक्षणिक स्व-मूल्यांकन में एक संरचनात्मक अंतराल का सिद्धांत
-- [[oecd-digital-education-outlook-2026]] — OECD डिजिटल एजुकेशन आउटलुक 2026
-- [[ai-changing-teaching-workflows]] — AI शिक्षण कार्यप्रवाहों को कैसे बदल रहा है
-- [[robot-assisted-language-learning-meta-analysis-2026]] — AI-उन्नत व्यक्तिकृत रोबोट-सहायक भाषा सीखने का मेटा-विश्लेषण
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — तत्क्षण प्रदर्शन बनाम स्थायी अधिगम का अंतर
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — जनरेटिव AI अधिगम दंड: गृहकार्य बाह्यीकरण सीखने को नुकसान पहुँचाता है
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI-सहायक सहयोगात्मक अधिगम मॉडल DBR (आलोचनात्मक सोच +24.1%, समस्या-समाधान लाभ)
-- [[stanford-evidence-base-ai-k12-2026]] — ट्यूटरिंग-विशिष्ट बनाम सामान्य AI
-- [[jost-llm-programming-education-learning-outcomes]] — कोडिंग में LLM निर्भरता और अंक (नकारात्मक सहसंबंध)
-- [[genai-can-harm-teaching-rct-2026]] — जनरेटिव AI शिक्षण को नुकसान पहुँचा सकता है (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI और उच्च-स्तरीय सोच मेटा-विश्लेषण
-- [[mujib-ai-ibl-creative-math-2026]] — AI-समर्थित IBL और रचनात्मक गणित प्रदर्शन
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-उन्नत PBL स्कैफ़ोल्डिंग लाभ
-- [[ccct-cooperative-learning-technique]] — AI-डिज़ाइन किया गया सहयोगी अधिगम तकनीक
-- [[scaffolding-srl-feedback-genai-human-peers]] — स्कैफ़ोल्ड किया गया स्व-नियंत्रित प्रतिपुष्टि लाभ
-- [[learner-ai-interaction-patterns-oop]] — OOP में अंतःक्रिया पैटर्न और अधिगम लाभ
-- [[ai-feedback-critical-thinking-writing-2026]] — लेखन में AI प्रतिपुष्टि और आलोचनात्मक सोच
-- [[pedagogy-ai-mistakes]] — AI गलतियों का शिक्षाशास्त्र: उच्च-स्तरीय सोच को बढ़ावा देना (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — संगणकीय सोच स्तर और AI कोडिंग सहायक (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — मेटा-विश्लेषण: अनुकूली/AI EdTech अधिगम ~0.125 sd बढ़ाता है
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — शिक्षा में ChatGPT: कारण की खोज में एक प्रभाव (लाभ मापदंडों की मीडिया-तुलना आलोचना)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — मेटा-मेटा-विश्लेषण: पूर्वाग्रह-समायोजित AI अधिगम-लाभ प्रभाव रिपोर्ट आकार का ~1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — अनुमानित प्रभावी: दोषपूर्ण AIED मेटा-विश्लेषणों का ऑडिट
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — एक STEM संश्लेषण जिसने निर्भर प्रभाव आकारों को नियंत्रित किया और प्रकाशन पूर्वाग्रह का परीक्षण किया, लेकिन कोई गुणवत्ता समीक्षा नहीं लागू की (Doğan एट अल. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — 45 AI-in-education मेटा-विश्लेषणों का द्वितीय-क्रम मेटा-विश्लेषण, ओवरलैप-सुधारित प्रभावों और संश्लेषण परत की गुणवत्ता समीक्षा के साथ (Emslander एट अल. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI और मानव ट्यूटरिंग समान GRE अधिगम लाभ देती है
-- [[epistemological-audit-genai-meta-analyses-2026]] — जनरेटिव AI शैक्षणिक शोध में प्रारंभिक साक्ष्य संश्लेषणों का एक महत्वपूर्ण ज्ञान-बौद्धिक ऑडिट (Fütterer et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — शिक्षक-मध्यस्थ AI में तैयारी ने लाभ बदले, उपकरण ने नहीं

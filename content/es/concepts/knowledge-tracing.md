@@ -32,6 +32,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -115,39 +117,3 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 **«El mejor modelo en un conjunto de datos es el mejor modelo para su curso.»** La exactitud depende del entorno. OKT alcanzó un **89,81% de AUC** con datos reales de LMS de un programa de [[engineering-education|ingeniería]] (2.416 estudiantes, 966 resultados), por encima de DKT, DKVMN, EKT y SimpleKT, mientras que en ASSISTments solo dio resultados competitivos. La misma arquitectura que gana en una familia de conjuntos de datos es discreta en otra, de modo que un AUC llamativo de otro contexto es evidencia débil sobre su estudiantado.
 
 **«El conocimiento persiste salvo que haya evidencia de olvido.»** El olvido es el valor por defecto que merece modelarse. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a lo largo de una secuencia de varias sesiones y hallaron que el ajuste del modelo cambia cuando se representa la retención, y que la forma de *validar* estos modelos difiere de la forma de *desplegarlos*.
-
-## Conceptos conectados
-
-- [[learners]] — Learners: el paraguas de los conceptos del lado de quien aprende
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — estimación detallada del dominio que alimenta las decisiones de apoyo
-
-## Artículos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — La sobregeneralización engañosa: la adaptación basada en el dominio puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de una acción (An, McLaren y Stamper, 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Seguimiento del conocimiento basado en resultados con mapeo de afinidad
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — seguimiento fundamentado semánticamente con estados calibrados por componente de conocimiento, usado como entorno de aprendizaje por refuerzo para la recomendación
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
-- [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava, 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de modelos profundos entrenados con 8 estudiantes, a una fracción del coste (Lee y Park, 2026)
-- [[knowledge-tracing-compression-math-2026]] — Compresión del historial del estudiantado en el seguimiento del conocimiento en matemáticas

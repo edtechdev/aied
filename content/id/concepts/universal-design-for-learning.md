@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -92,33 +94,3 @@ UDL mengubah "perbaiki pembelajar" menjadi "perbaiki desain". Bagi instruktur da
 **"UDL berarti merancang untuk siswa rata-rata dengan lebih cermat."** Klaim intinya justru sebaliknya: keragaman pembelajar adalah norma, bukan pengecualian, sehingga desain menyediakan banyak jalur sejak awal alih-alih memperbaiki satu jalur bagi mereka yang kesulitan. Penambalan belakangan adalah hal yang UDL ada untuk menggantikan, dan satu jalur yang disetel baik tetaplah satu jalur.
 
 **"AI membuat UDL otomatis, karena dapat menghasilkan format alternatif."** AI membuat prinsip representasi menjadi murah dan membiarkan keterlibatan serta ekspresi tak tersentuh. Mengubah teks menjadi audio menangani satu dari tiga sarana; sebuah mata kuliah kini dapat sepenuhnya multiformat dan tetap mewajibkan setiap siswa menunjukkan pembelajaran dengan satu cara yang sama.
-
-## Konsep terkait
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Artikel terkait
-- [[seung-basham-cognitive-offloading-swld-2026]] — Pengalihan beban kognitif GenAI bagi siswa dengan disabilitas belajar
-- [[authentic-products-authenticated-processes-2026]] — Dari produk autentik ke proses terautentikasi
-- [[tactile-statistical-graphs-accessibility]] — Grafik statistik taktil untuk aksesibilitas
-- [[neurodivergent-computing-students]] — Mahasiswa komputasi neurodivergen
-- [[ai-learning-tools-engineering-education-needs]] — Merancang alat belajar AI yang sadar kebutuhan dan atensi
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: tinjauan pelingkupan teknologi asistif digital bagi mahasiswa neurodivergen di pendidikan tinggi
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: menelusuri persepsi fakultas tentang desain kursus aksesibel di dunia ChatGPT
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Kecerdasan artifisial dan desain universal untuk pembelajaran di institusi pendidikan tinggi Kuwait: menuju kerangka pendidikan inklusif yang dimungkinkan AI

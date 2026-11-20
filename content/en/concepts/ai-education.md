@@ -14,6 +14,8 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 > **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the field's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, the [[learning-sciences|learning sciences]] — the empirical research field that asks whether a learner changed rather than only whether a tool performed — computer science, [[educational-policy-ai|educational policy]], [[ethics|ethics]], and [[equity-in-ai-education|equity]]. It is an introduction to the field and a map to every concept within it.
@@ -171,57 +173,3 @@ AI in education connects to every other concept in the field, since each of them
 **"Because AI is general-purpose, a finding anywhere applies everywhere."** Generality of the technology does not create generality of the evidence. The discipline, level and context strands exist because the same tool behaves differently across them, and an unchanged finding carried across a boundary is an extrapolation.
 
 **"The field's maturity can be read off its publication volume."** Volume and maturity diverge; the research-methods strand documents recurring design weaknesses that volume does not fix, and frameworks multiply faster than they are tested.
-
-## Connected Concepts
-- [[primary-education]] — AI in primary schooling
-- [[secondary-education]] — AI in middle and high school
-- [[undergraduate-education]] — AI in bachelor's-level study
-- [[graduate-education]] — AI in master's and doctoral study
-- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
-- [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
-- [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
-- [[human-ai-collaboration]] — umbrella: how people and AI work together
-- [[pedagogy]] — umbrella: teaching methods and strategies
-- [[case-based-learning]] — Case method, case discussion, and contrasting cases
-- [[metaphors-and-analogies]] — How metaphor shapes AI understanding and how analogy supports instruction
-- [[learning-theories]] — umbrella: how learning happens
-- [[ai-technologies]] — umbrella: models, techniques, and systems
-- [[discipline-specific-aied]] — umbrella: AI across subject areas and levels
-- [[assessment]] — umbrella: how AI assesses learners and reshapes validity
-- [[feedback]] — umbrella: how feedback is generated, delivered, and used
-- [[stakeholders]] — umbrella: who the actors are
-- [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
-- [[ai-ed-evaluation]] — umbrella: how we know whether AI works
-- [[research-methods-aied]] — umbrella: efficacy research methods
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[governance]] — umbrella: the institutional and regulatory layer
-- [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
-- [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion
-- [[learning-sciences]] — the empirical field behind AIED
-- [[ethics]] — the ethical dimensions of AI in education
-- [[misconceptions]] — the mental models people bring to AI
-- [[interpreting-and-applying-aied-research]] — reading a study, and carrying a finding into practice
-- [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
-- [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
-- [[history-of-aied]] — how the field evolved
-- [[philosophy-of-ai-in-education]] — the philosophical foundations
-- [[theories-and-frameworks]] — the map of theory and framework nodes
-- [[theory-development-aied]] — building and revising theory
-- [[sensor-and-gaze-analytics]] — umbrella: sensing learners through gaze, EEG and wearable signals
-- [[ai-avatars-and-synthetic-instructors]] — umbrella: synthetic humans teaching, tutoring, simulating and assessing
-- [[civic-and-political-education]] — subject area: literacy for public life, with a thin evidence base
-
-## Connected Articles
-
-Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: 52 strong causal studies drawn from 1,686 repository papers (November 2026 update)
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 secondary studies; gains where students judge output, not where the tool produces the work
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 master's students; readiness reached self-efficacy through supervisor support
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61-source review of doctoral supervision ethics, feedback and governance
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Single-group graduate seminar; self-directed learning gains without an unaided test
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 students; undergraduate–graduate gap in ethics and self-regulation

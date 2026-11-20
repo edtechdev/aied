@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -143,73 +145,3 @@ Bildungsmessung ist das Fundament für [[item-response-theory]], [[assessment-va
 - **„Modelle können die Aufgabenschwierigkeit schätzen."** Vier Frontier-Modelle wurden gegen **IRT-Ground-Truth bei 2.548 Mathematikaufgaben** bewertet: Sie erreichen **68,6 % bei der relativen Schwierigkeit**, fallen aber bei der absoluten Kalibrierung **unter den Zufall**. Ranking und Kalibrierung sind getrennte Fähigkeiten, und die zweite ist das, was ein Assessment-Design braucht.
 - **„Ein taxonomisches Label sagt voraus, wie schwer eine Aufgabe ist."** Über **265 Mathematikaufgaben** erklärte die beabsichtigte Bloom-Stufe **unter 5 % der Varianz in der Schwierigkeit**. Eine Aufgabe nach Bloom-Stufe zu labeln sagt fast nichts über ihre empirische Schwierigkeit.
 - **„Die Qualität einer Aufgabe wird an ihrem Wortlaut beurteilt."** **Beurteilen Sie generierte Aufgaben am Lösungsweg, nicht am Wortlaut**: die Kodierung des **verifizierten Argumentationsbaums** jeder Aufgabe hob die Leistung um einen Vorsprung über die zweitbeste Methode. Die Argumentationsstruktur trug das Signal, nicht der Oberflächentext.
-
-## Verbundene Konzepte
-
-- [[interpreting-and-applying-aied-research]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
-- [[automated-assessment]]
-- [[limitations-in-aied-research]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[self-efficacy]]
-- [[benchmark]]
-- [[self-report-measures]]
-- [[motivation]]
-- [[student-engagement]]
-
-## Verbundene Artikel
-
-- [[guo-ai-literacy-developmental-paces-2026]] — Neun validierte AI-Literacy-Instrumente für K–12, drei Wissenstests nach IRT und die übrigen Selbstberichtsfragebögen nach CTT, keines davon erfasst Prozesse (Guo, Ali & Wong, 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Framework für die KI-gestützte Bewertung von Schreibtexten in groß angelegten Schreibprüfungen
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — Kausale Modellierung von Förderinterventionen für die Kompetenzbewertung von Studierenden
-- [[assessment-latent-structure-human-llm-2026]] — Messen Assessment-Instrumente bei Menschen und LLMs dasselbe? (Strugatski et al. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validierter GenAI-Literacy-Test (Jin et al. 2025)
-- [[icap-cognitive-engagement-llm-agents]] — Messung des kognitiven Engagements mit einem erweiterten ICAP-Framework
-- [[roe-assessment-twins-2026]] — Assessment-Twins zur Stärkung der Assessment-Validität unter GenAI-Bedingungen
-- [[ai-literacy-heptagon-2026]] — Das AI-Literacy-Heptagon
-- [[ai-literacy-assessment-misalignment]] — Diskrepanz zwischen selbsteingeschätzter und leistungsbasierter KI-Kompetenz
-- [[teacher-education-ai-literacy-sdt-2026]] — KI-Kompetenz von Lehrkräften im Rahmen der Selbstbestimmungstheorie
-- [[acceptance-ai-english-tools-2026]] — KI-Akzeptanzmaße für Englisch-Lerntools
-- [[llm-difficulty-calibration-programming-exams-2026]] — Von evaluierten Modellen zu Bewertungshilfen
-- [[llm-item-difficulty-prediction]] — Kognitive Bewertung der LLM-Vorhersage von Item-Schwierigkeiten
-- [[multimodal-item-parameter-estimation-2026]] — Multimodale Item-Parameter-Schätzung
-- [[ai-scoring-language-bias-physics]] — KI-Bewertung und sprachliche Verzerrung in der Physik
-- [[ai-writes-code-student-writes-model-2026]] — Modell-Autorschaft: Theorie und Messung für das Lernen durch Konstruktion mit GenAI
-- [[assessing-student-drive-framework-2025]] — DRIVE: Beurteilung des Lernens durch GenAI-Interaktion (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — Thematischer Überblick über ein Jahrzehnt KI in der Bildungsmessung
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Fragebogen zur Nutzung generativer KI durch Lehrkräfte (Pérez-Montesdeoca et al. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML-gestützte personalisierte Suche nach neuronalen kognitiven Architekturen für Lernendenprofile
-- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Itemschwierigkeit mithilfe von LLMs und baumbasiertem ML
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Split-Half-Validierung mittels EFA/CFA mit Invarianz-, HTMT- und DIF-Prüfungen, einschließlich einer ehrlichen Darstellung der Konstruktüberlappung zwischen Spielfreude und Nutzungsabsicht
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Prozessbasierte Qualitätsbewertung von Mathematik-Items
-- [[competent-generative-ai-use-measures-review-2026]] — Jenseits von AI Literacy: Eine strukturierte Übersichtsarbeit und explorative Metaanalyse von Messinstrumenten für die kompetente Nutzung generativer KI
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesianische Konsenskalibrierung: Divide-and-Conquer-Rekalibrierung einer sich kontinuierlich weiterentwickelnden IRT-Itembank (Jewsbury et al. 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Eingrenzung der Behauptung zur Lernwirkung des AI-Tutoring-Pilotprojekts in El Salvador (Restrepo Morales et al. 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wissen, wann Vertrauen angebracht ist: Selbstvertrauen des Modells, probabilistisches Scoring und Ensembles als Hebel für die Bewertungsreliabilität
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Ein validierter Selbstbeurteilungsfragebogen mit 15 Items zur AI-Literacy in der oberen Primarstufe (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematische Bewertung von 33 Instrumenten zur Erfassung der AI-Literacy von Lehrkräften anhand von Qualitätsdomänen nach COSMIN-Vorbild (Zainal et al. 2026)
-- [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy im Vergleich zwischen Psychologiestudierenden und großen Sprachmodellen
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI-gestütztes und menschliches Tutoring erzielen gleichwertige Lernzuwächse beim GRE
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertionsbasierte Schemata für die auditierbare Kodierung von Bildungsdialogen
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Fidelitätsmetriken übersehen: Eine strukturelle Prüfung synthetischer Bildungsdaten
-
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Eine AI-Empathie-Skala mit 42 Items, deren sechs Faktoren die sechs intendierten Subfaktoren nicht reproduzierten
-- [[genai-srl-l2-writing-scale-2026]] — Eine sechsdimensionale GenAI-SRL-Skala für das Schreiben in der L2; eine mittels Ameisenalgorithmus optimierte Kurzform mit 12 Items bildet die vollständige Skala ab (r = 0,910–0,944), verengt jedoch die inhaltliche Abdeckung
-- [[bloom-taxonomy-llm-item-classification-2026]] — Prädizieren kognitive Klassifikationen das empirische Itemverhalten? Abgleich der Bloomschen Taxonomie mit den psychometrischen Eigenschaften national zentral gestellter Mathematik-Items in den Klassenstufen 4–12
-- [[llm-benchmark-secondary-science-topics-2026]] — Die Messqualität eines synthetischen Benchmarks hängt von seiner Generierungspipeline ab
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Schwierigkeit ohne Trennschärfe
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Paare mit demselben Konstrukt stimmen in 41,2 % der Fälle nicht überein, und Performanzmaße benötigen ein eigenes Validitätsargument (Fan et al. 2026)
-- [[chang-ai-cognitive-offloading-scale-2026]] — Validierung der AI Cognitive Offloading Scale, samt der Validitätsprüfungen, die sie auslässt
-- [[tassilova-ai-anxiety-scale-russian-2026]] — Psychometrische Eigenschaften der russischen Version der Skala zur Angst vor künstlicher Intelligenz: Dimensionalität, Messinvarianz und personenzentrierte Profile

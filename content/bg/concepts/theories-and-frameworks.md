@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -126,31 +128,3 @@ ai_assist:
 **„Теориите за ученето, моделите на обучаемия и рамките за приемане са взаимозаменяеми лещи.“** Те отговарят на различни въпроси — как се случва ученето, какво е състоянието на обучаемия и защо една практика се разпространява — и видовете им доказателства се различават съответно. Изборът на грешен слой произвежда изследване, което измерва правилната променлива срещу погрешното предсказание, което се чете като нулев резултат, когато е категорийна грешка.
 
 **„Повече рамки означава по-зряла област.“** Създадените за ерата на AI рамки се натрупват по-бързо, отколкото се проверяват, а натрупване без фалсификация е симптом, а не напредък. Зрелостта се проявява в разрешаване на конкурентни предсказания, а не в растеж на речника.
-
-## Свързани концепции
-
-- [[theory-development-aied]] — изграждане и преработване на теория в областта
-- [[philosophy-of-ai-in-education]] — нормативният и концептуален слой
-- [[learning-theories]] — зоновата концепция за теориите за ученето
-- [[learning-sciences]] — съседната област, от която е заимствана по-голямата част от теорията
-- [[limitations-in-aied-research]] — какво може и какво не може да подкрепи доказателствената база
-- [[tpack]] — рамка за знанието на учителя
-- [[technology-acceptance-model]] — рамки за приемане
-- [[item-response-theory]] — модел за измерване
-- [[universal-design-for-learning]] — дизайнерска рамка
-- [[research-methods-aied]] — как теорията се проверява
-
-## Свързани статии
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Емоционалните възможности, предложени като четвърта категория в таксономия на възможностите
-- [[ai-game-based-learning-systematic-review-2026]] — Подравняването механизъм–теория, а не алгоритмичната изтънченост, е движело ефективността в 55 изследвания за учене чрез игри с AI
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — четири десетилетия AIED през рамката AI×Ed
-- [[educating-minds-generative-ai-2026]] — теоретично наситена синтеза на генеративния AI и ученето
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — теория на дейността, приложена към професионалното развитие на учители
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — теория на дейността и приемането от учители
-- [[generativism-learning-theory]] — теория за ученето, предложена за ерата на генеративния AI
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — към теория на епистемичната съвместна самостоятелност
-- [[absent-cognitive-baseline-2026]] — теоретизиране на структурен разрив в самооценката на родените с AI студенти
-- [[yan-agentivism-learning-theory-ai-2026]] — теория за ученето от среден обхват за взаимодействието човек–AI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — развитие на инструменти в млад конструкт
-- [[mishra-control-vs-agency-history-2025]] — основното напрежение контрол срещу самостоятелност в областта

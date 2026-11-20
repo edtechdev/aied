@@ -26,7 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,7 +69,6 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 
 **La résistance à la machine a un coût en [[reading-education|lisibilité]].** Les superpositions de bandes ont le plus dégradé l'extraction (+35,9 % d'erreur sur les caractères, +38,3 % d'erreur sur les mots), mais quatre experts en typographie et en design ont jugé les bandes verticales lisibles, tandis que les bandes diagonales déformaient les lettres et étaient jugées illisibles, et la variation extrême d'opacité n'aidait qu'à des intensités qui nuisaient aussi à la lisibilité humaine ([[airri-machine-resistant-reading-interface-2026|Salaun et al. (2026)]]).
 
-
 **L'IA et la dyslexie : détection, accompagnement et [[personalized-learning|apprentissage personnalisé]].** Une [[meta-analysis-systematic-review|revue systématique]] interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, conduite selon PRISMA, 2018–2024, n=72) constate que l'IA accompagne les élèves dyslexiques dans la détection, le soutien assistif et l'apprentissage personnalisé — mais que ces volets évoluent en parallèle plutôt qu'en intégration, davantage sous l'effet des opportunités technologiques que d'une théorie éducative consolidée. Les outils d'aide à l'éducation fondés sur l'apprentissage automatique couvrent cinq domaines (applications spécifiques, engagement, personnalisation, recommandation, soutien générique) tout en privilégiant la performance technique et la précision du classement, au détriment de la validité écologique et du déploiement pratique en classe. La recherche sur la détection (EEG, oculométrie, modèles d'apprentissage automatique) fait état d'un potentiel diagnostique prometteur pour une intervention précoce, mais exige souvent un équipement spécialisé et des environnements contrôlés, ce qui limite l'évolutivité et l'accessibilité dans les contextes scolaires ordinaires. Les défis ouverts incluent une validation expérimentale limitée, l'évolutivité, des préoccupations d'[[ethics|éthique]] et de [[privacy|confidentialité]] concernant les données sensibles des élèves, un soutien et une formation insuffisants des [[teacher-role|enseignants]], ainsi que des barrières linguistiques et culturelles (la plupart des recherches ciblent des populations anglophones) — ce qui confirme que l'accessibilité doit être validée, évolutive et fondée sur l'éthique, et pas seulement démontrée sur le plan technique.
 
 **Les limites de l'accessibilité seule.** Des **[[genai-minoritized-knowledges-disability|travaux critiques]]** avertissent qu'une IA entraînée sur des données anglophones et à dominante occidentale peut marginaliser les façons de connaître centrées sur le handicap. Des formats accessibles ne garantissent ni un enseignement inclusif ni un enseignement juste — ce qui confirme que l'accessibilité est nécessaire mais non suffisante, et qu'elle doit être reliée à l'[[equity-in-ai-education|équité dans l'IA éducative]].
@@ -91,41 +91,3 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 - **« Accessibilité signifie aménagement. »** Une revue de cadrage de **40 études** sur les technologies d'assistance numériques pour les étudiants neurodivergents a trouvé que **28 faisaient d'un diagnostic formel une condition de participation**. C'est un modèle conditionné au diagnostic, qui exclut tout apprenant ayant des besoins sans étiquette — l'inverse de la conception universelle.
 - **« Des effets moyens tranchent la question. »** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] méta-analysent **29 études** et trouvent un effet positif moyen, réel et qui ne dit rien sur quel outil pour quel besoin. La moyenne d'interventions hétérogènes n'est pas une recommandation.
 - **« La rapidité et l'immédiateté sont des commodités. »** Dans une étude de cas qualitative portant sur **21 étudiants de premier cycle malvoyants** de trois universités palestiniennes, les apprenants ont présenté l'immédiateté comme une **exigence d'accessibilité fondamentale plutôt qu'une commodité**. Ce qui ressemble de l'extérieur à un agrément est une condition préalable à la participation.
-
-## Concepts liés
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — parapluie plus large pour concevoir l'éducation face à la variabilité des apprenants
-- [[special-education]] — domaine pédagogique destiné aux apprenants présentant un handicap diagnostiqué
-- [[universal-design-for-learning]] — cadre de conception proactive
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — le casque, le mal des transports et l'accès aux appareils déterminent qui peut l'utiliser
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — la page parapluie sur les règles trop larges, les preuves défectueuses et les aménagements raisonnables
-- [[arts-and-media-education]]
-
-## Articles liés
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026) : 0% des 100 universités d'élite publient une politique d'accessibilité de l'IA tandis que 93% déploient des services de campus alimentés par l'IA
-- [[shin-ai-policies-sld-2026]] — Politiques en matière d'IA et aménagements pour les élèves présentant des troubles spécifiques de l'apprentissage
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Méta-analyse des interventions fondées sur l'IA auprès d'élèves handicapés
-- [[adhd-video-segmentation-computing-education]] — Vidéos segmentées par l'IA avec pauses fixes
-- [[text-simplification-its]] — Simplification de texte par LLM pour le tutorat intelligent
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour les apprenants sourds et malentendants
-- [[kutti-ai-voice-first-learning-companion]] — Compagnon d'apprentissage axé sur la voix pour les enfants déficients visuels
-- [[tactile-statistical-graphs-accessibility]] — Graphes statistiques tactiles imprimés en 3D
-- [[pepper-robot-sign-language-lis-2025]] — Robot Pepper prenant en charge la langue des signes
-- [[genai-minoritized-knowledges-disability]] — Perspective critique sur l'IA et les savoirs centrés sur le handicap
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcription de vidéos de physique mathématiquement accessible par Gemini et LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — IA générative d'assistance pour les apprenants déficients visuels
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue exploratoire des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
-- [[wright-transcription-not-generation-2026]] — La transcription n'est pas la génération : les interdictions d'IA trop larges et les outils d'assistance qu'elles capturent
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU : évaluer la description audio des cours universitaires selon les normes d'accessibilité, les métriques et les préférences des apprenants
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI : vers une interface de lecture lisible par l'humain et résistante aux machines

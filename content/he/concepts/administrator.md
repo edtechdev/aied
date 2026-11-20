@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -75,33 +77,3 @@ ai_assist:
 - שאלו על מה אפשר להעריך כלי לפני החתימה. אם החוזה אינו מתיר גישה לתוצאות, לנתוני ביקורת או לפרטי שימוש, המוסד רכש יכולת שאינו יכול להעריך.
 - סקרו שימוש בפועל ולא שימוש מאושר, מכיוון שהשניים מתפצלים והמספר הבלתי-מאושר הוא זה שנושא סיכון שאתם כבר חשופים אליו.
 - סדרו את המדיניות לפני הפריסה היכן שעדיין קיים מינוף. ברגע שהשימוש נפוץ, המדיניות הופכת למשא ומתן עם פרקטיקה שכבר התייצבה.
-
-## מושגים מקושרים
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — מטרייה: אנשים וקהלי יעד בחינוך בינה מלאכותית (לומדים, מורים, מתכננים, מנהלים, קובעי מדיניות)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — התהליכים המוסדיים שהמנהלים מנהלים: ייעוץ, פנייה, הפנייה והקצאה
-
-## מאמרים מקושרים
-
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — מסננת רכש בת ארבע שאלות, ממוסגרת כזכויות סטודנטים ולא כניהול סיכונים

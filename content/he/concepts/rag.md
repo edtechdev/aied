@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -65,32 +67,3 @@ RAG משרת תפקיד משלים ל[[llm|כוונון-מחדש]] של מודל
 - **"איכות האחזור היא כל הבעיה."** אחזור הכרחי ואינו מספיק. מענה מעוגן דורג **9.05 מתוך 10 עם רווח סמך בוטסטרפ על ההבדל המחריג אפס** והיה **מעוגן לעתים קרובות יותר בחומר שהמשיב ראה בפועל (98% לעומת 81%)** — ולכן הרווח הנמדד הוא בנאמנות לראיה, והראיה חייבת להיות נכונה כדי שהנאמנות הזו תאמר משהו.
 - **"אחזור מעמוד יחיד מכליל."** שני הפערים **כמעט-משולשים בשאלות שדורשות חומר מיותר מעמוד אחד** (ציונים חוצי-עמוד 9.93 לעומת קו-בסיס נמוך יותר). הסקה מרובת-מסמכים היא המקום שבו מערכות מעוגנות מדורדרות, וזה בדיוק המקום שבו קורסים שואלים את השאלות הקשות ביותר.
 - **"אחזור מסיר את הצורך בבחינה."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] מאחזר מחומרים מאושרים של מודול יחיד כדי לשרת סטודנטים שמהססים לשאול אדם — היקף מוגן. מאגרים צרים ומאושרים הם מה שהופך את העיגון למשמעותי; התווית לבדה אינה.
-
-## מושגים מחוברים
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## מאמרים מחוברים
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — עוזר תכנון שיעור מעוגן-תוכנית לימודים שחסכון הזמן שלו לא עלה על זה של צ'אטבוט כללי

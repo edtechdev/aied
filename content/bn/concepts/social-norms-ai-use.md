@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -105,37 +107,3 @@ ai_assist:
 **"নজরদারি ব্যবহার দৃশ্যমান করে রীতিটি নিষ্পত্তি করবে।"** আচরণ দৃশ্যমান করা রীতি কী হওয়া উচিত তা সমাধান করে না; তা বদলায় মানুষ কী প্রকাশ করতে রাজি। মাপা ধরনটি ইতিমধ্যেই বাছাই করা প্রকাশ, তাই তার ওপর বসানো তদারকি-ব্যবস্থা আচরণ নয়, আত্মগোপন মাপে।
 
 **"রীতিগুলো অনানুষ্ঠানিক, তাই তারা প্রতিষ্ঠানের নাগালের বাইরে।"** তারা স্থানীয়ভাবে প্রয়োগকৃত ও স্থানীয়ভাবে পরিবর্তনযোগ্য, যা তাদের নীতির চেয়ে বেশি নিয়ন্ত্রণযোগ্য করে তোলে: একটি কোর্স-দলের স্পষ্ট অনুশীলন একটি লিভার, ঠিক কারণ সেখানেই কার্যকর নিয়মটি স্থির হয়।
-
-## সংযুক্ত ধারণা
-
-- [[academic-integrity]] — যে আনুষ্ঠানিক নিয়মপুস্তিকার পাশে এই রীতিগুলো বেড়ে ওঠে
-- [[ai-use-disclosure]] — যে অনুশীলনকে রীতিগুলো সবচেয়ে সরাসরি নিয়ন্ত্রণ করে
-- [[framing-ai-use-for-students]] — একটি শ্রেণিকক্ষ কীভাবে তার প্রত্যাশা বলে
-- [[reducing-ai-misuse]] — রীতি-নির্ধারণের শিক্ষণিক প্রতিরূপ
-- [[learner-identity]] — এআই-ব্যবহার দৃশ্যমান হলে শিক্ষার্থীকে কে বলে ধরা হয়
-- [[ai-detection]] — যে প্রযুক্তিগত সাড়া বেশিরভাগ ক্ষেত্রে ব্যর্থ হয়
-- [[remote-proctoring]] — রীতির বিকল্প হিসেবে চেষ্টিত নজরদারি
-- [[trust]] — রীতি ও প্রকাশ দুটোই যার ওপর নির্ভর করে
-- [[equity-in-ai-education]] — সামাজিক খরচ কে বহন করে
-- [[help-seeking]] — লজ্জা যে আচরণকে সবার আগে দমন করে
-- [[group-work]] — যেখানে দলগত রীতি নিয়ে দর-কষাকষি হয়
-- [[student-experience]] — এই সবের বাঁচা দিকটি
-- [[anxiety-and-stress]] — আবেগিক অবশিষ্টাংশ
-- [[governance]] — যে আনুষ্ঠানিক স্তরের নিচে এই রীতিগুলো বসে
-- [[ethics]] — যে সাহিত্যের শিক্ষার্থীদের বলার মতো সবচেয়ে কম আছে
-
-## সংযুক্ত নিবন্ধ
-
-- [[student-perception-ai-use-collaboration]] — সঙ্গীদের এআই-ব্যবহার সম্পর্কে শিক্ষার্থীদের উপলব্ধির নির্ভুলতা ও সহযোগিতা-ফলাফলের সঙ্গে তার সম্পর্ক
-- [[shame-guilt-ai-regulation-computing-education]] — কম্পিউটিং শিক্ষায় এআই-ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
-- [[chirikov-regulate-ai-syllabi-2026]] — শিক্ষকরা কলেজে এআই কীভাবে নিয়ন্ত্রণ করেন: 31,000 কোর্স-সিলেবাসের প্রমাণ
-- [[vassallo-ai-guilt-complex-faculty-2026]] — এআই গিল্ট কমপ্লেক্স: একাডেমিক প্রযুক্তি গ্রহণে নৈতিক আবেগ ও নৈতিক দ্বিধা
-- [[agarwal-ethical-values-norms-aied-2026]] — শিক্ষায় কৃত্রিম বুদ্ধিমত্তার জন্য নৈতিক মূল্যবোধ ও রীতি চিহ্নিত করা
-- [[conijn-fear-big-brother-proctored-exams-2022]] — বিগ ব্রাদারের ভয়: প্রক্টরড পরীক্ষার সম্ভাব্য নেতিবাচক পার্শ্বপ্রতিক্রিয়া
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — নজরদারির অধীনে: নার্সিং মূল্যায়নে দূরবর্তী প্রক্টরিং অনুশীলনের মানচিত্র
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — অপূর্ণ তথ্যের অধীনে মূল্যায়ন-নকশা: জেনারেটিভ এআই, প্রকাশ ও শিক্ষার্থীর সাড়া
-- [[teichmann-detecting-undetectable-misconduct-2026]] — অশনাক্তযোগ্যকে শনাক্ত করা: জেনারেটিভ এআই-পরবর্তী অসদাচরণ-প্রক্রিয়া
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — প্রতারণা নাকি প্রতিযোগিতা? মার্কেটিং শিক্ষায় এআই
-- [[chen-zou-genai-group-assessment-agency-2026]] — জেনএআই-সমর্থিত দলগত মূল্যায়নে এজেন্সি
-- [[reddit-genai-education-discourse-analysis-2026]] — রেডিট আলোচনা-বিশ্লেষণ: শিক্ষক-শিক্ষার্থী সংযোগ কেন্দ্রীভূত শনাক্তকরণ ও প্রয়োগ-বিবাদে (Yüce প্রমুখ 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 স্নাতক শিক্ষার্থী: অনুভূত সহকর্মী-প্রকাশ ও শিক্ষকের স্বাচ্ছন্দ্য নৈতিক বিচ্ছিন্নতার আগে প্রকাশের পূর্বানুমান করেছে (Qu ও Wang 2026)

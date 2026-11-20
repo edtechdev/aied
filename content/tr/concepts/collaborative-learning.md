@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -57,7 +59,6 @@ YZ destekli işbirlikçi çalışma için mevcut tek meta-analitik karşıtlık,
 
 18 çalışmayı kapsayan bir [[meta-analysis-systematic-review|kapsam derlemesi]], aynı ödünleşimi grup çalışması üzerinden eşler: GenAI bilgi gelişimini, fikir üretimini ve iletişim verimliliğini desteklerken aynı zamanda akran etkileşimine, müzakereye ve kolektif anlam yaratımına duyulan talebi azaltmıştır ve rastgele kanıt, katılımcıların genel yenilikçiliğinde anlamlı bir kazanç olmaksızın daha yenilikçi YZ önerileri bulmuştur ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei ve Perkins (2026)]]).
 
-
 Alan düzeyinde haritalama aynı sonuca diğer yönden ulaşır: 2010 ile 2023 arasındaki 1.048 YZ'nin çevrimiçi öğrenmede kullanımına ilişkin yayının BERTopic analizi, YZ destekli işbirlikçi öğrenme ve topluluk geliştirme üzerine toplumsal yönelimli çalışmanın hiçbir zaman baskın bir konu olarak ortaya çıkmadığını buldu; yazarlar bunu birey düzeyindeki [[learning-analytics|analitiklere]] odaklanmış bir korpusa bağlar ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen ve ark. (2026)]]).
 
 **Rol tasarımı, işbirlikçi bilgi inşasının nicelik değil nitelik üzerinde bir kaldıraçtır.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng ve ark. (2026)]], 16 gruptaki 58 [[higher-ed|lisansüstü öğrenciye]] ve YZ ortaklarına dönen moderatör, analist ve savunan rolleri atamış ve yapının grup zihin haritalarının *içeriğini* neredeyse tam bir SOLO bandı yükselttiğini (M = 3,65’ten 4,59’a, z = 3,771, p < 0,001) bulmuştur; oysa düğüm ve dal sayıları düz kalmıştır — kapsam değil organizasyon — buna karşılık işbirlikçi [[cognitive-offloading|bilişsel yükte]] orta düzeyde bir artış görülmüştür (p = 0,023). [[network-analysis|Gecikmeli sıralı analiz]], aracın tek başına üretmediği bir değerlendirme öz-geçişi ve bir çatışmadan savunmaya gidiş yolu eklemiştir; bu da [[human-ai-collaboration|insan–YZ işbirliğini]] bir araç sorunundan ziyade bir tasarım sorunu olarak konumlandırır.
@@ -66,28 +67,23 @@ Alan düzeyinde haritalama aynı sonuca diğer yönden ulaşır: 2010 ile 2023 a
 
 **Grup koordinasyon altyapısı olarak GenAI — ve düzleşmiş işbirliği riski.** [[chen-zou-genai-group-assessment-agency-2026|Chen ve Zou (2026)]], on beş öğretmen adayı grubun notlandırılmış bir grup sunumunda GenAI’yi nasıl ele aldığını gösterir ve ayrım, grup baskısının YZ bağımlılığını artırdığına dair olağan varsayımın aksine işler. Beş grup, tanıdık bir işbirliği sorununu çözmek için kullanımı yoğunlaştırmıştır — akranların bölümlerinin ne içerdiğini bilmemek — bu işi bir sohbet botuna besleyerek anlaşılır kılmış ve kendi bölümlerini hizalamıştır; bir grup döngüsünü *tartışma → GenAI’ye dışsallaştırma → kolektif inceleme → yeniden tartışma* olarak yeniden kurmuştur. Yazarlar bunu, öğrenciler yargıyı korurken aracın koordinasyonu üstlendiğinden, salt [[cognitive-offloading|bilişsel yük dışarı aktarmadan]] fazlası olarak okurlar; ancak daha akıcı iş akışının, geleneksel olarak bağlılığın inşa edildiği anlaşmazlığı atlayabileceğini işaret ederek ilişkisel emeği açık soru haline getirirler. Yedi grup ise GenAI kullanımını kısmış, paylaşılan sınıflarda inşa edilen [[situated-learning|durumsal]] bilgiyi (“YZ yalnızca senin yazdığın anı bilir”), gruptakilere [[bias-mitigation|adaletliği]], gruplar arası özgünlüğü ve grubun halihazırda sahip olduğu bakış açıları çeşitliliğini korumuştur. Üç grup hiçbir değişiklik görmemiştir: görev bağımsız bölümlere ayrıldığında, bireysel olarak sofistike GenAI uygulaması hiçbir zaman kolektif bir yeteneğe dönüşmemiştir, her ne kadar tutarlılık açık bir ölçüt olsa da. Kalıp, grup normlarının aracın değil, bir grubun YZ ile ne yaptığına karar verdiğini — ve kolektif benimsemenin bağlılığı artırmak yerine algılanan [[ai-misuse-learning-harm|kötüye kullanım riskini]] azaltabileceğini — öne sürer.
 
-
 **Grubun epistemik yapılanması, YZ’nin nerede durduğunu belirler, ne sıklıkla kullanıldığını değil.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang vd. (2026)]], on dört öğretmen adayı grubuna enerji biçimleri üzerine 60 dakikalık bir Go-Lab sorgulaması sırasında öğrenen tarafından başlatılan bir [[metacognition|üstbilişsel]] sohbet robotu verdi; sekiz grup farklı, altı grup benzer ön kavramlara sahipti ve [[prior-knowledge|önceki bilgi]] düzeyleri eşitti (U = 293,50, p = 0,515). Her iki grup türü de karşılaştırılabilir sorular sordu: 39 istemin 18’e karşı 21’i korundu ve işlev dağılımları örtüştü. Ayrışan şey alımlamaydı.
 
 Süreç madenciliği, YZ sorgusu müzakereyi çeşitli gruplarda üçü gelen ve ikisi giden yollu bir bütünleşme merkezine yerleştirdi ve buraya vakaların %55,6’sında bir kavram ifadesinden ulaşıldı; benzer ön kavramlı gruplarda ise doğrusal bir sorgula-sonra-işle yolu üzerinde durdu. Çeşitli gruplar YZ çıktısına ilişkin olumlu ya da nötr değerlendirmeyi sürdürürken benzer gruplar olumsuz değerlendirmeyi sürdürdü; yazarlar bunu kısmen grubun zaten anlaşmaya varmasından sonra gelen proaktif bir konuşma ajanına bağlar. 39 istemin on ikisi kısa bilgilendirici takip sorularına kapsam netleştirmesiyle yanıt verdi; bu da üstbilişsel istemleri prosedürel olanlardan ayıran bir istek sınıflandırma katmanı lehine vakalarıdır.
-
 
 **Öğretimin nesnesi olarak işbirliği.** [[golrang-propact-pair-programming-2026|ProPACT]], çift programlama için YZ güdümlü bir [[intelligent-tutoring|uyarlanabilir ders sistemi]]dir ve analiz birimini birey değil *ikili* olarak ele alır; ortak görsel dikkati, ortak zihinsel çabayı ve gözbebeğine dayalı sinyalleri gerçek zamanlı modelleyerek işbirlikçi çöküşleri 30 saniye önceden öngörür ve gerçekleşmeden müdahale eder. Proaktif geri bildirim alan ikililer, önemli ölçüde daha yüksek hata ayıklama başarısı elde etmiş ve görevleri daha verimli tamamlamış ve ardından işbirlikçi düzenlemede sürdürülen kazanımlar göstermiştir — YZ’nin bir görevi desteklemekle kalmayıp işbirliğinin kendisini öğretebileceğine dair kanıt. İşbirlikçi yetkinliği ölçmek, işbirlikçi problem çözme (CPS) becerisini ölçekte değerlendirmenin tamamlayıcı zorluğunu ortaya çıkarır; bu geleneksel olarak benzetilmiş görevlerden süreç verilerini CPS davranışlarına elle kodlamayı gerektirir — zaman alıcı ve ölçekte pratik değil; önceden eğitilmiş dil modellerinin [[prompt-engineering|bağlam duyarlı istek metniylemesi]], bağlamsal bağımlılıkları modelleyerek ve bilişsel ile sosyal yetileri birleştirerek bu kodlamayı otomatikleştirir ve güçlü temel çizgileri üzerinde üstün performans elde eder.
 
 **Grubun konuşmasının düzeni üzerinde iskeleleme, sıklığı üzerinde değil.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]], 65 öğrencinin üçlü diyalog dizilerini incelemiş ve bir sıralamanın — önce çerçeveleme, sonra önerme, sonra sorgulama — gelişmeyi izlediğini, tersinin izlemediğini bulmuştur; maksimal iskeleleme, görev üzerindeki davranışı artırmış ama aynı zamanda betimlemeyi ve daha az problem çözme göstergesini de beraberinde getirmiştir.
 
-
 **Grup konuşmasının yapısal analizi, konu dizisinin işlevsel bir tanımını gerektirir.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi vd. (2026)]], eş zamanlı çok taraflı dökümlerde konusal saplamaları belirlemek için bir dizileme kılavuzu yayımladı. Üç eğitimli araştırmacının yinelemeli toplumsal moderasyonuyla rafine edilen kılavuz, 200 sözceden oluşan bir doğrulama dökümünde Cohen kappa 0,89’a ulaştı ve 12 döküme (2.371 sözce) uygulandığında 315 konu ağacı çıkardı — kimin konu başlattığının, kime yanıt verdiğinin ve hangi katkıların karşılık bulmadığının yapısal iskeleti.
 
 [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang ve Nguyen (2026)]], Goodwin ile Dillenbourg’un çerçevelerine dayanan beş kategorili bir video angajman kod kitabıyla ve bunu GPT-4o’nun MLLM dökümlerine uygulamasıyla grup işbirliği ölçümüne sözsüz bir eksen ekler. Tümevarımsal Çevresel Angajman kavramı — akran farkındalığı ve yeniden angajman hazırlığıyla bireysel odaklanma — her iki yol gösterici kuramda da doğrudan öncülü olmamasına karşın 10/10 kodlama partisinde ortaya çıktı.
-
 
 **Tarafsız bir aracı olarak YZ — ve tarafsız olmayı bıraktığında ortaya çıkan gerilim.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], disiplinler arası öğrenci ekiplerinde disiplin sınırlarını, örtük varsayımları gün yüzüne çıkararak ve anonimleştirilmiş sentezleri paylaşılan tartışmaya döndürerek aracılık eden, Discord tabanlı bir [[llm]] probudur. Öğrenciler onu hem bilişsel destek hem de ilişkisel bir tampon olarak değerli bulmuştur, ancak merkezi bir gerilim ortaya çıkmıştır: YZ’nin algılanan tarafsızlığı yük taşıyan bir unsurdur ve YZ tarafsız aracıdan danışman veya sorgulayıcıya geçtiğinde aşınır — işbirliğini [[human-ai-collaboration]] ve [[trust-calibration]] korurken aracılık eden [[pedagogical-agent|ajanlar]] için kilit bir tasarım kısıtı.
 
 **Yapılandırılmış bir kolaylaştırıcı protokolü — ve yağcılık riski.** [[ethics-training-agents-group-ethics-discussion-2026|Seo ve ark. (2026)]], işbirlikçi [[learning-design|öğrenme tasarımını]] yapılandırılmış bir ıraksama–müzakere–yakınsama protokolüyle genişletir: bir LLM kolaylaştırıcısı konuşma turlarını istifler, aşamaları zamanlar ve kademeli olarak özetler; 45 öğrencinin basit ve tartışma benzeri bulduğu bir biçimdir ve dış kolaylaştırma ihtiyacını azaltır. Tasarım, çalışmanın doğrudan ölçtüğü bir gerilim etrafında döner: ajanlar bakış açısı almanın genişliğini desteklemiştir (gruplar daha büyük, daha ıraksak paydaş ve çözüm kümeleri üretmiş ve ajanlar tutarlı biçimde azınlık görüşlerini seslendirmiştir), ancak [[ai-sycophancy|yağcı]], muhakemesiz anlaşma, işbirliğini derinleştiren bilişsel çatışmayı düzleştirmiştir. Katılımcılar, yalnızca sonuçları değil ara muhakeme adımlarını gün yüzüne çıkaran ajan çıktısı ve gerçek anlaşmazlığı koruyan karşı argümanlar talep etmiştir.
 
 **YZ eğitimi için işbirlikçi yapılar.** [[academic-league-of-ai-2026|YZ Akademik Ligi]], YZ eğitimini demokratik öğrenci [[governance]] ve proje ekipleri aracılığıyla düzenler; işbirlikçi, topluma bağlı bir yapı içinde [[active-learning]] ve [[project-based-learning]] yerleştirir.
-
 
 **Bir YZ'yi öğretmen yerine akran olarak tanınır kılan şey.** [[lin-ai-peer-collaborative-mathematics-2026|Lin ve ark. (2026)]], yedi alan uzmanına, ikinci dereceden denklemler çözerken [[motivation|motivasyonel]] duruşu öngörü, performans ve [[reflection|öz yansıtma]] boyunca değişen Big Five kişilikli bir ajanla çalıştırdı. Katılımcılar ajanı matematiğine göre değil toplumsal davranışına göre yargıladı: yargılamayan bir alan, tereddütlü muhakeme, uygun ölçüde kusurluluk ve öğrenenin hızına saygı akran benzeri okunurken, koşulsuz anlaşma ve aşırı öğretim onu öğretmene geri itti. Yazarlar ayrıca korunmaya değer bir gerilim bildirir: akran benzerliği ile akran yararlılığı her zaman örtüşmedi; bu, akran işbirliğinin kendi uzun süreli riskidir, yani akranların birbirlerinin hatalarını onaylayabilmesi.
 
@@ -96,7 +92,6 @@ Süreç madenciliği, YZ sorgusu müzakereyi çeşitli gruplarda üçü gelen ve
 İşbirlikçi öğrenme, [[icap-framework|ICAP çerçevesinin]] (Etkileşimli–Yapıcı–Etkin–Pasif) tepesini işgal eder: *etkileşimli* kip — diyalog yoluyla anlamı birlikte inşa etmek, bir pozisyonu savunmak veya ortaklaşa çözmek — Chi’nin taksonomisinde en derin bilgi değişimini üretir. Bu, ICAP’i hem işbirlikçi pedagojiler için bir gerekçe hem de YZ üzerinde bir tasarım kısıtı yapar. Tartışmayı aracılık eden bir YZ ([[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] veya [[golrang-propact-pair-programming-2026|ProPACT]] gibi), tam olarak *etkileşimli* angajmanı sürdürdüğünde değerlidir; grup adına cevap veren veya bilişsel çatışmanın üzerini kapatan bir YZ, işbirliğini salt *etkin* veya *pasif* bir kipe düşürebilir. ICAP temelli açıklama (bkz. [[icap-cognitive-engagement-llm-agents|işbirlikçi diyalogda etkileşimin genişletilmiş ICAP ölçümü]]) ve kolaylaştırma zamanlaması araştırmaları, etkileşimli söylemin niteliğini ilgi sonucu olarak ele alır ve işbirlikçi öğrenmeyi [[student-engagement]] ve ICAP hiyerarşisinde temellendirir.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
 - **GenAI öğretmen koltuğu yerine moderatör koltuğuna geçebilir.** Chen ve ark. (2026), 64 lisans öğrencisiyle her iki koşulda da bir YZ ajanı ve yapılandırılmış bir platform bulunan, yalnızca düzenleme iskelelemesinin farklılaştığı 16 haftalık bir yarı deney yürüttü: uyarlanabilir bir SSRL ajanı ile statik dijital çalışma sayfaları ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen ve ark., 2026]]). Uyarlanabilir grup daha yüksek katılım eşitliği ama daha yüksek yoğunluk göstermedi; bu, daha fazla konuşma değil yeniden dağıtımın imzasıdır.
 - **Etkileşimli olmak otomatik olarak daha derin değildir.** 87 lisans öğrencisiyle yürütülen sekiz haftalık yarı deneysel bir çalışmada, GenAI çok etmenli bir sistemle çalışan ikililer en iyi tasarım projelerini üretti (aynı sistemde solo çalışmanın 86,45’ine karşı M = 89,64). Eleştirel düşünme farkındalığı kazanımları ters yönde gitti: en büyük solo (M = 0,41), akran işbirliğinde neredeyse düz (M = 0,06) ve eşli YZ koşulunda hafif negatif (M = -0,04) ([[bjet-many-hands-make-light-work-2026|Chu, Dai ve Zhai (2026)]]). Yapılanma, ne kadar düşünmenin harekete geçtiğini değil hangi türünün harekete geçtiğini değiştirdi.
-
 
 ## Pratik rehberlik
 
@@ -120,68 +115,3 @@ Süreç madenciliği, YZ sorgusu müzakereyi çeşitli gruplarda üçü gelen ve
 - **“Gruplara YZ vermek daha fazla işbirliği demektir.”** **18 çalışmalık** bir kapsam derlemesi, grup çalışması boyunca bir ödünleşimi haritalar: GenAI **bilgi gelişimini, fikir üretimini ve iletişim verimliliğini** desteklerken aynı müdahalelerde ilişkisel bir bedeli de taşımaktadır. Verimlilik kazancı ile ilişkisel bedel birlikte gelir.
 - **“YZ destekli işbirlikçi öğrenmenin meta-analitik bir dayanağı vardır.”** YZ destekli işbirlikçi çalışma için mevcut **tek** meta-analitik karşıtlık, doğrudan kestirilmek yerine GenAI destekli PBL/PjBL müdahalelerinin **içinde** yer alır; dolayısıyla işbirliğinin bir ölçümü değil, daha geniş bir etkinin bir bileşenidir.
 - **“Bir LLM ortağı grubun kendi muhakemesini korur.”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ve Connell Pensky (2025)]] bunu giriş düzeyi sosyal bilimler öğrencileriyle sınıf ölçeğinde sınadı, tam da koruma varsayım değil açık bir soru olduğu için.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Scripted shared-AI collaboration and its tested role designs
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[group-work]] — Group work
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Bağlı makaleler
-
-- [[lin-ai-peer-collaborative-mathematics-2026]] — Bir LLM ajanını akran gibi okutan şey: güvenlik, tereddütlü muhakeme, uygun ölçüde kusurluluk
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus finds one-sided social risk: collaboration processes vulnerable with no enhancement pathway
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: AI disciplinary mediation in student project teams
-- [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
-- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Toplumsal yönelimli YZ işbirliği çalışması 1.048 yayında hiçbir zaman baskın bir konu olmadı
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Grubun epistemik yapılanması YZ’nin nerede durduğuna karar verdi: çeşitli ön kavramlı gruplarda bütünleşme merkezi, benzerlerde doğrusal sorgula-işle yolu, eşit önceki bilgide (Wang vd. 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Çok etmenli sistemli ikililer en iyi projeleri üretti, solo çalışma ise en büyük eleştirel düşünme kazanımlarını
-

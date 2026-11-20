@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -114,40 +116,3 @@ AI کو [[embodied-learning]] کے ساتھ جوڑنے والے 23 مطالعا�
 **"شمولیت ایک چیز ہے، اس لیے ایک اسکور اس کی نمائندگی کر سکتا ہے۔"** اس تعمیر کے تین دھاگے ہیں، اور سینسر زیادہ تر پہلے تک پہنچتا ہے۔ E3Sense نے پایا کہ سیکھنے والوں نے اسے علمی، برتاؤ اور جذباتی اشاروں سے مختلف تناسب میں متعین کیا، اور ان تعریفوں نے پیش گوئی بدلی ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al.، 2026]])۔ ایک واحد عدد چھپا دیتا ہے کہ کون سی تہہ ناپی گئی۔
 
 **"اگر ماڈل توثیقی تقسیم پر منصف ہے تو کلاس روم میں بھی منصف ہے۔"** جس ریگولرائزر نے جنس کے گروہوں میں توثیقی غلطی برابر کی، اس نے الگ رکھے گئے گروہ کا فرق بگاڑ دیا ([[student-attention-estimation-fairness-2026|Fragkiadakis et al.، 2026]])۔ انصاف تعیناتی کی خاصیت ہے، چیک پوائنٹ کی نہیں۔
-
-## منسلک تصورات
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## منسلک مضامین
-- [[gaze-informed-ai-children]] — نگاہ سے چلنے والا LLM بیان بچوں کو بیان والے علاقے پر 6.48 سیکنڈ رکھتا رہا بمقابلہ 1.67 سیکنڈ، مگر ناپا توجہ گیا، سمجھ نہیں (Wu et al.، 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — سر پر پہنے EEG، آئی ٹریکنگ اور پیشانی EDA نے خود درج شمولیت 75.0% within-one درستگی سے پیش گوئی کی، 63.0% بیس لائن کے مقابلے (Anupkrishnan et al.، 2026)
-- [[engagement-assessment-video]] — EduGage نے سات پہننے والے اور کیمرہ بہاؤ کو حصے کی سطح کے شمولیتی اندازوں میں ملایا (MAE 0.81) اور ہلکے آلات کی دلیل دی (Leng et al.، 2026)
-- [[student-attention-estimation-fairness-2026]] — کثیرالوسیط توجہ ماڈل MAE 0.283 تک پہنچا، اور اس کے توثیقی انصاف کے فوائد الگ رکھے افراد پر اُلٹ گئے (Fragkiadakis et al.، 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — پہننے والا AI دوہرا شفاف ہے، چنانچہ جسمانی اخراج ناکام ہوتا ہے اور نفاذ طلبہ کے جسموں کے فیصلے کی طرف بہکتا ہے (Corbin et al.، 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG شناسائی کی پیش گوئی کے پندرہ ماڈل آزمائش سے آزاد توثیق میں 0.9853 سے 0.6038 F1 پر آ گئے (Nanayakkara اور Halloluwa، 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG سے بنائی گئی تصویریں ٹیسٹ کارکردگی کے ساتھ R² = 0.79 پر چلیں، ایک اعلیٰ تعمیرِ نو والا شریک غلط جواب دے گیا (Su et al.، 2026)
-- [[physiological-signals-exam-outcomes-ml]] — رینڈم فارسٹ نے EDA، حرکت اور جلد کے درجہ حرارت سے امتحانی گریڈ کے زمرے پیش گوئی کیے — تحریک کے اشارے، سمجھ کے نہیں (Yamazaki اور Rimal، 2026)
-- [[affective-text-wearable-student-health]] — 458 Oura پہننے والے طلبہ میں جذباتی انداز، نہ کہ فکر کا موضوع، نیند اور دھڑکن کے تغیر کے ساتھ چلا (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — ویب کیم نگاہ نے 187 سیکھنے والوں کے لیے رینفورسمنٹ لرننگ فیڈبیک چلایا؛ توجہ سیکھنے کے ساتھ r = 0.017 پر تھی، بوجھ منفی طور پر (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 کی اندازِ جسم خصوصیات نے خاص لیبل شدہ سیٹ پر 99.56% مشتبہ برتاؤ جھنڈا لگایا، بدعنوانی یا انصاف آزمائے بغیر (Arif et al.، 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 54 شرکا میں بیرونی تحریری معاونت کے ساتھ EEG رابطہ کم ہوا، انحصار بطور جمع شدہ علمی قرض (Kosmyna et al.، 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23 مطالعات میں سینسنگ کے کردار 62.5% ٹیگز پر غالب رہے اور کسی جائزہ شدہ نظام نے کثیرالوسیط بہاؤ حقیقی وقت میں نہیں ملایا (Kim اور Han، 2026)

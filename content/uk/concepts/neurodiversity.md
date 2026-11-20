@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -47,9 +49,7 @@ ai_assist:
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Огляд-скоупінг PRISMA-ScR (Rempel та співавт., 2026)]] прошукав п’ять баз даних і десятиліття публікацій (2015–2025), відібравши 766 записів до 40 емпіричних досліджень цифрових допоміжних технологій для нейровідмінних студентів у [[higher-ed|вищій освіті]]. Галузь переорганізувалась навколо [[generative-ai|генеративного ШІ]] — 15 із 40 досліджень — з імерсивними форматами на другому місці (11). Його центральна критика — критика проєктування: індивідуальне пристосування та інструменти, специфічні для нейротипу, організовані навколо формального діагнозу, не можуть вирішити функціональних відмінностей, які перетинають нейротипи, тому він рекомендує замість них універсальне проєктування та партисипативну розробку. Він також зазначає, що найбільш імерсивні інструменти є найменш масштабованими.
 
-
 - **Початкові класи показують ту саму концентрацію.** Огляд-скоупінг освітніх технологій для нейроінклюзивних початкових класів (переглянуто 3 340 записів, 93 дослідження) виявив, що докази зосереджені на аутичних здобувачах та індивідуалізованій академічній і когнітивній підтримці, тоді як соціальні, комунікативні результати й результати взаємодії з однолітками залишилися поза увагою, а освітню цінність переважно валідували дослідники, а не користувачі класів ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
-
 
 [[dabaghi-ai-dyslexia-education-review-2026|Міждисциплінарний огляд ШІ для дислексії (Dabaghi, D'Urso and Sciarrone, 2026)]] охоплює 2018–2024 роки на 72 дослідженнях і виявляє, що ШІ використовується для виявлення, допоміжної підтримки та [[personalized-learning|персоналізації]], причому ці напрями розвиваються паралельно, а не в інтеграції, і галузь спрямовується більше технологічною можливістю, ніж консолідованою освітньою теорією. Його дослідження виявлення ([[sensor-and-gaze-analytics|ЕЕГ]], айтрекінг, моделі [[machine-learning]]) показують діагностичну надію для ранньої інтервенції, але часто потребують спеціалізованого обладнання та контрольованих умов, що обмежує використання в звичайних аудиторіях. Це практичний тест, який цілий напрям постійно не проходить: підтримка має бути вбудована в курс, який студент насправді проходить.
 
@@ -93,34 +93,3 @@ ai_assist:
 - **«Дослідження нейровідмінності — це вузький куточок [[ai-education|AIED]]».** Галузь **переорганізувалася навколо [[generative-ai|генеративного ШІ]] — 15 із 40 досліджень** — з імерсивними форматами на другому місці (11). Література рухалася разом із технологією, а не накопичувалася навколо сталих питань.
 - **«Більше ШІ для дислексії означає кращу підтримку».** [[dabaghi-ai-dyslexia-education-review-2026|Міждисциплінарний огляд ШІ для дислексії (Dabaghi, D’Urso and Sciarrone, 2026)]] охоплює **72 дослідження за 2018-2024** і виявляє ШІ, застосований у широкому діапазоні цілей. Широта застосування не є свідченням ефективності жодного з них.
 - **«Пристосування — правильна рамка для нейровідмінних здобувачів».** [[neurodivergent-computing-students|Опитування 24 нейровідмінних студентів інформатики та 20 нейротипових однолітків]] із чотирма глибинними інтерв’ю виявило потреби, які є **загальними вимогами до дизайну** — структуровані завдання, малі сталі команди, явні ролі, — а не індивідуальними адаптаціями, наданими після діагнозу.
-
-## Пов’язані поняття
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Пов’язані статті
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Переосмислення освітньої цінності освітніх технологій для нейроінклюзивних початкових класів: огляд-скоупінг
-
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 досліджень про ШІ для студентів з інвалідністю і ефект, який відрізняється за категорією
-- [[adhd-video-segmentation-computing-education]] — Тимчасова сегментація відео, що привела учасників із РДУГ до паритету
-- [[neurodivergent-computing-students]] — 24 нейровідмінних студенти-інформатики про структуру, неоднозначність і співпрацю
-- [[genai-reliance-executive-functioning-2026]] — Труднощі з виконавчими функціями, уявна корисність і шлях до покладання на ШІ
-- [[seung-basham-cognitive-offloading-swld-2026]] — Когнітивне розвантаження GenAI для студентів із труднощами в навчанні
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ШІ для допомоги людям із дислексією в освіті
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[tactile-statistical-graphs-accessibility]] — Тактильні статистичні графи для доступності
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Керовані детекторами процеси можуть відлякувати від правомірного використання пристосувань

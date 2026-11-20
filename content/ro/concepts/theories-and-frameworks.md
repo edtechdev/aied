@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -126,32 +128,3 @@ Alinierea mecanism–teorie poate fi totuși decisivă: o sinteză tematică a 5
 **„Teoriile învățării, modelele învățăcelului și cadrele de adoptare sunt lentile interschimbabile.”** Ele răspund la întrebări diferite — cum se produce învățarea, care este starea învățăcelului și de ce se răspândește o practică — iar tipurile lor de dovezi diferă în consecință. Alegerea stratului greșit produce un studiu care măsoară variabila corectă față de predicția greșită, ceea ce se citește ca rezultat nul atunci când este o eroare de categorie.
 
 **„Mai multe cadre înseamnă un domeniu mai matur.”** Cadrele create pentru era IA se acumulează mai repede decât sunt testate, iar acumularea fără falsificare este un simptom, nu un progres. Maturitatea se arată prin rezolvarea unor predicții concurente, nu prin creșterea vocabularului.
-
-## Concepte conectate
-
-- [[theory-development-aied]] — construirea și revizuirea teoriei în domeniu
-- [[philosophy-of-ai-in-education]] — stratul normativ și conceptual
-- [[learning-theories]] — umbrela pentru teoria învățării
-- [[learning-sciences]] — domeniul vecin din care este împrumutată cea mai mare parte a teoriei
-- [[limitations-in-aied-research]] — ce poate și ce nu poate susține baza de dovezi
-- [[tpack]] — cadrul cunoașterii profesorului
-- [[technology-acceptance-model]] — cadrele de adoptare
-- [[item-response-theory]] — un model de măsurare
-- [[universal-design-for-learning]] — un cadru de design
-- [[research-methods-aied]] — cum este testată teoria
-
-## Articole conectate
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Afordanțele emoționale propuse ca a patra categorie într-o taxonomie a afordanțelor
-- [[ai-game-based-learning-systematic-review-2026]] — Alinierea mecanism–teorie, nu sofisticarea algoritmică, a condus eficacitatea în 55 de studii de învățare bazată pe joc cu IA
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — patru decenii de AIED prin cadrul AI×Ed
-- [[educating-minds-generative-ai-2026]] — sinteză bogată în teorie despre IA generativă și învățare
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teoria activității aplicată dezvoltării profesionale a profesorilor
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teoria activității și adoptarea de către profesori
-- [[generativism-learning-theory]] — o teorie a învățării propusă pentru era IA generativă
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — spre o teorie a co-agenției epistemice
-- [[absent-cognitive-baseline-2026]] — teoretizarea unui decalaj structural în autoevaluarea studenților nativi în IA
-- [[yan-agentivism-learning-theory-ai-2026]] — o teorie de rază medie a învățării pentru interacțiunea om–IA
-- [[ai-literacy-instrument-development-systematic-review-2026]] — dezvoltarea de instrumente pentru un construct tânăr
-- [[mishra-control-vs-agency-history-2025]] — tensiunea fundamentală control-versus-agenție a domeniului

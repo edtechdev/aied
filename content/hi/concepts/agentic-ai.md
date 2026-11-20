@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -185,62 +187,3 @@ ai_assist:
 **"शिक्षा में एजेंटिक प्रणालियाँ इसलिए शैक्षणिक रूप से आधारित हैं क्योंकि उन्हें शिक्षा शोधकर्ता बनाते हैं।"** साक्ष्य इसके विपरीत कहता है: एक क्षेत्र-समीक्षा ने पाया कि केवल **29% एजेंटिक AI अध्ययनों (474 में से 138)** ने अपनी प्रणालियों को स्पष्ट रूप से शैक्षिक सिद्धांत में आधारित किया। तकनीक-उन्मुख और शैक्षणिक-उन्मुख कार्य के बीच अनुशासनात्मक विभाजन क्षेत्र की स्थिति है, किसी व्यक्तिगत लेखक की चूक नहीं, इसलिए एक डेमो जो काम करता है वह अपेक्षित आउटपुट है और एक डेमो जो *सीखने के लिए* काम करता है वह अल्पसंख्यक मामला है।
 
 **"जो एजेंट व्यक्तिगतकरण करता है और सीखने को गहरा बनाता है, वह चैटबॉट से शुद्ध लाभ है।"** यह अपने साथ एक विशिष्ट अदला-बदली लाता है: एजेंटिक प्रणालियाँ [[agency]] को खतरे में डालती हैं और [[cognitive-offloading|संज्ञानात्मक कार्य हटाने]] को आमंत्रित करती हैं, जिस पर सीखना निर्भर है, और बिना निगरानी के अधिक चरण करके वे उस हस्तांतरण को पहचानना कठिन बना देती हैं। स्वचालन-बनाम-सीखना तनाव इस श्रेणी की केंद्रीय विश्लेषणात्मक समस्या है, उसके लाभों के साथ जोड़ी गई एक चेतावनी नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## संबंधित लेख
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — एजेंटिक Claude Code ने 60 हस्तलिखित पत्रों का अंकन r = 0.97 पर प्रशिक्षक से मिलाया, पर मूल्यांकनात्मक मदों पर काप्पा 0.65 तक गिरा (अलघामदी, 2026)
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — एक संशोधन-योग्य क्षमता कार्यक्रम के इर्द-गिर्द संगठित एजेंट, जिसमें शिक्षार्थी एक सदस्य है
-- [[pramod-agentic-ai-motivational-pathways-2026]] — एजेंटिक AI से जुड़ाव तक के मार्ग के रूप में स्वायत्तता, क्षमता, संबंधिता और सामाजिक उपस्थिति (प्रमोद और पाटिल 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI एजेंट, आनंदमय मूल्यांकन और तृतीय स्थान
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE ढाँचा: उच्च शिक्षा में सीमित, मानव-निगरानी एजेंटिक GAI (इलिएवा सहित 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — AOE साक्ष्य/निगरानी ढाँचा पेश करने वाली महत्वपूर्ण एकीकृत समीक्षा
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — उच्च शिक्षा में समावेशी एजेंटिक बहु-एजेंट AI पारितंत्र पर परिप्रेक्ष्य
-- [[baradziej-agentic-ai-higher-education-2026]] — उच्च शिक्षा में एजेंटिक AI की भूमिकाओं का व्यवस्थित समीक्षा (48 अध्यायन; छह भूमिकाएँ; त्रिपक्षीय जिम्मेदार-एकीकरण ढाँचा)
-- [[kostopoulos-agentic-ai-education-2025]] — शिक्षा में एजेंटिक AI: अत्याधुनिक कला और भविष्य की दिशाएँ (IEEE Access सर्वेक्षण; परिचालन परिभाषा + वर्गीकरण)
-- [[agentic-ai-education-scoping-review]] — शिक्षा में एजेंटिक AI की क्षेत्र-समीक्षा (474 अध्यायन)
-- [[agentic-ai-pedagogical-best-practice-2026]] — स्वचालन और सीखने के बीच तनाव
-- [[tool-invariant-framework-agentic-ai]] — एजेंटिक AI के युग में कम्प्यूटेशनल विधियाँ शिक्षण और आकलन
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: निर्देशात्मक-डिज़ाइन एजेंट का बेंचमार्किंग
-- [[adversarial-stress-testing-role-playing-agents]] — भूमिका-अभिनय एजेंटों का प्रतिकूल तनाव-परीक्षण
-- [[ai-agents-constructive-conflict-design-education-2026]] — डिज़ाइन शिक्षा में रचनात्मक संघर्ष AI एजेंट
-- [[ai-tpack-teacher-multi-agent-workflow]] — शिक्षक TPACK और बहु-एजेंट कार्यप्रवाह
-- [[code-gen]] — कोड निर्माण एजेंट
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — शिक्षाशास्त्रीय LLM एजेंट बेंचमार्क
-- [[guided-llm-scaffolding-independent-learning]] — स्वतंत्र सीखने के लिए निर्देशित LLM स्कैफ़ोल्डिंग
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 अनुकूली सीखने के एजेंट
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — गेमिफाइड साइबरसुरक्षा सीखने के एजेंट
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — नैदानिक सिमुलेशन में एजेंटिक AI
-- [[bozkurt-ghost-students-agentic-ai-2026]] — भूत छात्र और एजेंटिक-AI सत्यापन अंतराल (बोज़कुर्त सहित 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS कार्य पूरा करने वाले AI एजेंट; मानव-उत्पादन धारणा के माध्यम से वैधता विफलता (हजीसोलोमू और एल-हद्दाद 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI वेब एजेंट: एक सीखने-अनुभव मूल्यांकनकर्ता के रूप में वर्णन एजेंट (छात्र पड़े रह जाने की भविष्यवाणी, छात्रों के जुड़ने से पहले डिज़ाइन प्रतिक्रिया देता है)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — सॉफ्टवेयर PBL में SDD और AI एजेंट; स्वचालन बनाम समझ
-- [[ai-standardized-patient-scaffolding-medical-2026]] — नैदानिक साक्षात्कार प्रशिक्षण के लिए स्कैफ़ोल्डिंग-उन्मुख बहु-एजेंट बड़े भाषा मॉडल प्रणाली का मूल्यांकन
-- [[ethics-training-agents-group-ethics-discussion-2026]] — नीतिशास्त्र प्रशिक्षण एजेंट: नैतिक चिंतन और खोज के लिए भूमिका-अभिनय और चर्चा के साथ समूह-आधारित नीतिशास्त्र शिक्षा की सुविधा
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — 926 नौकरी-पोस्टिंग नमूनों पर एजेंटिक कौशल-निष्कर्षण: 89.7% रिकॉल पर 22.7% परिशुद्धता (एनक्रुमा सहित, 2026)

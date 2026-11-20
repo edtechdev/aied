@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,29 +92,3 @@ ai_assist:
 - **«الذكاء الاصطناعي في التعليم البيئي يوفّر المعلومات أساسًا.»** فالمكاسب المقيسة في **اتخاذ القرار**: فتجاوز الطلاب الذين عملوا مع شريك ذكاء اصطناعي داخل مهمة [[inquiry-based-learning|استقصاء]] منظّمة أقرانَهم الذين اقتصروا على الاستقصاء (**d = 0.69**) والتدريس التقليدي (**d = 1.88**) على مقياس لاتخاذ القرار، مع مكاسب **مركّزة على أضعف الخطوات**. فالأثر في جودة الاستدلال، في النقاط التي كان الطلاب فيها أضعف.
 - **«الاستقصاء وحده هو المكوّن الفعّال.»** لقد **حسّن الاستقصاء المدعوم بالذكاء الاصطناعي اتخاذ القرار المناخي مقارنةً بالاستقصاء وحده**، فكان إسهام الذكاء الاصطناعي إضافة إلى البنية التربوية لا بديلًا قابلًا للتبادل عنها.
 - **«الآثار الكبيرة من عيّنات صغيرة تبقى آثارًا كبيرة.»** حسّن [[learning-design|التصميم التعليمي]] المدعوم بالذكاء الاصطناعي في ظلّ بيداغوجيا التنمية المستدامة **خطط دروس معلّمي ما قبل الخدمة بأثر d = 2.80 من 28** مشاركًا — وكلمة المراجعين أنفسهم هي *غير معقول الكِبر*، والأثر بهذا الحجم من تلك العيّنة ينبغي أن يُعامَل إشارةً لا تقديرًا.
-
-## المفاهيم المتصلة
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## المقالات المتصلة
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — يفصل الذكاء الاصطناعي لأجل الاستدامة عن الذكاء الاصطناعي المستدام؛ وفجوة الجنوب العالمي
-- [[ai-assisted-inquiry-ssi-climate]] — استقصاء مناخي بمساعدة الذكاء الاصطناعي، d = 0.69 فوق الاستقصاء وحده
-- [[aied-carbon-footprint-reporting]] — مراجعة إفصاح AIED 2025 زائد منهج بصمة مفتوح المصدر
-- [[llm-environmental-impact-student-usage-2026]] — تغذية راجعة بيئية بشأن مقايضات زمن الاستجابة–الكربون مع 89 طالبًا في علوم الحاسوب
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — مساعد مُقنَّن محلّي التركيب بـ1.8 ميليواط-ساعة للاستعلام
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: الوعي بالاستدامة في التعليم الهندسي
-- [[riandi-teacher-ai-green-energy-education-2026]] — الاستخدام العملي للذكاء الاصطناعي وتطوير مواد ESD يتنبّئان بالإدماج
-- [[talebzadeh-ai-green-education-2026]] — تصميم بمساعدة الذكاء الاصطناعي تحت قيود بيداغوجيا التنمية المستدامة
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — إسهام الذكاء الاصطناعي في التعليم المستدام كمُوَسَّط بالحوكمة
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — «التعلّم المستدام» كفاعلية معرفية متينة، لا كادّعاء بيئي

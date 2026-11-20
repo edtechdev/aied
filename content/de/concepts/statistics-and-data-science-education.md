@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -88,26 +90,3 @@ Die Qualität der Stützung zählt unabhängig vom Zugang. Ein experimenteller V
 - **„Zufriedenheit und wahrgenommener Nutzen zeigen, dass ein Datenwissenschafts-KI-Werkzeug funktioniert.“** Lernende nutzten LLMs stark zum Debuggen und für Konzeptfragen und **berichteten hohe Zufriedenheit, während ihr wahrgenommener Nutzen für tiefes Lernen über das Semester abnahm**. Die Zufriedenheit hielt und die selbst eingeschätzte Lernkurve fiel, sodass keine der beiden Zahlen allein das Ergebnis ist.
 - **„Ein uneingeschränktes Modell ist so gut wie ein geführter Tutor.“** Ein experimenteller Vergleich fand, dass **explizites Training in schlussfolgerungsorientierter Stützung — schrittweise Hinweise, Verifikation — bessere unabhängige** Performanz erzeugte als uneingeschränkter Zugang. Die Führung und das Training darin, sie zu nutzen, trugen den Effekt.
 - **„Sich gegen Antwortgeben zu wappnen genügt.“** Ein zweckgebauter Tutor, um eine gehostete API gewickelt und per Systemprompt angewiesen, zu **führen statt zu antworten**, wurde in einem einsemestrigen R-Kurs für Psychologie-Studierende im Grundstudium eingesetzt, wo **76% bis 84%** der Lernenden ihn in prüfungsrelevanten Wochen nutzten. Das ist Adoption, kein Beleg dafür, dass die Absicherung Lernen bewirkt hat: Wachen auf Prompt-Ebene ist einer von mehreren Hebeln und erzeugt für sich genommen kein Lernen.
-
-## Verbundene Konzepte
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Verbundene Artikel
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentisches Werkzeug, das inspizierbare synthetische Datensätze für personalisierte Statistikübung erzeugt
-- [[ai-tutor-statistical-programming-adoption-2026]] — Zweckgebauter R-Tutor; Adoption folgte dem Prüfungskalender
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-Schwierigkeitsetiketten folgen Bloom-Stufen, nicht der Performanz der Lernenden
-- [[tactile-statistical-graphs-accessibility]] — Open-Source-Pipeline, die tastbare statistische Diagramme mit Lehrkraftprüfung erzeugt
-- [[guided-llm-scaffolding-independent-learning]] — Geführte Stützung schlug uneingeschränkten Zugang bei unabhängiger Performanz
-- [[lund-socially-accountable-data-science-xai-2026]] — Soziale Rechenschaftspflicht im technischen Datenwissenschaftscurriculum verankern

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -90,44 +92,3 @@ Geografie erreicht die Literatur nur über [[environmental-education|Umweltbildu
 **„Das Problem der politischen Bildung ist, dass Studierende glauben, was ein Chatbot sagt.“** Das dokumentierte Problem ist schmaler: KI-generiertes Gemeinschaftskunde-Material fällt standardmäßig auf Aufgaben auf Reproduktionsniveau zurück und lässt multikulturelle Inhalte vollständig weg; das Risiko ist also ein Curriculum, das aufhört, Urteilsbildung zu lehren, bevor überhaupt ein Studierender in die Irre geführt wird.
 
 **„Umweltbildung kann den Fußabdruck der KI als Ethikthema behandeln.“** Der Fußabdruck ist ein Designparameter: Latenz, Modellgröße und Hosting entscheiden über ihn, und die Berichtsliteratur behandelt ihn als messbar und nicht als Appell.
-
-## Verbundene Konzepte
-
-- [[discipline-specific-aied]]
-- [[humanities-education]]
-- [[stem-education]]
-- [[business-education]]
-- [[civic-and-political-education]]
-- [[environmental-education]]
-- [[assessment-validity]]
-- [[research-methods-aied]]
-
-## Verbundene Artikel
-
-- [[civic-education-ai-lesson-plans]] — 310 KI-generierte Unterrichtsentwürfe anhand von 53 Gemeinschaftskunde-Standards: 90% Ziele niedriger Ordnung, 94% ohne multikulturelle Inhalte
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Algorithmische Grenz-Governance und fünf Anforderungen an digitale staatsbürgerliche Kompetenz in Südafrika
-- [[csaszar-ai-management-education-2026]] — Die Effekte von KI auf die Managementausbildung: eine Analyse aus der Perspektive der wertbasierten Strategie
-- [[espino-ai-business-education-review-2026]] — Ein Jahrzehnt KI in der Wirtschaftspädagogik
-- [[drummond-genai-business-schools-framework-2026]] — Von Studierenden informierter Rahmen für GenAI an Business Schools
-- [[mesny-innovative-assessment-grading-management-2026]] — Innovative Bewertung und Benotung in der Managementausbildung
-- [[automated-scoring-marketing-posts-agreement-2026]] — Übereinstimmung und Fehler bei der automatisierten Bewertung von Marketing-Beiträgen Studierender
-- [[daniel-ai-sustainability-scoping-review-2026]] — Trennt KI für Nachhaltigkeit von nachhaltiger KI; Kluft zum Globalen Süden
-- [[aied-carbon-footprint-reporting]] — AIED-2025-Offenlegungsübersicht plus eine Open-Source-Methode für den Fußabdruck
-- [[ai-assisted-inquiry-ssi-climate]] — KI-gestütztes forschendes Lernen zum Klima, d = 0,69 gegenüber forschendem Lernen allein
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback-Kompetenz als einziger signifikanter Prädiktor der Essay-Note in einer simulierten KI-gestützten Schreibaufgabe
-- [[critical-genai-use-predictors]] — Wissen (Selbstauskunft und objektiv), epistemische Orientierung und intellektuelle Werte sagen kritische GenAI-Nutzung vorher
-- [[student-genai-use-views-writing]] — 504 Soziologiestudierende: selektive Nutzung und eine Anleitungslücke (81% hatten Anweisungen, 46% fanden sie klar)
-- [[wells-genai-research-assistant-sociology-2026]] — 24 Studierende in einem soziologischen Kurs zu Forschungsmethoden: Copilot für 6 von 18 Workshops, beim Proposal verboten
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 24 schwedische Lehrkräfte in schreibintensiven Disziplinen, die über KI-generierte Arbeiten in der Bewertung nachdenken
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT ersetzt das Peer-Assessment in einer Psychologie-Medienaufgabe im zweiten Studienjahr
-- [[ai-tutor-statistical-programming-adoption-2026]] — Präregistrierte Longitudinalstudie zu „R-Tutor“ in einem Psychologie-Statistikkurs
-- [[mental-health-literacy-students-llms-2026]] — 150 Psychologiestudierende gegen vier LLMs bei 30 Aussagen zur psychischen Gesundheit
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 Bachelorstudierende, sechs ethische Vignetten und die Frage, ob KI-Kompetenz Urteilen vorhersagt
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptiver virtueller Patient für die Psychotherapieausbildung: 1.033 Gesprächszüge, Selbstoffenbarung reagiert auf Empathie und Exploration
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 Bachelorstudierende an fünf Universitäten: KI-Nutzung etwa verdoppelt, Psychologie lieferte 30% der Stichprobe
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 ChatGPT-4-Items in einem Kurs in Experimenteller Psychologie: Reliabilität hielt, Bloom-Abdeckung nicht
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o als simulierter Klient für angehende Beratungskräfte: geringere Angst, zustimmender und kulturell flacher Klient
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 286 Psychologiestudierende und Ausbildungskandidaten: drei bis vier latente Klassen in jeder Domäne
-- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] — 20 Soziologie-Items über ChatGPT, DeepSeek und Gemini: Kappa 0,91 bis 1,00, Abweichungen bei den Anwendungsitems
-- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 Soziologiestudierende: ChatGPT als Denkgefährte und die Stimme, die sie zu verlieren fürchteten
-- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] — 216 Studierende der Sozialwissenschaften: Schulung mit geringerem, nicht höherem Vertrauen verbunden

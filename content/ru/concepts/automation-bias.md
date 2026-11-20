@@ -18,6 +18,8 @@ ai_assist:
 translation_of: concepts/automation-bias
 source_updated: "2026-11-04T18:49:36-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -117,45 +119,3 @@ translation_note: "Автоматический перевод данной ан
 - **«Человек в цикле это исправляет».** Цикл хорош настолько, насколько хороша возможность вмешаться, а исследования оценивания не измеряли якорение.
 - **«Это проблема студентов».** Преподаватели, оценщики, аннотаторы и администраторы — это те, кто утверждает результат, в каждом дизайне, который описывает корпус.
 - **«Это недостаток характера, который снимается лучшей подготовкой».** Подготовка помогает, но один и тот же человек ведёт себя по-разному в зависимости от того, дешева ли проверка, беглый ли результат и несёт ли несогласие цену.
-
-## Связанные понятия
-
-- [[trust-calibration]] — состояние опоры, сбой которого называет перекос автоматизации
-- [[bias-mitigation]] — системная сторона: перекос внутри модели
-- [[cognitive-offloading]] — передача умственной работы, одним из исходов которой является непроверенное принятие
-- [[human-in-the-loop-ai]] — гарантия, прочность которой решает этот сбой
-- [[explainable-ai]] — вмешательство через прозрачность, которое корпус предлагает и редко проверяет
-- [[learning-analytics]] — дашборды и ранние оповещения, где сосредоточены ошибки бездействия
-- [[recommender-systems-and-learning-paths]] — ранжирование следующего шага, которому студент может просто последовать
-- [[automated-assessment]] — балл, который человек может принять, не перечитывая работу
-- [[scaffolding]] — проверки, остающиеся дешевле принятия
-- [[self-efficacy]] — свойство, на котором держится стандартное предсказание
-- [[ai-detection]] — обнаружение, которое люди оценивают под давлением времени
-- [[remote-proctoring]] — подозрение, поднятое моделью и разрешённое человеком
-- [[ai-literacy]] — место, где жила бы верификация как оцениваемый навык
-
-## Связанные статьи
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — преподавателей предупреждают против уступки рекомендациям, построенным на тонких данных
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — называет якорение оценщиков на баллах ИИ непроверенным риском и предлагает ослепление
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — дашборды, обратная связь по поверхностным признакам и светофоры как общий паттерн
-- [[factria-responsible-institutional-analytics-2026]] — одиннадцать заинтересованных сторон, четыре случая, чат-бот, отказывающийся рекомендовать
-- [[ludia-udl-ai-thought-partner-2026]] — гарантия педагога, ослабленная доверием к предметному знанию инструмента
-- [[extended-minds-coupling-flexibility-2026]] — формальное право отвергнуть не является надзором, если перекос автоматизации его побеждает
-- [[ground-truth-reliability-aied]] — аннотирование с помощью LLM, круговая валидация и тихий дрейф меток
-- [[polished-artifacts-fragile-engagement-2026]] — перекос автоматизации как социально-когнитивная линия сниженного эпистемического усилия
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — один из четырёх режимов отказа в рекурсивной работе человека с ИИ
-- [[eight-mode-ai-engagement-typology-2026]] — режим «Оракула» и его характерный риск
-- [[assessing-student-drive-framework-2025]] — активная человеческая агентность как защита от перекоса автоматизации
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 исследований о том, вытесняет ли ИИ постороннюю или конститутивную работу
-- [[geoscience-field-learning-genai-2026]] — якорение, подтверждение и перекос автоматизации в полевой работе, привязанной к свидетельствам
-- [[ahmadfard-interactive-oer-review-2026]] — перекос автоматизации в списке рисков, подрывающих агентность учащегося и преподавателя
-- [[alshahrani-health-sciences-ai-use-2026]] — этические заботы 310 студентов как довод за явную подготовку
-- [[ai-literacy-legal-translation-2026]] — постредактирование как оцениваемый навык против давлений иллюзии качества
-- [[morales-cevallos-ai-forensic-science-education-2026]] — перекос автоматизации зафиксирован в рассмотренных исследованиях ИИ в судебных науках
-- [[rana-genai-design-thinking-2025]] — скаффолдинги, удерживающие человеческое суждение в центре
-- [[kim-overtrust-ai-literacy-2026]] — предсказание обращено: уверенные студенты доверяли инструменту больше
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — фреймворк, построенный на исследованиях перекоса автоматизации, а не его проверка
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — один из трёх механизмов, подрывающих критическое гражданство
-- [[academic-erasure-complexity-ai-writing-2026]] — перекос автоматизации внутри аффективного труда контроля за использованием ИИ
-- [[llm-fallacy-misattribution]] — ближайшее различение: чрезмерная опора на систему против воспринимаемой личной компетентности

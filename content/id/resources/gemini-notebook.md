@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -67,6 +68,3 @@ dibantah Google, sebuah pengingat bahwa keluaran audio memunculkan
 [[legal-issues-and-risks|pertanyaan kemiripan]] yang terpisah dari pengaman berbasis sumber. Perlakukan
 flashcard, kuis dan ringkasan yang dihasilkan sebagai draf untuk diperiksa terhadap sumbernya, dan
 perhatikan bahwa batas tingkat gratis berubah tanpa pemberitahuan.
-
-## Konsep terkait
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

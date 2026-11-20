@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -81,42 +83,3 @@ La identidad es el ancla humana del panorama de partes interesadas: es lo que la
 **«El análisis de partes interesadas es un ejercicio de fase inicial.»** Las tensiones persisten en la operación, porque los roles siguen interpretando el mismo sistema de forma distinta. Una [[personalized-learning|capa de personalización]] orientada al estudiantado y un panel de integridad orientado al profesorado son los mismos datos vistos desde dos posiciones, y el conflicto reaparece cada vez que se ajusta uno de los dos.
 
 **«Una identidad entre audiencias significa que un solo mensaje puede servir a todas.»** Comunicar entre audiencias exige traducir la misma decisión a términos distintos sin tergiversarla, lo que es más que reescribir un mensaje de cuatro maneras.
-
-## Conceptos conectados
-
-- [[learners]] — Estudiantes: el paraguas de los conceptos del lado de quien aprende
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — quién tiene derecho a reclamar en las decisiones institucionales de apoyo con IA
-
-## Artículos conectados
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Experiencias del estudiantado con la IA generativa en la educación superior del Reino Unido
-- [[ai-uk-higher-education-policy-2026]] — La IA en la política de educación superior del Reino Unido (estudiantado e instituciones)
-- [[ai-campus-wellbeing-tools]] — Herramientas impulsadas por IA para el bienestar en el campus
-- [[ai-tpack-mathematics-teacher-education-2026]] — Preparación en AI-TPACK en la formación de profesorado de matemáticas
-- [[genai-policies-higher-ed-computing]] — Política institucional sobre IA generativa en informática
-- [[ethical-ai-higher-ed-game-theory]] — Marco de juego de coordinación para el uso ético de la IA en la educación superior
-- [[student-rationalization-ai-writing]] — La racionalización del uso de IA por parte del estudiantado en la escritura académica
-- [[ai-changing-teaching-workflows]] — Cómo la IA está cambiando los flujos de trabajo docentes
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Percepciones de las partes interesadas sobre la IA generativa en la educación superior (Humble y Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — «Ya lo arreglaremos después»: la educación, la IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa

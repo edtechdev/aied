@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -53,7 +55,6 @@ Kemunculan [[llm|LLM]] telah menciptakan ketegangan produktif di bidang tutoring
 
 Melatih pedagogi ke dalam model adalah jalur yang berbeda dari memberinya prompt: LearnLM mencampurkan data pedagogis ke dalam [[llm-training-and-fine-tuning|pasca-pelatihan]] Gemini, lebih disukai oleh para ahli pendidikan dibandingkan GPT-4o (+31%), Claude 3.5 Sonnet (+11%), dan Gemini 1.5 Pro dasar (+13%), dan — karena dilatih bersama alih-alih disetel halus sesudahnya — keuntungannya bertahan pada rilis model dasar berikutnya ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 
-
 TeachLM berargumen bahwa bahan yang langka adalah interaksi pembelajar–tutor yang autentik: setelah disetel halus pada 100.000 jam tutoring satu-satu, ia kurang lebih menggandakan waktu bicara siswa dan menambah giliran dialog sebesar 50%, setelah tutor yang direkayasa dengan prompt sebelumnya tidak mampu menutup jarak dengan tutor manusia ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]]).
 - **Memberikan strategi rujukan mengangkat tutor lemah, bukan yang kuat.** Memberi model strategi yang terdokumentasi dalam literatur kasus menaikkan keberhasilan respons langsung untuk 10 dari 11 model dengan rata-rata 9.9 poin — Llama 4 Maverick dari 41.0% menjadi 64.8% — sementara model terkuat tidak berubah pada 71.3% ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 - **Akses ke tutor tidak sama dengan belajar darinya.** Pengacakan 153 mahasiswa kursus pembuktian ke akses lebih awal terhadap chatbot dan antarmuka umpan balik menaikkan skor pekerjaan rumah 2.56 poin dan membiarkan ujian tanpa dukungan tidak berubah, dengan setiap 100 pesan chatbot terkait dengan 3.02 poin lebih rendah ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
@@ -85,7 +86,6 @@ Sistem Tutor Cerdas merupakan salah satu area [[ai-education|AI dalam pendidikan
 - **Mikro-personalisasi tutor LLM berbasis prompt (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] mempersonalisasi asisten [[llm]]/[[rag]] [[teacher-role|pengajaran]] Jill Watson pada tingkat pertanyaan individual sepenuhnya melalui rekayasa prompt — mengondisikan respons pada enam dimensi pembelajar ([[metacognition|metakognitif]] [[self-assessment|penilaian diri]], abstraksi, verbositas, persepsi, pemrosesan, pemahaman) dan mengklasifikasikan tuntutan kognitif setiap kueri dengan pengklasifikasi [[cognitive-diagnosis|Taksonomi Bloom]] — menghasilkan 96 profil pembelajar tanpa pelatihan ulang model. Analisis NLP atas 2,910 respons dan studi manusia menemukan perbedaan terukur dan terpersepsi dalam abstraksi respons, verbositas, kompleksitas, dan gaya pemrosesan yang selaras dengan efek yang dimaksudkan. Ia mendemonstrasikan adaptasi bentuk-respons (bukan konten) sebagai jalur modular dan terukur menuju [[adaptive-learning|perilaku adaptif]] dalam tutor yang sudah diterapkan.
 
 - **Transfer dekat tanpa perolehan tes terstandar pada skala kelas.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google dan Eedi (2026)]] mengacak 1,179 siswa di 10 sekolah negeri Inggris ke empat lengan selama 10 minggu. Setelah dukungan, 56.5-56.9% menjawab pertanyaan diagnostik kedua dengan benar berbanding 43.4% di bawah remediasi standar; efek Star Maths adalah -0.01 hingga +0.02 SD. Tutor menyetujui 94.7% dari 94,385 draf tanpa perubahan, dan 6 kesalahan dalam 114,935 draf tertangkap sebelum mencapai siswa.
-
 
 ### Konsep ITS utama
 
@@ -156,7 +156,6 @@ Namun model siap-pakai mungkin tidak menyediakan bukti itu: [[worden-foundationa
 
 **Audit model komponen-pengetahuan terhadap kurva belajar, lalu rancang ulang dari apa yang ditunjukkan data.** Studi crossover kelas menerapkan proses perancangan ulang berbasis data Huang et al. pada empat unit ITS matematika sekolah menengah pertama yang dipilih berdasarkan topik, bukan kesesuaian untuk perancangan ulang. Analisis kurva belajar di DataShop menyingkap keterampilan interpolasi yang tidak dimodelkan dan kasus penanganan tanda yang tercampur; memisahkan KC ini dan menambahkan latihan terfokus dengan pelewatan langkah yang sudah dikuasai menghasilkan waktu-di-tugas yang lebih produktif (38.9 vs. 31.6 menit aktif, p < .001) dan lima keterampilan tambahan yang dikuasai dalam waktu kelas yang sama — tetapi tanpa perbedaan keuntungan belajar. Hasil nol itu dijelaskan oleh dosis latihan yang tipis (di bawah 70% penguasaan AFM pada kedua kondisi) dan pasca-tes yang tidak memuat butir tentang keterampilan yang baru dipisahkan. Dua pelajaran bagi pengembang: pasca-tes harus mencakup keterampilan yang baru ditemukan, dan manfaat adaptif dibatasi oleh latihan yang benar-benar diterima siswa. ([[lyu-data-driven-redesign-tutoring-2026]])
 
-
 Tutoring yang efektif menuntut adaptasi berkelanjutan: [[zhang-tutormoments-2026|Zhang et al. (2026)]] mengevaluasi apakah tutor LM beradaptasi dengan pemahaman pembelajar yang berkembang pada titik keputusan yang dianotasi guru. Mereka menemukan model terdepan cenderung terlalu banyak membantu dan jarang mendorong ketelitian, dan bahwa prompting yang sadar-evaluasi memperbaiki tetapi tidak sepenuhnya menyelesaikan adaptivitas. Setiap giliran kebuntuan tambahan menurunkan peluang pemulihan giliran berikutnya sebesar 12.7%, dan pertanyaan kehilangan nilainya seiring kedalaman (pertanyaan terskrip × kedalaman AOR = 0.78) sementara menangani kesalahan siswa menjadi lebih bermanfaat (AOR = 1.14) — eskalasi tutor, bukan hanya penahanan jawabannya, harus berubah ketika kebuntuan berlanjut ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). Pandangan sistematis atas cabang adaptasi yang digerakkan RL datang dari [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], yang tinjauan atas 89 studi RL-dalam-pendidikan menemukan kebijakan RL klasik lebih konsisten efektif daripada Deep RL dan adaptasi RL lebih sering menghasilkan keuntungan signifikan untuk tugas terkait bimbingan (petunjuk, [[feedback]]) daripada untuk penjadwalan konten — bukti bahwa cara ITS mengadaptasi perancah sama pentingnya dengan algoritma yang dipakainya.
 - **Mengadaptasi jenis keterlibatan kognitif, bukan hanya intensitasnya.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] menahan kesulitan tetap dan memvariasikan bentuk contoh-terkerjakan — terpandu (aktif) atau buggy (konstruktif) — melalui aturan BKT dan kebijakan deep-RL, keduanya mengalahkan penugasan acak (pasca-tes 72.3 dan 72.5 vs 65.7).
 
@@ -165,7 +164,6 @@ Tutoring yang efektif menuntut adaptasi berkelanjutan: [[zhang-tutormoments-2026
 - **Tutoring LLM terintegrasi-aturan untuk domain prosedural.** Looi, Liu, dan Sun (2026) menangani ketidakkonsistenan dan opasitas pedagogis tutor LLM dalam [[math-education|matematika]] sekolah dasar melalui studi ilmu desain atas sistem terpandu-aturan yang diorganisasi di sekitar arsitektur tiga lapis — *diagnosis → pemilihan niat → generasi respons terkendala*. Mereka memformalkan pembedaan antara **perancah terpandu-aturan** (diatur oleh aturan yang dapat diaudit dan direplikasi) dan **perancah ad hoc** (langkah membantu yang sulit diaudit atau direplikasi). Dievaluasi melalui dialog simulasi berbasis persona dan uji coba kelas dengan 40 siswa Kelas 5, perancah terpandu-aturan memperbaiki konsistensi interaksional, mengurangi pemberian jawaban prematur dan penutupan dini, serta mempertahankan keterlibatan kognitif — sementara uji coba kelas menyingkap kompleksitas interaksional, input terfragmentasi, dan fluktuasi atensi yang dilewatkan [[simulation]]. Ini cetak biru konkret untuk [[guardrails|memberi pagar pengaman pada]] tutor [[llm]] dalam domain prosedural yang terdefinisi baik.
 - **Tutoring [[agentic-ai|multi-agen]] dan [[automated-assessment|penilaian otomatis]].** Sistem tutoring multi-agen sedang ditolak ukur dengan evaluasi sintetis berbasis jejak. ASTRA mendukung konfigurasi tutor-tunggal, tutor-pasangan, dan pasangan-multiagen dengan agen yang terdiferensiasi secara sosial, memungkinkan analisis yang dapat direproduksi atas interaksi dan keseimbangan partisipasi dalam [[cs-education|pemrograman pengantar]]. Secara paralel, prompting yang sadar konteks mengotomatiskan pengodean keterampilan [[collaborative-learning|pemecahan masalah kolaboratif]] dari data proses, mendukung penilaian tutoring berskala besar.
 - **Rancang dengan nilai pembelajar, bukan hanya untuk kinerja pembelajar.** [[ko-hughes-vsd-student-centered-its-2026|Karya Value Sensitive Design]] bersama mahasiswa dan instruktur college komunitas dalam matematika perkembangan menunjukkan bahwa dimensi [[ethics|etis]] ITS bukan tambahan yang dapat dipisahkan: melibatkan siswa dan instruktur secara langsung menghasilkan 16 fitur selaras-nilai yang mencakup [[explainable-ai|keterjelasan]] (interpretasi pemeriksaan pemahaman, koneksi jalur belajar, mengomunikasikan keyakinan model), [[agency|kendali pembelajar]] (kendali atas penilaian ulang, tinjauan, kecepatan, dan tingkat bantuan AI), dan [[privacy]] (kendali penggunaan ulang data, prompt izin untuk berbagi [[learning-analytics|analitik pembelajaran]] dan keadaan [[affective-computing|afektif]]). Studi ini membingkai ketegangan desain yang menetap — [[agency|agensi siswa]] vs. perancah terpandu sistem — dan mencatat bahwa sebagian besar institusi menonaktifkan tutoring adaptif sepenuhnya, sehingga desain berbasis nilai juga bergantung pada bagaimana (dan apakah) kapabilitas AI ITS benar-benar diterapkan.
-
 
 - **Agen yang dapat diajari dan klasifikasi dialog yang tidak terlibat:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] menjalankan agen yang dapat diajari GPT-4-Turbo di dalam Math Nation (Aljabar dan Geometri), di mana siswa mengidentifikasi solusi terkerjakan mana dari dua yang memuat miskonsepsi, membenarkan koreksinya, dan mengajari agen — struktur [[learning-by-teaching]] dengan agen mentor terpisah yang menilai kualitas penjelasan. Di sepanjang 6,933 soal yang dibuka dan 22,143 interaksi tercatat, mereka membangun pengklasifikasi ketidakterlibatan percakapan enam kategori (human-in-the-loop: 1,682 ujaran teranotasi, LLaMA 3 yang disetel halus, F1 berbobot = 0.910, κ model-vs-manusia = 0.624) dan menggunakannya untuk mempelajari 246 siswa sekolah menengah pertama. Kontribusi metodologisnya sama pentingnya dengan temuannya: ketika pengklasifikasi melabeli sebagian besar korpus, hasil prevalensi harus diuji-tekan terhadap subset yang dianotasi manusia — dan di sini asosiasi utamanya (False Answering dan Mocking memprediksi pasca-tes lebih tinggi) menguap persis di bawah uji itu.
 
@@ -178,78 +176,3 @@ Tutoring yang efektif menuntut adaptasi berkelanjutan: [[zhang-tutormoments-2026
 **"Tutoring cerdas adalah teknologi pra-LLM yang digantikan LLM."** Garis keturunannya berlanjut dan kontribusi ITS adalah yang masih hilang di era LLM. ITS menyuplai model pembelajar, kendala antarmuka, dan estimasi penguasaan; sistem modern yang menambahkan LLM ke komponen-komponen itu mengungguli LLM sendirian, yang menjadikan disiplin lama itu bahan, bukan pendahulu.
 
 **"Tutor AI adalah satu jenis benda."** Tutoring mencakup spektrum intensitas relasional, dari generasi petunjuk hingga dialog berkelanjutan, dan kesimpulan desain dari satu titik pada spektrum itu tidak berpindah ke titik lain. Karena itu pertanyaan desain pedagogis selalu "tutoring jenis apa, mengerjakan tugas apa" alih-alih "apakah tutoring AI berhasil".
-
-## Konsep terkait
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## Artikel terkait
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: menyingkap kesenjangan responsivitas tutor LLM pada masalah pemrograman bersolusi ganda (Cen & Sonkar 2026)
-
-- [[leite-its-k12-meta-analysis-2025]] — Meta-analisis K-12 AS: 18 eksperimen, g = 0.271, dan apa yang memoderasinya (Leite et al. 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — RCT Inggris yang diperluas: perolehan transfer dekat tetapi tidak ada keunggulan tes terstandar pada 10 minggu (LearnLM Team, Google & Eedi 2026)
-
-- [[ai-proof-learning-cognitive-offloading-2026]] — Menopang atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: mengevaluasi tutor LLM pada siswa dengan perilaku menantang (Park et al. 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Kamera pada pekerjaan tulisan tangan: akses visual dan perbaikan proaktif (Kotalwar et al. 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Perilaku percakapan yang tidak terlibat dan pembelajaran dalam dialog siswa–AI (Rho et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Tutoring AI mengungguli pembelajaran aktif di kelas: RCT yang memperkenalkan desain berbasis penelitian baru dalam setting pendidikan autentik (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multi-Agen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[ko-hughes-vsd-student-centered-its-2026]] — Desain peka-nilai untuk ITS berpusat siswa dalam matematika perkembangan di college komunitas
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Mikro-personalisasi asisten pengajaran AI melalui rekayasa prompt (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalisasi berlebih yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum pembelajar tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Tutoring AI bukan monolit: apa yang sebenarnya kita ketahui (ringkasan Stanford SCALE/NSSA)
-- [[real-time-ai-feedback-technical-skills-2026]] — Umpan balik AI waktu-nyata untuk perolehan keterampilan teknis di perguruan tinggi pendidikan guru Negara Bagian Kwara: tutor terlokalisasi yang dibingkai sebagai subsidi kepegawaian
-- [[mishra-control-vs-agency-history-2025]] — Melacak garis keturunan ITS dari sistem pakar 1960-an–70-an hingga tutor kognitif
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Satu klik lagi: Khanmigo dalam eksperimen sekolah dua tahun
-- [[yasir-llm-tutoring-agents-2026]] — Menolak ukur agen umpan balik LLM dengan kebenaran dasar KG (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tutor AI yang dirancang instruktur dalam pendidikan bahasa asing universitas (Self-Determination Theory)
-- [[measuring-llm-tutors-teach-vs-solve]] — Mengukur apakah tutor LLM mengajar atau menyelesaikan
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Metodologi untuk meningkatkan kualitas tutoring AI dalam pendidikan K-12
-- [[zhang-tutormoments-2026]] — Ketika bantuan tidak membantu: mengevaluasi tutor AI untuk pergulatan produktif
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring cerdas berbasis graf untuk domain dinamis (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Perancah ICAP adaptif dalam sebuah ITS (BKT vs DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — AI khusus tutoring vs. serbaguna: bukti tentang hasil belajar yang tahan lama
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors dan keselamatan pedagogis
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutoring matematika afektif MathBuddy
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoring virtual dengan CAL: eksperimen tentang pengambilan dan pembelajaran
-- [[learnlm-improving-gemini-learning]] — LearnLM: meningkatkan Gemini untuk pembelajaran
-- [[teachlm-post-training-llms-education]] — TeachLM: pasca-pelatihan LLM dengan data pembelajaran autentik
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Pelacakan pengetahuan berbasis hasil dengan pemetaan afinitas
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Mengevaluasi tutoring AI dengan kecepatan inovasi: uji coba teracak-mikro yang dipimpin praktisi atas platform tutoring AI dalam GCSE Science
-- [[misconception-acquisition-dynamics-llms-2026]] — model tutor yang memperoleh banyak miskonsepsi siswa tanpa kehilangan penyelesaian yang benar
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan keuntungan belajar GRE yang setara
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Pagar pengaman atau penghalang? Efek gaya pedagogis dan kesadaran konteks pada asisten pengajaran AI untuk pemrograman
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — RCT multi-disiplin atas tutor AI yang dibumikan pada mata kuliah dan tertanam di LMS: nilai akhir turun 0.37 SD pada sampel exact-match, partisipasi platform turun 0.90 SD, tanpa integrasi instruksional (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Variasi dalam cara tutor AI terpandu menyelesaikan kebuntuan siswa, dan mengapa eskalasi harus berubah seiring kedalaman
-- [[lyu-data-driven-redesign-tutoring-2026]] — Mengevaluasi proses perancangan ulang berbasis data untuk sistem tutor cerdas: waktu-di-tugas dan keterampilan yang dilatih lebih produktif, tetapi tanpa perbedaan keuntungan belajar ketika dosis latihan tipis (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: kerangka berbasis teori untuk pembelajaran terpersonalisasi jangka panjang (Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Peluncuran matematika AI yang dimediasi guru di seluruh distrik: kesetiaan keterlibatan ~51% dan gradien dosis dari 0.11 SD (2 soal/minggu) hingga 0.31 SD (20+/minggu); asosiasi eksploratori lebih besar bagi siswa IEP, EL, dan Hispanik
-- [[llm-tutors-process-synthesis-2026]] — Apakah tutor LLM benar-benar mengajar? Sintesis berpusat proses atas lingkaran tutoring
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Namun model siap-pakai mungkin tidak menyediakan bukti itu: Worden et al.
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — Tutor AI multi-sumber untuk mahasiswa penutur bahasa Inggris non-pribumi

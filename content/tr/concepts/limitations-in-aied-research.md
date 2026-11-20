@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -125,48 +127,3 @@ Bu bilgi tabanının amacı, o boşluğu kapatmaya yardımcı olmaktır — aç�
 - **“Sınırlılık bölümleri kalıplaşmış metindir.”** Yöntemsel sınırlar **izlenimsel değil, ölçülebilirdir**: YZ ile eleştirel düşünme üzerine **80 insan-bilgisayar etkileşimi çalışmasının** eleştirel incelemesinde **42’si (%52) hiç kontrol grubu çalıştırmamıştır**. Sınırı eyleme dönüştürülebilir kılan şey kesin bir sayımdır.
 - **“Heterojenlik, alıntılayabileceğiniz tek bir sayıdır.”** Aynı inceleme bir raporlama tehlikesini gösterir: heterojenlik **sabit etkiler modelinde I² = %82,98, rastgele etkiler modelinde I² = %15,75** olarak alıntılanmaktadır. Aynı veri, seçilen modele göre dokuz puanlık ya da iki puanlık bir öykü üretir; dolayısıyla modeli belirtilmemiş bir I² yorumlanamaz.
 - **“Bildirilen büyük bir etki, güvenilecek sayıdır.”** **Tek bir kurumdaki tek bir derste 30 öğrenciden** çıkan bir etki gibi manşetler, kırılgan iddianın yaygın biçimidir ve kontrolsüz çalışmaların sayısı bu kırılganlığın ne sıklıkla bildirilmediğini gösterir.
-
-## Bağlı kavramlar
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Eğitimde YZ’de Teori Geliştirme
-
-## Bağlı makaleler
-
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Yükseköğretimde YZ sohbet robotları: beklentileri kanıtla karşılaştırmak (Thoeni & Fryer 2026)
-- [[ground-truth-reliability-aied]] — Değerlendirmede gerçek değerin güvenilirliği ve geçerliliği
-- [[ai-literacy-assessment-misalignment]] — Öz bildirimli ve performansa dayalı YZ okuryazarlığı
-- [[machines-misread-pedagogical-quality]] — Makinelerin pedagojik kaliteyi neden yanlış okuduğu
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — YZ özel derslerinin ve teori kullanımının kritik sınırları
-- [[cross-dataset-bloom-question-classification]] — Bloom’un taksonomisi ve soru sınıflandırma
-- [[eeg-familiarity-automated-assessment-2026]] — Öğrenen Değerlendirmesini Otomasyona Geçirmek: EEG Temelli Aşinalık Tahmini
-- [[weidlich-chatgpt-effect-search-cause-2025]] — Eğitimde ChatGPT: Nedenini Arayan Bir Etki (medya karşılaştırma eleştirisi)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta meta analiz: yayın yanlılığı düzeltmeli YZ etkileri bildirilen büyüklüğün kabaca 1/3’ü
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14 AIED meta analizinin adli nitelikte denetimi
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: YZ Destekli Sistematik Derlemeler için Ampirik Bir Raporlama Çerçevesi
-- [[frontier-models-physics-benchmark-audit-2026]] — Öncü Modeller Fizikte Ne Kadar İyi? Uzman Yeniden Notlandırması Kırık Değerlendirmeleri ve Başlıca Kıyasların Doyuma Yakınlığını Ortaya Çıkarıyor
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Titizlik eşiği olarak kullanılan katılım ölçütleri ve modelle değişen bir heterojenlik rakamı (Doğan ve ark. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Performans sonucuna anlamlılık ulaşmayan bir küme randomize sınıf denemesi (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: YZ ve insan özel ders desteği eşdeğer GRE öğrenme kazanımları sağlar
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — LLM Üretimi Geri Bildirimde Geri Bildirim Odağı ve Pedagojik Uyarlanabilirliğin Değerlendirilmesi
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Eğitim Diyaloglarının Denetlenebilir Kodlaması için İddia Temelli Şemalar
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Duygu Sınıflandırmasından Eyleme Dönüştürülebilir ve Sorumlu Geri Bildirime: Öğretimin Öğrenci Değerlendirmesinde NLP Üzerine Kapsam Derlemesi ve Kanıt Haritası, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Bağlılık Ölçütlerinin Gözden Kaçırdığı: Sentetik Eğitim Verileri Üzerine Yapısal Bir Denetim
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Arama dizesi tasarımının bildirilen frekansları şekillendirdiği 195 öğretmen eğitimi çalışmasının kapsam derlemesi
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Uluslararası K-12 öğretmen anketi: makine çevirisi maddeler, tek maddelik kaygı ölçüleri, değişmezlik testi yok
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 GenAI yükseköğretim çalışmasının sistematik derlemesi: %56 koşullu kazanım, süreç değişimini maskeleyen notlar (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Veri çoğaltma manşet metriği üretebilir

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -40,7 +41,3 @@ ai_assist:
 ## 采用前须知
 
 该插件需要 Claude Code 与 bash 环境才能安装；PowerShell 与 cmd 无法运行安装脚本，若需查看分数趋势建议安装 Python 3。课程数据保存在读者自己机器上的项目文件夹中，只有通过用户主动调用的集成（如 Canvas API 调用）才会离开该机器。Chrome 扩展的实时推理需要读者自备免费的 Google AI Studio API 密钥，不过模拟模式可在无密钥的情况下演示其效果。项目自标 3.5.1.0 版本为 beta 状态，并警告次要版本之间可能存在破坏性变更；它发布在 savvides 的 GitHub 账号下，而非由具名作者发布。
-
-## 关联概念
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

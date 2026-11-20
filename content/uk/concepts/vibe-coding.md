@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -98,30 +100,3 @@ ai_assist:
 
 - Повідомляйте умову вайбкодингу (чистий чи з видимим кодом) поряд із результатами й використовуйте перевірені експертами завдання з графічним інтерфейсом, а не [[self-report-measures|самозвіт]] про успіх, щоб результати були порівнюваними між дослідженнями.
 - Вимірюйте різноманітність артефактів, а не лише їхню кількість чи кількість творців, якщо перевіряється аргумент про доступ.
-
-## Пов’язані поняття
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Пов’язані статті
-
-- [[vibe-coding-writing-cs-achievement-2026]] — Успішність у комп’ютерних науках і навички письма передбачають майстерність вайбкодингу (емпіричне дослідження CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Напрямна рамкова основа для викладачів K-12 у створенні освітніх технологій на основі ШІ шляхом вайбкодингу
-- [[vibe-coding-programming-process-visualizer]] — Від ідеї до аудиторії за кілька днів: використання «вайбкодингу» для створення візуалізатора процесу програмування з журналів активності IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Вайбкодинг створив дві інженерні симуляції за лічені години; діагностика помилки протоколу все одно потребувала викладача
-- [[prompt-problems-nl-programming-mistakes]] — Розуміння сприйняття, помилок і підходів до налагодження студентів під час виконання завдань програмування природною мовою
-- [[code-to-learn-genai-artifact-construction-2026]] — Навчання через код із генеративним ШІ: теоретично обґрунтована рамкова основа конструювання артефактів у старшій середній освіті
-- [[reshaping-cs-education-genai]] — Переформатування базової освіти з комп’ютерних наук для генеративного ШІ
-- [[flowcode-ai-creative-coding]] — Flowcode: середовище програмування на основі ШІ для скаффолдингу ітерацій в освіті з креативного обчислювання
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Внутрішнє підприємництво на основі ШІ: викладачі створюють власні інструменти та організаційні умови, що вирішують, чи виживе цей порив (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Один інструмент, один смак? Як вайбкодинг міняє колективне різноманіття на індивідуальну креативність

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,12 +48,3 @@ Elsőéves írásoktatóknak és angol tanszékeknek, akik MI-visszajelzést aka
 ## Megjegyzések és fenntartások
 
 Az oldal 12 000+ diákról, 700+ kurzusról és 41 000+ átnézett esszéről számol be – szolgáltatói adatok, nem független audit. A FERPA-megfelelés, a GDPR-felkészültség és az akadálymentesség szintén a szolgáltató saját állításai; az esszék Azure OpenAI-n mennek át, és az oldal szerint nem használják őket modellek tanítására, amit egy tankerületnek az adatfeldolgozási megállapodásban kell megerősítenie, nem a marketingoldalról átvennie. Az árazás freemium, és célközönségenként változik: ingyenes első félév új oktatóknak (kérésre, iskolánként legfeljebb három), utána körülbelül \$12–15 diákonként és félévenként, valamint fizetős, átnézésenkénti csomag egyéni diákoknak, az első átnézés ingyenes. A ChatGPT Plus, a Packback és a Grammarly elleni összehasonlító táblázat a szolgáltató sajátja. A UC Davis partnerkapcsolata a PAIRR-projektben kutatási együttműködés, nem publikált bizonyíték arra, hogy a platform javítja az írást.
-
-## Kapcsolódó fogalmak
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

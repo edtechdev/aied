@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -103,64 +105,3 @@ ai_assist:
 - **"प्रामाणिकता यथार्थवादी कार्यों के बारे में है।"** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud और Du (2025)]] का **37 अनुभवजन्य अध्ययनों (2000 से 2024)** का [[meta-analysis-systematic-review|स्कोपिंग रिव्यू]] एक **छह-आयामी** डिज़ाइन मॉडल प्रस्तावित करता है, और **37 में से केवल 3 अध्ययनों ने सामाजिक प्रामाणिकता** को संबोधित किया, अर्थात क्या मूल्यांकन छात्रों को सामाजिक रूपांतरण में योगदान देने में मदद करता है। यथार्थवाद एक आयाम है और सबसे उन्नत आयाम पर मुश्किल से अध्ययन हुआ है।
 - **"प्रामाणिक मूल्यांकन AI का विरोध करता है।"** जोखिम मापने योग्य और बड़ा है: एक **तीन-वर्षीय मनोविज्ञान डिग्री** **90% उत्तीर्ण करने योग्य** सिद्ध हुई, जिसमें ChatGPT ने **40 में से 36 कोर्सवर्क मूल्यांकनों पर पर्याप्त आउटपुट** दिया, और केवल शेष मूल्यांकन बचे। किसी डिग्री के मूल्यांकन का अधिकांश हिस्सा AI से संतुष्ट करने योग्य था।
 - **"यदि काम वास्तविक दुनिया का है तो पुनःडिज़ाइन वैकल्पिक है।"** यह 36-में-से-40 परिणाम ऐसे कोर्सवर्क पर मिला जिसकी प्रामाणिकता संदिग्ध नहीं थी। कार्य का यथार्थवाद AI-पूर्णता से रक्षा नहीं कर सका; जो रक्षा कर सका वह यह डिज़ाइन था कि क्या मूल्यांकित किया जाता है।
-
-## संबंधित अवधारणाएँ
-- [[learner-identity]] — अनुशासनात्मक, पेशेवर, रचनात्मक और शैक्षणिक शिक्षार्थी पहचानों का विकास
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — योगात्मक मूल्यांकन: AI-प्रतिरोधी प्रारूप (मौखिक, प्रॉक्टर्ड, क्लोज़्ड-बुक परीक्षाएँ)
-- [[arts-and-media-education]]
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[thapa-lewis-process-oriented-assessment-2026]] — प्रक्रिया-उन्मुख मूल्यांकन और ज्ञान-सिद्धांतगत प्रामाणिकता, जो किसी कार्य को प्रमाणित करना चाहिए
-- [[ivory-psychology-assessment-integrity-2026]] — AI क्या उत्तीर्ण नहीं कर सका: उपस्थिति, दृश्य कलाकृतियाँ, और छात्र का अपना डेटा (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — इतिहास शिक्षा में पितृसत्तात्मक AI उपयोग और छात्र पहचान
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — प्रामाणिक मूल्यांकन के लिए डिज़ाइन: एक स्कोपिंग समीक्षा
-- [[beyond-detection-authentic-assessment-ai-2025]] — पहचान से परे: प्रामाणिक मूल्यांकन
-- [[responsible-assessment-ai-era-stanford-2026]] — AI युग में ज़िम्मेदार मूल्यांकन
-- [[authentic-products-authenticated-processes-2026]] — प्रामाणिक उत्पाद, प्रमाणित प्रक्रियाएँ
-- [[tool-invariant-framework-agentic-ai]] — संगणकीय विधियों के शिक्षण और मूल्यांकन के लिए उपकरण-अनिर्दिष्ट ढाँचा
-- [[cong-confidence-asag-2026]] — आत्मविश्वास-जागरूक स्वचालित लघु-उत्तर ग्रेडिंग
-- [[llm-fallacy-misattribution]] — LLM भ्रम और क्षमता का गलत आरोप
-- [[universities-ai-era-rethinking]] — AI युग में विश्वविद्यालयों पर पुनर्विचार
-- [[ssaho-ai-academic-integrity-review-2025]] — AI दुराचार का प्रतिकार करने के लिए एकाधिक मूल्यांकन विधियाँ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — प्रामाणिक, AI-प्रतिरोधी मूल्यांकन के रूप में मौखिक परीक्षाओं पर पुनर्विचार
-- [[roe-assessment-twins-2026]] — जनरेटिव AI युग में मूल्यांकन वैधता को मज़बूत करने के लिए मूल्यांकन जुड़वाँ (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — जनरेटिव AI-एकीकृत भविष्य में गुणवत्ता सीखने की आश्वासन के लिए अनुकूली क्षमताएँ (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — AI युग में अतुल्यकालिक मौखिक मूल्यांकन (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: GenAI संवाद के माध्यम से सीखने का मूल्यांकन (DRI + दृश्यमान विशेषज्ञता)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — प्रामाणिकता मानदंड जिन्होंने छात्र समूहों को GenAI उपयोग कम करने के लिए प्रेरित किया
-- [[teacher-educators-ai-integration-preservice-2026]] — AI विश्वास संकट जिसने शिक्षक शिक्षकों को निरीक्षित परीक्षाओं और मौखिक प्रतिपादनों की ओर धकेल दिया (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — अखंडता-उन्मुख डिज़ाइन को प्रामाणिक मूल्यांकन से अलग किया गया: निर्णय को दृश्यमान बनाना (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — दुराचार आरोप फ़ाइलें वास्तव में साक्ष्य के रूप में क्या रखती हैं, और वे किस प्रक्रिया प्रमाण से कमज़ोर हैं (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — डिटेक्टर सटीकता और हाइब्रिड-लेखन विफलता: पहचान कमज़ोर फ़ॉलबैक साक्ष्य क्यों है (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — अति-व्यापक AI निषेध: प्रतिलेखन उत्पादन नहीं है (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — जनरेटिव AI के साथ प्रामाणिक मूल्यांकनों का डिज़ाइन: उच्च शिक्षा में Assessment Authentifire का एक प्रायोगिक अध्ययन
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — कार्य यथार्थवाद का क्षरण: AI-प्रतिरोधी पुनर्डिज़ाइन ऑनलाइन भाषा शिक्षण में प्रामाणिकता का क्षरण
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — प्रामाणिक-सतह प्रारूप (दर्ज प्रस्तुतियाँ, दूरस्थ समूह परियोजनाएँ, डिजिटल कलाकृतियाँ) 53,915 वस्तुओं में उच्च स्कोर करती हैं: प्रामाणिकता लेखकत्व को सत्यापित नहीं करती

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -87,51 +89,3 @@ Pembelajaran aktif adalah salah satu tuas terkuat bagi [[learning-gains|peroleha
 - **"Inkuiri berbantuan AI otomatis bersifat tingkat tinggi."** Kuasi-eksperimen dengan **120 siswa Kelas 8** menemukan [[inquiry-based-learning|pembelajaran berbasis inkuiri]] berbantuan AI menaikkan kinerja matematika kreatif **dan** ukuran yang lebih sempit — perlakuan itu menggerakkan sebagian hasil dan bukan yang lain. Korelasi dengan label tingkat tinggi tidak sama dengan tugas tingkat tinggi.
 - **"Siswa merancang pengajaran adalah latihan teknis."** Dalam studi inversi, **345 siswa** dalam mata kuliah berisi 700 siswa masing-masing merancang agen percakapan untuk mengajarkan tiga pola desain kepada seorang teman. Pembelajaran aktifnya datang dari kerja desain, yang merupakan [[pedagogy|penalaran pedagogis]] alih-alih prompt engineering.
 - **"Temuan keterlibatan adalah temuan pembelajaran."** Basis bukti yang sama memperingatkan bahwa desain **tanpa kelompok kontrol dan sampel sukarela** hanya mendukung klaim keterlibatan. Siswa menghargai kebebasan desain terbuka (**22.3%** tema positif teratas) dan paling banyak mengeluhkan instruksi yang tidak jelas (**23.7%**) — keduanya menyangkut pengalaman.
-
-## Konsep terkait
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Tutoring AI mengungguli pembelajaran aktif di kelas: uji acak yang memperkenalkan desain berbasis penelitian baru dalam lingkungan pendidikan autentik (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Kerangka GenAI pembelajaran aktif untuk ekonomi (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — Studi EEG tentang mode interaksi AI (interaktif > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: pembelajaran eksploratif visual melalui simulasi multi-agen
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: tinjauan pascakuliah percakapan bertahap
-- [[academic-league-of-ai-2026]] — Academic League of AI: pembelajaran aktif berbasis proyek
-- [[mujib-ai-ibl-creative-math-2026]] — IBL berbantuan AI dan kinerja matematika kreatif
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Karakteristik pembelajar × interaksi format dialog TTS
-- [[instructional-guidance-genai-learning]] — Tinjauan AI dengan prompt versus tanpa prompt: struktur, bukan akses model, yang menggerakkan skor butir terbuka
-- [[assigned-ai-preclass-student-engagement-2026]] — Latihan AI prapelajaran menaikkan partisipasi di kelas 31% setelah penggunaan kedua, bukan yang pertama

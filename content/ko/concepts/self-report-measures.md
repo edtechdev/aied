@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -170,60 +172,3 @@ ai_assist:
 - **"설문 근거는 약하지만 대체로 편향되지는 않았다."** 응답 구조가 편향보다 먼저 추정치의 범위를 정합니다. 어떤 설문은 **31%의 응답률로 112개의 응답**을 얻고, 어떤 연구는 **572건의 초청에서 90개의 응답**을 얻습니다. 응답자 집단은 스스로 선택된 부분집합이므로, 그 수치는 그 부분집합을 서술합니다.
 - **"설문은 이 분야에서 소수 방법이다."** **생성형 AI 고등교육 연구 394건**을 대상으로 한 범위 고찰에서 **설문 척도가 가장 자주 보고된 평가 방법(269건, 68.3%)**이었고, 시험과 퀴즈가 그 뒤를 이었습니다. 이 분야의 지배적 근거는 자기보고입니다.
 - **"자기보고와 측정된 구인은 일치한다."** **에세이 저자성이 80%에서 2%까지 걸친 과도 의존 프로파일들 사이에서 자기보고된 인지 부하는 유의하게 다르지 않았지만**, 가장 많이 위임한 학습자들은 측정 가능하게 달랐습니다. 행동이 40배로 갈린 곳에서 주관적 측정은 평평했습니다.
-
-## 연결된 개념
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## 연결된 문서
-
-- [[kares-xai-evaluation-alignment-2027]] — 참가자 166명, 세 가지 현저성 방법: 만족도와 신뢰는 평평하고 과제 수행과 충실성 지표는 서로 불일치(Kares et al., 2027)
-- [[capability-decision-model-teacher-readiness-2026]] — 자기보고된 AI 역량을 효능감 신념으로부터 분리하기 위한 판별 타당성 기준
-- [[pramod-agentic-ai-motivational-pathways-2026]] — 에이전틱 AI 경로 모델에서 참여가 지각된 것이지 측정된 수행을 예측한다 (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — 교사의 AI 리터러시에 대한 병행된 자기보고와 객관적 측정
-- [[jin-glat-genai-literacy-assessment]] — GLAT: 자기보고에 대한 수행 기반 대안
-- [[genai-student-experiences-uk-he-survey-2026]] — 영국 기관들을 가로질러 설문된 학생의 GenAI 사용
-- [[student-llm-interaction-taxonomy-review-2026]] — 데이터가 자기보고였는지 로그였는지에 의해 형성되는 분류 체계
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI 리터러시를 특성화하는 과정 데이터
-- [[engagement-intensity-learner-modeling]] — 학습자 모델링 신호로서의 자기보고된 사용량
-- [[predicting-attrition-competitive-programming]] — 연습 행동 대비 자기보고된 확신
-- [[ai-use-critical-thinking-medical-students-2026]] — 단일 출처 매개 모델에서의 공통 방법 편향
-- [[genai-motivation-engagement-2026]] — 동기와 참여의 자기보고 전용 PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — AI 사용과 신뢰에 관한 물리학 학부생 81명의 설문
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 자기보고 해법으로서의 화면 녹화와 자극 회상
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — 자기 조절 학습에 관한 자기보고와 궤적 데이터
-- [[adaptive-pretesting-retention]] — 로그에서 도출된 행동적 노력 지표
-- [[ai-vocational-education-training-review]] — 자기보고/객관적 측정 불균형을 보고하는 고찰
-- [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — 한 사회학과에서의 설문과 면담
-- [[competent-generative-ai-use-measures-review-2026]] — AI 리터러시를 넘어서: 유능한 생성형 AI 사용의 측정에 대한 구조적 검토와 탐색적 메타분석
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI 관련 인지 부하 전가를 위한 프라이버시 보존 자기성찰 도구
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 지각된 역량이 무엇을 확립할 수 있는지 명시적인, 상급 초등 학생을 위한 15문항 자기 평가 도구
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사의 AI 리터러시 도구 33개 가운데 31개가 자기보고이고 어느 것도 수행 기반이 아님을 발견한 고찰
-- [[high-school-genai-acceptance-tam-physics-2026]] — 하나의 의도 점수, 두 가지 상반된 사용
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 설문의 실시 방식이 응답에 영향을 주는가
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 자기보고 대리 변수로 도출한 행동 군집
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 같은 구인, 같은 결론인가: 자기보고 대 수행
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — 지각된 소유감은 전체 에세이 위임을 다른 모든 것과 분리했고, 추적 데이터는 훨씬 더 많이 분리했다 (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66개 연구 중 32개가 지각을 보고한 반면 탐구 기술을 측정한 것은 8개
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — AI 리터러시 도구의 63.8%가 신뢰도 증거를, 20% 미만이 타당도 증거를 보고
-- [[huang-genai-academic-information-resources-2026]] — 도서관 로그와 설문 태도가 서로 다른 방향을 가리킨다
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — 모든 설문 측정에서 지각된 학습과 참여가 올랐지만 시험 점수는 움직이지 않았다
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — α = 0.997의 300문항 교수 척도가 요인 분석 없이 99.68% 정확도로 예측되다
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — 타당화된 척도에서 중위수는 그대로인데 유의한 부호 검정
-- [[tischkau-ai-simulated-patient-formats-2026]] — 기대와 기억을 비교하는 잠정 사전-사후 척도, 하위척도 알파 −0.39에서 0.87까지(Tischkau et al. 2026)
-

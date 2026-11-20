@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -71,41 +73,3 @@ Regulierung reicht nicht automatisch nach unten durch: 32 Förderstellen, die do
 - **„Institutionelle KI-Politik ist der Ort, an dem die Regeln leben."** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson und Rainies (2026)]] Befragung von **1.057 US-amerikanischen Fakultätsangehörigen** misst, wie weit unterhalb der institutionellen Ebene die effektiven Regeln sitzen: **87% der Antwortenden schrieben** ihre eigene Orientierung. Die operative Politik ist weitgehend von Fakultätsangehörigen verfasst, was bedeutet, dass die dokumentierte institutionelle Ebene weniger beschreibt, als es scheint.
 - **„Eine Politik zu schreiben deckt die riskante Fläche ab."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] zeigt, warum Assessment-Werkzeuge in die regulierte Menge gehören: In einem Red-Team-Test gelangen **zwei von fünf indirekten Prompt-Injections**, die in einer Einreichung versteckt waren. Eine Regel, die Werkzeuge benennt, aber nicht Injektionsflächen, lässt den Exploit unadressiert.
 - **„Agentische Systeme sind durch die Erweiterung bestehender Regeln abgedeckt."** In einer dokumentarischen Analyse von **12 Universitäten** fanden [[wong-sun-agentic-ai-assessment-governance-2026|Wong und Sun (2026)]] **keinen Vergleichsfall, der einen Agenten behandelte, der sich in ein Lernmanagementsystem einloggt**. Die Governance-Lücke ist strukturell: Bestehende Kategorien haben keinen Platz für einen autonomen Akteur mit Zugangsdaten.
-
-## Verbundene Konzepte
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — rechtliches Risiko, wenn Regulierung und Governance unklar oder zu breit sind
-
-## Verbundene Artikel
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulbildungspolitik
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — KI-Offenlegungsframeworks
-- [[genai-assessment-governance]] — Assessment-Governance unter GenAI
-- [[league-ethical-governance-student-data-2026]] — Ethische Governance von Studierendendaten
-- [[student-regulatory-awareness-genai]] — Regulatorisches Bewusstsein von Studierenden zu GenAI
-- [[dot-framework-survey-2026]] — Technologieübernahme-Frameworks
-- [[raza-farooq-aied-review-2020-2025]] — Umfassender Review der AIED-Forschung
-- [[qian-governing-genai-higher-ed-policy-2026]] — Orientierung vor bindender Politik: interne KI-Regeln in 50 innovativen US-Universitäten (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — GenAI-Politik von Law Schools auf fünf Dimensionen bewertet: standardmäßig prohibitiv, Entscheidungsfreiheit der Lehrenden, periodische Prüfung (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Überinklusive KI-Verbote und die Anpassungspflichten, die sie berühren können (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Sprachlicher Hintergrund in Assessment-Regeln: die Grenze zwischen Unterstützung und Substitution als Gleichstellungsfrage (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injection-Angriffe auf KI-Bewerterinnen und -Bewerter und das Plädoyer für standardisierte Resilienztests (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Externer regulatorischer Druck als Bedingung für Governance-Reform (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87 % der Fakultätsangehörigen schreiben ihre eigenen Regeln gegen eine dünne institutionelle Politikebene (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — „Wir machen es später“: Bildung, KI und das Aufschieben des Datenschutzes von Studierenden in EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Keine Vergleichspolitik behandelte einen KI-Agenten, der sich in ein LMS einloggt oder Zugangsdaten von Studierenden hält (Wong & Sun 2026)
-- [[chan-ai-policy-gap-2026]] — Vertikale Nichtübersetzung: Bundesstaatliche Regeln existieren, während die Förderstellen darunter kein bindendes Instrument erlassen (Chan 2026)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -89,29 +91,3 @@ ai_assist:
 - **«ИИ в экологическом образовании в основном поставляет информацию.»** Измеренный прирост приходится на **принятие решений**: студенты, работавшие с ИИ-партнёром внутри структурированной задачи [[inquiry-based-learning|исследования]], превзошли сверстников, занимавшихся только исследованием (**d = 0.69**), и традиционное обучение (**d = 1.88**) по показателю принятия решений, причём прирост **сконцентрирован на самых слабых шагах**. Эффект — в качестве рассуждения, в тех точках, где студенты были слабее всего.
 - **«Исследование само по себе и есть действующий ингредиент.»** Исследование с поддержкой ИИ **улучшило принятие климатических решений по сравнению с одним лишь исследованием**, так что вклад ИИ был дополнением к педагогической структуре, а не её заменой.
 - **«Большие эффекты на малых выборках — всё равно большие эффекты.»** ИИ-поддержанный [[learning-design|учебный дизайн]] в условиях педагогики устойчивого развития **улучшил планы уроков будущих преподавателей с d = 2.80 на 28** участниках — собственное слово рецензентов — *неправдоподобно большой*, и эффект такого размера на такой выборке следует рассматривать как сигнал, а не как оценку.
-
-## Связанные концепции
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Связанные статьи
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[llm-environmental-impact-student-usage-2026]] — Eco-feedback on latency–carbon trade-offs with 89 CS students
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantized assistant at 1.8 mWh per query
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: sustainability consciousness in engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Sustainable learning" as durable cognitive agency, not an environmental claim

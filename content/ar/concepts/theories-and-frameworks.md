@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T06:32:21-05:00"
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 
@@ -131,31 +133,3 @@ updated: "2026-11-08T06:32:21-05:00"
 **«نظريات التعلّم ونماذج المتعلّم وأطر التبنّي عدسات قابلة للتبادل.»** إنها تجيب أسئلة مختلفة — كيف يحدث التعلّم، وما حالة المتعلّم، ولماذا تنتشر ممارسة — وتختلف أنواع أدلتها تبعًا لذلك. واختيار الطبقة الخاطئة يُنتج دراسة تقيس المتغيّر الصحيح مقابل التنبؤ الخاطئ، فتُقرأ كنتيجة صفرية بينما هي خطأ في التصنيف.
 
 **«مزيد من الأطر يعني مجالًا أنضج.»** الأطر المخترعة لعصر الذكاء الاصطناعي تتراكم أسرع مما تُختبر، والتراكم دون تكذيب عَرَض لا تقدّم. فالنضج يظهر في حلّ تنبؤات متنافسة، لا في نموّ المفردات.
-
-## المفاهيم المرتبطة
-
-- [[theory-development-aied]] — بناء النظرية ومراجعتها في المجال
-- [[philosophy-of-ai-in-education]] — الطبقة المعيارية والمفاهيمية
-- [[learning-theories]] — المظلة لنظرية التعلّم
-- [[learning-sciences]] — المجال المجاور الذي تُستعار منه معظم النظريات
-- [[limitations-in-aied-research]] — ما تستطيع قاعدة الأدلة أن تدعمه وما لا تستطيع
-- [[tpack]] — إطار معرفة المعلم
-- [[technology-acceptance-model]] — أطر التبني
-- [[item-response-theory]] — نموذج قياس
-- [[universal-design-for-learning]] — إطار تصميم
-- [[research-methods-aied]] — كيف تُختبر النظرية
-
-## المقالات المرتبطة
-- [[genai-chatbots-language-learning-affordances-review-2026]] — إتاحات عاطفية مقترحة كفئة رابعة في تصنيف الإتاحات
-- [[ai-game-based-learning-systematic-review-2026]] — التوافق بين الآلية والنظرية، لا تطور الخوارزمية، هو ما حرّك الفعالية في 55 دراسة في التعلّم القائم على الألعاب المدعوم بالذكاء الاصطناعي
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — أربعة عقود من AIED عبر إطار AI×Ed
-- [[educating-minds-generative-ai-2026]] — توليف غزير نظريًا للذكاء الاصطناعي التوليدي والتعلّم
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — نظرية النشاط مطبَّقة على التطوير المهني للمعلمين
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — نظرية النشاط وتبني المعلمين
-- [[generativism-learning-theory]] — نظرية تعلّم مُقترحة لعصر الذكاء الاصطناعي التوليدي
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — نحو نظرية الفاعلية المعرفية المشتركة
-- [[absent-cognitive-baseline-2026]] — تنظير فجوة بنيوية في تقييم طلاب الذكاء الاصطناعي الأصليين لأنفسهم
-- [[yan-agentivism-learning-theory-ai-2026]] — نظرية تعلّم متوسطة المدى للتفاعل بين الإنسان والذكاء الاصطناعي
-- [[ai-literacy-instrument-development-systematic-review-2026]] — تطوير الأدوات عبر بناء شاب
-- [[mishra-control-vs-agency-history-2025]] — توتر المجال التأسيسي بين التحكم والفاعلية

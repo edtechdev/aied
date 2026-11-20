@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -51,7 +53,6 @@ ai_assist:
 
 - **נרטיב שנוצר קל להפקה וקשה לשמור על קוהרנטיות.** עם 22 סטודנטים ל-STEM, סיפורת אינטראקטיבית שנוצרה על ידי AI דורגה היטב בבהירות נרטיבית (M = 4.11) ובאורך (M = 4.14), אך המעורבות ישבה על נקודת האמצע הנייטרלית (M = 3.08) וקוהרנטיות תוכן הסיפור הייתה החלשה ביותר (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). יצירה משותפת יורשת את החולשה הזו בשכבה שבה הסיפור אמור לעשות את עבודתו.
 
-
 סיפורי מתחברים ל[[student-engagement]], ל[[motivation]], ל[[creativity]], ל[[educational-robotics]], ל[[language-learning]], ל[[social-emotional-learning]], ול[[educational-robotics]].
 
 ## תפיסות מוטעות נפוצות
@@ -63,23 +64,3 @@ ai_assist:
 **"יצירה על-ידי AI הופכת סיפורי לזמין עבור סטודנטים שלא יכלו לכתוב."** היא הופכת *הפקה של תוצר כתוב* לזמינה, וזו תועלת שונה. סיפור בעל-פה, ציור והכתבה הם הדרכים המבוססות לאותה מטרה, והם שומרים על הבעלות שהיצירה מסירה.
 
 **"הערך החינוכי של סיפור טמון בתוצאה המלוטשת."** הוא טמון בבנייה — בבחירה ובסדר שהמספר מבצע. סיפור מלוטש שהסטודנט לא בנה מראה את כשירות המודל ולא את זו של הלומד.
-
-## מושגים מקושרים
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## מאמרים מקושרים
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-
-- [[ai-generated-interactive-fiction-education-2026]] — סיפורת אינטראקטיבית שנוצרה על ידי AI: קוהרנטיות כממד החלש בפיילוט עם 22 סטודנטים
-

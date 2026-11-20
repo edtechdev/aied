@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -41,12 +42,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 이것은 지침이며 평가가 아니다. 가이드는 성과 데이터를 제시하지 않으며, 기관 사례(캐나다 College of the North Atlantic의 내용 통합형 AI 학습 모델, 케냐의 2023년 산업 실습 TVET 표준)는 프로젝트 보고서에 근거한 서술적 사례이며 독립적 실험이 아니다. 부록은 스스로를 참고용이라고 밝히며, 성숙도 척도는 논의를 돕는 수단이지 측정 도구가 아니다. 안전이 중요한 직업과 규제 대상 직업에는 별도 장이 있으나, 규제 수준의 세부 내용이 아니라 인간 감독에 관한 입장을 논한다. CC BY-SA 3.0 IGO 라이선스는 출처 표시와 동일 조건 공유를 조건으로 개작과 재배포를 허용한다.
-
-## 연결된 개념
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

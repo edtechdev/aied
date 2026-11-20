@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -55,7 +57,6 @@ AI سے پیدا ہونے والے تناؤ کا سب سے واضح اور سب 
 پروکٹرنگ سے آگے، AI کا استعمال خود اضطراب پیدا کرتا ہے — بے گھر ہو جانے کے بارے میں، اِس بارے میں کہ کسی کا کام ”واقعی اُس کا اپنا“ ہے یا نہیں، اور صلاحیت کے بارے میں۔ اہم بات یہ ہے کہ یہ اضطراب **خالصتاً منفی نہیں**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] پاتے ہیں کہ **AI کا اضطراب پیداواری ہو سکتا ہے**: زیادہ AI اضطراب کا تصدیق اور نظرثانی کے رویّوں سے مثبت تعلق تھا (β=.24, p<.01)، اور تشخیصی صلاحیت نے فعال [[student-engagement|شمولیت]] کی پیش گوئی کی (β=.46, p<.001)۔ Kim کی چار ضابطگی اقسام (غیر تنقیدی انحصار 18.7%، انتخابی انضمام 34.6%، تشخیصی تبدیلی 31.8%، حکمت عملیاتی رد 14.9%) دکھاتی ہیں کہ اضطراب سے چلنے والی جانچ طلبہ کو [[generative-ai|جنریٹو AI]] کے غیر فعال اپنانے والوں کے بجائے زیادہ سوچے سمجھے، خود ضابطگی والے صارفین میں بدل سکتی ہے۔ یہ AI کے اضطراب کو رکاوٹ سے ایک ممکنہ مفید اشارے میں بدل دیتا ہے جو زیادہ باریک بینی سے جانچ کی ترغیب دیتا ہے۔
 
-
 اِس نئی فریمنگ کی بولنے میں ایک حد ہے: 708 [[multilingual-learning|انگریزی سیکھنے والوں]] میں، بولنے کے اضطراب اور بولنے کی آمادگی کا رشتہ کم بولنے کی خود اعتمادی پر −0.371 تھا مگر زیادہ پر +0.137، اور صرف 55 شرکاء (7.8%) Johnson–Neyman کی بالائی حد سے اوپر تھے ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]])۔
 - [[acceptance-ai-english-tools-2026|قبولیت کے مطالعات]] دکھاتے ہیں کہ اضطراب طے کرتا ہے کہ سیکھنے والے AI اوزار اپناتے ہیں یا نہیں، اور [[teacher-education-ai-literacy-sdt-2026|اساتذہ کی تعلیم پر تحقیق]] AI کے اضطراب کو محرک اور [[self-regulated-learning|خود ضابطگی]] سے جوڑتی ہے۔
 - **افشا کا مخمصہ۔** 409 انڈرگریجویٹس کے سروے میں، اساتذہ کے ساتھ سہولت اور ساتھیوں کے سامنے افشا کا ادراک — نہ کہ اخلاقی لاتعلقی — GenAI کے استعمال کے افشا کے سب سے مضبوط پیش گو تھے، اور عدم افشا کو ساتھیوں کے معیاروں اور کم تشریحی بھروسے کے ساتھ حکمت عملیاتی موافقت کے طور پر پڑھا گیا، غفلت کے طور پر نہیں ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]])۔
@@ -71,9 +72,7 @@ AI سے پیدا ہونے والے تناؤ کا سب سے واضح اور سب 
 
 **ادارتی معاونت اضطراب پر تسلی کے بجائے تشخیص کے ذریعے کام کرتی ہے۔** 547 چینی انڈرگریجویٹس کا دو مرحلوں والا سروے ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) یہ سراغ لگاتا ہے کہ اسکول کی سمجھی جانے والی معاونت کا AI سیکھنے کے اضطراب سے تعلق کنٹرول-قدر کی تشخیص کے ذریعے کیسے چلتا ہے — یعنی سیکھنے والے کا اپنی صلاحیت کا احساس (کنٹرول) اور اوزار کی افادیت کا احساس (قدر)۔ معاونت نے براہِ راست کم اضطراب کی پیش گوئی کی، مگر اُس کا زیادہ تر تعلق تشخیص کے گرد نہیں بلکہ اُن کے ذریعے چلا: AI سیکھنے کی خود اعتمادی کے ذریعے، [[technology-acceptance-model|سمجھی جانے والی افادیت]] کے ذریعے، اور ایک متوالی راستے کے ذریعے جس میں خود اعتمادی نے افادیت کو سیراب کیا، جس نے بدلے میں اضطراب کم کیا۔ ایک اولین درجے کے ماڈل نے دکھایا کہ معاونت کے *ابعاد* خود مختار طور پر یہ کام نہیں کر رہے تھے — صرف معلوماتی معاونت کا خود اعتمادی تک نمایاں راستہ باقی رہا — اور ایک مصنوعی عصبی نیٹ ورک کی متوازی توثیق نے خود اعتمادی اور سمجھی جانے والی افادیت کو اضطراب کے سب سے مستحکم پیش گو قرار دیا۔ مضمر یہ ہے کہ اضطراب کے لیے کی گئی ادارتی ترغیب تب ہی اثر کرتی ہے جب وہ بدل دے کہ طلبہ اپنی صلاحیت اور اوزار کی افادیت کے بارے میں کیا مانتے ہیں؛ عمومی تسلی اُن تشخیصات کو نہیں بدلتی جو اضطراب پیدا کرتی ہیں۔
 
-
 AI تعلیمی اضطراب کو تسلی کے بجائے سیکھنے کے اہداف آگے بڑھا کر بھی کم کر سکتا ہے: 721 میڈیکل طلبہ کے سروے اور 398 کے تجربے میں، معاون کی زیادہ سمجھی جانے والی صلاحیت نے مطالعے کے ہدف میں زیادہ پیش رفت کی پیش گوئی کی، جس نے بدلے میں کم تعلیمی اضطراب اور بہتر ذہنی صحت کی ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]])۔
-
 
 تاہم صلاحیت مکمل حفاظتی تکیہ نہیں: 551 چینی پہلے سال کے طلبہ میں، [[self-report-measures|خود رپورٹ شدہ]] AI استعمال کا دباؤ AI مہارت اور نفسیاتی موافقت کے درمیان رشتے کو کمزور کر گیا، اور AI مہارت سے موافقت کا ڈھلوان کم دباؤ میں 0.42 سے زیادہ دباؤ میں 0.20 پر آ گیا ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]])۔
 
@@ -90,10 +89,8 @@ AI تعلیمی اضطراب کو تسلی کے بجائے سیکھنے کے ا�
 
 - **پیشہ ورانہ موافقت ایک حفاظتی عنصر ہے۔** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] دکھاتے ہیں کہ پیشہ ورانہ موافقت کی صلاحیتیں انگریزی کے طلبہ میں AI کے اضطراب کی نمایاں اور منفی پیش گوئی کرتی ہیں، اور بنیادی خود تشخیصات اِس رشتے میں جزوی ثالثی کرتی ہیں؛ کم موافقت والے گروہ میں AI کا اضطراب سب سے زیادہ تھا۔
 
-
 - **خطرہ اور سازگار تشخیص ایک ہی پروفائل میں بیک وقت متحرک۔** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] نے ایک ایسا گروہ پایا جو چھوں کے چھ اشاروں پر بیک وقت نمونے کی اوسط سے اوپر تھا — AI استعمال کا اضطراب 1.521 اور STARA آگاہی 0.951 کے ساتھ سمجھی جانے والی کیفیت 1.753 — چنانچہ زیادہ اضطراب نے ٹیکنالوجی کے منفی تشخیص کی علامت نہیں دی۔
 - **AI کا اضطراب پیشہ ورانہ فیصلے خراب کرتا ہے۔** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] ساختی مساوات ماڈلنگ سے دکھاتے ہیں کہ AI کا اضطراب پیشہ ورانہ فیصلوں کی براہِ راست اور منفی پیش گوئی کرتا ہے، اور یہ زیادہ تر **پیشہ ورانہ موافقت** کو کمزور کر کے کرتا ہے (کل اثر کا 63.35% اس کے کھاتے میں)؛ [[self-efficacy]] نے صرف محدود حفاظتی تکیہ دیا۔
-
 
 - **ترقی پسند ذہنیت روزگار کی قابلیت تک خطرے کے راستے کو محدود کرتی ہے۔** 526 چینی انڈرگریجویٹس میں، AI کے روزگار کے خطرے کا ادراک پیشہ ورانہ فیصلے کرنے کے زیادہ اضطراب کی پیش گوئی جزوی طور پر روزگار کی سمجھی جانے والی قابلیت کو کم کر کے کرتا تھا، اور خطرے سے قابلیت کا رشتہ صرف کم ترقی پسند ذہنیت پر قائم رہا (b = −0.229) اور زیادہ پر نہیں (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]])۔
 - **AI کا اضطراب بڑے پیمانے پر نوکری تلاش کرنے کے اضطراب کی پیش گوئی کرتا ہے۔** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 طلبہ) اور [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 صحت کے علوم کے طلبہ) پاتے ہیں کہ AI کا اضطراب اور AI کے بارے میں منفی رویّے نوکری ملنے اور نوکری تلاش کرنے کے اضطراب کی پیش گوئی کرتے ہیں، اور خواتین، سماجی علوم کے طلبہ اور کم آمدنی والے طلبہ سب سے زیادہ متاثر ہیں۔
@@ -124,57 +121,3 @@ AI تعلیمی اضطراب کو تسلی کے بجائے سیکھنے کے ا�
 - **”AI کا اضطراب خالصتاً نقصان دہ ہے۔“** یہ اضطراب **خالصتاً منفی نہیں**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] پاتے ہیں کہ **AI کا اضطراب پیداواری ہو سکتا ہے**، اور زیادہ اضطراب زیادہ حکمت عملیاتی ضابطگی سے جڑا ہے۔ اضطراب صرف بوجھ کے طور پر نہیں بلکہ باریک بینی سے جانچ کے اشارے کے طور پر کام کرتا ہے۔
 - **”سب مضطرب طلبہ ایک جیسا ردِعمل دیتے ہیں۔“** Kim کی **چار ضابطگی اقسام — غیر تنقیدی انحصار 18.7%، انتخابی انضمام 34.6%، تشخیصی تبدیلی 31.8%، حکمت عملیاتی رد 14.9%** — دکھاتی ہیں کہ اضطراب سے چلنے والی جانچ **چار الگ** نمونے پیدا کرتی ہے۔ ”مضطرب طلبہ“ کو نشانہ بنانے والی مداخلت اِس بات سے محروم رہ جاتی ہے کہ سب سے بڑا واحد گروہ انتخابی انضمام کرنے والا ہے۔
 - **”اضطراب ہمیشہ شرکت دباتا ہے۔“** اِس نئی فریمنگ کی **بولنے میں ایک حد ہے**: **708 انگریزی سیکھنے والوں** میں، بولنے کے اضطراب سے آمادگی کا رشتہ **کم بولنے کی خود اعتمادی پر -0.371 مگر زیادہ پر +0.137** رہا۔ خود اعتمادی زیادہ ہو تو اضطراب آمادگی کے ساتھ چل سکتا ہے، چنانچہ اثر کی سمت اعتماد پر منحصر ہے۔
-
-## منسلک تصورات
-- [[career-development-and-readiness]] — AI کے اضطراب کے خلاف حفاظتی عنصر کے طور پر پیشے کی تیاری
-- [[well-being]] — وہ وسیع چھتری جسے یہ تصور گہرائی سے کھولتا ہے
-- [[remote-proctoring]] — نگرانی اور جھوٹے الزام کے تناؤ کا بنیادی ذریعہ
-- [[social-emotional-learning]] — شامل جذباتی صلاحیتیں
-- [[affective-computing]] — جذباتی کیفیت پڑھتا AI
-- [[affective-tutoring]] — جذبات پر ردِعمل دیتا AI
-- [[academic-integrity]] — سالمیت اور نقل کے الزام کی جہت
-- [[privacy]] — پروکٹرنگ کے تناؤ کے پیچھے نگرانی کی تشویش
-- [[student-experience]] — سیکھنے والے کے تجربے کا حصہ کے طور پر اضطراب
-- [[motivation]] — اپنانے اور شمولیت پر اضطراب کا اثر
-- [[self-regulated-learning]] — پیداواری اضطراب کا ربط
-- [[ai-literacy]] — ایسی صلاحیت بنانا جو بے بنیاد اضطراب کم کرے
-- [[equity-in-ai-education]] — کمزور طلبہ پر غیر متناسب تناؤ
-- [[ethics]] — نگرانی اور جھوٹے الزامات کا انصاف
-- [[teacher-role]] — استاد کی طرف کا اضطراب
-- [[assessment]] — AI سے ثالثی شدہ جانچ کا اضطراب
-- [[social-norms-ai-use]] — نظر آنا اور اُس کی جذباتی قیمت
-
-## منسلک مضامین
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — ممتحن جیسے ایجنٹ نے ناپی گئی بولنے کی قابلیت اور اضطراب بیک وقت بڑھائے
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - صلاحیت اخلاقی بیداری بڑھاتی ہے، اخلاقی بیداری AI کا اضطراب بڑھاتی ہے: 584 طلبہ میں صرف بالواسطہ ثالثی
-- [[ai-anxiety-strategic-regulation-writing-2026]] — پیداواری حکمت عملیاتی ضابطگی کے اشارے کے طور پر AI کا اضطراب
-- [[aivaluate-anxiety-assessment-2026]] — AI سے ثالثی شدہ کارکردگی پر مبنی جانچ میں طلبہ کا اضطراب
-- [[ai-campus-wellbeing-tools]] — کیمپس کی بہبود کے لیے AI سے چلنے والے اوزار
-- [[affective-text-wearable-student-health]] — طلبہ کی صحت کے لیے جذباتی متن اور پہنے جانے والے سینسر
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — خودکار پروکٹرنگ، امتحان دہندگان کا اضطراب، جھوٹے الزامات
-- [[automated-online-exam-proctoring-decade-review-2026]] — خودکار امتحانی پروکٹرنگ کا ایک دہائی پر محیط جائزہ
-- [[moral-panic-genai-classroom]] — GenAI کے بارے میں اساتذہ کا اضطراب اور اخلاقی گھبراہٹ
-- [[acceptance-ai-english-tools-2026]] — AI اوزار کی قبولیت کی تشکیل کرتا اضطراب
-- [[teacher-education-ai-literacy-sdt-2026]] — اساتذہ کی تعلیم، AI خواندگی اور اضطراب
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI کا استعمال اضطراب، بھروسے اور اعتماد سے جڑا ہوا
-- [[qu-wang-disclose-or-not-genai-2026]] — افشا کا مخمصہ بطور طلبہ کے تناؤ کا سبب
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI کے اضطراب اور مداخلات کا جامع تجزیہ
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — پیشہ ورانہ موافقت کی صلاحیتیں AI کا اضطراب کم کرتی ہیں
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI کا اضطراب پیشہ ورانہ موافقت کے ذریعے پیشہ ورانہ فیصلے خراب کرتا ہے
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI کا اضطراب اور رویّے نوکری تلاش کرنے کے اضطراب کی پیش گوئی کرتے ہیں
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI کا اضطراب صحت کے علوم میں نوکری تلاش کرنے کے اضطراب کی پیش گوئی کرتا ہے
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — یونیورسٹی اساتذہ کے GAI کے تجربات اور تاثرات: نزاکت، جانچ کا ازسرِنو تصور، طلبہ کی سیکھنے کا خطرے میں پڑنا (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — پاکستانی یونیورسٹی طلبہ میں NLP اور مشین لرننگ کے ذریعے تناؤ کی نشاندہی اور بہبود کی معاونت کے لیے ثقافتی طور پر آگاہ AI چیٹ بوٹ
-- [[school-support-ai-learning-anxiety-control-value-2026]] — اسکول کی سمجھی جانے والی معاونت AI سیکھنے کا اضطراب زیادہ تر کنٹرول-قدر تشخیص کے ذریعے کم کرتی ہے (69.5% ثالثی شدہ)؛ ANN متوازی توثیق (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI جرم کا کمپلیکس: تعلیمی عملے میں استعمال کے بعد کے پچھتاوے سے زیادہ پیشگی جرم (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 امریکی اساتذہ کا AAC&U/Elon سروے: حد سے زیادہ انحصار، سالمیت کی تشویش اور اساتذہ کے گھٹتے کردار کی پیش گوئیاں (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — خوف سے تجسس تک: چھ ہفتے کا اساتذہ ادارہ جو مدرسین کو شناخت کے خطرے سے گزارتا ہے (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — تعلیمی ڈویلپرز کے جعلی پن کے احساس اور اخلاقی بے چینی بطور جذباتی محنت، AI سے ثالثی شدہ کام میں
-- [[parlant-emotional-micro-interventions-2026]] — علمی تشخیصی نظریہ پر قائم مدرس کی طرف حقیقی وقت کی جذباتی خرد مداخلتیں
-
-- [[ai-employment-threat-career-anxiety-2026]] — AI کا روزگار کا خطرہ اور پیشہ ورانہ فیصلے کا اضطراب: سمجھی جانے والی روزگار قابلیت ثالثی کرتی ہے اور ترقی پسند ذہنیت اعتدال
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI استعمال کا دباؤ AI مہارت اور پہلے سال کی موافقت کے رشتے کو کمزور کرتا ہے
-- [[ai-attitude-latent-profiles-career-development-2026]] — ایسا پروفائل جو AI کے اضطراب اور سمجھی جانے والی AI کیفیت دونوں پر زیادہ ہے، ایک یا دوسرے پر نہیں
-- [[ai-speaking-practice-communicative-readiness-2026]] — بولنے کے اضطراب کا رابطے کی آمادگی سے رشتہ زیادہ بولنے کی خود اعتمادی پر اُلٹ جاتا ہے
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — AI معاون کی سمجھی جانے والی ذہانت مطالعے کے ہدف میں پیش رفت کے ذریعے تعلیمی اضطراب کم کرتی ہے (میڈیکل طلبہ)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -69,28 +71,3 @@ Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi
 - **"Lugha lengwa inapaswa kutawala kuanzia siku ya kwanza."** Katika **mapitio ya kimfumo ya masomo 24**, wanafunzi waliomba **misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa**, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya kwa kweli badala ya njia ya kukwepa. Msaada wa lugha ya nyumbani ulifanya kazi kama [[scaffolding|ngazi ya msaada]], si kama kuepuka.
 - **"Tathmini ya lugha ya AI ina upendeleo dhidi ya waandishi wa lugha nyingi."** Hapa upendeleo ulifuatia **msingi wa binadamu badala ya modeli**: uamuzi wa kulinganisha unaotegemea LLM kwa **uandishi wa habari wa Madaraja 3-6 ulikubaliana na rubriki za watafiti (r = .59-.73)** na ukaonyesha mwelekeo ule ule wa wataalam wa binadamu. Huo si ushahidi wa haki kwa maneno kamili; ni ushahidi kuwa modeli haikuleta upotoshaji mpya juu ya ule uliopo.
 - **"Matokeo ya ubora wa tafsiri ndiyo sehemu yenye manufaa."** Matumizi ya daraja ni ya ufafanuzi na ya kimuktadha, si ya kuchukua nafasi. Zana inayochukua nafasi ya uzalishaji wa mwanafunzi mwenyewe huondoa mazoezi ambayo daraja lililenga kuwezesha.
-
-## Dhana Zilizounganishwa
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Makala Zilizounganishwa
-
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Chatbots za GenAI huwezesha ubadilishaji wa lugha, matumizi ambayo zana za zamani za lugha hazikuunga mkono

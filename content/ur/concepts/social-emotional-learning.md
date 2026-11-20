@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -111,42 +113,3 @@ SEL [[ai-literacy]] سے جڑتا ہے (ایسی تکمیل کے طور پر ج�
 **\"کم استقامت ایک تحریکی مسئلہ ہے جسے حوصلہ افزائی ٹھیک کر سکتی ہے۔\"** استقامت تعلیمی ٹیکنالوجی کی بار بار آنے والی رکاوٹ ہے — وہ نمونہ جسے [[framing-5-percent-problem-teachers-persistence|5% مسئلہ]] نام دیتا ہے — اور یہ محرک و رضامندی، علمی رکاوٹوں، *اور* چیلنج کے تحت لچک سے شکل پاتی ہے۔ حوصلہ افزائی تین میں سے ایک کو حل کرتی ہے۔ وہ سیکھنے والا جو اِس لیے رکتا ہے کہ مسئلہ اُس کے ورکنگ میموری سے بڑھ گیا، تسلی کی کمی کا شکار نہیں۔
 
 **\"یہ جاننا کہ AI دستیاب ہے، طلبہ کے کوشش لگانے کے طریقے کو نہیں بدلتا۔\"** یہ بدل سکتا ہے، اور اثر سب سے کمزور سیکھنے والوں کے لیے اُلٹی سمت چلتا ہے: [[ai-availability-student-motivation|AI کی دستیابی]] محنت طلب شمولیت کی محسوس قدر کم کر سکتی ہے، خاص طور پر نوآموزوں کے لیے۔ محض دستیابی منفی علامت والی تحریکی مداخلت ہے، اِس لیے SEL سے قریبی ڈیزائن کسی مددگار نظام کی موجودگی کو غیر جانبدار نہیں مان سکتا۔
-
-## منسلک تصورات
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## منسلک مضامین
-
-- [[liu-genai-sel-mapping-review-2026]] — GenAI اور SEL کا 43 مطالعاتی نقشہ جاتی جائزہ: قابلیتوں کی غیر متوازن پوشش اور اخلاقیات کی پتلی رپورٹنگ
-- [[sec-ai-literacy-narrative-review-2026]] — سماجی-جذباتی قابلیتوں کو AI خواندگی میں شامل کرنا
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — بھروسے کے خلا کا خیال رکھیں: استاد اور طالب علم کے نظریات
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — سہارے والا AI خواندگی (SAIL) فریم ورک
-- [[teacher-education-ai-literacy-sdt-2026]] — AI خواندگی کے لیے استاد کی تعلیم (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI پر طالب علم کا انحصار، خود اعتمادی، اور وسائل کا انتظام
-- [[self-efficacy-tutoring-learning]] — خود اعتمادی اور میلان ٹیوٹرنگ سے سیکھائی کی شکل دیتے ہیں
-- [[shame-guilt-ai-regulation-computing-education]] — شرم اور جرم بطور AI استعمال کے سماجی ضابطے
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — متبادل سے سہارے تک
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI چیٹ بوٹ اور اجتماعی خود اعتمادی
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: جذباتی ریاضی کی ٹیوٹرنگ
-- [[ai-campus-wellbeing-tools]] — AI سے چلنے والے کیمپس بہبود کے ٹولز
-- [[policy-deficit-ai-sel-2026]] — AI × SEL تحقیق میں پالیسی کا خسارہ
-- [[human-ai-complementarity-social-emotional-learning-2026]] — ابتدائی سماجی-جذباتی سیکھائی میں انسان–AI تکمیلیت (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — حقیقی وقت کی جذباتی خرد مداخلتیں اور مدرسین کے لیے فقرے کی کتاب
-- [[shastry-gray-empathy-offloading-2026]] — لوگ ہمدردی منتقل کر دیتے ہیں جب وہ سمجھیں کہ AI اُسے دے سکتا ہے (Shastry & Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — خوشامدی AI انسانی مشورے کی طلب کو ہٹاتا ہے اور حقیقی دنیا کے تعامل سے اطمینان کم کرتا ہے (Ibrahim et al. 2026)

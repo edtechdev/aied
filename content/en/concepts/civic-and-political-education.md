@@ -19,6 +19,8 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 > **Civic and Political Education** — the part of schooling that prepares people to understand institutions, reason about public problems, and act as citizens rather than private individuals. [[civic-education-ai-lesson-plans|Trust et al. (2025)]] treat it as a domain with distinctive goals: critical engagement with power, multicultural perspectives, and action on social issues. The literature names the topic but holds little evidence on it.
@@ -83,29 +85,3 @@ A research program would need baseline and post measures of civic knowledge, pub
 **"Better prompts will produce better civic lessons."** The interactive variant made minimal difference, and all three chatbots produced the same structure across 53 standards. Prompt quality did not restore disciplinary texture.
 
 **"There is enough evidence to guide practice."** There is enough to justify caution. One content analysis, one documentary synthesis, one small [[mixed-methods-research|mixed-methods study]], and several conceptual or policy pieces do not establish what works.
-
-## Connected Concepts
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — Umbrella: what learners need to know about AI systems
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — generated disinformation and persuasion as societal harm
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[civic-education-ai-lesson-plans]] — 310 AI-generated lesson plans for 53 civics standards: 90% lower-order, 94% with no multicultural content (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Algorithmic border governance and five demands of civic digital literacy in South Africa (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Expert interviews and a student survey on critical media literacy and participatory citizenship (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Finnish teachers' purposes for AI education read through qualification, socialization, and subjectification
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Science literacy visions, including civic life and democratic engagement (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Editorial naming deepfakes and automated disinformation as democratic threats (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — Adult education policy and the civic purpose of lifelong learning (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 governance documents; democracy and rule of law named in 92, legal force in four (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The democratic case in political-theory terms: practice erodes, mechanisms, and authoritarianism stakes
-

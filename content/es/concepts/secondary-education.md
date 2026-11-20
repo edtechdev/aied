@@ -16,6 +16,8 @@ ai_assist:
     date: "2026-11-15"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -125,41 +127,3 @@ La secundaria se sitúa entre la [[primary-education|educación primaria]] y la 
 - **«La detección puede decir qué frases escribió la IA».** La F1 a nivel de frase cayó a 0.88, el recuerdo bajó a 0.60 tras una reescritura al estilo del estudiante, y el texto escrito después de usar un chatbot sin material copiado se leyó como humano en el 94.6 % de los casos.
 
 - **«Una [[ai-literacy|alfabetización en IA]] crítica puede esperar a la universidad».** El uso sube cada año de los 12 a los 17 mientras la fiabilidad percibida se mantiene plana, y un taller de dos horas en los grados 8 y 9 cambió las conductas de consulta y seguimiento dos días después.
-
-## Conceptos conectados
-
-- [[k-12]] — la franja madre que abarca la escolaridad primaria y secundaria.
-- [[primary-education]] — la franja anterior, donde domina la adecuación al desarrollo.
-- [[undergraduate-education]] — la franja siguiente, donde toman el relevo los cursos de gran matrícula y la tutoría académica.
-- [[intelligent-tutoring]] — la clase de sistemas detrás de la mayoría de los ensayos de rendimiento en secundaria.
-- [[academic-integrity]] — el marco de política y razonamiento para los trabajos asistidos por IA.
-- [[ai-detection]] — los métodos de texto y de patrones de respuesta, y sus límites.
-- [[automated-assessment]] — corrección y puntuación, incluido el enrutamiento humano que las hace utilizables.
-- [[assessment-validity]] — qué puede sostener una puntuación o un punto de referencia.
-- [[ai-literacy]] — el conocimiento y los hábitos de regulación que separan el uso de la comprensión.
-- [[help-seeking]] — la conducta que decide si se usa un tutor en el momento de la dificultad.
-
-## Artículos conectados
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — ensayo por conglomerados de dos años en 18 escuelas medias de Tennessee.
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — ECA multisitio de cuatro semanas de Medly en ciencias de GCSE.
-- [[leite-its-k12-meta-analysis-2025]] — 18 experimentos estadounidenses de tutoría inteligente y su decaimiento en el tiempo.
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 estudios de enseñanza STEM apoyada por IA por nivel.
-- [[genai-learning-motivation-meta-analysis-2026]] — 42 estudios controlados de motivación, con la secundaria como subgrupo.
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — experimento de lectura prerregistrado en siete escuelas inglesas.
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 1,507 estudiantes, un mensaje de retroalimentación y ganancias de revisión.
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 122 estudiantes de séptimo grado escribiendo con un asistente que retiene respuestas.
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — taller de dos horas en los grados 8 y 9 medido por conducta.
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 1,598 estudiantes de 12 a 25 años; el uso sube antes que la cautela.
-- [[schaller-ai-text-detection-authentic-writing-2026]] — estudio de pulsaciones de PISA 2025 sobre detección a nivel de texto y de frase.
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 133 estudiantes de Hong Kong razonando sobre propósito e intención.
-- [[ai-marking-accuracy-gcse-physics-2026]] — corrector comercial frente a notas de AQA y un panel de docentes.
-- [[porcaro-ai-grading-benchmark-2026]] — 22 modelos probados frente a manipulación, efectos de etiquetas y concordancia.
-- [[wu-genai-scientific-literacy-china-2026]] — alfabetización científica de PISA 2025 y propósito de uso del chatbot.
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — 2,464 estudiantes alemanes de los grados 7 y 8.
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — revisión PRISMA de 33 estudios; 26 de uso frente a 7 de impacto.
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 500 estudiantes de los grados 7 a 12; profundidad de uso y capacidad autoevaluadas.
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 513 estudiantes de Hangzhou; la ansiedad en la puesta en práctica, no en la intención.
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — escala de actitudes de 19 ítems en 93 estudiantes italianos; medición piloto.
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 encuestados; aprendizaje percibido frente a un índice de compromiso.
-- [[cho-chatgpt-high-school-gpa-2025]] — asociaciones con el GPA por asignatura, tipo de escuela y nivel socioeconómico.

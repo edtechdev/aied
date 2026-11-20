@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -105,56 +107,3 @@ Desain kurikulum terhubung langsung ke [[learning-design]] — kurikulum mendefi
 - **"Sebuah [[llm|LLM]] dapat memetakan kurikulum sekali setelah divalidasi dengan reliabilitas tinggi."** GPT-o3-mini mendistribusikan **100% ke tujuh keterampilan perusahaan untuk masing-masing dari 48 asesmen**, mencapai **alpha Krippendorff 0.81** terhadap bobot ahli — dan **kesepakatan** runtuh pada keterampilan tertentu. Reliabilitas keseluruhan yang tinggi dengan kesepakatan yang tidak merata adalah pola yang perlu diperiksa sebelum memercayai pemetaan itu.
 - **"Menanamkan literasi AI berarti menambahkan satu mata kuliah."** LearnAI menunjukkan bentuk tersematnya: **lapisan paparan luas berupa presentasi singkat di dalam 18 mata kuliah yang sudah ada di lima disiplin (293 siswa)**. Paparan itu didistribusikan di seluruh kurikulum alih-alih dikumpulkan dalam satu unit.
 - **"Siswa sudah datang dengan kemampuan mengevaluasi media secara kritis."** Hanya **13.8% siswa pendidikan dan jurnalistik yang disurvei** menyatakan tugas kuliah mereka membahas analisis media kritis, dibandingkan **97.8% yang menilainya penting**. Kesenjangan antara menghargai suatu keterampilan dan diajari keterampilan itu adalah celah kurikulumnya.
-
-## Konsep terkait
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Pemetaan keterampilan berbobot dan tervalidasi ahli untuk akreditasi
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas panduan GenAI untuk penyelarasan konstruktif (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[refrain-amplify-genai-curriculum-2026]] — Kerangka kurikulum tahan-lalu-amplifikasi untuk mengurutkan GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Kerangka Workforce Readiness Level untuk manufaktur cerdas di era AI
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Menulis ulang kurikulum: perubahan pedagogis yang digerakkan GenAI
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Kerangka Keterampilan AI: 26 keterampilan yang dapat dinilai untuk pemetaan kurikulum
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Ko-Kreasi AI Tepat-Waktu Lintas Disiplin
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — Pendidikan STEAM untuk literasi AI: tinjauan sistematis
-- [[caruana-pre-university-ai-education-slr-2026]] — Menyiapkan pembelajar dan guru untuk masa depan yang digerakkan AI: SLR pendidikan AI pra-universitas (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Platform bertenaga AI yang menghasilkan soal pemodelan matematika (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI dalam Pendidikan Fisika Partikel: Masalah Penelitian dan Keterampilan Fondasional
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Laporan dari lokakarya daring tentang penilaian komputasi di era AI generatif
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - kerangka kompetensi bertemu pada lima dimensi tanpa kosakata bersama atau penyilangan
-- [[bursic-ai-residency-education-curriculum-2026]] — Hambatan mengintegrasikan AI ke dalam kurikulum residensi: wawancara kualitatif dengan dua belas pemimpin dokter

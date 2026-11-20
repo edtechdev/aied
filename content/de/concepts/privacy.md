@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -100,41 +102,3 @@ Datenschutz verbindet sich mit [[learning-analytics|Lernanalytik]] (dem Datensam
 - **„Die Prüfungsaufsichtsliteratur belegt die Ethik der Prüfungsaufsicht."** Ein Review von **80 Studien** fand **35%, die ihren Datensatz nicht offenlegten, 40%, die ein einzelnes Modell evaluierten, 30%, die nicht reproduzierbar waren, und nur 25%**, die die Berichtsschwelle erfüllten. Die Evidenzbasis ist dünn genau bei den Fragen, die eine Institution vor dem Einsatz beantwortet haben muss.
 - **„Datenschutz ist ein Compliance-Häkchen statt eine Gestaltungsanforderung."** Nahezu jedes KI-Werkzeug, das personalisiert, vorhersagt oder prüft, hängt von Lernendendaten ab, was Datenminimierung zu einer Gestaltungsentscheidung macht. Ein Werkzeug, das die Daten benötigt, hat keine optionale Datenschutzeinstellung; es hat eine Datenabhängigkeit, die das Design gewählt hat.
 - **Bewusstsein für Datenpraktiken folgt nicht daraus, sie zu sehen.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] fand **66% von 47 Siebtklässlerinnen und Siebtklässlern**, die bei [[conversational-ai|Chatbots]], die ihr Schreiben lasen, die am wenigsten schützende Option wählten, und **47%**, die algorithmischen Einfluss als „just fun" abtaten — gemessen **einen Monat nach** einer Unterrichtsstunde, in der die Klasse ihr eigenes protokolliertes Verhalten live projiziert sah, es als „scary" bezeichnete und mehrere über die Pause hinaus blieben, um die Plattform weiter zu nutzen. Datenschutzunterricht, der den Mechanismus sichtbar macht, ohne die Kosten konkret zu machen, lässt die Haltung unverändert. Der Autor merkt an, dass die niedrigen Werte hier **verlässlicher sein könnten als die hohen**, da es für diese Items keine sozial erwartete Antwort gibt, während Verantwortung und Governance die richtig klingende Antwort einladen.
-
-## Verbundene Konzepte
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — Studierendenakten, datenübergreifende gemeinsame Nutzung zwischen Ämtern und föderiertes Risikomodellieren
-
-## Verbundene Artikel
-
-- [[stefanile-middle-secondary-ai-guidance-2026]] — COPPA- und GDPR-Mindestaltersgrenzen, die die Nutzungsbedingungen eines Produkts nicht erfüllen (Stefanile, 2026)
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny für Ihre Prompts: kontextuelles Leck in KI-Chat-Plattformen (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Föderiertes und erklärbares Learning Analytics für datenschutzwahrendes akademisches Risikomodellieren (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Vom Learning Analytics zu Bildungsinterventionen: Faktoren, die vertrauenswürdige LA-basierte Interventionen ermöglichen (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentische Kompetenz-Schuld: die strukturelle KI-Kompetenzlücke durch autonome Agenten (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: Anonymisierung und Einwilligung für authentische Lerndaten
-- [[bassett-ai-detectors-education-2026]] — Kopf gewinnen wir, Zahl verlierst du: KI-Detektoren in der Bildung (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Datenschutzwahrende föderierte LLM-kognitive Diagnose
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Was Prüfungsaufsichtssysteme erfassen, und die Abwesenheit der Datenschutzliteratur in der Evidenzbasis
-- [[edtech-privacy-deferral-2026]] — „We'll Fix It Later“: Bildung, KI und das Aufschieben von Datenschutz für Lernende in EdTech
-- [[kaziya-learner-data-privacy-governance-2026]] — Rahmenwerk, das die Datenschutzkompetenz einer Lehrkraft von der institutionellen Befugnis trennt, danach zu handeln
-- [[wells-genai-research-assistant-sociology-2026]] — Eine lizenzierte institutionelle Tenancy plus ein Zertifizierungs-Gate als Datenschutzdesign

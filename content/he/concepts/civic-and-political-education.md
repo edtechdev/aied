@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -87,28 +89,3 @@ ai_assist:
 **"הנחיות טובות יותר יפיקו שיעורי אזרחות טובים יותר."** הגרסה האינטראקטיבית עשתה הבדל מזערי, וכל שלושת הצ'אטבוטים הפיקו את אותו מבנה על פני 53 תקנים. איכות ההנחיה לא החזירה מרקם תחומי.
 
 **"יש מספיק ראיות כדי להנחות פרקטיקה."** יש מספיק כדי להצדיק זהירות. ניתוח תוכן אחד, סינתזה תיעודית אחת, [[mixed-methods-research|מחקר משולב-שיטות]] קטן אחד, וכמה כתבים מושגיים או מדיניותיים אינם מבססים מה עובד.
-
-## מושגים מחוברים
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — מטרייה: מה לומדים צריכים לדעת על מערכות בינה מלאכותית
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — חוסר-מידע ושכנוע מיוצרים כנזק חברתי
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## מאמרים מחוברים
-
-- [[civic-education-ai-lesson-plans]] — 310 מערכי שיעור שנוצרו בבינה מלאכותית ל-53 תקני אזרחות: 90% מסדר נמוך, 94% בלי תוכן רב-תרבותי (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — ממשל גבולות אלגוריתמי וחמש דרישות של אוריינות דיגיטלית אזרחית בדרום אפריקה (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — ראיונות מומחים וסקר סטודנטים על אוריינות מדיה ביקורתית ואזרחות משתתפת (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — מטרות של חינוך בינה מלאכותית לפי מורים פיניים, בקריאה דרך הסמכה, סוציאליזציה וסובייקטיפיקציה
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — חזונות של אוריינות מדעית, ובהם חיים אזרחיים ומעורבות דמוקרטית (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — מאמר מערכת שמכנה דיפ-פייקים וחוסר-מידע אוטומטי איומים דמוקרטיים (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — מדיניות חינוך מבוגרים והמטרה האזרחית של למידה לאורך החיים (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 מסמכי ממשל; דמוקרטיה ושלטון החוק נזכרים ב-92, תוקף משפטי בארבעה (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — המקרה הדמוקרטי במונחי תיאוריה פוליטית: שחיקת העיסוק, מנגנונים, והימור האוטוריטריזם

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -110,54 +112,3 @@ PRISMA 2020 に準拠したレビューは、959 件の記録を 22 件の高等
 - **「正しさに基づく適応は、いつ止めるべきかを知っている。」** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]]は、正しさから習得を推論するシステムが**練習を早すぎる段階で終了させる**リスクを報告しています。システムは連続正答を理解と読み取り、学習者にまだ必要だった練習を引き上げてしまいます。成功時に停止する適応は、保持を生み出す試行をまさに差し引いてしまうことがあります。
 - **「ボトルネックは適応の質である。」** **2 年間の学区規模の RCT**では、実際に効いていた制約は**導入率**でした。登録を一手順に畳むという設計上の変更だけで、初回セッションの導入率が約 **45% から 83%** に上昇し、intent-to-treat の効果もそれに応じて拡大しました。どれほど巧妙な適応も、そこに到達しない人の役には立ちません。
 - **「関与はいったん確立すれば持続する。」** **44 件の研究**を対象とした PRISMA に準拠したレビューは、関与の文献が行動的な関与に偏り、行為主体的な関与について最も薄いことを見いだし、さらに**新奇性効果**、すなわち ALEX や類似システムの縦断研究で関与が時間とともに低下する現象を報告しています。初期の関与は、設計の安定的な特性ではありません。
-
-## 関連概念
-- [[online-teaching-and-learning]] — オンライン教育と学習
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — 包括概念：AI の技術と手法（モデル、LLM の学習、ロボティクス、RAG、エージェント的 AI）
-- [[recommender-systems-and-learning-paths]]
-
-## 関連記事
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺的な過度の一般化：適応的な習得は、学習者が行為を控えるべき時を知る前に練習を打ち切ることがある（An, McLaren & Stamper 2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI の個別指導は一枚岩ではない：私たちが実際に知っていること（スタンフォード SCALE/NSSA 報告書）
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS：パーソナライズされた評価のためのモメンタムを意識した適応評定システム
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — 適応学習基盤における学生の関与の系統的レビュー
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — コンピュータ支援学習によるバーチャル個別指導：導入と学習の実験
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI の個別指導を生産的にする：習熟に基づく数学の練習
-- [[chudziak-ai-math-tutoring-platform]] — 適応的／パーソナライズされたマルチエージェントの数学個別指導（Chudziak & Kostka 2025）
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — パーソナライズ学習の再定義：系統的レビュー
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — 学習者の準備度に較正された個別指導向けの AI 対 汎用のチャットボット
-- [[context-based-ai-secondary-chemistry-2026]] — 中等化学における文脈ベースの 7E ＋ AI 教授
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 深い学習のための適応的な AI ベース STEM プログラム
-- [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導（2026年）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — パーソナライズされた学習経路のためのベイジアン認知的診断
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS における適応的な ICAP の足場かけ（BKT 対 DRL）
-- [[burneo-can-edtech-close-learning-gaps-2026]] — 14 件の RCT にわたって適応＋AI 対応ツールを統合したメタ分析
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 系統的レビュー：高等教育における AI 統合の主要なユースケースに数えられる適応的学習経路
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — 適応的な問題配列が固定された配列に勝つ：支援なしの試験で +0.156 標準偏差、難易度ではなく関与に媒介される（Chung et al. 2026）
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：人間と AI の共学ループの中で学習者について学ぶエージェント的な個別指導
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — 方略の使用は状態優位（平均ICC 0.14）であり、静的な学習者プロファイルは信号の大半を捨てる
-

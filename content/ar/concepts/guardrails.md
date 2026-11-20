@@ -21,6 +21,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -130,46 +132,3 @@ updated: "2026-11-08T10:26:27-05:00"
 **«عتبات الضوابط خيارات هندسية تُضبَط.»** العتبة قرار سياسة له كلفة توزيعية. فنقل حدّ سُمّية من 0.3 إلى 0.7 خفّض المطالبات الموسومة من **35.62% إلى 12.4%**؛ وفي كاشف احتيال مبادل بين **15 إنذارًا كاذبًا و18 عملية احتيال فائتة مقابل 2 و36**. ولا عتبة تُزيل المقايضة — إنها تقرّر فقط أي خطأ تفضّله المؤسسة، وذلك القرار يخصّ المؤسسة لا ثابتًا افتراضيًا.
 
 **«تدقيق الإنصاف همّ منفصل عن كفاية الضوابط.»** أنماط الامتناع والدعم توزّع الفائدة توزيعًا غير متساوٍ حتى وهي مطبَّقة بالتساوي، ومعدّل ضرر متوسط يُخفي من يستوعبه. فينبغي أن يكون التدقيق جزءًا من مواصفات الضابط، لا دراسة تُوكَّل بعده.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-safety]] — الهدف الذي تُنفّذه الضوابط
-- [[prompt-engineering]] — تقنية تصميم «تلزم التلميح لا الجواب»
-- [[rag]] — التأسيس المعرفي كضابط
-- [[human-in-the-loop-ai]] — ضمان جودة المعلّمين والإشراف
-- [[llm-training-and-fine-tuning]] — طبقة التدريب/الاصطفاف
-- [[reinforcement-learning]] — صياغة المكافآت لسلوك آمن
-- [[bias-mitigation]] — تدقيق الضوابط من أجل الإنصاف
-- [[ai-sycophancy]] — خطر التلاعب الذي يجب أن تقاومه الضوابط
-- [[scaffolding]] — الآلية التربوية التي تحفظها الضوابط
-- [[socratic-method]] — نمط تفاعل «تلزم التلميح لا الجواب»
-- [[hallucination-risk]] — خطر التلفيق الذي تُنقصه الضوابط
-- [[cognitive-offloading]] — ضرر الاعتماد المفرط الذي تمنعه الضوابط
-- [[k-12]] — السياق الذي تهمّ فيه الضوابط أكثر
-- [[ethics]] — الأساس المعياري
-- [[governance]] — طبقة السياسة
-- [[intelligent-tutoring]] — الأنظمة التي تُضبَّط
-- [[misconceptions]] — المعرفة التي يجب أن تفحصها الضوابط
-- [[trust]] — ناتج الضوابط المصمَّمة حسنًا
-- [[llm]] — طبقة النموذج التي تُقيَّد
-
-## المقالات المتصلة
-- [[ai-security-literacy-k12-framework-2026]] — ثقافة أمن الذكاء الاصطناعي: إطار كفايات قائم على المنظومة ومنصة تعلّم للتعليم من الروضة حتى الصف الثاني عشر
-
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — إطار SCAFFOLD لتوجيه حوار الطلاب مع الذكاء الاصطناعي، ونموذجه التجريبي في الصفوف
-- [[generative-ai-guardrails-harm-learning]] — التجربة الميدانية المعشاة المضبوطة القانونية في الضوابط
-- [[eduzone-llm-safety-k12]] — إطار سلامة النماذج اللغوية الكبيرة في التعليم ما قبل الجامعي
-- [[eduguard-safe-rag-llm-tutor]] — سلامة قائمة على التوليد المعزَّز بالاستدعاء للمدرّسين الخصوصيين
-- [[paternalistic-filter-llm-history-education]] — تدقيق الضوابط من أجل التحيّز
-- [[singh-eduqwen-pedagogical-rl-2026]] — التعلّم الموجَّه المُصطفّ بالتعلّم المعزَّز
-- [[tact-pedagogically-adaptive-esl-tutoring]] — التدريب اللاحق المُصطفّ مع التصنيف
-- [[eduframetrap-llm-sycophancy-educational-safety]] — التزلّف كخطر على السلامة
-- [[ai-tutor-authoring-promptdecipher]] — ضمان جودة يقوده المعلّم
-- [[llm-unlearning-math-privacy]] — فقدان التعلّم على مستوى النموذج
-- [[pedagogical-safety-rl]] — صياغة المكافآت للسلامة التربوية
-- [[residencyrl-clinical-rl-training-2026]] — التعلّم المعزَّز المُصطفّ مع السلامة في التدريب السريري
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — السقالة الموجَّهة بالقواعد مقابل السقالة الاعتباطية في نظام تدريس خصوصي قائم على نموذج لغوي كبير لرياضيات المرحلة الابتدائية (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — كيف تفاوت خطر تفكير الطلاب بحسب فئة المنتج عبر 20 أداة ذكاء اصطناعي رُصدت في صفوف حقيقية

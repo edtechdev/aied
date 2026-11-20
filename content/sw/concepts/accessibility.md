@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,7 +50,6 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 
 **Ufikivu unaoanza na kukataa: omba kielelezo badala ya kukisia.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau na Heffernan (2025)]] waligundua kuwa kielelezo cha msingi cha kazi kinapofichwa, mifano sita ya multimodal ilikataa badala ya kukisia katika 95.4%–98.9% ya majaribio — kukataa kusema ambako mifumo ya ufikivu inapaswa kukichukulia kama ombi la kielelezo au maelezo yenye muundo badala ya kukisia. Seti za makubaliano zilizotolewa za gold (vitu 76) na ultra-gold (vitu 61) zinaipa majaribio ya kubadilisha maelezo eneo la kujaribio la kulinganisha vielelezo halisi na maelezo ya maandishi yaliyothibitishwa kwenye vitu vya hesabu vinavyotegemea kielelezo.
 
-
 **Maelezo ya sauti yaliyoandikwa kwa filamu hayahamishiki kwenye rekodi za mihadhara.** Mihadarati inayotegemea slaidi hurejelea michoro, mlinganyo, na ishara za kuelekeza, na mapumziko yao yana wastani wa sekunde 0.5 pekee, hivyo [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]] walijenga alama maalum ya mihadhara na kipimo cha kutambua makosa kwa kanuni; [[llm-training-and-fine-tuning|mafunzo ya baadae]] juu ya jozi zilizopangwa na mhakiki-wa-mashine hayakuboresha utiifu kwa usawa.
 
 **[[generative-ai|AI ya kizalishaji]] kwa wanafunzi wenye ulemavu wa kuona.** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif na wenzake (2026)]]** — [[qualitative-research|utafiti]] wa hali wa [[higher-ed|wanafunzi]] wenye ulemavu wa kuona katika vyuo vitatu vya Palestina — waligundua kuwa GenAI inalinganisha kasi, maudhui, na njia ya kuwasilisha na wasifu binafsi wa kujifunza na kurahisisha maandishi magumu ya kitaaluma huku ikibadilisha maudhui kati ya njia mbalimbali (maandishi, sauti, kuona), ikifanya nyenzo ziweze kutumika ambazo hapo awali hazikuwa na ufikivu. Wanafunzi walitaza uharibifu wa muda kama sharti la msingi la ufikivu badala ya raha, na sifa sita za kiteknolojia zinazotegemeana — mwingiliano, urahisi wa matumizi, uwezo wa kupatikana kwa gharama, unyjia nyingi (multimodality), muunganisho, na uwezo wa kupanua — ziliamua iwapo GenAI ilikuwa na ufikivu wa kweli katika [[global-south|miktadha ya rasilimali chache]], ambapo [[usability-research|utendaji wa matumizi]], uwezo wa kupatikana kwa gharama, na ufikivu vilikuwa vinaimarisha kwa pamoja badala ya kuwa mambo tofauti za kubuni.
@@ -73,7 +74,6 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 - **Tegemea marekebisho kwenye sheria na sera.** Rejelea viwango (WCAG) na sheria (Sheria ya Teknolojia za Msaada, IDEA) unapobuni au kununua zana za AI.
 - **Utekelezaji wa AI unazidi sera ya ufikivu wa AI katika ngazi ya taasisi.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] aliweka alama vyuo vyote 100 vilivyo na vyeo vya Times Higher Education 2026 na kugundua kuwa 0% yanachapisha sera huru ya ufikivu wa AI huku 93% yikitekeleza huduma za kampasi zinazotumia AI ([[conversational-ai|chatbots]] za usajili, makazi, IT). Kusoma kwa wema kwa mwandishi ni kwamba majukumu ya ufikivu yamo ndani ya sera za jumla za huduma za ulemavu, lakini kama ilivyopimwa, mahitaji ya zana za AI hayaonekani popote katika rekodi ya taasisi za umma. Taarifa fupi ya taasisi kwamba zana za AI katika ufundishaji na utawala zinapaswa kufikiwa na wanafunzi wenye ulemavu ingekuwa mbele ya uwanja wote uliopimwa.
 
-
 - **Unakili wa hesabu unaopatikana kwa video za [[physics-education|fizikia]] (2026):** Mtiririko wa kazi wa AI unaotumia Gemini (sauti + sampuli ya video ya fps 1) na LuaLaTeX hukusanya video za kufundisha fizikia kuwa PDF za PDF/UA-2 na ISO 32005 zinazopatikana kwa hesabu ambazo kwa kawaida hupita uthibitishaji wa ufikivu — njia ya vitendo, ya bure ya kufanya maudhui ya video yenye mlinganyo mwingi yaweze kusomwa kwa skrini na wanafunzi wasio na uoni na wenye uoni hafifu ([[gemini-lualatex-physics-video-transcription-2026]]).
 
 ## Dhana Potofu za Kawaida
@@ -82,41 +82,3 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 - **"Ufikiaji unamaanisha upatanisho."** Mapitio ya wigo ya **masomo 40** ya teknolojia za usaidizi za kidijitali kwa wanafunzi wenye tofauti za neva yaligundua **28 zilihitaji utambuzi rasmi kama sharti la kushiriki**. Huo ni mfumo unaozuia kwa utambuzi, na haujumuishi kila mwanafunzi mwenye mahitaji bila lebo, kinyume cha ubuni wa ulimwengu.
 - **"Athari za wastani hutatua swali."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang na wenzake]] wanachambua kwa meta **masomo 29** na kugundua athari chanya ya wastani, ambayo ni halisi na pia haisemi chochote kuhusu zana ipi kwa hitaji lipi. Wastani wa uingiliaji tofauti sana si pendekezo.
 - **"Kasi na upesi ni urahisishaji."** Katika somo la kifani la kimaumbile la **wanafunzi 21 wa shahada ya kwanza wenye uoni hafifu** katika vyuo vitatu vya Palestina, wanafunzi walifasiri upesi kama **sharti la msingi la ufikiaji badala ya urahisishaji**. Kinachoonekana kama anasa kutoka nje ni sharti la awali la kushiriki.
-
-## Dhana Zinazohusiana
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — paa la pana la kubuni elimu kwa mabadiliko ya wanafunzi
-- [[special-education]] — kikoa cha kufundisha kwa wanafunzi wenye ulemavu walioshuhudiwa
-- [[universal-design-for-learning]] — mfumo wa kubuni unaojitokeza mapema
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — vifaa vya kichwani, kichefuchefu cha mwendo na ufikivu wa kifaa huamua ni nani anaweza kuvitumia
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — ukurasa wa paa kwa kanuni zilizo pana kupita kiasi, ushahidi wenye kasoro na marekebisho ya kimaarifa
-- [[arts-and-media-education]]
-
-## Makala Zinazohusiana
-- [[shin-ai-policies-sld-2026]] — Sera za AI na marekebisho kwa wanafunzi wenye ulemavu mahususi wa kujifunza
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis ya mbinu za AI kwa wanafunzi wenye ulemavu
-- [[adhd-video-segmentation-computing-education]] — Video zilizogawanywa na AI zikiwa na mapumziko yaliyowekwa
-- [[text-simplification-its]] — Urahishaji wa maandishi unaotumia LLM kwa mafunzo ya busara ya kidijitali
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Uzalishaji wa maswali kwa LLM kwa wanafunzi wenye uziwi/wasio na uziwi kamili
-- [[kutti-ai-voice-first-learning-companion]] — Msaidizi wa sauti-ya-kwanza kwa watoto wenye ulemavu wa kuona
-- [[tactile-statistical-graphs-accessibility]] — Grafu za takwimu za kuchapishwa kwa 3D za kugusa
-- [[pepper-robot-sign-language-lis-2025]] — Roboti ya Pepper inayosaidia lugha ya alama
-- [[genai-minoritized-knowledges-disability]] — Mtazamo wa kikritiki kuhusu AI na maarifa yanayozingatia ulemavu
-- [[gemini-lualatex-physics-video-transcription-2026]] — Unakili wa video za fizikia zinazopatikana kwa hesabu za Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI ya msaada kwa wanafunzi wenye ulemavu wa kuona
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizalishaji, uhalisia wa pepe, na zaidi: Mapitio ya upeo ya teknolojia za msaada za kidijitali kwa wanafunzi wenye neurodivergence katika elimu ya juu
-- [[wright-transcription-not-generation-2026]] — Unakili si uzalishaji: marufuku ya AI yanayojumuisha kupita kiasi na zana za msaada zinazozikamata
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% ya vyuo 100 vya daraja la juu havichapishi sera ya ufikiaji wa AI huku 93% vikizindua huduma za AI katika kampasi
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

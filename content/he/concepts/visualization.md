@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -68,24 +70,3 @@ ai_assist:
 - **"המחשות חזותיות טובות יותר מפיקות תוצאות טובות יותר."** מורים **העדיפו באופן שיטתי המחשות חזותיות פשוטות ומסורתיות יותר** (תרשימי עמודות, תרשימי עוגה, מקראות) **גם כאשר עיצובים מורכבים כמו מפות חום הניבו תובנות מפורטות יותר**. הארטיפקט האינפורמטיבי יותר לא היה זה שנעשה בו שימוש, ולכן האימוץ הוא בעיה נפרדת מאיכות העיצוב.
 - **"סטודנטים מביטים במקום שבו נמצא הפיגום."** מחקר אחד מצא שסטודנטים **הקדישו את רוב מבטם לקוד למרות פיגומים חזותיים מפורטים** — העזרים פשוט לא לכדו את תשומת הלב. תמיכה חזותית שנוכחת אך לא נצפית אינה משנה דבר.
 - **"מעורבות והבנה נעות יחד."** משתתפים מצאו קומיקסי נתונים מיוצרי-AI **מעוררי מעורבות ומובנים יותר, ובכל זאת רבים מהם סימנו גם סיכון מידע שגוי ועומס-מידע**. שתי התגובות באו מאותו ארטיפקט, ולכן קבלה חיובית אינה קריאה מאומתת.
-
-## מושגים מחוברים
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — ייצוג מרחבי ותלת-ממדי
-
-## מאמרים מחוברים
-
-- [[interactive-learning-dashboards-engagement]] — חשיבה מחדש על המחשות למידה ככלי מעורבות באמצעות סוכנים פדגוגיים
-- [[mllm-scientific-visualization-literacy]] — מדידה במדד ייצוגי של מודלים לשוניים גדולים רב-מודאליים לאוריינות בהמחשה חזותית מדעית
-- [[nuclear-diffusion-text-to-image-learning-2026]] — מודלים מסוגלי-טקסט-לתמונה מותאמים לתחום להמחשת מושגים גרעיניים
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — יעילות, יתרונות ואתיקה של קומיקסי נתונים בסיוע בינה מלאכותית
-- [[cfes-p24-multimodal-slide-auditing-2026]] — מדד נגדי לביקורת שקופיות רב-מודאלית
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — הפיכת ממצאי למידת מכונה לנגישים למורים בכיתות משולבות
-- [[genai-visualization-education-framework-2026]] — בניית-משמעות, לא רק תרשימים: מסגרת קוגניטיבית-הורית לשימוש בבינה מלאכותית גנרטיבית בחינוך ההמחשה

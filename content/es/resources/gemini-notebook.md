@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-09-27"
     agent: hermes-agent
 verified: [links]
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,6 +44,3 @@ Haga preguntas sobre todo el conjunto de fuentes, resuma documentos largos y sig
 ## Notas
 
 Google afirma que el contenido de las cuentas personales no se utiliza para entrenar sus modelos a menos que el usuario envíe comentarios, que las cargas, consultas y respuestas de Workspace no se usan para el entrenamiento incluso cuando se aportan comentarios, y que [[privacy|los datos no se comparten con terceros]]; sin embargo, los cuadernos eliminados no se pueden recuperar. Las afirmaciones de capacidad anteriores son del propio proveedor, y un distrito o una institución debería confirmarlas contra su acuerdo de tratamiento de datos y no contra una página de producto. La cobertura de 2026 también describió una demanda por la voz utilizada en los pódcasts generados, que Google negó, un recordatorio de que las salidas de audio plantean [[legal-issues-and-risks|cuestiones de imagen]] aparte de las salvaguardas de fundamentación en las fuentes. Trate las tarjetas de repaso, los cuestionarios y los resúmenes generados como borradores que deben comprobarse contra las fuentes, y tenga en cuenta que los límites del nivel gratuito cambian sin aviso.
-
-## Conceptos conectados
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

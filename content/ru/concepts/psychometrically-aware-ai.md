@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -61,28 +63,3 @@ ai_assist:
 - **«Модель, показывающая хорошие баллы, измеряет то же самое».** На **одном и том же инструменте оценивания** структуры ответов человека и LLM **расходятся** — модель может получать хорошие баллы, измеряя нечто иное, чем предполагает инструмент. Совпадение баллов — это наблюдение; эквивалентность конструкта — отдельное утверждение, требующее свидетельств на уровне структуры.
 - **«Калибровку можно прочитать по одной цифре точности».** **Одна цифра точности может скрыть модель, которая только выглядит калиброванной**: просьба к GPT-4o и Gemini 2.0 Flash вывести измерения стиля обучения из диалогов **153 студентов** дала **умеренную точность, которая вела себя иначе под сбалансированными метриками**. Агрегированная точность скрывала различие, которое сбалансированные метрики обнажили.
 - **«Автоматизированные конвейеры выставления баллов не могут воспроизвести психометрическую процедуру».** Авторы воспроизвели устоявшийся конвейер в автоматизированной форме (**вероятность 67% правильно ответить как минимум на 7 заданий рубрики для нижней границы и как минимум на 10 для верхней**), что позволило сравнивать баллы по заданиям от ИИ и человека на одной основе. Процедура была воспроизводима; вопрос о конструкте остаётся.
-
-## Связанные концепции
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Связанные статьи
-- [[genai-reliance-scale-problem-solving-2026]] — Валидированная шкала опоры студентов на генеративный ИИ при решении задач (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Рамка «человек в контуре» для оценивания письменных работ с помощью ИИ в крупномасштабном контексте
-- [[assessment-latent-structure-human-llm-2026]] — Измеряют ли инструменты оценивания одно и то же для человека и для LLM? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Согласование оценивания с LLM с психометрической калибровкой
-- [[llm-item-difficulty-prediction]] — Предсказание трудности заданий с помощью LLM
-- [[cong-confidence-asag-2026]] — Осведомлённое об уверенности автоматическое оценивание коротких ответов
-- [[multimodal-item-parameter-estimation-2026]] — Мультимодальная оценка параметров заданий
-- [[competency-based-education-genai-production-2026]] — Компетентностное образование с GenAI
-- [[ai-grading-handwritten-physics-2026]] — Оценивание рукописных работ по физике с помощью ИИ (олимпиада)
-- [[razavi-powers-item-difficulty-llm-2026]] — Оценка трудности заданий с использованием LLM и древовидного ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Сравнение инструментов ИИ-грамотности: пары jangle и jingle на материале 55 конструктов
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Использование LLM студентами и пределы сгенерированной ИИ трудности вопросов в курсах по анализу данных
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Умеренная точность оказалась предсказанием доминирующего класса при проверке полноты по классам (Zamanifard, Goudarzi & Robb 2026)

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 
@@ -131,31 +133,3 @@ ai_assist:
 **«Теории обучения, модели учащегося и рамки внедрения — взаимозаменяемые оптики».** Они отвечают на разные вопросы — как происходит обучение, каково состояние учащегося и почему практика распространяется, — и типы их свидетельств различаются соответственно. Выбор неверного слоя даёт исследование, измеряющее верную переменную против неверного предсказания, что читается как нулевой результат, тогда как это категориальная ошибка.
 
 **«Больше фреймворков — зрелее область».** Фреймворки, придуманные для эпохи ИИ, накапливаются быстрее, чем проверяются, а накопление без фальсификации — симптом, а не прогресс. Зрелость проявляется в разрешении конкурирующих предсказаний, а не в росте словаря.
-
-## Связанные концепты
-
-- [[theory-development-aied]] — построение и пересмотр теории в этой области
-- [[philosophy-of-ai-in-education]] — нормативный и концептуальный слой
-- [[learning-theories]] — общий обзор для теории обучения
-- [[learning-sciences]] — соседняя область, из которой заимствуется большая часть теории
-- [[limitations-in-aied-research]] — что база свидетельств может и не может поддержать
-- [[tpack]] — фреймворк знаний преподавателя
-- [[technology-acceptance-model]] — фреймворки внедрения
-- [[item-response-theory]] — измерительная модель
-- [[universal-design-for-learning]] — рамка проектирования
-- [[research-methods-aied]] — как теория проверяется
-
-## Связанные статьи
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Эмоциональные аффордансы предложены как четвёртая категория таксономии аффордансов
-- [[ai-game-based-learning-systematic-review-2026]] — Согласованность механизма и теории, а не алгоритмическая сложность, определяла эффективность в 55 исследованиях игрового обучения с ИИ
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — четыре десятилетия AIED через фреймворк AI×Ed
-- [[educating-minds-generative-ai-2026]] — насыщенный теориями синтез о генеративном ИИ и обучении
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — теория деятельности, применённая к профессиональному развитию преподавателей
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — теория деятельности и внедрение ИИ преподавателями
-- [[generativism-learning-theory]] — теория обучения, предложенная для эпохи генеративного ИИ
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — к теории эпистемической коагентности
-- [[absent-cognitive-baseline-2026]] — концептуализация структурного пробела в самооценке студентов, выросших с ИИ
-- [[yan-agentivism-learning-theory-ai-2026]] — теория обучения среднего уровня для взаимодействия человека и ИИ
-- [[ai-literacy-instrument-development-systematic-review-2026]] — разработка инструментов для молодого конструкта
-- [[mishra-control-vs-agency-history-2025]] — основополагающее противоречие поля между контролем и агентностью

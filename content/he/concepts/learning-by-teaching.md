@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -118,32 +120,3 @@ ai_assist:
 **"לבקש ממודל לשוני גדול להתנהג כמבולבל היא בקשת-פרומפט טריוויאלית."** זו בעיית-עיצוב, משום שהשבריריות חייבת להיות מכוילת למושג הנלמד ולמודל-הנוכחי של הלומד-החונך. שגיאות אקראיות מפיקות תרגול בניפוי באגים; שגיאות המשקפות תפיסה מוטעית סבירה ספציפית מפיקות ארגון-מחדש קונספטואלי, ורק השנייה היא מטרת-הפדגוגיה.
 
 **"לימוד דרך הוראה הוא פעילות רכה יותר מאשר להיות נלמד."** הוא תובעני יותר. ההכנה להוראה מכריחה ארגון של הידע ואיתור הפערים של האדם עצמו, ולכן הגישה חושפת אי-הבנות שהקליטה הפסיבית מסתירה — הקושי הוא המנגנון ולא עלות שיש למזער.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — הסבר לחניך בינה מלאכותית: הרצף המבוסס-ראיה ביותר במאגר הידע
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-
-## מאמרים מחוברים
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT כסוכן ניתן-להוראה בתכנות
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: סוכן ניתן-להוראה ל-546 סטודנטים
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — ביטול-למידה מכונה להחזקת חניך ברמת ידע של חדש, ולמידה חוזרת דרך דיאלוג הוראה
-- [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
-- [[knowledge-building-tutor-learning-2026]] — תגובות בניית-ידע, לא ידע קודם, חוזות למידת חונך

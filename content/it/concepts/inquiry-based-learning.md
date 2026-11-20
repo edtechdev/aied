@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -60,9 +62,7 @@ L'apprendimento basato sull'indagine si centra sulle domande generate dagli stud
 
 La struttura dell'IBL guidata dalle domande e focalizzata sul processo è la casa naturale per l'uso produttivo dell'IA: gli studenti imparano *con* l'IA come partner piuttosto che *da* essa come sostituto. L'evidenza della knowledge base converge su una tensione centrale — l'IA può ridurre l'attrito del recupero delle informazioni e della formulazione delle domande (riducendo il [[cognitive-offloading|carico cognitivo]] e abilitando una [[reflection|riflessione]] più profonda), ma senza impalcature progettuali rischia l'eccessivo affidamento e il bypass della cognizione di ordine superiore. Il ruolo del facilitatore, la progettazione delle impalcature e l'insegnamento esplicito delle competenze di valutazione sono le leve che determinano se l'IA approfondisce o soppianta l'indagine.
 
-
 Uno studio sostituisce il facilitatore anziché aggiungere uno strumento accanto a lui. In un corso di farmacologia di quattro settimane, 136 studenti del secondo anno di medicina sono stati divisi tra apprendimento basato sui problemi guidato da un facilitatore e guidato dall'IA. Entrambi i bracci guadagnavano significativamente ai test a scelta multipla pre/post e la differenza tra gruppi non era significativa (p = 0,474), ma i gruppi guidati dal facilitatore segnavano più alto nel pensiero critico (14,75 contro 13,09, p < 0,001) e nella rubrica di [[group-work|valutazione di gruppo]] (26,51 contro 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao, 2026]]). Gli esiti dell'indagine si dividono per tipo: la conoscenza dei contenuti è sopravvissuta alla sostituzione e il processo di ragionamento no, che è ciò che significa dire che il facilitatore è la leva.
-
 
 ### Fallimento produttivo e indagine
 
@@ -70,9 +70,7 @@ Il [[productive-failure|fallimento produttivo (PF)]] è il cugino più struttura
 
 In contesti di campo all'aperto lo stesso imperativo diventa spaziale: la GenAI può pre-strutturare ciò che gli studenti notano prima che incontrino l'evidenza, così una sequenza campo-per-prima che trattiene la spiegazione generata fino a quando osservazioni e interpretazioni iniziali sono registrate protegge l'indagine ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
 
-
 **Una mappa di 66 studi colloca l'IA generativa accanto all'indagine e meno spesso all'orientamento.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] hanno codificato l'uso della GenAI sulle cinque fasi dell'indagine e hanno trovato supporto riportato più spesso nell'indagine (45 studi, 68,2%), poi nella conclusione (29, 43,9%), nella discussione (28, 42,4%) e nella concettualizzazione (27, 40,9%), con l'orientamento ultimo (20, 30,3%). Undici studi coprivano tutte e cinque le fasi, 19 ne coprivano una e nove non ne nominavano alcuna. Solo 8 studi (12,1%) misuravano le competenze d'indagine, e 4 di questi avevano una condizione di confronto, quindi questa è una mappa di dove sono stati collocati gli strumenti anziché di ciò che l'indagine ha guadagnato.
-
 
 ## Idee sbagliate comuni
 
@@ -83,41 +81,3 @@ In contesti di campo all'aperto lo stesso imperativo diventa spaziale: la GenAI 
 **"L'indagine è per definizione non strutturata."** Il docente fornisce impalcatura, e la struttura sta nella progettazione della domanda e nel ciclo di riflessione, non nell'erogazione dei contenuti. Rimuovere l'impalcatura non rende l'indagine più autentica; la rende priva di impalcatura.
 
 **"Le domande guidate dagli studenti saranno ben formulate se gli studenti sono interessati."** Generare una domanda trattabile è la competenza che si sta sviluppando, ed è per questo che un sistema che fornisce buone domande ha svolto la competenza d'indagine che l'attività esiste per insegnare.
-
-## Concetti collegati
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Productive Failure
-
-## Articoli collegati
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
-- [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitatore umano contro apprendimento basato sui problemi mediato dall'IA: guadagni di contenuto equivalenti, pensiero critico più debole senza il facilitatore (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - Mappa di 66 studi sull'IA generativa nelle cinque fasi dell'indagine, con solo 8 studi che misurano le competenze d'indagine
-

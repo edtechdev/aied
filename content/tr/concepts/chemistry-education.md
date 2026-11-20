@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -69,40 +71,3 @@ Kimya eğitimi, daha geniş [[stem-education]] alanının içinde yer alır ve [
 **“Mevcut bir sorgulamaya dayalı derse YZ eklemek zarar vermez.”** Zarar verebilir ve yarar gösteren karşılaştırma kulağa geldiğinden dardır. [[context-based-ai-secondary-chemistry-2026|Abdikayumova ve Madybekova]], 10. sınıf kimyası için **7E öğretim modelini** PhET simülasyonları *ve* ChatGPT özel dersiyle birleştirmiş ve yalnızca sorgulamaya dayalı ya da geleneksel öğretime kıyasla anlamlı biçimde daha yüksek başarı ve katılım bulmuştur. Müdahale, yapılandırılmış birleşimdir: bir öğretim modeli artı simülasyonlar artı özel ders; sohbet robotunun tek başına kendisi değildir ve yapılandırılmamış sorgulamaya eklenen bir sohbet robotu bu sonuçla sınanmamıştır.
 
 **“Kimya, yanıtın denetlenebilir olduğu bir ders olduğundan YZ hataları zararsızdır.”** Denetlenebilir yanıtlar, yanlış akıl yürütmenin fark edilmeden geçmesinin yoludur: kötü akıl yürüten bir modelden doğru bir değer alan öğrencinin bu eksikliği saptamasının hiçbir yolu yoktur ve değerlendirme başarıyı kaydeder. Nicel bir disiplinde doğrulanabilir son nokta, anlamanın en zayıf kanıtıdır.
-
-## Bağlı kavramlar
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
-## Bağlı makaleler
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -45,10 +46,3 @@ Người học độc lập đang làm việc với tài liệu khó, và giản
 ## Ghi chú và lưu ý
 
 Miễn phí bao gồm phần mềm, không bao gồm suy luận: người học tự mang khóa nhà cung cấp, một gói đăng ký, một CLI Claude Code cục bộ hoặc bất kỳ điểm cuối tương thích OpenAI nào, và trả tiền cho nhà cung cấp mà không bị cộng thêm; một đồng hồ trực tiếp chỉ ước tính các chi phí API đã biết. Bản ghi, cuộc trò chuyện và khóa nằm trên máy dưới dạng tệp thuần, nhưng dự án cảnh báo rằng lưu trữ cục bộ không có nghĩa là xử lý ngoại tuyến, vì các yêu cầu mô hình, việc đọc chính tùy chọn và nghiên cứu web đều chạm tới các dịch vụ bên ngoài. Bộ cài Windows x64 không được ký, nên Windows sẽ cảnh báo. Không có nghiên cứu hiệu quả nào được báo cáo, nên lập luận dựa trên lý lẽ được nêu chứ không phải kết quả đo lường; kho mã có khoảng 4,800 sao khi kiểm tra ngày 2 tháng 11 năm 2026.
-
-## Khái niệm liên quan
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

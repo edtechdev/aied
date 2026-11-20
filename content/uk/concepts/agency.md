@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -138,70 +140,3 @@ ai_assist:
 - **«Студенти вправляють суб’єктність, коли вільно користуються ШІ.»** **Схема з 14 категорій, якою закодували 6 788 підказаних ChatGPT реплік**, віднесла **59% реплік семикласників** до категорій, що не відображають агентного використання. Обсяг використання й суб’єктність — різні міри.
 - **«Сучасні моделі добре підтримують суб’єктність здобувача.»** **Порівняно з десятьма моделями, підтримка суб’єктності — це те, що їм вдається найгірше після навчання**: ImpactBench виміряв **«Агентність і мету» на 56,0%** за позитивними критеріями. Суб’єктність — це вимір, з яким системи ШІ справляються найгірше, а не побічний продукт спроможності.
 - **«Посередництво викладача — це обмеження суб’єктності.»** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] спостерігав за **десятьма викладачами математики середньої школи протягом восьмитижневого втручання з ChatGPT-4**, і посередництво є механізмом, а не перешкодою.
-
-## Пов’язані поняття
-
-- [[learners]] — Здобувачі: узагальнююче поняття для концептів на боці здобувача
-- [[pedagogical-partnerships]] — Педагогічні партнерства
-- [[learner-identity]] — дисциплінарні, професійні, креативні та академічні ідентичності здобувача, що еволюціонують
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — спільний напрям взаємодії, опосередкованої ШІ
-- [[agentic-ai]] — автономний ШІ, який може перерозподіляти суб’єктність у групах
-- [[chemistry-education]] — Хімічна освіта та ШІ: лабораторії, формативне оцінювання, межі МММ, філософія експериментування
-- [[social-emotional-learning]] — Соціально-емоційне навчання
-- [[cognitive-surrender]]
-
-## Пов’язані статті
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Національно репрезентативне опитування викладачів і директорів шкіл США щодо охоплення політикою ШІ, суб’єктності та п’ятьох класних сценаріїв (Tench, Weinstein та James, 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Рука допомоги чи домінантний партнер? Індивідуальні сприйняття опори на генеративний ШІ та людської суб’єктності в спільному навчанні
-- [[yan-agentivism-learning-theory-ai-2026]] — Теорія навчання середнього рівня для взаємодії людини зі ШІ, із чотирма механізмами та шістьма перевірними твердженнями (Yan та Gašević, 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Суб’єктність здобувача як виникаюча якість координації доменної, ШІ- та метакогнітивної компетентностей, а не окремий вузол (Dang та співавтори, 2026)
-
-- [[learner-agency-ai-simulation-2026]] — Доступ до вибору проти втіненої суб’єктності: повзунки, необов’язковий агент ШІ та навчання в симуляції зграї
-- [[guarded-adoption-genai-higher-education-2026]] — Всторожене впровадження генеративного ШІ у вищій освіті
-- [[ai-agents-joyful-assessment-third-space-2026]] — Агенти ШІ, радісне оцінювання та третій простір
-- [[ai-mediated-research-agency-formation-2026]] — Становлення дослідницької суб’єктності, опосередкованої ШІ, у науковій підготовці на початку кар’єри
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Перекладання когнітивної роботи в письмі з підтримкою генеративного ШІ, чутливе до шарів (Chen, 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Шкільна освіта зі ШІ звужує психологічні, але не когнітивні розриви в готовності
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Реляційна епістемічна суб’єктність і шість критеріїв, що відокремлюють продуктивну опору від шкідливої залежності (Du та Yuan, 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Педагогічний супровід із підтримкою ШІ, що підтримує ідентичність у STEM
-- [[t2i-competence-paradox-2026]] — Парадокс компетентності: креативна ідентичність у використанні генеративного ШІ перетворення тексту в зображення
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Виникаюча суб’єктність здобувача в неявній співпраці людини зі ШІ: підтримуючі проти контрарійних персон
-- [[de-barba-srl-genai-2026]] — Суб’єктність здобувача на різних рівнях: регуляція, інтеграція, позиціювання
-- [[mishra-control-vs-agency-history-2025]] — Контроль проти суб’єктності як істотна напруга в історії AIEd
-- [[daoism-ai-education-philosophy-2026]] — Альтернативна філософія ШІ: даосизм як метод для ШІ в освіті
-- [[human-autonomy-agency-hri-review-2025]] — Людська автономія та суб’єктність у взаємодії людини з роботом (HRI)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Проєктування на основі знань для генеративних соціальних роботів
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Розвивайте суб’єктність студентів у навчально релевантній роботі
-- [[shaw-nave-cognitive-surrender-2026]] — Теорія трьох систем і когнітивна капітуляція: як ШІ перебудовує людське мислення (Shaw та Nave, 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Суб’єктність учителів-практикантів під час взаємодії з генеративним ШІ в проєктуванні для навчання (Krushinskaia, Elen та Raes, 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Емансипаційне бачення: суб’єктність як нульова сума з суб’єктністю інструмента
-- [[chen-zou-genai-group-assessment-agency-2026]] — Три патерни суб’єктності в груповому оцінюванні, опосередкованому генеративним ШІ: інтенсифікований, стриманий і невтілений
-- [[ai-integrated-teaching-identity-tensions]] — Принциповий вибір як суб’єктність викладача в інтегрованому зі ШІ викладанні (Adiozaman та Segar, 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Відмова як діагностичний доказ: невикористання як ситуативне ставлення та нерівномірно розподілене право відмовлятися від ШІ (Zagami, 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — епістемічний авторитет, заявляний через перебивання, виправлення та відмову, а не через максимальне використання інструмента
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Хто діє, хто знає, хто відповідає? Дискурс-аналіз із використанням корпусу суб’єктності, епістемічної відповідальності та підзвітності в дослідженнях вищої освіти щодо генеративного ШІ
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Відкриті питання на шляху до опори, що підтримує навички, в рефлексивній взаємодії зі ШІ
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Компетентність проти суб’єктності як мети освіти зі ШІ та евристика обізнаної ШІ-суб’єктності (Fagerlund та співавтори, 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Посередництво викладача як умова, що зберігає генеративний ШІ як артефакт для критики, а не як авторитет (Canonigo, 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Суб’єктність викладача як ресурс, мобілізований через проєктування, із готовністю, що судиться з артефактів, а не з використання (Charles, 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Балансування суб’єктності викладача та студента в інструментах спільної оркестрації для динамічного формування пар у реальному часі (Yang та співавтори, 2026)
-- [[porath-interpretive-authority-2026]] — Матриця інтерпретаційного авторитету та модель екологічної інтеграції авторитету: чотири конфігурації того, хто тлумачить, та екологічні шари, що їх зміщують
-- [[gyekye-selves-apprenticeship-2026]] — Студенти кольору в програмах навчання за учнівським договором творили себе через ШІ через відмову, узгодження та визнання («культурна пласкість»); інституційна ШІ-грамотність та смуга визнання
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Спільна епістемічна суб’єктність у 6 788 підказаних ChatGPT реплік наукового письма середньої школи (Chang та співавтори, 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Сприйняте авторство падало лише там, де делегували ціле есе; ті, хто планував і рецензував, не поступалися тим, хто не користувався (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Хто насправді думає? Характеристика людської суб’єктності в ШІ-взаємодіях студентів першого курсу

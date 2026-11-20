@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -97,30 +99,3 @@ Gutowski and Hurley מעריכים מדיניות על חמישה ממדים ע�
 - **"בתי ספר למשפטים התייצבו על עמדה."** רובם אימצו **עמדות אוסרות באופן כללי**, שהוסברו לעתים קרובות כ**קניית זמן ללמוד את הטכנולוגיה**, בעוד ש**כמעט כל המדיניויות שמרו שיקול דעת למרצים בודדים**. איסור עם עקיפה בידי מרצה אינו עמדה מוכרעת, אלא דחייה עם ברירת מחדל.
 - **"ראיות סקר מתארות את התחום."** **סקר ABA מ-2024 קיבל תשובות מ-29 בתי ספר בלבד, כערך 15% מבתי הספר למשפטים המאושרים בידי ABA**, וסקר LexisNexis של **800** אנשי מעשה מודד אוכלוסייה אחרת. אף אחד מהם אינו יכול להיחשב מייצג של החינוך המשפטי, ושניהם מצוטטים כאילו היו.
 - **"הימנעות מהמלצת AI היא ניטרלית."** בניסוי בהקשר משפטי, **186 מקבלי החלטות לא-משפטנים בתיקים אזרחיים של טריבונל נכנעו לעמדת AI שגויה בהרבה פחות כאשר המערכת נמנעה מלציין את עמדתה (5.7-8.2% לעומת 42.0-60.5%)**. ההימנעות לא יצרה ניטרליות; היא יצרה ירידה גדולה בכניעה, וזה אפקט בזכות עצמו.
-
-## מושגים מקושרים
-
-- [[academic-integrity]] — מסגרת ההתנהגות החלה על עבודה מסוייעת
-- [[assessment-validity]] — האם ביצוע מסוייע מודד את הכושר המיועד
-- [[authentic-assessment]] — עיצובים הדורשים ניתוח ללא סיוע
-- [[ai-use-disclosure]] — נורמות ייחוס ודיווח שעדיין ללא קונצנזוס
-- [[governance]] — ממשל סגל ויצירת מדיניות כפי שבתי הספר למשפטים מנהלים זאת
-- [[educational-policy-ai]] — מדיניות בינה מלאכותית מוסדית כאובייקט לימוד
-- [[critical-thinking]] — ההיגיון ששיטת המקרים נועדה לבנות
-- [[case-based-learning]] — שיטת המקרים ודיון המקרה כפדגוגיה
-- [[socratic-method]] — דיאלוג התלוי בהכנת התלמיד
-- [[experiential-learning]] — קליניקות ואימון מבוסס-פרקטיקה
-- [[professional-training]] — המשפחה הרחבה של מקצועות מורשים
-- [[career-development-and-readiness]] — מוכנות פרקטית כמטרה המוצהרת
-- [[ai-literacy]] — כושר טכנולוגי כחובה מקצועית
-- [[hallucination-risk]] — ציטוטים בדויים ככשל החתימתי של התחום
-- [[legal-issues-and-risks]] — מה שהמוסדות מתמודדים עימו כאשר הממשל נכשל
-
-## מאמרים מקושרים
-
-- [[lorteau-sarro-ai-legal-education-2025]] — בינה מלאכותית בחינוך משפטי: סקירת היקף של 82 עבודות (Lorteau & Sarro 2025)
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — השוואה חמישה-גוררית של מדיניות בינה מלאכותית יוצרת בבתי ספר למשפטים ומסגרת ממשל
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — הימנעות מעמדת המערכת מדכאת הסתמכות-יתר בהחלטות בהקשר משפטי בלי לבנות שיפוט (מקבלי החלטות לא-משפטנים, לא סטודנטים למשפטים)
-- [[xie-genai-mystery-game-legal-education-2026]] — משחק תפקידים מסתורי שנכתב ב-GenAI לעומת הרצאה: ניסוי אקראי (Xie et al. 2026)

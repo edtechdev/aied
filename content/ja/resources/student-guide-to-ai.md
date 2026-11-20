@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -49,11 +50,3 @@ ai_assist:
 このガイドは [[formative-assessment|形成的]]に構成されており、そう明言しています。スコアは成績や特性や予測ではなく、習慣の瞬間的なスナップショットであり、学生には公に共有しないよう伝えられています。
 
 AI をめぐる枠組みは、労力を外部に委ねることで学生の定着が減る可能性があるという、引用された調査・実験の証拠に依拠しています。これは、このガイドが反論するために書かれた（ではなく解決するために書かれた）[[cognitive-offloading|外部委ね]]の問題です。フィールドガイドの PDF は、氏名、役割、所属、メールアドレスを尋ねる短いフォームの先にあり、教師用ガイドのモジュールと教育的フレームワークの論文は直接ダウンロードできます。インタラクティブ版は Gemini Notebook 上で動作し、Google アカウントが必要です。約 180 か国・4,000 機関にわたる 40,000 件以上の PDF ダウンロード、130 以上のカスタムキャンパス版という出版者側の数値は同社のものであり、ALA、NASPA、EDUCAUSE、OLC、CAA、Gardner Institute、RTI International からの推薦も同様です。
-
-## 関連する概念
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

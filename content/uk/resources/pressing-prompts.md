@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -39,8 +40,3 @@ ai_assist:
 ## Звідки це взялося
 
 Проєкт розпочався в Університеті Дьюка в 2024–2025 роках як AI Ethics Learning Toolkit, спроєктований спільно студентами бакалаврату, бібліотекарями, факультетом і технологами з Center for Teaching and Learning та Duke Libraries, і перезапущений після відгуків і редизайну Ханною Роузір, Ремі Каліром і Арією Чернік.
-
-## Пов’язані поняття
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

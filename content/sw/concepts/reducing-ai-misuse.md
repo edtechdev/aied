@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -108,54 +110,3 @@ Vileo vya kielimu vinaonekana tofauti tena mara uadilifu unapotendewa kama mazoe
 **"Kugundua matumizi mabaya na kuyaadhibu ni mkakati wa kuzuia."** Kuzuia lazima kufunike mkadiriaji mwenyewe. Tathmini ya red-team ya [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] iligundua kuwa mbili kati ya mbinu tano za kupindukiza ilani zilizojumuishwa katika faili ya uwasilisho zilipandisha alama za insha iliyoshindwa. Mstari wa kazi unaogundua matumizi mabaya ya wanafunzi huku ukiamini maudhui ya uwasilisho yasiyokaguliwa unalindwa upande mmoja tu.
 
 **"Matumizi mabaya ni tatizo la motisha ya mwanafunzi."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher na Calderon (2025)]] wanasukuma kizuizi kinachofunga juu ngazi moja, wakichukulia utawala badala ya tabia ya mwanafunzi kama kitu cha kubadilisha na wakipendekeza mfumo wa viashiria 130 vya uadilifu. Na madhara ya kujifunza yanapimika kwa kiwango kikubwa: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei na Wu (2026)]] waligundua kuwa kuajiri nje kazi za nyumbani kulipandisha alama za kazi za nyumbani 18% huku *likipunguza* alama za mtihani wa kitabu kifungwa 20%, kushindwa kwa kubuni kunakoonekana katika pengo ambalo ukurasa huu unahusu.
-
-## Dhana Zilizounganishwa
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Makala Zilizounganishwa
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Matumizi ya kuwajibika ya AI inayozalisha katika uandishi wa kitaaluma na wanafunzi: mapitio ya upeo ya mipaka, mbinu za kielimu na mapengo ya ushahidi
-- [[ivory-psychology-assessment-integrity-2026]] — Njia za ushahidi za vidhibiti vya matoleo na nyaraka za uchanganuzi zinazoweza kurudiwa kama vizuri vya kuzuia matumizi mabaya (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kuzuia pendekezo kulipunguza kwa kiasi kikubwa kutegemea kupita kiasi bila kujenga hukumu inayoiunga mkono
-
-- [[guo-overreliance-genai-feedback-2026]] — Mzigo wa kiakili, upitishaji wa kiakili na utegemezi kupita kiasi wa maoni ya GenAI (Guo & Dong 2026)
-
-- [[generative-ai-guardrails-harm-learning]] — GenAI Bila Vizazi Inaweza Kudhuru Kujifunza
-- [[genai-performance-vs-learning]] — Kutofautisha Faida za Utendaji na Kujifunza
-- [[ai-assessment-scale-reform]] — Skela ya Tathmini ya AI na Maboresho ya Tathmini
-- [[critical-thinking-genai-scaffolding]] — Ngazi za Msaada za Ufikiri Mahususi na AI ya Kizalishaji
-- [[aaai2026-prompting-literacy-k12]] — Kujifunza Kutumia AI kwa Kujifunza (Moduli ya Ujuzi wa AI ya K-12)
-- [[genai-declaration-frameworks-higher-education]] — Kuunda Uwazi: Miundo ya Tangazo ya GenAI
-- [[absent-cognitive-baseline-2026]] — Msingi wa Kiakili Uliopotea
-- [[ai-literacy-power-knowledge]] — Ujuzi wa AI: Mazoezi ya Nguvu-Maarifa
-- [[contextual-sycophancy-ai-literacy]] — Gharama ya Fiche ya Kubembeleza Kulingana na Muktadha: uingiliaji wa ujuzi wa AI
-- [[sycophantic-ai-social-interaction-2026]] — AI inayobembeleza inafanya mwingiliano wa binadamu uonekane wenye juhudi zaidi na wenye kuridhisha kidogo kwa muda
-- [[ssaho-ai-academic-integrity-review-2025]] — Ujenzi wa utamaduni na kubuni upya tathmini kuliko ulinzi wa kugundua
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Kusikitika kwa kiakili, msuguano wenye tija, na kutokuwa na usawa kwa metaji
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Kuzingatia upya mitihani ya mdomo kama tathmini halisi, inayostahimili AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza ya AI ya kizalishaji: kuajiri nje kazi za nyumbani kunadhuru kujifunza
-- [[ai-overreliance-complex-adaptive-system-2026]] — Kutegemea kupita kiasi AI kimefuatiliwa kama mfumo tata unaobadilika
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Vizugi vilivyoondolewa vilitoa uharibifu bila kuboresha alama za mtihani
-- [[munoz-misconduct-allegation-evidence-2026]] — Faili za shutuma za makosa zinajumuisha nini kama ushahidi
-- [[wright-transcription-not-generation-2026]] — Sheria za AI za ujumuishaji kupita kiasi na wanafunzi wanaozinaswa
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uadilifu kama hukumu ya kutathmini badala ya kufuata
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Wanafunzi juu ya kama GenAI ni zana ya udanganyifu au mwenzi wa kujifunza
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Uangalizi wa mbali huwatendea nini wanafunzi, na usawa
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Kuzuia uhalifu wa hali dhidi ya udanganyifu unaorahisishwa na AI: visa 183 hadi 27, na maboresho matano mahususi ya taaluma (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Masudio 38 ya sauti za wanafunzi yanapendekeza nini: uwazi ulioundwa pamoja na hoja za kielimu kuliko kugundua (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Msaada wa lugha unakwenda hadi wapi na uingizaji unaanzia wapi kwa waandishi wa EAL (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Kupindukiza ilani kama njia ya matumizi mabaya dhidi ya ukadiriaji wa AI (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Utawala kama kizuizi kinachofunga uadilifu: mfumo wa viashiria 130 (Coates, Croucher & Calderon 2025)

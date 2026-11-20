@@ -24,6 +24,8 @@ ai_assist:
     role: drafting
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-agent, agency, teacher-role, human-ai-collaboration, educational-robotics, ai-avatars-and-synthetic-instructors]
+connected_articles: [activity-theory-teacher-pd-ai-agent-design-2026, ai-tpack-teacher-multi-agent-workflow, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 > **Synthesis:** Lan and Chen argue that AI agents are entering classrooms faster than frameworks that keep teachers in charge of the pedagogy those agents enact. Their answer is the teacher-authored instructional proxy: an agent whose objectives, sequence, feedback, and assessment criteria a teacher specifies rather than a model default. Three principles carry it: a five-layer architecture separating teacher decisions from [[generative-ai|generative AI]] execution, a single-learning-objective rule, and a teacher-digital-twin relation that survives a change of embodiment, all held by a fidelity model of tolerances, review, and override. Xiaokaibi, a photo-sharing agent for older adults, shows the principles applied and one configuration rejected.
@@ -76,21 +78,6 @@ Xiaokaibi's kernel is an oral-narration objective, four phases, on-topic branche
 - The cases come from one cultural setting and one authoring platform, so architectural features may partly reflect platform affordances.
 - Continuity across embodiments is argued conceptually and shown for one agent; whether a twin survives adaptation awaits comparative study.
 - The framework presumes design capacity many teachers lack; its equity argument covers hardware but not connectivity, cost, accessibility, language, or data governance, and binding an agent to a prior design constrains learner agency.
-
-## Connected Concepts
-
-- [[pedagogical-agent]]: the design object, an agent whose instructional logic a teacher specifies
-- [[agency]]: authorship versus supervision when generative systems execute pedagogy
-- [[teacher-role]]: from producing materials to specifying the reasoning that governs interaction
-- [[human-ai-collaboration]]: separating teacher decisions from automated execution at each layer
-- [[educational-robotics]]: physical embodiment as one delivery configuration among several
-- [[ai-avatars-and-synthetic-instructors]]: virtual and animated embodiments of the same teacher design
-
-## Connected Articles
-
-- [[activity-theory-teacher-pd-ai-agent-design-2026]]: how teacher professional development handles the same authoring problem
-- [[ai-tpack-teacher-multi-agent-workflow]]: teachers designing multi-agent workflows in practice
-- [[caee-digital-twins-stem-education-systematic-review-2026]]: the engineering sense of digital twins that this framework departs from
 
 ## Citation
 

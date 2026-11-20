@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -114,28 +116,3 @@ FD担当者は教員の専門性開発も同じように評価できる。反復
 - **「標本が大きければ短い測定期間を補える」。** 標本サイズが扱うのは精度であり、発達プロセスや制度のプロセスが展開するのに必要な時間ではない。
 - **「同じ課程なら同じ人々だ」。** 反復横断が追うのは集団であり個人ではない。両者が支持できる主張は異なる。
 - **「自己報告のトレンドは態度のトレンドだ」。** 報告された利用や立場は、行動だけでなく規範や測定器具によっても動く。
-
-## 関連する概念
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## 関連する記事
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — 特性と状態を分離した3波パネル（Xu）
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — エンゲージメント、フロー、情動的知性の5波成長モデル
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教職課程におけるGenAI利用と倫理的認識の4学期分
-- [[song-genai-learning-partner-srl-over-time-2026]] — 評価圧力の下での低下を示した1学期にわたる自己調整研究
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 3つのAI条件を比較した9週間の縦断的準実験
-- [[ai-lms-middle-school-longitudinal]] — 中学校向けAI統合LMSの提案（設計であり、縦断研究ではない）

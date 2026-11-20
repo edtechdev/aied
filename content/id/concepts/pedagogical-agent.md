@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -56,7 +58,6 @@ Penggunaan pelengkap agen berbasis peran menyasar praktik [[teacher-education|gu
 
 **Orientasi peran adalah variabel desain, bukan pilihan gaya.** [[wang-teacher-student-centered-agents-physics-2026|Perbandingan agen fisika]] (Wang et al. 2026, 59 siswa) mengisolasi peran yang ditentukan prompt sambil menahan model, platform, dan suhu tetap: agen berpusat guru yang berlandaskan sumber buku teks terbatas dan menjawab dari perspektif instruktur, versus agen berpusat siswa yang dikonfigurasi dengan pengetahuan tentang pemahaman siswa dan diskrip untuk mendiagnosis miskonsepsi, menamai konsep, dan [[transfer-of-learning|mentransfer]] ke kasus analog. Peran berpusat siswa menang pada setiap hasil yang diukur — performa pascates, beban kognitif ekstraneus yang lebih rendah dan beban germane yang lebih tinggi, pengalaman flow, dan empati yang dipersepsikan — meskipun agen berpusat guru adalah yang dioptimalkan untuk akurasi dan kesetiaan pada buku teks. Ini menjadikan *peran dan pola interaksi* parameter desain kelas satu bersama [[prompt-engineering|prompt]] dan pilihan model, dan menunjukkan bahwa empati dapat direkayasa dari struktur percakapan alih-alih dari model yang dilatih berbeda ([[affective-computing]]).
 
-
 **Niat penulis tidak menjamin pedagogi yang terwujud.** Ketika 27 guru sekolah menengah mengonfigurasi alat penulisan chatbot untuk guru, evaluasi atas 108 penilaian kriteria tingkat bot menemukan bahwa respons yang dihasilkan jauh lebih selaras dengan responsivitas (88.9%) dan persona (81.5%) daripada dengan aturan (70.4%) atau tujuan yang dinyatakan (59.3%), yang oleh penulis dibingkai melalui bentuk-bentuk pedagogis dari Gulf of Execution dan Gulf of Evaluation Norman — kontrol yang dapat dikonfigurasi saja tidak membuat niat instruksional guru terlihat dalam perilaku bot ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
 
 **Agen dalam lingkungan imersif dan realitas diperluas.** [[aclime-pedagogical-agents-extended-reality-2026|Ross dan Kaspar (2026)]] memperluas konsep ke [[virtual-and-augmented-reality|realitas diperluas]] (AR, virtualitas tertambah, dan VR) dengan ACLIME, kerangka konseptual yang — tidak seperti CAMIL, CATLM-VR, dan TICOL — menempatkan agen di dalam model. Kerangka itu menamai dua mode interaksi yang diambil dari literatur: tutor, yang menawarkan bimbingan, dorongan, pertanyaan reflektif, dan penjelasan, serta mitra bermain peran, yang menempati peran tertentu di dalam skenario seperti penduduk lokal dalam kunjungan lapangan perubahan iklim atau pihak lawan bernegosiasi dalam pelatihan korporat. Tubuh agen (hanya kepala hingga seluruh tubuh) dan perilakunya diperlakukan sebagai permukaan desain: realisme visual versus perilaku, kendali AI yang fleksibel versus skrip berbasis aturan yang tetap, ucapan sintetis versus rekaman, dan kanal nonverbal termasuk [[sensor-and-gaze-analytics|tatapan]], gestur, dan proksemik. Imersi dan interaktivitas berbasis tubuh diargumentasikan melipatgandakan isyarat sosial di balik [[community-of-inquiry|kehadiran sosial]] — realisme perilaku, bukan realisme visual, diusulkan sebagai prediktor penentu — sementara tubuh virtual siswa sendiri menambahkan dimensi [[embodied-learning|perwujudan]] (kepemilikan tubuh, agensi tubuh sendiri virtual, lokasi diri) dan efek proteus. Trade-off eksplisit kerangka ini bersifat kognitif: imersi dan kehadiran agen semata dapat menaikkan beban kognitif meskipun interaksi sosial dengan agen menurunkannya melalui efek memori kerja kolektif, dan lapisan temporal (familiarisasi, pendewasaan relasi manusia-agen, penurunan kebaruan, berkembangnya cybersickness) ditambahkan ke variabel desain yang biasa. Statusnya sengaja bersifat sementara: hampir belum ada kerja empiris yang menguji agen pedagogis dalam media imersif, dan [[learning-gains|hasil belajar]] jangka panjang serta karakteristik siswa berada di luar model.
@@ -82,7 +83,6 @@ Agen pedagogis berada di persimpangan [[intelligent-tutoring]] (tulang punggung 
 
 Yang krusial, agen pedagogis dinilai dari [[learning-gains|perolehan belajar]] mereka, bukan dari seberapa lancar mereka merespons. Bukti basis pengetahuan adalah bahwa agen menghasilkan keuntungan yang bertahan ketika dirancang sebagai pelatih khusus tutoring dengan pagar pengaman — [[stanford-evidence-base-ai-k12-2026|AI khusus tutoring secara konsisten mengungguli chatbot serbaguna]] — dan dapat merugikan pembelajaran ketika menggantikan usaha siswa ([[generative-ai-guardrails-harm-learning|RCT pagar pengaman]], [[jost-llm-programming-education-learning-outcomes|ketergantungan LLM dan nilai]]). Mengukur [[learning-gains]] agen karena itu menuntut ukuran hasil yang dapat ditransfer dan tanpa bantuan, bukan performa di dalam alat.
 
-
 Umpan balik yang lebih baik tidak sama dengan pembelajaran yang lebih baik: menyesuaikan agen dengan basis pengetahuan dan alur kerja menaikkan akurasi dan kekhususan umpan balik tetapi membiarkan perilaku pengaturan diri, pengalaman belajar, dan hasil tidak berubah, dan keunggulan perolehannya hanya muncul pada umpan balik direktif ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 ## Miskonsepsi Umum
@@ -90,65 +90,3 @@ Umpan balik yang lebih baik tidak sama dengan pembelajaran yang lebih baik: meny
 - **"Niat penulis menentukan apa yang dilakukan agen pedagogis."** **Niat penulis tidak menjamin pedagogi yang terwujud.** Ketika **27 guru sekolah menengah** mengonfigurasi alat penulisan chatbot untuk guru, evaluasi 108 kriteria tingkat bot menunjukkan perilaku yang terwujud menyimpang dari apa yang diniatkan guru. Alat itu memediasi pedagoginya.
 - **"Agen pedagogis yang memoderasi diskusi adalah peran yang sudah selesai."** [[ethics-training-agents-group-ethics-discussion-2026|Agen Pelatihan Etika (Seo et al., 2026)]] menunjukkan apa yang terjadi ketika agen diminta **memoderasi alih-alih** mengajar — tuntutan yang secara kualitatif berbeda dari menjawab pertanyaan, dan yang oleh literatur dianggap belum tuntas.
 - **"Basis bukti untuk pengajaran berbantuan komputer tipis."** Sebuah sintesis (**2025, 34 tinjauan**) mengkuantifikasi pemanfaatan CAI pada dukungan pengajaran dan pembelajaran (**97.1% tinjauan**), dukungan psikologis dan motivasional (**91.2%**), dan dukungan **metakognitif**. Cakupan aplikasi yang ditinjau sangat luas, yang membuat celahnya adalah kualitas yang terwujud, bukan cakupan.
-
-## Konsep terkait
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artikel terkait
-- [[wang-teacher-student-centered-agents-physics-2026]] — Peran agen berpusat siswa mengungguli peran berpusat guru pada performa, beban, flow, dan empati (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: kerangka konseptual untuk agen pedagogis dalam AR/VR — tutor vs mitra bermain peran, realisme, kehadiran, beban kognitif (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: agen siswa generatif untuk latihan instruksional
-- [[conversational-ai-agents-umbrella-review-2026]] — Tinjauan payung agen AI percakapan dalam pendidikan
-- [[conversational-agents-novice-programmers-scoping-2025]] — Tinjauan cakupan agen percakapan untuk pemrogram pemula
-- [[ba-ai-agents-cscl-review-2026]] — Tinjauan agen AI dalam pembelajaran kolaboratif berbantuan komputer
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Perancah yang disukai dalam pemodelan matematika berbantuan AI
-- [[llm-adaptive-programming-error-explanations-2026]] — Penjelasan adaptif LLM atas kesalahan pemrograman
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Pendamping AI adaptif peran untuk book talk sekolah dasar; plafon afektif agen berperan tetap (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agen Pelatihan Etika: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Bermain Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis
-
-- [[teachers-configure-educational-chatbots-2026]] — Apakah Akan Mengajar Sesuai Niat? Bagaimana Guru Mengonfigurasi Chatbot AI Pendidikan
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Agen yang disesuaikan menaikkan kualitas umpan balik tetapi tidak pengaturan diri atau hasil; keunggulan keuntungan hanya pada umpan balik direktif

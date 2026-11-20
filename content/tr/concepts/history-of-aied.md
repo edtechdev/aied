@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,8 +47,6 @@ Alanın tarihi doğrusal bir ilerleme değil, etkileri hâlâ yankılanan bir di
 **Kişiselleştirmenin iki biçimi.** [[personalized-learning|Kişiselleştirme]], bu vizyonlara karşılık gelen iki ayrı yoruma sahiptir. İlki sonuçları sabit tutup yolu çeşitlendirir (Skinner’ın öğretme makinelerine; ustalığa yönelik özel ders verilmesine ilişkin Khan Academy vizyonuna kök salar). İkincisi ise çeşitli sonuçları benimser — öğrenenlerin bireysel ilgi ve yeteneklerini, standart [[curriculum-design|müfredat]] sınırlarıyla kısıtlanmadan sürdürdüğü sonuçları (Zhao, 2024). ITS modeli birincisini, yapılandırmacılık ikincisini destekler.
 
 **GenAI çağı için dersler.** Üretken yapay zeka konusundaki günümüz tartışmaları bu tarihsel gerilimleri yakından yansıtıyor. GenAI sıklıkla yeni nesil bir akıllı öğretmen olarak konumlandırılıyor (Anderson’u sürdürerek) ve bu da gözetim, veri toplama ve standardizasyon kaygılarını gündeme getiriyor. Diğer taraftan yaratıcı özerkliğin aracı olabilir (Papert’i sürdürerek); bu durum değerlendirmeyi yeniden düşünmemizi ve daha belirsiz sonuçları kabul etmemizi gerektiriyor. [[mishra-control-vs-agency-history-2025|Mishra ve ark.]] sonuç olarak şunu belirtiyor: kurumsal güçler tekrar tekrar mevcut yapıları güçlendiren yaklaşımları tercih ediyor — ve seçtiğimiz dil ve metaforlar gelecekteki olanakları biçimlendirecektir. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian ve Doroudi’nin AI×Ed çerçevesi]] bu sezgisel değerlendirmeye ampirik bir zemin sunuyor: AIED bildirilerinden (1985, 1993, 2021, 2024) ve IJAIED’den (2004, 2014, 2021) makaleleri iki eksen üzerinde konumlandırarak — yapay zekanın rolü (uygulamalı araç karşısında insan zekasına analoji) ve son kullanıcı — insan zekasına bir analoji olarak yapay zeka kullanan önemli bir erken dönem araştırması içeren çeşitli bir karışımdan (öğrenmenin hesaplamalı modelleri, Papert’in mikrodünyaları, bilgi ediniminde ajan tabanlı modeller) 2000’lere gelindiğinde uygulamalı, aracı kullanımlara neredeyse tamamen yönelen bir alanın izini sürüyorlar. Dikkat çeken nokta, üretken yapay zeka döneminin bu seyri kısmen tersine çevirmiş görünmesi: AIED 2024’te alanın ‘YZ-analoji’ kadranındaki dört makaleden üçü LLM tabanlıydı; bunlar arasında LLM tabanlı [[learning-by-teaching|öğretilebilir ajanlar]] üzerine en iyi makale çalışması da yer alıyor.
-
-
 
 **Dergi kaydı iki kez dönüyor.** 5.387 *Computers & Education* makalesinin (1976–2026) yapısal konu modeli, 390 kayıtta (%7,2) YZ bulmuş ve bu 18 konunun 17'sine yayılmıştır. Bir makalenin YZ ile ilgili olmasının yıllık olasılığı 1989'a kadar yılda %21,8 artmış, 2018'e kadar yılda %3,7 düşmüş, sonra 2025'e kadar yılda %40,1 tırmanmıştır ([[wu-fifty-years-ai-reach-computers-education-2026|Wu ve ark., 2026]]). 2018 dönüşü ChatGPT'den dört yıl önce gelir; yani üretken dönem başlamakta olan bir eğilimi hızlandırmış, onu başlatmamıştır.
 
@@ -98,30 +98,3 @@ Alanın tarihi doğrusal bir ilerleme değil, etkileri hâlâ yankılanan bir di
 
 - Tarihsel derlemleri, bugünü tek karşılaştırma olarak ele almak yerine bir temel çizgi olarak kullanın. AIED 1985, 1993, 2021 ve 2024 ile IJAIED 2004, 2014 ve 2021 bildirileri, alanın kendi iddialarından hazır bir boylamsal örneklemdir.
 - Yenilik iddia ettiğinizde soy kütüğüne atıf yapın. Bir sistemin "öğrenmeyi kişiselleştirdiği" ya da "öğreneni modellediği" iddiası ancak belirli bir önceki geleneğe göre yenidir ve bu gelenek belgelenmiştir.
-
-## Bağlı kavramlar
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Bağlı makaleler
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fifty years of Computers & Education topics: AI prevalence turned upward after 2018, four years before ChatGPT

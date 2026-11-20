@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -133,51 +135,3 @@ Swali la ujenzi hubadilika kutoka "tunalinda vipi wanafunzi wasitumie AI?" hadi 
 **"Swali ambalo kifaa cha kugundua hujibu ni kama uandishi ni wa binadamu au wa AI."** Mgawanyo huo wa aina mbili si mgumu kuhesabiwa tu, hauna msingi wa kimawazo. Msaada wa uandishi upo kwenye mwendelezo, sera ya taasisi nyingi huruhusu sehemu yake, na hakuna kizingiti cha alama ya matokeo kinacholingana na mpaka unaoweza kutetea. Kushindwa kulikopimwa ni kushindwa kwa sera: makundi ambayo vifaa vinaahidi hayapo katika kazi wanayowasilisha wanafunzi kwa kweli.
 
 **"Utawala unaozingatia kugundua hulinda uadilifu."** Unaweza kuudhoofisha. Kugundua hulima hali ya shaka inayodhoofisha [[trust]] kati ya wanafunzi na wafanyakazi, na fasihi ya [[academic-integrity|uadilifu]] ambayo korpusi hii inaripoti inaweka vianzio vya kudumu katika kubuni upya tathmini badala ya ufuatiliaji. Utaratibu wa mashindano ya silaha pia unamaanisha utawala unaendelea kugharimu zaidi huku ukipima kidogo: viwango vya msingi vya alama vilienea **kutoka 0.0% hadi 100.0%** kwa viwango vya uhariri, ambayo si ishara ya utofautishaji.
-
-## Dhana Zilizounganishwa
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Makala Zilizounganishwa
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — Tovuti 55 za kubadilisha maandishi kuwa ya kibinadamu zinazoigiza uhalali: kugundua na kuepuka kama soko moja la kibiashara (Roe et al. 2026)
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Dodoso inayowakilisha kitaifa la walimu na wakuu wa shule wa Marekani kuhusu matumizi ya sera ya AI, wakala, na mbinu tano za darasa (Tench, Weinstein na James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Tathmini katika Zama za AI
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Kifaa cha Kugundua cha Kurejesha Ilani ya Ndani
-- [[ivory-psychology-assessment-integrity-2026]] — Kugundua ni kifaa kisichofaa: mpaka wa kupitisha uliamua i kazi ya AI ilihukumiwa kama mafanikio (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Kutathmini LLM katika Kugundua Maudhui Yaliyozalishwa na LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] — Kupita Kugundua: Tathmini Halisi
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye Uwajibikisho katika Zama za AI
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Uadilifu wa Uandishi wa Pamoja na Uhalali wa Tathmini
-- [[student-rationalization-ai-writing]] — Uhalalishaji wa Mwanafunzi wa Uandishi wa AI
-- [[socially-fluent-ai-identity-detection]] — Kugundua Utambulisho wa AI wenye Ubora wa Kijamii
-- [[ssaho-ai-academic-integrity-review-2025]] — Mapitio ya uaminifu wa kugundua maudhui ya AI/wizi ya msingi wa AI
-- [[bassett-ai-detectors-education-2026]] — Vichwa tunashinda, mkia unapoteza: vifaa vya kugundua AI katika elimu (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Kwa nini matokeo ya kifaa hayawezi kuthibitisha uvumbuzi wa tabia mbaya
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Ubaguzi badala ya kiwango cha kukamata, na lini ufuatiliaji unarudia nyuma
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin na Originality kwa maandishi 192: zote chini ya macro F1 ya 0.55 na karibu hazifai kwa uandishi wa mchanganyiko
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Vifaa vinne dhidi ya karatasi 160 zenye ukweli wa msingi; Pangram pekee ilifanya, lakini ilitia alama 45.5% ya digrii za moja kwa moja
-- [[munoz-misconduct-allegation-evidence-2026]] — Matokeo ya kifaa ni aina dhaifu zaidi ya ushahidi katika faili 1,162 halisi za kesi za tabia mbaya
-- [[wright-transcription-not-generation-2026]] — Kanuni za jumla za "matumizi ya AI" huchanganya unukuzi na uzalishaji
-- [[sharma-judgment-visible-genai-assessment-2026]] — Kugundua kimeshushwa hadi tabaka la ziada nyuma ya hukumu inayoonekana
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Kugundua kama ishara ya kushika, na kwa nini mwitiko wa usalama unaongeza tofauti isiyohusiana na dhana (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Insha za upitishaji zilizoandikwa na AI ni za kawaida lakini zinaadhibiwa
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Vipimo tisa vinavyoeleweka vya stilometriki: ROC-AUC 0.870 lakini hati nne kati ya 18 zilizoandikwa na waandishi huru ziliwekwa alama (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Hati moja ya binadamu, vifaa vitano, uainishaji kutoka "0% binadamu" hadi "Iliyozalishwa na Binadamu", pamoja na kurudi kwa taasisi kwenye kugundua (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Uadilifu wa Kitaaluma katika Zama za AI ya Kizalishaji
-- [[student-llm-code-detection-cs1-2026]] — Msimbo wa LLM unakusanyika kwa kazi zenye vikoma vikali (1-14 aina za AST kwa kila faili 1,000) lakini si kwa zile huru - kugundulika hufuata ubini wa kazi
-- [[kazakh-ai-text-detectors-2026]] — Hawakaguliwa au Wanashtakiwa Kwa Uongo? Kutathmini Vichunguzi vya Maandishi Yaliyozalishwa na AI kwa Kikazakh
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]]: Dharia kwamba utekelezaji huchuja kwa mtaji wa kitaaluma, si kwa mwenendo
-- [[lieske-ai-proposals-counter-ai-cheating-2026]]: LLM nane zinapanga mbinu sita za kuzuia udanganyifu; kugundua kwa AI kinakuja mwisho
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]]: Wakaguzi ishirini kuhusu hisi, vifaa vilivyokufa na marejeo yaliyotungwa

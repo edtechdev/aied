@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -111,38 +113,3 @@ Für Bildungsfachkräfte und Institutionen, die pädagogische Partnerschaft einf
 - **„Partnerschaft bedeutet, die Stimme der Studierenden zu erheben.“** Eine pädagogische Partnerschaft ist eine **begrenzte, ausgehandelte Beziehung** mit definierten Rollen und reziproker Verpflichtung, keine Konsultation. Stimme ohne Rolle, Mandat und Anteil an der Entscheidung verändert strukturell nichts.
 - **„Partnerschaft ist eine Haltung, die man einnehmen kann.“** Sie erfordert institutionelle Bedingungen — Zeit, Anerkennung für die studentische Partnerin oder den Partner und eine Veränderung, die die Partner tatsächlich bewirken können. Erklärte Partnerschaft ohne diese Bedingungen reproduziert die Hierarchie, die sie zu unterbrechen behauptet.
 - **„Machtteilung kann keine Fakultätsentwicklung sein.“** Die Behauptung der Literatur ist, dass Partnerschaft Entwicklung ist, *weil* sie das Verständnis der Lehrenden durch die Beziehung verändert. Sie nur als Nutzen für Studierende zu rahmen verwirft den Mechanismus.
-
-## Verbundene Konzepte
-
-- [[pedagogy]] — Pädagogien und Lehrstrategien
-- [[collaborative-learning]]
-- [[agency]] — Handlungsfähigkeit der Lernenden
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Verbundene Artikel
-
-- [[guided-inquiry-genai-course-policy-2026]] — Ein angeleiteter Erkundungsansatz für Studierende beim Mitgestalten generativer KI-Kursrichtlinien
-- [[lo-co-creating-custom-gpts-sap-2026]] — Mit-Erzeugung maßgeschneiderter GPTs: eine autoethnografische Studie zu Studierenden der Grundstufe als Partner in der Innovation mit generativer KI
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessmentdesign durch Mit-Erzeugung: Partnerschaft von Studierenden und Personal bei der Evaluation von KI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Fünf Leitprinzipien für den Umgang mit KI in der Praxis „Studierende als Partner“ zur Bewahrung pädagogischen Vertrauens
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Mit-Design von KI mit jugendlichen Partnern: ein relationales ethisches Rahmenwerk zum Datenschutz
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Die komplexen Realitäten von Studierenden mit KI im Licht eines verwobenen-pädagogie-Frameworks
-- [[anastasia-shared-agency-partnership-framework-2026]] — Geteilte Handlungsfähigkeit: Das Agency-Partnership-Framework für die Zusammenarbeit von Lehrenden und Studierenden
-- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerschaften: Zusammenarbeit mit Studierenden in den Informationswissenschaften
-- [[student-centered-genai-responsible-framework-2026]] — Studierendenzentriertes Framework für verantwortungsvolle generative KI-Nutzung
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Studierende bauten einen KI-Tutor für Peers im Maßstab von 710 Studierenden: hohes Engagement, explorative Lernbelege (Zangari et al. 2026)

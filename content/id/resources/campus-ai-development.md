@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,9 +67,3 @@ logika kepatuhan. Tidak ada lisensi penggunaan ulang yang dinyatakan. Situs saud
 [campusdatagov.com](https://campusdatagov.com/) dan
 [campusairegistry.com](https://campusairegistry.com/) memuat bagian tata kelola data dan registri agen,
 jadi ini pintu masuk yang baik ke kerja [[educational-policy-ai]] tetapi bukan penggantinya.
-
-## Konsep terkait
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

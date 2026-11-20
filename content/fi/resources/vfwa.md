@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -51,11 +52,3 @@ Korkeakoulujen ohjelma- ja moduulivastaavat, jotka haluavat yhä pidemmän kirjo
 Mallia ei ole arvioitu laajasti. Artikkeli toteaa selvästi, että otosta, välinettä tai mitattua tulosta ei vielä ole, ja että pilotteja tarvitaan testaamaan, lisäävätkö vaiheen 1 tuotokset arvioijien varmuutta tai tulkintajohdonmukaisuutta, kokevatko opiskelijat suunnittelun oikeudenmukaisempana ja miten ala asettaa riittävyyskynnyksen tekemättä vaiheesta 1 toista tenttiä.
 
 Kaksi käytännön kustannusta on todellisia. Vaihe 1 vaatii havainnoituja istuntoja ja turvallista tallennusta laajassa mitassa, ja monikielinen tallennus ja käännös ovat edellytyksiä eivät lisäosia. Ja tulkitseva arviointi jätetään tarkoituksella arvioijille: malli olettaa alaosaamisen, jota ei voi automatisoida, mikä on yhtä paljon henkilöstöoletus kuin suunnitteluvalinta.
-
-## Liittyvät käsitteet
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

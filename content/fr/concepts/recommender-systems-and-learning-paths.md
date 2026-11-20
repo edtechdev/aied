@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -100,42 +102,3 @@ La même littérature a commencé à proposer des remèdes au rétrécissement, 
 **« Des données éparses sont une nuisance technique. »** Aux niveaux de parcimonie de cette littérature (0,9981), le système ne voit presque rien, ce qui rend le démarrage à froid et le biais de popularité structurels plutôt que corrigeables par réglage. Un système de recommandation entraîné sur ce signal fera systématiquement remonter ce qui est déjà populaire, et les apprenants discrets ou atypiques sont ceux qu'il ne peut pas voir.
 
 **« L'explicabilité est une fonctionnalité de reporting. »** Qu'un enseignant ou un apprenant puisse auditer une recommandation est une condition de légitimité : un parcours qu'un étudiant ne peut pas examiner est un parcours qu'il ne peut pas contester, ce qui est un problème de gouvernance avant d'être un problème d'interface.
-
-## Concepts liés
-
-- [[knowledge-graph]] — Représentations structurées de concepts, de ressources et de relations de prérequis
-- [[explainable-ai]] — L'explication comme caractéristique de conception qui médiatise compréhensibilité et confiance
-- [[curriculum-design]] — Les décisions d'ordonnancement que les systèmes de recommandation modélisent, infèrent et reproduisent
-- [[learning-design]] — La séquence planifiée d'activités sur laquelle opèrent les analyses de parcours
-- [[learning-analytics]] — Les données et les méthodes derrière la recommandation, et l'objet de l'audit
-- [[cognitive-diagnosis]] — Le diagnostic des états de connaissances qui amorcent les parcours de remédiation
-- [[knowledge-tracing]] — La modélisation de la maîtrise dans le temps pour décider de ce à quoi un apprenant est prêt
-- [[student-modeling]] — Les représentations de l'apprenant que la recommandation consomme
-- [[personalized-learning]] — L'objectif plus large ; la recommandation couvre la décision de sélection
-- [[adaptive-learning]] — Le mécanisme d'ajustement en temps réel ; la recommandation couvre le classement et le séquencement
-- [[intelligent-tutoring]] — La plateforme qui agit sur les recommandations dans le dialogue
-- [[bias-mitigation]] — Les interventions d'équité dans le classement et l'exposition
-- [[equity-in-ai-education]] — Les différences entre groupes dans la qualité des recommandations
-- [[human-in-the-loop-ai]] — La supervision de la navigation automatisée des ressources
-- [[self-directed-learning]] — Les parcours maintenus par l'apprenant et la navigation tout au long de la vie
-- [[lifelong-learning]] — L'apprentissage structuré en graphe au-delà d'un cursus diplômant
-- [[trust-calibration]] — Accorder la confiance à la fiabilité des recommandations
-- [[student-support-and-success]] — recommander soutien, ressources et parcours académiques
-
-## Articles liés
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Filtrage collaboratif hybride et graphe de connaissances pour des ressources pédagogiques multimodales, avec fusion sensible à la capacité et à la progression (Liu, Sun et Song 2026)
-- [[fair-explainable-edu-recommendations]] — Système de recommandation graphe de connaissances hétérogène + GRU avec équité GroupDRO et explicabilité contrefactuelle (Evangelista et Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Les explications domain-driven bâtissent plus de confiance chez les enseignants que les graphiques d'importance des caractéristiques (Feldman-Maggor et coll. 2025)
-- [[proprl-prerequisite-relation-learning]] — Apprentissage des relations de prérequis avec une contrainte d'irréversibilité pour la cohérence directionnelle (Cheng et coll. 2026)
-- [[pattern-kc-programming-recommendation]] — Recommander la pratique de la programmation par similarité de composantes de connaissances fondée sur des patrons (Hoq et coll. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Analyse par chaînes de Markov et extraction de patrons de 29 064 activités conçues sur 554 cours (Divjak, Svetec et Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnostic DINA bayésien et parcours de remédiation les plus courts, médiés par la charge cognitive (Feng et Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Cartographier les questions posées à un assistant pédagogique IA sur un graphe de prérequis extrait par GPT-4 pour trouver les lacunes au niveau du curriculum (Medhat et coll. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Les learnity graphs comme alternative aux curricula fixes dans l'apprentissage tout au long de la vie (Szekely, Gal-Ezer et Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Une taxonomie à cinq niveaux montrant que la plupart des interactions humain-IA sont de la consultation, non de la collaboration (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Soutien à l'autonomie versus pression prédisant des trajectoires d'IA constructives ou compulsives (Shen et Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — Revue PRISMA des tendances, parcours et modèles de recommandation de l'apprentissage personnalisé (Ikram et coll. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath : un benchmark de planification centrée sur les connaissances montrant que les LLM atteignent 90,9% de validité mais seulement 44,3% d'adaptativité (Liu et coll. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — la recommandation d'exercices comme décision séquentielle sur un traceur ancré sémantiquement
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Regroupement comportemental de 14 003 dossiers en six profils, projetés sur des objets d'apprentissage par un cadre de recommandation régularisé par la diversité (Najem et coll. 2026)

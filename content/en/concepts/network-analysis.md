@@ -7,6 +7,8 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 > **Network analysis** — the family of [[research-methods-aied|research methods]] that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way. ([[tracing-genai-literacy-interaction-patterns|Chen et al. (2026)]]) ([[penny-transition-network-analysis-efl-writing-2026|Woollaston et al., 2026]]) ([[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al., 2026]])
@@ -62,7 +64,6 @@ Network methods are used across the evidence base to answer questions that aggre
 3. **Validate automated coding.** With large log datasets, [[llm|LLM]]-based classification is powerful but must be checked against human coding (report inter-rater agreement) before interpreting network structure.
 4. **Design for differentiation.** Network analysis often reveals that the *same* AI tool produces different interaction patterns across learner subgroups — informing adaptive design rather than one-size-fits-all evaluation.
 
-
 ## ENA Validation of Simulated Collaborative Dialogue
 
 - **ENA as validation for simulated dialogue.** Fang (2026) applies Epistemic Network Analysis to evaluate whether fine-tuned LLM agents reproduce the structure of real collaborative [[problem-solving|problem-solving]] dialogue. Comparing simulated adjacency vectors to the empirical network, he reports an ENA distance of 0.17 — within the 95th-percentile threshold of the null distribution, with a permutation p-value of 0.65 — demonstrating ENA's power as a [[quantitative-research|quantitative]] check on the fidelity of generative [[simulation|simulations]] of discourse, alongside other applications of ENA/SNA/TNA in education research.
@@ -72,28 +73,3 @@ Network methods are used across the evidence base to answer questions that aggre
 - **"Network analysis is objective because it is computational."** **Coding is the foundation**: all network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes, and automated coding inherits its definitions from whoever set them. The [[visualization|visualization]] looks like an emergent structure and its nodes are interpretive choices.
 - **"A shift in network structure is automatically a learning gain in itself."** In a case discussion with **twenty mixed-discipline graduate students**, the **size-3 shared-term share rose from 5.2% to 8.0%** while **content tokens fell to roughly 0.65× their post-r**ate. Two structural measures moved in opposite directions, so "the network changed" is not a finding until you say along which measure and why it matters.
 - **"Sharing more terms means better collaboration."** Rising shared-term share alongside falling content-token diversity is consistent with convergence on a smaller vocabulary. Consensus and narrowing are structurally similar, which is why the measure needs the content it was computed from.
-
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Connected Articles
-- [[caeai-response-length-ai-ethics-education-2026]] — Response length, not lexical alignment, drives shared-term statistics in participant–morpheme networks (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA of learner-chatbot interactions in scaffolded EFL writing
-- [[tracing-genai-literacy-interaction-patterns]] — ENA of GenAI literacy interaction patterns
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA of human-AI collaborative problem solving
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
-- [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — ENA also maps educators' competency talk

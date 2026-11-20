@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -94,42 +96,3 @@ ai_assist:
 - **«Створення перешкод студентам дає творчі здобутки».** **Тертя — це не творчий здобуток.** Контроверсійні персони ШІ викликали дискурс виклику й рефлексії у **38,2% груп**, проте не дали **жодного вимірного покращення творчої результативності**. Дискурс змінився, а виміряний результат — ні.
 - **«Література K-12 встановлює, що GenAI покращує креативність».** Скопінг-огляд, керований PRISMA, зі **45 досліджень (2017–2025)** показує, що GenAI здебільшого **посилює** креативність і **рідко її вимірює**. Домінантна знахідка галузі — висновок із сприйнятого посилення, а не вимірювання результату.
 - **«Більша залежність від GenAI означає більший творчий вихід».** Серед **1 157 китайських аспірантів** залежність від GenAI була **позитивно пов’язана з самозвітною дослідницькою креативністю** — і зв’язок із **самооголошенням**, найслабшою з доступних мір цього конструкту.
-
-## Пов’язані поняття
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Пов’язані статті
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Генерація зображень на GenAI залишила продуктивність проєктування незмінною, але знизила загальну креативну само-фективність
-- [[bicer-genai-pd-math-creativity-2026]] — Як професійний розвиток під керівництвом генеративного ШІ підтримує залученість викладачів із математичною креативністю, знанням контенту та педагогічним знанням контенту
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Аксіомно обґрунтований скаффолдинг літературного творення: передумови як одиниця між темою та текстом, валідовано лише за планом (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Емерджентна дієздатність здобувача в імпліцитній колаборації людини та ШІ: підтримувальні та контраргуючі персони
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT і критичне та креативне мислення: систематичний огляд
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Інтеграція робота з ВММ і креативне письмо
-- [[t2i-competence-paradox-2026]] — Парадокс компетентності в ШІ «текст-у-зображення» серед студентів мистецтва та дизайну
-- [[mujib-ai-ibl-creative-math-2026]] — Навчання на основі дослідження з підтримкою ШІ та креативна математична продуктивність
-- [[flowcode-ai-creative-coding]] — Flowcode: середовище на базі ШІ, що скаффолдить ітерацію в креативних обчисленнях
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: модель тривалентності потенційної ко-креативності в соціотехнічних мережах
-
-- [[wei-genai-configurations-creative-phases-2026]] — Конфігурації генеративного ШІ за творчими фазами: експеримент 2 × 2 про творчу результативність і негайне знання в освіті з мистецтва й дизайну
-- [[multi-agent-llm-social-learning]] — Допомога двох моделей відновила різноманіття ідей, яке одна модель сплощувала (Kumar et al. 2026)
-
-- [[ai-exemplar-attribution-creativity-education-2026]] — Підтримка освіти з креативності в епоху ШІ: роль сприйнятого джерела зразка
-- [[genai-creativity-k12-scoping-review-2026]] — Огляд-мапування за PRISMA 45 досліджень K–12: чотири застосування GenAI для креативності, гомогенізація та прогалина у вимірюванні
-
-- [[genai-dependence-research-creativity-2026]] — Функціональна проти екзистенційної залежності від GenAI та дослідницька креативність у 1 157 студентів магістратури
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Відповідна креативність, дивергентна нейрона залученість: діти проти дорослих, які розмовляють зі ChatGPT у сканері фМРТ
-- [[ai-dependence-creativity-motivation-literacy-2026]] — Залежність від ШІ та чотири мотивації використання по-різному відносяться до самооціненої креативності (Hou et al. 2026)

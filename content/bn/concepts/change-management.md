@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -78,34 +80,3 @@ ai_assist:
 - **"কৌশলগত অভিপ্রায় সক্ষমতা তৈরি করে।"** মাত্র **7% প্রতিষ্ঠান** জ্যেষ্ঠ এআই নেতৃত্বের পদ তৈরি করেছে, অথচ **49% এআই-কে কৌশলগত অগ্রাধিকার হিসেবে দেখে**। ব্যবধানটি ঘোষণা ও কাঠামোর মধ্যে, এবং এটিই এআই পরিবর্তন ব্যবস্থাপনার বারবার ফিরে আসা ব্যর্থতা।
 - **"এআই সরঞ্জাম গ্রহণ একটি ঘটনা।"** **টেকসইতা সংগঠনের ধর্ম, সরঞ্জামের নয়** — CSUN টেক্সট-মেসেজিং ট্রায়ালটি সময়-মাপকাঠিটি দেখায়। মূল্যায়ন চার বছর চলেছে কারণ টেকসইতাই ছিল পরীক্ষার বিষয়।
 - **"প্রতিষ্ঠানকে আরও দ্রুত প্রতিক্রিয়া দেখাতে হবে, পূর্বানুমান করতে হবে না।"** **পূর্বানুমানমূলক নেতৃত্ব** পরিপূরক ধারা: [[baroudi-anticipatory-governance-ai-higher-ed-2026|স্কোপিং পর্যালোচনা]] দেখে প্রতিষ্ঠানকে **প্রতিক্রিয়াশীল থেকে দূরদর্শিতা**-ভিত্তিক শাসনে যেতে হবে। ইতিমধ্যেই এসে যাওয়া প্রযুক্তির প্রতি দক্ষতার সঙ্গে প্রতিক্রিয়া দেখানোই প্রমাণে ব্যর্থ হিসেবে নথিভুক্ত।
-
-## সংযুক্ত ধারণা
-
-- [[governance]] — নীতি ও তত্ত্বাবধান-কাঠামো যা পরিবর্তন ব্যবস্থাপনা সক্রিয় করে
-- [[educational-policy-ai]] — জাতীয় ও প্রাতিষ্ঠানিক এআই নীতির অভিপ্রায় যা পরিবর্তন ব্যবস্থাপনাকে চর্চায় অনুবাদ করতে হয়
-- [[educational-development]] — এআই সংযুক্তির জন্য প্রশিক্ষক-সক্ষমতা ও শিক্ষাগত দৃষ্টিভঙ্গি গড়া
-- [[administrator]] — পরিবর্তন-এজেন্ট হিসেবে নেতৃত্ব ও পূর্বানুমানমূলক শাসন
-- [[ai-literacy]] — দায়িত্বশীল প্রাতিষ্ঠানিক গ্রহণের ভিত্তিভূমি আন্তঃচ্ছেদী সক্ষমতা
-- [[equity-in-ai-education]] — পরিবর্তনের সুবিধা প্রতিষ্ঠান ও শিক্ষার্থী জুড়ে সমানভাবে জমা নিশ্চিত করা
-- [[technology-acceptance-model]] — গ্রহণের চালিকাশক্তি যা ব্যাখ্যা করে পরিবর্তন কীভাবে ছড়ায়
-- [[academic-integrity]] — কেন্দ্রীয় নিয়ন্ত্রক নোঙর যার চারপাশে মূল্যায়ন-সংস্কার সংগঠিত হয়
-- [[student-support-and-success]] — পাইলটের পরেও একটি সহায়তা-কর্মসূচি টিকিয়ে রাখা
-
-## সংযুক্ত নিবন্ধ
-- [[mata-sustaining-ai-enabled-student-support-2026]] — এআই-সক্রিয় শিক্ষার্থী-সহায়তা টিকিয়ে রাখা: একটি প্রাতিষ্ঠানিক চ্যাটবটের চার বছরের বাস্তবায়ন ও প্রভাব-গবেষণা (Mata, Russell ও Page 2026)
-
-- [[institutional-change-framework-ai]] — আগমন-প্রযুক্তি হিসেবে এআই-তে প্রাতিষ্ঠানিক পরিবর্তন-মডেল মানানোর ছয়-মাত্রার কাঠামো
-- [[leveraging-complex-systems-leading-for-transformative-change]] — রূপান্তরমূলক পরিবর্তনের জন্য SPARK কাঠামো ও জটিলতা-নেতৃত্ব
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — আট-ক্ষেত্রের GenAI শাসনে বৈশ্বিক Delphi ঐকমত্য
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — পূর্বানুমানমূলক শাসন ও নেতৃত্বের স্কোপিং পর্যালোচনা
-- [[ai-adaptation-gap-higher-education-2026]] — শিক্ষার্থী, প্রশিক্ষক ও কর্মীদের মধ্যে এআই ব্যবহার, দৃষ্টিভঙ্গি ও আস্থার অংশীদার-ব্যবধান
-- [[ai-uk-higher-education-policy-2026]] — যুক্তরাজ্যের উচ্চশিক্ষায় জাতীয় নীতির অভিপ্রায় বনাম প্রাতিষ্ঠানিক সক্ষমতা
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — এআই গ্রহণের সাংগঠনিক ও প্রযুক্তিগত চালিকাশক্তি
-- [[adarkwah-genai-unesco-policy-2026]] — প্রাতিষ্ঠানিক GenAI নীতির UNESCO কাঠামো-বিশ্লেষণ
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — GenAI যুগে একটি উদার শিল্প বিশ্ববিদ্যালয়ের গবেষণা-নিবিড় মডেলের দিকে ডিজিটাল রূপান্তর (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — অবকাঠামোগত দারিদ্র্যের মধ্যে প্রাতিষ্ঠানিক এআই কৌশলকে ভিত্তিভূমি-সম্পন্ন চর্চায় অনুবাদ করা ডিজিটাল মধ্যস্থতাকারী
-- [[computing-assessment-genai-workshop-report-2026]] — এআই আপনার হোমওয়ার্ক করে দিতে পারে। এখন কী? জেনারেটিভ এআই যুগে কম্পিউটিং মূল্যায়ন নিয়ে একটি অনলাইন কর্মশালার প্রতিবেদন
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — কীভাবে বাস্তবায়ন ও শিক্ষকের কাজ ঠিক করে একটি এআই পণ্য সাহায্য করবে কি না, তা নিয়ে আন্তঃ-ব্যবস্থা মাঠকর্ম
-- [[dot-framework-survey-2026]] — সার্ভে-প্রমাণ যে পেশাগত উন্নয়নকে কেবল সরঞ্জাম-ব্যবহারের বদলে পূর্ণ নকশা-চক্র আচ্ছাদন করতে হবে
-- [[flipped-classroom-ai-assessment-math-2026]] — স্নাতক গণিতে ব্যক্তিগত উদ্যোগ থেকে কেন্দ্রীয় অর্থায়নে দশক-ব্যাপী বিস্তার-চাপ (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — চলমান সমন্বয়ের আগে প্রতিটি এআই-সংযুক্ত কোর্সে 15 থেকে 20 ঘণ্টা পুনর্নকশার বাজেট রাখুন

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -100,34 +102,3 @@ Métodos quantitativos e [[qualitative-research|qualitativos]] são complementos
 - **"Uma estimativa de intenção de tratar descreve o que a ferramenta faz."** Em um ensaio randomizado de acesso por grupo em que **cerca de 15% dos estudantes nas turmas tratadas chegaram a usar o tutor**, a estimativa de ITT reflete **o efeito de introduzir** a ferramenta, e não o efeito de usá-la. A baixa adesão faz de um número de ITT uma afirmação sobre implementação, e relatá-lo como efeito da ferramenta superestima o que foi medido.
 - **"O desempenho na tarefa é o desfecho."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomiza **120 estudantes** para estudo assistido por IA ou tradicional e mede **retenção** — o desenho que separa desempenho imediato de aprendizagem durável. Um estudo que para na tarefa mediu a quantidade mais fácil.
 - **"Comparações entre conjuntos de dados são diretas."** Uma verificação estrutural de dados educacionais sintéticos constatou que **analisar cada conjunto de dados em seu próprio limiar invertia um contraste que se mantinha num ponto de trabalho compartilhado**. O sinal da comparação dependia de uma escolha analítica, que é o tipo de fragilidade que um ponto de trabalho pré-registrado existe para evitar.
-
-## Conceitos conectados
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## Artigos conectados
-
-- [[access-not-enough-ai-tutoring-2026]] — Um estudo de campo randomizado de apoio humano mais tutoria por IA
-- [[genai-can-harm-teaching-rct-2026]] — A IA generativa pode prejudicar o ensino: um RCT
-- [[acceptance-ai-english-tools-2026]] — Aceitação de ferramentas de aprendizagem de inglês assistidas por IA
-- [[tian-genai-learning-adoption-pathways-2026]] — Trilhas de adoção de GenAI (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Letramento em IA dos professores pela teoria da autodeterminação
-- [[jin-glat-genai-literacy-assessment]] — GLAT: um teste de letramento em GenAI validado por TRI
-- [[ai-lms-middle-school-longitudinal]] — Um estudo longitudinal de LMS com IA integrada
-- [[adaptive-pretesting-retention]] — Pré-teste adaptativo e retenção
-- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Um ensaio randomizado de acesso por grupo precisa de uma verificação de adesão
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — A análise bibliométrica é uma outra família quantitativa: Sriram et al.
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Um modelo de mediação saturado não consegue testar sua própria ordenação
-- [[wang-ai-disruption-design-innovation-competence-2026]] — Um efeito indireto total próximo de zero pode esconder dois caminhos vivos

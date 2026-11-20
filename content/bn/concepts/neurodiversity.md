@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -88,32 +90,3 @@ ai_assist:
 - **"নিউরোডাইভার্সিটি গবেষণা [[ai-education|এআইইডি]]-র একটি সংকীর্ণ কোণ।"** ক্ষেত্রটি **[[generative-ai|জেনারেটিভ এআই]]-কে কেন্দ্র করে পুনর্বিন্যস্ত হয়েছে — 40টি গবেষণার 15টি** — আর নিমজ্জনকারী মাধ্যম 11 নিয়ে দ্বিতীয়। সাহিত্য স্থির প্রশ্নের চারপাশে জমা হওয়ার বদলে প্রযুক্তির সঙ্গে সরে গেছে।
 - **"ডিসলেক্সিয়ার জন্য বেশি এআই মানে ভালো সহায়তা।"** [[dabaghi-ai-dyslexia-education-review-2026|ডিসলেক্সিয়ার জন্য এআই নিয়ে আন্তঃশাস্ত্রীয় পর্যালোচনা (Dabaghi, D'Urso ও Sciarrone, 2026)]] **2018-2024 জুড়ে 72টি গবেষণা** কভার করে এবং দেখে এআই বিস্তৃত উদ্দেশ্যে ব্যবহৃত হচ্ছে। প্রয়োগের বিস্তার তার কোনো একটির কার্যকারিতার প্রমাণ নয়।
 - **"সহায়তাই নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য সঠিক কাঠামো।"** [[neurodivergent-computing-students|24 জন নিউরোডাইভার্জেন্ট কম্পিউটিং শিক্ষার্থী ও 20 জন নিউরোটাইপিক্যাল সহপাঠীর একটি জরিপ]] চারটি গভীর সাক্ষাৎকারসহ দেখেছে এমন চাহিদা যা **সাধারণ নকশা-শর্ত** — কাঠামোবদ্ধ অ্যাসাইনমেন্ট, ছোট ও সামঞ্জস্যপূর্ণ দল, স্পষ্ট ভূমিকা — রোগনির্ণয়ের পরে দেওয়া ব্যক্তিগত সমন্বয় নয়।
-
-## সংযুক্ত ধারণা
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — নিউরো-অন্তর্ভুক্তিমূলক প্রাথমিক শ্রেণিকক্ষের এডটেকে শিক্ষাগত মূল্যের পুনর্কাঠামো: একটি স্কোপিং পর্যালোচনা
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — জেনারেটিভ এআই, ভার্চুয়াল রিয়ালিটি ও তার বাইরে: উচ্চশিক্ষায় নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির স্কোপিং পর্যালোচনা
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — প্রতিবন্ধকতাসহ শিক্ষার্থীদের জন্য এআই নিয়ে 29টি গবেষণা, এবং শ্রেণিভেদে ভিন্ন একটি প্রভাব
-- [[adhd-video-segmentation-computing-education]] — সময়ভিত্তিক ভিডিও-বিভাজন যা ADHD অংশগ্রহণকারীদের সমান স্তরে এনেছে
-- [[neurodivergent-computing-students]] — কাঠামো, অস্পষ্টতা ও সহযোগিতা নিয়ে 24 জন নিউরোডাইভার্জেন্ট কম্পিউটিং শিক্ষার্থী
-- [[genai-reliance-executive-functioning-2026]] — নির্বাহী-কার্যক্রমের অসুবিধা, অনুভূত উপযোগিতা ও এআই-নির্ভরতার পথ
-- [[seung-basham-cognitive-offloading-swld-2026]] — শিখন-অক্ষমতাসহ শিক্ষার্থীদের জন্য GenAI সংজ্ঞানাত্মক অফলোডিং
-- [[dabaghi-ai-dyslexia-education-review-2026]] — শিক্ষায় ডিসলেক্সিয়াসহ মানুষকে সাহায্য করার জন্য এআই
-- [[genai-minoritized-knowledges-disability]] — জেনারেটিভ এআই ও প্রান্তিক জ্ঞানের প্রান্তিকীকরণ
-- [[tactile-statistical-graphs-accessibility]] — অভিগম্যতার জন্য স্পর্শযোগ্য পরিসংখ্যান-লেখচিত্র
-- [[ai-learning-tools-engineering-education-needs]] — প্রয়োজনের প্রতি সচেতন ও মনোযোগ-সচেতন এআই শিখন-সরঞ্জামের নকশা
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — শনাক্তকারী-চালিত প্রক্রিয়া বৈধ সহায়তা-ব্যবহারে নিরুৎসাহিত করতে পারে

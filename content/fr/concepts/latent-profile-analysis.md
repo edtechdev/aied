@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -66,7 +68,6 @@ Aucune statistique unique ne sélectionne la solution ; la rétention est un jug
 - **La stabilité par rééchantillonnage.** La stabilité bootstrap est la vérification honnête de la question de savoir si les profils se reproduiraient dans un nouvel échantillon : l'indice de Rand ajusté moyen était de 0.385 pour la solution ukrainienne à six classes, mais de 0.989 sur 100 initialisations aléatoires dans l'étude sur la confiance envers l'IA — la même conception nominale, mais un poids probant très différent.
 - **Les tests de rapport de vraisemblance bootstrap (BLRT)** et le test de Lo–Mendell–Rubin sont des compagnons standard du BIC et de l'entropie dans la littérature plus large sur la modélisation par mélange, mais les études de profilage examinées ne les rapportent pas. Lorsqu'une page ne rapporte que le BIC et l'entropie, traitez le nombre de classes comme provisoire.
 
-
 - **La vérification par rapport de vraisemblance que la plupart des études de profils omettent.** [[ai-attitude-latent-profiles-career-development-2026|Song et coll. (2026)]] ont retenu quatre profils (entropie 0.824) parmi 379 étudiants en gestion et ont rapporté la décision de Lo–Mendell–Rubin : significative à quatre (p = 0.035) et non significative à cinq (p = 0.376).
 - **Rétention défendue avec la solution rivale et un test de rapport de vraisemblance.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et coll. (2026)]] rapportent qu'une solution à quatre profils s'ajustait légèrement mieux aux 102 étudiants, mais ne s'améliorait pas significativement et laissait une plus petite classe à 12.7 pour cent ; ils retiennent donc trois profils (entropie .89) plutôt que le modèle numériquement mieux ajusté. Rapporter la solution perdante et ce qui l'a disqualifiée est ce qui fait du nombre de classes retenu un jugement que les lecteurs peuvent vérifier, et la mesure d'usage de l'IA à 12 items construite spécialement pour l'étude — validée sur un échantillon séparé de 85 personnes que les auteurs qualifient de préliminaire — marque l'autre limite de ses données probantes.
 
@@ -95,27 +96,3 @@ Quatre mises en garde, chacune énoncée dans les pages sources :
 - **« L'analyse de profils latents découvre des groupes qui existent. »** L'APL convertit la diversité des apprenants d'une affirmation rhétorique en un constat mesurable, et les profils sont un **modèle d'un continuum divisé à des frontières choisies**, non des espèces naturelles. Le nombre de profils est une décision analytique.
 - **« N'importe quel membre de la famille des variables latentes convient. »** Celui que l'on utilise **découle des indicateurs** : **l'ACL pour des indicateurs catégoriels**, l'APL pour des indicateurs continus. Choisir d'abord la méthode et ensuite les indicateurs fait du résultat un artefact de ce choix.
 - **« Les profils sont comparables d'une étude à l'autre. »** Chen et ses collègues ont profilé **128 enseignants taïwanais en formation initiale** sur cinq construits [[technology-acceptance-model|TAM]]/UTAUT2, tandis qu'Acquah et ses collègues ont profilé **509 étudiants de premier cycle ghanéens**. Des indicateurs différents dans des populations différentes ne produisent pas des étiquettes de profils commensurables.
-
-## Concepts liés
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Articles liés
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Lo–Mendell–Rubin retention evidence for four AI-attitude profiles in 379 business students
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Analyse de transition de profils latents à trois vagues de l'adaptation psychologique
-- [[liang-ai-learning-motivation-sdt-2026]] — Analyse de transition latente de trois profils de motivation sur une année
-- [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Regroupements hiérarchique et k-means en quatre personae d'adoption de l'IA générative
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Quatre profils de croyances des enseignants sur l'IA, à partir de 40 680 enseignants dans 49 systèmes, avec stabilité de l'alignement

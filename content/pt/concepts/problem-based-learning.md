@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -83,42 +85,3 @@ A [[productive-failure|falha produtiva (FP)]] compartilha o núcleo [[constructi
 - **"Os desfechos da ABP deveriam ser agrupados com os da aprendizagem baseada em projetos."** A metanálise de três níveis mantém o **desempenho de produto e solução em um modelo separado** justamente porque ele mede **colaboração humano–IA**, e não o raciocínio do próprio aprendiz. Fundi-los atribuiria ao estudante um artefato produzido conjuntamente.
 - **"Os ganhos colaborativos são um efeito colateral do uso de IA."** Um estudo constatou maior resolução colaborativa de problemas percebida (**M = 3,62 vs. 3,05, d = 0,88**) e resolução compartilhada de problemas (**3,40, d = 1,02**), com **os maiores efeitos de interação na construção compartilhada de conhecimento e na regulação social** — as dimensões do processo colaborativo que o desenho prevê. O mecanismo é a colaboração estruturada, não a ferramenta.
 - **"A ABP com IA principalmente economiza tempo do facilitador."** Os ganhos mensuráveis estão na qualidade do processo, em dimensões que só existem quando a estrutura de grupo é desenhada para elas. Uma implementação de ABP que acrescenta IA sem estruturar a construção compartilhada de conhecimento não deveria esperar o mesmo efeito.
-
-## Conceitos conectados
-
-- [[project-based-learning]]
-- [[case-based-learning]] — Casos preparados e discussão de casos, distintos da investigação aberta da ABP
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Falha produtiva
-
-## Artigos conectados
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e baseada em projetos como frameworks promissores para a educação apoiada por IA generativa: evidência emergente de uma revisão sistemática e meta-análise de três níveis
-
-- [[pbl-structural-conditions-ai-2026]] — ABP e as condições estruturais para a integração produtiva de IA (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Revisão sistemática do engajamento de educadores com IA na ABP (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — Paciente virtual com IA generativa para tutoriais de ABP médica (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — O framework LEARN para IA generativa responsável na ABP (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT como andaimento adaptativo na ABP aprimorada por IA (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — ABP em engenharia biomédica na era da IA generativa (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — ABP apoiada por IA para pensamento computacional
-- [[genai-counter-learner-groupthink-2025]] — Agente de IA generativa contraria o groupthink na ABP interprofissional
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa e formulação de problemas em ciências no ensino fundamental
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para a aprendizagem baseada em investigação em STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falha produtiva
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direção pedagógica de LLMs para a falha produtiva
-- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o desenho de problemas de FP
-- [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática de IA generativa na educação em saúde baseada em cenários (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Módulo de CTD-ABP apoiado por IA com 130 professores de física em formação: TPACK e resolução colaborativa de problemas (Chen & Osman 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — ABP mediada por IA versus conduzida por facilitador em farmacologia: ganhos acadêmicos equivalentes, vantagens do facilitador na dinâmica de grupo e no pensamento crítico (Shetty & Rao 2026)

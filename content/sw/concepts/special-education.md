@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,34 +69,3 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 - **"Vipimo vya jumla vinakuambia jinsi mwalimu anavyoshughulikia kesi za elimu maalum."** Kati ya **majadiliano 923 yaliyotegemea kesi** yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, **bora kati ya mifano 11** ilitimiza kigezo kilichoandikwa, na **tabia yenye changamoto ndipo vipimo vya walimu vinapoishia**. Tathmini za kawaida hazifikii kesi ambazo wataalam wanahitaji msaada nazo zaidi.
 
 - **"Wanafunzi wenye tofauti za neva wanahitaji marekebisho, si mahitaji ya ubuni."** [[neurodivergent-computing-students|Zastudil na wenzake]] waligundua wanafunzi wa kompyuta wenye tofauti za neva wanahitaji **majukumu yaliyo na muundo, timu ndogo thabiti na ufafanuzi wa wazi wa majukumu**, mahitaji ya jumla ya ubuni yanayowanufaisha wote, si marekebisho ya mtu binafsi yanayotolewa baada ya utambuzi.
-
-## Dhana Zilizounganishwa
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Makala Zilizounganishwa
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kupunguza mzigo wa kimaarifa kwa GenAI kwa wanafunzi wenye ugumu wa kujifunza
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Kuzalisha maswali kwa kutumia LLM kwa wanafunzi Viziwi na Wenye Ushauri Mdogo
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizazi, uhalisia wa mtandaoni, na zaidi: Mapitio ya teknolojia za kusaidia za kidijitali kwa wanafunzi wenye tofauti za neva katika elimu ya juu
-- [[adapted-stories-social-story-intervention-2026]] — Uingiliaji wa Hadithi za Kijamii unaosaidiwa na AI kwa Elimu Maalum: Ubunifu wa AdaptED Stories
-- [[tutor-case-bench-challenging-behaviors-2026]]: TutorCaseBench, kutathmini walimu wa LLM kwa wanafunzi wenye tabia zenye changamoto (Park na wenzake 2026)
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]]: Mfano wa lugha na kuona hupanga Kazi za Sanduku la Viatu kwa roboti ya Nao (Kudláčková 2026)

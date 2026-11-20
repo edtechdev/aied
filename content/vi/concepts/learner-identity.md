@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -86,38 +88,3 @@ Bản sắc người học kết nối với [[agency]] (bản sắc được th
 **"Hỗ trợ của AI hạ thấp rào cản và do đó mở rộng sự tham gia."** Nó có thể hạ thấp rào cản tạo ra sản phẩm trong khi thu hẹp rào cản đòi lấy quyền tác giả. Một sinh viên nộp một sản phẩm trôi chảy mà mình không phải tác giả đã được trao quyền tiếp cận kết quả và bị từ chối sự công nhận vốn xây dựng nên bản sắc phía sau nó.
 
 **"Công nhận bản sắc của người học là vấn đề đại diện trong nội dung."** Sự đại diện quan trọng và sự công nhận được thực thi trong thực tiễn: câu hỏi của ai được tiếp nhận, đóng góp của ai được ghi nhận, và ai được coi là có năng lực. Một [[curriculum-design|chương trình]] có thể mang tính đại diện mà vẫn từ chối sự công nhận mà việc hình thành bản sắc đòi hỏi.
-
-## Khái niệm liên quan
-
-- [[learners]] — Người học: ôm trùm cho các khái niệm phía người học
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Bài viết liên quan
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 sinh viên đại học về những gì họ vẫn tự làm, và vì sao mục đích hiếm khi quyết định điều đó
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — Nghịch lý năng lực: bản sắc sáng tạo trong việc dùng GenAI văn bản-thành-hình ảnh
-- [[shame-guilt-ai-regulation-computing-education]] — Xấu hổ và tội lỗi như những cơ chế điều tiết xã hội của việc dùng AI
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Năng lực thích ứng cho một bản sắc nghề nghiệp khả thi trong tương lai GenAI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Cộng sinh sư phạm và người học hậu nhân loại
-- [[ai-pedagogical-accompaniment-amico]] — Sự đồng hành sư phạm có AI hỗ trợ, nâng đỡ bản sắc STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Thiết kế cho đánh giá thực chất
-- [[paternalistic-filter-llm-history-education]] — Dùng AI theo kiểu gia trưởng và bản sắc sinh viên trong giáo dục lịch sử
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI như khủng hoảng bản sắc của giảng viên (bản sắc giáo viên)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Đào tạo giáo viên dựa trên TPK và bản sắc nghề nghiệp
-- [[genai-professionalization-metaphors-2026]] — Các quan niệm về GenAI và bản sắc nghề nghiệp của sinh viên
-
-- [[synthetic-position-self-authorship-2026]] — Tạm hoãn quyền tác giả: quyền tác giả bị ủy thác như một bản ngã có tiếng nói dày đặc nhưng không có tác giả (phân tích khái niệm)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

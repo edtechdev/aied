@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -105,44 +107,3 @@ ai_assist:
 - **«معلّمو اللغات يتبنّون بحماس أو لا يتبنّون إطلاقًا.»** تجد [[li-language-educators-genai-review-2026|مراجعة منهجية لـ23 دراسة]] (Li et al.) أن **التبنّي الحذر الذي يقدّم التهيئة** هو النمط. فقد كان المعلمون حذرين حذرًا مدروسًا، لا منقسمين إلى متحمسين ورافضين.
 - **«الأثر الكلي يبرّر الجهد.»** وجد تحليل بعدي لـ**33 دراسة في تعليم الإنجليزية كلغة أجنبية** **أثرًا كليًا صغيرًا إلى متوسط (g = 0.38، ينخفض إلى 0.28 بالتقليم والتعبئة)** **يرتفع مع المستوى التعليمي**. فالأثر متواضع بعد التصحيح ومركّز في المستويات الأعلى، لذا فمطالبةٌ بشأن المتعلّمين المبتدئين لا يسندها الرقم المجمَّع.
 - **«أي استخدام للذكاء الاصطناعي مُنتج بالقدر نفسه لتعلّم اللغة.»** العمل نفسه يدعو إلى **إعطاء ثقل للتقنية نحو الإنتاج** — الكتابة والتحدّث لا الاستهلاك. فقد حدّدت الوسيطية الأثر أكثر من حضور الذكاء الاصطناعي.
-
-## المفاهيم المتصلة
-
-- [[language-learning]]
-- [[writing-education]]
-
-- [[reading-education]]
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## المقالات المتصلة
-
-- [[alharbi-ethical-genai-eap-2026]] — الاندماج الأخلاقي للذكاء الاصطناعي التوليدي في EAP داخل التعليم العالي
-- [[feedback-literacy-scripts-eap-writing]] — نصوص ثقافة التغذية الراجعة وآلية المصحّح الثاني في تنقيح كتابة EAP بالذكاء الاصطناعي التوليدي
-- [[genai-differentiated-eap-reading-materials-2026]] — من الموارد الموحّدة إلى المتميّزة: التهيئة المدعومة بالذكاء الاصطناعي التوليدي لمواد قراءة EAP
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: تدريب لاحق مواءَم للتصنيف لتدريس خصوصي للإنجليزية بارع تربويًا
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — مواءمة ChatGPT مع تقييم الملف الإلكتروني كنموذج تعلّم في EFL
-- [[irwin-muller-efl-peer-feedback-literacy]] — تموضع الذكاء الاصطناعي التوليدي في التغذية الراجعة من الأقران في EFL
-- [[ai-vs-human-assessment-efl-tpck-2026]] — مهام تقييم مولَّدة بالذكاء الاصطناعي مقابل مطوَّرة بشريًا في سياق EFL
-- [[acceptance-ai-english-tools-2026]] — قبول أدوات تعلّم الإنجليزية المُساعَدة بالذكاء الاصطناعي في التعليم العالي
-- [[ai-tools-arab-english-classrooms]] — أدوات الذكاء الاصطناعي في فصول الإنجليزية الجامعية العربية
-- [[self-referential-l2-writing-llm-assessment]] — نحو تقييم تحليلي مرجعي ذاتي: مقاربة قائمة على الملامح لتقويم كتابة L2 بالنماذج اللغوية الكبيرة
-- [[ai-interlocutor-l2-spoken-dialogue]] — ما الذي يتغيّر حين يكون محاور الحوار ذكاءً اصطناعيًا؟ الحوار المنطوق في L2
-- [[genai-linguistic-diversity-academic-writing]] — الذكاء الاصطناعي التوليدي والتنوع اللغوي في الكتابة الأكاديمية والنشر
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — حوكمة غير المرئي: ثقافة الذكاء الاصطناعي بين معلّمي اللغات
-- [[structural-silence-underrepresented-language-ai-2026]] — الصمت البنيوي: اللغات غير الممثَّلة تمثيلًا كافيًا في بنية الذكاء الاصطناعي التحتية
-- [[liu-emerging-tech-tefl-review-2026]] — التقنيات الناشئة لتعليم الإنجليزية كلغة أجنبية
-- [[bird-multimodal-educational-literature-2026]] — الدمج متعدد الوسائط لتصنيف الأدب التعليمي
-- [[li-language-educators-genai-review-2026]] — ممارسات مربّي اللغات وتطوّرهم مع الذكاء الاصطناعي التوليدي
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — تنقيحات الأقران والذكاء الاصطناعي لمقالات EFL الجدلية تختلف في التموضع الحواري (Zhao & Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — الاعتماد المفرط على الذكاء الاصطناعي (50% من 54 دراسة) وانخفاض التفكير النقدي يتصدّران القيود المُبلَّغ عنها

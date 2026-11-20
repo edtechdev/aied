@@ -23,8 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -82,7 +82,6 @@ ai_assist:
 
 ولجودة التفسير بعدٌ في الإنصاف أيضًا: فالتفسير الموجود تقنيًا لكنه غير مقروء لصاحب مصلحة معين — أو الذي يحجب [[bias-mitigation|التحيز]] في تنبؤ — يفشل في غرضه. ولهذا يكون السؤال التصميمي هو *الجودة والملاءمة*، ولذلك لا ينفصل تصميم التفسير المؤنسن والخاص بصاحب المصلحة عن التوليد التقني للتفسيرات. وXAI الفعّال فعل تواصل مصمم للحاجات المعرفية للمتلقّي، لا مجرد أثر تقني.
 
-
 التفسير لا يُمهّد دائمًا. وفي تجربة سيناريو 2 × 2 على 250 تلميذًا في الصف السابع، رفع التبرير المكتوب لدرجة رياضيات القبول والإنصاف المُدرك في الشرطين لكنه وسّع الفجوة بين القرارات التي اتخذها [[teacher-role|المعلّم]] والتي اتخذها الذكاء الاصطناعي بدلًا من إغلاقها ([[decision-making-agent-student-decision-acceptance-2026|تشانغ وزملاءه (2026)]]).
 
 وتتصرّف الاستشهادات كإشارة مصداقية لا كدليل على الصحة: فإرفاق استشهادات وإشارات سلطة بواجهة مناظرة رفع التخلّي عن حكم صحيح لصالح موقف الذكاء الاصطناعي من 15.0% إلى 31.8%، وكانت الحالات المستشهَد بها أحيانًا منسوبة خطأً أو خيالية ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
@@ -109,46 +108,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - **«التفسير الذي يُرضي المستخدمين قد فسّر النظام.»** يظهر الإخفاق ذاته في الوضوح على الجانب الأمني من [[automated-assessment|التقويم الآلي]]: فقد وجد [[humble-prompt-injection-ai-grading-red-team-2026|اختبار Humble (2026) للاختراق]] أن سيرورة تصحيح يومية يمكن التلاعب بها بتعليمات مُضمَّنة. فالسرد المعقول والسرد القابل للتدقيق أثران مختلفان.
 - **«ممارسة XAI العامة تنتقل إلى التعليم.»** يُصرّ [[xai-education-framework|إطار XAI-ED]] (Khosravi et al., 2022) على أن للتعليم **حاجات تفسيرية مميزة** تتجاوز XAI العامة، لأن الجمهور يشمل متعلّمين عليهم أن يتصرّفوا بموجب التفسير لا مدقّقين عليهم أن يشهدوا بصحته.
 - **«الأمانة خاصية يمكن ادعاؤها دون سبر.»** تتطلّب الأمانة المقيسة **حذفًا مضادًا للتوقّع لمقاطع حاسمة في سلّم التقدير** إلى جانب تقييمات بشرية. فبلوغ محاذاة الانتباه إلى سلّم التقدير **78.0% مقابل 41.7% لـGPT-4 في حالة الصفر و32.1% لـBERT** نتيجة مقارنة من هذا النوع من السبر، لا من ادعاء عن القابلية للتفسير.
-
-## المفاهيم المترابطة
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## المقالات المترابطة
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — الاستشهادات وإشارات السلطة رفعت الخضوع لمخرَج خاطئ، وبعض المراجع منسوب خطأً أو خيالي
-- [[lund-socially-accountable-data-science-xai-2026]] — إطار من أربع ركائز (قابلية المساءلة والمسؤولية والإنفاذ والانعكاسية) لتعليم XAI كممارسة مساءلة (لوند وزملاءه 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — التصميم الحسّاس للقيم لنظام تدريس ذكي متمركز حول الطالب (تفسيرات تعاونية مقابل خام)
-- [[xai-education-framework]] — XAI-ED: الإطار التأسيسي للذكاء الاصطناعي القابل للتفسير في التعليم (خسروي وزملاءه 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — التفسيرات الخاصة بالمجال الدراسي تبني ثقة المعلّمين وقبولهم (فيلدمان-ماغور وزملاءه 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — وجهات نظر الطلاب في التقويم الشفاف بمساعدة الذكاء الاصطناعي (الغامدي 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — تتبّع المعرفة القابل للتفسير
-- [[explainable-probabilistic-kt]] — تتبّع المعرفة القابل للتفسير عبر التمثيلات الاحتمالية
-- [[neural-symbolic-knowledge-tracing]] — تتبّع المعرفة العصبي الرمزي
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — تقطير النماذج الصندوق الأسود إلى نماذج لغوية كبيرة تشرح نفسها لتحليلات التعلّم
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — تحليلات تعلّم موحدة فيدراليًا وقابلة للتفسير لنمذجة المخاطر الحافظة للخصوصية
-- [[sc2r-counterfactual-recourse-educational-2026]] — اللجوء المضاد المقيَّد دلاليًا لدعم القرار التعليمي
-- [[fair-explainable-edu-recommendations]] — توصيات تعليمية عادلة وقابلة للتفسير
-- [[multimodal-affective-its-presentation]] — نظام تدريس ذكي بحلقة مغلقة قابل للتفسير للتغذية الراجعة الوجدانية متعددة الأنماط
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — تفسير تبني ChatGPT في التعليم العالي
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — إطار نماذج لغوية كبيرة قابل للتفسير بتصميمه: انتباه بعدستين وتفسيرات معايَرة بالدرجة للتقويم الآلي للمعلّم (لي وزملاءه 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — حقن التلقين في التصحيح بوساطة الذكاء الاصطناعي، حيث لم يُبلَّغ عن الكشف للمستخدم أبدًا (هامبل 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — تقييم النماذج المُدرَّبة مسبقًا للتقويم البيداغوجي لأسئلة تعليمية جديدة بمساعدة الذكاء الاصطناعي
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — قرارات التقدير التي اتخذها المعلّم مقابل التي اتخذها الذكاء الاصطناعي: تبرير مكتوب وسّع فجوة الإنصاف
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — نماذج رمزية وشبه رمزية وعصبية رمزية على مجموعة واحدة نسبت تنبؤاتها إلى عوامل مختلفة

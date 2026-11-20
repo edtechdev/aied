@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -77,7 +79,6 @@ Dok [[agentic-ai-education-scoping-review|pregled opsega sa 474 studije]] i [[ko
 Agentske arhitekture kupuju pokrivenost uz mjerljivu cijenu u preciznosti. Na benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumaha i sur. (2026.)]] s 926 uzoraka natječaja za posao i 1.696 zlatnih vještina, ReAct agent s alatom za pretraživanje ESCO-a vodio je po povećanom odzivu sa 89,7 %, nasuprot 83,7 % najbolje generativne konfiguracije i 49,1 % najboljeg modela ugrađivanja. Njegova preciznost bila je 22,7 %, ostavljajući F1 na 36,3 %, ispod Gemini 2.5 Flash utemeljenog na alatima sa 51,6 %, a radio je oko 16 sekundi po uzorku. Odziv je prava mjera kada ljudski savjetnik pročišćava popis; neposredovan rezultat treba utemeljenu alternativu.
 - **Web agenti kao evaluatori iskustva učenja:** jedan autonomni „opisujući“ web agent koji prolazi kroz online [[learning-design|lekciju]] kao student - [[ai-web-agents-lesson-design-2025|Wang, Mitchell i Piech (2025)]] - daje opis dovoljno bogat da predvidi odustajanje studenata i pruži dizajneru djelotvorne povratne informacije prije nego se stvarni učenici uključe, nadmašujući cijelu simuliranu kohortu i svaku osnovnu razinu na globalnom kolegiju CS1. To pozicionira agentsku evaluaciju (agent kao zamjenski kritičar iskustva učenja) kao zasebnu, jeftinu upotrebu agentske umjetne inteligencije uz agente koji poučavaju ili dizajniraju.
 
-
 ### Višeagentski sustavi
 
 Rastuća i zasebna nit agentske umjetne inteligencije uključuje **višeagentske sustave** koji orkestriraju više specijaliziranih agenata s različitim ulogama. Baza znanja dokumentira nekoliko arhitektura: [[code-gen]] spaja agentski generator s agentskim validatorom za [[automated-question-generation|generiranje pitanja]] s čovjekom u petlji; [[adversarial-stress-testing-role-playing-agents|protivničko testiranje]] koordinira agente Ispitivača, Mete i Succa; višeagentski razredi (npr. [[human-in-the-loop-ai|MAIC]] s arhetipovima nastavnika, asistenta i kolege iz razreda) stvaraju raznoliku dinamiku vršnjačkog učenja; a [[multi-agent-llm-social-learning|višeagentsko društveno učenje]] istražuje kako agenti u interakciji oblikuju učenje. Višeagentski dizajn otvara zasebna pitanja o [[human-in-the-loop-ai|ljudskom nadzoru]] (koji je agent odgovoran i gdje čovjek intervenira?), troškovima koordinacije i tome kako diferencijacija uloga podupire ili komplicira [[scaffolding|postupnu potporu]].
@@ -88,7 +89,6 @@ Korak dalje od orkestracije nekoliko specijaliziranih agenata jest **puni agents
 
 - **LLM agenti specifični za sudionika za suradničko rješavanje problema.** Fang (2026) fino podešava pojedinačne LLM agente na podacima dijaloga stvarnih sudionika kako bi predstavili svakog sudionika u simulacijama suradničkog rješavanja problema, s probabilističkim odabirom govornika i tematskih kodova te pamćenjem kliznog okvira i sažetaka. Validirano [[network-analysis|epistemičkom mrežnom analizom]], simulirani su dijalozi statistički nerazlučivi od stvarnih (ENA udaljenost 0,17, permutacijski p = 0,65) - pokazatelj da agentska umjetna inteligencija reproducira autentičan suradnički diskurs.
 - **Društveno inteligentno višeagentsko podučavanje.** Prototipi društveno inteligentnog višeagentskog podučavanja poput ASTRA-e proučavaju kako učenici koordiniraju s umjetnom inteligencijom u dvojcima, koristeći diferencirane agente Tutora i Facilitatora za poticanje koordinacije i uravnoteženog sudjelovanja. Evaluacija okvira temeljena na tragovima omogućuje reproducibilnu analizu interakcije, ravnoteže sudjelovanja i provjere u [[cs-education|uvodnom programiranju]].
-
 
 **Organizacijski odgovor: učenik kao sudjelujući član, a ne primatelj.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan i sur. (2026.)]] uspostavljaju višeagentsku organizaciju u kojoj ljudi sudjeluju, a specijalizirani agenti održavaju revidiran program sposobnosti koji povezuje osobne ciljeve, [[multimodal|multimodalne]] aktivnosti i slojevitu procjenu, dok ispravljivi „Human Node“ nosi učenikov vlastiti dokaz i izazove u kasnije revizije. U usporedbi s najbližim višeagentskim ishodištem na 96 simuliranih slučajeva učenika, prednost se koncentrirala na [[assessment|oblikovanje procjene]]: 19,32 boda više na [[assessment-validity|valjanosti procjene]] (95 % interval pouzdanosti [17,55; 21,04]) i 5,89 bodova u pokrivenosti sposobnostima, dok se personalizacija nije razlikovala (1,35 boda, interval prelazi nulu). U randomiziranoj studiji s 32 učenika dobitak znanja na objektivnom testu od 50 bodova iznosio je 12,19 nasuprot 5,61 boda.
 
@@ -185,63 +185,3 @@ Agentska umjetna inteligencija nije ni univerzalni lijek ni neizbježna šteta: 
 **„Agentski sustavi u obrazovanju pedagoški su utemeljeni jer ih grade obrazovni istraživači.“** Dokazi govore suprotno: pregled opsega pokazao je da je samo **29% istraživanja o agentskoj umjetnoj inteligenciji (138 od 474)** izričito utemeljilo svoje sustave u obrazovnoj teoriji. Disciplinarni jaz između tehnički i pedagoški usmjerenog rada stanje je područja, a ne propust pojedinog autora, pa je demonstracija koja funkcionira očekivani rezultat, a demonstracija koja funkcionira *za učenje* manjinski slučaj.
 
 **„Agent koji personalizira i produbljuje učenje čista je dobit u odnosu na chatbot.“** Sa sobom nosi konkretnu zamjenu: agentski sustavi ugrožavaju [[agency|djelotvornost]] i pozivaju na [[cognitive-offloading|rasterećenje]] kognitivnog truda o kojem učenje ovisi, a time što obavljaju više koraka bez nadzora čine to rasterećenje teže uočljivim. Napetost između automatizacije i učenja središnji je analitički problem kategorije, a ne ograda pridodana njezinim koristima.
-
-## Povezani koncepti
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Povezani članci
-
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — agentsko ocjenjivanje 60 rukom pisanih ispita: r = .97 ukupno, kapa pada na .65 na evaluacijskim česticama
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — agenti organizirani oko revidiranog programa sposobnosti, s učenikom kao članom
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomija, kompetencija, povezanost i društvena prisutnost kao putovi od agentske umjetne inteligencije do angažmana (Pramod i Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agenti, radosna procjena i treći prostor
-- [[ilieva-agentic-genai-higher-education-2026]] — Okvir AGAI-HE: ograničena, ljudski nadzirana agentska generativna umjetna inteligencija u visokom obrazovanju (Ilieva i sur. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — kritički integrativni pregled koji uvodi okvir dokaza i nadzora AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektiva uključivih agentskih višeagentskih ekosustava umjetne inteligencije u visokom obrazovanju
-- [[baradziej-agentic-ai-higher-education-2026]] — Sistematski pregled uloga agentske umjetne inteligencije u visokom obrazovanju (48 studija; šest uloga; trodijelni okvir odgovorne integracije)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentska umjetna inteligencija u obrazovanju: stanje područja i budući smjerovi (pregled u IEEE Access; operativna definicija i taksonomija)
-- [[agentic-ai-education-scoping-review]] — Pregled opsega agentske umjetne inteligencije u obrazovanju (474 studije)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Napetost između automatizacije i učenja
-- [[tool-invariant-framework-agentic-ai]] — Poučavanje i procjenjivanje računalnih metoda u eri agentske umjetne inteligencije
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: mjerno ogledalo za agente nastavnog dizajna
-- [[adversarial-stress-testing-role-playing-agents]] — Protivničko testiranje pod stresom agenata koji igraju uloge
-- [[ai-agents-constructive-conflict-design-education-2026]] — AI agenti konstruktivnog sukoba u obrazovanju za dizajn
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK nastavnika i višeagentski tijekovi rada
-- [[code-gen]] — Agenti za generiranje koda
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Mjerno ogledalo pedagoških LLM agenata
-- [[guided-llm-scaffolding-independent-learning]] — Vođena LLM potpora za samostalno učenje
-- [[learnmate2-llm-adaptive-learning]] — Agenti prilagodljivog učenja LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agenti za igrificirano učenje kibersigurnosti
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentska umjetna inteligencija u kliničkoj simulaciji
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Duhovi studenti i praznina u provjeri kod agentske umjetne inteligencije (Bozkurt i sur. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agenti dovršavaju zadatke u sustavu za upravljanje učenjem; propust valjanosti kroz pretpostavku ljudske proizvodnje (Hadjisolomou i El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI web agenti: opisujući agent kao evaluator iskustva učenja (predviđa odustajanje, daje povratne informacije o dizajnu prije nego se studenti uključe)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — Razvoj vođen specifikacijom s AI agentima u softverskom PBL-u; automatizacija nasuprot razumijevanju
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluacija višeagentskog sustava velikih jezičnih modela usmjerenog na postupnu potporu za obuku kliničkog intervjua
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti za etičku obuku: olakšavanje grupne etičke edukacije igranjem uloga i raspravom za etičku refleksiju i istraživanje
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Usporedba UI pristupa automatiziranom izdvajanju vještina: od ugrađivanja do agentskih sustava u inženjerskom obrazovanju

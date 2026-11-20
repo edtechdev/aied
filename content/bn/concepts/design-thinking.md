@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,39 +68,3 @@ ai_assist:
 **"ডিজাইন থিংকিং একটি প্রক্রিয়া যা ধাপে ধাপে স্বয়ংক্রিয় করা যায়।"** এটি সমস্যা কাঠামোবদ্ধ ও পুনঃকাঠামোবদ্ধ করার একটি শাস্ত্র, এবং ফিক্সেশন ঠিক এটাই বন্ধ করে দেয়। কাঠামো অপরীক্ষিত রেখে ধাপগুলো স্বয়ংক্রিয় করলে ভুল সমস্যার জন্য উপযুক্ত আউটপুট তৈরি হয়।
 
 **"শিক্ষার্থীর সঙ্গে একমত হওয়া এআই এজেন্ট তাদের নকশা-যুক্তিকে [[student-support-and-success|সমর্থন]] করে।"** এখানে নথিভুক্ত উৎপাদনশীল ব্যবহার ঠিক উল্টো দিকে চলে: [[ai-agents-constructive-conflict-design-education-2026|এআই এজেন্টের সঙ্গে গঠনমূলক সংঘাত]] বিরোধী প্রম্পটিং পরীক্ষা করে যা পুনর্বিবেচনা বাধ্য করে। একমতপ্রবণ এজেন্ট ফিক্সেশনকে আরও দৃঢ় করে; ভিন্নমত-কেন্দ্রিক এজেন্টই সেই নকশা যার পেছনে শিক্ষামূলক দাবি আছে।
-
-## সংযুক্ত ধারণা
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[design-thinking-aigc-fashion-film-2026]] — AIGC-সমর্থিত ফ্যাশন ফিল্ম ডিজাইনে শিখন-পর্যায় জুড়ে ডিজাইন থিংকিং মানসিকতা (Liu প্রমুখ 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: নকশা-কাজে স্থাপত্য শিক্ষার্থীদের সহায়তায় জেনারেটিভ এআই
-- [[genai-architectural-design-studios]] — স্থাপত্য নকশা স্টুডিওতে জেনারেটিভ এআইয়ের বিকাশ ও প্রয়োগ
-- [[social-robot-study-companions]] — বিশ্ববিদ্যালয়ের শিক্ষার্থীদের সঙ্গে নির্মাণযোগ্য ও উন্মুক্ত সামাজিক রোবট পড়াসঙ্গী সহ-সৃষ্টি
-- [[gaide-vibe-coding-k12-teachers]] — ভাইব কোডিংয়ের মাধ্যমে এআই-চালিত শিখন-প্রযুক্তি তৈরিতে K-12 শিক্ষকদের জন্য একটি পথনির্দেশক কাঠামো
-- [[dot-framework-survey-2026]] — DOT কাঠামো জরিপ: এআই-সমৃদ্ধ শিক্ষায় অনুশীলনকারীর বিশ্বাস ও আচরণ
-- [[ai-agents-constructive-conflict-design-education-2026]] — নবীন ইন্টারঅ্যাকশন নকশাকারীদের মধ্যে পুনর্বিবেচনা বাড়াতে এআই এজেন্টের সঙ্গে গঠনমূলক সংঘাত
-- [[genai-usage-design-students-survey]] — নকশা শিক্ষার্থীদের GenAI ব্যবহার: Politecnico di Milano-তে 2025/2026-এ জরিপ-ফল ও এআই-অনুশীলনের জার্নালের বিশ্লেষণ

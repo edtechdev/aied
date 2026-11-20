@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -51,9 +53,7 @@ ai_assist:
 
 연구는 다섯 기능으로 군집되며, 군집 경계가 중요한 이유는 그것들이 다른 증거를 담고 있기 때문입니다.
 
-
 AI 지원 학습자 지원에 관한 61개 연구 검토는 이 분야가 [[adaptive-learning|적응형 시스템]]과 [[personalized-learning|개인화]](41건의 사용), 프로파일링과 예측(30건)에 집중되어 있고 챗봇과 추천기가 인테이크와 일상적 질의를 처리함을 발견했습니다. 그것은 간극도 발견했습니다: 학습자 전환 단계를 다룬 개입은 없었고, 학생 하위 집단을 명명한 연구는 두 편뿐이어서 대부분 시스템의 일반 학습자는 통계적 평균이었습니다([[cefa-ai-learner-support-review-2026|Cefa 외, 2026]]).
-
 
 **외부 연락과 소통.** 제도는 대규모로 학생에게 메시지를 보내며, 가장 강한 평가들은 그것이 무언가를 변화시키는지 검증합니다. California State University, Northridge의 비생성형 문자 메시지 챗봇 CSUNny에 대한 4년 무작위 연구는 두 학부생 코호트(N = 8,708)를 여덟 학기에 걸쳐 추적했습니다([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). 2018년 7월 31일에 보낸 등록 알림은 처치 학생들이 8월 16일까지 등록할 가능성을 34퍼센트 포인트 높였고, 9월 15일까지는 2포인트만 높였습니다. Early Start 알림은 6월 7일까지 등록을 11포인트, 6월 22일까지는 20포인트 높였습니다. 수용성은 유지되어 연간 거부율이 4%를 넘지 않았습니다. Georgia State University의 사전 등록된 다중 학기 시험은 두 개의 대형 비동기 강좌(N = 1,568과 N = 915)의 학생들에게 주 2–3회의 맞춤 메시지를 보내 61%의 통제 집단에 비해 A나 B를 받을 확률을 4퍼센트 포인트 높였고, 각 강좌에서 DFW 비율을 약 3포인트 이동시켰습니다([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -68,7 +68,6 @@ AI 지원 학습자 지원에 관한 61개 연구 검토는 이 분야가 [[adap
 **사내 도우미는 역량이 아니라 가용성에서 공개 챗봇과 경쟁합니다.** Open University의 다섯 번의 공동 설계 연구(학생 315명, 교직원 20명)에서 제안된 i-AIDA의 가장 강한 판매점은 24시간 접근이었고, 96명 설문의 73%가 이에 동의했으며, 직접 사용은 수요를 18명 중 9명에서 18명 중 16명으로 옮겼습니다(d = .81)([[rienties-institutional-ai-assistant-co-design-2026|Rienties 외, 2026]]). 학생들은 다른 생성 도구와 비교해 10점 만점에 7.58점을 주었고, 약 10–15%는 [[usability-research|사용성]] 때문이 아니라 가치 때문에 반대하며 AI 보조 학습을 정당한 학습의 희석이라고 불렀습니다.
 
 AI 지원 채널이 무엇을 대체하는지도 같은 회계를 받아야 합니다. 네 연구(N = 249, 494, 743, 737)에서 AI가 정서 지원을 제공할 수 있다는 믿음은 그 지원을 그것에 위임하려는 의지를 높였고, 효과는 전적으로 인식된 역량을 통해 전달되었습니다(총효과 c = 0.83; 간접효과 ab = 0.73)([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). 행동 측정에서 위임하지 않겠다고 말한 참가자들은 더 적은 [[empathy|공감]] 단어를 선택했으므로, 학생을 AI 웰빙 채널로 안내하는 것은 [[self-report-measures|자기보고]]가 보여주지 않는 방식으로 인간 지원을 빼앗을 수 있습니다.
-
 
 ## 예측에서 지원으로
 
@@ -119,56 +118,3 @@ AI 지원 채널이 무엇을 대체하는지도 같은 회계를 받아야 합�
 학생 서비스는 점점 더 대화형 어시스턴트를 통해 질문을 받고 있으며, 2026년의 한 무작위 실험이 그 맞교환을 직접 검사했습니다. 18–25세 성인 299명이 대학 웹사이트 또는 프로그램 PDF에 근거를 둔 GPT-4o 어시스턴트 중 하나를 통해 다섯 가지 프로그램 정보를 검색했습니다. 챗봇이 더 빨랐고(505초 대 312초) 더 정확했으며(78.5% 대 95.6%, OR = 7.84), 행동 의도를 제외한 모든 지각 측정에서 더 높게 평가되었습니다. 행동 의도는 차이가 없었습니다.([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]])
 
 예외는 운영상 중요한 것입니다. 강좌 수강 예외 승인에 관해 누구에게 연락해야 하는지를 묻는 질문에서는 웹사이트가 96.5% 대 85.2%로 이겼습니다. 이름이 지정된 사람이나 부서에 묶인 정보는 탐색 가능한 사이트가 여전히 생성된 답을 이기는 곳이며, 따라서 어시스턴트는 사이트의 대체물보다 그 위의 계층으로 배치하는 것이 더 낫습니다.
-
-## 연결된 개념
-
-- [[higher-ed]] — the sector umbrella this page sits under
-- [[student-experience]] — how AI lands on the student's own experience
-- [[learning-gains]] — whether learning happened, the instructional outcome this page does not measure
-- [[learning-analytics]] — prediction, early warning, and predictive analytics
-- [[student-modeling]] — the modeling layer beneath risk prediction
-- [[knowledge-tracing]] — fine-grained skill and mastery estimation
-- [[recommender-systems-and-learning-paths]] — recommending courses, resources, and paths
-- [[help-seeking]] — how students come to ask for support
-- [[well-being]] — campus mental health, prevention, and intervention
-- [[career-development-and-readiness]] — the outcome after completion
-- [[administrator]] — the role that owns and runs support systems
-- [[stakeholders]] — who has a claim on institutional AI decisions
-- [[change-management]] — sustaining the program after the pilot
-- [[governance]] — policy and oversight for institutional AI
-- [[educational-policy-ai]] — the policy context for institutional deployment
-- [[equity-in-ai-education]] — who the system reaches and who it misses
-- [[privacy]] — student records, data sharing, and federated approaches
-- [[human-in-the-loop-ai]] — human judgment inside an automated support flow
-- [[rct]] — the design behind the strongest evidence here
-
-## 연결된 문서
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 대학 지원 챗봇의 4년 무작위 평가: 과제 완수는 달라졌으나 졸업과 학점은 달라지지 않았음
-- [[chatbot-outreach-course-performance-2026]] — 사전 등록된 다학기 아웃리치 시험: A/B 비율 상승, DFW의 미미한 변화, 인구학적 예외 한 건
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500개의 가상 시나리오: 지원 권고에서 학생 필요에 대한 제한된 민감성과 모형 간 비일관성
-- [[sc2r-counterfactual-recourse-educational-2026]] — 실행 가능성의 격차: 소구(recourse)는 단순히 모형상 타당한 것이 아니라 실현 가능하고 검증 가능해야 함
-- [[fairness-theatre-early-warning-systems-2026]] — 168,550건의 기록으로 구축된 공급업체 조기경보 체계에 대한 여섯 가지 사후적 공정성 개입
-- [[at-risk-students-ml-prediction]] — 중도 탈락 전 학생을 식별하는 지도 학습 분류기
-- [[predicting-attrition-competitive-programming]] — 중도 탈락을 예측하는 행동 로그와 심리측정적 설문
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 원시 학생 데이터를 공유하지 않고 기관 간 연합 위험 모형화
-- [[precision-education-student-digital-twins-2026]] — 비전으로서의 디지털 트윈과 '예방적 학생 성공'
-- [[learning-analytics-to-educational-interventions-2026]] — 분석에서 개입으로의 고리를 닫기 위한 일곱 가지 가능 요인
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 도움 요청의 비용을 낮추는 것을 목표로 한 강의별 어시스턴트
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 학습과 별개로 시험된 튜터링 수요
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 여섯 가지 행동 프로파일과 권고 학습 객체의 매핑
-- [[trace-course-grade-prediction-2026]] — 수강 계획을 위한 강의와 성적의 공동 예측
-- [[zhang-ml-student-progress-programming-2026]] — 해석 가능한 모듈 단위 진도 예측
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 고등교육에서 AI, 리더십, 서비스 제공에 관한 155개 연구
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 교육 리더십에서 AI에 관한 10개 영역 분류 체계
-- [[students-at-stake-ai-deployment-risks-2026]] — 학생 측 위험 표면: 입학과 지원, 학생 성공 서비스, 그리고 교수
-- [[ai-campus-wellbeing-tools]] — 예방에서 개입에 이르는 캠퍼스 웰빙 지원
-- [[coursegraph-cs-course-comparison-2026]] — 편입 학점과 이동을 위한 강의 등가성
-- [[credentials-carry-evidence-ai-agents-2026]] — 에이전트가 그 작업을 수행할 수 있을 때 이수 기록이 의미하는 바
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — AI 지원 부정행위 위험의 조기 예측과 저위험 아웃리치를 위한 임계값 절충
-
-- [[cefa-ai-learner-support-review-2026]] — AI 지원 학습자 지원에 관한 61개 연구 검토: 적응형 시스템과 예측이 지배하고, 전환 단계와 다양한 학습자는 빠져 있다
-- [[shastry-gray-empathy-offloading-2026]] — 공감 위임에 관한 네 연구: AI가 정서 지원을 제공할 수 있다고 믿는 것이 사람들이 스스로 제공하는 양을 줄인다 (Shastry & Gray 2026)
-- [[rienties-institutional-ai-assistant-co-design-2026]] — 제도적 AI 학습 도우미에 관한 다섯 번의 공동 설계 연구: 가용성이 먼저, 가치 기반 반대가 마지막
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 질의에서 대화로: 공학 교육에서 AI 기반 가상 어시스턴트의 도입, 사용성, 영향 탐색
-- [[ai-conversational-interfaces-information-seeking-2026]] — 챗봇은 웹사이트보다 프로그램 질문에 더 빠르고 정확하게 답했으나, 답이 이름이 지정된 연락처인 경우는 예외였다
-

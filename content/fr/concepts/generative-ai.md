@@ -20,7 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -98,46 +99,3 @@ Une revue systématique interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone,
 - **« Le modèle plus récent y remédiera. »** La génération de modèle n'est pas la contrainte déterminante. ChatGPT-5 égalait les enseignants humains sur des items objectifs d'examen de pharmacie (CCC 0,935–1,000) mais pas sur les items à réponse courte (≈0) ni sur les dissertations (0,341–0,854), et **une grille d'évaluation structurée ne comblait pas la différence de façon fiable**. Les gains de capacité sur des tâches fermées ne se sont pas transférés proportionnellement au travail ouvert, là où réside en réalité l'essentiel de l'évaluation.
 - **« Les données d'usage montrent que cela fonctionne. »** Dans la cartographie de 394 études, ChatGPT sans version précisée apparaissait dans 94 études et la famille 3/3.5 dans 66 — une grande part des affirmations de capacité publiées décrivent donc des **générations de modèles depuis dépassées**, et beaucoup d'études ne déclarent pas la version du tout. Le comportement rapporté est lié à un modèle et à une date précis, ce qui rend les affirmations non datées sur « l'IA générative » infalsifiables plutôt que générales.
 - **« C'est sûr parce que des experts ont étiqueté chaque exemple. »** Un ensemble annoté par plusieurs experts de 4 815 messages étudiant-IA a trouvé que seuls environ 0,68 % des messages contenaient le contenu nocif ou hors tâche que le schéma de codage était conçu pour détecter. C'est un résultat sur le taux de base, non sur la sécurité : les événements rares sont rares, et les queues de défaillance d'un système sont exactement les cas qu'un corpus de cette taille peine à caractériser.
-
-## Concepts liés
-
-- [[llm]] — la classe de modèles sous-tendant l'IA générative
-- [[prompt-engineering]] — la manière dont les productions sont façonnées
-- [[rag]] — l'ancrage par récupération
-- [[ai-literacy]] — la compétence nécessaire pour l'utiliser efficacement
-- [[ai-education]] — le domaine plus large
-- [[intelligent-tutoring]] — les systèmes de tutorat conversationnels et génératifs
-- [[cognitive-offloading]] — le risque de sur-dépendance que l'IA générative amplifie
-- [[hallucination-risk]] — un risque de fiabilité central des contenus générés
-- [[academic-integrity]] — les préoccupations d'intégrité liées à la génération fluide
-- [[automated-assessment]] — les modèles génératifs dans la notation et la rétroaction
-- [[ai-technologies]] — l'ensemble des techniques et modèles d'IA
-- [[higher-ed]] — un contexte de déploiement principal
-- [[k-12]] — un contexte de déploiement principal
-
-- [[reflection]]
-
-## Articles liés
-- [[genai-learning-motivation-meta-analysis-2026]] — Méta-analyse de l'effet de l'IAG sur la motivation à apprendre, avec un intervalle de prédiction allant du préjudice au bénéfice
-
-- [[typology-generative-ai-tools-education-2026]] — Typologie des outils d'IA générative pour l'éducation
-- [[generative-ui-education-learning-interactives-2026]] — Exploiter l'interface utilisateur générative pour l'éducation : des objets interactifs d'apprentissage sur mesure
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Évaluation d'un système multi-agents à grands modèles de langage orienté vers l'étayage pour la formation à l'entretien clinique
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL : un cadre de conception pour une IA sûre et solide au service de l'apprentissage
-- [[genai-educational-outcomes-meta-analysis]] — Méta-analyse des résultats d'apprentissage avec l'IAG
-- [[genai-meta-analysis-programming-learning]] — Méta-analyse de l'IAG dans l'apprentissage de la programmation
-- [[genai-performance-vs-learning]] — Performance contre apprentissage avec l'IAG
-- [[hazra-safetutors-pedagogical-safety-2026]] — Les préjudices des agents de tutorat par IA
-- [[eduguard-safe-rag-llm-tutor]] — Encadrer par des garde-fous un tuteur LLM sûr fondé sur le RAG
-- [[cogevol-learning-environment-generation-2026]] — CogEvol : la génération d'environnements d'apprentissage
-- [[khlaif-assistive-genai-visually-impaired-2026]] — L'IAG d'assistance pour les apprenants malvoyants
-- [[li-language-educators-genai-review-2026]] — Les pratiques et le développement des enseignants de langues avec l'IAG
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
-- [[bicer-genai-pd-math-creativity-2026]] — Une étude de cas de développement professionnel en mathématiques guidée par l'IAG avec huit enseignants en exercice de zones rurales
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Un g regroupé de 0.819 ramené à 0.378 par PET-PEESE ; les outils personnalisés (0.455) sous-performent face aux agents conversationnels (0.970)

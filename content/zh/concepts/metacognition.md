@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -175,72 +177,3 @@ Scheu 等人（2026）发现了一个关键的分裂：
 - **“AI 协助使底层能力保持不变。”** 使用 AI 论文协助的学生**有 83% 无法回忆自己论文中的引文，而不使用 AI 者为 11%**，这表明**他们在产出过程中并未投入内容**。产出过程才是投入发生之处，绕过它会在此后显现。
 - **“外包使一切退化。”** 代价看似**有界而非全局**：外包使**被练习的特定技能**退化，而不是底层的一般领域能力，并且出现在**有**某物的迁移测验上。定位很重要，因为它说明要保护什么，而不是警告普遍衰退。
 - **“能产出意味着能保持。”** 83% 对 11% 的回忆差距就是直接的反例：两种条件都产出了，而记忆痕迹差异巨大。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 这些序列所内建的反思步骤
-- [[learners]] — 学习者：学习者一侧概念的总括
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — 学习判断与检索练习所纠正的流畅性错觉
-- [[cognitive-surrender]]
-
-- [[reflection]]
-- [[executive-function]]
-
-## 关联文章
-
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 两小时的人工智能素养工作坊改变了初中学生的大语言模型互动调节，而他们自报的元认知没有（Clerc 等人 2026）
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting：计算机辅助交替传译中的学生与 AI 互动
-- [[du-yuan-epistemic-dependence-2026]] — 人工智能中介学习中的认识论依赖（Du & Yuan 2026）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 学生问什么要紧：大语言模型互动深度、任务质量与即时回忆（Tsiligkiris 2026）
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 协助写作中的层次敏感认知外包（Chen 2026）
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM 中的大语言模型中介求助：分层、工具性与已验证
-- [[cui-motivation-roles-metacognitive-genai-2026]] — 元认知 GenAI 参与中的动机与角色
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — 元认知训练促进最优认知外包（Ngai & Gilbert 2026）
-- [[cognitive-offloading-metacognitive-review-2026]] — 对认知外包的元认知洞见：机制、干预与教育含义（Guo & Ye 2026）
-- [[idea-framework-metacognitive-genai-2026]] — 用于元认知调节的 GenAI 使用的 IDEA 框架
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML：一个以人为中心的人工智能元认知学习模型（自主性与反思性学习）
-- [[metacognitively-discordant-completion-genai-2026]] — 元认知不一致的完成与对不理解的有意识放行
-- [[ai-metacognition-stem-review]] — 在 STEM 中为元认知搭建支架的人工智能工具
-- [[ai-making-us-stupid]] — 人工智能正让我们变笨吗？对认知外包的批判
-- [[stanford-evidence-base-ai-k12-2026]] — 通用人工智能通过完成推理压制元认知
-- [[ai-advice-suppresses-ikt-suspension-2026]] — 人工智能建议压低了说“我不知道”的意愿，即使建议错误且有准确性激励
-- [[agentic-ai-pedagogical-best-practice-2026]] — 代理式人工智能与教学最佳实践：自动化与学习之间的张力
-- [[cognitive-offloading-speedup-illusion]] — 人机互动中的认知外包与加速错觉
-- [[lodge-loble-cognitive-offloading-2026]] — 人工智能、认知外包及其教育含义（Lodge & Loble 2026）
-- [[pedagogy-ai-mistakes]] — 人工智能错误的教学法：培养高阶思维（Hosseini 2026）
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持基于生产性失败学习的人工智能系统
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning：先给线索再纠正：ChatGPT 用于自主语言学习
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 提示素养循环中对提示过程的反思与作者身份发展（Miles, Haber-Curran & Arar 2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 一条反思提示降低了对不正确人工智能建议的接受并改善了觉察校准（Ren 2026）
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自动评分强化了监控而非规划，而自报的反思仍无生产性（Chen & Liu 2026）
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 核验素养仅通过元认知自我调节起作用（Davor, Larbi & Boateng 2026）
-- [[iqbal-human-genai-support-essay-revision-2026]] — 是外部支持而非元认知判断准确性驱动了修改策略选择（Iqbal 等人 2026）
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 一种有选择的获得：元认知知识上升而规划与监控没有（Wang 等人 2026）
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 反思性使用随人工智能可得而上升并预测批判性思维而非知识增长（Melanou, Beege & Kimmig 2026）
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — 元认知觉察作为适应性 STEM 学习最强的预测因子（Alatoai & Alshahri 2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 从诊断到元诊断：教师评判人工智能生成的推断（Hoppe, Loibl & Leuders 2026）
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement：迈向反思性 AI 投入中技能保全性依赖的开放问题
-- [[dang-human-ai-collaboration-competency-2026]] — 元认知而非教学法，作为人机协同中学习者自主性的机制（Dang, Hong, Doyle & Nguyen 2026）
-- [[metacognitive-ownership-human-ai-regulation-2026]] — 元认知所有权：一个学习者对标准、判断与行动的治理的构念
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 日志与出声思维捕捉了 GenAI 协助学习中不同的元认知过程
-- [[ai-cognitive-partner-reflective-thought-2026]] — 学生把人工智能当作认知伙伴时反思思维的四种实践与十一个过程
-- [[karaki-think-aloud-ethical-genai-2026]] — 出声思维使提示构建、核验与伦理推理可见，但批判性评价仍停留在表面；不是独立的解决方案
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 职前教师反思实践中的元认知训练与基于 AI 的苏格拉底式脚手架：一项双研究实验设计
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 认知休眠：元认知投入中止与失序上升的实验性解释（Braun 2026）
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — 三层元分析：合并 g = 0.624，在准确率评级的监控上降到不显著（Li 等人，2026）
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC 模型：元认知外包与装载，以及任务表现与持久学习的脱钩（Fan 等人，2026）
-- [[guo-overreliance-genai-feedback-2026]] — 监控与其说阻断外包路径，不如说让它改道
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 当监控被跳过，以及它的代价
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 认知灵活性预测面试层级；自报的调节则不然
-- [[sidorkin-extended-executive-cognition-2025]] — 扩展执行认知作为一种学习结果（框架）
-
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — 一个多智能体人工智能模型，用以增强计算机科学教育中的自我调节学习与概念理解

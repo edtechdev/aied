@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -39,6 +40,3 @@ Selaineditori toimii paikallisesti sivulla eikä lataa luonnosta mihinkään. Se
 ## Mitä on tiedettävä ennen käyttöönottoa
 
 Repositorio julkaisee arviointiprotokollan, ennen ja jälkeen -näytteet hakemistossa `samples/` sekä taidon taustalla olevat viitetiedostot, joten arvioija voi tarkastella, miten säännöt käyttäytyvät, sen sijaan että luottaisi väitteeseen; tämä sivu ei toista mitään mitattua tulosta. Tekijä on Addy Osmani, lisenssi on MIT ja työ on riippumaton eikä minkään instituution tuote. Se on nuori ja aktiivinen: luotu elokuussa 2026, 54 committia, kolme julkaisua, joista uusin versio 0.2.1 samana syyskuuna, ja noin 250 tähteä syyskuussa 2026 tarkistettaessa. Kolme avustajaa on saanut muutoksia läpi. Taidon ohjeet latautuvat agenttiin, jota lukija jo ajaa, joten tavanomaiset [[prompt-engineering|kehotesuunnittelun]] varaukset pätevät: kritiikin laatu riippuu siitä luonnoksesta, joka sille annetaan.
-
-## Liittyvät käsitteet
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

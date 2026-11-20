@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -91,34 +93,3 @@ Kavramsal bir risk de vardır. Bir vaka, anlayış ürettiği için değil, canl
 - **“Gerçekçi bir vaka kendi kendine öğretir.”** Gerçekçilik bağlam sağlar. Öğrenmeyi sorular, karşılaştırmalar ve gerekçelendirme görevleri sağlar.
 - **“YZ tarafından üretilen vakalar kullanıma hazırdır.”** Üretilen vakalar akıcı, makul ve yanlış olabilir. Uzman incelemesine ve davet ettikleri akıl yürütmenin kontrolüne ihtiyaç duyarlar.
 - **“Öğrenciler tartışmadan keyif alıyorsa vaka işe yaramıştır.”** Katılım aktarım değildir. Sonuç, öğrencilerin önceden tamamlayamadığı bir görevde ölçülmelidir.
-
-## Bağlı kavramlar
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Bağlı makaleler
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — Temellendirilmiş bir LLM beş perioperatif vakayı içerik uydurmadan bir arada tuttu
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT hemşirelik vaka oluşturma süresini ölçülen bir kalite farkı olmadan kısalttı
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — YZ destekli PBL/CBL üzerine altı RKÇ; yalnızca ikisi CBL’yi test etti
-- [[scaffolding-critical-engagement-genai-minority-students]] — Bir üretici YZ dersinde karşıt vakalarla öğretmen modellemesi
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Sanal ve simüle hastaların yanında vaka temelli öğrenme
-- [[genai-medical-education-transformation-review-2026]] — Derlemenin uygulama kategorileri arasında vaka temelli öğrenme ve klinik akıl yürütme
-- [[hardie-genai-nursing-scoping-review-2026]] — Bir hemşirelik derlemesinin simülasyon teması içinde vaka temelli öğrenme
-- [[lorteau-sarro-ai-legal-education-2025]] — YZ, Sokratik öğretimi ve hukuk simülasyonlarını tamamlar
-- [[csaszar-ai-management-education-2026]] — İşletme eğitiminin vaka çalışmaları ve simülasyonları, vaka yöntemi analizi olmadan

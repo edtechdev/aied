@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,7 +44,3 @@ Giảng viên và nhóm khóa học muốn học liệu được tạo ra mà v�
 ## Ghi chú
 
 Cấp phép MIT, với hướng dẫn sử dụng bằng tiếng Anh và tiếng Trung và một cộng đồng hoạt động trên Discord và Feishu. Nó trung lập về mô hình: bạn cung cấp ít nhất một khóa nhà cung cấp LLM, và các thành phần cục bộ tùy chọn (Lemonade cho mô hình cục bộ, FunASR cho nhận dạng giọng nói) cho phép bạn chạy nhiều phần của bộ công cụ ngoại tuyến hơn — nên “miễn phí” mô tả phần mềm, không mô tả hóa đơn suy luận. Bài báo đứng sau nó xuất hiện trên *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), và kho mã có hơn 38,000 sao tính đến tháng 9 năm 2026.
-
-## Khái niệm liên quan
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

@@ -20,6 +20,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -41,7 +43,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 الثقة خسارة مقيسة لا مبدأً فقط. في [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]]، قال الطلاب إنهم صاروا يثقون بزملائهم أقل بعد اكتشاف استخدام غير مُفصح عنه للذكاء الاصطناعي التوليدي في [[group-work|العمل الجماعي]]، واصفين ذلك بأنه «مضرّ بثقة الأكاديميا وأخلاقياتها»، بينما شكّ قليلون في أن معلّمين استخدموا الذكاء الاصطناعي التوليدي وأخفوا ذلك عن الطلاب.
 
-
 ## الثقة في أنظمة الذكاء الاصطناعي
 
 يفحص [[research-methods-aied|البحث]] في قاعدة المعارف هذه متى يثق المتعلّمون اعتماداً على إرشاد وُلِّد بالذكاء الاصطناعي. [[ai-fallibility-warning-help-seeking|تحذيرات قابلية الخطأ في الذكاء الاصطناعي]] يمكن أن تُحسّن المعايرة: تدخّل شفافية بسيط يُخبر الطلاب أن مُدرِّساً آلياً قد يخطئ رفع [[help-seeking]] في نظام تدريس ذكي رياضي، بما يقترح أن الحدود الصادقة تُعزّز الاعتماد الملائم بدل أن تُقوّضه. يُظهر [[calibrating-trustworthiness-llm-education-2026|التصميم المشترك لمقاييس الثقة]] مع مهندسي التعلم أن الثقة تُبنى في أفضل الأحوال على معايير قابلة للملاحظة ومُتفق عليها لا على قدرة مفترضة. تكشف دراسات [[fouad-bentley-trust-utility-gap-physics-2026|الفيزياء]] و[[t2i-competence-paradox-2026|توليد الصور]] عن *فجوة ثقة-فائدة* مستمرة — يجب على المستخدمين أن يوزنوا الكفاءة الظاهرة لأداة مقابل موثوقيتها الفعلية في مهمة. بين أصغر المستخدمين، وجد [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] أن 52% من الأطفال (أعمار 6–14) وثقوا عموماً بشاتبوت مُكيّف للعمر و35% وثقوا به كمدرِّس أو صديق، مع نحو ثلث مستعدين للثقة إليه بأخبارهم الخاصة؛ كما اختبر الأطفال مصداقيته بنشاط بأسئلة ذات جواب معروف، ولم تُظهر الثقة فروقاً ذات دلالة إحصائية بين مستويات الصف — مما يُصور كيف يمكن أن تتشكل الثقة المبكرة قبل التقييم النقد. 
@@ -57,7 +58,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 **إدراك الخطر والثقة ليسا متقابلين.** دراسة إدراك على 130 طالباً للذكاء الاصطناعي التوليدي [[agentic-ai|الوكالي]] في [[higher-ed|التعليم العالي]] وجدت خطراً مُدركاً مرتفعاً باعتدال (M = 3.33، SD 0.89) إلى جانب ثقة أكثر ملاءمة ونية تبنٍ (M = 3.62، SD 0.81)، و— بخلاف توقع ردع بسيط — ارتباطاً *موجباً* بين الخطر المُدرك ونية الاستخدام المستمر (ρ سبيرمان = 0.317، p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). يقرأ المؤلفون ذلك كتبنٍّ مستنير لا لا مبالاة: يدرك المستخدمون المنخرطون أو ذوو الخبرة قيمة التقنية وحدودها معاً، وقال 45.4% فقط إنهم يثقون بالوكلاء تحت إرشاد المدرِّس. بالنسبة لـ[[trust-calibration]]، الإشارة هي أن الوعي بالخطر ليس غياب الثقة — يمكن أن يكون مكوّناً منها — في حين يُترك التصميم المقطعي الوعي والتعرض والاختيار الذاتي غير قابلين للتمييز.
 
-
 تتصرف الثقة في الذكاء الاصطناعي كمسار من التقييم إلى الاعتماد لا كموقف واحد: كان التمكين المُدرك بالذكاء الاصطناعي والتهديد المُدرك به مستقلين تقريباً (r=0.030) لكنهما حرّكا الثقة في اتجاهين متعاكسين (β=0.576 وβ=−0.328)، وحملت الثقة ارتباطات غير مباشرة دالة بالاعتماد على الذكاء الاصطناعي التوليدي في الاتجاهين ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 يمنح نموذج بنيوي تلك الدور الجسري اختبارًا تجريبيًا. ففي مسح [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] على 642 طالبًا جامعيًا، تنبّأ الدعم السياقي بمعايرة الثقة (β = 0.56)، وتنبّأت معايرة الثقة بـ[[collaborative-learning|التنظيم]] [[regulation|التعاوني]] (β = 0.49) وبمكاسب [[transfer-of-learning|الانتقال]] المدرَكة (β = 0.22)، ولم يكن المسار المباشر من الدعم السياقي إلى المكاسب دالًّا.
@@ -70,9 +70,7 @@ updated: "2026-11-08T10:26:27-05:00"
 
 يمكن أن تنفصل أبعاد المصداقية الثلاثة: منح سبعة عشر طالباً في EFL مساعد كتابة ذكاء اصطناعي خبرةً واسعة، وشكّكوا في أمانته أساساً بشأن ما تحتفظ به المنصة، وقيّموا حُسن نيته بالأدنى - كان سقف اعتمادهم على العناية لا الكفاءة ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
 
-
 يمكن لإشارات المصداقية أن ترفع الاعتماد على أجوبة خاطئة: فإضافة الاستشهادات وإشارات السلطة إلى واجهة نقاش رفعت التخلّي عن حكم صحيح لصالح موقف الذكاء الاصطناعي من 15.0% إلى 31.8%، بينما خفض حجب موقف مُوصى به ذلك التحوّل إلى 5.7–8.2% ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
-
 
 لا تتبّع الثقة في الذكاء الاصطناعي التبنّي الوطني أيضًا: فالرومانيون، باستخدام 17.8% للذكاء الاصطناعي التوليدي مقابل 48.4% في الدنمارك، قيّموا ثقتهم في الذكاء الاصطناعي أعلى قليلًا (4.1 مقابل 3.8 على سلّم من سبع درجات) بينما انقسمت الثقة المؤسسية 28 مقابل 45 نقطة في الاتجاه الآخر ([[lucau-uneven-use-similar-trust-genai-2026|Lucau, Voicu & Christensen (2026)]]).
 
@@ -89,7 +87,6 @@ updated: "2026-11-08T10:26:27-05:00"
 الاعتماد على الكواشف والمراقبة، كما يُجادل [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]]، يُعزّز مناخاً من الشك يُتلف ثقة الطالب في التقويم والمؤسسة — عكس الثقة التي يُفترض أن تحميها عمليات النزاهة.
 
 التغذية الراجعة موقع جوهري للثقة بين الأشخاص. [[genai-teacher-feedback-comparison|تصورات الطلاب للتغذية الراجعة بالذكاء الاصطناعي التوليدي مقابل تغذية المدرِّس]] تُظهر أن الاثنين يخدمان حاجات مختلفة — متكاملان لكن غير قابلين للتبادل — مع ثقة الطلاب بتغذية المدرِّس للحكم العلائقي والشخصي وبـ[[generative-ai|الذكاء الاصطناعي التوليدي]] للسرعة و[[accessibility]]. [[care-full-feedback-genai|تصوير «عناية كاملة» للتغذية الراجعة]] يُجادل أن التغذية الراجعة الموثوقة ممارسة [[ethics|أخلاقية]] وعلائقية: تبني علاقات تربوية ويُحترم فيها كحرفة مهنية، وهي قيم لا يستطيع الذكاء الاصطناعي تقليدها ببساطة. لهذا تبقى ثقة المدرِّس والطالب — المبنية على العناية والحكم المهني — جوهريةً حتى مع دخول الذكاء الاصطناعي في حلقة التغذية الراجعة.
-
 
 تمر ثقة الأقران عبر قناة مختلفة: بين 406 طلاب جامعيين يُقيّمون زميل صف متذكَّراً، ارتبط استخدام ذلك الزميل للذكاء الاصطناعي التوليدي بثقة أقل بين الأشخاص، محمولةً بالدفء والكفاءة المُدركين، والارتباط السلبي ثبت فقط حين كانت [[ai-literacy|ثقافة الذكاء الاصطناعي]] المُدركة منخفضة — وكان غير دال عند العالية ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al. (2026)]]).
 
@@ -129,54 +126,3 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - أبلِغ عن الثقة وإدراك الخطر والاعتماد الملائم كبنى متمايزة، لأنها تتغاير في اتجاهات غير بيّنة — منها السالب.
 - أبلِغ عن الناتج السلوكي (نسبة قبول الاقتراحات الخاطئة) إلى جانب الثقة المُبلَّغ عنها؛ فمقاييس الثقة وحدها تقلب الاستنتاج.
-
-## المفاهيم المرتبطة
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — الخطر الاجتماعي الذي تجري عليه المعايير والإفصاح
-
-## المقالات المرتبطة
-- [[lucau-uneven-use-similar-trust-genai-2026]] — استخدام غير متكافئ وثقة متشابهة: الذكاء الاصطناعي التوليدي في الدنمارك ورومانيا (Lucau, Voicu & Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — يرتبط الخطر المُدرك ارتباطاً موجباً بنية الاستخدام المستمر: تبني مستنير (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — فجوة ثقة المدرِّس والطالب حول السيطرة والوكالة في الذكاء الاصطناعي في صفوف K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — Disclosure of AI use is driven by relational factors and comfort with instructors, not policy
-- [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
-- [[care-full-feedback-genai]] — Trustworthy feedback as a "care-full," relational practice
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in an ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Co-designing trustworthiness metrics and visualizations for LLMs in education
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics AI tools
-- [[t2i-competence-paradox-2026]] — The competence paradox in AI image generation
-- [[task-context-trust-educational-hri-2026]] — Task context shapes trust in educational robots more than appearance
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity and epistemic trust in AI-mediated learning
-- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy and its limits for trust calibration
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel less satisfying over time
-- [[ai-pedagogical-accompaniment-amico]] — Accountable pedagogical mediation and trust in AI-enabled systems
-- [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
-- [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
-- [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — ثلاثة تشكيلات طلابية تتبع فيها ثقة الذكاء الاصطناعي المرونة والإجهاد لا الديموغرافيا (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[trust-calibration-genai-collaborative-regulation-2026]] — نموذج بنيوي: الدعم السياقي ← معايرة الثقة ← تنظيم تعاوني ومكاسب انتقال مدرَكة
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — إشارات المصداقية رفعت التخلّي عن حكم صحيح لصالح موقف الذكاء الاصطناعي
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — الثقة الأداتية أقوى متنبّئ بنية استخدام الذكاء الاصطناعي التوليدي لدى طلاب الفنون
-

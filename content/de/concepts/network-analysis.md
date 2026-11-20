@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -85,29 +87,3 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 - **„Netzwerkanalyse ist objektiv, weil sie computational ist."** **Die Codierung ist das Fundament**: alle Netzwerkvarianten hängen davon ab, Rohdaten (Äußerungen, Ereignisse, Beziehungen) verlässlich in diskrete Knoten zu codieren, und automatisierte Codierung erbt ihre Definitionen von denen, die sie gesetzt haben. Die [[visualization|Visualisierung]] sieht wie eine emergente Struktur aus, und ihre Knoten sind interpretative Entscheidungen.
 - **„Eine Verschiebung der Netzwerkstruktur ist für sich genommen ein Lernzuwachs."** In einer Falldiskussion mit **zwanzig Graduierten aus gemischten Disziplinen** stieg der **Anteil geteilter Begriffe der Größe 3 von 5,2% auf 8,0%**, während **Inhaltstoken auf etwa das 0,65-Fache ihres Niveaus nach der Lektüre fielen**. Zwei strukturelle Maße bewegten sich in entgegengesetzte Richtungen, sodass „das Netzwerk hat sich verändert" kein Befund ist, bevor man sagt, entlang welches Maßes und warum es zählt.
 - **„Mehr geteilte Begriffe bedeuten bessere Zusammenarbeit."** Ein steigender Anteil geteilter Begriffe neben fallender Vielfalt der Inhaltstoken ist mit Konvergenz auf ein kleineres Vokabular vereinbar. Konsens und Verengung sind strukturell ähnlich, weshalb das Maß den Inhalt braucht, aus dem es berechnet wurde.
-
-## Verbundene Konzepte
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Verbundene Artikel
-
-- [[caeai-response-length-ai-ethics-education-2026]] — Antwortlänge, nicht lexikalische Abgleichung, treibt die Statistiken geteilter Begriffe in Teilnehmende–Morphem-Netzwerken (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA der Lernenden-Chatbot-Interaktionen im gescaffoldeten EFL-Schreiben
-- [[tracing-genai-literacy-interaction-patterns]] — ENA der Interaktionsmuster der GenAI-Kompetenz
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA der mensch-KI-kollaborativen Problemlösung
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Kognitive Entlastung und Prompting (SNA-/Netzwerkmethoden)
-- [[youtube-frames-chatgpt-education]] — ENA von YouTube-Frames zu ChatGPT in der Bildung
-- [[agency-gap-ai-writing]] — Die Handlungsfähigkeitslücke im KI-unterstützten Schreiben (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken übersehen: eine strukturelle Prüfung synthetischer Bildungsdaten
-- [[dang-human-ai-collaboration-competency-2026]] — ENA kartiert auch die Kompetenzsprache der Lehrenden

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -71,32 +73,3 @@ Perspektif administrator terhubung dengan [[educational-policy-ai]] (pembentukan
 - Tanyakan atas dasar apa sebuah alat dapat dievaluasi sebelum menandatangani. Jika kontrak tidak mengizinkan akses ke hasil, data audit, atau rincian penggunaan, institusi telah membeli kapabilitas yang tidak dapat dinilainya.
 - Survei penggunaan aktual alih-alih penggunaan yang disahkan, karena keduanya menyimpang dan angka yang tidak disahkan adalah angka yang membawa risiko yang sudah Anda hadapi.
 - Urutkan kebijakan sebelum peluncuran selama daya tawar masih ada. Begitu penggunaan meluas, kebijakan menjadi negosiasi dengan praktik yang sudah mapan.
-
-## Konsep terkait
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (siswa, guru, perancang, administrator, pembuat kebijakan)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — proses institusional yang dijalankan administrator: bimbingan akademik, penjangkauan, rujukan, dan alokasi
-
-## Artikel terkait
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI dalam kepemimpinan pendidikan: taksonomi komprehensif
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Tata kelola antisipatif dan kepemimpinan untuk AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI dalam kebijakan pendidikan tinggi Inggris dan pengambilan keputusan institusional
-- [[ai-campus-wellbeing-tools]] — Alat berbasis AI untuk kesejahteraan kampus
-- [[genai-policies-higher-ed-computing]] — Kebijakan GenAI institusional di bidang komputasi
-- [[institutional-change-framework-ai]] — Kerangka perubahan institusional untuk AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech
-- [[students-at-stake-ai-deployment-risks-2026]] — Saringan pengadaan empat pertanyaan, dibingkai sebagai hak siswa alih-alih sebagai manajemen risiko

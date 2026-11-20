@@ -23,7 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -106,50 +107,6 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 - **“让使用者满意的解释就解释了系统。”** 同样的可读性失灵出现在[[automated-assessment|自动评价]]的安全侧：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）的红队测试]]发现，一个日常的评分工作流程可以被注入的指令操纵。可信的叙述与可审计的叙述，是两种不同的制品。
 - **“通用 XAI 实践可以迁移到教育。”** [[xai-education-framework|XAI-ED 框架]]（Khosravi 等，2022）坚持教育具有**独特的可解释性需求**，超出通用 XAI，因为受众包括必须据解释行动的学习者，而不是必须认证它的审计者。
 - **“忠实性是一种无需探查就能宣称的属性。”** 测量忠实性要求**对量规关键片段做反事实删除**，并配合人工评分。注意力与量规对齐度达到 **78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%**，这是那类探查产生的比较结果，不是关于可解释性的宣称。
-
-## 关联概念
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## 关联文章
-- [[kares-xai-evaluation-alignment-2027]] — 166 名参与者、三种显著性方法：满意度与信任持平，任务表现与忠实性指标互相矛盾（Kares 等，2027）
-- [[lund-socially-accountable-data-science-xai-2026]] — 把 XAI 作为问责实践来教的四支柱框架（可回答性、责任性、执行性、自反性）（Lund 等人 2026）
-- [[ko-hughes-vsd-student-centered-its-2026]] — 以学生为中心的 ITS 的价值敏感设计（协作式 vs. 原始解释）
-- [[xai-education-framework]] — XAI-ED：教育中可解释 AI 的奠基性框架（Khosravi 等人 2022）
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 学科特定解释建立教师的信任与接纳（Feldman-Maggor 等人 2025）
-- [[student-perspectives-ai-writing-grading-2026]] — 学生对透明 AI 辅助评价的视角（AlGhamdi 2026）
-- [[huang-interpretable-knowledge-tracing-2026]] — 可解释的知识追踪
-- [[explainable-probabilistic-kt]] — 经由概率嵌入的可解释知识追踪
-- [[neural-symbolic-knowledge-tracing]] — 神经—符号知识追踪
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 把黑箱模型蒸馏为自我解释的语言模型用于学习分析
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 用于保护隐私的风险建模的联邦化、可解释学习分析
-- [[sc2r-counterfactual-recourse-educational-2026]] — 面向教育决策支持的语义约束反事实补救
-- [[fair-explainable-edu-recommendations]] — 公平且可解释的教育推荐
-- [[multimodal-affective-its-presentation]] — 面向多模态情感反馈的可解释闭环 ITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 解释高等教育中的 ChatGPT 采纳
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 设计即可解释的 LLM 框架：用于自动教师评价的双透镜注意力与分数参数化解释（Li 等人 2025）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 中介评分中的提示注入，其检测从未被告知用户（Humble 2026）
-- [[bloom-classifier-ai-assisted-questions-2026]] — 对预训练模型在新型 AI 辅助教育问题的教学性评价上的评估
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — 教师评分与 AI 评分的决策：一份书面理由扩大了公平性差距
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用与权威信号提高了对不正确输出的遵从，部分引用被误归属或是虚构的
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 符号、子符号与神经符号模型在同一批学生上把预测归因于不同因素
 
 ## 引用
 

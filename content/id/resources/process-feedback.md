@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,7 +61,3 @@ seharusnya dihukum hanya karena menempel. Angka adopsi dan peringkat 5.0 di Chro
 pemasaran proyeknya sendiri; ulasan di toko ekstensi bukan bukti independen hasil belajar. Bacalah
 laporannya sebagai bukti untuk sebuah percakapan, yang memang demikian cara alat ini dirancang dan cara
 pengembangnya menggambarkannya.
-
-## Konsep terkait
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

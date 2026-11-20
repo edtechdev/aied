@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -126,37 +128,3 @@ Nämä kumoamiset on tarkoituksella kirjoitettu [[refutation-text|kumoamisteksti
 - **"Opettajien väärinkäsitykset voidaan korjata esittämällä näyttöä."** Pilotissa, johon osallistui **123 italialaista kasvattajaa**, erimielisyys keskittyi voimakkaimmin **kognitiivisiin oppimistyyleihin (78 % opettajista puolusti visuaalisen ja auditiivisen yhteensovittamista)**, inkluusioon ja ryhmätyöhön (68 %) ja EdTech-ylikuormitukseen (54 %). Voimakkaimmat erimielisyydet olivat niitä, jotka vastustivat eniten näyttöä, minkä vuoksi [[refutation-text|kumoaminen]] voittaa väittämisen. Pelkät tietoiskut jäävät siksi riittämättömiksi.
 - **"Opettajien vastalauseet näyttöä kohtaan ovat kaikki vastarintaa."** Kun samat väittämät toimitettiin keskustelevan tekoälyn kautta, joka **validoi opettajan kontekstin ennen näytön esittämistä uudelleen**, **41 % vastalauseista koski todellisia kontekstuaalisia rajoituksia** – luokkakokoa, erityistarpeita, opetussuunnitelman vaatimuksia. Merkittävä osa näennäisestä väärinkäsityksestä olikin tarkkaa vastalausetta. Ero näiden välillä on ratkaiseva, kun suunnitellaan täydennyskoulutusta.
 - **"Väärinkäsitykset voidaan tunnistaa luotettavasti dialogista."** **241 kehotteistetusta segmentistä 221 (91,7 %) vahvistettiin strategisiksi väärinkäsityksiksi asiantuntijoiden enemmistöäänestyksellä (Fleissin κ = 0,9487)**, eikä ryhmien välillä ollut **merkittäviä eroja**. Korkea luotettavuus on saavutettavissa asiantuntija-arvioinnissa, ja se on ehto, josta väite riippuu.
-
-## Liittyvät käsitteet
-
-- [[pedagogical-patterns]] — Käsitteellisen muutoksen sekvenssit, jotka kohtaavat tietyn pidetyn uskomuksen
-- [[learners]] — Oppijat: oppijapuolen käsitteiden kattokäsite
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Liittyvät artikkelit
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Älä usko hypetystä: kahdeksan tekoälymyyttiä ja kriittisen otteen tarve korkeakoulutuksessa
-- [[student-rationalization-ai-writing]] — Opiskelijoiden rationalisointi tekoälykirjoittamisesta
-- [[genai-skill-bypass-literacy]] — GenAI:n ohittamat taidot ja lukutaito
-- [[trust-reliance-ai-education-2026]] — Luottamus ja tukeutuminen tekoälykoulutuksessa
-- [[contextual-sycophancy-ai-literacy]] — Kontekstuaalinen mielistely ja tekoälylukutaito
-- [[sycophantic-ai-social-interaction-2026]] — Mielistelevä tekoäly sosiaalisessa vuorovaikutuksessa
-- [[llm-fallacy-misattribution]] — LLM-harhaluulon virheattribuutio (Kim ym.)
-- [[student-reception-genai-analogies-computing-2026]] — Puutteellinen mutta mieleenpainuva: opiskelijoiden kriittinen vastaanotto kiinnostuksen mukaan personoiduille GenAI-analogioille tietojenkäsittelyn opetuksessa
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: sujuvia ja auktoriteettisia selityksiä, jotka ovat käsitteellisesti eivätkä faktuaalisesti vääriä (Miličević ym. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Lähetettyyn tiedostoon piilotetut ohjeet voivat nostaa tekoälyn arvioimaa arvosanaa ilman näkyvää varoitusta (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Lasten tekoälyturvallisuuden väärinkäsitykset: ystävyys robotin kanssa tulkitaan yksityisyyden takeeksi (Leisten ym. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Keskusteleva tekoäly opettamisen väärinkäsitysten diagnosoinnissa näyttöön perustuvalla dialogilla (Miranda & Calvani 2026)

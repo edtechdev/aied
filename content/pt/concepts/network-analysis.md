@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -85,28 +87,3 @@ Os métodos de rede são usados ao longo da base de evidências da base de conhe
 - **"A análise de redes é objetiva porque é computacional."** **A codificação é o fundamento**: todas as variantes de rede dependem de codificar de forma confiável dados brutos (falas, eventos, relações) em nós discretos, e a codificação automatizada herda suas definições de quem as estabeleceu. A [[visualization|visualização]] se parece com uma estrutura emergente, e seus nós são escolhas interpretativas.
 - **"Uma mudança na estrutura da rede é automaticamente um ganho de aprendizagem em si."** Em uma discussão de caso com **vinte estudantes de pós-graduação de disciplinas mistas**, a **parcela de termos compartilhados de tamanho 3 subiu de 5,2% para 8,0%** enquanto os **tokens de conteúdo caíram para aproximadamente 0,65× seu nível pós-leitura**. Duas medidas estruturais se moveram em direções opostas, de modo que "a rede mudou" não é um achado até você dizer ao longo de qual medida e por que isso importa.
 - **"Compartilhar mais termos significa melhor colaboração."** Uma parcela crescente de termos compartilhados ao lado de uma diversidade decrescente de tokens de conteúdo é compatível com convergência para um vocabulário menor. Consenso e estreitamento são estruturalmente semelhantes, e é por isso que a medida precisa do conteúdo a partir do qual foi calculada.
-
-## Conceitos conectados
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## Artigos conectados
-- [[caeai-response-length-ai-ethics-education-2026]] — O comprimento da resposta, e não o alinhamento lexical, impulsiona as estatísticas de termos compartilhados em redes de participante–morfema (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA das interações entre quem aprende e chatbot na escrita de inglês como língua estrangeira com andaimento
-- [[tracing-genai-literacy-interaction-patterns]] — ENA dos padrões de interação do letramento em IA generativa
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA da resolução colaborativa de problemas humano–IA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Descarregamento cognitivo e prompting (métodos de SNA/redes)
-- [[youtube-frames-chatgpt-education]] — ENA dos enquadramentos do ChatGPT em educação no YouTube
-- [[agency-gap-ai-writing]] — A lacuna de agência na escrita apoiada por IA (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
-- [[dang-human-ai-collaboration-competency-2026]] — A ENA também mapeia a fala sobre competência de educadores

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -71,38 +73,3 @@ IRT є основою [[educational-measurement]] та [[assessment-validity]], 
 - **«Бенчмарк, який проходять більшість моделей, є добрим бенчмарком.»** Узгоджений зі стандартами бенчмарк може **насичуватися**: на узгоджених з NGSS наборах з науки для середньої та старшої школи **більшість моделей з відкритими вагами набрали понад 90%**, залишивши класичні метрики завдань слабкими. Насичення не означає, що моделі чудові; воно означає, що завдання більше не розрізняють.
 - **«Складність завдання є внутрішньою властивістю завдання.»** Причинний зонд, що **редагував по 50 тестових питань на кожен набір даних** у бік або від гіпотези, виявив, що **редагування, які збільшують складність, знизили середню точність на 15,27 і 23,88 відсоткового пункту** на GSM8K і BBH-structured. Складність — це відношення між завданням і моделлю, і вона змінюється, коли змінюється завдання.
 - **«IRT призначений лише для оцінювання здобувачів.»** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] використовує **байєсівську ієрархічну модель 2PL із завданнями-якорями претесту, щоб розмістити 1 686 студентів**, що є забезпеченням якості самого оцінювання, а не оцінюванням для студента.
-
-## Пов’язані поняття
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## Пов’язані статті
-
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Уніфікована рамка відгуку для питань і діалогів тьюторства
-
-- [[explaining-question-difficulty-natural-language-2026]] — Пояснення складності питань засобами LLM природною мовою через IRT та причинні редагування (Cui та співавтори 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Вплив вад написання завдань на складність і дискримінативність IRT (Schmucker та Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Чи вимірюють інструменти оцінювання те саме для людей і LLM? (Strugatski та співавтори 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Масштабна польова валідація IRT згенерованих ШІ іспитів
-- [[jin-glat-genai-literacy-assessment]] — GLAT використовує валідацію IRT/2PL (Jin та співавтори 2025)
-- [[llm-item-difficulty-prediction]] — Передбачення складності завдань засобами LLM
-- [[llm-psychometric-calibration-cdp]] — Узгодження оцінювання LLM із психометричною калібрацією
-- [[llm-difficulty-calibration-programming-exams-2026]] — Калібрація складності засобами LLM в іспитах із програмування
-- [[multimodal-item-parameter-estimation-2026]] — Мультимодальне оцінювання параметрів завдань
-- [[huang-interpretable-knowledge-tracing-2026]] — Інтерпретоване відстеження знань
-- [[irt-human-genai-mcq-responses]] — Використання IRT для відокремлення людських відповідей і відповідей GenAI на питаннях із множинним вибором
-- [[razavi-powers-item-difficulty-llm-2026]] — Оцінювання складності завдань засобами LLM та ML на основі дерев
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[bayesian-consensus-irt-item-banks-2026]] — Байєсівська консенсусна калібрація безперервно еволюціонуючого банку завдань IRT (Jewsbury та співавтори 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Польовий аудит, що показує, як рідко IRT/Rasch використовуються як первинне свідчення валідації в інструментах ШІ-літературності викладачів
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: тьюторинг із ШІ й людський тьюторинг дають еквівалентні навчальні здобутки GRE
-- [[llm-benchmark-secondary-science-topics-2026]] — Узгоджений зі стандартами бенчмарк може насичуватися

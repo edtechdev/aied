@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -104,49 +106,3 @@ ai_assist:
 **“学得吃力的学生只要学会更好地写提示词就行。”** 这把系统缺陷变成了学习者的缺陷。在底层任务不变的情况下，模型准确率仅从**低素养措辞的 82.4% 升至专家措辞的 83.4%**，只差一个百分点，而要求更好的[[prompt-engineering|提示]]反而在既有排斥之上再加一层排斥。杠杆在系统侧对语言变异的处理，不在补救性的提示训练。
 
 **“为资源充足的课堂打造的工具，翻译一下就能服务低资源情境。”** 情境改变的是设计约束。[[suacode-african-students-motivations|SuaCode]]面向智能手机而不是桌面实验室机器构建，因此触达了**具备编程技能者不足 1%** 的低资源非洲情境中的学生；这是另一种设计，而不是同一种设计的缩小版。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — 具体的接入层（字幕、替代文本、辅助技术兼容性）
-- [[assistive-technology]] — 学生用于接入内容的工具层
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## 关联文章
-- [[prompt-privilege-equitable-ai-access-2026]] — 提示特权：测量与缓解 LLM 接入中的可及性差距
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 为聋人与听障学习者的 LLM 驱动问题生成
-- [[text-simplification-its]] — 面向智能辅导的文本简化
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI：面向视障儿童的语音优先同伴
-- [[tactile-statistical-graphs-accessibility]] — 可触摸的 3D 打印统计图
-- [[pepper-robot-sign-language-lis-2025]] — 支持手语交流的 Pepper 机器人
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX 数学可及的物理视频转写
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education：超越生成式 AI 与虚拟现实：面向高等教育神经多样性学生的数字辅助技术范围综述

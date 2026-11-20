@@ -13,6 +13,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -73,33 +75,3 @@ Kujifunza kwa mashine pia huonekana katika elimu kama *somo*. Katika [[microbit-
 **"AI ya kizalishaji imefanya kujifunza kwa mashine cha zamani kuwa kisichotumika katika elimu."** Wanafanya kazi tofauti. Utabiri wa hali za mwanafunzi, ukadiriaji wa ugumu na utabiri wa maendeleo bado ni matatizo ya ML ya zamani, na fasihi ya kufuatilia maarifa na ya kurekebisha vipengele ambayo hifadhi hii ya maarifa inaandika haihudumiwi na mfano wa lugha. AI ya kizalishaji ni sehemu ndogo ya kujifunza kwa mashine badala ya mbadala wake.
 
 **"Elimu ya walimu inapaswa kuwafundisha wanafunzi kuhusu LLM badala ya kujifunza kwa mashine."** Kuweka ujuzi ndani ya tabaka la kizalishaji tu huwaacha wataalamu hawana uwezo wa kuhoji mifumo ya utabiri inayofanya maamuzi kuhusu wanafunzi wao, ambapo makosa yenye matokeo makubwa hukusanyika.
-
-## Dhana Zilizounganishwa
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Makala Zilizounganishwa
-
-- [[at-risk-students-ml-prediction]] — Ugawaji wa ML wa usimamizi kutambua wanafunzi wenye hatari ya kutoroka
-- [[trace-course-grade-prediction-2026]] — Transformer inayotabiri pamoja kozi na alama (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Nakala za kidijitali za wanafunzi zinazotumia AI kwa njia za kuzuia, zinazolingana na kazi
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recourse ya kigezo ya semantics-vizuizi kwa uingiliaji unaoweza kutumiwa
-- [[interactive-online-learning-ai-2025]] — Mchanganyiko wa DMO-GRU kwa utabiri wa kujifunza mtandaoni kwa mwingiliano
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada zinazorekebishwa za mahusiano ya kiakili katika ITS (BKT dhidi ya DRL)
-- [[pedagogical-safety-rl]] — Mfumo rasmi wa usalama wa kielimu katika kujifunza kwa kuimarisha kielimu
-- [[automated-online-exam-proctoring-decade-review-2026]] — Mapitio ya muongo mzima ya usimamizi wa mitihani kiotomatiki unaotumia kujifunza kwa kina
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Kufuatilia maarifa kunakotegemea matokeo na ramani ya uhusiano
-- [[bird-multimodal-educational-literature-2026]] — Uunganishaji wa multimodal kwa kugawa fasihi ya kielimu
-- [[razavi-powers-item-difficulty-llm-2026]] — Kukadiria ugumu wa kipengele kwa kutumia LLM na ML inayotegemea miti
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

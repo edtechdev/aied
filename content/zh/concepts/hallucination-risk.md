@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -78,39 +80,3 @@ ai_assist:
 - **“错误一出现就很明显。”** 一个诊断手写数学的 AI 可以**编造并不存在的证据引文，同时声称有信心**。失效不是一个看似合理但错误的答案，而是以确定性呈现的虚构支持，这是最难捕捉的一类，因为它读起来恰是一个仔细的读者会想要的那种证据。
 - **“没有引注的输出是一个格式问题。”** 在一门用 AI 生成读物取代商用教材的研究生课程中，**4,487 个记录页面里只有约 0.80% 带有 APA 式文内引注**。这是语料层面对来源的缺失，而不是偶发的遗漏，且意味着核验没有起点。
 - **“幻觉是更新模型就能解决的模型生成问题。”** 这一比率在 **125 项研究**中横跨 10-40%，这既是任务的属性，也是部署的属性，同样也是模型的属性。降低比率是真实的进步，但并不改变读者必须能够核查这一点。
-
-## 关联概念
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## 关联文章
-- [[sim-ai-summary-memory-distortion-2026]] — 一段误导性的 AI 摘要扭曲了成年人对一段视频的记忆，而 AI 或人类的标签并未保护他们
-- [[frontiers-gai-hallucination-dependence-2026]] — 把GAI对话标注为编造的，同时降低了信任与依赖
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索抬高了对 AI 输出的顺从，一些被引案例被错误归因或系虚构
-- [[ivory-psychology-assessment-integrity-2026]] — 可及格的学生作业内部出现的编造引注与自相矛盾的输出（Ivory et al. 2026）
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：概念层面错误的流畅貌似合理的解释（Miličević et al. 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 隐藏的提示注入在未被发现的情况下抬高AI评分，被检出的攻击也未被上报（Humble 2026）
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — 用生成式AI设计真实性评估：高等教育中 Assessment Authentifire 的试点研究
-
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 下一代文献综述：面向新学者的实用 AI 指南

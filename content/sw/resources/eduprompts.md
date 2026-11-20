@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -49,7 +50,3 @@ Walimu wa K–12, wakocha wa kufundisha na wabunifu wa mtaala wanaotaka ilani in
 Mabadiliko ya jina ni mchakato unaoendelea, si uliokamilika. Google ilitangaza Septemba 2026 kwamba Skills zinachukua nafasi ya Gems, na msaada wa Gems unaisha kwa awamu: akaunti za kibinafsi Novemba 2026, wateja wa Workspace wa biashara, makampuni na mashirika yasiyo ya faida Machi 2027, na wateja wa Workspace wa elimu Juni 2027. Google inasema Gems zilizopo zinahamia Skills kiotomatiki, na Skills kwa sasa zinaendeshwa kwa kuandika `/` na jina kwenye upau wa ilani wa Gemini. Viungo kwenye tovuti hii bado vinaelekeza kwenye njia za `/gem/`, hivyo alama ya ukurasa inaweza kuelekezwa upya au kuvunjika kadri ubadilishaji unavyoendelea — hakikisha ilani inafunguka kabla ya kuiweka katika kozi.
 
 Mambo mawili ya upatikanaji yanapaswa kuwa sehemu ya uamuzi wowote wa matumizi. Skills zinapatikana katika viwango vyote vya usajili wa Google AI, lakini uzinduzi kwa sasa ni kwa miaka 18 na zaidi, huku upatikanaji wa chini ya miaka 18 ukielezwa kama unakuja hivi karibuni; na kunakili ilani kunahitaji akaunti ya Google na Gemini, hivyo hii si zana isiyo na utambulisho kwa wanafunzi. Maktaba ni mkusanyiko uliosimamiwa wa ilani, si maelekezo yaliyothibitishwa: kila kipengele ni mahali pa kuanzia ambapo matokeo yake bado yanahitaji kukaguliwa, na madai ya ubora wa mkusanyiko ni ya mkusanyaji mwenyewe. Hakuna leseni ya wazi iliyotajwa, hivyo ilani zinaweza kunakiliwa na kubadilishwa ndani ya Gemini, lakini maktaba si kitu ambacho taasisi inaweza kunakili na kuiweka kwenye seva yake yenyewe.
-
-## Dhana zinazohusiana
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

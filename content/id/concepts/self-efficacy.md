@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,7 +80,6 @@ Efikasi diri terhubung ke [[motivation]], [[self-regulated-learning]], [[student
 
 - **Diperlukan bagi kegunaan, bukan sekadar berkorelasi dengannya.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu dan Liu (2026)]] menempatkan efikasi diri AI di depan dua keyakinan penerimaan pada 405 mahasiswa pascasarjana desain dan menemukannya sebagai anteseden terkuat bagi keduanya: β = 0.458 pada kegunaan yang dipersepsikan dan β = 0.394 pada [[technology-acceptance-model|kemudahan penggunaan yang dipersepsikan]]. Analisis kondisi diperlukan mereka menambahkan bentuk klaim yang lebih kuat daripada jalur di atas. Efikasi adalah satu-satunya kondisi yang diidentifikasi sebagai diperlukan bagi kegunaan yang dipersepsikan (d = 0.125, p = 0.015). Kegunaan pada 80%, 90%, dan 100% skalanya menuntut efikasi pada 10.0%, 30.0%, dan 50.0%. Keyakinan karenanya berada sebagai lantai di bawah pertimbangan instrumental alih-alih sebagai salah satu kontributor di antara beberapa. Desainnya lintas-seksi dan modelnya menjelaskan R² = 0.150 dari niat, jadi perlakukan ambangnya sebagai dalam-sampel.
 
-
 - **Jejak perilaku dapat membawa sinyalnya, tetapi label menetapkan batas atasnya.** Pipeline dua universitas mendeteksi efikasi diri rendah dari jejak interaksi; label sesi survei mengalahkan pembelahan tengah semester, dan subskala MSLQ saja memberi label sebaik instrumen lengkapnya ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Miskonsepsi Umum
@@ -87,47 +88,3 @@ Efikasi diri terhubung ke [[motivation]], [[self-regulated-learning]], [[student
 - **"Lebih banyak penggunaan AI dengan keyakinan rendah adalah strategi koping yang tak berbahaya."** Temuan yang sama menghubungkan pengarahan itu dengan **skor lebih rendah**, sehingga pola koping tersebut memiliki biaya terukur alih-alih menjadi pilihan netral.
 - **"Literasi saja membangun keyakinan."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] menyurvei **450 mahasiswa** yang sudah menggunakan ChatGPT dan menemukan **kepercayaan sebagai poros antara literasi dan keyakinan**. Jalurnya melewati kepercayaan, sehingga menaikkan literasi tanpa menangani kepercayaan membiarkan mekanismenya tak tersentuh.
 - **"Profil efikasi diri seragam dalam populasi penyandang disabilitas."** Analisis profil laten atas **102 mahasiswa dengan disabilitas motorik** di Spanyol menemukan **tiga profil**, dengan kelompok rendah pada **29.4%** dan sisanya terbagi antara profil sedang dan lebih tinggi. Memperlakukan kelompok itu sebagai satu populasi akan merata-ratakan keadaan motivasional yang berbeda.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung untuk konsep-konsep sisi pembelajar
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Pembelajaran Sosial-Emosional
-
-## Artikel terkait
-- [[ai-proof-learning-cognitive-offloading-2026]] — Mendukung atau menggantikan penalaran siswa? Pengalihan kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Penggunaan AI umum sejalan dengan efikasi diri lebih tinggi dan ketidakhadiran lebih tinggi, namun efikasi diri tidak memprediksi kehadiran (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot AI di pendidikan tinggi: membandingkan ekspektasi dengan bukti (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — keyakinan naik sementara ketergantungan teknologis tumbuh: efikasi diri sebagai hasil era AI yang menyesatkan (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — e-mentoring berbantuan AI menaikkan efikasi diri dan kecerdasan emosional calon guru EFL (kuasi-eksperimental)
-- [[aigc-affordance-student-self-regulation-2026]] — Afordansi AIGC dan Regulasi Diri Siswa
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — Literasi AI, Kesiapan AI, dan Adaptabilitas Karier
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Pendidikan Guru untuk Literasi AI (SDT)
-- [[social-robot-study-companions]] — Robot Sosial sebagai Pendamping Belajar
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Kerangka HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Pola penggunaan GenAI dan efikasi diri akademik
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Skala AI-PBLS; pemberdayaan dan kesadaran etis memediasi PBL-ke-kepuasan dalam mata kuliah literasi AI (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Memprediksi Atrisi Siswa dalam Pemrograman Kompetitif
-- [[genai-xr-architectural-design-education-2026]] — AI Generatif dan Realitas Diperluas dalam Pendidikan Desain Arsitektur Kolaboratif: Studi Studio Eksploratif
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Literasi AI, kepercayaan dan efikasi diri akademik dalam rantai serial menuju penggunaan ChatGPT berkelanjutan
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Profil efikasi diri akademik dan penggunaan AI yang dilaporkan di antara mahasiswa dengan disabilitas motorik
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Keuntungan efikasi diri kreatif yang dilaporkan dari AI generatif pada anak-anak (tinjauan scoping)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Efikasi diri berbicara membalik jalur kecemasan dari praktik berbantuan AI ke kemauan
-- [[faculty-ai-well-being-social-supports-2026]] — SEM fakultas: efikasi diri teknologis sebagai prediktor lemah kesejahteraan AI
-- [[cen-self-efficacy-favorability-2026]] — Efikasi diri dan kesukaan membentuk pembelajaran dari sistem tutoring dan praktik kertas (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Skala Efikasi Diri untuk Menulis memprediksi lebih banyak kueri Translating dan Reviewing, dan tidak lebih banyak Planning atau delegasi esai utuh (Jelson et al. 2026)
-- [[kim-overtrust-ai-literacy-2026]] - efikasi diri akademik memprediksi kepercayaan berlebih pada AI yang lebih tinggi, bukan lebih rendah
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Using Machine Learning to Measure Self-Efficacy Belief Through Learners' Interaction Traces in Technology-Enhanced Learning
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — efikasi diri sebagai kondisi diperlukan bagi kegunaan yang dipersepsikan, dengan ambang bottleneck (Chu & Liu 2026)
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Efikasi diri AI -> literasi AI -> penerimaan AI, dengan porsi termediasi-pengetahuan diukur (İşbulan et al. 2026)

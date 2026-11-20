@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -114,24 +116,3 @@ Favero et al. (2025) מזהירים ש[[student-engagement|מעורבות]] רג
 
 - דווחו את הבסיס שמולו נמדד שיעור הניצחון, ואמרו בפשטות שזהו שיפוט השוואתי. אחר כך מדדו את מה שהתחום באמת זקוק לו: העברה להקשרים לא-אדפטיביים, שימור לאחר הסרת החונך, והאם הרווחים מחזיקים כשהערוץ הרגשי כבוי.
 - אמתו פרופילי רגש מול שיפוט מומחה לפני השימוש בהם כמשתנים בלתי-תלויים.
-
-## מושגים מחוברים
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## מאמרים מחוברים
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — אנשים מעבירים אמפתיה החוצה כשהם חושבים ש‑AI יכול לתת אותה במקומם (Shastry & Gray 2026)

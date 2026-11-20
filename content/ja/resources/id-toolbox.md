@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -39,8 +40,3 @@ ai_assist:
 ## 存在理由
 
 28 年にわたり企業向け研修を設計してきた Curt Zilbersher は、自身のキャリアを通じて同じ小さな未解決の問題 — ナレーションの語数カウント、コースを [[edtech-platform|LMS]] の上限を超えさせてしまったアセットの特定、字幕の網羅率を手作業で監査すること — が繰り返し現れることに気づき、その解決策を作って無償で公開しています。サイトでは、インストラクショナルデザイナーが実際にどのように 1 週間を使っているかを調べる無料の年次調査も実施しています。
-
-## 関連する概念
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

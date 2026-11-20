@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -48,7 +49,3 @@ Wykładowcy i personel [[educational-development|rozwoju edukacyjnego]] w Hillsb
 ## Uwagi i zastrzeżenia
 
 Czytanie nie wymaga konta, a kursy Canvas i listy kontrolne, do których prowadzą linki, są publiczne. Coache na Playlab oraz Gemy i notatniki Gemini to usługi zewnętrzne, które konta wymagają. Karty renderują się z pliku `apps.json`, więc pełna lista wymaga JavaScriptu, a wersja bez skryptów wymienia osiem z piętnastu; krótki link `tinyurl.com/fpdapps` i kod QR w nagłówku otwierają ją na telefonie. Repozytorium jest oprogramowaniem na licencji MIT, natomiast przewodniki, do których prowadzą linki, mają własne licencje, w tym książka w Pressbooks na niewolnej komercyjnie licencji Creative Commons. Harmonogramu publikacji nie ma, więc strona zmienia się bez zapowiedzi.
-
-## Powiązane pojęcia
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

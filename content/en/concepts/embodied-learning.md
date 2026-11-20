@@ -8,6 +8,8 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 > **Embodied learning** — the [[pedagogy|pedagogical]] principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In [[ai-education|AI in education]], embodiment is realized through [[educational-robotics|educational robots]] and [[educational-robotics|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behavior.
@@ -52,33 +54,3 @@ Embodied learning connects to [[educational-robotics|educational robotics]], [[e
 - **"The body is what makes embodied learning work."** A meta-analysis of **11 RALL studies (N = 595, g = 0.83, I² = 84.4%)** found that **robot morphology, modality, autonomy and social role did not moderate** second-[[language-learning|language learning]] outcomes. The embodiment features were not the active ingredient, and heterogeneity was high enough (I² = 84.4%) that the pooled effect describes a very mixed set of interventions.
 - **"A large effect settles the mechanism."** g = 0.83 with 595 participants across 11 studies is a real signal and it does not identify what produced it. Since the design features did not moderate the effect, the plausible mechanism sits in the pedagogical activity rather than the hardware — which changes what to invest in.
 - **"Embodiment cannot be measured, so it stays theoretical."** Body tracking can turn regulation into a **measurable signal**: in a mixed-reality photosynthesis simulation where motion tags moved student agents across a projected model, an LLM pipeline labeled **470 segments** of regulation behavior. The construct is operationalisable even where it is hard to define.
-
-## Connected Concepts
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — the modality that tries to exploit embodiment directly
-
-## Connected Articles
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI as facilitator after hand-built models: a language-based AI cannot follow embodied inquiry (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -64,9 +66,7 @@ GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 �
 
 PBL은 [[project-based-learning|프로젝트 기반 학습]]과 밀접하게 관련되어 있습니다. 둘 다 학습자 중심이고 문제/맥락 주도적입니다. 그러나 PBL은 탐구와 지식 구성을 요구하는 비구조적인 *문제*를 중심에 두는 반면, 프로젝트 기반 학습은 유형의 *산출물*이나 프로젝트를 만들어 내는 것을 중심에 둡니다. PBL은 사례 기반 학습과 [[inquiry-based-learning|탐구 기반 학습]]과도 가까운 친척이며, 이들은 문제 주도적이고 촉진 주도적인 구조를 공유합니다. 지식 기반의 지도에서 생산적인 AI 통합을 위한 구조적 논증은 PBL만이 아니라 이러한 특징을 공유하는 모든 교수법에 적용됩니다.
 
-
 [[case-based-learning|사례 기반 학습]]이 더 가까운 이웃입니다. 그것은 준비된 사례와 정의된 교수 목표에서 출발하는 반면, PBL은 문제를 더 열린 채로 두고 탐구를 학생 주도로 남깁니다.
-
 
 ## AI 통합에 PBL이 중요한 이유
 
@@ -81,44 +81,3 @@ PBL은 산출물 생산보다 과정, 협업, 드러난 이해를 전면에 내�
 - **"PBL 성과는 프로젝트 기반 학습 성과와 함께 통합되어야 한다."** 3수준 메타분석이 **산출물과 해결책 수행을 별도의 모형**에 두는 이유는 그것이 학습자 자신의 추론이 아니라 **인간-AI 협업**을 측정하기 때문입니다. 둘을 합치면 공동으로 생산된 산물을 학생의 공으로 돌리게 됩니다.
 - **"협업 이득은 AI 사용의 부작용이다."** 한 연구는 더 높은 지각된 협업적 문제 해결(**M = 3.62 대 3.05, d = 0.88**)과 공유된 문제 해결(**3.40, d = 1.02**)을 발견했으며, **가장 큰 상호작용 효과는 공유된 지식 구성과 사회적 규제**에 나타났습니다. 이는 설계가 예측하는 협업 과정 차원입니다. 메커니즘은 도구가 아니라 구조화된 협업입니다.
 - **"AI를 활용한 PBL은 주로 촉진자의 시간을 절약한다."** 측정 가능한 이득은 집단 구조가 그것을 위해 설계될 때만 존재하는 차원의 과정 품질에 있습니다. 공유된 지식 구성을 구조화하지 않고 AI를 더하는 PBL 구현은 같은 효과를 기대해서는 안 됩니다.
-
-## 연결된 개념
-
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 준비된 사례와 사례 토론, PBL의 열린 탐구와 구별됨
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — 생산적 실패
-
-## 연결된 문서
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 생성 AI 지원 교육을 위한 유망한 프레임워크로서의 문제 기반 및 프로젝트 기반 학습: 체계적 검토와 3수준 메타 분석으로부터의 신흥 근거
-
-- [[pbl-structural-conditions-ai-2026]] — 생산적인 AI 통합을 위한 구조적 조건과 PBL(Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — PBL에서의 AI에 관한 교수자 참여의 체계적 검토(Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — 의학 PBL 지도 학습을 위한 GenAI 가상 환자(Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — PBL에서 책임 있는 GenAI를 위한 LEARN 프레임워크(Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI 강화 PBL에서의 적응적 비계로서의 ChatGPT(La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — GenAI 시대의 생체공학에서의 PBL(Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — 계산적 사고를 위한 AI 지원 PBL
-- [[genai-counter-learner-groupthink-2025]] — 직업 간 PBL에서 집단사고에 맞서는 GenAI 에이전트
-- [[dai-chatbots-problem-posing-primary-2026]] — 초등 과학에서의 GenAI 챗봇과 문제 제기
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM에서 탐구 기반 학습을 위한 ChatGPT
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[rhaimi-productivemath-2025]] — PF 문제 설계를 지원하는 AI, ProductiveMath
-- [[genai-scenario-based-healthcare-education-2026]] — 시나리오 기반 보건의료 교육에서의 GenAI 체계적 검토(Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 예비 물리 교사 130명을 대상으로 한 AI 지원 CTD-PBL 모듈: TPACK과 협업적 문제 해결(Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 약리학 교육에서의 촉진자 매개 대 AI 매개 문제 기반 학습: 2학년 의학생을 대상으로 한 준실험 연구

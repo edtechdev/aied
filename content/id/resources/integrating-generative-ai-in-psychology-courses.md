@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -92,9 +93,3 @@ Pengajar psikologi pada tahap karier mana pun, dan pengajar di [[social-sciences
 ## Catatan dan peringatan
 
 PDF gratis, tanpa akun. Hak ciptanya milik STP, bukan lisensi Creative Commons: salinan pribadi dan kelas diperbolehkan dengan atribusi, sementara redistribusi atau penggunaan komersial memerlukan izin penulis. Bab-babnya adalah catatan praktisi, bukan penelitian — tanpa desain, sampel, atau ukuran efek — jadi perlakukan klaim sebagai laporan pengalaman dan kutip bab satu per satu.
-
-## Konsep terkait
-
-- [[social-sciences-education]] — halaman klaster yang bagian psikologinya diisi volume ini dengan praktik tingkat mata kuliah
-- [[ai-literacy]] — pembingkaian developmental yang diberikan para penyunting pada kumpulan ini
-- [[academic-integrity]] — subjek bab kebijakan, dan mengapa beberapa bab mata kuliah membangun langkah verifikasi

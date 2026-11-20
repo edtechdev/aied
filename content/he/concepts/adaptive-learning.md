@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,7 +81,6 @@ ai_assist:
 
 - **פרופיל אינו תכונה.** ציוני אסטרטגיה השתנו בעיקר לפי הקשר ולא לפי סטודנט, עם מתאם תוך-כיתתי ממוצע של 0.14 על פני 234 לומדים ביסודי, ו-74.6% מהכשלים בדרישת תיאום גבוהה חזרו היישר לכשל נוסף ללא התערבות ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre, Yuan and Geoffre (2026)]]). הסתגלות שנשענת על טיפוס לומד יציב משליכה את רוב האות; קריאת המצב שבו הלומד נמצא אינה עושה זאת.
 
-
 - **יותר משוב אינו משוב טוב יותר.** בקורס סטוכסטיקה מסתגל בן שמונה שבועות (194 סטודנטים), משוב מורה, אינפורמטיבי וטרנספורמטיבי אומצו באופן שונה, ומשוב טרנספורמטיבי היה קשור לעומס קוגניטיבי ולא לרגולציה טובה יותר — ההסתגלות חייבת להתאים לשלב ולצורך של הלומד, לא למקסם צפיפות משוב ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]]).
 
 - **פרופילי מעורבות כמטרות הסתגלות.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] עקבו 315 לומדים מקוונים שבונים 822 מודלים ב-VERA וסיווגו את המעורבות שלהם לפרופילי תצפית, בנייה וחקירה, ומוצאים שהלומדים נוטים להתקדם מהתנהגות ממוקדת-בנייה כלפי חקירה מלאה ומונחית-השערה בעוד שתצפית נמשכת לאורך שלבים. הם טוענים שעיצוב מסתגל ומותאם-אישית צריך לזהות את הפרופילים האלה ולכוון את המשוב (למשל, המלצה על מודלים דומים או תמיכה בהבנה קונספטואלית עמוקה יותר) כדי להזיז צופים ברמה שטחית כלפי מודלנציה מלאה ואינטגרטיבית יותר.
@@ -114,54 +115,3 @@ ai_assist:
 
 - דווחו את ההגדרה המבצעית של "מסתגל" לצד כל גודל אפקט שאתם מצטטים, משום שההגדרות בספרות מתפצלות והמספרים המאוגדים יורשים את העמימות הזו.
 - הבדילו בין קריטריון השליטה שלכם לבין תוצאות למידה בתוקף הפנימי שלכם. אם מדד התוקף שלכם הוא אותו אות שמניע את ההסתגלות, זו אינה ראיה בלתי-תלויה.
-
-## מושגים מקושרים
-
-- [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות בינה מלאכותית (מודלים, אימון מודל שפה גדול, רובוטיקה, RAG, סוכנות)
-- [[recommender-systems-and-learning-paths]]
-
-## מאמרים מקושרים
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: מערכת דירוג מסתגלת מודעת-תנע להערכה מותאמת-אישית
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — הכללה-יתר מרמה: שליטה מסתגלת עלולה לעצור תרגול לפני שהלומדים יודעים מתי לנהוג בחוסר-פעולה (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — סקירה שיטתית של מעורבות תלמידים בפלטפורמות למידה מסתגלות
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[chudziak-ai-math-tutoring-platform]] — הוראה פרטית למתמטיקה מסתגלת/מותאמת-אישית מרובת-סוכנים (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways among the leading higher-ed AI integration use cases
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Adaptive problem sequencing beats fixed sequencing: +0.156 SD on an unassisted exam, mediated by engagement rather than difficulty (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Strategy use is state-dominant (mean ICC 0.14), so static learner profiles discard most of the signal

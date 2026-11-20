@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -69,36 +71,3 @@ IRT [[educational-measurement]] और [[assessment-validity]] का आधा�
 - **"जिस बेंचमार्क को अधिकांश मॉडल पास कर लें, वह अच्छा बेंचमार्क है।"** मानक-संरेखित बेंचमार्क **संतृप्त** हो सकता है: NGSS-संरेखित मध्य विद्यालय और उच्च विद्यालय विज्ञान समुच्चयों पर **अधिकांश खुला-वज़न मॉडलों ने 90% से ऊपर स्कोर किया**, जिससे शास्त्रीय आइटम मीट्रिक कमज़ोर रह गए। संतृप्ति का अर्थ यह नहीं कि मॉडल उत्कृष्ट हैं; इसका अर्थ है कि आइटम अब विभेदन नहीं कर रहे।
 - **"आइटम कठिनाई आइटम की अंतर्निहित संपत्ति है।"** एक कारणिक प्रोब जिसने प्रति डेटासेट **50 परीक्षण प्रश्नों** को किसी परिकल्पना की ओर या उससे दूर **संपादित किया**, उसने पाया कि **कठिनाई-वृद्धि संपादनों ने GSM8K और BBH-structured पर औसत सटीकता 15.27 और 23.88 प्रतिशत-अंक घटाई**। कठिनाई आइटम और मॉडल के बीच का संबंध है, और आइटम बदलने पर वह बदलती है।
 - **"IRT केवल शिक्षार्थियों को स्कोर करने के लिए है।"** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] **पूर्व-परीक्षण लंगर आइटमों के साथ बेज़ियन पदानुक्रमित 2PL मॉडल** का उपयोग **1,686 छात्रों** को रखने के लिए करता है, जो मूल्यांकन के लिए ही गुणवत्ता-आश्वासन है, छात्र के स्कोरिंग के लिए नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## संबंधित लेख
-- [[explaining-question-difficulty-natural-language-2026]] — प्राकृतिक भाषा में IRT और कारणिक संपादन के माध्यम से एलएलएम प्रश्न-कठिनाई की व्याख्या (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — IRT कठिनाई और विभेदन क्षमता पर प्रश्न-लेखन दोषों का प्रभाव (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — छात्र क्षमता आकलन के लिए सहायक हस्तक्षेपों का कारणिक मॉडलिंग
-- [[assessment-latent-structure-human-llm-2026]] — क्या आकलन उपकरण मानवों और एलएलएम के लिए एक ही चीज़ मापते हैं? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — एआई-जनित परीक्षाओं का बड़े पैमाने पर IRT क्षेत्रीय सत्यापन
-- [[jin-glat-genai-literacy-assessment]] — GLAT IRT/2PL सत्यापन का उपयोग करता है (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — प्रश्न-कठिनाई का एलएलएम पूर्वानुमान
-- [[llm-psychometric-calibration-cdp]] — मनोमापीय अंशांकन के साथ एलएलएम आकलन का संरेखण
-- [[llm-difficulty-calibration-programming-exams-2026]] — प्रोग्रामिंग परीक्षाओं में एलएलएम कठिनाई अंशांकन
-- [[multimodal-item-parameter-estimation-2026]] — बहुमाध्यमी प्रश्न-पैरामीटर अनुमान
-- [[huang-interpretable-knowledge-tracing-2026]] — व्याख्या-योग्य ज्ञान-ट्रेसिंग
-- [[irt-human-genai-mcq-responses]] — मानव और GenAI बहुविकल्पीय उत्तरों को अलग करने के लिए IRT का उपयोग
-- [[razavi-powers-item-difficulty-llm-2026]] — एलएलएम और ट्री-आधारित एमएल का उपयोग करके प्रश्न-कठिनाई का अनुमान
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — आईडी एम्बेडिंग से आगे: संज्ञानात्मक निदान के लिए प्रक्रिया-आधारित भाषा मॉडलिंग
-- [[bayesian-consensus-irt-item-banks-2026]] — निरंतर विकसित होती IRT प्रश्न बैंक का बेज़ियन सहमति अंशांकन (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — क्षेत्रीय ऑडिट जो दिखाता है कि शिक्षक एआई साक्षरता उपकरणों में IRT/राश शायद ही कभी प्राथमिक सत्यापन प्रमाण के रूप में उपयोग होता है
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: एआई और मानव ट्यूटरिंग समकक्ष GRE सीखने की प्राप्ति देती हैं
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — प्रश्नों और ट्यूशन संवादों के लिए एकीकृत प्रतिक्रिया ढाँचा
-- [[llm-benchmark-secondary-science-topics-2026]] — मानक-संरेखित बेंचमार्क संतृप्त हो सकता है

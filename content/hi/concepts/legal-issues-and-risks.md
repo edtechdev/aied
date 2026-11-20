@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -94,43 +96,3 @@ ai_assist:
 **"पहचान वह साक्ष्य देती है जिसकी प्रक्रिया को आवश्यकता है।"** पहचान एक स्कोर देती है। साक्ष्य का प्रश्न यह है कि क्या आरोप को साक्ष्य से सिद्ध ही किया जा सकता है, और [[ai-detection|पहचान साहित्य]] दिखाता है कि उपकरण न तो वह विश्वसनीयता देते हैं, न ही वह व्याख्यायोग्य श्रेणी जो अनुशासनात्मक प्रक्रिया मांगती है। प्रक्रिया को डिटेक्टर पर खड़ा करना उसे सबसे कमजोर कड़ी पर खड़ा करना है।
 
 **"जोखिम काल्पनिक हैं, और नीति पीछे आ जाएगी।"** जोखिम अभी असमान रूप से वितरित हो रहे हैं, और उन्हें सहने वाले छात्र वही हैं जो किसी प्रक्रिया को चुनौती देने में सबसे कम सक्षम हैं। संस्थान की जाँच क्षमता और छात्र की प्रतिक्रिया क्षमता के बीच की असमानता भविष्य की नहीं, वर्तमान की हानि है।
-
-## संबंधित अवधारणाएँ
-
-- [[academic-integrity]] — वह आचरण ढाँचा जिसका प्रवर्तन जोखिम उठाता है
-- [[ai-detection]] — गलत-आरोप मामलों के केंद्र में यंत्र
-- [[remote-proctoring]] — मूल्यांकन में निगरानी और उसके डेटा-संरक्षण प्रश्न
-- [[assessment-validity]] — क्या साक्ष्य उससे बने दावे को स्थापित कर सकता है
-- [[privacy]] — छात्र डेटा का संग्रह, संरक्षण और आगे का प्रसंस्करण
-- [[regulation]] — विधिक और नियामक दायित्व जिन्हें संस्थाओं को पूरा करना होता है
-- [[governance]] — आंतरिक नीति-डिज़ाइन और प्रवर्तन की संगति
-- [[educational-policy-ai]] — संस्थागत AI नीति के रूप में अनैच्छिक जोखिम का स्रोत
-- [[ai-use-disclosure]] — प्रकटीकरण की अपेक्षाएँ और उनकी अप्रवर्तनीय सीमाएँ
-- [[accessibility]] — उचित समायोजन जहाँ नियम सहायक उपकरण हटा देता है
-- [[assistive-technology]] — अति-समावेश समस्या के केंद्र में उपकरण
-- [[neurodiversity]] — अत्यधिक व्यापक प्रतिषेधों के प्रति सर्वाधिक जोखिम में छात्र
-- [[equity-in-ai-education]] — पहचान और निगरानी का असमान बोज
-- [[student-experience]] — वह मानवीय लागत जो कानूनी लागत से पहले आती है
-- [[hallucination-risk]] — कल्पित प्राधिकार के रूप में व्यावसायिक और संस्थागत दायित्व
-- [[reducing-ai-misuse]] — आरोप का विकल्प — रोकथाम
-
-## संबंधित लेख
-
-- [[munoz-misconduct-allegation-evidence-2026]] — दुराचार-आरोप फाइलों में वास्तव में क्या साक्ष्य होता है, और प्राकृतिक न्याय की आवश्यकता
-- [[hadra-ai-detector-accuracy-efl-2026]] — डिटेक्टर सटीकता, संकर पाठ में विफलता, और EFL गलत-वर्गीकरण जोखिम
-- [[van-vlasselaer-ai-detector-reliability-2026]] — एक दूसरे संग्रह में पहचान उपकरणों की विश्वसनीयता
-- [[bassett-ai-detectors-education-2026]] — कोई भी पहचान दहलीज़ सही क्यों नहीं हो सकती: त्रुटि-व्यापार का तर्क
-- [[teichmann-detecting-undetectable-misconduct-2026]] — जब साक्ष्य अपहचनीय हो जाए तो दुराचार प्रक्रियाओं का पुनर्मूल्यांकन
-- [[wright-transcription-not-generation-2026]] — अति-व्यापक AI नियम, विकलांगता सुविधा और उचित समायोजन
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — दूरस्थ प्रॉक्टरिंग का मानचित्र, गोपनीयता और निगरानी चिंताओं के साथ
-- [[automated-online-exam-proctoring-decade-review-2026]] — स्वचालित प्रॉक्टरिंग अनुसंधान का एक दशक
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — AI युग में शैक्षणिक बेईमानी और प्रॉक्टरिंग
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — बचाव योग्य प्रवर्तन की पूर्व-शर्त के रूप में नीति की स्पष्टता
-- [[qian-governing-genai-higher-ed-policy-2026]] — अभिनव अमेरिकी विश्वविद्यालयों में नीति और सहायता पारिस्थितिकी तंत्र
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — खंडित शासन पर विशेषज्ञ आम सहमति
-- [[sharma-judgment-visible-genai-assessment-2026]] — निगरानी के बजाय दृश्य निर्णय के माध्यम से अखंडता
-- [[shin-ai-policies-sld-2026]] — विशिष्ट सीखने की अक्षमता वाले छात्रों के लिए नीति का शून्य
-- [[li-genai-assessment-language-equity-2026]] — नियम-डिज़ाइन की समस्या के रूप में भाषा समानता: सहायता–प्रतिस्थापन सीमा, अप्रत्यक्ष भेदभाव और पुनरावलोकन योग्यता (ली 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — अप्रत्यक्ष प्रॉम्प्ट इंजेक्शन द्वारा छात्रों का AI ग्रेडर पर हमला, बिना पकड़े बदली गई ग्रेड (हंबल 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — मूल्यांकन के प्रमाणीकरण के लिए शासन संकेतक और सुधार कार्यक्रम (कोट्स, क्राउचर और कैल्डरॉन 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 अमेरिकी शिक्षक: व्यक्तिगत नीतियाँ संस्थागत नीतियों से कहीं आगे, संरचनात्मक प्रतिक्रिया दुर्बल (वाटसन और रेनी 2026)

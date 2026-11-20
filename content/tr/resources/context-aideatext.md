@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,12 +48,3 @@ Bir okuma ya da problem seti üzerinde çalışan ve yanıtlanmak yerine sorgula
 ## Notlar ve uyarılar
 
 Öğrenciye dönük araç için yayımlanmış bir fiyat ya da hesap yok; kurumsal kurulum — bulut, yerinde ya da karma — ise özel bir teklif ve bir toplantı yoluyla sunuluyor; "ücretsiz"i Kasım 2026'da genel demonun durumu olarak ele alın, bir garanti olarak değil. Metin ve görüntüler Claude ile çalışan barındırılan bir hizmete gider ve sitenin kendisi kullanıcılara yüklemeden önce adları, tutarları, adresleri ve şirket adlarını ayıklamalarını söyler; bu, kimliksizleştirme yükünü platformdan yükleyen kişiye kaydırır. Oturumlar dışa aktarılmadıkça bir saat sonra kendini siler. Altındaki şirket ayrıca kurumlara daha geniş bir akıl yürütme grafiği değerlendirme platformu pazarlıyor ve tümdengelimsel, tümevarımsal, varsayımsal ve analojik grafikleri ayırt etme iddiaları dört referans metinden geliyor — site bunu bir gösterim olarak adlandırıyor ve ölçekte doğrulama henüz gelmedi.
-
-## Bağlı kavramlar
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

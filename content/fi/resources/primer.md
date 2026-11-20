@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -45,12 +46,3 @@ Opettajat, opetussuunnittelijat ja henkilöstön kehittäjät voivat kuvata oppi
 ## Huomioita ja varauksia
 
 Tekijät kutsuvat Primeria kokeelliseksi prototyypiksi eivätkä valvotuksi luokkahuonetuotteeksi. Sitä ei ole arvioitu oppimisinterventiona luokkahuoneissa, eikä kukaan ole tarkistanut sitä FERPA:n, COPPA:n, osavaltioiden opiskelijoiden yksityisyyslakien tai piirikunnan käytäntöjen varalta, joten oppilaitos, joka käyttää sitä opiskelijoiden kanssa, vastaa itse tästä tarkistuksesta. Ohjelmisto on MIT-lisensoitu ja ilmainen, mutta simulaation ajaminen vaatii mallipääsyn, joka maksaa. Koska se on malliriippumaton ja toimii paikallisilla tai avoimilla malleilla, se voidaan ottaa käyttöön siellä, missä yksityisyyssäännöt ovat tiukempia. Projektisivulta on linkki arkkitehtuuria ja kehotteita käsittelevään raporttiin. Repositoriossa oli 98 tähteä ja 16 forkia marraskuussa 2026 tarkistettaessa.
-
-## Liittyvät käsitteet
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

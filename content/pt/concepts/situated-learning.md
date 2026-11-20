@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -61,30 +63,3 @@ A aprendizagem situada se conecta de perto à [[embodied-learning|aprendizagem i
 - **"A autenticidade é uma propriedade da tarefa."** A autenticidade é uma relação entre a atividade e o trabalho legítimo de uma comunidade real. Uma tarefa pode ser elaborada e ainda assim ter forma escolar — avaliada por um professor, para uma nota, sem consequência no mundo que ela afirma representar.
 - **"Avaliação que emerge da tarefa significa ausência de avaliação."** Significa que o critério é o da comunidade, e não o da sala de aula: se o trabalho é aceitável para as pessoas que fazem o trabalho. Esse é um padrão diferente e geralmente mais rigoroso do que uma rubrica.
 - **"Aprendizagem requer um cenário físico."** O mecanismo é a participação periférica legítima — mover-se da borda de uma prática rumo ao seu centro com responsabilidade real. Ambientes on-line e simulados podem sustentá-la ou podem simular a periferia sem nunca conceder participação, e a diferença está em se a contribuição de quem aprende é de fato usada.
-
-## Conceitos conectados
-- [[learner-identity]] — identidades de quem aprende disciplinares, profissionais, criativas e acadêmicas em evolução
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — ambientes imersivos como rota para o contexto autêntico
-
-## Artigos conectados
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Cenários mais ativos reutilizáveis com proveniência superam um assistente simples em dois ensaios
-
-- [[vargas-situated-learning-ai-review-2024]] — Revisão sistemática PRISMA de aprendizagem situada e IA na educação (referência primária desta página)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs como agentes de desenho pedagógico iterativo

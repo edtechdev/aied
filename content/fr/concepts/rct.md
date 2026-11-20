@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -70,25 +72,3 @@ Pour un traitement plus complet du dispositif expérimental dans l'IA éducative
 - **« La randomisation garantit une estimation valide de ce que fait l'outil. »** La randomisation équilibre les facteurs de confusion ; elle ne garantit pas que quelqu'un ait utilisé le traitement. Un essai randomisé par groupe à faible taux d'usage estime **l'effet de l'offre** de l'outil, et l'intention de traiter et l'effet sur les traités répondent à des questions différentes.
 - **« Un grand essai est toujours le meilleur dispositif. »** Certains soutiennent que les essais conventionnels à grande échelle **ne peuvent pas suivre le rythme des plateformes de tutorat qui changent matériellement pendant une étude**, et recourent plutôt à des dispositifs pilotés par les enseignants qui restent valides à mesure que le système évolue. Un essai portant sur une cible mouvante peut être bien doté en puissance et mesurer néanmoins un système qui n'existe plus.
 - **« Les essais randomisés et les preuves observationnelles sont substituables. »** Un essai randomisé portant sur **1 174 participants** a constaté que l'IA générative **comblait environ trois quarts d'un écart de productivité lié à l'éducation** — une affirmation causale précise sur une période donnée. L'observation explique le mécanisme et l'adoption ; elle ne peut porter cette estimation, et l'essai ne peut en expliquer la raison.
-
-## Concepts liés
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — le dispositif derrière les preuves les plus solides en matière de soutien aux étudiants
-
-## Articles liés
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Le temps de préparation des leçons tombé à 0,76 celui du groupe de comparaison dans 108 écoles primaires, à 7 % de dose d'utilisation de l'outil
-
-- [[generative-ai-education-productivity-gaps]] — L'IA générative comble-t-elle les écarts de productivité liés à la formation ? Données issues d'une expérience randomisée
-- [[genai-can-harm-teaching-rct-2026]] — L'IA générative peut nuire à l'enseignement : un ECR
-- [[access-not-enough-ai-tutoring-2026]] — L'accès ne suffit pas : le soutien humain améliore l'engagement envers le tutorat par IA
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Évaluer le tutorat par IA au rythme de l'innovation : micro-essais randomisés menés par des praticiens d'une plateforme de tutorat par IA en sciences (GCSE)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Randomisation par groupe selon l'enseignant : une chute de 0,37 écart-type des notes finales et de 0,90 écart-type de la participation sur la plateforme, avec 15% d'adoption et une inférence sur 34 grappes (Liu et coll. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Un résultat mesuré après un délai, et non à la fin de la séance

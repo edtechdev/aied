@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -81,37 +83,3 @@ ai_assist:
 - **«Для ИИ в естественно-научном образовании нет причинных доказательств».** **Четырёхнедельная рандомизированная оценка** ИИ-платформы для повторения в науках GCSE даёт причинную оценку **Hedges' g = 0.33**, причём **нет свидетельств того, что эффект различался по предмету**. Эффект скромный, и он причинный.
 - **«Дайте студентам доступ, и прирост последует».** **Структурированный доступ, а не сам доступ, определяет прирост**: рост, о котором сообщают команды, составлял в среднем **17% при неограниченном индивидуальном доступе, но 34% и 31%, когда доступ был структурирован**. Вмешательством была структура.
 - **«Научная симуляция требует специализированного программного обеспечения».** **Промпт из четырёх элементов на естественном языке** может сгенерировать **управляемую руками симуляцию физики в дополненной реальности**. Порог для создания симуляции опустился до проектирования промпта, что переносит требуемый навык с программирования на спецификацию явления.
-
-## Связанные концепции
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Глава-рамка о научной грамотности как согласованности учебной программы, обучения и оценивания (Zhai et al. 2026)
-- [[ai-methodologies-science-education-research-2026]] — Семифазная рамка эпистемической итерации для рефлексии о том, как методологии ИИ могут трансформировать исследования в естественно-научном образовании (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Систематический обзор ИИ в естественно-научном и химическом образовании
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для обучения на основе исследования в STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Направляемое исследование фотосинтеза и дыхания с поддержкой ИИ
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Тексты концептуального изменения против диалога с ИИ по теплу и температуре
-- [[ai-grading-handwritten-physics-2026]] — Крупномасштабное ИИ-оценивание письменных работ по физике
-- [[avraamidou-ai-colonization-science-education]] — Критический комментарий об ИИ-колонизации естественно-научного образования
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Восприятие и принятие ИИ будущими преподавателями естественных наук
-- [[ai-assisted-inquiry-ssi-climate]] — Исследование с поддержкой ИИ социально-научных вопросов об изменении климата
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[laiskhanov-ai-gis-geography-education-2026]] — Общий комфорт с ИИ не переносился на готовность к GeoAI
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
-- [[ai-university-physics-education-review-2026]] — Структурированный командный доступ превзошёл неограниченный индивидуальный доступ в обзоре ИИ в университетской физике
-- [[genai-learning-motivation-meta-analysis-2026]] — Единственная область, мотивационный интервал которой пересекает ноль (g = 0.109, k = 3)

@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -51,7 +53,6 @@ updated: "2026-11-08T10:26:27-05:00"
 وقد ثبت أيضًا أن المؤسسية مستقلة عن المكانة (ارتباط الرتبة r ≈ 0.04)، مع تباين إقليمي دالّ (ANOVA F = 5.86، p < .001؛ أمريكا الشمالية M = 0.63 مقابل أوروبا 0.51، وآسيا 0.50) وتصنيف من ستة نماذج لا يبلغ فيه «المؤسسية العميقة» سوى مجموعة صغيرة من الجامعات الحكومية الأمريكية الكبيرة في الأغلب. ويُشير المؤلف إلى الفهرس بأنه مقياس من الجيل الأول غير مُتحقَّق منه وقائم على المواقع الإلكترونية وحدها للـ100 الأعلى تصنيفًا — خريطة مقارنة لا بطاقة أداء.
 
 وأيّ صور استخدام GenAI قد أضفت المؤسسة عليها الشرعية هو في ذاته قابل للقياس. فقد صنّف [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] 102 دراسة تجريبية في التعليم العالي بحسب كيفية توزيع العمل المعرفي بين الطالب والنظام، فوجدا أن تطبيقات المساعد (Assistant) والمُمكِّن (Enabler) تسود بنسبة (42.16%) و(42.16%) في حين لم تُشكّل المولّد والمتخيّل والمُركِّب معًا أكثر من خُمس المجموعة — لا لأن النماذج لا تستطيع البقية، بل لأن الصور الهامشية توزّع النَّسب بطرائق لا تعترف بها بعد منطقية الكفاءة الفردية في الجامعة. وعلى حسابهما فإن القيد الملزم على GenAI في التعليم العالي هو الشرعية المؤسسية لا القدرة التقنية، وهو ما يضع السؤال في أرض السياسة وإعادة تصميم التقييم نفسها التي تتناولها [[academic-integrity|النزاهة]] وإصلاح [[assessment]].
-
 
 وقد اختبر [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri and Biagini (2026)]] تصنيف التعليم العالي الرباعي لعام 2019 مقابل 228 منشورًا من 2019–2026، فوجدا أن 58.4% من التطبيقات الـ154 القابلة للتصنيف تقع خارجه، مضيفين دعم الطلاب المُمكَّن بالذكاء الاصطناعي، وتصميم المحتوى والتعليم، و[[learning-analytics|تحليلات التعلّم]] المؤسسية كمجالات وظيفية.
 
@@ -103,67 +104,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«تبنّي المؤسسات للذكاء الاصطناعي نضج.»** **الطبقة الرمزية مشبعة بينما الطبقة البنيوية رقيقة**: **100% منها لديها فريق عمل للذكاء الاصطناعي ودرجة ماجستير في الذكاء الاصطناعي، لكن 12% فقط لديها قيادة تنفيذية للذكاء الاصطناعي** و5% فقط تشترط خطوة مؤسسية أبعد. فالإعلانات سبقت البنى بمرتبة مقدار.
 - **«المكانة تتنبّأ بنضج الذكاء الاصطناعي المؤسسي.»** ثبت أن المؤسسية **مستقلة عن المكانة (ارتباط الرتبة r ≈ 0.04)**، مع **تباين إقليمي دالّ (ANOVA F = 5.86، p < .001)**. فالسمعة ليست وكيلًا عن الجاهزية، والجغرافيا تتنبّأ أكثر من المكانة.
 - **«توزيع الذكاء الاصطناعي للعمل المعرفي منتظم عبر المؤسسات.»** صنّف [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] **102 دراسة تجريبية في التعليم العالي** بحسب كيفية توزيع العمل المعرفي، والتباين هو النتيجة لا التفصيل.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — المستوى الذي أُنتج فيه معظم أدلة التسلسل المُختبَر
-- [[online-teaching-and-learning]] — التعليم والتعلّم عبر الإنترنت
-- [[generative-ai]] — تقنيات ونماذج الذكاء الاصطناعي التوليدي
-- [[llm]] — النماذج اللغوية الكبيرة
-- [[student-experience]] — تجربة الطالب مع الذكاء الاصطناعي في التعليم العالي
-- [[educational-development]] — تطوير أعضاء هيئة التدريس وجاهزيتهم للذكاء الاصطناعي
-- [[academic-integrity]] — النزاهة الأكاديمية في جسد طلابي قادر على استخدام الذكاء الاصطناعي
-- [[ai-literacy]] — ثقافة الذكاء الاصطناعي للطلاب وأعضاء هيئة التدريس
-- [[assessment-validity]] — صدق التقييم في عصر GenAI
-- [[educational-policy-ai]] — سياسة التعليم بشأن الذكاء الاصطناعي
-- [[regulation]] — تنظيم الذكاء الاصطناعي في التعليم
-- [[remote-proctoring]] — المراقبة عن بُعد ونزاهة الامتحانات المؤتمتة
-- [[self-directed-learning]] — التعلّم الموجَّه ذاتيًا مع الذكاء الاصطناعي
-- [[problem-based-learning]] — التعلّم القائم على المشكلات مع الذكاء الاصطناعي
-- [[teacher-role]] — دور المعلّم المتطوّر في صفوف الذكاء الاصطناعي
-- [[stakeholders]] — محور جامع: الناس والجماهير في تعليم الذكاء الاصطناعي (متعلّمون ومعلّمون ومصمّمون وإداريون وواضعو سياسات)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — الإرشاد والتواصل والإحالة وتخصيص الدعم — الجانب المؤسسي من نجاح الطلاب
-
-## المقالات المتصلة
-
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — إطار جاهزية أعضاء هيئة التدريس EPIQ-AI
-- [[ai-in-the-wild-college]] — AI in the Wild: استخدام طلاب الكليات للذكاء الاصطناعي
-- [[institutional-change-framework-ai]] — التغيير المؤسسي في عصر الذكاء الاصطناعي
-- [[genai-availability-grades-satisfaction]] — توافر GenAI ورضا الطلاب
-- [[ai-assessment-scale-reform]] — مقياس التقييم للذكاء الاصطناعي والإصلاح
-- [[universities-ai-era-rethinking]] — إعادة التفكير في الجامعات في عصر الذكاء الاصطناعي
-- [[teacher-ai-adoption-confidence]] — تبنّي الذكاء الاصطناعي بين المعلّمين
-- [[enright-staff-perspectives-genai-2026]] — وجهات نظر العاملين في GenAI في التعليم العالي
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — الدوافع التنظيمية لتبنّي الذكاء الاصطناعي في التعليم العالي
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — الذكاء الاصطناعي في تغذية الطلاب الراجعة: الأخلاقيات
-- [[beyond-detection-authentic-assessment-ai-2025]] — ما بعد الكشف: إعادة تصميم التقييم الأصيل في عالم يتوسّطه الذكاء الاصطناعي
-- [[genai-student-experiences-uk-he-survey-2026]] — تجارب GenAI بين طلاب التعليم العالي في المملكة المتحدة (مسح)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — المعلّمون مقابل أصحاب العمل في مهارات الذكاء الاصطناعي لخريجي الكليات
-- [[generative-ai-reduced-study-time-math]] — تراجع وقت الدراسة بنسبة 26.9% بين طلاب الكليات
-- [[ai-uk-higher-education-policy-2026]] — سياسة الذكاء الاصطناعي في التعليم العالي في المملكة المتحدة
-- [[ai-tools-academic-work-cheating-2026]] — أدوات الذكاء الاصطناعي والعمل الأكاديمي والغش
-- [[assessing-quality-ai-generated-exams-field-2025]] — تقويم جودة الامتحانات المولَّدة بالذكاء الاصطناعي: دراسة ميدانية واسعة النطاق
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — إعادة النظر في الامتحانات الشفهية كتقييم أصيل مقاوم للذكاء الاصطناعي
-- [[roe-assessment-twins-2026]] — توائم التقييم لتعزيز صدق التقييم في عصر GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — دراسة ظواهرية بنيوية لتصوّرات المعلّمين الجامعيين عن الذكاء الاصطناعي
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — التحوّل الرقمي لجامعة آداب حرة نحو نموذج كثيف البحث في عصر GenAI (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — مراجعة منهجية ترسم خريطة دمج الذكاء الاصطناعي في التعليم العالي عبر إطاري FACETS وSAMR (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — تجارب وتصوّرات المعلّمين الجامعيين في GAI: الهشاشة وإعادة التفكير في التقييم وتعلّم الطلاب في خطر (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — استخدام الباحثين بعد التخرّج لـGenAI في سير عمل البحث وتوجيهات موجّهة لثقافة الذكاء الاصطناعي (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — شدّة الانخراط كإشارة نمذجة متعلّم لتعليم أخلاقيات الذكاء الاصطناعي التكيّفي (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — تحوّل الكتابة المساعدة بالذكاء الاصطناعي فرق البحث نحو تعاونات أصغر وأكثر ميلًا للأعضاء المبتدئين وكثيرة الاستشهاد (Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس الخصوصي بالذكاء الاصطناعي والبشري يُنتجان مكاسب تعلّم مكافئة في GRE
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — سيادة صور المساعد والمُمكِّن في أبحاث GenAI في التعليم العالي؛ وأنواع التشابك الهامشية تبقى نادرة لأسباب مؤسسية لا تقنية (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — خريطة من جانب الطالب لنشر الذكاء الاصطناعي في القبول والمساعدة المالية وخدمات الطلاب وتقديم التعليم، مع فرز من أربعة أسئلة في المشتريات (Student Defense 2026)
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): فهرس مؤسسسة الذكاء الاصطناعي عبر 100 جامعة من أعلى الجامعات تصنيفًا؛ الخطاب يتقدّم على البنية، والتبنّي مستقلّ عن المكانة
-- [[airri-machine-resistant-reading-interface-2026]] — واجبات بصور مُشوَّشة رفعت فشل نماذج اللغة الكبيرة من 7.4% إلى 55.6%: تصميم المحتوى كمسار نزاهة
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — نظارات وأجهزة سمع ذكية تُبطل حظر الامتحان داخل القاعة: شفافية على الوجهين بلا إشارة نظرة أو جلسة
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — تصنيف وظيفي لتطبيقات الذكاء الاصطناعي في التعليم العالي، 58.4% منها خارج فئات 2019
-- [[ai-ethics-tensions-online-pedagogy-2026]] — اكتب توجيهًا خاصًا بالطريقة، لا سياسة ذكاء اصطناعي واحدة على مستوى الحرم
-- [[ai-literacy-determinants-university-students-2026]] — الموارد المدرَكة ودعم المعلّم فسّرا 29% من تباين ثقافة الذكاء الاصطناعي؛ والخصائص الديموغرافية لم تفعل
-- [[faculty-ai-well-being-social-supports-2026]] — موّل ثقافة الذكاء الاصطناعي، لا ثقة الأدوات فقط، لأعضاء هيئة التدريس

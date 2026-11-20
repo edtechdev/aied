@@ -14,6 +14,8 @@ ai_assist:
     role: drafting
     date: "2026-11-15"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 > **Synthesis:** AI in primary education is used mainly to differentiate practice in early literacy and numeracy, to draft materials for teachers, and to give children something to ask questions of. The best-controlled studies show small gains that depend on [[teacher-role|teacher]] orchestration rather than the model, and a trial built to isolate [[adaptive-learning|adaptivity]] found no advantage for it. This page covers what the evidence supports in tutoring, reading, writing, and [[ai-literacy|AI literacy]], and why class-level deployment changes what good practice means at ages five to eleven.
@@ -134,32 +136,3 @@ Primary education sits inside [[k-12]] and inherits its [[educational-policy-ai|
 - **"Children meet chatbots with healthy skepticism."** Trust formed quickly in the study above: a majority accepted the system's answers, and more than a third treated it like a teacher or a friend.
 
 - **"Young children receive an easier version of the same AI literacy syllabus."** What shifts across bands is the kind of task, not its difficulty: stories and making early, critique and accountability later.
-
-## Connected Concepts
-
-- [[developmental-psychology]] — why age changes what a task can ask, not just how hard it is
-- [[math-education]] — the discipline with most primary AI trials and the most null results
-- [[reading-education]] — fluency, decoding, and dosage effects in the early grades
-- [[writing-education]] — automated feedback, revision, and the limits of rubric scoring
-- [[digital-divide]] — device, connectivity, and skills gaps that decide who benefits
-- [[equity-in-ai-education]] — differential effects by income, language status, and rurality
-- [[teacher-role]] — orchestration, mediation, and the labor AI adds to a teacher's day
-- [[curriculum-design]] — sequencing AI literacy across year groups rather than adding a module
-- [[privacy]] — child data, retention, and architectural rather than contractual protection
-- [[assessment]] — what counts as evidence that a primary learner gained something
-
-## Connected Articles
-
-- [[ai-elementary-language-education-review-2026]] — 31 studies of AI in elementary language learning, concentrated on speaking, literacy, and vocabulary
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 K-12 studies organized into the PACES developmental framework
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — 16 interventions teaching AI itself, pooled at g = 0.892
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 primary studies; AI literacy as four unevenly taught strands, mostly assessed by survey
-- [[barokah-ai-elementary-science-review-2026]] — 103 publications mapping five application clusters in elementary science; epistemic outcomes thin
-- [[karampa-students-game-designers-ai-literacy-2026]] — 22 students build a misinformation escape game; AI literacy rises 3.684 to 4.309
-- [[llm-comparative-judgment-writing-screening-2026]] — 1,208 students in Grades 3 to 6, LLM pairwise scoring
-- [[melo-llm-classroom-observation-teach-2026]] — 8,618 AI evaluations against expert TEACH Primary ratings
-- [[age-tiered-ai-literacy-guidebooks-2026]] — age-tiered guidebooks, 831 participants; acceptance is not learning
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 6- and 7-year-olds show weaker frontoparietal connectivity than adults
-- [[tutor-case-bench-challenging-behaviors-2026]] — 923 documented cases; best model meets a documented response 55.8% of the time
-- [[llm-simulating-student-scientific-thinking-2026]] — simulated student ideas drift furthest from real ones in elementary grades
-- [[human-ai-complementarity-social-emotional-learning-2026]] — agents hold tone and procedure; educators lead on reflection

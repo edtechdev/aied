@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -78,38 +80,3 @@ ai_assist:
 - **«Литература по прокторингу устанавливает этику прокторинга».** Обзор **80 исследований** обнаружил, что **35% не раскрывали свой набор данных, 40% оценивали единственную модель, 30% не поддавались воспроизведению и лишь 25%** соответствовали планке отчётности. Доказательная база тонка именно там, где учреждению нужны ответы перед развёртыванием.
 - **«Приватность — галочка о соответствии, а не ограничение проектирования».** Практически каждый инструмент ИИ, который персонализирует, прогнозирует или оценивает, зависит от данных учащегося, что делает минимизацию данных проектным решением. Инструмент, которому нужны данные, не имеет необязательной настройки приватности; он имеет зависимость от данных, которую выбрал дизайн.
 - **Осведомлённость о практиках с данными не следует из их наблюдения.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] обнаружил, что **66% из 47 учеников седьмого класса** выбирали наименее защитный вариант у [[conversational-ai|чат-ботов]], читающих их письменные работы. Ещё **47%** отбрасывали алгоритмическое влияние как «просто забаву» — измерено **через месяц после** урока, на котором класс смотрел собственное залогированное поведение в прямой проекции, реагировал на него как на «жуткое», а несколько человек остались доделывать за платформой на перемене. Обучение приватности, которое делает механизм видимым, но не делает цену конкретной, оставляет позицию неизменной. Автор отмечает, что низкие результаты здесь могут быть **надёжнее высоких**, поскольку для этих пунктов нет социально ожидаемого ответа, тогда как ответственность и управление приглашают к правдоподобно звучащей реакции.
-
-## Связанные концепции
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — академические записи, обмен данными между подразделениями и федеративное моделирование риска
-
-## Связанные статьи
-
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: контекстные утечки на платформах ИИ-чата (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Федеративная и объяснимая аналитика обучения для моделирования академического риска с сохранением приватности (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — От аналитики обучения к образовательным вмешательствам: факторы, делающие возможными основанные на АО вмешательства (Svetec, Divjak & Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Долг агентной грамотности: структурный разрыв в ИИ-грамотности, порождённый автономными агентами (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: анонимизация и согласие для аутентичных данных обучения
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Федеративная когнитивная диагностика на базе LLM с сохранением приватности
-- [[agarwal-ethical-values-norms-aied-2026]] — Этические ценности и нормы для ИИ в образовании
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Что фиксируют системы прокторинга и отсутствие литературы по приватности в доказательной базе
-- [[edtech-privacy-deferral-2026]] — «Мы исправим это позже»: образование, ИИ и откладывание приватности студентов в сфере образовательных технологий

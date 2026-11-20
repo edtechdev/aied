@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -48,7 +50,6 @@ Il design thinking si colloca all'intersezione tra creatività, mestiere e criti
 - **Il design thinking come competenza dello studente in sviluppo.** L'[[genai-usage-design-students-survey|uso della GenAI da parte degli studenti di design]] al Politecnico di Milano ha riportato un uso molto frequente concentrato negli stadi iniziali, pesantemente improntati all'ideazione — eppure un'adozione elevata non riduceva la paternità percepita del progetto né la creatività, informando direttamente i dibattiti sull'[[ai-literacy]] e sull'[[academic-integrity]] a proposito della paternità d'autore e della trasparenza del processo.
 - **L'IA nella pedagogia del design e nei quadri per educatori.** Il design thinking struttura anche il modo in cui gli educatori costruiscono apprendimento supportato dall'IA. [[gaide-vibe-coding-k12-teachers|GAIDE]] offre un quadro fondato sul design thinking per gli insegnanti K-12 che creano strumenti basati sull'IA attraverso il [[vibe-coding|vibe coding]], elevando l'alfabetizzazione all'IA degli insegnanti e sostenendo l'apprendere creando come [[educational-development]] e [[professional-training]]. L'indagine [[dot-framework-survey-2026|DOT Framework]] (n=72) fonda il design thinking nella teoria dei sistemi aperti e ha rilevato che chi pratica usa frequentemente il prompting iterativo e la generazione di contenuti ma sottoutilizza l'analisi dei bisogni e i cicli di feedback — un divario tra pratica e teoria che rende operativa l'IA come collaboratore co-intelligente fallibile sotto la supervisione [[human-in-the-loop-ai]]. Persino [[social-robot-study-companions|co-creare robot sociali aperti]] con gli studenti ha applicato il Double Diamond (una variante del design thinking), riprogettando la costruzione attorno all'accessibilità così che la riparabilità e i principi dell'[[open-source]] diventino luoghi di apprendimento continuo.
 
-
 **La mentalità stessa è misurabile, e si muove lungo un programma.** [[design-thinking-aigc-fashion-film-2026|Liu et al. (2026)]] hanno validato cinque dimensioni della mentalità del design thinking in 409 studenti di fashion film che usano l'AIGC e hanno trovato gli studenti del terzo anno più alti su tutte e cinque, con il ragionamento abduttivo (0.865) e la fiducia creativa (0.760) come differenze standardizzate più ampie — un esito di [[design-education|formazione al design]] che le alternative generate da sole non dimostrano.
 
 ## Indicazioni pratiche
@@ -68,39 +69,3 @@ Nell'educazione all'IA il design thinking è profondamente intrecciato con la [[
 **"Il design thinking è un processo da automatizzare fase per fase."** È una disciplina di inquadramento e reinquadramento dei problemi, che è ciò che la fissazione preclude. Automatizzare le fasi lasciando la cornice inesaminata produce un output competente per il problema sbagliato.
 
 **"Gli agenti di IA che danno ragione allo studente offrono un [[student-support-and-success|sostegno]] al suo ragionamento progettuale."** L'uso produttivo documentato qui va nella direzione opposta: i [[ai-agents-constructive-conflict-design-education-2026|conflitti costruttivi con agenti di IA]] mettono alla prova un prompting avversariale che forza la riconsiderazione. Un agente compiacente rafforza la fissazione; uno orientato al dissenso è il progetto che ha una pretesa educativa dietro di sé.
-
-## Concetti collegati
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Articoli collegati
-
-- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026

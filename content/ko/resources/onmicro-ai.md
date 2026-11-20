@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,8 +49,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 무료 등급은 AI 크레딧 10,000개와 앱 3개로 제한되며, 무제한 앱과 고급 모델은 Pro 등급부터 시작하고 LTI 연동, 싱글 사인온, 고급 분석은 Enterprise 등급에 포함되어 있어, 기관이 가장 필요로 하는 기능에 가격이 붙어 있습니다. 저장소는 `LICENSE` 파일에 따라 **AGPL-3.0**으로 라이선스되어 있으며, 이 변경 이전의 README에는 여전히 LGPL이라고 적혀 있으므로 자체 호스팅이나 수정을 고려하는 사람은 README가 아니라 라이선스 파일을 읽어야 합니다. 또한 기관은 학생 작업물을 호스팅된 서드파티 서비스로 라우팅하기 전에 자체 데이터 처리 약관을 확인해야 합니다.
-
-## 연결된 개념
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

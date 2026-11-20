@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -110,66 +112,8 @@ Di luar konten dan keyakinan, persiapan guru makin banyak memakai **kelas simula
 
 Karena sebuah model memperkuat PCK pribadi yang sudah dimiliki guru, pemula adalah kelompok yang paling terpapar nasihat spesifik-mata-pelajaran yang percaya diri tetapi tidak berdasar, yang menjadikan mentoring dan verifikasi departemen sebagai obat perkembangan alih-alih modul literasi AI individual ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
-
 ## Miskonsepsi Umum
 
 - **"Penerimaan AI di kalangan calon guru adalah satu sikap tunggal."** **128 calon guru** diprofilkan ke dalam empat kelompok penerimaan ChatGPT termasuk **Skeptis yang Menolak (14.06%), yang melaporkan kemudahan penggunaan tinggi tetapi niat berperilaku sangat rendah**. Kemudahan penggunaan dan niat terpisah dalam kelompok itu, sehingga intervensi yang digerakkan [[usability-research|kegunaan]] akan membiarkan mereka tidak berubah.
 - **"AI membantu calon guru terutama dalam pengetahuan konten."** Sebuah **tinjauan lingkup atas 55 studi** menemukan AI meningkatkan **desain instruksional, pengajaran mata pelajaran, dan pengajaran praktis** — kapasitas desain dan praktik, bukan keahlian konten.
 - **"Tinjauan lingkup atas 55 studi menetapkan manfaat."** Ia mendokumentasikan apa yang dilaporkan di seluruh bidang. Keluasan peningkatan yang dilaporkan adalah klaim tentang konsensus literatur, dan 55 studi dalam tinjauan lingkup bukan ukuran efek gabungan.
-
-## Konsep terkait
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
-
-## Artikel terkait
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — AI dalam pendidikan guru: kerangka pedagogis, bukti empiris, dan etika, 2020-2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — Bagaimana pengembangan profesional terpandu AI generatif mendukung keterlibatan guru dengan kreativitas matematis, pengetahuan konten, dan pengetahuan konten pedagogis
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Calon guru bahasa Inggris menyusun kebijakan AI kelas: penggunaan yang diizinkan, dibatasi, dan dilarang (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 calon guru: adopsi GenAI yang dangkal, kecemasan integritas, dan literasi penilaian yang tidak ikut berpindah
-- [[pishtari-teacher-ai-training-learning-design-2026]] — Dukungan dan pelatihan chatbot AI dalam desain pembelajaran guru
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pengetahuan AI pedagogis sebagai tuas prioritas bagi pembelajaran profesional guru (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Penggunaan GenAI yang bertanggung jawab oleh calon guru: implikasi kurikulum (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Tinjauan lingkup AI dalam pengembangan guru prajabatan
-- [[designing-ai-professional-development-itpack-2026]] — Kerangka pengembangan profesional berbasis Intelligent-TPACK
-- [[human-centered-ai-teacher-educators-2026]] — Pembelajaran profesional untuk literasi AI kritis pada pendidik guru
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK spesifik GenAI dalam pendidikan guru
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Pengetahuan AI guru dalam perencanaan pembelajaran GenAI
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI menurut pengalaman mengajar dan kemahiran AI dalam desain pembelajaran (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Kesiapan intelligent-TPACK prajabatan
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK dalam pendidikan guru matematika
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Domain etika dan kepercayaan guru dalam jabatan
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Robotika micro:bit dalam pelatihan guru awal
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Penilaian autentik yang dimediasi AI dalam pendidikan prajabatan
-- [[science-educators-ai-literacy-postqualification-2026]] — Literasi AI pendidik sains dan program pascakualifikasi
-- [[context-based-ai-secondary-chemistry-2026]] — Pengajaran 7E berbasis konteks + AI dalam kimia menengah
-- [[educasim-cs1-instructional-practice]] — EducaSim: simulakra interaktif untuk praktik instruksional CS1
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Profil penerimaan ChatGPT calon guru
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivasi untuk membentuk masa depan pendidikan dengan AI
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Inkuiri terpandu berbantuan AI dalam pendidikan guru sains
-- [[reflective-triangle-model-teacher-ai-2026]] — Model Segitiga Reflektif: AI sebagai mediator kognitif
-- [[sahab-model-genai-constructivist-id-2026]] — Model SAHAB: desain instruksional konstruktivis GenAI
-- [[riandi-teacher-ai-green-energy-education-2026]] — Keterlibatan guru dalam integrasi AI untuk pendidikan energi hijau (Riandi et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Penggunaan GenAI, etika, dan kebijakan secara longitudinal dalam pendidikan guru (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Model kelas pintar dan lingkar D-T-E meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — Evaluasi kolaboratif guru atas konten hasil AI sebagai pengembangan profesional (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Perbandingan kampus versus jarak jauh atas TPACK dan tingkat pelatihan terkait AI pada 186 calon guru sains
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — menelusuri calon guru membangun batas AI dalam etnografi literasi satu semester
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — GenAI tanpa scaffolding menurunkan kualitas rencana pembelajaran calon guru di bawah kelas tanpa genAI
-- [[capability-decision-model-teacher-readiness-2026]] — Ukur kapabilitas, bukan kepercayaan diri
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Model dua lapis heutagogis yang menghubungkan regulasi reflektif guru sendiri dengan agensi pembelajar
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Guru K-12 belajar membaca riset AI primer dan menantang mandat distrik
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Calon guru sebagai pembelajar: kelompok yang tidak sepakat tentang energi menjadikan AI pusat percakapan konseptual, kelompok yang sepakat memperlakukannya sebagai alat pencarian dan menolak dorongan proaktif (Wang et al. 2026)
-- [[webb-pck-genai-2026]] — Mengapa model memperkuat PCK tipis seorang pemula, dan mengapa obatnya bersifat kolektif alih-alih modul literasi AI (Webb et al. 2026)

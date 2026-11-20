@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -95,34 +97,3 @@ ai_assist:
 **"AI가 자녀의 학습을 해치면 부모가 알아차릴 것이다."** 부모는 그것을 알아차리기에 가장 불리한 위치에 있습니다. [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]]의 자료에서 숙제 점수는 6개월 안에 **18%** 올랐지만 [[summative-assessment|폐쇄형 시험]] 점수는 **20%** 떨어졌으며, 집에서 보이는 숫자는 오르는 쪽입니다. 숙제를 지켜보는 부모는 향상이 보이는 동안 지속적인 결과는 하락하는 것을 봅니다.
 
 **"가정에서의 AI 사용은 부모 허가의 문제다."** 그것은 리터러시와 옹호의 문제입니다. 부모 자신의 AI 리터러시가 학교가 지급한 도구에 대해 무엇을 심문할 수 있는지를 결정하며, 가족 간 접근 불평등은 어떤 아이가 성인의 중재를 받는지를 형성합니다.
-
-## 연결된 개념
-
-- [[developmental-psychology]]
-- [[stakeholders]] — AI 교육에서 청중과 행위자들을 위한 총칭 페이지
-- [[early-childhood-elementary-ai-education]] — 가정과 가족 사용이 가장 많이 연구되는 발달 영역
-- [[ai-use-disclosure]] — 공개 실천과 무엇이 가족에게 도달하는지의 질문
-- [[ai-literacy]] — 부모 자신의 역량과 그것을 정의하는 학교 구축 틀
-- [[equity-in-ai-education]] — 혜택과 부담이 가구들 사이에 어떻게 분배되는가
-- [[digital-divide]] — 가정에 적용되는 접근, 기술, 성과의 층들
-- [[conversational-ai]] — 가족 환경에서 AI가 취하는 지배적 형태
-- [[self-determination-theory]] — 가족 지도의 틀로서의 자율성 지원
-- [[cognitive-offloading]] — 의존적 대 자율적 오프로딩, 그리고 부모가 차이를 보지 못하는 이유
-- [[intelligent-tutoring]] — AI 매개 부모-자녀 tutoring 뒤에 있는 모델
-
-## 연결된 문서
-
-- [[ai-connectedness-adolescent-mental-health-2026]] — 청소년의 AI 연결성과 AI 유대가 충족되지 않은 양육자 인정을 대체할 때
-- [[paratutor-parent-child-tutoring]] — 중국 가정 수학 tuturing에서 23개 부모-자녀 쌍을 위한 역할 분리 LLM 지원
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 타이완의 초등학생 19명과 비교한 고정 또래 역할 동반자 대 교사
-- [[family-school-autonomy-support-genai-2026]] — 가정-학교 협력을 시험되지 않은 가설로 다루는 리뷰
-- [[raise-framework-ai-education-reporting-2026]] — 동의, 참가자 맥락, 접근의 형평성을 포괄하는 보고 의무
-- [[k12-teachers-ai-companion-literacy-2026]] — 관할, 부모, 아이들의 AI 동반자 관계에 관한 교사 33명
-- [[ai-play-framework-early-childhood-2026]] — 가족 중심 Hour of Code 행사를 통해 시험된 플러그를 뽑은 AI 리터러시
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 인터뷰 대상 중 부모, 비공식 환경에서의 도구 비용과 언어 장벽
-- [[creative-project-approach-ai-early-childhood-2025]] — 어린 아이들을 위한 물리적 에이전트, 비용·접근·프라이버시 주의와 함께
-- [[demir-akar-ai-media-literacy-children-2026]] — 4학년생 36명을 대상으로 한 데이터 프라이버시, 안전한 소통, 미디어 윤리에 관한 학교 프로그램
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 가정을 향한 단계들이 제거될 때 45%에서 83%로 오른 참여율
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 숙제 아웃소싱, 시험 점수 하락, 투입물 감시의 근거
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 연령 중립적 AI 리터러시 수준과 3단계 디지털 격차
-- [[llm-family-education-activity-theory-2026]] — 활동 이론의 렌즈를 통해 본 LLM 기반 가족 교육의 특성 규명: HCI 문헌의 스코핑 리뷰

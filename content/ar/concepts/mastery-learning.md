@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -56,7 +58,6 @@ ai_assist:
 
 يعتمد الإتقان كذلك على الاحتفاظ الدائم لا على أداء صحيح منفرد وحده. وتُحفّز علم المعرفة حول [[retrieval-spacing-interleaving|تدريب الاسترجاع]] ومنحنى النسيان ممارسة التباعد بعد بلوغ عتبة الإتقان. وتُنتج أنظمة التكرار المتباعد بالذكاء الاصطناعي مثل Memdora مواد تدريب عند لحظة القراءة وتقدّم تصنيفًا للتفاعلات الاسترجاعية المبنية معرفيًا، مُجدولةً بخوارزميات متقدمة، حتى يُعزَّز الإتقان المتحقق مع الوقت لا أن يُفقد في غضون ساعات. وتستند تلك التصاميم إلى [[cognitive-psychology|علم النفس المعرفي]] ومبدأ [[desirable-difficulties|الصعوبات المرغوبة]] لجعل جهد الاسترجاع نفسه جزءًا من عملية التعلّم. **لادّعاء الاحتفاظ الآن قياس، ونماذج الإتقان تُخفق فيه.** عند التدريب على الجلسة الأولى للتنبؤ بالأداء بعد أسبوع، قدّر نموذج العوامل الإضافية وBKT الأداءَ في الجلسة التالية تقديرًا زائدًا بنحو **58%** و**51%**، وBKT-النسيان بنسبة **47%**، ولم يعِد أيّها أثر التباعد المرصود عبر 88 مشاركًا يتعلّمون 48 زوجًا من الكلمات في ست جلسات. وقد جعلت الملاءمة الرجعية على مجموعة البيانات كاملة النماذج نفسها تبدو مقبولة (AUC 0.79 و0.77 و0.74)، فادّعاء الاحتفاظ في نظام إتقان لا يكون أقوى من طريقة تحقّقه ([[schuetze-knowledge-tracing-forgetting-2026|Schuetze وYan وCarvalho، 2025]]).
 
-
 وأخيرًا، يحذّر الدليل من افتراض أن الدعم المولّد بالذكاء الاصطناعي مفيد على نحو متجانس. ففي دراسة متعددة [[governance|المؤسسات]] لآثار متحركة مولّدة بالذكاء الاصطناعي لمبرمجين مبتدئين، كانت الفوائد متعلقة بالسياق وقصيرة الأمد، واختبر المتعلّمون متوسطو [[student-engagement|الانخراط]] انحدارًا في الأداء نُسب إلى كلف التنسيق — أثر على طريقة انعكاس الخبرة يُشدّد على الحاجة إلى تخصيص الدعم لحالة المتعلّم الراهنة بدلًا من تطبيق أداة تطبيقًا عامًا. وكذلك، يوضع المتصل النمائي لثقافة [[ai-literacy|الذكاء الاصطناعي]] في [[higher-ed|التعليم العالي]] الإتقان على أنه ليس مجرد تبَنٍّ طليق لأدوات الذكاء الاصطناعي بل تقدمًا عبر مراحل الاستخدام المستنير والنقدي، لكل منها استراتيجيات [[formative-assessment|تقويم]] تكويني خاصة بها. وتؤطر هذه النتائج معًا التعلّم القائم على الإتقان المُمكَّن بالذكاء الاصطناعي كنظام يجب أن يُعاير على المتعلّمين الأفراد، وأن يُباعد بصورة مستدامة، وأن يُقيَّم على كفاءة حقيقية لا على مُخرَج طليق.
 
 - **التعلّم القائم على الإتقان بالتحكم المشترك فعّال فقط بقدر استراتيجية المتعلّم في اختيار المهام.** قارنت دراسة محاكاة (1,000 [[simulating-students|متعلّم مُحاكى]] لكل تشغيل، ومعاملات AFM وBKT مُلاءَمة لسجلات MathTutor وDataShop الحقيقية) تسع استراتيجيات لاختيار المهام. وتتفاوت الفعالية بمرتبة من المراتب: فالاستراتيجية المتحفّظة «تقليل أسوأ خسارة» — اختيار المهارة التي يكون أسوأ خسارة إتقان فيها أصغر ما يكون — تُنتج تدريبًا مفرطًا بمقدار 30.28x في حل المعادلات (28.93x في تفسير الرسوم البيانية)، مقابل 1.73 ± 0.38 في المتوسط للاستراتيجيات الأخرى. وتُنقذ القيود النظامية الموجَّهة إنقاذًا جراحيًا: فقيود اختيار المهام تُقلّص التدريب المفرط إلى 12.88/14.46x، وانحياز اختيار المشكلات «تفضيل الأصعب» يُقلّصه إلى 1.98x (d كوهين = 1.86) — بينما لا تتأثر الاستراتيجيات الفعّالة سلفًا. والدلالة التصميمية: يجب أن تكون القيود واعيةً بالاستراتيجيات، تحمي منظّمي الذات المرضيين دون فرض كلفة على المنظّمين الجيدين، وإعادة التصميم بالمحاكاة أولًا تتجنب تعريض الطلاب لتدريب مفرط 30x لاكتشاف الإصلاح. ([[simulating-learner-task-selection]])
@@ -72,26 +73,3 @@ ai_assist:
 **«التعلّم القائم على الإتقان هو البيداغوجيا التي يتيحها الذكاء الاصطناعي أخيرًا.»** آلياته أقدم من الذكاء الاصطناعي بكثير — فقد صاغ بلوم إطاره قبل عقود — والذكاء الاصطناعي يُشغّلها بأتمتة قرارات التقويم والإيقاع لا بتحقيق تصميم كان مستحيلًا. وهذه إعادة التأطير مهمة لأن الأتمتة ترث اختيار القاعدة، والقاعدة هي حيث يسكن الحكم.
 
 **«التقويم الأكثر تواترًا في ظل الإتقان يجعل العتبة أكثر موثوقية.»** التواتر يحسّن التقدير ولا يصلح قاعدة سيئة التحديد. فإعادة حساب الإتقان أكثر من أحداث تتضمن عملًا مُساعَدًا تتقارب أسرع على الإجابة الخاطئة نفسها.
-
-## المفاهيم المرتبطة
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
-
-## المقالات المرتبطة
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge tracing overestimates next-session performance and misses the spacing effect (Schuetze, Yan & Carvalho 2025)
-

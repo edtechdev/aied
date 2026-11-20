@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -113,41 +115,3 @@ GenAI اور گروہی جانچ پر سب سے براہِ راست نتیجہ [
 **"AI سب سے زیادہ اُس وقت مدد کرتا ہے جب وہ گروہ کو مربوط کرتا ہے۔"** رابطہ سازی کی معاونت اور علمی معاونت مخالف سمتوں میں کھینچتی ہیں۔ تعاون کی رابطہ سازی کی قیمت کم کرنا گروہ پر معانی کے سودے کا دباؤ کم کر سکتا ہے، اور یہی وہ عمل ہے جس کا جانچ ہو رہا ہے۔ کارکردگی اور ضابطگی کا سودا مرکزی ڈیزائن کشیدگی ہے، عملدرآمد کی کوئی تفصیل نہیں۔
 
 **"گروپ ورک لوگوں کی وجہ سے مشکل ہے۔"** اِس کا کچھ حصہ کام کا ڈیزائن ہے، اِسی لیے AI مشکل کے پروفائل کو بدلتا ہے، اُسے محض آسان نہیں کرتا: جو ٹول سوالوں کے تیز جواب دیتا ہے وہ بدل دیتا ہے کہ گروہ اپنا وقت کس چیز پر صرف کرتا ہے، اور یہ بہتری ہے یا نہیں، اِس کا انحصار اُن مہارتوں پر ہے جنہیں پیدا کرنے کے لیے کام بنایا گیا تھا۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — ایک AI مشترکہ استعمال کرنے والے گروہوں کے لیے کردار کے اسکرپٹ
-- [[ai-education]] — تعلیم میں AI (چھتری اصطلاح)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## منسلک مضامین
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI کی وساطت والے گروہی جانچ میں طالب علم ایجنسی کے تین نمونے
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — جب AI گروہ میں شامل ہوتا ہے تو ابھرتی سیکھنے والے کی ایجنسی: حامی بمقابلہ مخالف شخصیات
-- [[genai-counter-learner-groupthink-2025]] — ایک AI ایجنٹ جو PBL ٹیموں میں گروہی سوچ کا توڑ کرنے کے لیے تنازعہ ڈالتا ہے
-- [[xu-genai-collaborative-space-2026]] — ٹیم میں مشترکہ بمقابلہ نجی GenAI رسائی
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — تعاون کے طریقے اور کام کی کارکردگی بمقابلہ خود ضابطگی کا سودا
-- [[golrang-propact-pair-programming-2026]] — ProPACT: جوڑی کو تجزیے کی اکائی ماننا، جوڑی پروگرامنگ میں
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — بین الشعبہ طالب علم ٹیموں میں مفروضوں کی نشاندہی کی AI ثالثی
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM بطور تنقیدی ساتھی: فعال تردید علمی تصادم بچاتی ہے
-- [[polished-artifacts-fragile-engagement-2026]] — چمکدار مصنوعات، نازک علمی شمولیت
-- [[breideband-community-builder-cobi-2026]] — گروہی تعاون کے لیے کلاس روم کی سطح کی گفتگو کا تجزیہ
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI بطور تعاون کا پیدگوجیکل ثالث
-- [[neurodivergent-computing-students]] — تعاونی سیکھنے کے لیے نیورو ڈائیورجینٹ طلبہ کی ضروریات
-- [[academic-league-of-ai-2026]] — AI تعلیم کے لیے جمہوری طالب علم حکمرانی اور منصوبہ جاتی ٹیمیں
-- [[teacher-student-agency-orchestration]] — حقیقی وقت میں استاد اور طالب علم ایجنسی کی مشترکہ ترتیب
-- [[dollinger-equitable-assessment-ai-2026]] — AI کے دور میں منصفانہ جانچ
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: کردار ادا کرنے اور بحث کے ذریعے گروہی اخلاقیات کی تعلیم، اخلاقی غور و فکر اور کھوج کے لیے

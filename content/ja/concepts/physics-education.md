@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -110,61 +112,3 @@ ai_assist:
 - **「学生は無批判に依存するほどAIを信頼している。」** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]は**50ポイントの信頼と有用性の隔たり**を見出しました。**91%が課題にAIを使う一方、それを信頼するのは41%のみ**です。広範な使用と低い信頼は共存しており、熱意を築くことを狙う介入は誤った変数に取り組んでいます。
 - **「物理の学生は一つの集団である。」** [[becker-chatgpt-typology-physics-2026|Beckerら]]は**1,189件の調査回答**から二つのプロファイルの類型を構築しました。**70%の「実用主義的ユーザー」と30%の「懐疑的非ユーザー」**です。単一の教室の方針は、正反対の立場を持つ二つの集団に仕えなければなりません。
 - **「使用と信頼の隔たりは、非合理である。」** 二つの数値は異なるものを測っています。ツールが仕事を終えるのに役立つかどうかと、それが正しくそうすると信じるかどうかです。学生は有用性と信頼性を区別しており、それは分析的に正しい区別であって矛盾ではありません。
-
-## 関連概念
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — 化学教育と AI: 実験室、形成的評価、LLM の限界、実験の哲学
-- [[biology-education]] — 生物教育と AI: 実験室の教育アシスタント、生物学における AI リテラシー、批判的思考、専門化された道具
-
-## 関連記事
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを用いたローカルAIによるオープン教育教材生成を物理教育に活用するアプローチ(Beznosko et al., 2026)
-- [[high-school-genai-acceptance-tam-physics-2026]] — Grade 10の物理におけるGenAIの受容をモデル化
-- [[genai-video-engineering-physics-workflow-2026]] — プロンプトから物理法則へ:工学物理教育のための生成AIワークフロー
-- [[wang-teacher-student-centered-agents-physics-2026]] — 教師中心と学生中心のプロンプトエンジニアリングによる物理エージェントの比較(Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — AIを用いて物理シミュレーション/仮想実験を迅速に生成する(Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS:物理における認知を活性化するAI拡張のフレームワーク
-- [[ai-grading-handwritten-physics-2026]] — 手書きの物理答案(オリンピック)のAI採点
-- [[zammel-mllm-kinematics-graph-grading-2026]] — 歪んだ運動学グラフでマルチモーダル採点システムをストレステスト:説明が支持していないグラフに満点を付与(Zammel et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — 素粒子物理教育におけるAI:研究課題と基礎的技能
-- [[mechanics-cognitive-diagnostic-physics-2026]] — 力学の認知診断:FCI、FMCE、EMCSを14目標の認知診断へと変換する(Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — 懐疑心か利便性か:指導前後における物理学生の大規模言語モデルに対する認識と利用
-- [[ai-assisted-physics-lab-report-assessment-2026]] — 物理実験レポートのAI支援評価:可能性、限界、授業実践への支援
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate:1,760ノードのカリキュラムグラフに対応づけられた1,834件のベンガル語中等物理QAペアと、小規模モデルの適応による性能向上
-- [[ai-university-physics-education-review-2026]] — 大学物理教育における人工知能:実証研究のシステマティックレビュー
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 物理問題の改訂に向けた構造化されたGenAIトレーニング:ランダム化比較試験(Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — 巧みに設計されたチューターが授業内のアクティブラーニングを上回った
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — エネルギーに関する事前概念が、グループネットワーク内でAIへの質問交渉が占める位置を決定した:メンバーの意見が食い違う場合は統合ハブ、一致する場合は質問してから読むという直線的経路(Wang et al. 2026)
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — 将来のエンジニアにおける利用パターンと知覚された支援

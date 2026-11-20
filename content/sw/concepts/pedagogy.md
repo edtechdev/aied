@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -101,53 +103,3 @@ Mwingiliano wa mwanafunzi na [[student-ai-interaction|AI]] unapaswa kusomwa kama
 - **"Mchango mkuu wa AI katika elimu ni wa kufundisha."** Mapitio ya PRISMA ya masudio 28 yaligundua AI mara nyingi iliimarisha **upangaji wa kufundisha na ubuni wa tathmini**; mchango ulio wazi zaidi ni **kuondoa kazi za kiutawala**, si kufundisha. Kesi iliyojengwa kuzunguka faida za kufundisha inajengwa juu ya tawi dhaifu la ushahidi.
 
 - **"Mafunzo ya ujuzi wa AI huhamia kiotomatiki kwenye ufundishaji bora."** Meta-analysis ya ngazi tatu ya **masudio 59 (ukubwa wa athari 172)** iligundua **uingiliaji unaozingatia maarifa (g ≈ .97)** ulizidi kwa uwazi mbinu zingine katika kuhamisha maarifa. Kuhamisha maarifa ni matokeo yaliyopimwa; iwapo yalifika kwenye mazoezi ni swali linalofuata.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-partnerships]] — Mahusiano ya Mbinu za Kufundisha
-- [[online-teaching-and-learning]] — Kufundisha na Kujifunza Mtandaoni
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — Sitiari na mifano kama mbinu ya kufundisha
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — Njia ya kesi na kesi tofauti kama mbinu za kufundisha
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — Zana za AI zilizofunzwa kufuata kanuni za mbinu za kufundisha
-
-## Makala Zilizounganishwa
-
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI kama mwasilishaji wa didaktiki-mbinu za kufundisha: mfano wa pande tatu wa mkufunzi–mwanafunzi–GenAI (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Mbinu za kufundisha kwanza, teknolojia pili' — TPAIK inazidi TAIK ya kiufundi kwa matokeo ya wanafunzi (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Mahusiano ya mbinu za kufundisha na AI ya kizalishaji
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — Jinsi mwongozo wa mafunzo unaunda athari za kujifunza za GenAI
-- [[generative-ai-guardrails-harm-learning]] — Mafunzo yenye vizuizi (dokezo-si-jibu) yanaondoa adhabu ya mtihani
-- [[agentic-ai-pedagogical-best-practice-2026]] — Mvutano wa uendeshaji otomatiki-dhidi-ya-kujifunza katika AI ya wakala
-- [[jeon-isd-agent-bench-2026]] — Kuweka wakala katika nadharia ya ubini wa mafunzo
-- [[ai-learning-tools-engineering-education-needs]] — Zana za kujifunza za AI katika elimu ya uhandisi
-- [[fowlin-operationalizing-learning-principles-ai]] — Kuweka kanuni za kujifunza katika utendaji na AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI na Mazoezi ya Ubini wa Mafunzo: Mapitio ya Kimfumo (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Mbinu za mafunzo katika uingiliaji wa ujuzi wa AI
-- [[cognitive-distribution-student-genai-interaction-2026]]: Mwingiliano wa mwanafunzi na AI kama mgawanyo wa kiakili unaobadilika, si utegemezi usiobadilika (53.3% upanuzi)

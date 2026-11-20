@@ -31,6 +31,8 @@ ai_assist:
 translation_of: concepts/student-support-and-success
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -112,53 +114,3 @@ translation_note: "Автоматичний переклад цієї англі
 **«Драбина результатів згортається: залученість — це утримання».** Кожна сходинка вимірює інше — згоду взяти участь, відповідь, стійкість, завершення — і програма може рухати нижчі сходинки, залишаючи вищі плоскими. Звітування про частку тих, хто відповів, як про успіх чинить саме цю підміну.
 
 **«Занепокоєння щодо справедливості — причина припинити використовувати дані».** Це причина діяти за оцінками обачно. Дія за прогнозом може розподіляти підтримку, а може розподіляти підозру, і ризик концентрується на студентах, яких модель класифікує найменш прихильно, — що робить засобом виправлення урядування використанням, а не відмову від вимірювання.
-
-## Пов’язані поняття
-
-- [[higher-ed]] — секторальне узагальнення, під яким сидить ця сторінка
-- [[student-experience]] — як ШІ впливає на власний досвід здобувача
-- [[learning-gains]] — чи відбулося навчання, інструкційний результат, який ця сторінка не вимірює
-- [[learning-analytics]] — прогнозування, раннє попередження та предиктивна аналітика
-- [[student-modeling]] — шар моделювання під прогнозуванням ризику
-- [[knowledge-tracing]] — дрібнозернисте оцінювання навичок та майстерства
-- [[recommender-systems-and-learning-paths]] — рекомендації курсів, ресурсів і шляхів
-- [[help-seeking]] — як здобувачі приходять до запитання про підтримку
-- [[well-being]] — психічне здоров’я кампусу, превенція та втручання
-- [[career-development-and-readiness]] — результат після завершення
-- [[administrator]] — роль, яка володіє і веде системи підтримки
-- [[stakeholders]] — хто має претензії на інституційні рішення щодо ШІ
-- [[change-management]] — підтримання програми після пілота
-- [[governance]] — політика та нагляд для інституційного ШІ
-- [[educational-policy-ai]] — політичний контекст для інституційного розгортання
-- [[equity-in-ai-education]] — кого система охоплює і кого вона пропускає
-- [[privacy]] — записи здобувачів, обмін даними та федеративні підходи
-- [[human-in-the-loop-ai]] — людське судження всередині автоматизованого потоку підтримки
-- [[rct]] — дизайн за найсильнішими доказами тут
-
-## Пов’язані статті
-
-- [[cefa-ai-learner-support-review-2026]] — 61-study review of AI-enabled learner support: adaptive systems and prediction dominate; transition phase and diverse learners are absent
-- [[mata-sustaining-ai-enabled-student-support-2026]] — чотирирічна рандомізована оцінка університетського чатбота підтримки: завершення завдань рушило, закінчення навчання і GPA — ні
-- [[chatbot-outreach-course-performance-2026]] — заздалегідь зареєстроване багатосеместрове випробування комунікаційного охоплення: вищі частки A/B, помірні зрушення DFW, один демографічний виняток
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4 500 синтетичних віньєток: обмежена чутливість до потреб здобувача та неузгодженість між моделями в рекомендаціях підтримки
-- [[sc2r-counterfactual-recourse-educational-2026]] — прогалина здійсненості: рекурс повинен бути здійсненним і перевірюваним, а не просто валідним за моделлю
-- [[fairness-theatre-early-warning-systems-2026]] — шість постфактум втручань у справедливість на системі раннього попередження від постачальника, побудованій із 168 550 записів
-- [[at-risk-students-ml-prediction]] — навчані класифікатори, що ідентифікують здобувачів до відпливу
-- [[predicting-attrition-competitive-programming]] — поведінкові логи плюс психографічне опитування, що прогнозують відплив
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — федеративне моделювання ризику між установами без обміну сирими даними здобувачів
-- [[precision-education-student-digital-twins-2026]] — цифрові близнюки та «превентивна успішність здобувачів» як бачення
-- [[learning-analytics-to-educational-interventions-2026]] — сім енейблерів для замикання петлі від аналітики до втручання
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — асистент, специфічний для курсу, націлений на зниження вартості запитання про допомогу
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — відгук на тьюторінг, перевірений окремо від навчання
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — шість поведінкових профілів, відображених на рекомендовані об’єкти навчання
-- [[trace-course-grade-prediction-2026]] — спільне прогнозування курсів і оцінок для планування
-- [[zhang-ml-student-progress-programming-2026]] — інтерпретоване прогнозування прогресу на рівні модулів
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 досліджень ШІ, лідерства та надання послуг у вищій освіті
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — таксономія з десяти доменів ШІ в освітньому лідерстві
-- [[students-at-stake-ai-deployment-risks-2026]] — поверхня ризику на боці здобувача: прийом і допомога, послуги для успішності здобувачів та викладання
-- [[ai-campus-wellbeing-tools]] — підтримка кампусного благополуччя, що охоплює превенцію та втручання
-- [[shastry-gray-empathy-offloading-2026]] — Four studies on empathy offloading: believing AI can supply emotional support lowers what people supply themselves (Shastry & Gray 2026)
-- [[coursegraph-cs-course-comparison-2026]] — еквівалентність курсів для переведення кредитів та мобільності
-- [[credentials-carry-evidence-ai-agents-2026]] — що означає запис про завершення, коли агент може зробити роботу
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Акчапінар (2026) — раннє прогнозування ризику обману з допомогою ШІ та компроміс порогу для комунікаційного охоплення з низькими ставками
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last

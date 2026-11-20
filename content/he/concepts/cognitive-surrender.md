@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -115,37 +117,3 @@ ai_assist:
 **"התיקון הוא AI טוב יותר, שכן כניעה נובעת משגיאות."** כניעה נובעת מה*מבנה* של האינטראקציה: מערכת שמייצרת תשובה סבירה ראשונה מסירה מן הלומד את ההזדמנות לייצר תשובה משלו. שיפור הדיוק מפחית את הנזק מתשובות שגויות ואינו עושה דבר לנטישת גיבוש השיפוט, שהוא הנזק שנשאר לאחר שהכלי נעלם.
 
 **"הוראת הערכה ביקורתית מספיקה."** היא הכרחית והיא מגיעה מאוחר מדי. ברגע שתשובה סבירה נמצאת על המסך, ההערכה הופכת לאישור, וזו הסיבה שספרות העיצוב כאן שמה את הניסיון של הסטודנט לפני הפלט של המערכת ולא בוחנת אותו בדיעבד.
-
-## מושגים מחוברים
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## מאמרים מחוברים
-
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory והחתימה הניסיונית של כניעה
-- [[generative-ai-reduced-study-time-math]] — החלפה ברמת אוכלוסייה ב-ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — מסגרת הכניעה/פריקת-העומס/הסוכנות בבתי ספר מגן-עד-תיכון
-- [[du-yuan-epistemic-dependence-2026]] — סיוע אינסטרומנטלי מול נושא-שיפוט
-- [[ai-advice-suppresses-ikt-suspension-2026]] — הקריסה של "אני לא יודע"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — מעורבות עצבית ומחברות
-- [[genai-thoughtless-use-self-directed-learning-2026]] — שימוש חסר-מחשבה ולמידה מוכוונת-עצמית
-- [[stamatoulis-genai-use-patterns-2026]] — הצטברות בעלת-אימות-נמוך מול אינטגרציה הערכתית
-- [[cognitive-washout-ai-skill-decay-2026]] — מה קורה אחרי ההתנתקות
-- [[ai-overreliance-complex-adaptive-system-2026]] — הסתמכות כתהליך אוכלוסייתי
-- [[brcic-effortless-trap-productive-struggle-2026]] — מיקום AI כך שהמשימה נשארת מאמצת
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — אימון כיול
-- [[family-school-autonomy-support-genai-2026]] — פריקת עומס תלויה מול אוטונומית
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — עוזר מעוגן-דף-עבודה הוריד את פריקת העומס במקום להעלות אותה, תנאי גבול לחתימת הכניעה (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — האצלה נטורליסטית של חיבור שלם: 15 מתוך 77 חיבורים נכתבו כולו על ידי המודל, 20 בקשות לחיבור שלם (Jelson et al. 2026)

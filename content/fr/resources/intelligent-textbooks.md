@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -101,16 +102,3 @@ un flux de travail de rédaction assez technique — MkDocs, Git et outillage d'
 peut constituer un obstacle pour certains enseignants. Au moment de l'ingestion, le registre des
 MicroSims n'est encore que sur la feuille de route, si bien que trouver une simulation existante
 précise repose sur la recherche et la navigation propres au site.
-
-## Concepts liés
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

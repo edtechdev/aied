@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -115,36 +117,3 @@ Le transfert des apprentissages est lié à la [[metacognition]] (auto-surveilla
 **« Le transfert vient de modèles plus capables. »** Le transfert vient des conditions qui le produisent — la généralité de la pratique, la variabilité des contextes et la mesure dans laquelle l'apprenant a lui-même généré le raisonnement. La capacité du modèle relève le plafond de la performance assistée et ne fait rien de particulier pour ce qui subsiste lorsque le modèle disparaît.
 
 **« Le guidage soutient toujours le transfert, donc plus de guidage vaut mieux. »** Un guidage qui accomplit le raisonnement se substitue au processus dont dépend le transfert. La distinction est entre une aide qui maintient l'apprenant producteur de l'étape suivante et une aide qui la produit à sa place — seule la première se situe du côté du transfert de cette ligne.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — Le résultat auquel ces séquences sont en fin de compte jugées
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — Échec productif
-
-## Articles liés
-- [[yan-agentivism-learning-theory-ai-2026]] — Une théorie d'apprentissage de niveau intermédiaire pour l'interaction humain-IA, avec quatre mécanismes et six propositions testables (Yan et Gašević 2026)
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Délestage cognitif sensible à la couche dans la rédaction assistée par IA générative (Chen 2026)
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Distinction performance-apprentissage et transfert durable
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — L'IA dans l'enseignement de la physique des particules : problèmes de recherche et compétences fondamentales
-- [[shi-genai-experiential-learning-management-education-2026]] — soutient que des simulations de classe protégées peuvent former des habitudes de décision qui échouent en dehors d'elles
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — La pratique orale assistée par IA a accru la volonté de communiquer avec des humains, mais aucune étude n'a observé de prise de parole humaine
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred : apprentissage augmenté par incarnation robotique fonctionnelle au bureau
-- [[cognitive-washout-ai-skill-decay-2026]] — Lessivage cognitif : l'intervalle qui suit le retrait de l'outil et un protocole de mesure sur 22 semaines (Yajee 2026)

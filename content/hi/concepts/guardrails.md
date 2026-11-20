@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -124,46 +126,3 @@ ai_assist:
 **"गार्डरेल की सीमाएँ ट्यून करने योग्य इंजीनियरिंग चुनाव हैं।"** सीमा एक नीति-निर्णय है जिसकी वितरणात्मक कीमत है। विषाक्तता कटऑफ को 0.3 से 0.7 करने पर लेबल किए गए प्रॉम्प्ट **35.62% से 12.4%** रह गए; एक घोटाला-डिटेक्टर पर इसने **15 झूठे अलार्म और 18 छूटे घोटाले 2 और 36** में बदल दिए। कोई कटऑफ समझौता नहीं हटाता; वह केवल तय करता है कि संस्था कौन-सी गलती पसंद करती है, और वह निर्णय संस्था का है, किसी डिफ़ॉल्ट स्थिरांक का नहीं।
 
 **"निष्पक्षता का ऑडिट गार्डरेल की पर्याप्तता से अलग मामला है।"** इनकार और सहायता के पैटर्न समान रूप से लागू होने पर भी लाभ असमान रूप से बाँटते हैं, और औसत हानि-दर छिपा देती है कि कौन-से छात्र उसे झेलते हैं। ऑडिटिंग गार्डरेल विनिर्देश का हिस्सा होनी चाहिए, बाद में सौंपा गया कोई अध्ययन नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-safety]] — वह लक्ष्य जिसे गार्डरेल लागू करते हैं
-- [[prompt-engineering]] — संकेत-दें-उत्तर-नहीं डिज़ाइन तकनीक
-- [[rag]] — एक गार्डरेल के रूप में ज्ञान-आधारन
-- [[human-in-the-loop-ai]] — शिक्षक QA और निगरानी
-- [[llm-training-and-fine-tuning]] — प्रशिक्षण/संरेखण परत
-- [[reinforcement-learning]] — सुरक्षित व्यवहार के लिए पुरस्कार-आकार देना
-- [[bias-mitigation]] — निष्पक्षता के लिए गार्डरेल का ऑडिट
-- [[ai-sycophancy]] — वह चतुराई जोखिम जिसका गार्डरेल को विरोध करना चाहिए
-- [[scaffolding]] — वह शैक्षणिक तंत्र जिसे गार्डरेल संरक्षित रखते हैं
-- [[socratic-method]] — एक संकेत-दें-उत्तर-नहीं अंतःक्रिया विधा
-- [[hallucination-risk]] — वह गढ़ना जोखिम जिसे गार्डरेल घटाते हैं
-- [[cognitive-offloading]] — वह अति-निर्भरता नुकसान जिसे गार्डरेल रोकते हैं
-- [[k-12]] — वह संदर्भ जहाँ गार्डरेल सबसे अधिक मायने रखते हैं
-- [[ethics]] — मानदंडीय आधार
-- [[governance]] — नीति परत
-- [[intelligent-tutoring]] — वे प्रणालियाँ जिन्हें संरक्षित किया जा रहा है
-- [[misconceptions]] — वह ज्ञान जिसे गार्डरेल की जाँच करनी चाहिए
-- [[trust]] — अच्छी तरह डिज़ाइन किए गए गार्डरेल का परिणाम
-- [[llm]] — वह मॉडल परत जिसे बाँधा जा रहा है
-
-## संबंधित लेख
-
-- [[reflection-agent-fidelity-career-2026]] — जहाँ जाँचा जा सकता है वहाँ निष्ठावान: यादृच्छिक परीक्षण में एक रिफ्लेक्शन एजेंट का उसके सिस्टम प्रॉम्प्ट के विरुद्ध ऑडिट
-- [[scaffolding-student-ai-dialogue-framework-2026]] — विद्यार्थी-एआई संवाद को संचालित करने के लिए SCAFFOLD ढाँचा, उसके कक्षा-पायलट सहित
-- [[generative-ai-guardrails-harm-learning]] — गार्डरेल पर विहित मानक क्षेत्रीय RCT
-- [[eduzone-llm-safety-k12]] — K-12 LLM सुरक्षा ढाँचा
-- [[eduguard-safe-rag-llm-tutor]] — ट्यूटरों के लिए RAG-आधारित सुरक्षा
-- [[paternalistic-filter-llm-history-education]] — पूर्वाग्रह के लिए गार्डरेल का ऑडिट
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-संरेखित मार्गदर्शित सीखना
-- [[tact-pedagogically-adaptive-esl-tutoring]] — वर्गीकरण-संरेखित पश्च-प्रशिक्षण
-- [[eduframetrap-llm-sycophancy-educational-safety]] — एक सुरक्षा जोखिम के रूप में चापलूसता
-- [[ai-tutor-authoring-promptdecipher]] — शिक्षक-संचालित QA
-- [[llm-unlearning-math-privacy]] — मॉडल-स्तरीय अनलर्निंग
-- [[pedagogical-safety-rl]] — शैक्षणिक सुरक्षा के लिए पुरस्कार-आकार देना
-- [[residencyrl-clinical-rl-training-2026]] — नैदानिक प्रशिक्षण में सुरक्षा-संरेखित RL
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — प्राथमिक गणित के लिए एक LLM ट्यूशन प्रणाली में नियम-मार्गदर्शित बनाम तद्काल स्कैफ़ोल्डिंग (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — डिज़ाइन द्वारा शिक्षणशासन: कम्प्यूटिंग शिक्षा में एआई के लिए एक ढाँचा
-- [[guardrails-ai-teaching-assistants-programming-2026]] — गार्डरेल या रुकावटें? प्रोग्रामिंग के लिए एआई शिक्षण सहायकों में शैक्षणिक शैली और संदर्भ जागरूकता के प्रभाव
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — वास्तविक कक्षाओं में अवलोकित 20 एआई उपकरणों में उत्पाद श्रेणी के अनुसार विद्यार्थी सोच के जोखिम में कैसे भिन्नता थी
-- [[ai-security-literacy-k12-framework-2026]] — AI सुरक्षा साक्षरता: पारिस्थितिकी-आधारित क्षमता ढाँचा और K-12 शिक्षण मंच

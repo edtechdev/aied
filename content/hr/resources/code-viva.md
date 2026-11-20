@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -40,7 +41,3 @@ Nastavnici na kolegijima programiranja koji žele dokaz da student može objasni
 ## Napomene i upozorenja
 
 Sve se odvija u pregledniku: kolegij stoji u lokalnoj pohrani s izvozom u JSON, pitanja putuju u dijelu poveznice koji preglednici ne šalju poslužiteljima, a odgovori se vraćaju samo kao kodovi koje studenti odluče poslati, pa nikakvi podaci o studentima ne dolaze do treće strane. Generator pitanja temelji se na pravilima, a ne na modelu. Prema vlastitim riječima alata njegov je čitač koda heuristički, pa neobično oblikovanje ili makronaredbe mogu sakriti funkciju, a ocjena može nagraditi poznavanje rječnika umjesto razumijevanja koda, zbog čega su ocjene prijedlozi koje nastavnik odobrava i zbog čega alat savjetuje da ulozi budu niske. Nijedna licencija ni izvorni repozitorij nisu objavljeni, a budući da poveznice nose pitanja, dosežu nekoliko kilobajta, dovoljno da se prelome u okviru poruke u sustavu za upravljanje učenjem.
-
-## Povezani pojmovi
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

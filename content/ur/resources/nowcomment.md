@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -47,12 +48,3 @@ NowComment متن، تصویر یا ویڈیو کو گفتگو کی سطح بن�
 ## نوٹس اور احتیاطیں
 
 اکاؤنٹس مفت ہیں، اور دستاویزات عوامی ہو سکتی ہیں یا مدعو گروپ کے ساتھ شیئر۔ AI ساتھی OpenAI کے بڑے لسانی ماڈلز پر چلتے ہیں، اس لیے منتخب عبارتیں اور سوالات پلیٹ فارم کی اپنی میزبانی سے نکل جاتے ہیں اور اس فراہم کنندہ کی شرائط کے تابع ہیں — ضلع کو نابالغوں کے ساتھ استعمال سے پہلے ڈیٹا پروسیسنگ کا انتظام پڑھنا چاہیے۔ نتیجہ ایک ٹوکن حد پر محدود ہے جسے سائٹ کہتی ہے وہ ابھی بڑھا رہی ہے، ساتھیوں کی ڈائریکٹری لاگ ان کے پیچھے ہے، اور AI کی سطحیں مصنوعات کا تیزی سے بدلنے والا حصہ ہیں: یہاں بیان کردہ ہر صلاحیت کو نومبر 2026 میں سائٹ کی حالت سمجھیں، طے شدہ خصوصیات کا مجموعہ نہیں۔
-
-## منسلک تصورات
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

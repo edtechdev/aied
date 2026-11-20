@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -78,36 +80,3 @@ Zwei weitere Stränge setzen die Grenzen der Rolle. [[pearls-epistemic-verificat
 **„Informationskompetenz ist eine einmalige Einführungssitzung.“** Sie ist Instruktion, nicht Assistenz: Die Fragen, mit denen Studierende ankommen, sind Evaluations- und Strategieprobleme — ist diese Quelle glaubwürdig, wie suche ich danach —, die lehrbare Fähigkeiten sind statt Transaktionen, die abzuschließen sind. Den Dienst als Assistenz zu behandeln, verwandelt ein Curriculum in einen Helpdesk und verliert die dauerhafte Fähigkeit.
 
 **„Wer für Verifikation zahlt, ist das Problem anderer.“** Die Beratungslast landet auf der Personalausstattung der Bibliothek, und die eigene Frage des Beitrags ist, ob es die Personalstärke übersteigt, Bibliotheken damit zu beauftragen. Mitgestaltung und Partnerschaft sind die Antworten, die die Literatur empfiehlt, gerade weil die Verifikationskosten real sind und auf eine Einheit fallen, die sie nicht budgetiert hat.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]]
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Verbundene Artikel
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Plattform für Seminare mit eingebetteter Bibliothekarin; 312 Beratungen, angeführt von Quellenevaluation
-- [[genai-academic-search-workshop]] — CHIIR-2026-Workshop zu GenAI und akademischer Suche; Vertrauenslücke der Bibliothekarin
-- [[maybee-disruptive-partnerships-sap-2025]] — Akademische Bibliothekarinnen gestalten KI-Kompetenz mit Studierenden als Partner mit
-- [[aarc-ai-research-competency-2026]] — Verifizieren, zitieren, reflektieren als lehrbare Forschungsverpflichtungen
-- [[pearls-epistemic-verification-2026]] — Verifikationsprotokoll mit sechs Dimensionen; Zugang und Legitimität als Tore
-- [[hingle-collaborative-ai-literacy-2025]] — Kollaboratives Lernen für KI-Kompetenz; Nutzen der Informationskompetenz überträgt
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instruierende bewerten Zuschreibung und verantwortungsvolle Nutzung am höchsten, lehren aber wenige von 26 Fähigkeiten
-- [[bird-multimodal-educational-literature-2026]] — Textkomplexitäts-Werkzeug gebaut für nicht-technische Nutzer wie Englischlehrkräfte und Bibliothekarinnen
-- [[cognitive-offloading-llm-synthesis-writing]] — Was Lernende auslagern, wenn KI Quellen für sie synthetisiert
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabrizierte und fehlerhafte Zitate als Verifikationsproblem

@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-09-23"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 **Vibes DIY** turns a description written in plain words into a working web app, then keeps changing it as the creator describes what to change next. Someone who wants a bingo card generator, a scoreboard, or a small practice tool can build one without [[vibe-coding|writing code]], share it by link, and let others remix it from a gallery.
@@ -40,8 +41,3 @@ It is a general-purpose builder rather than an education product: it is useful t
 ## Notes and caveats
 
 The platform has a free tier but it is credit-based: accounts get 1,000 AI credits a month, and building, editing, generating images, and in-app AI features all spend them. A subscription adds the option to buy more credits, which do not expire. Any course that intends to rely on the platform should check the current terms, since free usage is metered rather than unlimited, and should treat student-created apps as content with data-handling questions of its own.
-
-## Connected Concepts
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -91,30 +93,3 @@ ai_assist:
 **«Если изменить убеждения преподавателя, практика последует.»** Единица изменения больше человека. Вмешательства, меняющие нормы, распределение нагрузки и общие правила, меняют практику надёжнее, чем нацеленные на индивидуальное убеждение, потому что объект деятельности производится коллективно. Это объясняет и то, почему индивидуально воодушевлённые ранние последователи откатываются назад, когда их кафедра не движется вместе с ними.
 
 **«Теория деятельности — описательная линза без проектных следствий.»** Она направляет проектирование на противоречия между элементами системы — инструмент, конфликтующий с правилами, разделение труда, конфликтующее с объектом, — а именно там изменение действительно рычажится. Линза, локализующая противоречия, даёт вам место для вмешательства, а не только словарь.
-
-## Связанные концепции
-
-- [[sociocultural-learning]] — теоретическое семейство, к которому принадлежит теория деятельности (выготскианское, культурно-историческое)
-- [[learning-theories]] — хаб, помещающий теорию деятельности среди теорий обучения
-- [[distributed-cognition]] — общий акцент на опосредованном инструментами, контекстуально распределённом познании
-- [[situated-learning]] — общий акцент на контексте и участии в деятельности
-- [[agency]] — как ИИ перераспределяет человеческую агентность по системе деятельности
-- [[teacher-role]] — теория деятельности часто анализирует принятие и практику преподавателей
-- [[learning-analytics]] — CHAT закрепляет проектирование аналитики
-- [[generative-ai]] — артефакт ИИ, который входит в системы образовательной деятельности и разрушает их
-- [[technology-acceptance-model]] — противоположный индивидуально-установочный счёт принятия
-
-## Связанные статьи
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — Дисциплинарные различия в использовании GenAI и раскрытии через линзу теории деятельности
-- [[genai-runaway-object-math-higher-ed]] — CHAT-анализ того, как GenAI перестраивает системы деятельности преподавания и исследования
-- [[raffaghelli-situated-ai-ethics-2026]] — Ситуативная ИИ-этика, сливающая теорию экологических систем с CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Теория деятельности как линза на принятие ИИ преподавателями (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Перспективы преподавателей K-12 на использование ИИ через теорию деятельности
-- [[ai-disruption-engineering-education-chat-2026]] — Изменение студенческих норм в инженерном образовании через CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Перепроектирование профессионального развития преподавателей по схеме CHAT-SDT
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — Закреплённый в CHAT конвейер обучающей аналитики для ИИ-грамотности
-
-- [[llm-family-education-activity-theory-2026]] — Обзор 53 исследований HCI: LLM перераспределили образовательный труд в семьях, а правила в основном предвосхищались, а не вводились в действие
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI как медиационный агент: ни инструмент, ни коллега
-

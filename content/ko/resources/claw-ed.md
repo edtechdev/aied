@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,6 +48,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 이 소프트웨어는 무료이며 원본 코드는 MIT 라이선스 하의 [[open-source|오픈 소스]]이지만, 서드파티 구성 요소는 각자의 이용약관을 따르며, 호스팅 모델을 사용할 경우 직접 모델 추론 비용을 지불해야 합니다. 이 프로젝트는 스스로를 교사 검토 베타라고 부르며, README에서 CI 통과가 실제 모델 전반에 걸친 교수 품질을 입증하지 않는다고 솔직히 밝히고 있습니다. 이는 이 분야에서 녹색 테스트 스위트를 읽는 올바른 방식입니다. 즉 테스트가 검증하는 것은 소프트웨어이지 [[pedagogy]]이 아닙니다. 이 프로젝트는 MacxLabs가 유지·관리하며 교사가 검토한 샘플 수업을 기여물로 받습니다.
-
-## 연결된 개념
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

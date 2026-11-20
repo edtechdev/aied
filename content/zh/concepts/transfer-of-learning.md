@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -114,38 +116,3 @@ ai_assist:
 **"迁移来自更强的模型。"** 迁移来自产生它的条件：实践的一般性、情境的变异性，以及学习者自己在多大程度上生成了推理。模型能力抬高辅助表现的天花板，而对模型消失后剩下什么并无特别作用。
 
 **"指导总是支持迁移，所以指导越多越好。"** 代替学习者执行推理的指导，替代了迁移所依赖的过程。区别在于让学习者生成下一步的帮助，与替他们生成下一步的帮助，只有前者处在这条线的迁移一侧。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 这些序列最终大多据以评判的结果
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — 有效失败
-
-## 关联文章
-
-- [[yan-agentivism-learning-theory-ai-2026]] — 一个面向人–AI 互动的中程学习理论，含四项机制与六个可检验命题（Yan 与 Gašević 2026）
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 辅助写作中的分层敏感认知卸载（Chen 2026）
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 表现–学习之分与持久迁移
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向有效失败的 LLM 教学引导
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — 粒子物理教育中的 AI：研究问题与基础技能
-- [[shi-genai-experiential-learning-management-education-2026]] — 论证受保护的课堂模拟可能形成在课堂之外失效的决策习惯
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI 辅助口语练习提升了对人的交流意愿，但没有研究观察人的口语
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred：通过桌面功能机器具身实现增强学习
-- [[cognitive-washout-ai-skill-decay-2026]] — 认知冲刷：撤回之后的间隔，以及一套 22 周的测量方案（Yajee 2026）
-

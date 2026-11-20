@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -40,7 +41,3 @@ Die Einleitung der Sammlung rahmt einen Prompt als rhetorisches Genre mit einem 
 ## Was vor der Nutzung zu wissen ist
 
 Das gesamte Buch ist kostenlos in PDF und ePub, und einzelne Kapitel erscheinen gesondert mit eigenen DOIs. Die Veröffentlichung ist Juli 2026 beim WAC Clearinghouse in seiner Reihe WAC Repository, 402 Seiten, herausgegeben von Anuj Gupta und Brian Gogan, mit der Sammel-DOI 10.37514/TWR-B.2026.2999. Die Lizenz ist Creative Commons BY-NC-ND 4.0, sodass Lesende das Buch ansehen, persönliche Kopien drucken und darauf verlinken dürfen, es aber nicht auf einer anderen Website reproduzieren oder ohne Erlaubnis adaptieren dürfen; ein Kurs, der veränderte Prompt-Formulierungen will, sollte seine eigene Version schreiben statt diese nachzudrucken. Der Prompt jedes Kapitels wurde über Plattformen hinweg getestet, obwohl das Buch keinen kontrollierten Vergleich von Ergebnissen berichtet – behandeln Sie die Prompts also als Experten-Design statt als validierte Intervention.
-
-## Verbundene Konzepte
-
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

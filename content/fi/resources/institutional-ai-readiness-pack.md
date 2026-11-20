@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -38,6 +39,3 @@ ai_assist:
 ## Kenelle se on tarkoitettu
 
 Tutkimusjohtajille, komiteoille ja politiikkatoimistoille, jotka tarvitsevat näyttöön perustuvan kuvan siitä, miten tekoälyä käytetään ja [[governance|hallinnoidaan]] tutkimusympäristössä, ja tavan seurata [[change-management|muutosta]] ajan myötä. Se täydentää teosta *Responsible AI in Academic Research: A Competency Framework for Research Training*, joka määrittelee valmiuden viisi ulottuvuutta, ja sen on kirjoittanut Michael J. Zyphur, Instatsin johtaja.
-
-## Liittyvät käsitteet
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

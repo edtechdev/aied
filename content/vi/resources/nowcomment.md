@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -47,12 +48,3 @@ Giáo viên đang dạy đọc kỹ, nghiên cứu tài liệu hoặc phân tíc
 ## Ghi chú và lưu ý
 
 Tài khoản miễn phí, và tài liệu có thể công khai hoặc chia sẻ với một nhóm được mời. Các đối tác AI chạy trên mô hình ngôn ngữ lớn của OpenAI, nên những đoạn và câu hỏi được chọn rời khỏi máy chủ của chính nền tảng và chịu điều khoản của nhà cung cấp đó — một học khu nên đọc thỏa thuận xử lý dữ liệu trước khi dùng với người chưa thành niên. Đầu ra bị giới hạn bởi một hạn mức token mà trang nói vẫn đang mở rộng, danh mục đối tác nằm sau đăng nhập, và các bề mặt AI là phần thay đổi nhanh của sản phẩm: hãy coi mọi năng lực mô tả ở đây là trạng thái của trang vào tháng 11 năm 2026, không phải một bộ tính năng đã ổn định.
-
-## Khái niệm liên quan
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

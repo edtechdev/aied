@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -57,31 +59,3 @@ Psikometrik bilinçli YZ, [[educational-measurement]], [[assessment-validity]], 
 - **“İyi puan alan bir model aynı şeyi ölçüyordur.”** **Aynı değerlendirme aracında** insan ve LLM yanıt yapıları **ayrışır**; bir model iyi puan alırken aracın amaçladığından farklı bir şeyi ölçüyor olabilir. Puanların örtüşmesi gözlemdir; yapı eşdeğerliği ise yapı düzeyinde kanıt gerektiren ayrı bir iddiadır.
 - **“Kalibrasyon tek bir doğruluk sayısından okunabilir.”** **Tek bir doğruluk sayısı, yalnızca kalibre görünen bir modeli gizleyebilir**: GPT-4o ve Gemini 2.0 Flash’tan **153 lisans öğrencisinin** diyaloglarından öğrenme stili boyutlarını çıkarmalarını istemek, **dengeli ölçütler altında farklı davranan orta düzeyde doğruluk** üretmiştir. Toplam doğruluk, dengeli ölçütlerin açığa çıkardığı bir farkı gizlemiştir.
 - **“Otomatik puanlama hatları psikometrik prosedürü yeniden üretemez.”** Yazarlar yerleşik bir hattı otomatik biçimde yeniden üretmiştir (**alt kesim için en az 7 rubrik maddesini, üst kesim için en az 10’unu doğru yanıtlama olasılığı olarak %67**) ve böylece YZ ile insan madde puanlarının aynı zeminde karşılaştırılmasına izin vermiştir. Prosedür yeniden üretilebilirdi; yapı sorusu ise açık kalır.
-
-## Bağlı kavramlar
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Bağlı makaleler
-
-- [[genai-reliance-scale-problem-solving-2026]] — Öğrencilerin problem çözmede üretken YZ’ye bel bağlaması için doğrulanmış bir ölçek (Hou ve ark. 2025)
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Sınıf başına geri çağırma denetlendiğinde orta düzeydeki doğruluk çoğunluk-sınıfı yordamasıydı (Zamanifard, Goudarzi ve Robb 2026)
-
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski ve ark. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -47,9 +48,3 @@ Forskningsdatagrupper og sentral IT med eksisterende GPU-kapasitet, sentre for u
 ## Merknader og forbehold
 
 Gratis og åpen kildekode under Apache-2.0, men kostnaden flytter seg i stedet for å forsvinne: maskinvare, strøm og personaltiden med å drive en klynge. Programvaren er ung etter infrastrukturmålestokk – tre bidragsytere, én opprinnelig institusjon og utgivelser nummerert i hundrevis av tagger – så et college bør pilotere den ved siden av en eksisterende tjeneste snarere enn som den eneste veien til en modell. Publisert evaluering av planleggings- og kvotatferden under reell campuslast finnes ikke i repoet; PEARC-artikkelen er stedet å lete for forfatternes egen redegjørelse.
-
-## Tilknyttede begreper
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

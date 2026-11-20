@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -74,7 +76,6 @@ Kavramsal bir yeniden çerçeveleme, [[self-regulated-learning|duygu düzenlemes
 
 **Sinyal olarak sürtünme, anlam ve yalnızlık.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom ve Inzlicht (2026)]], iyi olma hali davasına bir mekanizma verir: çaba, eylemlerimizin önemli olduğunu sinyaller; bu nedenle bir göreve doğru çalışan insanlar daha yetkin hisseder, ürünü daha çok değerlendirir ve onu daha amaçlı görür — ve nesnel olarak anlamsız görevlerde bile, sürtünme eklemek algılanan anlamı yükseltir. İlişkiler üzerine yalnızlığı bir ağrı (kardiyovasküler hastalık, demans, felç ve erken ölümle bağlantılı) olarak değil, açlık veya acıya benzer bir **[[biology-education|biyolojik]] sinyal** olarak ele alır: dışarıya ulaşmayı, davetleri kabul etmeyi, mevcut ilişkilere yatırım yapmayı ve zor sohbetlere tahammül etmeyi motive eden bir rahatsızlık. YZ arkadaşları bu rahatsızlığı yatıştırabilir; yazarlar bunu bazı durumlarda gerçek bir ilerleme olarak görürken, aynı zamanda bağlantıyı yönlendiren sinyali de susturduğunu belirtir — ve argümanı aşamaya göre ılımlı kılarlar: koşullar gereği yalnızlaşan, seçim gereği değil, insanlar için bu tür teknolojilere erişimi reddetmenin "zalim olacağını" savunurlar ([[motivation]], [[social-emotional-learning]]).
 
-
 Duygusal destek ile bağlantı tek bir örneklem içinde zıt yönlerde hareket edebilir. 819 Suudi yükseköğretim öğrencisi arasında sohbet robotlarından memnuniyet ortalama 4,29, araçlara ilişkin deneyimleri 4,19 iken sohbet robotlarının insan bağlantısını azalttığı kaygısı 4,36 ile en yüksek puanlanan yapı oldu ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Bu kaygı memnuniyetle düşmek yerine deneyimle birlikte yükseldi (standartlaştırılmış katsayılar .11'e karşı .64).
 
 ## Yaygın yanlış anlamalar
@@ -82,45 +83,3 @@ Duygusal destek ile bağlantı tek bir örneklem içinde zıt yönlerde hareket 
 - **“Öğrenci onayı, iyi olma halinin desteklendiğini gösterir.”** **551 birinci yılı öğrencisi** arasında **%82,76'sı dijital ve akıllı içeriğin bütünleşmesini onayladı** ve **yüksek onay sıkıntıyla bir arada bulundu, YZ görev baskısı ise yararı zayıflattı**. Onay ile sıkıntı birlikte yükselir, bu nedenle memnuniyet anketleri tam da burada yanıltıcıdır.
 - **“Refah desteği kültürel olarak nötrdür.”** [[culturally-aware-student-stress-chatbot-2026|Bashir ve Afzal (2026)]], hibrit bir iyi olma hali destek aracı olan Sukoon'u **kültürel olarak durumsal** olarak tanımlar ve sayfanın kendi çerçevelemesi sınırlarını not eder. Evrensel bir öğrenci varsayan bir destek tasarımı nüfusu yanlış okur.
 - **“Görev baskısı teknolojiden ayrıdır.”** Bulgu, YZ **görev baskısının** bütünleşmenin yararını zayıflattığıdır; bu da iş yükünü teknolojinin etkilerinin yanında değil içinde konumlandırır.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen yönelimli kavramlar için şemsiye
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — danışmanlık, ulaşım ve yönlendirmeyi kapsayan kampüs destek hizmetleri
-
-## Bağlı makaleler
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 öğrenci sohbet robotlarını yüksek puanladı ve en çok insan bağlantısının kaybından korktu
-
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Biyolojik sinyal olarak sürtünme, anlam ve yalnızlık
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — YZ Kaygısı ile Akademik Motivasyon Arasındaki İlişki
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — YZ Destekli Japonca Dil Öğreniminde Psikolojik Uyumun Profilleri ve Geçişleri
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Söyleşi YZ Etkileşimi ve Bağımlılığının Eleştirel Anlatı Sentezi
-- [[mindful-llm-math-tutoring-2026]] — Problem Çömen Öteye Geçmek: Matematik Öğreniminde Duygusal ve Yansıtıcı Destek için Büyük Dil Modelleri
-- [[sec-ai-literacy-narrative-review-2026]] — Sosyo-Duygusal Yetkinlikleri YZ Okuryazarlığına Bütünleştirmek
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Öğrencilerin Üretici YZ ile Etkileşimi (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — YZ Okuryazarlığı için Öğretmen Eğitimi (SDT)
-- [[genai-motivation-engagement-2026]] — Üretici YZ, Motivasyon ve Katılım
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — YZ Sohbet Robotları, Toplu Yeterlilik ve İşbirliği
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Öğrenci Kaygısının LLM Destekli Değerlendirilmesi (2026)
-- [[policy-deficit-ai-sel-2026]] — YZ × SEL Araştırmalarında Politika Açığı
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ve Makine Öğrenmesi Kullanarak Pakistanlı Üniversite Öğrencileri Arasında Stres Tespiti ve Sağlık Desteği için YZ Destekli Kültürel Olarak Farkında Sohbet Robotu
-- [[daoism-ai-education-philosophy-2026]] — Alternatif YZ Felsefesi: Eğitimde YZ için Yöntem olarak Taoizm
-- [[ai-emotional-intelligence-teacher-development-2026]] — YZ destekli öğretmen gelişimi için ölçüt olarak ilişkisel yoğunlaşma
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Öz bildirimli sıkıntıyla bir arada bulunan yüksek YZ kursu onayı ve uyumu zayıflatan görev baskısı
-- [[ai-connectedness-adolescent-mental-health-2026]] — YZ bağlılığı ve ergen ruh sağlığı: ters-U öngörüsüyle tamamlayıcı ve telafi edici bağlanma
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Algılanan YZ yardımcı zekâsı, hedef ilerlemesi ve ruh sağlığı, moderatör olarak YZ okuryazarlığı
-- [[ai-emotion-regulation-sport-exercise-2026]] — Spor, egzersiz ve kampüs ekolojisi yoluyla YZ destekli duygu düzenlemesinin kavramsal yeniden çerçevelenmesi
-- [[faculty-ai-well-being-social-supports-2026]] — Öğretim üyesi YZ iyi olma halinin yapısal eşitlik modeli: öz yeterliliğe üstünlük kuran YZ okuryazarlığı
-
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — Sınav kaygısı ortadan kaldırılmaz, yeniden dağıtılır

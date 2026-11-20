@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -120,34 +122,3 @@ Deux autres constats compliquent toute histoire simple des outils génératifs c
 **« L'IA dans l'enseignement en atelier remplace la critique. »** Le cadrage constructionniste de cette littérature dit l'inverse : un « micromonde » conçu qui **étend l'espace de recherche créatif sans remplacer la pensée design**. La critique est le lieu où le jugement se forme, et un outil qui fournit des solutions candidates donne à la critique plus de matière à travailler, non moins besoin d'exister.
 
 **« Les étudiants n'utilisent pas encore l'IA dans l'éducation artistique, le programme peut donc donner le rythme. »** Les preuves d'enquête constatent que près de **70% des étudiants en architecture utilisent déjà des outils d'IA de manière indépendante**. Le programme rattrape une pratique déjà répandue, ce qui déplace la tâche de l'introduction vers l'intégration critique.
-
-## Concepts liés
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## Articles liés
-
-- [[genai-xr-architectural-design-education-2026]] — GenAI plus XR multi-utilisateurs dans un véritable atelier d'architecture : rôles complémentaires, efficacité personnelle en conception en déclin, aucun avantage au portfolio (Xiao et al. 2026)
-- [[genai-architecture-education]] — Un flux d'images spécifique à la discipline, exécuté localement, dans un atelier d'architecture : espace de recherche créative élargi et anxiété de critique réduite (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — Étude longitudinale d'atelier et plateforme GAI-A : GenAI comme stimulus et expansion de l'espace des solutions, avec la fixation sur le design comme risque (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — Les concepteurs d'intérieur comme curateurs de la production de la machine, et ce que le programme et la réglementation professionnelle devraient en faire (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Apprentissage par projets à l'intérieur d'un environnement immersif habilité par l'IA en design d'intérieur professionnel (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — Un projet de synthèse de narration numérique de 15 semaines avec 426 étudiants : nouveauté forte, intégration faible, l'IA comme outil et non comme auteur (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — L'acceptation du texte-vers-image parmi 417 étudiants en art et en design, et le paradoxe de la compétence de l'usage sélectif (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — L'économie du streaming, les générateurs autonomes contre les assistants de composition, et la refonte du programme de musique (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — Évaluer GPT-4o-mini par confrontation aux moyennes des enseignants sur 300 réponses d'analyse musicale (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — Pourquoi la précision de la mesure n'est pas une valeur éducative dans l'enseignement vocal assisté par l'IA (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Conception menée par les personnes handicapées d'un enseignement des cordes tactile et kinesthétique pour des musiciens aveugles et malvoyants (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Enseignement de l'éclairage de scène par réalité virtuelle assistée par LLM, et l'écart entre représentations expertes et novices (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias : jeux épistémiques pour interpréter les modèles texte-vers-image (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Autonomie créative des étudiants en art, confiance et qualité de la production évaluée par des experts

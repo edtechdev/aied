@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -48,10 +49,3 @@ Amplify GenAI は、商用アシスタントの全学ライセンスとは逆の
 ## 注記と注意点
 
 ライセンスは無料ですが、運用は無料ではありません。機関が AWS とモデル提供者に支払います。モデルの選択は Amazon Bedrock（Anthropic、Mistral）または OpenAI と Microsoft Azure を通じ、自前のローカルモデルの運用は実装されていません。プロジェクトは個別の展開を支援できないと明言し、組織を商用パートナーに紹介しています。したがって現実的なコストには職員か委託先が含まれます。三つのリポジトリ（フロントエンド、バックエンド、インフラ）からなる展開で、星の数は数千ではなく数十であり、上のコスト比較は対照研究ではなくヴァンダービルト大学自身の経験です。推論を自前のハードウェアに留めたい機関は [MindRouter](/aied/resources/mindrouter/) も見て、二つを並べて読むとよいでしょう。Amplify はベンダーモデルの上のアプリケーション層、MindRouter は自前の GPU の上のゲートウェイです。
-
-## 関連する概念
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

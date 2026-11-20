@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -92,33 +94,3 @@ Eksik olan daha göze çarpandır. Ebeveynlerin kendi anlatıları seyrektir: [[
 **“YZ çocuklarının öğrenmesine zarar veriyorsa ebeveynler bunu fark eder.”** Fark etmeye en az konumda olanlar onlardır. [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu’nun (2026)]] verilerinde ödev notları **%18** yükselirken [[summative-assessment|kapalı kitap sınav]] notları altı ay içinde **%20** düşmüştür; evde görünen sayı ise yükselen olandır. Ödevi izleyen bir ebeveyn iyileşme görürken kalıcı çıktı geriler.
 
 **“Evde YZ kullanımı bir ebeveyn izni sorunudur.”** Bir okuryazarlık ve savunuculuk sorunudur. Ebeveynlerin kendi YZ okuryazarlığı, okul tarafından sağlanan bir araç hakkında neyi sorgulayabileceklerini belirler ve aileler arasındaki erişim eşitsizlikleri, hangi çocukların yetişkin aracılığına hiç ulaşamadığını şekillendirir.
-
-## Bağlı kavramlar
-
-- [[stakeholders]] — Eğitimde YZ’deki kitleler ve eylem özneleri için çatı sayfası
-- [[early-childhood-elementary-ai-education]] — ev ve aile kullanımının en çok çalışıldığı gelişimsel alan
-- [[ai-use-disclosure]] — açıklama uygulamaları ve ailelere ne ulaştığı sorusu
-- [[ai-literacy]] — ebeveynlerin kendi yetkinlikleri ve bunları tanımlayan okul temelli çerçeveler
-- [[equity-in-ai-education]] — yarar ve yüklerin ev halkları arasında nasıl dağıldığı
-- [[digital-divide]] — ev bağlamında erişim, beceri ve sonuç katmanları
-- [[conversational-ai]] — aile ortamlarında YZ’nin aldığı baskın biçim
-- [[self-determination-theory]] — aile rehberliği için çerçeve olarak özerklik desteği
-- [[cognitive-offloading]] — bağımlı ve özerk boşaltma ve ebeveynlerin farkı görmeme nedeni
-- [[intelligent-tutoring]] — yapay zeka aracılığıyla ebeveyn–çocuk özel dersinin ardındaki model
-
-## Bağlı makaleler
-
-- [[ai-connectedness-adolescent-mental-health-2026]] — Ergenlerde YZ bağlantılılığı ve YZ bağının karşılanmayan bakım veren tanınmasının yerini aldığı durumlar
-- [[paratutor-parent-child-tutoring]] — Çin ev ortamı matematik özel dersinde 23 ebeveyn–çocuk ikilisi için rol ayrımı sağlayan LLM desteği
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Tayvan’da 19 ilkokul öğrencisiyle sabit akran rolü arkadaş ve öğretmen karşılaştırması
-- [[family-school-autonomy-support-genai-2026]] — aile–okul koordinasyonunu sınanmamış bir hipotez olarak ele alan derleme
-- [[raise-framework-ai-education-reporting-2026]] — onam, katılımcı bağlamı ve erişim eşitliğini kapsayan bildirim yükümlülükleri
-- [[k12-teachers-ai-companion-literacy-2026]] — yetki alanı, ebeveynler ve çocukların YZ arkadaşlarıyla ilişkileri konusunda 33 öğretmen
-- [[ai-play-framework-early-childhood-2026]] — aile merkezli bir Hour of Code etkinliği üzerinden sınanan elektriksiz YZ okuryazarlığı
-- [[all-girls-genai-makerspace-gender-equity-2026]] — görüşülenler arasında ebeveynler; gayri resmi ortamlarda araç maliyeti ve dil engelleri
-- [[creative-project-approach-ai-early-childhood-2025]] — küçük çocuklar için fiziksel ajanlar; maliyet, erişim ve gizlilikle ilgili uyarılar
-- [[demir-akar-ai-media-literacy-children-2026]] — 36 dördüncü sınıf öğrencisiyle veri gizliliği, güvenli iletişim ve medya etiği üzerine okul programı
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — aileye yönelik adımlar kaldırıldığında benimseme \%45’ten \%83’e yükseldi
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — ödevi dış kaynağa devretme, sınavlarda düşüş ve girdileri izleme gerekçesi
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — yaştan bağımsız YZ okuryazarlığı düzeyleri ve üç düzeyli dijital uçurum
-- [[llm-family-education-activity-theory-2026]] — Etkinlik Teoriyi merceğinden LLM Tabanlı Aile Eğitimini Tanımlamak: HCI Literatürünün Bir Kapsam Taraması

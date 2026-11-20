@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,37 +83,3 @@ AI に支援された[[design-education|デザイン教育]]におけるハン�
 **「[[authentic-assessment|真正な課題]]は、真正であるほど単純に優れている。」** 真正性は、転移の価値と評価の問題を同時に高めます。実際のシステムは変動が大きく採点しにくい証拠を生み、課題が真正であるほど、その成果は点数のようなものではなくなります。設計は両方を支えなければならず、だからこそ振り返りの構造が課題と同じだけの重みを持ちます。
 
 **「[[intelligent-tutoring|AIチュータリング]]は、講義内容に合うのと同じように経験学習にも合う。」** 適合はより弱いものです。チューターは説明を与えられますが、システムとの出会いを与えることはできないからです。この[[pedagogy|教授法]]における自然な位置は、学習者が起きたことを意味づけしている振り返りと概念化の段階の周辺であり、することの代わりではありません。[[gelli-experiential-language-learning-2026|Symonette et al. (2026)]]は、出会いを台本化するのではなく生成します。学習者の目標から、GELLIは実行時に登場人物、支援、振り返りを備えた状況に埋め込まれた場面を構築し、日本語学習者40人を対象とした被験者内研究では、語彙の想起(d = 0.45)と自信(d = 0.45)で専門家が作成した動画を上回りましたが、スピーキングでは上回りませんでした。
-
-## 関連する概念
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
-
-- [[reflection]]
-
-## 関連する記事
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 実世界でのロールプレイは共感の向上において VR および LLM との対話を上回ったが、曝露時間が交絡していた（Zwoliński et al., 2026）
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
-- [[gelli-experiential-language-learning-2026]] — GELLI：体験的な言語学習の相互作用のための生成器（Symonette ら 2026）
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 反転した物理学習のためのAI支援の仮想実験室：中学生の達成、動機づけ、認知的負荷への効果
-- [[metacognitive-awareness-experiential-vs-instructional]] — AI 支援学習におけるメタ認知的気づきのための体験的セッションと講義形式のセッション（Benazet i Montobbio et al. 2026）
-- [[yusuf-service-learning-mapping-2026]] — サービスラーニングのサイクルに写像された 26 研究：AI は評価と省察で薄くなる（Yusuf et al. 2026）

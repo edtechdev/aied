@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +47,3 @@ ai_assist:
 ## 참고 사항과 주의점
 
 여기에 적힌 모든 기능 주장은 공급자 자신의 마케팅이며, "전 세계 10,000개 이상 학교에서 신뢰받고 있다"는 말도 교육구가 데이터 처리 협정과 대조해 확인해야 합니다. 공급자는 보유하거나 학습하지 않겠다는 협정에 따라 OpenAI로 작업을 보내기 전 개인 식별자를 제거하고, 학생에게 광고를 보여주지 않으며, 데이터를 판매하지 않고, iKeepSafe과 Common Sense Privacy 인증을 보유한다고 밝힙니다. Snorkl은 또한 채점하지 않는다고 분명히 밝힙니다. 교사가 지정한 기준에 대해 설명을 형성적 피드백으로 평가할 뿐이며, 채점은 교사가 계속합니다. 이러한 AI 판단은 통상적인 타당도와 편향 질문의 대상이 되는 형성적 신호로 다루고, 환경에 관한 약속은 측정된 상쇄가 아니라 표명된 의도로 받아들이십시오.
-
-## 연결된 개념
-
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

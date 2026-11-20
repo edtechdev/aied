@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -50,7 +52,6 @@ ai_assist:
 הגבול אינו נקי בשוליים. תכנות סטטיסטי יושב בתוך [[cs-education]] ברוב המוסדות, וכמה מאמרים כאן משויכים לשם; עבודת הנגישות על גרפיקה סטטיסטית חופפת ל[[special-education]] ולעיצוב [[accessibility|נגיש]]; מדע נתונים אחראי חופף ל[[cs-education]] ול[[ethics]]. העמוד הוא בית לאשכול הזה, ולא טענה שהאשכול אטום.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]] מסמנים את החפיפה הזו מצד תכנית הלימודים: ארבעה עמודי אחריותיות (אחריות-למתן-דין, אחריות, אכיפה ורפלקסיביות) מוצלבות עם ארבעה ממדים של [[explainable-ai|XAI]], הנלמדים דרך כרטיסי מודל מדורגים, ביקורות הסבר LIME ו-SHAP, והערכות השפעה, כשהמחברים מודים שהסבר אינו אחריותיות.
-
 
 ## ארטיפקטים שנוצרו ושאלת התוקף
 
@@ -87,26 +88,3 @@ ai_assist:
 - **"שביעות רצון ותועלת נתפסת מעידות שכלי בינה מלאכותית למדע נתונים עובד."** סטודנטים השתמשו ב-LLMs באופן נרחב לניפוי שגיאות ולשאלות מושג ו**דיווחו על שביעות רצון גבוהה, בעוד התועלת הנתפסת שלהם בלמידה עמוקה ירדה לאורך הסמסטר**. שביעות הרצון החזיקה מעמד ומסלול הלמידה בהערכה עצמית ירד, ולכן אף אחד משני הנתונים אינו התוצאה לבדו.
 - **"מודל בלתי מוגבל טוב כמו מורה פרטי מודרך."** הרווח נבע מאימון בפיגום — הוראה מפורשת ברמזים שלב-אחר-שלב ובאימות — שגברה על גישה פשוטה לאותו מודל בביצוע עצמאי ובכיול הערכה עצמית. ההדרכה, והאימון באופן השימוש בה, נשאו את האפקט.
 - **"הגנה מפני מתן תשובות מספיקה."** מורה פרטי ייעודי-קורס על API מתארח, שהונחה **להדריך ולא לספק תשובות**, אומץ על ידי **76% עד 84%** מהסטודנטים לתואר ראשון בפסיכולוגיה בשבועות שנחשבו לבחינה בקורס תכנות R בן סמסטר. זהו אימוץ, ולא ראיה שההגנה יצרה למידה: הגנה ברמת ההנחיה היא מנוף אחד מבין כמה, ואינה מייצרת למידה בעצמה.
-
-## מושגים מקושרים
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## מאמרים מקושרים
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — כלי אגנטי שמייצר מערכי נתונים סינתטיים ניתנים לבדיקה לתרגול סטטיסטי מותאם אישית
-- [[ai-tutor-statistical-programming-adoption-2026]] — מורה פרטי ל-R שנבנה במיוחד; האימוץ עקב אחרי לוח הבחינות
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — תיוגי הקושי של LLM עוקבים אחרי רמות בלום, לא אחרי ביצועי הסטודנטים
-- [[tactile-statistical-graphs-accessibility]] — צינור קוד פתוח שמייצר גרפים סטטיסטיים מישושיים עם סקירת מורה
-- [[guided-llm-scaffolding-independent-learning]] — פיגום מודרך ניצח גישה בלתי מוגבלת בביצוע עצמאי
-- [[lund-socially-accountable-data-science-xai-2026]] — הטבעת אחריותיות חברתית בתכנית הלימודים הטכנית של מדע הנתונים

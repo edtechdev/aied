@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -128,70 +130,3 @@ ai_assist:
 - **«Університети ухвалили зобов’язуючу політику щодо ШІ».** З **48 установ** **40 (83%)** мали щонайменше один публічно доступний документ, і в цих 40 **урядування реалізовувалося переважно як вказівки, а не як зобов’язуюче** правило. Опубліковані вказівки — це не політика, яку можна забезпечити.
 - **«Політика пишеться під студентів, бо студенти і є ризик».** Більшість документів адресувалися **викладачам і студентам разом (20, 51%), а не лише студентам (6, 15%)**, і ні тип політики, ні аудиторія не варіювалися за способом подачі. Фреймінг спільний, тож обов’язки теж спільні.
 - **«Невизначена політика не зачіпає досвіду студентів».** Невизначеність політики проявляється **безпосередньо в досвіді студентів**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|залученість студентів до генеративного ШІ]] формується цією невизначеністю, тож невизначеність — це активний стан, а не нейтральна прогалина.
-
-## Пов’язані поняття
-
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[ai-use-disclosure]] — Заяви про використання ШІ та розкриття
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Зонтична категорія: люди та аудиторії в освіті зі ШІ (здобувачі, викладачі, дизайнери, адміністратори, політики)
-- [[student-support-and-success]] — нагляд за інституційними системами підтримки студентів на основі ШІ
-
-## Пов’язані статті
-
-- [[kaze-ai-management-higher-ed-2026]] — Впровадження ШІ у вищій освіті: аргумент за призначене управління ШІ (Kaže та співавт. 2026)
-
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Етика турботи для інституційного урядування ШІ, п’ять компонентів і інституційні питання, на які вони перетворюються
-- [[generative-ai-governance-education-scoping-review-2026]] — Урядування генеративного ШІ в освіті: скопінг-огляд принципів, механізмів і ризиків (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — ШІ-грамотність як потужність урядування для сталого розвитку: таксономія AIRE та зв’язок ШІ–ЦСР (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — Фреймворк AIGEM для урядування ШІ в освітньому управлінні
-- [[institutional-ai-policy-health-informatics-2026]] — Документи політики та вказівок щодо ШІ в 48 акредитованих CAHIIM програмах медичної інформатики: урядування як необов’язкові, зосереджені на доброчесності вказівки (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Студенти, що співпроєктують політики курсу щодо генеративного ШІ через кероване розслідування (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Від аналітики навчання до освітніх втручань: сприятливі чинники довірливих втручань на основі аналітики навчання (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Невідповідність студентів деклараціям про використання ШІ
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Прихована вартість розкриття
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Розкриття використання ШІ студентами, стигма та саморегульоване навчання
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Глобальна Дельфі щодо урядування та політики в галузі генеративного ШІ
-- [[qian-governing-genai-higher-ed-policy-2026]] — Урядування через вказівки: правила силбусу, встановлені викладачами, та екосистема підтримки з чотирьох одиниць в 50 інноваційних американських університетах (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Урядування викладацьким складом, розсуд викладача та періодичний перегляд у політиці юридичних шкіл щодо генеративного ШІ (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Надмірно широкі заборони «ШІ», перетворення формату та проблема розумного пристосування (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Відмова як доказ: нерівномірне урядування, обов’язок розуміти та діагностична цінність невикористання (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Антиципаційне урядування та лідерство в галузі ШІ
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Впровадження AIDA в Open University
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
-- [[genai-policies-higher-ed-computing]] — Інституційна політика щодо генеративного ШІ в обчислювальній галузі
-- [[genai-declaration-frameworks-higher-education]] — Фреймворки декларування ШІ
-- [[genai-assessment-governance]] — Урядування оцінюванням за генеративного ШІ
-- [[ai-uk-higher-education-policy-2026]] — ШІ в політиці вищої освіти Великої Британії
-- [[raza-farooq-aied-review-2020-2025]] — Комплексний огляд досліджень AIED
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедія когнітивного спільного: ШІ та регенерація експертизи
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[agarwal-ethical-values-norms-aied-2026]] — Етичні цінності та норми для ШІ в освіті
-- [[perrotta-zero-shot-governance-2026]] — Урядування zero-shot: ШІ загального призначення в політиці (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Делегування, докази й доступ: що агентний ШІ змінює в урядуванні університетським оцінюванням (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Прототипи ШІ та шкільні пілоти як урядувальна машинерія, що випереджає обране майбутнє (Williamson et al.)
-
-- [[li-su-teacher-genai-decision-making-2026]] — Запропонований шлях від ясності урядування до епізодів рішень викладача
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Адміністративний ШІ як питання операцій із послугами
-- [[chan-ai-policy-gap-2026]] — Мова урядування міститься в загальних політиках і ніколи в правилах фінансування, що зобов’язують заявників (Chan 2026)
-

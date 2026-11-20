@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -113,67 +115,3 @@ Matematik eğitimi, matematiğin güçlü bilişsel öğretmen ve ITS araştırm
 **“Matematik, yanıtları denetlenebilir olduğu için YZ için kolay bir alandır.”** Denetlenebilirlik, matematiği iyi bir sınama alanı yapan özelliktir, güvenli yapan değil. Nihai yanıt doğrulanabildiği için öğrenci, kendisinin kurmadığı bir çözümü geçerli kılabilir; konunun akıl yürütmesi tam da bu biçimde atlanırken not temiz kalır. Araştırmacıları çeken özellik, yük dışarı aktarmayı görünmez kılan özelliktir.
 
 **“Matematikte [[item-response-theory|madde güçlüğü]] yetkin bir model tarafından atanabilir.”** Yanıtlara karşı kalibre edilmesi gerekir. Rasch IRT modeli altında kalibre edilmiş **5.170 K-5 maddesini** kapsayan bir madde güçlüğü çalışmasında, model tarafından üretilen sıfır-atış güçlük derecelendirmeleri ampirik kalibrasyonla karşılaştırılmıştır; çünkü bildirilen güçlükle ölçülen güçlük farklı niceliklerdir.
-
-## Bağlı Kavramlar
-
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[assessment-validity]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Bağlı Makaleler
-
-- [[ledezma-geometry-task-design-genai-preservice-2026]] — İlköğretim öğretmeni adaylarının GenAI ile tasarladığı geometri görevleri: yüksek bilişsel talep, kapalı yönergeler, gömülü bir ölçek hatası (Ledezma ve ark. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Gönderimin göstermediği: öğrencilerin LLM’lerle matematik çalışmasında bilişsel yük dışarı aktarmayı karmaşıklaştırmak (Kontorovich ve Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Öğrenci akıl yürütmesini desteklemek mi yerine geçmek mi? YZ destekli ispat öğrenmesinde bilişsel yük dışarı aktarma (Chen ve ark. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — Matematik Öğretmeni Adayları ile GenAI Arasındaki Matematiksel İletişimin Analizi: Soyut Cebir Dersinde Bir Durum Çalışması
-- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Lisans kalkülüsünde sembolik engeller temsili bir darboğazdır; YZ iskelelemesinin ardından kodlanan sembolik hatalar azalır (Nursit ve ark. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Matematik eğitiminde YZ bütünleşmesi: uygulama zorlukları ve pedagojik çıkarımlar (Manto ve ark. 2026)
-
-- [[ai-mathematics-education-prisma-review-2026]] — Mathematics education’da yapay zeka: PRISMA tabanlı sistematik literatür derlemesi (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Bağlamsal benzerlik modeli kullanarak ekonomide ortaokul sertifika sınavı matematik maddelerinin otomasyon yazılımıyla puanlanması
-- [[mindful-llm-math-tutoring-2026]] — Problem Çözmeyi Aşmak: Matematik Öğrenmesinde Duygusal ve Yansıtıcı Destek için Büyük Dil Modelleri
-- [[making-ai-tutoring-productive-mastery-math-2026]] — YZ öğretmenliğini verimli kılmak: ustalık temelli matematik pratiği
-- [[chudziak-ai-math-tutoring-platform]] — YZ destekli matematik öğretmenlik platformu (Chudziak & Kostka 2025)
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[epistemic-proactivity-math]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — ALEKS ustalık platformu: metin tabanlı problemler YZ’ye en açık olanlar
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Verimli Başarısızlık için LLM’lerin Pedagojik Yönlendirilmesi
-- [[instructional-design-proficiency-masters-math-2026]] — Matematikte M.Ed. öğretim tasarımı yeterliliğini iyileştiren akıllı sınıf modeli ve D-T-E döngüsü (Zhu ve ark. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — İlkokul matematiği için bir LLM öğretmenlik sisteminde kural rehberli ve plansız iskeleleme karşılaştırması (Looi ve ark. 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç tabanlı MK kullanarak madde güçlüğünü tahmin etmek
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[genai-practice-platform-maths-feedback-2026]] — 157 öğrencili bir matematik sınıfında isteğe bağlı üretken YZ alıştırma platformu: anında geri bildirime değer verildi, kullanım 34 etkin kullanıcıyla sınırlı kaldı
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — YZ Tarafından Üretilen Yanıtların Akademik Başarı Üzerindeki Etkisinin Değerlendirilmesi: Etik Bir Perspektif ve Öz Yeterlilik
-
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Lise matematiğinde sınıf içi düzenleme işi: gösterge panellerini okumak ve YZ geri bildirimini düzeltmek
-- [[decision-making-agent-student-decision-acceptance-2026]] — Öğrenciler hâlâ öğretmenin not kararını tercih ediyor
-- [[genai-learning-motivation-meta-analysis-2026]] — Matematikte motivasyonel kazanımlar dört çalışmaya dayanıyor (g = 0,711)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — Matematik sınıflarında YZ: çeşitlilik ve kapsayıcılık için sinerjik bir strateji

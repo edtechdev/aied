@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -48,15 +50,12 @@ ai_assist:
 ### UTAUT / UTAUT2 / UTAUT3
 **Объединённая теория принятия и использования технологий** консолидирует TAM с восемью предшествующими моделями в четыре базовых детерминанты — ожидаемая результативность, ожидаемое усилие, социальное влияние и облегчающие условия (причём UTAUT2 добавляет гедонистическую мотивацию, ценностную ценность и привычку; UTAUT3 добавляет личную инновативность). База знаний применяет UTAUT к преподавательским и студенческим популяциям: [[mathematics-teachers-chatbot-motivation-2026|преподаватели математики средней школы в Австрии]] (UTAUT с 448 преподавателями), [[pre-service-science-teachers-ai-perceptions-2026|будущие преподаватели естественных наук в Гане]] (UTAUT + TPB) и [[tian-genai-learning-adoption-pathways-2026|студенты в Лесото]] (UTAUT3 + ARCS, с использованием PLS-SEM и fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] расширяют UTAUT2 объяснимым ИИ (Random Forest, SHAP, NCA, IPMA, K-Means) на 522 студентах университетов, обнаруживая **привычку** сильнейшим предиктором намерения использовать ChatGPT и показывая, что **ожидаемое усилие является необходимым условием, а не линейным драйвером**, — результат, видимый только когда XAI дополняет регрессию.
 
-
 **В выборке, уже принявшей инструмент, модель несёт привычка, а ожидания затихают.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] проверили UTAUT2 на 310 [[business-education|студентах-маркетологах]] в двух латиноамериканских университетах: привычка предсказывала намерение при β = 0,426 и использование при β = 0,412, а намерение предсказывало использование при 0,324. Ожидаемая результативность (0,037), ожидаемое усилие (0,054) и социальное влияние (0,048) были незначимы в модели, объясняющей R² = 0,665 намерения и 0,707 использования. Авторы читают нулевые пути как ограничение дисперсии в популяции, уже принявшей инструмент; результат — [[self-report-measures|самоотчётное]] использование, а не зарегистрированное поведение.
 
 **Тревожность, а не социальное влияние, несла аффективный путь в условии ограниченных ресурсов.** Расширение UTAUT на 350 ганских студентах-гуманитариях обнаружило, что ожидаемая результативность — сильнейший предиктор намерения (β = 0,377), ожидаемое усилие — второй (β = 0,281), социальное влияние нулевое (β = −0,038), а тревожность цифрового обучения при β = −0,281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). Ожидаемое усилие также снижало тревожность (β = −0,126), поэтому лёгкость использования работала отчасти через её снижение.
 
-
 ### Теория планируемого поведения (TPB)
 TPB объясняет намерение через установку, субъективные нормы и воспринимаемый поведенческий контроль. Она часто сочетается с TAM/UTAUT в исследованиях внедрения ИИ — например, [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] интегрируют TAM, TPB, UTAUT и рамки FATE ([[bias-mitigation|справедливость]], подотчётность, прозрачность, этика), чтобы смоделировать поведенческие и [[ethics|этические]] драйверы внедрения ChatGPT студентами.
-
 
 Исследования внедрения обычно останавливаются на намерении; расширение TPB, которое вместо этого измерило откладывание, несмотря на подлинное намерение, обнаружило воспринимаемый поведенческий контроль сильнейшим отрицательным предиктором прокрастинации обучения с помощью GenAI (β = −0,331) у 1 243 студентов бакалавриата, причём связь «намерение — отсрочка» была значимой только при умеренной-до-высокой тревожности обучения с GenAI ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
@@ -80,7 +79,6 @@ TOE обрамляет внедрение как формируемое техн
 - **Психологические корреляты:** [[acceptance-ai-english-tools-2026|Wu et al.]] опираются на TAM, чтобы связать мотивацию, [[self-efficacy]], тревожность и восприятие риска с принятием ИИ-поддерживаемого изучения английского языка.
 - **[[regulation|Регуляторная]] критика компетентности:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] утверждает, что центрированные на внедрении модели TAM трактуют использование как устойчивое решение, тогда как эффективное использование ИИ — это текущий процесс суждения, пересмотра и избирательного поглощения, — переосмысляя [[ai-literacy]] как регуляторную компетентность и [[critical-thinking]], а не как принятие.
 
-
 Добавление способности из семейства [[tpack|TPACK]] рядом с рамками убеждений, такими как Теория планируемого поведения, как параллельных предикторов приглашает к перекрытию конструктов и оставляет причинный порядок способности, установки и контроля нерешённым; Модель способности и решения вместо этого помещает способность AI-TPACK выше по течению по отношению к установке и воспринимаемому поведенческому контролю ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Машинно-обучаемые детерминанты внедрения ChatGPT:** Эксплораторный подход машинного обучения изучил, как восприятия и демография студентов связаны с предполагаемым академическим использованием ChatGPT, используя анализ SHAP для выявления ключевых связанных с обучением конструктов, — отдавая приоритет образовательному смыслу над максимизацией алгоритмической результативности ([[determinants-chatgpt-use-higher-education-2026]]).
@@ -88,9 +86,7 @@ TOE обрамляет внедрение как формируемое техн
 - **[[explainable-ai|Объяснимость]] и релевантность предметной области как рычаги принятия для преподавателей:** Адаптируя теорию доверия к автоматизации к принятию преподавателями ИИ-рекомендаций, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] обнаружили, что понятность (повышаемая объяснимым ИИ) положительно коррелировала как с доверием, так и с принятием инструмента ИИ-группировки, и что управляемые предметной областью объяснения на [[curriculum-design|учебно-плановом]] языке превосходили основанные на данных, опирающиеся на важность признаков, по всем трём. Принятие дополнительно определялось [[pedagogy|педагогическим]] согласованием и потенциалом снижения нагрузки — ситуативными факторами помимо доверия, которые стандартные конструкты TAM/UTAUT редко улавливают, укрепляя довод в пользу расширения моделей принятия контекстом и объяснимостью.
 - **Принятие, измеренное на уровне учебных материалов (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang и Wu (2026)]] операционализировали ожидаемую результативность, ожидаемое усилие, воспринимаемую игривость и поведенческое намерение для двух разбитых по возрасту пособий по ИИ-грамотности, используемых 794 учащимися [[k-12]] и 37 преподавателями, валидируя четырёхфакторную структуру с помощью EFA и CFA на разделённых выборках и поддерживая инвариантность измерения для изданий для 9–12 и 13–18 лет. Учащиеся младшего возраста сообщали о более высоких уровнях по всем четырём конструктам, и игривость была сильнейшим коррелятом намерения в обеих когортах — причём стандартизованный коэффициент связи «игривость → намерение» превышал 1,00 в младшей группе, и HTMT между двумя конструктами составлял .950. Авторы читают это как перекрытие конструктов и возможное подавление, а не как гигантский эффект, — полезное напоминание о том, что инструменты принятия, применённые к материалам, могут производить эмпирически сплетённые факторы, осложняющие структурную интерпретацию.
 
-
 В двухволновом интервью-исследовании 22 преподавателей больше знаний об ИИ делало некоторых осторожнее, а не более принимающими, обращая предполагаемое моделью направление от опыта к лёгкости использования ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
-
 
 ## Пределы и расширения
 
@@ -100,9 +96,7 @@ TOE обрамляет внедрение как формируемое техн
 
 **Восприятие риска как специфичное для измерения расширение.** Опрос 814 студентов китайских университетов ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi и Chen (2026)]]) встраивает Теорию когнитивной оценки и Теорию защитной мотивации в TAM/UTAUT2, чтобы спросить не о том, внедряют ли студенты [[generative-ai|генеративный ИИ]], а о том, что они от него приобретают. Предположение семейства моделей о том, что риск единообразно подавляет внедрение, не выживает: восприятие риска разделяется на информационное, связанное с безопасностью, техническое, [[ethics|этическое]] и правовое измерения, которые двигают выгоды в противоположных направлениях. Риск безопасности — угроза, которую, по убеждению студентов, они могут управлять через [[privacy|практики приватности]], — был *положительно* связан с воспринимаемой академической помощью и развитием навыков, что согласуется с сфокусированным на проблеме преодолением, тогда как информационный риск, который учащиеся не могут легко проверить, разрушал психологическую и эмоциональную поддержку, выгоды в повседневной жизни и досуге через избегание. Пороговые анализы дополнительно показали эффекты, меняющие знак за пределами специфичных для измерения точек отсечения, причём опыт использования имел значение независимо: студенты с более чем годом использования GenAI сообщали о более высоких выгодах по четырём областям. Практическое следствие для исследования принятия состоит в том, что «воспринимаемый риск» — слишком грубый конструкт для моделирования — управляемость, а не одно лишь наличие риска, определяет, вовлекаются ли студенты или отступаются.
 
-
 Недавнее расширение переворачивает обычное направление, помещая [[discipline-specific-aied|предметно-специфичные]] мотивационные убеждения выше по потоку, чем восприятия TAM, а не рядом с ними. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] сообщают, что ценность полезности предсказывает воспринимаемую полезность при β = 0.43, а ожидание успеха предсказывает лёгкость использования при β = 0.39, тогда как базовые пути TAM ослабевают, но остаются значимыми.
-
 
 **Соответствие задача–технология как параллельный путь и необходимость как отдельный вопрос.** Большинство расширений выше добавляют конструкты *внутрь* модели убеждений. Одна родственная рамка, которую исследования TAM редко несут, — соответствие задача–технология (Task–Technology Fit), спрашивающее, отвечают ли возможности инструмента требованиям конкретной задачи. [[chu-design-students-ai-agent-tam-ttf-2026|Chu и Liu (2026)]] соединили обе у 405 магистрантов-дизайнеров в китайских университетах, и соответствие действовало как второй маршрут к установке, а не как детерминант полезности.
 
@@ -114,69 +108,12 @@ TOE обрамляет внедрение как формируемое техн
 
 Затем анализ необходимых условий отделил влияние от требования. Лёгкость использования, лучший предиктор, провалилась полностью (d = 0, p = 0,592). Полезность была необходимой, но малой (d = 0,027, p = 0,011). Авторы читают это разделение как предостережение против трактовки коэффициента пути как пола. Сильный коэффициент говорит, что единица лёгкости в среднем покупает намерение; только необходимость говорит, может ли другое убеждение отсутствовать.
 
-
 Связь риска с использованием также зависит от системы: во всех 49 системах TALIS 2024, применивших пункты, воспринимаемая полезность ИИ была положительно связана с использованием ИИ, тогда как воспринимаемый риск был отрицательно связан в 40 и положительно в девяти ([[teachers-ai-belief-profiles-talis-2024-2026|Fang и Jin (2026)]]).
 
-
 **Ожидаемая результативность может нести связь, которую исследование принятия читает как намерение использовать.** У [[kim-overtrust-ai-literacy-2026|Kim, Kim и Zhang (2026)]] ожидаемая результативность предсказывала сверхдоверие к ИИ при B = 0,6107 и была первым посредником, через который самоэффективность, внутренняя мотивация и [[motivation|внешняя мотивация]] достигали сверхдоверия. Косвенный путь только через ожидание был положительным для всех трёх предикторов: 0,1355 (95% CI [0,0542, 0,2330]) для самоэффективности, поэтому ожидание не просто предсказывало, будут ли студенты использовать инструмент.
-
 
 ## Распространённые заблуждения
 
 - **«Конструкты TAM объясняют принятие.»** [[socio-cognitive-genai-adoption-engineering-2026|Asag и Al Mamun]] объединили TAM с UTAUT для студентов-инженеров в Бангладеш и объяснили **64%** дисперсии. Существенно и неполно одновременно: примерно треть того, что движет принятием, находится за пределами классических конструктов принятия.
 - **«Модели принятия не нуждаются в предметной модификации.»** Добавление **воспринимаемой искусственной автономии** — того, насколько независимо, по мнению преподавателей, GenAI может выполнять поставленную учебную задачу, — и **неприятия риска** к классическим конструктам существенно изменило модель. Исходные конструкты строились для инструментов без агентности, а у GenAI агентность воспринимается.
 - **«Метааналитическая оценка принятия описывает любую популяцию.»** [[teo-ai-adoption-tertiary-meta-analysis-2026|Метаанализ студентов вузов]] — это оценка на уровне популяции; инженерный результат, объяснивший 64%, относится к конкретной популяции. Перенос одного на другое предполагает стабильность, которой свидетельства не устанавливают.
-
-## Связанные концепции
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Связанные статьи
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Предметно-специфичные убеждения помещены выше по потоку, чем восприятия TAM
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
-
-- [[kim-overtrust-ai-literacy-2026]] — Ожидаемая результативность опосредовала путь от мотивации и самоэффективности к сверхдоверию к ИИ
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — ИИ-грамотность как посредник между самоэффективностью и принятием, с нескорректированной связью с тревожностью (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM вместе с соответствием задача–технология, плюс ранжирование важности нейросетью и пороги необходимых условий (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Проектные признаки выше убеждений TAM и важность, которая не есть необходимость
-- [[pinedo-genai-adoption-marketing-students-2026]] — Привычка несёт UTAUT2 в уже принявшей популяции
-- [[stalboerger-faculty-perceptions-2026]] — 22 преподавателя, 12 повторных интервью: знакомство ужесточало этическую проверку у некоторых, обращая направление лёгкости использования (Stalboerger et al. 2026)
-
-- [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -101,49 +103,3 @@ TutorMoments, istenen zorluk ilkelerini değerlendirme ölçütü olarak işlevs
 **“Bilişsel sürtünme ile üretken mücadele aynı fikirdir.”** Farklı literatürlerden gelirler ve farklı öngörülerde bulunurlar. Üretken mücadele, anlayış inşa eden çaba gerektiren anlamlandırmayı ilgilendirir; bilişsel sürtünme ise bir görevin talep ettiği şey ile öğrenenin mevcut kaynaklarının desteklediği şey arasındaki uyumsuzluğu ilgilendirir. Bunları eş anlamlı saymak tanısal soruyu kaybettirir: bu öğrenen inşa eden bir biçimde mi zorlanmakta, yoksa yalnızca maliyet üreten bir biçimde mi tıkanmaktadır?
 
 **“Mücadeleyi ortadan kaldırmak anlık performansı yükseltiyorsa müdahale işe yaramıştır.”** Bu, tüm sayfanın konusu olan ödünleşimdir: desteğin varlığında ölçülen performans, sonraki desteksiz performansa göre sistematik olarak şişmiştir. Çabayı azaltan bir YZ’nin her değerlendirmesi, gecikmede ve araç olmadan ölçmelidir; aksi hâlde alıştırmanın ortadan kaldırılmasını öğrenmenin üretimi olarak bildirir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Çaba gerektiren sıralamanın akıcı olanı neden geçtiği
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — Üretken sürtünmenin önlemek için tasarlandığı başarısızlık
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — Üretken Başarısızlık
-- [[retrieval-spacing-interleaving]] — bu ilkeyi somutlaştıran işlevsel teknikler: test etkisi, aralıklı tekrar, iç içe düzenleme
-
-## Bağlı makaleler
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Bilişsel koltuk değneği olarak ChatGPT: istenen zorluğu ortadan kaldırmanın gecikmeli rastgele sınaması (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sürtünmesiz YZ’ye karşı: yararlı sürtünmeyi korumaya dair ters-U savı
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI araçlarına yerleştirilen üretken sürtünme öğrenmeyi destekler
-- [[zhang-tutormoments-2026]] — Yardımın Yararsız Olduğu Zaman: üretken mücadele açısından YZ ders yardımcılarının değerlendirilmesi
-- [[kim-ai-productive-failure-adult-2026]] — Üretken Başarısızlığa Dayalı Öğrenmeyi Destekleyen YZ Sistemlerinin Tasarımı
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Üretken Başarısızlık için LLM’lerin Pedagojik Yönlendirilmesi
-- [[wang-safety-gap-productive-struggle-2026]] — Güvenlik Boşluğu: Üretken Mücadelenin Geri Kazandırılması
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF Problem Tasarımını Destekleyen YZ
-- [[making-ai-annoying-constrained-writing-2026]] — YZ’yi kasten sinir bozucu yapmak: YZ destekli yazmada kısıtlama (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Yansıtıcı YZ Katılımında Yeteneği Sürdüren Bağımlılığa Doğru Açık Sorular
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Zaten ayrıntılandırılmış YZ geri bildirimine eklenen öz açıklama istemleri: süre ikiye katlandı, öğrenme kazancı yok (Asher, Gold ve Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Üretken YZ öğrenme cezası: ödev puanları yükselirken sınav puanları düşüyor, tam maliyet iki yıl sonra (Strömberg, Lei ve Wu 2026)

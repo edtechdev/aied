@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -36,7 +37,3 @@ Skriv en lektion i valfri textredigerare och importera den till vilket verktyg s
 
 ## Vem det är för
 Instruktionsdesigners och kurskapare som vill att innehållet ska överleva ett verktygsbyte, e-leverantörer som vill ha ett import- och exportformat deras användare redan förstår, och alla som bygger AI-stött författande ovanpå ett läsbart format. Bidragsgivare inkluderar Dan Bashaw på LXD Integral, och formatet har en offentlig ändringslogg fram till v1.8.
-
-## Anslutna begrepp
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

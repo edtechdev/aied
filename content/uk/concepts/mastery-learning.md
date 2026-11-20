@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -71,25 +73,3 @@ ai_assist:
 **«Освоєння — це педагогіка, яку ШІ нарешті уможливлює».** Її механіка значно старша за ШІ — Блум формалізував цю рамку десятиліття тому, — і ШІ впроваджує її, автоматизуючи рішення про оцінювання й темп, а не реалізуючи раніше неможливий дизайн. Це переосмислення важливе, бо автоматизація успадковує вибір правила, а судження живе саме в правилі.
 
 **«Частіше оцінювання за освоєння робить поріг надійнішим».** Частота покращує оцінку і не виправляє неправильно задане правило. Частіше перерахування освоєння з подій, що включають роботу з допомогою, швидше сходиться до тієї самої неправильної відповіді.
-
-## Пов’язані поняття
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — відтворення та розподіл у часі як рушій практики всередині циклів освоєння
-
-## Пов’язані статті
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Деceptive overgeneralization: адаптивне освоєння може зупинити практику раніше, ніж здобувачі зрозуміють, коли варто утримати дію (An, McLaren та Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Вбудовування правил освоєння/неосвоєння в глибоке навчання для відповідального, інтерпретованого моделювання здобувача
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: яке правило доказовості вирішує, кого оголосити таким, що освоїв (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Симуляція стратегій відбору завдань здобувачами та системних обмежень у освоєнні матеріалу (Noh et al. 2026)
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Стеження за знаннями переоцінює продуктивність наступної сесії та пропускає ефект розподілу в часі (Schuetze, Yan & Carvalho 2025)
-

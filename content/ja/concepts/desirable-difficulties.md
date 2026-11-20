@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -102,49 +104,3 @@ TutorMoments は望ましい困難の原理を評価基準として具体化し�
 **「認知的摩擦と生産的なもがきは同じ考えである。」** それらは異なる文献に由来し、異なる予測をします。生産的なもがきは理解を築く努力を要する意味づけに関わり、認知的摩擦は課題が要求するものと学習者の現在の資源が支えるものとの不一致に関わります。それらを同義語として扱うと、診断的な問いが失われます。この学習者は築くようにもがいているのか、それともただ犠牲を払うように阻まれているのか。
 
 **「もがきを取り除くことが即時の成績を上げるなら、その介入は機能した。」** これがこのページ全体のトレードオフです。支援の存在下で測られた成績は、後の支援なしの成績に対して体系的に膨らみます。努力を減らすAIの評価は、遅延時点で、ツールなしで測らなければなりません。さもなければ練習の除去を学習の生産として報告することになります。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — なぜ努力を要する順序が流暢なものを上回るのか
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — 生産的摩擦が防ぐように設計された失敗
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — 生産的な失敗
-- [[retrieval-spacing-interleaving]] — この原理を具体化する実践的な技法：検索効果、間隔を空けること、交互配置
-
-## 関連論文
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[structured-reflection-ai-explanatory-feedback-2026]] — すでに精緻化された AI フィードバックに自己説明のプロンプトを加える：時間は 2 倍、学習の伸びはなし（Asher, Gold & Carvalho 2025）
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成的 AI の学習罰則：宿題の得点は上がり試験の得点は下がり、完全な代償は 2 年後（Strömberg, Lei & Wu 2026）

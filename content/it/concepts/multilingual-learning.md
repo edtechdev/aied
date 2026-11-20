@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -74,28 +76,3 @@ Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea
 - **"La lingua d'arrivo deve dominare fin dal primo giorno."** In una **revisione sistematica di 24 studi**, gli apprendenti chiedevano **frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo** — un uso che i revisori classificano come una sotto-possibilità genuinamente nuova anziché come un espediente. Il supporto nella lingua di casa funzionava da [[scaffolding]], non da evitamento.
 - **"La valutazione linguistica con l'IA è distorta contro chi scrive in più lingue."** Qui il bias seguiva la **linea di base umana anziché il modello**: il giudizio comparativo basato su LLM su **testi informativi delle classi 3-6 convergeva con le rubriche dei ricercatori (r = ,59-,73)** e mostrava lo stesso pattern dei valutatori umani. Non è una prova di equità in termini assoluti, ma la prova che il modello non ha introdotto una distorsione nuova sopra quella esistente.
 - **"La parte utile è l'output tradotto."** L'uso-ponte è esplicativo e situato, non sostitutivo. Uno strumento che sostituisce la produzione dell'apprendente elimina la pratica che il ponte doveva rendere possibile.
-
-## Concetti collegati
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Articoli collegati
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — I chatbot GenAI offrono il translanguaging, un uso che gli strumenti linguistici precedenti non supportavano
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics

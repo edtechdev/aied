@@ -13,6 +13,8 @@ ai_assist:
     role: revision
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 > **Prior knowledge** — the existing knowledge, skills, beliefs, and mental models a learner brings to a new learning task. It is the single most powerful predictor of subsequent learning: new information is interpreted through — and integrated with — what the learner already knows, so instruction that activates and builds on prior knowledge produces stronger, more durable learning than instruction that treats every learner as a blank slate. In [[ai-education|AI in education]], prior knowledge is central to [[student-modeling|student modeling]] (adapting [[personalized-learning|instruction]] to the learner's current state), to the [[constructivist|constructivism]] principle that knowledge is actively constructed atop existing mental models, and to the risk that AI tools which pre-fetch and surface content bypass the [[retrieval-spacing-interleaving|retrieval practice]] that activates prior knowledge.
@@ -68,34 +70,3 @@ Generative AI has made prior knowledge a central design consideration rather tha
 **"Students with less prior knowledge need more AI support."** That is the direction most likely to widen the gap, since the measured offloading pattern concentrates authorship loss where prior knowledge is thinnest. Support that supplies the work to the learner least equipped to detect the substitution removes the activity that would build the missing knowledge.
 
 **"Prior knowledge is a fixed input the course cannot move."** It is the most heavily weighted factor in new learning, which makes building it the highest-leverage task rather than a background condition — the reason domain knowledge is the intervention in its own right, not merely the covariate.
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — how what a learner already knows determines what retrieval practice can do
-
-## Connected Articles
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)
-- [[genai-mindtool-generative-learning]] — GenAI as a mindtool: priming and activating prior knowledge
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
-- [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Prior knowledge carried the posttest (η²p = .63) while adaptive task selection carried none (Sibley et al. 2026)

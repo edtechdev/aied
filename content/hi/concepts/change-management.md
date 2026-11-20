@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -78,35 +80,3 @@ AI शिक्षा में परिवर्तन प्रबंधन �
 - **"रणनीतिक इरादा क्षमता बनाता है।"** **केवल 7% संस्थाओं** ने वरिष्ठ एआई नेतृत्व भूमिकाएँ बनाई हैं जबकि **49% एआई को रणनीतिक प्राथमिकता मानती हैं**। यह अंतर घोषणा और संरचना के बीच है, और यह एआई परिवर्तन प्रबंधन की बार-बार होने वाली विफलता है।
 - **"एआई उपकरण अपनाना एक घटना है।"** **स्थिरता संगठन की संपत्ति है, उपकरण की नहीं**: California State University, Northridge में एक गैर-जनरेटिव एआई पाठ-संदेश चैटबॉट का चार-वर्षीय यादृच्छिक मूल्यांकन समय-मापक्रम दिखाता है। मूल्यांकन चार वर्ष चला क्योंकि टिकाऊपन ही वह चीज़ थी जिसे परखना था।
 - **"संस्थाओं को तेज़ प्रतिक्रिया चाहिए, पूर्वानुमान नहीं।"** **पूर्वानुमानशील नेतृत्व** पूरक धागा है: [[baroudi-anticipatory-governance-ai-higher-ed-2026|स्कोपिंग समीक्षा]] पाती है कि संस्थाओं को **प्रतिक्रियाशील से पूर्वदृष्टि**-आधारित शासन की ओर बढ़ना चाहिए। पहले से आ चुकी तकनीक के प्रति सक्षमता से प्रतिक्रिया करना ही वह चीज़ है जिसे प्रमाण विफल होते दिखाता है।
-
-## संबंधित अवधारणाएँ
-
-- [[governance]] — वे नीति और निगरानी संरचनाएँ जिन्हें परिवर्तन प्रबंधन क्रियान्वित करता है
-- [[educational-policy-ai]] — राष्ट्रीय और संस्थागत AI नीति-उद्देश्य जिसे परिवर्तन प्रबंधन को अभ्यास में अनुवादित करना चाहिए
-- [[educational-development]] — AI एकीकरण के लिए संकाय क्षमता और शैक्षणिक अभिवृत्ति का निर्माण
-- [[administrator]] — परिवर्तन एजेंट के रूप में नेतृत्व और पूर्वानुमानित शासन
-- [[ai-literacy]] — ज़िम्मेदार संस्थागत ग्रहण को नींव देने वाली क्रॉस-कटिंग क्षमता
-- [[equity-in-ai-education]] — यह सुनिश्चित करना कि परिवर्तन के लाभ संस्थानों और शिक्षार्थियों में समान रूप से बाँटे जाएँ
-- [[technology-acceptance-model]] — वे ग्रहण चालक जो बताते हैं कि परिवर्तन कैसे फैलता है
-- [[academic-integrity]] — केंद्रीय नियामक लंगर जिसके इर्द-गिर्द मूल्यांकन सुधार व्यवस्थित होता है
-- [[student-support-and-success]] — सहायता कार्यक्रम को पायलट के आगे टिकाए रखना
-
-## संबंधित लेख
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — AI-सक्षम छात्र सहायता को बनाए रखना: एक संस्थागत चैटबॉट के चार साल के कार्यान्वयन और प्रभाव का अध्ययन (माता, रसेल और पेज 2026)
-
-- [[institutional-change-framework-ai]] — AI को एक आगमन तकनीक के रूप में ढालने के लिए संस्थागत परिवर्तन मॉडलों का अनुकूलन करने वाला छह-आयामी ढाँचा
-- [[leveraging-complex-systems-leading-for-transformative-change]] — परिवर्तनकारी परिवर्तन के लिए SPARK ढाँचा और जटिलता नेतृत्व
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — आठ-क्षेत्रीय जनरेटिव-AI शासन पर वैश्विक डेल्फी सहमति
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — पूर्वानुमानित शासन और नेतृत्व की स्कोपिंग समीक्षा
-- [[ai-adaptation-gap-higher-education-2026]] — छात्रों, संकाय और कर्मचारियों में AI उपयोग, दृष्टिकोण और भरोसे के हितधारक अंतराल
-- [[ai-uk-higher-education-policy-2026]] — यूके उच्च शिक्षा में राष्ट्रीय नीति-उद्देश्य बनाम संस्थागत क्षमता
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — AI ग्रहण के संगठनात्मक और तकनीकी चालक
-- [[adarkwah-genai-unesco-policy-2026]] — संस्थागत जनरेटिव-AI नीतियों का यूनेस्को ढाँचा विश्लेषण
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — जनरेटिव-AI युग में शोध-केंद्रित मॉडल की ओर एक उदार कला विश्वविद्यालय का डिजिटल परिवर्तन (चिन 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — अधोसंरचनात्मक अभाव में संस्थागत AI रणनीति का ग्राउंडेड अभ्यास में अनुवाद करने वाले डिजिटल मध्यस्थ
-- [[computing-assessment-genai-workshop-report-2026]] — AI आपका होमवर्क कर सकता है। अब क्या? जनरेटिव-AI युग में कंप्यूटिंग मूल्यांकन पर एक ऑनलाइन कार्यशाला की रिपोर्ट
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — इस बात पर क्रॉस-सिस्टम क्षेत्र-कार्य कि कार्यान्वयन और शिक्षक के कार्य तय करते हैं कि AI उत्पाद मदद करता है या नहीं
-- [[dot-framework-survey-2026]] — सर्वेक्षण प्रमाण कि व्यावसायिक विकास को केवल उपकरण उपयोग के बजाय पूर्ण डिज़ाइन चक्र को कवर करना चाहिए
-- [[flipped-classroom-ai-assessment-math-2026]] — स्नातक गणित में व्यक्तिगत पहल से केंद्रीय वित्तपोषण तक एक दशक-लंबी प्रसार चाप (लॉ 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — प्रत्येक एआई-एकीकृत पाठ्यक्रम के लिए निरंतर समायोजन से पहले 15 से 20 घंटे का पुनर्डिज़ाइन बजट रखें

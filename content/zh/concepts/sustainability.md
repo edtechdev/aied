@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -79,31 +81,3 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 - **“抽象的 AI 知识能预测教师教授可持续性的能力。”**[[talebzadeh-ai-green-education-2026|Talebzadeh（2026）]]发现，教师在科学与绿色能源情境中的**AI 实际使用**以及他们**参与开发与 ESD 对齐的材料**，比**抽象的 AI 知识或态度**更能预测这种能力。了解 AI 与能够用 AI 建构是两回事，而实践路径预测得更多。
 - **“在可持续性教学法下的 AI 辅助教学设计会产生可持续性教学法。”**同一项研究发现，可持续发展教学法下的 AI 辅助[[learning-design|教学设计]]以特定方式**约束**了设计，而非扩展它。一个用常规材料训练的模型会复制常规框架，除非设计工作对此加以纠正。
 - **“可持续性是一个话题，而不是横向主题。”**由于两条路径都横跨各个层级，可持续性出现在[[higher-ed|高等教育]]、K-12 与职业情境中，这意味着它是一条基础主题，必须在每个学科内部处理，而不是作为一个独立科目来教授。
-
-## 关联概念
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## 关联文章
-- [[lim-ai-wearables-environmental-empathy-2024]] — 可穿戴 EDA 加上 AI 生成的环境污染图像提升了唤醒水平，但未测量管护行为（Lim 等，2024）
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴关系伦理而非作弊框架来指导机构的生成式人工智能决策
-- [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育中 AI 服务于可持续性与可持续 AI 的范围综述
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 可持续教育与 AI 的价值批判进路
-- [[liu-ai-sustainable-engineering-education-2026]] — 面向可持续工程教育的 AI-SEE 框架
-- [[riandi-teacher-ai-green-energy-education-2026]] — 绿色能源教育中 AI 整合的教师参与
-- [[talebzadeh-ai-green-education-2026]] — AI 在绿色教育中的角色
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 可持续的 AI 知识库助手
-- [[llm-environmental-impact-student-usage-2026]] — LLM 使用的环境影响
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 通过具身智能培养可持续学习
-- [[caruana-pre-university-ai-education-slr-2026]] — 大学前 AI 教育的系统文献综述（SDG 4 框定）

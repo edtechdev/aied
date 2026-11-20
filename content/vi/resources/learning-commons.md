@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -49,12 +50,3 @@ Các nhà phát triển đưa tính năng AI vào sản phẩm chương trình g
 ## Ghi chú và lưu ý
 
 Mở về [[open-source|mã nguồn]] không làm dữ liệu trở nên mở. Mã Knowledge Graph và Evaluators là MIT, Agent Skills là Apache-2.0, còn mỗi bộ dữ liệu mang nhãn truy cập riêng — Open, Open + Gated hoặc Gated — và nội dung Gated không thuộc các giấy phép mở mà kho viện dẫn, nên xem danh mục bộ dữ liệu trước khi giả định quyền tái sử dụng. Nội dung prompt của evaluator là CC BY 4.0, nhưng kho ngữ liệu có chú giải CLEAR và PERSUADE 2.0 mà nó dùng là CC BY-NC-SA 4.0. Nền tảng và các bộ dữ liệu phía sau cần tài khoản.
-
-## Khái niệm liên quan
-
-- [[curriculum-design]] — đồ thị để căn chỉnh nội dung với chuẩn và chương trình
-- [[open-source]] — mã MIT và Apache-2.0, giấy phép dữ liệu theo từng bộ
-- [[educational-nlp]] — evaluator là lớp đo văn bản trên đầu ra LLM
-- [[agentic-ai]] — kỹ năng đóng gói quy trình để mô hình thực hiện
-- [[edtech-platform]] — Curriculum Sync nạp chương trình vào hệ thống quản lý học tập
-- [[llm]] — đối tượng đánh giá và bên dùng các kỹ năng

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,13 +51,11 @@ ai_assist:
 
 - **পূর্ণ-জনসংখ্যা মাপে অপরিচালিত ব্যবহার।** জার্মানির 136টি মাধ্যমিক বিদ্যালয়ের 4,062 শিক্ষার্থী জুড়ে কাজ-সম্পন্নতা ও শিখনমুখী GenAI-ব্যবহার এক শিক্ষাবর্ষে দুটোই বেড়েছে (d = 0.35 ও 0.33), কেবল 5% শিক্ষার্থী সরঞ্জামগুলো কখনো ব্যবহার করেনি; নিম্নতর পূর্ব-অর্জন ছয়টি বিষয়েই পরবর্তী বেশি ব্যবহারের পূর্বাভাস দিয়েছে, তবু কোনো ধরনের ব্যবহারই পরবর্তী অর্জনের পূর্বাভাস দেয়নি ([[scherer-self-directed-genai-use-secondary-2026|Scherer প্রমুখ (2026)]])।
 
-
 - **কগনিটিভ অফলোডিং ও প্রতিনিধিত্ব অর্পণ।** [[andragogy-cognitive-delegation-genai-2026|অ্যান্ড্রাগজি ও কগনিটিভ প্রতিনিধিত্ব অর্পণ]] এবং [[learning-by-chatting-genai-impact|জেনারেটিভ এআই-এর সঙ্গে কথা বলে শিখন]] খতিয়ে দেখে, শিক্ষার্থীরা কীভাবে কগনিটিভ কাজ এআই-কে অর্পণ করতে পারে এমনভাবে যা SDL-এর প্রয়োজনীয় শ্রমসাধ্য প্রক্রিয়াকরণ এড়িয়ে যায় — অন্যথায় স্বায়ত্তশাসন-সমর্থক সরঞ্জামের একটি ব্যর্থতা-ধারা। [[critical-thinking-genai-scaffolding|জেনারেটিভ এআই দিয়ে সমালোচনামূলক চিন্তার স্ক্যাফোল্ডিং]] ও [[test-driven-ai-assisted-learning|পরীক্ষা-চালিত এআই-সহায়ক শিখন]] অধিকতর উৎপাদনশীল নকশা মডেল করে।
 
 ## অনুশীলনে SDL–SRL পার্থক্য
 
 SDL শিক্ষার্থী-প্রবর্তিত দিকের ওপর জোর দেয় বলে তা রক্ষার হস্তক্ষেপগুলো কেবল মুহূর্তে-মুহূর্তে আচরণ নিয়ন্ত্রণের বদলে [[agency|এজেন্সি]] ও স্ব-কার্যকারিতা সংরক্ষণে মনোযোগ দেয়। অবিবেচক এআই ব্যবহার প্রেরণা ও স্ব-কার্যকারিতা — SDL যে মনস্তাত্ত্বিক সম্পদের ওপর নির্ভর করে — ক্ষয় করে এই প্রমাণ ইঙ্গিত দেয়, [[ai-literacy|দায়িত্বশীল এআই ব্যবহারের]] প্রসার কেবল সততার বিষয় নয়, বিকাশেরও বিষয়: শিক্ষার্থীর নিজের শিখন পরিচালনার সক্ষমতা রক্ষা করা।
-
 
 ## এআই নিষ্কাশন-স্ক্যাফোল্ডিং ও গবেষণা-ভিত্তিক শিখন
 
@@ -87,31 +87,3 @@ SDL শিক্ষার্থী-প্রবর্তিত দিকের �
 **গবেষকদের জন্য**
 
 - একটি হস্তক্ষেপ কোন গঠনকে লক্ষ্য করেছে তা প্রতিবেদন করুন; SDL ও SRL ফলাফল বিনিময়যোগ্যভাবে ব্যবহার করা উচিত নয়।
-
-## সংযুক্ত ধারণা
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — অবিবেচক জেনারেটিভ এআই ব্যবহার ও স্বনির্দেশিত শিখন (SEM, লিঙ্গগত পার্থক্য)
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — মাধ্যমিক শিক্ষার্থীদের স্ব-নির্দেশিত জেনারেটিভ এআই ব্যবহার: একটি বড় মাপের, এক বছরের অনুদৈর্ঘ্য গবেষণা
-
-- [[ai-lifelong-learning-policy]] — এআই ও আজীবন শিখন নীতি
-- [[self-directed-growth-generative-ai-learning-analytics]] — জেনারেটিভ এআই ও শিখন-বিশ্লেষণসহ স্বনির্দেশিত প্রবৃদ্ধি
-- [[genai-educational-outcomes-meta-analysis]] — উৎপাদনশীল এআই-এর শিক্ষামূলক ফলাফলের মেটা-বিশ্লেষণ
-- [[andragogy-cognitive-delegation-genai-2026]] — অ্যান্ড্রাগজি ও জেনারেটিভ এআই দিয়ে কগনিটিভ প্রতিনিধিত্ব অর্পণ
-- [[kim-ai-andragogy-2026]] — অ্যান্ড্রাগজি সমর্থনে এআই প্রয়োগ (Kim প্রমুখ 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — মুক্ত-পছন্দের কাজে মডেলরা মানুষের মতো শিখন-লক্ষ্য বাছাই করে না (Molinaro প্রমুখ 2026)

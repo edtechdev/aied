@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -98,56 +100,3 @@ ai_assist:
 - **"الطلب الأفضل ينتج تفكيرًا نقديًا أفضل."** **التحكّم المهيكل في الحوار، لا الطلب الأفضل**، هو ما يفصل معلم المغالطات عن روبوت مناظرة: فتمرير كل دور عبر **كشف النية القائم على نموذج تولمين** هو ما أدى العمل. فالآلية هي بنية التفاعل لا الصياغة.
 - **"استخدام الذكاء الاصطناعي التوليدي يرفع التفكير النقدي مباشرة."** جرى ارتباط استخدام الذكاء الاصطناعي التوليدي بالتفكير النقدي **المقيَّم ذاتيًا** **عبر [[feedback-literacy|ثقافة التغذية الراجعة]]** في الذكاء الاصطناعي التوليدي **تقريبًا كليًا** — ففي **421 طالبًا صينيًا في المرحلة الجامعية**، توسّطت ثقافة التغذية الراجعة **71%** من الارتباط. فالثقافة هي المسار.
 - **"الأثر التحليلي البعدي موحّد."** عبر **29 تجربة**، رفع الذكاء الاصطناعي التوليدي التفكير عالي الرتبة بدرجة معتدلة (**g = 0.609**) مع تفكير نقدي عند **ES = 0.691**. فالآثار المجمّعة المعتدلة عبر تدخلات غير متجانسة تُسند الفئة لا تصميمًا محددًا.
-
-## المفاهيم المتصلة
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقييم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو تدريس المختبر، والثقافة بالذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصّصة
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## المقالات المتصلة
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — التفكير النقدي يمر عبر تقسيم العمل وإعادة صياغة المخرَج، لا عبر التعرّض
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع 30 خبيرًا: التفكير النقدي يحمل أعلى تقييم للاضطراب في التقرير (بمتوسط 4.00)
-- [[pearls-epistemic-verification-2026]] — إطار PEARLS للفاعلية المعرفية والتحقّق من مخرَج الذكاء الاصطناعي (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — التفريغ المعرفي الحسّاس للطبقات في الكتابة المُعانة بالذكاء الاصطناعي التوليدي (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — مفارقة التفكير النقدي في التعلّم المُدمَج مع الذكاء الاصطناعي التوليدي
-- [[pedagogy-ai-mistakes]] — تعليمية أخطاء الذكاء الاصطناعي: تنمية التفكير من المستوى الأعلى (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — نظرية الأنظمة الثلاثة والاستسلام المعرفي: كيف يعيد الذكاء الاصطناعي تشكيل استدلال الإنسان (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — مأساة المشاع المعرفي: الذكاء الاصطناعي وتجديد الخبرة
-- [[zhao-genai-higher-order-thinking-meta-2026]] — التحليل البَعدي للذكاء الاصطناعي التوليدي والتفكير من المستوى الأعلى
-- [[avraamidou-ai-colonization-science-education]] — تعطيل استعمار الذكاء الاصطناعي لتعليم العلوم
-- [[li-mroziak-reorienting-critical-ai-literacy]] — إعادة توجيه ثقافة الذكاء الاصطناعي النقدية
-- [[luo-ibl-patterns-llm-bloom-2026]] — أنماط التعلّم القائم على الاستقصاء في بيئات يقودها النماذج اللغوية الكبيرة (منظور بلوم)
-- [[probing-ai-generated-physics-solutions-2026]] — إعداد الطلاب لنقد حلول فيزيائية مولَّدة بالذكاء الاصطناعي
-- [[student-reception-genai-analogies-computing-2026]] — معيبة لكن لا تُنسى: الاستقبال النقدي للطلاب لتشبيهات ذكاء اصطناعي توليدي مخصّصة بالاهتمام في تعليم الحوسبة
-- [[daoism-ai-education-philosophy-2026]] — فلسفة ذكاء اصطناعي بديلة: الطاوية منهجًا للذكاء الاصطناعي في التعليم
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — تنمية التعلّم المستدام عبر الذكاء المجسَّد (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — الإفراط في الاعتماد على الذكاء الاصطناعي نمذَجًا كنظام معقّد تكيّفي
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — مكاسب تفكير نقدي خاصة بالأبعاد في الكتابة متعددة الوسائط المدعومة بالذكاء الاصطناعي (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — تعليم التعرّف على المغالطات عبر حوار متعدّد الأدوار منظم
-- [[caeai-ai-companions-learning-over-performance-2026]] — التعلّم على الأداء: على ما يلزم أن تُحسَّن المرافق وكيف تُقاس
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — سقالة الذكاء الاصطناعي، والتفريغ المعرفي، وثقافة التحقّق عبر التنظيم الذاتي فوق المعرفي (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — الاعتماد على الذكاء الاصطناعي التوليدي يحدّ الارتباط بين الاستخدام والتفكير النقدي لدى طلاب إدارة الأعمال (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — مطالبة التأمّل تخفّض قبول نصائح ذكاء اصطناعي خاطئة وتحيّز النسبة (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — تدوير الأدوار كبُنية للتفاعل النقدي بين الإنسان والذكاء الاصطناعي (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — دمج الذكاء الاصطناعي التوليدي المركَّز على التحقّق في تعليم الكيمياء الجامعي (Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — التغذية الراجعة من ChatGPT التي ينتقيها المعلّم رفعت التفكير النقدي عبر المراجعة من المستوى الأعلى (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — فصل دراسي من الوصول إلى الذكاء الاصطناعي ترك التفكير النقدي ثابتًا؛ والاستخدام التأمّلي تنبّأ به (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — الاعتماد على الذكاء الاصطناعي التوليدي مرتبط ارتباطًا موجبًا بالتفكير النقدي لدى 1,157 طالب دراسات عليا
-- [[genai-use-critical-thinking-moderation-2026]] — استخدام الذكاء الاصطناعي التوليدي إلى التفكير النقدي عبر الثقافة في التغذية الراجعة، مع مسار مباشر للطلاب الأقلّ تأمّلًا فقط
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — القراءة التشاؤمية لأدلة الاعتدال: فقدان الاحتكاك، والتحيّز الآلي، وإطار الكفاءة
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — مراجعة سردية لـ108 وثائق: إشارة الأثر تتبع المعرفة المسبقة وتوقيت المهمة (إطار AMCIF)

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -85,41 +87,3 @@ Um vídeo com legendas precisas e uma transcrição corretamente marcada é *ace
 - **"Acessibilidade significa acomodação."** Uma revisão de escopo de **40 estudos** de tecnologias assistivas digitais para estudantes neurodivergentes constatou que **28 condicionavam a participação a um diagnóstico formal**. Esse é um modelo condicionado ao diagnóstico, e ele exclui todo aprendiz que tem necessidades e não tem rótulo — o oposto do desenho universal.
 - **"Efeitos médios resolvem a questão."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] fazem uma meta-análise de **29 estudos** e encontram um efeito positivo médio, que é real e também não diz nada sobre qual ferramenta para qual necessidade. A média entre intervenções heterogêneas não é uma recomendação.
 - **"Velocidade e imediatez são conveniências."** Num estudo de caso qualitativo com **21 graduandos com deficiência visual** em três universidades palestinas, os aprendizes enquadraram a imediatez como **requisito fundamental de acessibilidade, e não como conveniência**. O que parece uma gentileza de fora é uma precondição para a participação.
-
-## Conceitos conectados
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — guarda-chuva mais amplo para desenhar educação a partir da variabilidade dos estudantes
-- [[special-education]] — domínio instrucional para estudantes com deficiências diagnosticadas
-- [[universal-design-for-learning]] — framework de desenho proativo
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — headsets, cinetose e acesso ao dispositivo decidem quem pode usá-lo
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — a página guarda-chuva para regras excessivamente abrangentes, evidência defeituosa e ajustes razoáveis
-- [[arts-and-media-education]]
-
-## Artigos conectados
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% de 100 universidades de elite publicam uma política de acessibilidade de IA enquanto 93% implantam serviços de campus com IA
-- [[shin-ai-policies-sld-2026]] — Políticas de IA e acomodações para estudantes com dificuldades específicas de aprendizagem
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-análise de intervenções de IA para estudantes com deficiência
-- [[adhd-video-segmentation-computing-education]] — Vídeos segmentados por IA com pausas fixas
-- [[text-simplification-its]] — Simplificação de texto baseada em LLMs para tutoria inteligente
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Geração de questões com LLMs para estudantes surdos e com perda auditiva
-- [[kutti-ai-voice-first-learning-companion]] — Companheiro priorizando a voz para crianças com deficiência visual
-- [[tactile-statistical-graphs-accessibility]] — Gráficos estatísticos táteis impressos em 3D
-- [[pepper-robot-sign-language-lis-2025]] — Robô Pepper apoiando língua de sinais
-- [[genai-minoritized-knowledges-disability]] — Perspectiva crítica sobre IA e conhecimento centrado na deficiência
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcrição matematicamente acessível de vídeos de física com Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI assistiva para estudantes com deficiência visual
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo de tecnologias assistivas digitais para estudantes neurodivergentes no ensino superior
-- [[wright-transcription-not-generation-2026]] — Transcrição não é geração: proibições de IA excessivamente abrangentes e as ferramentas assistivas que elas capturam
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: avaliação comparativa de audiodescrição de aulas universitárias segundo padrões de acessibilidade, métricas e preferências de quem aprende
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: rumo a uma interface de leitura legível por humanos e resistente a máquinas

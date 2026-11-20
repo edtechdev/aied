@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -39,6 +40,3 @@ ai_assist:
 ## Ni kwa ajili ya nani
 
 Viongozi wa utafiti, kamati na ofisi za sera zinazohitaji picha inayotegemea ushahidi ya jinsi AI inavyotumika na [[governance|kutawalika]] katika mazingira ya utafiti na njia ya kufuatilia [[change-management|mabadiliko]] kwa muda. Inaambatana na *Responsible AI in Academic Research: A Competency Framework for Research Training*, ambayo inafafanua vipimo vitano vya utayari, na iliandikwa na Michael J. Zyphur, mkurugenzi wa Instats.
-
-## Dhana Zilizounganishwa
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

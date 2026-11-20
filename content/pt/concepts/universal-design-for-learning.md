@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -97,34 +99,3 @@ A escolha só inclui quando as opções parecem igualmente credíveis. Estudante
 **"O DUA significa projetar para o estudante médio com mais cuidado."** A afirmação central é o oposto: a variabilidade de quem aprende é a norma e não a exceção, de modo que o design oferece muitos caminhos desde o início em vez de consertar um caminho único para quem tem dificuldade. A adaptação posterior é justamente o que o DUA existe para substituir, e um caminho único bem ajustado continua sendo um caminho único.
 
 **"A IA torna o DUA automático, já que consegue gerar formatos alternativos."** Ela barateia o princípio da representação e deixa o engajamento e a expressão intocados. Converter texto em áudio atende a um de três meios; um curso pode agora ser totalmente multiformato e ainda exigir que todo estudante demonstre a aprendizagem do mesmo modo único.
-
-## Conceitos conectados
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Artigos conectados
-- [[seung-basham-cognitive-offloading-swld-2026]] — Descarregamento cognitivo com IA generativa para estudantes com dificuldades de aprendizagem
-- [[authentic-products-authenticated-processes-2026]] — De produtos autênticos a processos autenticados
-- [[tactile-statistical-graphs-accessibility]] — Gráficos estatísticos táteis para acessibilidade
-- [[neurodivergent-computing-students]] — Estudantes de computação neurodivergentes
-- [[ai-learning-tools-engineering-education-needs]] — Projetando ferramentas de aprendizagem com IA sensíveis a necessidades e atenção
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo de tecnologias assistivas digitais para estudantes neurodivergentes no ensino superior
-- [[faculty-accessible-course-design-ai-2026]] — "A IA está reduzindo as opções que eu tinha": explorando percepções do corpo docente sobre design acessível de cursos em um mundo com ChatGPT
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Inteligência artificial e design universal para a aprendizagem nas instituições de ensino superior do Kuwait: rumo a um framework de educação inclusiva habilitado por IA
-
-- [[mcdonald-inclusive-assessment-genai-2026]] — Desenho de avaliação inclusiva na era da IA generativa: avançando a pedagogia e a prática

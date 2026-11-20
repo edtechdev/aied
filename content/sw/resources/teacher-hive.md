@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,11 +48,3 @@ Walimu wa K–12 ambao wametumia [[generative-ai|AI zalishi]] kujenga zana ndogo
 Member na Builder ni bure (Builder: programu 50, MB 50); Pro ni \$10 kwa mwezi au \$60 kwa mwaka kwa programu 500. Upatikanaji ni freemium.
 
 Faragha ndilo dai lenye nguvu zaidi, lakini huhamishia walimu uwajibikaji. Teacher Hive haiundishi akaunti za wanafunzi, haiwaombi wanafunzi taarifa za kibinafsi, na haiendeshi script za uchanganuzi au matangazo ndani ya programu zilizochapishwa. Kwa sababu programu ni za umma kwa kiungo, masharti huwafanya walimu kuwajibika kuhakikisha programu zao hazikusanyi majina, barua pepe, vitambulisho vya wanafunzi au mahali. Uzingatiaji wa upatikanaji (WCAG 2.2 AA) unahusu kurasa za Teacher Hive yenyewe, si programu zilizotengenezwa na walimu, ambazo hazijajaribiwa. Hakuna leseni ya chanzo huria iliyotajwa, na upatikanaji wa huduma na uhifadhi wa data havikuhakikishiwa.
-
-## Dhana zinazohusiana
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

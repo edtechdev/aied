@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -85,35 +87,3 @@ La gestión del cambio es el complemento institucional de la integración a nive
 - **«La intención estratégica crea capacidad.»** Solo **el 7% de las instituciones** ha creado puestos directivos superiores dedicados a la IA, aunque **el 49% considera la IA una prioridad estratégica**. La brecha está entre la declaración y la estructura, y es el fallo recurrente de la gestión del cambio en IA.
 - **«Adoptar una herramienta de IA es un acontecimiento.»** **La sostenibilidad es una propiedad de la organización, no de la herramienta**: el ensayo de mensajería de texto de la CSUN ilustra la escala temporal. La evaluación duró cuatro años porque la durabilidad era lo que había que poner a prueba.
 - **«Las instituciones necesitan reaccionar más rápido, no anticiparse.»** El **liderazgo anticipatorio** es el hilo complementario: la [[baroudi-anticipatory-governance-ai-higher-ed-2026|revisión de alcance]] encuentra que las instituciones deben pasar de una gobernanza **reactiva a una basada en la prospectiva**. Reaccionar con competencia ante una tecnología que ya ha llegado es lo que la evidencia documenta como fallo.
-
-## Conceptos conectados
-
-- [[governance]] — las estructuras de política y supervisión que la gestión del cambio operacionaliza
-- [[educational-policy-ai]] — la intención de política nacional e institucional sobre IA que la gestión del cambio debe traducir en práctica
-- [[educational-development]] — construir capacidad y orientación pedagógica del profesorado para la integración de la IA
-- [[administrator]] — liderazgo y gobernanza anticipatoria como agentes de cambio
-- [[ai-literacy]] — capacidad transversal que sustenta una adopción institucional responsable
-- [[equity-in-ai-education]] — garantizar que los beneficios del cambio lleguen de forma equitativa a instituciones y estudiantes
-- [[technology-acceptance-model]] — impulsores de la adopción que explican cómo se propaga el cambio
-- [[academic-integrity]] — ancla regulatoria central en torno a la cual se organiza la reforma de la evaluación
-- [[student-support-and-success]] — sostener un programa de apoyo más allá del piloto
-
-## Artículos conectados
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 docentes de diseño: el uso de IAG eleva tanto la autoeficacia como la ansiedad ante la IA, y el apoyo organizacional decide qué trayectoria domina (Ding et al., 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sostener el apoyo al estudiantado habilitado por IA: estudio de implementación e impacto a cuatro años de un chatbot institucional (Mata, Russell y Page 2026)
-
-- [[institutional-change-framework-ai]] — marco de seis dimensiones para adaptar los modelos de cambio institucional a la IA como tecnología de llegada
-- [[leveraging-complex-systems-leading-for-transformative-change]] — el marco SPARK y el liderazgo de la complejidad para un cambio transformador
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — consenso Delphi global sobre la gobernanza de la IA generativa en ocho áreas
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — revisión de alcance sobre gobernanza anticipatoria y liderazgo
-- [[ai-adaptation-gap-higher-education-2026]] — brechas entre partes interesadas en el uso, las actitudes y la confianza en la IA entre estudiantado, profesorado y personal
-- [[ai-uk-higher-education-policy-2026]] — intención de política nacional frente a capacidad institucional en la educación superior del Reino Unido
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — impulsores organizacionales y tecnológicos de la adopción de la IA
-- [[adarkwah-genai-unesco-policy-2026]] — análisis del marco de la UNESCO sobre políticas institucionales de IA generativa
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — transformación digital de una universidad de artes liberales hacia un modelo intensivo en investigación en la era de la IA generativa (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — mediadores digitales que traducen la estrategia institucional de IA en práctica fundamentada bajo escasez de infraestructura
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — trabajo de campo entre sistemas sobre cómo la implementación y las acciones del profesorado deciden si un producto de IA ayuda
-- [[dot-framework-survey-2026]] — evidencia de encuesta de que el desarrollo profesional debe cubrir un ciclo de diseño completo y no solo el uso de herramientas
-- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Presupuestar entre 15 y 20 horas de rediseño por curso con IA integrada antes de cualquier ajuste continuo

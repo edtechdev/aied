@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -40,7 +41,3 @@ Diákok, oktatók és kutatók, akik privát ösztönzést akarnak saját MI-szo
 
 ## Megjegyzések
 Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University) írta; a tervezési indoklást és a validálási korlátokat egy kísérő preprint dokumentálja, a forráskód pedig nyilvános.
-
-## Kapcsolódó fogalmak
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]

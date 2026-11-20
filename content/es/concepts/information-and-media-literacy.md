@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -98,33 +100,3 @@ La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinfo
 - **Las dos alfabetizaciones son una sola habilidad con dos nombres.** Sus objetos difieren —la credibilidad de la fuente frente a la autoría y la intención—, así que una única rúbrica no evalúa bien ninguna de las dos.
 - **Detectar la IA inmuniza contra ella.** En el experimento de persuasión más sólido revisado aquí, la detección fue alta y el desplazamiento hacia la posición de la IA siguió creciendo.
 - **La competencia bibliotecaria se transfiere a la alfabetización en IA.** La carencia del personal aparece en el diseño de objetivos (M = 2,70) y en la evaluación de resultados (M = 2,62), no en el manejo de herramientas.
-
-## Conceptos conectados
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Artículos conectados
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — La revisión de iRAISE en cuatro países: 84 de 194 Estados llevan la alfabetización mediática e informacional más allá de las habilidades técnicas en los currículos, y los factores humanos decidieron los resultados en los cuatro sistemas (Cerioli, 2026)
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — El GPT-4 personalizado venció a los debatientes humanos; la detección no inmunizó (Salvi et al. 2025)
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: la plataforma de pensamiento de diseño digital y aprendizaje para mejorar el pensamiento computacional y la alfabetización digital

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -95,28 +97,3 @@ ai_assist:
 **「スタジオ教授における AI は批評を置き換える。」** この文献の構成主義的な枠づけは逆です。設計された「ミクロワールド」は、**デザイン思考を置き換えることなく創造的な探索空間を広げます**。批評は判断が形成される場であり、候補解を供給するツールは、批評に取り組む材料を増やすのであって、その必要性を減らすのではありません。
 
 **「芸術教育では学生はまだAIを使っておらず、カリキュラムがペースを決められる。」** 調査の証拠によれば、**建築学生の70%近くがすでにAIツールを独自に使用している**。カリキュラムはすでに広まった実践に追いついているのであり、これによって課題は導入から批判的統合へと変化する。
-
-## 関連する概念
-
-- [[creativity|創造性]]
-- [[design-thinking|デザイン思考]]
-- [[generative-ai|生成AI]]
-- [[project-based-learning|プロジェクト型学習]]
-- [[embodied-learning|身体化学習]]
-- [[authentic-assessment|オーセンティック・アセスメント]]
-- [[ai-literacy|AIリテラシー]]
-- [[equity-in-ai-education|AI教育における公平性]]
-- [[virtual-and-augmented-reality|仮想現実・拡張現実]]
-- [[discipline-specific-aied|教科固有のAIED]]
-- [[design-education|デザイン教育]]
-- [[music-education|音楽教育]]
-- [[humanities-education|人文学教育]]
-- [[design-education|デザイン教育]]
-
-## 関連する記事
-
-- [[project-based-digital-storytelling-art-design-2026]] — 426名の学生が参加した15週間のデジタルストーリーテリング・キャップストーン科目:新規性は強いが統合は弱く、AIは作者ではなく道具(Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — 417名の美術・デザイン専攻学生におけるテキスト画像生成(text-to-image)の受容と、選択的利用にともなう能力のパラドックス(Liu, Meng & Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — 舞台照明を対象としたLLM支援VR指導と、専門家と初心者の表象のあいだの隔たり(Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — 「Playing Bias:テキスト画像生成モデルを解釈するための認識論的ゲーム」(Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — 美術学生の創造的エージェンシー、信頼、および専門家評価による成果物の品質

@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -148,55 +150,3 @@ ai_assist:
 - **“群体标签捕捉了重要的变异。”** **群体标签掩盖了其内部的变异**：在残障元分析中，特定学习障碍、智力与发育障碍以及其他类别被合并，因此群体均值不能描述其中任何一个。
 - **“亚组分析回答了差异效应的问题。”** 它们通常**规模过小，无法回答**：[[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学微随机对照试验]]异常明确地指出，其**处理**对比的功效是为总体效应、而非亚组差异设计的。功效不足的亚组发现是假设，不是结果。
 - **“一个中等的合并效应能告诉你某个群体是否受益。”** [[zhang-ai-students-disabilities-meta-analysis-2024|29 项（准）实验研究]]在各残障类别上合并为 **Hedges' g = 0.588（95% CI [0.349, 0.826]）**。该区间描述的是这些类别上的平均，而“哪个群体、哪种需要”是另一项分析。
-
-## 关联概念
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## 关联文章
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 项 AI 用于残障学生的研究：g = 0.588，偏倚校正后 g = 0.269
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT 在跨学科学习中对 STEM 与非 STEM 学生的收益不均
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数族裔国际学生中的生成式 AI 使用与四线索参与
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 条记录筛出 40 项研究，其中 15 项使用生成式 AI
-- [[adhd-video-segmentation-computing-education]] — 一项使 ADHD 参与者达到与同伴持平的通用设计改动
-- [[neurodivergent-computing-students]] — 24 名神经多样性学生谈结构、模糊性与协作
-- [[genai-minoritized-knowledges-disability]] — AI 中的认识论边缘化，以残障为案例
-- [[robot-assisted-language-learning-meta-analysis-2026]] — 小型二语证据库中 g = 0.83、I² = 84.4%
-- [[structural-silence-underrepresented-language-ai-2026]] — 孟加拉语占网络内容不到 0.5%，而英语为 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器误分类 EFL 写作，却对专业文本给出完美评分
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — 195 名学生测试女性化榜样，无性别差异
-- [[gender-bias-transfer-llm-writing]] — 性别偏见提示词转移进学生作文
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 单一性别空间受重视，附对"女孩化"的警告
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — 辅导模型公平性随模型、领域与行为维度而变
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 相同作文上的刻板印象化反馈
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 次调用：显式人设与隐式历史都会影响模型
-- [[student-attention-estimation-fairness-2026]] — 未能泛化的公平性正则化
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 名学生：数字素养而非 AI 使用中介了差距
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — 再未恢复的农村参与率，以及作为约束的指导
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 一个置信区间跨越零的亚组交互效应
-- [[petricini-ai-literacy-communication-equity-2026]] — 基础传播课程中的 AI 素养：关于公平、动机与减少不确定性的洞见
-- [[student-ai-inquiry-types-cs2-2026]] — 唯一的第一代学生使用差异发现
-- [[international-students-conversational-ai-adaptation]] — 语料库中唯一一项国际学生研究
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 语料库对第一代学生的首个效应估计：辅导访问权使他们期末成绩损失 0.50 个标准差，而同伴为 0.22（Liu 等，2026）
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 一个带有直接过程证据的、基于知识的编组变量：各组在先前知识上匹配，但先入观念的多样性不同，对同一个 AI 的取用也不同（Wang 等，2026）
-- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个被提示的评分器面对答案已知的探针，其中大多数可以被说动（Porcaro 2026）
-- [[porcaro-ai-grader-reliability-2026]] — 学习者情境会改变 LLM 评分者对相同作业的评分，而与教师的一致性并未记录到这一点（Porcaro 2026，第六篇）
-

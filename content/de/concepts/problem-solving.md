@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -93,28 +95,3 @@ Problemlösen ist das angewandte Ergebnis [[critical-thinking|kritischen Denkens
 **„Problemlösen ist das Ziel, Problemfinden ist also ein Bonus."** Im Problemfinden entsteht Transfer, denn es verlangt von der lernenden Person, die Struktur zu konstruieren, statt innerhalb einer vom System bereitgestellten Struktur zu arbeiten. Ein [[curriculum-design|Curriculum]], das ausschließlich wohlgeformte Probleme liefert, trainiert die Bearbeitung wohlgeformter Probleme — und das ist nicht die Bedingung, auf die Studierende danach treffen.
 
 **„Die Simulation kollaborativen Problemlösens ist ein Ersatz für die Zusammenarbeit."** Eine Simulation reproduziert das Interaktionsmuster, und die Fähigkeit, die entwickelt wird, ist die Regulation eines gemeinsamen Problems durch Teilnehmende, die tatsächlich anwesend sind. Teilnehmerspezifische Agenten, die reale Kollaborateure modellieren, sind ein Forschungsinstrument zur Untersuchung dieser Regulation — nützlich für das, was sie über den Prozess offenlegen, nicht als Weg, Studierenden die Übung ohne die Peers zu verschaffen.
-
-## Verbundene Konzepte
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Verbundene Artikel
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaktionsprofile (delegiertes Schlussfolgern versus konzertierte Interpretation) und der Kompromiss zwischen Effizienz und Regulation
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR-Modell, das generative KI als intelligenten Lernpartner positioniert
-- [[llm-critical-thinking-teamwork-review]] — PRISMA-Review zu LLMs, die kritisches Denken, Teamarbeit und Problemlösen fördern
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Aus Sequenzen geminene adaptive Scaffolds für kollaboratives Problemlösen
-- [[genai-assisted-problem-posing-physics-2026]] — Problemstoffe stellen als selbstregulierte Lernstrategie mit GenAI
-- [[genai-feedback-design-multisite-experiment]] — Reflektives/hybrides Feedback schlägt direkte KI bei verzögertem Transfer
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots verbessern das Stellen von Problemstoffen durch Grundschulkinder im untersuchenden Lernen
-- [[llm-computational-thinking-physics-2026]] — LLMs als skalierbare Bewerter rechnerischen Problemlösens in der Physik
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Regelgeleitete versus ad-hoc-Scaffolds in einem LLM-Tutorensystem für Grundschulmathematik (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

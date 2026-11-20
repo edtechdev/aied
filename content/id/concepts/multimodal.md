@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -62,10 +64,8 @@ Ketika tutor berbasis LLM harus menyelesaikan masalah yang menanamkan makna dala
 - **Membangun bantuan visual lebih sulit daripada membacanya.** Pada GeoVAD-Bench, menyediakan diagram bantu ahli menaikkan akurasi (+3.3 hingga +7.0 poin), tetapi membiarkan model membangun garis bantu sendiri melebarkan kesenjangan sebesar 10.0 hingga 13.5 poin — dua model mendapat skor lebih buruk daripada tanpa penalaran visual sama sekali ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
 - **Batasnya adalah profil, bukan tingkat — dan citra artistik berada di luar wilayah yang ditangani model dengan baik.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] mengevaluasi 30 VLM terbuka dan proprietary pada 12 tugas atas 1,174 karya seni yang dipesan, dan sebaran kapabilitas lintas dimensi lebih lebar daripada yang disiratkan skor agregat mana pun: klasifikasi adegan hampir matang (23 dari 30 model di atas 75.0, median 81.0) sementara [[affective-computing|deteksi emosi]] tertinggi 39.5 dan tugas terbuka yang menuntut model *mengartikulasikan* buktinya mendapat skor 50.90 (identifikasi petunjuk visual) dan 49.18 (inferensi penyebab emosi) pada kemiripan semantik. Penalaran komposisional dan yang bergantung pada sudut pandang paling gagal — ketika kebenaran dasar tidak menetapkan relasi lateral atau vertikal yang pasti, 90.0% dan 73.3% model tetap menyatakan salah satunya, hanya 43.3% menempatkan gadis itu dengan benar dalam kedalaman, dan tidak ada model yang menyelesaikan ketiga dimensi dari satu butir. Kegagalan juga merambat: karakter yang salah didasarkan kemudian dibenarkan dengan rasional lancar yang dibangun dari semantik visual di sekitarnya (kupu-kupu, burung), yang merupakan hasil paling berbahaya dalam tutoring karena penjelasannya terbaca kompeten. Untuk [[language-learning|pembelajaran bahasa]] berbasis gambar, ini mendukung validasi tingkat dimensi pada citra yang benar-benar digunakan suatu kursus, alih-alih mengimpor skor multimodal umum, dan untuk memperluas titik pemeriksaan pendasaran yang dijelaskan di bawah — deskripsikan apa yang terlihat, dan di mana, sebelum menalar darinya — ke konten artistik [[situated-learning|tersituasi]] ([[muse-vlm-artistic-image-benchmark-2026]]).
 
-
 - **Batasnya rendah pada soal matematika yang bergantung gambar dan autentik kurikulum — dan menolak menjawab adalah cadangan yang terkalibrasi.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] mengevaluasi enam model multimodal pada 376 soal [[math-education|matematika sekolah menengah]] yang mewajibkan gambar dan yang gambarnya membawa kendala penting bagi tugas.
 Dengan gambar, model penalaran o4-mini menyelesaikan 57,7% soal dan o3 52,4%, versus 34,0%-42,6% untuk keluarga non-penalaran; ketika gambarnya ditahan, model menolak alih-alih menebak dalam 95,4%-98,9% proses — pola abstensi yang dapat diperlakukan tutor sebagai sinyal konteks yang hilang alih-alih kesalahan pembelajar.
-
 
 Implikasi desain praktisnya adalah **titik pemeriksaan pendasaran visual** dalam tutoring multimodal: langkah sengaja di mana sistem mendeskripsikan apa yang dilihatnya sebelum mencoba solusi, memberi siswa atau pengawas manusia kesempatan mengoreksi kesalahan persepsi.([[syal-multimodal-dialogue-stem-2026]])
 
@@ -85,9 +85,7 @@ AI multimodal memperluas baik *konten* penilaian maupun *sinyal* yang digunakan 
 - **Penskoran multimodal dapat mereproduksi hasil seleksi bahkan ketika penskoran tingkat butir tertinggal.** Menilai 10,364 halaman tulisan tangan olimpiade dan universitas, sebuah LLM menyamai total pemeriksa pada r = 0.93–0.96 dan menempatkan lima siswa yang sama di tim Olimpiade, namun kesepakatan bagian mencapai 70%: bukti pembaca kedua, bukan penilai resmi ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Pembangkitan diagram adalah perbatasan kapabilitas, bukan masalah yang sudah selesai.** Pada tolok ukur fisika 15,246 pertanyaan yang menilai keluaran multimodal, menyintesis atau menyunting diagram fisika terstruktur terbukti lebih sulit daripada menjawab, dan model terkemuka tetap di bawah 70% penguasaan ketat — bukti bahwa *produksi* visual tertinggal dari *pemahaman* visual ([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
-
 Multimodalitas memiliki makna kedua: memadukan sinyal dari tubuh pembelajar alih-alih dari konten, di mana pelacakan mata, EEG, aktivitas elektrodermal, variabilitas laju jantung, dan pose kamera menyuplai estimasi atensi, keterlibatan, dan beban kognitif. Untaian penginderaan itu berada di [[sensor-and-gaze-analytics]], dan persoalan validitas serta persetujuannya bukan persoalan yang dimunculkan konten multimodal.
-
 
 ## AI multimodal untuk pembelajaran bahasa dan aksesibel
 
@@ -112,61 +110,3 @@ Sistem multimodal juga memperluas akses dan [[personalized-learning|personalisas
 **"Kapabilitas multimodal adalah satu tangga, sehingga model terbaik secara keseluruhan adalah yang terbaik untuk tugas kaya gambar."** Kapabilitas bersifat spesifik tugas, dan model yang memimpin pada [[benchmark|tolok ukur]] umum dapat tertinggal pada diagram gaya. Untuk disiplin kaya gambar, uji yang relevan adalah uji yang maknanya tertanam dalam gambar.
 
 **"Batasan tutoring hanya-teks adalah gangguan, bukan masalah [[curriculum-design|kurikulum]]."** Dalam disiplin di mana diagram *adalah* masalahnya — fisika, kimia, geometri, teknik, kedokteran — batas kompetensi tutor hanya-teks jatuh melintasi konten yang dinilai alih-alih di tepinya.
-
-## Konsep terkait
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
-- [[virtual-and-augmented-reality]] — gestur, suara, dan masukan spasial sebagai kanal belajar
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Artikel terkait
-- [[elkington-human-centred-assessment-value-2026]] — Penilaian berpusat manusia, assemblage, dan kendala generatif (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Komposisi PSA video tentang etika AI sebagai pedagogi literasi AI kritis (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Pemodelan Transformer Multimodal yang Sadar Keadilan untuk Estimasi Atensi Siswa Waktu Nyata
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — Kinerja VLM pada pekerjaan matematika tulisan tangan siswa (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Panduan pendidik untuk pembelajaran multimodal dengan AI generatif (model MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — Efek Interferensi Multimodal dan pemulihan dialog terstruktur dalam STEM
-- [[multimodal-ai-feedback-learning]] — Umpan balik multimodal AI menyamai pendidik pada pembelajaran, melampaui pada persepsi
-- [[multimodal-prompting-ai-literacy]] — Prompting multimodal siswa sebagai kerja epistemik dalam literasi AI
-- [[multimodal-item-parameter-estimation-2026]] — Mengestimasi parameter butir IRT dengan LLM multimodal
-- [[ai-guided-learning-audiovideo-2026]] — Dukungan pembelajaran audio-video yang dipandu AI
-- [[multimodal-knowledge-graph-educational-reasoning]] — Grafik pengetahuan multimodal untuk penalaran pendidikan
-- [[mllm-scientific-visualization-literacy]] — Literasi LLM multimodal untuk visualisasi ilmiah
-- [[multimodal-affective-its-presentation]] — Sinyal multimodal dalam tutoring cerdas afektif
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutoring matematika multimodal afektif
-- [[llm-cognitive-diagnosis-handwritten-math]] — Diagnosis kognitif LLM atas matematika tulisan tangan
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Pembelajaran teks-ke-gambar dalam pendidikan teknik nuklir
-- [[privacy-aware-classroom-incident-recognition-2026]] — Penginderaan kelas multimodal yang sadar privasi
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Instruksi OCR multimodal dalam pendidikan keamanan siber
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Tolok ukur LLM multimodal untuk audit slide
-- [[ai-grading-handwritten-physics-2026]] — Penskoran AI atas penilaian fisika tulisan tangan (Olimpiade)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Komposisi AI multimodal dan berpikir kritis dalam menulis sekolah dasar (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Melampaui Pembangkitan dan Akurasi: Mendiagnosis dan Meningkatkan Rantai Pemikiran Visual untuk Pemecahan Masalah Geometri
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 tugas atas 1,174 karya seni menunjukkan kapabilitas VLM sebagai profil spesifik dimensi, terlemah dalam interpretasi afektif dan penalaran spasial yang bergantung sudut pandang (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Penilaian Berbantuan AI atas Laporan Laboratorium Fisika Eksperimental: Potensi, Keterbatasan, dan Dukungan bagi Praktik Pengajaran
-- [[kim-ai-embodied-learning-review-2026]] — AI dalam pembelajaran terwujud sebagian besar hanya mengamati: peran penginderaan 62.5% dari tag peran terkode, dan tidak ada sistem yang ditinjau menggabungkan aliran multimodal saat pembelajar menggunakannya (Kim & Han 2026)

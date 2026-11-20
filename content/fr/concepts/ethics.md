@@ -21,7 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -114,54 +115,3 @@ L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducat
 - **« Le cadre de la tricherie suffit pour penser l'éthique de l'IA générative. »** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] soutiennent que les établissements devraient trancher les questions d'IA générative par une **éthique de partenariat plutôt que par un cadre de tricherie**. Le cadre détermine quelles questions sont posées, et un cadre de faute ne peut pas interroger la finalité pédagogique.
 - **« Les enseignants et les étudiants s'accordent sur ce qui est éthique. »** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç et Sever (2026)]], une étude [[mixed-methods-research|à méthodes mixtes]] portant sur **971 étudiants et 135 enseignants**, constatent que les dimensions éthiques divergent entre les groupes. Une politique écrite depuis une seule perspective décrira mal l'autre.
 - **« Le consensus éthique précède l'usage. »** **L'usage croît plus vite que le consensus éthique** : sur quatre semestres dans un programme américain de formation des enseignants, l'usage de l'IA générative par les étudiants **est passé de 57 % à 83 % pour la préparation des évaluations**. Les normes se forment par la pratique plutôt que l'inverse.
-
-## Concepts liés
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — les déclarations d'usage de l'IA et de divulgation
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — L'enseignement de la chimie et l'IA : laboratoires, évaluation formative, limites des LLM, philosophie de l'expérimentation
-- [[biology-education]] — L'enseignement de la biologie et l'IA : assistants de laboratoire pour l'enseignement, littératie en IA en biologie, pensée critique, outils spécialisés
-- [[civic-and-political-education]]
-
-## Articles liés
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Enquête et groupes de discussion suédois soutenant qu'une éthique de partenariat, et non un cadre de tricherie, devrait guider les décisions institutionnelles sur l'IA générative
-
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conscience éthique a amplifié l'anxiété liée à l'IA là où aucun cadre d'adaptation n'était enseigné : médiation indirecte uniquement parmi 584 étudiants
-- [[learning-analytics-to-educational-interventions-2026]] — De l'analytique de l'apprentissage aux interventions éducatives : les facilitateurs d'interventions dignes de confiance fondées sur l'analytique de l'apprentissage (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Comment les étudiants utilisent et cachent l'IA dans les évaluations en ligne
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgation de l'IA par les étudiants, stigmatisation et apprentissage autorégulé
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Le coût caché de la divulgation
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-conformité des étudiants aux déclarations d'usage de l'IA
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Les points de vue des enseignants et des étudiants sur les dimensions éthiques de l'IA
-- [[ethical-use-ai-engineering-education-review-2026]] — Usage éthique de l'IA dans l'enseignement de l'ingénierie : une revue systématique
-- [[ai-ethics-education-public-discourse]] — Analyse longitudinale du discours public sur l'éthique de l'IA en éducation
-- [[ethical-ai-higher-ed-game-theory]] — Cadre de théorie des jeux pour l'usage éthique de l'IA dans l'enseignement supérieur
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Crise du coût de l'éthique dans les recherches d'emploi des étudiants en informatique
-- [[xai-education-framework]] — L'IA explicable en éducation (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sécurité des tuteurs d'IA et préjudices pédagogiques
-- [[raffaghelli-situated-ai-ethics-2026]] — L'éthique située de l'IA : un cadre historico-culturel pour l'éducation
-- [[ethically-mediated-ai-tpack-china-2026]] — La connaissance éthique de l'IA comme médiateur intégrateur dans l'AI-TPACK des enseignants universitaires (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — L'éthique de l'IA et le jugement professionnel : une analyse bibliométrique (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — Analyse du cadre de politique de l'UNESCO sur l'IA générative
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Est-il éthique pour les enseignants d'utiliser l'IA pour la rétroaction aux étudiants ?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Combler les écarts de littératie éthique en IA entre étudiants, éducateurs et politiques
-- [[alharbi-ethical-genai-eap-2026]] — Intégration éthique de l'IA générative en anglais à visée académique
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Approche critique en valeur pour une éducation durable et l'IA (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Les conditions éthiques de l'adoption des LLM dans la préparation aux examens (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Usage de l'IAG, éthique et politiques dans la formation des enseignants : une étude longitudinale (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Qui agit, qui sait, qui répond ? Agentivité, responsabilité épistémique et imputabilité dans la recherche sur l'IA générative dans l'enseignement supérieur
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — La conscience éthique, la réflexion et les pratiques responsables déclarées ont progressé largement indépendamment sur trois vagues annuelles
-- [[qi-information-ethics-ai-judgment-2026]] — L'enseignement de l'éthique de l'information et le jugement éthique de l'IA chez les étudiants universitaires

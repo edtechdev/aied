@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -108,50 +110,3 @@ TPACK adalah kerangka pengorganisasi untuk sisi guru dari basis bukti pengetahua
 - **"Dominasi TPACK mencerminkan daya penjelasannya."** Dominasi itu **sebagian artefak pengambilan**: dalam tinjauan cakupan PRISMA atas **195 studi pendidikan guru berbantuan teknologi**, kompetensi digital, TPACK dan DigComp **mendominasi literatur terindeks**. Prevalensi dalam pencarian adalah sifat kosakata yang dipakai bidang itu, bukan bukti bahwa kerangkanya menjelaskan lebih banyak.
 - **"Kerangka yang terkenal adalah kerangka yang tervalidasi untuk AI."** TPACK tidak dirancang untuk kapasitas khas AI, yang sebabnya Intelligent-TPACK dikembangkan — dan ia muncul hanya di **lima studi** dalam tinjauan 78 studi itu. Memakai TPACK untuk kompetensi GenAI memaksakannya melampaui konstruksinya.
 - **"Menerapkan kerangka berarti penelitiannya berteori."** Tinjauan yang sama menemukan **76% studi menyimpulkan kompetensi dari praktik tanpa pemetaan teoretis**, sehingga kehadiran TPACK di bidang ini hidup berdampingan dengan sebagian besar penelitian yang tanpa teori. Kerangka bernama tidak sama dengan kerangka yang bekerja.
-
-## Konsep terkait
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Artikel terkait
-- [[ai-literacy-tpack-preservice-2026]] — Literasi AI dan TPACK yang dipersepsikan dalam pendidikan calon guru: mediasi melalui kebermanfaatan, kemudahan penggunaan, dan nilai (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Sistem Indikator Evaluasi untuk Program Sertifikat AI
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Studi lintas tingkat: 'pedagogi dahulu, teknologi kemudian' — TPAIK mengungguli TAIK teknis bagi luaran siswa (Shen dkk. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI guru dalam jabatan dan peran mediasi pengetahuan pedagogis (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Standar fakultas untuk integrasi teknologi (DBR terkait TPACK)
-- [[edurev-100741-tpack-genai-review]] — Mengintegrasikan AI generatif ke pembelajaran siswa: tinjauan sistematis dari perspektif TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Memodelkan AI-TPACK melalui alur kerja multi-agen guru
-- [[ai-tpack-preservice-math-teachers]] — Kesiapan AI-TPACK di kalangan calon guru matematika
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Interaksi guru-AI dalam perancangan pelajaran: jalinan Intelligent-TPACK, pengalaman, dan kemahiran (Choi dkk. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Pengembangan profesional GenAI intensif dan keuntungan AI-PCK
-- [[teacher-ai-teaming-five-levels]] — Kerangka teaming guru-AI lima tingkat
-- [[teacher-ai-adoption-confidence]] — Keyakinan guru dan adopsi AI
-- [[teacher-education-ai-literacy-sdt-2026]] — Pendidikan guru untuk literasi AI melalui teori penentuan diri
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Pelatihan literasi GenAI berbasis penelitian desain
-- [[rail-ed-genai-literacy-teacher-education]] — Memikirkan ulang literasi GenAI dalam pendidikan guru
-- [[sec-ai-literacy-narrative-review-2026]] — Kompetensi sosial-emosional dan literasi AI
-- [[genai-runaway-object-math-higher-ed]] — GenAI dan matematika di pendidikan tinggi
-- [[ai-changing-teaching-workflows]] — Bagaimana AI mengubah alur kerja pengajaran
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Pengetahuan TPACK-21 yang dipersepsikan sendiri oleh fakultas untuk GenAI di pendidikan tinggi (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Menuju Kerangka AI-TPACK Baru: etika sebagai mediator integratif pengetahuan AI teknis (Chen dkk. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Survei komparatif 186 calon guru sains Afrika Selatan: keunggulan kampus dalam TPACK yang dilaporkan sendiri, dan pelatihan AI berasosiasi dengan TPACK yang dilaporkan lebih lemah di institusi jarak jauh
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK dan efikasi diri pengajaran sains memediasi secara serial efek literasi AI pada niat integrasi inkuiri (Zou dkk. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Pengembangan profesional Intelligent-TPACK untuk guru universitas: keuntungan terurai per dimensi, kehadiran melampaui keterlibatan yang dipersepsikan sendiri — modul CTD-PBL berbantuan AI dan TPACK serta pemecahan masalah kolaboratif calon guru fisika (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Menilai Kolaborasi Manusia-AI dalam Pendidikan Desain: rubrik berorientasi proses yang berakar pada kerangka AI-TPACK yang diperluas
-- [[capability-decision-model-teacher-readiness-2026]] — Model kesiapan AI guru yang mengutamakan kapabilitas, dan peringatannya tentang tumpang tindih konstruk
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Peringatan tinjauan cakupan bahwa dominasi kerangka kompetensi sebagian mencerminkan deskriptor pencarian, bukan prevalensi bidang
-
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Peran TPACK terintegrasi dalam memberdayakan calon guru dan membentuk sikap mereka terhadap AI generatif dalam pengajaran

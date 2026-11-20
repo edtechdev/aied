@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -72,40 +74,3 @@ ai_assist:
 **"기존 탐구 수업에 AI를 더한다고 해서 손해 볼 일은 없다."** 손해가 날 수 있으며, 이점을 보여 주는 비교는 들리는 것보다 범위가 좁습니다. [[context-based-ai-secondary-chemistry-2026|Abdikayumova와 Madybekova]]는 **7E 수업 모델**에 PhET 시뮬레이션과 ChatGPT 튜터링을 결합하여 10학년 화학을 가르쳤고, 탐구만 한 수업이나 전통적 수업보다 성취도와 참여도가 유의하게 높았습니다. 처치 조건은 구조화된 결합, 즉 수업 모델에 시뮬레이션과 튜터링을 더한 것이지 챗봇 단독이 아니며, 구조화되지 않은 탐구에 챗봇을 더한 경우는 그 결과로 검증되지 않았습니다.
 
 **"화학은 정답을 확인할 수 있는 과목이므로 AI의 오류는 무해하다."** 정답을 확인할 수 있다는 점은 잘못된 추론이 눈에 띄지 않고 지나가는 통로입니다. 추론을 잘못한 모델에게서 올바른 값을 받은 학생은 그 결함을 탐지할 방법이 없고, 평가는 성공으로 기록됩니다. 정량적 학문에서 검증 가능한 종착점은 이해에 관한 가장 약한 증거입니다.
-
-## 연결된 개념
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — 생물 교육과 AI: 실험실 보조 교사, 생물학에서의 AI 리터러시, 비판적 사고, 전문 도구
-
-## 연결된 문서
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — 과학/화학 교육에서의 AI에 관한 체계적 검토
-- [[unesco-ai-guidelines-chemical-education-2026]] — 화학 교육으로의 UNESCO AI 지침의 번역
-- [[context-based-ai-secondary-chemistry-2026]] — 중등 화학에서의 맥락 기반 + AI(7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — 실제 화학 실험에서의 AI 지원 실험 설계
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT가 강화된 형성 평가에서의 교수자와 AI의 역할
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI와 함께하는 화학에서의 실험의 철학
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

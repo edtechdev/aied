@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -100,55 +102,3 @@ Sebuah usulan dalam literatur ini melampaui desain ulang di dalam kerangka yang 
 - **"Integritas terutama merupakan masalah deteksi."** **Wawancara scroll-back dengan 26 siswa** mengungkap bahwa siswa mempertimbangkan jalan mereka melalui penilaian dengan GenAI sepanjang sebuah **spektrum**, dan pada **157 siswa**, *bagaimana* GenAI digunakan — **integrasi evaluatif untuk mendukung pemahaman versus** substitusi — memprediksi hasilnya. Modus penggunaan memisahkan siswa lebih tajam daripada keberadaan penggunaan.
 - **"Penutur asli non-Inggris adalah risiko kecurangan."** **Tinjauan PRISMA atas 25 studi** menambahkan faktor risiko yang dilewatkan perdebatan deteksi: penutur non-asli menunjukkan **kecenderungan tinggi untuk melanggar integritas ketika kesulitan** dengan tuntutan bahasa. Itu adalah masalah dukungan bahasa yang salah dibaca sebagai masalah kejujuran.
 - **"Kebijakan yang melarang GenAI menyelesaikan persoalan."** Siswa melaporkan spektrum pertimbangan alih-alih pola mengikuti aturan, sehingga aturan yang tidak menyentuh penalaran evaluatif yang sudah dilakukan siswa tidak akan diikuti secara konsisten.
-
-## Konsep terkait
-- [[learners]] — Pembelajar: konsep payung bagi konsep-konsep di sisi pembelajar
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[formative-assessment]] — Penilaian formatif: butir yang dihasilkan AI, tervalidasi, dan adaptif dalam skala besar
-- [[automated-assessment]] — Penilaian dan penskoran otomatis lintas modalitas penilaian
-- [[authentic-assessment]] — Tugas autentik berbasis proses yang tahan AI
-- [[assessment-validity]] — Validitas penilaian di bawah AI generatif
-- [[educational-measurement]] — Teori pengukuran yang mendasari penilaian AI
-- [[automated-essay-scoring]] — Penskoran esai otomatis
-- [[automated-question-generation]] — Pembuatan soal otomatis
-- [[oral-assessment]] — Penilaian lisan: format langsung dan terekam yang menahan substitusi AI
-- [[summative-assessment]] — Penilaian sumatif: format tahan AI (lisan, terproktor, ujian buku tertutup)
-- [[item-response-theory]] — IRT untuk menafsirkan respons penilaian di era AI
-- [[psychometrically-aware-ai]] — Penskoran AI yang sadar psikometri
-- [[learning-analytics]] — Analitik yang menghubungkan data penilaian dengan pembelajaran
-- [[feedback]] — Lingkar umpan balik yang menutup siklus penilaian-ke-pembelajaran
-- [[feedback-literacy]] — Literasi umpan balik pembelajar
-- [[academic-integrity]] — Integritas dan perdebatan tentang deteksi AI
-- [[ai-detection]] — Mendeteksi teks yang dihasilkan AI
-- [[ai-ed-evaluation]] — Metode dan tolok ukur untuk mengevaluasi asesor otomatis
-- [[eportfolio]] — Penilaian e-portofolio berbasis proses
-- [[speech-and-voice-technologies]]
-- [[peer-assessment]]
-
-## Artikel terkait
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Program selama setahun yang mendefinisikan literasi penilaian multimodal dan mengukur apa yang bergerak, dan apa yang tidak
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[mccorkle-aligned-genai-course-policy-2025]] — Izin AI di tingkat tugas yang diturunkan dari apa yang dinilai (McCorkle 2025)
-- [[usher-faraon-who-grades-best-2026]] — Membandingkan penilaian ChatGPT, sejawat, dan instruktur lintas tingkat kualitas proyek (Usher & Faraon 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang bertanggung jawab di era AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui deteksi: penilaian autentik
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integritas kepengarangan bersama dan validitas penilaian
-- [[competency-based-education-genai-production-2026]] — Pendidikan berbasis kompetensi setelah AI generatif
-- [[genai-assessment-governance]] — Tata kelola GenAI dalam penilaian yang berpusat pada bukti
-- [[ssaho-ai-academic-integrity-review-2025]] — Tinjauan integritas AI: deteksi harus dipasangkan dengan desain ulang penilaian
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: detektor AI dalam pendidikan (Bassett dkk. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: Penilaian Kecemasan Siswa yang Diperkuat LLM (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[asynchronous-oral-assessment-2026]] — Penilaian Lisan Asinkron di Era AI (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: menilai pembelajaran melalui interaksi GenAI (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Pertimbangan dalam pekerjaan siswa dengan GenAI pada tugas penilaian (26 siswa, scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Pola penggunaan GenAI (integrasi evaluatif versus penyerapan verifikasi rendah) dan hasilnya
-- [[luo-dawson-value-judgments-grading-2026]] — Pertimbangan nilai dalam menilai karya berbantuan GenAI: kejujuran, kepercayaan, validitas, dan transparansi dua arah (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Mengestimasi kesulitan butir menggunakan LLM dan ML berbasis pohon
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Laporan dari lokakarya daring tentang penilaian komputasi di era AI generatif
-- [[koretsky-genai-stem-assessment-2026]] — Kerangka tiga titik sudut untuk menyelaraskan kembali penilaian
-- [[rubrics-genai-process-based-assessment-2026]] — Kriteria rubrik yang menilai interaksi, bukan artefak

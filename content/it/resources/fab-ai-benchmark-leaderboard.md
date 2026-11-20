@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -40,9 +41,3 @@ Responsabili politici e team di approvvigionamento che scelgono modelli per sist
 ## Note e avvertenze
 
 Una classifica misura i modelli sui task del benchmark stesso: un punteggio alto in pedagogia è una prova su quegli item, non su un'aula. La colonna del prezzo combina i prezzi dei token di input e output in un rapporto 3:1, che è una scelta di modellazione e non ciò che costerà una particolare implementazione. La copertura delle lingue e dei modelli ospitati localmente cambia man mano che compaiono nuovi modelli, e i punteggi bassi dei modelli piccoli riflettono in parte il formato dei task tanto quanto la capacità. L'inquadramento di Fab AI riguarda esplicitamente i paesi a basso e medio reddito, quindi l'insieme di item del benchmark riflette quel contesto e non va letto come una classifica generale dell'istruzione. Controlla le date di rilascio: diverse voci precedono l'attuale generazione di modelli.
-
-## Concetti collegati
-
-- [[benchmark]] — la classe più ampia di strumenti a cui appartiene
-- [[digital-divide]] — il vincolo che le colonne di prezzo e pesi aperti esistono per rendere visibile
-- [[equity-in-ai-education]] — la questione di policy su cui la classifica fornisce elementi

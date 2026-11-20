@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -187,58 +189,3 @@ AI यह दोनों बदलता है कि हम शिक्ष�
 **"चूँकि AI सामान्य-प्रयोजन है, कहीं का निष्कर्ष हर जगह लागू होता है।"** प्रौद्योगिकी की व्यापकता साक्ष्य की व्यापकता नहीं बनाती। अनुशासन, स्तर और संदर्भ की धाराएँ इसलिए हैं क्योंकि वही उपकरण उन सबमें अलग व्यवहार करता है, और सीमा पार बिना बदलाव ले जाया गया निष्कर्ष एक बहिर्वेशन है।
 
 **"क्षेत्र की परिपक्वता उसके प्रकाशन-आयतन से पढ़ी जा सकती है।"** आयतन और परिपक्वता अलग-अलग रास्तों पर चलते हैं; शोध-विधि धारा ऐसी आवर्ती डिज़ाइन कमजोरियाँ दर्ज करती है जिन्हें आयतन ठीक नहीं करता, और ढाँचे परखे जाने से तेज़ी से बढ़ते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[primary-education]] — प्राथमिक विद्यालयी शिक्षा में AI
-- [[secondary-education]] — माध्यमिक और उच्च विद्यालय में AI
-- [[undergraduate-education]] — स्नातक-स्तरीय अध्ययन में AI
-- [[graduate-education]] — स्नातकोत्तर और डॉक्टरेट अध्ययन में AI
-- [[pedagogical-patterns]] — वे परीक्षित अनुक्रम जो क्षेत्र के शिक्षाशास्त्रों को परिचालित करते हैं
-- [[ai-literacy]] — छत्र: AI को समझना, उपयोग करना और मूल्यांकन करना
-- [[automation-bias]] — पाठक-पक्षीय विफलता: स्वचालित निर्णय को बिना जाँचे स्वीकार करना
-- [[human-ai-collaboration]] — छत्र: लोग और AI कैसे एक साथ काम करते हैं
-- [[pedagogy]] — छत्र: शिक्षण विधियाँ और रणनीतियाँ
-- [[case-based-learning]] — केस विधि, केस चर्चा और विरोधाभासी केस
-- [[metaphors-and-analogies]] — रूपक AI-समझ को कैसे आकार देता है और सादृश्य शिक्षण का समर्थन कैसे करता है
-- [[learning-theories]] — छत्र: सीखना कैसे होता है
-- [[ai-technologies]] — छत्र: मॉडल, तकनीकें और प्रणालियाँ
-- [[discipline-specific-aied]] — छत्र: विषय क्षेत्रों और स्तरों में AI
-- [[assessment]] — छत्र: AI शिक्षार्थियों का आकलन कैसे करता है और वैधता को कैसे पुनःआकार देता है
-- [[feedback]] — छत्र: प्रतिक्रिया कैसे उत्पन्न, वितरित और उपयोग की जाती है
-- [[stakeholders]] — छत्र: अभिनेता कौन हैं
-- [[learners]] — छत्र: शिक्षार्थी-पक्षीय अवधारणाएँ (अनुभव, पहचान, एजेंसी, बातचीत, शिक्षार्थी मॉडल)
-- [[ai-ed-evaluation]] — छत्र: हम कैसे जानते हैं कि AI काम करता है या नहीं
-- [[research-methods-aied]] — छत्र: प्रभावशीलता शोध विधियाँ
-- [[ai-assisted-educational-research]] — AI-सहायित शैक्षणिक शोध
-- [[governance]] — छत्र: संस्थागत और नियामक परत
-- [[educational-policy-ai]] — छत्र: नीति, मार्गदर्शन और कार्यान्वयन
-- [[equity-in-ai-education]] — छत्र: निष्पक्षता, पहुँच और समावेश
-- [[learning-sciences]] — AIED के पीछे का अनुभवजन्य क्षेत्र
-- [[ethics]] — शिक्षा में AI के नैतिक आयाम
-- [[misconceptions]] — लोग AI के साथ लाते हैं वे मानसिक मॉडल
-- [[interpreting-and-applying-aied-research]] — एक अध्ययन पढ़ना, और एक निष्कर्ष को प्रथा में ले जाना
-- [[limitations-in-aied-research]] — साक्ष्य आधार की सर्व-व्यापी सीमाएँ
-- [[meta-analysis-systematic-review]] — समीक्षाएँ और मेटा-विश्लेषण क्या स्थापित करते हैं
-- [[history-of-aied]] — क्षेत्र कैसे विकसित हुआ
-- [[philosophy-of-ai-in-education]] — दर्शनशास्त्रीय नींव
-- [[theories-and-frameworks]] — सिद्धांत और ढाँचा नोड्स का नक्शा
-- [[theory-development-aied]] — सिद्धांत बनाना और संशोधित करना
-- [[sensor-and-gaze-analytics]] — छत्र: दृष्टि, ईईजी और पहनने योग्य संकेतों से शिक्षार्थियों को संवेदन करना
-- [[ai-avatars-and-synthetic-instructors]] — छत्र: शिक्षण, ट्यूशन, सिमुलेशन और मूल्यांकन करते सिंथेटिक मनुष्य
-- [[civic-and-political-education]] — विषय क्षेत्र: सार्वजनिक जीवन के लिए साक्षरता, पतले साक्ष्य-आधार के साथ
-
-## संबंधित लेख
-
-शिक्षा में AI के क्षेत्र-व्यापी समीक्षाएँ — वे अध्ययन जो पूरे क्षेत्र या एक पूरे शैक्षिक स्तर का सर्वेक्षण करते हैं न कि एक विषय:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — चार दशकों में AI-और-शिक्षा शोध का विकास (AIxEd ढाँचा)
-- [[mishra-control-vs-agency-history-2025]] — नियंत्रण बनाम एजेंसी: शिक्षा में AI का इतिहास
-- [[genai-higher-education-systematic-review-2026]] — उच्च शिक्षा में जनरेटिव AI: 125 अध्यायनों की व्यवस्थित समीक्षा
-- [[stanford-evidence-base-ai-k12-2026]] — K-12 में AI का साक्ष्य आधार: 1,686 भंडार-पत्रों से निकाले गए 52 मज़बूत कारणीय अध्ययन (नवंबर 2026 अद्यतन)
-- [[genai-educational-outcomes-meta-analysis]] — जनरेटिव AI और शैक्षिक परिणाम: व्यापक मेटा-विश्लेषण
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 माध्यमिक अध्ययन; लाभ वहाँ जहाँ छात्र आउटपुट का न्याय करते हैं, न कि जहाँ उपकरण काम पैदा करता है
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 स्नातकोत्तर छात्र; तैयारी ने पर्यवेक्षक-सहायता के माध्यम से आत्म-प्रभावकारिता पाई
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — डॉक्टरेट पर्यवेक्षण की नैतिकता, प्रतिक्रिया और शासन की 61-स्रोत समीक्षा
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — एक-समूह स्नातकोत्तर सेमिनार; बिना असहाय परीक्षण के स्व-निर्देशित सीखने के लाभ
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 छात्र; नैतिकता और स्व-विनियमन में स्नातक–स्नातकोत्तर अंतर

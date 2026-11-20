@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -113,24 +115,3 @@ Favero та співавтори (2025) попереджають, що емоц�
 
 - Повідомляйте базову лінію, проти якої виміряно вашу частку перемог, і прямо зазначайте, що це порівняльне судження. Потім вимірюйте те, що насправді потрібно галузі: перенесення в неадаптивні контексти, збереження після вилучення тьютора і те, чи зберігаються здобутки, коли емоційний канал вимкнено.
 - Перевіряйте афективні профілі на відповідність експертним оцінкам, перш ніж використовувати їх як незалежні змінні.
-
-## Пов’язані поняття
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Пов’язані статті
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — Люди перекладають емпатію, коли вважають, що ШІ може дати її натомість (Shastry & Gray 2026)

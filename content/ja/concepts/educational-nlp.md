@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,39 +77,3 @@ WER の集計値だけでは、実体の構造が転写を経て保たれたこ�
 - **「意味的な類似性はカリキュラムの整合を選別できる。」** **3,837組の歯科の学習目標と要旨の対**を選別したとき、埋め込みの検索に自然言語推論の点検を加えても**項目の22.9%**が整合していると判定されました。意味的な類似性は整合にとって**弱い信号**です。流暢な話題の一致と、真正な学習目標の一致は別の関係です。
 - **「発話レベルの分類が自然な単位である。」** **授業全体のモデリングは発話レベルの分類に勝ります**。孤立した発話ではなくトランスクリプト全体を採点することで、**推論連鎖の検出が14.2パーセントポイント向上**しました。授業をまたぐ文脈は、単一のターンが壊してしまう情報を担っています。
 - **「評価コメントにNLPを拡大すれば効果が生まれる。」** 自由記述の学生による授業評価(2015〜2026年)にNLPを応用した**421研究**のPRISMA-ScRスコーピングレビューと証拠地図は、拡大が**利用には届いていない**ことを見出しました。方法の産出量は採用ではなく、隔たりはモデリングではなく配備の段階にあります。
-
-## 関連概念
-
-- [[intelligent-tutoring|インテリジェントチューター]]
-- [[student-modeling|学習者モデリング]]
-- [[knowledge-tracing|知識追跡]]
-- [[socratic-method|ソクラテス式問答法]]
-- [[scaffolding|足場かけ]]
-- [[adaptive-learning|適応的学習]]
-- [[llm-training-and-fine-tuning|LLM の学習とファインチューニング]]
-- [[metacognition|メタ認知]]
-- [[rct|ランダム化比較試験]]
-- [[learning-analytics|学習アナリティクス]]
-- [[educational-policy-ai|AI に関する教育政策]]
-- [[ai-technologies]] — AI の技術の包括概念：モデル、LLM の学習、ロボティクス、RAG、エージェント的 AI
-
-## 関連記事
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — 物理ではなく言い回しでまとめる埋め込みのクラスタ
-
-- [[lee-learner-question-types-ai-education-2026]] — 学習者の質問タイプのトランスフォーマー分類と構成主義的な役割（Lee, Atif & Kang 2026）
-- [[bert-discourse-english-teaching-2026]] — 英語教育のための BERT による談話関係の自動分類
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 講義における学生と LLM の対話の StudyChat データセット
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — ニューロシンボリック教授学的整合（NSPA）
-- [[ai-generated-interactive-fiction-education-2026]] — 教育のための AI 生成インタラクティブフィクション
-- [[zerkouk-comprehensive-review-its-2025]] — インテリジェントチューターの包括的レビュー
-- [[shap-llm-rationales-teaching-quality-assessment]] — ルーブリックに基づく教授の質のための SHAP と LLM の理由づけ
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 学習アナリティクスのための自己説明する LM の蒸留
-- [[auto-marking-short-answer-science-2026]] — 短答科学問題の自動採点
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — 自由回答の生成 AI 自動採点
-- [[llm-automated-coding-teacher-pck-2026]] — マルチエージェント LLM（GradeOpt）による教師の PCK のコーディング：従来型エンコーダと素朴なプロンプトでは及ばない
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育的対話の監査可能なコーディングのための主張ベーススキーマ
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情分類から実用的で責任あるフィードバックへ：学生による授業評価における NLP のスコーピングレビューと証拠地図、2015年から2026年
-- [[bloom-classifier-ai-assisted-questions-2026]] — 新しい AI 支援の教育問題の教授学的評価のための事前訓練モデルの評価
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge：細粒度の知識概念タグ付けのための選択的推論パイプライン
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

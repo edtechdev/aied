@@ -20,6 +20,8 @@ ai_assist:
     role: drafting
     date: "2026-09-23"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 > **Oral assessment** — assessment in which a learner must explain, defend or demonstrate understanding in speech, live or recorded: the viva voce, the oral exam, the oral defense, the code-review interview, the clinical consultation. Because the exchange is real-time and the questions need not be known in advance, the format resists the substitution of generated text for understanding in a way that take-home [[authentic-assessment|authentic tasks]] cannot. It also carries a distinctive validity problem: orals measure fluency and confidence alongside knowledge, so what they certify depends heavily on how they are designed, who is asking, and how the learner's speech is treated as evidence.
@@ -81,50 +83,11 @@ No format holds a fixed position in this trade-off: oral assessment's observabil
 
 The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds can deliver covert real-time prompts inside a live viva, because wearable AI produces no gaze shift or detectable signal, so interactive orals are no longer immune.
 
-
 - **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy. The mitigations participants described were distribution and sampling: shared teaching-assistant pools, [[peer-assessment|peer assessment]] weighted below a [[summative-assessment|final exam]], and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **Machine-scored conversation goes lenient where the interviewer scaffolds.** [[challen-conversational-assessment-chat-exams-2026|Challen and Zilles (2026)]] split a rubric-blind interviewer from a hidden evaluator; a blind re-grade of 40 attempts agreed on 35% and awarded the top grade twice where the deployed evaluator gave it 20 times.
-
 
 ## Common Misconceptions
 
 - **"Oral assessment cannot scale."** In [[code-review-genai-cs1|the CS1 oral code-review study]], **weekly fifteen-minute interviews carried seventy per cent of each assignment's grade**, and pasted-to-total characters still remained informative. The cost is real and the design is implementable at course scale.
 - **"Oral exams are softer than written ones."** In the reported pilot, scores **exceeded those of in-person multiple-choice tests: midterm median 92.5 against 70 (p < .001) and final median 94.2 against 86.4 (p = .002)**. Oral assessment was not the lenient option.
 - **"A simulated encounter is equivalent to progressive-disclosure cases."** In [[ai-standardized-patient-scaffolding-medical-2026|an RCT with one hundred third-year medical students]] the simulated-patient system was compared **against progressive-disclosure case materials** — a direct test of equivalence rather than an assumption of it.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Oral and viva verification sequences, and what they do and do not demonstrate
-- [[assessment]] — the broader field this format sits inside
-- [[authentic-assessment]] — the design tradition that makes the integrity case
-- [[assessment-validity]] — what a format can and cannot claim to measure
-- [[academic-integrity]] — the pressure that returned orals to prominence
-- [[automated-assessment]] — machine delivery and scoring of oral performance
-- [[ai-detection]] — the alternative response, and why it is weaker
-- [[speech-and-voice-technologies]] — the speech pipeline an oral system runs on
-- [[multimodal]] — gesture and speech as combined evidence
-- [[anxiety-and-stress]] — the affective cost of live performance
-- [[feedback]] — what a viva tells a learner about their own understanding
-- [[higher-ed]] — the setting almost all of this evidence comes from
-
-## Connected Articles
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Non-branching AI dialogue tasks misalign task demands with the speaking construct
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live vivas are no longer immune: AI glasses and earbuds deliver covert real-time prompts (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI-scaffolded pair orals as a scheduling workaround in a business-statistics course
-- [[deng-certification-consultation-university-teaching-2026]] — University teaching after generative AI: beyond lectures and inquiry to a certification-and-consultation paradigm in which learners become evaluators
-- [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
-- [[challen-conversational-assessment-chat-exams-2026]] — Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline

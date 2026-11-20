@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,50 +70,8 @@ ai_assist:
 
 وتُظهر أدلة الترميز بNER تفوّقًا معتمدًا على المهمة لا نموذجًا واحدًا أفضل. ففي معيار كيانات مسمّاة من 600 رمز مبني على إجماع بشري، وجد [[wang-educational-video-transcripts-llm-analysis-2026|Wang وPritchard وRosenberg (2026)]] أن GPT-5.5 تصدّر الترميز السباعي الأنواع لصفوف الكيانات الذهبية الـ41 (دقة 0.805، κ = .726) مقابل spaCy (0.634، κ = .488)، بينما فاز spaCy في الكشف الثنائي بـF1 0.734 مقابل 0.654 لـGPT-5.5 — فاختيار النموذج تابع لمهمة التحليل اللاحقة، لا لأي أفضلية كونية.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **"قدرة النموذج الخامة تحدد مدى جودة تشخيصه للأخطاء."** **التأصيل** هو ما يحدد ذلك: أظهر [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan (2025)]] أن تزويد GPT-4 بواجهة المعلم **غيّر** تشخيصه للأخطاء تغييرًا جوهريًا. فما يُعطاه النموذج من سياق المتعلّم يفعل أكثر مما يفعله أي نموذج هو.
 - **"أي نموذج متقدم يتصرف بالطريقة ذاتها ك[[pedagogical-agent|شريك تعلّم]]."** درس [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] **ثلاث عائلات متقدمة** — ChatGPT وGemini وClaude — في مقارنة صفّية، تحديدًا لأن العائلات غير قابلة للتبادل كشركاء.
 - **"النماذج الأفضل تعني حاجة أقل إلى [[scaffolding|السقالات]]."** استطاع GPT-4، **المسند بمقياس دقيق دلاليًا ومُصقول بشكل مشترك تكرارًا**، أن يقارب [[evaluative-judgment|الحكم التقويمي]] البشري في [[design-based-research|البحث القائم على التصميم]]. وقد جاء التقريب من المقياس المصقول عبر التكرارات، لا من النموذج وحده.
-
-## المفاهيم المرتبطة
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — مظلة: تقنيات الذكاء الاصطناعي وتقنياته (النماذج، تدريب النماذج اللغوية الكبيرة، الروبوتيات، RAG، الوكلاء)
-
-## المقالات المرتبطة
-- [[assessing-quality-ai-generated-exams-field-2025]] — تقييم جودة الاختبارات المولّدة بالذكاء الاصطناعي: دراسة ميدانية واسعة النطاق
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — هل يستطيع الذكاء الاصطناعي تقديم دعم ملائم لصور طلابية متنوعة؟ تقييم واسع النطاق
-- [[yasar-llms-iterative-pedagogical-design-2026]] — النماذج اللغوية الكبيرة كوكلاء للتصميم البيداغوجي التكراري
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة الأسئلة باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة الشجري
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المولّدة بالذكاء الاصطناعي في مقررات علوم البيانات
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: مخططات قائمة على التأكيدات للترميز القابل للتدقيق في الحوارات التعليمية
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — التملق في 11 نموذجًا لغويًا كبيرًا: أكّد الذكاء الاصطناعي المستخدمين بنسبة 49% أكثر من البشر، مما يرفع الثقة والاستخدام المستمر

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,6 +43,3 @@ Tegyen fel kérdéseket a teljes forráshalmazon, foglaljon össze hosszú dokum
 ## Megjegyzések és fenntartások
 
 A Google szerint a személyes fiók tartalmát nem használja modelljei tanítására, hacsak a felhasználó nem küld visszajelzést; a Workspace-feltöltéseket, -lekérdezéseket és -válaszokat akkor sem használja tanításra, ha visszajelzés érkezik; és [[privacy|az adatokat nem osztja meg harmadik felekkel]]; a törölt jegyzetfüzetek viszont nem állíthatók vissza. A fenti képességállítások a szállító sajátjai, ezért egy tankerületnek vagy intézménynek adatfeldolgozási megállapodása ellenében kell megerősítenie őket, nem egy termékoldal alapján. A 2026-os tudósítások emellett pert is leírtak a generált podcastokban használt hang miatt, amelyet a Google tagadott – emlékeztetőül, hogy a hangkimenetek a forrásalapozási védőintézkedésektől független [[legal-issues-and-risks|hasonmás-kérdéseket]] vetnek fel. A generált kártyákat, kvízeket és összefoglalókat forrásokhoz ellenőrizendő vázlatokként kezelje, és vegye figyelembe, hogy az ingyenes szint limitjei előzetes értesítés nélkül változnak.
-
-## Kapcsolódó fogalmak
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

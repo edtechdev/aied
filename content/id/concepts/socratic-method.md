@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -125,51 +127,3 @@ Metode Sokratis erat terkait dengan [[scaffolding]] (memberikan dukungan secukup
 - **"Pertanyaan Sokratis hanyalah ketiadaan jawaban."** Chatbot AI Sokratis khusus yang digunakan dalam kursus mekanika pengantar berpendaftaran besar (**150 mahasiswa [[stem-education|STEM]] tahun pertama**) menghasilkan keuntungan **yang terukur**, dan desainnya adalah pertanyaan terstruktur — interaksi yang dibatasi, bukan model yang diam.
 - **"Efeknya merupakan hilir dari keterlibatan."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna dan Maes, 2026)]] adalah **studi EEG acak atas 50 partisipan** yang membandingkan bot bergaya ChatGPT tanpa batas dengan bot **Sokratis**, yang mengukur mekanismenya alih-alih menyimpulkannya dari hasil.
 - **"Pembatasan adalah masalah yang harus dihilangkan."** Dukungan kausal terkuat untuk pembatasan menunjuk ke arah sebaliknya: dalam tinjauan K-12, siswa sekolah menengah yang menggunakan chatbot serbaguna **memperoleh nilai sekitar 17% lebih buruk pada ujian tutup buku** daripada teman sebaya yang menggunakan alat terbatas. Alat tanpa batas adalah kondisi yang merugikan.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Urutan pertanyaan dan bukti uji yang saling bertentangan
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[productive-failure]] — Kegagalan Produktif
-
-## Artikel terkait
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Gaya umpan balik Sokratis versus direktif dalam studi desain pascasarjana 2 x 2
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Bahasa Besar Multi-Agen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Petunjuk Sokratis terstruktur vs. tanya-jawab serbaguna terbuka
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[wang-safety-gap-productive-struggle-2026]] — Kesenjangan Keselamatan: Memulihkan Perjuangan Produktif
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah PF
-- [[lukesova-clue-before-correction-2026]] — Petunjuk Sebelum Koreksi: ChatGPT untuk Pembelajaran Bahasa Otonom
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Membandingkan Strategi Interaksi untuk AI dalam Pembelajaran
-- [[lftutor-logical-fallacy-education-2026]] — Pertanyaan Sokratis plus argumentasi kritis dalam kerangka tutor kesalahan logika empat langkah
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails atau Penghalang? Efek Gaya Pedagogis dan Kesadaran Konteks pada Asisten Pengajar AI untuk Pemrograman
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Meningkatkan keterampilan argumentasi selaras PISA calon guru biologi melalui kecerdasan artifisial generatif
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostik AI percakapan untuk miskonsepsi pengajaran dengan dialog berlandas bukti (Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Merancang Agen AI yang Tidak Menutori: Aturan Desain untuk Penggalian Sokratis dalam Fisika Pengantar

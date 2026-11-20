@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -97,29 +99,3 @@ Sự xuất hiện của [[generative-ai|AI sinh tạo]] — một họ rộng b
 
 - Dùng các kho ngữ liệu lịch sử làm đường cơ sở thay vì coi hiện tại là so sánh duy nhất sẵn có. Kỷ yếu AIED các năm 1985, 1993, 2021 và 2024 cùng IJAIED các năm 2004, 2014 và 2021 là một mẫu dọc sẵn có về chính những khẳng định của lĩnh vực.
 - Trích dẫn dòng dõi khi bạn tuyên bố tính mới. Một khẳng định rằng một hệ thống "cá nhân hóa việc học" hay "mô hình hóa người học" chỉ mới so với một truyền thống trước đó cụ thể, và truyền thống đó được ghi chép lại.
-
-## Khái niệm liên quan
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Bài viết liên quan
-
-- [[mishra-control-vs-agency-history-2025]] — Kiểm soát so với quyền chủ động: khám phá lịch sử AI trong giáo dục
-- [[prezenski-human-centered-ai-aided-learning]] — Học tập có AI hỗ trợ lấy con người làm trung tâm (kế thừa di sản của Anderson)
-- [[cognitive-commons-ai-expertise-regeneration]] — Tài sản nhận thức chung và chuyên môn AI (định khung lịch sử)
-- [[programming-its]] — Lập trình các Hệ thống Gia sư Thông minh
-- [[lak2026-hint-button-unproductive-use]] — Xem lại nút gợi ý trong các gia sư nhận thức
-- [[socrates-students-instructors-llms-lbt-2025]] — Học tập bằng cách dạy với LLM (dòng dõi chủ nghĩa kiến tạo của Papert)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Năm mươi năm chủ đề của Computers & Education: mức phổ biến của AI chuyển lên sau 2018, bốn năm trước ChatGPT

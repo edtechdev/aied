@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -116,37 +118,3 @@ ai_assist:
 **«العلاج ذكاء اصطناعي أفضل، لأن الاستسلام يتبع الأخطاء.»** الاستسلام يتبع *بنية* التفاعل: فالنظام الذي يُنتج جوابًا معقولًا أولًا يُزيل المناسبة التي كان المتعلّم سيولّد فيها جوابًا. وتحسين الدقة يُقلّل الضرر الناتج عن الأجوبة الخاطئة ولا يفعل شيئًا بشأن التخلّي عن تكوين حكم، وهو الضرر الذي يبقى بعد ذهاب الأداة.
 
 **«تعليم التقييم النقدي كافٍ.»** إنه ضروري ويأتي متأخرًا جدًا. فمتى صار جواب معقول على الشاشة، صار التقييم تأكيدًا، ولهذا تضع أدبيات التصميم هنا محاولة الطالب قبل مخرَج النظام لا تدقيقها بعده.
-
-## المفاهيم المتصلة
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## المقالات المتصلة
-
-- [[shaw-nave-cognitive-surrender-2026]] — نظرية الأنظمة الثلاث والبصمة التجريبية للاستسلام
-- [[generative-ai-reduced-study-time-math]] — الإزاحة على مستوى السكان في ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — إطار الاستسلام/التفريغ/الفاعلية في مرحلة ما قبل الروضة حتى الصف الثاني عشر
-- [[du-yuan-epistemic-dependence-2026]] — المساعدة الآلية مقابل المساعدة الحاملة للحكم
-- [[ai-advice-suppresses-ikt-suspension-2026]] — انهيار «لا أعرف»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — الانخراط العصبي والملكية
-- [[genai-thoughtless-use-self-directed-learning-2026]] — الاستخدام غير المتفكّر والتعلّم الموجَّه ذاتيًا
-- [[stamatoulis-genai-use-patterns-2026]] — التبنّي ذو التحقّق المنخفض مقابل الاندماج التقييمي
-- [[cognitive-washout-ai-skill-decay-2026]] — ما يحدث بعد السحب
-- [[ai-overreliance-complex-adaptive-system-2026]] — الاعتماد كعملية على مستوى السكان
-- [[brcic-effortless-trap-productive-struggle-2026]] — وضع الذكاء الاصطناعي بحيث تبقى المهمّة مجهدة
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — تدريب المعايرة
-- [[family-school-autonomy-support-genai-2026]] — التفريغ المعتمد مقابل المستقل
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — مساعد مقيَّد بورقة العمل خفّض التفريغ بدل رفعه، وهو شرط حدّي لبصمة الاستسلام (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — تفويض طبيعي للمقالة كاملة: 15 من 77 مقالة كتبها النموذج بالكامل، و20 طلبًا لمقالة كاملة (Jelson et al. 2026)

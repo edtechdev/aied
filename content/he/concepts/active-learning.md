@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
@@ -86,52 +88,3 @@ ai_assist:
 - **"חקר בסיוע AI הוא אוטומטית מסדר גבוה."** קוואזי-ניסוי עם **120 תלמידי כיתה ח׳** מצא ש[[inquiry-based-learning|למידה מבוססת-חקר]] בסיוע AI העלתה ביצועים מתמטיים יצירתיים **וגם** מדד צר יותר — ההתערבות הזיזה חלק מהתוצאות ולא אחרות. מתאם עם תווית של מסדר גבוה אינו אותו דבר כמו משימה מסדר גבוה.
 - **"סטודנטים שמעצבים את ההוראה עוסקים בתרגיל טכני."** במחקר ההיפוך, **345 סטודנטים** בקורס בן 700 סטודנטים כל אחד תכנן סוכן שיחה שילמד שלוש תבניות עיצוב לעמית. הלמידה הפעילה נבעה מעבודת העיצוב, שהיא הנמקה [[pedagogy|פדגוגית]] ולא הנדסת הנחיה.
 - **"ממצאי מעורבות הם ממצאי למידה."** אותו בסיס ראיות מזהיר שעיצוב **ללא קבוצת ביקורת ועם דגימת מתנדבים** תומך בטענות על מעורבות בלבד. הסטודנטים העריכו חופש עיצוב פתוח (**22.3%** כנושא החיובי המוביל) והתלוננו ביותר על הוראות לא ברורות (**23.7%**) — שניהם עוסקים בחוויה.
-
-## מושגים מחוברים
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-
-## מאמרים מחוברים
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — חונכות AI מתגברת על למידה פעילה בכיתה: RCT שמציג עיצוב מבוסס-מחקר חדש בהגדרה חינוכית אותנטית (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — מסגרת GenAI ללמידה פעילה לכלכלה (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — מחקר EEG של מצבי אינטראקציה עם בינה מלאכותית (אינטראקטיבי > אוטומטי)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: למידה אקספלורטורית חזותית דרך סימולציה מרובת-סוכנים
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: סקירה שיחתית מדורגת לאחר-הרצאה
-- [[academic-league-of-ai-2026]] — הליגה האקדמית של AI: למידה פעילה מבוססת-פרויקטים
-- [[mujib-ai-ibl-creative-math-2026]] — IBL בסיוע בינה מלאכותית וביצועים מתמטיים יצירתיים
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — מאפייני לומד × אינטראקציות פורמט-דיאלוג ב-TTS
-- [[instructional-guidance-genai-learning]] — חזרה ב-AI עם הנחיה לעומת בלי הנחיה: המבנה, ולא הגישה למודל, הזיז את הציונים בפריטים פתוחים
-- [[assigned-ai-preclass-student-engagement-2026]] — חזרה מוקצית ב-AI לפני השיעור העלתה את ההשתתפות בכיתה ב-31% לאחר שימוש שני, לא ראשון

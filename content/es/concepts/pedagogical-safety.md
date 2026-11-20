@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -85,49 +87,3 @@ La seguridad pedagógica es la capa protectora que conecta el [[hallucination-ri
 **"El tutor más seguro es el que más rechaza."** Un sistema que "rechaza de forma uniforme" puede aun así afianzar la desigualdad, que es la segunda forma de fallo silencioso. El modo de fallo no es solo un tutor que responde correctamente y erosiona el aprendizaje; es también un tutor cuyos rechazos distribuyen el apoyo de forma desigual entre los estudiantes, y una política de rechazo indiscriminado cambia un riesgo visible por uno invisible.
 
 **"Cualquier trabajo de seguridad a nivel de modelo es una medida de relaciones públicas."** Parte de él es medible. El trabajo de [[llm-unlearning-math-privacy|desaprendizaje matemático]] aplica desaprendizaje basado en gradientes para eliminar información identificativa y contenido dañino, e informa de una salida con PII que baja al **0,1%** y de tasas de toxicidad del **0,0%** mientras conserva la capacidad. Los controles a nivel de modelo son una capa de una defensa por capas: insuficientes por sí solos, y no son nada.
-
-## Conceptos conectados
-- [[guardrails|barreras de protección]] — los mecanismos de diseño que implementan la seguridad
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Artículos conectados
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — El marco SCAFFOLD para guiar el diálogo entre estudiantes e IA, con su piloto de aula
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Capas de seguridad diseñadas por docentes: fronteras de dominio, filtrado y anulación
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: un marco de diseño para una IA segura y sólida para el aprendizaje
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

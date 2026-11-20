@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -70,37 +72,3 @@ ai_assist:
 - **"कम-संसाधन संदर्भों में AI नैतिकता का ढाँचा नहीं है और एक आयात करना पड़ता है।"** कम-संसाधन संदर्भ में कार्यरत माध्यमिक STEAM शिक्षक **औपचारिक सिद्धांतों के बजाय व्यावसायिक पहचान, कक्षा की वास्तविकताओं और सांस्कृतिक मानदंडों के माध्यम से AI नैतिकता पर तर्क करते हैं**। तर्क मौजूद है और स्थितिज है; सार्वभौमिक सिद्धांत-सूची उस पर खराब ढंग से स्थानांतरित होती है।
 - **"शासन-प्रकार विश्वविद्यालयों में AI एकीकरण का पूर्वानुमान करता है।"** **45 नाइजीरियाई विश्वविद्यालयों** (केंद्रीय, राज्य और निजी) के तुलनात्मक सामग्री-विश्लेषण में AI एकीकरण **संस्था की आयु और भौगोलिक स्थान से अनुमानित** मिला, **शासन-प्रकार से नहीं**। यह मान्यता कि सार्वजनिक और निजी संस्थान अलग होते हैं, खंडित होती है।
 - **"डिजिटल विभाजन मुख्य बाधा है।"** तीन फ़िलिस्तीनी विश्वविद्यालयों में **21 दृष्टिबाधित स्नातक छात्रों** के [[qualitative-research|गुणात्मक]] केस अध्ययन ने पाया कि GenAI **डिजिटल, भौगोलिक और सामाजिक-आर्थिक** बाधाओं को एक साथ पुल बनाता है। बाधाएँ परतों में हैं, और पहुँच को एकमात्र अवरोध मानना बाकी सबको अछूता छोड़ देता है।
-
-## संबंधित अवधारणाएँ
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## संबंधित लेख
-
-- [[genai-assessment-african-higher-education-review-2026]] — जनरेटिव AI के युग में मूल्यांकन पर पुनर्विचार: अफ्रीकी उच्च शिक्षा का एक व्यवस्थित साहित्य समीक्षा
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — नाइजीरियाई उच्च शिक्षा में संस्थागत संरचनाएँ, डिजिटल असमानता और AI एकीकरण
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — इंजीनियरिंग शिक्षा के लिए एकीकृत सामाजिक-संज्ञानात्मक मॉडल (बांग्लादेश)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: वियतनामी पाठ योजना
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: भारतीय ज्ञान प्रणाली डेटासेट
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: घाना STEM बेंचमार्क
-- [[genai-minoritized-knowledges-disability]] — अल्पसंख्यकीकृत ज्ञानों का हाशिया पर खड़ा होना
-- [[llm-cultural-relevance-k12]] — सांस्कृतिक रूप से प्रासंगिक K-12 शिक्षाशास्त्र के लिए LLM
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — रचनावाद के माध्यम से बांग्लादेशी उच्च शिक्षा में GenAI एकीकरण (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — दृष्टिबाधित शिक्षार्थियों के लिए सहायक GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — पाकिस्तानी विश्वविद्यालय छात्रों में NLP और मशीन लर्निंग का उपयोग करके तनाव पहचान और कल्याण समर्थन के लिए एक AI-संचालित सांस्कृतिक रूप से सचेत चैटबॉट
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — अल साल्वाडोर के AI ट्यूटरिंग पायलट के सीखने के दावे को सीमित करना (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — दक्षिण अफ्रीकी HDI में डिजिटल मध्यस्थों के रूप में शैक्षणिक विकासकर्ता: डिजिटल असमानता बनाम एल्गोरिदमिक उपनिवेशवाद
-- [[ai-ethical-awareness-ghana-students-2026]] — घानाई विश्वविद्यालय छात्रों की कृत्रिम बुद्धिमत्ता नैतिक जागरूकता
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — शिक्षा में AI के नैतिक सिद्धांत: शिक्षकों का संदर्भ-आधारित नैतिक तर्क
-- [[gouroubera-genai-benin-2026]] — बेनिन में 633 छात्र: साप्ताहिक उपयोग 92.3 प्रतिशत, कार्यभार प्रमुख चालक, इसलिए पहुँच अब बाध्यकारी सीमा नहीं (Gouroubera एट अल. 2026)

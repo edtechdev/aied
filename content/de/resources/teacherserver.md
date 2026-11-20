@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -40,8 +41,3 @@ Für K–12: Generatoren für Unterrichtsplan, Arbeitsblatt, [[special-education
 ## Anmerkungen
 
 Das Projekt behauptet einen lokal installierten KI-Server für Geschwindigkeit und dass Daten lokal verarbeitet und niemals gespeichert werden, dazu die Einhaltung der Richtlinien des Bildungsministeriums; die [Teamseite](https://teacherserver.com/index-team.php) nennt Zafer Unal, Professor an der University of South Florida, als Gründer und Entwickelnden, neben einem Beirat aus vier Fakultätsmitgliedern anderer Universitäten. Diese Angaben sind vor der Nutzung mit Arbeiten von Lernenden noch zu prüfen. Der Zugang erfordert eine Registrierung, und es gibt eine begleitende, später kostenpflichtige Plattform zum Bauen eigener Werkzeuge.
-
-## Verbundene Konzepte
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

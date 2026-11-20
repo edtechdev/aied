@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -89,40 +91,3 @@ ai_assist:
 - **"שיבוש סטודנטים מפיק רווחים יצירתיים."** **חיכוך אינו רווח יצירתי.** פרסונות AI מתנגדות הניעו שיח אתגר-ורפפלקציה ב**38.2% מהקבוצות** ובכל זאת לא הפיקו **שיפור מדיד בביצועים יצירתיים**. השיח השתנה והתוצאה המדודה לא.
 - **"ספרות K-12 קובעת ש-GenAI משפר יצירתיות."** סקירת היקף מונחית-PRISMA של **45 מחקרים (2017–2025)** מראה ש-GenAI בעיקר **משפר** יצירתיות ו**לעיתים רחוקות מודד** אותה. הממצא הדומיננטי של התחום הוא היסק מהעצמה נתפסת, שאינה מדידת תוצאה.
 - **"יותר תלות ב-GenAI פירושה יותר תוצרי יצירה."** בקרב **1,157 סטודנטים סינים לתארים מתקדמים**, תלות ב-GenAI הייתה **קשורה חיובית ליצירתיות מחקרית מדווחת-עצמית** — והקישור הוא ל**דיווח עצמי**, שהוא המדד החלש ביותר הזמין למבנה הזה.
-
-## מושגים מקושרים
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## מאמרים מקושרים
-
-- [[wei-genai-configurations-creative-phases-2026]] — תצורות בינה מלאכותית יוצרת לאורך שלבי יצירה: ניסוי 2 × 2 על ביצוע יצירתי וידע מיידי בחינוך לאמנות ולעיצוב
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — הפקת תמונות של בינה מלאכותית יוצרת לא שינתה ביצועי עיצוב אך הורידה יעילות עצמית יצירתית כללית
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
-- [[multi-agent-llm-social-learning]] — סיוע בשני מודלים החזיר את גיוון הרעיונות שמודל בודד שטח (Kumar et al. 2026)
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — יצירתיות תואמת, מעורבות עצבית מובדלת: ילדים מול מבוגרים המדברים עם ChatGPT בסורן fMRI
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — תמיכה בחינוך היצירתיות בעידן ה-AI: תפקיד המקור הנתפס של הדוגמה

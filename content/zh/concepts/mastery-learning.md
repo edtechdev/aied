@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -72,26 +74,3 @@ Bloom 的掌握学习把教学的目标从"按天资给学生分类"重新框定
 **"掌握学习是 AI 终于使之成为可能的教学法。"** 它的机制远远早于 AI：Bloom 在几十年前就把这一框架形式化了，而 AI 是通过自动化评估与步调决定来把它操作化，而不是实现了一个此前不可能的设计。这一重新框定之所以重要，是因为自动化继承了规则的选择，而判断恰恰住在规则里。
 
 **"掌握学习下更频繁的评估使阈值更可靠。"** 频率改善的是估计，并不修复一条设定错误的规则。从包含受协助工作的事件中更频繁地重算掌握，只会更快地收敛到同一个错误答案。
-
-## 关联概念
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] —— 作为掌握循环内部的练习引擎的提取与间隔
-
-## 关联文章
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] —— 欺骗性过度泛化：适应性掌握可能在学习者知道何时扣留一个动作之前就结束练习（An、McLaren & Stamper 2026）
-- [[neural-symbolic-knowledge-tracing]] —— 为负责任、可解释的学习者建模而把掌握/未掌握规则注入深度学习
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] —— 给受协助的工作计分会虚增掌握：哪条证据规则决定谁被宣布掌握（Srivastava 2026）
-- [[simulating-learner-task-selection]] —— 模拟学习者的任务选择策略与掌握学习中的系统约束（Noh 等 2026）
-
-- [[schuetze-knowledge-tracing-forgetting-2026]] —— 知识追踪高估下一次会话的表现并错过间隔效应（Schuetze、Yan 与 Carvalho 2025）
-

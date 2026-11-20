@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,10 +47,3 @@ Zor materyaller üzerinde çalışan bağımsız öğrenenler ile istemleri ve d
 ## Notlar ve uyarılar
 
 Ücretsiz olan yazılımı kapsar, çıkarımı değil: öğrenenler sağlayıcı anahtarlarını, bir aboneliği, yerel bir Claude Code CLI'yi veya OpenAI uyumlu herhangi bir uç noktayı getirir ve sağlayıcıya aracı olmadan ödeme yapar; canlı bir ölçer yalnızca bilinen API maliyetlerini tahmin eder. Kayıtlar, sohbetler ve anahtarlar makinede düz dosyalar olarak kalır, ancak proje yerel depolamanın çevrimdışı işleme anlamına gelmediği konusunda uyarır; çünkü model istekleri, isteğe bağlı dikte ve web araştırması dış hizmetlere ulaşır. Windows x64 yükleyicisi imzasızdır, bu yüzden Windows uyarı verir. Bildirilmiş bir etkililik çalışması yoktur, dolayısıyla sav ölçülmüş sonuçlara değil açıklanan gerekçeye dayanır; depo 2 Kasım 2026'da kontrol edildiğinde yaklaşık 4.800 yıldıza sahipti.
-
-## Bağlı kavramlar
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

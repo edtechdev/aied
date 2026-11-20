@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -101,38 +103,3 @@ Presque chaque affirmation forte ici repose sur une seule étude courte. Les deu
 - **« Les services vocaux payants surpassent les gratuits. »** **Les deux services gratuits renvoyaient des transcriptions quasi complètes (87.96% et 88.34% de couverture, avec des taux d'erreur de mots de 15.23% et 15.00%)**, tandis que les deux services payants n'exportaient que des aperçus, à 32% de couverture. Le prix ne prédisait pas l'utilité, et l'offre payante bridait la sortie plutôt que de l'améliorer.
 - **« Tout chatbot d'apprentissage des langues améliore la prononciation. »** Sur **dix études**, **seuls les chatbots conçus pour l'apprentissage des langues — Andy English bot et Xiaoying — amélioraient l'exactitude**, avec une **baisse d'erreur de 14% dans un groupe témoin** en comparaison. Les agents conversationnels génériques ne produisaient pas ce gain.
 - **« Des gains d'auto-efficacité signifient des gains de compétence. »** L'association entre la technologie et les résultats était positive, l'**auto-efficacité la médiant partiellement : la voie indirecte comptait pour 69.9% de l'effet total tandis qu'un effet direct subsistait**. L'essentiel de l'effet passait par la confiance, qui est un mécanisme et aussi une mise en garde.
-
-## Concepts liés
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## Articles liés
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Les gains d'exactitude ne viennent que des chatbots d'apprentissage des langues, et l'ASR échoue sur les noms accentués
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Un agent vocal téléphonique braqué sur le canal de rétroaction lui-même
-- [[asr-english-speaking-feedback-metacognition-2026]] — Rétroaction ASR sur l'expression orale : la qualité bat la quantité, et la maîtrise module qui en bénéficie (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — L'auto-efficacité en prononciation médiatise la rétroaction sur la prononciation par IA générative et la volonté de communiquer (1,701 apprenants d'anglais langue étrangère)
-- [[llm-tts-dialogue-lesson-generation]] — Pipeline de leçons LLM + TTS : la narration synthétique égalait la voix de l'enseignant ; le dialogue aidait la compréhension
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interactions style d'apprentissage × format de dialogue dans les leçons générées par TTS (222 étudiants)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Interlocuteurs humains contre IA : monologue soutenu, appropriation et amorçage syntaxique en allemand L2
-- [[kutti-ai-voice-first-learning-companion]] — Compagnon vocal d'abord et hors ligne avec détection de la difficulté en temps réel pour les enfants déficients visuels
-- [[agent-voice-accents-k12-group-learning]] — L'accent de l'agent façonne l'anthropomorphisation et la collaboration dans les travaux de groupe au primaire et secondaire (33 enseignants)
-- [[asynchronous-oral-assessment-2026]] — Évaluations orales asynchrones : évaluation parlée évolutive, avec une réserve sur les gains d'apprentissage
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Revue plaidant pour les examens oraux comme évaluation authentique et protectrice de l'intégrité
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice : évaluation vocale hors ligne dans des ateliers de formation professionnelle, où l'IA révèle des preuves et non des notes
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Quatre profils d'interaction parmi des stagiaires en interprétation utilisant un soutien ASR/TA
-- [[gpt-item-generation-l2-listening-2026]] — Formulation d'invites contre ajustement fin de GPT pour la génération d'items d'écoute en L2
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Geste et parole : pourquoi une évaluation orale fondée sur la seule parole manque les preuves de la compréhension
-- [[ai-guided-learning-audiovideo-2026]] — Vitesse audio adaptative, résumés vidéo préservant la voix et rétroaction sur la prononciation sans étiquettes
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour des apprenants sourds et malentendants
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Quand les tuteurs IA parlent : données d'une expérience de terrain randomisée
-- [[ai-mediated-input-medical-english-asr-2026]] — Transformation de l'entrée médiée par l'IA en anglais médical : reconnaissance de la parole et fiabilité des transcriptions

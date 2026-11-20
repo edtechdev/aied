@@ -19,6 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 reviewed_by: [editor]
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 **OpenMAIC** is the open-source release of the MAIC multi-agent classroom described in [[intelligent-tutoring|the MAIC study]]: describe a topic or attach your own materials and it generates a full lesson — slides, quizzes, interactive HTML simulations and project-based activities — then delivers it through AI teachers and AI classmates who speak, draw on a whiteboard and take part in discussion. It is the code behind a classroom that can be run rather than only read about.
@@ -34,8 +35,3 @@ Instructors and course teams who want generated materials they can still edit, i
 ## Notes
 
 Licensed MIT, with an English and Chinese user guide and an active community on Discord and Feishu. It is model-neutral: you supply at least one LLM provider key, and optional local components (Lemonade for local models, FunASR for speech recognition) let you run more of the stack offline — so "free" describes the software, not the inference bill. The paper behind it appeared in the *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), and the repository had more than 38,000 stars by September 2026.
-
-## Connected Concepts
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -121,58 +123,3 @@ Upande mzuri: mifumo ya AI inazidi kugundua na kusaidia kupunguza mkazo na wasiw
 - **"Wasiwasi wa AI ni wenye madhara pekee."** Wasiwasi huu **si hasi pekee**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] anagundua kuwa **wasiwasi wa AI unaweza kuwa na tija**, huku wasiwasi wa juu ukihusishwa na udhibiti wa kimkakati zaidi. Wasiwasi hufanya kazi kama ishara ya kuchunguza badala ya mzigo peke yake.
 - **"Wanafunzi wote wenye wasiwasi hujibu kwa njia ile ile."** Aina nne za udhibiti za Kim, **Kutegemea Bila Ukaguzi 18.7%, Ujumuishaji wa Kuchagua 34.6%, Mabadiliko ya Kutathmini 31.8%, Kukataa kwa Mkakati 14.9%**, zinaonyesha kuwa uangalifu unaoendeshwa na wasiwasi huzalisha **mifumo minne tofauti**. Uingiliaji unaolenga "wanafunzi wenye wasiwasi" unakosa ukweli kwamba kikundi kikubwa zaidi kimoja kinajumuisha kwa kuchagua.
 - **"Wasiwasi huzuia ushirikiano kila wakati."** Uwekaji upya huo una **mpaka katika kuzungumza**: miongoni mwa **wanafunzi 708 wa Kiingereza**, uhusiano wa wasiwasi wa kuzungumza na nia ulikuwa **-0.371 kwa uwezo binafsi wa chini wa kuzungumza lakini +0.137 kwa ule wa juu**. Wasiwasi unaweza kuambatana na nia pale uwezo binafsi ni wa juu, kwa hivyo mwelekeo wa athari unategemea kujiamini.
-
-## Dhana Zilizounganishwa
-
-- [[career-development-and-readiness]] — utayari wa kazi kama kigezo chenye kinga dhidi ya wasiwasi wa AI
-- [[well-being]] — pazia pana ambalo dhana hii inaendeleza kwa undani
-- [[remote-proctoring]] — chanzo kikuu cha mkazo wa ufuatiliaji/kushitakiwa kwa makosa
-- [[social-emotional-learning]] — uwezo wa kihisia unaohusika
-- [[affective-computing]] — AI inayosoma hali ya kihisia
-- [[affective-tutoring]] — AI inayojibu hisia
-- [[academic-integrity]] — kipimo cha uadilifu/kushitakiwa kwa wizi
-- [[privacy]] — wasiwasi wa ufuatiliaji unaoanzia mkazo wa usimamizi wa mtihani
-- [[student-experience]] — wasiwasi kama sehemu ya uzoefu wa mwanafunzi
-- [[motivation]] — athari ya wasiwasi kwa kupitisha na ushirikiano
-- [[self-regulated-learning]] — uhusiano wa wasiwasi wenye tija
-- [[ai-literacy]] — kujenga uwezo unaopunguza wasiwasi usio na msingi
-- [[equity-in-ai-education]] — mkazo usio sawa kwa wanafunzi walio katika hali dhaifu
-- [[ethics]] — haki ya ufuatiliaji na kushitakiwa kwa makosa
-- [[teacher-role]] — wasiwasi wa upande wa mwalimu
-- [[assessment]] — wasiwasi wa tathmini inayosimamiwa na AI
-- [[social-norms-ai-use]] — gharama ya kihisia ya kuonekana
-
-## Makala Zilizounganishwa
-
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Uwezo huongeza ufahamu wa maadili, ufahamu wa maadili huongeza wasiwasi wa AI: upatanishi wa ishara tu miongoni mwa wanafunzi 584
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Wasiwasi wa AI kama ishara ya udhibiti wa kimkakati yenye tija
-- [[aivaluate-anxiety-assessment-2026]] — Wasiwasi wa wanafunzi katika tathmini inayotegemea utendaji inayosimamiwa na AI
-- [[ai-campus-wellbeing-tools]] — Zana zinazoendeshwa na AI kwa ustawi wa chuo
-- [[affective-text-wearable-student-health]] — Maandishi ya kihisia + hisia za vifaa vilivyovaa kwa afya ya mwanafunzi
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Usimamizi wa mtihani wa kiotomatiki, wasiwasi wa wanaotoa mtihani, kushitakiwa kwa makosa
-- [[automated-online-exam-proctoring-decade-review-2026]] — Mapitio ya miaka kumi ya usimamizi wa mtihani mtandaoni wa kiotomatiki
-- [[moral-panic-genai-classroom]] — Wasiwasi wa wataalamu na hofu za maadili kuhusu GenAI
-- [[acceptance-ai-english-tools-2026]] — Wasiwasi vinavyounda kukubalika kwa zana za AI
-- [[teacher-education-ai-literacy-sdt-2026]] — Elimu ya walimu, ujuzi wa AI, na wasiwasi
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Matumizi ya AI yanayoungana na wasiwasi, uaminifu, ujasiri
-- [[qu-wang-disclose-or-not-genai-2026]] — Dilema ya kufichua kama chanzo cha mkazo wa mwanafunzi
-- [[kim-ai-anxiety-comprehensive-analysis]] — Uchanganuzi kamili wa wasiwasi wa AI na uingiliaji
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Uwezo wa kukabiliana na kazi unapunguza wasiwasi wa AI
-- [[duan-ai-anxiety-career-decisions-college-2026]] — Wasiwasi wa AI unadhuru maamuzi ya kazi kupitia uwezo wa kukabiliana na kazi
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — Wasiwasi wa AI na mitazamo yanatabiri wasiwasi wa kupata kazi
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — Wasiwasi wa AI unatabiri wasiwasi wa kutafuta kazi katika sayansi za afya
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Msaada unaoonekana wa shule unapunguza wasiwasi wa kujifunza wa AI hasa kupitia tathmini za thamani-dhibiti (69.5% ya kupatanishwa); uthibitishaji wa mseto wa ANN (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
-- [[parlant-emotional-micro-interventions-2026]] — Uingiliaji madogo ya kihisia ya wakati halisi wa upande wa mkufunzi zilizojengwa kwenye nadharia ya tathmini ya kifikra
-
-- [[ai-employment-threat-career-anxiety-2026]] — Tisho la ajira la AI na wasiwasi wa maamuzi ya kazi: uwezo wa kuajiriwa unaoonekana unapatanisha na mwelekeo wa ukuaji unadhibiti
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Shinikizo la matumizi ya AI unaudhoofisha uhusiano kati ya uwezo wa AI na marekebisho ya mwaka wa kwanza
-- [[ai-attitude-latent-profiles-career-development-2026]] — Wasifu wa juu kwa wasiwasi wa AI na ubora unaoonekana wa AI kwa pamoja, si mmoja au mwingine
-- [[ai-speaking-practice-communicative-readiness-2026]] — Uhusiano wa wasiwasi wa kuzungumza na nia ya kuwasiliana unabadilika mwelekeo kwa uwezo binafsi wa juu wa kuzungumza
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Akili ya msaidizi ya AI inayoonekana inapunguza wasiwasi wa kitaaluma kupitia maendeleo ya malengo ya kujifunza (wanafunzi wa afya)
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Wakala anayefanana na mtahini alipandisha kuzungumza kulikopimwa na wasiwasi kwa wakati mmoja

@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,6 +45,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 사용하기 전에 알아야 할 것
 
 책 전체가 PDF와 ePub로 무료이며, 개별 장도 자체 DOI와 함께 별도로 출판되어 있습니다. 출판은 2026년 7월, WAC Clearinghouse의 WAC Repository 시리즈로, 402쪽이며 Anuj Gupta와 Brian Gogan이 편집했고 모음집 DOI는 10.37514/TWR-B.2026.2999입니다. 라이선스는 Creative Commons BY-NC-ND 4.0이므로 독자는 열람하고, 개인용으로 인쇄하고, 책에 링크할 수는 있지만 다른 사이트에 복제하거나 허락 없이 개작할 수는 없습니다. 수정된 프롬프트 문구를 원하는 수업은 이것을 재수록하기보다 자체 버전을 만들어야 합니다. 각 장의 프롬프트는 여러 플랫폼에서 검증되었지만, 책은 결과에 대한 통제된 비교를 보고하지 않으므로, 이 프롬프트들은 검증된 중재가 아닌 전문가의 설계로 다루십시오.
-
-## 연결된 개념
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,36 +71,3 @@ Akses dapat menjenuh sebelum kapabilitas melakukannya: di antara 633 mahasiswa d
 - **"Konteks bersumber daya rendah tidak memiliki kerangka etika AI dan membutuhkan satu yang diimpor."** Guru STEAM menengah yang sudah bertugas dalam konteks bersumber daya rendah **menalar etika AI melalui identitas profesional, realitas kelas, dan norma kultural alih-alih prinsip formal**. Penalaran itu ada dan tersituasi; daftar prinsip universal bertransfer buruk ke atasnya.
 - **"Jenis tata kelola memprediksi integrasi AI di universitas."** Analisis konten komparatif atas **45 universitas Nigeria** (federal, negara bagian, dan swasta) menemukan integrasi AI diprediksi oleh **usia dan lokasi geografis institusi — bukan jenis tata kelola**. Asumsi bahwa institusi publik dan swasta menyimpang terbantahkan.
 - **"Kesenjangan digital adalah hambatan utama."** Studi kasus [[qualitative-research|kualitatif]] atas **21 mahasiswa tunanetra di tiga universitas Palestina** menemukan GenAI menjembatani hambatan **digital, geografis, dan sosial-ekonomi** secara bersamaan. Hambatannya berlapis, dan memperlakukan akses sebagai satu-satunya rintangan membiarkan yang lain tak tersentuh.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Artikel terkait
-- [[genai-assessment-african-higher-education-review-2026]] — Memikirkan ulang penilaian di era AI generatif: tinjauan literatur sistematis pendidikan tinggi Afrika
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Struktur institusional, ketimpangan digital, dan integrasi AI di pendidikan tinggi Nigeria
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Model sosiokognitif terpadu untuk pendidikan teknik (Bangladesh)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Perencanaan Pelajaran Vietnam
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Kumpulan Data Sistem Pengetahuan India
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Tolok Ukur STEM Ghana
-- [[genai-minoritized-knowledges-disability]] — Marginalisasi pengetahuan yang terminoritaskan
-- [[llm-cultural-relevance-k12]] — LLM untuk Pedagogi K-12 yang Relevan Secara Kultural
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Integrasi GenAI di pendidikan tinggi Bangladesh melalui konstruktivisme (Alam et al. 2026)
-- [[gouroubera-genai-benin-2026]] — 633 mahasiswa di Benin: penggunaan pekanan 92.3 persen, beban kerja pendorong dominan, sehingga akses bukan lagi kendala pengikat (Gouroubera dkk. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI asisten bagi pembelajar tunanetra
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot berbasis AI yang Sadar Budaya untuk Deteksi Stres dan Dukungan Kesejahteraan di Kalangan Mahasiswa Universitas Pakistan Menggunakan NLP dan Pembelajaran Mesin
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Membatasi klaim pembelajaran percontohan tutoring AI El Salvador (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pengembang akademik sebagai mediator digital di HDI Afrika Selatan: ketimpangan digital vs. kolonialitas algoritmik
-- [[ai-ethical-awareness-ghana-students-2026]] — Kesadaran etis kecerdasan buatan mahasiswa universitas Ghana
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Prinsip etis AI dalam pendidikan: penalaran etis kontekstual guru

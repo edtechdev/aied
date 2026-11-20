@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -134,49 +136,3 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - **"局限性章节是套话。"** 方法论局限是**可测量的，而非印象式的**：在一项对 **80 项 HCI 研究**（主题为 AI 与批判性思维）的批判性综述中，**42 项（52%）没有设置对照组**。把局限变成一个精确的计数，它才可付诸行动。
 - **"异质性是一个可以引述的单一数字。"** 同一篇综述显示了一种报告风险：异质性被引述为固定效应模型下的 **I² = 82.98%** 与随机效应模型下的 **I² = 15.75%**。同一批数据，取决于所选模型，可以讲成九点的故事，也可以讲成两点的故事，因此脱开模型引述的 I² 无法解读。
 - **"一个大的已报告效应就是可信的那个数字。"** 诸如**某一机构某门课程中 30 名学生**得出的效应这类头条数字，是脆弱主张的常见形态，而没有对照组的研究占比说明这种脆弱性有多少未被报告。
-
-## 关联概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — AI 教育中的理论发展
-
-## 关联文章
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育中的 AI 聊天机器人：把期望与证据相对照（Thoeni & Fryer 2026）
-
-- [[ground-truth-reliability-aied]] — 评估中真值的信度与效度
-- [[ai-literacy-assessment-misalignment]] — 自我报告与基于表现的 AI 素养
-- [[machines-misread-pedagogical-quality]] — 机器为何误读教学质量
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — AI 导师的批判性局限与理论使用
-- [[cross-dataset-bloom-question-classification]] — Bloom 分类学与问题分类
-- [[eeg-familiarity-automated-assessment-2026]] — 学习者评估的自动化：基于 EEG 的熟悉度预测
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育中的 ChatGPT：一项寻找原因的效应（媒体比较批评）
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 元-元分析：经发表偏倚调整后的 AI 效应约为报告规模的三分之一
-- [[oneill-presumed-effective-meta-analysis-2026]] — 推定有效：对 14 篇 AIED 元分析的法证式审计
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM：面向 AI 辅助系统综述的经验性报告框架
-- [[frontier-models-physics-benchmark-audit-2026]] — 前沿模型在物理上表现如何？专家重新评分揭示破损的评估与领先基准的接近饱和
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 把纳入标准当作严谨性门槛，以及一个随模型而变的异质性数字（Doğan 等 2026）
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 一项表现结果未达显著性的整群随机课堂试验（Rücker & Becker-Genschow 2025）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 评估 LLM 生成的学生写作反馈中的反馈焦点与教学适应性
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：面向教育对话可审计编码的基于断言的模式
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 从情感分类到可行动且负责任的反馈：教学评价中 NLP 的范围综述与证据地图，2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性检查
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 195 项教师教育研究的范围综述：检索串设计塑造了所报告的频率
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — 跨国 K-12 教师调查：机器翻译题项、单题关切测量、无不变性检验
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 项 GenAI 高等教育研究的系统综述：56% 的有条件收益、掩盖过程变化的成绩（Hawi & Samaha 2026）
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — 数据增强可以制造头条指标
-- [[tischkau-ai-simulated-patient-formats-2026]] — 可行性作为一类独立结果：26% 的招募率、100% 的完成率，结果在收集之后才定义

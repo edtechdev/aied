@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -84,45 +86,3 @@ ai_assist:
 - **”سمولیشن سستا ہے اور اِس لیے دوسرے درجے کا۔“** خودمختار [[llm|LLM]] سم-پائلٹ **ہوائی ٹریفک کنٹرول کی سمولیشنوں میں تعینات ماہر انسانی رول پلے کرنے والوں کی جگہ لے کر تربیت کی گنجائش کی رکاوٹ ہٹا دیتے ہیں** — پابندی عملہ تھی، وفاداری نہیں۔ جہاں انسانی رول پلے کرنے والے کم ہوں، وہاں LLM سمولیشن متبادل نہیں بلکہ واحد دستیاب آپشن ہے۔
 - **”سمیولیٹر اوسط کیسوں کی طرح برتاؤ کریں۔“** [[residencyrl-clinical-rl-training-2026|ResidencyRL (لیوین وغیرہ، 2026)]] ایک پالیسی ایجنٹ کو **مخالفانہ برتاؤ کے لیے بنائے گئے LLM مریض سمیولیٹروں** کے ساتھ جوڑتا ہے۔ تعاون کے لیے ڈیزائن کیا گیا سمیولیٹر سیکھنے والے کی مشق کو کلینک سے آسان بنا دیتا ہے، جو تربیت کی ضرورت کے عین اُلٹ ہے۔
 - **”تحریر شدہ منظرنامے غیر یقینی کے تحت فیصلہ سازی سکھاتے ہیں۔“** SupplyNet کے سیاق و سباق والے کئی ایجنٹ **حرکیات سیکھنے والوں کے فیصلوں سے ابھرتی ہوئی پیدا کرتے ہیں، تحریر شدہ** ترتیبوں سے نہیں۔ تحریر شدہ منظرنامے معلوم راستے کی مشق کرواتے ہیں؛ ابھرتی ہوئی حرکیات والے فیصلے کی۔
-
-## منسلک تصورات
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — کیمیا کی تعلیم اور AI: لیب، تکوینی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[biology-education]] — حیاتیات کی تعلیم اور AI: لیب میں تدریسی معاون، حیاتیات میں AI خواندگی، تنقیدی سوچ، مخصوص آلات
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیز اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
-- [[virtual-and-augmented-reality]] — ماڈل، نہ کہ طریقہ — غوطہ خیز ماحول عموماً سمولیشن پیش کرتے ہیں
-- [[ai-avatars-and-synthetic-instructors]]
-
-## منسلک مضامین
-- [[learner-agency-ai-simulation-2026]] — پیچیدہ نظاموں کی سمولیشن میں پیرامیٹر کا کنٹرول اور اختیاری AI ایجنٹ: فوائد نے عمل کی پیروی کی، رسائی کی نہیں
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — نفسیاتی علاج کی تربیت کے لیے انطباقی مجازی مریض
-- [[ai-enabled-serious-games]] — AI سے فعال سنجیدہ گیمز
-- [[anvil-ai-educational-animations]] — ANVIL: لیکچرز کے لیے تشبیہات اور ویڈیوز
-- [[astra-atco-training-simulator]] — ASTRA: ATCO تربیتی سمیولیٹر
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: بصری کھوجی سیکھنا
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI معیاری مریض
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — پاس بیٹھے شخص کی مداخلت کے لیے روبوٹ کی وساطت والا رول پلے کھیل (اطلاقی ڈرامہ)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — منظرنامہ پر مبنی صحت کی تعلیم میں GenAI کا منظم جائزہ (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — کاروباری سمولیشن گیمز میں AI مکالماتی ایجنٹوں کے لیے CAIS-GBL فریم ورک (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — فائن ٹیون شدہ، شریک کے مطابق LLM ایجنٹ جو تعاون پر مبنی مسئلہ حل کرنے کی گفتگو دوبارہ پیدا کرتے ہیں (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — کئی ایجنٹوں والی ٹیوٹرنگ اور شرکت میں توازن رکھنے والے تعاون کے لیے ASTRA مصنوعی بینچ مارک
-- [[simulation-assisted-drone-learning-stem-2026]] — استاد-AI کے شریک ڈیزائن کردہ سہاروں کے ساتھ سمولیشن کی معاونت والی ڈرون سیکھنا
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — نرسنگ میں AI سے چلنے والی سمولیشن: مخلوط طریقوں کا منظم جائزہ (صداقت کا خلا، تدریجی تسلسل)
-- [[sophie-clinical-communication-ai-assessment-2026]] — قابلِ توسیع AI پر مبنی کلینیکل مواصلات کی تربیت اور خودکار جانچ
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM تعلیم میں ڈیجیٹل ٹوئن: نمونے سب کام کر گئے، سیکھنے کے فوائد زیادہ تر نہیں
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — ٹیکنالوجی اپنانے سے نصابی ہم آہنگی تک: صحت کے پیشہ ورانہ تعلیم میں ٹیکنالوجی سے بڑھی سمولیشن بطور پل
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — سمولیشن چکر میں ایک استاد مکالماتی ایجنٹ کو کیا تفویض نہیں کر سکتا
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — فلپڈ فزکس سیکھنے کے لیے AI کی معاونت والی مجازی لیبارٹری: مڈل اسکول طلبہ کے حصول، محرک اور علمی بوجھ پر اثرات
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — چار تہوں والا فریم ورک جو پیش کی گئی مشق، نقلی صورتحال، ایجنسی اور انطباق، اور تنظیم کو الگ کرتا ہے

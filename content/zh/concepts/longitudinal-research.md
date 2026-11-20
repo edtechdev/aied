@@ -15,6 +15,8 @@ ai_assist:
 translation_of: concepts/longitudinal-research
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -114,28 +116,3 @@ Song 及其同事对 75 名大学一年级学生为期一个学期的研究，�
 - **“大样本能弥补短窗口。”** 样本量解决的是精度问题，而不是一个发展性或制度性过程展开所需的时间。
 - **“同一个项目就意味着同一批人。”** 重复横断面追踪的是总体，不是个体；两者支持不同的断言。
 - **“自陈的趋势就是态度的趋势。”** 报告的使用与报告的立场会随规范、随测量工具以及随行为而变化。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## 关联文章
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — 三波面板，把特质与状态分开（Xu）
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 参与、心流与情绪智力的五波增长模型
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教师教育中四个学期的生成式 AI 使用与伦理认知
-- [[song-genai-learning-partner-srl-over-time-2026]] — 为期一个学期的自我调节研究，显示评价压力下的下降
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 覆盖三种 AI 条件的九周纵向准实验
-- [[ai-lms-middle-school-longitudinal]] — 面向中学的 AI 集成 LMS 提议（设计，而非纵向研究）

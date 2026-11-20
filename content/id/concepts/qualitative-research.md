@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -103,40 +105,3 @@ Metode kualitatif dan kuantitatif saling melengkapi, bukan bersaing — lihat [[
 **"Saturasi adalah sifat dari jumlah peserta."** Ia adalah sifat dari analisis: Anda berhenti ketika data baru berhenti menghasilkan kode baru. Dua studi dengan ukuran sampel identik dapat sama jauhnya dari saturasi, itulah sebabnya laporan yang mengutip jumlah peserta sebagai bukti kecukupan belum menunjukkan apa pun tentang cakupan.
 
 **"Temuan kuantitatif dan kualitatif saling bersaing."** Keduanya menjawab pertanyaan yang berbeda: survei memberi tahu berapa banyak siswa yang tidak memercayai tutor, dan wawancara memberi tahu mengapa. Memperlakukan keduanya sebagai kisah yang bersaing tentang hal yang sama menghasilkan pilihan palsu yang terus direproduksi bagian tinjauan.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## Artikel terkait
-- [[chain-behind-claim-warrantability-2026]] — standar warrantability untuk analisis kualitatif berbantuan AI
-- [[liu-tool-tutor-crutch-programming-2026]] — Alat, Tutor, atau Kruk: teori berakar tentang pemrograman berbantuan AI
-- [[trio-ethnography-llm-programming-education]] — Sebuah trio-etnografi tentang evolusi interpretasi dalam pemrograman yang didukung LLM
-- [[absent-cognitive-baseline-2026]] — Membangun teori tentang celah struktural dalam penilaian diri siswa asli AI
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi dalam penggunaan GenAI teks-ke-gambar
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Celah kepercayaan–kegunaan dalam pendidikan fisika
-- [[genai-teacher-feedback-comparison]] — Membandingkan umpan balik GenAI dan guru: persepsi siswa
-- [[hazra-safetutors-pedagogical-safety-2026]] — Keamanan tutor AI dan kerugian pedagogis
-- [[zha-ai-literacy-biology-case-study]] — Studi kasus integrasi literasi AI di kelas biologi
-- [[becker-chatgpt-typology-physics-2026]] — Tipologi kualitatif adopsi ChatGPT dalam fisika
-- [[scaffolding-critical-engagement-genai-minority-students]] — Wacana kolaboratif dalam prompt engineering di antara siswa minoritas etnis
-- [[human-vs-llm-ordered-coding]] — Membandingkan pengodean berurutan manusia dan LLM atas data kualitatif
-- [[agreement-not-quality-llm-coding-verification]] — Kesepakatan bukan kualitas dalam pengodean kualitatif LLM
-- [[same-ai-different-pathways]] — Membedah mekanisme pembelajaran yang dimediasi AI di berbagai konteks
-- [[drummond-genai-business-schools-framework-2026]] — Kerangka GenAI yang diinformasikan siswa melalui studi kasus
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Tutor AI kritis: memberdayakan atau memperbudak
-- [[genai-runaway-object-math-higher-ed]] — GenAI sebagai objek yang lepas kendali dalam matematika pendidikan tinggi
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI bantu untuk siswa tunanetra
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Keterlibatan emosional pembelajar EFL dalam penulisan berbantuan GenAI: studi kasus berganda longitudinal

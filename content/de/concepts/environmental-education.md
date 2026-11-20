@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -90,29 +92,3 @@ Der [[meta-analysis-systematic-review|Scoping Review]], der diese Literatur orga
 - **„KI in der Umweltbildung liefert vor allem Informationen.“** Die gemessenen Zuwächse liegen in der **Entscheidungsfindung**: Studierende, die innerhalb einer strukturierten [[inquiry-based-learning|Erkundungs]]aufgabe mit einem KI-Partner arbeiteten, übertrafen Peers mit reiner Erkundung (**d = 0,69**) und traditionellen Unterricht (**d = 1,88**) in einem Entscheidungsmaß, wobei sich die Zuwächse **auf die schwächsten Schritte konzentrierten**. Der Effekt liegt in der Qualität des Schlussfolgerns, an den Stellen, an denen Studierende am schwächsten waren.
 - **„Die Erkundung allein ist der Wirkstoff.“** KI-unterstützte Erkundung **verbesserte die Klima-Entscheidungsfindung gegenüber Erkundung allein**, sodass der KI-Beitrag zusätzlich zur pädagogischen Struktur kam und nicht mit ihr austauschbar war.
 - **„Große Effekte aus kleinen Stichproben sind immer noch große Effekte.“** KI-unterstütztes [[learning-design|Instruktionsdesign]] unter nachhaltigkeitsorientierter Pädagogik **verbesserte die Unterrichtsplanung angehender Lehrkräfte mit d = 2,80 bei 28** Teilnehmenden — das eigene Wort der Reviewenden ist *unplausibel groß*, und ein Effekt dieser Größe aus dieser Stichprobe sollte als Signal und nicht als Schätzung behandelt werden.
-
-## Verbundene Konzepte
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Verbundene Artikel
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Trennt KI für Nachhaltigkeit von nachhaltiger KI; Global-Süden-Lücke
-- [[ai-assisted-inquiry-ssi-climate]] — KI-gestützte Klimainquiry, d = 0,69 über Inquiry allein
-- [[aied-carbon-footprint-reporting]] — AIED-2025-Offenlegungs-Review plus eine Open-Source-Fußabdruckmethode
-- [[llm-environmental-impact-student-usage-2026]] — Öko-Feedback zu Latenz-Kohlenstoff-Trade-offs mit 89 CS-Studierenden
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantisierter Assistent bei 1,8 mWh pro Anfrage
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: Nachhaltigkeitsbewusstsein in der Ingenieurbildung
-- [[riandi-teacher-ai-green-energy-education-2026]] — Praktische KI-Nutzung und ESD-Materialentwicklung sagen Integration vorher
-- [[talebzadeh-ai-green-education-2026]] — KI-gestütztes Design unter den Bedingungen der Sustainable Development Pedagogy
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Der Beitrag von KI zu nachhaltiger Bildung als governance-vermittelt
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — „Sustainable learning“ als dauerhafte kognitive Handlungsfähigkeit, keine Umweltbehauptung

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -75,31 +77,3 @@ AIED میں پائیداری تین ایک دوسرے میں پیوست تشکی
 - **"AI کا مجرد علم اساتذہ کی پائیداری سکھانے کی صلاحیت کی پیش گوئی کرتا ہے۔"** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] نے پایا کہ سائنس اور سبز توانائی کے سیاق و سباق میں اساتذہ کا **AI کا عملی استعمال** اور **ESD کے مطابق مواد کی تیاری میں اُن کی شرکت** — **مجرد AI علم یا رویوں سے زیادہ** — اُن کی صلاحیت کی پیش گوئی کرتی ہے۔ AI کے بارے میں جاننا اور اُس کے ساتھ بنانا الگ الگ رہے، اور عملی راستے نے زیادہ پیش گوئی کی۔
 - **"پائیداری کی تدریس کے تحت AI کے سہارے تدریسی ڈیزائن پائیداری کی تدریس پیدا کرتا ہے۔"** اُسی کام نے پایا کہ پائیدار ترقی کی تدریس کے تحت AI کے سہارے [[learning-design|تدریسی ڈیزائن]] نے ڈیزائن کو مخصوص طریقوں سے **محدود** کیا، وسیع نہیں کیا۔ روایتی مواد پر تربیت یافتہ ماڈل روایتی تشکیلوں ہی کو دہراتا ہے، الا یہ کہ ڈیزائن کا کام اُس کی اصلاح کرے۔
 - **"پائیداری ایک موضوع ہے، ہمہ گیر معاملہ نہیں۔"** چونکہ دونوں راستے سطحوں میں پھیلے ہیں، پائیداری [[higher-ed|اعلیٰ تعلیم]]، K-12 اور پیشہ ورانہ سیاق و سباق میں آتی ہے — یعنی یہ ایک بنیادی موضوع ہے جسے ہر شعبے کے اندر حل کرنا ہوگا، الگ مضمون کے طور پر سکھانا نہیں۔
-
-## منسلک تصورات
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## منسلک مضامین
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — سویڈش سروے اور فوکس گروپ مطالعہ جو استدلال کرتا ہے کہ اداراتی genAI فیصلوں کی رہنمائی شراکت داری کی اخلاقیات کرے، نقل کے فریم نے نہیں
-- [[daniel-ai-sustainability-scoping-review-2026]] — اعلیٰ تعلیم میں پائیداری کے لیے AI اور پائیدار AI کا اسکوپنگ جائزہ
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — پائیدار تعلیم اور AI کے لیے قدر-تنقیدی نقطہ نظر
-- [[liu-ai-sustainable-engineering-education-2026]] — پائیدار انجینئرنگ تعلیم کے لیے AI-SEE فریم ورک
-- [[riandi-teacher-ai-green-energy-education-2026]] — سبز توانائی کی تعلیم میں AI کے انضمام میں اساتذہ کی شرکت
-- [[talebzadeh-ai-green-education-2026]] — سبز تعلیم میں AI کا کردار
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — پائیدار AI علم کی بنیاد کے معاونین
-- [[llm-environmental-impact-student-usage-2026]] — LLM استعمال کے ماحولیاتی اثرات
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — مجسم ذہانت کے ذریعے پائیدار سیکھنے کی پرورش
-- [[caruana-pre-university-ai-education-slr-2026]] — جامعہ سے پہلے کی AI تعلیم کا منظم ادبی جائزہ (SDG 4 کی تشکیل)

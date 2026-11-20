@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,7 +44,3 @@ Oktatók és kurzuscsapatok, akik generált anyagokat akarnak, amelyeket még sz
 ## Megjegyzések
 
 MIT licenc, angol és kínai felhasználói útmutatóval, valamint aktív közösséggel a Discordon és a Feishun. Modellsemleges: legalább egy LLM-szolgáltatói kulcsot Ön ad, az opcionális helyi komponensek (Lemonade helyi modellekhez, FunASR beszédfelismeréshez) pedig a verem nagyobb részét offline futtathatóvá teszik – így az „ingyenes” a szoftvert írja le, nem a következtetési számlát. A mögötte álló tanulmány a *Journal of Computer Science and Technology* folyóiratban jelent meg (2026, DOI 10.1007/s11390-025-6000-0), a repónak pedig több mint 38 000 csillaga volt 2026 szeptemberére.
-
-## Kapcsolódó fogalmak
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

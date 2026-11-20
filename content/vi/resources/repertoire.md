@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -52,9 +53,3 @@ Các giảng viên đại học muốn [[learning-design|thiết kế học tậ
 - **Suy luận qua bên thứ ba.** Các câu trả lời được tạo qua Claude API của Anthropic, với API của OpenAI làm dự phòng, theo các điều khoản thương mại mà chính sách cho biết loại trừ việc huấn luyện trên dữ liệu đầu vào và đầu ra của API tính đến tháng 9 năm 2026. Cơ sở giáo dục nên xác nhận điều đó qua thỏa thuận của chính mình thay vì qua một trang web.
 - **Đây không phải công cụ chấm điểm.** Cả chính sách lẫn điều khoản đều mô tả các phán đoán của trợ lý, chẳng hạn "đã đạt mục tiêu", như công cụ hỗ trợ giảng viên; điểm số và quyết định học thuật vẫn thuộc về giảng viên và cơ sở giáo dục, còn quyết định về việc [[ai-use-disclosure|công khai việc sử dụng AI]] với sinh viên được để cho giảng viên.
 - **Lưu trữ tại Mỹ.** Dữ liệu nằm trong Google Cloud Firestore với hạ tầng Vercel, và chính sách đề cập các nghĩa vụ FERPA ở nơi dịch vụ xử lý hồ sơ giáo dục; người dùng ngoài Hoa Kỳ được thông báo rằng dữ liệu của họ được xử lý tại đó.
-
-## Khái niệm liên quan
-
-- [[learning-design]] — thiết kế bài tập có cấu trúc như điểm mà chính sách AI trở nên cụ thể.
-- [[guardrails]] — cổng gắn kết và trợ giúp AI bị giới hạn như những ràng buộc ngay từ khâu thiết kế.
-- [[ai-use-disclosure]] — giảng viên, không phải nền tảng, quyết định cách khai báo việc sử dụng AI với sinh viên.

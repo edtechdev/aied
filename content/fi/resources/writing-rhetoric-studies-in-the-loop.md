@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -39,6 +40,3 @@ Kokoelman johdanto kehystää kehotteen retoriseksi genrekseen, jolla on panos t
 ## Mitä on tiedettävä ennen käyttöä
 
 Koko kirja on ilmainen PDF:nä ja ePubina, ja yksittäiset luvut julkaistaan erikseen omilla DOI-tunnuksillaan. Julkaisu on heinäkuulta 2026, julkaisijana WAC Clearinghouse WAC Repository -sarjassaan, 402 sivua, toimittaneet Anuj Gupta ja Brian Gogan, kokoelman DOI 10.37514/TWR-B.2026.2999. Lisenssi on Creative Commons BY-NC-ND 4.0, joten lukijat voivat katsoa, tulostaa henkilökohtaisia kopioita ja linkittää kirjaan, mutta eivät saa toisintaa sitä toisella sivustolla tai mukauttaa sitä ilman lupaa; kurssin, joka haluaa muokattua kehotteen sanamuotoa, kannattaa kirjoittaa oma versionsa näiden uudelleenpainamisen sijaan. Jokaisen luvun kehote testattiin alustojen yli, vaikka kirja ei raportoi kontrolloitua tulosten vertailua, joten kohtele kehotteita asiantuntijasuunnitteluna eikä validoituna interventiona.
-
-## Liittyvät käsitteet
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -100,44 +102,3 @@ ai_assist:
 - उपकरण वितरण को विभाजन बंद करने वाला न मानें। मापने योग्य अंतराल पदावली कौशल, इंटरफ़ेस भाषा और कनेक्टिविटी में बैठे हैं, और इनमें से कोई भी हार्डवेयर से नहीं सुधरता।
 - स्पष्ट रूप से बताएँ कि उपकरण कौन-सी अधोसंरचना मान लेता है। स्पष्ट रूप से कही गई आवश्यकता कम-संसाधन वाले परिवेश को निवेश से पहले उपयुक्तता आँकने देती है।
 - पूर्ण परिनियोजन की लागत निकालें, केवल सॉफ़्टवेयर लाइसेंस की नहीं। डिजिटल-ट्विन प्रमाण दिखाते हैं कि हार्डवेयर बिल वर्चुअलाइज़ेशन के बाद भी बच सकता है।
-
-## संबंधित अवधारणाएँ
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## संबंधित लेख
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — केन्या की eCitizen सेवा में भाषा, साक्षरता और अभिगम्यता के विभाजन: ई-गवर्नेंस में समावेशन के उत्तोलक (Amol & Wanzare 2026)
-
-- [[watanabe-genai-education-gap-europe-2026]] — क्या जनरेटिव AI उपयोग में शिक्षा अंतराल इंटरनेट के अंतराल से छोटा है? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — नाइजीरियाई उच्च शिक्षा में संस्थागत संरचनाएँ, डिजिटल असमानता और एआई एकीकरण
-- [[ai-divide-ses-personality-primary-education-2026]] — प्राथमिक शिक्षा में SES, व्यक्तित्व और एआई विभाजन (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED अनप्लग्ड: शिक्षक-के-रूप में-प्रतिनिधि ट्यूशरिंग बिना उपकरण वाले छात्रों तक पहुँचती है (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — स्कूल एआई शिक्षा मनोवैज्ञानिक लेकिन संज्ञानात्मक तैयारी खाइयों को संकुचित करती है
-- [[prompt-privilege-equitable-ai-access-2026]] — प्रॉम्प्ट विशेषाधिकार: LLM पहुँच में पहुँच-असमानताओं को मापना और कम करना
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — स्कैफोल्डेड एआई साक्षरता (SAIL) ढाँचा
-- [[oecd-digital-education-outlook-2026]] — OECD डिजिटल एजुकेशन आउटलुक 2026
-- [[aaai2026-prompting-literacy-k12]] — K-12 छात्रों को एआई चैटबॉट्स का उत्तरदायी उपयोग सिखाना
-- [[structural-silence-underrepresented-language-ai-2026]] — संरचनात्मक मौन और अल्पप्रतिनिधित भाषाएँ
-- [[sec-ai-literacy-narrative-review-2026]] — एआई साक्षरता में सामाजिक-भावनात्मक क्षमता
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — बहुभाषी निम्न-संसाधन संदर्भों के लिए एआई-आधारित अनुकूली सीखने का मंच
-- [[ai-science-chemistry-education-systematic-review-2025]] — विज्ञान/रसायन शिक्षा में एआई की व्यवस्थित समीक्षा
-- [[unesco-ai-guidelines-chemical-education-2026]] — यूनेस्को एआई दिशानिर्देशों का रासायनिक शिक्षा में अनुवाद; ज्ञानमीमांसक विचलन
-- [[lodge-loble-cognitive-offloading-2026]] — एआई, संज्ञानात्मक ऑफ़लोडिंग और शिक्षा के लिए निहितार्थ (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — समाजवादी मानवतावादी एआई साक्षरता + उचित उपयोग
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: ग्रामीण रोबोटिक्स पहुँच मेंटरशिप भूगोल का अनुसरण करती है, उपकरण पहुँच का नहीं (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — दक्षिण अफ्रीकी HDI में वितरणीय समस्या के रूप में डिजिटल असमानता बनाम ज्ञानमीमांसक के रूप में एल्गोरिदमिक औपनिवेशिकता
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: शैक्षिक समानता की ओर निम्न-लागत घरेलू भाषा सीखने के लिए एक स्थानीय-प्रथम एआई एजेंट ढाँचा
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — डिजिटल ट्विन प्रयोगशालाएँ एक उपकरण बिल वहन करती हैं जो समवर्ती पहुँच को सीमित करती है
-

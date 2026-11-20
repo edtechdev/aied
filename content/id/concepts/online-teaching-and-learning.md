@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -53,9 +55,7 @@ Pengajaran dan pembelajaran daring mengambil beberapa bentuk terkait yang berbag
 - **Desain sinkron versus asinkron.** Pembedaannya lebih penting daripada medium penyampaiannya, karena kedua format itu menuntut hal yang berlawanan dari pembelajar. Sesi sinkron membawa perhatian, laju, dan akuntabilitas di dalam sesi itu sendiri; kursus asinkron harus merancangnya masuk, karena pembelajar sendirian yang memutuskan kapan bekerja dan tidak menerima akuntabilitas ambien dari ruangan. Basis penelitian sering mengaburkan ini: tinjauan basis pengetahuan ini atas AI dan [[student-engagement|keterlibatan]] dalam pembelajaran daring (24 studi) memperlakukan keterlibatan secara tunggal dan secara eksplisit mencampuradukkan konteks sinkron dengan asinkron, sehingga kesimpulannya tidak boleh dibaca sebagai khusus asinkron. Yang khusus asinkron adalah bukti tentang bagaimana pembelajar yang berjalan mandiri kehilangan fokus dan laju — perilaku yang diatur sendiri seperti penetapan tujuan, penataan lingkungan, dan manajemen waktu paling bertepatan dengan distraksi digital yang rendah ([[decreasing-digital-distraction-college-online-learning-2026|Shi dkk. 2026]], 530 siswa), sementara pengetahuan metakognitif dan [[well-being|kesejahteraan]] menurun sepanjang semester seiring tenggat penilaian yang mengelompok ([[song-genai-learning-partner-srl-over-time-2026|Song dkk. 2026]], 75 siswa). Padanan praktisnya adalah FAQ tentang [[asynchronous-online-courses-ai|merancang dan memfasilitasi kursus asinkron ketika AI dapat mengerjakan tugasnya]].
 - **Pendidikan jarak jauh.** Program yang dirancang bagi pembelajar yang belajar dari jarak jauh, sering dalam skala besar dan lintas wilayah (mis., 200K+ pembelajar Open University). Pembelajaran jarak jauh adalah tempat dukungan AI 24/7 yang tertanam dalam konteks dan ketidakmungkinan pengawasan tatap muka paling menonjol. Bukti komparatif dari penyiapan guru di Afrika Selatan menunjukkan mediumnya sendiri berasosiasi dengan kesiapan: [[ai-training-science-teacher-tpack-distance-2026|Mnguni dkk. (2026)]] menemukan TPACK yang [[self-report-measures|dilaporkan sendiri]] untuk pengajaran [[science-education|sains]] terintegrasi AI lebih tinggi pada calon guru tahun akhir di universitas berbasis kampus (64.0%) daripada di universitas pendidikan jarak jauh (47.4%), dengan domain terlemah yang dilaporkan di kedua latar adalah Pengetahuan Pedagogis. Pola ini memperingatkan bahwa program jarak jauh tidak dapat mengasumsikan pelatihan AI yang sama menghasilkan kesiapan yang sama, dan bahwa desain pelatihannya, bukan keberadaannya, yang berbeda.
 
-
 Dua kampus yang terdaftar bersama dalam satu kursus asinkron tidak menghasilkan interaksi lintas kampus bagi setidaknya satu dari 19 siswa, sehingga pendaftaran bersama adalah fakta penjadwalan alih-alih desain yang menciptakan konteks sebaya yang diasumsikan kursus daring ([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
-
 
 ## Peluang dan manfaat AI bagi pengajaran dan pembelajaran daring
 
@@ -142,62 +142,3 @@ Kombinasi apa pun yang dipilih instruktur, satu kendala harus membentuknya. Stud
 **"AI menaikkan kinerja, jadi ia menaikkan pembelajaran."** Dalam latar daring divergensinya sama seperti di ruang kelas: sebuah [[rct]] menemukan bantuan AI tanpa pagar pengaman menaikkan kinerja latihan tetapi *menurunkan* skor ujian tanpa bantuan, sementara tutor "petunjuk-bukan-jawaban" menghapus kerugian itu. Kursus daring lebih bergantung pada penilaian asinkron, sehingga celah antara kinerja berbantuan dan tanpa bantuan adalah tempat validitas dimenangkan atau dikalahkan.
 
 **"Validitas penilaian adalah pertanyaan kebijakan penilaian nilai."** Ia adalah pertanyaan desain yang diciptakan oleh mediumnya: ketika suatu penyerahan dapat dihasilkan tanpa kehadiran pembelajar, validitas bergantung pada apakah tugasnya menghasilkan bukti bahwa pembelajarlah yang mengerjakan pekerjaan itu. Merancang ulang tugasnya menjawab hal ini; memperketat hukuman atas pelanggaran tidak.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Konteks yang membuat pengurutan menanggung beban, karena sistem tidak dapat melihat suatu percobaan
-- [[assessment-validity]] — validitas inferensi dari karya yang diserahkan ke pembelajaran
-- [[agentic-ai]] — sistem otonom yang mengoperasikan alat dan platform, termasuk LMS
-- [[community-of-inquiry]] — Community of Inquiry
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## Artikel terkait
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Agen otonom menyelesaikan penilaian LMS tanpa pengawasan dari awal sampai akhir: masalah validitas penilaian (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — Kembar penilaian: memasangkan tugas rentan GenAI dengan tugas yang kurang rentan dan dijadwalkan berdekatan pada luaran yang sama
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integritas ko-kepengarangan sebagai bukti validitas, dan AI Viva sebagai verifikasi terukur
-- [[asynchronous-oral-assessment-2026]] — Penilaian lisan asinkron: rekaman terbatas waktu yang tidak direvisi, dinilai terhadap rubrik tertanam
-- [[brcic-effortless-trap-productive-struggle-2026]] — Jebakan tanpa usaha: penempatan AI alih-alih izin atau larangan
-- [[metacognitively-discordant-completion-genai-2026]] — Penyelesaian yang diskordan secara metakognitif: pekerjaan benar yang diserahkan tanpa pemahaman
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Strategi regulasi diri mana yang bertepatan dengan distraksi digital rendah (530 siswa)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL sebagai bakat yang stabil dan keadaan yang berfluktuasi; metakognisi dan kesejahteraan menurun sepanjang semester
-- [[genai-marketing-education-roles-2026]] — AI sebagai tutor, rekan tim, dan alat: peran dan efeknya pada kehadiran
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Melampaui deteksi: desain penilaian untuk latar daring
-- [[reconceptualizing-community-inquiry-generative-ai]] — Mengonseptualisasi ulang Community of Inquiry di era AI generatif
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Mengintegrasikan AI dalam pembelajaran daring di pendidikan tinggi: tinjauan literatur kritis empat tema
-- [[mooc-to-maic]] — Dari MOOC ke MAIC: Membentuk Ulang Pengajaran dan Pembelajaran Daring melalui Agen yang Digerakkan LLM
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: Sistem Dukungan Personal dan Adaptif untuk Pembelajaran Daring
-- [[llm-facilitation-timing-online-discussions]] — Kecenderungan Fasilitator Manusia dan LLM dalam Diskusi Daring
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Tutor Virtual GenAI yang Berpusat pada Manusia
-- [[conversational-ai-tutors-framework]] — Jalan menuju Tutor AI Percakapan
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Menerapkan AIDA di Open University
-- [[ai-adult-learning-guidelines-dis2026]] — Pedoman Merancang Teknologi AI untuk Mendukung Pembelajaran Orang Dewasa
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Menuju Tutoring Personal Agentik
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses guru di kelas campuran
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Siswa lebih menyukai video personal yang dihasilkan AI daripada video rekaman manusia yang tidak personal (Tomlinson dkk. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Desain Pembelajaran Berbasis Ringkasan yang Dihasilkan AI di Forum Diskusi Daring
-- [[ai-training-science-teacher-tpack-distance-2026]] — Calon guru berbasis kampus melaporkan TPACK lebih tinggi untuk pengajaran sains terintegrasi AI daripada rekan pendidikan jarak jauh (64.0% versus 47.4%)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Desain peran adalah intervensinya, bukan alatnya
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Kursus pascasarjana asinkron enam minggu bagi guru yang bekerja: rancang ulang formatnya alih-alih memadatkannya
-
-- [[aggarwal-genai-cybersecurity-2026]] — 19 siswa di dua kampus: pendaftaran bersama tidak menghasilkan interaksi lintas kampus bagi sebagian siswa (Aggarwal 2026)
-

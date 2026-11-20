@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,6 +44,3 @@ Kozi zinaingia kupitia muunganisho wa Canvas API, faili ya IMS Common Cartridge,
 ## Cha kujua kabla ya kuitumia
 
 Programu-jalizi inahitaji Claude Code na ganda la bash ili kusanikishwa; PowerShell na cmd haziwezi kuendesha hati ya usanikishaji, na Python 3 inapendekezwa kwa mwelekeo wa alama. Data ya kozi hubaki katika folda ya mradi kwenye mashine ya msomaji mwenyewe, na inaondoka tu kupitia muunganisho ambao mtumiaji anaamsha, kama wito wa Canvas API. Uchanganuzi wa moja kwa moja wa kiendelezi cha Chrome unahitaji ufunguo wa API wa Google AI Studio wa bure wa msomaji mwenyewe, ingawa hali ya kizibo inaonyesha jinsi inavyofanya kazi bila ufunguo. Mradi hujiita beta katika toleo 3.5.1.0 na unaonya juu ya mabadiliko yanayovunja kati ya matoleo madogo, na imechapishwa chini ya akaunti ya GitHub ya savvides badala ya mwandishi mwenye jina.
-
-## Dhana Zilizounganishwa
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

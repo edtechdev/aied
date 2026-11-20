@@ -9,6 +9,8 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 > **Storytelling in education** — the use of narrative as a [[pedagogy|pedagogical]] tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, [[personalized-learning|personalization]], and embodiment that conventional (paper-based or slide-based) storytelling lacks.
@@ -47,22 +49,3 @@ Storytelling connects to [[student-engagement|student engagement]], [[motivation
 **"AI generation makes storytelling available to students who could not write."** It makes *producing a written artifact* available, which is a different benefit. Oral narration, drawing and dictation are the established routes to the same goal, and they preserve the authorship that generation removes.
 
 **"The educational value of a story is in the polished result."** It is in the construction — the selection and ordering that a teller performs. A polished story the student did not structure has demonstrated the model's competence rather than the learner's.
-
-## Connected Concepts
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Connected Articles
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — preschool picture-book building where story fit and plausibility became the criteria for judging AI images (Konca & Yigit-Gencten, 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -72,40 +74,3 @@ ai_assist:
 **「既存の探究の授業にAIを加えても害はない。」** 害はありえ、そして利益を示す比較は聞こえるより狭いものです。[[context-based-ai-secondary-chemistry-2026|Abdikayumova と Madybekova]]は、**7E教授モデル**をPhETシミュレーション*と*ChatGPTによる個別指導に組み合わせ、第10学年の化学において、探究のみの教授や従来型の教授よりも有意に高い達成度と関与を見出しました。処置はその構造化された組み合わせ、すなわち教授モデルとシミュレーションと個別指導であり、チャットボット単独ではありません。構造化されていない探究に加えられたチャットボットは、その結果では検証されていません。
 
 **「化学は答えが確認できる科目なので、AIの誤りは無害である。」** 確認できる答えは、誤った推論が気づかれずに通る道です。まずい推論をしたモデルから正しい値を受け取った学生は、その欠陥を検出する方法を持たず、評価は成功を記録します。定量的な学問分野では、検証可能な終端点は、理解の利用可能な証拠のうち最も弱いものです。
-
-## 関連概念
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — 生物学教育とAI。ラボの教育助手、生物学におけるAIリテラシー、批判的思考、専門的なツール
-
-## 関連記事
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — 科学/化学教育におけるAIの体系的な概観
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCOのAI指針を化学教育に翻訳すること
-- [[context-based-ai-secondary-chemistry-2026]] — 中等教育の化学における文脈基盤型 + AI（7E）
-- [[ai-supported-experimental-design-chemistry-2026]] — 実際の化学におけるAI支援の実験計画
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPTで強化された形成的評価における教員とAIの役割
-- [[philosophy-experimentation-ai-chemistry-2026]] — AIを伴う化学における実験の哲学
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

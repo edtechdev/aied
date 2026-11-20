@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -83,9 +85,7 @@ Korelat neural bukanlah skor. Gambar yang direkonstruksi dari EEG berkorelasi de
 
 Perhatian bukanlah pembelajaran. Dalam TutorLoop, perhatian berkorelasi dengan pembelajaran pada r = 0.017, sementara beban kerja berkorelasi negatif pada r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Sistem yang memaksimalkan sinyal perhatian akan mengoptimalkan sesuatu yang mendekati derau.
 
-
 Sensor dapat merekam ko-koberadaan di tempat sebuah studi mengklaim interaksi: [[hur-computational-analysis-teacher-group-interactions-2026|Hur dkk. (2026)]] menemukan detektor berbasis pose hanya mencapai recall 55%, menangkap 11 dari 20 peristiwa yang diidentifikasi pengode manusia dalam interaksi kelompok guru–siswa. Guru hadir di dalam batas kelompok pada 49.2% segmen yang dikodekan sementara siswa memandang guru hanya pada 25.4%, dan tidak ada fitur audio yang berubah pada kedua perbandingan itu, sehingga pipeline mencatat ko-koberadaan spasial alih-alih interaksi yang berkelanjutan.
-
 
 Profil fisiologis bukanlah diagnosis. Model stres ujian memprediksi kategori nilai dari gairah dan gerakan, dan para penulis menegaskan bahwa keluarannya berada di samping keadaan pribadi dan konteks kesehatan mental, bukan di dalam keputusan bertaruh tinggi ([[physiological-signals-exam-outcomes-ml|Yamazaki dan Rimal, 2026]]).
 
@@ -116,40 +116,3 @@ Akhirnya, pengumpulan bukanlah integrasi. Kim dan Han menemukan bahwa sebagian b
 **"Keterlibatan adalah satu hal, jadi satu skor dapat mewakilinya."** Konstruknya memiliki tiga untaian, dan sensor sebagian besar menjangkau yang pertama. E3Sense menemukan bahwa pembelajar mendefinisikannya melalui indikator kognitif, perilaku, dan emosional dalam proporsi berbeda, dan definisi-definisi itu mengubah prediksi ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan dkk., 2026]]). Satu angka menyembunyikan lapisan mana yang diukur.
 
 **"Jika model adil pada pemisahan validasi, ia adil di ruang kelas."** Regularizer yang menyamakan kesalahan validasi antar kelompok gender membuat celah pada subjek yang ditahan lebih buruk ([[student-attention-estimation-fairness-2026|Fragkiadakis dkk., 2026]]). Keadilan adalah properti penerapan, bukan properti checkpoint.
-
-## Konsep terkait
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Artikel terkait
-- [[gaze-informed-ai-children]] — Narasi LLM yang dipicu tatapan menahan anak-anak pada wilayah bernarasi 6.48 s berbanding 1.67 s, tetapi studi itu mengukur perhatian alih-alih pemahaman (Wu dkk., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG yang dipasang di kepala, pelacakan mata, dan EDA dahi memprediksi keterlibatan yang dinilai sendiri pada akurasi dalam satu tingkat 75.0% terhadap garis dasar 63.0% (Anupkrishnan dkk., 2026)
-- [[engagement-assessment-video]] — EduGage menggabungkan tujuh aliran wearable dan kamera menjadi perkiraan keterlibatan tingkat segmen (MAE 0.81) dan berargumen untuk instrumentasi yang lebih ringan (Leng dkk., 2026)
-- [[student-attention-estimation-fairness-2026]] — Model perhatian multimodal mencapai MAE 0.283, dan keuntungan keadilan validasinya berbalik pada subjek yang ditahan (Fragkiadakis dkk., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI wearable bersifat transparan ganda, sehingga pengecualian fisik gagal dan penegakan bergeser ke arah mengadili tubuh siswa (Corbin dkk., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — Lima belas model prediksi keakraban EEG turun dari 0.9853 menjadi 0.6038 F1 di bawah validasi independen dari percobaan (Nanayakkara dan Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — Gambar yang direkonstruksi EEG mengikuti kinerja tes pada R² = 0.79, dengan satu peserta berekonstruksi tinggi menjawab salah (Su dkk., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — Hutan acak memprediksi kategori nilai ujian dari EDA, gerakan, dan suhu kulit, sinyal yang mengindeks gairah alih-alih pemahaman (Yamazaki dan Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Pada 458 siswa pemakai Oura, register emosional alih-alih topik kekhawatiran mengikuti tidur dan variabilitas detak jantung (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Tatapan kamera web menggerakkan umpan balik pembelajaran penguatan bagi 187 pembelajar; perhatian berkorelasi dengan pembelajaran pada r = 0.017 sementara beban kerja berkorelasi negatif (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — Fitur pose YOLOv11 menandai perilaku mencurigakan pada 99.56% di himpunan berlabel khusus, tanpa menguji kecurangan atau keadilan (Arif dkk., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Konektivitas EEG menurun seiring dukungan menulis eksternal pada 54 peserta, membingkai ketergantungan sebagai utang kognitif yang terakumulasi (Kosmyna dkk., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — Pada 23 studi, peran penginderaan mendominasi pada 62.5% tag dan tidak ada sistem yang ditinjau menggabungkan aliran multimodal secara langsung (Kim dan Han, 2026)

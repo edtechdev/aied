@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -39,6 +40,3 @@ A kurzusok Canvas API-kapcsolaton, IMS Common Cartridge-fájlon, SCORM-csomagon,
 ## Amit a bevezetés előtt tudni kell
 
 A plugin telepítéséhez Claude Code és bash-héj kell; a PowerShell és a cmd nem tudja futtatni a telepítőszkriptet, a pontszámtendenciákhoz pedig Python 3 ajánlott. A kurzusadat a projektmappában marad az olvasó saját gépén, és csak olyan integráción keresztül hagyja el, amelyet a felhasználó hív meg, például egy Canvas API-hívás. A Chrome-bővítmény élő következtetéséhez az olvasó saját, ingyenes Google AI Studio API-kulcsa kell, bár egy szimulációs mód kulcs nélkül is bemutatja. A projekt 3.5.1.0 verzióban bétának nevezi magát, és figyelmeztet a minor verziók közötti törő változásokra; a savvides GitHub-fiók alatt jelenik meg, nem nevesített szerző alatt.
-
-## Kapcsolódó fogalmak
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

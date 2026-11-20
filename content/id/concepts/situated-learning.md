@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,29 +59,3 @@ Pembelajaran tersituasi terhubung erat dengan [[embodied-learning]] (keduanya me
 - **"Keautentikan adalah sifat tugas."** Keautentikan adalah relasi antara aktivitas dan pekerjaan sah komunitas nyata. Sebuah tugas bisa rumit dan tetap berbentuk sekolah — dinilai guru, untuk nilai, tanpa konsekuensi di dunia yang diklaimnya wakili.
 - **"Penilaian yang muncul dari tugas berarti tidak ada penilaian."** Itu berarti kriterianya milik komunitas, bukan milik ruang kelas: apakah pekerjaan itu dapat diterima oleh orang-orang yang melakukan pekerjaan tersebut. Itu standar yang berbeda dan biasanya lebih ketat daripada rubrik.
 - **"Magang membutuhkan lingkungan fisik."** Mekanismenya adalah partisipasi periferal yang sah — bergerak dari tepi praktik menuju pusatnya dengan tanggung jawab nyata. Lingkungan daring dan tersimulasi dapat mendukungnya atau dapat mensimulasikan pinggiran tanpa pernah memberikan partisipasi, dan pembedanya adalah apakah kontribusi siswa benar-benar digunakan.
-
-## Konsep terkait
-- [[learner-identity]] — identitas siswa yang berkembang secara disipliner, profesional, kreatif, dan akademik
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — lingkungan imersif sebagai jalur menuju konteks autentik
-
-## Artikel terkait
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Skenario plus aset dapat digunakan ulang yang membawa provenans mengalahkan asisten biasa dalam dua uji
-
-- [[vargas-situated-learning-ai-review-2024]] — Tinjauan sistematis PRISMA tentang pembelajaran tersituasi dan AI dalam pendidikan (rujukan utama halaman ini)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif

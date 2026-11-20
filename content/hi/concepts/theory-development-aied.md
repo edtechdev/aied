@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -119,54 +121,3 @@ AIEd में सिद्धांत विकास उन अनुप्�
 
 - यदि सैद्धांतिक योगदान का इरादा है तो विन्यास-विरोधाभासों के लिए डिज़ाइन करें। सिद्धांत-विकास के रूप में प्रकाशित औसत-प्रभाव परीक्षण क्षेत्र का सबसे सामान्य और सबसे कम उपयोगी उत्पाद है।
 - जो भी ढाँचा आप प्रस्तुत करें उसके साथ स्पष्ट मिथ्याकरण-योग्य प्रस्ताव जोड़ें, और बताएँ कि कौन-से विन्यास-अंतर उन्हें खंडित कर देते।
-
-## संबंधित अवधारणाएँ
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## संबंधित लेख
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — कार्यात्मक वर्गीकरण का विस्तार: 154 वर्गीकरण-योग्य प्रकाशनों में से 90 (58.4%) मूल चार श्रेणियों से बाहर आते हैं (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — मानव-AI अन्योन्यक्रिया के लिए एक मध्यम-पैमाने की सीखने की सिद्धांत, चार क्रियाविधियों और छह परीक्षणीय प्रतिज्ञापनों के साथ (Yan और Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अतिसामान्यीकरण: अनुकूली दक्षता अभ्यास को रोक सकती है इससे पहले कि शिक्षार्थी जान लें कि किसी क्रिया को कब रोकना है (An, McLaren और Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — एक नई सीखने की सिद्धांत के रूप में जनरेटिविज़्म
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — ज्ञानवादी सह-करणीपन की एक सिद्धांत की ओर
-- [[du-yuan-epistemic-dependence-2026]] — संबंधगत ज्ञानवादी करणीपन और उत्पादक-निर्भरता/हानिकारक-निर्भरता सीमा (Du और Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — अनुपस्थित संज्ञानात्मक आधाररेखा (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — संज्ञानात्मक कोमन्स और विशेषज्ञता का पुनर्जनन
-- [[genai-performance-vs-learning]] — प्रदर्शन बनाम सीखना
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — ज्ञानवादी AI साक्षरता (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — प्रमाणपत्र और संज्ञानात्मक संरक्षण
-- [[ai-cognitive-partner-co-regulation-learning]] — सह-नियमन में एक संज्ञानात्मक भागीदार के रूप में AI
-- [[epistemic-proactivity-math]] — गणित में ज्ञानवादी सक्रियता
-- [[strydom-human-gai-paradigms-2026]] — ज्ञानवादी विश्वासों में आधारित सात मानव-GAI संलग्नता प्रतिमान
-- [[critical-thinking-paradox-genai-learning-2026]] — आलोचनात्मक सोच विरोधाभास
-- [[dollinger-equitable-assessment-ai-2026]] — GenAI के अधीन समतामूलक मूल्यांकन
-- [[shaw-nave-cognitive-surrender-2026]] — त्रि-प्रणाली सिद्धांत और संज्ञानात्मक समर्पण: AI मानवीय तर्क को कैसे फिर से आकार देता है (Shaw और Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — जनरेटिव AI युग में जिज्ञासा समुदाय का पुनःसंकल्पना
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — विश्वविद्यालय शिक्षकों के अनुभव और GAI के प्रति धारणाएँ: संवेदनशीलता, मूल्यांकन पर पुनर्विचार, खतरे में पड़ी शिक्षार्थी सीख (Farazouli और सहयोगी 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — वैकल्पिक AI दर्शन: AI इन एजुकेशन के लिए विधि के रूप में Daoism
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: शैक्षणिक संवादों के लेखापरीक्षित कोडिंग हेतु तथ्य-आधारित स्कीमा
-- [[metacognitive-ownership-human-ai-regulation-2026]] — अलोस्मृति स्वामित्व: संरचना परिभाषा, सीमाएँ और एक अनुसंधान कार्यसूची
-
-- [[synthetic-position-self-authorship-2026]] — संश्लेषणात्मक स्थिति: एक संवादी-आत्मा प्रस्ताव जो संश्लेषणात्मक संवर्धन और लेखकीय निलंबन को एक क्रॉसओवर भविष्यवाणी के साथ नामित करता है
-- [[capability-decision-model-teacher-readiness-2026]] — चार असत्यापन शर्तों के साथ असत्यापनीय, क्षमता-प्रधान शिक्षक तत्परता मॉडल
-- [[ai-connectedness-adolescent-mental-health-2026]] — कृत्रिम बुद्धिमत्ता संबद्धता: त्रि-आयामी संरचना जिसमें छह असत्यापनीय प्रतिज्ञापन बाद के परीक्षण हेतु हैं
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — संज्ञानात्मक साझेदारी चक्र
-- [[friction-paradox-generative-ai-education-abroad-2026]] — विदेश में शिक्षा में व्याख्यात्मक एजेंसी पर लागू वांछनीय कठिनाइयाँ और उत्पादक विफलता
-- [[webb-pck-genai-2026]] — तीन विग्नेट और एक नया निर्माण, छद्म-cPCK, उस आउटपुट के लिए जो वारंट के बिना सामूहिक रूप से मान्य ज्ञान की नकल करता है (Webb एट अल. 2026)

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -58,21 +60,3 @@ ai_assist:
 **«Генерація ШІ робить сторітелінг доступним студентам, які не могли писати».** Вона робить доступним *продукування писемного артефакту*, що є іншою вигодою. Усне оповідання, малювання й диктування — усталені шляхи до тієї самої мети, і вони зберігають авторство, яке генерація відбирає.
 
 **«Освітня цінність історії — у відполірованому результаті».** Вона в конструюванні — відборі й упорядкуванні, яке виконує оповідач. Відполірована історія, яку студент не структурував, продемонструвала компетентність моделі, а не здобувача.
-
-## Пов’язані поняття
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Пов’язані статті
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Наратив iCub у HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Робототехніка та ШІ в освіті
-- [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot

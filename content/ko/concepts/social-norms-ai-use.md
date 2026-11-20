@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -63,9 +65,7 @@ ai_assist:
 
 행동하지 않은 사람들을 죄의식 느끼게 하는 규범은 예기를 통해 자신의 일을 하고 있습니다. 그것은 실제 규제 메커니즘이며, 교수진과 학생들이 무엇을 *하는지*만 보는 어떤 정책 감사에도 보이지 않습니다.
 
-
 409명의 학부생을 대상으로 한 설문은 같은 메커니즘을 회귀에 넣습니다. 인지된 동료의 공개와 교수자와의 편안함이 도덕적 이탈보다 학생 자신의 공개를 더 강하게 예측했습니다([[qu-wang-disclose-or-not-genai-2026|Qu and Wang (2026)]]). 학생이 규범으로 여기는 것은 동료가 한다고 믿는 것이며, 이는 위의 인식 연구가 체계적으로 조악하다고 보여 준 인상입니다. 이 증거에서 공개는 서면 규칙이나 개인적 윤리 기준이 아니라 믿어진 규범에 대한 반응입니다.
-
 
 ## 지역의 규칙서: 학문과 교실
 
@@ -111,39 +111,3 @@ AI 윤리에 관한 전문 문헌과 그것이 도달하도록 되어 있는 교
 **"감시는 사용을 가시적으로 만들어 규범을 해결할 것입니다."** 행동을 가시적으로 만드는 것은 규범이 무엇이어야 하는지를 해결하지 않으며, 사람들이 기꺼이 공개하려는 것을 바꿀 뿐입니다. 측정된 양상은 이미 선택적 공개이므로, 그것에 적용된 모니터링 체제는 행위가 아니라 은폐를 측정합니다.
 
 **"규범은 비공식적이므로 기관의 손이 닿지 않습니다."** 규범은 지역적으로 강제되고 지역적으로 바뀔 수 있으며, 그래서 정책보다 다루기 쉽습니다. 한 강좌 팀의 명시적 실천이 지렛대인 이유는 바로 거기서 작동 규칙이 정해지기 때문입니다.
-
-## 연결된 개념
-
-- [[academic-integrity]] — 이 규범들이 함께 자라는 공식 규칙서
-- [[ai-use-disclosure]] — 규범들이 가장 직접 규제하는 실행
-- [[framing-ai-use-for-students]] — 교실이 기대를 밝히는 방식
-- [[reducing-ai-misuse]] — 규범 설정의 교수법적 대응
-- [[learner-identity]] — AI 사용이 가시적이 될 때 학습자가 누구로 여겨지는가
-- [[ai-detection]] — 대부분 실패하는 기술적 대응
-- [[remote-proctoring]] — 규범의 대용물로 시도된 감시
-- [[trust]] — 규범과 공개가 모두 의존하는 것
-- [[equity-in-ai-education]] — 사회적 대가를 흡수하는 사람
-- [[help-seeking]] — 수치심이 가장 먼저 억제하는 행동
-- [[group-work]] — 집단 규범이 협상되는 곳
-- [[student-experience]] — 이 모든 것의 살아진 면
-- [[anxiety-and-stress]] — 정의적 잔여물
-- [[governance]] — 이 규범들이 그 아래 놓이는 공식 계층
-- [[ethics]] — 학생들에게 할 말이 가장 적은 문헌
-
-## 연결된 문서
-
-- [[student-perception-ai-use-collaboration]] — 파트너의 AI 사용에 대한 학생의 인식 정확도와 그것의 협업 수행과의 관계
-- [[shame-guilt-ai-regulation-computing-education]] — 컴퓨터 공학 교육에서 AI 사용의 사회적 규제자로서의 수치심과 죄의식
-- [[chirikov-regulate-ai-syllabi-2026]] — 교수들이 대학에서 AI를 규제하는 방식: 31,000개 강좌 강의계산서의 증거
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 죄의식 콤플렉스: 학술 기술 채택의 도덕적 정서와 윤리적 딜레마
-- [[agarwal-ethical-values-norms-aied-2026]] — AI 교육을 위한 윤리적 가치와 규범 확인
-- [[conijn-fear-big-brother-proctored-exams-2022]] — 빅 브라더에 대한 두려움: 감독 시험의 잠재적 부정적 부작용
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 감시 아래에서: 간호 평가에서의 원격 감시 실행 지도
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 불완전한 정보 아래의 평가 설계: 생성 AI, 공개, 학생 반응
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 탐지 불가능한 것을 탐지하기: 생성 AI 이후의 부정행위 절차
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — 부정행위인가 경쟁인가? 마케팅 교육에서의 AI
-- [[chen-zou-genai-group-assessment-agency-2026]] — 생성 AI 지원 집단 평가에서의 에이전시
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit 담론 분석: 교수진–학생 접촉이 탐지 및 집행 분쟁에 집중됨(Yüce 외 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 학부생 409명: 인지된 동료의 공개와 교수자의 편안함이 도덕적 이탈보다 공개를 앞서 예측했다 (Qu & Wang 2026)
-

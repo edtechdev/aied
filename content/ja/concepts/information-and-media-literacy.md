@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -99,33 +101,3 @@ ai_assist:
 - **二つのリテラシーは、名前が二つあるだけの同一のスキルである。** 対象が異なる——情報源の信頼性に対して、執筆主体と意図——ため、単一のルーブリックではどちらも十分に評価できない。
 - **AIを見抜ければ、その影響は防げる。** ここで取り上げた最も強力な説得実験では、検出率は高かったにもかかわらず、AIの立場への同調はなお強まった。
 - **司書の能力はAIリテラシーにそのまま転移する。** 職員の能力不足が現れるのは、ツールの操作ではなく、目標の設計（M = 2.70）と成果の評価（M = 2.62）である。
-
-## 関連する概念
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## 関連する記事
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEによる4か国レビュー：194州のうち84州がMILを技術的スキルを超えてカリキュラムに位置づけ、4つの制度すべてで人的要因が成果を左右した（Cerioli, 2026）
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — 大学図書館の情報リテラシー指導へのAIリテラシー統合のマッピング：新興研究の体系的レビュー
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — 人工知能はいかに大学図書館の情報リテラシーを再形成しているか：世界的な計量書誌学分析（2020–2025）
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — 人工知能（AI）と情報探索：大学生における情報源としてのAIチャットボット、検索エンジン、図書館リソースの比較検討
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 図書館員による支援を組み込んだAI支援セミナー型学習プラットフォームの開発
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — オープン・ペダゴジーを通じた情報リテラシー：AIツールの役割は何か？
-- [[huang-genai-academic-information-resources-2026]] — 生成的人工知能は大学生による学術情報資源の持続可能な利用を再形成する
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — ナイジェリアの高等教育機関における情報リテラシーと人工知能の指導を促進するための大学図書館員による学生エンゲージメント
-- [[offem-ai-information-literacy-library-users-2026]] — 図書館利用者の情報リテラシーを促進するツールとしての人工知能
-- [[critical-media-literacy-education-2026]] — テクノロジー、教育、批判的メディアリテラシー：可能性、課題、機会
-- [[demir-akar-ai-media-literacy-children-2026]] — クリックを批判的思考へと変える：子どものためのAIに基づくメディアリテラシー・プログラム
-- [[ai-literacies-young-adults-2025]] — 14-19歳の若年成人のAIリテラシーを支援する
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — パーソナライズされたGPT-4は人間の討論者を打ち負かし、検出は免疫効果をもたらさなかった（Salvi et al. 2025）
-
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft：計算論的思考とデジタルリテラシーを高めるためのデジタル・デザイン思考および学習プラットフォーム

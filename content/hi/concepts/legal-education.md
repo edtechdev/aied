@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -93,33 +95,3 @@ Gutowski और Hurley नीतियों का आकलन पाँच �
 - **"विधि विद्यालयों ने एक स्थिति तय कर ली है।"** अधिकांश ने **सामान्यतः निषेधात्मक रुख** अपनाए, जिन्हें अक्सर **प्रौद्योगिकी के अध्ययन के लिए समय खरीदना** बताया गया, जबकि **लगभग सभी नीतियों ने व्यक्तिगत प्रशिक्षकों के लिए विवेक सुरक्षित रखा**। प्रशिक्षक-अधिभावन वाला निषेध तय स्थिति नहीं, डिफ़ॉल्ट के साथ स्थगन है।
 - **"सर्वेक्षण साक्ष्य क्षेत्र का वर्णन करता है।"** **ABA के 2024 सर्वेक्षण में केवल 29 विद्यालयों से प्रतिक्रियाएँ आईं, जो ABA-अनुमोदित विधि विद्यालयों का लगभग 15% है**, और **800** व्यवसायियों का LexisNexis सर्वेक्षण एक अलग आबादी मापता है। किसी को भी विधि शिक्षा का प्रतिनिधि नहीं माना जा सकता, और दोनों को ऐसे उद्धृत किया जाता है जैसे वे हों।
 - **"AI सिफ़ारिश रोकना तटस्थ है।"** एक विधिक-संदर्भ प्रयोग में, **न्यायाधिकरण सिविल मामलों पर 186 अपरिष्कृत निर्णय-निर्माताओं ने गलत AI स्थिति को तब कहीं कम माना जब प्रणाली ने अपनी स्थिति रोकी (5.7 से 8.2% बनाम 42.0 से 60.5%)**। रोकने से तटस्थता नहीं आई; उससे सम्मान में बड़ी कमी आई, जो स्वयं में एक प्रभाव है।
-
-## संबंधित अवधारणाएँ
-
-- [[academic-integrity]] — सहायता-प्राप्त काम पर लागू होने वाला आचरण ढाँचा
-- [[assessment-validity]] — क्या सहायता-प्राप्त प्रदर्शन अभीष्ट दक्षता को मापता है
-- [[authentic-assessment]] — डिज़ाइन जो बिना-सहायता विश्लेषण माँगते हैं
-- [[ai-use-disclosure]] — अभिप्रति और रिपोर्टिंग मानदंड जिन पर सहमति अभी नहीं है
-- [[governance]] — संकाय शासन और नीति निर्माण जैसा विधि विद्यालय इसे करते हैं
-- [[educational-policy-ai]] — संस्थागत AI नीति अध्ययन के विषय के रूप में
-- [[critical-thinking]] — वह तर्कशक्ति जिसे केस विधि बनाने का लक्ष्य रखती है
-- [[case-based-learning]] — शिक्षाशास्त्र के रूप में केस विधि और केस-चर्चा
-- [[socratic-method]] — छात्र की पूर्व-तैयारी पर निर्भर संवाद
-- [[experiential-learning]] — क्लिनिक और अभ्यास-आधारित प्रशिक्षण
-- [[professional-training]] — लाइसेंस प्राप्त पेशों का व्यापक परिवार
-- [[career-development-and-readiness]] — अभ्यास-तैयारी के रूप में घोषित उद्देश्य
-- [[ai-literacy]] — प्रौद्योगिकी-दक्षता एक व्यावसायिक कर्तव्य के रूप में
-- [[hallucination-risk]] — गढ़े हुए उद्धरण इस क्षेत्र के विशिष्ट विफलता के रूप में
-- [[legal-issues-and-risks]] — जब शासन विफल होता है तो संस्थाएँ किसका सामना करती हैं
-
-## संबंधित लेख
-
-- [[lorteau-sarro-ai-legal-education-2025]] — विधि शिक्षा में कृत्रिम बुद्धिमत्ता: 82-कार्यों की स्कोपिंग समीक्षा (Lorteau और Sarro 2025)
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — विधि विद्यालयों की जनरेटिव-AI नीतियों का पाँच-कारक तुलनात्मक अध्ययन और एक शासन ढाँचा
-- [[llm-turing-test-italian-legal-exams-2026]] — इतालवी बार, न्यायाधीश और नोटरी परीक्षाओं पर ब्लाइंड ट्यूरिंग परख, विशेषज्ञ अंकन के सापेक्ष बेंचमार्क किया गया
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — प्रणाली की स्थिति रोकना विधिक-संदर्भ निर्णयों में अति-निर्भरता को दबाता है बिना निर्णय बनाए (अपरिष्कृत निर्णय-निर्माता, विधि छात्र नहीं)
-
-- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-रचित रहस्य भूमिका-नाट्य खेल बनाम व्याख्यान: एक यादृच्छिक परीक्षण (Xie एवं सहयोगी 2026)
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -87,28 +89,3 @@ ai_assist:
 **«Кращі підказки дадуть кращі громадянські уроки.»** Інтерактивний варіант дав мінімальну різницю, і всі три чат-боти продукували ту саму структуру для 53 стандартів. Якість підказки не відновила дисциплінарної текстури.
 
 **«Свідчень достатньо, щоб керувати практикою.»** Достатньо, щоб обґрунтувати обережність. Один аналіз вмісту, один документальний синтез, одне невелике [[mixed-methods-research|дослідження зі змішаними методами]] і кілька концептуальних чи політичних праць не встановлюють, що працює.
-
-## Пов’язані поняття
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — парасолька: що здобувачам треба знати про системи ШІ
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — згенерована дезінформація й переконання як суспільна шкода
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Пов’язані статті
-
-- [[civic-education-ai-lesson-plans]] — 310 згенерованих ШІ планів уроків для 53 стандартів громадянської освіти: 90% нижчого порядку, 94% без мультикультурного змісту (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Алгоритмічне прикордонне врядування та п’ять вимог громадянської цифрової грамотності в Південній Африці (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Експертні інтерв’ю й опитування студентів про критичну медіаграмотність і партисипативне громадянство (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Цілі фінських учителів щодо освіти зі ШІ, прочитані через кваліфікацію, соціалізацію та суб’єктивацію
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Бачення наукової грамотності, включно з громадянським життям і демократичним залученням (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Редакційна стаття, що називає дипфейки й автоматизовану дезінформацію демократичними загрозами (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — Політика освіти дорослих і громадянська мета навчання впродовж життя (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 документів урядування; демократія і верховенство права названі в 92, юридична сила — у чотирьох (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Демократичний випадок у термінах політичної теорії: ерозія практики, механізми й авторитарні ставки

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -68,7 +70,6 @@ ai_assist:
 
 - **পাঠ্যক্রমই সেই একক যা একটি সিমুলেশনের মূল্য নির্ধারণ করে।** Curricular Bridge Model যুক্তি দেয় সিমুলেশনে রিটার্ন নির্ভর করে একটি কর্মসূচি জুড়ে অভিজ্ঞতাগুলো কীভাবে ক্রমসজ্জিত — প্রসঙ্গ-পুনর্ব্যবহার, যুক্তির চাহিদার বৈচিত্র্য, অগ্রগতিতে প্রমাণের প্রবাহ — তার উপর, প্ল্যাটফর্ম-নিষ্ঠার উপর নয় ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]])।
 
-
 ### সংযোগ
 
 সিমুলেশন [[active-learning]], [[adaptive-learning]] ও [[pedagogical-agent]]-এর সঙ্গে যুক্ত। এটি অভিজ্ঞতাভিত্তিক ও [[constructivist|গঠনবাদী]] শিখনের একটি ব্যবস্থা, এবং এআই-এর অভিযোজিত, বাস্তবসম্মত অনুশীলন-পরিবেশ তৈরির সক্ষমতা দ্বারা বর্ধিত।
@@ -86,49 +87,3 @@ ai_assist:
 - **"সিমুলেশন সস্তা, তাই দ্বিতীয়-সেরা।"** স্বায়ত্তশাসিত [[llm|এলএলএম]] সিম-পাইলট **বিমান-নিয়ন্ত্রণ সিমুলেশনে নিয়োজিত বিশেষজ্ঞ মানব-রোলপ্লেয়ারদের প্রতিস্থাপন করে প্রশিক্ষণ-সামর্থ্যের বাধা দূর করে** — বাধাটি ছিল কর্মী-সংস্থান, নিষ্ঠা নয়। যেখানে মানব-রোলপ্লেয়ার দুর্লভ, সেখানে এলএলএম সিমুলেশন বিকল্প নয়, একমাত্র উপলব্ধ পথ।
 - **"সিমুলেটরদের গড় কেসের মতো আচরণ করা উচিত।"** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin প্রমুখ, 2026)]] একটি নীতি-এজেন্টের সঙ্গে **প্রতিপক্ষীয় আচরণের জন্য গড়া এলএলএম রোগী-সিমুলেটর** জোড়ে। সহযোগিতাপরায়ণ সিমুলেটর শিক্ষার্থীর অনুশীলনকে ক্লিনিকের চেয়ে সহজ করে তোলে, যা প্রশিক্ষণের প্রয়োজনীয়তার ঠিক উল্টো।
 - **"স্ক্রিপ্টকৃত দৃশ্যপট অনিশ্চয়তার মধ্যে সিদ্ধান্ত গ্রহণ শেখায়।"** SupplyNet-এর প্রসঙ্গগত বহু-এজেন্ট এজেন্টরা **শিক্ষার্থীর সিদ্ধান্ত থেকে উদ্ভূত গতিশীলতা** তৈরি করে, স্ক্রিপ্টকৃত ধারা নয়। স্ক্রিপ্টকৃত দৃশ্যপট জানা পথের পুনর্অভিনয় করে; উদ্ভূতগুলো সিদ্ধান্তের পুনর্অভিনয় করে।
-
-## সংযুক্ত ধারণা
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, এলএলএম-এর সীমা, পরীক্ষার দর্শন
-- [[biology-education]] — জীববিজ্ঞান শিক্ষা ও এআই: ল্যাব-শিক্ষণ-সহায়ক, জীববিজ্ঞানে এআই-সাক্ষরতা, সমালোচনামূলক চিন্তা, বিশেষায়িত টুল
-- [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, এলএলএম-প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
-- [[virtual-and-augmented-reality]] — মডেল, মাধ্যম নয় — নিমজ্জনমূলক পরিবেশ সাধারণত একটি সিমুলেশন রেন্ডার করে
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[learner-agency-ai-simulation-2026]] — জটিল-ব্যবস্থা সিমুলেশনে প্যারামিটার-নিয়ন্ত্রণ ও ঐচ্ছিক এআই এজেন্ট: লাভ অনুসরণ করেছিল চর্চাকে, প্রবেশাধিকারকে নয়
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — মনোচিকিৎসা-প্রশিক্ষণের জন্য অভিযোজিত ভার্চুয়াল রোগী
-- [[ai-enabled-serious-games]] — এআই-সক্ষম সিরিয়াস গেম
-- [[anvil-ai-educational-animations]] — ANVIL: বক্তৃতাদাতাদের জন্য উপমা ও ভিডিও
-- [[astra-atco-training-simulator]] — ASTRA: ATCO প্রশিক্ষণ-সিমুলেটর
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: দৃশ্য-অনুসন্ধানমূলক শিখন
-- [[medeasy-ai-standardized-patients]] — MedEASY: এআই মানসম্মত রোগী
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — প্রত্যক্ষদর্শীর হস্তক্ষেপের জন্য রোবট-মধ্যস্থ ভূমিকা-অভিনয় খেলা (ফলিত নাটক)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — দৃশ্যপট-ভিত্তিক স্বাস্থ্যশিক্ষায় জেনএআই-এর নিয়মতান্ত্রিক পর্যালোচনা (Neto প্রমুখ 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — ব্যবসায়-সিমুলেশন গেমে এআই কথোপকথন-এজেন্টের জন্য CAIS-GBL কাঠামো (Wenzel প্রমুখ 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — সহযোগিতামূলক সমস্যা-সমাধান সংলাপ পুনরুৎপাদনকারী ফাইন-টিউন করা অংশগ্রহণকারী-নির্দিষ্ট এলএলএম এজেন্ট (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — বহু-এজেন্ট টিউটরিং ও অংশগ্রহণ-ভারসাম্যপূর্ণ সহযোগিতার ASTRA কৃত্রিম বেঞ্চমার্ক
-- [[simulation-assisted-drone-learning-stem-2026]] — শিক্ষক-এআই যৌথ-নকশা করা কাঠামোসহ সিমুলেশন-সহায়িত ড্রোন শিখন
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — নার্সিংয়ে এআই-চালিত সিমুলেশন: মিশ্র-পদ্ধতি নিয়মতান্ত্রিক পর্যালোচনা (প্রামাণ্যতার ফাঁক, ধাপযুক্ত ধারাবাহিকতা)
-- [[sophie-clinical-communication-ai-assessment-2026]] — মাপযোগ্য এআই-ভিত্তিক ক্লিনিক্যাল যোগাযোগ-প্রশিক্ষণ ও স্বয়ংক্রিয় মূল্যায়ন
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM শিক্ষায় ডিজিটাল টুইন: প্রোটোটাইপ সবই কাজ করেছে, শিখন-লাভ বেশিরভাগই করেনি
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — ফ্লিপড শ্রেণিকক্ষের পদার্থবিজ্ঞান শিখনের জন্য এআই-সহায়িত ভার্চুয়াল ল্যাবরেটরি: মাধ্যমিক শিক্ষার্থীর অর্জন, প্রেরণা ও জ্ঞানীয় ভারে প্রভাব
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — চার-স্তরের কাঠামো, যা উপস্থাপিত অনুশীলন, অনুকরণকৃত পরিস্থিতি, এজেন্সি ও অভিযোজন, এবং সংগঠনকে আলাদা করে
-
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — প্রযুক্তি-গ্রহণ থেকে পাঠ্যক্রম-সংগতিতে: স্বাস্থ্য-পেশা শিক্ষায় সেতু হিসেবে প্রযুক্তি-বর্ধিত সিমুলেশন
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — সিমুলেশন-চক্র জুড়ে একজন শিক্ষক একটি কথোপকথন-এজেন্টকে কী অর্পণ করতে পারেন না
-

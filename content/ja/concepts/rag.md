@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -62,35 +64,3 @@ RAGは[[llm]]のファインチューニングと相補的な役割を果たし�
 - **「検索の質が問題のすべてである。」** 検索は必要ですが十分ではありません。接地された回答は**10点中9.05**で、差のブートストラップ信頼区間はゼロを除き、**回答者が実際に見た資料に接地していることがより多かった（98% 対 81%）**のです。したがって測定された利得は証拠への忠実さにあり、その忠実さが意味を持つには証拠が正しくなければなりません。
 - **「単一ページの検索は一般化する。」** 両方の差は**複数のページの資料を要する問いでおよそ3倍になりました**（ページ横断の得点は9.93で、より低いベースラインに対して）。複数文書の推論は、接地されたシステムが劣化する場所であり、まさにコースが最も難しい問いを出す場所です。
 - **「検索は精査の必要を取り除く。」** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]]は、人に尋ねるのをためらう学生に奉仕するため、単一モジュールの承認された資料から検索します。それは弁護可能な範囲です。狭く承認されたコーパスこそが接地を意味あるものにするのであり、ラベルだけではそうなりません。
-
-## 関連する概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — 包括的概念: AI技術と手法（モデル、LLM訓練、ロボティクス、RAG、エージェント型）
-
-## 関連する記事
-- [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを備えたローカルAIによるオープン教育教材生成を用いた物理教育へのアプローチ（Beznosko et al., 2026）
-- [[hughes-rag-ai-feedback-implementation-2026]] — RAGは2つの大学院コホートにおいて、知覚されたフィードバックの質と有用性を高めたが、実行可能性は高めなかった
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — カリキュラムに根拠づけた授業準備アシスタントだが、その時間節約効果は汎用チャットボットを上回らなかった
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG:理論計算機科学教育のための検索拡張生成——アルゴリズム解析と計算量理論の包括的評価フレームワーク
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 学修支援への障壁の低減:高等教育におけるヘルプシーキングの格差に対処するコース特化型RAGシステムの評価
-- [[wiki-llm-indexing-ml-classes-2026]] — Wiki LLMインデクシングの活用による機械学習の授業における学習向上の可能性
-- [[on-premises-rag-tutoring-business-education-2026]] — ビジネス教育のためのオンプレミス型マルチコースRAGチュータリング
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 導入作業としてのインデックスのキュレーションと検索範囲の設定
-- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学研究室における知識グラフ＋グラフ依拠型アシスタントと適応的ルーティング：理論試験＋11.4点、d = 1.39

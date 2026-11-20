@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -58,7 +60,6 @@ ai_assist:
 سینسر اور نگاہ کی اینالیٹکس دوسرا اوزار خاندان ہے جو انہی سیکھنے والے ماڈلوں کو خوراک دیتا ہے، اور توجہ، شمولیت اور علمی بوجھ کا اندازہ لگانے کے لیے آنکھوں کی نقل و حرکت، EEG، جلد کی برقی سرگرمی اور دل کی دھڑکن پر انحصار کرتا ہے ([[sensor-and-gaze-analytics]])۔ اُس کے جواز اور رضامندی کے مسائل ٹریس ڈیٹا سے زیادہ کھڑے ہیں، کیونکہ پیمائشیں حیاتیاتی ہیں اور جسم سے ذہنی حالت تک کا قدم ایک تفسیر ہے۔
 
 **کورس کی ہم وقتی کو ماڈل کریں، صرف ترتیب کو نہیں۔** TRACE ایک سمسٹر کے ہر کورس کو یکساں مقامی انکوڈنگ دیتا ہے، اور کورسز اور درجات کی مشترکہ پیش گوئی نے درجے کی پیش گوئی کی غلطی کو 0.1339 MAE تک کم کر دیا — یعنی صرف درجات والے ٹرانسفارمر کے مقابل 46.4% کمی — دس سال کے ادارہ جاتی ڈیٹا پر ([[trace-course-grade-prediction-2026|Savala (2026)]])۔
-
 
 **تعامل کا ڈیٹا ماڈلنگ کا مسئلہ بننے سے پہلے نمائندگی کا مسئلہ ہے۔** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] ہر انسانی-AI تبادلے کو الگ تھلگ پرامپٹ کے بجائے ایک ساختہ ریکارڈ کے طور پر لیتے ہیں جس میں وہ کمپیوٹیشن ہوتی ہے جس نے درخواست کو جنم دیا، درخواست، جواب، صارف کی فیڈبیک اور اُس کے بعد کا اجرا۔ 35 طلبہ کی تعیناتی میں 140 طالب علم اور اسائنمنٹ کے جوڑوں میں، صرف تعامل کی تعداد کامیابی سے چلائے گئے سیلز کے ساتھ r = 0.12 پر متعلق تھی، اور وہی کال اُس کے گرد کی حالت کے مطابق غلطی کی بحالی، اگلا قدم، تصور کی جانچ یا تصدیق ہو سکتی تھی۔ رسائی رکھنے والے سینتیس جوڑوں میں کوئی تعامل ہی نہ ہوا، لہٰذا لاگ میں AI کے استعمال کی عدم موجودگی کو ضرورت کی عدم موجودگی نہیں پڑھا جا سکتا۔
 
@@ -105,7 +106,6 @@ ai_assist:
 - **LA پر مبنی تعلیمی مداخلتوں کے مُمکِّنات (2026)۔** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] Delphi + AHP + SNAP کے ذریعے قابلِ اعتماد LA پر مبنی تعلیمی مداخلتوں کے سات مُمکِّنات کی شناخت اور ترجیح ترتیب کرتے ہیں: [[governance|ادارہ جاتی]] اسٹریٹجک رجحان، تدریسی اور دیگر [[research-methods-aied|تحقیقی]] بنیادیں، دستیاب وسائل، تدریسی معاونت، اخلاقیات اور ڈیٹا گورننس، اسٹیک ہولڈرز کی شمولیت، اور معیار کی یقین دہانی۔ ادارہ جاتی اسٹریٹجک رجحان سب سے اوپر رہا (اور دیگر مُمکِّنات پر سب سے زیادہ اثر انداز)، دستیاب وسائل دوسرے نمبر پر۔ [[trust|قابلِ اعتمادی]] (اخلاقی تعمیل، شفاف اور غیر جانبدار الگورتھم، تدریسی صداقت) کو وہ پیشگی شرط قرار دیا گیا جس کے بغیر LA پر مبنی مداخلتیں معنی خیز نہیں۔
 - **LLM تعامل کی گہرائی کام کے معیار کی پیش گوئی کرتی ہے مگر یاد آوری کی نہیں (2026)۔** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] باری باری سطح کے LLM مکالماتی ٹیلی میٹری (Depth/Volume/Pacing) کو [[learning-gains|سیکھنے کے نتائج]] سے جوڑتا ہے: وضاحت طلب "گہرائی" نے آزادانہ نشان زدہ کام کے معیار کی پیش گوئی کی (β = 6.27) مگر فوری یاد آوری کی نہیں — یعنی تفصیل سے چلنے والی فہم اور بازیابی سے چلنے والے استحکام کے درمیان تفریق، جو [[llm]] کے تعامل کو LA میں کیسے ناپا اور جانچا جائے، اِس پر مضمرات رکھتی ہے۔
 
-
 - **ایک مشترک تعاملاتی اکائی غائب ہے۔** 33 مطالعوں کی 46 قسم بندیوں میں کوئی مشترک میٹا خصوصیت نہیں — ملتے جلتے لیبل مختلف مظاہر کے نام ہیں — چنانچہ جائزہ *تعامل کے واقعے* کو، یعنی مقصد پر مبنی محدود تبادلے کو، مکالمے کو مہارت کے حصول سے متعلق کرنے کی اکائی تجویز کرتا ہے ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]])۔
 - **لرننگ اینالیٹکس کے لیے مشترکہ مکالمے کی نقل۔** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] باریک فائن ٹیونڈ شریک مخصوص LLM ایجنٹس سے مشترکہ مسئلہ حل کرنے کے مکالمے دوبارہ پیدا کرتا ہے، اور اِن کی تصدیق Epistemic Network Analysis سے کرتا ہے (ENA فاصلہ 0.17، permutation p = 0.65)۔ یہ طریقہ لرننگ اینالیٹکس کے محققین کو تعامل کی حرکیات، باری لینے اور موضوعاتی کوڈ کے سفر کے مطالعے کے لیے اصلی مشترکہ مکالمہ پیدا کرنے کا قابلِ توسیع راستہ دیتا ہے، بغیر نیا انسانی ڈیٹا جمع کیے۔
 - **کھلا، دوبارہ پیدا ہونے والا ڈیٹا اور ٹریس کے لیے تیار اینالیٹکس۔** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] ایک مصنوعی [[benchmark]] جاری کرتا ہے جس کی اسکیما ٹریس کے لیے تیار ہے (N=540؛ 360 سیشنز؛ 1,440 واقعات) تاکہ مشترکہ پروگرامنگ میں تعامل اور شرکت کے توازن کا تجزیہ ہو سکے۔ اِس ادب میں لاگ اور ٹریس ڈیٹا [[self-report-measures|خود رپورٹ]] کا فطری متوازن ہے: ایک ہی ساخت اکثر دو بار ناپی جاتی ہے، ایک بار پوچھ کر اور ایک بار مشاہدہ کر کے، اور دونوں ہمیشہ متفق نہیں ہوتے۔ الگ سے، SHAP تجزیے والے ایک تلاشی ML فریم ورک نے یونیورسٹی طلبہ میں ChatGPT کے ارادے والے تعلیمی استعمال سے سب سے زیادہ جڑے سیکھنے سے متعلق ساختوں کی شناخت کی، اور [[explainable-ai|وضاحت پذیری]] کو ترجیح دی ([[determinants-chatgpt-use-higher-education-2026]])۔
@@ -136,68 +136,3 @@ ai_assist:
 - **LLMs کلک اسٹریمز کو نامزد سیکھنے کی حکمت عملیوں کے مقابل پڑھتے ہیں۔** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et al. (2026)]] ایک [[llm|LLM]] پائپ لائن ترتیب دیتے ہیں جو طالب علم کے ٹریس میں کسی حکمت عملی کا ثبوت ڈھونڈتی ہے، اُس کی پاسداری کا فیصلہ کرتی ہے، اور فیصلے کے پیچھے کے اعمال کا حوالہ دیتی ہے، اور زیادہ مشکل نقلی آزمائش میں 0.735 مجموعی معیار حاصل کرتی ہے بمقابلہ 0.704 سادہ بنیادی خط کے۔
 - **"اینالیٹکس کو کلک اسٹریم ٹریس درکار ہوتے ہیں۔"** Outcome-Based Education کے اندر علمی کیفیتیں **LMS تعامل اور حصولیابی کے ڈیٹا سے براہِ راست کورس کے نتائج کا سراغ لگا کر** اندازہ لگائی جا سکتی ہیں، OBE تعلقیت کے نقشے کے ذریعے — اشارہ ادارہ جاتی ریکارڈ فراہم کرتا ہے۔
 - **"عمل کے وقفے کے بغیر پیش گوئی مفید ہے۔"** ترقی کی پیش گوئی اُس وقت سب سے زیادہ قابلِ استعمال ہوتی ہے جب وہ **قابلِ تفسیر ہو اور عمل کے وقفے کے ساتھ جڑی ہو**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries اور Koprinska (2025)]] ماڈیول کی سطح کے نتائج کی پیش گوئی کرتے ہیں، جو ایسی شکل ہے جس پر مشیر عمل کر سکتا ہے، ننگے اسکور کے برعکس۔
-
-## منسلک تصورات
-
-- [[automation-bias]] — کیوں موجود جھنڈے پر بغیر جانچے عمل ہو جاتا ہے
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — وہ معاونتی پہلو جسے پیش گوئی کھلاتی ہے: ریفرل، تقسیم، اور وہ نتائج جنہیں یہ بدلتے ہیں یا نہیں
-- [[sensor-and-gaze-analytics]]
-
-## منسلک مضامین
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: ادب میں متعین سیکھنے کی حکمت عملیوں کے ذریعے کلک اسٹریمز کی تفسیر (Radmehr et al. 2026)
-
-- [[taufer-human-ai-interaction-haidl-2026]] — انسانی-AI تبادلے بطور ساختہ ریکارڈ: پرامپٹ کی گنتی میں پیش رفت کا تقریباً کوئی اشارہ نہیں
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — AI تجزیوں کو نوٹ کرنا اور اجتماعی استدلال میں ترتیب دینا (Lee, Park & Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — ذمہ دار ادارہ جاتی اینالیٹکس: AI کی معاونت سے تعصب کی تفسیر
-
-- [[ai-supported-lecturer-decision-making-2026]] — اعلیٰ تعلیم میں AI کی معاونت والی لیکچرر فیصلہ سازی
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — رازداری کے تحفظ والی تعلیمی خطرے کی ماڈلنگ کے لیے فیڈریٹڈ اور قابلِ وضاحت لرننگ اینالیٹکس (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — طلبہ کیا پوچھتے ہیں، یہ اہم ہے: LLM تعامل کی گہرائی، کام کا معیار اور فوری یاد آوری (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — لرننگ اینالیٹکس سے تعلیمی مداخلتوں تک: قابلِ اعتماد LA پر مبنی مداخلتوں کے مُمکِّنات (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — سیکھنے کے ڈیزائن کے فیصلے میں LA اور GenAI
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — طالب علم کے خطرے کی پیش گوئی سے SC2R تک: متقابل حقیقتی چارہ
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ذاتی نوعیت کے سیکھنے کے راستوں کے لیے Bayesian علمی تشخیص
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — لرننگ اینالیٹکس کے لیے خود وضاحت کرنے والا LM ڈسٹل کرنا
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — کیا AI متنوع طالب علم پروفائلز کے لیے موزوں معاونت دے سکتا ہے؟ ایک بڑے پیمانے کا جائزہ
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — باریک فائن ٹیونڈ شریک مخصوص LLM ایجنٹس جو مشترکہ مسئلہ حل کرنے کے مکالمے دوبارہ پیدا کرتے ہیں (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — کثیر ایجنٹ ٹیوٹرنگ اور شرکت میں متوازن تعاون کے لیے ASTRA مصنوعی بینچ مارک
-- [[determinants-chatgpt-use-higher-education-2026]] — اعلیٰ تعلیم میں مستقبل کے ChatGPT استعمال کے ML/SHAP عوامل
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — مخلوط کلاس رومز میں اساتذہ کے لیے ML نتائج کو قابلِ رسائی بنانا
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — تعلقیت کے نقشے کے ساتھ نتیجے پر مبنی نالج ٹریسنگ
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — 554 کورسز کی 29,064 منصوبہ بند سرگرمیوں کی مارکوف چین اور پیٹرن مائننگ، جو Acquisition کی قیادت اور Practice کے استحکام والی ڈیزائن گرامر سامنے لاتی ہے
-- [[pulla-parsons-problem-tool-2026]] — Pulla: Parsons مسائل میں عمل کی سطح کا رویہ ٹریس کرنا اور مدرس کے لیے دشواری کا تجزیہ (Prol et al. 2026)
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — ثانوی اسکول کے طلبہ کی تخلیقی AI کے ساتھ تحریر کی معاونت کے لیے لرننگ اینالیٹکس کا استعمال
-- [[edtech-privacy-deferral-2026]] — "ہم بعد میں ٹھیک کر لیں گے": تعلیم، AI، اور ایڈٹیک میں طالب علم کی رازداری کی تاخیر
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے پیمانے کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ایک ساختی جانچ
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — سمسٹر کے ابتدائی LMS نشانات سے AI کی معاونت والی نقل کے خطرے کی پیش گوئی (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — کثیر الوضعی ٹیوٹرنگ ٹرانسکرپشنز کے ذریعے سیکھنے کے نظام کی دیوار توڑنے کی طرف (Thomas et al. 2026)
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — تکمیل کی شرحیں شمولیت کے انہدام کو چھپا سکتی ہیں
-- [[kim-ai-embodied-learning-review-2026]] — مجسم سیکھنے میں AI زیادہ تر مشاہدہ کرتا ہے: کوڈ شدہ کردار ٹیگز میں حسی کردار 62.5%، اور کسی جائزہ شدہ نظام نے کثیر الوضعی سٹریمز کو یکجا نہ کیا جبکہ طلبہ اُسے استعمال کر رہے تھے (Kim & Han 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — فعال کنٹرول مائیکرو تدریسی مطالعہ جو وضاحت کی تہہ کو الگ کرتا ہے: تفسیر ہلی، عمل نہیں (Liu et al. 2026)

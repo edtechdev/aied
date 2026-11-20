@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,12 +46,3 @@ Waelimishaji, wabunifu wa mafundisho na watengenezaji wa kitivo wanaweza kueleza
 ## Vidokezo na tahadhari
 
 Waandishi huita Primer mfano wa majaribio badala ya bidhaa ya darasani iliyothibitishwa. Haijatathminiwa kama hatua ya kielimu darasani, na hakuna aliyekagua kwa FERPA, COPPA, sheria ya faragha ya wanafunzi ya jimbo au sera ya wilaya, hivyo taasisi inayoitumia na wanafunzi inamiliki ukaguzi huo. Programu ina leseni ya MIT na ni bure, lakini kuendesha simulering kunahitaji ufikiaji wa modeli, ambao hugharimu pesa. Kwa kuwa haitegemei modeli moja na hufanya kazi kwa modeli za ndani au za uzito huria, inaweza kuwekwa mahali ambapo sheria za faragha ni kali zaidi. Karatasi nyeupe kuhusu usanifu na ilani imeunganishwa kutoka ukurasa wa mradi. Hazina ilikuwa na nyota 98 na forks 16 ilipokaguliwa Novemba 2026.
-
-## Dhana Zilizounganishwa
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

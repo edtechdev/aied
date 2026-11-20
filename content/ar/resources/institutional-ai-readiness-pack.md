@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -37,6 +38,3 @@ ai_assist:
 
 ## لمن هي
 لقادة البحث واللجان ومكاتب السياسات التي تحتاج صورة مؤسسة على الأدلة لكيفية استخدام الذكاء الاصطناعي و[[governance|حوكمته]] عبر بيئة بحثية وطريقةً لتتبع [[change-management|التغيير]] مع الزمن. وهي تُرافق كتاب *Responsible AI in Academic Research: A Competency Framework for Research Training*، الذي يحدّد خمسة أبعاد للاستعداد، وكتبه Michael J. Zyphur، مدير Instats.
-
-## مفاهيم مترابطة
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

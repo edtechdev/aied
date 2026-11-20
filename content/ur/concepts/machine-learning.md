@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -74,34 +76,3 @@ ai_assist:
 **\"جنریٹو AI نے تعلیم میں کلاسیکی مشین لرننگ کو متروک کر دیا ہے۔\"** وہ مختلف کام کرتے ہیں۔ سیکھنے والوں کی حالتوں کی پیش گوئی، دشواری کا اندازہ اور پیش رفت کی پیش بینی کلاسیکی ML کے مسائل ہی رہتے ہیں، اور نالج ٹریسنگ اور آئٹم کیلیبریشن کا ادب جسے یہ ذخیرہ دستاویز کرتا ہے، لینگویج ماڈل اُس کی خدمت نہیں کرتا۔ جنریٹو AI مشین لرننگ کا ذیلی مجموعہ ہے، اُس کا متبادل نہیں۔
 
 **\"استاد کی تعلیم کو طلبہ کو LLM کے بارے میں سکھانا چاہیے، مشین لرننگ کے بارے میں نہیں۔\"** خواندگی کو جنریٹو تہہ تک محدود رکھنا پریکٹیشنرز کو اُن پیش گوئی کرنے والے نظاموں سے سوال کرنے سے قاصر رکھتا ہے جو اُن کے طلبہ کے بارے میں فیصلے کر رہے ہیں — اور نتائج کے لحاظ سے سنگین غلطیاں وہیں جمع ہوتی ہیں۔
-
-## منسلک تصورات
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## منسلک مضامین
-
-- [[at-risk-students-ml-prediction]] — دستبرداری کے خطرے میں گھرے طلبہ کی شناخت کے لیے سپروائزڈ ML درجہ بندی
-- [[trace-course-grade-prediction-2026]] — ٹرانسفارمر جو کورسز اور گریڈ کی مشترکہ پیش گوئی کرتا ہے (TRACE)
-- [[precision-education-student-digital-twins-2026]] — احتیاطی، کیریئر سے ہم آہنگ راستوں کے لیے AI سے چلنے والے طلبہ کے ڈیجیٹل جڑواں
-- [[sc2r-counterfactual-recourse-educational-2026]] — قابلِ عمل مداخلت کے لیے معنی سے مقید فرضی متبادل حل
-- [[interactive-online-learning-ai-2025]] — تفاعلی آن لائن سیکھائی کی پیش گوئی کے لیے DMO-GRU مخلوط
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS میں علمی شمولیت کا موافق سہارا (BKT بمقابلہ DRL)
-- [[pedagogical-safety-rl]] — تعلیمی ری انفورسمنٹ لرننگ میں تدریسی حفاظت کا باقاعدہ فریم ورک
-- [[automated-online-exam-proctoring-decade-review-2026]] — ڈیپ لرننگ والی خودکار پروکٹرنگ کا دہائی پر محیط جائزہ
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — قرابت کی نقشہ بندی کے ساتھ نتائج پر مبنی نالج ٹریسنگ
-- [[bird-multimodal-educational-literature-2026]] — تعلیمی ادب کی درجہ بندی کے لیے کثیر الوضعی فیوژن
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM اور درخت پر مبنی ML سے آئٹم کی دشواری کا اندازہ
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — پاکستانی یونیورسٹی طلبہ میں NLP اور مشین لرننگ کے ذریعے دباؤ کی شناخت اور بہبود کی معاونت کے لیے ثقافتی طور پر واقف AI چیٹ بوٹ
-- [[synthetic-educational-data-structural-fidelity-2026]] — جو وفاداری کے میٹرکس چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ساختی جانچ

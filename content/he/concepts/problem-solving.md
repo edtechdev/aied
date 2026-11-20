@@ -20,7 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -200,28 +201,3 @@ ai_assist:
 **For researchers**
 
 - הדמיות סוכנים ייחודיים-למשתתף הן מכשיר חזק לחקר ויסות שיתופי. דווחו אותן ככאלה ולא כראיה על שיתוף פעולה לא-מפוקח בין סטודנטים.
-
-## מושגים מחוברים
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## מאמרים מחוברים
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — פרופילי אינטראקציה (היגיון מיוחד לעומת פרשנות מתואמת) ואיזון היעילות–הווסת
-- [[ai-assisted-collaborative-learning-model-dbr]] — מודל DBR הממקם בינה מלאכותית יוצרת כשותפת למידה אינטליגנטית
-- [[llm-critical-thinking-teamwork-review]] — PRISMA review of LLMs fostering critical thinking, teamwork, and problem solving
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — פיגומים מסתגלים מכוריית-רצף לפתרון בעיות שיתופי
-- [[genai-assisted-problem-posing-physics-2026]] — ניסוח בעיות כאסטרטגיית למידה מוסדרת-עצמאית עם בינה מלאכותית יוצרת
-- [[genai-feedback-design-multisite-experiment]] — משוב מהרהר/היברידי גובר על בינה מלאכותית ישירה בהעברה מעוכבת
-- [[dai-chatbots-problem-posing-primary-2026]] — צ'אטבוטים משפרים ניסוח בעיות של תלמידים בכתה ד' בלמידה מבוססת-חקירה
-- [[llm-computational-thinking-physics-2026]] — מודלי שפה כמעריכים מדידים של פתרון בעיות חישוביות בפיזיקה
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — פיגום מונחה-כלל לעומת אד-הוק במערכת הוראה מבוססת מודלי שפה למתמטיקה בכתה ד' (לוי ושות' 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

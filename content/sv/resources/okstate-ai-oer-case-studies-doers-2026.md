@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -41,11 +42,3 @@ Läs den som en uppsättning projektredogörelser snarare än som en utvärderin
 ## Anteckningar och förbehåll
 
 Licensieringen per kapitel är fällan. Samlingen är CC BY 4.0, men enskilda författare behåller upphovsrätten och valde sina egna Creative Commons-licenser, så ett kapitel kan vara mer restriktivt än boksidan antyder; kapitlet om läroboksrevidering är CC BY-NC-SA 4.0, och återanvändning måste kontrollera kapitlet snarare än försättsmaterialet. Författarna hade ingen obligatorisk rutin för AI-deklaration, så de flesta kapitel diskuterar sin process i förbigående, vanligen enligt vägledningen från OER Commons. Genom ett redaktionellt val behåller varje kapitel sin författares disciplinära röst, interpunktion och regionala stavning, så prosan läses inte enhetligt. Framför allt dokumenterar varje kapitel ett lokalt projekt och inga två delar instrument eller jämförelse, så volymen erbjuder praktik att anpassa snarare än evidens att citera.
-
-## Anslutna begrepp
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

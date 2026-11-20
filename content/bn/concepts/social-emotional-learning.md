@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -51,7 +53,6 @@ ai_assist:
 - **এআই × SEL-এ নীতি-ঘাটতি:** এআই–SEL ছেদে 65টি প্রবন্ধের একটি [[meta-analysis-systematic-review|পদ্ধতিগত পর্যালোচনা]] ([[policy-deficit-ai-sel-2026|Tran, Liu ও Nguyen 2026]]) একটি যথেষ্ট "নীতি-ঘাটতি" খুঁজে পায়: প্রায় তিন-চতুর্থাংশ গবেষণা কোনো নীতি-তাৎপর্য বলে না, এবং যেগুলো বলে সেগুলো প্রায়ই অংশীদার-নির্দিষ্ট নির্দেশনার অভাবে থাকে। পর্যালোচনাটি নীতি-সম্পৃক্ততাকে প্রকাশ-ভেন্যুর সঙ্গে যুক্ত করে এবং একটি "প্রযুক্তি-সমাধানবাদী" ফাঁদের বিরুদ্ধে সতর্ক করে যেখানে প্রযুক্তিগত সম্ভাবনা সামনে আনা হয় অথচ দায়িত্বশীল বাস্তবায়নের প্রাতিষ্ঠানিক শর্তগুলো অনির্দিষ্ট থাকে। এটি একটি "WH-প্রশ্ন" কাঠামো (কে, কী, কেন, কখন/কোথায়, কীভাবে) প্রস্তাব করে "তাৎপর্য-উপেক্ষিত" থেকে "তাৎপর্য-পদ্ধতি"-তে যেতে, [[ai-education|SEL-এর জন্য এআই]] উদ্ভাবনকে [[educational-policy-ai|শিক্ষা নীতির]] ও [[governance|শাসনের]] সঙ্গে যুক্ত করে।
 
 - **GenAI ও SEL নিয়ে ৪৩টি গবেষণার ম্যাপিং পর্যালোচনা।** [[liu-genai-sel-mapping-review-2026|Liu প্রমুখ (2026)]] ছয়টি SEL ক্ষেত্র জুড়ে 43টি গবেষণা কোড করেছেন এবং পেয়েছেন সংজ্ঞানাত্মক যোগ্যতা 24টিতে, পরিচয় 15টিতে, সামাজিক 14টিতে ও আবেগ 7টিতে, যেখানে মূল্যবোধ (4) ও দৃষ্টিভঙ্গি (3) প্রান্তিক। ১৯টি অ্যাফোর্ডেন্স সাতটি ধরনে গুচ্ছবদ্ধ; 43টির মধ্যে 38টি গবেষণা কেবল সর্বনিম্ন স্বচ্ছতা-স্তর পূরণ করেছে। এই তালিকা দেখায় SEL-এর প্রমাণ কোথায় ঘন আর নৈতিক প্রতিবেদন কোথায় পাতলা।
-
 
 ## এআই-যুগের গবেষণায় SEL-এর সম্ভাব্য উপবিষয়
 
@@ -110,45 +111,3 @@ SEL যুক্ত হয় [[ai-literacy]]-এর সঙ্গে (এমন 
 **"কম অধ্যবসায় একটি প্রেরণা-সমস্যা যা উৎসাহ ঠিক করতে পারে।"** অধ্যবসায় শিক্ষা প্রযুক্তির পুনরাবৃত্ত সীমাবদ্ধতা — [[framing-5-percent-problem-teachers-persistence|5% সমস্যা]] যে ধরনটির নাম দেয় — এবং তা প্রেরণা ও সম্মতি, সংজ্ঞানাত্মক পথরোধ, *এবং* চ্যালেঞ্জে স্থিতিস্থাপকতা দ্বারা আকৃত। উৎসাহ তিনটির একটিকে সম্বোধন করে। যে শিক্ষার্থী থেমে যায় কারণ সমস্যাটি তার কর্ম-স্মৃতিকে ছাড়িয়ে গেছে তার আশ্বাসের অভাব নেই।
 
 **"এআই পাওয়া যায় জেনে শিক্ষার্থীরা প্রচেষ্টায় বিনিয়োগের ধরন বদলায় না।"** তা বদলাতে পারে, এবং প্রভাবটি দুর্বলতম শিক্ষার্থীদের জন্য উল্টো দিকে চলে: [[ai-availability-student-motivation|এআই-প্রাপ্যতা]] প্রচেষ্টামূলক সম্পৃক্ততার অনুভূত মূল্য কমাতে পারে, বিশেষত নবীনদের জন্য। কেবল প্রাপ্যতাই একটি নেতিবাচক চিহ্নযুক্ত প্রেরণামূলক হস্তক্ষেপ, এজন্যই SEL-সংলগ্ন নকশা একটি সহায়ক ব্যবস্থার উপস্থিতিকে নিরপেক্ষ ধরতে পারে না।
-
-## সংযুক্ত ধারণা
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-
-
-- [[liu-genai-sel-mapping-review-2026]] — GenAI ও SEL নিয়ে ৪৩-গবেষণার ম্যাপিং পর্যালোচনা: অসম যোগ্যতা-কভারেজ ও পাতলা নৈতিক প্রতিবেদন
-
-
-- [[sec-ai-literacy-narrative-review-2026]] — এআই-সাক্ষরতায় সামাজিক-আবেগিক যোগ্যতার সংযুক্তি
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — আস্থার ফাঁক খেয়াল করুন: শিক্ষক-শিক্ষার্থী দৃষ্টিভঙ্গি
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — স্ক্যাফোল্ডকৃত এআই-সাক্ষরতা (SAIL) কাঠামো
-- [[teacher-education-ai-literacy-sdt-2026]] — এআই-সাক্ষরতার জন্য শিক্ষক শিক্ষা (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — এআই-এর ওপর শিক্ষার্থী-নির্ভরতা, আত্ম-কার্যকারিতা ও সম্পদ-ব্যবস্থাপনা
-- [[self-efficacy-tutoring-learning]] — আত্ম-কার্যকারিতা ও অনুকূলতা টিউটরিং থেকে শিখনকে আকৃতি দেয়
-- [[shame-guilt-ai-regulation-computing-education]] — এআই-ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — প্রতিস্থাপন থেকে স্ক্যাফোল্ডিং
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — এআই চ্যাটবট ও সমষ্টিগত কার্যকারিতা
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: আবেগিক গণিত টিউটরিং
-- [[ai-campus-wellbeing-tools]] — এআই-চালিত ক্যাম্পাস সুস্থতা-সরঞ্জাম
-- [[policy-deficit-ai-sel-2026]] — এআই × SEL গবেষণায় নীতি-ঘাটতি
-- [[human-ai-complementarity-social-emotional-learning-2026]] — প্রাথমিক সামাজিক-আবেগিক শিখনে মানুষ–এআই পরিপূরকতা (Raave প্রমুখ 2026)
-- [[parlant-emotional-micro-interventions-2026]] — তাৎক্ষণিক আবেগিক ক্ষুদ্র-হস্তক্ষেপ ও প্রশিক্ষকদের জন্য বাক্যাংশ-সংগ্রহ
-- [[shastry-gray-empathy-offloading-2026]] — মানুষ সহানুভূতি হস্তান্তর করে যখন ভাবে এআই তা দিতে পারে (Shastry ও Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — তোষণবাদী এআই মানব-পরামর্শ-অন্বেষণ স্থানচ্যুত করে এবং বাস্তব-জগতের মিথস্ক্রিয়ায় সন্তুষ্টি কমায় (Ibrahim প্রমুখ 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -112,54 +114,3 @@ AI の支援チャネルが何を置き換えるかも、同じように勘定�
 学生サービスは、会話型アシスタントを通じて問い合わせを受けることがますます増えており、2026年のランダム化実験がそのトレードオフを直接検証しました。18〜25歳の成人299名が、大学のウェブサイトか、プログラムのPDFに基づくGPT-4oアシスタントのいずれかを通じて、5つのプログラム情報を探しました。チャットボットはより速く（312秒対505秒）、より正確で（95.6%対78.5%、OR = 7.84）、行動意図を除くすべての知覚的指標でより高く評価されましたが、行動意図には差がありませんでした。（[[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]）
 
 例外は、運用上重要なものです。コースのオーバーライドについて誰に連絡すべきかを尋ねる質問では、ウェブサイトが96.5%対85.2%で勝りました。特定の個人や部署に結びついた情報こそ、ナビゲート可能なサイトが生成された回答に依然として勝る領域であり、したがってアシスタントはサイトの代替としてではなく、サイトの上に重ねる層として展開するのが適切です。
-
-## 関連する概念
-
-- [[higher-ed]] — このページがその下に位置する分野の傘
-- [[student-experience]] — AIが学生自身の経験にどう届くか
-- [[learning-gains]] — 学習が起きたかどうか。このページが測定しない教育的成果
-- [[learning-analytics]] — 予測、早期警戒、予測アナリティクス
-- [[student-modeling]] — リスク予測の下にあるモデリング層
-- [[knowledge-tracing]] — きめ細かなスキルと習熟の推定
-- [[recommender-systems-and-learning-paths]] — 科目、教材、経路の推薦
-- [[help-seeking]] — 学生がどう支援を求めるようになるか
-- [[well-being]] — キャンパスのメンタルヘルス、予防、介入
-- [[career-development-and-readiness]] — 修了後の成果
-- [[administrator]] — 支援システムを所有し運営する役割
-- [[stakeholders]] — 制度のAIの意思決定に関与する人々
-- [[change-management]] — 試行後のプログラムの持続
-- [[governance]] — 制度のAIのための政策と監督
-- [[educational-policy-ai]] — 制度への展開の政策文脈
-- [[equity-in-ai-education]] — システムが届く人と取りこぼす人
-- [[privacy]] — 学生記録、データ共有、連合型アプローチ
-- [[human-in-the-loop-ai]] — 自動化された支援の流れの中の人間の判断
-- [[rct]] — ここでの最強のエビデンスを支えるデザイン
-
-## 関連する記事
-- [[cefa-ai-learner-support-review-2026]] — AIを活用した学習者支援に関する61本の研究レビュー：適応型システムと予測が主流で、移行期と多様な学習者が欠落している
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 大学支援チャットボットの4年間にわたるランダム化評価：課題完了は変化したものの、卒業とGPAは変化しなかった
-- [[chatbot-outreach-course-performance-2026]] — 事前登録された複数学期のアウトリーチ試験：A/B率の上昇、DFWの小幅な変化、1つの人口統計集団における例外
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500件の合成ヴィネット：学生のニーズに対する感度の低さと、支援推奨におけるモデル間の不一致
-- [[sc2r-counterfactual-recourse-educational-2026]] — 実行可能性のギャップ：リコースは単にモデル上有効であるだけでなく、実行可能で検証可能でなければならない
-- [[fairness-theatre-early-warning-systems-2026]] — 168,550件の記録から構築されたベンダー製早期警告システムに対する6つの事後公平性介入
-- [[at-risk-students-ml-prediction]] — 退学前に学生を特定する教師あり分類器
-- [[predicting-attrition-competitive-programming]] — 行動ログと心理特性調査を組み合わせた中途脱落の予測
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 生の学生データを共有せずに機関横断で行う連合学習によるリスクモデリング
-- [[precision-education-student-digital-twins-2026]] — デジタルツインと「予防的な学生サクセス」というビジョン
-- [[learning-analytics-to-educational-interventions-2026]] — 分析から介入へのループを閉じるための7つの促進要因
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 助けを求めるコストの低減を狙った科目特化型アシスタント
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 学習効果とは切り離して個別に検証されたチュータリングの利用
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 推奨される学習オブジェクトに対応づけられた6つの行動プロファイル
-- [[trace-course-grade-prediction-2026]] — 履修計画のための科目と成績の同時予測
-- [[zhang-ml-student-progress-programming-2026]] — 解釈可能なモジュール単位の進捗予測
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 高等教育におけるAI、リーダーシップ、サービス提供に関する155本の研究
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育リーダーシップにおけるAIの10領域からなる分類体系
-- [[students-at-stake-ai-deployment-risks-2026]] — 学生側のリスク領域：入試と経済支援、学生サクセスサービス、そして授業
-- [[ai-campus-wellbeing-tools]] — 予防から介入までをカバーするキャンパスのウェルビーイング支援
-- [[shastry-gray-empathy-offloading-2026]] — 共感のオフローディングに関する4つの研究：AIが情緒的支援を提供できると信じることで、人自身が提供する共感が減る (Shastry & Gray 2026)
-- [[coursegraph-cs-course-comparison-2026]] — 単位互換と学生移動のための科目の同等性
-- [[credentials-carry-evidence-ai-agents-2026]] — エージェントが作業をこなせる時代に、修了記録は何を意味するのか
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — AI支援による不正行為のリスクを早期に予測することと、低ステークスのアウトリーチにおける閾値のトレードオフ
-- [[rienties-institutional-ai-assistant-co-design-2026]] — 機関のAI学習アシスタントに関する5つのコデザイン研究：まず利用可能性、最後に価値観に基づく抵抗
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — クエリから会話へ：工学教育におけるAIベースの仮想アシスタントの導入、ユーザビリティ、影響の探究
-- [[ai-conversational-interfaces-information-seeking-2026]] — チャットボットは、回答が特定の担当者名である場合を除き、ウェブサイトよりも迅速かつ正確にプログラムに関する質問に回答した

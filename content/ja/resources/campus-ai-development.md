@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -43,9 +44,3 @@ Campus AI Development は、高等教育で AI を使ってソフトウェアを
 ## 注記と注意点
 
 自身を、機関の方針でも法的助言でもない独立した個人プロジェクトと位置づけています。機関名が挙がっているのは実践の記録を公開しているためであって、推奨ではありません。検討ケースは合成されたものです。法的な例はアメリカのもの（FERPA、ADA Title II、GLBA）で、登場する箇所には日付が添えられていますが、道筋、質問、データ水準、アプローチはそれらに依存しないと論じています。エビデンスのページはすべての研究にリンクし、ある限られた課題での改善と、経験を積んだメンテナが自分のコードに向き合うときの速度低下を並べ、試験のデータは仕様駆動やマルチエージェントの作業ではなくコード提案を対象としていることを認めています。したがって、より多くの構造を求める根拠は、実践とコンプライアンスの論理に依っています。再利用のライセンスは明記されていません。姉妹サイトの [campusdatagov.com](https://campusdatagov.com/) と [campusairegistry.com](https://campusairegistry.com/) がデータガバナンスとエージェント登録の部分を担っているため、これは [[educational-policy-ai]] の仕事への良い入口ですが、その代替ではありません。
-
-## 関連する概念
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

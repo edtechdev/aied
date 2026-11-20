@@ -7,6 +7,8 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 > **Design-based research (DBR)** — a methodological approach that iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice to produce both a usable artifact and validated design principles. In [[ai-education|AI in education]], DBR is the method of choice for developing AI learning environments, [[pedagogy|pedagogical]] models, and [[teacher-role|teacher]]-training programs that must work in the messy reality of classrooms — trading the causal control of [[rct|experiments]] for ecological authenticity and iterative refinement.
@@ -68,30 +70,3 @@ DBR is the signature method of the [[learning-sciences|learning sciences]] — t
 **"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works where it was co-produced has demonstrated local viability, which is a different claim from effectiveness. The artifact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
 
 **"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study treated the rubric itself as the artifact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Connected Articles
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR for an AI-Assisted Collaborative Learning Model
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR for AI-literacy training in teacher education
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR for faculty technology-integration standards
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
-- [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

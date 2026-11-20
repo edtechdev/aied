@@ -23,8 +23,9 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
-
 
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -104,67 +105,3 @@ ai_assist:
 - **"אימוץ AI מוסדי הבשיל."** **השכבה הסמלית רוויה בעוד השכבה המבנית דלה**: **100% מחזיקות צוות-משימה AI ותואר מוסמך AI, אך רק 12% מחזיקות מנהיגות AI אקזקוטיבית** ורק 5% דורשות צעד מוסדי נוסף. ההכרזות הקדימו את המבנים בסדר גודל.
 - **"יוקרה מנבאת בגרות AI מוסדית."** המוסדיות התבררה **כבלתי-תלויה ביוקרה (מתאם דירוג r ≈ 0.04)**, עם **שונות אזורית מובהקת (ANOVA F = 5.86, p < .001)**. מוניטין אינו פרוקסי למוכנות, וגיאוגרפיה מנבאת יותר מסטטוס.
 - **"אופן חלוקת העבודה האפיסטמית על-ידי AI אחיד בין מוסדות."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn ו-Rehm (2026)]] סיווגו **102 מחקרי השכלה גבוהה אמפיריים** לפי אופן חלוקת העבודה האפיסטמית, והשונות היא הממצא ולא פרט.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — הרמה שבה נוצרה רוב ראיות הרצף הנבדקות
-- [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
-- [[generative-ai]] — טכנולוגיות ומודלים של בינה מלאכותית יוצרת
-- [[llm]] — מודלים לשוניים גדולים
-- [[student-experience]] — חוויית הסטודנט עם בינה מלאכותית בהשכלה גבוהה
-- [[educational-development]] — פיתוח סגל ומוכנות לבינה מלאכותית
-- [[academic-integrity]] — יושר אקדמי בגוף סטודנטים מסוגל להשתמש בבינה מלאכותית
-- [[ai-literacy]] — אוריינות בינה מלאכותית לסטודנטים ולסגל
-- [[assessment-validity]] — תוקף ההערכה בעידן GenAI
-- [[educational-policy-ai]] — מדיניות חינוכית על בינה מלאכותית
-- [[regulation]] — רגולציה של בינה מלאכותית בחינוך
-- [[remote-proctoring]] — פיקוח מרחוק ויושר בחינה אוטומטי
-- [[self-directed-learning]] — למידה מוכוונת-עצמית עם בינה מלאכותית
-- [[problem-based-learning]] — למידה מבוססת בעיות עם בינה מלאכותית
-- [[teacher-role]] — תפקיד המורה המתפתח בכיתות בינה מלאכותית
-- [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך עם בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — ייעוץ, פנייה, הפניה, והקצאת תמיכה — הצד המוסדי של הצלחת הסטודנט
-
-## מאמרים מחוברים
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): מדד מוסדיות-AI ב-100 האוניברסיטאות המובילות; הדיסקורס עולה על המבנה, אימוץ בלתי-תלוי ביוקרה
-
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — מסגרת מוכנות סגל EPIQ-AI
-- [[ai-in-the-wild-college]] — בינה מלאכותית בבר: שימוש של סטודנטים אקדמיים בבינה מלאכותית
-- [[institutional-change-framework-ai]] — שינוי מוסדי בעידן הבינה המלאכותית
-- [[genai-availability-grades-satisfaction]] — זמינות GenAI ושביעות רצון סטודנטים
-- [[ai-assessment-scale-reform]] — סולם ההערכה של בינה מלאכותית ורפורמה
-- [[universities-ai-era-rethinking]] — חשיבה מחודשת על אוניברסיטאות בעידן הבינה המלאכותית
-- [[teacher-ai-adoption-confidence]] — אימוץ בינה מלאכותית בקרב מורים
-- [[enright-staff-perspectives-genai-2026]] — פרספקטיבות סגל על GenAI בהשכלה גבוהה
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — מנעים ארגוניים לאימוץ בינה מלאכותית בהשכלה גבוהה
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — בינה מלאכותית במשוב סטודנטים: אתיקה
-- [[beyond-detection-authentic-assessment-ai-2025]] — מעבר לזיהוי: עיצוב מחדש של הערכה אותנטית בעולם מתווך בינה מלאכותית
-- [[genai-student-experiences-uk-he-survey-2026]] — חוויות GenAI בקרב סטודנטים בהשכלה גבוהה בבריטניה (סקר)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — מרצים מול מעסיקים על מיומנויות בינה מלאכותית לבוגרי מכללות
-- [[generative-ai-reduced-study-time-math]] — ירידה של 26.9% בזמן הלימודים בקרב סטודנטים אקדמיים
-- [[ai-uk-higher-education-policy-2026]] — מדיניות בינה מלאכותית בהשכלה גבוהה בבריטניה
-- [[ai-tools-academic-work-cheating-2026]] — כלי בינה מלאכותית, עבודה אקדמית ורמאות
-- [[assessing-quality-ai-generated-exams-field-2025]] — בחינת איכותם של מבחנים שנוצרו על ידי בינה מלאכותית: מחקר שדה בקנה מידה גדולה
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — בחינה מחודשת בבחינות בעל פה כהערכה אותנטית עמידה-לפני בינה מלאכותית
-- [[roe-assessment-twins-2026]] — תאומי הערכה לחיזוק תוקף ההערכה בעידן GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — תפיסות סטודנטים על כלי בינה מלאכותית לפרודוקטיביות בלימודים ובלמידה: מחקר סקר חקרני
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — מחקר פנומנוגרפי של קונספטואליזציות מורים אוניברסיטאיים על בינה מלאכותית
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — טרנספורמציה דיגיטלית של אוניברסיטת אמנויות ליברליות לעבר מודל ממוקד-מחקר בעידן GenAI (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — סקירה שיטתית ממפה שילוב בינה מלאכותית בהשכלה גבוהה דרך מסגרות FACETS + SAMR (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — חוויות ותפיסות מורים אוניברסיטה על GAI: פגיעות, חשיבה מחודשת על הערכה, למידת סטודנטים בסיכון (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — שימוש חוקרי בוגרי לימודים ב-GenAI בזרימת המחקר והנחיות מוכוונות-אוריינות בינה מלאכותית (Dai & Chan 2026)
-- [[engagement-intensity-learner-modeling]] — עוצמת מעורבות כאות מידול לומד להוראת אתיקה אדפטיבית עם בינה מלאכותית (Oh, Talton & Bui 2026)
-- [[ai-assisted-writing-research-teams]] — כתיבה בסיוע בינה מלאכותית מזיזה צוותי מחקר לעבר שיתופי פעולה קטנים יותר, נוטי-ג'וניור ומצוטטים מאוד (Wang et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: חונכות בינה מלאכותית ואנושית מניבות הישגי למידה שווים ב-GRE
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — צורות עוזר ומאפשר דומיננטות במחקר GenAI בהשכלה גבוהה; סוגי הסתבכות השוליים נשארים נדירים מסיבות מוסדיות ולא טכניות (Sun, Dohn & Rehm 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — מפה מצד הסטודנט של פריסת בינה מלאכותית לאורך קבלה, סיוע כספי, שירותי סטודנטים ומסירת חינוך, עם מסך רכש בן ארבע שאלות (Student Defense 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — מטלות בתמונות מופרעות העלו כשל השלמה של מודלים לשוניים מ-7.4% ל-55.6%: תכן תוכן כמסלול יושרה
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — משקפי AI ומכשירי שמיעה מנטרלים איסור בחינה בחדר: שקיפות כפולה בלי רמז מבט או תנוחה
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — טקסונומיית תחומי-תפקוד של יישומי AI בהשכלה גבוהה, ש-58.4% מהם נופלים מחוץ לקטגוריות 2019
-- [[ai-ethics-tensions-online-pedagogy-2026]] — כתבו הנחיה ספציפית-לשיטה, לא מדיניות AI אחת לכל הקמפוס
-- [[ai-literacy-determinants-university-students-2026]] — משאבים נתפסים ותמיכת מורים הסבירו 29% מהשונות באוריינות AI; דמוגרפיה לא
-- [[faculty-ai-well-being-social-supports-2026]] — ממצו אוריינות AI, לא רק ביטחון בכלים, עבור הסגל

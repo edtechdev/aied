@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -57,7 +59,6 @@ ai_assist:
 
 সমস্যা সমাধান হলো [[critical-thinking|সমালোচনামূলক চিন্তা]] ও [[computational-thinking|গণনামূলক চিন্তার]] প্রয়োগিক ফল, এবং তা লালিত হয় [[problem-based-learning|সমস্যা-ভিত্তিক শেখা]] ও [[inquiry-based-learning|অনুসন্ধান-ভিত্তিক শেখার]] কাঠামোয়। এটি নির্ভর করে জ্ঞানীয় চাহিদা ধরে রাখা [[scaffolding|স্ক্যাফোল্ডিংয়ের]] উপর, [[self-regulated-learning|স্ব-নিয়ন্ত্রণ]] ও [[metacognition|অধিযানিক]] তদারকির উপর, যাতে [[cognitive-offloading|জ্ঞানীয় অর্পণ]] এড়ানো যায়, এবং এমন [[collaborative-learning|সহযোগী]] কাঠামোর উপর যেখানে মানুষ ও এআই একসঙ্গে কাজ করে। [[cognitive-psychology|জ্ঞানীয় মনোবিজ্ঞান]] ও [[transfer-of-learning|শেখার স্থানান্তর]] সাহিত্য তাত্ত্বিক ভিত্তি দেয় কেন শিক্ষার্থী-উৎপন্ন সমস্যা ও চিন্তাশীল প্রতিক্রিয়া বেশি টেকসই [[learning-gains|সমস্যা-সমাধান লাভ]] দেয়। এই ধরনের দক্ষতা অর্জনে কার্যকর উদাহরণ বনাম অভ্যাসের ভারসাম্য নিজেই বিষয়বস্তু-নির্ভর: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ও Carvalho (2025)]] দেখান সাধারণযোগ্য সমস্যা-সমাধান দক্ষতা সবচেয়ে ভালো শেখা যায় উদাহরণ-সংযুক্ত অভ্যাসে (কার্যকর উদাহরণ ও সমস্যা পালা করে), কারণ কার্যকর উদাহরণ সঠিক নিয়ম অর্জন ও সাধারণীকরণের জন্য দরকারি আরোহী তথ্য জোগায়, যেখানে নিছক অভ্যাস সাধারণ পদ্ধতির বদলে আপাত-সম্পর্কিত বৈশিষ্ট্য শক্তিশালী করার ঝুঁকি নেয়।
 
-
 ## এলএলএম এজেন্ট দিয়ে সহযোগী সমস্যা সমাধান অনুকরণ
 
 - **অংশগ্রহণকারী-নির্দিষ্ট [[llm]] এজেন্ট দিয়ে সহযোগী সমস্যা সমাধান অনুকরণ।** Fang (2026) বাস্তব অংশগ্রহণকারীদের সংলাপে আলাদা এলএলএম এজেন্ট প্রশিক্ষণ দিয়ে সহযোগী সমস্যা সমাধান পুনরুৎপাদন করেন, এবং [[simulation|অনুকরণগুলি]] বৈধতা দেন [[network-analysis|জ্ঞানতাত্ত্বিক নেটওয়ার্ক বিশ্লেষণ]] দিয়ে, দেখিয়ে অনুকৃত ও বাস্তব সংলাপ পরিসংখ্যানগতভাবে অবিভেদ্য (ENA দূরত্ব 0.17; পারমিউটেশন p = 0.65)। এটি প্রামাণিক সহযোগী সমস্যা-সমাধান আলাপ অধ্যয়ন ও উৎপাদনের একটি স্কেলযোগ্য পথ দেয় — যা এই ২১শ-শতকের দক্ষতার গবেষণা ও অনুশীলন-পরিবেশের নকশা — উভয়ের জন্যই তাৎপর্যপূর্ণ।
@@ -90,28 +91,3 @@ ai_assist:
 **গবেষকদের জন্য**
 
 - অংশগ্রহণকারী-নির্দিষ্ট এজেন্ট অনুকরণ সহযোগী নিয়ন্ত্রণ অধ্যয়নের একটি শক্তিশালী যন্ত্র। সেগুলি সেই হিসেবেই প্রতিবেদন করুন, অসুপারিশকৃত শিক্ষার্থী-সহযোগিতা সম্পর্কে প্রমাণ হিসেবে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — মিথস্ক্রিয়া-প্রোফাইল (অর্পিত যুক্তি বনাম সমন্বিত ব্যাখ্যা) এবং দক্ষতা–নিয়ন্ত্রণ বিনিময়
-- [[ai-assisted-collaborative-learning-model-dbr]] — জেনারেটিভ এআই-কে বুদ্ধিমান শেখার সঙ্গী হিসেবে স্থাপনকারী DBR মডেল
-- [[llm-critical-thinking-teamwork-review]] — সমালোচনামূলক চিন্তা, দলগত কাজ ও সমস্যা সমাধান লালনে এলএলএম-এর PRISMA পর্যালোচনা
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — সহযোগী সমস্যা সমাধানের জন্য সিকোয়েন্স-মাইন করা অভিযোজিত স্ক্যাফোল্ড
-- [[genai-assisted-problem-posing-physics-2026]] — জেনএআই-সহ স্ব-নিয়ন্ত্রিত শেখা-কৌশল হিসেবে সমস্যা-গঠন
-- [[genai-feedback-design-multisite-experiment]] — বিলম্বিত স্থানান্তরে চিন্তাশীল/সংকর প্রতিক্রিয়া সরাসরি এআই-কে ছাড়িয়ে যায়
-- [[dai-chatbots-problem-posing-primary-2026]] — অনুসন্ধান-ভিত্তিক শেখায় চ্যাটবট প্রাথমিক শিক্ষার্থীদের সমস্যা-গঠন উন্নত করে
-- [[llm-computational-thinking-physics-2026]] — পদার্থবিজ্ঞানে গণনামূলক সমস্যা সমাধানের স্কেলযোগ্য মূল্যায়নকারী হিসেবে এলএলএম
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — প্রাথমিক গণিতের এলএলএম টিউটরিং ব্যবস্থায় নিয়ম-পরিচালিত বনাম তাৎক্ষণিক স্ক্যাফোল্ডিং (Looi প্রমুখ 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -97,49 +99,3 @@ Kujifunza kwa ujumla kimeunganishwa kwa kina na [[equity-in-ai-education]] — u
 **"Wanafunzi wanaosumbuka wanapaswa kujifunza kuandika ilani bora."** Hilo hubadilisha kasoro ya mfumo kuwa upungufu wa mwanafunzi. Kazi ya msingi ikiwa imeshikiliwa bila kubadilika, usahihi wa mfano ulipanda tu kutoka **asilimia 82.4 kwa maneno ya ujuzi mdogo hadi asilimia 83.4 kwa maneno ya kitaalamu**, tofauti ya pointi moja, wakati kuhitaji [[prompt-engineering|ilani bora]] kunaongeza ubaguzi mpya juu ya ule uliopo. Kielekeo kiko katika utunzaji wa upande wa mfumo kwa tofauti za lugha, si katika mafunzo ya ilani ya marekebisho.
 
 **"Zana iliyojengwa kwa madarasa yenye rasilimali nyingi itahudumia mazingira yenye rasilimali chache pindi itakapotafsiriwa."** Muktadha hubadilisha kikwazo cha ubuni. [[suacode-african-students-motivations|SuaCode]] ilifikia wanafunzi katika mazingira ya Afrika yenye rasilimali chache ambapo **chini ya asilimia 1 wana ujuzi wa uandishi wa programu** kwa kujenga kwa simu janja badala ya kompyuta za maabara, ambao ni ubuni tofauti, si toleo dogo la ule ule.
-
-## Dhana Zilizounganishwa
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — tabaka halisi la upatikanaji (manukuu, maandishi ya badala, uendeshaji na teknolojia ya usaidizi)
-- [[assistive-technology]] — tabaka la zana ambazo wanafunzi hutumia kupata maudhui
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## Makala Zilizounganishwa
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: voice-first companion for visually-impaired children
-- [[tactile-statistical-graphs-accessibility]] — Tactile 3D-printed statistical graphs
-- [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language communication
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

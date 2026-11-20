@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -100,35 +102,3 @@ ai_assist:
 **「批判的教育学は、実践の外から差し出される批判である。」** それは教育者の役割に対する構えです。誰が利益を得るのか、誰の知識が特権化されるのか、そして学校教育が権力を再生産するのか、それとも抵抗するのかを問うのです。AIの導入に当てはめれば、それは調達を形づくる企業と資本主義の論理を問い直すことを意味します。教員が抽象的な技術についてだけでなく、自らの所属機関の選択について問いうる問いなのです。
 
 **「周縁化された認識論を中心に置くことは、カリキュラム内容の追加である。」** それは誰の知識が知識として認められるかを変えるのであり、文献を一つ追加することではなく、コースの構造についての問いです。内容の追加は枠組みをそのまま残します。批判的教育学の主張は、その枠組みに向けられているのです。
-
-## 関連する構成概念
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — 傘：AI教育における教授学と教授の戦略
-
-## 関連する記事
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — 人権教育、内省的な実践、専門職としての形成としてのAI統治の教授（Kasa-Mälksoo 2026年）
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 批判的なAIリテラシー教授学としてのマルチモーダルな作文
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 技術解決主義的な生成的AIの建設的整合に関する助言の批判的な言説分析
-- [[benali-genai-academic-writing-2026]] — 学術作文コースにおける正当化を強制する改訂：AIは提案の二つの節に限定され、すべての提案は書面で受け入れまたは拒否された（Benali & Díaz García 2026）
-- [[avraamidou-ai-colonization-science-education]] — 科学教育の「AI植民地化」への批判的・フェミニスト的な批判
-- [[li-mroziak-reorienting-critical-ai-literacy]] — 批判的なAIリテラシーの共同体に根ざした実践としての「AIへの抵抗」
-- [[ojeda-ramirez-community-based-ai-learning]] — 共同体に基づく学習を通じたAIの認識論的な権威の再分配
-- [[raffaghelli-situated-ai-ethics-2026]] — AI倫理のための状況づけられた文化的・歴史的で生態学的な枠組み
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 人文学における解釈的な認知の発達的–批判的モデル
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 社会主義ヒューマニズムのAIリテラシーと公正利用
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 持続可能な教育とAIへの価値批判的なアプローチ（Alsuhami & Atallah 2026年）
-- [[emancipatory-ai-learner-flourishing-2026]] — 学習者の繁栄に向けた生成的AIを設計するための解放的な構想
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Freire、構成主義、そしてケアの倫理に基づく人間中心の生成的AI関与の枠組み
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — グローバル・サウスにおける学術的な発達に応用された批判的デジタル教育学と脱植民地的な認識論

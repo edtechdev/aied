@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -100,39 +102,3 @@ ai_assist:
 - **「リーダーボード上の位置が、チューターの良さを教えてくれる。」** StudentBench は**2,383 人の成人を AI 個別指導、専門家による生の人間の個別指導、動画の各条件に無作為化**し、他のシステムではなく人間のチューターに対してスコア化します。他のモデルに合わせて尺度を整えたベンチマークは、誰も必要としなかった問いに答えるものです。
 - **「模擬的なペルソナは、チューター評価の十分な基盤である。」** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]は評価を**模擬的なペルソナではなく、記録された事例文献**に根づかせ、**923 件の対話**を用います。作り上げられた学生ペルソナは、実際には起こらない事例を通過させてしまいます。
 - **「審査員を確かめずに、ベンチマークを信頼できる。」** 幻覚は**取得されたオープンライセンスのチャンクに対する含意関係としてスコア化され（専門家判断との κ = 0.76）**ました。つまり審査員は、そのスコアが使われる前に専門家に対して検証されていたのです。検証されていない自動審査員は、意味の不明な数値を生みます。
-
-## 関連する概念
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## 関連する記事
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：困難な行動を示す学生に対して LLM チューターを評価する（Park et al. 2026）
-- [[standardized-assessment-llm-english-proficiency-2026]] — モデル能力を較正された水準として報告する624項目の英語熟達度ベンチマーク(Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — 評価の道具は、人間とLLMについて同じものを測るのか(Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Pedagogy Benchmark: LLMの教授法的知識(CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLMベースのインストラクショナルデザインエージェントのベンチマーク
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — オンプレミスのOER AI知識ベースアシスタント: 多次元ベンチマーク
-- [[authentic-products-authenticated-processes-2026]] — 真正な成果物から認証されたプロセスへ: AIが豊富な高等教育における真正な評価
-- [[llm-cognitive-diagnosis-handwritten-math]] — 手書きの数学の答案からの学生の認知的スキル診断に関するLarge Language Modelsのベンチマーク化
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: 模擬学習者を用いた教授的LLMエージェントのための長期ホライズンベンチマーク
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: 生成された数学の図を評価するためのベンチマーク
-- [[eeg-familiarity-automated-assessment-2026]] — 学習者評価の自動化: EEGベースの既知性予測
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 注釈優先・タスク生成的ベンチマーク構成と、12の芸術画像タスクにわたる次元レベルの非冗長性(Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AIと人間のチューリングが同等のGRE学習 gains をもたらす
-- [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援による教育問題の教授的評価に関する事前学習モデルの評価
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — スキル自動抽出のためのAIアプローチの比較：埋め込みから工学教育向けエージェント型システムまで

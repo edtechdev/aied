@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -134,60 +136,3 @@ CogEvolution स्थिर व्यक्तित्व के बजाय 
 - **"LLM छात्र पर्याप्त अच्छे प्रतिनिधि हैं।"** **सिम्युलेशन सबसे आसान छात्रों को ढकते हैं, और कुछ ही वैध हैं**: LLM छात्रों को पढ़ाने वाले **बारह शिक्षकों** ने **अत्यधिक जटिल भाषा, भावना की अनुपस्थिति** और वास्तविक अधिगमकर्ताओं से अन्य विचलन बताए। प्रतिनिधि सुलभ मामले का मॉडल है।
 - **"ज्ञान-अंतराल वाला सिम्युलेटेड छात्र उस अंतराल वाले अधिगमकर्ता जैसा व्यवहार करता है।"** Mistral-7B में **16 लक्षित ज्ञान-घटकों** को दबाने से सटीकता 10% विस्मरण अनुपात पर लगभग 0.75 से गिरकर 40% पर 0.5 से नीचे आ गई, जबकि आधार मॉडल टिका रहा। यह क्षरण अभियांत्रित था, और इसीलिए यह नियंत्रित हेरफेर है, अनुकरण नहीं।
 - **"व्यक्तित्व की स्थिरता मॉडल-चुनाव की समस्या है।"** यह **अंतःक्रिया-डिज़ाइन की समस्या** है: **पाँच LLM, तीन प्रॉम्प्ट डिज़ाइन और चार ADHD-तीव्रता व्यक्तित्वों** को मिलाकर देखने पर लिखित अंतर मॉडल के बजाय प्रॉम्प्ट डिज़ाइन का अनुसरण करते थे। बेहतर मॉडल चुनना अस्थिर व्यक्तित्व को ठीक नहीं करता।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — AI-सहायित शैक्षिक अनुसंधान
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## संबंधित लेख
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: पदानुक्रमित योजना लंबे क्षितिज पर अनुकरणित छात्रों को प्रोफ़ाइल पर बनाए रखती है (Radmehr एवं सहयोगी 2026)
-- [[rudolph-llm-simulated-counselling-clients-2026]] — अनुकरणित परामर्श क्लाइंट तेज़ी से प्रकट करते हैं, इसलिए प्रशिक्षु सुविधाजनक मध्यस्थता छोड़ देते हैं
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — अनुकरण को तृतीय-पुरुष भविष्यवाणी के रूप में: Wasserstein-1 दूरी से वास्तविक क्षमता वितरण के 2.4 से 8.4 गुना निकट
-- [[tutorloop-sensor-cognitive-feedback-2026]] — एक सिम्युलेटर-प्रशिक्षित सुदृढ़ीकरण-सीखने शिक्षक ने ऑफ़लाइन एक नए वास्तविक कार्य में स्थानांतरित किया (Xu और Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — क्या LLM मानव शिक्षार्थियों का अनुकरण कर सकते हैं? शिक्षकों की अंतर्दृष्टि
-- [[llm-student-simulation-misconception-faithfulness]] — छात्रों का अनुकरण या चापलूस समस्या-समाधान?
-- [[llm-educational-simulation-adhd]] — LLM-आधारित शैक्षिक अनुकरण और छात्र व्यक्तित्व स्थिरता
-- [[simulating-students-java-programming-errors-llms]] — छात्रों के Java प्रोग्रामिंग त्रुटियों का अनुकरण
-- [[adaptive-virtual-patient-psychotherapy-training]] — मनोचिकित्सा प्रशिक्षण के लिए अनुकूली आभासी रोगी
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI मानकीकृत रोगी
-- [[simulating-students-diverse-cognitive-levels-2025]] — अपूर्णता को अपनाना: विविध संज्ञानात्मक स्तरों का अनुकरण
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: संश्लेषित संवादों के लिए फ़ाइन-ट्यून किया गया प्रामाणिक छात्र मॉडल
-- [[educasim-cs1-instructional-practice]] — EducaSim: जननात्मक एजेंट शिक्षक अभ्यास के लिए एक CS1 अनुभाग का अनुकरण करते हैं
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — गणित शिक्षक शिक्षा में अभ्यास के शिक्षाशास्त्र में AI का जिम्मेदार एकीकरण
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: छात्रों के संज्ञानात्मक क्रमविकास का अनुकरण करने वाला जननात्मक एजेंट
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — क्या AI विविध छात्र प्रोफ़ाइलों के लिए उचित सहायता दे सकता है? एक बड़े पैमाने का मूल्यांकन
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — सहयोगी समस्या-समाधान संवादों को पुनरुत्पादित करने वाले फ़ाइन-ट्यून किए गए प्रतिभागी-विशिष्ट LLM एजेंट (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: LLM-आधारित छात्र सिम्युलेटर का प्रशिक्षण
-- [[ai-web-agents-lesson-design-2025]] — AI वेब एजेंट: छात्र छोड़ने की भविष्यवाणी और डिज़ाइन आलोचना के लिए छात्रों के वितरण के अनुकरण को हराता एक अकेला वर्णन करने वाला एजेंट
-- [[simulating-learner-task-selection]] — निपटारे सीखने में शिक्षार्थियों की कार्य-चयन रणनीतियों और प्रणाली बाधाओं का अनुकरण (Noh, Chowdhary, Ooge, Aleven और Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — स्थायी कौशल के स्केलेबल मापन की ओर
-- [[agent-based-educational-science-2026]] — एजेंट-आधारित शैक्षिक विज्ञान की ओर: शोध उपकरण के रूप में अनुकरण उपकरण (Zhang, Jiang और Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: अनुकरणित छात्रों और AI सहायकों में गणित प्रदर्शन, विश्वास और चिंता का एक 28,000-रिकॉर्ड ऑडिट
-- [[swim-student-writing-simulation-2026]] — एक छात्र लेखन सिम्युलेटर के लिए प्रॉम्प्टिंग बनाम SFT बनाम पुरस्कार-आधारित प्रशिक्षण
-- [[misconception-acquisition-dynamics-llms-2026]] — किसी सिम्युलेटर में कोई भ्रम कायम रहे, इससे पहले प्रशिक्षण डेटा में क्या होना चाहिए
-- [[llm-distractor-generation-student-reasoning-2026]] — मॉडल गलत छात्र तर्क का अनुकरण कैसे करते हैं, इसका निशान-स्तर विश्लेषण
-- [[llm-simulating-student-scientific-thinking-2026]] — 8,820 पाठ-निहित विज्ञान विचारों के विरुद्ध छह मॉडल: अनुकरणित तर्क छोटे शिक्षार्थियों की परिधि, शब्दावली और निश्चितता से कहाँ अधिक निकलता है
-- [[simulated-students-tutoring-dialogues-2026]] — नौ छात्र-अनुकरण विधियों का सात-मीट्रिक बेंचमार्क, तीन-शिक्षक मानव मूल्यांकन के साथ
-- [[simulating-novice-students-machine-unlearning-2026]] — किसी सिम्युलेटर को स्थिर नौसिखिया ज्ञान स्तर पर रखने का एक तरीका के रूप में मशीन अनलर्निंग, और शिक्षण संवाद के माध्यम से पुनःसीखना
-- [[student-development-agent-risk-free-simulation-2025]] — छात्रों को हस्तक्षेप के संपर्क में लाए बिना एक बहु-एजेंट प्लेटफ़ॉर्म पर छात्रों के पाठ्यक्रम-पश्चात विकासात्मक परिणामों की भविष्यवाणी
-- [[preservice-teachers-noticing-ai-simulations-2026]] — प्री-सर्विस शिक्षकों के बराबर-चिह्न चैटबॉट अनुकरण में ध्यान देने, व्याख्या करने और आकार देने के तीन सप्ताह, और डिज़ाइन उन्हें क्या ध्यान में रखने के लिए मोड़ता है
-- [[beagle-grounded-learner-emulation-2026]] — एक तंत्रु-प्रतीकात्मक सिम्युलेटर जो प्रॉम्प्टिंग के बजाय वास्तुकला द्वारा SRL संरचना लागू करती है, और एक मानव ट्यूरिंग परीक्षण पास करती है
-
-- [[llm-goal-selection-self-directed-learning-2026]] — पाँच फ्रंटियर मॉडलों ने एक ही समाधान का शोषण किया जहाँ 175 मानव प्रतिभागियों ने लक्ष्यों में खोज की

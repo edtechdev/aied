@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -101,60 +103,3 @@ Kural yönlendirmeli - sıra dışı ayrımı, eğitmenin ötesine geçip görev
 - **"İskeleleme sabit düzeyde bir destektir."** **207 konsültasyonun** uzman ek açıklaması, iskeleleme ihtiyacının **güçlü biçimde evreye bağlı olduğunu ve görüşmenin başlarında öğrenci sözcelerinin yaklaşık %16,1'inden yükseldiğini** gösterdi. Tek bir iskele düzeyi, aynı konsültasyonun her iki ucunda da yanlış tahsis edilir.
 - **"Her yapılandırılmış kontrol koşulu, iskeleleme için adil bir karşılaştırmadır."** İskeleleme koşulu, **yapılandırılmış kademeli ifşa kontrolünü** nihai OSCE uyumlu [[summative-assessment|sınavda]] geride bıraktı (**%71,8'e karşı %55,6**); yani kazanım hiçliğe karşı değil, gerçek bir [[pedagogy|pedagojik]] alternatife karşı ölçüldü.
 - **"İskeleleme etkileri geneldir."** Kazanım **16,4 puan yüzdesi (P = 3,30e-4)** idi ve en büyük iyileşme **iletişimde (Hedges' g = -0,79)** görüldü. Etki tek bir sonuçta yoğunlaştı; bu nedenle sonuçlar arası bir ortalama, işe yaradığı yeri olduğundan az, yaramadığı yeri olduğundan çok gösterir.
-
-## Bağlı kavramlar
-- [[pedagogical-patterns]] — Desteğin dizide nereye ait olduğu ve yardımdan önce denemenin neden yük taşıyan kural olduğu
-- [[problem-based-learning]] — PBL, yapısal olmayan soruların çevresinde solan iskeleler gömer
-- [[learning-by-teaching]] — Açıklama yoluyla bilgi inşasını iskelelemek
-- [[sociocultural-learning]] — Vygotsky temeli: YGG ve toplumsal olarak aracılı edilen öğrenme
-- [[cognitive-offloading]] — Asla solmayan iskeleleme aşırı güven yaratır
-- [[feedback]] — İskeleleme, destek solaraken yapılandırıcı geri bildirim sunar
-- [[ai-literacy]] — İskelelemenin öğrenmeyi desteklediği ile yerinden ettiği durumları tanımak
-- [[intelligent-tutoring]] — ITS’ler iskele yoğunluğunu ustalık tahminlerine uyarlar
-- [[socratic-method]] — Doğrudan cevapları saklayan sorgulama
-- [[metacognition]] — Öz izleme ve öz düzenlemeyi inşa eden iskeleler
-- [[adaptive-learning]] — Uyarlanabilir sistemler, öğrenenin YGG’si içinde desteği modüle eder
-- [[learning-design]] — İskeleleme, temel bir öğretim tasarımı stratejisidir
-- [[help-seeking]] — İskeleleme, öğrenenlerin yardım isteğinin ne zaman ve nasıl olduğunu şekillendirir
-- [[teacher-role]] — Öğretmenler iskeleler, sonra yetkinlik arttıkça solar
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[agentic-ai]]
-- [[productive-failure]] — Verimli Başarısızlık
-
-## Bağlı makaleler
-- [[kumar-genai-computing-education-systematic-review-2026]] — Doğrulamayı uygulayan mekanizma olarak iskele geri çekilmesi (VIE çerçevesi)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Klinik Görüşme Eğitimi İçin İskeleleme Odaklı Çok Aracılı Büyük Dil Modeli Sisteminin Değerlendirilmesi
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Video içi bilgi ve duygusal iskeleleme olarak entropi-zamanlı YZ yorumları (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — Yapılandırılmış bir öğrenme müdahalesi olarak yönlendirilmiş LLM istek yazımı
-- [[scaffolding-critical-engagement-genai-minority-students]] — Üretici YZ ile kültürel olarak duyarlı eleştirel katılım iskelelemesi
-- [[rethinking-scaffolding-llm-tutors]] — LLM özel öğretmenlerinde iskeleleme için tasarım kalıpları
-- [[concept-catalyst-engineering-scaffolds]] — Kavramsal değişim için Concept Catalyst iskeleleri
-- [[correct-answer-trap-ai-tutor]] — İpuçlarının ne zaman yardımcı olduğu, ne zaman aşırı güvene teşvik ettiği
-- [[critical-thinking-genai-scaffolding]] — Üretici YZ ile eleştirel düşünmeyi iskelelemek
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge ile iskelelenmiş anlatı taslağı oluşturma
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Yerine Geçmeden İskelelemeye: Kendini Güçlendiren Zarar Döngüsünü Kırmak
-- [[preferred-scaffolding-ai-mathematical-modeling]] — YZ destekli matematiksel modellemede tercih edilen iskeleleme
-- [[agentic-ai-pedagogical-best-practice-2026]] — Etkili YZ için dinamik (solan) iskeleler
-- [[zhang-tutormoments-2026]] — Yardımın Yararsız Olduğu Zaman: YZ özel öğretmenlerini verimli mücadele için değerlendirmek
-- [[kim-ai-productive-failure-adult-2026]] — Verimli Başarısızlık Temelli Öğrenmeyi Destekleyen YZ Sistemleri Tasarlamak
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Verimli Başarısızlık İçin LLM’lerin Pedagojik Yönlendirilmesi
-- [[making-ai-tutoring-productive-mastery-math-2026]] — YZ özel dersini verimli kılmak: ustalık temelli matematik uygulaması
-- [[brcic-effortless-trap-productive-struggle-2026]] — Korumalı ve korumasız YZ: yerleştirme kuralı (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — Uygulamalı kimya'da YZ destekli deneysel tasarım
-- [[scaffolding-systematic-reviews-2026]] — Sistematik Derlemeleri Eşlik ve YZ ile İskelemek (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Öğrenme için tasarımda üretici YZ etkileşimleri sırasında hizmet öncesi öğretmen etkililiği (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Matematik öğretmen eğitiminde pedagojiler uygulamasında YZ: yapılandırılmış prova geri bildirimi derinlemesine soruları artırdı (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Öğretim tasarımı olarak YZ tümleştirmesi: YZ çıktısının eleştirisi atanmalı ve disiplinler arası analiz önce gelir
-- [[ai-literacy-tool-design-programming-education-2026]] — İpucu bütçeli bir YZ Çalışma Koçu: iskelelenmiş ile kısıtlanmamış üretici YZ kullanımı ve kısıtın tek başına neden öğrenme üretmediği (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: bir görevin hangi alt bölgeye ait olduğuna karar vermek olarak yeniden çerçevelenen iskeleleme
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Yapılandırıcı iskeleleme olarak otomatik puanlama: yalnızca hedeflenen açığın ayrıştırılabilir, güvenilir ve duyarlı ölçeklendiği yerde kazanıma dönüşür (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Müzik pratiğinde öğrencinin mevcut sınırını izleyen, hata algılaması önceliklendirme olan kapalı döngü uyarlanabilir iskeleleme (Zhu ve ark. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — İskele biçimi, yalnızca görev değil çocukların gelişimsel kapasitesiyle örtüşmeli (Niu ve ark. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — İskeleler, öğrenciler anlamadıklarını doğrulayamadığından gösterimsel çeviri ve doğrulama talep etmeli (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — Görselleştirmenin tek başına yetersiz olduğu geometride, görsel sezgiden tümdengelimli kanıta köprü kuran istemleyen iskele olarak üretici YZ (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Yönlendirilmiş YZ Özel Öğretmenlerin Öğrenci Çıkmazlarını Nasıl Çözdüğündeki Değişimin İncelenmesi
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — STEM problem çözmede üretici YZ kullanımı için iskele olarak öğrenciyi eğitmek (Huang ve ark. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Kendi hızında bir kursta içerik ve zamansal iskeleleme katmanları, çalışma zamanına göre geç başlama ve başarısızlık oranları
-
-- [[assistance-dilemma-rl-tutoring-2026]] — Yardım ikilemi: ödül ufku problemle biten çok turlu bir RL eğitmenini eğitmek, solmayı eğitimle ortadan kaldırır (Macina, Kapur ve Sachan 2026)

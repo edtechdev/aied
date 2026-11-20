@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -45,12 +46,3 @@ Pengajar, perancang pembelajaran, dan pengembang fakultas dapat mendeskripsikan 
 ## Catatan dan peringatan
 
 Para penulis menyebut Primer sebagai prototipe eksperimental, bukan produk kelas yang sudah teruji. Ini belum dievaluasi sebagai intervensi pembelajaran di kelas, dan belum ada yang meninjaunya untuk FERPA, COPPA, hukum privasi siswa negara bagian, atau kebijakan distrik, sehingga institusi yang menggunakannya bersama siswa bertanggung jawab atas tinjauan itu. Perangkat lunaknya berlisensi MIT dan gratis, tetapi menjalankan simulasi membutuhkan akses model, yang berbiaya. Karena agnostik model dan berjalan pada model lokal atau berbobot terbuka, ini dapat diterapkan di tempat yang aturan privasinya lebih ketat. White paper tentang arsitektur dan prompt tertaut dari halaman proyek. Repositori memiliki 98 bintang dan 16 fork saat diperiksa pada November 2026.
-
-## Konsep terkait
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

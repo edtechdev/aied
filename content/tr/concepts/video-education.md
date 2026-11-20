@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -86,34 +88,3 @@ Etkili YZ videosu üretmek, pedagojik yapı ve insan denetimi gerektirir ve ayr�
 
 - Tercih ve sonuç ölçülerini birlikte bildirin ve bir çalışmanın yalnızca ilkine sahip olduğu durumları açıkça belirtin.
 - Video içeriği ile [[cognitive-psychology|bilişsel işleme]] arasındaki uyumsuzluk sinirsel veride göründüğünden, zamansal hizalanmayı açıkça bildirin.
-
-## Bağlı kavramlar
-
-- [[online-teaching-and-learning]] — çevrimiçi ve karma öğretimin çekirdek aracı olarak video
-- [[generative-ai]] — YZ tarafından üretilen ve kişiselleştirilmiş videonun motoru
-- [[personalized-learning]] — YZ videonun çekiciliğinin itici gücü olarak kişiselleştirme
-- [[adaptive-learning]] — uyarlanabilir video üretimi ve hızlandırma
-- [[multimodal]] — görsel, işitsel ve metinsel kipleri birleştiren video
-- [[learning-analytics]] — video bağlılığı ve dikkati üzerine analitik
-- [[student-engagement]] — video kişiselleştirmesinin artırmayı amaçladığı bağlılık
-- [[pedagogical-agent]] — sanal pedagojik etmenler olarak YZ avatarları/sunucuları
-- [[llm]] — betik ve video üretiminin temelindeki büyük dil modelleri
-- [[trust]] — Öğrenenlerin YZ sunucularına ve içeriğine güveni
-
-## Bağlı makaleler
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: ölçekte, sektöre göre kişiselleştirilmiş MOOC kalitesinde ders videoları üretmek (Puech ve ark. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT tarafından üretilen video içi yorumlar: entropi zamanlaması, insan yorumlarına karşı kalite uçurumları (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Öğrenciler kişiselleştirilmemiş insan kayıtlı derslere kıyasla kişiselleştirilmiş YZ tarafından üretilen videoları tercih eder (Tomlinson ve ark. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Bilişim eğitiminde YZ tarafından üretilen öğretim videosuna ilişkin öğrenci algıları/tercihleri
-- [[ai-video-dual-gatekeeping-2026]] — Pedagojik temelli YZ video yaratımı için çifte eşik denetimi
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: uyarlanabilir pedagojik video üretimi
-- [[engagement-assessment-video]] — Video öğrenmede bağlılık değerlendirmesi
-- [[savvy-student-attention-video-learning]] — Video temelli öğrenme için öğrenci dikkati görselleştirme
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar kimliği, YZ aracılı öğrenmedeki epistemik güveni nasıl şekillendirir
-- [[bilingual-llm-lecture-companion-srl-2026]] — Öz düzenlemeli öğrenme için iki dilli LLM ders eşlikçileri
-- [[adhd-video-segmentation-computing-education]] — Bireysel farklılıklar için zamansal video bölütleme
-- [[ai-psychotherapy-training-avatars]] — Psikoterapi eğitiminde YZ avatarları
-- [[gemini-lualatex-physics-video-transcription-2026]] — Fizik ders videosunu erişilebilir metne dönüştürmek
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Bak oraya! YZ anlatımlı slaytlar için dinamik görsel yönlendirme

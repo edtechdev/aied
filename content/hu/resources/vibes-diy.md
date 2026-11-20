@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,7 +44,3 @@ Ez általános célú építő, nem oktatási termék: hasznos oktatónak vagy d
 ## Megjegyzések és fenntartások
 
 A platformnak van ingyenes szintje, de az kreditalapú: a fiókok havonta 1 000 MI-kreditet kapnak, és az építés, a szerkesztés, a képgenerálás és az alkalmazáson belüli MI-funkciók mind ezt költik. Az előfizetés hozzáadja a további kreditek vásárlásának lehetőségét, amelyek nem járnak le. Minden kurzusnak, amely a platformra kíván támaszkodni, ellenőriznie kell az aktuális feltételeket, mivel az ingyenes használat mért, nem korlátlan, és a diákok által létrehozott alkalmazásokat saját adatkezelési kérdéseket hordozó tartalomként kell kezelnie.
-
-## Kapcsolódó fogalmak
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

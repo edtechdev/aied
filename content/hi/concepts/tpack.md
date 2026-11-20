@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -109,49 +111,3 @@ TPACK ज्ञान आधार के प्रमाण आधार के
 - **"TPACK का प्रभुत्व उसकी व्याख्यात्मक क्षमता दर्शाता है।"** वह प्रभुत्व **आंशिक रूप से एक पुनर्प्राप्ति कलाकृति** है: **195 प्रौद्योगिकी-समर्थित शिक्षक-शिक्षा अध्ययनों** की PRISMA स्कोपिंग समीक्षा में, डिजिटल क्षमता, TPACK और DigComp **सूचीबद्ध साहित्य पर प्रभुत्व रखते हैं**। खोज में प्रचलन क्षेत्र की शब्दावली का गुण है, इस बात का प्रमाण नहीं कि ढाँचा अधिक समझाता है।
 - **"प्रसिद्ध ढाँचा AI के लिए मान्य ढाँचा है।"** TPACK AI-विशिष्ट क्षमताओं के लिए डिज़ाइन नहीं किया गया था, इसीलिए Intelligent-TPACK विकसित हुआ, और वह 78-अध्ययन समीक्षा में केवल **पाँच अध्ययनों** में दिखता है। GenAI क्षमता के लिए TPACK का उपयोग उसे उसके निर्माण से आगे खींचता है।
 - **"ढाँचा लागू करना मतलब शोध सैद्धांतिक है।"** उसी समीक्षा ने पाया कि **76% अध्ययनों ने बिना किसी सैद्धांतिक मानचित्रण के अभ्यास से क्षमताओं का अनुमान लगाया**, इसलिए TPACK की क्षेत्र में उपस्थिति अधिकांश शोध के अ-सैद्धांतिक होने के साथ सह-अस्तित्व रखती है। नामित ढाँचा उस ढाँचे के समान नहीं है जो वास्तव में काम कर रहा हो।
-
-## संबंधित अवधारणाएँ
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## संबंधित लेख
-- [[ai-literacy-tpack-preservice-2026]] — प्री-सर्विस शिक्षक शिक्षा में अनुभूत एआई साक्षरता और TPACK: उपयोगिता, उपयोग-सुगमता और मूल्य के माध्यम से मध्यस्थता (झाओ 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — एआई प्रमाणपत्र कार्यक्रमों के लिए मूल्यांकन संकेतक प्रणाली
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — त्रि-स्तरीय अध्ययन: 'पहले पेडागॉजी, दूसरा प्रौद्योगिकी' — छात्र परिणामों के लिए तकनीकी TAIK से अधिक महत्वपूर्ण TPAIK (शेन एट अल. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — सेवारत शिक्षकों का TPACK-GenAI और पेडागॉजिक ज्ञान की मध्यस्थ भूमिका (मोहेबी और एलसैयारी 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — प्रौद्योगिकी एकीकरण के लिए संकाय मानक (TPACK-संबंधित DBR)
-- [[edurev-100741-tpack-genai-review]] — छात्र अधिगम में जनरेटिव एआई का एकीकरण: TPACK दृष्टिकोण से एक व्यवस्थित समीक्षा
-- [[ai-tpack-teacher-multi-agent-workflow]] — शिक्षक बहु-एजेंट कार्यप्रवाहों के माध्यम से एआई-TPACK का मॉडलिंग
-- [[ai-tpack-preservice-math-teachers]] — प्री-सर्विस गणित शिक्षकों में एआई-TPACK तत्परता
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — पाठ डिज़ाइन में शिक्षक-एआई अंतर्क्रिया: Intelligent-TPACK, अनुभव और दक्षता का अंतर्क्रिया (चोय एट अल. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — गहन GenAI व्यावसायिक विकास और एआई-PCK लाभ
-- [[teacher-ai-teaming-five-levels]] — पाँच-स्तरीय शिक्षक-एआई टीमिंग ढांचा
-- [[teacher-ai-adoption-confidence]] — शिक्षक आत्मविश्वास और एआई अपनाना
-- [[teacher-education-ai-literacy-sdt-2026]] — स्व-निर्धारण सिद्धांत के माध्यम से एआई साक्षरता के लिए शिक्षक शिक्षा
-- [[genai-literacy-training-teacher-education-dbr-2026]] — डिज़ाइन-आधारित शोध GenAI साक्षरता प्रशिक्षण
-- [[rail-ed-genai-literacy-teacher-education]] — शिक्षक शिक्षा में GenAI साक्षरता पर पुनर्विचार
-- [[sec-ai-literacy-narrative-review-2026]] — सामाजिक-भावनात्मक सक्षमताएँ और एआई साक्षरता
-- [[genai-runaway-object-math-higher-ed]] — उच्च शिक्षा में GenAI और गणित
-- [[ai-changing-teaching-workflows]] — एआई पढ़ाने के कार्यप्रवाहों को कैसे बदल रहा है
-- [[sutedjo-faculty-genai-tpack-21-2026]] — उच्च शिक्षा में GenAI के लिए संकाय का स्व-अनुभूत TPACK-21 ज्ञान (सुतेडजो, चौधरी और लिउ 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — एक नए एआई-TPACK ढांचे की ओर: तकनीकी एआई ज्ञान के एकीकृत मध्यस्थ के रूप में नैतिकता (चेन एट अल. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186 दक्षिण अफ्रीकी विज्ञान छात्र-शिक्षकों की तुलनात्मक सर्वेक्षण: स्व-रिपोर्ट TPACK में परिसर का लाभ, और दूरस्थ संस्थान में एआई प्रशिक्षण का कमजोर रिपोर्ट TPACK से संबंध
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — एआई-TPACK और विज्ञान शिक्षण आत्मविश्वास क्रमिक रूप से एआई साक्षरता के खोज-एकीकरण इरादे पर प्रभाव का मध्यस्थता करते हैं (ज़ौ एट अल. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — विश्वविद्यालय शिक्षकों के लिए Intelligent-TPACK व्यावसायिक विकास: आयाम-विशिष्ट लाभ, स्व-अनुभूत संलग्नता पर उपस्थिति — एआई-समर्थित CTD-PBL मॉड्यूल और प्री-सर्विस भौतिकी शिक्षकों का TPACK तथा सहयोगात्मक समस्या समाधान (चेन और उस्मान 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — डिज़ाइन शिक्षा में मानव-एआई सहयोग का आकलन: एक विस्तारित एआई-TPACK ढांचे पर आधारित प्रक्रिया-उन्मुख रूब्रिक
-- [[capability-decision-model-teacher-readiness-2026]] — शिक्षक एआई तत्परता का क्रमबद्ध क्षमता-प्रथम मॉडल और उसकी संरचना-अतिव्याप्ति चेतावनी
-- [[digital-competence-ai-responsive-pedagogy-2026]] — स्कोपिंग समीक्षा चेतावनी कि सक्षमता-ढांचे की प्रधानता आंशिक रूप से खोज वर्णकों को दर्शाती है, न कि क्षेत्र की प्रचलनता को
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — एकीकृत TPACK की भूमिका प्री-सर्विस शिक्षकों को सशक्त बनाने और पढ़ाने में जनरेटिव एआई के प्रति उनकी अभिवृत्ति को आकार देने में

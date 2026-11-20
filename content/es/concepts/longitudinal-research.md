@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, rct, design-based-research, learning-analytics, self-report-measures, limitations-in-aied-research, interpreting-and-applying-aied-research, developmental-psychology, self-regulated-learning, student-engagement]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, song-genai-learning-partner-srl-over-time-2026, melanou-genai-learning-dynamics-longitudinal-2026, ai-lms-middle-school-longitudinal]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -114,28 +116,3 @@ Los diseños longitudinales se sitúan dentro de la [[quantitative-research|inve
 - **«Una muestra grande arregla una ventana corta.»** El tamaño de la muestra aborda la precisión, no el tiempo que necesita un proceso evolutivo o institucional para desplegarse.
 - **«El mismo programa significa las mismas personas.»** Los cortes transversales repetidos siguen a una población, no a individuos; los dos respaldan afirmaciones distintas.
 - **«Las tendencias de autoinforme son tendencias de actitud.»** El uso declarado y la postura declarada cambian con las normas y con el instrumento, además de con la conducta.
-
-## Conceptos conectados
-
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[rct]]
-- [[design-based-research]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[limitations-in-aied-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[developmental-psychology]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-
-## Artículos conectados
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Un panel de tres oleadas que separa el rasgo del estado (Xu)
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — Modelo de crecimiento de cinco oleadas sobre implicación, flow e inteligencia emocional
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Cuatro semestres de uso de IA generativa y percepciones éticas en la formación docente
-- [[song-genai-learning-partner-srl-over-time-2026]] — Estudio de autorregulación de un semestre que muestra un descenso bajo la presión de la evaluación
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Cuasiexperimento longitudinal de nueve semanas en tres condiciones de IA
-- [[ai-lms-middle-school-longitudinal]] — Propuesta de LMS integrado con IA para secundaria (diseño, no un estudio longitudinal)

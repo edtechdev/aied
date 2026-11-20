@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -99,30 +101,3 @@ ai_assist:
 
 - أبلغ عن شرط البرمجة بالتفكير السريع (خالصة مقابل مرئية الشيفرة) إلى جانب النتائج، واستخدم مهامًا موجَّهة لواجهات رسومية ومُدقَّقة من خبراء بدل النجاح [[self-report-measures|المبلَّغ ذاتيًا]]، لتكون النتائج قابلة للمقارنة بين الدراسات.
 - قِس تنوع الأثر لا عدد الآثار أو عدد البانين فحسب، إذا كان يُختبر جدال الوصول.
-
-## المفاهيم المتصلة
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## المقالات المتصلة
-
-- [[vibe-coding-writing-cs-achievement-2026]] — التحصيل في علوم الحاسوب ومهارات الكتابة تتنبّأ بكفاءة الترميز الحدسي (دراسة تجريبية في CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — بنى الترميز الحدسي محاكاتين هندسيتين في ساعات؛ وتشخيص خطأ بروتوكول ظلّ محتاجًا للمعلّم
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
-- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — المقاولة الداخلية بالذكاء الاصطناعي: أعضاء هيئة التدريس يبنون أدواتهم، والمُمكِّنات التنظيمية التي تقرّر عمّا إذا كانت النزعة ستبقى (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

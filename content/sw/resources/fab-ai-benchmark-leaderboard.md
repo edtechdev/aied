@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -40,9 +41,3 @@ Watunga sera na timu za ununuzi zinazochagua modeli kwa mifumo ya kitaifa, wataf
 ## Vidokezo na tahadhari
 
 Ubao wa alama hupima modeli kwenye kazi za benchmark yenyewe: alama ya juu ya ufundishaji ni ushahidi kuhusu vipengele hivyo, si kuhusu darasa. Safu wima ya bei huchanganya bei za tokeni za ingizo na pato kwa uwiano wa 3:1, ambayo ni chaguo la uundaji na si kile ambacho usambazaji fulani utagharimu. Ufunikaji wa lugha na wa modeli zinazohifadhiwa kwenye mifumo ya ndani hubadilika modeli mpya zinapojitokeza, na alama za chini za modeli ndogo zinaonyesha kwa sehemu muundo wa kazi sawa na uwezo. Uwasilishaji wa Fab AI ni dhahiri kuhusu nchi zenye kipato cha chini na cha kati, kwa hivyo seti ya vipengele vya benchmark inaonyesha muktadha huo na haipaswi kusomwa kama upangaji wa jumla wa elimu. Angalia tarehe za kutolewa: baadhi ya maingizo ni ya kabla ya kizazi cha sasa cha modeli.
-
-## Dhana Zilizounganishwa
-
-- [[benchmark]] — kundi pana zaidi la vyombo ambalo chombo hiki huangukia
-- [[digital-divide]] — kikwazo ambacho safu wima za bei na uzito huria zipo ili kukifanya kionekane
-- [[equity-in-ai-education]] — swali la sera ambalo ubao wa alama hutoa taarifa kwake

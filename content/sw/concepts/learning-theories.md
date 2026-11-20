@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -51,7 +53,6 @@ Hifadhi ya maarifa inarekodi familia kadhaa za nadharia za kujifunza, kila moja 
 Nadharia za kujifunza hatimaye huthminiwa na matokeo yake, na dhana ya [[learning-gains]] ya hifadhi ya maarifa ni mahali nadharia inapokutana na ushahidi. Kila nadharia inatoa utabiri tofauti kuhusu kile kinacho *hesabika* kama kujifunza na jinsi ya kupima: behaviorism inatabiri manufaa ya utendaji yanayoweza kuonekana katika kazi za zoezi-na-maoni; constructivism inatabiri uelewa wa kina unaohamishika kwa matatizo mapya; nadharia ya kijamii-kitamaduni inatabiri manufaa katika ushiriki na [[problem-solving|utatuzi wa matatizo]] uliowakilishwa; na nadharia ya mzigo wa kiakili inatabiri manufaa tu wakati mafunzo yanaheshimu mipaka ya kumbukumbu ya kazi. Uchaguzi wa kipimo, basi, huamua ni utabiri wa nadharia ipi ambao tathmini inaweza kuthibitisha. Katika enzi ya AI, tofauti kali kati ya utendaji unaosaidiwa na AI na [[learning-gains|manufaa ya kujifunza]] yasiyosaidiwa (angalia [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) inaweza kusomwa kupitia lenzi hii: usomaji wa behaviorism unaona alama za juu za kazi za nyumbani kama mafanikio, huku usomaji wa constructivist, wenye mwelekeo wa uelewa endelevu, ukiona ushahidi ule ule kama kushindwa kujifunza.
 
 **Ushahidi uliokusanywa ni chanya, na hupima dhana nyembamba zaidi kuliko nadharia zinavyofanya.** [[meta-analysis-systematic-review|Meta-analysis]] ya PRISMA ya masudio 53 inaweka msaada wa GenAI kwa g = 0.40 kwenye mafanikio ya kitaaluma, 0.72 kwenye [[critical-thinking|ufikiri wa kiwango cha juu]], 0.76 kwenye uandishi na 0.81 kwenye motisha, huku maoni ya GenAI yakiwa utaratibu mkubwa zaidi kwa g = 1.27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Haya ni mafanikio kwenye vyombo ambavyo masudio yaliyojumuishwa yalichagua, hivyo yanatatua usomaji wa behaviorism au cognitivism wa "inafanya kazi" na kuacha utabiri wa constructivist kuhusu uelewa endelevu unaoweza kuhamishwa bila kupimwa. Vikundi vya nchi pia vilitofautiana, kutoka g = 0.71 ya China hadi g = 0.01 isiyo na umuhimu ya Uturuki, hivyo kadirio lililokusanywa ni wastani wa kupimwa kienyeji badala ya sifa ya zana.
-
 
 ### Kwa nini nadharia za kujifunza zinafaa kwa Akili Bandia katika elimu
 
@@ -114,51 +115,3 @@ Pamoja na familia za kiklasiki, hifadhi ya maarifa inarekodi nadharia zilizoandi
 **Kwa watafiti**
 
 - Buni kwa ajili ya uamuzi kati ya nadharia badala ya mkusanyiko wa miundo. Ukomavu unaonekana kama utabiri pinzani uliotatuliwa, si kama ukuaji wa msamiati.
-
-## Dhana Zilizounganishwa
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Jiji: mbinu za kufundisha na mikakati ya kufundisha katika elimu ya AI
-
-## Makala Zilizounganishwa
-
-- [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kiwango cha kati kwa mwingiliano wa binadamu-AI, na mienendo manne na mausia sita yanayoweza kupimwa (Yan na Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Uundaji mbaya wa kupita kiasi: ustadi unaobadilika unaweza kusimamisha mazoezi kabla ya wanafunzi kujua lini kuzuia kitendo (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — Uchunguzi na Udhibiti Unaongezwa na AI katika Mifumo ya Mseto (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Inaweka AI kama mshirika wa kiakili katika ushirikiano wa binadamu-AI; mfumo wa maendeleo katika muda wote wa maisha
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: mfumo wa falsafa unaundaa upya kufikiri kama mwingiliano wa binadamu–AI
-- [[self-directed-growth-generative-ai-learning-analytics]] — Ukuaji wa Kujielekea na mfano wa A2PL unaopanua kujifunza kwa kujielekea na GenAI
-- [[generativism-learning-theory]] — Inapendekeza nadharia mpya ya kujifunza kwa enzi ya generative AI, ikirudia kiklasiki nne
-- [[ai-vocational-education-training-review]] — Ilirekodi pengo la nadharia-mazoezi ya constructivism/behaviorism katika AI kwa VET
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis ya PRISMA ya masudio 53: faida zilizokusanywa kwenye mafanikio, ufikiri, uandishi na motisha, huku maoni yakiwa utaratibu mkubwa zaidi (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI kama Wakala wa Kuwakilisha
-- [[kim-ai-productive-failure-adult-2026]] — Kubuni Mifumo ya AI Kwa Kutegeleza Kujifunza Kulingana na Kushindwa Kwa Tija
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Uendeshaji wa Kieledu wa LLM kwa Kushindwa Kwa Tija
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT kwa Kujifunza Lugha kwa Uhuru
-- [[rachatasumrit-example-problem-ratio-2026]]

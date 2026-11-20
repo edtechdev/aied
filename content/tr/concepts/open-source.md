@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -85,48 +87,3 @@ Sözcüğün kendisi daha kaynağında tartışmalıdır. [[deimann-rethinking-o
 **“Kapalı öncü modeller yalnızca daha iyidir, dolayısıyla açık alternatifler bir geri dönüş yoludur.”** Boşluk, bu varsayımın ima ettiğinden dardır. 97 modeli kapsayan [[cdpk-pedagogy-benchmark-llms|Pedagoji Kıyaslama Ölçütü]]'nde (CDPK + SEND, gerçek Şili öğretmen sınavı maddelerinden kurulmuş), açık ağırlıklı **DeepSeek R1 %86,65'e ulaşmıştır**; ilk 10'un çoğunu ise kapalı akıl yürütme modelleri oluşturmuştur ve maliyet–doğruluk karşılaştırması açık yönde daha da ileri gitmektedir. Dolayısıyla açıklık için geriye kalan sav, bir yetenek fedakârlığı değil, denetim ve denetlenebilirlikle ilgilidir.
 
 **“Ağırlıkları yayımlamak, işi yayımlamaktır.”** Daha güçlü açık katkılar hattın tamamını yayımlar. OmniEdu, yalnızca nihai ağırlıklar yerine 69.999 örnekli bir karışım üzerinde yetenek dengesine dayalı denetimi yayımlar ve açık bir 4B/9B/27B K–12 ailesinin her ölçeğini yükseltir; ayarlanmış 4B model, MathTutorBench [[scaffolding|iskeleleme]] performansında **55 puan** kazanmıştır; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] de benzer biçimde 440 çıkarılmış zor olumsuz örnek ve 40.000 üretilmiş yanıt dâhil olmak üzere pekiştirmeli öğrenme ve ince ayar yordamını belgeler. Tarif olmadan ağırlıklar, yöntemi yeniden üretmeden bir sonucu yeniden üretir.
-
-## Bağlı kavramlar
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## Bağlı makaleler
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Tüketici donanımında yerinde OER YZ bilgi tabanı yardımcısı (Shen ve diğerleri 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — CC BY OpenStax içerik kütüphanesine sahip MIT lisanslı uyarlanabilir öğretmen (Pardos ve diğerleri 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Çok daha büyük tescilli sistemleri geride bırakan açık 32B pedagojik model (Singh ve diğerleri 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Tak-çalıştır türünden FERPA uyumlu yerel LLM otomatik notlandırıcısı
-- [[programming-its]] — Bir Python ITS’inde GDPR/AB YZ Yasası uyumu için kendi barındırdığı açık ağırlıklı LLM
-- [[aiawe-automated-writing-evaluation]] — Otomatik yazma değerlendirmesi için LoRA ile uyarlanmış açık ağırlıklı model
-- [[stanbkt-bayesian-knowledge-tracing]] — Tam Bayesyen bilgi izleme için açık Python paketi
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Öğrenen belleçli tamamen açık kaynaklı ajan temelli öğretmen çerçevesi
-- [[vismatic-secure-sandbox-cs-education]] — Sürece yönelik değerlendirme için açık kapsayıcılı korumalı alanı
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Açık kod tabanlı duygu farkında matematik öğretmeni
-- [[cdpk-pedagogy-benchmark-llms]] — 97 model boyunca açık pedagoji kıyaslama ölçütü ve maliyet–doğruluk ön sınırı
-- [[astra-multi-agent-tutoring-benchmark-2026]] — İz temelli çok ajanlı öğretmenlik değerlendirmesi için açık veri kümesi ve prototip
-- [[mllm-scientific-visualization-literacy]] — Görselleştirme okuryazarlığında insan taban çizgisinin altındaki açık modeller
-- [[iks-instruct-dataset-indian-knowledge]] — Kültürel olarak temellendirilmiş öğretim için açık çok dilli veri kümesi
-- [[aied-carbon-footprint-reporting]] — LLM çevresel maliyetini raporlamaya yönelik açık kaynaklı yöntem
-- [[egai-power-systems-education]] — Mühendislik YZ için açık çalıştırılabilir modül kütüphanesi
-- [[mooc-to-maic]] — LLM güdümlü kurs üretimi ve kurs üretimi ekonominin değişimi
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Öğrenme ve Öğretim için Açık Temel Modeller

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,12 +48,3 @@ K-12-ben vagy felsőoktatásban szoros olvasást, dokumentumelemzést vagy médi
 ## Megjegyzések és fenntartások
 
 A fiókok ingyenesek, a dokumentumok lehetnek nyilvánosak vagy meghívott csoporttal megosztottak. Az MI-partnerek OpenAI nagy nyelvi modelleken futnak, így a kijelölt részek és kérdések elhagyják a platform saját hosztolását, és az adott szolgáltató feltételei vonatkoznak rájuk – egy tankerületnek el kell olvasnia az adatfeldolgozási megállapodást, mielőtt kiskorúakkal használja. A kimenetet egy tokenlimit korlátozza, amelyet az oldal szerint még bővítenek, a partnerkönyvtár bejelentkezés mögött van, és az MI-felületek a termék gyorsan mozgó részei: az itt leírt képességeket a 2026. novemberi állapotnak tekintsd, nem végleges funkciókészletnek.
-
-## Kapcsolódó fogalmak
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

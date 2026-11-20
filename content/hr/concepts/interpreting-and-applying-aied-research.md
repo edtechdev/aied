@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
+connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -156,41 +158,3 @@ Gornje provjere nisu narodna mudrost; proizlaze iz dokumentiranih neuspjeha u ov
 **„Više ocjene tijekom upotrebe alata znače da je alat više naučio.“** U jednoj studiji matematike u [[k-12|K-12]] obrazovanju studenti koji su vježbali s [[conversational-ai|chatbotom]] opće namjene dobili su bolje ocjene iz vježbe, a zatim su postigli **oko 17 % lošiji rezultat** na procjeni bez pomoći. Izvedba iz vježbe mjerena uz prisutnost alata napuhana je mjera; ona bez pomoći je ishod, a rasla je samo jedna od njih.
 
 **„Ako je učinak stvaran, pojedinosti provedbe ne igraju veliku ulogu.“** One *jesu* učinak. Studija koja je pratila 30 studenata na jednom kolegiju u jednoj ustanovi, na verziji alata koju danas nitko ne upotrebljava, proizvela je nalaz o konfiguraciji koja više ne postoji. Specificiranje tretmana, verzija i okruženje dio su tvrdnje, a ne kontekst oko nje.
-
-## Povezani koncepti
-
-- [[limitations-in-aied-research]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[differential-effects-across-learner-groups]]
-- [[research-methods-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[meta-analysis-systematic-review]]
-- [[quantitative-research]]
-- [[benchmark]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ai-use-disclosure]]
-- [[theory-development-aied]]
-
-## Povezani članci
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — UI učinci ispravljeni za pristranost objavljivanja iznose oko trećine prijavljene veličine
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kriteriji uključivanja kao prag rigoroznosti i heterogenost koja se mijenja s modelom
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Kada pouzdanost automatiziranog ocjenjivanja dosegne mjerni plafon zadatka
-- [[verification-quality-reliance-calibration-genai-2026]] — Što literatura o verifikaciji i oslanjanju ne mjeri
-- [[citation-errors-hallucinations-computing-education-2026]] — Izmišljene reference koje su dospjele u tisak 2025.–2026.
-- [[stanford-evidence-base-ai-k12-2026]] — Dobici u vježbi, gubici na ispitu: problem uklanjanja pomoći u K-12 matematici
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Učinci na podskupine čiji intervali pouzdanosti prelaze nulu
-- [[chick-faculty-development-ethical-ai-2026]] — Uvjeti koji omogućuju provedbu: signali politike, osobne pretplate, nedostatak vremena
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Metrike dobavljača s otkrivenom kalibracijom i brojem eksperimenata
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Nalazi vezani uz verzije modela i previranje u području
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Brojevi neovisnih dokaza za 16 UI proizvoda namijenjenih studentima koji su već u upotrebi
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Pregled može kvantificirati iskrivljenje izvješćivanja u vlastitom korpusu

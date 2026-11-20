@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
@@ -81,51 +83,3 @@ Etkin öğrenme, YZ çağında [[learning-gains|öğrenme kazanımları]] üzeri
 - **“YZ destekli sorgulama otomatik olarak üst düzeydir.”** **120 sekizinci sınıf öğrencisiyle** yapılan yarı deneysel bir çalışma, YZ destekli [[inquiry-based-learning|sorgulamaya dayalı öğrenmenin]] yaratıcı matematik performansını **ve** daha dar bir ölçütü yükselttiğini bulmuştur; muamele bazı çıktıları hareket ettirmiş, diğerlerini değil. Üst düzey etiketiyle korelasyon, üst düzey bir görevle aynı şey değildir.
 - **“Öğretimi öğrencilerin tasarlaması teknik bir alıştırmadır.”** Tersine çevirme çalışmasında, 700 öğrencili bir dersteki **345 öğrenci**, her biri bir akrana üç tasarım desenini öğretecek bir konuşma aracısı tasarlamıştır. Etkin öğrenme, istek metni mühendisliği değil [[pedagogy|pedagojik]] akıl yürütme olan tasarım işinden gelmiştir.
 - **“Etkileşim bulguları, öğrenme bulgularıdır.”** Aynı kanıt tabanı, **kontrol grubu olmayan, gönüllü örneklemli** bir tasarımın yalnızca etkileşim iddialarını desteklediği konusunda uyarır. Öğrenciler açık uçlu tasarım özgürlüğüne değer vermiş (**%22,3** en üst olumlu tema) ve en çok belirsiz yönergelerden yakınmıştır (**%23,7**); ikisi de deneyime ilişkindir.
-
-## Bağlı kavramlar
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Şemsiye: Eğitimde YZ pedagojileri ve öğretim stratejileri
-
-## Bağlı makaleler
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — YZ öğretimi sınıf içi etkin öğrenmeyi geride bırakıyor: otantik bir eğitim ortamında yeni bir araştırma temelli tasarım sunan bir RCT (Kestin ve ark. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Ekonomi için etkin öğrenmeli GenAI çerçevesi (Beck ve Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — YZ etkileşim yöntemlerinin EEG çalışması (etkileşimli > otomatik)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: çok etkenli simülasyon yoluyla görsel keşif öğrenme
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: aşamalı konuşmalı ders sonrası tekrar
-- [[academic-league-of-ai-2026]] — YZ Akademik Ligi: proje temelli etkin öğrenme
-- [[mujib-ai-ibl-creative-math-2026]] — YZ destekli SÖ ve yaratıcı matematik performansı
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × TTS diyalog biçimi etkileşimleri
-- [[instructional-guidance-genai-learning]] — İstek metinli ve istek metinsiz YZ incelemesi: açık uçlu puanları model erişimi değil, yapı değiştirdi
-- [[assigned-ai-preclass-student-engagement-2026]] — Ders öncesi YZ provası, sınıf içi katılımı ilk kullanımdan değil, ikinci kullanımdan sonra 31% artırdı

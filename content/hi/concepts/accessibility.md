@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -82,41 +84,3 @@ ai_assist:
 - **"सुगम्यता का अर्थ सुविधा देना है।"** न्यूरोडिवर्जेंट छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों के **40 अध्ययनों** की एक स्कोपिंग समीक्षा ने पाया कि **28 ने भागीदारी की शर्त के रूप में औपचारिक नैदानिक अनिवार्य बनाया**। यह नैदानिक-द्वार वाला मॉडल है, और यह उन प्रत्येक शिक्षार्थी को बाहर कर देता है जिसकी आवश्यकताएँ हैं परंतु कोई लेबल नहीं, जो सार्वभौमिक डिज़ाइन का उलटा है।
 - **"मध्यम प्रभाव प्रश्न को निपटा देते हैं।"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] **29 अध्ययनों** का मेटा-विश्लेषण करते हैं और एक मध्यम सकारात्मक प्रभाव पाते हैं, जो वास्तविक है और यह भी कहता है कि कौन-सा उपकरण किस आवश्यकता के लिए है, इस पर कुछ नहीं। विषम हस्तक्षेपों का औसत कोई सिफ़ारिश नहीं है।
 - **"गति और तात्कालिकता सुविधाएँ हैं।"** तीन फ़िलिस्तीनी विश्वविद्यालयों के **21 दृश्य बाधित स्नातक छात्रों** के एक गुणात्मक केस अध्ययन में शिक्षार्थियों ने तात्कालिकता को **सुविधा के बजाय एक आधारभूत सुगम्यता आवश्यकता** के रूप में प्रस्तुत किया। जो बाहर से छोटी-मोटी सुविधा लगती है, वह भागीदारी की पूर्वशर्त है।
-
-## संबंधित अवधारणाएँ
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — शिक्षार्थी विविधताओं में शिक्षा डिज़ाइन करने का व्यापक छत्र
-- [[special-education]] — नैदानिक विकलांगताओं वाले शिक्षार्थियों के लिए शैक्षणिक क्षेत्र
-- [[universal-design-for-learning]] — सक्रिय डिज़ाइन ढाँचा
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — हेडसेट, गति-मतली और उपकरण पहुँच तय करते हैं कि कौन इसका उपयोग कर सकता है
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — अति-व्यापक नियमों, दोषपूर्ण प्रमाण और उचित समायोजन के लिए छत्र पृष्ठ
-- [[arts-and-media-education]]
-
-## संबंधित लेख
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 elite विश्वविद्यालयों में से 0% एक एआई-सुगम्यता नीति प्रकाशित करते हैं जबकि 93% एआई कैंपस सेवाएँ तैनात करते हैं
-- [[shin-ai-policies-sld-2026]] — विशिष्ट शिक्षण विकलांगताओं वाले छात्रों के लिए एआई नीतियाँ और सुविधाएँ
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — विकलांग छात्रों के लिए एआई हस्तक्षेपों का मेटा-विश्लेषण
-- [[adhd-video-segmentation-computing-education]] — निश्चित विरामों के साथ एआई-विभाजित वीडियो
-- [[text-simplification-its]] — बुद्धिमान ट्यूटरिंग के लिए एलएलएम-आधारित पाठ सरलीकरण
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — बहरे/कम-श्रवण वाले शिक्षार्थियों के लिए एलएलएम प्रश्न निर्माण
-- [[kutti-ai-voice-first-learning-companion]] — दृश्य बाधित बच्चों के लिए ध्वनि-प्रथम साथी
-- [[tactile-statistical-graphs-accessibility]] — स्पर्शजन्य थ्री-डी-मुद्रित सांख्यिकीय ग्राफ़
-- [[pepper-robot-sign-language-lis-2025]] — सांकेतिक भाषा का समर्थन करने वाला पेपर रोबोट
-- [[genai-minoritized-knowledges-disability]] — एआई और विकलांगता-केंद्रित ज्ञान पर आलोचनात्मक दृष्टिकोण
-- [[gemini-lualatex-physics-video-transcription-2026]] — जेमिनी+लुआलाटेक्स गणित-सुगम भौतिकी वीडियो प्रतिलिपिकरण
-- [[khlaif-assistive-genai-visually-impaired-2026]] — दृश्य बाधित शिक्षार्थियों के लिए सहायक जनरेटिव एआई
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव एआई, वर्चुअल रियलिटी और उससे आगे: उच्च शिक्षा में न्यूरोडिवर्जेंट छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों की स्कोपिंग समीक्षा
-- [[wright-transcription-not-generation-2026]] — प्रतिलिपिकरण निर्माण नहीं है: अति-व्यापक एआई निषेध और उनके द्वारा पकड़े गए सहायक उपकरण
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

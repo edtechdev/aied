@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -141,55 +143,3 @@ ai_assist:
 - **「集団のラベルは、重要な変動を捉えている」** **集団のラベルはその内部の変動を隠します。** 障害のメタ分析では、**特定の学習障害、知的・発達障害**、その他のカテゴリーの学生が一つにまとめられており、集団の平均はそのどれも記述していません。
 - **「サブグループ分析は、差別的な効果という問いに答える」** それらは通常、**答えるには小さすぎます**。[[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学のマイクロ RCT]]は、その**処置**の対比が全体の効果のために検出力を持ち、サブグループの差のためではないことを、異例なほど明示しています。検出力の不足したサブグループの発見は結果ではなく仮説です。
 - **「中程度のプールされた効果は、ある集団が利益を得るかどうかを教える」** [[zhang-ai-students-disabilities-meta-analysis-2024|29 件の（準）実験研究]]が障害のカテゴリーにわたって**Hedges' g = 0.588（95% CI [0.349, 0.826]）** にプールされました。区間はそれらのカテゴリーにわたる平均を記述しており、「どの集団に、どのニーズか」は別の分析です。
-
-## 関連概念
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## 関連論文
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities: g = 0.588, and g = 0.269 after bias adjustment
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPTは学際的な学習においてSTEMの学生と非STEMの学生に不均等に利益をもたらした
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数エスニシティの留学生における生成的AIの利用と四つの流れからなる関与
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 records to 40 studies, 15 of them generative AI
-- [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent students on structure, ambiguity, and collaboration
-- [[genai-minoritized-knowledges-disability]] — Epistemic marginalization in AI, with disability as the case
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 with I² = 84.4% in a small L2 evidence base
-- [[structural-silence-underrepresented-language-ai-2026]] — Bengali's under 0.5% of web content against English's 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detectors misclassify EFL writing while scoring professional texts perfectly
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — A 195-student test of female-coded role models with no gender difference
-- [[gender-bias-transfer-llm-writing]] — Gender-biased prompts transferring into student essays
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Single-gender space valued, with a warning against girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Tutor fairness varying by model, domain, and behavior dimension
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotype-aligned feedback on identical essays
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 calls: explicit personas and implicit histories both move models
-- [[student-attention-estimation-fairness-2026]] — Fairness regularization that did not generalize
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 students: digital literacy, not AI use, mediates the gap
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Rural participation that never recovered, and mentorship as the constraint
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — A subgroup interaction whose confidence interval crosses zero
-- [[student-ai-inquiry-types-cs2-2026]] — The only first-generation usage finding
-- [[international-students-conversational-ai-adaptation]] — The only international-student study
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — The first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 直接的なプロセスの証拠を持つ知識ベースのグループ化変数：事前知識でマッチした群でも、前概念の多様性によって同じAIの受け取り方が異なった（Wang et al. 2026）
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22のプロンプト付き採点者は正解の知られているプローブに直面し、そのほとんどは言いくるめられる（Porcaro 2026）
-- [[porcaro-ai-grader-reliability-2026]] — 学習者の文脈が同一の仕事に対するLLM採点者の評点を変え、教師との一致はそれを登録しない（Porcaro 2026, Paper VI）
-
-- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty

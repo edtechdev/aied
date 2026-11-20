@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,26 +71,3 @@ Riset kegunaan berbagi metode pengumpulan data dengan [[qualitative-research|ris
 **"Siswa yang meninggalkan sebuah alat kurang motivasi."** Meninggalkan alat sering merupakan pembacaan yang benar oleh pengguna atas biaya interaksi yang tidak pernah diukur perancangnya. Karena alat yang tidak digunakan siapa pun tidak dapat berefek, tingkat peninggalan itu sendiri adalah luaran pendidikan.
 
 **"Uji kegunaan sama dengan mengukur belajar."** Keduanya menjawab pertanyaan yang berbeda dan tidak saling menggantikan; mode kegagalannya adalah memperlakukan salah satunya sebagai cukup untuk adopsi.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Artikel terkait
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Studi kegunaan atas robot humanoid pendongeng bertenaga LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: kegunaan aplikasi AI generatif
-- [[supplynet-visual-exploratory-learning]] — Studi pengguna SupplyNet
-- [[anvil-ai-educational-animations]] — Kegunaan animasi pendidikan yang dihasilkan AI
-- [[code-anchor-multi-view-visualization]] — Studi think-aloud atas visualisasi kode multi-tampilan
-- [[learn-framework-responsible-genai-pbl-2026]] — Kerangka LEARN dan evaluasi think-aloud
-- [[feedback-futures-genai]] — Bagaimana pembelajar memproses umpan balik yang dihasilkan AI
-- [[llm-chatbots-cs-multiple-choice]] — Chatbot LLM untuk pertanyaan pilihan ganda CS
-- [[conversational-ai-agents-umbrella-review-2026]] — Tinjauan payung atas agen AI konversasional

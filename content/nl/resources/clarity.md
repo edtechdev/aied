@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -39,6 +40,3 @@ De editor in de browser draait lokaal in de pagina en uploadt geen schets. Hij r
 ## Wat u moet weten voordat u het gebruikt
 
 De repository publiceert een evaluatieprotocol, voor-en-na-voorbeelden in `samples/`, en referentiebestanden achter de skill, zodat een beoordelaar kan nagaan hoe de regels zich gedragen in plaats van een bewering op vertrouwen aan te nemen; de pagina hier herhaalt geen enkel gemeten resultaat. De auteur is Addy Osmani, de licentie is MIT, en het werk is onafhankelijk en geen product van een instelling. Het is jong en actief: gemaakt in augustus 2026, 54 commits, drie releases met de laatste op versie 0.2.1 in die september, en ongeveer 250 sterren bij controle in september 2026. Drie bijdragers hebben wijzigingen binnengebracht. Skill-instructies laden in een agent die de lezer al draait, dus de gebruikelijke kanttekeningen bij [[prompt-engineering|prompt engineering]] gelden: de kwaliteit van de kritiek hangt af van de schets die eraan wordt gegeven.
-
-## Gerelateerde concepten
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

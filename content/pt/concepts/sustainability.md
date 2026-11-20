@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -79,33 +81,3 @@ A sustentabilidade e a IA na educação ficam na interseção da [[ethics|ética
 - **"O conhecimento abstrato de IA prediz a capacidade dos professores de ensinar sustentabilidade."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] descobriu que o **uso prático de IA** pelos professores em contextos de ciência e energia verde e seu **envolvimento no desenvolvimento de materiais alinhados à ESD** — **mais do que o conhecimento abstrato de IA ou as atitudes** — previram sua capacidade. Saber sobre IA e conseguir construir com ela divergiam, e a rota prática previa mais.
 - **"O design instrucional assistido por IA sob uma pedagogia da sustentabilidade produz pedagogia da sustentabilidade."** O mesmo trabalho descobriu que o [[learning-design|design instrucional]] assistido por IA sob a Pedagogia do Desenvolvimento Sustentável **restringiu** o design de formas específicas, em vez de expandi-lo. Um modelo treinado em materiais convencionais reproduz enquadramentos convencionais, a menos que o trabalho de design corrija isso.
 - **"A sustentabilidade é um tópico, não um tema transversal."** Como ambas as vias atravessam níveis, a sustentabilidade aparece no [[higher-ed|ensino superior]], no K-12 e em contextos profissionais — o que significa que é um tema fundacional que precisa ser abordado dentro de cada disciplina, em vez de ensinado como uma matéria separada.
-
-## Conceitos conectados
-
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Artigos conectados
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA vestível mais imagens de poluição geradas por IA elevaram a excitação, sem mensurar o cuidado ambiental (Lim et al., 2024)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de survey e grupos focais argumentando que a ética da parceria, e não o enquadramento de trapaça, deveria orientar as decisões institucionais sobre GenAI
-- [[daniel-ai-sustainability-scoping-review-2026]] — Revisão de escopo da IA para a sustentabilidade e da IA sustentável no ensino superior
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Abordagem crítica dos valores para a educação sustentável e a IA
-- [[liu-ai-sustainable-engineering-education-2026]] — Framework AI-SEE para a educação em engenharia sustentável
-- [[riandi-teacher-ai-green-energy-education-2026]] — Envolvimento dos professores na integração da IA para a educação em energia verde
-- [[talebzadeh-ai-green-education-2026]] — O papel da IA na educação verde
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistentes de base de conhecimento com IA sustentável
-- [[llm-environmental-impact-student-usage-2026]] — Impactos ambientais do uso de LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentando a aprendizagem sustentável por meio da inteligência corporificada
-- [[caruana-pre-university-ai-education-slr-2026]] — Revisão sistemática da literatura sobre educação em IA pré-universitária (enquadramento no SDG 4)

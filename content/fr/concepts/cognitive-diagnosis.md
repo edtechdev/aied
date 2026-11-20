@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -87,44 +89,3 @@ Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances
 - **« Les modèles peuvent simuler les erreurs des étudiants, donc ils peuvent les diagnostiquer. »** Le goulot d'étranglement est l'inverse. Les modèles construisaient une solution dans **95.2% des traces de distracteurs** et simulaient une idée fausse Eedi précise avec une exactitude de **0.92**, et pourtant c'est **la fourniture de la solution correcte** — non la simulation de l'erreur — qui les limitait. Générer une mauvaise réponse plausible est plus facile que d'en reconnaître une.
 - **« Le diagnostic exige un catalogue d'idées fausses construit à la main. »** Sur **6,106 paires** de formalisations correctes et incorrectes de logique propositionnelle, un flux de travail a découvert **248 grappes de transformations expliquant 5,156 paires (84.44%)**, contre **4,370 (71.57%)** pour les erreurs choisies à la main du jeu de référence. La découverte égalait ou dépassait la curation experte, et elle s'est transférée à la logique modale — le catalogue est donc un point de départ, non un plafond.
 - **« Un diagnostic n'est utile que s'il nomme une idée fausse. »** Diagnostiquer quels résultats de cours un apprenant a atteints traite les résultats comme les concepts de connaissance à la place, en fournissant les relations entre concepts par des correspondances d'affinité validées par des experts. Pour les programmes fondés sur les résultats, c'est l'unité la plus actionnable, même si elle est plus grossière.
-
-## Concepts liés
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Articles liés
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Référentiel pour les LLM en diagnostic des compétences cognitives à partir d'écrits mathématiques manuscrits
-- [[correct-answer-trap-misconceptions]] — Le piège de la bonne réponse
-- [[llm-misconception-difficulty-easy-trap]] — Le piège facile : pourquoi les LLM sous-estiment la difficulté portée par les conceptions erronées
-- [[llm-student-misconception-identification]] — Identification par LLM des idées fausses des étudiants
-- [[student-math-competence-clustering]] — Regroupement pour la modélisation de la compétence mathématique des étudiants
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench : diagnostiquer à partir d'apprenants simulés
-- [[huang-interpretable-knowledge-tracing-2026]] — Traçage des connaissances interprétable
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
-- [[yasir-llm-tutoring-agents-2026]] — Séparer le diagnostic de la rétroaction dans les tuteurs LLM
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnostic cognitif bayésien pour les parcours d'apprentissage personnalisés
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Traçage des connaissances fondé sur les résultats avec correspondance d'affinité
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnostic fédéré préservant la vie privée sur plusieurs LLM hétérogènes
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Explorer les erreurs de modélisation courantes à grande échelle avec des transformations de correction de bogues générées par LLM et validées algorithmiquement (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Diagnostic cognitif en mécanique : diagnostic de type DINA de 14 objectifs d'apprentissage à partir d'inventaires de concepts de physique existants (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Annotation des concepts de connaissance par LLM et états de connaissance calibrés au niveau des concepts
-- [[llm-distractor-generation-student-reasoning-2026]] — les distracteurs fondés sur les idées fausses comme tâche de conception d'items diagnostiques
-- [[misconception-acquisition-dynamics-llms-2026]] — l'endroit où l'erreur entre dans la solution est le goulot d'étranglement du diagnostic
-- [[pivot-generative-video-tutors-stem-2026]] — De la génération de contenu au soutien à l'apprentissage : tuteurs vidéo génératifs guidés par la pédagogie pour l'apprentissage des STIM
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle de co-apprentissage humain-IA
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu : modèles de fondation ouverts pour l'apprentissage et l'enseignement
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Recherche AutoML d'architecture neuronale cognitive personnalisée pour les profils d'apprenants

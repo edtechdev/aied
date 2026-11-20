@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -105,50 +107,3 @@ Soma na [[stakeholders]] kwa watu wanaomzunguka mwanafunzi, na na [[pedagogy]] n
 
 - Weka tofauti ya mwajifunzaji na mwanafunzi wazi katika upigaji sampuli, na ripoti nani anaachwa nayo.
 - Soma upande wa mshtakiwa pamoja na upande wa mtumiaji; upande wa taratibu ni nusu nyembamba ya fasihi hii.
-
-## Dhana Zinazohusiana
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Jinsi wanafunzi wanavyoona, kuingiliana, na kuathiriwa na Akili Bandia
-- [[learner-identity]] — Wanafunzi wanakuwa nini kuhusiana na somo na Akili Bandia
-- [[agency]] — Wanafunzi bado wanadhibiti na wanachagua nini
-- [[student-ai-interaction]] — Wanafunzi wanawaomba AI nini hasa na jinsi mazungumzo yanavyobadilika
-- [[cognitive-offloading]] — Kutegemea kupita kiasi na kuchukua nafasi ya mawazo na Akili Bandia
-- [[self-regulated-learning]] — Kupanga, kufuatilia, na kurekebisha mafunzo yako mwenyewe
-- [[help-seeking]] — Kuomba msaada vizuri, na hali za kushindwa wanafunzi wanapofanya
-- [[metacognition]] — Kujua unaelewa nini na huelewi nini
-- [[motivation]] — Kwa nini wanafunzi wanadumu au wanaacha
-- [[self-efficacy]] — Ujasiri wa wanafunzi katika uwezo wao wenyewe
-- [[student-engagement]] — Mwingiliano wa tabia, hisia, na fikra
-- [[prior-knowledge]] — Maarifa ya msingi yanayoamua kama msaada unakuwa mafunzo
-- [[student-modeling]] — Kuwakilisha mwanafunzi ndani ya mfumo
-- [[knowledge-tracing]] — Kukadiria upatikanaji wa ustadi kwa muda
-- [[simulating-students]] — Wanafunzi wanaokisiwa na LLM kama vigezo vya muda
-- [[ai-literacy]] — Uwezo unaoamua kama wanafunzi wanatumia AI vizuri
-- [[equity-in-ai-education]] — Nani anafaidika na nani anaachwa
-- [[well-being]] — Wasiwasi, msongo, na gharama ya hisia ya masomo ya AI
-- [[misconceptions]] — Mifano ya akili wanayoleta wanafunzi kwa Akili Bandia
-- [[stakeholders]] — Upande mwingine wa uwanja uo huo: walimu, viongozi, wabunifu
-- [[assessment]] — Ni uwezo gani wa mwanafunzi unaonekana
-
-## Makala Zinazohusiana
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Mifumo ya utegemezi na ujuzi wa tathmini hugawa matokeo ya wanafunzi
-- [[student-perceptions-ai-study-productivity-2026]] — Wanafunzi huripoti faida za ufanisi pamoja na wasiwasi wa utegemezi
-- [[student-llm-interaction-taxonomy-review-2026]] — Taksinomia ya mwingiliano wa mwanafunzi-LLM unaoelekea kwenye mafunzo
-- [[student-ai-conversations-cognitive-engagement-2026]] — Mifumo ya somo mahususi katika mazungumzo ya mwanafunzi-AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Faida za utendaji uliosaidiwa bila uwezo huru
-- [[genai-performance-vs-learning]] — Kwa nini utendaji uliosaidiwa na mafunzo yasiyosaidiwa lazima vapimwe kando
-- [[shaw-nave-cognitive-surrender-2026]] — Kujisalimisha kwa fikra kama mwelekeo, sio tukio
-- [[metacognitively-discordant-completion-genai-2026]] — Wanafunzi wanaoona hawaelewi na wanawasilisha hata hivyo
-- [[verification-quality-reliance-calibration-genai-2026]] — Ubora wa uthibitishaji na usawa wa kutegemea
-- [[simulating-students-llm-review-2026]] — Wanafunzi wanaokisiwa: usanifu, mifumo, na mipaka
-- [[stanbkt-bayesian-knowledge-tracing]] — Ukadiriaji wa parameta katika ufuatiliaji wa maarifa wa Bayesian
-- [[demographic-signals-llm-student-assessment-2026]] — Ishara za idadi ya watu za kificho na za wazi katika tathmini ya LLM
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Ujuzi wa AI, mwingiliano, na mtaji wa kisaikolojia
-- [[genai-student-experiences-uk-he-survey-2026]] — Wanafunzi hueleza mvuto wa juhudi ndogo
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Wanafunzi kuhusu kama GenAI ni zana ya udanganyifu au mwenzi wa mafunzo
-- [[munoz-misconduct-allegation-evidence-2026]] — Faili za shutuma za makosa zina nini hasa kama ushahidi
-- [[wright-transcription-not-generation-2026]] — Kanuni za AI zilizojumuisha kupita kiasi na wanafunzi wanaozikamata
-- [[sharma-judgment-visible-genai-assessment-2026]] — Uadilifu kama hukumu ya tathmini badala ya kufuata
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Gharama za hisia na usawa za usimamizi wa mtandaoni kwa wanafunzi

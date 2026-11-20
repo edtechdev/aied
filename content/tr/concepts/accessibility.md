@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,7 +49,6 @@ Doğru altyazılı ve uygun biçimde etiketlenmiş yazıya çevrilmiş kaydı ol
 **Duyusal erişim: görsel olmayan ve dokunsal çıktı.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]**, görme engelli çocuklar için sözlü konuşmayı birincil yöntem yapar, görsel bağımlılığı kaldırır. **[[tactile-statistical-graphs-accessibility|Dokunsal 3B baskı grafikler]]**, görsel istatistiksel veriyi kör ve az gören öğrenciler için dokunulabilir çıktıya dönüştürür. **[[pepper-robot-sign-language-lis-2025|İşaret dili robotları]]**, [[educational-robotics]] alanını Sağır öğrenenler için iletişimsel erişilebilirliğe taşır.
 
 **Reddetme öncelikli erişim: şekli tahmin etmek yerine talep edin.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau ve Heffernan (2025)]], görev açısından kritik bir şekil saklandığında altı çok kipli modelin koşuların %95,4–%98,9’unda tahmin etmek yerine yanıt vermeyi reddettiğini bulmuştur — erişim sistemlerinin bir tahmin değil, şekil veya yapılandırılmış bir betimleme talebi olarak ele alması gereken bir çekimserlik. Yayımlanan altın (76 madde) ve ultra-altın (61 madde) uzlaşı alt kümeleri, betimleme ikamesi deneylerine şekle bağımlı matematik maddelerinde özgün şekiller ile denetlenmiş metinsel betimlemeleri karşılaştırmak için bir deneme ortamı sağlar.
-
 
 **Film için yazılmış sesli betimleme, ders kayıtlarına aktarılmaz.** Slayt temelli dersler şemalara, denklemlere ve işaret ediş jestlerine atıfta bulunur ve duraklamaları yalnızca medyan 0,5 s sürer; bu nedenle [[ad4edu-lecture-audio-description-2026|Psychias ve Gao (2026)]], derse özgü bir kıyaslama ve kural tabanlı teşhis edilebilir bir metrik kurmuştur; makine hakemi sıralı çiftler üzerinde [[llm-training-and-fine-tuning|sonradan eğitirim]] uyumu eşit biçimde iyileştirmemiştir.
 
@@ -81,43 +82,3 @@ Doğru altyazılı ve uygun biçimde etiketlenmiş yazıya çevrilmiş kaydı ol
 - **"Erişilebilirlik, uyarlama demektir."** Nöroçeşitli öğrenciler için dijital yardımcı teknolojiler üzerine **40 çalışmalık** bir kapsam derlemesi, **28'inin katılımı resmi bir tanıya bağladığını** buldu. Bu tanı kapılı bir modeldir ve ihtiyacı olup etiketi olmayan her öğrenciyi dışlar; evrensel tasarımın tam tersi.
 - **"Orta düzey etkiler soruyu kapatır."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang ve ark.]] **29 çalışmayı** meta-analiz eder ve orta düzeyde olumlu bir etki bulur; bu gerçektir ve hangi ihtiyaç için hangi araç sorusuna hiçbir şey söylemez. Heterojen müdahaleler arasındaki ortalama bir öneri değildir.
 - **"Hız ve anındalık kolaylıklardır."** Üç Filistin üniversitesinde **21 görme engelli lisans öğrencisiyle** yapılan nitel bir vaka çalışmasında öğrenenler, anındalığı bir kolaylık değil **temel bir erişilebilirlik gereği** olarak çerçeveledi. Dışarıdan bir incelik gibi görünen şey, katılımın bir ön koşuludur.
-
-## Bağlı kavramlar
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — öğrenen çeşitliliği boyunca eğitim tasarlamanın daha geniş şemsiyesi
-- [[special-education]] — teşhis konmuş engelli öğrenenler için öğretim alanı
-- [[universal-design-for-learning]] — önleyici tasarım çerçevesi
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — başlıklar, hareket hastalığı ve cihaz erişimi kimin kullanabileceğini belirler
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — aşırı geniş kurallar, kusurlu kanıt ve makul ayarlama için şemsiye sayfa
-- [[arts-and-media-education]]
-
-## Bağlı makaleler
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 seçkin üniversiteden %0’ı YZ erişilebilirlik politikası yayımlarken %93’ü YZ kampüs hizmeti yayımlıyor
-- [[shin-ai-policies-sld-2026]] — Özgün öğrenme güçlüğü olan öğrenciler için YZ politikaları ve uyarlamalar
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Engelli öğrenciler için YZ müdahalelerinin meta-analizi
-- [[adhd-video-segmentation-computing-education]] — Sabit duraklamalı YZ segmentasyonlu videolar
-- [[text-simplification-its]] — Akıllı öğretim için LLM temelli metin sadeleştirme
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Sağır/İşitme Engelli öğrenenler için LLM soru üretimi
-- [[kutti-ai-voice-first-learning-companion]] — Görme engelli çocuklar için ses öncelikli yol arkadaşı
-- [[tactile-statistical-graphs-accessibility]] — Dokunsal 3B baskı istatistiksel grafikler
-- [[pepper-robot-sign-language-lis-2025]] — İşaret dilini destekleyen Pepper robotu
-- [[genai-minoritized-knowledges-disability]] — YZ ve engellilik merkezli bilgi üzerine eleştirel bakış
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX matematik erişilebilir fizik videosu yazıya çevirme
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Görme engelli öğrenenler için yardımcı GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Üretken YZ, sanal gerçeklik ve ötesi: yükseköğretimde nöroçeşitli öğrenciler için dijital yardımcı teknolojilere dair bir kapsam derlemesi
-- [[wright-transcription-not-generation-2026]] — Yazıya çevirme üretme değildir: aşırı kapsamlı YZ yasakları ve yakaladıkları yardımcı araçlar
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Erişilebilirlik standartları, metrikler ve öğrenen tercihleri boyunca üniversite ders kaydı sesli betimlemesini kıyaslama
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: İnsanlar için okunabilir, makineler için dirençli bir okuma arayüzüne doğru

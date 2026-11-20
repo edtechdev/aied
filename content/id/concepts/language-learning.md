@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -45,7 +47,6 @@ Untuk tutor yang [[embodied-learning|berwujud fisik]], meta-analisis atas 11 stu
 **AI dalam penilaian bahasa** mulai muncul seiring LLM mendukung [[automated-question-generation|pembuatan butir soal]] dan evaluasi. **[[gpt-item-generation-l2-listening-2026|Aryadoust dan Wong (2026)]]** membandingkan [[prompt-engineering|rekayasa prompt]] dengan penyetelan halus untuk pembuatan butir soal otomatis dalam penilaian menyimak L2: penyempurnaan prompt berulang meningkatkan kualitas butir tetapi kemudian mendatar, sementara **penyetelan halus GPT-4.1 pada prompt yang telah dioptimalkan** (dengan desain prompt dijaga konstan) menghasilkan perolehan lebih lanjut — sebuah templat untuk menentukan kapan pengembang penilaian harus berinvestasi pada [[llm-training-and-fine-tuning|adaptasi model]] alih-alih iterasi prompt.
 
 Granularitas komponen pengetahuan adalah keputusan pemodelan dalam tutoring berbasis sekolah: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny dan Meurers (2026)]] membandingkan 19 model komponen pengetahuan (KC) yang mencakup 11 tingkat hierarki domain FeedBook pada 153,819 respons percobaan pertama dari 1,059 siswa kelas tujuh yang belajar bahasa Inggris di sekolah Jerman. Model tingkat butir yang halus paling baik memprediksi siswa baru pada konten yang dikenal, sementara model tingkat menengah yang berlandaskan semantik paling baik menggeneralisasi ke konten baru (Property ID + Exercise Type RMSE 0.4243 di bawah AFM versus 0.4447 untuk Actionable Element ID). Audit cakupan anotasi menemukan pemetaan properti yang ketat awalnya menghapus 45.7% catatan dan alat anotasi yang lebih baru mengurangi pengecualian menjadi 30.6%, dengan label gabungan positive|statement saja menyumbang 74.9% catatan yang dikecualikan.
-
 
 Perbandingan atas 52 tugas penilaian EFL yang dinilai oleh 20 guru berpengalaman tidak menemukan perbedaan kualitas yang signifikan secara keseluruhan antara butir yang dihasilkan AI dan yang dikembangkan manusia, tetapi menemukan pembagian kerja yang jelas: AI lebih disukai untuk tata bahasa dan kosakata (69%) dan pengembangan manusia untuk membaca, menulis, menyimak, dan berbicara (75–83%) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia dan Darvishi (2026)]]).
 
@@ -98,63 +99,3 @@ Kualitas desain, bukan frekuensi penggunaan, yang membawa efek motivasional pada
 - **"Tutor robot berwujud bekerja karena perwujudannya."** Meta-analisis atas **11 studi RALL (N = 595)** menemukan efek gabungan yang besar pada pembelajaran L2 (**g = 0.83**) dengan **heterogenitas tinggi**, dan — yang penting — **hanya** fitur tingkat **interaksi** yang memoderasinya. Morfologi dan modalitas tidak, sehingga perangkat kerasnya bukan bahan aktif.
 - **"Butir penilaian yang dihasilkan AI lebih buruk daripada yang ditulis guru."** Perbandingan atas **52 tugas penilaian EFL yang dinilai oleh 20 guru berpengalaman** menemukan **tidak ada perbedaan kualitas yang signifikan secara keseluruhan** antara butir yang dihasilkan AI dan yang dikembangkan manusia, tetapi ada perbedaan pada dimensi tertentu. Kesetaraan keseluruhan dengan kelemahan spesifik adalah klaim yang berbeda dari peningkatan atau kekurangan.
 - **"Umpan balik LLM hanya dapat menilai tulisan."** Sistem tingkat wacana melangkah lebih jauh dengan **menamai cacatnya alih-alih menilai teksnya**, dengan klasifikasi relasi pasangan kalimat yang melokalisasi **patahan koherensi** seperti lompatan logis dan tautan yang hilang. Keluaran yang berguna bersifat diagnostik, bukan numerik.
-
-## Konsep terkait
-
-- [[eportfolio]]
-- [[writing-education]]
-
-- [[reading-education]]
-
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## Artikel terkait
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Perolehan chatbot dalam kemahiran lisan terkonsentrasi pada jangkauan dan keterpahaman
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Interaksi Siswa-AI dalam Interpreting Konsekutif Berbantuan Komputer
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profil dan Transisi Adaptasi Psikologis dalam Pembelajaran Bahasa Jepang Berbantuan AI
-- [[llm-agents-5e-esl-grammar-2026]] — Agen LLM dengan kerangka 5E untuk pemerolehan tata bahasa ESL (Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. penyetelan halus GPT untuk pembuatan butir menyimak L2 (Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — Klasifikasi wacana BERT untuk pengajaran bahasa Inggris
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tugas penilaian yang dihasilkan AI vs yang dikembangkan manusia dalam EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Mengelola yang tak terlihat: literasi AI di kalangan guru bahasa
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analisis pembelajaran bahasa berbantuan robot berwujud yang ditingkatkan AI
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tutor AI Rancangan Instruktur dalam Pendidikan Bahasa Asing Universitas: Studi Metode Campuran atas Motivasi Pembelajar dan Pengalaman Belajar Reflektif Berdasarkan Teori Penentuan Nasib Sendiri
-- [[lukesova-clue-before-correction-2026]] — Petunjuk Sebelum Koreksi: ChatGPT untuk Pembelajaran Bahasa Mandiri
-- [[chatgpt-english-language-learning-malaysia]] — Pengalaman ChatGPT siswa dalam pembelajaran bahasa Inggris
-- [[liu-emerging-tech-tefl-review-2026]] — Meta-analisis teknologi baru untuk EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Teori penetapan tujuan: dukungan guru, tujuan prestasi, dan keterlibatan dalam pembelajaran bahasa Inggris berbantuan AI (758 siswa Tiongkok)
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[asr-english-speaking-feedback-metacognition-2026]] — Teknologi ASR dalam berbicara bahasa Inggris di perguruan tinggi: internalisasi umpan balik dan strategi metakognitif
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Program menulis berbantuan GenAI untuk pembelajar L2 sekolah dasar (Lu dkk. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: Kerangka Agen AI Local-First untuk Pembelajaran Bahasa Rumahan Berbiaya Rendah menuju Keadilan Pendidikan
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Kebutaan pragmatik: keluaran bahasa AI dapat benar secara gramatikal tetapi salah secara kultural
-- [[ai-speaking-practice-communicative-readiness-2026]] — Kesiapan, bukan kinerja yang teramati
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Perluas perancah AI ke membaca kolaboratif
-- [[acoustic-lexical-native-language-identification-learners-2026]] — Audio mengalahkan pengklasifikasi transkrip GPT-4o zero-shot untuk identifikasi L1 (Uluslu dkk. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - umpan balik proses meningkatkan konsultasi sumber dan memangkas penggunaan mesin penerjemah dalam kursus penerjemahan berita
-- [[wordofa-genai-grammar-instruction-efl-2026]] — Pengajaran tata bahasa berbantuan AI generatif dan efikasi diri serta kesadaran metalinguistik pembelajar EFL Ethiopia

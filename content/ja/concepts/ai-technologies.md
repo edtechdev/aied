@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -78,42 +80,3 @@ ai_assist:
 **「技術的な選択は技術者の仕事であり、教育者の仕事ではない。」** このページの枠づけは、LLMを構築できなくても優れた教育者でありうるが、それでもあなたの技術的な選択が教室でAIにできることとできないことを形づくる、というものです。システムがその答えをコース教材に接地するかどうかは、誰かが下さなければならない教育学的な帰結を持つ決定です。
 
 **「より有能なモデルがこの分野の隙間を埋める。」** オーケストレーション、メモリ、長期の計画は能力の問題ではなくアーキテクチャの問題です。記録されている不在は、時間をかけて自分のツール利用を統治するシステムの不在であり、より良いモデルがそれ自体で供給するものではありません。
-
-## 関連概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## 関連記事
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM と工学教育における 85 の AI ツールの研究的可視性（Terkowsky ら 2026）
-
-- [[agentic-ai-education-scoping-review]] — 教育におけるエージェント的AIのスコーピングレビュー
-- [[genai-meta-analysis-programming-learning]] — プログラミングにおける生成的AIの生産性と学習への影響のメタ分析
-- [[cstutorbench-slm-tutors]] — 小規模言語モデルのチュータリングベンチマーク
-- [[educational-llm-alignment]] — 教育のためのLLMの整合づけ
-- [[eduguard-safe-rag-llm-tutor]] — RAGベースのLLMチューターへのガードレール
-- [[hazra-safetutors-pedagogical-safety-2026]] — AIチューターの安全性と害
-- [[elbench-education-llm-benchmark-2026]] — 教育向けLLMベンチマーク
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 生成的社会的ロボット
-- [[benzion-ai-physics-simulations-virtual-lab]] — 教室のためのLLM生成の物理学シミュレーション
-
-- [[jaksic-engaging-high-school-teachers-ai-2025]] — 高校教師の人工知能の概念・応用・開発への関与

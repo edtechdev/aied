@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -42,7 +44,6 @@ ai_assist:
 
 - **Bilişsel iz olarak istek metni yazma:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk ve ark.]], istek metni örüntülerinin [[cognitive-offloading|bilişsel dış kaynak kullanımını]] açığa çıkardığını gösterir — yüksek kaliteli iş, bağlam açısından zengin, nazik ve öğretici istek metinleri kullanır; düşük kaliteli iş, alan temeli olmadan tepkisel itiraz gösterir
 
-
 - **Belirsiz istek metinleri diyalogda iz bırakır.** Düşük kaliteli grubun imzası, belirsiz istek metinlerine ve YZ’nin yanlış okumalarına kadar izlenen kendini yineleyen bir açıklama döngüsüydü (IC→IC, Z = 3,25) ve çalışmanın en büyük hayal kırıklığı farkını taşıyordu (2,12’ye karşı 3,82); gerçek günlük kayıtları üzerinde istek metni hata ayıklaması, tam olarak bunu gerçekleşirken hedefler ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang ve ark. (2026)]]).
 
 - **Derinlik ürünü iyileştirir, kalıcılığı değil.** 22 lisansüstü öğrencide, açıklama arayan ("neden/nasıl/açıkla") istek metinlerinin payı, temel bilgi ve istek metni hacminin ötesinde bağımsız puanlanmış görev kalitesini öngördü (β = 6,27), ancak anlık hatırlamayla sıfır ilişki gösterdi ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
@@ -51,7 +52,6 @@ ai_assist:
 - **Okuryazarlık olarak istek metni yazma:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] ve [[aaai2026-prompting-literacy-k12|K-12 istek metni okuryazarlığı]] araştırmaları, istek metni yazmayı temel bir [[ai-literacy]] bileşeni olarak çerçeveler
 - **İstek metni okuryazarlığı algılanan bir yetkinliktir ve yine de katılımı öngörür.** 40 bozulmamış sınıfta 829 tasarım öğrencisi arasında, öz bildirime dayalı istek metni okuryazarlığı — gözlenen isteme değil, uyarlanmış altı öz bildirim maddesi — öğrenme [[student-engagement|katılımını]] β = 0,539, %95 GA [0,473, 0,595] düzeyinde öngörmüştür ([[han-prompt-literacy-ai-dependence-design-2026|Han ve Cao, 2026]]). İlişki, işlevsel bağımlılıktan (p = 0,396) ya da duygusal bağımlılıktan (p = 0,941) bağımsız olarak sürdü. Yalnızca bilişsel bağımlılık, yani YZ yargısını kişinin kendi yargısının yerine koyması, onu açıkça zayıflattı.
 - **Acemilerin varsayılanı deneme yanılma ve modeli suçlamaktır.** Bir metin dilbilim seminerinde, on genAI acemisi istek metinlerini deneme yanılma ile iyileştirdi, bağlam içi örneklere nadiren başvurdu ve zayıf çıktıları ezici çoğunlukla LLM’ye değil kendi istek metni formülasyonuna bağlamadı ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
-
 
 - **Öğretmen istek metnini modeled öğrenciler onu aynen yeniden kullanır.** On iki ortaokul STEAM grubundan gelen 310 kayıtlı istek metni arasında, öğretmenin talimatının aynen kopyalanması %47,1 ile en sık öğrenci duruşu oldu; kendiliğinden sorgulamayı %28,7 geride bıraktı ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
 
@@ -83,7 +83,6 @@ ai_assist:
 - **Değerlendirme tasarımı olarak istek metni yazma.** [[ecd-prompts-automated-essay-scoring-2026|Xiong ve ark. (2026)]], Kanıt Merkezli Tasarımın (Evidence-Centered Design) öğrenen, kanıt ve görev modellerini bir puanlama istek metninin parçalarına eşler ve beş ilke — kastlılık, izlenebilirlik, hesap verebilirlik, yineleme ve eşitlik — türetir; ECD ile kurulmuş istek metinleri anlatı makalelerini sıfır atımlı (zero-shot), birkaç atımlı (few-shot) ve düşünce zinciri tabanlılarından daha isabetli puanlamıştır.
 - **LLM–insan kodlama uzlaşısını istek metni ifadesi değil model kimliği yönetir.** [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith ve ark. (2026)]] kontrollü ayrıştırmasında istek metni türü anlamsızdı (F = 1,77, p = 0,136, kısmi η² = ,03) oysa model faktörü kısmi η² = ,19 taşıyordu. Tanım veya ayrıntılı talimat eklemek, doğru tanım yargılarındaki hataları düşürse de listeleme tespitini bozdu ve fiyat kaliteyi izlemedi: Gemini 2.5 Pro \$178,13 maliyetle GPT-4.1 Full’un \$56,77’lik performansının altında kaldı.
 
-
 - **Kuramın tam metnini değil adını enjekte edin.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano ve ark. (2026)]], adlandırılmış kuram isteminin sağlanan makaleleri yararlılık (4,40’a karşı 3,20) ve somutluk (3,80’a karşı 2,40) açısından geçtiğini, tam metinlerin yalnızca kuramsal hizalamada kazandığını (4,60’a karşı 3,60) gösterir.
 
 - **Daha iyi istek metinleri, çıktı kalitesini yükseltmeden yinelemeyi azalttı.** Bir ders hazırlama deneyinden önce YZ eğitimi alan öğretmenler daha uzun ve ayrıntılı istek metinleri yazdı ve daha az inceltme gerektirdi; eğitim almayan öğretmenler daha kısa istek metinleri kullandı ve daha çok sonraki yinelemeye ihtiyaç duydu, ancak ortaya çıkan materyallerin kör uzman puanlamaları eşitti ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel ve ark., 2026]]). Burada istek metni ustalığı daha güçlü bir ilk taslak değil, daha az düzeltme turu satın aldı.
@@ -104,57 +103,3 @@ ai_assist:
 - **“İstek metni kalitesi bir öğrenci özelliğidir.”** **İstek metni bilişi öğrenciyi değil disiplini izler**: [[student-ai-conversations-cognitive-engagement-2026|Chang ve Li (2026)]], **116 kurstan 60.087 istek metnini** sınıflandırdı ve disiplinin istek metni inceliğini öngördüğünü buldu. Öğrencilere daha iyi istek metni yazmayı öğretmek, ders içeriğinde yatan bir varyasyonu ele alır.
 - **“Öğrenciler kendi istek metni pratiklerini geliştirir.”** Öğretmen istek metnini modellediğinde **öğrenciler onu aynen yeniden kullandı**: **on iki ortaokul STEAM grubundan 310 kayıtlı istek metni** arasında öğretmenin talimatının birebir kopyalanması yaygındı. Modelleme yeniden üretim üretir; bu nedenle aktarılabilir bir beceri değil, bir sistem tasarımı kaldıracıdır.
 - **“İstek metni yazma önce öğrenen becerisi, sonra sistem özelliğidir.”** Bu, istek metni yazmayı **uyarlanabilir bir sistem tasarımı kaldıracına** kaydırır ve **angajman ile verimlilik üzerinde ölçülmüş etkiler** taşır (**%28,1’e karşı %19,6 alıştırma dönüşümü**). Arayüzün istek metni olanakları, davranışı istek metni öğretiminden daha fazla hareket ettirdi.
-
-## Bağlı kavramlar
-- [[pedagogical-patterns]] — Yapılandırılmış kullanım dizileri içindeki iskeleleme katmanı
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan tabanlı)
-
-## Bağlı makaleler
-
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 öğrencinin zor bulduğu şey: istek metni sözdizimi değil niyet hizalaması
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Belirsiz istek metinleri, en büyük hayal kırıklığı farkını taşıyan kendini yineleyen açıklama döngüleri üretti
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Eşitlik yolu olarak istek metni mühendisliği yetkinliği ve modeller arası bir iskeleleme deneyi (Li ve ark. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Katılımı yine de öngören algılanan bir yetkinlik olarak istek metni okuryazarlığı
-- [[wang-teacher-student-centered-agents-physics-2026]] — Fizik öğrenmesinde tasarım değişkeni olarak ajan rolü ve kısıt istek metinleri (Wang ve ark. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — GPT temelli L2 dinleme maddesi üretiminde istek metni yazma ve ince ayar (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Öğrencilerin sorduğu önemlidir: LLM etkileşim derinliği, görev kalitesi ve anlık hatırlama (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: eğitimsel LLM istek metni yazma için gerçek zamanlı koçluk
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Gazetecilikte eleştirel YZ okuryazarlığı için LLM görevlerinin görev temelli taksonomisi
-- [[prompt-privilege-equitable-ai-access-2026]] — İstek Metni Ayrıcalığı: LLM erişimindeki erişilebilirlik uyuşmazlıklarını ölçmek ve hafifletmek
-- [[principal-trait-analysis-human-ai-skills-2026]] — Temel Nitelik Analizi: insan-YZ işbirliğinin veri temelli nitelikleri
-- [[llms-text-linguistics-teaching-2026]] — Metin dilbilimi öğretiminde LLM’ler
-- [[idea-framework-metacognitive-genai-2026]] — Üstbilişsel olarak düzenlenmiş GenAI kullanımı için IDEA çerçevesi
-- [[lin-llm-interactive-lesson-generation]] — Etkileşimli öğretmen eğitimi derslerinin LLM üretimi (Lin ve ark. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — Kimya eğitimine uyarlanan UNESCO YZ kılavuz ilkeleri; epistemik kayma
-- [[isaza-chatgpt-engineering-prompting-2026]] — İstek metni davranışları mühendislik öğrencisi performansını öngörür
-- [[student-ai-conversations-cognitive-engagement-2026]] — Öğrenci-YZ konuşmalarında disipline ilişkin Bloom düzeyi bilişsel bağlılık (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Yinelemeli pedagojik tasarım ajanları olarak LLM’ler
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — İstek metni mühendisliği ve istek metni okuryazarlığı: beş adımlı bir İstek Metni Okuryazarlığı Döngüsüyle insan merkezli GenAI etkileşim çerçevesi (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — YZ geri bildirim kalitesinin öngörücüsü olarak istek metni mühendisliği ve model seçimi (Jacobsen ve ark. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Öğrenci Yazmasındaki LLM Üretimi Geri Bildirimde Geri Bildirim Odağı ve Pedagojik Uyarlanabilirliğin Değerlendirilmesi
-
-- [[middle-school-genai-steam-interactions-2026]] — Ortaokul STEAM grupları istek metinlerinin %47,1’inde öğretmenin talimatını aynen kopyaladı
-- [[ecd-prompts-automated-essay-scoring-2026]] — Ölçmede istek metni mühendisliğini yönlendirmek için Kanıt Merkezli Tasarımın kullanımı: otomatik makale puanlamasıyla bir örnekleme

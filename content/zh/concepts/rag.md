@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -69,36 +71,3 @@ RAG 与 [[llm|大语言模型]] 微调承担互补角色 —— 检索提供最�
 - **“检索质量就是全部问题。”** 检索是必要的，但不是充分的。扎根式回答在 10 分中得到 **9.05 分，差异的 bootstrap 置信区间不含零**，并且**更常扎根于答题者实际看到的材料（98% 对 81%）**，因此测得的增益在于对证据的忠实度，而证据必须正确，这种忠实度才有意义。
 - **“单页检索可以泛化。”** 两个差距**在需要来自不止一页材料的问题上都约增至三倍**（跨页得分 9.93 对更低的基线）。多文档推理正是扎根系统退化之处，也正是课程提出最难问题之处。
 - **“检索消除了审视的必要。”** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]]从一个模块的已批准材料中检索，为那些犹豫着不敢向人求助的学生服务，这是一个可辩护的范围。狭窄、经批准的语料才使扎根有意义；仅凭标签并不够。
-
-## 关联概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — 总括：AI 技术与技巧（模型、大语言模型训练、机器人、RAG、智能体式）
-
-## 关联文章
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — 用本地 AI 与 RAG 生成开放教育材料的物理教学方法（Beznosko 等，2026）
-- [[hughes-rag-ai-feedback-implementation-2026]] — RAG 提升了两个研究生队列中被感知的反馈质量与有用性，而非可操作性
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 一个课程扎根的备课助手，其省时程度并未超过通用聊天机器人
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG：面向理论计算机科学教育的检索增强生成 —— 算法分析与复杂性理论的综合评估框架
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 减少学业支持的障碍：评估一个面向高等教育求助差异的课程专用 RAG 系统
-- [[wiki-llm-indexing-ml-classes-2026]] — 机器学习课堂中使用 Wiki 大语言模型索引的增强学习潜力
-- [[on-premises-rag-tutoring-business-education-2026]] — 面向商业教育的本地部署多课程 RAG 辅导
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 索引策展与检索范围作为部署工作

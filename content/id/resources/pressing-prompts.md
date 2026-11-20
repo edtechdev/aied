@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +50,3 @@ Proyek ini bermula di Duke University pada 2024–2025 sebagai AI Ethics Learnin
 bersama oleh mahasiswa sarjana, pustakawan, dosen dan teknolog di Center for Teaching and Learning dan Duke
 Libraries, lalu diluncurkan ulang setelah umpan balik dan desain ulang oleh Hannah Rozear, Remi Kalir dan
 Aria Chernik.
-
-## Konsep terkait
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]

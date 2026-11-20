@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
@@ -76,7 +78,6 @@ Uwezo binafsi unaungana na [[motivation]], [[self-regulated-learning]], [[studen
 
 - **Inahitajika kwa manufaa, si tu inahusiana nayo.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu na Liu (2026)]] waliweka uwezo binafsi wa AI mbele ya imani mbili za kukubalika kwa wanafunzi 405 wa uzamili wa ubunifu na kugundua kuwa ni kichocheo chenye nguvu zaidi cha zote mbili: β = 0.458 kwa manufaa yanayohisiwa na β = 0.394 kwa [[technology-acceptance-model|urahisi unaohisiwa wa matumizi]]. Uchanganuzi wao wa masharti muhimu unaongeza aina yenye nguvu zaidi ya dai kuliko njia iliyo hapo juu. Uwezo ulikuwa sharti pekee lililotambuliwa kuwa la lazima kwa manufaa yanayohisiwa (d = 0.125, p = 0.015). Manufaa kwa 80%, 90% na 100% ya kipimo chake yalihitaji uwezo kwa 10.0%, 30.0% na 50.0%. Ujasiri kwa hiyo unakaa kama sakafu chini ya hukumu ya chombo badala ya kuwa mchangiaji mmoja kati ya kadhaa. Ubuni ni wa wakati mmoja na mfano unaeleza R² = 0.150 ya nia, hivyo chukulia vizingiti kama vya ndani ya sampuli.
 
-
 - **Alama za tabia zinaweza kubeba ishara, lakini lebo huweka kikomo.** Mfumo wa vyuo vikuu viwili uligundua uwezo binafsi wa chini kutoka alama za mwingiliano; lebo za wakati wa utafiti zilishinda mgawanyo wa katikati ya muhula, na kipimo kidogo cha MSLQ peke yake kiliweka lebo vizuri kama chombo kizima ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Dhana Potofu za Kawaida
@@ -85,49 +86,3 @@ Uwezo binafsi unaungana na [[motivation]], [[self-regulated-learning]], [[studen
 - **"Matumizi zaidi ya AI pamoja na ujasiri mdogo ni mkakati usio na madhara wa kukabiliana."** Ugunduzi huo huo unaunganisha uelekezaji huo na **alama za chini**, kwa hivyo mtindo wa kukabiliana una gharama inayopimika badala ya kuwa chaguo lisilo na athari.
 - **"Ujuzi peke yake hujenga ujasiri."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] alisaili **wanafunzi 450 wa chuo kikuu** ambao tayari wanatumia ChatGPT na anagundua **uaminifu kama kiungo kati ya ujuzi na ujasiri**. Njia inapita kupitia uaminifu, kwa hivyo kuongeza ujuzi bila kushughulikia uaminifu kunaacha utaratibu huo bila kubadilika.
 - **"Wasifu wa uwezo binafsi ni sawa katika idadi ya watu wenye ulemavu."** Uchanganuzi wa wasifu la siri wa **wanafunzi 102 wa chuo kikuu wenye ulemavu wa motisha** nchini Spain uligundua **wasifu watatu**, huku kikundi cha chini kikiwa **29.4%** na salio likigawanyika kati ya wasifu wa wastani na wa juu. Kuchukulia kikundi kama idadi moja ya watu kunapima wastani juu ya hali tofauti za motisha.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — Kujifunza Kijamii-Kihisia
-
-## Makala Zilizounganishwa
-- [[ai-proof-learning-cognitive-offloading-2026]] — Kuunga mkono au kuchukua nafasi ya fikra za wanafunzi? Uhamishaji wa kiakili katika kujifunza uthibitisho kwa msaada wa AI (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — Matumizi ya jumla ya AI yalisafiri na uwezo binafsi wa juu na kutokuhudhuria kwa juu, hata uwezo binafsi haukutabiri kuhudhuria (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot za AI katika elimu ya juu: kulinganisha matarajio na ushahidi (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — ujasiri unapopanda wakati kutegemea kiteknolojia kunakua: uwezo binafsi kama matokeo yanayopotosha ya enzi ya AI (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — E-mentoring inayosaidiwa na AI inapandisha uwezo binafsi na akili ya kihisia ya walimu wa EFL wa awali wa huduma (majaribio-ya-kutosha)
-- [[aigc-affordance-student-self-regulation-2026]] — Uwezo wa AIGC na Kujidhibiti kwa Mwanafunzi
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — Ujuzi wa AI, Utayari wa AI, na Ubadilishaji wa Kazi
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Elimu ya Walimu kwa Ujuzi wa AI (SDT)
-- [[social-robot-study-companions]] — Roboti za Kijamii kama Marafiki wa Kusoma
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Mfumo wa HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Mifumo ya matumizi ya GenAI na uwezo binafsi wa kitaaluma
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Kipimo cha AI-PBLS; uwezeshaji na ufahamu wa maadili yanayainisha PBL-hadi-kuridhika katika kozi za ujuzi wa AI (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Kutabiri Kuacha kwa Wanafunzi katika Programu ya Ushindani
-- [[genai-xr-architectural-design-education-2026]] — AI ya Kizalishaji na Uhalisi wa Upanuzi katika Elimu ya Ubunifu wa Usanifu wa Ushirikiano: Utafiti wa Studio wa Uchunguzi
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Ujuzi wa AI, uaminifu na uwezo binafsi wa kitaaluma katika mlolongo wa mfululizo hadi matumizi ya kuendelea ya ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Wasifu wa uwezo binafsi wa kitaaluma na matumizi ya AI yaliyoripotiwa miongoni mwa wanafunzi wa chuo kikuu wenye ulemavu wa motisha
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Mapato ya uwezo binafsi wa ubunifu yaliyoripotiwa kutoka AI ya kizalishaji katika watoto (mapitio ya scoping)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Uwezo binafsi wa kuzungumza unabadilisha njia ya wasiwasi kutoka mazoezi yanayosaidiwa na AI hadi nia
-- [[faculty-ai-well-being-social-supports-2026]] — SEM ya wataalam: uwezo binafsi wa kiteknolojia kama mtambulisho dhaifu wa ustawi wa AI
-- [[cen-self-efficacy-favorability-2026]] — Uwezo binafsi na upendeleo vinaunda kujifunza kutoka mifumo ya kufundisha na mazoezi ya karatasi (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Kipimo cha Uwezo Binafsi wa Kuandika kilitabiri maombi zaidi ya Kutafsiri na Kuhakiki, na si zaidi ya Kupanga au kukabidhi insha yote (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Kutumia ujifunzaji wa mashine kupima imani ya uwezo binafsi kupitia alama za mwingiliano wa wanafunzi katika kujifunza kuzidishwa na teknolojia
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Uwezo binafsi wa AI -> ujuzi wa AI -> kukubalika kwa AI, huku sehemu inayopitiwa na maarifa ikipimwa (İşbulan et al. 2026)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — uwezo binafsi kama sharti la lazima kwa manufaa yanayohisiwa, pamoja na vizingiti vya kizuizi (Chu & Liu 2026)
-
-- [[kim-overtrust-ai-literacy-2026]] — Uwezo binafsi wa kitaaluma ulitabiri uaminifu kupita kiasi kwa AI kuwa juu zaidi badala ya chini

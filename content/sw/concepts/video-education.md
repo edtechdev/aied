@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -36,7 +38,6 @@ Video ni nguzo ya elimu ya sasa — hasa [[online-teaching-and-learning|kujifunz
 
 - [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang na Nguyen (2026)]] wanaunganisha hatua ya unukuzi ya MLLM na hatua ya uandishi wa LLM ya maandishi pekee katika GAIVA ili kuleta uaminifu wa kiwango cha binadamu katika uchanganuzi wa video za darasa. Ilani za kugawa majukumu zilizalisha unukuzi wenye usawa zaidi (usahihi M = 3.24, ukamilifu M = 3.86), uandishi maradufu wa wakaguzi ulifikia ICC za 0.89 hadi 0.99, na uandishi wa GPT-4o unaotegemea unukuzi ulipata κ = 0.91 kwa Ushirikiano Uliyoratibiwa — juu ya κ = 0.83 ya binadamu-kwa-binadamu.
 
-
 - **Usomaji wa neva wa usimbaji wa video.** Ujenzi upya wa [[sensor-and-gaze-analytics|EEG]] wa fremu za video zilizotazamwa ulikuwa na ufanano mkubwa wa kimaana kwa maswali yaliyojibiwa kwa usahihi (M = 71.43) kuliko yale yasiyo sahihi (M = 62.30, p < .001), na kutokulingana kwa muda kwa utaratibu, yaani ujenzi upya unaofanana na fremu za mapema, kuliweza kupimwa kama kipimo cha mtawanyiko kinachohusiana na utendaji ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
 
 ### Jinsi utafiti wa hifadhi hii ya maarifa unavyopanga vikundi
@@ -52,7 +53,6 @@ Video ni nguzo ya elimu ya sasa — hasa [[online-teaching-and-learning|kujifunz
 - **Uaminifu wa unukuzi huamua kile maandishi yanayoweza kuchukua nafasi ya video.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard na Rosenberg (2026)]] walipima mifumo mitano ya ASR dhidi ya unukuzi wa rejeleo la binadamu kwenye vipindi vya Crash Course U.S. History, na viwango vya makosa ya maneno vilianzia 2.43% (TurboScribe) hadi 15.32% (Vosk). Uandishi wa GPT-5.5 wa unukuzi 48 uligundua PERSON kuwa aina ya huluki iliyotajwa mara nyingi zaidi (jumla 2,033; M = 42.35 kwa kila kipindi), na K-scan iliyobainishwa mapema ilichagua K = 5, ambapo upanuzi wa rejeleo wa LLM ulizalisha utenganishaji wa mada ulio wazi zaidi kuliko msingi wa ASR.
 
 - **Kukuza kwa kiwango cha eneo ni tabaka ambalo slaidi zilizosimuliwa zilikosa.** Utafiti wa ndani ya washiriki na watazamaji 24 uligundua kukuza kiotomatiki pamoja na mwanga uliosawazishwa kulipunguza mzigo wa NASA-TLX kutoka 5.74 hadi 4.53 (d = 0.84) na kuongeza ufahamu wa papo hapo (d = 0.46), ingawa faida ya saa 24 ilikosa umuhimu (p = .054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
-
 
 ### Kugeuza kwa mtu binafsi dhidi ya uwepo wa binadamu
 
@@ -91,36 +91,3 @@ Kuzalisha video ya AI yenye ufanisi kunahitaji muundo wa kielimu na usimamizi wa
 - Ripoti vipimo vya upendeleo na vya matokeo pamoja, na taja waziwazi pale masudio yana cha kwanza peke yake.
 
 - Ripoti upatanisho wa muda kwa uwazi, kwa kuwa kutokulingana kati ya maudhui ya video na [[cognitive-psychology|usindikaji wa kiakili]] huonekana katika data ya neva.
-
-
-## Dhana Zilizounganishwa
-
-- [[online-teaching-and-learning]] — video kama chombo kuu cha mafunzo mtandaoni na mseto
-- [[generative-ai]] — injini ya video zinazozalishwa na AI na zilizogeuzwa kwa mtu binafsi
-- [[personalized-learning]] — kugeuza kwa mtu binafsi kama kielekezi cha mvuto wa video ya AI
-- [[adaptive-learning]] — uzalishaji na kasi ya video inayobadilika
-- [[multimodal]] — video inayounga modaliti za kuona, sauti, na maandishi
-- [[learning-analytics]] — uchanganuzi wa ushirikiano na msisitizo wa video
-- [[student-engagement]] — ushirikiano ambao kugeuza kwa mtu binafsi kwa video kinakusudia kuongeza
-- [[pedagogical-agent]] — avatar na watoaji wa AI kama mawakala wa kielimu wa mtandaoni
-- [[llm]] — mifano mikubwa ya lugha inayoipa msingi uzalishaji wa hati na video
-- [[trust]] — uaminifu wa mwanafunzi katika watoaji na maudhui ya AI
-
-## Makala Zilizounganishwa
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: kuzalisha video za hotuba zilizogeuzwa kwa mtu binafsi za sekta za ubora wa MOOC kwa kiwango kikubwa (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Maoni ndani ya video yanayozalishwa na ChatGPT: muda wa entropy, mapengo ya ubora dhidi ya maoni ya binadamu (Wang, Du & Jin 2026)
-
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Tazama Pale! Uelekezaji wa Kuona Unaoendelea kwa Slaidi Zinazosimuliwa na AI
-
-- [[personalized-ai-generated-videos-preference-2026]] — Wanafunzi wanapendelea video zilizozalishwa na AI zilizogeuzwa kwa mtu binafsi kuliko zile za binadamu zilizorekodiwa zisizo za kipekee (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Mtazamo na upendeleo wa wanafunzi kwa video ya kielimu inayozalishwa na AI katika elimu ya kompyuta
-- [[ai-video-dual-gatekeeping-2026]] — Ulinzi wa pande mbili kwa uzalishaji wa video wa AI wenye msingi wa kielimu
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: uzalishaji wa video ya kielimu unaobadilika
-- [[engagement-assessment-video]] — Tathmini ya ushirikiano katika kujifunza kwa video
-- [[savvy-student-attention-video-learning]] — Uonyeshaji wa msisitizo wa mwanafunzi kwa kujifunza kwa video
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Jinsi utambulisho wa avatar unavyounga uaminifu wa maarifa katika kujifunza unaopatia na AI
-- [[bilingual-llm-lecture-companion-srl-2026]] — Washirika wa hotuba wa LLM wa lugha mbili kwa kujifunza kwa kujidhibiti
-- [[adhd-video-segmentation-computing-education]] — Kugawa video kwa muda kwa tofauti za mtu binafsi
-- [[ai-psychotherapy-training-avatars]] — Avatar za AI katika mafunzo ya kisaikolojia
-- [[gemini-lualatex-physics-video-transcription-2026]] — Kunukuza video ya hotuba ya fizikia kuwa maandishi yanayopatikana
-- [[pivot-generative-video-tutors-stem-2026]] — Kutoka Uzalishaji wa Maudhui hadi Msaada wa Kujifunza: Makufunzi wa Video wa Kizalishaji Wanaoongozwa na Kielimu kwa Kujifunza STEM

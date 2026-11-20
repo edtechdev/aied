@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -37,7 +38,3 @@ Kapitlene spenner over [[learning-design|undervisningsdesign]] og undervisningsp
 ## Hva du bør vite før du bruker den
 
 Boken er åpent tilgjengelig under en CC BY-lisens, som er den tillatende enden av skalaen for undervisningsmateriale: undervisere kan kopiere, tilpasse og bruke [[prompt-engineering|ledetekstene]], også kommersielt, forutsatt at de navngir dem riktig. Det gjør det enkelt å lokalisere en ledetekst for et bestemt emne eller en bestemt [[pedagogical-agent|agent]]-oppsett, noe de strengere lisensene på lignende samlinger ikke tillater. Den er publisert på EdTech Books i 2026 med PDF-nedlasting og DOI 10.59668/2340, redigert av David Wiley. Fordi hvert kapittel rapporterer evalueringsdesignet så vel som resultatet, fungerer den også som en modell for undervisere som vil teste egne ledetekster i stedet for å overta noen andres vurdering.
-
-## Tilknyttede begreper
-
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

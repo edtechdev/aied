@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -93,9 +94,3 @@ Walimu wa saikolojia katika hatua yoyote ya kazi, na walimu katika [[social-scie
 ## Vidokezo na tahadhari
 
 PDF ya bure, hakuna akaunti. Hakimiliki ni ya STP, si leseni ya Creative Commons: nakala za kibinafsi na za darasani zinakubaliwa kwa kutaja chanzo, huku usambazaji upya au matumizi ya kibiashara yakihitaji ruhusa ya mwandishi. Sura ni masimulizi ya watendaji, si tafiti — hakuna miundo, sampuli au ukubwa wa athari — kwa hivyo zichukulie madai kama ripoti za uzoefu na urejee sura moja moja.
-
-## Dhana Zilizounganishwa
-
-- [[social-sciences-education]] — ukurasa wa kundi ambao sehemu yake ya saikolojia inajazwa na juzuu hili kwa mazoea ya kiwango cha kozi
-- [[ai-literacy]] — mwelekeo wa kimaendeleo ambao wahariri wanauipa mkusanyiko
-- [[academic-integrity]] — somo la sura ya sera, na sababu sura kadhaa za kozi zinavyojenga hatua za uthibitishaji

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -65,29 +67,3 @@ RL は、エージェントが単一の正しい応答ではなく長期的な�
 **「長い地平は単により良い。」** それらは短い地平にはできないことを可能にし、報酬が系列全体にわたって正しいことを要求します。[[residencyrl-clinical-rl-training-2026|ResidencyRL]]は**60ターン**の臨床遭遇を最適化し、並行する対話システムの12ターン以下の地平をはるかに超えています。これは、誤って指定された目的の費用を下げるのではなく、上げるのです。
 
 **「教授が逐次的であるから、RLは個別指導に適した形式である。」** 逐次性は必要であって十分ではありません。拘束する制約は報酬の妥当性です。弱い方策を伴うよく指定された目的は、誤った目的に対する強い方策に勝ります。
-
-## 関連する概念
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — 包括項目: AI の技術と手法（モデル、LLM の訓練、ロボティクス、RAG、エージェント的 AI）
-
-## 関連する記事
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: 教育学的な指示追従のための RLHF
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS における適応的 ICAP スキャフォールディング（BKT 対 DRL）
-- [[riedmann-reinforcement-learning-education-review-2026]]

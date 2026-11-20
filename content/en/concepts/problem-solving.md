@@ -8,6 +8,8 @@ pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 > **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the studies reviewed here, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current [[research-methods-aied|research]] on AI and problem solving.
@@ -47,7 +49,6 @@ For educators, the balance of evidence points to structured, process-oriented in
 
 Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding|scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]]. The balance of worked examples versus practice for acquiring such skills is itself content-dependent: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] show generalizable problem-solving skills are best learned through example-integrated practice (alternating worked examples with problems), because worked examples supply the inductive information needed to acquire and generalize a correct rule, whereas pure practice risks strengthening spuriously correlated features rather than the general procedure.
 
-
 ## Simulating Collaborative Problem Solving with LLM Agents
 
 - **Simulating collaborative problem solving with participant-specific [[llm|LLM]] agents.** Fang (2026) trains individual LLM agents on real participants' dialogue to reproduce collaborative problem solving, and validates the [[simulation|simulations]] with [[network-analysis|Epistemic Network Analysis]], showing simulated and real dialogues are statistically indistinguishable (ENA distance 0.17; permutation p = 0.65). This offers a scalable way to study and generate authentic collaborative problem-solving discourse — with implications for both research and the design of practice environments for this 21st-century skill.
@@ -80,28 +81,3 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 **"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A [[curriculum-design|curriculum]] that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
 
 **"Simulation of collaborative problem solving is a substitute for the collaboration."** A simulation reproduces the interaction pattern, and the skill being developed is the regulation of a joint problem by participants who are actually present. Participant-specific agents that model real collaborators are a research instrument for studying that regulation — useful for what they reveal about the process, not a way to give students the practice without the peers.
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Connected Articles
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaction profiles (delegated reasoning vs concerted interpretation) and the efficiency–regulation trade-off
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR model positioning generative AI as an intelligent learning partner
-- [[llm-critical-thinking-teamwork-review]] — PRISMA review of LLMs fostering critical thinking, teamwork, and problem solving
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Sequence-mined adaptive scaffolds for collaborative problem solving
-- [[genai-assisted-problem-posing-physics-2026]] — Problem posing as a self-regulated learning strategy with GenAI
-- [[genai-feedback-design-multisite-experiment]] — Reflective/hybrid feedback outperforms direct AI on delayed transfer
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots improve primary students' problem posing in inquiry-based learning
-- [[llm-computational-thinking-physics-2026]] — LLMs as scalable assessors of computational problem solving in physics
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

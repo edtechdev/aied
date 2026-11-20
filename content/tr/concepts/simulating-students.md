@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -75,7 +77,6 @@ Geçerlilik merkezi kaygıdır: bir simüle öğrenci yalnızca, davranışı **
 
 Başarısızlık nicelendirilmiştir: 4B’den 120B’e parametreye yedi model üzerinde simülatörler, geri bildirim ne olursa olsun doğru yanıta hemen hemen tek düze oranlarda dönmüştür; dolayısıyla çıktı benzerliği, ardındaki inanç durumu hakkında hiçbir şey söylemez; buna karşın Seçici Dönüş Puanına karşı eğitim, sadakati +0,56’ya kadar yükseltmiştir ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan (2026)]]).
 
-
 **Simüle müşteriler açıklama evresini ortadan kaldırır ve eğitilen kişinin davranışı bunu izler.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph ve ark. (2026)]], GeCCo kategori sistemi altında 64 insan-insan sohbet danışmanlığı rol yapmasını 74 insan-LLM konuşmasıyla (Mixtral 8x7B, 4-bit) karşılaştırdı ve LLM müşterilerin istek metinlerine gömülü problemi, etrafında dolaşmak yerine doğrudan açıkladığını buldu. Danışmanlar bu nedenle kodlanmış davranışın %17,63'ünde Problem Çözme'ye ulaştı, insan müşterilerle %10,67'ye karşılık; kolaylaştırıcı yönlendirmeden çok olgusal yansıtmaya yaslandılar ve oturumları daha sık formalitelerle kapattılar (%11,95'e karşı %5,95). Tasarım sonucu, ağırlıklı olarak simüle müşteriler üzerine kurulu bir müfredatın bir oturumun ikinci yarısını eğittiğidir: isteksiz bir anlatıyı açığa çıkarmak tam olarak simüle müşterinin atladığı şeydir, bu nedenle müşterinin kendini geri tutmasını sağlayan bir istek metni bunu geri getirir.
 
 ### Bilgi tabanıyla bağlantı
@@ -116,7 +117,6 @@ Mimari, istek yazmanın yapamadığını dayatarak gerçekleştirebilir: [[self-
 
 Pedagojiyi değerlendirmenin ötesinde, simüle öğrenciler **YZ sistemlerini denetlemek için bir test koşumu** olarak hizmet eder — bir YZ’nin gerçek öğrencilere dokunmadan önce çeşitli öğrenen profillerinde nasıl davrandığını yoklamanın kontrollü bir yolu. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas ve ark. (2026)]] bunu gösterir: mevcut [[llm|büyük dil modellerinin]] normatif [[learning-analytics]] önerenleri olarak hareket edip edemediğini denetlemek için üç LLM ile 4.500 sentetik öğrenci vinjeti üretmişler; öğrenci ihtiyacına ilişkin sınırlı duyarlılık ve keskin çapraz model tutarsızlık bulmuşlardır. Simüle kohortları, bir YZ’nin önerilerini zorlamak altında test etmek (yalnızca özel ders araçlarını eğitmek veya değerlendirmek yerine) paradigmaya yönelik artan bir roldür ve [[ai-ed-evaluation|Eğitimde YZ değerlendirmesi]] ile, denetim çeşitli öğrenen tiplerinde farklı muameleyi gün yüzüne çıkarmayı amaçladığında [[equity-in-ai-education]] ile yakından bağlantılıdır.
 
-
 Daha keskin bir geçerlilik testi, bir modelin insan *seçimini* hiç yeniden üretip üretmediğini sorar: uyarlanmış bir [[self-directed-learning|öz yönlendirmeli öğrenme]] oyununda beş öncü model tek bir çözümü sömürdü, oysa 175 insan katılımcı hedefler arasında keşif yaptı; bu nedenle öğrenenlerin yerine geçen bir model, simülasyonun yeniden üretmek için var olduğu davranışı terk etti ([[llm-goal-selection-self-directed-learning-2026|Molinaro ve ark. (2026)]]).
 
 Simülasyon, öğrenenin seçimlerini de önceden test edebilir: [[simulating-learner-task-selection|Noh ve ark. (2026)]], iki gerçek özel ders veri kümesine Toplamsal Faktörler Modeli ve Bayesian [[knowledge-tracing]] uydurmuş ve 1.000 simüle öğrenenin sekiz strateji altında beceriler seçmesine izin vermiştir; riskten kaçınan bir kural diğerlerinin yaklaşık otuz katı fazla uygulama üretmiş ve ustalığın hemen altındaki bir kısıt bunu 1,8×’e düşürmüştür.
@@ -136,61 +136,3 @@ Bir simülatöre karşı eğitim aynı zamanda taşınabilir: TutorLoop’un pek
 - **“LLM öğrenciler yeterince iyi vekillerdir.”** **Simülasyonlar en kolay öğrencileri kapsar ve pek azı doğrulanmıştır**: LLM öğrencilere özel ders veren **on iki öğretmen** **aşırı karmaşık dil, eksik duygu** ve gerçek öğrenenlerden başka kopmalar bildirdi. Vekil, ele alınabilir durumu modeller.
 - **“Bilgi boşluğu olan simüle bir öğrenci, o boşluğu taşıyan bir öğrenen gibi davranır.”** Mistral-7B'de **16 hedefli bilgi bileşenini baskılamak, doğruluğu %10 unutma oranında yaklaşık 0,75'ten %40'ta 0,5'in altına düşürdü**, oysa temel model direnç gösterdi. Bozulma tasarlandı; onu bir öykünme değil kontrollü bir müdahale yapan da budur.
 - **“Kişilik kararlılığı bir model seçimi sorunudur.”** Bu bir **etkileşim tasarımı sorunudur**: **beş LLM'yi üç istek metni tasarımı ve dört ADHD şiddeti kişiliğiyle** çaprazlayan çalışmada, betikli farklar modelden çok istek metni tasarımını izledi. Daha iyi bir model seçmek kararsız bir kişiliği düzeltmez.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenen tarafı kavramların çatı başlığı
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — YZ Destekli Eğitim Araştırması
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Bağlı makaleler
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: hiyerarşik planlama, simüle öğrencileri uzun ufuklarda profilde tutuyor (Radmehr ve ark. 2026)
-
-- [[rudolph-llm-simulated-counselling-clients-2026]] — Simüle danışmanlık müşterileri daha hızlı açıklıyor, böylece eğitilenler kolaylaştırıcı yönlendirmeyi atlıyor
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: Rol yapmadan öğrenen davranışı modellemeye, sadık öğrenci simülasyonu için
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Simülatörle eğitilmiş bir pekiştirmeli öğrenme özel ders aracı çevrimdışı olarak yeni bir gerçek göreve aktarıldı (Xu & Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation and Student Persona Stability
-- [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors
-- [[adaptive-virtual-patient-psychotherapy-training]] — Psikoterapi Eğitimi için Uyarlamalı Sanal Hastalar
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI Standardized Patients
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: sentetik diyaloglar için ince ayarlı özgün öğrenci modeli
-- [[educasim-cs1-instructional-practice]] — EducaSim: üretken ajanlar, öğretmen pratiği için bir CS1 bölümünü simüle eder
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Matematik Öğretmen Eğitiminde Uygulama Pedagojilerine YZ’nin Sorumlu Bütünleştirilmesi
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: öğrencilerin bilişsel evrimini simüle eden üretken ajan
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — İşbirlikçi problem çözme diyaloglarını yeniden üreten ince ayarlı katılımcıya özgü LLM ajanları (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[ai-web-agents-lesson-design-2025]] — YZ Web Ajanları: terkin ve tasarım eleştirisini öngörmek için öğrencilerin dağılımını simüle etmeyi tek bir tanımlayan ajan geçer
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
-- [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: the simulation apparatus as the research instrument (Zhang, Jiang & Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: simüle öğrencilerde ve YZ yardımcılarında matematik performansının, güvenin ve kaygının 28.000 kayıtlık denetimi
-- [[swim-student-writing-simulation-2026]] — bir öğrenci yazma simülatörü için istekleme / SFT / ödül temelli eğitim karşılaştırması
-- [[misconception-acquisition-dynamics-llms-2026]] — bir simülatörün hiç yanlış kanı taşıyabilmesi için eğitim verisinde ne olması gerektiği
-- [[llm-distractor-generation-student-reasoning-2026]] — modellerin hatalı öğrenci akıl yürütmesini nasıl simüle ettiğinin iz düzeyinde analizi
-- [[llm-simulating-student-scientific-thinking-2026]] — 8.820 derse gömülü fen fikrine karşı altı model: simüle akıl yürütmenin genç öğrenenlerin kapsamını, sözcük dağarcığını ve kesinliğini nerede aştığı
-- [[simulated-students-tutoring-dialogues-2026]] — üç özel ders aracılı insan değerlendirmesiyle dokuz öğrenci simülasyon yönteminin yedi ölçütlük kıyaslaması
-- [[simulating-novice-students-machine-unlearning-2026]] — bir simülatörü kararlı bir acemi bilgi düzeyine koymanın bir yolu olarak makine unutma ve öğretme diyaloguyla yeniden öğrenme
-- [[student-development-agent-risk-free-simulation-2025]] — öğrencileri müdahaleye maruz bırakmadan çok ajanlı bir platformda ders sonrası gelişimsel sonuçlarını öngörmek
-- [[preservice-teachers-noticing-ai-simulations-2026]] — eşittir işareti sohbet robotu simülasyonunda öğretmen adaylarının üç haftalık dikkat etme, yorumlama ve şekillendirmesi ile tasarımın neye dikkat etmelerini nasıl yönlendirdiği
-- [[beagle-grounded-learner-emulation-2026]] — öz düzenlemeli öğrenme yapısını isteklemeden mimari olarak dayatan ve insan Turing testini geçen nöro-sembolik bir simülatör
-
-- [[llm-goal-selection-self-directed-learning-2026]] — Dil modeli hedef seçimi, öz yönlendirmeli bir öğrenme görevinde insanlardan ayrışıyor

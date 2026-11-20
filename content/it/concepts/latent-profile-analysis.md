@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -94,26 +96,3 @@ Quattro cautele, ciascuna enunciata nelle pagine fonte:
 - **"L'analisi del profilo latente scopre gruppi che esistono."** La LPA converte la diversità degli apprendenti da rivendicazione retorica in risultato misurabile, e i profili sono un **modello di un continuum diviso a confini scelti**, non generi naturali. Il numero dei profili è una decisione analitica.
 - **"Qualsiasi membro della famiglia delle variabili latenti va bene."** Quale usare **dipende dagli indicatori**: **LCA per indicatori categorici**, LPA per quelli continui. Scegliere prima il metodo e poi gli indicatori rende il risultato un artefatto della scelta.
 - **"I profili sono confrontabili tra studi."** Chen e colleghi hanno profilato **128 insegnanti taiwanesi in formazione** su cinque costrutti [[technology-acceptance-model|TAM]]/UTAUT2, mentre Acquah e colleghi hanno profilato **509 studenti universitari ghanesi**. Indicatori diversi in popolazioni diverse non producono etichette di profilo commensurabili.
-
-## Concetti collegati
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Articoli collegati
-- [[ai-attitude-latent-profiles-career-development-2026]] — Evidenza di ritenzione secondo Lo–Mendell–Rubin per quattro profili di atteggiamento verso l'IA in 379 studenti di economia
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Analisi di transizione del profilo latente su tre ondate dell'adattamento psicologico
-- [[liang-ai-learning-motivation-sdt-2026]] — Analisi di transizione latente di tre profili motivazionali nell'arco di un anno
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Profili con k-means; disaccordo tra silhouette e Calinski–Harabasz; ARI 0,989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Aggregazione gerarchica e k-means in quattro personas di adozione della GenAI
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Quattro profili di credenze dei docenti sull'IA da 40.680 docenti in 49 sistemi, con stabilità dell'allineamento

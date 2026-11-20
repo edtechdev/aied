@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -48,7 +49,3 @@ ai_assist:
 ## 注記と注意点
 
 その速さは売り文句であると同時にリスクでもあります。1 日で作るものは研究上の問いではなく実際の教室の課題を狙うため、ここにあるものはどれも評価を伴わず、アプリが何をするかという主張は教室で試すべきものです。GitHub の組織には公開リポジトリが 32 ある一方でギャラリーの掲載は 34 で、いずれも Apache-2.0 でソースが入手できるため、アプリを読んだり自分でホストしたりできます。ローカル完結型という設計はアプリごとに確認すべき主張であり、教師は学生向けのツールをクラスに出す前に確かめるべきです。
-
-## 関連する概念
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

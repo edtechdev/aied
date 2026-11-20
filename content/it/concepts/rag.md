@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -65,32 +67,3 @@ Il RAG ha un ruolo complementare al fine-tuning delle [[llm]] — il recupero fo
 - **«La qualità del recupero è l'intero problema.»** Il recupero è necessario e non sufficiente. La risposta ancorata ha ottenuto **9,05 su 10 con un intervallo di confidenza bootstrap sulla differenza che esclude lo zero** ed è stata **più spesso ancorata al materiale che il rispondente aveva effettivamente visto (98% vs. 81%)** — quindi il guadagno misurato è nella fedeltà all'evidenza, e l'evidenza deve essere corretta perché quella fedeltà significhi qualcosa.
 - **«Il recupero su pagina singola generalizza.»** Entrambi gli scarti **si sono quasi triplicati su domande che richiedevano materiale da più di una pagina** (punteggi cross-page 9,93 contro una baseline inferiore). Il ragionamento multi-documento è dove i sistemi ancorati degradano, ed è esattamente dove i corsi pongono le domande più difficili.
 - **«Il recupero elimina la necessità di scrutinio.»** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dai materiali approvati di un singolo modulo per servire studenti che esitano a chiedere a una persona — un ambito difendibile. I corpus ristretti e approvati sono ciò che rende significativo l'ancoraggio; la sola etichetta no.
-
-## Concetti collegati
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Articoli collegati
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un assistente per le lezioni fondato sul curricolo il cui risparmio di tempo non ha superato quello di un chatbot generale
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education

@@ -24,6 +24,8 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation, numbers]
+connected_concepts: [ai-literacy, information-and-media-literacy, teacher-ai-competency, educational-policy-ai]
+connected_articles: [ai-adoption-readiness-ukraine-education-managers-2026, adarkwah-genai-unesco-policy-2026]
 ---
 
 > **Synthesis:** Governments are splitting into two camps on [[generative-ai|generative AI]] in schools — scaling tools or restricting them — and the iRAISE report argues that both leave the same work undone. Drawing on a structured review, policy documents from France, Canada, Egypt and Qatar, and consultations with officials and NGOs, it reframes [[ai-literacy|AI literacy]] as the newest layer of [[information-and-media-literacy|digital and media literacy]] rather than a separate subject. Its central claim is an implementation gap: most countries name media and information literacy in national frameworks, far fewer put it into curricula in any depth, and almost none measure whether students acquire it.
@@ -75,18 +77,6 @@ The conclusion across all four is the report's most portable finding: infrastruc
 - The four case studies include no low-income country and no Asian or South American system, so transfer to very different settings is untested.
 - Country indicators are approximate and, by the authors' own note, not fully harmonized.
 - The report proposes a Universal Learning & AI Literacy Toolkit but evaluates no implementation, so its recommendations are design proposals rather than tested interventions.
-
-## Connected Concepts
-
-- [[ai-literacy]] — where the framework-to-curriculum gap lands
-- [[information-and-media-literacy]] — the foundation the report builds on
-- [[teacher-ai-competency]] — training, time and confidence as working conditions
-- [[educational-policy-ai]] — inter-ministerial coordination and procurement
-
-## Connected Articles
-
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — readiness as a management and policy problem rather than an individual skill
-- [[adarkwah-genai-unesco-policy-2026]] — how UNESCO policy guidance frames national AI literacy work
 
 ## Citation
 

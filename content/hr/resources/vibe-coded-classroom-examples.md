@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,12 +43,3 @@ Nastavnici u svakoj disciplini koji žele razrađen primjer alata svoje vrste pr
 ## Napomene i upozorenja
 
 Ovo su nastavne demonstracije, a ne evaluirane intervencije: stranica ne izvještava o dokazima o ishodima učenja ni za jednu od njih, a nekoliko ih je autor sam izgradio, a ne potječu iz samostalne razredne upotrebe. Kvaliteta izrade prati model i broj iteracija, pa primjer koji je radio u jednoj verziji modela može kasnije skrenuti ili se pokvariti, a generirani alati dovoljno često netočno navode činjenice da je vlastiti popis za provjeru na stranici upravo provjera svakog broja prema izvorima koje alat navodi. Galerija miješa Bowenov rad s prilozima drugih edukatora i poveznicama trećih strana koje mogu prestati raditi. Za čitanje nije potreban račun; stranica je besplatna, dok su Bowenove radionice i savjetovanje plaćeni.
-
-## Povezani pojmovi
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

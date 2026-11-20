@@ -23,8 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
-
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -106,58 +106,6 @@ La littérature sur l'entraînement des fonctions exécutives est mince et jeune
 - **« La crédibilité d'un agent conversationnel suit son exactitude. »** **Les utilisateurs lisent la crédibilité de l'agent socialement.** La **compétence** perçue de ChatGPT prédisait **directement** la crédibilité de sa rétroaction, tandis que la **chaleur** perçue n'agissait que **par** cette voie. Un agent chaleureux et compétent en apparence gagne la confiance sur la présentation, un axe distinct de l'exactitude.
 - **« Les partenaires de critique à base de LLM remplacent le jugement de l'apprenant. »** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] montrent concrètement le versant de la **préservation** : la valeur tient à ce que la pensée de l'apprenant reste intacte, et non à ce que la critique soit produite à sa place.
 - **« Les données probantes de la revue parapluie sur les agents conversationnels sont concluantes. »** La [[conversational-ai-agents-umbrella-review-2026|revue parapluie des agents d'IAC]] synthétise des revues consacrées aux agents d'IAC, et la force d'une revue parapluie est bornée par la qualité des revues qu'elle rassemble.
-
-## Concepts liés
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-- [[executive-function]]
-
-## Articles liés
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement dans les dialogues étudiant-IA (Rho et al. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Soutenir l'accompagnement étudiant par l'IA : étude d'implantation et d'impact sur quatre ans d'un chatbot institutionnel (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparer la notation par ChatGPT, par les pairs et par l'enseignant selon les niveaux de qualité des projets (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — Des agents LLM appliquant le cadre 5E à l'acquisition de la grammaire anglaise (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Les points de vue des étudiants sur les chatbots d'IA générative (méthodes mixtes)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Des personas d'adoption pour les chatbots d'IA
-- [[conversational-ai-agents-umbrella-review-2026]] — Revue parapluie des agents d'IA conversationnelle en éducation
-- [[conversational-ai-tutors-framework]] — Cadre des tuteurs d'IA conversationnelle
-- [[measuring-llm-tutors-teach-vs-solve]] — Mesurer si les tuteurs à base de LLM enseignent ou résolvent
-- [[stanford-evidence-base-ai-k12-2026]] — IA spécifique au tutorat par rapport à l'IA générale
-- [[rethinking-scaffolding-llm-tutors]] — Repenser l'étayage dans les tuteurs à base de LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revue de cadrage des agents conversationnels pour les programmeurs débutants
-- [[ba-ai-agents-cscl-review-2026]] — Revue des agents d'IA dans l'apprentissage collaboratif assisté par ordinateur
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Genre et motivation dans la réussite avec l'IA générative
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Compagnon d'IA à rôle adaptatif pour le cercle de lecture au primaire ; plafond affectif des agents à rôle fixe (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — L'IA générative comme agent et comme espace collaboratif dans les dynamiques de petit groupe (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturellement sensible alimenté par l'IA pour la détection du stress et le soutien au bien-être parmi des étudiants universitaires pakistanais, utilisant le TAL et l'apprentissage automatique
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par l'humain produisent des gains d'apprentissage équivalents au GRE
-
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Dix études de chatbots ciblant les fonctions exécutives
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach : étayer la recherche d'aide ciblée auprès de l'IA pendant la résolution de problèmes
-- [[fang-chatbot-psychosocial-extended-use-2025]] — Texte, voix neutre et voix engageante sur quatre semaines : la modalité a changé l'échange, pas le résultat psychosocial (Fang et al. 2025)
 
 ## Citation
 

@@ -30,6 +30,7 @@ verified: [citation]
 translation_of: "resources/vfwa"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -51,11 +52,3 @@ Programma- en moduleleiders in het hoger onderwijs die nog steeds willen dat uit
 Het model is niet op schaal geëvalueerd. Het paper zegt uitdrukkelijk dat er nog geen steekproef, instrument of gemeten uitkomst bestaat, en dat er pilots nodig zijn om te testen of artefacten uit fase 1 het vertrouwen van beoordelaars of de interpretatieve consistentie verhogen, of studenten het ontwerp als rechtvaardiger ervaren, en hoe een discipline een toereikendheidsdrempel vaststelt zonder van fase 1 een tweede tentamen te maken.
 
 Twee praktische kosten zijn reëel. Fase 1 vereist geobserveerde sessies en veilige vastlegging op schaal, en meertalige opname en vertaling zijn voorwaarden, geen extra's. En het interpretatieve oordeel wordt bewust aan beoordelaars overgelaten: het model veronderstelt disciplinaire expertise die niet te automatiseren is, wat net zo goed een aanname over personele inzet is als over ontwerp.
-
-## Gerelateerde concepten
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

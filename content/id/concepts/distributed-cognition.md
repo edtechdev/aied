@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +51,6 @@ Sistem AI generatif dan interaktif mendistribusikan ulang kerja kognitif dengan 
 
 - **Kognisi diperluas sebagai pilihan desain, bukan sifat alat.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa dan Duarte Arias (2026)]] berargumen bahwa AI generatif secara default bersifat substitutif karena ia mengerjakan tugas kognitifnya, tetapi sistem yang sama menjadi komplementer ketika ia mengkritik draf atau menyuplai umpan balik yang harus dievaluasi pembelajar. Kerangka pikiran diperluas mereka menjadikan satuan analisisnya artefak beserta penggunaannya, yaitu versi normatif dari pertanyaan distribusi di halaman ini.
 
-
 ### Kognisi terdistribusi dan perspektif terkait
 
 Basis pengetahuan memperlakukan kognisi terdistribusi bersama tradisi teoretis tetangganya, yang saling tumpang tindih tetapi tidak identik:
@@ -58,7 +59,6 @@ Basis pengetahuan memperlakukan kognisi terdistribusi bersama tradisi teoretis t
 - **[[embodied-learning|Kognisi terwujud]]** menekankan peran tubuh dan interaksi sensorimotor, dengan argumen bahwa berpikir berakar pada keterlibatan tubuh dan bukan pada manipulasi simbol abstrak.
 - **[[cognitive-offloading]]** adalah mekanisme praktis ketika kerja kognitif diserahkan kepada sistem eksternal (termasuk AI), dan merupakan padanan yang sarat risiko bagi uraian deskriptif DCog.
 - **Kognisi diperluas / tesis pikiran diperluas** (dipakai dalam karya posthumanis) menyatakan bahwa artefak eksternal dapat menjadi bagian *konstitutif* suatu sistem kognitif, bukan sekadar instrumen — klaim yang lebih kuat bahwa AI adalah bagian dari pikiran pembelajar itu sendiri.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
-
 
 ### Kognisi siapa? Masalah satuan analisis
 
@@ -77,35 +77,3 @@ Fowlin et al. (2026) mengoperasionalkan pembagian itu sebagai urutan dua fase: b
 - **"Dokumen bersama berarti kognisi bersama."** Profil berbasis volume dari **97 pembelajar** berbeda dalam **pengetahuan awal dan kepengarangan** tetapi **tidak dalam prompting berperan aktif atau tingkat pemahaman**. Volume partisipasi mengukur paparan, bukan distribusi kerja kognitif — jadi [[learning-analytics|analitik]] penggunaan alat kolaboratif hanya sedikit berbicara tentang siapa yang berpikir.
 - **"Semua orang mengalihkan beban ke AI secara setara."** Guru pemula **mendelegasikan sebagian besar beban kognitif desain instruksional kepada sistem AI**, sehingga sampai pada **distribusi yang didominasi AI** di mana mereka sebagian besar menerima respons, sedangkan guru berpengalaman dan berpengetahuan AI mendistribusikan secara berbeda. Keahlian tampak pada di mana beban diletakkan, bukan hanya pada seberapa banyak AI dipakai.
 - **"Semakin banyak keterlibatan AI berarti semakin banyak dukungan."** Distribusi yang didominasi AI adalah pola yang perlu diwaspadai, karena porsi kerja kognitif manusia menyusut sementara volume keluaran naik. Sistem dapat tampak lebih mampu justru ketika pengguna mengerjakan lebih sedikit.
-
-## Konsep terkait
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## Artikel terkait
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Studi empiris pemecahan masalah kolaboratif manusia–AI melalui lensa kognisi terdistribusi + ko-regulasi
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI sebagai mediator pedagogis yang mendistribusikan ulang kognisi di antara aktor manusia dan non-manusia
-- [[ai-cognitive-partner-co-regulation-learning]] — AI sebagai mitra kognitif dalam berpikir yang diregulasi bersama
-- [[ensemble-cognition-philosophy-ai-education]] — Kerangka Ensemble Cognition yang mengonsep ulang berpikir sebagai interaksi manusia–AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pembelajar posthuman dengan kognisi yang terdistribusi di seluruh sistem biologis dan artifisial
-- [[fowlin-operationalizing-learning-principles-ai]] — Mengoperasionalkan kognisi terdistribusi bersama pembelajaran eksperiensial dan situasional
-- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi milik bersama kognitif: AI dan regenerasi keahlian
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Interaksi guru–AI dalam desain pelajaran: kognisi terdistribusi yang didominasi AI vs komplementer menurut pengalaman dan kecakapan (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI sebagai agen dan ruang kolaboratif: bagaimana konfigurasi akses mendistribusikan kognisi kelompok (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: lima jenis interaksi dan empat peran dari penggunaan ChatGPT mandiri
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Memori transaktif dengan GenAI: pembagian kerja dan transformasi reflektif memediasi berpikir kritis (Akgun & Toker 2026)
-
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Mengapa pembelajar individu adalah satuan analisis yang keliru
-- [[rivera-novoa-genai-extended-cognition-2026]] — Kognisi diperluas dalam pembelajaran sains: GenAI substitutif secara default, komplementer secara desain (Rivera-Novoa & Duarte Arias 2026)
-

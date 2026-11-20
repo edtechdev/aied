@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -44,7 +46,6 @@ updated: "2026-11-08T10:26:27-05:00"
 وعقبة متكررة أمام التغيير هي الفجوة بين نية السياسة النازلة من الأعلى وواقع الصف. فوجد [[genai-policies-higher-ed-computing|التحليل المقارن للسياسات]] أنه بينما تُشجّع 63% من سياسات جامعات R1 الأمريكية استخدام الذكاء الاصطناعي التوليدي، يمنعه نصف مقررات مساقات الحوسبة منعًا صريحًا، تاركًا المدرّسين يرتجلون قواعد محلية غير متسقة. وبالمثل، توثّق [[ai-uk-higher-education-policy-2026|مراجعة سياسة التعليم العالي في المملكة المتحدة]] انقسامًا بين المؤسسات المكثّفة البحثًا والموجّهة للتعليم، مع انتقاد الإرشاد الوطني لافتقاره التخصيص وقوة الإنفاذ، بينما يُظهر [[institutional-governance-ai-universities|تحليل الحوكمة المؤسسية]] أن السياسات على مستوى الجامعة تُعظّم أمن البيانات وتخفيف المخاطر بينما تركّز سياسات [[k-12|المدرسة]] (حيث توجد) على التربية — وهو تباعد بنيوي يقصر عن توقّعات الاعتماد الأكاديمي بشأن إدماج موحَّد لـ[[curriculum-design|المنهج]] والسياسة والتقييم والبنية التحتية.
 
 يجعل ردّ منشور على دراسة تمريض وحدةَ التحليل صريحة: يُحاجّ [[shankar-institutional-ecosystems-ai-nursing-2026|شانكار (2026)]] بأن إطاراً مثل [[tpack]] يلتقط المربّين الأفراد ويُبقي المؤسسة خارج النموذج. وقراءةً بعلم التنفيذ، يتوقف التبنّي على أربعة مستويات في آنٍ واحد: التدخّل، والسياق التنظيمي الداخلي، وبيئة السياسة الخارجية، والأفراد المعنيّون. والاقتراح الملموس هو تشغيل الإطار الموحّد لبحوث التنفيذ كقائمة تحقّق للجاهزية تغطي انخراط القيادة والبنية التحتية المتاحة وقدرة أعضاء هيئة التدريس قبل تبنّي أي أداة، ما ينقل السؤال من مَن يحتاج التدريب إلى هل المؤسسة جاهزة للنشر.
-
 
 ## إدارة تغيير الذكاء الاصطناعي في البحث التعليمي
 
@@ -83,34 +84,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«القصد الاستراتيجي يخلق القدرة.»** **7% فقط من المؤسسات** أنشأت أدوار قيادة عليا للذكاء الاصطناعي رغم أن **49% ترى الذكاء الاصطناعي أولوية استراتيجية**. والفجوة بين الإعلان والبنية، وهي الإخفاق المتكرر في إدارة تغيير الذكاء الاصطناعي.
 - **«تبنّي أداة ذكاء اصطناعي حدث.»** **الاستدامة خاصية للمنظّمة لا للأداة** — وتُبيّن تجربة CSUN للرسائل النصية المقياس الزمني. فقد جرى التقييم أربع سنوات لأن المتانة هي ما كان يحتاج اختبارًا.
 - **«تحتاج المؤسسات إلى ردّ فعل أسرع لا إلى استباق.»** **القيادة الاستباقية** هي الخيط المكمّل: فتجد [[baroudi-anticipatory-governance-ai-higher-ed-2026|المراجعة الاستقصائية]] أن المؤسسات ينبغي أن تنتقل من الحوكمة **التفاعلية إلى حوكمة قائمة على الاستباق**. والردّ بكفاءة على تقنية وصلت بالفعل هو ما توثّق الأدلة إخفاقه.
-
-## المفاهيم المتصلة
-
-- [[governance]] — بنى السياسة والإشراف التي تُجرّدها إدارة التغيير
-- [[educational-policy-ai]] — نية سياسة الذكاء الاصطناعي الوطنية والمؤسسية التي ينبغي لإدارة التغيير أن تنقلها إلى الممارسة
-- [[educational-development]] — بناء قدرة أعضاء هيئة التدريس وتوجّههم التربوي لإدماج الذكاء الاصطناعي
-- [[administrator]] — القيادة والحوكمة الاستباقية كوكلاء تغيير
-- [[ai-literacy]] — القدرة المقطوعة الكامنة تحت التبنّي المؤسسي المسؤول
-- [[equity-in-ai-education]] — ضمان توزّع مكاسب التغيير بالتساوي على المؤسسات والمتعلّمين
-- [[technology-acceptance-model]] — محرّكات التبنّي التي تُفسّر كيف ينتشر التغيير
-- [[academic-integrity]] — المرساة التنظيمية المركزية التي يُنظَّم حولها إصلاح التقييم
-- [[student-support-and-success]] — إدامة برنامج دعم بعد التجربة الأولية
-
-## المقالات المتصلة
-- [[packard-thinking-partner-framework-adult-learners-2026]] — رصد 15 إلى 20 ساعة من إعادة التصميم لكل مقرر مُدمج بالذكاء الاصطناعي قبل التعديل المستمر
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — global Delphi consensus on eight-area GenAI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — scoping review of anticipatory governance and leadership
-- [[ai-adaptation-gap-higher-education-2026]] — stakeholder gaps in AI use, attitudes, and trust across students, faculty, and staff
-- [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
-- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)

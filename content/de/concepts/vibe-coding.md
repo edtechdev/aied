@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -101,31 +103,3 @@ Eine Fallstudie auf Ebene der Fakultät in dieser Wissensbasis liefert die organ
 **„‚Reines' Vibe Coding ist das, was der Begriff bedeutet, daher spielt die Unterscheidung keine Rolle."** Sie spielt für die Bewertung und für die Sicherheit eine Rolle. Beim reinen Vibe Coding wird der Quellcode nie gelesen oder bearbeitet; beurteilt wird nur das Verhalten. Bei code-sichtbarer Arbeit liest die nutzende Person, was erzeugt wurde. Das sind unterschiedliche Tätigkeiten mit unterschiedlichen Fehlerprofilen, und eine Studie zur einen erlaubt keine Aussagen über die andere.
 
 **„Wenn die App läuft, ist der erzeugte Code in Ordnung."** Laufen ist ein schwacher Test. Veracodes Analyse von 2025 ergab, dass nur 55% des KI-generierten Codes sicher waren, daher brauchen per Vibe Coding gebaute Werkzeuge für den Unterricht weiterhin einen Prüfdurchgang, bevor sie Studierendendaten verarbeiten oder sich mit einem schützenswerten System verbinden. Verhaltensbezogene Bewertung bestätigt die Pfade, die eine nutzende Person zufällig durchläuft, und sagt nichts über diejenigen aus, die sie nicht durchläuft.
-
-## Verbundene Konzepte
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Verbundene Artikel
-
-- [[vibe-coding-writing-cs-achievement-2026]] — Leistung in Informatik und Schreibfähigkeit sagen Vibe-Coding-Fertigkeit voraus (CHI 2026, empirische Studie)
-- [[gaide-vibe-coding-k12-teachers]] — Ein leitendes Rahmenwerk für K-12-Lehrkräfte, um KI-gestützte Lerntechnologien durch Vibe Coding zu erstellen
-- [[vibe-coding-programming-process-visualizer]] — Von der Idee zum Klassenraum in Tagen: mit „Vibe Coding“ einen Programmierprozess-Visualisierer aus IDE-Aktivitätsprotokollen erstellen
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe Coding erstellte zwei Ingenieur-Simulationen in Stunden; das Diagnostizieren eines Protokollfehlers brauchte weiterhin die Dozierende bzw. den Dozierenden
-- [[prompt-problems-nl-programming-mistakes]] — Verständnis von Wahrnehmungen, Fehlern und Debugging-Ansätzen von Studierenden bei der Lösung von Programmieraufgaben in natürlicher Sprache
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn mit Generativer KI: ein theoretisch fundiertes Rahmenwerk für Artefaktkonstruktion in der Oberstufe
-- [[reshaping-cs-education-genai]] — Grundständige Informatikbildung für Generative KI neu gestalten
-- [[flowcode-ai-creative-coding]] — Flowcode: eine KI-gestützte Programmierumgebung zum Scaffolden von Iteration in der kreativen Computing-Bildung
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — KI-Intrapreneurship: Fakultäten bauen ihre eigenen Werkzeuge, und die organisationalen Bedingungen, die entscheiden, ob der Impuls überlebt (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Ein Werkzeug, ein Geschmack? Wie Vibe Coding kollektive Vielfalt gegen individuelle Kreativität eintauscht
-- [[ho-invariant-core-faculty-development-2027]] — Von Lehrkräften selbst erstellte Werkzeuge als Bewertungsstrategie: Prozessnachweise, die mehr Personal nicht liefern kann (Ho 2026)

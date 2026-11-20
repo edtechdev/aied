@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -64,7 +65,3 @@ pemahaman kode, itulah sebabnya skor bersifat usulan yang disetujui pengajar dan
 menyarankan taruhannya dijaga tetap rendah. Tidak ada lisensi dan tidak ada repositori sumber yang
 diterbitkan, dan karena tautannya membawa pertanyaan, tautan itu mencapai beberapa kilobyte, cukup
 panjang untuk terpotong di kotak pesan sistem manajemen pembelajaran.
-
-## Konsep terkait
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

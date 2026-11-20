@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -109,50 +111,3 @@ ai_assist:
 
 - Тримайте розрізнення здобувач/студент явним у вибірці та повідомляйте, кого воно виключає.
 - Досліджуйте й звинуваченого, а не лише користувача; бік процедури — тонша половина цієї літератури.
-
-## Пов’язані поняття
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Як здобувачі сприймають, взаємодіють зі ШІ і як він на них впливає
-- [[learner-identity]] — Ким здобувачі стають у відношенні до дисципліни та до ШІ
-- [[agency]] — Що здобувачі ще контролюють і обирають
-- [[student-ai-interaction]] — Про що здобувачі справді питають ШІ і як розвиваються діалоги
-- [[cognitive-offloading]] — Надмірна спиральність і заміщення ШІ мислення
-- [[self-regulated-learning]] — Планування, моніторинг і коригування власного навчання
-- [[help-seeking]] — Просити допомоги добре та способи невдачі, коли здобувачі цього не роблять
-- [[metacognition]] — Знати, що ти розумієш і чого не розумієш
-- [[motivation]] — Чому здобувачі наполегливо продовжують або зупиняються
-- [[self-efficacy]] — Упевненість здобувачів у власній здатності
-- [[student-engagement]] — Поведінкова, емоційна та когнітивна залученість
-- [[prior-knowledge]] — Тлові знання, які вирішують, чи стане підтримка навчанням
-- [[student-modeling]] — Представлення здобувача всередині системи
-- [[knowledge-tracing]] — Оцінювання засвоєння навичок у часі
-- [[simulating-students]] — Симульовані LLM здобувачі як умовні замінники
-- [[ai-literacy]] — Здатність, яка вирішує, чи користуватимуться здобувачі ШІ добре
-- [[equity-in-ai-education]] — Хто має користь і хто залишається поза
-- [[well-being]] — Тривога, стрес і афективна вартість навчання, опосередкованого ШІ
-- [[misconceptions]] — Ментальні моделі, з якими здобувачі приходять до ШІ
-- [[stakeholders]] — Інший бік того самого поля: викладачі, лідери, проєктувальники
-- [[assessment]] — Які здібності здобувача взагалі стають видимими
-
-## Пов’язані статті
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Взірці спиральності та грамотність оцінювання розділяють наслідки для студентів
-- [[student-perceptions-ai-study-productivity-2026]] — Здобувачі повідомляють про здобутки в ефективності поряд із занепокоєннями щодо залежності
-- [[student-llm-interaction-taxonomy-review-2026]] — Таксономія навчально орієнтованої взаємодії студента з LLM
-- [[student-ai-conversations-cognitive-engagement-2026]] — Дисциплінарно специфічні взірці в чатах студента зі ШІ
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Здобутки в допоможеній продуктивності без самостійної здатності
-- [[genai-performance-vs-learning]] — Чому допоможену продуктивність і недопоможене навчання потрібно вимірювати окремо
-- [[shaw-nave-cognitive-surrender-2026]] — Когнітивна капітуляція як схильність, а не випадковість
-- [[metacognitively-discordant-completion-genai-2026]] — Здобувачі, які помічають, що не розуміють, і все одно подають роботу
-- [[verification-quality-reliance-calibration-genai-2026]] — Якість перевірки та калібрування спиральності
-- [[simulating-students-llm-review-2026]] — Симульовані студенти: архітектура, механізми та межі
-- [[stanbkt-bayesian-knowledge-tracing]] — Оцінювання параметрів у байєсівському відстеженні знань
-- [[demographic-signals-llm-student-assessment-2026]] — Неявні та явні демографічні сигнали в оцінюванні на основі LLM
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — ШІ-грамотність, залученість та психологічний капітал
-- [[genai-student-experiences-uk-he-survey-2026]] — Студенти описують тяжіння до найменших зусиль
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Студенти про те, чи є GenAI інструментом для списування, чи партнером у навчанні
-- [[munoz-misconduct-allegation-evidence-2026]] — Що насправді містять як доказ файли звернень про порушення
-- [[wright-transcription-not-generation-2026]] — Надмірно широкі правила щодо ШІ і студенти, яких вони вловлюють
-- [[sharma-judgment-visible-genai-assessment-2026]] — Доброчесність як оцінювальне судження, а не дотримання правил
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Емоційна вартість віддаленого прокторінгу та його витрати для справедливості серед студентів

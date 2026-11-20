@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -159,54 +161,3 @@ ai_assist:
 - **"महत्वपूर्ण संयुक्त प्रभाव का अर्थ है कि हस्तक्षेप काम करता है।"** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu और सहयोगियों का K-12 एआई शिक्षा का मेटा-विश्लेषण]] (**16 अध्ययन, 57 प्रभाव आकार, g = 0.892**) बड़ा प्रभाव पाया, हालाँकि लेखक उस पर शर्त लगाते हैं। सोलह अध्ययन एक सँकरा आधार है, और उस आधार पर बड़ा प्रभाव एक परिकल्पना है जिसका अंतराल चौड़ा है।
 - **"समीक्षक स्वतः क्षेत्र की गुणवत्ता सटीक रूप से रिपोर्ट करते हैं।"** समीक्षा के कार्य में **पद्धतिगत गुणवत्ता उजागर करना** शामिल है, और समीक्षाएँ **नियमित रूप से पाती हैं कि क्षेत्र अल्प-शक्ति, पूर्व-प्रयोगात्मक या अर्ध-प्रयोगात्मक डिज़ाइनों** पर तत्काल पश्च-परीक्षणों के साथ निर्भर है। संयुक्त संख्या उन कमज़ोरियों को विरासत में लेती है।
 - **"संयोजन सदैव साक्ष्य-बल बढ़ाता है।"** विदेशी-भाषा कौशल के लिए [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen और Wei का मेटा-विश्लेषण]] **40 अध्ययनों** का संयोजन बहुत भिन्न तकनीकों के पार करता है, और औसत उनमें से किसी विशिष्ट हस्तक्षेप का वर्णन नहीं करता।
-
-## संबंधित अवधारणाएँ
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — एआई-सहायित शैक्षिक अनुसंधान
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## संबंधित लेख
-
-- [[kim-ai-embodied-learning-review-2026]] — अवतारित अधिगम और AI की समीक्षा
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — चार अध्ययनों का मेटा-विश्लेषण: बड़ा प्रभाव, पर Hartung-Knapp के बाद अनुमान शून्य को बाहर नहीं करता (Govea Sotomayor & García Ortiz 2026)
-
-- [[edurev-100741-tpack-genai-review]] — एक टीपैक दृष्टिकोण से छात्र अधिगम में जेनरेटिव एआई की व्यवस्थित समीक्षा
-- [[genai-meta-analysis-programming-learning]] — प्रोग्रामिंग में उत्पादकता और अधिगम पर जेनरेटिव एआई के प्रभाव का मेटा-विश्लेषण
-- [[ai-vocational-education-training-review]] — व्यावसायिक शिक्षा और प्रशिक्षण में एआई की पहली व्यवस्थित समीक्षा
-- [[ai-collaborative-learning-systematic-review]] — एआई-संचालित सहयोगी अधिगम की प्रिस्मा व्यवस्थित समीक्षा
-- [[genai-higher-education-systematic-review-2026]] — उच्च शिक्षा में जेनरेटिव एआई की व्यवस्थित समीक्षा
-- [[zerkouk-comprehensive-review-its-2025]] — इंटेलिजेंट ट्यूशिंग सिस्टम की व्यापक व्यवस्थित समीक्षा
-- [[chatgpt-critical-creative-thinking-review]] — चैटजीपीटी और आलोचनात्मक/रचनात्मक सोच की व्यवस्थित समीक्षा
-- [[stanford-evidence-base-ai-k12-2026]] — के-12 में एआई का साक्ष्य आधार
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — एआई साक्षरता हस्तक्षेप प्रभावों का मेटा-विश्लेषण
-- [[genai-writing-performance-meta-analysis-2026]] — जेनरेटिव एआई-समर्थित द्वितीय-भाषा लेखन का मेटा-विश्लेषण: चरम विषमता और गुणवत्ता-संचालित मध्यस्थ से कमज़ोर किया गया एक बड़ा एकत्रित प्रभाव
-- [[ai-literacy-heptagon-2026]] — एआई साक्षरता आयामों की समेकित साहित्य समीक्षा (प्रिस्मा-निर्देशित)
-- [[genai-scenario-based-healthcare-education-2026]] — परिदृश्य-आधारित स्वास्थ्य सेवा शिक्षा में जेनरेटिव एआई की व्यवस्थित समीक्षा (नेतो एट अल. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 22 एआई-एकीकरण अध्ययनों को फेसेट्स + एसएएमआर से वर्गीकृत करने वाली मानचित्रण समीक्षा; अधिकांश प्रतिस्थापन/संवर्धन पर
-- [[agarwal-ethical-values-norms-aied-2026]] — एआई शिक्षा के लिए नैतिक मूल्य और मानदंड
-- [[li-language-educators-genai-review-2026]] — जेनरेटिव एआई के साथ भाषा शिक्षकों के अभ्यास और विकास
-- [[dabaghi-ai-dyslexia-education-review-2026]] — शिक्षा में डिस्लेक्सिया वाले लोगों की मदद के लिए एआई
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — शिक्षा में चैटजीपीटी: एक कारण की खोज में एक प्रभाव (मीडिया-तुलना आलोचना)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — मेटा-मेटा-विश्लेषण: पूर्वाग्रह-समायोजित एआई प्रभाव रिपोर्ट किए गए आकार का ~1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — अनुमानित प्रभावी: 14 एआईईडी मेटा-विश्लेषणों का फोरेंसिक ऑडिट
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — के-12 एआई-आधारित शिक्षण में शिक्षक हस्तक्षेप: एक व्यवस्थित समीक्षा
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — विदेशी भाषा कौशल के लिए डिजिटल और एआई उपकरणों का मेटा-विश्लेषण: अभिकल्प मध्यस्थ अर्ध-प्रयोगात्मक प्रभाव प्राक्कलनों को दोगुना से अधिक करता है
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — उच्च शिक्षा में जेनरेटिव एआई का मेटा-विश्लेषण: अवधि बढ़ने पर अल्पकालिक हस्तक्षेप प्रभाव ध्वस्त हो जाते हैं
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — के-12 एआई शिक्षा का मेटा-विश्लेषण: शून्य मध्यस्थों और मापन में मानी गई विषमता के साथ बड़ा प्रभाव
-- [[yalcin-genai-programming-education-systematic-review-2026]] — प्रोग्रामिंग शिक्षा में जेनरेटिव एआई की व्यवस्थित समीक्षा: 46 में से 26 अध्ययनों में पतला शैक्षणिक रिपोर्टिंग
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — उच्च शिक्षा में जेनरेटिव एआई, संज्ञानात्मक ऑफलोडिंग और शिक्षार्थी सक्रियता का मानचित्रण करने वाली 123-अध्ययन scoping समीक्षा
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — जनरेटिव कृत्रिम बुद्धिमत्ता के अधिगम, संज्ञानात्मक और भाषाई परिणामों पर प्रभावों का मेटा-विश्लेषण
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — शैक्षणिक लेखन में जनरेटिव एआई का जिम्मेदार छात्र उपयोग: सीमाओं, शैक्षिक दृष्टिकोणों और साक्ष्य-अंतरालों की एक scoping समीक्षा

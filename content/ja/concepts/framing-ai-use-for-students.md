@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -99,37 +101,3 @@ ai_assist:
 **「道具を禁止すれば、その行動はなくなる。」** それは、見えない道具へと行動を移すだけです。学生はすでに、制度が提供する道具よりも私的に入手した道具を好んでいるため、禁止は利用を、支援や記録、誘導が可能な唯一の環境の外へ押し出します。枠づけの課題は、許可された行動を魅力的なものにすることで、禁止された行動を観察しにくくすることではありません。
 
 **「枠づけは説得なのだから、設計というより修辞である。」** このページが記述する枠づけは設計と対になっています。期待を明確に、繰り返し述べることと、*学生を中心に設計すること*が同時に行われます。設計の代わりに届けられるメッセージが失敗する版であり、学生は述べられた約束と実際の約束の違いを読み取るからです。
-
-## 関連概念
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## 関連記事
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30人の専門家による順序についての総意：生成AIなしで獲得し、それで統合し、そして自分で考える
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — 許可された利用と許可されない利用のそれぞれに対する、課題ごとの透明な根拠（McCorkle 2025）
-- [[moral-panic-genai-classroom]] — 生成AIを混乱として断罪するのではなく、その適切な利用を奨励する
-- [[student-rationalization-ai-writing]] — 学生が学問的な作文におけるAI利用を正当化する「五つの場」
-- [[student-regulatory-awareness-genai]] — 規則を知ることは十分でない：規制の認識と実際の利用
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI不安から戦略的な規制へ
-- [[chatgpt-inoculation-training-verification-2026]] — 予防接種のメッセージと検証行動
-- [[ai-fallibility-warning-help-seeking]] — AIの誤りやすさについての警告が助けを求める行動を増やす
-- [[shame-guilt-ai-regulation-computing-education]] — AI利用の社会的な規制者としての恥と罪悪感
-- [[access-not-enough-ai-tutoring-2026]] — 人間による支援がAIチューリングへの関与を改善する
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDTに基づく生成AIへの関与
-- [[ai-availability-student-motivation]] — AIの利用可能性がどう学生の動機づけを形づくるか
-- [[youtube-frames-chatgpt-education]] — YouTubeが教育におけるChatGPTの利用をどう枠づけるか
-- [[ai-ethics-education-public-discourse]] — 教育におけるAI倫理についての公的な言説
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 教員はAIを批判的・責任ある利用として枠づけ、雇用者は生産性として枠づける
-- [[ssaho-ai-academic-integrity-review-2025]] — 明確な期待を通じて学問的な誠実性の文化を築く

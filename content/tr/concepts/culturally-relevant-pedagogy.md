@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -97,35 +99,3 @@ Bilgi tabanının kendi makalelerine dayanarak eğitimciler ve tasarımcılar k�
 
 - Kültürel içeriği varlık ya da yokluk olarak değil düzeye göre bildirin, çünkü %94'e karşı %6'lık bir varlık oranı hangi %6 olduğu hakkında hiçbir şey söylemez.
 - Pilotları raporlarken öğretmen algısına ilişkin sonuçları öğrenci sonuçlarından açıkça ayırın.
-
-## Bağlı kavramlar
-
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[bias-mitigation]]
-- [[critical-pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[language-learning]]
-- [[cs-education]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-
-## Bağlı makaleler
-
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Taslak yazmadan önce öğretmenlerle kültürel bağlam hakkında görüşen ders planlayıcı (Zhai ve ark. 2026)
-
-- [[llm-cultural-relevance-k12]] — K-12 için kültürel olarak duyarlı pedagojide LLM’ler
-- [[civic-education-ai-lesson-plans]] — Yurttaşlık eğitiminde YZ tarafından üretilen ders planları
-- [[ojeda-ramirez-community-based-ai-learning]] — Topluluk temelli YZ öğrenme
-- [[genai-minoritized-knowledges-disability]] — Üretken YZ ve azınlıkta kalan bilgilerin marjinalleşmesi
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Gana fen–matematik kıyaslaması
-- [[cross-cultural-student-perceptions-genai-computing]] — Üretken YZ kullanımına ilişkin kültürler arası algılar
-- [[international-students-conversational-ai-adaptation]] — Uluslararası öğrenciler ve konuşma dili YZ’si
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamlı ders planlama
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP ve makine öğrenmesi kullanarak Pakistanlı üniversite öğrencileri arasında kültürel olarak duyarlı bir sohbet robotu ile stres tespiti ve sağlık desteği

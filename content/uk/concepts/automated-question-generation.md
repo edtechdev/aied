@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -92,54 +94,3 @@ AQG є ключовим спусковим механізмом [[adaptive-learn
 **«Генерація питань природно персоналізує практику.»** Вона генерує пропозицію, а персоналізація — задача зіставлення. Вироблення більшої кількості пунктів не каже, який пункт конкретний здобувач має побачити наступним, і питання адаптивного відбору — окремий механізм із власними свідченнями.
 
 **«Генерація масштабує оцінювання, не змінюючи те, що оцінювання міряє.»** Вона змінює склад вимірюваного, бо пункти, які добре генеруються, не є репрезентативною вибіркою пунктів, які добре оцінюють. Легко генеровані формати поступово витіснятимуть важче генеровані, що тихо переформатовує конструкт.
-
-## Пов’язані поняття
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Пов’язані статті
-
-- [[genai-medical-education-transformation-review-2026]] — Оглядовий огляд 153 звітів із медичної освіти про генерацію пунктів за допомогою ШІ в порівнянні з якістю пунктів факультету
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Масштабна польова валідація якості іспитів, згенерованих ШІ, через IRT
-- [[generate-then-validate-question-gen]] — Генерація питань «генеруй–валідуй»
-- [[kt4eqg-personalized-question-generation]] — Персоналізована генерація питань через відстеження знань
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Генерація питань на основі LLM для глухих і слабкочуючих здобувачів
-- [[llm-educational-question-cognitive-depth]] — Когнітивна глибина питань, згенерованих LLM
-- [[slidesqaqa-pedagogical-question-generation]] — Педагогічна генерація питань із слайдів
-- [[code-gen]] — CODE-GEN: генерація питань на основі RAG з людиною в циклі
-- [[nsmq-riddles-science-math-benchmark]] — Бенчмарк NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — Персоналізовані завдання на основі інтересів
-- [[llm-difficulty-calibration-programming-exams-2026]] — Калібрування складності на основі LLM
-- [[self-referential-l2-writing-llm-assessment]] — Самореференційне аналітичне оцінювання письма
-- [[cross-dataset-bloom-question-classification]] — Міжнаборова класифікація питань за Блумом
-- [[llm-chatbots-cs-multiple-choice]] — Чатботи на основі LLM і завдання з вибором відповіді з комп’ютерних наук
-- [[socratic-tests-conversational-assessment]] — Сократичні тести: розмовне оцінювання
-- [[llm-turing-test-italian-legal-exams-2026]] — Тест Тюрінга на основі LLM на юридичних іспитах
-- [[razavi-powers-item-difficulty-llm-2026]] — Оцінка складності пунктів за допомогою LLM та ML на основі дерев
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: оцінювання якості математичних пунктів на основі процесу
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Студенти не могли відрізнити завдання з вибору відповіді, згенеровані ШІ, від пунктів ліцензійного іспиту на оцінюваному іспиті, і 18.2% згенерованих пунктів було виключено під час розгляду (Vogt et al. 2026)

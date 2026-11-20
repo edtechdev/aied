@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -77,42 +79,3 @@ ai_assist:
 **「ステークホルダー分析は初期段階の演習である。」** 緊張は運用の中へ持続します。役割は同じシステムを異なって解釈し続けるからです。学生向けの[[personalized-learning|個人化]]の層と教員向けの誠実性ダッシュボードは、二つの位置から見た同じデータであり、一方が調整されるたびに対立は再発します。
 
 **「複数の受け手にわたるアイデンティティは、一つのメッセージがすべてに仕えることを意味する。」** 受け手をまたいで伝えることは、同じ決定を、それを歪めずに異なる言葉へ翻訳することを要求し、それは一つのメッセージを四通りに書き直す以上のものです。
-
-## 関連する概念
-
-- [[learners]] — 学習者：学習者側の概念を包括するもの
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — 組織の AI 支援に関する決定に誰が請求権を持つか
-
-## 関連する記事
-
-- [[genai-student-experiences-uk-he-survey-2026]] — 英国の高等教育における生成 AI の学生経験
-- [[ai-uk-higher-education-policy-2026]] — 英国の高等教育政策における AI（学生と組織）
-- [[ai-campus-wellbeing-tools]] — ウェルビーイングのための AI 駆動ツール
-- [[ai-tpack-mathematics-teacher-education-2026]] — 数学教員養成における AI-TPACK の準備状況
-- [[genai-policies-higher-ed-computing]] — 情報科学における組織の生成 AI 政策
-- [[ethical-ai-higher-ed-game-theory]] — 高等教育における倫理的な AI 利用のための協調ゲームの枠組み
-- [[student-rationalization-ai-writing]] — 学術的な文章における AI 利用についての学生の合理化
-- [[ai-changing-teaching-workflows]] — AI が教授のワークフローをどう変えているか
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — 高等教育における生成 AI のステークホルダー知覚（Humble & Mozelius 2026）
-- [[edtech-privacy-deferral-2026]] — 「あとで直します」：教育、AI、そして教育技術における学生のプライバシーの先送り

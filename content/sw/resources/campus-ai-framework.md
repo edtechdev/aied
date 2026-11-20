@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,10 +46,3 @@ Viongozi wa baraza kuu, naibu-wakuu na CIO wanaamua ni nini wa kusaidia; viongoz
 ## Vidokezo na mambo ya kuzingatia
 
 Mfumo na tovuti vimepewa leseni **CC BY-NC-SA 4.0**, kwa hivyo kubadilisha kinaruhusiwa kwa matumizi yasiyo ya kibiashara na kutoa shukrani na kushirikiana sawa; tovuti inatoa shukrani yake yenyewe iliyopendekezwa. Upangishaji wake na OECD, NIST, ISO/IEC 42001, Sheria ya AI ya EU, FERPA na HIPAA ni kulinganisha kwa mchapishaji mwenyewe na kinapaswa kusomwa kama hilo. Tovuti za kituo ni miradi tofauti, kadhaa na mwandishi yule yule, na zinastahili kujulikana kama seti: [Campus AI Exchange](https://www.campusaiexchange.com/) ni kituo, inashika [ramani za mwingiliano](https://www.campusaiexchange.com/ai-policies-guidelines-map) za sera za AI za kitaasisi na mwongozo wa darasa, [tathmini binafsi ya utawala wa AI](https://www.campusaiexchange.com/ai-governance-assessment), ramani za utawala wa data na nafasi za AI, na maktaba ya nyenzo. Kandokando yake zina[ campusaigovernance.com](https://campusaigovernance.com/) (nyanja tisa za utawala wa AI), [campusairisks.com](https://campusairisks.com/) (Mfumo wa Usimamizi wa Hatari wa AI wa NIST uliotumika kwa nyanja hizo), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), [kiolezo cha mpango wa kupitisha AI cha kiwango cha kitengo](https://unit-ai-adoption-plan.netlify.app/), na maelezo mafupi kuhusu [AI ya wakala kwa watendaji](https://campusaiframework.com/sites). Dira ya Kimkakati pia inasambaa kama hati ya Google iliyoshirikiwa, ambayo inahitaji akaunti ya Google kufungua. Swali fupi la hiari la kuanzia kuhusu jukumu na taasisi linaonekana kuingia; barua pepe ni ya hiari na tovuti yote inaweza kusomwa bila yake.
-
-## Dhana Zilizounganishwa
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

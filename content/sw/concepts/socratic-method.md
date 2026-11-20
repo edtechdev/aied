@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,7 +54,6 @@ Tofauti na walimu wa AI wa mafunzo ya moja kwa moja wanaotoa majibu, walimu wa A
 Mbinu ya Sokratiki inatimiza moja kwa moja kanuni kutoka [[llm-training-and-fine-tuning|EduQwen]]: **tuzo kwa "kuongoza" badala ya "kujibu."** Hata hivyo, urekebishaji wa Sokratiki wa wakati halisi ni ngumu zaidi ya mbinu za kufundisha za karatasi: EduQwen inaboresha kuongoza sahihi katika [[benchmark]] ya chaguo-nyingi, wakati mwalimu wa Sokratiki wa moja kwa moja anapaswa kuamua *lini* kuelekeza, *lini* kutoa kidokezo, na *lini* kujibu — kulingana na ishara za wakati halisi za mwanafunzi. [[affective-tutoring|Hali ya kihisia]] ni mwendeshaji muhimu: mwanafunzi aliyekasirika anaweza kuhitaji jibu fupi la moja kwa moja kabla ya kurudi katika hali ya Sokratiki. Mfumo mkali zaidi unaondoa ualimu kabisa: mwakala wa fizikia ya utangulizi anayeuliza tu anawaomba wanafunzi kutetea utabiri sahihi dhidi ya kigezo kimoja kilichobadilishwa (kugundua pango) na anaweka ujumbe baada ya jibu sahihi usiotofautishwa na ule wa baada ya jibu lisilo sahihi ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 Ubunifu wa vidokezo una umbo lililoandikwa katika uwanja ambao ukurasa huu kwa njia nyingine haugusi. Katika kazi ya marekebisho ya lugha ya pili na wanafunzi 58 wa chuo kikuu katika CEFR A1–B1, muundo ulitoa vidokezo vilivyoongozwa na kuhitaji wanafunzi kubaini marekebisho badala ya kuyapokea ([[lukesova-clue-before-correction-2026|Lukešová na Jennings, 2026]]). Mzigo mdogo wa kiakili na njia za marekebisho zilizobinafsishwa ziliripotiwa hasa kwa wanafunzi ambao tayari walikuwa na maarifa ya awali ya kutosha kufanya kazi kwa kidokezo, na kina cha maoni kilitofautiana na jinsi mwanafunzi alivyouliza vizuri. Kuzuia marekebisho kwa hivyo kuna sakafu ya ujuzi, ambayo ni tatizo la urekebishaji katika umbo ambalo utafiti unaweza kupima.
-
 
 ## Ushahidi wa ufanisi
 
@@ -125,49 +126,3 @@ Mbinu ya Sokratiki imeunganishwa kwa karibu na [[scaffolding]] (kutoa msaada wa 
 - **"Kuuliza kwa mtindo wa Sokratiki ni kukosekana kwa majibu tu."** Chatbot ya Sokratiki ya AI iliyoundwa maalum na kutumiwa katika kozi kubwa ya utangulizi wa mekanika (**wanafunzi 150 wa mwaka wa kwanza wa [[stem-education|STEM]]**) ilizalisha faida **zinazopimika**, na ubuni wake ni ule wa maswali yenye muundo: mwingiliano wenye vikomo, si mfano wa kimya.
 - **"Athari inatokana na mahusiano, si kitu kingine."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna na Maes, 2026)]] ni **utafiti wa EEG wa nasibu wenye washiriki 50** unaolinganisha chatbot ya mtindo wa ChatGPT isiyo na vikomo na ile ya **Sokratiki**, unaopima utaratibu badala ya kuukisia kutoka matokeo.
 - **"Vikomo ni tatizo la kuondolewa."** Usaidizi imara zaidi wa kisababu kwa vikomo unaonyesha mwelekeo kinyume: katika mapitio ya K-12, wanafunzi wa shule ya upili waliotumia chatbot ya jumla **walipata alama chini kwa takriban asilimia 17 kwenye mitihani ya mwisho ya kitabu kilichofungwa** kuliko wenzio waliotumia zana yenye vikomo. Zana isiyo na vikomo ilikuwa hali yenye madhara.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Mpangilio wa maswali na ushahidi wake wa kupinga wa jaribio
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — Mwanya: mbinu za kufundisha na mikakati ya ualumu katika elimu ya AI
-- [[productive-failure]] — Kushindwa kwa Tija
-
-## Makala Zilizounganishwa
-- [[socratic-probing-agent-physics-cave-detection-2026]] — Kubuni mwakala wa AI asiyefundisha: kanuni za ubuni kwa kuuliza kwa mtindo wa Sokratiki katika fizikia ya utangulizi
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Mitindo ya maoni ya Sokratiki dhidi ya moja kwa moja katika somo la ubunifu la wanafunzi wa shaka ya juu ya 2 x 2
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Vidokezo vilivyopangwa vya Sokratiki dhidi ya Maswali-Majibu ya jumla yasiyo na mipaka
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Uelekezaji wa Kielimu wa LLM kwa Kushindwa kwa Tija
-- [[wang-safety-gap-productive-struggle-2026]] — Pengo la Usalama: Kurejesha Shindani Lenye Tija
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-- [[lftutor-logical-fallacy-education-2026]] — Maswali ya Sokratiki pamoja na hoja mahususi katika mfumo wa ualumu wa dhana potofu wa hatua nne
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Vizuizi au Vizibo? Athari za Mtindo wa Kielimu na Ufahamu wa Muktadha katika Wasaidizi wa Kufundisha wa AI kwa Uandishi wa Programu
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Kuboresha ujuzi wa mabishano unaolingana na PISA kwa walimu wanaotarajia wa biologii kupitia akili bandia ya kizalishaji
-- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

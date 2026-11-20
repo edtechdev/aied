@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -47,6 +48,3 @@ Pre učiteľov K–12, ktorí chcú nástroj na konkrétny problém bez predplat
 ## Poznámky a výhrady
 
 Tempo je zároveň ponuka aj riziko. Jednodňové stavby mieria na skutočný problém v triede, nie na výskumnú otázku, takže nič tu nemá hodnotenie a tvrdenie o tom, čo aplikácia robí, treba otestovať v triede. V organizácii GitHub je 32 verejných repozitárov, kým galéria uvádza 34, všetky pod Apache-2.0 s dostupným zdrojom, takže aplikáciu možno prečítať a samohostovať. Miestne orientovaný návrh je tvrdenie na overenie pri každej aplikácii a učiteľ by ho mal potvrdiť, kým postaví akýkoľvek nástroj pre študentov pred triedu.
-
-## Prepojené pojmy
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

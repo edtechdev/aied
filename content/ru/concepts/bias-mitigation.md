@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -66,7 +68,6 @@ ai_assist:
 
 - **Перекос распределения при формировании команд с помощью ИИ.** [[genai-social-bias-software-engineering-education-2026|Entezami и др. (2026)]] показывают, что перекос входит в класс задач вне оценивания и обратной связи: три LLM, распределяющие классы по разработке программного обеспечения из 28 студентов по четырём командам, направляли мужчин на 80% реже, чем женщин, в Interface Design вместо Core Development (GPT-5.2 OR < 0,01), а национальность сдвигала распределение независимо от заслуг. Предоставление навыков уменьшало, но не устраняло это — 99,2% назначлений на основе навыков совпало с одной из двух опорных команд, однако пол всё ещё решал между равнозначно допустимыми вариантами (OR 2,53 GPT-4.1, 2,81 GPT-5.2, 1,43 DeepSeek), — а параллельная генерация изображений смещала изображения одного человека в сторону мужского пола и светлой кожи (V пола = 0,64 и 0,65; V тона кожи = 0,57 и 0,61), тогда как изображения с несколькими людьми оставались сравнительно сбалансированными.
 - **Аудиты подгрупп могут задокументировать паритет в автоматическом кодере** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman и Borman (2026)]] обнаружили, что дообученный BERT-кодер эссе достиг точности 0,92 для студентов, подверженных стереотипной угрозе, и 0,94 для не подверженных, при полноте 0,98 в обеих группах. Точность по полу группировалась на 0,95 против 0,93, а группы по праву на бесплатное или льготное питание — на 0,95 против 0,94, тогда как изучающие английский (8%) и студенты с индивидуальными планами образования (10%) были исключены из анализа подгрупп, поскольку подвыборки были слишком малы.
-
 
 **Агрегированная точность может скрывать модель, неспособную найти отстающих студентов.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar и др. (2026)]] обучили три семейства моделей на одной эстонской когорте и разделили её двумя способами. На сбалансированном наборе семейства были сопоставимы. На несбалансированном разбиении, где 125 студентов были ниже первого квартиля против 328 выше, деревья решений, байесовская сеть и случайные леса достигли полноты 8%, 12% и 16% для слабоуспевающих при точности 80%, и лишь нейро-символическая модель превзошла 50%.
 
@@ -114,53 +115,3 @@ ai_assist:
 - **«Перекос — это проблема выставления баллов и обратной связи».** Перекос входит в **классы задач вне выставления баллов**: три LLM, распределяя **28 студентов программной инженерии по четырём командам, направляли мужчин как минимум на 80% реже**, чем эталонное распределение. Формирование команд несло перекос сопоставимой с оцениванием величины.
 - **«Предоставление релевантного навыка устраняет перекос».** Предоставление навыков **снижало, но не устраняло его**: **99,2% назначений на основе навыков совпали с одной из двух эталонных команд, однако пол всё ещё решал между равно валидными вариантами (OR 2.53**). Почти идеальное совпадение по задаче сосуществовало с эффектом пола, поэтому точность по первичному критерию не является свидетельством справедливости.
 - **«Одного подхода к снижению достаточно».** Исследование иллюстрирует **взаимодополняющие стратегии** — включая моделирование с учётом справедливости, — потому что перекос, входящий на этапе формирования, не устраняется исправлением, нацеленным на выходной текст.
-
-## Связанные концепции
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — перекос на стороне читателя, который эта страница не охватывает: принятие рекомендации без её проверки
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Связанные статьи
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Нейро-символическое педагогическое согласование (NSPA)
-- [[ai-scoring-language-bias-physics]] — Языковой перекос в оценивании на базе ИИ
-- [[gender-bias-transfer-llm-writing]] — Перенос гендерного перекоса в письме с помощью LLM
-- [[paternalistic-filter-llm-history-education]] — Патерналистский фильтр и дифференциальные отказы
-- [[fair-explainable-edu-recommendations]] — Справедливые и объяснимые образовательные рекомендации
-- [[temporal-smoothness-debiased-kt]] — Деконцентрированная трассировка знаний
-- [[ground-truth-reliability-aied]] — Модернизация опорной истины для надёжности ИИ
-- [[data-annotations-pedagogical-hints]] — Аннотации данных как педагогические подсказки
-- [[xai-education-framework]] — Объяснимый ИИ в образовании
-- [[antiskillbench-persona-skills-privacy-2026]] — Приватность персон и навыков и аудит перекосов
-- [[genai-minoritized-knowledges-disability]] — Генеративный ИИ и маргинализация маргинализованных знаний
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: стереотипно согласованные перекосы в автоматической обратной связи на письме
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Перекос и репрезентация в сгенерированном ИИ переводе текста в изображение: систематический обзор (Alon и др. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Этические ценности и нормы для ИИ в образовании
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - при дисбалансе классов три семейства моделей не смогли выявить слабоуспевающих, тогда как сбалансированные метрики выглядели здоровыми
-

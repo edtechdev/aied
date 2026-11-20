@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -173,77 +175,3 @@ Ufafanuzi wenye ufanisi unahitaji kubadilika kwa kuendelea: [[zhang-tutormoments
 **"Ufafanuzi wa akili bandia ni teknolojia ya kabla ya LLM ambayo LLM ziliipita."** Nasaba ni endelevu na mchango wa ITS ndio ambao enzi ya LLM bado inaukosa. ITS ilitoa mfano wa mwanafunzi, vizuizi vya kiolesura na makadirio ya utaalamu; mifumo ya kisasa inayoongeza LLM kwenye vipengele hivyo hufanya vizuri zaidi kuliko LLM peke yake, jambo linalofanya nidhamu ya zamani kuwa kiungo badala ya mtangulizi.
 
 **"Mfafanuzi wa AI ni kitu kimoja."** Ufafanuzi unajumuisha wigo wa nguvu ya mahusiano, kuanzia uzalishaji wa vidokezo hadi mazungumzo endelevu, na hitimisho za kubuni kutoka hatua moja ya wigo huo hazihamishiki hadi nyingine. Swali la muundo wa kipazaidi kwa hivyo ni "ni aina gani ya ufafanuzi, ikifanya kazi gani" badala ya "je, ufafanuzi wa AI unafanya kazi".
-
-## Dhana Zilizounganishwa
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## Makala Zilizounganishwa
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Tabia za mazungumzo yasiyoshiriki na kujifunza katika mazungumzo ya mwanafunzi-AI (Rho na wenzake 2026)
-
-- [[leite-its-k12-meta-analysis-2025]] — Meta-analysis ya K-12 ya Marekani: majaribio 18, g = 0.271, na kile kinachoiweka kati (Leite na wenzake 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — RCT iliyopanuliwa ya Uingereza: faida za uhamisho wa karibu lakini hakuna faida ya mtihani sanifu katika wiki 10 (Timu ya LearnLM, Google na Eedi 2026)
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Ufafanuzi wa AI unashinda kujifunza kwa shughuli cha darasa: jaribio la RCT linaloanzisha muundo mpya wa kitaalamu katika mpangilio halisi wa elimu (Kestin na wenzake 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Kutathmini Mfumo wa Mawakala Wengi wa LLM Unaozingatia Ngazi za Msaada kwa Mafunzo ya Mahojiano ya Kliniki
-- [[ko-hughes-vsd-student-centered-its-2026]] — Kubuni nyeti kwa thamani ya ITS inayozingatia mwanafunzi katika hisabati ya maendeleo ya chuo cha jumui
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Ubinifu-mwembamba wa kibinafsi kwa msingi wa uhandisi wa ilani wa msaidizi wa kufundisha wa AI (Basu, Kakar na Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupanua kupita kiasi kwa udanganyifu: utaalamu unaobadilika unaweza kusimamisha mazoezi kabla ya wanafunzi kujua lini kuzuia kitendo (An, McLaren na Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Ufafanuzi wa AI Si Kitu Kimoja: Tulichojua Kweli (muhtasari wa Stanford SCALE/NSSA)
-- [[real-time-ai-feedback-technical-skills-2026]] — Maoni ya AI ya wakati halisi kwa upataji wa ujuzi wa kiufundi katika vyuo vya elimu vya Jimbo la Kwara: mfafanuzi wa ndani ulioelezewa kama msaada wa wafanyakazi
-- [[mishra-control-vs-agency-history-2025]] — Ufuatiliaji wa nasaba ya ITS kuanzia mifumo ya wataalam wa miaka ya 1960–70 hadi wafafanuzi wa kiakili
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Kufanya ufafanuzi wa AI kuwa na tija: mazoezi ya hisabati yanayotegemea utaalamu
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Mbonyezo Moja: Khanmigo katika jaribio la miaka miwili la shule
-- [[yasir-llm-tutoring-agents-2026]] — Kupima mawakala wa maoni ya LLM kwa ukweli wa msingi wa KG (Yasir na wenzake 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Wafafanuzi wa AI Waliobuniwa na Waelimishaji katika Elimu ya Lugha ya Kigeni ya Chuo Kikuu (Nadharia ya Uamuzi wa Kibinafsi)
-- [[measuring-llm-tutors-teach-vs-solve]] — Kupima Kama Wafafanuzi wa LLM Wanafundisha au Wanatatua
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Mbinu za Kuboresha Ubora wa Ufafanuzi wa AI katika Elimu ya K-12
-- [[zhang-tutormoments-2026]] — Msaada Unapokuwa Hauna Msaada: kutathmini wafafanuzi wa AI kwa mapambano yenye tija
-- [[graph-its-adaptive-algorithms-2026]] — Ufafanuzi wa Akili Bandia Unaotegemea Grafu kwa Vikoa Vinavyobadilika (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada za ICAP zinazobadilika katika ITS (BKT dhidi ya DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — AI mahususi ya ufafanuzi dhidi ya AI ya matumizi ya jumla: ushahidi kuhusu matokeo ya kujifunza ya kudumu
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors na usalama wa kipazaidi
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Ufafanuzi wa hisabati wenye hisia wa MathBuddy
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Ufafanuzi wa virtuali na CAL: jaribio la kupitishwa na kujifunza
-- [[learnlm-improving-gemini-learning]] — LearnLM: kuboresha Gemini kwa kujifunza
-- [[teachlm-post-training-llms-education]] — TeachLM: mafunzo ya baada ya LLM kwa data halisi ya kujifunza
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ufuatiliaji wa maarifa unaotegemea matokeo na ramani za uhusiano
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Kutathmini Ufafanuzi wa AI kwa Kasi ya Ubunifu: Majaribio Madogo ya Nasibu Yaliyoongozwa na Watendaji wa Mfumo wa Ufafanuzi wa AI katika Sayansi ya GCSE
-- [[misconception-acquisition-dynamics-llms-2026]] — mifano ya mfafanuzi inayopata dhana potofu nyingi za mwanafunzi bila kupoteza utatuzi sahihi
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ufafanuzi wa AI na wa binadamu hutoa faida za kujifunza za GRE zinazolingana
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Vizuizi au Vizuiizi? Athari za Mtindo wa Kipazaidi na Utambuzi wa Muktadha katika Wasaidizi wa Kufundisha wa AI kwa Upangaji Programu
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — RCT ya masomo mengi ya mfafanuzi wa AI aliyeegemea kozi na kuingizwa katika LMS: alama za mwisho chini 0.37 SD katika sampuli inayolingana hasa, ushirikiano wa jukwaa chini 0.90 SD, bila uunganishaji wa kielimu (Liu na wenzake 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Tofauti katika jinsi wafafanuzi wa AI wanaoongozwa wanavyotatua vikwazo vya mwanafunzi, na kwa nini kupanda lazima kubadilike pamoja na kina
-- [[lyu-data-driven-redesign-tutoring-2026]] — Kutathmini mchakato wa kubuni upya unaoendeshwa na data kwa mifumo ya ufafanuzi wa akili bandia: muda wa juu zaidi wa kazi na ujuzi uliozoelewa, lakini hakuna tofauti ya faida ya kujifunza wakati kipimo cha mazoezi ni chepesi (Lyu na wenzake 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: Mfumo Unaotangulia na Nadharia kwa Kujifunza kwa Kibinafsi kwa Muda Mrefu (Li na wenzake 2026)
-- [[alam-goblins-math-platform-2026]] — Utoaji wa hisabati wa AI unaopatanishwa na mwalimu wa wilaya nzima: uaminifu wa ushirikiano wa ~51% na mteremko wa kipimo kutoka 0.11 SD (matatizo 2/kwiki) hadi 0.31 SD (20+/kwiki); mahusiano makubwa ya uchunguzi kwa wanafunzi wenye IEP, EL, na Wahispania
-- [[llm-tutors-process-synthesis-2026]] — Je, Walimu wa LLM Wanafundisha Kwa Kweli? Muhtasari Unaozingatia Mchakato wa Mzunguko wa Ufundishaji
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: kufichua mapengo ya mwitikio ya wafafanuzi wa LLM kwenye matatizo ya upangaji programu yenye suluhisho nyingi (Cen na Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Kumsaidia au kumbadilisha mwanafunzi katika kufikiri? Upungufu wa kiakili katika kujifunza uthibitisho kwa msaada wa AI (Chen na wenzake 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: kutathmini wafafanuzi wa LLM kwa wanafunzi wenye tabia changamoto (Park na wenzake 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Kamera juu ya kazi iliyoandikwa kwa mkono: ufikiaji wa kuona na urekebishaji wa hiari (Kotalwar na wenzake 2026)
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Hata hivyo mifano tayari iliyopo inaweza kutotoa ushahidi huo: Worden na wenzake
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — Mfafanuzi wa AI wa vyanzo vingi kwa wanafunzi wasiowazawa wa Kiingereza

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -47,11 +48,3 @@ Nastavnici K–12 koji su upotrijebili [[generative-ai|generativnu umjetnu intel
 Member i Builder besplatni su (Builder: 50 aplikacija, 50 MB); Pro stoji \$10 mjesečno ili \$60 godišnje za 500 aplikacija. Pristup je freemium.
 
 Privatnost je jača tvrdnja, ali prenosi odgovornost na nastavnike. Teacher Hive ne stvara učeničke račune, od učenika ne traži osobne podatke i u objavljenim aplikacijama ne pokreće analitičke ni reklamne skripte. Budući da su aplikacije javne preko poveznice, uvjeti čine nastavnike odgovornima za to da njihove aplikacije ne prikupljaju imena, e-adrese, učeničke ID-ove ni lokaciju. Pokrivenost pristupačnosti (WCAG 2.2 AA) odnosi se na vlastite stranice Teacher Hivea, ne na aplikacije nastavnika, koje nisu testirane. Licencija otvorenog koda nije navedena, a dostupnost i zadržavanje podataka nisu zajamčeni.
-
-## Povezani pojmovi
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -12,6 +12,8 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 > **Self-assessment** — judging your own work, competence, or progress against criteria, and the practices and instruments built on that act. The term carries two faces that are easy to collapse into one. As an **instructional technique** it is self-grading, rubric-based self-review, self-checking, and guided reflection: activities meant to develop the [[metacognition|monitoring]] and [[evaluative-judgment|judgment]] that [[self-regulated-learning|self-regulated learning]] runs on. As an **educational measure** it is a [[self-report-measures|self-report instrument]], in which a learner's estimate of their own skill, confidence, or learning stands in for an observation nobody made. It sits beside [[peer-assessment|peer assessment]] as the other half of students-as-assessors, and inherits the same dependence on [[scaffolding|scaffolding]] and explicit criteria. Both faces turn on the same faculty and both fail in the same direction: the estimate is systematically generous, and the more a learner's submitted work can be produced by a [[generative-ai|generative AI]] tool, the less that work says about whether the faculty is there at all.
@@ -68,7 +70,6 @@ Developmental stage sets one boundary on accuracy, and the youngest learners are
 
 The measurement face also shows up in evaluation design, where self-assessment instruments are used as outcome measures. One study of AI-assisted assessment of complex reports in [[higher-ed|higher education]] explicitly evaluates learning with validated feedback literacy and self-assessment instruments alongside subsequent performance and comparison with a control group. That is defensible when the instrument measures a belief the study is actually about, such as [[self-efficacy|self-efficacy]] or perceived competence, and misleading when it is treated as a stand-in for achievement. The recurring critique of [[ai-ed-evaluation|AI intervention studies]] applies with full force here.
 
-
 Measuring agency through post-task questionnaires and task-specific [[self-efficacy|self-efficacy]] risks circular reasoning: the learner's estimate is read back as evidence of the capacity it is meant to indicate, and the alternative is dynamic analytics that track how self-assessment is used across successive cycles ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]]).
 
 ## What generative AI changes
@@ -97,33 +98,3 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 **"Adding an AI [[feedback|feedback loop]] improves self-assessment automatically."** A feedback loop changes what the student compares against, which can improve calibration and can also anchor them to the system's judgment. The comparative study here (**118 first-year undergraduates, 56 in a GenAI group and 62 in a peer group**, three cycles across a semester) is designed precisely to test whether the loop or the social comparison does the work — and the answer is not "the loop, by being a loop."
 
 **"Self-assessment is a softer alternative to testing."** It is a different target. Self-assessment develops the regulatory skill of judging one's own work; a test measures the capability being judged. Research that substitutes one for the other conflates the capacity to evaluate performance with performance itself.
-
-## Connected Concepts
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## Connected Articles
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item AI literacy self-assessment questionnaire for Grades 4 to 6, with the metacognitive limits of child self-report (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 of 33 teacher AI literacy instruments are self-report, two test knowledge objectively, none use performance tasks (Zainal, Mohd Matore & Maat 2026)

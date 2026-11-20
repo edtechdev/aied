@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -96,38 +98,3 @@ Gli studenti sono inquadrati anche dal discorso mediatico e pubblico più ampio 
 **"Vietare uno strumento elimina il comportamento."** Lo sposta su strumenti che non puoi vedere. Gli studenti preferiscono già strumenti ad accesso privato a quelli forniti dall'istituzione, quindi un divieto spinge l'uso fuori dall'unico ambiente in cui supporto, logging o guida sono possibili. Il compito dell'inquadramento è rendere attraente il comportamento consentito, non rendere più difficile osservare quello vietato.
 
 **"L'inquadramento è persuasione, quindi è più retorica che progettazione."** L'inquadramento descritto da questa pagina è abbinato alla progettazione: aspettative enunciate con chiarezza e ripetutamente *mentre si progetta attorno agli studenti*. La comunicazione erogata al posto di una progettazione pensata per loro è la versione che fallisce, perché gli studenti leggono la differenza tra un impegno dichiarato e uno reale.
-
-## Concetti collegati
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Articoli collegati
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption
-- [[student-rationalization-ai-writing]] — The "five sites" where students rationalize AI use in academic writing
-- [[student-regulatory-awareness-genai]] — Knowing the rules is not enough: regulatory awareness and actual use
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation messaging and verification behavior
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[access-not-enough-ai-tutoring-2026]] — Human support improves engagement with AI tutoring
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-based engagement with GenAI
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation
-- [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
-- [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
-- [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations

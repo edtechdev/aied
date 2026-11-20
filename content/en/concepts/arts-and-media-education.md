@@ -11,6 +11,8 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 reviewed_by: [editor]
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 > **Arts and media education** — the studio- and performance-based disciplines in which learning happens by making: visual art and image generation, digital media and [[storytelling-in-education|digital storytelling]], and stage and performance technology. Across these disciplines the recurring questions are whether [[generative-ai|generative AI]] erodes craft and skill development or moves it up a level, and how critique and the [[assessment|assessment]] of creative work change when a polished artifact is cheap to produce. The cluster sits in the humanities and arts branch of [[discipline-specific-aied|AI in the disciplines]], beside [[humanities-education|humanities education]], [[music-education|music education]] and [[design-education|design education]]. The remaining questions are how much of each discipline rests on [[embodied-learning|embodied]] and material practice, and who is included when creative tools become generative. Coverage is concentrated in [[higher-ed|higher education]] and in single-studio or single-course studies, so most findings below are case evidence rather than discipline-wide claims.
@@ -85,28 +87,3 @@ Two other findings complicate any simple story of generative tools as an equalis
 **"AI in studio teaching replaces the critique."** The constructionist framing in this literature is the opposite: a designed "microworld" that **expands the creative search space without replacing design thinking**. The critique is where judgment is formed, and a tool that supplies candidate solutions gives the critique more material to work on rather than less need for it.
 
 **"Students are not already using AI in arts education, so the curriculum can set the pace."** Survey evidence finds nearly **70% of architecture students already use AI tools independently**. The curriculum is catching up with a practice that has already spread, which changes the task from introduction to critical integration.
-
-## Connected Concepts
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## Connected Articles
-
-- [[project-based-digital-storytelling-art-design-2026]] — A 15-week digital storytelling capstone with 426 students: novelty strong, integration weak, AI as tool not author (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — Text-to-image acceptance among 417 art and design students, and the competence paradox of selective use (Liu, Meng & Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-assisted VR instruction for stage lighting, and the gap between expert and novice representations (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemic Games for Interpreting Text-to-Image Models (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Art students' creative agency, trust and expert-rated output quality

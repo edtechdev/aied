@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -99,36 +101,3 @@ ai_assist:
 - **«Приховування допомоги дратує здобувачів і коштує мотивації.»** Триармований [[rct|РВД]] виявив, що тьютор, який приховує підказки, **зрівнявся з необмеженим ChatGPT у зменшенні незручності та** мотивації — ціна виявилася **лише у вподобанні**. Здобувачам це подобалося менше, але від цього вони не страждали, а отже, дані про вподобання відкинули б дизайн, який працював.
 - **«Більше незручності означає більше навчання.»** Ескалюючий тьютор був **на 0,42 бальних одиниць більш незручним, ніж тьютор, який відповідав на запит (p < .001), і на 0,29 менш незручним, ніж** найнезручніша гілка. Продуктивний діапазон — це середина, а не максимум, тож «бажані труднощі» не дають дозволу робити завдання складнішим нескінченно.
 - **«Продуктивна невдача означає, що викладачі не повинні допомагати.»** Дизайн приховує *відповідь*, надаючи структуру та ескалацію. Приховати підказку і приховати підтримку — різні втручання, і лише перше має тут докази.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Спроба перед навчанням як повна послідовність, з її тонкою базою доказів
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — Кейси як спільний простір задач для першої спроби
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Пов’язані статті
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Приховування рішень уникло ціни незручності, але програло у вподобанні студентів

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -134,67 +136,3 @@ Läheinen kehystys on **relationaalinen episteeminen toimijuus** ([[du-yuan-epis
 - **"Opiskelijat harjoittavat toimijuutta, kun he käyttävät tekoälyä vapaasti."** **14 kategorian koodausjärjestelmä, joka koodasi 6 788 ChatGPT-avusteista vuoroa**, sijoitti **59 % seitsemäsluokkalaisten vuoroista** kategorioihin, jotka eivät edusta agenttista käyttöä. Käytön määrä ja toimijuus ovat eri mittareita.
 - **"Nykyiset mallit tukevat oppijan toimijuutta hyvin."** **Kymmenen mallin vertailussa toimijuuden tukeminen on heikoin alue oppimisen jälkeen**: ImpactBench mittasi **toimijuuden ja tarkoituksen 56,0 %:ksi** myönteisillä kriteereillä. Toimijuus on ulottuvuus, jota tekoälyjärjestelmät käsittelevät heikoimmin, ei kyvykkyyden sivutuote.
 - **"Opettajan välitys on toimijuuden rajoite."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] seurasi **kymmentä toisen asteen matematiikan opettajaa kahdeksanviikkoisen ChatGPT-4-intervention** läpi, ja välitys on mekanismi eikä este.
-
-## Liittyvät konseptit
-- [[learners]] — Oppijat: katto oppijapuolen käsitteille
-- [[pedagogical-partnerships]] — Pedagogiset kumppanuudet
-- [[learner-identity]] — kehittyvät alakohtaiset, ammatilliset, luovat ja akateemiset oppijaidentiteetit
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — tekoälyn välittämän vuorovaikutuksen jaettu ohjaus
-- [[agentic-ai]] — autonominen tekoäly, joka voi jakaa toimijuutta uudelleen ryhmissä
-- [[chemistry-education]] — Kemian opetus ja tekoäly: laboratoriot, formatiivinen arviointi, LLM:ien rajat, kokeellisuuden filosofia
-- [[social-emotional-learning]] — Sosioemotionaalinen oppiminen
-- [[cognitive-surrender]]
-
-## Liittyvät artikkelit
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Kansallisesti edustava kysely yhdysvaltalaisista opettajista ja rehtoreista koskien tekoälypolitiikan kattavuutta, toimijuutta ja viittä luokkahuonekäytäntöä (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Auttava käsi vai hallitseva kumppani? Yksilölliset käsitykset GenAI-nojautumisesta ja inhimillisestä toimijuudesta yhteistoiminnallisessa oppimisessa
-- [[yan-agentivism-learning-theory-ai-2026]] — Keskitason oppimisteoria ihmisen ja tekoälyn vuorovaikutukselle, neljä mekanismia ja kuusi testattavaa väitettä (Yan ja Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Oppijan toimijuus alakohtaisen, tekoäly- ja metakognitiivisen kompetenssin koordinoinnin emergenttinä laatuna, ei itsenäisenä solmuna (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — Valinnan saatavuus vs. toteutettu toimijuus: liukusäätimet, valinnainen tekoälyagentti ja oppiminen parvennussimulaatiossa
-- [[guarded-adoption-genai-higher-education-2026]] — Generatiivisen tekoälyn varovainen käyttöönotto korkeakoulutuksessa
-- [[ai-agents-joyful-assessment-third-space-2026]] — Tekoälyagentit, iloinen arviointi ja kolmas tila
-- [[ai-mediated-research-agency-formation-2026]] — Tekoälyn välittämä tutkimustoimijuuden muotoutuminen varhaisuran tieteellisessä koulutuksessa
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kerrosherkkä kognitiivinen siirtokuormitus GenAI-avusteisessa kirjoittamisessa (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — Koulun tekoälyopetus kaventaa psykologisia mutta ei kognitiivisia valmiuseroja
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relationaalinen episteeminen toimijuus ja kuusi kriteeriä tuottavan nojautumisen erottamiseksi haitallisesta riippuvuudesta (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — Tekoälyavusteinen pedagoginen saatto STEM-identiteetin tukena
-- [[t2i-competence-paradox-2026]] — Kompetenssiparadoksi: luova identiteetti tekstistä kuvaksi -GenAI:n käytössä
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergentti oppijan toimijuus implisiittisessä ihmisen ja tekoälyn yhteistyössä: tukevat vs. vastakkaiset persoonat
-- [[de-barba-srl-genai-2026]] — Oppijan toimijuus eri mittakaavoissa: sääntely, integraatio, positiointi
-- [[mishra-control-vs-agency-history-2025]] — Hallinta vs. toimijuus AIED-historian olennaisena jännitteenä
-- [[daoism-ai-education-philosophy-2026]] — Vaihtoehtoinen tekoälyfilosofia: daoismi menetelmänä tekoälylle koulutuksessa
-- [[human-autonomy-agency-hri-review-2025]] — Ihmisen autonomia ja toimijuus ihmisen ja robotin vuorovaikutuksessa
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Tietopohjainen suunnittelu generatiivisille sosiaalisille roboteille
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Oppijan toimijuuden tukeminen oppimisen kannalta merkityksellisessä työssä
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teoria ja kognitiivinen antautuminen: miten tekoäly muovaa ihmisen päättelyä (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Opettajaopiskelijoiden toimijuus GenAI-vuorovaikutuksessa oppimisen suunnittelussa (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emansipatorinen visio: toimijuus nollasummana työkalun toimijuuden kanssa
-- [[chen-zou-genai-group-assessment-agency-2026]] — Kolme toimijuuden kuviota GenAI:n välittämässä ryhmäarvioinnissa: tehostettu, rajattu ja toteutumaton
-- [[ai-integrated-teaching-identity-tensions]] — Periaatteellinen valikoivuus opettajan toimijuutena tekoälyintegroidussa opetuksessa (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Kieltäytyminen diagnostisena näyttönä: käyttämättömyys tilannesidonnaisena suhteena ja epätasainen oikeus kieltäytyä tekoälystä (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — episteeminen auktoriteetti, joka ilmaistaan keskeytyksin, korjauksin ja kieltäytymisin maksimaalisen työkalunkäytön sijaan
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kuka toimii, kuka tietää, kuka vastaa? Korpusavusteinen diskurssianalyysi toimijuudesta, episteemisestä vastuusta ja tilivelvollisuudesta generatiivisen tekoälyn korkeakoulututkimuksessa
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Avoimia kysymyksiä taitoja ylläpitävästä nojautumisesta reflektiivisessä tekoälyvuorovaikutuksessa
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetenssi vs. toimijuus tekoälykoulutuksen tarkoituksina, ja tietoisen tekoälytoimijuuden heuristiikka (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Opettajan välitys ehtona, joka pitää GenAI:n kritiikin kohteena eikä auktoriteettina (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Opettajan toimijuus suunnittelun kautta mobilisoitavana resurssina, valmius arvioituna artefakteista eikä käytöstä (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Opettajan ja opiskelijan toimijuuden tasapainottaminen reaaliaikaisen dynaamisen pariuttamisen yhteisorkestrointityökaluissa (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Tulkintavallan matriisi ja ekologisen valtaintegraation malli: neljä konfiguraatiota siitä, kuka tulkitsee, ja ekologiset kerrokset, jotka siirtävät niitä
-- [[gyekye-selves-apprenticeship-2026]] — Värilliset opiskelijat oppipoikaohjelmissa rakensivat itseään tekoälyn kautta kieltäytymisen, neuvottelun ja tunnustuksen avulla ("kulttuurinen latteus"); institutionaalinen tekoälylukutaito ja tunnustuksen kaistanleveys
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Jaettu episteeminen toimijuus 6 788 ChatGPT-avusteisessa vuorossa toisen asteen tiedekirjoituksessa (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — Koettu omistajuus laski vain, kun koko essee delegoitiin; suunnittelu- ja arviointikäyttäjät vastasivat ei-käyttäjiä (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Kuka ajattelee? Inhimillisen toimijuuden luonnehtiminen ensimmäisen vuoden opiskelijoiden tekoälyvuorovaikutuksessa

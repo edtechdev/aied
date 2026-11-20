@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
@@ -91,52 +93,3 @@ AI 赋能的主动学习以若干形式呈现：让学生参与解题而非给�
 - **“AI 支持的探究自动就是更高阶的。”** 一项对 **120 名八年级学生**的准实验发现，AI 支持的[[inquiry-based-learning|探究式学习]]提高了创造性数学表现，**同时**也只在更窄的一项测量上有所提高：处理改变了部分结果，而非全部。与一个高阶标签相关，并不等于是一项高阶任务。
 - **“让学生设计教学是一种技术练习。”** 在那项倒置研究中，一门 700 名学生的课程里有 **345 名学生**各自设计一个对话式智能体，向同伴讲授三种设计模式。主动学习来自设计工作，而那是[[pedagogy|教学]]推理，不是提示工程。
 - **“参与的发现就是学习的发现。”** 同一证据基础告诫，**无对照组、志愿者样本**的设计只支持关于参与的论断。学生珍视开放式设计自由（**22.3%** 为最高频正面主题），最常抱怨的是指示不清（**23.7%**），两者都关乎体验。
-
-## 关联概念
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — 伞形概念：教育 AI 中的教学法与教学策略
-
-## 关联文章
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 辅导胜过课堂主动学习：一项在真实教育情境中引入新型基于研究设计的 RCT（Kestin et al. 2025）
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — 经济学的主动学习 GenAI 框架（Beck & Brodersen 2025）
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — AI 互动模式的 EEG 研究（互动 > 自动）
-- [[supplynet-visual-exploratory-learning]] — SupplyNet：经由多智能体模拟的视觉探究式学习
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop：分阶段的对话式课后复习
-- [[academic-league-of-ai-2026]] — Academic League of AI：基于项目的主动学习
-- [[mujib-ai-ibl-creative-math-2026]] — AI 支持的探究式学习与创造性数学表现
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征与 TTS 对话形式的交互
-- [[instructional-guidance-genai-learning]] — 有提示与无提示的 AI 复习：推动开放式评分的是结构，而非模型可及性
-- [[assigned-ai-preclass-student-engagement-2026]] — 课前 AI 预演在第二次使用后使课堂参与度提高 31%，而非第一次

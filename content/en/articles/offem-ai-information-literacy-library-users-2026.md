@@ -18,6 +18,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, libraries, librarians, ai-literacy, digital-divide, generative-ai]
 ---
 
 > **Synthesis:** Offem and Arikpo argue that [[information-and-media-literacy|information literacy]] instruction is no longer sufficient on its own, because users now face machine-generated content at a scale that manual search-and-evaluate skills cannot address, and that [[ai-literacy|AI]] should therefore be treated as an instrument for *delivering* information literacy rather than only as a new topic to teach about. Their proposal runs through intelligent retrieval, personalized and adaptive learning, chatbots and virtual reference, and automated fact-checking, each carrying part of the instructional load and extending support to remote users. The same technologies, they concede, produce fabricated references, dataset bias, privacy loss, a wider [[digital-divide|digital divide]] and passive dependence on machine output. Their resolution is to fold AI literacy into information literacy as a complementary component, with [[librarians|librarians]] rather than technologists leading the integration.
@@ -62,15 +63,6 @@ That asymmetry is worth naming. The paper argues that AI should be folded into i
 - No country, institution or library context is specified, so the recommendations are not tied to a setting or a resource level.
 - No DOI is printed; the article is identified by its journal and volume only.
 - The reference list contains at least two verified misattributions: the 2024 review it credits to Long and Magerko is Pinski and Benlian's, and Ng et al.'s "Conceptualizing AI literacy" is dated 2024 in an education-technology journal when it appeared in 2021 in *Computers and Education: Artificial Intelligence*. Several other citations are unrelated to the sentences they support.
-
-## Connected Concepts
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[generative-ai]]
 
 ## Citation
 

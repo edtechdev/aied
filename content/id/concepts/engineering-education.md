@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,36 +88,3 @@ Celah itu tidak lagi kosong di satu area: program teknik biomedis tiga tahun men
 - **"Adopsi AI di kalangan mahasiswa teknik adalah masalah penerimaan teknologi."** [[socio-cognitive-genai-adoption-engineering-2026|Asag dan Al Mamun]] mengintegrasikan TAM dengan [[technology-acceptance-model|UTAUT]] untuk memodelkan adopsi mahasiswa teknik Bangladesh, **menjelaskan 64%** variansnya — sehingga sebagian besar berada di luar konstruk penerimaan, dalam faktor sosial dan kognitif yang tidak dicakup model.
 - **"Siswa menggunakan AI untuk hal yang paling dikuasainya."** [[ai-engineering-education-balancing-act|Kudina (2026)]] menemukan **100 mahasiswa teknik** paling menghargai LLM untuk **dukungan penulisan**, bukan untuk penalaran teknik. Metafora mereka tentang alat itu melampaui yang diberikannya, dan penggunaan aktual mereka mengikuti kemudahan alih-alih kapabilitas.
 - **"Tumpukan alat yang lebih kaya memperbaiki hasil desain."** Dalam studio desain arsitektur **27 siswa**, tim yang menggunakan pipeline AI generatif plus [[virtual-and-augmented-reality|XR]] menunjukkan **efikasi yang tertekan tanpa produk yang membaik**. Kekayaan alat dapat mengorbankan keyakinan tanpa mengubah artefak.
-
-## Konsep terkait
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Artikel terkait
-- [[apostolakis-trusstutor-bench-statics-2026]] — Tolok ukur statika: penyelesaian dan deteksi kesalahan menjenuh, ketahanan terhadap tantangan tidak
-- [[mechanical-engineering-ai-curriculum-2026]] — Kurikulum Pendidikan AI Berbasis Proyek dalam Teknik Termal
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Metafora Fakultas Teknik Membangun (dan Membatasi) Pemahaman AI
-- [[tam-critical-use-genai-engineering-2026]] — TAM yang diperluas dengan penggunaan kritis untuk mahasiswa teknik/ilmu komputer
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Model sosio-kognitif terpadu untuk pendidikan teknik (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Penggunaan Etis AI dalam Pendidikan Teknik: Tinjauan Sistematis
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Kerangka Multimodal untuk Kognisi Terwujud dalam Penjelasan Lisan
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI dan Masa Depan Tenaga Kerja Teknik dan Komputasi
-- [[ai-engineering-education-balancing-act]] — Menggunakan AI dalam Pendidikan Teknik: Sebuah Keseimbangan yang Rumit
-- [[structured-ai-demonstrations-engineering-mechanics]] — Demonstrasi AI Terstruktur dalam Mekanika Teknik
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT dalam pendidikan teknik
-- [[liu-ai-sustainable-engineering-education-2026]] — Kerangka AI-SEE untuk pendidikan teknik berkelanjutan (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — AI Generatif dan Realitas Diperluas dalam Pendidikan Desain Arsitektur Kolaboratif: Studi Studio Eksploratif

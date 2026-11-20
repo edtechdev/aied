@@ -8,6 +8,8 @@ foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 > **Human-AI collaboration** — the division of cognitive labor between people and models — is the core interaction theme: [[human-ai-collaboration-trust-expectations|Razmerita et al. (2026)]], [[humanlike-ai-collaborative-writing|Yin et al. (2026)]], [[genai-mindtool-generative-learning|Dabbagh et al. (2026)]], and [[teacher-student-agency-orchestration|Bella et al. (2026)]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai|human-in-the-loop]], [[agentic-ai|agentic AI]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.
@@ -43,7 +45,6 @@ The evidence shows that human-AI collaboration is a double-edged arrangement who
 - **Trust must be calibrated, not assumed.** Productive collaboration depends on learners accurately calibrating when to rely on and when to verify AI output — connecting to [[trust-calibration|trust calibration]] and [[human-in-the-loop-ai|human oversight]] rather than blind acceptance or blanket rejection.
 - **An affective alert is a cue the teacher interprets, not an instruction to obey.** In one high-school geometry lesson, an AI system's emotion alerts preceded very different teacher moves, and the move — task reframing, brief affirmation or deliberate non-intervention — is what changed engagement, so the alert worked as one input among what the teacher could observe ([[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]]).
 
-
 - **Teacher–AI collaboration is double-edged for engagement, not only for learning.** In a three-wave survey of 468 university teachers, collaboration raised work engagement through psychological availability (indirect 0.19) but lowered it through work alienation (indirect −0.03); [[teacher-ai-competency|digital competency]] moderated both, flattening the alienation slope from 0.38 to 0.17 ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
 - **The division of labor follows credibility, not capability.** What learners settle on is a principled allocation: AI for immediate, broadly applicable language feedback and instructors for individualized, relational guidance, assigned by each source's perceived credibility rather than its accuracy, because the binding constraint on reliance was perceived care, not competence ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
@@ -78,7 +79,6 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **Complementarity is conditional, not a default property of teams.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] found human-AI teams beat both humans and AI alone in only one of six conditions — the challenging cases where the AI was *less* accurate than the humans — reporting no consistent team advantage elsewhere, so adding an AI partner is not by itself a route to complementary performance.
 - **Professional programs redirect training from routine production toward collaboration competences (a design protocol):** [[wang-agentic-translation-education-2026|Wang (2026)]] proposes a design-based framework for translator education built around a task-displacement inventory (18 sub-tasks rated for AI displacement likelihood with [E]/[P] provenance tags) and four redirected competencies: cross-disciplinary knowledge, AI orchestration, strategic judgment, and critical AI evaluation. The framework is a pre-registered protocol with no empirical data yet; its contribution is the method — an auditable displacement analysis plus a co-design pathway for curriculum reform — which transfers to any professional program whose routine tasks agentic systems increasingly perform.
 
-
 - **Entanglement types differ in what they demand of the student, and that is why some stay rare.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classify 102 higher-education studies by how epistemic work is shared between student and system (Assistant, Enabler, Synthesizer, Generator, Reimaginator) and find the two forms that keep competence attributable to the individual student accounting for 42.16% of the studies each, while the forms that distribute authorship remain marginal. Their explanation is institutional rather than technical: the rare types ask students to take epistemic responsibility for outputs they did not produce while still being assessed as individual authors, and it is that contradiction — not the division of labor itself — that keeps them out of practice. The design response is to make the distribution of epistemic work explicit, sequence activities across the spectrum, and build reflection on how responsibility was shared.
 
 - **Owning a work is not the same as authoring it.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] name an *authorship legitimation deficit*: a person can experience an output as their own yet be unable to warrant the author role, because psychological ownership, the sense of [[agency|agency]], and answerability for releasing the work are separate routes that need not align. Their labor nexus of authorship classifies contributions role by role, so one record can support an editorial claim and fail a sole-creator claim at once. The account is a conceptual analysis with no data and no tested model, so the deficit is a proposed construct whose predictions remain untested.
@@ -90,7 +90,6 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 
 Human-AI collaboration connects to [[human-in-the-loop-ai|human-in-the-loop]] (oversight), [[agentic-ai|agentic AI]] (autonomy), [[teacher-role|teacher role]] (teachers' changing work), [[scaffolding|scaffolding]] and [[metacognition|metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy|AI literacy]], [[self-regulated-learning|self-regulated learning]], and [[student-experience|student experience]].
 
-
 - **Human-plus-AI beat human-only on the revision, not on the test.** In a randomized trial in a 354-student economics course, TAs who reviewed and edited AI feedback produced student revisions of higher quality than TAs writing alone, with the effect scaling to how often they adopted suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]). Post-test scores did not differ, so the complementarity was task-level rather than durable learning.
 
 ## Common Misconceptions
@@ -98,72 +97,3 @@ Human-AI collaboration connects to [[human-in-the-loop-ai|human-in-the-loop]] (o
 - **"Collaboration means the AI does part of the work."** **The learner keeps the deciding role**, and this scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show it holds when the arrangement is designed for it. Division of labor is not collaboration unless the human retains judgment.
 - **"The AI does the explaining in a flipped arrangement."** **Students who taught the AI explained better** — flipped-classroom defining at **M = 4.18 versus 3.29**, teaching activities at **M = 4.91 versus 3.06, both p < 0.001**. The learning accrued to the explainer.
 - **"Human and AI contributions are substitutes."** Two 2026 studies map **complementary halves** of classroom collaboration, which frames the design problem as allocation rather than replacement.
-
-## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[human-in-the-loop-ai]] — oversight
-- [[agentic-ai]] — autonomy
-- [[productive-failure]]
-
-## Connected Articles
-
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-plus-AI feedback beat human-only on revision quality, with no post-test difference (Lu et al. 2026)
-- [[nixon-social-cost-ai-teammate-2026]] — The cost lands on human-human ties: an AI teammate lowered peer responsivity and belonging (Nixon et al. 2026)
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Three agent roles in a narrative science game, and which evaluation criterion each needs (Humburg et al. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Multi-agent debate with the preferred answer withheld cut deferral to incorrect AI advice, but not correctively
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: collaboration competency as a dynamic configuration of domain, AI and metacognitive competency, with learner agency emergent (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Secondary teachers design classroom chatbots as bounded experts under human supervision
-- [[ai-integration-instructional-design-collaboratory-2026]] — Twelve teacher-education course implementations treat AI integration as an instructional design problem
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: first RCT of human-AI scaling expertise to novice tutors
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
-- [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Designers use an embedded chatbot for alignment checks on outcomes and pedagogy, not content generation
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automation, augmentation and collaboration as a continuum of task assignment
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[human-ai-collaboration-academic-writing-2026]] — Five-part structured EFL writing workflow; verification and responsible-use routines drove paired writing and digital critical-thinking gains
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Role reversal: students teach a GAI novice learner, outperforming peers who query a GAI teacher
-- [[iqbal-human-genai-support-essay-revision-2026]] — Support type shaped revision strategies and scores, but no strategy predicted gain; GenAI gains may be task-specific
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators rated equivalently; utility versus satisfaction drive reuse differently
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Lesson study builds teacher educators' capacity to design dialogic AI engagement; prompt engineering as pedagogical thinking
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Five student–GenAI entanglement types, and why the ones that distribute authorship stay marginal (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Teacher–AI collaboration's opposing pathways to work engagement via psychological availability and work alienation, bounded by digital competency
-- [[wang-agentic-translation-education-2026]] — Design protocol redirecting translator education toward AI orchestration, strategic judgment, and critical evaluation competences (no empirical data yet)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — An affective alert is a cue the teacher interprets, not an instruction to obey
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — The authorship legitimation deficit in human–AI co-creation

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -40,7 +41,3 @@ ai_assist:
 ## 対象となる人
 
 研究環境において AI がどのように使われ、どのように [[governance|統治]]されているかについて、エビデンスに基づく全体像が必要な研究指導者、委員会、方針担当部局、そして [[change-management|変化]]を時系列で追跡する手段を必要とする人々です。レディネスの 5 つの次元を定義する *Responsible AI in Academic Research: A Competency Framework for Research Training* の伴走資料であり、Instats のディレクターである Michael J. Zyphur によって執筆されました。
-
-## 関連する概念
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

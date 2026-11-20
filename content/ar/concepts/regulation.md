@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -66,52 +68,8 @@ ai_assist:
 
 لا يُترجَم التنظيم نزولًا تلقائيًا: فـ32 جهة تمويل تعمل حيث توجد قواعد ذكاء اصطناعي على مستوى الولاية نشرت سياسات عامة دون أي أداة تمويلية محددة تحمل تلك القواعد ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«سياسة المؤسسة في الذكاء الاصطناعي هي حيث تعيش القواعد.»** يقيس مسح [[watson-rainie-ai-challenge-faculty-survey-2026|Watson وRainie (2026)]] لـ**1,057 عضو هيئة تدريس أمريكي** كم تقع القواعد الفعلية تحت الطبقة المؤسسية: **كتب 87% من المستجيبين** إرشاداتهم الخاصة. فالسياسة العاملة من تأليف الهيئة في معظمها، وهذا يعني أن الطبقة المؤسسية الموثّقة تصف أقل مما تبدو.
 - **«كتابة سياسة تغطي السطح الخطر.»** يُظهر [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] لماذا تنتمي أدوات التقويم إلى المجموعة المنظَّمة: ففي اختبار اختراق، **نجح حقنان من خمسة حقن مطالبات غير مباشرة** مخفيّة في تسليم. فقاعدة تسمّي الأدوات ولا تسمّي أسطح الحقن تترك الثغرة دون معالجة.
 - **«الأنظمة الوكيلية مشمولة بتمديد القواعد القائمة.»** في تحليل وثائقي لـ**12 جامعة**، وجد [[wong-sun-agentic-ai-assessment-governance-2026|Wong وSun (2026)]] أن **أي مقارن لم يتناول وكيلًا يسجّل الدخول إلى نظام إدارة تعلّم**. ففجوة الحوكمة بنيوية: فئات قائمة لا تجد خانة لفاعل مستقلّ يملك بيانات اعتماد.
-
-## مفاهيم مترابطة
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — الانكشاف القانوني عندما يكون التنظيم والحوكمة غير واضحين أو شموليين مفرطين
-
-## مقالات مترابطة
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data
-- [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
-- [[dot-framework-survey-2026]] — Technology-adoption frameworks
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions and the reasonable-adjustment duties they may engage (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Language background in assessment rules: the support–substitution boundary as an equalities question (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-injection attacks on AI graders and the case for standardized resilience testing (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — لا سياسة مقارنة تناولت وكيل ذكاء اصطناعي يسجّل الدخول إلى نظام إدارة تعلّم أو يحمل بيانات اعتماد طالب (Wong & Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — عدم الترجمة العمودية: قواعد الولاية قائمة بينما الجهات المموّلة تحتها لا تصدر أداة ملزمة (Chan 2026)
-
-

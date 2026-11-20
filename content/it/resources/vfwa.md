@@ -30,6 +30,7 @@ verified: [citation]
 translation_of: "resources/vfwa"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -51,11 +52,3 @@ Coordinatrici e coordinatori di programma e di modulo nell'istruzione superiore 
 Il modello non è stato valutato su larga scala. Il paper dichiara esplicitamente che non esistono ancora campioni, strumenti o esiti misurati, e che servono progetti pilota per verificare se gli artefatti della Fase 1 aumentano la fiducia dei valutatori o la coerenza interpretativa, se gli studenti vivono il dispositivo come più equo e come una disciplina possa fissare una soglia di sufficienza senza trasformare la Fase 1 in un secondo esame.
 
 Due costi pratici sono reali. La Fase 1 richiede sessioni osservate e una rilevazione sicura su larga scala, e la registrazione multilingue e la traduzione sono prerequisiti, non extra. Inoltre il giudizio interpretativo è deliberatamente lasciato a chi corregge: il modello presuppone una competenza disciplinare che non può essere automatizzata, il che è un'ipotesi sull'organico oltre che sulla progettazione.
-
-## Concetti collegati
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

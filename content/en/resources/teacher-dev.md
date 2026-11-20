@@ -27,6 +27,7 @@ ai_assist:
     date: "2026-10-24"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 **teacher.dev** is a 501(c)(3) education non-profit, formerly BX Coding, that ships one small app for teachers every day and posts the build. As of October 24, 2026 the streak stood at 53 days and the gallery listed 34 free apps built with classroom teachers, most made in a single day and many local-first, with no account and no student data leaving the device.
@@ -44,6 +45,3 @@ K-12 teachers who want a tool for a specific problem without a subscription, a s
 ## Notes and caveats
 
 The pace is both the pitch and the risk. One-day builds target a real classroom problem, not a research question, so nothing here carries an evaluation and a claim about what an app does should be tested in the classroom. Thirty-two public repositories sit in the GitHub organization while the gallery lists 34, all Apache-2.0 with source available, so an app can be read and self-hosted. Local-first design is a claim to verify per app, and a teacher should confirm before putting any student-facing tool in front of a class.
-
-## Connected Concepts
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

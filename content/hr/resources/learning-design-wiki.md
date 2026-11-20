@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -45,6 +46,3 @@ Dizajneri nastave i nastavnici koji žele dizajnersku odluku s priloženim dokaz
 ## Napomene i upozorenja
 
 Pročitajte ploču o pouzdanosti na svakoj stranici. Wiki održavaju jezični modeli pod jednim ljudskim održavateljem, nijednu stranicu nije provjerila osoba, a mjesto stranicu označava kao dobro potkrijepljen trag, a ne kao nalaz. Tvrdnje nose razinu dizajna, kôd veličine učinka i kôd strogosti, a „veličina učinka nije ispisana“ znači da je izvor nije naveo, a ne da ne postoji. Sadržaj je CC BY-SA 4.0, pa ponovna upotreba mora nositi istu licenciju, a kod je MIT.
-
-## Povezani pojmovi
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

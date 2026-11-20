@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -66,34 +68,3 @@ ai_assist:
 - **「[[usability-research|ユーザビリティ]]の評定は、支援ツールを正当化する。」** 実践者は共同設計されたソーシャルストーリーツールを**高い有用性（SUS 86.8）**と評価したにもかかわらず、その**画像が一般的に西洋的である**こと、**行動トラッカーが目標に紐づいた臨床的判断と不整合である**ことを指摘しました。高い有用性は実質的な失敗と共存していました。SUS のスコアは、適合性への是認ではないのです。
 - **「汎用的なベンチマークは、チューターが特別教育の事例をどう扱うかを教えてくれる。」** 特別教育と教育心理学の文献から取った**923件の事例に基づく対話**のうち、**11のモデルの最良のもの**が記録された基準を満たしました。そして**それが、チューターのベンチマークが扱う範囲の限界です**。標準的な評価は、実践者が最も助けを必要とする事例に届かないのです。
 - **「神経多様性のある学習者に必要なのは、設計要件ではなく宿座的対応である。」** [[neurodivergent-computing-students|Zastudil ら]]は、神経多様性のある情報科学の学生に必要なのが**構造化された課題、少人数で固定されたチーム、明示的な役割定義**であることを見出しました。それは全員に益する一般的な設計要件であり、診断の後に与えられる個別の調整ではありません。
-
-## 関連する概念
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## 関連する記事
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：挑戦的な行動のある学生に対して LLM チューターを評価する(Park ら 2026)
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のための生成 AI による認知的オフローディング
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — ろう・難聴の学習者のための LLM 駆動の作問
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成 AI、バーチャルリアリティ、そしてその先へ：高等教育における神経多様性のある学生のためのデジタル支援技術に関するスコーピングレビュー
-- [[adapted-stories-social-story-intervention-2026]] — 特別教育のための AI 支援ソーシャルストーリー介入：AdaptED Stories の設計
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 視覚言語モデルが Nao ロボットのために Shoebox Tasks を計画する(Kudláčková 2026)

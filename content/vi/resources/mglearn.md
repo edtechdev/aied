@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -44,7 +45,3 @@ Nó nhắm tới giáo viên K–12 và những người phát triển chuyên m
 ## Ghi chú và lưu ý
 
 Nội dung được cấp phép CC BY-NC 4.0 và mã nền là MIT: dùng trong lớp, tự lưu trữ cục bộ và điều chỉnh đều được phép kèm ghi công, còn bán học liệu hoặc gói chúng vào khóa đào tạo trả phí thì cần sự cho phép bằng văn bản của TCEA. Các tác phẩm của người khác không thuộc giấy phép này, và các hoạt động văn học không sao chép văn bản nào từ tác phẩm có bản quyền. Dự án nêu rằng nội dung và bản dịch được tạo bằng AI tạo sinh dưới sự rà soát biên tập, và rằng các bản dịch được máy hỗ trợ và được gắn cờ để nhà giáo dục địa phương rà soát trước khi dùng trên lớp, điều đáng được xem trọng trước khi một quận tiếp nhận chúng ở quy mô lớn. Mọi hoạt động chạy trong trình duyệt của học sinh, không đăng nhập và không thu thập dữ liệu.
-
-## Khái niệm liên quan
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

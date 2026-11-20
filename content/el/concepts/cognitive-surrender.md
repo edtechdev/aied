@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -112,38 +114,3 @@ ai_assist:
 **«Η λύση είναι καλύτερη ΤΝ, αφού η συνθηκολόγηση έπεται των σφαλμάτων.»** Η συνθηκολόγηση έπεται της *δομής* της αλληλεπίδρασης: ένα σύστημα που παράγει πρώτο μια εύλογη απάντηση αφαιρεί την αφορμή για να παραγάγει ο μαθητής μία. Η βελτίωση της ακρίβειας μειώνει τη βλάβη από λανθασμένες απαντήσεις και δεν κάνει τίποτα για την εγκατάλειψη του σχηματισμού κρίσης, που είναι η βλάβη που παραμένει αφού φύγει το εργαλείο.
 
 **«Η διδασκαλία της κριτικής αξιολόγησης αρκεί.»** Είναι αναγκαία και φτάνει πολύ αργά. Μόλις μια εύλογη απάντηση είναι στην οθόνη, η αξιολόγηση γίνεται επιβεβαίωση - γι' αυτό η σχεδιαστική βιβλιογραφία εδώ τοποθετεί την απόπειρα του μαθητή πριν από την έξοδο του συστήματος αντί να την ελέγχει εκ των υστέρων.
-
-## Συνδεδεμένες έννοιες
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Συνδεδεμένα άρθρα
-
-- [[shaw-nave-cognitive-surrender-2026]] — Η Θεωρία των Τριών Συστημάτων και η πειραματική υπογραφή της συνθηκολόγησης
-- [[generative-ai-reduced-study-time-math]] — Μετατόπιση σε επίπεδο πληθυσμού στο ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Το πλαίσιο συνθηκολόγησης/αποφόρτισης/δράσης στην προσχολική και σχολική εκπαίδευση
-- [[du-yuan-epistemic-dependence-2026]] — Εργαλειακή βοήθεια έναντι βοήθειας που φέρει κρίση
-- [[ai-advice-suppresses-ikt-suspension-2026]] — Η κατάρρευση του «δεν ξέρω»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Νευρωνική εμπλοκή και πατρότητα
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Αλόγιστη χρήση και αυτοκατευθυνόμενη μάθηση
-- [[stamatoulis-genai-use-patterns-2026]] — Υιοθέτηση με χαμηλή επαλήθευση έναντι αξιολογικής ενσωμάτωσης
-- [[cognitive-washout-ai-skill-decay-2026]] — Τι συμβαίνει μετά την απόσυρση
-- [[ai-overreliance-complex-adaptive-system-2026]] — Η εξάρτηση ως διαδικασία πληθυσμού
-- [[brcic-effortless-trap-productive-struggle-2026]] — Τοποθέτηση της ΤΝ ώστε το έργο να παραμένει επίπονο
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Εκπαίδευση βαθμονόμησης
-- [[family-school-autonomy-support-genai-2026]] — Εξαρτημένη έναντι αυτόνομης αποφόρτισης
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Ένας βοηθός θεμελιωμένος στο φύλλο εργασίας μείωσε την αποφόρτιση αντί να την αυξήσει, μια οριακή συνθήκη για την υπογραφή της συνθηκολόγησης (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Νατουραλιστική ανάθεση ολόκληρου δοκιμίου: 15 από 77 δοκίμια εξ ολοκλήρου γραμμένα από το μοντέλο, 20 αιτήματα για πλήρες δοκίμιο (Jelson και συν. 2026)

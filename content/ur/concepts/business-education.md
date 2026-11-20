@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -76,36 +78,3 @@ ai_assist:
 - **"طلبہ AI اِس لیے چاہتے ہیں کہ اُنہیں شارٹ کٹ درکار ہیں۔"** طلبہ کی معلومات پر مبنی ایک فریم ورک نے پایا کہ طلبہ **بہت زیادہ شمولیت رکھتے ہیں اور جانتے ہیں کہ اُنہیں کیریئر کے لیے GenAI مہارتیں درکار ہیں**، اور ساتھ ہی وہ **AI ایسے استعمال کرنا چاہتے ہیں کہ نادانستہ علمی بدعنوانی نہ ہو**۔ یہ مطالبہ واضح حدود کے ساتھ قابلیت کا ہے، کام سے بچنے کی اجازت کا نہیں۔
 - **"کاروباری نصاب میں AI ماڈیولز شامل کر دینا ہی فائدہ حاصل کر لیتا ہے۔"** تعمیری ہم آہنگی کی تحقیق نے پایا کہ **فوائد یا خطرات میں سے کون غالب رہا، یہ نصاب میں انضمام کی ڈگری سے طے ہوا** — اصل فرق **ضم کریں، ضمیمہ نہ لگائیں** میں ہے۔ باہر سے جوڑا گیا ماڈیول جانچ کے ڈیزائن کو ویسا ہی رہنے دیتا ہے۔
 - **"اوزار کی نفاست روایتی ای-لرننگ پر بھاری ہے۔"** ایک **130 طلبہ** کے ادراکی مطالعے نے پایا کہ **چیٹ بوٹ اور ایجنٹ، دونوں کی معاونت کو بہتری، شخصی نوعیت اور فیصلہ سازی پر روایتی ای-لرننگ سے اوپر درجہ دیا گیا**۔ یہ دیکھنا قابلِ ذکر ہے کہ یہ کیا ناپتا ہے: طلبہ کا *ادراک* ایک روایتی بنیاد کے مقابلے میں، نہ کہ سیکھنا اُس کے مقابلے میں۔
-
-## منسلک تصورات
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — کیس اسٹڈیز، کیس طریقہ اور کیس پر مبنی گفتگو
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## منسلک مضامین
-- [[csaszar-ai-management-education-2026]] — انتظامی تعلیم پر AI کے اثرات: قدر پر مبنی حکمت عملی کا تجزیہ (Csaszar et al. 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI سے تقویت یافتہ کاروباری عمل کے انتظام کے لیے AI فیصلہ چوکیاں: فریم ورک اور تعلیمی عملی شکل
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: ای کامرس کورس میں ایجنٹک GAI معاونت، سمجھے گئے فوائد اور خطرات (Ilieva وغیرہ 2026)
-- [[drummond-genai-business-schools-framework-2026]] — کاروباری اسکولوں میں GenAI کے لیے طلبہ کی معلومات پر مبنی فریم ورک (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — کاروباری تعلیم میں AI کی ایک دہائی (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — کاروباری اعلیٰ تعلیم میں GenAI کی تعمیری ہم آہنگی (Zhou وغیرہ 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — نصاب میں GenAI کے انضمام پر طلبہ کی بصیرت (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — اعلیٰ تعلیم میں AI اپنانے کے تنظیمی محرکات (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — کاروباری نقالی گیمز میں AI مکالماتی ایجنٹوں کے لیے CAIS-GBL فریم ورک (Wenzel وغیرہ 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — طلبہ کی مارکیٹنگ پوسٹس کی خودکار اسکورنگ میں اتفاق اور غلطی
-- [[shi-genai-experiential-learning-management-education-2026]] — انتظامی تعلیم کی تدریس کو نئے سرے سے ترتیب دینے کے لیے پیدا کردہ AI کے تین طریقہ کار
-- [[alam-process-oriented-collaborative-essays-2026]] — Business Analyst اپرنٹس شپ میں عمل پر مبنی تعاونی مضامین: موضوع کے بجائے دستاویزی تکرار کی نشان زدگی
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — کورس میں بنایا گیا RAG چیٹ بوٹ توقعات بدلا، نتائج نہیں

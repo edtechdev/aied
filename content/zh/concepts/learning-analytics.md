@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -149,71 +151,3 @@ ai_assist:
 - **"没有行动窗口的预测也是有用的。"** 进度预测只有在**可解释且配有行动窗口**时才最可用：[[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2025）]]预测模块级结果，这是导师能够据以行动的形式，而不是一个原始分数。
 
 语义分析只有在类别定义得足够严密可供评分时，才评分得了推理。在一个 90 名学生的五小时 AI 伦理模块中，人工编码者在 1,094 个意义单位上达到 Krippendorff α = 0.82，而人在回路的分类器在 17 个议题与解决方案类别上达到宏 F1 = 0.83 [0.78, 0.87]，在最小的类别上降到 0.68（[[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang 与 Yi（2026）]]）。单组前后测设计无法把观察到的增益归因于该模块。
-
-## 关联概念
-
-- [[automation-bias]] — 为什么一个存在的标记会被当作已被核查而照此行动
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-- [[self-report-measures]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 预测所供给的支持侧：转介、分配，以及它们是否移动的结果
-- [[sensor-and-gaze-analytics]]
-
-## 关联文章
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight：通过文献定义的学习策略解读点击流（Radmehr 等 2026）
-- [[taufer-human-ai-interaction-haidl-2026]] — 人—AI 交换作为结构化记录：提示计数几乎不携带关于进展的信号
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — 把 AI 分析命名并编排为集体论证（Lee, Park & Lee 2026）
-- [[factria-responsible-institutional-analytics-2026]] — 负责任的机构分析：借 AI 支持解释偏见
-
-- [[ai-supported-lecturer-decision-making-2026]] — 高等教育中 AI 支持的讲师决策
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 面向隐私保护学业风险建模的联邦式与可解释学习分析（Villegas-Ch 等人 2026）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 学生问什么重要：LLM 交互深度、任务质量与即时回忆（Tsiligkiris 2026）
-- [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信 LA 本位干预的使能者（Svetec、Divjak & Kadoić 2026）
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 学习设计决策中的 LA 与生成式 AI
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — 从学生风险预测到 SC2R：反事实补救
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 面向个性化学习路径的贝叶斯认知诊断
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 为学习分析蒸馏自我解释的 LM
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI 能为多样的学生画像递送恰当支持吗？一项大规模评估
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 微调的、参与者特定的 LLM 智能体再现协作问题解决对话（Fang 2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA 面向多智能体辅导与参与平衡协作的合成基准
-- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育中未来 ChatGPT 使用的 ML/SHAP 决定因素
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 使 ML 发现对混合课堂中的教师可及
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 带亲和映射的成果本位知识追踪
-- [[an-goel-self-directed-modeling-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — 对 554 门课程中 29,064 项计划活动的马尔可夫链与模式挖掘，揭示一条由习得引领、巩固练习的设计语法
-- [[pulla-parsons-problem-tool-2026]] — Pulla：Parsons 问题中的过程级行为痕迹与面向教师的困难分析（Prol 等人 2026）
-- [[a4l-analytics-pipeline]]
-- [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — 用学习分析支持中学生以生成式 AI 写作
-- [[edtech-privacy-deferral-2026]] — “以后再说”：教育、AI 与 EdTech 中学生隐私的推迟
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标漏掉了什么：对合成教育数据的结构检查
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 从学期早期 LMS 痕迹预测 AI 辅助作弊风险（AUC 0.763）
-- [[thomas-breaking-learning-system-wall-2026]] — 迈向以多模态辅导转录打破学习系统壁垒（Thomas 等人 2026）
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 完成率可能掩盖一次投入度崩塌
-- [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 主要是在观察：感知角色占编码角色标签的 62.5%，且没有受综述的系统在学习者使用中融合多模态流（Kim 与 Han 2026）
-- [[liu-teaching-analytics-dashboard-2026]] — 主动控制微格教学研究隔离出解释层：解读移动了，行动没有（Liu 等 2026）
-- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — 对道德推理的人在回路语义评分：大类上强，小类上弱
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 学生对讨论板的感知：一项为 AI 使能学习分析设计提供信息的接受模型研究
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — 通过工程静力学课程中的用户输入数据考察学生对生成式 AI 的使用
-- [[konca-digital-traces-critical-online-reasoning-2026]] — 汇总痕迹相关反映的是任务差异，而非学生差异（Konca 与 Mehler，2026）

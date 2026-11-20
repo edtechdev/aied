@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -101,60 +103,3 @@ ai_assist:
 - **"提示质量是学生的属性。"** **提示认知追踪的是学科，而不是学生**：[[student-ai-conversations-cognitive-engagement-2026|Chang 与 Li（2026）]]对**来自 116 门课程的 60,087 条提示**作了分类，发现学科预测提示的复杂度。教学生更好地提示，处理的是一种位于学科内容之中的变异。
 - **"学生会形成自己的提示实践。"** 当教师示范提示时，**学生逐字复用它**：在**来自十二个中学 STEAM 小组的 310 条录制提示**中，照抄教师指令很常见。示范产生复制，这正是它是一种系统设计杠杆而非可迁移技能的原因。
 - **"提示首先是学习者技能，其次才是系统属性。"** 这把提示**移入自适应系统设计的杠杆**，并对**投入与效率（练习转化率 28.1% 对 19.6%）**有可测的效应。界面的提示可供性比提示教学更能改变行为。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 结构化使用序列内部的支架层
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — 总括：人工智能技术与技法（模型、大语言模型训练、机器人、RAG、能动性系统）
-
-## 关联文章
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 提示胜任力预测收获并中介家庭数字资本；一个五部分脚手架是可以训练的
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 名学生谈难点：意图对齐，而非提示句法
-- [[wang-teacher-student-centered-agents-physics-2026]] — 代理角色与约束提示作为物理学习中的设计变量（Wang 等，2026）
-- [[gpt-item-generation-l2-listening-2026]] — 基于 GPT 的二语听力题目生成中提示对微调（Aryadoust 与 Wong，2026）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 学生问什么要紧：大语言模型互动深度、任务质量与即时回忆（Tsiligkiris，2026）
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+：面向教育性大语言模型提示的实时教练
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — 面向新闻学批判性人工智能素养的大语言模型任务分类法
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access：提示特权：测量并缓解 LLM 获取中的可及性差异
-- [[principal-trait-analysis-human-ai-skills-2026]] — 主特质分析：人机协作的数据驱动特质
-- [[llms-text-linguistics-teaching-2026]] — 文本语言学教学中的大语言模型
-- [[idea-framework-metacognitive-genai-2026]] — 面向元认知受调节的生成式人工智能使用的 IDEA 框架
-- [[lin-llm-interactive-lesson-generation]] — 大语言模型生成互动式辅导培训课（Lin 等，2025）
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO 人工智能指南翻译到化学教育；认识漂移
-- [[isaza-chatgpt-engineering-prompting-2026]] — 提示行为预测工科学生的表现
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生与人工智能对话中与学科关联的 Bloom 层级认知投入（Chang 与 Li，2026）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 大语言模型作为迭代式教学设计中的代理
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 提示工程对提示素养：一个五阶段的以人为本生成式人工智能投入框架，含五步提示素养循环（Miles、Haber-Curran 与 Arar，2026）
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — 提示工程与模型选择作为人工智能反馈质量的预测因子（Jacobsen 等，2026）
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 评估 LLM 生成的学生写作反馈中的反馈焦点与教学适应性
-
-- [[middle-school-genai-steam-interactions-2026]] — 中学 STEAM 小组在 47.1% 的提示中逐字照抄了讲师的指令
-- [[ecd-prompts-automated-essay-scoring-2026]] — 以证据为中心的设计引导测量中的提示工程：以自动作文评分为例
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 含糊的提示产生了自我重复的澄清循环，并带来最大的挫败感差距
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 提示工程胜任力作为一条公平路径，附一项跨模型脚手架实验（Li 等 2026）
-- [[han-prompt-literacy-ai-dependence-design-2026]] — 提示素养作为一种被感知的能力，却仍能预测投入
-- [[gold-genai-curriculum-design-preservice-2026]] — 提示历史显示职前教师的精炼几乎普遍存在
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — 一个 K–12 游戏，其中第一个目标是写出任何一条提示

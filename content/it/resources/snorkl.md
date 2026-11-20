@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -45,7 +46,3 @@ Ai docenti K-12 che vogliono ascoltare il ragionamento dietro una risposta, e ag
 ## Note e avvertenze
 
 Ogni affermazione sulle capacità riportata qui è materiale di marketing del fornitore, incluso «trusted in 10,000+ schools worldwide», che un distretto dovrebbe verificare rispetto al proprio accordo sul trattamento dei dati. Il fornitore dichiara di rimuovere gli identificatori personali prima di inviare i lavori a OpenAI in base a un accordo che ne vieta la conservazione e l'uso per l'addestramento, di non mostrare pubblicità agli studenti, di non vendere mai i dati e di possedere le certificazioni iKeepSafe e Common Sense Privacy. Snorkl afferma inoltre chiaramente di non assegnare voti: valuta le spiegazioni rispetto a criteri specificati dal docente come feedback formativo, e la votazione resta al docente. Tratta quei giudizi dell'IA come segnali formativi soggetti alle consuete questioni di validità e distorsione, e l'impegno ambientale come intenzione dichiarata, non come compensazione misurata.
-
-## Concetti collegati
-
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

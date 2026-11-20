@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -97,55 +99,3 @@ A AQG é um habilitador-chave do [[adaptive-learning|aprendizado adaptativo]] e 
 **"A geração de questões personaliza a prática naturalmente."** Ela gera oferta, e a personalização é um problema de correspondência. Produzir mais itens não diz qual item um determinado aprendiz deveria ver em seguida, e a questão da seleção adaptativa é um mecanismo separado, com evidência própria.
 
 **"A geração escala a avaliação sem mudar o que a avaliação mede."** Ela muda a composição do que é medido, porque os itens que se geram bem não são uma amostra representativa dos itens que avaliam bem. Formatos fáceis de gerar acabarão por deslocar os mais difíceis de gerar, o que silenciosamente remodela o construto.
-
-## Conceitos conectados
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Artigos conectados
-
-- [[genai-medical-education-transformation-review-2026]] — Revisão de escopo de 153 relatórios de educação médica sobre geração de itens por IA versus qualidade de itens da faculdade
-- [[assessing-quality-ai-generated-exams-field-2025]] — Validação de campo em larga escala da qualidade de exames gerados por IA via IRT
-- [[generate-then-validate-question-gen]] — Geração de questões Generate-Then-Validate
-- [[kt4eqg-personalized-question-generation]] — Geração personalizada de questões via rastreamento de conhecimento
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Geração de questões baseada em LLM para aprendizes surdos e com dificuldade de audição
-- [[llm-educational-question-cognitive-depth]] — Profundidade cognitiva de questões geradas por LLM
-- [[slidesqaqa-pedagogical-question-generation]] — Geração pedagógica de questões a partir de perguntas e respostas de slides
-- [[code-gen]] — CODE-GEN: geração de questões baseada em RAG com humano no laço
-- [[nsmq-riddles-science-math-benchmark]] — Benchmark NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — Tarefas personalizadas baseadas em interesses
-- [[llm-difficulty-calibration-programming-exams-2026]] — Calibragem de dificuldade baseada em LLM
-- [[self-referential-l2-writing-llm-assessment]] — Avaliação de escrita analítica autorreferencial
-- [[cross-dataset-bloom-question-classification]] — Classificação de questões de Bloom entre conjuntos de dados
-- [[llm-chatbots-cs-multiple-choice]] — Chatbots de LLM e itens de múltipla escolha de ciência da computação
-- [[socratic-tests-conversational-assessment]] — Testes socráticos: avaliação conversacional
-- [[llm-turing-test-italian-legal-exams-2026]] — Teste de Turing com LLMs em exames jurídicos
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimativa da dificuldade de itens usando LLMs e ML baseado em árvores
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: avaliação da qualidade de itens de matemática baseada no processo
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: um tutor agêntico que aprende seu estudante em um ciclo de coaprendizagem humano-IA
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automatizando a avaliação construtiva com grandes modelos de linguagem: rumo à avaliação escalável e repetida da competência prática
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões geradas por IA em cursos de ciência de dados
-- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Estudantes não distinguiram MCQs gerados por IA de itens do exame de licenciamento em um exame com nota, e 18,2% dos itens gerados foram eliminados na revisão (Vogt et al. 2026)
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Itens gerados que passam em uma rubrica de redação ainda podem errar o nível de competência pretendido
-- [[islam-human-vs-ai-sba-dental-2026]] — O tempo de finalização caiu de 6,0 para 1,0 minuto por item, medido do rascunho utilizável ao final, não de ponta a ponta

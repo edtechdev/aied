@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
@@ -41,12 +42,3 @@ Responsables d'institutions de formation professionnelle qui décident par quoi 
 ## Notes et réserves
 
 C'est un guide, pas une évaluation. Le document ne fournit aucune donnée de résultats, et ses exemples institutionnels, un modèle d'apprentissage avec IA intégrée aux contenus au College of the North Atlantic (Canada) et la norme kényane de 2023 sur les stages en entreprise dans l'enseignement professionnel, sont des encadrés descriptifs issus de rapports de projet, non des essais indépendants. Les annexes se présentent comme indicatives ; l'échelle de maturité est une aide à la discussion, pas un instrument de mesure. Les métiers critiques pour la sécurité et les professions réglementées ont leur chapitre, mais il défend une position sur la supervision humaine plutôt que de fournir un détail réglementaire. La licence CC BY-SA 3.0 IGO autorise l'adaptation et la republication avec attribution et partage à l'identique.
-
-## Concepts liés
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

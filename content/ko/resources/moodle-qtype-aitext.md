@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,12 +49,3 @@ Moodle 퀴즈에 AIText 문제를 추가하고 프롬프트와 채점 기준을 
 ## 참고사항과 유의점
 
 GPL v3 이상의 오픈 소스이지만 무료라고 해서 운영이 무료인 것은 아닙니다. 누군가는 모델 API 비용을 지불하며, 채점 품질은 모델 선택과 프롬프트 설계에 달려 있습니다. 원격 공급자를 쓰면 자유 서술 답안이 Moodle 서버를 떠나므로, 무엇을 보낼 수 있는지는 기관의 데이터 계약이 결정합니다. 학생 작업을 외부로 보낼 수 없는 사이트를 위해 자체 호스팅 Ollama 경로가 있습니다. 저장소는 공개된 정확도나 일치도 연구를 제시하지 않으므로, LLM 채점이 인간 채점과 동등하다는 가정으로 이 플러그인을 도입해서는 안 됩니다. 어떤 성적이든 무게를 가지려면 [[assessment-validity|타당도]]가 인간 점수에 비추어 지역에서 확립되어야 합니다. 동반 동작은 하드 의존성입니다. 문제 유형만 설치하면 문제를 채점할 수 없습니다.
-
-## 연결된 개념
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

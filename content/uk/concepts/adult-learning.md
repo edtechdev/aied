@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -72,45 +74,3 @@ ai_assist:
 - **«Один хороший інструмент обслуговує дорослих здобувачів».** Дослідження виявило, що **жодна окрема система ШІ для дорослого навчання не задовольняла всіх рекомендацій із проєктування** — потрібна була вся екосистема. Дорослі приходять із зобов’язаннями, переривчастими графіками й різнорідними цілями, тож один продукт не може покрити весь простір проєктування.
 - **«Цифрову грамотність можна припускати на дорослому рівні».** [[community-centered-ai-education-adults|Кейс-дослідження на Середньому Заході США]] спільно спроєктувало програму ШІ-грамотності для **54 дорослих у недостатньо забезпеченій спільноті** і виявило, що орієнтована на справедливість освіта дорослих про ШІ **має спершу звернутися до базової цифрової грамотності та довіри до даних**. Вік не є мірилом цифрової вправності.
 - **«Упровадження — це проблема мотивації».** Формування [[ai-literacy]] і [[trust]] щодо приватності даних має передувати очікуванню впровадження. Готовність випливає з упевненості в тому, що відбувається з чиїмись даними, а не з ентузіазму щодо технології.
-
-## Пов’язані поняття
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Онлайн-викладання і навчання
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Пов’язані статті
-
-- [[ai-adult-learning-guidelines-dis2026]] — Рекомендації з проєктування технологій ШІ для підтримки дорослого навчання
-- [[andragogy-cognitive-delegation-genai-2026]] — Що залишається самокерованим? Перегляд андрагогіки крізь призму когнітивної делегації в дорослому навчанні, опосередкованому генеративним ШІ
-- [[ai-lifelong-learning-policy]] — Штучний інтелект в уповноваженому навчанні: можливості та виклики в політиці освіти дорослих
-- [[sovereign-hive-titl-further-education-2026]] — Sovereign Hive та рамкова модель Tutor-in-the-Loop (TITL) для справедливості в подальшій освіті
-- [[community-centered-ai-education-adults]] — Співпроєктування громадянської освіти зі ШІ для дорослих: кейс із Середнього Заходу
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Нові системи навчання для інституцій дистанційної освіти? Огляд шести досліджень із впровадження AIDA
-- [[institutional-governance-ai-universities]] — Фрагментація політики чи інституційне узгодження? Інституційне управління ШІ в університетах і бізнес-школах
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Збагачені генеративним ШІ навчальні досвіди для обчислювального мислення: систематичний огляд із визначенням меж і рекомендації з проєктування
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Картування формувальної навчальної програми для інженерії програмного забезпечення з підтримкою ШІ через аналіз силabusів
-- [[learner-ai-interaction-patterns-oop]] — Патерни взаємодії здобувачів із ШІ та академічна успішність на курсі об’єктно-орієнтованого програмування
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Проєктування систем ШІ для підтримки навчання на основі продуктивного провалу
-- [[kim-ai-andragogy-2026]] — Застосування ШІ для підтримки андрагогіки (Kim та співавтори, 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Проєктуйте для діапазону залученості: зробіть глибокий сократівський діалог винагороджувальнішим шляхом

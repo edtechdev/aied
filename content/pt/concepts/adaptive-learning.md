@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -116,56 +118,3 @@ A aprendizagem adaptativa é frequentemente confundida com a [[personalized-lear
 - **"A adaptatividade baseada em correção sabe quando parar."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] constataram que sistemas que inferem domínio a partir da correção correm o risco de **encerrar a prática cedo demais** — o sistema lê uma sequência correta como compreensão e retira a prática de que quem aprende ainda precisava. Adaptatividade que para no sucesso pode subtrair exatamente as tentativas que produzem retenção.
 - **"O gargalo é quão boa é a adaptação."** Em um **RCT distrital de dois anos**, a restrição determinante foi a **adesão**: reduzir a inscrição a um único passo elevou a adesão à primeira sessão de cerca de **45% para 83%** apenas com mudanças de desenho, e os ganhos por intenção de tratar cresceram na mesma medida. A adaptação mais engenhosa não serve a ninguém que nunca chega até ela.
 - **"O engajamento persiste uma vez estabelecido."** Uma revisão alinhada à PRISMA de **44 estudos** constatou que a literatura sobre engajamento é enviesada para o engajamento comportamental e mais escassa no engajamento agêntico, e relata um **efeito de novidade** — o engajamento declinando ao longo do tempo em estudos longitudinais do ALEX e de sistemas similares. O engajamento inicial não é uma propriedade estável do desenho.
-
-## Conceitos conectados
-
-- [[online-teaching-and-learning]] — Ensino e aprendizagem on-line
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentic)
-- [[recommender-systems-and-learning-paths]]
-
-## Artigos conectados
-
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: um sistema de classificação adaptativo consciente do momento para avaliação personalizada
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalização excessiva enganosa: o domínio adaptativo pode encerrar a prática antes de os estudantes saberem quando conter uma ação (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (briefing da Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Revisão sistemática do engajamento dos estudantes em plataformas de aprendizagem adaptativa
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoria virtual com CAL: um experimento sobre adesão e aprendizagem
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Tornando a tutoria por IA produtiva: prática de matemática baseada em maestria
-- [[chudziak-ai-math-tutoring-platform]] — Tutoria de matemática adaptativa/personalizada multiagente (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefinindo a aprendizagem personalizada: revisão sistemática
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — IA de tutoria calibrada pela prontidão do estudante versus chatbots de uso geral
-- [[context-based-ai-secondary-chemistry-2026]] — Instrução de química do ensino médio 7E + IA baseada em contexto
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programa adaptativo de STEM baseado em IA para aprendizagem profunda
-- [[graph-its-adaptive-algorithms-2026]] — Tutoria inteligente baseada em grafos para domínios dinâmicos (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico cognitivo bayesiano para trajetórias de aprendizagem personalizadas
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Andaimento ICAP adaptativo em um STI (BKT vs DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-análise reunindo ferramentas adaptativas + de IA em 14 RCTs
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revisão sistemática: trajetórias adaptativas entre os principais casos de uso de integração de IA no ensino superior
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — O sequenciamento adaptativo de problemas supera o sequenciamento fixo: +0,156 DP em um exame sem apoio, mediado pelo engajamento e não pela dificuldade (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: um tutor agêntico que aprende seu estudante em um ciclo humano-IA de coaprendizagem
-
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — O uso de estratégias é dominado pelo estado (ICC médio de 0,14), então perfis estáticos de estudante descartam a maior parte do sinal
-

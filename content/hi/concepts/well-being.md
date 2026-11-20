@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -88,42 +90,3 @@ ai_assist:
 - **"विद्यार्थी की स्वीकृति दर्शाती है कि कल्याण का समर्थन हो रहा है।"** **551 प्रथम-वर्ष के विद्यार्थियों** में **82.76% ने डिजिटल और बुद्धिमान सामग्री के एकीकरण को स्वीकृति दी**, और **उच्च स्वीकृति तनाव के साथ सह-अस्तित्व में थी, जबकि AI कार्य दबाव ने लाभ को कमज़ोर किया**। स्वीकृति और तनाव साथ-साथ बढ़ते हैं, इसलिए संतुष्टि सर्वेक्षण यहाँ विशेष रूप से भ्रामक होते हैं।
 - **"कल्याण सहायता सांस्कृतिक रूप से निरपेक्ष होती है।"** [[culturally-aware-student-stress-chatbot-2026|बशीर और अफ़ज़ल (2026)]] सुकून का वर्णन एक संकर कल्याण-सहायता उपकरण के रूप में करते हैं जो **सांस्कृतिक रूप से स्थित** है, और पेज की अपनी रूपरेखा इसकी सीमाएँ दर्ज करती है। जो सहायता अभिकल्प एक सार्वभौमिक विद्यार्थी मान लेता है, वह जनसंख्या को गलत पढ़ता है।
 - **"कार्य दबाव तकनीक से अलग है।"** निष्कर्ष यह है कि AI **कार्य दबाव** ने एकीकरण के लाभ को कमज़ोर किया, जो कार्यभार को तकनीक के प्रभावों के बगल में नहीं, उनके भीतर रखता है।
-
-## संबंधित अवधारणाएँ
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की संकल्पनाओं के लिए छत्र
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — परिसर सहयोग सेवाएँ जो सलाह, आउटरीच और रेफ़रल को सम्मिलित करती हैं
-
-## संबंधित लेख
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — घर्षण, अर्थ और अकेलापन एक जैविक संकेत के रूप में
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 विद्यार्थियों ने चैटबॉट को उच्च आँका और मानवीय संबंध के नुकसान की सबसे अधिक चिंता की
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI चिंता और शैक्षणिक प्रेरणा के बीच संबंध
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI-सहायित जापानी भाषा सीखने में मनोवैज्ञानिक अनुकूलन की प्रोफ़ाइल और संक्रमण
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — संवादी AI सहभागिता और निर्भरता का एक महत्वपूर्ण कथात्मक संश्लेषण
-- [[mindful-llm-math-tutoring-2026]] — समस्या-समाधान से आगे: गणित सीखने में भावनात्मक और चिंतनशील सहयोग के लिए बड़े भाषा मॉडल
-- [[sec-ai-literacy-narrative-review-2026]] — AI साक्षरता में सामाजिक-भावनात्मक सक्षमताओं का एकीकरण
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — GenAI के साथ छात्रों की सहभागिता (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — AI साक्षरता के लिए शिक्षक शिक्षा (SDT)
-- [[genai-motivation-engagement-2026]] — जनरेटिव AI, प्रेरणा और सहभागिता
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI चैटबॉट, सामूहिक दक्षता और सहयोग
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: छात्र चिंता का LLM-संवर्धित मूल्यांकन (2026)
-- [[policy-deficit-ai-sel-2026]] — AI × SEL शोध में नीति अभाव
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP और मशीन लर्निंग का उपयोग करके पाकिस्तानी विश्वविद्यालय छात्रों के बीच तनाव पहचान और कल्याण सहयोग के लिए एक AI-संचालित सांस्कृतिक रूप से सचेत चैटबॉट
-- [[daoism-ai-education-philosophy-2026]] — वैकल्पिक AI दर्शन: शिक्षा में AI के लिए विधि के रूप में दाओवाद
-- [[ai-emotional-intelligence-teacher-development-2026]] — संबंधगत घनत्वन, AI-समर्थित शिक्षक विकास का मानदंड
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — स्व-रिपोर्टेड तनाव के साथ सह-अस्तित्व में उच्च AI-पाठ्यक्रम अनुमोदन, और अनुकूलन को कमज़ोर करने वाला कार्य दबाव
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI संबंधन और किशोर मानसिक स्वास्थ्य: पूरक बनाम प्रतिपूरक बंधन, एक उलटा-U भविष्यवाणी के साथ
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — अनुभूत AI सहायक बुद्धिमत्ता, लक्ष्य प्रगति और मानसिक स्वास्थ्य, AI साक्षरता को संयमक के रूप में
-- [[ai-emotion-regulation-sport-exercise-2026]] — खेल, व्यायाम और परिसर पारिस्थितिकी के माध्यम से AI-समर्थित भावना विनियमन का संकल्पनात्मक पुनर्गठन
-- [[faculty-ai-well-being-social-supports-2026]] — संकाय AI कल्याण का संरचनात्मक समीकरण मॉडल: स्व-दक्षता पर AI साक्षरता का प्रभुत्व
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — परीक्षा की चिंता हटती नहीं, पुनर्वितरित होती है

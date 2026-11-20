@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, generative-ai, simulation, ai-literacy, learning-design, prompt-engineering]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -42,12 +43,3 @@ ai_assist:
 ## 참고사항과 유의점
 
 이것들은 교육용 데모이지 평가된 개입이 아닙니다. 페이지는 어느 것에 대해서도 학습 성과의 근거를 보고하지 않으며, 여러 개는 독립적인 교실 사용이 아니라 저자 자신의 빌드입니다. 빌드의 품질은 모델과 반복 횟수를 따르므로 한 모델 버전에서 통했던 사례가 나중에 달라지거나 깨질 수 있고, 생성된 도구는 사실을 잘못 말하는 일이 적지 않아 페이지 자체의 점검표는 도구가 제시한 출처에 비추어 모든 숫자를 검증하라는 것입니다. 갤러리는 Bowen의 작업과 다른 교육자의 기고, 그리고 만료될 수 있는 제3자 링크를 섞고 있습니다. 읽는 데는 계정이 필요 없고 페이지는 무료이지만, Bowen의 워크숍과 컨설팅은 유료입니다.
-
-## 연결된 개념
-
-- [[vibe-coding]]
-- [[generative-ai]]
-- [[simulation]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[prompt-engineering]]

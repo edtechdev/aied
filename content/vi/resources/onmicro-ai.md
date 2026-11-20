@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -43,7 +44,3 @@ Nó phù hợp với giảng viên và nhà thiết kế học liệu muốn nh�
 ## Ghi chú và lưu ý
 
 Gói miễn phí giới hạn ở 10,000 tín dụng AI và ba ứng dụng; ứng dụng không giới hạn và các mô hình nâng cao bắt đầu từ gói Pro, còn tích hợp LTI, đăng nhập một lần và phân tích nâng cao được liệt kê ở gói Enterprise, nên những tính năng một cơ sở cần nhất lại là những tính năng phải trả tiền. Kho mã được cấp phép **AGPL-3.0** theo tệp `LICENSE` của nó, điều quan trọng với bất kỳ ai định tự vận hành hoặc sửa đổi nó, và README của nó vẫn ghi LGPL từ trước thay đổi đó, nên hãy đọc tệp giấy phép thay vì README. Các cơ sở giáo dục cũng nên xác nhận điều khoản xử lý dữ liệu của chính mình trước khi đưa bài làm của sinh viên qua một dịch vụ bên thứ ba được lưu trữ sẵn.
-
-## Khái niệm liên quan
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -48,7 +50,6 @@ L'apprentissage des langues est devenu un domaine significatif de l'IA en éduca
 Pour les tuteurs [[embodied-learning|physiquement incarnés]], une méta-analyse de 11 études sur l'apprentissage des langues assisté par robots (N = 595) a trouvé un effet regroupé important sur l'apprentissage d'une L2 (g = 0.83) avec une forte hétérogénéité, et seul le format d'interaction le modérait — les formats en groupe l'emportaient sur le tutorat individuel, tandis que la morphologie du robot, la modalité, l'autonomie et le rôle social n'avaient pas d'effet ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang & Zou (2026)]]).
 
 La granularité des composantes de connaissances est une décision de modélisation dans le tutorat scolaire : [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny et Meurers (2026)]] ont comparé 19 modèles de composantes (KC) sur 11 niveaux de la hiérarchie du domaine FeedBook, avec 153,819 réponses en première tentative de 1,059 élèves de septième année apprenant l'anglais en Allemagne. Les modèles fins au niveau des items prédisaient le mieux pour de nouveaux étudiants sur du contenu connu, tandis que les modèles intermédiaires ancrés sémantiquement généralisaient le mieux au nouveau contenu (ID de propriété + type d'exercice, RMSE 0.4243 sous AFM contre 0.4447 pour l'ID d'élément actionnable). Un audit de couverture d'annotation a montré qu'un mappage strict des propriétés retirait d'abord 45.7% des enregistrements et qu'un outil plus récent réduisait l'exclusion à 30.6%, la seule étiquette combinée positive|statement comptant pour 74.9% des exclus.
-
 
 **L'IA dans l'évaluation des langues** émerge à mesure que les LLM soutiennent la [[automated-question-generation|génération d'items]] et l'évaluation. **[[gpt-item-generation-l2-listening-2026|Aryadoust et Wong (2026)]]** ont comparé l'[[prompt-engineering|ingénierie des invites]] à l'ajustement fin (fine-tuning) pour la génération automatique d'items dans l'évaluation de la compréhension orale en L2 : l'affinement itératif des invites améliorait la qualité des items mais atteignait un plateau, tandis que l'**ajustement fin de GPT-4.1 sur l'invite optimisée** (en maintenant constante la conception de l'invite) produisait des gains supplémentaires — un modèle indiquant quand les concepteurs d'évaluations devraient investir dans l'[[llm-training-and-fine-tuning|adaptation du modèle]] plutôt que dans l'itération des invites.
 
@@ -106,62 +107,3 @@ La synthèse de Zhang, Aubrey, Wu et Chiu portant sur 48 études contrôlées (N
 - **« Les tuteurs robots incarnés fonctionnent grâce à l'incarnation. »** Une méta-analyse de **11 études RALL (N = 595)** trouve un effet regroupé important sur l'apprentissage d'une L2 (**g = 0.83**) avec une **forte hétérogénéité** et — surtout — **seules** les caractéristiques de niveau *interaction* le modéraient. La morphologie et la modalité ne le faisaient pas, si bien que le matériel n'est pas l'ingrédient actif.
 - **« Les items d'évaluation générés par l'IA sont moins bons que ceux rédigés par un enseignant. »** Une comparaison de **52 tâches d'évaluation en anglais langue étrangère notées par 20 enseignants expérimentés** n'a trouvé **aucune différence significative de qualité globale** entre les items générés par l'IA et ceux élaborés par des humains, mais des divergences sur certaines dimensions. Une parité globale assortie de faiblesses précises est une affirmation différente d'une amélioration ou d'une déficience.
 - **« La rétroaction d'un LLM ne peut que noter une rédaction. »** Un système de niveau discursif va plus loin en **nommant le défaut plutôt qu'en notant le texte**, avec une classification des relations entre paires de phrases qui localise les **ruptures de cohérence** telles que les sauts logiques et les liens manquants. La production utile est diagnostique, non numérique.
-
-## Concepts liés
-
-- [[eportfolio]]
-- [[writing-education]]
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## Articles liés
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Les gains des chatbots en expression orale se concentrent sur l'étendue et l'intelligibilité
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profils et transitions de l'adaptation psychologique dans l'apprentissage du japonais assisté par l'IA
-- [[llm-agents-5e-esl-grammar-2026]] — Agents LLM avec le cadre 5E pour l'acquisition de la grammaire anglaise ESLE (Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Sollicitation et ajustement fin de GPT pour la génération d'items de compréhension orale en L2 (Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — Classification du discours par BERT pour l'enseignement de l'anglais
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tâches d'évaluation générées par l'IA et élaborées par des humains en anglais langue étrangère
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen : la littératie en IA chez les enseignants de langue
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Méta-analyse de l'apprentissage des langues assisté par robots incarnés et renforcé par l'IA
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tuteurs IA conçus par les enseignants dans l'enseignement universitaire des langues étrangères : une étude à méthodes mixtes de la motivation des apprenants et de l'expérience d'apprentissage réflexive fondée sur la théorie de l'autodétermination
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[liu-emerging-tech-tefl-review-2026]] — Méta-analyse des technologies émergentes pour l'anglais langue étrangère
-- [[wang-goal-setting-ai-engagement-2026]] — Théorie de la fixation d'objectifs : soutien de l'enseignant, objectifs de réussite et engagement dans l'apprentissage de l'anglais assisté par l'IA (758 étudiants chinois)
-- [[li-language-educators-genai-review-2026]] — Pratiques et développement des enseignants de langue avec l'IA générative
-- [[asr-english-speaking-feedback-metacognition-2026]] — La technologie de reconnaissance automatique de la parole dans l'oral d'anglais universitaire : internalisation de la rétroaction et stratégies métacognitives
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Un programme d'écriture soutenu par l'IA générative pour des apprenants de L2 au primaire (Lu et al. 2026)
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Cécité pragmatique : une sortie langagière de l'IA peut être grammaticalement correcte mais culturellement erronée
-- [[ai-speaking-practice-communicative-readiness-2026]] — La préparation, et non la performance observée
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Étendre l'étayage de l'IA à la lecture collaborative
-- [[acoustic-lexical-native-language-identification-learners-2026]] — L'audio bat un classifieur de transcriptions GPT-4o en zero-shot pour l'identification de la L1 (Uluslu et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - la rétroaction sur le processus a augmenté la consultation des sources et réduit l'usage de la traduction automatique dans un cours de traduction de presse
-- [[wordofa-genai-grammar-instruction-efl-2026]] — L'enseignement de la grammaire assisté par l'IA générative et l'auto-efficacité et la conscience métalinguistique d'apprenants éthiopiens d'anglais langue étrangère
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Méta-analyse à trois niveaux : GenAI agit par la rétroaction et une conception dirigée par l'apprenant, non comme une intervention uniforme (Zhang et al. 2026)

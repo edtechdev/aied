@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -98,33 +100,3 @@ ai_assist:
 - **「AI生成のテキストは、水準に合わせて生成されているから易しい。」** モデルの出力については証拠は逆を向きます。フロンティアモデルは、理解のコストと結びつく構文を過剰に用います。
 - **「AIとともに読むことは一つの行動である。」** AIR尺度は四つの異なる動機を見出し、それらは異なる種類の利用を予測します。
 - **「AIがテキストを書き換えられるなら、読解水準はもう重要でない。」** 分化は、文章の構造的な複雑さよりも、文章の周りの支援を変えます。それは水準を下げることとは異なる介入です。
-
-## 関連する概念
-
-- [[ai-education]] — この領域が属する傘
-- [[language-learning]] — L2の読解は重なるが、そこでの対象は習得である
-- [[writing-education]] — リテラシーの構成する側
-- [[english-education]] — EAP/EFL/ESLの読解とリーダビリティ
-- [[educational-nlp]] — リーダビリティが依存するテキスト測定の層
-- [[assessment]] — 読解の評価とスコアの妥当性
-- [[motivation]] — 読み手がなぜAIを使うのか、そしてそれが処理に何をするか
-- [[scaffolding]] — 分化した読解教材における支援層
-- [[neurodiversity]] — ディスレクシアと読解の困難
-- [[accessibility]] — 人間可読のテキストと機械可読のテキスト
-- [[generative-ai]] — 生成され適応されたテキストの背後の技術
-
-## 関連する記事
-
-- [[air-scale-motivations-ai-reading-2026]] — GenAIを用いた読解の動機を測定する検証済み尺度
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL教室におけるAIを介した読解アセスメント
-- [[genai-differentiated-eap-reading-materials-2026]] — 習熟度別に調整されたEAP読解教材
-- [[llm-children-reading-story-generation]] — 難易度を制御した子ども向け読解用ストーリー
-- [[text-simplification-its]] — 個別指導に向けたテキスト平易化の評価
-- [[clara-developmental-appropriateness-children-stories-2026]] — 可読性公式では捉えられない発達上の難易度
-- [[bird-multimodal-educational-literature-2026]] — Key Stage別の文献分類
-- [[clark-ai-generated-language-readability-2026]] — AIが生成した言語はなぜ読みにくいのか
-- [[sidorkin-ai-generated-course-readings-2026]] — 学習者に合わせて調整されたAI生成の授業用読解教材
-- [[airri-machine-resistant-reading-interface-2026]] — 機械耐性のある読解インターフェースとその可読性コスト
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — 中等教育の読解におけるChatGPTフィードバック
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ディスレクシアのある学習者のためのAI
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 中等学校におけるLLMの利用、ノートテイキング、読解力の無作為化比較

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,59 +91,3 @@ ai_assist:
 - **"GenAI का प्रेरणा प्रभाव एक स्वच्छ, बड़ा लाभ है।"** 42 अध्ययनों के मेटा-विश्लेषण (56 प्रभाव आकार, 6,059 विद्यार्थी) ने प्रेरणा पर g = 0.764 (95% CI [0.566, 0.962]) का प्रभाव पाया **परंतु I² = 93.7% के साथ**। इतनी ऊँची विषमता का अर्थ है कि संचित संख्या ऐसे अध्ययनों के समुच्चय का वर्णन करती है जो एक-दूसरे से असहमत हैं, इसलिए वह असंगत उपचारों का औसत है, पुनरुत्पादनीय प्रभाव नहीं।
 - **"निराशा घटाना प्रेरणा बनाए रखने के समान है।"** एक तीन-शाखा [[rct|RCT]] ने पाया कि स्कैफ़ोल्डेड ट्यूटर और अप्रतिबंधित ChatGPT ने **निराशा समान रूप से घटाई** (3.21 और 3.13)। दो बहुत भिन्न अभिकल्पों ने एक ही भावनात्मक परिणाम दिया, इसलिए निराशा का डेटा उनके बीच भेद नहीं कर सकता।
 - **"प्रेरक अभिकल्प अच्छा अभिकल्प है।"** **222 प्रथम-वर्ष उच्च-विद्यालय विद्यार्थियों** में शिक्षक-से-शिक्षक संवाद प्रारूप ने विकल्प की तुलना में **ARCS प्रेरणा अधिक बढ़ाई** जबकि **समग्र मूल्यांकन में सुधार नहीं किया**। प्रेरणा हिली और आँकी गई गुणवत्ता नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — Learners: शिक्षार्थी-संबंधी अवधारणाओं के लिए व्यापक श्रेणी
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Social-Emotional Learning
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI स्वीकृति के पूर्ववर्ती के रूप में अपेक्षा-मूल्य विश्वास
-- [[liu-ai-assistance-reduces-persistence-2026]] — संक्षिप्त AI उपयोग ने बाद में बिना सहायता वाली समस्याओं पर दृढ़ता कम की (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — तर्कसंगत लेखन पर स्वचालित प्रतिपुष्टि: माध्यमिक विद्यार्थियों की प्रतिपुष्टि स्वीकृतिशीलता और प्रतिपुष्टि धारणा की भूमिका
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — प्रयास विरोधाभास और घर्षणरहित सहायता का दुष्चक्र
-- [[cui-motivation-roles-metacognitive-genai-2026]] — मेटा-संज्ञानात्मक GenAI संलग्नता में प्रेरणा और भूमिकाएँ
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — लिंग, प्रेरणा और GenAI उपलब्धि प्रक्षेपपथ
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI पाठ्यक्रम डिज़ाइन के लिए शिक्षक डिजिटल सक्षमता का आकलन (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — AI के साथ शिक्षा के भविष्य को आकार देने की प्रेरणा
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — शिक्षार्थी विशेषताएँ × TTS संवाद-प्रारूप अन्योन्यक्रियाएँ
-- [[student-perceptions-ai-study-productivity-2026]] — अध्ययन उत्पादकता और शिक्षा के लिए AI उपकरणों पर विद्यार्थियों की धारणाएँ: एक खोजपूर्ण सर्वेक्षण अध्ययन
-- [[liang-ai-learning-motivation-sdt-2026]] — विद्यार्थियों की AI शिक्षण प्रेरणा का SDT latent transition विश्लेषण (2,086 माध्यमिक विद्यार्थी)
-- [[wang-goal-setting-ai-engagement-2026]] — लक्ष्य-निर्धारण सिद्धांत: AI-सहायित अंग्रेज़ी शिक्षा में शिक्षक सहयोग, उपलब्धि लक्ष्य और संलग्नता (758 चीनी विद्यार्थी)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAI के साथ उत्तरदायी रूप से पढ़ाना सीखने में उपयोगिता-मूल्य हस्तक्षेप के प्रभाव (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — प्राथमिक L2 GenAI लेखन कार्यक्रम में निर्माण-विशिष्ट प्रेरणा वृद्धि (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR स्केल: पढ़ते समय AI की ओर बढ़ने के चार कारण परिवार
-- [[genai-math-relevance-intervention-2026]] — GenAI प्रासंगिकता संवाद ने पहचान के रूप में प्रासंगिकता बढ़ाई लेकिन कक्षा की रुचि समान रही
-
-- [[genai-learning-motivation-meta-analysis-2026]] — शिक्षण प्रेरणा पर GenAI के प्रभाव का random-effects मेटा-विश्लेषण (56 प्रभाव आकार, 6,059 विद्यार्थी)
-- [[ai-student-motivation-scoping-review-2026]] — AI और विद्यार्थी प्रेरणा पर 156 अध्ययन: 85.3% ने कोई प्रेरणा सिद्धांत नहीं इस्तेमाल किया, और कवरेज निर्माण, स्तर और देश में संकरा है
-- [[gai-advocacy-practice-art-education-2026]] — GAI वकालत में नीति-अभ्यास का अंतराल शिक्षार्थियों द्वारा आँके जाने वाले तनावकर्ता के रूप में
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — स्कैफ़ोल्डेड ट्यूटर ने आंतरिक प्रेरणा बढ़ाई जहाँ अप्रतिबंधित ChatGPT ने नहीं
-
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — मिलती-जुलती गुणवत्ता वाली AI और प्रशिक्षक प्रतिपुष्टि, जिसमें प्रेरणात्मक अंतर संबंधता से होकर जाता है (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 अध्ययनों की SDT-निर्देशित समीक्षा: आवश्यकताएँ और संलग्नता अकसर मापी गईं, प्रेरणात्मक विनियमन लगभग कभी नहीं
-

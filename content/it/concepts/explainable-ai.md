@@ -23,8 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -90,9 +90,7 @@ Due cautele affinano ulteriormente questo punto, ed entrambe sono rese centrali 
 
 La **spiegabilità per progettazione** è una risposta al problema della fedeltà post-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizzano un decodificatore di spiegazioni con la stessa rappresentazione fusa e lo stesso punteggio predetto che decidono la [[assessment|valutazione]], così che un punteggio basso su un interrogatorio [[formative-assessment|formativo]] produce una motivazione che nomina le domande di approfondimento insufficienti, e lo abbina a un'attenzione a doppia lente sugli standard curricolari e sulle mosse della rubrica specifica della materia. L'allineamento attenzione-rubrica raggiunge il 78,0% contro il 41,7% di GPT-4 zero-shot e il 32,1% di BERT, e la fedeltà è sondata mediante cancellazione controfattuale di passaggi critici per la rubrica insieme a valutazioni umane su una checklist ancorata alla rubrica, dando un punteggio di credibilità della spiegazione di 0,78 — un incremento di 0,31 rispetto a BERT-base. L'audit mostra anche dove l'affermazione architetturale si assottiglia: sugli indizi emotivi il modello alloca il 28,4% del peso attentivo contro il 15,2% di un esperto (allineamento 0,53), con un caso di errore che assegna il 28% al token "frustrated", che gli autori leggono come un adattamento eccessivo all'affetto piuttosto che alla pedagogia e indicano come area di perfezionamento. Incorporare le spiegazioni nel percorso decisionale le rende più fedeli delle razionalizzazioni post-hoc; non le rende corrette.
 
-
 **Ciò che un modello dice di aver usato dipende dalla famiglia tanto quanto dai dati.** Su sette modelli su una stessa coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] hanno trovato che gli approcci simbolici si appoggiavano a fattori cognitivi e [[motivation|motivazionali]], i modelli sub-simbolici ad aspetti cognitivi, conoscenza appresa e genere, ed entrambi trascuravano in larga misura i fattori metacognitivi, mentre il modello neuro-simbolico ne usava un insieme più integrato. Gli stessi studenti e gli stessi indicatori hanno prodotto resoconti diversi di ciò che contava, quindi l'allineamento con la [[learning-theories|teoria dell'apprendimento]] diventa un'affermazione sulle attribuzioni anziché sull'accuratezza.
-
 
 ## Insegnare la spiegabilità come pratica di responsabilità
 
@@ -110,48 +108,3 @@ Per la spiegabilità nello specifico, i compiti che contano sono quelli che cost
 ## Citazione
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Concetti collegati
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Articoli collegati
-- [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
-- [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-specific explanations build teachers' trust and acceptance (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted assessment (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[explainable-probabilistic-kt]] — Explainable knowledge tracing via probabilistic embeddings
-- [[neural-symbolic-knowledge-tracing]] — Neural-symbolic knowledge tracing
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling black-box models into self-explaining LMs for learning analytics
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving risk modeling
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantics-constrained counterfactual recourse for educational decision support
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[multimodal-affective-its-presentation]] — Interpretable closed-loop ITS for multimodal affective feedback
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT adoption in higher education
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework: dual-lens attention and score-parameterized explanations for automated teacher assessment (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading, where detection was never reported to the user (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citazioni e segnali di autorità hanno aumentato la deferenza verso un output errato, con riferimenti talvolta attribuiti male o fittizi
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — i modelli simbolici, sub-simbolici e neuro-simbolici su una stessa coorte attribuivano le proprie previsioni a fattori diversi
-
-

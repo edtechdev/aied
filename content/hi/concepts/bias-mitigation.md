@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,51 +110,3 @@ ai_assist:
 - **"पूर्वाग्रह एक स्कोरिंग और प्रतिपुष्टि समस्या है।"** पूर्वाग्रह **स्कोरिंग से बाहर के कार्य-वर्गों** में प्रवेश करता है: तीन LLM जो **28-छात्र सॉफ्टवेयर-इंजीनियरिंग कक्षाओं को चार टीमों में** असाइन करते हैं, उन्होंने पुरुषों को संदर्भ वितरण से **कम से कम 80% कम बार** भेजा। टीम निर्माण ने अंकन के बराबर परिमाण में पूर्वाग्रह ढोया।
 - **"प्रासंगिक कौशल देने से पूर्वाग्रह हट जाता है।"** कौशल देने से यह **घटा पर हटा नहीं: कौशल-आधारित असाइनमेंट के 99.2% दो आधार-सत्य टीमों में से एक से मेल खाए, फिर भी लिंग ने समान रूप से वैध विकल्पों के बीच फैसला किया (OR 2.53)**। लगभग-पूर्ण कार्य मिलान एक लिंग प्रभाव के साथ साथ चला, इसलिए प्राथमिक मानदंड पर सटीकता निष्पक्षता का प्रमाण नहीं है।
 - **"एक शमन दृष्टिकोण पर्याप्त है।"** शोध **पूरक रणनीतियों** को दर्शाता है, जिनमें निष्पक्षता-सचेत मॉडलिंग भी है, क्योंकि टीम-निर्माण में प्रवेश करने वाला पूर्वाग्रह आउटपुट पाठ पर लक्षित किसी उपाय से संबोधित नहीं होता।
-
-## संबंधित अवधारणाएँ
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — वह पाठक-पक्ष विफलता जिसे यह पेज कवर नहीं करता: बिना जाँचे किसी अनुशंसा को स्वीकार करना
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — न्यूरो-सिम्बोलिक शैक्षिक संरेखण (NSPA)
-- [[ai-scoring-language-bias-physics]] — AI-आधारित स्कोरिंग में भाषा पूर्वाग्रह
-- [[gender-bias-transfer-llm-writing]] — LLM-सहायित लेखन में लिंग पूर्वाग्रह का स्थानांतरण
-- [[paternalistic-filter-llm-history-education]] — पितृसत्तात्मक फ़िल्टर और विभेदी अस्वीकृतियाँ
-- [[fair-explainable-edu-recommendations]] — निष्पक्ष और व्याख्यागत शैक्षिक अनुशंसाएँ
-- [[temporal-smoothness-debiased-kt]] — डीबायस्ड नॉलेज ट्रेसिंग
-- [[ground-truth-reliability-aied]] — AI विश्वसनीयता के लिए ग्राउंड ट्रुथ का आधुनिकीकरण
-- [[data-annotations-pedagogical-hints]] — शैक्षिक संकेत के रूप में डेटा एनोटेशन
-- [[xai-education-framework]] — शिक्षा में व्याख्यागत AI
-- [[antiskillbench-persona-skills-privacy-2026]] — व्यक्तित्व-कौशल गोपनीयता और पूर्वाग्रह ऑडिटिंग
-- [[genai-minoritized-knowledges-disability]] — GenAI और हाशिए पर रहे ज्ञानों का हाशियाकरण
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — चिह्नित शिक्षाशास्त्र: स्वचालित लेखन प्रतिपूर्ति में रूढ़िवाद-संगत पूर्वाग्रह
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — क्या AI विविध छात्र प्रोफ़ाइल के लिए उचित सहयोग दे सकता है? एक बड़े पैमाने पर मूल्यांकन
-- [[bias-representation-text-to-image-education-2026]] — AI-जनित टेक्स्ट-टू-इमेज में पूर्वाग्रह और प्रतिनिधित्व: व्यवस्थित समीक्षा (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — AI शिक्षा के लिए नैतिक मूल्य और नियम
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — भावना वर्गीकरण से कार्रवाई योग्य और उत्तरदायी प्रतिपूर्ति तक: शिक्षण के छात्र मूल्यांकन में NLP की एक स्कोपिंग समीक्षा और साक्ष्य मानचित्र, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — जनरेटिव AI सॉफ्टवेयर इंजीनियरिंग शिक्षा में सामाजिक पूर्वाग्रहों को बढ़ावा दे सकता है
-- [[fairness-theatre-early-warning-systems-2026]] — फ़ेयरनेस थिएटर: विक्रेता-नियंत्रित प्रारंभिक चेतावनी प्रणालियों में पश्च-निष्पक्षता हस्तक्षेपों का मूल्यांकन
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - वर्ग-असंतुलन के अधीन तीन मॉडल-परिवार निम्न प्रदर्शनकर्ताओं को पहचान नहीं सके जबकि संतुलित मीट्रिक स्वस्थ दिख रहे थे
-

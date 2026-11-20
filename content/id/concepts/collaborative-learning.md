@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -79,7 +81,6 @@ Disempurnakan melalui moderasi sosial iteratif oleh tiga peneliti terlatih, pand
 
 [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang dan Nguyen (2026)]] menambahkan sumbu nonverbal pada pengukuran kolaborasi kelompok dengan buku kode keterlibatan video lima kategori yang berlandaskan kerangka Goodwin dan Dillenbourg, diterapkan oleh GPT-4o pada transkrip MLLM. Konstruk induktif Keterlibatan Periferal — fokus individual dengan kesadaran sebaya dan kesiapan untuk terlibat kembali — muncul di 10/10 batch pengodean meskipun tidak memiliki preseden langsung dalam kedua teori pemandu.
 
-
 **AI sebagai mediator netral — dan ketegangan ketika ia berhenti netral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] adalah [[llm|probe LLM]] berbasis Discord yang memediasi batas disipliner dalam tim mahasiswa interdisipliner dengan memunculkan asumsi implisit dan mengembalikan sintesis anonim ke diskusi bersama. Siswa menghargainya sebagai dukungan kognitif sekaligus penyangga relasional, tetapi ketegangan sentral muncul: netralitas AI yang dipersepsikan bersifat menanggung beban, dan terkikis begitu AI bergerak dari mediator netral menjadi penasihat atau penantang — kendala desain kunci bagi [[pedagogical-agent|agen]] yang memediasi kolaborasi sambil mempertahankan [[human-ai-collaboration|kolaborasi manusia–AI]] dan [[trust-calibration|kalibrasi kepercayaan]].
 
 **Protokol fasilitator terstruktur — dan risiko sikofansi.** [[ethics-training-agents-group-ethics-discussion-2026|Seo dan rekan (2026)]] memperluas [[learning-design|desain pembelajaran]] kolaboratif dengan protokol divergensi–deliberasi–konvergensi yang terstruktur: fasilitator LLM menumpuk giliran bicara, mengatur waktu fase, dan merangkum secara bertahap, sebuah format yang dinilai 45 siswa sederhana dan mirip diskusi serta mengurangi kebutuhan fasilitasi eksternal. Desainnya berporos pada ketegangan yang diukur langsung oleh studi itu: agen mendukung keluasan pengambilan perspektif (kelompok menghasilkan kumpulan pemangku kepentingan dan solusi yang lebih besar dan lebih beragam, dan agen secara konsisten menyuarakan sudut pandang minoritas), namun persetujuan yang bersifat [[ai-sycophancy|sikofansi]] dan tanpa penalaran mendatarkan konflik kognitif yang membuat kolaborasi memperdalam pemikiran. Partisipan meminta keluaran agen yang memaparkan langkah deliberasi antara alih-alih hanya kesimpulan, dan kontraargumen yang mempertahankan ketidaksepakatan yang sejati.
@@ -116,62 +117,3 @@ Pembelajaran kolaboratif menempati puncak [[icap-framework|kerangka ICAP]] (Inte
 - **"Memberi AI kepada kelompok berarti lebih banyak kolaborasi."** Tinjauan lingkup atas **18 studi** memetakan trade-off di seluruh kerja kelompok: GenAI mendukung **pengembangan pengetahuan, pembangkitan ide, dan efisiensi komunikasi** sekaligus membawa biaya relasional dalam intervensi yang sama. Keuntungan efisiensi dan biaya relasional datang bersamaan.
 - **"Pembelajaran kolaboratif berbantuan AI punya dukungan meta-analitik."** **Satu-satunya** kontras meta-analitik yang tersedia untuk kerja kolaboratif berbantuan AI berada **di dalam** intervensi PBL/PjBL yang didukung GenAI alih-alih diestimasi secara langsung, sehingga ia adalah komponen dari efek yang lebih luas, bukan pengukuran kolaborasi.
 - **"Mitra LLM mempertahankan penalaran kelompok itu sendiri."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash dan Connell Pensky (2025)]] mengujinya pada skala kelas dengan mahasiswa pengantar ilmu sosial, justru karena pemertahanan adalah pertanyaan terbuka dan bukan asumsi.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Kolaborasi AI bersama yang terskrip dan desain perannya yang teruji
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[group-work]] — Kerja kelompok
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-- [[lin-ai-peer-collaborative-mathematics-2026]] — Apa yang membuat agen LLM terbaca sebagai teman sebaya: keamanan, penalaran tentatif, ketidaksempurnaan yang wajar
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 ahli menemukan risiko sosial satu sisi: proses kolaborasi rentan tanpa jalur peningkatan
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pembelajaran berbasis masalah dan berbasis proyek sebagai kerangka menjanjikan bagi pendidikan yang didukung AI generatif: bukti yang muncul dari tinjauan sistematis dan meta-analisis tiga tingkat
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Agensi siswa yang muncul dalam kolaborasi manusia–AI implisit: persona suportif vs. kontrarian
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: tutor kolaboratif adaptif AI yang proaktif untuk pemrograman berpasangan
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: mediasi disipliner AI dalam tim proyek mahasiswa
-- [[academic-league-of-ai-2026]] — Academic League of AI: pendidikan AI yang kolaboratif dan berbasis proyek
-- [[icap-cognitive-engagement-llm-agents]] — Kerangka ICAP yang diperluas untuk mengukur keterlibatan dalam dialog kolaboratif
-- [[llm-facilitation-timing-online-discussions]] — Penentuan waktu fasilitasi LLM dalam diskusi kolaboratif daring
-- [[ba-ai-agents-cscl-review-2026]] — Tinjauan agen AI dalam pembelajaran kolaboratif berbantuan komputer
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI dan kerja kelompok siswa: tinjauan lingkup (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Tolok ukur sintetis ASTRA untuk tutoring multiagen dan kolaborasi dengan partisipasi seimbang
-- [[xu-genai-collaborative-space-2026]] — GenAI sebagai agen dan ruang kolaboratif dalam dinamika kelompok kecil (Xu dan rekan 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Desain pembelajaran berbasis ringkasan yang dihasilkan AI di forum diskusi daring
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI sebagai infrastruktur koordinasi dalam kelompok siswa: penggunaan yang diintensifkan, yang ditahan, dan yang tidak diberlakukan
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agen Pelatihan Etika: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Bermain Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Kerja kolaborasi AI yang berorientasi sosial tidak pernah menjadi topik dominan dalam 1,048 publikasi
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Konfigurasi epistemik kelompok menentukan di mana AI berada: simpul integrasi pada kelompok dengan prakonsepsi beragam, jalur linier kueri-lalu-proses pada kelompok yang serupa, pada pengetahuan awal yang setara (Wang dan rekan 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Pasangan dengan sistem multiagen menghasilkan proyek terbaik sementara kerja solo menghasilkan keuntungan berpikir kritis terbesar

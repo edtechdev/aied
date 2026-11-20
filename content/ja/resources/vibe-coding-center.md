@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -44,7 +45,3 @@ ai_assist:
 ## 注記と注意点
 
 このセンターは指針であり、準拠のための製品ではありません。サイトは自身の WCAG 2.2 AA の目標について適合を主張せず、「これらのファイルを使えば自分のサイトは準拠しますか」という問いには「いいえ」と答え、エンジニアリングのレビューは学校の承認や法務のレビューに代わらないと述べています。セキュリティの棚は axe-core、Gitleaks、ZAP、Playwright を指しますが、これらは同梱のソフトウェアではなく参照であり、侵襲的なものは使い捨てか明示的に許可された対象向けです。読むのにアカウントは不要です。HTML ページの再ビルドには Python と `markdown-it-py` が必要で、これはビルドの依存関係であり訪問者の依存関係ではありません。リポジトリは MIT ライセンスですが、第三者のアートワークとリンク先のプロジェクトは独自の条件を保ち、それは `CREDITS.md` に記録されています。
-
-## 関連する概念
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

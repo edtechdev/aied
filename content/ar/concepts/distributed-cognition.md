@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -54,7 +56,6 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - **الإدراك الممتد خيار تصميمي لا خاصية أداة.** يجادل [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa and Duarte Arias (2026)]] بأن الذكاء الاصطناعي التوليدي استبدالي افتراضيًا لأنه يؤدي المهمة الإدراكية، لكن النظام نفسه يصير تكميليًا حين ينقد مسودة أو يقدّم تغذية راجعة على المتعلّم تقييمها. ويجعل إطار العقل الممتد وحدةَ التحليل المصنوعَ مع استخدامه، وهو الصيغة المعيارية لسؤال التوزيع في هذه الصفحة.
 
-
 ### الإدراك الموزّع والمنظورات ذات الصلة
 
 تتعامل قاعدة المعارف مع الإدراك الموزّع إلى جانب تقاليده النظرية المُجاوِرة التي تتقاطع ولا تتطابق:
@@ -67,7 +68,6 @@ updated: "2026-11-08T10:26:27-05:00"
 ### إدراك مَن؟ مشكلة وحدة التحليل
 
 يدفع [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] سؤال وحدة التحليل هذا أبعد مما تفعله معظم أعمال هذا التقليد. فادعاؤه أن الثقافة ليست ملكًا فرديًا بل شيء يُنجَز مع المواد والآلات، وهو ما يجعل المتعلّم الفرد وحدة التحليل الخاطئة. ولذا لا يستطيع إطار كفاءة متمركز حول الشخص أن يسجّل المساهمات البنيوية أو غير البشرية، فيظل الميدان يسمّي التوزيع ثم يحلّه عائدًا إلى المتعلّم. وحافة الإنصاف في حجّته عن الصعوبة: فالتأملية تعتمد على الخبرة الحياتية وعلاقات القوة، لذا يحمل الطلاب الذين تقع لغتهم أو ممارساتهم الكتابية أبعد ما يكون عن المعيار المُشفَّر أكبر كلفة. والحجّة نظرية ولا تُبلّغ عن أي مجموعة بيانات، وتوجّهاتها التصميمية تبقى مقترحات غير مُختبَرة.
-
 
 ### لماذا يهمّ لتصميم الذكاء الاصطناعي وتقييمه
 
@@ -82,35 +82,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«مستند مشترك يعني إدراكًا مشتركًا.»** اختلفت التصنيفات القائمة على الحجم لدى **97 متعلّمًا** في **المعرفة المسبقة والتأليف** لكن **لا في التلقين القائم على الدور النشط أو مستوى الفهم**. فحجم المشاركة قاس التعرّض لا توزيع العمل الإدراكي — لذا فتحليلات [[learning-analytics|استخدام]] أداة تعاونية تقول القليل عن من كان يفكّر.
 - **«الجميع يُفرغون إلى الذكاء الاصطناعي بالقدر نفسه.»** **يفوّض المعلّمون المبتدئون حصةً كبيرة من الحمل الإدراكي لتصميم التعليم إلى نظام الذكاء الاصطناعي**، فيبلغون **توزيعًا يهيمن عليه الذكاء الاصطناعي** يقبلون فيه الردود إلى حدّ كبير، بينما يوزّع المعلّمون الخبراء والعارفون بالذكاء الاصطناعي توزيعًا مختلفًا. فالخبرة تظهر في موضع وضع الحمل لا في مقدار استخدام الذكاء الاصطناعي فحسب.
 - **«مزيد من مشاركة الذكاء الاصطناعي يعني مزيدًا من الدعم.»** التوزيع الذي يهيمن عليه الذكاء الاصطناعي هو النمط الذي ينبغي مراقبته، لأن حصة الإنسان من العمل الإدراكي تتقلّص بينما يرتفع حجم المخرَج. فيمكن للنظام أن يبدو أكثر قدرةً بالتحديد بقدر ما يفعل المستخدم أقل.
-
-## مفاهيم مرتبطة
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## مقالات مرتبطة
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — دراسة تجريبية لحلّ المشكلات التعاوني بين الإنسان والذكاء الاصطناعي بعدسة الإدراك الموزّع والتنظيم المشترك
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — الذكاء الاصطناعي كوسيط بيداغوجي يُعيد توزيع الإدراك على فاعلين بشريين وغير بشريين
-- [[ai-cognitive-partner-co-regulation-learning]] — الذكاء الاصطناعي كشريك إدراكي في التفكير المنظَّم مشتركًا
-- [[ensemble-cognition-philosophy-ai-education]] — إطار الإدراك الجماعي يُعيد تصوّر التفكير كتفاعل بين الإنسان والذكاء الاصطناعي
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — متعلّم ما بعد الإنساني بإدراك موزَّع على أنظمة بيولوجية وصناعية
-- [[fowlin-operationalizing-learning-principles-ai]] — تجريد الإدراك الموزّع إلى جانب التعلّم التجريبي والموقوفي
-- [[cognitive-commons-ai-expertise-regeneration]] — مأساة الكومن المعرفي: الذكاء الاصطناعي وتجديد الخبرة
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — تفاعل المعلّم مع الذكاء الاصطناعي في تصميم الدرس: إدراك موزَّع سائد بالذكاء الاصطناعي مقابل تكميلي بحسب الخبرة والتمكّن (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — الذكاء الاصطناعي التوليدي كوكيل وفضاء تعاوني: كيف يُوزّع إعداد الوصول إدراك المجموعة (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — إطار التوزيع الإدراكي: خمسة أنواع تفاعل وأربعة أدوار من استخدام ذاتي التوجيه لـChatGPT
-
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — الذاكرة التبادلية مع الذكاء الاصطناعي التوليدي: تقسيم العمل والتحويل التأملي يتوسّطان التفكير النقدي (Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — لماذا المتعلّم الفرد وحدة التحليل الخاطئة
-- [[rivera-novoa-genai-extended-cognition-2026]] — الإدراك الممتد في تعلّم العلوم: الذكاء الاصطناعي التوليدي استبدالي افتراضيًا وتكميلي بالتصميم (Rivera-Novoa & Duarte Arias 2026)
-

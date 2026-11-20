@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
+connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -75,32 +77,3 @@ ai_assist:
 **"평생학습은 성인이 더 많은 강좌를 듣는 것이다."** 강좌 수강은 더 넓은 요구의 한 가지 전달 형태일 뿐입니다. 과제가 바뀔 때 역량을 유지하고 다시 세우는 일입니다. 지속적인 재생산이 필요한 인력에게 부족한 것은 강좌 제공이 아니라, 새로운 역량이 실제로 형성되는 연습 기회입니다.
 
 **"평생학습은 개인의 책임이므로 제도적 설계는 부차적이다."** 재생산 문제는 구조적입니다. 형성적 업무가 애초에 어디에 존재하는가의 문제이며, 개인은 자신의 발달에 필요한 그 업무를 스스로 만들어 낼 수 없습니다. 이를 동기 부여의 문제로 틀 짓는 것은 연령 분포의 아래쪽에 집중된 16% 감소를 전혀 설명하지 못합니다.
-
-## 연결된 개념들
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[professional-training]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-
-## 연결된 글들
-
-- [[ai-adult-learning-guidelines-dis2026]] — 성인 학습을 뒷받침하는 AI 기술 설계를 위한 지침
-- [[ai-guided-learning-audiovideo-2026]] — 기술 습득을 위한 AI가 안내하는 학습
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs로 고등교육 재고하기
-- [[andragogy-cognitive-delegation-genai-2026]] — AI 매개 학습에서의 안드라고지와 인지적 위임
-- [[ai-lifelong-learning-policy]] — 평생학습: 성인 교육 정책에서의 기회와 도전
-- [[community-centered-ai-education-adults]] — 성인을 위한 공동체 중심 AI 교육의 공동 설계
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지의 비극: AI와 전문성의 재생산
-
-- [[kim-ai-andragogy-2026]] — 안드라고지에서 협력 학습 에이전트로서의 AI에 관한 성인 학습자의 관점 (Kim et al. 2026)
-

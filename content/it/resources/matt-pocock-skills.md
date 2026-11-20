@@ -39,7 +39,7 @@ ai_assist:
 translation_of: "resources/matt-pocock-skills"
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
-
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -51,6 +51,3 @@ L'esempio più evidente è `teach`, che si sviluppa su più sessioni e tratta la
 ## Cosa sapere prima di adottarla
 
 Tutto è [[open-source|open source]] sotto licenza MIT e liberamente utilizzabile come punto di partenza per l'alfabetizzazione sull'[[ai-literacy|AI]] a livello locale o per lo [[self-directed-learning|studio autonomo]]. L'adozione è ampia e in rapida evoluzione: circa 270.000 stelle e 23.000 fork al controllo di settembre 2026, con il commit più recente il 18 settembre 2026. L'avvertenza riguarda l'ambito. Le skill presumono il contesto di lavoro di un [[human-ai-collaboration|ingegnere]], sono organizzate in categorie di ingegneria, produttività, deprecate e in lavorazione, quindi alcune voci sono esplicitamente incomplete o ritirate, e il README funge anche da modulo di iscrizione alla newsletter. Considerate le skill di insegnamento e di interrogatorio come la parte trasferibile, e aspettatevi di dover riscrivere qualsiasi di esse prima di metterla di fronte a studenti.
-
-## Concetti collegati
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

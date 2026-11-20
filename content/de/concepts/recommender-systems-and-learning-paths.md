@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -100,42 +102,3 @@ Dieselbe Literatur hat begonnen, Abhilfen gegen Einengung vorzuschlagen, wenn au
 **„Spärliche Daten sind ein technisches Ärgernis."** Bei den Sparsamkeitsniveaus dieser Literatur (0,9981) sieht das System fast nichts, was Kaltstart und Popularitätsbias strukturell macht statt durch Tuning behebbar. Ein Empfehlungssystem, das auf diesem Signal trainiert ist, wird systematisch an die Oberfläche bringen, was bereits populär ist, und stille oder ungewöhnliche Lernende sind die, die es nicht sehen kann.
 
 **„Erklärbarkeit ist ein Berichtsmerkmal."** Ob eine Lehrkraft oder eine lernende Person eine Empfehlung prüfen kann, ist eine Legitimitätsbedingung: ein Pfad, den eine lernende Person nicht untersuchen kann, ist einer, den sie nicht anfechten kann, und das ist ein Governance-Problem, bevor es ein Schnittstellenproblem ist.
-
-## Verbundene Konzepte
-
-- [[knowledge-graph]] — Strukturierte Repräsentationen von Konzepten, Ressourcen und Vorbedingungsrelationen
-- [[explainable-ai]] — Erklärung als Designmerkmal, das Verständlichkeit und Vertrauen mediiert
-- [[curriculum-design]] — Ordnungsentscheidungen, die Empfehlungssysteme modellieren, erschließen und reproduzieren
-- [[learning-design]] — Die geplante Abfolge von Aktivitäten, an der Pfadanalysen arbeiten
-- [[learning-analytics]] — Die Daten und Methoden hinter Empfehlung, und das Objekt des Audits
-- [[cognitive-diagnosis]] — Diagnose von Wissenszuständen, die Sanierungspfade anschieben
-- [[knowledge-tracing]] — Mastery über die Zeit modellieren, um zu entscheiden, wofür eine lernende Person bereit ist
-- [[student-modeling]] — Lernendenrepräsentationen, die Empfehlung konsumiert
-- [[personalized-learning]] — Das weitere Ziel; diese Seite deckt die Auswahlentscheidung ab
-- [[adaptive-learning]] — Der Echtzeit-Anpassungsmechanismus; diese Seite deckt Ranking und Sequenzierung ab
-- [[intelligent-tutoring]] — Die Plattform, die im Dialog auf Empfehlungen reagiert
-- [[bias-mitigation]] — Fairnessinterventionen in Ranking und Exposition
-- [[equity-in-ai-education]] — Gruppenbezogene Unterschiede in der Empfehlungsqualität
-- [[human-in-the-loop-ai]] — Aufsicht über automatisierte Ressourcennavigation
-- [[self-directed-learning]] — Von Lernenden gepflegte Pfade und lebenslange Navigation
-- [[lifelong-learning]] — Graphstrukturiertes Lernen jenseits einer Abschlussabfolge
-- [[trust-calibration]] — Vertrauen an die Verlässlichkeit der Empfehlung anpassen
-- [[student-support-and-success]] — Unterstützung, Ressourcen und akademische Pfade empfehlen
-
-## Verbundene Artikel
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrides kollaboratives Filtern plus Wissensgraph für multimodale Unterrichtsressourcen, mit fähigkeits- und fortschrittsbewusster Fusion (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Heterogener Wissensgraph + GRU-Empfehlungssystem mit GroupDRO-Fairness und kontrafaktischer Erklärbarkeit (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domänengeleitete Erklärungen bauen mehr Vertrauen der Lehrkräfte auf als Feature-Importance-Diagramme (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — Lernen von Voraussetzungs-Beziehungen mit Irreversibilitätsconstraint für Richtungskonsistenz (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — Empfehlung von Programmierübung über musterbasierte Ähnlichkeit der Wissenskomponenten (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov- und Mustamining-Analyse von 29.064 gestalteten Aktivitäten über 554 Kurse hinweg (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayessche DINA-Diagnose und kürzeste Nachholpfade, vermittelt über kognitive Last (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Abbildung der Fragen von KI-Lernassistenten auf einen mit GPT-4 extrahierten Voraussetzungs-Graphen, um Lücken auf Curriculum-Ebene zu finden (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity-Graphen als Alternative zum festen Curriculum für lebenslanges Lernen (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Fünfstufige Taxonomie, die zeigt, dass die meisten Mensch-KI-Interaktionen Konsultation statt Kollaboration sind (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Unterstützung von Autonomie versus Druck als Prädiktor konstruktiver oder zwanghafter KI-Lernpfade (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — PRISMA-Review zu Trends, Lernpfaden und Empfehlungsmodellen des personalisierten Lernens (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: ein wissenszentrierter Planungs-Benchmark, der zeigt, dass LLMs 90,9 % Validität erreichen, aber nur 44,3 % Adaptivität (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Übungsempfehlung als sequentielle Entscheidung über einen semantisch verankerten Tracer
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Verhaltensbasiertes Clustering von 14.003 Datensätzen in sechs Profile, abgebildet auf Lernobjekte mit einem diversitätsregularisierten Empfehlungsrahmenwerk (Najem et al. 2026)

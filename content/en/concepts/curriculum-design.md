@@ -13,6 +13,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 > **Curriculum Design** — the process of planning and structuring what is taught across courses, programs, and institutions, including learning objectives, content sequencing, assessment strategies, and skill progression. In the AI era, curriculum design must balance foundational knowledge with emerging AI competencies, determining not just what students learn but how they learn to work with and critically evaluate AI tools.
@@ -54,7 +56,6 @@ Integration in practice lags the frameworks. [[critical-media-literacy-education
 
 A PRISMA review of 39 STEAM studies (2016–2025) found a parallel imbalance in AI-literacy elements: implementations developed technical literacies — fundamental AI concepts, [[computational-thinking|computational thinking]], [[statistics-and-data-science-education|data literacy]] — while underdeveloping ethical awareness, creative imagination, and creating, managing and designing with AI, so auditing each unit against them is the practical response ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
-
 [[student-experience|Student voice]] is another design input: 84% of 166 final-year business students wanted GenAI taught in their units and 85% saw it as essential for employability, while only 7% had learned about it from their university ([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
 
 A 42-study review of pre-university [[ai-education|AI education]] finds curricula moving from technical content toward competency-based models built on frameworks such as AI4K12 and the Five Big Ideas in AI, with [[ai-literacy|AI literacy]] treated as a cross-curricular competency while standardized instruments for assessing it remain absent ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
@@ -64,7 +65,6 @@ Instructors and employers agreed on the importance of only one of 26 AI skills �
 K-12 ML activity design stays at the surface: a review behind the ICE-T framework found that invisible use, button interaction, and model deployment account for almost 60% of coded supervised-learning activities, open-ended creation appeared only twice, and technical and societal perspectives co-occurred in only about 3% of activities ([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
 
 **[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education|Kapsalis (2026)]]** explores how generative AI reshapes architectural design [[pedagogy|pedagogy]]. **[[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam|Doan Viet et al. (2026)]]** and **[[llm-cultural-relevance-k12|Wang et al. (2025)]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
-
 
 **Embed AI inside the discipline rather than beside it.** A three-tier (introductory, application, advanced) AI curriculum folded [[machine-learning|machine learning]] into existing thermal-engineering topics across a 39.1-hour course rather than adding computer-science electives, avoiding extra load on mechanical-engineering students and releasing its syllabus, data and code openly ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 
@@ -94,7 +94,6 @@ Structure, not prompt phrasing, is what makes AI drafting reliable in production
 
 Curriculum design connects directly to [[learning-design|learning design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy|AI literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role|teacher role]] and [[educational-development|educational development]] because curriculum change requires educator preparation, and to [[scaffolding|scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed|higher education]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
-
 **Choosing one AI literacy framework means choosing a vocabulary nobody has crosswalked.** In a scoping review of 50 K-12 frameworks, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] found competency definitions converging on cognitive, affective, behavioral, ethical and social dimensions while the labels and constructs did not align. Only the ABCE framework approached a shared measurement tradition, validated across Hong Kong, Shanghai and Taiwan, and progression across grade bands was proposed repeatedly and tested nowhere.
 
 ## Common Misconceptions
@@ -102,58 +101,3 @@ Curriculum design connects directly to [[learning-design|learning design]] — c
 - **"An [[llm|LLM]] can map a curriculum once validated at high reliability."** GPT-o3-mini distributed **100% across seven enterprise skills for each of 48 assessments**, reaching **Krippendorff's alpha of 0.81** against expert weights — and **agreement** broke down on particular skills. High overall reliability with uneven agreement is the pattern to check before trusting the mapping.
 - **"Embedding AI literacy means adding a course."** LearnAI shows the embedded form: a **wide-exposure layer of short presentations inside 18 existing courses across five disciplines (293 students)**. The exposure was distributed across the curriculum rather than gathered into a unit.
 - **"Students arrive already able to evaluate media critically."** Only **13.8% of surveyed education and journalism students** said their coursework addressed critical media analysis, against **97.8% who rated it important**. The gap between valuing a skill and being taught it is the curricular opening.
-
-## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[recommender-systems-and-learning-paths]]
-
-## Connected Articles
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Weighted, expert-validated skill mapping for accreditation
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-
-- [[rodafinos-llm-curriculum-audit-2026]] — Large Language Model–assisted curriculum audit in psychology: A prompt-based method

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -85,7 +87,6 @@ ai_assist:
 
 তাঁদের কাঠামো এখানে যে যাচাইটি জরুরি তাও জোগায়: [[explainable-ai|ব্যাখ্যাযোগ্য এআই]] প্রকাশ করতে পারে স্বয়ংক্রিয় কোডিং অর্থগত বোঝাপড়া অনুসরণ করছে, নাকি কেবল শব্দ। যে কোডিং-প্রবাহ মানব-লেবেলের সঙ্গে মেলে, সেটি তবু ভুল জিনিস পড়তে পারে।
 
-
 মানব কোডিংয়ের সঙ্গে স্বয়ংক্রিয়করণ কেবল সহায়তা নয়, মিলতেও পারে — এমন পরিমাণগত প্রমাণ আসে কথোপকথন-বিশ্লেষণ থেকে। [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi প্রমুখ (2026)]] ছোট-দলীয় প্রতিলিপির এলএলএম থ্রেডিং বেঞ্চমার্ক করেন, তারপর পরীক্ষা করেন স্পষ্ট থ্রেড-লেবেল ABCDE সম্পর্ক-স্কিমে পরবর্তী কোডিংকে স্ক্যাফোল্ড করে কি না: সব-একসঙ্গে প্রম্পটে এলএলএম-উৎপন্ন থ্রেড-লেবেল যোগ করলে কোডিং-উদ্দীপনার মুভের জন্য Cohen's kappa 0.0502 থেকে 0.6325-এ ওঠে, আর এলএলএম থ্রেডিংয়ের খরচ প্রতি প্রতিলিপিতে \$1-এরও কম, মানব থ্রেডের প্রায় \$25-এর বিপরীতে। লাভটি বহন করেছে বাচনিক গঠন, কাঁচা মডেল-সক্ষমতা নয়।
 
 [[hur-computational-analysis-teacher-group-interactions-2026|Hur প্রমুখ (2026)]] একটি পর্যায়-নেতৃত্ব টাইপোলজি দেন যা তিনটি বিশ্লেষণ-পর্যায় — অন্বেষণ, ব্যাখ্যা ও নিশ্চিতকরণ — প্রত্যেকটিকে প্রধানত মানব- বা কম্পিউটার-নেতৃত্বাধীন হিসেবে শ্রেণিবদ্ধ করে। 15টি উচ্চ-বিদ্যালয় গণিত শ্রেণিকক্ষ-ভিডিওর একটি কার্যসহ কেস স্টাডিতে কম্পিউটার-নেতৃত্বাধীন অন্বেষণ চালানো একটি ভঙ্গি-ভিত্তিক শনাক্তকারী 317টি শিক্ষক–দল মিথস্ক্রিয়া-ঘটনা সামনে আনে, আর তাৎপর্যপূর্ণ ফলাফলগুলো কেন্দ্রীভূত সেই কীপয়েন্টগুলোতে যা শনাক্তকরণ-হিউরিস্টিক নিজেই প্রাধান্য দিয়েছিল।
@@ -105,7 +106,6 @@ ChatGPT-4o ও Copilot প্রম্পট করলে যোগাযোগ-
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith প্রমুখ (2026)]] প্রথম সরাসরি এলএলএম-বনাম-মানব নিগমিত-কোডিং বিশ্লেষণ দেন, তত্ত্ব-ধারণা প্রবন্ধে চারটি মডেল জুড়ে 240টি নকশা-কোষ, 8,040টি উপাত্ত-সারি ও 60,060টি প্রম্পট চালিয়ে। ভ্যারিয়েন্সে প্রাধান্য পেয়েছে মডেল-পরিচয়: পারস্পরিক সম্পর্ক-ভ্যারিয়েন্সের আংশিক ইটা-স্কোয়ার্ড 0.19 এবং পক্ষপাত-মডেলে F = 578.36, অথচ প্রম্পট-ধরন অ-তাৎপর্যপূর্ণ। গুণমান দাম থেকে সরে গেছে — Claude Sonnet 4 সর্বনিম্ন মডেল-ত্রুটি লজিট (-1.90) পেয়েছে GPT-4.1 Mini-র -1.05-এর বিপরীতে, আর Gemini 2.5 Pro \$178.13 খরচ করেও \$56.77-এর GPT-4.1 Full-এর চেয়ে পিছিয়ে।
 
 [[ober-persistence-pedagogical-agent-dialogues-2026|Ober প্রমুখ (2026)]] গঠন-স্তরের কোডিং-সম্মতি পদ্ধতিগতভাবে ম্যাপ করেন, একটি শিক্ষাগত এজেন্টের সঙ্গে শিক্ষার্থীদের সংলাপে পাঁচটি গঠনে আটটি ChatGPT-4o কনফিগারেশন দুইজন প্রশিক্ষিত মানব-কোডারের বিপরীতে চালিয়ে। স্ব-সংগতি kappa কনফিগারেশন জুড়ে 0.865–0.890, অথচ মানব-এলএলএম kappa কেবল 0.000–0.419, তাই মানব-সামঞ্জস্য ছাড়া সংগতি একটি রোগনির্ণয়মূলক সংকেত যা গঠনটির কার্যকরী-সংজ্ঞা চিহ্নিত করে — যন্ত্রটি, মডেল নয়।
-
 
 ## উপাত্ত-বিশ্লেষণ ও জ্ঞানতাত্ত্বিক গুরুত্ব
 
@@ -204,47 +204,3 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]] — শিক্ষায় এআই অধ্যয়নে ব্যবহৃত নকশাগুলোর ছাতা
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-methodologies-science-education-research-2026]] — এআই-পদ্ধতি কীভাবে বিজ্ঞান-শিক্ষা গবেষণার প্রকৃতি বদলাতে পারে, তার সাত-পর্যায়ের প্রতিফলনমূলক কাঠামো (Martin প্রমুখ, 2026)
-- [[scaffolding-systematic-reviews-2026]] — একটি আন্তঃবিষয়ক পর্যালোচনা-দলের মেন্টরিং ও নির্বাচনী এআই-সংহতকরণের বিবরণ (Wang প্রমুখ, 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — 28 জন স্নাতকোত্তর শিক্ষার্থী গবেষণা-প্রবাহজুড়ে জেনএআই কীভাবে ব্যবহার করেছেন, এবং তাঁদের প্রস্তাবিত নির্দেশিকা (Dai ও Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — কম্পিউটিং-শিক্ষা সাহিত্যে বানানো তথ্যসূত্রের ক্ষেত্র-পরিসরের নিরীক্ষা (Denny প্রমুখ, 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — এআই-সহায়িত নিয়মতান্ত্রিক পর্যালোচনার প্রতিবেদন-কাঠামো এবং যে জবাবদিহির ফাঁক তা নথিভুক্ত করে (Zabaleta ও Lin, 2026)
-- [[genai-academic-search-workshop]] — জেনারেটিভ এআই ও একাডেমিক অনুসন্ধান নিয়ে CHIIR 2026 কর্মশালা-প্রতিবেদন (Liu, Arguello, Hoeber প্রমুখ, 2026)
-- [[persistent-ai-agents-academic-research]] — গবেষণা-কর্মক্ষেত্রে স্থায়ী এজেন্টের একক-গবেষক কেস স্টাডি (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — গ্রন্থমিতিক প্রমাণ যে এআই-সহায়িত লেখনীর সঙ্গে ছোট, কমবয়সী গবেষণা-দল থাকে (Wang প্রমুখ, 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — অনুকরণকৃত শিক্ষার্থীর বিপরীতে টিউটর-এজেন্ট মূল্যায়নকারী 30-দিনের বেঞ্চমার্ক (Lee প্রমুখ, 2026)
-- [[beagle-grounded-learner-emulation-2026]] — প্রকৃত নবীন-সংগ্রাম পুনরুৎপাদনকারী একটি নিউরো-সিম্বলিক সিমুলেটর (Wang প্রমুখ, 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — কেন সিমুলেটররা যেকোনো ফিডব্যাকে ভুল ধারণা ছেড়ে দেয়, এবং প্রশিক্ষণ তা কীভাবে সারায় (Do, Sonkar ও Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — উপযোগিতা-পরিমাপ শিক্ষাবিদ্যা মাপে কি না তা পরীক্ষা করতে একটি নির্দিষ্ট অনুকরণকৃত শিক্ষার্থী ব্যবহার করা পূর্ব-নিবন্ধিত নিরীক্ষা (Fan প্রমুখ, 2026)

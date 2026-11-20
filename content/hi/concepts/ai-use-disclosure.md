@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -91,41 +93,3 @@ AI उपयोग और प्रकटीकरण [[academic-integrity]] (�
 - **"छात्र एआई उपयोग छिपाते हैं क्योंकि वे बेईमान हैं।"** कारण प्रलेखित और विशिष्ट हैं: **केवल लगभग 34% अर्थशास्त्र छात्रों ने एआई उपयोग स्वीकार किया** और प्रकटीकरण उससे भी दुर्लभ रहा, जिसका चालक **दंड की चिंता** थी, जबकि दूसरे अध्ययन में **66% ने कभी या शायद ही प्रकट किया** और **शैक्षणिक दंड का भय शीर्ष कारण** था। डेटा जिसे दोष देता है वह चरित्र नहीं, नीति-डिज़ाइन है।
 - **"प्रकटीकरण आवश्यकता एक कम-लागत नियंत्रण है।"** **74% अनुपालन-विफलता दर** परिणामी अभिलेख को कोई अभिलेख न होने से बदतर बनाती है: यह ऐसा डेटासेट है जो पूर्ण दिखता है और है नहीं, इसलिए संस्था ऐसे नमूने पर निर्णय ले रही है जिस पर वह भरोसा नहीं कर सकती।
 - **"यह प्रकट करना पर्याप्त है कि मॉडल का उपयोग कैसे किया गया।"** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] तर्क देते हैं कि प्रकटीकरण मॉडल-उपयोग का दस्तावेज़ीकरण करता है जबकि उत्तरदायी उपयोग के लिए दावा-स्तरीय लेखकीय अधिकार चाहिए, अर्थात योगदानकर्ता की दावों को समझने, उचित ठहराने और उनकी रक्षा करने की क्षमता, जो [[cognitive-offloading|संज्ञानात्मक प्रत्यायोजन]], जहाँ आउटपुट ठोस चुनावों को आकार देते हैं, को नियमित प्रत्यायोजन से अलग करता है, जो ऐसा नहीं करता।
-
-## संबंधित अवधारणाएँ
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — वह हानि जिसे प्रकटीकरण दृश्यमान बनाने का उद्देश्य रखता है
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — शिक्षार्थी प्रकटीकरण के बजाय छिपाना क्यों चुनते हैं
-
-## संबंधित लेख
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — एक SEM विभाजन: पकड़े जाने की निश्चितता बनाम घोषणा से अनुचित उपयोग उजागर होने का जोखिम (लियू एट अल. 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — पहचान से परे: छात्र ऑनलाइन मूल्यांकन में AI का उपयोग और छिपाव कैसे करते हैं
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — छात्र AI प्रकटीकरण, कलंक और स्व-नियंत्रित शिक्षा
-- [[vetter-hidden-cost-disclosure-genai-2026]] — प्रकटीकरण की छिपी लागत: प्रकटीकरण और संकाय आरोप
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI उपयोग घोषणाओं के साथ छात्र ग़ैर-अनुपालन
-- [[teichmann-detecting-undetectable-misconduct-2026]] — पहचान के बजाय शिक्षा के रूप में घोषणाएँ
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — मूल्यांकन में ईमानदारी की लागत एक डिज़ाइन सीमा के रूप में
-- [[student-perspectives-ai-writing-grading-2026]] — मेरे काम को कौन ग्रेड करे? उच्च शिक्षा में पारदर्शी AI-सहायित लेखन मूल्यांकन पर छात्र दृष्टिकोण
-- [[qian-governing-genai-higher-ed-policy-2026]] — 50 नवाचारपूर्ण अमेरिकी विश्वविद्यालयों में सहायता और भ्रामक प्रतिनिधित्व के बीच सीमा के रूप में प्रकटीकरण (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — विधि विद्यालय नीति में प्रकटीकरण और AI उद्धरण पर कोई सहमति नहीं (Gutowski और Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-लिखित प्रवेश निबंध व्यापक हैं लेकिन दंडित हैं
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — तेरह प्रयोग: AI उपयोग की सूचना देना वैधता के माध्यम से प्रकटीकरणकर्ता की विश्वसनीयता कम करता है
-- [[wu-lam-genai-writing-assessment-professors-2026]] — दर्पण दिशा: छात्रों को बताना कि उनके काम का मूल्यांकन एआई कब करता है, और अपलोड से पहले पूछना
-- [[authorial-warrant-ai-supported-scholarship-2026]] — जब प्रकटीकरण नियम पर्याप्त नहीं हैं: एआई-सहायित छात्रवृत्ति में लेखकीय अधिकार और निर्णय (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — एआई प्रकटीकरण लेबल, अनुभूत प्रामाणिकता, और एआई-निर्मित शैक्षणिक वीडियो में भरोसा

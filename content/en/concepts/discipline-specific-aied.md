@@ -12,6 +12,8 @@ ai_assist:
     agent: hermes-agent
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 > **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating [[ai-education|AI in education]] as a single generic phenomenon, this overview organizes discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
@@ -117,52 +119,3 @@ Each would benefit from sustained research attention as the field grows.
 - **"Discipline matters mainly for content examples."** Research across **560 students** found disciplinary affiliation **predicts how often and openly students use** [[generative-ai|generative AI]]. Discipline shapes whether the tool is used at all and whether that use is disclosed, not only what it is asked about.
 - **"Interdisciplinarity is a generic institutional goal."** The **shape of "interdisciplinary" is itself discipline-determined**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] [[meta-analysis-systematic-review|review]] finds the form it takes varies by field. A single institutional definition misreads at least some of the disciplines it covers.
 - **"Vocational education has a research base comparable to the academic disciplines."** The vocational strand is **the thinnest in that evidence**: a systematic review of **26 studies** in vocational education and training found **none conducted in workplace settings** — the settings where the competence is actually exercised. The literature's absence is a gap, not a null result.
-
-## Connected Concepts
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Connected Articles
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 university PE teachers: embodied disciplinarity as the barrier, and AI equipment allocated to elite teams (Yang, Chen & Rao, 2026)
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based AI professional development
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[human-centered-ai-teacher-educators-2026]] — Critical AI literacy professional learning for teacher educators
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretive cognition in humanities and social science education
-- [[becker-chatgpt-typology-physics-2026]] — ChatGPT use typology in physics education
-- [[code-review-genai-cs1]] — GenAI code review in CS1
-- [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
-- [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-- [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: gains in knowledge and confidence, inconsistent effects on psychomotor skill
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI as scaffold or shortcut in postgraduate IT learning
-- [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
-- [[genai-architectural-design-studios]] — Generative models in the design studio: stimulus, solution-space expansion, and fixation
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Mastery stopping rules that certify an overgeneralised rule as competence
-

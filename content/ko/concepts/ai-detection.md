@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -75,7 +77,6 @@ AI 탐지는 [[academic-integrity]], [[generative-ai]], [[llm|대규모 언어 �
 - **탐지와 회피는 하나의 상업 시장의 양면입니다.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]]은 AI 텍스트를 다시 써서 탐지를 피하는 서비스인 AI 휴머나이저 사이트 55개를 목록화했고, 분석한 세 곳이 모두 구글 첫 페이지에 있었으며, 프리미엄 등급과 제휴 프로그램으로 판매되고 있음을 발견했습니다. 그들의 정치경제학적 논증은 탐지기 정책에 중요합니다. 탐지 판매자는 저자성의 분류를 팔고 휴머나이저는 그 분류를 바꾸겠다는 약속을 파는데, 따라서 탐지 우선 체제는 회피에 실패하는 데 그치지 않고 유료 회피에 대한 수요를 만들어 냅니다. 그 사이트들은 정당성을 가정하는 것이 아니라 수행합니다. 텍스트 상자 아래에 설명 없는 대학·기업 로고를 두고, 검증 불가능한 사용자 주장(대략 300만 명, 학생 1만 명, 세 사이트에서 150만 명)과 99.8%~100% 성공 주장, "1.6조 매개변수"라는 신비화를 내세우며, 어느 곳도 등록된 사업장 주소를 갖고 있지 않았습니다. 탐지 결정에 관한 귀결은 도구를 차단해도 그 뒤의 수요 구조가 사라지지 않는다는 것입니다.
 - **집행은 품행이 아니라 학술 자본으로 학생을 분류할 수 있습니다(제안된 주장이며, 측정되지 않음).** UNESCO와 OECD 발간물 네 편에 기대어, [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]]은 더 강한 학문적 지식과 [[prompt-engineering|프롬프트]] 리터러시가 학생이 AI 출력을 수용 가능한 학술 문체로 수정하게 한다고 주장합니다. 그렇다면 AI 지원의 가시성은 취한 도움의 양이 아니라 [[equity-in-ai-education|학술 자본]]을 추적하며, 탐지 주도 집행은 그 자본의 필터가 됩니다. 이 논문은 신고나 제재 결과에 관한 데이터가 없는 담화 분석이며, 이 주장을 AI 사용 양상, 탐지 결과, 부정행위 결정에 관한 비교 증거가 필요한 가설로 제시합니다.
 
-
 ## AI 탐지기를 (쓰거나 쓰려 하지) 말아야 하는 이유
 
 [[bassett-ai-detectors-education-2026|Bassett 외(2026)]]는 생성형 AI 탐지를 교육에서 **전혀 사용해서는 안 된다**고 주장하며, 그 근거는 "조심하라"를 넘어 "이것은 개념적으로 건전하지 못하다"에 이릅니다. 그들의 논증은 AI 탐지기에 의존하는 것에 반대하는 이유를 모읍니다.
@@ -120,7 +121,6 @@ Bassett 외는 AI 탐지가 감시와 처벌로 해결할 수 없는 문제에 �
 
 - **텍스트를 생성하는 모델들은 대응책으로서 탐지를 가장 낮게 평가합니다.** [[lieske-ai-proposals-counter-ai-cheating-2026|Lieske and Wadley (2026)]]는 Anthropic, Microsoft, Google, Meta, OpenAI, Perplexity, DeepSeek의 LLM과 검색 도구 여덟 개에 하나의 프롬프트를 넣었습니다. 각각에 감독 없는 과제에서 AI 부정행위를 막는 여섯 가지 기법을 지명하고 순위를 매기게 했고, 48개의 답변이 15개의 복합 접근으로 통합되었습니다. 탐지는 여섯 번째 순위에 반복해서 등장한 유일한 접근이었고, 여덟 모델에 걸쳐 네 번 나타났으며, [[personalized-learning|개인화]], AI 보조 과정 측정, 구술 후속 질문이 앞섰습니다. 이 논문은 실증 데이터를 담고 있지 않으며 그 순위는 효능이 아니라 모델 합의를 측정합니다. 텍스트를 생성하는 시스템들이 탐지를 대안들과 어떻게 저울질하는지에 관한 증거로서 여기에 속합니다.
 
-
 ## 교육에서의 인공지능에 대한 시사점
 
 - **탐지는 상황적입니다:** 기관은 탐지 도구를 오류율, 공정성 한계, 과제 의존성을 인식하며 아껴 써야 하며, 자동적이고 단독적인 관문으로 써서는 안 됩니다.
@@ -140,56 +140,3 @@ Bassett 외는 AI 탐지가 감시와 처벌로 해결할 수 없는 문제에 �
 **"탐지기가 답하는 질문은 글쓰기가 인간 것인지 AI 것인지이다."** 그 이분법은 계산하기 어려운 것이 아니라 개념적으로 건전하지 못합니다. 글쓰기 지원은 연속체 위에 있고, 대부분 기관의 정책은 그 일부를 허용하며, 출력 점수의 어떤 임계값도 방어 가능한 경계에 대응하지 않습니다. 측정된 실패는 정책의 실패입니다. 탐지기가 약속하는 범주는 학생이 실제로 제출하는 작업에 존재하지 않습니다.
 
 **"탐지 체제는 정직성을 보호한다."** 오히려 해칠 수 있습니다. 탐지는 학생과 교직원 사이의 [[trust]]를 갉아먹는 의심의 분위기를 조성하며, 이 말뭉치가 보고하는 [[academic-integrity|정직성]] 문헌은 지속 가능한 지렛대를 단속이 아니라 평가 재설계에 둡니다. 군비 경쟁의 메커니즘은 또한 이 체제가 측정하는 것은 줄이면서 비용은 계속 늘린다는 것을 뜻합니다. 기준선 표시율은 편집 강도에 따라 **0.0%에서 100.0%**까지 분포했는데, 이는 식별 신호가 아닙니다.
-
-## 연결된 개념
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## 연결된 문서
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — AI 정책의 범위, 행위자 능력, 다섯 가지 교실 대응에 대한 미국 교사와 교장의 전국 대표 조사(Tench, Weinstein과 James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — AI 출력 시대의 평가
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: 잠재 프롬프트 복원 탐지기
-- [[ivory-psychology-assessment-integrity-2026]] — 탐지는 잘못된 지렛대: 통과 경계가 AI 작업을 성취로 채점했는지를 결정했다(Ivory 외 2026)
-- [[llm-detecting-llm-generated-content-education]] — LLM 생성 콘텐츠 탐지를 위한 LLM 평가
-- [[beyond-detection-authentic-assessment-ai-2025]] — 탐지를 넘어서: 실제적 평가
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 공동저작 정직성과 평가 타당성
-- [[student-rationalization-ai-writing]] — AI 글쓰기에 대한 학생의 합리화
-- [[socially-fluent-ai-identity-detection]] — 사회적으로 유창한 AI의 정체성 탐지
-- [[ssaho-ai-academic-integrity-review-2025]] — AI 기반 표절·AI 콘텐츠 탐지의 신뢰성 검토
-- [[bassett-ai-detectors-education-2026]] — 앞면이든 뒷면이든 우리가 이긴다: 교육에서의 AI 탐지기(Bassett 외 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 탐지기 출력이 부정행위 판정의 근거가 될 수 없는 이유
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 포착률이 아니라 식별력, 그리고 감시가 역효과를 낼 때
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192개 텍스트에 대한 Turnitin과 Originality: 둘 다 매크로 F1 0.55 아래이며 혼합 글쓰기에서는 거의 무용
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 실측 진실이 확보된 논문 160편에 대한 탐지기 네 개. Pangram만 작동했으나 실제 논문의 45.5%에 표시
-- [[munoz-misconduct-allegation-evidence-2026]] — 탐지기 출력은 실제 부정행위 사건 파일 1,162건에서 증명력이 가장 낮게 평가된 증거 유형
-- [[wright-transcription-not-generation-2026]] — 포괄적 "AI 사용" 규칙이 전사를 생성과 혼동한다
-- [[sharma-judgment-visible-genai-assessment-2026]] — 가시적 판단 뒤로 밀려난 보조적 층위로서의 탐지
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 조건부 신호로서의 탐지, 그리고 보안 대응이 구성과 무관한 분산을 더하는 이유(Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI로 쓴 입학 에세이는 만연하지만 불이익을 받는다
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — 아홉 가지 해석 가능한 문체측정 특징: ROC-AUC 0.870이지만 독립적으로 작성된 문서 18편 중 4편이 표시됨(Kumar 외 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 인간 원고 한 편, 탐지기 다섯 개, "0% 인간"에서 "Human Generated"까지의 분류, 그리고 기록된 탐지로부터의 제도적 후퇴(Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: 생성형 AI 시대의 학문적 정직성
-- [[student-llm-code-detection-cs1-2026]] — LLM 코드는 단단히 제약된 과제에서는 수렴하나(1,000개 파일당 AST 1-14개) 자유로운 과제에서는 수렴하지 않는다. 탐지 가능성은 과제 설계를 따른다
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? 카자흐어로 된 AI 생성 텍스트 탐지기 평가
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 스무 명의 평가자가 직관과 꺼진 탐지기, 조작된 참고문헌에 기대는 상황
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 정당성을 수행하는 55개 휴머나이저 사이트: 탐지와 회피라는 하나의 상업 시장 (Roe et al. 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 집행이 품행이 아니라 학술 자본으로 걸러낸다는 가설
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — 여덟 LLM이 여섯 가지 부정행위 대응 기법의 순위를 매기고, AI 탐지가 마지막에 온다
-- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명이 탐지, 평가 설계, AI 리터러시, 전략에 관해 응답
-

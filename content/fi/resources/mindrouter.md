@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,9 +48,3 @@ Tutkimuslaskennan ja keskitetylle IT-ryhmille, joilla on jo GPU-kapasiteettia, o
 ## Huomioita ja varauksia
 
 Ilmainen ja avoimen lähdekoodin Apache-2.0-lisenssillä, mutta kustannus siirtyy eikä katoa: laitteisto, sähkö ja klusterin pyörittämiseen tarvittava henkilöstöaika. Ohjelmisto on infrastruktuurin mittapuulla nuori – kolme tekijää, yksi alkuperäinen oppilaitos ja satoja tageja julkaisuissa – joten korkeakoulun kannattaa pilotoida sitä olemassa olevan palvelun rinnalla eikä ainoana polkuna malliin. Julkaistua arviointia ajastuksen ja kiintiökäyttäytymisen toiminnasta todellisella kampuskuormalla ei ole repossa; PEARC-artikkeli on paikka, josta etsiä tekijöiden oma selonteko.
-
-## Liittyvät käsitteet
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

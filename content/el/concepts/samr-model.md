@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -80,28 +82,3 @@ pedagogy: [tpack]
 **«Το SAMR και το TPACK είναι ανταγωνιστικά πλαίσια.»** Περιγράφουν διαφορετικά πράγματα: το SAMR περιγράφει τον *βαθμό μετασχηματισμού* μιας εργασίας, ενώ το [[tpack|TPACK]] περιγράφει τη *γνώση* που χρειάζεται ένας εκπαιδευτικός για να ενσωματώσει καλά την τεχνολογία. Ένας εκπαιδευτικός μπορεί να έχει υψηλή ικανότητα TPACK και να λειτουργεί ακόμη σε επίπεδο Υποκατάστασης, γι' αυτό τα δύο χρησιμοποιούνται μαζί και δεν επιλέγεται το ένα έναντι του άλλου.
 
 **«Ένα εργαλείο που είναι μετασχηματιστικό σε ένα επίπεδο είναι μετασχηματιστικό σε όλα.»** Το ίδιο γενετικό εργαλείο μπορεί να υποστηρίξει μια Υποκατάσταση σε ένα μάθημα και έναν Επαναπροσδιορισμό σε άλλο, επειδή το επίπεδο είναι ιδιότητα του σχεδιασμού της εργασίας και όχι της τεχνολογίας. Η απόδοση του επιπέδου στο εργαλείο παράγει αποφάσεις υιοθέτησης στη θέση αποφάσεων σχεδιασμού.
-
-## Συνδεδεμένες Έννοιες
-
-- [[ai-education]] — ΤΝ στην εκπαίδευση (ομπρέλα)
-- [[tpack]] — Τεχνολογική Παιδαγωγική Γνώση Περιεχομένου
-- [[technology-acceptance-model]] — Μοντέλα υιοθέτησης τεχνολογίας
-- [[icap-framework]] — Το πλαίσιο ICAP της γνωστικής ενασχόλησης
-- [[ai-technologies]] — Τεχνολογίες και τεχνικές ΤΝ
-- [[teacher-ai-competency]] — Επάρκεια εκπαιδευτικών σε ΤΝ
-- [[educational-development]] — Εκπαιδευτική ανάπτυξη
-- [[learning-design]] — Σχεδιασμός μάθησης
-- [[k-12]] — Εκπαίδευση K-12
-- [[higher-ed]] — Τριτοβάθμια εκπαίδευση
-- [[generative-ai]] — Γενετική ΤΝ
-
-## Συνδεδεμένα Άρθρα
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Η ενσωμάτωση ΤΝ στην τριτοβάθμια εκπαίδευση βαθμολογημένη με SAMR: κυρίως Υποκατάσταση/Επαύξηση
-- [[thermomix-genai-education-analogy-2026]] — Το ICAP και το SAMR αντιστοιχίζουν τα τέσσερα σενάρια από το μαγείρεμα στη μάθηση
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Το SAMR μεταξύ των φακών για την αλλαγή προγράμματος σπουδών που οδηγεί η GenAI
-- [[crompton-faculty-technology-integration-standards-2026]] — Το SAMR μεταξύ των πλαισίων που πληροφορούν τα πρότυπα τεχνολογίας για το διδακτικό προσωπικό
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Η μεταανθρωπιστική κριτική της ανθρωπιστικής οντολογίας του SAMR
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Η σιωπή του SAMR για την εξουσία, την κυριότητα των δεδομένων και τη λογοδοσία
-- [[genai-use-changing-institutional-policy-physics-2026]] — Η χρήση GenAI από τους μαθητές υπό μεταβαλλόμενες θεσμικές πολιτικές: λειτουργίες χρήσης αντιστοιχισμένες σε επίπεδα SAMR (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — ΤΝ στις τάξεις μαθηματικών: μια συνεργική στρατηγική για ποικιλομορφία και συμπερίληψη

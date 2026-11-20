@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 VFWA is not a product you install; it is an assessment structure with a site, a working paper and an implementation guide behind it. The structure is two stages. In the first, students respond to a prompt they have not seen before, under supervision, in whatever language or modality suits them (speech, handwriting, an argument map, another language), and the response is checked for sufficiency rather than graded. In the second, they take that artifact home and develop it into the graded submission with [[generative-ai|AI tools]] permitted and optional. What the assessor judges is whether the final piece can be read as the student's accountable development of the first.
@@ -42,11 +43,3 @@ Program and module leads in higher education who still want extended writing to 
 The model has not been evaluated at scale. The paper is explicit that no sample, instrument or measured outcome exists yet, and that pilots are needed to test whether Stage 1 artifacts raise assessor confidence or interpretive consistency, whether students experience the design as fairer, and how a discipline sets a sufficiency threshold without turning Stage 1 into a second exam.
 
 Two practical costs are real. Stage 1 requires observed sessions and secure capture at scale, and multilingual recording and translation are prerequisites rather than extras. And the interpretive judgment is deliberately left to markers: the model assumes disciplinary expertise that cannot be automated, which is a staffing assumption as much as a design one.
-
-## Connected Concepts
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

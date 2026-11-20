@@ -30,7 +30,8 @@ ai_assist:
 translation_of: concepts/ai-assisted-educational-research
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -213,47 +214,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - **«Статьи об LLM и о программном обеспечении оцениваются одинаково хорошо.»** С 2023 года **38,0% статей о программном обеспечении и продуктах не сообщали никакой оценки вовсе против 9,3% статей об LLM**. Разрыв велик и идёт против допущения, что более новый инструментарий тестируется менее строго.
 - **«Стратификация по задаче устраняет разрыв.»** **Разрыв сохраняется при стратификации**: в скрининге и отборе статьи о программном обеспечении в среднем имели **3,2 содержательных критерия оценки, причём 39,3% не сообщали ни одного**, тогда как статьи об LLM — больше. Различие является систематическим свойством класса статей, а не задачи.
 - **«Положительная оценка означает, что рабочий процесс достиг заданной для него планки.»** Среди **118 статей об LLM с исключительно положительными оценками 52% всё равно сообщали хотя бы об одной озабоченности тем, что рабочий процесс не достиг планки, требуемой для его роли**. Половина положительных оценок содержала собственное опровержение.
-
-## Связанные понятия
-
-- [[research-methods-aied]] — зонтичная страница для дизайнов, используемых для изучения ИИ в образовании
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Связанные статьи
-
-- [[ai-methodologies-science-education-research-2026]] — семифазная рефлексивная рамка для того, как методологии на основе ИИ могут преобразовать исследование естественнонаучного образования (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — отчёт одной междисциплинарной команды обзора о наставничестве и избирательной интеграции ИИ (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — как 28 аспирантов использовали GenAI в исследовательском рабочем процессе и какие рекомендации они предлагают (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — аудит в масштабе области сфабрикованных ссылок в литературе по компьютерному образованию (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — рамка отчётности для ИИ-ассистируемых систематических обзоров и пробел подотчётности, который она документирует (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — отчёт семинара CHIIR 2026 о генеративном ИИ и академическом поиске (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — case-исследование одного исследователя об устойчивом агенте в исследовательском рабочем пространстве (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — библиометрические свидетельства того, что ИИ-ассистируемое письмо сопровождается меньшими по размеру и более молодыми исследовательскими командами (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — 30-дневный бенчмарк, оценивающий агентов-репетиторов против симулированного обучающегося (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — нейро-символьный симулятор, воспроизводящий подлинную борьбу новичка (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — почему симуляторы отказываются от заблуждения при любой обратной связи и как это исправляет обучение (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — предзарегистрированный аудит, использующий фиксированного симулированного обучающегося для проверки, измеряет ли полезность педагогику (Fan et al., 2026)

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -180,70 +182,3 @@ Exekutive Funktionen sind das Nachbarkonstrukt, und ein Ergebnis trennt beide sa
 - **„KI-Unterstützung lässt die zugrunde liegende Fähigkeit intakt."** Studierende, die KI-Unterstützung für Essays nutzten, waren **zu 83% nicht in der Lage, Zitate aus ihren eigenen Essays wiederzugeben, gegenüber 11% bei Nicht-KI-Nutzenden**, was darauf hindeutet, dass **sie sich während der Produktion nicht mit dem Inhalt befassten**. Der Produktionsprozess ist, wo das Engagement stattfindet, und ihn zu umgehen zeigt sich später.
 - **„Offloading verschlechtert alles."** Die Kosten erscheinen **begrenzt statt global**: Offloading verschlechtert **die jeweils geübte Fähigkeit, nicht die zugrunde liegenden domänenallgemeinen Fähigkeiten**, und zeigt sich bei Transfertests **mit** etwas. Die Verortung ist wichtig, weil sie sagt, was zu schützen ist, statt vor allgemeinem Verfall zu warnen.
 - **„Fähigkeit zu produzieren impliziert Fähigkeit zu behalten."** Die Erinnerungslücke von 83% gegenüber 11% ist das direkte Gegenbeispiel: Ausgabe wurde in beiden Bedingungen produziert, und die Gedächtnisspur unterschied sich enorm.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Die Reflexionsschritte, die diese Sequenzen einbauen
-- [[learners]] — Lernende: der Oberbegriff für die lernendenseitigen Konzepte
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — Lernurteile (Judgments of Learning) und die Fluency-Illusion, die das aktive Abrufen korrigiert
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-
-## Verbundene Artikel
-
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — ein zweistündiger Workshop zur KI-Kompetenz veränderte die Regulation der LLM-Interaktion von Schülerinnen und Schülern der Sekundarstufe I, nicht jedoch ihre selbstberichtete Metakognition (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Interaktion zwischen Studierenden und AI beim computergestützten Konsekutivdolmetschen
-- [[du-yuan-epistemic-dependence-2026]] — Epistemische Abhängigkeit in KI-vermitteltem Lernen (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Was Studierende fragen, ist entscheidend: LLM-Interaktionstiefe, Aufgabenqualität und unmittelbarer Abruf (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ebenensensitives kognitives Offloading beim GenAI-gestützten Schreiben (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-vermittelte Hilfesuche in STEM: mehrschichtig, instrumental und verifiziert
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation und Rollen im metakognitiven Umgang mit GenAI
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitives Training erleichtert optimales kognitives Offloading (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitive Erkenntnisse zum Cognitive Offloading: Mechanismen, Interventionen und pädagogische Implikationen (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — Das IDEA-Framework für metakognitiv regulierte GenAI-Nutzung
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: ein menschenzentriertes KI-Modell für metakognitives Lernen (Handlungsfähigkeit & reflexives Lernen)
-- [[metacognitively-discordant-completion-genai-2026]] — Metakognitiv diskordante Vervollständigung und bewusstes Durchlassen von Nichtverstehen
-- [[ai-metacognition-stem-review]] — KI-Werkzeuge, die Metakognition in STEM durch Scaffolding unterstützen
-- [[ai-making-us-stupid]] — Macht KI uns dumm? Kritik am kognitiven Offloading
-- [[stanford-evidence-base-ai-k12-2026]] — Allzweck-KI unterdrückt Metakognition, indem sie das Schlussfolgern übernimmt
-- [[ai-advice-suppresses-ikt-suspension-2026]] — KI-Ratschläge unterdrücken die Bereitschaft, „Ich weiß es nicht“ zu sagen, selbst bei falschen Ratschlägen und Anreizen für Genauigkeit
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI und pädagogische Best Practice: das Spannungsverhältnis zwischen Automatisierung und Lernen
-- [[cognitive-offloading-speedup-illusion]] — Kognitives Offloading und die Beschleunigungsillusion in der Mensch-KI-Interaktion
-- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitives Offloading und Implikationen für die Bildung (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler: Förderung höherstufigen Denkens (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung des Lernens auf Basis produktiven Scheiterns
-- [[lukesova-clue-before-correction-2026]] — Hinweis vor Korrektur: ChatGPT für autonomes Sprachenlernen
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflexion über den Prompting-Prozess und die Entwicklung von Autorschaft im Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexions-Prompt verringerte die Übernahme falscher KI-Ratschläge und verbesserte die Kalibrierung der Selbsteinschätzung (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automatisiertes Scoring verstärkte das Monitoring, nicht jedoch die Planung, und die selbstberichtete Reflexion blieb unproduktiv (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verifikationskompetenz, die ausschließlich über metakognitive Selbstregulation wirkt (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — Externe Unterstützung, nicht die Genauigkeit metakognitiver Urteile, bestimmte die Wahl der Überarbeitungsstrategie (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Ein selektiver Zugewinn: Das metakognitive Wissen nahm zu, während Planung und Überwachung unverändert blieben (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Reflektierte Nutzung nahm mit dem Zugang zu KI zu und sagte kritisches Denken voraus, nicht jedoch den Wissenszuwachs (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Metakognitives Bewusstsein als stärkster Prädiktor für adaptives STEM-Lernen (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Von der Diagnose zur Metadiagnose: Lehrkräfte beurteilen KI-generierte Inferenzen (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen auf dem Weg zu einem kompetenzerhaltenden Sich-Verlassen auf KI in der reflektierten KI-Nutzung
-- [[dang-human-ai-collaboration-competency-2026]] — Metakognition, nicht Pädagogik, als Mechanismus der Handlungsfähigkeit von Lernenden in der Mensch-KI-Kollaboration (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitive Ownership: ein Konstrukt für die Steuerung von Standards, Urteilen und Handlungen durch Lernende
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Logs und Think-Aloud-Protokolle erfassen unterschiedliche metakognitive Prozesse beim GenAI-gestützten Lernen
-- [[ai-cognitive-partner-reflective-thought-2026]] — vier Praktiken und elf Prozesse reflexiven Denkens, wenn Lernende KI als kognitiven Partner nutzen
-- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud machte Prompt-Konstruktion, Verifikation und ethische Urteilsbildung sichtbar, doch die kritische Bewertung blieb oberflächlich; keine eigenständige Lösung
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metakognitives Training und KI-basiertes sokratisches Scaffolding in der reflexiven Praxis angehender Lehrkräfte: ein experimentelles Design mit zwei Studien
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitive Dormanz: eine experimentelle Darstellung von ausgesetztem metakognitivem Engagement und zunehmender Desorganisation (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Drei-Ebenen-Metaanalyse: gepooltes g = 0,624, bei genauigkeitsbewertetem Monitoring nicht mehr signifikant (Li et al. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC-Modell: metakognitives Offloading vs. Onloading und die Entkopplung von Aufgabenleistung und dauerhaftem Lernen (Fan et al. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — Monitoring blockiert den Offloading-Pfad weniger, als dass es ihn umleitet
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Wenn Monitoring übersprungen wird — und was das kostet
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Kognitive Flexibilität sagt die Interview-Stufe vorher; selbstberichtete Regulation nicht
-- [[sidorkin-extended-executive-cognition-2025]] — Erweiterte exekutive Kognition als Lernergebnis (Rahmenkonzept)
-
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agenten-Modell künstlicher Intelligenz zur Förderung selbstregulierten Lernens und konzeptuellen Verständnisses in der Informatikausbildung ...

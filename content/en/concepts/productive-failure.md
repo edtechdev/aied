@@ -9,6 +9,8 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 > **Productive Failure (PF)** — an instructional approach, grounded in [[constructivist|constructivist theory]] and developed by Manu Kapur, that engages learners with problems targeting concepts they have **not yet learned**, having them struggle to generate solutions *before* receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Rather than treating failure as something to avoid, PF treats initial struggle and error as a powerful catalyst: learners activate and differentiate [[prior-knowledge|prior knowledge]], surface [[misconceptions|misconceptions]], and prepare to learn better from subsequent instruction — leading to deeper understanding, better retention, and enhanced [[transfer-of-learning|knowledge transfer]].
@@ -88,37 +90,3 @@ Productive failure connects to [[learning-theories|learning theories]] (construc
 - **"Withholding help frustrates learners and costs motivation."** A three-arm [[rct|RCT]] found a hint-withholding tutor **matched unrestricted ChatGPT on frustration reduction and** motivation — the cost showed up **only in preference**. Learners did not enjoy it as much and did not suffer for it, which means preference data would have rejected the design that worked.
 - **"More frustration means more learning."** The escalating tutor was **0.42 scale points more frustrating than the tutor that answered on request (p < .001) and 0.29 less frustrating than** the most frustrating arm. The productive range is a middle, not a maximum, so "desirable difficulty" does not license making the task harder indefinitely.
 - **"Productive failure means teachers should not help."** The design withholds *the answer* while supplying structure and escalation. Withholding a hint and withholding support are different interventions, and only the first is the one with evidence here.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Attempt-before-instruction as a full sequence, with its thin evidence base
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — Cases as a shared problem space for the first attempt
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Withholding solutions avoided the frustration cost but lost on student preference
-- [[shen-ai-skill-formation-2026]] — Median 3 errors without AI against 1 with it, and 17% higher unaided quiz scores (Shen & Tamkin 2026)

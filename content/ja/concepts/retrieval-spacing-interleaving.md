@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -103,36 +105,3 @@ ai_assist:
 **「検索練習とは小テストのことであり、どんな小テストでも該当する」。** 機構は、答えを認識することではなく記憶から産出することであり、だからこそ多肢選択の再認課題は同じ活動の弱い版になります。際限なく再認項目を生成するAIは、名前は正しく機構は間違った活動を生成していることになります。
 
 **「これらの技法はよく規定されているので、AIも忠実に実装できる」。** AIはそれを静かに打ち負かすこともできます。間隔空けは、システムが最も要求に応じて供給できる教材を差し控えることを要求し、検索は答えないことを要求します。つまり技法の有効性は、従順なアシスタントが課す動機を持たない制約に依存しています。
-
-## 関連する概念
-
-- [[pedagogical-patterns]] — 間隔空けされた検索の連なり、符号化中の支援の定着コスト
-- [[desirable-difficulties]] — これら 3 つの技法が具体化する原理
-- [[cognitive-psychology]] — 3 つすべての理論的な故郷である記憶、符号化、検索
-- [[prior-knowledge]] — 学習者がすでに持つものの活性化としての検索練習
-- [[metacognition]] — 流暢さが学習を反映しているかどうかの判断
-- [[self-regulated-learning]] — AI が予定したり答えたりできることを一貫して学ぶこと
-- [[mastery-learning]] — 習熟の閾値の後の定着と、それを支える間隔空け
-- [[knowledge-tracing]] — 予定付けの決定を成功にも失敗にも導くモデル
-- [[cognitive-offloading]] — 検索が道具に委ねられるときの失敗モード
-- [[transfer-of-learning]] — 技法が対処する成績–学習のギャップ
-- [[formative-assessment]] — 検索の出来事としての閉じた道具のチェックポイント
-- [[productive-failure]] — 助けを受け取る前に試みること
-- [[learners]] — 流暢ではなく持続的な学習の重大さ
-
-## 関連する記事
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker:7週間にわたる適応型間隔検索、固定型検索、学習者主導AIの比較
-- [[memdora-ai-spaced-repetition]] — Memdora:FSRS-6によるスケジューリングと、根拠づけられたフラッシュカード相互作用の分類体系
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris:説明の深さは課題の質を予測するが、即時の再生は予測しない
-- [[rachatasumrit-example-problem-ratio-2026]] — 事実には検索練習、技能には解答例。内容と処遇の交互作用
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 時間ベースの検証では、知識追跡モデルは間隔効果を捉えられない
-- [[bilingual-llm-lecture-companion-srl-2026]] — フラッシュカードの自動生成が間隔練習の作成コストを取り除く
-- [[student-cheat-sheets-make-or-take]] — 生成的学習としてのチートシート作成。その作成をAIに肩代わりさせること
-- [[knowloop-confusion-to-consolidation-2026]] — 教え返しによる定着化が、説明の明確化では明らかにならなかった穴を表面化させる
-- [[simulating-learner-task-selection]] — 課題選択の制約下でモデル化された学習者方略としてのインターリービングとブロッキング
-- [[nie-personavlm-long-term-personalization-2026]] — 学習者の縦断的記憶と、間隔反復および忘却曲線との未解明の関係
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 学習の学習フレームワークのツール層における検索練習
-- [[agentic-ai-pedagogical-best-practice-2026]] — 事前取得型エージェントは検索練習を迂回させる。意図的な摩擦を設ける根拠
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AIチューターが話すとき:ランダム化フィールド実験からの証拠
-- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPTが生成した事前質問が記憶と文章理解を向上させる

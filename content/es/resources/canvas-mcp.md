@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [agentic-ai, institutional-ai-infrastructure]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -42,8 +43,3 @@ Profesorado que quiere que un agente se encargue de la lectura y la mensajería 
 ## Notas y advertencias
 
 La instalación es local: Python 3.11 o posterior, un token y una URL de la API de Canvas, y un cliente MCP, con una extensión de doble clic para Claude Desktop. El servidor alojado público se ha retirado, así que un despliegue compartido implica el autohospedaje detrás de la autenticación de la propia institución. Las herramientas de escritura están restringidas: los servidores HTTP son de solo lectura a menos que se permitan explícitamente las herramientas de escritura, las eliminaciones exigen tokens de confirmación y la ejecución de código se realiza en un entorno aislado que falla de forma segura. Los controles de privacidad son opcionales: la anonimización de respuestas, el enmascaramiento de correos y el filtrado de PII deben habilitarse, y el README es cuidadoso al señalar que pueden apoyar las obligaciones de FERPA sin establecer cumplimiento, ya que este depende del despliegue y del proveedor de IA. No hay telemetría en el servidor, pero Canvas y el cliente elegido mantienen sus propios registros. El proyecto tiene licencia MIT, se desarrolla activamente y sus propias guías son la autoridad sobre los nombres actuales de las herramientas y la configuración.
-
-## Conceptos conectados
-
-- [[agentic-ai]]
-- [[institutional-ai-infrastructure]]

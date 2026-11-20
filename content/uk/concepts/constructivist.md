@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -120,56 +122,3 @@ ai_assist:
 - **«Конструктивістське викладання можна виявити за поставленими запитаннями.»** Класифікатор DeBERTa **класифікував фактичні запитання-передавання знань із точністю 96.67%, але запитання-фасилітації — лише з 78.79%**, і **кожна модель плутала дві вищі ролі**. Конструкт, який має найбільше значення, — це той, із яким автоматичне виявлення справляється найгірше.
 - **«Поверхові риси уроку розкривають його педагогіку.»** Невдача класифікатора — не деталь реалізації. Ролі фасилітатора й конструктивіста є складними саме тому, що вони визначаються тим, що викладач робить із мисленням здобувача, а це відношення не відновлюється з тексту запитань.
 - **«Конструктивізм означає, що викладач не пояснює.»** Теорія розміщує навчання в конструюванні здобувачем із досвіду, що сумісне з прямим викладанням. Трактування її як заборони казати перекручує і теорію, і докази щодо розв’язаних прикладів.
-
-## Пов’язані поняття
-- [[community-of-inquiry]] — Спільнота дослідження (спирається на конструктивістський/дьюївський прагматизм)
-- [[cognitive-psychology]] — Когнітивізм, третій класичний полюс теорії навчання
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Освіта з хімії та ШІ: лабораторії, формативне оцінювання, межі ВММ, філософія експериментування
-- [[theory-development-aied]] — Розвиток теорії в ШІ в освіті
-- [[productive-failure]]
-
-## Пов’язані статті
-- [[lee-learner-question-types-ai-education-2026]] — Питання здобувачів, класифіковані на три конструктивістські ролі: передавач, фасилітатор, співучень (Lee, Atif & Kang 2026)
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Покарання за навчання: бали за домашні завдання +18%, за іспити без книг −20%, сконцентровано серед тих, хто передавав домашню роботу назовні
-
-- [[mishra-control-vs-agency-history-2025]] — Позиціонує конструкціонізм (Парперт) проти когнітивних репетиторів в історії AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: конструктивістська рамкова модель конструювання артефактів
-- [[ai-writes-code-student-writes-model-2026]] — Авторство моделі: теорія та програма вимірювання навчання через конструювання з GenAI
-- [[ai-vocational-education-training-review]] — Конструктивізм проголошений, але поведенцієцький ШІ домінує в VET; «пастка Тюринга»
-- [[generative-refusal-ai-tools-for-thought]] — Інструменти ШІ, що утримують генерацію, щоб захистити конструктивне мислення
-- [[genai-mindtool-generative-learning]] — GenAI як інструмент мислення, що підтримує конструювання здобувачем
-- [[ai-agents-constructive-conflict-design-education-2026]] — Ворожі агенти ШІ, спонукаючі до конструктивного перегляду
-- [[hingle-collaborative-ai-literacy-2025]] — Колаборативна ШІ-грамотність та рамкова модель залучення ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — Порівняння з підтримкою ШІ, що генерує оцінювальні судження
-- [[icap-cognitive-engagement-llm-agents]] — ICAP та когнітивне залучення з агентами ВММ
-- [[conversational-ai-tutors-framework]] — Скаффолдингований діалог у репетиторах ШІ
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Втілене дослідження з фасилітатором ШІ
-- [[beyond-detection-authentic-assessment-ai-2025]] — Автентичне оцінювання та конструювання знань
-- [[teacher-ai-teaming-five-levels]] — Рівні командної роботи викладач—ШІ в проєктуванні
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Епістемічна співдієздатність між здобувачем і машиною
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Шляхи до навчання освітньої робототехніки на базі ШІ (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: генеративний агент, що імітує когнітивну еволюцію студентів
-
-- [[synthetic-position-self-authorship-2026]] — Імітовані контрапозиції ШІ репетують форму діалогу, але утримують опір, що змушує переглядати

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -99,42 +101,3 @@ PersonaPath продвигает вопрос упорядочивания да�
 **«Разреженные данные — техническая помеха.»** При уровнях разреженности из этой литературы (0,9981) система почти ничего не видит, что делает холодный старт и смещение популярности структурными, а не исправимыми настройкой. Рекомендатель, обученный на таком сигнале, будет систематически выводить на поверхность уже популярное, а тихие или необычные учащиеся — те, кого он не видит.
 
 **«Объяснимость — это отчётная функция.»** Может ли преподаватель или учащийся проаудировать рекомендацию — это условие легитимности: траектория, которую студент не может рассмотреть, — это траектория, которую он не может оспорить, а это проблема управления прежде, чем проблема интерфейса.
-
-## Связанные концепции
-
-- [[knowledge-graph]] — Структурированные представления понятий, ресурсов и отношений предпосылок
-- [[explainable-ai]] — Объяснение как особенность проекта, опосредующая понятность и доверие
-- [[curriculum-design]] — Решения об упорядочивании, которые рекомендательные системы моделируют, выводят и воспроизводят
-- [[learning-design]] — Спланированная последовательность активностей, на которой оперирует анализ траекторий
-- [[learning-analytics]] — Данные и методы за рекомендациями, и объект аудита
-- [[cognitive-diagnosis]] — Диагностирование состояний знаний, которые запускают корректирующие пути
-- [[knowledge-tracing]] — Моделирование освоения во времени, чтобы решать, к чему учащийся готов
-- [[student-modeling]] — Представления учащегося, которые потребляет рекомендация
-- [[personalized-learning]] — Более широкая цель; эта страница охватывает решение о выборе
-- [[adaptive-learning]] — Механизм подстройки в реальном времени; эта страница охватывает ранжирование и упорядочивание
-- [[intelligent-tutoring]] — Платформа, действующая на основе рекомендаций в диалоге
-- [[bias-mitigation]] — Вмешательства справедливости в ранжирование и показы
-- [[equity-in-ai-education]] — Различия между группами в качестве рекомендаций
-- [[human-in-the-loop-ai]] — Надзор за автоматической навигацией по ресурсам
-- [[self-directed-learning]] — Поддерживаемые учащимся траектории и навигация в течение жизни
-- [[lifelong-learning]] — Структурированное по графу обучение за пределами последовательности программы
-- [[trust-calibration]] — Согласование опоры с надёжностью рекомендаций
-- [[student-support-and-success]] — Рекомендации поддержки, ресурсов и учебных маршрутов
-
-## Связанные статьи
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Гибрид коллаборативной фильтрации и графа знаний для мультимодальных учебных ресурсов со слиянием с учётом способностей и прогресса (Лю, Сунь и Сонг 2026)
-- [[fair-explainable-edu-recommendations]] — Рекомендательная система на гетерогенном графе знаний + GRU со справедливостью GroupDRO и контрфактической объяснимостью (Евангелиста и Бухари 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Управляемые предметной областью объяснения строят большее доверие преподавателей, чем диаграммы важности признаков (Фельдман-Маггор и др. 2025)
-- [[proprl-prerequisite-relation-learning]] — Изучение отношений предпосылок с ограничением необратимости для направленной согласованности (Ченг и др. 2026)
-- [[pattern-kc-programming-recommendation]] — Рекомендация практики программирования по сходству компонентов знаний, основанных на шаблонах (Хок и др. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Анализ 29 064 спроектированных активностей в 554 курсах методами Маркова и поиска шаблонов (Дивяк, Светец и Хорват 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Байесовское диагностирование DINA и кратчайшие корректирующие пути, опосредованные когнитивной нагрузкой (Фэн и Хуанг 2026)
-- [[knowledge-gap-detection-ai-tas]] — Отображение вопросов к ИИ-ассистенту преподавателя на граф предпосылок, извлечённый GPT-4, для поиска пробелов на уровне учебного плана (Медхат и др. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Графы learnity как альтернатива фиксированным учебным программам в обучении на протяжении жизни (Секели, Галь-Эзер и Харел 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Пятиуровневая таксономия, показывающая, что большинство взаимодействий человека и ИИ — это консультация, а не коллаборация (Мутлу Чукурова 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Поддержка автономии против давления как предиктор конструктивных или компульсивных путей использования ИИ (Шен и Арунругстичай 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — Обзор по методологии PRISMA тенденций персонализированного обучения, траекторий и моделей рекомендаций (Икрам и др. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: бенчмарк планирования, центрированного на знаниях, показывающий, что LLM достигают 90,9% валидности, но лишь 44,3% адаптивности (Лю и др. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Рекомендация заданий как последовательное решение поверх семантически обоснованного трекера
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Поведенческая кластеризация 14 003 записей в шесть профилей, отображённых на учебные объекты в рамках рекомендательной платформы с регуляризацией разнообразия (Наджем и др. 2026)

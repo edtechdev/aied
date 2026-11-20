@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -44,7 +46,6 @@ ai_assist:
 
 - **একটি মেশিন-উৎপন্ন পরিমাণগত ধারা।** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang প্রমুখ (২০২৬)]] অভিসারী নকশার অধীনে অংশগ্রহণকারীদের সাক্ষাৎকার-প্রতিলিপি থেকে BREQ পরিমাণগত ধারা তৈরি করেন — এমন একীকরণ-পথ যা কেবল মানব-শ্রমের ওপর নির্ভর করে না। LLM–মানব সম্পর্ক মধ্যম থেকে উচ্চ পর্যন্ত ছিল (ρ = .5 থেকে .73), উপাদান-, ব্যক্তি- ও পরীক্ষা-স্তরের RMSE মানব-প্রতিক্রিয়া থেকে দূরত্ব পরিমাপ করেছে, আর নঞর্থক-শব্দযুক্ত ৬, ৭ ও ১১ নম্বর উপাদান সবচেয়ে স্পষ্ট ত্রিভুজায়ন-লাভ চিহ্নিত করেছে, দেখায় কোথায় সাক্ষাৎকার ও সমীক্ষা-প্রমাণ বিচ্যুত হয়।
 
-
 ## জ্ঞানভাণ্ডারে মিশ্র-পদ্ধতি কীভাবে দেখা যায়
 
 - **প্রক্রিয়া ব্যাখ্যা।** [[same-ai-different-pathways]] শাস্ত্র-প্রতিষ্ঠান প্রসঙ্গ জুড়ে এআই-মধ্যস্থিত শিখনের প্রক্রিয়া উন্মোচনে ধারা একত্র করে, যেখানে কেবল পরিমাণগত পার্থক্য অস্পষ্ট থাকত।
@@ -71,26 +72,3 @@ ai_assist:
 - **"এআই শিক্ষা-গবেষণায় মিশ্র-পদ্ধতি একটি সংকীর্ণ পছন্দ।"** **394টি GenAI উচ্চশিক্ষা গবেষণা** জুড়ে মিশ্র-পদ্ধতি ছিল **সবচেয়ে সাধারণ গবেষণা-নকশা (213টি গবেষণা, 54%)**, তারপর পরিমাণগত (109, 28%) ও গুণগত (72, 18%)। ক্ষেত্রের প্রধান নকশা সেই নকশা নয় যা তার পদ্ধতিগত বিতর্ক ধরে নেয়।
 - **"পর্যবেক্ষণ ও সাক্ষাৎকার-প্রমাণ একটি সিস্টেম-দাবি বহন করতে পারে।"** সিস্টেম-পর্যবেক্ষণ ও [[administrator|প্রশাসক]]-আলোচনাকে **আট সেমিস্টার জুড়ে 8,708 শিক্ষার্থীর চার-বছরের র্যান্ডমাইজড মূল্যায়নের** বিপরীতে জোড়া দেওয়া, যা **0.05 আদর্শ-বিচ্যুতির** প্রভাব শনাক্তে ক্ষমতাপ্রাপ্ত, দেখায় গুণগত ধারা একা কী করতে পারে না: ছোট প্রভাব নির্ভরযোগ্যভাবে শনাক্ত করা। পদ্ধতি মেশানো ধারার মধ্যে ক্ষমতা হস্তান্তরের উপায় নয়।
 - **"ত্রিভুজায়ন মানে দুই দুর্বল পদ্ধতি একটি শক্ত দাবি তৈরি করে।"** জোড়ার মূল্য হলো প্রতিটি ধারা ভিন্ন প্রশ্নের উত্তর দেয়। যে নকশা দুটোই চালায় এবং পরে গুণগত ফলাফলকে পরিমাণগতটির নিশ্চিতকরণ হিসেবে প্রতিবেদন করে, সে ত্রিভুজায়ন করেনি, পুনরুক্তি করেছে।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-over-reliance-learning-2026]] — সমৃদ্ধি থেকে অতি-নির্ভরতা (সমীক্ষা + সাক্ষাৎকার)
-- [[t2i-competence-paradox-2026]] — সক্ষমতা-বিরোধ (ফোকাস গ্রুপ + সমীক্ষা + সাক্ষাৎকার)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — আস্থা–উপযোগিতা ফাঁক (সমীক্ষা + সাক্ষাৎকার)
-- [[same-ai-different-pathways]] — প্রসঙ্গ জুড়ে এআই-মধ্যস্থিত শিখনের প্রক্রিয়া
-- [[genai-feedback-design-multisite-experiment]] — মানব-কেন্দ্রিক GenAI প্রতিক্রিয়া-নকশা (বহুস্থানীয়)
-- [[hazra-safetutors-pedagogical-safety-2026]] — এআই টিউটর নিরাপত্তা ও শিক্ষাতাত্ত্বিক ক্ষতি
-- [[becker-chatgpt-typology-physics-2026]] — পদার্থবিজ্ঞানে ChatGPT গ্রহণের একটি গুণগত শ্রেণিবিন্যাস
-- [[edtech-privacy-deferral-2026]] — "পরে ঠিক করে নেব": শিক্ষা, এআই এবং এডটেকে শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER ও একটি ফাইন-টিউন করা RoBERTa একই Bluesky পোস্টে বিপরীত ভ্যালেন্স বরাদ্দ করে (Geraili Meykola প্রমুখ, 2026)

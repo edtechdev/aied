@@ -19,6 +19,7 @@ ai_assist:
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, libraries, ai-literacy, librarians, curriculum-design, generative-ai]
 ---
 
 > **Synthesis:** Mirza and Arif ask how [[ai-literacy|AI literacy]] has been folded into [[information-and-media-literacy|information literacy]] instruction in academic libraries, and find a field still at what they call an infancy stage. Their PRISMA review screened 2,126 records across seven databases and kept 32 studies, 30 of which appeared in 2024 or 2025. Integration is lopsided: 11 studies come from the United States, 19 are quantitative surveys with small or self-selected samples, and the actual teaching runs through LibGuides, tutorials, one-off workshops and revised course modules rather than a curriculum. The authors record alignment with information-literacy frameworks as inconsistent and describe their conclusions as provisional patterns rather than settled findings.
@@ -60,15 +61,6 @@ Eleven US studies and nine countries contributing a single study each is a descr
 - Methodological immaturity in the included studies — conceptual work and small self-report samples — limits what can be concluded from the synthesis.
 - The review does not claim conceptual saturation and describes its findings as provisional patterns.
 - The article contains internal inconsistencies: a filtering section reports 3,340 records against 2,126 in the PRISMA flow, and the number of databases is given as six in the search-strategy section and seven elsewhere.
-
-## Connected Concepts
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-- [[ai-literacy]]
-- [[librarians]]
-- [[curriculum-design]]
-- [[generative-ai]]
 
 ## Citation
 

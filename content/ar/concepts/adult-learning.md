@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -73,45 +75,3 @@ ai_assist:
 - **"أداة واحدة جيدة تخدم متعلّمي الكبار."** وجد البحث أن **لا نظام ذكاء اصطناعي واحد لتعلّم الكبار استوفى كل مبادئ التصميم** — بل لزم النظام البيئي كاملًا. فالكبار يأتون بالتزامات وجداول متقطّعة وأهداف غير متجانسة، فلا يستطيع منتج واحد تغطية فضاء التصميم.
 - **"يمكن افتراض الثقافة الرقمية على مستوى الكبار."** صمّمت [[community-centered-ai-education-adults|دراسة حالة من الغرب الأوسط]] برنامجًا لثقافة الذكاء الاصطناعي بالتصميم المشترك مع **54 بالغًا في مجتمع محروم**، فوجدت أن تعليم الذكاء الاصطناعي للكبار الموجّه نحو الإنصاف **يجب أن يعالج الثقافة الرقمية التأسيسية وثقة البيانات** أولًا. فالعمر ليس بديلًا عن الطلاقة الرقمية.
 - **"التبنّي مسألة دافعية."** بناء [[ai-literacy|ثقافة الذكاء الاصطناعي]] و[[trust|الثقة]] حول خصوصية البيانات يجب أن يسبق توقّع التبنّي. فالإقدام يأتي من الثقة في ما يحدث للبيانات، لا من الحماس للتقنية.
-
-## المفاهيم المرتبطة
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — التعليم والتعلّم عبر الإنترنت
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## المقالات المرتبطة
-
-- [[ai-adult-learning-guidelines-dis2026]] — إرشادات تصميم تقنيات الذكاء الاصطناعي لدعم تعلّم الكبار
-- [[andragogy-cognitive-delegation-genai-2026]] — ما يبقى موجهاً ذاتياً؟ إعادة النظر في الأندراغوجيا عبر التفويض المعرفي في تعلّم الكبار المُوسَّط بالذكاء الاصطناعي التوليدي
-- [[ai-lifelong-learning-policy]] — الذكاء الاصطناعي في التعلّم مدى الحياة: الفرص والتحديات في سياسة تعليم الكبار
-- [[sovereign-hive-titl-further-education-2026]] — الخلية السيادية وإطار المدرّب في الحلقة (TITL) للإنصاف في التعليم الإضافي
-- [[community-centered-ai-education-adults]] — التصميم المشترك لتعليم ذكاء اصطناعي متمركز حول المجتمع للكبار: دراسة حالة من الغرب الأوسط
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — أنظمة تعلّم جديدة لمؤسسات التعلم عن بُعد؟ مراجعة بست دراسات لتنفيذ AIDA
-- [[institutional-governance-ai-universities]] — تجزئة السياسة أم مواءمة مؤسسية؟ الحوكمة المؤسسية للذكاء الاصطناعي في الجامعات ومدارس الأعمال
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — تجارب تعلّم معزّزة بالذكاء الاصطناعي التوليدي للتفكير الحسابي: مراجعة شاملة منهجية وإرشادات تصميم
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — رسم المنهج الناشئ لهندسة البرمجيات المُساعَدة بالذكاء الاصطناعي عبر تحليل المقررات
-- [[learner-ai-interaction-patterns-oop]] — أنماط تفاعل المتعلّم مع الذكاء الاصطناعي والأداء الأكاديمي في مقرر برمجة موجّهة بالكائنات
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — تصميم أنظمة ذكاء اصطناعي لدعم التعلّم القائم على الإخفاق المنتج
-- [[kim-ai-andragogy-2026]] — تطبيقات الذكاء الاصطناعي في دعم الأندراغوجيا (كيم وآخرون 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — صمّم لمدى من الانخراط: اجعل الحوار السقراطي العميق المسار الأكثر إثمارًا

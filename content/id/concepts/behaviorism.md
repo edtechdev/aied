@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -88,25 +90,3 @@ Behaviorisme juga muncul dalam cara pembelajar menjumpai AI sebagai topik. Teori
 **"Desain behavioris sekadar lebih rendah daripada desain konstruktivis."** Desain itu cocok untuk sasaran tertentu — kelancaran, ingatan faktual, otomatisitas prosedural — di mana umpan balik segera dan pengulangan memang yang dibutuhkan oleh tugas. Kesalahannya bukan pada mekanismenya; kesalahannya adalah menggunakan mekanisme yang syarat validitasnya (pembelajar harus menghasilkan respons) diam-diam sudah tidak berlaku.
 
 **"Karena teorinya didiskreditkan, sistem yang dibangun di atasnya dapat dinilai hanya dari hasil."** Hasil justru yang dirusak oleh ekuivalensi keluaran. Sebuah sistem dapat melaporkan hasil perilaku yang sangat baik sementara pembelajarannya telah berpindah ke tempat lain, sehingga sistem yang dipengaruhi behaviorisme lebih membutuhkan ukuran tanpa bantuan daripada jenis sistem mana pun.
-
-## Konsep terkait
-
-- [[constructivist]]
-- [[cognitive-psychology]] — Kognitivisme, kutub klasik ketiga teori belajar
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## Artikel terkait
-
-- [[ai-vocational-education-training-review]] — Desain AI behavioris mendominasi praktik VET meskipun konstruktivisme dianut; "Turing Trap"
-- [[generativism-learning-theory]] — Behaviorisme di antara empat teori dominan yang mendorong peninjauan kembali atas AI generatif
-- [[ccct-cooperative-learning-technique]] — Behaviorisme dirujuk dalam desain pembelajaran kooperatif untuk pendidikan tinggi
-- [[wang-multi-agent-systems-learning-designers-2025]] — Persona behavioris di antara pendekatan desain multi-agen kolaboratif
-- [[sequenced-ai-feedback-learning]] — Umpan balik petunjuk berurutan berkinerja lebih rendah daripada umpan balik solusi lengkap segera dalam eksperimen acak dengan 199 peserta

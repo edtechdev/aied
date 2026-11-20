@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -69,39 +71,3 @@ ai_assist:
 - **«Помилки очевидні, коли з’являються».** ШІ, що діагностував рукописні математичні роботи, міг **вигадати цитати-свідчення, яких не було, і при цьому заявляти впевненість**. Збій був не правдоподібно-неправильною відповіддю, а вигаданою підтримкою, поданою з упевненістю, — найважчий різновид для виявлення, бо він читається як саме ті свідчення, які хотів би мати уважний читач.
 - **«Результат без цитат — це проблема форматування».** У магістерському курсі, що замінив комерційний підручник згенерованими ШІ матеріалами, лише **близько 0,80% з 4 487 зареєстрованих сторінок мали внутрішньотекстову цитату в стилі APA**. Це відсутність провенансу на рівні корпусу, а не випадковий пропуск, і це означає, що перевірці немає з чого почати.
 - **«Галюцинація — це проблема генерації моделі, яку розв’язують новіші моделі».** Діапазон частот охоплює 10-40% у 125 дослідженнях, що є властивістю завдання й розгортання не менше, ніж моделі. Зниження частоти — реальний прогрес, і воно не змінює того, що читач має бути здатен перевірити.
-
-## Пов’язані поняття
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Пов’язані статті
-
-- [[sim-ai-summary-memory-distortion-2026]] — Оманливе резюме ШІ спотворило пам’ять дорослих про відео, і позначка «ШІ чи людина» їх не захистила
-
-- [[frontiers-gai-hallucination-dependence-2026]] — Позначення діалогу GAI як вигаданого знизило довіру та залежність разом
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Сигнали достовірності підвищили покору результату ШІ, причому частину процитованих випадків приписано помилково або вигадано
-- [[ivory-psychology-assessment-integrity-2026]] — Вигадані цитування та самосуперечливі результати всередині прохідної студентської роботи (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: плавно правдоподібні пояснення, що є хибними на концептуальному рівні (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Приховані ін’єкції в підказках підвищують оцінені ШІ бали непомітно, а виявлені атаки залишаються неповідомленими (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -99,42 +101,3 @@ PersonaPath просуває питання упорядкування далі,
 **«Розріджені дані — це технічна прикрість.»** За рівнів розрідженості в цій літературі (0,9981) система бачить майже нічого, що робить холодний старт і упередженість популярності структурними, а не виправними налаштуванням. Рекомендатор, натренований на такому сигналі, систематично виводитиме те, що вже популярне, а тихі або незвичні здобувачі — ті, кого він не бачить.
 
 **«Пояснюваність — це функція звітності.»** Чи може викладач або здобувач проаудити рекомендацію — це умова легітимності: шлях, який студент не може оглянути, — це той, який він не може оспорити, а це проблема управління раніше, ніж проблема інтерфейсу.
-
-## Пов’язані поняття
-
-- [[knowledge-graph]] — Structured representations of concepts, resources, and prerequisite relations
-- [[explainable-ai]] — Explanation as a design feature that mediates understandability and trust
-- [[curriculum-design]] — Ordering decisions that recommenders model, infer, and reproduce
-- [[learning-design]] — The planned sequence of activities that path analyses operate on
-- [[learning-analytics]] — The data and methods behind recommendation, and the object of audit
-- [[cognitive-diagnosis]] — Diagnosing knowledge states that seed remediation paths
-- [[knowledge-tracing]] — Modeling mastery over time to decide what a learner is ready for
-- [[student-modeling]] — Learner representations that recommendation consumes
-- [[personalized-learning]] — The broader goal; this page covers the selection decision
-- [[adaptive-learning]] — The real-time adjustment mechanism; this page covers ranking and sequencing
-- [[intelligent-tutoring]] — The platform that acts on recommendations in dialogue
-- [[bias-mitigation]] — Fairness interventions in ranking and exposure
-- [[equity-in-ai-education]] — Group-level differences in recommendation quality
-- [[human-in-the-loop-ai]] — Oversight of automated resource navigation
-- [[self-directed-learning]] — Learner-maintained pathways and lifelong navigation
-- [[lifelong-learning]] — Graph-structured learning beyond a degree sequence
-- [[trust-calibration]] — Matching reliance to recommendation reliability
-- [[student-support-and-success]] — recommending support, resources, and academic paths
-
-## Пов’язані статті
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid collaborative filtering plus knowledge graph for multimodal teaching resources, with ability- and progress-aware fusion (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Heterogeneous knowledge graph + GRU recommender with GroupDRO fairness and counterfactual explainability (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-driven explanations build more teacher trust than feature-importance charts (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — Prerequisite relation learning with an irreversibility constraint for directional consistency (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — Recommending programming practice by pattern-based knowledge-component similarity (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov and pattern-mining analysis of 29,064 designed activities across 554 courses (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian DINA diagnosis and shortest remediation paths, mediated by cognitive load (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Mapping AI TA questions to a GPT-4-extracted prerequisite graph to find curriculum-level gaps (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs as a lifelong-learning alternative to fixed curricula (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Five-level taxonomy showing most human-AI interaction is consultation, not collaboration (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Autonomy support versus pressure predicting constructive or compulsive AI pathways (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — PRISMA review of personalized learning trends, pathways, and recommendation models (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: a Knowledge-Centric planning benchmark showing LLMs reach 90.9% validity but only 44.3% adaptivity (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — exercise recommendation as a sequential decision over a semantically grounded tracer
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Behavioral clustering of 14,003 records into six profiles, mapped to learning objects with a diversity-regularized recommendation framework (Najem et al. 2026)

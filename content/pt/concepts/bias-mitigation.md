@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -106,55 +108,8 @@ A mitigação de viés é o mecanismo técnico pelo qual a [[equity-in-ai-educat
 
 Tudo nesta página diz respeito ao viés dentro do sistema. [[automation-bias]] diz respeito ao viés na pessoa que lê sua saída — aceitar uma recomendação que um humano teria questionado se tivesse chegado a ela sozinho — e sobrevive mesmo quando o modelo é preciso.
 
-
 ## Ideias equivocadas comuns
 
 - **"O viés é um problema de correção e feedback."** O viés entra em **classes de tarefa fora da correção**: três LLMs que distribuíam **turmas de engenharia de software de 28 estudantes entre quatro equipes encaminharam homens pelo menos 80% menos frequentemente que** a distribuição de referência. A formação de equipes carregou viés numa magnitude comparável à da correção.
 - **"Fornecer a competência relevante remove o viés."** Fornecer competências **reduziu, mas não removeu**: **99,2% das atribuições baseadas em competências correspondiam a uma de duas equipes de referência, e ainda assim o gênero decidiu entre opções igualmente válidas (OR 2,53**). Correspondência de tarefa quase perfeita coexistiu com um efeito de gênero, de modo que acurácia no critério primário não é evidência de equidade.
 - **"Uma abordagem de mitigação é suficiente."** A pesquisa ilustra **estratégias complementares** — a modelagem consciente da equidade entre elas —, porque o viés que entra na formação não é resolvido por uma correção voltada ao texto de saída.
-
-## Conceitos conectados
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — a falha do lado do leitor que esta página não cobre: aceitar uma recomendação sem verificá-la
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artigos conectados
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alinhamento pedagógico neuro-simbólico (NSPA)
-- [[ai-scoring-language-bias-physics]] — Viés linguístico na correção baseada em IA
-- [[gender-bias-transfer-llm-writing]] — Transferência de viés de gênero na escrita assistida por LLM
-- [[paternalistic-filter-llm-history-education]] — O filtro paternalista e as recusas diferenciais
-- [[fair-explainable-edu-recommendations]] — Recomendações educacionais justas e explicáveis
-- [[temporal-smoothness-debiased-kt]] — Rastreamento de conhecimento sem viés
-- [[ground-truth-reliability-aied]] — Modernizando o gabarito para a confiabilidade da IA
-- [[data-annotations-pedagogical-hints]] — Anotações de dados como pistas pedagógicas
-- [[xai-education-framework]] — IA explicável na educação
-- [[antiskillbench-persona-skills-privacy-2026]] — Privacidade de competências de personas e auditoria de viés
-- [[genai-minoritized-knowledges-disability]] — IA generativa e a marginalização de conhecimentos minorizados
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogias marcadas: vieses alinhados aos estereótipos no feedback automatizado de escrita
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — A IA pode oferecer apoio adequado a perfis diversos de estudantes? Uma avaliação em larga escala
-- [[bias-representation-text-to-image-education-2026]] — Viés e representação em texto para imagem gerado por IA: revisão sistemática (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticos para a IA na educação
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da classificação de sentimento a feedback acionável e responsável: uma revisão de escopo e mapa de evidências sobre PLN na avaliação da docência por estudantes, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — A IA generativa pode reforçar vieses sociais na educação em engenharia de software
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: avaliando intervenções de equidade pós-hoc em sistemas de alerta precoce controlados por fornecedores
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — sob desequilíbrio de classes, três famílias de modelos não conseguiram identificar estudantes de baixo desempenho enquanto as métricas balanceadas pareciam saudáveis

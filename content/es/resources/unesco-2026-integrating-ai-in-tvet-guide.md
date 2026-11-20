@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
@@ -41,12 +42,3 @@ Responsables de instituciones de formación profesional que deciden por dónde e
 ## Notas y advertencias
 
 Es orientación, no evaluación. La guía no aporta datos de resultados, y sus ejemplos institucionales, un modelo de aprendizaje con IA integrada en el contenido en el College of the North Atlantic (Canadá) y el estándar keniano de 2023 sobre vinculación industrial en la formación profesional, son casos descriptivos basados en informes de proyecto, no ensayos independientes. Los anexos se declaran indicativos; la escala de madurez es una ayuda para la discusión, no un instrumento de medición. Las ocupaciones críticas para la seguridad y las reguladas tienen su capítulo, pero defiende una postura sobre la supervisión humana en lugar de ofrecer detalle normativo. La licencia CC BY-SA 3.0 IGO permite adaptar y republicar con atribución y compartir igual.
-
-## Conceptos conectados
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

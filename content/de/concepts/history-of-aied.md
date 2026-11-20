@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -101,31 +103,3 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 **„Personalisierung bedeutet, die Schwierigkeit an jede lernende Person anzupassen."** Das ist nur eine von zwei unvereinbaren Bedeutungen, und ihre Vermischung verbirgt eine politische Entscheidung. In der ersten Bedeutung wird das Ergebnis festgehalten und nur der Weg variiert; die Linie reicht von Skinners Lehrmaschinen bis zum mastery-basierten Tutoring. In der zweiten diversifizieren die Ergebnisse selbst, da Lernenden individuellen Interessen folgen, unbeschränkt durch ein Standardcurriculum (Zhao, 2024). Ein [[intelligent-tutoring|ITS]] implementiert die erste; der [[constructivist|Konstruktionismus]] die zweite. Ein Werkzeug, das als „personalisiert" beschrieben wird, hat Ihnen nichts gesagt, solange Sie nicht wissen, welche der beiden Bedeutungen gemeint ist.
 
 **„‚Artificial intelligence' war schlicht der naheliegende Name für das Feld."** Der Begriff war eine bewusste Entscheidung. Als McCarthy das Dartmouth-Projekt von 1956 plante, bevorzugte er *artificial intelligence* gegenüber *cybernetics*, teilweise um die Arbeit von Wieners analoger Feedback-Tradition abzugrenzen. Diese eine Entscheidung rückte Maschinen in den direkten Vergleich mit menschlicher Kognition, und die anthropomorphe Rahmung, die sie etablierte, prägt bis heute Forschungsprioritäten, Produktsprache und die ethischen Fragen, die die Öffentlichkeit stellt.
-
-## Verbundene Konzepte
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Verbundene Artikel
-
-- [[mishra-control-vs-agency-history-2025]] — Kontrolle versus Handlungsfähigkeit: die Geschichte der KI in der Bildung erkunden
-- [[prezenski-human-centered-ai-aided-learning]] — Menschenzentriertes KI-gestütztes Lernen (greift Andersons Erbe auf)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitive Commons und KI-Expertise (historische Rahmung)
-- [[programming-its]] — Programmieren intelligenter Tutorensysteme
-- [[lak2026-hint-button-unproductive-use]] — Der Hinweis-Knopf in kognitiven Tutoren erneut betrachtet
-- [[socrates-students-instructors-llms-lbt-2025]] — Lernen durch Lehren mit LLMs (Paperts Konstruktionismus-Linie)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fünfzig Jahre Themen in *Computers & Education*: Die KI-Prävalenz drehte nach 2018 nach oben, vier Jahre vor ChatGPT
-

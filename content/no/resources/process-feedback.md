@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -41,7 +42,3 @@ Det retter seg mot enkeltlærere og studenter, som kan bruke det uten institusjo
 ## Merknader og forbehold
 
 Gratis dekker arbeidsflytene for enkeltklasserom; institusjonell prising finnes separat og er knyttet til distribusjonsomfang, datahåndtering, støtte og etterlevelse snarere enn til en pris per student eller per lærer. Fordi en rapport viser en prosess og ikke en intensjon, er innliming alene ikke uredelighet – prosjektets egen veiledning sier at en student kan lime inn sin egen tidligere tekst, og at studenter ikke bør straffes bare for å lime inn. Brukstallene og vurderingen 5,0 i Chrome Web Store er prosjektets egen markedsføring; anmeldelser i en utvidelsesbutikk er ikke uavhengig evidens for læringsutbytte. Les rapportene som belegg for en samtale, som er slik verktøyet er designet og slik utvikleren beskriver det.
-
-## Tilknyttede begreper
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

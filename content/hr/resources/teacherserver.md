@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -37,7 +38,3 @@ Za vrtić do srednju školu: generatori planova lekcija, radnih listova, [[speci
 
 ## Napomene
 Projekt tvrdi da ima lokalno instaliran AI poslužitelj radi brzine, da se podaci obrađuju lokalno i nikada ne pohranjuju te da je usklađen sa smjernicama Ministarstva obrazovanja; [stranica o timu](https://teacherserver.com/index-team.php) navodi Zafera Unala, profesora na Sveučilištu Južne Floride, kao osnivača i razvijatelja, uz savjetodavni odbor od četiri nastavnika s drugih sveučilišta. Te tvrdnje vrijedi provjeriti prije upotrebe sa studentskim radovima. Pristup zahtijeva registraciju, a postoji i popratna platforma koja se kasnije plaća za izradu vlastitih alata.
-
-## Povezani pojmovi
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

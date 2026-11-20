@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -93,27 +95,3 @@ LPA предполагает, что выборка взята из смеси �
 - **«Анализ латентных профилей обнаруживает существующие группы.»** LPA превращает разнообразие учащихся из риторического утверждения в измеримую находку, а профили — это **модель континуума, разделённого в выбранных границах**, а не естественные виды. Число профилей — аналитическое решение.
 - **«Подходит любой член семейства латентных переменных.»** Какой из них использовать, **следует из индикаторов**: **LCA для категориальных индикаторов**, LPA для непрерывных. Выбор метода сначала, а индикаторов потом делает результат артефактом выбора.
 - **«Профили сопоставимы между исследованиями.»** Chen и коллеги профилировали **128 тайваньских будущих преподавателей** по пяти конструктам [[technology-acceptance-model|TAM]]/UTAUT2, тогда как Acquah и коллеги профилировали **509 ганских студентов бакалавриата**. Разные индикаторы в разных популяциях не дают соизмеримых ярлыков профилей.
-
-## Связанные концепции
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Связанные статьи
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — Доказательства выбора по тесту Ло–Менделл–Рубина для четырёх профилей отношения к ИИ у 379 студентов-бизнесменов
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Анализ латентных переходов профилей в трёх волнах для психологической адаптации
-- [[liang-ai-learning-motivation-sdt-2026]] — Анализ латентных переходов трёх профилей мотивации в течение года
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Профили по k-means; расхождение силуэта и индекса Калинского–Харабаша; ARI 0,989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Иерархическая кластеризация и k-means по четырём персонам внедрения GenAI
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Четыре профиля убеждений преподавателей относительно ИИ у 40 680 преподавателей в 49 системах, с проверкой устойчивости согласования

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -118,47 +120,3 @@ ai_assist:
 **"מראה האווטאר הוא קוסמטי."** רמזי זהות שינו דירוגי אמינות ואימוץ בפועל של הנחיה, כשהעונשים הצטברו עבור אווטארים של נשים שחורות מבוגרות.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) תצורה היא החלטה פדגוגית ושל [[equity-in-ai-education|שוויון]].
 
 **"מטופל מדומה הוא מטופל מתוקנן, פחות העלות."** פסיכולוגים מתמחים מצאו שהמטופל הווירטואלי שלהם משתף פעולה וכבר מתקדם בטיפול, מקרה "אידיאלי" שממעט לייצג חוסר-גמישות התנהגותי.([[ai-psychotherapy-training-avatars]]) העלות יורדת; תוקף המקרה אינו נובע מכך אוטומטית.
-
-## מושגים מחוברים
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## מאמרים מחוברים
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — רמזי זהות של אווטאר מזיזים אמינות ואימוץ של הנחיה (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — אווטארי סטודנט בדיאלוג בהכשרת מורים מבוססת-תרגול (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — יצירת דיפ-פייק ודיווח עליו לפי מגדר בסדנת אוריינות בינה מלאכותית
-- [[elevate-genai-virtual-tutors]] — חונכי אווטאר תלת-ממדיים מקומיים עם שכבת ממשל למורה (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — מטופלי אווטאר עם שופט LLM לתקשורת קלינית
-- [[genai-simulate-patient-history-pbl-2026]] — אווטאר מטופל מבוסס בינה מלאכותית יוצרת בהדרכת לקיחת אנמנזה ב-PBL
-- [[ai-psychotherapy-training-avatars]] — אווטארי מטופל לתרגול נאמנות ACT בהכשרה בפסיכותרפיה
-- [[aclime-pedagogical-agents-extended-reality-2026]] — סוכנים פדגוגיים במציאות מורחבת: נוכחות, ריאליזם ועומס (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — משחק-תפקידים בתיווך רובוט עם אווטאר מופעל בידיים להתערבות עובר אורח
-- [[personalized-ai-generated-videos-preference-2026]] — התאמה אישית של וידאו מרצה משוכפל והעדפת סטודנטים
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — מסגרת בת ארבע שכבות שמפרידה ייצוג מסוכנות בסימולציית כיתה
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — סוכן קולי שיחתי מוצע לראיונות משוב על קורס
-- [[trikonet-trivalence-co-creativity-2026]] — אווטארים פדגוגיים יצירתיים-משותפים ברשתות סוציו-טכניות (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — רק 51.7% מ-654 סטודנטים אימצו את התפקידים האנתרופומורפיים שהוצעו; אחד כינה אותו מכונת ממכר של משוב

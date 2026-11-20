@@ -22,6 +22,8 @@ ai_assist:
 translation_of: concepts/automation-bias
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -123,46 +125,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **“回路中有人就能解决它。”** 回路的好坏只取决于介入的机会，而评分研究还没有测量锚定。
 - **“这是学生的问题。”** 在文献描述的每一项设计中，教师、评分者、标注者与管理者才是签核的人。
 - **“这是一种人格缺陷，更好的培训可以消除。”** 培训有帮助，但同一个人会因核验是否廉价、输出是否流畅、异议是否带来代价而表现不同。
-
-## 关联概念
-
-- [[trust-calibration]] — 自动化偏见所命名其失效的依赖状态
-- [[bias-mitigation]] — 系统侧的对位物：模型内部的偏见
-- [[cognitive-offloading]] — 心智工作的委托，不加核查的接受是其中一种结果
-- [[human-in-the-loop-ai]] — 这一失效决定其强弱的保障措施
-- [[explainable-ai]] — 该领域提出却很少检验的透明性干预
-- [[learning-analytics]] — 仪表板与早期预警，遗漏错误集中之处
-- [[recommender-systems-and-learning-paths]] — 对下一步该做什么排序，学生可以直接照做
-- [[automated-assessment]] — 人可以不去重读就接受的分数
-- [[scaffolding]] — 让核查始终比接受更廉价的脚手架
-- [[self-efficacy]] — 标准预测所依赖的特质
-- [[ai-detection]] — 由人在时限压力下裁决的检测
-- [[remote-proctoring]] — 由模型提出疑点、由人裁决的监考
-- [[ai-literacy]] — 作为计分技能的核验应当栖身之处
-
-## 关联文章
-
-- [[shi-human-ai-complementarity-safety-2026]] — 416 名评分者、3,957 个条目：候选先行协助把对模型答错条目的纠错率从 36.7% 压到 20.6%（Shi 等，2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 警告教师不要屈从于建立在单薄数据上的推荐
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 把评分者被 AI 分数锚定点名为未检验的风险，并提出盲评
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — 仪表板、表层特征反馈与红绿灯构成的一般模式
-- [[factria-responsible-institutional-analytics-2026]] — 十一位利益相关者、四个案例、一个拒绝推荐的聊天机器人
-- [[ludia-udl-ai-thought-partner-2026]] — 因信任工具领域知识而被削弱的那个教育者保障
-- [[extended-minds-coupling-flexibility-2026]] — 若自动化偏见击败它，形式上的否决权就不是监督
-- [[ground-truth-reliability-aied]] — 大语言模型标注、循环验证与静默的标签漂移
-- [[polished-artifacts-fragile-engagement-2026]] — 自动化偏见作为认识论努力下降的社会认知一侧
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 递归式人机工作四种失效模式之一
-- [[eight-mode-ai-engagement-typology-2026]] — “神谕”模式及其特征性风险
-- [[assessing-student-drive-framework-2025]] — 能动的人类能动性作为抵御自动化偏见的保障
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 项研究：AI 置换的是外在负担还是构成性工作
-- [[geoscience-field-learning-genai-2026]] — 证据约束的野外工作中的锚定、确认偏误与自动化偏见
-- [[ahmadfard-interactive-oer-review-2026]] — 自动化偏见被列入侵蚀学习者与教师能动性的风险
-- [[alshahrani-health-sciences-ai-use-2026]] — 310 名学生的伦理关切被读作明确培训的理由
-- [[ai-literacy-legal-translation-2026]] — 把译后编辑作为计分技能，以对抗质量错觉压力
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 在被综述的法医 AI 研究中记录的自动化偏见
-- [[rana-genai-design-thinking-2025]] — 让人类判断居于中心的脚手架
-- [[kim-overtrust-ai-literacy-2026]] — 预测被反转：自信的学生更信任该工具
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — 建立在自动化偏见研究之上的框架，而非对它的检验
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 侵蚀批判性公民身份的三种机制之一
-- [[academic-erasure-complexity-ai-writing-2026]] — 管制 AI 使用的情感劳动之中的自动化偏见
-- [[llm-fallacy-misattribution]] — 最近的区分：对系统的过度依赖 与 被感知的个人能力

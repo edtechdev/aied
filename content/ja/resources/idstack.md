@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -40,7 +41,3 @@ ai_assist:
 ## 導入前に知っておくべきこと
 
 プラグインのインストールには Claude Code と bash シェルが必要です。PowerShell と cmd ではセットアップスクリプトを実行できません。スコアの推移を扱う場合は Python 3 が推奨されます。コースデータは利用者自身のマシン上のプロジェクトフォルダに留まり、利用者が呼び出した統合（Canvas API 呼び出しなど）を通じてのみ外部に出ます。Chrome 拡張のライブ推論には利用者自身の無料 Google AI Studio API キーが必要ですが、シミュレーションモードを使えばキーなしで動作を確認できます。プロジェクトはバージョン 3.5.1.0 をベータと位置づけ、マイナーバージョン間で破壊的変更がありうると警告しており、savvides の GitHub アカウントから、名前を明かした個人ではなく公開されています。
-
-## 関連する概念
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

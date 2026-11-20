@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -106,63 +108,3 @@ ai_assist:
 - **"स्कैफोल्डिंग समर्थन का स्थिर स्तर है।"** **207 परामर्शों** के विशेषज्ञ एनोटेशन ने दिखाया कि स्कैफोल्डिंग की आवश्यकता **प्रबल रूप से चरण-निर्भर** थी, मुलाक़ात के आरंभ में छात्र उच्चारणों के लगभग 16.1% से बढ़ती हुई। एकल स्कैफोल्ड स्तर एक ही परामर्श के दोनों सिरों पर गलत आवंटित होता है।
 - **"कोई भी संरचित नियंत्रण स्थिति स्कैफोल्डिंग के लिए उचित तुलना है।"** स्कैफोल्डिंग स्थिति ने अंतिम OSCE-संरेखित [[summative-assessment|परीक्षा]] पर **संरचित प्रगतिशील-प्रकटीकरण नियंत्रण** को हराया (**71.8% बनाम 55.6%**), इसलिए लाभ कुछ नहीं के विरुद्ध नहीं, बल्कि एक वास्तविक [[pedagogy|शैक्षणिक]] विकल्प के विरुद्ध मापा गया।
 - **"स्कैफोल्डिंग के प्रभाव सामान्य हैं।"** लाभ **16.4 प्रतिशत अंक (P = 3.30e-4)** था, सबसे बड़ा सुधार **संप्रेषण (Hedges' g = -0.79)** में। प्रभाव एक परिणाम पर केंद्रित था, इसलिए परिणामों पर औसत यह कम आँकता है कि वह कहाँ काम करता है और अधिक आँकता है कि वह कहाँ नहीं करता।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — क्रम में सहायता कहाँ आती है, और क्यों प्रयास-से-पहले-सहायता भारवह नियम है
-- [[problem-based-learning]] — PBL असंरचित समस्याओं के इर्द-गिर्द कम होने वाले मड्गद सन्निहित करता है
-- [[learning-by-teaching]] — स्पष्टीकरण के माध्यम से ज्ञान निर्माण का मड्गद
-- [[sociocultural-learning]] — व्यगोत्स्कीय नींव: ZPD और सामाजिक रूप से मध्यस्थित सीखना
-- [[cognitive-offloading]] — मड्गद जो कभी कम नहीं होता वह अति-निर्भरता बनाता है
-- [[feedback]] — मड्गद सहायता कम होने के रूप में रचनात्मक प्रतिक्रिया वितरित करता है
-- [[ai-literacy]] — यह पहचानना कि मड्गद सीखने का समर्थन करता है बनाम इसे विस्थापित करता है
-- [[intelligent-tutoring]] — ITSs मड्गद तीव्रता को महारत अनुमानों के अनुसार अनुकूलित करती हैं
-- [[socratic-method]] — सीधे उत्तरों को रोकने वाला पूछना
-- [[metacognition]] — स्व-निगरानी और स्व-विनियमन बनाने वाले मड्गद
-- [[adaptive-learning]] — अनुकूली प्रणालियाँ शिक्षार्थी के ZPD के भीतर सहायता को मॉड्यूलेट करती हैं
-- [[learning-design]] — मड्गद एक मूल निर्देशात्मक-डिज़ाइन रणनीति है
-- [[help-seeking]] — मड्गद यह आकार देता है कि शिक्षार्थी सहायता कब और कैसे मांगते हैं
-- [[teacher-role]] — शिक्षक मड्गद देते हैं, फिर क्षमता बढ़ने के साथ कम करते हैं
-- [[pedagogy]] — छत्र: AI शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-- [[agentic-ai]]
-- [[productive-failure]] — उत्पादक विफलता
-
-## संबंधित लेख
-
-- [[kumar-genai-computing-education-systematic-review-2026]] — सत्यापन को लागू करने वाले तंत्र के रूप में मड्गद वापसी (VIE ढाँचा)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — मूल्यांकन: नैदानिक साक्षात्कार प्रशिक्षण के लिए मड्गद-उन्मुख बहु-एजेंट बड़े भाषा मॉडल प्रणाली
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — वीडियो में ज्ञान और भावनात्मक मड्गद के रूप में एन्ट्रॉपी-समयबद्ध AI टिप्पणियाँ (वांग, डू और जिन 2026)
-- [[guided-llm-scaffolding-independent-learning]] — एक संरचित सीखने के हस्तक्षेप के रूप में निर्देशित LLM प्रॉम्प्टिंग
-- [[scaffolding-critical-engagement-genai-minority-students]] — जनरेटिव-AI के साथ सांस्कृतिक रूप से प्रत्युत्तरीय महत्वपूर्ण-जुड़ाव मड्गद
-- [[rethinking-scaffolding-llm-tutors]] — LLM ट्यूटरों में मड्गद के लिए डिज़ाइन पैटर्न
-- [[concept-catalyst-engineering-scaffolds]] — संकल्पनात्मक परिवर्तन के लिए कॉन्सेप्ट कैटालिस्ट मड्गद
-- [[correct-answer-trap-ai-tutor]] — संकेत कब मदद करते हैं बनाम कब वे अति-निर्भरता को प्रोत्साहित करते हैं
-- [[critical-thinking-genai-scaffolding]] — जनरेटिव-AI के साथ महत्वपूर्ण सोच का मड्गद
-- [[veriforge-narrative-drafting-scaffolding-2026]] — वेरिफोर्ज के साथ मड्गदित कथा मसौदा
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — प्रतिस्थापन से मड्गद तक: स्व-सुदृढ़ हानि चक्र को तोड़ना
-- [[preferred-scaffolding-ai-mathematical-modeling]] — AI-समर्थित गणितीय मॉडलिंग में पसंदीदा मड्गद
-- [[agentic-ai-pedagogical-best-practice-2026]] — एजेंटिक AI के लिए गार्डरेल के रूप में गतिशील (कम होने वाले) मड्गद
-- [[zhang-tutormoments-2026]] — जब सहायता असहायक हो: उत्पादक संघर्ष के लिए AI ट्यूटरों का मूल्यांकन
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-विफलता-आधारित सीखने का समर्थन करने के लिए AI प्रणालियाँ डिज़ाइन करना
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — उत्पादक विफलता के लिए LLMs का शिक्षाशास्त्रीय स्टीयरिंग
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ट्यूटरिंग को उत्पादक बनाना: महारत-आधारित गणित अभ्यास
-- [[brcic-effortless-trap-productive-struggle-2026]] — संरक्षित बनाम असंरक्षित AI: रखने का नियम (ब्रचिच और फ्र्लिच 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — व्यावहारिक रसायन में AI-समर्थित प्रयोगात्मक डिज़ाइन
-- [[scaffolding-systematic-reviews-2026]] — मार्गदर्शन और AI के साथ व्यवस्थित समीक्षाओं का मड्गद (वांग 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — सीखने के डिज़ाइन में जनरेटिव-AI बातचीत के दौरान पूर्व-सेवा शिक्षक एजेंसी (क्रुशिंस्काया, एलेन और रेस 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — गणित शिक्षक शिक्षा में प्रथाओं के शिक्षाशास्त्रों में AI: संरचित रिहर्सल प्रतिक्रिया ने जाँचने वाले प्रश्न बढ़ाए (बोंडुरांट और शॉननेसी 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — निर्देशात्मक डिज़ाइन के रूप में AI एकीकरण: AI आउटपुट की आलोचना असाइन की जानी चाहिए, और अनुशासनात्मक विश्लेषण पहले आता है
-- [[ai-literacy-tool-design-programming-education-2026]] — एक संकेत-बजट AI अध्ययन कोच: मड्गदित बनाम अप्रतिबंधित जनरेटिव-AI उपयोग, और क्यों बाधा अकेले ने सीखना पैदा नहीं किया (अज़ीमी 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: मड्गद को यह तय करने के रूप में पुनःफ्रेम किया गया कि एक कार्य किस उप-क्षेत्र में आता है
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — रचनात्मक मड्गद के रूप में स्वचालित स्कोरिंग: यह केवल उस स्थान पर लाभ में बदलता है जहाँ लक्षित कमी विघटनकारी, विश्वसनीय और संवेदनशील रूप से मापी गई हो (चेन और लियू 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — संगीत अभ्यास में शिक्षार्थी के वर्तमान सीमा को ट्रैक करने वाला बंद-लूप अनुकूली मड्गद, त्रुटि पहचान को ट्रिएज के रूप में (झू सहित 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — मड्गद रूप को बच्चों की विकासात्मक क्षमता से मेल खाना चाहिए, केवल कार्य से नहीं (निउ सहित 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — मड्गदों को प्रतिनिधित्वक अनुवाद और सत्यापन की आवश्यकता होती है, क्योंकि छात्र वह सत्यापित नहीं कर सकते जो वे नहीं समझते (वेगा-बौद्रिट और रिवेरा अल्वारेज़ 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — ज्यामिति में दृश्य अंतर्दृष्टि से निगमनात्मक प्रमाण के पुल के रूप में प्रॉम्प्टिंग मड्गद के रूप में जनरेटिव-AI, जहाँ अकेला दृश्यीकरण अपर्याप्त है (डावोर 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — जाँच: निर्देशित AI ट्यूटर छात्र अड़चनों को कैसे हल करते हैं इसमें विविधता
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — STEM समस्या-समाधान में जनरेटिव-AI उपयोग के लिए मड्गद के रूप में शिक्षार्थी को प्रशिक्षित करना (हुआंग सहित 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — शिक्षण भ्रांतियों के लिए साक्ष्य-आधारित संवाद के साथ संवादात्मक AI निदान (Miranda & Calvani 2026)
-
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — एक स्व-गति पाठ्यक्रम में सामग्री और कालिक स्कैफ़ोल्डिंग परतें, अध्ययन-समय के अनुसार देर से शुरुआत और विफलता दरों के साथ
-- [[assistance-dilemma-rl-tutoring-2026]] — सहायता-दुविधा: बहु-चरणीय RL ट्यूटर का प्रशिक्षण जिसका पुरस्कार-क्षितिज समस्या के साथ समाप्त होता है, फेडिंग को बाहर प्रशिक्षित कर देता है (Macina, Kapur और Sachan 2026)
-

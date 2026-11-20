@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,7 +70,6 @@ ai_assist:
 
 التحليل الببليومتري أسرة كمية أخرى: يرسم [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] خريطة لـ1,403 منشور في [[medical-education|التعليم الطبي]] عبر شبكات البلدان والمؤسسات والتشارك الكلمات المفتاحية، مقرئًا شكل أدبيات لا مقيّمًا دراساتها — وهو ما يجعل استنتاجهم، بأن بحوث [[governance|الحوكمة]] لم تواكب سرعة اعتماد الذكاء الاصطناعي، قراءةً للبنية لا حكمًا على الأدلة.
 
-
 ## كيف يظهر البحث الكمي في قاعدة المعارف
 
 - **مطالبات الفعالية والسببية.** تختبر التجارب العشوائية المضبوطة وشبه التجارب ما إذا كانت أدوات الذكاء الاصطناعي تُحسّن التعلّم ([[access-not-enough-ai-tutoring-2026]]، و[[genai-can-harm-teaching-rct-2026]]، و[[adaptive-pretesting-retention]]).
@@ -93,35 +94,3 @@ ai_assist:
 - **«تقدير النية-للمعالجة يصف ما تفعله الأداة.»** في تجربة وصول عشوائية على مستوى المجموعة استخدم فيها **نحو 15% من طلاب الصفوف المعالَجة المدرّب أبدًا**، يعكس تقدير النية-للمعالجة **أثر إدخال** الأداة لا أثر استخدامها. فانخفاض الاستخدام يجعل رقم النية-للمعالجة تصريحًا عن التنفيذ، وتقديمه كأثر للأداة يبالغ في تقدير ما جرى قياسه.
 - **«الأداء على المهمة هو النتيجة.»** وزّع [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] عشوائيًا **120 طالبًا** على الدراسة بمساعدة الذكاء الاصطناعي أو الدراسة التقليدية وقاس **الاحتفاظ** — وهو التصميم الذي يفصل الأداء الفوري عن التعلّم المتين. فالدراسة التي تتوقف عند المهمة قاست الكمية الأسهل.
 - **«المقارنات بين مجموعات البيانات مباشرة.»** وجد فحصٌ بنيوي لبيانات تعليمية اصطناعية أن **تحليل كل مجموعة بيانات عند عتبتها الخاصة عكس تباينًا ثبت عند نقطة عمل مشتركة**. فقد اعتمدت إشارة المقارنة على خيار تحليلي، وهو نوع الهشاشة الذي توجد نقطة العمل المسجَّلة مسبقًا لمنعه.
-
-## المفاهيم المرتبطة
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## المقالات المرتبطة
-
-- [[access-not-enough-ai-tutoring-2026]] — دراسة ميدانية عشوائية للدعم البشري مضافاً إليه التدريس بالذكاء الاصطناعي
-- [[genai-can-harm-teaching-rct-2026]] — الذكاء الاصطناعي التوليدي قد يضرّ التدريس: تجربة عشوائية مضبوطة
-- [[acceptance-ai-english-tools-2026]] — قبول أدوات تعلّم الإنجليزية المساعدة بالذكاء الاصطناعي
-- [[tian-genai-learning-adoption-pathways-2026]] — مسارات تبني الذكاء الاصطناعي التوليدي (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — ثقافة الذكاء الاصطناعي للمعلّم عبر نظرية تحديد الذات
-- [[jin-glat-genai-literacy-assessment]] — GLAT: اختبار ثقافة الذكاء الاصطناعي التوليدي مُتحقَّق من صلاحيته بـ IRT
-- [[ai-lms-middle-school-longitudinal]] — دراسة طولية لنظام إدارة تعلّم مدمج مع الذكاء الاصطناعي
-- [[adaptive-pretesting-retention]] — الاختبار التمهيدي التكيّفي والاستبقاء
-- [[synthetic-educational-data-structural-fidelity-2026]] — ما تُغفله مقاييس الإخلاص: فحص بنيوي للبيانات التعليمية الاصطناعية
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — تجربة وصول عشوائية على مستوى المجموعة تحتاج فحصًا للاستخدام الفعلي
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — التحليل الببليومتري أسرة كمية أخرى: يرسم Sriram وآخرون شكل الأدبيات عبر البلدان والمؤسسات والكلمات المفتاحية
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — استخدام الذكاء الاصطناعي التوليدي والتفاعل التعليمي بين الأشخاص لدى طلاب التمريض: التعلّم ذاتي التنظيم وسيطًا إحصائيًا
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — وعي الاختلال التقني بالذكاء الاصطناعي، وعقلية التفكير التصميمي، وكفاءة الابتكار التصميمي لدى طلاب التصميم

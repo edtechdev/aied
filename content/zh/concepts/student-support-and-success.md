@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -110,59 +112,3 @@ AI 支持渠道所取代的东西，值得同样的核算。在四项研究中�
 **"结果阶梯会坍缩：参与就是留存。"** 每一级测量的是不同的东西：选择加入、回应、坚持、完成，而一个项目可以推动较低层级而让较高层级保持不变。把回应比例当作成功来报告，恰恰犯了这个替换错误。
 
 **"公平性关切是停止使用数据的理由。"** 它是谨慎依据分数行动的理由。依据一个预测因子行动可以分配支持，也可以分配怀疑，而风险集中于被模型判得最不利的学生，这使补救成为对使用的治理，而不是放弃测量。
-
-## 关联概念
-
-- [[higher-ed]] — 本页所处之上的行业伞形概念
-- [[student-experience]] — AI 如何落在学生自身的体验上
-- [[learning-gains]] — 学习是否发生，本页不度量的教学结果
-- [[learning-analytics]] — 预测、早期预警与预测性分析
-- [[student-modeling]] — 风险预测之下的建模层
-- [[knowledge-tracing]] — 细粒度的技能与掌握度估计
-- [[recommender-systems-and-learning-paths]] — 推荐课程、资源与学习路径
-- [[help-seeking]] — 学生如何开始求助
-- [[well-being]] — 校园心理健康、预防与干预
-- [[career-development-and-readiness]] — 完成之后的结果
-- [[administrator]] — 拥有并运行支持系统的角色
-- [[stakeholders]] — 对机构 AI 决策有主张的人
-- [[change-management]] — 试点之后维持项目
-- [[governance]] — 机构 AI 的政策与监督
-- [[educational-policy-ai]] — 机构部署的政策背景
-- [[equity-in-ai-education]] — 系统触达到谁、又错过了谁
-- [[privacy]] — 学生记录、数据共享与联邦方法
-- [[human-in-the-loop-ai]] — 自动化支持流程中的人判断
-- [[rct]] — 此处最强证据背后的设计
-
-## 关联文章
-
-- [[cefa-ai-learner-support-review-2026]] — 对 AI 赋能学习者支持的 61 项研究综述：自适应系统与预测占主导；过渡阶段与多元学习者缺席
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 对一所大学支持聊天机器人的四年随机评估：任务完成移动了，毕业与 GPA 没有
-- [[chatbot-outreach-course-performance-2026]] — 预注册的多学期外展试验：A/B 率更高、DFW 变化有限、存在一处人口统计例外
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 个合成情境：支持建议对学生需求敏感度有限且跨模型不一致
-- [[sc2r-counterfactual-recourse-educational-2026]] — 可行动性鸿沟：追索必须可行且可检验，而不只是模型上有效
-- [[fairness-theatre-early-warning-systems-2026]] — 在由 168,550 条记录构建的供应商早期预警系统上检验六种事后公平性干预
-- [[at-risk-students-ml-prediction]] — 识别退学前学生的有监督分类器
-- [[predicting-attrition-competitive-programming]] — 行为日志加心理画像问卷预测流失
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 不共享原始学生数据的跨机构联邦风险建模
-- [[precision-education-student-digital-twins-2026]] — 作为愿景的数字孪生与"预防性学生成功"
-- [[learning-analytics-to-educational-interventions-2026]] — 闭合从分析到干预回路的七个使能因素
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 以降低求助成本为目标的课程专属助手
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 与学习分开检验的辅导参与率
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 映射到推荐学习对象的六种行为画像
-- [[trace-course-grade-prediction-2026]] — 为规划进行的课程与成绩联合预测
-- [[zhang-ml-student-progress-programming-2026]] — 可解释的模块级进度预测
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 高等教育中 AI、领导力与服务交付的 155 项研究
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育领导力中 AI 的十域分类法
-- [[students-at-stake-ai-deployment-risks-2026]] — 学生侧风险面：招生与助学金、学生成功服务与教学
-- [[ai-campus-wellbeing-tools]] — 覆盖预防与干预的校园福祉支持
-
-- [[shastry-gray-empathy-offloading-2026]] — 关于共情卸载的四项研究：相信 AI 能提供情感支持，会降低人们自己提供的量（Shastry 与 Gray 2026）
-
-- [[coursegraph-cs-course-comparison-2026]] — 转学分与流动性中的课程等效性
-- [[credentials-carry-evidence-ai-agents-2026]] — 当智能体可以代做时，完成记录意味着什么
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 早期预测 AI 辅助作弊风险，以及低风险外展的阈值权衡
-
-- [[rienties-institutional-ai-assistant-co-design-2026]] — 对机构 AI 学习助手的五项共同设计研究：可用性优先，基于价值观的抵制居后
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 从提问到对话：探索工程教育中基于 AI 的虚拟助手的采用、可用性与影响
-

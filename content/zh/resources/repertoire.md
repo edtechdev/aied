@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -52,9 +53,3 @@ ai_assist:
 - **第三方推理。** 回复通过 Anthropic 的 Claude API 生成，以 OpenAI 的 API 作为备用，其商业条款按政策所述，截至 2026 年 9 月排除将 API 输入与输出用于训练。机构应通过自己的协议而非网页来确认这一点。
 - **它不是评分器。** 政策与条款都将助手的判断（如"目标已达成"）描述为对教师的辅助；评分与学术决策仍由教师与机构做出，而是否向学生[[ai-use-disclosure|披露 AI 使用]]的决定留给教师。
 - **托管于美国。** 数据存放在 Google Cloud Firestore，由 Vercel 托管；在服务处理教育记录之处，政策涵盖 FERPA 义务；美国境外的用户被告知，其数据在美国处理。
-
-## 关联概念
-
-- [[learning-design]] — 结构化的作业设计，是 AI 政策变得具体的落点。
-- [[guardrails]] — 参与门槛与限额的 AI 帮助，作为设计阶段的约束。
-- [[ai-use-disclosure]] — 由教师而非平台决定如何向学生声明 AI 的使用。

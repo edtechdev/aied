@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -92,38 +94,3 @@ Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, wa
 **„Den Graphen zu haben, verbessert die Lernergebnisse."** Der Algorithmus über dem Graphen verändert das Ergebnis. In G4L erzeugte die Propagierung von Mastery durch einen Evolving Knowledge Space Graph mit Bayesian knowledge propagation **+24 % gemessenes Wissen** (0,717 → 0,887), gegenüber **+5 %** für einen Vergleich auf Basis eines Knowledge Space. Dieselbe allgemeine Idee eines strukturierten Wissensraums, ein substanziell anderes Ergebnis je nach Propagationsmethode. Einen Graphen zu kaufen oder zu bauen ist der Beginn des Designproblems, nicht seine Lösung.
 
 **„Ein von einem LLM gebauter Graph, der ein strukturelles Audit besteht, ist ein validierter Graph."** Strukturelle Validität und instruktionale Validität fallen genau auf diese Weise auseinander. Das neu berechnete Audit eines solchen Graphen ergab, dass jeder Endpunkt auflösbar ist und kein Duplikat und kein Selbstlink übrig bleibt — eine saubere Struktur —, doch 1.448 seiner 1.455 Axiome bilden auf genau ein Werk ab, die werkübergreifende Wiederverwendung ist also spärlich, seine Kontexttaxonomie kann seine beiden Kontexttypen nicht trennen, und zentrale Behauptungen bleiben unbelegt. Tote Links und Duplikate sind die Fehler, die ein automatisiertes Audit erkennt; dünne Wiederverwendung und undifferenzierte Kategorien sind die, die es durchwinkt.
-
-## Verbundene Konzepte
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — Dachbegriff: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
-- [[recommender-systems-and-learning-paths]]
-
-## Verbundene Artikel
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Ein von Kurator:innen erstellter Graph von 1.455 literarischen Axiomen mit einem Struktur-Audit und ohne Provenienz-Datensatz (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontologiebasiertes geschichtetes hybrides Wissensmodell für personalisiertes E-Learning
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity-Graphen für lebenslanges Lernen
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative Entwurfsgerüste
-- [[quantum-education-its]] — Intelligentes Tutoring für Quantenbildung (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodale Wissensgraphen für Schlussfolgern in der Bildung
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: Vergleich von Informatikkursen
-- [[proprl-prerequisite-relation-learning]] — ProPrL: Lernen von Voraussetzungsbeziehungen
-- [[knowledge-gap-detection-ai-tas]] — Erkennung von Wissenslücken in KI-Lehrassistenten
-- [[visual-query-tracer-declarative-logic-learning]] — Visueller Query-Tracer für das Lernen deklarativer Logik
-- [[fair-explainable-edu-recommendations]] — Faire und erklärbare Empfehlungen in der Bildung
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybride CF–KG-Empfehlung über Domänen hinweg für multimodale Lehrressourcen
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-gestützte kognitive Diagnose
-- [[graph-its-adaptive-algorithms-2026]] — Graphenbasiertes Intelligentes Tutoring für dynamische Domänen (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Erzeugung von Lernumgebungen
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphgestützter Assistent und adaptives Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

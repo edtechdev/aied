@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -95,30 +97,3 @@ Mchoro mmoja unashikilia katika kila kiwango kilichochunguzwa: tabaka la binadam
 **"[[intelligent-tutoring|Mfunzi unaobadilika]] husaidia kila kiwango kwa usawa."** Ulinganisho unaotenganisha kigezo ni wa kuelimisha: matoleo mawili ya mfunzi yule yule wa hesabu ya darasa la pili, yenye maudhui, kiolesura, maoni na vidokezo vya mazungumzo vinavyofanana, yakitofautiana **tu katika iwapo uteuzi wa kazi ulifuata mfano wa Bayesian wa [[knowledge-tracing]]**. Uteuzi wa kazi unaobadilika ni uingiliaji unaojali kiwango, na faida yake inategemea iwapo wanafunzi katika kiwango hicho wanaweza kutenda juu ya ubadilikaji huo.
 
 **"Ushahidi uliokolezwa katika elimu ya juu hujumlishwa kuelekea chini."** Haufanyi hivyo, na usambazaji wa fasihi ni onyo badala ya urahisi. Mahali ushahidi ulipo mzito na mahali ulipo hafifu ni sifa ya uchumi wa utafiti, si ya mahali AI inatumika zaidi, kwa hivyo dai kuhusu K-12 linalotolewa kutoka sampuli za chuo kikuu ni uhamishaji kote ya mpaka unaohimu zaidi.
-
-## Dhana Zilizounganishwa
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Makala Zilizounganishwa
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Mafunzo yanayobadilika dhidi ya yasiyobadilika katika hesabu ya darasa la pili (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — Mawakala wa mazungumzo wa GenAI na kuuliza maswali na wanafunzi wa darasa la tatu katika sayansi ya msingi
-- [[chatgpt-music-education-junior-high-2026]] — Mitazamo ya wanafunzi wa shule ya kati kuelekea ChatGPT kwa kujifunza nyimbo (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — LMS iliyounganishwa na AI iliyobuniwa kwa shule ya kati, pamoja na utafiti wa muda mrefu uliopendekezwa
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza ya AI ya kizalishaji katika elimu ya sekondari ya China (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Aina nne za kutegemea LLM kati ya waandishi wa shahada ya kwanza (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Jukwaa la semina linalosaidiwa na AI lenye msaada wa mkutubi uliopachikwa kwa wanafunzi wa uhandisi
-- [[ai-mediated-research-agency-formation-2026]] — Utegemezi wa AI, uhuru na ubunifu katika mafunzo ya udaktari na baada ya udaktari (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Maoni ya washiriki kuhusu faragha ya data katika elimu ya juu ya Kiafrika (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Utayari wa kupitika kwa AI kwa wasimamizi wa elimu katika Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — PBL ya kuvizia inayoendeshwa na AI kwa wanafunzi wa ubuni wa ufundi (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Nia ya walimu wa shule ya awali kutumia AI katika mipangilio ya utotoni
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Mitazamo ya watoto kuelekea chatbot ya AI iliyoundwa kwa umri

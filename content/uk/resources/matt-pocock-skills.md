@@ -35,6 +35,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -46,6 +47,3 @@ translation_note: "Автоматичний переклад цієї англі
 ## Що варто знати перед засвоєнням
 
 Усе є [[open-source|відкритим кодом]] під ліцензією MIT і вільно для використання як відправна точка для локальної [[ai-literacy|ШІ-грамотності]] або [[self-directed-learning|самостійного навчання]]. Засвоєння є масовим і швидким: приблизно 270 000 зірок і 23 000 форків станом на вересень 2026 року, з найновішим комітом 18 вересня 2026 року. Застереження — це охоплення. Навички припускають [[human-ai-collaboration|інженерний]] робочий контекст, вони згруповані в групи інженерних, продуктивних, застарілих та незавершених навичок, тож деякі записи явно незакінчені або відкладені, а README водночас слугує формою підписки на розсилку. Розглядайте навички викладання та допитування як переносиму частину і будьте готові переписати будь-яку з них, перш ніж поставите її перед студентами.
-
-## Пов’язані поняття
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

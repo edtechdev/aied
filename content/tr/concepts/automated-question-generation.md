@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -88,54 +90,3 @@ AQG, [[adaptive-learning|uyarlamalı]] ve [[personalized-learning|kişiselleşti
 **“Soru üretimi pratiği doğal olarak kişiselleştirir.”** Arz üretir ve kişiselleştirme bir eşleştirme sorunudur. Daha çok madde üretmek, belirli bir öğrenenin sırada hangi maddeyi görmesi gerektiğini söylemez; uyarlamalı seçim sorusu kendi kanıtına sahip ayrı bir mekanizmadır.
 
 **“Üretim, değerlendirmenin neleri ölçtüğünü değiştirmeden ölçekler.”** Ölçülen şeyin bileşimini değiştirir, çünkü iyi üretilen maddeler iyi değerlendiren maddelerin temsili bir örneği değildir. Üretilmesi kolay biçimler, üretilmesi zor olanları giderek dışarı iter ve bu da yapıyı sessizce yeniden şekillendirir.
-
-## Bağlı kavramlar
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Bağlı makaleler
-
-- [[genai-medical-education-transformation-review-2026]] — Madde üretiminde YZ’ye karşı fakülte madde kalitesine ilişkin 153 tıp eğitimi raporunun kapsam derlemesi
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — IRT aracılığıyla YZ tarafından üretilen sınav kalitesinin ölçekli alan doğrulaması
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate soru üretimi
-- [[kt4eqg-personalized-question-generation]] — Bilgi izleme aracılığıyla kişiselleştirilmiş soru üretimi
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — İşitme Engelli ve Ağır İşitme Engelli öğrenenler için LLM destekli soru üretimi
-- [[llm-educational-question-cognitive-depth]] — LLM tarafından üretilen soruların bilişsel derinliği
-- [[slidesqaqa-pedagogical-question-generation]] — Slayt destesi soru-cevap pedagojik soru üretimi
-- [[code-gen]] — CODE-GEN: RAG tabanlı insan-devriginde soru üretimi
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles kıyaslaması
-- [[taklif-ai-interest-based-personalized-assignments]] — İlgi temelli kişiselleştirilmiş ödevler
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM tabanlı zorluk kalibrasyonu
-- [[self-referential-l2-writing-llm-assessment]] — Öz başvurulu analitik yazma değerlendirmesi
-- [[cross-dataset-bloom-question-classification]] — Çapraz veri kümesi Bloom soru sınıflandırması
-- [[llm-chatbots-cs-multiple-choice]] — LLM sohbot robotları ve BS çoktan seçmeli maddeleri
-- [[socratic-tests-conversational-assessment]] — Sokratik testler: konuşma tabanlı değerlendirme
-- [[llm-turing-test-italian-legal-exams-2026]] — Hukuk sınavlarında LLM Turing testi
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç tabanlı ML kullanarak madde zorluğunun tahmin edilmesi
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Süreç Tabanlı Matematik Maddesi Kalite Değerlendirmesi
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan-YZ Ortak Öğrenme Döngüsünde Öğrenenini Öğrenen Etken Bir Öğretmen
-- [[automated-constructive-assessment-hdr-llm-2026]] — Büyük Dil Modelleriyle Yapıcı Değerlendirmenin Otomasyonu: Pratik Yetkinliğin Ölçeklenebilir ve Yinelenen Değerlendirmesine Doğru
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Veri Bilimi Kurslarında Öğrencilerin LLM Kullanımı ve YZ Tarafından Üretilen Soru Zorluğunun Sınırları
-- [[bloom-classifier-ai-assisted-questions-2026]] — Yeni YZ destekli eğitim sorularının pedagojik değerlendirmesi için ön eğitimli modellerin değerlendirilmesi
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Öğrenciler notlandırılmış bir sınavda YZ tarafından üretilen çoktan seçmeli soruları lisans sınavı maddelerinden ayırt edemedi ve üretilen maddelerin %18,2’si incelemede elendi (Vogt vd. 2026)

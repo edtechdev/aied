@@ -29,6 +29,7 @@ ai_assist:
 translation_of: resources/campus-ai-development
 source_updated: "2026-10-24T05:15:17-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -68,9 +69,3 @@ conformità. Non è dichiarata alcuna licenza di riuso. I siti fratelli
 [campusdatagov.com](https://campusdatagov.com/) e [campusairegistry.com](https://campusairegistry.com/)
 portano le parti sulla governance dei dati e sul registro degli agenti, quindi è un buon ingresso al lavoro
 su [[educational-policy-ai]] ma non un suo sostituto.
-
-## Concetti collegati
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

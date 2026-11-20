@@ -24,6 +24,8 @@ pedagogy: [professional-training]
 ethics: [ethics, bias-mitigation, privacy, trust]
 institutions: [governance, educational-policy-ai, regulation]
 methods: [qualitative-research]
+connected_concepts: [ai-literacy, teacher-ai-competency, curriculum-design, medical-education, professional-training, governance, educational-policy-ai, regulation, ethics, bias-mitigation, privacy, trust, human-ai-collaboration, qualitative-research, higher-ed]
+connected_articles: [institutional-ai-policy-health-informatics-2026, chick-faculty-development-ethical-ai-2026, crompton-faculty-technology-integration-standards-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, virtual-standardized-patients-osce-evaluation-2026, ai-assisted-se-curriculum-syllabus-analysis-2026]
 ---
 
 > **Synthesis:** Bursic and colleagues interviewed twelve physicians who lead AI work in postgraduate [[medical-education|medical education]] across Canada and the United States, and report five barriers to putting [[ai-literacy|AI literacy]] into residency curricula: [[curriculum-design|curricula]] that cannot keep pace with the tools, thin [[teacher-ai-competency|faculty expertise]], institutional and regulatory [[governance|governance]] that has not caught up, no national competency standards, and cultural resistance tied to professional identity. Their recommendation is not more content but durable competencies — frameworks for appraising AI output, [[bias-mitigation|bias awareness]], and [[ethics|ethics]] — around which programs attach modular, locally available tool work. [[educational-development|Faculty development]] and co-learning with residents carry the load, because participants expected trainees to become more fluent than the educators. No curriculum or learner outcome was measured: this is a [[qualitative-research|qualitative]] account of expert perception from a small, self-selected sample that excluded residents.
@@ -68,34 +70,6 @@ The cultural theme is the least tractable. Participants described colleagues who
 - Residents and fellows were not interviewed, so trainee readiness, enthusiasm, and concern are reported second-hand.
 - The sample is Canadian and selected US contexts, which limits transferability to other regulatory and health-system settings.
 - Perceptions, not outcomes: no curriculum was implemented and no learning was measured.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[curriculum-design]]
-- [[medical-education]]
-- [[professional-training]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[privacy]]
-- [[trust]]
-- [[human-ai-collaboration]]
-- [[qualitative-research]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[institutional-ai-policy-health-informatics-2026]] — Institutional AI policy in health informatics
-- [[chick-faculty-development-ethical-ai-2026]] — Faculty development for ethical AI use
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty technology integration standards
-- [[sun-llm-nursing-education-professional-identity-2026]] — Professional identity and LLMs in nursing education
-- [[ai-teammate-task-distribution-medical-training-2026]] — Task distribution with an AI teammate in medical training
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Virtual standardized patients in OSCE evaluation
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI in software engineering syllabi
 
 ## Citation
 

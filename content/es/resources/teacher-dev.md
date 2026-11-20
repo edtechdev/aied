@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -48,6 +49,3 @@ Para docentes de K-12 que quieren una herramienta para un problema concreto sin 
 ## Notas y advertencias
 
 El ritmo es a la vez el argumento y el riesgo. Las construcciones de un día apuntan a un problema real del aula, no a una pregunta de investigación, así que nada de esto lleva una evaluación y cualquier afirmación sobre lo que hace una aplicación debería probarse en el aula. Treinta y dos repositorios públicos figuran en la organización de GitHub mientras la galería lista 34, todos con Apache-2.0 y código disponible, de modo que una aplicación puede leerse y alojarse por cuenta propia. El diseño local es una afirmación que hay que verificar aplicación por aplicación, y el docente debería confirmarlo antes de poner cualquier herramienta orientada al estudiantado delante de una clase.
-
-## Conceptos conectados
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -107,53 +109,3 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 
 - Ripoti ufafanuzi wa kiutendaji wa "kufaa" pamoja na ukubwa wowote wa athari unaoutaja, kwa sababu ufafanuzi wa fasihi unatofautiana na nambari zilizochanganywa zinarithi utata huo.
 - Tofautisha kigezo chako cha ustadi na matokeo ya kujifunza katika uthibitishaji wako mwenyewe. Ikiwa kipimo chako cha uthibitishaji ni ishara ile ile inayoongoza kubadilika, si ushahidi huru.
-
-## Dhana Zilizounganishwa
-
-- [[online-teaching-and-learning]] — Ufundishaji na Kujifunza Mtandaoni
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[behaviorism]]
-- [[ai-technologies]] — Kiolezo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, mawakala)
-- [[recommender-systems-and-learning-paths]]
-
-## Makala Zilizounganishwa
-- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Mfumo wa Ukadiriaji Unaojali Mwendo kwa Tathmini ya Kibinafsi
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupita kiasi kwa udanganyifu: ustadi unaokufaa unaweza kuacha mazoezi kabla ya wanafunzi kujua lini kuzuia hatua (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Ufundishaji wa AI si Moja: Tulicho Jua Kweli (hati fupi ya Stanford SCALE/NSSA)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[simon-student-engagement-adaptive-learning-2026]] — Mapitio ya kimfumo ya ushiriki wa wanafunzi katika mifumo ya kujifunza inayokufaa
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Ufundishaji wa mtandao na CAL: jaribio la kupitishwa na kujifunza
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Kufanya ufundishaji wa AI kuwa na tija: mazoezi ya hisabati kulingana na ustadi
-- [[chudziak-ai-math-tutoring-platform]] — Ufundishaji wa hisabati unaokufaa/kubinafsika wa mawakala wengi (Chudziak & Kostka 2025)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Kufafanua upya kujifunza kwa kibinafsi: mapitio ya kimfumo
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[adaptive-pretesting-retention]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]] — AI mahususi ya ufundishaji yaliyosawazishwa na utayari wa mwanafunzi dhidi ya chatbot za jumla
-- [[context-based-ai-secondary-chemistry-2026]] — Mafunzo ya 7E yanayotegemea muktadha + AI katika kemia ya sekondari
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programu ya STEM inayotegemea AI inayokufaa kwa kujifunza kwa kina
-- [[graph-its-adaptive-algorithms-2026]] — Ufundishaji wenye Akili Unaotegemea Grafu kwa Nyanja Zinazobadilika (2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Uchunguzi wa akili wa Bayesian kwa njia za kujifunza za kibinafsi
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada za ICAP zinazokufaa katika ITS (BKT dhidi ya DRL)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Uchanganuzi wa meta unaochanganya zana za kufaa + za AI katika RCT 14
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapitio ya kimfumo: njia za kufaa miongoni mwa matumizi yanayoongoza ya muunganisho wa AI katika elimu ya juu
-- [[an-goel-self-directed-modeling-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Mpangilio wa matatizo unaokufaa unashinda mpangilio uliowekwa: +0.156 SD kwenye mtihani bila msaada, uliopatanishwa na ushiriki badala ya ugumu (Chung et al. 2026)
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu Mwakala Anayejifunza Mwanafunzi wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu–AI
-- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Matumizi ya mikakati hutawaliwa na hali (ICC ya wastani 0.14), hivyo wasifu tuli wa mwanafunzi hupoteza sehemu kubwa ya ishara

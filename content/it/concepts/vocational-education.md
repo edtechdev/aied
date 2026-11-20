@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -61,9 +63,7 @@ Ciò che è distintivo dell'IA nella VET è un divario tra ciò che il settore d
 
 - **Accelerare la produzione [[curriculum-design|curriculare]] senza cedere la verifica.** [[crewscaler-ai-upskilling-framework]] applica l'IA attraverso tutte e cinque le fasi dell'upskilling professionale — acquisizione di conoscenza, sviluppo di contenuti, revisione e verifica, [[intelligent-tutoring|tutoraggio]] e sviluppo della valutazione — mantenendo la progettazione del blueprint, la revisione disciplinare e l'autoring dei [[misconceptions|misconcepiti]] con gli umani. La sua validazione esterna include l'accreditamento NASBA CPE, tre discenti su tre che hanno superato un esame di certificazione NVIDIA usando solo la knowledge base del framework, e una banca di 530 domande taggata su un blueprint di 53 competenze. Appartiene a questa pagina perché tratta la verifica come una fase di prima classe: il rilevamento delle [[hallucination-risk|allucinazioni]] è largamente assente dalle pipeline educative, e l'articolo riporta che il tutoraggio LLM predefinito raggiunge solo il 52-70% di azioni pedagogiche corrette.
 
-
 - **Il supporto percepito è una leva istituzionale, non un deficit dello studente.** Tra 784 studenti di sei istituti superiori professionali cinesi, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] hanno trovato che il legame dell'[[ai-literacy|alfabetizzazione all'IA]] con la [[problem-solving|risoluzione di problemi complessi]] auto-riportata (totale 0,480) si rafforzava con il supporto ICT percepito della scuola: gli effetti indiretti condizionali salivano da 0,117 a 0,176 e da 0,038 a 0,127.
-
 
 - **Il rinnovo curriculare come obbligo continuo, non come revisione periodica.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifica cinque dimensioni di rinnovo che interagiscono — trasformazione occupazionale, attualità del curricolo, allineamento delle capacità del corpo docente, architettura del programma e allineamento esterno — e sei test di leadership per decidere se un corso vada mantenuto, revisionato, integrato, sostituito o ritirato.
 
@@ -93,32 +93,3 @@ Ciò che è distintivo dell'IA nella VET è un divario tra ciò che il settore d
 **Per i ricercatori**
 
 - Ambientate almeno alcuni studi nei luoghi di lavoro. Un settore definito dall'apprendimento basato sul lavoro la cui base di evidenze non contiene studi nei luoghi di lavoro non ha ancora messo alla prova la propria affermazione centrale.
-
-## Concetti collegati
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Articoli collegati
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Rinnovo adattivo del curricolo CTE, cinque dimensioni e sei test di leadership
-- [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET
-- [[ai-pedagogical-accompaniment-amico]] — Amico dual-mode prototype: design principles and observable indicators
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-assisted autonomous learning and reduced accomplishment, mediated by hardiness
-- [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
-- [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
-
-
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Il supporto ICT percepito come leva istituzionale nei college professionali
-

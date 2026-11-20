@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -62,33 +64,3 @@ Pembelajaran terwujud terhubung dengan [[educational-robotics]], [[educational-r
 - **"Tubuhlah yang membuat pembelajaran terwujud berhasil."** Meta-analisis atas **11 studi RALL (N = 595, g = 0.83, I² = 84.4%)** menemukan bahwa **morfologi robot, modalitas, otonomi, dan peran sosial tidak memoderasi** hasil [[language-learning|pembelajaran bahasa]] kedua. Fitur perwujudan bukan bahan aktifnya, dan heterogenitas cukup tinggi (I² = 84.4%) sehingga efek gabungan menggambarkan kumpulan intervensi yang sangat beragam.
 - **"Efek besar menyelesaikan soal mekanisme."** g = 0.83 dengan 595 peserta pada 11 studi adalah sinyal nyata dan tidak mengidentifikasi apa yang menghasilkannya. Karena fitur desain tidak memoderasi efek, mekanisme yang masuk akal terletak pada aktivitas pedagogis, bukan pada perangkat keras — dan itu mengubah apa yang perlu diinvestasikan.
 - **"Perwujudan tidak dapat diukur, jadi tetap teoretis."** Pelacakan tubuh dapat mengubah regulasi menjadi **sinyal terukur**: dalam simulasi fotosintesis realitas campuran ketika tag gerak memindahkan agen siswa melintasi model yang diproyeksikan, pipeline LLM memberi label pada **470 segmen** perilaku regulasi. Konstruknya dapat dioperasionalkan meski sulit didefinisikan.
-
-## Konsep terkait
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — modalitas yang mencoba memanfaatkan perwujudan secara langsung
-
-## Artikel terkait
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulasi fotosintesis dengan pelacakan gerak yang dianalisis pipeline LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Kerangka multimodal untuk kognisi terwujud dalam penjelasan lisan
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Menumbuhkan pembelajaran berkelanjutan melalui kecerdasan terwujud (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper dan bahasa isyarat
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integrasi robot–LLM dalam penulisan kreatif
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analisis pembelajaran bahasa berbantuan robot terwujud yang diperkaya AI
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI sebagai fasilitator setelah model dibangun dengan tangan: AI berbasis bahasa tidak dapat mengikuti inkuiri terwujud (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — AI dalam pembelajaran terwujud sebagian besar mengamati: peran penginderaan 62.5% dari tag peran yang dikode, dan tak satu pun sistem yang ditinjau memadukan aliran multimodal saat pembelajar memakainya (Kim & Han 2026)

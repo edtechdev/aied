@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -67,35 +69,3 @@ Pendidikan biologi berada dalam domain [[stem-education]] yang lebih luas dan be
 - **"Siswa tidak dapat membedakan AI dari asisten pengajar manusia."** Sebuah studi asisten pengajar laboratorium virtual menemukan **asisten manusia lebih akurat dan efektif daripada ChatGPT**, namun siswa **lebih menyukai respons AI pada 40% kesempatan** dan hanya dapat **mendeteksi keluaran AI pada 45% kesempatan**. Deteksi mendekati lemparan koin dan preferensi mengarah ke sumber yang kurang akurat, sehingga data kepuasan tidak dapat menggantikan kualitas di sini.
 - **"Preferensi menunjukkan kualitas."** Studi yang sama memisahkan keduanya secara langsung: keluaran yang disukai adalah yang lebih buruk. Evaluasi apa pun atas alat AI biologi yang melaporkan kepuasan siswa tanpa ukuran akurasi melaporkan kuantitas yang salah.
 - **"Literasi AI harus diajarkan sebagai mata pelajaran terpisah."** Menanamkan konsep pembelajaran mesin **ke dalam mata pelajaran biologi SMA** menemukan konteks biologi **mendukung** pembelajaran AI — bukti untuk menanamkan literasi AI dalam kurikulum alih-alih menempelkan unit berdiri sendiri. Disiplin itu memberi konsep-konsep tersebut sesuatu untuk dilekati.
-
-## Konsep terkait
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Artikel terkait
-- [[llm-open-ended-questions-biology-statistics-2026]] — Mengevaluasi Kinerja Large Language Model pada Pertanyaan Terbuka: Kemampuan Menjawab dan Menilai
-- [[biology-degree-integrity-genai-cheating-2026]] — Bisakah siswa menyontek untuk meraih gelar biologi? Studi kasus kerentanan nilai mata kuliah biologi terhadap ketidakjujuran akademik di era AI generatif
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT sebagai asisten pengajar laboratorium virtual
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Tinjauan alat AI dalam pendidikan biologi
-- [[critical-thinking-biological-sciences-ai-2025]] — Berpikir kritis dalam ilmu biologi dan AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT dalam mata kuliah biologi/matematika berbasis tantangan
-- [[zha-ai-literacy-biology-case-study]] — Pendidikan literasi AI dalam kelas biologi
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Meningkatkan keterampilan argumentasi selaras PISA calon guru biologi melalui kecerdasan buatan generatif

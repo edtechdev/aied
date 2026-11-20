@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -102,37 +104,3 @@ ai_assist:
 **"禁用一款工具就能消除那种行为。"** 它把行为迁移到你看不见的工具上。学生本就偏好私下获取的工具而非机构提供的工具，因此一项禁令把使用推出了唯一可能提供支持、记录或引导的环境。框架的任务是让被允许的行为成为有吸引力的那一个，而不是让被禁止的行为更难被观察到。
 
 **"框架就是说服，因此它更多是修辞而非设计。"** 本页所描述的框架是与设计配对的：期望被清晰而反复地陈述，*同时围绕学生来设计*。以传达替代设计的那个版本才会失败，因为学生能读出一种声明的承诺与一种实际的承诺之间的差别。
-
-## 关联概念
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## 关联文章
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 一份 30 位专家的共识，关于顺序：不用 GenAI 获取，用它巩固，然后自己思考
-- [[mccorkle-aligned-genai-course-policy-2025]] — 逐任务地、对每项允许与不允许的 GenAI 使用给出透明理由（McCorkle 2025）
-- [[moral-panic-genai-classroom]] — 鼓励恰当使用 GenAI，而非把它当作干扰来谴责
-- [[student-rationalization-ai-writing]] — 学生在学术写作中合理化 AI 使用的"五个场所"
-- [[student-regulatory-awareness-genai]] — 知道规则不够：监管认知与实际使用
-- [[ai-anxiety-strategic-regulation-writing-2026]] — 从 AI 焦虑到策略性监管
-- [[chatgpt-inoculation-training-verification-2026]] — 接种信息与核验行为
-- [[ai-fallibility-warning-help-seeking]] — 警告 AI 易错性提高求助行为
-- [[shame-guilt-ai-regulation-computing-education]] — 羞耻与内疚作为 AI 使用的社会调节者
-- [[access-not-enough-ai-tutoring-2026]] — 人工支持改善 AI 辅导的参与
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 基于 SDT 的 GenAI 参与
-- [[ai-availability-student-motivation]] — AI 可得性如何塑造学生动机
-- [[youtube-frames-chatgpt-education]] — YouTube 如何框定教育中的 ChatGPT 使用
-- [[ai-ethics-education-public-discourse]] — 关于教育中 AI 伦理的公共话语
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 教师把 AI 框定为批判/负责任的使用；雇主把它框定为生产力
-- [[ssaho-ai-academic-integrity-review-2025]] — 经由清晰期望建立学术诚信文化

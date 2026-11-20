@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -100,43 +102,3 @@ PersonaPath דוחף את שאלת הסדרה הלאה באמצעות עימות
 **"נתונים דלילים הם מטרד טכני."** ברמות הדלילות שבספרות הזו (0.9981) המערכת רואה כמעט כלום, מה שהופך התחלה קרה והטיית פופולריות למבניות ולא לניתנות-לתיקון על ידי כיוונון. ממליץ שאומן על האות הזה יציף באופן שיטתי את מה שכבר פופולרי, והלומדים השקטים או הבלתי-שגרתיים הם אלה שהוא אינו מצליח לראות.
 
 **"יכולת הסבר היא תכונת דיווח."** השאלה אם מורה או לומד יכולים לבקר המלצה היא תנאי לגיטימיות: מסלול שלומד אינו יכול לבחון הוא מסלול שאינו יכול לערער עליו, וזו בעיית ממשל לפני שהיא בעיית ממשק.
-
-## מושגים מחוברים
-
-- [[knowledge-graph]] — ייצוגים מובנים של מושגים, משאבים ויחסי קדם-דרישה
-- [[explainable-ai]] — הסבר כתכונת עיצוב המתווכת בין מובנות ואמון
-- [[curriculum-design]] — החלטות סדרה שמערכות המלצה מדגמות, מסקות ומשחזרות
-- [[learning-design]] — רצף הפעילויות המתוכנן שעליו פועלות ניתוחי המסלול
-- [[learning-analytics]] — הנתונים והשיטות שמאחורי ההמלצה, והמטרה של הביקורת
-- [[cognitive-diagnosis]] — אבחון מצבי ידע הזורעים מסלולי תיקון
-- [[knowledge-tracing]] — מידול שליטה לאורך זמן כדי להחליט מה הלומד מוכן לו
-- [[student-modeling]] — ייצוגי לומד שההמלצה צורכת
-- [[personalized-learning]] — המטרה הרחבה יותר; עמוד זה מכסה את החלטת הבחירה
-- [[adaptive-learning]] — מנגנון ההתאמה בזמן אמת; עמוד זה מכסה דירוג וסדרה
-- [[intelligent-tutoring]] — הפלטפורמה הפועלת על המלצות בדיאלוג
-- [[bias-mitigation]] — התערבויות הוגנות בדירוג ובחשיפה
-- [[equity-in-ai-education]] — הבדלים ברמת-הקבוצה באיכות ההמלצה
-- [[human-in-the-loop-ai]] — פיקוח על ניווט משאבים אוטומטי
-- [[self-directed-learning]] — מסלולים המנוהלים על ידי הלומד וניווט לכל החיים
-- [[lifelong-learning]] — למידה מוגרף-מבנה מעבר לרצף התואר
-- [[trust-calibration]] — התאמת ההסתמכות לאמינות ההמלצה
-- [[student-support-and-success]] — המלצה על תמיכה, משאבים ומסלולים אקדמיים
-
-## מאמרים מחוברים
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — סינון שיתופי היברידי בתוספת גרף ידע למשאבי הוראה רב-מודאליים, עם מיזוג מודע-יכולת והתקדמות (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — גרף ידע הטרוגני + מערכת המלצה GRU עם הוגנות GroupDRO ויכולת הסבר נגדית-לעובדה (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — הסברים מונעי-תחום בונים יותר אמון מורים מתרשימי חשיבות-משתנים (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — למידת יחסי קדם-דרישה עם אילוץ בלתי-הפיכות לעקביות כיוונית (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — המלצה על תרגול תכנות לפי דמיון רכיבי ידע מבוססי-דפוס (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — ניתוח מרקוב וכריית-דפוסים של 29,064 פעילויות מעוצבות ב-554 קורסים (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — אבחון DINA בייסיאני ומסלולי תיקון הקצרים ביותר, המתווכים בעומס קוגניטיבי (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — מיפוי שאלות של עוזר הוראה מבוסס-בינה מלאכותית לגרף קדם-דרישה שחולץ ב-GPT-4 כדי למצוא פערים ברמת-תוכנית הלימודים (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — גרפי למידנות כאלטרנטיבה ללמידה לכל החיים לתוכניות לימודים קבועות (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — טקסונומיית חמש רמות המראה שרוב האינטראקציה בין אדם לבינה מלאכותית היא ייעוץ, לא שיתוף פעולה (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — תמיכה באוטונומיה לעומת לחץ חוזים מסלולי בינה מלאכותית קונסטרוקטיביים או כפייתיים (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — סקירת PRISMA של מגמות למידה מותאמת, מסלולים ומודלי המלצה (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: מאגן תכנון ממוקד-ידע שמראה שמודלים לשוניים מגיעים ל-90.9% תוקף אך רק ל-44.3% אדפטיביות (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — המלצה על תרגילים כהחלטה סדרתית על עוקב מעוגן-סמנטית
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — הקבצה התנהגותית של 14,003 רשומות לשישה פרופילים, הממופים לאובייקטי למידה עם מסגרת המלצה וסתנוט-מגוון (Najem et al. 2026)
-

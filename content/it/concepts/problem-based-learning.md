@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -66,9 +68,7 @@ La meta-analisi a tre livelli che aggrega il PBL supportato dalla GenAI con l'ap
 
 Il PBL è strettamente correlato al [[project-based-learning|project-based learning]] — entrambi sono centrati sullo studente e guidati dal problema/dal contesto — ma il PBL si incentra su un *problema* mal strutturato la cui soluzione richiede indagine e costruzione di conoscenza, mentre il project-based learning si incentra sulla produzione di un *manufatto* o progetto tangibile. Il PBL è inoltre parente del case-based e dell'[[inquiry-based-learning|inquiry-based learning]], che condividono la struttura guidata dal problema e guidata dalla facilitazione. Nella mappatura della knowledge base, l'argomentazione strutturale per l'integrazione produttiva dell'IA si applica a qualsiasi pedagogia che condivida queste caratteristiche, non solo al PBL.
 
-
 [[case-based-learning|L'apprendimento basato su casi]] è il vicino più prossimo: parte da un caso preparato e da un obiettivo didattico definito, mentre il PBL lascia il problema più aperto e l'indagine guidata dallo studente.
-
 
 ## Perché il PBL conta per l'integrazione dell'IA
 
@@ -83,44 +83,3 @@ Il [[productive-failure|fallimento produttivo (PF, productive failure)]] condivi
 - **"Gli esiti del PBL dovrebbero essere aggregati con quelli dell'apprendimento basato su progetti."** La meta-analisi a tre livelli tiene **la performance di prodotto e soluzione in un modello separato** proprio perché misura la **collaborazione uomo–IA** anziché il ragionamento dello studente stesso. Fonderli attribuirebbe allo studente un manufatto prodotto congiuntamente.
 - **"I guadagni collaborativi sono un effetto collaterale dell'uso dell'IA."** Uno studio ha trovato una più alta percezione di risoluzione collaborativa dei problemi (**M = 3,62 vs 3,05, d = 0,88**) e di risoluzione condivisa dei problemi (**3,40, d = 1,02**), con **gli effetti di interazione più grandi sulla costruzione condivisa della conoscenza e sulla regolazione sociale** — le dimensioni del processo collaborativo che il design predice. Il meccanismo è la collaborazione strutturata, non lo strumento.
 - **"Il PBL con l'IA fa soprattutto risparmiare tempo al facilitatore."** I guadagni misurabili stanno nella qualità del processo su dimensioni che esistono solo quando la struttura di gruppo è progettata per esse. Un'implementazione PBL che aggiunge IA senza strutturare la costruzione condivisa della conoscenza non dovrebbe aspettarsi lo stesso effetto.
-
-## Concetti collegati
-
-- [[project-based-learning]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — Productive Failure
-
-- [[case-based-learning]] — Casi preparati e discussione dei casi, distinti dall'indagine aperta del PBL
-
-
-## Articoli collegati
-
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

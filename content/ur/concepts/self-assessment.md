@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,7 +80,6 @@ AI اِس تکنیک کے بارے میں تین چیزیں بدلتا ہے۔ ی
 
 پیمائشی چہرہ تشخیصی ڈیزائن میں بھی ظاہر ہوتا ہے، جہاں خود جانچ آلات بطور نتیجہ پیمانے استعمال ہوتے ہیں۔ [[higher-ed|اعلیٰ تعلیم]] میں پیچیدہ رپورٹس کی AI سے معاون جانچ کے ایک مطالعے نے سیکھنے کا جائزہ واضح طور پر تصدیق شدہ فیڈبیک خواندگی اور خود جانچ آلات کے ساتھ لیا، ساتھ میں بعد کی کارکردگی اور کنٹرول گروپ سے موازنہ۔ یہ اُس وقت قابلِ دفاع ہے جب آلہ کسی ایسے عقیدے کی پیمائش کرے جس کے بارے میں مطالعہ واقعی ہے، جیسے [[self-efficacy]] یا سمجھی جانے والی اہلیت، اور گمراہ کن ہے جب اُسے حصول کا نعم البدل سمجھا جائے۔ [[ai-ed-evaluation|AI مداخلت کے مطالعات]] کی بار بار تنقید یہاں پوری قوت سے لاگو ہوتی ہے۔
 
-
 کام کے بعد سوالناموں اور ٹاسک کے مخصوص [[self-efficacy]] کے ذریعے ایجنسی ناپنا دائری استدلال کا خطرہ رکھتا ہے: سیکھنے والے کا اندازہ اُس صلاحیت کے ثبوت کے طور پر واپس پڑھا جاتا ہے جس کی نشاندہی وہ کرنے کے لیے ہے، اور متبادل وہ متحرک تجزیات ہیں جو یہ دیکھیں کہ خود جانچ کو یکے بعد دیگرے چکروں میں کیسے استعمال کیا جاتا ہے ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]])۔
 
 ## جنریٹیو AI کیا بدلتا ہے
@@ -107,33 +108,3 @@ AI اِس تکنیک کے بارے میں تین چیزیں بدلتا ہے۔ ی
 **"AI [[feedback|فیڈبیک]] لوپ شامل کرنا خود جانچ کو خود بخود بہتر کرتا ہے۔"** فیڈبیک لوپ بدلتا ہے کہ طالب علم کس چیز سے موازنہ کرتا ہے، جو انشانکن بہتر بھی کر سکتا ہے اور اُسے نظام کے فیصلے سے باندھ بھی سکتا ہے۔ یہاں کا تقابلی مطالعہ (**118 پہلے سال کے انڈرگریجویٹس، 56 GenAI گروپ میں اور 62 ہم مرتبہ گروپ میں**، ایک سمسٹر میں تین چکر) بالکل اِسی جانچ کے لیے ڈیزائن کیا گیا تھا کہ کام لوپ کرتا ہے یا سماجی موازنہ — اور جواب یہ نہیں کہ "لوپ، لوپ ہونے کی وجہ سے"۔
 
 **"خود جانچ امتحان کا نرم تر متبادل ہے۔"** یہ مختلف ہدف ہے۔ خود جانچ اپنے کام کے فیصلے کی ضابطگی مہارت پروان چڑھاتی ہے؛ امتحان اُس قابلیت کی پیمائش کرتا ہے جس کا فیصلہ کیا جا رہا ہے۔ جو تحقیق ایک کو دوسرے کا متبادل بناتی ہے وہ کارکردگی جانچنے کی صلاحیت کو خود کارکردگی سے ملا دیتی ہے۔
-
-## منسلک تصورات
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[reflection]]
-
-## منسلک مضامین
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — خود جانچ کو خود ہدایت یافتہ نشوونما کے فریم ورک کے مرکز میں رکھا گیا (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — نشوونما کے لحاظ سے درجہ بند AI خواندگی مواد، قبولیت اور اعتبار کی پیمائش کے ساتھ (2026)
-- [[chatgpt-critical-creative-thinking-review]] — AI فیڈبیک کو ہم مرتبہ، مدرس اور خود جانچ کے ساتھ تکونی بنانا (2026)
-- [[yasir-llm-tutoring-agents-2026]] — فیڈبیک کو ماڈل کی خود جانچی استدلالی درستگی پر کیوں نہیں ٹکنا چاہیے (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — درجات 4 سے 6 کے لیے تصدیق شدہ 15 آئٹم AI خواندگی خود جانچ سوالنامہ، بچوں کی خود رپورٹ کی میٹا کوگنیشن حدود کے ساتھ (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 میں سے 31 اساتذہ کی AI خواندگی کے آلات خود رپورٹ ہیں، دو علم کو معروضی طور پر جانچتے ہیں، کوئی کارکردگی کے ٹاسک استعمال نہیں کرتا (Zainal, Mohd Matore & Maat 2026)

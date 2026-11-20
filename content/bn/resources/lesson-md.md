@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -36,7 +37,3 @@ ai_assist:
 
 ## এটি কাদের জন্য
 ইনস্ট্রাকশনাল ডিজাইনার ও কোর্স-নির্মাতা, যাঁরা চান তাঁদের বিষয়বস্তু একটি সরঞ্জাম-পরিবর্তনেও টিকে থাকুক; ই-লার্নিং বিক্রেতা, যাঁরা এমন একটি আমদানি-রপ্তানি ফরম্যাট চান যা তাঁদের ব্যবহারকারীরা ইতিমধ্যে বোঝেন; এবং যাঁরা একটি পাঠযোগ্য ফরম্যাটের উপরে এআই-সহায়তায় লেখালেখি বানাচ্ছেন। অবদানকারীদের মধ্যে আছেন LXD Integral-এর Dan Bashaw, আর ফরম্যাটটির v1.8 পর্যন্ত একটি প্রকাশ্য চেঞ্জলগ আছে।
-
-## সংযুক্ত ধারণা
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

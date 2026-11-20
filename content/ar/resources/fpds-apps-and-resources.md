@@ -44,6 +44,7 @@ translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-11-13T08:48:20-05:00"
 updated: "2026-11-16T19:19:07-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -61,6 +62,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحفّظات
 
 قراءة الموقع لا تحتاج حسابًا، ودورات Canvas وقوائم التحقّق التي يربط إليها عامة. أما مدرّبو Playlab وGemini Gems والمفكرات فهي خدمات طرف ثالث تحتاج حسابًا. وتُعرض البطاقات من `apps.json`، لذا تحتاج القائمة الكاملة إلى JavaScript ويسمّي البديل بلا سكربت ثمانيًا من الخمس عشرة؛ ويفتحها الرابط القصير `tinyurl.com/fpdapps` ورمز QR في الترويسة على الهاتف. والمستودع مرخّص بـMIT كبرمجية، بينما تحمل الأدلة التي يربط إليها تراخيصها الخاصة، وكتاب Pressbooks من بينها برخصة المشاع الإبداعي غير التجارية. ولا يوجد جدول نشر، فتتغيّر الصفحة دون إشعار.
-
-## المفاهيم المرتبطة
-[[academic-integrity]]، [[learning-design]]، [[generative-ai]]، [[accessibility]]، [[educational-development]]، [[online-teaching-and-learning]]، [[ai-literacy]]

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -93,34 +95,3 @@ Bagi pendidikan hal ini memotong dua arah. Kurikulum yang menggunakan AI untuk m
 - **"Senyum berarti kehangatan."** Dalam pertemuan klinis yang menyedihkan, pengamat membaca senyum sebagai ketidaksesuaian, dan detektor aksi wajah membacanya sebagai afek positif. Konteks adalah variabel yang hilang.
 - **"Skala laporan diri mengukur empati."** Skala itu mengukur disposisi atau konsep diri; skala itu tidak mengukur perilaku dalam suatu pertemuan.
 - **"Semakin imersif selalu lebih baik."** Metode imersif menunjukkan kenaikan lebih besar, tetapi dengan biaya dan durasi beberapa kali lipat, dan perbandingannya tidak menyetarakan paparan.
-
-## Konsep terkait
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## Artikel terkait
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Bermain peran 13,2%, VR 11,6%, dialog AI 8,8% pada IRI, dengan waktu paparan tercampur (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — Deteksi kontak fisik sepakat dengan pengamat; deteksi senyum negatif (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Kompetensi yang dinilai sendiri naik d = 0,58 setelah 13 pertukaran, tanpa kelompok kontrol (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 studi; kenaikan kepercayaan diri umum, bukti empati terbatas (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA dan citra generatif sebagai saluran gairah, dengan empati diklaim alih-alih diukur (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — Keyakinan pada kapasitas empatik AI memprediksi berkurangnya kesediaan memberi dukungan (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — Skala disposisi 42 butir yang struktur faktornya tidak cocok dengan desainnya (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — Bahasa empatik menaikkan rasa dipahami, yang memprediksi keterlibatan alih-alih perubahan perilaku (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — Peran dan gerakan yang ditentukan prompt menghasilkan perbedaan besar dalam empati yang dipersepsikan (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Mahasiswa keperawatan menggambarkan AI sebagai dukungan emosional selama stres klinis (Akbaba et al., 2026)

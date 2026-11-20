@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -52,9 +53,3 @@ Instructori din învățământul superior care vor ca [[learning-design|designu
 - **Inferență terță.** Răspunsurile sunt generate prin API-ul Claude al Anthropic, cu API-ul OpenAI ca rezervă, în condiții comerciale care, potrivit politicii, exclud antrenarea pe intrările și ieșirile API începând cu September 2026. O instituție ar trebui să confirme acest lucru prin propriul acord, nu printr-o pagină web.
 - **Nu este un evaluator.** Politica și termenii descriu ambele judecățile asistentului, precum „obiectiv îndeplinit", ca ajutoare pentru instructor; notele și deciziile academice rămân la instructor și instituție, iar deciziile despre [[ai-use-disclosure|divulgarea utilizării AI]] către studenți sunt lăsate instructorului.
 - **Găzduit în SUA.** Datele stau în Google Cloud Firestore cu găzduire Vercel, iar politica abordează obligațiile FERPA acolo unde serviciul gestionează înregistrări educaționale; utilizatorii din afara Statelor Unite sunt informați că datele lor sunt procesate acolo.
-
-## Concepte conexe
-
-- [[learning-design]] — proiectarea structurată a sarcinilor ca punct în care politica AI devine concretă.
-- [[guardrails]] — bariere de implicare și ajutor AI limitat ca constrângeri în faza de proiectare.
-- [[ai-use-disclosure]] — instructorul, nu platforma, decide cum este declarată utilizarea AI către studenți.

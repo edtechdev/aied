@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -70,39 +72,3 @@ ai_assist:
 **"التفكير التصميمي عملية تُؤتمت مرحلةً مرحلة."** إنه انضباط تأطير المشكلات وإعادة تأطيرها، وهو ما يقطعه التثبيت. فتأتمت المراحل مع ترك الإطار دون فحص يُنتج مخرَجًا كفؤًا لمشكلة خاطئة.
 
 **"وكلاء الذكاء الاصطناعي الذين يوافقون [[student-support-and-success|الطالب]] يدعمون استدلاله التصميمي."** الاستخدام المثمر الموثّق هنا يسير في الاتجاه المعاكس: [[ai-agents-constructive-conflict-design-education-2026|الصراعات البنّاءة مع وكلاء الذكاء الاصطناعي]] تختبر تحفيزًا خصوميًا يفرض إعادة النظر. فالوكيل المُوافق يعزّز التثبيت؛ والوكيل الموجّه نحو الاختلاف هو التصميم الذي يقوم خلفه ادعاء تعليمي.
-
-## المفاهيم المرتبطة
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## المقالات المرتبطة
-
-- [[genai-architecture-education]] — Gen-AI-tecture: استخدام الذكاء الاصطناعي التوليدي لدعم طلاب العمارة في مهام التصميم
-- [[genai-architectural-design-studios]] — تطوير تطبيقات الذكاء الاصطناعي التوليدي في استوديوهات التصميم المعماري
-- [[social-robot-study-companions]] — الإبداع المشترك لرفاق دراسة روبوتيين اجتماعيين قابلين للبناء ومفتوحين مع طلاب جامعيين
-- [[gaide-vibe-coding-k12-teachers]] — إطار موجّه لمعلّمي K-12 في إنشاء تقنيات تعلّم مدعومة بالذكاء الاصطناعي عبر البرمجة الحدسية
-- [[dot-framework-survey-2026]] — مسح إطار DOT: اعتقادات الممارسين وسلوكياتهم في التعليم المعزّز بالذكاء الاصطناعي
-- [[ai-agents-constructive-conflict-design-education-2026]] — تفعيل الصراعات البنّاءة مع وكلاء الذكاء الاصطناعي لتعزيز إعادة النظر بين مصمّمي التفاعل المبتدئين
-- [[genai-usage-design-students-survey]] — دراسة لاستخدام طلاب التصميم للذكاء الاصطناعي التوليدي: تحليل نتائج المسح ويوميات ممارسات الذكاء الاصطناعي في Politecnico di Milano في 2025/2026
-- [[design-thinking-aigc-fashion-film-2026]] — خمسة أبعاد لعقلية التفكير التصميمي لدى 409 طلاب فيلم أزياء يستخدمون الذكاء الاصطناعي التوليدي؛ السنة الثالثة أعلى في الأبعاد الخمسة

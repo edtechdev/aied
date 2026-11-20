@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -44,7 +45,3 @@ Namijenjena je nastavnicima K-12 i stručnjacima koji ih osposobljavaju, sa sklo
 ## Napomene i upozorenja
 
 Sadržaj je licenciran CC BY-NC 4.0, a temeljni kod MIT: razredna upotreba, lokalno hostanje i prilagodba dopušteni su uz navođenje izvora, dok prodaja materijala ili njihovo uključivanje u plaćeno osposobljavanje zahtijeva pisano dopuštenje TCEA-e. Radovi drugih osoba izuzeti su iz licencije, a književne aktivnosti ne reproduciraju tekst iz zaštićenih djela. Projekt navodi da su sadržaj i prijevodi izrađeni generativnom umjetnom inteligencijom uz urednički pregled te da su prijevodi strojno potpomognuti i označeni za pregled lokalnih nastavnika prije razredne upotrebe, što vrijedi shvatiti ozbiljno prije nego ih okrug usvoji u velikom opsegu. Svaka aktivnost radi u pregledniku učenika, bez prijava i bez prikupljanja podataka.
-
-## Povezani pojmovi
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]

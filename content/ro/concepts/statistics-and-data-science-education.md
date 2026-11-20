@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -82,26 +84,3 @@ Calitatea sprijinirii contează independent de acces. O comparație experimental
 - **„Satisfacția și beneficiul perceput indică faptul că un instrument IA pentru știința datelor funcționează.”** Studenții au folosit intens LLM-urile pentru depanare și întrebări conceptuale și **au raportat satisfacție ridicată, în timp ce beneficiul perceput pentru învățarea profundă a scăzut pe parcursul semestrului**. Satisfacția s-a menținut și traiectoria autoevaluată a învățării a scăzut, deci niciuna dintre cifre nu este singură rezultatul.
 - **„Un model nerestricționat este la fel de bun ca un tutor ghidat.”** Câștigul a venit din instruirea în sprijinire — instrucțiuni explicite despre indicii pas cu pas și verificare — care a depășit simplul acces la același model la performanța independentă și la calibrarea autoevaluării. Ghidajul, și instruirea în folosirea lui, au purtat efectul.
 - **„Protejarea împotriva oferirii de răspunsuri este suficientă.”** Un tutor construit anume, înfășurat în jurul unui API găzduit, cu instrucțiuni de sistem care să **ghideze în loc să răspundă**, a fost implementat într-un curs R de un semestru pentru studenți de licență în psihologie, unde **76% până la 84%** dintre studenți l-au folosit în săptămânile relevante pentru examen. Aceasta este adoptare, nu dovada că protejarea a produs învățare: protejarea la nivel de prompt este o pârghie printre altele și nu produce prin ea însăși învățare.
-
-## Concepte conexe
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Articole conexe
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Instrument agentic care generează seturi de date sintetice inspectabile pentru practica personalizată în statistică
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tutor pentru R construit anume; adoptarea a urmărit calendarul examenelor
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Etichetele de dificultate ale LLM-ului urmăresc nivelurile Bloom, nu performanța studenților
-- [[tactile-statistical-graphs-accessibility]] — Conductă open-source care generează grafice statistice tactile, cu revizuirea profesorului
-- [[guided-llm-scaffolding-independent-learning]] — Sprijinirea ghidată a întrecut accesul nerestricționat la performanța independentă
-- [[lund-socially-accountable-data-science-xai-2026]] — Integrarea responsabilității sociale în curriculumul tehnic de știința datelor

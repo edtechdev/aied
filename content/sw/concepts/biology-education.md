@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,36 +69,3 @@ Elimu ya biolojia iko ndani ya nyanja pana zaidi ya [[stem-education]] na inashi
 - **"Wanafunzi hawawezi kutofautisha AI na msaidizi wa ualimu wa binadamu."** Utafiti wa msaidizi wa ualimu wa maabara ya kweli uligundua **waalimu wa binadamu kuwa sahihi na wenye ufanisi zaidi kuliko ChatGPT**, hata hivyo wanafunzi **walipendelea jibu la AI mara 40%** na wangeweza **kugundua matokeo ya AI mara 45% tu**. Ugunduzi ulikuwa karibu na kurusha sarafu na upendeleo ulielekea chanzo kisicho sahihi, hivyo data ya kuridhika haiwezi kuchukua nafasi ya ubora hapa.
 - **"Upendeleo unaonyesha ubora."** Utafiti ule ule unawatenganisha moja kwa moja: pato lililopendelewa lilikuwa lile baya zaidi. Tathmini yoyote ya zana ya AI ya biolojia inayoripoti kuridhika kwa wanafunzi bila kipimo cha usahihi inaripoti kiasi kisicho sahihi.
 - **"Ujuzi wa AI lazima ufundishwe kama somo tofauti."** Kuweka dhana za kujifunza kwa mashine **ndani ya kozi ya biolojia ya shule ya juu** kuligundua muktadha wa biolojia **uliunga mkono** kujifunza AI, ushahidi wa kuweka ujuzi wa AI katika mtaala badala ya kuubandika kama kitengo cha pekee. Taaluma iliipa dhana kitu cha kushikamana nacho.
-
-## Dhana Zilizounganishwa
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Makala Zilizounganishwa
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

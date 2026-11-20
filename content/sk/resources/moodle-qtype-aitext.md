@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -48,12 +49,3 @@ Správcovia a vývojári Moodle, ktorí už stránku prevádzkujú, učitelia, k
 ## Poznámky a upozornenia
 
 Open source pod GPL v3 alebo novšou verziou, ale bezplatnosť neznamená bezplatnú prevádzku: niekto platí za API modelu a kvalita hodnotenia závisí od výberu modelu a dizajnu promptu. Odpovede vo voľnom texte opúšťajú server Moodle, keď sa používa vzdialený poskytovateľ, takže o tom, čo sa smie posielať, rozhoduje dátová dohoda inštitúcie; samohostovaná cesta cez Ollama existuje pre stránky, ktoré nemôžu posielať študentskú prácu von. Repozitár neuvádza žiadnu publikovanú štúdiu presnosti alebo zhody, takže plugin by sa nemal zavádzať s predpokladom, že hodnotenie LLM sa rovná ľudskému hodnoteniu — [[assessment-validity|validitu]] treba lokálne preukázať voči ľudským skóre, kým akákoľvek známka získa váhu. Sprievodné správania sú tvrdou závislosťou: samotná inštalácia typu otázky necháva otázky nehodnotiteľné.
-
-## Prepojené pojmy
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

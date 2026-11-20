@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,28 +91,3 @@ ai_assist:
 **शोधकर्ताओं के लिए**
 
 - प्रतिभागी-विशिष्ट एजेंट सिमुलेशन सहयोगी विनियमन के अध्ययन का सबल उपकरण हैं। इन्हें वैसा ही रिपोर्ट करें, बिना पर्यवेक्षण विद्यार्थी सहयोग के प्रमाण के रूप में नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## संबंधित लेख
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — इंटरैक्शन प्रोफ़ाइल (प्रत्यायोजित तर्क बनाम संयुक्त व्याख्या) और दक्षता–नियमन समझौता
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR मॉडल जो जनरेटिव AI को एक बुद्धिमान सीखने के साथी के रूप में स्थापित करता है
-- [[llm-critical-thinking-teamwork-review]] — LLM द्वारा आलोचनात्मक सोच, टीमवर्क और समस्या समाधान को बढ़ावा देने की PRISMA समीक्षा
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — सहयोगी समस्या समाधान के लिए अनुक्रम-खनित अनुकूली स्कैफोल्ड
-- [[genai-assisted-problem-posing-physics-2026]] — GenAI के साथ समस्या रचना को एक स्व-नियमित सीखने की रणनीति के रूप में
-- [[genai-feedback-design-multisite-experiment]] — विलंबित स्थानांतरण पर प्रतिबिंबित/संकर फीडबैक सीधे AI से बेहतर
-- [[dai-chatbots-problem-posing-primary-2026]] — जाँच-आधारित सीखना में चैटबॉट प्राथमिक छात्रों की समस्या रचना सुधारते हैं
-- [[llm-computational-thinking-physics-2026]] — भौतिकी में कम्प्यूटेशनल समस्या समाधान के स्केलेबल मूल्यांकनकर्ता के रूप में LLM
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — प्राथमिक गणित के LLM ट्यूटरिंग सिस्टम में नियम-निर्देशित बनाम तदर्थ स्कैफोल्डिंग (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

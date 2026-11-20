@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -53,9 +55,7 @@ GenAI 연구 163편에 대한 2026년 체계적 검토는 문헌을 다섯 이�
 
 학습 이론은 궁극적으로 그 결과로 평가되며, 이론이 증거를 만나는 지점이 이 지식베이스의 [[learning-gains]] 개념입니다. 각 이론은 무엇이 학습으로 *간주되는지*, 그것을 어떻게 측정하는지에 대해 다른 예측을 합니다. 행동주의는 암기-피드백 과업에서 관찰 가능한 수행 향상을 예측하고, 구성주의는 새로운 문제로 전이되는 더 깊은 이해를 예측하며, 사회문화 이론은 참여와 매개적 [[problem-solving|문제 해결]]의 향상을 예측하고, 인지 부하 이론은 교수가 작업 기억 한계를 존중할 때만 향상을 예측합니다. 이것이 학습 향상 측정이 이론 의존적인 이유입니다. 한 이론 위에 세워진 도구는 다른 이론이 예측하는 향상을 포착하지 못할 수 있습니다. AI 시대에 AI 보조 수행과 보조 없는 [[learning-gains|학습 향상]] 사이의 날카로운 괴리([[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]] 참조)는 이 렌즈를 통해 읽힐 수 있습니다. 행동주의적 읽기는 부풀려진 과제 점수를 성공으로 보는 반면, 지속적 이해에 초점을 맞춘 구성주의적 읽기는 동일한 증거를 학습의 실패로 봅니다. 따라서 이론을 평가와 측정된 결과에 연결하는 것은, 주어진 AI 시스템이 실제로 어떤 이론적 렌즈를 충족하는지를 결정하는 데 필수적입니다.
 
-
 **통합 증거는 긍정적이며, 이론들이 측정하는 것보다 좁은 구성개념을 측정합니다.** 53편의 연구에 대한 PRISMA [[meta-analysis-systematic-review|메타분석]]은 생성형 AI 지원을 학업 성취에서 g = 0.40, [[critical-thinking|고차원적 사고]]에서 0.72, 쓰기에서 0.76, 동기에서 0.81로 놓으며, 생성형 AI 피드백이 g = 1.27로 가장 큰 기제였습니다([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). 이는 포함된 연구들이 택한 도구에서의 향상이므로, "효과가 있다"는 행동주의적 또는 인지주의적 독해를 확정하고 지속적이고 전이 가능한 이해에 관한 구성주의적 예측은 시험되지 않은 채로 둡니다. 국가 하위 집단도 갈렸습니다. 중국의 g = 0.71에서 터키의 비유의적 g = 0.01까지였으므로, 통합 추정치는 도구의 속성이 아니라 지역에서 시험해야 할 평균입니다.
-
 
 ## 학습 이론이 교육에서의 AI에 중요한 이유
 
@@ -118,52 +118,3 @@ GenAI 연구 163편에 대한 2026년 체계적 검토는 문헌을 다섯 이�
 **"이론이 많을수록 더 잘 이해된 분야다."** 판정 없는 축적은 진보의 반대입니다. AI 시대를 위해 제안된 이론은 검증되는 속도보다 빠르게 늘어나며, 성숙의 표지는 경쟁하는 예측이 해결되는 것입니다. 그것은 이론들을 구별할 수 있는 설계를 요구하지, 이론들을 수용하는 목록을 요구하지 않습니다.
 
 **"이론적으로 말해 'AI에 관한 교육'은 '교육에서의 AI'와 같다."** 둘은 서로 다른 갈래를 끌어옵니다. 하나는 학습자가 AI를 교과로 이해하게 되는 방식을, 다른 하나는 AI가 학습이 일어나는 방식을 바꾸는지를 묻습니다. 둘을 혼동하면 서로 다른 두 증거 기반을 섞은 문헌 검토가 되어 어느 쪽도 일관되게 보고하지 못합니다.
-
-## 연결된 개념
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — 포괄 개념: 교육에서의 AI에 관한 교수법과 교수 전략
-
-## 연결된 문서
-
-- [[yan-agentivism-learning-theory-ai-2026]] — 인간-AI 상호작용을 위한 중범위 학습 이론으로, 네 메커니즘과 여섯 개의 시험 가능한 명제를 갖춤 (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응형 숙달은 학습자가 언제 행동을 삼가야 하는지 알기 전에 연습을 멈출 수 있다 (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — 하이브리드 체계에서의 AI 증강 탐구와 조절 (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — 인간-AI 공동 조절에서 AI를 인지적 동반자로 위치 짓는다; 생애 전반에 걸친 발달 틀
-- [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 사고를 인간-AI 상호작용으로 재개념화하는 철학적 틀
-- [[self-directed-growth-generative-ai-learning-analytics]] — 자기 주도 학습을 GenAI로 확장한 자기 주도적 성장과 A2PL 모형
-- [[generativism-learning-theory]] — 생성형 AI 시대를 위한 새로운 학습 이론을 제안하며, 고전적 네 이론을 재고한다
-- [[ai-vocational-education-training-review]] — VET 분야 AI의 구성주의/행동주의 이론-실천 간극을 문서화했다
-- [[genai-educational-outcomes-meta-analysis]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개 행위자로서의 생성형 AI
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조향
-- [[lukesova-clue-before-correction-2026]] — 정정 전 단서: 자율 언어 학습을 위한 ChatGPT
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — 학습 이론 스펙트럼 전반의 교수법적 실천과 생성형 AI 통합: 체계적 검토

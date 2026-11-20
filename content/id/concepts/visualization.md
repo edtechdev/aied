@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -64,24 +66,3 @@ Di seluruh karya yang dibahas, visualisasi muncul sebagai medium dua guna: AI ma
 - **"Visualisasi yang lebih baik menghasilkan luaran yang lebih baik."** Guru **secara sistematis lebih menyukai visualisasi yang lebih sederhana dan lebih tradisional** (plot batang, diagram pai, legenda) **bahkan ketika desain kompleks seperti heatmap menghasilkan wawasan yang lebih terperinci**. Artefak yang lebih informatif bukanlah yang digunakan, sehingga adopsi adalah masalah terpisah dari kualitas desain.
 - **"Siswa melihat ke tempat perancahnya berada."** Satu studi menemukan siswa **menghabiskan sebagian besar waktu pandangnya pada kode meskipun ada perancah visual yang rumit** — bantuannya sekadar tidak menarik perhatian. Dukungan visual yang ada tetapi tidak diperhatikan tidak mengubah apa pun.
 - **"Keterlibatan dan pemahaman bergerak bersama."** Peserta menilai komik data yang dihasilkan AI **lebih menarik dan lebih mudah dipahami, namun banyak juga yang menandai risiko misinformasi dan kelebihan informasi**. Kedua reaksi itu berasal dari artefak yang sama, sehingga penerimaan yang positif bukanlah pembacaan yang terverifikasi.
-
-## Konsep terkait
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — representasi spasial dan tiga dimensi
-
-## Artikel terkait
-
-- [[interactive-learning-dashboards-engagement]] — Memikirkan ulang visualisasi pembelajaran sebagai alat keterlibatan melalui agen pedagogis
-- [[mllm-scientific-visualization-literacy]] — Menolok ukur LLM multimodal untuk literasi visualisasi ilmiah
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Model text-to-image yang diadaptasi domain untuk visualisasi konsep nuklir
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Efektivitas, manfaat, dan etika komik data berbantuan AI
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Tolok ukur kontrafaktual untuk audit slide multimodal
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses guru di kelas campuran
-- [[genai-visualization-education-framework-2026]] — Mengonstruksi Makna, Bukan Sekadar Bagan: Kerangka Kognitif–Instruksional untuk Penggunaan AI Generatif dalam Pendidikan Visualisasi

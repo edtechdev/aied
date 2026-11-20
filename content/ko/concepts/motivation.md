@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -60,7 +62,6 @@ ai_assist:
 
 기관의 생성형 [[educational-policy-ai|AI 정책]] 자체가 [[learners|학습자]]가 평가하는 스트레스 요인입니다. [[gai-advocacy-practice-art-education-2026|Chen(2026)]]은 대학의 생성형 AI 옹호와 교실 실천 사이의 간극이 중국 예술·디자인 학생들 사이에서 도전 평가와 방해 평가를 모두 높였고, [[creativity|창작]] 과정 참여에 상반되는 간접 효과를 낳았으며, 경로 사고는 도전 경로만 증폭시켰다는 것을 발견했습니다.
 
-
 대화 형식은 전반적인 평가를 개선하지 않고도 동기를 높일 수 있습니다. 고등학교 1학년 학생 222명 가운데, 교사–교사 대화가 구체적 경험이 높은 학습자에게는 교사–학생 형식보다 ARCS 동기를 더 높였으나(b = 0.162, p < .001), 전반적인 평가에서는 유의미하게 더 낮은 점수를 받았습니다(b = -0.126, p = .005)([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
 동기는 학생들이 도구를 어떻게 틀 짓는지를 규정하며, 그 틀 짓기가 [[metacognition|메타인지적]] 수확을 지닙니다. [[cui-motivation-roles-metacognitive-genai-2026|Cui et al. (2026)]]는 협력자 역할 — 로그의 7.5% — 만이 완전한 메타인지 사슬을 산출했음을 발견했으며, 외재적으로 동기 부여된 학생들은 로그의 64.6%에서 GenAI를 대체 도구로 사용하고 고차원적 연결을 산출하지 못했습니다.
@@ -83,7 +84,6 @@ ai_assist:
 
 동기는 기술 지각과 나란히 작동할 뿐 아니라 그 상류에서도 작동합니다. 물리학 학생 340명 표본에서 효용 가치는 지각된 유용성을 예측했고(β = 0.43), 내재적 가치는 태도를 예측했으며(β = 0.20), 지각된 비용은 사용 용이성을 낮추고(β = -0.16) 태도도 낮췄지만(β = -0.27) 의도로 가는 직접 경로는 없었습니다([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi와 Lu(2026)]]).
 
-
 **동기 조절은 이 문헌에서 가장 얇은 구성 개념입니다.** 39개 연구에 걸쳐 [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]]는 자율적 동기를 측정한 연구가 2개, 확인된 조절과 통제된 동기를 각각 1개 측정한 반면, 기본 심리적 욕구를 측정한 연구는 17개, 참여를 측정한 연구는 10개임을 발견했습니다. 저자들은 그 간극을 이 검토의 핵심 문제라고 부릅니다. 조절은 학생이 왜 동기 부여되는지를 묻는 반면, 욕구 충족은 환경이 그들을 지지했는지만 묻기 때문입니다.
 
 ## 관련 개념과의 연결
@@ -95,60 +95,3 @@ ai_assist:
 - **"생성형 AI의 동기 효과는 깔끔하고 큰 이득입니다."** 42개 연구 메타분석(효과 크기 56개, 학생 6,059명)은 동기 효과를 g = 0.764(95% CI [0.566, 0.962])로 발견했지만 **I² = 93.7%**입니다. 그렇게 높은 이질성은 통합 수치가 서로 어긋나는 연구들의 집합을 서술한다는 뜻이므로, 그것은 일관된 처치에 대한 재현 가능한 효과가 아니라 일치하지 않는 처치들에 걸친 평균입니다.
 - **"좌절을 줄이는 것은 동기를 유지하는 것과 같습니다."** 세 집단 [[rct|RCT]]에서 비계화된 튜터와 제한 없는 ChatGPT는 **좌절을 똑같이 줄였습니다**(3.21과 3.13). 매우 다른 두 설계가 같은 정서적 결과를 낳았으므로, 좌절 자료로는 둘을 구별할 수 없습니다.
 - **"동기를 부여하는 설계는 좋은 설계입니다."** **고등학교 1학년 학생 222명**에서 교사-교사 대화 형식은 대안보다 **ARCS 동기를 더 높였지만 전반적 평가는 개선하지 않았습니다**. 동기는 움직였고 판정된 품질은 그대로였습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념 전체를 아우르는 항목
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — 사회정서 학습
-
-- [[reflection]]
-
-## 연결된 문서
-- [[liu-ai-assistance-reduces-persistence-2026]] — 짧은 AI 사용이 이후 도움 없는 문제에서의 지속성을 줄였다 (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 논증적 쓰기에 대한 자동화 피드백: 중등 학생의 피드백 수용성과 피드백 지각의 역할
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 노력의 역설과 마찰 없는 조력의 악순환
-- [[cui-motivation-roles-metacognitive-genai-2026]] — 메타인지적 GenAI 참여 속의 동기와 역할
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — 성별, 동기, 그리고 GenAI 성취 궤적
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI 교육 과정 설계를 위한 교수자 디지털 역량 평가 (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — AI와 함께 교육의 미래를 만들어 가는 동기
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 학습자 특성 × TTS 대화 형식 상호작용
-- [[student-perceptions-ai-study-productivity-2026]] — 학습 생산성과 학습을 위한 AI 도구에 관한 학생의 인식: 탐색적 설문 연구
-- [[liang-ai-learning-motivation-sdt-2026]] — 학생의 AI 학습 동기에 대한 자기결정이론 잠재 전이 분석 (중등 학생 2,086명)
-- [[wang-goal-setting-ai-engagement-2026]] — 목표 설정 이론: AI 지원 영어 학습에서의 교수자 지지, 성취 목표, 그리고 참여 (중국 학생 758명)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAI로 책임감 있게 가르치기를 배우는 데서의 효용 가치 개입 효과 (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 초등 L2 GenAI 쓰기 프로그램에서의 구성 개념 특정적 동기 향상 (Lu et al. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR 척도: 읽는 동안 AI에 손을 뻗는 네 가지 동기 집단
-- [[genai-math-relevance-intervention-2026]] — GenAI 관련성 대화는 동일시로서의 관련성을 높였지만 수업 흥미는 그대로였다
-- [[genai-learning-motivation-meta-analysis-2026]] — GenAI가 학습 동기에 미치는 영향의 무선 효과 메타분석 (효과 크기 56개, 학생 6,059명)
-- [[ai-student-motivation-scoping-review-2026]] — AI와 학생 동기에 관한 156개 연구: 85.3%가 동기 이론을 쓰지 않았고, 구성 개념·수준·국가를 막론한 논의 범위가 좁다
-- [[high-school-genai-acceptance-tam-physics-2026]] — 생성형 AI 수용의 선행 요인으로서의 기대-가치 신념
-- [[gai-advocacy-practice-art-education-2026]] — 생성형 AI 옹호의 정책-실천 간극이 학생이 평가하는 스트레스 요인으로 작용한다
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 비계화된 튜터는 제한 없는 ChatGPT가 하지 못한 내재적 동기 상승을 이끌었다
-
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 질이 맞춰진 AI 피드백과 교수자 피드백, 동기 격차는 관계성에서 비롯된다 (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — SDT에 기반한 39개 연구 검토: 욕구와 참여는 자주, 동기 조절은 거의 측정되지 않았다
-- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — AI 맥락에서의 학습 가치와 학습 자기효능감을 위한 두 개의 짧은 척도, 그리고 그것이 예측하는 것
-- [[mekheimer-motivation-ethics-trust-efl-2026]] — 12주 EFL 연구에서 동기의 유일한 유의한 예측 변수로서의 사용 빈도
-- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI 의존과 동기는 비판적 사고에 동등하고 반대되는 효과를 지녀, 작은 순이득만 남긴다(MASEM, 31개 연구, 학습자 16,357명)

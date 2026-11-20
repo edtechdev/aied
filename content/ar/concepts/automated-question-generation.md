@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -94,53 +96,3 @@ ai_assist:
 **«توليد الأسئلة يخصّص التمرين تخصيصًا طبيعيًا.»** إنه يولّد عرضًا، والتخصيص مشكلة مطابقة. فإنتاج مفردات أكثر لا يخبرك أي مفردة ينبغي أن يراها متعلّم معيّن تاليًا، ومسألة الاختيار التكيّفي آلية منفصلة لها أدلتها الخاصة.
 
 **«التوليد يوسّع التقويم دون تغيير ما يقيسه التقويم.»** إنه يغيّر تركيب ما يُقاس، لأن المفردات التي تُولَّد جيدًا ليست عينة ممثِّلة للمفردات التي تُقوّم جيدًا. فالصيغ السهلة التوليد ستزاحم تدريجيًا الصيغ الأصعب توليدًا، وهذا يُعيد تشكيل البناء بهدوء.
-
-## المفاهيم المرتبطة
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## المقالات المرتبطة
-- [[genai-medical-education-transformation-review-2026]] — مراجعة نطاق لـ 153 تقريراً في التعليم الطبي حول توليد البنود بالذكاء الاصطناعي مقابل جودة بنود أعضاء هيئة التدريس
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — تحقق ميداني واسع النطاق في جودة الامتحانات المُولَّدة بالذكاء الاصطناعي عبر IRT
-- [[generate-then-validate-question-gen]] — توليد أسئلة بطريقة توليد-ثم-تحقق
-- [[kt4eqg-personalized-question-generation]] — توليد أسئلة مخصّص عبر تتبّع المعرفة
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — توليد أسئلة مدفوع بالنماذج اللغوية الكبيرة للمتعلّمين الصم وضعاف السمع
-- [[llm-educational-question-cognitive-depth]] — العمق المعرفي للأسئلة المُولَّدة بالنماذج اللغوية الكبيرة
-- [[slidesqaqa-pedagogical-question-generation]] — توليد أسئلة وأجوبة بيداغوجي من عروض الشرائح
-- [[code-gen]] — CODE-GEN: توليد أسئلة قائم على RAG مع الإنسان في الحلقة
-- [[nsmq-riddles-science-math-benchmark]] — معيار NSMQ Riddles
-- [[taklif-ai-interest-based-personalized-assignments]] — تكاليف مخصّصة قائمة على الاهتمام
-- [[llm-difficulty-calibration-programming-exams-2026]] — معايرة الصعوبة القائمة على النماذج اللغوية الكبيرة
-- [[self-referential-l2-writing-llm-assessment]] — تقويم الكتابة التحليلي المرجعي الذاتي
-- [[cross-dataset-bloom-question-classification]] — تصنيف أسئلة بلوم عبر مجموعات البيانات
-- [[llm-chatbots-cs-multiple-choice]] — روبوتات المحادثة بالنماذج اللغوية الكبيرة وبنود اختيار من متعدد في علوم الحاسب
-- [[socratic-tests-conversational-assessment]] — الاختبارات السقراطية: تقويم حواري
-- [[llm-turing-test-italian-legal-exams-2026]] — اختبار تورينغ للنماذج اللغوية الكبيرة في الامتحانات القانونية
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة البند باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة القائم على الأشجار
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: تقويم جودة بنود الرياضيات القائم على العملية
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: مدرّب ذو فاعلية يتعلّم متعلّمَه في حلقة تعلّم مشترك بين الإنسان والذكاء الاصطناعي
-- [[automated-constructive-assessment-hdr-llm-2026]] — أتمتة التقويم البنائي بالنماذج اللغوية الكبيرة: نحو تقويم قابل للتوسّع والمتكرر للكفاءة العملية
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المُولَّدة بالذكاء الاصطناعي في مقررات علوم البيانات
-- [[bloom-classifier-ai-assisted-questions-2026]] — تقييم نماذج مُدرَّبة مسبقاً للتقييم البيداغوجي لأسئلة تعليمية جديدة مساعدة بالذكاء الاصطناعي
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — لم يستطع الطلاب التمييز بين بنود اختيار من متعدد مُولَّدة بالذكاء الاصطناعي وبنود امتحانات الترخيص في امتحان مُقيَّم، وأُقصي 18.2% من البنود المُولَّدة في المراجعة (فوغت وزملاؤه 2026)

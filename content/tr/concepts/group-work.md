@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -112,41 +114,3 @@ GenAI ve grup değerlendirmesi üzerine en doğrudan bulgu, [[chen-zou-genai-gro
 **“YZ en çok grubu koordine ettiğinde yardımcı olur.”** Koordinasyon desteği ile epistemik destek zıt yönlere çeker. İşbirliği yapmanın koordinasyon maliyetini düşürmek, grubun anlam üzerinde pazarlık yapma baskısını azaltabilir; değerlendirilen süreç tam olarak budur. Verimlilik–düzenleme ödünleşimi bir uygulama ayrıntısı değil, çekirdek tasarım gerilimidir.
 
 **“Grup çalışması insanlar yüzünden zordur.”** Bunun bir kısmı görev tasarımıdır; YZ’nin zorluk profilini basitçe hafifletmek yerine değiştirmesinin nedeni budur: soruları hızlı yanıtlayan bir araç, grubun zamanını neye harcadığını değiştirir ve bunun bir iyileşme olup olmadığı, görevin hangi becerileri geliştirmek için kurulduğuna bağlıdır.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Role scripts for groups sharing one AI
-- [[ai-education]] — AI in education (umbrella)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Bağlı makaleler
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of student agency in GenAI-mediated group assessment
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]] — An AI agent that injects controversy to counter groupthink in PBL teams
-- [[xu-genai-collaborative-space-2026]] — Shared versus private GenAI access across a team
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance versus self-regulation trade-off
-- [[golrang-propact-pair-programming-2026]] — ProPACT: treating the dyad as the unit of analysis in pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI mediation of assumption-surfacing in interdisciplinary student teams
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs as critique partners: active rebuttal preserves cognitive conflict
-- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
-- [[breideband-community-builder-cobi-2026]] — Classroom-level discourse analytics for group collaboration
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as pedagogical mediator of collaboration
-- [[neurodivergent-computing-students]] — Neurodivergent students' requirements for collaborative learning
-- [[academic-league-of-ai-2026]] — Democratic student governance and project teams for AI education
-- [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration

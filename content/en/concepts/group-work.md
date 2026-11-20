@@ -12,6 +12,8 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 > **Group work** — learning and graded work produced by a team rather than an individual, used to develop collaboration, communication, and shared responsibility while also generating an outcome and often a grade for each member. It sits where [[assessment|assessment design]] and [[collaborative-learning|collaborative learning]] meet, and it inherits the tensions of both: free-riding and social loafing, unequal contributions, conflict avoidance, and the difficulty of attributing a collective product to individual learning. [[generative-ai|Generative AI]] intensifies these because teams must now negotiate whose and what kind of AI [[student-engagement|engagement]] counts as acceptable — a negotiation that [[agency|agency]] [[research-methods-aied|research]] shows can resolve in opposite directions within a single cohort, and that [[agentic-ai|AI agents]] joining the group can themselves reshape.
@@ -104,42 +106,3 @@ A second line of research treats AI as a participant rather than a tool, and its
 **"AI helps most when it coordinates the group."** Coordination support and epistemic support pull in opposite directions. Reducing the coordination cost of collaborating can lower the pressure on the group to negotiate meaning, which is the process being assessed. The efficiency–regulation trade-off is the core design tension, not an implementation detail.
 
 **"Group work is difficult because of the people."** Some of it is task design, which is why AI changes the difficulty profile rather than simply easing it: a tool that answers questions fast changes what the group spends its time on, and whether that is an improvement depends on which skills the task was built to develop.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Role scripts for groups sharing one AI
-- [[ai-education]] — AI in education (umbrella)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Connected Articles
-
-- [[nixon-social-cost-ai-teammate-2026]] — The AI teammate takes the most airtime, and human-human responsiveness and belonging fall (Nixon et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of student agency in GenAI-mediated group assessment
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]] — An AI agent that injects controversy to counter groupthink in PBL teams
-- [[xu-genai-collaborative-space-2026]] — Shared versus private GenAI access across a team
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance versus self-regulation trade-off
-- [[golrang-propact-pair-programming-2026]] — ProPACT: treating the dyad as the unit of analysis in pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI mediation of assumption-surfacing in interdisciplinary student teams
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs as critique partners: active rebuttal preserves cognitive conflict
-- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
-- [[breideband-community-builder-cobi-2026]] — Classroom-level discourse analytics for group collaboration
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as pedagogical mediator of collaboration
-- [[neurodivergent-computing-students]] — Neurodivergent students' requirements for collaborative learning
-- [[academic-league-of-ai-2026]] — Democratic student governance and project teams for AI education
-- [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration

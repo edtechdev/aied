@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -80,28 +82,3 @@ Para penulis kerangka ini sendiri menyediakan taksonomi peran bagi kondisi terse
 **"Kehadiran terdistribusi merata di seluruh kohort."** Ia terpisah *di dalam* kondisi, bukan antarkondisi. Dalam kuasi-eksperimen dengan **63 mahasiswa sarjana Tiongkok (33 dengan chatbot GPT-4o mini, 30 tanpa)** yang menganotasi bacaan bersama dalam lima tugas mingguan, kehadiran menyimpang menurut prestasi kelompok: kelompok berprestasi tinggi memulai **1407 permintaan umpan balik dari 2319 anotasi (60.7%)** berbanding **737 dari 2167 (34.0%)** pada kelompok berprestasi rendah. Akses ke alat yang sama mereproduksi kesenjangan yang sudah ada dalam perilaku sosial yang diukur kerangka ini.
 
 **"Menambahkan chatbot ke kursus daring berarti menambah satu kehadiran."** Itu mengubah komposisinya. Nilai kerangka ini di bawah GenAI adalah bahwa ia membuat substitusi itu terlihat: kehadiran yang dipenuhi model adalah konfigurasi berbeda dari konstruk yang sama, dan data kohort menunjukkan substitusi itu menguntungkan secara tidak merata.
-
-## Konsep terkait
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## Artikel terkait
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Tinjauan cakupan 21 studi: bukti kehadiran tidak merata, kehadiran pengajaran paling jarang diteliti, dan konfigurasi desain memilah hasilnya (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — Mengurai interaksi siswa dalam anotasi sosial berbantuan GenAI: analisis jaringan epistemik atas kehadiran kognitif dan sosial
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Mengonseptualisasi ulang CoI di era AI generatif
-- [[ai-communities-of-inquiry-2026]] — AI dalam komunitas inkuiri
-- [[ai-online-education-engagement-satisfaction-2026]] — AI dan keterlibatan dalam pendidikan daring
-- [[reflective-triangle-model-teacher-ai-2026]] — Model Segitiga Reflektif: AI sebagai mediator kognitif
-- [[llm-facilitation-timing-online-discussions]] — Fasilitator manusia versus LLM: model melakukan intervensi lebih bersemangat daripada manusia ahli (Tsirmpas dkk. 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -52,7 +54,6 @@ ai_assist:
 
 **ঝুঁকি-ধারণা ও বিশ্বাস পরস্পরবিরোধী নয়।** [[agentic-ai|এজেন্টিক]] জেনএআই নিয়ে [[higher-ed|উচ্চশিক্ষায়]] 130 শিক্ষার্থীর ধারণা-গবেষণায় অনুভূত ঝুঁকি মাঝারিভাবে উঁচু (M = 3.33, SD 0.89) পাওয়া গেছে, সঙ্গে আরও অনুকূল বিশ্বাস ও গ্রহণ-ইচ্ছা (M = 3.62, SD 0.81), এবং — সরল নিরুৎসাহ-প্রত্যাশার বিপরীতে — অনুভূত ঝুঁকি ও চলমান-ব্যবহারের ইচ্ছার মধ্যে একটি *ধনাত্মক* সম্পর্ক (Spearman's ρ = 0.317, p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva প্রমুখ 2026]])। লেখকেরা এটিকে উদাসীনতা নয়, অবহিত গ্রহণ হিসেবে পড়েন: সম্পৃক্ত বা অভিজ্ঞ ব্যবহারকারীরা প্রযুক্তির মূল্য ও সীমা দুটোই চেনে, এবং কেবল 45.4% বলেছেন তারা প্রশিক্ষকের দিশায় এজেন্টদের বিশ্বাস করেন। [[trust-calibration|বিশ্বাস ক্রমাঙ্কন]]-এর জন্য এর তাৎপর্য হলো, ঝুঁকি সম্পর্কে সচেতনতা বিশ্বাসের অনুপস্থিতি নয় — তা বিশ্বাসের একটি উপাদান হতে পারে — অথচ ক্রস-সেকশনাল নকশাটি সচেতনতা, প্রকাশ ও স্ব-নির্বাচনকে আলাদা করতে পারে না।
 
-
 এআই-এর প্রতি বিশ্বাস একক মনোভাব নয়, বরং মূল্যায়ন থেকে নির্ভরতার দিকে একটি পথ হিসেবে আচরণ করে: অনুভূত এআই-ক্ষমতায়ন ও অনুভূত এআই-হুমকি প্রায় স্বাধীন ছিল (r=0.030), তবু বিশ্বাসকে বিপরীত দিকে সরিয়েছে (β=0.576 ও β=−0.328), আর বিশ্বাস উভয় দিকেই জেনএআই-নির্ভরতার সঙ্গে উল্লেখযোগ্য পরোক্ষ সম্পর্ক বহন করেছে ([[ai-empowerment-threat-genai-dependence-2026|Zhu প্রমুখ (2026)]])।
 
 একটি কাঠামোগত মডেল সেই সেতু-ভূমিকাকে অভিজ্ঞতামূলক পরীক্ষা দেয়। [[trust-calibration-genai-collaborative-regulation-2026|Bu ও Li (2026)]]-এর 642 বিশ্ববিদ্যালয় শিক্ষার্থীর জরিপে প্রাসঙ্গিক সহায়তা বিশ্বাস-ক্রমাঙ্কন পূর্বাভাস দিয়েছে (β = 0.56), বিশ্বাস-ক্রমাঙ্কন [[collaborative-learning|সহযোগিতামূলক]] [[regulation|নিয়ন্ত্রণ]] (β = 0.49) ও অনুভূত [[transfer-of-learning|স্থানান্তর]]-অর্জন (β = 0.22) পূর্বাভাস দিয়েছে, আর প্রাসঙ্গিক সহায়তা থেকে অর্জনের সরাসরি পথ তাৎপর্যপূর্ণ ছিল না।
@@ -61,9 +62,7 @@ ai_assist:
 
 নির্মাণটি সহগ যতটা বলে তার চেয়ে পাতলা। এটি শিল্প-মূল্যের সম্পূরকসহ উপকরণগত প্রযুক্তি-বিশ্বাস মাপে — ঘোষিত আত্মবিশ্বাস, ক্রমাঙ্কিত নির্ভরযোগ্যতা নয় — আর 121-শিক্ষার্থীর পাইলটে দুটি রচয়িতা-আইটেম নিজস্ব ফ্যাক্টর তৈরি করার পর বাদ দেওয়া হয়েছে। একজন শিক্ষার্থী এই মডেলকে উপযুক্তভাবে বা বিচারবিহীনভাবে বিশ্বাস করতে পারে, আর যন্ত্রটি দুটির পার্থক্য বলতে পারে না।
 
-
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] অ্যালগরিদমের প্রতি বিশ্বাসের একটি **কাজ-নির্দিষ্ট, বৈশ্বিক নয়** এমন বর্ণনাকে সমর্থন করেন: এই 13 শিক্ষার্থীর ক্ষেত্রে অ্যালগরিদম-বিতৃষ্ণা বা অ্যালগরিদম-প্রশংসা কোনওটিই খাটেনি; তারা একই সঙ্গে পৃষ্ঠতল-মানের প্রতিক্রিয়ার জন্য ChatGPT-কে বিশ্বাস করত আর গ্রেডার হিসেবে অবিশ্বাস করত। তাদের বিশ্বাস শর্তসাপেক্ষ ছিল প্রশিক্ষকের তদারকির উপর, আর তাদের সংশয় এসেছিল এআই-এর প্রাসঙ্গিক সীমা থেকে — স্ক্যান করা হাতের লেখা ভুল পড়া ("এটি আমার পদবি ভুল বানান করেছে এবং ভাবে আমি বানানে ভুল করেছি, যা আমি করিনি"), প্রশিক্ষকের রেটিং পদ্ধতি না জানা, এবং দীর্ঘস্থায়ী ইতিবাচকতা — প্রযুক্তিভীতি থেকে নয়, যা ইঙ্গিত দেয় বিশ্বাসের পরিমাপ এআই যে কাজটি করে ও তার সঙ্গে জড়িত ঝুঁকি অনুসারে ভাগ করা উচিত।
-
 
 উৎস-বিশ্বাসযোগ্যতার তিনটি মাত্রা আলাদা হয়ে যেতে পারে: সতেরো EFL স্নাতক এআই লেখা-সহায়ককে বিস্তৃত দক্ষতা দিয়েছে, মূলত প্ল্যাটফর্ম যা রেখে দেয় তা নিয়ে তার বিশ্বাসযোগ্যতা নিয়ে সন্দেহ করেছে, আর তার শুভেচ্ছাকে সবচেয়ে কম রেট করেছে — তাদের নির্ভরতার সীমা ছিল যত্নে, সক্ষমতায় নয় ([[bounded-reliance-ai-writing-feedback-2026|Serpil ও Mor, 2026]])।
 
@@ -84,7 +83,6 @@ ai_assist:
 শনাক্তকারী ও নজরদারির উপর নির্ভরতা, [[bassett-ai-detectors-education-2026|Bassett প্রমুখ (2026)]]-এর যুক্তি অনুসারে, একটি সন্দেহের আবহ গড়ে তোলে যা মূল্যায়ন ও প্রতিষ্ঠানের প্রতি শিক্ষার্থীর বিশ্বাস ক্ষয় করে — সত্যনিষ্ঠা-প্রক্রিয়াগুলো যে বিশ্বাস রক্ষা করতে চায় তার ঠিক বিপরীত।
 
 প্রতিক্রিয়া আন্তঃব্যক্তিক বিশ্বাসের একটি প্রধান ক্ষেত্র। [[genai-teacher-feedback-comparison|জেনএআই বনাম শিক্ষকের প্রতিক্রিয়া নিয়ে শিক্ষার্থীদের ধারণা]] দেখায় দুটি ভিন্ন প্রয়োজনে সাড়া দেয় — পরিপূরক, বিনিময়যোগ্য নয় — শিক্ষার্থীরা শিক্ষকের প্রতিক্রিয়াকে বিশ্বাস করে সম্পর্কগত, ব্যক্তিগতকৃত বিচারের জন্য আর [[generative-ai|জেনএআই]]-কে গতির ও [[accessibility|অভিগম্যতার]] জন্য। [[care-full-feedback-genai|প্রতিক্রিয়ার একটি "যত্নপূর্ণ" বর্ণনা]] যুক্তি দেয় বিশ্বাসযোগ্য প্রতিক্রিয়া একটি [[ethics|নৈতিক]], সম্পর্কভিত্তিক অনুশীলন: এটি শিক্ষামূলক সম্পর্ক গড়ে তোলে এবং একটি পেশাদার কারিগরি হিসেবে সম্মানিত হয় — এমন মূল্যবোধ যা এআই সহজে অনুকরণ করতে পারে না। এ কারণেই শিক্ষক-শিক্ষার্থী বিশ্বাস — যত্ন ও পেশাদার বিচারের উপর গড়া — কেন্দ্রীয় থাকে, যদিও এআই প্রতিক্রিয়ার চক্রে প্রবেশ করছে।
-
 
 সহপাঠী-বিশ্বাস ভিন্ন চ্যানেলে চলে: 406 বিশ্ববিদ্যালয় শিক্ষার্থীকে একটি স্মরণকৃত সহপাঠীকে রেট করতে দেওয়া হলে, সেই সহপাঠীর জেনএআই ব্যবহার নিম্ন আন্তঃব্যক্তিক বিশ্বাসের সঙ্গে সম্পর্কিত ছিল, যা বহন করেছিল অনুভূত উষ্ণতা ও সক্ষমতা, এবং এই নেতিবাচক সম্পর্ক কেবল তখনই টিকে ছিল যখন অনুভূত [[ai-literacy|এআই সাক্ষরতা]] নিম্ন ছিল — উচ্চ সাক্ষরতায় তা অ-তাৎপর্যপূর্ণ ছিল ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang প্রমুখ (2026)]])।
 
@@ -124,52 +122,3 @@ ai_assist:
 
 - বিশ্বাস, ঝুঁকি-ধারণা ও উপযুক্ত নির্ভরতাকে আলাদা গঠন হিসেবে রিপোর্ট করুন, কারণ এরা অস্পষ্ট দিকে — এমনকি নেতিবাচকভাবেও — একসঙ্গে বদলায়।
 - স্ব-প্রতিবেদিত বিশ্বাসের পাশে আচরণগত ফলাফল (ভুল পরামর্শ গ্রহণের হার) রিপোর্ট করুন; কেবল বিশ্বাস-স্কেল সিদ্ধান্তটিকে উল্টে দেয়।
-
-## সংযুক্ত ধারণা
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — যে সামাজিক ঝুঁকির উপর নিয়ম ও প্রকাশ নির্ভর করে
-
-## সংযুক্ত নিবন্ধ
-- [[lucau-uneven-use-similar-trust-genai-2026]] — অসম ব্যবহার, সমান বিশ্বাস: ডেনমার্ক ও রোমানিয়ায় জেনারেটিভ এআই (Lucau, Voicu ও Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — অনুভূত ঝুঁকি চলমান-ব্যবহারের ইচ্ছার সঙ্গে ধনাত্মকভাবে সম্পর্কিত: অবহিত গ্রহণ (Ilieva প্রমুখ 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — K-12 শ্রেণিকক্ষের এআই-তে নিয়ন্ত্রণ ও এজেন্সি নিয়ে শিক্ষক-শিক্ষার্থীর বিশ্বাস-ব্যবধান
-- [[qu-wang-disclose-or-not-genai-2026]] — এআই ব্যবহারের প্রকাশ নীতির বদলে সম্পর্কগত কারণ ও প্রশিক্ষকের সঙ্গে আরাম দ্বারা চালিত
-- [[genai-teacher-feedback-comparison]] — জেনএআই ও শিক্ষকের প্রতিক্রিয়া ভিন্ন, পরিপূরক বিশ্বাস-প্রয়োজনে সাড়া দেয়
-- [[care-full-feedback-genai]] — বিশ্বাসযোগ্য প্রতিক্রিয়া একটি "যত্নপূর্ণ," সম্পর্কভিত্তিক অনুশীলন হিসেবে
-- [[ai-fallibility-warning-help-seeking]] — এআই-এর ভুলপ্রবণতা নিয়ে সতর্কবার্তা আইটিএস-এ সহায়তা-সন্ধান বাড়ায়
-- [[calibrating-trustworthiness-llm-education-2026]] — শিক্ষায় এলএলএম-এর জন্য বিশ্বাসযোগ্যতার মেট্রিক ও ভিজুয়ালাইজেশনের সহ-নকশা
-- [[ai-overreliance-complex-adaptive-system-2026]] — জটিল অভিযোজনশীল ব্যবস্থা হিসেবে মডেল করা এআই অতিনির্ভরতা
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — পদার্থবিজ্ঞান এআই সরঞ্জামে বিশ্বাস-উপযোগিতা ব্যবধান
-- [[t2i-competence-paradox-2026]] — এআই চিত্র-উৎপাদনে সক্ষমতা-বিরোধিতা
-- [[task-context-trust-educational-hri-2026]] — শিক্ষামূলক রোবটে চেহারার চেয়ে কাজের প্রেক্ষাপট বিশ্বাস গড়ে তোলে
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — এআই-মধ্যস্থ শেখায় অ্যাভাটার পরিচয় ও জ্ঞানতাত্ত্বিক বিশ্বাস
-- [[contextual-sycophancy-ai-literacy]] — প্রাসঙ্গিক চাটুকারিতা ও বিশ্বাস ক্রমাঙ্কনে তার সীমা
-- [[sycophantic-ai-social-interaction-2026]] — চাটুকার এআই সময়ের সঙ্গে মানব মিথস্ক্রিয়াকে কম তৃপ্তিদায়ক করে তোলে
-- [[ai-pedagogical-accompaniment-amico]] — জবাবদিহিমূলক শিক্ষাগত মধ্যস্থতা ও এআই-সক্ষম ব্যবস্থায় বিশ্বাস
-- [[best-response-student-ai-dialog-2026]] — শিক্ষার্থী-এআই সংলাপে বিশ্বাস
-- [[ai-adaptation-gap-higher-education-2026]] — উচ্চশিক্ষায় এআই-বিশ্বাসের সবচেয়ে শক্তিশালী পূর্বাভাসক হিসেবে অনুভূত উপযোগিতা
-- [[bassett-ai-detectors-education-2026]] — এআই শনাক্তকরণ ব্যবস্থার প্রতি বিশ্বাস ও অবিশ্বাস
-- [[genai-use-usefulness-student-experience-australia-2026]] — অস্ট্রেলীয় উচ্চশিক্ষায় জেনএআই উপযোগিতার শিক্ষার্থী-অভিজ্ঞতা (Chung প্রমুখ 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — মিশ্র শ্রেণিকক্ষের শিক্ষকদের কাছে এমএল ফলাফল সহজলভ্য করা
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — আমার কাজ কে গ্রেড করবে? উচ্চশিক্ষায় স্বচ্ছ এআই-সহায়ক লেখা-মূল্যায়ন নিয়ে শিক্ষার্থী-দৃষ্টিভঙ্গি
-- [[trust-in-ai-psychological-profiles-ml-2026]] — তিনটি শিক্ষার্থী-প্রোফাইল যেখানে এআই-বিশ্বাস জনতাত্ত্বিকের বদলে স্থিতিস্থাপকতা ও চাপ অনুসরণ করে (Kumar প্রমুখ 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — সীমিত নির্ভরতা: এআই-উৎপাদিত লেখার প্রতিক্রিয়ায় EFL শিক্ষার্থীদের সম্পৃক্ততার উৎস-বিশ্বাসযোগ্যতা দৃষ্টিভঙ্গি
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — ক্ষমতায়ন ও হুমকির মূল্যায়ন বিশ্বাসকে বিপরীত দিকে সরিয়েছে, জেনএআই-নির্ভরতা বহন করে
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — সহপাঠীর জেনএআই ব্যবহার অনুভূত উষ্ণতা ও সক্ষমতার মধ্য দিয়ে আন্তঃব্যক্তিক বিশ্বাস কমায়, এআই সাক্ষরতায় বাফারযুক্ত
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — বিশ্বাসযোগ্যতার সংকেত ভুল এআই অবস্থানে পরিবর্তন বাড়িয়েছে; সুপারিশ গোপন করা তা দমন করেছে
-- [[trust-calibration-genai-collaborative-regulation-2026]] — একটি কাঠামোগত মডেল সেই সেতু-ভূমিকাকে অভিজ্ঞতামূলক পরীক্ষা দেয়
-- [[zhu-creative-agency-trust-genai-art-2026]] — শিল্প-শিক্ষার্থীদের GenAI ব্যবহারের ইচ্ছার সবচেয়ে শক্তিশালী পূর্বাভাসক হিসেবে উপকরণগত বিশ্বাস

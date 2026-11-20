@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -77,32 +79,3 @@ ai_assist:
 **«Інформаційна грамотність — це одноразова вступна сесія».** Це навчання, а не допомога: питання, з якими приходять студенти, — це проблеми оцінювання та стратегії (чи достовірне це джерело, як мені це шукати), які є навчуваними навичками, а не транзакціями, які треба завершити. Розгляд послуги як допомоги перетворює навчальний план на службу підтримки й втрачає тривалу спроможність.
 
 **«Хто платить за перевірку — це чиясь інша проблема».** Консультаційне навантаження лягає на штат бібліотек, і власне питання статті — чи не перевищує прохання до бібліотек нести це їхню чисельність. Спільне проєктування й партнерство є відповідями, які рекомендує література, саме тому, що ціна перевірки реальна й лягає на підрозділ, який на неї не бюджетував.
-
-## Пов’язані поняття
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Пов’язані статті
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Семінарна платформа з бібліотекарем у команді; 312 консультацій, якими керувало оцінювання джерел
-- [[genai-academic-search-workshop]] — Воркшоп CHIIR 2026 про GenAI та науковий пошук; розрив у довірі до бібліотекарів
-- [[maybee-disruptive-partnerships-sap-2025]] — Академічні бібліотекарі спільно проєктують ШІ-грамотність зі студентами як партнерами
-- [[aarc-ai-research-competency-2026]] — Перевіряй, цитуй, рефлексуй як навчальні зобов’язання в дослідженні
-- [[pearls-epistemic-verification-2026]] — Протокол перевірки з шести вимірів; доступ і легітимність як ворота
-- [[hingle-collaborative-ai-literacy-2025]] — Спільне навчання для ШІ-грамотності; перенесення вигод інформаційної грамотності
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Викладачі ставлять атрибуцію та відповідальне використання найвище, але навчають мало з 26 навичок
-- [[bird-multimodal-educational-literature-2026]] — Інструмент складності тексту, побудований для нетехнічних користувачів, як-от викладачів англійської та бібліотекарів
-- [[cognitive-offloading-llm-synthesis-writing]] — Що здобувачі перекладають на інструменти, коли ШІ синтезує для них джерела
-- [[citation-errors-hallucinations-computing-education-2026]] — Сфабриковані та хибні цитати як проблема перевірки

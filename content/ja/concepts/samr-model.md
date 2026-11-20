@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,27 +83,3 @@ SAMR は、計画と評価に用いられる統合の深さのレンズとして
 **「SAMR と TPACK は競合する枠組みである」** 両者は異なるものを記述します。SAMR は課題における*変容の程度*を記述し、[[tpack|TPACK]]は教師が技術をうまく統合するために必要な*知識*を記述します。教師は TPACK に非常に長けていながら置き換えにとどまることがあり、だからこそ両者は選び分けるのではなく併用されます。
 
 **「ある水準で変容的な道具は、すべての水準で変容的である」** 同じ生成的な道具が、あるコースでは置き換えを支え、別のコースでは再定義を支ええます。水準は技術ではなく課題設計の性質だからです。水準を道具に帰すると、設計の決定の代わりに採用の決定が生じます。
-
-## 関連する概念
-- [[ai-education]] — 教育における AI（包括項目）
-- [[tpack]] — 技術的・教育学的・内容に関する知識（Technological Pedagogical Content Knowledge）
-- [[technology-acceptance-model]] — 技術受容モデル
-- [[icap-framework]] — 認知的エンゲージメントの ICAP 枠組み
-- [[ai-technologies]] — AI の技術と手法
-- [[teacher-ai-competency]] — 教員の AI 能力
-- [[educational-development]] — 教育開発
-- [[learning-design]] — 学習設計
-- [[k-12]] — K-12 教育
-- [[higher-ed]] — 高等教育
-- [[generative-ai]] — 生成 AI
-
-## 関連する記事
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — SAMR で評定された高等教育における AI 統合: 主に置き換え/拡張
-- [[thermomix-genai-education-analogy-2026]] — 料理から学習への 4 つのシナリオを対応づける ICAP と SAMR
-- [[rewriting-curriculum-genai-pedagogy-2026]] — 生成 AI によるカリキュラム変革のレンズの一つとしての SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — 教員の技術基準に情報を与える枠組みの一つとしての SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR のヒューマニズム的存在論に対するポストヒューマニズム批判
-- [[reclaiming-epistemic-agency-co-agency-2026]] — 権力、データの所有、説明責任に関する SAMR の沈黙
-- [[genai-use-changing-institutional-policy-physics-2026]] — 変化する制度的方針のもとでの学生の生成 AI 利用: SAMR の水準に対応づけられた利用機能（Quince & Faulconer 2026）
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

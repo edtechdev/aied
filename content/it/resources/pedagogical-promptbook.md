@@ -34,7 +34,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
-
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -46,6 +46,3 @@ I capitoli spaziano sul [[learning-design|design didattico]] e sulla pratica del
 ## Cosa sapere prima di usarlo
 
 Il libro è ad accesso aperto con licenza CC BY, che è l'estremo permissivo della gamma per i materiali didattici: gli insegnanti possono copiare, adattare e usare i [[prompt-engineering|prompt]], anche a scopo commerciale, purché li attribuiscano correttamente. Questo rende semplice localizzare un prompt per un corso o una configurazione di [[pedagogical-agent|agente]] specifici, cosa che le licenze più restrittive di raccolte simili non consentono. È pubblicato su EdTech Books nel 2026 con download in PDF e DOI 10.59668/2340, a cura di David Wiley. Poiché ogni capitolo riporta il disegno di valutazione oltre al risultato, funziona anche come modello per gli insegnanti che vogliono testare i propri prompt invece di adottare il giudizio di qualcun altro.
-
-## Concetti collegati
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

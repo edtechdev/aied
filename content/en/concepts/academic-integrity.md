@@ -13,6 +13,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, ai-use-disclosure, assessment-validity, ai-literacy, ai-detection, authentic-assessment, assessment, educational-policy-ai, regulation, ethics, equity-in-ai-education, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, misconceptions, generative-ai, higher-ed, k-12, ai-education, legal-issues-and-risks, social-norms-ai-use, reflection]
+connected_articles: [benau-effort-legitimate-academic-work-genai-2026, mcclanahan-ai-cheating-policies-cultural-lag-2026, oyelere-code-programming-assessment-genai-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, hashem-cheating-habitus-ai-governance-discourse-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, kumar-genai-computing-education-systematic-review-2026, mccorkle-aligned-genai-course-policy-2025, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-regulate-ai-syllabi-2026, biology-degree-integrity-genai-cheating-2026, gonsalves-student-non-compliance-ai-declarations-2025, detecting-llm-generated-text-latent-prompt, beyond-detection-authentic-assessment-ai-2025, ai-assessment-scale-reform, authentic-products-authenticated-processes-2026, student-rationalization-ai-writing, ethical-ai-higher-ed-game-theory, shame-guilt-ai-regulation-computing-education, cross-cultural-student-perceptions-genai-computing, luo-dawson-value-judgments-grading-2026, chen-zou-genai-group-assessment-agency-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, coates-governing-academic-integrity-indicators-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, petricini-zipf-ai-use-ethics-matrix-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, genai-higher-ed-agency-responsibility-discourse-2026, genai-governance-australian-higher-ed-2026, argus-academic-integrity-genai-2026, villanueva-ai-vulnerability-assessment-audit-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, reddit-genai-education-discourse-analysis-2026, boyd-swan-employer-responses-genai-2026, airri-machine-resistant-reading-interface-2026, issa-teamwork-framework-academic-integrity-2024, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, crisol-moya-integrity-assessment-2026, ragab-ai-integrity-verification-model-2026, black-box-assessment-winstone-2026, rodak-hire-ai-future-focused-literacy-2026, wyszynski-genai-user-input-engineering-statics-2026, burke-ai-proliferation-college-students-replication-2026, mingole-ai-proofing-higher-education-assessments-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 > **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity [[research-methods-aied|research]] in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
@@ -172,7 +174,6 @@ A PRISMA review of 72 higher-education assessment studies finds three design res
 
 The first Theory of Planned Behavior study of GAIT-based misconduct intention extends this picture: among 186 undergraduates, [[intentions-academic-misconduct-gait-2026|Baig and Paparo (2026)]] found attitudes toward misconduct, subjective norms about it, and positive attitudes toward AI each predicted intention, while negative attitudes toward AI did not, and higher perceived likelihood of detection predicted lower intention — a deterrent undermined by the documented unreliability of AI detection tools.
 
-
 **Integrity policies are shifting from who wrote the words to who had the ideas, and the detectors are being rebuilt to match.** IdeaLens predicts idea provenance from an outline rather than from prose: on 50 stories that people wrote from scratch following AI-generated plans it flagged 68% as AI, against 8% for Pangram 4 and 0% for its prose-trained control, and it labeled 94.7% of AI-polished human text human ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Its own ethics statement calls the output a statistical estimate that must not be used by itself as conclusive evidence of AI use.
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] document the regime from inside one faculty: teachers who had changed assessment formats said it was "virtually impossible to say whether a student has used AI in the writing of assignments", while angry students asked for appeals to conscience and "shaming" rather than detection.
@@ -197,87 +198,3 @@ What resists a capable model is narrower than the AI-proofing literature implies
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
 - **"The problem is marginal."** The volume is far from it: a **six-year analysis of a large-enrollment CS2 course** found **45.7% of Spring 2026 students flagged**. Nearly half a cohort, which makes this a mainstream design problem rather than an edge case.
 - **"Instructors know which assessments are vulnerable."** In a [[biology-education|biology]] department, instructors **perceived only in-person proctored exams as minimally vulnerable**, while outside-of-class assignments were seen as exposed. The perception matched the obvious case and treated everything else as safe.
-
-## Connected Concepts
-- [[pedagogical-patterns]] — Verification sequences adopted in response to generative AI
-- [[ai-use-disclosure]] — AI use and disclosure statements
-- [[assessment-validity]]
-- [[ai-literacy]]
-- [[ai-detection]]
-- [[authentic-assessment]]
-- [[assessment]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[misconceptions]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-- [[social-norms-ai-use]] — the informal rules that sit under formal policy
-- [[reflection]]
-
-## Connected Articles
-
-- [[benau-effort-legitimate-academic-work-genai-2026]] — Effort as a moral value, and ownership rather than hours saved as the test of legitimate AI use
-- [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — policy analysis: AI-cheating rules as cultural lag behind student practice (McClanahan & Dickinson, 2026)
-- [[oyelere-code-programming-assessment-genai-2026]] — position paper: code artifacts no longer evidence authorship, so assessment must move to design and explanation (Oyelere & Kadams, 2026)
-- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Integrity as intellectual accountability for decisions, not proof of unassisted authorship (Bayraktar 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
-- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
-- [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; integrity framing declining (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
-- [[ethical-ai-higher-ed-game-theory]] — Coordination Game Framework for Ethical AI Use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Perceptions of AI Use
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and originality in GenAI-mediated group assessment
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detection’s evidentiary collapse and the case for procedural justice, proportionality, and design
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign as an assessment-design problem under imperfect information
-- [[munoz-misconduct-allegation-evidence-2026]] — What evidence 1,162 GenAI misconduct files actually rested on, and the missing evidentiary threshold
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the transcription-versus-generation distinction
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-based digital cheating and prevention-based ethical pedagogies: the 183-to-27 misconduct case and five discipline-specific redesigns (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] — Integrity as a governance problem: a 130-item indicator framework for academic governors (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Scoping review of 38 studies of higher education student voices on academic integrity and GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Drawing the support-versus-substitution line for EAL writers, and the inequity of rules that ignore language background (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection against AI-mediated grading: hidden instructions that change the grade undetected (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] — The AI-Use Ethics Matrix: anxious compliance, and why clarity alone can push students into efficient circumvention (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — Grading the reasoning trail when AI agents can complete the assignment (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-
-- [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sector audit finding: mandate and framework universities show no difference in assessment exposure, the empirical counterpart to the coordination problem
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct
-- [[reddit-genai-education-discourse-analysis-2026]] — Three and a half years of education Reddit: enforcement dominates, and integrity disputes are the main faculty–student venue (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] — Survey experiment: the substitution framing of student AI use penalizes high-GPA applicants on hiring and salary; in-person testing is the only remedy both groups chose
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
-- [[issa-teamwork-framework-academic-integrity-2024]] — teamwork assessment with per-member verification as an authentication design (Issa & Hall 2024)
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem
-- [[crisol-moya-integrity-assessment-2026]] — 546 students: integrity ranks first and is flat across degree programs (Crisol Moya et al. 2026)
-- [[ragab-ai-integrity-verification-model-2026]] — The AI Integrity Crisis: When Artificial Intelligence Challenges What It Means to Earn a Degree
-- [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
-
-- [[rodak-hire-ai-future-focused-literacy-2026]] — Collaborating With AI Assistants on Future-Focused AI Literacy
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
-- [[burke-ai-proliferation-college-students-replication-2026]] — Two-year replication across five universities: cheating perception down 14 points while 30.2% of self-identified cheaters still use AI
-- [[mingole-ai-proofing-higher-education-assessments-2026]] — AI-proofing strategies benchmarked: only added complexity resisted (Mingole et al., 2026)
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039
-- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution

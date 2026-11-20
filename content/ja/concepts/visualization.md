@@ -16,6 +16,8 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -67,26 +69,3 @@ ai_assist:
 - **「より良い可視化は、より良い成果を生む。」** 教師は**より単純で伝統的な可視化（棒グラフ、円グラフ、凡例）を体系的に好みました**。**ヒートマップのような複雑なデザインがより詳細な洞察をもたらすときでさえ**、です。より情報量の多い成果物が使われるものではありませんでした。採用は、デザインの質とは別の問題なのです。
 - **「学生は足場のあるところを見る。」** ある研究では、**精巧な視覚的足場にもかかわらず、学生の注視の大半はコードに向かっていました**。補助は注意を捉えなかったのです。存在しても見られない視覚的支援は、何も変えません。
 - **「関与と理解は一緒に動く。」** 参加者はAI生成のデータコミックを**より関与的で理解しやすい**と評価しましたが、**多くが誤情報のリスクと情報過多も指摘しました**。どちらの反応も同じ成果物から生じたのです。したがって、肯定的な受け止めは、検証された読み取りではありません。
-
-## 関連概念
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — 空間的・3次元的な表現
-
-## 関連記事
-
-- [[interactive-learning-dashboards-engagement]] — 教育エージェントを通じて学習可視化をエンゲージメント促進ツールとして再考する
-- [[mllm-scientific-visualization-literacy]] — 科学的可視化リテラシーに関するマルチモーダルLLMのベンチマーク評価
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 原子力概念の可視化に向けたドメイン適応型テキスト画像生成モデル
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI支援データコミックの有効性、利点、倫理
-- [[cfes-p24-multimodal-slide-auditing-2026]] — マルチモーダルなスライド監査のための反実仮想ベンチマーク
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンデッド型教室でMLの知見を教師が理解・活用できるようにする
-- [[genai-visualization-education-framework-2026]] — チャートではなく意味を構築する:可視化教育における生成AI活用のための認知・教授フレームワーク
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 次世代の文献レビュー:新進研究者のための実践的AIガイド

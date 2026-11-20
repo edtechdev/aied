@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -101,51 +103,3 @@ ai_assist:
 - **「教師に最も必要なのは技術的な AI 知識である」** **46 人の教師と 2,832 人の学生**にわたって、**教師の教授法的な AI 知識**が、学生の「社会のための AI」についての知覚を予測しました。教授法的な知識は技術的な知識を上回り、それは訓練への投資の大半が向かう先を反転させます。
 - **「教育における AI の主な貢献は教授である」** **28 件の研究の PRISMA レビュー**は、AI が最も頻繁に**教授の計画と評価の設計**を強化したことを見出しました。最も明確な貢献は**管理業務の外部委託**であり、教授ではありません。教授上の伸びを中心に据えた主張は、エビデンスの弱い枝の上に築かれています。
 - **「AI リテラシーの指導は自動的に良い教授に移転する」** **59 件の研究（172 の効果量）**の三層のメタ分析は、**知識志向の介入（g ≈ .97）**が知識を動かす点で他のアプローチを明確に上回ったことを見出しました。動かされたのは知識であり、測定された成果です。それが実践に届いたかどうかは次の問いです。
-
-## 関連する概念
-- [[pedagogical-partnerships]] — 教授学的パートナーシップ
-- [[online-teaching-and-learning]] — オンライン教授と学習
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — 教授技法としてのメタファーとアナロジー
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 教授技法としてのケースメソッドと対比ケース
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — 教授法的な原理に従うよう訓練された AI ツール
-
-## 関連する記事
-- [[genai-didactic-pedagogical-mediator-2026]] — 教授的・教授法的媒介者としての生成 AI——教師——学生——生成 AI の三項モデル（Moganadas et al. 2026）
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 「まず教授法、次に技術」——TPAIK が学生の成果に対して技術的な TAIK に勝る（Shen et al. 2026）
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — 生成 AI との教授学的パートナーシップ
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — 指導的な誘導が生成 AI の学習への効果をどう形づくるか
-- [[generative-ai-guardrails-harm-learning]] — ガードレール付き（答えではなくヒント）の個別指導が、試験のペナルティを取り除く
-- [[agentic-ai-pedagogical-best-practice-2026]] — エージェント的 AI における自動化対学習の緊張
-- [[jeon-isd-agent-bench-2026]] — 教授設計の理論にエージェントを接地すること
-- [[ai-learning-tools-engineering-education-needs]] — 工学教育における AI 学習ツール
-- [[fowlin-operationalizing-learning-principles-ai]] — AI を用いて学習の原理を運用化すること
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI と教授設計の実践——系統的レビュー（Kibar & Ilgaz 2026）
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI リテラシーの介入における教授のアプローチ
-- [[cognitive-distribution-student-genai-interaction-2026]] — 学生と AI の相互作用は固定的な依存ではなく移り変わる認知的分配である（拡張が 53.3%）

@@ -25,7 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -39,8 +39,3 @@ ai_assist:
 ## למי הוא מיועד
 
 למעצבי הוראה ויוצרי קורסים שרוצים שהתוכן שלהם ישרוד החלפת כלים, לספקי למידה-אלקטרונית שרוצים פורמט ייבוא וייצו שהמשתמשים שלהם כבר מבינים, ולכולם הבונים חיבור בסיוע-AI מעל פורמט קריא. בין התורמים דן באשו מ-LXD Integral, ולפורמט יש יומן-שינויים ציבורי עד v1.8.
-
-## מושגים מקושרים
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

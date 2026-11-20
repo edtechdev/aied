@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,11 +51,9 @@ Davis (1989) প্রস্তাবিত TAM গ্রহণ ব্যাখ�
 
 **প্রযুক্তি গ্রহণ ও ব্যবহারের একীকৃত তত্ত্ব** TAM-কে আটটি পূর্ববর্তী মডেলের সঙ্গে চারটি মূল নির্ধারকে সংহত করে — কর্মক্ষমতা-প্রত্যাশা, শ্রম-প্রত্যাশা, সামাজিক প্রভাব এবং সহায়ক অবস্থা (UTAUT2 যোগ করে আনন্দময় প্রেরণা, মূল্য-মূল্য ও অভ্যাস; UTAUT3 যোগ করে ব্যক্তিগত উদ্ভাবনপ্রবণতা)। জ্ঞানভাণ্ডার শিক্ষক ও শিক্ষার্থী উভয় জনগোষ্ঠীতে UTAUT প্রয়োগ করে: [[mathematics-teachers-chatbot-motivation-2026|অস্ট্রীয় মাধ্যমিক গণিত শিক্ষক]] (448 শিক্ষক নিয়ে UTAUT), [[pre-service-science-teachers-ai-perceptions-2026|ঘানার প্রাক-সেবা বিজ্ঞান শিক্ষক]] (UTAUT + TPB), এবং [[tian-genai-learning-adoption-pathways-2026|লেসোথোর শিক্ষার্থী]] (UTAUT3 + ARCS, PLS-SEM ও fsQCA ব্যবহার করে)। [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] 522 বিশ্ববিদ্যালয় শিক্ষার্থীর জন্য ব্যাখ্যাযোগ্য এআই (Random Forest, SHAP, NCA, IPMA, K-Means) দিয়ে UTAUT2 সম্প্রসারিত করেন, **অভ্যাস**-কে ChatGPT ইচ্ছার সবচেয়ে শক্তিশালী পূর্বাভাসক পান এবং দেখান **শ্রম-প্রত্যাশা রৈখিক চালক নয়, বরং একটি প্রয়োজনীয় শর্ত** — ফলাফল যা কেবল তখনই দৃশ্যমান হয় যখন XAI রিগ্রেশনকে পরিপূরক করে।
 
-
 **ইতিমধ্যে গ্রহণ করা নমুনায় অভ্যাসই মডেল বহন করে, আর প্রত্যাশাগুলো নীরব হয়ে যায়।** [[pinedo-genai-adoption-marketing-students-2026|Pinedo প্রমুখ (2026)]] দুই লাতিন আমেরিকান বিশ্ববিদ্যালয়ের 310 জন [[business-education|মার্কেটিং শিক্ষার্থীর]] ওপর UTAUT2 পরীক্ষা করেন: অভ্যাস ইচ্ছা পূর্বাভাস দেয় β = 0.426-এ এবং ব্যবহার β = 0.412-এ, আর ইচ্ছা ব্যবহার পূর্বাভাস দেয় 0.324-এ। কর্মক্ষমতা-প্রত্যাশা (0.037), শ্রম-প্রত্যাশা (0.054) ও সামাজিক প্রভাব (0.048) তাৎপর্যপূর্ণ ছিল না, এমন একটি মডেলে যা ইচ্ছার R² = 0.665 ও ব্যবহারের 0.707 ব্যাখ্যা করে। লেখকেরা শূন্য পথগুলোকে ইতিমধ্যে সরঞ্জামটি গ্রহণ করা জনগোষ্ঠীর প্রকরণ-সীমাবদ্ধতা হিসেবে পড়েন; ফলাফলটি [[self-report-measures|স্ব-প্রতিবেদিত]] ব্যবহার, লগকৃত আচরণ নয়।
 
 **কম-সম্পদ প্রেক্ষাপটে সামাজিক প্রভাব নয়, উদ্বেগই আবেগিক পথ বহন করেছে।** 350 জন ঘানার মানববিদ্যা স্নাতকের সঙ্গে একটি UTAUT সম্প্রসারণ দেখে কর্মক্ষমতা-প্রত্যাশা ইচ্ছার সবচেয়ে শক্তিশালী পূর্বাভাসক (β = 0.377) এবং শ্রম-প্রত্যাশা দ্বিতীয় (β = 0.281), সামাজিক প্রভাব শূন্য (β = −0.038), আর ডিজিটাল শিখন-উদ্বেগ β = −0.281-এ ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor প্রমুখ, 2026]])। শ্রম-প্রত্যাশা উদ্বেগও কমিয়েছে (β = −0.126), তাই ব্যবহার-সহজতা আংশিকভাবে তা নামিয়ে কাজ করেছে।
-
 
 ### পরিকল্পিত আচরণের তত্ত্ব (TPB)
 
@@ -88,9 +88,7 @@ TOE গ্রহণকে প্রযুক্তিগত, প্রাতি�
 - **শিক্ষকদের জন্য গ্রহণ-লিভার হিসেবে [[explainable-ai|ব্যাখ্যাযোগ্যতা]] ও ক্ষেত্র-প্রাসঙ্গিকতা:** এআই সুপারিশের প্রতি শিক্ষকদের গ্রহণে অটোমেশন-আস্থা তত্ত্ব অভিযোজিত করে [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] দেখেন বোধগম্যতা (ব্যাখ্যাযোগ্য এআই দ্বারা বর্ধিত) একটি এআই গ্রুপিং উপকরণের প্রতি আস্থা ও গ্রহণ দুটোর সঙ্গেই ধনাত্মকভাবে সম্পর্কিত, এবং [[curriculum-design|পাঠ্যক্রমিক]] ভাষায় ক্ষেত্র-চালিত ব্যাখ্যা তিনটিতেই ডেটা-চালিত বৈশিষ্ট্য-গুরুত্বের চেয়ে ভালো করেছে। গ্রহণ অতিরিক্তভাবে [[pedagogy|শিক্ষাগত]] সারিবদ্ধতা ও কর্মভার-হ্রাসের সম্ভাবনা দ্বারা চালিত হয়েছিল — আস্থার বাইরের পরিস্থিতিগত উপাদান যা মানক TAM/UTAUT নির্মাণ বিরলভাবে ধরে, এবং প্রসঙ্গ ও ব্যাখ্যাযোগ্যতা দিয়ে গ্রহণ-মডেল সম্প্রসারণের পক্ষে যুক্তিকে জোরদার করে।
 - **নির্দেশনা-উপকরণের স্তরে মাপা গ্রহণ (2026)।** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang ও Wu (2026)]] দুই বয়স-স্তরীয় এআই সাক্ষরতা নির্দেশিকা ব্যবহার করা 794 জন [[k-12]] শিক্ষার্থী ও 37 জন শিক্ষকের জন্য কর্মক্ষমতা-প্রত্যাশা, শ্রম-প্রত্যাশা, অনুভূত ক্রীড়াশীলতা এবং আচরণগত ইচ্ছা পরিচালন-নির্দিষ্ট করেন, বিভক্ত-নমুনা EFA ও CFA দিয়ে চার-উপাদান কাঠামো যাচাই করেন এবং 9-12 ও 13-18 সংস্করণ জুড়ে পরিমাপ-অপরিবর্তনশীলতাকে সমর্থন করেন। অল্পবয়সী শিক্ষার্থীরা চারটি নির্মাণেই উচ্চতর স্তর প্রতিবেদন করেছে, এবং দুই দলেই ক্রীড়াশীলতা ইচ্ছার সবচেয়ে শক্তিশালী সম্পর্কক ছিল — অল্পবয়সী দলে ক্রীড়াশীলতা-থেকে-ইচ্ছার মানকায়িত সহগ 1.00 ছাড়িয়ে যায় এবং দুই নির্মাণের মধ্যে HTMT .950। লেখকরা এটিকে বিশাল প্রভাব নয়, বরং নির্মাণ-ওভারল্যাপ ও সম্ভাব্য দমন হিসেবে পড়েন — একটি কাজের স্মারক যে উপকরণে প্রয়োগ করা গ্রহণ-সরঞ্জাম পরীক্ষামূলকভাবে জড়িয়ে যাওয়া উপাদান তৈরি করতে পারে যা কাঠামোগত ব্যাখ্যাকে জটিল করে।
 
-
 22 জন অনুষদের দুই-তরঙ্গের সাক্ষাৎকার-গবেষণায় এআই নিয়ে বেশি জানা কিছুকে বেশি গ্রহণকারী নয়, বরং বেশি সতর্ক করে তুলেছে, যা অভিজ্ঞতা থেকে ব্যবহার-সহজতায় মডেলের ধরে নেওয়া দিকটিকে উল্টে দেয় ([[stalboerger-faculty-perceptions-2026|Stalboerger প্রমুখ, 2026]])।
-
 
 ## সীমা ও সম্প্রসারণ
 
@@ -102,7 +100,6 @@ TAM-এর জ্ঞানীয় কেন্দ্রবিন্দু এ�
 
 একটি সাম্প্রতিক সম্প্রসারণ স্বাভাবিক দিক উল্টে দেয়, [[discipline-specific-aied|বিষয়-নির্দিষ্ট]] প্রেরণামূলক বিশ্বাসকে TAM-ধারণার পাশে নয়, তার উর্ধ্বে রাখে। [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ও Lu (2026)]] প্রতিবেদন করেন উপযোগিতা-মূল্য অনুভূত উপকারিতা পূর্বাভাস দেয় β = 0.43-এ এবং সাফল্যের প্রত্যাশা ব্যবহার-সহজতা পূর্বাভাস দেয় β = 0.39-এ, অথচ মূল TAM পথগুলো দুর্বল হয় কিন্তু তাৎপর্যপূর্ণ থাকে।
 
-
 **সমান্তরাল পথ হিসেবে কাজ-প্রযুক্তি উপযোগিতা, আর আলাদা প্রশ্ন হিসেবে প্রয়োজনীয়তা।** উপরের অধিকাংশ সম্প্রসারণ বিশ্বাস-মডেলের *ভেতরে* ধারণা যোগ করে। TAM গবেষণায় বিরল একটি সহোদর কাঠামো হলো Task–Technology Fit, যা জিজ্ঞাসা করে একটি সরঞ্জামের সক্ষমতা নির্দিষ্ট কাজের চাহিদার সঙ্গে মেলে কি না। [[chu-design-students-ai-agent-tam-ttf-2026|Chu ও Liu (2026)]] চীনের বিশ্ববিদ্যালয়ের 405 জন ডিজাইন স্নাতকোত্তর শিক্ষার্থীর মধ্যে দুটোকে যুক্ত করেন, এবং উপযোগিতা নির্ধারক নয়, মনোভাবের দ্বিতীয় পথ হিসেবে কাজ-উপযোগিতা কাজ করে।
 
 কাজ-বৈশিষ্ট্য উপযোগিতায় ঢোকে β = 0.322-এ এবং প্রযুক্তি-বৈশিষ্ট্য β = 0.266-এ। তারপর উপযোগিতা মনোভাবে ঢোকে β = 0.224-এ, অনুভূত উপকারিতা (0.376) ও অনুভূত ব্যবহার-সহজতার (0.185) পাশে, আর মনোভাব ইচ্ছায় ঢোকে β = 0.388-এ। স্ব-কার্যকারিতা সবচেয়ে বড় উর্ধ্বগামী সহগ বহন করে — উপকারিতায় 0.458 এবং ব্যবহার-সহজতায় 0.394। অনুভূত আনন্দ ব্যবহার-সহজতা বাড়ায় (0.220) এবং উপকারিতাকে অছুঁয়ে রাখে (−0.033, p = 0.483) — একটি উপকরণিক/আবেগিক বিভাজন যা ধ্রুপদী মডেল আঁকে না।
@@ -113,7 +110,6 @@ TAM-এর জ্ঞানীয় কেন্দ্রবিন্দু এ�
 
 Necessary condition analysis তখন প্রভাব থেকে প্রয়োজন আলাদা করে। শীর্ষ-ক্রমের পূর্বাভাসক ব্যবহার-সহজতা সরাসরিই ব্যর্থ হয় (d = 0, p = 0.592)। উপকারিতা প্রয়োজনীয় ছিল কিন্তু ছোট (d = 0.027, p = 0.011)। লেখকেরা এই বিভাজনকে পথ-সহগকে মেঝে ধরে নেওয়ার বিরুদ্ধে সতর্কতা হিসেবে পড়েন। শক্তিশালী সহগ বলে এক একক ব্যবহার-সহজতা গড়ে ইচ্ছা কিনে; কেবল প্রয়োজনীয়তাই বলে অন্য বিশ্বাসটি অনুপস্থিত থাকতে পারে কি না।
 
-
 ঝুঁকির সঙ্গে ব্যবহারের সম্পর্ক ব্যবস্থার উপরও নির্ভর করে: TALIS 2024-এর যে 49টি ব্যবস্থা আইটেমগুলো পরিচালনা করেছে, তাদের সবগুলোতেই অনুভূত এআই উপযোগিতা এআই ব্যবহারের সঙ্গে ধনাত্মকভাবে সম্পর্কিত ছিল, অথচ অনুভূত ঝুঁকি ঋণাত্মকভাবে সম্পর্কিত ছিল 40টিতে এবং ধনাত্মকভাবে নয়টিতে ([[teachers-ai-belief-profiles-talis-2024-2026|Fang ও Jin (2026)]])।
 
 **কর্মক্ষমতা-প্রত্যাশা এমন সম্পর্ক বহন করতে পারে যা গ্রহণ-গবেষণা ব্যবহারের ইচ্ছা হিসেবে পড়ে।** [[kim-overtrust-ai-literacy-2026|Kim, Kim ও Zhang (2026)]]-এ কর্মক্ষমতা-প্রত্যাশা এআই অতিবিশ্বাস পূর্বাভাস দেয় B = 0.6107-এ এবং ছিল প্রথম মধ্যস্থকারী যা দিয়ে স্ব-কার্যকারিতা, অন্তর্নির্হিত প্রেরণা ও [[motivation|বহির্নির্হিত প্রেরণা]] অতিবিশ্বাসে পৌঁছায়। কেবল-প্রত্যাশার পরোক্ষ পথ তিনটি পূর্বাভাসকের জন্যই ধনাত্মক ছিল, স্ব-কার্যকারিতার জন্য 0.1355 (95% CI [0.0542, 0.2330]), তাই প্রত্যাশা কেবল শিক্ষার্থীরা উপকরণটি ব্যবহার করবে কি না তা পূর্বাভাস দিচ্ছিল না।
@@ -123,57 +119,3 @@ Necessary condition analysis তখন প্রভাব থেকে প্র
 - **"TAM-এর নির্মাণগুলো গ্রহণ ব্যাখ্যা করে।"** [[socio-cognitive-genai-adoption-engineering-2026|Asag ও Al Mamun]] বাংলাদেশের প্রকৌশল শিক্ষার্থীদের জন্য TAM-কে UTAUT-এর সঙ্গে সংহত করে ভেদাঙ্কের **64%** ব্যাখ্যা করেন। যথেষ্ট এবং অসম্পূর্ণ একইসঙ্গে: গ্রহণকে চালায় এমন প্রায় এক-তৃতীয়াংশ চিরায়ত গ্রহণ-নির্মাণের বাইরে থাকে।
 - **"গ্রহণ-মডেলের ক্ষেত্র-পরিবর্তন দরকার নেই।"** চিরায়ত নির্মাণে **অনুভূত কৃত্রিম স্বায়ত্তশাসন** — শিক্ষকরা বিশ্বাস করেন GenAI একটি নির্দিষ্ট শিক্ষাগত কাজ কতটা স্বাধীনভাবে করতে পারে — এবং **ঝুঁকি-বিমুখতা** যোগ করলে মডেল বস্তুতভাবে বদলে যায়। মূল নির্মাণগুলো এজেন্সিহীন উপকরণের জন্য গড়া হয়েছিল, অথচ GenAI-এর অনুভূত এজেন্সি আছে।
 - **"মেটা-বিশ্লেষণমূলক গ্রহণ-অনুমান যেকোনো জনগোষ্ঠী বর্ণনা করে।"** [[teo-ai-adoption-tertiary-meta-analysis-2026|উচ্চশিক্ষার শিক্ষার্থীদের মেটা-বিশ্লেষণ]] হলো জনগোষ্ঠী-স্তরের অনুমান; 64% ব্যাখ্যাকারী প্রকৌশল ফলাফল একটি নির্দিষ্ট জনগোষ্ঠী। একটিকে অন্যটির উপর আরোপ করা এমন স্থিরতা ধরে নেয় যা প্রমাণ প্রতিষ্ঠা করে না।
-
-## সংযুক্ত ধারণা
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — TAM-ধারণার উর্ধ্বে রাখা বিষয়-নির্দিষ্ট বিশ্বাস
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — "frenemy" হিসেবে GenAI: কৃত্রিম স্বায়ত্তশাসন ও ঝুঁকি-বিমুখতা শিক্ষকদের জন্য TAM সম্প্রসারিত করে (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — নার্সিংয়ে এআই অভিজ্ঞতা; TAM-এর মনোসামাজিক সম্প্রসারণ
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — গুচ্ছবিশ্লেষণে GenAI গ্রহণ-ব্যক্তিত্ব
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI গ্রহণে সমমিত ও অসমমিত পথ (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — লিঙ্গ ও প্রেরণা অনুসারে ভিন্ন GenAI সম্পৃক্ততা
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — উচ্চশিক্ষায় প্রাতিষ্ঠানিক এআই গ্রহণের TOE + DOI মডেল
-- [[tam-critical-use-genai-engineering-2026]] — প্রকৌশল/সিএস শিক্ষার্থীদের জন্য সমালোচনামূলক ব্যবহারসহ সম্প্রসারিত TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — প্রকৌশল শিক্ষার জন্য একীকৃত সামাজিক-জ্ঞানীয় মডেল (TAM + UTAUT)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — এআই উদ্বেগ থেকে কৌশলগত নিয়ন্ত্রণে
-- [[genai-reliance-types-scale]] — GenAI নির্ভরতার ধরন স্কেল
-- [[llm-reliance-types-undergrad]] — স্নাতকদের মধ্যে LLM নির্ভরতার ধরন
-- [[acceptance-ai-english-tools-2026]] — এআই ইংরেজি উপকরণ গ্রহণ
-- [[genai-chatgpt-adoption-ethics-students-2026]] — শিক্ষার্থীদের ChatGPT গ্রহণের আচরণগত ও নৈতিক চালক
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT ও শিক্ষকদের চ্যাটবট প্রেরণা
-- [[pre-service-science-teachers-ai-perceptions-2026]] — ঘানার প্রাক-সেবা বিজ্ঞান শিক্ষকদের জন্য UTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — প্রাক-সেবা শিক্ষকদের ChatGPT গ্রহণ-প্রোফাইল (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — এআই গ্রহণ-উপাদানের মেটা-বিশ্লেষণ; TAM/UTAUT-এর সমালোচনা
-- [[determinants-chatgpt-use-higher-education-2026]] — উচ্চশিক্ষায় ভবিষ্যৎ ChatGPT ব্যবহারের এমএল/SHAP নির্ধারক
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-বর্ধিত UTAUT2: অভ্যাস সবচেয়ে শক্তিশালী পূর্বাভাসক, চারটি গ্রহণ-প্রোফাইল (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — বয়স-স্তরীয় এআই সাক্ষরতা নির্দেশিকার উপকরণ-স্তরের PE/EE/ক্রীড়াশীলতা/ইচ্ছা মডেল, নথিভুক্ত ক্রীড়াশীলতা-ইচ্ছা নির্মাণ-ওভারল্যাপসহ
-- [[risk-perception-genai-perceived-benefits-2026]] — TAM/UTAUT2-তে ভাঁজ করা CAT + PMT: অনুভূত GenAI সুবিধায় মাত্রা-নির্দিষ্ট ও অ-একমুখী ঝুঁকি-প্রভাব (Du, Ning, Shi ও Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — পরিকল্পিত আচরণের তত্ত্ব গ্রহণ-মডেলে TPACK সামর্থ্য জোড়া দেওয়ার ক্রমানুসারী বিকল্প
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49টি ব্যবস্থা জুড়ে অনুভূত এআই উপযোগিতা ও ঝুঁকির ব্যক্তি-কেন্দ্রিক TALIS 2024 প্রোফাইল
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-সহায়িত শেখার গড়িমসি মাপা ও ইচ্ছা-বিলম্ব সম্পর্কে উদ্বেগের মধ্যস্থতা নিয়ে TPB সম্প্রসারণ
-- [[kim-overtrust-ai-literacy-2026]] - প্রেরণা ও স্ব-কার্যকারিতা থেকে এআই অতিবিশ্বাসে পথের মধ্যস্থতা করেছিল কর্মক্ষমতা-প্রত্যাশা
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - স্ব-কার্যকারিতা ও গ্রহণের মধ্যস্থকারী হিসেবে এআই সাক্ষরতা, অ-সংশোধিত উদ্বেগ-সম্পর্কসহ (İşbulan et al. 2026)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM-এর সঙ্গে Task–Technology Fit, নেটওয়ার্ক-গুরুত্ব ক্রম ও প্রয়োজন-শর্তের সীমাসহ (Chu ও Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM বিশ্বাসের উর্ধ্বে নকশা-বৈশিষ্ট্য, আর এমন গুরুত্ব যা প্রয়োজনীয়তা নয়
-- [[pinedo-genai-adoption-marketing-students-2026]] — ইতিমধ্যে গ্রহণ করা জনগোষ্ঠীতে UTAUT2 বহন করে অভ্যাস
-- [[stalboerger-faculty-perceptions-2026]] — 22 জন অনুষদ, 12টি ফলো-আপ: পরিচিতি কারও কারও নৈতিক যাচাই কঠোর করেছে, ব্যবহার-সহজতার দিক উল্টে দিয়ে (Stalboerger প্রমুখ 2026)
-

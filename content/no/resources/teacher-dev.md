@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -47,7 +48,3 @@ Lærere i grunnskole og videregående som vil ha et verktøy for et bestemt prob
 ## Merknader og forbehold
 
 Tempoet er både salgsargumentet og risikoen. Endagsbygg sikter mot et reelt klasseromsproblem, ikke mot et forskningsspørsmål, så ingenting her har en evaluering, og en påstand om hva en app gjør bør testes i klasserommet. Trettito offentlige repoer ligger i GitHub-organisasjonen mens galleriet lister 34, alle Apache-2.0 med tilgjengelig kildekode, så en app kan leses og selvhostes. Lokal-først-design er en påstand som må verifiseres per app, og en lærer bør bekrefte det før et studentvendt verktøy settes foran en klasse.
-
-## Tilknyttede begreper
-
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

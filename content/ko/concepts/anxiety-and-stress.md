@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -125,59 +127,3 @@ AI는 안심이 아니라 학습 목표를 진전시킴으로써 학업 불안�
 - **"AI 불안은 순전히 해롭습니다."** 이 불안은 **순수하게 부정적이지 않습니다**. [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]]은 **AI 불안이 생산적일 수 있다**고 발견하며, 더 높은 불안은 더 전략적인 조절과 연관됩니다. 불안은 부담으로만이 아니라 더 세밀하게 검토하라는 신호로 기능합니다.
 - **"불안한 학생은 모두 같은 방식으로 반응합니다."** Kim의 **네 가지 조절 유형, 즉 비판적 무의존 18.7%, 선택적 통합 34.6%, 평가적 변혁 31.8%, 전략적 거부 14.9%**는 불안이 이끄는 검토가 **네 가지 서로 다른** 양상을 만든다는 것을 보여줍니다. "불안한 학생"을 겨냥한 개입은 가장 큰 단일 집단이 선택적으로 통합하고 있다는 사실을 놓칩니다.
 - **"불안은 언제나 참여를 억제합니다."** 그 재규정에는 **말하기에서의 경계**가 있습니다. **708명의 영어 학습자** 사이에서 말하기 불안과 의지의 연결은 **말하기 자기효능감이 낮을 때 −0.371, 높을 때 +0.137**이었습니다. 자기효능감이 높으면 불안이 의지를 동반할 수 있으므로, 효과의 방향은 자신감에 달려 있습니다.
-
-## 연결된 개념
-
-- [[career-development-and-readiness]] — AI 불안에 대한 보호 요인으로서의 경력 준비도
-- [[well-being]] — 이 개념이 깊이 전개하는 넓은 우산
-- [[remote-proctoring]] — 감시/거짓 고발 스트레스의 주요 원천
-- [[social-emotional-learning]] — 관련된 정서적 역량
-- [[affective-computing]] — 정서 상태를 읽는 AI
-- [[affective-tutoring]] — 정서에 반응하는 AI
-- [[academic-integrity]] — 진정성/부정행위 고발 차원
-- [[privacy]] — 프로크터링 스트레스의 배후에 놓인 감시 우려
-- [[student-experience]] — 학습자 경험의 일부로서의 불안
-- [[motivation]] — 도입과 참여에 대한 불안의 효과
-- [[self-regulated-learning]] — 생산적 불안의 연결
-- [[ai-literacy]] — 근거 없는 불안을 줄이는 역량 세우기
-- [[equity-in-ai-education]] — 취약한 학생들에게 불균형한 스트레스
-- [[ethics]] — 감시와 거짓 고발의 공정성
-- [[teacher-role]] — 교육자 쪽의 불안
-- [[assessment]] — AI 매개 평가 불안
-- [[social-norms-ai-use]] — 가시성의 정서적 비용
-
-## 연결된 문서
-
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 역량이 윤리 인식을 높이고, 윤리 인식이 AI 불안을 높인다: 584명의 학생들 사이의 간접 전용 매개
-- [[ai-anxiety-strategic-regulation-writing-2026]] — 생산적 전략적 조절 신호로서의 AI 불안
-- [[aivaluate-anxiety-assessment-2026]] — AI 매개 성과 기반 평가에서의 학생 불안
-- [[ai-campus-wellbeing-tools]] — 캠퍼스 웰니스를 위한 AI 기반 도구
-- [[affective-text-wearable-student-health]] — 학생 건강을 위한 정서 텍스트 + 웨어러블 감지
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 자동 프로크터링, 응시자 불안, 거짓 고발
-- [[automated-online-exam-proctoring-decade-review-2026]] — 자동 시험 감독의 10년 검토
-- [[moral-panic-genai-classroom]] — GenAI에 대한 교수진 불안과 도덕적 공황
-- [[acceptance-ai-english-tools-2026]] — AI 도구 수용을 형성하는 불안
-- [[teacher-education-ai-literacy-sdt-2026]] — 교사 교육, AI 리터러시, 그리고 불안
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 불안, 신뢰, 자신감과 뒤엉킨 AI 사용
-- [[qu-wang-disclose-or-not-genai-2026]] — 학생 스트레스의 원천으로서의 공개 딜레마
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 불안과 개입에 관한 종합 분석
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — AI 불안을 줄이는 경력 적응 능력
-- [[duan-ai-anxiety-career-decisions-college-2026]] — 경력 적응성을 통해 경력 결정을 손상시키는 AI 불안
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — 구직 불안을 예측하는 AI 불안과 태도
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 보건 과학에서 구직 불안을 예측하는 AI 불안
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 대학 교사들의 GAI 경험과 인식: 취약성, 평가 재고찰, 위험에 처한 학생 학습 (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 머신러닝을 사용한 파키스탄 대학생의 스트레스 탐지와 웰니스 지원을 위한 문화 인식 AI 챗봇
-- [[school-support-ai-learning-anxiety-control-value-2026]] — 주로 통제-가치 평가를 통해 AI 학습 불안을 낮추는 지각된 학교 지원 (69.5% 매개); ANN 교차 검증 (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 죄의식 콤플렉스: 학술진 사이에서 사용 후 후회를 넘어서는 예기적 죄의식 (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon의 1,057명의 미국 교수진 설문: 과의존, 진정성 우려, 축소되는 교수진 역할에 대한 예측 (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — 두려움에서 호기심으로: 정체성 위협을 통과하는 교수진을 움직이는 6주 연수 (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — AI 매개 작업에서 정서 노동으로서의 학술 개발자들의 가면 증후군적 느낌과 윤리적 불편함
-- [[parlant-emotional-micro-interventions-2026]] — 인지 평가 이론에 기반한 교수자 쪽의 실시간 정서적 미시 개입
-- [[ai-employment-threat-career-anxiety-2026]] — AI 고용 위협과 경력 의사결정 불안: 지각된 고용 가능성이 매개하고 성장 마인드셋이 조절함
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI 숙련도와 1학년 적응 사이의 연결을 약화시키는 AI 사용 압력
-- [[ai-attitude-latent-profiles-career-development-2026]] — AI 불안과 지각된 AI 품질 모두에서 높은 하나의 프로필, 둘 중 하나가 아닌
-- [[ai-speaking-practice-communicative-readiness-2026]] — 말하기 자기효능감이 높을 때 반전되는 말하기 불안의 의사소통 의지 연결
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 학습 목표 진전을 통해 학업 불안을 낮추는 지각된 AI 조수 지능 (의대생)
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 시험관을 닮은 에이전트가 측정된 말하기 수행과 불안을 동시에 높였다
-- [[petricini-ai-literacy-communication-equity-2026]] — 기초 의사소통 강좌의 AI 리터러시: 형평성, 동기, 불확실성 줄이기에 관한 통찰
-- [[tischkau-ai-simulated-patient-formats-2026]] — 집단 참가자 일곱 명 중 다섯 명이 학급 동료 앞에서 아바타 환자를 면담하는 것이 불편하다고 사적으로 보고

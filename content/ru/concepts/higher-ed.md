@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [undergraduate-education, graduate-education, pedagogical-patterns, online-teaching-and-learning, generative-ai, llm, student-experience, educational-development, academic-integrity, ai-literacy, assessment-validity, educational-policy-ai, regulation, remote-proctoring, self-directed-learning, problem-based-learning, teacher-role, stakeholders, arts-and-media-education, student-support-and-success]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, sangwa-epiq-ai-faculty-readiness-2026, ai-in-the-wild-college, institutional-change-framework-ai, genai-availability-grades-satisfaction, ai-assessment-scale-reform, universities-ai-era-rethinking, teacher-ai-adoption-confidence, enright-staff-perspectives-genai-2026, alrahmi-org-drivers-ai-adoption-he-2026, luo-eaton-ai-student-feedback-ethics-2026, beyond-detection-authentic-assessment-ai-2025, genai-student-experiences-uk-he-survey-2026, ithaka-sr-ai-skills-college-graduates-2026, generative-ai-reduced-study-time-math, ai-uk-higher-education-policy-2026, ai-tools-academic-work-cheating-2026, assessing-quality-ai-generated-exams-field-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, student-perceptions-ai-study-productivity-2026, stenalt-good-education-teacher-ai-conceptions-2026, ai-digital-transformation-liberal-arts-lingnan-2026, alsheikh-mapping-ai-integration-higher-education-2026, farazouli-navigating-uncertainty-teachers-genai-2026, gpt4-feedback-student-activation-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, dai-chan-responsible-genai-research-ai-literacy-2026, engagement-intensity-learner-modeling, ai-assisted-writing-research-teams, studentbench-ai-human-tutoring-gre-2026, sun-student-genai-entanglement-literacy-demands-2026, students-at-stake-ai-deployment-risks-2026, airri-machine-resistant-reading-interface-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ranieri-biagini-ai-higher-education-taxonomy-review-2026, ai-ethics-tensions-online-pedagogy-2026, ai-literacy-determinants-university-students-2026, faculty-ai-well-being-social-supports-2026, zaripova-genai-self-regulation-neuroai-competence-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, jacome-vasconez-chatgpt-adoption-xai-2026, kong-ai-employability-cognitive-engagement-2026, klapproth-constructive-alignment-genai-2026, meng-synthetic-credentialism-framework-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -101,67 +103,3 @@ ai_assist:
 - **«Институциональное внедрение ИИ созрело».** **Символический слой насыщен, а структурный тонок**: **100% имеют целевую группу по ИИ и магистерскую программу по ИИ, но лишь 12% имеют исполнительное ИИ-руководство**, и лишь 5% требуют дополнительного институционального шага. Объявления опередили структуры на порядок.
 - **«Престиж предсказывает институциональную зрелость в ИИ».** Институционализация оказалась **независимой от престижа (ранговая корреляция r ≈ 0,04)**, со значимой **региональной вариацией (ANOVA F = 5,86, p < ,001)**. Репутация не является прокси готовности, и география предсказывает больше, чем статус.
 - **«То, как ИИ распределяет эпистемическую работу, одинаково во всех учреждениях».** [[sun-student-genai-entanglement-literacy-demands-2026|Сан, Дон и Рем (2026)]] классифицировали **102 эмпирических исследования высшего образования** по тому, как распределялась эпистемическая работа, и вариация здесь — сама находка, а не деталь.
-
-## Связанные понятия
-
-- [[pedagogical-patterns]] — уровень, на котором была получена большая часть доказательств по проверенным последовательностям
-- [[online-teaching-and-learning]] — Онлайн-преподавание и обучение
-- [[generative-ai]] — Технологии и модели генеративного ИИ
-- [[llm]] — Большие языковые модели
-- [[student-experience]] — Студенческий опыт с ИИ в высшем образовании
-- [[educational-development]] — Развитие преподавателей и готовность к ИИ
-- [[academic-integrity]] — Академическая честность в сообществе студентов, способных использовать ИИ
-- [[ai-literacy]] — ИИ-грамотность для студентов и преподавателей
-- [[assessment-validity]] — Валидность оценивания в эпоху GenAI
-- [[educational-policy-ai]] — Политика в области образования по отношению к ИИ
-- [[regulation]] — Регулирование ИИ в образовании
-- [[remote-proctoring]] — Удалённый прокторинг и автоматическая добросовестность на экзаменах
-- [[self-directed-learning]] — Самостоятельное обучение с ИИ
-- [[problem-based-learning]] — Проблемное обучение с ИИ
-- [[teacher-role]] — Меняющаяся роль преподавателя в аудиториях с ИИ
-- [[stakeholders]] — Обобщающая категория: люди и аудитории в образовании с ИИ (учащиеся, преподаватели, разработчики, администраторы, политики)
-- [[arts-and-media-education]]
-- [[student-support-and-success]] — консультирование, аутрич, направление и распределение поддержки — институциональная сторона студенческого успеха
-
-## Связанные статьи
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Чан (2026): Индекс институционализации ИИ по 100 университетам верхней части рейтинга; дискурс опережает структуру, внедрение не зависит от престижа
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Рамка готовности преподавателей EPIQ-AI
-- [[ai-in-the-wild-college]] — ИИ в реальной практике: использование ИИ студентами колледжей
-- [[institutional-change-framework-ai]] — Институциональные изменения в эпоху ИИ
-- [[genai-availability-grades-satisfaction]] — Доступность GenAI и удовлетворённость студентов
-- [[ai-assessment-scale-reform]] — Шкала оценки ИИ и реформа
-- [[universities-ai-era-rethinking]] — Переосмысление университетов в эпоху ИИ
-- [[teacher-ai-adoption-confidence]] — Внедрение ИИ среди преподавателей
-- [[enright-staff-perspectives-genai-2026]] — Взгляды персонала на GenAI в высшем образовании
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Организационные драйверы внедрения ИИ в высшем образовании
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — ИИ в обратной связи студентам: этика
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[genai-student-experiences-uk-he-survey-2026]] — Опыт применения GenAI среди студентов британских вузов (опрос)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Преподаватели и работодатели об ИИ-навыках выпускников колледжей
-- [[generative-ai-reduced-study-time-math]] — Сокращение времени на учёбу на 26,9% среди студентов колледжей
-- [[ai-uk-higher-education-policy-2026]] — Политика британского высшего образования в отношении ИИ
-- [[ai-tools-academic-work-cheating-2026]] — Инструменты ИИ, учебная работа и списывание
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Двойники оценивания для укрепления валидности оценивания в эпоху GenAI
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — феноменографическое исследование представлений преподавателей университетов об ИИ
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review mapping AI integration in higher ed via FACETS + SAMR frameworks (AlSheikh et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Применение GenAI аспирантами-исследователями в исследовательском рабочем процессе и ориентированные на ИИ-грамотность руководства (Дай и Чан, 2026)
-- [[engagement-intensity-learner-modeling]] — Интенсивность вовлечённости как сигнал моделирования обучающегося для адаптивного обучения этике с помощью ИИ (О, Талтон и Буй, 2026)
-- [[ai-assisted-writing-research-teams]] — Написание текстов с помощью ИИ сдвигает исследовательские команды к более мелким коллаборациям с преобладанием младших сотрудников и высокой цитируемостью (Ван и др., 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: репетиторство с ИИ и с человеком дают эквивалентный прирост в обучении по GRE
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Формы «помощника» и «посредника» доминируют в исследованиях GenAI в высшем образовании; маргинальные типы переплетения остаются редкими по институциональным, а не техническим причинам (Сан, Дон и Рем, 2026)
-- [[students-at-stake-ai-deployment-risks-2026]] — Студенческая карта развёртывания ИИ в приёме, финансовой помощи, студенческих сервисах и предоставлении образования с фильтром закупок из четырёх вопросов (Student Defense, 2026)
-- [[airri-machine-resistant-reading-interface-2026]] — Задания в виде искажённых изображений подняли долю неудач LLM с 7,4% до 55,6%: проектирование содержания как маршрут честности
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ИИ-очки и слуховые аппараты обесценивают запрет на экзамене в аудитории: двойная прозрачность без сигналов взгляда или позы
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Таксономия функциональных доменов приложений ИИ в высшем образовании, 58,4% которых не укладываются в категории 2019 года
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Пишите методически специфичные руководства, а не одну общекампусную политику по ИИ
-- [[ai-literacy-determinants-university-students-2026]] — Воспринимаемые ресурсы и поддержка преподавателей объясняли 29% дисперсии ИИ-грамотности; демография — нет
-- [[faculty-ai-well-being-social-supports-2026]] — Финансируйте ИИ-грамотность, а не только уверенность в инструментах, для преподавателей

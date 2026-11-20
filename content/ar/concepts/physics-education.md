@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
 ---
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
@@ -76,7 +78,6 @@ ai_assist:
 
 **الفيديو التوليدي كبيانات تجريبية تركيبية.** يولّد [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] سيناريوهات فيديو بـPixVerse وGrok Imagine وPippit لثلاثة أنظمة قوى مقاومة — احتكاك ثابت، وسحب خطي، وسحب تربيعي — ويستخرجون الكينماتيكا بأداة Tracker [[open-source|مفتوحة المصدر]]، ويلائمون النماذج التحليلية بالمربعات الصغرى غير الخطية. ووافقت البيانات التركيبية معادلات الحركة الكلاسيكية واستعادت معالم ذات معنى فيزيائي، والنتيجة العملية المتكررة أن خصوصية المطالبة تحكم التماسك الفيزيائي: فالأوصاف الأكثر تفصيلاً أنتجت ديناميكا أكثر تماسكاً. وتحاكي سيرورة العمل الممارسة التجريبية من بناء النموذج إلى التحقق [[quantitative-research|الكمي]]، وتُعيد تأطير [[prompt-engineering|صياغة المطالبة]] بوصفها مرحلة من تصميم التجربة لا ملاذاً. وما لا تُظهره بعد هو التعلّم: فالتحقق هنا اتفاق بين الحركة المولّدة ونماذج المؤلفين، لا حكم قياس الطلاب، فترث المقاربة [[assessment-validity|سؤال الصلاحية]] الذي يجب أن تجيب عنه أي بيانات مولّدة تُستخدم دليلاً.
 
-
 **محاكاة مصممة للمواضيع التي لا يغطيها PhET.** تتيح نماذج HTML/JavaScript المولّدة بنماذج اللغة الكبيرة للمدرّسين إنتاج المحاكاة التي يحتاجها المساق بدلاً من أقرب محاكاة منشورة، رهن التحقق التقني والفيزيائي؛ وفي تجربة رائدة، بنى 53 طالباً في 26 ثنائياً نماذج سقوطهم الحر وحسّنوها بلا خلفية برمجية مطلوبة ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 وتتيح مطالبة قابلة لإعادة الاستخدام من أربعة عناصر — الأدوات والعرض وضوابط اليد والتحسين — لمدرّس بلا كود توليد محاكاة واقع معزّز قائمة على المتصفح تقود فيها إيماءات التصغير والتفريح الفيزياء؛ وفي تجربة رائدة بـ29 طالباً ساعدت الإيماءة كل الـ29 على "الشعور" بطول الموجة (متوسط 4.52) وأبلغ 86% عن مشاركة أكبر ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
@@ -113,60 +114,3 @@ ai_assist:
 - **«يثق الطلاب بالذكاء الاصطناعي بما يكفي ليعتمدوا عليه دون نقد.»** وجد [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] **فجوة ثقة–منفعة قدرها 50 نقطة**: **91% يستخدمون الذكاء الاصطناعي في أعمال المقرّر لكن 41% فقط يثقون به**. فالاستخدام الواسع يتعايش مع ثقة منخفضة، لذا فإن تدخلًا يستهدف بناء الحماس يعالج المتغير الخطأ.
 - **«طلاب الفيزياء جماعة واحدة.»** بنى [[becker-chatgpt-typology-physics-2026|Becker et al.]] تصنيفًا من ملفين من **1,189 استجابة مسح**: **70% «مستخدمون عمليون» و30% «غير مستخدمين متشككون»**. وعلى سياسة صفية واحدة أن تخدم مجموعتين بموقفين متعاكسين.
 - **«الفجوة بين الاستخدام والثقة غير عقلانية.»** الرقمان يقيسان أمرين مختلفين — هل تساعدك الأداة على إتمام العمل، وهل تعتقد أنها تفعل ذلك على نحو صحيح. فالطلاب يميّزون المنفعة من الموثوقية، وهو التمييز الصحيح تحليليًا لا تناقض.
-
-
-## المفاهيم المرتبطة
-
-- [[stem-education]]
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[simulation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات والتقويم التكويني وحدود نماذج اللغة الكبيرة وفلسفة التجريب
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو مختبرات التدريس وثقافة الذكاء الاصطناعي في الأحياء والتفكير النقدي والأدوات المتخصصة
-
-## المقالات المرتبطة
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — تبنّي الذكاء الاصطناعي التوليدي مُنَمْذَجًا في فيزياء الصف العاشر
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — وكلاء فيزياء مهندسون بمطالبات محورهم المدرّس مقابل محورهم الطالب (Wang et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — استخدام الذكاء الاصطناعي لتوليد محاكاة/مختبرات فيزيائية سريعاً (Ben-Zion et al. 2025)
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[llm-computational-thinking-physics-2026]]
-- [[ai-scoring-language-bias-physics]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[ai-grading-handwritten-physics-2026]] — تصحيح الذكاء الاصطناعي لتقويمات الفيزياء المكتوبة بخط اليد (الأولمبياد)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[mechanics-cognitive-diagnostic-physics-2026]] — الميكانيكا التشخيص المعرفي: تحويل FCI وFMCE وEMCS إلى تشخيص معرفي بـ14 هدفاً (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 زوج سؤال وجواب بالبنغالية لفيزياء المرحلة الثانوية مُخطَّطة على رسم بياني معرفي للمنهج من 1,760 عقدة، مع مكاسب تكيف للنماذج الصغيرة
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — تدريب GenAI منظّم لمراجعة مسائل الفيزياء: تجربة عشوائية مضبوطة (Huang et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — مدرّس خصوصي مُهندَس جيدًا تغلّب على التعلّم النشط داخل الصف
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — التصورات المسبقة عن الطاقة حدّدت موقع التفاوض على استعلامات الذكاء الاصطناعي في شبكة المجموعة: مركز تكامل حين اختلف الأعضاء، ومسار خطي من الاستعلام ثم القراءة حين اتفقوا (Wang et al. 2026)
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — أنماط الاستخدام والدعم المُدرَك بين مهندسي المستقبل

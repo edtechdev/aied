@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -129,7 +131,6 @@ ai_assist:
 
 34টি গবেষণার (91টি প্রভাব-আকার) একটি মেটা-বিশ্লেষণ অনুমান করে এআই-ভিত্তিক হস্তক্ষেপ স্ব-নিয়ন্ত্রিত শিখন g = 0.76-এ বাড়িয়েছে, যেখানে সম্পদ-ব্যবস্থাপনা (g = 0.93) মেটাকগনিটিভ (0.73) বা জ্ঞানীয় কৌশলের (0.48) চেয়ে বড়। সরঞ্জামের ধরন ও শিক্ষাগত ভূমিকা প্রভাবকে নিয়ন্ত্রণ করেছে; জেনারেটিভ-এআই অবস্থা, শাস্ত্র, হস্তক্ষেপ-দৈর্ঘ্য ও SRL-পরিমাপ করেনি ([[zhang-ai-self-regulated-learning-meta-analysis-2026|Zhang প্রমুখ, 2026]])।
 
-
 - **মিশ্র প্রমাণ ও ভুল-ক্রমাঙ্কনের ব্যবধান।** প্রাক-ক-12 জেনএআই গবেষণার একটি দ্রুত পর্যালোচনা পায়, সমর্থিত কাজের সময় মেটাকগনিটিভ লাভ প্রায়শই সমর্থন সরানো হলে টেকে না, এবং জেনএআই [[self-report-measures|অনুভূত শিখন]] বাড়াতে পারে যদিও টেকসই শিখন অনুপস্থিত (ভুল-ক্রমাঙ্কনের ব্যবধান — দুর্বল ধারণক্ষমতা সত্ত্বেও শিক্ষার্থীরা নোট নেওয়ার বদলে জেনএআই পছন্দ করেছে)। কোনটি অর্পণ করবে এবং কখন স্বাধীন প্রচেষ্টা গুরুত্বপূর্ণ, সে সিদ্ধান্ত নিতে শিক্ষার্থীদের স্পষ্ট, স্তর-উপযুক্ত প্রশিক্ষণ দরকার।([[young-people-learning-generative-ai-rapid-review-2026]])
 
 - **স্ব-নিয়ন্ত্রিত শিখন বিরলভাবে সক্রিয় লক্ষ্য।** 394টি জেনএআই উচ্চশিক্ষা গবেষণা জুড়ে স্ব-নিয়ন্ত্রিত শিখন ও প্রতিফলন ছিল সবচেয়ে কম বাস্তবায়িত ব্যবহারগুলোর একটি এবং সবচেয়ে কম লক্ষ্যভুক্ত ফলাফলগুলোর একটি ([[mapping-genai-higher-ed-scoping-review|Lin প্রমুখ (2026)]])।
@@ -170,7 +171,6 @@ Learning Letters-এর একগুচ্ছ গবেষণা (2026) এক�
 
 শিক্ষার্থীরা অনুভূত কর্মদক্ষতা-লাভের পাশাপাশি বেশি গড়িমসি রিপোর্ট করেছেন (β = 0.525), যা এআই উপলব্ধ থাকায় পড়াশোনার কাজ ফেলে রাখাকে এআই-এর সহায়তায় ফেলে রাখা থেকে আলাদা করে — এমন পার্থক্য যা একক স্ব-নিয়ন্ত্রণ-স্কোর বহন করতে পারে না ([[gouroubera-genai-benin-2026|Gouroubera প্রমুখ, 2026]])।
 
-
 ## প্রভাব
 
 - **জার্নালিং/চ্যাটবট সরঞ্জামের জন্য:** স্ব-নিয়ন্ত্রিত শিখনের নির্দেশনা (কোর্সভিত্তিক) সঙ্গে ঐচ্ছিক লেখন-সমর্থন মিলিয়ে প্রেরণা ও সম্পৃক্ততা — দুই লাভই নিন
@@ -195,83 +195,9 @@ Learning Letters-এর একগুচ্ছ গবেষণা (2026) এক�
 - **শিক্ষাবৈজ্ঞানিক এজেন্টের সংলাপ থেকে কোডকৃত অধ্যবসায় কর্মদক্ষতার বিপরীতে ঋণাত্মক হয়ে ওঠে, LLM ও মানব কোডিং — দুই ক্ষেত্রেই।** 107 জন ইংরেজি-শিক্ষার্থী মধ্য-বিদ্যালয় শিক্ষার্থীর একটি কথোপকথন-ভিত্তিক মূল্যায়নে, আটটি ChatGPT4o কনফিগারেশন দিয়ে চ্যাট-লগ পালা থেকে শনাক্ত অধ্যবসায় কর্মদক্ষতার সঙ্গে ঋণাত্মকভাবে সম্পর্কযুক্ত ছিল (r = -0.19, p < .001), আর একজন মানব কোডারের অধ্যবসায়-গণনা সেই দিকেই মিলেছে r = -0.32-এ ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober প্রমুখ (2026)]])। অনুভূত চ্যালেঞ্জ (r = -0.25) ছিল একমাত্র শক্তিশালী ঋণাত্মক সম্পর্ক, আর বাকি গঠনগুলোও ঋণাত্মক ছিল (স্ব-কার্যকারিতা r = -0.15, পূর্ব KSA r = -0.14, আগ্রহ r = -0.08)। লেখকেরা অধ্যবসায়ের প্রকাশকে সম্ভাব্য অনুৎপাদনশীল সংগ্রাম হিসেবে পড়েন এবং যেকোনো স্বয়ংক্রিয় ব্যবস্থা অধ্যবসায়-কথাকে সম্পৃক্ততা ধরার আগে অভিযোজিত ও অ-অভিযোজিত অধ্যবসায় — কৌশলগত পুনঃপ্রচেষ্টা বনাম পুনরাবৃত্তিমূলক ট্রায়াল-ও-এরর — আলাদা করার পক্ষে যুক্তি দেন।
 - **GPT-4o কেবল নিজের জ্ঞানভাণ্ডার থেকেই একটি তত্ত্ব-ভিত্তিক SRL কোডবুক গড়তে পারে।** কেবল Zimmerman (2000) ও Winne ও Hadwin (1998)-এর উল্লেখ পেয়ে, GPT-4o তিনটি Zimmerman পর্যায় ও Winne-Hadwin-এর চারটি স্তরের তিনটি কভার করে গঠন প্রস্তাব করে, কেবল কাজ-সংজ্ঞা পর্যায়টি অনুপস্থিত, আর মানব-পরিমার্জন কোডবুকটিকে 11টি গঠনে স্থির করে ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano প্রমুখ (2026)]])। প্রম্পটে 15 শিক্ষার্থীর 955টি চিন্তা-উচ্চারণ যুক্ত করলে দুই মডেলের সব পর্যায় কভার হয় এবং Error Identification-এর মতো উপাত্ত-ভিত্তিক কোড আসে। মানব-পরিমার্জন অপরিহার্য থেকে গেছে: দুই কোডার ওভারল্যাপিং GPT প্রস্তাব মিলিয়েছেন (Planning বনাম Goal Setting, Monitoring বনাম Evaluation, Outcome বনাম Process Evaluation), আর কোনো হ্যালুসিনেশন দেখা যায়নি।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"স্ব-নিয়ন্ত্রণ একটি শিক্ষার্থী-বৈশিষ্ট্য।"** নিয়ন্ত্রিত শিখন ভাঙলে পাওয়া যায় **স্ব-প্রতিফলন, কারণগত আরোপণ ও অভিযোজন**, এবং দক্ষ শিক্ষার্থীরা **সাফল্য বাড়াতে জ্ঞানীয় কৌশল প্রয়োগ করে**। এগুলো প্রশিক্ষণযোগ্য প্রক্রিয়া, যা একটি নকশা সমর্থনও করতে পারে, ক্ষুণ্ণও করতে পারে।
 - **"যেকোনো অভিযোজিত নকশা সমানভাবে নিয়ন্ত্রণ সমর্থন করে।"** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu প্রমুখের]] **22 দিনে 179 শিক্ষার্থীর 2x2 এলোমেলো মাঠ পরীক্ষা** দুটি নকশা-নীতি তুলনা করে পেয়েছে সেগুলো প্রক্রিয়ায় ভিন্ন, তাই "অভিযোজিত" কোনো একক চিকিৎসা নয়।
 - **"উদ্বেগ নিয়ন্ত্রণকে ক্ষুণ্ণ করে।"** **107 শিক্ষার্থীর** একটি মিশ্র-পদ্ধতি গবেষণায় উচ্চতর [[anxiety-and-stress|এআই উদ্বেগ]] **যাচাই ও পুনঃপরীক্ষার সঙ্গে ধনাত্মকভাবে যুক্ত** ছিল। উদ্বেগ কাজ করেছে যাচাইয়ের প্ররোচনা হিসেবে, যা নিয়ন্ত্রণ, তার অনুপস্থিতি নয়।
 - **যেখানে [[ai-feedback-quality|এআই ফিডব্যাক]] পারেনি, সেখানে মেটাকগনিটিভ স্ব-নিয়ন্ত্রণ শিখন-প্রাসঙ্গিক ভার পূর্বাভাস দিয়েছে।** **234 শিক্ষার্থী ও 1,147 পর্যবেক্ষণের** পাঁচ সপ্তাহের মাঠ গবেষণায় মেটাকগনিটিভ স্ব-নিয়ন্ত্রণ ছিল **জার্মেইন জ্ঞানীয় ভারের** যথেষ্ট ধনাত্মক পূর্বাভাসক (β = .363, p < .001 intention-to-treat; .346, p < .001 usage-based) এবং বহিরাগত ভার উল্লেখযোগ্যভাবে পূর্বাভাস দেয়নি — অথচ কথোপকথন-এআই ফিডব্যাকে কেবল প্রবেশাধিকার কোনোটিই পূর্বাভাস দেয়নি। কেবল ফিডব্যাকের সঙ্গে **স্থায়ী** সম্পৃক্ততা জার্মেইন ভারে শিক্ষার্থীদের আলাদা করেছে, অনিয়মিত ব্যবহার করেনি (β = −.219, p = .116), যা সক্রিয় উপাদানটিকে ফিডব্যাক-জোগানের বদলে শিক্ষার্থীর প্রক্রিয়াকরণ-নিয়ন্ত্রণে স্থাপন করে ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ও Liening, 2026]])।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[metacognition]] — যে জ্ঞানীয় পর্যবেক্ষণের ওপর স্ব-নিয়ন্ত্রিত শিখন নির্ভর করে
-- [[self-assessment]]
-- [[self-efficacy]] — একটি পূর্বচিন্তা-ধাপের বিশ্বাস যা প্রচেষ্টা চালায়
-- [[scaffolding]] — ক্রমবর্ধমান সমর্থন যা নিয়ন্ত্রক দাবি রক্ষা করে
-- [[feedback]] — যে ইনপুটকে ঘিরে শিক্ষার্থীরা নিয়ন্ত্রণ করে
-- [[feedback-literacy]] — ফিডব্যাকে কাজ করার সক্ষমতা
-- [[help-seeking]] — একটি কৌশলগত স্ব-নিয়ন্ত্রিত শিখন আচরণ
-- [[motivation]] — স্ব-নিয়ন্ত্রণের পারস্পরিক অংশীদার
-- [[cognitive-offloading]] — এআই নিয়ন্ত্রক কাজ সরালে যে ঝুঁকি
-- [[generative-ai]] — যে প্রযুক্তি স্ব-নিয়ন্ত্রিত শিখন স্ক্যাফোল্ড বা সংক্ষিপ্তপথে কাটতে পারে
-- [[ai-literacy]] — এআই ব্যবহারে নিয়ন্ত্রক দক্ষতা
-- [[self-directed-learning]] — বৃহত্তর স্বায়ত্তশাসন-গঠন
-- [[agency]] — ইচ্ছা নিয়ে কাজ করার শিক্ষার্থীর সক্ষমতা, নিয়ন্ত্রণ, সংহতি ও অবস্থান নির্ধারণে কেন্দ্রীয়
-- [[adaptive-learning]] — ব্যক্তিকরণ যা নিয়ন্ত্রণ সমর্থন করতে পারে
-- [[formative-assessment]] — নিয়ন্ত্রণের জন্য ধারাবাহিক ফিডব্যাক
-- [[learning-by-teaching]] — স্ব-নিয়ন্ত্রণ গড়ে তোলা একটি কৌশল
-- [[intelligent-tutoring]] — যে ব্যবস্থা স্ব-নিয়ন্ত্রিত শিখন স্ক্যাফোল্ড করে
-- [[llm]] — এআই সরঞ্জামের অন্তর্নিহিত মডেল
-- [[retrieval-spacing-interleaving]] — শিক্ষার্থীর করা সময়সূচি, স্ব-পরীক্ষা ও পড়ার-কৌশল বাছাই
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[li-genai-dependency-effort-regulation-2026]] — জেনএআই নির্ভরতা ও অনুভূত শিখনফল: শ্রম-নিয়ন্ত্রণের পথ (Li, Zhang ও Yang 2026)
-
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — এআই-সহায়িত স্ব-নিয়ন্ত্রিত শিখনের মেটা-বিশ্লেষণ: 34টি গবেষণায় g = 0.76, সরঞ্জামের ধরন ও শিক্ষাগত ভূমিকা প্রভাব নিয়ন্ত্রণ করে (Zhang প্রমুখ 2026)
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — একটি দেহাবিষ্ট শ্রেণিকক্ষে LLM-বিভাজিত স্ব-নিয়ন্ত্রিত শিখনের প্রতি-শ্রেণি নির্ভুলতা (Fonteles প্রমুখ 2026)
-- [[llm-math-homework-offloading-traces-2026]] — জমা যা দেখায় না: LLM দিয়ে শিক্ষার্থীদের গণিত-কাজে জ্ঞানীয় অফলোডিং জটিল করা (Kontorovich ও Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — পাঠ্যক্রম-মানচিত্রায়নে অগভীর সংকেত থেকে স্ব-নিয়ন্ত্রণের মডেল-অতিরিক্ত আরোপ (Jayalath প্রমুখ 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC অ্যাফোর্ডেন্স ও শিক্ষার্থীর স্ব-নিয়ন্ত্রণ
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — এআই-মিথস্ক্রিয়া সাক্ষরতা: চ্যাটবট চালাতে যে স্ব-নিয়ন্ত্রণ দরকার ছিল, যা সমর্থনের কথা ছিল (Brunnström ও Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — জেনএআই যুগের জন্য 5P প্রতিফলন মডেল (Kadel প্রমুখ 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — জেনএআই-সহায়ক লেখায় স্তর-সংবেদনশীল জ্ঞানীয় অফলোডিং (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — স্কেল জুড়ে শিক্ষার্থী-এজেন্সি: নিয়ন্ত্রণ, সংহতি, অবস্থান নির্ধারণ
-- [[rented-self-decoupling-performance-becoming-2026]] — ভাড়া করা আত্ম: Winne-এর স্ব-নিয়ন্ত্রিত শিখন মডেলে রেন্টাল, দশটি প্রস্তাব ও শিক্ষার্থী-অভ্যন্তরীণ সূচক
-- [[song-genai-learning-partner-srl-over-time-2026]] — সময়ের সঙ্গে প্রসঙ্গ-সচেতন শিখন-অংশীদার হিসেবে জেনএআই
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — শিক্ষার্থীরা জেনএআই চ্যাটবট দিয়ে শিখন কীভাবে নিয়ন্ত্রণ করে
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — স্ক্যাফোল্ড নাকি শর্টকাট? স্ব-নিয়ন্ত্রিত শিখনে জেনএআই-এর দ্বৈত ভূমিকা
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM-এ LLM-মধ্যস্থ সহায়তা-চাওয়া: স্তরযুক্ত, যন্ত্রগত ও যাচাইকৃত
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — জেনএআই ফিডব্যাক ও স্ব-নিয়ন্ত্রিত শিখন: অনুভূত উৎস গুরুত্বপূর্ণ
-- [[ai-anxiety-strategic-regulation-writing-2026]] — এআই উদ্বেগ থেকে কৌশলগত নিয়ন্ত্রণে
-- [[young-people-learning-generative-ai-rapid-review-2026]] — জেনএআই দিয়ে মেটাকগনিশন/স্ব-নিয়ন্ত্রণে মিশ্র প্রমাণ
-- [[agentic-ai-pedagogical-best-practice-2026]] — এজেন্টিক এআই ও স্ব-নিয়ন্ত্রণের টানাপোড়েন
-- [[decreasing-digital-distraction-college-online-learning-2026]] — অনলাইন শিখনে স্ব-নিয়ন্ত্রিত শিখন ও কম ডিজিটাল বিভ্রান্তি (Shi প্রমুখ 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — মিশ্র শ্রেণিকক্ষে শিক্ষকদের কাছে মেশিন-লার্নিং ফল পৌঁছে দেওয়া
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: কাজ শনাক্তকরণ, যৌক্তিকতা ও কাজ-পরবর্তী প্রতিফলনের শিক্ষার্থী-মুখী চক্র
-- [[learning-analytics-genai-secondary-writing-2026]] — লার্নিং অ্যানালিটিক্স দিয়ে জেনএআই-সহায়ক মাধ্যমিক শিক্ষার্থীদের লেখালেখি সমর্থন
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — অভিযোজিত STEM শিখনে এআই-সমর্থিত স্ব-নিয়ন্ত্রণের একটি বৈধকৃত যন্ত্র, শক্তিশালীতম পূর্বাভাসক হিসেবে মেটাকগনিটিভ সচেতনতা নিয়ে
-- [[iqbal-human-genai-support-essay-revision-2026]] — প্রবন্ধ-পুনর্বিবেচনা পরীক্ষায় পুনর্বিবেচনা-কৌশল বেছে নেওয়া চালিয়েছে সহায়তার শর্ত, মেটাকগনিটিভ বিচার নয়
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — অনুদৈর্ঘ্য: প্রতিফলনমূলক এআই ব্যবহার সমালোচনামূলক চিন্তার পূর্বাভাস দিয়েছে, জ্ঞানার্জনের নয়, Matthew প্রভাব ছাড়াই
-
-- [[genai-literacy-srl-special-education-2026]] — জেনএআই সাক্ষরতা মূলত শিখন-এজেন্সি দিয়ে স্ব-নিয়ন্ত্রিত শিখন আচরণের সঙ্গে যুক্ত
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — সমর্থনের ধরন মধ্যস্থতাকারীকে উল্টে দেয়: এআই স্ব-দক্ষতা বনাম স্ব-নিয়ন্ত্রিত শিখন
-- [[genai-learning-procrastination-planned-behavior-2026]] — জেনএআই-সহায়ক শিখন-গড়িমসি: উদ্বেগ যে উদ্দেশ্য-আচরণের ফাঁক শক্তিশালী করে
-- [[genai-srl-l2-writing-scale-2026]] — দ্বিতীয়-ভাষা লেখালেখির জন্য বৈধকৃত ছয়-মাত্রার জেনএআই-স্ব-নিয়ন্ত্রণ স্কেল, নিজস্ব মাত্রা হিসেবে পরিবেশগত নিয়ন্ত্রণ ও 12-আইটেম পিঁপড়ে-উপনিবেশ-অনুকূলিত সংক্ষিপ্ত রূপ
-- [[borchers-srl-language-generalization-2025]] — বৃহৎ ভাষা-মডেল স্ব-নিয়ন্ত্রিত শিখন পূর্বাভাস নতুন ভাষায় সাধারণীকরণ করে ক্ষেত্রের ভেতরে, ক্ষেত্রের মধ্যে নয় (Borchers প্রমুখ 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — শিক্ষার্থীদের স্ব-নিয়ন্ত্রিত শিখন বাড়াতে কৃত্রিম বুদ্ধিমত্তা ব্যবহারকারী একটি প্রকল্পভিত্তিক মিশ্র শিখন মডেল
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — প্রথম উত্তরদাতা হিসেবে একটি এআই টিএ সমকক্ষ-উত্তর স্থানচ্যুত করেছে, আর তার সঙ্গে সেই সহ-নিয়ন্ত্রণ যা স্ব-নিয়ন্ত্রণের গ্রেড-মূল্য বাড়াত (Davis প্রমুখ 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — পূর্বধারণার বৈচিত্র্য বদলে দিয়েছে মেটাকগনিটিভ প্রম্পট কীভাবে অবতীর্ণ হয়: একই প্রম্পট-কার্যকারিতা, এআই আউটপুটের বিপরীত স্থায়ী মূল্যায়ন (Wang প্রমুখ 2026)
-
-- [[gouroubera-genai-benin-2026]] — ব্যবহারের সঙ্গে গড়িমসি বেড়েছে (β = 0.525) অনুভূত লাভের পাশে, যা এআই-সক্ষম বিলম্বকে কেবল এআই-সম্পর্কিত বিলম্ব থেকে আলাদা করে (Gouroubera প্রমুখ 2026)
-

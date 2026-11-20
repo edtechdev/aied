@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,10 +46,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ملاحظات وتحذيرات
 
 الإطار والموقع مُرخَّصان بموجب **CC BY-NC-SA 4.0**، فالتكيّف مسموح للاستخدام غير التجاري مع النسبة والمشاركة بالمثل؛ والموقع يوفّر نسبته المقترحة الخاصة. توافقُه مع OECD وNIST وISO/IEC 42001 وقانون الذكاء الاصطناعي الأوروبي وFERPA وHIPAA هو مقارنة الناشر الخاصة وينبغي قراءتُه كذلك. المواقع المرافقة مشاريعُ منفصلة، وبعضها لنفس المؤلّف، وتستحقّ المعرفة كمجموعة: [Campus AI Exchange](https://www.campusaiexchange.com/) هو المحور، حاملًا [خرائط تفاعلية](https://www.campusaiexchange.com/ai-policies-guidelines-map) لسياسات الذكاء الاصطناعي المؤسسية والإرشادات الصفّية، و[تقييمًا ذاتيًّا لحُكمة الذكاء الاصطناعي](https://www.campusaiexchange.com/ai-governance-assessment)، وخرائط لحُكمة البيانات ومواقف الذكاء الاصطناعي، ومكتبةَ موارد. وحوله تجلس [campusaigovernance.com](https://campusaigovernance.com/) (تسعة مجالات لحُكمة الذكاء الاصطناعي)، و[campusairisks.com](https://campusairisks.com/) (إطار إدارة مخاطر الذكاء الاصطناعي عند NIST مطبَّقًا على تلك المجالات)، و[campusaioperations.com](https://campusaioperations.com/)، و[campusairegistry.com](https://campusairegistry.com/)، و[نموذجَ خطة تبني ذكاء اصطناعي على مستوى الوحدة](https://unit-ai-adoption-plan.netlify.app/)، وإحاطةً بشأن [الذكاء الاصطناعي الكيلي للتنفيذيين](https://campusaiframework.com/sites). وتنتشر البوصلة الاستراتيجية أيضًا كمستند Google مُشترَك، وهو يحتاج حساب Google للفتح. ويظهر سؤالُ تأهيلٍ اختياريّ موجز بشأن الدور والمؤسسة عند الدخول؛ والبريد الإلكتروني اختياري والموقع كلّه قابل للقراءة بدونه.
-
-## مفاهيم مرتبطة
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -74,36 +76,3 @@ IRT [[educational-measurement]] اور [[assessment-validity]] کی بنیاد �
 - **"جس بینچ مارک میں زیادہ تر ماڈل کامیاب ہوں وہ اچھا بینچ مارک ہے۔"** معیارات کے مطابق بینچ مارک **سیر** ہو سکتا ہے: NGSS کے مطابق مڈل اسکول اور ہائی اسکول کے سائنسی مجموعوں پر **زیادہ تر کھلے وزن والے ماڈلوں نے 90% سے اوپر اسکور کیا**، جس سے روایتی آئٹم پیمانے ناقص رہ گئے۔ سیر ہونا یہ معنی نہیں رکھتا کہ ماڈل شاندار ہیں؛ اِس کا مطلب ہے کہ آئٹمز اب امتیاز نہیں کر رہے۔
 - **"آئٹم کی مشکل آئٹم کی اندرونی خصوصیت ہے۔"** ایک سببی جانچ جس نے **فی ڈیٹا سیٹ 50 امتحانی سوالات** کسی مفروضے کی طرف یا اُس سے ہٹا کر بدلے، دکھایا کہ **مشکل بڑھانے والی تبدیلیوں نے اوسط درستگی 15.27 اور 23.88 فیصدی نقاط کم کی** GSM8K اور BBH-structured پر۔ مشکل آئٹم اور ماڈل کے درمیان تعلق ہے، اور جب آئٹم بدلتا ہے تو وہ بھی بدلتی ہے۔
 - **"IRT صرف سیکھنے والوں کو اسکور کرنے کے لیے ہے۔"** [[assessing-quality-ai-generated-exams-field-2025|AI کے بنائے گئے امتحانات کی جانچ]] **پیشگی آزمائش کے اینکر آئٹمز کے ساتھ بےزی ہائیرارکیکل 2PL ماڈل استعمال کر کے 1,686 طلبہ کو پیمانے پر رکھتی ہے**، جو طالب علم کے لیے اسکورنگ کے بجائے خود جانچ کی معیار کی ضمانت ہے۔
-
-## منسلک تصورات
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## منسلک مضامین
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — سوالات اور ٹیوٹرنگ مکالمات کے لیے ایک متحد جوابی فریم ورک
-- [[explaining-question-difficulty-natural-language-2026]] — IRT اور سببی ترمیمات کے ذریعے LLM کے سوال کی مشکل کی قدرتی زبان میں وضاحت (Cui وغیرہ 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — آئٹم لکھنے کے نقائص کا IRT مشکل اور امتیازی قوت پر اثر (Schmucker اور Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — طلبہ کی قابلیت کی جانچ کے لیے معاون مداخلتوں کی سببی ماڈلنگ
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچ کے آلات انسانوں اور LLMs کے لیے ایک ہی چیز ناپتے ہیں؟ (Strugatski وغیرہ 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI کے بنائے گئے امتحانات کی بڑے پیمانے پر IRT میدانی تصدیق
-- [[jin-glat-genai-literacy-assessment]] — GLAT IRT/2PL تصدیق استعمال کرتا ہے (Jin وغیرہ 2025)
-- [[llm-item-difficulty-prediction]] — آئٹم کی مشکل کی LLM پیش گوئی
-- [[llm-psychometric-calibration-cdp]] — LLM جانچ کو سائیکو میٹرک کیلیبریشن کے ساتھ ہم آہنگ کرنا
-- [[llm-difficulty-calibration-programming-exams-2026]] — پروگرامنگ امتحانات میں LLM مشکل کیلیبریشن
-- [[multimodal-item-parameter-estimation-2026]] — ملٹی موڈل آئٹم پیرامیٹر کا اندازہ
-- [[huang-interpretable-knowledge-tracing-2026]] — قابلِ تشریح نالج ٹریسنگ
-- [[irt-human-genai-mcq-responses]] — انسانی اور GenAI MCQ جوابات کو الگ کرنے کے لیے IRT کا استعمال
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMs اور درخت پر مبنی مشین لرننگ سے آئٹم کی مشکل کا اندازہ
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID ایمبیڈنگز سے آگے: علمی تشخیص کے لیے عمل پر مبنی زبان کی ماڈلنگ
-- [[bayesian-consensus-irt-item-banks-2026]] — مسلسل بدلتے IRT آئٹم بینک کی بےزی اتفاقی کیلیبریشن (Jewsbury وغیرہ 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — میدانی آڈٹ جو دکھاتا ہے کہ اساتذہ کی AI خواندگی کے آلات میں IRT/Rasch بطور بنیادی تصدیقی شواہد کم ہی استعمال ہوتا ہے
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ سے GRE سیکھنے میں برابر فائدے
-- [[llm-benchmark-secondary-science-topics-2026]] — معیارات کے مطابق بینچ مارک سیر ہو سکتا ہے

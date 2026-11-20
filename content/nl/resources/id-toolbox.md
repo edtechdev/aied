@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -36,7 +37,3 @@ Voor u begint: kiezen tussen authoringtools op gewogen criteria, toetsen of de a
 
 ## Waarom het bestaat
 Curt Zilbersher, die achtentwintig jaar bedrijfstrainingen heeft ontworpen, beschrijft dezelfde kleine onopgeloste problemen die keer op keer in zijn loopbaan terugkomen — vertelwoorden tellen, het bestand vinden dat een cursus over een [[edtech-platform|LMS]]-limiet duwde, de ondertiteldekking met de hand auditen — en bouwt de oplossingen en geeft ze weg. De site houdt ook een gratis jaarlijkse enquête over hoe instructional designers hun week werkelijk doorbrengen.
-
-## Gerelateerde concepten
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

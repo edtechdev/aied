@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
+connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -54,7 +56,6 @@ Bir okurun neden YZ’ye uzandığı kendisi ölçülebilir bir değişkendir: A
 
 Hedef yönelimi aracın nasıl kullanıldığını da yönlendirir: ustalık ve normatif performans hedefleri detaylandırma ve rafinasyonu destekleme eğilimindeyken, görünüm performans hedefleri çaba en aza indirmeyi ve algılanan yetkinliği korumayı daha olası kılar — öyleyse aynı asistan, düşünmeyi motivasyonel iklime bağlı olarak iskeleler ya da yerini alır ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). Ödül motivasyonu YZ geri bildiriminin erişimini köreltebilir: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]] için inandırıcılık ile algılanan öğrenme arasındaki bağ, nota dayalı ödül duyarlılığı yükseldikçe zayıflamıştır; basit eğimler düşük, ortalama ve yüksek duyarlılıkta sırasıyla b = 0,733, 0,607 ve 0,483’tür.
 
-
 Kurumsal üretken [[educational-policy-ai|YZ politikası]] da [[learners|öğrenenlerin]] değerlendirdiği bir stresördür: [[gai-advocacy-practice-art-education-2026|Chen (2026)]], üniversitelerin GAI savunuculuğu ile sınıf pratikleri arasındaki uçurumun Çinli sanat ve tasarım öğrencileri arasında hem zorluk hem de engel değerlendirmelerini yükselttiğini, [[creativity|yaratıcı]] süreç katılımı üzerinde karşıt dolaylı etkiler yarattığını, yollar düşünmesinin ise yalnızca zorluk yolunu güçlendirdiğini bulmuştur.
 
 Bir diyalog biçimi, genel değerlendirmeyi iyileştirmeden motivasyonu yükseltebilir: 222 birinci sınıf lise öğrencisinde, öğretmen–öğretmen diyalogu, somut deneyimi yüksek öğrenenler için ARCS motivasyonunu öğretmen–öğrenci biçiminden daha fazla yükseltti (b = 0,162, p < ,001) ama genel değerlendirmede anlamlı ölçüde daha düşük puan aldı (b = -0,126, p = ,005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe ve ark. (2026)]]).
@@ -76,7 +77,6 @@ Bir fayda-değeri müdahalesi tek biçimli olarak yararlı değildir: iskelenmi�
 
 **Literatür motivasyonu, onun bir teorisi olmadan ölçer.** 2003’ten 2025’e 156 çalışmanın [[meta-analysis-systematic-review|kapsam incelemesi]], 133’ünün (%85,3) hiçbir özgül motivasyonel teori tarafından yönlendirilmediğini, en yaygın değişkenin genelleştirilmiş akademik motivasyon olduğunu (n = 89) ve 88 çalışmanın (%56,4) tek bir ulusal bağlamdan geldiğini buldu ([[ai-student-motivation-scoping-review-2026|Li ve ark., 2026)]]).
 
-
 Motivasyon ayrıca teknoloji algısının yukarı akışında işler, yalnızca onunla birlikte değil. 340 öğrencilik bir fizik örnekleminde yararlılık değeri algılanan faydalılığı (β = 0,43), içsel değer ise tutumu (β = 0,20) yordarken algılanan maliyet kullanım kolaylığını (β = −0,16) ve tutumu (β = −0,27) düşürmüş, niyete doğrudan bir yol kalmamıştır ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ve Lu (2026)]]).
 
 **Motivasyonel düzenleme bu literatürdeki en ince yapıttır.** 39 çalışma boyunca [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna ve Jiang (2026)]], özerk motivasyonun 2 çalışmada, özdeşleşmiş düzenleme ve kontrollü motivasyonun birer çalışmada ölçüldüğünü, buna karşılık temel psikolojik ihtiyaçların 17 ve etkileşimin 10 çalışmada ölçüldüğünü buldu. Yazarlar bu boşluğu derlemenin merkezi problemi olarak adlandırıyor, çünkü düzenleme bir öğrencinin neden motive olduğunu sorarken ihtiyaç doyumu yalnızca ortamın onları destekleyip desteklemediğini sorar.
@@ -90,56 +90,3 @@ Motivasyon, [[self-determination-theory]]nin ana yapısıdır; bu teori, içsel 
 - **“GenAI’nin motivasyon etkisi temiz ve büyük bir kazançtır.”** 42 çalışmalık bir meta analiz (56 etki büyüklüğü, 6.059 öğrenci) g = 0,764 (95% CI [0,566, 0,962]) düzeyinde bir motivasyon etkisi bulmuştur **ancak I² = %93,7 ile**. Bu denli yüksek heterojenlik, birleştirilmiş değerin birbiriyle uyuşmayan çalışmalardan oluşan bir kümeyi tanımladığı anlamına gelir; dolayısıyla bu değer, yeniden üretilebilir bir etki değil, tutarsız müdahaleler üzerinden alınmış bir ortalamadır.
 - **“Hayal kırıklığını azaltmak, motivasyonu sürdürmekle aynı şeydir.”** Üç kollu bir [[rct|RCT]], iskelenmiş bir öğretmen ile sınırsız ChatGPT’nin **hayal kırıklığını eşit ölçüde azalttığını** bulmuştur (3,21 ve 3,13). Birbirinden çok farklı iki tasarım aynı duyuşsal sonucu üretmiştir; bu nedenle hayal kırıklığı verisi ikisini birbirinden ayıramaz.
 - **“Motive edici bir tasarım iyi bir tasarımdır.”** **222 birinci sınıf lise öğrencisinde**, öğretmen-öğretmen diyalog biçimi ARCS motivasyonunu alternatiften **daha fazla yükseltmiş** ancak **genel değerlendirmeyi iyileştirmemiştir**. Motivasyon hareket etmiş, yargılanan kalite etmemiştir.
-
-## Bağlı kavramlar
-
-- [[learners]] — Öğrenenler: öğrenci tarafı kavramlar için şemsiye
-- [[self-directed-learning]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[framing-ai-use-for-students]]
-- [[social-emotional-learning]] — Sosyal-Duygusal Öğrenme
-- [[reflection]]
-
-## Bağlı makaleler
-- [[liu-ai-assistance-reduces-persistence-2026]] — Kısa YZ kullanımı, sonraki yardımsız problemlerde azmi azalttı (Liu ve ark. 2026)
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI kabulünün öncülleri olarak beklenti-değer inançları
-- [[gai-advocacy-practice-art-education-2026]] — GAI savunuculuğundaki politika-pratik uçurumları öğrencilerin değerlendirdiği bir stresördür
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — İskelenmiş öğretmen içsel motivasyonu yükseltti, sınırsız ChatGPT yükseltmedi
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Savunmacı yazma üzerinde otomatik geri bildirim: ortaöğretim öğrencilerinin geri bildirim alıcılığının ve geri bildirim algısının rolü
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Çaba paradoksu ve sürtünmesiz yardımın kısır döngüsü
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Metabilişsel Üretken YZ etkileşiminde motivasyon ve roller
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Cinsiyet, motivasyon ve Üretken YZ kazanım yörüngeleri
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-availability-student-motivation]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[framing-5-percent-problem-teachers-persistence]]
-- [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Üretken YZ Müfredat Tasarımı için Öğretmen Dijital Yetkinliğinin Değerlendirilmesi (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — YZ ile eğitimin geleceğini şekillendirme motivasyonu
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × TTS diyalog-biçimi etkileşimleri
-- [[student-perceptions-ai-study-productivity-2026]] — Çalışma Verimliliği ve Öğrenme için Yapay Zeka Araçlarına İlişkin Öğrenci Algıları: Keşifsel Bir Anket Çalışması
-- [[liang-ai-learning-motivation-sdt-2026]] — Öğrencilerin YZ öğrenme motivasyonunun SDT gizli geçiş analizi (2.086 ortaokul/ortaöğretim öğrencisi)
-- [[wang-goal-setting-ai-engagement-2026]] — Hedef belirleme teorisi: öğretmen desteği, kazanım hedefleri ve YZ destekli İngilizce öğreniminde etkileşim (758 Çinli öğrenci)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Üretken YZ ile sorumlu öğretmeyi öğrenmede fayda-değeri müdahale etkileri (Boos, Eder & Lachner 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — İlkokul L2 Üretken YZ yazma programında yapıya özgü motivasyon kazanımları (Lu ve ark. 2026)
-- [[air-scale-motivations-ai-reading-2026]] — AIR Ölçeği: okurken YZ’ye uzanmak için dört güdü ailesi
-- [[genai-math-relevance-intervention-2026]] — Üretken YZ ilgi diyalogu ilgiyi özdeşleşme olarak yükseltti ama sınıf ilgisini düz bıraktı
-- [[genai-learning-motivation-meta-analysis-2026]] — Üretken YZ’nin öğrenme motivasyonuna etkisinin rastgele etkili meta analizi (56 etki büyüklüğü, 6.059 öğrenci)
-- [[ai-student-motivation-scoping-review-2026]] — YZ ve öğrenci motivasyonu üzerine 156 çalışma: %85,3’ü hiç motivasyonel teori kullanmadı ve kapsama yapı, düzey ve ülke açısından dar
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Eşleşmiş kalitede YZ ve eğitmen geri bildirimi; motivasyonel fark ilişkililikten geçiyor (Liu ve ark. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 çalışmanın SDT rehberli derlemesi: ihtiyaçlar ve etkileşim sık ölçülüyor, motivasyonel düzenleme neredeyse hiç ölçülmüyor

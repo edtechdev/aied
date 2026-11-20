@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -49,7 +51,6 @@ Regülasyon, YZ [[governance]]’inin hukuki ve politika katmanıdır: kurumsal 
 
 Bilgi tabanı, YZ yayılım hızı ile regülasyon olgunluğu arasındaki ısrarlı açığı belgelemektedir. [[institutional-change-framework-ai|Kurumsal değişim çerçeveleri]] ve regülasyon araştırması, tepkisel politika yerine proaktif [[governance]] savunmaktadır.  çalışmaları ve [[raza-farooq-aied-review-2020-2025|kapsamlı AIED incelemeleri]], regülasyonun yetki alanlarına ve eğitim kademelerine göre eşitsiz olduğunu, öğretmenler, öğrenciler ve geliştiriciler için tutarsız bir işletme ortamı yarattığını vurgular.
 
-
 [[agentic-ai|Aracı]] sistemler bir başka açık doğurur. 12 üniversitenin belge analizinde [[wong-sun-agentic-ai-assessment-governance-2026|Wong ve Sun (2026)]], hiçbir karşılaştırma örneğinin bir öğrenme yönetim sistemine giriş yapan, öğrenci kimlik bilgilerini tutan ya da öğrenci adına hareket eden bir aracıyı ele almadığını bulmuştur; birkaç aracı farkındalığı olan vaka ise açık devretme ve erişim sınırları koymuştur.
 
 **Açık, zamanlamanın yanı sıra bir kanıt açığıdır.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski ve Hurley (2025)]] bir meslek sektörünü, yapabileceği bir kanıt tabanı olmadan zaman baskısı altında politika yapmak olarak nitelendirir: ABA onaylı ABD’li [[legal-education|hukuk fakültelerinin]] çoğu genel olarak yasaklayıcı tutum alırken takdir yetkisini bireysel öğretim elemanlarına bıraktı ve yazarlar, açıklama veya atıf uygulamasına ilişkin bir uzlaşı olmadığını ve ABA’nın 2024 politika anketine yalnızca ~%15’lik bir yanıt oranı bildirir. Onların normatif yanıtı — tutum ne olursa olsun net kılavuzlar, hüküm metninin hazırlanmasında [[stakeholders|ilgili tarafların]] katılımı ve esnek ve dönemsel olarak gözden geçirilecek biçimde tasarlanan yönetişim — [[crompton-governing-genai-higher-ed-delphi-2026|küresel Delphi uzlaşısıyla]] eşleşir; o da politika sürdürümünü bir kerelik bir görev değil, yinelenen bir kurumsal mekanizma olarak ele alır. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]] ters bağımlılığı ekler: yönetişim reform programı, kurumsal gelişimin regülasyondan, kıyaslamadan ve kurumlar arası rekabetten gelen dış imkân olmadan büyük olasılıkla verim getirmeyeceği sonucuna varır; bu da kalite ve regülasyon kurumlarını — ve kurumlar arasında zorunlu kıldıkları karşılaştırmayı — iç yönetişim reformunun tuttuğu koşul haline getirir.
@@ -69,44 +70,3 @@ Regülasyon otomatik olarak aşağıya çevrilmez: eyalet düzeyinde YZ kurallar
 - **“Politika yazmak riskli yüzeyi kapsar.”** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]], değerlendirme araçlarının neden düzenlenmiş kümede yer alması gerektiğini gösterir: bir kırmızı ekip sınamasında bir teslime gizlenmiş **beş dolaylı istek metni enjeksiyonundan ikisi** başarılı olmuştur. Araçları adlandırıp enjeksiyon yüzeylerini adlandırmayan bir kural, sömürüyü ele alınmamış bırakır.
 
 - **“Aracı sistemler mevcut kuralların genişletilmesiyle kapsanır.”** **12 üniversitenin** belge analizinde [[wong-sun-agentic-ai-assessment-governance-2026|Wong ve Sun (2026)]], **hiçbir karşılaştırma örneğinin bir öğrenme yönetim sistemine giriş yapan bir aracıyı ele almadığını** bulmuştur. Yönetişim boşluğu yapısaldır: mevcut kategorilerin kimlik bilgilerine sahip özerk bir aktör için yuvası yoktur.
-
-## Bağlı kavramlar
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — regülasyon ve yönetişim belirsiz veya aşırı geniş olduğunda hukuki risk
-
-## Bağlı makaleler
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — Birleşik Krallık yükseköğretim politikasında YZ
-- [[oecd-digital-education-outlook-2026]] — OECD Dijital Eğitim Görünümü 2026
-- [[genai-declaration-frameworks-higher-education]] — YZ beyan çerçeveleri
-- [[genai-assessment-governance]] — GenAI altında değerlendirme yönetişimi
-- [[league-ethical-governance-student-data-2026]] — Öğrenci verilerinin etik yönetişimi
-- [[student-regulatory-awareness-genai]] — GenAI’ye ilişkin öğrenci regülasyon farkındalığı
-- [[dot-framework-survey-2026]] — Teknoloji benimseme çerçeveleri
-- [[raza-farooq-aied-review-2020-2025]] — AIED araştırmasının kapsamlı incelemesi
-- [[qian-governing-genai-higher-ed-policy-2026]] — Bağlayıcı politikanın önünde rehberlik: 50 yenilikçi ABD üniversisindeki iç YZ kuralları (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Beş boyutta puanlanan hukuk fakültesi GenAI politikası: varsayılan olarak yasaklayıcı, öğretim elemanı takdiri, dönemsel gözden geçirme (Gutowski ve Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı YZ yasakları ve bunların devreye sokabileceği makul düzenleme yükümlülükleri (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Değerlendirme kurallarında dil geçmişi: bir eşitlik sorusu olarak destek–yer değiştirme sınırı (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ notlandırıcılara yönelik istek metni enjeksiyon saldırıları ve standart dayanıklılık testlerinin gerekçesi (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Yönetişim reformunun koşulu olarak dış regülasyon baskısı (Coates, Croucher ve Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — İnce kurumsal politika katmanı karşısında kendi kurallarını yazan %87’lik bir öğretim elemanı kesimi (Watson ve Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "Sonra Düzeltiriz": Eğitim, YZ ve EdTech’te Öğrenci Gizliliğinin Ertelenmesi
-
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Hiçbir karşılaştırma politikası bir öğrenme yönetim sistemine giriş yapan ya da öğrenci kimlik bilgilerini tutan bir YZ aracısını ele almadı (Wong ve Sun 2026)
-- [[chan-ai-policy-gap-2026]] — Dikey aktarılmama: eyalet kuralları varken onların altındaki finansörler bağlayıcı bir araç yayımlamıyor (Chan 2026)

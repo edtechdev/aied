@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -43,9 +44,3 @@ Instructori care decid dacă să lase un instrument de evaluare să elibereze no
 ## Note și precauții
 
 GradeBench este publicat de Pensive, o platformă comercială de evaluare cu AI, astfel încât benchmark-ul și produsul au același proprietar; construcția sarcinilor este documentată și defensabilă, dar tratați încadrarea ca fiind a furnizorului. Acoperă examene STEM cu rubrici de cel puțin patru itemi, ceea ce exclude eseurile, răspunsurile scurte și postările de discuție — formatele în care are loc cea mai mare parte a evaluării în [[humanities-education|științele umaniste]]. Potrivirea exactă cu rubrica este o metrică strictă: doi evaluatori pot fi în dezacord pe un item și amândoi să aibă dreptate în privința studentului. Scorurile descriu versiuni de model disponibile în noiembrie 2026 și se vor schimba.
-
-## Concepte conexe
-
-- [[automated-assessment]] — practica pe care o măsoară benchmark-ul
-- [[assessment-validity]] — criteriul pentru care un scor din clasament este un indicator indirect
-- [[benchmark]] — clasa mai largă de instrumente din care face parte

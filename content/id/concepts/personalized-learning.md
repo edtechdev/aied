@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -84,7 +86,6 @@ Personalisasi dan [[assessment]] sangat terkait erat dalam pembelajaran berbasis
 
 Bukti terkuat bahwa kekhawatiran ini bukan hipotetis berasal dari [[personalization-paradox-adaptive-learning-emotions-2026|studi longitudinal tiga gelombang atas 486 mahasiswa Tiongkok (Li, Lin & Qiu, 2026)]]. Studi itu menemukan bahwa semakin terpersonalisasi lingkungan adaptif AI yang dipersepsikan siswa, semakin *rendah* [[self-regulated-learning|pembelajaran yang diatur sendiri]] mereka. Studi itu menamai ini "paradoks personalisasi." Pergeseran emosi akademik membawa sebagian besar efeknya: menghadapi lingkungan adaptif memprediksi lebih sedikit kesenangan dan lebih banyak [[anxiety-and-stress|kecemasan]] serta kebosanan, dan perubahan emosional itu bersama-sama menyumbang sekitar separuh asosiasi antara personalisasi dan penurunan regulasi diri. [[ai-literacy|Literasi AI]] meredam kerusakannya, melemahkan asosiasi emosional negatif hingga tidak signifikan pada literasi tinggi. Personalisasi karena itu tampaknya membeli kesesuaian adaptif dengan biaya pada aktivitas [[regulation|regulasi]] pembelajar sendiri, dan studi itu menunjukkan pengalaman emosional — bukan hanya beban kognitif — sebagai saluran pembayaran biaya tersebut.
 
-
 Di mana diagnosis di balik suatu jalur tervalidasi, personalisasi membuahkan hasil dengan menurunkan beban alih-alih dengan mencakup lebih banyak: remediasi jalur terpendek rata-rata 3.82 langkah dan memangkas waktu belajar 22.0% (57.6 versus 73.8 menit), dengan beban kognitif membawa 53.7% dari efek pascates ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 
 Bukti untuk alat itu sendiri bisa negatif pada skala kecil: dalam uji lima hari tentang pecahan di sekolah dasar (n akhir = 22), kelompok business-as-usual menunjukkan keuntungan pemahaman yang secara signifikan lebih besar daripada kelompok Mathbot adaptif-AI, dan penulisnya menandai perancu tingkat kelas, menebak, serta biaya lisensi sebagai batasan — label "adaptif" tidak membawa efek apa pun ([[ai-powered-personalized-learning-elementary-fractions-2026|Holman (2024)]]).
@@ -149,43 +150,3 @@ Masalah yang berulang adalah bahwa "pembelajaran yang dipersonalisasi" adalah is
 
 - Berhentilah mencampuradukkan personalisasi dengan adaptasi dalam konstruk yang Anda ukur, dan nyatakan secara eksplisit mekanisme mana yang menghasilkan efeknya.
 - Laporkan perolehan belajar ternormalisasi sebagai hasil primer; kelangkaannya dalam literatur adalah celah yang harus ditutup, bukan konvensi yang harus diwarisi.
-
-## Konsep terkait
-
-- [[adaptive-learning]] — Sistem adaptif yang menyesuaikan konten, kecepatan, dan kesulitan dengan pembelajar secara waktu nyata
-- [[intelligent-tutoring]] — Sistem tutoring yang memodelkan pembelajar dan menyampaikan instruksi individual
-- [[student-modeling]] — Merepresentasikan pengetahuan, keterampilan, dan keadaan pembelajar yang menggerakkan adaptasi
-- [[knowledge-tracing]] — Menyimpulkan penguasaan komponen pengetahuan dari kinerja sepanjang waktu
-- [[cognitive-diagnosis]] — Mendiagnosis pengetahuan dan atribut laten pembelajar dari respons
-- [[scaffolding]] — Dukungan dan pemudaran yang dikalibrasi dengan kebutuhan pembelajar individual
-- [[student-experience]] — Pengalaman hidup pembelajar atas personalisasi
-- [[learning-analytics]] — Pengukuran pembelajaran berbasis data yang menginformasikan adaptasi
-- [[formative-assessment]] — Penilaian berkelanjutan yang memberi sinyal apa yang diadaptasi selanjutnya
-- [[summative-assessment]] — Penilaian titik akhir yang keterbandingannya dipersulit oleh personalisasi
-- [[generative-ai]] — Personalisasi percakapan berbasis LLM
-- [[edtech-platform]] — Platform yang menyampaikan pembelajaran terpersonalisasi dalam skala besar
-- [[higher-ed]] — Konteks pendidikan tinggi untuk personalisasi
-- [[online-teaching-and-learning]] — Pengajaran dan Pembelajaran Daring
-- [[recommender-systems-and-learning-paths]]
-
-## Artikel terkait
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Regenerasi video kuliah terpersonalisasi industri dari transkrip benih: penyesuaian tingkat audiens, dinilai oleh pakar domain (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Mikro-personalisasi asisten pengajaran AI melalui rekayasa prompt (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (ringkasan Stanford SCALE/NSSA)
-- [[mishra-control-vs-agency-history-2025]] — Membedakan dua bentuk personalisasi (hasil seragam vs beragam)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Mendefinisikan ulang pembelajaran yang dipersonalisasi: tinjauan sistematis
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Substrat personalisasi berbasis agen untuk tutoring
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Model pengetahuan hibrida berlapis berbasis ontologi untuk e-learning terpersonalisasi
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Pembelajaran adaptif terpersonalisasi untuk pecahan di sekolah dasar
-- [[ai-coaching-rl-skill-development]] — Pelatihan berbasis pembelajaran penguatan untuk pengembangan keterampilan
-- [[personalized-ai-generated-videos-preference-2026]] — Siswa lebih menyukai video hasil AI terpersonalisasi daripada rekaman manusia non-terpersonalisasi (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnosis kognitif Bayesian untuk jalur pembelajaran terpersonalisasi
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Peran instruktur dan AI dalam penilaian formatif yang diperkuat ChatGPT
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias dalam umpan balik otomatis terpersonalisasi
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tinjauan sistematis: jalur adaptif & sistem rekomendasi adalah kasus penggunaan integrasi AI teratas di pendidikan tinggi
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Cacat tetapi Berkesan: Resepsi Kritis Siswa atas Analogi GenAI Terpersonalisasi Minat dalam Pendidikan Komputasi
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Paradoks personalisasi: personalisasi adaptif yang dipersepsikan terkait dengan pembelajaran yang diatur sendiri lebih rendah melalui emosi akademik, diredam oleh literasi AI (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: perencana LLM mencapai validitas 90.9% tetapi tidak ada model yang melampaui adaptivitas 44.7% ketika mempersonalisasi jalur ke tujuan pembelajar yang dinyatakan (Liu et al. 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Empat studi, efek gabungan yang besar, dan kepastian yang sangat rendah

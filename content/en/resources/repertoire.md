@@ -22,6 +22,7 @@ ai_assist:
     role: drafting
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 A builder for AI-integrated assignments, built by Joseph Slade at Oregon State University and operated by AI Education Labs, Inc. The premise is that the alternative to a free-for-all chatbot is not prohibition but structure: the instructor defines the steps a student moves through, decides what role the model plays at each step, and sets how far a student may lean on it. The assignment is then published as a join link rather than distributed as a prompt document.
@@ -47,9 +48,3 @@ Instructors in higher education who want [[learning-design|learning design]] to 
 - **Third-party inference.** Replies are generated through Anthropic's Claude API with OpenAI's API as a backup, under commercial terms that the policy says exclude training on API inputs and outputs as of September 2026. An institution should confirm that through its own agreement rather than through a web page.
 - **It is not a grader.** The policy and terms both describe assistant judgments such as "objective met" as aids to the instructor; grades and academic decisions stay with the instructor and institution, and decisions about [[ai-use-disclosure|disclosing AI use]] to students are left to the instructor.
 - **US-hosted.** Data sits in Google Cloud Firestore with Vercel hosting, and the policy addresses FERPA obligations where the service handles education records; users outside the United States are told their data is processed there.
-
-## Connected Concepts
-
-- [[learning-design]] — structured assignment design as the point where AI policy becomes concrete.
-- [[guardrails]] — engagement gates and capped AI help as design-time constraints.
-- [[ai-use-disclosure]] — the instructor, not the platform, decides how AI use is declared to students.

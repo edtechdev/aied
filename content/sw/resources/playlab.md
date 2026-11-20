@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -42,8 +43,3 @@ Walimu wa K-12 na wilimi wanaotaka vidhibiti vya darasa na kuweka mtaala bila ku
 ## Vidokezo
 
 Upatikanaji wa kijenzi umefungwa: ukurasa wa kuanzia unaomba barua pepe na nafasi katika warsha ya kuingizwa, au msimbo wa mwaliko. Madai yake ya kufuata (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), ahadi kuwa kazi yako haifanyi mafunzo ya mifano ya nje na upeanaji wa haki za matokeo kwa mtengenezaji yanapaswa kuwa katika makubaliano ya uchakataji wa data, si tu ukurasa wa uuzaji; ulinganisho wake wa uwezo dhidi ya MagicSchool na chatbot kuu ni wa Playlab yenyewe, wenye tarehe ya katikati ya 2026. Ilikua kutoka kazi ya upangaji wa watumiaji wa mwisho iliyounganishwa na Scratch na MIT Media Lab.
-
-## Dhana Zilizounganishwa
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

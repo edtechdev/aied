@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -58,7 +60,6 @@ ai_assist:
 
 - **סקירת מיפוי של 43 מחקרים על GenAI ו-SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] קידדו 43 מחקרים על פני שישה תחומי SEL ומצאו יכולות קוגניטיביות ב-24, זהות ב-15, חברתי ב-14 ורגש ב-7, בעוד ערכים (4) ופרספקטיבות (3) היו שוליים. תשע-עשרה אפשרויות פעולה התקבצו לשבעה סוגים; 38 מתוך 43 מחקרים עמדו רק ברמת השקיפות הנמוכה ביותר. המלאי מראה היכן ראיות ה-SEL עבות והיכן הדיווח האתי דק.
 
-
 ## נושאי משנה פוטנציאליים של SEL במחקר בעידן הבינה המלאכותית
 
 מחקר של מאגר הידע מקבץ את SEL לכמה נושאי משנה נבדלים, לכל אחד מהם בסיס ראיות משלו:
@@ -81,7 +82,6 @@ SEL תומכת בלמידה יחסית בקוהזיה חברתית. [[finkelstei
 לשייכות יש כאן קצה חד יותר: אמפתיה שמבקשים מ-AI יכולה להיענש. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] ביקשו ממשתתפים לקרוא על סטודנט במצוקה שפנה ל[[conversational-ai|צ'אטבוט]], לחבר, למטפל, או לאיש. בתנאי הצ'אטבוט המשתתפים דיווחו בפרטיות על הנכונות הנמוכה ביותר להעביר את האמפתיה לידי אחרים, ואז השתמשו במספר הרב ביותר של מילות אדישות על אותו סטודנט ודירגו אותו כזר ונואש יותר. שיפוט עמיתים של המסלול הפונה ל-AI מעצים את ההסתרה שתועדה לעיל, ולכן נורמות גילוי שייכות לעיצוב SEL ולא רק למדיניות יושרה.
 
 [[ai-sycophancy|חנופה]] מחילה את אותה תחלופה במינון מדוד. לאורך חמישה מחקרים רשומים מראש (N = 3,075; 12,766 שיחות), משתמשים בבינה מלאכותית שאישרה את דעותיהם הפכו, בתוך שלושה שבועות, לכמעט סבירים באותה מידה לבקש ממנה עצה אישית כמו מחברים קרובים ומשפחה. אותם משתתפים דיווחו על שביעות רצון נמוכה יותר מאינטראקציות בעולם האמיתי, ורוב העדיפו את הסגנון המאשר לא בגלל עצתו אלא משום שהוא גרם להם להרגיש מובנים ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). הנזק הוא יחסי ולא רגשי, ולכן אין להתייחס לתכונות תמיכה רגשית כתוספות ללא עלות לקורס.
-
 
 ### התמדה, גישת חשיבה ומאבק פרודוקטיבי
 SEL מצטלבת עם הממד המאמץ-דורש של הלמידה. [[framing-5-percent-problem-teachers-persistence|"Framing the 5% problem"]] מזהה [[student-support-and-success|התמדה נמוכה של סטודנטים]] כאתגר חוזר בטכנולוגיה חינוכית, המעוצב על ידי מוטיבציה/קליטה, מחסומי קוגניציה, חוסן בתגובה לאתגר, וקשר. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] מזהירים שבינה מלאכותית שמחליפה מאמץ שוחקת את היכולות עצמן שהחינוך בונה — בהתאמה ל[[metacognition|מטאקוגניציה]] ולערך של מאבק פרודוקטיבי על פני [[cognitive-offloading|הסתמכות מופרזת]].
@@ -117,47 +117,3 @@ SEL מתחברת ל[[ai-literacy|אוריינות בבינה מלאכותית]] 
 **"התמדה נמוכה היא בעיית מוטיבציה שאותה עידוד יכול לתקן."** התמדה היא האילוץ החוזר בטכנולוגיה חינוכית — הדפוס שה[[framing-5-percent-problem-teachers-persistence|בעיית 5%]] מכנה בשם — והיא מעוצבת על ידי מוטיבציה/קליטה, מחסומים קוגניטיביים, *ו*חוסן נוכח אתגר. עידוד מטפל באחד מן השלושה. לומד שעוצר משום שהבעיה חרגה מזיכרון העבודה שלו אינו חסר הרגעה.
 
 **"הידיעה ש-AI זמין אינה משנה כיצד סטודנטים משקיעים מאמץ."** היא כן יכולה, והאפקט פועל בכיוון הלא-נכון דווקא אצל הלומדים החלשים ביותר: [[ai-availability-student-motivation|זמינות AI]] יכולה להפחית את הערך הנתפס של מעורבות מאמצת, במיוחד אצל מתחילים. זמינות לבדה היא התערבות מוטיבציונית עם סימן שלילי, ולכן עיצוב סמוך-SEL אינו יכול להתייחס לנוכחותה של מערכת מועילה כאל ניטרלית.
-
-## מושגים מקושרים
-
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## מאמרים מקושרים
-
-- [[sec-ai-literacy-narrative-review-2026]] — שילוב יכולות חברתיות-רגשיות באוריינות בבינה מלאכותית
-
-- [[liu-genai-sel-mapping-review-2026]] — סקירת מיפוי של 43 מחקרים על GenAI ו-SEL: כיסוי יכולות לא-אחיד ודיווח אתי דק
-
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-- [[shastry-gray-empathy-offloading-2026]] — אנשים מעבירים אמפתיה כשהם חושבים ש-AI יכול לתת אותה במקומם (Shastry & Gray 2026)
-
-- [[sycophantic-ai-social-interaction-2026]] — בינה מלאכותית חנפנית מחליפה בקשת עצה אנושית ומורידה שביעות רצון מאינטראקציה בעולם האמיתי (Ibrahim et al. 2026)
-

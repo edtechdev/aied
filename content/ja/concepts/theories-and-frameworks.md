@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -127,32 +129,3 @@ ai_assist:
 **「学習理論、学習者のモデル、採用の枠組みは交換可能なレンズである。」** それらは異なる問いに答えます。学習がどう起こるか、学習者の状態は何か、なぜ実践が広がるかであり、証拠の型もそれに応じて異なります。層を選び間違えると、正しい変数を誤った予測に対して測る研究が生まれ、それは範疇の誤りであるのに帰無結果として読まれます。
 
 **「枠組みが多いほど成熟した分野である。」** AI時代のために作られた枠組みは、検証されるよりも速く蓄積します。反証を伴わない蓄積は進歩ではなく症状です。成熟は語彙の増加ではなく、競合する予測が決着することに現れます。
-
-## 関連概念
-
-- [[theory-development-aied]] — この分野で理論を構築し改訂すること
-- [[philosophy-of-ai-in-education]] — 規範的・概念的層
-- [[learning-theories]] — 学習理論の包括枠
-- [[learning-sciences]] — 理論の多くが借りられる隣接分野
-- [[limitations-in-aied-research]] — 証拠基盤が支えられるものと支えられないもの
-- [[tpack]] — 教師の知識の枠組み
-- [[technology-acceptance-model]] — 受容の枠組み
-- [[item-response-theory]] — 測定モデル
-- [[universal-design-for-learning]] — 設計の枠組み
-- [[research-methods-aied]] — 理論がどう検証されるか
-
-## 関連記事
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — アフォーダンス分類体系の第4のカテゴリーとして情動的アフォーダンスを提案。
-- [[ai-game-based-learning-systematic-review-2026]] — 55件のAIゲームベース学習研究において、効果を左右したのはアルゴリズムの高度さではなく、メカニズムと理論の整合性であった。
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Edフレームワークを通じてAIEDの40年を捉える。
-- [[educating-minds-generative-ai-2026]] — 生成AIと学習に関する理論重視の統合的検討。
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 活動理論を教員の専門性開発に適用。
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 活動理論と教員による導入。
-- [[generativism-learning-theory]] — 生成AI時代に向けて提案された学習理論。
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 認識的協働エージェンシーの理論に向けて。
-- [[absent-cognitive-baseline-2026]] — AIネイティブな学生の自己評価における構造的ギャップの理論化。
-- [[yan-agentivism-learning-theory-ai-2026]] — 人間とAIの相互作用のための中範囲学習理論。
-- [[ai-literacy-instrument-development-systematic-review-2026]] — 新しい構成概念をめぐる測定尺度の開発。
-- [[mishra-control-vs-agency-history-2025]] — 本分野の根底にある制御対エージェンシーの緊張関係。
-- [[wells-genai-research-assistant-sociology-2026]] — 学部社会学研究方法論における研究アシスタントとしての生成AIの役割の探究。

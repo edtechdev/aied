@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -126,32 +128,3 @@ Poravnanje mehanizma s teorijom ipak može biti odlučujuće: tematska sinteza 5
 **„Teorije učenja, modeli učenika i okviri usvajanja zamjenjive su leće.“** Odgovaraju na različita pitanja — kako se učenje događa, kakvo je stanje učenika i zašto se praksa širi — pa se i vrste dokaza razlikuju. Odabir pogrešnog sloja proizvodi studiju koja mjeri pravu varijablu prema pogrešnom predviđanju, što se čita kao nulti rezultat, a zapravo je kategorijska pogreška.
 
 **„Više okvira znači zrelije područje.“** Okviri skovani za eru umjetne inteligencije nakupljaju se brže nego što se testiraju, a nakupljanje bez opovrgavanja simptom je, a ne napredak. Zrelost se pokazuje rješavanjem konkurentskih predviđanja, a ne rastom rječnika.
-
-## Povezani koncepti
-
-- [[theory-development-aied]] — građenje i revidiranje teorije u području
-- [[philosophy-of-ai-in-education]] — normativni i konceptualni sloj
-- [[learning-theories]] — krovni koncept za teorije učenja
-- [[learning-sciences]] — susjedno polje iz kojeg se posuđuje većina teorije
-- [[limitations-in-aied-research]] — što baza dokaza može i ne može poduprijeti
-- [[tpack]] — okvir nastavničkog znanja
-- [[technology-acceptance-model]] — okviri usvajanja
-- [[item-response-theory]] — mjerni model
-- [[universal-design-for-learning]] — dizajnerski okvir
-- [[research-methods-aied]] — kako se teorija testira
-
-## Povezani članci
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — emocionalne afordancije predložene kao četvrta kategorija u taksonomiji afordancija
-- [[ai-game-based-learning-systematic-review-2026]] — poravnanje mehanizma s teorijom, a ne algoritamska sofisticiranost, pokretalo je djelotvornost u 55 studija učenja temeljenog na igri uz umjetnu inteligenciju
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — četiri desetljeća umjetne inteligencije u obrazovanju kroz okvir AI×Ed
-- [[educating-minds-generative-ai-2026]] — teorijski bogata sinteza generativne umjetne inteligencije i učenja
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teorija aktivnosti primijenjena na profesionalni razvoj nastavnika
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — teorija aktivnosti i usvajanje među nastavnicima
-- [[generativism-learning-theory]] — teorija učenja predložena za eru generativne umjetne inteligencije
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — prema teoriji epistemičke sudjelotvornosti
-- [[absent-cognitive-baseline-2026]] — teoretiziranje strukturne praznine u samoprocjeni UI-nativnih učenika
-- [[yan-agentivism-learning-theory-ai-2026]] — teorija učenja srednjeg dosega za interakciju čovjeka i umjetne inteligencije
-- [[ai-literacy-instrument-development-systematic-review-2026]] — razvoj instrumenata za mlad konstrukt
-- [[mishra-control-vs-agency-history-2025]] — temeljna napetost kontrole i djelotvornosti u području

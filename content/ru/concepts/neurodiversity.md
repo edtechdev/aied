@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -91,33 +93,3 @@ ai_assist:
 - **«Исследования нейроразнообразия — нишевый уголок [[ai-education|AIED]]».** Поле **переорганизовалось вокруг [[generative-ai|генеративного ИИ]] — 15 из 40 исследований**, — а иммерсивные форматы вторые с 11. Литература двигалась вместе с технологией, а не накапливалась вокруг устойчивых вопросов.
 - **«Больше ИИ для дислексии значит лучшую поддержку».** [[dabaghi-ai-dyslexia-education-review-2026|Междисциплинарный обзор ИИ для дислексии (Dabaghi, D'Urso and Sciarrone, 2026)]] охватывает **72 исследования за 2018–2024** и обнаруживает использование ИИ в широком спектре целей. Широта применения не является доказательством эффективности ни для одной из них.
 - **«Адаптации — правильная рамка для нейроотличных учащихся».** [[neurodivergent-computing-students|Опрос 24 нейроотличных студентов компьютерных наук и 20 нейротипичных сверстников]] с четырьмя глубокими интервью обнаружил потребности, которые являются **общими требованиями дизайна** — структурированные задания, малые стабильные команды, явные роли, — а не индивидуальными приспособлениями, выдаваемыми после диагноза.
-
-## Связанные концепции
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Связанные статьи
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Переосмысление образовательной ценности EdTech для нейроинклюзивных начальных классов: обзор охвата
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 исследований ИИ для учащихся с ограниченными возможностями и эффект, различающийся по категории
-- [[adhd-video-segmentation-computing-education]] — Временная сегментация видео, приведшая участников с СДВГ к паритету
-- [[neurodivergent-computing-students]] — 24 нейродивергентных студента компьютерных наук о структуре, неоднозначности и сотрудничестве
-- [[genai-reliance-executive-functioning-2026]] — Трудности исполнительного функционирования, воспринимаемая полезность и путь к опоре на ИИ
-- [[seung-basham-cognitive-offloading-swld-2026]] — Когнитивное разгрузочное делегирование с GenAI для учащихся с нарушениями обучения
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ИИ для помощи людям с дислексией в образовании
-- [[genai-minoritized-knowledges-disability]] — Генеративный ИИ и маргинализация миноритизированных знаний
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Проектирование инструментов обучения на базе ИИ, осведомлённых о потребностях и внимании
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Процессы на основе детекторов могут отпугивать от законного использования адаптаций

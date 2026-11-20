@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,37 +68,3 @@ Pertahanan terhadap manipulasi semacam itu membawa pertukarannya sendiri: alur p
 - **"Kesalahannya jelas ketika muncul."** AI yang mendiagnosis matematika tulisan tangan dapat **memfabrikasi kutipan bukti yang tidak ada sambil mengklaim keyakinan**. Kegagalannya bukan jawaban yang tampak masuk akal tetapi salah; ia adalah dukungan yang diciptakan dan disajikan dengan kepastian, yang merupakan jenis tersulit untuk ditangkap karena terbaca justru sebagai bukti yang diinginkan pembaca cermat.
 - **"Keluaran tanpa sitasi adalah masalah format."** Dalam sebuah mata kuliah pascasarjana yang menggantikan buku teks komersialnya dengan bacaan yang dihasilkan AI, hanya **sekitar 0.80% dari 4,487 halaman yang tercatat memuat sitasi dalam teks bergaya APA**. Itu adalah ketiadaan provenans pada tingkat korpus, bukan kelalaian sesekali, dan artinya verifikasi tidak memiliki titik awal.
 - **"Halusinasi adalah masalah generasi model yang diselesaikan model yang lebih baru."** Rentang tingkatnya membentang 10-40% di 125 studi, yang merupakan sifat tugas dan penerapan sebanyak sifat model. Pengurangan tingkat adalah kemajuan nyata dan tidak mengubah bahwa pembaca harus dapat memeriksa.
-
-## Konsep terkait
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Artikel terkait
-- [[sim-ai-summary-memory-distortion-2026]] — Ringkasan AI yang menyesatkan mendistorsi memori orang dewasa tentang sebuah video, dan label AI atau manusia tidak melindungi mereka
-- [[frontiers-gai-hallucination-dependence-2026]] — Memberi label dialog GAI sebagai fabrikasi menurunkan kepercayaan dan ketergantungan sekaligus
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Isyarat kredibilitas menaikkan kepatuhan pada keluaran AI, dengan beberapa kasus yang dikutip salah diatribusikan atau fiktif
-- [[ivory-psychology-assessment-integrity-2026]] — Sitasi yang difabrikasi dan keluaran yang bertentangan dengan diri sendiri di dalam pekerjaan siswa yang lolos (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: penjelasan yang lancar tampak masuk akal tetapi salah pada tingkat konseptual (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeksi prompt tersembunyi menaikkan nilai yang dinilai AI tanpa terdeteksi, dan serangan yang terdeteksi tidak dilaporkan (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Merancang Penilaian Autentik dengan AI Generatif: Studi Percontohan Assessment Authentifire di Pendidikan Tinggi

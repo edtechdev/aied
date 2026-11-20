@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [curriculum-design, learning-design, pedagogical-patterns, generative-ai, simulation, knowledge-graph, vibe-coding, open-source, design-thinking, educational-development]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -49,16 +50,3 @@ Docenten en onderwijsontwerpers die een cursusleerboek willen bouwen of onderhou
 ## Opmerkingen en kanttekeningen
 
 Dit is een gids en toolchain uit de praktijk, geen peerreviewde studie — hij presenteert een werkstroom en zijn eigen onderwijskundige onderbouwing ("intelligente leerboeken leiden studenten door concepten op hun zoektocht naar kennis") in plaats van bewijs van leeruitkomsten. Het MicroSim-onderzoeksartikel komt het dichtst bij empirische onderbouwing, en het is zelf gepubliceerd op arXiv. Beide projecten zijn opensource (de intelligent-textbooks-repo meldt een MIT-licentie en 38 sterren; MicroSims meldt een Creative Commons-licentie en 13 sterren) en worden actief onderhouden. Conceptgrafen en een woordenlijst-eerst-structuur zijn echt nuttig voor vindbaarheid, maar de gids veronderstelt een tamelijk technische werkstroom — MkDocs, Git en generatieve-AI-tooling — wat voor sommige docenten een drempel kan zijn. Op het moment van opname staat het register voor MicroSims nog alleen op de planning, dus het vinden van een specifieke bestaande simulatie leunt op het zoeken en navigeren van de site zelf.
-
-## Gerelateerde concepten
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[pedagogical-patterns]]
-- [[generative-ai]]
-- [[simulation]]
-- [[knowledge-graph]]
-- [[vibe-coding]]
-- [[open-source]]
-- [[design-thinking]]
-- [[educational-development]]

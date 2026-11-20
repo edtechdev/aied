@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -46,18 +48,15 @@ SRL adalah proses di mana pembelajar secara aktif mengelola pembelajarannya send
 
 Pembelajar yang terampil meregulasi diri menggunakan strategi kognitif untuk meningkatkan keberhasilan dan memanfaatkan [[metacognition]] untuk menyempurnakan proses belajar mereka secara berkelanjutan.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-
 Karya empiris dalam sebuah mata kuliah yang dimediasi teknologi menegaskan keterkaitan fase itu: dalam studi stokastika adaptif selama delapan minggu (194 siswa), nilai tugas, efikasi diri, orientasi tujuan, dan emosi positif pada fase pra-tindakan memprediksi perilaku regulatif dalam tindakan sementara emosi negatif menghambatnya, dan kepuasan pasca-tindakan mengalir maju ke fase pra-tindakan berikutnya ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]]).
 
 Pemetaan sistematis atas 84 studi AI–SRL menemukan bahwa penelitian terkonsentrasi pada mahasiswa pendidikan tinggi dan pada aspek metakognitif serta kognitif regulasi diri, dengan dimensi motivasional kurang dieksplorasi dan lebih dari sepertiga studi tidak mencantumkan teori SRL sama sekali ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
 
 Yang krusial, SRL di sekitar AI dibentuk oleh *persepsi* sebagaimana oleh perilaku: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] menunjukkan bahwa apakah siswa mempersepsikan umpan balik berasal dari AI atau manusia secara signifikan memengaruhi regulasi diri dan perilaku revisi mereka — pengingat bahwa pembingkaian sosial AI, bukan hanya isinya, mengubah cara pembelajar meregulasi di sekitarnya.
 
-
 Satu modus kegagalan berada sebelum regulasi dimulai: prokrastinasi belajar berbantuan GenAI — penundaan yang tidak perlu dalam memulai pekerjaan yang didukung GenAI meskipun ada niat tulus untuk menggunakannya. Di antara 1,243 mahasiswa Cina, penggunaan GenAI yang lebih sering berjalan seiring dengan penggunaannya yang lebih sedikit (β = −0.195), dan kecemasan belajar GenAI memperkuat kaitan niat-penundaan ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 Di mana GenAI masuk ke dalam siklus menentukan efeknya: dengan memetakan fase prakiraan, kinerja, dan refleksi Zimmerman ke lingkungan yang dimediasi AI, sebuah kerangka ko-agensi berargumen bahwa titik masuknya menentukan apakah alat memperkuat atau mengikis rasa kendali pembelajar, dan bahwa pengalihan hanya mendukung pembelajaran transformatif ketika keputusannya disengaja alih-alih rutin ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
-
 
 Survei lintas-seksi atas 434 mahasiswa [[special-education|pendidikan khusus]] mengukur satu rantai semacam itu: literasi [[generative-ai|GenAI]] berasosiasi positif dengan perilaku regulasi diri dalam belajar berbantuan GenAI (B total = 0.701), terutama melalui [[agency|agensi]] belajar (B = 0.345) alih-alih emosi tantangan (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
 
@@ -107,7 +106,6 @@ Alat AI dapat masuk ke lingkaran ini pada titik yang berbeda:
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] membingkai ulang penggunaan [[generative-ai|GenAI]] yang efektif dalam [[writing-education|penulisan akademik]] sebagai **regulasi strategis** — praktik SRL yang dijalankan berupa memverifikasi, merevisi, mengadopsi secara selektif, atau menolak keluaran AI. Dalam studi [[mixed-methods-research|metode campuran]] terhadap 107 siswa, [[anxiety-and-stress|kecemasan AI]] yang lebih tinggi berasosiasi positif dengan verifikasi dan revisi (β=.24), sementara kapasitas evaluatif memprediksi revisi aktif dan integrasi selektif (β=.46). Siswa terkelompok ke dalam empat tipe regulatif — Ketergantungan Tanpa Kritik (18.7%), Integrasi Selektif (34.6%), Transformasi Evaluatif (31.8%), dan Penolakan Strategis (14.9%) — menunjukkan bahwa [[ai-literacy]] di [[higher-ed]] berfungsi bukan sebagai penerimaan melainkan sebagai kompetensi regulatif yang berlandaskan [[evaluative-judgment|pertimbangan evaluatif]] dan tanggung jawab [[ethics|etis]]. Ini memosisikan SRL sebagai mekanisme inti yang membedakan penggunaan AI yang kritis dari yang tidak kritis.
 
 Pengaturan atas alat itu sendiri merupakan segi yang dapat diukur: validasi dua gelombang dengan pembelajar EFL Cina (EFA N = 305; CFA N = 342) memisahkan enam dimensi regulatif dan menamai *regulasi lingkungan* — memeriksa akurasi keluaran yang dihasilkan, menyaring sumber daya yang disarankan, dan menetapkan batas ketergantungan — sebagai salah satu dimensi tersendiri ([[genai-srl-l2-writing-scale-2026|Wang, Zhang dan Zhang (2026)]]).
-
 
 Klasifikasikan sebelum mendelegasikan: [[scan-framework-task-assignment-generative-ai-2025|Tsim dan Gutoreva (2025)]] mengubah regulasi diri menjadi protokol per tugas — beri label setiap subtugas Substitusi, Komplemen, Bantuan, atau Tidak Dapat Dinegosiasikan, justifikasi dalam catatan metakognitif singkat, dan simpan jejak audit prompt, draf, dan revisi manusia — dengan siklus berulang sehingga penetapan satu tugas menginformasikan tugas berikutnya.
 **Setiap prompt sebagai jejak regulatif.** Membaca 429 prompt dari 23 siswa sebagai peristiwa regulasi diri dalam belajar menunjukkan campuran struktur yang bergeser mengikuti desain tugas sementara 53 dari 59 kiriman tetap dekat dengan keluaran model, menempatkan regulasi pada pertukaran alih-alih pada artefak ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]).
@@ -168,7 +166,6 @@ Sekelompok studi Learning Letters (2026) bertemu pada satu ketegangan sentral: [
 
 Pelajaran kolektifnya: **SRL adalah mekanisme inti yang membedakan penggunaan AI yang kritis dari yang tidak kritis.** Apakah GenAI berfungsi sebagai perancah, jalan pintas, atau mitra bergantung pada kapasitas regulatif pembelajar dan pada apakah alat dirancang untuk mempertahankan (bukan menghilangkan) tuntutan regulatif yang membangun keahlian.
 
-
 Siswa melaporkan lebih banyak prokrastinasi (β = 0.525) bersamaan dengan perolehan kinerja yang dipersepsikan, yang memisahkan penundaan kerja belajar karena AI tersedia dari penundaan dengan bantuan AI — pembedaan yang tidak dapat dibawa oleh satu skor regulasi diri ([[gouroubera-genai-benin-2026|Gouroubera dkk., 2026]]).
 
 Dukungan mana yang sedang berperan menentukan mediator mana yang membawa asosiasi: di antara 3,003 guru prajabatan Cina, dukungan alat AI yang dipersepsikan berjalan ke kompetensi inovatif terutama melalui [[self-efficacy]] AI (60.88% dari efek total jalur itu), sementara dukungan lingkungan cerdas berbasis sekolah yang dipersepsikan berjalan terutama melalui regulasi diri dalam belajar (29.64% berbanding 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
@@ -181,11 +178,9 @@ Dukungan mana yang sedang berperan menentukan mediator mana yang membawa asosias
 - **Bagi [[educational-policy-ai|kebijakan AI]]:** Kriteria pengadaan harus menanyakan apakah suatu alat mengembangkan atau menggusur regulasi diri
 - **Bagi [[research-methods-aied|peneliti]]:** Studi jangka panjang yang mengukur hasil SRL (bukan hanya kinerja langsung) sangat penting; Melanou et al. menunjukkan hasil dari kesabaran itu, karena penggunaan reflektif selama satu semester menggerakkan pemikiran kritis (β = 0.43) tanpa menggerakkan perolehan pengetahuan.
 
-
 ## Agen Percakapan dan SRL dalam Permainan Simulasi
 
 - **Agen percakapan yang mendukung regulasi diri dalam belajar dalam permainan.** Wenzel, Geiger, dan Liening (2026) menunjukkan bahwa agen percakapan AI (Lara) dalam permainan [[simulation|simulasi]] bisnis dapat mendukung regulasi diri dalam belajar melalui umpan balik [[formative-assessment|formatif]] berbasis metrik, panduan sesuai permintaan, dan refleksi terstruktur — menjawab keterbatasan umum bahwa permainan simulasi menyediakan umpan balik formatif dan prompt refleksi yang terbatas. Evaluasi dengan guru prajabatan dan peserta BSG melaporkan persepsi positif atas kehadiran kognitif dan [[community-of-inquiry|sosial]] agen serta dukungannya bagi regulasi diri.
-
 
 ## Deteksi SRL Otomatis: Apa yang Bertransfer dan Apa yang Tidak
 
@@ -199,77 +194,9 @@ Dukungan mana yang sedang berperan menentukan mediator mana yang membawa asosias
 - **Ketekunan yang dikodekan dari dialog dengan agen pedagogis berjalan negatif terhadap kinerja, baik dalam pengodean LLM maupun manusia.** Dalam asesmen berbasis percakapan atas 107 siswa sekolah menengah pembelajar bahasa Inggris, ketekunan yang dideteksi dari giliran log obrolan oleh delapan konfigurasi ChatGPT4o berkorelasi negatif dengan kinerja tugas (r = -0.19, p < .001), dan hitungan ketekunan seorang pengode manusia cocok dengan arah itu pada r = -0.32 ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober dkk. (2026)]]). Tantangan yang dipersepsikan (r = -0.25) membawa satu-satunya asosiasi negatif yang lebih kuat, dan konstruk lain juga berjalan negatif (efikasi diri r = -0.15, KSA sebelumnya r = -0.14, minat r = -0.08). Para penulis membaca ekspresi ketekunan sebagai kemungkinan pergulatan tidak produktif dan berargumen untuk membedakan ketekunan adaptif dari maladaptif — percobaan ulang strategis versus coba-coba berulang — sebelum sistem otomatis mana pun memperlakukan tuturan ketekunan sebagai keterlibatan.
 - **GPT-4o dapat membangun buku kode SRL berlandaskan teori hanya dari basis pengetahuannya.** Diberi hanya rujukan ke Zimmerman (2000) dan Winne dan Hadwin (1998), GPT-4o mengusulkan konstruk yang mencakup ketiga fase Zimmerman dan tiga dari empat tahap Winne-Hadwin, dengan hanya fase definisi tugas yang hilang, dan penyempurnaan manusia menetapkan buku kode pada 11 konstruk ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano dkk. (2026)]]). Menambahkan 955 tuturan berpikir-keras dari 15 siswa ke prompt menutup celah itu, mencakup semua fase kedua model dan memperkenalkan kode berlandaskan data seperti Identifikasi Kesalahan. Penyempurnaan manusia tetap esensial: dua pengode menggabungkan proposal GPT yang tumpang tindih (Perencanaan versus Penetapan Tujuan, Pemantauan versus Evaluasi, Evaluasi Hasil versus Proses), dan tidak ada halusinasi yang muncul.
 
-
 ## Miskonsepsi Umum
 
 - **"Regulasi diri adalah sifat pembelajar."** Pembelajaran teregulasi terurai menjadi **refleksi diri, atribusi kausal, dan adaptasi**, dan pembelajar yang terampil **menggunakan strategi kognitif untuk meningkatkan keberhasilan**. Ini adalah proses yang dapat dilatih dan dapat didukung atau dirusak oleh desain.
 - **"Desain adaptif apa pun mendukung regulasi secara setara."** [[scheu-mobile-chatbot-journaling-motivation-2026|Eksperimen lapangan acak 2x2 Scheu et al.]] **dengan 179 siswa selama 22 hari** membandingkan dua prinsip desain dan menemukannya berbeda dalam mekanisme, sehingga "adaptif" bukan satu perlakuan.
 - **"Kecemasan merusak regulasi."** Dalam studi metode campuran terhadap **107 siswa**, [[anxiety-and-stress|kecemasan AI]] yang lebih tinggi **berasosiasi positif dengan verifikasi dan pemeriksaan ulang**. Kecemasan berfungsi sebagai pemicu untuk memverifikasi, yang merupakan regulasi alih-alih ketiadaannya.
 - **SRL metakognitif memprediksi beban yang relevan bagi pembelajaran di tempat [[ai-feedback-quality|umpan balik AI]] tidak.** Dalam studi lapangan lima minggu dengan **234 siswa dan 1,147 observasi**, regulasi diri metakognitif merupakan prediktor positif substansial bagi **beban kognitif germane** (β = .363, p < .001 intention-to-treat; .346, p < .001 berbasis penggunaan) dan tidak secara signifikan memprediksi beban ekstraneus — sementara akses semata ke umpan balik AI percakapan tidak memprediksi keduanya. Hanya keterlibatan **berkelanjutan** dengan umpan balik yang memisahkan siswa pada beban germane, dan penggunaan tidak teratur tidak (β = −.219, p = .116), yang menempatkan bahan aktifnya pada regulasi pemrosesan oleh pembelajar alih-alih pada pasokan umpan balik ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger dan Liening, 2026]]).
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[metacognition]] — pemantauan kognitif yang menjadi andalan SRL
-- [[self-assessment]]
-- [[self-efficacy]] — keyakinan fase prakiraan yang menggerakkan usaha
-- [[scaffolding]] — dukungan bertahap yang mempertahankan tuntutan regulatif
-- [[feedback]] — masukan yang di sekitarnya pembelajar meregulasi
-- [[feedback-literacy]] — kapasitas untuk bertindak atas umpan balik
-- [[help-seeking]] — perilaku SRL yang strategis
-- [[motivation]] — mitra timbal balik regulasi diri
-- [[cognitive-offloading]] — risiko ketika AI menghilangkan kerja regulatif
-- [[generative-ai]] — teknologi yang dapat merancang perancah atau memutus SRL
-- [[ai-literacy]] — kompetensi regulatif dalam penggunaan AI
-- [[self-directed-learning]] — konstruk otonomi yang lebih luas
-- [[agency]] — kapasitas pembelajar untuk bertindak dengan niat, sentral bagi regulasi, integrasi, dan posisi
-- [[adaptive-learning]] — personalisasi yang dapat mendukung regulasi
-- [[formative-assessment]] — umpan balik berkelanjutan untuk regulasi
-- [[learning-by-teaching]] — strategi yang membangun regulasi diri
-- [[intelligent-tutoring]] — sistem yang merancang perancah SRL
-- [[llm]] — model di balik alat AI
-- [[retrieval-spacing-interleaving]] — penjadwalan, uji diri, dan pilihan strategi belajar yang dibuat pembelajar
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Artikel terkait
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analisis pembelajaran regulasi diri berbantuan AI: g = 0.76 pada 34 studi, dengan jenis alat dan peran pedagogis memoderasi efeknya (Zhang et al. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Ketergantungan AI generatif dan hasil belajar yang dipersepsikan: jalur regulasi usaha (Li, Zhang & Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Akurasi per kategori SRL yang disegmentasi LLM di kelas terwujud (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Apa yang tidak ditunjukkan kiriman: mengomplekskan pengalihan kognitif dalam kerja matematika siswa dengan LLM (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Atribusi berlebihan model atas regulasi diri dari isyarat dangkal dalam pemetaan kurikulum (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — Affordans AIGC dan Regulasi Diri Mahasiswa
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Literasi interaksi AI: mengarahkan chatbot menuntut SRL yang seharusnya didukungnya (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — Model refleksi 5P untuk era GenAI (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pengalihan kognitif yang sensitif lapisan dalam menulis berbantuan GenAI (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — Agensi pembelajar lintas skala: regulasi, integrasi, posisi
-- [[rented-self-decoupling-performance-becoming-2026]] — Diri yang disewa: sewa yang dipetakan ke model SRL Winne, dengan sepuluh proposisi dan indeks dalam-pembelajar
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI sebagai mitra belajar yang sadar konteks sepanjang waktu
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Bagaimana siswa meregulasi belajar dengan chatbot genAI
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Perancah atau jalan pintas? Peran ganda GenAI dalam SRL
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Pencarian bantuan yang dimediasi LLM di STEM: berlapis, instrumental, dan terverifikasi
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Umpan balik GenAI dan SRL: sumber yang dipersepsikan itu penting
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Dari kecemasan AI ke regulasi strategis
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Bukti campuran tentang metakognisi/regulasi diri dengan GenAI
-- [[agentic-ai-pedagogical-best-practice-2026]] — AI agentik dan ketegangan regulasi diri
-- [[decreasing-digital-distraction-college-online-learning-2026]] — SRL dan distraksi digital yang lebih rendah dalam pembelajaran daring (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses guru di kelas campuran
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: lingkaran yang berhadapan dengan pembelajar berupa identifikasi tugas, justifikasi, dan refleksi pasca-tugas
-- [[learning-analytics-genai-secondary-writing-2026]] — Menggunakan Analitik Pembelajaran untuk Mendukung Penulisan Siswa Sekolah Menengah dengan AI Generatif
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Instrumen tervalidasi untuk regulasi diri berbantuan AI dalam pembelajaran STEM adaptif, dengan kesadaran metakognitif sebagai prediktor terkuat
-- [[iqbal-human-genai-support-essay-revision-2026]] — Kondisi dukungan, bukan pertimbangan metakognitif, yang menggerakkan pilihan strategi revisi dalam eksperimen revisi esai
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Longitudinal: penggunaan AI reflektif memprediksi pemikiran kritis tetapi bukan perolehan pengetahuan, tanpa efek Matius
-
-- [[genai-literacy-srl-special-education-2026]] — Literasi GenAI terkait perilaku regulasi diri dalam belajar terutama melalui agensi belajar
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — Jenis dukungan membalik mediator: efikasi diri AI vs regulasi diri dalam belajar
-- [[genai-learning-procrastination-planned-behavior-2026]] — Prokrastinasi belajar berbantuan GenAI: celah niat-perilaku yang diperkuat kecemasan
-- [[genai-srl-l2-writing-scale-2026]] — Skala GenAI-SRL enam dimensi yang tervalidasi untuk penulisan L2, dengan regulasi lingkungan sebagai dimensi tersendiri dan bentuk pendek 12 butir yang dioptimalkan koloni semut
-- [[borchers-srl-language-generalization-2025]] — Model Bahasa Besar Menggeneralisasi Prediksi SRL ke Bahasa Baru di Dalam tetapi Tidak Antardomain (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — Model Pembelajaran Hibrida Berbasis Proyek Menggunakan Kecerdasan Buatan untuk Meningkatkan Regulasi Diri dalam Belajar Siswa
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — Asisten pengajar AI sebagai penanggap pertama menggusur balasan sebaya, dan bersamanya ko-regulasi yang memperbesar nilai regulasi diri bagi nilai akhir (Davis et al. 2026)
-- [[gouroubera-genai-benin-2026]] — Prokrastinasi naik seiring penggunaan (β = 0.525) di samping perolehan yang dipersepsikan, memisahkan penundaan yang dimungkinkan AI dari penundaan tentang AI (Gouroubera dkk. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Keragaman prakonsepsi mengubah cara prompt metakognitif mendarat: fungsi prompt sama, evaluasi berkelanjutan atas keluaran AI berlawanan (Wang et al. 2026)

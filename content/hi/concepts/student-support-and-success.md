@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,53 +110,3 @@ AI-सक्षम शिक्षार्थी सहायता के 61-�
 **"परिणाम सोपान ढह जाता है: संलग्नता ही प्रतिधारण है।"** प्रत्येक सीढ़ी कुछ भिन्न मापती है: ऑप्ट-इन करना, प्रतिक्रिया देना, टिकना, पूरा करना, और कोई कार्यक्रम निचली सीढ़ियों को हिला सकता है जबकि ऊपरी सीढ़ियाँ स्थिर रहें। प्रतिक्रियाशील हिस्से को सफलता के रूप में रिपोर्ट करना ठीक वही प्रतिस्थापन करता है।
 
 **"समानता की चिंता डेटा का उपयोग बंद करने का कारण है।"** यह अंकों पर सावधानी से कार्य करने का कारण है। किसी पूर्वानुमानक पर कार्य करना सहायता भी बाँट सकता है और संदेह भी, और जोखिम उन छात्रों पर केंद्रित होता है जिन्हें मॉडल सबसे कम अनुकूल रूप से वर्गीकृत करता है, जिससे उपाय उपयोग का प्रशासन बनता है, मापन का परित्याग नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[higher-ed]] — वह क्षेत्रीय छत्र जिसके नीचे यह पृष्ठ स्थित है
-- [[student-experience]] — AI छात्र के अपने अनुभव पर कैसे उतरता है
-- [[learning-gains]] — क्या सीख हुई, वह शिक्षण-निर्देशात्मक परिणाम जिसे यह पृष्ठ मापता नहीं
-- [[learning-analytics]] — पूर्वानुमान, प्रारंभिक चेतावनी, और पूर्वानुमानित विश्लेषण
-- [[student-modeling]] — जोखिम पूर्वानुमान के नीचे की मॉडलिंग परत
-- [[knowledge-tracing]] — सूक्ष्म कौशल और दक्षता आकलन
-- [[recommender-systems-and-learning-paths]] — पाठ्यक्रम, संसाधन और मार्गों की सिफ़ारिश
-- [[help-seeking]] — छात्र सहायता माँगने कैसे आते हैं
-- [[well-being]] — परिसर मानसिक स्वास्थ्य, रोकथाम और हस्तक्षेप
-- [[career-development-and-readiness]] — पूर्णता के बाद का परिणाम
-- [[administrator]] — वह भूमिका जो सहायता प्रणालियों का स्वामित्व और संचालन करती है
-- [[stakeholders]] — संस्थागत AI निर्णयों पर किसकी पुकार है
-- [[change-management]] — प्रायोगिक चरण के बाद कार्यक्रम को टिकाए रखना
-- [[governance]] — संस्थागत AI के लिए नीति और निरीक्षण
-- [[educational-policy-ai]] — संस्थागत तैनाती का नीति संदर्भ
-- [[equity-in-ai-education]] — प्रणाली किस तक पहुँचती है और किसे छोड़ती है
-- [[privacy]] — छात्र अभिलेख, डेटा साझाकरण, और संघीय दृष्टिकोण
-- [[human-in-the-loop-ai]] — स्वचालित सहायता प्रवाह के भीतर मानवीय विवेक
-- [[rct]] — यहाँ के सबसे मज़बूत प्रमाण के पीछे की अभिकल्पना
-
-## संबंधित लेख
-
-- [[cefa-ai-learner-support-review-2026]] — AI-सक्षम शिक्षार्थी सहायता की 61-अध्ययन समीक्षा: अनुकूली प्रणालियाँ और पूर्वानुमान हावी; संक्रमण चरण और विविध शिक्षार्थी अनुपस्थित
-- [[mata-sustaining-ai-enabled-student-support-2026]] — एक विश्वविद्यालय सहायता चैटबॉट का चार वर्षीय यादृच्छिक मूल्यांकन: कार्य पूर्णता बदली, स्नातक और GPA नहीं
-- [[chatbot-outreach-course-performance-2026]] — पूर्व-पंजीकृत बहु-सेमेस्टर संपर्क-कार्य परीक्षण: उच्च A/B दरें, मामूली DFW बदलाव, एक जनसांख्यिकीय अपवाद
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 सिंथेटिक विग्नेट: सहायता सिफ़ारिशों में छात्र की आवश्यकता के प्रति सीमित संवेदनशीलता और क्रॉस-मॉडल असंगतता
-- [[sc2r-counterfactual-recourse-educational-2026]] — कार्यान्वयनीयता अंतर: प्रतिकार व्यवहार्य और जाँचयोग्य होना चाहिए, केवल मॉडल-वैध नहीं
-- [[fairness-theatre-early-warning-systems-2026]] — 168,550 अभिलेखों से बनी एक विक्रेता प्रारंभिक चेतावनी प्रणाली पर छह पश्च-विश्लेषण निष्पक्षता हस्तक्षेप
-- [[at-risk-students-ml-prediction]] — नाम वापस लेने से पहले छात्रों की पहचान करने वाले पर्यवेक्षित वर्गीकारक
-- [[predicting-attrition-competitive-programming]] — व्यावहारिक लॉग और मनोवैज्ञानिक सर्वेक्षण से निरास का पूर्वानुमान
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — कच्चा छात्र डेटा साझा किए बिना संस्थाओं में संघीय जोखिम मॉडलिंग
-- [[precision-education-student-digital-twins-2026]] — डिजिटल ट्विन और एक दृष्टि के रूप में "निवारक छात्र सफलता"
-- [[learning-analytics-to-educational-interventions-2026]] — विश्लेषण से हस्तक्षेप तक का चक्र बंद करने के सात सक्षमक
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — मदद माँगने की लागत घटाने पर लक्षित एक पाठ्यक्रम-विशिष्ट सहायक
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — सीख से अलग से जाँची गई ट्यूशनिंग अपनाना
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — सुझाए गए शिक्षण वस्तुओं से जुड़ी छह व्यावहारिक प्रोफ़ाइल
-- [[trace-course-grade-prediction-2026]] — नियोजन के लिए पाठ्यक्रम और ग्रेड का संयुक्त पूर्वानुमान
-- [[zhang-ml-student-progress-programming-2026]] — व्याख्या-योग्य मॉड्यूल-स्तरीय प्रगति पूर्वानुमान
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — उच्च शिक्षा में AI, नेतृत्व और सेवा वितरण के 155 अध्ययन
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — शैक्षणिक नेतृत्व में AI का दस-क्षेत्र वर्गीकरण
-- [[students-at-stake-ai-deployment-risks-2026]] — छात्र-पक्षीय जोखिम सतह: प्रवेश और सहायता, छात्र-सफलता सेवाएँ, और शिक्षण-निर्देश
-- [[ai-campus-wellbeing-tools]] — रोकथाम और हस्तक्षेप को फैलाने वाली परिसर कल्याण सहायता
-- [[shastry-gray-empathy-offloading-2026]] — सहानुभूति ऑफ़लोडिंग पर चार अध्ययन: AI भावनात्मक सहायता दे सकता है यह मानने से लोग स्वयं कम देते हैं (शास्त्री एंड ग्रे 2026)
-- [[coursegraph-cs-course-comparison-2026]] — स्थानांतरण क्रेडिट और गतिशीलता के लिए पाठ्यक्रम तुल्यता
-- [[credentials-carry-evidence-ai-agents-2026]] — जब कोई एजेंट कार्य कर सकता है तो पूर्णता अभिलेख का क्या अर्थ है
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — अकचापिनार (2026) — AI-सहायित नकल के जोखिम का प्रारंभिक पूर्वानुमान, और कम-दांव संपर्क-कार्य के लिए सीमा समझौता
-- [[rienties-institutional-ai-assistant-co-design-2026]] — एक संस्थागत AI अध्ययन सहायक के पाँच सह-डिज़ाइन अध्ययन: पहले उपलब्धता, अंत में मूल्य-आधारित प्रतिरोध

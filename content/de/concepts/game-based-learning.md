@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -91,34 +93,3 @@ GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[st
 **„Positive Effekte auf Motivation und Wissen verstärken sich gegenseitig.“** Sie werden getrennt gemessen und in der weiter gefassten Literatur auch zeitlich getrennt verortet: [[student-engagement|Engagement und Lernleistung]] verlaufen nach unterschiedlichen Zeitachsen, ein Spiel, das die intrinsische Motivation steigert, hat damit also einen einzigen Effekt nachgewiesen. Wer das motivationale Ergebnis als Bestätigung des Wissenseffekts behandelt, bläht einen zweiteiligen Befund zu einem stärkeren auf, als das Design ihn trägt.
 
 **„Wenn ein Spiel Lernende motiviert, ergibt sich das Lernen von selbst aus dem Spaß."** Spaß ist das Transportmittel für jene Wiederholung, die ein Spiel erträglich macht — nicht der Mechanismus des Lernens selbst. Ein Spiel, das mehr Motivation schafft, ohne produktive Übung hinzuzufügen, hat genau den Teil hinzugefügt, an dem es nie gemangelt hat.
-
-## Verbundene Konzepte
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Überbegriff: Pädagogien und Unterrichtsstrategien in der KI-Bildung
-- [[virtual-and-augmented-reality]] — Immersives und gamifiziertes Üben überschneiden sich in Design und Evidenz
-
-## Verbundene Artikel
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — Grundschulkinder entwerfen ein Escape-Brettspiel; die AI-Literacy steigt innerhalb eines einzigen E-Kurs-Labs
-- [[ai-game-based-learning-systematic-review-2026]] — Systematischer Review von 55 Studien zu KI-gestütztem spielbasiertem Lernen: positive Ergebnisse, aber eine dünne Evidenzbasis
-
-- [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotik-Bildung
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotik und KI im Bildungswesen
-- [[genai-motivation-engagement-2026]] — Generative KI, Motivation und Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX-Belastung über gamifizierte/AI-Bedingungen hinweg
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS-Motivation und KI-gestützte Gamification
-- [[xie-genai-mystery-game-legal-education-2026]] — Von GenAI erstelltes Mystery-Rollenspiel im Vergleich zur Vorlesung in der juristischen Ausbildung (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Entwurf und vorläufige Validierung einer KI-gestützten spielbasierten Lernumgebung für Computational Thinking
-
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: Ein spielbasiertes Werkzeug zur Vermittlung von Prompt Engineering durch Text-zu-Bild-Generierung im K–12-Bereich

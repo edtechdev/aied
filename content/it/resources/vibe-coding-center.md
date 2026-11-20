@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -44,7 +45,3 @@ Insegnanti e [[learning-design|progettisti didattici]] nella scuola K-12 e nell'
 ## Note e avvertenze
 
 Il centro è orientamento, non un prodotto di conformità: il sito non avanza alcuna dichiarazione di conformità per il proprio obiettivo WCAG 2.2 AA, risponde «no» alla domanda «usare questi file rende il mio sito conforme?», e afferma che una revisione ingegneristica non sostituisce l'autorizzazione della scuola o la revisione legale. Lo scaffale della sicurezza punta ad axe-core, Gitleaks, ZAP e Playwright; sono riferimenti anziché software incluso, e quelli invasivi sono pensati per un obiettivo usa e getta o esplicitamente autorizzato. La lettura non richiede account. Ricostruire le pagine HTML richiede Python e `markdown-it-py`, che è una dipendenza di build e non una dipendenza per chi visita. Il repository è con licenza MIT, mentre le opere grafiche di terzi e i progetti collegati mantengono i propri termini, documentati in `CREDITS.md`.
-
-## Concetti collegati
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

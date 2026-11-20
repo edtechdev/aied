@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -50,7 +52,6 @@ Trattare le due come un'unica pagina oscurerebbe la distinzione su cui le prove 
 Il confine non è netto ai margini. La programmazione statistica si colloca dentro l'[[cs-education|educazione informatica]] nella maggior parte delle istituzioni, e diversi articoli qui sono archiviati lì; il lavoro sull'accessibilità della grafica statistica si sovrappone all'[[special-education|educazione speciale]] e alla progettazione [[accessibility|accessibile]]; la data science responsabile si sovrappone all'[[cs-education|educazione informatica]] e all'[[ethics|etica]]. La pagina è una casa per il cluster, non l'affermazione che il cluster sia sigillato.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund e colleghi (2026)]] segnano quella sovrapposizione dal lato del curricolo: quattro pilastri di responsabilità (rispondibilità, responsabilità, applicazione, riflessività) incrociati con quattro dimensioni di [[explainable-ai|XAI]], insegnati attraverso model card valutate, audit delle spiegazioni LIME e SHAP e valutazioni d'impatto, con gli autori che ammettono che la spiegazione non è la responsabilità.
-
 
 ## Artefatti generati e la questione della validità
 
@@ -87,26 +88,3 @@ La qualità delle impalcature conta indipendentemente dall'accesso. Un confronto
 - **"Soddisfazione e beneficio percepito indicano che uno strumento IA per la data science funziona."** Gli studenti usavano pesantemente gli LLM per il debugging e le domande concettuali e **dichiaravano un'elevata soddisfazione, mentre il loro beneficio percepito di apprendimento profondo calava nel corso del semestre**. La soddisfazione restava e la traiettoria di apprendimento autovalutata scendeva, quindi nessuna delle due cifre da sola è l'esito.
 - **"Un modello senza restrizioni vale quanto un tutor guidato."** Un confronto sperimentale ha rilevato che **una formazione esplicita allo scaffolding centrato sul ragionamento — suggerimenti a passi, verifica — produceva prestazioni indipendenti migliori** rispetto all'accesso senza restrizioni. La guida, e la formazione su come usarla, portavano l'effetto.
 - **"Proteggersi dal dare risposte basta."** Un tutor costruito appositamente attorno a un'API ospitata, con un system prompt che lo induce a **guidare anziché rispondere**, è stato distribuito in un corso semestrale di R per studenti di laurea in psicologia, **dove dal 76% all'84% degli studenti lo ha usato nelle settimane rilevanti per l'esame. Questa è adozione, non prova che la protezione abbia prodotto apprendimento:** La protezione a livello di prompt è una leva tra diverse e non produce di per sé apprendimento.
-
-## Concetti collegati
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Articoli collegati
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Strumento agentico che genera dataset sintetici ispezionabili per la pratica statistica personalizzata
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tutor per R costruito appositamente; l'adozione seguiva il calendario degli esami
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Le etichette di difficoltà degli LLM seguono i livelli di Bloom, non la prestazione degli studenti
-- [[tactile-statistical-graphs-accessibility]] — Pipeline open source che genera grafici statistici tattili con revisione del docente
-- [[guided-llm-scaffolding-independent-learning]] — Lo scaffolding guidato ha battuto l'accesso senza restrizioni sulle prestazioni indipendenti
-- [[lund-socially-accountable-data-science-xai-2026]] — Incorporare la responsabilità sociale nel curricolo tecnico di data science

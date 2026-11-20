@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -116,41 +118,3 @@ ai_assist:
 **«ШІ допомагає найбільше, коли координує групу.»** Підтримка координації та епістемічна підтримка тягнуть у протилежні боки. Зниження витрат на координацію співпраці може зменшити тиск на групу щодо узгодження смислу, а це і є процес, який оцінюють. Компроміс між ефективністю й регуляцією — це основна напруга дизайну, а не деталь реалізації.
 
 **«Групова робота складна через людей.»** Частина цього — дизайн завдання, тому ШІ змінює профіль складності, а не просто полегшує його: інструмент, що швидко відповідає на питання, змінює те, на що група витрачає час, і чи це поліпшення, залежить від того, які навички завдання мало розвивати.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Рольові сценарії для груп, що ділять один ШІ
-- [[ai-education]] — ШІ в освіті (зонтичне поняття)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Пов’язані статті
-
-- [[chen-zou-genai-group-assessment-agency-2026]] — Три патерни студентської аґенційності в груповому оцінюванні, опосередкованому GenAI
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Емерджентна аґенційність здобувача, коли до групи приєднується ШІ: підтримувальні проти опозиційних персон
-- [[genai-counter-learner-groupthink-2025]] — Агент ШІ, що впроваджує полеміку для протистояння груповому мисленню в командах PBL
-- [[xu-genai-collaborative-space-2026]] — Спільний проти приватного доступу до GenAI у межах команди
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Режими співпраці та компроміс між виконанням завдання та саморегуляцією
-- [[golrang-propact-pair-programming-2026]] — ProPACT: діада як одиниця аналізу в парному програмуванні
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Медіація ШІ для висунення припущень у міждисциплінарних студентських командах
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM як партнери з критики: активне спростування зберігає когнітивний конфлікт
-- [[polished-artifacts-fragile-engagement-2026]] — Відполіровані артефакти, крихке епістемічне залучення
-- [[breideband-community-builder-cobi-2026]] — Аналітика дискурсу на рівні аудиторії для групової співпраці
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — ШІ як педагогічний медіатор співпраці
-- [[neurodivergent-computing-students]] — Вимоги нейровідмінних студентів до колаборативного навчання
-- [[academic-league-of-ai-2026]] — Демократичне студентське врядування та проєктні команди для освіти в галузі ШІ
-- [[teacher-student-agency-orchestration]] — Спіко-оркестрація аґенційності викладача та студента в реальному часі
-- [[dollinger-equitable-assessment-ai-2026]] — Справедливе оцінювання в еру ШІ
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: сприяння груповій етичній освіті за допомогою рольових ігор та дискусій для етичної рефлексії та дослідження

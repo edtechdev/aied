@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -45,6 +46,3 @@ Undervisningsdesignere og undervisere, der vil have en designbeslutning med dens
 ## Noter og forbehold
 
 Læs tillidspanelet på hver side. Sprogmodeller vedligeholder wiki'en under én menneskelig vedligeholder, ingen person har tjekket nogen side, og sitet betegner en side som et velfunderet spor snarere end et fund. Påstande bærer en designklasse, en effektstørrelseskode og en stringenskode, og »ingen effektstørrelse angivet« betyder, at kilden ikke rapporterede nogen, ikke at der ikke findes nogen. Indholdet er CC BY-SA 4.0, så genbrug skal bære samme licens, og koden er MIT.
-
-## Relaterede begreper
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

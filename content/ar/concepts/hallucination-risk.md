@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -70,37 +72,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«الأخطاء بيّنة حين تظهر.»** استطاع ذكاء اصطناعي يشخّص رياضيات مكتوبة بخط اليد **أن يلفّق اقتباسات دليلية لم تكن موجودة وهو يدّعي الثقة**. فالفشل لم يكن جوابًا معقولًا لكنه خاطئ؛ بل كان سندًا مختلقًا يُقدَّم بيقين، وهو أصعب الأنواع كشفًا لأنه يُقرأ كأنه بالضبط الدليل الذي يريده قارئ حصيف.
 - **«المخرَج بلا استشهادات مشكلة تنسيق.»** في مقرّر للدراسات العليا استبدل كتابه التجاري بقراءات مولَّدة بالذكاء الاصطناعي، حمل **نحو 0.80% فقط من 4,487 صفحة مُسجَّلة استشهادًا نصيًا على نمط APA**. فذلك غياب للمصدر على مستوى المجموعة لا سهوٌ عارض، ويعني أن التحقّق لا يجد نقطة بداية.
 - **«الهلوسة مشكلة توليد في النموذج تحلّها النماذج الأحدث.»** يمتدّ نطاق المعدّل بين 10-40% عبر 125 دراسة، وهي خاصية للمهمة والنشر بقدر ما هي خاصية للنموذج. فخفض المعدّل تقدّم حقيقي ولا يغيّر أن القارئ يجب أن يستطيع التحقّق.
-
-## المفاهيم المتصلة
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## المقالات المتصلة
-- [[sim-ai-summary-memory-distortion-2026]] — ملخّص ذكاء اصطناعي مضلّل شوّه ذاكرة البالغين لفيديو، ولم يحمهم وسم الذكاء الاصطناعي أو الإنسان
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — إشارات المصداقية رفعت الخضوع لمخرَج الذكاء الاصطناعي، مع حالات مستشهَد بها منسوبة خطأً أو ملفّقة
-- [[frontiers-gai-hallucination-dependence-2026]] — تعليم حوار GAI على أنه موضوع خفّض الثقة والاعتماد معًا
-- [[ivory-psychology-assessment-integrity-2026]] — استشهادات موضوعة ومخرجات متناقضة داخليًا داخل عمل طلابي قابل للنجاح (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: شروح معقولة الظهور خاطئة على المستوى المفاهيمي (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — حقن مطالبات مخبّأة ترفع درجات يُصحّحها الذكاء الاصطناعي بلا كشف، والهجمات المكتشَفة تبقى غير مُبلَّغ عنها (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education

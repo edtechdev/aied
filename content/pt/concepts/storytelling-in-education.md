@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -62,22 +64,3 @@ A narrativa se conecta ao [[student-engagement|engajamento estudantil]], à [[mo
 **"A geração por IA torna a narrativa acessível a estudantes que não saberiam escrever."** Ela torna disponível *produzir um artefato escrito*, o que é um benefício diferente. A narração oral, o desenho e o ditado são as rotas consolidadas para o mesmo objetivo, e preservam a autoria que a geração remove.
 
 **"O valor educacional de uma história está no resultado polido."** Ele está na construção — a seleção e a ordenação que quem conta realiza. Uma história polida que o estudante não estruturou demonstrou a competência do modelo, não a de quem aprende.
-
-## Conceitos conectados
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Artigos conectados
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — IHRI narrativa com iCub
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-- [[ai-generated-interactive-fiction-education-2026]] — Ficção interativa gerada por IA: a coerência como dimensão fraca em um piloto com 22 estudantes
-- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — Construção de livros ilustrados na pré-escola, em que o encaixe na história e a plausibilidade se tornaram os critérios para julgar imagens de IA (Konca & Yigit-Gencten, 2026)

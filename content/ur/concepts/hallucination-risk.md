@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -66,37 +68,3 @@ ai_assist:
 - **"غلطیاں ظاہر ہوتے ہی عیاں ہوتی ہیں۔"** ہاتھ سے لکھی ریاضی کی تشخیص کرنے والا AI **ایسے شہادتی اقتباسات گھڑ سکتا تھا جو موجود نہیں تھے، اور ساتھ اعتماد کا دعویٰ کرتا تھا**۔ ناکامی قابلِ یقین مگر غلط جواب نہیں تھی؛ وہ یقین کے ساتھ پیش کی گئی من گھڑت حمایت تھی، جو پکڑنے میں سب سے مشکل قسم ہے کیونکہ وہ عین وہی شہادت لگتی ہے جو ایک محتاط قاری چاہتا ہے۔
 - **"حوالے کے بغیر اخراج فارمیٹنگ کا مسئلہ ہے۔"** ایک گریجویٹ کورس میں جس نے اپنی تجارتی نصابی کتاب کی جگہ AI کے تیار کردہ ریڈنگز رکھیں، صرف **تقریباً 0.80% از 4,487 لاگ شدہ صفحات کے پاس APA طرز کا متنی حوالہ تھا**۔ یہ ماخذ کی سطح پر عدم موجودگی ہے، کبھی کبھار کی کوتاہی نہیں، اور اِس کا مطلب ہے کہ تصدیق کے پاس کوئی نقطۂ آغاز نہیں۔
 - **"ہیلوسینیشن ماڈل کی پیداوار کا مسئلہ ہے جسے نئے ماڈل حل کر لیتے ہیں۔"** شرح کی حد 125 مطالعات میں 10-40% پھیلی ہوئی ہے، جو کام اور تعیناتی کی خصوصیت ہے، ماڈل کی بھی۔ شرح میں کمی واقعی ترقی ہے مگر اِس حقیقت کو نہیں بدلتی کہ قاری کو جانچنے کے قابل ہونا چاہیے۔
-
-## منسلک تصورات
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## منسلک مضامین
-- [[sim-ai-summary-memory-distortion-2026]] — گمراہ کن AI خلاصے نے بالغوں کی ویڈیو کی یادداشت بگاڑ دی، اور AI یا انسانی لیبل نے اُنہیں محفوظ نہ رکھا
-- [[frontiers-gai-hallucination-dependence-2026]] — GAI مکالمے کو من گھڑت لیبل دینے سے اعتماد اور انحصار دونوں گھٹے
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — اعتبار کے اشاروں نے AI اخراج کے سامنے اطاعت بڑھائی، اور بعض حوالہ شدہ مقدمات غلط منسوب یا فرضی تھے
-- [[ivory-psychology-assessment-integrity-2026]] — پاس ہو جانے والے طلبہ کام کے اندر گھڑے حوالے اور خود سے متصادم اخراج (Ivory وغیرہ 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: رواں اور قابلِ یقین وضاحتیں جو تصوراتی سطح پر غلط ہیں (Miličević وغیرہ 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — چھپے پرامپٹ انجیکشن AI کے دیے گئے نمبر بغیر پکڑے بڑھا دیتے ہیں، اور پکڑے گئے حملے رپورٹ نہیں ہوتے (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — جنریٹیو AI کے ساتھ مستند جانچ ڈیزائن کرنا: اعلیٰ تعلیم میں Assessment Authentifire کا پائلٹ مطالعہ

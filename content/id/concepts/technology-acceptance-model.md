@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -50,10 +52,8 @@ Diusulkan oleh Davis (1989), TAM menjelaskan adopsi melalui dua keyakinan inti �
 
 **Kecemasan, bukan pengaruh sosial, yang membawa jalur afektif dalam latar bersumber daya rendah.** Sebuah perluasan UTAUT pada 350 mahasiswa sarjana humaniora Ghana menemukan ekspektasi kinerja sebagai prediktor niat terkuat (β = 0.377) dan ekspektasi usaha kedua (β = 0.281), pengaruh sosial nol (β = −0.038), dan kecemasan belajar digital pada β = −0.281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). Ekspektasi usaha juga menurunkan kecemasan (β = −0.126), sehingga kemudahan penggunaan bekerja sebagian dengan menurunkannya.
 
-
 ### Theory of Planned Behavior (TPB)
 TPB menjelaskan niat melalui sikap, norma subjektif, dan kontrol perilaku yang dipersepsikan. Kerangka ini sering dipasangkan dengan TAM/UTAUT dalam studi adopsi AI — misalnya [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] mengintegrasikan TAM, TPB, UTAUT, dan kerangka FATE ([[bias-mitigation|Keadilan]], Akuntabilitas, Transparansi, Etika) untuk memodelkan pendorong perilaku dan [[ethics|etis]] adopsi ChatGPT oleh siswa.
-
 
 Riset adopsi biasanya berhenti pada niat; perluasan TPB yang justru mengukur penundaan meskipun ada niat yang sungguh-sungguh menemukan kontrol perilaku yang dipersepsikan sebagai prediktor negatif terkuat penundaan belajar berbantuan GenAI (β = −0.331) pada 1,243 mahasiswa sarjana, dengan kaitan niat–penundaan signifikan hanya pada kecemasan GenAI belajar tingkat sedang hingga tinggi ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
@@ -75,7 +75,6 @@ Model adopsi diterapkan di seluruh basis pengetahuan untuk memodelkan penyerapan
 - **Korelat psikologis:** [[acceptance-ai-english-tools-2026|Wu et al.]] membangun TAM untuk menghubungkan motivasi, [[self-efficacy]], kecemasan, dan persepsi risiko dengan penerimaan pembelajaran bahasa Inggris berbantuan AI.
 - **Kritik kompetensi [[regulation|regulasi]]:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] berargumen bahwa model TAM yang berpusat pada adopsi memperlakukan penggunaan sebagai keputusan yang stabil, padahal penggunaan AI yang efektif adalah proses penilaian, revisi, dan penyerapan selektif yang berlangsung terus-menerus — membingkai ulang [[ai-literacy]] sebagai kompetensi regulasi dan [[critical-thinking]] alih-alih penerimaan.
 
-
 Menambahkan kapabilitas keluarga [[tpack|TPACK]] di samping kerangka keyakinan seperti Theory of Planned Behavior sebagai prediktor paralel mengundang tumpang tindih konstruk dan membiarkan urutan kausal kapabilitas, sikap, dan kontrol belum diputuskan; Capability–Decision Model justru menempatkan kapabilitas AI-TPACK di hulu sikap dan kontrol perilaku yang dipersepsikan ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Determinan adopsi ChatGPT berbasis ML:** Pendekatan ML eksploratif menelaah bagaimana persepsi dan demografi siswa berhubungan dengan niat penggunaan ChatGPT akademik, menggunakan analisis SHAP untuk mengidentifikasi konstruk kunci terkait pembelajaran — memprioritaskan makna pendidikan di atas memaksimalkan kinerja algoritmik ([[determinants-chatgpt-use-higher-education-2026]]).
@@ -84,7 +83,6 @@ Menambahkan kapabilitas keluarga [[tpack|TPACK]] di samping kerangka keyakinan s
 - **Penerimaan yang diukur pada tingkat materi instruksional (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang dan Wu (2026)]] mengoperasionalkan Performance Expectancy, Effort Expectancy, Perceived Playfulness, dan Behavioral Intention untuk dua buku panduan literasi AI bertingkat usia yang digunakan 794 siswa [[k-12]] dan 37 guru, memvalidasi struktur empat faktor dengan EFA dan CFA sampel terbelah serta mendukung invariansi pengukuran lintas edisi 9-12 dan 13-18. Siswa yang lebih muda melaporkan tingkat lebih tinggi pada keempat konstruk, dan playfulness adalah korelat terkuat niat di kedua kohort — dengan koefisien terstandardisasi playfulness-ke-niat melebihi 1.00 pada kelompok yang lebih muda dan HTMT sebesar .950 antara kedua konstruk. Para penulis membacanya sebagai tumpang tindih konstruk dan kemungkinan supresi alih-alih efek raksasa, pengingat berguna bahwa instrumen penerimaan yang diterapkan pada materi dapat menghasilkan faktor yang terjerat secara empiris dan menyulitkan interpretasi struktural.
 
 Dalam studi wawancara dua gelombang atas 22 fakultas, mengetahui lebih banyak tentang AI membuat sebagian menjadi lebih hati-hati alih-alih lebih menerima, membalik arah yang diasumsikan model dari pengalaman ke kemudahan penggunaan ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
-
 
 ## Batas dan perluasan
 
@@ -106,10 +104,7 @@ Tambahan metodologisnya adalah bagian yang lebih mudah dipindahkan. Jaringan per
 
 Analisis kondisi perlu kemudian memisahkan pengaruh dari persyaratan. Kemudahan penggunaan, prediktor berperingkat teratas, gagal sepenuhnya (d = 0, p = 0.592). Kegunaan perlu tetapi kecil (d = 0.027, p = 0.011). Para penulis membaca perpecahan itu sebagai peringatan agar tidak memperlakukan koefisien jalur sebagai lantai. Koefisien yang kuat mengatakan satu unit kemudahan membeli niat secara rata-rata; hanya keniscayaan yang mengatakan apakah keyakinan lain dapat absen.
 
-
-
 Kaitan risiko dengan penggunaan juga bergantung pada sistem: di antara 49 sistem TALIS 2024 yang menerapkan item-itemnya, persepsi kegunaan AI berasosiasi positif dengan penggunaan AI di seluruh 49, sementara persepsi risiko berasosiasi negatif di 40 dan positif di sembilan ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
-
 
 **Ekspektasi kinerja dapat membawa hubungan yang dibaca riset penerimaan sebagai niat menggunakan.** Dalam [[kim-overtrust-ai-literacy-2026|Kim, Kim dan Zhang (2026)]] ekspektasi kinerja memprediksi overtrust AI pada B = 0.6107 dan merupakan mediator pertama yang melaluinya efikasi diri, motivasi intrinsik, dan [[motivation|motivasi ekstrinsik]] mencapai overtrust. Jalur tak langsung yang hanya melalui ekspektasi bersifat positif untuk ketiga prediktor, 0.1355 (95% CI [0.0542, 0.2330]) untuk efikasi diri, sehingga ekspektasi bukan sekadar memprediksi apakah siswa akan menggunakan alat tersebut.
 
@@ -118,55 +113,3 @@ Kaitan risiko dengan penggunaan juga bergantung pada sistem: di antara 49 sistem
 - **"Konstruk TAM menjelaskan adopsi."** [[socio-cognitive-genai-adoption-engineering-2026|Asag dan Al Mamun]] mengintegrasikan TAM dengan UTAUT untuk mahasiswa teknik di Bangladesh dan menjelaskan **64% dari** variansnya. Besar sekaligus tidak lengkap: sekitar sepertiga dari apa yang mendorong adopsi berada di luar konstruk penerimaan klasik.
 - **"Model penerimaan tidak perlu modifikasi domain."** Menambahkan **persepsi otonomi artifisial** — seberapa mandiri guru meyakini GenAI dapat menjalankan tugas instruksional yang ditugaskan — dan **penghindaran risiko** pada konstruk klasik mengubah model secara material. Konstruk aslinya dibangun untuk alat tanpa agensi, dan GenAI memiliki agensi yang dipersepsikan.
 - **"Estimasi adopsi meta-analitik menggambarkan populasi mana pun."** [[teo-ai-adoption-tertiary-meta-analysis-2026|Meta-analisis mahasiswa]] adalah estimasi tingkat populasi; hasil teknik yang menjelaskan 64% adalah populasi spesifik. Mengimpor yang satu ke yang lain mengasumsikan stabilitas yang tidak ditetapkan oleh bukti.
-
-## Konsep terkait
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Artikel terkait
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Keyakinan khas mata pelajaran ditempatkan di hulu persepsi TAM
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI sebagai "frenemy": otonomi artifisial dan penghindaran risiko memperluas TAM bagi guru (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Pengalaman AI keperawatan; perluasan psikososial TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Persona adopsi GenAI melalui pengelompokan
-- [[tian-genai-learning-adoption-pathways-2026]] — Jalur simetris dan asimetris dalam adopsi GenAI (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Keterlibatan GenAI yang berbeda menurut gender dan motivasi
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Model TOE + DOI adopsi AI organisasional di pendidikan tinggi
-- [[tam-critical-use-genai-engineering-2026]] — TAM yang diperluas dengan penggunaan kritis untuk mahasiswa teknik/ilmu komputer
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Model sosio-kognitif terpadu (TAM + UTAUT) untuk pendidikan teknik
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Dari kecemasan AI ke regulasi strategis
-- [[genai-reliance-types-scale]] — Skala tipe ketergantungan GenAI
-- [[llm-reliance-types-undergrad]] — Tipe ketergantungan LLM di antara mahasiswa sarjana
-- [[acceptance-ai-english-tools-2026]] — Penerimaan alat bahasa Inggris AI
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Pendorong perilaku dan etika adopsi ChatGPT oleh siswa
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT dan motivasi guru terhadap chatbot
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB untuk calon guru sains di Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Profil penerimaan ChatGPT calon guru (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analisis faktor adopsi AI; mengkritik TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — Determinan ML/SHAP penggunaan ChatGPT di masa depan dalam pendidikan tinggi
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — UTAUT2 yang diperkaya XAI: kebiasaan sebagai prediktor terkuat, empat profil adopsi (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Model PE/EE/playfulness/niat tingkat materi untuk buku panduan literasi AI bertingkat usia, dengan tumpang tindih konstruk playfulness-niat yang terdokumentasi
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT dilipat ke dalam TAM/UTAUT2: efek risiko khas dimensi dan non-monotonik pada manfaat GenAI yang dipersepsikan (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Alternatif terurut alih-alih menambatkan kapabilitas TPACK pada model adopsi Theory of Planned Behavior
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Profil berpusat orang TALIS 2024 atas persepsi kegunaan dan risiko AI di 49 sistem
-- [[genai-learning-procrastination-planned-behavior-2026]] — Perluasan TPB yang mengukur penundaan belajar berbantuan GenAI dan moderasi kecemasan pada kaitan niat–penundaan
-- [[kim-overtrust-ai-literacy-2026]] - ekspektasi kinerja memediasi jalur dari motivasi dan efikasi diri ke overtrust AI
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - literasi AI sebagai mediator antara efikasi diri dan penerimaan, dengan asosiasi kecemasan yang tidak dikoreksi (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM digabung dengan Task–Technology Fit, plus peringkat kepentingan jaringan saraf dan ambang kondisi perlu (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Fitur desain di hulu keyakinan TAM, dan kepentingan yang bukan keniscayaan
-- [[pinedo-genai-adoption-marketing-students-2026]] — Kebiasaan membawa UTAUT2 pada populasi yang sudah mengadopsi
-- [[stalboerger-faculty-perceptions-2026]] — 22 fakultas, 12 tindak lanjut: keakraban mengeraskan pemeriksaan etis bagi sebagian, membalik arah kemudahan penggunaan (Stalboerger et al. 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -118,54 +120,3 @@ Teoriudvikling og [[philosophy-of-ai-in-education|filosofien om AI i uddannelse]
 
 - Design til konfigurationskontraster, hvis du sigter mod et teoretisk bidrag. Et gennemsnitseffektforsøg publiceret som teoriudvikling er feltets mest almindelige og mindst nyttige output.
 - Knyt eksplicitte falsificerbare propositioner til enhver ramme, du introducerer, og rapportér, hvilke konfigurationsforskelle der ville have afvist dem.
-
-## Forbundne begreber
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Forbundne artikler
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Udvidelse af den funktionelle taksonomi: 90 af 154 klassificerbare publikationer (58,4 %) falder uden for de oprindelige fire kategorier (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — En mellemrangsteori om læring i menneske-AI-interaktion med fire mekanismer og seks testbare propositioner (Yan og Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Vildledende overgeneralisering: adaptiv mestring kan standse øvelsen, før de lærende ved, hvornår de skal tilbageholde en handling (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativisme som en ny læringsteori
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Mod en teori om epistemisk samhandling
-- [[du-yuan-epistemic-dependence-2026]] — Relationelt epistemisk handlingsrum og grænsen mellem produktiv afhængighed og skadelig afhængighed (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Den fraværende kognitive baseline (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitive commons og ekspertiseregenerering
-- [[genai-performance-vs-learning]] — Præstation vs. læring
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemisk AI-kompetence (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Credential og kognitiv forvaltning
-- [[ai-cognitive-partner-co-regulation-learning]] — AI som kognitiv partner i co-regulering
-- [[epistemic-proactivity-math]] — Epistemisk proaktivitet i matematik
-- [[strydom-human-gai-paradigms-2026]] — Syv menneske-GAI-engagementsparadigmer forankret i epistemologiske overbevisninger
-- [[critical-thinking-paradox-genai-learning-2026]] — Kritisk-tænkning-paradokset
-- [[dollinger-equitable-assessment-ai-2026]] — Retfærdig evaluering under GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teori og kognitiv overgivelse: hvordan AI omformer menneskelig ræsonnement (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Rekonceptualisering af Community of Inquiry i generativ AI-tiden
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Universitetslæreres erfaringer med og opfattelser af GAI: sårbarhed, gentænkning af evaluering, studerendes læring i fare (Farazouli m.fl. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitivt ejerskab: konstruktdefinition, grænser og en forskningsdagsorden
-
-- [[synthetic-position-self-authorship-2026]] — Det syntetiske standpunkt: et dialogisk-selv-bud, der navngiver syntetisk fremme og forfatterskabsophævelse med en overgangsforudsigelse
-- [[capability-decision-model-teacher-readiness-2026]] — Falsificerbar kapabilitets-først-model for lærerparathed med fire afkræftelsesbetingelser
-- [[ai-connectedness-adolescent-mental-health-2026]] — Kunstig intelligens-forbundethed: et tredimensionelt konstrukt med seks falsificerbare propositioner til senere test
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Den kognitive partnerskabscyklus
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Ønskværdige vanskeligheder og produktiv fiasko anvendt på fortolkningsmæssigt handlingsrum i uddannelse i udlandet
-- [[webb-pck-genai-2026]] — Tre vignetter og et nyt konstrukt, pseudo-cPCK, for output, der efterligner kollektivt valideret viden uden garanti (Webb et al. 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -84,50 +86,3 @@ La sécurité pédagogique est la couche protectrice qui relie le [[hallucinatio
 **« Le tuteur le plus sûr est celui qui refuse le plus. »** Un système qui « refuse uniformément » peut encore ancrer les inégalités, ce qui est la seconde forme de défaillance silencieuse. Le mode de défaillance n'est pas seulement un tuteur qui répond correctement et érode l'apprentissage ; c'est aussi un tuteur dont les refus répartissent le soutien de façon inégale entre les étudiants, et une politique de refus systématique échange un risque visible contre un risque invisible.
 
 **« Tout travail de sécurité au niveau du modèle est une mesure de relations publiques. »** Une partie est mesurable. Les travaux d'[[llm-unlearning-math-privacy|oubli mathématique]] appliquent un oubli fondé sur le gradient pour retirer les informations identifiantes et les contenus nuisibles, rapportant une production d'informations personnelles réduite à **0,1%** et des taux de toxicité à **0,0%** tout en préservant la capacité. Les contrôles au niveau du modèle sont une couche d'une défense en profondeur — insuffisants seuls, et pas rien.
-
-## Concepts liés
-
-- [[guardrails]] — les mécanismes de conception qui mettent en œuvre la sécurité
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## Articles liés
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Le cadre SCAFFOLD pour piloter le dialogue étudiants–IA, avec son pilote en classe
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Couches de sécurité conçues par les enseignants : frontières de domaine, filtrage et dépassement
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL : un cadre de conception pour une IA d'apprentissage sûre et solide
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

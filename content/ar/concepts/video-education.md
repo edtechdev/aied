@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -89,35 +91,3 @@ ai_assist:
 
 - أبلغ عن مقاييس التفضيل والنتائج معًا، وقل صراحةً حين تكون لدى الدراسة الأولى وحدها.
 - أبلغ عن المحاذاة الزمنية صراحةً، بما أن الاختلال بين محتوى الفيديو و[[cognitive-psychology|المعالجة المعرفية]] يظهر في البيانات العصبية.
-
-## المفاهيم المرتبطة
-
-- [[online-teaching-and-learning]] — الفيديو كوسيط أساسي للتعليم الإلكتروني والهجين
-- [[generative-ai]] — محرّك الفيديو المُولَّد والمُخصّص بالذكاء الاصطناعي
-- [[personalized-learning]] — التخصيص كدافع لجاذبية فيديو الذكاء الاصطناعي
-- [[adaptive-learning]] — توليد الفيديو التكيّفي وإيقاعه
-- [[multimodal]] — الفيديو الجامع للوسائط البصرية والصوتية والنصية
-- [[learning-analytics]] — تحليلات لانخراط الفيديو وانتباهه
-- [[student-engagement]] — الانخراط الذي يستهدف تعزيزه تخصيص الفيديو
-- [[pedagogical-agent]] — أفاتار/مُقدّمو الذكاء الاصطناعي كوكلاء تربويين افتراضيين
-- [[llm]] — النماذج اللغوية الكبيرة الكامنة وراء توليد النص والفيديو
-- [[trust]] — ثقة المتعلّم بمُقدّمي ومحتوى الذكاء الاصطناعي
-
-## المقالات المرتبطة
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: توليد فيديوهات محاضرات بجودة MOOC مُخصّصة للصناعة على نطاق واسع (بيوش وزملاؤه 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — التعليقات المُولّدة بـChatGPT داخل الفيديو: التوقيت بالإنتروبيا، وفجوات الجودة مقابل التعليقات البشرية (وانغ ودو وجين 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — يفضّل الطلاب الفيديوهات المُولّدة بالذكاء الاصطناعي المُخصّصة على المُسجَّلة بشريًا غير المُخصّصة (توملينسون وزملاؤه 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — تصوّرات/تفضيلات الطلاب للفيديو التعليمي المُولّد بالذكاء الاصطناعي في تعليم الحوسبة
-- [[ai-video-dual-gatekeeping-2026]] — البوّابة المزدوجة لإنشاء فيديو ذكاء اصطناعي مُؤسَّس تربويًا
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: توليد فيديو تربوي تكيّفي
-- [[engagement-assessment-video]] — تقييم الانخراط في تعلّم الفيديو
-- [[savvy-student-attention-video-learning]] — تصوير انتباه الطالب للتعلّم القائم على الفيديو
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — كيف تُشكّل هوية الأفاتار الثقة المعرفية في التعلّم المُتوسَّط بالذكاء الاصطناعي
-- [[bilingual-llm-lecture-companion-srl-2026]] — رفاق محاضرات ثنائيو اللغة بالنماذج اللغوية الكبيرة للتعلّم الذاتي التنظيم
-- [[adhd-video-segmentation-computing-education]] — التقسيم الزماني للفيديو للفروق الفردية
-- [[ai-psychotherapy-training-avatars]] — أفاتار الذكاء الاصطناعي في تدريب المعالجة النفسية
-- [[gemini-lualatex-physics-video-transcription-2026]] — نسخ فيديو محاضرات الفيزياء إلى نصّ قابل للوصول
-- [[pivot-generative-video-tutors-stem-2026]] — من توليد المحتوى إلى دعم التعلّم: معلّمو فيديو توليديون موجّهون تربويًا لتعلّم STEM
-
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — انظر هناك! إرشاد بصري ديناميكي للشرائح المرويّة بالذكاء الاصطناعي
-

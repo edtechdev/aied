@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,6 +42,3 @@ Nastavnici K-12 koji žele čuti zaključivanje iza odgovora i administratori ko
 ## Napomene i upozorenja
 
 Svaka tvrdnja o mogućnostima ovdje je dobavljačev vlastiti marketing, uključujući „pouzdan u više od 10.000 škola diljem svijeta“, što bi okrug trebao provjeriti prema svojem sporazumu o obradi podataka. Dobavljač navodi da uklanja osobne identifikatore prije slanja rada OpenAI-ju prema sporazumu o nezadržavanju i netreniranju, da studentima ne prikazuje oglašavanje, nikada ne prodaje podatke i ima certifikate iKeepSafe i Common Sense Privacy. Snorkl i izričito kaže da ne ocjenjuje: objašnjenja boduje prema kriterijima koje je odredio nastavnik kao formativnu povratnu informaciju, a ocjenjivanje ostaje nastavniku. Te AI prosudbe tretirajte kao formativne signale podložne uobičajenim pitanjima valjanosti i pristranosti, a obvezu prema okolišu kao navedenu namjeru, a ne izmjereni kompenzacijski učinak.
-
-## Povezani pojmovi
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

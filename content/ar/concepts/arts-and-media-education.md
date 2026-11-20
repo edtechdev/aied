@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -120,34 +122,3 @@ ai_assist:
 **للباحثين**
 
 - تجاوز دراسات الحالة ذات الاستوديو الواحد قبل تقديم ادعاءات على مستوى المجال، وأبلغ عن بنية الاستوديو لأنها تشترط النتيجة.
-
-## المفاهيم المرتبطة
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## المقالات المرتبطة
-
-- [[genai-xr-architectural-design-education-2026]] — GenAI زائد XR متعدد المستخدمين في استوديو معماري حقيقي: أدوار مكمّلة، وكفاءة تصميمية ذاتية متراجعة، بلا ميزة في الملف (Xiao et al. 2026)
-- [[genai-architecture-education]] — سير عمل صور منفَّذ محليًا وخاص بالمجال الدراسي في استوديو عمارة: فضاء بحث إبداعي أوسع وقلق نقدي متراجع (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — دراسة استوديو طولية ومنصة GAI-A: GenAI كحافز وتوسيع لفضاء الحلول، مع التثبيت التصميمي كخطر (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — مصممون داخليون كقيمين لمخرجات الآلة، وما ينبغي أن تفعله المناهج والتنظيم المهني بشأنه (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — تعلُّم قائم على المشروع داخل بيئة غامرة مُمكَّنة بالذكاء الاصطناعي في تصميم داخلي مهني (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — مشروع تخرّج سرد رقمي لـ15 أسبوعًا مع 426 طالبًا: الجدة قوية، والدمج ضعيف، والذكاء الاصطناعي أداة لا مؤلّف (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — قبول النص-إلى-صورة بين 417 طالبًا في الفنون والتصميم، ومفارقة كفاءة الاستخدام الانتقائي (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — اقتصاد البثّ، والمولّدات المستقلة مقابل مساعدي التأليف، وإعادة التفكير في منهج الموسيقى (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — قياس GPT-4o-mini مقابل متوسطات المعلمين على 300 استجابة تحليل موسيقي (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — لماذا دقة القياس ليست قيمة تعليمية في التعليم الصوتي بمعونة الذكاء الاصطناعي (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — تصميم تقوده الإعاقة لتعليم وتري لمسي وحركي-حسي لموسيقيين مكفوفين وضعاف بصر (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — تعليم إضاءة مسرح بمعونة نموذج لغوي كبير في الواقع الافتراضي، والفجوة بين تمثيلات الخبير والمبتدئ (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — لعب التحيّز: ألعاب معرفية لتأويل نماذج النص-إلى-صورة (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — الفاعلية الإبداعية والثقة وجودة المخرجات كما يقيّمها الخبراء لدى طلاب الفنون

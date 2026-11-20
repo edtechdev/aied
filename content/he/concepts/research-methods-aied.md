@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -125,7 +127,6 @@ DBR מחליף את השליטה הסיבתית של [[rct|ניסויים]] בא
 - **תקני דיווח לצינורות אוטומטיים, וסטי מדדים הנבדקים.** שני מאמרים מ-2026 מרחיבים את אחריותיות המתודולוגית מעבר למחקר עצמו. PRISMA-LLM ממפה 888 מאמרי אוטומציית סקירה ו-14,726 הערות, וגילה ש-38.0% ממאמרי התוכנה או המוצר דיווחו על הערכה כלשהי לעומת 9.3% ממאמרי מודלי השפה הגדולים, וש-52% מההערכות החיוביות-בלבד של מודלי השפה הגדולים לא ענו בדרישת סף גבוהה, ומציע דיווח שמזהה היכן בזרימת העבודה של הסקירה פעלה האוטומציה ([[prisma-llm-ai-assisted-systematic-reviews-2026]]). ביקורת דירוג מחדש על ידי מומחה של שישה סטי מדדים של [[physics-education|פיזיקה]] מגלה את אותה הבעיה ברמת הכלי: מתוך 250 דחיות נבדקות רק 12 (4.80%) היו שגיאות מודל אמיתיות, בעוד ש-143 היו פגמים בפריטים ו-95 שגיאות דירוג ([[frontier-models-physics-benchmark-audit-2026]]). שני המקורות טוענים שהערכות חישוביות זקוקות לתקציב שגיאות נבדק לפני שהתוצאות שלהן נקראות כממצאים על לומדים או על מודלים.
 - **בנו את בדיקת ההסכם האנושי לתוך פיתוח הגלאים, לא אחריו.** [[baker-taylorizable-process-textual-detector-development-2026|Baker ומשתפי הפעולה (2026)]] מציבים תהליך בן שבעה שלבים לגלאים טקסטואליים של בניות קוגניטיביות — בחירת מערך נתונים, הגדרת הבנייה, עריכת קודבוק, בדיקת הסכם בין מדרגים אנושיים, שכלול קטגוריות, בניית הגלאי, ויישום — כדי שאמינות על תוויות המקודדות-אנושיות תקדים לכל פריסה של [[llm|מודל כשפטן]]. התהליך דורש מדדי הסכם מתוקני-סיכוי (κ של Cohen או של Fleiss, α של Krippendorff), אימות חוצה ברמת התלמיד, וניתוח שגיאות של תת-קבוצות כתקנים מינימליים, וטוען שמידה שגויה הופכת למקור נזק ברגע ש[[educational-nlp|גלאים]] כאלה יושבים בתוך פלטפורמות פרוסות.
 
-
 ### תכנינים אחרים: מחקרים אורכיים, מחקרי מקרה ומחקרי סימולציה
 
 מעבר למשפחות הגדולות, מאגר הידע משתמש בתכנינים **אורכיים** העוקבים אחר לומדים לאורך זמן ([[ai-lms-middle-school-longitudinal|מחקר אורכי של מערכת ניהול למידה]]), ב**מחקרי מקרה ובשטח** של שימוש אותנטי ([[ai-in-the-wild-college|ניתוח בקנה מידה גדול של אינטראקציות תלמידים אמיתיות]]), ובמחקרי **סימולציה** שבהם מודלי שפה גדולים מחליפים תלמידים או מטופלים ([[llm-student-simulation-teacher-insights|מודלי שפה גדולים כלומדים מדומים]], [[simulation|סימולציה]]). אלה מחליפים רוחב או שליטה בריאליזם ובגישה לתופעות שקשה אחרת לצפות בהן.
@@ -204,53 +205,3 @@ DBR מחליף את השליטה הסיבתית של [[rct|ניסויים]] בא
 **"כלל מדידה סלחני הוא בחירה מתודולוגית פעוטה."** הוא משנה את הממצא. זיכוי כל השלמה חזה ביצועים מאוחרים ללא סיוע **בקושי מעל קבוע קושי-מיומנות (AUC משוכלל 0.604 לעומת 0.595)** בעוד שהכריז על **93.9% מזוגות סטודנט-מיומנות כשולטים לעומת 72.8%** תחת כלל מחמיר. הכלל יצר פער של 21 נקודות בשאלה מי הוכרז מוכן וכמעט שום שיפור ניבוי להראות בעדו.
 
 **"מובהקות סטטיסטית מכריעה אם התערבות עבדה."** היא מכריעה אם אפקט היה ניתן לזיהוי. האם היה זה אפקט *למידה* תלוי במדד התוצאה, בהשוואה ובתנאים שבהם נלקח — ולכן בחירות התכנון והדיווח בסעיפי העמוד נושאות משקל רב כמו הניתוח.
-
-## מושגים מקושרים
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — מחקר חינוכי בסיוע בינה מלאכותית
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — פיתוח תיאוריה בבינה מלאכותית בחינוך
-- [[qualitative-research]] — מחקר איכותני
-- [[quantitative-research]] — מחקר כמותי
-- [[mixed-methods-research]] — מחקר בשיטות מעורבות
-- [[design-based-research]] — מחקר מבוסס-עיצוב
-- [[usability-research]] — מחקר שימושיות
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## מאמרים מקושרים
-
-- [[ai-methodologies-science-education-research-2026]] — מסגרת איטרציה אפיסטמית בת שבעה שלבים להרפלקציה על האופן שבו מתודולוגיות בינה מלאכותית עשויות לשנות את מחקר חינוך המדעים (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — גישה אינה מספיקה: תמיכה אנושית משפרת את המעורבות עם הוראה פרטית בסיוע בינה מלאכותית
-- [[genai-can-harm-teaching-rct-2026]] — בינה מלאכותית יוצרת עלולה לפגוע בהוראה
-- [[genai-over-reliance-learning-2026]] — משיפור להסתמכות יתר: מחקר בשיטות מעורבות
-- [[acceptance-ai-english-tools-2026]] — קבלת כלים ללימוד אנגלית בסיוע בינה מלאכותית
-- [[hazra-safetutors-pedagogical-safety-2026]] — בטיחות מורים פרטיים מבוססי בינה מלאכותית ונזקים פדגוגיים
-- [[zerkouk-comprehensive-review-its-2025]] — סקירה מקיפה של מערכות הוראה חכמות
-- [[ai-assisted-collaborative-learning-model-dbr]] — מחקר מבוסס-עיצוב עבור מודל למידה שיתופית בסיוע בינה מלאכותית
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: הערכת יכולת ההוראה של מודלי שפה גדולים
-- [[ground-truth-reliability-aied]] — מודרניות אמת-הקרקע: ארבעה מהלכים לעבר אמינות ותוקף
-- [[llm-student-simulation-teacher-insights]] — האם מודלי שפה גדולים מסוגלים לדמות לומדים אנושיים ביעילות?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 פריטים בעשרה תחומים לדיווח שקוף על מחקרי בינה מלאכותית בחינוך (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — מערכת ניהול למידה משולבת בינה מלאכותית: מחקר אורכי
-- [[ai-in-the-wild-college]] — AI in the Wild: ניתוח בקנה מידה גדול של אינטראקציות אותנטיות
-- [[same-ai-different-pathways]] — אותה בינה מלאכותית, מסלולים שונים: פרק מנגנונים
-- [[tep-aied-model-reporting-2026]] — מודל TEP-AIED לדיווח על מחקר בינה מלאכותית בחינוך בנוקשות (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — פרדוקס המיומנות: בינה מלאכותית יוצרת מטקסט לתמונה באמנות ועיצוב
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT בחינוך: אפקט בחיפוש אחר סיבה
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — מטא-מטא-אנליזה של אפקט הבינה המלאכותית על למידה
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: ביקורת על מטא-אנליזה פגומה של AIED
-- [[synthetic-educational-data-structural-fidelity-2026]] — מה שמדדי הנאמנות מפספסים: בדיקה מבנית של נתוני חינוך סינתטיים
-- [[porcaro-ai-grading-benchmark-2026]] — מעבר להסכמה: בדיקות שתשובתן הנכונה ידועה, בדיקות אפקט-מושתל על מדרגים מדומים ו-22 מודלים מונחים (Porcaro 2026)

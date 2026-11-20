@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -97,27 +99,3 @@ ICAP کا پیداوری، عمل کی سطح کی شمولیت پر زور اُ
 **"AI ٹیوٹر مکالمہ کرتا ہے، چنانچہ خود بخود تعاملی شمولیت پیدا کرتا ہے۔"** مکالمہ ذریعہ ہے، انداز نہیں۔ ایسا مکالمہ جس میں نظام ہر ٹھوس حصہ خود مہیا کرتا ہے، تعاملی سطح کا انٹرفیس رکھنے والے سیکھنے والے کے لیے غیر فعال ہے — یہی وہ خلط ہے جو [[student-engagement|شمولیت کی لٹریچر]] رویے کی سرگرمی اور علمی سرمایہ کاری کے درمیان دستاویز کرتی ہے۔
 
 **"ICAP کے اعلیٰ انداز ہمیشہ بہتر ہیں۔"** اُن کی قیمت زیادہ ہوتی ہے، اور ترتیب متعلقہ کارروائی کی فی اکائی سیکھنے کے بارے میں ہے، نہ کہ اِس بارے میں کہ سبق کو ہمیشہ کس چیز کا ہدف ہونا چاہیے۔ بنیادی روانی کے لیے فعال تکرار درکار ہو سکتی ہے تاکہ تعمیری کام ممکن ہو؛ غلطی وہاں ٹھہر جانے میں ہے، وہاں سے گزرنے میں نہیں۔
-
-## منسلک تصورات
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## منسلک مضامین
-
-- [[icap-cognitive-engagement-llm-agents]] — شمولیت کی پیمائش کے لیے توسیع شدہ ICAP فریم ورک، انسانی بمقابلہ LLM نشان زدگی کے ساتھ
-- [[hingle-collaborative-ai-literacy-2025]] — چاروں ICAP اندازوں میں تعاونی AI خواندگی
-- [[interactive-learning-dashboards-engagement]] — سطحی لرننگ اینالیٹکس شمولیت کی تنقید کے طور پر ICAP
-- [[multimodal-learning-genai]] — کثیر النوع سیکھنے کے ڈیزائن میں ICAP اور علمی شمولیت
-- [[llm-facilitation-timing-online-discussions]] — آن لائن تعاونی مباحثوں میں LLM کی سہولت کاری کا وقت
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS میں انطباقی ICAP سہارا (BKT بمقابلہ DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — پیدا کردہ طالب علم نقالی ایجنٹ میں ICAP علمی گہرائی کا ماڈل
-- [[assessing-student-drive-framework-2025]] — عکاسانہ GenAI تعامل کی ICAP پر مبنی جانچ

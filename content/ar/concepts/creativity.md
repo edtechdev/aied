@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -59,12 +61,9 @@ ai_assist:
 - **التنفيذ التطوري، لا القدرة، هو ما يفصل إبداع الأطفال بمساعدة الذكاء الاصطناعي.** في أول مقارنة تصوير دماغي للأطفال والبالغين أثناء الإنشاء المشترك مع ChatGPT، أجرى الأطفال في 6–7 سنوات والبالغون المحادثة المنطوقة ذاتها مدتها خمس دقائق داخل ماسح الرنين المغناطيسي. ولم يختلف الإبداع المُقاس خارج الماسح بين المجموعتين. لكن البالغين أظهروا اتصالًا داخل الشبكة أقوى دلالةً في شبكات التحكّم الجبهي-الجداري والبروز والانتباه الظهري، وتنبّأ إبداع أعلى باقتران أقوى بين الجبهي-الجداري والبروز عند البالغين لا عند الأطفال. ويرى المؤلفون ذلك فرقًا في *كيفية* تنفيذ الإدراك الإبداعي خلال حوار الذكاء الاصطناعي، لا في القدرة الأساسية. وهو يطرح أيضًا سؤالًا لم تُجب عنه النصائح السقالية في هذه الصفحة بعد: متى تنضج فعلاً آلة التحكّم التي تستدعيها الأعمال الإبداعية بمساعدة الذكاء الاصطناعي؟ ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 - **مصدر المثال المُدرَك، لا المحتوى، هو ما يشكّل توليد الأفكار الجماعية.** غيّرت أمثلة متطابقة مولّدة بـChatGPT وُسِمَت كبشرية مقابل مولّدة بالذكاء الاصطناعي الإبداع الجماعي في دراسة تصوير دماغي وظيفي فائق الرسم (fNIRS) على 113 ثنائيًا: فقد رفعت النسبة إلى الإنسان أصالة الأفكار خلال التحفيز وتزامن الأدمغة بين المنطقتين الحَرَكية قبل الجبهية والحَرَكية التكميلية، في حين لم تُسبّب النسبة إلى الذكاء الاصطناعي إلا زيادة في التبديل بين مسارات توليد الأفكار، ولم يستمرّ أيٌّ من الأثرين بعد سحب الأمثلة ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 
-
 وزن مقابل من البحث الجامعي: إذ ارتبط اعتماد 1,157 طالبًا جامعيًا صينيًا على [[generative-ai|GenAI]] ارتباطًا إيجابيًا بالإبداع البحثي [[self-report-measures|المُبلَّغ عنه ذاتيًا]]، وبقوة أعلى بكثير للاعتماد الوظيفي الموجّه للمهام (β = 0.457) من الاعتماد الوجودي (β = 0.147)، مع حمل [[critical-thinking|التفكير النقدي]] نحو 85.0% من المسار الوظيفي ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
-
 ويُعقّد مسح وطني ذلك النمط: عبر 5,764 طالبًا جامعيًا صينيًا، ارتبط اعتماد الذكاء الاصطناعي ارتباطًا سلبيًا بالإبداع المُبلَّغ عنه ذاتيًا (r = −0.17)، مع حمل مسارات غير مباشرة سالبة لدوافع الهروب والاجتماعية وأخرى إيجابية للدوافع الأداتية والترفيهية ([[ai-dependence-creativity-motivation-literacy-2026|Hou et al. (2026)]]).
-
 
 - **يُثمر التجسّد بشكل غير متساوٍ.** رفع روبوت مادي مقترن بنموذج عالي الإبداع الأصالة بشكل دال مقارنةً بالتعاون بين إنسان وإنسان وبين إنسان ونص، بينما حافظت الظروف البشرية والنصية على أفضلية في التصوير والصوت — مفارقة تجسيد يُضخّم فيها الروبوت مخرجات الذكاء الاصطناعي دون تحسين النمط ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
 - **إعادة تأكيد الإبداع البشري في عصر الذكاء الاصطناعي.** يتحدّى صعود الذكاء الاصطناعي التوليدي الحقول التعليمية لإعادة تأكيد قيمة الإبداع البشري. وقد صُمّم إطار سرد [[storytelling-in-education|قصصي]] رقمي [[project-based-learning|قائم على المشاريع]] لتعليم الفن والتصميم لتنمية القدرات العاطفية والثقافية والسردية التي يفتقر إليها الذكاء الاصطناعي، مع إنتاج الطلاب سرديات [[multimodal]] متعددة الوسائط من التراث الثقافي المحلي — مُوضّعًا الإبداع كالمساهمة المتميزة للإنسان في التعلّم المدمج مع الذكاء الاصطناعي.
@@ -98,44 +97,3 @@ ai_assist:
 - **«إرباك الطلاب يُنتج مكاسب إبداعية.»** **الاحتكاك ليس مكسبًا إبداعيًا.** فقد أثارت شخصيات الذكاء الاصطناعي المخالِفة خطابَ التحدّي والتأمل في **38.2% من المجموعات** ومع ذلك **لم تُنتج أي تحسّن قابل للقياس في الأداء الإبداعي**. فالخطاب تغيّر والمخرج المقيس لم يتغيّر.
 - **«أدبيات مرحلة K-12 تثبت أن الذكاء الاصطناعي التوليدي يحسّن الإبداع.»** تُظهر مراجعة نطاق موجَّهة بـ PRISMA على **45 دراسة (2017-2025)** أن الذكاء الاصطناعي التوليدي في الغالب **يعزّز** الإبداع و**نادرًا ما يقيسه**. فالنتيجة السائدة في المجال استنتاج من تحسّن مُدرَك، وهو ليس قياسًا لمخرج.
 - **«مزيد من الاعتماد على الذكاء الاصطناعي التوليدي يعني مخرَجًا إبداعيًا أكثر.»** عند **1,157 طالب دراسات عليا صينيًا**، ارتبط الاعتماد على الذكاء الاصطناعي التوليدي **ارتباطًا إيجابيًا بالإبداع البحثي المُبلَّغ عنه ذاتيًا** — والارتباط بـ**التقرير الذاتي**، وهو أضعف مقياس متاح للبنية.
-
-## المفاهيم المرتبطة
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## المقالات المرتبطة
-
-- [[wei-genai-configurations-creative-phases-2026]] — تشكيلات الذكاء الاصطناعي التوليدي عبر مراحل الإبداع: تجربة 2 × 2 في الأداء الإبداعي والمعرفة الفورية في تعليم الفن والتصميم
-
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — أبقت توليد الصور بـ GenAI الأداء التصميمي دون تغيير لكنها خفضت الكفاءة الذاتية الإبداعية العامة
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — مراجعة نطاق موجّهة بـ PRISMA لـ 45 دراسة في K–12: أربعة استخدامات لـ GenAI في الإبداع، والتجانس، وفجوة القياس
-
-- [[multi-agent-llm-social-learning]] — المساعدة بنموذجين أعادت تنوع الأفكار الذي سطّحه النموذج الواحد (كومار وآخرون 2026)
-
-
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — إبداع متطابق، اشتراك عصبي متبايِن: الأطفال مقابل البالغين في حديث مع ChatGPT داخل ماسح الرنين المغناطيسي
-- [[ai-exemplar-attribution-creativity-education-2026]] — دعم تعليم الإبداع في عصر الذكاء الاصطناعي: دور مصدر المثال المُدرَك

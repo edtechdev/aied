@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -37,7 +38,3 @@ Napišite lekciju u bilo kojem uređivaču teksta i uvezite je u bilo koji alat 
 ## Za koga je
 
 Dizajneri nastave i izrađivači kolegija koji žele da njihov sadržaj preživi promjenu alata, dobavljači e-učenja koji žele format uvoza i izvoza koji njihovi korisnici već razumiju, i svatko tko gradi autorski rad uz pomoć umjetne inteligencije na čitljivom formatu. Među suradnicima je Dan Bashaw iz LXD Integrala, a format ima javni popis promjena do v1.8.
-
-## Povezani pojmovi
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

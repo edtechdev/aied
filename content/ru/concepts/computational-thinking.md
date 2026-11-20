@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -77,54 +79,3 @@ ai_assist:
 - **«Помощь ИИ выравнивает возможности в условиях нехватки ресурсов».** Может выравнивать, при определённых условиях. **14-недельный квазиэксперимент со 103 студентами первого курса в Нигерии** обнаружил, что обучение на основе проблем с поддержкой ИИ (ChatGPT и Teachable Machine) дало приросты, и ИИ как «более способный сверстник» несёт ВМ там, где другого обеспечения нет. Но это находка о структурированном вмешательстве, а не свойство выдачи студентам [[conversational-ai|чат-бота]].
 - **«LLM не могут надёжно оценивать ВМ».** [[llm-computational-thinking-physics-2026|Исследование оценивания ВМ по физике]] обнаружило, что LLM могут **зеркалить человеческих оценщиков** при оценивании прироста в практиках работы с данными и практиках вычислительного решения задач в курсах с большим набором. Препятствием для масштабирования оценивания ВМ была пропускная способность оценщиков, и это ограничение смягчается, — что переносит проектную задачу на вопрос, измеряет ли инструмент ВМ, а не соблюдение требований.
 - **«ВМ — это навык кодирования, которому робототехника случайно учит».** **[[meta-analysis-systematic-review|Систематический обзор]] 95 исследований** подтверждает, что робототехника развивает ВМ, креативность и решение задач, но также что **обстановка модерирует результат**: [[game-based-learning|игровая]] подача подходит для неформальных условий, тогда как геймификация различается в формальных. ВМ — это набор практик, которые переносятся неравномерно, поэтому утверждение о переносе нуждается в том дизайне задачи, который фактически использовался.
-
-## Связанные концепции
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Связанные статьи
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Вычислительное мышление в тесте на обучение ИИ (CTAT)
-- [[computational-thinking-aica-2026]] — Уровни вычислительного мышления и ИИ-ассистенты кодирования (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Авторство моделей: теория и измерение для обучения через построение с GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: рамки конструктивизма для построения артефактов
-- [[astor-computational-thinking-meta-review-2026]] — Метаобзор ВМ из 128 систематических обзоров
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Систематический обзор ВМ через робототехнику в детском саду
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

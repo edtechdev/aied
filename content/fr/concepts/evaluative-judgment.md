@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -117,56 +119,3 @@ Le déplacement a une version du côté de l'enseignant, et c'est elle qui a ret
 - **« L'erreur de l'évaluateur est un bruit aléatoire. »** **Le jugement des évaluateurs porte une direction mesurable qui lui est propre** : cinq responsables des admissions départageant **50 dissertations humaines de 50 dissertations générées par IA** ont atteint une **AUC de 0,70**, c'est-à-dire qu'ils ne distinguaient que faiblement les sources — et comme personne n'avait filtré les travaux soumis, ce **jugement sans assistance constituait l'intégralité du mécanisme d'application**, chaque dissertation signalée portant **1,5 point de pourcentage de probabilité d'admission en moins**. Un signal faible est devenu une pénalité réelle.
 - **« L'évaluation par les pairs et l'évaluation par IA sont substituables. »** Le modèle PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combine l'évaluation par les pairs et l'évaluation par l'IA** pour structurer la calibration. Les combiner est la conception, ce qui implique que ni l'une ni l'autre ne la fournit seule.
 - **« La qualité du jugement est une propriété du juge. »** Le résultat sur les admissions situe le problème dans l'agencement — un jugement non validé appliqué à des conséquences sans étape de filtrage — plutôt que dans la capacité des individus.
-
-## Concepts liés
-
-- [[pedagogical-patterns]] — L'étape d'appréciation que les étudiants exercent sur les sorties de l'IA dans ces séquences
-- [[ai-education]] — AI in education (umbrella)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## Articles liés
-- [[elkington-human-centred-assessment-value-2026]] — L'évaluation centrée sur l'humain, les agencements et les contraintes génératives (Elkington 2026)
-
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Pourquoi les professeurs d'écriture refusent d'externaliser la notation : c'est ainsi qu'ils apprennent à connaître leurs étudiants
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT contre la rétroaction entre pairs comme terrains d'entraînement de différentes dimensions du jugement évaluatif
-
-- [[ai-internal-feedback-evaluative-judgments]] — Comment la rétroaction interne assistée par l'IA développe le jugement évaluatif, et où le raisonnement reste mince
-- [[genai-feedback-design-multisite-experiment]] — La rétroaction hybride soi/pairs/IA préserve mieux l'autonomie et le jugement que la rétroaction directe par l'IA
-- [[pairr-ai-peer-review-2025]] — Révision par les pairs et par l'IA avec réflexion structurée : la calibration à l'échelle
-- [[zhan-boud-dawson-genai-feedback-engagement]] — Comment la littératie en rétroaction décide si la rétroaction par l'IA enseigne ou se substitue à l'apprentissage
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — L'écart de soutenabilité dans la rétroaction par l'IA
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Le jugement évaluatif comme l'un des volets de conception qui remplacent l'application coercitive par la détection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Faire du raisonnement et du jugement visibles ce que la grille récompense
-- [[learner-centered-feedback-ai]] — Le jugement évaluatif de l'enseignant avec les outils de rétroaction par l'IA
-- [[beyond-detection-authentic-assessment-ai-2025]] — Au-delà de la détection : l'authenticité repensée plutôt que surveillée
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Repenser la validité de l'évaluation à l'ère de l'IA générative
-- [[du-yuan-epistemic-dependence-2026]] — Contestabilité, récupérabilité et les critères qui séparent l'appui de la dépendance
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy for AI-assisted writing
-- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Perspectives étudiantes sur une évaluation transparente de l'écriture assistée par l'IA dans l'enseignement supérieur
-- [[sharma-judgment-visible-genai-assessment-2026]] — Le jugement comme cœur évaluatif de l'intégrité : pistes de décision annotées, soutenance orale, historique des versions (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Des commissions qui pèsent les preuves sans normes codifiées : le problème de jugement de l'institution elle-même (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — L'imprécision des détecteurs et l'échec sur l'écriture hybride : le jugement humain comme remplacement recommandé du verdict (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — La fonction, non la plateforme : juger ce qu'un outil a fait plutôt que ce qu'il est (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms et le taux de discernement : noter la trace de raisonnement derrière un travail assisté par l'IA (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[authentic-assessments-generative-ai-pilot-2026]] — Concevoir des évaluations authentiques avec l'IA générative : une étude pilote sur Assessment Authentifire dans l'enseignement supérieur
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — l'Agency Check (crédible, pertinent, acceptable, nuancé) qui structure chaque interaction avec l'IA
-
-- [[judgment-centred-software-engineering-education-2026]] — Revue et cadre post-hype pour l'enseignement du génie logiciel augmenté par l'IA
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Le jugement ne séparait la qualité que lorsqu'il était câblé à la révision (Z = 2.80 et 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Les révisions des enseignants devenaient des critères de validation réutilisables (Tang et al. 2026)
-
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Le patterning retiré de la tâche, et le jugement qui se trouve emprunté

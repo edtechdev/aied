@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -87,28 +89,3 @@ ai_assist:
 **「よりよいプロンプトはよりよい市民性の授業を生む。」** 対話的な変種はほとんど違いを生まず、3つのチャットボットすべてが53の基準にわたって同じ構造を生成しました。プロンプトの質は教科の質感を回復しませんでした。
 
 **「実践を導くのに十分なエビデンスがある。」** 慎重さを正当化するには十分です。1つの内容分析、1つの文書統合、1つの小規模な[[mixed-methods-research|混合研究法]]研究、そしていくつかの概念的あるいは政策に関する論考は、何が機能するかを確立しません。
-
-## 関連する概念
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — 包括概念: 学習者がAIシステムについて知る必要があること
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — 生成された偽情報と説得を社会的害として扱う
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## 関連する記事
-
-- [[civic-education-ai-lesson-plans]] — 53の市民性基準に向けた310件のAI生成授業計画: 90%が低次認知、94%が多文化的内容なし(Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — 南アフリカにおけるアルゴリズム的な国境ガバナンスと市民的デジタルリテラシーの5つの要求(Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — 批判的メディアリテラシーと参加的市民性についての専門家インタビューと学生調査(Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — qualification、socialization、subjectification を通して読む、フィンランドの教師によるAI教育の目的
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 市民生活と民主的関与を含む科学リテラシーの諸構想(Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — ディープフェイクと自動化された偽情報を民主主義への脅威として名指しする論説(Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — 成人教育政策と生涯学習の市民的使命(Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160のガバナンス文書。民主主義と法の支配が92で言及され、法的効力は4(Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 政治理論の用語での民主主義の論点: 実践の侵食、メカニズム、権威主義の賭け金

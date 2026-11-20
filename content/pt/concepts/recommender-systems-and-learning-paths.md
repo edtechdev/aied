@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -49,11 +51,7 @@ Onde a [[adaptive-learning|aprendizagem adaptativa]] descreve o mecanismo de aju
 
 Os recomendadores comportamentais herdam a lógica da [[machine-learning|filtragem colaborativa]]: pressupõe-se que quem aprende com históricos semelhantes quer recursos semelhantes, de modo que o sistema prevê a partir de coocorrência, e não de conteúdo. Isso é poderoso onde os dados são densos e frágil onde não são. [[fair-explainable-edu-recommendations|Evangelista e Bukhari (2026)]] enunciam o problema com clareza — recomendadores focados em precisão dão apoio menos confiável a estudantes com históricos de participação limitados, enquanto recursos populares dominam as listas —, e o respondem com um framework HKG-GRU híbrido que embute um [[knowledge-graph|grafo de conhecimento]] heterogêneo de materiais de curso e modela as sequências de quem aprende com um GRU, treinando então para robustez entre grupos de estudantes (GroupDRO) e reranqueando para diversidade de exposição (Relevância Marginal Máxima). Em registros do Moodle de 152 estudantes, 59 recursos e cerca de 150.000 interações, ele alcançou HR@10 = 0,68 e MRR = 0,41, mas um substancial viés de popularidade persistiu no nível do catálogo — evidência de que a [[bias-mitigation|mitigação de viés]] é parcial.
 
-
 Uma linha de base leve também pode superar os modelos profundos de forma direta. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] compararam sete recomendadores no NedBox, uma plataforma de neerlandês como segunda língua, e o modelo raso item-item EASE liderou em todas as medidas — AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279 — à frente do autoencoder variacional profundo MVAE (AUROC 0,949) e do ensemble PentaForest (0,953), com a fatoração de matrizes em último lugar (IALS 0,719, UKNN 0,767). Os sinais de recomendação e de [[knowledge-tracing|rastreamento de conhecimento]] também se compõem: reranquear o top-10 do EASE pela proficiência prevista elevou o NDCG@3 em aproximadamente 3%.
-
-
-
 
 Os recomendadores semânticos substituem a coocorrência por estrutura. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun e Song (2026)]] constroem um grafo de conhecimento de recursos de ensino, conceitos linguísticos, habilidades, grupos de quem aprende e atributos [[pedagogy|pedagógicos]], e decompõem cada recurso ao longo de quatro dimensões instrucionais — contexto de ensino, nível cognitivo, característica tecnológica e adaptabilidade cultural. A recomendação expande k-hop sobre o grafo a partir dos requisitos declarados de quem aprende, refina os candidatos com uma filtragem colaborativa baseada em atributos, e os ranqueia por um coeficiente de fusão que sobe com os índices de habilidade, progresso e interesse de quem aprende, de modo que quem está menos adiantado recebe orientação mais estruturada do grafo, enquanto os de maior habilidade se apoiam em seu padrão comportamental. No subconjunto de inglês do conjunto de dados MARS (4.800 usuários, 14.200 recursos, 132.000 interações, esparsidade 0,9981), ele alcançou NDCG 0,625 e HR 0,751, um ganho de cerca de 7–8% sobre a melhor linha de base neural, e superou linhas de base conscientes de grafo, incluindo RippleNet e KGAT, em cobertura e precisão entre domínios. A ablação mostra que os sinais são complementares (apenas CF NDCG 0,584, apenas KG 0,604), e os autores observam que são métricas de ranqueamento, e não evidência de eficácia de [[learning-gains|aprendizagem]].
 
@@ -104,42 +102,3 @@ A mesma literatura começou a propor remédios para o estreitamento, embora aind
 **"Dados esparsos são um incômodo técnico."** Nos níveis de esparsidade desta literatura (0,9981) o sistema quase não vê nada, o que torna o início frio e o viés de popularidade estruturais, e não corrigíveis por ajuste de hiperparâmetros. Um recomendador treinado nesse sinal vai expor sistematicamente o que já é popular, e quem aprende de forma discreta ou incomum é justamente quem ele não consegue ver.
 
 **"A explicabilidade é um recurso de relatório."** Se um professor ou quem aprende consegue auditar uma recomendação é uma condição de legitimidade: uma trajetória que o estudante não pode examinar é uma trajetória que ele não pode contestar, o que é um problema de governança antes de ser um problema de interface.
-
-## Conceitos conectados
-
-- [[knowledge-graph]] — Representações estruturadas de conceitos, recursos e relações de pré-requisito
-- [[explainable-ai]] — A explicação como atributo de desenho que medeia compreensibilidade e confiança
-- [[curriculum-design]] — Decisões de ordenação que os recomendadores modelam, inferem e reproduzem
-- [[learning-design]] — A sequência planejada de atividades sobre a qual as análises de trajetória operam
-- [[learning-analytics]] — Os dados e métodos por trás da recomendação, e o objeto da auditoria
-- [[cognitive-diagnosis]] — Diagnosticar estados de conhecimento que semeiam trajetórias de remediação
-- [[knowledge-tracing]] — Modelar o domínio ao longo do tempo para decidir para o que quem aprende está pronto
-- [[student-modeling]] — Representações de quem aprende que a recomendação consome
-- [[personalized-learning]] — O objetivo mais amplo; esta página cobre a decisão de seleção
-- [[adaptive-learning]] — O mecanismo de ajuste em tempo real; esta página cobre ranqueamento e sequenciamento
-- [[intelligent-tutoring]] — A plataforma que age sobre as recomendações em diálogo
-- [[bias-mitigation]] — Intervenções de equidade no ranqueamento e na exposição
-- [[equity-in-ai-education]] — Diferenças no nível do grupo na qualidade da recomendação
-- [[human-in-the-loop-ai]] — Supervisão da navegação automatizada de recursos
-- [[self-directed-learning]] — Trajetórias mantidas por quem aprende e navegação ao longo da vida
-- [[lifelong-learning]] — Aprendizagem estruturada em grafo além de uma sequência de diploma
-- [[trust-calibration]] — Ajustar a dependência à confiabilidade da recomendação
-- [[student-support-and-success]] — recomendar apoio, recursos e trajetórias acadêmicas
-
-## Artigos conectados
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Filtragem colaborativa híbrida mais grafo de conhecimento para recursos de ensino multimodais, com fusão consciente de habilidade e progresso (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Recomendador com grafo de conhecimento heterogêneo + GRU com equidade GroupDRO e explicabilidade contrafactual (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Explicações orientadas pelo domínio constroem mais confiança do professor que gráficos de importância de atributos (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — Aprendizado de relações de pré-requisito com uma restrição de irreversibilidade para consistência direcional (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — Recomendando prática de programação por similaridade de componentes de conhecimento baseados em padrões (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Análise por Markov e mineração de padrões de 29.064 atividades desenhadas ao longo de 554 cursos (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico DINA bayesiano e trajetórias de remediação mais curtas, mediadas pela carga cognitiva (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Mapear questões a um assistente de ensino com IA para um grafo de pré-requisitos extraído por GPT-4 a fim de encontrar lacunas no nível do currículo (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Grafos learnity como alternativa de aprendizagem ao longo da vida a currículos fixos (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Taxonomia de cinco níveis mostrando que a maioria da interação humano-IA é consulta, e não colaboração (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Apoio à autonomia versus pressão prevendo vias de IA construtivas ou compulsivas (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — Revisão PRISMA de tendências, trajetórias e modelos de recomendação da aprendizagem personalizada (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: um benchmark de planejamento Conhecimento-Cêntrico mostrando que LLMs alcançam 90,9% de validade, mas apenas 44,3% de adaptatividade (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — recomendação de exercícios como uma decisão sequencial sobre um rastreador semanticamente fundamentado
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Agrupamento comportamental de 14.003 registros em seis perfis, mapeados para objetos de aprendizagem com um framework de recomendação regularizado por diversidade (Najem et al. 2026)

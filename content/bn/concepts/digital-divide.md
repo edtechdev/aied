@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -102,41 +104,3 @@ ai_assist:
 - যন্ত্র-বিতরণকে বিভাজন বন্ধ করা হিসেবে ধরবেন না। পরিমাপযোগ্য ফাঁকগুলো শব্দবিন্যাস-দক্ষতা, ইন্টারফেস-ভাষা ও সংযোগে বসে, আর কোনোটিই হার্ডওয়্যার দিয়ে ঠিক হয় না।
 - একটি সরঞ্জাম যে অবকাঠামো ধরে নেয়, তা প্রকাশ করুন। স্পষ্টভাবে বলা শর্ত অল্প-সম্পদের প্রেক্ষাপটকে বিনিয়োগের আগেই উপযুক্ততা বিচার করতে দেয়।
 - সফটওয়্যার-লাইসেন্স নয়, পূর্ণ মোতায়েনের খরচ হিসাব করুন। ডিজিটাল-টুইনের প্রমাণ দেখায় ভার্চুয়ালীকরণের পরেও হার্ডওয়্যার-বিল টিকে থাকতে পারে।
-
-## সংযুক্ত ধারণা
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — eGovernance-এর জন্য এআই: ডিজিটাল অন্তর্ভুক্তির জন্য ভাষা-প্রযুক্তি
-- [[watanabe-genai-education-gap-europe-2026]] — জেনারেটিভ এআই ব্যবহারে শিক্ষা-ফাঁক কি ইন্টারনেটেরটির চেয়ে ছোট? (ওয়াতানাবে 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — নাইজেরিয়ার উচ্চশিক্ষায় প্রাতিষ্ঠানিক কাঠামো, ডিজিটাল অসমতা ও এআই-সংযোজন
-- [[ai-divide-ses-personality-primary-education-2026]] — প্রাথমিক শিক্ষায় আর্থসামাজিক অবস্থা, ব্যক্তিত্ব ও এআই-বিভাজন (ওয়াং প্রমুখ 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: শিক্ষক-প্রতিনিধি টিউটরিং যন্ত্রহীন শিক্ষার্থীর কাছে পৌঁছায় (রদ্রিগেস প্রমুখ 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — বিদ্যালয়-এআই শিক্ষা মনস্তাত্ত্বিক ফাঁক কমায়, সংজ্ঞানাত্মক নয়
-- [[prompt-privilege-equitable-ai-access-2026]] — প্রম্পট বিশেষাধিকার: এলএলএম প্রবেশাধিকারে অভিগম্যতা-বৈষম্য মাপা ও প্রশমন
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — স্তরবদ্ধ এআই-সাক্ষরতা (SAIL) কাঠামো
-- [[oecd-digital-education-outlook-2026]] — OECD ডিজিটাল এডুকেশন আউটলুক 2026
-- [[aaai2026-prompting-literacy-k12]] — K-12 শিক্ষার্থীদের এআই চ্যাটবটের দায়িত্বশীল ব্যবহার শেখানো
-- [[structural-silence-underrepresented-language-ai-2026]] — কাঠামোগত নীরবতা ও অনুপ্রতিনিধিত ভাষা
-- [[sec-ai-literacy-narrative-review-2026]] — এআই-সাক্ষরতায় সামাজিক-আবেগিক দক্ষতা
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — বহুভাষিক নিম্ন-সম্পদ প্রেক্ষাপটের জন্য এআই-ভিত্তিক অভিযোজিত শিখন প্ল্যাটফর্ম
-- [[ai-science-chemistry-education-systematic-review-2025]] — বিজ্ঞান/রসায়ন শিক্ষায় এআই-এর পদ্ধতিগত পর্যালোচনা
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO এআই নির্দেশনা রসায়ন শিক্ষায় অনূদিত; জ্ঞানতাত্ত্বিক প্রবাহ
-- [[lodge-loble-cognitive-offloading-2026]] — এআই, সংজ্ঞানাত্মক অপসারণ ও শিক্ষার জন্য তাৎপর্য (লজ ও লোবল 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — সমাজতান্ত্রিক মানবতাবাদী এআই-সাক্ষরতা + ন্যায্য ব্যবহার
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: গ্রামীণ রোবোটিকস-প্রবেশাধিকার পরামর্শদানের ভূগোল অনুসরণ করে, যন্ত্র-প্রবেশাধিকার নয় (জ্যাকবসন প্রমুখ 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — দক্ষিণ আফ্রিকান HDI-তে ডিজিটাল অসমতা বণ্টনমূলক সমস্যা বনাম অ্যালগরিদমিক ঔপনিবেশিকতা জ্ঞানতাত্ত্বিক সমস্যা
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: শিক্ষা-সমতার দিকে স্বল্প-খরচে ঘরের ভাষা শিখনের স্থানীয়-প্রথম এআই এজেন্ট কাঠামো
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — ডিজিটাল-টুইন ল্যাব একটি সরঞ্জাম-বিল বহন করে যা সমকালীন প্রবেশাধিকার সীমিত করে

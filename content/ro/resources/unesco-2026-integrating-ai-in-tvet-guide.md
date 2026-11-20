@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -41,12 +42,3 @@ Lideri ai instituțiilor TVET care decid ce să facă mai întâi, profesori și
 ## Note și precauții
 
 Este îndrumare, nu evaluare. Ghidul nu raportează date privind rezultatele, iar exemplele sale instituționale — un model de învățare cu IA integrată în conținut la College of the North Atlantic din Canada și standardul kenyan din 2023 pentru stagiile industriale TVET — sunt casete descriptive de caz, cu sursa în rapoarte de proiect, nu în studii independente. Anexele se declară orientative; scara de maturitate este un ajutor de discuție, nu un instrument de măsurare. Ocupațiile critice pentru siguranță și cele reglementate primesc un capitol, dar el argumentează o poziție privind supravegherea umană, în loc să ofere detaliu la nivel de reglementare. Licența CC BY-SA 3.0 IGO permite adaptarea și republicarea cu atribuire și partajare sub aceeași licență.
-
-## Concepte conexe
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

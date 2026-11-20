@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -93,39 +95,3 @@ ai_assist:
 - **«Таксономії взаємодії усталені».** **Серед 46 категоризацій із 33 досліджень подібні ярлики називають різні явища**, і саме тому огляд пропонує *епізод взаємодії* як одиницю. Схема кодування, запозичена з однієї таксономії, може вимірювати інший конструкт.
 - **«Студенти використовують ШІ як тьютора».** Серед **38 студентів бакалаврату**, які писали аргументаційні есе без нагляду, **76.32% використовували патерн одного ходу «запитав–отримав відповідь–зупинився»**, зазвичай вставляючи назву завдання. Домінантний патерн — одноходове витягання, що не є тьюторством.
 - **«Більше використання ШІ свідчить про більшу залученість у матеріал».** Аналіз **200 сесій чату спільного програмування** виявив, що **78.8% взаємодій студента з GenAI працювали на цілях і стратегіях, не орієнтованих на опанування**. Обсяг взаємодії вимірював щось інше, ніж навчальна орієнтація, тож підрахунок сесій є оманливим проксі залученості.
-
-## Пов’язані поняття
-- [[learners]] — Здобувачі: узагальнення для понять на боці здобувача
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Пов’язані статті
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Частота використання та самооцінена експертиза не передбачили нічого серед 819 студентів
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Когнітивний аутсорсинг проти перерозподілу в непідконтрольних оцінюваннях здобувачів із GenAI (Ян і співавтори, 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — «Це пастка?»: невпровадження GenAI студентами-викладачами в оцінюванні (Зоу і співавтори, 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Аналіз типів звернень у взаємодії здобувача зі ШІ
-- [[student-llm-interaction-taxonomy-review-2026]] — Огляд таксономії взаємодії здобувача з LLM
-- [[teacher-authored-prompts-student-ai-dialogue]] — Підказки, створені викладачами, в діалозі здобувача зі ШІ
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Конструювання епістемічної грамотності в ШІ
-- [[dura-llm-cs2]] — Демістифікуй, використовуй, рефлексуй, оцінюй (DURA): інтеграція LLM в CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — Освітній агент на основі LLM (DBagent) в освіті з інформатики
-- [[isaza-chatgpt-engineering-prompting-2026]] — Зареєстровані підказки та поведінка інтеграції
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Хибні, але запам’ятовувані: критичне сприйняття здобувачами персоналізованих за інтересами аналогій GenAI в освіті з обчислювань
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Обхід, розвантаження чи скаффолдинг: концептуальна модель того, як великі мовні моделі формують навчання
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Коли ШІ-тьютори говорять: дані з рандомізованого польового експерименту
-- [[context-prompts-physics-assignments-2026]] — Завдання з фізики на основі ШІ з використанням контекстних підказок
-- [[three-pathways-student-ai-interaction-2026]] — Типологія трьох шляхів взаємодії здобувача зі ШІ: 46% пасивний перегляд, 18% пряме запитання, 36% стратегічний діалог
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

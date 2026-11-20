@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -76,37 +78,3 @@ ai_assist:
 - **"विद्यार्थी AI चाहते हैं क्योंकि वे शॉर्टकट चाहते हैं।"** एक छात्र-सूचित ढाँचे ने पाया कि विद्यार्थी **करियर के लिए GenAI कौशल की आवश्यकता से अत्यधिक जुड़े और सचेत थे**, और साथ ही **अनजाने में शैक्षणिक दुराचार किए बिना AI का उपयोग करना** चाहते थे। माँग स्पष्ट सीमाओं के साथ क्षमता की है, काम टालने की अनुमति की नहीं।
 - **"व्यावसायिक पाठ्यक्रम में AI मॉड्यूल जोड़ देने से लाभ प्राप्त हो जाता है।"** रचनात्मक संरेखण पर अनुसंधान ने पाया कि **लाभ या जोखिम में से किसका प्रभुत्व रहा, यह पाठ्यक्रम एकीकरण की मात्रा से आकार पाता था**: निर्णायक भेद **एकीकृत करें, संलग्न न करें** है। बाहर से जोड़ा गया मॉड्यूल मूल्यांकन अभिकल्प को अपरिवर्तित छोड़ देता है।
 - **"उपकरण की परिष्कृतता पारंपरिक ई-लर्निंग से बेहतर है।"** **130 विद्यार्थियों** वाले धारणा अध्ययन ने पाया कि **चैटबॉट और एजेंट सहायता दोनों को संवर्धन, वैयक्तिकरण और निर्णय-निर्माण पर पारंपरिक ई-लर्निंग से ऊपर आँका गया**। यह ध्यान देने योग्य है कि इससे क्या मापा जाता है: पारंपरिक आधार रेखा के विरुद्ध विद्यार्थी *धारणा*, उसके विरुद्ध अधिगम नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — केस अध्ययन, केस विधि और केस चर्चा
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## संबंधित लेख
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-संवर्धित व्यावसायिक प्रक्रिया प्रबंधन के लिए AI-निर्णय चेकपॉइंट: ढाँचा और शैक्षणिक उदाहरण
-
-- [[csaszar-ai-management-education-2026]] — प्रबंधन शिक्षा पर AI के प्रभाव: एक मूल्य-आधारित रणनीति विश्लेषण (Csaszar एवं सहलेखक 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: एक ई-कॉमर्स पाठ्यक्रम में एजेंटिक GAI समर्थन, अनुभवित लाभ और जोखिम (इलिवा एवं सहलेखक 2026)
-- [[drummond-genai-business-schools-framework-2026]] — व्यावसायिक विद्यालयों में GenAI के लिए छात्र-सूचित ढाँचा (ड्रमंड और डेल 2026)
-- [[espino-ai-business-education-review-2026]] — व्यावसायिक शिक्षा में AI की एक दशक (एस्पिनो और एस्पिनो 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — व्यावसायिक उच्च शिक्षा में GenAI का रचनात्मक संरेखण (झोउ एवं सहलेखक 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — पाठ्यक्रमों में GenAI एकीकृत करने पर छात्र अंतर्दृष्टि (रुक और प्लम्ब 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — उच्च शिक्षा में AI अपनाने के संगठनात्मक चालक (अल-रहमी 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — व्यावसायिक सिमुलेशन खेलों में AI संवादी एजेंट के लिए CAIS-GBL ढाँचा (वेंज़ेल एवं सहलेखक 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — छात्र विपणन पोस्टों के स्वचालित स्कोरिंग में सहमति और त्रुटि
-- [[shi-genai-experiential-learning-management-education-2026]] — प्रबंधन शिक्षा शिक्षाशास्त्र को फिर से बनाने के लिए तीन जनरेटिव AI तंत्र
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — पाठ्यक्रम-निर्मित RAG चैटबॉट ने अपेक्षाएँ बदलीं, परिणाम नहीं
-- [[alam-process-oriented-collaborative-essays-2026]] — Business Analyst प्रशिक्षुता में प्रक्रिया-केंद्रित सहयोगी निबंध: मूल्यांकन प्रलेखित पुनरावृत्ति का, विषय का नहीं

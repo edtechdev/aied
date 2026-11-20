@@ -10,6 +10,8 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 > **[[pedagogy|Pedagogical]] partnerships** (also known as **students as partners** or **SaP**) — a relationship-centered approach to teaching and learning in which students and educators work together as collaborators to co-create curriculum, teaching activities, [[assessment|assessment]], [[open-education|open educational resources]], and educational policies, rather than treating students as passive recipients of faculty-designed instruction. Rooted in values of **respect, reciprocity, and responsibility** (Cook-Sather et al., 2014), pedagogical partnership repositions students as co-creators of knowledge and educational innovation and challenges traditional top-down power dynamics in education. In the AI era, partnership has become a key counter-narrative to deficit views of students as AI cheaters or victims — positioning students as partners in co-designing AI policy, tools, and practice.
@@ -96,35 +98,3 @@ For educators and institutions seeking to adopt pedagogical partnership, the res
 - **"Partnership means elevating student voice."** A pedagogical partnership is a **bounded, negotiated relation** with defined roles and reciprocal obligation, not consultation. Voice without a role, a remit and a share of the decision changes nothing structural.
 - **"Partnership is a stance one can adopt."** It requires institutional conditions — time, recognition for the student partner, and a change the partners can genuinely affect. Declared partnership without those conditions reproduces the hierarchy it claims to interrupt.
 - **"Power-sharing cannot be faculty development."** The claim of the literature is that partnership is development *because* it changes the educator's understanding through the relation. Framing it as student benefit only discards the mechanism.
-
-## Connected Concepts
-- [[pedagogy]] — Pedagogies and teaching strategies
-- [[collaborative-learning]]
-- [[agency]] — Learner agency
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment design through co-creation: Student-staff partnership in evaluating AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
-- [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
-- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
-- [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Students built an AI tutor for peers at 710-student scale: engagement high, learning evidence exploratory (Zangari et al. 2026)

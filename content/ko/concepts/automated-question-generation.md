@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -89,54 +91,3 @@ AQG는 [[adaptive-learning|적응형]] 및 [[personalized-learning|개인화된]
 **"문항 생성은 자연히 연습을 개인화한다."** 그것은 공급을 생성하며, 개인화는 매칭 문제입니다. 문항을 더 많이 만드는 것은 주어진 학습자가 다음에 어떤 문항을 보아야 하는지를 알려 주지 않으며, 적응적 선택 문제는 자체 증거를 지닌 별개의 기제입니다.
 
 **"생성은 평가가 측정하는 것을 바꾸지 않으면서 평가를 확장한다."** 그것은 측정되는 것의 구성을 바꿉니다. 잘 생성되는 문항은 잘 평가하는 문항의 대표 표본이 아니기 때문입니다. 생성하기 쉬운 형식이 생성하기 어려운 형식을 점차 밀어내며, 이는 구성개념을 조용히 재편합니다.
-
-## 연결된 개념
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## 연결된 문서
-- [[genai-medical-education-transformation-review-2026]] — AI 문항 생성 대비 교수 문항 품질에 관한 의학교육 보고서 153건의 범위 검토
-- [[assessing-quality-ai-generated-exams-field-2025]] — IRT를 통한 AI 생성 시험 품질의 대규모 현장 검증
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate 문항 생성
-- [[kt4eqg-personalized-question-generation]] — 지식 추적을 통한 개인화된 문항 생성
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 청각장애인 및 난청 학습자를 위한 LLM 기반 문항 생성
-- [[llm-educational-question-cognitive-depth]] — LLM 생성 문항의 인지 깊이
-- [[slidesqaqa-pedagogical-question-generation]] — 슬라이드 덱 Q&A 교육학적 문항 생성
-- [[code-gen]] — CODE-GEN: RAG 기반 인간 참여 문항 생성
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles 벤치마크
-- [[taklif-ai-interest-based-personalized-assignments]] — 흥미 기반 개인화 과제
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM 기반 난이도 보정
-- [[self-referential-l2-writing-llm-assessment]] — 자기 참조적 분석적 글쓰기 평가
-- [[cross-dataset-bloom-question-classification]] — 교차 데이터셋 Bloom 질문 분류
-- [[llm-chatbots-cs-multiple-choice]] — LLM 챗봇과 CS 객관식 문항
-- [[socratic-tests-conversational-assessment]] — 소크라테스식 시험: 대화형 평가
-- [[llm-turing-test-italian-legal-exams-2026]] — 법학 시험에서의 LLM 튜링 테스트
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 ML을 사용한 문항 난이도 추정
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: 과정 기반 수학 문항 품질 평가
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공동 학습 루프에서 학습자를 배우는 에이전트 튜터
-- [[automated-constructive-assessment-hdr-llm-2026]] — 대형 언어 모델로 구성적 평가 자동화하기: 실천 역량의 확장 가능하고 반복적인 평가를 향하여
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난이도의 한계
-- [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 문항의 교육학적 평가를 위한 사전훈련 모델 평가
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 학생들은 채점된 시험에서 AI 생성 객관식을 면허 시험 문항과 구별하지 못했고, 생성 문항의 18.2%가 검토에서 제거되었다 (Vogt et al. 2026)
-- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 작성 루브릭을 통과한 생성 문항도 의도한 역량 수준을 빗나갈 수 있다
-- [[islam-human-vs-ai-sba-dental-2026]] — 마무리 시간이 문항당 6.0분에서 1.0분으로 줄었으며, 사용 가능한 초안부터 최종본까지 측정한 것이지 처음부터 끝까지가 아니다

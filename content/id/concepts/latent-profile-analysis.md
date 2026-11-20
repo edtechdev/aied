@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,7 +65,6 @@ Tidak ada satu statistik pun yang memilih solusinya; korpus memperlakukan retens
 - **Stabilitas di bawah resampling.** Stabilitas bootstrap adalah pemeriksaan jujur tentang apakah profil akan berulang pada sampel baru: rerata adjusted Rand index adalah 0.385 untuk solusi enam kelas Ukraina tetapi 0.989 di seluruh 100 inisialisasi acak dalam studi kepercayaan pada AI — desain nominal yang sama, bobot evidensial yang sangat berbeda.
 - **Uji rasio kemungkinan bootstrap (BLRT)** dan uji Lo–Mendell–Rubin adalah pendamping standar BIC dan entropi dalam literatur pemodelan campuran yang lebih luas, tetapi studi profil dalam basis pengetahuan ini tidak melaporkannya. Ketika sebuah halaman hanya melaporkan BIC dan entropi, perlakukan jumlah kelas sebagai sementara.
 
-
 - **Pemeriksaan rasio kemungkinan yang justru dilewatkan korpus ini.** [[ai-attitude-latent-profiles-career-development-2026|Song dkk. (2026)]] mempertahankan empat profil (entropi 0.824) dari 379 mahasiswa bisnis dan melaporkan keputusan Lo–Mendell–Rubin: signifikan pada empat (p = 0.035) dan tidak signifikan pada lima (p = 0.376).
 - **Retensi yang dipertahankan dengan solusi pesaing dan uji rasio kemungkinan.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez dkk. (2026)]] melaporkan bahwa solusi empat profil lebih cocok untuk 102 siswa tetapi tidak meningkat secara signifikan dan meninggalkan kelas terkecil pada 12.7 persen, sehingga mereka mempertahankan tiga profil (entropi .89) alih-alih model yang lebih baik secara numerik. Melaporkan solusi yang kalah dan apa yang mendiskualifikasinya adalah yang membuat jumlah kelas yang dipertahankan menjadi pertimbangan yang dapat diperiksa pembaca, dan ukuran penggunaan AI 12 butir yang dirancang khusus untuk studi itu — divalidasi pada sampel terpisah berisi 85 yang disebut para penulis sebagai pendahuluan — menandai batas lain dari buktinya.
 
@@ -92,26 +93,3 @@ Empat kehati-hatian, masing-masing dinyatakan dalam halaman sumbernya:
 - **"Analisis profil laten menemukan kelompok yang memang ada."** LPA mengubah keragaman siswa dari klaim retoris menjadi temuan yang terukur, dan profil adalah **model atas sebuah kontinum yang dibagi pada batas-batas terpilih**, bukan jenis alami. Jumlah profil adalah keputusan analitis.
 - **"Anggota keluarga variabel laten mana pun sama saja."** Yang mana yang Anda gunakan **mengikuti indikatornya**: **LCA untuk indikator kategorikal**, LPA untuk indikator kontinu. Memilih metode lebih dulu dan indikator kemudian membuat hasilnya menjadi artefak dari pilihan itu.
 - **"Profil dapat dibandingkan lintas studi."** Chen dan rekan memprofilkan **128 calon guru Taiwan** pada lima konstruk [[technology-acceptance-model|TAM]]/UTAUT2, sementara Acquah dan rekan memprofilkan **509 mahasiswa Ghana**. Indikator yang berbeda pada populasi yang berbeda tidak menghasilkan label profil yang sebanding.
-
-## Konsep terkait
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Artikel terkait
-- [[ai-attitude-latent-profiles-career-development-2026]] — Bukti retensi Lo–Mendell–Rubin untuk empat profil sikap AI pada 379 mahasiswa bisnis
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Analisis transisi profil laten tiga gelombang atas adaptasi psikologis
-- [[liang-ai-learning-motivation-sdt-2026]] — Analisis transisi laten atas tiga profil motivasi selama satu tahun
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Profil k-means; ketidaksepakatan siluet vs. Calinski–Harabasz; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Pengelompokan hierarkis dan k-means menjadi empat persona adopsi GenAI
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Empat profil keyakinan AI guru dari 40,680 guru di 49 sistem, dengan stabilitas keselarasan

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
+connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -127,77 +129,3 @@ AI는 인지적, 동기적, [[affective-computing|정서적]], 정체성, 사회
 **"학생이 AI가 도움이 된다고 느끼면 도움이 된다."** 도움을 받는다고 느끼는 것은 경험에 관한 실제 자료이자 결과에 관한 신뢰할 수 없는 추론입니다. 그 격차는 문서화되어 있고 피해 집단의 학생들은 그것을 안정적으로 지각하지 못하므로, 지각과 결과는 하나가 다른 하나를 대신하는 것이 아니라 별도의 측정치로 수집되어야 합니다.
 
 **"학생 경험은 결과에 비해 무른 관심사다."** 그것은 도입과 공개를 이끄는 선행 지표입니다. 자신의 사용이 판단받는다고 느끼는 학생은 그것을 숨기며, 숨겨진 사용은 [[reducing-ai-misuse|오용]]과 피해가 기관에 가장 덜 보이는 조건입니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념을 위한 상위 개념
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학문적 학습자 정체성
-- [[agency]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[remote-proctoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[framing-ai-use-for-students]]
-- [[academic-integrity]]
-- [[stakeholders]] — 상위 개념: AI 교육에서의 사람과 수용자(학습자, 교사, 설계자, 행정가, 정책 입안자)
-- [[self-report-measures]]
-- [[student-engagement]] — AI 시스템이 학생의 행동을 어떻게 측정하고 반응하는가
-- [[social-norms-ai-use]] — AI 사용이 동료에게 어떻게 가시가 되는가
-- [[student-support-and-success]] — 지원의 제도적 측면: 수업에서 일어나는 일이 아니라 대학이 학생에게 하는 일
-
-## 연결된 문서
-
-- [[shame-guilt-ai-regulation-computing-education]] — AI 사용의 사회적 조절자로서의 수치심과 죄의식
-- [[t2i-competence-paradox-2026]] — 유능성의 역설: 텍스트-이미지 생성형 AI 사용에서의 창조적 정체성
-- [[best-response-student-ai-dialog-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[ai-in-the-wild-college]]
-- [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — 학술 저술에서 AI 사용에 관한 학생의 합리화(Kim et al. 2026)
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[ai-availability-student-motivation]]
-- [[aied-unfinished-mission-bypass]]
-- [[student-mental-models-genai]]
-- [[genai-usage-design-students-survey]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 대학 졸업생에 대한 AI 기술 기대 대 제도적 준비도
-- [[student-ai-inquiry-types-cs2-2026]] — 학생-AI 상호작용에서의 질의 유형 분석
-- [[lnenicka-secondary-students-genai-stem-2026]] — STEM 전반에 걸쳐 중등 학생들이 생성형 AI 도구로 무엇을 하는가
-- [[dai-chatbots-problem-posing-primary-2026]] — 초등 과학에서의 생성형 AI 챗봇과 문제 제기
-- [[bassett-ai-detectors-education-2026]] — 앞면이 이기든 뒷면이 지든: 교육에서의 AI 탐지기(Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — 안전의 격차: 생산적 투쟁의 회복
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: 학생 불안의 LLM 증강 평가(2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI 불안에 관한 종합 분석
-- [[student-perceptions-ai-study-productivity-2026]] — 학습 생산성과 학습을 위한 인공지능 도구에 관한 학생의 인식: 탐구적 설문조사 연구
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — 고등교육 이후 수용 관점
-- [[pedlow-genai-selfassessment-2026]] — 학생 자기평가를 통해 생성형 AI 사용의 윤리적 인식 높이기
-- [[dollinger-equitable-assessment-ai-2026]] — AI 시대의 공정한 평가
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 교사 교육에서의 생성형 AI 사용, 윤리, 정책의 종단 연구(Parker et al. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — 호주 고등교육에서의 생성형 AI 유용성에 관한 학생 경험(Chung et al. 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — 생성형 AI와 학생이 인식하는 의사결정 역량(인지 부하 설명)
-- [[genai-professionalization-metaphors-2026]] — 생성형 AI 개념화와 학생의 직업화
-- [[sidorkin-ai-generated-course-readings-2026]] — 자신의 AI 생성 교육과정의 감사자가 된 학생들(Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — 생성형 AI가 부정행위 도구인가 학습 파트너인가에 관한 학생들의 시각
-- [[munoz-misconduct-allegation-evidence-2026]] — 비행 고발 파일이 실제로 증거로 담고 있는 것
-- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 규칙과 그것이 잡아채는 학생들
-- [[sharma-judgment-visible-genai-assessment-2026]] — 순응이 아니라 평가적 판단으로서의 진실성
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 원격 감독이 학생에게 끼치는 정서적·형평성 대가
-
-- [[genai-motivation-engagement-2026]] — 학생 297명: 동기가 참여를 예측했고, AI 사용에 대한 자율성 지지는 직접 효과가 없었다(Ahmed & Sultan 2026)
-

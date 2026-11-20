@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, interpreting-and-applying-aied-research, authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, educational-measurement, legal-issues-and-risks, llm, feedback, self-report-measures, prior-knowledge, student-engagement, assessment]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, roy-premise-rubrics-llm-judges-2026, ansari-policing-provenance-designing-for-evidence-2026, embedding-similarity-clustering-handwritten-physics-2026, corbin-ai-glasses-wearable-ai-assessment-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, human-in-the-loop-ai-scoring-national-assessment-2026, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-ai-grade-inflation-2026, ai-agents-complete-lms-assessment-validity-2026, semantic-variability-llm-conversation-assessment-2026, assessment-latent-structure-human-llm-2026, multimodal-embodied-cognition-oral-explanations-2026, assessing-quality-ai-generated-exams-field-2025, genai-performance-vs-learning, ai-scoring-language-bias-physics, end-of-assessment-ai-disruption-transformation-2026, can-ai-evaluate-assessment-llm-meta-assessment-2026, luo-dawson-value-judgments-grading-2026, falahat-chatgpt-grading-pharmacy-exams-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, koretsky-genai-stem-assessment-2026, ai-particle-physics-education-redesign-2026, student-perspectives-ai-writing-grading-2026, el-salvador-ai-tutoring-selection-claim-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, llm-grade-bands-calibration-bias-2026, ai-assisted-physics-lab-report-assessment-2026, gifted-potential-ai-assisted-work-attributional-validity-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, vogt-ai-mcq-recognition-medical-assessment-2026, llm-grading-assistants-public-health-2026, villanueva-ai-vulnerability-assessment-audit-2026, llm-tutor-pedagogical-metric-degradation-2026, genai-english-proficiency-validity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, liu-argumentative-work-visible-genai-assessment-2026, guo-aicg-ai-aware-cognitive-supervision-math-grading-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, williams-coding-curriculum-critique-2026, islam-human-vs-ai-sba-dental-2026, making-ai-work-for-students-ofs-2026, xu-ai-teaching-evaluation-systematic-review-2026, zammel-mllm-kinematics-graph-grading-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026, wood-learning-consequential-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -86,13 +88,11 @@ Bir tasarım düzeyi karşılık, yeniden tasarım argümanının genellikle gö
 
 **Eserin neyi kanıtlayabileceğini dedektör değil görev belirler.** [[liu-argumentative-work-visible-genai-assessment-2026|Liu ve Liu (2026)]], bir modele üç görev biçimi ve üç YZ kullanım senaryosu boyunca 148 metin yazdırdı: kanıt bütünleştirme muhtıraları (3,16) ve takip-ve-revizyon savunmaları (3,10), görüş denemelerinden (2,63) daha yüksek puan aldı, çünkü bu biçimler kaynak açıklaması veya itirazlara yanıt gerektiriyordu. Görev [[retrieval-spacing-interleaving|ön sınaması]] olarak model simülasyonu önerirler.
 
-
 Sonuç yapısı tahmini de kaydırır: Üretken YZ destekli probleme dayalı ve [[project-based-learning|projeye dayalı öğrenme]] üzerine üç düzeyli bir meta-analizde [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen vd. (2026)]], öğrenen içi sonuçların g = 0,819 düzeyinde birleştiğini, insan–YZ ortak ürününe ilişkin ölçümlerin ise sıfırı kesen bir tahmin aralığıyla g = 1,958 verdiğini buldu; ortak ürün tam da içselleştirilmiş öğrenme olmadığı için ayrı modellendi.
 
 YZ farkında notlandırma, yeniden tasarım ile tespit arasında üçüncü bir yol izler. AICG, yanıt başına bir YZ kullanım olasılığı tahmin eder ve bilişsel kanıtı notu düşürmek yerine `max(δ, 1 − pAI)` ile indirimler; ağırlıksız bilişsel modele göre MAE’yi %4,2 düşürür ve YZ destekli yanıtları puanlanabilir tutar ([[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo ve ark., 2026]]).
 
 **Politika, aşamalı izne ve sürtünme yerine güvenceye kaymıştır.** 55 kurumsal belgeyi kodlayan [[ansari-policing-provenance-designing-for-evidence-2026|Ansari (2026)]], 4’ünün varsayılan olarak YZ’yi yasakladığını ve 31’inin adlandırılmış kullanım kategorileri tanımladığını buldu; [[ai-detection|tespit]] konusunda pozisyon alan 23 belgenin 16’sı dedektörleri reddetti. Bu okumada yeniden tasarım, yalnızca sürtünme değil yeniden tasarım artı bir güvence mekanizmasıdır.
-
 
 ### Bağlantılar
 
@@ -139,88 +139,8 @@ Ancak çalıştırma çalıştırma istikrarı garanti değildir: özdeş gönde
 
 - **“Anlaşma yanlı bir not vericiyi tespit eder.”** Madde içi bir ablasyonda etmedi. İstek metnine yalnızca gerçek veya takas edilmiş bir başarı etiketi eklemek, test edilen her modelde on puanlık bir ölçekte notları **0,28 ila 0,75 puan** kaydırdı; gerçek bir etiket QWK’yı yalnızca **0,029 ila 0,046** yükseltti. Etiketsiz uydurulan bir yeniden ölçekleme bu kazancı eşledi. [[porcaro-ai-grader-reliability-2026|Değişmezlik anlaşmanın yanında raporlanmalıdır]], çünkü bir not verici öğrenciyi okurken esere göre daha yakın puanlayabilir.
 
-
 ## Yaygın yanlış anlamalar
 
 - **"LLM puanlama yanlılığı, ondan vazgeçmek için bir nedendir."** **Büyük ölçekli bir ulusal yazma değerlendirmesinde**, bir LLM puanlayıcı **sistematik bir tutucu (eksik puanlama) yanlılığı** gösterdi; nihai not olarak sorunlu, **tarama sinyali olarak ise potansiyel olarak yararlı**. Yönü bilinen bir yanlılık, öngörülemez olandan farklı bir araçtır.
 - **"YZ'den sonra not enflasyonu bir spekülasyondur."** **319 kursta 500.000'den fazla not üzerinde 2018-2025 yıllarını kapsayan bir fark-içinde-farklar çalışmasında**, YZ'ye daha çok maruz kalan görevleri (yazma, kodlama) olan kurslarda **A notlarının payı yükseldi**. Etki, görevlerin maruz kaldığı yerlerde yoğunlaştı.
 - **"Öğretim üyeleri YZ'yi geniş ölçüde benimsedi."** **%62,4'ü (53)** üretici YZ'yi hiç kullanmamayı seçti ve benimseyenlerin kullanımı **büyük ölçüde düzeltme okuması (%43,8) ve açıklık denetimleriyle (%34,4) sınırlıydı**. Benimseme örüntüsü temkinli ve dardır; bu, bir geçerlilik argümanının neleri kapsaması gerektiğini değiştirir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Çıktı artık yazarı tanımlamadığında neden süreç kanıtı önerilir
-- [[interpreting-and-applying-aied-research]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[academic-integrity]]
-- [[rct]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[legal-issues-and-risks]]
-- [[llm]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[assessment]]
-
-## Bağlı makaleler
-
-- [[ansari-policing-provenance-designing-for-evidence-2026]] — Kaynağı polislikten kanıt için tasarlamaya: araştırma ve politikaya karşı sınanmış dört önerme (Ansari 2026)
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — Gömme benzerliği insan puanlarıyla en iyi 0,198 düzeyinde ilişkiliydi
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Giyilebilir YZ, ayrılabilirliği ve gözlenebilirliği ortadan kaldırır, böylece gözetim altındaki bir aday bile yardımsız yeteneğini gösteremeyebilir (Corbin, Sharpe ve Dawson 2026)
-
-
-- [[ivory-psychology-assessment-integrity-2026]] — Program düzeyinde geçme/başarısızlık duyarlılığı ve uydurulmuş değerlerin geçmesine izin veren işaretleme ölçütleri (Ivory vd. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — İzin tek başına geçerliliği bozmaz: katılım, Üretken YZ kullanımından etkilenmez; yansıma jenerik ikame kullanımına direnç gösterir
-- [[ai-agents-joyful-assessment-third-space-2026]] — YZ ajanları, neşeli değerlendirme ve üçüncü uzay
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise raporu: Üç Birleşik Krallık üniversitesinde 761 üniversite kompozisyonunun YZ ile notlandırılması
-- [[kumar-genai-computing-education-systematic-review-2026]] — YZ notlanan eseri ürettiğinde: bilişim eğitiminin geçerlilik sorunu ve yeniden tasarım kanıtları
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Ev ödevleri: nitel aşamayı değerlendirin, hatırlamayı sınıf içine taşıyın (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ölçekli bir ulusal yazma değerlendirmesinde insan-devriginde YZ destekli puanlama (Curi vd. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Yapıya eşdeğer değerlendirme varyantı üretimi (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Not şişkinliğinin bir mekanizması olarak YZ görev yer değiştirmesi (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS görevlerini tamamlayan YZ ajanları; insan üretimi varsayımı ve etken geçerlilik (Hadjisolomou & El-Haddad 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Değerlendirme enstrümanları insanlar ve LLM’ler için aynı şeyi mi ölçüyor? (Strugatski vd. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Sözlü Açıklamalarda Gövdeleştirilmiş Biliş için Çok Modlu Bir Çerçeve
-- [[assessing-quality-ai-generated-exams-field-2025]] — YZ tarafından üretilen sınavların kalitesinin değerlendirilmesi: ölçekli bir alan çalışması
-- [[genai-performance-vs-learning]]
-- [[ai-scoring-language-bias-physics]]
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Üretken YZ destekli çalışmanın notlanmasında değer hükümleri: dürüstlük, güven, geçerlilik ve çift yönlü şeffaflık (Luo & Dawson 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Bir geçerlilik sorunu olarak suiistimal prosedürü
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Eksik bilgi altında değerlendirme geçerliliği: bir yanıt-bölgesi modeli
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Hangi çıkarım risk altında? Beş geçerlilik baskısının ayrılması ve bir yeniden tasarımın neyi zayıflattığının kontrol edilmesi (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — STEM değerlendirmesi, kopya çekmekten ziyade bir geçerlilik, tasarım ve yetenek tanımı sorunu olarak: süreç kanıtı, sözlü sınavlar ve YZ tarafından üretilen görevlerin sadakati (Koretsky vd. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — Parçacık Fiziği Eğitiminde YZ: Araştırma Problemleri ve Temel Beceriler
-- [[student-perspectives-ai-writing-grading-2026]] — Çalışmamı Kim Notlamalı? Yükseköğretimde Şeffaf YZ Destekli Yazma Değerlendirmesine İlişkin Öğrenci Görüşleri
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — El Salvador’ın YZ özel ders pilotunun öğrenme iddiasının sınırlandırılması (Restrepo Morales vd. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Suiistimal suçlama dosyalarının fiilen kanıt olarak ne içerdiği ve kanıt kalitesinin neden sonuçları öngörmediği (Munoz vd. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — 192 metin üzerinde 0,69 ve 0,61 dedektör doğruluğu; melez yazım başarısızlığı ve EFL yanlış sınıflandırma riski (Hadra vd. 2026)
-- [[wright-transcription-not-generation-2026]] — Aşırı kapsamlı yasaklar: döküm üretim değildir, bu nedenle kural yakalamak üzere tasarlanmadığı şeyi yaptırıma bağlar (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Tespitten ziyade değerlendirici yargı yoluyla görünür kılınan bütünlük (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Büyük dil modelleri yükseköğretim not bantlarını yeniden üretebilir mi? Özgün öğrenci yazımında kalibrasyon ve not verme yanlılığının çapraz model çalışması
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Deneysel Fizik Laboratuvar Raporlarının YZ Destekli Değerlendirmesi: Potansiyel, Sınırlılıklar ve Öğretim Uygulamasına Destek
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Bir ürün, öğrenen yeteneğinin kanıtı olarak okunduğunda dört çıkarım hedefi ve üç atıf hatası (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Veri Bilimi Kurslarında Öğrencilerin LLM Kullanımı ve YZ Tarafından Üretilen Soru Zorluğunun Sınırları
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Eğitim Diyaloglarının Denetlenebilir Kodlanması için İddia Tabanlı Şemalar
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Öğrencilerin müfredat uyumu derecelendirmeleri içerikten ziyade madde zorluğunu izler (rho = 0,762) (Vogt vd. 2026)
-
-- [[llm-grading-assistants-public-health-2026]] — Özdeş gönderimlerin beş gün sonra yinelenen notlandırması Krippendorff’un alfası 0,625 verdi
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — YZ Kırılganlık Endeksi: değerlendirilen notların çoğu doğrulanamayan yazarlığa dayanır, bu nedenle geçerlilik azami güvenlikten ziyade kilit aşamalarda yeterli kanıta dayanır
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Pedagojik uyarlanabilirlik ölçütü yükselirken kör uzman derecelendirmeleri düştü: ölçüm geçerliliği optimizasyon geçerliliğini ima etmez (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — Hedef Yine Taşındı mı? GenAI ve İngilizce Yeterlilik Puanlarının Geçerliliği
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Sonuç yapısı tahmini kaydırır: insan–YZ ortak ürünü için g = 1,958
-
-- [[porcaro-ai-grading-benchmark-2026]] — Anlaşmanın ötesinde: 22 istek metinli not verici doğru yanıtı bilinen sınamalarla buluşuyor ve çoğu yukarı konuşulabiliyor (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Öğrenen bağlamı bir LLM not vericinin özdeş iş üzerindeki notlarını değiştiriyor ve öğretmenle anlaşma bunu kaydetmiyor (Porcaro 2026, Paper VI)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — Görev biçimi ve YZ kullanım talimatları eserin neyi kanıtlayabileceğini belirler (Liu ve Liu 2026)
-- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Yanıt puanlamanın ötesinde: otomatik matematik kısa yanıt notlandırması için YZ farkında bilişsel denetim çerçevesi
-

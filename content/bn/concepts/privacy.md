@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -89,37 +91,3 @@ ai_assist:
 - **“প্রক্টরিং-সাহিত্য প্রক্টরিংয়ের নীতিশাস্ত্র প্রতিষ্ঠা করে।”** **80টি গবেষণার** একটি পর্যালোচনায় দেখা যায় **35% তাদের ডেটাসেট প্রকাশ করেনি, 40% একটি একক মডেল মূল্যায়ন করেছে, 30% পুনরুৎপাদন করা যায়নি এবং কেবল 25%** প্রতিবেদনের মান পূরণ করেছে। স্থাপনার আগে প্রতিষ্ঠানের যে প্রশ্নগুলোর উত্তর দরকার, ঠিক সেগুলোতেই প্রমাণভিত্তি পাতলা।
 - **“গোপনীয়তা একটি আনুগত্য-চেকবক্স, নকশা-সীমাবদ্ধতা নয়।”** ব্যক্তিগতকরণ, পূর্বাভাস বা মূল্যায়ন করে এমন প্রায় প্রতিটি এআই সরঞ্জাম শিক্ষার্থী-ডেটার ওপর নির্ভর করে, যা ডেটা ন্যূনতমকরণকে একটি নকশা-সিদ্ধান্ত করে তোলে। যে সরঞ্জামের ডেটা দরকার, তার ঐচ্ছিক গোপনীয়তা-সেটিং নেই; তার একটি ডেটা-নির্ভরতা আছে যা নকশাই বেছে নিয়েছে।
 - **ডেটা-চর্চা দেখলে তা সম্পর্কে সচেতনতা আসে না।** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] দেখেন **47 জন সপ্তম-শ্রেণির শিক্ষার্থীর 66%** তাদের লেখা পড়া [[conversational-ai|চ্যাটবটে]] সবচেয়ে কম সুরক্ষাকর বিকল্প বেছে নিয়েছেন। আরও **47%** অ্যালগরিদমিক প্রভাবকে “শুধু মজা” বলে উড়িয়ে দিয়েছেন — পরিমাপ করা হয়েছিল এমন একটি পাঠের **এক মাস পর** যেখানে ক্লাস তাদের নিজের লগ করা আচরণ লাইভ প্রজেক্ট হতে দেখেছিল, ভয়ঙ্কর বলে প্রতিক্রিয়া জানিয়েছিল, আর কয়েকজন বিশ্রাম পর্যন্ত প্ল্যাটফর্ম ব্যবহার চালিয়ে গিয়েছিল। যে গোপনীয়তা-শিক্ষা প্রক্রিয়াটিকে দৃশ্যমান করে কিন্তু খরচটিকে মূর্ত করে না, তা মনোভাব অপরিবর্তিত রেখে যায়। লেখক লক্ষ করেন এখানে নিম্ন স্কোরগুলো **উচ্চগুলোর চেয়ে বেশি নির্ভরযোগ্য** হতে পারে, কারণ এই আইটেমগুলোর জন্য কোনো সামাজিকভাবে প্রত্যাশিত উত্তর নেই, অথচ দায়িত্ব ও শাসন সঠিক শোনায় এমন উত্তর আমন্ত্রণ করে।
-
-## সংযুক্ত ধারণা
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — শিক্ষার্থী-নথি, অফিস-জুড়ে ডেটা ভাগাভাগি এবং ফেডারেটেড ঝুঁকি-মডেলিং
-
-## সংযুক্ত নিবন্ধ
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — আপনার প্রম্পটের বিনিময়ে এক পয়সা: এআই চ্যাট প্ল্যাটফর্মে প্রসঙ্গগত ফাঁস (Bekos ও অন্যান্য 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — গোপনীয়তা-সংরক্ষণকারী শিক্ষাগত ঝুঁকি-মডেলিংয়ের জন্য ফেডারেটেড ও ব্যাখ্যাযোগ্য শিখন-বিশ্লেষণ (Villegas-Ch ও অন্যান্য 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — শিখন-বিশ্লেষণ থেকে শিক্ষামূলক হস্তক্ষেপ পর্যন্ত: বিশ্বাসযোগ্য LA-ভিত্তিক হস্তক্ষেপের সক্রিয়কারী (Svetec, Divjak ও Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — এজেন্টিক সাক্ষরতা-ঋণ: স্বায়ত্তশাসিত এজেন্ট থেকে কাঠামোগত এআই-সাক্ষরতার ফাঁক (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: প্রকৃত শিখন-ডেটার জন্য বেনামিকরণ ও সম্মতি
-- [[bassett-ai-detectors-education-2026]] — মাথা আমাদের, লেজ তোমার: শিক্ষায় এআই ডিটেক্টর (Bassett ও অন্যান্য 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — গোপনীয়তা-সংরক্ষণকারী ফেডারেটেড এলএলএম সংজ্ঞানাত্মক রোগনির্ণয়
-- [[agarwal-ethical-values-norms-aied-2026]] — শিক্ষায় এআই-এর নৈতিক মূল্যবোধ ও নিয়ম
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — প্রক্টরিং ব্যবস্থা কী ধরে, এবং প্রমাণভিত্তি থেকে গোপনীয়তা-সাহিত্যের অনুপস্থিতি
-- [[edtech-privacy-deferral-2026]] — “আমরা পরে ঠিক করব”: শিক্ষা, এআই এবং এডটেকে শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ

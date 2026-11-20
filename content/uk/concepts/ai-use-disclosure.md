@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -95,43 +97,3 @@ ai_assist:
 - **«Студенти приховують використання ШІ, бо нечесні.»** Драйвери задокументовані й конкретні: лише **близько 34% студентів економіки визнали використання ШІ**, а розкриття було ще рідшим, викликане **тривогою щодо покарання**, тоді як інше дослідження виявило, що **66% ніколи або рідко розкривали**, і **страх академічної кари був найчастішою причиною**. Поза увагою даних — дизайн політики, а не характер.
 - **«Вимога розкриття — це дешевий контроль.»** **74% невиконання** робить отриманий запис гіршим за відсутність запису: це набір даних, що виглядає повним і не є таким, тож установа ухвалює рішення на вибірці, якій не може довіряти.
 - **«Достатньо розкрити, як модель використовувалася.»** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] стверджує, що розкриття документує використання моделі, тоді як відповідальне використання вимагає авторського мандата на рівні тверджень — здатності учасника розуміти, обґрунтовувати й захищати твердження — відокремлюючи [[cognitive-offloading|когнітивне делегування]], де виходи формують суттєві вибори, від рутинного делегування, яке цього не робить.
-
-## Пов’язані поняття
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — шкода, яку розкриття має зробити видимою
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — чому здобувачі обирають приховування, а не розкриття
-
-## Пов’язані статті
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Дзеркальний напрям: казати студентам, коли ШІ оцінює їхню роботу, і питати згоду перед завантаженням
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Поза виявленням: як студенти використовують і приховують ШІ в онлайн-оцінюванні
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Розкриття використання ШІ студентами, стигма та саморегульоване навчання
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Прихована ціна розкриття: розкриття та звинувачення з боку викладацького складу
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Недотримання студентами декларацій про використання ШІ
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Декларації як освіта, а не як виявлення
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Ціна чесності як поріг дизайну в оцінюванні
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Розкриття як межа між допомогою та спотворенням у 50 інноваційних університетах США (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Відсутність консенсусу щодо розкриття та цитування ШІ в політиці юридичних шкіл (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — Написані ШІ вступні есе поширені, але караються
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Тринадцять експериментів: розкриття використання ШІ знижує довіру до того, хто розкриває, через легітимність
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Коли правил розкриття недостатньо: авторський мандат і судження в науці з підтримкою ШІ (Mirończuk 2026)
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM-розщеплення: упевненість у виявленні проти ризику, що декларування викриє неналежне використання (Liu et al. 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Мітки розкриття ШІ, уявна автентичність і довіра до згенерованих ШІ навчальних відео

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -124,73 +126,3 @@ AI 거버넌스는 [[ethics]](그것이 작동하게 하는 원칙), [[higher-ed
 - **"대학들은 구속력 있는 AI 정책을 도입했습니다."** **48개 기관** 가운데 **40곳(83%)**이 공개적으로 이용 가능한 문서를 하나 이상 갖고 있었고, 그 40곳에 걸쳐 **거버넌스는 대체로 구속력 있는 규칙이 아니라 지침으로 실현**되었습니다. 공개된 지침은 집행 가능한 정책이 아닙니다.
 - **"정책은 학생이 위험이므로 학생 우선으로 쓰입니다."** 대부분의 문서는 학생만(6곳, 15%)이 아니라 **교수진과 학생을 함께(20곳, 51%)** 다루었고, 정책 유형도 대상 독자도 전달 방식에 따라 달라지지 않았습니다. 틀짓기가 공동이므로 의무도 공유됩니다.
 - **"모호한 정책은 학생 경험을 건드리지 않습니다."** 정책의 모호함은 **학생 경험**에 직접 나타납니다. [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|생성형 AI에 대한 학생의 참여]]는 그 불확실성에 의해 형성되므로, 모호함은 중립적 공백이 아니라 능동적 조건입니다.
-
-## 연결된 개념
-
-- [[pedagogical-partnerships]] — 교수법적 파트너십
-- [[ai-use-disclosure]] — AI 사용 및 공개 진술
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — 우산 개념: AI 교육에서의 사람과 독자(학습자, 교사, 설계자, 행정가, 정책 입안자)
-- [[student-support-and-success]] — 기관 AI 지원 체계를 위한 감독
-
-## 연결된 문서
-
-- [[ai-literacy-sdg-governance-framework-2026]] — 지속가능한 발전을 위한 거버넌스 역량으로서의 AI 리터러시: AIRE 분류 체계와 AI–SDG 연계(Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — 교육 관리에서 AI 거버넌스를 위한 AIGEM 체계
-- [[institutional-ai-policy-health-informatics-2026]] — CAHIIM 공인 건강정보학 프로그램 48곳에 걸친 AI 정책과 지침 문서: 비구속적이고 정직성 중심적인 지침으로서의 거버넌스(Eldredge 외 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — 안내된 탐구를 통해 생성형 AI 강좌 정책을 공동 설계하는 학생들(Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — 학습 분석에서 교육 개입으로: 신뢰할 수 있는 LA 기반 개입의 가능 요인들(Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI 사용 선언에 대한 학생의 미준수
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 공개의 숨겨진 대가
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 학생의 AI 공개, 낙인, 그리고 자기규제 학습
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 어떤 추론이 위험한가: 평가 타당성 추론과 생성형 AI(Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — 생성형 AI 거버넌스와 정책에 대한 글로벌 델파이
-- [[qian-governing-genai-higher-ed-policy-2026]] — 지침에 의한 거버넌스: 혁신적인 미국 대학 50곳에 걸친 교원 설정 강의계획서 규칙과 네 단위 지원 생태계(Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — 법학전문대학원 생성형 AI 정책에서의 교수진 거버넌스, 교원 재량권, 주기적 검토(Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 "AI" 금지, 형식 변환, 그리고 합리적 조정 문제(Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — 증거로서의 거부: 고르지 않은 거버넌스, 이해의 의무, 그리고 비사용의 진단적 가치(Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI를 위한 선제적 거버넌스와 리더십
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 개방대학에서의 AIDA 이행
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: 변혁적 변화를 위한 리더십
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 생성형 AI에 대한 학생의 참여(SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — 탐지를 넘어서: 실제적 평가 재설계
-- [[genai-policies-higher-ed-computing]] — 컴퓨팅에서의 기관 생성형 AI 정책
-- [[genai-declaration-frameworks-higher-education]] — AI 선언 체계
-- [[genai-assessment-governance]] — 생성형 AI 시대의 평가 거버넌스
-- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책에서의 AI
-- [[raza-farooq-aied-review-2020-2025]] — AIED 연구에 대한 종합적 고찰
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지적 공유지의 비극: AI와 전문성의 재생성
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 연구에서의 정책 결핍
-- [[agarwal-ethical-values-norms-aied-2026]] — 교육에서 AI를 위한 윤리 가치와 규범
-- [[perrotta-zero-shot-governance-2026]] — 제로샷 거버넌스: 정책에서의 일반 목적 AI(Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 생성형 AI 고등교육 연구에서의 행위자, 인식론적 책임, 책임성에 대한 말뭉치 보조 담론 분석
-- [[instructional-governance-design-computing-education-2026]] — 설계에 의한 교수 거버넌스: 컴퓨팅 교육에서 AI를 위한 체계
-- [[genai-governance-australian-higher-ed-2026]] — 권위 있는 경계의 지도 작성: 호주 고등교육에서 생성형 AI 거버넌스에 대한 비교 정책-비녜 연구
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — 기관 AI 거버넌스를 위한 돌봄 윤리: 다섯 구성 요소와 그것이 낳는 기관적 질문들
-- [[generative-ai-governance-education-scoping-review-2026]] — 교육에서의 생성형 AI 거버넌스: 원칙, 메커니즘, 위험에 관한 범위 검토 (Elmahjub et al. 2026)
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — 위임, 증거, 접근: 에이전트형 AI가 대학 평가 거버넌스에서 바꾸는 것 (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — 선택된 미래를 미리 형상화하는 거버넌스 기제로서의 AI 원형과 학교 시범 운영 (Williamson et al. 2026)
-- [[kaze-ai-management-higher-ed-2026]] — 고등 교육에서의 AI 도입: 지정된 AI 관리의 사례(Kaže 외 2026)
-- [[li-su-teacher-genai-decision-making-2026]] — 거버넌스 명료성에서 교사 결정 에피소드로 가는 제안된 경로
-- [[pandey-davies-he-governance-administrative-ai-2026]] — 서비스 운영 문제로서의 행정 AI
-
-- [[chan-ai-policy-gap-2026]] — 거버넌스 언어는 일반 정책에 머물고 신청자를 구속하는 자금 규칙에는 없습니다(Chan 2026)
-- [[chew-ai-content-governance-medical-education-2026]] — AI가 생산한 교수 내용의 거버넌스: 세 가지 실패 유형과 네 가지 기관 역량(Chew, 2026)
-- [[kaziya-learner-data-privacy-governance-2026]] — 학습자 데이터 보호에서 역량과 거버넌스를 대체물이 아니라 보완물로 다룸
-- [[tian-transnational-faculty-development-governance-2027]] — 기관 간 공동 거버넌스: 실 내용에 대한 권한을 중앙집중화하지 않는 조정과 공통 구조(Tian, Sun & Wang 2026)
-
-- [[rodafinos-llm-curriculum-audit-2026]] — 심리학에서의 대규모 언어 모델 지원 교육과정 감사: 프롬프트 기반 방법

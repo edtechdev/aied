@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -58,29 +60,3 @@ AI yang sadar psikometri berada di persimpangan [[educational-measurement]], [[a
 - **"Model yang berskor baik mengukur hal yang sama."** Pada **instrumen penilaian yang sama**, struktur respons manusia dan LLM **menyimpang** — model dapat berskor baik sekaligus mengukur sesuatu yang berbeda dari yang dimaksudkan instrumen. Kesesuaian skor adalah pengamatan; kesetaraan konstruk adalah klaim terpisah yang menuntut bukti pada tingkat struktur.
 - **"Kalibrasi dapat dibaca dari satu angka akurasi."** **Satu angka akurasi dapat menyembunyikan model yang hanya tampak terkalibrasi**: meminta GPT-4o dan Gemini 2.0 Flash menyimpulkan dimensi gaya belajar dari dialog **153 mahasiswa sarjana** menghasilkan **akurasi sedang yang berperilaku berbeda di bawah metrik berimbang**. Akurasi agregat menyembunyikan diferensial yang disingkap metrik berimbang.
 - **"Alur penilaian otomatis tidak dapat mereproduksi prosedur psikometrik."** Para penulis mereproduksi alur yang mapan dalam bentuk otomatis (**probabilitas 67% menjawab setidaknya 7 butir rubrik dengan benar untuk batas bawah dan setidaknya 10 untuk batas atas**), sehingga skor butir AI dan manusia dapat dibandingkan di atas pijakan yang sama. Prosedurnya dapat direproduksi; pertanyaan konstruknya tetap ada.
-
-## Konsep terkait
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Artikel terkait
-- [[genai-reliance-scale-problem-solving-2026]] — Skala tervalidasi untuk ketergantungan siswa pada AI generatif selama pemecahan masalah (Hou dkk. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kerangka human-in-the-loop untuk penilaian berbantuan AI dalam asesmen menulis berskala besar
-- [[assessment-latent-structure-human-llm-2026]] — Apakah instrumen penilaian mengukur hal yang sama bagi manusia dan LLM? (Strugatski dkk. 2026)
-- [[llm-psychometric-calibration-cdp]] — Menyelaraskan penilaian LLM dengan kalibrasi psikometrik
-- [[llm-item-difficulty-prediction]] — Prediksi kesulitan butir oleh LLM
-- [[cong-confidence-asag-2026]] — Penilaian jawaban pendek otomatis yang sadar keyakinan
-- [[multimodal-item-parameter-estimation-2026]] — Estimasi parameter butir multimodal
-- [[competency-based-education-genai-production-2026]] — Pendidikan berbasis kompetensi dengan GenAI
-- [[ai-grading-handwritten-physics-2026]] — Penilaian AI atas asesmen fisika tulisan tangan (Olimpiade)
-- [[razavi-powers-item-difficulty-llm-2026]] — Menaksir kesulitan butir menggunakan LLM dan ML berbasis pohon
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Membandingkan instrumen literasi AI: pasangan jangle dan jingle di 55 konstruk
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh siswa dan batas kesulitan soal yang dihasilkan AI dalam kursus ilmu data
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Akurasi sedang ternyata prediksi kelas mayoritas setelah recall per kelas diperiksa (Zamanifard, Goudarzi & Robb 2026)

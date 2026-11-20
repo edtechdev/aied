@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -42,8 +43,3 @@ ai_assist:
 ## 注意事项
 
 免费覆盖个人课堂的工作流；机构定价单独计算，取决于部署范围、数据处理、支持和合规要求，而非按学生或教师人数收费。由于报告呈现的是过程而非意图，仅凭复制粘贴并不构成学术不端——项目自己的指引说明，学生粘贴的可能正是自己早先写过的文字，也不应仅因粘贴而受罚。采用数据和 Chrome 应用商店的 5.0 评分都是项目自己的营销口径；扩展商店里的评论并不能作为学习结果的独立证据。请把这些报告当作对话的证据来读——这正是该工具的设计方式，也是开发者描述它的方式。
-
-## 关联概念
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

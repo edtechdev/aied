@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -100,37 +102,3 @@ Il fallimento produttivo si collega alle [[learning-theories|teorie dell'apprend
 - **"Trattenere l'aiuto frustra i discenti e costa motivazione."** Un [[rct|RCT]] a tre bracci ha trovato che un tutor che tratteneva i suggerimenti **eguagliava ChatGPT senza restrizioni nella riduzione della frustrazione e** nella motivazione — il costo compariva **solo nella preferenza**. I discenti non se la godevano altrettanto e non ne soffrivano, il che significa che i dati sulle preferenze avrebbero rifiutato il progetto che funzionava.
 - **"Più frustrazione significa più apprendimento."** Il tutor a escalation progressiva era **0,42 punti di scala più frustrante del tutor che rispondeva su richiesta (p < ,001) e 0,29 meno frustrante** del braccio più frustrante. La banda produttiva è un punto medio, non un massimo, quindi la "difficoltà desiderabile" non autorizza a rendere il compito sempre più difficile.
 - **"Il fallimento produttivo significa che gli insegnanti non devono aiutare."** Il progetto trattiene *la risposta* mentre fornisce struttura ed escalation. Trattenere un suggerimento e trattenere il supporto sono interventi diversi, e solo il primo è quello con evidenza qui.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Il tentativo prima dell'istruzione come sequenza completa, con la sua esigua base di evidenze
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — I casi come spazio problematico condiviso per il primo tentativo
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Articoli collegati
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Trattenere le soluzioni ha evitato il costo della frustrazione ma ha perso sulla preferenza degli studenti
-

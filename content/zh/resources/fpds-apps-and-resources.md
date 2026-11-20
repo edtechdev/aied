@@ -36,6 +36,7 @@ ai_assist:
     role: revision
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -53,7 +54,3 @@ ai_assist:
 ## 说明与注意事项
 
 浏览该站点无需账户，它链接的 Canvas 课程与清单文档同样公开。Playlab 教练以及 Gemini Gem 与笔记本属于第三方服务，使用它们需要账户。这些条目卡片由仓库中的 `apps.json` 渲染，因此完整列表依赖 JavaScript，而禁用脚本时的备用列表只列出十五条中的八条；短链接 `tinyurl.com/fpdapps` 与页首的二维码可在手机上打开该页。仓库作为软件采用 MIT 许可，而它链接的指南各有自己的许可，其中那本 Pressbooks 书籍采用非商业性知识共享许可。该办公室维护这些页面时并无发布周期，因此内容会随时变动且不另行通知。
-
-## 关联概念
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

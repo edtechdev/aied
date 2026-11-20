@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -40,9 +41,3 @@ Formuladores de políticas e equipes de compras que escolhem modelos para sistem
 ## Observações e ressalvas
 
 Um leaderboard mede modelos nas tarefas do próprio benchmark: uma pontuação alta de pedagogia é evidência sobre aqueles itens, não sobre uma sala de aula. A coluna de preço mistura preços de tokens de entrada e de saída na proporção 3:1, o que é uma escolha de modelagem e não o que qualquer implantação específica custará. A cobertura de idiomas e de modelos hospedados localmente muda conforme novos modelos aparecem, e as pontuações baixas dos modelos pequenos refletem em parte o formato da tarefa tanto quanto a capacidade. O enquadramento da Fab AI é explicitamente sobre países de baixa e média renda, então o conjunto de itens do benchmark reflete esse contexto e não deve ser lido como um ranking geral da educação. Verifique as datas de lançamento: várias entradas são anteriores à geração atual de modelos.
-
-## Conceitos conectados
-
-- [[benchmark]] — a classe mais ampla de instrumentos à qual este pertence
-- [[digital-divide]] — a restrição que as colunas de preço e pesos abertos existem para tornar visível
-- [[equity-in-ai-education]] — a questão de política que o leaderboard informa

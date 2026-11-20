@@ -24,6 +24,8 @@ ai_assist:
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -69,8 +71,6 @@ Francis, Rutherford와 Smith는 같은 약속을 채점 가능한 구조로 바�
 
 그 위험에 대한 가장 명확한 진술은 Winstone, Gravett와 Elkington에게서 나옵니다. 그들은 오류를 함께 가치 있게 다루지 않는 과정 평가는 "연기적이 될 위험이 있으며, 학생들이 사후에 선별된 발전 설명을 곁들인 잘 다듬어진 산출물을 제시하도록 부추긴다"고 주장합니다. 그들의 대응은 실수와 방향 전환을 그 자체로 평가에서 인정받도록 만들어, 과정 증거가 사후에 들려주는 이야기가 아니라 대가를 치른 결정의 흔적이 되게 하는 것입니다([[black-box-assessment-winstone-2026|Winstone 외(2026)]]).
 
-
-
 ## 진정성 및 채점과 다른 축
 
 축들을 분리해 두는 것이 중요한 까닭은, 그것들을 혼동하는 것이 노출을 그대로 남겨둔 채 재설계가 완료된 것처럼 보이게 만드는 방식이기 때문입니다. Sharma(2026)는 진정성과 진실성 지향 설계 사이의 상호보완적 구분을 제시합니다. 진정성은 과제가 가치 있는 실천을 반영하는지 묻고, 진실성 지향 설계는 학습자가 자신의 결정을 정당화하고 학문적 기준에 관해 책임을 맡을 수 있는지를 묻습니다. 이것이 그가 제시하는 실천들 — 주석이 달린 결정 추적, 생성형 AI 기여 주장의 검증, 구술 변론, 버전 이력을 갖춘 초안 차이 — 이 현실성보다는 그것들이 가시화하는 [[evaluative-judgment|판단]]을 위해 선택되는 이유입니다. Espino와 Espino(2026)의 [[business-education|비즈니스 교육]] 10년 리뷰는 문헌 쪽에서 같은 설계 결론에 도달합니다. 그 분야가 해석, 맥락적 적용, 반복적 정련을 요구하는 진정성 있고 과정이 가시적인 과제로 수렴하고 있으며, 변하지 않은 평가 구조 안에서의 고립된 도구 도입을 가장 지속적인 실패로 다룬다고 밝혔습니다.
@@ -100,49 +100,3 @@ Thapa and Lewis의 설명은 개념적입니다. 참가자도, 데이터 수집�
 - **"높은 점수는 학생이 우리가 설계한 작업을 했다는 뜻이다."** 흔적은 점수와 **완전히 갈라질 수 있습니다**. **학생-AI 대화 150건** 가운데 **41%가 과제 점수 정확히 1.00을 받았지만 관찰 가능한 인지적 참여는 달랐습니다**. 점수는 포화되는데 그것을 산출했어야 할 과정은 그렇지 않습니다.
 - **"과정 데이터는 규모에서 감당할 수 없다."** 필수 문서화는 **약 440명의 K-12 교사를 대상으로 한 6주 비동기 대학원 연구 방법 강좌 여섯 학기**에 걸쳐 강좌 규모에서 실행 가능함이 입증되었습니다. 물류는 해결 가능한 문제였고, 그 반대는 비용을 과장합니다.
 - **"문제 해결은 너무 총체적이어서 과정으로 평가할 수 없다."** 그것은 **네 단계와 여덟 개의 진단 하위 기술**로 조작화될 수 있어 LLM이 **단계 특정 질문과 루브릭**을 생성하게 합니다. **교사 다섯 명과 학생 64명**과 함께 사용되었습니다. 분해가 과정을 읽히고 평가 가능하게 만든 것입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 단계적 검증점과 과정 증거를 순차화된 설계로
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## 연결된 문서
-
-- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — 세 가지 증거 흐름, 짝지은 과제 쌍, 메타 역량으로서의 오케스트레이션
-- [[alam-process-oriented-collaborative-essays-2026]] — 1학년 학위 도제 과정에서 채점되고 협업하여 쓰인 과정 에세이: 루브릭에서의 반복과 협업, 명시된 경계 안에서 허용되는 생성형 AI (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — 수행은 학습이 아니다: 과정 측정에 기반한 연구 의제 (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — 정당화와 성찰에 기반한 AI 저항적, 과정 기반 과제를 요구하는 교사교육자들 (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — 가시적 판단을 위해 선택된 주석 달린 결정 추적, 구술 변론, 초안 차이
-- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 사건 파일에 무엇이 들어 있으며, 어떤 과정 증거가 부재한가
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 평가 증거가 대체될 때 어떤 추론이 위험에 처하는가
-- [[beyond-detection-authentic-assessment-ai-2025]] — 진정성은 단속되는 것이 아니라 재설계되어야 한다
-- [[authentic-products-authenticated-processes-2026]] — 진정한 산출물과 그것들을 생산한 과정들
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 추론을 생생하게 만드는 AI 저항적 형식으로서의 구술 시험
-- [[thapa-lewis-process-oriented-assessment-2026]] — 과정 중심 평가 뒤에 있는 인식론적 진정성과 네 가지 설계 약속 (Thapa & Lewis 2026)
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 채널 의존적 과정 증거: 로그와 독백은 다른 과정을 드러낸다
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: AI 통합 글쓰기를 위한 다중 관점 분석 환경
-- [[epistemic-ownership-ai-mediated-education-2026]] — 같은 수행, 다른 과정: AI 매개 교육에서의 인식론적 소유
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM 생성 질문을 통해 학생의 수학 문제 해결 기술 진단을 지원하는 교사 지원
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — 기본 실패는 결코 사라지지 않는 AI 지원과 산출물만의 평가가 짝을 이룬다는 비판적 서사 검토(Salameh 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 여섯 학기와 약 440명 교사에 걸쳐 AI 대화의 검사점 문서화가 96% 완료율을 유지
-- [[rubrics-genai-process-based-assessment-2026]] — Biggs 3P 모형에서 나온 세 루브릭 차원: 주체성과 감독, 대화적 비계, 인지적 주권(Oviedo와 Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — CodeMirror 편집기와 기록된 채팅 패널이 한 에세이 세션을 과정 증거로 바꾸었고, 타이핑 대 사고의 한계를 드러냈다(Jelson 외 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — 과정 시각화와 한 번의 성찰 세션이 편집량을 늘리지 않고 수정을 표면에서 의미 수준으로 옮겼다
-- [[webb-davies-voice-first-written-assessment-2026]] — 관찰 아래 추론을 확보한 뒤 집에서 작성한 제출물을 채점하는 2단계 쓰기 평가, 연결이 불분명할 때는 조건부 구술 심사 (Webb-Davies, Ratner & Bassett 2026)
-- [[black-box-assessment-winstone-2026]] — 블랙 박스 평가: 과정 창, 증거로서의 오류, 가시성을 통한 진실성 (Winstone, Gravett & Elkington 2026)
-- [[francis-pace-framework-genai-assessment-2026]] — PACE: 4단계 주체성 척도로 과정 채점하기 (Francis 외, 2026)
-- [[performance-without-capability-genai-assessment-validity-2026]] — 가시적 과정이 여전히 대체를 문서화할 수 있는 이유를 설명하는 2차원 틀(인지적 책임, 과정 가시성)

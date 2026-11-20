@@ -19,9 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-
-
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -103,50 +102,6 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 - **「利用者を満足させる説明は、システムを説明したことになる。」** 同じ読みやすさの失敗は、[[automated-assessment|自動化された評価]]のセキュリティの側にも現れます。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）のレッドチーム]]は、日常的な採点のワークフローが注入された指示によって操作されうることを見出しました。もっともらしい語りと監査可能な語りは、別の成果物なのです。
 - **「一般的なXAIの実践は、教育にそのまま転移する。」** [[xai-education-framework|XAI-EDフレームワーク]]（Khosravi et al., 2022）は、教育には一般的なXAIを超えた**独自の説明可能性のニーズ**があると主張します。受け手には、説明を証明しなければならない監査者ではなく、説明に基づいて行動しなければならない学習者が含まれるからです。
 - **「誠実性は、探ることなく主張できる属性である。」** 測定された誠実性には、**ルーブリック上重要な範囲の反実仮想的な削除**と、人間の評定の併用が必要です。ルーブリックへの注意の整合が**78.0%**に達し、GPT-4のゼロショットが**41.7%**、BERTが**32.1%**であったことは、その種の探索から出た比較結果であり、解釈可能性についての主張から出たものではありません。
-
-## 関連概念
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## 関連記事
-
-- [[kares-xai-evaluation-alignment-2027]] — 166名の参加者、3つのサリエンシー手法：満足度と信頼は横ばい、課題遂行と忠実性の指標は食い違う（Kares et al., 2027）
-- [[lund-socially-accountable-data-science-xai-2026]] — 説明責任の実践としてXAIを教えるための四本柱の枠組み（答えやすさ、責任、執行、反射性）（Lund et al. 2026）
-- [[ko-hughes-vsd-student-centered-its-2026]] — 学生中心のITSの価値感性設計（協働的な説明対生の説明）
-- [[xai-education-framework]] — XAI-ED：教育における説明可能AIの基礎的な枠組み（Khosravi et al. 2022）
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 領域特異的な説明が教員の信頼と受容を築く（Feldman-Maggor et al. 2025）
-- [[student-perspectives-ai-writing-grading-2026]] — 透明なAI支援の評価に関する学生の視点（AlGhamdi 2026）
-- [[huang-interpretable-knowledge-tracing-2026]] — 解釈可能な知識の追跡
-- [[explainable-probabilistic-kt]] — 確率論的な埋め込みによる解釈可能な知識の追跡
-- [[neural-symbolic-knowledge-tracing]] — 神経記号的な知識の追跡
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — ラーニングアナリティクスのためのブラックボックスモデルの自己説明するLMへの蒸留
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — プライバシーを保つリスク・モデリングのための連合型かつ説明可能なラーニングアナリティクス
-- [[sc2r-counterfactual-recourse-educational-2026]] — 教育的な意思決定の支援のための意味論に制約された反実仮想の救済
-- [[fair-explainable-edu-recommendations]] — 公正で説明可能な教育的な推薦
-- [[multimodal-affective-its-presentation]] — マルチモーダルな情動のフィードバックのための解釈可能な閉ループITS
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 高等教育におけるChatGPTの採用の説明
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 設計から説明可能なLLMの枠組み：教師評価の自動化のための二重レンズの注意と点数によってパラメータ化された説明（Li et al. 2025）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 検出が利用者に報告されなかったAIが媒介する採点におけるプロンプト・インジェクション（Humble 2026）
-- [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援の教育上の問いの教育学的な評価のための事前訓練済みモデルの評価
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — 教員対AIの採点決定：書面の理由づけが公正性の格差を広げた
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用と権威の信号が誤った出力への従属を高め、参照の一部は誤帰属または架空だった
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 記号・サブシンボリック・神経記号のモデルは、同じコホートで予測を異なる要因に帰属させた
 
 ## 引用
 

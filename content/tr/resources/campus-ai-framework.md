@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,9 +46,3 @@ Neyi destekleyeceklerine karar veren kabine liderleri, rektör yardımcıları v
 ## Notlar ve uyarılar
 
 Çerçeve ve site **CC BY-NC-SA 4.0** ile lisanslıdır, dolayısıyla uyarlama ticari olmayan kullanım için atıf yapılması ve aynı lisansla paylaşılması koşuluyla izinlidir; site kendi önerdiği atıf biçimini sunar. OECD, NIST, ISO/IEC 42001, AB YZ Yasası, FERPA ve HIPAA ile uyumu yayıncının kendi karşılaştırmasıdır ve böyle okunmalıdır. Eşlikçi siteler ayrı projelerdir, birkaçı aynı yazara aittir ve bir küme olarak tanınmaya değerdir: [Campus AI Exchange](https://www.campusaiexchange.com/) merkezdir ve kurumsal YZ politikaları ile sınıf rehberliklerinin [etkileşimli haritalarını](https://www.campusaiexchange.com/ai-policies-guidelines-map), [YZ yönetişimi özdeğerlendirmesini](https://www.campusaiexchange.com/ai-governance-assessment), veri yönetişimi ve YZ konum haritaları ile bir kaynak kütüphanesini barındırır. Çevresinde [campusaigovernance.com](https://campusaigovernance.com/) (dokuz YZ yönetişim alanı), bu alanlara uygulanmış NIST YZ Risk Yönetimi Çerçevesi olan [campusairisks.com](https://campusairisks.com/), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), birim düzeyinde bir [YZ benimseme planı şablonu](https://unit-ai-adoption-plan.netlify.app/) ve yöneticiler için [ajan temelli YZ üzerine bir brifing](https://campusaiframework.com/sites) yer alır. Stratejik Pusula ayrıca paylaşılan bir Google belgesi olarak da dolaşımda olup açılması için bir Google hesabı gerekir. Girişte rol ve kurum hakkında kısa bir isteğe bağlı tanıtım sorusu görünür; e-posta isteğe bağlıdır ve sitenin tamamı onsuz okunabilir.
-
-## Bağlı kavramlar
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

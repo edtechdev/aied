@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -121,46 +123,3 @@ ai_assist:
 - **「ループの中の人間がいれば直る。」** ループは介入の機会と同じだけしかよくありません。そして採点の研究はアンカリングを測定していません。
 - **「学生の問題である。」** 教師、評価者、注釈者、管理者が、コーパスが描写するあらゆる設計における承認者です。
 - **「よりよい訓練が取り除く性格の欠陥である。」** 訓練は助けになりますが、同じ人が、検証が安価かどうか、出力が流暢かどうか、不同意にコストが伴うかどうかによって異なる振る舞いをします。
-
-## 関連する概念
-
-- [[trust-calibration]] — 自動化バイアスがその失敗を名指しする依存の状態
-- [[bias-mitigation]] — システム側の対応物: モデル内部のバイアス
-- [[cognitive-offloading]] — 精神的作業の委任。無チェックの受容はその1つの帰結
-- [[human-in-the-loop-ai]] — この失敗がその強さを決める安全策
-- [[explainable-ai]] — コーパスが提案し、めったに検証しない透明性の介入
-- [[learning-analytics]] — 見落としの誤りが集中するダッシュボードと早期警告
-- [[recommender-systems-and-learning-paths]] — 次に何をするかの順位づけ。学生は単に従いうる
-- [[automated-assessment]] — 人間が読み直さずに受け入れうるスコア
-- [[scaffolding]] — 受容よりも安価にとどまるチェック
-- [[self-efficacy]] — 標準的な予測が依拠する特性
-- [[ai-detection]] — 時間的圧力のもとで人間が判断する検出
-- [[remote-proctoring]] — モデルが提起し、人が裁定する疑念
-- [[ai-literacy]] — 採点される技能としての検証が住むところ
-
-## 関連する記事
-
-- [[shi-human-ai-complementarity-safety-2026]] — 416人の評価者、3,957項目: 候補を先に提示する支援により、モデルが誤った項目での誤り検出が36.7%から20.6%に低下 (Shi et al., 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 薄いデータに基づく推薦へ従うなと教師に警告
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — AIスコアによる評価者のアンカリングを未検証のリスクとして名指しし、盲検化を提案
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — ダッシュボード、表層的特徴のフィードバック、信号機を一般的なパターンとして扱う
-- [[factria-responsible-institutional-analytics-2026]] — 11人のステークホルダー、4つのケース、推薦を断るチャットボット
-- [[ludia-udl-ai-thought-partner-2026]] — 道具の領域知識を信頼することで弱められる教育者の安全策
-- [[extended-minds-coupling-flexibility-2026]] — 自動化バイアスが打ち負かすなら、形式的な拒否の権利は監督ではない
-- [[ground-truth-reliability-aied]] — LLMの注釈、循環的検証、静かなラベルの漂流
-- [[polished-artifacts-fragile-engagement-2026]] — 認識的努力を減らすことの社会認知的側面としての自動化バイアス
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 再帰的な人間とAIの作業における4つの失敗様式の1つ
-- [[eight-mode-ai-engagement-typology-2026]] — Oracle モードとその特徴的なリスク
-- [[assessing-student-drive-framework-2025]] — 自動化バイアスへの安全策としての能動的な人間の主体性
-- [[sun-llm-nursing-education-professional-identity-2026]] — AIが外在的作業を置き換えるのか構成的作業を置き換えるのかについての489の研究
-- [[geoscience-field-learning-genai-2026]] — 証拠に縛られた野外調査におけるアンカリング、確証、自動化バイアス
-- [[ahmadfard-interactive-oer-review-2026]] — 学習者と教師の主体性を侵食するリスクの中に列挙された自動化バイアス
-- [[alshahrani-health-sciences-ai-use-2026]] — 明示的な訓練の根拠として読まれる310人の学生の倫理的懸念
-- [[ai-literacy-legal-translation-2026]] — 品質の錯覚の圧力に対抗してポストエディティングを採点される技能として教える
-- [[morales-cevallos-ai-forensic-science-education-2026]] — レビューされた法科学AI研究で記録された自動化バイアス
-- [[rana-genai-design-thinking-2025]] — 人間の判断を中心に保つ足場かけ
-- [[kim-overtrust-ai-literacy-2026]] — 逆転した予測: 自信のある学生がその道具をより信頼した
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — 自動化バイアス研究の上に構築された枠組みであり、その検証ではない
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 批判的市民性を侵食する3つのメカニズムの1つ
-- [[academic-erasure-complexity-ai-writing-2026]] — AI利用を取り締まる感情労働の内側の自動化バイアス
-- [[llm-fallacy-misattribution]] — 最も近い区別: システムへの過度の依存と、知覚された個人的能力

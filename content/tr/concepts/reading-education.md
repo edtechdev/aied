@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -94,32 +96,3 @@ Hat ölçüm açısından zengin, sonuç açısından yoksuldur. Doğrulanmış 
 - **“YZ üretimi metin daha kolaydır çünkü bir düzey için üretilmiştir.”** Kanıt model çıktısı için ters yöne gider: öncü modeller anlama maliyetiyle ilişkilendirilen yapıları aşırı kullanır.
 - **“YZ ile okumak tek bir davranıştır.”** AIR ölçeği dört ayrı güdü bulur ve bunlar farklı kullanım türlerini yordar.
 - **“YZ metni yeniden yazabiliyorsa okuma düzeyi artık önemli değildir.”** Farklılaştırma, bir parçanın yapısal karmaşıklığını düşürmekten farklı bir müdahale olarak, parçanın çevresindeki desteği parçanın kendisinden daha çok değiştirir.
-
-## Bağlı kavramlar
-
-- [[ai-education]] — bu alanın altında durduğu şemsiye
-- [[language-learning]] — L2 okuma örtüşür, ama oradaki nesne edinimdir
-- [[writing-education]] — okuryazarlığın oluşturma tarafı
-- [[english-education]] — EAP/EFL/ESL okuma ve okunabilirlik
-- [[educational-nlp]] — okunabilirliğin bağlı olduğu metin ölçüm katmanı
-- [[assessment]] — okuma değerlendirmesi ve puan geçerliliği
-- [[motivation]] — okurların YZ'yi neden kullandığı ve bunun işlemeye ne yaptığı
-- [[scaffolding]] — farklılaştırılmış okuma materyallerindeki destek katmanları
-- [[neurodiversity]] — disleksi ve okuma güçlüğü
-- [[accessibility]] — insan tarafından okunabilir metne karşı makine tarafından okunabilir metin
-- [[generative-ai]] — üretilen ve uyarlanan metinlerin arkasındaki teknoloji
-
-## Bağlı makaleler
-
-- [[air-scale-motivations-ai-reading-2026]] — GenAI ile okumanın güdülerine dair doğrulanmış bir ölçek
-- [[almirabi-ai-reading-assessment-motivation-2026]] — bir EFL sınıfında YZ aracılı okuma değerlendirmesi
-- [[genai-differentiated-eap-reading-materials-2026]] — farklılaştırılmış EAP okuma materyalleri
-- [[llm-children-reading-story-generation]] — düzey denetimli çocuk okuma öyküleri
-- [[text-simplification-its]] — özel ders için metin sadeleştirmesinin değerlendirilmesi
-- [[clara-developmental-appropriateness-children-stories-2026]] — okunabilirlik formüllerinin ötesinde gelişimsel güçlük
-- [[bird-multimodal-educational-literature-2026]] — edebiyatı Key Stage'e göre sınıflandırma
-- [[clark-ai-generated-language-readability-2026]] — YZ üretimi dilin neden daha zor okunduğu
-- [[sidorkin-ai-generated-course-readings-2026]] — uyarlanmış YZ üretimi ders okumaları
-- [[airri-machine-resistant-reading-interface-2026]] — makineye dirençli okuma arayüzleri ve okunabilirlik maliyetleri
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — ortaöğretim okumasında ChatGPT geri bildirimi
-- [[dabaghi-ai-dyslexia-education-review-2026]] — disleksili öğrenenler için YZ

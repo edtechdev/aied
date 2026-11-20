@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -39,6 +40,3 @@ L'exemple le plus clair est `teach`, qui se déroule sur plusieurs sessions et t
 ## Ce qu'il faut savoir avant de l'adopter
 
 Tout est [[open-source|open source]] sous MIT et libre à prendre comme point de départ pour une [[ai-literacy|culture de l'IA]] ou une [[self-directed-learning|étude autodirigée]] locales. L'adoption est large et rapide : environ 270 000 étoiles et 23 000 forks lors de la vérification en septembre 2026, avec le commit le plus récent le 18 septembre 2026. La réserve tient à la portée. Les compétences supposent un contexte de travail d'[[human-ai-collaboration|ingénieur]], elles sont organisées en rubriques ingénierie, productivité, obsolète et en cours, si bien que certaines entrées sont explicitement inachevées ou retirées, et le README sert aussi d'inscription à une lettre d'information. Traitez les compétences d'enseignement et de questionnement comme la partie transférable, et attendez-vous à devoir réécrire n'importe laquelle d'elles avant d'en mettre une devant des élèves.
-
-## Concepts liés
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

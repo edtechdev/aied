@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -78,30 +80,3 @@ DBR হলো [[learning-sciences|শিখন-বিজ্ঞানের]] স
 **"যেহেতু DBR কাজ করা একটি নির্মিতি দেয়, তাই এটি কার্যকারিতা প্রমাণ করেছে।"** যে নকশা তার সহ-উৎপাদক স্থানে কাজ করে, তা স্থানীয় কার্যক্ষমতা প্রমাণ করেছে, যা কার্যকারিতা থেকে ভিন্ন দাবি। নির্মিতিটি সেই প্রসঙ্গের জন্য করা অভিযোজন বহন করে, আর তা স্থানান্তর করলে এমন অনুমানও স্থানান্তরিত হয় যা কখনো অনুমান হিসেবে ঘোষিত হয়নি।
 
 **"যন্ত্রকে সংশোধনযোগ্য নকশা-নির্মিতি হিসেবে দেখা DBR থেকে বিচ্যুতি।"** এটি হস্তক্ষেপের বদলে মাপনে প্রয়োগ করা DBR-এর পুনরাবৃত্ত চরিত্র: এই করপাসের একটি গবেষণা রুব্রিককেই নির্মিতি হিসেবে দেখেছে, একটি [[llm|LLM]]-এর সঙ্গে সহ-পরিমার্জনের চক্র চালিয়ে। এই সম্প্রসারণ লক্ষণীয়, কারণ এটি যন্ত্রের নিজের বিকাশকেও প্রমাণের অংশ করে তোলে।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — এআই-সহায়ক সহযোগিতামূলক শিখন মডেলের জন্য DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — শিক্ষক-শিক্ষায় এআই-সাক্ষরতা প্রশিক্ষণের জন্য DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — প্রশিক্ষক-প্রযুক্তি-সংহতকরণ মানের জন্য DBR
-- [[human-centered-ai-teacher-educators-2026]] — শিক্ষক-শিক্ষকদের জন্য মানুষ-কেন্দ্রিক এআই (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — ওপেন ইউনিভার্সিটিতে AIDA বাস্তবায়নকারী ছয়টি DBR গবেষণা
-- [[critical-thinking-genai-scaffolding]] — GenAI সমালোচনামূলক-চিন্তা স্ক্যাফোল্ডিংয়ের জন্য DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — বিজ্ঞান-সংহত এআই-সাক্ষরতা পাঠ্যক্রমের জন্য DBR (Moore প্রমুখ 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): প্রি-কে ও কিন্ডারগার্টেনের জন্য খেলা-কেন্দ্রিক এআই-সাক্ষরতা পাঠ্যক্রম (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্ত শিক্ষাবিজ্ঞান-নকশার এজেন্ট হিসেবে LLM

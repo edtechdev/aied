@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -43,7 +44,3 @@ ai_assist:
 ## 導入前に知っておくべきこと
 
 すべてが MIT のもとで [[open-source|オープンソース]]であり、地域の [[ai-literacy|AI リテラシー]]や [[self-directed-learning|自主学習]]の出発点として無料で使えます。採用の規模は大きく動きも速く、2026 年 9 月の確認時点でおよそ 270,000 スターと 23,000 フォークがあり、最新のコミットは 2026 年 9 月 18 日です。注意点は範囲です。これらのスキルは [[human-ai-collaboration|エンジニア]]の作業環境を前提としており、エンジニアリング、生産性、非推奨、制作中のカテゴリに整理されているため、エントリの中には明示的に未完成または退役済みのものがあり、README はニュースレター登録の窓口も兼ねています。教育と問いかけのスキルを応用可能な部分と捉え、学生の前に置く前に必ず書き換えることを想定してください。
-
-## 関連する概念
-
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

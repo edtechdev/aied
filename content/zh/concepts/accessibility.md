@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
+connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -89,43 +91,3 @@ ai_assist:
 - **"可及性就等于便利安排。"** 一项对面向神经多样性学生的数字辅助技术的范围综述覆盖 40 项研究，发现其中 28 项把正式诊断作为参与的前提条件。这是以诊断为门槛的模式，它把每一位有需求却没有标签的学习者排除在外，与通用设计正好相反。
 - **"中等效应就能定论。"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等]]元分析 29 项研究，发现中等正向效应，这是真实的，也同样没有说明哪种工具适用于哪种需求。异质性干预的平均值不是一项建议。
 - **"速度与即时性只是便利。"** 一项覆盖三所巴勒斯坦大学 21 名视障本科生的质性案例研究发现，学习者把即时性框定为一项根本的可及性要求，而非便利。从外部看似锦上添花的东西，是参与的前提条件。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]] — 面向学习者差异设计教育的更宽总括
-- [[special-education]] — 面向被确诊残障学习者的教学领域
-- [[universal-design-for-learning]] — 主动性的设计框架
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[assistive-technology]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[educational-robotics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[agency]]
-- [[virtual-and-augmented-reality]] — 头显、晕动症与设备可及性决定了谁能使用它
-- [[speech-and-voice-technologies]]
-- [[legal-issues-and-risks]] — 过度宽泛的规则、缺陷证据与合理调整的总括页面
-- [[arts-and-media-education]]
-
-## 关联文章
-
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan（2026）：100 所精英大学中 0% 发布人工智能可及性政策，而 93% 部署人工智能校园服务
-- [[shin-ai-policies-sld-2026]] — 面向特定学习障碍学生的 AI 政策与便利安排
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 面向残障学生的 AI 干预元分析
-- [[adhd-video-segmentation-computing-education]] — 带有固定停顿的 AI 分段视频
-- [[text-simplification-its]] — 面向智能导学的基于 LLM 的文本简化
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向听障/重听学习者的 LLM 题目生成
-- [[kutti-ai-voice-first-learning-companion]] — 面向视障儿童的语音优先学习伙伴
-- [[tactile-statistical-graphs-accessibility]] — 触觉 3D 打印统计图表
-- [[pepper-robot-sign-language-lis-2025]] — 支持手语的 Pepper 机器人
-- [[genai-minoritized-knowledges-disability]] — 关于 AI 与以残障为中心知识的批判视角
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX 数学可及的物理视频转录
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其他：面向高等教育神经多样性学生的数字辅助技术范围综述
-- [[wright-transcription-not-generation-2026]] — 转录不是生成：过度包容的 AI 禁令及其捕获的辅助工具
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU：跨可及性标准、指标与学习者偏好的大学讲座音频描述基准

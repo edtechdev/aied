@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -92,9 +93,3 @@ Instructori de psihologie în orice etapă a carierei și instructori din [[soci
 ## Note și precauții
 
 PDF gratuit, fără cont. Drepturile de autor aparțin STP, nu este o licență Creative Commons: copiile personale și cele pentru clasă sunt permise cu atribuire, în timp ce redistribuirea sau utilizarea comercială necesită permisiunea autorului. Capitolele sunt relatări de practician, nu studii — fără designuri, eșantioane sau mărimi ale efectului — așa că tratați afirmațiile ca rapoarte de experiență și citați capitolele individual.
-
-## Concepte conexe
-
-- [[social-sciences-education]] — pagina-cluster a cărei secțiune de psihologie acest volum o umple cu practică la nivel de curs
-- [[ai-literacy]] — încadrarea evolutivă pe care editorii o dau colecției
-- [[academic-integrity]] — subiectul capitolului despre politici și motivul pentru care mai multe capitole de curs includ pași de verificare

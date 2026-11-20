@@ -22,7 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -106,47 +107,3 @@ ai_assist:
 ## Цитирование
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## Связанные понятия
-
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## Связанные статьи
-
-- [[lund-socially-accountable-data-science-xai-2026]] — Структура из четырёх столпов (ответственность за объяснение, ответственность, принуждение, рефлексивность) для преподавания XAI как практики подотчётности (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Проектирование ИТС, центрированной на студенте, с чувствительностью к ценностям (коллаборативные против сырых объяснений)
-- [[xai-education-framework]] — XAI-ED: фундаментальная структура интерпретируемого ИИ в образовании (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Предметно-специфичные объяснения выстраивают доверие и принятие преподавателей (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Взгляды студентов на прозрачное оценивание с поддержкой ИИ (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Интерпретируемая трассировка знаний
-- [[explainable-probabilistic-kt]] — Интерпретируемая трассировка знаний через вероятностные вкрапления
-- [[neural-symbolic-knowledge-tracing]] — Нейро-символическая трассировка знаний
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Дистилляция черноблочных моделей в самообъясняющиеся языковые модели для аналитики обучения
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Федеративная и интерпретируемая аналитика обучения для моделирования риска с сохранением приватности
-- [[sc2r-counterfactual-recourse-educational-2026]] — Контрфактическое обжалование с ограничениями по семантике для образовательной поддержки принятия решений
-- [[fair-explainable-edu-recommendations]] — Справедливые и интерпретируемые образовательные рекомендации
-- [[multimodal-affective-its-presentation]] — Интерпретируемая ИТС с замкнутым циклом для мультимодальной аффективной обратной связи
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Объяснение внедрения ChatGPT в высшем образовании
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Структура интерпретируемости по проектированию на базе LLM: двухлинзовое внимание и параметризуемые оценкой объяснения для автоматизированного оценивания преподавателей (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Инъекция в промпт в опосредованном ИИ оценивании, где обнаружение так и не было доведено до сведения пользователя (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оценка предварительно обученных моделей для педагогической оценки новых образовательных вопросов с участием ИИ
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — Решения об оценивании, принятые преподавателем против принятых ИИ: письменное обоснование расширило разрыв в справедливости
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Цитаты и сигналы авторитета повышали уступчивость неверному выводу, часть ссылок была приписана неверно или вымышлена
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - symbolic, sub-symbolic and neural-symbolic models on one cohort attributed their predictions to different factors

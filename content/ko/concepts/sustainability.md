@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -38,7 +40,6 @@ ai_assist:
 AIED에서 지속가능성은 서로 겹치는 세 가지 틀짓기에 걸쳐 있습니다. **지속가능한 교육**(가치 기반의 인간 중심적 교육 프로젝트), **교육에서의 지속가능성**(지속가능성을 위한 수단으로서의 교육 사용), 그리고 **지속가능 발전을 위한 교육**(ESD, 특히 [[k-12|Sustainable Development Goal 4]]인 세계적 정책 의제)입니다. AI는 이 각각과 다르게 교차합니다 — 그리고 이 분야는 두 가지 핵심 경로를 구분합니다. **AI for sustainability**(지속가능성 성과를 달성하는 도구로서의 AI)와 **sustainable AI**(AI 자신의 환경적·윤리적 발자국 줄이기)입니다.
 
 환경 경로에는 기록된 공백이 있습니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 외(2026)]]는 연구 현장의 대학 정책 문서에서 [[generative-ai|생성형 AI]]의 환경적 결과가 논의되지 않았음을 보고하며, 그것을 빠뜨린 기관 지침은 교사와 학생이 지닌 우려를 다루지 못한다고 주장합니다.
-
 
 ## 두 부분으로 된 분류 체계
 
@@ -76,31 +77,3 @@ AI를 [[environmental-education|지속가능성 교육]]과 성과를 *위한* �
 - **"추상적 AI 지식이 교사의 지속가능성 교육 역량을 예측합니다."** [[talebzadeh-ai-green-education-2026|Talebzadeh(2026)]]는 과학 및 녹색 에너지 맥락에서의 교사의 **실천적 AI 사용**과 **ESD 정렬 자료 개발 참여**가 추상적 AI 지식이나 태도보다 더 강하게 그 역량을 예측했다는 것을 발견했습니다. AI에 대해 아는 것과 그것으로 만들 수 있는 것이 갈렸고, 실천 경로가 더 많이 예측했습니다.
 - **"지속가능성 교수법 아래의 AI 지원 교수 설계는 지속가능성 교수법을 낳습니다."** 같은 연구는 지속가능 발전 교수법 아래의 AI 지원 [[learning-design|교수 설계]]가 설계를 확장하기보다 특정한 방식으로 **제약**했다는 것을 발견했습니다. 관습적 자료로 훈련된 모형은 설계 작업이 그것을 교정하지 않는 한 관습적 틀짓기를 재생산합니다.
 - **"지속가능성은 주제이지 관통하는 주제가 아닙니다."** 두 경로가 모두 수준을 가로질러 작동하기 때문에, 지속가능성은 [[higher-ed|고등 교육]], K-12, 전문적 맥락에 나타납니다. 이는 그것이 별도의 교과로 가르쳐질 주제가 아니라 각 학문 안에서 다루어야 하는 기초 주제임을 뜻합니다.
-
-## 연결된 개념
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## 연결된 문서
-- [[daniel-ai-sustainability-scoping-review-2026]] — 고등교육에서 AI for sustainability와 sustainable AI에 관한 범위 검토
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 지속가능한 교육과 AI에 관한 가치 비판적 접근
-- [[liu-ai-sustainable-engineering-education-2026]] — 지속가능한 공학 교육을 위한 AI-SEE 프레임워크
-- [[riandi-teacher-ai-green-energy-education-2026]] — 녹색 에너지 교육을 위한 AI 통합에서 교사의 참여
-- [[talebzadeh-ai-green-education-2026]] — 녹색 교육에서의 AI의 역할
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 지속가능한 AI 지식 베이스 조수
-- [[llm-environmental-impact-student-usage-2026]] — LLM 사용의 환경적 영향
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 구현된 지능을 통해 지속가능한 학습을 기르기
-- [[caruana-pre-university-ai-education-slr-2026]] — 대학 이전 AI 교육에 관한 체계적 문헌 고찰(SDG 4 틀)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 파트너십 윤리가 부정행위 틀 대신 기관의 생성형 AI 결정을 이끌어야 한다고 주장하는 스웨덴 설문 및 포커스 그룹 연구
-- [[lim-ai-wearables-environmental-empathy-2024]] — 웨어러블 EDA와 AI 생성 오염 이미지가 각성을 높였으나, 환경 관리 의식(stewardship)은 측정하지 않았다 (Lim 등, 2024)

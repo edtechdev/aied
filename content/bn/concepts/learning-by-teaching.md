@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -115,32 +117,3 @@ LLM-ভিত্তিক teachable এজেন্টের কেন্দ্�
 **"একটি LLM-কে বিভ্রান্ত হওয়ার কথা বলা একটি তুচ্ছ প্রম্পট।"** এটি একটি নকশা-সমস্যা, কারণ ভুলপ্রবণতা শেখানো ধারণা ও শিক্ষার্থী-টিউটরের বর্তমান মডেলের সঙ্গে ক্রমাঙ্কিত হতে হবে। এলোমেলো ত্রুটি ডিবাগিং অনুশীলন তৈরি করে; নির্দিষ্ট বিশ্বাসযোগ্য ভুল-বোঝাবুঝি প্রতিফলিত করা ত্রুটি ধারণগত পুনর্গঠন তৈরি করে, এবং কেবল দ্বিতীয়টিই শিক্ষণপদ্ধতিগত লক্ষ্য।
 
 **"শেখানোর মধ্য দিয়ে শেখা শেখানো হওয়ার চেয়ে নরম কার্যক্রম।"** এটি বেশি দাবিদার। শেখানোর প্রস্তুতি জ্ঞান সংগঠিত করা ও নিজের ফাঁক খুঁজে বের করা — দুটোতেই বাধ্য করে, তাই এই পদ্ধতি সেই ভুল বোঝাবুঝি সামনে আনে যা নিষ্ক্রিয় গ্রহণ ঢেকে রাখে — কঠিনতাটাই প্রক্রিয়া, কমানোর মতো কোনো খরচ নয়।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এআই tutee-কে ব্যাখ্যা করা: জ্ঞানভিত্তিতে সবচেয়ে ভালো-প্রমাণিত ক্রম
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — ছাতা: এআই-শিক্ষায় শিক্ষণপদ্ধতি ও শিক্ষাদান-কৌশল
-
-## সংযুক্ত নিবন্ধ
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — প্রোগ্রামিংয়ে teachable এজেন্ট হিসেবে ChatGPT
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: ৫৪৬ শিক্ষার্থীর জন্য teachable এজেন্ট
-- [[prompting-teachability-novice-personas-lbt-2026]] — শেখানোর-উপযোগিতার জন্য নবীন পার্সোনা নকশা
-- [[socrates-students-instructors-llms-lbt-2025]] — LLM-এর প্রশিক্ষক হিসেবে শিক্ষার্থী (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — এআই-কে শেখানোর মাধ্যমে শব্দভাণ্ডার শেখা
-- [[knowloop-confusion-to-consolidation-2026]] — কথোপকথনমূলক পর্যালোচনা ব্যবস্থায় teach-back সংহতি
-- [[simulating-novice-students-machine-unlearning-2026]] — tutee-কে নবীন জ্ঞান-স্তরে ধরে রাখতে মেশিন আনলার্নিং, এবং শেখানোর সংলাপে পুনঃশিখন
-- [[simulating-students-java-programming-errors-llms]] — LLM দিয়ে শিক্ষার্থী-ত্রুটি অনুকরণ
-- [[knowledge-building-tutor-learning-2026]] — জ্ঞান-নির্মাণমূলক সাড়া, পূর্বজ্ঞান নয়, টিউটর-শেখার পূর্বাভাস দেয়

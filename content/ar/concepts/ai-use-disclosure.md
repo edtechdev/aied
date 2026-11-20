@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -97,41 +99,3 @@ ai_assist:
 - **"يخفي الطلاب استخدام الذكاء الاصطناعي لأنهم غير صادقين."** الدوافع موثّقة ومحددة: **اعترف نحو 34% فقط من طلاب الاقتصاد باستخدام الذكاء الاصطناعي** وكان الإفصاح أندر، مدفوعًا **بقلق العقوبة**، بينما وجدت دراسة أخرى أن **66% لم يفصحوا أبدًا أو نادرًا** مع **الخوف من العقوبة الأكاديمية كالسبب الأول**. فتصميم السياسة لا الطبع هو ما تشير إليه البيانات.
 - **"شرط الإفصاح ضبط منخفض الكلفة."** **معدّل عدم امتثال 74%** يجعل السجل الناتج أسوأ من عدم وجود سجل: فهو مجموعة بيانات تبدو كاملة وليست كذلك، فالمؤسسة تتخذ قرارات على عينة لا يمكنها الوثوق بها.
 - **"الإفصاح عن كيفية استخدام النموذج كافٍ."** يجادل [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] بأن الإفصاح يوثّق استخدام النموذج بينما يتطلب الاستخدام المسؤول إذنًا تأليفيًا على مستوى الادعاء — قدرة المساهم على فهم الادعاءات وتبريرها والدفاع عنها — فاصلًا [[cognitive-offloading|التفويض المعرفي]]، حيث تُشكّل المخرجات خيارات جوهرية، عن التفويض الروتيني الذي لا يفعل.
-
-## المفاهيم المرتبطة
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — الضرر الذي يهدف الإفصاح إلى جعله مرئياً
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — لماذا يختار المتعلمون الإخفاء بدلاً من الإفصاح
-
-## المقالات المرتبطة
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — انقسام بنيوي: اليقين بالكشف مقابل خطر أن يكشف الإعلان استخدامًا غير لائق (Liu وآخرون 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — الاتجاه المرآوي: إبلاغ الطلاب متى يُقيّم الذكاء الاصطناعي أعمالهم، والسؤال قبل رفعها
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — ما بعد الكشف: كيف يستخدم الطلاب الذكاء الاصطناعي ويخفونه في التقويمات عبر الإنترنت
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — إفصاح الطلاب عن الذكاء الاصطناعي والوصم والتعلّم الذاتي التنظيم
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — الإفصاح كحد بين المساعدة والتضليل عبر 50 جامعة أمريكية مبتكرة (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — مقالات القبول المكتوبة بالذكاء الاصطناعي واسعة الانتشار لكنها مُعاقَبة
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
-- [[authorial-warrant-ai-supported-scholarship-2026]] — حين لا تكفي قواعد الإفصاح: الإذن التأليفي والحكم في البحث المدعوم بالذكاء الاصطناعي (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — تسميات الإفصاح عن الذكاء الاصطناعي، والأصالة المُدركة، والثقة في الفيديوهات التعليمية المولَّدة بالذكاء الاصطناعي

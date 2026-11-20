@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -107,7 +109,6 @@ ai_assist:
 স্বয়ংক্রিয় মূল্যায়নের গুণমান নির্ভর করে [[assessment-validity]] ও [[bias-mitigation]]-এর উপর। [[ai-scoring-language-bias-physics|ভাষা-পক্ষপাত]] গবেষণা দেখায়, স্বয়ংক্রিয় স্কোরিং নির্দিষ্ট শিক্ষার্থী-গোষ্ঠীকে পদ্ধতিগতভাবে সুবিধাবঞ্চিত করতে পারে।
 **মানদণ্ডটি নিজেই ত্রুটিপূর্ণ হতে পারে।** [[ai-marking-accuracy-gcse-physics-2026|Bozdag ও Qiu (২০২৬)]] GCSE পদার্থবিজ্ঞানের খাতা একটি এআই ব্যবস্থায় মার্ক করেন এবং সেগুলোকে সরকারি পরীক্ষা-বোর্ডের নম্বর ও অভিজ্ঞ শিক্ষকদের বিচার — উভয়ের সঙ্গে তুলনা করেন, বোর্ডের সঙ্গে মিলকে নির্ভুলতার প্রক্সি হিসেবে গণ্য করেন, নির্ভুলতা হিসেবে নয়।
 
-
 ### ব্যবহারের পরিস্থিতি এবং প্রতিটির কী প্রয়োজন
 
 একটি প্রতিষ্ঠান কতটা সঙ্গতি দাবি করবে, তা নির্ভর করে ব্যবস্থাটিকে কী সিদ্ধান্ত নিতে দেওয়া হয়েছে তার উপর। [[mixed-methods-research|মিশ্র-পদ্ধতি]] গবেষণায় [[opraise-automated-marking-ai-assessment-2026|তিনটি যুক্তরাজ্যের বিশ্ববিদ্যালয়ের ৭৬১টি প্রামাণিক স্নাতক প্রবন্ধে]], প্রতিটি ২৭টি প্রম্পট-কনফিগারেশনসহ তিনটি ফ্রন্টিয়ার মডেল ডিগ্রি-ব্যান্ডে মানব মার্কারদের সঙ্গে কেবল ৩৫-৬৫ শতাংশ মিলে পৌঁছায়, এবং নির্ভুলতা প্রতিষ্ঠান থেকে প্রতিষ্ঠানে হস্তান্তরযোগ্য নয় — তাই প্রতিবেদনটি সম্ভাব্য ব্যবহারগুলোকে এক সিদ্ধান্ত নয়, আলাদা আলাদা পরিস্থিতি হিসেবে গণ্য করে। **মানব মার্কিংয়ের গুণমান নিশ্চিতকরণ**, যেখানে এআই সমান্তরালে মার্ক করে এবং উল্লেখযোগ্য পার্থক্য মানব পর্যালোচনা চালু করে, সবচেয়ে রক্ষণশীল। **একটি মার্কিং সহায়ক**, যা পূর্বানুমিত গুণমান বা অনিশ্চয়তা অনুযায়ী জমা র‍্যাংক বা শ্রেণিবদ্ধ করে, জটিল কেসগুলো ট্রায়াজ করে, বা সংক্ষিপ্ত মানব মন্তব্যকে পূর্ণতর প্রতিক্রিয়ায় প্রসারিত করে, তা সত্যিকারের মধ্যবর্তী পথ। **প্রাথমিক মার্কার হিসেবে এআই**, যেখানে নমুনা বা মার্ক-বিতরণের মানব পর্যালোচনা থাকে, কেবল তখনই গ্রহণযোগ্য বিবেচিত হয় যদি ব্যবস্থার কর্মক্ষমতা উন্নত হয়, এবং কোনো [[stakeholders|অংশীজন]] গোষ্ঠী এআই-কে একমাত্র মার্কার হিসেবে সমর্থন করেনি।
@@ -115,7 +116,6 @@ ai_assist:
 এর যেকোনোটির জন্য তিনটি শর্ত অনুসরণ করে। যেহেতু সঙ্গতি মডেল- ও প্রতিষ্ঠান-নির্দিষ্ট, যাচাইকে হতে হবে স্থানীয় ও ধারাবাহিক — অন্য জায়গার শীর্ষ-স্তরের নির্ভুলতা প্রস্তুতির প্রমাণ নয়। যেহেতু নম্বরগুলো মাঝের দিকে সংকুচিত হয়েছিল, এআই সবচেয়ে কম নির্ভুল ছিল গ্রেড-সীমানায় এবং সবচেয়ে শক্তিশালী ও সবচেয়ে দুর্বল জমায়, অথচ সেখানেই মূল্যায়ন-সিদ্ধান্তের পরিণতি সবচেয়ে বড়। আর যেহেতু এআই ও মানব নম্বরের মধ্যে অমিল নিছক ভুল নয়, ভিন্ন বিচার প্রতিফলিত করে, তাই অমিলগুলো অ্যালগরিদমিক ওভাররাইডের বদলে মানব ব্যাখ্যা চালু করা উচিত, এবং নম্বরের চূড়ান্ত কর্তৃত্ব মানুষের হাতেই থাকা উচিত। গ্রহণে এমন [[governance|গভর্ন্যান্স]] বাধ্যবাধকতাও আসে, যা কারিগরি মেট্রিক ধরে না: যেখানে স্বয়ংক্রিয় সিদ্ধান্ত শিক্ষার্থীদের প্রভাবিত করে সেখানে GDPR অনুচ্ছেদ ২২-এর অধীনে ব্যাখ্যার অধিকার, একবার অর্জন-স্তর ও ভাষা-ব্যবহার নম্বরে প্রভাব ফেলে বলে প্রমাণিত হলে Equality Act-এর দায়বদ্ধতা, সহজে ধরা পড়ে না এমন ভুলের জন্য সংশোধিত আপিল প্রক্রিয়া, এবং একটি অপরিবর্তনীয়তার ঝুঁকি — একবার জনবল ও বিনিয়োগ সরে গেলে, ফিরে যেতে যে মানব মার্কিং সংগ্রহ দরকার, প্রতিষ্ঠান তা চালিয়ে যেতে হিমশিম খেতে পারে।
 
 তিনটি মডেল মিলিয়ে দিলেও সেই ত্রুটি দূর হয়নি: যেহেতু তাদের ভুল পরস্পর সম্পর্কযুক্ত ছিল — ৬৩.৪% অ্যাসাইনমেন্টে একই দিকে — [[machine-human-marking-agreement-institutions-2026|Corsi প্রমুখ (২০২৬)]]-এর এনসেম্বল পরিসংখ্যানগতভাবে সেরা একক মডেল থেকে আলাদা করা যায় না, এবং ভাগ করা কেন্দ্র-প্রবণতা-সংকোচন অটুট থাকে।
-
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (২০২৬)]] সেই মানদণ্ড সরবরাহ করেন, যা এই শর্তগুলো ধরে নেয়, এবং যুক্তি দেন, স্বয়ংক্রিয়করণকে যুক্তিসঙ্গত করে তোলে কাজটির *জ্ঞানতাত্ত্বিক অবস্থা*, প্রযুক্তি কারিগরি দিক থেকে যা করতে পারে তা নয়। তাঁর কাঠামো এআই-কে সীমাবদ্ধ করে বাস্তব ও প্রক্রিয়াগত দাবির সীমিত যাচাইয়ে — চারটি শর্ত একসঙ্গে পূরণ হতে হবে: দ্ব্যর্থহীন নথিভুক্ত মানদণ্ড, প্রতিষ্ঠিত জ্ঞানের সঙ্গে সরাসরি তুলনা, বিকল্প বৈধ পদ্ধতির মূল্যায়ন না করা, এবং একটি একক সঠিক উত্তর বা পূর্ব-নির্ধারিত গ্রহণযোগ্য সেট; আর দ্ব্যর্থতা থাকলে ডিফল্টভাবে মানুষে এসকেলেট হবে — এবং সেই স্তরে এআই-সম্পৃক্ততাকে পাঁচটি অলঙ্ঘনীয় নীতির উপর শর্তসাপেক্ষ করে, যেগুলো একসঙ্গে সবগুলোই মানতে হবে: জ্ঞানভিত্তি অবশ্যই মূল্যায়নকারী-নির্বাচিত এবং মডেলের প্যারামেট্রিক জ্ঞানের বদলে মডিউল-উপকরণে প্রত্যাহার-প্রতিষ্ঠিত হতে হবে; মানব মূল্যায়নকারীরা প্রতিটি এআই-আউটপুট শিক্ষার্থীদের কাছে পৌঁছানোর আগে পর্যালোচনা করবেন এবং অহস্তান্তরযোগ্য জবাবদিহিসহ নিখুঁত ওভাররাইড ধরে রাখবেন; প্রতিক্রিয়ায় স্পষ্ট উৎস ও আরোপণ থাকতে হবে; এবং নিরাপত্তা শুরু থেকেই প্রতিকূল ব্যবহারের বিপরীতে নকশা করতে হবে, শ্বেত বা ছোট পাঠ্যে, এনকোডিংয়ে, চিত্র বা নথির মেটাডেটায় লুকানো নির্দেশনার জন্য ইনপুট স্যানিটাইজেশনসহ, কারণ একটি স্বয়ংক্রিয় ব্যবস্থার সফল ফাঁকি শিক্ষার্থী-কোহর্টে ছড়িয়ে পড়ে। একই গবেষণাপত্র স্পষ্ট করে, এর নীতিগুলো একসঙ্গে সম্ভাব্যতা নিয়ে অপরীক্ষিত এবং curation, নিরাপত্তা-পরিকাঠামো ও উচ্চ-কম্পাঙ্কের তদারকিতে মূল্যায়নকারীর সময় কর্মীর পরিশ্রম সরানোর বদলে স্থানান্তর করতে পারে — এই সতর্কতা উপরের স্থানীয়-যাচাই শর্তের পাশেই বসে।
 
@@ -130,7 +130,6 @@ ai_assist:
 - **হাতে-লেখা [[physics-education|পদার্থবিজ্ঞানের]] বড় মাপের এআই গ্রেডিং (২০২৬):** একটি মাল্টিমোডাল মডেল (GPT-5.5) জাতীয় পদার্থবিজ্ঞান অলিম্পিয়াড তত্ত্ব পরীক্ষা, নির্বাচনী ক্যাম্প ও বিশ্ববিদ্যালয়ের কোয়ান্টাম-মেকানিক্স পরীক্ষাজুড়ে ১০,৩৬৪টি স্ক্যান করা পাতা গ্রেড করে, সরকারি নম্বরের সঙ্গে মোট-স্কোর সম্পর্ক 0.91-0.97 অর্জন করে এবং একই শীর্ষ-পাঁচ অলিম্পিয়াড দল পুনরুদ্ধার করে। পাতা-ধরে সংশোধিত, প্রমাণ-অবস্থান নির্দেশনা মিল উন্নত করে — প্রমাণ যে [[multimodal|মাল্টিমোডাল এআই]] সতর্ক রুব্রিক ও প্রম্পট ইঞ্জিনিয়ারিংসহ উচ্চ-ঝুঁকির সমন্বিত গ্রেডিং সমর্থন করতে পারে ([[ai-grading-handwritten-physics-2026]])।
 
 - **হাতে-লেখা [[chemistry-education|রসায়নের]] জন্য নির্বাচনী স্বয়ংক্রিয়করণ (২০২৬):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros ও Kortemeyer]] ২৯৬ জন শিক্ষার্থীর হাতে-লেখা সাধারণ-রসায়ন চূড়ান্ত পরীক্ষা রুব্রিক-চিত্রের বিপরীতে পাতা-ধরে একটি মাল্টিমোডাল, যুক্তি-সক্ষম এলএলএম দিয়ে গ্রেড করেন, মোট স্কোরে উচ্চ রান-থেকে-রান নির্ভরযোগ্যতা (ICC(A,1) = 0.967) এবং টিএ গ্রেডিংয়ের সঙ্গে দৃঢ় মোট-স্কোর মিল (R² = 0.91) অর্জন করেন। যেহেতু আইটেম-স্তরের নির্ভরযোগ্যতা বিন্যাস অনুযায়ী তীব্রভাবে পরিবর্তিত হয় — পাঠ্য ও রাসায়নিক-বিক্রিয়ার উত্তর নির্ভরযোগ্যভাবে গ্রেড হয়েছে, অথচ অঙ্কন ও গ্রাফ দৈবের চেয়েও খারাপ — কাঁচা মিলকে উচ্চ-ঝুঁকির ব্যবহারের জন্য অপর্যাপ্ত বিবেচনা করা হয়। তাঁরা [[human-in-the-loop-ai|মানব-প্রেরণকে]] আত্মবিশ্বাস-ফিল্টারের মাধ্যমে পরিচালনাযোগ্য করেন (আংশিক-ক্রেডিট থ্রেশহোল্ড, [[item-response-theory|IRT]]-ভিত্তিক ঝুঁকি-থ্রেশহোল্ড এবং সমস্যা-ধরন বাদ), যা কাঁচা এআই-স্কোরকে গ্রহণ/প্রেরণ নীতিতে রূপান্তর করে, এবং দেখান, মিথ্যা-ধনাত্মক (এআই প্রকৃত ভুল উত্তরকে ক্রেডিট দেওয়া) সাধারণত ধরা পড়ে না, কারণ শিক্ষার্থীরা কমই তা চ্যালেঞ্জ করে — নির্বাচনী স্বয়ংক্রিয়করণের একটি সুনির্দিষ্ট [[psychometrically-aware-ai|সাইকোমেট্রিকভাবে ভিত্তিক]] পথ ([[cvengros-grading-handwritten-chemistry-ai-2026]])।
-
 
 - **বিশ্ববিদ্যালয় পরীক্ষায় আধা-মুক্ত হাতে-লেখা গণিত (২০২৬):** [[gpt4-handwritten-math-exam-grading-2026|Liu প্রমুখ]] জার্মান একটি স্নাতক গণিত পরীক্ষা GPT-4 দিয়ে দুটি নিষ্কাশন-পথে (পূর্ব-কাটা উত্তর-বাক্স বনাম সম্পূর্ণ পাতা), দুটি অপটিক্যাল-ক্যারেক্টার-রিকগনিশন পথে ও দুটি রুব্রিক-বিন্যাসে গ্রেড করেন, এবং মানব গ্রেডের বিপরীতে Krippendorff's alpha 0.22-0.44, সেরা কর্মপ্রবাহে নির্ভুলতা 0.59-0.62 এবং প্রতি-সমস্যা নির্ভুলতা 0.27-0.91 রিপোর্ট করেন — যা উচ্চ-ঝুঁকির সমন্বিত ব্যবহারের জন্য গ্রহণযোগ্য নয়। বহু-মানদণ্ডের গ্রেডিং নিয়ম আইটেমাইজ করা সাধারণত মিল বাড়ায়নি (এটি আংশিক-ক্রেডিট সমস্যায় সাহায্য করেছে), রুব্রিক ছাড়া মুক্ত গ্রেডিং অনেক খারাপ ছিল (নির্ভুলতা 0.50-0.51), এবং মানব পুনঃযাচাইয়ের জন্য গ্রেড চিহ্নিত করার একটি সম্ভাব্যতাভিত্তিক আত্মবিশ্বাস-ফিল্টার নির্ভুলতা উল্লেখযোগ্যভাবে বাড়ায়নি, বরং ৭-৪১ শতাংশ উত্তরকে ভুলভাবে নির্ভরযোগ্য বলে চিহ্নিত করেছে। গবেষণার হস্তান্তরযোগ্য শিক্ষা পদ্ধতিগত: উত্তর-বাক্স কেটে না নিয়ে মার্কারসহ সম্পূর্ণ পরীক্ষার পাতা স্ক্যান ও ট্রান্সক্রাইব করুন, কারণ শিক্ষার্থীরা বাক্সের সীমানা ছাড়িয়ে লেখে; শিক্ষণ-সহায়কদের জন্য লেখা গ্রেডিং নিয়ম আবার লিখুন, কারণ মডেল মানুষের জন্য বোঝানো নিয়ম থেকে অনুরোধহীন অন্তর্নিহিত সিদ্ধান্ত করতে বসেছিল; এবং লক্ষ্য করুন, মানব-গ্রেডিং নিয়মগুলো নিজেরাই পাঁচটি বৈকল্পিকের মধ্যে alpha 0.88-এ প্যারাফ্রেজ হয়, তাই প্রম্পট-দৃঢ়তাই বাধা নয়।
 
@@ -149,74 +148,3 @@ ai_assist:
 - **"বিচারকই অনির্ভরযোগ্যতার উৎস।"** ৩৭৮টি নির্দিষ্ট-পাশা রায়ে, আধা-কঠোর পদ্ধতিতে পুনরায় চালানো **২.৯ থেকে ৬.১ শতাংশ** ফলাফল বদলেছে এবং মুক্ত বিচারে **১৩.৫ থেকে ১৫.৯ শতাংশ**, অথচ বিচারক এআই বদলালে যোগ হয় কেবল প্রায় ৩ পয়েন্ট ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, ২০২৬]]) — পুনরুৎপাদনযোগ্যতা নির্ধারণ করে পদ্ধতি, বিচারক নয়।
 - **"আত্মবিশ্বাস জানানো একটি বাড়তি সুবিধা।"** যে স্কোর বলত এটি **৭০% নিশ্চিত**, তা এর ব্যবহারের ধরন বদলে দিত, আর সেই তথ্যের অনুপস্থিতি পাঠককে সব স্কোরকে সমান নিশ্চিত হিসেবে গণ্য করতে বাধ্য করে।
 - **"সংক্ষিপ্ত উত্তর স্বয়ংক্রিয়-মার্কিং একটি নিষ্পত্তিকৃত ক্ষেত্র।"** [[science-education|বিজ্ঞানে]] সংক্ষিপ্ত উত্তর স্বয়ংক্রিয়-মার্কিংয়ের (**২০১৭ থেকে ২০২৪-এর শুরু**) একটি স্কোপিং পর্যালোচনা ক্ষেত্রটির ইতিহাস নথিভুক্ত করে, যা যা চেষ্টা করা হয়েছে তার নথি, যা যাচাই হয়েছে তার নয়।
-
-## সংযুক্ত ধারণা
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — সমন্বিত মূল্যায়ন: এআই-প্রতিরোধী বিন্যাস (মৌখিক, নজরদারিযুক্ত, বদ্ধ-পুস্তক পরীক্ষা)
-
-## সংযুক্ত নিবন্ধ
-- [[llm-structured-assessment-diagnostic-quality-2026]] — এলএলএম রুব্রিক-উপমাত্রাগুলো প্রায়-অতিরিক্ত এবং প্রতিক্রিয়া কমই ভুল ধারণার নাম বলে (Zhao প্রমুখ ২০২৬)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise প্রতিবেদন: তিনটি যুক্তরাজ্যের বিশ্ববিদ্যালয়ের ৭৬১টি বিশ্ববিদ্যালয়-প্রবন্ধে এআই মার্কিং
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — বড় মাপের জাতীয় লেখা-মূল্যায়নে HITL এআই-সহায়ক স্কোরিং (Curi প্রমুখ ২০২৬)
-- [[llm-comparative-judgment-writing-screening-2026]] — সর্বজনীন লেখা-স্ক্রিনিংয়ে বড় ভাষা-মডেলের তুলনামূলক বিচারের বৈধতা
-- [[usher-faraon-who-grades-best-2026]] — প্রকল্পের গুণমান-স্তরজুড়ে ChatGPT, সমকক্ষ ও প্রশিক্ষক-গ্রেডিংয়ের তুলনা (Usher ও Faraon ২০২৬)
-- [[assessing-quality-ai-generated-exams-field-2025]] — এআই-উৎপন্ন পরীক্ষার গুণমান মূল্যায়ন: একটি বড় মাপের ক্ষেত্র-গবেষণা
-- [[automated-formative-assessments-a-level-sciences]] — এ-লেভেল বিজ্ঞানে স্বয়ংক্রিয় গঠনমূলক মূল্যায়ন
-- [[cong-confidence-asag-2026]] — আত্মবিশ্বাস-সচেতন স্বয়ংক্রিয় সংক্ষিপ্ত উত্তর গ্রেডিং
-- [[ai-scoring-language-bias-physics]] — পদার্থবিজ্ঞানে এআই স্কোরিংয়ের ভাষা-পক্ষপাত
-- [[llm-difficulty-calibration-programming-exams-2026]] — প্রোগ্রামিং পরীক্ষার জন্য এলএলএম-ভিত্তিক কাঠিন্য ক্রমাঙ্কন
-- [[choi-anchor-aes-prompting-2025]] — অ্যাঙ্কর-ভিত্তিক স্বয়ংক্রিয় প্রবন্ধ স্কোরিং প্রম্পটিং
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL গঠনমূলক মূল্যায়ন স্কোরিং
-- [[automated-grading-linux-bash-examinations-large-language-models]] — এলএলএম দিয়ে লিনাক্স ব্যাশ পরীক্ষার স্বয়ংক্রিয় গ্রেডিং
-- [[confidence-aware-student-drawing-assessment]] — শিক্ষার্থী-অঙ্কিত চিত্রের আত্মবিশ্বাস-সচেতন মূল্যায়ন
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: উৎপন্ন গণিত-চিত্রের স্বয়ংক্রিয় মূল্যায়ন
-- [[shap-llm-rationales-teaching-quality-assessment]] — রুব্রিক-ভিত্তিক শিক্ষকতা-গুণমান মূল্যায়নে SHAP বনাম এলএলএম যুক্তি
-- [[eeg-familiarity-automated-assessment-2026]] — শিক্ষার্থী-মূল্যায়ন স্বয়ংক্রিয় করা: ইইজি-ভিত্তিক পরিচিতি-পূর্বানুমান
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: এআই মূল্যায়ন রুব্রিক তৈরি
-- [[ai-assisted-instructor-supervised-grading-feedback]] — এআই-সহায়ক, প্রশিক্ষক-তদারক গ্রেডিং ও প্রতিক্রিয়া
-- [[ai-grading-handwritten-physics-2026]] — হাতে-লেখা পদার্থবিজ্ঞান মূল্যায়নের এআই গ্রেডিং (অলিম্পিয়াড)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — আমার কাজ কে গ্রেড করবে? উচ্চশিক্ষায় স্বচ্ছ এআই-সহায়ক লেখা-মূল্যায়ন নিয়ে শিক্ষার্থীদের দৃষ্টিভঙ্গি
-- [[tripartite-feedback-framework-ai-assessment-2026]] — ত্রিপক্ষীয় কাঠামো: জ্ঞানতাত্ত্বিক অবস্থা অনুযায়ী প্রতিক্রিয়া বাছাই এবং এআই-সম্পৃক্ততার পাঁচ সীমা-নীতি (Venetsanos ২০২৬)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — শিক্ষার্থী-জমায় লুকানো প্রম্পট-ইনজেকশনের রেড-টিম মূল্যায়ন, এআই-মধ্যস্থ গ্রেডিংয়ের বিপরীতে (Humble ২০২৬)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — আস্থা-নিয়ন্ত্রিত অনুমানসহ স্বয়ংক্রিয় শিক্ষক-মূল্যায়নের জন্য ব্যাখ্যা-নকশাকৃত এলএলএম কাঠামো (Li প্রমুখ ২০২৫)
-- [[gpt4-handwritten-math-exam-grading-2026]] — মানব পুনঃযাচাইয়ের জন্য আত্মবিশ্বাস-ফিল্টারসহ হাতে-লেখা আধা-মুক্ত গণিত গ্রেডিং
-- [[llm-grade-bands-calibration-bias-2026]] — বড় ভাষা-মডেল কি উচ্চশিক্ষার গ্রেড-ব্যান্ড পুনরুৎপাদন করতে পারে? প্রামাণিক শিক্ষার্থী-লেখায় ক্রমাঙ্কন ও গ্রেডিং-পক্ষপাতের আন্তঃ-মডেল গবেষণা
-- [[sophie-clinical-communication-ai-assessment-2026]] — স্কেলযোগ্য এআই-ভিত্তিক ক্লিনিক্যাল যোগাযোগ প্রশিক্ষণ ও স্বয়ংক্রিয় মূল্যায়ন
-- [[automated-constructive-assessment-hdr-llm-2026]] — বড় ভাষা-মডেল দিয়ে গঠনমূলক মূল্যায়ন স্বয়ংক্রিয় করা: ব্যবহারিক দক্ষতার স্কেলযোগ্য ও পুনরাবৃত্ত মূল্যায়নের দিকে
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — শিক্ষার্থী-লেখায় এলএলএম-উৎপন্ন প্রতিক্রিয়ার ফোকাস ও শিক্ষাতাত্ত্বিক অভিযোজনযোগ্যতা মূল্যায়ন
-- [[llm-graders-computer-science-exams-2026]] — এলএলএম গ্রেডাররা কোথায় সফল ও কোথায় ভাঙে: দুটি কম্পিউটার-বিজ্ঞান পরীক্ষার প্রমাণ
-- [[llm-automated-coding-teacher-pck-2026]] — বহু-এজেন্ট এলএলএম (GradeOpt) দিয়ে শিক্ষকদের মুক্ত-প্রান্তিক CK ও PCK উত্তর কোডিং, কোডিং ম্যানুয়ালের বিপরীতে প্রম্পট-পরিমার্জন থেকেই নির্ভরযোগ্যতা
-- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE পদার্থবিজ্ঞানে পরীক্ষা-বোর্ডের নম্বর ও শিক্ষক-বিচারের সঙ্গে তুলনায় এআই মার্কিং
-
-- [[llm-grading-assistants-public-health-2026]] — যুক্তি-মোড এলএলএম-মানব গ্রেডিং-মিল weighted kappa 0.269 থেকে 0.718-এ তুলেছে
-- [[machine-human-marking-agreement-institutions-2026]] — স্নাতক অ্যাসাইনমেন্ট মার্কিংয়ে যন্ত্র-মানব মিল মডেল, প্রম্পট ও প্রতিষ্ঠান-নির্দিষ্ট
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: এআই-বিচারিত মূল্যায়ন ও গ্রেডিং উন্নত করতে প্রথাগত ওয়ারগেমিং বিচার-পদ্ধতি ব্যবহার (Epstein ২০২৬)
-- [[porcaro-ai-grading-benchmark-2026]] — মিলের বাইরে: ২২টি প্রম্পটেড গ্রেডার এমন প্রোবের মুখোমুখি হয় যাদের সঠিক উত্তর জানা, এবং তাদের বেশিরভাগকেই প্রলুব্ধ করা যায় (Porcaro ২০২৬)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — কাজের বদলে শিক্ষাদান মূল্যায়ন, একত্রীকরণ ছাড়াই

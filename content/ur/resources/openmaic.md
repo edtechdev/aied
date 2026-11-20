@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -42,6 +43,3 @@ ai_assist:
 
 ## نوٹس
 MIT کے تحت لائسنس یافتہ، انگریزی اور چینی صارف رہنما کے ساتھ، اور Discord و Feishu پر فعال برادری۔ یہ ماڈل کے معاملے میں غیر جانبدار ہے: آپ کم از کم ایک LLM فراہم کنندہ کی کلید دیتے ہیں، اور اختیاری مقامی اجزاء (مقامی ماڈلز کے لیے Lemonade، تقریر کی شناخت کے لیے FunASR) اسٹیک کا زیادہ حصہ آفلائن چلانے دیتے ہیں — اس لیے ”مفت“ سافٹ ویئر کو بیان کرتا ہے، inference کے بل کو نہیں۔ اس کے پیچھے کا مقالہ *Journal of Computer Science and Technology* (2026، DOI 10.1007/s11390-025-6000-0) میں آیا، اور ستمبر 2026 تک ریپوزٹری پر 38,000 سے زیادہ stars تھے۔
-
-## منسلک تصورات
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]

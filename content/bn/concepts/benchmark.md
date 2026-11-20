@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -85,39 +87,3 @@ ai_assist:
 - **"লিডারবোর্ডের অবস্থান বলে দেয় একটি টিউটর কতটা ভালো।"** StudentBench **2,383 জন প্রাপ্তবয়স্ককে এআই টিউটরিং, সরাসরি বিশেষজ্ঞ মানব টিউটরিং ও একটি ভিডিও** শর্তে র‍্যান্ডমাইজ করে এবং অন্য সিস্টেমের বদলে মানব টিউটরদের বিপরীতে স্কোর করে। অন্য মডেলের সঙ্গে মাপা একটি বেঞ্চমার্ক এমন প্রশ্নের উত্তর দেয় যা কারও দরকার ছিল না।
 - **"অনুকরণকৃত ব্যক্তিত্ব টিউটর-মূল্যায়নের যথেষ্ট ভিত্তি।"** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] মূল্যায়নকে **অনুকরণকৃত ব্যক্তিত্বের বদলে নথিভুক্ত কেস-সাহিত্যে** ভিত্তি দেয়, **923টি সংলাপ** ব্যবহার করে। বানানো শিক্ষার্থী-ব্যক্তিত্ব একটি সিস্টেমকে এমন কেস পাস করতে দেয় যা ঘটেই না।
 - **"বিচারক যাচাই না করেই বেঞ্চমার্ক বিশ্বাস করা যায়।"** হ্যালুসিনেশন **উদ্ধারকৃত মুক্ত-লাইসেন্স চাঙ্কের বিপরীতে অন্তর্নিহিততা হিসেবে স্কোর করা হয়েছিল (বিশেষজ্ঞ বিচারের সঙ্গে κ = 0.76)** — স্কোর ব্যবহারের আগেই বিচারককে বিশেষজ্ঞের বিপরীতে যাচাই করা হয়েছিল। অযাচাইকৃত স্বয়ংক্রিয় বিচারক অজানা অর্থের সংখ্যা উৎপন্ন করে।
-
-## সংযুক্ত ধারণা
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: চ্যালেঞ্জিং আচরণসম্পন্ন শিক্ষার্থীদের ওপর LLM টিউটরদের মূল্যায়ন (Park প্রমুখ 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — 624-আইটেমের ইংরেজি দক্ষতা বেঞ্চমার্ক যা মডেল-সক্ষমতা ক্রমাঙ্কিত স্তর হিসেবে রিপোর্ট করে (Min প্রমুখ 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — মূল্যায়ন-যন্ত্র কি মানুষ ও LLM-এর জন্য একই জিনিস মাপে? (Strugatski প্রমুখ 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — শিক্ষাগত বেঞ্চমার্ক: LLM-এর শিক্ষাগত জ্ঞান (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM-ভিত্তিক নির্দেশনা-নকশা এজেন্টদের বেঞ্চমার্কিং
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — অন-প্রিমাইজ OER এআই জ্ঞানভিত্তি সহায়ক: বহু-মাত্রিক বেঞ্চমার্ক
-- [[authentic-products-authenticated-processes-2026]] — প্রামাণিক পণ্য থেকে প্রমাণিত প্রক্রিয়া: এআই-সমৃদ্ধ উচ্চশিক্ষায় প্রামাণিক মূল্যায়ন
-- [[llm-cognitive-diagnosis-handwritten-math]] — হাতে লেখা গণিত-কাজ থেকে শিক্ষার্থীদের সংজ্ঞানাত্মক দক্ষতা নির্ণয়ে বড় ভাষা-মডেলের বেঞ্চমার্কিং
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: অনুকরণকৃত শিক্ষার্থীসহ শিক্ষাগত LLM এজেন্টদের জন্য দীর্ঘ-হরাইজন বেঞ্চমার্ক
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই যুগে দায়বদ্ধ মূল্যায়ন: ভবিষ্যৎ-কেন্দ্রিক একটি সম্মেলনের মূল অন্তর্দৃষ্টি
-- [[anvil-ai-educational-animations]] — ANVIL: প্রভাষকদের জন্য উপমা ও ভিডিও
-- [[icle-plus-plus-essay-scoring]] — ICLE++: সামগ্রিক প্রবন্ধ-স্কোরিংয়ের জন্য সূক্ষ্ম-দানাদার বৈশিষ্ট্য মডেলিং
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: স্লাইড-নিরীক্ষার জন্য মাল্টিমোডাল LLM-এর বেঞ্চমার্কিং
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: উৎপন্ন গণিত-চিত্র মূল্যায়নের বেঞ্চমার্ক
-- [[eeg-familiarity-automated-assessment-2026]] — শিক্ষার্থী-মূল্যায়ন স্বয়ংক্রিয়করণ: EEG-ভিত্তিক পরিচিতি-পূর্বানুমান
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: তাত্ত্বিক কম্পিউটার বিজ্ঞান শিক্ষার জন্য উদ্ধার-বর্ধিত উৎপাদন -- অ্যালগরিদম-বিশ্লেষণ ও জটিলতা-তত্ত্বের জন্য একটি বিস্তৃত মূল্যায়ন কাঠামো
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: অ্যানোটেশন-প্রথম, কাজ-উৎপাদনশীল বেঞ্চমার্ক নির্মাণ, এবং 12টি শিল্প-চিত্রকল্প কাজ জুড়ে মাত্রা-স্তরের অ-অতিরিক্ততা (Zhu প্রমুখ 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমতুল্য GRE শিখন-লাভ দেয়
-- [[bloom-classifier-ai-assisted-questions-2026]] — নতুন এআই-সহায়তাপ্রাপ্ত শিক্ষাগত প্রশ্নের শিক্ষাগত মূল্যায়নে পূর্ব-প্রশিক্ষিত মডেলের মূল্যায়ন
-- [[llm-benchmark-secondary-science-topics-2026]] — মধ্য ও উচ্চ বিদ্যালয় বিজ্ঞান বিষয়ে LLM-এর বোঝাপড়ার একটি বেঞ্চমার্ক
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — এআই-টিউটর বেঞ্চমার্কের আটটি নকশা-নীতি, একটি মেট্রিক থেকে উদ্ভূত যা পুনরাবৃত্তিতে অপ্টিমাইজ হয়ে গিয়েছিল (Domínguez Figaredo ও Fernández De la Cruz 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,12 +46,10 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 
 - **생성주의.** [[generativism-learning-theory|생성주의]]는 새로운 학습 이론으로 제안되며, 행동주의·인지주의·[[constructivist|구성주의]]·연결주의가 각각 생성형 AI가 깨뜨리는 하나의 가정 위에 놓여 있다고 주장합니다. 즉 관찰 가능한 산출물이 학습을 증명한다는 것(행동주의), 인지적 조작이 학습자 안에서 일어난다는 것(인지주의), 의미가 공급되는 것이 아니라 구성된다는 것(구성주의), 어려운 부분이 기존 지식으로 항해하는 것이 아니라 그것을 생성하는 것이라는 것(연결주의)입니다. 이것은 네 구성 개념 — 인식론적 동반자 관계, 분산된 자율성, 생성적 리터러시, 적응적 메타인지 — 에 이름을 붙이고 각각에 대한 평가 지표를 도출하며, AI가 매개하는 학습을 위한 뚜렷한 이론 패러다임에 이름을 붙이려는 직접적인 시도입니다. 그것이 하지 않는 것은 실패할 수 있는 명제를 제시하는 것입니다. 즉 기존 증거를 종합하는 입장 논문이므로, 아래의 에이전티비즘과 달리 어휘와 측정 의제를 제공할 뿐 반증 가능한 이론은 제공하지 않습니다.
 
-
 - **AI 연결성.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]]는 돌봄의 윤리와 신생태 이론을 통해 AI 시대를 위한 연결성을 재구성하며, 심리적으로 실재하면서도 윤리적으로 비대칭인 유대인 "인공지능 연결성"을 세 차원과 검증을 기다리는 여섯 명제로 정의합니다.
 
 종합적 입장은 명제를 제시하는 경쟁적 시도를 하나 더합니다. 그것은 *합성 촉진*과 *저자됨의 유예* — 밀도 높게 목소리를 내면서도 저자 지어지지 않은 자아 — 에 이름을 붙이고, 한 인생 결정 서사의 평정된 저자됨과 일관성이 반대 방향으로 움직이는 교차 상호작용을 예측합니다([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **에이전티비즘.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]]는 에이전티비즘을 [[human-ai-collaboration|인간-AI 상호작용]]을 위한 중범위 학습 이론으로 제안하며, 학습을 AI와 함께하는 과제 완수의 성공이 아니라 인간 능력의 지속적 성장으로 정의하고, 네 메커니즘을 명시합니다. 즉 위임된 자율성, 인식론적 점검과 검증, 재구성적 내면화, 축소된 지원하에서의 전이입니다. 이 페이지의 다른 시도들과 그것을 갈라놓는 것은 반증 가능성입니다. 이것은 여섯 명제를 제시하는데, AI가 문제 틀짓기, 기준 설정, 정당화에 관한 학습자의 책임을 보존할 때 그것이 답을 공급할 때보다 학습이 더 강하며, 검증을 요구하는 것이 지연된 수행을 향상시키는 반면 재구성 없는 되풀이되는 저마찰 위임은 학습자의 자신의 유능감에 관한 보정을 약화시켜야 한다는 것이 포함됩니다.
-
 
 교사 측 이론화는 이제 같은 검증 가능성 약속을 합니다. 역량–결정 모형은 [[tpack|AI-TPACK]] 역량을 태도와 지각된 행동 통제의 상류에 놓고 네 반증 조건 — 매개의 실패, 판별 붕괴, 조절 무효, 맥락 중복 — 에 이름을 붙이지만, 모형은 검정되지 않은 채 남아 있습니다([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -122,54 +122,3 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 **"확립된 이론을 AI에 적용하는 것이 이론 개발이다."** 이 페이지 자체의 이론 사용 문제는 그렇지 않다고 말합니다. 적용은 발전이 아니며, 이 분야의 되풀이되는 양상은 검증 가능한 예측이 아니라 어휘로 쓰인 차용된 구성 개념입니다. 반증 가능한 차이를 만들어 내지 못하는 차용된 틀은 이론이 아니라 장식이기 때문에 이 구별이 중요합니다.
 
 **"AI의 교수법적 기능에 관한 기존 유형론이 이 시스템들이 하는 일을 이미 포괄한다."** 그것들은 그 상당 부분을 포괄하지 못합니다. 분류 가능한 응용 기능을 지닌 154편의 출판물 가운데 **90편(58.4%)이 선행 틀의 네 범주를 벗어났으며**, 새로운 작업이 기능을 위임된 통제, 인식론적 위치, 내장된 교수법과 교차시키는 이유가 여기에 있습니다. 다섯 건 중 거의 세 건을 오분류하는 유형론은 이 분야의 공통 어휘가 될 수 없으며, 그 간극은 논문의 결함이 아니라 현상에 관한 발견입니다.
-
-## 연결된 개념
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## 연결된 문서
-- [[yan-agentivism-learning-theory-ai-2026]] — 네 메커니즘과 여섯 검증 가능 명제를 지닌 인간-AI 상호작용을 위한 중범위 학습 이론(Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 기만적 과잉 일반화: 적응적 숙달이 학습자가 언제 행동을 보류할지를 알기 전에 연습을 멈출 수 있다(An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — 새로운 학습 이론으로서의 생성주의
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 인식론적 공동 자율성의 이론을 향하여
-- [[du-yuan-epistemic-dependence-2026]] — 관계적 인식론적 자율성과 생산적 의존/해로운 의존 경계(Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — 결여된 인지 기저선(ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지와 전문성의 갱신
-- [[genai-performance-vs-learning]] — 수행 대 학습
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 인식론적 AI 리터러시(EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — 자격과 인지 관리
-- [[ai-cognitive-partner-co-regulation-learning]] — 공동 조절에서의 인지적 동반자로서의 AI
-- [[epistemic-proactivity-math]] — 수학에서의 인식론적 선제성
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 기능 유형론의 확장: 분류 가능한 154편 가운데 90편(58.4%)이 원래의 네 범주 밖에 있다(Ranieri & Biagini 2026)
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — 인지적 동반자 관계 순환
-- [[friction-paradox-generative-ai-education-abroad-2026]] — 해외 교육에서 해석적 자율성에 적용된 바람직한 어려움과 생산적 실패
-- [[strydom-human-gai-paradigms-2026]] — 인식론적 신념에 토대를 둔 일곱 인간-GAI 참여 패러다임
-- [[critical-thinking-paradox-genai-learning-2026]] — 비판적 사고 역설
-- [[dollinger-equitable-assessment-ai-2026]] — GenAI 아래에서의 공정한 평가
-- [[shaw-nave-cognitive-surrender-2026]] — 삼중 시스템 이론과 인지 항복: AI가 인간 추론을 어떻게 재구성하는가(Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — 생성형 AI 시대에 탐구 공동체를 재개념화하기
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 대학 교사들의 GAI 경험과 인식: 취약성, 평가 재고, 위험에 처한 학생 학습(Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 감사 가능한 코딩을 위한 서술 기반 스키마
-- [[metacognitive-ownership-human-ai-regulation-2026]] — 메타인지적 소유: 구성 개념 정의, 경계, 연구 의제
-
-- [[synthetic-position-self-authorship-2026]] — 합성적 입장: 합성 촉진과 저자됨의 유예에 이름을 붙이는 교차 예측을 지닌 대화적 자아의 시도
-- [[capability-decision-model-teacher-readiness-2026]] — 네 반증 조건을 지닌 반증 가능한 역량 우선 교사 준비 모형
-- [[ai-connectedness-adolescent-mental-health-2026]] — 인공지능 연결성: 후일 검정을 위한 여섯 반증 가능 명제를 지닌 세 차원 구성 개념
-
-- [[webb-pck-genai-2026]] — 세 가지 삽화와 새로운 구성개념, 의사-cPCK: 공동체적 검증을 흉내 내면서 보증이 없는 산출물(Webb 등 2026)

@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -101,46 +103,3 @@ Los hallazgos solo importan una vez que llegan a la enseñanza, y ese recorrido 
 - **«Más ejemplos son más seguros.»** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] tratan la ratio de ejemplos y problemas como una **interacción contenido-tratamiento**, y en un experimento 2×2 el óptimo **dependía del contenido**. No hay una ratio correcta en general, así que una plantilla instruccional fija es una apuesta contra una interacción.
 - **«Corregir la [[misconceptions|idea errónea]] es cuestión de decirle al estudiantado la respuesta correcta.»** Una práctica breve de no actuar con [[feedback]] que nombra la restricción ausente redujo la aplicación errónea a **0,0%-23,1% (h de Cohen 1,70-2,44)**, y un análisis secundario de **trece conjuntos de datos de *Decimal Point* de K-12** encontró el mismo patrón estructural. La intervención eficaz fue la práctica discriminativa con retroalimentación específica, y no la corrección por afirmación, que es lo que el trabajo sobre [[refutation-text|textos de refutación]] establece en general.
 - **«Un nivel de Bloom más alto significa más [[active-learning|aprendizaje activo]].»** El tipo de aprendizaje siguió el nivel del resultado pretendido, con la **adquisición bajando de alrededor del 50% de las actividades en el nivel 1 de Bloom a cerca del 20% en el nivel 6**. La demanda cognitiva y el tipo de actividad se mueven juntos pero no son el mismo eje, así que etiquetar una tarea por su nivel de Bloom no dice qué hará el estudiantado con ella.
-
-## Conceptos conectados
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Artículos conectados
-
-- [[competent-generative-ai-use-measures-review-2026]] — Revisión y metaanálisis exploratorio de las medidas para el uso competente de la IA generativa (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — La corrección que enmascara una regla incompleta: reglas de parada por dominio en el aprendizaje adaptativo (An, McLaren y Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Auditoría contrafactual de las señales demográficas en la evaluación del estudiantado con LLM (Rooein, Benedetto y Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Cadenas de Markov y minería de patrones sobre 29.064 actividades en 554 cursos (Divjak, Svetec y Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Una autocomprobación que preserva la privacidad y no es diagnóstica para la delegación asociada a la IA (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Gobernanza de cero disparos: la IA de propósito general en la política, leída a través de la base de código de Redbox (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Por qué la mejor proporción de ejemplos y problemas depende del contenido (Rachatasumrit, Koedinger y Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — El profesorado diseña chatbots de experto acotado, con delegación selectiva de la instrucción (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK de IA generativa del profesorado universitario: conocimiento del contenido sólido, conocimiento integrado de la tecnología débil (Sutedjo, Chowdhury y Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: un ensayo aleatorizado de tutoría en directo humano-IA a escala (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un Delphi preregistrado con 30 expertos sobre qué procesos de aprendizaje mejora la IA generativa y cuáles amenaza
-- [[three-pathways-student-ai-interaction-2026]] — Una tipología de la interacción estudiantado-IA: 64% pasiva o transaccional, 36% diálogo estratégico
-- [[agent-type-feedback-style-self-directed-learning-2026]] — El estilo de retroalimentación, y no el tipo de agente, movió la implicación autorregulada
-- [[metacognitive-processes-genai-interaction-logs-2026]] — La evidencia de proceso depende del canal
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — La distribución del uso de IA generativa es una elección institucional
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — La dependencia intrapersonal precede a una caída de la agencia percibida
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — El análisis secuencial de retardos y la minería de procesos situaron la IA en un centro de interacción grupal o en una vía lineal según la composición de concepciones previas (Wang et al. 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -69,29 +71,3 @@ RL 支撑了现代 [[agentic-ai]] 与 [[intelligent-tutoring]] 设计的相当�
 **"地平线越长就越好。"** 它们使更短地平线做不到的事成为可能，同时要求奖励在整段序列上都正确。[[residencyrl-clinical-rl-training-2026|ResidencyRL]]优化的是整整 **60 轮的临床问诊**，远超同期对话系统 ≤12 轮的地平线，这提高了一个设定错误的目标函数所要付的代价，而不是降低它。
 
 **"因为教学是序列性的，所以 RL 是适合辅导的形式化。"** 序列性是必要的，但不是充分的；约束性条件是奖励的效度。一个设定良好的目标配一个弱策略，胜过一个强策略对着一个错误的目标。
-
-## 关联概念
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — 总括：AI 技术与方法（模型、LLM 训练、机器人、RAG、智能体）
-
-## 关联文章
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following：LearnLM 以 RLHF 改进教学指令遵循
-- [[adaptive-scaffolding-cognitive-engagement-its]] — 智能辅导系统中的自适应 ICAP 脚手架（BKT 对 DRL）
-- [[riedmann-reinforcement-learning-education-review-2026]]

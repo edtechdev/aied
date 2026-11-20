@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -118,47 +120,3 @@ Ujembamba huo ni muhimu. Waandishi wa Theelen wanauweka wazi: ufasaha na hisia y
 **"Muonekano wa avatar ni wa mapambo."** Ishara za utambulisho zilibadilisha makadirio ya uaminifu na utekelezaji halisi wa mwongozo, huku adhabu zikiongezeka kwa avatar wanawake weusi wazima.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Usanidi ni uamuzi wa kielimu na wa usawa.
 
 **"Mgonjwa aliyeigwa ni mgonjwa wa kawaida, bila gharama."** Wanasaikolojia wanaojiandaa waligundua mgonjwa wao wa mtandaoni kuwa mshirikishi na tayari ameendelea katika tiba, kesi "bora" inayowakilisha kidogo ugumu wa kitabia.([[ai-psychotherapy-training-avatars]]) Gharama inapungua; uhalali wa kesi haufuati kiotomatiki.
-
-## Dhana zinazohusiana
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Makala zinazohusiana
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Ishara za utambulisho wa avatar hubadilisha uaminifu na utekelezaji wa mwongozo (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Avatar za wanafunzi katika mazungumzo ya elimu ya walimu inayotegemea mazoezi (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Uundaji na uripoti wa deepfake kwa jinsia katika warsha ya uelewa wa AI
-- [[elevate-genai-virtual-tutors]] — Walimu wa kibinafsi wa avatar ya 3D ya ndani kwanza wenye tabaka la utawala wa mwalimu (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Wagonjwa wa avatar wenye hakimu wa LLM kwa mawasiliano ya kimatibabu
-- [[genai-simulate-patient-history-pbl-2026]] — Avatar ya mgonjwa wa genAI katika mafunzo ya kuchukua historia ya PBL
-- [[ai-psychotherapy-training-avatars]] — Avatar za wagonjwa kwa mazoezi ya uaminifu wa ACT katika mafunzo ya saikoterapia
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Mawakala wa kielimu katika uhalisia uliopanuliwa: uwepo, uhalisi na mzigo (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Kuigiza kunakopitia roboti kwa avatar inayoendeshwa kama kikaragosi kwa kuingilia kama mtazamaji
-- [[personalized-ai-generated-videos-preference-2026]] — Ubinafsishaji wa video ya mwalimu aliyenakiliwa na upendeleo wa wanafunzi
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Mfumo wa tabaka nne unaotenganisha uwakilishi na wakala katika uigaji wa darasa
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Wakala wa sauti wa mazungumzo anayependekezwa kwa mahojiano ya maoni ya kozi
-- [[trikonet-trivalence-co-creativity-2026]] — Avatar za kielimu za ushirikishaji katika mitandao ya kijamii na kiufundi (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 51.7% tu ya wanafunzi 654 walichukua majukumu ya kibinadamu waliotolewa; mmoja aliiita mashine ya maoni

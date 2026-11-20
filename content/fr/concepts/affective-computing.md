@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
+connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -41,7 +43,6 @@ ai_assist:
 ## Percevoir l'émotion pour adapter l'enseignement
 
 L'informatique affective vise à rendre les systèmes d'IA conscients des émotions, afin qu'ils puissent répondre à ce que ressentent les apprenants, et pas seulement à ce qu'ils font. En éducation, cela signifie percevoir la frustration, la confusion, la confiance, l'ennui ou l'engagement, et adapter l'enseignement en conséquence. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] illustre cette approche en modélisant l'affect à partir de deux modalités — le texte conversationnel et l'expression faciale en temps réel — et en faisant correspondre l'état émotionnel agrégé à des stratégies [[pedagogy|pédagogiques]] avant de rédiger les [[prompt-engineering|invites]] adressées au tuteur.
-
 
 Les signaux eux-mêmes sont ambigus : un seul canal expressif ne permet pas de distinguer de manière fiable la détresse, l'effort, l'embarras, la fatigue ou la présentation stratégique de soi, sans la personne, la tâche, la culture et la situation qui les ont produits — une « interprétation contextuelle insuffisante » — si bien qu'un classificateur qui ne lit que le signal visible risque de produire des recommandations plausibles mais pédagogiquement erronées ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
@@ -70,33 +71,3 @@ L'informatique affective se situe à l'intersection du [[affective-tutoring|tuto
 - **« Plus d'engagement signifie plus d'apprentissage. »** Une étude de détection cérébrale a constaté qu'une **interface contrainte et adaptative élevait l'engagement cognitif (p = 0,018) tandis que l'agent conversationnel sans restriction produisait de meilleurs gains d'apprentissage**. L'interface qui engageait davantage enseignait moins. L'engagement n'est pas un substitut de l'apprentissage, et l'optimiser peut déplacer le résultat dans le mauvais sens.
 - **« Le soutien émotionnel est un ajout doux au soutien cognitif. »** Dans un petit [[rct|essai randomisé]] en classe (**42 participants ayant terminé sur 252**), la version « pleine conscience » a atteint **un apprentissage de l'algèbre similaire en moins de temps et avec moins d'indices demandés** que le soutien cognitif seul. La composante affective a changé l'efficience plutôt que le plafond, ce qui est une affirmation différente et plus intéressante que « cela aide l'apprentissage ».
 - **« Les constats affectifs sur petits échantillons se transfèrent. »** 42 personnes ayant terminé sur 252 est un dispositif à la fois encourageant et fragile : le taux d'achèvement est lui-même un constat sur qui a persévéré, et l'effet est borné à ce groupe.
-
-## Concepts liés
-- [[anxiety-and-stress]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[k-12]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[learning-design]]
-- [[affective-tutoring]]
-- [[student-modeling]]
-- [[math-education]]
-- [[open-source]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-sycophancy]]
-- [[social-emotional-learning]] — Apprentissage socioémotionnel
-
-## Articles liés
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Réagir aux alertes émotionnelles générées par l'IA : l'intervention des enseignants et l'engagement des élèves dans la classe de mathématiques
-- [[wang-teacher-student-centered-agents-physics-2026]] — La perception de l'empathie par les rôles d'agents conçus par l'invite dans l'apprentissage de la physique (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Au-delà de la résolution de problèmes : les grands modèles de langue pour un soutien émotionnel et réflexif dans l'apprentissage des mathématiques
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Évaluation de la qualité de la classe tenant compte des émotions par un suivi en temps réel fondé sur l'IoT (Nguyen et al. 2026)
-- [[ai-campus-wellbeing-tools]]
-- [[ai-fatigue-academic-contexts]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate : évaluation de l'anxiété des étudiants augmentée par les LLM (2026)
-- [[socratic-nuclear-ai-learning]] — Socrate est devenu nucléaire : comparer les stratégies d'interaction pour l'IA dans l'apprentissage
-
-- [[ai-emotion-regulation-sport-exercise-2026]] — Recadrer la régulation des émotions assistée par l'IA : les signaux ont besoin de contexte, non d'une interprétation autonome

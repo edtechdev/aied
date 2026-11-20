@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -42,6 +43,3 @@ Najjasniji je primjer `teach`, koji radi kroz više sesija i radnu mapu tretira 
 ## Što treba znati prije primjene
 
 Sve je [[open-source|otvorenog koda]] pod MIT licencijom i besplatno kao polazište za lokalnu [[ai-literacy|pismenost o umjetnoj inteligenciji]] ili [[self-directed-learning|samostalno učenje]]. Prihvaćenost je velika i brza: otprilike 270.000 zvjezdica i 23.000 forkova pri provjeri u rujnu 2026., s posljednjim commitom 18. rujna 2026. Napomena se odnosi na opseg. Vještine pretpostavljaju radni kontekst [[human-ai-collaboration|inženjera]], razvrstane su u skupine za inženjering, produktivnost, zastarjelo i u izradi, pa su neki zapisi izričito nedovršeni ili povučeni, a README je ujedno i prijava na newsletter. Vještine poučavanja i ispitivanja tretirajte kao prenosivi dio i očekujte da ćete svaku prepisati prije nego je stavite pred studente.
-
-## Povezani pojmovi
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

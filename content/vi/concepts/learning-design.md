@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -124,72 +126,3 @@ Việc thiết kế điều tiết hiệu ứng mạnh hơn công nghệ trong t
 - **"Lập kế hoạch bài học bằng AI trả lại thời gian cho giáo viên."** Thời gian lập kế hoạch có giảm, từ 3.32 giờ mỗi tuần xuống 2.51 giờ với công cụ, nhưng **giáo viên ở mức trung vị chỉ lập kế hoạch từ đầu cho 21% đến 40% số bài học**. Thời gian được tiết kiệm và việc lập kế hoạch không trở nên kỹ lưỡng hơn đáng kể; phần tiết kiệm được tích lũy lại thay vì được tái đầu tư.
 - **"Đồng thiết kế với AI đã có bằng chứng vững chắc."** Một tổng quan hệ thống về [[wang-teacher-ai-co-design-review-2026|việc giáo viên và AI cùng thiết kế các nhiệm vụ học tập]] **xác nhận mô thức này ở quy mô 28 nghiên cứu**, điều mô tả một thực hành nhất quán chứ không chứng minh các kết quả vượt trội.
 - **"Rubric là một đầu vào cố định."** Rubric vận hành như một **giao diện trung gian giữa ý định sư phạm của con người và suy luận của máy**: chính việc coi các tiêu chí đánh giá là **có thể sửa đổi** mới cho phép công cụ mang ý định của nhà giáo dục. Một rubric cố định chuyển cách định khung mặc định của máy vào việc đánh giá.
-
-## Khái niệm liên quan
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - Đối tác sư phạm
-- [[online-teaching-and-learning]] - Dạy và học trực tuyến
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - Trang ôm trùm: các phương pháp sư phạm và chiến lược giảng dạy trong giáo dục AI
-- [[stakeholders]] - Trang ôm trùm: con người và các đối tượng trong giáo dục AI (người học, giáo viên, nhà thiết kế, nhà quản lý, nhà hoạch định chính sách)
-
-## Bài viết liên quan
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Một khoản tiết kiệm thời gian lập kế hoạch được đo lường, đi kèm phát hiện rằng giáo viên chỉ lập kế hoạch từ đầu cho 21% đến 40% số bài học
-- [[powerful-learning-with-emerging-technology-2025]] — Học tập mạnh mẽ với công nghệ mới nổi
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Phân tích học tập và GenAI trong việc ra quyết định thiết kế học tập
-- [[tang-chatbots-learning-design-2026]] — Sử dụng chatbot trong thiết kế học tập: nhà thiết kế dừng lại ở kết quả học tập và sư phạm thay vì tạo nội dung (Tang và cộng sự 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Các mô thức tương tác giữa giáo viên và AI trong thiết kế bài học theo kinh nghiệm và mức thành thạo AI (Choi và cộng sự 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI trong giáo dục đại học: sự tham gia và vai trò trung gian của các phương pháp giảng dạy
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Phân loại (đối tượng biên) để phân loại các hoạt động học tập với GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Tác tử web AI: tác tử web tự trị đánh giá các thiết kế bài học và dự báo việc sinh viên bỏ học trước khi sinh viên tham gia (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: một khuôn khổ cho việc tăng cường AI được kích hoạt về mặt nhận thức trong vật lý
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Thiết kế để với tới: bảy đòn bẩy và sinh viên một mình với AI
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Khi nói không tạo ra video tốt hơn: kiểm soát kép cho việc tạo nội dung AI có nền tảng sư phạm
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI hỗ trợ thiết kế bài toán thất bại sinh lợi
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI và thực tiễn thiết kế giảng dạy: một tổng quan hệ thống (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Gia sư thông minh dựa trên đồ thị cho các lĩnh vực động (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Làm cho AI trở nên khó chịu có chủ đích: sự ràng buộc trong viết có hỗ trợ AI (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Mô hình lớp học thông minh và vòng lặp D-T-E cải thiện năng lực thiết kế giảng dạy trong chương trình thạc sĩ giáo dục toán (Zhu và cộng sự 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Nền tảng được hỗ trợ bởi AI tạo các bài toán mô hình hóa (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Giáo viên và AI cùng thiết kế các nhiệm vụ học tập: xu hướng và góc nhìn (Wang và cộng sự 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM như những tác tử của thiết kế sư phạm lặp lại
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI như một người cộng tác không đáng tin cậy trong đồng thiết kế
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Phân tích tổng hợp ba cấp: GenAI vận hành qua phản hồi và thiết kế do người học dẫn dắt, chứ không phải một can thiệp đồng nhất (Zhang và cộng sự 2026)
-- [[williams-coding-curriculum-critique-2026]] — Lập trình chương trình: phê bình "Cách AI để lại dấu ấn trên thiết kế giảng dạy"
-- [[chng-ai-instructional-design-2023]] — Cách AI để lại dấu ấn trên thiết kế giảng dạy

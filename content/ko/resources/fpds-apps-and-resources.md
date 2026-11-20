@@ -36,6 +36,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -53,7 +54,3 @@ Hillsborough College의 교수와 [[educational-development]] 교수진, 그리�
 ## 참고 사항과 주의점
 
 읽는 데 계정이 필요하지 않으며, 연결된 Canvas 강좌와 점검 목록은 공개되어 있습니다. Playlab 코치와 Gemini Gems 및 노트북은 계정이 필요한 제3자 서비스입니다. 카드는 `apps.json`에서 렌더링되므로 전체 목록에는 JavaScript가 필요하고, 스크립트 없는 대체 표시는 열다섯 개 중 여덟 개의 이름만 제시합니다. 짧은 링크 `tinyurl.com/fpdapps`와 헤더 QR 코드로 휴대폰에서 열 수 있습니다. 저장소는 MIT 라이선스 소프트웨어이며, 연결된 가이드는 각자의 라이선스를 따르고, 그중 Pressbooks 책은 비상업적 Creative Commons 라이선스입니다. 공개 일정이 없으므로 페이지는 통지 없이 바뀝니다.
-
-## 연결된 개념
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

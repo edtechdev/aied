@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -89,37 +91,3 @@ Grapu za maarifa zinaunganisha na [[learning-design]] (kufafanua kile cha kufund
 
 - Ripoti tofauti za grafu na msingi katika ngazi ya algoriti. "Inayotegemea grafu ya maarifa" si tiba; mkakati wa upitishaji ndio.
 - Ripoti ramani za aksiomoni-kwa-chanzo na utenganishaji wa tasnonomia pamoja na usahihi na ukumbukaji, kwa kuwa kushindwa kwa ukaguzi hapa hakukuonekana kwa vipimo vya kawaida vya grafu.
-
-## Dhana Zilizounganishwa
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — Chombo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, robotiiki, RAG, wakala)
-- [[recommender-systems-and-learning-paths]]
-
-## Makala Zilizounganishwa
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Grafu iliyojengwa na mchunguzi ya aksioma 1,455 za kifasahi yenye ukaguzi wa muundo na hakuna rekodi ya asili (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Mfano wa maarifa mseto wa tabaka unaoelekezwa na ontolojia kwa e-learning inayoweza kubinafsishwa
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Grapu za Learnity kwa kujifunza maisha yote
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: ngazi za msaada za uundaji wa hadithi
-- [[quantum-education-its]] — Uwalimuaji mahiri wa elimu ya quantum (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Grapu za maarifa za njia nyingi kwa mawazo ya elimu
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: kulinganisha kozi za CS
-- [[proprl-prerequisite-relation-learning]] — ProPrL: kujifunza uhusiano wa mahitaji ya awali
-- [[knowledge-gap-detection-ai-tas]] — Kugundua pengo la maarifa katika wasaidizi wa kufundisha wa AI
-- [[visual-query-tracer-declarative-logic-learning]] — Mfuatiliaji wa maswali wa kuona kwa kujifunza mantiki ya tamko
-- [[fair-explainable-edu-recommendations]] — Mapendekezo ya elimu ya haki na yanayoweza kueleweka
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Mapendekezo ya kuvuka-masuala ya CF–KG mseto kwa rasilimali za kufundisha za njia nyingi
-- [[xie-hillm-cd-2026]] — HiLLM-CD: utambuzi wa kiakili unaoendeshwa na LLM
-- [[graph-its-adaptive-algorithms-2026]] — Uwalimuaji Mahiri unaoelekezwa na Grafu kwa Masuala Yanayobadilika (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Uzalishaji wa Mazingira ya Kujifunza

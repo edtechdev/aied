@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -47,12 +48,3 @@ Undervisere i førsteårs skrivekurs og engelskinstitutter som vil ha AI-tilbake
 ## Merknader og forbehold
 
 Nettstedet rapporterer 12 000+ studenter, 700+ kurs og 41 000+ gjennomgåtte essay – tall fra leverandøren, ikke en uavhengig revisjon. FERPA-samsvar, GDPR-beredskap og tilgjengelighet er likeledes leverandørens egne påstander; essay går via Azure OpenAI, og nettstedet oppgir at de ikke brukes til å trene modeller, noe et distrikt bør bekrefte i databehandleravtalen i stedet for å ta fra markedsføringssiden. Prisingen er freemium og varierer etter målgruppe: et gratis første semester for nye undervisere (på forespørsel, begrenset til tre per skole), rundt \$12–15 per student per semester etterpå, og et betalt nivå per gjennomgang for enkeltstudenter med den første gjennomgangen gratis. Sammenligningstabellen mot ChatGPT Plus, Packback og Grammarly er leverandørens egen. Et partnerskap med UC Davis i PAIRR-prosjektet er et forskningssamarbeid, ikke publiserte bevis for at plattformen forbedrer skriving.
-
-## Tilknyttede begreper
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

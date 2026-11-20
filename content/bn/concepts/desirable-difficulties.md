@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -104,50 +106,3 @@ TutorMoments কাম্য-কঠিনতা নীতিকে মূল্�
 **"জ্ঞানভার ঘর্ষণ ও উৎপাদনশীল সংগ্রাম একই ধারণা।"** তারা ভিন্ন সাহিত্য থেকে আসে এবং ভিন্ন পূর্বাভাস দেয়। উৎপাদনশীল সংগ্রাম বোঝাপড়া গড়ে তোলা শ্রমসাধ্য অর্থ-নির্মাণ নিয়ে; জ্ঞানভার ঘর্ষণ একটি কাজ যা দাবি করে এবং শিক্ষার্থীর বর্তমান সম্পদ যা সমর্থন করে তার অমিল নিয়ে। তাদের সমার্থক ধরলে নির্ণায়ক প্রশ্নটি হারিয়ে যায় — এই শিক্ষার্থী কি এমনভাবে সংগ্রাম করছে যা গড়ে তোলে, নাকি এমনভাবে আটকে আছে যা কেবল খরচ করে?
 
 **"সংগ্রাম অপসারণ তাৎক্ষণিক কর্মক্ষমতা বাড়ালে হস্তক্ষেপটি কাজ করেছে।"** এই পাতাটি যে বিনিময় নিয়ে, সেটিই এটা: সহায়তার উপস্থিতিতে মাপা কর্মক্ষমতা পরবর্তী অসহায়তামূলক কর্মক্ষমতার তুলনায় পদ্ধতিগতভাবে স্ফীত। শ্রম কমায় এমন যেকোনো এআই-এর মূল্যায়নকে বিলম্বে ও উপকরণ ছাড়া মাপতে হবে, নাহলে এটি অনুশীলন অপসারণকে শেখার উৎপাদন হিসেবে প্রতিবেদন করবে।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — কেন শ্রমসাধ্য ক্রম সাবলীল ক্রমের চেয়ে ভালো করে
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — যে ব্যর্থতা উৎপাদনশীল ঘর্ষণ প্রতিরোধ করার জন্য নকশাকৃত
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — উৎপাদনশীল ব্যর্থতা
-- [[retrieval-spacing-interleaving]] — যে পরিচালনমূলক কৌশলগুলো এই নীতি বাস্তবায়ন করে: পরীক্ষণ-প্রভাব, ব্যবধান, অন্তর্স্থাপন
-
-## সংযুক্ত নিবন্ধ
-
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — জ্ঞানীয় ক্রাচ হিসেবে ChatGPT: কাম্য কঠিনতা অপসারণের একটি বিলম্বিত এলোমেলো পরীক্ষা (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — ঘর্ষণহীন এআই-এর বিরুদ্ধে: উপকারী ঘর্ষণ সংরক্ষণের উল্টো-U যুক্তি
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI উপকরণে অন্তর্নির্মিত উৎপাদনশীল ঘর্ষণ শেখাকে সমর্থন করে
-- [[zhang-tutormoments-2026]] — যখন সাহায্য অসহায়ক: উৎপাদনশীল সংগ্রামের জন্য এআই টিউটর মূল্যায়ন
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শেখা সমর্থনে এআই ব্যবস্থার নকশা
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য LLM-এর শিক্ষাগত পরিচালনা
-- [[wang-safety-gap-productive-struggle-2026]] — নিরাপত্তা ব্যবধান: উৎপাদনশীল সংগ্রাম পুনরুদ্ধার
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF সমস্যা নকশায় সহায়তায় এআই
-- [[making-ai-annoying-constrained-writing-2026]] — ইচ্ছাকৃতভাবে এআই-কে বিরক্তিকর করা: এআই-সমর্থিত লেখায় সীমাবদ্ধতা (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — প্রতিফলনমূলক এআই সম্পৃক্ততায় দক্ষতা-ধারক নির্ভরতার দিকে খোলা প্রশ্ন
-- [[structured-reflection-ai-explanatory-feedback-2026]] — ইতিমধ্যে বিস্তারিত এআই ফিডব্যাকে স্ব-ব্যাখ্যা প্রম্পট: সময় দ্বিগুণ, শেখার লাভ নেই (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — উৎপাদক এআই শেখার শাস্তি: বাড়ির কাজের স্কোর বাড়ে অথচ পরীক্ষার স্কোর কমে, সম্পূর্ণ খরচ দুই বছর পরে (Strömberg, Lei & Wu 2026)

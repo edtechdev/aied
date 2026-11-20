@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -79,32 +81,3 @@ Nachhaltigkeit und KI in der Bildung sitzt an der Schnittmenge von [[ethics|Ethi
 - **„Abstraktes KI-Wissen sagt die Fähigkeit von Lehrenden vorher, Nachhaltigkeit zu lehren.“** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] fand, dass der **praktische Einsatz von KI** durch Lehrende in naturwissenschaftlichen und grün-energetischen Kontexten und ihre **Beteiligung an der Entwicklung BNE-ausgerichteter Materialien** — **mehr als abstraktes KI-Wissen oder Einstellungen** — ihre Fähigkeit vorhersagten. Über KI Bescheid zu wissen und mit ihr bauen zu können, divergierten, und der praktische Weg sagte mehr vorher.
 - **„KI-assistiertes Unterrichtsdesign unter einer Nachhaltigkeitspädagogik erzeugt Nachhaltigkeitspädagogik.“** Dieselbe Arbeit fand, dass KI-assistiertes [[learning-design|Unterrichtsdesign]] unter den Beschränkungen der Nachhaltigkeitsentwicklungspädagogik das Design auf spezifische Weisen **beschränkte**, statt es zu erweitern. Ein auf konventionellen Materialien trainiertes Modell reproduziert konventionelle Rahmungen, sofern die Designarbeit nicht dagegen korrigiert.
 - **„Nachhaltigkeit ist ein Thema, kein querschneidendes Anliegen.“** Weil beide Wege über Ebenen hinweg laufen, erscheint Nachhaltigkeit in der [[higher-ed|Hochschulbildung]], in K-12 und in professionellen Kontexten — was bedeutet, dass sie ein grundlegendes Thema ist, das innerhalb jeder Disziplin adressiert werden muss, statt als separates Fach gelehrt zu werden.
-
-## Verbundene Konzepte
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Verbundene Artikel
-
-- [[lim-ai-wearables-environmental-empathy-2024]] — Wearable EDA plus KI-generierte Bilder von Umweltverschmutzung erhöhten das Arousal, ohne Umweltverantwortung zu messen (Lim et al., 2024)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt eines Betrugsrahmens institutionelle GenAI-Entscheidungen leiten sollte
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping Review zu KI für Nachhaltigkeit und nachhaltiger KI in der Hochschulbildung
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Zugang zu nachhaltiger Bildung und KI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Framework für nachhaltige Ingenieurbildung
-- [[riandi-teacher-ai-green-energy-education-2026]] — Einbindung von Lehrkräften in die KI-Integration für Bildung zu grüner Energie
-- [[talebzadeh-ai-green-education-2026]] — Die Rolle von KI in grüner Bildung
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Nachhaltige KI-Wissensbasis-Assistenten
-- [[llm-environmental-impact-student-usage-2026]] — Umweltauswirkungen der LLM-Nutzung
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Nachhaltiges Lernen durch verkörperte Intelligenz fördern
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR zur KI-Bildung vor der Universität (SDG-4-Rahmung)

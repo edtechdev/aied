@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -84,28 +86,3 @@ ai_assist:
 - **“网络分析因为它是计算性的所以客观。”** **编码是基础**：所有网络变体都依赖把原始数据（话语、事件、关系）可靠地编码为离散节点，而自动编码继承的是设定定义者的定义。[[visualization|可视化]]看起来像涌现的结构，而它的节点是解释性选择。
 - **“网络结构的变化本身自动就是学习增益。”** 在一场有**二十名混合学科研究生**的案例讨论中，**规模为 3 的共享词项份额从 5.2% 升到 8.0%**，而**内容词元降到约 0.65 倍**。两项结构测量朝相反方向移动，因此“网络变了”在你说明沿哪一项测量、为何重要之前不是一个发现。
 - **“共享更多词项意味着更好的协作。”** 共享词项份额上升而内容词元多样性下降，与向更小词汇的趋同是一致的。共识与收窄在结构上相似，这就是该测量需要它所依据的内容的原因。
-
-## 关联概念
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## 关联文章
-
-- [[caeai-response-length-ai-ethics-education-2026]] — 响应长度而非词汇对齐驱动参与者—词素网络中的共享术语统计（Shao 等 2026）
-- [[penny-transition-network-analysis-efl-writing-2026]] — 支架式 EFL 写作中学习者—聊天机器人互动的 TNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI 素养互动模式的 ENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 人机协作问题解决的 ENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 认知卸载与提示（SNA/网络方法）
-- [[youtube-frames-chatgpt-education]] — YouTube 上教育 ChatGPT 框架的 ENA
-- [[agency-gap-ai-writing]] — AI 支持写作中的能动性差距（ENA）
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标漏掉什么：对合成教育数据的结构性检查
-- [[dang-human-ai-collaboration-competency-2026]] — ENA 还映射教育者的能力话语

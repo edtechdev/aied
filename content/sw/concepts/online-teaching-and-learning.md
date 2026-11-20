@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -53,7 +55,6 @@ Ufundishaji na kujifunza mtandaoni huchukua miundo kadhaa inayohusiana ambayo in
 - **Elimu ya mbali.** Programu zilizopangwa kwa wanafunzi wanaojifunza kwa mbali, mara nyingi kwa kiwango kikubwa na katika mikoa mingi (mfano, wanafunzi 200K+ wa Open University). Kujifunza kwa mbali ni mahali ambapo msaada wa AI wa 24/7 uliowekwa katika muktadha na kutokuwezekana kwa usimamizi wa ana kwa ana ni wazi zaidi. Ushahidi wa kulinganisha kutoka maandalizi ya walimu wa Afrika Kusini unaonyesha kuwa miktadha yenyewe inahusiana na utayari: [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] waligundua TPACK iliyoripotiwa na mwenyewe kwa ufundishaji wa sayansi unaojumuisha AI kuwa juu zaidi miongoni mwa wanafunzi wa mwaka wa mwisho wa mafunzo ya walimu katika chuo kikuu cha kampasi (64.0%) kuliko katika chuo kikuu cha elimu ya mbali (47.4%), huku kikoa dhaifu zaidi lililoripotiwa katika miktadha zote mbili ukiwa Maarifa ya Kipatolojia. Mtindo unaonya kuwa programu za mbali haziwezi kudhani kuwa mafunzo yale yale ya AI yanazalisha utayari ule ule, na kuwa ni ubuni wa mafunzo, si uwepo wake, ndio unaotofautiana.
 
 Kampasi mbili zilizosajiliwa pamoja katika kozi moja ya si wakati mmoja hazikuzalisha mwingiliano wowote kati ya kampasi kwa angalau mmoja wa wanafunzi 19, hivyo usajili wa pamoja ni ukweli wa ratiba badala ya ubuni unaozalisha muktadha wa marika ambao kozi mtandaoni inadhania ([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
-
 
 ## Fursa na faida za AI kwa ufundishaji na kujifunza mtandaoni
 
@@ -140,62 +141,3 @@ Mchanganyiko wowote ambao mkufunzi anachagua, kikomo kimoja kinapaswa kuunda. Ma
 **"AI inapandisha utendaji, kwa hiyo inapandisha ujifunzaji."** Katika mazingira ya mtandaoni mgawanyiko ni ule ule kama darasani: [[rct]] iligundua msaada wa AI usio na vizuizi ulipandisha utendaji wa mazoezi lakini *ulipunguza* alama za mtihani bila msaada, wakati mfunzi wa "dokezo-si-jibu" uliondoa adhabu hiyo. Kozi za mtandaoni zinategemea zaidi tathmini ya si wakati mmoja, hivyo pengo kati ya utendaji uliosaidiwa na usiosaidiwa ndipo uhalali unapopatikana au kupotea.
 
 **"Uhalali wa tathmini ni suala la sera ya kuweka alama."** Ni suala la muundo linaloundwa na chombo chenyewe: pale mawasilisho yanapoweza kuzalishwa bila mwanafunzi kuwepo, uhalali unategemea kama kazi inazalisha ushahidi kwamba mwanafunzi alifanya kazi hiyo. Kubuni upya kazi kunashughulikia hili; kukaza adhabu ya mwenendo mbaya hakushughulikii.
-
-## Dhana Zilizounganishwa
-- [[pedagogical-patterns]] — Miktadha inayofanya mpangilio kuwa wenye uzito, kwa sababu mfumo hauwezi kuona jaribio
-- [[assessment-validity]] — uhalali wa uchanganuzi kutoka kazi iliyowasilishwa hadi kujifunza
-- [[agentic-ai]] — mifumo huru inayoendesha zana na mifumo, ikijumuisha LMS
-- [[community-of-inquiry]] — Jamii ya Uchunguzi
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## Makala Zilizounganishwa
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Mawakala huru walimaliza tathmini za LMS zisizo chini ya usimamizi mwanzo hadi mwisho: tatizo la uhalali wa tathmini (Hadjisolomou & El-Haddad 2026)
-- [[roe-assessment-twins-2026]] — Mapacha ya tathmini: kuweka kazi inayohatarika na GenAI pamoja na nyingine inayo hatarika kidogo iliyopangwa karibu juu ya matokeo yale yale
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Uadilifu wa uandishi wa pamoja kama ushahidi wa uhalali, na Viva ya AI kama uthibitisho unaoweza kupanuliwa
-- [[asynchronous-oral-assessment-2026]] — Tathmini za mdomo za si wakati mmoja: rekodi za muda mdogo zisizorekebishwa zilizothminiwa dhidi ya rubriki zilizowekwa
-- [[brcic-effortless-trap-productive-struggle-2026]] — Mtego wa bila shida: uwekaji wa AI badala ya ruhusa au zuio
-- [[metacognitively-discordant-completion-genai-2026]] — Kukamilika kwa kutopatana kwa metaji: kazi sahihi iliyowasilishwa bila ufahamu
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Mikakati gani ya kujidhibiti inaendana na ufuatiliaji mdogo wa kidijitali (wanafunzi 530)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL kama talendi thabiti na hali inayobadilika; metaji na ustawi yakipungua katika kipindi cha muhula
-- [[genai-marketing-education-roles-2026]] — AI kama mkufunzi, mwanachama wa timu na zana: majukumu na athari zake kwa uwepo
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Zaidi ya kugundua: ubuni wa tathmini kwa miktadha mtandaoni
-- [[reconceptualizing-community-inquiry-generative-ai]] — Kufikiria upya Jamii ya Uchunguzi katika enzi ya AI inayozalisha
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Kuunganisha AI katika kujifunza mtandaoni katika elimu ya juu: mapitio manne ya mada ya fasihi yenye mtazamo mahususi
-- [[mooc-to-maic]] — Kutoka MOOC hadi MAIC: Kubadilisha Ufundishaji na Kujifunza Mtandaoni kupitia Mawakala wanaoendeshwa na LLM
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: Mfumo wa Msaada Unaobinafsishwa na Unaobadilika kwa Kujifunza Mtandaoni
-- [[llm-facilitation-timing-online-discussions]] — Mwelekeo wa Warahisishaji wa Binadamu na LLM katika Majadiliano Mtandaoni
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Wakufunzi Halisi wa GenAI Wanaozingatia Binadamu
-- [[conversational-ai-tutors-framework]] — Njia ya Wakufunzi wa Mazungumzo ya AI
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Kutekeleza AIDA katika Open University
-- [[ai-adult-learning-guidelines-dis2026]] — Miongozo ya Kubuni Teknolojia za AI Zinazounga Mkono Kujifunza kwa Watu Wazima
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Kuelekea Ufundishaji Unaobinafsishwa wa Mawakala
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Muundo wa majukumu ndio uingiliaji, si zana
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Kozi za shahada ya pili za si wakati mmoja za wiki sita kwa walimu wanaofanya kazi: buni upya muundo badala ya kuubana
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Kufanya matokeo ya ML yapatikane kwa walimu katika madarasa yaliyochanganywa
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Wanafunzi wanapendelea video za AI zilizobinafsishwa juu zile za kibinadamu zisizobinafsishwa (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Ubini wa Kujifunza Unaodhibitiwa na Muhtasari Unaozalishwa na AI katika Vikao vya Majadiliano Mtandaoni
-- [[ai-training-science-teacher-tpack-distance-2026]] — Wanafunzi walimu wa kampasi waliripoti TPACK ya juu zaidi ya ufundishaji wa sayansi unaojumuisha AI kuliko wenzao wa elimu ya mbali (64.0% dhidi ya 47.4%)
-
-- [[aggarwal-genai-cybersecurity-2026]] — Wanafunzi 19 katika kampasi mbili: usajili wa pamoja haukuzalisha mwingiliano kati ya kampasi kwa wengine (Aggarwal 2026)
-

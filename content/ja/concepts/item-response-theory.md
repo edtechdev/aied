@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -75,36 +77,3 @@ IRT は[[educational-measurement|教育測定]]と[[assessment-validity|評価�
 - **「ほとんどのモデルが通るベンチマークは良いベンチマークである」** 標準に整合したベンチマークは**飽和**しえます。NGSS に整合した中学校と高校の科学のセットでは、**ほとんどのオープンウェイトのモデルが 90% を超える得点**を取り、古典的な項目の指標は乏しくなりました。飽和はモデルが優秀であることを意味せず、項目がもはや識別していないことを意味します。
 - **「項目の難易度は項目に内在する性質である」** 各データセットの**50 問のテスト問題**を仮説に向かって、あるいは仮説から離れるように編集した因果プローブは、**難易度を上げる編集が GSM8K と BBH-structured において平均正答率を 15.27 と 23.88 パーセントポイント下げた**ことを見出しました。難易度は項目とモデルの関係であり、項目が動けば動きます。
 - **「IRT は学習者の採点のためだけのものである」** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]は、**事前テストのアンカー項目を伴うベイジアン階層 2PL モデルを用いて 1,686 人の学生を配置**します。それは学生のための採点ではなく、評価自体の品質保証です。
-
-## 関連概念
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## 関連記事
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — 質問と個別指導の対話のための統一的な反応の枠組み
-- [[explaining-question-difficulty-natural-language-2026]] — IRT と因果的な編集を通じた LLM の問題の難易度の自然言語による説明（Cui et al. 2026）
-- [[item-writing-flaws-irt-difficulty-2026]] — 項目作成上の欠陥が IRT の難易度と識別力に与える影響（Schmucker & Moore 2026）
-- [[causal-modeling-competency-assessment-2026]] — 学生の能力評価における支援介入の因果的モデル化
-- [[assessment-latent-structure-human-llm-2026]] — 評価尺度は人間と LLM にとって同じものを測っているか？（Strugatski et al. 2026）
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI が生成した試験の大規模な IRT フィールド検証
-- [[jin-glat-genai-literacy-assessment]] — GLAT による IRT/2PL 検証の使用（Jin et al. 2025）
-- [[llm-item-difficulty-prediction]] — LLM による項目難易度の予測
-- [[llm-psychometric-calibration-cdp]] — LLM の評価と心理計量的な較正との整合
-- [[llm-difficulty-calibration-programming-exams-2026]] — プログラミング試験における LLM による難易度較正
-- [[multimodal-item-parameter-estimation-2026]] — マルチモーダルな項目パラメータ推定
-- [[huang-interpretable-knowledge-tracing-2026]] — 解釈可能な知識追跡
-- [[irt-human-genai-mcq-responses]] — 人間と生成 AI の多肢選択解答を分けるための IRT の使用
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM と木ベースの機械学習を用いた項目難易度の推定
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID 埋め込みを超えて：認知的診断のための過程根拠付き言語モデル化
-- [[bayesian-consensus-irt-item-banks-2026]] — 継続的に進化する IRT 項目バンクのベイジアン・コンセンサス較正（Jewsbury et al. 2026）
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教員の AI リテラシー尺度において IRT/ラッシュが主要な検証証拠として用いられることが稀であることを示すフィールド監査
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI と人間の個別指導が同等の GRE 学習の伸びをもたらす
-- [[llm-benchmark-secondary-science-topics-2026]] — 標準に整合したベンチマークは飽和しうる

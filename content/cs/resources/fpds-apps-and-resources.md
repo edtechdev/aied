@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -48,7 +49,3 @@ Pro vyučující a personál [[educational-development|vzdělávacího rozvoje]]
 ## Poznámky a upozornění
 
 Čtení nevyžaduje účet a kurzy v Canvasu i kontrolní seznamy, na které stránka odkazuje, jsou veřejné. Kouči na Playlabu a Gemy a sešity Gemini jsou služby třetích stran, které účet potřebují. Karty se vykreslují z `apps.json`, takže plný seznam vyžaduje JavaScript a záložní verze bez skriptů jmenuje osm z patnácti; krátký odkaz `tinyurl.com/fpdapps` a QR kód v hlavičce jej otevřou na telefonu. Repozitář je software pod licencí MIT, zatímco průvodci, na které odkazuje, mají vlastní licence, mezi nimi i kniha v Pressbooks pod nekomerční licencí Creative Commons. Publikační plán neexistuje, takže se stránka mění bez oznámení.
-
-## Související pojmy
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

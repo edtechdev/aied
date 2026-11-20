@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -42,6 +43,3 @@ Het duidelijkste voorbeeld is `teach`, dat over meerdere sessies loopt en de wer
 ## Wat u moet weten voordat u het gebruikt
 
 Alles is [[open-source|open source]] onder MIT en vrij om te nemen als uitgangspunt voor lokale [[ai-literacy|AI-geletterdheid]] of [[self-directed-learning|zelfstandige studie]]. De adoptie is groot en snel: ongeveer 270.000 sterren en 23.000 forks bij controle in september 2026, met de meest recente commit op 18 september 2026. De kanttekening is de reikwijdte. De skills veronderstellen de werkomgeving van een [[human-ai-collaboration|ingenieur]], ze zijn geordend in de emmers engineering, productiviteit, afgeschaft en in bewerking, dus sommige items zijn uitdrukkelijk onvoltooid of ingetrokken, en de README dient tegelijk als aanmelding voor een nieuwsbrief. Behandel de onderwijs- en doorvraagskills als het overdraagbare deel, en verwacht elk ervan te herschrijven voordat u er een voor studenten zet.
-
-## Gerelateerde concepten
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

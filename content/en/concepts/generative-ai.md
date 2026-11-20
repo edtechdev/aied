@@ -8,6 +8,8 @@ technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 > **Generative AI** — AI systems capable of producing text, code, images, and other content, most prominently large language models like GPT-4 and Claude. Generative AI is the technology driving the current wave of [[ai-education|AI in education]] [[research-methods-aied|research]].
@@ -45,7 +47,6 @@ Coverage runs to 80+ studies, more than any other technology thread. Across its 
 Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approaches on achievement (g = 0.40), higher-order thinking (g = 0.72), motivation (g = 0.81) and writing (g = 0.76), though game-assisted GenAI added no significant benefit (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
 A three-level meta-analysis of 22 studies finds GenAI-supported problem- and [[project-based-learning|project-based learning]] producing a large pooled effect on learner-internal outcomes (g = 0.819), though a PET-PEESE correction reduces it to g = 0.378; embedding mattered too, with general chatbots pooling at g = 0.970 against g = 0.455 for custom or API systems ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
-
 
 A separate 42-study meta-analysis of motivation alone puts the pooled effect lower (g = 0.764) and reports a 95% prediction interval spanning [−0.689, 2.217], so the [[motivation|motivational]] advantage is not reliably positive for a new setting ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
@@ -85,46 +86,3 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - **"The newer model will fix it."** Model generation is not the binding constraint. ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer items (≈0) or essays (0.341–0.854), and **a structured rubric did not reliably close the gap**. Capability gains on closed tasks have not transferred proportionally to open-ended work, which is where most assessment actually lives.
 - **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behavior is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
 - **"It is safe because experts labeled every example."** A multi-expert annotated set of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterize.
-
-## Connected Concepts
-
-- [[llm]] — the model class underlying generative AI
-- [[prompt-engineering]] — how outputs are shaped
-- [[rag]] — retrieval-augmented grounding
-- [[ai-literacy]] — the competency needed to use it effectively
-- [[ai-education]] — the broader field
-- [[intelligent-tutoring]] — conversational and generative tutoring systems
-- [[cognitive-offloading]] — the over-reliance risk generative AI amplifies
-- [[hallucination-risk]] — a core reliability risk of generated content
-- [[academic-integrity]] — integrity concerns from fluent generation
-- [[automated-assessment]] — generative models in grading and feedback
-- [[ai-technologies]] — the umbrella of AI techniques and models
-- [[higher-ed]] — a primary deployment context
-- [[k-12]] — a primary deployment context
-- [[reflection]]
-
-## Connected Articles
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit
-
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[bicer-genai-pd-math-creativity-2026]] — A GenAI-guided mathematics PD case study with eight rural in-service teachers
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pooled g = 0.819 falling to 0.378 under PET-PEESE; custom tools (0.455) underperformed chatbots (0.970)
-- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

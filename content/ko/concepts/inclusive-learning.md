@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -100,48 +102,3 @@ ai_assist:
 **"어려움을 겪는 학생은 프롬프트를 더 잘 쓰는 법을 배우면 된다."** 그것은 시스템의 결함을 학습자의 결핍으로 바꾸는 일입니다. 과제 자체를 고정한 상태에서 모델 정확도는 **낮은 문해력 표현에서 82.4%였던 것이 전문가 표현에서는 83.4%**로 겨우 1포인트 상승했을 뿐이며, 더 나은 [[prompt-engineering|프롬프트]]를 요구하는 것은 기존의 배제 위에 새로운 배제를 더합니다. 지렛대는 언어 변이를 시스템 쪽에서 처리하는 데 있지, 교정적 프롬프트 훈련에 있지 않습니다.
 
 **"자원이 풍부한 교실을 위해 만든 도구는 번역만 하면 저자원 맥락에서도 작동한다."** 맥락이 설계의 제약을 바꿉니다. [[suacode-african-students-motivations|SuaCode]]는 **코딩 능력을 갖춘 사람이 1% 미만**인 저자원 아프리카 맥락의 학생들에게 도달했는데, 데스크톱 실습실 기계가 아니라 스마트폰을 위해 설계했기 때문입니다. 그것은 같은 설계의 축소판이 아니라 다른 설계입니다.
-
-## 연결된 개념
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — 구체적인 접근 층위(자막, 대체 텍스트, 보조 기술 호환성)
-- [[assistive-technology]] — 학생이 콘텐츠에 접근하기 위해 쓰는 도구 층위
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## 연결된 문서
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM 접근의 격차를 측정하고 완화하기
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 청각장애인 학습자를 위한 LLM 기반 문항 생성
-- [[text-simplification-its]] — 지능형 튜터링을 위한 텍스트 간소화
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: 시각 장애 아동을 위한 음성 우선 동반자
-- [[tactile-statistical-graphs-accessibility]] — 촉각 3D 프린팅 통계 그래프
-- [[pepper-robot-sign-language-lis-2025]] — 수화 의사소통을 지원하는 Pepper 로봇
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX로 만드는 수학 접근 가능 물리 영상 필사
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 시각 장애 학습자를 위한 보조적 생성형 AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성형 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양 학생을 위한 디지털 보조 기술에 관한 범위 검토

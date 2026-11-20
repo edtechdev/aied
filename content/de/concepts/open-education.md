@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -92,42 +94,3 @@ Der zweite erinnert daran, dass ein generatives System offen und sein Inhalt ges
 **„KI macht Inhalte so billig, dass OER obsolet ist.“** Die Gegenlesart liegt bereit und ist besser gestützt. Wenn Generierung nahezu kostenlos ist, werden Lizenz, Attributionskette, Prüfprozess und gepflegte Plattform zu den knappen Gütern. Deshalb konvergiert diese Literatur auf Governance und Infrastruktur statt auf Produktion.
 
 **„KI-Werkzeuge in einer offenen Aufgabe verbessern das Lernen.“** Der einzige quasi-experimentelle Test hier fand wahrgenommenes Kompetenzwachstum in beiden Armen ohne erkennbaren Unterschied zwischen ihnen, bei höherem Abschluss und geringfügig niedrigeren Werten in der KI-Gruppe. KI veränderte, was Studierende produzierten, und nicht, was sie zu lernen berichteten.
-
-## Verbundene Konzepte
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Verbundene Artikel
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Ein Ansatz für den Physikunterricht mit lokaler KI und RAG zur Generierung offener Bildungsmaterialien (Beznosko et al., 2026)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — Der Text spricht zurück: Chatbot-gestützte OER im asynchronen Composition II (Powell et al., 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — Vom Prompt zur Praxis: Eine auf Hochschullehrende ausgerichtete Initiative zur Erkundung KI-gestützter OER-Erstellung (Jordan et al., 2025)
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Fünf Rahmungen für OER, sobald generative KI in die Produktion eintritt (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER als digitale öffentliche Güter und das Argument für regierte Infrastruktur (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Warum fünfundzwanzig Jahre Offenheit die institutionelle Mitte intakt ließen (Deimann und Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Offene Pädagogik mit und ohne KI-Werkzeuge in zwei Kurssektionen (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Vierzehn Modelle offener Bildungspraxis und wo KI darin steht (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — KI-Kompetenz von Lehrkräften und offene Lehrpraxis in 30 chinesischen Provinzen (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — Ein Rahmenwerk mit sieben Säulen für verantwortungsvolle OER- und KI-Integration (Rodés-Paragarino und Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Mentoring und KI-OER-Produktion in einem virtuellen Labor (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — Eine Rubrik mit sieben Prinzipien zur Prüfung von KI-Kompetenz-OER (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Interaktivität in OER als Designargument und nicht als Befund (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Internationale Zusammenarbeit in offener Bildung als instrumenteller Fall (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — Ein hybrider Recommender für OER gegenüber einer stärkeren Baseline als behauptet (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Digitale Transformation in offenem Lernen als pädagogische Transformation (Panda, 2026)

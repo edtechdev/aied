@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -77,41 +79,3 @@ ai_assist:
 - **"قلق الذكاء الاصطناعي نزعة عامة يمكن طمأنتها بعيدًا."** يؤكّد [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] بنمذجة المعادلات البنيوية أن قلق الذكاء الاصطناعي **يضرّ بالقرارات المهنية في معظمه عبر تقويض قابلية التكيّف المهني (63.35% من الأثر الكلي)**. فالآلية محدّدة: القلق يعمل بإزالة القدرة على التكيّف، فالطمأنة الموجّهة إلى المشاعر تغفل الوسيط الذي يحمل الأثر.
 - **"قابلية التكيّف المهني مهارة ناعمة ثانوية عن الكفاءة التقنية."** يُظهر [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] أن قابلية التكيّف المهني **تُقلّل قلق الذكاء الاصطناعي**، ما يجعلها تدخّلًا منبعيًا لا ناتجًا نهائيًا. فبناء قابلية التكيّف يعالج الآلية؛ ومعاملتها كرفاهية اختيارية يبقي الوسيط سليمًا.
 - **"القلق من الذكاء الاصطناعي موزَّع بالتساوي."** يجد [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] أن قلق الذكاء الاصطناعي والمواقف السلبية تجاهه يتنبّآن بقلق البحث عن عمل بعد التخرّج عبر **1,057 طالبًا**، بأنماط مختلفة **للنساء ولطلاب العلوم الاجتماعية**. فتدخّل موحّد يخصّص الدعم خطأً.
-
-## المفاهيم المتصلة
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — النتائج التي تتبع الإتمام: المثابرة، والاستبقاء، والتخرّج
-
-## المقالات المتصلة
-- [[ai-free-gates-engineering-students-india-2026]] — From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines
-
-- [[boyd-swan-employer-responses-genai-2026]] — تجربة مسحية مع نحو 1,750 من مسؤولي التوظيف الأمريكيين: تأطير الاستبدال خفّض احتمال المقابلة والتفاوض على الراتب، وأكثر ما أثّر في ذوي المعدلات العالية (بويد-سوان ورينولدز 2026)
-
-- [[ai-literacy-graduate-employability-2026]] — دليل من نموذج معادلات بنيوية بالطريقة الجزئية للأقل المربعات على أن الثقافة بالذكاء الاصطناعي تبلغ القابلية للتوظيف المُدرَكة عبر قابلية التكيّف المهني، دون إضافة العقلية النامية شيئًا (Hendrawan & Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — مقايضات التقييم مقابل كفاءة القوى العاملة تُحسَم مهمةً بمهمة (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — قابليات التكيّف المهني تُقلّل قلق الذكاء الاصطناعي
-- [[ai-literacy-career-adaptability-business-2026]] — الثقافة بالذكاء الاصطناعي وقابلية التكيّف المهني في تعليم الأعمال
-
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — ثماني مجموعات تركيز: المستخدمون ينسبون الفضل للكفاءة والصقل، وغير المستخدمين للأصالة والعمل الجماعي (الاستقلالية المُساعَدة مقابل الإبداع البطيء)
-
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — مهارات الذكاء الاصطناعي لخرّيجي الكليات: أولويات المعلّمين وأرباب العمل
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — جاهزية القوى العاملة للتصنيع الذكي
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — الذكاء الاصطناعي ومستقبل القوى العاملة في الهندسة والحوسبة
-- [[post-covid-ict-career-aspirations]] — تطلّعات المسار المهني في تقنية المعلومات والاتصالات بعد كوفيد-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — قلق الذكاء الاصطناعي والخوف من الاستبدال
-- [[duan-ai-anxiety-career-decisions-college-2026]] — قلق الذكاء الاصطناعي يُضْعِف القرارات المهنية عبر قابلية التكيّف المهني (توسط بنسبة 63.35%)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — قلق الذكاء الاصطناعي والمواقف يتنبّآن بقلق إيجاد العمل (1,057 طالبًا)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — قلق الذكاء الاصطناعي يتنبّأ بقلق البحث عن عمل في العلوم الصحية (r=0.233، 821 طالبًا)
-
-- [[ai-attitude-latent-profiles-career-development-2026]] — أربعة ملفات لمواقف الذكاء الاصطناعي: الصياغة المهنية والقابلية للتوظيف تتبّعت الانخراط لا القلق
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment
-
-- [[kong-ai-employability-cognitive-engagement-2026]] — خريطة بنى من مراجعة سردية تمتد من التعلّم المدعوم بالذكاء الاصطناعي إلى القابلية للتوظيف
-

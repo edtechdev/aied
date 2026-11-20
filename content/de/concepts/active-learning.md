@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
@@ -93,52 +95,3 @@ Aktives Lernen ist einer der stärksten Hebel auf [[learning-gains|Lernzuwächse
 - **„KI-unterstützte Erkundung ist automatisch höherstufig."** Ein Quasi-Experiment mit **120 Lernenden der 8. Jahrgangsstufe** fand, dass KI-unterstütztes [[inquiry-based-learning|forschungsbasiertes Lernen]] kreative mathematische Leistung **und** ein engeres Maß erhöhte — die Behandlung bewegte einige Ergebnisse und andere nicht. Korrelation mit einem höherstufigen Etikett ist nicht dasselbe wie eine höherstufige Aufgabe.
 - **„Studierende das Lehren entwerfen zu lassen ist eine technische Übung."** In der Umkehrstudie entwarf **jede bzw. jeder von 345 Studierenden** in einem 700-köpfigen Kurs einen konversationellen Agenten, der einer Peer-Person drei Entwurfsmuster beibringen sollte. Das aktive Lernen kam aus der Entwurfsarbeit, und das ist [[pedagogy|pädagogisches]] Schlussfolgern statt Prompt Engineering.
 - **„Befunde zum Engagement sind Befunde zum Lernen."** Dieselbe Evidenzbasis mahnt, dass ein Design **ohne Kontrollgruppe und mit Freiwilligenstichprobe** nur Aussagen zum Engagement trägt. Studierende schätzten offene Gestaltungsfreiheit (**22,3 %** als stärkstes positives Thema) und beklagten am häufigsten unklare Anweisungen (**23,7 %**) — beides betrifft das Erleben.
-
-## Verbundene Konzepte
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in KI in der Bildung
-
-## Verbundene Artikel
-
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — KI-Tutoring schlägt aktives Lernen im Unterricht: ein RCT, der ein neuartiges forschungsbasiertes Design in einem authentischen Bildungskontext einführt (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Aktives-Lernen-GenAI-Rahmenwerk für Wirtschaftswissenschaften (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — EEG-Studie zu KI-Interaktionsmodi (interaktiv > automatisch)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visuelles exploratives Lernen über Multi-Agenten-Simulation
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: gestufte konversationelle Nachbereitung nach der Vorlesung
-- [[academic-league-of-ai-2026]] — Academic League of AI: projektbasiertes aktives Lernen
-- [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Merkmale der Lernenden × Interaktionen mit TTS-Dialogformat
-- [[instructional-guidance-genai-learning]] — Gepromptete versus ungepromptete KI-Wiederholung: Die Struktur, nicht der Modellzugang, bewegte die Punkte bei offenen Aufgaben
-- [[assigned-ai-preclass-student-engagement-2026]] — Zugewiesene KI-Vorbereitung vor dem Unterricht hob die Beteiligung im Unterricht um 31% nach einer zweiten Nutzung, nicht nach der ersten

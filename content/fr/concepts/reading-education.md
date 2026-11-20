@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,7 +70,6 @@ La conséquence pratique est qu'un score de niveau scolaire est une garantie fai
 
 La perception du public cible est désormais mesurable directement. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] ont constitué un ensemble de 3,954 annotations de 193 lycéens allemands évaluant des phrases de guides d'orientation et de Wikipédia, et constaté que les lecteurs contredisaient la formule : 72.8% des annotations étaient « très facile » ou « facile » malgré des scores Flesch-Reading-Ease faibles de l'échantillon. L'analyse SHAP d'un modèle fondé sur les profils a montré que des caractéristiques des lecteurs pilotaient cette perception — langue parlée à la maison la plus influente (0.09), devant le genre (0.08) et la compétence en allemand auto-estimée (0.07) — si bien qu'un score de niveau scolaire manque non seulement les exigences de traitement du texte, mais aussi l'expérience de lecture dont il est question.
 
-
 ## Adapter et générer des textes
 
 Le plus grand groupe d'études génère ou réécrit du texte pour un lecteur. Trois approches diffèrent par ce qu'elles contrôlent :
@@ -99,33 +100,3 @@ La fluidité au début du primaire est l'exception jusqu'ici : dans une école, 
 - **« Un texte généré par l'IA est plus facile parce qu'il est généré pour un niveau. »** Les preuves vont dans l'autre sens pour la sortie des modèles : les modèles de pointe sur-utilisent des constructions associées à un coût de compréhension.
 - **« Lire avec l'IA est un seul comportement. »** L'échelle AIR trouve quatre motifs distincts, et ils prédisent différents types d'utilisation.
 - **« Si l'IA peut réécrire le texte, le niveau de lecture n'a plus d'importance. »** La différenciation change le soutien autour d'un passage plus que la complexité structurelle du passage, ce qui est une intervention différente de l'abaissement de son niveau.
-
-## Concepts liés
-
-- [[ai-education]] — le parapluie sous lequel ce domaine se situe
-- [[language-learning]] — la lecture en L2 se recoupe, mais l'acquisition y est l'objet
-- [[writing-education]] — le versant composition de la littératie
-- [[english-education]] — la lecture et la lisibilité en EAP/EFL/ESL
-- [[educational-nlp]] — la couche de mesure du texte dont dépend la lisibilité
-- [[assessment]] — l'évaluation de la lecture et la validité des scores
-- [[motivation]] — pourquoi les lecteurs utilisent l'IA, et ce que cela fait au traitement
-- [[scaffolding]] — les couches de soutien dans les supports de lecture différenciés
-- [[neurodiversity]] — la dyslexie et la difficulté de lecture
-- [[accessibility]] — le texte lisible par l'humain contre le texte lisible par la machine
-- [[generative-ai]] — la technologie derrière les textes générés et adaptés
-
-## Articles liés
-
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Usage du LLM, prise de notes et compréhension en lecture au secondaire : la comparaison randomisée
-- [[air-scale-motivations-ai-reading-2026]] — une échelle validée des motifs de lecture avec la GenAI
-- [[almirabi-ai-reading-assessment-motivation-2026]] — l'évaluation de la lecture médiée par l'IA dans une classe d'EFL
-- [[genai-differentiated-eap-reading-materials-2026]] — les supports de lecture EAP différenciés
-- [[llm-children-reading-story-generation]] — les histoires de lecture pour enfants contrôlées par niveau
-- [[text-simplification-its]] — l'évaluation de la simplification de texte pour le tutorat
-- [[clara-developmental-appropriateness-children-stories-2026]] — la difficulté développementale au-delà des formules de lisibilité
-- [[bird-multimodal-educational-literature-2026]] — classer la littérature par Key Stage
-- [[clark-ai-generated-language-readability-2026]] — pourquoi le langage généré par l'IA est plus difficile à lire
-- [[sidorkin-ai-generated-course-readings-2026]] — les lectures de cours générées par l'IA sur mesure
-- [[airri-machine-resistant-reading-interface-2026]] — les interfaces de lecture résistantes à la machine et leur coût de lisibilité
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — le retour d'information ChatGPT dans la lecture au secondaire
-- [[dabaghi-ai-dyslexia-education-review-2026]] — l'IA pour les apprenants dyslexiques

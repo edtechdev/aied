@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -98,43 +100,3 @@ Para programas profissionais, a exposição não termina na formatura. Gutowski 
 **"A detecção fornece a evidência de que um procedimento precisa."** A detecção fornece uma pontuação. A questão probatória é se a acusação pode ser evidenciada de algum modo, e a [[ai-detection|literatura sobre detecção]] mostra que as ferramentas não produzem nem a confiabilidade nem a categoria interpretável que um processo disciplinar exige. Construir o procedimento sobre um detector é construí-lo sobre o elo mais fraco.
 
 **"Os riscos são hipotéticos, e a política vai alcançá-los."** Os riscos estão sendo distribuídos de forma desigual agora, e os estudantes que os absorvem são os que têm menos capacidade de contestar um procedimento. A assimetria entre a capacidade de uma instituição de investigar e a capacidade de um estudante de responder é um dano presente, e não futuro.
-
-## Conceitos conectados
-
-- [[academic-integrity]] — o framework de conduta cuja aplicação carrega o risco
-- [[ai-detection]] — o instrumento no centro dos casos de acusação injusta
-- [[remote-proctoring]] — a vigilância na avaliação e suas questões de proteção de dados
-- [[assessment-validity]] — se a evidência consegue estabelecer a reivindicação feita a partir dela
-- [[privacy]] — coleta, retenção e processamento adiante dos dados dos estudantes
-- [[regulation]] — obrigações estatutárias e regulatórias que as instituições precisam cumprir
-- [[governance]] — desenho de política interna e consistência da aplicação
-- [[educational-policy-ai]] — a política institucional de IA como fonte de exposição não intencional
-- [[ai-use-disclosure]] — expectativas de divulgação e suas bordas inaplicáveis
-- [[accessibility]] — adaptação razoável onde uma regra remove uma ferramenta assistiva
-- [[assistive-technology]] — as ferramentas no centro do problema da inclusão excessiva
-- [[neurodiversity]] — os estudantes mais expostos a proibições excessivamente abrangentes
-- [[equity-in-ai-education]] — ônus diferencial da detecção e da vigilância
-- [[student-experience]] — o custo humano que precede o jurídico
-- [[hallucination-risk]] — autoridade fabricada como responsabilidade profissional e institucional
-- [[reducing-ai-misuse]] — a alternativa de prevenção à acusação
-
-## Artigos conectados
-
-- [[munoz-misconduct-allegation-evidence-2026]] — O que os arquivos de alegações de má conduta de fato contêm, e a exigência de justiça natural
-- [[hadra-ai-detector-accuracy-efl-2026]] — Precisão do detector, falha em texto híbrido e risco de classificação errônea de estudantes de inglês como língua estrangeira
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Confiabilidade das ferramentas de detecção em um segundo corpus
-- [[bassett-ai-detectors-education-2026]] — Por que nenhum limiar de detecção pode estar certo: o argumento do trade-off de erros
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Procedimentos de má conduta reavaliados quando a evidência se tornou indetectável
-- [[wright-transcription-not-generation-2026]] — Regras de IA excessivamente inclusivas, adaptação por deficiência e ajuste razoável
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — A supervisão remota mapeada, com preocupações de privacidade e vigilância
-- [[automated-online-exam-proctoring-decade-review-2026]] — Uma década de pesquisa em supervisão automatizada
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Desonestidade acadêmica e supervisão na era da IA
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — A clareza da política como pré-condição para uma aplicação defensável
-- [[qian-governing-genai-higher-ed-policy-2026]] — Ecossistemas de política e apoio em universidades inovadoras dos EUA
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Consenso de especialistas sobre a governança fragmentada
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integridade por meio do julgamento visível, em vez da vigilância
-- [[shin-ai-policies-sld-2026]] — O vazio de política para estudantes com dificuldades específicas de aprendizagem
-- [[li-genai-assessment-language-equity-2026]] — A equidade linguística como problema de desenho de regras: a fronteira apoio–substituição, a discriminação indireta e a revisibilidade (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Estudantes atacando corretores de IA por injeção indireta de prompt, com notas alteradas sem detecção (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Indicadores de governança e programa de reforma para autenticar a avaliação (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 professores dos EUA: as políticas individuais superam em muito as institucionais, e a resposta estrutural é fina (Watson & Rainie 2026)

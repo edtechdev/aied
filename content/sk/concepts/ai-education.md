@@ -30,6 +30,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -191,57 +193,3 @@ AI vo vzdelávaní sa spája s každým konceptom vedomostnej bázy — je to od
 **„Keďže AI je univerzálna, zistenie odkiaľkoľvek platí všade."** Univerzálnosť technológie nevytvára univerzálnosť dôkazov. Vetvy pre disciplínu, úroveň a kontext existujú preto, že ten istý nástroj sa v nich správa odlišne, a nezmenené zistenie prenesené cez hranicu je extrapolácia.
 
 **„Zrelosť odboru sa dá odčítať z objemu publikácií."** Objem a zrelosť sa rozchádzajú; vetva výskumných metód dokumentuje opakujúce sa slabiny dizajnu, ktoré objem nenapraví, a rámce sa množia rýchlejšie, než sa testujú.
-
-## Prepojené koncepty
-- [[primary-education]] — AI v primárnom vzdelávaní
-- [[secondary-education]] — AI na strednej škole
-- [[undergraduate-education]] — AI v bakalárskom štúdiu
-- [[graduate-education]] — AI v magisterskom a doktorandskom štúdiu
-- [[pedagogical-patterns]] — Testované sekvencie, ktoré operacionalizujú pedagogiky odboru
-- [[ai-literacy]] — zastrešujúci rámec: porozumenie, používanie a hodnotenie AI
-- [[automation-bias]] — zlyhanie na strane čitateľa: prijatie automatizovaného úsudku bez jeho overenia
-- [[human-ai-collaboration]] — zastrešujúci rámec: ako ľudia a AI pracujú spoločne
-- [[pedagogy]] — zastrešujúci rámec: metódy a stratégie výučby
-- [[case-based-learning]] — Metóda prípadov, diskusia o prípadoch a kontrastné prípady
-- [[metaphors-and-analogies]] — Ako metafora formuje porozumenie AI a ako analógia podporuje výučbu
-- [[learning-theories]] — zastrešujúci rámec: ako sa učíme
-- [[ai-technologies]] — zastrešujúci rámec: modely, techniky a systémy
-- [[discipline-specific-aied]] — zastrešujúci rámec: AI naprieč predmetovými oblasťami a úrovňami
-- [[assessment]] — zastrešujúci rámec: ako AI hodnotí študentov a pretvára platnosť
-- [[feedback]] — zastrešujúci rámec: ako sa spätná väzba generuje, dodáva a používa
-- [[stakeholders]] — zastrešujúci rámec: kto sú aktéri
-- [[learners]] — zastrešujúci rámec: koncepty na strane študenta (skúsenosť, identita, agentúra, interakcia, modely študenta)
-- [[ai-ed-evaluation]] — zastrešujúci rámec: ako vieme, či AI funguje
-- [[research-methods-aied]] — zastrešujúci rámec: metódy výskumu účinnosti
-- [[ai-assisted-educational-research]] — AI asistovaný vzdelávací výskum
-- [[governance]] — zastrešujúci rámec: inštitucionálna a regulačná vrstva
-- [[educational-policy-ai]] — zastrešujúci rámec: politika, usmernenia a implementácia
-- [[equity-in-ai-education]] — zastrešujúci rámec: spravodlivosť, prístup a inklúzia
-- [[learning-sciences]] — empirický odbor za AIED
-- [[ethics]] — etické dimenzie AI vo vzdelávaní
-- [[misconceptions]] — mentálne modely, ktoré ľudia prinášajú k AI
-- [[interpreting-and-applying-aied-research]] — čítanie štúdie a prenášanie zistenia do praxe
-- [[limitations-in-aied-research]] — priečizové limity dôkazovej základne
-- [[meta-analysis-systematic-review]] — čo ustanovujú prehľady a metaanalýzy
-- [[history-of-aied]] — ako sa odbor vyvíjal
-- [[philosophy-of-ai-in-education]] — filozofické základy
-- [[theories-and-frameworks]] — mapa uzlov teórií a rámcov
-- [[theory-development-aied]] — budovanie a revízia teórie
-- [[sensor-and-gaze-analytics]] — zastrešujúci rámec: snímanie študentov pomocou pohľadu, EEG a nositeľných signálov
-- [[ai-avatars-and-synthetic-instructors]] — zastrešujúci rámec: syntetickí ľudia, ktorí vyučujú, tutorujú, simulujú a hodnotia
-- [[civic-and-political-education]] — predmetová oblasť: gramotnosť pre verejný život s tenkou dôkaznou základňou
-
-## Prepojené články
-
-Prehľady celého odboru AI vo vzdelávaní — štúdie, ktoré mapujú celý odbor alebo celú vzdelávaciu úroveň, a nie jednu tému:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Evolúcia výskumu AI a vzdelávania naprieč štyrmi desaťročiami (rámec AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kontrola vs. agentúra: história AI vo vzdelávaní
-- [[genai-higher-education-systematic-review-2026]] — Generatívna AI vo vysokom školstve: systematický prehľad 125 štúdií
-- [[stanford-evidence-base-ai-k12-2026]] — Dôkazová základňa o AI v K-12: 52 silných kauzálnych štúdií vybraných z 1 686 článkov repozitára (aktualizácia z novembra 2026)
-- [[genai-educational-outcomes-meta-analysis]] — Generatívna AI a vzdelávacie výsledky: komplexná metaanalýza
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 stredoškolských štúdií; prínosy tam, kde študenti posudzujú výstup, nie kde prácu produkuje nástroj
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 magisterských študentov; pripravenosť dosiahla sebaúčinnosť cez podporu školiteľa
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Prehľad 61 zdrojov o etike, spätnej väzbe a riadení doktorandského vedenia
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Jednoskupinový doktorandský seminár; prínosy samoregulovaného učenia bez testu bez pomoci
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 študentov; medzera medzi bakalármi a doktorandmi v etike a samoregulácii

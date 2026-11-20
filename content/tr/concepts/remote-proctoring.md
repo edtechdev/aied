@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -78,32 +80,3 @@ Uzaktan gözetimli sınav bir yelpazede var olur. **Çevrim içi gözetim** tipi
 - **“Gözetimli sınav akademik dürüstlüğü korur.”** **Dürüstlük gerekçesi en büyük testten geçemedi.** **105 kursta dört dalga ve 1.760 öğrenci** boyunca gözetimli sınav **sınav kaygısını yükseltti (β = 0.60, p < 0.001) ancak saptanabilir bir** dürüstlük yararı sağlamadı. Ölçülen etki hile üzerinde değil, öğrenciler üzerindeydi.
 - **“Daha iyi tespit yeteneği daha iyi gözetim demektir.”** **80 hakemli çalışmayı (2014-2024)** kapsayan on yıllık bir sistematik inceleme, gelişmiş ML/DL gözetiminin hileyi **daha** doğru tespit ettiğini ve bunu devreye almanın davranışı değiştirip değiştirmediğine dair hiçbir şey söylemediğini bulmaktadır. Tespit performansı sınıflandırıcının bir özelliğidir, değerlendirme rejiminin değil.
 - **“Davranışsal sinyaller usulsüzlüğün güvenilir göstergeleridir.”** Sistemler **her karede on yedi vücut noktasını** YOLOv11 ile izleyerek **duruş sapması, baş eğilimi ve üst gövde hareketi** öznitelikleri türetir. Bu yapılar vekillerdir ve işaretlenen bir duruş, bir ihlalin gözlemi değil, bir beden hakkında sınıflandırmadır.
-
-## Bağlı kavramlar
-
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## Bağlı makaleler
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Giydirilebilir YZ, gözetimli sınavın dayandığı davranışsal sinyali ortadan kaldırır (Corbin, Sharpe ve Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Otomatik çevrim içi sınav gözetiminin on yıllık sistematik incelemesi
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Otomatik gözetimli sınavda akademik namussuzluğun kapsamlı incelemesi
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Big Brother korkusu: gözetimli sınavın sınav kaygısına olumsuz yan etkileri
-- [[biology-degree-integrity-genai-cheating-2026]] — Öğrenciler biyoloji diplomasına hile yoluyla ulaşabilir mi? Üretken YZ çağında biyoloji dersi notlarının akademik namussuzluğa karşı savunmasızlığının vaka incelemesi
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Gözetim altında: hemşirelik öğrenci değerlendirmesinde uzaktan gözetimli sınav uygulamalarının haritalanması
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — gözetimli, yüzyüze yapılan bir sınavda öğrencilerin %44,2’sinin yüksek riskli olarak etiketlenmesi, riskin dönem başındaki LMS izlerinden tahmin edilmesiyle

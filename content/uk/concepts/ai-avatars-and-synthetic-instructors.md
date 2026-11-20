@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -118,47 +120,3 @@ ai_assist:
 **«Зовнішність аватара — косметика.»** Сигнали ідентичності змінювали оцінки достовірності й фактичне прийняття поради, причому штрафи складалися для аватарів старших чорних жінок.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Конфігурація — це педагогічне рішення й рішення про [[equity-in-ai-education|справедливість]].
 
 **«Симульований пацієнт — це стандартизований пацієнт мінус ціна.»** Психологи-стажери знайшли свого віртуального пацієнта кооперативним і вже терапевтично просунутим — «ідеальний» кейс, що недопредставляє поведінкову негнучкість.([[ai-psychotherapy-training-avatars]]) Ціна падає; валідність кейсу автоматично не йде за нею.
-
-## Пов’язані поняття
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Пов’язані статті
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Сигнали ідентичності аватара зсувають достовірність і прийняття поради (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Студентські аватари в діалозі практико-орієнтованої підготовки вчителів (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Створення й повідомлення про дипфейки за статтю на воркшопі з грамотності щодо ШІ
-- [[elevate-genai-virtual-tutors]] — Локально-первинні 3D-аватари-тьютори з шаром учительського врядування (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Аватари-пацієнти з суддею LLM для клінічної комунікації
-- [[genai-simulate-patient-history-pbl-2026]] — Аватар-пацієнт GenAI у тьютеріалі зі збору анамнезу в PBL
-- [[ai-psychotherapy-training-avatars]] — Аватари-пацієнти для практики вірності ACT у підготовці психотерапевтів
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Педагогічні агенти в розширеній реальності: присутність, реалізм і навантаження (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Опосередкована роботом рольова гра з аватаром під керуванням для втручання свідка
-- [[personalized-ai-generated-videos-preference-2026]] — Персоналізація відео клонованим викладачем і переваги студентів
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Чотиришарова рамка, що розрізняє подання й суб’єктність в аудиторній симуляції
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Запропонований розмовний голосовий агент для інтерв’ю зі зворотного зв’язку про курс
-- [[trikonet-trivalence-co-creativity-2026]] — Співтворчі педагогічні аватари в соціотехнічних мережах (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Лише 51,7% із 654 студентів обрали запропоновані антропоморфні ролі; один назвав його торговим автоматом зворотного зв’язку

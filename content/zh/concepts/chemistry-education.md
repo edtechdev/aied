@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -77,40 +79,3 @@ ai_assist:
 **"把 AI 加进一节现有的探究课不会有坏处。"** 它可能有害，而显示益处的那个比较比听起来更窄。[[context-based-ai-secondary-chemistry-2026|Abdikayumova 与 Madybekova]]把 **7E 教学模式**与 PhET 模拟*以及* ChatGPT 辅导结合用于十年级化学，发现其成就与投入显著高于纯探究式或传统教学。处理条件是这一定结构的组合，即一个教学模式加模拟加辅导，而不是聊天机器人单独使用，而把聊天机器人加进非结构化的探究，并未被该结果检验。
 
 **"化学的答案是可供核对的，所以 AI 的错误无害。"** 可核对的答案正是错误推理蒙混过关的方式：一个学生从推理糟糕的模型那里收到正确数值，就无法发现这一缺陷，而评估记录的却是成功。在一门定量学科中，可验证的终点是理解的最弱可得证据。
-
-## 关联概念
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — 生物教育与 AI：实验助教、生物中的 AI 素养、批判性思维、专门工具
-
-## 关联文章
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — 科学/化学教育中 AI 的系统综述
-- [[unesco-ai-guidelines-chemical-education-2026]] — 把 UNESCO AI 指南转化到化学教育
-- [[context-based-ai-secondary-chemistry-2026]] — 中学化学中的情境式 + AI（7E）
-- [[ai-supported-experimental-design-chemistry-2026]] — 实践化学中 AI 支持的实验设计
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 增强的形成性评价中教师与 AI 的角色
-- [[philosophy-experimentation-ai-chemistry-2026]] — AI 条件下化学实验的哲学
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

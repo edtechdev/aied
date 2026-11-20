@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -74,34 +76,3 @@ ai_assist:
 **「生成的 AI は、教育における古典的な機械学習を時代遅れにした。」** 両者は異なる仕事をします。学習者の状態の予測、困難度の推定、進捗の予測は古典的な機械学習の問題であり続けており、このコーパスが記録する知識追跡と項目較正の文献は、言語モデルでは担えません。生成的 AI は機械学習の置き換えではなく、その下位集合です。
 
 **「教員養成は、機械学習ではなく LLM について学生に教えるべきである。」** リテラシーを生成的な層に限ると、実務者は自分の学生について決定を下す予測システムを吟味できなくなります。重大な誤りが集中するのは、まさにそこです。
-
-## 関連する概念
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## 関連する記事
-
-- [[at-risk-students-ml-prediction]] — 退学の危険のある学生を同定する教師あり機械学習分類
-- [[trace-course-grade-prediction-2026]] — 科目と成績を合同で予測するトランス（TRACE）
-- [[precision-education-student-digital-twins-2026]] — 予防的でキャリアと整合した進路のためのAI駆動の学生デジタルツイン
-- [[sc2r-counterfactual-recourse-educational-2026]] — 実行可能な介入のための意味論制約付き反実仮想救済策
-- [[interactive-online-learning-ai-2025]] — インタラクティブオンライン学習予測のためのDMO-GRUハイブリッド
-- [[adaptive-scaffolding-cognitive-engagement-its]] — ITSにおける認知的関与の適応的足場かけ（BKT対DRL）
-- [[pedagogical-safety-rl]] — 教育強化学習における教育学的安全性の形式的フレームワーク
-- [[automated-online-exam-proctoring-decade-review-2026]] — 深層学習による自動試験監視の10年にわたるレビュー
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — アフィニティ対応を用いたアウトカムベースのナレッジトレーシング
-- [[bird-multimodal-educational-literature-2026]] — 教育文献の分類のためのマルチモーダル融合
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木ベース機械学習による項目困難度の推定
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用いたパキスタンの大学生のストレス検出とウェルネス支援のための文化的に配慮したAIチャットボット
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度指標が見落とすもの：合成的教育データに対する構造的検証

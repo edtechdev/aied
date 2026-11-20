@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -61,27 +63,3 @@ ai_assist:
 - **"मध्यम प्रभाव-आकार सही उपकरण की पहचान कर देता है।"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] पाते हैं कि AI-आधारित हस्तक्षेप विकलांग छात्रों के सीखने के परिणामों पर मध्यम सकारात्मक प्रभाव डालते हैं (**g = 0.588**), रोबोट, सॉफ़्टवेयर और इंटेलिजेंट VR में। यह बहुत भिन्न आवश्यकताओं की सेवा करने वाली बहुत भिन्न प्रौद्योगिकियों का औसत है, इसलिए यह श्रेणी का समर्थन करता है, उसके भीतर चुनाव का नहीं।
 - **"निदान-आधारित पहुँच एक उचित डिज़ाइन है।"** भाग लेने के लिए औपचारिक निदान की अनिवार्यता उन शिक्षार्थियों को बाहर कर देती है जिनकी आवश्यकताएँ वास्तविक हैं पर लेबल नहीं, जो [[universal-design-for-learning|सार्वभौमिक डिज़ाइन]] के विपरीत है और पहुँच की लागत शिक्षार्थी के दस्तावेज़ों पर डाल देती है।
 - **"अधिक सहायक उपकरण अर्थात अधिक समावेश।"** एक स्कोपिंग रिव्यू ने पाँच डेटाबेसों में **766 रिकॉर्ड** जाँचे, और उत्पादन की मात्रा आवश्यकता की व्याप्ति के समान नहीं है; प्रत्येक बाधा पर अध्ययनों की गिनती अधिक सूचनाप्रद आँकड़ा है।
-
-## संबंधित अवधारणाएँ
-
-- [[accessibility]] — वह डिज़ाइन संपत्ति जिसे सहायक प्रौद्योगिकी व्यवहार्य बनाती है
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## संबंधित लेख
-
-- [[shin-ai-policies-sld-2026]] — विशिष्ट सीखने की अक्षमताओं वाले छात्रों के लिए AI नीतियाँ और सुविधाएँ
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — विकलांग छात्रों के लिए AI हस्तक्षेपों का मेटा-विश्लेषण
-- [[kutti-ai-voice-first-learning-companion]] — नेत्रहीन बच्चों के लिए वॉइस-फ़र्स्ट AI
-- [[tactile-statistical-graphs-accessibility]] — AI-निर्मित स्पर्शजन्य सांख्यिकीय ग्राफ़
-- [[text-simplification-its]] — इंटेलिजेंट ट्यूटरिंग के लिए LLM-आधारित पाठ सरलीकरण
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — बहरे/कम श्रवण वाले शिक्षार्थियों के लिए LLM प्रश्न निर्माण
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX गणित-सुलभ भौतिकी वीडियो प्रतिलेखन
-- [[khlaif-assistive-genai-visually-impaired-2026]] — नेत्रहीन शिक्षार्थियों के लिए सहायक GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव AI, वर्चुअल रियलिटी और उससे आगे: उच्च शिक्षा में न्यूरोडाइवर्जेंट छात्रों के लिए डिजिटल सहायक प्रौद्योगिकियों का स्कोपिंग रिव्यू

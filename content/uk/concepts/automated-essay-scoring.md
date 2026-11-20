@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -90,42 +92,3 @@ AES сидить на перетині [[automated-assessment]], [[writing-educa
 - **«Результати автоматизованого оцінювання відображають письмо студента.»** Порядковий сигнал може бути **виготовленим, а не спостереженим** — синтетичні есе рівня 1, побудовані шаблонною генерацією, деградацією до **20-40% початкової довжини** та вилученням ключових слів. Система, валідована на сконструйованих крайнощах, могла ніколи не перевірятися на розподілі, з яким зустрінеться.
 - **«Агрегатна точність — це метрика для звітування.»** **Скошений розподіл рубрики може зробити агрегатні метрики оцінювання оманливими**: автоматизоване оцінювання виміру рубрики часто є завданням класифікації з нерівним розподілом міток, де висока точність і корисне розрізнення розходяться.
 - **«Польові розгортання не оцінювалися.»** Польові докази існують із реального високоставкового розгортання (**Acredita EB в Уругваї, 2024**), що є найсильнішою формою доказів у цій літературі й тією, яку більшість досліджень точності оцінювання ніколи не постачає.
-
-## Пов’язані поняття
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Пов’язані статті
-
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-
-- [[porcaro-ai-grading-benchmark-2026]] — Поза узгодженістю: 22 оцінювачі з підказками проходять проби з відомою правильною відповіддю, і більшість можна вмовити завищити бал (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Викладачі класів на 300 студентів оцінюють застосунок AES на 92,5 SUS і просять попередження про надійність, а не остаточну оцінку (Ribeiro et al. 2026)
-
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — Звіт OpRaise: оцінювання за допомогою ШІ 761 університетського есе в трьох університетах Великої Британії
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Від автоматизованого оцінювання до діагностики навчання: дослідження механізму формативного оцінювання в письмі англійською з підтримкою ШІ
-- [[llm-essay-scoring-feature-weighting-2026]] — Патерни зважування особливостей в оцінюванні есе на основі LLM (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Рамки для оцінки LLM в оцінюванні есе (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
-- [[swim-student-writing-simulation-2026]] — заморожений верифікатор AES, використаний як щільна навчальна винагорода для генератора письма

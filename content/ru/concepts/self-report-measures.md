@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -62,7 +64,6 @@ ai_assist:
 
 Из этого следуют два вывода для любого, кто читает или проектирует это исследование. Во-первых, измеряет ли инструмент самоотчёта вообще называемый им конструкт — это эмпирический вопрос, на который отвечает валидация, а не правдоподобность пунктов. Во-вторых, направление искушения в ИИ в образовании последовательно: инструменты оцениваются по тому, что чувствуют о них пользователи, а чувство — именно та часть, которую самоотчёт фиксирует с наименьшими затратами. [[self-assessment]] является членом этого более широкого семейства, а не его синонимом: там, где меры самоотчёта доходят до отношений, доверия и удовлетворённости, самооценивание направляет оценку учащегося конкретно на собственный навык, уверенность или обучение.
 
-
 Второй режим отказа — дискриминантное схлопывание двух конструктов самоотчёта: регрессия самостоятельно сообщаемой способности в области ИИ наряду с воспринимаемым поведенческим контролем, измеряемым как эффективность, может сравнивать один общий фактор уверенности с самим собой, поэтому критерии фиксируются заранее — гетеротрейт–монотрейт-отношение ниже 0,85 и вложенный тест модели, ограничивающий корреляцию «способность–контроль» единицей ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 Валидированный инструмент может сделать этот предел точным, а не расплывчатым. Анкета самооценивания ИИ-грамотности (AIL-SAQ) [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]] представляет собой 15-пунктовую шкалу, подтверждённую стабильной трёхфакторной структурой на двух выборках (n = 335 разведочная, n = 579 подтверждающая) и общей альфой Кронбаха 0,934. Её авторы прямо заявляют, что она фиксирует воспринимаемое понимание, отношения и осведомлённость, а не продемонстрированный навык, и что точность самооценивания зависит от метакогнитивной способности, всё ещё созревающей у детей, поэтому самооценка ребёнка — более слабый сигнал, чем самооценка взрослого.
@@ -94,7 +95,6 @@ ai_assist:
 Сама инструментальная литература может читаться как свидетельство масштаба этого разрыва. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] оценили 33 инструмента ИИ-грамотности преподавателей и обнаружили, что 31 (93,9 %) представляли собой шкалы самоотчёта воспринимаемой уверенности, только два (6,1 %) тестировали знания объективно, и ни один не использовал заданий на основе результатов деятельности в период с 2019 по 2025 год. Их вывод — тот же, к которому эта страница приходит с других сторон: баллы самоотчёта индексируют уверенность, а не способность, поэтому они не могут заменять компетентность при сравнении групп или программ.
 
 Меры результатов наследуют тот же разрыв. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] моделируют путь от [[agentic-ai|agentic AI]] через мотивацию и [[community-of-inquiry|социальное присутствие]] к тому, что они называют успешностью обучения, с коэффициентом 0.671 — сильнейшей связью в исследовании — и в собственном разделе ограничений заявляют, что эта зависимая переменная отражает восприятия учащихся, а не результаты экзаменов, успешность заданий или [[learning-analytics|учебную аналитику]]. Это та картина, которую следует внимательно читать в моделях путей вообще: большой коэффициент на воспринимаемом результате количественно определяет, насколько последовательно студенты верят, что что-то помогло, и пока ничего не говорит о том, помогло ли это на самом деле.
-
 
 Намерение — самый острый случай этого разрыва, потому что один балл намерения может покрывать противоположные поведения. Повторно предъявив пункты 68 из 340 студентов и проинтервьюировав восемь, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] обнаружили, что одно и то же заявленное намерение покрывает учебно-ориентированное, сокращённо-ориентированное и смешанное использование, причём пользователи сокращений ссылались на низкую уверенность, а не на отсутствие интереса.
 
@@ -138,7 +138,6 @@ ai_assist:
 
 Ещё две специфические для самоотчёта ошибки повторяются. **Ограниченность интроспекции и смещение в сторону социальной желательности** называются внутренне присущими самоотчёту в [[engagement-assessment-video|work on engagement assessment]] и в [[ccct-cooperative-learning-technique|studies whose qualitative data rely on self-report]]. **Дисперсия общего метода** возникает, когда предикторы и результаты исходят от одних и тех же респондентов в одно и то же время: [[ai-use-critical-thinking-medical-students-2026|a moderated-mediation study of AI use and critical thinking]] операционализировало использование, когнитивную нагрузку и [[self-regulated-learning|self-regulated learning]] — всё через стандартизированные инструменты самоотчёта в одной временной точке — и указывает на смещение общего метода как на следствие; [[genai-motivation-engagement-2026|a PLS-SEM study of motivation and engagement]] точно так же опирается целиком на самоотчёт и не может установить временное упорядочивание среди своих медиаторов.
 
-
 Режим администрирования — вторая угроза, которую корпус пока не посчитал. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] предлагают заменить письменные опросы курса телефонными интервью, проводимыми ИИ, и собирают свидетельства эффекта режима, работающие в обе стороны: голосовые ответы длиннее и охватывают больше тем, тогда как одно рандомизированное сравнение 634 респондентов обнаружило, что текстовые ответы более дифференцированы и более откровенны.
 
 ## Средство: добавление доказательств не из самоотчёта
@@ -165,54 +164,3 @@ ai_assist:
 - **«Свидетельства опросов слабы, но примерно не смещены».** Структура ответов ограничивает оценку раньше, чем смещение: опрос получает **112 ответов при доле ответов 31%** или **90 ответов из 572 приглашений**. Пул респондентов — самоотобранная подвыборка, поэтому цифра описывает именно её.
 - **«Опросы — миноритарный метод в этой области».** Обзор области **394 исследований GenAI в высшем образовании** обнаружил, что **шкалы опросов — наиболее часто сообщаемый метод оценивания (269 исследований, 68,3%)**, опережая тесты и викторины. Доминирующее доказательство области — самоотчёт.
 - **«Самоотчёт и измеренные конструкты согласуются».** **Самоотчётная когнитивная нагрузка значимо не различалась по профилям оффлоадинга, различавшимся от 80% до 2% авторства эссе**, тогда как самые интенсивные оффлоадеры различались измеримо. Субъективная мера была плоской там, где поведение различалось в сорок раз.
-
-## Связанные концепции
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## Связанные статьи
-
-- [[high-school-genai-acceptance-tam-physics-2026]] — Один балл намерения, два противоположных использования
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Режим администрирования, который использует инструмент самоотчёта, меняет то, что он измеряет
-- [[capability-decision-model-teacher-readiness-2026]] — Критерии дискриминантной валидности для разделения самостоятельно сообщаемой способности в области ИИ и убеждений в эффективности
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Вовлечение предсказывает воспринимаемую, а не измеренную успешность в модели пути с агентным ИИ (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Параллельные меры самоотчёта и объективные меры ИИ-грамотности преподавателей
-- [[jin-glat-genai-literacy-assessment]] — GLAT: альтернатива самоотчёту на основе результатов деятельности
-- [[genai-student-experiences-uk-he-survey-2026]] — Использование GenAI студентами, опрошенное по учреждениям Великобритании
-- [[student-llm-interaction-taxonomy-review-2026]] — Таксономии, формируемые тем, исходили ли данные из самоотчёта или логов
-- [[tracing-genai-literacy-interaction-patterns]] — Процессные данные, характеризующие ИИ-грамотность
-- [[engagement-intensity-learner-modeling]] — Самоотчётное использование как сигнал для моделирования учащегося
-- [[predicting-attrition-competitive-programming]] — Самоотчётная уверенность против поведения в практике
-- [[ai-use-critical-thinking-medical-students-2026]] — Смещение общего метода в модели медиации с единственным источником
-- [[genai-motivation-engagement-2026]] — PLS-SEM мотивации и вовлечения только на самоотчёте
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Опрос 81 студента-физика об использовании ИИ и доверии
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Запись экрана и стимулированное воспоминание как средство против самоотчёта
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Самоотчёт плюс данные трейсов по саморегулируемому обучению
-- [[adaptive-pretesting-retention]] — Поведенческие индикаторы усилия, выведенные из логов
-- [[ai-vocational-education-training-review]] — Обзор, сообщающий о несбалансированности самоотчёта и объективных мер
-- [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Опрос плюс интервью на одной кафедре социологии
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 15-пунктовый инструмент самооценивания для учащихся старших классов начальной школы, явно заявляющий о том, что может установить воспринимаемая компетентность
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Обзор, обнаруживший, что 31 из 33 инструментов ИИ-грамотности преподавателей основаны на самоотчёте, и ни один — на результатах деятельности
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Профили, полученные из самоотчёта, ведут себя так же
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Двухфазный обзор, задающий частоту расхождения самоотчёта и результативности при одинаковом конструкте (Fan et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Воспринимаемое авторство отделяло делегирование эссе целиком от всего остального, тогда как трейс разделял гораздо больше (Jelson и др., 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - восприятия сообщались в 32 из 66 исследований против 8, измерявших исследовательские навыки
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63,8% инструментов ИИ-грамотности сообщают свидетельства надёжности и менее 20% — свидетельства валидности
-- [[huang-genai-academic-information-resources-2026]] — Библиотечные логи и опросные установки указывают в разные стороны

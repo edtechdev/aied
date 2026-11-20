@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
+connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -136,35 +138,3 @@ A graduação se situa entre duas faixas estudadas com métodos diferentes. A [[
 - **"Uma nota maior no exercício significa mais aprendizagem."** Usuários do ChatGPT pontuaram 71,84% contra 29,85% em um exercício de CS1, enquanto os ganhos conceituais foram estatisticamente idênticos entre os braços.
 - **"Detectores podem resolver um caso de integridade."** Sete detectores tiveram média de 61,22% de falsos positivos em redações de escritores não nativos de inglês, e 97% foram sinalizados por pelo menos um.
 - **"Uso diário significa que o letramento em [[ai-literacy|IA]] pode ser presumido."** O uso relatado subiu a cada ano do ensino médio enquanto a confiabilidade julgada permaneceu estável; a cautela em tarefas de pesquisa apareceu apenas no quarto ano.
-
-## Conceitos conectados
-
-- [[scaffolding]] — tutores que começam pela dica versus motores de resposta
-- [[help-seeking]] — fazer uma pergunta específica é uma habilidade que a interface pode ensinar
-- [[feedback-literacy]] — o que os estudantes fazem com um comentário decide se ele muda o trabalho
-- [[self-regulated-learning]] — planejar, monitorar e avaliar sem a ferramenta
-- [[desirable-difficulties]] — o esforço que um assistente sem restrições remove
-- [[process-oriented-assessment]] — avaliar o rastro, não o artefato
-- [[self-report-measures]] — o que um survey captura, e por que não é um desfecho de aprendizagem
-- [[ai-detection]] — por que a saída de um classificador é evidência para revisão, não um achado
-- [[learning-analytics]] — rastros do LMS como sinal precoce para contato ativo
-- [[student-support-and-success]] — orientação, contato ativo e os limites dos empurrões
-- [[equity-in-ai-education]] — quem ganha quando o material é verificado antes do lançamento
-- [[writing-education]] — o contrato de avaliação em cursos baseados em redação
-- [[stem-education]] — sequências introdutórias em física, computação e engenharia
-
-## Artigos conectados
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — em um ensaio 2×2 com 132 estudantes de Python, o assistente socrático com contexto completo foi avaliado como o menos apoiador
-- [[genai-use-changing-institutional-policy-physics-2026]] — o design da tarefa, não o nível da política, determinou quais funções de GenAI os estudantes usaram
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — 130 graduandos; anotações escritas sem ChatGPT foram mais diversas e integrativas
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — a estrutura do prompt, não o acesso, carregou o ganho; um andaime de cinco partes elevou a qualidade avaliada de 3,32 para 4,60
-- [[llm-math-homework-offloading-traces-2026]] — 23 estudantes de primeiro ano; 53 de 59 envios reproduziram o produto do modelo ou o revisaram apenas na forma
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 estudos e 1.585 estudantes; a integridade é onde as preocupações de educadores e estudantes divergem
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 342 estudantes em três ondas; a dependência intra-pessoa predisse menor agência subsequente
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 estudos; padrões que apoiam e que erodem a agência coexistem
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 551 estudantes de primeiro ano relataram alta aprovação ao lado de alta tensão autorrelatada
-- [[thulin-chatbot-mental-health-students-2026]] — 15,4% haviam usado um chatbot por um motivo de saúde mental, e o uso acompanhou as barreiras ao cuidado
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1.477 respondentes; aprendizagem autoavaliada e um índice de engajamento de três comportamentos correlacionaram-se em 0,052
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 estudantes; letramento digital predisse desempenho autorrelatado em β = 0,393, consciência ética em β = −0,006
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — graduandos tiveram média de 3,527 em ética contra 4,627 dos de pós-graduação, com dispersão muito maior

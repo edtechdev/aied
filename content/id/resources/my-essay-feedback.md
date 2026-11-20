@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,12 +48,3 @@ Pengajar menulis tahun pertama dan departemen bahasa Inggris yang menginginkan u
 ## Catatan dan peringatan
 
 Situs melaporkan 12.000+ siswa, 700+ mata kuliah, dan 41.000+ esai yang ditinjau — angka yang dilaporkan vendor, bukan audit independen. Kepatuhan FERPA, kesiapan GDPR, dan aksesibilitas juga merupakan klaim vendor sendiri; esai diproses melalui Azure OpenAI, dan situs menyatakan esai tidak digunakan untuk melatih model, yang sebaiknya dikonfirmasi distrik dalam perjanjian pemrosesan data alih-alih diambil dari halaman pemasaran. Harga bersifat freemium dan bergeser menurut audiens: satu semester pertama gratis untuk pengajar baru (atas permintaan, dibatasi tiga per sekolah), sekitar \$12–15 per siswa per semester setelahnya, dan tingkat berbayar per tinjauan untuk siswa individual dengan tinjauan pertama gratis. Tabel perbandingan dengan ChatGPT Plus, Packback, dan Grammarly adalah milik vendor sendiri. Kemitraan dengan UC Davis pada proyek PAIRR adalah kolaborasi riset, bukan bukti terbit bahwa platform meningkatkan penulisan.
-
-## Konsep terkait
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

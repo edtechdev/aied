@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,43 +85,3 @@ PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都�
 - **"PBL 的结果应当与项目导向学习的结果合并。"** 那项三层元分析把**产品与解题表现放在单独的模型**中，正是因为它测量的是**人机协作**，而非学习者自己的推理。把它们合并，就是把一个共同产出的制品归到学生名下。
 - **"协作增益是使用 AI 的副作用。"** 一项研究发现更高的感知协作式问题解决（**M = 3.62 vs. 3.05, d = 0.88**）与共享问题解决（**3.40, d = 1.02**），其中**最大的交互效应落在共享知识建构与社会调节**上，正是设计所预测的那些协作过程维度。机制是结构化的协作，而不是工具。
 - **"带 AI 的 PBL 主要是节省引导者的时间。"** 可测量的增益在于过程质量，且落在那些只有小组结构为此设计时才存在的维度上。一个加入 AI 却未结构化共享知识建构的 PBL 实施，不应期待同样的效应。
-
-## 关联概念
-
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 准备好的案例与案例讨论，区别于 PBL 的开放式探究
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — 生产性失败
-
-## 关联文章
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题导向学习与项目导向学习作为生成式 AI 支持教育的有前景框架：来自系统综述与三层元分析的新兴证据
-
-- [[pbl-structural-conditions-ai-2026]] — PBL 与有生产性的 AI 整合的结构条件（Rowe 2026）
-- [[educators-engagement-ai-pbl-review-2026]] — 教育者在 PBL 中与 AI 交互的系统综述（Amdan 等人 2026）
-- [[genai-simulate-patient-history-pbl-2026]] — 用于医学 PBL 教学的 GenAI 虚拟病人（Mool 等人 2026）
-- [[learn-framework-responsible-genai-pbl-2026]] — 面向 PBL 中负责任 GenAI 的 LEARN 框架（Uden & Hwang 2026）
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI 增强 PBL 中的 ChatGPT 作为适应性支架（La Sunra 等人 2026）
-- [[pbl-biomedical-engineering-genai-2026]] — GenAI 时代的生物医学工程 PBL（Nnamdi 等人 2026）
-- [[ai-pbl-computational-thinking-2026]] — 面向计算思维的 AI 支持 PBL
-- [[genai-counter-learner-groupthink-2025]] — GenAI 智能体在跨专业 PBL 中对抗群体思维
-- [[dai-chatbots-problem-posing-primary-2026]] — 小学科学中的 GenAI 聊天机器人与问题提出
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT 用于 STEAM 中的探究式学习
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向生产性失败的 LLM 教学性引导
-- [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
-- [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto 等人 2026）
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 面向 130 名师范物理教师的 AI 支持 CTD-PBL 模块：TPACK 与协作式问题解决（Chen & Osman 2026）
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 药理学教育中引导者中介与 AI 中介的问题导向学习之比较：一项针对二年级医学生的准实验研究

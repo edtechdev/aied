@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -47,13 +49,11 @@ AI percakapan (CAI) adalah istilah payung untuk agen berbasis AI yang menjalanka
 Agen percakapan digunakan untuk menilai, dan perilaku evaluatifnya menyimpang dari manusia: ChatGPT adalah yang paling longgar dari tiga penilai atas 52 proyek sarjana yang sama (M = 91.46 berbanding 83.13 untuk instruktur) dan tidak berbagi logika penilaian dengan rekan-rekannya (r = 0.05), meskipun siswa menghargai interaktivitas dialogisnya ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
 **Pengguna membaca kredibilitas agen secara sosial.** Kompetensi yang dipersepsikan dari ChatGPT memprediksi kredibilitas umpan baliknya secara langsung, sementara kehangatan yang dipersepsikan hanya bekerja melalui empati yang mirip manusia (SEM, 230 siswa), bagi [[chatgpt-feedback-credibility-perceived-learning|Pérez-López dkk. (2026)]] — agen percakapan memperoleh kredibilitas sebagai mitra sosial, bukan sekadar sebagai sumber jawaban.
 
-
 **Memberi perancah pada sisi percakapan milik siswa.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin dkk. (2026)]] menambahkan pemantau kekhususan pertanyaan dan templat revisi ke antarmuka obrolan dan melakukan intervensi hanya pada pertanyaan yang kabur: dalam studi antar-subjek dengan 40 mahasiswa yang belajar pemrograman web, pengguna HelpCoach menulis pertanyaan pertama yang jauh lebih spesifik (57.3% vs. 40.5%) dan mempertahankan lebih banyak pengetahuan seminggu kemudian (perolehan rata-rata 1.9 vs. 0.3 dari 6, d = 1.100). Manfaat retensi tidak berjalan melalui balasan chatbot yang lebih terarah, yang tidak berbeda antar kondisi — sehingga mekanismenya tetap menjadi hipotesis terbuka alih-alih jalur yang terbukti.
 
 **Peran yang dimainkan agen membentuk interaksi.** Desain CAI tidak netral terhadap personanya: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] menemukan bahwa pendamping "teman sebaya siswa" yang tetap dalam percakapan buku di sekolah dasar mempertahankan interaksi yang lebih lama namun mendominasi percakapan (porsi kata/kalimat siswa lebih rendah) dan mencapai "langit-langit afektif" — menyamai guru manusia pada daya ingat faktual tetapi kurang pada refleksi emosional dan berorientasi masa depan — sehingga berargumen bahwa CAI harus menyesuaikan perannya (teman sebaya, asisten guru, penasihat orang tua) alih-alih tetap monolitik. [[xu-genai-collaborative-space-2026|Xu dkk.]] memperluas ini ke kelompok kecil, menunjukkan bahwa AI generatif bertindak sebagai *agen* sekaligus *ruang kolaboratif* dalam dinamika kolaboratif sinkron dan asinkron, di mana desain interaksi menentukan apakah ia memberi perancah atau menggantikan kognisi kelompok. Nada juga dapat ditetapkan oleh pengklasifikasi eksternal alih-alih oleh percakapan semata: [[culturally-aware-student-stress-chatbot-2026|Sukoon (Bashir & Afzal, 2026)]] melatih Random Forest pada 20 fitur survei untuk menetapkan tingkat stres rendah, sedang, atau tinggi, dan keluaran itu memilih salah satu dari tiga tingkat respons yang terinspirasi Stepped Care Model — hangat dan membangkitkan semangat pada stres rendah, membumikan dan tanpa menghakimi pada stres tinggi — sebelum LLM [[open-source|sumber terbuka]] (GLM-4.5-Air melalui OpenRouter) mengambil alih dialog dengan riwayat percakapan penuh dan prompt sistem yang diadaptasi secara kultural yang dikirim ulang pada setiap giliran. Para penulis memilih model [[multilingual-learning|multibahasa]] dengan akses gratis secara sengaja untuk menjaga penerapan tetap layak di universitas daerah, dan mencatat bahwa bahasa Urdu muncul melalui rekayasa prompt alih-alih pipeline yang benar-benar dwibahasa — keterbatasan yang penting setiap kali kelayakan kultural diklaim sebagai properti sistem alih-alih hasil yang dievaluasi.
 
 **Perilaku percakapan mengikuti penyedia, bukan penyetelan.** Di 1,971 transkrip AI dan 135 transkrip manusia yang dinilai berdasarkan enam aturan tetap yang diambil dari [[learning-sciences|ilmu pembelajaran]], model dari penyedia yang sama mengelompok bersama tanpa tumpang tindih antar rentang keluarga, yang dibaca penulis sebagai perilaku mengajar yang mengikuti praktik pelatihan tingkat penyedia alih-alih penyetelan model individual ([[studentbench-ai-human-tutoring-gre-2026|Northcutt dkk. (2026)]]).
-
 
 Konsistensi respons adalah masalah infrastruktur, bukan masalah prompting: kemiripan balasan di dalam model berkisar 0.715–0.795 berbanding 0.443–0.604 antar model, dan menambahkan riwayat obrolan mengubah isi balasan bahkan untuk pesan fokus yang sama ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]).
 **Perspektif siswa.** Penggunaan dunia nyata menunjukkan bahwa adopsi bergantung pada [[ai-literacy|literasi AI]] dan [[usability-research|pengalaman pengguna]] lebih dari pada kemampuan teknis. Studi [[mixed-methods-research|metode campuran]] yang berpusat pada manusia terhadap "Jordan Chatbot," agen [[pedagogy|pedagogis]] berbasis GPT-4o dalam kursus hukum Australia, menemukan bahwa siswa memiliki sikap positif dan mempersepsikan perolehan pengetahuan sambil sangat mendukung persyaratan [[academic-integrity|integritas akademik]]; lebih dari sepertiga interaksi terjadi di luar jam kerja, mengonfirmasi nilai ketersediaan 24/7 ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Yang penting, literasi AI — bukan kecakapan teknologi umum — memprediksi kesediaan dan kepercayaan diri untuk menggunakan chatbot, dan kegunaan (desain pop-up yang mengganggu) adalah hambatan terbesar di antara non-pengguna, di depan kepercayaan, preferensi terhadap staf, dan kekhawatiran integritas akademik.([[colbran-student-perspectives-genai-chatbots-2026]]) Studi ini merekomendasikan desain yang berpusat pada manusia, kebijakan AI eksplisit dan label penilaian, pelatihan staf dan siswa, serta pemantauan kesalahan berkelanjutan — bukti bahwa penerapan CAI yang efektif sama-sama masalah desain dan literasi seperti halnya masalah teknis. Di ujung lain spektrum usia, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] meneliti anak-anak berusia 6–14 tahun yang berinteraksi dengan AMA, chatbot yang dibatasi topik dan disesuaikan usia (astronomi, sneaker dan sepatu, dinosaurus), menemukan keterbukaan yang luas dan kepercayaan yang tinggi pada AI sebagai sumber informasi — anak-anak bahkan menguji kredibilitasnya dengan pertanyaan yang jawabannya diketahui — di samping kesenjangan dalam keterlibatan kritis dan kesadaran keamanan digital yang mendorong desain AI percakapan yang peka usia dan sadar kepercayaan serta instruksi [[privacy|privasi]] yang eksplisit.
@@ -83,7 +83,6 @@ AI percakapan paling baik dipahami sebagai **modalitas interaksi** yang tumpang 
 
 Pilih agen percakapan untuk mendukung pengajaran, [[motivation|motivasi]], dan [[metacognition|metakognisi]] alih-alih semata-mata untuk menjawab pertanyaan, dan rancanglah interaksi yang berlandaskan HCI, partisipatif, dan berpusat pada pengguna. Cegah [[cognitive-offloading|ketergantungan berlebih]] dengan memasangkan CAI dengan instruksi [[ai-literacy|literasi AI]] dan [[feedback|umpan balik]] yang menjaga pembelajar tetap produktif secara kognitif. Perhatikan literasi AI dan kegunaan secara eksplisit — karena keduanya — bukan keterampilan digital umum — yang mendorong adopsi dan non-penggunaan ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — dan pasangkan penerapan dengan kebijakan penggunaan AI yang jelas, label penilaian, dan pelatihan. Evaluasi CAI pada hasil pedagogis — bukan hanya penyelesaian tugas — dan rencanakan keadilan dan [[accessibility|aksesibilitas]] sejak awal alih-alih sebagai tambahan belakangan.
 
-
 - **Bagaimana siswa sebenarnya berbicara kepada agen percakapan — skema ketidakterlibatan enam kategori:** [[rho-disengaged-conversational-behaviors-2026|Rho dkk. (2026)]] menyematkan agen yang dapat diajar berbasis GPT-4-Turbo (diposisikan sebagai siswa SMP yang kesulitan, dilandasi [[rag|RAG]] atas [[knowledge-graph|graf pengetahuan]], dipasangkan dengan agen mentor yang mengkritik penjelasan siswa) ke dalam pelajaran Aljabar dan Geometri Math Nation, dan mengodekan 5,522 ujaran dari 246 siswa. Di luar keterlibatan (75.7% ujaran), mereka mengidentifikasi False Answering (12.8%), Withholding (8.9%), Random/Noisy (2.1%), Mirroring (0.6%), Mocking (0.3%), dan Ghosting (0.2%) — dengan Mirroring (menyalin teks agen) muncul secara induktif dari data. Klasifikasi itu berjalan dengan [[human-in-the-loop-ai|manusia dalam lingkar]]: 1,682 ujaran dianotasi oleh dua penilai (κ = 0.704–0.905 per kategori) melatih pengklasifikasi LLaMA 3 yang disetel halus (F1 tertimbang = 0.910 pada thread yang disisihkan) yang melabeli 3,840 ujaran sisanya. Analisis risiko bersaing tingkat proses kemudian menunjukkan bahwa sebagian besar ketidakterlibatan terselesaikan dalam beberapa giliran kecuali Withholding, yang bertahan — sinyal yang layak dijadikan dasar respons agen.
 
 ## Miskonsepsi umum
@@ -91,54 +90,6 @@ Pilih agen percakapan untuk mendukung pengajaran, [[motivation|motivasi]], dan [
 - **"Kredibilitas agen percakapan mengikuti akurasinya."** **Pengguna membaca kredibilitas agen secara sosial.** Kompetensi yang dipersepsikan dari ChatGPT memprediksi kredibilitas umpan baliknya **secara langsung**, sementara kehangatan yang dipersepsikan hanya bekerja **melalui** jalur itu. Agen yang terdengar hangat dan kompeten memperoleh kepercayaan pada presentasi, yang merupakan sumbu terpisah dari ketepatan.
 - **"Mitra kritik LLM menggantikan penilaian pembelajar."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash dan Connell Pensky (2025)]] menunjukkan sisi **pemeliharaan** secara konkret: nilainya terletak pada menjaga pemikiran pembelajar tetap utuh alih-alih menghasilkan kritik untuk mereka.
 - **"Bukti payung tentang agen percakapan sudah konklusif."** [[conversational-ai-agents-umbrella-review-2026|Tinjauan payung]] itu menyintesis tinjauan-tinjauan tentang agen CAI, dan kekuatan sebuah tinjauan payung dibatasi oleh kualitas tinjauan yang dikumpulkannya.
-
-## Konsep terkait
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-
-## Artikel terkait
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Perilaku percakapan yang tidak terlibat dalam dialog siswa-AI (Rho dkk. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Mempertahankan dukungan siswa yang dimungkinkan AI: studi implementasi dan dampak empat tahun atas chatbot institusional (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Membandingkan penilaian ChatGPT, rekan sebaya, dan instruktur di seluruh tingkat kualitas proyek (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — Agen LLM dengan kerangka 5E untuk pemerolehan tata bahasa ESL (Yang dkk. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Perspektif siswa tentang chatbot GenAI (metode campuran)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Persona adopsi untuk chatbot AI
-- [[conversational-ai-agents-umbrella-review-2026]] — Tinjauan payung agen AI percakapan dalam pendidikan
-- [[conversational-ai-tutors-framework]] — Kerangka tutor AI percakapan
-- [[measuring-llm-tutors-teach-vs-solve]] — Mengukur apakah tutor LLM mengajar atau memecahkan
-- [[stanford-evidence-base-ai-k12-2026]] — AI khusus tutoring vs AI umum
-- [[rethinking-scaffolding-llm-tutors]] — Memikirkan ulang perancah pada tutor LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Tinjauan cakupan agen percakapan untuk pemrogram pemula
-- [[ba-ai-agents-cscl-review-2026]] — Tinjauan agen AI dalam pembelajaran kolaboratif berbantuan komputer
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender dan motivasi dalam capaian GenAI
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Pendamping AI adaptif peran untuk percakapan buku sekolah dasar; langit-langit afektif agen berperan tetap (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI sebagai agen dan ruang kolaboratif dalam dinamika kelompok kecil (Xu dkk. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Berbasis AI yang Sadar Budaya untuk Deteksi Stres dan Dukungan Kesejahteraan di Kalangan Mahasiswa Pakistan Menggunakan NLP dan Pembelajaran Mesin
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoring AI dan manusia menghasilkan perolehan belajar GRE yang setara
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Memberi Perancah Pencarian Bantuan AI yang Terarah Selama Pemecahan Masalah
 
 ## Kutipan
 

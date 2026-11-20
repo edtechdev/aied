@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -89,28 +91,3 @@ ai_assist:
 **「問題解決が目標なのだから、問題設定はボーナスである。」** 転移が築かれるのは問題を設定する場面である。なぜなら問題設定は、システムが与えた構造の中で操作するのではなく、学習者自身が構造を構築することを要求するからである。形式の整った問題ばかりを提供する[[curriculum-design|カリキュラム]]は、形式の整った問題に対する遂行を訓練するだけであり、それは学習者がその後に出会う条件ではない。
 
 **「協働的問題解決のシミュレーションは、協働の代替である。」** シミュレーションは相互作用のパターンを再現するものであり、そこで育成されるスキルは、実際にその場に居合わせる参加者たちによる共同の問題の調整である。現実の協働者をモデル化した参加者固有のエージェントは、その調整を研究するための研究手段であり、プロセスについて何を明らかにするかという点で有用なのであって、仲間がいない状態で学生に練習の機会を与える方法ではない。
-
-## 関連概念
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## 関連記事
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 相互作用プロファイル(推論の委譲 vs 協調的な解釈)と効率性–規制のトレードオフ
-- [[ai-assisted-collaborative-learning-model-dbr]] — 生成AIを知的な学習パートナーとして位置づけるDBRモデル
-- [[llm-critical-thinking-teamwork-review]] — LLMが批判的思考、チームワーク、問題解決を涵養することに関するPRISMAレビュー
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — 協働的問題解決のための系列マイニングによる適応的足場
-- [[genai-assisted-problem-posing-physics-2026]] — 自己調整学習の戦略としての問題生成とGenAI
-- [[genai-feedback-design-multisite-experiment]] — 遅延転移において直接的なAIを上回る内省的/ハイブリッドなフィードバック
-- [[dai-chatbots-problem-posing-primary-2026]] — 探究学習における小学生の問題生成を改善するチャットボット
-- [[llm-computational-thinking-physics-2026]] — 物理学における計算論的問題解決の拡張可能な評価者としてのLLM
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 初等数学のためのLLM個別指導システムにおける規則誘導型と場当たり的な足場の比較(Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

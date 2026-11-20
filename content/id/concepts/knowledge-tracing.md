@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,7 +62,6 @@ Pelacakan pengetahuan mengubah respons latihan mentah menjadi estimasi tentang a
 
 - **Granularitas komponen pengetahuan itu sendiri adalah keputusan pemodelan.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny dan Meurers (2026)]] membandingkan 19 model komponen pengetahuan di 11 tingkat hierarki tutoring bahasa pada 153,819 respons percobaan pertama dari 1,059 siswa kelas tujuh. Pemenangnya bergantung pada target prediksi: Actionable Element ID yang halus memimpin prediksi terblokir siswa (RMSE 0.4083), sementara Property ID + Exercise Type yang berlandaskan semantik memimpin prediksi terblokir butir (RMSE 0.4243). Pengenal yang halus juga menunjukkan laju belajar rata-rata mendekati nol (Actionable Element ID 0.000).
 
-
 ### Hubungan dengan konsep lain
 
 Pelacakan pengetahuan erat terkait dengan [[student-modeling]] — pelacakan pengetahuan secara khusus memodelkan pengetahuan kognitif sepanjang waktu, sedangkan pemodelan siswa adalah praktik yang lebih luas untuk merepresentasikan semua aspek seorang siswa (keadaan [[affective-computing|afektif]], [[student-engagement|keterlibatan]], preferensi). Pelacakan pengetahuan memasok sistem [[adaptive-learning]] dan [[personalized-learning]] yang perlu mengetahui apa yang diajarkan berikutnya, serta platform [[intelligent-tutoring]] yang menggunakan estimasi penguasaan untuk memilih soal yang tepat. Ia terhubung dengan [[learning-analytics]] untuk desain dasbor dan intervensi, dan dengan [[cognitive-diagnosis]] untuk [[assessment]] keterampilan yang terperinci. Konstruk pelacakan pengetahuan juga menginformasikan [[simulating-students|siswa simulasi]] — keadaan kognitif siswa simulasi sering diformalkan dengan dinamika penguasaan/peluruhan yang sama yang dimodelkan pelacakan pengetahuan, sehingga [[simulation]] adalah cara untuk *menghasilkan* keadaan pengetahuan yang biasanya *disimpulkan* metode pelacakan dari data respons nyata.
@@ -72,7 +73,6 @@ Pelacakan pengetahuan erat terkait dengan [[student-modeling]] — pelacakan pen
 **Catatan terkait menyangkut *bagaimana* model pelacakan divalidasi versus diterapkan.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, dan Carvalho (2025)]] mencocokkan BKT, BKT-dengan-Kelupaan, dan Additive Factors Model pada kumpulan data belajar-ulang berturut-turut multi-sesi dan menemukan bahwa model tersebut mereproduksi tren belajar ketika dicocokkan secara retrospektif pada semua sesi (AUC yang dapat diterima ≈ 0.74–0.79); tetapi di bawah **validasi silang berbasis waktu** — melatih pada satu sesi untuk memprediksi sesi berikutnya, yaitu setting terapan yang realistis — ketiganya melebih-lebihkan kinerja masa depan sekitar 47–58%, gagal menangkap [[retrieval-spacing-interleaving|efek jeda]], dan bahkan dapat memprediksi urutan ordinal yang salah antarkondisi latihan. Yang menandakan, model *tanpa* mekanisme kelupaan eksplisit tampil hampir sebaik versi yang diperkaya kelupaan seiring bertambahnya sesi, menunjukkan bahwa kelupaan sebagian terserap ke parameter lain (misalnya intersep per siswa dalam AFM) alih-alih benar-benar dimodelkan. Para penulis mengaitkannya dengan pembedaan belajar-versus-kinerja: model populer mencampuradukkan kinerja tinggi pada saat itu dengan kemungkinan tinggi retensi jangka panjang. Implikasi praktisnya adalah bahwa pelacak yang tampak baik pada kecocokan retrospektif dapat menyesatkan sistem adaptif yang mengonsumsi estimasi penguasaannya, sehingga diperlukan evaluasi walk-forward dan model yang memperhitungkan interval retensi, jeda, dan kelupaan antarsesi.
 
 **Catatan keadilan: keterampilan yang tidak dimodelkan memengaruhi keadaan yang dilacak secara bias terhadap seluruh kelompok.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] menemukan pelacakan pengetahuan Bayesian pada log MATHia dari 8,549 siswa selama dua tahun ajaran hanya sedikit bias secara agregat — paritas statistik −0.077 (2021–2022) dan −0.066 (2022–2023) — meskipun kesenjangannya jauh lebih besar pada keterampilan yang berat membaca. Dampak berbeda berjalan 0.885 dan 0.878, dan perbedaan kalibrasi antarkelompok membaca signifikan meskipun ukurannya kecil (.0046 dan .0054). Bias pada tingkat keterampilan adalah tempat kerugian terkonsentrasi: 36 dari 50 keterampilan yang dianalisis bias terhadap pembaca pemula, dipimpin model "terapkan eksponen" yang berat membaca dengan paritas statistik −0.262 dan dampak berbeda 0.609.
-
 
 **Catatan lebih lanjut menyangkut aturan bukti yang memasok pembaruan.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] menjalankan empat aturan pembaruan atas urutan peristiwa ASSISTments 2012–13 yang identik, berbeda hanya dalam cara menilai baris yang diselesaikan dengan bantuan, pada separuh konfirmatori berisi 12,716 siswa dan 985,813 peristiwa ternilai. Membaca baris yang diberi petunjuk atau dicoba ulang sebagai upaya pertama yang gagal paling baik memprediksi kinerja tanpa bantuan di kemudian hari (AUC terkumpul 0.658); mengkreditkan penyelesaian apa pun paling buruk memprediksinya (0.604), nyaris di atas konstanta yang hanya mengetahui tingkat kesulitan keterampilan (0.595). Pilihan yang sama mengatur hitungan penguasaan: mengkreditkan penyelesaian menyatakan 93.9% dari 113,428 pasangan siswa–keterampilan telah dikuasai berbanding 72.8% di bawah aturan ketat, dan pasangan yang dinyatakan lebih maju oleh aturan longgar kemudian mencapai akurasi tanpa bantuan 70.9% berbanding 85.7% ketika keduanya sepakat, di bawah laju dasar 0.744. Keadaan yang dilacak karena itu sebagian merupakan fungsi dari konvensi penilaian alih-alih dari siswa semata, sehingga estimasi penguasaan yang dikonsumsi oleh gerbang [[adaptive-learning|adaptif]] harus membawa aturan yang menghasilkannya.
 
@@ -107,39 +107,3 @@ Pelacakan pengetahuan erat terkait dengan [[student-modeling]] — pelacakan pen
 
 - Laporkan hasil pada lebih dari satu keluarga kumpulan data sebelum mengklaim keunggulan arsitektural, karena kontras OKT berbalik antara data LMS teknik dan ASSISTments.
 - Laporkan aturan penghitungan penguasaan sebagai parameter hasil, bukan sebagai catatan kaki metodologis.
-
-## Konsep terkait
-
-- [[learners]] — Siswa: payung bagi konsep-konsep sisi siswa
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — estimasi penguasaan terperinci yang memasok keputusan dukungan
-
-## Artikel terkait
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalisasi berlebih yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum siswa tahu kapan harus menahan suatu tindakan (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Tutor Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Pelacakan pengetahuan berbasis hasil dengan pemetaan afinitas
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — pelacakan berlandas semantik dengan keadaan terkalibrasi KC, digunakan sebagai lingkungan RL untuk rekomendasi
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Tutor Agentik yang Mempelajari Siswanya dalam Lingkar Ko-Pembelajaran Manusia-AI
-- [[crediting-assisted-work-inflates-mastery-2026]] — Aturan bukti mana yang menentukan klaim penguasaan (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — LLM sekali-jalan melacak pengetahuan di atas model mendalam yang dilatih pada 8 siswa, dengan sebagian kecil biayanya (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Memampatkan riwayat siswa dalam pelacakan pengetahuan matematika

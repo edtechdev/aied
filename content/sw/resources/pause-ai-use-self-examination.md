@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,8 +44,3 @@ Wanafunzi, wakufunzi na watafiti wanaotaka ilani ya kibinafsi ya kuchunguza mazo
 ## Vidokezo
 
 Imeandikwa na Mahbub Ul Alam (Kituo cha Data cha SciLifeLab, Chuo Kikuu cha Uppsala); mantiki ya ubini na mipaka ya uthibitishaji yameandikishwa katika nakala ya awali inayosindikiza, na msimbo wa chanzo ni wa hadharani.
-
-## Dhana Zilizounganishwa
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
-

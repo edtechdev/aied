@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -42,6 +43,3 @@ Vragen stellen over de hele bronverzameling, lange documenten samenvatten, en ci
 ## Opmerkingen en kanttekeningen
 
 Google verklaart dat inhoud van persoonlijke accounts niet wordt gebruikt om zijn modellen te trainen tenzij de gebruiker feedback instuurt, dat Workspace-uploads, zoekopdrachten en antwoorden niet voor training worden gebruikt ook niet bij feedback, en dat [[privacy|data niet met derden wordt gedeeld]]; verwijderde notebooks kunnen echter niet worden hersteld. De capaciteitsclaims hierboven zijn die van de leverancier zelf, en een district of instelling moet ze bevestigen tegen zijn verwerkersovereenkomst in plaats van tegen een productpagina. Berichtgeving in 2026 beschreef ook een rechtszaak over de stem die in gegenereerde podcasts wordt gebruikt, wat Google ontkende — een herinnering dat audio-uitvoer [[legal-issues-and-risks|vragen over gelijkenis]] oproept die losstaan van de waarborgen rond brongronding. Behandel gegenereerde flashcards, quizzen en samenvattingen als schetsen om tegen de bronnen te controleren, en let erop dat de limieten van de gratis laag zonder aankondiging veranderen.
-
-## Gerelateerde concepten
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

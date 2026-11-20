@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -191,87 +193,3 @@ Otoritas epistemik dalam perencanaan berbantuan AI dinegosiasikan episode demi e
 **"Guru sudah menjadi kodesainer AI, jadi transisinya sedang berjalan."** Aspirasinya nyata; deskripsinya belum. [[wang-teacher-ai-co-design-review-2026|Tinjauan sistematis Wang, Liu dan Islam (2026)]] atas kodesain tugas belajar antara guru dan AI menemukan sikap kodesainer **masih tidak merata**, dengan mode dominan masih AI sebagai asisten atau pembangkit konten. Membaca tinjauan itu sebagai bukti pergeseran yang telah selesai akan menyembunyikan celah antara guru yang direkomendasikan halaman seperti ini dan guru yang sebenarnya dimiliki sebagian besar institusi.
 
 **"Bagaimana guru mendelegasikan kepada chatbot hampir tidak penting, karena modelnya yang bekerja."** Pola delegasi itulah intervensinya. Dalam perencanaan pelajaran seni STEAM anak, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo dan Tahir (2025)]] menemukan secara eksperimental bahwa mengisi celah konten dalam pelajaran yang *dirancang sendiri* mempertahankan otonomi desain guru sambil tetap meningkatkan mutu rencana yang dinilai pakar (median 20,5 versus 17,6, p = 0,002, efek besar), mengungguli alternatif membiarkan model menyediakan kerangkanya. Model sama, tugas sama, pembagian kerja berbeda, hasil berbeda secara material.
-
-## Konsep terkait
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[learner-identity]] — identitas pembelajar yang berkembang secara disipliner, profesional, kreatif, dan akademik
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-
-- [[reflection]]
-
-## Artikel terkait
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Empat dinamika identitas, ambivalensi produktif, dan biaya institusional dari kerja relasional
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 sekolah menengah Inggris: persiapan pelajaran turun 25.3 menit per minggu tanpa kehilangan mutu yang terdeteksi (Roy et al., 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — RCT ASSISTments: ringkasan AI menaikkan penyelesaian tugas tetapi bukan skor tingkat kelas (Lim et al., 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Akademisi kasual menanggung kerja integritas tanpa otoritasnya
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoks yang lebih manusiawi: skenario 2030 dari pakar menemukan kejenuhan AI memperkuat alih-alih menggantikan kerja pedagogis manusia (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Enam pelajaran matematika sekolah menengah yang diamati memperluas orkestrasi instrumental dengan tiga tipe baru (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Merespons peringatan emosional hasil AI: intervensi guru dan keterlibatan siswa di kelas matematika
-- [[edustories-classroom-case-studies-2026]] — Edustories: Kumpulan Studi Kasus Dunia Nyata dari Praktik Kelas
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Guru merancang chatbot kelas sebagai pakar terbatas dan mempertahankan otoritas
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI sebagai "frenemy": guru lebih menyukai semi-otonomi, kegunaan mendorong adopsi, keengganan risiko menyasar penggunaan siswa (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — Pengambilan Keputusan Dosen Berbantuan AI di Pendidikan Tinggi
-- [[chirikov-regulate-ai-syllabi-2026]] — Bagaimana instruktur mengatur AI di lebih dari 31.000 silabus mata kuliah; regulasi tingkat tugas (Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — Kepemimpinan filosofis sebagai peran mengajar tiga fase: pertimbangan etis, panduan pedagogis, penerjemahan kebijakan (Socorro Márquez et al., 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — Perilaku inovasi pengajaran AI di kalangan dosen (SEM AI-TPACK; Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]] — 
-- [[teacher-student-agency-orchestration]] — 
-- [[ai-changing-teaching-workflows]] — 
-- [[teacher-authored-prompts-student-ai-dialogue]] — 
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading, dan implikasinya bagi pendidikan (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI dan Praktik Desain Instruksional: Sebuah Tinjauan Sistematis (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dapatkah AI memberikan dukungan yang tepat bagi profil siswa yang beragam? Sebuah evaluasi skala besar
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Siswa hantu dan AI agensik dalam penilaian
-- [[wang-teacher-ai-co-design-review-2026]] — Kodesain tugas belajar antara guru dan AI: tren dan perspektif (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Pengalaman dan persepsi dosen universitas terhadap GAI: kerentanan, memikirkan ulang penilaian, pembelajaran siswa dalam risiko (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Pertimbangan nilai dalam menilai pekerjaan berbantuan GenAI: kejujuran, kepercayaan, validitas, dan transparansi dua arah (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses guru di kelas campuran
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — 
-- [[breideband-community-builder-cobi-2026]] — 
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — 
-- [[xai-teachers-trust-edtech-recommendations-2026]] — 
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — 
-- [[ai-integrated-teaching-identity-tensions]] — Ketegangan identitas dan selektivitas berprinsip dalam pengajaran terintegrasi AI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Intervensi guru dalam pengajaran berbasis AI di K-12: sebuah tinjauan sistematis
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pengembang akademik sebagai mediator digital: rekonfigurasi peran, kerja afektif, dan pertimbangan di HDI Afrika Selatan
-- [[where-ai-enters-teacher-work-2026]] — Di mana Kecerdasan Buatan Masuk ke Pekerjaan Guru
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: guru sebagai proksi antara pembelajar dan AI, kuasi-eksperimen 19 kelas di mana pelatihan dan pengurangan usaha tidak langsung menggerakkan keuntungan (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Tata Kelola Instruksional melalui Desain: Sebuah Kerangka bagi AI dalam Pendidikan Komputasi
-- [[teachers-configure-educational-chatbots-2026]] — Apakah Ia Akan Mengajar sesuai Niat? Bagaimana Guru Mengonfigurasi Chatbot AI Pendidikan
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Mediasi guru dalam matematika: lima praktik mediasi kritis, otoritas yang bergeser, dan kesenjangan algoritmik gratis versus premium
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Kesiapan guru melalui desain: kesiapan sebagai kapabilitas desain, bukan adopsi atau kepercayaan diri (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Umpan balik guru berbantuan ChatGPT: guru mengurasi draf AI alih-alih meneruskannya
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Dari kompetensi ke agensi: pandangan guru tentang tujuan pendidikan AI
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Moderator debat manusia versus AI: penilaian setara, jalur berbeda menuju penggunaan kembali
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI dalam pendidikan pemrograman: tinjauan sistematis di mana peran instruktur paling sedikit diteliti
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Dari penyedia informasi ke perancang pembelajaran: praktik mengajar heutagogis dalam pendidikan yang diperkaya AI
-- [[falhs-teacher-expertise-reflection-2025]] — Bagaimana Tingkat Keahlian Membentuk Preferensi dan Kebutuhan Refleksi: Menuju Sistem Refleksi AI untuk Pemberdayaan Guru (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostik AI percakapan untuk miskonsepsi mengajar dengan dialog berlandaskan bukti (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — Penggunaan AI tidak berpengaruh langsung pada kinerja guru; perilaku kewargaan memediasinya (Sherly et al. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 episode yang menunjukkan otoritas dipertahankan, dibagi, atau diserahkan dalam perencanaan pelajaran berbantuan AI
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Persepsi Siswa atas Papan Diskusi: Studi Technology Acceptance Model untuk Menginformasikan Desain Analitik Pembelajaran Berbasis AI
-- [[gnadlinger-educator-perspectives-its-design-2026]] — Menuju penyertaan perspektif pendidik dalam desain meta-sistem sistem tutor cerdas
-- [[chen-future-faculty-development-ai-2027]] — Guru sebagai konduktor keahlian orang lain, dengan peran tersebar di seluruh tim pengajar
-- [[li-instructor-designed-ai-rct-2026]] — AI yang dirancang instruktur meningkatkan pembelajaran dalam uji coba teracak di 19 universitas (Li et al., 2026)

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -120,36 +122,3 @@ ai_assist:
 وهذا لا يجعل العمل عديم النفع. بل يجعل الادعاءات متواضعة في محلها. فاستخراج الاستعارات قد يكشف افتراضات تفوتها الاستبيانات. ونقد التناظر قد يجعل الفهم البنيوي مرئيًا. واستعارة مختارة بعناية قد تمنح الصف أثرًا مشتركًا يجادلون فيه. لكن المجال ما زال يحتاج دراسات تقارن التدريس القائم على الاستعارة بتدريس عادي، وتقيس النقل لا استدعاء الاستعارة، وتختبر هل تقبل المقاربة الانتقال عبر الثقافات والتخصصات.
 
 وخطر المبالغة حقيقي في الاتجاهين. فالمعلّم الذي يعامل الاستعارة كشرح كامل قد يُثبّت مفهومًا خاطئًا. والباحث الذي يعامل الاستعارة كزينة محضة قد يفوته آلية يبني بها الطلاب نموذجًا ذهنيًا أو يفشلون في بنائه. والموقف المنتج هو معاملة الاستعارة كتمثيل مُصمَّم وجزئي وقابل للنقد، ودراسة ما يفعله المتعلّمون بها.
-
-## المفاهيم المتصلة
-
-- [[ai-literacy]] — الإطار الجامع لثقافة الذكاء الاصطناعي النقدية والتدريس القائم على الاستعارة.
-- [[critical-thinking]] — نقد التناظر كضرب من الاستدلال البنيوي.
-- [[misconceptions]] — التناظرات المعيبة مصدرًا لمفاهيم خاطئة راسخة.
-- [[student-ai-interaction]] — كيف يفسّر الطلاب شروح الذكاء الاصطناعي ويدققونها.
-- [[pedagogical-agent]] — مدرّسو الذكاء الاصطناعي الذين يولّدون شروحًا أو تناظرات.
-- [[learning-design]] — اختيار مواد قائمة على التناظر وتسلسلها.
-- [[educational-development]] — استخراج الاستعارات في تطوير هيئة التدريس.
-- [[engineering-education]] — استعارات هيئة التدريس والطلاب في الهندسة.
-- [[cs-education]] — استخدام التناظر ونقده في تعليم الحوسبة.
-- [[cognitive-offloading]] — استعارات الأداة والمساعد ومخاطرها.
-- [[trust-calibration]] — الأدوار الأنثروبومورفية والثقة في غير موضعها.
-- [[equity-in-ai-education]] — أي المجالات المصدر تُعدّ مألوفة، ولمن.
-- [[teacher-role]] — حكم المدرّس على الشروح المولَّدة بالذكاء الاصطناعي.
-- [[explainable-ai]] — شرح النظام مقابل التناظر التربوي.
-- [[student-engagement]] — آثار الاندماج في التناظرات المخصَّصة.
-- [[higher-ed]] — سياق معظم الدراسات في هذه العنقود.
-
-## المقالات المتصلة
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — أربع استعارات ومعايير لتدريس ثقافة الذكاء الاصطناعي النقدية
-- [[student-reception-genai-analogies-computing-2026]] — الطلاب يدققون تناظرات مولَّدة بالذكاء الاصطناعي التوليدي ويُصلحون إسقاطات مكسورة
-- [[fear-awe-genai-metaphor-workshops-2025]] — ورش تحليل الاستعارة مع الطلاب والأكاديميين والموظفين
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — استعارات مدرّسي الهندسة تبني فهم الذكاء الاصطناعي وتقيّده
-- [[genai-professionalization-metaphors-2026]] — التصورات الاستعارية للطلاب عن الذكاء الاصطناعي التوليدي والتعلّم المهني
-- [[thermomix-genai-education-analogy-2026]] — تناظر جهاز مطبخ للتفويض والتعلّم بالذكاء الاصطناعي
-- [[anvil-ai-educational-animations]] — تناظرات مولَّدة بالذكاء الاصطناعي وتحريك تعليمي للحوسبة
-- [[ai-engineering-education-balancing-act]] — استعارتا "الأوراكل" و"المدرّس" لدى الطلاب تتجاوزان قدرات نماذج اللغة الكبيرة
-- [[code-anchor-multi-view-visualization]] — سقالات التصوّر الاستعاري ومشكلة مشروعيتها
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — استعارة طالب "آلة بيع التغذية الراجعة" كدليل ثقافي
-- [[daoism-ai-education-philosophy-2026]] — "Zhenren" كاستعارة مضادة للذكاء الاصطناعي في التعليم

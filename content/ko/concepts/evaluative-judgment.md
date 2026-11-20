@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -73,7 +75,6 @@ ai_assist:
 
 - **피드백 도구는 판단을 비계로 세우면서 교사가 관계적 부분을 맡게 할 수 있습니다.** 고등교육 교사 21명이 PolyFeed를 사용한 결과, 모형은 누락된 구성요소를 드러냈고(21명 중 20명이 "학습 목표 충족"을 건너뛰었습니다) 12명이 ChatGPT 텍스트를 다시 썼으며, 그 수정은 학생–교사 관계 차원에 몰려 있었습니다([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
-
 - **피드백 출처가 어떤 판단 차원이 발달하는지를 형성한다.** 박사 통계 사례 연구에서, ChatGPT-4o는 절차적 안내를 주었으나 잘못된 데이터 파일이나 잘못 적용된 검사를 표시할 수 없었고, 동료와의 대화는 잘못된 데이터를 실시간으로 잡아내어 방법 선택의 정당화를 요구했습니다([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]]).
 - **구조화된 동료-AI 검토가 보정을 확장한다.** PAIRR 모델 [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]]는 동료 검토와 AI 검토, 구조화된 성찰을 결합하며, 지금까지 AI 피드백을 사용하는 학생에 대한 가장 큰 연구에서 시험되었습니다(학생 654명, 글쓰기 강좌 10개). 이는 자신의 판단, 동료의 판단, AI의 판단 사이의 *비교*를 훈련장으로 삼아, 평가적 판단을 암묵적 부산물이 아니라 명시적 학습 결과로 위치시킵니다.
 - **AI 피드백은 리터러시가 이미 있을 때만 돕는다.** 피드백 리터러시 연구자들의 개념 틀 [[zhan-boud-dawson-genai-feedback-engagement|(Boud, Dawson & Yan)]]은 피드백을 이끌어냄, 처리, 실행으로 분석하며, ChatGPT와 함께한 IELTS의 대비되는 두 사례를 사용합니다. [[feedback-literacy|피드백 리터러시]]가 낮은 학생은 모호한 프롬프트를 써서 일반적인 산출물을 받고 그것을 신뢰하거나 지나치게 베꼈고, 리터러시를 갖춘 학생은 AI를 비판적으로 사용하여 배웠습니다. 생성형 AI는 피드백을 구하는 인지적·정서적 장벽을 낮추지만, 그 자신도 환각되거나 편향되거나 일반적일 수 있습니다. 이것이 [[teacher-role|교수자]]가 [[prompt-engineering|프롬프트]]뿐 아니라 평가적 계획을 모범을 보이고 판단을 훈련해야 한다고 주장되는 이유입니다.
@@ -95,7 +96,6 @@ ai_assist:
 
 같은 추론은 구조적 판본을 허용합니다. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman과 Thorén(2026)]]은 **패터닝**을 복잡성을 학습자가 의미 있다고 느끼는 구조로 조직하는 발달적 작업으로 이름 붙이고, 관련성을 미리 정렬하는 시스템이 그 작업이 요구하는 조건을 제거한다고 주장합니다. 그 결과에 대한 그들의 용어는 **빌려온 판단**입니다. 학습자는 시스템이 이미 구조화한 자료를 평가하므로, 판단은 수행되지만 결코 획득되지 않습니다. 이 논문은 자체 데이터가 없는 이론적 분석이며 — Tentaklar 플랫폼은 기제를 시험하기보다 예시합니다 — 따라서 실패 양상은 학습자에게서 관찰된 것이 아니라 설계로부터 논증됩니다.
 
-
 대체에는 교사 쪽 판본이 있으며, 그것이 여러 작문 교수가 채점의 완전한 외주화에 반대하게 만든 이유입니다. 스물네 명 가운데 다섯 명은 채점이 교사가 학습자를 이해하게 되는 방식이라고 말했고, 따라서 그것을 위임하면 시간만이 아니라 그 이해를 잃습니다([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). 스물네 명 가운데 열여덟 명은 인간의 판단을 도구의 오류를 잡아내고 그 책임을 지는 것으로 다뤘습니다.
 
 ## 실천을 위한 함의
@@ -115,55 +115,3 @@ ai_assist:
 - **"평가자 오류는 무작위 잡음이다."** **평가자의 판단은 그 자체로 측정 가능한 방향을 지닙니다**. 입학 담당자 다섯 명이 **인간 에세이 50편과 AI 에세이 50편**을 구별한 결과 **AUC 0.70**에 도달했으며, 이는 출처를 약하게만 구별할 수 있었음을 뜻합니다. 제출물을 선별하는 단계가 없었으므로 그 **도움 없는 판단이 집행의 전부**였고, 지목된 에세이는 각각 **입학 확률이 1.5퍼센트포인트 낮아졌습니다**. 약한 신호가 실제 처벌이 되었습니다.
 - **"동료 검토와 AI 검토는 대체물이다."** PAIRR 모델 [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]]은 **동료 검토와 AI 검토를 결합**하여 보정을 구조화합니다. 결합하는 것이 설계이며, 이는 어느 하나만으로는 그것을 제공하지 못함을 함축합니다.
 - **"판단의 품질은 판단자의 속성이다."** 입학 사례의 발견은 문제를 개인의 능력이 아니라 배열에 둡니다. 선별 단계 없이 결과가 큰 지점에 적용된 검증되지 않은 판단입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 학생이 이 순서들 안에서 AI 산출물에 대해 수행하는 감정 단계
-- [[ai-education]] — 교육에서의 인공지능(상위 개념)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## 연결된 문서
-
-- [[elkington-human-centred-assessment-value-2026]] — 인간 중심 평가, 어상블라주, 생성적 제약 (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 작문 교수들이 채점 외주화를 거부하는 이유: 그것이 학생을 이해하는 방식이기 때문이다
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 판단은 수정과 연결될 때에만 품질을 갈랐다 (Z = 2.80과 2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — 교수자의 수정이 재사용 가능한 검증 기준이 되었다 (Tang et al. 2026)
-
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — 평가적 판단의 다른 차원을 기르는 훈련장으로서의 ChatGPT 대 동료 피드백
-- [[ai-internal-feedback-evaluative-judgments]] — AI 지원 내부 피드백이 평가적 판단을 어떻게 발달시키며, 추론이 어디서 얇게 남는가
-- [[genai-feedback-design-multisite-experiment]] — 혼합 자기/동료/AI 피드백이 직접 AI 피드백보다 주체성과 판단을 더 잘 보존한다
-- [[pairr-ai-peer-review-2025]] — 규모에서의 보정으로서의 구조화된 성찰을 곁들인 동료-AI 검토
-- [[zhan-boud-dawson-genai-feedback-engagement]] — 피드백 리터러시가 AI 피드백이 가르치는지 대체하는지를 지배하는 방식
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — AI 피드백의 지속 가능성 격차
-- [[teichmann-detecting-undetectable-misconduct-2026]] — 탐지 주도 단속을 대체하는 설계 줄기 가운데 하나로서의 평가적 판단
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 가시적 추론과 판단을 루브릭이 보상하는 대상으로 만들기
-- [[learner-centered-feedback-ai]] — AI 피드백 도구와 함께하는 교수자의 평가적 판단
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: 단속이 아니라 재설계된 진정성
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 생성형 AI 시대를 위한 평가 타당성의 재개념화
-- [[du-yuan-epistemic-dependence-2026]] — 이의 제기 가능성, 회복 가능성, 그리고 의존과 신뢰를 가르는 기준
-- [[rethinking-ai-writing-feedback-literacy]] — AI 지원 글쓰기를 위한 피드백 리터러시
-- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 할까요? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
-- [[sharma-judgment-visible-genai-assessment-2026]] — 정직성의 평가적 핵심으로서의 판단: 주석이 달린 결정의 흔적, 구두 변론, 버전 기록 (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — 공동화된 기준 없이 증거를 저울질하는 패널들: 기관 자신의 판단 문제 (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기의 부정확성과 혼합 글쓰기 실패: 판결 대신 권고된 대안으로서의 인간 판단 (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — 플랫폼이 아닌 기능: 도구가 무엇인지가 아니라 무엇을 했는지를 판단하기(Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms와 변별률: AI 지원 작업 뒤에 놓인 추론의 흔적을 채점하기(Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI가 쓴 입학 에세이는 널리 퍼져 있으나 불이익을 받는다
-- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등교육에서의 평가 진정성 파일럿 연구
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 각각의 AI 상호작용을 구조짓는 주체성 점검(신뢰할 만하고, 적절하며, 받아들일 수 있고, 섬세한)
-- [[judgment-centred-software-engineering-education-2026]] — AI가 보강하는 소프트웨어 공학 교육을 위한 과장을 걷어낸 검토와 틀
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — 빌려온 판단: 관련성을 미리 패터닝하는 시스템이 해석의 작업을 제거한다 (Åhman & Thorén 2026)
-- [[yan-accountable-judgement-language-assessment-2026]] — 언어 및 번역 평가를 위한 책임 있는 판단, 문화적 매개를 채점 차원으로 포함

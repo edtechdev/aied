@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -44,7 +45,3 @@ ai_assist:
 ## הערות ואזהרות
 
 המרכז הוא הדרכה, לא מוצר ציות: האתר אינו טוען להתאמה ליעד WCAG 2.2 AA שלו עצמו, עונה "לא" על "האם השימוש בקבצים האלה הופך את האתר שלי לתואם?", ואומר שסקירה הנדסית אינה מחליפה אישור בית ספר או בדיקה משפטית. מדף האבטחה מצביע על axe-core, Gitleaks, ZAP ו-Playwright; אלה הפניות ולא תוכנה ארוזה, והכלים הפולשניים מיועדים למטרה חד-פעמית או מורשית במפורש. קריאה אינה דורשת חשבון. בנייה מחדש של עמודי ה-HTML דורשת Python ו-`markdown-it-py`, שהיא תלות בנייה ולא תלות מבקר. המאגר ברישיון MIT, בעוד שאמנות של צד שלישי והפרויקטים המקושרים שומרים על התנאים שלהם, המתועדים ב-`CREDITS.md`.
-
-## מושגים מחוברים
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

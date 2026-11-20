@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -80,48 +82,3 @@ Kundi lililojikita wa masudio ya 2026 ya *International Journal of STEM Educatio
 - **"Mafunzo mahiri hufanya kazi kote katika STEM kwa usawa."** Mapitio ya kusimulia yaliyopangwa ya **machapisho 20 (2020-Aprili 2026)** yaligundua faida iliyopimwa iliyo wazi zaidi kwa mafunzo ya **utambuzi wa wakati halisi** hasa. Ushahidi ni **wenye mipaka na wa masharti**, na kuujumlisha kwa mafunzo yote mahiri ya hisabati kunazidisha kile kilichopitiwa.
 - **"Uigaji ni mbadala hafifu wa kazi ya mikono."** Kundi la uigaji **lilizidi kundi la mikono kwa maarifa ya STEM yanayolingana na mtaala (M = 3.00 dhidi ya 2.06; t(28) = 2.23, p = .034, d = 0.82)**. Uigaji haukuwa mbadala unaofanya vibaya kuliko kitu halisi.
 - **"Mtiririko wa kazi wa fasihi unaosaidiwa na AI huokoa muda hasa."** Matokeo kutoka **wanafunzi 20 katika nyaraka 80** yalionyesha **zaidi ya 90% ya uchimbaji wa vigezo vya majaribio, takriban 65% ya kupunguzwa kwa muda wa mapitio ya fasihi, na ongezeko la 50% la uwezo wa wanafunzi kutambua kazi zenye ushawishi**. Faida ya uwezo ilikuwa matokeo makubwa na uokoaji wa muda ulikuwa mdogo zaidi.
-
-## Dhana Zilizounganishwa
-- [[learner-identity]] — utambulisho wa mwanafunzi unaobadilika wa taaluma, kitaalamu, wa kibunifu na wa kitaaluma
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya mchakato, mipaka ya LLM, falsafa ya majaribio
-- [[biology-education]] — Elimu ya biolojia na AI: wasaidizi wa kufundisha wa maabara, ujuzi wa AI katika biolojia, ufikiri mahususi, zana maalum
-
-## Makala Zilizounganishwa
-- [[ai-pedagogical-accompaniment-amico]] — Ufuatiliaji wa kielimu unaowezeshwa na AI unaounga mkono utambulisho wa STEM
-- [[lnenicka-secondary-students-genai-stem-2026]] — Wanafunzi wa sekondari wanafanya nini kweli na zana za GenAI katika STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot za GenAI na kuweka maswali ya matatizo katika sayansi ya msingi
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT kwa kujifunza kwa msingi wa uchunguzi katika STEAM
-- [[niri-steam-ai-literacy-review-2026]] — Elimu ya STEAM kwa ujuzi wa AI: mapitio ya kimfumo
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programu ya STEM inayotegemea AI ya kubadilika kwa kujifunza kwa kina
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Wasifu wa kukubalika ChatGPT kwa walimu wa awali
-- [[zhang-ct-ai-training-test-2026]] — Fikra za Kikokotozi katika Mtihani wa Mafunzo ya AI (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Zana, mkufunzi, au mtego: nadharia iliyowekwa ya programu inayosaidiwa na AI
-
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Mapitio ya kimfumo ya AI katika elimu ya sayansi/kemia
-
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Uchimbaji wa habari unaowezeshwa na AI unaounga mkono tesi ya shahada ya kwanza na kujifunza kwa msingi wa utafiti (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Kujifunza kwa drone kunasaidiwa na uigaji wenye ngazi za msaada zilizobuniwa na mwalimu-AI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Athari iliyopangwa pamoja ya mafunzo ya STEM yanayoungwa na AI katika masudio 35, huku faida kubwa zaidi zikiwa katika shule ya sekondari (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Mapacha wa kidijitali katika STEM: kila masudio yaliyopitiwa yalitoa mfano unaofanya kazi, wachache walipima kujifunza
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Kikao cha dakika 45 cha uandishi wa ilani na ukaguzi wa makosa kiliinua alama za fizikia (*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Ushahidi wa mafunzo mahiri ya hisabati ni wenye mipaka na wa masharti

@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -100,32 +102,3 @@ ai_assist:
 **"[[intelligent-tutoring|المدرّس التكيفي]] يساعد كل مستوى بالقدر نفسه."** المقارنة التي تعزل المتغيّر مفيدة: نسختان من مدرّس رياضيات للصف الثاني ذاته — محتوى وواجهة وتغذية راجعة وتلميحات منطوقة متطابقة — تختلفان **فقط في ما إذا كان اختيار المهمة يتبع نموذجًا بايزيًا لـ[[knowledge-tracing]]**. فاختيار المهمة التكيفي تدخّل حسّاس للمرحلة، ونفعه يعتمد على قدرة المتعلّمين في تلك المرحلة على التصرّف بناءً على التكيّف.
 
 **"الأدلّة المتركّزة في التعليم العالي تُعمَّم نزولًا."** لا تُعمَّم، وتوزيع الأدبيات تحذير لا تسهيل. فموضع كثافة الأدلّة ورقّتها خاصية في اقتصاد البحث لا في موضع الاستخدام الأكثر للذكاء الاصطناعي، فدعوى عن K-12 مستمدّة من عيّنات جامعية استقراءٌ عبر الحدّ الأهم.
-
-## مفاهيم مرتبطة
-
-- [[k-12]] — مرحلة K-12
-- [[early-childhood-elementary-ai-education]] — تعليم الطفولة المبكرة والابتدائي بالذكاء الاصطناعي
-- [[higher-ed]] — التعليم العالي
-- [[adult-learning]] — تعلّم الكبار
-- [[special-education]] — التعليم الخاص
-- [[teacher-education]] — تعليم المعلّم
-- [[vocational-education]] — التعليم والتدريب المهني
-- [[learners]] — المتعلّمون
-- [[parents-and-families]] — الآباء والعائلات
-- [[differential-effects-across-learner-groups]] — الآثار التفريقية عبر جماعات المتعلّمين
-
-## مقالات مرتبطة
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — التدريس التكيّفي مقابل غير التكيّفي في رياضيات الصف الثاني (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — روبوتات محادثة الذكاء الاصطناعي التوليدي وصياغة المشكلات مع طلاب الصف الثالث في العلوم الابتدائية
-- [[chatgpt-music-education-junior-high-2026]] — مواقف طلاب المدارس الإعدادية من ChatGPT في تعلّم كلمات الأغاني (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — نظام إدارة تعلّم مدمج بالذكاء الاصطناعي مصمّم للمدرسة المتوسّطة، مع دراسة طولية مقترحة
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة تعلّم الذكاء الاصطناعي التوليدي في التعليم الثانوي الصيني (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — أربعة أنواع من الاعتماد على النماذج اللغوية الكبيرة بين كتّاب المرحلة الجامعية الأولى (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — منصّة حلقة دراسية مدعومة بالذكاء الاصطناعي بدعم أمين مكتبة مدمج لطلاب الهندسة
-- [[ai-mediated-research-agency-formation-2026]] — اعتماد الذكاء الاصطناعي والاستقلال والابتكار في تدريب الدكتوراه وما بعد الدكتوراه (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — وجهات نظر أصحاب المصلحة في خصوصية البيانات في التعليم العالي الإفريقي (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — جاهزية تبني الذكاء الاصطناعي لمديري التعليم عبر أوكرانيا (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — تعلّم قائم على مشاريع غامر مُتاح بالذكاء الاصطناعي لطلاب التصميم المهني (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — نية معلّمي ما قبل المدرسة في استخدام الذكاء الاصطناعي في أوساط الطفولة المبكرة
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — مواقف الأطفال من روبوت محادثة ذكاء اصطناعي مُكيَّف بالعمر

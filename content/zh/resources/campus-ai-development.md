@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-24"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -43,9 +44,3 @@ ai_assist:
 ## 说明与注意事项
 
 它自称为独立的个人项目，不是机构政策或法律意见。文中点名的机构之所以出现，是因为它们公开过自身实践的记录，而不是被它背书；讨论用案例是合成的。它的法律例证是美国法（FERPA、ADA Title II、GLBA），并在出现处标注了时间；不过它主张这条路径、这些问题、数据级别与做法选择并不依赖这些法条。它的证据页为每项研究都附了链接，并把某一有限任务上的提速与有经验的维护者读自己代码时的变慢并列呈现；它也承认试验数据只覆盖代码建议，而不包括规格驱动或多智能体工作，因此"需要更多结构"的主张建立在实践与合规逻辑之上，而非这类证据。文中未声明任何复用许可。姊妹站点 [campusdatagov.com](https://campusdatagov.com/) 与 [campusairegistry.com](https://campusairegistry.com/) 承载数据治理与智能体登记部分，因此本页是进入 [[educational-policy-ai|教育人工智能政策]]工作的良好入口，但不能替代这些专门工作。
-
-## 关联概念
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

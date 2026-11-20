@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -101,41 +103,3 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - **« Perturber les étudiants produit des gains créatifs. »** **La friction n'est pas un gain créatif.** Des personas d'IA contestataires ont suscité un discours de mise en cause et de réflexion dans **38.2% des groupes** sans produire **aucune amélioration mesurable de la performance créative**. Le discours a changé, le résultat mesuré non.
 - **« La littérature K-12 établit que l'IAG améliore la créativité. »** Une revue de portée guidée par PRISMA sur **45 études (2017-2025)** montre que l'IAG surtout **renforce** la créativité et **la mesure rarement**. Le constat dominant du domaine est une inférence tirée d'un renforcement perçu, ce qui n'est pas une mesure de résultat.
 - **« Plus de dépendance à l'IAG signifie plus de production créative. »** Chez **1,157 étudiants de troisième cycle chinois**, la dépendance à l'IAG était **positivement associée à la créativité de recherche auto-déclarée** — et l'association porte sur de l'**auto-déclaration**, la mesure la plus faible disponible pour ce construit.
-
-## Concepts liés
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## Articles liés
-- [[wei-genai-configurations-creative-phases-2026]] — Configurations d'IA générative selon les phases créatives : une expérience 2 × 2 sur la performance créative et les connaissances immédiates en enseignement de l'art et du design
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La génération d'images par IA générative a laissé la performance de conception inchangée mais a abaissé l'efficacité personnelle créative générale
-- [[bicer-genai-pd-math-creativity-2026]] — Comment le développement professionnel guidé par l'IA générative soutient l'engagement des enseignants avec la créativité mathématique, la connaissance du contenu et la connaissance pédagogique du contenu
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Étayage fondé sur les axiomes pour la création littéraire : les prémisses comme unité entre thème et texte, validée seulement en projet (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Autonomie émergente de l'apprenant dans la collaboration humain-IA implicite : personas bienveillants ou contestataires
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT, pensée critique et pensée créative : revue systématique
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Intégration robot-LLM et écriture créative
-- [[t2i-competence-paradox-2026]] — Le paradoxe de compétence de l'IA texte-image chez les étudiants en art et en design
-- [[mujib-ai-ibl-creative-math-2026]] — Apprentissage par investigation soutenu par l'IA et performance mathématique créative
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet : modèle de trivalence de la co-créativité potentielle dans les réseaux sociotechniques
-- [[genai-creativity-k12-scoping-review-2026]] — Revue de portée PRISMA de 45 études du primaire au secondaire : quatre usages de l'IA générative pour la créativité, l'homogénéisation et la lacune de mesure
-- [[multi-agent-llm-social-learning]] — Une assistance à deux modèles a restauré la diversité idéationnelle qu'un modèle unique aplanissait (Kumar et coll. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Dépendance fonctionnelle ou existentielle à l'IA générative et créativité de recherche chez 1 157 étudiants de troisième cycle
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Créativité égale, engagement neural divergent : enfants et adultes conversationnant avec ChatGPT dans un scanner d'IRM
-- [[ai-dependence-creativity-motivation-literacy-2026]] — La dépendance à l'IA et quatre motivations d'usage se rapportent de façon divergente à la créativité auto-déclarée (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — Soutenir l'éducation à la créativité à l'ère de l'IA : le rôle de la source perçue de l'exemple
-- [[malkani-paul-ai-steam-visual-storytelling-2026]] — La narration visuelle par IA a fait passer des étudiants en design de l'imitation de la nature vers des scénarios centrés sur l'utilisateur (Malkani & Paul 2026)

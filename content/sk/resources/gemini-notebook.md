@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,6 +43,3 @@ Pre [[self-directed-learning|samostatne sa učiacich]], ktorí sa pripravujú z 
 ## Poznámky a výhrady
 
 Google uvádza, že obsah osobných účtov sa nepoužíva na trénovanie jeho modelov, ak používateľ neodošle spätnú väzbu, že nahratia, dopyty a odpovede vo Workspace sa na trénovanie nepoužívajú ani pri poskytnutej spätnej väzbe a že [[privacy|dáta sa nezdieľajú s tretími stranami]]; vymazané notebooky sa však nedajú obnoviť. Vyššie uvedené tvrdenia o schopnostiach sú tvrdeniami dodávateľa a okres alebo inštitúcia by ich mali potvrdiť voči svojej dohode o spracúvaní údajov, nie voči produktovej stránke. Pokrytie v roku 2026 opisovalo aj žalobu týkajúcu sa hlasu použitého v generovaných podcastoch, ktorú Google odmietol — pripomienka, že zvukové výstupy vyvolávajú [[legal-issues-and-risks|otázky podobnosti]] oddelene od záruk ukotvenia v zdrojoch. Generované kartičky, kvízy a zhrnutia berte ako koncepty na kontrolu voči zdrojom a počítajte s tým, že limity bezplatnej úrovne sa menia bez oznámenia.
-
-## Prepojené pojmy
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

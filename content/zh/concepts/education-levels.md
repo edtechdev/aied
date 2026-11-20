@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -112,42 +114,3 @@ ai_assist:
 **“[[intelligent-tutoring|自适应辅导工具]]对每个层级都同样有帮助。”** 那个把变量单独分离出来的比较很有启发：同一套二年级数学辅导工具的两个版本，内容、界面、反馈与语音提示完全相同，**只在任务选择是否遵循贝叶斯 [[knowledge-tracing|知识追踪]] 模型上不同**。自适应任务选择是一种对层级敏感的干预，其收益取决于该层级的学习者能否对适应性采取行动。
 
 **“集中在高等教育里的证据可以向下推广。”** 它不能，而文献的分布是一个警告而不是一种便利。证据在哪里密集、在哪里稀薄，是研究经济的属性，而不是 AI 在哪里最常被使用的属性，因此一项从大学样本得出的关于 K-12 的主张，是跨越那条最要紧的边界的推断。
-
-## 关联概念
-
-- [[primary-education]] — 小学学段本身
-- [[secondary-education]] — 初中与高中合称
-- [[undergraduate-education]] — 外部判断下的课程作业
-- [[graduate-education]] — 导师指导、研究训练、专业项目
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## 关联文章
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] —— 二年级数学中的适应性与非适应性辅导（Sibley et al. 2026）
-- [[dai-chatbots-problem-posing-primary-2026]] —— GenAI 聊天机器人与小学三年级学生的问题提出
-- [[chatgpt-music-education-junior-high-2026]] —— 初中生对 ChatGPT 用于歌词学习的态度（Weng & Chiang 2026）
-- [[ai-lms-middle-school-longitudinal]] —— 为初中设计的 AI 整合 LMS，附一项拟议的纵向研究
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] —— 中国中学教育中的生成式 AI 学习惩罚（Strömberg et al. 2026）
-- [[llm-reliance-types-undergrad]] —— 本科写作者中四类 LLM 依赖（Hossain 2026）
-- [[ai-assisted-seminar-learning-information-literacy-2026]] —— 为工程学生嵌入图书馆员支持的 AI 辅助研讨平台
-- [[ai-mediated-research-agency-formation-2026]] —— 博士生与博士后训练中的 AI 依赖、自主性与创新（Han & Liu 2026）
-- [[data-privacy-ai-african-higher-education-2026]] —— 非洲高等教育中对数据隐私的利益相关者看法（Duncan 2026）
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] —— 乌克兰各地教育管理者的 AI 采用准备度（Kremen et al. 2026）
-- [[ai-ive-pbl-vocational-design-creativity-2026]] —— 面向职业设计学生的 AI 赋能沉浸式 PBL（Jin et al. 2027）
-- [[preschool-teachers-ai-behavioral-intention-2026]] —— 学前教师在早期儿童环境中使用 AI 的意向
-- [[vahedian-children-attitudes-ai-chatbot-2026]] —— 儿童对按年龄定制的 AI 聊天机器人的态度
-- [[yim-ai-literacy-primary-schools-review-2025]] —— 25 项小学研究；四个组成部分，包括伦理与批判性数据素养（Yim & Su 2025）
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] —— 33 项中学研究；在高阶题上准确率崩塌（Pérez-Montesdeoca et al. 2026）
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] —— 1477 名来自高中、大学与教师群体的受访者；感知学习与投入
-- [[kumar-chatgpt-academic-assignments-2025]] —— 304 名本科与研究生；数字素养预测表现，伦理没有
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] —— 本科与研究生对比；伦理与自主性差距最大（Zaripova et al. 2026）
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] —— 研究生生成式 AI 素养的五维模型

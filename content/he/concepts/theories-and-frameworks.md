@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 
@@ -132,31 +134,3 @@ ai_assist:
 **"תיאוריות למידה, מודלים של הלומד ומסגרות אימוץ הן עדשות מתחלפות."** הן עונות על שאלות שונות — כיצד למידה מתרחשת, מה מצב הלומד, ומדוע פרקטיקה מתפשטת — וסוגי הראיות שלהן נבדלים בהתאם. בחירת השכבה הלא-נכונה מייצרת מחקר שמודד את המשתנה הנכון מול התחזית השגויה, וזה נקרא כתוצאה אפסית כשהוא שגיאת קטגוריה.
 
 **"יותר מסגרות פירושן תחום בוגר יותר."** מסגרות שנטבעו לעידן ה-AI מצטברות מהר יותר משהן נבדקות, והצטברות בלי הפרכה היא סימפטום ולא התקדמות. בגרות נראית כהכרעה בין תחזיות מתחרות, לא כצמיחת אוצר מילים.
-
-## מושגים מחוברים
-
-- [[theory-development-aied|פיתוח תיאוריה]] — בנייה ותיקון של תיאוריה בתחום
-- [[philosophy-of-ai-in-education|הפילוסופיה של בינה מלאכותית בחינוך]] — השכבה הנורמטיבית והמושגית
-- [[learning-theories|תיאוריות למידה]] — המטרייה לתיאוריית למידה
-- [[learning-sciences|מדעי הלמידה]] — השדה השכן שרוב התיאוריה שאולה ממנו
-- [[limitations-in-aied-research|המגבלות במחקר AIEd]] — מה שבסיס הראיה יכול ואינו יכול לתמוך
-- [[tpack|TPACK]] — מסגרת ידיעת המורה
-- [[technology-acceptance-model|מודלים לאימוץ טכנולוגיה]] — מסגרות אימוץ
-- [[item-response-theory|תיאוריית תגובת הפריט]] — מודל מדידה
-- [[universal-design-for-learning|עיצוב אוניברסלי ללמידה]] — מסגרת עיצוב
-- [[research-methods-aied|שיטות מחקר ב-AIED]] — כיצד תיאוריה נבדקת
-
-## מאמרים מחוברים
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanism-to-theory alignment, not algorithmic sophistication, drove effectiveness in 55 AI game-based learning studies
-- [[genai-chatbots-language-learning-affordances-review-2026]] — זיקות רגשיות מוצעות כקטגוריה רביעית בטקסונומיית זיקות
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
-- [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — activity theory applied to teacher professional development
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — activity theory and teacher adoption
-- [[generativism-learning-theory]] — a learning theory proposed for the generative AI era
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — toward a theory of epistemic co-agency
-- [[absent-cognitive-baseline-2026]] — theorizing a structural gap in AI-native students' self-assessment
-- [[yan-agentivism-learning-theory-ai-2026]] — a mid-range learning theory for human-AI interaction
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
-- [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension

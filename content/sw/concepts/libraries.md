@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,22 +69,3 @@ Kazi ya zamani zaidi ya maktaba — kutoa upatikanaji ambao watu binafsi hawawez
 - **Weka njia ya binadamu ya kupandisha ngazi katika huduma yoyote ya AI.** Ushahidi unaunga mkono AI kwa utafutaji na uandishi wa rasimu, na wafanyakazi binadamu kwa hukumu kuhusu vyanzo; miundo inayofuta ya pili ili kupanua ya kwanza huondoa sehemu ambayo wateja hawawezi kuipata mahali pengine.
 - **Pima mabadiliko ya utafutaji badala ya kuyachunguza.** Kumbukumbu za mikopo na ugunduzi tayari zipo; maktaba inayozioanisha na data ya mafundisho itajua zaidi kuhusu athari za AI kuliko uchunguzi mmoja wa wanafunzi unaoweza kuonyesha.
 - **Usiite ujuzi wa AI kuwa ujuzi wa habari.** Zinashiriki wafanyakazi na miundo lakini zinatofautiana katika kile kinachotathminiwa; kuzichanganya huzalisha programu isiyopima kimoja kati ya hivi.
-
-## Dhana zinazohusiana
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Makala zinazohusiana
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — Upokeaji wa akili bandia katika maktaba za kitaaluma: mapitio ya kimfumo ya mazoezi ya sasa, changamoto na fursa za utafiti
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Kuramanisha ujumuishaji wa ujuzi wa AI katika mafundisho ya ujuzi wa habari katika maktaba za kitaaluma
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Jinsi akili bandia inavyounda upya ujuzi wa habari katika maktaba za kitaaluma
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Akili bandia na utafutaji wa habari: uchunguzi linganishi wa chatbot za AI, injini za utafutaji na rasilimali za maktaba kama vyanzo vya habari miongoni mwa wanafunzi wa chuo kikuu
-- [[huang-genai-academic-information-resources-2026]] — Akili bandia inayozalisha inaunda upya matumizi endelevu ya rasilimali za habari za kitaaluma miongoni mwa wanafunzi wa chuo kikuu
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Ushirikishaji wa wanafunzi na wakubwa wa maktaba wa kitaaluma kwa ajili ya kukuza ujuzi wa habari na mafundisho ya AI katika taasisi za elimu ya juu za Nigeria

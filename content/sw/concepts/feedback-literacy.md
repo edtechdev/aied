@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -67,9 +69,7 @@ Ujuzi wa maoni unaeleweka kwa upana kama seti ya uwezo unaohusiana — uwezo wa 
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanachukulia ujuzi wa maoni kama unaoweza kukuzwa kupitia mazoezi: wakaguzi wa marika wa EFL waliofanya kazi kwa mazungumzo na AI ya uzalishaji ili kuzalisha maoni waliboresha uwezo wao wenyewe wa kuhukumu na kutumia maoni, si maoni waliyotoa pekee.
 
-
 **Ujuzi wa maoni lazima ufunike chanzo cha mashine pamoja na cha binadamu.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] wanaomba wanafunzi kutathmini maoni ya marika na maoni ya chatbot kwenye rasimu moja katika tafakari moja, jambo linalofanya kulinganisha yenyewe kuwa kazi ya kujifunza. Wanafunzi wao walipunguza mamlaka ya chatbot ikilinganishwa na ya mkufunzi, na waandishi wanasoma upunguzaji huo kama ujuzi badala ya kusitasita.
-
 
 ### Kwa nini ujuzi wa maoni unamaanisha kwa AI katika elimu
 
@@ -90,54 +90,3 @@ Kutenda juu ya maoni si sawa na kuboresha bidhaa. Miongoni mwa walimu 22 wa hisa
 - **"Ujuzi ni sharti la awali, si matokeo."** Paneli ya mawimbi matatu ya makutano ya nasibu ya **wanafunzi 399 wa shahada ya kwanza wa Kichina** iligundua ujuzi wa maoni ya AI ukitabiri ushirikiano wa wakala **baadaye** (**β = 0.222**), hivyo mzunguko unakwenda pande zote mbili. Ni wa kiendelevu badala ya lango la kupita mara moja.
 
 - **"Uwezo wa kutenda ndio unaofanya maoni kubadilisha uandishi."** Katika mizunguko mitatu ya maoni-marekebisho ya uandishi katika **madarasa mawili kamili ya wanafunzi 48 kila moja**, **uelewa ndio ulikuwa kipimo** kilichobeba faida ya marekebisho. Maoni ambayo mwanafunzi hawezi kuyafasiri hayaboreshwi kwa kuyafanya yaweze kutendwa zaidi.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Hatua mahususi za tathmini ambazo mirukhushi hii hujenga ndani ya mtiririko wa kazi
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Ujuzi wa maoni ya AI na ushirikiano wa wakala: paneli ya mawimbi matatu ya makutano ya nasibu (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — Kuzalisha sampuli za kazi zilizopimwa kwa rubriki ili kufundisha ujuzi wa maoni (Pennington & Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — Kupokea kwa uteuzi bila kuboresha bidhaa: pengo la tafsiri ya maoni (Oh 2026)
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Uelewa, si uwezo wa kutenda, ulibeba faida ya marekebisho
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Kutathmini maoni ya marika na ya chatbot kwenye rasimu moja ndani ya kazi moja ya tafakari
-
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Maoni ya AI bila fremu ya mwalimu yanaongeza kiwango cha ujuzi wa maoni (Brunnström & Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Ujuzi wa maoni unarekebisha maoni ya AI → kujifunza kwa kujidhibiti (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Ujuzi wa maoni unatabii alama ya insha katika uandishi ulioboreshwa na AI (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — Kipimo cha Ujuzi wa Maoni ya AI na utabiri wa kupokea (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI kama mwezeshaji wa fremu ya mwingiliano wa maoni (Zhan, Boud, Dawson & Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — Hati za ujuzi wa maoni na mafunzo ya usawazishaji kwa uandishi unaosaidiwa na AI (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — Hati za ujuzi wa maoni + mtiaji saini wa pili katika marekebisho ya uandishi wa EAP (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — Zana ya maoni ya kiotomatiki ya AI ya kuendeleza ujuzi wa maoni (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — Kuweka GenAI katika maoni ya marika ya EFL kufunza ujuzi wa maoni (Irwin & Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Ngazi za msaada za maoni ya kujidhibiti: GenAI dhidi ya wanafunzi wenzako wa binadamu (Gu, Chen & Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — Analytics ya kujifunza ya GenAI katika maoni, mtazamo wa ujuzi wa maoni (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Tathmini ya GenAI hujenga ujuzi wa kisaikolojia, maoni, na AI (Richmond & Nicholls 2025)
-- [[learner-centered-feedback-ai]] — Mazoezi na mtazamo wa walimu wa maoni ya AI yanayozingatia mwanafunzi
-- [[care-full-feedback-genai]] — Ubuni wa maoni wa kutunza na GenAI
-- [[ai-generated-feedback-higher-ed]] — Maoni yaliyozalishwa na AI katika elimu ya juu
-- [[ai-feedback-ecosystem-higher-education-2026]] — AI inabuni upya mahusiano kati ya wanafunzi, waelimishaji, wanafunzi wenzako na nyenzo katika mfumo wa maoni (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — Maoni ya AI na ufikiri mahususi katika uandishi
-- [[repeated-ai-writing-feedback-semester]] — Maoni ya uandishi ya AI yanayojirudia katika muhula
-- [[student-perspectives-ai-writing-grading-2026]] — Nani Anapaswa Kupima Kazi Yangu? Mitazamo ya Wanafunzi juu ya Tathmini ya Uandishi Inayoonyesha Ushirikiano wa AI katika Elimu ya Juu
-
-- [[genai-use-critical-thinking-moderation-2026]] — Matumizi ya GenAI hadi ufikiri mahususi yalipitia ujuzi wa maoni ya GenAI, yakimarika na tafakuri

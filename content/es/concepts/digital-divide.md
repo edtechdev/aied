@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -68,13 +70,11 @@ El giro hacia la inferencia en el borde añade una dimensión de hardware a la b
 
 La IA añade nuevas capas a las implicaciones de equidad de la tecnología. El sesgo algorítmico puede afectar de forma desproporcionada a estudiantes de comunidades marginadas, y la [[ai-literacy|alfabetización en IA]], es decir, la capacidad de comprender, evaluar críticamente y mitigar los sesgos y riesgos de la IA, es en sí misma un factor clave de si la IA amplía o reduce las brechas. La [[research-methods-aied|investigación]] muestra que los educadores con mayor alfabetización en IA son más eficaces a la hora de identificar y mitigar resultados sesgados. La brecha digital en la era de la IA no es, por tanto, solo un problema de provisión técnica, sino una cuestión de justicia y participación: quién puede acceder a la IA, quién puede usarla críticamente y quién se beneficia.
 
-
 Una línea prolongada de la literatura rastrea cómo el concepto mismo pasó del acceso a la **equidad digital**, hoy definida en cuatro dimensiones (alfabetización digital, asequibilidad, contenido sensible al grupo y disponibilidad de infraestructura), y lee la IA de consumo como una nueva ola de la brecha que favorece a los usuarios ya capaces de auditar la salida de las máquinas ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
 **La personalidad, y no solo el nivel socioeconómico, configura la brecha de la era de la IA.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analizaron datos de encuesta y de registros nacionales de **4.497 estudiantes de sexto grado** en los Países Bajos, separando dos vías mediadoras, el uso de IA y la alfabetización digital, que vinculan el origen y la personalidad del estudiante con el [[learning-gains|rendimiento académico]]. Su hallazgo principal reformula la brecha clásica: **la alfabetización digital, y no la intensidad de uso de la IA, media** el vínculo entre personalidad y rendimiento, y surge una nueva brecha de habilidades digitales impulsada más por los **rasgos de personalidad que por el nivel socioeconómico**. Las ventajas del nivel socioeconómico en el rendimiento operaban con independencia del [[student-engagement|compromiso]] con la IA. Esto complica el marco de acceso y nivel socioeconómico de la brecha digital, y apunta a la formación de habilidades y al apoyo disposicional como palancas relevantes para la equidad junto al acceso a dispositivos y herramientas.
 
 **La brecha tiene una capa [[metacognition|metacognitiva]].** Dado que aprovechar la IA de forma productiva requiere [[prior-knowledge|conocimiento previo]] y [[self-regulated-learning|autorregulación]], los estudiantes que ya los poseen se benefician más, mientras que quienes más necesitan la práctica delegan el aprendizaje mismo: una "brecha de equidad metacognitiva" que puede ampliar las diferencias de rendimiento incluso con igualdad de acceso ([[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]]).
-
 
 La instrucción escolar estructurada sobre IA es un catalizador psicológico pero no un igualador cognitivo: en 752 estudiantes de secundaria básica de Hong Kong, un [[curriculum-design|currículo]] de un año redujo las brechas de confianza y motivación, pero dejó intactas las diferencias objetivas de alfabetización en IA entre estudiantes con alta y baja agencia ([[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]]).
 **La brecha también opera en el plano institucional.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] muestran que, en el sistema de educación superior de Nigeria, la capacidad de integración de la IA se concentra en instituciones más antiguas de la región suroeste y se acumula mediante vínculos de red que se refuerzan mutuamente (colaboraciones internacionales × alianzas con la industria, r = 0,74), lo que significa que los "desfavorecidos" institucionales (típicamente universidades estatales más nuevas) se enfrentan a barreras estructurales para entrar en las mismas redes que les ayudarían a alcanzar a los demás. La desigualdad digital se reproduce así no solo entre estudiantes individuales, sino entre las estructuras [[governance|institucionales]] que determinan quién puede participar en una economía del conocimiento transformada por la IA.
@@ -118,41 +118,3 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - **"Si se ejecuta en un navegador, está disponible."** La mayoría de las herramientas de IA para clases magistrales presuponen **audio monolingüe en inglés e internet fiable**, lo que excluye justamente a las aulas que mezclan el inglés con una lengua del hogar. Los datos UDISE+ de la India situaban el acceso a internet en las escuelas muy por debajo del nivel que exige ese supuesto. Una herramienta construida sobre una infraestructura supuesta excluye en silencio los entornos con mayor necesidad.
 - **"La alfabetización digital y el uso de IA son la misma variable mediadora."** Un estudio con **4.497 estudiantes de sexto grado** en los Países Bajos separó **dos vías mediadoras distintas**, el uso de IA y la alfabetización digital, que vinculan el origen y la personalidad con las ganancias de aprendizaje. No son intercambiables, y las intervenciones que elevan una no elevan automáticamente la otra.
 - **"Las [[simulation|simulaciones]] eliminan la barrera del costo."** Una revisión sistemática de **11 estudios de gemelos digitales** en educación superior STEM encontró costos de hardware de **\$2.000-\$15.000** por instalación. Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar, así que el argumento del costo para la provisión virtual hay que comprobarlo en lugar de darlo por supuesto.
-
-## Conceptos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## Artículos conectados
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
-- [[watanabe-genai-education-gap-europe-2026]] — ¿Es la brecha educativa en el uso de IA generativa menor que la que tuvo internet? (Watanabe 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estructuras institucionales, desigualdad digital e integración de la IA en la educación superior nigeriana
-- [[ai-divide-ses-personality-primary-education-2026]] — Nivel socioeconómico, personalidad y brechas de IA en educación primaria (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED sin conexión: la tutoría con el docente como intermediario llega a estudiantes sin dispositivo (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — La educación escolar en IA reduce las brechas psicológicas pero no las cognitivas de preparación
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: medir y mitigar las disparidades de accesibilidad en el acceso a los LLM
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — El marco de alfabetización en IA escalonada (SAIL)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Enseñar el uso responsable de los chatbots de IA a estudiantes de K-12
-- [[structural-silence-underrepresented-language-ai-2026]] — Silencio estructural y lenguas subrepresentadas
-- [[sec-ai-literacy-narrative-review-2026]] — Competencia socioemocional en la alfabetización en IA
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizaje adaptativo con IA para contextos multilingües de bajos recursos
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisión sistemática de la IA en la educación científica y química
-- [[unesco-ai-guidelines-chemical-education-2026]] — Directrices de IA de la UNESCO traducidas a la educación química; deriva epistémica
-- [[lodge-loble-cognitive-offloading-2026]] — IA, descarga cognitiva e implicaciones para la educación (Lodge y Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Alfabetización en IA desde el humanismo socialista y uso legítimo
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: el acceso rural a la robótica sigue la geografía de la mentoría, no el acceso a dispositivos (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — La desigualdad digital como problema distributivo frente a la colonialidad algorítmica como problema epistémico, en instituciones sudafricanas históricamente desfavorecidas
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: un marco de agentes de IA local-first para el aprendizaje de lenguas en el hogar a bajo costo, hacia la equidad educativa
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Los laboratorios de gemelos digitales conllevan una factura de equipamiento que limita el acceso simultáneo

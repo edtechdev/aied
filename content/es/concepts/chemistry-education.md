@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 connected_resources: [teacher-dev]
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -73,40 +75,3 @@ La educación química se sitúa dentro del dominio más amplio de la [[stem-edu
 **«Añadir IA a una lección de indagación existente no puede perjudicar.»** Puede hacerlo, y la comparación que muestra un beneficio es más estrecha de lo que parece. [[context-based-ai-secondary-chemistry-2026|Abdikayumova y Madybekova]] combinaron el **modelo instruccional 7E** con simulaciones PhET *y* tutoría con ChatGPT en química de décimo grado y encontraron un rendimiento y una implicación significativamente mayores que la enseñanza solo indagatoria o la convencional. El tratamiento es la combinación estructurada —un modelo instruccional más simulaciones más tutoría—, no el chatbot por sí solo, y un chatbot añadido a una indagación no estructurada no queda probado por ese resultado.
 
 **«La química es una materia donde la respuesta se puede comprobar, así que los errores de la IA son inofensivos.»** Las respuestas comprobables son la vía por la que el razonamiento erróneo pasa inadvertido: quien recibe un valor correcto de un modelo que razonó mal no tiene forma de detectar la deficiencia, y la evaluación registra un éxito. En una disciplina cuantitativa, el punto final verificable es la evidencia de comprensión más débil de la que se dispone.
-
-## Conceptos conectados
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — La educación en biología y la IA: asistentes docentes de laboratorio, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
-
-## Artículos conectados
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisión sistemática de la IA en la educación científica y química
-- [[unesco-ai-guidelines-chemical-education-2026]] — Traducir las directrices de la UNESCO sobre IA a la educación química
-- [[context-based-ai-secondary-chemistry-2026]] — Contextualización + IA en química de secundaria (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — Diseño experimental asistido por IA en la química práctica
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Roles del instructor y de la IA en la evaluación formativa mejorada con ChatGPT
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filosofía de la experimentación en química con IA
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

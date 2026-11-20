@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/campus-ai-development
 source_updated: "2026-10-24T05:15:17-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -43,9 +44,3 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 ## 참고사항과 유의점
 
 이 안내서는 스스로를 기관 정책이나 법률 자문이 아닌 독립적인 개인 프로젝트라고 밝힙니다. 실명 기관이 등장하는 것은 그들이 자기 실천을 공개적으로 기록했기 때문이며 추천의 뜻은 아니고, 토론 사례들은 여러 사례를 합성한 것입니다. 법률 예시는 미국의 것(FERPA, ADA Title II, GLBA)이고 등장하는 곳마다 시점이 표시되어 있지만, 경로와 질문, 데이터 수준, 접근법은 그것들에 의존하지 않는다고 주장합니다. 증거 페이지는 모든 연구를 링크하며, 하나의 한정된 과제에서 얻은 향상을 숙련된 유지보수자가 자기 코드에서 겪는 느려짐과 나란히 놓고, 시험 데이터가 명세 기반이나 멀티 에이전트 작업이 아니라 코드 제안을 다룬다는 점을 인정하므로, 더 많은 구조를 주장하는 근거는 실천과 컴플라이언스 논리에 기대고 있습니다. 재사용 라이선스는 명시되어 있지 않습니다. 자매 사이트인 [campusdatagov.com](https://campusdatagov.com/)과 [campusairegistry.com](https://campusairegistry.com/)이 데이터 거버넌스와 에이전트 레지스트리 부분을 맡으므로, 이 안내서는 [[educational-policy-ai]] 작업으로 들어가는 좋은 입구이지만 그 대체물은 아닙니다.
-
-## 연결된 개념
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

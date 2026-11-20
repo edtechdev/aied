@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -102,58 +104,3 @@ Los datos del África subsahariana hacen concreto ese vacío bajo restricciones 
 - **«La pregunta es qué pueden hacer los LLM en la formación clínica.»** Una revisión integradora crítica de **489 estudios en 47 países** desplaza la pregunta **de lo que los LLM pueden hacer a** aquello en lo que se debería confiar en ellos. La pregunta de capacidad está en gran medida respondida; la de gobernanza no.
 - **«Los pacientes estandarizados son demasiado costosos para escalarlos.»** Un **ensayo controlado aleatorizado con 95 estudiantes de medicina analizados** usó **pacientes estandarizados de IA multiagente** en la formación de entrevista clínica. La restricción que se aborda es la disponibilidad de actores humanos formados, que es un problema de dotación de personal y no de fidelidad.
 - **«Adoptar un marco publicado de competencias en IA resuelve la cuestión del plan de estudios.»** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] cribaron 1.750 registros hasta 23 estudios —15 revisiones, 4 [[qualitative-research|cualitativos]] y 4 [[quantitative-research|cuantitativos]], de 15 países y de 2022 a 2026— y los mapearon sobre el modelo de Conocimiento, Actitud y Habilidad. Los dominios de aplicación se concentraron en la educación médica (n = 11, 47,8%), la educación general (n = 9, 39,1%) y otras educaciones (n = 3, 13,0%), y los marcos de enfermería nombrados que compararon —N.U.R.S.E.S., AI-ABCs y CARE— o carecen de vías claras para la implementación pedagógica o cubren habilidades aisladas sin métodos de evaluación. El mapa de 12 subdimensiones que construyen es una propuesta pendiente de validación, lo que lo convierte en algo contra lo que enseñar y no en un plan de estudios asentado.
-
-## Conceptos conectados
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — la línea de enfermería de la educación en profesiones de la salud
-- [[virtual-and-augmented-reality]] — formación clínica inmersiva y con RA
-
-## Artículos conectados
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — ABP y ABC con IA en la educación médica y odontológica: seis ECA, solo dos de ABC (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — La patología digital asistida por IA mejora el rendimiento diagnóstico y reduce las brechas de rendimiento relacionadas con la experiencia en residentes de patología que interpretan biopsias de próstata
-- [[virtual-standardized-patients-osce-evaluation-2026]] — Una evaluación estratificada con múltiples evaluadores de pacientes estandarizados virtuales basados en LLM, con una plataforma desplegada de generación de datos
-- [[genai-medical-education-transformation-review-2026]] — Revisión de alcance de 153 informes sobre IA generativa en educación médica: la simulación lidera, durabilidad y resultados en pacientes sin medir
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluación de un sistema multiagente de modelos de lenguaje orientado al andamiaje para el entrenamiento en entrevista clínica
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Evaluación con rúbrica de 8 dimensiones de agentes docentes de IA en educación médica
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, brechas estructurales en la educación en enfermería y la reconstitución de la identidad profesional (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — Marco SCAN: repensar la distribución de tareas con IA en la formación médica (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar el aprendizaje experiencial, situado y de cognición distribuida con IA en la educación en profesiones de la salud
-- [[residencyrl-clinical-rl-training-2026]] — Entrenamiento con aprendizaje por refuerzo para habilidades clínicas en la residencia
-- [[medgame-llm-medical-education-gamification]] — Aprendizaje gamificado basado en LLM para la educación médica
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Simulación con IA agéntica para el entrenamiento en braquiterapia
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transformar la educación en enfermería con IA
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulación impulsada por IA en enfermería: revisión sistemática de métodos mixtos
-- [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: instrucción en radiografía dental con human-in-the-loop (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Revisión sistemática de la IA generativa en la educación sanitaria basada en escenarios (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Entrenamiento en comunicación clínica y evaluación automatizada escalables basados en IA
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Mapa bibliométrico de la ética de la IA en la educación médica: la producción pasó de 113 (2023) a 500 (2025), 39 países, y las citas premian las pruebas de capacidad por encima de la gobernanza (Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — Las ejecuciones repetidas no reproducen la misma nota
-
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — Los planes de estudios de IA en salud enseñan ética (80,6%) pero rara vez procedencia de los datos (22,2%)
-- [[xiang-ai-nursing-education-kas-framework-2026]] — Revisión de alcance que mapea los marcos de competencias educativas en IA sobre un mapa KAS de 12 partes
-- [[agency-gap-ai-writing]] — Agentes de escritura con IA reactivos frente a proactivos en la formación de profesiones de la salud: la brecha de agencia
-- [[federated-learning-at-risk-student-prediction-2026]] — Predicción federada de riesgo entre programas de HPE: un coste de privacidad insignificante y por qué falla un umbral importado
-- [[rony-nursing-educators-ai-tpack-2025]] — Docentes de enfermería en Bangladesh sobre preparación para la IA, barreras y gobernanza de datos, leídos a través del TPACK
-- [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los planes de estudios de residencia: entrevistas cualitativas con doce médicos líderes
-- [[alshahrani-health-sciences-ai-use-2026]] — Tender puentes entre tecnología y pedagogía: análisis transversal del uso de IA, efectos académicos autodeclarados y preocupaciones éticas entre estudiantado de diversos planes de estudios de ciencias de la salud
-- [[ago-prompt-literacy-allied-health-2026]] — Alfabetización en consignas en seis programas ghaneses de profesiones afines a la salud: uso rutinario de IA generativa sin formación, restricciones de suscripción y conectividad, y una paradoja de verificación de consignas donde el conocimiento previo es más escaso (Ago et al. 2026)

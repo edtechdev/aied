@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -70,36 +72,3 @@ ai_assist:
 - **«Студенти не відрізняють ШІ від людського асистента викладача.»** Дослідження віртуального лабораторного асистента виявило, що **людські асистенти точніші й ефективніші за ChatGPT**, проте студенти **надавали перевагу відповіді ШІ в 40 % випадків** і могли **виявити вихід ШІ лише в 45 % випадків**. Виявлення було близьким до підкидання монети, а перевага йшла до менш точного джерела, тож дані про задоволеність не можуть тут замінити якість.
 - **«Перевага вказує на якість.»** Те саме дослідження розділяє їх безпосередньо: бажаніший результат був гіршим. Будь-яке оцінювання біологічного інструмента ШІ, що звітує про задоволеність студентів без міри точності, звітує не ту величину.
 - **«Грамотність із ШІ треба викладати як окремий предмет.»** Вбудовування понять машинного навчання **в шкільний курс біології** виявило, що біологічний контекст **підтримує** навчання ШІ, — доказ на користь вбудовування грамотності з ШІ в навчальну програму, а не прикручування окремого модуля. Дисципліна дала поняттям те, до чого прикріпитися.
-
-## Пов’язані поняття
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Пов’язані статті
-
-- [[llm-open-ended-questions-biology-statistics-2026]] — Оцінювання продуктивності великих мовних моделей на відкритих питаннях: здатність відповідати та оцінювати
-- [[biology-degree-integrity-genai-cheating-2026]] — Чи можуть студенти обманути свій шлях до ступеня з біології? Аналіз випадку вразливості оцінок з курсів біології до академічної недоброчесності в еру генеративного ШІ
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT як віртуальний лабораторний асистент викладання
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Огляд інструментів ШІ в біологічній освіті
-- [[critical-thinking-biological-sciences-ai-2025]] — Критичне мислення в біологічних науках і ШІ
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT у курсах біології/математики на основі викликів
-- [[zha-ai-literacy-biology-case-study]] — Навчання ШІ-грамотності на занятті з біології
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Підвищення навичок аргументації, узгоджених з PISA, у майбутніх викладачів біології через генеративний штучний інтелект

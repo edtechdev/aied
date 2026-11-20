@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,7 +43,3 @@ Učitelia a [[learning-design|inštrukční dizajnéri]], ktorí chcú rozpracov
 ## Poznámky a upozornenia
 
 Buildy sú opísané ako otvorene zdieľané, ale na stránkach buildov ani galérie nie je uvedená licencia, takže opätovné použitie vyžaduje súhlas autora, nie predpokladané povolenie. Zdroj je však verejný — repozitáre účtu obsahujú HTML a JavaScript za buildmi plus tutoriál na prácu s kódovacími agentmi vo vzdelávaní, takže čitateľ môže aplikáciu preskúmať, nielen spustiť. Niekoľko odkazov smeruje na adresy náhľadov nasadenia Netlify namiesto projektovej stránky; tie sú určené na recenziu a môžu expirovať, kým buildy na GitHub Pages sú stabilné. Niektoré buildy závisia od modelu Jev od TypeSafe AI a zobrazujú jeho pravdepodobnosti, takže základné správanie je úsudok modelu, nie pevné pravidlo. Cesta žiaducich ťažkostí je argument — trenie ako funkcia — a stránka ho predkladá bez toho, aby uviedla hodnotenie, či sa študenti naučia viac.
-
-## Prepojené pojmy
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

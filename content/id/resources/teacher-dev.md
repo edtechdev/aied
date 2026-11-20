@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,6 +70,3 @@ yang dilakukan sebuah aplikasi sebaiknya diuji di kelas. Tiga puluh dua reposito
 GitHub sementara galerinya mencantumkan 34, semuanya Apache-2.0 dengan sumber tersedia, sehingga sebuah
 aplikasi dapat dibaca dan dihosting sendiri. Desain local-first adalah klaim yang perlu diverifikasi per
 aplikasi, dan guru sebaiknya mengonfirmasinya sebelum menaruh alat apa pun untuk siswa di depan kelas.
-
-## Konsep terkait
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

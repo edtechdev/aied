@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -66,7 +68,6 @@ LPA מניחה שהמדגם נשלף מתערובת של תת-קבוצות, לכ
 - **יציבות תחת דגימה מחדש.** יציבות בוטסטראפ היא הבדיקה הכנה על הפרופיליות שיושפעו במדגם חדש: מדד Rand מתואם ממוצע היה 0.385 לפתרון ששת-המחלקות האוקראיני אך 0.989 לאורך 100 איתחולים אקראיים במחקר האמון ב-AI — אותו עיצוב נומינלי, משקל ראיתי שונה מאוד.
 - **מבחני יחס סבירות (BLRT)** ומבחן Lo–Mendell–Rubin הם בני-לוויה רגילים ל-BIC ואנטרופיה בספרות מודלי התערובת הרחבה, אך מחקרי הפרופיל במאגר הידע הזה אינם מדווחים עליהם. היכן שעמוד מדווח רק על BIC ואנטרופיה, התייחסו למניין המחלקות כזמני.
 
-
 - **בדיקת יחס-הסבירות שהקורפוס הזה מחסיר אחרת.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] שמרו ארבע פרופיליות (אנטרופיה 0.824) מתוך 379 סטודנטים לניהול ודיווחו על החלטת Lo–Mendell–Rubin: משמעותית בארבע (p = 0.035) ובלתי-משמעותית בחמש (p = 0.376).
 - **שימור המוגן עם הפתרון המתחרה ומבחן יחס-סבירות.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] מדווחים שפתרון של ארבע פרופיליות התאים ל-102 הסטודנטים טוב יותר אך לא שופר באופן משמעותי והשאיר את המחלקה הקטנה ביותר ב-12.7 אחוז, ולכן הם שומרים שלוש פרופיליות (אנטרופיה .89) ולא את המודל המתאים טוב יותר מספרית. דיווח על הפתרון המפסיד ועל מה שדירג אותו מחוץ הוא מה שהופך את מניין המחלקות השמור לשיפוט שקוראים יכולים לבדוק, ואמצעי שימוש ה-AI בן 12 הפריטים שנבנה במיוחד למחקר — שאומת על מדגם נפרד בן 85 שהמחברים מכנים זמני — מסמן את הגבול האחר של הראיה שלו.
 
@@ -95,26 +96,3 @@ LPA מניחה שהמדגם נשלף מתערובת של תת-קבוצות, לכ
 - **"ניתוח פרופילים לאטנטיים מגלה קבוצות שקיימות."** LPA ממיר את גיוון הלומדים מטענה רטורית לממצא מדיד, והפרופילים הם **מודל של רצף המחולק בגבולות נבחרים**, לא סוגים טבעיים. מספר הפרופילים הוא החלטה אנליטית.
 - **"כל חבר במשפחת המשתנים הלאטנטיים מתאים."** איזה מהם תשתמשו **נובע מהמחוונים**: **LCA למחוונים קטגוריאליים**, LPA לרציפים. בחירת השיטה תחילה והמחוונים אחריה הופכת את התוצאה לחפץ של הבחירה.
 - **"אפשר להשוות פרופילים בין מחקרים."** Chen ועמיתיו התייחסו ל‑**128 מורות טרום-שירות מטייוואן** על פני חמישה מבנים של [[technology-acceptance-model|TAM]]/UTAUT2, בעוד Acquah ועמיתיו התייחסו ל‑**509 סטודנטים לתואר ראשון מגאנה**. מחוונים שונים באוכלוסיות שונות אינם מייצרים תוויות פרופיל בנות-השוואה.
-
-## מושגים מקושרים
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## מאמרים מקושרים
-- [[ai-attitude-latent-profiles-career-development-2026]] — Lo–Mendell–Rubin retention evidence for four AI-attitude profiles in 379 business students
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Three-wave latent profile transition analysis of psychological adaptation
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
-- [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchical and k-means clustering into four GenAI adoption personas
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four teacher AI-belief profiles from 40,680 teachers in 49 systems, with alignment stability

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -133,56 +135,3 @@ ai_assist:
 
 - صمّم لتباينات التشكيل إن كنت تنوي مساهمة نظرية. فتجربة بأثر متوسط تُنشر بوصفها تطويرًا للنظرية هي أكثر مخرجات الميدان شيوعًا وأقلّها فائدة.
 - أرفق مقترحات صريحة قابلة للدحض بأي إطار تقدّمه، وأبلغ عن فروق التشكيلات التي كانت ستدحضها.
-
-## المفاهيم المرتبطة
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## المقالات المرتبطة
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — توسيع التصنيف الوظيفي: 90 من 154 منشورًا قابلًا للتصنيف (58.4%) تقع خارج الفئات الأربع الأصلية (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — نظرية تعلّم متوسطة المدى لتفاعل الإنسان والذكاء الاصطناعي، بأربع آليات وستة مقترحات قابلة للاختبار (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — التعميم المُلتبس الخادع: قد يتوقف الإتقان التكيّفي عن الممارسة قبل أن يعرف المتعلّمون متى يمسكون عن فعل ما (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — التوليدية بوصفها نظرية تعلّم جديدة
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — نحو نظرية في الوكالة المعرفية المشتركة
-- [[du-yuan-epistemic-dependence-2026]] — الوكالة المعرفية العلائقية وحدّ الاعتماد المنتج/التبعية الضارة (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — الأساس المعرفي الغائب (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — العموم المعرفي وتجديد الخبرة
-- [[genai-performance-vs-learning]] — الأداء مقابل التعلّم
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — ثقافة الذكاء الاصطناعي المعرفية (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — الرعاية الاعتبارية والمعرفية
-- [[ai-cognitive-partner-co-regulation-learning]] — الذكاء الاصطناعي شريكًا معرفيًا في التنظيم المشترك
-- [[epistemic-proactivity-math]] — الفعالية المعرفية في الرياضيات
-- [[strydom-human-gai-paradigms-2026]] — سبعة نماذج لمشاركة الإنسان مع الذكاء الاصطناعي التوليدي مؤسسة على المعتقدات المعرفية
-- [[critical-thinking-paradox-genai-learning-2026]] — مفارقة التفكير النقدي
-- [[dollinger-equitable-assessment-ai-2026]] — التقويم المنصف في ظلّ الذكاء الاصطناعي التوليدي
-- [[shaw-nave-cognitive-surrender-2026]] — نظرية الأنظمة الثلاثة والاستسلام المعرفي: كيف يُعيد الذكاء الاصطناعي تشكيل استدلال الإنسان (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — إعادة تصوّر مجتمع الاستقصاء في عصر الذكاء الاصطناعي التوليدي
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — تجارب معلمي الجامعة وإدراكاتهم للذكاء الاصطناعي التوليدي: الهشاشة، وإعادة التفكير في التقويم، وتعلّم الطلاب في خطر (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — فلسفة بديلة للذكاء الاصطناعي: الطاوية منهجًا للذكاء الاصطناعي في التعليم
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: مخططات تأكيدية للترميز القابل للتدقيق في الحوارات التعليمية
-- [[metacognitive-ownership-human-ai-regulation-2026]] — الملكية المرتبطة بما وراء المعرفة: تعريف المفهوم، وحدوده، وأجندة بحثية
-
-- [[synthetic-position-self-authorship-2026]] — الموقف التركيبي: عرض ذات حواري يسمّي الترويج التركيبي وتعليق التأليف مع تنبؤ متقاطع
-- [[capability-decision-model-teacher-readiness-2026]] — نموذج جاهزية معلمين قابل للدحض، القدرة أولًا، بأربعة شروط للدحض
-- [[ai-connectedness-adolescent-mental-health-2026]] — الترابط بالذكاء الاصطناعي: مفهوم ثلاثي الأبعاد بستة مقترحات قابلة للدحض للاختبار لاحقًا
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — دورة الشراكة المعرفية
-- [[friction-paradox-generative-ai-education-abroad-2026]] — الصعوبات المرغوبة والفشل المنتج مطبَّقين على فاعلية التفسير في التعليم بالخارج
-
-- [[webb-pck-genai-2026]] — ثلاث حالات ونموذج نظري جديد، pseudo-cPCK، لمخرجات تحاكي معرفة مُصادَقًا عليها جماعيًا دون ضمانة (Webb et al. 2026)
-

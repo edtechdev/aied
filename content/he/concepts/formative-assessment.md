@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -132,70 +134,3 @@ ai_assist:
 - **"פריטי תרגול מיוצרים נותנים אות עיצובי שימושי."** **מאגר פריטים מיוצר קל אינו נותן אות עיצובי**: בפריסה בת **10 שבועות כ‑70% מפריטי התרגול המיוצרים ב‑AI נענו נכון על ידי כל סטודנט**. מאגר שכולם עוברים אינו נושא מידע על מי זקוק למה.
 - **"אמינות ייצור הפריטים אחידה על פני פורמטים."** מערכות AI מייצרות פריטים עיצוביים על פני מודליות **עם אמינות המשתנה לפי סוג** — ובהן שאלות אמריקאיות. התייחסות לפריטים מיוצרים כמהירים בין פורמטים מסתירה היכן הייצור מהימן.
 - **"מתן משוב AI לסטודנטים מפיק הפעלה."** **בעיית ההפעלה** מתועדת בנפרד מאיכות המשוב: קבלת משוב ופעולה לפיו הן שלבים נבדלים, והשני הוא המקום שבו הערכה עיצובית מצליחה או נכשלת.
-
-## מושגים מקושרים
-
-- [[pedagogical-patterns]] — הצורות המסודרות שההערכה העיצובית נוטלת כאשר בינה מלאכותית מספקת חלק מהמשוב
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — הערכה מסכמת: פורמטים עמידי-בינה מלאכותית (בעל-פה, בפיקוח, בספר סגור)
-- [[reflection]]
-
-## מאמרים מקושרים
-
-- [[llm-multi-agent-conversation-assessment-2025]] — ארכיטקטורת ארבעה סוכנים להערכה מבוססת-שיחה שמעריכה חומקת לעבר הקטגוריה האמצעית (Hou ואח'. 2025)
-- [[causal-modeling-competency-assessment-2026]] — מידול סיבתי של התערבויות תמיכה להערכת כשירות סטודנטים
-- [[nicola-richmond-programwide-assessment-genai-2025]] — גישות ברמת-תכנית לעיצוב מחדש של הערכה בעידן GenAI
-- [[ai-feedback-enactment-workflow-2026]] — עשיית משוב המיוצר על ידי בינה מלאכותית חשוב: מספק להפעלה
-- [[care-full-feedback-genai]] — האומנות הטיפולית של המשוב בעידן GenAI
-- [[feedback-futures-genai]] — עתידות משוב: מעבר לגבולות יכולות אנוש ו-GenAI
-- [[sequenced-ai-feedback-learning]] — השפעה ומסלולים של משוב בינה מלאכותית מסודר
-- [[learner-centered-feedback-ai]] — שיפור משוב ממוקד-לומד עם בינה מלאכותית
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — מניקוד אוטומטי לאבחון למידה: מחקר מנגנון של הערכה עיצובית נתמכת-בינה מלאכותית בכתיבה באנגלית
-- [[ai-internal-feedback-evaluative-judgments]] — פיתוח שיפוטי הערכה באמצעות משוב פנימי נתמך-בינה מלאכותית
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: ניקוד הערכה עיצובי עם פרומפטינג אנושי-בהלופה
-- [[automated-formative-assessments-a-level-sciences]] — הערכה עיצובית אוטומטית בתדירות גבוהה
-- [[ai-generated-feedback-higher-ed]] — משוב המיוצר על ידי בינה מלאכותית בהשכלה גבוהה
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: משוב בינה מלאכותית מקורס-תכנית
-- [[genai-teacher-feedback-comparison]] — השוואת משוב GenAI מול מורה
-- [[chatgpt-feedback-engagement-genai]] — משוב ChatGPT ומעורבות
-- [[code-gen]] — CODE-GEN: ייצור מאומת של שאלות רב-ברירה
-- [[responsible-assessment-ai-era-stanford-2026]] — הערכה אחראית בעידן הבינה המלאכותית
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — תכנון להערכה אותנטית
-- [[automated-grading-linux-bash-examinations-large-language-models]] — ניקוד אוטומטי של בחינות Linux/bash
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — תפקידי מדריך ובינה מלאכותית בהערכה עיצובית מוגברת-ChatGPT
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — בחינה מחודשת בבחינות בעל-פה כהערכה אותנטית, עמידה-בינה מלאכותית
-- [[roe-assessment-twins-2026]] — תאומי הערכה לחיזוק תקפות הערכה בעידן GenAI (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: ייצור רובריקות הערכה מבוסס-בינה מלאכותית
-- [[ai-assisted-instructor-supervised-grading-feedback]] — ניקוד ומשוב בפיקוח-מדריך בסיוע בינה מלאכותית
-- [[adaptive-scaffolding-cognitive-engagement-its]] — פיגום ICAP מסתגל ב-ITS (BKT לעומת DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — מודלי שפה גדולים כסוכנים של תכנון פדגוגי איטרטיבי
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — מסתגלות הופכת משוב ליעיל: ראיות ממשוב המיוצר על ידי בינה מלאכותית על תוכניות ילדים
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — ניקוד אוטומטי, ביצועי תרגום ולמידה מוסדרת-עצמית (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — מיומנויות אבחוניות של מורים בהערכה עיצובית נתמכת-בינה מלאכותית: מאבחון למטא-אבחון
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — תפיסת תועלת וכוונה להשתמש במשוב המיוצר על ידי מודל שפה גדול בתכנות בשלוש רמות חינוכיות
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — סיוע הוראה מסתגל המשלב בינה מלאכותית גנרטיבית ואנליטיקת נתוני-על בחינוך מוזיקלי
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — שימוש סטודנטים במודלי שפה גדולים וגבולות קושי השאלה המיוצר על ידי בינה מלאכותית בקורסי מדעי הנתונים
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — תשתית הערכה מתמשכת מתווכת-בינה מלאכותית (AIM-CAI): חיבור ראיות למידה על פני הקשרים וזמן (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — הצד החיובי של סיכון הפקחות: צפיות כדיקן ראיה, לא כניטור

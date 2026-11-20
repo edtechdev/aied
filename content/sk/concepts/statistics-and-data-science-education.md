@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -82,26 +84,3 @@ Kvalita podpory záleží nezávisle od prístupu. Experimentálne porovnanie ve
 - **„Spokojnosť a vnímaný prínos naznačujú, že AI nástroj pre dátovú vedu funguje."** Študenti intenzívne používali LLM na ladenie a koncepčné otázky a **hlásili vysokú spokojnosť, zatiaľ čo ich vnímaný prínos pre hlboké učenie počas semestra klesal**. Spokojnosť sa držala a sebaposudzovaná trajektória učenia klesala, takže ani jeden z údajov sám nie je výsledkom.
 - **„Neobmedzený model je rovnako dobrý ako vedený tutor."** Zisk prišiel z tréningu v podpore — explicitných pokynov k postupným nápovedám a overovaniu — ktorý prekonal samotný prístup k tomu istému modelu v samostatnom výkone a v kalibrácii sebahodnotenia. Vedenie a tréning v tom, ako ho používať, niesli efekt.
 - **„Stráženie proti dávaniu odpovedí stačí."** Účelovo postavený tutor obalený okolo hostovaného API, so systémovým promptom **viesť a nie odpovedať**, bol nasadený v semestrálnom kurze R pre bakalárov psychológie, kde ho **76 % až 84 %** študentov používalo v týždňoch relevantných pre skúšku. To je prijatie, nie dôkaz, že stráženie prinieslo učenie: stráženie na úrovni promptu je jedna z viacerých pák a samo osebe učenie neprodukuje.
-
-## Prepojené koncepty
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Prepojené články
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentický nástroj generujúci preskúmateľné syntetické datasety pre personalizované štatistické cvičenie
-- [[ai-tutor-statistical-programming-adoption-2026]] — Účelovo postavený R tutor; prijatie sledovalo kalendár skúšok
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Označenia obtiažnosti od LLM sledujú úrovne Bloomovej taxonómie, nie výkon študentov
-- [[tactile-statistical-graphs-accessibility]] — Open-source pipeline generujúca hmatateľné štatistické grafy s prehľadom učiteľa
-- [[guided-llm-scaffolding-independent-learning]] — Vedená podpora prekonala neobmedzený prístup v samostatnom výkone
-- [[lund-socially-accountable-data-science-xai-2026]] — Zakotvenie sociálnej zodpovednosti v technickom kurikule dátovej vedy

@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_resources: [teacher-dev]
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -77,40 +79,3 @@ Die Chemiedidaktik ist Teil des umfassenderen Bereichs der [[stem-education|STEM
 **„KI zu einer bestehenden forschenden Lektion hinzuzufügen kann nicht schaden.“** Sie kann, und der Vergleich, der einen Nutzen zeigt, ist enger als er klingt. [[context-based-ai-secondary-chemistry-2026|Abdikayumova und Madybekova]] verbanden das **7E-Unterrichtsmodell** mit PhET-Simulationen *und* ChatGPT-Tutoring für Chemie in Klasse 10 und fanden signifikant höhere Leistung und höheres Engagement als bei ausschließlich forschendem oder herkömmlichem Unterricht. Die Behandlung ist die strukturierte Kombination — ein Unterrichtsmodell plus Simulationen plus Tutoring —, nicht der Chatbot allein, und ein Chatbot, der unstrukturierter Untersuchung hinzugefügt wird, ist durch dieses Ergebnis nicht getestet.
 
 **„Chemie ist ein Fach, in dem die Antwort prüfbar ist, also sind KI-Fehler harmlos.“** Prüfbare Antworten sind der Weg, auf dem falsches Schlussfolgern unbemerkt bleibt: Eine lernende Person, die von einem Modell, das schlecht geschlussfolgert hat, einen korrekten Wert erhält, hat keine Möglichkeit, den Mangel zu erkennen, und das Assessment verzeichnet Erfolg. In einer quantitativen Disziplin ist der verifizierbare Endpunkt der schwächste verfügbare Beleg für Verständnis.
-
-## Verbundene Konzepte
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Biologiedidaktik und KI: Laborassistenzen, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
-
-## Verbundene Artikel
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematischer Review zu KI in der naturwissenschaftlichen/chemischen Bildung
-- [[unesco-ai-guidelines-chemical-education-2026]] — Übertragung der KI-Richtlinien der UNESCO auf die Chemiedidaktik
-- [[context-based-ai-secondary-chemistry-2026]] — Kontextbasiert + KI in der Sekundarstufen-Chemie (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — KI-gestütztes Experimentdesign in der praktischen Chemie
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rollen von Lehrenden und KI im ChatGPT-gestützten formativen Assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophie des Experimentierens in der Chemie mit KI
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

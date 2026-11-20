@@ -12,6 +12,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-bias-fairness-education]
 reviewed_by: [editor]
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 > **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in [[intelligent-tutoring|AI tutors]], scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, [[prompt-engineering|prompt design]], fair-scoring methods, [[explainable-ai|explainability]], and evaluation. It is the technical counterpart to [[equity-in-ai-education|equity]] and a core concern of [[ethics|ethics]] in AI education.
@@ -52,7 +54,6 @@ The research documents bias entering at multiple points in the pipeline:
 
 - **Allocation bias in AI-assisted team formation.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] show bias entering a task class outside scoring and feedback: three LLMs assigning 28-student software-engineering classes to four teams routed men at least 80% less often than women to Interface Design rather than Core Development (GPT-5.2 OR < 0.01), and nationality shifted placements independently of merit. Supplying skills reduced but did not remove it - 99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - and parallel image generation skewed single-person images male and light-skinned (gender V = 0.64 and 0.65; skin tone V = 0.57 and 0.61) while multi-person images stayed comparatively balanced.
 - **Subgroup audits can document parity in an automated coder** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman and Borman (2026)]] found a fine-tuned BERT essay coder reached accuracy 0.92 for stereotype-threatened students and 0.94 for non-threatened, with recall 0.98 in both groups. Gender accuracy clustered at 0.95 versus 0.93 and free-or-reduced-price-lunch groups at 0.95 versus 0.94, while English learners (8%) and students with individualized education plans (10%) were excluded from subgroup analysis because the subsamples were too small.
-
 
 **Aggregate accuracy can hide a model that cannot find the struggling students.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] trained three model families on one Estonian cohort and split it two ways. On the balanced set the families were comparable. On the imbalanced split, with 125 students below the first quartile against 328 above it, decision trees, a Bayesian network and random forests reached 8%, 12% and 16% recall for low performers at 80% precision, and only the neural-symbolic model passed 50%.
 
@@ -100,49 +101,3 @@ Bias mitigation concerns bias inside the system. [[automation-bias|Automation bi
 - **"Bias is a scoring and feedback problem."** Bias enters **task classes outside scoring**: three LLMs assigning **28-student software-engineering classes to four teams routed men at least 80% less often than** the reference distribution. Team formation carried bias at a magnitude comparable to grading.
 - **"Supplying the relevant skill removes the bias."** Supplying skills **reduced but did not remove it**: **99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53**). Near-perfect task matching coexisted with a gender effect, so accuracy on the primary criterion is not evidence of fairness.
 - **"One mitigation approach is sufficient."** The research illustrates **complementary strategies** — fairness-aware modeling among them — because the bias entering at formation is not addressed by a fix aimed at output text.
-
-## Connected Concepts
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — the reader-side failure: accepting a recommendation without checking it
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Connected Articles
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
-- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
-- [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[temporal-smoothness-debiased-kt]] — Debiased knowledge tracing
-- [[ground-truth-reliability-aied]] — Modernizing ground truth for AI reliability
-- [[data-annotations-pedagogical-hints]] — Data annotations as pedagogical hints
-- [[xai-education-framework]] — Explainable AI in education
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
-- [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - under class imbalance three model families could not identify low performers while balanced metrics looked healthy

@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -84,28 +86,3 @@ pedagogy: [tpack]
 **«SAMR وTPACK إطاران متنافسان.»** هما يصفان شيئين مختلفين: SAMR يصف *درجة التحوّل* في مهمة، بينما [[tpack|TPACK]] يصف *المعرفة* التي يحتاجها المعلم لدمج التقنية جيدًا. فيمكن لمعلم أن يكون عالي الكفاءة في TPACK ويعمل مع ذلك عند الاستبدال، ولهذا يُستخدمان معًا لا يُختار بينهما.
 
 **«الأداة التي هي تحويلية في مرحلة تحويلية في كل المراحل.»** الأداة التوليدية نفسها قد تدعم استبدالًا في مقرر وإعادة تعريف في آخر، لأن المرحلة خاصية لتصميم المهمة لا للتقنية. فنسبة المرحلة إلى الأداة تنتج قرارات تبنّي مكان قرارات تصميم.
-
-## المفاهيم المرتبطة
-
-- [[ai-education]] — الذكاء الاصطناعي في التعليم (شامل)
-- [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Technology adoption models
-- [[icap-framework]] — The ICAP framework of cognitive engagement
-- [[ai-technologies]] — AI technologies and techniques
-- [[teacher-ai-competency]] — Teacher AI competency
-- [[educational-development]] — Educational development
-- [[learning-design]] — Learning design
-- [[k-12]] — K-12 education
-- [[higher-ed]] — Higher education
-- [[generative-ai]] — Generative AI
-
-## المقالات المرتبطة
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI integration in higher ed graded with SAMR: mostly Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP and SAMR mapping the four cooking-to-learning scenarios
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR among the lenses for GenAI-driven curriculum change
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR among the frameworks informing faculty technology standards
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
-- [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — الذكاء الاصطناعي في صفوف الرياضيات: استراتيجية تآزرية للتنوع والشمول

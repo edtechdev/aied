@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -39,6 +40,3 @@ De inleiding van de verzameling kadert een prompt als een retorisch genre met be
 ## Wat u moet weten voordat u het gebruikt
 
 Het hele boek is gratis als pdf en ePub, en afzonderlijke hoofdstukken worden apart gepubliceerd met eigen DOI's. Publicatie in juli 2026 door de WAC Clearinghouse in de WAC Repository-reeks, 402 pagina's, geredigeerd door Anuj Gupta en Brian Gogan, met de verzamel-DOI 10.37514/TWR-B.2026.2999. De licentie is Creative Commons BY-NC-ND 4.0, dus lezers mogen het boek bekijken, persoonlijke kopieën printen en ernaar linken, maar het niet op een andere site reproduceren of zonder toestemming aanpassen; een cursus die gewijzigde prompttekst wil, kan beter een eigen versie schrijven dan deze herdrukken. De prompt van elk hoofdstuk is op meerdere platforms getoetst, al rapporteert het boek geen gecontroleerde vergelijking van uitkomsten, dus behandel de prompts als vakkundig ontwerp en niet als gevalideerde interventie.
-
-## Gerelateerde concepten
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

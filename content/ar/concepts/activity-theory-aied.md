@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,29 +92,3 @@ ai_assist:
 **«إن غيّرت معتقدات المعلّم تبعته الممارسة.»** وحدة التغيير أكبر من الشخص. فالتدخلات التي تغيّر الأعراف وتوزيع عبء العمل والقواعد المشتركة تغيّر الممارسة بموثوقية أكبر من تلك الموجّهة إلى الاقتناع الفردي، لأن موضوع النشاط يُنتَج جماعيًا. وهذا يفسّر أيضًا لماذا يعود المتبنّون المتحمسون فرديًا إلى ما كانوا عليه عندما لا يتحرك قسمهم معهم.
 
 **«نظرية النشاط عدسة وصفية بلا تبعات تصميمية.»** بل توجّه التصميم إلى التناقضات بين عناصر النظام — الأداة التي تتعارض مع القواعد، وتقسيم العمل الذي يتعارض مع الموضوع — وهي حيث يُستمدّ التغيير فعلًا. فالعدسة التي تحدد التناقضات تعطيك موضعًا للتدخل لا مفردات فحسب.
-
-
-## المفاهيم المرتبطة
-
-- [[sociocultural-learning]] — العائلة النظرية التي تنتمي إليها نظرية النشاط (فيغوتسكية، ثقافية تاريخية)
-- [[learning-theories]] — المحور الذي يضع نظرية النشاط بين نظريات التعلّم
-- [[distributed-cognition]] — تركيز مشترك على الإدراك الموزّع سياقيًا والوسيط بالأدوات
-- [[situated-learning]] — تركيز مشترك على السياق والمشاركة في النشاط
-- [[agency]] — كيف يعيد الذكاء الاصطناعي توزيع الفاعلية البشرية عبر نظام النشاط
-- [[teacher-role]] — تحلّل نظرية النشاط كثيرًا تبنّي المعلّمين وممارستهم
-- [[learning-analytics]] — يؤسّس CHAT تصميم التحليلات
-- [[generative-ai]] — أثر الذكاء الاصطناعي الذي يدخل أنظمة النشاط التعليمي ويُحدث فيها اضطرابًا
-- [[technology-acceptance-model]] — حساب التبنّي المقابل المرتكز على الإيمان الفردي
-
-## المقالات المرتبطة
-
-- [[jiang-genai-activity-theory-disciplines-2026]] — الفروق التأديبية في استخدام الذكاء الاصطناعي التوليدي والإفصاح عنه عبر عدسة نظرية النشاط
-- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
-- [[llm-family-education-activity-theory-2026]] — مراجعة نطاقية لـ53 دراسة: النماذج اللغوية الكبيرة أعادت توزيع العمل التعليمي الأسري، بينما كانت القواعد متوقَّعة لا مُنفَّذة
-- [[generative-ai-mediational-agent-sociocultural-2026]] — الذكاء الاصطناعي التوليدي وكيلًا وسيطًا: لا أداة ولا متعاون

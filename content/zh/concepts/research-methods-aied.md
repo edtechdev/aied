@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -207,56 +209,3 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 **“宽松的测量规则是次要的方法论选择。”** 它改变发现。把任何完成都计分，对之后无辅助表现的预测**仅略高于一个技能与难度常数（合并 AUC 0.604 对 0.595）**，同时把 **93.9% 的学生与技能对**宣布为已掌握，而严格规则下为 **72.8%**。这条规则在被宣布为准备好的学生上造成了 21 个百分点的差异，而预测力几乎没有改善可显示。
 
 **“统计显著性解决了某项干预是否奏效。”** 它解决的是某个效应是否可被检测。它是否是一个*学习*效应，取决于结果测量、比较对象以及取得该测量的条件，这也是本页各节中的设计与报告选择与统计分析同等重要的原因。
-
-## 关联概念
-
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research|解读并应用人工智能教育研究]]
-- [[ai-ed-evaluation|人工智能教育评价]]
-- [[rct|RCT]]
-- [[benchmark|基准]]
-- [[meta-analysis-systematic-review|元分析与系统综述]]
-- [[ai-assisted-educational-research]] — 人工智能辅助的教育研究
-- [[educational-measurement|教育测量]]
-- [[assessment-validity|评估效度]]
-- [[simulation|模拟]]
-- [[ai-education|教育中的人工智能]]
-- [[higher-ed|高等教育]]
-- [[limitations-in-aied-research|教育人工智能研究的局限]]
-- [[learning-gains|学习增益]]
-- [[theory-development-aied]] — 教育中人工智能的理论发展
-- [[qualitative-research]] — 质性研究
-- [[quantitative-research]] — 量化研究
-- [[mixed-methods-research]] — 混合方法研究
-- [[design-based-research]] — 基于设计的研究
-- [[usability-research]] — 可用性研究
-- [[self-report-measures|自我报告测量]]
-- [[learning-sciences|学习科学]]
-
-## 关联文章
-
-- [[ai-methodologies-science-education-research-2026]] — 一个七阶段的认识论迭代框架，用于反思人工智能方法学可能如何改变科学教育研究（Martin 等，2026）
-- [[access-not-enough-ai-tutoring-2026]] — 仅有接入不够：人类支持改善对人工智能导学的参与
-- [[genai-can-harm-teaching-rct-2026]] — 生成式人工智能可能损害教学
-- [[genai-over-reliance-learning-2026]] — 从增强到过度依赖：一项混合方法研究
-- [[acceptance-ai-english-tools-2026]] — 对人工智能辅助英语学习工具的接受度
-- [[hazra-safetutors-pedagogical-safety-2026]] — 人工智能导学的安全与教学伤害
-- [[zerkouk-comprehensive-review-its-2025]] — 智能导学系统全面综述
-- [[ai-assisted-collaborative-learning-model-dbr]] — 面向人工智能辅助协作学习模型的基于设计的研究
-- [[teachbench-llm-teaching-evaluation]] — TeachBench：评价 LLM 的教学能力
-- [[ground-truth-reliability-aied]] — 现代化真值：迈向可靠与有效的四个转变
-- [[llm-student-simulation-teacher-insights]] — LLM 能有效模拟人类学习者吗？
-- [[raise-framework-ai-education-reporting-2026]] — RAISE：十个域 30 项条目，用于人工智能教育研究的透明报告（Allison，2026）
-- [[ai-lms-middle-school-longitudinal]] — 人工智能整合的学习管理系统：一项纵向研究
-- [[ai-in-the-wild-college]] — 真实场景中的人工智能：对真实交互的大规模分析
-- [[same-ai-different-pathways]] — 同一人工智能，不同路径：解析机制
-- [[tep-aied-model-reporting-2026]] — 以严谨方式报告人工智能教育研究的 TEP-AIED 模型（Hwang、Xie、Wah 与 Gasevic，2026）
-- [[t2i-competence-paradox-2026]] — 能力悖论：艺术与设计中的文本到图像生成式人工智能
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育中的 ChatGPT：一个寻找原因的效应
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — 人工智能对学习之效应的元元分析
-- [[oneill-presumed-effective-meta-analysis-2026]] — 被假定的有效性：有缺陷的人工智能教育元分析审计
-- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性检查
-
-- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：答案已知的探针、对模拟评分者的植入效应检查，以及 22 个提示模型（Porcaro 2026）
-

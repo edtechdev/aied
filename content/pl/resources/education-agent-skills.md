@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -41,7 +42,3 @@ Wyróżniającym twierdzeniem projektu jest jego ugruntowanie: umiejętności cy
 ## Uwagi i zastrzeżenia
 
 Umiejętności edukacyjne, dokumentacja i materiały programowe są objęte licencją CC BY-SA 4.0, więc ponowne użycie i adaptacja są otwarte, ale utwory zależne muszą nosić tę samą licencję. Dwa szczegóły operacyjne mają znaczenie przy wdrożeniu. Hostowany punkt końcowy MCP wymaga tokenów, a nie jest otwarty dla wszystkich, a ponieważ serwer serwuje zatwierdzoną migawkę, a nie pliki SKILL.md, umiejętność dodana bez przebudowania i zatwierdzenia pakietu nie pojawi się na żywym serwerze nawet po ponownym wdrożeniu. Bibliotekę zbudował Gareth Manning, edukator i projektant programów, a warunki licencji dotyczą konkretnie treści edukacyjnych.
-
-## Powiązane pojęcia
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

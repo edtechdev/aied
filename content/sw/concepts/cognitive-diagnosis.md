@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -86,43 +88,3 @@ Utambuzi wa kiakili unaunganisha na [[knowledge-tracing]], [[student-modeling]],
 - Pima pande zote mbili: kutambua jibu lisilo sahihi na kuzalisha lilo sahihi. Takwimu ya 95.2% ya kurejesha suluhisho inapendekeza kwamba uzalishaji ni nusu rahisi na hali ya kushindwa iko katika utambuzi.
 - Pendelea ugunduzi kuliko orodha isiyobadilika pale muundo wa nyanja unaruhusu, na ripoti ufikiaji dhidi ya seti ya marejeleo ili ulinganisho uwe wazi.
 - Usitoe alama ya kiutambuzi bila kutaja muundo unaoupima na jinsi ilivyothibitishwa kwa njia huru kutoka kwa ishara iliyoizalisha.
-
-## Dhana Zilizounganishwa
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Makala Zilizounganishwa
-- [[llm-cognitive-diagnosis-handwritten-math]] — Kupima LLM katika Kutambua Ujuzi wa Kiakili kutoka Hisabati ya Kuandika kwa Mkono
-- [[correct-answer-trap-misconceptions]] — Mtego wa Jibu Sahihi
-- [[llm-misconception-difficulty-easy-trap]] — Mtego Rahisi: Kwa Nini LLM Zinadharau Ugumu Unaosababishwa na Dhana Potofu
-- [[llm-student-misconception-identification]] — Utambuzi wa LLM wa dhana potofu za wanafunzi
-- [[student-math-competence-clustering]] — Kupanga Makundi kwa Uundaji wa Mfano wa Uwezo wa Hisabati wa Mwanafunzi
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Kuhifadhi Wakala wa Kiakili kwa Uundaji Mahususi wa Mfano wa Mtatuzi wa Matatizo
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: kutambua kutoka wanafunzi waliosimuliwa
-- [[huang-interpretable-knowledge-tracing-2026]] — Ufuatiliaji wa maarifa unaoweza kufasiriwa
-- [[xie-hillm-cd-2026]] — HiLLM-CD: mti wa dhana ya LLM + upatikanaji wa ustadi wa ngazi
-- [[yasir-llm-tutoring-agents-2026]] — Kutenganisha utambuzi na maoni katika walimu wa LLM
-- [[zhang-ct-ai-training-test-2026]] — Ufikiri wa Kompyuta katika Mtihani wa Mafunzo ya AI (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Utambuzi wa kiakili wa Bayesian kwa njia za kujifunza zinazoweza kubinafsishwa
-- [[personalized-neural-cognitive-architecture-search-2026]] — Utafutaji wa muundo mahiri wa kiakili wa neva unaoweza kubinafsishwa wa AutoML kwa wasifu wa wanafunzi
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ufuatiliaji wa maarifa unaoelekezwa na matokeo na ramani za uhusiano
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Utambuzi uliofadhiliwa wa LLM nyingi tofauti unaohifadhi faragha
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Kuchimba makosa ya kawaida ya uundaji wa mfano katika kipimo kwa mabadiliko ya kurekebisha hitilafu yanayozalishwa na LLM, yaliyothibitishwa kwa kigezo cha kialgoriti (Killich na wenzake 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Utambuzi wa Kiakili wa Mitambo: utambuzi unaoelekezwa na DINA wa malengo 14 ya kujifunza kutoka hifadhi zilizopo za dhana za fizikia (Le na wenzake 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Uwekaji alama wa dhana maarifa ya LLM na hali za maarifa za kiwango cha dhana zilizorekebishwa
-- [[llm-distractor-generation-student-reasoning-2026]] — vizibo vinavyoelekezwa na dhana potofu kama kazi ya kubuni kipengele cha utambuzi
-- [[misconception-acquisition-dynamics-llms-2026]] — mahali kosa linaingia katika suluhisho ndio kizuizi cha utambuzi
-- [[pivot-generative-video-tutors-stem-2026]] — Kutoka Uzalishaji wa Maudhui hadi Msaada wa Kujifunza: Waelimu wa Video wa Kizalishaji Wanaoelekezwa na Didaktiki kwa Kujifunza kwa STEM
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu Mwenye Wakala Anayejifunza Mwanafunzi Wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu–AI
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Mifano ya Msingi ya Wazi ya Kujifunza na Kufundisha
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Kufikiria upya tathmini ya utambuzi kupitia AI iliyojumuisha tamaduni kwa kujifunza kunalomaana

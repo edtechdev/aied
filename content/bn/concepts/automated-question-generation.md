@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -89,53 +91,3 @@ AQG [[adaptive-learning|অভিযোজনী]] ও [[personalized-learning|�
 **"প্রশ্ন-উৎপাদন স্বাভাবিকভাবেই অনুশীলনকে ব্যক্তিকেন্দ্রিক করে।"** এটি জোগান উৎপন্ন করে, আর ব্যক্তিকরণ হলো মেলানোর সমস্যা। বেশি আইটেম তৈরি করলে জানা যায় না একজন নির্দিষ্ট শিক্ষার্থী এরপর কোন আইটেম দেখবে, এবং অভিযোজনী-নির্বাচনের প্রশ্নটি নিজস্ব প্রমাণসহ একটি পৃথক প্রক্রিয়া।
 
 **"উৎপাদন মূল্যায়নকে বড় মাপে ছড়ায়, মূল্যায়ন কী মাপে তা না বদলিয়ে।"** এটি কী মাপা হয় তার গঠনই বদলে দেয়, কারণ যে আইটেমগুলো ভালোভাবে উৎপন্ন হয়, তারা ভালোভাবে মূল্যায়নকারী আইটেমগুলোর প্রতিনিধিত্বমূলক নমুনা নয়। সহজে-উৎপাদনযোগ্য ফরম্যাট ক্রমান্বয়ে কঠিনতর-উৎপাদনযোগ্য ফরম্যাটকে ঠেলে সরিয়ে দেবে, যা চুপচাপ গঠনটিকে নতুন করে সাজায়।
-
-## সংযুক্ত ধারণা
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## সংযুক্ত নিবন্ধ
-- [[genai-medical-education-transformation-review-2026]] — এআই আইটেম-উৎপাদন বনাম অনুষদের আইটেম-গুণমান নিয়ে চিকিৎসা-শিক্ষার 153টি প্রতিবেদনের স্কোপিং পর্যালোচনা
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — IRT-এর মাধ্যমে এআই-উৎপন্ন পরীক্ষার গুণমানের বড় মাপের ক্ষেত্র-যাচাই
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate প্রশ্ন-উৎপাদন
-- [[kt4eqg-personalized-question-generation]] — জ্ঞান-ট্রেসিংয়ের মাধ্যমে ব্যক্তিকেন্দ্রিক প্রশ্ন-উৎপাদন
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — বধির ও শ্রবণপ্রতিবন্ধী শিক্ষার্থীদের জন্য LLM-চালিত প্রশ্ন-উৎপাদন
-- [[llm-educational-question-cognitive-depth]] — LLM-উৎপন্ন প্রশ্নের জ্ঞানীয় গভীরতা
-- [[slidesqaqa-pedagogical-question-generation]] — স্লাইড-ডেক প্রশ্নোত্তর শিক্ষাবিদ্যামূলক প্রশ্ন-উৎপাদন
-- [[code-gen]] — CODE-GEN: RAG-ভিত্তিক মানুষ-হস্তক্ষেপ প্রশ্ন-উৎপাদন
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles বেঞ্চমার্ক
-- [[taklif-ai-interest-based-personalized-assignments]] — আগ্রহ-ভিত্তিক ব্যক্তিকেন্দ্রিক অ্যাসাইনমেন্ট
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-ভিত্তিক কাঠিন্য-ক্রমাঙ্কন
-- [[self-referential-l2-writing-llm-assessment]] — স্ব-সূত্রিক বিশ্লেষণমূলক লেখা-মূল্যায়ন
-- [[cross-dataset-bloom-question-classification]] — ক্রস-ডেটাসেট ব্লুম প্রশ্ন-শ্রেণিবিন্যাস
-- [[llm-chatbots-cs-multiple-choice]] — LLM চ্যাটবট ও CS বহুনির্বাচনী আইটেম
-- [[socratic-tests-conversational-assessment]] — সক্রেটিক পরীক্ষা: কথোপকথনমূলক মূল্যায়ন
-- [[llm-turing-test-italian-legal-exams-2026]] — আইনি পরীক্ষায় LLM টুরিং পরীক্ষা
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM ও ট্রি-ভিত্তিক এমএল দিয়ে আইটেম-কাঠিন্য অনুমান
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: প্রক্রিয়া-ভিত্তিক গণিত আইটেম-গুণমান মূল্যায়ন
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: একটি এজেন্টিক টিউটর যা মানুষ-এআই সহ-শিখন চক্রে তার শিক্ষার্থীকে শেখে
-- [[automated-constructive-assessment-hdr-llm-2026]] — বৃহৎ ভাষা-মডেল দিয়ে গঠনমূলক মূল্যায়ন স্বয়ংক্রিয়করণ: ব্যবহারিক দক্ষতার স্কেলযোগ্য ও পুনরাবৃত্ত মূল্যায়নের দিকে
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — শিক্ষার্থীদের LLM ব্যবহার এবং ডেটা-বিজ্ঞান কোর্সে এআই-উৎপন্ন প্রশ্ন-কাঠিন্যের সীমা
-- [[bloom-classifier-ai-assisted-questions-2026]] — নতুন এআই-সহায়ক শিক্ষামূলক প্রশ্নের শিক্ষাবিদ্যামূলক মূল্যায়নে প্রি-ট্রেইনড মডেলের মূল্যায়ন
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — একটি গ্রেডেড পরীক্ষায় শিক্ষার্থীরা এআই-উৎপন্ন MCQ-কে লাইসেন্সিং-পরীক্ষার আইটেম থেকে আলাদা করতে পারেনি, এবং পর্যালোচনায় উৎপন্ন আইটেমের 18.2% বাদ পড়েছে (Vogt প্রমুখ 2026)

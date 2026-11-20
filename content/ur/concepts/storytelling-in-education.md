@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -55,21 +57,3 @@ ai_assist:
 **"AI تخلیق کہانی سنانے کو اُن طلبہ کے لیے دستیاب کر دیتی ہے جو لکھ نہیں سکتے تھے۔"** یہ *تحریری مصنوع بنانا* دستیاب کرتی ہے، جو ایک الگ فائدہ ہے۔ زبانی بیانی، نقش بنانا اور املا کرانا اُسی مقصد تک قائم شدہ راستے ہیں، اور وہ اُس تخلیق کاری کو بچائے رکھتے ہیں جو تخلیق چھین لیتی ہے۔
 
 **"کہانی کی تعلیمی قدر چمکے ہوئے نتیجے میں ہے۔"** وہ ساخت میں ہے — وہ انتخاب اور ترتیب جو سنانے والا انجام دیتا ہے۔ ایسی چمکی ہوئی کہانی جو طالب علم نے خود ترتیب نہ دی ہو، ماڈل کی قابلیت کا مظاہرہ کرتی ہے، سیکھنے والے کی نہیں۔
-
-## منسلک تصورات
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## منسلک مضامین
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub بیانی HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — تعلیم میں روبوٹکس اور AI
-- [[ai-generated-interactive-fiction-education-2026]] — AI سے پیدا شدہ متعامل افسانہ: 22 طلبہ کے پائلٹ میں ہم آہنگی کمزور جہت

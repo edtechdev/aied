@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,35 +112,3 @@ ai_assist:
 **"إضافة حلقة [[feedback|تغذية راجعة]] بالذكاء الاصطناعي تحسّن التقييم الذاتي تلقائيًا."** حلقة التغذية الراجعة تغيّر ما يقارن به الطالب، وهو ما قد يحسّن المعايرة وقد يُثبّته على حكم النظام أيضًا. والدراسة المقارنة هنا (**118 طالبًا في السنة الأولى الجامعية، 56 في مجموعة الذكاء الاصطناعي التوليدي و62 في مجموعة الأقران**، وثلاث دورات عبر فصل دراسي) مصمّمة تحديدًا لاختبار ما إذا كانت الحلقة أم المقارنة الاجتماعية هي التي تؤدي العمل — والجواب ليس "الحلقة، بكونها حلقة".
 
 **"التقييم الذاتي بديل ألطف عن الاختبار."** إنه هدف مختلف. فالتقييم الذاتي يُنمّي المهارة التنظيمية للحكم على عمل المرء، والاختبار يقيس القدرة التي يُحكم عليها. والبحث الذي يستبدل أحدهما بالآخر يخلط بين القدرة على تقييم الأداء والأداء نفسه.
-
-## المفاهيم المرتبطة
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-
-## المقالات المرتبطة
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — التقييم الذاتي موضوع في مركز إطار النمو الموجَّه ذاتيًا (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — مواد ثقافة ذكاء اصطناعي مُدرَّجة نمائيًا، مع قياس القبول والصلاحية (2026)
-- [[chatgpt-critical-creative-thinking-review]] — مُثبّت التغذية الراجعة للذكاء الاصطناعي بتقييم الأقران والمعلّم والتقييم الذاتي (2026)
-- [[yasir-llm-tutoring-agents-2026]] — لماذا يجب ألا تستند التغذية الراجعة إلى صلاحية استدلال النموذج المُقيَّمة ذاتيًا (ياسر وآخرون 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — استبيان تقييم ذاتي مُتحقَّق منه من 15 مفردة لثقافة الذكاء الاصطناعي للصفوف 4 إلى 6، مع الحدود ما وراء المعرفية للتقرير الذاتي للأطفال (ثيانوان وسريكوون 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 من 33 أداة لقياس ثقافة الذكاء الاصطناعي عند المعلّمين تقارير ذاتية، واثنتان تختبران المعرفة موضوعيًا، ولا واحدة تستخدم مهام أداء (زينال ومحمد ماتور وماعت 2026)

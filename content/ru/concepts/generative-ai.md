@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, prompt-engineering, rag, ai-literacy, ai-education, intelligent-tutoring, cognitive-offloading, hallucination-risk, academic-integrity, automated-assessment, ai-technologies, higher-ed, k-12, reflection]
+connected_articles: [genai-learning-motivation-meta-analysis-2026, typology-generative-ai-tools-education-2026, generative-ui-education-learning-interactives-2026, ai-standardized-patient-scaffolding-medical-2026, ssail-safe-sound-ai-learning-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, cogevol-learning-environment-generation-2026, khlaif-assistive-genai-visually-impaired-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, pecuchova-automated-grading-open-ended-genai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, bloom-classifier-ai-assisted-questions-2026, bicer-genai-pd-math-creativity-2026, chen-pbl-pjbl-genai-meta-analysis-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -96,45 +98,3 @@ ai_assist:
 - Не стройте дорожную карту по объединённым размерам эффекта. Аудит 14 мета-анализов обнаружил, что ни один не обосновал свои утверждения, поэтому продуктовое утверждение, опирающееся на заголовочное *g*, опирается на методологию, которая не выдерживает проверки.
 - Измеряйте базовую частоту прежде, чем её оптимизировать. Частота 0.68% означает, что большая часть работы с качеством происходит в хвосте, а именно исполнение в хвосте определяет, приемлемо ли развёртывание.
 - Сообщайте версию, дату и тип задачи с каждым числом бенчмарка, которое публикуете, потому что утверждение о возможностях без них не воспроизводимо.
-
-## Связанные концепции
-
-- [[llm]] — класс моделей, лежащий в основе генеративного ИИ
-- [[prompt-engineering]] — как формируется выдача
-- [[rag]] — дополнение поиском
-- [[ai-literacy]] — компетентность, необходимая для его эффективного использования
-- [[ai-education]] — более широкая область
-- [[intelligent-tutoring]] — конверсационные и генеративные системы обучения
-- [[cognitive-offloading]] — риск чрезмерной опоры, который генеративный ИИ усиливает
-- [[hallucination-risk]] — основной риск надёжности генерируемого содержания
-- [[academic-integrity]] — заботы о честности из-за беглой генерации
-- [[automated-assessment]] — генеративные модели в выставлении оценок и обратной связи
-- [[ai-technologies]] — зонтик методов и моделей ИИ
-- [[higher-ed]] — основной контекст внедрения
-- [[k-12]] — основной контекст внедрения
-- [[reflection]]
-
-## Связанные статьи
-
-- [[genai-learning-motivation-meta-analysis-2026]] — Мета-анализ влияния генеративного ИИ на мотивацию к обучению, с интервалом предсказания, охватывающим от вреда до выгоды
-- [[typology-generative-ai-tools-education-2026]] — Типология инструментов генеративного ИИ для образования
-- [[generative-ui-education-learning-interactives-2026]] — Использование генеративного UI для образования: адаптированные интерактивные учебные материалы
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: фреймворк проектирования безопасного и обоснованного ИИ для обучения
-- [[genai-educational-outcomes-meta-analysis]] — Мета-анализ результатов обучения с генеративным ИИ
-- [[genai-meta-analysis-programming-learning]] — Мета-анализ генеративного ИИ в обучении программированию
-- [[genai-performance-vs-learning]] — Исполнение против обучения с генеративным ИИ
-- [[hazra-safetutors-pedagogical-safety-2026]] — Вреды агентов ИИ-репетиторства
-- [[eduguard-safe-rag-llm-tutor]] — Ограничение рисков безопасного LLM-репетитора с RAG
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: генерация учебной среды
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Ассистивный генеративный ИИ для обучающихся с нарушениями зрения
-- [[li-language-educators-genai-review-2026]] — Практики и развитие преподавателей языка с генеративным ИИ
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Оценка предобученных моделей для педагогической оценки новых образовательных вопросов с помощью ИИ
-- [[bicer-genai-pd-math-creativity-2026]] — Кейс-исследование профессионального развития по математике с поддержкой генеративного ИИ с восемью сельскими работающими преподавателями
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Объединённый g = 0.819, снижающийся до 0.378 при PET-PEESE; пользовательские инструменты (0.455) уступали чат-ботам (0.970)

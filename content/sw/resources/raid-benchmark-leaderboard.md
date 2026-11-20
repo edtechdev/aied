@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -41,9 +42,3 @@ Watafiti wanaotathmini mbinu za ugunduzi, wasimamizi wanaoandika sera inayoweza 
 ## Vidokezo na tahadhari
 
 Benchmark hupima ugunduzi wa maandishi yaliyozalishwa na mashine, si ukiukaji wa maadili: mwanafunzi anayetumia AI kupanga, kuweka muhtasari au kurekebisha huzalisha maandishi ambayo vigunduzi havikujengwa kuyanasa, na mwanafunzi [[language-learning|anayeandika katika lugha ya pili]] ni hatari inayojulikana ya chanya za uongo ambayo ubao wa alama hauwezi kuonyesha. RAID ni zao la utafiti linalotunzwa na timu ya kitaaluma; ufunikaji hufuatilia modeli za uzalishaji katika seti yake ya majaribio, kwa hivyo modeli mpya zinaweza kuwakilishwa kwa kiwango cha chini hadi benchmark itakaposasishwa. Ubao wa alama hupanga vigunduzi, si mbinu za wauzaji wake za kushughulikia data, na AUROC ya juu haisemi chochote kuhusu iwapo kuwasilisha kazi za wanafunzi kwenye huduma hiyo ni halali au kimaadili katika mamlaka yako.
-
-## Dhana Zilizounganishwa
-
-- [[ai-detection]] — familia ya mbinu ambayo benchmark hutathmini
-- [[academic-integrity]] — muktadha wa sera ambapo alama za vigunduzi hutumiwa
-- [[benchmark]] — kundi pana zaidi la vyombo ambalo chombo hiki huangukia

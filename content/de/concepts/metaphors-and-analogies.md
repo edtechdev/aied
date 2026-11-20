@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, misconceptions, student-ai-interaction, pedagogical-agent, learning-design, educational-development, engineering-education, cs-education, cognitive-offloading, trust-calibration, equity-in-ai-education, teacher-role, explainable-ai, student-engagement, higher-ed]
+connected_articles: [roe-perkins-furze-metaphors-critical-ai-literacy-2025, student-reception-genai-analogies-computing-2026, fear-awe-genai-metaphor-workshops-2025, engineering-faculty-metaphors-ai-understanding-2026, genai-professionalization-metaphors-2026, thermomix-genai-education-analogy-2026, anvil-ai-educational-animations, ai-engineering-education-balancing-act, code-anchor-multi-view-visualization, stillman-dear-gemini-pairr-critical-ai-literacies-2026, daoism-ai-education-philosophy-2026, rodak-hire-ai-future-focused-literacy-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -124,37 +126,3 @@ Das Risiko überzogener Behauptungen besteht in beide Richtungen. Eine Lehrkraft
 - **„Metaphern sind neutrale Veranschaulichungen.“** Jede Metapher wählt bestimmte Merkmale aus und blendet andere aus. Diese Wahl transportiert Annahmen über Handlungsfähigkeit, Vertrauen und Verantwortung.
 - **„KI-generierte Analogien sind sofort einsetzbar.“** Generierte Analogien können strukturell falsch, kulturell einseitig oder didaktisch unpassend sein. Sie erfordern eine Überprüfung durch die Lehrkraft oder eine Aufgabe, in der die Lernenden sie kritisch prüfen.
 - **„Wenn Lernende die Analogie gefällt, haben sie das Konzept gelernt.“** Engagement und Lernen sind zwei unterschiedliche Ergebnisgrößen. Die Evidenzbasis ist hier überwiegend qualitativ und belegt keinen Lernzuwachs.
-
-## Verbundene Konzepte
-
-- [[ai-literacy]] — das Schirmkonzept für kritische KI-Kompetenz und metaphernbasiertes Lehren.
-- [[critical-thinking]] — Analogiekritik als Form strukturellen Schlussfolgerns.
-- [[misconceptions]] — fehlerhafte Analogien als Quelle dauerhafter Fehlvorstellungen.
-- [[student-ai-interaction]] — wie Studierende KI-Erklärungen interpretieren und prüfen.
-- [[pedagogical-agent]] — KI-Tutorinnen, die Erklärungen oder Analogien erzeugen.
-- [[learning-design]] — Auswahl und Sequenzierung analogiebasierter Materialien.
-- [[educational-development]] — Metaphern-Elizitierung in der Lehrentwicklung.
-- [[engineering-education]] — Metaphern von Lehrenden und Studierenden in den Ingenieurwissenschaften.
-- [[cs-education]] — Analogienutzung und -kritik in der Informatikbildung.
-- [[cognitive-offloading]] — Werkzeug- und Assistentinnenmetaphern und ihre Risiken.
-- [[trust-calibration]] — anthropomorphe Rollen und fehlplatziertes Vertrauen.
-- [[equity-in-ai-education]] — wessen Quelldomänen als vertraut gelten.
-- [[teacher-role]] — Urteil der Lehrkraft gegenüber KI-generierten Erklärungen.
-- [[explainable-ai]] — Systemerklärung versus pädagogische Analogie.
-- [[student-engagement]] — Engagement-Effekte personalisierter Analogien.
-- [[higher-ed]] — der Kontext der meisten Studien in diesem Cluster.
-
-## Verbundene Artikel
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Vier Metaphern und Kriterien für die Vermittlung kritischer AI-Literacy
-- [[student-reception-genai-analogies-computing-2026]] — Studierende prüfen GenAI-generierte Analogien und korrigieren fehlerhafte Zuordnungen
-- [[fear-awe-genai-metaphor-workshops-2025]] — Workshops zur Metaphernanalyse mit Studierenden, Lehrenden und Mitarbeitenden
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Metaphern von Lehrenden an ingenieurwissenschaftlichen Fakultäten konstruieren und begrenzen das AI-Verständnis
-- [[genai-professionalization-metaphors-2026]] — Metaphorische Konzeptualisierungen von GenAI und professionellem Lernen bei Studierenden
-- [[thermomix-genai-education-analogy-2026]] — Eine Küchenmaschinen-Analogie für Delegation und Lernen mit AI
-- [[anvil-ai-educational-animations]] — KI-generierte Analogien und Lehranimationen für die Informatik
-- [[ai-engineering-education-balancing-act]] — Die „Orakel“- und „Tutor“-Metaphern der Studierenden übersteigen die Fähigkeiten von LLMs
-- [[code-anchor-multi-view-visualization]] — Metaphorische Visualisierungs-Scaffolds und ihr Legitimitätsproblem
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Die Metapher eines Studierenden vom „Feedback-Automaten“ als Beleg für Literalität
-- [[daoism-ai-education-philosophy-2026]] — „Zhenren“ als Gegenmetapher für KI in der Bildung
-- [[rodak-hire-ai-future-focused-literacy-2026]] — Die Metapher der angeheuerten Assistenz und eine von Studierenden verfasste Aufgabenbeschreibung

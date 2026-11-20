@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
@@ -82,7 +84,6 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 
 - **« Une faible confiance en écriture se manifeste par une demande d'aide. »** Elle se manifeste par une demande de texte. Dans une étude d'essais instrumentée, l'échelle du sentiment d'efficacité personnelle en écriture prédisait négativement le nombre total de requêtes (**-0.258**, ET **0.075**, p < 0.001), et l'association passait par la Traduction (**-0.949**) et la Révision (**-0.588**) plutôt que par la Planification (**-0.204**) ou la délégation de l'essai entier (**-0.016**). Les étudiants qui doutaient de leur écriture demandaient au modèle de produire et de corriger du texte ; ils ne lui demandaient pas quoi argumenter. [[jelson-students-chatgpt-essay-writing-2026|Le sentiment d'efficacité personnelle prédisait la dépendance, et cette dépendance prenait une forme précise]].
 
-
 **La confiance ne protège pas un apprenant d'une confiance excessive envers un outil.** Chez 300 étudiants universitaires, [[kim-overtrust-ai-literacy-2026|Kim, Kim et Zhang (2026)]] ont trouvé le sentiment d'efficacité personnelle académique associé à la [[trust-calibration|surconfiance]] envers l'IA (r = 0.230) et le prédisant à B = 0.3901 (IC à 95% [0.2190, 0.5612]) dans un modèle de médiation sérielle, ce qui inverse l'hypothèse des auteurs. La version productive de la confiance est la confiance dans son propre jugement, et c'est précisément ce que dit manquer un score élevé de surconfiance.
 
 - **La confiance atteint l'adoption en partie par la littératie.** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] a testé une séquence auprès de 622 étudiants de premier cycle en Türkiye. Le sentiment d'efficacité personnelle à l'égard de l'IA prédisait l'acceptation de l'IA (B = 0.43, R² = 0.29), et la [[ai-literacy|littératie en IA]] portait une partie de ce lien (B indirect = 0.15, IC à 95% [0.12, 0.19]) sans l'absorber entièrement. La confiance doit aussi être prise en compte comme prédicteur de l'adoption, et pas seulement de la capacité. Le devis est transversal, sans contrôles démographiques, si bien que la direction et la part médiatisée sont des associations plutôt que des effets.
@@ -98,48 +99,3 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 - **« Un usage accru de l'IA avec une faible confiance est une stratégie d'adaptation inoffensive. »** Le même résultat relie cette orientation à des **scores plus bas**, si bien que le schéma d'adaptation a un coût mesurable plutôt que d'être un choix neutre.
 - **« La littératie suffit à construire la confiance. »** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] a interrogé **450 étudiants universitaires** qui utilisent déjà ChatGPT et trouve **la confiance comme pivot entre littératie et confiance en soi**. Le chemin passe par la confiance, si bien qu'élever la littératie sans traiter la confiance laisse le mécanisme intact.
 - **« Les profils de sentiment d'efficacité personnelle sont uniformes dans une population en situation de handicap. »** Une analyse de profils latents portant sur **102 étudiants universitaires ayant des déficiences motrices** en Espagne a trouvé **trois profils**, le groupe faible représentant **29,4%** et le reste se répartissant entre profils modérés et plus élevés. Traiter le groupe comme une seule population revient à moyenner des états motivationnels distincts.
-
-## Concepts liés
-
-- [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — L'apprentissage socioémotionnel
-
-## Articles liés
-- [[ai-proof-learning-cognitive-offloading-2026]] — Soutenir ou remplacer le raisonnement des étudiants ? Le délestage cognitif dans l'apprentissage des démonstrations assisté par l'IA (Chen et coll. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — L'usage général de l'IA allait de pair avec un sentiment d'efficacité personnelle et un absentéisme plus élevés, pourtant le sentiment d'efficacité personnelle ne prédisait pas l'assiduité (Franco et coll. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Les chatbots d'IA dans l'enseignement supérieur : comparer les attentes aux données probantes (Thoeni et Fryer 2026)
-- [[genai-performance-vs-learning]] — une confiance qui augmente tandis que la dépendance technologique croît : le sentiment d'efficacité personnelle comme résultat trompeur à l'ère de l'IA (Yan et coll. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — L'e-mentorat assisté par IA accroît le sentiment d'efficacité personnelle et l'intelligence émotionnelle des enseignants en formation d'anglais langue étrangère (quasi expérimental)
-- [[aigc-affordance-student-self-regulation-2026]] — Affordance des contenus générés par IA et autorégulation étudiante
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — Littératie en IA, préparation à l'IA et adaptabilité professionnelle
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Formation des enseignants à la littératie en IA (théorie de l'autodétermination)
-- [[social-robot-study-companions]] — Les robots sociaux comme compagnons d'étude
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Le cadre HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Schémas d'usage de l'IA générative et sentiment d'efficacité personnelle académique
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — L'échelle AI-PBLS ; l'autonomisation et la conscience éthique médiatisant le lien de l'apprentissage par projets à la satisfaction dans les cours de littératie en IA (Zhu et Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Prédire l'abandon des étudiants en programmation compétitive
-- [[genai-xr-architectural-design-education-2026]] — L'IA générative et la réalité étendue dans la conception architecturale collaborative : une étude d'atelier exploratoire
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Littératie en IA, confiance et sentiment d'efficacité personnelle académique dans une chaîne en série menant à l'usage continu de ChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Profils de sentiment d'efficacité personnelle académique et usage d'IA rapporté parmi les étudiants universitaires handicapés moteurs
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Gains rapportés de sentiment d'efficacité personnelle créatif issus de l'IA générative chez les enfants (revue de portée)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — Le sentiment d'efficacité personnelle à l'oral inverse l'itinéraire de l'anxiété de la pratique assistée par IA à la volonté
-- [[faculty-ai-well-being-social-supports-2026]] — Modèle par équations structurelles sur le corps professoral : le sentiment d'efficacité personnelle technologique, faible prédicteur du bien-être face à l'IA
-- [[cen-self-efficacy-favorability-2026]] — Le sentiment d'efficacité personnelle et la favorabilité façonnent l'apprentissage issu des systèmes de tutorat et de la pratique sur papier (Cen et coll. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — L'échelle du sentiment d'efficacité personnelle en écriture prédisait davantage de requêtes de Traduction et de Révision, et pas plus de Planification ni de délégation de l'essai entier (Jelson et coll. 2026)
-- [[kim-overtrust-ai-literacy-2026]] - le sentiment d'efficacité personnelle académique prédisait une surconfiance envers l'IA plus élevée plutôt que plus faible
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — Utiliser l'apprentissage automatique pour mesurer le sentiment d'efficacité personnelle à travers les traces d'interaction des apprenants en apprentissage enrichi par la technologie
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Sentiment d'efficacité personnelle envers l'IA → littératie en IA → acceptation de l'IA, avec la part médiée par les connaissances mesurée (İşbulan et coll. 2026)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — le sentiment d'efficacité personnelle comme condition nécessaire de l'utilité perçue, avec les seuils de goulot d'étranglement (Chu et Liu 2026)

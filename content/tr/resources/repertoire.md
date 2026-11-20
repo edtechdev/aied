@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
@@ -51,9 +52,3 @@ YZ politikasını [[learning-design|öğrenme tasarımının]] taşımasını is
 - **Üçüncü taraf çıkarımı.** Yanıtlar, Anthropic'in Claude API'si üzerinden, yedek olarak OpenAI'ın API'si ile üretilir; politika, bu ticari koşulların Eylül 2026 itibarıyla API girdileri ve çıktıları üzerinde eğitimi hariç tuttuğunu söyler. Bir kurum bunu bir web sayfası yerine kendi sözleşmesi üzerinden doğrulamalıdır.
 - **Bir notlandırıcı değildir.** Politika ve koşulların ikisi de "hedef karşılandı" gibi asistan yargılarını öğretmene yardımcı olarak tanımlar; notlar ve akademik kararlar öğretmende ve kurumda kalır ve öğrencilere [[ai-use-disclosure|YZ kullanımının açıklanması]] hakkındaki kararlar öğretmene bırakılır.
 - **ABD'de barındırılıyor.** Veriler, Vercel barındırmasıyla Google Cloud Firestore'da durur ve politika, hizmetin eğitim kayıtlarını işlediği yerlerde FERPA yükümlülüklerini ele alır; Amerika Birleşik Devletleri dışındaki kullanıcılara verilerinin orada işlendiği bildirilir.
-
-## Bağlı kavramlar
-
-- [[learning-design]] — YZ politikasının somutlaştığı nokta olarak yapılandırılmış ödev tasarımı.
-- [[guardrails]] — tasarım aşamasındaki kısıtlar olarak katılım kapıları ve sınırlandırılmış YZ yardımı.
-- [[ai-use-disclosure]] — YZ kullanımının öğrencilere nasıl beyan edileceğine platform değil, öğretmen karar verir.

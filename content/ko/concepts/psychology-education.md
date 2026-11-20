@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -99,27 +101,3 @@ ai_assist:
 - **"심리학 교육의 AI는 주로 임상 도구에 관한 것이다."** 연구의 가장 큰 비중은 [[writing-education|쓰기]], 피드백, 학습 습관에 관한 것입니다. 임상 도구는 작고 최근에 생긴 별개의 줄기입니다.
 - **"신뢰로운 생성 문항은 쓸모 있는 문항이다."** 고차 성과를 포괄하지 못하는 신뢰도는 잘못된 것을 정밀하게 측정하는 검사를 만들 뿐입니다.
 - **"수련생은 AI에 찬성하거나 반대하거나 둘 중 하나다."** 잠재 클래스 증거는 영역마다 넷 이상의 프로필이 있으며 도구에 따라 달라진다고 말합니다.
-
-## 연결된 개념
-
-- [[social-sciences-education]] — 이 학문이 속한 클러스터 페이지이자 사회학 증거가 있는 곳
-- [[humanities-education]] — 같은 평가 문제를 안고 있는 이웃 해석 학문
-- [[ai-literacy]] — 심리학 교육 연구 대부분이 실제로 측정하는 구성개념
-- [[assessment-validity]] — 모든 AI 보조 평가 결정의 기준
-- [[feedback]] — 여기서 가장 강력한 연구들이 의존하는 기제
-- [[self-efficacy]] — 지속 사용을 매개하는 성향
-- [[student-ai-interaction]] — 학생들이 실제로 도구에 관여하는 방식, 스스로 말하는 방식과 대비하여
-
-## 연결된 문서
-
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 심리학 2학년 미디어 과제에서 동료 평가를 대체한 ChatGPT
-- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 생성 문항 80개: 신뢰롭고, 73.75%가 회상
-- [[ai-tutor-statistical-programming-adoption-2026]] — 심리학 통계 강좌 R-Tutor의 사전 등록 종단 연구
-- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — 내담자 역할의 GPT-4o: 불안 감소, 순응적이고 문화적으로 평평함
-- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 모든 영역에서 3~4개의 잠재 클래스
-- [[mental-health-literacy-students-llms-2026]] — 진술문 30개를 놓고 네 LLM과 겨룬 심리학 전공 학생 150명
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 학부생 531명, 비네트 6개, 그리고 리터러시가 판단을 예측하는가
-- [[critical-genai-use-predictors]] — 지식, 인식론적 지향성, 가치관이 비판적 사용을 예측
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 신뢰와 자기효능감이 지속 사용을 이끌고, 불안이 제동을 건다
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 에세이 성적의 유일한 유의미한 예측변인으로서의 피드백 리터러시
-- [[burke-ai-proliferation-college-students-replication-2026]] — 2년 간격의 학생 991명: 사용은 두 배, 부정행위 인식은 하락

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -54,7 +56,6 @@ ai_assist:
 
 - **মূল্য-ভিত্তিক প্রকল্প হিসেবে টেকসইতা।** শিক্ষার টেকসইতার ওপর এআই-এর প্রভাব শর্তসাপেক্ষ ও শাসন-মধ্যস্থিত, সহজাত নয়: একটি মূল্য-সমালোচনামূলক বিশ্লেষণ বলে এআই টেকসই শিক্ষাকে সহায়তা করে কেবল যখন গ্রহণ সুস্পষ্ট শিক্ষাগত মূল্যের অধীনস্থ হয়, আর তা ক্ষুণ্ণ করে যখন প্রযুক্তিকরণ ও পণ্যায়ন সেই মূল্য ক্ষয় করে ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami ও Atallah (2026)]])।
 - **প্রসঙ্গ মুছে ফেলা হিসেবে দক্ষতা-প্রথম সমন্বয় বয়ান।** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes প্রমুখ (2026)]] Fairclough-এর ত্রিমাত্রিক মডেল প্রয়োগ করেন ১৪টি ধূসর সাহিত্যের (নভেম্বর ২০২২ – এপ্রিল ২০২৫) ওপর, যা উচ্চশিক্ষার অনুশীলনকারীদের [[generative-ai|উৎপাদনশীল এআই]] দিয়ে গঠনমূলক সমন্বয় করতে পরামর্শ দেয়, এবং পান একটি প্রযুক্তি-সমাধানবাদী বয়ান যেখানে সরঞ্জামকে "একজন শিক্ষাগত বিশেষজ্ঞ ও সহায়ক" হিসেবে মনুষ্যরূপ দেওয়া হয় এবং একাডেমিক কর্মীদের ভূমিকা হয় "বিষয়-বিশেষজ্ঞতা" জোগানো, আর শিক্ষাগত কাজ করে ব্যবস্থাটি। বিশ্লেষণটি পরিস্থিতিভিত্তিক, শাস্ত্রীয় ও সমালোচনামূলক প্রসঙ্গ মুছে ফেলাকে তিনটি ব্যর্থতা-ধারার একটি হিসেবে চিহ্নিত করে — কর্মক্ষমতাবাদ (সমন্বয় যা কেবল দেখতে সমন্বিত) এবং অগভীর সমন্বয় যা গঠনমূলক মাত্রাকে সমন্বিত মাত্রার সঙ্গে গুলিয়ে ফেলে — প্রমাণ যে [[learning-design|পাঠ্যক্রম-নকশা]] নিয়ে পরামর্শও, যা আপাতদৃষ্টিতে নিরপেক্ষ প্রযুক্তিগত বিষয়, সেই অরাজনীতিকরণ যুক্তি বহন করে যা সমালোচনামূলক শিক্ষাবিজ্ঞানীরা অন্যত্র সমালোচনা করেন।
-
 
 - **কেবল নকশা-প্রতিকার যথেষ্ট নয়।** মানব-কেন্দ্রিক নকশা পদ্ধতি যেমন মূল্য-সংবেদনশীল নকশা অপর্যাপ্ত: তারা ব্যবস্থাগত চালকগুলো — কর্মশক্তি-উৎপাদনশীলতার কাঠামো ও অর্থনৈতিক প্রণোদনা — অপরিবর্তিত রাখে, এবং [[agency|এজেন্সি]] শূন্য-সমষ্টি হতে পারে, তাই সরঞ্জামকে দেওয়া সক্ষমতা সেই সক্ষমতা যা শিক্ষার্থী ধরে রাখে না ([[emancipatory-ai-learner-flourishing-2026|Prieto ও Dimitriadis (2026)]])।
 
@@ -94,35 +95,3 @@ ai_assist:
 **গবেষকদের জন্য**
 
 - শ্রেণিকক্ষে সম্পৃক্ততার ধরনগুলোর বণ্টন রিপোর্ট করুন, কেবল গড় ব্যবহার নয়, কারণ গড়টি লুকিয়ে রাখে কোনো সমালোচনামূলক চর্চা আদৌ আছে কি না।
-
-## সংযুক্ত ধারণা
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — ছাতা: শিক্ষায় এআই-এর শিক্ষাবিজ্ঞান ও শিক্ষণ-কৌশল
-
-## সংযুক্ত নিবন্ধ
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — মানবাধিকার শিক্ষা, প্রতিফলনমূলক অনুশীলন, এবং পেশাগত গঠন হিসেবে এআই-শাসন শেখানো (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — সমালোচনামূলক এআই-সাক্ষরতা শিক্ষাবিজ্ঞান হিসেবে বহু-মোডাল রচনা
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — প্রযুক্তি-সমাধানবাদী জেনএআই গঠনমূলক-সমন্বয় পরামর্শের সমালোচনামূলক বয়ান-বিশ্লেষণ
-- [[benali-genai-academic-writing-2026]] — একাডেমিক লেখালেখি কোর্সে যৌক্তিকীকরণ-বাধ্যতামূলক পুনর্বিবেচনা: এআই দুটি প্রস্তাব-অংশে সীমিত, প্রতিটি পরামর্শ লিখিতভাবে গৃহীত বা প্রত্যাখ্যাত (Benali ও Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — বিজ্ঞান শিক্ষার "এআই ঔপনিবেশিকরণ"-এর সমালোচনামূলক, নারীবাদী সমালোচনা
-- [[li-mroziak-reorienting-critical-ai-literacy]] — সমালোচনামূলক এআই-সাক্ষরতার সমাজ-প্রোথিত প্রায়োগিকতা হিসেবে "এআই প্রতিরোধ"
-- [[ojeda-ramirez-community-based-ai-learning]] — সমাজভিত্তিক শিখনের মাধ্যমে এআই-এর জ্ঞানতাত্ত্বিক কর্তৃত্ব পুনর্বণ্টন
-- [[raffaghelli-situated-ai-ethics-2026]] — এআই-নৈতিকতার পরিস্থিতিভিত্তিক, সাংস্কৃতিক-ঐতিহাসিক ও পরিবেশগত কাঠামো
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — মানববিদ্যায় ব্যাখ্যামূলক সংজ্ঞানের উন্নয়নমূলক-সমালোচনামূলক মডেল
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — সমাজতান্ত্রিক মানবতাবাদী এআই-সাক্ষরতা + ন্যায্য ব্যবহার
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — টেকসই শিক্ষা ও এআই-এর মূল্য-সমালোচনামূলক দৃষ্টিভঙ্গি (Alsuhami ও Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — শিক্ষার্থীর বিকাশের দিকে উৎপাদনশীল এআই নকশার মুক্তিমূলক দৃষ্টি
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Freire, নির্মাণবাদ ও যত্ন-নীতির ওপর গড়া মানব-কেন্দ্রিক জেনএআই সম্পৃক্ততা কাঠামো
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy ও ন্যূনপনিবেশিক জ্ঞানতত্ত্বের প্রয়োগ বৈশ্বিক দক্ষিণে শিক্ষাগত উন্নয়নে

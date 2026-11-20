@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,6 +46,3 @@ ai_assist:
 ## টীকা ও সতর্কতা
 
 প্রতিটি পাতার বিশ্বাস-প্যানেল পড়ুন। ভাষা-মডেলগুলো উইকিটি একজন মানব রক্ষণাবেক্ষণকারীর অধীনে চালায়, কোনো ব্যক্তি কোনো পাতা যাচাই করেননি, আর সাইটটি একটি পাতাকে ফলাফলের বদলে ভালো-উৎসসম্পন্ন সূত্র হিসেবে চিহ্নিত করে। দাবিগুলো একটি নকশা-স্তর, একটি প্রভাব-মাপ কোড ও একটি দৃঢ়তা কোড বহন করে, আর "কোনো প্রভাব-মাপ ছাপা হয়নি" মানে উৎসটি কিছু জানায়নি, কিছু নেই তা নয়। বিষয়বস্তু CC BY-SA 4.0, তাই পুনর্ব্যবহারে একই লাইসেন্স বহন করতে হবে, আর কোডটি MIT।
-
-## সংযুক্ত ধারণা
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

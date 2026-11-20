@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -96,36 +98,3 @@ PF فریم ورک کو متعلقہ ڈیزائنوں کے ذریعے بڑھای
 - **"مدد روکنا سیکھنے والوں کو مایوس کرتا ہے اور محرک کی قیمت لیتا ہے۔"** تین بازوؤں والی [[rct|بے ترتیب آزمائش]] نے پایا کہ اشارہ روکنے والا ٹیوٹر **مایوسی کم کرنے اور** محرک میں بلا قید ChatGPT کے **برابر رہا** — قیمت **صرف ترجیح** میں ظاہر ہوئی۔ سیکھنے والوں نے اُس سے زیادہ لطف نہیں اٹھایا اور نہ اُس کی وجہ سے تکلیف اٹھائی، یعنی ترجیح کا ڈیٹا اُس ڈیزائن کو مسترد کر دیتا جو کام کر رہا تھا۔
 - **"زیادہ مایوسی یعنی زیادہ سیکھائی۔"** بڑھتا ہوا ٹیوٹر **طلب پر جواب دینے والے ٹیوٹر سے 0.42 پیمانے کے نقطے زیادہ مایوس کن (p < .001) اور** سب سے زیادہ مایوس کن بازو سے 0.29 کم مایوس کن تھا۔ پیداواری حد ایک درمیان ہے، زیادہ سے زیادہ نہیں، لہٰذا "پسندیدہ دشواری" کام کو بے حد مشکل بنانے کی اجازت نہیں دیتی۔
 - **"پیداواری ناکامی کا مطلب ہے اساتذہ کو مدد نہیں کرنی چاہیے۔"** یہ ڈیزائن *جواب* روکتا ہے جبکہ ساخت اور بڑھوتری مہیا کرتا ہے۔ اشارہ روکنا اور معاونت روکنا مختلف مداخلتیں ہیں، اور یہاں ثبوت صرف پہلی کے پاس ہے۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — ہدایت سے پہلے کوشش بہ طورِ مکمل ترتیب، اپنی کمزور ثبوتی بنیاد کے ساتھ
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — پہلی کوشش کے لیے مشترکہ مسئلہ کی جگہ کے طور پر کیسز
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## منسلک مضامین
-
-- [[kim-ai-productive-failure-adult-2026]] — پیداواری ناکامی پر مبنی سیکھنے کی معاونت کے لیے AI نظام ڈیزائن کرنا
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — پیداواری ناکامی کے لیے LLM کی تدریسی رہنمائی
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF مسئلہ ڈیزائن کی معاونت کے لیے AI
-- [[wang-safety-gap-productive-struggle-2026]] — حفاظتی خلا: پیداواری جدوجہد کی بحالی
-- [[lukesova-clue-before-correction-2026]] — اصلاح سے پہلے اشارہ: خودمختار سیکھائی کے لیے ChatGPT
-- [[pedagogy-ai-mistakes]] — AI غلطیوں کی تدریس
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — حل روکنے نے مایوسی کی قیمت سے بچایا مگر طلبہ کی ترجیح پر ہار گیا

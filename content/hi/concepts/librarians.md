@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -74,36 +76,3 @@ ai_assist:
 **"सूचना साक्षरता एक बार की प्रेरण सत्र है।"** यह सहायता नहीं, शिक्षण है: विद्यार्थी जो प्रश्न लाते हैं वे मूल्यांकन और रणनीति की समस्याएँ हैं, जैसे यह स्रोत विश्वसनीय है क्या और इसे कैसे खोजूँ, जो सिखाए जा सकने वाले कौशल हैं, पूरी करने योग्य लेन-देन नहीं। सेवा को सहायता मानने से पाठ्यचर्या एक हेल्पडेस्क बन जाती है और टिकाऊ क्षमता खो जाती है।
 
 **"सत्यापन का भुगतान कौन करेगा, यह किसी और की समस्या है।"** परामर्श का भार पुस्तकालय कर्मचारियों पर आता है, और पेपर का अपना प्रश्न यह है कि पुस्तकालयों से यह उठाने को कहना उनके जनशक्ति से आगे निकल जाता है या नहीं। सह-अभिकल्प और साझेदारी ही वे उत्तर हैं जिनकी सिफ़ारिश साहित्य करता है, ठीक इसलिए कि सत्यापन की लागत वास्तविक है और उस इकाई पर पड़ती है जिसने उसके लिए बजट नहीं रखा।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-literacy]]
-
-- [[information-and-media-literacy]]
-- [[libraries]]
-
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## संबंधित लेख
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — एम्बेडेड-लाइब्रेरियन सेमिनार मंच; 312 परामर्श जिनका नेतृत्व स्रोत मूल्यांकन ने किया
-- [[genai-academic-search-workshop]] — GenAI और शैक्षणिक खोज पर चीर 2026 कार्यशाला; पुस्तकालय अधिकारी विश्वास-अंतर
-- [[maybee-disruptive-partnerships-sap-2025]] — शैक्षणिक पुस्तकालय अधिकारी छात्रों को साझेदार बनाकर AI साक्षरता का सह-डिज़ाइन
-- [[aarc-ai-research-competency-2026]] — सत्यापित करना, उद्धृत करना, प्रतिबिंबित करना — सिखाने योग्य अनुसंधान प्रतिबद्धताएँ
-- [[pearls-epistemic-verification-2026]] — छह-मापदंडीय सत्यापन प्रोटोकॉल; पहुँच और वैधता द्वार
-- [[hingle-collaborative-ai-literacy-2025]] — AI साक्षरता के लिए सहयोगात्मक सीख; सूचना साक्षरता के लाभ स्थानांतरित होते हैं
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — प्रशिक्षक श्रेय-दान और ज़िम्मेदार उपयोग को सर्वोच्च रखते हैं, फिर भी 26 कौशलों में से थोड़े ही सिखाते हैं
-- [[bird-multimodal-educational-literature-2026]] — अशिक्षित तकनीकी उपयोगकर्ताओं जैसे अंग्रेज़ी शिक्षकों और पुस्तकालय अधिकारियों के लिए बना टेक्स्ट-जटिलता उपकरण
-- [[cognitive-offloading-llm-synthesis-writing]] — जब AI उनके लिए स्रोतों का संश्लेषण करता है तो शिक्षार्थी क्या ऑफ़लोड करते हैं
-- [[citation-errors-hallucinations-computing-education-2026]] — गड़बड़ और त्रुटिपूर्ण उद्धरण एक सत्यापन समस्या के रूप में

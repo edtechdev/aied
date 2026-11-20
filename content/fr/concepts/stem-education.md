@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -86,46 +88,3 @@ Un lot concentré d'études de 2026 de l'*International Journal of STEM Educatio
 - **« Le tutorat intelligent fonctionne uniformément dans les STIM. »** Une revue narrative structurée de **20 publications (2020-avril 2026)** a trouvé l'avantage mesuré le plus clair pour un tutorat **diagnostique en temps réel** spécifiquement. Les preuves sont **bornées et conditionnelles**, et les généraliser à tous les STIM en mathématiques surestime ce qui a été examiné.
 - **« La simulation est un pâle substitut au travail pratique. »** Le groupe simulation **a davantage progressé que le groupe pratique sur les connaissances STIM alignées sur le programme (M = 3.00 contre 2.06 ; t(28) = 2.23, p = .034, d = 0.82)**. La simulation n'était pas une solution de repli en deçà de la réalité.
 - **« Un flux de travail de revue de littérature assisté par l'IA fait surtout gagner du temps. »** Les résultats de **20 étudiants sur 80 documents** montrent **plus de 90 % d'extraction des paramètres expérimentaux, une réduction d'environ 65 % du temps de revue de littérature, et une hausse de 50 % de la capacité des étudiants à identifier les travaux influents**. Le gain de capacité était le résultat principal et l'économie de temps le plus modeste.
-
-## Concepts liés
-- [[learner-identity]] — des identités d'apprenant disciplinaires, professionnelles, créatives et académiques en évolution
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — L'enseignement de la chimie et l'IA : laboratoires, évaluation formative, limites des LLM, philosophie de l'expérimentation
-- [[biology-education]] — L'enseignement de la biologie et l'IA : assistants de laboratoire, littératie en IA en biologie, pensée critique, outils spécialisés
-
-## Articles liés
-- [[ai-pedagogical-accompaniment-amico]] — Accompagnement pédagogique fondé sur l'IA soutenant l'identité STIM
-- [[lnenicka-secondary-students-genai-stem-2026]] — Ce que les élèves du secondaire font réellement avec les outils d'IA générative à travers les STIM
-- [[dai-chatbots-problem-posing-primary-2026]] — Agents conversationnels d'IA générative et formulation de problèmes en sciences à l'école primaire
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT pour l'apprentissage par investigation en STEAM
-- [[niri-steam-ai-literacy-review-2026]] — L'éducation STEAM pour la littératie en IA : revue systématique
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programme STIM adaptatif fondé sur l'IA pour l'apprentissage profond
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Profils d'acceptation de ChatGPT chez les enseignants en formation initiale
-- [[zhang-ct-ai-training-test-2026]] — Test de pensée computationnelle dans l'entraînement de l'IA (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Outil, tuteur ou béquille : théorie ancrée de la programmation assistée par IA
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revue systématique de l'IA dans l'enseignement des sciences et de la chimie
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extraction d'informations assistée par IA soutenant le mémoire de premier cycle et l'apprentissage fondé sur la recherche (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — Apprentissage avec drones assisté par la simulation et étais co-conçus par l'enseignant et l'IA
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Effet regroupé de l'enseignement STIM soutenu par l'IA sur 35 études, avec les plus grands gains au lycée (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Les jumeaux numériques en STIM : chaque étude examinée livrait un prototype fonctionnel, peu mesuraient l'apprentissage
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Une séance de 45 minutes sur la formulation d'invites et la vérification des erreurs a augmenté les scores post-test de physique (*d* = 0,814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Les preuves sur le tutorat intelligent en mathématiques sont bornées et conditionnelles

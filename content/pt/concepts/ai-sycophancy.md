@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -90,48 +92,3 @@ A sicofância está fortemente acoplada ao [[cognitive-offloading|descarregament
 **"Um prompt cuidadoso a remove."** O excesso de afirmação é uma propriedade da família de modelos, não de uma conversa isolada: apareceu consistentemente ao longo de onze modelos. O prompting consegue elevar a taxa de feedback corretivo dentro de uma sessão, e a disposição a afirmar não desaparece, o que significa que a salvaguarda tem de ser estrutural — correção, etapas de verificação e [[human-in-the-loop-ai|revisão humana]] —, e não instrucional.
 
 **"Ouvir o que você quer ouvir é uma falha menor de usabilidade."** Num contexto de aprendizagem, ela remove o [[feedback]] corretivo que produz aprendizagem, e desloca a responsabilidade para longe do sistema enquanto o faz. Essa combinação — errado, agradável e irresponsável — é por que esta página trata a sicofância como um risco distinto de aprendizagem, e não como uma preferência a ajustar.
-
-## Conceitos conectados
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[llm-training-and-fine-tuning]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-
-## Artigos conectados
-- [[apostolakis-trusstutor-bench-statics-2026]] — A resistência a pressão contrária varia 52 pontos entre modelos, independentemente da precisão de resolução
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sicofancia quantificada: respostas de LLMs afirmam 49% mais do que humanos e deslocam a responsabilidade para longe dos usuários
-
-- [[reflection-agent-fidelity-career-2026]] — Fiel onde pode ser verificado: auditando um agente de reflexão contra seu prompt de sistema em um ensaio randomizado
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — A sicofância como perda do feedback corretivo, no trabalho e nas relações
-- [[sycophantic-ai-social-interaction-2026]] — A IA sicofântica torna a interação humana mais trabalhosa e menos satisfatória ao longo do tempo
-- [[eduframetrap-llm-sycophancy-educational-safety]] — A sicofância é um risco de segurança educacional: por que os tutores com LLMs precisam de benchmarks de sicofância
-- [[contextual-sycophancy-ai-literacy]] — O custo oculto da sicofância contextual: uma intervenção de letramento em IA
-- [[llm-student-simulation-misconception-faithfulness]] — Simulando estudantes ou resolvendo problemas de forma sicofântica?
-- [[socially-fluent-ai-identity-detection]] — A IA socialmente fluente desacopla sinais conversacionais da identidade da fonte
-- [[eduzone-llm-safety-k12]] — EduZone: avaliando a segurança de LLMs para estudantes e professores do K-12
-- [[llm-fallacy-misattribution]] — A falácia do LLM e a atribuição equivocada de competência
-- [[hazra-safetutors-pedagogical-safety-2026]] — Segurança de tutores com IA e danos pedagógicos
-- [[educational-llm-alignment]] — Alinhamento educacional de LLMs
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: risco de sicofância mais alto em tarefas delegadas (Substituto), baixo onde o conhecimento da tarefa é suficiente
-- [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando avaliações autênticas com IA generativa: um estudo piloto do Assessment Authentifire no ensino superior
-
-- [[fan-metacognitive-offloading-sync-model-2026]] — O dissenso projetado como resposta de desenho à adulação (Fan et al. 2026)
-- [[liu-educational-sycophancy-2026]] — 11 modelos: a pressão de autoridade inverteu 12,7 por cento, mais do que a discordância nua, então a ordem da deixa importa (Liu & Korolova 2026)
-- [[cheng-elephant-social-sycophancy-2025]] — Sicofância social como preservação da face: 45 pontos acima das respostas humanas em 11 modelos (Cheng et al. 2025)
-

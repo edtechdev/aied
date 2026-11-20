@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -101,44 +103,3 @@ AI의 영어 우세는 이 갈래의 정의적 특징입니다. 모형이 영어
 - **"언어 교사는 열성적으로 도입하거나 아예 도입하지 않는다."** [[li-language-educators-genai-review-2026|23편 연구에 대한 체계적 검토]](Li 외)는 **신중하고 준비를 앞세우는 도입**이 그 패턴임을 발견합니다. 교사들은 열광자와 거부자로 갈린 것이 아니라 숙고하는 태도로 조심스러웠습니다.
 - **"전반적 효과가 노력을 정당화한다."** **33편의 TEFL 연구**에 대한 메타분석은 **작은~중간 정도의 전반 효과(g = 0.38, trim-and-fill 후 0.28)**를 발견했고, 그 효과는 **교육 수준과 함께 높아졌습니다**. 보정 후 효과는 완만하고 상위 수준에 집중되므로 초급 학습자에 대한 주장은 통합 수치로 뒷받침되지 않습니다.
 - **"어떤 AI 사용이든 언어 학습에 똑같이 생산적이다."** 같은 연구는 **기술을 산출 쪽으로 가중**할 것을 주장합니다. 소비가 아니라 쓰기와 말하기입니다. 효과를 결정한 것은 AI의 존재보다 양식이었습니다.
-
-## 연결된 개념
-
-- [[language-learning]]
-- [[reading-education]]
-- [[writing-education]]
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## 연결된 문서
-
-- [[alharbi-ethical-genai-eap-2026]] — 고등교육 내 EAP에서의 윤리적 생성형 AI 통합
-- [[feedback-literacy-scripts-eap-writing]] — GenAI EAP 글쓰기 수정에서의 피드백 리터러시 스크립트와 제2채점자 메커니즘
-- [[genai-differentiated-eap-reading-materials-2026]] — 통일에서 차별화로: EAP 읽기 자료의 GenAI 지원 적응
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: 교수학적으로 적응적인 영어 튜터링을 위한 분류 정렬 사후 훈련
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL 학습 모형으로서 ChatGPT와 e-포트폴리오 평가의 정렬
-- [[irwin-muller-efl-peer-feedback-literacy]] — EFL 동료 피드백에서 생성형 AI의 위치짓기
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL 맥락에서 AI 생성 대 인간 개발 평가 과제
-- [[acceptance-ai-english-tools-2026]] — 고등교육에서 AI 지원 영어 학습 도구의 수용
-- [[ai-tools-arab-english-classrooms]] — 아랍 대학 영어 교실의 AI 도구
-- [[self-referential-l2-writing-llm-assessment]] — 자기지시적 분석적 평가를 향하여: LLM을 활용한 L2 글쓰기 평가의 프로필 기반 접근
-- [[ai-interlocutor-l2-spoken-dialogue]] — 대화 상대가 AI일 때 무엇이 달라지는가? L2 구어 대화
-- [[genai-linguistic-diversity-academic-writing]] — 학술 글쓰기와 출판에서의 생성형 AI와 언어적 다양성
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — 보이지 않는 것을 통치하기: 언어 교사들 사이의 AI 리터러시
-- [[structural-silence-underrepresented-language-ai-2026]] — 구조적 침묵: AI 인프라에서의 과소대표 언어
-- [[liu-emerging-tech-tefl-review-2026]] — TEFL을 위한 신기술
-
-- [[bird-multimodal-educational-literature-2026]] — 교육 문학 분류를 위한 다중양식 융합
-- [[li-language-educators-genai-review-2026]] — GenAI와 함께하는 언어 교육자들의 실천과 발전
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — EFL 논증 에세이에 대한 동료와 AI 수정은 대화적 위치짓기에서 차이가 난다 (Zhao & Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — AI 과잉 의존(54편 중 50%)과 비판적 사고 저하가 보고된 한계를 이끈다

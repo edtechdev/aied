@@ -193,7 +193,11 @@ def changed_slugs() -> list[str]:
         name = line[3:].strip() if line[:2].strip() else line.strip()
         if name.endswith(".md"):
             slugs.add(os.path.basename(name)[:-3])
-    return sorted(slugs)
+    # A connected-list-only migration does not touch the narrative's first mentions.
+    import connected_migration
+    skip = connected_migration.migration_only_set(
+        [f'content/en/articles/{s}.md' for s in slugs])
+    return sorted(s for s in slugs if f'content/en/articles/{s}.md' not in skip)
 
 
 def recent_slugs(since: str) -> list[str]:

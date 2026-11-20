@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -106,37 +108,3 @@ AIの誤用はAIの利用とは区別されます。利用とは、AIを学習�
 **「練習のパフォーマンスが向上しているなら、そのツールは機能している」** 数学を学ぶ高校生約1,000人を対象とした因果的フィールドRCTでは、ガードレールのないChatGPT型のチューターが、支援ありの練習パフォーマンスを**+48%**引き上げた一方で、支援なしの[[summative-assessment|持ち込み不可の試験]]の得点を**17%** *低下*させました。方向が逆であるため、練習の数値を成果として読み取る評価は、検出しようとしている害そのものを認定してしまいます。
 
 **「AIを使う学習者が主に心配しているのは、見つかることだ」** 彼らが述べる懸念は発達に関わるものです。ある研究では、**参加者の51%(n = 106)**がGenAIの使用は個人の発達を妨げかねないと懸念し、規則違反ではなく[[critical-thinking|批判的思考]]、創造性、自律性の損失を挙げました。機関の言説を支配している[[academic-integrity|誠実性]]の枠づけは、学生自身が手に取る枠づけではありません。
-
-## 関連概念
-
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## 関連記事
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為の枠ではなくパートナーシップの倫理が機関の生成的AIの決定を導くべきだと論じる、スウェーデンの調査とフォーカスグループ研究
-
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — ガードレールのない生成的AIは学習を害しうる
-- [[genai-performance-vs-learning]] — パフォーマンスの伸びと学習の区別
-- [[ai-availability-student-motivation]] — AIの利用可能性と学生の動機
-- [[genai-skill-bypass-literacy]] — 生成的AIによるスキルの迂回とリテラシー
-- [[cognitive-shift-ai-education]] — AI教育における認知的転換
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 学生とAIの協働における認知的オフロード
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇：AIと専門性の再生
-- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフロードと教育への含意（Lodge & Loble 2026）
-- [[ai-overreliance-complex-adaptive-system-2026]] — 複雑適応系としてモデル化されたAI過度依存
-- [[academic-erasure-complexity-ai-writing-2026]] — 学問的な消去：AI支援の執筆における複雑さの消失
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI依存は自己効力感と教師の支援から学習の燃え尽きへの経路を完全に媒介する（Huang et al. 2026）
-- [[uneven-impact-generative-ai-student-learning-2026]] — 早期の依存は負の影響を予測し、認知的依存は肯定的影響を予測し、評価リテラシーは先にAIを相談することの害を緩和するのではなく強める（Manikonda et al. 2026）
-- [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与的な対話の振る舞いと学習（Rho et al. 2026）
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

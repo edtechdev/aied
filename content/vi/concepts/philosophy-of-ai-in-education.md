@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -89,34 +91,3 @@ Triết học về AI trong giáo dục và [[theory-development-aied|phát tri�
 
 - Hãy nêu quan niệm về việc học mà đánh giá của bạn tiền giả định, bởi vì một mức tăng được đo chỉ là một lợi ích giáo dục tương đối với một cách giải thích nào đó về mục đích của giáo dục.
 - Hãy tài trợ cho công việc triết học song song với công việc thực nghiệm: các câu hỏi về cái gì được tính là thành tựu của người học định ra những tiêu chí thành công mà các nghiên cứu thực nghiệm sau đó sử dụng.
-
-## Khái niệm liên quan
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Giáo dục hóa học và AI: phòng thí nghiệm, đánh giá định hình, giới hạn của LLM, triết học về thực nghiệm
-
-## Bài viết liên quan
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI trong giáo dục đại học Trung Quốc: liêm chính và sự tham gia
-- [[ensemble-cognition-philosophy-ai-education]] — Nhận thức quần hợp: một khuôn khổ triết học cho nhận thức con người–AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Cộng sinh sư phạm và người học hậu nhân loại
-- [[videla-embodied-ai-education-choreography]] — Phê bình hiện thân, hậu nhận thức luận về AI phi hiện thân trong giáo dục
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Mô hình phát triển-phê phán của nhận thức diễn giải trong khoa học nhân văn
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Đồng quyền tự chủ nhận thức như một triết học về việc học cùng máy móc
-- [[avraamidou-ai-colonization-science-education]] — Triết học nữ quyền phê phán chất vấn việc AI thuộc địa hóa giáo dục
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI tạo sinh như một tác nhân trung giới
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Định khung sinh thái khoa học học tập cho GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Triết học về thực nghiệm trong hóa học với AI
-- [[strydom-human-gai-paradigms-2026]] — Định khung động lực con người-AI: bảy mô thức tương tác GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Triết học AI thay thế: Đạo giáo như phương pháp cho AI trong giáo dục
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ai hành động, ai biết, ai trả lời? Một phân tích diễn ngôn có hỗ trợ bộ ngữ liệu về quyền tự chủ, trách nhiệm nhận thức luận và trách nhiệm giải trình trong nghiên cứu GenAI giáo dục đại học
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIED 'lấy con người làm trung tâm' được đọc như một diễn ngôn duy nhân loại trung tâm có công dụng thương mại (Wang & Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Máy móc có thể thực hiện lao động cảm xúc không? Cuộc tranh luận 1950–1996, và vì sao bắt chước không đủ để xác định sự quan tâm

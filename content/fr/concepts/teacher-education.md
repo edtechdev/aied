@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -114,68 +116,8 @@ Au-delà des contenus et des croyances, la préparation des enseignants recourt 
 
 Parce qu'un modèle amplifie les connaissances pédagogiques de contenu (PCK) qu'un enseignant possède déjà, les novices sont le groupe le plus exposé à des conseils disciplinaires confiants mais injustifiés, ce qui fait du mentorat et de la vérification départementale le remède développemental plutôt que des modules individuels de littératie en IA ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
-
 ## Idées fausses courantes
 
 - **« L'acceptation de l'IA chez les enseignants en formation initiale est une attitude unique. »** **128 enseignants en formation initiale** ont été répartis en quatre groupes d'acceptation de ChatGPT, dont les **Resistant Skeptics (14,06 %), qui déclaraient une facilité d'usage perçue élevée mais une très faible intention comportementale**. La facilité d'usage et l'intention se séparaient dans ce groupe, si bien qu'une intervention axée sur l'[[usability-research|utilisabilité]] les laisserait inchangés.
 - **« L'IA aide surtout les enseignants en formation initiale sur le plan des savoirs disciplinaires. »** Une **revue de cadrage de 55 études** constate que l'IA améliore la **conception pédagogique, l'enseignement disciplinaire et la pratique d'enseignement** — les capacités de conception et de pratique, et non l'expertise disciplinaire.
 - **« Une revue de cadrage de 55 études établit un bénéfice. »** Elle documente ce qui est rapporté à travers le champ. L'ampleur des améliorations rapportées est une affirmation sur le consensus de la littérature, et 55 études dans une revue de cadrage ne constituent pas un effet combiné.
-
-## Concepts liés
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — L'éducation en chimie et l'IA : laboratoires, évaluation formative, limites des LLM, philosophie de l'expérimentation
-
-## Articles liés
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — L'IA dans la formation des enseignants : cadres pédagogiques, données empiriques et éthique, 2020-2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — Comment un développement professionnel guidé par l'IA générative soutient l'engagement des enseignants envers la créativité mathématique, les savoirs disciplinaires et les savoirs pédagogiques disciplinaires
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Des enseignants d'anglais en formation rédigeant des politiques d'IA en classe : usages autorisés, limités et interdits (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 étudiants enseignants : une adoption superficielle de l'IA générative, une anxiété d'intégrité et une littératie évaluative qui ne se transfère pas
-- [[pishtari-teacher-ai-training-learning-design-2026]] — Soutien et formation par agent conversationnel d'IA dans la conception pédagogique des enseignants
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Le savoir pédagogique relatif à l'IA comme levier prioritaire de l'apprentissage professionnel des enseignants (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — L'usage responsable de l'IA générative par les enseignants en formation initiale : implications curriculaires (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Revue de cadrage de l'IA dans le développement des enseignants en formation initiale
-- [[designing-ai-professional-development-itpack-2026]] — Cadre de développement professionnel fondé sur l'Intelligent-TPACK
-- [[human-centered-ai-teacher-educators-2026]] — Apprentissage professionnel pour une littératie critique en IA chez les formateurs d'enseignants
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Le TPK propre à l'IA générative dans la formation des enseignants
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Le savoir des enseignants sur l'IA dans la conception de leçons avec l'IA générative
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Les schémas d'interaction enseignant-IA selon l'expérience d'enseignement et la maîtrise de l'IA dans la conception de leçons (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — La disposition à l'Intelligent-TPACK des enseignants en formation initiale
-- [[ai-tpack-mathematics-teacher-education-2026]] — L'AI-TPACK dans la formation des enseignants de mathématiques
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Le domaine éthique et la confiance des enseignants en exercice
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — La robotique micro:bit dans la formation initiale des enseignants
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — L'évaluation authentique médiatisée par l'IA dans la formation initiale
-- [[science-educators-ai-literacy-postqualification-2026]] — La littératie en IA des éducateurs scientifiques et les programmes post-certification
-- [[context-based-ai-secondary-chemistry-2026]] — L'enseignement 7E contextuel augmenté par l'IA en chimie au secondaire
-- [[educasim-cs1-instructional-practice]] — EducaSim : des simulacres interactifs pour la pratique pédagogique en CS1
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Profils d'acceptation de ChatGPT chez les enseignants en formation initiale
-- [[motivation-shape-future-education-ai-switzerland-china]] — La motivation à façonner l'avenir de l'éducation avec l'IA
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — La démarche d'investigation guidée assistée par l'IA dans la formation des enseignants de sciences
-- [[reflective-triangle-model-teacher-ai-2026]] — Modèle triangulaire de la réflexion : l'IA comme médiateur cognitif
-- [[sahab-model-genai-constructivist-id-2026]] — Modèle SAHAB : conception pédagogique constructiviste avec l'IA générative
-- [[riandi-teacher-ai-green-energy-education-2026]] — La participation des enseignants à l'intégration de l'IA pour l'éducation à l'énergie verte (Riandi et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Usage, éthique et politique de l'IA générative dans le temps, dans la formation des enseignants (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Le modèle de classe intelligente et la boucle D-T-E améliorant la compétence à concevoir la pédagogique en mathématiques au M.Ed. (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Les pratiques et le développement des éducateurs en langues avec l'IA générative
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — L'évaluation collaborative par les enseignants des contenus générés par l'IA comme développement professionnel (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Comparaison entre présentiel et distance du TPACK et du niveau de formation relatifs à l'IA chez 186 étudiants enseignants de sciences
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — retrace des enseignants en formation initiale construisant des délimitations face à l'IA dans une ethnographie de la littératie menée sur un semestre
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Un accès non étayé à l'IA générative a abaissé la qualité des plans de leçon des enseignants en formation initiale en dessous de la classe sans IA générative
-- [[capability-decision-model-teacher-readiness-2026]] — Mesurer la capacité plutôt que la confiance
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — Un modèle heutagogique à deux niveaux reliant la régulation réflexive des enseignants à l'autonomie des apprenants
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Des enseignants du primaire et du secondaire apprenant à lire la recherche primaire sur l'IA et à contester les directives de leur district
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Des enseignants en formation initiale comme apprenants : les groupes en désaccord sur l'énergie faisaient de l'IA un centre de la conversation conceptuelle, les groupes d'accord la traitaient comme un annuaire et rejetaient les relances proactives (Wang et al. 2026)
-
-- [[webb-pck-genai-2026]] — Pourquoi un modèle amplifie le PCK ténu d'un novice, et pourquoi le remède est collectif plutôt qu'un module de littératie en IA (Webb et coll. 2026)
-

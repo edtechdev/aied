@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -72,26 +74,3 @@ ai_assist:
 - **"AI 피드백이 교사의 귀를 대체한다."** 음정 연구는 교사를 제거하고 음높이를 향상시켰지만, 저자들은 그 도구를 보완이라 부르며 4주에 걸쳐 한 가지 기술만 측정했습니다. Li는 측정된 편차가 체화된 협응과 같지 않다고 명시적으로 주장합니다.
 - **"생성 오디오 도구가 작곡을 가르친다."** 자율 생성기와 상호작용 보조 도구를 가르는 Briot의 구분이 반론입니다. 프롬프트-대-곡은 학생을 산출물의 소비자로 위치시키며, 제약을 부과하고 스타일을 학습하는 시스템만이 파트너로 기능합니다.
 - **"자동 채점이 교사 평균과 일치하면 준비된 것이다."** 평균에서의 일치는 차원 수준의 불일치를 숨길 수 있습니다. 그래서 Lin 등은 기준별 타당화와 인간 감독을 권합니다.
-
-## 연결된 개념
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## 연결된 문서
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot (2026): 비물질화, 스트리밍 지불액, 그리고 자율 생성기 대 상호작용 보조 도구 구분
-- [[ai-feedback-violin-intonation-2026]] — 바이올린 연주자 12명, 교사 없는 AI 음높이 분석 4주, 음정 144.75에서 207.33으로 상승
-- [[ai-vocal-pedagogy-2026]] — Li (2026): 측정 가능한 음높이 편차는 체화된 협응이 아니다
-- [[embodied-string-learning-blindness-low-vision-musicians]] — 시각장애 및 저시력 현악 연주자 4명; 시각적 시범을 대신하는 촉각·운동감각 단서
-- [[gpt4o-mini-music-analysis-scoring]] — 음악 분석 응답 300개; 교사 평균에 가장 가까운 퓨샷 사고의 연쇄, RAG의 후한 채점, 용어에서 약함
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 게임화 AI 퀴즈에 대한 음악학 학생 34명: 내용보다 형식이 더 갈라놓음
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 교차 모달 오디오-악보 정렬, 리듬 오류 재현율 91.2%, 더 빠르게 향상된 참여자 120명
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 학부생 850명, 다섯 차례: 병렬 성장으로서의 참여, 몰입, 정서 지능
-- [[chatgpt-music-education-junior-high-2026]] — 가사 학습용 ChatGPT에 대한 대만 중학생 508명
-- [[middle-school-genai-steam-interactions-2026]] — 수학-음악 STEAM 모듈에 걸친 8학년 학생 12명

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
+connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -87,44 +89,3 @@ ai_assist:
 - Інструментуйте обидва напрями: розпізнавання неправильної відповіді й продукування правильної. Показник відтворення розв’язку 95.2% свідчить, що генерація — легша половина, а режим відмови лежить у розпізнаванні.
 - Надавайте перевагу виявленню над статичним каталогом там, де структура домену це дозволяє, і повідомляйте покриття відносно довідкового набору, щоб порівняння було зрозумілим.
 - Не видавайте діагностичний бал, не зазначивши, який конструкт він вимірює і як його валідовано незалежно від сигналу, що його породив.
-
-## Пов’язані поняття
-
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[learning-analytics]]
-
-## Пов’язані статті
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Оцінювання ВММ у діагностиці когнітивних навичок із рукописної математики
-- [[correct-answer-trap-misconceptions]] — Пастка правильної відповіді
-- [[llm-misconception-difficulty-easy-trap]] — Легка пастка: чому ВММ недооцінюють складність, зумовлену хибними уявленнями
-- [[llm-student-misconception-identification]] — Виявлення хибних уявлень студентів за допомогою ВММ
-- [[student-math-competence-clustering]] — Кластеризація для моделювання математичної компетентності студентів
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Компіляція когнітивного агента для явного моделювання розв’язувача задач
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: діагностика за змодельованими здобувачами
-- [[huang-interpretable-knowledge-tracing-2026]] — Інтерпретоване відстеження знань
-- [[xie-hillm-cd-2026]] — HiLLM-CD: дерева концептів на ВММ + ієрархічне виведення володіння
-- [[yasir-llm-tutoring-agents-2026]] — Відокремлення діагностики від зворотного зв’язку в тьюторах на ВММ
-- [[zhang-ct-ai-training-test-2026]] — Обчислювальне мислення в тесті навчання ШІ (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Баєсівська когнітивна діагностика для персоналізованих навчальних шляхів
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML-пошук персоналізованої нейронної когнітивної архітектури для профілів здобувачів
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Відстеження знань за результатами з відображенням спорідненості
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Федеративна діагностика на гетерогенних ВММ, що зберігає приватність
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Видобування типових помилок моделювання у масштабі за допомогою згенерованих ВММ й алгоритмічно валідованих трансформацій виправлення помилок (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Механіка Cognitive Diagnostic: діагностика на основі DINA для 14 навчальних цілей на основі наявних інвентарів фізичних понять (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Анотація концептів знань ВММ і калібровані стани знань на рівні концептів
-- [[llm-distractor-generation-student-reasoning-2026]] — дистрактори на основі хибних уявлень як завдання діагностичного проєктування завдань
-- [[misconception-acquisition-dynamics-llms-2026]] — місце, де помилка входить у розв’язок, є вузьким місцем діагностики
-- [[pivot-generative-video-tutors-stem-2026]] — Від генерації змісту до підтримки навчання: педагогічно керовані генеративні відеотьютори для навчання STEM
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: аґентний тьютор, що вчиться свого здобувача в петлі людсько-ШІ-спільного навчання
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: відкриті фундаментальні моделі для навчання та викладання
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Переосмислення діагностичного оцінювання через культурно вбудований ШІ для значущого навчання

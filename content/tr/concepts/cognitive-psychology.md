@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -32,7 +34,6 @@ ai_assist:
 ## Giriş
 
 Bilişsel psikoloji, öğrenmeyi gözlemlenebilir davranışta bir değişim olarak değil, içsel zihinsel temsillerde — hafızada tutulan kavramlar, şemalar ve yordamlarda — bir değişim olarak ele alan öğrenme kuramı geleneğidir. Bilgi işleme sözlüğü (dikkat, kodlama, geri çağırma, sınırlı çalışma belleği) hem öğrenme güçlüğüne ilişkin tanılayıcı dili hem de [[intelligent-tutoring]] ile [[knowledge-tracing]] arkasındaki mimariyi sağlamıştır: öğrenenin içsel durumunu çıkarıma dayalı olarak belirleyen ve buna uyum sağlayan sistemler. Bilişsel psikoloji, bu bilgi tabanı boyunca [[metacognition]], [[desirable-difficulties]] ve [[self-regulated-learning]] için başvuru çerçevesi olmaya devam etmektedir.
-
 
 [[seeing-cognitive-representations-eeg-reconstruction|Su ve ark. (2026)]], bilim videoları sırasında öğrenenlerin EEG’sinden görüntüleri yeniden oluşturdu ve temsil sadakatinin test performansını izlediğini buldu (regresyon katsayısı 0,8481, R² = 0,79); bu, içsel temsilin bir ölçüsünün kodlamayı işaret edebildiğine dair doğrudan kanıttır.
 
@@ -54,7 +55,6 @@ Bilişselcilik, eğitimde YZ’nin var olmasından sorumlu olan muhtemelen en et
 
 Bilişsel Yük Kuramı (BYK), [[learning-design|öğretim tasarımında]] en yaygın uygulanan bilişselci çerçevedir: içsel yükü (görev karmaşıklığı), dışsal yükü (sunum sürtünmesi) ve faydalı yükü (şema oluşturma çabası) birbirinden ayırır. İyi tasarlanmış bir YZ, dışsal yükü azaltırken faydalı işlemeyi korumalıdır; kötü entegre edilmiş YZ üçünü birden azaltır ve öğrenmeyi boş bırakarak yalnızca tamamlanmış görevler bırakır. BYK’nın çalışma belleği çerçevesi, [[cognitive-offloading]] tartışmalarında da merkezidir — YZ’nin zararlı dışsal yükü azaltıp azaltmadığı, yoksa öğrenmeyi üreten faydalı işlemeyi kısa devre yaptırıp yaptırmadığı sorusu.
 
-
 Yük, harcanan miktarı değil çabanın nasıl örgütlendiğini izledi: Üretken YZ ile ders planı tasarlayan 67 öğretmen adayı arasında daha yüksek kaliteli grup, bildirilen çabada farklılaşmadı (2,85’e karşı 3,26) ama daha düşük zihinsel talep (3,09’a karşı 4,03) ve hayal kırıklığı (2,12’ye karşı 3,82) bildirdi ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang ve ark. (2026)]]).
 
 Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma belleği varsayımlarını materyallerin kendisine uygular ve önermeleri olağanüstü biçimde somuttur: öğrenciler, yalnızca sözcüklerden ziyade sözcükler ve görüntüler birlikte sunulduğunda; ilgisiz materyal çıkarıldığında; ders, tek bir kesintisiz bütün olarak değil bölümlere ayrılıp kullanıcı hızında ilerlediğinde; karşılıklı sözcükler ve görüntüler birbirine yakın ve aynı anda göründüğünde; ve anlatım, resmi veya makine tarafından üretilmiş bir dilden ziyade konuşma dilinde ve samimi bir insan sesiyle yapıldığında daha iyi sonuç alır.
@@ -69,9 +69,7 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 
 [[generative-ai|Üretken YZ]] bilişselciliği hem genişletir hem zorlar. Bilgi temsillerini daha güçlü hale getirerek ([[knowledge-tracing]] yoluyla izlenebilen ve [[student-modeling]] yoluyla uyarlanabilen bilgi motorları olarak LLM’ler) genişletir. Bilişin “nerede” olduğunu karmaşıklaştırarak zorlar: YZ muhakeme, hafıza ve hatta üst bilişe benzer işlevleri üstlendiğinde, öğrenmenin bireyin zihnindeki içsel işlem olduğuna dair bilişselci varsayım sarsılır — [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|ortak düzenleme]] ve insan-ötesi çerçeveler, bilişin insan ve yapay sistemler arasında dağılabileceğini savunur. Yine de bilişselci soru, alanın merkezi sorusu olmaya devam eder: *öğrenen bilgiyi içselleştirir mi, yoksa bilgiyi araç mı tutar?* Bu, bilişsel yükü dışarı aktarma ve performans–öğrenme uyumsuzluğu sorusunun en saf halidir.
 
-
 2026 tarihli bir deney, bu sınırın hafıza tarafına somut bir başarısızlık kipi verir. Yanıltıcı bir YZ özeti okuyan 328 yetişkinin yalnızca %44,8’i daha sonra bir video ayrıntısını doğru tanımladı; tutarlı bir özet okuyanlarda bu oran %83,6’ydı. YZ ya da insan etiketi bir fark yaratmadı ve YZ’ye kendiliğinden bildirilen güven de öyle ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ve Kohno, 2026]]). Bu, sınıf öğrenmesinden çok kaynak hafızasıdır, ancak akıcı bir özet öğrenenin kaynak kaydının üzerine yazabilir; bu da çalışma ve değerlendirme için önemlidir.
-
 
 ## Tasarım ve araştırma için çıkarımlar
 
@@ -85,40 +83,3 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 - **“Zihinsel temsiller gözlemlenemez, dolayısıyla öğrenmeye dair bilişsel iddialar varsayımdır.”** Bilim videoları sırasında öğrenenlerin **EEG**’sinden görüntüleri yeniden oluşturmak, **temsil sadakatinin test performansını izlediğini** buldu (regresyon katsayısı **0,8481, R² = 0,79**). İçsel temsilin bilişselci öncülü ölçülebilirdir ve ölçüm sonucu öngördü.
 - **“Yüksek bir R², temsilin öğrenmeyi açıkladığı anlamına gelir.”** R² = 0,79, aynı materyalde sadakat ile performans arasında güçlü bir ilişkidir. Sadakati yükseltmenin performansı yükselttiğini, yani müdahale iddiasını ortaya koymaz.
 - **“Bilgi bileşenleri elverişli bir modelleme kurgusudur.”** Ayrıştırılabilirlik, [[knowledge-tracing]] ve [[cognitive-diagnosis]] yöntemlerini mümkün kılan şeydir ve bu yöntemler varsayım geçerli olduğu ölçüde çalışır. Onu bir kurgu olarak ele almak, yöntemlerin kullanılabilir tahminler üretmesinin nedenini çöpe atar; olgu olarak ele almak ise uyarlanmış bir modelin bir zihin hakkında söylediklerini abartır.
-
-## Bağlı kavramlar
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — the retention findings this practice family rests on
-
-## Bağlı makaleler
-
-- [[sim-ai-summary-memory-distortion-2026]] — Yanıltıcı YZ özetleri, özetin YZ ya da insan tarafından yazıldığından bağımsız olarak yetişkinlerin hatırladıklarını değiştirdi
-- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
-- [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — Bilgi izlemeden çıkan ustalık iddiaları, destekli çalışmanın nasıl puanlandığına bağlıdır (Srivastava 2026)
-

@@ -23,12 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
 > يصف التعلّم موجّه الذات (SRL) المتعلّمين كمشاركين فاعلين قادرين على تشكيل سلوكياتهم المعرفية والسلوكية وتنميتها بنجاح. يمكن لأدوات الذكاء الاصطناعي إمّا أن تقدّم [[scaffolding|سقالة]] لتطوّر التعلّم موجّه الذات أو أن تعطّله دون قصد عبر إزالة المطالب التنظيمية التي تبني الخبرة.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]]) وتشحذ الأدلة الطولية هذه التمييز: فقد تنبّأ الاستخدام التأملي حول أداة ذكاء اصطناعي بـ[[critical-thinking|التفكير النقدي]] (β = 0.43) لكنه لم يتنبّأ باكتساب المعرفة، بينما لم يُحدث مجرّد الوصول إلى الأداة أي تغيير في الاثنين.([[melanou-genai-learning-dynamics-longitudinal-2026]])
-
 
 ## أسئلة للتأمّل
 
@@ -117,7 +118,6 @@ ai_assist:
 
 **الاعتماد يعمل عبر تنظيم الجهد لا عبر حجم الاستخدام.** في استقصاء على 982 طالبًا جامعيًا، تنبّأ [[cognitive-offloading|اعتماد الذكاء الاصطناعي التوليدي]] بتنظيم جهد أدنى (β = −0.257)، الذي تنبّأ بـ[[learning-gains|نتائج التعلّم المُدركة]] (β = 0.497)، فأنتج مسارًا غير مباشر سالبًا (β = −0.128)، بينما لم يحمل تكرار الاستخدام ارتباطًا كليًا معتبرًا ([[li-genai-dependency-effort-regulation-2026|Li وZhang وYang، 2026]]).
 
-
 ### التأمّل الواعي بالذكاء الاصطناعي التوليدي كتعلّم موجّه ذات
 
 [[5p-reflection-model-genai-2026|يعيد نموذج التأمّل 5P (Kadel et al. 2026)]] تمركز التأمّل المنظّم في عصر الذكاء الاصطناعي التوليدي كوصفه ممارسة معلنة للتعلّم موجّه الذات. فالتعلّم موجّه الذات يملك التأمّل مرحلةً واحدة من دورته فقط؛ أما الممارسة نفسها — التلقينات واليوميات و[[eportfolio|ملفات الأعمال]] والنص التأمّلي المُقيَّم — فتحملها صفحة [[reflection|التأمّل]]، التي تبيّن أيضًا كيف يختلف عن [[metacognition]] و[[self-assessment]]. ولأن المتعلّمين يُنتجون المعنى بشكل متزايد بالمشاركة مع الذكاء الاصطناعي، تعجز نماذج التأمّل التقليدية عن مصادقة تأمّل الطالب، فيدمج نموذج 5P (الغرض، العملية، المنتج، المزالق، الخطة) تحديد الأهداف المبني على ما قبل الفعل، والتأمّل أثناء الفعل (توثيق المطالبات والتكرارات)، والتأمّل بعد الفعل (التحقّق من المخرجات الاحتمالية مقابل مصادر خارجية)، ومرحلة مزالق صريحة لـ[[hallucination-risk|الهلوسة]] و[[academic-integrity|السرقة الأدبية]] و[[cognitive-offloading|الاعتماد المفرط]]، وخطة موجّهة للمستقبل — حاشيًا بالمراقبة العاطفية على طول الطريق. وتتعامل فلسفته «العملية فوق المنتج» مع التوثيق المنظّم لـ[[human-ai-collaboration|التفاعل بين الإنسان والذكاء الاصطناعي]] بوصفه المطلب التنظيمي الذي يحفظ الأصالة و[[agency]] والعمق [[metacognition|ما وراء المعرفي]]، ما يضع التأمّل الواعي بالذكاء الاصطناعي التوليدي سقالةً للتنظيم الذاتي لا بديلًا عنه.
@@ -133,7 +133,6 @@ ai_assist:
 ## الأدلة عبر السياقات
 
 يقدّر تحليل بعدي لـ34 دراسة (91 حجم أثر) أن التدخلات القائمة على الذكاء الاصطناعي رفعت التعلّم موجّه الذات بمقدار g = 0.76، مع كون إدارة الموارد (g = 0.93) أكبر من الاستراتيجيات ما وراء المعرفية (0.73) أو المعرفية (0.48). وعدّل نوع الأداة والدور البيداغوجي الأثر؛ أما وضع الذكاء الاصطناعي التوليدي والمجال وطول التدخل ومقياس التعلّم موجّه الذات فلم تعدّله ([[zhang-ai-self-regulated-learning-meta-analysis-2026|Zhang وآخرون، 2026]]).
-
 
 - **أدلة مختلطة وفجوة المعايرة الخاطئة.** يجد مراجعة سريعة لأبحاث الذكاء الاصطناعي التوليدي في مرحلة ما قبل الروضة حتى الصف 12 أن المكاسب ما وراء المعرفية أثناء المهام المدعومة غالبًا لا تستمرّ عند إزالة الدعم، وأن الذكاء الاصطناعي التوليدي قد يزيد [[self-report-measures|التعلم المدرك]] حتى عندما يكون التعلّم الدائم غائبًا (فجوة المعايرة الخاطئة — فضّل الطلاب الذكاء الاصطناعي التوليدي على تدوين الملاحظات رغم ضعف الاستبقاء). يحتاج الطلاب تدريبًا صريحًا مناسبًا للمرحلة ليقرّروا ما يُفوّضونه ومتى يكون الجهد المستقلّ مهمًّا.([[young-people-learning-generative-ai-rapid-review-2026]])
 
@@ -155,7 +154,6 @@ ai_assist:
 
 - **في المجموعات، يُحرَّض التنظيم بتلقين الذكاء الاصطناعي نفسه، وتباين التصوّرات المسبقة يغيّر كيفية وصول ذلك التلقين.** قارن [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang وآخرون (2026)]] 8 مجموعات مختلفة التصوّرات المسبقة و6 متشابهتها من معلّمين ما قبل الخدمة تعمل مع روبوت محادثة ما وراء معرفي عند الطلب ووكيل صوتي مبادر. وتقاربت وظيفة التلقين عبر الشروط عند 39 تلقينًا، 18 مقابل 21، بينما لم تتقارب البنية التسلسلية: فقد أبقت المجموعات المتباينة تقييمًا إيجابيًا أو محايدًا للمخرج وأبقت المجموعات المتشابهة تقييمًا سلبيًا مع اتفاق متكرر على المهمة. ورصد فحص البيانات الخام جزءًا من الحلقة السلبية في الوكيل المتحدث المبادر، فيقرأه المؤلفون كعدم تطابق في التوقيت والوسيط لا كرفض للدعم. وتوصيتهم التصميمية أن يبقى دعم التنظيم المشترك في المجموعات التي تقاربت سلفًا اختياريًا.
 
-
 ## التعلّم موجّه الذات بوساطة النماذج اللغوية الكبيرة: سقالة أم اختصار أم شريك؟
 
 تلتقي مجموعة من دراسات Learning Letters (2026) على توتّر محوري: يمكن لـ[[generative-ai|الذكاء الاصطناعي التوليدي]] أن يبني سقالة للتنظيم الذاتي أو يعطّله أو يتشارك معه تبعًا للتصميم ولكيفية تنظّم المتعلّمين لاستخدامه. وتشير الأدلة إلى التعلّم موجّه الذات نفسه — لا الأداة — بوصفه المتغيّر الحاسم.
@@ -174,7 +172,6 @@ ai_assist:
 وأيّ دعم يكون مطبّقًا يحدّد أي وسيط يحمل الارتباط: فبين 3,003 معلّم صيني ما قبل الخدمة، ربط الدعم المدرَك من أداة الذكاء الاصطناعي بالكفاءة الابتكارية أساسًا عبر [[self-efficacy]] الذاتية تجاه الذكاء الاصطناعي (60.88% من الأثر الكلي لذلك المسار)، بينما ربط الدعم المدرَك من البيئة الذكية المدرسية أساسًا بالتعلّم موجّه الذات (29.64% مقابل 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
 أبلغ الطلاب عن مزيد من التسويف (β = 0.525) إلى جانب مكاسب أداء مُدركة، وهو ما يفصل تأجيل عمل الدراسة لأن الذكاء الاصطناعي متاح عن تأجيله بمساعدة الذكاء الاصطناعي — تمييز لا تستطيع درجة تنظيم ذاتي واحدة حمله ([[gouroubera-genai-benin-2026|Gouroubera وآخرون، 2026]]).
-
 
 ## الدلالات
 
@@ -201,80 +198,9 @@ ai_assist:
 
 - **يستطيع GPT-4o بناء كتاب ترميز للتعلّم موجّه الذات مؤسَّس نظريًا من قاعدته المعرفية وحدها.** بإعطائه مراجع Zimmerman (2000) وWinne وHadwin (1998) فقط، اقترح GPT-4o بنى تغطي مراحل Zimmerman الثلاث وثلاثًا من مراحل Winne-Hadwin الأربع، مع غياب مرحلة تعريف المهمة وحدها، واستقر كتاب الترميز بتنقيح بشري عند 11 بنية ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano وآخرون (2026)]]). وأغلقت إضافة 955 عبارة تفكير بصوت مرتفع من 15 طالبًا إلى التلقين الفجوة، فغطّت كل مراحل النموذجين وأدخلت رموزًا مؤسَّسة على البيانات مثل تحديد الخطأ. وبقي التنقيح البشري ضروريًا: فدمج مبرمجان اقتراحات GPT المتداخلة (التخطيط مقابل تحديد الهدف، والمراقبة مقابل التقويم، وتقويم الناتج مقابل العملية)، ولم تظهر أي هلوسات.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«التنظيم الذاتي سمة للمتعلّم».** يتحلّل التعلّم المنظّم إلى **تأمّل ذاتي ونسب سببي وتكيّف**، ويوظّف المتعلّمون المتمكّنون **استراتيجيات معرفية لتحسين النجاح**. وهذه عمليات قابلة للتدريب يمكن للتصميم أن يدعمها أو يقوّضها.
 - **«أي تصميم تكيّفي يدعم التنظيم بالقدر ذاته».** قارنت تجربة ميدانية معشّاة **بتصميم 2x2 ومع 179 طالبًا على مدى 22 يومًا** لدى [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] مبدأين للتصميم ووجدتهما مختلفين في الآلية، فـ«التكيّفي» ليس معالجة واحدة.
 - **«القلق يقوّض التنظيم».** في دراسة بطرائق مختلطة على **107 طلاب**، ارتبط [[anxiety-and-stress|قلق الذكاء الاصطناعي]] الأعلى **ارتباطًا إيجابيًا بالتحقّق وإعادة الفحص**. عمل القلق كمحفّز على التحقّق، وهو تنظيم لا غياب له.
 - **التنظيم الذاتي ما وراء المعرفي تنبّأ بالحمل المعرفي ذي الصلة بالتعلّم حيث لم تفعل [[ai-feedback-quality|التغذية الراجعة بالذكاء الاصطناعي]].** في دراسة ميدانية من خمسة أسابيع مع **234 طالبًا و1,147 مشاهدة**، كان التنظيم الذاتي ما وراء المعرفي متنبّئًا إيجابيًا معتبرًا بـ**الحمل المعرفي الجَرماني** (β = .363، p < .001 بحسب نيّة المعالجة؛ .346، p < .001 بحسب الاستخدام). ولم يتنبّأ بشكل معتبر بالحمل الدخيل، بينما لم يتنبّأ مجرّد الوصول إلى التغذية الراجعة المحادثية بالذكاء الاصطناعي بأي منهما. والمشاركة **المستمرة** مع التغذية الراجعة وحدها فرّقت بين الطلاب في الحمل الجَرماني، ولم يفعل الاستخدام غير المنتظم ذلك (β = −.219، p = .116). وهذا يضع المكوّن الفعّال في تنظيم المتعلّم للمعالجة لا في عرض التغذية الراجعة ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
-
-## المفاهيم المرتبطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[metacognition]] — المراقبة المعرفية التي يعتمد عليها التعلّم موجّه الذات
-- [[self-assessment]]
-- [[self-efficacy]] — معتقد من مرحلة ما قبل الفعل يدفع الجهد
-- [[scaffolding]] — دعم متدرّج يحفظ المطلب التنظيمي
-- [[feedback]] — المدخلات التي ينظّم المتعلّمون حولها
-- [[feedback-literacy]] — القدرة على الاستجابة للتغذية الراجعة
-- [[help-seeking]] — سلوك استراتيجي في التعلّم موجّه الذات
-- [[motivation]] — الشريك المتبادل للتنظيم الذاتي
-- [[cognitive-offloading]] — الخطر عندما يُزيل الذكاء الاصطناعي العمل التنظيمي
-- [[generative-ai]] — التقنية التي قد تبني سقالة للتعلّم موجّه الذات أو تعطّله
-- [[ai-literacy]] — الكفاءة التنظيمية في استخدام الذكاء الاصطناعي
-- [[self-directed-learning]] — مفهوم الاستقلالية الأوسع
-- [[agency]] — قدرة المتعلّم على الفعل بمقصود، محوريّة للتنظيم والاندماج والتموضع
-- [[adaptive-learning]] — تخصيص قد يدعم التنظيم
-- [[formative-assessment]] — تغذية راجعة متصلة للتنظيم
-- [[learning-by-teaching]] — استراتيجية تبني التنظيم الذاتي
-- [[intelligent-tutoring]] — أنظمة تبني سقالة للتعلّم موجّه الذات
-- [[llm]] — النموذج الأساسي لأدوات الذكاء الاصطناعي
-- [[retrieval-spacing-interleaving]] — جدولة واختبار ذاتي واختيارات استراتيجية الدراسة التي يتّخذها المتعلّمون
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## المقالات المرتبطة
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — دقّة التصنيف لكل فئة للتعلّم موجّه الذات المقسّم بنموذج لغوي في صف تجسيدي (Fonteles et al. 2026)
-
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — تحليل بعدي للتعلّم موجّه الذات بمساعدة الذكاء الاصطناعي: g = 0.76 عبر 34 دراسة، مع تعديل نوع الأداة والدور البيداغوجي للأثر (Zhang وآخرون 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — اعتماد الذكاء الاصطناعي التوليدي ونتائج التعلّم المُدركة: مسار تنظيم الجهد (Li وZhang وYang 2026)
-
-- [[llm-math-homework-offloading-traces-2026]] — ما لا يُظهره التسليم: تعقيد التفريغ المعرفي في العمل الرياضي للطلاب مع النماذج اللغوية الكبيرة (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — إفراط النموذج في نسب التنظيم الذاتي من إشارات سطحية في رسم المناهج (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — إمكانات المحتوى المُولَّد بالذكاء الاصطناعي وتنظيم الطلاب الذاتي
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — ثقافة التفاعل مع الذكاء الاصطناعي: توجيه روبوت محادثة تطلّب مهارات التنظيم الذاتي التي كان يُفترض أن يدعمها (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — نموذج التأمّل 5P لعصر الذكاء الاصطناعي التوليدي (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — التفريغ المعرفي الحسّاس للطبقات في الكتابة المدعومة بالذكاء الاصطناعي التوليدي (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — قدرة المتعلّم عبر المقاييس: التنظيم والاندماج والتموضع
-- [[rented-self-decoupling-performance-becoming-2026]] — الذات المستأجرة: التأجير مسقطًا على نماذج Winne للتعلّم موجّه الذات، مع عشر مسلّمات ومؤشّرات داخل المتعلّم
-- [[song-genai-learning-partner-srl-over-time-2026]] — الذكاء الاصطناعي التوليدي شريك تعلّم واعٍ بالسياق عبر الزمن
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — كيف ينظّم الطلاب تعلّمهم مع روبوت محادثة بالذكاء الاصطناعي التوليدي
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — سقالة أم اختصار؟ الدور المزدوج للذكاء الاصطناعي التوليدي في التعلّم موجّه الذات
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — طلب المساعدة بوساطة النماذج اللغوية الكبيرة في مجالات العلوم والتكنولوجيا والهندسة والرياضيات: متعدّد الطبقات وأداتي ومُتحقَّق منه
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — التغذية الراجعة بالذكاء الاصطناعي التوليدي والتعلّم موجّه الذات: المصدر المدرَك يهمّ
-- [[ai-anxiety-strategic-regulation-writing-2026]] — من قلق الذكاء الاصطناعي إلى التنظيم الاستراتيجي
-- [[young-people-learning-generative-ai-rapid-review-2026]] — أدلة مختلطة حول ما وراء المعرفة والتنظيم الذاتي مع الذكاء الاصطناعي التوليدي
-- [[agentic-ai-pedagogical-best-practice-2026]] — الذكاء الاصطناعي الوكيلي وتوتّر التنظيم الذاتي
-- [[decreasing-digital-distraction-college-online-learning-2026]] — التعلّم موجّه الذات وانخفاض التشتّت الرقمي في التعلّم عبر الإنترنت (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — جعل نتائج تعلّم الآلة في متناول المعلّمين في الصفوف المدمجة
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: حلقة موجّهة للمتعلّم من تحديد المهام والتبرير والتأمّل بعد المهمّة
-- [[learning-analytics-genai-secondary-writing-2026]] — استخدام تحليلات التعلّم لدعم كتابة طلاب المرحلة الثانوية بالذكاء الاصطناعي التوليدي
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — أداة متحقَّق منها للتنظيم الذاتي المدعوم بالذكاء الاصطناعي في التعلّم التكيّفي بمجالات العلوم والتكنولوجيا والهندسة والرياضيات، مع الوعي ما وراء المعرفي أقوى متنبّئ
-- [[iqbal-human-genai-support-essay-revision-2026]] — شرط الدعم، لا الحكم ما وراء المعرفي، هو ما حرّك اختيار استراتيجية المراجعة في تجربة لمراجعة المقالات
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — طولية: الاستخدام التأملي للذكاء الاصطناعي تنبّأ بالتفكير النقدي لا باكتساب المعرفة، دون أثر متّى
-- [[genai-literacy-srl-special-education-2026]] — ثقافة الذكاء الاصطناعي التوليدي مرتبطة بسلوكيات التعلّم موجّه الذات أساسًا عبر قدرة التعلّم
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — نوع الدعم يقلب الوسيط: الكفاءة الذاتية تجاه الذكاء الاصطناعي مقابل التعلّم موجّه الذات
-- [[genai-learning-procrastination-planned-behavior-2026]] — تسويف التعلّم بمساعدة الذكاء الاصطناعي التوليدي: فجوة بين النيّة والسلوك يشتدّها القلق
-- [[genai-srl-l2-writing-scale-2026]] — مقياس متحقَّق منه بستة أبعاد للتعلّم موجّه الذات بالذكاء الاصطناعي التوليدي في كتابة L2، مع التنظيم البيئي بعدًا مستقلًا وصيغة قصيرة من 12 بندًا مُحسَّنة بمستعمرة النمل
-- [[borchers-srl-language-generalization-2025]] — النماذج اللغوية الكبيرة تعمّم التنبّؤ بالتعلّم موجّه الذات على لغات جديدة داخل المجالات لا بينها (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — نموذج تعلّم هجين قائم على المشاريع باستخدام الذكاء الاصطناعي لتعزيز التعلّم موجّه الذات لدى الطلاب
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — مساعد تدريس بالذكاء الاصطناعي كأول مستجيب أزاح ردود الأقران، ومعها التنظيم المشترك الذي ضخّم قيمة الدرجة للتنظيم الذاتي (Davis et al. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — تنوّع التصوّرات المسبقة يغيّر كيفية وصول التلقين ما وراء المعرفي: وظائف التلقين ذاتها، وتقييم متباين مستمر لمخرجات الذكاء الاصطناعي (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — ارتفع التسويف مع الاستخدام (β = 0.525) إلى جانب مكاسب مُدركة، مما يفصل التأجيل الذي يتيحه الذكاء الاصطناعي عن التأجيل المتعلّق به فقط (Gouroubera et al. 2026)

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -47,9 +48,3 @@ Research-Computing- und zentrale IT-Gruppen mit vorhandener GPU-Kapazität, Zent
 ## Anmerkungen und Vorbehalte
 
 Kostenlos und Open Source unter Apache-2.0, aber die Kosten verschieben sich, statt zu verschwinden: Hardware, Strom und Personalzeit für den Betrieb eines Clusters. Die Software ist nach Infrastrukturmaßstäben jung — drei Beitragende, eine einzige Herkunftseinrichtung und Releases, deren Tags in die Hunderte gehen —, also sollte ein College sie neben einem bestehenden Dienst pilotieren und nicht als einzigen Weg zu einem Modell. Eine veröffentlichte Evaluation des Planungs- und Quotenverhaltens unter realer Campuslast findet sich nicht im Repository; das PEARC-Paper ist der Ort, an dem die eigene Darstellung der Autoren zu suchen ist.
-
-## Verbundene Konzepte
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

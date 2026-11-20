@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -44,10 +45,3 @@ Campus AI Framework — операционная модель, изначаль�
 ## Примечания и оговорки
 
 Рамка и сайт лицензированы на условиях **CC BY-NC-SA 4.0**, поэтому адаптация разрешена для некоммерческого использования с указанием авторства и на условиях сохранения лицензии; сайт предлагает собственную формулировку для указания авторства. Его согласованность с OECD, NIST, ISO/IEC 42001, Законом ЕС об ИИ (EU AI Act), FERPA и HIPAA — это собственное сравнение издателя и должна читаться именно так. Родственные сайты — отдельные проекты, некоторые — того же автора, и их стоит знать как набор: [Campus AI Exchange](https://www.campusaiexchange.com/) — это центр, содержащий [интерактивные карты](https://www.campusaiexchange.com/ai-policies-guidelines-map) институциональных политик по ИИ и руководств для учебной аудитории, [самооценку управления ИИ](https://www.campusaiexchange.com/ai-governance-assessment), карты управления данными и позиций по ИИ, а также библиотеку ресурсов. Вокруг него находятся [campusaigovernance.com](https://campusaigovernance.com/) (девять областей управления ИИ), [campusairisks.com](https://campusairisks.com/) (Рамка управления рисками ИИ NIST, применённая к этим областям), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), шаблон [плана адаптации ИИ](https://unit-ai-adoption-plan.netlify.app/) на уровне подразделения и брифинг об [агентном ИИ для руководителей](https://campusaiframework.com/sites). Стратегический компас также распространяется как общий документ Google, для открытия которого нужна учётная запись Google. При входе задаётся короткий необязательный вопрос о роли и учреждении; адрес электронной почты вводится по желанию, и весь сайт читается без него.
-
-## Связанные концепции
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

@@ -29,6 +29,7 @@ translation_of: resources/gemini-notebook
 source_updated: "2026-09-22T04:10:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 verified: [links]
+connected_concepts: [rag, ai-literacy, self-directed-learning, retrieval-spacing-interleaving, generative-ai, multimodal, video-education, hallucination-risk]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -46,6 +47,3 @@ verified: [links]
 ## הערות ואזהרות
 
 Google מצהיר שתוכן של חשבונות אישיים אינו משמש לאימון המודלים אלא אם המשתמש שולח משוב, שההעלאות, השאילתות והתשובות של Workspace אינן משמשות לאימון גם כאשר נשלח משוב, ושנתונים [[privacy|אינם משותפים לצד שלישי]]; עם זאת, מחברות שנמחקו אינן ניתנות לשחזור. טענות היכולות שלעיל הן של הספק עצמו, ועל רשות מוסדית לאמת אותיין מול הסכם עיבוד הנתונים שלה ולא מול דף מוצר. כיסוי מ-2026 תיאר גם תביעה על הקול בשימוש בפודקאסטים הנוצרים, שאתה Google הכחיש, תזכורת לפלטי שמע מעלים שאלות [[legal-issues-and-risks|דמיון]] נפרדות מאמצעי הזהירות של ההגבלה למקורות. יש להתייחס לכרטיסיות הפלאש, החידונים והסיכומים הנוצרים כטיוטות לבדיקה מול המקורות, ולשים לב שהגבולות של הרמה החינמית משתנים ללא הודעה מוקדמת.
-
-## מושגים קשורים
-[[rag]], [[ai-literacy]], [[self-directed-learning]], [[retrieval-spacing-interleaving]], [[generative-ai]], [[multimodal]], [[video-education]], [[hallucination-risk]]

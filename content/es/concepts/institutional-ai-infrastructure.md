@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -139,29 +141,3 @@ Quienes dirigen departamentos pueden mirar más allá de la ventana de chat. La 
 **«Comprar GPU es la estrategia.»** La capacidad sin planificación, cuotas y soporte se convierte en una cola. Los casos exitosos describen gobernanza y operaciones al menos tanto como hardware.
 
 **«El problema de la IA es el chatbot.»** La mayor parte del valor institucional descrito en esta literatura está en la articulación, el análisis de la carga de trabajo, el etiquetado y los registros de evaluación, donde ningún estudiante abre una ventana de chat.
-
-## Conceptos conectados
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## Artículos conectados
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT: una pasarela gobernada con 300 usuarios, fichas de modelo y un tope mensual de \$500
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — Purdue: dos servicios de inferencia en el campus, más de 1000 usuarios, más de 10 modelos, Ollama frente a vLLM
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN: control y servicio separados en la frontera de la API, con una capa de proxy probada bajo carga
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter: planificación de reparto justo, cuotas y contabilidad energética en una pasarela de código abierto
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL: recuperación híbrida con un modelo local, que cumple el objetivo de latencia mediana e incumple el p95
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — un argumento a favor de los SLM a escala escolar desde la educación primaria
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — el capítulo de la OCDE sobre articulación, análisis de la carga de trabajo y producción de evaluaciones
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI: seis capas para conectar la evidencia del aprendizaje
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat: un modelo de 8B mantenido frente a candidatos mayores que no superaron un umbral de latencia
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: un modelo de razonamiento local que elimina la cuestión de FERPA en lugar de gestionarla
-- [[making-ai-work-for-students-ofs-2026]] — OfS y Advance HE (2026): 244 miembros del personal y 91 estudiantes en 127 instituciones sobre detección, diseño de evaluación, alfabetización en IA y estrategia

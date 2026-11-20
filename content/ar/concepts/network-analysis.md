@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -76,7 +78,6 @@ ai_assist:
 3. **تحقق من الترميز الآلي.** مع مجموعات السجلات الكبيرة، التصنيف المبني على [[llm|نماذج اللغة الكبيرة]] قوي لكنه يجب أن يُفحَص مقابل الترميز البشري (بلاغ اتفاق المقيّمين) قبل تفسير بنية الشبكة.
 4. **صمّم للتمايز.** يكشف تحليل الشبكات غالباً أن أداة الذكاء الاصطناعي *ذاتها* تُنتج أنماط تفاعل مختلفة عبر تحت-مجموعات المتعلمين — مما يُفيد التصميم التكيّفي بدلاً من التقييم الأحادي المقاس.
 
-
 ## تحقق ENA من الحوار التعاوني المحاكى
 
 - **ENA كتحقق من الحوار المحاكى.** يُطبّق Fang (2026) تحليل الشبكات المعرفية لتقييم ما إذا كانت وكلاء نماذج اللغة الكبيرة المضبوطة بدقة تُعيد إنتاج بنية حوار [[problem-solving|حل المشكلات]] التعاوني الحقيقي. وبمقارنة متجهات التجاور المحاكاة بالشبكة التجريبية، يُبلّغ عن مسافة ENA قدرها 0.17 — داخل عتبة المئين الخامس لتوزيع العدم، بقيمة p للتقليب 0.65 — مُظهراً قدرة ENA كفحص [[quantitative-research|كمي]] لأمانة محاكاة الخطاب [[simulation|التوليدية]]، إلى جانب تطبيقات أخرى لـENA/SNA/TNA في بحوث التعليم.
@@ -86,28 +87,3 @@ ai_assist:
 - **"تحليل الشبكات موضوعي لأنه حوسبي."** **الترميز هو الأساس**: فكل صور الشبكات تعتمد على ترميز موثوق للبيانات الخام (العبارات والأحداث والعلاقات) إلى عقد منفصلة، والترميز الآلي يرث تعريفاته ممّن وضعها. فـ[[visualization|التصوّر]] يبدو بنيةً ناشئة وعقده اختيارات تفسيرية.
 - **"تحوّل بنية الشبكة هو في ذاته مكسب تعلّمي."** في مناقشة حالة مع **عشرين طالب دراسات عليا من تخصصات مختلطة**، ارتفعت **حصة المصطلحات المشتركة ذات الحجم 3 من 5.2% إلى 8.0%** بينما **انخفضت رموز المحتوى إلى نحو 0.65×** من مستواها بعد القراءة. فقد تحرّك مقياسان بنيويان في اتجاهين متعاكسين، لذا فإن «تغيّرت الشبكة» ليس نتيجة حتى تقول على أي مقياس ولماذا يهم.
 - **"تشارك مصطلحات أكثر يعني تعاوناً أفضل."** ارتفاع حصة المصطلحات المشتركة مع انخفاض تنوّع رموز المحتوى يتّسق مع التقارب على مفردات أصغر. فالتوافق والتضييق متشابهان بنيوياً، ولهذا يحتاج المقياس إلى المحتوى الذي حُسب منه.
-
-## المفاهيم المرتبطة
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## المقالات المرتبطة
-- [[caeai-response-length-ai-ethics-education-2026]] — طول الرد لا المحاذاة المعجمية هو ما يقود إحصاءات المصطلحات المشتركة في شبكات المشارك–المورفيم (Shao et al. 2026)
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA لتفاعلات المتعلّم–روبوت المحادثة في كتابة الإنجليزية كلغة أجنبية المُسندة
-- [[tracing-genai-literacy-interaction-patterns]] — ENA لأنماط تفاعل ثقافة GenAI
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA لحل المشكلات التعاوني بين الإنسان والذكاء الاصطناعي
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
-- [[youtube-frames-chatgpt-education]] — ENA لإطارات يوتيوب لـChatGPT في التعليم
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[dang-human-ai-collaboration-competency-2026]] — يرسم ENA أيضاً حديث الكفاية عند المربّين

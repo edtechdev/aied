@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, business-education, vocational-education, higher-ed, professional-training, ai-literacy, academic-integrity, governance, cognitive-offloading, equity-in-ai-education]
+connected_articles: [ai-gamification-security-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, genai-expertise-pathways-sysadmin, institutional-ai-policy-health-informatics-2026, lee-learner-question-types-ai-education-2026, student-mental-models-genai, student-regulatory-awareness-genai]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -89,27 +91,3 @@ ai_assist:
 **עבור מעצבי תכניות**
 
 - בנו את חפץ הממשל שהמגזר חסר: אחריות בשם, קצב סקירה, ונתיב תקרית. מסמך הדרכה ל-AI עונה על שאלת הכרה ולא על שאלת אחריות.
-
-## מושגים מחוברים
-
-- [[cs-education|מדעי המחשב]]
-- [[stem-education|STEM]]
-- [[business-education|עסקים, כלכלה וניהול]]
-- [[vocational-education|חינוך והכשרה מקצועיים]]
-- [[higher-ed|השכלה גבוהה]]
-- [[professional-training|הכשרה מקצועית]]
-- [[ai-literacy|אוריינות AI]]
-- [[academic-integrity|יושר אקדמי]]
-- [[governance|ממשל]]
-- [[cognitive-offloading|פריקת עומס קוגניטיבי]]
-- [[equity-in-ai-education|שוויון]]
-
-## מאמרים מחוברים
-
-- [[ai-gamification-security-education-2026]]
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]
-- [[genai-expertise-pathways-sysadmin]]
-- [[institutional-ai-policy-health-informatics-2026]]
-- [[lee-learner-question-types-ai-education-2026]]
-- [[student-mental-models-genai]]
-- [[student-regulatory-awareness-genai]]

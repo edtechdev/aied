@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -37,7 +38,3 @@ Cho K-12: giáo án, phiếu bài tập, [[special-education|mục tiêu IEP]], 
 
 ## Ghi chú
 Dự án tuyên bố có một máy chủ AI cài cục bộ để đảm bảo tốc độ, rằng dữ liệu được xử lý cục bộ và không bao giờ được lưu, cùng việc tuân thủ hướng dẫn của Bộ Giáo dục; [trang đội ngũ](https://teacherserver.com/index-team.php) nêu Zafer Unal, giáo sư tại Đại học Nam Florida, là người sáng lập và phát triển, cùng một hội đồng cố vấn gồm bốn giảng viên từ các trường đại học khác. Những tuyên bố đó vẫn đáng được kiểm chứng trước khi dùng với bài làm của sinh viên. Truy cập cần đăng ký, và có một nền tảng đồng hành thu phí sau này để tự xây công cụ.
-
-## Khái niệm liên quan
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

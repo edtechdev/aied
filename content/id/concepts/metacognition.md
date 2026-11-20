@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,9 +46,7 @@ Metakognisi dalam pendidikan merujuk pada kesadaran, pemantauan, dan [[regulatio
 
 Dalam kerangka [[self-regulated-learning]], metakognisi adalah mekanisme sentral yang memungkinkan siswa menyesuaikan strategi, mengenali kebingungan, dan mencari bantuan secara tepat.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-
 Metakognisi bukan konstruk yang sama dengan [[reflection|refleksi]], dan keduanya sering dicampur. Pemantauan adalah penilaian yang dibuat pembelajar tentang keadaannya sendiri, dan dapat terjadi tanpa catatan sama sekali. Refleksi adalah pemeriksaan yang disengaja dan terdokumentasi atas upaya yang telah selesai, dan yang dihasilkannya adalah teks yang dapat ditinjau atau dinilai. Memisahkan keduanya paling penting ketika AI terlibat: putusan pemantauan sulit diserahkan, sementara artefak refleksi dapat dihasilkan oleh model.
-
 
 Cara siswa benar-benar mengerahkan metakognisi di sekitar AI dibentuk oleh lebih dari alatnya sendiri: [[cui-motivation-roles-metacognitive-genai-2026|Cui dkk.]] menemukan bahwa motivasi siswa dan peran interaksi yang mereka ambil membentuk [[student-engagement|keterlibatan]] metakognitif mereka dengan [[generative-ai|GenAI]] — artinya apakah penggunaan AI kaya secara metakognitif bergantung pada sikap siswa sama besarnya dengan pada teknologinya. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran dan Arar (2026)]] menambahkan [[student-ai-interaction|interaksi AI]] itu sendiri sebagai objek refleksi itu: langkah penutup Siklus [[prompt-engineering|Prompt Literacy]] mereka meminta siswa memeriksa apa yang diungkap proses itu tentang cara kerja prompt dan asumsi apa yang membentuk responsnya, dan mereka menjadikan refleksi serta revisi sebagai fase tempat kepengarangan dan pertimbangan kritis berkembang.
 
@@ -60,7 +60,6 @@ Ketika AI menyelesaikan tugas penalaran untuk siswa — memecahkan soal matemati
 
 Ketergantungan bukanlah kegagalan: [[du-yuan-epistemic-dependence-2026|Du dan Yuan (2026)]] menilai pembelajaran termediasi AI dengan enam kriteria diagnostik — contestability, recoverability, transfer, traceability, tanggung jawab terdistribusi, dan pluralitas epistemik — dan membedakan bantuan instrumental, yang membantu menghasilkan luaran, dari bantuan yang membawa pertimbangan, yang menyediakan standar untuk menilai luaran.
 **Menamai pertanyaan tata kelola.** [[metacognitive-ownership-human-ai-regulation-2026|Lin dan Chang (2026)]] mengusulkan **kepemilikan metakognitif** — tata kelola siswa atas standar, [[evaluative-judgment|pertimbangan evaluatif]], dan tindakan yang disumbangkan AI — memisahkan apropriasi standar, tata kelola pemantauan-pertimbangan, dan otorisasi kendali, serta menuntut kesempatan yang realistis untuk bertindak berbeda.
-
 
 Temuan utama:
 - **Kosmyna dkk. (2025):** Siswa yang memakai bantuan esai AI **83% tidak mampu mengingat kutipan** dari esai mereka sendiri, vs. 11% pada pengguna non-AI — menunjukkan mereka tidak bergulat dengan konten selama produksi.
@@ -87,9 +86,7 @@ Ketika AI dirancang untuk mendukung refleksi alih-alih menggantikannya, metakogn
 - **Mata kuliah berbasis contoh** dalam [[conversational-ai|chatbot]] Scheu dkk. meningkatkan **kompetensi yang dipersepsikan** (sebuah [[self-assessment|penilaian diri]] metakognitif) bahkan ketika asisten [[llm]] sendirian tidak melakukannya
 - **Pembingkaian yang muncul menempatkan sistem, bukan hanya individu, dalam loop.** Tinjauan bibliometrik–[[meta-analysis-systematic-review|sistematis]] atas 135 studi kelas STEM (24 studi inti) menemukan pembingkaian posthumanis yang muncul dan memosisikan AI sebagai ko-regulator pembelajaran, menggeser unit analisis dari refleksi individual ke [[regulation|regulasi]] tingkat sistem dan [[distributed-cognition|kognisi terdistribusi]] ([[ai-metacognition-stem-review|Tsakeni dkk. (2025)]]).
 
-
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone dkk. (2026)]] menyetel halus GPT-4o-mini untuk mengidentifikasi empat sub-elemen metakognitif — Penetapan Tujuan, Pemilihan Strategi, Refleksi atas Pembelajaran, dan Regulasi Usaha — pada tingkat kalimat dalam 14.100 refleksi kelas. Keandalan manusia menetapkan batas atasnya: pengodean ganda awal sepakat pada κ = 0.32 hingga 0.51, kalibrasi mengangkat kesepakatan ke κ = 0.52 hingga 1.00, dan akurasi model mengikuti urutan yang sama — Penetapan Tujuan 91,28%, Refleksi atas Pembelajaran 67,44%, Regulasi Usaha 60,74% — pada 18.883 sampel berlabel.
-
 
 **Pada skala sintesis polanya bertahan, dan ia menipis ketika pengukuran menajam.** Sebuah meta-analisis tiga tingkat atas 54 studi (kuasi-)eksperimental (121 ukuran efek, 7,431 siswa) menempatkan efek AI terhadap metakognisi pada g = 0.624 (CI 95% [0.431, 0.817]), dengan 107 dari 121 efek positif dan keuntungan naik seiring paparan dari g = 0.381 di bawah satu pekan menjadi g = 1.638 pada 15 sampai 20 pekan ([[ai-metacognition-three-level-meta-analysis-2026|Li dkk. (2026)]]). Sumber pengukuran adalah moderator yang menentukan: laporan diri g = 0.776, observasi perilaku g = 0.514, dan penilaian akurasi, yaitu selisih antara kinerja yang dinilai dan yang sebenarnya, g = 0.035 dan tidak signifikan. Keuntungannya terbesar di tempat paling mudah diklaim dan nyaris nol di tempat pemantauan dinilai terhadap kinerja, yaitu masalah laporan diri yang terus dihadapi studi-studi di atas.
 
@@ -104,9 +101,7 @@ Ketika AI dirancang untuk mendukung refleksi alih-alih menggantikannya, metakogn
 - **Think Aloud mendukung kesadaran awal tetapi tidak evaluasi mendalam.** [[karaki-think-aloud-ethical-genai-2026|Karaki dan Baroudi (2026)]] menjalankan studi penelitian tindakan [[mixed-methods-research|metode campuran]] dengan 44 mahasiswa wirausaha tahun pertama yang memakai metode Think Aloud selama tugas kuliah berbantuan AI. Think Aloud membuat konstruksi prompt, praktik verifikasi, dan pengambilan keputusan etis siswa lebih terlihat, tetapi [[critical-thinking|evaluasi kritis]] atas luaran AI "sering tetap di tingkat permukaan, terutama di antara siswa yang membutuhkan dukungan tambahan" — siswa mengenali respons yang generik atau tidak selaras namun tetap bersandar padanya secara berat. Kesadaran metakognitif yang dilaporkan sendiri adalah yang tertinggi dari tiga konstruk yang disurvei (M = 3.79), tetapi survei pascaintervensi tunggal itu tidak dapat memisahkan persepsi dari perubahan. Kesimpulan para penulis — Think Aloud bukan solusi tunggal dan harus dipadukan dengan pengajaran eksplisit dalam literasi AI, konstruksi prompt, dan strategi verifikasi — memperluas jalur bukti proses di atas dari *apa yang ditangkap catatan* menjadi *apa yang diubah vokalisasi saja*.
 - **Pelatihan metakognitif sebelumnya menjadi gerbang manfaat mitra refleksi AI.** Dalam eksperimen 2 × 2 dengan 60 [[teacher-education|guru prapelatihan]], [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang dkk. (2026)]] menemukan interaksi metakognisi × alat yang signifikan: mitra [[socratic-method|Socratic]] AI mengalahkan alat digital tradisional dengan selisih 0.56 poin hanya setelah pelatihan, tanpa keunggulan tanpanya (ΔM = −0.03).
 
-
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] memberi penjelasan penekanan itu uji kausal terpreregistrasi (N = 317) terhadap lembar kerja. Ketidakteraturan naik 0.84 (interval kredibel 95% 0.47 sampai 1.21) dan merupakan efek paling jelas dalam model, sementara pemrosesan mendalam turun melalui rantai yang berjalan dari pengalihan ke berpikir kritis alih-alih secara langsung. Penulisnya menamai keadaan itu dormansi kognitif, ketika pemantauan dan pemilihan strategi menjadi senyap sementara pemrosesan berlanjut, dan menempatkan penyebabnya pada afordansi lingkungan alih-alih pada siswa.
-
 
 **Pemantauan mengubah rute lebih daripada memblokir jalannya.** [[guo-overreliance-genai-feedback-2026|Guo dan Dong (2026)]] membagi 600 mahasiswa berdasarkan satu butir pemantauan dan mengestimasi setiap kelompok secara terpisah: beban memprediksi pengalihan kognitif pada β = 0.844 untuk pemantau rendah dan β = 0.840 untuk pemantau tinggi, praktis sama. Pengalihan memprediksi ketergantungan berlebih pada 0.396 dan 0.506, dan jalur beban langsung berjalan 0.560 dan 0.419. Ketergantungan di antara pemantau yang lebih kuat karena itu lebih banyak melewati pengalihan dan lebih sedikit secara langsung. Ini adalah model terpisah, bukan uji multi-kelompok formal.
 
@@ -115,7 +110,6 @@ Ketika AI dirancang untuk mendukung refleksi alih-alih menggantikannya, metakogn
 [[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao dkk. (2026)]] mengubah risiko penekanan itu menjadi kuantitas terukur dalam empat eksperimen dengan 728 orang dewasa. Bantuan AI yang lebih tinggi menaikkan ketidaklibatan tingkat tugas menjadi 4.82 dari 3.96 (*d* = 0.67), dan [[cognitive-offloading|pengalihan]] membawa 58,0% dari efek itu (tidak langsung 0.51, 95% CI [0.32, 0.72]). Penilai ahli kemudian memberi skor lebih rendah pada proposal yang didelegasikan: kualitas turun dari 4.78 menjadi 3.95 (*d* = 0.75), dengan 57,8% dari penurunan itu berjalan melalui ketidaklibatan (tidak langsung -0.48, 95% CI [-0.68, -0.30]).
 
 Biayanya bersifat kondisional. Kompleksitas tugas memperkuat jalur itu (indeks -0.39, 95% CI [-0.62, -0.16]) sementara [[ai-literacy|literasi AI]] melemahkannya (indeks 0.30, 95% CI [0.09, 0.52]). Jadi pemantauan bukan hanya kapasitas yang memprediksi penggunaan lebih baik; melewatinya adalah langkah yang ketiadaannya terlihat pada kualitas keluaran melalui rute pengalihan. Dua batas membatasi klaim ini. AI-nya adalah bank respons yang ditulis peneliti, bukan model langsung, dan pekerjaan serta status mahasiswa tidak dilaporkan, sehingga ini bukan studi kelas maupun studi tempat kerja.
-
 
 ## Pembedaan Keterlibatan–Motivasi
 
@@ -176,68 +170,3 @@ AI dapat mengubah **ambang metakognitif** untuk memutuskan bahwa seseorang tahu 
 - **"Bantuan AI membiarkan kemampuan dasarnya utuh."** Siswa yang memakai bantuan esai AI **83% tidak mampu mengingat kutipan dari esai mereka sendiri, berbanding 11% pada pengguna non-AI**, yang menunjukkan **mereka tidak bergulat dengan konten selama produksi**. Proses produksi adalah tempat keterlibatan terjadi, dan melewatinya tampak belakangan.
 - **"Pengalihan menurunkan segala hal."** Biayanya tampak **terbatas alih-alih global**: pengalihan menurunkan **keterampilan spesifik yang dilatih, bukan kemampuan umum domain yang mendasarinya**, dan muncul pada uji transfer **dengan**-sesuatu. Lokalisasinya penting, karena ia menunjukkan apa yang harus dilindungi alih-alih memperingatkan tentang kemunduran umum.
 - **"Kemampuan memproduksi menyiratkan kemampuan mengingat."** Selisih ingatan 83% versus 11% adalah kontracontoh langsungnya: luaran diproduksi pada kedua kondisi dan jejak memorinya berbeda jauh.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Langkah refleksi yang dibangun oleh urutan-urutan ini
-- [[learners]] — Siswa: payung bagi konsep-konsep sisi siswa
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — pertimbangan belajar dan ilusi kelancaran yang dikoreksi oleh latihan pengambilan
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-
-## Artikel terkait
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — lokakarya literasi AI dua jam menggeser regulasi interaksi LLM siswa sekolah menengah pertama, berbeda dengan metakognisi yang mereka laporkan sendiri (Clerc dkk. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Interaksi siswa-AI dalam penerjemahan lisan konsekutif berbantuan komputer
-- [[du-yuan-epistemic-dependence-2026]] — Ketergantungan epistemik dalam pembelajaran termediasi AI (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Apa yang ditanyakan siswa itu penting: kedalaman interaksi LLM, kualitas tugas, dan ingatan segera (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Pengalihan kognitif peka lapisan dalam menulis berbantuan GenAI (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Pencarian bantuan termediasi LLM dalam STEM: berlapis, instrumental, dan terverifikasi
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivasi dan peran dalam keterlibatan metakognitif GenAI
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Pelatihan metakognitif memfasilitasi pengalihan kognitif yang optimal (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Wawasan meta-kognitif tentang pengalihan kognitif: mekanisme, intervensi, dan implikasi pendidikan (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — Kerangka IDEA untuk penggunaan GenAI yang teregulasi secara metakognitif
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: model belajar metakognitif AI berpusat manusia (agensi & pembelajaran reflektif)
-- [[metacognitively-discordant-completion-genai-2026]] — Penyelesaian yang diskordan secara metakognitif dan pelolosan sadar atas ketidakpahaman
-- [[ai-metacognition-stem-review]] — Alat AI yang menyediakan scaffold metakognisi dalam STEM
-- [[ai-making-us-stupid]] — Apakah AI membuat kita bodoh? kritik atas pengalihan kognitif
-- [[stanford-evidence-base-ai-k12-2026]] — AI serbaguna menekan metakognisi dengan menyelesaikan penalaran
-- [[ai-advice-suppresses-ikt-suspension-2026]] — Saran AI menekan kesediaan mengatakan "saya tidak tahu", bahkan dengan saran salah dan insentif akurasi
-- [[agentic-ai-pedagogical-best-practice-2026]] — AI agentik dan praktik pedagogis terbaik: ketegangan antara otomatisasi dan pembelajaran
-- [[cognitive-offloading-speedup-illusion]] — Pengalihan kognitif dan ilusi percepatan dalam interaksi manusia-AI
-- [[lodge-loble-cognitive-offloading-2026]] — AI, pengalihan kognitif, dan implikasinya bagi pendidikan (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — Pedagogi Kesalahan AI: Menumbuhkan Berpikir Tingkat Tinggi (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[lukesova-clue-before-correction-2026]] — Petunjuk Sebelum Koreksi: ChatGPT untuk Pembelajaran Bahasa Mandiri
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Refleksi atas proses prompting dan perkembangan kepengarangan dalam Siklus Prompt Literacy (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt refleksi memangkas penerimaan saran AI yang salah dan memperbaiki kalibrasi kesadaran (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Penilaian otomatis memperkuat pemantauan tetapi bukan perencanaan, dan refleksi yang dilaporkan sendiri tetap tidak produktif (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Literasi verifikasi yang hanya bekerja melalui regulasi diri metakognitif (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — Dukungan eksternal, bukan akurasi pertimbangan metakognitif, yang mengarahkan pilihan strategi revisi (Iqbal dkk. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Keuntungan selektif: pengetahuan metakognitif naik sementara perencanaan dan pemantauan tidak (Wang dkk. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Penggunaan reflektif naik seiring akses AI dan memprediksi berpikir kritis, bukan keuntungan pengetahuan (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Kesadaran metakognitif sebagai prediktor terkuat pembelajaran STEM adaptif (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Dari diagnosis ke meta-diagnosis: guru menilai inferensi hasil AI (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Pertanyaan terbuka menuju ketergantungan yang menopang keterampilan dalam keterlibatan AI reflektif
-- [[dang-human-ai-collaboration-competency-2026]] — Metakognisi, bukan pedagogi, sebagai mekanisme agensi siswa dalam kolaborasi manusia-AI (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Kepemilikan metakognitif: konstruk untuk tata kelola siswa atas standar, pertimbangan, dan tindakan
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Log dan think-aloud menangkap proses metakognitif yang berbeda dalam pembelajaran berbantuan GenAI
-- [[ai-cognitive-partner-reflective-thought-2026]] — empat praktik dan sebelas proses berpikir reflektif ketika siswa memperlakukan AI sebagai mitra kognitif
-- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud membuat konstruksi prompt, verifikasi, dan penalaran etis terlihat, tetapi evaluasi kritis tetap di permukaan; bukan solusi tunggal
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Pelatihan metakognitif dan scaffolding Socratic berbasis AI dalam praktik reflektif guru prapelatihan: desain eksperimental dua studi
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormansi kognitif: penjelasan eksperimental atas keterlibatan metakognitif yang tertangguhkan dan ketidakteraturan yang meningkat (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Meta-analisis tiga tingkat: g terkumpul = 0.624, turun ke tidak signifikan untuk pemantauan yang dinilai akurasi (Li dkk. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — Model SYNC: pengalihan vs. onloading metakognitif, dan kinerja tugas yang terlepas dari pembelajaran yang tahan lama (Fan dkk. 2026)
-
-- [[guo-overreliance-genai-feedback-2026]] — Pemantauan tidak memblokir jalur pengalihan melainkan mengubah rutenya
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Ketika pemantauan dilewati, dan apa biayanya
-

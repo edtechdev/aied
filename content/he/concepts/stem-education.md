@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -85,46 +87,3 @@ ai_assist:
 - **"הוראה פרטית חכמה עובדת באופן אחיד לאורך STEM."** סקירה נרטיבית מובנית של **20 פרסומים (2020–אפריל 2026)** מצאה את היתרון הנמדד הברור ביותר דווקא להוראה עם **אבחון בזמן אמת**. הראיות **מוגבלות ומותנות**, והכללתן לכל ITS במתמטיקה מגזימה את מה שנסקר.
 - **"סימולציה היא תחליף חיוור לעבודה מעשית."** קבוצת הסימולציה **השיגה יותר מקבוצת המעשה בידע STEM מיושר-תכנית (M = 3.00 לעומת 2.06; t(28) = 2.23, p = .034, d = 0.82)**. הסימולציה לא הייתה נסיגה שמתפקדת מתחת לדבר האמיתי.
 - **"זרימת עבודה ספרותית בסיוע AI בעיקר חוסכת זמן."** תוצאות מ-**20 סטודנטים על פני 80 מסמכים** הראו **מעל 90% חילוץ של פרמטרים ניסוייים, הפחתה של כערך 65% בזמן סקירת הספרות, ועלייה של 50% ביכולת הסטודנטים לזהות** עבודות משפיעות. רווח היכולת היה התוצאה הגדולה יותר וחיסכון הזמן היה הקטן יותר.
-
-## מושגים מקושרים
-- [[learner-identity]] — זהויות לומד מתפתחות תחומיות, מקצועיות, יצירתיות ואקדמיות
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — חינוך כימיה ו-AI: מעבדות, הערכה מעצבת, גבולות LLM, פילוסופיה של ניסוי
-- [[biology-education]] — חינוך ביולוגיה ו-AI: עוזרי הוראה למעבדה, אוריינות AI בביולוגיה, חשיבה ביקורתית, כלים מיוחדים
-
-## מאמרים מקושרים
-- [[ai-pedagogical-accompaniment-amico]] — ליווי פדגוגי מאופשר-AI התומך בזהות STEM
-- [[lnenicka-secondary-students-genai-stem-2026]] — במה תלמידים תיכון עושים בפועל עם כלי GenAI לאורך STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — צ'אטבוטים של GenAI והצגת בעיות במדע בסיסי
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT ללמידה מבוססת-חקירה ב-STEAM
-- [[niri-steam-ai-literacy-review-2026]] — חינוך STEAM לאוריינות AI: סקירה שיטתית
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — תוכנית STEM מבוססת-AI אדפטיבית ללמידה עמוקה
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — פרופילי קבלת ChatGPT של מורים עתידיים
-- [[zhang-ct-ai-training-test-2026]] — מבחן חשיבה חישובית באימון AI (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — כלי, חונך או קביים: תאוריית מושתתת של תכנות בסיוע AI
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — סקירה שיטתית של AI בחינוך מדע/כימיה
-- [[ai-information-extraction-undergraduate-thesis-2026]] — חילוץ מידע מופעל-AI התומך בעבודת תזה לתואר ראשון ובלמידה מבוססת-מחקר (An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — למידת רחפנים בסיוע-סימולציה עם פיגומים שתוכננו בשיתוף מורה-AI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — אפקט משוקלל של הוראה STEM נתמכת-AI לאורך 35 מחקרים, עם הרווחים הגדולים ביותר בתיכון (Doğan et al. 2026)
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — תאומים דיגיטליים ב-STEM: כל מחקר שנסקר סיפק אב-טיפוס עובד, מעטים מדדו למידה
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — מפגש בן 45 דקות על הנחיה ובדיקת שגיאות העלה ציוני מבחן-אחרי בפיזיקה (*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — ראיות ITS במתמטיקה מוגבלות ומותנות

@@ -35,6 +35,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,6 +47,3 @@ En açık örnek, birden çok oturum üzerinde çalışan ve çalışma dizinini
 ## Benimsemeden önce bilinmesi gerekenler
 
 Her şey MIT altında [[open-source|açık kaynaktır]] ve yerel [[ai-literacy|YZ okuryazarlığı]] ya da [[self-directed-learning|öz yönelimli çalışma]] için bir başlangıç noktası olarak ücretsiz alınabilir. Benimseme geniş ve hızlı hareket ediyor: Eylül 2026'da kontrol edildiğinde yaklaşık 270.000 yıldız ve 23.000 fork, en son commit ise 18 Eylül 2026'da. Uyarı kapsamdır. Beceriler bir [[human-ai-collaboration|mühendisin]] çalışma bağlamını varsayar; mühendislik, üretkenlik, kullanımdan kaldırılmış ve devam eden bölmeler halinde düzenlenirler, bu nedenle bazı girdiler açıkça tamamlanmamış veya emeklidir ve README aynı zamanda bir bülten kaydı işlevi görür. Öğretme ve sorgulama becerilerini aktarılabilir kısım olarak görün ve birini öğrencilerin önüne koymadan önce herhangi birini yeniden yazmayı bekleyin.
-
-## Bağlı kavramlar
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

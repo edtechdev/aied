@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -48,11 +49,3 @@ The Student Guide to Artificial Intelligence হলো Elon University-র Imagi
 গাইডটি [[formative-assessment|গঠনমূলক]] কাঠামোয় লেখা এবং তা স্পষ্ট করেও বলে: স্কোর অভ্যাসের একটি মুহূর্তচিত্র, নম্বর, বৈশিষ্ট্য বা পূর্বাভাস নয়, আর শিক্ষার্থীদের তা প্রকাশ্যে শেয়ার না করতে বলা হয়।
 
 এআই নিয়ে কাঠামোটি নির্ভর করে উদ্ধৃত সমীক্ষা ও পরীক্ষামূলক প্রমাণের উপর যে কাজ আউটসোর্স করলে শিক্ষার্থীরা কম ধরে রাখতে পারে — যা সেই [[cognitive-offloading|অফলোডিং]] প্রশ্ন, যার মোকাবিলায় গাইডটি লেখা, তার মীমাংসার জন্য নয়। ফিল্ড গাইডের PDF একটি সংক্ষিপ্ত ফর্মের পেছনে, যা নাম, ভূমিকা, প্রতিষ্ঠান ও ইমেইল চায়; শিক্ষক-গাইড মডিউল ও শিক্ষাগত কাঠামোর নিবন্ধ সরাসরি ডাউনলোড হয়। ইন্টারঅ্যাকটিভ সংস্করণটি Gemini Notebook-এ চলে এবং Google অ্যাকাউন্ট লাগে। প্রকাশকের পরিসংখ্যান — প্রায় 4,000 প্রতিষ্ঠান ও 180 দেশে 40,000-এরও বেশি PDF ডাউনলোড এবং 130-এরও বেশি কাস্টম ক্যাম্পাস-সংস্করণ — তাদের নিজেদের, যেমন ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Institute ও RTI International-এর সমর্থনগুলো।
-
-## সংযুক্ত ধারণা
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

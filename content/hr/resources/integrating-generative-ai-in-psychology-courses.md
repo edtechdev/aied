@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -93,9 +94,3 @@ Nastavnici psihologije u bilo kojoj fazi karijere, i nastavnici u srodnim [[soci
 ## Napomene i upozorenja
 
 Besplatan PDF, bez računa. Autorsko pravo pripada STP-u, a ne Creative Commons licenciji: osobne kopije i kopije za razred dopuštene su uz navođenje autora, dok redistribucija ili komercijalna upotreba trebaju autorovo dopuštenje. Poglavlja su izvještaji praktičara, a ne studije — bez dizajna, uzoraka ili veličina učinka — pa tvrdnje tretirajte kao izvještaje iskustva i citirajte poglavlja pojedinačno.
-
-## Povezani pojmovi
-
-- [[social-sciences-education]] — stranica klastera čiji odjeljak psihologije ovaj zbornik ispunjava praksom na razini kolegija
-- [[ai-literacy]] — razvojni okvir koji urednici daju zbirci
-- [[academic-integrity]] — predmet poglavlja o politici, i razlog zašto nekoliko poglavlja o kolegijima ugrađuje korake provjere

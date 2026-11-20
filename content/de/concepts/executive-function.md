@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
+connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -105,35 +107,3 @@ Die einzige Übersichtsarbeit, die Offloading mit exekutiven Funktionen verknüp
 - „Mehr KI-Nutzung bedeutet schwächere exekutive Funktionen." Sharma und Kolleginnen und Kollegen fanden, dass der Zusammenhang über akademischen Stress verlief, und ein Querschnittsdesign kann keine Richtung bestimmen. Abhängigkeit und Kapazitätsverlust sind korreliert, nicht nachweislich kausal.
 - „Exekutive Funktionen sind eine einzige messbare Sache." Card Sorting, der Flanker-Test und Selbstbeurteilungsinventare messen unterschiedliche Prozesse und stimmen oft nicht überein.
 - „Selbstbeurteilungsskalen diagnostizieren Defizite." Die EFB-LDS-AI misst selbstberichtetes Verlassen auf KI und wahrgenommene Anstrengungsreduktion, was ihre Autoren ausdrücklich von einem klinischen Defizit unterscheiden.
-
-## Verbundene Konzepte
-
-- [[metacognition]] — Wissen und Überwachung, abgrenzt von der Kapazität unter Belastung
-- [[cognitive-offloading]] — was delegiert wird, wenn eine Aufgabe an ein Modell übergeben wird
-- [[self-regulated-learning]] — Planen und Überwachen, angewandt auf das eigene Lernen
-- [[cognitive-psychology]] — Arbeitsgedächtnis und die daraus entwickelten Aufgabenmaße
-- [[developmental-psychology]] — wie sich das Konstrukt über die Kindheit hinweg verändert
-- [[special-education]] — Unterstützung, Nachteilsausgleich und die Ethik beider
-- [[neurodiversity]] — der Rahmen, in dem ADHD-Unterstützung diskutiert wird
-- [[scaffolding]] — Unterstützung knapp jenseits der eigenständigen Fähigkeit
-- [[assistive-technology]] — Werkzeuge, die eine Kapazität kompensieren
-- [[conversational-ai]] — das Darbietungsformat, das die meisten Trainingsstudien nutzen
-- [[generative-ai]] — die Werkzeuge, auf die sich das hier gemessene Verlassen bezieht
-- [[teacher-role]] — die Unterstützung, die das Verlassen auf KI verdrängen kann
-- [[higher-ed]] — wo der größte Teil der Messarbeiten entstand
-- [[k-12]] — wo das Verlassen auf KI bei Jugendlichen gemessen wird
-- [[longitudinal-research]] — das Design, das dieser Evidenz meist fehlt
-
-## Verbundene Artikel
-
-- [[genai-reliance-executive-functioning-2026]] — Verlassen auf GenAI bei Jugendlichen, definiert als Bevorzugung gegenüber eigener Anstrengung
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Kompensation, Scaffolding und Entwicklung als drei Funktionen eines Werkzeugs
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Zehn Chatbot-Studien, 1.606 Teilnehmende, höchstens ein Monat Follow-up
-- [[sidorkin-extended-executive-cognition-2025]] — Extended Executive Cognition als Lernergebnis der Hochschulbildung (Rahmenkonzept)
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Kognitive Flexibilität sagt die Interviewstufe vorher, Inhibition nicht
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Eine Selbstbeurteilungsskala mit 35 Items für KI-vermittelte Lernschwierigkeiten
-- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — KI-Unterstützung für Studierende mit ADHD, mit benannten ethischen Zielkonflikten
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akademischer Stress mediiert ChatGPT-Abhängigkeit und exekutive Dysfunktion
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinder und Erwachsene im Gespräch mit ChatGPT im Scanner
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitives Offloading im Zeitalter generativer KI: die Übersichtsarbeit, die Offloading mit exekutiven Funktionen verbindet
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Notizenmachen war einem Chatbot bei verzögertem Verständnis und Abruf überlegen

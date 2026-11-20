@@ -23,7 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
-
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -104,57 +105,6 @@ ai_assist:
 - **“对话式智能体的可信度取决于它的准确度。”** **用户以社会性的方式解读智能体的可信度。** 感知到的 ChatGPT **能力** **直接** 预测其反馈可信度，而感知到的 **温暖** 只 **通过** 这一路径起作用。一个听起来温暖而胜任的智能体凭其呈现赢得信任，而这是与正确性不同的另一条轴。
 - **“LLM 批评伙伴取代学习者的判断。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 具体展示了 **保全** 的一面：价值在于让学习者的思考保持完整，而不是替他们产出批评。
 - **“关于对话式智能体的总括证据是决定性的。”** [[conversational-ai-agents-umbrella-review-2026|总括综述]] 综合的是关于 CAI 智能体的各项综述，而一项总括综述的强度受其所汇集综述的质量所限。
-
-## 关联概念
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-- [[executive-function]]
-
-## 关联文章
-
-- [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为（Rho 等 2026）
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata、Russell 与 Page 2026）
-- [[usher-faraon-who-grades-best-2026]] — 跨项目质量层级比较 ChatGPT、同伴与教师评分（Usher 与 Faraon 2026）
-- [[llm-agents-5e-esl-grammar-2026]] — 用 5E 框架的 LLM 智能体促进 ESL 语法习得（Yang 等 2026）
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — 学生对 GenAI 聊天机器人的看法（混合方法）
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — AI 聊天机器人的采纳画像
-- [[conversational-ai-agents-umbrella-review-2026]] — 教育中对话式 AI 智能体的总括综述
-- [[conversational-ai-tutors-framework]] — 对话式 AI 导学系统框架
-- [[measuring-llm-tutors-teach-vs-solve]] — 测量 LLM 导学系统是教还是解
-- [[stanford-evidence-base-ai-k12-2026]] — 导学专用 AI vs. 通用 AI
-- [[rethinking-scaffolding-llm-tutors]] — 重新思考 LLM 导学系统中的脚手架
-- [[conversational-agents-novice-programmers-scoping-2025]] — 面向新手程序员的对话式智能体范围综述
-- [[ba-ai-agents-cscl-review-2026]] — 计算机支持的协作学习中的 AI 智能体综述
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — GenAI 成就中的性别与动机
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 面向小学读书谈话的角色自适应 AI 伙伴；固定角色智能体的情感天花板（Liao 2026）
-- [[xu-genai-collaborative-space-2026]] — GenAI 作为小组动态中的智能体与协作空间（Xu 等 2026）
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — 一个 AI 驱动的、文化感知的聊天机器人：用 NLP 与机器学习为巴基斯坦大学生的压力检测与福祉支持
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生相当的 GRE 学习增益
-
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 十项针对执行功能的聊天机器人研究
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题求解过程中为定向的 AI 求助搭建脚手架
-- [[fang-chatbot-psychosocial-extended-use-2025]] — 文本、中性语音与情感性语音为期四周：模态改变了交流，而未改变心理社会结果（Fang 等 2025）
 
 ## 引用
 

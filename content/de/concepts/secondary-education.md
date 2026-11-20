@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -125,41 +127,3 @@ Die Sekundarstufe liegt zwischen [[primary-education]] und [[undergraduate-educa
 - **„Detektion kann Ihnen sagen, welche Sätze die KI geschrieben hat.“** Das F1 auf Satzebene sank auf 0,88, der Recall fiel nach einer einzigen Überarbeitung im Schülerstil auf 0,60, und Text, der nach Chatbot-Nutzung ohne kopiertes Material geschrieben wurde, wurde in 94,6% der Fälle als menschlich gelesen.
 
 - **„Kritische [[ai-literacy|KI-Kompetenz]] kann bis zur Universität warten.“** Die Nutzung steigt jedes Jahr von 12 bis 17, während die wahrgenommene Zuverlässigkeit konstant bleibt, und ein zweistündiger Workshop in den Klassen 8–9 veränderte das Prompting und das Nachfrageverhalten zwei Tage später.
-
-## Verbundene Konzepte
-
-- [[k-12]] — der übergeordnete Bereich, der Primar- und Sekundarschulbildung umfasst.
-- [[primary-education]] — der vorangehende Bereich, in dem Entwicklungsangemessenheit dominiert.
-- [[undergraduate-education]] — der nächste Bereich, in dem große Lehrveranstaltungen und Beratung übernehmen.
-- [[intelligent-tutoring]] — die Systemklasse hinter den meisten Leistungsstudien in der Sekundarstufe.
-- [[academic-integrity]] — der Richtlinien- und Begründungsrahmen für KI-gestützte Kursarbeiten.
-- [[ai-detection]] — Text- und Antwortmuster-Verfahren und ihre Grenzen.
-- [[automated-assessment]] — Bewerten und Punktevergabe, einschließlich der Weiterleitung an menschliche Prüfer, die es brauchbar macht.
-- [[assessment-validity]] — was ein Score oder Benchmark tragen kann.
-- [[ai-literacy]] — das Wissen und die Regulationsgewohnheiten, die Nutzung von Verstehen trennen.
-- [[help-seeking]] — das Verhalten, das entscheidet, ob ein Tutor im Moment der Schwierigkeit genutzt wird.
-
-## Verbundene Artikel
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — zweijähriger Cluster-trial in 18 Middle Schools in Tennessee.
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — vierwöchige Multisite-RCT von Medly im GCSE-Naturwissenschaftsbereich.
-- [[leite-its-k12-meta-analysis-2025]] — 18 US-Experimente zu intelligentem Tutoring und ihr Abklingen über die Zeit.
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 Studien zu KI-gestütztem STEM-Unterricht nach Stufen.
-- [[genai-learning-motivation-meta-analysis-2026]] — 42 kontrollierte Studien zur Motivation, mit der Sekundarstufe als Subgruppe.
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — präregistriertes Lesexperiment an sieben Schulen in England.
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 1.507 Schülerinnen und Schüler, eine Feedback-Nachricht und Überarbeitungsgewinne.
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 122 Siebtklässlerinnen und Siebtklässler, die mit einem Assistenten schreiben, der Antworten vorenthält.
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — zweistündiger Workshop in den Klassen 8–9, gemessen am Verhalten.
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 1.598 Schülerinnen und Schüler im Alter von 12–25; die Nutzung steigt vor der Vorsicht.
-- [[schaller-ai-text-detection-authentic-writing-2026]] — PISA-2025-Tastaturstudie zu Detektion auf Text- und Satzebene.
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 133 Schülerinnen und Schüler in Hongkong, die über Zweck und Absicht nachdenken.
-- [[ai-marking-accuracy-gcse-physics-2026]] — kommerzielles Bewertungssystem gegen AQA-Punkte und ein Lehrkräftepanel.
-- [[porcaro-ai-grading-benchmark-2026]] — 22 Modelle, getestet auf Manipulierbarkeit, Etiketteneffekte und Übereinstimmung.
-- [[wu-genai-scientific-literacy-china-2026]] — PISA-2025-Naturwissenschaftskompetenz und Zweck der Chatbot-Nutzung.
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — 2.464 deutsche Schülerinnen und Schüler der Klassen 7–8.
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — PRISMA-Review mit 33 Studien; 26 Nutzungsstudien gegenüber 7 Wirkungsstudien.
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 500 Schülerinnen und Schüler der Klassen 7–12; selbsteingeschätzte Nutzungstiefe und Fähigkeit.
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 513 Schülerinnen und Schüler in Hangzhou; Angst bei der Umsetzung, nicht bei der Intention.
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — Einstellungsskala mit 19 Items bei 93 italienischen Schülerinnen und Schülern; Pilotmessung.
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1.477 Befragte; wahrgenommenes Lernen gegen einen Engagement-Index.
-- [[cho-chatgpt-high-school-gpa-2025]] — GPA-Zusammenhänge nach Fach, Schultyp und sozioökonomischem Status.

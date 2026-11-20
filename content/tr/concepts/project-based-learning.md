@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -80,31 +82,3 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 
 - Düzenleyici bulgu bir ürün uyarısıdır: bir sohbet robotunu amaca özel bir ortama mühendislikle yerleştirmek *daha küçük* bir toplulaştırılmış etkiyle örtüştü. Özelleştirmenin varsayılan kolaylık değil öğrenme değeri kattığını doğrulayın.
 - Bir PBL modülü sunuyorsanız sonucu kazanan özellik model değil, talimat katmanıdır.
-
-## Bağlı kavramlar
-
-- [[problem-based-learning]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[computational-thinking]]
-- [[higher-ed]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[arts-and-media-education]]
-
-## Bağlı makaleler
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Üretken yapay zeka destekli eğitim için umut verici çerçeveler olarak probleme dayalı ve proje temelli öğrenme: sistematik bir derleme ve üç düzeyli meta analizden çıkan kanıtlar
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Oyun Temelli ve Oyunlaştırılmış Robotik Eğitim
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Öğretmenler için YZ Okuryazarlığı Eğitimi
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Eğitimde Robotik ve YZ
-- [[educational-robotics-pathways-2026]] — YZ Destekli Eğitim Robotlarını Öğrenmeye Yollar (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL, baskın bir HT öğrenme stratejisidir
-- [[creative-project-approach-ai-early-childhood-2025]] — Yaratıcı Proje Yaklaşımı: erken çocuklukta Proje Yaklaşımı içinde YZ ajanları ve robotik (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — Ekip yazılım PBL’sinde YZ ajanlarla SDD
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: gömülü öğretim ajanlı sürükleyici bir VR tasarım stüdyosu, geleneksel PBL’ye karşı değerlendirildi (Jin ve ark. 2026)

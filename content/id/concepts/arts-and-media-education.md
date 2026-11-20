@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -68,11 +70,7 @@ Teknologi panggung dan pertunjukan adalah tempat pengajaran berbantuan AI paling
 
 Alat teks-ke-gambar adalah kasus di mana alur kerja iteratif studio paling langsung dipertaruhkan, dan buktinya bukan cerita sederhana tentang untung atau rugi. [[t2i-competence-paradox-2026|Liu, Meng dan Zhang (2026)]] menyurvei 417 mahasiswa seni dan desain bersama kelompok fokus dan wawancara instruktur, dan menemukan bahwa harapan kinerja, pengaruh sosial, nilai kebaruan, dan kompetensi kreatif semuanya memprediksi secara positif niat menggunakan alat teks-ke-gambar, sementara harapan usaha dan kondisi pemfasilitasi memprediksi secara negatif — yang mereka baca sebagai penggunaan berorientasi jalan pintas dalam tugas kuliah di mana kemudahan dan ketersediaan memungkinkan keluaran cepat alih-alih keterlibatan yang berkelanjutan. Paradoks kompetensi mereka adalah hasil yang menonjol: kompetensi kreatif mendukung niat tetapi juga memprediksi penggunaan aktual yang lebih selektif dan tertahan, seiring siswa menimbang kepengarangan, orisinalitas, dan pelestarian keterampilan terhadap efisiensi. Mereka menyerukan pedagogi yang membahas [[ai-literacy|literasi AI]] seputar proses kreatif, penyusunan prompt, dan evaluasi keluaran, dengan proses studio dan upaya sebagai objek yang dinilai.
 
-
 Pertanyaan adopsi mendapat jawaban khas disiplin dalam [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]], yang menyurvei 450 mahasiswa seni di delapan institusi Zhejiang dengan model UTAUT yang diperluas oleh [[trust]]. Kepercayaan adalah jalur terkuat menuju niat berperilaku (β = 0.425), di depan pengaruh sosial (0.155), sementara kendali metakognitif mengarah lebih langsung ke niat (β = 0.146) daripada ke kepercayaan (β = 0.099). Para penulis membacanya sebagai taruhan disiplin ini: aturan berhenti seni tidak jelas, sehingga memegang agensi kreatif berarti memutuskan berulang kali apa yang dipertahankan, direvisi, atau dibuang. Tindak lanjut acak dengan 80 siswa meminta pakar tersamar menilai gambar yang dihasilkan, dan siswa yang diprompt memperoleh skor lebih tinggi pada konten semantik (d = 0.67), gaya visual (d = 1.30), dan komposisi spasial (d = 0.63).
-
-
-
 
 [[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]] mengubah kritik menjadi metode yang dapat direplikasi: tiga permainan epistemik — Interpret, Interrogate, dan Expose — memindahkan diskusi studio dari reaksi impresionistik menuju hipotesis bias yang beralasan, dengan aturan BiasSlot yang memvariasikan satu isyarat bias sementara motif konstan tetap dijaga.
 
@@ -120,34 +118,3 @@ Dua temuan lain merumitkan cerita sederhana tentang alat generatif sebagai pemer
 **Bagi peneliti**
 
 - Melampaui studi kasus satu studio sebelum membuat klaim yang berlaku untuk seluruh disiplin, dan laporkan struktur studio karena itu mengondisikan hasilnya.
-
-## Konsep terkait
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## Artikel terkait
-
-- [[genai-xr-architectural-design-education-2026]] — GenAI plus XR multi-pengguna di studio arsitektur nyata: peran yang saling melengkapi, efikasi diri desain yang menurun, tanpa keunggulan portofolio (Xiao dkk. 2026)
-- [[genai-architecture-education]] — Alur kerja gambar yang dijalankan secara lokal dan khas disiplin di studio arsitektur: ruang pencarian kreatif yang lebih luas dan kecemasan kritik yang berkurang (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — Studi studio longitudinal dan platform GAI-A: GenAI sebagai stimulus dan perluasan ruang solusi, dengan fiksasi desain sebagai risikonya (Gül dkk. 2026)
-- [[ai-interior-design-malaysia-2026]] — Desainer interior sebagai kurator keluaran mesin, dan apa yang harus dilakukan kurikulum serta regulasi profesi tentang itu (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Pembelajaran berbasis proyek di dalam lingkungan imersif yang mendukung AI dalam desain interior vokasi (Jin dkk. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — Proyek akhir storytelling digital 15 minggu dengan 426 siswa: kebaruan kuat, integrasi lemah, AI sebagai alat bukan pengarang (Tian dkk. 2026)
-- [[t2i-competence-paradox-2026]] — Penerimaan teks-ke-gambar di antara 417 mahasiswa seni dan desain, dan paradoks kompetensi dalam penggunaan selektif (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — Ekonomi streaming, generator otonom versus asisten komposisi, dan memikirkan ulang kurikulum musik (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — Membandingkan GPT-4o-mini dengan rata-rata guru pada 300 respons analisis musik (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — Mengapa presisi pengukuran bukan nilai edukatif dalam pengajaran vokal berbantuan AI (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Desain yang dipimpin penyandang disabilitas untuk pengajaran string taktil dan kinestetik bagi musisi tunanetra dan low-vision (Shi dkk. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Pengajaran VR berbantuan LLM untuk tata cahaya panggung, dan kesenjangan antara representasi ahli dan pemula (Liang dkk. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: permainan epistemik untuk menafsirkan model teks-ke-gambar (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Agensi kreatif, kepercayaan, dan kualitas keluaran yang dinilai pakar pada mahasiswa seni

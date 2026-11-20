@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -110,56 +112,3 @@ HPEは高リスクで能力主義的な領域であり、AIの便益（拡張可
 2026年の中国のウイルス学実験室科目における準実験は、科目の知識グラフ、グラフに基づく検索アシスタント、公表された閾値による適応的ルーティング、そして仮想シミュレーションを中心にモジュールを再構築し、その後、30人の学生を変更を加えていない科目の30人と比較しました。実験群は最終理論試験で11.4点高く（d = 1.39）、実験室操作のチェックリストでは13.3点高い得点でした（[[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]）。
 
 二つの注意がこの数値には伴います。割り当てが既存のクラス単位だったため、クラスタリングはモデル化されておらず、区間は狭すぎる可能性が高いこと、そして四つの構成要素が同時に導入されたため、効果は知識グラフやアシスタントではなく、そのパッケージに属することです。
-
-## 関連する概念
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — 医療専門職教育の看護の柱
-- [[virtual-and-augmented-reality]] — 没入型およびARによる臨床訓練
-
-## 関連する記事
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 医学・歯学教育におけるAI活用PBLとCBL:6件のRCT、うちCBLは2件のみ(Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI支援デジタル病理は、前立腺生検を判読する病理専攻医の診断成績を向上させ、経験に起因する成績格差を縮小する
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 医療AIカリキュラムは倫理を教える(80.6%)が、データ来歴を扱うことはまれ(22.2%)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — データ生成プラットフォームを実運用展開したLLMベース仮想標準化患者の層別化・多評価者による評価
-- [[genai-medical-education-transformation-review-2026]] — 医学教育のGenAI報告153件のスコーピングレビュー:シミュレーションが最多、持続性と患者アウトカムは未測定
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のためのスキャフォールディング指向マルチエージェント大規模言語モデルシステムの評価
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 医学教育におけるAIティーチングエージェントの8次元ルーブリック評価
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、看護教育の構造的ギャップ、そして専門職アイデンティティの再構成(Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCANフレームワーク:医学訓練におけるAIのタスク配分を再考する(Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — 医療職教育においてAIで経験的・状況的・分散認知を実運用化する
-- [[residencyrl-clinical-rl-training-2026]] — 専攻医研修における臨床技能の強化学習訓練
-- [[medgame-llm-medical-education-gamification]] — 医学教育のためのゲーム化されたLLMベース学習
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — ブラキセラピー訓練のためのエージェンティックAIシミュレーション
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AIによる看護教育の変革
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護におけるAI活用シミュレーション:混合研究法システマティックレビュー
-- [[wang-safety-gap-productive-struggle-2026]] — 安全性ギャップ:生産的な苦闘を取り戻す
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor:ヒューマン・イン・ザ・ループ型歯科放射線撮影指導(Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — シナリオベース医療教育におけるGenAIのシステマティックレビュー(Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — スケーラブルなAIベース臨床コミュニケーション訓練と自動評価
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 医学教育におけるAI倫理の文献計量マップ:論文数は113件(2023年)から500件(2025年)へ増加、39か国が関与、引用はガバナンスよりも能力検証を優遇(Sriram et al. 2026)
-- [[llm-grading-assistants-public-health-2026]] — 繰り返し実行しても同一の評点は再現されない
-- [[xiang-ai-nursing-education-kas-framework-2026]] — 教育AIコンピテンシーフレームワークを12要素のKASマップに対応づけるスコーピングレビュー
-- [[agency-gap-ai-writing]] — 医療職訓練における反応型対能動型AIライティングエージェント:エージェンシー・ギャップ
-- [[federated-learning-at-risk-student-prediction-2026]] — HPEプログラム横断の連合学習によるリスク学生予測:プライバシーコストは無視できるほど小さく、外部から持ち込んだ閾値が誤作動する理由
-- [[rony-nursing-educators-ai-tpack-2025]] — バングラデシュの看護教員が語るAI準備度・障壁・データガバナンスをTPACKで読み解く
-- [[bursic-ai-residency-education-curriculum-2026]] — 専攻医研修カリキュラムへのAI統合の障壁:12名の医師リーダーへの質的インタビュー
-- [[alshahrani-health-sciences-ai-use-2026]] — テクノロジーと教育法をつなぐ:多様な保健科学カリキュラムの学生におけるAI利用、自己報告による学業への影響、倫理的懸念の横断的分析
-- [[ago-prompt-literacy-allied-health-2026]] — ガーナの6つの医療関連職プログラムにおけるプロンプト・リテラシー:訓練なしの日常的GenAI利用、サブスクリプションと接続性の制約、そして予備知識が最も乏しいところで生じるプロンプト検証のパラドックス(Ago et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学ラボにおける知識グラフ＋グラフに基づくアシスタントと適応的ルーティング：理論試験＋11.4点、d = 1.39

@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -145,55 +147,3 @@ El hallazgo honesto de este estudio es lo delgadas que son algunas líneas. Cada
 - **«Las etiquetas de grupo capturan la variación que importa.»** **Las etiquetas de grupo esconden la variación que hay dentro de ellas**: en el metaanálisis sobre discapacidad, los estudiantes con **dificultades específicas del aprendizaje, discapacidad intelectual y del desarrollo** y otras categorías se agrupan en una misma estimación, de modo que la media del grupo no describe a ninguno de ellos.
 - **«Los análisis de subgrupos responden a la pregunta de los efectos diferenciales.»** Normalmente **son demasiado pequeños para responderla**: el [[ai-tutoring-micro-rct-gcse-science-2026|micro-ECA de ciencias de GCSE]] es inusualmente explícito al señalar que su contraste de **tratamiento** tiene potencia para el efecto global y no para las diferencias entre subgrupos. Un hallazgo de subgrupo sin potencia suficiente es una hipótesis, no un resultado.
 - **«Un efecto agrupado medio indica si un grupo concreto se beneficia.»** [[zhang-ai-students-disabilities-meta-analysis-2024|29 estudios (cuasi)experimentales]] se agruparon en **g de Hedges = 0,588 (IC del 95% [0,349; 0,826])** entre categorías de discapacidad. El intervalo describe la media de esas categorías, y «qué grupo, qué necesidad» es un análisis aparte.
-
-## Conceptos conectados
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## Artículos conectados
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 estudios sobre IA para estudiantes con discapacidad: g = 0,588, y g = 0,269 tras el ajuste por sesgo
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefició de forma desigual a estudiantes de STEM y no STEM en el aprendizaje interdisciplinar
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — Uso de IA generativa y compromiso de cuatro vertientes entre estudiantes internacionales de etnia minoritaria
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — De 766 registros a 40 estudios, 15 de ellos con IA generativa
-- [[adhd-video-segmentation-computing-education]] — Un cambio de diseño general que llevó a los participantes con TDAH a la paridad
-- [[neurodivergent-computing-students]] — 24 estudiantes neurodivergentes sobre estructura, ambigüedad y colaboración
-- [[genai-minoritized-knowledges-disability]] — Marginación epistémica en la IA, con la discapacidad como caso
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0,83 con I² = 84,4% en una pequeña base de evidencia sobre L2
-- [[structural-silence-underrepresented-language-ai-2026]] — Menos del 0,5% del contenido web en bengalí frente al 49,5% del inglés
-- [[hadra-ai-detector-accuracy-efl-2026]] — Los detectores clasifican erróneamente la escritura de estudiantes de inglés como lengua extranjera mientras puntúan perfectamente los textos profesionales
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Una prueba con 195 estudiantes de modelos femeninos sin diferencia de género
-- [[gender-bias-transfer-llm-writing]] — Prompts con sesgo de género que se transfieren a los ensayos de los estudiantes
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Espacio de un solo género valorado, con una advertencia contra la girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — La equidad de los tutores varía según el modelo, el dominio y la dimensión de comportamiento
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Retroalimentación alineada con estereotipos sobre ensayos idénticos
-- [[demographic-signals-llm-student-assessment-2026]] — 192.480 llamadas: tanto las personas simuladas explícitas como los historiales implícitos modifican los modelos
-- [[student-attention-estimation-fairness-2026]] — Una regularización de equidad que no generalizó
-- [[ai-divide-ses-personality-primary-education-2026]] — 4.497 estudiantes: la alfabetización digital, no el uso de la IA, media en la brecha
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Una participación rural que nunca se recuperó, y la mentoría como restricción
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Una interacción de subgrupo cuyo intervalo de confianza cruza el cero
-- [[student-ai-inquiry-types-cs2-2026]] — El único hallazgo de uso sobre estudiantes de primera generación
-- [[international-students-conversational-ai-adaptation]] — El único estudio sobre estudiantes internacionales
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — La primera estimación de efecto para estudiantes de primera generación: el acceso al tutor les costó 0,50 DE de nota final frente a 0,22 para sus compañeros (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Una variable de agrupación basada en el conocimiento con evidencia de proceso directa: grupos emparejados en conocimiento previo pero distintos en diversidad de concepciones previas adoptaron la misma IA de forma diferente (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Más allá de la concordancia: 22 evaluadores con prompts se enfrentan a pruebas cuya respuesta correcta se conoce, y a la mayoría se les puede convencer (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — El contexto de quien aprende cambia las notas de un evaluador LLM sobre un trabajo idéntico, y la concordancia con el docente no lo registra (Porcaro 2026, Paper VI)
-
-- [[petricini-ai-literacy-communication-equity-2026]] — Alfabetización en IA en un curso básico de comunicación: perspectivas sobre equidad, motivación y reducción de la incertidumbre

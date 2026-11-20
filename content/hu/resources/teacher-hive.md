@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,11 +48,3 @@ A K–12-es pedagógusok, akik [[generative-ai|generatív MI]]-vel építettek e
 A Member és a Builder ingyenes (Builder: 50 alkalmazás, 50 MB); a Pro \$10 havonta vagy \$60 évente 500 alkalmazásért. A hozzáférés freemium.
 
 Az adatvédelem az erősebb állítás, de a felelősséget a pedagógusokra tolja. A Teacher Hive nem hoz létre diákfiókokat, nem kér személyes adatokat a diákoktól, és nem futtat analitikai vagy hirdetési szkripteket a közzétett alkalmazásokban. Mivel az alkalmazások hivatkozással nyilvánosak, a feltételek a pedagógusokat teszik felelőssé azért, hogy alkalmazásaik ne gyűjtsenek neveket, e-mail-címeket, diákazonosítókat vagy tartózkodási helyet. Az akadálymentességi lefedettség (WCAG 2.2 AA) a Teacher Hive saját oldalaira vonatkozik, nem a pedagógusok által készített alkalmazásokra, amelyeket nem teszteltek. Nyílt forráskódú licencet nem ad meg, és a rendelkezésre állásra és az adatmegőrzésre nincs garancia.
-
-## Kapcsolódó fogalmak
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

@@ -41,6 +41,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -201,62 +203,3 @@ KI in der Bildung ist mit jedem Konzept der Wissensbasis verbunden: Sie ist das 
 **„Weil KI allgemein einsetzbar ist, gilt ein Befund von überall überall.“** Die Allgemeinheit der Technologie erzeugt keine Allgemeinheit der Evidenz. Die Stränge zu Disziplin, Stufe und Kontext existieren, weil sich dasselbe Werkzeug über sie hinweg unterschiedlich verhält, und ein unveränderter Befund, der über eine Grenze getragen wird, ist eine Extrapolation.
 
 **„Die Reife des Feldes lässt sich am Publikationsvolumen ablesen.“** Volumen und Reife divergieren; der Strang der Forschungsmethoden dokumentiert wiederkehrende Designschwächen, die das Volumen nicht behebt, und Frameworks vermehren sich schneller, als sie geprüft werden.
-
-## Verbundene Konzepte
-
-- [[primary-education]] — KI in der Grundschulbildung
-- [[secondary-education]] — KI in Mittel- und weiterführenden Schulen
-- [[undergraduate-education]] — KI im grundständigen Studium
-- [[graduate-education]] — KI im Master- und Promotionsstudium
-- [[pedagogical-patterns]] — Pädagogische Muster: die erprobten Sequenzen, die die Methoden des Felds umsetzen
-- [[ai-literacy]] – Überblicksseite: KI verstehen, nutzen und bewerten
-
-- [[automation-bias]] — der Akzeptanzfehler auf Leserseite: ein automatisiertes Urteil annehmen, ohne es zu prüfen
-
-- [[human-ai-collaboration]] – Überblicksseite: wie Menschen und KI zusammenarbeiten
-- [[pedagogy]] – Überblicksseite: Lehrmethoden und Strategien
-
-- [[case-based-learning]] — Fallmethode, Falldiskussion und kontrastierende Fälle
-- [[metaphors-and-analogies]] — wie Metaphern das Verständnis von KI prägen und Analogien den Unterricht stützen
-
-- [[learning-theories]] – Überblicksseite: wie Lernen geschieht
-- [[ai-technologies]] – Überblicksseite: Modelle, Verfahren und Systeme
-- [[discipline-specific-aied]] – Überblicksseite: KI in den Fächern und auf den Bildungsstufen
-- [[assessment]] – Überblicksseite: wie KI Lernende bewertet und Validität verändert
-- [[feedback]] – Überblicksseite: wie Feedback erzeugt, vermittelt und genutzt wird
-- [[stakeholders]] – Überblicksseite: wer die Akteure sind
-- [[learners]] – Überblicksseite: die Konzepte auf der Seite der Lernenden (Erleben, Identität, Handlungsfähigkeit, Interaktion, Lernendenmodelle)
-- [[ai-ed-evaluation]] – Überblicksseite: wie wir wissen, ob KI wirkt
-- [[research-methods-aied]] – Überblicksseite: Methoden der Wirksamkeitsforschung
-- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
-- [[governance]] – Überblicksseite: die institutionelle und regulatorische Ebene
-- [[educational-policy-ai]] – Überblicksseite: Politik, Orientierung und Umsetzung
-- [[equity-in-ai-education]] – Überblicksseite: Fairness, Zugang und Inklusion
-- [[learning-sciences]] – das empirische Feld hinter der AIED
-- [[ethics]] – die ethischen Dimensionen von KI in der Bildung
-- [[misconceptions]] – die mentalen Modelle, mit denen Menschen an KI herangehen
-- [[interpreting-and-applying-aied-research]] – eine Studie lesen und einen Befund in die Praxis übertragen
-- [[limitations-in-aied-research]] – übergreifende Grenzen der Evidenzbasis
-- [[meta-analysis-systematic-review]] – was Reviews und Metaanalysen belegen
-- [[history-of-aied]] – wie sich das Feld entwickelt hat
-- [[philosophy-of-ai-in-education]] – die philosophischen Grundlagen
-- [[theories-and-frameworks]] – die Karte der Theorie- und Rahmenwerk-Knoten
-- [[theory-development-aied]] – Theorie aufbauen und überarbeiten
-
-- [[sensor-and-gaze-analytics]] — Überblicksseite: Lernende über Blick, EEG und Wearables erfassen
-- [[ai-avatars-and-synthetic-instructors]] — Überblicksseite: synthetische Menschen, die lehren, tutorieren, simulieren und bewerten
-- [[civic-and-political-education]] — Fachbereich: Kompetenz für das öffentliche Leben, mit dünner Evidenzbasis
-
-## Verbundene Artikel
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Die Entwicklung der KI-und-Bildung-Forschung über vier Jahrzehnte (AIxEd-Rahmenwerk)
-- [[mishra-control-vs-agency-history-2025]] — Kontrolle vs. Handlungsfähigkeit: eine Geschichte von KI in der Bildung
-- [[genai-higher-education-systematic-review-2026]] — Generative KI in der Hochschulbildung: systematischer Review von 125 Studien
-- [[stanford-evidence-base-ai-k12-2026]] — Die Evidenzbasis zu KI in K-12: ein Review von 818 Papieren
-- [[genai-educational-outcomes-meta-analysis]] — Generative KI und Bildungsergebnisse: umfassende Metaanalyse
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 Sekundarstufenstudien; Zuwächse dort, wo Studierende Ausgaben beurteilen, nicht wo das Werkzeug die Arbeit erzeugt
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 Masterstudierende; Bereitschaft erreichte Selbstwirksamkeit über Unterstützung durch die Betreuung
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Review über 61 Quellen zur Ethik, zum Feedback und zur Governance der Promotionsbetreuung
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Einsgruppen-Graduiertenseminar; Zuwächse beim selbstgesteuerten Lernen ohne unassistierten Test
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 Studierende; Lücke zwischen Grund- und Postgraduiertenstudium bei Ethik und Selbstregulation
-

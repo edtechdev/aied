@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -81,33 +83,3 @@ GBL ও গেমিফিকেশন একসঙ্গে [[educational-robot
 - ক্ষেত্রের আয়তন নয়, নকশার গুণমান বাড়ান; 7% উচ্চ-মানের হারই সেই বাঁধা সীমা যা কী সিদ্ধান্তে পৌঁছানো যাবে তা নির্ধারণ করে।
 
 - **সিমুলেশনে কথোপকথনমূলক ফিডব্যাক জার্মেন ভার বাড়ায়, বাহ্যিক ভার না কমিয়ে।** **234 শিক্ষার্থীর** পাঁচ সপ্তাহের একটি ব্যবসায়িক সিমুলেশন খেলায় GPT-4o-ভিত্তিক ফিডব্যাক চ্যাটবটের নিয়মিত ব্যবহারকারীরা প্রবেশাধিকার থাকা সত্ত্বেও সম্পৃক্ত না হওয়া ব্যবহারকারীদের চেয়ে (β = −.468, p < .001) এবং স্থির-ফিডব্যাক নিয়ন্ত্রণ-দলের চেয়ে (β = −.253, p = .028) **উল্লেখযোগ্যভাবে বেশি জার্মেন জ্ঞানমূলক ভার** রিপোর্ট করেছেন — অথচ **বাহ্যিক ভার কোনো প্রভাব দেখায়নি** কোনো নির্ধারণেই (F(1, 219) = 0.499, p = .481)। দুই ভারই **পাঁচ সপ্তাহজুড়ে কমেছে** (বাহ্যিক β = −.388, p < .001), যা সম্পৃক্ততায় নয়, জ্ঞানমূলক ভারে মাপা একটি নবীনতা-প্রভাব ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ও Liening, 2026]])। নকশার মূল কথা হলো ফিডব্যাকটি 19টি নির্দিষ্ট সূচকে [[personalized-learning|ব্যক্তিগতকরণ]], সংকেতায়ন, বিভাজন ও ফিড-ফরোয়ার্ড গঠন বহন করেছে — কেবল চ্যাটবট-পৃষ্ঠই চিকিৎসা নয়।
-
-## সংযুক্ত ধারণা
-
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — ছাতা-ধারণা: এআই শিক্ষায় শিক্ষাবিদ্যা ও শিক্ষণ-কৌশল
-- [[virtual-and-augmented-reality]] — নিমজ্জিত ও গেমিফায়েড অনুশীলন নকশা ও প্রমাণে অতিব্যাপে
-
-## সংযুক্ত নিবন্ধ
-
-- [[karampa-students-game-designers-ai-literacy-2026]] — প্রাথমিক শিক্ষার্থীরা একটি এস্কেপ বোর্ড-খেলা নকশা করে; একটি ই-কোর্স ল্যাবেই এআই-সাক্ষরতা বাড়ে
-- [[ai-game-based-learning-systematic-review-2026]] — 55টি এআই-সমর্থিত খেলা-ভিত্তিক শিখন গবেষণার পদ্ধতিগত পর্যালোচনা: ইতিবাচক ফলাফল, পাতলা প্রমাণভিত্তি
-
-- [[game-based-gamified-robotics-education-review-2026]] — খেলা-ভিত্তিক ও গেমিফায়েড রোবোটিক্স শিক্ষা
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — শিক্ষায় রোবোটিক্স ও এআই
-- [[genai-motivation-engagement-2026]] — উৎপাদনশীল এআই, প্রেরণা ও সম্পৃক্ততা
-- [[nasa-tlx-workload-gamified-ai-2026]] — গেমিফায়েড/এআই শর্তে NASA-TLX কাজের ভার
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS প্রেরণা ও এআই-সমর্থিত গেমিফিকেশন
-- [[xie-genai-mystery-game-legal-education-2026]] — আইন শিক্ষায় বক্তৃতার বিপরীতে GenAI-লিখিত রহস্য-ভূমিকা-অভিনয় খেলা (Xie প্রমুখ 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — গণনামূলক চিন্তার জন্য একটি এআই-উন্নত খেলা-ভিত্তিক শিখন পরিবেশের নকশা ও প্রাথমিক যাচাই

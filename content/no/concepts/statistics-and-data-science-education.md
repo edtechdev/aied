@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
@@ -81,26 +83,3 @@ Kvaliteten på stillaset betyr noe uavhengig av tilgang. En eksperimentell samme
 - **«Tilfredshet og opplevd utbytte viser at et datavitenskaps-AI-verktøy virker.»** Elevene brukte LLM-er mye til feilsøking og begrepsspørsmål og **rapporterte høy tilfredshet, mens deres opplevde dybdelæringsutbytte falt gjennom semesteret**. Tilfredsheten holdt seg og den selvvurderte læringskurven falt, så ingen av tallene er utfallet alene.
 - **«En ubegrenset modell er like god som en veiledet veileder.»** Gevinsten kom fra opplæring i stillasbygging — eksplisitt instruksjon i trinnvise hint og verifisering — som slo ren tilgang til samme modell på uavhengig prestasjon og på kalibrering av selvvurdering. Veiledningen, og opplæringen i hvordan man bruker den, bar effekten.
 - **«Det er nok å verne mot at modellen gir svaret.»** En formålsbygget veileder pakket rundt et hostet API, med systemprompt om å **lede snarere enn å svare**, ble tatt i bruk i et semesterlangt R-kurs for psykologistudenter på bachelornivå, der **76 % til 84 %** av studentene brukte den i eksamensrelevante uker. Det er adopsjon, ikke bevis for at vernet produserte læring: vern på promptnivå er ett av flere håndtak og produserer ikke i seg selv læring.
-
-## Tilknyttede begrep
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Tilknyttede artikler
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentisk verktøy som genererer inspiserbare syntetiske datasett for tilpasset statistikkøving
-- [[ai-tutor-statistical-programming-adoption-2026]] — Formålsbygget R-veileder; adopsjonen fulgte eksamenskalenderen
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-ens vanskelighetsetiketter følger Blooms nivåer, ikke elevprestasjoner
-- [[tactile-statistical-graphs-accessibility]] — Åpen kildekode-pipeline som genererer taktile statistiske diagrammer med lærerkontroll
-- [[guided-llm-scaffolding-independent-learning]] — Veiledet stillasbygging slo ubegrenset tilgang på uavhengig prestasjon
-- [[lund-socially-accountable-data-science-xai-2026]] — Å forankre samfunnsansvar i det tekniske datavitenskapspensumet

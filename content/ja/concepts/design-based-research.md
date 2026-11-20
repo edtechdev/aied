@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -78,30 +80,3 @@ DBR は[[learning-sciences|学習科学]]——学習と学習環境のデザイ
 **「DBR が機能する成果物を生むなら、それは有効性を実証したことになる」** それを共同で生み出した現場で機能するデザインは、地域的な実現可能性を示したにすぎず、それは有効性とは別の主張です。成果物はその文脈のために行われた適応を抱えており、それを移転することは、仮定として述べられなかった仮定を移転することになります。
 
 **「道具を改訂可能なデザイン成果物として扱うことは、DBR からの逸脱である」** それは DBR の反復的な性格を、介入ではなく測定に適用したものです。このコーパスの一つの研究はルーブリックそのものを成果物として扱い、[[llm|LLM]]との共同洗練を繰り返しました。この拡張は、道具自身の発達をエビデンスの一部にするため、注目に値します。
-
-## 関連する概念
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## 関連する記事
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI 支援型協調学習モデルのための DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 教師教育における AI リテラシー研修のための DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — 教員の技術統合標準のための DBR
-- [[human-centered-ai-teacher-educators-2026]] — 教師教育者のための人間中心 AI（DBR）
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 放送大学で AIDA を実装した 6 件の DBR 研究
-- [[critical-thinking-genai-scaffolding]] — 生成 AI による批判的思考のスキャフォールディングのための DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — 科学統合型 AI リテラシーカリキュラムのための DBR（Moore ら 2026）
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI（PL-AI）：未就学児および幼稚園向けの遊び中心の AI リテラシーカリキュラム（Lee 2026）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教授上のデザインの担い手としての LLM

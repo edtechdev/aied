@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -100,31 +102,3 @@ La plupart des études ici sont petites, [[self-report-measures|auto-déclarées
 - **Les deux littératies sont une seule compétence sous deux noms.** Leurs objets diffèrent — la crédibilité de la source contre la paternité et l'intention — si bien qu'une grille unique n'évalue bien ni l'une ni l'autre.
 - **Repérer l'IA immunise contre elle.** Dans l'expérience de persuasion la plus solide examinée ici, la détection était élevée et le déplacement vers la position de l'IA augmentait encore.
 - **La compétence des bibliothécaires se transfère à la littératie en IA.** Le déficit de personnel apparaît dans la conception des objectifs (M = 2.70) et l'évaluation des résultats (M = 2.62), non dans l'usage des outils.
-
-## Concepts liés
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Articles liés
-
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — La revue iRAISE sur quatre pays : 84 des 194 États inscrivent la littératie médiatique et informationnelle au-delà des compétences techniques dans les curriculums, et des facteurs humains ont décidé des résultats dans les quatre systèmes (Cerioli, 2026)
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Cartographier l'intégration de la littératie en IA dans l'enseignement de la littératie informationnelle dans les bibliothèques universitaires : une revue systématique de la recherche émergente
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Comment l'intelligence artificielle remodèle la littératie informationnelle dans les bibliothèques universitaires : une analyse scientométrique mondiale (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — L'intelligence artificielle (IA) et la recherche d'information : une exploration comparative des chatbots d'IA, des moteurs de recherche et des ressources des bibliothèques comme sources d'information chez les étudiants universitaires
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Développer une plateforme d'apprentissage par séminaire assistée par l'IA avec un soutien intégré de bibliothécaire
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — La littératie informationnelle par la pédagogie ouverte : quel est le rôle des outils d'IA ?
-- [[huang-genai-academic-information-resources-2026]] — L'IA générative remodèle l'utilisation durable des ressources d'information académiques par les étudiants universitaires
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — L'engagement des étudiants par les bibliothécaires universitaires pour promouvoir la littératie informationnelle et l'enseignement de l'intelligence artificielle dans les institutions tertiaires nigérianes
-- [[offem-ai-information-literacy-library-users-2026]] — L'intelligence artificielle comme outil de promotion de la littératie informationnelle auprès des usagers des bibliothèques
-- [[critical-media-literacy-education-2026]] — Technologie, éducation et littératie médiatique critique : potentiel, défis et opportunités
-- [[demir-akar-ai-media-literacy-children-2026]] — Transformer les clics en pensée critique : un programme de littératie médiatique basé sur l'IA pour les enfants
-- [[ai-literacies-young-adults-2025]] — Soutenir les littératies en IA des jeunes adultes de 14 à 19 ans
-- [[salvi-conversational-persuasiveness-gpt4-2025]] — GPT-4 personnalisé a battu des débatteurs humains ; la détection n'a pas inoculé (Salvi et al. 2025)

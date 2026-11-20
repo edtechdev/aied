@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -102,71 +104,3 @@ Ihmisen ja tekoälyn yhteistyö kytkeytyy [[human-in-the-loop-ai|ihmisen valvont
 - **"Yhteistyö tarkoittaa, että tekoäly tekee osan työstä."** **Oppija säilyttää päättävän roolin**, ja tämä skaalautuu kirjoittamiseen: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ja Connell Pensky (2025)]] osoittavat sen pitävän, kun järjestely on suunniteltu sitä varten. Työnjako ei ole yhteistyötä, ellei ihminen säilytä harkintaa.
 - **"Tekoäly selittää käännetyssä järjestelyssä."** **Tekoälyä opettaneet opiskelijat selittivät paremmin** — käänteisen luokkahuoneen määrittely **M = 4,18 vastaan 3,29**, opetusaktiviteetit **M = 4,91 vastaan 3,06, molemmat p < 0,001**. Oppiminen kertyi selittäjälle.
 - **"Ihmisen ja tekoälyn panokset ovat toistensa korvaajia."** Kaksi vuoden 2026 tutkimusta kartoittavat luokkahuoneyhteistyön **täydentäviä puolikkaita**, mikä kehystää suunnitteluongelman allokaationa eikä korvaamisena.
-
-## Liittyvät käsitteet
-
-- [[pedagogical-partnerships]] — Pedagogiset kumppanuudet
-- [[community-of-inquiry]] — Community of Inquiry (läsnäolot ihmisen ja GenAI:n sosiomateriaalisina saavutuksina)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Kemian opetus ja tekoäly: laboratoriot, formatiivinen arviointi, LLM:ien rajat, kokeellisuuden filosofia
-- [[biology-education]] — Biologian opetus ja tekoäly: laboratorio-opetusassistentit, tekoälylukutaito biologiassa, kriittinen ajattelu, erikoistuneet työkalut
-- [[human-in-the-loop-ai]] — valvonta
-- [[agentic-ai]] — autonomia
-- [[productive-failure]]
-
-## Liittyvät artikkelit
-
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Kolme agenttiroolia narratiivisessa tiedepelissä ja se, minkä arviointikriteerin kukin tarvitsee (Humburg et al. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Parityö GenAI-moniagenttijärjestelmän kanssa voitti suunnitteluprojektin, kun taas kriittisen ajattelun tietoisuus nousi vain yksin työskennelleillä (Chu et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Moniagenttiväittely, jossa suosikkivastaus pidätettiin, leikkasi väärään tekoälyneuvoon siirtymistä, muttei korjaavasti
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: yhteistyökompetenssi toimialan, tekoälyn ja metakognitiivisen kompetenssin dynaamisena konfiguraationa, jossa oppijan toimijuus on emergentti (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Toisen asteen opettajat suunnittelevat luokkahuonechatbotteja rajattuina asiantuntijoina ihmisen valvonnassa
-- [[ai-integration-instructional-design-collaboratory-2026]] — Kaksitoista opettajankoulutuksen kurssitoteutusta kohtelee tekoälyn integrointia opetussuunnittelun ongelmana
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: ensimmäinen RCT ihmisen ja tekoälyn asiantuntemuksen skaalaamisesta noviisitutoreille
-- [[think-first-chatgpt-later-2026]] — Ajattele ensin, ChatGPT myöhemmin: itsenäinen inhimillinen luovuus
-- [[principal-trait-analysis-human-ai-skills-2026]] — Datavetoiset ihmisen ja tekoälyn yhteistyön "piirteet"
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Opettaja–tekoäly-vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälyosaamisen mukaan (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Suunnittelijat käyttävät upotettua chatbottia tavoitteiden ja pedagogiikan linjaustarkistuksiin, eivät sisällöntuotantoon
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Korvaamisesta tukemiseen: itsensä vahvistavan haittakierteen katkaiseminen
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generatiivinen tekoäly välittävänä agenttina
-- [[conversational-ai-agents-umbrella-review-2026]] — Kattokatsaus keskustelevan tekoälyn agenteista koulutuksessa
-- [[ai-overreliance-complex-adaptive-system-2026]] — Tekoälyyn liiallinen nojautuminen kompleksisena adaptiivisena järjestelmänä mallinnettuna
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Rooliadaptiivinen tekoälykumppani alakoulun kirjakeskusteluun; kiinteäroolisten agenttien affektiivinen katto (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: suuntaukset ja näkökulmat (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriyttävissä ryhmäaktiviteeteissa (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI agenttina ja yhteistyötilana pienryhmädynamiikassa (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Tukemiseen suuntautuvan moniagenttisen suuren kielimallin järjestelmän arviointi kliinisen haastattelun koulutuksessa
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Etiikkakoulutuksen agentit: ryhmäpohjaisen etiikkaopetuksen fasilitointi roolileikillä ja keskustelulla eettisen reflektion ja tutkimisen tueksi
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automaatio, täydentäminen ja yhteistyö tehtävänannon jatkumona
-- [[bounded-reliance-ai-writing-feedback-2026]] — Rajattu nojautuminen: lähdeuskottavuuden näkökulma EFL-opiskelijoiden sitoutumiseen tekoälyn tuottamaan kirjoituspalautteeseen
-- [[human-ai-collaboration-academic-writing-2026]] — Viisiosainen jäsennelty EFL-kirjoitustyönkulku; varmentamis- ja vastuullisen käytön rutiinit ajoivat parityöskentelyn ja digitaalisen kriittisen ajattelun kasvua
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Roolien kääntö: opiskelijat opettavat GAI-noviisioppijaa ja päihittävät vertaiset, jotka kysyvät GAI-opettajalta
-- [[iqbal-human-genai-support-essay-revision-2026]] — Tuen tyyppi muovasi muokkausstrategioita ja pisteitä, mutta mikään strategia ei ennustanut hyötyä; GenAI-hyödyt voivat olla tehtäväkohtaisia
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Ihmis- ja tekoälyväittelymoderaattorit arvioitiin samanarvoisiksi; hyödyllisyys ja tyytyväisyys ajavat uudelleenkäyttöä eri tavoin
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Oppituntitutkimus rakentaa opettajankouluttajien kapasiteettia suunnitella dialogista tekoälysitoutumista; kehoitetekniikka pedagogisena ajatteluna
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Viisi opiskelijan ja GenAI:n lomittumistyyppiä ja se, miksi tekijyyttä jakavat muodot pysyvät marginaalisina (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Opettajan ja tekoälyn yhteistyön vastakkaiset polut työhön sitoutumiseen psykologisen saatavuuden ja työn vieraantumisen kautta, digitaalisen osaamisen rajaamina
-- [[wang-agentic-translation-education-2026]] — Suunnitteluprotokolla, joka ohjaa kääntäjäkoulutusta kohti tekoälyn orkestrointia, strategista harkintaa ja kriittisen arvioinnin kompetensseja (ei vielä empiiristä dataa)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Affektiivinen hälytys on vihje, jota opettaja tulkitsee, ei käsky, jota totella
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Tekijyyden legitimaatiovaje ihmisen ja tekoälyn yhteisluomisessa

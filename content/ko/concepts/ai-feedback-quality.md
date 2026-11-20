@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -126,71 +128,3 @@ AI 피드백 품질은 근본적으로 [[formative-assessment]]와 [[feedback|�
 - **"피드백의 효과는 미미하다."** **53개 연구 메타분석**에서 생성형 AI 피드백은 **연구에서 가장 큰 효과(g = 1.27)**를 냈고, 이는 전체 생성형 AI 효과인 **g = 0.40**과 대비됩니다. 피드백은 측정된 가장 강력한 메커니즘이며, 이는 일반적인 낙관론 논쟁과는 다른 그림입니다.
 - **"피드백이 개입의 전부다."** 통제된 비교는 그 요소를 분리합니다. 동일한 진단 [[intelligent-tutoring|튜터링]] 시스템에서 **피드백 요소**를 받은 학습자는 측정 가능한 차이를 보였습니다. 피드백을 적응 시스템과 분리하는 것이 이 주장을 귀인 가능하게 만듭니다.
 - **접근과 관여는 서로 다른 개입입니다.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]]는 5주간의 경영 시뮬레이션에서 **학생 234명과 주간 관찰 1,147건**을 통해 둘을 분리했습니다. [[conversational-ai|대화형 AI]] 피드백 배정은 유의미한 인지 부하(β = .019, p = .807)나 외재적 부하(β = .071, p = .481)에 **아무 효과도** 내지 않았습니다. **실제 규칙적 사용**은 실험 비사용자보다(β = −.468, p < .001) 그리고 통제 집단보다(β = −.253, p = .028) 유의미하게 높은 유의미 부하와 연관되었으나, **불규칙적 사용은 규칙적 사용과 구분되지 않았습니다**(p = .116). 따라서 의도 대비 분석에 기반한 품질 판단은 수용이 부분적인 피드백 개입을 과소평가하게 되며, 만족이나 접근 지표는 관여 데이터를 대체할 수 없습니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 품질이 수정을 예측하지 않는다: AI 피드백을 사용 가능하게 만드는 순서들
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## 연결된 문서
-
-- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — 검토자 지원: 조교가 AI 제안의 51.3%를 채택하고 판단의 11.3%를 교정했다(Lu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — 약한 특성 이름 붙이기는 에세이 인용이 아니다: 증거 앵커가 유효 증거를 0에서 0.912로 높였다(Xin 2026)
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — 더 긴 LLM 힌트는 즉각적 결과를 나쁘게 예측했고, 형식은 시도 수를 줄이는 대신 재제출을 늦췄다
-- [[wu-lam-genai-writing-assessment-professors-2026]] — AI 피드백 품질에 대한 교수들의 평가: 기본적으로 칭찬 일변도이고, 길고, 모호하며, 다듬는 데 오래 걸린다
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51개 연구 가운데 프롬프트를 보고한 것은 27개뿐이며, 16개 실험에는 통제 집단이 없었다
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 증거에 근거한 AI 생성 교육 피드백 틀
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 손글씨 수학 시험에서의 LLM 피드백과 수행
-
-- [[liu-educational-sycophancy-2026]] — 정확성은 상호작용에 의존합니다: 밀어붙이는 말에 12.7퍼센트가 뒤집힘(Liu & Korolova 2026)
-
-- [[ai-feedback-violin-intonation-2026]] — 2,208개의 기계 측정 피치 편차에 대해 검사된 억양에 대한 AI 피드백 (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: 논증적 에세이를 위한 모듈화된 자동 쓰기 평가 시스템
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT 영상 내 논평 평가: 언어적, 의미적, 지각적 품질 (Wang, Du & Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — 연습 편지에서 인간 편집자를 넘어선 AI 쓰기 피드백 (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: 교육자가 순환에 참여하는 LLM 피드백 생성 (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM 강의 관찰 피드백의 신뢰성과 한계 (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — 학습자 중심의 AI 피드백에 대한 교수자의 실행과 인식 (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — 고등교육에서 AI가 생성한 피드백
-- [[teaching-feedback-classification-benchmark]] — 교수 피드백 분류 벤치마크
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI 기반 협력 피드백
-- [[cong-confidence-asag-2026]] — 확신도를 반영한 단답형 채점
-- [[choi-anchor-aes-prompting-2025]] — 기준점 기반 자동 에세이 채점 프롬프팅
-- [[ai-assistance-discretionary-feedback]] — 재량적 피드백을 위한 AI 지원
-- [[sequenced-ai-feedback-learning]] — 순차적 AI 피드백과 학습
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 아첨은 교육 안전의 위험이다: LLM 튜터에 아첨 벤치마크가 필요한 이유
-- [[contextual-sycophancy-ai-literacy]] — 상황적 아첨의 숨은 대가: AI 리터러시 개입
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 표식화된 교수법: 자동 쓰기 피드백에 나타난 편향
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI 피드백 품질의 예측 변수로서의 프롬프트 엔지니어링과 모델 선택 (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — 동일한 GPT-4 피드백에 대한 무작위 출처 표시: 교사는 AI 귀속 피드백을 할인한다 (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — 동료 평가에서 동료 집단과 AI 생성 피드백의 비교 분석: 고등교육에서의 피드백 질과 학생 인식에 관한 통찰
-- [[ai-assisted-physics-lab-report-assessment-2026]] — 실험 물리학 실험 보고서의 AI 지원 평가: 가능성, 한계, 그리고 교수 실행에 대한 지원
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에 대한 LLM 생성 피드백에서의 피드백 초점과 교수적 적응성 평가
-- [[risk-adaptive-genai-feedback-programming-2026]] — 프로그래밍 교육에서 생성형 AI 피드백을 위한 위험 적응형·증거 제약형 틀
-- [[real-time-ai-feedback-technical-skills-2026]] — 실시간 튜터에서 모국어로 된 "명확히 하기" 설명과 비계화된 넛지: 동기적 피드백을 사용 가능하게 만드는 요소 (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 교사 피드백 대 AI 지원 동료 피드백: 권위 있는 오류 수정은 줄고 안정적 초점은 유지되며, 학생이 각각을 어떻게 사용하는지 (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — 동일한 피드백에 대한 맹검 후 공개 출처 표시: 학생은 AI로 표시된 피드백을 더 낮게 평가하고 낮게 평가된 인간 피드백을 AI로 읽음
-- [[intelligent-tutoring-mathematics-education-review-2026]] — 수학 교육에서의 AI 튜터링에 관한 서술적 고찰: 실시간 피드백의 이득과 도입 조건
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 소크라테스식 대 지시형 피드백 양식: 우선순위화 대 이해 점검, 그리고 인지 부하의 대가
-- [[when-students-prefer-ai-scoring-feedback-2026]] — 학생이 인식한 AI 피드백 질: 이해는 되나 반복적이며, 해석보다는 형식 측면에서 신뢰함
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG로 생성된 튜터 훈련 강의는 피드백이 존재할 때 인간이 만든 강의와 맞먹었으며, 인간의 우세는 피드백이 없을 때만 나타났다
-
-- [[kim-ai-simbot-nursing-communication-2026]] — AI 기반 시뮬레이션: AI SimBot으로 간호 의사소통 기술을 향상시키는 기술 활용

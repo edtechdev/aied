@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -89,30 +91,3 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 **«No usar la IA indica falta de acceso.»** Entre quienes no la usan, el motivo declarado suele ser una elección educativa positiva —querer hacer el trabajo por sí mismos— y no una barrera. Leer el no uso como un déficit describe mal una posición que, en la evidencia sobre la [[student-experience|experiencia del estudiantado]], está razonada.
 
 **«La autodirección significa trabajar solo.»** Significa ser dueño de la dirección, lo que puede ejercerse en un entorno muy apoyado. El rasgo distintivo es quién fija y ajusta el objetivo, no si hay ayuda disponible.
-
-## Conceptos conectados
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## Artículos conectados
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — Uso autodirigido de IA generativa y desarrollo académico entre estudiantes de secundaria: un estudio longitudinal a gran escala de un año
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Uso irreflexivo de IA generativa y aprendizaje autodirigido (SEM, diferencias de género)
-- [[ai-lifelong-learning-policy]] — La IA y las políticas de aprendizaje a lo largo de la vida
-- [[self-directed-growth-generative-ai-learning-analytics]] — Crecimiento autodirigido con IA generativa y analítica del aprendizaje
-- [[genai-educational-outcomes-meta-analysis]] — Metaanálisis de los resultados educativos de la IA generativa
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogía y delegación cognitiva con IA generativa
-- [[kim-ai-andragogy-2026]] — Aplicaciones de la IA en el apoyo a la andragogía (Kim et al. 2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — Los modelos no seleccionan objetivos de aprendizaje como las personas en una tarea de elección libre (Molinaro et al. 2026)

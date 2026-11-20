@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
+connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -56,7 +58,6 @@ ai_assist:
 
 **توجد تدقيقات على متعلّمين حقيقيين، ويمكنها دعم ادعاءات تقاطعية.** حلّل [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] سجلّات MATHia على مدى سنتين من 8,549 طالبًا ووجدوا دليلًا لا تستطيع تدقيقات الشخصيات المحاكاة تقديمه: فجوة معدل أساسي للقارئ الناشئ مقدارها .1007 داخل الطالبات في 2021–2022، وفروق بلغت .0926 داخل الطلاب من أصل لاتيني في 2022–2023، و8 من 12 إحصاءة للعرق×مجموعة القراءة دالةً بين غير القرّاء الناشئين مقابل 1 من 12 فقط بين القرّاء الناشئين.
 
-
 **قد لا تتعمَّم إصلاحات الإنصاف.** فقد قلّل [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] فجواتِ الخطأ المستهدفة جندريًا وعُمريًا في تقدير انتباه الطلاب على بيانات [[assessment-validity|التحقق]]، لكن المكاسب لم تنتقل بثبات إلى مواد محجوزة للاختبار ولا إلى تقسيمات متكررة على مستوى المادة.
 
 **تُخفي تسميات المجموعات التباين داخلها.** ففي التحليل البَعدي نفسه عن الإعاقة، أظهر الطلاب ذوو صعوبات التعلّم النوعية، أو الإعاقات الذهنية والنمائية، أو الصمّ أثرًا أكبر (g = 0.952) من الطلاب ذوي اضطراب طيف التوحّد (g = 0.368) — وهو فرق يُبلّغ عنه المؤلفون بأنه غير دالٍّ إحصائيًا عبر 239 حجم أثر من 41 عيّنة مستقلة. فـ«الإعاقة» ليست مجموعة واحدة، وكذلك «متعلّم اللغة الثانية».
@@ -72,7 +73,6 @@ ai_assist:
 - **قد تُقصي خياراتُ التصميم معرفيًا أيضًا.** فـ[[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] يرى أن بيانات التدريب الأنجلوفونية والمتمركزة غربيًا تُقصي طرائق المعرفة غير المهيمنة وتضع حالة المتعلّمين من ذوي الإعاقة في قلب ذلك النقد.
 
 - **«عند الدرجة البشرية نفسها، يعامل المصحِّح الطلاب المعرَّفين وغير المعرَّفين على حدّ سواء.»** عبر **3,000** مقال من ASAP 2.0 مُطابَقة تمامًا على الدرجة المُحكَّمة، صنّف **كل واحد من النماذج الـ22** مجموعةَ ذوي الإعاقة المعرَّفة أدنى، من **−0.086** إلى **−0.429** على سلّم من ست نقاط، وقرأ **20** منها GAP REPLICATES. ولم تفسّر أخطاء الأعراف والطول أكثر من خُمس ذلك في **17 من 20** نموذجًا، ولأن ASAP 2.0 يُصدر درجة واحدة، لا يستطيع التصميم فصل تحيّز تتقاسمه اللجنة البشرية عن تحيّز تتقاسمه النماذج ([[porcaro-ai-grading-benchmark-2026|القراءة هي SHARED GAP، لا تحيّز النموذج]]).
-
 
 ## اللغة: متعلّمو اللغة الثانية وتعدد اللغات والإنجليزية
 
@@ -129,7 +129,6 @@ ai_assist:
 
 - **«سياق المتعلّم يجعل المصحِّح أعدل.»** وجد اختبار استئصال على **3,000** مقال يصحّحها نموذجان أن فجوة تسمية المرتفع–المنخفض هي نفسها في كل مجموعة أمكن اختبارها، وكل فرق في حدود **0.045** من مستوى. وعلى Qwen كانت التسمية المنخفضة لا تزال تأخذ **0.06 إلى 0.08 نقطة** أكثر من متعلّمي الإنجليزية والطلاب المحرومين اقتصاديًا وذوي الإعاقة المعرَّفة، مقارنةً بأقرانهم. ودون تسمية، ظل النموذجان يُصنّفان المجموعتين الأخيرتين أدنى من أقرانهما عند درجة بشرية متساوية ([[porcaro-ai-grader-reliability-2026|فالسجل الذي يمكن أن يخطئ يُزيح الدرجات، ويُزيحها بأشدّ ما يكون على من سبق أن بُخِسوا]]).
 
-
 ## استخدام هذه الأدلة دون إفراط في ملاءمة تسمية مجموعة
 
 - **تعامل مع متوسطات المجموعات كفرضيات عن جماعة، لا كتنبؤات بشخص.** فكل ادّعاء تفاضلي أعلاه عبارةٌ توزيعية.
@@ -140,61 +139,8 @@ ai_assist:
 
 - **المتغيّر التجميعي ذو أقوى دليل عملية مباشر معرفي لا ديموغرافي.** طابق [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] المجموعات على [[prior-knowledge|المعرفة السابقة]] (U = 293.50, p = 0.515) ووجد مع ذلك أن طريقة استدلال المتعلّمين شكّلت ما حدث. فثماني مجموعات ذات تصوّرات مسبقة مختلفة وست ذات تصوّرات متشابهة طرحت الأنواع نفسها من الأسئلة، ومع ذلك عمل الذكاء الاصطناعي مركزَ تكامل في المجموعات المتنوعة ووقف على مسار خطّي في المتشابهة، مع تقويم مستدام متعاكس. وهذا يستند إلى أربع عشرة مجموعة في مهمة واحدة مدّتها 60 دقيقة، فخذه فرضيةً عن كيفية تركيب المجموعات لا قاعدة.
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«تسميات المجموعات تلتقط التباين المهم.»** **تسميات المجموعات تخفي التباين داخلها**: ففي التحليل البَعدي للإعاقة تُجمَّع معًا فئاتُ صعوبات التعلّم النوعية، والإعاقات الذهنية والنمائية، وغيرها، فمتوسط المجموعة لا يصف أيًّا منها.
 - **«تحليلات المجموعات الفرعية تجيب عن سؤال الآثار التفاضلية.»** إنها **أصغر في الغالب من أن تجيب عنه**: فـ[[ai-tutoring-micro-rct-gcse-science-2026|التجربة العشوائية المضبوطة المجهرية لعلوم GCSE]] صريحة على غير المعتاد في أن مقارنة **المعاملة** مصمّمة بقوة إحصائية للأثر الإجمالي لا لفروق المجموعات الفرعية. فالنتيجة الفرعية ناقصة القوة الإحصائية فرضية لا نتيجة.
 - **«الأثر المجمّع المتوسط يخبرك ما إذا كانت مجموعة معيّنة تستفيد.»** [[zhang-ai-students-disabilities-meta-analysis-2024|29 دراسة (شبه) تجريبية]] مجمّعة إلى **g لهدجز = 0.588 (فاصل ثقة 95% [0.349, 0.826])** عبر فئات الإعاقة. والفاصل يصف المتوسط فوق تلك الفئات، و«أي مجموعة، وأي حاجة» تحليل منفصل.
-
-## المفاهيم المتصلة
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[digital-divide]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[special-education]]
-- [[multilingual-learning]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[assistive-technology]]
-- [[global-south]]
-- [[personalized-learning]]
-- [[learners]]
-- [[learner-identity]]
-- [[interpreting-and-applying-aied-research]]
-
-## المقالات المتصلة
-
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 دراسة على الذكاء الاصطناعي للطلاب ذوي الإعاقات: g = 0.588، وg = 0.269 بعد تعديل التحيّز
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — انتفع ChatGPT بطلاب العلوم والتقنية والهندسة والرياضيات وغيرهم انتفاءً غير متكافئ في التعلّم متعدد التخصصات
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — استخدام الذكاء الاصطناعي التوليدي والانخراط على أربعة خطوط بين طلاب دوليين من أقليات إثنية
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — من 766 سجلًا إلى 40 دراسة، 15 منها على الذكاء الاصطناعي التوليدي
-- [[adhd-video-segmentation-computing-education]] — تغييرٌ في تصميم عام أوصل مشاركي ADHD إلى المساواة
-- [[neurodivergent-computing-students]] — 24 طالبًا من ذوي التنوّع العصبي بشأن البنية والالتباس والتعاون
-- [[genai-minoritized-knowledges-disability]] — التهميش المعرفي في الذكاء الاصطناعي، بالإعاقة كمثال
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 مع I² = 84.4% في قاعدة أدلة صغيرة للغة الثانية
-- [[structural-silence-underrepresented-language-ai-2026]] — أقل من 0.5% من محتوى الويب للبنغالية مقابل 49.5% للإنجليزية
-- [[hadra-ai-detector-accuracy-efl-2026]] — أدوات الكشف تُصنّف كتابة الإنجليزية كلغة أجنبية تصنيفًا خاطئًا بينما تُقيّم النصوص المهنية إتقانًا
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — اختبارٌ على 195 طالبًا لنماذج مُرمَّزة أنثويًا دون فرق بين الجنسين
-- [[gender-bias-transfer-llm-writing]] — مطالبات متحيّزة جندريًا تنتقل إلى مقالات الطلاب
-- [[all-girls-genai-makerspace-gender-equity-2026]] — مساحةٌ أحادية الجنس مُقدَّرة، مع تحذير من التأنيث
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — إنصاف المدرّسين يتباين بحسب النموذج والمجال وبُعد السلوك
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — تغذية راجعة مُواءَمة مع الصور النمطية على مقالات متماثلة
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 نداءً: الشخصيات الصريحة والتواريخ الضمنية تُحرّكان النماذج معًا
-- [[student-attention-estimation-fairness-2026]] — تسويةُ إنصاف لم تتعمَّم
-- [[ai-divide-ses-personality-primary-education-2026]] — 4,497 طالبًا: ثقافة الحوسبة الرقمية، لا استخدام الذكاء الاصطناعي، هي ما يتوسّط الفجوة
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — مشاركةٌ ريفية لم تتعافَ قطّ، والإرشاد كقيد
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — تفاعلُ مجموعة فرعية يتقاطع فاصلُ ثقته مع الصفر
-- [[student-ai-inquiry-types-cs2-2026]] — اكتشافُ الاستخدام الوحيد لطلاب الجيل الأول في المجموع
-- [[international-students-conversational-ai-adaptation]] — الدراسةُ الوحيدة على الطلاب الدوليين في المجموع
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — أول تقدير أثر لطلاب الجيل الأول في المجموع: كلّفهم الوصولُ إلى المدرّس 0.50 انحرافًا معياريًا من الدرجة النهائية مقابل 0.22 لأقرانهم (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — متغيّر تجميعي معرفي بدليل عملية مباشر: مجموعات مُطابَقة على المعرفة السابقة لكنها مختلفة في تنوّع التصوّرات المسبقة تلقّت الذكاء الاصطناعي نفسه تلقّيًا مختلفًا (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — ما بعد الاتفاق: 22 مصحّحًا موجَّهًا يواجهون فحوصًا إجابتها الصحيحة معلومة، ومعظمهم يمكن إقناعه برفع الدرجة (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — سياق المتعلّم يغيّر درجات مصحِّح لغوي على العمل نفسه، والاتفاق مع المعلّم لا يسجّل ذلك (Porcaro 2026، الورقة VI)
-

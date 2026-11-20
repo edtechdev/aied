@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -53,7 +55,6 @@ Pembelajaran sosial-emosional berkaitan erat dengan, tetapi berbeda dari, kecerd
 - **Defisit kebijakan dalam AI × SEL:** Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] atas 65 makalah di persimpangan AI–SEL ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) menemukan "defisit kebijakan" yang substansial: hampir tiga perempat studi tidak menyatakan implikasi kebijakan, dan sedikit yang menyatakannya sering kali tidak memiliki panduan spesifik per aktor. Tinjauan itu mengaitkan keterlibatan kebijakan dengan tempat publikasi dan memperingatkan adanya jebakan "solusionisme teknis" yang mengedepankan potensi teknis sementara kondisi institusional untuk penerapan yang bertanggung jawab tetap kurang dirumuskan. Ia mengusulkan kerangka "pertanyaan-WH" (Siapa, Apa, Mengapa, Kapan/Di mana, Bagaimana) untuk bergerak dari "implikasi-sebagai-tambahan" ke "implikasi-sebagai-metodologi", menghubungkan inovasi [[ai-education|AI-untuk-SEL]] dengan [[educational-policy-ai|kebijakan pendidikan]] dan [[governance]].
 
 - **Tinjauan pemetaan 43 studi tentang AI generatif dan SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] mengkode 43 studi di enam domain SEL dan menemukan kompetensi kognitif pada 24 studi, identitas pada 15, sosial pada 14, dan emosi pada 7, sementara nilai (4) dan perspektif (3) tergolong marginal. Sembilan belas afordansi terklaster menjadi tujuh genre; 38 dari 43 studi hanya memenuhi tingkat transparansi terendah. Inventaris ini menunjukkan di mana bukti SEL melimpah dan di mana pelaporan etisnya tipis.
-
 
 ## Subtema potensial SEL dalam penelitian era AI
 
@@ -112,42 +113,3 @@ SEL terhubung ke [[ai-literacy]] (sebagai pelengkap yang membuat literasi AI ber
 **"Ketekunan rendah adalah masalah motivasi yang bisa diperbaiki dengan dorongan."** Ketekunan adalah kendala berulang dalam teknologi pendidikan — pola yang dinamai [[framing-5-percent-problem-teachers-persistence|masalah 5%]] — dan ia dibentuk oleh motivasi dan penerimaan, hambatan kognitif, *dan* ketahanan di bawah tantangan. Dorongan menangani satu dari tiga. Siswa yang berhenti karena soal melampaui memori kerjanya tidak kekurangan kata penyemangat.
 
 **"Mengetahui AI tersedia tidak mengubah cara siswa menginvestasikan upaya."** Ia bisa mengubahnya, dan efeknya berjalan ke arah yang salah bagi siswa paling lemah: [[ai-availability-student-motivation|ketersediaan AI]] dapat menurunkan nilai yang dirasakan dari keterlibatan yang menuntut upaya, terutama bagi pemula. Ketersediaan semata adalah intervensi motivasional bertanda negatif; itulah sebabnya desain yang berdekatan dengan SEL tidak dapat memperlakukan kehadiran sistem yang membantu sebagai netral.
-
-## Konsep terkait
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Artikel terkait
-
-- [[liu-genai-sel-mapping-review-2026]] — Tinjauan pemetaan 43 studi tentang AI generatif dan SEL: cakupan kompetensi yang tidak merata dan pelaporan etika yang tipis
-- [[sec-ai-literacy-narrative-review-2026]] — Mengintegrasikan kompetensi sosial-emosional ke dalam literasi AI
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Perhatikan Kesenjangan Kepercayaan: Pandangan Guru-Siswa
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Kerangka literasi AI berperancah (SAIL)
-- [[teacher-education-ai-literacy-sdt-2026]] — Pendidikan guru untuk literasi AI (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Ketergantungan siswa pada AI, efikasi diri, dan manajemen sumber daya
-- [[self-efficacy-tutoring-learning]] — Efikasi diri dan kesukaan membentuk pembelajaran dari tutor
-- [[shame-guilt-ai-regulation-computing-education]] — Rasa malu dan rasa bersalah sebagai regulator sosial penggunaan AI
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Dari substitusi ke perancah
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Chatbot AI dan efikasi kolektif
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Tutor matematika afektif
-- [[ai-campus-wellbeing-tools]] — Alat kesejahteraan kampus yang digerakkan AI
-- [[policy-deficit-ai-sel-2026]] — Defisit kebijakan dalam penelitian AI × SEL
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Komplementaritas manusia–AI dalam pembelajaran sosial-emosional awal (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Mikroversi emosional waktu nyata dan buku frasa untuk instruktur
-- [[shastry-gray-empathy-offloading-2026]] — Orang mengalihkan empati ketika mereka pikir AI dapat memberikannya (Shastry & Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — AI sikofantik menggeser pencarian nasihat manusia dan menurunkan kepuasan atas interaksi dunia nyata (Ibrahim et al. 2026)

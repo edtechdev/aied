@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -44,7 +45,3 @@ Učitelé a [[learning-design|návrháři výuky]] v K–12 a vysokém školstv�
 ## Poznámky a upozornění
 
 Centrum je návod, nikoli produkt pro shodu: web nečiní žádné tvrzení o shodě se svým vlastním cílem WCAG 2.2 AA, na otázku „znamená použití těchto souborů, že je můj web v souladu?“ odpovídá ne a uvádí, že inženýrská revize nenahrazuje schválení školou ani právní posouzení. Bezpečnostní police odkazuje na axe-core, Gitleaks, ZAP a Playwright; jde o odkazy, nikoli o přibalený software, a ty invazivní jsou určené pro jednorázový nebo výslovně povolený cíl. Čtení nevyžaduje účet. Opětovné sestavení HTML stránek vyžaduje Python a `markdown-it-py`, což je závislost sestavení, nikoli závislost návštěvníka. Repozitář má licenci MIT, zatímco grafika třetích stran a propojené projekty si zachovávají vlastní podmínky, zdokumentované v `CREDITS.md`.
-
-## Související pojmy
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

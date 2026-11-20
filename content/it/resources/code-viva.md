@@ -27,6 +27,7 @@ ai_assist:
 translation_of: resources/code-viva
 source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -64,7 +65,3 @@ premiare la conoscenza del vocabolario anziché la comprensione del codice: è p
 proposte che un docente approva e che lo strumento consiglia di tenere basse le poste in gioco. Non sono
 pubblicate né una licenza né un repository sorgente, e poiché i link trasportano le domande arrivano a
 qualche kilobyte, abbastanza da andare a capo in un riquadro di messaggio di una piattaforma di apprendimento.
-
-## Concetti collegati
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

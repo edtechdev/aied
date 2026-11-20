@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -74,36 +76,3 @@ IRT [[educational-measurement]] ও [[assessment-validity]]-এর একটি 
 - **"যে বেঞ্চমার্ক বেশিরভাগ মডেল পাশ করে তা ভালো বেঞ্চমার্ক।"** মান-সমন্বিত বেঞ্চমার্ক **সম্পৃক্ত** হতে পারে: NGSS-সমন্বিত মাধ্যমিক ও উচ্চমাধ্যমিক বিজ্ঞান-সেটে **বেশিরভাগ মুক্ত-ওজন মডেল ৯০%-এর বেশি স্কোর করেছে**, ফলে চিরায়ত আইটেম-মেট্রিক দুর্বল। সম্পৃক্ততা মানে মডেলগুলো অসাধারণ নয়; মানে আইটেমগুলো আর পৃথক করছে না।
 - **"আইটেম-কাঠিন্য আইটেমের সহজাত বৈশিষ্ট্য।"** একটি কারণগত প্রোব যা **প্রতি ডেটাসেটে ৫০টি পরীক্ষা-প্রশ্ন** কোনো অনুমানের দিকে বা বিপরীতে সম্পাদনা করেছে দেখে **কাঠিন্য-বাড়ানো সম্পাদনা GSM8K ও BBH-structured-এ গড় নির্ভুলতা 15.27 ও 23.88 শতাংশ-বিন্দু কমিয়েছে**। কাঠিন্য আইটেম ও মডেলের মধ্যকার সম্পর্ক, এবং আইটেম বদলালে তা বদলায়।
 - **"IRT কেবল শিক্ষার্থী স্কোর করার জন্য।"** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] **পূর্ব-পরীক্ষা অ্যাঙ্কর আইটেমসহ একটি বায়েসীয় শ্রেণিবদ্ধ 2PL মডেল দিয়ে ১,৬৮৬ শিক্ষার্থীকে স্থাপন করে**, যা শিক্ষার্থীর জন্য স্কোরিং নয়, মূল্যায়নের নিজের গুণমান-নিশ্চয়তা।
-
-## সংযুক্ত ধারণা
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## সংযুক্ত নিবন্ধ
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — প্রশ্ন ও টিউটরিং সংলাপের জন্য একটি ঐক্যবদ্ধ প্রতিক্রিয়া-কাঠামো
-- [[explaining-question-difficulty-natural-language-2026]] — IRT ও কারণগত সম্পাদনার মাধ্যমে স্বাভাবিক ভাষায় LLM প্রশ্ন-কাঠিন্যের ব্যাখ্যা (Cui প্রমুখ 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — IRT কাঠিন্য ও পৃথকীকরণে আইটেম-লেখার ত্রুটির প্রভাব (Schmucker ও Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — শিক্ষার্থী-যোগ্যতা মূল্যায়নে সহায়তা-হস্তক্ষেপের কারণগত মডেলিং
-- [[assessment-latent-structure-human-llm-2026]] — মূল্যায়ন-যন্ত্র কি মানুষ ও LLM-এর জন্য একই জিনিস মাপে? (Strugatski প্রমুখ 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — এআই-উৎপন্ন পরীক্ষার বড় মাপের IRT ক্ষেত্র-যাচাই
-- [[jin-glat-genai-literacy-assessment]] — GLAT IRT/2PL যাচাই ব্যবহার করে (Jin প্রমুখ 2025)
-- [[llm-item-difficulty-prediction]] — আইটেম-কাঠিন্যের LLM ভবিষ্যদ্বাণী
-- [[llm-psychometric-calibration-cdp]] — সাইকোমেট্রিক ক্রমাঙ্কনের সঙ্গে LLM মূল্যায়নের সমন্বয়
-- [[llm-difficulty-calibration-programming-exams-2026]] — প্রোগ্রামিং পরীক্ষায় LLM কাঠিন্য-ক্রমাঙ্কন
-- [[multimodal-item-parameter-estimation-2026]] — বহু-মোডাল আইটেম-প্যারামিটার অনুমান
-- [[huang-interpretable-knowledge-tracing-2026]] — ব্যাখ্যাযোগ্য জ্ঞান-অনুসরণ
-- [[irt-human-genai-mcq-responses]] — মানুষ ও জেনএআই MCQ প্রতিক্রিয়া আলাদা করতে IRT-এর ব্যবহার
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM ও গাছ-ভিত্তিক এমএল দিয়ে আইটেম-কাঠিন্য অনুমান
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID এমবেডিংয়ের বাইরে: সংজ্ঞানাত্মক নির্ণয়ে প্রক্রিয়া-প্রোথিত ভাষা-মডেলিং
-- [[bayesian-consensus-irt-item-banks-2026]] — নিরন্তর পরিবর্তনশীল IRT আইটেম-ব্যাংকের বায়েসীয় ঐকমত্য-ক্রমাঙ্কন (Jewsbury প্রমুখ 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — ক্ষেত্র-নিরীক্ষা যা দেখায় শিক্ষক-এআই-সাক্ষরতা যন্ত্রে IRT/Rasch প্রাথমিক যাচাই-প্রমাণ হিসেবে বিরল
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমতুল্য GRE শিখন-লাভ দেয়
-- [[llm-benchmark-secondary-science-topics-2026]] — মান-সমন্বিত বেঞ্চমার্ক সম্পৃক্ত হতে পারে

@@ -23,7 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -127,36 +128,3 @@ Bernstein ও Sibia (2026) দেখান যে [[generative-ai|GenAI]]-উৎ
 - **"প্রমাণ হাজির করলেই শিক্ষকদের ভুল ধারণা সংশোধনযোগ্য।"** **123 ইতালীয় শিক্ষকের** একটি পাইলটে মতভেদ সবচেয়ে বেশি জমে **জ্ঞানসংক্রান্ত শেখার ধরন নিয়ে (78% শিক্ষক দৃশ্য/শ্রবণ মিলকরণের পক্ষে সওয়াল করেন)**, অন্তর্ভুক্তি ও দলগত কাজ (68%) এবং EdTech-অতিরিক্ত বোঝা (54%) নিয়ে। সবচেয়ে জোরালো মতভেদগুলোই প্রমাণের প্রতি সবচেয়ে অনড় ছিল, এজন্যই [[refutation-text|খণ্ডন]] দাবির চেয়ে ভালো কাজ করে।
 - **"প্রমাণের প্রতি শিক্ষকদের আপত্তি সবই প্রতিরোধ।"** যখন একই আইটেম একটি কথোপকথনভিত্তিক এআই-এর মাধ্যমে পেশ করা হয় যা **প্রমাণ পুনরায় হাজির করার আগে শিক্ষকের প্রসঙ্গকে বৈধতা দিয়ে**, তখন **41% আপত্তি বাস্তব প্রসঙ্গগত সীমাবদ্ধতা নিয়ে** — শ্রেণির আকার, বিশেষ চাহিদা, পাঠ্যক্রমের দাবি। আপাত-ভুল ধারণার একটি বড় অংশ ছিল নির্ভুল আপত্তি।
 - **"সংলাপ থেকে ভুল ধারণা নির্ভরযোগ্যভাবে শনাক্ত করা যায়।"** **241 প্রম্পটকৃত অংশের মধ্যে 221টি (91.7%) বিশেষজ্ঞ-সংখ্যাগরিষ্ঠ ভোটে কৌশলগত ভুল ধারণা হিসেবে নিশ্চিত হয় (Fleiss' κ = 0.9487)**, দলগুলোর মধ্যে **কোনো উল্লেখযোগ্য পার্থক্য** ছাড়াই। বিশেষজ্ঞ-ফয়সালার অধীনে উচ্চ নির্ভরযোগ্যতা অর্জনযোগ্য, এবং দাবিটি সেই শর্তের উপর নির্ভর করে।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — নির্দিষ্ট একটি পোষণকৃত বিশ্বাসের মুখোমুখি হওয়া ধারণা-পরিবর্তনের ক্রমধারা
-- [[learners]] — শিক্ষার্থীরা: শিক্ষার্থী-পক্ষীয় ধারণাগুলোর ছাতা
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## সংযুক্ত নিবন্ধ
-- [[rudolph-ai-myths-critical-higher-ed]] — হাইপ বিশ্বাস করবেন না: আটটি এআই-মিথ এবং উচ্চশিক্ষায় সমালোচনামূলক পন্থার প্রয়োজন
-- [[student-rationalization-ai-writing]] — এআই-লেখার প্রতি শিক্ষার্থীদের যুক্তিসঙ্গতকরণ
-- [[genai-skill-bypass-literacy]] — GenAI দক্ষতা-পাশ কাটানো ও সাক্ষরতা
-- [[trust-reliance-ai-education-2026]] — এআই শিক্ষায় ভরসা ও নির্ভরতা
-- [[contextual-sycophancy-ai-literacy]] — প্রসঙ্গগত তোষামোদ ও এআই-সাক্ষরতা
-- [[sycophantic-ai-social-interaction-2026]] — সামাজিক মিথস্ক্রিয়ায় তোষামোদকারী এআই
-- [[llm-fallacy-misattribution]] — LLM-ভ্রান্তি ও ভুল আরোপণ (Kim প্রমুখ)
-- [[student-reception-genai-analogies-computing-2026]] — ত্রুটিপূর্ণ কিন্তু স্মরণীয়: কম্পিউটিং শিক্ষায় আগ্রহ-ব্যক্তিগতকৃত GenAI উপমার প্রতি শিক্ষার্থীদের সমালোচনামূলক গ্রহণ
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: সাবলীল, কর্তৃত্বপূর্ণ ব্যাখ্যা যা বাস্তবতাগত নয়, ধারণাগতভাবে ভুল (Miličević প্রমুখ 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — জমা দেওয়া ফাইলে লুকানো নির্দেশনা কোনো দৃশ্যমান সতর্কবার্তা ছাড়াই এআই-গ্রেডেড নম্বর বাড়াতে পারে (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — শিশুদের এআই-নিরাপত্তা-ভুল ধারণা: রোবটের সঙ্গে বন্ধুত্বকে গোপনীয়তার নিশ্চয়তা ভেবে ভুল করা (Leisten প্রমুখ 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — প্রমাণ-ভিত্তিক সংলাপসহ শিক্ষাদান-ভুল ধারণার কথোপকথনভিত্তিক এআই ডায়াগনস্টিক (Miranda ও Calvani 2026)

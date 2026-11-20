@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -93,9 +94,3 @@ Kariyerinin herhangi bir aşamasındaki psikoloji öğretim elemanları ve değe
 ## Notlar ve uyarılar
 
 Ücretsiz PDF, hesap yok. Telif hakkı STP'nindir, bir Creative Commons lisansı değil: atıfla kişisel ve sınıf içi kopyalara izin verilir; yeniden dağıtım veya ticari kullanım ise yazarın iznini gerektirir. Bölümler çalışmalardan çok uygulayıcı anlatılarıdır — tasarım, örneklem veya etki büyüklüğü yok — dolayısıyla iddiaları deneyim raporları olarak ele alın ve bölümlere tek tek atıf yapın.
-
-## Bağlı kavramlar
-
-- [[social-sciences-education]] — psikoloji bölümünü bu cildin ders düzeyinde uygulamayla doldurduğu küme sayfası
-- [[ai-literacy]] — editörlerin koleksiyona verdiği gelişimsel çerçeve
-- [[academic-integrity]] — politika bölümünün konusu ve birkaç ders bölümünün doğrulama adımları inşa etmesinin nedeni

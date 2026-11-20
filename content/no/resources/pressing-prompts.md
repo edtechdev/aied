@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -37,7 +38,3 @@ Hvert tema har et rammespørsmål, samtalestartere, strukturerte aktiviteter med
 
 ## Hvor den kommer fra
 Den startet ved Duke University i 2024–2025 som AI Ethics Learning Toolkit, samdesignet av bachelorstudenter, bibliotekarer, faglig ansatte og teknologer på tvers av Center for Teaching and Learning og Duke Libraries, og ble relansert etter tilbakemeldinger og redesign av Hannah Rozear, Remi Kalir og Aria Chernik.
-
-## Tilknyttede begreper
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]

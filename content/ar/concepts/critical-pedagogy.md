@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -59,7 +61,6 @@ ai_assist:
 - **الاستدامة كمشروع قيمي.** أثر الذكاء الاصطناعي على الاستدامة التعليمية مشروط ومتوسط بالحكم لا جوهري: فتحليل قيمي-نقدي يذهب إلى أن الذكاء الاصطناعي يدعم التعليم المستدام فقط حين يُخضَع التبنّي لقيم تعليمية صريحة ويُضعفه حين تحفر التقنينة والسلعية فيهما ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]]).
 - **خطاب المواءمة الذي يضع الكفاءة أولًا كمَحْوٍ للسياق.** يطبّق [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] نموذج فيركلف الثلاثي الأبعاد على 14 قطعة من الأدبيات الرمادية (نوفمبر 2022 – أبريل 2025) تنصح ممارسي التعليم العالي باستخدام [[generative-ai|الذكاء الاصطناعي التوليدي]] للمواءمة البنائية، فيجدون خطابًا تقنويًا-حلوليًا تُجَسَّد فيه الأداة بوصفها "خبيرًا ومساعدًا تعليميًا" ويوضع فيها العاملون الأكاديميون بوصفهم مزوّدين "بخبرة المادة" بينما يؤدّي النظام العمل البيداغوجي. ويسمّي التحليل محو السياق الموضوع والاختصاصي والنقدي واحدًا من ثلاثة أنماط فشل — إلى جانب الأدائية (المواءمة التي تبدو مواءمةً فحسب) والمواءقة السطحية التي تخلط البُعد البنائي بالمواءَم — دليلًا على أن حتى النصح بـ[[learning-design|تصميم المقرر]]، وهو في الظاهر مسألة تقنية محايدة، يحمل المنطق المُزيل للسياسة الذي ينتقده البيداغوجيون النقديون في غير موضع.
 
-
 - **علاجات التصميم لا تكفي بذاتها.** فإن مناهج التصميم المتمركز حول الإنسان كالتصميم الحساس للقيمة غير كافية: فهي تترك الدوافع النظامية — تأطيرات إنتاجية القوى العاملة والحوافز الاقتصادية — دون مساس، وقد تكون [[agency]] صفرية المجموع، فالقدرة الممنوحة للأداة قدرة لا يحتفظ بها المتعلّم ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **تعليم حقوق الإنسان كحالة اختبار لحكم الذكاء الاصطناعي بوصفه تكوينًا.** تعمل [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] على إطار الأمم المتحدة *about, through, for* في برنامج قانون، وتقع الصعوبة لا في التقنية بل في البيداغوجيا: فقد سلّم الطلاب أعمالًا مكتوبة مصقولة وتصاميم جلسات مصقولة دون الاندماج الذي يُفترض بتلك القطع أن تشهد به، وظهر أكثر التفكير نقديةً في الكتابة بنهاية المقرر لا في حوار الصف. وينقل استنتاجها دور المربّي بدل أن يضيّقه — فـ[[governance|حكم الذكاء الاصطناعي]] يصبح مسؤولية مهنية يُدرَّب الطلاب على منازعتها، وتُوجَّه [[llm|الأداة]] لا أن تُمنع.
 
@@ -91,7 +92,6 @@ ai_assist:
 
 - اجعل التبرير هو الأثر القابل للتقويم. في وحدة مقرر استخدمت سير عمل [[benali-genai-academic-writing-2026|Benali and Díaz García (2026)]] في الصياغة والمراجعة والتأمل مع 96 طالبًا في سنتهم الأخيرة ضمن 24 مجموعة، حُصر الذكاء الاصطناعي في قسمين من مقترح بحثي، وكان لا بد من تبرير كل اقتراح ذكاء اصطناعي مقبول أو مرفوض كتابةً. وتصف تقارير الطلاب التأملية عمل التحقق هذا، لا الصياغة، بأنه ما أنتج الموقف النقدي، ولهذا فإن سجل الحكم هو ما ينبغي تقويمه.
 
-
 **للمطوّرين والإداريين**
 
 - توقّع أن تستجوب البيداغوجيا النقدية بنية حوافزك لا قائمة ميزاتك، وأن تجيب عن سؤال أي معرفة تُشفّرها المخرجات الافتراضية.
@@ -99,35 +99,3 @@ ai_assist:
 **للمحقّقين**
 
 - أبلغ عن توزيع أنماط الانخراط في الصفوف لا عن متوسط الاستخدام فحسب، لأن المتوسط يخفي ما إذا كانت أي ممارسة نقدية موجودة.
-
-## المفاهيم المرتبطة
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## المقالات المرتبطة
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodal composition as critical AI literacy pedagogy
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice
-- [[benali-genai-academic-writing-2026]] — تبرير مفروض في المراجعة ضمن مقرر كتابة أكاديمية: الذكاء الاصطناعي محصور في قسمين من المقترح، وكل اقتراح يُقبل أو يُرفض كتابةً (Benali & Díaz García 2026)
-- [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the \"AI colonization\" of science education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — \"Resisting AI\" as a community-rooted praxis of critical AI literacy
-- [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Human-centered GenAI engagement framework built on Freire, constructionism and an ethics of care
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy and decolonial epistemologies applied to academic development in the Global South

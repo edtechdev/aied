@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -96,43 +98,3 @@ ai_assist:
 - **«Студенты скрывают использование ИИ, потому что нечестны».** Движущие силы документированы и конкретны: лишь **около 34 % студентов-экономистов признали использование ИИ**, причём раскрытие было ещё реже и объяснялось **тревожностью перед наказанием**, тогда как другое исследование обнаружило, что **66 % никогда или редко раскрывали информацию**, а **страх академического наказания был главной причиной**. Данные указывают на дизайн политики, а не на характер.
 - **«Требование раскрывать — это недорогой контроль».** **74 % несоответствия** делают полученную запись хуже, чем отсутствие записи: это набор данных, который выглядит полным и не является таковым, поэтому учебное заведение принимает решения по выборке, которой не может доверять.
 - **«Достаточно раскрыть, как использовалась модель».** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] утверждает, что раскрытие документирует использование модели, тогда как ответственное использование требует авторского ордера на уровне утверждений — способности участника понимать, обосновывать и защищать утверждения, — что отделяет [[cognitive-offloading|когнитивное делегирование]], где результаты формируют содержательные решения, от рутинного делегирования, которое этого не делает.
-
-## Связанные концепции
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — вред, который раскрытие информации призвано сделать видимым
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — почему учащиеся предпочитают скрывать, а не раскрывать
-
-## Связанные статьи
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Зеркальное направление: сообщать студентам, когда ИИ оценивает их работу, и спрашивать согласия прежде, чем её загрузить
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM-разделение: уверенность в обнаружении против риска, что декларация изобличит неправомерное использование (Liu et al. 2026)
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Disclosure as the boundary between assistance and misrepresentation across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Когда правил раскрытия недостаточно: авторский ордер и суждение в научной работе с поддержкой ИИ (Mirończuk 2026)
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Метки раскрытия ИИ, воспринимаемая аутентичность и доверие к учебным видео, сгенерированным ИИ

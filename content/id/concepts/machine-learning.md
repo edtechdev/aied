@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -74,34 +76,3 @@ Pembelajaran mesin juga muncul dalam pendidikan sebagai *mata pelajaran*. Dalam 
 **"AI generatif telah membuat pembelajaran mesin klasik usang dalam pendidikan."** Keduanya melakukan pekerjaan berbeda. Prediksi keadaan pembelajar, estimasi kesulitan, dan peramalan kemajuan tetap merupakan masalah ML klasik, dan literatur pelacakan pengetahuan serta kalibrasi butir yang didokumentasikan korpus ini tidak dilayani oleh model bahasa. AI generatif adalah subhimpunan pembelajaran mesin, bukan penggantinya.
 
 **"Pendidikan guru sebaiknya mengajari siswa tentang LLM alih-alih tentang pembelajaran mesin."** Membatasi literasi pada lapisan generatif membuat praktisi tidak mampu menginterogasi sistem prediktif yang membuat keputusan tentang siswa mereka — di situlah kesalahan berkonsekuensi terkonsentrasi.
-
-## Konsep terkait
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Artikel terkait
-
-- [[at-risk-students-ml-prediction]] — Klasifikasi ML terawasi untuk mengidentifikasi siswa berisiko mengundurkan diri
-- [[trace-course-grade-prediction-2026]] — Transformer yang bersama-sama memprediksi mata kuliah dan nilai (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Kembar digital siswa bertenaga AI untuk jalur preventif yang selaras karier
-- [[sc2r-counterfactual-recourse-educational-2026]] — Recourse counterfactual berbatas semantik untuk intervensi yang dapat ditindaklanjuti
-- [[interactive-online-learning-ai-2025]] — Hibrida DMO-GRU untuk prediksi pembelajaran daring interaktif
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Perancah adaptif untuk keterlibatan kognitif dalam ITS (BKT vs DRL)
-- [[pedagogical-safety-rl]] — Kerangka formal untuk keselamatan pedagogis dalam pembelajaran penguatan pendidikan
-- [[automated-online-exam-proctoring-decade-review-2026]] — Tinjauan satu dekade pengawasan ujian otomatis berbasis pembelajaran mendalam
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Pelacakan pengetahuan berbasis capaian dengan pemetaan afinitas
-- [[bird-multimodal-educational-literature-2026]] — Fusi multimodal untuk mengklasifikasikan literatur pendidikan
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimasi kesulitan butir menggunakan LLM dan ML berbasis pohon
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Peka Budaya Bertenaga AI untuk Deteksi Stres dan Dukungan Kesejahteraan di Kalangan Mahasiswa Pakistan Menggunakan NLP dan Pembelajaran Mesin
-- [[synthetic-educational-data-structural-fidelity-2026]] — Yang Terlewat oleh Metrik Kesetiaan: Pemeriksaan Struktural atas Data Pendidikan Sintetis

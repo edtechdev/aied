@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -118,47 +120,3 @@ AI अवतार किसी मॉडल द्वारा संचाल�
 **"अवतार का रूप सौंदर्य-विषय है।"** पहचान-संकेतों ने विश्वसनीयता-रेटिंग और मार्गदर्शन की वास्तविक स्वीकृति दोनों बदली, वृद्ध काली स्त्री अवतारों के लिए दंड संयुक्त होते हुए।([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) विन्यास एक शैक्षिक और समता-निर्णय है।
 
 **"अनुकरणित रोगी मानकीकृत रोगी है, बस लागत घटाकर।"** प्रशिक्षु मनोवैज्ञानिकों ने अपने आभासी रोगी को सहयोगी और पहले से चिकित्सा-उन्नत पाया, एक "आदर्श" मामला जो व्यवहारिक अनम्यता को कम दर्शाता है।([[ai-psychotherapy-training-avatars]]) लागत घटती है; मामले की वैधता अपने आप नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## संबंधित लेख
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — अवतार-पहचान संकेत विश्वसनीयता और मार्गदर्शन-स्वीकृति बदलते हैं (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — अभ्यास-आधारित शिक्षक-शिक्षा संवाद में छात्र-अवतार (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — एक AI साक्षरता कार्यशाला में लिंग के अनुसार डीपफ़ेक निर्माण और रिपोर्टिंग
-- [[elevate-genai-virtual-tutors]] — शिक्षक-शासन परत वाले स्थानीय-प्रथम 3D अवतार ट्यूटर (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — नैदानिक संचार के लिए LLM न्यायाधीश वाले अवतार-रोगी
-- [[genai-simulate-patient-history-pbl-2026]] — PBL इतिहास-लेने के ट्यूटोरियल में genAI रोगी-अवतार
-- [[ai-psychotherapy-training-avatars]] — मनोचिकित्सा प्रशिक्षण में ACT निष्ठा-अभ्यास के लिए रोगी-अवतार
-- [[aclime-pedagogical-agents-extended-reality-2026]] — विस्तारित वास्तविकता में शैक्षिक एजेंट: उपस्थिति, यथार्थवाद और भार (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — दर्शक-हस्तक्षेप के लिए कठपुतली अवतार वाला रोबोट-मध्यस्थ भूमिका-निर्वाह
-- [[personalized-ai-generated-videos-preference-2026]] — क्लोन-प्रशिक्षक वीडियो वैयक्तिकरण और छात्र-पसंद
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — कक्षा-सिमुलेशन में प्रतिनिधित्व को एजेंसी से अलग करता चार-परत ढाँचा
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — पाठ्यक्रम-प्रतिपुष्टि साक्षात्कारों के लिए प्रस्तावित संवादी आवाज़-एजेंट
-- [[trikonet-trivalence-co-creativity-2026]] — सामाजिक-तकनीकी नेटवर्क में सह-सृजनात्मक शैक्षिक अवतार (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 छात्रों में केवल 51.7% ने दिए गए मानव-सदृश भूमिकाएँ लीं; एक ने इसे प्रतिपुष्टि की वेंडिंग मशीन कहा

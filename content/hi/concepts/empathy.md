@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -93,34 +95,3 @@ AI तीन अलग बिंदुओं पर प्रवेश करत
 - **"मुस्कान का अर्थ स्नेह है।"** किसी कष्टदायक नैदानिक मुलाक़ात में प्रेक्षक मुस्कुराने को असंगति पढ़ते हैं, और चेहरे-क्रिया डिटेक्टर उसे सकारात्मक भाव पढ़ता है। संदर्भ ही छूटा हुआ चर है।
 - **"स्व-रिपोर्ट पैमाने सहानुभूति मापते हैं।"** वे एक प्रवृत्ति या आत्म-धारणा मापते हैं; वे मुलाक़ात में व्यवहार नहीं मापते।
 - **"अधिक निमज्जन हमेशा बेहतर है।"** निमज्जित विधियाँ बड़े लाभ दिखाती हैं, पर कई गुना लागत और अवधि पर, और तुलनाएँ संपर्क को बराबर नहीं करतीं।
-
-## संबंधित अवधारणाएँ
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## संबंधित लेख
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — IRI पर रोल-प्ले 13.2%, VR 11.6%, AI संवाद 8.8%, संपर्क समय उलझा हुआ (Zwoliński सहित, 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — शारीरिक-संपर्क पहचान प्रेक्षकों से सहमत; मुस्कान पहचान ऋणात्मक रही (Nissan सहित, 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13 आदान-प्रदान के बाद आत्म-आकलित क्षमता d = 0.58 बढ़ी, कोई नियंत्रण समूह नहीं (Müller सहित, 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 अध्ययन; आत्मविश्वास के लाभ सामान्य, सहानुभूति के साक्ष्य सीमित (Ismail और Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA और जनरेटिव चित्र एक उत्तेजना-पाइपलाइन के रूप में, सहानुभूति मापी नहीं गई बल्कि दावा की गई (Lim सहित, 2024)
-- [[shastry-gray-empathy-offloading-2026]] — AI की सहानुभूतिपूर्ण क्षमता में विश्वास ने सहायता देने की कम इच्छा का पूर्वानुमान लगाया (Shastry और Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42-मद प्रवृत्ति पैमाना जिसकी कारक संरचना उसके डिज़ाइन से मेल नहीं खाई (Kang सहित, 2026)
-- [[empathy-coaching-chatbot]] — सहानुभूतिपूर्ण भाषा ने अनुभूत समझ बढ़ाई, जिसने व्यवहार परिवर्तन के बजाय जुड़ाव का पूर्वानुमान लगाया (Siyan सहित, 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — प्रॉम्प्ट-निर्दिष्ट भूमिका और चालों ने अनुभूत सहानुभूति में बड़ा अंतर पैदा किया (Wang सहित, 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — नर्सिंग छात्रों ने नैदानिक तनाव के दौरान AI को भावनात्मक सहायता बताया (Akbaba सहित, 2026)

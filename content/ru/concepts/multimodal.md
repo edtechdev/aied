@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -110,59 +112,3 @@ ai_assist:
 **«Мультимодальные возможности — одна лестница, поэтому лучшая в целом модель лучше всех и для задачи с изображениями».** Возможности зависят от задачи, и модель, лидирующая на общих [[benchmark|бенчмарках]], может отставать на диаграммах сил. Для дисциплин с изображениями релевантен тест, в котором смысл встроен в рисунок.
 
 **«Ограничения текстового тьюторинга — досада, а не проблема [[curriculum-design|учебной программы]]».** В дисциплинах, где диаграмма *и есть* задача, — физика, химия, геометрия, инженерия, медицина, — граница компетентности текстового репетитора проходит по оцениваемому содержанию, а не по его краям.
-
-## Связанные концепции
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — Зонтичная концепция: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
-- [[virtual-and-augmented-reality]] — жесты, голос и пространственный ввод как каналы обучения
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-## Связанные статьи
-- [[elkington-human-centred-assessment-value-2026]] — Оценивание, ориентированное на человека: ансамбли и генеративные ограничения (Elkington 2026)
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Видеокомпозиция в формате социальной рекламы по этике ИИ как педагогика критической ИИ-грамотности (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — Производительность VLM на рукописных работах учащихся по математике (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Руководство для педагогов по мультимодальному обучению с генеративным ИИ (модель MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — Эффект мультимодальной интерференции и восстановление через структурированный диалог в STEM
-- [[multimodal-ai-feedback-learning]] — Мультимодальная обратная связь ИИ соответствует педагогам по результатам обучения, превосходит по восприятию
-- [[multimodal-prompting-ai-literacy]] — Мультимодальный промптинг учащихся как эпистемическая работа в ИИ-грамотности
-- [[multimodal-item-parameter-estimation-2026]] — Оценивание параметров заданий IRT с помощью мультимодальных LLM
-- [[ai-guided-learning-audiovideo-2026]] — Поддержка обучения аудио-видео под управлением ИИ
-- [[multimodal-knowledge-graph-educational-reasoning]] — Мультимодальные графы знаний для образовательного рассуждения
-- [[mllm-scientific-visualization-literacy]] — Мультимодальная грамотность LLM для научной визуализации
-- [[multimodal-affective-its-presentation]] — Мультимодальные сигналы в аффективном интеллектуальном тьюторстве
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Аффективное мультимодальное тьюторство по математике
-- [[llm-cognitive-diagnosis-handwritten-math]] — Когнитивная диагностика рукописной математики с помощью LLM
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Обучение преобразованию текста в изображение в образовании по ядерной инженерии
-- [[privacy-aware-classroom-incident-recognition-2026]] — Осознающее приватность мультимодальное распознавание событий в аудитории
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Мультимодальное обучение с OCR в образовании по кибербезопасности
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: бенчмарк мультимодальных LLM для аудита слайдов
-- [[ai-grading-handwritten-physics-2026]] — Оценивание ИИ рукописных работ по физике (олимпиада)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Мультимодальное сочинение с ИИ и критическое мышление в начальном письме (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 задач над 1 174 произведениями искусства показывают возможности VLM как профиль, специфичный для измерения, наиболее слабый в аффективной интерпретации и зависящем от точки зрения пространственном рассуждении (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[kim-ai-embodied-learning-review-2026]] — ИИ в воплощённом обучении в основном наблюдает: сенсорные роли — 62,5% закодированных тегов ролей, и ни одна из рассмотренных систем не объединяла мультимодальные потоки, пока учащиеся ею пользовались (Kim & Han 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,9 +46,7 @@ Dua tinjauan mendefinisikan bentuk bidang ini, dan keduanya menggambarkan fragme
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Tinjauan cakupan PRISMA-ScR (Rempel et al., 2026)]] menelusuri lima basis data dan satu dekade publikasi (2015–2025), menyaring 766 catatan hingga menjadi 40 studi empiris tentang teknologi bantu digital bagi siswa neurodivergen di [[higher-ed|pendidikan tinggi]]. Bidang ini telah terorganisasi ulang di sekitar [[generative-ai|AI generatif]] — 15 dari 40 studi — dengan format imersif di posisi kedua sebanyak 11. Kritik sentralnya adalah kritik desain: akomodasi individual dan alat spesifik neurotipe yang diorganisasi di sekitar diagnosis formal tidak dapat menangani perbedaan fungsional yang melintasi neurotipe, sehingga tinjauan itu merekomendasikan desain universal dan pengembangan partisipatif. Ia juga mencatat bahwa alat yang paling imersif adalah yang paling sulit diskalakan.
 
-
 - **Kelas dasar menunjukkan konsentrasi yang sama.** Sebuah tinjauan cakupan atas EdTech untuk kelas dasar yang inklusif-neuro (3,340 catatan disaring, 93 studi) menemukan bukti terkonsentrasi pada pembelajar autistik dan dukungan akademik serta kognitif yang terindividualisasi, dengan luaran sosial, komunikatif, dan interaksi sebaya terabaikan dan nilai pendidikan tervalidasi terutama oleh peneliti alih-alih oleh pengguna kelas ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
-
 
 [[dabaghi-ai-dyslexia-education-review-2026|Tinjauan interdisipliner AI untuk disleksia (Dabaghi, D'Urso dan Sciarrone, 2026)]] mencakup 2018–2024 di seluruh 72 studi dan menemukan AI digunakan untuk deteksi, dukungan bantu, dan [[personalized-learning|personalisasi]], dengan alur-alur itu berkembang secara paralel alih-alih terintegrasi, dan bidang ini lebih digerakkan oleh peluang teknologi daripada oleh teori pendidikan yang terkonsolidasi. Penelitian deteksinya ([[sensor-and-gaze-analytics|EEG]], pelacakan mata, model [[machine-learning]]) menunjukkan janji diagnostik untuk intervensi dini tetapi sering membutuhkan peralatan khusus dan kondisi terkendali, yang membatasi penggunaannya di ruang kelas biasa. Itulah uji praktis yang terus gagal dilewati seluruh alur ini: dukungan harus tertanam dalam mata kuliah yang benar-benar diambil siswa.
 
@@ -90,34 +90,3 @@ Neurodiversitas terhubung dengan [[special-education]], [[inclusive-learning]], 
 - **"Penelitian neurodiversitas adalah sudut kecil [[ai-education|AIED]]."** Bidang ini **terorganisasi ulang di sekitar [[generative-ai|AI generatif]] — 15 dari 40 studi** — dengan format imersif di posisi kedua sebanyak 11. Literatur bergerak mengikuti teknologinya alih-alih terakumulasi di sekitar pertanyaan yang stabil.
 - **"Lebih banyak AI untuk disleksia berarti dukungan yang lebih baik."** [[dabaghi-ai-dyslexia-education-review-2026|Tinjauan interdisipliner AI untuk disleksia (Dabaghi, D'Urso dan Sciarrone, 2026)]] mencakup **72 studi pada 2018-2024** dan menemukan AI digunakan untuk rentang tujuan yang luas. Keluasan penerapan bukanlah bukti efektivitas untuk salah satu tujuannya.
 - **"Akomodasi adalah kerangka yang tepat bagi pembelajar neurodivergen."** [[neurodivergent-computing-students|Survei terhadap 24 mahasiswa komputasi neurodivergen dan 20 teman sebaya neurotipikal]] dengan empat wawancara mendalam menemukan kebutuhan yang merupakan **persyaratan desain umum** — tugas terstruktur, tim kecil yang konsisten, peran eksplisit — alih-alih penyesuaian individual yang diberikan setelah diagnosis.
-
-## Konsep terkait
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## Artikel terkait
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Membingkai ulang nilai pendidikan dalam EdTech untuk kelas sekolah dasar inklusif-neuro: sebuah tinjauan cakupan
-
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: tinjauan cakupan teknologi bantu digital bagi siswa neurodivergen di pendidikan tinggi
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studi AI untuk siswa dengan disabilitas, dan efek yang berbeda menurut kategori
-- [[adhd-video-segmentation-computing-education]] — Segmentasi video temporal yang membawa peserta ADHD ke tingkat setara
-- [[neurodivergent-computing-students]] — 24 mahasiswa komputasi neurodivergen tentang struktur, ambiguitas, dan kolaborasi
-- [[genai-reliance-executive-functioning-2026]] — Kesulitan fungsi eksekutif, kegunaan yang dipersepsikan, dan rute menuju ketergantungan AI
-- [[seung-basham-cognitive-offloading-swld-2026]] — Pengalihan beban kognitif GenAI bagi siswa dengan disabilitas belajar
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI untuk membantu penyandang disleksia dalam pendidikan
-- [[genai-minoritized-knowledges-disability]] — AI generatif dan marginalisasi pengetahuan yang diminoritaskan
-- [[tactile-statistical-graphs-accessibility]] — Grafik Statistik Taktil untuk Aksesibilitas
-- [[ai-learning-tools-engineering-education-needs]] — Merancang Alat Belajar AI yang Sadar-Kebutuhan dan Sadar-Perhatian
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Proses yang digerakkan detektor dapat mencegah penggunaan akomodasi yang sah

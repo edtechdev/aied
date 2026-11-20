@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
@@ -41,12 +42,3 @@ Leitungen von Berufsbildungseinrichtungen, die entscheiden, womit sie beginnen, 
 ## Hinweise und Einschränkungen
 
 Es ist Orientierung, keine Evaluation. Der Leitfaden liefert keine Ergebnisdaten, und seine institutionellen Beispiele, ein inhaltsintegriertes KI-Lernmodell am College of the North Atlantic in Kanada und Kenias Standard von 2023 zur betrieblichen Praxisphase in der Berufsbildung, sind beschreibende Fallkästen aus Projektberichten, keine unabhängigen Studien. Die Anhänge bezeichnen sich als indikativ; die Reifegradskala ist eine Diskussionshilfe, kein Messinstrument. Sicherheitskritische und regulierte Berufe erhalten ein eigenes Kapitel, das jedoch eine Position zur menschlichen Aufsicht begründet statt regulatorische Details zu liefern. Die Lizenz CC BY-SA 3.0 IGO erlaubt Anpassung und Weiterveröffentlichung mit Namensnennung und Weitergabe unter gleichen Bedingungen.
-
-## Verbundene Konzepte
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,42 +80,3 @@ ai_assist:
 **«Дослідження за визначенням є неструктурованим».** Викладач забезпечує скаффолдинг, а структура лежить у дизайні запитань і циклі рефлексії, а не в подачі змісту. Вилучення скаффолду не робить дослідження автентичнішим; воно робить його нескаффолдженим.
 
 **«Студентські запитання будуть добре сформульовані, якщо студентам цікаво».** Генерування розв'язного запитання і є вмінням, яке розвивають, і саме тому система, яка постачає добрі запитання, виконала дослідницьке вміння, для якого ця діяльність існує.
-
-## Пов’язані поняття
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Продуктивний провал
-
-## Пов’язані статті
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для навчання на основі дослідження в STEAM (систематичний огляд)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI чат-боти та постановка проблем у початковій науці
-- [[luo-ibl-patterns-llm-bloom-2026]] — Патерни IBL в умовах, що керуються LLM (перспектива Блума)
-- [[mujib-ai-ibl-creative-math-2026]] — IBL з підтримкою ШІ та творча математична продуктивність
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Мета-аналіз GenAI і мислення вищого порядку
-- [[niri-steam-ai-literacy-review-2026]] — Освіта STEAM для ШІ-грамотності
-- [[kim-ai-productive-failure-adult-2026]] — Проєктування систем ШІ для підтримки навчання на основі продуктивного провалу
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Педагогічне скеровування LLM для продуктивного провалу
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT для автономного вивчення мови
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Кероване дослідження з підтримкою ШІ в фотосинтезі та диханні (освіта викладачів науки)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Витягання інформації на основі ШІ для підтримки дипломної роботи та навчання, заснованого на дослідженнях (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — Дослідження з підтримкою ШІ в соціально-наукових питаннях щодо зміни клімату
-- [[geoscience-field-learning-genai-2026]] — Модель інструктажу «спочатку поле», що не дає GenAI попередньо структурувати те, що помічають здобувачі (Choi 2026)
-
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Людський фасилітатор проти навчання на основі проблем, опосередкованого ШІ: рівні прирости знань, слабше критичне мислення без фасилітатора (Shetty & Rao 2026)
-
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Карта 66 досліджень генеративного ШІ на п’яти фазах дослідження, де лише 8 досліджень вимірювали дослідницькі навички
-

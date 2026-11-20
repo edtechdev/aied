@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -108,37 +110,3 @@ ai_assist:
 - **"साझेदारी का अर्थ छात्र आवाज़ को ऊपर उठाना है।"** शैक्षणिक साझेदारी **परिभाषित भूमिकाओं और पारस्परिक दायित्व वाला एक सीमित, बातचीत से तय संबंध** है, परामर्श नहीं। भूमिका, अधिकार-क्षेत्र और निर्णय में हिस्सेदारी के बिना आवाज़ संरचनात्मक रूप से कुछ नहीं बदलती।
 - **"साझेदारी एक ऐसा रुख है जिसे अपनाया जा सकता है।"** इसके लिए संस्थागत शर्तें चाहिए: समय, छात्र साझेदार के लिए मान्यता, और ऐसा परिवर्तन जिसे साझेदार वास्तव में प्रभावित कर सकें। इन शर्तों के बिना घोषित साझेदारी उसी पदानुक्रम को पुनरुत्पादित करती है जिसे वह काटने का दावा करती है।
 - **"शक्ति-साझाकरण शिक्षक विकास नहीं हो सकता।"** साहित्य का दावा यह है कि साझेदारी विकास है *क्योंकि* वह संबंध के माध्यम से शिक्षक की समझ बदलती है। इसे केवल छात्र-लाभ के रूप में देखना तंत्र को ही छोड़ देता है।
-
-## संबंधित अवधारणाएँ
-- [[pedagogy]] — शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-- [[collaborative-learning]]
-- [[agency]] — शिक्षार्थी सक्रियता
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## संबंधित लेख
-- [[guided-inquiry-genai-course-policy-2026]] — जनरेटिव AI पाठ्यक्रम नीतियों के सह-डिज़ाइन में छात्रों के लिए एक मार्गदर्शित जांच पद्धति
-- [[lo-co-creating-custom-gpts-sap-2026]] — कस्टम GPT का सह-निर्माण: जनरेटिव AI नवाचार में स्नातक छात्रों के रूप में साझेदारों की एक आत्म-जीवनी अध्ययन
-- [[williams-ingle-assessment-co-creation-ai-2025]] — सह-निर्माण के माध्यम से मूल्यांकन डिज़ाइन: AI के मूल्यांकन में छात्र-कर्मचारी साझेदारी
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — शैक्षणिक विश्वास के संरक्षण के लिए छात्र-के-रूप में-साझेदार अभ्यास में AI को नेविगेट करने के पाँच मार्गदर्शक सिद्धांत
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — युवा साझेदारों के साथ AI का सह-डिज़ाइन: एक संबंधगत गोपनीयता नैतिक ढाँचा
-- [[fawns-entangled-pedagogy-genai-students-2026]] — उलझे शिक्षाशास्त्र ढाँचे के माध्यम से AI के जटिल छात्र वास्तविकताओं को रोशनी देना
-- [[anastasia-shared-agency-partnership-framework-2026]] — साझी सक्रियता: प्रशिक्षक–छात्र सहयोग के लिए एजेंसी साझेदारी ढाँचा
-- [[maybee-disruptive-partnerships-sap-2025]] — विघटनकारी साझेदारियाँ: सूचना अध्ययन में छात्रों के साथ सहयोग
-- [[student-centered-genai-responsible-framework-2026]] — ज़िम्मेदार जनरेटिव AI उपयोग के लिए छात्र-केंद्रित ढाँचा
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — छात्रों ने 710-छात्र पैमाने पर साथियों के लिए AI ट्यूटर बनाया: सहभागिता ऊँची, अधिगम-साक्ष्य खोजपूर्ण (Zangari एट अल. 2026)
-

@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -52,11 +53,3 @@ Hướng dẫn trung thực về địa vị của chính nó. Các tác giả g
 Hai giới hạn nữa quan trọng với việc dạy học. Các khuyến nghị là gợi ý thiết kế, không phải can thiệp đã kiểm nghiệm; không có gì trên trang báo cáo một kết quả đo lường. Và cấu trúc nhóm tuổi áp một lưới thô lên sự phát triển vốn khác nhau ngay trong cùng nhóm, giữa các nền văn hóa và giữa các bối cảnh, điều mà chính hướng dẫn thừa nhận.
 
 Cách đóng khung đáng mang vào thực tiễn là của chính trang này: giữ vòng lặp thuộc về con người, rồi tìm xem AI khớp vào đâu bên trong nó, thay vì đặt một điểm kiểm tra của con người vào trong một vòng lặp thuộc về máy — chính mối lo mà kho tri thức ghi nhận là rủi ro [[cognitive-offloading|giảm tải nhận thức]] khi một công cụ tiếp quản phần của nhiệm vụ vốn đang làm công việc phát triển.
-
-## Khái niệm liên quan
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

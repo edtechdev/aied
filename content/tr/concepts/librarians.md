@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -73,32 +75,3 @@ Rolün sınırlarını belirleyen iki dal daha vardır. [[pearls-epistemic-verif
 **“Bilgi okuryazarlığı tek seferlik bir oryantasyon oturumudur.”** Bu bir yardım değil, öğretimdir: öğrencilerin geldiği sorular değerlendirme ve strateji problemleridir (bu kaynak güvenilir mi, bunu nasıl ararım) ve bunlar tamamlanacak işlemler değil, öğretilebilir becerilerdir. Hizmeti yardım olarak ele almak, bir müfredatı bir yardım masasına dönüştürür ve kalıcı kapasiteyi kaybeder.
 
 **“Doğrulamanın bedelini kimin ödediği başkasının sorunudur.”** Danışma yükü kütüphane kadrosuna düşer ve makalenin kendi sorusu, kütüphanelerden bu yükü üstlenmesini istemenin kadro sayılarını aşıp aşmadığıdır. Birlikte tasarım ve ortaklık, literatürün önerdiği yanıtlardır; çünkü doğrulama maliyeti gerçektir ve bunun için bütçe ayırmamış bir birime düşer.
-
-## Bağlı kavramlar
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## Bağlı makaleler
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Sisteme gömülü kütüphaneciliğe dayalı seminer platformu; kaynak değerlendirmeyle yönlendirilen 312 danışma
-- [[genai-academic-search-workshop]] — Üreten YZ ve akademik arama üzerine CHIIR 2026 atölyesi; kütüphaneci güven boşluğu
-- [[maybee-disruptive-partnerships-sap-2025]] — YZ okuryazarlığını öğrencilerle eş olarak ortak tasarlayan akademik kütüphaneciler
-- [[aarc-ai-research-competency-2026]] — Öğretilebilir araştırma taahhütleri olarak doğrula, atıf yap, yansıt
-- [[pearls-epistemic-verification-2026]] — Altı boyutlu doğrulama protokolü; kapı olarak erişim ve meşruiyet
-- [[hingle-collaborative-ai-literacy-2025]] — YZ okuryazarlığı için işbirlikçi öğrenme; bilgi okuryazarlığı yararlarının aktarılması
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Öğretim elemanları atıf yapmayı ve sorumlu kullanımı en üstte sıralar, ancak 26 beceriden yalnızca birkaçını öğretir
-- [[bird-multimodal-educational-literature-2026]] — İngilizce öğretmenleri ve kütüphaneciler gibi teknik olmayan kullanıcılar için kurulmuş metin karmaşıklık aracı
-- [[cognitive-offloading-llm-synthesis-writing]] — YZ kaynakları onlar için sentezlediğinde öğrenenlerin dış kaynak kullanımına aktardıkları
-- [[citation-errors-hallucinations-computing-education-2026]] — Bir doğrulama sorunu olarak uydurma ve hatalı atıflar

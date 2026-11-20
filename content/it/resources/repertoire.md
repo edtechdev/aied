@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -52,9 +53,3 @@ Docenti nell'istruzione superiore che vogliono che la [[learning-design|progetta
 - **Inferenza di terze parti.** Le risposte sono generate tramite l'API Claude di Anthropic con l'API di OpenAI come backup, secondo termini commerciali che la policy dice escludano l'addestramento su input e output delle API a partire da settembre 2026. Un'istituzione dovrebbe confermarlo tramite il proprio accordo anziché tramite una pagina web.
 - **Non è un valutatore.** La policy e i termini descrivono entrambi i giudizi dell'assistente, come «obiettivo raggiunto», come ausili per il docente; i voti e le decisioni accademiche restano al docente e all'istituzione, e le decisioni sulla [[ai-use-disclosure|dichiarazione dell'uso dell'IA]] agli studenti sono lasciate al docente.
 - **Ospitato negli Stati Uniti.** I dati risiedono in Google Cloud Firestore con hosting Vercel, e la policy affronta gli obblighi FERPA dove il servizio gestisce registri educativi; agli utenti fuori dagli Stati Uniti viene detto che i loro dati sono elaborati lì.
-
-## Concetti collegati
-
-- [[learning-design]] — la progettazione strutturata dei compiti come punto in cui la politica sull'IA diventa concreta.
-- [[guardrails]] — vincoli di partecipazione e aiuto IA limitato come restrizioni in fase di progettazione.
-- [[ai-use-disclosure]] — è il docente, non la piattaforma, a decidere come viene dichiarato l'uso dell'IA agli studenti.

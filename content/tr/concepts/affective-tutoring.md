@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -60,7 +62,6 @@ Favero ve ark. (2025), YZ öğretmenleriyle duygusal [[student-engagement|katıl
 | Yüz izleme dikkati işaret eder | Sürekli video yakalama **gizlilik endişeleri** doğurur |
 
 Yazarlar, duygusal risklerin YZ kullanımı denetlenmediğinde [[self-efficacy]], [[agency]] ve [[well-being]] **aşınmasının** daha geniş bir örüntüsünün parçası olduğunu savunur.
-
 
 **Risk, öğretmeni hiç açmayan kişilere de düşer.** [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], bir sistemin duygusal destek sağlayabileceğine inanıldıkça kişinin kendi duygusal desteğini sağlama isteğinin azaldığını bulmuş ve bu inanç ikinci deneylerinde nedensel çıkmıştır: empatik YZ hakkında sıradan bir haber metni okumak, tamamen algılanan kapasite üzerinden, destek yükünü devretmeyi artırmaya yetmiştir. Dördüncü çalışmaları, birey düzeyindeki çerçevenin gözden kaçırdığı bir toplumsal maliyet ekler. Bir öğrencinin destek için bir [[conversational-ai|sohbet robotuna]] gittiği söylenen katılımcılar, öğrenci bir arkadaşına gitmiş olsaydı yükü daha az devredeceklerini söylemiştir. Ardından o öğrenci hakkında daha az empati, daha çok kayıtsızlık sözcüğü yazmış ve öğrenciyi daha yabancı ve daha çaresiz olarak derecelendirmiştir. Dolayısıyla [[social-emotional-learning|sosyal-duygusal]] desteğin sağlanması, onu kullanan hiç kimse bir değişiklik bildirmese bile öğretmenin çevresinde seyrelebilir.
 
@@ -109,25 +110,3 @@ Duygusal öğretmenlik, [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] 
 
 - Kazanma oranının hangi temele karşı ölçüldüğü bildirilmeli ve bunun karşılaştırmalı bir yargı olduğu açıkça belirtilmelidir. Ardından alanın gerçekte ihtiyaç duyduğu şey ölçülmelidir: uyarlanabilir olmayan bağlamlara aktarım, öğretmen çekildikten sonra kalıcılık ve duygusal kanal kapalıyken kazanımların sürüp sürmediği.
 - Duygu profilleri bağımsız değişken olarak kullanılmadan önce uzman yargısına karşı doğrulanmalıdır.
-
-## Bağlı kavramlar
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Bağlı makaleler
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-
-- [[shastry-gray-empathy-offloading-2026]] — İnsanlar YZ'nin empati verebileceğini düşündüklerinde empatiyi devrediyor (Shastry ve Gray 2026)

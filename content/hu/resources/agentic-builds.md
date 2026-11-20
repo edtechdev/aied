@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,7 +43,3 @@ Oktatóknak és [[learning-design|oktatástervezőknek]], akik kidolgozott péld
 ## Megjegyzések és fenntartások
 
 Az építéseket nyíltan megosztottként írják le, de sem az építések, sem a galéria oldalai nem neveznek meg licencet, így az újrafelhasználáshoz a szerző engedélye kell, nem feltételezett felhatalmazás. A forrás viszont nyilvános: a fiók repository-jai tartalmazzák az építések mögötti HTML-t és JavaScriptet, valamint egy útmutatót a kódoló ügynökökkel való munkához az oktatásban, így az olvasó megvizsgálhat egy alkalmazást, nem csak futtathatja. Több hivatkozás Netlify deploy-preview címre mutat, nem projekthelyre; azokat átnézésre építették, és lejárhatnak, míg a GitHub Pages építései a stabilak. Néhány építés a TypeSafe AI Jev-modelljére támaszkodik, és annak valószínűségeit mutatja, így a mögöttes viselkedés egy modell ítélete, nem rögzített szabály. A kívánatos nehézségek útvonala érv – a súrlódás mint funkció –, és az oldal anélkül mutatja be, hogy értékelést jelentene arról, tanulnak-e többet a diákok.
-
-## Kapcsolódó fogalmak
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

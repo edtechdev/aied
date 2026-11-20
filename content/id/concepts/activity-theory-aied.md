@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -86,26 +88,3 @@ Bagi perancang dan pendidik, teori aktivitas menyarankan untuk melihat melampaui
 **"Jika keyakinan guru diubah, praktiknya akan mengikuti."** Unit perubahan lebih besar daripada orangnya. Intervensi yang mengubah norma, distribusi beban kerja, dan aturan bersama mengubah praktik lebih andal daripada intervensi yang diarahkan pada keyakinan individu, karena objek aktivitas dihasilkan secara kolektif. Ini juga menjelaskan mengapa pengadopsi yang antusias secara individual kembali ke pola lama ketika departemennya tidak bergerak bersamanya.
 
 **"Teori aktivitas adalah lensa deskriptif tanpa konsekuensi desain."** Teori ini mengarahkan desain pada kontradiksi antarelemen sistem — alat yang bertentangan dengan aturan, pembagian kerja yang bertentangan dengan objek — yaitu tempat perubahan benar-benar dapat diungkit. Lensa yang menemukan kontradiksi memberi Anda tempat untuk melakukan intervensi, bukan sekadar kosakata.
-
-## Konsep terkait
-- [[sociocultural-learning]] — keluarga teoretis tempat teori aktivitas bernaung (Vygotskian, kultural-historis)
-- [[learning-theories]] — hub yang menempatkan teori aktivitas di antara teori-teori belajar
-- [[distributed-cognition]] — penekanan bersama pada kognisi yang dimediasi alat dan terdistribusi secara kontekstual
-- [[situated-learning]] — penekanan bersama pada konteks dan partisipasi dalam aktivitas
-- [[agency]] — bagaimana AI mendistribusikan ulang agensi manusia di seluruh sistem aktivitas
-- [[teacher-role]] — teori aktivitas kerap menganalisis adopsi dan praktik guru
-- [[learning-analytics]] — CHAT menambatkan desain analitik
-- [[generative-ai]] — artefak AI yang masuk dan mengganggu sistem aktivitas pendidikan
-- [[technology-acceptance-model]] — penjelasan adopsi yang kontras dan berpusat pada keyakinan individu
-
-## Artikel terkait
-- [[jiang-genai-activity-theory-disciplines-2026]] — Perbedaan disipliner dalam penggunaan dan pengungkapan GenAI melalui lensa teori aktivitas
-- [[genai-runaway-object-math-higher-ed]] — Analisis CHAT tentang GenAI yang menyusun ulang sistem aktivitas pengajaran dan penelitian
-- [[raffaghelli-situated-ai-ethics-2026]] — Etika AI tersituasi yang memadukan teori sistem ekologis dengan CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Teori aktivitas sebagai lensa atas adopsi AI oleh guru (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Perspektif guru K-12 tentang penggunaan AI melalui teori aktivitas
-- [[ai-disruption-engineering-education-chat-2026]] — Perubahan norma siswa dalam pendidikan teknik melalui CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Perancangan ulang CHAT-SDT atas pengembangan profesional guru
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — Pipeline analitik pembelajaran bertambat CHAT untuk literasi AI
-- [[llm-family-education-activity-theory-2026]] — Tinjauan cakupan 53 studi HCI: LLM mendistribusikan ulang kerja pendidikan keluarga, sementara aturan sebagian besar diantisipasi alih-alih diberlakukan
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI sebagai agen mediasi: bukan alat dan bukan kolaborator

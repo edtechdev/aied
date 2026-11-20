@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -105,58 +107,3 @@ K-12 ML गतिविधि डिज़ाइन सतह पर रहत�
 - **"एक [[llm|एलएलएम]] उच्च विश्वसनीयता पर वैध होने के बाद पाठ्यचर्या का मानचित्रण कर सकता है।"** GPT-o3-mini ने **48 मूल्यांकनों में से प्रत्येक के लिए सात उद्यम कौशलों पर 100% वितरित किया**, विशेषज्ञ भारों के विरुद्ध **Krippendorff का अल्फा 0.81** तक पहुँचते हुए, और फिर भी विशिष्ट कौशलों पर **सहमति** टूट गई। उच्च समग्र विश्वसनीयता के साथ असमान सहमति वह पैटर्न है जिसे मानचित्रण पर भरोसा करने से पहले जाँचना चाहिए।
 - **"AI साक्षरता को शामिल करने का अर्थ एक पाठ्यक्रम जोड़ना है।"** LearnAI समाहित रूप दिखाता है: **पाँच विषयों के 18 मौजूदा पाठ्यक्रमों (293 विद्यार्थी) के भीतर छोटी प्रस्तुतियों की एक चौड़ी-अवधारण परत**। अवधारण किसी एक इकाई में एकत्र करने के बजाय पूरे पाठ्यक्रम में वितरित थी।
 - **"विद्यार्थी पहले से ही मीडिया का आलोचनात्मक मूल्यांकन कर सकते हैं।"** **सर्वेक्षण किए गए शिक्षा और पत्रकारिता विद्यार्थियों में से केवल 13.8%** ने कहा कि उनके पाठ्यक्रम-कार्य ने आलोचनात्मक मीडिया विश्लेषण को संबोधित किया, जबकि **97.8% ने इसे महत्वपूर्ण बताया**। किसी कौशल को महत्व देने और उसे सिखाए जाने के बीच का अंतर ही पाठ्यचर्या का अवसर है।
-
-## संबंधित अवधारणाएँ
-- [[pedagogical-partnerships]] — शैक्षणिक साझेदारी
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — छत्री: एआई शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
-- [[recommender-systems-and-learning-paths]]
-
-## संबंधित लेख
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI-के-लिए-रचनात्मक-संरेखण मार्गदर्शन का समालोचनात्मक विमर्श विश्लेषण (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — शिक्षा के माध्यम से एआई प्रणालियों में विश्वास संबोधित करना: एक शिक्षाशास्त्रीय दृष्टिकोण
-- [[refrain-amplify-genai-curriculum-2026]] — GenAI के अनुक्रमण के लिए रुकें-फिर-बढ़ाएँ पाठ्यचर्या ढाँचा (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — ऊष्मीय इंजीनियरिंग में परियोजना-आधारित एआई शिक्षा पाठ्यचर्या
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — एआई युग में स्मार्ट निर्माण के लिए Workforce Readiness Level ढाँचा
-- [[rewriting-curriculum-genai-pedagogy-2026]] — पाठ्यचर्या का पुनर्लेखन: GenAI-संचालित शिक्षाशास्त्रीय परिवर्तन
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — प्रमाणन हेतु भारित, विशेषज्ञ-सत्यापित कौशल मानचित्रण
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — पाठ्यचर्या मैपिंग के लिए एआई कौशल ढाँचा: 26 मूल्यांकन योग्य कौशल
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: विषयों में समय-सहित एआई सह-निर्माण
-- [[ai-video-dual-gatekeeping-2026]] — जब "ना" कहना बेहतर वीडियो बनाता है: शिक्षाशास्त्रीय रूप से आधारित एआई सामग्री निर्माण के लिए दोहरी गेटकीपिंग
-- [[niri-steam-ai-literacy-review-2026]] — एआई साक्षरता के लिए STEAM शिक्षा: व्यवस्थित समीक्षा
-- [[caruana-pre-university-ai-education-slr-2026]] — एक एआई-संचालित भविष्य के लिए शिक्षार्थियों और शिक्षकों को तैयार करना: पूर्व-विश्वविद्यालय एआई शिक्षा का SLR (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — गणितीय मॉडलिंग समस्याएँ उत्पन्न करने वाला एआई-संचालित मंच (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — कण भौतिकी शिक्षा में एआई: अनुसंधान समस्याएँ और बुनियादी कौशल
-- [[computing-assessment-genai-workshop-report-2026]] — एआई आपका गृहकार्य कर सकता है. अब क्या? जनरेटिव एआई युग में संगणन मूल्यांकन पर एक ऑनलाइन कार्यशाला से रिपोर्ट
-
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — योग्यता ढाँचे पाँच आयामों पर अभिसरित होते हैं, बिना साझा शब्दावली या क्रॉसवॉक
-- [[bursic-ai-residency-education-curriculum-2026]] — निवास-चिकित्सा पाठ्यक्रमों में AI एकीकृत करने की बाधाएँ: बारह चिकित्सक नेताओं के गुणात्मक साक्षात्कार
-

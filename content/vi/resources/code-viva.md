@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -40,7 +41,3 @@ Giảng viên các học phần lập trình muốn có bằng chứng rằng si
 ## Ghi chú và lưu ý
 
 Mọi thứ chạy trong trình duyệt: học phần nằm trong bộ nhớ cục bộ kèm một bản xuất JSON, câu hỏi đi trong phần của liên kết mà trình duyệt không gửi lên máy chủ, và câu trả lời chỉ quay về dưới dạng mã do sinh viên chọn gửi, nên không có dữ liệu sinh viên nào tới bên thứ ba. Bộ tạo câu hỏi dựa trên quy tắc chứ không do mô hình điều khiển. Theo chính lời công cụ, bộ đọc mã của nó là heuristic, nên định dạng lạ hoặc macro có thể che mất một hàm, và một điểm số có thể thưởng cho việc biết từ vựng thay vì hiểu mã, đó là lý do các điểm chỉ là đề xuất để giảng viên duyệt và lý do nó khuyên giữ mức rủi ro thấp. Không có giấy phép và không có kho mã nguồn nào được công bố, và vì liên kết mang theo các câu hỏi nên chúng dài vài kilobyte, đủ dài để bị xuống dòng trong một ô tin nhắn của hệ thống quản lý học tập.
-
-## Khái niệm liên quan
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

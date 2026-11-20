@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -110,35 +112,3 @@ Sie führt auch eine Namensfalle ein, die offen ausgesprochen werden sollte. **K
 **„Eine [[feedback|KI-Feedbackschleife]] verbessert die Selbstbewertung automatisch.“** Eine Feedbackschleife verändert, womit der Studierende vergleicht, was die Kalibrierung verbessern und ihn ebenso an das Urteil des Systems verankern kann. Die hier referierte Vergleichsstudie (**118 Erstsemester, 56 in einer GenAI-Gruppe und 62 in einer Peer-Gruppe**, drei Zyklen über ein Semester) ist genau darauf angelegt zu prüfen, ob die Schleife oder der soziale Vergleich die Arbeit tut — und die Antwort ist nicht „die Schleife, weil sie eine Schleife ist“.
 
 **„Selbstbewertung ist eine weichere Alternative zum Prüfen.“** Sie ist ein anderes Ziel. Selbstbewertung entwickelt die regulatorische Fähigkeit, die eigene Arbeit zu beurteilen; eine Prüfung misst die Fähigkeit, die beurteilt wird. Forschung, die das eine durch das andere ersetzt, verwechselt die Fähigkeit, Leistung zu bewerten, mit der Leistung selbst.
-
-## Verbundene Konzepte
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-
-- [[reflection]]
-
-- [[ai-literacy]]
-
-## Verbundene Artikel
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstbeurteilung am Zentrum eines Rahmenswerks für selbstgesteuertes Wachstum (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Entwicklungsmäßig gestufte KI-Kompetenz-Materialien, mit Messung von Akzeptanz und Validität (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulierung von KI-Feedback mit Peer-, Lehrenden- und Selbstbeurteilung (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Warum Feedback nicht auf der selbstbeurteilten Schlussfolgerungs-Validität eines Modells beruhen sollte (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Ein validierter 15-Item-Fragebogen zur Selbstbeurteilung von KI-Kompetenz für die Klassen 4 bis 6, mit den metakognitiven Grenzen kindlicher Selbstauskunft (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 von 33 Messinstrumenten für die KI-Kompetenz von Lehrkräften sind Selbstauskunft, zwei testen Wissen objektiv, keines nutzt Leistungsaufgaben (Zainal, Mohd Matore & Maat 2026)

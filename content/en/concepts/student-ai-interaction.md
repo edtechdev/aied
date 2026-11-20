@@ -15,6 +15,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with [[generative-ai|generative AI]] systems during learning and [[problem-solving|problem solving]]. [[research-methods-aied|Research]] here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to [[learning-gains|learning outcomes]], [[cognitive-offloading|cognitive offloading]], and [[agency|agency]].
@@ -69,7 +71,6 @@ Bernstein and Sibia (2026) document an iterative-filter pattern in how CS2 stude
 Consulting AI at the right *point* in a task matters as much as the wording of the individual prompt: in the same study, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] found the reallocation-oriented minority alternated independent work with GenAI consultation and reported unchanged total effort but a shifted focus — moving resources from searching to checking argumentative quality and balance, and writing reflection notes after sessions to counter shallow retention — whereas learners with mastery goals but weak [[ai-literacy|AI literacy]] fell into an "efficiency paradox," offloading "not by intention, but by default."
 **Students' picture of the model tracks how they use it.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar et al. (2026)]] found 68% of 283 post-CS1 students described an LLM as a person ("smart friend", "tutor"), and machine framing accompanied slightly higher mechanism knowledge and more context-rich prompting.
 
-
 ### From interaction to pedagogy
 
 Characterizing student-AI interaction informs [[learning-design|learning design]]: instructors can notice when students' questioning patterns are narrow or shallow and design interventions that broaden inquiry; [[teacher-role|teacher role]] shifts toward coaching students to interact productively with AI. It also grounds [[ai-literacy|AI literacy]] curricula that treat effective prompting and verification as learnable skills rather than innate abilities.
@@ -98,43 +99,3 @@ The anxiety dialogue relieves can be social rather than technical: across 596 Eg
 - **"Interaction taxonomies are settled."** **Across 46 categorisations from 33 studies, similar labels name different phenomena**, which is why the review proposes the *interaction episode* as the unit. A coding scheme borrowed from one taxonomy may be measuring a different construct.
 - **"Students use AI as a tutor."** Among **38 undergraduates** completing unsupervised argumentative essays, **76.32% used a single-turn ask-get-answer-stop pattern**, typically pasting the assessment title. The dominant pattern is single-turn retrieval, which is not tutoring.
 - **"Greater AI use indicates greater engagement with the material."** An analysis of **200 co-programming chat sessions** found **78.8% of student-GenAI interactions ran on non-mastery aims and strategies**. Volume of interaction measured something other than learning orientation, so session counts are a misleading engagement proxy.
-
-## Connected Concepts
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[ai-chatbots-emotional-support-human-connection-2025]] — Usage frequency and self-rated expertise predicted nothing across 819 students
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[shen-ai-skill-formation-2026]] — Six AI interaction patterns, from 86% down to 24% on an unaided quiz (Shen & Tamkin 2026)
-- [[cs-students-llm-conceptualizations-prompting-2026]] — Who (or what) are they prompting? How CS students conceptualize and use LLMs
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 undergraduates: use by course area (88% natural science, 52% humanities, 36% social science) and studying as the top task

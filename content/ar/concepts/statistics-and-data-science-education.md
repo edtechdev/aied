@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -86,26 +88,3 @@ ai_assist:
 - **"الرضا والفائدة المدرَكة يدلّان على أن أداة ذكاء اصطناعي لعلم البيانات تعمل."** استخدم الطلاب نماذج اللغة الكبيرة بكثافة في تصحيح الأخطاء وأسئلة المفاهيم و**أبلغوا عن رضا مرتفع، بينما تراجع إدراكهم لفائدة التعلّم العميق على مدى الفصل**. فبقي الرضا وهبط مسار التعلّم المقيَّم ذاتيًا، لذا لا أي من الرقمين وحده هو النتيجة.
 - **"النموذج غير المقيّد كالمعلّم الموجَّه."** وجدت مقارنة تجريبية أن **التدريب الصريح على التسهيل المرتكز على الاستدلال — تلميحات متدرجة، وتحقق — أنتج أداءً مستقلًا أفضل ومعايرة تقييم ذاتي أفضل** من الوصول المجرّد إلى النموذج نفسه. فالإرشاد، والتدريب على كيفية استخدامه، هما ما حمل الأثر.
 - **"الحماية من إعطاء الإجابة كافية."** معلّم غرضي البناء مُغلّف حول واجهة برمجية مستضافة، ومُهيّأ بأوامر نظامية لـ**الإرشاد لا الإجابة**، نُشر في مقرر R استمر فصلًا كاملًا لطلاب علم النفس في المرحلة الجامعية، **حيث استخدمه 76% إلى 84% من الطلاب في الأسابيع ذات الصلة بالامتحان. ذلك تبنٍّ، لا دليل على أن الحماية أنتجت تعلّمًا:** فالحماية على مستوى الأمر رافعة من عدة روافع ولا تنتج تعلّمًا بذاتها.
-
-## المفاهيم المرتبطة
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## المقالات المرتبطة
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — أداة وكيلية تولّد مجموعات بيانات اصطناعية قابلة للفحص لتدريب إحصائي مخصّص
-- [[ai-tutor-statistical-programming-adoption-2026]] — معلّم R غرضي البناء؛ تتبّع التبنّي تقويم الامتحانات
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — تصنيفات صعوبة نماذج اللغة الكبيرة تتبّع مستويات بلوم لا أداء الطلاب
-- [[tactile-statistical-graphs-accessibility]] — خط أنابيب مفتوح المصدر يولّد رسومًا إحصائية لمسية بمراجعة مدرّس
-- [[guided-llm-scaffolding-independent-learning]] — التسهيل الموجَّه تفوّق على الوصول غير المقيّد في الأداء المستقل
-- [[lund-socially-accountable-data-science-xai-2026]] — تضمين المساءلة الاجتماعية في منهج علم البيانات التقني

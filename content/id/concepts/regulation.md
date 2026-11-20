@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,54 +62,10 @@ Audit atas kebijakan privasi [[edtech-platform|platform EdTech]] memberi keterga
 
 Regulasi terhubung dengan [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], dan [[academic-integrity]]. Ia adalah lapisan institusional yang membentuk bagaimana semua praktik pendidikan AI lainnya beroperasi. Regulasi sekaligus membatasi dan memungkinkan: ia menetapkan batas penggunaan AI yang dapat diterima sambil menciptakan kondisi — melalui [[ai-literacy|literasi AI]] dan ekspektasi penggunaan yang bertanggung jawab — bagi integrasi yang [[equity-in-ai-education|adil]] dan aman.
 
-
 Regulasi tidak serta-merta diterjemahkan ke bawah: 32 badan pendanaan yang beroperasi di wilayah tempat aturan AI tingkat negara bagian berlaku menerbitkan kebijakan umum tetapi tidak ada instrumen khusus pendanaan yang membawa aturan-aturan itu ([[chan-ai-policy-gap-2026|Chan, 2026]]).
-
 
 ## Miskonsepsi Umum
 
 - **"Kebijakan AI institusional adalah tempat aturannya berada."** Survei [[watson-rainie-ai-challenge-faculty-survey-2026|Watson dan Rainie (2026)]] terhadap **1,057 dosen AS** mengukur seberapa jauh di bawah lapisan institusional aturan efektif itu berada: **87% responden menulis** panduan mereka sendiri. Kebijakan yang operatif sebagian besar ditulis dosen, yang berarti lapisan institusional yang terdokumentasi menggambarkan lebih sedikit daripada yang tampak.
 - **"Menulis kebijakan mencakup permukaan yang berisiko."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] menunjukkan mengapa perkakas penilaian termasuk dalam himpunan yang diregulasi: dalam uji red-team, **dua dari lima injeksi prompt tidak langsung** yang disembunyikan dalam kiriman berhasil. Aturan yang menyebut alat tetapi tidak permukaan injeksi membiarkan eksploitasinya tidak tertangani.
 - **"Sistem agentik tercakup dengan memperluas aturan yang ada."** Dalam analisis dokumenter atas **12 universitas**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong dan Sun (2026)]] menemukan **tidak ada pembanding yang menangani agen yang masuk ke sistem manajemen pembelajaran**. Kesenjangan tata kelola itu struktural: kategori yang ada tidak punya slot untuk aktor otonom yang memegang kredensial.
-
-## Konsep terkait
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — paparan hukum ketika regulasi dan tata kelola tidak jelas atau terlalu luas
-
-## Artikel terkait
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — AI dalam kebijakan pendidikan tinggi Inggris
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — Kerangka deklarasi AI
-- [[genai-assessment-governance]] — Tata kelola penilaian di bawah GenAI
-- [[league-ethical-governance-student-data-2026]] — Tata kelola etis data siswa
-- [[student-regulatory-awareness-genai]] — Kesadaran regulasi siswa terhadap GenAI
-- [[dot-framework-survey-2026]] — Kerangka adopsi teknologi
-- [[raza-farooq-aied-review-2020-2025]] — Tinjauan komprehensif penelitian AIED
-- [[qian-governing-genai-higher-ed-policy-2026]] — Panduan alih-alih kebijakan yang mengikat: aturan AI internal di 50 universitas AS yang inovatif (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Kebijakan GenAI sekolah hukum dinilai pada lima dimensi: prohibitif secara bawaan, diskresi instruktur, peninjauan berkala (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Larangan AI yang terlalu inklusif dan kewajiban penyesuaian yang wajar yang mungkin diaktifkannya (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Latar belakang bahasa dalam aturan penilaian: batas dukungan–substitusi sebagai pertanyaan kesetaraan (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Serangan injeksi prompt pada penilai AI dan alasan pengujian ketahanan terstandardisasi (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Tekanan regulasi eksternal sebagai kondisi bagi reformasi tata kelola (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% dosen menulis aturan mereka sendiri di atas lapisan kebijakan institusional yang tipis (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Tidak ada kebijakan pembanding yang menangani agen AI yang masuk ke LMS atau memegang kredensial siswa (Wong & Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — Non-penerjemahan vertikal: aturan negara bagian ada sementara pemberi dana di bawahnya tidak menerbitkan instrumen yang mengikat (Chan 2026)
-

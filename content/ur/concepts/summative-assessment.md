@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,44 +80,3 @@ ai_assist:
 - **"LLM سرکاری معیارات پر درجہ نہیں دے سکتا۔"** **ہموار شدہ سرکاری نمبروں** کے مقابلے میں، Physics Olympiad اور یونیورسٹی کے **10,364 ہاتھ سے لکھے** صفحات کو درجہ دینے والے کثیر الوضع LLM کا تعلق مضبوط رہا۔ نتیجے کا اتفاق سوال کی سطح پر ناقص درجہ بندی کے باوجود قائم رہ سکتا ہے — یعنی کارآمد سوال یہ ہے کہ سوال کی سطح پر درستگی واقعی کہاں ضروری ہے۔
 - **"AI سے درجوں کی افراط محض قیاس ہے۔"** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] کا **500,000 سے زیادہ درجوں** پر نیم تجربہ طریقہ کار کو ٹھوس بناتا ہے: ChatGPT کے اجرا کے بعد، **زیادہ AI کے سامنے کاموں والے کورسوں میں بلند درجوں کا حصہ بڑھ گیا**۔ اثر وہاں مرکوز رہا جہاں کام سامنے تھے، اور یہی وہ نمونہ ہے جس کی کسی طریقہ کار سے توقع ہوگی۔
 - **"AI استعمال کرنے والے طلبہ کو غیر استعمال کرنے والوں سے الگ نہیں کیا جا سکتا، چنانچہ ماخذ کی نشاندہی بے سود ہے۔"** یہ دریافت کہ AI سے پیدا شدہ اور لائسنس امتحان کے سوالات کے درمیان **ماخذ کی نسبت میں کوئی معنی خیز فرق نہیں** تھا، **68.6-77.5 فیصد** درست پہچان اور **18.2 فیصد** غلط نسبت کے ساتھ، پہچان کی ناکامی کے بارے میں ہے — اِس بارے میں نہیں کہ ماخذ کی نشاندہی غیر ضروری ہے۔ اگر کچھ ہے تو یہ تصدیق شدہ ماخذ کی شرط کو مزید سخت کرتا ہے۔
-
-## منسلک تصورات
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## منسلک مضامین
-- [[llm-grading-assistants-public-health-2026]] — LLM درجہ بندی کرنے والے زیادہ داؤ والی مضمون نگاری کی جانچ میں درجے کا پیمانہ سکیڑ دیتے ہیں اور انتہاؤں سے بچتے ہیں
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحانات کو مستند، AI کے خلاف مزاحم اختتامی جانچ کے طور پر از سرِ نو دیکھنا
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — جنریٹو AI کے سیکھنے کا نقصان: نگرانی والے/بند کتاب امتحان کے شواہد
-- [[chirikov-ai-grade-inflation-2026]] — AI کے ذریعے کام کی جگہ لینا بطور درجوں کی افراط کا طریقہ کار؛ ہوم ورک سے بھاری کورس (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — تیز تکمیل، کم سیکھائی: نگرانی والے پیمانے لازمی
-- [[generative-ai-guardrails-harm-learning]] — بغیر گارڈ ریل جنریٹو AI سیکھائی کو نقصان پہنچاتا ہے
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI سے پیدا شدہ امتحانات کے معیار کا جائزہ
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM مضامین کو انسانوں کی طرح درجہ نہیں دیتے
-- [[llm-automated-assessment-student-self-explanations]] — طلبہ کی خود تشریح کی خودکار جانچ کے لیے LLM
-- [[cong-confidence-asag-2026]] — خودکار مختصر جواب کی درجہ بندی
-- [[psyscore-essay-scoring-zpd-feedback]] — نفسیاتی پیمائش سے واقف، خصوصیت کے مطابق ڈھلنے والی مضمون کی درجہ بندی
-- [[socratic-tests-conversational-assessment]] — سقراطی ٹیسٹ: متحرک، مکالماتی، کثیر الوضع جانچ
-- [[code-review-genai-cs1]] — CS1 میں کوڈ جائزے کے انٹرویو
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[test-driven-ai-assisted-learning]] — ٹیسٹ سے ہدایت یافتہ AI کی مدد والی سیکھائی
-- [[genai-oop-programming-assessments-2026]] — آبجیکٹ اورینٹڈ پروگرامنگ کی جانچ میں GenAI کی کارکردگی
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: نتیجہ خیز جدوجہد اور سیکھائی کا سراب
-- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL میں AI سے پیدا شدہ بمقابلہ انسان کے تیار کردہ جانچی کام
-- [[roe-assessment-twins-2026]] — GenAI کے دور میں جانچ کا جواز مضبوط کرنے کے لیے جانچ کے جڑواں (Roe, Perkins اور Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی فزکس کی جانچ کی AI درجہ بندی (Olympiad)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — طلبہ AI کے لکھے سوالات کو قابلِ اعتماد طور پر نہیں پہچان سکتے

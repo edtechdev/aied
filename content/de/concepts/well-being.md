@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -97,45 +99,3 @@ Emotionale Unterstützung und Verbindung können innerhalb einer Stichprobe in e
 - **„Die Zustimmung der Studierenden zeigt, dass Wohlbefinden unterstützt wird.“** Unter **551 Erstsemesterstudierenden** befürworteten **82,76% die Integration** digitaler und intelligenter Inhalte — und **hohe Zustimmung ging mit Belastung einher, während KI-Aufgabendruck den Nutzen schwächte**. Zustimmung und Belastung steigen gemeinsam, sodass Zufriedenheitsbefragungen genau hier in die Irre führen.
 - **„Unterstützung für das Wohlbefinden ist kulturell neutral.“** [[culturally-aware-student-stress-chatbot-2026|Bashir und Afzal (2026)]] beschreiben Sukoon, ein hybrides Werkzeug zur Unterstützung des Wohlbefindens, als **kulturell verortet** — und die Rahmung dieser Seite benennt seine Grenzen. Ein Unterstützungsdesign, das eine universelle Studierendenschaft annimmt, verfehlt die Population.
 - **„Aufgabendruck ist von der Technologie getrennt.“** Der Befund ist, dass KI-**Aufgabendruck** den Nutzen der Integration schwächte, was die Arbeitslast in die Wirkungen der Technologie hineinlegt statt neben sie.
-
-## Verbundene Konzepte
-
-- [[learners]] — Learners: das Dach für die lernendenseitigen Konzepte
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — Campus-Unterstützungsdienste überspannend Beratung, Ansprache und Überweisung
-
-## Verbundene Artikel
-- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 350 Lehrkräfte: AI-TCK erhöht die Arbeitszufriedenheit, während AI-TK sie senkt, und Zufriedenheit ist der einzige Weg zum Wohlbefinden (Kayalı et al., 2026)
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 Studierende bewerteten Chatbots hoch und fürchteten am meisten den Verlust menschlicher Verbindung
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Reibung, Bedeutung und Einsamkeit als biologisches Signal
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — Die Beziehung zwischen KI-Angst und akademischer Motivation
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profile und Übergänge psychologischer Anpassung im KI-assistierten Japanischlernen
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Eine kritische narrative Synthese zu Engagement mit und Abhängigkeit von konversationeller KI
-- [[mindful-llm-math-tutoring-2026]] — Jenseits der Problemlösung: Large Language Models für emotionale und reflexive Unterstützung im Mathematiklernen
-- [[sec-ai-literacy-narrative-review-2026]] — Integration sozio-emotionaler Kompetenzen in KI-Kompetenz
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engagement der Studierenden mit GenAI (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz (SDT)
-- [[genai-motivation-engagement-2026]] — Generative KI, Motivation und Engagement
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — KI-Chatbots, kollektive Wirksamkeit und Zusammenarbeit
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-augmentierte Erfassung von Studierendenangst (2026)
-- [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der Forschung zu KI × SEL
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell sensibler Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Universitätsstudierenden mit NLP und maschinellem Lernen
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[ai-emotional-intelligence-teacher-development-2026]] — Relationale Verdichtung als Kriterium für KI-unterstützte Entwicklung von Lehrkräften
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — Hohe KI-Kurs-Zustimmung koexistierend mit selbstberichteter Belastung, und Aufgabendruck schwächt Anpassung
-- [[ai-connectedness-adolescent-mental-health-2026]] — KI-Verbundenheit und psychische Gesundheit von Jugendlichen: ergänzende versus kompensatorische Bindung, mit einer invertierten U-Vorhersage
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Wahrgenommene KI-Assistenten-Intelligenz, Zielfortschritt und psychische Gesundheit, mit KI-Kompetenz als Moderator
-- [[ai-emotion-regulation-sport-exercise-2026]] — Konzeptionelle Neurahmung KI-unterstützter Emotionsregulation durch Sport, Bewegung und Campus-Ökologie
-- [[faculty-ai-well-being-social-supports-2026]] — Strukturgleichungsmodell des KI-Wohlbefindens von Fakultäten: KI-Kompetenz dominiert über Selbstwirksamkeit
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — Testangst wird umverteilt, nicht beseitigt
-- [[fang-chatbot-psychosocial-extended-use-2025]] — Vier Wochen, neun Bedingungen, kein signifikanter Effekt auf die Ergebnisse; die freiwillig gewählte Nutzungsdauer ging mit Schädigung einher (Fang et al. 2025)
-- [[folk-dunn-chatbot-companionship-loneliness-2026]] — Zwölf Monate, vier Erhebungswellen: Nutzung sagte Isolation bei einem einzelnen Item vorher, Einsamkeit sagte die Nutzung bei beiden vorher (Folk & Dunn 2026)

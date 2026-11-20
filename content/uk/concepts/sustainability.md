@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,30 +80,3 @@ ai_assist:
 - **«Абстрактні знання про ШІ прогнозують здатність викладачів навчати сталого розвитку.»** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] встановив, що **практичне використання ШІ** викладачами в контекстах науки та зеленої енергетики та їхнє **залучення до розробки матеріалів, узгоджених із ESD**, — **більше, ніж абстрактні знання про ШІ чи ставлення**, — прогнозували їхню здатність. Знання про ШІ й уміння будувати з ним розходилися, і практичний шлях прогнозував більше.
 - **«Дизайн навчання з підтримкою ШІ в межах педагогіки сталого розвитку породжує педагогіку сталого розвитку.»** Та сама робота виявила, що [[learning-design|instructional design]] з допомогою ШІ за педагогіки сталого розвитку **обмежував** дизайн у конкретних аспектах, а не розширював його. Модель, навчена на звичайних матеріалах, відтворює звичайні рамки, якщо сама робота над дизайном цього не коригує.
 - **«Сталий розвиток — це тема, а не наскрізна проблема.»** Оскільки обидва шляхи проходять крізь рівні, сталий розвиток з’являється у [[higher-ed|вищій освіті]], K-12 і професійних контекстах — а отже, це базова тема, яку треба розглядати всередині кожної дисципліни, а не викладати як окремий предмет.
-
-## Пов’язані поняття
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Пов’язані статті
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Шведське опитування та фокус-групове дослідження про те, що рішення установ щодо генеративного ШІ має спрямовувати етика партнерства, а не рамка шахрайства
-- [[daniel-ai-sustainability-scoping-review-2026]] — Систематичний огляд ШІ для сталого розвитку та сталого ШІ у вищій освіті
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Ціннісно критичний підхід до сталої освіти та ШІ
-- [[liu-ai-sustainable-engineering-education-2026]] — Рамка AI-SEE для сталої інженерної освіти
-- [[riandi-teacher-ai-green-energy-education-2026]] — Участь викладачів в інтеграції ШІ для освіти з зеленої енергетики
-- [[talebzadeh-ai-green-education-2026]] — «The Role of AI in Green Education»
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Помічники з базою знань на основі сталого ШІ
-- [[llm-environmental-impact-student-usage-2026]] — Екологічні наслідки використання LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Формування стійкого навчання через втілений інтелект
-- [[caruana-pre-university-ai-education-slr-2026]] — Систематичний огляд освіти зі ШІ до університету (рамка ЦСР 4)

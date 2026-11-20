@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -43,8 +44,3 @@ ai_assist:
 ## 注記
 
 ビルダーへのアクセスは制限されています。get-started ページではメールアドレスとオンボーディングワークショップの席、または招待コードが求められます。コンプライアンスの主張（FERPA、COPPA、GDPR、CCPA、SOC 2 Type II）、成果物が外部モデルの訓練に使われないという約束、出力の権利が作成者に帰属するという点は、マーケティングページだけでなくデータ処理契約に属するものです。MagicSchool や主要なチャットボットとの機能比較は Playlab 自身によるもので、2026 年半ばのものです。Scratch や MIT Media Lab に関連するエンドユーザープログラミングの研究から生まれました。
-
-## 関連する概念
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

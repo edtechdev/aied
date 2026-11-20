@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -48,11 +49,3 @@ Bachelorstudenten in elke discipline, en bovenbouwleerlingen van het voortgezet 
 De gids is [[formative-assessment|formatief]] geframed en zegt dat ook: scores zijn een momentopname van gewoonten, geen cijfer, geen eigenschap en geen voorspelling, en studenten wordt gezegd ze niet openbaar te delen.
 
 De framing rond AI rust op aangehaald enquête- en experimenteel bewijs dat het uitbesteden van inspanning ertoe kan leiden dat studenten minder onthouden — de [[cognitive-offloading|offloading]]-vraag die de gids is geschreven om tegenwicht te bieden, niet om te beslechten. De pdf van de veldgids zit achter een kort formulier dat naam, rol, instelling en e-mail vraagt; de modules van de docentengids en het artikel over het didactische kader downloaden direct. De interactieve versie draait in Gemini Notebook en vereist een Google-account. Uitgeverscijfers van meer dan 40.000 pdf-downloads over ongeveer 4.000 instellingen in 180 landen, en meer dan 130 eigen campusedities, zijn de hunne, net als de aanbevelingen van ALA, NASPA, EDUCAUSE, OLC, CAA, het Gardner Institute en RTI International.
-
-## Gerelateerde concepten
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

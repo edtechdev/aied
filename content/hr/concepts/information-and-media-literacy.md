@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -82,29 +84,3 @@ Stručni članak iz knjižničnog sektora gura istu ideju dalje: umjetna intelig
 ## Ograničenja dokaza
 
 Većina je studija ovdje mala, samoprijavljena ili oboje: 236 studenata u jednoj anketi, 36 djece u jednoj intervenciji, 412 knjižničara koji ocjenjuju sebe. Bibliometrijska vidljivost nije praksa, a scientometrijski autori to izričito kažu. Nijedna studija u korpusu ne vrednuje kombinirani kurikulum informacijske i medijske pismenosti, a alati za detekciju i provjeru činjenica koje literatura o praksi preporučuje u ovim su izvorima uglavnom nemjereni. Tvrdnju da provjera potpomognuta umjetnom inteligencijom poboljšava ishode treba tretirati kao dizajnersku hipotezu dok je netko ne testira u odnosu na kontrolu.
-
-## Povezani koncepti
-
-- [[ai-literacy]]
-- [[libraries]]
-- [[librarians]]
-- [[critical-thinking]]
-- [[critical-pedagogy]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Povezani članci
-
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapiranje integracije pismenosti o umjetnoj inteligenciji u poučavanje informacijske pismenosti u visokoškolskim knjižnicama: sustavni pregled novih istraživanja
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — Kako umjetna inteligencija preoblikuje informacijsku pismenost u visokoškolskim knjižnicama: globalna scientometrijska analiza (2020.–2025.)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Umjetna inteligencija i traženje informacija: komparativno istraživanje UI chatbota, tražilica i knjižničnih izvora kao izvora informacija među studentima
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Razvoj platforme za učenje u seminaru potpomognute umjetnom inteligencijom s potporom ugrađenog knjižničara
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Informacijska pismenost kroz otvorenu pedagogiju: koja je uloga UI alata?
-- [[huang-genai-academic-information-resources-2026]] — Generativna umjetna inteligencija preoblikuje održivu upotrebu akademskih informacijskih izvora kod studenata
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Angažman akademskih knjižničara sa studentima u promicanju informacijske pismenosti i poučavanja o umjetnoj inteligenciji u nigerijskim visokoškolskim ustanovama
-- [[offem-ai-information-literacy-library-users-2026]] — Umjetna inteligencija kao alat za promicanje informacijske pismenosti među korisnicima knjižnica
-- [[critical-media-literacy-education-2026]] — Tehnologija, obrazovanje i kritička medijska pismenost: potencijal, izazovi i mogućnosti
-- [[demir-akar-ai-media-literacy-children-2026]] — Pretvaranje klikova u kritičko mišljenje: program medijske pismenosti utemeljen na umjetnoj inteligenciji za djecu
-- [[ai-literacies-young-adults-2025]] — Podrška UI pismenostima za mlade od 14 do 19 godina

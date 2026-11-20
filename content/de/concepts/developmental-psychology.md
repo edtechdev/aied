@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition, executive-function, self-regulated-learning, scaffolding, cognitive-offloading, well-being, creativity, ai-literacy, longitudinal-research, research-methods-aied]
+connected_articles: [guo-ai-literacy-developmental-paces-2026, ai-toys-child-development-2026, clara-developmental-appropriateness-children-stories-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, genai-reliance-executive-functioning-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, adolescent-chatbot-self-disclosure-help-seeking-2026, ai-connectedness-adolescent-mental-health-2026, ai-play-framework-early-childhood-2026, age-tiered-ai-literacy-guidebooks-2026, preservice-early-childhood-genai-magnetism-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sharma-chatgpt-dependency-executive-dysfunction-stress-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -91,36 +93,3 @@ Policy- und Beschaffungsdokumente verwenden „altersgerecht", als wäre es eine
 - **„Wenn sich zwei Altersgruppen unterscheiden, erklärt das die Entwicklung."** Altersunterschiede im Querschnitt vermengen Kohorte, Curriculum, Gerätezugang und Kontext. Nur Designs, die dieselben Lernenden verfolgen, können Veränderung von Unterschied trennen.
 - **„Ein Tool, das Leistung unterstützt, entwickelt die Fähigkeit."** Kompensation, Scaffolding und Entwicklung sind unterschiedliche Funktionen; nur von der letzten wird erwartet, dass sie bestehen bleibt, wenn das Tool entfernt wird.
 - **„KI-Spielzeuge sind neutrale Spielmaterialien."** Das Argument der Agency-Umverteilung sagt etwas anderes: Die Reaktionsfähigkeit des Spielzeugs prägt, wer die Fantasiearbeit leistet.
-
-## Verbundene Konzepte
-
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]
-- [[executive-function]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-
-## Verbundene Artikel
-
-- [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12-Studien zur KI-Kompetenz: eine Progression über vier Bänder, ohne eine Studie, die dieselben Lernenden über Stufen hinweg verfolgt (Guo, Ali & Wong, 2026)
-- [[ai-toys-child-development-2026]] — KI-fähige Spielzeuge verteilen Handlungsmacht im Spiel um (Xu, Girouard & Shi)
-- [[clara-developmental-appropriateness-children-stories-2026]] — Bewertung der Entwicklungsangemessenheit anhand einer Taxonomie mit 122 Labels
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scoping Review zu GenAI und dem kreativen Denken von Kindern
-- [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026]] — Kompensation, Scaffolding und Entwicklung als drei Tool-Funktionen
-- [[genai-reliance-executive-functioning-2026]] — GenAI-Abhängigkeit Jugendlicher als Präferenz statt Anstrengung
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinder und Erwachsene im Gespräch mit ChatGPT im Scanner
-- [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — Was Jugendliche Chatbots offenbaren, nicht wie viel sie sie nutzen
-- [[ai-connectedness-adolescent-mental-health-2026]] — KI-Verbundenheit als ethisch asymmetrische Bindung (Theorie)
-- [[ai-play-framework-early-childhood-2026]] — Spielbasierte Unplugged-KI-Kompetenz für Pre-K und Kindergarten
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Zwei altersgestufte Ausgaben eines Guidebooks zur KI-Kompetenz
-- [[preservice-early-childhood-genai-magnetism-2026]] — Angehende frühpädagogische Fachkräfte gestalten mit GenAI
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Chatbot-Training für Exekutivfunktionen, zehn Studien
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Abhängigkeit, Stress und exekutive Dysfunktion bei Studierenden

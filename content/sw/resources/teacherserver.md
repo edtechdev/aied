@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -39,8 +40,3 @@ Kwa K-12: vizalishaji vya mpango wa somo, karatasi ya kazi, lengo la [[special-e
 ## Vidokezo
 
 Mradi unadai kuwa una seva ya AI iliyosakinishwa kwa ndani kwa ajili ya kasi, kwamba data inachakatwa kwa ndani na haihifadhiwi kamwe, na kwamba unazingatia miongozo ya Idara ya Elimu; ukurasa wa [timu](https://teacherserver.com/index-team.php) unataja Zafer Unal, profesa katika Chuo Kikuu cha Florida Kusini, kama mwanzilishi na msanidi programu, pamoja na bodi ya ushauri ya wanachuo wanne kutoka vyuo vikuu vingine. Madai hayo bado yanastahili kuthibitishwa kabla ya matumizi na kazi za wanafunzi. Upatikanaji unahitaji usajili, na kuna jukwaa la malipo-baadaye linaloweza kutumika kujenga zana zako mwenyewe.
-
-## Dhana Zilizounganishwa
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

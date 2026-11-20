@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -108,53 +110,3 @@ ai_assist:
 **«كشف إساءة الاستخدام ومعاقبتها استراتيجية منع.»** على المنع أن يغطي المُصحّح نفسه. فقد وجد تقويم فريق أحمر أجراه [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] أن اثنتين من خمس استراتيجيات حقن مطالبات غير مباشرة مُدمجة في ملف تسليم رفعتا درجة مقال راسب. فخطّ أنابيب يكشف إساءة استخدام الطلاب بينما يثق بمحتوى تسليم غير مفحوص محميّ من جهة واحدة فقط.
 
 **«إساءة الاستخدام مشكلة دافعية للطالب.»** يرفع [[coates-governing-academic-integrity-indicators-2025|Coates وCroucher وCalderon (2025)]] القيد المُلزِم مستوىً أعلى، فيعاملون الحوكمة لا سلوك الطالب كالشيء الذي ينبغي تغييره ويقترحون إطار مؤشرات نزاهة من 130 بندًا. والضرر التعلّمي قابل للقياس على نطاق واسع: فقد وجد [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg وLei وWu (2026)]] أن إسناد الواجبات المنزلية رفع درجاتها 18% بينما *خفض* درجات الامتحان مغلق الكتاب 20%، وهو إخفاق تصميمي يظهر في الفجوة نفسها التي تتناولها هذه الصفحة.
-
-## المفاهيم المرتبطة
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## المقالات المرتبطة
-
-- [[ivory-psychology-assessment-integrity-2026]] — مسارات أدلة ضبط الإصدارات ومستندات التحليل القابلة لإعادة الإنتاج كرادعات لإساءة الاستخدام (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — حجب توصية منع الاعتماد المفرط إلى حدّ كبير دون بناء الحكم الذي يحميه
-- [[generative-ai-guardrails-harm-learning]] — الذكاء الاصطناعي التوليدي دون ضوابط قد يضرّ التعلّم
-- [[genai-performance-vs-learning]] — التمييز بين مكاسب الأداء والتعلّم
-- [[ai-assessment-scale-reform]] — مقياس تقويم الذكاء الاصطناعي وإصلاح التقويم
-- [[critical-thinking-genai-scaffolding]] — سقالة التفكير النقدي بالذكاء الاصطناعي التوليدي
-- [[aaai2026-prompting-literacy-k12]] — تعلّم استخدام الذكاء الاصطناعي للتعلّم (وحدة ثقافة الذكاء الاصطناعي في مرحلة K-12)
-- [[genai-declaration-frameworks-higher-education]] — بناء الشفافية: أطر إفصاح الذكاء الاصطناعي التوليدي
-- [[absent-cognitive-baseline-2026]] — خطّ الأساس المعرفي الغائب
-- [[ai-literacy-power-knowledge]] — ثقافة الذكاء الاصطناعي: تمرين في السلطة والمعرفة
-- [[contextual-sycophancy-ai-literacy]] — الكلفة الخفية للتزلّف السياقي: تدخّل في ثقافة الذكاء الاصطناعي
-- [[sycophantic-ai-social-interaction-2026]] — الذكاء الاصطناعي المتزلّف يجعل التفاعل البشري أكثر جهدًا وأقل إشباعًا بمرور الوقت
-- [[ssaho-ai-academic-integrity-review-2025]] — بناء الثقافة وإعادة تصميم التقويم بدل شرطة الكشف
-- [[young-people-learning-generative-ai-rapid-review-2026]] — الاستسلام المعرفي والاحتكاك المنتج وعدم الإنصاف في ما وراء المعرفة
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — إعادة النظر في الامتحانات الشفهية كتقويم أصيل مقاوم للذكاء الاصطناعي
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة تعلّم الذكاء الاصطناعي التوليدي: استعهاد الواجبات يضرّ التعلّم
-- [[ai-overreliance-complex-adaptive-system-2026]] — الاعتماد المفرط على الذكاء الاصطناعي كنظام تكيّفي معقّد
-- [[burneo-can-edtech-close-learning-gaps-2026]] — إزالة الضوابط خفّضت الضرر دون تحسين درجات الامتحان
-- [[munoz-misconduct-allegation-evidence-2026]] — ما تحتويه ملفات ادّعاءات المخالفات فعلًا من أدلة
-- [[wright-transcription-not-generation-2026]] — قواعد الذكاء الاصطناعي الشاملة الزائدة والطلاب الذين تمسكهم
-- [[sharma-judgment-visible-genai-assessment-2026]] — النزاهة حكم تقويمي لا انصياغة
-- [[mulisa-students-genai-integrity-perspectives-2026]] — الطلاب: أأداة غشّ هو الذكاء الاصطناعي التوليدي أم شريك تعلّم؟
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — ما تفعله المراقبة عن بُعد بالطلاب وبالإنصاف
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — الوقاية الظرفية من الغش بمساعدة الذكاء الاصطناعي: من 183 إلى 27 حالة، وخمسة تصاميم تخصصية
-- [[ji-student-voices-academic-integrity-scoping-2026]] — ما توصي به 38 دراسة لأصوات الطلاب: وضوح مشترك الإنشاء واستدلال تربوي بدل العقاب
-- [[li-genai-assessment-language-equity-2026]] — أين ينتهي دعم اللغة ويبدأ الاستبدال لكتّاب الإنجليزية كلغة إضافية (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — حقن المطالبات ناقلًا لإساءة الاستخدام ضد التصحيح بالذكاء الاصطناعي (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — الحوكمة قيدًا ملزمًا للنزاهة: إطار من 130 مؤشرًا (Coates, Croucher & Calderon 2025)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — الاستخدام الطلابي المسؤول للذكاء الاصطناعي التوليدي في الكتابة الأكاديمية: مراجعة استطلاعية للحدود والمقاربات التعليمية وفجوات الأدلة
-- [[guo-overreliance-genai-feedback-2026]] — الحمل المعرفي يمرّ عبر التفريغ إلى الاعتماد المفرط، والمراقبة تغيّر المسار

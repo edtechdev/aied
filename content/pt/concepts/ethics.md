@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -122,55 +124,3 @@ A ética conecta-se a [[equity-in-ai-education]], [[privacy|privacidade]], [[bia
 A instrução em ética da IA é frequentemente justificada por um pressuposto que ninguém testa: o de que a [[ethics|educação em ética]] muda alguma coisa. Uma revisão sistemática e meta-análise de 2024 com 66 estudos e 9.978 estudantes é o melhor teste disponível desse pressuposto na educação em geral. As intervenções em ética elevaram os desfechos éticos e morais em g = 0,55 contra condições de controle, e 73% dos efeitos verdadeiros excederam o limiar de utilidade pré-registrado — mas **o formato de entrega carregou a moderação**: formatos baseados em discussão e de discussão mais didática funcionaram (g = 0,56 e g = 0,68), enquanto a instrução apenas expositiva não diferiu de zero (g = 0,10). A entrega online foi indistinguível da presencial.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
 
 A transferência para a ética da IA é uma inferência, e não um achado daquele estudo, mas é uma inferência forte: um módulo de ética da IA entregue como uma aula expositiva sobre viés e integridade é, segundo essa evidência, o formato mais fraco disponível.
-
-## Conceitos conectados
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — Declarações de uso e revelação de IA
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — Educação em química e IA: laboratórios, avaliação formativa, limites de LLM, filosofia da experimentação
-- [[biology-education]] — Educação em biologia e IA: assistentes de laboratório, letramento em IA em biologia, pensamento crítico, ferramentas especializadas
-- [[civic-and-political-education]]
-
-## Artigos conectados
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de pesquisa e grupos focais argumentando que a ética de parceria, e não o enquadramento de trapaça, deveria guiar as decisões institucionais sobre GenAI
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — A consciência ética amplificou a ansiedade em relação à IA onde nenhum framework de enfrentamento foi ensinado: mediação apenas indireta entre 584 estudantes
-- [[learning-analytics-to-educational-interventions-2026]] — Da analítica de aprendizagem às intervenções educacionais: habilitadores de intervenções confiáveis baseadas em LA (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Como os estudantes usam e escondem a IA em avaliações online
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Revelação de IA pelo estudante, estigma e aprendizagem autorregulada
-- [[vetter-hidden-cost-disclosure-genai-2026]] — O custo oculto da revelação
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Não conformidade dos estudantes com declarações de uso de IA
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Visões do corpo docente e dos estudantes sobre as dimensões éticas da IA
-- [[ethical-use-ai-engineering-education-review-2026]] — Uso ético da IA na educação em engenharia: uma revisão sistemática
-- [[ai-ethics-education-public-discourse]] — Análise longitudinal do discurso público sobre ética da IA na educação
-- [[ethical-ai-higher-ed-game-theory]] — Framework de teoria dos jogos para o uso ético da IA no ensino superior
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Crise do custo da ética nas buscas de emprego de estudantes de ciência da computação
-- [[xai-education-framework]] — IA explicável na educação (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Filosofia alternativa da IA: o daoísmo como método para a IA na educação
-- [[hazra-safetutors-pedagogical-safety-2026]] — Segurança de tutores de IA e danos pedagógicos
-- [[raffaghelli-situated-ai-ethics-2026]] — Ética situada da IA: um framework histórico-cultural para a educação
-- [[ethically-mediated-ai-tpack-china-2026]] — Conhecimento ético sobre IA como mediador integrativo no AI-TPACK de professores universitários (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — Ética da IA e julgamento profissional: uma análise bibliométrica (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — Análise do framework de política da UNESCO para IA generativa
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — É ético para os professores usarem IA para dar feedback aos estudantes?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Superando lacunas de letramento ético em IA entre estudantes, educadores e política
-- [[alharbi-ethical-genai-eap-2026]] — Integração ética de IA generativa em Inglês para Fins Acadêmicos
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Abordagem crítico-valorativa da educação sustentável e da IA (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Condições éticas para a adoção de LLMs na preparação para exames (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso, ética e política de GenAI de forma longitudinal na formação de professores (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticos para a IA na educação
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Quem Age, Quem Sabe, Quem Responde? Uma análise de discurso assistida por corpus de agência, responsabilidade epistêmica e responsabilização na pesquisa em ensino superior sobre IA generativa
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Consciência ética, reflexão e prática responsável relatada cresceram em grande medida de forma independente ao longo de três ondas anuais (Ayanwale et al.)
-- [[qi-information-ethics-ai-judgment-2026]] — Educação em ética da informação e julgamento ético sobre IA entre estudantes universitários
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — Aprendizagem eticamente consciente em uma sala de aula habilitada por IA
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — O ensino de ética funciona (g = 0,55), mas a entrega baseada em discussão funciona e a entrega apenas expositiva não

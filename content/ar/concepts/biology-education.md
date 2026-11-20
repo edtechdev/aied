@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -71,35 +73,3 @@ ai_assist:
 - **«لا يستطيع الطلاب التمييز بين الذكاء الاصطناعي ومساعد تدريس بشري.»** وجدت دراسة عن مساعد تدريس في مختبر افتراضي أن **المساعدين البشريين أدقّ وأكثر فاعلية من ChatGPT**، ومع ذلك **فضّل الطلاب استجابة الذكاء الاصطناعي في 40% من الحالات** ولم يستطيعوا **كشف مخرج الذكاء الاصطناعي إلا في 45% من الحالات**. فالكشف كان قريبًا من رمي عملة، والتفضيل مال إلى المصدر الأقلّ دقة، لذا لا تصلح بيانات الرضا هنا بديلًا عن الجودة.
 - **«التفضيل يدلّ على الجودة.»** تفصل الدراسة نفسها بينهما مباشرةً: فالمخرج المفضَّل هو الأسوأ. وأي تقييم لأداة ذكاء اصطناعي في الأحياء يُبلّغ عن رضا الطلاب دون مقياس دقة يُبلّغ عن الكمية الخطأ.
 - **«يجب تعليم ثقافة الذكاء الاصطناعي كمادة منفصلة.»** فقد وجد تضمين مفاهيم تعلّم الآلة **داخل مقرر أحياء في المرحلة الثانوية** أن سياق الأحياء **دعم** تعلّم الذكاء الاصطناعي — دليل على تضمين ثقافة الذكاء الاصطناعي في المنهج بدل إضافة وحدة مستقلة. فالمجال الدراسي أعطى المفاهيم ما تتعلّق به.
-
-## المفاهيم المرتبطة
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## المقالات المرتبطة
-- [[llm-open-ended-questions-biology-statistics-2026]] — تقويم أداء النماذج اللغوية الكبيرة على الأسئلة المفتوحة: قدرات الإجابة والتصحيح
-- [[biology-degree-integrity-genai-cheating-2026]] — هل يمكن للطلاب الغش حتى الحصول على شهادة في الأحياء؟ دراسة حالة لقابلية درجات مقررات الأحياء للتعرّض للغش الأكاديمي في عصر الذكاء الاصطناعي التوليدي
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT كمساعد تدريبي افتراضي في المختبر
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — مراجعة لأدوات الذكاء الاصطناعي في التعليم الحيوي
-- [[critical-thinking-biological-sciences-ai-2025]] — التفكير النقدي في العلوم الحيوية والذكاء الاصطناعي
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT في مقررات الأحياء/الرياضيات القائمة على التحدي
-- [[zha-ai-literacy-biology-case-study]] — تعليم ثقافة الذكاء الاصطناعي في صف أحياء
-- [[genai-socratic-tutor-biology-argumentation-2026]] — تحسين مهارات الحجاج المتوافقة مع PISA لمعلّمي علم الأحياء المحتملين عبر الذكاء الاصطناعي التوليدي

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -126,31 +128,3 @@ Sự ăn khớp giữa cơ chế và lý thuyết vẫn có thể mang tính quy
 **"Lý thuyết học tập, mô hình về người học và khuôn khổ chấp nhận là những lăng kính thay thế được cho nhau."** Chúng trả lời những câu hỏi khác nhau — việc học diễn ra thế nào, trạng thái của người học là gì, và vì sao một thực hành lan rộng — và các loại bằng chứng của chúng cũng khác nhau tương ứng. Chọn sai tầng sẽ tạo ra một nghiên cứu đo đúng biến so với sai dự báo, và kết quả đọc như một kết quả vô hiệu trong khi thực ra là một lỗi phạm trù.
 
 **"Càng nhiều khuôn khổ thì lĩnh vực càng chín."** Các khuôn khổ được đặt ra cho kỷ nguyên AI tích lũy nhanh hơn tốc độ chúng được kiểm chứng, và tích lũy mà không bác bỏ là một triệu chứng chứ không phải tiến bộ. Độ chín thể hiện ở việc các dự báo cạnh tranh nhau được giải quyết, chứ không phải ở việc vốn từ tăng lên.
-
-## Khái niệm liên quan
-
-- [[theory-development-aied]] — xây dựng và sửa đổi lý thuyết trong lĩnh vực
-- [[philosophy-of-ai-in-education]] — tầng quy phạm và khái niệm
-- [[learning-theories]] — khái niệm ôm trùm cho lý thuyết học tập
-- [[learning-sciences]] — lĩnh vực lân cận mà phần lớn lý thuyết được vay mượn từ đó
-- [[limitations-in-aied-research]] — những gì nền tảng bằng chứng có thể và không thể nâng đỡ
-- [[tpack]] — khuôn khổ kiến thức giáo viên
-- [[technology-acceptance-model]] — các khuôn khổ chấp nhận
-- [[item-response-theory]] — một mô hình đo lường
-- [[universal-design-for-learning]] — một khuôn khổ thiết kế
-- [[research-methods-aied]] — cách lý thuyết được kiểm chứng
-
-## Bài viết liên quan
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Khả năng cung ứng cảm xúc được đề xuất như phạm trù thứ tư trong một phân loại khả năng cung ứng
-- [[ai-game-based-learning-systematic-review-2026]] — Sự ăn khớp giữa cơ chế và lý thuyết, chứ không phải độ tinh vi thuật toán, mới quyết định hiệu quả trong 55 nghiên cứu học tập dựa trên trò chơi có AI
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — bốn thập kỷ AIED qua khuôn khổ AI×Ed
-- [[educating-minds-generative-ai-2026]] — tổng hợp nặng về lý thuyết về AI sinh tạo và việc học
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — lý thuyết hoạt động áp dụng vào phát triển chuyên môn giáo viên
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — lý thuyết hoạt động và việc giáo viên chấp nhận AI
-- [[generativism-learning-theory]] — một lý thuyết học tập được đề xuất cho kỷ nguyên AI sinh tạo
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — hướng tới một lý thuyết về đồng quyền chủ động tri thức luận
-- [[absent-cognitive-baseline-2026]] — lý thuyết hóa một khoảng trống cấu trúc trong tự đánh giá của sinh viên bản địa AI
-- [[yan-agentivism-learning-theory-ai-2026]] — một lý thuyết học tập tầm trung cho tương tác người–AI
-- [[ai-literacy-instrument-development-systematic-review-2026]] — phát triển công cụ đo cho một cấu trúc còn non trẻ
-- [[mishra-control-vs-agency-history-2025]] — căng thẳng kiểm soát–quyền chủ động nền tảng của lĩnh vực

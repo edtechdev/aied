@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, higher-ed, simulation, adaptive-learning, personalized-learning, game-based-learning, experiential-learning, situated-learning, distributed-cognition, teacher-role, assessment, feedback, ai-education, discipline-specific-aied, nursing-education, virtual-and-augmented-reality]
+connected_articles: [wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, zhu-ai-digital-pathology-residents-2026, giancotti-data-provenance-health-ai-curricula-2026, virtual-standardized-patients-osce-evaluation-2026, genai-medical-education-transformation-review-2026, ai-standardized-patient-scaffolding-medical-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, sun-llm-nursing-education-professional-identity-2026, ai-teammate-task-distribution-medical-training-2026, genai-simulate-patient-history-pbl-2026, fowlin-operationalizing-learning-principles-ai, residencyrl-clinical-rl-training-2026, medgame-llm-medical-education-gamification, hdr-brachytherapy-agentic-ai-simulation-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, wang-safety-gap-productive-struggle-2026, gen-mentor-dental-radiography-2026, genai-scenario-based-healthcare-education-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, sophie-clinical-communication-ai-assessment-2026, sriram-ethical-ai-medical-education-bibliometric-2026, llm-grading-assistants-public-health-2026, xiang-ai-nursing-education-kas-framework-2026, agency-gap-ai-writing, federated-learning-at-risk-student-prediction-2026, rony-nursing-educators-ai-tpack-2025, bursic-ai-residency-education-curriculum-2026, alshahrani-health-sciences-ai-use-2026, ago-prompt-literacy-allied-health-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -70,9 +72,7 @@ ai_assist:
 
 의학 교육에서 GenAI에 관한 153건의 스코핑 검토는 응용을 지도화합니다. [[simulation|시뮬레이션]]과 임상 기술이 가장 많고(47건), 그 뒤를 평가 생성과 피드백(22건), 사례 기반 학습과 임상 추론(21건)이 잇습니다. 그러나 13건의 보고만이 후속 또는 유지 신호를 담고 있고, 환자 수준의 결과는 전혀 발견되지 않았습니다([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
-
 - **AI 기반 PBL과 CBL: 무작위 시험 여섯 건, 그중 두 건이 CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei 외(2025)]]는 지식에 대해 네 건의 시험을 통합하고(46%, 95% CI 0.18–0.73), 만족도에 대해 세 건을 통합했으며(0.7, 95% CI 0.47–0.92), 도구가 달라 임상 추론은 통합할 수 없었습니다. 사례 기반 학습을 시험한 것은 두 건뿐이었고 검토는 형식을 따로 분석하지 않았으므로, 이 결과는 어떤 사례 특성이 중요한지 식별하지 않은 채 AI 지원 문제 설계를 지지합니다.
-
 
 ### 왜 중요한가
 
@@ -80,12 +80,10 @@ HPE는 고위험이고 역량 기반인 영역으로, AI의 이익(확장 가능
 
 [[wang-safety-gap-productive-struggle-2026|Wang and Shan (2026)]]는 그 결과로 생기는 "안전 간극"을 이름 붙입니다. 학생의 AI 보조 성과와 그것을 검증할 수 있는 무보조 능력 사이의 발산입니다. 그리고 고위험 임상 훈련을 위해 풀이를 보류하고, 건설적인 인지적 마찰을 주며, [[socratic-method|소크라테스적]] 또는 적대적 AI 구조를 처방합니다.
 
-
 - **교과가 데이터 출처에 대해 가르치는 것.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti 외(2026)]]는 미국 보건 AI 프로그램 36개의 공개 광고 교과를 코딩하고, 윤리는 29개(80.6%)에서 다루어지지만 데이터 출처는 구조적 또는 데이터셋 한계 수준에서 8개(22.2%)에만 다루어짐을 발견했습니다. 계산의 환경 비용을 다룬 프로그램은 없었고, 일곱 개 석사 학위 중 출처 기준을 충족한 것은 없었습니다. 명명된 교수 92명 중 76.1%가 계산 학문 출신이고 사회과학이나 인문학 출신은 3.3%였습니다. 이 간극은 임상적으로 중요합니다: 논문이 서두에서 드는 배포 실패는 훈련 데이터가 생성되거나 라벨링된 방식, 즉 상류에서 도입된 것이며, 교과가 담지 않는 것으로 보이는 가르칠 수 있는 역량입니다.
 - **사용이 교육을 앞질렀습니다.** 보건 과학 학생 310명 중 90%가 ChatGPT를 사용한 적이 있지만 82.6%는 공식적인 AI 교육을 받은 적이 없었습니다; 사용 빈도는 더 높은 GPA와 함께 갔고, 61%가 [[ethics|윤리]]적 우려를 보고했습니다([[alshahrani-health-sciences-ai-use-2026|Alshahrani 외, 2026]]).
 
 사하라 이남 아프리카의 증거는 물질적 제약 아래에서 그 간극을 구체화합니다. 가나의 한 공립 대학에서 여섯 개 제반 보건 프로그램의 학부생 417명을 조사한 [[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]]는 76.3%(n = 318)가 책임 있는 AI 사용에 관한 사전 교육을 받은 적이 없음을 발견했고, 학생들은 유료 구독과 인터넷 연결을 사용의 제약으로 꼽았습니다. 그들이 요청한 것은 금지가 아니라 교과였습니다. AI 리터러시와 역량 구축이 185개 코드를 얻었으며, 이는 제안된 지원 전략의 4분의 3 이상입니다.
-
 
 ## 보건 전문직 교육자를 위한 시사점
 
@@ -96,7 +94,6 @@ HPE는 고위험이고 역량 기반인 영역으로, AI의 이익(확장 가능
 
 - **교과를 당장 있는 도구가 아니라 증거에 따라 배열하십시오.** 같은 KAS 지도는 증거가 두꺼운 곳과 얇은 곳을 보여줍니다: 윤리 지식(14편), 책임(14편), 응용 기술(16편), 평가 기술(18편)에는 합의가 있고, 기술적 지식·응용 지식·운영 기술은 각각 9편, 협력은 7편입니다. 인프라가 불안정한 곳에서는 고충실도 시뮬레이션을 기다리지 말고 화면 기반 사례와 공개 접근 모델 시연을 통해 기술 계층에 도달하십시오.
 
-
 ## 흔한 오해
 
 - **"의학 교육에서 시뮬레이션의 이익이 확립되었으니 AI 시뮬레이션도 그러할 것입니다."** **19개 연구(N = 1,253)**에 관한 혼합 방법 체계적 검토는 AI 기반 시뮬레이션이 그 문헌에서 효과를 낸다고 발견합니다. 완만한 기반이며, 19개 연구에 걸친 1,253명의 참가자는 대규모로 배포되는 기술에 좁은 토대입니다.
@@ -105,68 +102,8 @@ HPE는 고위험이고 역량 기반인 영역으로, AI의 이익(확장 가능
 
 - **"출판된 AI 역량 프레임워크를 채택하면 교과 질문이 해결됩니다."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang 외(2026)]]는 1,750개 레코드를 23개 연구(검토 15편, [[qualitative-research|질적]] 4편, [[quantitative-research|양적]] 4편, 15개국, 2022–2026년)로 선별하고 지식·태도·기술 모형에 매핑했습니다. 응용 영역은 의학 교육(n = 11, 47.8%), 일반 교육(n = 9, 39.1%), 기타 교육(n = 3, 13.0%)에 집중되었고, 그들이 비교한 명명된 간호 프레임워크 — N.U.R.S.E.S., AI-ABCs, CARE — 는 교수학적 실행을 위한 명확한 경로가 없거나 평가 방법 없이 고립된 기술만 다룹니다. 그들이 만든 12개 하위 차원 지도는 검증을 기다리는 제안이며, 이는 정착된 교과가 아니라 그것에 맞서 가르칠 대상입니다.
 
-
 ## 실험실 강좌에서의 그래프 기반 교수
 
 중국 바이러스학 실험실 강좌에서의 2026년 준실험은 강좌 지식 그래프, 그래프에 근거한 검색 조수, 공표된 임계값을 갖춘 적응형 라우팅, 가상 시뮬레이션을 중심으로 모듈을 재구축하고, 학생 30명을 변경되지 않은 강좌의 30명과 비교했습니다. 실험 학급은 최종 이론 시험에서 11.4점 더 높았고(d = 1.39) 실험실 운영 체크리스트에서 13.3점 더 높았습니다(d = 1.61).([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]])
 
 두 가지 주의가 그 숫자와 함께 갑니다. 배정은 기존 학급 단위로 이루어져 군집화가 모형화되지 않았고 구간은 아마 너무 좁을 것이며, 네 구성 요소가 함께 도입되었으므로 효과는 지식 그래프나 조수가 아니라 묶음 전체에 속합니다.
-
-## 연결된 개념
-
-- [[problem-based-learning]]
-- [[higher-ed]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[teacher-role]]
-- [[assessment]]
-- [[feedback]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[nursing-education]] — 보건 전문직 교육의 간호학 줄기
-- [[virtual-and-augmented-reality]] — 몰입형 및 AR 임상 훈련
-
-## 연결된 문서
-
-
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 의학 및 치의학 교육에서 AI 기반 PBL과 CBL: 무작위 시험 여섯 건, CBL은 두 건뿐 (Wei et al. 2025)
-- [[zhu-ai-digital-pathology-residents-2026]] — AI 보조 디지털 병리학은 전립선 생검을 판독하는 병리과 전공의의 진단 수행을 개선하고 경험 관련 수행 격차를 줄인다
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 보건 AI 교과는 윤리를 가르치지만(80.6%), 데이터 출처는 거의 가르치지 않는다(22.2%)
-
-
-- [[genai-medical-education-transformation-review-2026]] — 153건의 의학 교육 GenAI 보고에 관한 스코핑 검토: 시뮬레이션이 앞서고, 지속성과 환자 결과는 미측정
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템의 평가
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 의학 교육에서 AI 교수 에이전트의 8차원 루브릭 평가
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, 간호 교육의 구조적 간극, 전문직 정체성의 재구성 (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN 프레임워크: 의학 훈련에서 AI 과업 배분의 재고찰 (Tsim et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — 보건 전문직 교육에서 AI로 경험적, 상황적, 분산 인지를 작동 가능하게 만들기
-- [[residencyrl-clinical-rl-training-2026]] — 전공의 과정에서 임상 기술을 위한 강화 학습 훈련
-- [[medgame-llm-medical-education-gamification]] — 의학 교육을 위한 게임화된 LLM 기반 학습
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 근접치료 훈련을 위한 에이전트 AI 시뮬레이션
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI로 간호 교육을 변혁하기
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 간호에서의 AI 기반 시뮬레이션: 혼합 방법 체계적 검토
-- [[wang-safety-gap-productive-struggle-2026]] — 안전 간극: 생산적 투쟁의 회복
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: 인간 개입 루프 치과 방사선 촬영 교수 (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — 시나리오 기반 보건 의료 교육에서 GenAI에 관한 체계적 검토 (Neto et al. 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — 확장 가능한 AI 기반 임상 의사소통 훈련과 자동 평가
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 의학 교육에서 AI 윤리의 서지지도: 산출이 113(2023)에서 500(2025)으로, 39개국, 그리고 인용이 거버넌스보다 능력 시험을 보상함 (Sriram et al. 2026)
-- [[virtual-standardized-patients-osce-evaluation-2026]] — LLM 기반 가상 표준화 환자와 배포된 데이터 생성 플랫폼에 대한 계층화 다중 평가자 평가 (Yi, Park & Kim 2026)
-- [[llm-grading-assistants-public-health-2026]] — 반복 실행은 같은 성적을 재현하지 않는다 (Brevik 외 2026)
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — 교육 AI 역량 프레임워크를 12개 부분의 KAS 지도에 매핑한 범위 검토
-- [[agency-gap-ai-writing]] — 보건 전문직 훈련에서 반응형 대 주도형 AI 글쓰기 에이전트: 주도성 격차
-- [[federated-learning-at-risk-student-prediction-2026]] — 보건 전문직 교육 프로그램 전반의 연합 위험 예측: 무시할 만한 프라이버시 비용, 그리고 수입된 임계값이 잘못 발동하는 이유
-- [[rony-nursing-educators-ai-tpack-2025]] — 방글라데시 간호 교육자들이 말하는 AI 준비성, 장벽, 데이터 거버넌스: TPACK으로 읽기
-- [[bursic-ai-residency-education-curriculum-2026]] — 전공의 교과에 AI를 통합하는 장벽: 의사 리더 12명과의 질적 면담
-- [[alshahrani-health-sciences-ai-use-2026]] — 기술과 교수법을 잇기: 다양한 보건 과학 교과 학생들의 AI 사용, 자기 보고 학업 효과, 윤리적 우려에 대한 단면 분석
-- [[ago-prompt-literacy-allied-health-2026]] — 가나 여섯 개 제반 보건 프로그램의 프롬프트 리터러시: 훈련 없는 일상적 생성형 AI 사용, 구독과 연결성 제약, 그리고 선행 지식이 가장 얇은 곳에서의 프롬프트 검증 역설(Ago et al. 2026)
-- [[ai-multifactorial-virology-lab-teaching-2026]] — 바이러스학 실험실에서의 지식 그래프와 그래프 기반 조수, 적응형 라우팅: 이론 시험 +11.4점, d = 1.39
-

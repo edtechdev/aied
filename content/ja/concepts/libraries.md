@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
+connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -74,22 +76,3 @@ ai_assist:
 - **学生は図書館を使わなくなった。** 検索エンジンが今なお主要な出発点であり、9年間の貸出記録を見ても、貸出に変化点(ブレークポイント)は確認されない。
 - **資金こそが唯一の障壁である。** スキルの不足やデータの品質の低さは、資金よりも頻繁に挙げられており、これは予算の問題であると同時に、能力(キャパシティ)の問題でもある。
 - **文献が増えていることは、この分野が変革しつつあることを意味する。** 論文数は増加したが、実践の変化は測定されていない。レビュー研究が見いだすのは、効果に先行する熱意である。
-
-## 関連する概念
-
-- [[information-and-media-literacy]]
-- [[librarians]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## 関連する記事
-
-- [[ayinde-ai-academic-libraries-systematic-review-2026]] — 大学図書館における人工知能の導入。現在の実践、課題、研究機会に関する系統的レビュー
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — 大学図書館の情報リテラシー指導への AI リテラシー統合の地図
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — 人工知能が大学図書館の情報リテラシーをどう再形成しているか
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — 人工知能と情報探索。大学生の情報源としての AI チャットボット、検索エンジン、図書館資源の比較的探究
-- [[huang-genai-academic-information-resources-2026]] — 生成的 AI が大学生の学術情報資源の持続的な利用を再形成する
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — ナイジェリアの高等教育機関における情報リテラシーと AI 指導を促進するための大学図書館員の学生関与

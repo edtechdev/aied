@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -40,9 +41,3 @@ Pembuat kebijakan dan tim pengadaan yang memilih model untuk sistem nasional, pe
 ## Catatan dan peringatan
 
 Papan peringkat mengukur model pada tugas-tugas tolok ukur itu sendiri: skor pedagogi tinggi adalah bukti tentang butir-butir tersebut, bukan tentang kelas. Kolom harga mencampurkan harga token input dan output pada rasio 3:1, yang merupakan pilihan pemodelan dan bukan biaya penerapan tertentu mana pun. Cakupan bahasa dan model yang dihosting secara lokal bergerak seiring munculnya model baru, dan skor rendah untuk model kecil sebagian mencerminkan format tugas sama banyaknya dengan kemampuan. Pembingkaian Fab AI secara eksplisit tentang negara berpendapatan rendah dan menengah, sehingga kumpulan butir tolok ukur mencerminkan konteks tersebut dan tidak boleh dibaca sebagai peringkat pendidikan umum. Periksa tanggal rilis: beberapa entri lebih tua dari generasi model saat ini.
-
-## Konsep terkait
-
-- [[benchmark]] — kelas instrumen lebih luas tempat tolok ukur ini berada
-- [[digital-divide]] — kendala yang hendak dibuat terlihat oleh kolom harga dan bobot terbuka
-- [[equity-in-ai-education]] — pertanyaan kebijakan yang diinformasikan oleh papan peringkat ini

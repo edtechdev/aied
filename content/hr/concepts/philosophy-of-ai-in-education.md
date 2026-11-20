@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -89,34 +91,3 @@ Filozofija umjetne inteligencije u obrazovanju i [[theory-development-aied|razvo
 
 - Navedite poimanje učenja koje vaša evaluacija pretpostavlja, jer je izmjereni napredak obrazovno dobro samo u odnosu na neko poimanje svrhe obrazovanja.
 - Financirajte filozofski rad uz empirijski: pitanja o tome što se računa kao postignuće učenika postavljaju kriterije uspjeha koje empirijske studije zatim upotrebljavaju.
-
-## Povezani koncepti
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Kemijsko obrazovanje i umjetna inteligencija: laboratoriji, formativna procjena, granice LLM-ova, filozofija eksperimentiranja
-
-## Povezani članci
-- [[genai-chinese-higher-education-integrity-2026]] — Generativna umjetna inteligencija u kineskom visokom obrazovanju: čestitost i angažman
-- [[ensemble-cognition-philosophy-ai-education]] — Ansambl kognicija: filozofski okvir za kogniciju čovjeka i umjetne inteligencije
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — Utjelovljena, postkognitivistička kritika ne-utjelovljene umjetne inteligencije u obrazovanju
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Razvojno-kritički model interpretativne kognicije u humanističkim znanostima
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemička sudjelotvornost kao filozofija učenja sa strojevima
-- [[avraamidou-ai-colonization-science-education]] — Kritičko-feministička filozofija koja preispituje kolonizaciju obrazovanja umjetnom inteligencijom
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ekološko uokvirivanje generativne umjetne inteligencije u znanostima o učenju
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filozofija eksperimentiranja u kemiji s umjetnom inteligencijom
-- [[strydom-human-gai-paradigms-2026]] — Uokvirivanje dinamike čovjeka i umjetne inteligencije: sedam paradigmi angažmana s generativnom umjetnom inteligencijom (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — „Usmjereno na čovjeka“ u AIED-u čitano kao antropocentrični diskurs s komercijalnom upotrebom (Wang i Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Mogu li strojevi obavljati emocionalni rad? Rasprava od 1950. do 1996. i zašto mimikrija nedovoljno određuje brigu

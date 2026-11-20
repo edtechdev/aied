@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -55,21 +57,3 @@ Storytelling terhubung dengan [[student-engagement]], [[motivation]], [[creativi
 **"Generasi AI membuat storytelling tersedia bagi siswa yang tidak bisa menulis."** Yang tersedia adalah *memproduksi artefak tertulis*, dan itu manfaat yang berbeda. Penarasian lisan, menggambar, dan dikte adalah jalur mapan menuju tujuan yang sama, dan jalur-jalur itu mempertahankan kepengarangan yang dihapus oleh generasi.
 
 **"Nilai pendidikan sebuah cerita terletak pada hasil akhirnya yang rapi."** Nilainya terletak pada konstruksi — pemilihan dan penataan yang dilakukan seorang pencerita. Cerita rapi yang tidak disusun sendiri oleh siswa membuktikan kompetensi model, bukan kompetensi siswa.
-
-## Konsep terkait
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Artikel terkait
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotika dan AI dalam Pendidikan
-- [[ai-generated-interactive-fiction-education-2026]] — Fiksi interaktif hasil AI: koherensi sebagai dimensi lemah dalam uji coba 22 siswa

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
+connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -110,54 +112,3 @@ ai_assist:
 - **"שגיאת מעריך היא רעש אקראי."** **לשיפוט המעריך יש כיוון מדיד משל עצמו**: חמישה פקידי קבלה שהפרידו בין **50 חיבורי קבלה אנושיים ל‑50 חיבורי קבלה של AI** הגיעו ל‑**AUC 0.70**, כלומר הצליחו להבחין בין המקורות רק בקושי — ומכיוון שאיש לא בדק את ההגשות, **השיפוט הלא-מסייע הזה היה מנגנון האכיפה השלם**, וכל חיבור מסומן נשא **1.5 נקודות אחוז פחות** הסתברות קבלה. אות חלש הפך לעונש אמיתי.
 - **"עמיתים וביקורת AI הם תחליפים."** מודל PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **משלב ביקורת עמיתים עם ביקורת AI** כדי לבנות כיול. השילוב הוא העיצוב, ומכך נובע ששום אחד מהם לבדו אינו מספק אותו.
 - **"איכות השיפוט היא תכונה של השופט."** ממצא הקבלה ממקם את הבעיה בהסדר — שיפוט לא-מאומת המופעל במחיר תוצאה וללא שלב סינון — ולא ביכולתם של היחידים.
-
-## מושגים מחוברים
-
-- [[pedagogical-patterns]] — The appraisal step students perform on AI output inside these sequences
-- [[ai-education]] — AI in education (umbrella)
-- [[assessment-validity]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[ai-detection]]
-- [[agency]]
-- [[higher-ed]]
-
-## מאמרים מחוברים
-- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
-
-- [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin
-- [[genai-feedback-design-multisite-experiment]] — Hybrid self/peer/AI feedback preserves agency and judgment better than direct AI feedback
-- [[pairr-ai-peer-review-2025]] — Peer-and-AI review with structured reflection as calibration at scale
-- [[zhan-boud-dawson-genai-feedback-engagement]] — How feedback literacy governs whether AI feedback teaches or substitutes
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — The sustainability gap in AI feedback
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Evaluative judgment as one of the design strands replacing detection-led enforcement
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Making visible reasoning and judgment the thing the rubric rewards
-- [[learner-centered-feedback-ai]] — Teacher evaluative judgment with AI feedback tools
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy for AI-assisted writing
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Judgment as the evaluative core of integrity: annotated decision trails, oral defense, version history (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Panels weighing evidence without codified standards: the institution's own judgment problem (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
-
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
-- [[elkington-human-centred-assessment-value-2026]] — הערכה מוכוונת-אדם, אסמבלז'ים ואילוצים יוצרים (Elkington 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — מדוע פרופסורי כתיבה מסרבים להאציל מתן ציונים: כך הם לומדים להכיר את סטודנטיהם
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — השיפוט הפריד באיכות רק כשהיה מחובר לעריכה (Z = 2.80 ו‑2.50)
-- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — עריכות המרצים הפכו לקריטריוני אימות לשימוש חוזר (Tang et al. 2026)
-- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — התִּבְנוּת שהוסרה מהמשימה, והשיפוט שמתקבל בהשאלה

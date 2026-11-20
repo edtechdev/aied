@@ -34,6 +34,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -194,58 +196,3 @@ AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adal
 **"Karena AI bersifat serbaguna, temuan di mana pun berlaku di mana pun."** Keumuman teknologi tidak menciptakan keumuman bukti. Untaian disiplin, tingkat, dan konteks ada karena alat yang sama berperilaku berbeda di antaranya, dan temuan yang dibawa tanpa perubahan melintasi batas adalah ekstrapolasi.
 
 **"Kedewasaan bidang dapat dibaca dari volume publikasinya."** Volume dan kedewasaan menyimpang; untaian metode penelitian mendokumentasikan kelemahan desain yang berulang yang tidak diperbaiki oleh volume, dan kerangka kerja bertambah lebih cepat daripada diuji.
-
-## Konsep terkait
-- [[primary-education]] — AI dalam pendidikan dasar
-- [[secondary-education]] — AI di sekolah menengah
-- [[undergraduate-education]] — AI dalam studi sarjana
-- [[graduate-education]] — AI dalam studi magister dan doktoral
-- [[pedagogical-patterns]] — Urutan teruji yang mengoperasionalkan pedagogi bidang tersebut
-- [[ai-literacy]] — payung: memahami, menggunakan, dan mengevaluasi AI
-
-- [[automation-bias]] — kegagalan di sisi pembaca: menerima penilaian otomatis tanpa memeriksanya
-- [[human-ai-collaboration]] — payung: bagaimana manusia dan AI bekerja sama
-- [[pedagogy]] — payung: metode dan strategi pengajaran
-
-- [[case-based-learning]] — Metode kasus, diskusi kasus, dan kasus yang saling berlawanan
-- [[metaphors-and-analogies]] — Bagaimana metafora membentuk pemahaman AI dan bagaimana analogi mendukung pengajaran
-- [[learning-theories]] — payung: bagaimana pembelajaran terjadi
-- [[ai-technologies]] — payung: model, teknik, dan sistem
-- [[discipline-specific-aied]] — payung: AI di berbagai bidang subjek dan tingkat
-- [[assessment]] — payung: bagaimana AI menilai pembelajar dan membentuk validitas
-- [[feedback]] — payung: bagaimana umpan balik dihasilkan, disampaikan, dan digunakan
-- [[stakeholders]] — payung: siapa para aktornya
-- [[learners]] — payung: konsep sisi pembelajar (pengalaman, identitas, agensi, interaksi, model pembelajar)
-- [[ai-ed-evaluation]] — payung: bagaimana kita mengetahui apakah AI bekerja
-- [[research-methods-aied]] — payung: metode penelitian efikasi
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[governance]] — payung: lapisan institusional dan regulasi
-- [[educational-policy-ai]] — payung: kebijakan, panduan, dan implementasi
-- [[equity-in-ai-education]] — payung: keadilan, akses, dan inklusi
-- [[learning-sciences]] — bidang empiris di balik AIED
-- [[ethics]] — dimensi etika AI dalam pendidikan
-- [[misconceptions]] — model mental yang orang bawa ke AI
-- [[interpreting-and-applying-aied-research]] — membaca sebuah studi, dan membawa temuan ke praktik
-- [[limitations-in-aied-research]] — batas lintas-bidang dari basis bukti
-- [[meta-analysis-systematic-review]] — apa yang ditetapkan oleh tinjauan dan meta-analisis
-- [[history-of-aied]] — bagaimana bidang berevolusi
-- [[philosophy-of-ai-in-education]] — landasan filosofis
-- [[theories-and-frameworks]] — peta node teori dan kerangka
-- [[theory-development-aied]] — membangun dan merevisi teori
-
-- [[sensor-and-gaze-analytics]] — payung: mengindra pembelajar melalui tatapan, EEG, dan sinyal yang dapat dikenakan
-- [[ai-avatars-and-synthetic-instructors]] — payung: manusia sintetis yang mengajar, menutori, menyimulasikan, dan menilai
-- [[civic-and-political-education]] — bidang subjek: literasi untuk kehidupan publik, dengan basis bukti yang tipis
-
-## Artikel terkait
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Evolusi penelitian AI-dan-pendidikan di sepanjang empat dekade (kerangka AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Kendali lawan agensi: sebuah sejarah AI dalam pendidikan
-- [[genai-higher-education-systematic-review-2026]] — AI generatif dalam pendidikan tinggi: tinjauan sistematis 125 studi
-- [[stanford-evidence-base-ai-k12-2026]] — Basis bukti tentang AI di K-12: tinjauan 818 makalah
-- [[genai-educational-outcomes-meta-analysis]] — AI generatif dan hasil pendidikan: meta-analisis komprehensif
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 studi tingkat menengah; keuntungan di tempat siswa menilai keluaran, bukan di tempat alat menghasilkan pekerjaannya
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 mahasiswa magister; kesiapan mencapai efikasi diri melalui dukungan pembimbing
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Tinjauan 61 sumber tentang etika, umpan balik, dan tata kelola supervisi doktoral
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar pascasarjana kelompok tunggal; keuntungan pembelajaran terarah mandiri tanpa tes tanpa bantuan
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 mahasiswa; kesenjangan sarjana–pascasarjana dalam etika dan regulasi diri

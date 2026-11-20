@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -98,50 +100,3 @@ Bulgular yalnızca öğretime ulaştıklarında önem kazanır ve bu yolculuk ü
 - Pratiği yalnızca doğruluk üzerinden durdurmayın. Geri tutma koşulunu kendi başına bir beceri olarak modelleyin, yoksa sistem aşırı genellemeyi sertifikalandırır.
 - Oranın sabit değil bir parametre olmasına izin verin, çünkü kanıt optimumun içeriğe bağlı olduğunu söyler.
 - Ölçütünüzün hangi yapıyı ölçtüğünü, doğrulamanızın hangi yapıyı ölçtüğünden ayrı olarak bildirin.
-
-## Bağlı kavramlar
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Bağlı makaleler
-
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Feedback style, not agent type, moved self-regulatory engagement
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Within-person reliance precedes a drop in perceived agency
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert preregistered Delphi on which learning processes GenAI enhances and which it threatens
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Process evidence is channel-conditional
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — The distribution of GenAI use is an institutional choice
-- [[three-pathways-student-ai-interaction-2026]] — A typology of student-AI interaction: 64% passive or transactional, 36% strategic dialogue
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Gecikmeli dizi analizi ve süreç madenciliği, ön kavram kompozisyonuna göre YZ’yi bir grup etkileşim merkezine ya da doğrusal bir yola yerleştirdi (Wang ve ark. 2026)

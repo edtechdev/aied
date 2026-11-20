@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -105,56 +107,3 @@ Návrh kurikula se přímo pojí s [[learning-design|návrhem výuky]] — kurik
 - **„[[llm|LLM]] dokáže zmapovat kurikulum, jakmile je jednou validován s vysokou reliabilitou."** GPT-o3-mini rozdělil **100 % mezi sedm podnikových dovedností u každého ze 48 hodnocení** a dosáhl **Krippendorffova alfa 0,81** proti vahám odborníků — a **shoda** se rozpadla u konkrétních dovedností. Vysoká celková reliabilita s nerovnoměrnou shodou je vzorec, který je třeba zkontrolovat, než mapování uvěříte.
 - **„Zabudovat gramotnost v AI znamená přidat kurz."** LearnAI ukazuje zabudovanou formu: **vrstvu široké expozice v podobě krátkých prezentací uvnitř 18 existujících kurzů napříč pěti obory (293 studentů)**. Expozice byla distribuována napříč kurikulem, nikoli shromážděna do jedné jednotky.
 - **„Studenti přicházejí už schopni kriticky hodnotit média."** Jen **13,8 % dotázaných studentů vzdělávání a žurnalistiky** uvedlo, že jejich studium zahrnovalo kritickou mediální analýzu, proti **97,8 %, kteří ji označili za důležitou**. Mezera mezi ceněním dovednosti a jejím vyučováním je kurikulární příležitostí.
-
-## Související koncepty
-- [[pedagogical-partnerships]] — Pedagogická partnerství
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Zastřešující: pedagogiky a výukové strategie ve vzdělávání s AI
-- [[recommender-systems-and-learning-paths]]
-
-## Související články
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Vážené, odborníky validované mapování dovedností pro akreditaci
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritická diskurzní analýza doporučení pro generativní AI a konstruktivní soulad (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Řešení důvěry v systémy AI prostřednictvím vzdělávání: didaktická perspektiva
-- [[refrain-amplify-genai-curriculum-2026]] — Kurikulární rámec „nejprve zdržet, poté zesílit" pro sekvencování generativní AI (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Projektově založené kurikulum AI ve vzdělávání v tepelném inženýrství
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Rámec úrovně připravenosti na pracovní sílu pro inteligentní výrobu v éře AI
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Přepisování kurikula: pedagogická změna poháněná generativní AI
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Rámec dovedností AI: 26 hodnotitelných dovedností pro mapování kurikula
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: spolutvorba s AI v pravý čas napříč obory
-- [[ai-video-dual-gatekeeping-2026]] — Když říci ne dělá lepší videa: dvojí gatekeeping pro pedagogicky zakotvenou tvorbu obsahu s AI
-- [[niri-steam-ai-literacy-review-2026]] — Vzdělávání STEAM pro gramotnost v AI: systematický přehled
-- [[caruana-pre-university-ai-education-slr-2026]] — Příprava studujících a učitelů na budoucnost řízenou AI: SLR předuniverzitního vzdělávání v AI (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Platforma poháněná AI generující úlohy matematického modelování (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI ve vzdělávání v částicové fyzice: výzkumné problémy a základní dovednosti
-- [[computing-assessment-genai-workshop-report-2026]] — AI umí udělat váš domácí úkol. Co teď? Zpráva z online workshopu o hodnocení v informatice v éře generativní AI
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - kompetenční rámce se sbíhají v pěti dimenzích bez sdíleného slovníku nebo přemostění
-- [[bursic-ai-residency-education-curriculum-2026]] — Překážky integrace AI do kurikul atestací: kvalitativní rozhovory s dvanácti vedoucími lékaři

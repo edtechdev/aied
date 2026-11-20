@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -47,12 +48,3 @@ Studenti, kteří procházejí četbu nebo sadu úloh a chtějí být dotazován
 ## Poznámky a upozornění
 
 Cena ani účet pro nástroj určený studentům nejsou zveřejněny, zatímco institucionální nasazení — cloudové, lokální nebo hybridní — se nabízí prostřednictvím individuálního návrhu a schůzky; berte „zdarma“ jako stav veřejného dema v listopadu 2026, nikoli jako záruku. Text a obrázky putují do hostované služby poháněné Claudem a web sám vyzývá uživatele, aby před nahráním odstranili jména, částky, adresy a názvy firem, což přesouvá břemeno deidentifikace na nahrávajícího, nikoli na platformu. Sezení se sama mažou po hodině, pokud nejsou exportována. Společnost za nástrojem nabízí institucím také širší platformu pro hodnocení grafů uvažování a její tvrzení o rozlišování deduktivních, induktivních, abduktivních a analogických grafů vycházejí ze čtyř referenčních textů — web to nazývá ukázkou, přičemž validace ve velkém měřítku teprve přijde.
-
-## Související pojmy
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

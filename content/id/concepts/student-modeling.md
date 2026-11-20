@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -55,7 +57,6 @@ Pemodelan siswa afektif adalah dimensi lebih lanjut: sebuah tutor matematika men
 
 Kesulitan yang dipersepsikan adalah dimensi pemodelan siswa lebih lanjut, dan dimensi itu dapat diprediksi dari fitur yang berkaitan dengan orang alih-alih statistik teks semata. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] membangun model pembaca berbasis profil dari penilaian 3,954 kalimat oleh 193 siswa SMA Jerman, dan ansambel KNN-plus-XGBoost mereka mencapai RMSE 0.822 terhadap baseline rata-rata 1.070, dengan R2 = 0.396. Setiap regresor yang menyertakan karakteristik pembaca mengalahkan baseline rata-rata maupun baseline kompleksitas rata-rata, sehingga model pembelajar yang menangkap siapa pembacanya memprediksi seberapa sulit sebuah teks terasa — dimensi persepsi yang tidak dibawa model lain di halaman ini.
 
-
 ## Lapisan pengajaran adaptif
 
 Konsep-konsep ini menjawab "apa yang seharusnya diajarkan berikutnya?" — sisi aplikasi yang mengonsumsi model pembelajar.
@@ -80,13 +81,11 @@ Konsep-konsep ini membentuk alur, bukan pesaing: **pemodelan siswa** adalah repr
 
 Di seluruh keluarga ini, tantangan validitas yang menentukan adalah sama: representasi siswa harus **secara setia mencerminkan keadaan siswa yang sebenarnya** alih-alih asumsi default sistem. Bagi **pemodelan siswa** dan [[knowledge-tracing]], ini berarti model harus benar-benar menangkap apa yang diketahui seorang siswa ([[ai-ed-evaluation|evaluasi]] dan [[assessment-validity|validitas pengukuran]]). Bagi [[simulating-students|simulasi]], ini berarti siswa sintetis harus menunjukkan ketidaksempurnaan yang realistis alih-alih kompetensi penuh model atau kesepakatan yang [[ai-sycophancy|menjilat]]. Sistem adaptif yang mengonsumsi model cacat mewarisi dan menyebarkan galat itu.
 
-
 Model yang menyimpulkan keadaan siswa dari permainan mencapai AUC 0.848–0.913, namun hanya dua dari 55 studi yang ditinjau mengauditnya untuk bias demografis dan hanya satu yang menelaah hasil diferensial menurut kemampuan siswa ([[ai-game-based-learning-systematic-review-2026|Kaşarcı dan Yurt (2026)]]).
 
 Sebagian sinyal yang dimaksudkan mungkin tidak dapat dipulihkan dari dialog sama sekali: pilot kerangka Learning Context memulihkan miskonsepsi pada 91.4% dan [[anxiety-and-stress|kecemasan]] pada 100% tetapi keterbukaan hati pada hanya 68.6% dan kemahiran bahasa pada 60%, sehingga model yang sadar konteks sebaiknya menangkap sifat yang lambat muncul alih-alih menunggu dialog menyingkapnya ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 Sinyal fisiologis dan tatapan memperluas basis pemodelan: pelacakan mata, EEG, aktivitas elektrodermal, dan detak jantung kini digunakan untuk menyimpulkan keterlibatan, perhatian, dan beban kognitif ([[sensor-and-gaze-analytics]]). Inferensi dari sinyal ke keadaan mental adalah tautan lemahnya, karena tubuh dapat direkam tanpa keadaannya teridentifikasi.
-
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] menyingkap sirkularitas dalam cara siswa sintetis semacam itu divalidasi: agen EduMirror mereka menyelenggarakan [[self-report-measures|kuesioner]] psikometrik secara post-hoc dan membaca kesepakatan dengan representasi nilai internal agen sebagai validitas psikologis, tetapi karena Surveyor mengukur dimensi yang sudah terkodekan dalam sistem nilai itu, pemeriksaannya adalah pemeriksaan konsistensi alih-alih validasi independen.
 
@@ -103,11 +102,9 @@ Kemajuan terbaru menggunakan [[llm|LLM]] untuk pemodelan yang lebih kaya. [[xie-
 
 Bahasa dapat menggantikan embedding ID sebagai representasi: PLCD membangun skema konsep turunan LLM dan graf proses latihan sebagai prior, mencapai akurasi 83.51% pada XES3G5M, dengan perolehan terbesar pada cold start — 4.60 poin ACC di atas KCD untuk konsep baru dan 4.00 untuk latihan baru — tempat model berbasis ID tidak memiliki riwayat ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 
-
 Kualitas simulator terbagi menjadi dua sumbu: alur pool-then-specialize yang melatih pola perilaku bersama sebelum adaptor per siswa mencapai kesetiaan perilaku 0.51 dan responsivitas bimbingan 0.91 dalam catur, berbanding 0.23 dan 0.72 untuk baseline role-play terdepan, yang menunjukkan bahwa simulator harus mencocokkan siswa sekaligus dapat dikendalikan ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 Skor risiko dapat akurat namun tidak didukung: [[at-risk-students-ml-prediction|Gheisari dan Salarian (2026)]] mencapai akurasi 99% dalam memprediksi pengunduran diri dari catatan pendaftaran dan kinerja, tetapi pada 1,027 catatan bersih satu institusi tanpa validasi eksternal, tanpa intervensi yang diuji, dan dengan audit keadilan yang disebut sebagai kerja masa depan — skornya mendukung triase, bukan putusan tentang seorang siswa.
-
 
 Model pembelajar yang hanya memprediksi risiko tidak cukup untuk dukungan keputusan: menggandengkan model berisiko terkalibrasi dengan recourse pemrograman bilangan bulat atas tindakan diskret — divalidasi terhadap kendala waktu, anggaran, ketakberubahan, dan ketersediaan — menghasilkan rencana intervensi yang ringkas di tempat optimasi saja menerima rencana yang tidak dapat dilaksanakan ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -122,58 +119,3 @@ Pemodelan pembelajar dan pengajaran adaptif mengalir ke [[learning-analytics]] (
 - **"Model yang setia memerlukan metode paling kompleks."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries dan Koprinska (2025)]] menggambarkan bahwa **representasi yang setia tidak memerlukan** pendekatan **paling kompleks**. Kompleksitas bukan proksi bagi kesetiaan, dan model yang lebih sederhana yang menangkap struktur relevan dapat menjadi instrumen yang lebih baik.
 - **"Model pembelajar memerlukan data jejak."** Model pembelajar prediktif dapat bersandar pada **struktur pendaftaran** alih-alih data jejak: TRACE mengodekan setiap semester sebagai **keranjang mata kuliah tak berurutan** dan memprediksi dari itu. Sinyal prediktifnya dapat hidup dalam catatan administratif institusi.
 - **"Kondisi afektif memerlukan penginderaan fisiologis."** Sebuah tutor matematika **menyimpulkan emosi dari teks percakapan dan ekspresi wajah** dan memetakan keadaan teragregasi ke keputusan tutoring. Sinyal afeknya dapat dipulihkan dari apa yang sudah dihasilkan pembelajar.
-
-## Konsep terkait
-
-- [[learners]] — Pembelajar: payung bagi konsep-konsep sisi pembelajar
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — model di balik prediksi risiko dan penargetan dukungan
-- [[sensor-and-gaze-analytics]]
-
-## Artikel terkait
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Overgeneralisasi menipu: penguasaan adaptif dapat menghentikan latihan sebelum pembelajar tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Pemodelan kausal intervensi dukungan untuk penilaian kompetensi siswa
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: apa yang sebenarnya kita ketahui (brief Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — Tutor LLM terlalu sering menolak alternatif yang valid, terlalu sering memvalidasi yang salah (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Dari prediksi risiko siswa ke SC2R: recourse kontrafaktual
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring cerdas berbasis graf untuk domain dinamis (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Menyuling LM yang menjelaskan dirinya sendiri untuk analitik pembelajaran
-- [[studentsim-llm-student-simulators]] — StudentSim: melatih simulator siswa berbasis LLM
-- [[predicting-attrition-competitive-programming]] — Memprediksi atrisi siswa dalam pemrograman kompetitif
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Pelacakan pengetahuan berbasis capaian dengan affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Melampaui embedding ID: pemodelan bahasa berbasis proses untuk diagnosis kognitif
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — keadaan pembelajar yang ringkas plus pelacak terkalibrasi sebagai lingkungan pemberi rekomendasi
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: tutor agentik yang mempelajari pembelajarnya dalam lingkar belajar bersama manusia-AI
-- [[ai-game-based-learning-systematic-review-2026]] — Penilaian stealth mencapai AUC 0.848–0.913, tetapi audit bias hampir tidak ada di seluruh 55 studi
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Inferensi gaya belajar berbasis dialog gagal pada metrik berimbang (Zamanifard, Goudarzi & Robb 2026)

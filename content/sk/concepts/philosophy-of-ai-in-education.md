@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -89,35 +91,3 @@ Filozofia AI vo vzdelávaní a [[theory-development-aied|vývoj teórie v AIEd]]
 
 - Uveďte koncepciu učenia, ktorú vaše hodnotenie predpokladá, pretože meraný zisk je vzdelávacím dobrom len vo vzťahu k nejakému opisu toho, na čo je vzdelávanie.
 - Financujte filozofickú prácu popri empirickej: otázky o tom, čo sa počíta ako úspech študenta, určujú kritériá úspechu, ktoré empirické štúdie potom používajú.
-
-## Prepojené koncepty
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Chemické vzdelávanie a AI: laboratóriá, formatívne hodnotenie, limity LLM, filozofia experimentovania
-
-## Prepojené články
-
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI v čínskom vysokom školstve: integrita a angažovanosť
-- [[ensemble-cognition-philosophy-ai-education]] — Kolektívne poznávanie: filozofický rámec pre poznávanie človeka a AI
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogická symbióza a posthumánny študent
-- [[videla-embodied-ai-education-choreography]] — Telová, postkognitivistická kritika netelesnej AI vo vzdelávaní
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Vývojovo-kritický model interpretačného poznávania v humanitných vedách
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemická spoluagentúra ako filozofia učenia sa so strojmi
-- [[avraamidou-ai-colonization-science-education]] — Kriticko-feministická filozofia spochybňujúca kolonizáciu vzdelávania AI
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generatívna AI ako mediačný agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ekologické rámovanie GenAI vied o učení
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filozofia experimentovania v chémii s AI
-- [[strydom-human-gai-paradigms-2026]] — Rámovanie dynamiky človek–AI: sedem paradigiem angažovania s GAI (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternatívna filozofia AI: daoizmus ako metóda pre AI vo vzdelávaní
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kto koná, kto vie, kto odpovedá? Diskurzívna analýza agentúry, epistemickej zodpovednosti a zodpovednosti vo výskume generatívnej AI vo vysokom školstve s podporou korpusu
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — Humanocentrický AIED čítaný ako antropocentrický diskurz s komerčným využitím (Wang a Jin 2026)
-- [[khan-machines-emotional-labor-education-2026]] — Dokážu stroje vykonávať emocionálnu prácu? Debata 1950–1996 a prečo napodobňovanie nedostatočne určuje starostlivosť

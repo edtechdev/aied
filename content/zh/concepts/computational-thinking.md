@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,55 +87,3 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 - **"AI 辅助能在资源不足的情境中拉平起跑线。"** 它在特定条件下可以。一项针对尼日利亚 **103 名一年级本科生、为期 14 周的准实验**发现，AI 支持的问题式学习（ChatGPT 与 Teachable Machine）带来了增益，而作为"更有能力的同伴"的 AI 在其他教学供给缺位之处承载了计算思维。但这是一个关于结构化干预的发现，而不是"给学生一个[[conversational-ai|聊天机器人]]"就会具有的属性。
 - **"LLM 无法可靠地评估计算思维。"** [[llm-computational-thinking-physics-2026|物理 CT 评估研究]]发现，LLM 在大班课程中为"数据实践"与"计算性问题解决实践"的成长打分时能够**镜像人类评分者**。扩展 CT 评估的障碍一直是评分者产能，而这一约束正在松动，这把设计问题转向了工具究竟在测量 CT，还是在测量服从。
 - **"计算思维是一种恰好能由机器人来教的编程技能。"** 一项**对 95 项研究的[[meta-analysis-systematic-review|系统综述]]**确认机器人培养了 CT、创造力与问题解决，但也确认**情境会调节结果**：[[game-based-learning|游戏化学习]]式的实施适合非正式情境，而游戏化在正式情境中有所不同。CT 是一组迁移并不均衡的实践，因此迁移主张需要它实际使用的那套任务设计。
-
-## 关联概念
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## 关联文章
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — AI 训练测试中的计算思维（CTAT）
-- [[computational-thinking-aica-2026]] — 计算思维层级与 AI 编程助手（2026）
-- [[ai-writes-code-student-writes-model-2026]] — 模型作者身份：GenAI学习即建构的理论与测量
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI：面向成果物建构的建构主义框架
-- [[astor-computational-thinking-meta-review-2026]] — 对128篇系统综述的CT元综述
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE：非程序科学家实现已发表 AI 模型的可复现工作流
-- [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园通过机器人发展CT的系统综述
-- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft：用于提升计算思维与数字素养的数字设计思维与学习平台

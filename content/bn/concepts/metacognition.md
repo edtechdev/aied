@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -58,7 +60,6 @@ ai_assist:
 
 নির্ভরতা ব্যর্থতা নয়: [[du-yuan-epistemic-dependence-2026|Du ও Yuan (2026)]] এআই-মধ্যস্থ শিক্ষাকে ছয়টি নির্ণায়ক মানদণ্ডে বিচার করেন — প্রতিদ্বন্দ্বিতাযোগ্যতা, পুনরুদ্ধারযোগ্যতা, স্থানান্তর, অনুসরণযোগ্যতা, বিতরণকৃত দায় এবং এপিস্টেমিক বহুত্ব — এবং যন্ত্রগত সহায়তা, যা ফলাফল তৈরি করতে সাহায্য করে, তার থেকে বিচারবহনকারী সহায়তা আলাদা করেন, যা ফলাফল বিচারের মানদণ্ড যোগায়।
 **শাসন-প্রশ্নের নামকরণ।** [[metacognitive-ownership-human-ai-regulation-2026|Lin ও Chang (2026)]] **মেটাকগনিটিভ মালিকানা** প্রস্তাব করেন — যে মানদণ্ড, [[evaluative-judgment|মূল্যায়নমূলক বিচার]] ও কর্মে এআই অবদান রাখে, তার প্রতি শিক্ষার্থীর শাসন — এবং মানদণ্ড-আত্মসাৎকরণ, পর্যবেক্ষণ-বিচার শাসন ও নিয়ন্ত্রণ-অনুমোদনকে আলাদা করেন, এবং ভিন্নভাবে কাজ করার একটি বাস্তবসম্মত সুযোগ দাবি করেন।
-
 
 মূল ফলাফল:
 - **Kosmyna প্রমুখ (2025):** প্রবন্ধ লেখায় এআই সহায়তা নেওয়া শিক্ষার্থীদের **83% নিজেদের প্রবন্ধের উদ্ধৃতি মনে করতে পারেনি**, অ-এআই ব্যবহারকারীদের 11%-এর বিপরীতে — যা ইঙ্গিত করে, লেখার সময় তারা বিষয়বস্তুর সঙ্গে যুক্ত হয়নি।
@@ -99,7 +100,6 @@ ai_assist:
 - **একটি নির্বাচিত লাভ: পরিকল্পনা ও পর্যবেক্ষণ ছাড়া মেটাকগনিটিভ জ্ঞান।** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang প্রমুখ (2026)]] 68 জন [[teacher-education|প্রাক-সেবা]] শিক্ষককে দুই দলে ভাগ করেন — একটি দল একটি জেনএআই নবীন শিক্ষার্থীকে (n=33) ফ্লিপড ক্লাসরুম ব্যাখ্যা করে, আরেক দল একটি জেনএআই শিক্ষককে (n=35) প্রশ্ন করে। নবীন-শিক্ষার্থী দল মেটাকগনিটিভ জ্ঞান ও শেখার কৌশলে বেশি স্কোর করেছে (p < 0.001, Cohen's *d* = 0.41), কিন্তু পরিকল্পনা ও পর্যবেক্ষণে নয় (M = 4.01 বনাম 3.78, p = 0.062), যদিও একই দলের ব্যাখ্যা ও প্রয়োগ স্কোর বেড়েছে (r = 0.474 ও r = 0.642), অথচ তথ্যগত স্মরণ দল দুটিকে আলাদা করেনি (p = 0.416)। বিভাজনটি ভূমিকার সেই দুই উপাদানকেই অনুসরণ করে: যে কেউ পাল্টা প্রশ্ন করে তাকে ব্যাখ্যা করা কী জানে তা নিয়ে ঘোষণামূলক সচেতনতা গড়ে তুলেছে, কিন্তু নকশায় এমন কিছু ছিল না যা শিক্ষার্থীকে পথ নির্ধারণ করতে বা অগ্রগতি যাচাই করতে বাধ্য করে — যা লেখকরা ভূমিকার বদলে কাজের নকশা ও জ্ঞানীয় চাপের জন্য দায়ী করেন। ফলে এআই-সহ [[learning-by-teaching|শেখানোর মাধ্যমে শিক্ষা]] মেটাকগনিটিভ জ্ঞানের একটি লিভার, স্বয়ংক্রিয়ভাবে [[self-regulated-learning|নিয়ন্ত্রণের]] নয়, এবং লেখকরা স্পষ্ট পরিকল্পনা-প্রম্পট ও অগ্রগতি-ফিডব্যাক যোগ করার পরামর্শ দেন।
 - **Think Aloud প্রাথমিক সচেতনতাকে সহায়তা করে, গভীর মূল্যায়নকে নয়।** [[karaki-think-aloud-ethical-genai-2026|Karaki ও Baroudi (2026)]] 44 জন প্রথম বর্ষের উদ্যোক্তৃত্ব শিক্ষার্থীর সঙ্গে একটি [[mixed-methods-research|মিশ্র-পদ্ধতি]] কর্ম-গবেষণা চালান, যেখানে এআই-সহায়িত কোর্সকাজে Think Aloud পদ্ধতি ব্যবহার হয়। Think Aloud শিক্ষার্থীদের প্রম্পট নির্মাণ, যাচাইয়ের চর্চা ও নৈতিক সিদ্ধান্ত গ্রহণকে বেশি দৃশ্যমান করেছে, কিন্তু এআই ফলাফলের [[critical-thinking|সমালোচনামূলক মূল্যায়ন]] “প্রায়ই سطحেই থেকে গেছে, বিশেষত অতিরিক্ত সহায়তা প্রয়োজন এমন শিক্ষার্থীদের মধ্যে” — শিক্ষার্থীরা সাধারণ বা অপ্রাসঙ্গিক উত্তর চিনতে পেরেছে, তবু সেগুলোর ওপর ভারী নির্ভরতা রেখেছে। স্ব-প্রতিবেদিত মেটাকগনিটিভ সচেতনতা তিনটি জরিপকৃত গঠনের মধ্যে সর্বোচ্চ ছিল (M = 3.79), কিন্তু হস্তক্ষেপ-পরবর্তী একক জরিপ উপলব্ধিকে পরিবর্তন থেকে আলাদা করতে পারে না। লেখকদের সিদ্ধান্ত — Think Aloud একক সমাধান নয়, এটিকে এআই সাক্ষরতা, প্রম্পট নির্মাণ ও যাচাই কৌশলের স্পষ্ট নির্দেশনার সঙ্গে মিলিত করতে হবে — ওপরের প্রক্রিয়া-প্রমাণের ধারাকে *রেকর্ড কী ধরে* থেকে *কেবল উচ্চারণ কী বদলায়*-তে প্রসারিত করে।
 - **পূর্ববর্তী মেটাকগনিটিভ প্রশিক্ষণ এআই প্রতিফলন-সঙ্গীর সুবিধার দ্বার খোলে।** 60 জন প্রাক-সেবা শিক্ষকের 2 × 2 পরীক্ষায় [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang প্রমুখ (2026)]] একটি উল্লেখযোগ্য মেটাকগনিশন × টুল মিথস্ক্রিয়া পান: একটি এআই [[socratic-method|সক্রেটিক]] সঙ্গী প্রচলিত ডিজিটাল টুলের চেয়ে 0.56 পয়েন্ট এগিয়ে ছিল কেবল প্রশিক্ষণের পরে; প্রশিক্ষণ ছাড়া কোনো সুবিধা ছিল না (ΔM = −0.03)।
-
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] দমন-বিবরণকে ওয়ার্কশিটের বিপরীতে একটি পূর্ব-নিবন্ধিত কারণগত পরীক্ষা (N = 317) দেন। বিশৃঙ্খলা 0.84 বেড়েছে (95% ক্রেডিবল ইন্টারভাল 0.47 থেকে 1.21) এবং মডেলের সবচেয়ে স্পষ্ট প্রভাব ছিল, অন্যদিকে গভীর প্রক্রিয়াকরণ কমেছে অফলোডিং থেকে সমালোচনামূলক চিন্তায় চলা একটি শিকলের মধ্য দিয়ে, সরাসরি নয়। লেখক এই অবস্থার নাম দেন জ্ঞানীয় সুপ্ততা, যেখানে প্রক্রিয়াকরণ চলতে থাকে অথচ পর্যবেক্ষণ ও কৌশল-বাছাই নীরব হয়ে যায়, এবং এর কারণ খোঁজেন শিক্ষার্থীর নয়, পরিবেশের অ্যাফোর্ডেন্সে।
 
@@ -170,63 +170,3 @@ Scheu প্রমুখ (2026) একটি নির্ণায়ক বি�
 - **“এআই সহায়তা অন্তর্নিহিত সক্ষমতা অক্ষত রাখে।”** প্রবন্ধ লেখায় এআই সহায়তা নেওয়া শিক্ষার্থীদের **83% নিজেদের প্রবন্ধের উদ্ধৃতি মনে করতে পারেনি, অ-এআই ব্যবহারকারীদের 11%-এর বিপরীতে**, যা ইঙ্গিত করে **লেখার সময় তারা বিষয়বস্তুর সঙ্গে যুক্ত হয়নি**। সম্পৃক্ততা ঘটে উৎপাদন প্রক্রিয়াতেই, আর তা এড়িয়ে যাওয়া পরে প্রকাশ পায়।
 - **“অফলোডিং সবকিছু ক্ষয় করে।”** ব্যয়টি **বৈশ্বিক নয়, সীমাবদ্ধ** বলে মনে হয়: অফলোডিং **যে নির্দিষ্ট দক্ষতাটি চর্চা করা হচ্ছে তার ক্ষতি করে, অন্তর্নিহিত ক্ষেত্র-সাধারণ সক্ষমতার নয়**, এবং প্রকাশ পায় **কিছু-সহ** স্থানান্তর পরীক্ষায়। স্থানীয়করণটি গুরুত্বপূর্ণ, কারণ এটি সাধারণ অবনতির সতর্কবার্তার বদলে কী রক্ষা করতে হবে তা বলে।
 - **“উৎপাদনের সক্ষমতা ধারণের সক্ষমতা বোঝায়।”** 83% বনাম 11% স্মরণ-ব্যবধানই সরাসরি পাল্টা উদাহরণ: দুই শর্তেই ফলাফল উৎপাদিত হয়েছে, অথচ স্মৃতি-চিহ্ন বিশালভাবে আলাদা।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এই ক্রমগুলো যে প্রতিফলন-ধাপগুলো গড়ে তোলে
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-সংক্রান্ত ধারণাগুলোর ছাতা
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — শিখনের বিচার ও সাবলীলতার মায়া, যা পুনরুদ্ধার-অনুশীলন সংশোধন করে
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## সংযুক্ত নিবন্ধ
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — দুই ঘণ্টার এআই সাক্ষরতা কর্মশালা মাধ্যমিক শিক্ষার্থীদের LLM-মিথস্ক্রিয়া নিয়ন্ত্রণ বদলেছে, তাদের স্ব-প্রতিবেদিত মেটাকগনিশন বদলায়নি (Clerc প্রমুখ 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — কম্পিউটার-সহায়িত ধারাবাহিক দোভাষীতে শিক্ষার্থী-এআই মিথস্ক্রিয়া
-- [[du-yuan-epistemic-dependence-2026]] — এআই-মধ্যস্থ শিক্ষায় এপিস্টেমিক নির্ভরতা (Du ও Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — শিক্ষার্থীরা কী জিজ্ঞেস করে তা গুরুত্বপূর্ণ: LLM মিথস্ক্রিয়ার গভীরতা, কাজের গুণমান ও তাৎক্ষণিক স্মরণ (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — জেনএআই-সহায়িত লেখায় স্তর-সংবেদনশীল জ্ঞানীয় অফলোডিং (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM-এ LLM-মধ্যস্থ সহায়তা-সন্ধান: স্তরিত, যন্ত্রগত ও যাচাইকৃত
-- [[cui-motivation-roles-metacognitive-genai-2026]] — মেটাকগনিটিভ জেনএআই সম্পৃক্ততায় প্রেরণা ও ভূমিকা
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — মেটাকগনিটিভ প্রশিক্ষণ সর্বোত্তম জ্ঞানীয় অফলোডিং সহজ করে (Ngai ও Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — জ্ঞানীয় অফলোডিং নিয়ে মেটা-জ্ঞানীয় অন্তর্দৃষ্টি: প্রক্রিয়া, হস্তক্ষেপ ও শিক্ষাগত তাৎপর্য (Guo ও Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — মেটাকগনিটিভভাবে নিয়ন্ত্রিত জেনএআই ব্যবহারের IDEA কাঠামো
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: একটি মানবকেন্দ্রিক এআই মেটাকগনিটিভ শিখন মডেল (এজেন্সি ও প্রতিফলনমূলক শিক্ষা)
-- [[metacognitively-discordant-completion-genai-2026]] — মেটাকগনিটিভভাবে অসঙ্গতিপূর্ণ সমাপ্তি এবং না-বোঝাকে সচেতনভাবে পাশ কাটিয়ে যাওয়া
-- [[ai-metacognition-stem-review]] — STEM-এ মেটাকগনিশন স্ক্যাফোল্ড করা এআই টুল
-- [[ai-making-us-stupid]] — এআই কি আমাদের বোকা বানাচ্ছে? জ্ঞানীয় অফলোডিংয়ের সমালোচনা
-- [[stanford-evidence-base-ai-k12-2026]] — সাধারণ-উদ্দেশ্যের এআই যুক্তি সম্পন্ন করে মেটাকগনিশন দমিয়ে দেয়
-- [[ai-advice-suppresses-ikt-suspension-2026]] — এআই পরামর্শ “আমি জানি না” বলার ইচ্ছা দমিয়ে দেয়, ভুল পরামর্শ ও নির্ভুলতার প্রণোদনা থাকলেও
-- [[agentic-ai-pedagogical-best-practice-2026]] — এজেন্টিক এআই ও শিক্ষাগত সর্বোত্তম চর্চা: স্বয়ংক্রিয়তা ও শিক্ষার মধ্যকার টানাপোড়েন
-- [[cognitive-offloading-speedup-illusion]] — মানব-এআই মিথস্ক্রিয়ায় জ্ঞানীয় অফলোডিং ও গতিবৃদ্ধির মায়া
-- [[lodge-loble-cognitive-offloading-2026]] — এআই, জ্ঞানীয় অফলোডিং ও শিক্ষার জন্য তাৎপর্য (Lodge ও Loble 2026)
-- [[pedagogy-ai-mistakes]] — এআই ভুলের শিক্ষাবিজ্ঞান: উচ্চতর-ক্রম চিন্তা লালন (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতাভিত্তিক শিক্ষা সমর্থনে এআই ব্যবস্থার নকশা
-- [[lukesova-clue-before-correction-2026]] — সংশোধনের আগে সংকেত: স্বায়ত্তশাসিত ভাষা শেখায় ChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — প্রম্পট সাক্ষরতা চক্রে প্রম্পটিং প্রক্রিয়া ও লেখকত্ব-বিকাশ নিয়ে প্রতিফলন (Miles, Haber-Curran ও Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — একটি প্রতিফলন-প্রম্পট ভুল এআই পরামর্শ গ্রহণ কমিয়েছে ও সচেতনতার ক্রমাঙ্কন উন্নত করেছে (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — স্বয়ংক্রিয় স্কোরিং পর্যবেক্ষণকে শক্তিশালী করেছে, পরিকল্পনাকে নয়, আর স্ব-প্রতিবেদিত প্রতিফলন অনুৎপাদনশীল থেকেছে (Chen ও Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — যাচাই-সাক্ষরতা কেবল মেটাকগনিটিভ স্ব-নিয়ন্ত্রণের মধ্য দিয়ে কাজ করে (Davor, Larbi ও Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — পুনর্সংশোধন কৌশল-পছন্দ চালিয়েছে বাহ্যিক সহায়তা, মেটাকগনিটিভ বিচারের নির্ভুলতা নয় (Iqbal প্রমুখ 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — একটি নির্বাচিত লাভ: মেটাকগনিটিভ জ্ঞান বেড়েছে, পরিকল্পনা ও পর্যবেক্ষণ বাড়েনি (Wang প্রমুখ 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — প্রতিফলনমূলক ব্যবহার এআই-প্রবেশাধিকারের সঙ্গে বেড়েছে এবং সমালোচনামূলক চিন্তা পূর্বানুমান করেছে, জ্ঞান-লাভ নয় (Melanou, Beege ও Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — অভিযোজিত STEM শিক্ষার সবচেয়ে শক্তিশালী পূর্বানুমানক হিসেবে মেটাকগনিটিভ সচেতনতা (Alatoai ও Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — নির্ণয় থেকে মেটা-নির্ণয়ে: এআই-উৎপাদিত অনুমান বিচার করা শিক্ষকরা (Hoppe, Loibl ও Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — প্রতিফলনমূলক এআই সম্পৃক্ততায় দক্ষতা-টেকসই নির্ভরতার দিকে খোলা প্রশ্ন
-- [[dang-human-ai-collaboration-competency-2026]] — শিক্ষাবিজ্ঞান নয়, মেটাকগনিশনই মানব-এআই সহযোগিতায় শিক্ষার্থীর এজেন্সির প্রক্রিয়া (Dang, Hong, Doyle ও Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — মেটাকগনিটিভ মালিকানা: মানদণ্ড, বিচার ও কর্মে শিক্ষার্থীর শাসনের একটি গঠন
-- [[metacognitive-processes-genai-interaction-logs-2026]] — লগ ও থিংক-অ্যালাউ জেনএআই-সহায়িত শিক্ষায় ভিন্ন মেটাকগনিটিভ প্রক্রিয়া ধরে
-- [[ai-cognitive-partner-reflective-thought-2026]] — শিক্ষার্থীরা এআই-কে জ্ঞানীয় সঙ্গী ধরলে প্রতিফলনমূলক চিন্তার চার চর্চা ও এগারো প্রক্রিয়া
-- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud প্রম্পট নির্মাণ, যাচাই ও নৈতিক যুক্তি দৃশ্যমান করেছে, কিন্তু সমালোচনামূলক মূল্যায়ন سطحে থেকেছে; একক সমাধান নয়
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — প্রাক-সেবা শিক্ষকদের প্রতিফলনমূলক চর্চায় মেটাকগনিটিভ প্রশিক্ষণ ও এআই-ভিত্তিক সক্রেটিক স্ক্যাফোল্ডিং: দ্বৈত-গবেষণা পরীক্ষামূলক নকশা
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — জ্ঞানীয় সুপ্ততা: স্থগিত মেটাকগনিটিভ সম্পৃক্ততা ও বাড়তে থাকা বিশৃঙ্খলার পরীক্ষামূলক বিবরণ (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — তিন-স্তরের মেটা-বিশ্লেষণ: সমন্বিত g = 0.624, নির্ভুলতা-রেটেড পর্যবেক্ষণে অ-উল্লেখযোগ্যে নেমে আসে (Li প্রমুখ 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC মডেল: মেটাকগনিটিভ অফলোডিং বনাম অনলোডিং, এবং কাজের কার্যক্ষমতা টেকসই শিক্ষা থেকে বিচ্ছিন্ন (Fan প্রমুখ 2026)
-- [[guo-overreliance-genai-feedback-2026]] — পর্যবেক্ষণ অফলোডিং-পথ আটকায় না, বরং পুনঃনির্দেশ করে
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — পর্যবেক্ষণ এড়িয়ে গেলে কী ঘটে, এবং তার দাম কত

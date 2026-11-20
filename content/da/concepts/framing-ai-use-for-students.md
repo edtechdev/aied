@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -97,38 +99,3 @@ Elever indrammes også af den bredere medie- og offentlighedsdiskurs om [[ai-edu
 **"At forbyde et værktøj fjerner adfærden."** Det flytter den til værktøjer, du ikke kan se. Elever foretrækker allerede privat tilgåede værktøjer frem for institutionelt udbudte, så et forbud skubber brugen ud af det eneste miljø, hvor støtte, logning eller vejledning er mulig. Indramningsopgaven er at gøre den tilladte adfærd til den attraktive, ikke at gøre den forbudte adfærd sværere at observere.
 
 **"Indramning er overbevisning, så det er mere retorik end design."** Den indramning, denne side beskriver, er parret med design: forventninger udtrykt klart og gentagne gange *mens man designer omkring eleverne*. Budskaber leveret i stedet for designet til er den version, der fejler, fordi eleverne læser forskellen mellem en erklæret forpligtelse og en faktisk.
-
-## Forbundne begreber
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Forbundne artikler
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — En 30-ekspertkonsensus om rækkefølgen: tilegn dig stoffet uden GenAI, konsolidér det med den, og tænk derefter selv
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Åben begrundelse for hver tilladt og ikke tilladt GenAI-brug, opgave for opgave (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — At opmuntre passende brug af GenAI frem for at fordømme den som forstyrrelse
-- [[student-rationalization-ai-writing]] — De "fem steder", hvor elever rationaliserer AI-brug i akademisk skrivning
-- [[student-regulatory-awareness-genai]] — At kende reglerne er ikke nok: regulatorisk bevidsthed og faktisk brug
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Fra AI-bekymring til strategisk regulering
-- [[chatgpt-inoculation-training-verification-2026]] — Inokulationsbudskaber og verifikationsadfærd
-- [[ai-fallibility-warning-help-seeking]] — Advarsel om AI-fejlbarlighed øger hjælpsøgning
-- [[shame-guilt-ai-regulation-computing-education]] — Skam og skyld som sociale regulatorer af AI-brug
-- [[access-not-enough-ai-tutoring-2026]] — Menneskelig støtte forbedrer engagementet i AI-vejledning
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-baseret engagement med GenAI
-- [[ai-availability-student-motivation]] — Hvordan AI-tilgængelighed former elevers motivation
-- [[youtube-frames-chatgpt-education]] — Hvordan YouTube indrammer ChatGPT-brug i uddannelse
-- [[ai-ethics-education-public-discourse]] — Offentlig diskurs om AI-etik i uddannelse
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Undervisere indrammer AI som kritisk og ansvarlig brug; arbejdsgivere indrammer det som produktivitet
-- [[ssaho-ai-academic-integrity-review-2025]] — At opbygge en kultur for akademisk integritet via klare forventninger

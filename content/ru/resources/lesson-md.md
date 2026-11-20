@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -38,8 +39,3 @@ ai_assist:
 ## Для кого он предназначен
 
 Для дизайнеров обучения и создателей курсов, которые хотят, чтобы их контент пережил смену инструмента, для поставщиков электронного обучения, которым нужен формат импорта и экспорта, понятный их пользователям, и для всех, кто строит авторство с помощью ИИ поверх читаемого формата. Среди участников — Дэн Башо из LXD Integral; формат имеет публичный журнал изменений вплоть до версии v1.8.
-
-## Связанные концепции
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

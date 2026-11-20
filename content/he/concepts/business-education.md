@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,36 +81,3 @@ ai_assist:
 - **"סטודנטים רוצים AI כי הם רוצים קיצורי דרך."** מסגרת מגובשת-סטודנטים מצאה שסטודנטים **מעורבים מאוד ומודעים לכך שהם זקוקים לכישורי GenAI לקריירה**, ובו-זמנית רוצים **להשתמש ב‑AI בלי לחולל בשוגג עבירת יושרה אקדמית**. הביקוש הוא לכשירות עם גבולות ברורים, לא לרשות להימנע מעבודה.
 - **"הוספת מודולי AI לתכנית עסקית לוכדת את התועלת."** מחקר על יישור קונסטרוקטיבי מצא שהאם **תועלות או סיכונים שלטו עוצב על ידי מידת שילוב תכנית הלימודים** — ההבחנה המבצעית היא **לשלב, לא להוסיף**. מודול שהודבק מבחוץ משאיר את עיצוב ההערכה ללא שינוי.
 - **"תחכום הכלי מנצח למידה אלקטרונית קונבנציונלית."** מחקר תפיסה של **130 סטודנטים** מצא ש**גם תמיכת צ'אטבוט וגם תמיכת סוכן דורגו מעל למידה אלקטרונית מסורתית** בשיפור, בהתאמה אישית ובקבלת החלטות. שווה לשים לב למה שזה מודד: *תפיסת* סטודנטים אל מול בסיס קונבנציונלי, לא למידה אל מולו.
-
-## מושגים מקושרים
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — מחקרי מקרה, שיטת המקרה ודיון מקרה
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## מאמרים מקושרים
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-- [[csaszar-ai-management-education-2026]] — השפעות הבינה המלאכותית על חינוך ניהולי: ניתוח אסטרטגיה מבוסס-ערך (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
-- [[alam-process-oriented-collaborative-essays-2026]] — מאמרים שיתופיים מונעי-תהליך בתואר מנתח עסקי: ניקוד איטרציה מתועדת, לא הנושא
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוט RAG שנבנה בקורס הזיז ציפיות, לא תוצאות

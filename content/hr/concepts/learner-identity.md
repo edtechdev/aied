@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -86,38 +88,3 @@ Identitet učenika povezuje se s [[agency|djelotvornošću]] (identitet se ostva
 **„UI pomoć snižava prepreke i time širi sudjelovanje.“** Ona može sniziti prepreku za proizvodnju rada, a istodobno suziti prepreku za prisvajanje autorstva. Student koji preda tečan artefakt koji nije autorizirao dobio je pristup ishodu, a uskraćeno mu je priznanje koje gradi identitet iza njega.
 
 **„Prepoznavanje identiteta učenika stvar je zastupljenosti u sadržaju.“** Zastupljenost je važna, a priznanje se ostvaruje u praksi: čija se pitanja prihvaćaju, čiji se doprinos priznaje i koga se tretira kao sposobnog. [[curriculum-design|Kurikulum]] može biti reprezentativan i ipak uskratiti priznanje koje oblikovanje identiteta zahtijeva.
-
-## Povezani koncepti
-
-- [[learners]] — Učenici: krovni koncept za koncepte na strani učenika
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Povezani članci
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 studenata preddiplomskog studija o tome što zadržavaju za sebe i zašto svrha rijetko odlučuje o tome
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — Paradoks kompetentnosti: kreativni identitet u upotrebi tekstno-slikovne generativne umjetne inteligencije
-- [[shame-guilt-ai-regulation-computing-education]] — Sram i krivnja kao društveni regulatori upotrebe umjetne inteligencije
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptivne sposobnosti za održiv profesionalni identitet u budućnosti s generativnom umjetnom inteligencijom
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[ai-pedagogical-accompaniment-amico]] — Pedagoško praćenje potpomognuto umjetnom inteligencijom koje podupire STEM identitet
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Osmišljavanje autentične procjene
-- [[paternalistic-filter-llm-history-education]] — Paternalistička upotreba umjetne inteligencije i studentski identitet u obrazovanju povijesti
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Obuka nastavnika utemeljena na TPK-u i profesionalni identitet
-- [[genai-professionalization-metaphors-2026]] — Konceptualizacije generativne umjetne inteligencije i profesionalni identitet studenata
-
-- [[synthetic-position-self-authorship-2026]] — Suspenzija autorstva: delegirano autorstvo kao sebstvo gusto izrečeno, ali bez autora (konceptualna analiza)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

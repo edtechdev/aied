@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -68,35 +70,3 @@ ai_assist:
 - **"הגוף הוא מה שעושה את הלמידה המגולמת."** מטא-אנליזה של **11 מחקרי RALL (N = 595, g = 0.83, I² = 84.4%)** מצאה ש**מורפולוגיית הרובוט, המודליות, האוטונומיה והתפקיד החברתי לא מיתנו** תוצאות של למידת [[language-learning|שפה]] שנייה. תכונות הגילום לא היו המרכיב הפעיל, והטרוגניות הייתה גבוהה מספיק (I² = 84.4%) כדי שהאפקט המשוכלל יתאר מערך התערבויות מאוד מעורב.
 - **"אפקט גדול מכריע את המנגנון."** g = 0.83 עם 595 משתתפים על-פני 11 מחקרים הוא אות ממשי, והוא אינו מזהה מה יצר אותו. מכיוון שתכונות העיצוב לא מיתנו את האפקט, המנגנון הסביר יושב בפעילות הפדגוגית ולא בחומרה — מה שמשנה במה כדאי להשקיע.
 - **"אי אפשר למדוד גילום, ולכן הוא נשאר תיאורטי."** מעקב גוף יכול להפוך ויסות ל**אות מדיד**: בסימולציית פוטוסינתזה במציאות מעורבת, שבה תגי תנועה הזיזו סוכני סטודנטים על-פני מודל מוקרן, צינור LLM תייג **470 קטעים** של התנהגות מוסדרת. המבנה ניתן לאופרציונליזציה גם כשהוא קשה להגדרה.
-
-## מושגים מחוברים
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — המודליות שמנסה לנצל גילום ישירות
-
-## מאמרים מחוברים
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — סימולציית פוטוסינתזה עם מעקב תנועה, שנותחה בצינור LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — מסגרת רב-מודאלית לקוגניציה מגולמת בהסברים בעל-פה
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — טיפוח למידה בר-קיימא דרך אינטליגנציה מגולמת (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper ושפת סימנים
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — שילוב רובוט-מודל-לשוני בכתיבה יצירתית
-- [[robot-assisted-language-learning-meta-analysis-2026]] — מטא-אנליזה של למידת שפה מגולמת בסיוע רובוט מוגברת-בינה מלאכותית
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI כמנחה לאחר מודלים שנבנו ביד: AI לשוני אינו יכול ללכת אחר חקר מגולם (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — AI בלמידה מגולמת בעיקר צופה: תפקידי חישה 62.5% מתגי התפקידים המקודדים, ואף מערכת שנסקרה לא מיזגה זרמים רב-מודליים בזמן שהלומדים השתמשו בה (Kim & Han 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -68,23 +70,3 @@ Penilaian berbasis standar adalah padanan penilaian dari pembelajaran penguasaan
 **"Pembelajaran penguasaan adalah pedagogi yang akhirnya dimungkinkan AI."** Mekanismenya jauh mendahului AI — Bloom memformalkan kerangka ini beberapa dekade lalu — dan AI mengoperasionalkannya dengan mengotomatiskan keputusan penilaian dan pendakian, bukan dengan mewujudkan desain yang sebelumnya mustahil. Pembingkaian ulang itu penting karena otomasi mewarisi pilihan aturan, dan aturan itulah tempat pertimbangannya berada.
 
 **"Penilaian yang lebih sering di bawah penguasaan membuat ambang lebih andal."** Frekuensi memperbaiki estimasi dan tidak memperbaiki aturan yang salah spesifikasi. Menghitung ulang penguasaan lebih sering dari peristiwa yang mencakup pekerjaan berbantuan justru lebih cepat konvergen pada jawaban salah yang sama.
-
-## Konsep terkait
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — pengambilan dan penjarakan sebagai mesin latihan di dalam siklus penguasaan
-
-## Artikel terkait
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalisasi berlebihan yang menipu: penguasaan adaptif dapat menghentikan latihan sebelum siswa tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Menyuntikkan aturan penguasaan/non-penguasaan ke dalam pembelajaran mendalam untuk pemodelan siswa yang bertanggung jawab dan interpretabel
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Mengkreditkan pekerjaan berbantuan menggelembungkan penguasaan: aturan bukti mana yang menetapkan siapa dinyatakan menguasai (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Menyimulasikan strategi pemilihan tugas siswa dan kendala sistem dalam pembelajaran penguasaan (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Pelacakan pengetahuan melebih-lebihkan kinerja sesi berikutnya dan melewatkan efek penjarakan (Schuetze, Yan & Carvalho 2025)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -75,31 +77,3 @@ Keberlanjutan dan AI dalam pendidikan berada di persinggungan [[ethics]], [[gove
 - **"Pengetahuan abstrak tentang AI memprediksi kapasitas guru untuk mengajarkan keberlanjutan."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] menemukan bahwa **penggunaan praktis AI** oleh guru dalam konteks sains dan energi hijau serta **keterlibatan mereka dalam mengembangkan materi yang selaras ESD** — **lebih daripada pengetahuan atau sikap abstrak tentang AI** — memprediksi kapasitas mereka. Mengetahui tentang AI dan mampu membangun dengannya berpisah, dan jalur praktis memprediksi lebih banyak.
 - **"Desain pembelajaran berbantuan AI di bawah pedagogi keberlanjutan menghasilkan pedagogi keberlanjutan."** Karya yang sama menemukan bahwa [[learning-design|desain pembelajaran]] berbantuan AI di bawah Pedagogi Pembangunan Berkelanjutan **membatasi** desain dengan cara tertentu alih-alih memperluasnya. Model yang dilatih pada materi konvensional mereproduksi pembingkaian konvensional kecuali pekerjaan desain mengoreksinya.
 - **"Keberlanjutan adalah sebuah topik, bukan tema lintas sektor."** Karena kedua jalur berjalan lintas tingkat, keberlanjutan muncul di [[higher-ed|pendidikan tinggi]], K-12, dan konteks profesional — yang berarti ia adalah tema fondasional yang harus ditangani di dalam setiap disiplin alih-alih diajarkan sebagai mata pelajaran terpisah.
-
-## Konsep terkait
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Artikel terkait
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Survei dan studi kelompok fokus di Swedia yang berargumen bahwa etika kemitraan, bukan kerangka kecurangan, seharusnya memandu keputusan genAI institusional
-- [[daniel-ai-sustainability-scoping-review-2026]] — Tinjauan cakupan AI untuk keberlanjutan dan AI berkelanjutan di pendidikan tinggi
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Pendekatan kritis-nilai terhadap pendidikan berkelanjutan dan AI
-- [[liu-ai-sustainable-engineering-education-2026]] — Kerangka AI-SEE untuk pendidikan teknik berkelanjutan
-- [[riandi-teacher-ai-green-energy-education-2026]] — Keterlibatan guru dalam integrasi AI untuk pendidikan energi hijau
-- [[talebzadeh-ai-green-education-2026]] — Peran AI dalam Pendidikan Hijau
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Asisten basis pengetahuan AI berkelanjutan
-- [[llm-environmental-impact-student-usage-2026]] — Dampak lingkungan penggunaan LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Menumbuhkan pembelajaran berkelanjutan melalui kecerdasan terwujud
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR pendidikan AI pra-universitas (kerangka SDG 4)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -105,39 +107,3 @@ ai_assist:
 
 - किसी स्थापत्य श्रेष्ठता का दावा करने से पहले एक से अधिक डेटासेट परिवारों पर परिणाम रिपोर्ट करें, क्योंकि OKT का विरोधाभास इंजीनियरिंग LMS डेटा और ASSISTments के बीच उलट जाता है।
 - मास्टरी-गणना नियम को परिणाम का पैरामीटर रिपोर्ट करें, पद्धतिगत पाद-टिप्पणी के रूप में नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र अवधारणा
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — सूक्ष्म-स्तरीय दक्षता अनुमान सहायता निर्णयों को आधार देता है
-
-## संबंधित लेख
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — भ्रामक अति-सामान्यीकरण: अनुकूली दक्षता अभ्यास को रोक सकती है इससे पहले कि शिक्षार्थी जानें कि किसी क्रिया को कब रोकना है (An, McLaren & Stamper 2026)
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — गतिशील डोमेन के लिए ग्राफ-आधारित इंटेलिजेंट ट्यूटरिंग (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — एफिनिटी मैपिंग के साथ परिणाम-आधारित ज्ञान अनुरेखण
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — KC-कैलिब्रेटेड अवस्थाओं के साथ अर्थपूर्ण रूप से आधारित अनुरेखण, अनुशंसा के लिए RL परिवेश के रूप में उपयोगित
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: एक एजेंटिक ट्यूटर जो मानव-AI सह-सीखने के लूप में अपने शिक्षार्थी को सीखता है
-- [[crediting-assisted-work-inflates-mastery-2026]] — कौन-सा प्रमाण नियम दक्षता दावे का निर्णय करता है (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — एकल-पास LLM 8 शिक्षार्थियों पर प्रशिक्षित गहरे मॉडलों से ऊपर ज्ञान ट्रैस करता है, एक अंश लागत पर (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — गणित ज्ञान अनुरेखण में छात्र इतिहास को संपीड़ित करना

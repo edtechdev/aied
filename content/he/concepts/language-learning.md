@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -98,59 +100,3 @@ ai_assist:
 - **"חונכים רובוטיים מגוגשים עובדים בגלל הגילום."** מטא-אנליזה של **11 מחקרי RALL (N = 595)** מצאה אפקט משוכלל גדול על למידת L2 (**g = 0.83**) עם **הטרוגניות גבוהה**, ו — חשוב — **רק** מאפייני רמת-האינטראקציה מיתנו אותו. מורפולוגיה ומודאליות לא, ולכן החומרה אינה המרכיב הפעיל.
 - **"פריטי הערכה מיוצרים בבינה מלאכותית גרועים מאלה שכתב מורה."** השוואה של **52 משימות הערכת EFL שנדרגו בידי 20 מורים מנוסים** מצאה **הבדל איכות לא מובהק בכללות** בין פריטים מיוצרים בבינה מלאכותית לפריטים שפותחו בידי אדם, אך התפצלות בממדים מסוימים. שוויון בכללות עם חולשות ספציפיות הוא טענה שונה משיפור או מחסור.
 - **"משוב LLM יכול רק לנקד כתיבה."** מערכת ברמת השיח הולכת רחוק יותר בכך שהיא **מכנה את הפגם במקום לנקד את הטקסט**, כאשר סיווג יחסים בין זוגות משפטים ממקם **שברי קוהרנטיות** כגון קפיצות לוגיות וחוליות חסרות. הפלט השימושי הוא אבחוני, לא מספרי.
-
-## מושגים מחוברים
-
-- [[eportfolio]]
-- [[writing-education]]
-- [[reading-education]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-
-## מאמרים מחוברים
-
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — הרחיבו את פיגום הבינה המלאכותית לקריאה שיתופית
-- [[ai-speaking-practice-communicative-readiness-2026]] — מוכנות, לא ביצוע נצפה
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
-- [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[ai-guided-learning-audiovideo-2026]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[self-referential-l2-writing-llm-assessment]]
-- [[ai-scoring-language-bias-physics]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[ai-tools-arab-english-classrooms]]
-- [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR technology in college English speaking: feedback internalization and metacognitive strategies
-- [[chatbots-oral-proficiency-efl-systematic-review]] — רווחי צ'אטבוטים במיומנות דיבור מתמקדים בטווח ובמובנות
-- [[acoustic-lexical-native-language-identification-learners-2026]] — אודיו גובר על מסווג תמלול zero-shot של GPT-4o לזיהוי שפת אם (Uluslu et al. 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong
-- [[xian-process-visualization-feedback-news-translation-2026]] — משוב תהליך העלה ייעוץ במקורות וצמצם שימוש בתרגום מכונה בקורס תרגום עיתונות
-- [[wordofa-genai-grammar-instruction-efl-2026]] — הוראת דקדוק בסיוע בינה מלאכותית יוצרת, מסוגלות עצמית ומודעות מטא-לשונית של לומדי EFL אתיופים

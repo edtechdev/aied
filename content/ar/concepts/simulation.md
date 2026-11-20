@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -90,51 +92,3 @@ ai_assist:
 - **«المحاكاة أرخص ومن ثمّ أقلّ جودة.»** تحلّ مساعدو المحاكاة المستقلّون بـ[[llm|النماذج اللغوية الكبيرة]] محلّ لاعبي الأدوار البشرية المتخصصين الذين يُشغّلون محاكاة التحكم في حركة المرور الجوية، مُزيلين عنق زجاجة قدرة التدريب — فالقيد كان توفير الأفراد لا الأمانة. وحيث يندر لاعبو الأدوار البشر، ليست محاكاة النماذج اللغوية الكبيرة بديلًا بل الخيار المتاح الوحيد.
 - **«ينبغي أن تتصرف المحاكيات كالحالات المتوسطة.»** يزاوج [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] وكيل سياسة مع **محاكيات مرضى بالنماذج اللغوية الكبيرة مبنية لتتصرف بشكل خصمي**. والمحاكي المصمّم ليكون متعاونًا يجعل تدريب المتعلّم أسهل من العيادة، وهو نقيض ما يحتاجه التدريب.
 - **«السيناريوهات المكتوبة سلفًا تعلّم اتخاذ القرار في ظل عدم اليقين.»** يولّد وكلاء SupplyNet السياقيون متعددو الوكلاء **ديناميكيات ناشئة عن قرارات المتعلّم لا متسلسلات مكتوبة**. فالسيناريوهات المكتوبة تتدرّب على مسار معروف؛ والناشئة تتدرّب على القرار.
-
-## مفاهيم مترابطة
-
-- [[active-learning|التعلّم النشط]]
-- [[adaptive-learning|التعلّم التكيفي]]
-- [[pedagogical-agent|الوكيل البيداغوجي]]
-- [[reinforcement-learning|التعلم المعزز]]
-- [[student-modeling|نمذجة الطلاب]]
-- [[constructivist|البنائية]]
-- [[trust-calibration|معايرة الثقة]]
-- [[professional-training|التدريب المهني]]
-- [[chemistry-education|تعليم الكيمياء والذكاء الاصطناعي: المختبرات، والتقويم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب]]
-- [[biology-education|تعليم الأحياء والذكاء الاصطناعي: مساعدو المختبر التدريسيون، وثقافة الذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصصة]]
-- [[ai-technologies|المظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتات، والاسترجاع المعزز، والوكيلية)]]
-- [[virtual-and-augmented-reality|النموذج لا الوسيط — البيئات الغامرة تُصيّر عادةً محاكاة]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## مقالات مترابطة
-
-- [[learner-agency-ai-simulation-2026]] — تحكم المعاملات ووكيل ذكاء اصطناعي اختياري في محاكاة أنظمة معقدة: المكاسب تابعت التنفيذ لا الوصول
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — مرضى افتراضيون تكيفيون للتدريب على العلاج النفسي
-- [[ai-enabled-serious-games]] — ألعاب جدية ممكنة بالذكاء الاصطناعي
-- [[anvil-ai-educational-animations]] — ANVIL: تشبيهات ومقاطع مرئية للمحاضرين
-- [[astra-atco-training-simulator]] — ASTRA: محاكي تدريب التحكم في حركة المرور الجوية
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: التعلّم الاستكشافي البصري
-- [[medeasy-ai-standardized-patients]] — MedEASY: مرضى معياريون بالذكاء الاصطناعي
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — لعبة تقمص أدوار مُوسّطة بالروبوت لتدخل الشهود (دراما تطبيقية)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — مراجعة منهجية للذكاء الاصطناعي التوليدي في تعليم الرعاية الصحية القائم على السيناريوهات (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — إطار CAIS-GBL لوكلاء تحادثيين بالذكاء الاصطناعي في ألعاب محاكاة الأعمال (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — وكلاء نماذج لغوية كبيرة مضبوطون خاصون بكل مشارك ينتجون حوارات حل المشكلات التعاونية (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — معيار ASTRA التركيبي للتدريس متعدد الوكلاء والتعاون المتوازن في المشاركة
-- [[simulation-assisted-drone-learning-stem-2026]] — تعلّم الطائرات المسيّرة المدعوم بالمحاكاة بسقالات مُصمّمة مشتركًا بين المعلم والذكاء الاصطناعي
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — المحاكاة المقودة بالذكاء الاصطناعي في التمريض: مراجعة منهجية بمناهج مختلطة (فجوة الأصالة، السلسلة المتصلة المتدرجة)
-- [[sophie-clinical-communication-ai-assessment-2026]] — تدريب قابل للتوسع على التواصل الإكلينيكي بالذكاء الاصطناعي وتقويم آلي
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — التوائم الرقمية في تعليم STEM: النماذج الأولية كلها نجحت، مكاسب التعلّم في معظمها لم تنجح
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating the practice represented, the simulated situation, agency and adaptation, and orchestration
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — From technology adoption to curricular coherence: technology-enhanced simulation as a bridge in health professions education
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — What a teacher cannot delegate to a conversational agent across the simulation cycle
-
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — مختبر افتراضي مدعوم بالذكاء الاصطناعي للتعلّم المقلوب في الفيزياء: آثاره على تحصيل طلاب المرحلة المتوسطة ودافعيتهم والحمل المعرفي

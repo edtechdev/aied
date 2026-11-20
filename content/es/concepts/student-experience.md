@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
+connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -127,73 +129,3 @@ La experiencia del estudiantado conecta con la [[cognitive-offloading|dependenci
 **«Si el estudiantado siente que la IA ayuda, ayuda.»** Sentirse ayudado es un dato real sobre la experiencia y una inferencia poco fiable sobre el resultado. La brecha está documentada y el estudiantado del grupo perjudicado no la percibe de forma fiable, así que la percepción y el resultado deben recogerse como medidas separadas en lugar de que una sustituya a la otra.
 
 **«La experiencia del estudiantado es una preocupación blanda frente a los resultados.»** Es un indicador adelantado de la adopción y la declaración: el estudiantado que siente que se juzga su uso lo ocultará, y el uso oculto es la condición en la que el [[reducing-ai-misuse|mal uso]] y el daño resultan menos visibles para la institución.
-
-## Conceptos conectados
-- [[learners]] — Aprendientes: el paraguas de los conceptos del lado de quien aprende
-- [[pedagogical-partnerships]] — Alianzas pedagógicas
-- [[learner-identity]] — identidades de quien aprende disciplinares, profesionales, creativas y académicas en evolución
-- [[agency]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[remote-proctoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[framing-ai-use-for-students]]
-- [[academic-integrity]]
-- [[stakeholders]] — Paraguas: personas y audiencias en la educación con IA (quienes aprenden, docentes, diseñadores, administradores, responsables de políticas)
-- [[self-report-measures]]
-- [[student-engagement]] — cómo los sistemas de IA miden y responden a la conducta del estudiantado
-- [[social-norms-ai-use]] — cómo el uso de la IA se hace visible ante los pares
-- [[student-support-and-success]] — el lado institucional del apoyo: lo que la universidad hace por el estudiantado, y no lo que ocurre en un curso
-
-## Artículos conectados
-- [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA
-- [[t2i-competence-paradox-2026]] — La paradoja de la competencia: identidad creativa en el uso de IA generativa de texto a imagen
-- [[best-response-student-ai-dialog-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[ai-in-the-wild-college]]
-- [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — La racionalización del uso de IA por parte del estudiantado en la escritura académica (Kim et al. 2026)
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[ai-availability-student-motivation]]
-- [[aied-unfinished-mission-bypass]]
-- [[student-mental-models-genai]]
-- [[genai-usage-design-students-survey]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Expectativas de habilidades de IA para quienes se gradúan frente a la preparación institucional
-- [[student-ai-inquiry-types-cs2-2026]] — Análisis de los tipos de consultas en la interacción entre estudiantado e IA
-- [[lnenicka-secondary-students-genai-stem-2026]] — Qué hace el estudiantado de secundaria con las herramientas de IA generativa en STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y planteamiento de problemas en ciencias de primaria
-- [[bassett-ai-detectors-education-2026]] — Cara gano yo, cruz pierdes tú: los detectores de IA en la educación (Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: evaluación de la ansiedad del estudiantado aumentada con LLM (2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — Un análisis exhaustivo de la ansiedad ante la IA
-- [[student-perceptions-ai-study-productivity-2026]] — Percepciones del estudiantado sobre las herramientas de inteligencia artificial para la productividad en el estudio y el aprendizaje: un estudio de encuesta exploratorio
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Perspectiva de adopción en la educación postsecundaria
-- [[pedlow-genai-selfassessment-2026]] — Elevar la conciencia ética del uso de IA generativa mediante la autoevaluación del estudiantado
-- [[dollinger-equitable-assessment-ai-2026]] — Evaluación equitativa en una era de IA
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso, ética y política de la IA generativa a lo largo del tiempo en la formación del profesorado (Parker et al. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — Experiencia del estudiantado sobre la utilidad de la IA generativa en la educación superior australiana (Chung et al. 2026)
-- [[genai-motivation-engagement-2026]] — 297 estudiantes: la motivación predijo la implicación; el apoyo a la autonomía para usar la IA no tuvo efecto directo (Ahmed y Sultan 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — La IA generativa y la capacidad de decisión percibida del estudiantado (explicación desde la carga cognitiva)
-- [[genai-professionalization-metaphors-2026]] — Conceptualizaciones de la IA generativa y profesionalización del estudiantado
-- [[sidorkin-ai-generated-course-readings-2026]] — El estudiantado como auditor de su propio currículo generado por IA (Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — El estudiantado sobre si la IA generativa es una herramienta de trampas o una compañera de aprendizaje
-- [[munoz-misconduct-allegation-evidence-2026]] — Qué contienen de verdad como evidencia los expedientes de acusaciones de mala conducta
-- [[wright-transcription-not-generation-2026]] — Reglas sobre IA demasiado amplias y el estudiantado al que alcanzan
-- [[sharma-judgment-visible-genai-assessment-2026]] — La integridad como juicio evaluativo y no como cumplimiento
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Los costes emocionales y de equidad de la supervisión remota para el estudiantado

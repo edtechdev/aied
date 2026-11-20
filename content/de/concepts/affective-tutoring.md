@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -117,24 +119,3 @@ Affektives Tutoring überschneidet sich mit [[hazra-safetutors-pedagogical-safet
 **„Ein Tutor, der Emotionen aus einem Gesicht erkennt, kennt den Zustand der Lernenden.“** Affekt wird erschlossen, nicht beobachtet, und die Erschließung ist genau dort am schwächsten, wo am meisten auf dem Spiel steht. [[ecnuclaw-k12-personalized-companion|Zhou, Li und Zhang (2026)]] führen eine emotionale Dimension in einem fünfdimensionalen Lernendenprofil, füllen sie jedoch mit Stichwortwörterbüchern: Wer Frustration in Worten äußert, die das Wörterbuch nicht enthält, wird schlicht nicht erfasst, und das Profil wurde nicht gegen Expertenurteile validiert. Die Gesichtserfassung fügt einen kontinuierlichen Videostrom und eine Datenschutzgefährdung hinzu, die die Textinferenz nicht mit sich bringt.
 
 **„Emotionsmessungen zu unterschiedlichen Zeitpunkten sind austauschbar.“** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] finden, dass geordneter Affekt kurzreichweitige Persistenz und gerichtete Übergänge zeigt und dass durch Nachfragen erfasste Berichte — die Selbstschleifen um Neugier und Verwirrung — eine andere Messung sind als selbst erfasste wie Frustration und Überraschung. Wer beide zu einer summarischen Häufigkeit mittelt, verwirft die Sequenz, die das Signal trägt.
-
-## Verbundene Konzepte
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Verbundene Artikel
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie aus, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)

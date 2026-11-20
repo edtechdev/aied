@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -193,87 +195,3 @@ AI 辅助备课中的认识权威是一个片段一个片段协商出来的，�
 **"教师已经在共同设计 AI，因此转型正在进行。"** 这一抱负是真实的；描述则还不是。[[wang-teacher-ai-co-design-review-2026|Wang、Liu 与 Islam（2026）]]对教师与 AI 共同设计学习任务的系统综述发现，共同设计者的立场**仍不均衡**，主导模式仍是 AI 作为助手或内容生成器。把该综述读作转型已完成的证据，会掩盖本页所推荐的那种教师与多数机构实际拥有的教师之间的差距。
 
 **"教师如何委托给聊天机器人几乎无关紧要，因为活是模型干的。"** 委托模式就是干预。在儿童 STEAM 艺术课规划中，[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir（2025）]]通过实验发现，在*自己拟出的*方案中填补内容空缺，既保留了教师的设计自主性，又仍提升了专家评定的方案质量（中位数 20.5 对 17.6，p = .002，效应量大），优于让模型提供提纲的替代做法。同一个模型、同一个任务、不同的分工，结果实质不同。
-
-## 关联概念
-
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[learner-identity]] — 不断演化的学科、专业、创造与学术意义上的学习者身份
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — 总括：人工智能教育中的教学法与教学策略
-- [[stakeholders]] — 总括：人工智能教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
-- [[reflection]]
-
-## 关联文章
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — 身份修复经由关系性工作完成，其代价落在机构的人员配置与晋升标准上（Cheeseman 等人，2026）
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 所英格兰中学的整群随机试验：每周备课时间从 81.5 分钟降至 56.2 分钟，课质未降（Roy 等人，2024）
-- [[lim-llm-summaries-teachers-rct-2026]] — LLM 作业摘要使更多学生开始并完成作业，而班级分数没有提高（Lim 等人，2026）
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 临时教师以未受训练的技艺察觉不端，却没有课程或政策权威
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — 更有人性的悖论：专家的 2030 年情景发现，人工智能的饱和是强化而非取代人类的教学工作（Malyn-Smith 等，2026）
-- [[teachers-instrumental-orchestration-ai-math-2026]] — 六节被观察的高中数学课以三种新类型扩展了工具性编排（Noh 与 Kim，2026）
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 回应人工智能生成的情绪告警：数学课堂中教师的干预与学生的投入
-- [[edustories-classroom-case-studies-2026]] — 1,492 份教师撰写的课堂案例：最强的模型在预测干预成败上达到 58%，人类专家为 64%（Štefánik 等人，2026）
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教师把课堂聊天机器人设计为有边界的专家并保留权威
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — 生成式人工智能作为"亦敌亦友"：教师偏好半自主，有用性驱动采纳，风险厌恶针对学生的使用（Dai 等，2026）
-- [[ai-supported-lecturer-decision-making-2026]] — 高等教育中人工智能支持的讲师决策
-- [[chirikov-regulate-ai-syllabi-2026]] — 教师如何在 31,000 份课程大纲中监管人工智能；任务层面的监管（Chirikov，2026）
-- [[socorro-philosophical-leadership-ai-2026]] — 哲学式领导作为一种三阶段教学角色：伦理判断、教学引导与政策转译（Socorro Márquez 等人，2026）
-- [[ai-teaching-innovation-ai-tpack-2026]] — 高校教师的人工智能教学创新行为（AI-TPACK 结构方程模型；Bai 与 Hsieh，2026）
-- [[teacher-ai-teaming-five-levels]] — 教师与人工智能协同的五个层级
-- [[teacher-student-agency-orchestration]] — 师生能动性的跨活动共同编排
-- [[ai-changing-teaching-workflows]] — 人工智能如何改变教师的工作流
-- [[teacher-authored-prompts-student-ai-dialogue]] — 教师自撰提示与学生的 AI 对话
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 生成式人工智能是身份危机，而非技能缺口
-- [[lodge-loble-cognitive-offloading-2026]] — 人工智能、认知卸载及其教育意涵（Lodge 与 Loble，2026）
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — 人工智能与教学设计实践：一篇系统综述（Kibar 与 Ilgaz，2026）
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 人工智能能否为多样的学生画像提供恰当支持？一项大规模评估
-- [[bozkurt-ghost-students-agentic-ai-2026]] — 评估中的幽灵学生与能动性人工智能
-- [[wang-teacher-ai-co-design-review-2026]] — 学习任务的教师–人工智能共同设计：趋势与视角（Wang 等，2026）
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教师对 GAI 的经验与认知：脆弱性、重思评估、处于风险中的学生学习（Farazouli 等，2026）
-- [[luo-dawson-value-judgments-grading-2026]] — 为生成式人工智能辅助的作业评分中的价值判断：诚实、信任、效度与双向透明（Luo 与 Dawson，2026）
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 在混合课堂中把机器学习发现变得对教师可及
-- [[li-language-educators-genai-review-2026]] — 语言教师的生成式人工智能实践与发展
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — 人工智能整合教学中的身份张力与有原则的选择性（Adiozaman 与 Segar，2026）
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 人工智能教学中的教师干预：一篇系统综述
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 作为数字中介者的学术发展者：南非历史上处于弱势院校中的角色重构、情感劳动与判断
-- [[where-ai-enters-teacher-work-2026]] — TALIS 2024 的 56,669 名教师：AI 帮助随任务需求上升，但备课上升而评分下降（Holster，2026）
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged：教师作为学习者与人工智能之间的代理人，一项 19 个班级的准实验，其中培训与努力度的间接降低驱动了增益（Rodrigues 等，2026）
-- [[instructional-governance-design-computing-education-2026]] — 依设计而行的教学治理：计算教育中的人工智能框架
-- [[teachers-configure-educational-chatbots-2026]] — 它会如预期那样教吗？教师如何配置教育用人工智能聊天机器人
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 数学中的教师中介：五种批判性中介实践、权威的转移，以及免费档对付费档的算法鸿沟
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 依设计而就绪的教师：就绪是一种设计能力，而非采纳或信心（Charles，2026）
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT 辅助的教师反馈：教师策展人工智能草稿而非原样转发
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — 从胜任力到自主性：教师对人工智能教育之目的的看法
-- [[kuhail-great-debaters-ai-facilitators-2026]] — 人类对人工智能辩论主持人：评分相当，复用路径不同
-- [[yalcin-genai-programming-education-systematic-review-2026]] — 46 项高等教育编程中生成式 AI 研究的 PRISMA 综述：教师角色是研究最少的方面之一（Yalçın 等人，2026）
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — 从信息提供者到学习设计者：人工智能增强教育中的自导式（heutagogical）教学实践
-- [[falhs-teacher-expertise-reflection-2025]] — 专长水平如何塑造偏好与反思需求：迈向赋能教师的 AI 反思系统（Falhs 等 2025）
-- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
-- [[ai-use-teacher-performance-north-sumatra-2026]] — AI 使用对教师绩效没有直接效应；公民行为中介了它（Sherly 等，2027）
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 个备课片段中权威被保留 16 次、共享 12 次、让渡 6 次（Pang 等人，2026）
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 四场焦点小组：学生最认可的是讨论串层面的可见在场，而非逐帖回复（Reding 等人，2026）
-- [[gnadlinger-educator-perspectives-its-design-2026]] — 把教育者视角纳入智能辅导系统的元设计：21 项课堂研究中仅 2 项要求教育者自行编写内容
-- [[chen-future-faculty-development-ai-2027]] — 教师作为专长的协调者：指挥家而非独奏者，且团队每人保留基础技术能力（Chen 等人，2026）
-- [[li-instructor-designed-ai-rct-2026]] — 19 所大学 55 门课程、7,200 名学生的预注册 RCT：教师自建的 AI 支持使无 AI 有监考考试得分高 0.32 SD（Li 等人，2026）

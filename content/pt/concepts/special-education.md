@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -70,33 +72,3 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 - **"[[usability-research|Avaliações de usabilidade]] validam uma ferramenta assistiva."** Praticantes deram a uma ferramenta de História Social que eles mesmos codesenharam uma aprovação de usabilidade (SUS 86,8), ao mesmo tempo que criticaram suas imagens ocidentais de estoque e um rastreador de comportamento que não captava o julgamento clínico ligado a metas. Alta usabilidade coexistiu com falhas substantivas, de modo que uma pontuação SUS não é um endosso de adequação.
 - **"Benchmarks genéricos dizem como um tutor lida com casos de educação especial."** De **923 diálogos fundamentados em casos** extraídos da literatura de educação especial e de psicologia educacional, **o melhor de 11 modelos** satisfez um critério documentado — e **essa é a borda do que um benchmark de tutoria cobre**. Avaliações padrão não alcançam os casos em que os praticantes mais precisam de ajuda.
 - **"Quem aprende neurodivergente precisa de acomodações, e não de requisitos de desenho."** [[neurodivergent-computing-students|Zastudil et al.]] constataram que estudantes de computação neurodivergentes precisam de **tarefas estruturadas, equipes pequenas e consistentes e definições explícitas de papéis** — requisitos gerais de desenho que beneficiam a todos, e não ajustes individuais concedidos após o diagnóstico.
-
-## Conceitos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Artigos conectados
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: avaliando tutores de LLM com estudantes que apresentam comportamentos desafiadores (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — Descarregamento cognitivo com IA generativa para estudantes com deficiências de aprendizagem
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Geração de questões movida por LLM para pessoas surdas e com perda auditiva
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo das tecnologias assistivas digitais para estudantes neurodivergentes no ensino superior
-- [[adapted-stories-social-story-intervention-2026]] — Intervenção de História Social assistida por IA para educação especial: o desenho do AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Um modelo de visão-linguagem planeja Shoebox Tasks para um robô Nao (Kudláčková 2026)

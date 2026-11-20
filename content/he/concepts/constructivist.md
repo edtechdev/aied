@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -119,55 +121,3 @@ AI מעוצב-היטב יכול לאפשר בנייה בקנה-מידה. מער�
 - **"אפשר לזהות הוראה קונסטרוקטיביסטית מתוך השאלות שנשאלות."** מסווג DeBERTa **סיווג שאלות עובדתיות של משדר-ידע בדיוק של 96.67% אך שאלות מנחה ב-78.79% בלבד**, ו**כל מודל בלבל בין שני התפקידים מסדר גבוה יותר**. הבנייה החשובה ביותר היא זו שזיהוי אוטומטי מטפל בה הגרוע ביותר.
 - **"מאפיינים שטחיים של שיעור חושפים את הפדגוגיה שלו."** כשל המסווג אינו פרט יישומי. תפקידי מנחה וקונסטרוקטיביסט הם המקרים הקשים בדיוק מכיוון שהם מוגדרים על ידי מה שהמורה עושה עם החשיבה של הלומד, ויחס זה אינו ניתן לשחזור מטקסט השאלה לבדו.
 - **"קונסטרוקטיביזם אומר שהמורה אינו מסביר."** התיאוריה ממקמת למידה בבנייה של הלומד מתוך חוויה, וזה מתיישב עם הוראה ישירה. התייחסות אליה כאיסור על אמירה קוראת לא נכון הן את התיאוריה והן את הראיות על דוגמאות פתורות.
-
-## מושגים מחוברים
-
-- [[community-of-inquiry]] — Community of Inquiry (מעוגן בפרגמטיזם קונסטרוקטיביסטי/דיויאני)
-- [[cognitive-psychology]] — קוגניטיביזם, הקוטב הקלסי השלישי של תורת למידה
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — חינוך כימיה ו-AI: מעבדות, הערכה פורמטיבית, מגבלות LLM, פילוסופיה של התנסות
-- [[theory-development-aied]] — פיתוח תיאוריה ב-AI בחינוך
-- [[productive-failure]]
-
-## מאמרים מחוברים
-
-- [[lee-learner-question-types-ai-education-2026]] — שאלות לומד מסווגות לשלושה תפקידים קונסטרוקטיביסטיים: משדר, מנחה, לומד-משותף (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — ממקם constructionism (Papert) מול מורים קוגניטיביים בהיסטוריית AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: מסגרת constructionism לבניית חפצים
-- [[ai-writes-code-student-writes-model-2026]] — קיום-מודל: תיאוריה ותכנית מדידה ללמידה-דרך-בנייה עם GenAI
-- [[ai-vocational-education-training-review]] — קונסטרוקטיביזם מוצהר אך AI התנהגותני שולט ב-VET; "מלכודת הטיורינג"
-- [[generative-refusal-ai-tools-for-thought]] — כלי AI שאוחזים יצירה כדי להגן על חשיבה בנאית
-- [[genai-mindtool-generative-learning]] — GenAI ככלי חשיבה התומך בבניית הלומד
-- [[ai-agents-constructive-conflict-design-education-2026]] — סוכני AI יריביים המעוררים התחשבות בונה
-- [[hingle-collaborative-ai-literacy-2025]] — אורייות AI שיתופית ומסגרת המעורבות ICAP
-- [[ai-internal-feedback-evaluative-judgments]] — השוואה נתמכת-AI מייצרת שיפוטים הערכיים
-- [[icap-cognitive-engagement-llm-agents]] — ICAP ומעורבות קוגניטיבית עם סוכני LLM
-- [[conversational-ai-tutors-framework]] — פיגום דיאלוג במורי-AI
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — חקר מגובש עם מנחה AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — הערכה אותנטית ובניית ידע
-- [[teacher-ai-teaming-five-levels]] — רמות שיתוף פעולה מורה-AI בתכנון
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — סוכנות-משותפת אפיסטמית בין לומד למכונה
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: סוכן גנרטיבי המדמה התפתחות קוגניטיבית של תלמידים
-- [[synthetic-position-self-authorship-2026]] — ניגודי-עמדה מדומים של AI חוזרים על תבנית הדיאלוג אך אוחזים את ההתנגדות המכריחה תיקון
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — עונש הלמידה: ציוני שיעורי-בית עולים ב-18%, בחינות בספר-סגור יורדות ב-20%, מרוכזים בקרב ממירי שיעורי-בית למיקור-חוץ

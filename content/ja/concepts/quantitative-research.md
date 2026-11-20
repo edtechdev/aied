@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -95,34 +97,3 @@ ai_assist:
 - **「ITT推定はツールが何をするかを記述する」。** 処置群の教室の**学生の約15%しかチューターを一度も使わなかった**集団ランダム化のアクセス試行では、ITT推定はツールを使うことの効果ではなく、**ツールを導入することの効果**を反映します。利用率が低いと、ITTの数値は実装についての記述になり、それをツールの効果として報告することは測定されたものを過大に伝えます。
 - **「課題上のパフォーマンスが成果である」。** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]は**120名の学生**をAI支援学習か従来の学習かにランダムに割り当て、**保持**を測定します。すなわち、即時のパフォーマンスを持続的な学習から切り分けるデザインです。課題で止まる研究は、より易しい量を測定していることになります。
 - **「データセット間の比較は単純である」。** 合成的な教育データの構造的な検証は、**各データセットをそれぞれ独自のしきい値で分析すると、共通の作業地点で成り立っていた対比が逆転した**ことを見出しました。比較の符号が分析上の選択に依存したのであり、事前登録された作業地点がまさに防ぐために存在する種類の脆さです。
-
-## 関連する概念
-
-- [[longitudinal-research]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## 関連する記事
-
-- [[access-not-enough-ai-tutoring-2026]] — 人間の支援に加えてAIチュータリングを用いたランダム化フィールド研究
-- [[genai-can-harm-teaching-rct-2026]] — 生成AIは教授を害しうる: あるRCT
-- [[acceptance-ai-english-tools-2026]] — AI支援英語学習ツールの受容
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAIの採用経路（PLS-SEM、fsQCA）
-- [[teacher-education-ai-literacy-sdt-2026]] — 自己決定理論による教師のAIリテラシー
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRTで検証されたGenAIリテラシー・テスト
-- [[ai-lms-middle-school-longitudinal]] — AI統合LMSの縦断的研究
-- [[adaptive-pretesting-retention]] — 適応的な事前テストと保持
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度の指標が見落とすもの: 合成的教育データの構造的な検証
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — グループ無作為化されたアクセス試行には受容の確認が必要
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 書誌分析はさらに別の量的な系統です。Sriramら
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 看護学生における生成AI利用と対人的な教育的相互作用:自己調整学習を統計的媒介変数として
-- [[wang-ai-disruption-design-innovation-competence-2026]] — デザイン専攻学生におけるAI技術的破壊の認識、デザイン思考マインドセット、デザイン革新コンピテンス

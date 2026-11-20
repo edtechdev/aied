@@ -23,12 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
 > למידה עצמית מוסדרת (SRL) מתארת לומדים כמשתתפים פעילים שיכולים לעצב ולפתח את הפעולות הקוגניטיביות וההתנהגותיות שלהם באופן מוצלח. כלי בינה מלאכותית יכולים או ליצור [[scaffolding|פיגום]] לפיתוח ה-SRL, או לקצרו ללא כוונה על ידי הסרת הדרישות הרגולטוריות שבונות מומחיות.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]]) ראיות אורכיות מחדדות את ההבחנה: שימוש רפלקטיבי סביב כלי בינה מלאכותית ניבא [[critical-thinking|חשיבה ביקורתית]] (β = 0.43) אך לא רווח ידע, וגישה לכלי כשלעצמה לא שינתה דבר.([[melanou-genai-learning-dynamics-longitudinal-2026]])
-
 
 ## שאלות למחשבה
 
@@ -203,70 +204,3 @@ SRL הוא התהליך שבו לומדים מנהלים באופן פעיל א�
 - **"כל עיצוב אדפטיבי תומך בוויסות באותה מידה."** הניסוי השדה האקראי **בתכנון 2x2 עם 179 סטודנטים על פני 22 יום** של [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] השווה שני עקרונות עיצוב ומצא אותם שונים במנגנון, ולכן "אדפטיבי" אינו טיפול אחד.
 - **"חרדה מערערת ויסות."** במחקר שיטות מעורבות של **107 סטודנטים**, [[anxiety-and-stress|חרדת AI]] גבוהה יותר הייתה **קשורה קשר חיובי לאימות ולבדיקה חוזרת**. החרדה פעלה כזרז לאימות, וזהו ויסות ולא היעדרו.
 - **SRL מטא-קוגניטיבי ניבא עומס רלוונטי-ללמידה במקום שבו [[ai-feedback-quality|משוב ה-AI]] לא ניבא אותו.** במחקר שדה בן חמישה שבועות עם **234 סטודנטים ו-1,147 תצפיות**, ויסות עצמי מטא-קוגניטיבי היה מנבא חיובי מהותי של **עומס קוגניטיבי מהותי** (β = .363, p < .001 לפי כוונה-לטפל; .346, p < .001 לפי שימוש). הוא לא ניבא באופן מובהק עומס זר, בעוד גישה בלבד למשוב שיחתי של בינה מלאכותית לא ניבאה אף אחד מהם. רק מעורבות **מתמשכת** עם המשוב הבדילה בין סטודנטים בעומס המהותי, ושימוש לא סדיר לא עשה זאת (β = −.219, p = .116). זה ממקם את המרכיב הפעיל בוויסות של הלומד את העיבוד ולא באספקת המשוב ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
-
-## מושגים מחוברים
-
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[metacognition]] — הניטור הקוגניטיבי ש-SRL נסמך עליו
-- [[self-assessment]]
-- [[self-efficacy]] — אמונה בפאזה קדם-חשיבתית המניעה מאמץ
-- [[scaffolding]] — תמיכה מדורגת ששומרת על דרישה רגולטורית
-- [[feedback]] — קלט שסביבו לומדים מוויסתים
-- [[feedback-literacy]] — היכולת לפעול על בסיס משוב
-- [[help-seeking]] — התנהגות SRL אסטרטגית
-- [[motivation]] — השותף ההדדי של הוויסות העצמי
-- [[cognitive-offloading]] — הסיכון כאשר בינה מלאכותית מסירה עבודה רגולטורית
-- [[generative-ai]] — הטכנולוגיה שיכולה ליצור פיגום או לקצר SRL
-- [[ai-literacy]] — מיומנות רגולטורית בשימוש בבינה מלאכותית
-- [[self-directed-learning]] — מבנה האוטונומיה הרחב יותר
-- [[agency]] — היכולת של הלומד לפעול בכוונה, מרכזית לוויסות, אינטגרציה ומיצוב
-- [[adaptive-learning]] — התאמה אישית שיכולה לתמוך בוויסות
-- [[formative-assessment]] — משוב מתמשך לוויסות
-- [[learning-by-teaching]] — אסטרטגיה בונה וויסות עצמי
-- [[intelligent-tutoring]] — מערכות שיוצרות פיגום ל-SRL
-- [[llm]] — המודל הבסיסי של כלי בינה מלאכותית
-- [[retrieval-spacing-interleaving]] — תזמון, בדיקה עצמית ובחירות אסטרטגיית לימוד שלומדים מבצעים
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## מאמרים מחוברים
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — מטא-אנליזה של למידה עצמית מוסדרת בסיוע AI: g = 0.76 על פני 34 מחקרים, כשסוג הכלי והתפקיד הפדגוגי מיתנו את האפקט (Zhang et al. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — תלות ב-GenAI ותוצאות למידה נתפסות: מסלול ויסות המאמץ (Li, Zhang & Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — דיוק לפי קטגוריה של SRL שמפולח בידי מודל שפה בכיתה התגלמותית (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — מה שההגשה אינה מראה: הפיכת פריקת עומס קוגניטיבית למורכבת בעבודת מתמטיקה של סטודנטים עם מודלי שפה (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — ייחוס יתר של המודל לוויסות עצמי מרמזים שטחיים במיפוי תוכניות לימודים (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — זמינות AIGC וויסות עצמי של סטודנטים
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — אוריינות אינטראקציה עם AI: הובלת צ'אטבוט דרשה את ה-SRL שאמור היה לתמוך בו (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — מודל ההשתקפות 5P לעידן ה-GenAI (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — פריקת עומס קוגניטיבית רגישה-לשכבות בכתיבה בסיוע GenAI (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — סוכנות הלומד על פני קני מידה: וויסות, אינטגרציה, מיצוב
-- [[rented-self-decoupling-performance-becoming-2026]] — העצמי המושכר: השכרה ממופה על מודלי ה-SRL של Winne, עם עשר טענות ומדדים בתוך-לומד
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI כשותף למידה מודע-הקשר לאורך זמן
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — כיצד סטודנטים מוויסתים למידה עם צ'אטבוט genAI
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — פיגום או קיצור דרך? התפקיד הכפול של GenAI ב-SRL
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — חיפוש עזרה בתיווך LLM ב-STEM: שכבתי, אינסטרומנטלי ומאומת
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — משוב GenAI ו-SRL: המקור הנתפס משנה
-- [[ai-anxiety-strategic-regulation-writing-2026]] — מחרדת AI לוויסות אסטרטגי
-- [[young-people-learning-generative-ai-rapid-review-2026]] — ראיות מעורבות על מטאקוגניציה וויסות עצמי עם GenAI
-- [[agentic-ai-pedagogical-best-practice-2026]] — AI סוכני ומתח הוויסות העצמי
-- [[decreasing-digital-distraction-college-online-learning-2026]] — SRL והפרעה דיגיטלית נמוכה יותר בלמידה מקוונת (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — הנגשת ממצאי למידת מכונה למורים בכיתות משולבות
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: לולאה מול הלומד של זיהוי משימה, נימוק והשתקפות לאחר המשימה
-- [[learning-analytics-genai-secondary-writing-2026]] — שימוש בניתוחי למידה לתמיכה בכתיבתם של תלמידי תיכון עם בינה מלאכותית יוצרת
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — כלי מאומת לוויסות עצמי בסיוע AI בלמידת STEM אדפטיבית, עם מודעות מטאקוגניטיבית כחוזה החזק ביותר
-- [[iqbal-human-genai-support-essay-revision-2026]] — תנאי התמיכה, לא שיפוט מטאקוגניטיבי, הכריע את בחירת אסטרטגיית התיקון בניסוי תיקון חיבורים
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — אורכי: שימוש רפלקטיבי ב-AI ניבא חשיבה ביקורתית אך לא רווח ידע, בלי אפקט מתי
-
-- [[genai-literacy-srl-special-education-2026]] — אוריינות GenAI קשורה להתנהגויות למידה עצמית מוסדרת בעיקר דרך סוכנות הלמידה
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — סוג התמיכה הופך את המתווך: מסוגלות עצמית ב-AI מול למידה עצמית מוסדרת
-- [[genai-learning-procrastination-planned-behavior-2026]] — דחיינות בלמידה בסיוע GenAI: פער כוונה-התנהגות שהחרדה מחזקת
-- [[genai-srl-l2-writing-scale-2026]] — סקאלה מאומתת בת שישה ממדים ל-GenAI-SRL בכתיבת L2, עם וויסות סביבתי כממד בפני עצמו וטופס מקוצר בן 12 פריטים שאופטם בנמלה מלכותית
-- [[borchers-srl-language-generalization-2025]] — מודלי שפה גדולים מכלילים חיזוי SRL לשפות חדשות בתוך תחומים אך לא ביניהם (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — מודל-למידה-היברידי מבוסס-פרויקטים המשתמש בבינה מלאכותית לשיפור הלמידה העצמית-המוסדרת של סטודנטים
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — עוזר הוראה מבוסס בינה מלאכותית כראשון להגיב דחק תגובות עמיתי
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — מגוון תפיסות קודמות שינה כיצד נחתה הנחיה מטאקוגניטיבית: אותם תפקודי הנחיה, הערכה ממושכת הפוכה של פלט ה-AI (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — דחיינות עלתה עם השימוש (β = 0.525) לצד רווח נתפס, מה שמפריד דחייה שמאפשרת AI מדחייה שעוסקת ב-AI (Gouroubera et al. 2026)ם, ואיתן את הוויסות המשותף שהגביר את ערך הציון של הוויסות העצמי (Davis et al. 2026)

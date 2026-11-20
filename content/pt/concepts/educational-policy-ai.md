@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -123,9 +125,7 @@ Política e governança são estreitamente relacionadas, mas distintas, e mantê
 - **A governança é a *maquinaria* — como ela é decidida, implementada e aplicada.** A governança abrange as estruturas institucionais, as normas e os mecanismos de responsabilização que produzem, executam e monitoram a política: quem define as regras, como elas são comunicadas e financiadas, como a conformidade é exigida e contestada, e como elas são revisadas à medida que a IA evolui. Ela responde a *"quem decide, e como as regras de fato entram em vigor?"*
 - **Elas são interdependentes.** Política sem governança não é aplicada — uma regra escrita que ninguém possui, monitora ou atualiza. Governança sem política carece de direção — estruturas que não administram nada em particular. A pesquisa da base de conhecimento mostra repetidamente que as duas têm de ser construídas juntas: uma política que apenas *classifica* o uso de IA, sem governança para especificar evidência, salvaguardas e processos de revisão, permanece fraca na prática ([[credential-cognitive-stewardship-ai-assessment|a auditoria de gestão cognitiva]]), e uma governança que apenas monitora, sem política clara, arrisca vigilância sem [[bias-mitigation|equidade]] (ver [[governance|governança de IA]]).
 
-
 **A contratação define o ambiente de dados antes de qualquer pedagogia ser decidida.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey e Davies (2026)]] tratam a dependência de plataforma como um risco de governança, e não como uma linha de custo, já que o contrato decide [[privacy|soberania de dados]], direitos de auditoria e termos de saída. Eles argumentam isso como proposição conceitual de uma revisão interpretativa, e não a partir de evidência institucional.
-
 
 A liderança sênior em IA é rara em relação à ambição estratégica. Uma revisão de escopo de 19 fontes constatou que apenas 7% das instituições haviam criado cargos de liderança sênior em IA, embora 49% tratassem a IA como prioridade estratégica, com a maioria dos estudos incluídos conceituais ou transversais, de modo que nenhum efeito causal da governança antecipatória pôde ser estabelecido ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
@@ -138,7 +138,6 @@ O teste prático que as separa: uma política pode ser lida no papel, mas a gove
 **Indicadores de governança para o problema da autenticação.** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher e Calderon (2025)]] fornecem a camada de mensuração que essa distinção política-versus-governança implica, tratando a [[academic-integrity|integridade acadêmica]] na era GenAI como um problema de governança antes de um problema de detecção e julgando a governança acadêmica contemporânea resiliente, mas "não bem posicionada nem preparada" para proteger a autenticação da [[assessment|avaliação]] dos estudantes. Seu framework reúne 130 questões de governança sob oito dimensões — Desenhar, Desenvolver, Treinar, Implementar, Analisar, Reportar, Avaliar e Melhorar —, e os itens são questões sobre maquinaria institucional, e não escalas psicométricas: se o conselho ou a cúpula da instituição recebe atualizações sobre processos e resultados de avaliação, se indicadores-chave de desempenho cobrem a qualidade da avaliação, que porcentagem de estudantes é conhecida individualmente pelos professores que os avaliam, se notas extremamente baixas ou altas são conferidas por outra pessoa, e se existe uma rota simples para encaminhar casos de fraude contratada. O programa de reforma que o acompanha tem como alvo as arquiteturas de governança, as pessoas que ocupam cargos de governança, e as tecnologias e os recursos que apoiam a avaliação, e os autores argumentam que pouco desenvolvimento institucional rende sem afordamento externo da regulamentação, do [[benchmark|benchmarking]] e da competição entre instituições — a mesma pressão regulatória que a página de [[regulation|regulamentação]] trata como a restrição vinculante sobre a reforma da governança.
 A lacuna também é medida no K-12, e não apenas nas universidades. Uma pesquisa nacionalmente representativa com 1.018 professores e diretores de escolas públicas dos EUA constatou que apenas 18% dos professores e 24% dos diretores relatavam uma política escolar de IA generativa — o mesmo padrão abaixo da instituição que esta página documenta no ensino superior ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026)]]).
 
-
 A coordenação é a capacidade de governança que mais frequentemente falta. A comparação de 2026 do iRAISE entre França, Canadá, Egito e Catar constatou que nenhum ministério isolado consegue governar a IA generativa através de educação, saúde, proteção infantil, justiça e cultura. Os sistemas que se mantiveram coesos designaram uma autoridade coordenadora — tipicamente o ministério da educação, ou o nível regional em sistemas federais — com mecanismos permanentes para que currículo, infraestrutura, segurança e política de proteção de dados fossem desenhados juntos ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). A comparação também qualifica a leitura de desenho-primeiro: os quatro modelos diferiam acentuadamente em estrutura, e em todos os quatro a confiança dos professores, a mediação parental e a confiança da comunidade importaram tanto quanto a arquitetura de política.
 
 ### O déficit de política na pesquisa em IA × SEL
@@ -148,7 +147,6 @@ Uma [[meta-analysis-systematic-review|revisão sistemática]] de 65 artigos na i
 O mesmo déficit tem um lado de demanda. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] acrescentam evidência de demanda de uma faculdade sueca de ciências sociais: 31% dos participantes de pesquisa e grupos focais levantaram a ética de forma espontânea, a maioria queria mais orientação institucional, e as consequências ambientais da genAI estavam ausentes dos documentos de política por completo.
 
 Os financiadores formam uma camada de política própria: de 46 órgãos com orientação sobre IA, 12 vinculavam regras especificamente ao financiamento, e nenhum desses instrumentos de financiamento carregava as disposições de governança que suas políticas gerais declaravam ([[chan-ai-policy-gap-2026|Chan, 2026]]).
-
 
 ## Implicações para a prática
 
@@ -167,64 +165,3 @@ Os formuladores de políticas podem parear a implantação com uma avaliação d
 - **"As universidades têm política de IA de verdade."** **A forma legal é mais rara que a linguagem legal.** Numa **revisão de escopo de 160 documentos**, **2,5% dos instrumentos tinham força legal, enquanto 57,5% eram orientação ou kits de ferramentas**. Quase um quarto de uma centena de documentos de governança de IA é orientação não vinculante.
 - **"A cautela institucional reflete evidência."** A cautela é atribuída **à pressão do tempo, e não à evidência**: a pesquisa da ABA de 2024 obteve respostas de apenas cerca de **15% das escolas acreditadas**, de modo que o consenso cauteloso repousa sobre uma amostra não representativa.
 - **"A cobertura de política pode ser mapeada a partir de uma pesquisa representativa."** Política e orientação de IA foram coletadas de **todos os 48 programas acreditados pela CAHIIM** em um domínio — um censo completo de um nicho, mais informativo sobre esse nicho do que sobre política em geral.
-
-## Conceitos conectados
-- [[pedagogical-partnerships]] — Parcerias pedagógicas
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — Educação em química e IA: laboratórios, avaliação formativa, limites dos LLMs, filosofia da experimentação
-- [[biology-education]] — Educação em biologia e IA: assistentes de laboratório, letramento em IA em biologia, pensamento crítico, ferramentas especializadas
-- [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (estudantes, professores, desenhistas, administradores, formuladores de políticas)
-- [[student-support-and-success]] — o contexto de política para a implantação de apoio institucional
-
-## Artigos conectados
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Textos da UNESCO e da OCDE compartilham um vocabulário de governança e nenhuma definição operacional; vinte e três jurisdições convergem sem uma
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de pesquisa e grupos focais argumentando que a ética de parceria, e não o enquadramento de trapaça, deveria orientar as decisões institucionais sobre genAI
-- [[generative-ai-governance-education-scoping-review-2026]] — Governança de IA generativa na educação: uma revisão de escopo de princípios, mecanismos e riscos (Elmahjub et al. 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Regras de unidade que os estudantes não conseguem reconciliar
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Uma pesquisa nacionalmente representativa com professores e diretores dos EUA sobre cobertura de política de IA, agência e cinco "jogadas" de sala de aula (Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — Quando as universidades defendem a GAI, mas a prática fica aquém: avaliações dos estudantes e engajamento no processo criativo na educação em arte
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de IA em sala de aula de professores de inglês em formação inicial: o que permitiram, limitaram e proibiram (Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Um framework com humano no circuito para correção assistida por IA em avaliação de escrita em larga escala
-- [[mccorkle-aligned-genai-course-policy-2025]] — Derivar usos permitidos e não permitidos de GenAI tarefa por tarefa a partir do que é avaliado (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — Como os instrutores regulam a IA ao longo de 31.000 planos de curso (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — Deslocamento de tarefas para a IA como mecanismo de inflação de notas (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Delphi global sobre governar a IA generativa no ensino superior
-- [[qian-governing-genai-higher-ed-policy-2026]] — Orientação em vez de política: regras de plano de curso definidas pelo instrutor e um ecossistema de apoio de quatro unidades em 50 universidades inovadoras dos EUA (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparação de cinco fatores das políticas de GenAI nas escolas de direito num setor que faz política sem base de evidências (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Transcrição não é geração: regras de IA sobreinclusivas, conversão de formato e acomodação de deficiência (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Governança antecipatória para a IA no ensino superior (revisão de escopo)
-- [[institutional-ai-policy-health-informatics-2026]] — Documentos de política de IA em todos os 48 programas acreditados de mestrado em informática em saúde: em sua maioria orientação, centrados em integridade acadêmica (Eldredge et al. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — Gestão cognitiva para a avaliação mediada por IA (auditoria de política de 30 universidades)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — O déficit de política na pesquisa em IA × SEL
-- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticos para a IA na educação
-- [[perrotta-zero-shot-governance-2026]] — Governança zero-shot: IA de uso geral na política (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Limitando a afirmação de aprendizagem do piloto de tutoria por IA de El Salvador (Restrepo Morales et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes dos EUA: 87% escrevem suas próprias regras de tarefa contra diretrizes institucionais e departamentais magras (Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — Uma fronteira apoio–substituição baseada em propósito, com divulgação calibrada e rubricas de decisão (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeção de prompt na correção mediada por IA: notas alteradas sem detecção, e a resposta no nível da política (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 130 indicadores de governança para autenticar a avaliação, e a pressão externa de que a reforma precisa (Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — Faixa de política versus desenho de tarefa: para que os estudantes usaram a GenAI ao longo de três avaliações de física (Quince & Faulconer 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — O EdTech Impact Testbed da Inglaterra como governança antecipatória: pilotos que produzem evidência promissória (Williamson et al. 2026)
-- [[genai-pisa-decline-countries-2026]] — O maior uso de IA generativa em nível de país acompanhou declínios maiores no PISA 2022-2025, uma correlação que desapareceu após controlar o desempenho prévio (Guerra & Aslanov 2026)
-
-- [[pandey-davies-he-governance-administrative-ai-2026]] — A contratação define o ambiente de dados antes da pedagogia
-- [[chan-ai-policy-gap-2026]] — 56 documentos de 46 financiadores: uma camada de política de financiadores de pesquisa com 12 instrumentos específicos de financiamento (Chan 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — A revisão de quatro países do iRAISE: 84 de 194 estados colocam a MIL para além das habilidades técnicas nos currículos, e fatores humanos decidiram os resultados em todos os quatro sistemas (Cerioli, 2026)
-- [[jiang-faculty-development-japan-2027]] — O mandato estatutário de desenvolvimento docente do Japão: a cobertura subiu enquanto workshops, observação entre pares e revisão por pares ficaram estáveis ou caíram (Jiang, Wang & Taguchi 2026)
-- [[making-ai-work-for-students-ofs-2026]] — OfS e Advance HE (2026): 244 funcionários e 91 estudantes em 127 instituições sobre detecção, desenho de avaliação, letramento em IA e estratégia

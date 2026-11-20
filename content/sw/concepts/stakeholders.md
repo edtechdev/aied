@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -76,42 +78,3 @@ Utambulisho ni nanga ya kibinadamu ya mazingira ya wahusika: ni kile ambacho AI 
 **"Uchanganuzi wa wahusika ni zoezi la awamu ya awali."** Mivutano huendelea hadi utekelezaji, kwa sababu majukumu yanaendelea kufasiri mfumo ule ule tofauti. Tabaka la [[personalized-learning|ubinafsishaji]] linalowakabili wanafunzi na dashibodi ya uadilifu inayowakabili wataalam ni data ile ile inayotazamwa kutoka nafasi mbili, na mgogoro hujirudia kila moja inaporekebishwa.
 
 **"Utambulisho kote ya hadhira unamaanisha ujumbe mmoja unaweza kuwahudumia wote."** Mawasiliano kote ya hadhira yanahitaji kutafsiri uamuzi ule ule katika maneno tofauti bila kuupotosha, ambayo ni zaidi ya kuandika upya ujumbe mmoja kwa njia nne.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: dhana kuu kwa dhana za upande wa mwanafunzi
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — nani anadai juu ya maamuzi ya msaada wa AI ya taasisi
-
-## Makala Zilizounganishwa
-
-- [[genai-student-experiences-uk-he-survey-2026]] — Uzoefu wa wanafunzi wa GenAI katika elimu ya juu ya Uingereza
-- [[ai-uk-higher-education-policy-2026]] — AI katika sera ya elimu ya juu ya Uingereza (wanafunzi na taasisi)
-- [[ai-campus-wellbeing-tools]] — Zana za ustawi wa kampasi zinazoendeshwa na AI
-- [[ai-tpack-mathematics-teacher-education-2026]] — Utayari wa AI-TPACK katika mafunzo ya walimu wa hisabati
-- [[genai-policies-higher-ed-computing]] — Sera ya taasisi ya GenAI katika kompyuta
-- [[ethical-ai-higher-ed-game-theory]] — Mfumo wa mchezo wa uratibu kwa matumizi ya maadili ya AI katika elimu ya juu
-- [[student-rationalization-ai-writing]] — Ukorogesho wa wanafunzi wa matumizi ya AI katika uandishi wa kitaaluma
-- [[ai-changing-teaching-workflows]] — Jinsi AI inavyobadilisha mtiririko wa kazi za kufundisha
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Mitazamo ya wahusika ya GenAI katika elimu ya juu (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

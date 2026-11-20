@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -71,45 +73,3 @@ L'apprentissage des adultes se situe à l'intersection de plusieurs concepts ét
 - **« Un bon outil suffit aux apprenants adultes. »** La recherche a constaté qu'**aucun système d'IA unique pour l'apprentissage adulte ne satisfaisait toutes les lignes directrices de conception** — l'écosystème complet était nécessaire. Les adultes arrivent avec des obligations, des emplois du temps intermittents et des objectifs hétérogènes, si bien qu'un produit unique ne peut couvrir l'espace de conception.
 - **« La littératie numérique peut être tenue pour acquise à l'âge adulte. »** [[community-centered-ai-education-adults|Une étude de cas du Midwest]] a co-conçu un programme de littératie en IA pour **54 adultes d'une communauté mal desservie** et a constaté qu'une éducation à l'IA pour adultes orientée vers l'équité **doit d'abord traiter la littératie numérique fondamentale et la confiance dans les données**. L'âge n'est pas un proxy de la fluidité numérique.
 - **« L'adoption est un problème de motivation. »** Bâtir l'[[ai-literacy|littératie en IA]] et la [[trust|confiance]] autour de la confidentialité des données doit précéder toute attente d'adoption. La volonté découle de la confiance dans ce qu'il advient de ses données, non de l'enthousiasme pour la technologie.
-
-## Concepts liés
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Articles liés
-
-- [[ai-adult-learning-guidelines-dis2026]] — Lignes directrices pour concevoir des technologies d'IA au service de l'apprentissage des adultes
-- [[andragogy-cognitive-delegation-genai-2026]] — Que reste-t-il d'autodirigé ? Revisiter l'andragogie à travers la délégation cognitive dans l'apprentissage des adultes médié par l'IA générative
-- [[ai-lifelong-learning-policy]] — L'intelligence artificielle dans l'apprentissage tout au long de la vie : opportunités et défis de la politique d'éducation des adultes
-- [[sovereign-hive-titl-further-education-2026]] — Le « Sovereign Hive » et le cadre Tutor-in-the-Loop (TITL) pour l'équité dans l'enseignement supérieur de formation continue
-- [[community-centered-ai-education-adults]] — Co-concevoir une éducation à l'IA centrée sur la communauté pour les adultes : une étude de cas du Midwest
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — De nouveaux systèmes d'apprentissage pour les établissements d'enseignement à distance ? Une revue de six études sur la mise en œuvre d'AIDA
-- [[institutional-governance-ai-universities]] — Fragmentation des politiques ou alignement institutionnel ? La gouvernance institutionnelle de l'IA dans les universités et les écoles de commerce
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Expériences d'apprentissage enrichies par l'IA générative pour la pensée computationnelle : une revue de cadrage systématique et des lignes directrices de conception
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Cartographier le programme émergent du génie logiciel assisté par l'IA par l'analyse des programmes de cours
-- [[learner-ai-interaction-patterns-oop]] — Patrons d'interaction entre apprenants et IA et performance académique dans un cours de programmation orientée objet
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
-- [[kim-ai-andragogy-2026]] — Les applications de l'IA au service de l'andragogie (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Concevoir pour un éventail d'engagements : faire du dialogue socratique approfondi la voie la plus gratifiante

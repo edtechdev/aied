@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -106,35 +108,3 @@ Bagi pendidik dan institusi yang ingin mengadopsi kemitraan pedagogis, penelitia
 - **"Kemitraan berarti mengangkat suara siswa."** Kemitraan pedagogis adalah **relasi yang terbatas dan dinegosiasikan** dengan peran yang jelas dan kewajiban timbal balik, bukan konsultasi. Suara tanpa peran, mandat, dan bagian dalam keputusan tidak mengubah apa pun secara struktural.
 - **"Kemitraan adalah sikap yang bisa diadopsi."** Ia memerlukan kondisi institusional — waktu, pengakuan bagi mitra siswa, dan perubahan yang benar-benar dapat dipengaruhi para mitra. Kemitraan yang dideklarasikan tanpa kondisi tersebut mereproduksi hierarki yang diklaimnya hendak diinterupsi.
 - **"Berbagi kekuasaan tidak bisa menjadi pengembangan fakultas."** Klaim literatur adalah bahwa kemitraan merupakan pengembangan *karena* ia mengubah pemahaman pendidik melalui relasi itu. Membingkainya sebagai manfaat siswa saja membuang mekanismenya.
-
-## Konsep terkait
-- [[pedagogy]] — Pedagogi dan strategi pengajaran
-- [[collaborative-learning]]
-- [[agency]] — Agensi siswa
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Artikel terkait
-- [[guided-inquiry-genai-course-policy-2026]] — Pendekatan Inkuiri Terbimbing bagi Siswa yang Merancang Bersama Kebijakan Kursus AI Generatif
-- [[lo-co-creating-custom-gpts-sap-2026]] — Menciptakan bersama GPT khusus: studi autoetnografis mahasiswa sarjana sebagai mitra dalam inovasi AI generatif
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Desain penilaian melalui penciptaan bersama: kemitraan siswa-staf dalam mengevaluasi AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Lima prinsip pemandu untuk menavigasi AI dalam praktik siswa sebagai mitra guna memelihara kepercayaan pedagogis
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Merancang bersama AI dengan mitra muda: kerangka etika privasi relasional
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Menerangi realitas siswa yang kompleks dengan AI melalui kerangka pedagogi terjerat
-- [[anastasia-shared-agency-partnership-framework-2026]] — Agensi Bersama: Kerangka Kemitraan Agensi untuk Kolaborasi Instruktur–Siswa
-- [[maybee-disruptive-partnerships-sap-2025]] — Kemitraan yang Mengganggu: Berkolaborasi dengan Siswa dalam Studi Informasi
-- [[student-centered-genai-responsible-framework-2026]] — Kerangka berpusat pada siswa untuk penggunaan AI generatif yang bertanggung jawab
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Siswa membangun tutor AI untuk teman sebaya pada skala 710 siswa: keterlibatan tinggi, bukti belajar eksploratif (Zangari et al. 2026)

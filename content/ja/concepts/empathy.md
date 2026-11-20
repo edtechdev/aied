@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -93,34 +95,3 @@ AIは3つの異なる地点で入ってきます。そしてそれらを混同�
 - **「笑顔は温かさを意味する。」** 苦痛を伴う臨床の場面では、観察者は微笑みを不整合として読み、表情筋の検出器はそれをポジティブな感情として読みます。文脈が欠けている変数です。
 - **「自己報告尺度は共感を測る。」** それらが測るのは性向あるいは自己概念であり、出会いの中での行動ではありません。
 - **「より没入的なほど常に良い。」** 没入的な方法はより大きな伸びを示しますが、費用と時間は数倍で、比較は曝露を均等にしていません。
-
-## 関連する概念
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## 関連する記事
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — IRIでロールプレイ13.2%、VR11.6%、AI対話8.8%、曝露時間は交絡(Zwolińskiら, 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — 身体的接触の検出は観察者と一致し、笑顔の検出は負に走った(Nissanら, 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13回のやり取りで自己評価コンピテンスがd = 0.58上昇、対照群なし(Müllerら, 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17件の研究。自信の伸びは一般的で、共感の根拠は限定的(Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDAと生成画像を覚醒のパイプラインとして用い、共感は測定ではなく主張された(Limら, 2024)
-- [[shastry-gray-empathy-offloading-2026]] — AIの共感能力への信念が、支援を提供する意欲の低さを予測した(Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42項目の性向尺度で、因子構造が設計と一致しなかった(Kangら, 2026)
-- [[empathy-coaching-chatbot]] — 共感的な言葉が「理解されている感覚」を高め、それが行動変容ではなくエンゲージメントを予測した(Siyanら, 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — プロンプトで指定した役割と運びが、知覚された共感に大きな差を生んだ(Wangら, 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 看護学生は臨床のストレス下でAIを感情的支援として記述した(Akbabaら, 2026)

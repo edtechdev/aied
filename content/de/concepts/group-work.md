@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -118,42 +120,3 @@ Ein zweiter Forschungsstrang betrachtet KI als Beteiligten statt als Werkzeug, u
 **„KI hilft am meisten, wenn sie die Gruppe koordiniert.“** Koordinationsunterstützung und epistemische Unterstützung ziehen in entgegengesetzte Richtungen. Die Koordinationskosten der Zusammenarbeit zu senken kann den Druck der Gruppe senken, Bedeutung auszuhandeln, und genau dieser Prozess wird bewertet. Der Effizienz-Regulations-Trade-off ist die zentrale Designspannung, kein Implementierungsdetail.
 
 **„Gruppenarbeit ist wegen der Menschen schwierig.“** Ein Teil davon ist Aufgabendesign, weshalb KI das Schwierigkeitsprofil verändert statt es einfach zu erleichtern: Ein Werkzeug, das Fragen schnell beantwortet, verändert, womit die Gruppe ihre Zeit verbringt, und ob das eine Verbesserung ist, hängt davon ab, welche Fähigkeiten die Aufgabe entwickeln sollte.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Rollenskripte für Gruppen, die sich eine KI teilen
-- [[ai-education]] — AI in education (umbrella)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## Verbundene Artikel
-
-- [[nixon-social-cost-ai-teammate-2026]] — Der KI-Teampartner beansprucht den größten Redeanteil, und die wechselseitige Reaktionsfähigkeit sowie das Zugehörigkeitsgefühl zwischen Menschen nehmen ab (Nixon et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Drei Muster studentischer Agency in GenAI-vermittelter Gruppenbewertung
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergente Agency von Lernenden, wenn KI einer Gruppe beitritt: unterstützende vs. konträre Personas
-- [[genai-counter-learner-groupthink-2025]] — Ein KI-Agent, der Kontroversen einbringt, um Groupthink in PBL-Teams entgegenzuwirken
-- [[xu-genai-collaborative-space-2026]] — Gemeinsamer versus privater GenAI-Zugang innerhalb eines Teams
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Kollaborationsmodi und der Zielkonflikt zwischen Aufgabenleistung und Selbstregulation
-- [[golrang-propact-pair-programming-2026]] — ProPACT: die Dyade als Analyseeinheit beim Pair-Programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — KI-Mediation beim Sichtbarmachen von Annahmen in interdisziplinären Studierendenteams
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs als Kritikpartner: Aktiver Widerspruch bewahrt kognitiven Konflikt
-- [[polished-artifacts-fragile-engagement-2026]] — Polierte Artefakte, fragile epistemische Auseinandersetzung
-- [[breideband-community-builder-cobi-2026]] — Diskursanalysen auf Klassenebene für die Zusammenarbeit in Gruppen
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — KI als pädagogischer Mediator der Zusammenarbeit
-- [[neurodivergent-computing-students]] — Anforderungen neurodivergenter Studierender an kollaboratives Lernen
-- [[academic-league-of-ai-2026]] — Demokratische studentische Selbstverwaltung und Projektteams für die AI-Bildung
-- [[teacher-student-agency-orchestration]] — Co-Orchestrierung der Agency von Lehrkräften und Lernenden in Echtzeit
-- [[dollinger-equitable-assessment-ai-2026]] — Gerechte Leistungsbeurteilung im AI-Zeitalter
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Förderung gruppenbasierter Ethikbildung durch Rollenspiel und Diskussion für ethische Reflexion und Erkundung

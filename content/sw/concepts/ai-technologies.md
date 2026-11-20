@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -59,7 +61,6 @@ Safu ya kiufundi haiwezi kutenganishwa na mada zingine za hifadhi ya maarifa:
 
 **Utafiti umejikita katika sehemu nyembamba ya ikolojia ya zana.** Kwa kuweka ramani zana 85 za AI dhidi ya fasihi ya STEM na uhandisi, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] waligundua 36 tu zinazoonekana katika utafiti, na [[conversational-ai|AI ya mazungumzo]]/LLM zikichukua 73.7% ya miunganisho 927 ya karatasi–zana, huku machapisho 23 yakiwa katika muktadha ulioimarika wa maabara.
 
-
 ## Maana kwa AI katika elimu
 
 - **Ujuzi wa kiufundi unaunga mkono matumizi mahususi:** kuelewa mifano na mbinu za msingi husaidia waelimishaji na wanaojifunza kutumia AI vizuri na kuithamini kwa njia mahususi (ona [[ai-literacy]]).
@@ -76,39 +77,3 @@ Safu ya kiufundi haiwezi kutenganishwa na mada zingine za hifadhi ya maarifa:
 **"Chaguzi za kiufundi ni jambo la mtaalamu wa teknolojia, si la mwalimu."** Fremu ya ukurasa ni kwamba unaweza kuwa mwalimu bora bila uwezo wa kujenga LLM na chaguzi zako za kiufundi bado zinaunda kile AI inaweza na haiwezi kufanya darasani mwako. Kama mfumo unazuia majibu yake katika nyenzo za kozi ni uamuzi wenye matokeo ya kielimu ambao mtu anapaswa kuufanya.
 
 **"Mfano wenye uwezo zaidi utatatua mapengo ya uwanja."** Usimamizi, kumbukumbu na upangaji wa muda mrefu ni matatizo ya usanifu badala ya uwezo: ukosefu ulioandikwa ni wa mifumo inayosimamia matumizi yao ya zana kwa muda, ambao mfano bora hautoi peke yake.
-
-## Dhana Zilizounganishwa
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Makala Zilizounganishwa
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Uonekano wa utafiti wa zana 85 za AI katika elimu ya STEM na uhandisi (Terkowsky et al. 2026)
-- [[agentic-ai-education-scoping-review]] — Mapitio ya upeo wa AI ya wakala katika elimu
-- [[genai-meta-analysis-programming-learning]] — Uchanganuzi wa meta ya athari ya GenAI kwenye tija na kujifunza katika upangaji programu
-- [[cstutorbench-slm-tutors]] — Viwango vya mafunzo ya mfano mdogo wa lugha
-- [[educational-llm-alignment]] — Kupatanisha LLM kwa elimu
-- [[eduguard-safe-rag-llm-tutor]] — Kuweka vizuizi kwa walimu wa zana wa LLM wa msingi wa RAG
-- [[hazra-safetutors-pedagogical-safety-2026]] — Usalama na madhara ya mwalimu wa zana wa AI
-- [[elbench-education-llm-benchmark-2026]] — Kiwango cha LLM ya elimu
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Roboti ya kijamii ya kizalishaji ya Teachy Mini
-- [[benzion-ai-physics-simulations-virtual-lab]] — Simulizi za fizikia zilizozalishwa na LLM kwa darasa

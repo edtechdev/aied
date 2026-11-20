@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -133,68 +135,3 @@ ai_assist:
 - **"শিক্ষার্থীরা এআই মুক্তভাবে ব্যবহার করলেই এজেন্সি চর্চা করে।"** **6,788টি ChatGPT-সহায়ক পালার কোডিং করা একটি 14-শ্রেণির স্কিম** সপ্তম শ্রেণির শিক্ষার্থীদের **59% পালাকে** এমন শ্রেণিতে ফেলেছে যা এজেন্সিপূর্ণ ব্যবহার প্রতিনিধিত্ব করে না। ব্যবহারের আয়তন ও এজেন্সি আলাদা মাপ।
 - **"বর্তমান মডেলগুলো শিক্ষার্থীর এজেন্সি ভালোভাবে সমর্থন করে।"** **দশটি মডেল জুড়ে বেঞ্চমার্ক করা: শিখনের পরে এজেন্সি সমর্থনই তাদের সবচেয়ে দুর্বল কাজ**: ImpactBench ইতিবাচক মানদণ্ডে **এজেন্সি ও উদ্দেশ্য মেপেছে 56.0%**। এজেন্সি হলো সেই মাত্রা যা এআই ব্যবস্থা সবচেয়ে কম ভালোভাবে সামলায়, সক্ষমতার উপজাত নয়।
 - **"শিক্ষকের মধ্যস্থতা এজেন্সির ওপর একটি সীমাবদ্ধতা।"** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] **আট সপ্তাহের একটি ChatGPT-4** হস্তক্ষেপ জুড়ে **দশ জন মাধ্যমিক গণিত শিক্ষককে** অনুসরণ করেন এবং মধ্যস্থতাই প্রক্রিয়া, বাধা নয়।
-
-## সংযুক্ত ধারণা
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-সংক্রান্ত ধারণাগুলোর ছাতা
-- [[pedagogical-partnerships]] — শিক্ষণ-সহযোগিতা
-- [[learner-identity]] — বিকশিত শাস্ত্রীয়, পেশাগত, সৃজনশীল ও একাডেমিক শিক্ষার্থী-পরিচয়
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — এআই-মধ্যস্থ মিথস্ক্রিয়ার যৌথ দিকনির্দেশনা
-- [[agentic-ai]] — স্বায়ত্তশাসিত এআই, যা দলে এজেন্সির পুনর্বণ্টন করতে পারে
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, এলএলএম-এর সীমা, পরীক্ষণের দর্শন
-- [[social-emotional-learning]] — সামাজিক-আবেগিক শিখন
-- [[cognitive-surrender]]
-
-## সংযুক্ত নিবন্ধ
-- [[tench-ai-policy-isnt-a-playbook-2026]] — এআই-নীতির আওতা, এজেন্সি ও পাঁচটি শ্রেণিকক্ষ-কৌশল নিয়ে মার্কিন শিক্ষক ও প্রধানশিক্ষকদের জাতীয়ভাবে প্রতিনিধিত্বমূলক সমীক্ষা (Tench, Weinstein ও James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — সহায়ের হাত নাকি প্রভাবশালী অংশীদার? সহযোগিতামূলক শিখনে জেনএআই-নির্ভরতা ও মানব এজেন্সির ব্যক্তিগত উপলব্ধি
-- [[yan-agentivism-learning-theory-ai-2026]] — মানুষ-এআই মিথস্ক্রিয়ার একটি মধ্য-পরিসরের শিখন তত্ত্ব, চারটি প্রক্রিয়া ও ছয়টি পরীক্ষাযোগ্য প্রস্তাবসহ (Yan ও Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — বিষয়, এআই ও অধিসংজ্ঞানাত্মক সক্ষমতা সমন্বয়ের উদীয়মান গুণ হিসেবে শিক্ষার্থীর এজেন্সি, স্বতন্ত্র নোড নয় (Dang et al. 2026)
-
-- [[learner-agency-ai-simulation-2026]] — পছন্দে প্রবেশাধিকার বনাম চর্চিত এজেন্সি: স্লাইডার, একটি ঐচ্ছিক এআই এজেন্ট এবং ফ্লকিং সিমুলেশনে শিখন
-- [[guarded-adoption-genai-higher-education-2026]] — উচ্চশিক্ষায় জেনারেটিভ এআই-এর সতর্ক গ্রহণ
-- [[ai-agents-joyful-assessment-third-space-2026]] — এআই এজেন্ট, আনন্দময় মূল্যায়ন এবং তৃতীয় স্থান
-- [[ai-mediated-research-agency-formation-2026]] — প্রাথমিক-কর্মজীবনের বৈজ্ঞানিক প্রশিক্ষণে এআই-মধ্যস্থ গবেষণা-এজেন্সির গঠন
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — জেনএআই-সহায়ক লেখনে স্তর-সংবেদনশীল সংজ্ঞানাত্মক অফলোডিং (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — স্কুল এআই শিক্ষা মনস্তাত্ত্বিক প্রস্তুতির ফাঁক কমায়, সংজ্ঞানাত্মক ফাঁক নয়
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — সম্পর্কগত জ্ঞানতাত্ত্বিক এজেন্সি এবং উৎপাদনশীল নির্ভরতা ও ক্ষতিকর নির্ভরতা আলাদা করার ছয়টি মানদণ্ড (Du ও Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — STEM পরিচয় সমর্থনকারী এআই-সক্রিয় শিক্ষাদানগত সঙ্গ
-- [[t2i-competence-paradox-2026]] — দক্ষতা-বিরোধপরিচয়: টেক্সট-থেকে-ইমেজ জেনএআই ব্যবহারে সৃজনশীল পরিচয়
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — অস্পষ্ট মানুষ-এআই সহযোগিতায় উদীয়মান শিক্ষার্থী-এজেন্সি: সহায়ক বনাম বিপরীতমুখী ব্যক্তিত্ব
-- [[de-barba-srl-genai-2026]] — পরিসর জুড়ে শিক্ষার্থী-এজেন্সি: নিয়ন্ত্রণ, সমন্বয়, অবস্থান
-- [[mishra-control-vs-agency-history-2025]] — AIED-র ইতিহাসে অপরিহার্য টানাপোড়েন হিসেবে নিয়ন্ত্রণ বনাম এজেন্সি
-- [[daoism-ai-education-philosophy-2026]] — বিকল্প এআই দর্শন: শিক্ষায় এআই-এর পদ্ধতি হিসেবে দাওবাদ
-- [[human-autonomy-agency-hri-review-2025]] — HRI-তে মানব স্বায়ত্তশাসন ও এজেন্সি
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — জেনারেটিভ সামাজিক রোবটের জন্য জ্ঞানভিত্তিক নকশা
-- [[young-people-learning-generative-ai-rapid-review-2026]] — শিখন-প্রাসঙ্গিক কাজে শিক্ষার্থীর এজেন্সি উৎসাহিত করা
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory ও সংজ্ঞানাত্মক আত্মসমর্পণ: এআই কীভাবে মানুষের যুক্তি নতুন রূপ দেয় (Shaw ও Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — শিখনের জন্য নকশায় জেনএআই মিথস্ক্রিয়ার সময় শিক্ষার্থী-শিক্ষকের এজেন্সি (Krushinskaia, Elen ও Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — মুক্তিমূলক দৃষ্টিভঙ্গি: সরঞ্জাম-এজেন্সির সঙ্গে শূন্য-সমষ্টি হিসেবে এজেন্সি
-- [[chen-zou-genai-group-assessment-agency-2026]] — জেনএআই-মধ্যস্থ দলগত মূল্যায়নে এজেন্সির তিন ধরন: তীব্রতর, সংযত এবং অ-চর্চিত
-- [[ai-integrated-teaching-identity-tensions]] — এআই-সংযুক্ত শিক্ষাদানে শিক্ষক-এজেন্সি হিসেবে নীতিনিষ্ঠ নির্বাচনশীলতা (Adiozaman ও Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — নৈদানিক প্রমাণ হিসেবে প্রত্যাখ্যান: পরিস্থিতিগত সম্পর্ক হিসেবে অ-ব্যবহার এবং এআই প্রত্যাখ্যানের অসম অধিকার (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — সর্বোচ্চ সরঞ্জাম-ব্যবহারের বদলে বাধা, সংশোধন ও প্রত্যাখ্যানের মাধ্যমে জ্ঞানতাত্ত্বিক কর্তৃত্ব দাবি
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — কে কাজ করে, কে জানে, কে উত্তর দেয়? জেনারেটিভ এআই উচ্চশিক্ষা গবেষণায় এজেন্সি, জ্ঞানতাত্ত্বিক দায় ও জবাবদিহির কর্পাস-সহায়ক আলোচনা-বিশ্লেষণ
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — প্রতিফলনমূলক এআই-সম্পৃক্তিতে দক্ষতা-রক্ষাকারী নির্ভরতার দিকে খোলা প্রশ্ন
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — এআই শিক্ষার উদ্দেশ্য হিসেবে দক্ষতা বনাম এজেন্সি, এবং অবহিত এআই এজেন্সি হিউরিস্টিক (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — শর্ত হিসেবে শিক্ষকের মধ্যস্থতা, যা জেনএআই-কে কর্তৃত্ব নয়, সমালোচনার আর্টিফ্যাক্ট রাখে (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — নকশার মাধ্যমে সক্রিয় সম্পদ হিসেবে শিক্ষক-এজেন্সি, ব্যবহারের বদলে আর্টিফ্যাক্ট থেকে বিচার্য প্রস্তুতি (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — রিয়েল-টাইম গতিশীল জোড়া তৈরির সহ-অর্কেস্ট্রেশন সরঞ্জামে শিক্ষক ও শিক্ষার্থীর এজেন্সির ভারসাম্য (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix ও Ecological Authority Integration Model: কে ব্যাখ্যা করে তার চারটি বিন্যাস, এবং যে বাস্তুতান্ত্রিক স্তরগুলো তাদের সরায়
-- [[gyekye-selves-apprenticeship-2026]] — শিক্ষানবিশি কর্মসূচিতে বর্ণ-সংখ্যালঘু শিক্ষার্থীরা প্রত্যাখ্যান, আলোচনা ও স্বীকৃতির মাধ্যমে এআই দিয়ে নিজেদের লেখক হিসেবে গড়েছে ("সাংস্কৃতিক সমতলতা"); Institutional AI Literacy ও Recognition Bandwidth
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — মাধ্যমিক স্কুলের বিজ্ঞান লেখনার 6,788টি ChatGPT-সহায়ক পালায় ভাগ করা জ্ঞানতাত্ত্বিক এজেন্সি (Chang et al
-- [[jelson-students-chatgpt-essay-writing-2026]] — অনুভূত মালিকানা কমেছে কেবল যেখানে পুরো প্রবন্ধ অর্পিত হয়েছে; পরিকল্পনা ও পর্যালোচনাকারীরা অ-ব্যবহারকারীদের সমান (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

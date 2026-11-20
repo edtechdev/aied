@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -96,33 +98,3 @@ UDL הופך "תקן את הלומד" ל"תקן את העיצוב." עבור מ�
 **"UDL פירושו עיצוב עבור הסטודנט הממוצע בזהירות רבה יותר."** הטענה הליבתית הפוכה: גיוון הלומד הוא הנורמה ולא היוצא מהכלל, ולכן העיצוב מספק מסלולים רבים מההתחלה במקום לתקן מסלול אחד עבור אלו שמתקשים. התאמה-רטרואקטיבית היא מה ש-UDL בא להחליף, ומסלול אחד מכויל היטב הוא עדיין מסלול אחד.
 
 **"AI הופכת את UDL לאוטומטית, כי היא יכולה לייצר פורמטים חלופיים."** היא הופכת את עקרון הייצוג לזול ומשאירה את המעורבות והביטוי ללא שינוי. המרת טקסט לאודיו מטפלת באחד משלושה אמצעים; קורס יכול כעת להיות רב-פורמטי לחלוטין ובכל זאת לדרוש מכל סטודנט להדגים למידה באותו אופן בודד.
-
-## מושגים מחוברים
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך AI
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## מאמרים מחוברים
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — "AI is reducing options I had used": exploring faculty perceptions of accessible course design in a ChatGPT world
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — בינה מלאכותית ועיצוב אוניברסלי ללמידה במוסדות ההשכלה הגבוהה בכווית: לקראת מסגרת מופעלת-AI לחינוך מכיל

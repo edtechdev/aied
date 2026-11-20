@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -41,11 +42,3 @@ Personalul de [[educational-policy-ai|politici]] și responsabilii de OER din bi
 ## Note și precauții
 
 Licențierea capitolelor este capcana. Colecția este CC BY 4.0, dar autorii individuali își păstrează drepturile de autor și au ales propriile licențe Creative Commons, așa că un capitol poate fi mai restrictiv decât sugerează pagina cărții; capitolul despre revizuirea manualului este CC BY-NC-SA 4.0, iar reutilizarea trebuie să verifice capitolul, nu front matter-ul. Autorii nu au avut o procedură obligatorie de declarare a IA, așa că majoritatea capitolelor discută procesul în trecere, urmând în general îndrumările OER Commons. Prin alegere editorială, fiecare capitol își păstrează vocea disciplinară, punctuația și ortografia regională a autorului, așa că proza nu se citește uniform. Mai presus de toate, fiecare capitol documentează un singur proiect local și nici două nu împart un instrument sau o comparație, așa că volumul oferă practică de adaptat, nu dovezi de citat.
-
-## Concepte conexe
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -90,39 +92,3 @@ Bu gruptaki iki makale politika değil üretim sistemleriyle ilgilidir. [[peng-p
 **“YZ içeriği o kadar ucuzlatır ki OER gereksizleşir.”** Tersi okuma da mümkündür ve daha iyi desteklenir. Üretim neredeyse bedavaysa kıt mallar lisans, atıf zinciri, gözden geçirme süreci ve bakımı yapılan platform olur. Bu literatürün üretim yerine yönetişim ve altyapıda birleşmesinin nedeni budur.
 
 **“Açık bir ödeve YZ araçları eklemek öğrenmeyi iyileştirir.”** Buradaki tek yarı deneysel sınama, iki kolda da algılanan beceri artışı bulmuş, aralarında saptanabilir bir fark görmemiştir; bunun yanında YZ kolunda tamamlama daha yüksek, puanlar ise biraz daha düşüktür. YZ öğrencilerin ne ürettiğini değiştirdi, öğrendiklerini bildirdikleri şeyi değiştirmedi.
-
-## Bağlı kavramlar
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Bağlı makaleler
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Üretici YZ üretime girdiğinde OER için beş çerçeve (Tlili ve diğerleri, 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER’nin dijital kamusal mal olarak ele alınması ve yönetilen altyapı savı (Atenas ve diğerleri, 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Yirmi beş yıllık açıklığın kurumsal ortayı neden olduğu gibi bıraktığı (Deimann ve Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — İki ders şubesinde YZ araçlarıyla ve araçsız açık pedagoji (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Açık eğitim uygulamasının on dört modeli ve YZ’nin bunlar içindeki yeri (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 30 Çin ilinde öğretmen YZ okuryazarlığı ve açık öğretim uygulaması (Guo ve diğerleri, 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER ile YZ’nin sorumlu bütünleşmesi için yedi sütunlu bir çerçeve (Rodés-Paragarino ve Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Sanal bir laboratuvarda mentorluk ve YZ-OER üretimi (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — YZ okuryazarlığı OER’sini incelemek için yedi ilkeli rubrik (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — OER’de etkileşimsellik: bulgu değil tasarım savı (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Açık eğitimde uluslararası işbirliği: araçsal bir vaka (Patiño ve diğerleri, 2026)
-- [[peng-personalized-recommendation-oer-2026]] — OER için, iddia edilenden güçlü bir temel çizgi karşısında hibrit önerici (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Açık öğrenmede dijital dönüşümün pedagojik dönüşüm olması (Panda, 2026)

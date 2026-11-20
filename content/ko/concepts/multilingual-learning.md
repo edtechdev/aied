@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -74,29 +76,3 @@ LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 �
 - **"목표 언어가 첫날부터 지배적이어야 한다."** **24편 연구의 체계적 검토**에서 학습자들은 **목표 언어로 건너가는 다리로서 자기 언어로 맥락화된 표현과 설명**을 요청했고, 검토자들은 이 사용을 우회가 아니라 진정으로 새로운 하위 편의성으로 분류합니다. 모국어 지원은 회피가 아니라 [[scaffolding|비계]]로 기능했습니다.
 - **"AI 언어 평가는 다중언어 작가에게 편향되어 있다."** 여기서 편향은 모델이 아니라 **인간 기준선**을 따랐습니다. **3~6학년 정보성 글쓰기**에 대한 LLM 기반 비교 판단은 **연구자 루브릭과 수렴했고(r = .59~.73)**, 인간 채점자가 보인 것과 같은 패턴을 보였습니다. 그것은 절대적 의미의 공정성 증거가 아니라, 모델이 이미 존재하는 왜곡 위에 새로운 왜곡을 더하지 않았다는 증거입니다.
 - **"번역 품질의 출력이 유용한 부분이다."** 다리로 쓰는 사용은 대체가 아니라 설명적이고 상황적입니다. 학습자 자신의 산출을 대체하는 도구는 다리가 가능하게 하려던 연습을 제거합니다.
-
-## 연결된 개념
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## 연결된 문서
-
-- [[llm-comparative-judgment-writing-screening-2026]] — 보편적 글쓰기 선별을 위한 대형 언어 모델 비교 판단의 타당성
-- [[multilingual-adaptive-learning-nigeria-2026]] — 나이지리아를 위한 AI 기반 적응형 학습 플랫폼
-- [[bilingual-llm-lecture-companion-srl-2026]] — 이중언어 LLM 강의 동반자
-- [[structural-silence-underrepresented-language-ai-2026]] — 구조적 침묵: 저소외 언어들
-- [[llm-cultural-relevance-k12]] — K-12에서의 LLM 문화적 관련성
-- [[scaffolding-critical-engagement-genai-minority-students]] — 소수 학생들 사이의 생성형 AI에 대한 비판적 참여
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: 인도 지식 체계 데이터셋
-- [[kutti-ai-voice-first-learning-companion]] — 음성 우선 학습 동반자
-- [[ai-scoring-language-bias-physics]] — 물리에서의 AI 채점 언어 편향
-- [[genai-chatbots-language-learning-affordances-review-2026]] — 생성형 AI 챗봇이 가능하게 하는 언어 간 넘나듦: 이전 언어 도구가 지원하지 못한 사용
-- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — 퀴라소와 아루바에서의 대화형 AI 4개 언어 코드 전환(Bush 등, 2026)

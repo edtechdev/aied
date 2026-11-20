@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -92,28 +94,3 @@ ai_assist:
 **Для дослідників**
 
 - Симуляції агентів, специфічних для учасників, — сильний інструмент для вивчення колаборативної регуляції. Повідомляйте їх як такі, а не як доказ про неконтрольовану студентську колаборацію.
-
-## Пов’язані поняття
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Пов’язані статті
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Профілі взаємодії (делеговане міркування vs. узгодена інтерпретація) і компроміс між ефективністю та регуляцією
-- [[ai-assisted-collaborative-learning-model-dbr]] — Модель ДОП, що позиціонує генеративний ШІ як інтелектуального партнера в навчанні
-- [[llm-critical-thinking-teamwork-review]] — Огляд PRISMA: LLM, які сприяють критичному мисленню, командній роботі та вирішенню задач
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Адаптивні скаффолди, намайнені з послідовностей, для колаборативного вирішення задач
-- [[genai-assisted-problem-posing-physics-2026]] — Проблемопостановка як стратегія саморегульованого навчання з GenAI
-- [[genai-feedback-design-multisite-experiment]] — Рефлексивний/гібридний зворотний зв’язок перевершує прямий ШІ у відстроченому перенесенні
-- [[dai-chatbots-problem-posing-primary-2026]] — Чатботи покращують проблемопостановку учнів початкової школи в навчанні на основі дослідження
-- [[llm-computational-thinking-physics-2026]] — LLM як масштабовані оцінювачі обчислювального вирішення задач у фізиці
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Керований правилами vs. ситуативний скаффолдинг у системі репетиторства на базі LLM для математики початкової школи (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
+connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -57,7 +59,6 @@ ai_assist:
 ### অনুদৈর্ঘ্য গবেষণা
 অনুদৈর্ঘ্য নকশা একই শিক্ষার্থীদের সময় জুড়ে অনুসরণ করে, পরিবর্তন, প্রবৃদ্ধি ও টেকসই শেখা ধরে যা একক-সময়বিন্দুর পরিমাপ মিস করে। [[ai-lms-middle-school-longitudinal|একটি অনুদৈর্ঘ্য LMS গবেষণা]] শিক্ষার্থীদের একটি শিক্ষাবর্ষ জুড়ে অনুসরণ করে। এআই-ফুলানো কর্মদক্ষতা থেকে [[genai-performance-vs-learning|টেকসই শেখা]] আলাদা করতে অনুদৈর্ঘ্য নকশা অপরিহার্য।
 
-
 উপাত্তসেট-মধ্যকার তুলনায় একটি স্থির কার্যবিন্দু দরকার: কৃত্রিম শিক্ষামূলক উপাত্তের একটি কাঠামোগত যাচাই দেখে যে প্রতিটি উপাত্তসেট নিজের থ্রেশহোল্ডে বিশ্লেষণ করলে একটি বৈপরীত্য উল্টে যায় যা একটি সাধারণ বিন্দুতে টিকে ছিল, আর তার সারোগেট তুলনার জন্য কেবল কৃত্রিম উপাত্ত এবং তার নিজের ক্রমবিন্যাস দরকার ছিল - নিখুঁত থ্রেশহোল্ড নয়, ক্রমবিন্যাস-ভিত্তিক শূন্য-অনুমান ([[synthetic-educational-data-structural-fidelity-2026|Inoue ও Yasutake (2026)]]).
 
 ### গণনামূলক ও সাইকোমেট্রিক পরিমাপ
@@ -89,35 +90,3 @@ ai_assist:
 - **"একটি intent-to-treat অনুমান বলে সরঞ্জামটি কী করে।"** একটি দল-এলোমেলো প্রবেশাধিকার পরীক্ষায় যেখানে **চিকিৎসাধীন শ্রেণিকক্ষের প্রায় 15% শিক্ষার্থী কখনও টিউটর ব্যবহার করেছে**, ITT অনুমান সরঞ্জামটি **চালু করার প্রভাব** প্রতিফলিত করে, তা ব্যবহারের প্রভাব নয়। কম ব্যবহার ITT-সংখ্যাকে বাস্তবায়ন সম্পর্কে একটি বিবৃতি করে তোলে, আর তা সরঞ্জাম-প্রভাব হিসেবে প্রতিবেদন করা যা পরিমাপ হয়েছে তার অতিরঞ্জন।
 - **"কাজে কর্মদক্ষতাই ফলাফল।"** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] **120 শিক্ষার্থী**কে এআই-সহায়ক বা ঐতিহ্যবাহী পড়াশোনায় এলোমেলোভাবে বণ্টন করেন এবং **ধারণক্ষমতা** মাপেন — যে নকশা তাৎক্ষণিক কর্মদক্ষতাকে টেকসই শেখা থেকে আলাদা করে। যে গবেষণা কাজেই থেমে যায় সে সহজতর রাশিটি মেপেছে।
 - **"উপাত্তসেট-মধ্যকার তুলনা সোজা।"** কৃত্রিম শিক্ষামূলক উপাত্তের একটি কাঠামোগত যাচাই দেখে যে **প্রতিটি উপাত্তসেট নিজের থ্রেশহোল্ডে বিশ্লেষণ করলে একটি বৈপরীত্য উল্টে যায় যা একটি সাধারণ কার্যবিন্দুতে টিকে ছিল**। তুলনার চিহ্ন একটি বিশ্লেষণগত পছন্দের উপর নির্ভর করেছিল, আর পূর্বনিবন্ধিত কার্যবিন্দু ঠিক এই ধরনের ভঙ্গুরতা রোধ করতে থাকে।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[rct]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[technology-acceptance-model]]
-- [[self-report-measures]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[access-not-enough-ai-tutoring-2026]] — মানব সহায়তা ও এআই টিউটরিংয়ের একটি এলোমেলো মাঠ-গবেষণা
-- [[genai-can-harm-teaching-rct-2026]] — জেনারেটিভ এআই শিক্ষাদানের ক্ষতি করতে পারে: একটি RCT
-- [[acceptance-ai-english-tools-2026]] — এআই-সহায়ক ইংরেজি শেখার সরঞ্জামের গ্রহণযোগ্যতা
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI গ্রহণের পথ (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — আত্ম-নিয়ন্ত্রণ তত্ত্বের মধ্য দিয়ে শিক্ষকের এআই-সাক্ষরতা
-- [[jin-glat-genai-literacy-assessment]] — GLAT: একটি IRT-বৈধকৃত GenAI সাক্ষরতা পরীক্ষা
-- [[ai-lms-middle-school-longitudinal]] — একটি অনুদৈর্ঘ্য এআই-সংহত LMS গবেষণা
-- [[adaptive-pretesting-retention]] — অভিযোজিত পূর্বপরীক্ষা ও ধারণক্ষমতা
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — একটি দল-এলোমেলো প্রবেশাধিকার পরীক্ষায় ব্যবহার-যাচাই দরকার
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — গ্রন্থপরিসংখ্যানমূলক বিশ্লেষণ আরেকটি পরিমাণগত পরিবার: Sriram প্রমুখ
-
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

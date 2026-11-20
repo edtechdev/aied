@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
+connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -109,65 +111,3 @@ ai_assist:
 - **"真实性关乎任务是否真实。"** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan、Boud 与 Du（2025）]]对 **37 项实证研究（2000 至 2024）**的[[meta-analysis-systematic-review|范围综述]]提出了一个**六维**设计模型，而 **37 项研究中只有 3 项**处理社会真实性，即评估是否帮助学生为社会变革做贡献。现实性只是其中一个维度，而最先进的维度几乎无人研究。
 - **"真实性评估能抵御 AI。"** 暴露是可测的，而且很大：一个**三年制心理学学位**被证明 **90% 可通过**，ChatGPT 在 **40 项课程评估中的 36 项**上产出了**足够的产出**，只有其余评估存活下来。一个学位的大部分评估都是 AI 可以满足的。
 - **"如果作业是真实世界的，重新设计就是可选的。"** 36/40 这一结果是在真实性按理不成问题的课程作业上得到的。任务的现实性并未防止 AI 完成；防止它的是被评估之物的设计。
-
-## 关联概念
-
-- [[learner-identity]] — 演进中的学科、专业、创造与学术学习者身份
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[feedback]]
-- [[summative-assessment]] — 总结性评估：抗 AI 的形式（口试、监考、闭卷考试）
-- [[arts-and-media-education]]
-- [[reflection]]
-
-## 关联文章
-
-- [[thapa-lewis-process-oriented-assessment-2026]] — 过程本位评估与认识真实性：一个任务应当认证什么
-- [[ivory-psychology-assessment-integrity-2026]] — AI 无法通过的：在场、视觉工件与学生自己的数据（Ivory 等人 2026）
-- [[paternalistic-filter-llm-history-education]] — 家长式 AI 使用与历史教育中的学生身份
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 为真实性评估而设计：一项范围综述
-- [[beyond-detection-authentic-assessment-ai-2025]] — 超越检测：真实性评估
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的负责任评估
-- [[authentic-products-authenticated-processes-2026]] — 真实产物，经核验的过程
-- [[tool-invariant-framework-agentic-ai]] — 工具不变框架：计算方法教学与评估
-- [[cong-confidence-asag-2026]] — 置信度感知的自动简答评分
-- [[llm-fallacy-misattribution]] — LLM 谬误与能力误归因
-- [[universities-ai-era-rethinking]] — AI 时代重新思考大学
-- [[ssaho-ai-academic-integrity-review-2025]] — 多种评估方法对抗 AI 不当行为
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新思考口试作为真实性、抗 AI 的评估
-- [[roe-assessment-twins-2026]] — 生成式 AI 时代强化评估效力的评估孪生（Roe、Perkins & Giray 2026）
-- [[lodge-adaptive-capabilities-genai-future-2026]] — 在生成式 AI 整合的未来中保障优质学习的自适应能力（Lodge 等人 2026）
-- [[asynchronous-oral-assessment-2026]] — AI 时代的异步口头评估（Pentland 2026）
-- [[assessing-student-drive-framework-2025]] — DRIVE: 经生成式 AI 交互评估学习（DRI + 可见专长）
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — 导致学生小组减少生成式 AI 使用的真实性标准
-- [[teacher-educators-ai-integration-preservice-2026]] — 把教师教育者推回受监督考试与口头答辩的 AI 信任危机（Goldstein 等人 2026）
-- [[sharma-judgment-visible-genai-assessment-2026]] — 面向诚信的设计与真实性评估之区分：使判断可见（Sharma 2026）
-- [[munoz-misconduct-allegation-evidence-2026]] — 不当行为指控案卷实际包含什么证据，及其缺少的过程证据（Munoz 等人 2026）
-- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器准确度与混合写作失败：为何检测是薄弱的退路证据（Hadra 等人 2026）
-- [[wright-transcription-not-generation-2026]] — 过度包容的 AI 禁令：转录不是生成（Wright 2026）
-- [[authentic-assessments-generative-ai-pilot-2026]] — 用生成式 AI 设计真实性评估：高等教育中 Assessment Authentifire 的试点研究
-
-- [[ai-ethics-tensions-online-pedagogy-2026]] — 任务现实性腐蚀：抗 AI 重新设计侵蚀在线语言教学中的真实性
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — 表面真实的形式（录制汇报、远程小组项目、数字工件）在 53,915 个条目上得分高：真实性不核验作者身份

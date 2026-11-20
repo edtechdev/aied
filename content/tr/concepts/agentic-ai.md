@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -184,63 +186,3 @@ Etkenik YZ ne bir her şeye çare ne de kaçınılmaz bir zarardır: değeri tas
 **“Eğitimdeki etkenik sistemler pedagojik olarak temellidir, çünkü onları eğitim araştırmacıları inşa eder.”** Kanıt bunun tersini söyler: bir kapsam derlemesi, etkenik YZ çalışmalarının yalnızca **%29'unun (474'ten 138'inin)** sistemlerini açıkça eğitim kuramına temellendirdiğini bulmuştur. Teknik yönelimli ile pedagojik yönelimli çalışma arasındaki disiplinler arası ayrım, tek bir yazarın gözden kaçırması değil alanın kendi durumudur; bu nedenle çalışan bir gösterim beklenen çıktıdır ve *öğrenme için* çalışan bir gösterim azınlık durumudur.
 
 **“Öğrenmeyi kişiselleştiren ve derinleştiren bir aracı, bir sohbet robotuna göre net bir kazançtır.”** Bununla birlikte belirli bir değiş tokuşu da taşır: etkenik sistemler [[agency]]'yi tehdit eder ve öğrenmenin dayandığı bilişsel çabanın [[cognitive-offloading|boşaltılmasını]] davet eder; ayrıca daha fazla adımı gözetimsiz yürüterek bu boşaltmayı fark edilmesi zor hale getirirler. Otomasyon ile öğrenme arasındaki gerilim, kategorinin faydalarına eklenen bir çekince değil, onun merkezî analitik sorunudur.
-
-## Bağlı kavramlar
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Bağlı makaleler
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
-- [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
-- [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
-- [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
-- [[ai-agents-constructive-conflict-design-education-2026]] — Constructive conflict AI agents in design education
-- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
-- [[code-gen]] — Code generation agents
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agent benchmark
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptive learning agents
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Ajanlar revize edilebilir bir yetenek programı çevresinde örgütlenir; öğrenen bir üye olarak
-- [[alghamdi-claude-code-agentic-grading-2026]] — 60 el yazısı sınavın etkenik notlandırılması: genelde r = .97, değerlendirici maddelerde kappa .65'e düşüyor
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Otomatik Beceri Çıkarımı için YZ Yaklaşımlarının Karşılaştırılması: Mühendislik Eğitimi için Gömmelerden Etkenik Sistemlere

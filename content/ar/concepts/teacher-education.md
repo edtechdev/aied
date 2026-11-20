@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -61,7 +63,6 @@ pedagogy: [tpack]
 - **الاستقصاء المدعوم بالذكاء الاصطناعي في [[science-education|تعليم العلوم]].** في تجربة شبه تجريبية مع 48 معلمًا للعلوم في مرحلة ما قبل الخدمة في تركيا ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]])، دمج برنامج استقصاء موجَّه مدعوم بالذكاء الاصطناعي مدته 8 أسابيع التعلّم القائم على المشكلات والتصميم في موضوع البناء الضوئي والتنفس. فأنتج مكاسب كبيرة في الفهم التصوري للعمليتين [[biology-education|الحيويتين]]، لكنه لم يُنتج *أي* أثر دال على ثقافة الذكاء الاصطناعي أو [[computational-thinking|التفكير الحاسوبي]] المُدرك ذاتيًا — تذكير بأن التعلّم القائم على الاستقصاء المدعوم بالذكاء الاصطناعي يستطيع تعميق فهم المادة لدى المرشحين للمهنة دون بناء كفاياتهم في الذكاء الاصطناعي/التفكير الحاسوبي تلقائيًا، وهي كفايات تستلزم تصميمًا صريحًا موجَّهًا.
 
 - **[[prompt-engineering|التحفيز]] ما وراء المعرفي ليس محايدًا تجاه المجموعة، فعلى المعلمين المستقبليين أن يتعلّموا قراءة المجموعة.** في دراسة [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] كان المتعلّمون أنفسهم معلمين في مرحلة ما قبل الخدمة، أربع عشرة مجموعة تعمل استقصاءً مدته 60 دقيقة مع روبوت محادثة ما وراء معرفي عند الطلب. فالمجموعات التي حمل أعضاؤها تصورات مسبقة مختلفة جعلت الذكاء الاصطناعي مركزًا للحديث التصوري؛ والمجموعات التي كانت متفقة سلفًا استخدمته كأداة بحث وقيّمت التنبيهات الاستباقية سلبًا. وتطلب ملاحظة المؤلفين للممارسين أن يركّبوا المجموعات على تنوع التصورات المسبقة وأن يُبقوا دعم التنظيم المشترك اختياريًا.
-
 
 - **[[generative-ai|الذكاء الاصطناعي التوليدي]] لتصميم تعليمي بنائي.** [[sahab-model-genai-constructivist-id-2026|نموذج SAHAB]] تدخل تطوير مهني شبه تجريبي يُفعّل فيه الذكاء الاصطناعي التوليدي المعلمين لتصميم تعليم [[constructivist|بنيوي]]، بمكاسب كبيرة (d = 1.18). ويُظهر أن الذكاء الاصطناعي التوليدي يستطيع أن [[scaffolding|يسقال]] [[learning-design|تصميم التعليم]] لمرشحي المهنة والمعلمين الممارسين على السواء — لا أن يقدّم المحتوى فحسب بل أن يدعم *تصميم* أنشطة تعلّم محوره الطالب.
 - **تدريب الصف الذكي لطلاب [[math-education|الرياضيات]] في درجة الماجستير في التعليم.** يُظهر [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] كيف يمكن لدورة ماجستير في تعليم الرياضيات أن تُعزَّز بـ [[ai-technologies|تقنيات]] تعليمية ذكية ([[automated-assessment|تصحيح آلي]]، وتوصيات مخصصة، وتغذية راجعة من عدة ذكاءات اصطناعية) على امتداد مراحل ما قبل الصف وأثناءه وبعده، مما يثمر مكاسب ذات دلالة إحصائية في إجادة تصميم الأهداف التعليمية. ويقدّم نموذج D-T-E القابل للنقل (الطلب التخصصي–التمكين التقني–حلقة التقييم) للمربين إطارًا [[discipline-specific-aied|خاصًا بمجال دراسي]] لدمج التعليم الذكي في إعداد المعلمين في الدراسات العليا.
@@ -119,62 +120,3 @@ pedagogy: [tpack]
 - **«قبول الذكاء الاصطناعي لدى معلمي ما قبل الخدمة موقف واحد.»** صُنّف **128 معلمًا في مرحلة ما قبل الخدمة** إلى أربع مجموعات لقبول ChatGPT، منها **المتشككون المقاومون (14.06%)، الذين أفادوا بسهولة استخدام مُدركة عالية لكن بنية سلوكية منخفضة جدًا**. فقد انفصلت سهولة الاستخدام عن النية في تلك المجموعة، لذا يتركها أي تدخّل قائم على [[usability-research|قابلية الاستخدام]] على حالها.
 - **«الذكاء الاصطناعي يساعد معلمي ما قبل الخدمة أساسًا في المعرفة المحتوية.»** وجد **استعراض نطاقي لـ 55 دراسة** أن الذكاء الاصطناعي يعزز **تصميم التدريس، وتعليم المادة، والتعليم العملي** — أي قدرات التصميم والممارسة، لا الخبرة المحتوية.
 - **«استعراض نطاقي لـ 55 دراسة يثبت الفائدة.»** إنه يوثّق ما يُبلَّغ عنه عبر الميدان. فاتساع التحسين المُبلَّغ عنه ادعاء عن إجماع الأدبيات، و55 دراسة في استعراض نطاقي ليست أثرًا مجمَّعًا.
-
-## المفاهيم المرتبطة
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المعامل، والتقويم التكويني، وحدود النماذج اللغوية الكبيرة، وفلسفة التجريب
-
-## المقالات المرتبطة
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — الذكاء الاصطناعي في إعداد المعلمين: الأطر التربوية، والأدلة التجريبية، والأخلاقيات، 2020-2026 (Shukla 2026)
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
-- [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
-- [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns across teaching experience and AI proficiency in lesson design (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Campus versus distance comparison of 186 science student teachers' AI-related TPACK and training levels
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
-- [[capability-decision-model-teacher-readiness-2026]] — قياس القدرة بدل الثقة
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — نموذج أنداغوجي بطبقتين يربط التنظيم التأملي لدى المعلمين بفاعلية المتعلم
-- [[packard-thinking-partner-framework-adult-learners-2026]] — معلمو التعليم العام يتعلمون قراءة البحث الأساسي في الذكاء الاصطناعي والطعن في تكليفات المنطقة
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Pre-service teachers as the learners: groups that disagreed about energy made the AI a center of conceptual talk, groups that agreed treated it as a lookup and resented proactive nudges (Wang et al. 2026)
-- [[webb-pck-genai-2026]] — Why a model amplifies a novice's thin PCK, and why the remedy is collective rather than an AI-literacy module (Webb et al. 2026)
-

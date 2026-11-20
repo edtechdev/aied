@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -120,56 +122,3 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 - **„Konstruktivistischen Unterricht erkennt man an den gestellten Fragen."** Ein DeBERTa-Klassifikator **klassifizierte faktische Wissensvermittlungsfragen mit 96,67% Präzision, Facilitator-Fragen jedoch nur mit 78,79%**, und **jedes Modell verwechselte die beiden höherstufigen Rollen**. Das Konstrukt, das am meisten zählt, ist das, mit dem automatisierte Erkennung am schlechtesten umgeht.
 - **„Oberflächenmerkmale einer Stunde offenbaren ihre Pädagogik."** Das Scheitern des Klassifikators ist kein Implementierungsdetail. Facilitator- und konstruktivistische Rollen sind gerade deshalb die schwierigen Fälle, weil sie dadurch definiert sind, was die Lehrkraft mit dem Denken der Lernenden tut, und diese Relation ist aus dem Fragetext allein nicht rekonstruierbar.
 - **„Konstruktivismus heißt, dass die Lehrkraft nicht erklärt."** Die Theorie verortet Lernen in der Konstruktion der Lernenden aus Erfahrung, was mit direkter Instruktion vereinbar ist. Sie als Verbot des Erklärens zu behandeln verliest sowohl die Theorie als auch die Evidenz zu ausgearbeiteten Beispielen.
-
-## Verbundene Konzepte
-- [[community-of-inquiry]] — Untersuchungsgemeinschaft (gegründet in konstruktivistischem/Deweyschem Pragmatismus)
-- [[cognitive-psychology]] — Kognitivismus, der dritte klassische Pol der Lerntheorie
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
-- [[theory-development-aied]] — Theorieentwicklung in KI in der Bildung
-- [[productive-failure]]
-
-## Verbundene Artikel
-- [[lee-learner-question-types-ai-education-2026]] — Lernendenfragen klassifiziert in drei konstruktivistische Rollen: Übermittler, Facilitator, Mitlernende (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — Positioniert Konstruktionismus (Papert) gegen kognitive Tutoren in der Geschichte der AIED
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn mit GenAI: Konstruktionismus-Rahmenwerk für Artefaktkonstruktion
-- [[ai-writes-code-student-writes-model-2026]] — Modellautorschaft: Theorie- und Messprogramm für Lernen-durch-Konstruktion mit GenAI
-- [[ai-vocational-education-training-review]] — Konstruktivismus bekundet, aber behavioristische KI dominiert in der VET; die „Turing-Falle“
-- [[generative-refusal-ai-tools-for-thought]] — KI-Werkzeuge, die Generierung zurückhalten, um konstruktives Denken zu schützen
-- [[genai-mindtool-generative-learning]] — GenAI als Denkwerkzeug, das die Konstruktion der Lernenden stützt
-- [[ai-agents-constructive-conflict-design-education-2026]] — Adversariale KI-Agenten, die konstruktives Überdenken anregen
-- [[hingle-collaborative-ai-literacy-2025]] — Kollaborative KI-Kompetenz und das ICAP-Engagementrahmenwerk
-- [[ai-internal-feedback-evaluative-judgments]] — KI-gestützter Vergleich, der evaluative Urteile erzeugt
-- [[icap-cognitive-engagement-llm-agents]] — ICAP und kognitives Engagement mit LLM-Agenten
-- [[conversational-ai-tutors-framework]] — Gerüstbaudialog in KI-Tutoren
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Verkörperte Inquiry mit einem KI-Facilitator
-- [[beyond-detection-authentic-assessment-ai-2025]] — Authentisches Assessment und Wissenskonstruktion
-- [[teacher-ai-teaming-five-levels]] — Stufen der Lehrkraft-KI-Zusammenarbeit im Design
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemische Ko-Handlungsfähigkeit zwischen lernender Person und Maschine
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generativer Agent, der die kognitive Evolution von Studierenden simuliert
-
-- [[synthetic-position-self-authorship-2026]] — Simulierte KI-Gegenpositionen proben die Form des Dialogs, enthalten aber den Widerstand vor, der Revision erzwingt
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe: Hausaufgabennoten plus 18 %, geschlossene Prüfungen minus 20 %, konzentriert bei Hausaufgaben-Outsourcern
-

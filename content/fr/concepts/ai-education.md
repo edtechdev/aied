@@ -34,6 +34,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -194,57 +196,3 @@ L'IA en éducation est liée à tous les autres concepts du champ, puisque chacu
 **« Parce que l'IA est polyvalente, un résultat trouvé quelque part s'applique partout. »** La généralité de la technologie ne crée pas la généralité des données probantes. Les fils des disciplines, des niveaux et des contextes existent parce que le même outil se comporte différemment selon eux, et un résultat transporté tel quel au-delà d'une frontière est une extrapolation.
 
 **« La maturité du domaine se lit dans son volume de publications. »** Volume et maturité divergent ; le fil des méthodes de recherche documente des faiblesses récurrentes de conception que le volume ne corrige pas, et les cadres se multiplient plus vite qu'ils ne sont testés.
-
-## Concepts liés
-- [[primary-education]] — l'IA dans l'enseignement primaire
-- [[secondary-education]] — l'IA au collège et au lycée
-- [[undergraduate-education]] — l'IA dans les études de premier cycle
-- [[graduate-education]] — l'IA dans les études de master et de doctorat
-- [[pedagogical-patterns]] — Les séquences éprouvées qui opérationnalisent les pédagogies du domaine
-- [[ai-literacy]] — parapluie : comprendre, utiliser et évaluer l'IA
-- [[automation-bias]] — la défaillance côté lecteur : accepter un jugement automatisé sans le vérifier
-- [[human-ai-collaboration]] — parapluie : la manière dont les personnes et l'IA travaillent ensemble
-- [[pedagogy]] — parapluie : méthodes et stratégies d'enseignement
-
-- [[case-based-learning]] — La méthode des cas, la discussion de cas et les cas contrastés
-- [[metaphors-and-analogies]] — Comment la métaphore façonne la compréhension de l'IA et comment l'analogie soutient l'enseignement
-
-- [[learning-theories]] — parapluie : la manière dont l'apprentissage se produit
-- [[ai-technologies]] — parapluie : modèles, techniques et systèmes
-- [[discipline-specific-aied]] — parapluie : l'IA dans les matières et les niveaux d'enseignement
-- [[assessment]] — parapluie : la manière dont l'IA évalue les apprenants et reconfigure la validité
-- [[feedback]] — parapluie : la manière dont la rétroaction est produite, transmise et utilisée
-- [[stakeholders]] — parapluie : qui sont les acteurs
-- [[learners]] — parapluie : les concepts du côté de l'apprenant (expérience, identité, autonomie, interaction, modèles d'apprenant)
-- [[ai-ed-evaluation]] — parapluie : la manière dont nous savons si l'IA fonctionne
-- [[research-methods-aied]] — parapluie : méthodes de recherche sur l'efficacité
-- [[ai-assisted-educational-research]] — Recherche éducative assistée par IA
-- [[governance]] — parapluie : la couche institutionnelle et réglementaire
-- [[educational-policy-ai]] — parapluie : politiques, orientations et mise en œuvre
-- [[equity-in-ai-education]] — parapluie : équité, accès et inclusion
-- [[learning-sciences]] — le champ empirique qui sous-tend l'AIED
-- [[ethics]] — les dimensions éthiques de l'IA en éducation
-- [[misconceptions]] — les modèles mentaux que les personnes apportent à l'IA
-- [[interpreting-and-applying-aied-research]] — lire une étude et transposer un résultat dans la pratique
-- [[limitations-in-aied-research]] — limites transversales du corpus de données probantes
-- [[meta-analysis-systematic-review]] — ce que les revues et méta-analyses établissent
-- [[history-of-aied]] — comment le domaine a évolué
-- [[philosophy-of-ai-in-education]] — les fondements philosophiques
-- [[theories-and-frameworks]] — la carte des nœuds de théories et de cadres
-- [[theory-development-aied]] — construire et réviser la théorie
-- [[sensor-and-gaze-analytics]] — parapluie : la détection des apprenants par le regard, l'EEG et les signaux portables
-- [[ai-avatars-and-synthetic-instructors]] — parapluie : les humains synthétiques qui enseignent, tutorisent, simulent et évaluent
-- [[civic-and-political-education]] — domaine disciplinaire : la littératie pour la vie publique, avec une base de données probantes mince
-
-## Articles liés
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — L'évolution de la recherche sur l'IA et l'éducation sur quatre décennies (cadre AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Contrôle ou autonomie : une histoire de l'IA en éducation
-- [[genai-higher-education-systematic-review-2026]] — L'IA générative dans l'enseignement supérieur : revue systématique de 125 études
-- [[stanford-evidence-base-ai-k12-2026]] — Le corpus de données probantes sur l'IA dans l'enseignement primaire et secondaire : 52 études causales solides tirées de 1,686 articles du dépôt (mise à jour de novembre 2026)
-- [[genai-educational-outcomes-meta-analysis]] — L'IA générative et les résultats éducatifs : méta-analyse complète
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 études du secondaire ; des gains là où les étudiants jugent les productions, non là où l'outil produit le travail
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 étudiants de master ; la préparation atteignait le sentiment d'efficacité personnelle par le soutien du directeur de recherche
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revue de 61 sources sur l'éthique, la rétroaction et la gouvernance de la supervision doctorale
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — séminaire de troisième cycle à groupe unique ; des gains d'apprentissage autodirigé sans test sans aide
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 étudiants ; écart premier cycle–troisième cycle en éthique et en autorégulation

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -98,37 +100,3 @@ ai_assist:
 - **"조력을 보류하면 학습자를 좌절시키고 동기를 잃게 합니다."** 세 집단 [[rct|RCT]]에서 힌트 보류 튜터는 **좌절 감소와 동기에서 제한 없는 ChatGPT와 대등했고**, 그 대가는 **선호에서만** 나타났습니다. 학습자들은 그것을 덜 즐겼지만 그로 인해 고통받지는 않았으며, 이는 선호 자료가 작동한 설계를 거부했을 것임을 뜻합니다.
 - **"좌절이 많을수록 학습이 많습니다."** 점증하는 튜터는 **요청 시 답하는 튜터보다 0.42 척도 점수 더 좌절스러웠고(p < .001), 가장 좌절스러운 집단보다는 0.29 덜 좌절스러웠습니다**. 생산적 범위는 최대가 아니라 중간이므로, "바람직한 어려움"은 과제를 무한정 어렵게 만들어도 된다는 허가가 아닙니다.
 - **"생산적 실패는 교사가 도와주지 말아야 한다는 뜻입니다."** 그 설계는 구조와 점증을 제공하면서 *답*만 보류합니다. 힌트를 보류하는 것과 지원을 보류하는 것은 다른 개입이며, 여기서 증거가 있는 것은 첫 번째뿐입니다.
-
-## 연결된 개념
-
-- [[pedagogical-patterns]] — 전체 서열로 본 교수 이전 시도, 그리고 얇은 근거 기반
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — 첫 시도를 위한 공유된 문제 공간으로서의 사례
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## 연결된 문서
-
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
-- [[rhaimi-productivemath-2025]] — PF 문제 설계를 지원하는 AI, ProductiveMath
-- [[wang-safety-gap-productive-struggle-2026]] — Safety Gap: 생산적 고군분투의 회복
-- [[lukesova-clue-before-correction-2026]] — 자율 학습을 위한 ChatGPT: 정정 이전의 단서
-- [[pedagogy-ai-mistakes]] — AI 실수의 교수법
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 해결책 보류는 좌절 비용을 피했지만 학생 선호에서는 졌다
-- [[shen-ai-skill-formation-2026]] — AI 없이 오류 중앙값 3개 대 있을 때 1개, 그리고 무보조 퀴즈 점수 17% 상승 (Shen & Tamkin 2026)

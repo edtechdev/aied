@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
+connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -63,7 +65,6 @@ Istraživanje u bazi znanja konvergira prema nekoliko međusobno povezanih dimen
 - **Pouzdanje i stavovi:** nastavničko [[self-efficacy|pouzdanje]] oblikuje prihvaćanje. [[teacher-ai-adoption-confidence|Istraživanje prihvaćanja]] nalazi da pouzdanje, potpora i percipirana korisnost pokreću to upotrebljavaju li nastavnici umjetnu inteligenciju doista, a [[ai-pedagogical-orientation|orijentacije nastavnika]] oblikuju prihvaćanje u istraživanju i poučavanju.
 
 - U anketi u pet zemalja s 1.405 nastavnika u K-12 spremnost za umjetnu inteligenciju predviđala je pozitivna uvjerenja o nastavnoj vrijednosti generativne umjetne inteligencije (B = 0,59, R² = 0,50), ali i *veću* zabrinutost za [[creativity|kreativnost]] (B = 0,18), a isti prediktori objasnili su samo 7% i 6% zabrinutosti: izgradnja spremnosti sama po sebi ostavlja zabrinutost netaknutom ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu i sur. (2026.)]]).
-
 
 Spremnost treba poredati i mjeriti u skladu s tim: model sposobnosti i odluke smješta dokazanu sposobnost u umjetnoj inteligenciji uzvodno od stava i pouzdanja i predlaže pokazatelje uspjeha, a ne samo samoprocjenu: zadatke oblikovanja nastave, zadatke vrednovanja poticaja s ugrađenim pogreškama, prosudbe o valjanosti sadržaja i rubrike za artefakte iz učionice ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026.)]]).
 
@@ -119,7 +120,6 @@ Literatura o profesionalnom razvoju u bazi znanja prepoznaje djelotvorne pristup
 - **Potpora mora biti diferencirana prema iskustvu i osposobljenosti za umjetnu inteligenciju.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi i sur. (2026.)]] našli su da to kako nastavnici doista komuniciraju s umjetnom inteligencijom pri oblikovanju nastave ovisi o *međudjelovanju* nastavnog iskustva i osposobljenosti za umjetnu inteligenciju, a ne o jednom od toga zasebno. Iskusni nastavnici s visokom osposobljenošću kritički prilagođavaju rezultat umjetne inteligencije kontekstu (ponovno poticanje, razrada), dok novaci, čak i tehnički tečni, teže izravnom prihvaćanju odgovora umjetne inteligencije i rijetko uzimaju u obzir učenike i kontekst. To zagovara profesionalni razvoj utemeljen na profiliranju: kontrolne popise za vrednovanje odgovora i predloške poticaja za novake te praktičnu izgradnju vještina za iskusne nastavnike s nižom osposobljenošću.
 - **Sama vremenska korist slijedi iskustvo i pouzdanje, a ne samo oblikovanje potpore.** U pokusu [[roy-aila-lesson-planning-teacher-choices-2026|Roya i sur. (2026.)]] s pomoćnikom za planiranje nastave utemeljenim na umjetnoj inteligenciji smanjenje opterećenja bilo je veće kod nastavnika s nižim pouzdanjem u predmetno znanje, nižim pedagoškim znanjem, kraćim stažem u profesiji ili višim pouzdanjem u tehnologiju. Osposobljenost i pouzdanje stoga su dio učinka intervencije, a ne samo njezina prihvaćanja.
 
-
 Konfiguracija uvjerenja druga je os profiliranja: među 40.680 nastavnika u TALIS-u 2024. isti status neupotrebe prikrivao je suprotne prepreke: 83,3% profila „ravnodušnih“ navelo je pedagoške zadrške, dok je 66,2% profila „odmjerenog prihvaćanja“ navelo nedostatno znanje i vještine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang i Jin (2026.)]]). Profesionalno učenje povezano s umjetnom inteligencijom pratilo je pripadnost profilu dosljednije od dobi ili obrazovanja.
 
 - **Nastavnici ne dijele jednu koncepciju umjetne inteligencije.** Fenomenografska studija sa 16 danskih nastavnika u visokom obrazovanju našla je tri koncepcije poučavanja s umjetnom inteligencijom i tri koncepcije učenja s umjetnom inteligencijom, pa jedinstveni model radionice doseže samo dio svake skupine nastavnika ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026.)]]).
@@ -130,7 +130,6 @@ Konfiguracija uvjerenja druga je os profiliranja: među 40.680 nastavnika u TALI
 - **Nastavnici preferiraju tečnost, ali učenje pripisuju postupnoj potpori.** Među 41 nastavnikom, osnovni model GPT-4o bio je ukupno preferiran (21 prema 13), no fino podešeni trokoračni model (prepoznaj, istraži, razvij) češće je bio povezan s učenjem (18 prema 13), a dvije su se prosudbe slagale samo 39% vremena ([[teachingcoach-chatbot-instructor-guidance|Molnar i sur. (2026.)]]).
 - **Institucionalna potpora:** [[educational-development|profesionalni razvoj]] mora se upariti s institucionalnom infrastrukturom ([[educational-policy-ai|politika]], [[institutional-change-framework-ai|institucionalna promjena]]) za održivo usvajanje.
 - **Alati za izradu ne jamče pedagošku vjernost.** [[teachers-configure-educational-chatbots-2026|Riahi i sur. (2026.)]] proučavali su 27 nastavnika srednjih škola koji su konfigurirali obrazovne [[conversational-ai|chatbote]] u radionicama profesionalnog razvoja, analizirajući fokus-grupe uz zapise konfiguracije i interakcija. Nastavnici su chatbot tretirali kao nastavnu potporu omeđenu pravilima koja su sami odredili, no usklađenost namjere i ponašanja utemeljena na zapisima bila je snažnija za odazivnost (88,9%) i personu (81,5%) nego za pravila (70,4%) i svrhu (59,3%). Konfigurabilne kontrole same po sebi ne prenose pedagošku namjeru u ponašanje, pa je izražavanje, testiranje i dotjerivanje pedagogije chatbota samo kompetencija koju alati za izradu moraju poduprijeti.
-
 
 Dizajnerski protuprimjer tretira kompetenciju kao situacijsku, a ne kao stepenicu na ljestvici. [[adaptive-ai-model-teacher-educators-2025|Eyalova dizajnersko-temeljena studija iz 2025. sa 22 edukatora nastavnika u visokom obrazovanju]] dala je sudionicima da pregledaju pet objavljenih okvira procjene i suoblikuju alternativu organiziranu oko tri međusobno povezane osi: prilagodba kontekstu (infrastruktura, sociokulturni čimbenici, lokalne potrebe, razvojna faza), profesionalne potrebe (disciplina, pedagogija, vodstvo, potpora) i dinamičan razvoj. Model odbija fiksne razine kompetencije i dopušta nelinearno napredovanje, a isporučuje se s upitnikom refleksivne samoprocjene od 20 čestica ocijenjenih od 1 do 5. Njegova je validacija samo [[qualitative-research|kvalitativna]], bez [[quantitative-research|kvantitativnog]] testiranja pouzdanosti, pa ostaje dizajnerski doprinos, a ne validiran instrument.
 - **Metaanalitička procjena.** [[teacher-ai-literacy-professional-development-meta-2026|Guo i sur. (2026.)]] objedinili su 212 veličina učinka iz 34 studije i procjenjuju profesionalni razvoj pismenosti nastavnika o umjetnoj inteligenciji na g = 0,76 (95% CI [0,50, 1,02]), najsnažnije za vještine (g = 0,91), a najslabije za stavove i vrijednosti (g = 0,61); ispravak za očiti selekcijski efekt objavljivanja snižava procjenu na oko g = 0,49.
@@ -177,96 +176,3 @@ Voditelji odjela mogu kompetenciju vrednovati demonstracijom. Ljestvice samoproc
 - **„Obuka u poticajima poboljšava nastavničke materijale.“** **Obuka u poticajima kupuje vrijeme, a ne bolje materijale:** u **preregistriranom randomiziranom kontroliranom pokusu sa 204 nastavnika** Appel, Fervers i Piepenburg (2026.) našli su da je ChatGPT poboljšao **vrijeme** utrošeno na pripremu, dok kvaliteta materijala nije slijedila. Dobitak u učinkovitosti stvaran je i nije dobitak u kvaliteti.
 - **„Kada nastavnici konfiguriraju chatbot, propust je činjenična pogreška.“** **Kada nastavnici konfiguriraju chatbot prirodnim jezikom, prevladavajući je propust izgubljena namjera, a ne netočne činjenice**: botovi **preskaču** korak koji je nastavnik namjeravao. Praćenje uputa propada strukturno, a ne činjenično.
 - **„Tehnička vještina odlučujući je sloj.“** **Pedagoško znanje odlučujući je sloj**: međurazinska studija [[ai-education|obrazovanja o umjetnoj inteligenciji]] u srednjim školama [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen i sur., 2026.]]. Kompetencija koja određuje ishod ona je u koju većina programa obuke najmanje ulaže.
-
-## Povezani koncepti
-
-- [[ai-literacy]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[prompt-engineering]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[assessment-validity]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[self-efficacy]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[educational-policy-ai]]
-- [[ai-education]]
-- [[tpack]]
-- [[teacher-education]]
-- [[pedagogy]] - Kišobran: pedagogije i strategije poučavanja u obrazovanju s umjetnom inteligencijom
-
-## Povezani članci
-
-
-- [[feng-ai-literacy-psychological-dimensions-2026]] — Šest dimenzija nastavničke pismenosti o umjetnoj inteligenciji, među njima kontekstualno znanje i trajni profesionalni rast (Feng i Carolus 2026)
-- [[ding-genai-colleague-teacher-depletion-2026]] — 436 nastavnika dizajna: dobitci u kompetenciji i UI anksioznost rastu zajedno, pa o ishodu odlučuje podrška, a ne obuka (Ding i sur. 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026]] — Pregled iRAISE u četiri zemlje: 84 od 194 države stavljaju MIL izvan tehničkih vještina u kurikule, a ljudski čimbenici odlučili su ishode u sva četiri sustava (Cerioli 2026)
-- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 nastavnika početnika revidiralo je UI planove lekcija; prilagodba je bila najveća praznina (Wilcoxen i sur. 2026)
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Istraživačka kompetencija nastavnika kemije nakon profesionalnog razvoja potpomognutog umjetnom inteligencijom: mješovita studija prije i poslije
-- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Personalizacija matematičkih zadataka u srednjoj školi uz ChatGPT s nastavnikom u petlji (Walkington i sur. 2026.)
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Koji su nastavnici dobili vrijeme za planiranje: niže pouzdanje u predmetno znanje, niže pedagoško znanje, kraći staž ili visoko pouzdanje u tehnologiju
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Nastavnici prihvaćaju umjetnu inteligenciju, a pogrešno razumiju kako radi (Aji i sur. 2026.)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Spremnost nastavnika i tehnološko-pedagoška integracija kao najčešće izvješćivani izazov u 54 studije o matematičkom obrazovanju (Manto i sur. 2026.)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodalna pismenost o procjeni: jednogodišnji program u kojem su se znanje i kompetencija pomaknuli, a vrijednosti nisu
-- [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK profesionalni razvoj: pola standardne devijacije dobitka i negativni dobici koji se čitaju kao rekalibracija - Utjecaj programa profesionalnog razvoja na pismenost nastavnika K-12 o umjetnoj inteligenciji: sistematski pregled i metaanaliza
-- [[ailithub-ai-literacy-case-infrastructure-2026]] — Nastavnici su označili vlastite slučajeve upotrebe umjetne inteligencije u učionici i lako dosegli praktične kompetencije, a društvene i etičke rijetko (Wang i sur. 2026.)
-- [[typology-generative-ai-tools-education-2026]] — Odabir alata kao ostvarenje djelotvornosti edukatora
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Sistematski pregled generativne umjetne inteligencije u poučavanju i učenju u K-12 (Marzano 2026.)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Nastavničko profesionalno znanje u obrazovanju o umjetnoj inteligenciji u K-12: TAIK nasuprot TPAIK i učenje učenika (Shen i sur. 2026.)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Obrasci interakcije nastavnika i umjetne inteligencije u oblikovanju nastave prema iskustvu i osposobljenosti za umjetnu inteligenciju (Choi i sur. 2026.)
-- [[preservice-teachers-responsible-genai-2026]] — Odgovorna upotreba generativne umjetne inteligencije među budućim nastavnicima: posljedice za kurikulum (Kohnke i sur. 2026.)
-- [[melo-llm-classroom-observation-teach-2026]] — Promatranje nastave pomoću LLM-a za profesionalni razvoj nastavnika (Melo i sur. 2026.)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generativna umjetna inteligencija kroz prikaze, raščlambe i približavanja: proba, strukturirana povratna informacija i oprezi o točnosti
-- [[genai-pd-ai-pck-learning-gain-2026]] — Djelotvornost intenzivnog programa profesionalnog razvoja o generativnoj umjetnoj inteligenciji
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeliranje AI-TPACK-a kroz tijekove rada nastavnika s više agenata
-- [[teacher-ai-teaming-five-levels]] — Prema sinergijskim interakcijama nastavnika i umjetne inteligencije
-- [[teacher-education-ai-literacy-sdt-2026]] — Obrazovanje nastavnika za pismenost o umjetnoj inteligenciji kroz teoriju samoodređenja
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Obuka o pismenosti u generativnoj umjetnoj inteligenciji utemeljena na dizajnerskom istraživanju
-- [[rail-ed-genai-literacy-teacher-education]] — Promišljanje pismenosti u generativnoj umjetnoj inteligenciji u obrazovanju nastavnika
-- [[sec-ai-literacy-narrative-review-2026]] — Integracija socijalno-emocionalnih kompetencija s pismenošću o umjetnoj inteligenciji
-- [[teacher-ai-adoption-confidence]] — Prihvaćanje umjetne inteligencije među nastavnicima: pouzdanje i potpora
-- [[ai-pedagogical-orientation]] — Orijentacije nastavnika oblikuju prihvaćanje umjetne inteligencije
-- [[ai-literacy-assessment-misalignment]] — Neusklađenost samoprocijenjene i izvedbene kompetencije za umjetnu inteligenciju
-- [[quest-ai-inquiry-preservice-teachers]] — Istraživanje uz potporu umjetne inteligencije za buduće nastavnike
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Okvir spremnosti nastavnika EPIQ-AI
-- [[llm-cultural-relevance-k12]] — LLM-ovi za kulturno relevantnu pedagogiju u K-12
-- [[institutional-change-framework-ai]] — Okvir institucionalne promjene za umjetnu inteligenciju
-- [[teachingcoach-chatbot-instructor-guidance]] — Chatbot TeachingCoach za usmjeravanje nastavnika
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generativna umjetna inteligencija kao kriza identiteta, a ne jaz u vještinama
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Procjena digitalne kompetencije nastavnika za oblikovanje kurikuluma s generativnom umjetnom inteligencijom (Guillén-Gámez 2026.)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — fenomenografska studija koncepcija umjetne inteligencije sveučilišnih nastavnika
-- [[ukraine-ai-literacy-secondary-framework-2026]] — Petorazinski okvir pismenosti o umjetnoj inteligenciji i profesionalni razvoj za ukrajinske srednjoškolske nastavnike (Marienko i sur. 2026.)
-- [[wang-teacher-ai-co-design-review-2026]] — Suoblikovanje zadataka učenja između nastavnika i umjetne inteligencije: trendovi i perspektive (Wang i sur. 2026.)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u diferenciranim grupnim aktivnostima koje osmišljava umjetna inteligencija (Talebzadeh 2026.)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Inženjerstvo poticaja i odabir modela kao prediktori kvalitete povratnih informacija umjetne inteligencije (Jacobsen i sur. 2026.)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks krivnje zbog umjetne inteligencije: anticipatorna krivnja i četiri profila moralnog odgovora među akademskim osobljem (Vassallo 2026.)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Trosatna sesija profesionalnog razvoja podigla je percipiranu korisnost i lakoću upotrebe, ali ne i izrečenu namjeru usvajanja (Mesenhöller i Böhme 2026.)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Sistematski pregled umjetne inteligencije u početnom obrazovanju nastavnika razredne nastave matematike: etika obrađena u samo tri od jedanaest studija (Pinto i sur. 2026.)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Anketa AAC&U i Elona među 1.057 američkih nastavnika: pripremljenost, neupotreba i jaz između pojedinačne i institucionalne politike (Watson i Rainie 2026.)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Međuinstitucionalni laboratorij nastavnika: integracija umjetne inteligencije kao oblikovanje nastave u obrazovanju nastavnika
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Sistematski pregled 33 instrumenta za mjerenje pismenosti nastavnika o umjetnoj inteligenciji: 31 samoprocjena, dva objektivna testa znanja, nijedan zadatak izvedbe (Zainal, Mohd Matore i Maat 2026.)
-- [[adaptive-ai-model-teacher-educators-2025]] — Dizajnerski adaptivni model pismenosti o umjetnoj inteligenciji i refleksivni upitnik od 20 čestica suoblikovan s 22 edukatora nastavnika (Eyal 2025.)
-- [[physics-faculty-learning-community-ai-2026]] — Niz radionica za djelotvornu upotrebu umjetne inteligencije u nesigurnim vremenima: izgradnja zajednice za učenje nastavnika fizike
-- [[authentic-assessments-generative-ai-pilot-2026]] — Oblikovanje autentičnih procjena s generativnom umjetnom inteligencijom: pilot-studija Assessment Authentifire u visokom obrazovanju
-- [[teachers-configure-educational-chatbots-2026]] — Hoće li podučavati kako je namijenjeno? Kako nastavnici konfiguriraju obrazovne chatbote s umjetnom inteligencijom
-- [[capability-decision-model-teacher-readiness-2026]] — Poredani model spremnosti nastavnika koji prvo ide na sposobnost, s pokazateljima sposobnosti utemeljenima na izvedbi
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Međunarodna anketa među 1.405 nastavnika K-12: spremnost predviđa pozitivna uvjerenja, ali ne i zabrinutost
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Četiri profila uvjerenja nastavnika iz TALIS-a 2024. povezuju profesionalno učenje i prepreke specifične za profil s upotrebom umjetne inteligencije
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Oblikovanje modula mikroučenja o umjetnoj inteligenciji za sveučilišne nastavnike u strukovnom obrazovanju nastavnika: studija utemeljena na dizajnerskom istraživanju
-- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: kako chatboti koje konfiguriraju nastavnici propadaju u stvarnoj upotrebi i kako ih popraviti
-- [[chen-ai-visualization-teaching-competency-scale-2026]] — Razvoj i validacija ljestvice kompetencije poučavanja vizualizacijom potpomognute umjetnom inteligencijom
-- [[bursic-ai-residency-education-curriculum-2026]] — Prepreke integraciji umjetne inteligencije u kurikulume specijalizacija: kvalitativni intervjui s dvanaest liječnika voditelja
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Zadovoljenje osnovnih psiholoških potreba nastavnika i namjere upotrebe generativne umjetne inteligencije: posredujuća uloga angažmana u profesionalnom razvoju
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — Stavovi skandinavskih nastavnika prema generativnoj umjetnoj inteligenciji: istraživanje povezanosti
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Samoprocjenjena razina kompetencije nastavnika predviđena uglavnom institucionalnom pripadnošću, a ne osobnim osobinama
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Usvajanje prosuđeno disciplinu po disciplinu, uz studentsko rasuđivanje kao glavnu brigu
-- [[chen-future-faculty-development-ai-2027]] — Kompetencija raspodijeljena po nastavničkom timu, s temeljnom tehničkom i etičkom sposobnošću univerzalno
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Okviri nabrajaju kompetencije i ostavljaju uvjete prosudbe neobjašnjenima

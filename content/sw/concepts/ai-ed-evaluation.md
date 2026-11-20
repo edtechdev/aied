@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -110,69 +112,3 @@ Viwango vilivyowekwa kwa muktadha vinahitajika: [[zhang-tutormoments-2026|Zhang 
 - **"Utambuzi na uzalishaji ni uwezo unaolingana."** **Utambuzi si uzalishaji.** Kwenye TutorCaseBench, bora kati ya **mifano 11** ilichagua mkakati ulioandikwa kwenye **63.0% ya vipengele vya chaguo nne** lakini ilikidhi kigezo cha utekelezaji kilichoandikwa mara chache zaidi. Kuchagua jibu sahihi kati ya manne na kulizalisha ni kazi tofauti.
 
 - **"Alama za mfano zina maana bila chombo kilichothibitishwa."** Mitihani iliyoundwa kwa kozi ilizalishwa kwa **madarasa 71** na ikalinganishwa na vipengele vya AP Statistics vilivyoandikwa na binadamu kwa mfano wa **Bayesian hierarchical 2PL**; chombo kilipangwa kabla alama hazijatafsiriwa.
-
-## Dhana Zilizounganishwa
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[assessment-validity]] — Uhalali wa tafsiri katika tathmini ya AIEd
-- [[educational-measurement]] — Nadharia ya upimaji ya kutathmini kujifunza
-- [[psychometrically-aware-ai]] — Kutumia kipimetriki katika tathmini inayotegemea AI
-- [[benchmark]] — Viwango vilivyo sanifu vya kutathmini mifumo ya AI
-- [[automated-assessment]] — Mifumo ya alama na upimaji inayotegemea AI
-- [[learning-analytics]] — Uchanganuzi wa tabia ya kujifunza unaotegemea data
-- [[research-methods-aied]] — Mbinu za utafiti za AI katika elimu
-- [[learning-gains]] — Kupima faida za kujifunza kutoka zana za AI
-- [[formative-assessment]] — Tathmini inayoendelea kuongoza mafunzo
-- [[summative-assessment]] — Tathmini ya mwisho: miundo inayopinga AI (mtihani wa mdomo, wa ufuatiliaji, wa kitabu kilichofungwa)
-- [[authentic-assessment]] — Tathmini ya utendaji wa ulimwengu halisi, unaoweza kuhamishwa
-- [[human-in-the-loop-ai]] — Usimamizi wa binadamu wa tathmini ya AI
-- [[trust-calibration]] — Kusawazisha uaminifu katika mifumo ya AI
-- [[hallucination-risk]] — Hatari ya maudhui yaliyotungwa katika matokeo ya AI
-- [[intelligent-tutoring]] — Kutathmini mifumo ya kufundisha ya AI
-- [[agentic-ai]] — Kutathmini tabia ya wakala huru ya AI
-
-## Makala Zilizounganishwa
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: kutathmini walimu wa LLM kwa wanafunzi wenye tabia zinazopinga (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Kutambua Uelewa wa Kiutaratibu wa Kielimu katika Video za Ufundishaji wa Mtandao
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Alama za jukwaa hazipati: tathmini ya vipimo vingi ya mawakala wa kufundisha ya AI
-- [[assessment-latent-structure-human-llm-2026]] — Je, vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kutathmini ubora wa mitihani iliyozalishwa na AI: utafiti wa shamba wa kiwango kikubwa
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Ulinganifu wa mbinu za kufundisha wa neuro-symbolic (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — Kiwango cha uainishaji wa njia tatu cha mawakala wa kufundisha wa LLM (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — Kutathmini VLM juu ya DrawEduMath: maudhui ya makosa ni magumu zaidi (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — Kupima maarifa ya mbinu za kufundisha ya LLM (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — Uthibitisho wa uchunguzi wa darasa wa LLM: uaminifu dhidi ya usahihi (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Wasaidizi wa hifadhi ya maarifa ya AI ya OER ya ndani ya mahali: tathmini ya vipimo vingi
-- [[ground-truth-reliability-aied]] — Kuboresha Ukweli wa Msingi: Mabadiliko Manne Kuelekea Kuboresha Uaminifu na Uhalali
-- [[calibrating-trustworthiness-llm-education-2026]] — Kusawazisha Uaminifu: Kubuni Pamoja Vigezo na Manyunuzi
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Kutathmini Uwezo wa Kufundisha wa LLM
-- [[machines-misread-pedagogical-quality]] — Kwa Nini Mashine Husoma Vibaya Ubora wa Mbinu za Kufundisha: Ulinganifu wa Binadamu–Mashine
-- [[cong-confidence-asag-2026]] — Upimaji wa Majibu Mafupi wa Kiotomatiki na LLM
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Uhandisi wa Ilani wa Binadamu katika Mzunguko kwa Tathmini ya Uundaji
-- [[llm-cognitive-diagnosis-handwritten-math]] — Kupima LLM katika Kutambua Ujuzi wa Kiakili wa Wanafunzi
-- [[tutoring-effectiveness-index]] — Kielelezo cha Ufanisi wa Kufundisha: Kutabiri Ubora wa Mwalimu wa Hisabati wa LLM
-- [[jeon-isd-agent-bench-2026]] — Kiwango cha Wakala wa ISD
-- [[tool-invariant-framework-agentic-ai]] — Fremu Isiyobadilika na Zana ya Kufundisha na Kutathmini Mbinu za Kikokotozi
-- [[valid-student-simulation-llm-2026]] — Kuelekea Ufano Halali wa Mwanafunzi kwa Mifano Mikubwa ya Lugha
-- [[llm-difficulty-calibration-programming-exams-2026]] — Kutoka Mifano Iliyotathminiwa hadi Misaada ya Tathmini
-- [[socratic-tests-conversational-assessment]] — Msingi wa Nadharia ya Mitihani ya Socratic
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye Uwajibikisho katika Enzi ya AI
-- [[authentic-products-authenticated-processes-2026]] — Kutoka Bidhaa Halisi hadi Michakato Iliyothibitishwa
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis ya matokeo ya kielimu ya AI ya kizalishaji
-- [[zhang-tutormoments-2026]] — Wakati Msaada Hau Saidii: kutathmini walimu wa AI kwa mapambano yenye tija
-- [[elbench-education-llm-benchmark-2026]] — ELBench: kiwango cha LLM ya elimu
-- [[ai-grading-handwritten-physics-2026]] — Upimaji wa AI wa tathmini za fizikia za mkono (Olympiad)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Kuboleza LM inayojielezea kwa analytics ya kujifunza
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Tathmini ya meta-analytical ya adaptive + EdTech ya AIEd
-- [[xiong-ai-educational-measurement-review-2026]] — Jukumu la AI katika upimaji, kipimetriki, tathmini
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Kutathmini Ukufunzi wa AI kwa Kasi ya Uvumbuzi: Majaribio Madogo ya Nasibu Yanayoongozwa na Wataalam wa Jukwaa la Ukufunzi wa AI katika Sayansi ya GCSE
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Tathmini ya Ubora wa Kipengele cha Hisabati Inayotegemea Mchakato
-- [[durable-skills-measurement-ai-teammates-2026]] — Kuelekea Upimaji Unaoweza Kupanuka wa Ujuzi wa Kudumu
-- [[pivot-generative-video-tutors-stem-2026]] — Kutoka Uzalishaji wa Maudhui hadi Msaada wa Kujifunza: Walimu wa Video wa Kizalishaji Wanaoongozwa na Mbinu za Kufundisha kwa Kujifunza kwa STEM
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ukufunzi wa AI na binadamu hutoa faida za kujifunza za GRE zinazolingana
-- [[synthetic-educational-data-structural-fidelity-2026]] — Vigezo vya Uaminifu Havipati: Ukaguzi wa Muundo juu ya Data ya Kielimu ya Kisanii
-- [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano yaliyofanyiwa mafunzo ya awali ya tathmini ya mbinu za kufundisha ya maswali ya kielimu yanayosaidiwa na AI mapya
-- [[llm-judge-evaluation-educational-ai-2026]] — Wakati Watahini Wanalia Mbwamwitu: Masomo kutoka Tathmini ya Uzalishaji ya LLM-kama-Mhakimu katika AI ya Kielimu
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Ramani ya bibliometriki inaweza kufichua kile utamaduni wa tathmini unachozawadia
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: vigezo vya tathmini huunda mafanikio yanayopimwa katika ufundishaji wa hisabati kwa LLM (Lee et al. 2026)

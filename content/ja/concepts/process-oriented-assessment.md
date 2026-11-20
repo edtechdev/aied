@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -94,47 +96,3 @@ Thapa and Lewisの説明は概念的です。参加者も、データ収集も�
 - **「高い点数は、学生が私たちの設計した仕事をしたことを含意する」** 痕跡は**点数から完全に乖離しえます**。**150件の学生とAIの会話**を通じて、**41%が正確に1.00の課題スコアを持ちながら、観察可能な認知的参加は様々でした**。点数は飽和し、それを生むはずだった過程はそうではありません。
 - **「プロセスのデータは規模において扱いきれない」** 求められる記録は、**約440人のK-12教員に奉仕した6週間の非同期の大学院研究方法コースの6学期**にわたって、コース規模で実行可能であることが示されました。物流上の問題は解決可能であり、その反論はコストを過大評価しています。
 - **「問題解決はプロセスで評価するにはあまりに全体論的である」** それは**4つの段階と8つの診断的な下位技能**として具体化でき、LLMが**段階固有の問いとルーブリック**を生成できます。**5人の教員と64人の学生**で用いられました。分解がプロセスを読めるものにし、評価可能にしたのです。
-
-## 関連概念
-- [[pedagogical-patterns]] — 段階的なチェックポイントとプロセスの証拠を、連なりとして設計するもの
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## 関連記事
-- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — 三つの証拠の流れ、対応づけられた課題ペア、そしてメタコンピテンスとしてのオーケストレーション
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — 既定の失敗は、決してフェードアウトしないAI支援と成果物のみの評価との組み合わせだと論じる批判的ナラティブレビュー（Salameh 2026）
-- [[alam-process-oriented-collaborative-essays-2026]] — 学位アプレンティスシップ1年次における、採点対象として協働で執筆するプロセスエッセイ：ルーブリックに反復と協働を組み込み、明示された境界内でのGenAI利用を許可（Alam & Jackson 2026）
-- [[genai-performance-vs-learning]] — パフォーマンスは学習ではない：プロセス指標に基づく研究アジェンダ（Yan et al. 2026）
-- [[human-centered-ai-teacher-educators-2026]] — 正当化と省察に基づく、AI耐性のあるプロセス型課題を求める教師教育者たち（Baran et al. 2026）
-- [[sharma-judgment-visible-genai-assessment-2026]] — 判断を可視化するために選ばれた、注釈付きの意思決定の軌跡、口頭での弁明、草稿間の差分
-- [[munoz-misconduct-allegation-evidence-2026]] — 不正行為の事例ファイルに含まれているものと、そこに欠けているプロセス証拠
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — 評価証拠が置き換えられたとき、どの推論が危険にさらされるのか
-- [[beyond-detection-authentic-assessment-ai-2025]] — 真正性は取り締まるのではなく、再設計しなければならない
-- [[authentic-products-authenticated-processes-2026]] — 真正な成果物と、それを生み出したプロセス
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 推論をその場でライブに示させるAI耐性のある形式としての口述試験
-- [[thapa-lewis-process-oriented-assessment-2026]] — 認識論的真正性と、プロセス志向の評価を支える四つの設計上のコミットメント（Thapa & Lewis 2026）
-- [[metacognitive-processes-genai-interaction-logs-2026]] — チャネル依存的なプロセス証拠：ログと発話思考法は異なるプロセスを明らかにする
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace：AI統合ライティングのためのマルチビュー分析環境
-- [[epistemic-ownership-ai-mediated-education-2026]] — 同じパフォーマンス、異なるプロセス：AI媒介型教育における認識論的オーナーシップ
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：LLM生成問題を通じて、教師による生徒の数学的問題解決スキルの診断を支援する
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 6学期・約440名の教師にわたり96%の完了率を維持した、AI対話のチェックポイント記録
-- [[rubrics-genai-process-based-assessment-2026]] — Biggsの3Pモデルに由来する三つのルーブリック次元：エージェンシーと監督、対話的スキャフォールディング、認知的主権（Oviedo & Díaz 2026）
-- [[jelson-students-chatgpt-essay-writing-2026]] — CodeMirrorエディタとログ記録付きチャットパネルにより、1回のエッセイ執筆セッションがプロセス証拠となったが、タイピングと思考を切り分けられない限界も残る（Jelson et al. 2026）
-- [[xian-process-visualization-feedback-news-translation-2026]] - プロセスの可視化と1回の省察セッションが、編集量を増やすことなく、修正を表層から意味の水準へと移した
-- [[webb-davies-voice-first-written-assessment-2026]] — 自宅で書かれた提出物を採点する前に、観察下で推論を確保する二段階の筆記評価。結び付けが不明瞭な場合は条件付きの口頭試問（viva）を行う（Webb-Davies, Ratner & Bassett 2026）
-- [[black-box-assessment-winstone-2026]] — ブラックボックス評価：プロセスの窓、証拠としての誤り、可視性によるインテグリティ（Winstone, Gravett & Elkington 2026）
-- [[francis-pace-framework-genai-assessment-2026]] — PACE：4段階のエージェンシー尺度でプロセスを採点する（Francis et al., 2026）
-- [[performance-without-capability-genai-assessment-validity-2026]] — 可視化されたプロセスでもなお文書による代替が生じうる理由を説明する2次元フレームワーク(認知的責任、プロセスの可視性)

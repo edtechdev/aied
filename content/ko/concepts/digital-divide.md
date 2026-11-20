@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +48,6 @@ ai_assist:
 - **코드 전환은 그 자체로 하나의 배제입니다.** 대부분의 [[llm]] 강의 도구는 단일 언어(영어) 오디오와 안정적인 인터넷을 전제로 하여, 영어와 가정 언어가 섞인 교실을 배제합니다. 인도의 UDISE+ 데이터는 학교 인터넷 접근률이 약 54%이며 도시-농촌 간 격차가 24포인트에 이르는 것으로 나타났으며, 온디바이스 전사와 로컬 우선 저장을 쓰는 이중언어 도구가 이에 대응합니다([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
 - **공공 디지털 서비스는 격차를 재생산합니다.** 케냐의 eCitizen 전자정부 플랫폼은 주로 영어이고 스와힐리어가 제한적이며 텍스트 전용 인터페이스여서, 낮은 문해력, 시각 장애, 농촌 청년을 배제합니다. 네 개의 생계 플랫폼(Ajira Digital, KRA iTax, HELB, YEDF)에 걸친 인터뷰와 11명 라운드테이블은 언어 기술과 WCAG 2.1에 기반한 설계를 포용의 지렛대로 지목합니다([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
-
 
 ## AI는 격차를 심화하고(때로는 좁힐 수 있습니다)
 
@@ -97,41 +98,3 @@ AI는 기술이 지니는 형평성 함의에 새로운 층위를 더합니다. 
 - **"브라우저에서 실행되면 이용 가능한 것입니다."** 대부분의 LLM 강의 도구는 **단일 언어 영어 오디오와 안정적인 인터넷**을 전제로 하며, 바로 그 때문에 영어와 가정 언어가 섞인 교실을 배제합니다. 인도의 UDISE+ 데이터는 학교 인터넷 접근이 그 전제가 요구하는 수준에 훨씬 못 미침을 보여 주었습니다. 전제된 인프라 위에 세운 도구는 필요가 가장 큰 환경을 조용히 배제합니다.
 - **"디지털 리터러시와 AI 사용은 같은 매개 변수입니다."** 네덜란드 **6학년 학생 4,497명** 연구는 배경과 성격을 학습 성과에 잇는 **두 개의 구별되는 매개 경로**, 즉 AI 사용과 디지털 리터러시를 분리했습니다. 둘은 서로 바꿔 쓸 수 없으며, 하나를 높이는 개입이 다른 하나를 자동으로 높이지 않습니다.
 - **"[[simulation|시뮬레이션]]은 비용 장벽을 없앱니다."** STEM 고등교육의 **디지털 트윈 연구 11편**에 대한 체계적 문헌고찰은 구성당 **\$2,000-\$15,000**의 하드웨어 비용을 발견했습니다. 시뮬레이션 실험실은 피하려 했던 장비비를 재현할 수 있으므로, 가상 제공의 비용 논거는 전제하지 말고 점검해야 합니다.
-
-## 연결된 개념
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## 연결된 문서
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 나이지리아 고등교육의 제도 구조, 디지털 불평등, AI 통합
-- [[ai-divide-ses-personality-primary-education-2026]] — 초등교육에서의 사회경제적 지위, 성격, AI 격차(Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: 매개자로서의 교사를 통한 튜터링이 기기 없는 학생에게 닿다(Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — 학교 AI 교육은 심리적 격차는 좁히지만 인지적 준비 격차는 좁히지 못한다
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM 접근의 격차를 측정하고 완화하기
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 비계화된 AI 리터러시(SAIL) 프레임워크
-- [[oecd-digital-education-outlook-2026]] — OECD 디지털 교육 전망 2026
-- [[aaai2026-prompting-literacy-k12]] — K-12 학생에게 AI 챗봇의 책임 있는 사용 가르치기
-- [[structural-silence-underrepresented-language-ai-2026]] — 구조적 침묵과 소수 대표 언어
-- [[sec-ai-literacy-narrative-review-2026]] — AI 리터러시에서의 사회정서 역량
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — 다언어 저자원 맥락을 위한 AI 기반 적응형 학습 플랫폼
-- [[ai-science-chemistry-education-systematic-review-2025]] — 과학/화학 교육에서의 AI에 관한 체계적 문헌고찰
-- [[unesco-ai-guidelines-chemical-education-2026]] — 화학 교육으로 옮긴 UNESCO AI 지침: 인식론적 표류
-- [[lodge-loble-cognitive-offloading-2026]] — AI, 인지적 오프로딩과 교육에 대한 함의(Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 사회주의 인문주의적 AI 리터러시와 공정 이용
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: 농촌 로보틱스 접근은 기기 접근이 아니라 멘토링의 지리를 따른다(Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 남아공 HDI에서 분배적 문제로서의 디지털 불평등 대 인식론적 문제로서의 알고리즘 식민성
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: 교육 형평성을 향한 저비용 가정 언어 학습을 위한 로컬 우선 AI 에이전트 프레임워크
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — 디지털 트윈 실험실은 동시 접근 인원을 제약하는 장비비를 안고 있다
-- [[watanabe-genai-education-gap-europe-2026]] — 생성형 AI 사용에서 교육 격차가 인터넷의 격차보다 작은가?(Watanabe 2026)
-- [[amol-ai-egovernance-digital-inclusion-2026]] — eGovernance를 위한 AI: 디지털 포용을 위한 언어 기술 활용

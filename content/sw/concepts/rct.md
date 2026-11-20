@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,24 +65,3 @@ Kwa matibabu kamili ya muundo wa majaribio katika Akili Bandia katika elimu — 
 - **"Kugawa kwa nasibu kunathibitisha kadirio halali la kile zana inachofanya."** Kugawa kwa nasibu husawazisha vigezo vinavyochangia; hakutathminiwi kuwa mtu yeyote alitumia matibabu. Jaribio lililogawiwa kwa vikundi lenye upokeaji mdogo hukadiria **athari ya kutoa** zana, na nia-ya-kutibu na matibabu-kwa-waliotibiwa hujibu maswali tofauti.
 - **"Jaribio kubwa daima ni muundo bora."** Baadhi wanadai kuwa majaribio makubwa ya kawaida **hayawezi kwenda sambamba na mifumo ya ufundishaji inayobadilika kwa kiasi kikubwa wakati wa somo**, na badala yake hutumia miundo inayoongozwa na walimu inayobaki halali mfumo unapoendelea kubadilika. Jaribio la lengo linalosogea linaweza kuwa na nguvu ya kutosha na bado likapima mfumo ambao haupo tena.
 - **"RCT na ushahidi wa uchunguzi zinaweza kubadilishana."** RCT yenye **washiriki 1,174** iligundua GenAI **ilifunga takribani robo tatu ya pengo la tija linalotokana na elimu**, dai mahususi la sababu kwa kipindi mahususi. Uchunguzi unaeleza utaratibu na upokeaji; hauwezi kubeba kadirio hilo, na RCT haiwezi kueleza kwa nini.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — muundo nyuma ya ushahidi wenye nguvu zaidi wa msaada wa mwanafunzi
-
-## Makala Zilizounganishwa
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Muda wa kupanga somo ulipungua hadi 0.76 ya ule wa kikundi cha ulinganisho katika shule 108 za msingi, kwa dozi ya asilimia 7 ya matumizi ya zana
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Tokeo lililopimwa baada ya kuchelewa, si mwisho wa kikao
-
-- [[generative-ai-education-productivity-gaps]] — Je, AI ya kizalishaji inapunguza mapengo ya tija yanayotokana na elimu? Ushahidi kutoka kwa jaribio la nasibu
-- [[genai-can-harm-teaching-rct-2026]] — AI ya kizalishaji inaweza kudhuru ufundishaji: RCT
-- [[access-not-enough-ai-tutoring-2026]] — Ufikiaji haitoshi: msaada wa binadamu unaboresha ushirikiano na ufundishaji wa AI
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Kutathmini Ufundishaji wa AI kwa Kasi ya Ubunifu: Majaribio ya Nasibu-Mikro Yanayoongozwa na Wataalam wa Jukwaa la Ufundishaji wa AI katika Sayansi ya GCSE
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ufundishaji wa AI na wa binadamu huzalisha maendeleo ya kujifunza ya GRE yanayolingana
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Kugawa kwa vikundi kwa mwalimu: anguko la 0.37 SD katika alama za mwisho na anguko la 0.90 SD katika ushirikiano wa jukwaa, wenye upokeaji wa 15% na utabiri kwenye vikundi 34 (Liu et al. 2026)

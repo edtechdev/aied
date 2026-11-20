@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -51,12 +53,9 @@ ai_assist:
 - **ادراک شدہ نمونے کا ماخذ، نہ کہ مواد، گروہی خیال سازی کو شکل دیتا ہے۔** ایک جیسے ChatGPT سے پیدا شدہ نمونے جنہیں انسانی بمقابلہ AI کا لیبل دیا گیا، 113 جوڑیوں کے fNIRS ہائپر اسکیننگ مطالعے میں گروہی تخلیقیت بدل دیے: انسانی انتساب نے محرک کے دوران خیال کی انفرادیت اور پری موٹر و سپلیمنٹری موٹر خطوں میں دماغوں کے درمیان ہم آہنگی بڑھائی، AI انتساب نے صرف خیال سازی کے راستوں کے درمیان بدلاؤ بڑھایا، اور نمونے واپس لینے پر کوئی اثر برقرار نہ رہا ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]])۔
 - **نشوونما پانے والا نفاذ، نہ کہ صلاحیت، بچوں کی AI کی مدد والی تخلیقیت کو الگ کرتا ہے۔** بچوں اور بڑوں کے ChatGPT کے ساتھ شریک تخلیق کرنے کے پہلے نیورو امیجنگ موازنے میں، 6–7 سال کے بچوں اور بڑوں نے MRI اسکینر کے اندر وہی پانچ منٹ کی بولی جانے والی گفتگو کی۔ اسکینر سے باہر ناپی گئی تخلیقیت گروہوں میں مختلف نہ تھی۔ پھر بھی بڑوں نے فرنٹوپیرئیٹل کنٹرول، سالینس اور ڈورسل توجہ کے شبکهوں میں نمایاں طور پر زیادہ اندرونی رابطہ پذیری دکھائی، اور زیادہ تخلیقیت نے بڑوں میں مضبوط فرنٹوپیرئیٹل–سالینس جوڑ کی پیش گوئی کی مگر بچوں میں نہیں۔ مصنفین اسے اس فرق سے پڑھتے ہیں کہ AI مکالمے کے دوران تخلیقی ادراک *کیسے نافذ* ہوتا ہے، بنیادی صلاحیت میں فرق سے نہیں۔ یہ ایک ایسا سوال بھی اٹھاتا ہے جس کا جواب اس صفحے کے سہارے والے مشورے کو ابھی دینا نہیں پڑا تھا: AI کی مدد والے تخلیقی کام جو کنٹرول کا نظام بھرتی کرتا ہے، وہ اصل میں کب پختہ ہوتا ہے؟ ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 
-
 گریجویٹ تحقیق سے ایک متوازن کرنے والا ثبوت: 1,157 چینی گریجویٹ طلبہ میں، [[generative-ai|GenAI]] پر انحصار کا [[self-report-measures|خود رپورٹ شدہ]] تحقیقی تخلیقیت کے ساتھ مثبت تعلق تھا، اور فعل پر مبنی، کام کی طرف مائل انحصار کے لیے کہیں زیادہ مضبوط (β = 0.457) بہ نسبت وجودی انحصار (β = 0.147)، جس میں [[critical-thinking|تنقیدی سوچ]] نے فعل والے راستے کا تقریباً 85.0% اٹھایا ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]])۔
 
-
 ایک قومی سروے اس نمونے کو پیچیدہ بناتا ہے: 5,764 چینی یونیورسٹی طلبہ میں، AI پر انحصار کا خود رپورٹ شدہ تخلیقیت کے ساتھ منفی تعلق تھا (r = −0.17)، جس میں فرار اور سماجی محرکات منفی بالواسطہ راستے لے کر آئے اور اوزاری و تفریحی محرکات مثبت ([[ai-dependence-creativity-motivation-literacy-2026|Hou et al. (2026)]])۔
-
 
 - **جسمانیت کا فائدہ ناہموار ہے۔** ایک جسمانی روبوٹ نے زیادہ تخلیقیت والے ماڈل کے ساتھ مل کر انسان–انسان اور متن پر مبنی اشتراک کے مقابلے میں نمایاں طور پر زیادہ اصلیت پیدا کی، جبکہ انسانی اور متن پر مبنی حالتوں نے تصویریت اور آواز میں برتری برقرار رکھی — یہ جسمانیت کا تضاد ہے جس میں روبوٹ نے AI کے آؤٹ پٹ کو بڑھایا مگر اسلوب بہتر نہ کیا ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]])۔
 
@@ -91,40 +90,3 @@ ai_assist:
 - **"طلبہ کو چھیڑنا تخلیقی فائدے پیدا کرتا ہے۔"** **رگڑ تخلیقی فائدہ نہیں۔** مخالفانہ AI پرسونا **38.2% گروہوں** میں چیلنج اور غور و فکر والی گفتار لے کر آئے مگر **تخلیقی کارکردگی میں کوئی قابلِ پیمائش بہتری نہ** پیدا کی۔ گفتار بدلی اور ناپا گیا نتیجہ نہیں بدلا۔
 - **"K-12 ادب ثابت کرتا ہے کہ GenAI تخلیقیت بہتر کرتا ہے۔"** **45 مطالعات (2017-2025)** کا PRISMA کی رہنمائی والا اسکوپنگ جائزہ دکھاتا ہے کہ GenAI زیادہ تر تخلیقیت کو **بڑھاتا** ہے اور اسے **شاذ و نادر ہی ناپتا** ہے۔ میدان کی غالب دریافت ادراک شدہ افزائش سے نکالی گئی ایک استنتاج ہے، جو نتیجے کی پیمائش نہیں۔
 - **"GenAI پر زیادہ انحصار کا مطلب زیادہ تخلیقی پیداوار ہے۔"** **1,157 چینی گریجویٹ طلبہ** میں، GenAI پر انحصار کا **خود رپورٹ شدہ تحقیقی تخلیقیت کے ساتھ مثبت تعلق** تھا — اور یہ تعلق **خود رپورٹ** سے ہے، جو اس تصور کا دستیاب کمزور ترین پیمانہ ہے۔
-
-## منسلک تصورات
-
-- [[critical-thinking]]
-- [[constructivist]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[authentic-assessment]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[problem-solving]]
-- [[inquiry-based-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[arts-and-media-education]]
-
-## منسلک مضامین
-- [[wei-genai-configurations-creative-phases-2026]] — تخلیقی مراحل میں جنریٹو AI کی ترتیبیں: فن اور ڈیزائن کی تعلیم میں تخلیقی کارکردگی اور فوری علم پر 2 × 2 تجربہ
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI تصویر کی پیداوار نے ڈیزائن کی کارکردگی بے بدل رکھی مگر عمومی تخلیقی خود اعتمادی گرائی
-- [[bicer-genai-pd-math-creativity-2026]] — جنریٹو AI کی رہنمائی والی پیشہ ورانہ ترقی اساتذہ کی ریاضیاتی تخلیقیت، مواد کے علم اور تدریسی مواد کے علم سے شمولیت کو کیسے سہارا دیتی ہے
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — ادبی تخلیق کے لیے محور پر مبنی سہارا: مقدمات بطور موضوع اور متن کے درمیان کی اکائی، صرف منصوبے میں توثیق شدہ (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — مضمر انسانی-AI اشتراک میں ابھرتی سیکھنے والے کی ایجنسی: معاون بمقابلہ مخالفانہ پرسونا
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT اور تنقیدی و تخلیقی سوچ: منظم جائزہ
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — روبوٹ-LLM انضمام اور تخلیقی تحریر
-- [[t2i-competence-paradox-2026]] — فن اور ڈیزائن کے طلبہ میں ٹیکسٹ ٹو امیج AI کا قابلیت کا تضاد
-- [[mujib-ai-ibl-creative-math-2026]] — AI کی مدد والی تفتیش پر مبنی سیکھائی اور تخلیقی ریاضیاتی کارکردگی
-- [[flowcode-ai-creative-coding]] — Flowcode: تخلیقی کمپیوٹنگ میں تکرار کو سہارا دینے والا AI سے چلنے والا ماحول
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: سماجی-تکنیکی شبکهوں میں ممکنہ شریک تخلیقیت کا سہ رخی ماڈل
-- [[genai-creativity-k12-scoping-review-2026]] — 45 K–12 مطالعات کا PRISMA اسکوپنگ جائزہ: تخلیقیت کے لیے GenAI کے چار استعمال، یکسانیت، اور پیمائش کا خلا
-- [[multi-agent-llm-social-learning]] — دو ماڈل والی معاونت نے خیالات کا وہ تنوع بحال کیا جو ایک ماڈل نے ہموار کر دیا تھا (Kumar et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — فعلی بمقابلہ وجودی GenAI انحصار اور 1,157 گریجویٹ طلبہ میں تحقیقی تخلیقیت
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — تخلیقیت برابر، عصبی شمولیت مختلف: fMRI اسکینر میں ChatGPT سے بات کرتے بچے بمقابلہ بڑے
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI انحصار اور استعمال کے چار محرکات کا خود رپورٹ شدہ تخلیقیت سے مختلف تعلق (Hou et al. 2026)
-- [[ai-exemplar-attribution-creativity-education-2026]] — AI کے دور میں تخلیقیت کی تعلیم کو سہارا دینا: ادراک شدہ نمونے کے ماخذ کا کردار

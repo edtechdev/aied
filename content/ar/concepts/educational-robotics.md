@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
+connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -80,58 +82,3 @@ ai_assist:
 - **«الروبوتات تُعلّم التفكير الحاسوبي بمجرد كونها روبوتات.»** وجدت مراجعة منهجية لـ**53 دراسة** أن **التعلّم القائم على المشكلات وحكي القصص والسقالة** هي الاستراتيجيات الأكثر استخدامًا — فالبيداغوجيا حملت النتيجة، وهي ما فعلته الدراسات فعلًا.
 - **«الروبوتات المادية تتفوّق على البدائل الشاشية في كل الحالات.»** كانت المكاسب **معتمدة على المهمة**: درجة تحويل قصير الأمد أعلى بـ**60%** عند [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4.4/10، p = .003) يعزوها المؤلفون إلى **التماس المكاني لا إلى الإحلال العام**. فالادعاء يتعلق بالتماس المكاني في مهام محددة لا بالمادية عمومًا.
 - **«التفكير الحاسوبي في الروضة مبكر أكثر من أن يكون ذا معنى.»** فالأدلة المراجَعة تغطي روبوتات الروضة مباشرة، أي أن الفئة العمرية مدروسة لا مفترضة غير ملائمة.
-
-## مفاهيم مرتبطة
-
-- [[early-childhood-elementary-ai-education]] — تعليم الذكاء الاصطناعي في الطفولة المبكّرة والتعليم الابتدائي
-- [[computational-thinking]]
-- [[cs-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[project-based-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-- [[privacy]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — شامل: تقنيات وتقنيّات الذكاء الاصطناعي (نماذج، تدريب النماذج اللغوية الكبيرة، الروبوتات، RAG، الوكلاء)
-
-## مقالات مرتبطة
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — مراجعة نطاقية لروبوت Pepper في التعليم الرسمي
-- [[robot-assisted-language-learning-meta-analysis-2026]] — تحليل بعدي للتعلّم المُساعَد بالروبوت المُتجسِّد للغة المُعزَّز بالذكاء الاصطناعي
-- [[white-wu-robotics-ai-education-2026]] — الروبوتات والذكاء الاصطناعي في التعليم
-- [[computational-thinking-educational-robotics-secondary-2026]] — التفكير الحاسوبي والروبوتات التعليمية
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[knowledge-based-design-generative-social-robots-2026]] — التصميم القائم على المعرفة للروبوتات الاجتماعية التوليدية
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[task-context-trust-educational-hri-2026]] — سياق المهمة والثقة في HRI التعليمي
-- [[human-autonomy-agency-hri-review-2025]] — استقلالية الإنسان ومبادرته في HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — HRI السردية لـiCub
-- [[pepper-robot-sign-language-lis-2025]] — Pepper ولغة الإشارة
-- [[social-robot-study-companions]] — الروبوتات الاجتماعية كرفاق دراسة
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — تكامل الروبوت والنماذج اللغوية الكبيرة في الكتابة الإبداعية
-- [[game-based-gamified-robotics-education-review-2026]] — تعليم الروبوتات القائم على الألعاب والمنقَّط
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — مسالك التعلّم نحو الروبوتات التعليمية المدفوعة بالذكاء الاصطناعي (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — التفكير الحاسوبي بوساطة الروبوت في الروضة
-- [[ai-toys-child-development-2026]] — ألعاب الذكاء الاصطناعي المُمكَّنة ونموّ الطفل
-- [[creative-project-approach-ai-early-childhood-2025]] — منهج المشروع الإبداعي: تكامل روبوتات البرمجة والروبوتات الاجتماعية التوليدية في مشاريع الطفولة المبكّرة (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — خمسة أنواع مختلفة وظيفيًّا من روبوتات الصفّ، من العرض المسجَّل إلى الحوار التعاطفي الفردي (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: إطار قائم على المراكز يتعامل مع سعة الإرشاد التقني وجغرافية المراكز لا العتاد كقيدٍ على برامج الروبوتات الريفية للتعليم من الروضة حتى الصف الثاني عشر (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — تعليم التعلّم المعزّز وروبوتات الهيومانويد لطلاب المرحلة الثانوية: تصميم منهجي مُصادَق عليه من خبراء على منصّة مفتوحة منخفضة الكلفة
-- [[aifred-desk-robotic-ai-guidance-2026]] — عارض روبوتي مُثبَّت على الطاولة: حمايةُ الإرشاد المُتماسك مكانيًّا للتحويل حيث فقده ChatGPT على الحاسوب المحمول
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — نموذج لغوي بصري يخطط مهام صندوق الأحذية لروبوت Nao (Kudláčková 2026)

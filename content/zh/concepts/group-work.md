@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -118,42 +120,3 @@ ai_assist:
 **“AI 在协调小组时帮助最大。”** 协调支持与认识论支持朝相反方向拉扯。降低协作的协调成本，可能降低小组协商意义的压力，而那正是被评估的过程。效率与调节的取舍是核心设计张力，而不是实现细节。
 
 **“小组作业之所以困难是因为人。”** 其中一部分是任务设计，这正是 AI 改变困难轮廓而非简单缓和它的原因：一个快速回答问题的工具改变了小组把时间花在什么上，而这是否是改进，取决于任务本要发展哪些技能。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 面向共享一个 AI 的小组的角色脚本
-- [[ai-education]] — 教育中的 AI（总括）
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## 关联文章
-
-- [[nixon-social-cost-ai-teammate-2026]] — AI 队友占用最多发言时间，人与人之间的回应性与归属感随之下降（Nixon et al. 2026）
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 中介式小组评价中学生能动性的三种模式
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — AI 加入小组时的涌现学习者能动性：支持型与对抗型人格
-- [[genai-counter-learner-groupthink-2025]] — 一个向 PBL 团队注入争议以对抗群体思维的 AI 智能体
-- [[xu-genai-collaborative-space-2026]] — 一个团队内共享与私有的 GenAI 获取
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 协作模式与任务表现、自我调节之间的取舍
-- [[golrang-propact-pair-programming-2026]] — ProPACT：在结对编程中把二人组作为分析单位
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI 对跨学科学生团队中假设揭示的中介
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLM 作为批评伙伴：主动反驳保存认知冲突
-- [[polished-artifacts-fragile-engagement-2026]] — 精致产物，脆弱的认识论参与
-- [[breideband-community-builder-cobi-2026]] — 面向小组协作的课堂层面话语分析
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — 作为协作教学法中介者的 AI
-- [[neurodivergent-computing-students]] — 神经多样性学生对协作学习的要求
-- [[academic-league-of-ai-2026]] — AI 教育中的民主学生治理与项目团队
-- [[teacher-student-agency-orchestration]] — 教师与学生能动性的实时共同编排
-- [[dollinger-equitable-assessment-ai-2026]] — AI 时代的公平评价
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：以角色扮演与讨论促进小组伦理教育，用于伦理反思与探索

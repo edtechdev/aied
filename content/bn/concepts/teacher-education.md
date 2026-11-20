@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-03"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,7 +68,6 @@ pedagogy: [tpack]
 
 - **কোনো প্রাক-সেবা গবেষণা শিক্ষার্থীর শিখন মাপেনি।** যে পর্যালোচনায় কেবল সাতটি উৎস অন্তর্ভুক্ত করা যায়, তা দেখে নৈতিকতা স্বীকৃত কিন্তু বিরলভাবে শেখানো বা মূল্যায়িত হয়, এবং প্রাক-সেবা শিক্ষকরা এআই-এর সমালোচনায় অতিরিক্ত আত্মবিশ্বাসী ([[shukla-ai-teacher-education-frameworks-review-2026|শুক্লা (২০২৬)]]।
 
-
 ### কর্মরত-শিক্ষকের পেশাগত বিকাশ
 
 কর্মরত-শিক্ষকের পেশাগত বিকাশ এআই সংযুক্ত করতে চলমান শিক্ষকদের সহায়তা করে। এখানকার এআই-গবেষণার অন্তর্ভুক্ত:
@@ -109,71 +110,10 @@ pedagogy: [tpack]
 - **শ্রেণিকক্ষ-নীতি লেখাকে শিক্ষক-শিক্ষার মূল কার্যক্রম করুন, আর অস্পষ্টতাকে নীতির ত্রুটি ধরুন।** [[nash-preservice-teachers-classroom-ai-policies-2026|নাশ ও বারিস (২০২৬)]] দেখেন, প্রাক-সেবা শিক্ষকদের নিজেদের শ্রেণিকক্ষ-এআই-নীতি লিখতে দেওয়া লেখা কী কাজে — তা নিয়ে এক ধরনের অলংকারমূলক বিশ্ব-নির্মাণ হিসেবে কাজ করে, যা উঠতি বিশ্বাসের এমন জানালা খোলে যা বিমূর্ত আলোচনা খোলে না। যেহেতু এআই লেখাকে-পণ্য থেকে লেখাকে-প্রক্রিয়া আলাদা করে, কর্মসূচির উচিত শিক্ষকদের সাহায্য করা — ব্রেনস্টর্মিং, খসড়া, পুনর্লেখন ও সম্পাদনা জুড়ে চিন্তা, শিখন ও মূল্য কোথায় থাকে তা চিহ্নিত করতে, কেবল চূড়ান্ত পাঠ্যে চিন্তা না খুঁজে — এবং তাদের বিশ্বাসকে কার্যকর, দ্ব্যর্থহীন নিয়মে অনুবাদ করতে সহায়তা করা, [[ai-literacy]] নির্দেশনাসহ: এআই-উৎপন্ন পাঠ্য নিষিদ্ধ করা অথচ শিক্ষার্থীদের জমা দেওয়া এআই-উৎপন্ন কনটেন্টের দায় তাদের ওপর রাখার মতো পরস্পরবিরোধী নিয়ম শিক্ষার্থীদের পালন করতে অসমর্থ করে রাখে।
 - **এআই-নীতির পেছনের প্রাথমিক গবেষণা পড়তে শিক্ষকদের শেখান।** ছয় সপ্তাহের একটি স্নাতকোত্তর গবেষণা-পদ্ধতি কোর্স — উৎপাদনের বদলে গবেষণা-ভোগকে লক্ষ্য করে: একজন শিক্ষক জেলা-নির্দেশিত পাঠ্যক্রমে সমালোচনামূলক-মূল্যায়ন কাঠামো প্রয়োগ করেন এবং বিশ্লেষণটি তাঁর প্রিন্সিপালের কাছে উপস্থাপন করেন, আর কয়েকজন নিজেদের শিক্ষার্থীদের সঙ্গে [[socratic-method|সক্রেটিক প্রশ্ন]] প্রয়োগ করেন [[packard-thinking-partner-framework-adult-learners-2026|প্যাকার্ড প্রমুখ (২০২৬)]]।
 
-
 একটি মডেল শিক্ষকের কাছে ইতিমধ্যেই থাকা ব্যক্তিগত PCK-কে যা-ই হোক তা বিবর্ধিত করে, তাই নবীনরাই সবচেয়ে স্পষ্টভাবে সেই ঝুঁকিতে থাকে যেখানে আত্মবিশ্বাসী কিন্তু অযাচিত বিষয়-নির্দিষ্ট পরামর্শ আসে; ফলে ব্যক্তিগত এআই-সাক্ষরতা মডিউলের বদলে মেন্টরিং ও বিভাগীয় যাচাই-ই বিকাশগত প্রতিকার ([[webb-pck-genai-2026|Webb প্রমুখ, 2026]])।
-
 
 ## সাধারণ ভুল ধারণা
 
 - **"প্রাক-সেবা শিক্ষকদের মধ্যে এআই-গ্রহণ একটি একক মনোভাব।"** **১২৮ জন প্রাক-সেবা শিক্ষককে** চারটি ChatGPT-গ্রহণ গোষ্ঠীতে প্রোফাইল করা হয়, যার মধ্যে **প্রতিরোধী সংশয়বাদীরা (১৪.০৬%) উচ্চ অনুভূত ব্যবহার-সহজতা কিন্তু অত্যন্ত নিম্ন আচরণগত** অভিপ্রায় রিপোর্ট করেন। সেই গোষ্ঠীতে ব্যবহার-সহজতা ও অভিপ্রায় আলাদা হয়ে যায়, তাই [[usability-research|ব্যবহারযোগ্যতা]]-চালিত কোনো হস্তক্ষেপ তাদের অপরিবর্তিত রাখবে।
 - **"এআই প্রাক-সেবা শিক্ষকদের প্রধানত বিষয়বস্তু-জ্ঞানে সাহায্য করে।"** **৫৫টি গবেষণার একটি স্কোপিং পর্যালোচনা** দেখে, এআই **শিক্ষাদান-নকশা, বিষয়-শিক্ষাদান ও ব্যবহারিক শিক্ষাদানকে** উন্নত করে — নকশা ও অনুশীলনের সক্ষমতা, বিষয়বস্তু-বিশেষজ্ঞতা নয়।
 - **"৫৫টি গবেষণার একটি স্কোপিং পর্যালোচনা সুফল প্রতিষ্ঠা করে।"** এটি ক্ষেত্র জুড়ে যা রিপোর্ট হয়েছে তা নথিভুক্ত করে। রিপোর্টেড উন্নতির বিস্তৃতি সাহিত্যের ঐকমত্যের ব্যাপারে একটি দাবি, আর স্কোপিং পর্যালোচনায় ৫৫টি গবেষণা কোনো সম্মিলিত প্রভাব-আকার নয়।
-
-## সংযুক্ত ধারণা
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, এলএলএম-এর সীমা, পরীক্ষণের দর্শন
-
-## সংযুক্ত নিবন্ধ
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — শিক্ষক শিক্ষায় এআই: শিক্ষামূলক কাঠামো, অভিজ্ঞতাভিত্তিক প্রমাণ ও নৈতিকতা, ২০২০-২০২৬ (শুক্লা ২০২৬)
-- [[bicer-genai-pd-math-creativity-2026]] — জেনারেটিভ এআই-নির্দেশিত পেশাগত বিকাশ কীভাবে শিক্ষকদের গাণিতিক সৃজনশীলতা, বিষয়বস্তু-জ্ঞান ও শিক্ষামূলক বিষয়বস্তু-জ্ঞানে সম্পৃক্ততাকে সমর্থন করে
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — প্রাক-সেবা ইংরেজি শিক্ষকদের শ্রেণিকক্ষ-এআই-নীতি রচনা: অনুমোদিত, সীমিত ও নিষিদ্ধ ব্যবহার (নাশ ও বারিস ২০২৬)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — ৮৫ জন শিক্ষার্থী-শিক্ষক: অগভীর জেনএআই-গ্রহণ, সততা-উদ্বেগ, এবং এমন মূল্যায়ন-সাক্ষরতা যা হস্তান্তরিত হয় না
-- [[pishtari-teacher-ai-training-learning-design-2026]] — শিক্ষকদের শিখন-নকশায় এআই চ্যাটবট সহায়তা ও প্রশিক্ষণ
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — শিক্ষকদের পেশাগত শিখনে অগ্রাধিকার-নিয়ন্ত্রক হিসেবে শিক্ষামূলক এআই-জ্ঞান (শেন প্রমুখ ২০২৬)
-- [[preservice-teachers-responsible-genai-2026]] — প্রাক-সেবা শিক্ষকদের দায়িত্বশীল জেনএআই-ব্যবহার: পাঠ্যক্রমিক তাৎপর্য (কনকে প্রমুখ ২০২৬)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — প্রাক-সেবা শিক্ষক-বিকাশে এআই: স্কোপিং পর্যালোচনা
-- [[designing-ai-professional-development-itpack-2026]] — ইন্টেলিজেন্ট-TPACK-ভিত্তিক পেশাগত বিকাশ কাঠামো
-- [[human-centered-ai-teacher-educators-2026]] — শিক্ষক-শিক্ষকদের সমালোচনামূলক এআই-সাক্ষরতার পেশাগত শিখন
-- [[teaching-the-teachers-genai-tpk-review-2026]] — শিক্ষক শিক্ষায় জেনএআই-নির্দিষ্ট TPK
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — জেনএআই পাঠ-পরিকল্পনায় শিক্ষকদের এআই-জ্ঞান
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — পাঠ-নকশায় শিক্ষাদান-অভিজ্ঞতা ও এআই-দক্ষতা জুড়ে শিক্ষক-এআই পারস্পরিক ক্রিয়ার ধরন (চোই প্রমুখ ২০২৬)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — প্রাক-সেবা ইন্টেলিজেন্ট-TPACK প্রস্তুতি
-- [[ai-tpack-mathematics-teacher-education-2026]] — গণিত শিক্ষক শিক্ষায় AI-TPACK
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — নৈতিকতা ডোমেইন ও কর্মরত শিক্ষকদের আস্থা
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — প্রাথমিক শিক্ষক-প্রশিক্ষণে micro:bit রোবোটিক্স
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — প্রাক-সেবা শিক্ষায় এআই-মধ্যস্থ প্রামাণিক মূল্যায়ন
-- [[science-educators-ai-literacy-postqualification-2026]] — বিজ্ঞান শিক্ষকদের এআই-সাক্ষরতা ও যোগ্যতা-উত্তর কর্মসূচি
-- [[context-based-ai-secondary-chemistry-2026]] — মাধ্যমিক রসায়নে প্রসঙ্গ-ভিত্তিক 7E + এআই শিক্ষাদান
-- [[educasim-cs1-instructional-practice]] — EducaSim: CS1 শিক্ষাদান-অনুশীলনের জন্য ইন্টারঅ্যাকটিভ অনুকরণ
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — প্রাক-সেবা শিক্ষকদের ChatGPT-গ্রহণ প্রোফাইল
-- [[motivation-shape-future-education-ai-switzerland-china]] — এআই দিয়ে শিক্ষার ভবিষ্যৎ গড়ার প্রেরণা
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — বিজ্ঞান শিক্ষক শিক্ষায় এআই-সমর্থিত নির্দেশিত অনুসন্ধান
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: সংজ্ঞানাত্মক মধ্যস্থতাকার হিসেবে এআই
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB মডেল: জেনএআই গঠনবাদী শিক্ষাদান-নকশা
-- [[riandi-teacher-ai-green-energy-education-2026]] — সবুজ-জ্বালানি শিক্ষায় এআই-সংযোগে শিক্ষকদের সম্পৃক্ততা (রিয়ান্দি প্রমুখ ২০২৬)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — শিক্ষক শিক্ষায় দীর্ঘমেয়াদি জেনএআই-ব্যবহার, নৈতিকতা ও নীতি (পার্কার প্রমুখ ২০২৬)
-- [[instructional-design-proficiency-masters-math-2026]] — স্মার্ট-শ্রেণিকক্ষ মডেল ও D-T-E লুপ গণিতে এম.এড. শিক্ষাদান-নকশা দক্ষতা উন্নত করে (ঝু প্রমুখ ২০২৬)
-- [[li-language-educators-genai-review-2026]] — ভাষা শিক্ষকদের জেনএআই-সহ অনুশীলন ও বিকাশ
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — পেশাগত বিকাশ হিসেবে এআই-উৎপন্ন কনটেন্টের শিক্ষক-সহযোগী মূল্যায়ন (গাট, আসার ও বারাক ২০২৬)
-- [[ai-training-science-teacher-tpack-distance-2026]] — ১৮৬ বিজ্ঞান শিক্ষার্থী-শিক্ষকের এআই-সংক্রান্ত TPACK ও প্রশিক্ষণ-স্তরের ক্যাম্পাস বনাম দূরশিক্ষা তুলনা
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — এক সেমেস্টারের সাক্ষরতা-এথনোগ্রাফিতে প্রাক-সেবা শিক্ষকদের এআই-সীমানা গড়ে তোলার অনুসরণ
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — স্ক্যাফোল্ডবিহীন জেনএআই প্রাক-সেবা শিক্ষকদের পাঠ-পরিকল্পনার মান জেনএআই-শূন্য শ্রেণির নিচে নামায়
-- [[capability-decision-model-teacher-readiness-2026]] — আত্মবিশ্বাস নয়, সক্ষমতা মাপুন
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — শিক্ষকদের নিজেদের প্রতিফলনমূলক নিয়ন্ত্রণকে শিক্ষার্থী-কর্তৃত্বের সঙ্গে যুক্ত করা হিউটাগজিক্যাল দ্বিস্তরীয় মডেল
-- [[packard-thinking-partner-framework-adult-learners-2026]] — কে-১২ শিক্ষকরা প্রাথমিক এআই-গবেষণা পড়তে শিখছেন ও জেলা-নির্দেশনার বিরুদ্ধে প্রশ্ন তুলছেন
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — শিক্ষার্থী হিসেবে প্রাক-সেবা শিক্ষকরা: শক্তি নিয়ে যে দলগুলো একমত ছিল না তারা এআই-কে ধারণাগত আলাপের কেন্দ্র বানায়, একমত দলগুলো এটিকে লুকআপ ভাবে ও সক্রিয় ঠেলায় বিরক্ত হয় (ওয়াং প্রমুখ ২০২৬)
-
-- [[webb-pck-genai-2026]] — কেন একটি মডেল নবীন শিক্ষকের পাতলা PCK-কে বিবর্ধিত করে, আর কেন প্রতিকার সমষ্টিগত, এআই-সাক্ষরতা মডিউল নয় (Webb প্রমুখ 2026)
-

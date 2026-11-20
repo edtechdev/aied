@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -65,24 +67,3 @@ AI में शिक्षा के प्रयोगात्मक डि�
 - **"यादृच्छिकरण उपकरण के प्रभाव का वैध अनुमान गारंटी करता है।"** यादृच्छिकरण भ्रमकारी कारकों को संतुलित करता है; यह सुनिश्चित नहीं करता कि किसी ने उपचार का उपयोग किया। कम ग्रहण वाला समूह-यादृच्छिक परीक्षण **उपकरण उपलब्ध कराने का प्रभाव** आँकता है, और आशय-उपचार तथा उपचार-पर-उपचारित अलग प्रश्नों के उत्तर देते हैं।
 - **"बड़ा परीक्षण हमेशा बेहतर डिज़ाइन है।"** कुछ का तर्क है कि पारंपरिक बड़े पैमाने के परीक्षण **ट्यूटरिंग मंचों की गति नहीं पकड़ सकते जो अध्ययन के दौरान ठोस रूप से बदलते हैं**, और उसके बजाय शिक्षक-नेतृत्व वाले डिज़ाइन उपयोग करते हैं जो प्रणाली के विकास के साथ वैध रहते हैं। चलते लक्ष्य का परीक्षण अच्छी शक्ति वाला हो सकता है और फिर भी ऐसी प्रणाली माप सकता है जो अब मौजूद नहीं है।
 - **"आरसीटी और अवलोकन-आधारित प्रमाण एक-दूसरे के विकल्प हैं।"** **1,174 प्रतिभागियों** वाले एक आरसीटी ने पाया कि GenAI ने **शिक्षा-आधारित उत्पादकता अंतराल का लगभग तीन-चौथाई बंद कर दिया**, जो एक विशिष्ट अवधि पर सटीक कारणी दावा है। अवलोकन तंत्र और अपनाने को समझाता है; वह यह अनुमान नहीं ढो सकता, और आरसीटी यह नहीं बता सकता कि क्यों।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — सबसे मज़बूत छात्र-सहायता साक्ष्य के पीछे का डिज़ाइन
-
-## संबंधित लेख
-
-- [[generative-ai-education-productivity-gaps]] — क्या जनरेटिव AI शिक्षा-आधारित उत्पादकता अंतरालों को संकुचित करता है? एक यादृच्छिक प्रयोग से साक्ष्य
-- [[genai-can-harm-teaching-rct-2026]] — जनरेटिव AI शिक्षण को नुकसान पहुँचा सकता है: एक RCT
-- [[access-not-enough-ai-tutoring-2026]] — पहुँच ही पर्याप्त नहीं: मानव सहायता AI ट्यूटरिंग के साथ संलग्नता बढ़ाती है
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — नवाचार की गति पर AI ट्यूटरिंग का मूल्यांकन: GCSE विज्ञान में एक AI ट्यूटरिंग प्लेटफ़ॉर्म के प्रैक्टिशनर-नेतृत्व वाले माइक्रो-यादृच्छिक परीक्षण
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI और मानव ट्यूटरिंग समकक्ष GRE अधिगम लाभ देते हैं
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — प्रशिक्षक द्वारा समूह-यादृच्छिककरण: अंतिम ग्रेड में 0.37 SD की गिरावट और प्लेटफ़ॉर्म भागीदारी में 0.90 SD की गिरावट, 15% उपयोग और 34 समूहों पर अनुमान के साथ (लिउ एट अल. 2026)
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 108 प्राथमिक विद्यालयों में पाठ-योजना का समय तुलना समूह का 0.76 रह गया, उपकरण-उपयोग की 7% खुराक पर
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — सत्र के अंत में नहीं, विलंब के बाद मापा गया परिणाम

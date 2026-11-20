@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -87,28 +89,3 @@ ai_assist:
 **"더 나은 프롬프트가 더 나은 시민 수업을 낳는다."** 상호작용 변형은 최소한의 차이만 만들었고, 세 챗봇 모두 53개 기준에 걸쳐 같은 구조를 산출했습니다. 프롬프트 품질은 교과의 결을 복원하지 못했습니다.
 
 **"실천을 이끌 만큼 증거가 충분하다."** 신중함을 정당화할 만큼은 충분합니다. 내용 분석 하나, 문서 종합 하나, 작은 [[mixed-methods-research|혼합 방법 연구]] 하나, 그리고 몇 편의 개념적 또는 정책적 글은 무엇이 효과가 있는지를 확립하지 못합니다.
-
-## 연결된 개념
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — 상위 개념: 학습자가 AI 시스템에 관해 알아야 하는 것
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — 사회적 해악으로서의 생성된 허위 정보와 설득
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## 연결된 문서
-
-- [[civic-education-ai-lesson-plans]] — 시민 교육 기준 53개를 위한 AI 생성 수업 계획 310개: 90%가 저차원, 94%가 다문화 내용 없음(Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — 남아프리카의 알고리즘적 국경 거버넌스와 시민 디지털 리터러시의 다섯 요구(Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — 비판적 미디어 리터러시와 참여적 시민성에 관한 전문가 면담과 학생 설문(Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — 자격화, 사회화, 주체화를 통해 읽은 핀란드 교사들의 AI 교육 목적
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — 시민 생활과 민주적 참여를 포함한 과학 리터러시 비전(Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — 딥페이크와 자동화된 허위 정보를 민주적 위협으로 지목한 사설(Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — 성인 교육 정책과 평생 학습의 시민적 목적(Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 거버넌스 문서 160개; 민주주의와 법치가 92개에 명명되고 법적 효력은 네 개에(Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 정치 이론의 용어로 된 민주적 사안: 실천의 침식, 기제, 권위주의의 이해관계

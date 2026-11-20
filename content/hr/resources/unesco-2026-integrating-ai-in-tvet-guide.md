@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [vocational-education, ai-literacy, professional-training, change-management, educational-policy-ai, equity-in-ai-education]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,12 +42,3 @@ Voditelji ustanova strukovnog obrazovanja koji odlučuju što prvo poduzeti, nas
 ## Napomene i upozorenja
 
 To su smjernice, a ne evaluacija. Vodič ne izvještava o podacima o ishodima, a njegovi institucionalni primjeri, model učenja o umjetnoj inteligenciji integriran u sadržaj na College of the North Atlantic u Kanadi i kenijski standard industrijske prakse u strukovnom obrazovanju iz 2023., opisni su okviri slučaja izvedeni iz izvještaja projekata, a ne neovisni pokusi. Dodaci sebe nazivaju indikativnima; ljestvica zrelosti pomoć je za raspravu, a ne mjerni instrument. Sigurnosno kritična i regulirana zanimanja dobivaju poglavlje, ali ono zastupa stajalište o ljudskom nadzoru, umjesto da nudi detalje na razini propisa. Licencija CC BY-SA 3.0 IGO dopušta prilagodbu i ponovno objavljivanje uz navođenje izvora i dijeljenje pod istim uvjetima.
-
-## Povezani pojmovi
-
-- [[vocational-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[change-management]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]

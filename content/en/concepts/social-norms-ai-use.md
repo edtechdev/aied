@@ -19,6 +19,8 @@ ai_assist:
     role: drafting
     date: "2026-09-23"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 > **Social norms of AI use** — the informal, locally enforced rules that decide when learners and instructors may use generative AI, how openly they can admit to it, and what counts as [[academic-integrity|cheating]] in practice rather than in policy. The research is thin on norms as a topic and thick on the mechanisms that produce them. Learners cannot reliably infer each other's AI use: the median correlation between a perceiver's estimates and their own [[self-report-measures|self-reported]] usage profile was r = .73 at both waves, and rank accuracy for the *kind* of AI use was r = .34 at the second wave. [[shame-guilt-ai-regulation-computing-education|Shame and guilt regulate visibility rather than use]], producing hiding and selective disclosure instead of behavior change. Disciplinary norms diverge sharply: AI-integrated assignments appeared in 27% of business syllabi and 5% of humanities syllabi across 31,000 courses. And the formal [[ethics|ethics]] literature routes the fewest and least actionable norms to end users, meaning the people subject to classroom norms are largely absent from the documents that discuss them.
@@ -100,37 +102,3 @@ The cost of that substitution shows up in where faculty and students actually ta
 **"Surveillance would settle the norm by making use visible."** Making behavior visible does not resolve what the norm should be; it changes what people are willing to disclose. The measured pattern is selective disclosure already, so a monitoring regime applied to it measures the concealment rather than the conduct.
 
 **"Norms are informal, so they are outside institutional reach."** They are locally enforced and locally changeable, which makes them more tractable than policy: a course team's explicit practice is a lever precisely because it is where the operative rule is set.
-
-## Connected Concepts
-
-- [[academic-integrity]] — the formal rulebook these norms grow alongside
-- [[ai-use-disclosure]] — the practice norms regulate most directly
-- [[framing-ai-use-for-students]] — how a classroom states its expectations
-- [[reducing-ai-misuse]] — the instructional counterpart to norm-setting
-- [[learner-identity]] — who a learner is taken to be when AI use becomes visible
-- [[ai-detection]] — the technical response that mostly fails
-- [[remote-proctoring]] — surveillance as an attempted substitute for norms
-- [[trust]] — what norms and disclosure both depend on
-- [[equity-in-ai-education]] — who absorbs the social cost
-- [[help-seeking]] — the behavior shame suppresses first
-- [[group-work]] — where group norms are negotiated
-- [[student-experience]] — the lived side of all of this
-- [[anxiety-and-stress]] — the affective residue
-- [[governance]] — the formal layer these norms sit under
-- [[ethics]] — the literature that has least to say to students
-
-## Connected Articles
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 undergraduates: perceived peer disclosure and instructor comfort predicted disclosure ahead of moral disengagement (Qu & Wang 2026)

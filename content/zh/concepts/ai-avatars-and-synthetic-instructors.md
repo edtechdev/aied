@@ -25,6 +25,8 @@ ai_assist:
 translation_of: concepts/ai-avatars-and-synthetic-instructors
 source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -126,50 +128,3 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 **“化身外观只是装饰。”** 身份线索改变了可信度评分与对指导的实际采纳，且对年长的黑人女性化身惩罚叠加。([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) 配置是一项教学与[[equity-in-ai-education|公平]]决定。
 
 **“模拟病人就是标准化病人，只是少了成本。”** 受训心理学家发现他们的虚拟病人配合、且已经具备治疗进阶能力 —— 一个“理想”案例，低估了行为上的僵化。([[ai-psychotherapy-training-avatars]]) 成本下降；案例效度不会自动随之而来。
-
-## 关联概念
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## 关联文章
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — 化身身份线索改变可信度与对指导的采纳（Anthis 与 Kyriakidou-Zacharoudiou 2026）
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — 基于实践的教师教育对话中的学生化身（Hauk 等人 2026）
-- [[gender-differences-ai-literacy-deepfake]] — 一次 AI 素养工作坊中按性别划分的深度伪造创建与报告
-- [[elevate-genai-virtual-tutors]] — 带教师治理层的本地优先 3D 化身导师（ELEVATE）
-- [[sophie-clinical-communication-ai-assessment-2026]] — 用 LLM 评判器评估临床沟通的化身病人
-- [[genai-simulate-patient-history-pbl-2026]] — PBL 病史采集辅导中的生成式 AI 病人化身
-- [[ai-psychotherapy-training-avatars]] — 用于心理治疗培训中 ACT 忠实度练习的病人化身
-- [[aclime-pedagogical-agents-extended-reality-2026]] — 扩展现实中的教学智能体：临场感、真实感与负荷（ACLIME）
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 以机器人中介、由儿童操控化身来排练旁观者干预的角色扮演
-- [[personalized-ai-generated-videos-preference-2026]] — 克隆教师视频的个性化与学生偏好
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 在课堂模拟中把表征与能动性分开的四层框架
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一项拟议的、用于课程反馈访谈的对话式语音智能体
-- [[trikonet-trivalence-co-creativity-2026]] — 社会技术网络中的共创式教学化身（TriKoNet）
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 名学生中只有 51.7% 接受了所提供的拟人角色；一人称其为反馈售货机
-
-- [[wu-singing-syllabus-avatars-2026]] — 用虚拟化身设计歌唱版课程大纲：AI 辅助的大纲重写
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — 采纳侧证据：653 名学习者，透明性是信任的最强预测因子（Wang 等 2026）

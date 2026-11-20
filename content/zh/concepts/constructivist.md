@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -121,56 +123,3 @@ ai_assist:
 - **"从提问就能看出建构主义教学。"** 一个 DeBERTa 分类器**以 96.67% 的精确率识别事实性知识传递型问题，但对促进者问题的精确率只有 78.79%**，且**每一个模型都把两种高阶角色混淆**。最重要的构念，恰是自动检测处理得最差的构念。
 - **"一节课的表面特征能揭示其教学法。"** 分类器的失败不是实现细节。促进者与建构主义角色是困难案例，正因为它们由教师如何对待学习者的思考来定义，而这种关系无法仅从问题文本中还原。
 - **"建构主义意味着教师不作讲解。"** 该理论把学习定位于学习者从经验中的建构，这与直接教学是相容的。把它当作禁止讲授，既误读了理论，也误读了关于范例的证据。
-
-## 关联概念
-- [[community-of-inquiry]] — 探究共同体（植根于建构主义/杜威实用主义）
-- [[cognitive-psychology]] — 认知主义，学习理论的第三个古典极点
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — 化学教育与AI：实验、形成性评估、LLM的局限、实验哲学
-- [[theory-development-aied]] — 教育中AI的理论发展
-- [[productive-failure]]
-
-## 关联文章
-- [[lee-learner-question-types-ai-education-2026]] — 学习者问题被归入三种建构主义角色：传递者、促进者、共同学习者（Lee、Atif与Kang 2026）
-- [[mishra-control-vs-agency-history-2025]] — 在AIED历史中将建构主义（Papert）与认知导师对置
-- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI：面向作品建构的建构主义框架
-- [[ai-writes-code-student-writes-model-2026]] — 模型作者身份：与GenAI一起通过建构学习的理论与测量方案
-- [[ai-vocational-education-training-review]] — VET中宣扬建构主义而行为主义AI占主导；"图灵陷阱"
-- [[generative-refusal-ai-tools-for-thought]] — 为保护建构性思考而拒绝生成的AI工具
-- [[genai-mindtool-generative-learning]] — 作为支持学习者建构之思维工具的GenAI
-- [[ai-agents-constructive-conflict-design-education-2026]] — 促使建构性重新考量的对抗性AI智能体
-- [[hingle-collaborative-ai-literacy-2025]] — 协作式AI素养与ICAP投入框架
-- [[ai-internal-feedback-evaluative-judgments]] — 生成评价性判断的AI支持比较
-- [[icap-cognitive-engagement-llm-agents]] — ICAP与LLM智能体的认知投入
-- [[conversational-ai-tutors-framework]] — AI辅导系统中的支架式对话
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — 与AI促进者的具身探究
-- [[beyond-detection-authentic-assessment-ai-2025]] — 真实评估与知识建构
-- [[teacher-ai-teaming-five-levels]] — 设计中教师-AI协作的层级
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 学习者与机器之间的认知共同能动性
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — 通往 AI 支持的教育机器人学习之路（2026）
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution：模拟学生认知演化的生成式智能体
-
-- [[synthetic-position-self-authorship-2026]] — 模拟的AI对立立场排练对话的形式，却扣留了迫使修订的反抗
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 学习惩罚：作业分数上升 18%，闭卷考试下降 20%，集中在作业外包者身上
-

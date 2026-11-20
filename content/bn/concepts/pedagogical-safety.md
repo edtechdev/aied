@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
+connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,7 +47,6 @@ ai_assist:
 - **কিশোরদের জন্য নির্মিত নির্ভরযোগ্যতা-স্তর, প্রাপ্তবয়স্কদের থেকে অভিযোজিত নয়।** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten ও Bardyn (2026)]] যুক্তি দেন, [[llm|LLM]] ব্যবহারকারীদের দ্রুততম বর্ধনশীল জনগোষ্ঠী—কিশোরেরা, যার মধ্যে ঘরে ঢোকা LLM-চালিত খেলনাও আছে—এমন ব্যবস্থার সেবা পায় যা তাদের শিক্ষাগত, আবেগিক বা বিকাশগত চাহিদার জন্য কখনও নকশা করা হয়নি। SCAFFOLD উৎপন্ন পাঠ্য ও বক্তৃতাকে বাহ্যিক যাচাই, লক্ষ্যযুক্ত মেরামত ও নিরাপদ ফলব্যাক দিয়ে ঘেরে, যা পরিচালিত হয় বিকাশ-মনোবিজ্ঞান, স্নায়ুবিজ্ঞান, [[learning-sciences|শিখন-বিজ্ঞান]] ও শিক্ষাতত্ত্ব থেকে নেওয়া একটি ধারণাগত কাঠামোয়, এবং মডেল-নিরপেক্ষ ও গোপনীয়তা-রক্ষাকারী রাখা হয় যাতে নিরাপত্তা একক প্রদানকারীর অ্যালাইনমেন্ট-কাজের উপর নির্ভর না করে। 12–16 বছর বয়সীদের সঙ্গে একটি বহু-ব্যবহারকারী সহ-সৃষ্টি কাজে LLM-চালিত সামাজিক [[educational-robotics|রোবট]] ব্যবহার করে তার শ্রেণিকক্ষ-পাইলট কেবল-প্রম্পট বেসলাইনের চেয়ে বেশি শিক্ষার্থী-কার্যকলাপ, [[student-engagement|সম্পৃক্ততা]] ও বিষয়-সংশ্লিষ্ট অংশগ্রহণ তৈরি করে, আর [[prior-knowledge|পূর্বজ্ঞান]] নিয়ন্ত্রণ করার পর সহ-সৃষ্টির মাত্রা পোস্ট-টেস্ট জ্ঞানের সঙ্গে সম্পর্কিত ছিল। এটি সম্ভাব্যতার প্রমাণ, প্রমাণিত প্রভাব নয়, আর এর বেশি টেকসই অবদান হলো [[guardrails]]-এর একটি সুনির্দিষ্ট টেমপ্লেট যা [[teacher-role|শিক্ষকেরা]] গ্রহণ না করে কনফিগার করতে পারেন।
 
 - **মডেল-স্তরের বিষয়বস্তু-নিয়ন্ত্রণ:** [[llm-unlearning-math-privacy|গণিত-unlearning]] কাজ গ্রেডিয়েন্ট-ভিত্তিক unlearning প্রয়োগ করে গণিত টিউটর থেকে ব্যক্তিগতভাবে শনাক্তকারী তথ্য ও ক্ষতিকর বিষয়বস্তু ছাঁটাই করে (PII আউটপুট 0.1%-এ, বিষাক্ত হার 0.0%-এ) এবং সঙ্গে নিম্নধারার গণিত-উপযোগিতা ও [[privacy]] সংরক্ষণ করে। [[llm-children-reading-story-generation|শিশুদের পাঠ-গল্প উৎপাদন]] দেখায়, ছোট মডেলের তত্ত্বাবধানে সূক্ষ্ম-টিউনিং [[k-12]] বিষয়বস্তুর জন্য নিয়ন্ত্রণযোগ্য কাঠিন্য ও নিরাপত্তা প্রয়োগ করতে পারে।
-
 
 ### মিথস্ক্রিয়া ও ক্ষতির শ্রেণিবিন্যাস
 
@@ -82,49 +83,3 @@ ai_assist:
 **"সবচেয়ে নিরাপদ টিউটর সে-ই যে সবচেয়ে বেশি প্রত্যাখ্যান করে।"** যে ব্যবস্থা "সমানভাবে প্রত্যাখ্যান করে" সেও অসাম্য পোক্ত করতে পারে, যা পাতার নীরব-ব্যর্থতার বর্ণনার দ্বিতীয় অর্ধ। ব্যর্থতার ধরন কেবল এমন টিউটর নয় যে সঠিক উত্তর দিয়ে শিখন ক্ষয় করে; তা এমন টিউটরও যার প্রত্যাখ্যান শিক্ষার্থীদের মধ্যে সমর্থন অসমভাবে বণ্টন করে, আর সর্বজনীন প্রত্যাখ্যান-নীতি একটি দৃশ্যমান ঝুঁকির বদলে একটি অদৃশ্য ঝুঁকি কিনে নেয়।
 
 **"যেকোনো মডেল-স্তরের নিরাপত্তা-কাজই জনসংযোগের ব্যবস্থা।"** তার কিছু অংশ মাপযোগ্য। [[llm-unlearning-math-privacy|গণিত-unlearning]] কাজ গ্রেডিয়েন্ট-ভিত্তিক unlearning প্রয়োগ করে শনাক্তকারী তথ্য ও ক্ষতিকর বিষয়বস্তু ছাঁটাই করে, PII আউটপুট **0.1%** ও বিষাক্ত হার **0.0%** জানায়, সক্ষমতা সংরক্ষণ করে। মডেল-স্তরের নিয়ন্ত্রণ স্তরযুক্ত প্রতিরক্ষার একটি স্তর—একা অপর্যাপ্ত, আর কিছুই নয় তা নয়।
-
-## সংযুক্ত ধারণা
-- [[guardrails]] — নিরাপত্তা বাস্তবায়নকারী নকশা-ব্যবস্থা
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — শিক্ষার্থী-এআই সংলাপ পরিচালনার SCAFFOLD কাঠামো, তার শ্রেণিকক্ষ-পাইলটসহ
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — শিক্ষক-নকশাকৃত নিরাপত্তা-স্তর: ডোমেইন-সীমানা, ফিল্টারিং ও ওভাররাইড
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: নিরাপদ ও সুস্থ এআই-শেখার জন্য একটি নকশা-কাঠামো
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]

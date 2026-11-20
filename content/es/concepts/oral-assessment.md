@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -98,40 +100,3 @@ La justificación de integridad del oral también tiene fecha de caducidad: [[co
 - **«La evaluación oral no se puede escalar.»** En [[code-review-genai-cs1|el estudio de revisión oral de código en CS1]], **entrevistas semanales de quince minutos cargaban con el setenta por ciento de la nota de cada tarea**, y los caracteres pegados sobre el total seguían siendo informativos. El coste es real y el diseño es implementable a escala de curso.
 - **«Los exámenes orales son más blandos que los escritos.»** En el piloto informado, las puntuaciones **superaron las de las pruebas de opción múltiple presenciales: mediana del parcial 92,5 frente a 70 (p < 0,001) y mediana del final 94,2 frente a 86,4 (p = 0,002)**. La evaluación oral no fue la opción indulgente.
 - **«Un encuentro simulado equivale a los casos de divulgación progresiva.»** En [[ai-standardized-patient-scaffolding-medical-2026|un ECA con cien estudiantes de tercer año de medicina]] se comparó el sistema de paciente simulado **con materiales de casos de divulgación progresiva**, una prueba directa de equivalencia y no una suposición de ella.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — Secuencias de verificación oral y de viva, y lo que demuestran y no demuestran
-- [[assessment]] — el campo más amplio en el que se sitúa este formato
-- [[authentic-assessment]] — la tradición de diseño que sostiene el argumento de integridad
-- [[assessment-validity]] — lo que un formato puede y no puede pretender medir
-- [[academic-integrity]] — la presión que devolvió protagonismo a los exámenes orales
-- [[automated-assessment]] — administración y puntuación automáticas del desempeño oral
-- [[ai-detection]] — la respuesta alternativa, y por qué es más débil
-- [[speech-and-voice-technologies]] — la canalización de habla sobre la que funciona un sistema oral
-- [[multimodal]] — el gesto y el habla como evidencia combinada
-- [[anxiety-and-stress]] — el coste afectivo del desempeño en directo
-- [[feedback]] — lo que una viva dice a quien aprende sobre su propia comprensión
-- [[higher-ed]] — el contexto del que procede casi toda esta evidencia
-
-## Artículos conectados
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Las tareas de diálogo con IA sin ramificación desalinean las exigencias de la tarea con el constructo de la expresión oral
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Las vivas en directo ya no son inmunes: gafas y auriculares de IA entregan indicaciones encubiertas en tiempo real (Corbin, Sharpe y Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar el uso de los exámenes y las evaluaciones orales (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Evaluaciones orales asíncronas: integridad, implicación y comunicación profesional
-- [[ai-supported-oral-assessment-tvet-2026]] — Diseñar una evaluación oral con apoyo de IA en la formación profesional
-- [[aivaluate-anxiety-assessment-2026]] — Ansiedad y experiencia en la evaluación de desempeño mediada por IA
-- [[code-review-genai-cs1]] — Entrevistas orales de revisión de código en un curso introductorio de programación
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — El gesto como evidencia al evaluar explicaciones orales
-- [[socratic-tests-conversational-assessment]] — Pruebas conversacionales automatizadas como evaluación oral
-- [[tool-invariant-framework-agentic-ai]] — Defensas orales de trabajos asistidos por IA
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Entrevistas clínicas habladas bajo un sistema de paciente simulado
-- [[pgr-students-genai-uses-qualitative-2026]] — La viva doctoral bajo la IA generativa
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
-- [[assessment-feedback-trilemma-model-2026]] — No concede a ningún formato una posición fija y reencuadra la viabilidad como prioridad educativa
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Orales por parejas con andamiaje de IA como solución de programación en un curso de estadística empresarial
-- [[deng-certification-consultation-university-teaching-2026]] — La enseñanza universitaria tras la IA generativa: más allá de las clases y la indagación, hacia un paradigma de certificación y consulta en el que el estudiantado se convierte en evaluador
-- [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar un trabajo elaborado en casa, con una viva condicional para los vínculos poco claros (Webb-Davies, Ratner y Bassett, 2026)
-- [[challen-conversational-assessment-chat-exams-2026]] — Evaluación conversacional escalable: exámenes de chat con una canalización de LLM de dos agentes

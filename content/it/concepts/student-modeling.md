@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -59,7 +61,6 @@ Il modellamento affettivo dello studente è un'ulteriore dimensione: un tutor di
 
 La difficoltà percepita è un'ulteriore dimensione del modellamento dello studente, e può essere prevista da caratteristiche legate alla persona anziché dalle sole statistiche del testo. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] hanno costruito modelli di lettore basati su profili a partire dalle valutazioni di 3.954 frasi da parte di 193 studenti tedeschi della scuola superiore, e il loro ensemble KNN più XGBoost raggiungeva un RMSE di 0,822 contro una baseline media di 1,070, con R2 = 0,396. Ogni regressore che includeva caratteristiche del lettore batteva sia la baseline media sia quella della complessità media, quindi un modello dello studente che cattura chi è il lettore predice quanto un testo risulti difficile — una dimensione di percezione che gli altri modelli di questa pagina non portano.
 
-
 ## Lo strato di istruzione adattiva
 
 Questi concetti rispondono alla domanda «che cosa dovrebbe essere insegnato dopo?» — il lato applicativo che consuma i modelli dello studente.
@@ -89,7 +90,6 @@ I modelli che inferiscono lo stato dello studente dal gioco hanno raggiunto AUC 
 Alcuni segnali previsti potrebbero non essere affatto recuperabili dal dialogo: il pilota del framework Learning Context ha recuperato i fraintendimenti al 91,4% e l'[[anxiety-and-stress|ansia]] al 100%, ma la coscienziosità soltanto al 68,6% e la competenza linguistica al 60%, sicché un modello sensibile al contesto dovrebbe cogliere le caratteristiche che emergono lentamente anziché attendere che il dialogo le esponga ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 I segnali fisiologici e oculari ampliano la base di modellamento: eye tracking, EEG, attività elettrodermica e frequenza cardiaca sono ora usati per inferire engagement, attenzione e carico cognitivo ([[sensor-and-gaze-analytics]]). L'inferenza dal segnale allo stato mentale è l'anello debole, poiché un corpo può essere registrato senza che il suo stato venga identificato.
-
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] mettono in luce una circolarità nel modo in cui tali studenti sintetici vengono validati: i loro agenti EduMirror somministrano [[self-report-measures|questionari psicometrici]] a posteriori e leggono la concordanza con la rappresentazione interna dei valori dell'agente come validità psicologica, ma poiché il Surveyor misura dimensioni già codificate in quel sistema di valori, la verifica è un controllo di coerenza anziché una validazione indipendente.
 
@@ -123,61 +123,3 @@ Il modellamento dello studente e l'istruzione adattiva alimentano l'[[learning-a
 - **"Un modello fedele richiede il metodo più complesso."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries e Koprinska (2025)]] mostrano che **una rappresentazione fedele non richiede l'approccio più complesso**. La complessità non è un indicatore di fedeltà, e un modello più semplice che coglie la struttura rilevante può essere lo strumento migliore.
 - **"I modelli dello studente hanno bisogno di dati di traccia."** Un modello predittivo dello studente può poggiare **sulla struttura delle iscrizioni** anziché sui dati di traccia: TRACE codifica ogni semestre come un **insieme non ordinato di corsi** e prevede a partire da esso. Il segnale predittivo può risiedere nel registro amministrativo dell'istituzione.
 - **"Lo stato affettivo richiede sensori fisiologici."** Un tutor di matematica **inferiva l'emozione dal testo conversazionale e dall'espressione facciale** e mappava lo stato aggregato sulle decisioni di tutorato. Il segnale affettivo era recuperabile da ciò che i discenti producevano già.
-
-## Concetti collegati
-
-- [[learners]] — Studenti: l'ombrello dei concetti relativi al lato dello studente
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — i modelli sottostanti alla previsione del rischio e all'individuazione dei destinatari del sostegno
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Articoli collegati
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-
-- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogue-based learning-style inference fails on balanced metrics (Zamanifard, Goudarzi & Robb 2026)

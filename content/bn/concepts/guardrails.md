@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -65,7 +67,6 @@ ai_assist:
 - **শিক্ষক-চক্রে QA:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] দেখে শিক্ষকরা স্থাপনার আগে এআই টিউটরিং বট প্রায় কখনও পরীক্ষা করেন না, এবং সংশোধন-ভিত্তিক সম্পাদনা ও [[human-in-the-loop-ai|মানব-চক্রে]] যাচাইয়ের মাধ্যমে শিক্ষক-চালিত QA-কে প্রথম-শ্রেণির লেখন-কাজ হিসেবে বাধ্যতামূলক করে।
 
 - **শিক্ষার্থী-ইনপুটই মডারেশন-সমস্যা, আর তা সামান্যই।** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian প্রমুখ (২০২৫)]] একটি গণিত ITS-এ দুই-স্তরের নিরাপত্তা-ফিল্টারের ভেতরে কাঠামোবদ্ধ চ্যাট স্থাপন করেন এবং দেখেন 54,384টি মাঠ-স্থাপনার শিক্ষার্থী-বার্তার মধ্যে কেবল 0.31% OpenAI মডারেশন API-তে 0.1 বা তার বেশি স্কোর করেছে, যেখানে একমাত্র উচ্চ-ঝুঁকির পতাকাটি ছিল মিথ্যা সংকেত। প্রতি-শ্রেণির থ্রেশহোল্ডগুলো নীতি হওয়ার আগে রেড-টিম-ক্রমাঙ্কিত ছিল — 17 জন শিক্ষাবিদ ও নকশাকার 57টি প্রতিকূল কথোপকথন চালান।
-
 
 - **কেবল যাচাইযোগ্য নির্দেশনা।** [[reflection-agent-fidelity-career-2026|Nepal প্রমুখ (২০২৬)]] একটি GPT-4o প্রতিফলন-এজেন্টকে তার নিজের সিস্টেম-প্রম্পটের বিপরীতে নিরীক্ষা করে দেখেন আনুগত্য যাচাইযোগ্যতাকে অনুসরণ করে: যান্ত্রিক নিয়ম (উত্তরের দৈর্ঘ্যের সীমা) মানা হয়েছে, অথচ আচরণগত নিয়ম ("তোষামোদ করো না", "নরমভাবে চ্যালেঞ্জ করো") তার প্রায় অর্ধেক পর্বে ভাঙা হয়েছে আউটপুটে কোনো চিহ্ন ছাড়াই, এবং আচরণগত লঙ্ঘন অংশগ্রহণকারীদের খারাপতর ফলাফলের সঙ্গে মিলে গেছে। নকশার তাৎপর্য হলো আচরণকে যাচাইযোগ্য পরিভাষায় নির্দিষ্ট করা এবং প্রতিলিপি নিয়মিত নিরীক্ষা করা, কারণ যে গার্ডরেল যাচাই করা যায় না তার উপর নির্ভর করা যায় না।
 - **এমন মডেলকে ঘিরে একটি নির্ভরযোগ্যতা-স্তর যা শিক্ষাবিদেরা নিরীক্ষা করতে পারেন না।** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten ও Bardyn (২০২৬)]] একটি এলএলএম-কে বাহ্যিক যাচাই, লক্ষ্যভিত্তিক মেরামত ও নিরাপদ ফলব্যাক দিয়ে ঘেরেন, যা একটি বিকাশগত ও শিক্ষাবিজ্ঞানিক কাঠামো দ্বারা পরিচালিত এবং মডেল-নিরপেক্ষ ও গোপনীয়তা-সংরক্ষণকারী রাখা হয়। 12–16 বছরের শিক্ষার্থীদের সঙ্গে একটি এলএলএম-চালিত সামাজিক রোবটের সহ-সৃষ্টি কাজে শ্রেণিকক্ষ-পাইলটে পরিচালিত প্রোটোটাইপ কেবল-প্রম্পট বেসলাইনের তুলনায় বেশি কার্যকলাপ, [[student-engagement|সম্পৃক্ততা]] ও বিষয়-সম্মত অংশগ্রহণ আকর্ষণ করে। স্থাপত্যের মূল কথা হলো নিরাপত্তা একটি ব্যবস্থার *চারপাশে* যুক্ত করা যায়, তার অভ্যন্তরে প্রবেশাধিকার না চেয়েই, আর এটাই [[k-12|K-12]] পরিবেশে স্তরবিন্যস্ত গার্ডরেল স্থাপনযোগ্য করে।
@@ -125,46 +126,3 @@ ai_assist:
 **"গার্ডরেল থ্রেশহোল্ড হলো টিউন করার প্রকৌশল-সিদ্ধান্ত।"** একটি থ্রেশহোল্ড হলো বণ্টনমূলক খরচসহ একটি নীতি-সিদ্ধান্ত। বিষাক্ততা-সীমা 0.3 থেকে 0.7-এ সরালে লেবেলকৃত প্রম্পট **35.62% থেকে 12.4%**-এ নেমে আসে; স্ক্যাম-শনাক্তকারীতে তা **15টি ভুয়া-অ্যালার্ম ও 18টি মিস করা স্ক্যামের বদলে 2 ও 36** দেয়। কোনো সীমাই বিনিময়টি সরায় না — তা কেবল ঠিক করে প্রতিষ্ঠান কোন ভুলটি পছন্দ করে, এবং সেই সিদ্ধান্ত প্রতিষ্ঠানের, কোনো ডিফল্ট ধ্রুবকের নয়।
 
 **"ন্যায্যতা-নিরীক্ষা গার্ডরেলের পর্যাপ্ততা থেকে আলাদা বিষয়।"** প্রত্যাখ্যান ও সহায়তার ধরন সমানভাবে প্রয়োগ করলেও সুবিধা অসমভাবে বিতরণ করে, আর গড় ক্ষতির হার লুকিয়ে রাখে কোন শিক্ষার্থীরা তা শুষে নেয়। নিরীক্ষাকে গার্ডরেলের নির্দিষ্টকরণের অংশ হতে হবে, পরে চালানো গবেষণা নয়।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-safety]] — যে লক্ষ্য গার্ডরেল বাস্তবায়িত করে
-- [[prompt-engineering]] — উত্তর নয় সংকেত নকশা-কৌশল
-- [[rag]] — গার্ডরেল হিসেবে জ্ঞান-ভিত্তিকরণ
-- [[human-in-the-loop-ai]] — শিক্ষক QA ও তদারকি
-- [[llm-training-and-fine-tuning]] — প্রশিক্ষণ/সারিবদ্ধতার স্তর
-- [[reinforcement-learning]] — নিরাপদ আচরণের জন্য পুরস্কার-গঠন
-- [[bias-mitigation]] — ন্যায্যতার জন্য গার্ডরেল নিরীক্ষা
-- [[ai-sycophancy]] — যে কারচুপি-ঝুঁকি গার্ডরেলকে প্রতিরোধ করতে হয়
-- [[scaffolding]] — যে শিক্ষাবিজ্ঞানিক প্রক্রিয়া গার্ডরেল রক্ষা করে
-- [[socratic-method]] — একটি উত্তর নয় সংকেত মিথস্ক্রিয়া-ধরন
-- [[hallucination-risk]] — যে বানোয়াট-ঝুঁকি গার্ডরেল কমায়
-- [[cognitive-offloading]] — যে অতিনির্ভরতার ক্ষতি গার্ডরেল প্রতিরোধ করে
-- [[k-12]] — যে প্রসঙ্গে গার্ডরেল সবচেয়ে বেশি জরুরি
-- [[ethics]] — নীতিগত ভিত্তি
-- [[governance]] — নীতি-স্তর
-- [[intelligent-tutoring]] — যে ব্যবস্থাগুলোকে সুরক্ষিত করা হচ্ছে
-- [[misconceptions]] — যে জ্ঞান গার্ডরেলকে যাচাই করতে হয়
-- [[trust]] — সু-নকশাকৃত গার্ডরেলের ফল
-- [[llm]] — যে মডেল-স্তরকে সীমাবদ্ধ করা হচ্ছে
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-security-literacy-k12-framework-2026]] — এআই নিরাপত্তা-সাক্ষরতা: বাস্তুতন্ত্র-ভিত্তিক সক্ষমতা-কাঠামো ও K-12 শিখন-প্ল্যাটফর্ম
-- [[reflection-agent-fidelity-career-2026]] — যেখানে যাচাই করা যায় সেখানে বিশ্বস্ত: একটি এলোমেলো-বণ্টিত ট্রায়ালে প্রতিফলন-এজেন্টকে তার সিস্টেম-প্রম্পটের বিপরীতে নিরীক্ষা
-- [[scaffolding-student-ai-dialogue-framework-2026]] — শিক্ষার্থী-এআই সংলাপ পরিচালনার SCAFFOLD কাঠামো, তার শ্রেণিকক্ষ-পাইলটসহ
-- [[generative-ai-guardrails-harm-learning]] — গার্ডরেল নিয়ে প্রামাণ্য ক্ষেত্র RCT
-- [[eduzone-llm-safety-k12]] — K-12 এলএলএম নিরাপত্তা-কাঠামো
-- [[eduguard-safe-rag-llm-tutor]] — টিউটরের জন্য RAG-ভিত্তিক নিরাপত্তা
-- [[paternalistic-filter-llm-history-education]] — পক্ষপাতের জন্য গার্ডরেল নিরীক্ষা
-- [[singh-eduqwen-pedagogical-rl-2026]] — আরএল-সারিবদ্ধ পরিচালিত শিখন
-- [[tact-pedagogically-adaptive-esl-tutoring]] — শ্রেণিবিন্যাস-সারিবদ্ধ উত্তর-প্রশিক্ষণ
-- [[eduframetrap-llm-sycophancy-educational-safety]] — নিরাপত্তা-ঝুঁকি হিসেবে তোষামোদ
-- [[ai-tutor-authoring-promptdecipher]] — শিক্ষক-চালিত QA
-- [[llm-unlearning-math-privacy]] — মডেল-স্তরের আনলার্নিং
-- [[pedagogical-safety-rl]] — শিক্ষাবিজ্ঞানিক নিরাপত্তার জন্য পুরস্কার-গঠন
-- [[residencyrl-clinical-rl-training-2026]] — ক্লিনিকাল প্রশিক্ষণে নিরাপত্তা-সারিবদ্ধ আরএল
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — প্রাথমিক গণিতের একটি এলএলএম টিউটরিং ব্যবস্থায় নিয়ম-নির্দেশিত বনাম তাৎক্ষণিক স্ক্যাফোল্ডিং (Looi প্রমুখ ২০২৬)
-- [[instructional-governance-design-computing-education-2026]] — নকশা অনুযায়ী শিক্ষণীয় শাসন: কম্পিউটিং শিক্ষায় এআই-এর জন্য একটি কাঠামো
-- [[guardrails-ai-teaching-assistants-programming-2026]] — গার্ডরেল নাকি পথাবরোধ? প্রোগ্রামিংয়ের এআই শিক্ষণ-সহায়কে শিক্ষাবিজ্ঞানিক ধরন ও প্রসঙ্গ-সচেতনতার প্রভাব
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — বাস্তব শ্রেণিকক্ষে পর্যবেক্ষিত 20টি এআই সরঞ্জামে শিক্ষার্থী-চিন্তার ঝুঁকি কীভাবে পণ্য-শ্রেণি অনুযায়ী ভিন্ন ছিল

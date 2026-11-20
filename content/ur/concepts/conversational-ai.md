@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, pedagogical-agent, generative-ai, llm, student-ai-interaction, ai-literacy, human-ai-collaboration, cognitive-offloading, feedback, metacognition, self-regulated-learning, language-learning, academic-integrity, hallucination-risk, equity-in-ai-education, reducing-ai-misuse, speech-and-voice-technologies, parents-and-families, executive-function]
+connected_articles: [rho-disengaged-conversational-behaviors-2026, mata-sustaining-ai-enabled-student-support-2026, usher-faraon-who-grades-best-2026, llm-agents-5e-esl-grammar-2026, semantic-variability-llm-conversation-assessment-2026, colbran-student-perspectives-genai-chatbots-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, conversational-ai-agents-umbrella-review-2026, conversational-ai-tutors-framework, measuring-llm-tutors-teach-vs-solve, stanford-evidence-base-ai-k12-2026, rethinking-scaffolding-llm-tutors, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, lee-wu-gender-motivation-genai-achievement-2026, liao-role-adaptive-ai-companion-book-talk-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, culturally-aware-student-stress-chatbot-2026, studentbench-ai-human-tutoring-gre-2026, pergantis-chatbots-executive-functions-systematic-review-2025, helpcoach-ai-help-seeking-scaffolding-2026, fang-chatbot-psychosocial-extended-use-2025, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -47,13 +49,11 @@ ai_assist:
 گفتگو والے ایجنٹ درجہ بندی کے لیے بھی استعمال ہوتے ہیں، اور اُن کا تشخیصی رویہ انسانوں سے مختلف ہے: ایک ہی 52 انڈرگریجویٹ منصوبوں کے تین جانچنے والوں میں ChatGPT سب سے نرم گیر تھا (M = 91.46 بمقابلہ مدرس کے 83.13) اور ساتھیوں کے ساتھ اُس کی درجہ بندی کا کوئی مشترک منطق نہ تھا (r = 0.05)، اگرچہ طلبہ نے اُس کی مکالماتی تفاعل پسندی کو قدر کی نگاہ سے دیکھا ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]])۔
 **صارفین ایجنٹ کی ساکھ کو سماجی طور پر پڑھتے ہیں۔** ChatGPT کی سمجھی جانے والی قابلیت نے اُس کے فیڈبیک کی ساکھ کی براہِ راست پیش گوئی کی، جبکہ سمجھی جانے والی گرم جوشی صرف انسان نما ہمدردی کے راستے کام کرتی رہی (SEM، 230 طلبہ)، [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] کے مطابق — گفتگو والا ایجنٹ ساکھ محض جواب کے منبع کے طور پر نہیں بلکہ سماجی ساتھی کے طور پر کماتا ہے۔
 
-
 **گفتگو کے طالب علم والے حصے کو سکافولڈ کرنا۔** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] نے چیٹ انٹرفیس میں سوال کی مخصوصیت کا مانیٹر اور نظرثانی کا ٹیمپلیٹ شامل کیا اور صرف مبہم سوالات پر مداخلت کی: ویب پروگرامنگ سیکھنے والے 40 کالج طلبہ کے درمیان مضامین کے درمیان مطالعے میں، HelpCoach کے صارفین نے نمایاں طور پر زیادہ مخصوص پہلے سوالات لکھے (57.3% بمقابلہ 40.5%) اور ایک ہفتے بعد زیادہ علم برقرار رکھا (6 میں سے اوسط اضافہ 1.9 بمقابلہ 0.3، d = 1.100)۔ برقرار رکھنے کا فائدہ زیادہ ہدف شدہ چیٹ بوٹ جوابات کے راستے نہیں آیا، جو حالات کے لحاظ سے مختلف نہ تھے — یعنی طریقہ کار ایک کھلا مفروضہ رہا، مظاہر شدہ راستہ نہیں۔
 
 **ایجنٹ کا کردار تعامل کی صورت گری کرتا ہے۔** CAI کا ڈیزائن اپنی شخصیت کے بارے میں غیر جانبدار نہیں: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] نے پایا کہ ابتدائی درجات میں کتاب پر گفتگو کے دوران ایک مقرر 'طالب علم ساتھی' ساتھی نے طویل تعامل برقرار رکھا مگر گفتگو پر غلبہ پا لیا (طلبہ کے الفاظ و جملوں کا حصہ کم) اور ایک 'جذباتی چھت' سے ٹکرایا — حقائق یاد کرنے میں انسانی استاد کے برابر مگر جذباتی اور مستقبل پر مبنی غور و فکر میں کم — اور دلیل دی کہ CAI کو اپنا کردار ڈھالنا چاہیے (ساتھی، استاد کا معاون، والدین کا مشیر) نہ کہ یک رخا رہنا چاہیے۔ [[xu-genai-collaborative-space-2026|Xu et al.]] اسے چھوٹے گروہوں تک بڑھاتے ہیں اور دکھاتے ہیں کہ جنریٹو AI ہم وقت اور غیر ہم وقت تعاون کی حرکیات میں بیک وقت *ایجنٹ* اور *تعاونی فضا* کا کردار ادا کرتا ہے، جہاں تعامل کا ڈیزائن طے کرتا ہے کہ یہ گروہی علمی عمل کو سہارا دے گا یا اُس کی جگہ لے لے گا۔ لہجہ گفتگو کے علاوہ کسی بیرونی درجہ بندی کنندہ سے بھی مقرر ہو سکتا ہے: [[culturally-aware-student-stress-chatbot-2026|Sukoon (Bashir & Afzal, 2026)]] 20 سروے خصوصیات پر Random Forest کی تربیت کرتا ہے تاکہ دباؤ کی کم، معتدل یا زیادہ سطح مقرر کرے، اور یہ پیداوار Stepped Care Model سے متاثر تین جوابی سطحوں میں سے ایک منتخب کرتی ہے — کم دباؤ پر گرم جوش اور حوصلہ افزا، زیادہ دباؤ پر زمین سے جڑا اور غیر فیصلہ کن — اس کے بعد ایک [[open-source]] LLM (OpenRouter کے ذریعے GLM-4.5-Air) پوری گفتگو کی تاریخ اور ثقافتی طور پر ڈھلے نظامی پرامپٹ کے ساتھ، جو ہر باری پر دوبارہ بھیجا جاتا ہے، مکالمہ سنبھال لیتا ہے۔ مصنفین نے جان بوجھ کر مفت رسائی والا [[multilingual-learning|کثیر لسانی]] ماڈل چنا تاکہ علاقائی جامعات میں تعیناتی ممکن رہے، اور نوٹ کرتے ہیں کہ اردو پرامپٹ انجینئرنگ کے ذریعے آتی ہے، حقیقی دو لسانی پائپ لائن کے ذریعے نہیں — یہ ایسی حد ہے جو ہر اُس موقع پر اہم ہوتی ہے جب ثقافتی مناسبت کو جانچے گئے نتیجے کے بجائے نظام کی خصوصیت قرار دیا جائے۔
 
 **گفتگو کا رویہ فراہم کنندہ کی پیروی کرتا ہے، ٹیوننگ کی نہیں۔** [[learning-sciences|سیکھنے کی سائنس]] سے لیے گئے چھ مقررہ اصولوں پر جانچے گئے 1,971 AI اور 135 انسانی نقول میں، ایک ہی فراہم کنندہ کے ماڈلز کا جھرمٹ بغیر کسی باہمی دخل کے الگ الگ رہا، جسے مصنفین یہ سمجھتے ہیں کہ تدریسی رویہ انفرادی ماڈل ٹیوننگ کے بجائے فراہم کنندہ کی مجموعی تربیتی مشقوں کی پیروی کرتا ہے ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]])۔
-
 
 جوابات کی مستقل مزاجی ایک بنیادی ڈھانچے کا مسئلہ ہے، پرامپٹنگ کا نہیں: ایک ہی ماڈل کے اندر جوابات کی مماثلت 0.715–0.795 رہی جبکہ ماڈلز کے درمیان 0.443–0.604، اور چیٹ کی تاریخ شامل کرنے سے جواب کا متن بدل گیا، حتیٰ کہ اسی مرکزی پیغام کے لیے بھی ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]])۔
 **طلبہ کے نقطہ نظر۔** حقیقی استعمال ظاہر کرتا ہے کہ اپنانا تکنیکی صلاحیت سے زیادہ [[ai-literacy]] اور [[usability-research|صارف تجربے]] پر منحصر ہے۔ آسٹریلیا کے قانون کے کورس میں ایک انسان مرکز [[mixed-methods-research|مخلوط طریقوں]] والا مطالعہ 'Jordan Chatbot' پر ہوا — GPT-4o پر مبنی [[pedagogy|پیدگوجیکل]] ایجنٹ — اور اُس نے پایا کہ طلبہ مثبت رویے رکھتے ہیں اور علم میں اضافہ محسوس کرتے ہیں جبکہ [[academic-integrity]] تقاضوں کی بھرپور حمایت کرتے ہیں؛ ایک تہائی سے زیادہ تعامل معمول کے اوقات کے بعد ہوا، جو 24/7 دستیابی کی قدر کی تصدیق کرتا ہے ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]])۔ قابلِ توجہ بات یہ ہے کہ AI خواندگی — نہ کہ عمومی ٹیکنالوجی کی مہارت — نے چیٹ بوٹ استعمال کرنے کی رضامندی اور خود اعتمادی کی پیش گوئی کی، اور غیر صارفین میں سب سے بڑی رکاوٹ استعمال پذیری (ایک مداخلت کرنے والا پاپ اپ ڈیزائن) تھی، جو اعتماد، عملے کی ترجیح اور تعلیمی دیانت کے خدشات سے آگے تھی۔([[colbran-student-perspectives-genai-chatbots-2026]]) مطالعہ انسان مرکز ڈیزائن، واضح AI پالیسیوں اور جانچ کے لیبلوں، عملے اور طلبہ کی تربیت، اور مسلسل غلطی کی نگرانی کی سفارش کرتا ہے — یہ ثبوت کہ موثر CAI تعیناتی تکنیکی مسئلے کی طرح ڈیزائن اور خواندگی کا بھی مسئلہ ہے۔ عمر کے دوسرے سرے پر، [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] نے 6–14 سال کے بچوں کا AMA کے ساتھ تعامل کا مطالعہ کیا، جو موضوع تک محدود اور عمر کے مطابق ڈھلا چیٹ بوٹ ہے (فلکیات، اسنیکرز اور جوتے، ڈائنوسار)، اور پایا کہ معلومات کے منبع کے طور پر AI کے بارے میں وسیع کھلا پن اور زیادہ اعتماد ہے — بچوں نے حتیٰ کہ معلوم جواب والے سوالات سے اُس کی ساکھ جانچی بھی — البتہ تنقیدی شمولیت اور ڈیجیٹل حفاظت کی آگاہی میں خلا موجود ہے، جو عمر کے لحاظ سے حساس اور اعتماد سے واقف گفتگو والے AI ڈیزائن اور [[privacy]] کی واضح ہدایت کی دلیل ہے۔
@@ -83,7 +83,6 @@ ai_assist:
 
 گفتگو والے ایجنٹ محض سوالات کے جواب دینے کے بجائے تدریس، [[motivation]] اور [[metacognition]] کی معاونت کے لیے منتخب کریں، اور HCI پر مبنی، شراکتی اور صارف مرکز تعامل کے لیے ڈیزائن کریں۔ [[cognitive-offloading|حد سے زیادہ انحصار]] سے بچیں اور CAI کو [[ai-literacy]] کی تعلیم اور ایسے [[feedback]] کے ساتھ جوڑیں جو سیکھنے والے کو علمی طور پر پیداواری رکھے۔ AI خواندگی اور استعمال پذیری پر واضح توجہ دیں — کیونکہ اپنانے اور نہ استعمال کرنے کا تعین یہی کرتے ہیں، عمومی ڈیجیٹل مہارت نہیں ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — اور تعیناتی کو واضح AI استعمال کی پالیسیوں، جانچ کے لیبلوں اور تربیت کے ساتھ جوڑیں۔ CAI کو پیدگوجیکل نتائج پر جانچیں — محض کام کی تکمیل پر نہیں — اور مساوات اور [[accessibility]] کا منصوبہ شروع ہی سے بنائیں، بعد کی سوچ کے طور پر نہیں۔
 
-
 - **طلبہ گفتگو والے ایجنٹوں سے حقیقت میں کیسے بولتے ہیں — غیر مشغولیت کی چھ اقسام کا خاکہ:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] نے Math Nation کے الجبرا اور جیومیٹری اسباق میں GPT-4-Turbo پر مبنی سکھانے والا ایجنٹ (جو جدوجہد کرنے والے مڈل اسکول طالب علم کے طور پر پیش کیا گیا، [[knowledge-graph|نالج گراف]] پر [[rag|RAG]] سے مستند، اور ایک ایسے مینٹر ایجنٹ کے ساتھ جوڑا گیا جو طلبہ کی وضاحتوں پر تنقید کرتا تھا) شامل کیا اور 246 طلبہ کے 5,522 جملوں کی کوڈنگ کی۔ شمولیت (جملوں کا 75.7%) کے علاوہ اُنہوں نے غلط جواب دہی (12.8%)، روک لینا (8.9%)، بے ترتیب/شور والا (2.1%)، نقل (0.6%)، طنز (0.3%) اور غائب ہو جانا (0.2%) کی نشاندہی کی — اور نقل (ایجنٹ کا متن کاپی کرنا) ڈیٹا سے استقرائی طور پر ابھری۔ درجہ بندی [[human-in-the-loop-ai|انسان کو لوپ میں رکھنے والی]] تھی: دو جانچنے والوں کے نشان زدہ 1,682 جملوں (فی قسم κ = 0.704–0.905) نے فائن ٹیون شدہ LLaMA 3 درجہ بندی کنندہ کی تربیت کی (الگ رکھے گئے دھاگوں پر وزن شدہ F1 = 0.910) جس نے باقی 3,840 جملوں کو لیبل کیا۔ اس کے بعد عمل کی سطح پر مسابقتی خطرات کے تجزیے نے دکھایا کہ زیادہ تر غیر مشغولیت چند باریوں میں حل ہو جاتی ہے، سوائے روک لینے کے، جو برقرار رہتی ہے — یہ ایسا اشارہ ہے جس کے گرد ایجنٹ کے جوابات ڈیزائن کرنا چاہیے۔
 
 ## عام غلط فہمیاں
@@ -91,54 +90,6 @@ ai_assist:
 - **'گفتگو والے ایجنٹ کی ساکھ اُس کی درستگی کی پیروی کرتی ہے۔'** **صارفین ایجنٹ کی ساکھ کو سماجی طور پر پڑھتے ہیں۔** ChatGPT کی سمجھی جانے والی **قابلیت** نے اُس کے فیڈبیک کی ساکھ کی **براہِ راست** پیش گوئی کی، جبکہ سمجھی جانے والی **گرم جوشی** صرف **اُسی راستے** سے کام کرتی رہی۔ گرم جوش اور باصلاحیت لگنے والا ایجنٹ پیشکش پر اعتماد کماتا ہے، جو درستگی سے الگ محور ہے۔
 - **'LLM تنقیدی ساتھی سیکھنے والے کے فیصلے کی جگہ لے لیتے ہیں۔'** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] **تحفظ** کا پہلو ٹھوس طور پر دکھاتے ہیں: قدر سیکھنے والے کی سوچ کو برقرار رکھنے میں ہے، اُس کے لیے تنقید پیدا کرنے میں نہیں۔
 - **'گفتگو والے ایجنٹوں پر چھتری شواہد حتمی ہیں۔'** [[conversational-ai-agents-umbrella-review-2026|چھتری جائزہ]] CAI ایجنٹوں کے جائزوں کی ترکیب کرتا ہے، اور چھتری جائزے کی طاقت اُن جائزوں کے معیار تک محدود ہوتی ہے جو وہ جمع کرتا ہے۔
-
-## منسلک تصورات
-
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[speech-and-voice-technologies]]
-- [[parents-and-families]]
-
-## منسلک مضامین
-
-- [[rho-disengaged-conversational-behaviors-2026]] — طلبہ-AI مکالموں میں غیر مشغول گفتگو کے رویے (Rho et al. 2026)
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — AI سے فعال طالب علم معاونت کو برقرار رکھنا: ایک ادارہ جاتی چیٹ بوٹ کا چار سالہ نفاذ اور اثر کا مطالعہ (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — منصوبے کے معیار کی سطحوں پر ChatGPT، ساتھی اور مدرس کی درجہ بندی کا موازنہ (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — ESL گرامر کے حصول کے لیے 5E فریم ورک والے LLM ایجنٹ (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — GenAI چیٹ بوٹس پر طلبہ کے نقطہ نظر (مخلوط طریقے)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — AI چیٹ بوٹس کے لیے اپنانے کی شخصیات
-- [[conversational-ai-agents-umbrella-review-2026]] — تعلیم میں گفتگو والے AI ایجنٹوں کا چھتری جائزہ
-- [[conversational-ai-tutors-framework]] — گفتگو والے AI ٹیوٹرز کا فریم ورک
-- [[measuring-llm-tutors-teach-vs-solve]] — یہ پیمائش کہ LLM ٹیوٹر سکھاتے ہیں یا حل کرتے ہیں
-- [[stanford-evidence-base-ai-k12-2026]] — ٹیوٹرنگ کے لیے مخصوص بمقابلہ عمومی AI
-- [[rethinking-scaffolding-llm-tutors]] — LLM ٹیوٹرز میں سکافولڈنگ پر دوبارہ غور
-- [[conversational-agents-novice-programmers-scoping-2025]] — نئے پروگرامرز کے لیے گفتگو والے ایجنٹوں کا اسکوپنگ جائزہ
-- [[ba-ai-agents-cscl-review-2026]] — کمپیوٹر معاون تعاونی سیکھنے میں AI ایجنٹوں کا جائزہ
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — GenAI حصولیابی میں صنف اور تحریک
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — ابتدائی کتاب پر گفتگو کے لیے کردار کے لحاظ سے ڈھلنے والا AI ساتھی؛ مقررہ کردار والے ایجنٹوں کی جذباتی چھت (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — چھوٹے گروہ کی حرکیات میں ایجنٹ اور تعاونی فضا کے طور پر GenAI (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — پاکستانی یونیورسٹی طلبہ میں NLP اور مشین لرننگ کے ذریعے دباؤ کی شناخت اور بہبود کی معاونت کے لیے AI سے فعال ثقافتی طور پر واقف چیٹ بوٹ
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ سے GRE سیکھنے کے برابر فوائد
-
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: مسئلہ حل کرتے وقت ہدف شدہ AI مدد طلب کرنے کی سکافولڈنگ
 
 ## حوالہ جات
 

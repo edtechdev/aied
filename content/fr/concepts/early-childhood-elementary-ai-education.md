@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -92,52 +94,3 @@ Une première fenêtre neuro-imagériale sur cette question arrive avec une mise
 - **« Les enseignants vont utiliser l'IA pour générer des leçons entières. »** Les enseignants déléguaient le plus souvent (**60 %**) **pour combler des lacunes de contenu dans une leçon esquissée par eux-mêmes**, plutôt que pour générer des plans entiers. L'unité de délégation est la lacune, non la leçon.
 - **« Les jeunes enfants tirent moins de profit d'une littératie médiatique soutenue par l'IA. »** Le groupe soutenu par l'IA a montré **de forts gains en lecture médiatique (+3,50), en écriture (+1,67) et en littératie médiatique totale (+5,17, tous p < .01)**, avec des tailles d'effet intergroupes de d = 1,12 ou plus. Les gains étaient importants dans cette tranche d'âge, et non marginaux.
 - **« L'observation automatisée s'accorde avec les évaluateurs humains sur tous les plans. »** L'accord était **modéré dans l'ensemble (κ pondéré = 0,681) mais conditionné par le construit** : la convergence tenait pour le domaine du **soutien émotionnel** et pour la **qualité de la rétroaction**, et pas ailleurs. Moyenner sur les domaines masque l'endroit où l'instrument échoue.
-
-## Concepts liés
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Articles liés
-
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Façonner la petite enfance à l'ère de l'IA : compétences, pédagogie et soutien écologique (Pei 2026)
-- [[preservice-early-childhood-genai-magnetism-2026]] — L'engagement d'éducateurs en formation initiale à la petite enfance avec l'IA générative dans la conception d'activités scientifiques : le cas du magnétisme
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA : l'IA peut-elle évaluer l'adéquation développementale des histoires pour enfants ?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — L'intention comportementale des enseignants de maternelle d'utiliser l'IA dans les contextes de petite enfance (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play : les concepts d'IA débranchés à la petite enfance
-- [[ai-toys-child-development-2026]] — Les jouets dotés d'IA et le développement de l'enfant
-- [[tsingidou-ct-robotics-kindergarten-2026]] — La pensée informatique par la robotique à la maternelle
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — L'apprentissage personnalisé assisté par l'IA sur les fractions au primaire
-- [[elementary-writing-genai-systematic-review-2026]] — L'enseignement de l'écriture au primaire à l'ère de l'IA générative
-- [[awareness-technological-isomorphism]] — L'isomorphisme technologique dans les mathématiques du primaire
-- [[icub-humanoid-storytelling-llm-hri-2025]] — La narration par un humanoïde doté de LLM avec des enfants
-- [[human-ai-complementarity-social-emotional-learning-2026]] — La complémentarité humain-IA dans l'apprentissage socioémotionnel précoce (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI) : programme de littératie en IA centré sur le jeu pour la maternelle et le jardin d'enfants (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — Programme de littératie médiatique critique fondé sur l'IA destiné aux enfants
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — L'approche par projet créatif : un cadre pour adapter les agents d'IA et la robotique à l'apprentissage précoce (Yang, Li & Lee 2025)
-- [[ai-rated-classroom-observation-scores-2026]] — Je code ou l'IA code : les scores CLASS Pre-K notés par l'IA contre des évaluateurs humains entraînés dans des jardins d'enfants de Hong Kong (Fong et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Première comparaison neuro-imagériale d'enfants et d'adultes conversant avec ChatGPT : des réseaux contrôle-attention-mémoire moins intégrés chez les enfants de 6–7 ans
-- [[ai-literacy-ecec-curricula-four-country-2026]] — Littératie en IA pour les natifs de l'IA ? Une comparaison de quatre pays
-
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Les outils médiés par l'IA dans l'enseignement de l'anglais au primaire : une revue de cadrage des fonctions pédagogiques et de l'orchestration enseignante
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — La littératie numérique et médiatique des futurs enseignants de la petite enfance : une analyse bibliométrique des tendances de la recherche
-- [[yim-ai-literacy-primary-schools-review-2025]] — L'éducation à la littératie en intelligence artificielle dans les écoles primaires : quatre courants, un enseignement constructionniste et un socle de données probantes largement déclaratif (Yim et Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — Cartographie de la recherche en sciences au primaire : cinq grappes d'application, la médiation enseignante et des résultats épistémiques ténus (Barokah et coll. 2026)

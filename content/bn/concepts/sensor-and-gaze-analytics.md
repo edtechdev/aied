@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -85,7 +87,6 @@ ai_assist:
 
 একটি সেন্সর সহ-উপস্থিতি রেকর্ড করতে পারে যেখানে গবেষণা মিথস্ক্রিয়ার দাবি করে: [[hur-computational-analysis-teacher-group-interactions-2026|Hur প্রমুখ (2026)]] দেখেন একটি ভঙ্গি-ভিত্তিক ডিটেক্টর কেবল 55% রিকল-এ পৌঁছায়, শিক্ষক–শিক্ষার্থী দলীয় মিথস্ক্রিয়ায় মানব-কোডারদের চিহ্নিত 20টি ঘটনার 11টি ধরেছে। কোডকৃত অংশের 49.2%-এ শিক্ষক দল-সীমানার ভিতরে উপস্থিত ছিলেন, অথচ শিক্ষার্থীরা কেবল 25.4%-এ শিক্ষকের দিকে তাকিয়েছে, আর দুই তুলনাতেই কোনো অডিও-বৈশিষ্ট্য বদলায়নি — তাই পাইপলাইনটি স্থানিক সহ-উপস্থিতি নিবন্ধ করেছে, টেকসই মিথস্ক্রিয়া নয়।
 
-
 একটি শারীরবৃত্তীয় প্রোফাইল একটি রোগনির্ণয় নয়। পরীক্ষা-চাপ মডেল উত্তেজনা ও গতি থেকে গ্রেড-শ্রেণি পূর্বাভাস দেয়, আর লেখকেরা জোর দেন যে আউটপুটটি উচ্চ-দায়ের সিদ্ধান্তে নয়, বরং ব্যক্তিগত পরিস্থিতি ও মানসিক-স্বাস্থ্য প্রসঙ্গের পাশে থাকা উচিত ([[physiological-signals-exam-outcomes-ml|Yamazaki ও Rimal, 2026]])।
 
 সবশেষে, সংগ্রহ সমন্বয় নয়। Kim ও Han দেখেন বেশিরভাগ বহুমাধ্যমিক গবেষণা ধারাগুলো সমান্তরালে জমিয়েছে, একটি মুখের আবেগ, দৃষ্টি ও মুখ-শনাক্তকরণ ঘটনাপরে সারিবদ্ধ করেছে, এবং কোনোটিই শিক্ষার্থী ব্যবস্থাটি ব্যবহারকালে ইনপুটগুলো লাইভ ফিউজ করেনি ([[kim-ai-embodied-learning-review-2026|Kim ও Han, 2026]])। সিঙ্ক্রোনাইজড চ্যানেলের একটি পাতা শিক্ষার্থীর মডেল দেখাতে পারে, যখন তা কেবল একটি রেকর্ডিং।
@@ -115,40 +116,3 @@ ai_assist:
 **"সম্পৃক্তি একটাই জিনিস, তাই একটি স্কোর তা উপস্থাপন করতে পারে।"** গঠনটির তিনটি সূত্র, আর একটি সেন্সর বেশিরভাগ প্রথমটিতেই পৌঁছায়। E3Sense দেখে শিক্ষার্থীরা এটিকে সংজ্ঞানাত্মক, আচরণগত ও আবেগীয় সূচক দিয়ে ভিন্ন অনুপাতে সংজ্ঞায়িত করে, এবং সেই সংজ্ঞা পূর্বাভাস বদলে দেয় ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan প্রমুখ, 2026]])। একটি একক সংখ্যা লুকায় কোন স্তর মাপা হলো।
 
 **"মডেল ভ্যালিডেশন-ভাগে ন্যায্য হলে শ্রেণিকক্ষেও ন্যায্য।"** যে রেগুলারাইজার লিঙ্গ-গোষ্ঠী জুড়ে ভ্যালিডেশন-ত্রুটি সমান করেছিল, সে ধরে রাখা ব্যবধান আরও খারাপ করেছে ([[student-attention-estimation-fairness-2026|Fragkiadakis প্রমুখ, 2026]])। ন্যায্যতা একটি স্থাপনার বৈশিষ্ট্য, একটি চেকপয়েন্টের নয়।
-
-## সংযুক্ত ধারণা
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## সংযুক্ত নিবন্ধ
-- [[gaze-informed-ai-children]] — দৃষ্টি-চালিত LLM বর্ণনা শিশুদের বর্ণিত অঞ্চলে 6.48 s ধরে রাখে বনাম 1.67 s, কিন্তু গবেষণা বোঝাপড়া নয়, মনোযোগ মেপেছে (Wu প্রমুখ, 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — মাথায় পরা EEG, চোখ-অনুসরণ ও কপালের EDA 63.0% বেসলাইনের বিপরীতে 75.0% এক-স্তরের-মধ্যে নির্ভুলতায় স্ব-রেটিং সম্পৃক্তি পূর্বাভাস দেয় (Anupkrishnan প্রমুখ, 2026)
-- [[engagement-assessment-video]] — EduGage সাতটি পরিধেয় ও ক্যামেরা-ধারা অংশ-স্তরের সম্পৃক্তি-অনুমানে ফিউজ করে (MAE 0.81) এবং হালকা যন্ত্রপাতির পক্ষে যুক্তি দেয় (Leng প্রমুখ, 2026)
-- [[student-attention-estimation-fairness-2026]] — একটি বহুমাধ্যমিক মনোযোগ-মডেল MAE 0.283-এ পৌঁছায়, আর তার ভ্যালিডেশন-ন্যায্যতার লাভ ধরে রাখা বিষয়ে উল্টে যায় (Fragkiadakis প্রমুখ, 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — পরিধেয় এআই দ্বৈতভাবে স্বচ্ছ, তাই শারীরিক বাদ ব্যর্থ হয় ও প্রয়োগ শিক্ষার্থীদের শরীরের বিচারের দিকে সরে যায় (Corbin প্রমুখ, 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG পরিচিতি-পূর্বাভাসের পনেরোটি মডেল ট্রায়াল-স্বাধীন ভ্যালিডেশনে 0.9853 থেকে 0.6038 F1-এ নামে (Nanayakkara ও Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG-পুনর্গঠিত ছবি R² = 0.79-এ পরীক্ষা-কর্মদক্ষতা অনুসরণ করে, যেখানে এক উচ্চ-পুনর্গঠন-সম্পন্ন অংশগ্রহণকারী ভুল উত্তর দেন (Su প্রমুখ, 2026)
-- [[physiological-signals-exam-outcomes-ml]] — র‍্যান্ডম ফরেস্ট EDA, নড়াচড়া ও ত্বকের তাপমাত্রা থেকে পরীক্ষা-গ্রেড শ্রেণি পূর্বাভাস দেয়, সংকেতগুলো বোঝাপড়া নয় উত্তেজনার সূচক (Yamazaki ও Rimal, 2026)
-- [[affective-text-wearable-student-health]] — 458 জন Oura-পরা শিক্ষার্থীর মধ্যে উদ্বেগের বিষয় নয়, আবেগীয় নিবন্ধন ঘুম ও হৃদস্পন্দন-পরিবর্তনশীলতা অনুসরণ করে (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — ওয়েবক্যাম-দৃষ্টি 187 জন শিক্ষার্থীর জন্য রিইনফোর্সমেন্ট-লার্নিং প্রতিক্রিয়া চালায়; মনোযোগ শিখনের সঙ্গে r = 0.017-এ সম্পর্কযুক্ত ছিল, যেখানে কর্মভার ঋণাত্মকভাবে (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 ভঙ্গি-বৈশিষ্ট্য একটি নিখুঁত লেবেলযুক্ত সেটে 99.56%-এ সন্দেহজনক আচরণ চিহ্নিত করে, অসদাচরণ বা ন্যায্যতা পরীক্ষা না করেই (Arif প্রমুখ, 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 54 জন অংশগ্রহণকারী জুড়ে EEG সংযোগ বাহ্যিক লেখা-সহায়তার সঙ্গে কমে, নির্ভরতাকে সঞ্চিত সংজ্ঞানাত্মক ঋণ হিসেবে দেখায় (Kosmyna প্রমুখ, 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23টি গবেষণা জুড়ে সংবেদন-ভূমিকা 62.5% ট্যাগে প্রাধান্য পায়, এবং কোনো পর্যালোচিত ব্যবস্থা বহুমাধ্যমিক ধারা লাইভ ফিউজ করেনি (Kim ও Han, 2026)

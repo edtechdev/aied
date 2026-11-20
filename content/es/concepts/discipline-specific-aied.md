@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -126,52 +128,3 @@ Cada una se beneficiaría de una atención investigadora sostenida a medida que 
 - **«La disciplina importa sobre todo para los ejemplos de contenido.»** Una investigación con **560 estudiantes** encontró que la afiliación disciplinar **predice con qué frecuencia y con cuánta apertura usa el estudiantado la [[generative-ai|IA generativa]]**. La disciplina determina si la herramienta se usa y si ese uso se declara, y no solo sobre qué se le pregunta.
 - **«La interdisciplinariedad es un objetivo institucional genérico.»** La **forma de lo «interdisciplinar» está determinada por la propia disciplina**: la [[meta-analysis-systematic-review|revisión]] de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] encuentra que la forma que adopta varía según el campo. Una definición institucional única lee mal al menos a algunas de las disciplinas que abarca.
 - **«La formación profesional tiene una base de investigación comparable a la de las disciplinas académicas.»** La línea vocacional es **la más escasa en esa evidencia**: una revisión sistemática de **26 estudios** sobre formación profesional y vocacional no encontró **ninguno realizado en entornos de trabajo**, que son los entornos donde la competencia se ejerce de hecho. La ausencia en la literatura es una laguna y no un resultado nulo.
-
-## Conceptos conectados
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## Artículos conectados
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 docentes universitarios de educación física: la disciplinariedad corporal como barrera y el equipamiento de IA asignado a los equipos de élite (Yang, Chen y Rao, 2026)
-
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Revisión sistemática de la IA en la educación superior interdisciplinar (59 estudios)
-- [[llms-text-linguistics-teaching-2026]] — Los LLM en la enseñanza de la lingüística del texto
-- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar los principios del aprendizaje con IA en la formación de las profesiones de la salud
-- [[designing-ai-professional-development-itpack-2026]] — Desarrollo profesional con IA basado en el TPACK inteligente
-- [[teaching-the-teachers-genai-tpk-review-2026]] — El TPK específico de la IA generativa en la formación del profesorado
-- [[human-centered-ai-teacher-educators-2026]] — Aprendizaje profesional en alfabetización crítica en IA para formadores de docentes
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Cognición interpretativa en la educación en humanidades y ciencias sociales
-- [[becker-chatgpt-typology-physics-2026]] — Tipología del uso de ChatGPT en la educación en física
-- [[code-review-genai-cs1]] — Revisión de código con IA generativa en CS1
-- [[ai-writing-support-stage-ownership-2026]] — Apoyo a la escritura con IA por etapas y propiedad del trabajo
-- [[ai-engineering-education-balancing-act]] — El equilibrio de la IA en la educación en ingeniería
-- [[ai-literacy-career-adaptability-business-2026]] — Alfabetización en IA y adaptabilidad profesional en la educación empresarial
-- [[jiang-genai-activity-theory-disciplines-2026]] — Teoría de la actividad: diferencias disciplinares en el uso y la declaración de IA generativa (560 estudiantes)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulación impulsada por IA en la educación en enfermería: mejoras en conocimiento y confianza, efectos inconsistentes en la habilidad psicomotora
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — La IA generativa como andamiaje o como atajo en el aprendizaje de posgrado en TI
-- [[ai-vocational-education-training-review]] — Primera revisión sistemática de la IA en la formación profesional y vocacional
-- [[genai-architectural-design-studios]] — Modelos generativos en el taller de diseño: estímulo, expansión del espacio de soluciones y fijación
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Reglas de parada de dominio que certifican una regla sobregeneralizada como competencia

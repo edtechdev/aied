@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -39,8 +40,3 @@ K-12 için: ders planı, çalışma sayfası, [[special-education|IEP hedefi]], 
 ## Notlar
 
 Proje, hız için yerel olarak kurulmuş bir YZ sunucusu olduğunu ve verilerin yerel olarak işlendiği hiçbir zaman saklanmadığını, ayrıca Eğitim Bakanlığı yönergelerine uyumu iddia eder; [ekip sayfası](https://teacherserver.com/index-team.php), kurucu ve geliştirici olarak University of South Florida’da profesör Zafer Unal’ı, diğer üniversitelerden dört öğretim üyesinden oluşan bir danışma kuruluyla birlikte adlandırır. Bu iddialar, öğrenci çalışmalarıyla kullanımdan önce doğrulanmaya değerdir. Erişim kayıt gerektirir ve kendi araçlarınızı inşa etmek için ücretli bir eşlikçi platform vardır.
-
-## Bağlı kavramlar
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

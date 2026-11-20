@@ -9,6 +9,8 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 > **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety|pedagogical safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
@@ -113,45 +115,3 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 **"Guardrail thresholds are engineering choices to be tuned."** A threshold is a policy decision with a distributional cost. Moving a toxicity cutoff from 0.3 to 0.7 cut labeled prompts from **35.62% to 12.4%**; on a scam detector it traded **15 false alarms and 18 missed scams for 2 and 36**. No cutoff removes the tradeoff — it only decides which error the institution prefers, and that decision belongs to the institution rather than to a default constant.
 
 **"Fairness auditing is a separate concern from guardrail adequacy."** Refusal and support patterns distribute benefit unevenly even when applied evenly, and an average harm rate hides which students absorb it. Auditing has to be part of the guardrail specification, not a study commissioned afterwards.
-
-## Connected Concepts
-
-- [[pedagogical-safety]] — the goal that guardrails implement
-- [[prompt-engineering]] — the hint-not-answer design technique
-- [[rag]] — knowledge grounding as a guardrail
-- [[human-in-the-loop-ai]] — teacher QA and oversight
-- [[llm-training-and-fine-tuning]] — the training/alignment layer
-- [[reinforcement-learning]] — reward shaping for safe behavior
-- [[bias-mitigation]] — auditing guardrails for fairness
-- [[ai-sycophancy]] — the manipulation risk guardrails must resist
-- [[scaffolding]] — the pedagogical mechanism guardrails preserve
-- [[socratic-method]] — a hint-not-answer interaction mode
-- [[hallucination-risk]] — the fabrication risk guardrails reduce
-- [[cognitive-offloading]] — the over-reliance harm guardrails prevent
-- [[k-12]] — the context where guardrails matter most
-- [[ethics]] — the normative basis
-- [[governance]] — the policy layer
-- [[intelligent-tutoring]] — the systems being guarded
-- [[misconceptions]] — the knowledge guardrails must check
-- [[trust]] — the outcome of well-designed guardrails
-- [[llm]] — the model layer being constrained
-
-## Connected Articles
-- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms

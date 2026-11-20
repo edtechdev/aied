@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -81,36 +83,3 @@ ai_assist:
 - **«ШІ в освіті з природничих наук не має причинних доказів».** **Чотиритижневе рандомізоване оцінювання** платформи повторення зі ШІ в науках GCSE дає причинну оцінку **Hedges' g = 0.33**, **без доказів, що ефект відрізнявся за предметом**. Ефект скромний, і він причинний.
 - **«Дайте студентам доступ — і прирости прийдуть».** **Структурований доступ, а не сам доступ, рухає приріст**: за звітом команд, зростання в середньому становило **17% за необмеженого індивідуального доступу, але 34% і 31%, коли доступ був структурований**. Структура і була втручанням.
 - **«Наукова симуляція потребує спеціалізованого програмного забезпечення».** **Підказка природною мовою з чотирьох елементів** може згенерувати **фізичну симуляцію доповненої реальності з керуванням руками**. Бар’єр для авторства симуляції впав до дизайну підказки, що зміщує потрібну навичку з програмування на специфікацію явища.
-
-## Пов’язані поняття
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Пов’язані статті
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Розділ-рамка про наукову грамотність як узгодженість навчальної програми, викладання й оцінювання (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Семифазна рамка епістемічної ітерації для рефлексії про те, як методології ШІ можуть трансформувати дослідження освіти з природничих наук (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Систематичний огляд ШІ в освіті з природничих наук та хімії
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для навчання на основі дослідження в STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Кероване дослідження з підтримкою ШІ в фотосинтезі та диханні
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Тексти понятійної зміни проти діалогу зі ШІ для теплоти та температури
-- [[ai-grading-handwritten-physics-2026]] — Великомасштабне оцінювання письмових контрольних з фізики за допомогою ШІ
-- [[avraamidou-ai-colonization-science-education]] — Критичний коментар щодо колонізації освіти з природничих наук з боку ШІ
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Уявлення викладачів-стажерів з природничих наук про ШІ та його сприйняття
-- [[ai-assisted-inquiry-ssi-climate]] — Дослідження з підтримкою ШІ в соціально-наукових питаннях щодо зміни клімату
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Оцінювання тьюторства ШІ зі швидкістю інновацій: мікрорандомізовані випробування, ініційовані практиками, платформи тьюторства ШІ в науках GCSE
-- [[llm-benchmark-secondary-science-topics-2026]] — Бенчмарк для розуміння мовними моделями тем природничих наук середньої та старшої школи
-- [[nature-of-science-generative-ai-2026]] — Природа науки в епоху генеративного штучного інтелекту: епістемічна влада, матеріальність та синергійна відповідь
-- [[ai-university-physics-education-review-2026]] — Структурований командний доступ перевершив необмежений індивідуальний університетський огляд ШІ з фізики
-- [[genai-learning-motivation-meta-analysis-2026]] — Єдина галузь, чий мотиваційний інтервал перетинає нуль (g = 0.109, k = 3)
-- [[laiskhanov-ai-gis-geography-education-2026]] — Загальний комфорт із ШІ не переносився на готовність до GeoAI

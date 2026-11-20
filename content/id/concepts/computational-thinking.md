@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -77,54 +79,3 @@ Berpikir komputasional adalah fondasi kognitif bersama di bawah [[ai-literacy]] 
 - **"Bantuan AI meratakan lapangan di lingkungan berkekurangan sumber daya."** Ia bisa, dengan syarat. Sebuah **kuasi-eksperimen 14 minggu dengan 103 mahasiswa tahun pertama di Nigeria** menemukan bahwa pembelajaran berbasis masalah berbantuan AI (ChatGPT dan Teachable Machine) menghasilkan perolehan, dan AI sebagai "rekan yang lebih mampu" membawa CT ketika penyediaan lain tidak ada. Namun itu adalah temuan tentang intervensi yang terstruktur, bukan sifat dari memberi siswa sebuah [[conversational-ai|chatbot]].
 - **"LLM tidak dapat menilai CT secara andal."** [[llm-computational-thinking-physics-2026|Riset penilaian CT fisika]] menemukan bahwa LLM dapat **menyamai penilai manusia** dalam menilai pertumbuhan Praktik Data dan Praktik Pemecahan Masalah Komputasional pada kursus berenrolmen besar. Hambatan dalam menskalakan penilaian CT selama ini adalah kapasitas penilai, dan kendala itu sedang melunak — yang menggeser masalah desain menjadi apakah instrumennya mengukur CT atau kepatuhan.
 - **"CT adalah keterampilan koding yang kebetulan diajarkan robotika."** Sebuah **[[meta-analysis-systematic-review|tinjauan sistematis]] atas 95 studi** menegaskan bahwa robotika menumbuhkan CT, kreativitas dan pemecahan masalah, tetapi juga bahwa **latar memoderasi hasilnya**: penyampaian [[game-based-learning|berbasis permainan]] cocok untuk lingkungan informal sementara gamifikasi berbeda di lingkungan formal. CT adalah seperangkat praktik yang dialihkan secara tidak merata, sehingga klaim transfer memerlukan desain tugas yang benar-benar dipakainya.
-
-## Konsep terkait
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Artikel terkait
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Tes Berpikir Komputasional dalam Pelatihan AI (CTAT)
-- [[computational-thinking-aica-2026]] — Tingkat Berpikir Komputasional dan Asisten Koding AI (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Kepenulisan model: teori & pengukuran untuk belajar-dengan-membangun bersama GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: kerangka konstruksionisme untuk konstruksi artefak
-- [[astor-computational-thinking-meta-review-2026]] — meta-tinjauan CT atas 128 tinjauan sistematis
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Tinjauan sistematis CT melalui robotika di taman kanak-kanak
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: Alur Kerja yang Dapat Direproduksi bagi Ilmuwan Non-Pemrogram untuk Mengimplementasikan Model AI yang Terbit

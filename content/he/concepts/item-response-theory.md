@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
+connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -73,36 +75,3 @@ IRT היא יסוד של [[educational-measurement]] ו[[assessment-validity]], 
 - **"benchmark שרוב המודלים עוברים הוא benchmark טוב."** benchmark המיושר לתקנים יכול ל**הגיע לרוויה**: בערכות מדעים של [[k-12|חטיבת-ביניים]] ותיכון המיושרות ל‑NGSS, **רוב המודלים פתוחי-המשקל קיבלו מעל 90%**, ומדדי פריט קלאסיים נותרו גרועים. רוויה אינה אומרת שהמודלים מצוינים; היא אומרת שהפריטים אינם מבדילים עוד.
 - **"קושי פריט הוא תכונה מהותית של הפריט."** בדיקה סיבתית ש**ערכה 50 שאלות מבחן בכל מערך נתונים** לכיוון היפותזה או ממנה מצאה ש**עריכות שמעלות קושי הפחיתו דיוק ממוצע ב‑15.27 ו‑23.88 נקודות אחוז** ב‑GSM8K וב‑BBH-structured. קושי הוא יחס בין פריט למודל, והוא זז כשהפריט זז.
 - **"IRT נועדה רק לדירוג לומדים."** [[assessing-quality-ai-generated-exams-field-2025|הערכת בחינות המיוצרות על ידי AI]] משתמשת ב**מודל 2PL היררכי-בייסיאני עם פריטי עיגון טרום-מבחן כדי למקם 1,686 סטודנטים**, וזהו הבטחת איכות של ההערכה עצמה ולא דירוג עבור הסטודנט.
-
-## מושגים מחוברים
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[intelligent-tutoring]]
-
-## מאמרים מחוברים
-- [[unified-irt-framework-question-tutoring-dialogue-2026]] — מסגרת תגובה מאוחדת לשאלות ולדיאלוגי חונכות
-- [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
-- [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM difficulty calibration in programming exams
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-benchmark-secondary-science-topics-2026]] — benchmark מיושר לתקנים יכול להגיע לרוויה

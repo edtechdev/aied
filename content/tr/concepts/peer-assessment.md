@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,7 +40,6 @@ ai_assist:
 Akran değerlendirmesi, öğrencilerin normalde öğretmenlere ayrılmış olan değerlendirme işinin bir kısmını üstlendiği bir değerlendirme tasarımı seçeneğidir. Biçimleri, öğrencilerin ne ürettiği ve neyin hesaba katıldığı bakımından farklılık gösterir: akran geri bildirimi (tasalaktaki bir çalışmaya ilişkin yorumlar, genellikle [[formative-assessment|gelişimsel]] ve düşük riskli), akran notlandırma (nota katkıda bulunan bir işaret), akran kod incelemesi ve grup ya da ekip değerlendirmesi (akranların ortak ürünü veya birbirlerinin katkılarını değerlendirdiği yerlerde). Biçim, öğrencilerin ne pratik yaptığını belirler — ölçütlere dayalı bir yorum vermek, bir sayı atamaktan farklı biçimde [[evaluative-judgment|değerlendirme yargısı]] geliştirir ve kendi kodunu sözlü olarak savunmak yine bambaşka bir şey inşa eder. [[self-assessment]] olan kardeş uygulama, aynı ölçütlere dayalı incelemeyi öğrenenin kendi çalışmasına çevirir; akran değerlendirmesi ise bunu bir akranın teslim ettiği çalışmaya ve onunla birlikte gelen kitle farkındalığına yönlendirir.
 
 Araştırma temeli, akran değerlendirmesinin öğrenme ürettiği konusunda hemfikirdir ve bunun ne kadarının tasarıma bağlı olduğu konusunda ayrışır. Öğrencilere otantik bir kitle sunar, ölçütlere dayalı yanıt verme yoluyla değerlendirme yargısını geliştirir ve [[student-engagement|katılımı]] ile [[motivation]]'ı destekleyen toplumsal bağlamı inşa eder. Kalitesi büyük ölçüde [[scaffolding]]'e bağlıdır — ne kadar iyi yapılandırıldığına ve öğrencilerin net ölçütler ile eğitim alıp almadığına. YZ, akranların verdiği özgün, bağlam farkında geri bildirime tutarlı, ölçüt odaklı bir tamamlayıcı olarak ve giderek artan biçimde akran değerlendirme sürecinin içine inşa edilmiş bir iskele olarak, tam bu bağımlılık noktasında girer.
-
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], akranlarının yazılarını [[generative-ai|üretken YZ]] ile açık uçlu diyalog üzerinden inceleyen EFL öğrencilerinin, alıcıların nitelik açısından daha yüksek puanladığı geri bildirim ürettiğini; duygusal yanıt ve geri bildirim okuryazarlığındaki kazanımların ise diyaloğun niteliğine göre değiştiğini bulmuştur.
 
@@ -100,49 +101,3 @@ Açık sorular yalnızca tasarımla değil, kanıtın gücüyle ilgilidir. Akran
 - **“[[oral-assessment|Sözlü değerlendirme]] hile tespiti içindir.”** Ölçülen sonuçlar anlama ve motivasyondu, yapıştırılmış metnin azalması değil. Tasarımı tespit oranıyla yargılamak, onun ne başardığını yanlış okumaktır.
 - **Grup notunun ardındaki kayıt olarak yansıtıcı akran ve öz formları.** [[issa-teamwork-framework-academic-integrity-2024|Issa ve Hall (2024)]], lisansüstü bir İş Projesi Yönetimi biriminde takım arkadaşı başına bir akran yansıtma formu ve öğrenci başına bir öz yansıtma formu kullanmış; ayrıca her takımla, üyelerin katkısının özgün olup olmadığının sorulduğu 30 dakikalık bir toplantı yapmıştır. Formlar geri bildirim alışverişi olarak notlanmamıştır. Bir \%40'lık takım değerlendirmesi içinde öğretim elemanının bireysel bir notu savunmasını sağlayan kişi başına kanıt bunlardı. Çerçevenin notu 40 üzerinden 27'den 31'e çıkarması yeni bir öğretim elemanıyla karışmıştır ve bütünlük iddiası nicelleştirilmemiştir; dolayısıyla aktarılabilir olan kısım etki büyüklüğü değil, kayıt tutma yapısıdır.
 - **“Akran incelemesi, öğretmen geri bildiriminin daha ucuz bir yedeğidir.”** Mekanizma [[learning-by-teaching|öğretirerek öğrenmedir]] ve makineler arasında bile ortaya çıkar: **2,4 milyondan fazla YZ aracı** arasındaki akran öğrenmeye benzer söylem çoğunlukla **sorgulama değil iddia** idi. Eleştiri üretmek, onu almaktan farklı bir edimdir.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — PAIRR ve akran artı YZ birleşik geri bildirimi: diziler ve karşılaştırmalı kanıtları
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Bağlı makaleler
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Bütünleşik YZ artı akran geri bildirimi üç katılım boyutunun ve dört IELTS yazma boyutunun tamamını yükseltti
-
-- [[usher-faraon-who-grades-best-2026]] — ChatGPT, akran ve öğretmen notlandırmasının proje kalite düzeyleri boyunca karşılaştırılması (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates’ Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR bir işletme yazma kursunda: akran inceleme, sohbet robotu geri bildirimi, yansıma (MacArthur ve ark. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Öz-düzenlemeli geri bildirim ve geri bildirim okuryazarlığı için iskelelemede GenAI mi, insan akranlar mı (Gu ve ark. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — EFL akran geri bildiriminde, konuşma üzerine Trainer ve Synthesizer olarak GenAI (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Yalnızca akran, doğrudan, yansıtıcı ve melez GenAI geri bildirimini karşılaştıran çok merkezli deney (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — İşbirlikçi argümantasyonda istek metni iskelelemeli GenAI akran geri bildirimi (Chang ve ark. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI aracılı grup değerlendirmesinde etkinlik: işbirliği, kısıtlama, uygulanmayış (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — CS1'de GenAI için zarar azaltma olarak sözlü kod inceleme görüşmeleri (Fowles ve ark. 2026)
-- [[multimodal-affective-its-presentation]] — Akran geri bildirimine ölçeklenebilir bir alternatif olarak otomatik çok kipli sunum koçluğu (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — YZ tarafından üretilen tartışma özetleri çevrimiçi forumlarda akran maruziyetini genişletir (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Öğrencilerin GenAI açıklamasında akran etkisi ve ilişkisel güven (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Eleştirel düşünme, ekip çalışması ve problem çözme için LLM'lerin sistematik derlemesi (Martínez-Peláez ve ark. 2025)
-- [[ai-agents-peer-learning-discourse]] — 2.4 milyon YZ aracı arasındaki akran öğrenmeye benzer söylem (Chen ve ark. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — 14 AIED meta-analizi ve 59 birincil çalışmanın denetimi (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 yazmada öğretmen geri bildirimi ve YZ destekli akran geri bildiriminin karşılaştırılması: miktar, odak ve iki görev boyunca iyileşme eğilimleri (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — grup notunun ardındaki kişi başına kanıt olarak öz/akran yansıtma formları (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 öğrenciden rol sözlüğü: özel ders öğretmeni %28,6, işbirlikçi %23,1, araç %9,9, robot %7,7

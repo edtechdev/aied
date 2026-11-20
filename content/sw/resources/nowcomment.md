@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -47,12 +48,3 @@ Walimu wanaoendesha usomaji wa karibu, uchunguzi wa hati au uchambuzi wa vyombo 
 ## Vidokezo na tahadhari
 
 Akaunti ni bure, na hati zinaweza kuwa za umma au kushirikiwa na kundi lililoalikwa. Washirika wa AI huendeshwa kwenye modeli kubwa za lugha za OpenAI, hivyo vifungu na maswali yaliyochaguliwa huondoka kwenye uhosti wa jukwaa na yanatawaliwa na masharti ya mtoa huduma huyo — wilaya inapaswa kusoma mpango wa usindikaji wa data kabla ya kuitumia na watoto. Matokeo yamewekewa kikomo cha tokeni ambacho tovuti inasema bado kinaendelea kupanuliwa, saraka ya washirika iko nyuma ya kuingia, na nyuso za AI ni sehemu ya bidhaa inayobadilika haraka: chukulia uwezo wowote unaoelezwa hapa kama hali ya tovuti mnamo Novemba 2026, si seti ya vipengele iliyotulia.
-
-## Dhana zinazohusiana
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

@@ -9,6 +9,8 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 > **The ICAP Framework** (Interactive–Constructive–Active–Passive) — a taxonomy of cognitive engagement developed by Michelene Chi that classifies learner behavior into four modes of knowledge change, ordered from least to most cognitively engaged: *passive*, *active*, *constructive*, and *interactive*. In [[ai-education|AI in education]], ICAP provides both a design target (build tools that elicit constructive and interactive engagement rather than passive consumption) and an evaluation lens (measure whether learners and AI systems are actually engaged at the higher modes).([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
@@ -89,28 +91,3 @@ Task design, not only tool design, sets the ceiling. Across 829 coded threads in
 **"An AI tutor automatically produces interactive engagement because it converses."** Conversation is the medium rather than the mode. A dialogue where the system supplies every substantive contribution is passive for the learner wearing an interactive interface, which is the same confusion the [[student-engagement|engagement literature]] documents between behavioral activity and cognitive investment.
 
 **"Higher ICAP modes are always better."** They cost more, and the ordering is about learning per unit of the relevant processing rather than about what a lesson should always aim for. Foundational fluency can require active repetition before constructive work is possible; the error is settling there, not passing through.
-
-## Connected Concepts
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-
-- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement with human vs. LLM annotation
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
-- [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
-- [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
-- [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction
-

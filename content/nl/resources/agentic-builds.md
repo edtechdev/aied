@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -42,7 +43,3 @@ Docenten en [[learning-design|onderwijsontwerpers]] die een uitgewerkt voorbeeld
 ## Opmerkingen en kanttekeningen
 
 De bouwsels worden beschreven als openlijk gedeeld, maar er staat geen licentie op de pagina's van de bouwsels of de galerij, dus hergebruik vereist toestemming van de auteur in plaats van een veronderstelde vergunning. De bron is wel openbaar: de repositories van het account bevatten de HTML en JavaScript achter de bouwsels, plus een tutorial over werken met codeeragenten in het onderwijs, zodat een lezer een app kan inspecteren in plaats van alleen draaien. Verschillende links wijzen naar Netlify-deploy-previewadressen in plaats van naar een projectsite; die zijn gebouwd voor beoordeling en kunnen verlopen, terwijl de GitHub Pages-bouwsels de stabiele zijn. Sommige bouwsels zijn afhankelijk van het Jev-model van TypeSafe AI en tonen de waarschijnlijkheden ervan, dus het onderliggende gedrag is het oordeel van een model in plaats van een vaste regel. Het pad van de wenselijke moeilijkheden is een argument — wrijving als kenmerk — en de pagina presenteert het zonder een evaluatie te melden of studenten meer leren.
-
-## Gerelateerde concepten
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

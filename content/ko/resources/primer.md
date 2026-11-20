@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -45,12 +46,3 @@ Primer는 수업을 프로그래밍하는 대신 AI에게 설명함으로써 교
 ## 참고사항과 유의점
 
 저자들은 Primer를 검증된 교실용 제품이 아니라 실험적 프로토타입이라고 부릅니다. 교실에서 학습 개입으로 평가된 적이 없고, FERPA, COPPA, 주 학생 개인정보 보호법, 학군 정책에 대해 검토한 사람도 없으므로, 학생과 함께 사용하는 기관이 그 검토의 책임을 집니다. 소프트웨어는 MIT 라이선스이며 무료이지만, 시뮬레이션을 실행하려면 모델 접근이 필요하고 비용이 듭니다. 모델에 종속되지 않고 로컬 또는 오픈 웨이트 모델에서 실행되므로 개인정보 규칙이 더 엄격한 곳에도 배포할 수 있습니다. 아키텍처와 프롬프트에 관한 백서가 프로젝트 페이지에서 링크되어 있습니다. 2026년 11월 확인 시점에 저장소에는 스타 98개와 포크 16개가 있었습니다.
-
-## 연결된 개념
-
-- [[simulation]]
-- [[open-source]]
-- [[agentic-ai]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-role]]

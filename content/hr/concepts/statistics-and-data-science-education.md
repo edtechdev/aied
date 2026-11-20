@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -82,26 +84,3 @@ Kvaliteta potpore važna je neovisno o pristupu. Eksperimentalna usporedba vođe
 - **„Zadovoljstvo i percipirana korist pokazuju da alat umjetne inteligencije za znanost o podacima djeluje.“** Studenti su intenzivno upotrebljavali LLM-ove za ispravljanje pogrešaka i pojmovna pitanja i **izvijestili o visokom zadovoljstvu, dok je njihova percipirana korist za duboko učenje tijekom semestra opadala**. Zadovoljstvo se održalo, a samoprocjenjena putanja učenja pala je, pa ni jedan podatak sam nije ishod.
 - **„Neograničen model jednako je dobar kao vođeni tutor.“** Korist je došla od obuke u potpori — izričitih uputa o postupnim naputcima i provjeri — koja je nadmašila puki pristup istom modelu u samostalnoj izvedbi i u kalibraciji samoprocjene. Učinak su nosili vođenje i obuka u tome kako ga koristiti.
 - **„Zaštita od davanja odgovora dovoljna je.“** Namjenski tutor omotan oko hostanog API-ja, sa sistemskim poticajem da **vodi, a ne da odgovara**, postavljen je u jednosemestralni kolegij R-a za studente preddiplomskog studija psihologije, gdje ga je **76 % do 84 %** studenata upotrebljavalo u tjednima relevantnima za ispit. To je usvajanje, a ne dokaz da je zaštita proizvela učenje: zaštita na razini poticaja jedna je od nekoliko poluga i sama po sebi ne proizvodi učenje.
-
-## Povezani koncepti
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Povezani članci
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentni alat koji generira pregledne sintetičke skupove podataka za personaliziranu statističku vježbu
-- [[ai-tutor-statistical-programming-adoption-2026]] — Namjenski R tutor; usvajanje je pratilo kalendar ispita
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Oznake težine koje daje LLM prate Bloomove razine, a ne uspjeh studenata
-- [[tactile-statistical-graphs-accessibility]] — Otvoreni tijek rada koji generira taktilne statističke grafikone uz pregled nastavnika
-- [[guided-llm-scaffolding-independent-learning]] — Vođena potpora nadmašila je neograničen pristup u samostalnoj izvedbi
-- [[lund-socially-accountable-data-science-xai-2026]] — Ugradnja društvene odgovornosti u tehnički kurikulum znanosti o podacima

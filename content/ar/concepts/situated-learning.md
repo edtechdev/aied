@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-10-30T17:00:00-04:00"
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -62,30 +64,3 @@ updated: "2026-10-30T17:00:00-04:00"
 - **«الأصالة خاصية للمهمة.»** الأصالة علاقة بين النشاط والعمل المشروع لمجتمعٍ حقيقي. فالمهمة قد تكون متقنة وتبقى مدرسية الشكل — يُقيّمها معلّم، لأجل درجة، بلا أثر في العالم الذي تدّعي تمثيله.
 - **«التقويم الناشئ من المهمة يعني لا تقويم.»** يعني أن المعيار معيار المجتمع لا الصف: أي إن كان العمل مقبولًا عند من يقومون بالعمل. وهذا معيار مختلف وأقسى عادةً من سلّم تقدير.
 - **«التمهّن يقتضي مكانًا ماديًا.»** الميكانيزم هو المشاركة الهامشية المشروعة — الانتقال من حافة الممارسة نحو مركزها بمسؤولية حقيقية. ويمكن للأوضاع الإلكترونية والمحاكاة أن تدعمه أو أن تحاكي الهامش دون أن تمنح المشاركة قط، والفرق هو أن تُستخدم مساهمة المتعلّم فعلًا.
-
-## المفاهيم المرتبطة
-
-- [[learner-identity]] — هويات متعلّمة تخصصية ومهنية وإبداعية وأكاديمية متطورة
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — البيئات الغامرة كطريق إلى السياق الأصيل
-
-## المقالات المرتبطة
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — سيناريوهات مع أصول قابلة لإعادة الاستخدام تحمل مصدرها تتغلب على مساعد بسيط في تجربتين
-
-- [[vargas-situated-learning-ai-review-2024]] — مراجعة منهجية PRISMA للتعلّم الموقَّع والذكاء الاصطناعي في التعليم (المرجع الأساسي لهذه الصفحة)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — النماذج اللغوية الكبيرة كوكلاء للتصميم البيداغوجي التكراري

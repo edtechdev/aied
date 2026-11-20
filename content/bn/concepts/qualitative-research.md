@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -103,40 +105,3 @@ ai_assist:
 **"সম্পৃক্তি অংশগ্রহণকারীর সংখ্যার ধর্ম।"** এটি বিশ্লেষণের ধর্ম: নতুন উপাত্ত নতুন কোড তৈরি করা থামলে আপনি থামেন। একই নমুনা-আকারের দুটি গবেষণা সম্পৃক্তি থেকে সমান দূরে থাকতে পারে, তাই যে প্রতিবেদন পর্যাপ্ততার প্রমাণ হিসেবে অংশগ্রহণকারী-সংখ্যা দেখায় সে আচ্ছাদন নিয়ে কিছুই প্রমাণ করেনি।
 
 **"পরিমাণগত ও গুণগত ফল প্রতিযোগিতা করে।"** তারা ভিন্ন প্রশ্নের উত্তর দেয়: সার্ভে বলে কতজন শিক্ষার্থী টিউটরকে অবিশ্বাস করে, সাক্ষাৎকার বলে কেন। একই জিনিসের প্রতিদ্বন্দ্বী বিবরণ হিসেবে তাদের দেখা সেই মিথ্যা পছন্দ তৈরি করে যা পর্যালোচনা-অংশ বারবার পুনরুৎপাদন করে।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — এআই-সহায়ক শিক্ষা গবেষণা
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## সংযুক্ত নিবন্ধ
-- [[chain-behind-claim-warrantability-2026]] — এআই-সহায়ক গুণগত বিশ্লেষণের জন্য warrantability মানদণ্ড
-- [[liu-tool-tutor-crutch-programming-2026]] — সরঞ্জাম, টিউটর, না ভরসার লাঠি: এআই-সহায়ক প্রোগ্রামিংয়ের একটি গ্রাউন্ডেড থিওরি
-- [[trio-ethnography-llm-programming-education]] — LLM-সমর্থিত প্রোগ্রামিংয়ে ব্যাখ্যা-বিবর্তনের একটি ট্রায়ো-এথনোগ্রাফি
-- [[absent-cognitive-baseline-2026]] — এআই-নেটিভ শিক্ষার্থীদের স্ব-মূল্যায়নে কাঠামোগত ব্যবধানের তত্ত্বায়ন
-- [[t2i-competence-paradox-2026]] — টেক্সট-থেকে-ইমেজ GenAI ব্যবহারে সক্ষমতা-বিরোধ
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — পদার্থবিজ্ঞান শিক্ষায় আস্থা-উপযোগিতা ব্যবধান
-- [[genai-teacher-feedback-comparison]] — GenAI ও শিক্ষকের প্রতিক্রিয়া তুলনা: শিক্ষার্থী-উপলব্ধি
-- [[hazra-safetutors-pedagogical-safety-2026]] — এআই টিউটরের নিরাপত্তা ও শিক্ষাগত ক্ষতি
-- [[zha-ai-literacy-biology-case-study]] — জীববিজ্ঞান শ্রেণিতে এআই-সাক্ষরতা সংযুক্তির কেস স্টাডি
-- [[becker-chatgpt-typology-physics-2026]] — পদার্থবিজ্ঞানে ChatGPT গ্রহণের একটি গুণগত টাইপোলজি
-- [[scaffolding-critical-engagement-genai-minority-students]] — জাতিগত-সংখ্যালঘু শিক্ষার্থীদের মধ্যে প্রম্পট ইঞ্জিনিয়ারিংয়ে সহযোগিতামূলক বক্তৃতা
-- [[human-vs-llm-ordered-coding]] — গুণগত উপাত্তের মানব ও LLM ক্রমিক কোডিং তুলনা
-- [[agreement-not-quality-llm-coding-verification]] — LLM গুণগত কোডিংয়ে ঐক্য মানেই গুণমান নয়
-- [[same-ai-different-pathways]] — প্রেক্ষিত জুড়ে এআই-মধ্যস্থত শেখার প্রক্রিয়া উন্মোচন
-- [[drummond-genai-business-schools-framework-2026]] — কেস স্টাডির মাধ্যমে শিক্ষার্থী-অবহিত GenAI কাঠামো
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — সমালোচনামূলক এআই টিউটর: ক্ষমতায়ন না দাসত্ব
-- [[genai-runaway-object-math-higher-ed]] — উচ্চশিক্ষার গণিতে পলাতক বস্তু হিসেবে GenAI
-- [[khlaif-assistive-genai-visually-impaired-2026]] — দৃষ্টিপ্রতিবন্ধী শিক্ষার্থীদের জন্য সহায়ক GenAI
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — GenAI-সহায়ক লেখনে EFL শিক্ষার্থীদের আবেগগত সম্পৃক্ততা: একটি দীর্ঘমেয়াদি বহু-কেস গবেষণা

@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -132,36 +134,3 @@ Queste confutazioni sono deliberatamente scritte nella forma del [[refutation-te
 - **"I fraintendimenti degli insegnanti si correggono presentando l'evidenza."** In un pilota con **123 educatori italiani**, il disaccordo si concentrava maggiormente sugli **stili di apprendimento cognitivi (il 78% degli insegnanti difendeva la corrispondenza visiva/uditiva)**, su inclusione e lavoro di gruppo (68%) e sul sovraccarico di EdTech (54%). I disaccordi più forti erano quelli più resistenti all'evidenza, ed è per questo che la [[refutation-text|confutazione]] batte l'asserzione.
 - **"Le obiezioni degli insegnanti all'evidenza sono tutte resistenza."** Quando gli stessi item venivano presentati tramite un'IA conversazionale che **validava il contesto dell'insegnante prima di reintrodurre l'evidenza**, il **41% delle obiezioni riguardava vincoli contestuali reali** — dimensione della classe, bisogni speciali, esigenze del curriculum. Una parte sostanziale del presunto fraintendimento era obiezione fondata.
 - **"I fraintendimenti si rilevano in modo affidabile dal dialogo."** **Su 241 segmenti sollecitati, 221 (91,7%) sono stati confermati come fraintendimenti strategici da voto di maggioranza di esperti (κ di Fleiss = 0,9487)**, senza **differenze significative** tra i gruppi. Un'affidabilità alta è raggiungibile sotto aggiudicazione esperta, ed è la condizione da cui l'affermazione dipende.
-
-## Concetti collegati
-
-- [[pedagogical-patterns]] — Le sequenze di cambiamento concettuale che affrontano una credenza specifica nutrita
-- [[learners]] — Chi apprende: l'ombrello dei concetti del lato di chi apprende
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Articoli collegati
-- [[rudolph-ai-myths-critical-higher-ed]] — Miti sull'IA e pensiero critico nell'istruzione superiore
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: spiegazioni fluenti e autorevoli che sono errate concettualmente anziché fattualmente (Miličević e colleghi 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Istruzioni nascoste in un file consegnato possono alzare un voto assegnato dall'IA senza alcun avviso visibile (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — I fraintendimenti dei bambini sulla sicurezza dell'IA: l'amicizia con un robot lettore interpretata come una garanzia di privacy (Leisten e colleghi 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

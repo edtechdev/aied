@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -107,40 +109,3 @@ Métodos qualitativos e quantitativos são complementos, e não rivais — veja 
 **"A saturação é uma propriedade do número de participantes."** É uma propriedade da análise: você para quando os novos dados deixam de produzir novos códigos. Dois estudos com tamanhos de amostra idênticos podem estar igualmente longe da saturação, e é por isso que um relato que cita uma contagem de participantes como prova de adequação não demonstrou nada sobre cobertura.
 
 **"Achados quantitativos e qualitativos competem."** Eles respondem a perguntas diferentes: uma pesquisa diz quantos estudantes desconfiam de um tutor, e entrevistas dizem por quê. Tratá-los como relatos rivais da mesma coisa produz a falsa escolha que as seções de revisão continuam reproduzindo.
-
-## Conceitos conectados
-
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — Pesquisa Educacional Assistida por IA
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## Artigos conectados
-- [[chain-behind-claim-warrantability-2026]] — padrão de garantibilidade para a análise qualitativa assistida por IA
-- [[liu-tool-tutor-crutch-programming-2026]] — Ferramenta, Tutor ou Muleta: uma teoria fundamentada da programação assistida por IA
-- [[trio-ethnography-llm-programming-education]] — Uma etnografia em trio da evolução da interpretação na programação apoiada por LLM
-- [[absent-cognitive-baseline-2026]] — Teorizando uma lacuna estrutural na autoavaliação dos estudantes nativos da IA
-- [[t2i-competence-paradox-2026]] — O paradoxo da competência no uso de GenAI texto-para-imagem
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — A lacuna entre confiança e utilidade na educação em física
-- [[genai-teacher-feedback-comparison]] — Comparando o feedback de GenAI e o do professor: percepções dos estudantes
-- [[hazra-safetutors-pedagogical-safety-2026]] — Segurança do tutor de IA e danos pedagógicos
-- [[zha-ai-literacy-biology-case-study]] — Estudo de caso da integração do letramento em IA em uma aula de biologia
-- [[becker-chatgpt-typology-physics-2026]] — Uma tipologia qualitativa da adoção do ChatGPT na física
-- [[scaffolding-critical-engagement-genai-minority-students]] — Discurso colaborativo em prompt engineering entre estudantes de minorias étnicas
-- [[human-vs-llm-ordered-coding]] — Comparando a codificação ordenada de dados qualitativos por humanos e por LLM
-- [[agreement-not-quality-llm-coding-verification]] — A concordância não é qualidade na codificação qualitativa por LLM
-- [[same-ai-different-pathways]] — Desvendando mecanismos da aprendizagem mediada por IA entre contextos
-- [[drummond-genai-business-schools-framework-2026]] — Framework de GenAI informado pelos estudantes por meio de estudo de caso
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Tutores críticos de IA: empoderar ou escravizar
-- [[genai-runaway-object-math-higher-ed]] — A GenAI como objeto desgovernado na matemática do ensino superior
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI assistiva para aprendentes com deficiência visual
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Engajamento emocional de aprendizes de EFL na escrita assistida por GenAI: um estudo de caso múltiplo longitudinal

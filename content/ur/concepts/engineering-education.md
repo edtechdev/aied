@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -86,36 +88,3 @@ ai_assist:
 - **"انجینئرنگ طلبہ میں AI کا اختیار ٹیکنالوجی قبولیت کا مسئلہ ہے۔"** [[socio-cognitive-genai-adoption-engineering-2026|Asag اور Al Mamun]] TAM کو [[technology-acceptance-model|UTAUT]] کے ساتھ ملا کر بنگلہ دیشی انجینئرنگ طلبہ کے اختیار کا ماڈل بناتے ہیں، **تغیر کا 64% بیان کرتے ہوئے** — یعنی کافی حصہ قبولیت کی ساختوں سے باہر، اُن سماجی اور علمی عوامل میں ہے جو ماڈل محیط نہیں کرتا۔
 - **"طلبہ AI اُس کام کے لیے استعمال کرتے ہیں جس میں وہ بہترین ہے۔"** [[ai-engineering-education-balancing-act|Kudina (2026)]] نے پایا کہ **100 انجینئرنگ طلبہ** نے LLM کو **تحریری مدد** کے لیے سب سے زیادہ قدر دی، انجینئرنگ استدلال کے لیے نہیں۔ اوزار کے بارے میں ان کے مجاز اس کی فراہمی سے آگے نکل گئے، اور ان کا حقیقی استعمال صلاحیت کے بجائے سہولت کے مطابق رہا۔
 - **"اوزاروں کا بھرپور ذخیرہ ڈیزائن کے نتائج بہتر بناتا ہے۔"** **27 طلبہ** کے آرکیٹیکچرل ڈیزائن اسٹوڈیو میں، جنریٹو-AI کے ساتھ [[virtual-and-augmented-reality|XR]] پائپ لائن استعمال کرنے والی ٹیموں نے **بہتر پیداوار کے بغیر دبی ہوئی خود اعتمادی** ظاہر کی۔ اوزاروں کی کثرت اعتماد کی قیمت پر نمونے کو بغیر تبدیل کیے چھوڑ سکتی ہے۔
-
-## منسلک تصورات
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## منسلک مضامین
-- [[apostolakis-trusstutor-bench-statics-2026]] — سٹیٹکس بینچ مارک: حل اور غلطی کی شناخت سیر ہو جاتی ہیں، دباؤ کے خلاف مزاحمت نہیں
-- [[mechanical-engineering-ai-curriculum-2026]] — تھرمل انجینئرنگ میں منصوبہ پر مبنی AI تعلیم کا نصاب
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — انجینئرنگ اساتذہ کے مجاز AI کی سمجھ کو تشکیل (اور محدود) دیتے ہیں
-- [[tam-critical-use-genai-engineering-2026]] — انجینئرنگ/CS طلبہ کے لیے تنقیدی استعمال کے ساتھ بڑھایا گیا TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — انجینئرنگ تعلیم کے لیے متحد سماجی-علمی ماڈل (بنگلہ دیش)
-- [[ethical-use-ai-engineering-education-review-2026]] — انجینئرنگ تعلیم میں AI کا اخلاقی استعمال: ایک منظم جائزہ
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — زبانی وضاحتوں میں جسمانی ادراک کے لیے ایک کثیر-نما فریم ورک
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI اور انجینئرنگ و کمپیوٹنگ افرادی قوت کا مستقبل
-- [[ai-engineering-education-balancing-act]] — انجینئرنگ تعلیم میں AI کا استعمال: ایک توازن کا عمل
-- [[structured-ai-demonstrations-engineering-mechanics]] — انجینئرنگ میکنکس میں ساختہ AI مظاہرے
-- [[isaza-chatgpt-engineering-prompting-2026]] — انجینئرنگ تعلیم میں ChatGPT
-- [[liu-ai-sustainable-engineering-education-2026]] — پائیدار انجینئرنگ تعلیم کے لیے AI-SEE فریم ورک (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — تعاونی آرکیٹیکچرل ڈیزائن تعلیم میں جنریٹو AI اور توسیعی حقیقت: ایک تلاشی اسٹوڈیو مطالعہ

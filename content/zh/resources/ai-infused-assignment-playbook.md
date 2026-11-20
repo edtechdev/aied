@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -48,16 +49,3 @@ ai_assist:
 ## 备注与注意事项
 
 这是一本实用指南，而非实证研究；它关于学生 AI 使用的说法依据的是被引用的外部来源（BestColleges、Campbell、Digital Education Council、Flaherty），而非新数据。“网络建构”框架和“理解的错觉”这一提法取自更广泛的文献（Wigmore et al.；Williamson et al.），并且是作为教学法理据呈现的，而非本 playbook 自身经过检验的成果。这些作业是作者编写的模板——没有一个报告了效应量，因此应把它们视为需在本地加以调整和评估的设计方案。2026-10-07 以 v1 版发布于 Zenodo，采用 CC BY 4.0；免费下载，无需账号。截至采集时，该记录仅显示约 35 次浏览和约 14 次下载，因此它尚未经历多少外部使用或同行评审。
-
-## 关联概念
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

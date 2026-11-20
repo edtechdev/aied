@@ -9,6 +9,8 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 reviewed_by: [editor]
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 > **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables [[curriculum-design|curriculum]]-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
@@ -22,7 +24,6 @@ reviewed_by: [editor]
 - For a developer or instructor: what does a tutor need to 'know' beyond the textbook content — pedagogy, when to withhold answers, how to probe understanding? Where would RAG alone fail to provide that, and what would you combine it with?
 
 ## Introduction
-
 
 A local variant of the pattern is documented for physics teaching. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] run a model through Ollama on an instructor's own machine, retrieve from lecture notes, textbooks and problem sets, and generate quizzes, summaries and study guides from that context. The argument is privacy first — nothing leaves the device — and disciplinary fit second, since the retrieval corpus is the course itself. The acknowledged cost is model size: what fits in roughly 8 GB of video memory is not the most capable model available.
 ## How RAG is used in education
@@ -53,37 +54,3 @@ RAG serves a complementary role to [[llm|LLM]] fine-tuning — retrieval provide
 - **"Retrieval quality is the whole problem."** Retrieval is necessary and not sufficient. Grounded answering scored **9.05 of 10 with a bootstrap CI on the difference excluding zero** and was **more often grounded in the material the answerer actually saw (98% vs. 81%)** — so the measured gain is in fidelity to evidence, and the evidence has to be correct for that fidelity to mean anything.
 - **"Single-page retrieval generalises."** Both gaps **roughly tripled on questions requiring material from more than one page** (cross-page scores 9.93 against a lower baseline). Multi-document reasoning is where grounded systems degrade, and it is exactly where courses ask the hardest questions.
 - **"Retrieval removes the need for scrutiny."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single module's approved materials to serve students who hesitate to ask a person — a defensible scope. Narrow, approved source collections are what make the grounding meaningful; the label alone does not.
-
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Connected Articles
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
-- [[hughes-rag-ai-feedback-implementation-2026]] — RAG raised perceived feedback quality and usefulness, not actionability, across two graduate cohorts
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — A curriculum-grounded lesson assistant whose time saving did not exceed a general chatbot's
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — Index curation and retrieval scope as the deployment work
-- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

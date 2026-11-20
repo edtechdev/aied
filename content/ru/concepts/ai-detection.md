@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -138,56 +140,3 @@ Bassett et al. заключают, что обнаружение ИИ — нер
 **«Детектор отвечает на вопрос, человеческое письмо или ИИ.»** Эта бинарность концептуально несостоятельна, а не просто трудна для вычисления. Помощь в письме существует на континууме, политика большинства учреждений допускает часть её, и никакой порог по выходной оценке не отображается на защитимую границу. Измеренный провал — это провал политики: категорий, которые обещают детекторы, не существует в той работе, которую студенты действительно сдают.
 
 **«Режим обнаружения защищает честность.»** Он может её подорвать. Обнаружение питает климат подозрительности, размывающий [[trust]] между студентами и сотрудниками, а литература о [[academic-integrity|честности]], которую освещает этот корпус, помещает устойчивые рычаги в перепроектирование оценивания, а не в полицейский контроль. Механизм гонки вооружений также означает, что режим продолжает стоить дороже, измеряя меньше: базовые частоты пометок простирались от **0,0% до 100,0%** по интенсивностям редактирования, что не является сигналом различения.
-
-## Связанные концепции
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Связанные статьи
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Гипотеза о том, что правоприменение фильтрует по академическому капиталу, а не по поведению
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 сайтов-гуманизаторов, изображающих легитимность: обнаружение и уклонение как единый коммерческий рынок (Roe et al. 2026)
-
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Восемь LLM ранжируют шесть техник против списывания; обнаружение ИИ оказывается последним
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Двадцать проверяющих об интуиции, мёртвых детекторах и выдуманных ссылках
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Национально репрезентативный опрос американских учителей и директоров школ об охвате политикой ИИ, агентности и пяти классных приёмах (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Оценивание в эпоху ИИ
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: детектор восстановления скрытого промпта
-- [[ivory-psychology-assessment-integrity-2026]] — Обнаружение — неверный рычаг: граница сдачи решала, оценивалась ли работа ИИ как достижение (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Оценивание LLM в задаче обнаружения созданного LLM контента
-- [[beyond-detection-authentic-assessment-ai-2025]] — За пределами обнаружения: аутентичное оценивание
-- [[responsible-assessment-ai-era-stanford-2026]] — Ответственное оценивание в эпоху ИИ
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Целостность соавторства и валидность оценивания
-- [[student-rationalization-ai-writing]] — Студенческая рационализация ИИ-письма
-- [[socially-fluent-ai-identity-detection]] — Обнаружение идентичности социально беглого ИИ
-- [[ssaho-ai-academic-integrity-review-2025]] — Обзор надёжности обнаружения плагиата/ИИ-контента на основе ИИ
-- [[bassett-ai-detectors-education-2026]] — «Орел — мы выиграли, решка — вы проиграли»: детекторы ИИ в образовании (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Почему результат детектора не может обосновать заключение о нарушении
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Различение, а не частота выявления, и когда мониторинг оборачивается против себя
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin и Originality на 192 текстах: оба ниже макро-F1 в 0,55 и почти бесполезны на гибридном письме
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Четыре детектора против 160 работ с эталоном; только Pangram работал, но всё же пометил 45,5% живых диссертаций
-- [[munoz-misconduct-allegation-evidence-2026]] — Результат детектора — тип свидетельств с самой низкой оценкой в 1162 реальных делах о нарушениях
-- [[wright-transcription-not-generation-2026]] — Повсеместные правила «использования ИИ» смешивают транскрипцию с генерацией
-- [[sharma-judgment-visible-genai-assessment-2026]] — Обнаружение понижено до дополнительного слоя за видимым суждением
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Обнаружение как условный сигнал и почему ответы в сфере безопасности вносят нерелевантную конструкции вариабельность (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Созданные ИИ сочинения для приёма широко распространены, но наказываются
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Девять интерпретируемых стилометрических признаков: ROC-AUC 0,870, но четыре из 18 независимо написанных документов помечены (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Одна человеческая рукопись, пять детекторов, классификации от «0% человек» до «Создано человеком», плюс документированное институциональное отступление от обнаружения (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: академическая честность в эпоху генеративного ИИ
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
-- [[student-llm-code-detection-cs1-2026]] — Код LLM сходится на жёстко ограниченных заданиях (1–14 форм AST на 1000 файлов), но не на свободных, — обнаружимость следует за дизайном задачи

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -48,7 +50,6 @@ ai_assist:
 
 Связь использования GenAI с самооценённым критическим мышлением проходила почти целиком через [[feedback-literacy]] GenAI: у 421 китайского студента бакалавриата грамотность обратной связи опосредовала 71,98% общей связи (β=0,185), а остаточный прямой путь был положительным только для менее рефлексивных студентов (β=0,177) и незначимым для более рефлексивных ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
-
 Корпус также несёт пессимистическое прочтение в виде аргумента, а не измерения. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz и Castro Samayoa (2026)]] утверждают, что доминирующий паттерн использования разъедает критическое мышление, а не доступ к модели. Они опираются на утверждение Дьюи, что мышление улучшается только через упражнение, и на три механизма: устранённое трение, [[automation-bias|перекос автоматизации]] и рамку эффективности. Напряжение с Zhao et al. реально и не разрешено в корпусе. Их метааналитический прирост g = 0,609 описывает спроектированные вмешательства, тогда как Muñiz и Castro Samayoa описывают типичное использование. Прочитанные вместе, они согласны, что значима переменная проектирования, и расходятся в том, как выглядит неуправляемое поведение по умолчанию.
 
 **[[meta-analysis-systematic-review|Мета-аналитический]] якорь для утверждения о модерации.** Среди 29 экспериментов GenAI умеренно повышал мышление высшего порядка (g = 0,609), причём критическое мышление имело ES = 0,691 — ниже [[problem-solving|решения задач]] (0,745) и выше [[creativity|креативности]] (0,444) — сильнее всего для интервенций длительностью 8–16 недель (0,759) и для учащихся с высокой саморегуляцией (0,863 против 0,284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
@@ -66,7 +67,6 @@ ai_assist:
 - **Ассоциация с критическим мышлением поворачивает на зависимости, а не использовании.** Shojaei and colleagues (2026) опросили 412 студентов бизнес-факультетов в Омане и обнаружили почти нулевую бивариантную корреляцию между использованием [[generative-ai|GenAI]] и самооценённой диспозицией критического мышления (r = 0,050), причём зависимость предсказывала более низкую диспозицию (β = -0.389) и ослабляла связь от использования к диспозиции (β = -0.239), так что простой наклон падал с 0,424 при низкой зависимости до -0.054 при высокой. ([[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. 2026]])
 
 Более крупное поперечное исследование указывает в другую сторону: среди 1 157 китайских студентов магистратуры зависимость от [[generative-ai|GenAI]] положительно коррелировала с критическим мышлением (β = 0,492), и критическое мышление несло примерно 85,0% пути от функциональной зависимости к креативности исследований ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
-
 
 - **Предшествующее знание и сроки задачи задают знак эффекта.** По 108 рассмотренным документам GenAI повышал результативность критического мышления у опытных исследователей (+0,20) и снижал её у новичков (−0,13); ранний доступ помогает при нехватке времени, но вредит критическому мышлению, когда время на обдумывание есть ([[zapata-hernandez-genai-cognitive-infrastructure-review-2026|Zapata-Hernandez et al. 2026]]).
 
@@ -99,56 +99,3 @@ ai_assist:
 - **«Лучший промпт производит лучшее критическое мышление».** **Структурированный контроль диалога, а не лучший промпт**, отличает тьютора по логическим ошибкам от чат-бота для дебатов: работу делало направление каждого хода через **определение интента на основе Тулмина**. Механизм — структура взаимодействия, а не формулировка.
 - **«Использование GenAI напрямую повышает критическое мышление».** Связь использования GenAI с **самоотчётным** критическим мышлением шла **почти целиком через [[feedback-literacy|грамотность в сфере обратной связи]]** GenAI — у **421 китайского студента бакалавриата** грамотность в обратной связи опосредовала **71%** связи. Грамотность и есть путь.
 - **«Метааналитический эффект однороден».** По **29 экспериментам** GenAI умеренно повышал мышление высшего порядка (**g = 0.609**), при критическом мышлении **ES = 0.691**. Умеренные объединённые эффекты по разнородным вмешательствам поддерживают категорию, а не конкретный дизайн.
-
-## Связанные концепции
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[chemistry-education]] — Химическое образование и ИИ: лаборатории, формирующее оценивание, пределы LLM, философия эксперимента
-- [[biology-education]] — Биологическое образование и ИИ: ассистенты в лабораторном преподавании, ИИ-грамотность в биологии, критическое мышление, специализированные инструменты
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## Связанные статьи
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Критическое мышление идёт через разделение труда и переработку выдачи, а не через подверженность
-
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Пессимистическое прочтение свидетельств о модерации: потеря трения, перекос автоматизации, рамка эффективности
-- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Нарративный обзор 108 документов: знак эффекта отслеживает предшествующее знание и сроки задачи (рамка AMCIF)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 экспертов: критическое мышление несёт наивысшую оценку нарушения в отчёте (среднее 4,00)
-- [[pearls-epistemic-verification-2026]] — Рамка PEARLS для эпистемической субъектности и верификации результата ИИ (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Чувствительное к слоям когнитивное разгружение в письме с помощью GenAI (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Парадокс критического мышления в обучении, интегрированном с GenAI
-- [[pedagogy-ai-mistakes]] — Педагогика ошибок ИИ: развитие мышления высшего порядка (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Три-системная теория и когнитивная сдача: как ИИ переустраивает человеческое рассуждение (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедия когнитивного общего достояния: ИИ и регенерация экспертизы
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Мета-анализ GenAI и мышления высшего порядка
-- [[avraamidou-ai-colonization-science-education]] — Нарушение ИИ-колонизации естественнонаучного образования
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Переориентация критической ИИ-грамотности
-- [[luo-ibl-patterns-llm-bloom-2026]] — Паттерны IBL в средах, управляемых LLM (перспектива Блума)
-- [[probing-ai-generated-physics-solutions-2026]] — Подготовка студентов к критике сгенерированных ИИ решений по физике
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Чрезмерная опора на ИИ, смоделированная как сложная адаптивная система
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Специфичные по измерениям приобретения в критическом мышлении при мультимодальном письме с поддержкой ИИ (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — обучение распознаванию логических ошибок через структурированный многоходовой диалог
-- [[caeai-ai-companions-learning-over-performance-2026]] — обучение важнее результативности: для чего следует оптимизировать и измерять компаньонов
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Скаффолдинг ИИ, разгружение и грамотность верификации через метакогнитивную саморегуляцию (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Зависимость от GenAI ограничивает связь использования с критическим мышлением у студентов бизнеса (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Рефлексивный промпт снижает принятие неверных советов ИИ и атрибутивную предвзятость (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Ротация ролей как структура критического взаимодействия человек–ИИ (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Центрированная на верификации интеграция GenAI в университетском химическом образовании (Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — обратная связь ChatGPT, курируемая преподавателем, повысила критическое мышление через ревизию высшего порядка (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — семестр доступа к ИИ оставил критическое мышление неизменным; рефлексивное использование его предсказывало (Melanou et al. 2026)
-
-- [[genai-dependence-research-creativity-2026]] — Зависимость от GenAI положительно коррелировала с критическим мышлением у 1 157 студентов магистратуры
-- [[genai-use-critical-thinking-moderation-2026]] — От использования GenAI к критическому мышлению через грамотность обратной связи, с прямым путём только для менее рефлексивных студентов

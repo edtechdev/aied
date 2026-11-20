@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -122,49 +124,3 @@ AI 아바타는 모형이 구동하는 렌더링 또는 애니메이션된 인�
 **"아바타 외형은 장식이다."** 정체성 단서는 신뢰도 평정과 안내의 실제 수용을 바꾸었고, 나이 든 흑인 여성 아바타에게는 불이익이 중첩되었습니다.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) 구성은 교수법적이고 [[equity-in-ai-education|형평성적인]] 결정입니다.
 
 **"모의 환자는 비용을 뺀 표준화 환자다."** 훈련생 심리학자들은 자신의 가상 환자가 협조적이고 이미 치료에 능숙하다고 느꼈으며, 행동적 경직성을 과소 대표하는 "이상적" 사례였습니다.([[ai-psychotherapy-training-avatars]]) 비용은 떨어지지만 사례 타당성이 자동으로 따라오지는 않습니다.
-
-## 연결된 개념
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## 연결된 문서
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — 아바타 정체성 단서가 신뢰도와 안내 수용을 바꾼다(Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — 실천 기반 교사 교육 대화에서의 학생 아바타(Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — AI 리터러시 워크숍에서 성별에 따른 딥페이크 생성과 신고
-- [[elevate-genai-virtual-tutors]] — 교사 거버넌스 층을 갖춘 로컬 우선 3D 아바타 튜터(ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — 임상 의사소통을 위한 LLM 판정자를 갖춘 아바타 환자
-- [[genai-simulate-patient-history-pbl-2026]] — PBL 병력 청취 튜토리얼에서의 생성형 AI 환자 아바타
-- [[ai-psychotherapy-training-avatars]] — 심리치료 훈련에서 ACT 충실도 연습을 위한 환자 아바타
-- [[aclime-pedagogical-agents-extended-reality-2026]] — 확장 현실에서의 교수 에이전트: 실재감, 사실성, 부하(ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 방관자 개입을 위한 조종형 아바타와 로봇 매개 역할극
-- [[personalized-ai-generated-videos-preference-2026]] — 복제된 교수자 영상 개인화와 학생 선호
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 교실 시뮬레이션에서 표상과 행위성을 분리하는 네 층 프레임워크
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 강좌 피드백 면담을 위한 대화형 음성 에이전트 제안
-- [[trikonet-trivalence-co-creativity-2026]] — 사회기술적 네트워크에서의 공동 창조적 교수 아바타(TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654명 학생 중 51.7%만이 제시된 인간형 역할을 택했다; 한 명은 그것을 피드백 자판기라고 불렀다
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — 수용 쪽 증거: 학습자 653명, 신뢰의 가장 강한 예측 변수는 투명성(Wang et al. 2026)
-- [[wu-singing-syllabus-avatars-2026]] — 가상 아바타로 노래하는 강의계획서 설계: AI 지원 강의계획서 재저작

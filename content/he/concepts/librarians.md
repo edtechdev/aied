@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -78,32 +80,3 @@ ai_assist:
 **"אוריינות מידע היא מפגש חניכה חד-פעמי."** היא הוראה, לא סיוע: השאלות שסטודנטים מגיעים איתן הן בעיות הערכה ואסטרטגיה — האם המקור הזה אמין, כיצד אני מחפש את זה — שהן מיומנויות ניתנות-להוראה ולא עסקאות להשלמה. התייחסות לשירות כסיוע ממירה תכנית לימודים לדלפק עזרה ומאבדת את היכולת העמידה.
 
 **"מי משלם על האימות היא הבעיה של מישהו אחר."** עומס הייעוץ נוחת על כוח-האדם של הספרייה, והשאלה של המאמר עצמו היא האם הדרישה מספריות לשאת אותו עולה על מצבת העובדים שלהן. תכנון-משותף ושותפות הם התגובות שהספרות ממליצה עליהן בדיוק משום שעלות האימות אמיתית ונופלת על יחידה שלא תקצבה אותה.
-
-## מושגים מקושרים
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## מאמרים מקושרים
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — פלטפורמת סמינר משובצת-ספרן; 312 ייעוצים בהובלת הערכת מקורות
-- [[genai-academic-search-workshop]] — סדנת CHIIR 2026 על GenAI וחיפוש אקדמי; פער אמון ספרני
-- [[maybee-disruptive-partnerships-sap-2025]] — ספרנים אקדמיים מעצבים-משותף אוריינות בינה מלאכותית עם סטודנטים כשותפים
-- [[aarc-ai-research-competency-2026]] — לאמת, לצטט, להגות כמחויבויות מחקר ניתנות-הוראה
-- [[pearls-epistemic-verification-2026]] — פרוטוקול אימות בשה ממדים; גישה ולגיטימיות כשערים
-- [[hingle-collaborative-ai-literacy-2025]] — למידה שיתופית לאוריינות בינה מלאכותית; יתרונות אוריינות מידע עוברים
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — מדריכים מדרגים ייחוס ושימוש אחראי הגבוהים ביותר, אך מלמדים מעט מתוך 26 מיומנויות
-- [[bird-multimodal-educational-literature-2026]] — כלי מורכבות-טקסט שנבנה למשתמשים לא-טכניים כמו מורי אנגלית וספרנים
-- [[cognitive-offloading-llm-synthesis-writing]] — מה שלומדים מעבירים כאשר בינה מלאכותית מסנתזה מקורות בשמם
-- [[citation-errors-hallucinations-computing-education-2026]] — ציטוטים מפוברקים ושגויים כבעיית אימות

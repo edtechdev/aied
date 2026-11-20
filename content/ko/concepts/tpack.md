@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,7 +88,6 @@ TPACK은 이 지식베이스 근거 기반의 교수자 측을 조직하는 프�
 
 **자원 제약 아래에서는 개정이 아니라 실행입니다.** 소말릴란드 한 대학의 강사들은 기관의 지원, 부재한 정책, 그리고 스스로 지불한 월 \$20 구독료에 의해 형성된 사용을 기술했습니다. TPACK은 구성요소를 바꾸지 않고도 수용하는 맥락입니다([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
-
 ## 설계 함의
 
 1. **도구만이 아니라 교차점을 훈련합니다.** 전문적 개발은 고립된 도구 교육을 제공하기보다 기술적, 교수법적, 내용 지식을 함께 쌓아야 합니다. 이것이 핵심 TPACK 설계 원칙입니다.
@@ -99,50 +100,3 @@ TPACK은 이 지식베이스 근거 기반의 교수자 측을 조직하는 프�
 - **"TPACK의 지배성은 그것의 설명력에서 나온다."** 그 지배성은 **부분적으로 검색의 산물**입니다. 기술 지원 교사 교육 연구 **195건**을 대상으로 한 PRISMA 범위 검토에서 디지털 역량, TPACK, DigComp가 **색인된 문헌을 지배합니다**. 검색에서의 빈도는 그 분야가 사용하는 어휘의 속성이지, 그 틀이 더 많은 것을 설명한다는 증거가 아닙니다.
 - **"잘 알려진 틀은 AI에 대해서도 검증된 틀이다."** TPACK은 AI 특유의 역량을 위해 설계되지 않았고, 그래서 Intelligent-TPACK이 개발되었습니다. 그런데 그것은 78건 검토에서 **다섯 연구**에만 나타납니다. 생성형 AI 역량에 TPACK을 쓰는 것은 그것을 구성 당시의 범위를 넘어 늘리는 일입니다.
 - **"틀을 적용한다는 것은 연구가 이론화되었다는 뜻이다."** 같은 검토에서 **연구의 76%가 이론적 대응 없이 실천에서 역량을 추론**했습니다. 따라서 TPACK이 분야에 존재한다는 사실은 대부분의 연구가 이론화되지 않은 상태와 함께 존재합니다. 이름 붙은 틀은 일을 하는 틀과 같지 않습니다.
-
-## 연결된 개념
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## 연결된 문서
-
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — AI 자격증 프로그램을 위한 평가 지표 체계
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 계층 간 연구: '교수법이 먼저, 기술이 다음' — 학생 성과에서 기술적 TAIK보다 TPAIK이 더 큰 영향 (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — 현직 교사의 TPACK-생성형 AI와 교수학적 지식의 매개 역할 (Mohebi & ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — 기술 통합에 관한 교수진 표준 (TPACK 관련 설계 기반 연구)
-- [[edurev-100741-tpack-genai-review]] — 학생 학습에 생성형 AI를 통합하기: TPACK 관점에서의 체계적 문헌 고찰
-- [[ai-tpack-teacher-multi-agent-workflow]] — 교사 다중 에이전트 워크플로를 통해 모형화한 AI-TPACK
-- [[ai-tpack-preservice-math-teachers]] — 예비 수학 교사의 AI-TPACK 준비도
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 수업 설계에서의 교사-AI 상호작용: Intelligent-TPACK, 경험, 숙련도의 상호작용 (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — 집중 생성형 AI 전문성 개발과 AI-PCK 향상
-- [[teacher-ai-teaming-five-levels]] — 5단계 교사-AI 협업 틀
-- [[teacher-ai-adoption-confidence]] — 교사의 자신감과 AI 도입
-- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정이론을 통한 AI 리터러시 교사 교육
-- [[genai-literacy-training-teacher-education-dbr-2026]] — 설계 기반 연구: 생성형 AI 리터러시 훈련
-- [[rail-ed-genai-literacy-teacher-education]] — 교사 교육에서 생성형 AI 리터러시 재고하기
-- [[sec-ai-literacy-narrative-review-2026]] — 사회정서 역량과 AI 리터러시
-- [[genai-runaway-object-math-higher-ed]] — 고등교육 수학에서의 생성형 AI와 통제를 벗어난 대상
-- [[ai-changing-teaching-workflows]] — AI가 교수 워크플로를 변화시키는 방식
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 고등교육에서 생성형 AI에 대한 교수진이 자각하는 TPACK-21 지식 (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — 새로운 AI-TPACK 틀을 향하여: 기술적 AI 지식을 통합하는 매개자로서의 윤리 (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 남아프리카 공화국 과학 예비 교사 186명에 대한 비교 설문: 자각하는 TPACK에서 캠퍼스의 우위, 그리고 원격 교육기관에서 AI 훈련이 더 낮게 보고된 TPACK과 연관됨
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK과 과학교수 자기효능감이 AI 리터러시가 탐구 통합 의향에 미치는 영향을 순차적으로 매개함 (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — 대학 교원을 위한 Intelligent-TPACK 전문성 개발: 차원별 향상, 자각 참여도보다 출석이 더 중요 — AI가 지원하는 CTD-PBL 모듈과 예비 물리 교사의 TPACK 및 협력적 문제 해결 (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — 확장된 AI-TPACK 틀에 기반한 과정 중심 채점 기준표로 평가하는 디자인 교육에서의 인간-AI 협업
-- [[capability-decision-model-teacher-readiness-2026]] — 교사의 AI 준비도에 관한 역량 우선의 순서적 모형과 그 구성개념 중복에 관한 경고
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 역량 틀의 지배가 분야의 실제 보급보다 검색 서술어를 부분적으로 반영한다는 경고를 담은 범위 검토
-- [[ai-literacy-tpack-preservice-2026]] — 예비 교사 교육에서 지각된 AI 리터러시와 TPACK: 유용성, 사용 용이성, 가치를 통한 매개(Zhao 2026)
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — 통합 TPACK이 예비 교사를 강화하고 생성형 AI에 대한 태도를 형성하는 역할

@@ -10,6 +10,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 > Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable [[pedagogy|pedagogical]] gains, but the same [[affective-computing|affective]] sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]])([[favero-critical-ai-tutors-empower-enslave-2025|Favero et al., 2025]])
@@ -102,24 +104,3 @@ Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|Sa
 **"A tutor that detects emotion from a face knows the student's state."** Affect is inferred, not observed, and the inference is weakest exactly where the stakes are highest. [[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]] maintain an emotional dimension in a five-dimension learner profile but populate it with keyword dictionaries, so a student who expresses frustration in words the dictionary does not contain is simply not profiled, and the profile has not been validated against expert judgment. Facial capture adds a continuous video stream and a privacy exposure that text inference does not.
 
 **"Emotion measurements taken at different moments are interchangeable."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] find ordered affect shows short-range persistence and directional transitions, and that probe-caught reports, the self-loops around curiosity and confusion, are a different measurement from self-caught ones such as frustration and surprise. Averaging the two into a summary frequency discards the sequence that carries the signal.
-
-## Connected Concepts
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## Connected Articles
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
+connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -146,62 +148,3 @@ ai_assist:
 **"AI 提高了表现，因此提高了学习。"** 在线情境中的分歧与课堂中相同：一项[[rct|随机对照试验]]发现无护栏的 AI 协助提高了练习表现，却*降低*了无辅助考试的分数，而一个"只给提示不给答案"的导师消除了这一伤害。在线课程更依赖异步评估，因此受协助与无辅助表现之间的差距，正是效度得失所在。
 
 **"评估效度是一个评分政策问题。"** 它是由媒介造成的一个设计问题：当一份提交物可以在学习者不在场时被产出，效度就取决于任务是否产出"学习者本人完成了工作"的证据。重设计任务能解决这一点，加重对不端行为的处罚则不能。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 使排序成为承重结构的情境，因为系统无法看到尝试
-- [[assessment-validity]] — 从所交作业到学习这一推断的效度
-- [[agentic-ai]] — 操作工具与平台（包括 LMS）的自主系统
-- [[community-of-inquiry]] — 探究社群
-- [[pedagogy]]
-- [[learning-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[digital-divide]]
-- [[governance]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[guardrails]]
-- [[ai-detection]]
-
-## 关联文章
-
-- [[ai-agents-complete-lms-assessment-validity-2026]] — 自主智能体端到端完成了无监考的 LMS 评估：一个评估效度问题（Hadjisolomou & El-Haddad 2026）
-- [[roe-assessment-twins-2026]] — 评估孪生：将一个易受生成式 AI 攻击的任务与一个时间接近、较不易受攻击的、评估同一成果的任务配对
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 作为效度证据的共同作者诚信，以及作为可规模化验证的 AI 口试
-- [[asynchronous-oral-assessment-2026]] — 异步口试：限时、不可回改的录音，依据嵌入式评分标准评分
-- [[brcic-effortless-trap-productive-struggle-2026]] — 轻松陷阱：AI 的位置而非许可或禁止
-- [[metacognitively-discordant-completion-genai-2026]] — 元认知不一致的完成：未理解而提交的正确作业
-- [[decreasing-digital-distraction-college-online-learning-2026]] — 哪些自我调节策略与低数字分心相一致（530 名学生）
-- [[song-genai-learning-partner-srl-over-time-2026]] — 自我调节学习作为稳定特质与波动状态；元认知与幸福感在一个学期内下降
-- [[genai-marketing-education-roles-2026]] — AI 作为辅导者、队友与工具：角色及其对临场感的影响
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 超越检测：面向在线情境的评估设计
-- [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新构想探究共同体
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — 将 AI 整合进高等教育在线学习：一项四主题批判性文献综述
-- [[mooc-to-maic]] — 从 MOOC 到 MAIC：通过 LLM 驱动的智能体重塑在线教学与学习
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²：面向在线学习的个性化与自适应支持系统
-- [[llm-facilitation-timing-online-discussions]] — 在线讨论中人类与 LLM 促进者的倾向
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors：以人为中心的生成式 AI 虚拟导师
-- [[conversational-ai-tutors-framework]] — 通向对话式 AI 辅导者之路
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 在开放大学实施 AIDA
-- [[ai-adult-learning-guidelines-dis2026]] — 设计支持成人学习的 AI 技术指南
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor：迈向智能体化的个性化辅导
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 让教师理解混合课堂中的机器学习发现
-- [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — 学生更偏好个性化的 AI 生成视频而非非个性化的人类录制视频（Tomlinson et al. 2026）
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI 生成摘要驱动的在线讨论论坛学习设计
-- [[ai-training-science-teacher-tpack-distance-2026]] — 校园型师范生报告的 AI 整合科学教学 TPACK 高于远程教育同伴（64.0% 对 47.4%）
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 角色设计才是干预，而不是工具
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 面向在职教师的六周异步研究生课程：重新设计形式，而不是压缩它
-- [[aggarwal-genai-cybersecurity-2026]] — 两个校区的 19 名学生：共同注册对部分人未产生跨校区互动（Aggarwal 2026）

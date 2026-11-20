@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -96,29 +98,3 @@ Em um experimento em contexto jurídico, 186 tomadores de decisão leigos em cas
 - **"As faculdades de direito já se posicionaram."** A maioria adotou **posturas geralmente proibitivas**, frequentemente explicadas como **ganho de tempo para estudar a tecnologia**, enquanto **quase todas as políticas reservavam discricionariedade aos instrutores individuais**. Uma proibição com uma prerrogativa do instrutor não é um posicionamento assentado, é um adiamento com um padrão.
 - **"A evidência de pesquisa descreve o campo."** A **pesquisa de 2024 da ABA recebeu respostas de apenas 29 faculdades, cerca de 15% das faculdades de direito aprovadas pela ABA**, e uma pesquisa da LexisNexis com **800** profissionais mede uma população diferente. Nenhuma das duas pode ser tratada como representativa da educação jurídica, e ambas são citadas como se fossem.
 - **"Reter uma recomendação da IA é neutro."** Em um experimento em contexto jurídico, **186 tomadores de decisão leigos em casos civis de tribunal deferiram a uma posição incorreta da IA muito menos quando o sistema retinha sua própria posição (5,7-8,2% versus 42,0-60,5%)**. Reter não produziu neutralidade; produziu uma grande redução na deferência, o que é um efeito por direito próprio.
-
-## Conceitos conectados
-
-- [[academic-integrity]] — o framework de conduta aplicado ao trabalho assistido
-- [[assessment-validity]] — se o desempenho assistido mede a competência pretendida
-- [[authentic-assessment]] — desenhos que exigem análise sem ajuda
-- [[ai-use-disclosure]] — normas de atribuição e relato ainda sem consenso
-- [[governance]] — governança docente e criação de política como as faculdades de direito a praticam
-- [[educational-policy-ai]] — política institucional de IA como objeto de estudo
-- [[critical-thinking]] — o raciocínio que o método de casos visa construir
-- [[case-based-learning]] — o método do caso e a discussão de casos como pedagogia
-- [[socratic-method]] — diálogo dependente da preparação do estudante
-- [[experiential-learning]] — núcleos de prática e treinamento baseado na prática
-- [[professional-training]] — a família mais ampla das profissões licenciadas
-- [[career-development-and-readiness]] — prontidão para a prática como propósito declarado
-- [[ai-literacy]] — competência tecnológica como dever profissional
-- [[hallucination-risk]] — citações fabricadas como a falha característica do campo
-- [[legal-issues-and-risks]] — o que as instituições enfrentam quando a governança falha
-
-## Artigos conectados
-
-- [[lorteau-sarro-ai-legal-education-2025]] — Inteligência artificial na educação jurídica: uma revisão de escopo de 82 trabalhos (Lorteau & Sarro 2025)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparação de cinco fatores das políticas de IA generativa de faculdades de direito e um framework de governança
-- [[llm-turing-test-italian-legal-exams-2026]] — Teste de Turing cego nos exames italiano da Ordem, de juiz e de tabelião, avaliado contra marcação especialista
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Reter a posição do sistema suprime a dependência excessiva em decisões de contexto jurídico sem construir julgamento (tomadores de decisão leigos, não estudantes de direito)
-- [[xie-genai-mystery-game-legal-education-2026]] — Jogo de role-play de mistério escrito por GenAI versus aula expositiva: um ensaio randomizado (Xie et al. 2026)

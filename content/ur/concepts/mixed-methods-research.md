@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -69,26 +71,3 @@ ai_assist:
 - **"AI تعلیم کی تحقیق میں مخلوط طریقے ایک معمولی انتخاب ہیں۔"** **GenAI سے متعلق اعلیٰ تعلیم کے 394 مطالعات** میں مخلوط طریقے **سب سے عام تحقیقی ڈیزائن (213 مطالعات، 54%)** تھے، اس کے بعد مقداری (109، 28%) اور کیفیاتی (72، 18%)۔ میدان کا غالب ڈیزائن وہ نہیں جسے اس کی طریقہ کارانہ بحثیں فرض کرتی ہیں۔
 - **"مشاہداتی اور انٹرویو شواہد نظام کا دعویٰ اٹھا سکتے ہیں۔"** نظام کے مشاہدے اور [[administrator|منتظمین]] کی گفتگو کو **آٹھ سمسٹروں میں 8,708 طلبہ کے چار سالہ بے ترتیب جانچ** کے ساتھ جوڑنا، جو **0.05 معیاری انحراف** کے اثرات پکڑنے کی طاقت رکھتی ہے، دکھاتا ہے کہ کیفیاتی دھاگہ اکیلا کیا نہیں کر سکتا: چھوٹے اثر کا قابلِ اعتماد پتہ لگانا۔ طریقے ملانا دھاگوں کے درمیان طاقت منتقل کرنے کا طریقہ نہیں۔
 - **"مثلث بندی کا مطلب ہے دو کمزور طریقے مل کر مضبوط دعویٰ بناتے ہیں۔"** جوڑ کی قدر یہ ہے کہ ہر دھاگہ ایک الگ سوال کا جواب دیتا ہے۔ ایسا ڈیزائن جو دونوں چلائے اور پھر کیفیاتی نتیجہ مقداری کی تصدیق کے طور پر رپورٹ کرے، اس نے مثلث بندی نہیں کی، اس نے دہرایا ہے۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## منسلک مضامین
-
-- [[genai-over-reliance-learning-2026]] — بہتری سے زیادہ انحصار تک (سروے + انٹرویوز)
-- [[t2i-competence-paradox-2026]] — قابلیت کا تضاد (فوکس گروپس + سروے + انٹرویوز)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — اعتماد–افادیت کا خلا (سروے + انٹرویوز)
-- [[same-ai-different-pathways]] — مختلف سیاق و سباق میں AI کی وساطت والے سیکھنے کے طریقہ کار
-- [[genai-feedback-design-multisite-experiment]] — انسان مرکز GenAI فیڈبیک ڈیزائن (کثیر المقام)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI ٹیوٹر کی حفاظت اور تدریسی نقصانات
-- [[becker-chatgpt-typology-physics-2026]] — طبیعیات میں چیٹ جی پی ٹی اختیار کی ایک کیفیاتی درجہ بندی
-- [[edtech-privacy-deferral-2026]] — "ہم بعد میں ٹھیک کر لیں گے": تعلیم، AI اور EdTech میں طالب علم کی رازداری کی تاخیر
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER اور فائن ٹیون شدہ RoBERTa نے ایک ہی Bluesky پوسٹ کو مخالف ویلنس دیا (Geraili Meykola et al., 2026)

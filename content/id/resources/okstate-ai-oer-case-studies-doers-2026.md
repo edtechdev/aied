@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -64,11 +65,3 @@ Commons. Atas pilihan editorial, setiap bab mempertahankan suara disipliner penu
 ejaan regionalnya, sehingga prosanya tidak terbaca seragam. Yang terpenting, setiap bab mendokumentasikan
 satu proyek lokal dan tidak ada dua yang berbagi instrumen atau pembanding, sehingga buku ini menawarkan
 praktik untuk diadaptasi alih-alih bukti untuk dikutip.
-
-## Konsep terkait
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

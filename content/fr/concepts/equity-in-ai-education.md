@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -139,75 +141,3 @@ L'équité a aussi une dimension environnementale et computationnelle : l'accès
 - **« Le problème d'équité, c'est l'accès aux outils. »** **La qualité de l'outil fait partie de la fracture, pas seulement l'accès à l'outil** : [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] a soumis **50 tâches mathématiques** et a constaté des différences de qualité qui suivent l'outil plutôt que l'utilisateur.
 - **« Le tutorat hybride humain-IA ne peut pas réduire les écarts. »** **Le tutorat différencié humain-IA atteste que les modèles hybrides peuvent réduire les écarts — lorsque l'allocation suit le besoin.** Une étude de différences en discontinuités (**635** participants) a constaté que le tutorat proactif présentait une **croissance moyenne marginalement supérieure (75 %, p = .065) concentrée chez les étudiants les plus éloignés sous le seuil**. Le gain se concentrait là où le besoin était le plus grand.
 - **« Un effet moyen dit si l'équité s'est améliorée. »** L'idée clé est que la **règle d'allocation** déterminait le résultat d'équité : une intervention qui aide tout le monde également laisse les écarts inchangés, et une intervention qui aide proportionnellement au besoin les réduit.
-
-## Concepts liés
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — Les apprenants : l'ombrelle des concepts relatifs au côté apprenant
-- [[digital-divide]] — L'accès inégal aux outils et à l'infrastructure de l'IA selon les lignes socioéconomiques, les régions et les nations
-- [[bias-mitigation]] — Les méthodes de détection et de correction des biais dans les tuteurs d'IA, les correcteurs et les systèmes de recommandation
-- [[accessibility]] — La conception qui rend les outils d'apprentissage par l'IA utilisables par les apprenants en situation de handicap
-- [[assistive-technology]] — Les outils qui soutiennent les apprenants en situation de handicap dans des contextes médiatisés par l'IA
-- [[culturally-relevant-pedagogy]] — Un enseignement qui reflète les contextes culturels des apprenants plutôt que d'imposer des normes dominantes
-- [[language-learning]] — L'inclusion linguistique des apprenants multilingues et locuteurs de langues sous-représentées
-- [[inclusive-learning]] — Un apprentissage accessible et équitable pour tous les apprenants
-- [[universal-design-for-learning]] — Concevoir pour la variabilité des apprenants dès le départ
-- [[neurodiversity]] — Le soutien aux apprenants neurodivergents dans l'IA en éducation
-- [[special-education]] — Répondre aux besoins des apprenants en situation de handicap dans la conception des systèmes d'IA
-- [[ai-literacy]] — Les compétences dont les apprenants ont besoin pour bénéficier de l'IA de manière équitable
-- [[educational-policy-ai]] — La politique institutionnelle inscrivant l'équité comme principe directeur
-- [[governance]] — La supervision et la responsabilité pour une IA équitable
-- [[agency]] — Veiller à ce que l'IA autonomise plutôt qu'elle ne remplace la voix des étudiants
-- [[stakeholders]] — Ombrelle : les personnes et les publics de l'IA en éducation (apprenants, enseignants, concepteurs, administrateurs, responsables de politiques)
-- [[parents-and-families]]
-- [[student-support-and-success]] — qui les systèmes de soutien atteignent, et les risques d'agir sur un score de risque
-
-## Articles liés
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Comment le biais visuel de l'IAG entre dans l'évaluation multimodale, et pourquoi le contre-narrer est une compétence enseignante
-- [[rented-self-decoupling-performance-becoming-2026]] — Le soi loué : loyer payé en argent, en soi et en normes, et des licences qui prennent fin au diplôme
-- [[verified-study-materials-learning-gains-2026]] — Vérifié, non généré : des supports d'étude par l'IA vérifiés par des experts et la distribution des gains d'apprentissage dans un cours universitaire
-
-- [[ai-literacies-young-adults-2025]] — L'équité comme problème de diffusion : atteindre les jeunes que l'éducation formelle manque
-- [[opraise-automated-marking-ai-assessment-2026]] — Rapport OpRaise : la notation de 761 dissertations universitaires par l'IA dans trois universités britanniques
-- [[kumar-genai-computing-education-systematic-review-2026]] — Écart de compétences contre écart de ressources : deux mécanismes d'équité exigeant des remèdes différents
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — L'IAG sans accompagnement peut élargir les écarts : la compétence de gestion de l'interaction (Brunnström & Palmqvist 2026)
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[school-ai-education-readiness-gaps-agency-2026]] — L'enseignement scolaire de l'IA réduit les écarts de préparation psychologiques mais non cognitifs
-- [[prompt-privilege-equitable-ai-access-2026]] — Le privilège de la consigne : mesurer et atténuer les disparités d'accessibilité dans l'accès aux LLM
-- [[ai-scoring-language-bias-physics]] — Les biais liés à la langue dans la notation par l'IA
-- [[gender-bias-transfer-llm-writing]] — Le transfert des biais de genre dans l'écriture assistée par LLM
-- [[genai-minoritized-knowledges-disability]] — L'IA générative et la marginalisation des savoirs minorisés
-- [[structural-silence-underrepresented-language-ai-2026]] — Le silence structurel : les langues sous-représentées dans l'infrastructure de l'IA
-- [[genai-higher-education-systematic-review-2026]] — L'IAG dans l'enseignement supérieur : revue systématique
-- [[ai-lifelong-learning-policy]] — La politique d'IA et d'apprentissage tout au long de la vie
-- [[generative-ai-education-productivity-gaps]] — L'IA générative réduit-elle les écarts de productivité liés à l'éducation ?
-- [[genai-linguistic-diversity-academic-writing]] — La diversité linguistique dans l'écriture académique médiatisée par l'IA
-- [[access-not-enough-ai-tutoring-2026]] — L'accès ne suffit pas
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Un chatbot à codage féminin comme modèle réduisant les stéréotypes de genre en mathématiques
-- [[paternalistic-filter-llm-history-education]] — Le filtrage paternaliste dans l'enseignement de l'histoire fondé sur les LLM
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens : le soutien par l'IA des apprenants dyslexiques
-- [[ground-truth-reliability-aied]] — La fiabilité de la vérité de terrain en IAED
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais de rétroaction alignés sur les stéréotypes selon les attributs des étudiants
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — L'IA peut-elle apporter un soutien approprié à des profils d'étudiants divers ? Une évaluation à grande échelle
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Les ateliers de fablab IAG réservés aux filles et l'équité de genre en informatique
-- [[khlaif-assistive-genai-visually-impaired-2026]] — L'IAG d'assistance pour les apprenants malvoyants
-- [[culturally-aware-student-stress-chatbot-2026]] — Un agent conversationnel culturellement attentif, alimenté par l'IA, pour la détection du stress et le soutien au bien-être chez des étudiants universitaires pakistanais, à l'aide du NLP et de l'apprentissage automatique
-- [[demographic-signals-llm-student-assessment-2026]] — Les signaux démographiques implicites (tirés de l'historique de conversation) modifient la notation, la rétroaction et les réponses des LLM (Rooein, Benedetto & Hovy 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 enseignants américains sur le présent et l'avenir de l'IA : 81% s'attendent à des iniquités numériques plus larges, 26% n'utilisent pas les outils
-- [[li-genai-assessment-language-equity-2026]] — Tracer la frontière entre soutien et substitution : les règles d'évaluation relatives à l'IAG et la charge de conformité des étudiants anglophones non natifs
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Le droit de refuser est inégalement distribué : le refus comme preuve d'un manque de préparation institutionnelle (Zagami 2026)
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Le jugement éthique par scénarios et la littératie en IA chez 531 étudiants de premier cycle
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par des humains produisent des gains d'apprentissage équivalents au GRE
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
-- [[genai-social-bias-software-engineering-education-2026]] — L'IA générative peut renforcer les biais sociaux dans l'enseignement du génie logiciel
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Écart d'exactitude entre modèle gratuit et modèle premium en mathématiques : 32.7% contre 12% (Canonigo 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Les gains d'apprentissage regroupés avec l'IAG (g=0.53) et l'accès inéquitable aux outils coûteux qu'ils ne peuvent pas saisir
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Une revue du tutorat par IA en mathématiques concluant que les affirmations d'inclusivité et de réduction des écarts de réussite ne sont pas étayées
-- [[gurung-hybrid-human-ai-tutoring-2026]] — Améliorer le tutorat hybride humain-IA en différenciant les rôles des tuteurs humains selon les besoins des étudiants (Gurung et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Déploiement d'un dispositif de mathématiques par IA à l'échelle d'un district, avec des associations exploratoires plus fortes pour les étudiants sous PEI, anglophones apprenants et hispaniques (supports multimodaux et multilingues ; causalité non testée)
-- [[gyekye-selves-apprenticeship-2026]] — Des apprentis de couleur assimilaient l'équité à l'aplatissement culturel ; l'agence se construit par le refus et la négociation ; bande passante de reconnaissance et littératie en IA institutionnelle
-- [[rodrigues-aied-unplugged-numeracy-2026]] — Une diffusion à médiation enseignante atteint des étudiants que l'IA ne touche jamais
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — La détection frappe le plus durement les rédacteurs multilingues
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 35 études sur 61 traitaient de l'équité, mais l'assistance était documentée sans réduction des écarts (Aybar-Bellido et al., 2026)
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence médiatise le bénéfice que les étudiants tirent de l'accès aux LLM (Li et al. 2026)

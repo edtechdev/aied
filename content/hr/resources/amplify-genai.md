@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -48,10 +49,3 @@ Centralni IT i CIO uredi koji već izvode radna opterećenja u AWS-u i žele alt
 ## Napomene i upozorenja
 
 Besplatna za licenciranje, ali ne i za rad: ustanova plaća AWS i pružatelje modela. Odabir modela ide kroz Amazon Bedrock (Anthropic, Mistral) ili OpenAI i Microsoft Azure, a pokretanje vlastitih lokalnih modela nije implementirano. Projekt izričito navodi da ne može podržati pojedinačne postave i upućuje organizacije na komercijalne partnere — pa realan trošak uključuje osoblje ili izvođača. Riječ je o postavi u tri repozitorija (frontend, backend, infrastruktura) s desecima zvjezdica, a ne tisućama, i gornja usporedba troškova vlastito je iskustvo Vanderbilta, a ne kontrolirana studija. Ustanove koje bi radije zadržale inferenciju na hardveru koji posjeduju trebaju pogledati [MindRouter](/aied/resources/mindrouter/) i čitati ih zajedno: Amplify je aplikacijski sloj nad modelima dobavljača, MindRouter je pristupnik nad vašim GPU-ima.
-
-## Povezani pojmovi
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

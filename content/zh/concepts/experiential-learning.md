@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -84,39 +86,3 @@ ai_assist:
 **"[[authentic-assessment|更真实的任务]]就径直更好。"** 真实性同时抬高了迁移价值与评估问题：真实系统产生的是多变、难以评分的证据，任务越真实，结果就越不像一个分数。设计必须同时握住两者，这也是为什么反思结构与任务本身同样重要。
 
 **"[[intelligent-tutoring|AI 辅导]]适用于体验式学习，就像它适用于讲授内容那样。"** 这种适配更弱，因为导师能提供解释，却无法提供与系统的遭遇。它在这一[[pedagogy|教学法]]中的自然位置是在反思与概念化阶段，即学习者正在理解发生了什么的时候，而不是替代行动。[[gelli-experiential-language-learning-2026|Symonette 等人（2026）]]生成遭遇而非把它写成脚本：依据学习者的目标，GELLI 在运行时构建带人物、支持与反思的情境场景，而在一项 40 名日语学习者的被试内研究中，它在词汇回忆（d = 0.45）与信心（d = 0.45）上胜过专家撰写的视频，但在口语上没有。
-
-## 关联概念
-
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education：AI 教育中教学法与教学策略的伞形概念
-- [[virtual-and-augmented-reality]] — 沉浸式练习作为刻意的经验
-
-- [[reflection]]
-
-## 关联文章
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 真实世界角色扮演在共情增益上胜过 VR 与 LLM 对话，但接触时长存在混杂（Zwoliński 等，2026）
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era：AI 时代智能制造的劳动力准备度水平框架
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)：通过具身智能培育可持续学习
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education：网络安全教育中的生成式 AI
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks：面向项目式机器人教育的机器人与积木
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education：教育中的机器人与人工智能
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study：AI 整合型 LMS 的纵向研究
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI 角色替代社区田野工作，附一个说明替代在何处失败的五指标评分标准（Elhajj et al. 2026）
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — 在 AI 支持的设计教育中区分具身动手与认知动手的主题综述（Yu, Liu & Zhu 2026）
-- [[shi-genai-experiential-learning-management-education-2026]] — 一门围绕三个生成式 AI 机制重构的战略管理课程
-
-- [[gelli-experiential-language-learning-2026]] — GELLI：一个面向体验式语言学习交互的生成器（Symonette 等人 2026）
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的虚拟实验室用于翻转物理学习：对初中生成绩、动机与认知负荷的影响
-
-- [[metacognitive-awareness-experiential-vs-instructional]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
-- [[yusuf-service-learning-mapping-2026]] — 26 项研究映射到服务学习循环：AI 在评价与反思处变薄（Yusuf 等 2026）

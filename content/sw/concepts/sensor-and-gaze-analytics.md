@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -83,9 +85,7 @@ Uhusiano wa neva sio alama. Picha zilizojengwa upya kutoka EEG zilihusiana na ut
 
 Makini sio kujifunza. Katika TutorLoop, makini yalihusiana na kujifunza kwa r = 0.017, ilhali mzigo ulihusiana kinyume kwa r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Mfumo unaoongeza ishara ya makini kwa kiwango cha juu ungekuwa umeboresha kitu kilicho karibu na kelele.
 
-
 Kihisi kinaweza kurekodi uwepo wa pamoja pale utafiti unadai mwingiliano: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] waligundua kitambuzi cha mkao kilifikia ukumbukaji wa 55% tu, kikikamata matukio 11 kati ya 20 yaliyotambuliwa na wawekaji kodi wa binadamu katika mwingiliano wa makundi ya mwalimu–mwanafunzi. Mwalimu alikuwa ndani ya mpaka wa kundi katika 49.2% ya sehemu zilizowekwa kodi wakati wanafunzi walimtazama mwalimu kwa 25.4% tu, na hakuna kipengele cha sauti kilichobadilika katika ulinganisho wowote, hivyo mchakato ulirekodi uwepo wa pamoja wa kimaeneo badala ya mwingiliano endelevu.
-
 
 Wasifu wa kifiziolojia sio utambuzi. Modeli za msongo wa mtihani hutabiri kundi la alama kutoka msisimko na mwendo, na waandishi wanasisitiza kwamba matokeo yanapaswa kuwekwa kando ya mazingira binafsi na muktadha wa afya ya akili badala ya katika uamuzi wenye hatari kubwa ([[physiological-signals-exam-outcomes-ml|Yamazaki na Rimal, 2026]]).
 
@@ -116,40 +116,3 @@ Mwisho, ukusanyaji sio muunganisho. Kim na Han waligundua kwamba masomo mengi ya
 **"Ushiriki ni kitu kimoja, kwa hivyo alama moja inaweza kuuwakilisha."** Dhana hiyo ina nyuzi tatu, na kihisi hufikia ya kwanza zaidi. E3Sense iligundua wanafunzi waliifafanua kwa viashiria vya kiakili, kitabia, na kihisia kwa uwiano tofauti, na fasili hizo zilibadilisha utabiri ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan na wenzake, 2026]]). Namba moja huficha ni tabaka gani lilipimwa.
 
 **"Ikiwa modeli ni ya haki kwenye mgawanyiko wa uthibitishaji, ni ya haki darasani."** Kirekebishaji kilichosawazisha kosa la uthibitishaji kati ya makundi ya jinsia kilifanya pengo la wahusika waliohifadhiwa kuwa baya zaidi ([[student-attention-estimation-fairness-2026|Fragkiadakis na wenzake, 2026]]). Usawa ni sifa ya utekelezaji, sio ya kituo cha ukaguzi.
-
-## Dhana zinazohusiana
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## Makala zinazohusiana
-- [[gaze-informed-ai-children]] — Simulizi za LLM zinazoanzishwa na mtazamo ziliwafanya watoto kubaki kwenye eneo linalosimuliwa kwa 6.48 s dhidi ya 1.67 s, lakini utafiti ulipima makini badala ya uelewa (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG ya kichwani, ufuatiliaji wa macho, na EDA ya paji la uso zilitabiri ushiriki wa kujikadiria kwa usahihi wa ngazi moja wa 75.0% dhidi ya msingi wa 63.0% (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage iliunganisha mitiririko saba ya vifaa vinavyovaa na kamera kuwa makadirio ya ushiriki wa ngazi ya sehemu (MAE 0.81) na inahoji kwa vifaa vyepesi (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — Modeli ya makini ya multimodali ilifikia MAE 0.283, na faida zake za usawa za uthibitishaji zilipinduka kwa wahusika waliohifadhiwa (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI inayovaa ina uwazi wa pande mbili, kwa hivyo ubaguzi wa kimwili unashindikana na utekelezaji unaelekea kuhukumu miili ya wanafunzi (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — Modeli kumi na tano za utabiri wa uzoefu wa EEG zilishuka kutoka F1 ya 0.9853 hadi 0.6038 chini ya uthibitishaji usiotegemea jaribio (Nanayakkara na Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — Picha zilizojengwa upya kwa EEG zilifuata utendaji wa mtihani kwa R² = 0.79, huku mshiriki mmoja wa ujenzi wa juu akijibu kimakosa (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — Msitu wa bahati nasibu ulitabiri makundi ya alama za mtihani kutoka EDA, mwendo, na joto la ngozi, ishara zinazoonyesha msisimko badala ya uelewa (Yamazaki na Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Kwa wanafunzi 458 wanaovaa Oura, rejista ya kihisia badala ya mada ya wasiwasi ilifuata usingizi na utofauti wa mapigo ya moyo (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Mtazamo wa kamera ya wavuti uliongoza maoni ya kujifunza kwa uimarishaji kwa wanafunzi 187; makini yalihusiana na kujifunza kwa r = 0.017 ilhali mzigo ulihusiana kinyume (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — Sifa za mkao za YOLOv11 ziliweka alama ya tabia ya kutilia shaka kwa 99.56% kwenye seti maalum iliyowekwa lebo, bila kujaribu makosa au usawa (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Muunganisho wa EEG ulipungua kwa msaada wa uandishi wa nje kwa washiriki 54, ukichukulia utegemezi kama deni la kiakili lililokusanywa (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — Katika masomo 23, majukumu ya kuhisi yalitawala kwa 62.5% ya lebo na hakuna mfumo uliopitiwa uliunganisha mitiririko ya multimodali moja kwa moja (Kim na Han, 2026)

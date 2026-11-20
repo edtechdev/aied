@@ -10,6 +10,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 > **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] [[research-methods-aied|research]] explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of [[ai-technologies|AI systems]] that overlook or marginalize disabled learners.
@@ -56,33 +58,3 @@ Special education is a domain where AI's capacity for personalization and adapta
 - **"[[usability-research|Usability]] ratings validate an assistive tool."** Practitioners gave a Social Story tool they had co-designed a usability pass (SUS 86.8) while faulting its stock Western imagery and a behavior tracker that missed goal-linked clinical judgment. High usability coexisted with substantive failures, so a SUS score is not an endorsement of fit.
 - **"Generic benchmarks tell you how a tutor handles special-education cases."** Of **923 case-grounded dialogues** drawn from special-education and educational-psychology literature, **the best of 11 models** satisfied a documented criterion — and **that is the edge of what a tutor benchmark covers**. Standard evaluations do not reach the cases practitioners most need help with.
 - **"Neurodivergent learners need accommodations, not design requirements."** [[neurodivergent-computing-students|Zastudil et al.]] found neurodivergent computing students need **structured assignments, small consistent teams and explicit role definitions** — general design requirements that benefit everyone, not individual adjustments granted after diagnosis.
-
-## Connected Concepts
-
-- [[differential-effects-across-learner-groups]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[discipline-specific-aied]]
-
-## Connected Articles
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[special-r1-rl-special-education]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[neurodivergent-computing-students]]
-- [[adhd-video-segmentation-computing-education]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — A vision-language model plans Shoebox Tasks for a Nao robot (Kudláčková 2026)

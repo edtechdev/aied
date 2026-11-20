@@ -24,6 +24,8 @@ ai_assist:
     role: drafting
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [scaffolding, productive-failure, help-seeking, self-regulated-learning, intelligent-tutoring, anxiety-and-stress]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, studentbench-ai-human-tutoring-gre-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, chatgpt-hints-human-tutor-learning-gains-2024, brcic-effortless-trap-productive-struggle-2026]
 ---
 
 > **Synthesis:** Ennion and McLellan randomized students at an English sixth-form college to a human tutor, Khan Academy's GenAI tutor (Khanmigo Lite), or unguided internet search on mathematics problems set above the A-level curriculum. Human tutoring produced the calmest experience: the lowest perceived difficulty in both sections, the most attempts, and the fewest stressed students. The GenAI tutor did not make the work feel easier, but its students reported more effort than human-tutored students by the second section and, descriptively, less stress than internet searchers. The authors read this as a distinct, partial form of co-regulation useful in independent practice, not a replacement for teaching; no learning measure was taken.
@@ -75,23 +77,6 @@ Behavioral challenge-seeking did not differ by condition (p = 0.225) but tracked
 - Attempts counted questions started, not accuracy, so a higher count could mean persistence or floundering; one tutor's style, the novelty of the GenAI tutor and variable web quality also differ across conditions.
 - Khanmigo Lite's model snapshot was unavailable and may have changed between November 2024 and July 2025, so results may not generalize to other versions or to GenAI tutors as a category.
 - The study departed from its preregistration: internet search replaced the planned no-support condition, and the exact analyses were not prespecified, so section-specific findings are exploratory.
-
-## Connected Concepts
-
-- [[scaffolding]]: contingent guidance that keeps a task within reach
-- [[productive-failure]]: difficulty that stays workable long enough to teach
-- [[help-seeking]]: asking for a hint rather than an answer
-- [[self-regulated-learning]]: managing effort and affect during independent work
-- [[intelligent-tutoring]]: what a GenAI tutor shares with human tutoring, and lacks
-- [[anxiety-and-stress]]: affect while encountering difficulty
-
-## Connected Articles
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]]: a two-year Khanmigo trial where engagement bounded the effect
-- [[studentbench-ai-human-tutoring-gre-2026]]: AI and human tutoring compared on learning gains rather than engagement
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]]: a purpose-built AI tutor that beat in-class active learning
-- [[chatgpt-hints-human-tutor-learning-gains-2024]]: ChatGPT hints matching human-authored hints on mathematics learning
-- [[brcic-effortless-trap-productive-struggle-2026]]: where AI sits relative to the cognitive work of learning
 
 ## Citation
 

@@ -31,6 +31,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -50,6 +51,3 @@ Wabunifu wa kufundisha na waelimishaji wanaotaka uamuzi wa ubunifu pamoja na ush
 ## Vidokezo na tahadhari
 
 Soma paneli ya uaminifu kwenye kila ukurasa. Modeli za lugha zinadumisha wiki chini ya mtunzaji mmoja wa kibinadamu, hakuna mtu aliyekagua ukurasa wowote, na tovuti inaita ukurasa uongozi wenye vyanzo vingi badala ya ugunduzi. Madai yanabeba daraja la ubunifu, msimbo wa ukubwa wa athari na msimbo wa ukakamavu, na "hakuna ukubwa wa athari uliochapishwa" humaanisha chanzo hakikuutaja, si kwamba hakuna. Maudhui ni CC BY-SA 4.0, hivyo kutumia tena kunapaswa kubeba leseni hiyo hiyo, na msimbo ni MIT.
-
-## Dhana Zilizounganishwa
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

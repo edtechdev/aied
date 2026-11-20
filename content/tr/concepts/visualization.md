@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -63,25 +65,3 @@ Burada ele alınan çalışmalar boyunca görselleştirme, çift kullanımlı bi
 - **"Daha iyi görselleştirmeler daha iyi sonuçlar üretir."** Öğretmenler **ısı haritaları gibi karmaşık tasarımlar daha ayrıntılı içgörüler ürettiğinde bile sistematik olarak daha basit ve daha geleneksel görselleştirmeleri (çubuk grafikler, pasta grafikler, lejantlar) tercih etti**. Daha bilgilendirici eser, kullanılan eser olmadı; bu nedenle benimseme, tasarım kalitesinden ayrı bir sorundur.
 - **"Öğrenciler iskelelemenin olduğu yere bakar."** Bir çalışma, öğrencilerin **ayrıntılı görsel iskelelere rağmen bakışlarının çoğunu kod üzerinde geçirdiğini** buldu; yardımcılar dikkati hiç yakalamadı. Var olan ama fark edilmeyen görsel destek hiçbir şeyi değiştirmez.
 - **"Katılım ve kavrayış birlikte hareket eder."** Katılımcılar YZ üretilmiş veri çizgi romanlarını **daha ilgi çekici ve daha anlaşılır** buldu, ancak çoğu aynı zamanda yanlış bilgi riskini ve bilgi aşırı yüklenmesini de işaretledi. Her iki tepki de aynı eserden geldi; bu nedenle olumlu karşılama doğrulanmış bir okuma değildir.
-
-## Bağlı kavramlar
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — uzamsal ve üç boyutlu gösterim
-
-## Bağlı makaleler
-
-- [[interactive-learning-dashboards-engagement]] — Öğrenme görselleştirmelerini pedagogik aracılar aracılığıyla katılım araçları olarak yeniden düşünmek
-- [[mllm-scientific-visualization-literacy]] — Bilimsel görselleştirme okuryazarlığı için çok kipli LLM'leri kıyaslamak
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Nükleer kavram görselleştirmesi için alana uyarlanmış metinden görsele modeller
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — YZ destekli veri çizgi romanlarının etkililiği, yararları ve etiği
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Çok kipli slayt denetimi için karşıt olgulu kıyas
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — MG bulgularını harmanlanmış sınıflardaki öğretmenler için erişilebilir kılmak
-- [[genai-visualization-education-framework-2026]] — Anlam İnşa Etmek, Yalnızca Grafikler Değil: Görselleştirme Eğitiminde Üretici YZ Kullanımına İlişkin Bilişsel–Öğretimsel Bir Çerçeve

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, rented-self-decoupling-performance-becoming-2026, verified-study-materials-learning-gains-2026, ai-literacies-young-adults-2025, opraise-automated-marking-ai-assessment-2026, kumar-genai-computing-education-systematic-review-2026, brunnstrom-ai-interaction-literacy-srl-2026, adeniranye-ai-integration-nigerian-higher-education-2026, student-attention-estimation-fairness-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, genai-minoritized-knowledges-disability, structural-silence-underrepresented-language-ai-2026, genai-higher-education-systematic-review-2026, ai-lifelong-learning-policy, generative-ai-education-productivity-gaps, genai-linguistic-diversity-academic-writing, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, paternalistic-filter-llm-history-education, dyslexlens-dyslexic-learners-ai, ground-truth-reliability-aied, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, all-girls-genai-makerspace-gender-equity-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, ai-refusal-higher-education-diagnostic-non-use-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, studentbench-ai-human-tutoring-gre-2026, computing-assessment-genai-workshop-report-2026, genai-social-bias-software-engineering-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, intelligent-tutoring-mathematics-education-review-2026, gurung-hybrid-human-ai-tutoring-2026, alam-goblins-math-platform-2026, gyekye-selves-apprenticeship-2026, rodrigues-aied-unplugged-numeracy-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, li-who-benefits-llms-prompt-engineering-equity-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -147,80 +149,3 @@ ai_assist:
 - **“公平问题就是工具获取。”** **工具质量是鸿沟的一部分，而不只是工具获取**：[[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo（2026）]]提交了 **50 个数学任务**，发现质量差异跟随工具，而非使用者。
 - **“混合人机辅导无法缩小差距。”** **差异化的人机辅导是混合模型能够缩小差距的证据，前提是分配跟随需求。** 一项断点差异研究（**635** 名参与者）发现，主动辅导显示出**略高的平均成长（75%，p = .065），且集中在低于分界点更远的学生身上**。增益集中在需求最大之处。
 - **“平均效应能告诉你公平是否改善。”** 洞见在于**分配规则**决定了公平结果：同等帮助所有人的干预使差距不变，按需求比例提供帮助的干预则缩小差距。
-
-## 关联概念
-
-- [[differential-effects-across-learner-groups]]
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[digital-divide]] — 跨越社会经济线、地区与国家的不均 AI 工具与基础设施获取
-- [[bias-mitigation]] — 检测与纠正 AI 导师、评分器与推荐器中偏见的方法
-- [[accessibility]] — 使 AI 学习工具可供残障学习者使用的设计
-- [[assistive-technology]] — 在 AI 介导情境中支持残障学习者的工具
-- [[culturally-relevant-pedagogy]] — 反映学习者文化语境而非强加主导规范的教学
-- [[language-learning]] — 多语言与代表性不足语言学习者的语言包容
-- [[inclusive-learning]] — 面向所有学习者的无障碍且公平的学习
-- [[universal-design-for-learning]] — 从一开始就为学习者变异性而设计
-- [[neurodiversity]] — 在 AI 教育中支持神经多样性学习者
-- [[special-education]] — 在 AI 系统设计中满足残障学习者的需要
-- [[ai-literacy]] — 学习者公平地从 AI 受益所需的技能
-- [[educational-policy-ai]] — 把公平嵌入为指导原则的机构政策
-- [[governance]] — 公平 AI 的监督与问责
-- [[agency]] — 确保 AI 赋能而非取代学生声音
-- [[stakeholders]] — 总括：AI 教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
-- [[parents-and-families]]
-- [[student-support-and-success]] — 支持系统触及谁，以及按风险分数行动的风险
-
-## 关联文章
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 项研究中的 35 项涉及公平，但记录的是获得帮助，而非差距被缩小（Aybar-Bellido 等，2026）
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 生成式 AI 视觉偏见如何进入多模态评估，以及为何反叙事它是一种教师能力
-- [[rented-self-decoupling-performance-becoming-2026]] — 租来的自我：以金钱、自我与标准支付的租金，以及毕业即终结的许可证
-- [[verified-study-materials-learning-gains-2026]] — 经核验而非生成：专家核验的 AI 学习材料与大学课程中学习收益的分布
-
-- [[ai-literacies-young-adults-2025]] — 公平作为递送问题：触及正规教育遗漏的年轻人
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 报告：三所英国大学 761 篇大学作文的 AI 评分
-- [[kumar-genai-computing-education-systematic-review-2026]] — 技能差距与资源差距：两种需要不同补救的公平机制
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — 无指导的生成式 AI 可能扩大差距：交互管理能力（Brunnström & Palmqvist 2026）
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 尼日利亚高等教育中的机构结构、数字不平等与 AI 整合
-- [[student-attention-estimation-fairness-2026]] — 面向实时学生注意力估计的公平性感知多模态 Transformer 建模
-- [[school-ai-education-readiness-gaps-agency-2026]] — 学校 AI 教育缩小心理而非认知准备度差距
-- [[prompt-privilege-equitable-ai-access-2026]] — 提示特权：测量与缓解 LLM 获取中的无障碍差距
-- [[ai-scoring-language-bias-physics]] — 基于 AI 评分中的语言偏见
-- [[gender-bias-transfer-llm-writing]] — LLM 辅助写作中的性别偏见迁移
-- [[genai-minoritized-knowledges-disability]] — 生成式 AI 与少数化知识的边缘化
-- [[structural-silence-underrepresented-language-ai-2026]] — 结构性沉默：AI 基础设施中的代表性不足语言
-- [[genai-higher-education-systematic-review-2026]] — 高等教育中的生成式 AI：系统综述
-- [[ai-lifelong-learning-policy]] — AI 与终身学习政策
-- [[generative-ai-education-productivity-gaps]] — 生成式 AI 能缩小教育造成的生产力差距吗？
-- [[genai-linguistic-diversity-academic-writing]] — AI 介导学术写作中的语言多样性
-- [[access-not-enough-ai-tutoring-2026]] — 获取并不够
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — 女性编码聊天机器人作为榜样减少数学性别刻板印象
-- [[paternalistic-filter-llm-history-education]] — LLM 历史教育中的家长式过滤
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens：面向阅读障碍学习者的 AI 支持
-- [[ground-truth-reliability-aied]] — AIED 中的真值可靠性
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies：跨学生属性的符合刻板印象的反馈偏见
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI 能为多样的学生画像递送恰当支持吗？一项大规模评估
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 全女生生成式 AI 创客空间工作坊与计算中的性别公平
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助生成式 AI
-- [[culturally-aware-student-stress-chatbot-2026]] — 面向巴基斯坦大学生压力检测与健康支持的、使用 NLP 与机器学习的 AI 驱动文化感知聊天机器人
-- [[demographic-signals-llm-student-assessment-2026]] — 隐含（对话历史）人口信号改变 LLM 评分、反馈与作答（Rooein、Benedetto & Hovy 2026）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 名美国教师谈 AI 的现在与未来：81% 预期数字不平等扩大，26% 不用这些工具
-- [[li-genai-assessment-language-equity-2026]] — 划定支持—替代界线：生成式 AI 评估规则与 EAL 学生的合规负担
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — 拒绝的权利分布不均：拒绝作为机构准备不足的证据（Zagami 2026）
-- [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 名本科生中的情境化伦理判断与 AI 素养
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? 一份关于生成式 AI 时代计算评估的在线工作坊报告
-- [[genai-social-bias-software-engineering-education-2026]] — 生成式 AI 可能在软件工程教育中强化社会偏见
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 数学中免费层与高级模型的准确度差距：32.7% 对 12%（Canonigo 2026）
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 合并的生成式 AI 学习收益（g=0.53）及其无法捕捉的高成本工具不公平获取
-- [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 AI 辅导综述：发现包容性与成绩差距主张缺乏支持
-- [[gurung-hybrid-human-ai-tutoring-2026]] — 通过按学生需求区分人工导学角色来改进混合人机辅导（Gurung 等 2026）
-- [[alam-goblins-math-platform-2026]] — 全区 AI 数学铺开：对 IEP、英语学习者与西班牙裔学生更大的探索性关联（多模态/多语言支持；因果性未经检验）
-- [[gyekye-selves-apprenticeship-2026]] — 有色人种学徒把公平等同于文化扁平；能动性通过拒绝与协商建构；识别带宽与制度 AI 素养
-- [[rodrigues-aied-unplugged-numeracy-2026]] — 教师中介的递送触及 AI 永远接触不到的学生
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测在多语言写作者身上最容易误伤
-
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 能力中介了学生从 LLM 获取中获得的收益（Li 等 2026）
-
-- [[mcdonald-inclusive-assessment-genai-2026]] — 生成式 AI 时代的包容性评估设计：推进教学与实践
-

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -37,6 +38,3 @@ Poglavlja pokrivaju [[learning-design|oblikovanje nastave]] i praksu poučavanja
 ## Što treba znati prije upotrebe
 
 Knjiga je otvorenog pristupa pod licencijom CC BY, što je permisivni kraj raspona za nastavne materijale: nastavnici mogu kopirati, prilagođavati i rabiti [[prompt-engineering|poticaje]], uključujući komercijalno, ako ih ispravno pripišu. To olakšava lokalizaciju poticaja za određeni kolegij ili postavku [[pedagogical-agent|agenta]], što restriktivnije licencije na sličnim zbirkama ne dopuštaju. Objavljena je na EdTech Booksu 2026. s preuzimanjem u PDF-u i DOI-jem 10.59668/2340, a uredio ju je David Wiley. Budući da svako poglavlje izvještava i o dizajnu evaluacije, a ne samo o rezultatu, radi i kao uzor nastavnicima koji žele ispitati vlastite poticaje, umjesto da usvoje tuđu prosudbu.
-
-## Povezani pojmovi
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

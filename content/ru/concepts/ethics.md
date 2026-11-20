@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -112,53 +114,3 @@ ai_assist:
 - **«Рамки списывания достаточно, чтобы думать об этике GenAI».** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette и др., 2026]] утверждают, что учреждения должны решать вопросы генеративного ИИ через **этику партнёрства, а не через рамку списывания**. Рамка определяет, какие вопросы задаются, а рамка проступка не может спросить об образовательной цели.
 - **«Преподаватели и студенты согласны в том, что этично».** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç и Sever (2026)]], [[mixed-methods-research|смешаннометодное]] исследование **971 студента и 135 преподавателей**, обнаруживает, что этические измерения расходятся между группами. Политика, написанная с одной точки зрения, исказит другую.
 - **«Этический консенсус предшествует использованию».** **Внедрение опережает этическое согласие**: на протяжении четырёх семестров в программе педагогического образования США использование GenAI студентами **выросло с 57% до 83% для подготовки к оцениванию**. Нормы формируются практикой, а не наоборот.
-
-## Связанные концепции
-
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — Заявления об использовании ИИ и раскрытии
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — Химическое образование и ИИ: лаборатории, формирующее оценивание, ограничения LLM, философия эксперимента
-- [[biology-education]] — Биологическое образование и ИИ: лабораторные ассистенты, ИИ-грамотность в биологии, критическое мышление, специализированные инструменты
-- [[civic-and-political-education]]
-
-## Связанные статьи
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Шведское опросное и фокус-групповое исследование, утверждающее, что институциональными решениями о genAI должна управлять этика партнёрства, а не рамка списывания
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Этическая осведомлённость усилила тревожность об ИИ там, где не преподавалась рамка совладания: косвенно-только опосредование среди 584 студентов
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[ai-ethics-education-public-discourse]] — Longitudinal analysis of public discourse on AI ethics in education
-- [[ethical-ai-higher-ed-game-theory]] — Game theory framework for ethical AI use in higher education
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
-- [[xai-education-framework]] — Explainable AI in education (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
-- [[ethically-mediated-ai-tpack-china-2026]] — AI-ethical knowledge as an integrative mediator in university teachers' AI-TPACK (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Bridging ethical AI literacy gaps across students, educators, and policy
-- [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Этическая осведомлённость, рефлексия и заявленная ответственная практика росли в значительной мере независимо на трёх ежегодных волнах (Ayanwale и др.
-- [[qi-information-ethics-ai-judgment-2026]] — Information ethics education and artificial intelligence ethical judgment among university students

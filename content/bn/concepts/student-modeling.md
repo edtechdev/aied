@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -51,9 +53,7 @@ ai_assist:
 
 আবেগীয় শিক্ষার্থী-মডেলিং আরেকটি মাত্রা: একটি গণিত টিউটর কথোপকথনের পাঠ ও মুখের অভিব্যক্তি থেকে আবেগ অনুমান করে এবং সমষ্টিগত অবস্থাটিকে টিউটরিং কৌশলে মাপ করে, কিন্তু [[multimodal|বহুমাত্রিক সংযোজন]] অংশগ্রহণকারীদের নিজেদের টীকাভাষ্যের বিপরীতে মাত্র 60% নির্ভুলতায় পৌঁছায়, ফলে আবেগ-পাঠ পাইপলাইনের দুর্বলতম শিকড় হয়ে যায় ([[kar-mathbuddy-affective-math-tutoring-2025|কার প্রমুখ (2025)]])।
 
-
 উপলব্ধ কাঠিন্য আরেকটি শিক্ষার্থী-মডেলিং মাত্রা, এবং তা কেবল পাঠ-পরিসংখ্যান নয়, ব্যক্তি-সম্পর্কিত বৈশিষ্ট্য থেকেও পূর্বানুমান করা যায়। [[thome-perceived-text-complexity-student-profiles-2025|Thome প্রমুখ (2025)]] 193 জন জার্মান উচ্চবিদ্যালয় শিক্ষার্থীর 3,954টি বাক্যের রেটিং থেকে প্রোফাইল-ভিত্তিক পাঠক-মডেল গড়েন, এবং তাদের KNN-সহ-XGBoost সমাহার গড় ভিত্তিরেখা 1.070-এর বিপরীতে RMSE 0.822-এ পৌঁছায়, R2 = 0.396 নিয়ে। পাঠক-বৈশিষ্ট্য অন্তর্ভুক্ত প্রতিটি রিগ্রেসর গড় ও গড়-জটিলতা — দুই ভিত্তিরেখাকেই ছাড়িয়ে গেছে, তাই যে শিক্ষার্থী-মডেল ধরে রাখে পাঠক কে, সে পূর্বানুমান করে একটি পাঠ কত কঠিন *অনুভূত* হয় — এমন একটি উপলব্ধি-মাত্রা যা এই পাতার অন্য মডেলগুলো বহন করে না।
-
 
 [[cross-subject-validity-delayed-start|গাটারম্যান প্রমুখ (2026)]] দেখেন, গণিত অনুশীলনের সময় রেকর্ড করা একটি বিলম্বিত-শুরু সংকেত ইংরেজি ফলাফল পূর্বানুমান করেছিল, এবং দীর্ঘস্থায়ী বিলম্বকারীরা (13 মিনিটের বেশি) কম অর্জন দেখিয়েছিল (ELA β = -.11 SD), এমনকি [[prior-knowledge|পূর্বজ্ঞান]] ও কাজে-ব্যয়িত-সময় নিয়ন্ত্রণ করার পরেও — তাই আচরণগত শিক্ষার্থী-মডেল প্রতি-কোর্স পুনঃপ্রশিক্ষণ ছাড়াই বিষয়-অতিক্রমীভাবে স্থানান্তরিত হতে পারে, যদিও তাদের কাট-পয়েন্ট নতুন করে বের করতে হয়।
 
@@ -85,9 +85,7 @@ ai_assist:
 
 কিছু অভীষ্ট সংকেত সংলাপ থেকে আদৌ উদ্ধারযোগ্য নাও হতে পারে: লার্নিং কনটেক্সট কাঠামোর পাইলট ভ্রান্তধারণা 91.4% এবং [[anxiety-and-stress|উদ্বেগ]] 100% উদ্ধার করেছে, কিন্তু বিবেকশীলতা মাত্র 68.6% ও ভাষা-দক্ষতা 60%, তাই একটি প্রসঙ্গ-সচেতন মডেলের উচিত ধীরে-প্রকাশমান বৈশিষ্ট্য ধরা, সংলাপ তাদের প্রকাশ করার জন্য অপেক্ষা করা নয় ([[learning-context-framework-context-aware-ai-education-2026|লিউ প্রমুখ (2026)]]).
 
-
 শারীরবৃত্তীয় ও দৃষ্টি-সংকেত মডেলিংয়ের ভিত্তি প্রশস্ত করে: চোখ-ট্র্যাকিং, EEG, ত্বকীয় বিদ্যুৎ-সঞ্চালন ও হৃদস্পন্দন এখন সম্পৃক্ততা, মনোযোগ ও জ্ঞানীয় ভার অনুমানে ব্যবহৃত হয় ([[sensor-and-gaze-analytics]])। সংকেত থেকে মানসিক অবস্থায় অনুমানই দুর্বল শিকড়, কারণ একটি দেহ রেকর্ড করা যায় তার অবস্থা শনাক্ত না করেই।
-
 
 [[edumirror-educational-social-dynamics|লিন প্রমুখ (2026)]] এমন কৃত্রিম শিক্ষার্থী যেভাবে বৈধায়িত হয় তাতে একটি চক্রাকারতা উন্মোচন করেন: তাদের EduMirror এজেন্টরা পরে সাইকোমেট্রিক [[self-report-measures|প্রশ্নপত্র]] দেয় এবং এজেন্টের অভ্যন্তরীণ মূল্য-উপস্থাপনার সঙ্গে মিলকে মনস্তাত্ত্বিক বৈধতা হিসেবে পড়ে, কিন্তু Surveyor যে মাত্রাগুলো মাপে সেগুলো ইতিমধ্যেই সেই মূল্য-ব্যবস্থায় এনকোড করা, তাই যাচাইটি স্বাধীন বৈধায়ন নয়, একটি সামঞ্জস্য-যাচাই।
 
@@ -121,61 +119,3 @@ ai_assist:
 - **"বিশ্বস্ত মডেলের জন্য সবচেয়ে জটিল পদ্ধতি দরকার।"** [[zhang-ml-student-progress-programming-2026|ঝাং, জেফ্রিজ ও কোপরিনস্কা (2025)]] দেখান, **বিশ্বস্ত উপস্থাপনার জন্য সবচেয়ে জটিল** পন্থা দরকার হয় না। জটিলতা বিশ্বস্ততার প্রতিনিধি নয়, আর প্রাসঙ্গিক কাঠামো ধরা একটি সরল মডেলই ভালো উপকরণ হতে পারে।
 - **"শিক্ষার্থী-মডেলের ট্রেস-উপাত্ত দরকার।"** একটি পূর্বানুমানমূলক শিক্ষার্থী-মডেল ট্রেস-উপাত্তের বদলে **ভর্তির কাঠামোর** উপর দাঁড়াতে পারে: TRACE প্রতিটি সেমিস্টারকে **কোর্সের অবিন্যস্ত ঝুড়ি** হিসেবে এনকোড করে এবং তা থেকেই পূর্বানুমান করে। পূর্বানুমানমূলক সংকেত প্রতিষ্ঠানের প্রশাসনিক নথিতেই থাকতে পারে।
 - **"আবেগীয় অবস্থার জন্য শারীরবৃত্তীয় সংবেদন দরকার।"** একটি গণিত টিউটর **কথোপকথনের পাঠ ও মুখের অভিব্যক্তি থেকে আবেগ অনুমান** করে এবং সমষ্টিগত অবস্থাটিকে টিউটরিং সিদ্ধান্তে মাপে। আবেগ-সংকেত শিক্ষার্থীরা ইতিমধ্যেই যা উৎপাদন করছিল, তা থেকেই উদ্ধারযোগ্য ছিল।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — ঝুঁকি-পূর্বানুমান ও সহায়তা-লক্ষ্যায়নের নিচের মডেলগুলো
-
-- [[sensor-and-gaze-analytics]]
-
-
-## সংযুক্ত নিবন্ধ
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — প্রতারণামূলক অতিসাধারণীকরণ: অভিযোজিত আয়ত্ত শিক্ষার্থীরা কখন কাজ থেকে বিরত থাকবে তা জানার আগেই অনুশীলন থামিয়ে দিতে পারে (আন, ম্যাকলারেন ও স্ট্যাম্পার 2026)
-- [[causal-modeling-competency-assessment-2026]] — শিক্ষার্থী-দক্ষতা মূল্যায়নের জন্য সহায়তা-হস্তক্ষেপের কার্যকারণ মডেলিং
-- [[turano-ai-tutoring-not-a-monolith-2026]] — এআই টিউটরিং একক কিছু নয়: আমরা আসলে যা জানি (স্ট্যানফোর্ড SCALE/NSSA ব্রিফ)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — এলএলএম টিউটর বৈধ-বিকল্প অতিরিক্ত প্রত্যাখ্যান করে, ভুলকে অতিরিক্ত বৈধতা দেয় (ইয়াসির প্রমুখ 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — শিক্ষার্থী-ঝুঁকি পূর্বানুমান থেকে SC2R: প্রতিবাস্তব প্রতিকার
-- [[graph-its-adaptive-algorithms-2026]] — গতিশীল ক্ষেত্রের জন্য গ্রাফ-ভিত্তিক বুদ্ধিমান টিউটরিং (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — শিখন-বিশ্লেষণের জন্য আত্ম-ব্যাখ্যামূলক এলএম পাতন
-- [[studentsim-llm-student-simulators]] — StudentSim: এলএলএম-ভিত্তিক শিক্ষার্থী-সিমুলেটর প্রশিক্ষণ
-- [[predicting-attrition-competitive-programming]] — প্রতিযোগিতামূলক প্রোগ্রামিংয়ে শিক্ষার্থী-ক্ষয় পূর্বানুমান
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — অ্যাফিনিটি ম্যাপিংসহ ফলাফল-ভিত্তিক জ্ঞান-অনুসরণ
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — ID এমবেডিংয়ের বাইরে: সংজ্ঞানাত্মক নির্ণয়ের জন্য প্রক্রিয়া-ভিত্তিক ভাষা-মডেলিং
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — সংক্ষিপ্ত শিক্ষার্থী-অবস্থা ও একটি ক্রমাঙ্কিত অনুসরণকারী, একটি সুপারিশ-পরিবেশ হিসেবে
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: একটি এজেন্টিক টিউটর যা মানব-এআই সহশিখন লুপে তার শিক্ষার্থীকে শেখে
-- [[ai-game-based-learning-systematic-review-2026]] — লুকানো মূল্যায়ন 0.848-0.913 AUC-তে পৌঁছেছে, অথচ 55টি গবেষণায় পক্ষপাত-নিরীক্ষা প্রায় অনুপস্থিত ছিল
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — সংলাপ-ভিত্তিক শিখন-শৈলী অনুমান ভারসাম্যপূর্ণ মাপকে ব্যর্থ হয় (জামানিফার্দ, গুদারজি ও রব 2026)

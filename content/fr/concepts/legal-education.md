@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
+connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -96,32 +98,3 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 - **« Les facultés de droit ont arrêté une position. »** La plupart ont adopté des **positions généralement prohibitives**, souvent expliquées comme un **achat de temps pour étudier la technologie**, tandis que **presque toutes les politiques réservaient un pouvoir discrétionnaire aux enseignants individuels**. Une interdiction assortie d'un droit de dérogation enseignante n'est pas une position arrêtée, c'est un report avec un réglage par défaut.
 - **« Les données d'enquête décrivent le domaine. »** L'**enquête 2024 de l'ABA n'a recueilli des réponses que de 29 écoles, soit environ 15% des facultés agréées par l'ABA**, et une enquête LexisNexis auprès de **800** praticiens mesure une population différente. Ni l'une ni l'autre ne peut être traitée comme représentative de l'enseignement du droit, et les deux sont citées comme si elles l'étaient.
 - **« Retenir une recommandation d'IA est neutre. »** Dans une expérience en contexte juridique, **186 décideurs profanes statuant sur des affaires civiles de tribunal se sont alignés bien moins sur une position d'IA incorrecte lorsque le système retenait sa propre position (5.7-8.2% contre 42.0-60.5%)**. La rétention n'a pas produit de neutralité ; elle a produit une forte réduction de la déférence, ce qui est un effet en soi.
-
-## Concepts liés
-
-- [[academic-integrity]] — le cadre déontologique appliqué au travail assisté
-- [[assessment-validity]] — si la performance assistée mesure la compétence visée
-- [[authentic-assessment]] — des dispositifs qui exigent une analyse sans aide
-- [[ai-use-disclosure]] — les normes d'attribution et de déclaration, encore sans consensus
-- [[governance]] — la gouvernance par le corps professoral et la création de politiques telles que les écoles de droit les pratiquent
-- [[educational-policy-ai]] — la politique institutionnelle en matière d'IA comme objet d'étude
-- [[critical-thinking]] — le raisonnement que la méthode des cas vise à construire
-
-- [[case-based-learning]] — la méthode des cas et la discussion de cas comme pédagogie
-
-- [[socratic-method]] — un dialogue qui dépend de la préparation de l'étudiant
-- [[experiential-learning]] — les cliniques et la formation par la pratique
-- [[professional-training]] — la famille élargie des professions réglementées
-- [[career-development-and-readiness]] — l'état de préparation à l'exercice comme finalité déclarée
-- [[ai-literacy]] — la compétence technologique comme devoir professionnel
-- [[hallucination-risk]] — les citations fabriquées comme échec caractéristique du domaine
-- [[legal-issues-and-risks]] — ce à quoi les institutions font face lorsque la gouvernance échoue
-
-## Articles liés
-
-- [[lorteau-sarro-ai-legal-education-2025]] — L'intelligence artificielle dans l'enseignement du droit : une revue de portée de 82 travaux (Lorteau et Sarro 2025)
-
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparaison à cinq facteurs des politiques d'IA générative des écoles de droit et cadre de gouvernance
-- [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing en aveugle sur les examens italiens du barreau, de magistrature et de notaire, comparés à une correction par des experts
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retenir la position du système supprime la dépendance excessive dans les décisions en contexte juridique sans construire de jugement (décideurs profanes, non étudiants en droit)
-- [[xie-genai-mystery-game-legal-education-2026]] — Jeu de rôle policier rédigé par IA générative contre cours magistral : un essai randomisé (Xie et coll. 2026)

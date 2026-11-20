@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
+connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -102,44 +104,3 @@ AIは、技術の公平性への含意に新しい層を加えます。アルゴ
 - **「ブラウザで動けば利用できる。」** ほとんどのLLM講義ツールは**単一言語の英語音声と安定したインターネット接続**を前提としており、これは英語と家庭言語が入り混じる教室をまさに排除します。インドのUDISE+のデータは、学校のインターネット接続率がこの前提の要求する水準をはるかに下回っていることを示しています。想定されたインフラの上に構築されたツールは、最も必要としている環境を知らぬ間に排除してしまいます。
 - **「デジタルリテラシーとAI利用は同じ媒介変数である。」** オランダの**6年生4,497人**を対象とした研究は、背景や性格を学習の伸びに結びつける**2つの異なる媒介経路**、すなわちAI利用とデジタルリテラシーを区別しました。両者は入れ替え可能なものではなく、一方を高める介入が自動的に他方を高めるわけではありません。
 - **「[[simulation|シミュレーション]]はコストの障壁を取り除く。」** STEM高等教育における**11件のデジタルツイン研究**のシステマティックレビューは、1セットあたり**\$2,000-\$15,000**のハードウェア費用があることを明らかにしました。シミュレーション実験室は、回避するはずだった機器の請求を再現しかねません。したがって、仮想提供のコストに関する主張は、前提とするのではなく検証する必要があります。
-
-## 関連する概念
-
-- [[differential-effects-across-learner-groups]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[parents-and-families]]
-
-## 関連する記事
-
-- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
-
-- [[watanabe-genai-education-gap-europe-2026]] — 生成的AI利用における教育の隔たりは、インターネットのものより小さいのか（Watanabe 2026）
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — ナイジェリアの高等教育におけるAI統合と、デジタル的不平等と制度的構造
-- [[ai-divide-ses-personality-primary-education-2026]] — 初等教育における社会経済的地位、パーソナリティ、AIの隔たり(Wang他 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged:仲介者としての教師によるチューター支援が端末を持たない学生に届く(Rodrigues他 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — 学校のAI教育は心理的な準備の格差は狭めるが認知的には狭めない
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege:LLMへのアクセスのアクセシビリティの格差の測定と緩和
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 足場かけされたAIリテラシー(SAIL)枠組み
-- [[oecd-digital-education-outlook-2026]] — OECDデジタル教育展望2026
-- [[aaai2026-prompting-literacy-k12]] — K-12の学生にAIチャットボットの責任ある利用を教える
-- [[structural-silence-underrepresented-language-ai-2026]] — 構造的な沈黙と少数言語
-- [[sec-ai-literacy-narrative-review-2026]] — AIリテラシーにおける社会情動的な能力
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — 多言語で資源の乏しい文脈のためのAIに基づく適応的学習プラットフォーム
-- [[ai-science-chemistry-education-systematic-review-2025]] — 科学/化学教育におけるAIの体系的なレビュー
-- [[unesco-ai-guidelines-chemical-education-2026]] — 化学教育に翻訳されたユネスコAIガイドライン。認識論的漂流
-- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディングと教育への含意(Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 社会主義的人文主義的なAIリテラシーと公正利用
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC:農村のロボット工学へのアクセスは端末へのアクセスではなくメンターシップの地理に従う(Jacobson他 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 南アフリカのHDIにおける、配分的な問題としてのデジタル的不平等と認識論的なものとしてのアルゴリズム的植民地性
-
-- [[llmersion-local-first-language-learning-2026]] — LLMersion:教育的な公平性に向けた低費用の家庭のことば学習のためのローカル優先のAIエージェント枠組み
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — デジタルツインの実験室は同時利用を縛る設備費を負う

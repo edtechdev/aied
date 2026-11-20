@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -109,42 +111,3 @@ SEL пов’язується з [[ai-literacy]] (як доповнення, щ�
 **«Низька наполегливість — це проблема мотивації, яку виправлять підбадьорюванням».** Наполегливість — повторюваний обмежувач в освітніх технологіях, патерн, який називає [[framing-5-percent-problem-teachers-persistence|проблема 5%]], — і його формують мотивація та прийняття, когнітивні перепони *і* стійкість під викликом. Підбадьорювання адресує одне з трьох. Здобувач, який зупиняється, бо задача перевищила його робочу пам’ять, не має нестачі в заспокоєнні.
 
 **«Знання про доступність ШІ не змінює того, як студенти вкладають зусилля».** Може, і ефект іде в неправильний бік для найслабших здобувачів: [[ai-availability-student-motivation|доступність ШІ]] може знижувати сприйняту цінність зусильної залученості, особливо для початківців. Сама доступність є мотиваційним втручанням із негативним знаком, і саме тому проєктування, дотичне до SEL, не може трактувати присутність корисної системи як нейтральну.
-
-## Пов’язані поняття
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Пов’язані статті
-
-- [[liu-genai-sel-mapping-review-2026]] — A 43-study mapping review of GenAI and SEL: uneven competency coverage and thin ethics reporting
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
-- [[shastry-gray-empathy-offloading-2026]] — Люди розвантажують емпатію, коли думають, що ШІ може дати її натомість (Shastry & Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI displaces human advice-seeking and lowers satisfaction with real-world interaction (Ibrahim et al. 2026)

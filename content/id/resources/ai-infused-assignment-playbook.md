@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -82,16 +83,3 @@ dilaporkan dengan ukuran efek, sehingga sebaiknya diperlakukan sebagai desain un
 dievaluasi secara lokal. Diterbitkan 2026-10-07, v1, di Zenodo dengan CC BY 4.0; gratis diunduh tanpa
 akun. Pada saat diingesti rekamannya menunjukkan hanya sekitar 35 tampilan dan 14 unduhan, sehingga
 belum banyak dipakai atau ditinjau secara eksternal.
-
-## Konsep terkait
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

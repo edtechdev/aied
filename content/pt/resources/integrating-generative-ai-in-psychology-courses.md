@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [social-sciences-education, ai-literacy, academic-integrity]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -93,9 +94,3 @@ Professores de psicologia em qualquer estágio da carreira, e professores em [[s
 ## Observações e ressalvas
 
 PDF gratuito, sem conta. Os direitos autorais são da STP, não uma licença Creative Commons: cópias pessoais e de sala de aula são permitidas com atribuição, enquanto redistribuição ou uso comercial precisam da permissão do autor. Os capítulos são relatos de praticantes, não estudos — sem designs, amostras ou tamanhos de efeito — então trate as alegações como relatos de experiência e cite os capítulos individualmente.
-
-## Conceitos conectados
-
-- [[social-sciences-education]] — a página do cluster cuja seção de psicologia este volume preenche com prática em nível de curso
-- [[ai-literacy]] — o enquadramento desenvolvimental que os editores dão à coletânea
-- [[academic-integrity]] — o tema do capítulo de política, e por que vários capítulos de curso embutem etapas de verificação

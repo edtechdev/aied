@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -116,62 +118,3 @@ Bir model, bir öğretmenin hâlihazırda taşıdığı kişisel PCK’yı ne ol
 - **“Öğretmen adaylarında YZ kabulü tek bir tutumdur.”** **128 öğretmen adayı** dört ChatGPT kabul grubuna ayrıldı; bunlar arasında **Direnen Şüpheciler (%14,06) yüksek algılanan kullanım kolaylığı ama çok düşük davranışsal** niyet bildirdi. Bu grupta kullanım kolaylığı ile niyet birbirinden ayrıldı, bu nedenle [[usability-research|kullanılabilirlik]] odaklı bir müdahale onları değiştirmeden bırakırdı.
 - **“YZ, öğretmen adaylarına esas olarak içerik bilgisinde yardım eder.”** **55 çalışmanın bir kapsam incelemesi**, YZ’nin **öğretim tasarımını, alan öğretimini ve pratik öğretmeyi** güçlendirdiğini bulur; yani içerik uzmanlığını değil, tasarım ve uygulama kapasitelerini.
 - **“55 çalışmanın bir kapsam incelemesi yararı kanıtlar.”** İnceleme, alan genelinde bildirilenleri belgeler. Bildirilen güçlendirmenin genişliği literatürün uzlaşısına dair bir iddiadır ve bir kapsam incelemesindeki 55 çalışma havuzlanmış bir etki değildir.
-
-## Bağlı kavramlar
-
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[k-12]]
-- [[ethics]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[chemistry-education]] — Kimya eğitimi ve YZ: laboratuvarlar, biçimlendirici değerlendirme, LLM sınırları, deneyin felsefesi
-
-## Bağlı makaleler
-
-- [[bicer-genai-pd-math-creativity-2026]] — Üretici YZ yönlendirmeli mesleki gelişim, öğretmenlerin matematiksel yaratıcılık, içerik bilgisi ve pedagojik içerik bilgisiyle etkileşimini nasıl destekler
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Öğretmen adayı İngilizce öğretmenlerinin sınıf YZ politikaları yazması: izin verilen, sınırlanan ve yasaklanan kullanımlar (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 öğretmen adayı: yüzeysel üretici YZ benimsemesi, dürüstlük kaygısı ve aktarılmayan değerlendirme okuryazarlığı
-- [[pishtari-teacher-ai-training-learning-design-2026]] — Öğretmenlerin öğrenme tasarımında YZ sohbet robotu desteği ve eğitimi
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Öğretmen mesleki öğrenmesi için öncelikli kaldıraç olarak pedagojik YZ bilgisi (Shen ve ark. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Öğretmen adaylarının sorumlu üretici YZ kullanımı: müfredat çıkarımları (Kohnke ve ark. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Öğretmen adayı gelişiminde YZ'nin kapsam incelemesi
-- [[designing-ai-professional-development-itpack-2026]] — Akıllı-TPACK temelli mesleki gelişim çerçevesi
-- [[human-centered-ai-teacher-educators-2026]] — Öğretim eğitimcilerinde eleştirel YZ okuryazarlığı için mesleki öğrenme
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Öğretmen eğitiminde üretici YZ'ye özgü TPK
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Üretici YZ ders planlamasında öğretmenlerin YZ bilgisi
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Ders tasarımında öğretim deneyimi ve YZ yeterliliğine göre öğretmen-YZ etkileşim kalıpları (Choi ve ark. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Öğretmen adayı akıllı-TPACK hazırbulunuşu
-- [[ai-tpack-mathematics-teacher-education-2026]] — Matematik öğretmen eğitiminde AI-TPACK
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Etik alanı ve çalışan öğretmenlerin güveni
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — İlk öğretmen eğitiminde micro:bit robotiği
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Öğretmen adayı eğitiminde YZ aracılı özgün değerlendirme
-- [[science-educators-ai-literacy-postqualification-2026]] — Fen eğitimcilerinin YZ okuryazarlığı ve nitelik sonrası programları
-- [[context-based-ai-secondary-chemistry-2026]] — Ortaöğretim kimyasında bağlam temelli 7E + YZ öğretimi
-- [[educasim-cs1-instructional-practice]] — EducaSim: CS1 öğretim uygulaması için etkileşimli taklitçiler
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Öğretmen adayı ChatGPT kabul profilleri
-- [[motivation-shape-future-education-ai-switzerland-china]] — YZ ile eğitimin geleceğini şekillendirme motivasyonu
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Fen öğretmen eğitiminde YZ destekli yönlendirilmiş sorgulama
-- [[reflective-triangle-model-teacher-ai-2026]] — Yansıtıcı Üçgen Model: bilişsel aracı olarak YZ
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB modeli: üretici YZ yapılandırmacı öğretim tasarımı
-- [[riandi-teacher-ai-green-energy-education-2026]] — Yeşil enerji eğitiminde YZ bütünleşmesinde öğretmen katılımı (Riandi ve ark. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Öğretmen eğitiminde boyuna üretici YZ kullanımı, etik ve politika (Parker ve ark. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Matematikte M.Ed. öğretim tasarımı yeterliliğini iyileştiren akıllı sınıf modeli ve D-T-E döngüsü (Zhu ve ark. 2026)
-- [[li-language-educators-genai-review-2026]] — Üretici YZ ile dil eğitimcilerinin uygulamaları ve gelişimi
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — YZ üretimi içeriğin işbirlikçi değerlendirmesi mesleki gelişim olarak (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186 fen öğretmen adayının YZ ile ilişkili TPACK ve eğitim düzeylerinin yerinde-karşı-uzaktan karşılaştırması
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — bir dönem boyunca süren okuryazarlık etnografisinde YZ sınırları kuran öğretmen adayları
-
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — İskeleye bağlanmamış üretici YZ, öğretmen adaylarının ders planı kalitesini hiç üretici YZ içermeyen sınıfın altına düşürdü
-
-- [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
-- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Öğrenenler öğretmen adayları: enerji konusunda anlaşamayan gruplar YZ'yi kavramsal konuşmanın merkezi yaptı, anlaşan gruplar başvuru kaynağı olarak kullanıp proaktif dürtmelerden rahatsız oldu (Wang ve ark. 2026)
-- [[webb-pck-genai-2026]] — Modelin acemi öğretmenin zayıf PCK'sını neden büyüttüğü ve çarenin neden bireysel YZ okuryazarlığı modülü değil ortaklaşa olduğu (Webb ve ark. 2026)
-- [[shukla-ai-teacher-education-frameworks-review-2026]] — AI in teacher education: pedagogical frameworks, empirical evidence and ethics, 2020-2026 (Shukla 2026)

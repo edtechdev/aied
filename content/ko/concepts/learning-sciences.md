@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -57,7 +59,6 @@ ai_assist:
 - **개인 내 의존이 지각된 [[agency]]의 하락에 선행합니다.** AI 지원 [[collaborative-learning|협력]] [[writing-education|작문]] 강좌에서 85개 고정 집단에 속한 학부생 342명의 세 차례 자료에 걸쳐, 평소보다 높은 GenAI 의존은 이후의 낮은 지각된 인간 행위성을 예측했습니다. 반대 경로는 더 약했고 통계적으로 지지되지 않았습니다([[genai-reliance-human-agency-collaborative-learning-2026|Wu and Lu (2026)]]).
 - **GenAI 사용의 분포는 제도적 선택입니다.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]]은 102편의 고등교육 연구를 학생과 시스템 사이의 인식적 작업 분배 방식으로 분류하고, 조력자와 가능하게 하는 자의 얽힘이 각각 42.16%로 지배적임을 발견했으며, 이 치우침을 기술적 역량이 아니라 제도적 정당성으로 읽습니다.
 - **과정 증거는 채널에 따라 다릅니다.** 79명의 학부생과 함께 하나의 GenAI 지원 교수설계 과제를 상호작용 로그와 동시적 사고 발화로 모두 코딩한 결과, [[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]는 더 깊은 점검 증거가 사고 발화 기록에서 더 흔하고 더 깊은 [[regulation]] 증거는 로그에서 더 흔하다는 것을 발견했습니다. 따라서 어느 한 흔적만으로 [[metacognition|메타인지]] 주장의 준거가 될 수 없습니다.
-
 
 - **방법이 발견만큼 중요합니다: 집단 [[student-ai-interaction|AI 상호작용]]의 순차 분석.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang 등(2026)]]은 39개의 챗봇 프롬프트를 둘러싼 595개와 785개의 발화를 코딩하고, 조정 잔차와 Yule's Q로 지연-1 전이를 검정한 뒤, 각 에피소드를 사례로 하는 과정 마이닝을 실행했습니다. 그 결합은 AI를 한 집단 구성의 상호작용 네트워크 중심에, 다른 구성에서는 단일 경로 위에 놓았는데, 이는 프롬프트 집계로는 보여 줄 수 없는 차이입니다. 이것은 AI가 얼마나 자주 등장하는지가 아니라 집단의 상호작용 네트워크 어디에 앉는지를 묻는 템플릿입니다.
 
@@ -96,45 +97,3 @@ ai_assist:
 - **"예제가 많을수록 더 안전하다."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]]는 예제-문제 비율을 **내용-처치 상호작용**으로 다루며, 2×2 실험에서 최적점은 **내용에 따라 달라졌습니다**. 보편적으로 옳은 비율은 없으므로 고정된 교수 템플릿은 상호작용에 맞서는 내기입니다.
 - **"[[misconceptions|오개념]]을 고치는 것은 옳은 답을 알려 주는 문제다."** 빠진 제약을 명명하는 [[feedback]]을 동반한 짧은 보류 연습은 오적용을 **0.0%에서 23.1%로(Cohen's h 1.70~2.44)** 줄였고, **[[k-12|K-12]] *Decimal Point* 데이터셋 13개**의 2차 분석에서도 같은 구조적 양상이 나타났습니다. 효과가 측정된 개입은 단언에 의한 교정이 아니라 표적 피드백을 동반한 구별 연습이었으며, 이는 [[refutation-text|반박 텍스트]] 연구가 일반적으로 확립하는 바와 같습니다.
 - **"Bloom 수준이 높다는 것이 더 [[active-learning|능동적인 학습]]을 뜻한다."** 학습 유형은 의도된 성과 수준을 따랐는데, **Bloom 수준 1에서 활동의 약 50%였던 습득이 수준 6에서는 약 20%로 떨어졌습니다**. 인지적 요구와 활동 유형은 함께 움직이지만 같은 축이 아니므로, 과제에 Bloom 수준 라벨을 붙인다고 학습자가 그것으로 무엇을 할지 알 수는 없습니다.
-
-## 연결된 개념
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## 연결된 문서
-- [[competent-generative-ai-use-measures-review-2026]] — 유능한 생성형 AI 사용을 측정하는 도구에 관한 고찰과 탐색적 메타분석 (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 불완전한 규칙을 가리는 정답성: 적응 학습에서의 숙달 중단 규칙 (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — LLM 학생 평가에서 인구학적 신호의 반사실적 감사 (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — 554개 강의의 29,064개 활동에 대한 마르코프 연쇄와 패턴 마이닝 (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — AI 연관 인지 외주화를 위한 개인정보 보존적 비진단 자기 점검 (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — 제로샷 거버넌스: Redbox 코드베이스를 통해 읽는 정책에서의 범용 AI (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — 최선의 예시-문제 비율이 왜 내용에 따라 달라지는가 (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 교사들이 설계하는 전문가 범위가 제한된 챗봇, 교수에 대한 선택적 위임 포함 (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 교수의 생성형 AI TPACK: 강한 내용 지식, 약한 기술 통합 지식 (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: 대규모 인간-AI 실시간 튜터링의 무작위 시험 (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — GenAI가 어떤 학습 과정을 강화하고 어떤 과정을 위협하는지에 관한 30인 사전등록 델파이
-- [[three-pathways-student-ai-interaction-2026]] — 학생-AI 상호작용 유형론: 수동적·거래적 64%, 전략적 대화 36%
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 에이전트 유형이 아니라 피드백 양식이 자기조절적 참여를 움직였다
-- [[metacognitive-processes-genai-interaction-logs-2026]] — 과정 증거는 채널에 따라 다르다
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — GenAI 사용의 분포는 제도적 선택이다
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — 개인 내 의존이 지각된 행위성의 하락에 선행한다
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 지연 순차 분석과 과정 마이닝은 선개념 구성에 따라 AI를 집단 상호작용의 허브 또는 선형 경로에 놓았다(Wang et al. 2026)

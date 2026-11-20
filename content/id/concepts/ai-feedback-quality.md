@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -41,11 +43,8 @@ Kualitas umpan balik AI bukan semata soal kebenaran. Umpan balik yang efektif ha
 - **Keterbandingan dengan umpan balik manusia:** [[ai-generated-feedback-higher-ed|Studi di pendidikan tinggi]] menemukan bahwa umpan balik hasil AI dialami sebagai dapat diterima dan mendukung — sebanding dengan umpan balik [[teacher-role|guru]]. Namun penerimaan tidak menjamin efektivitas pembelajaran. Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] terpandu PRISMA atas 42 studi empiris (2023–2025) juga menemukan kualitas penilaian dan umpan balik [[llm]] bergantung pada tugas — setara dengan penilai manusia pada jawaban singkat yang terstruktur baik dengan rubrik terperinci, tetapi menurun pada pekerjaan yang kompleks, terbuka, atau [[multilingual-learning|multibahasa]], dengan umpan balik yang kadang terlalu generik atau tidak selaras dengan nilai — dan mengidentifikasi kualitas prompt, kerincian rubrik, versi model, serta bahasa penilaian sebagai determinan dominan kualitas penilaian dan umpan balik ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **Materi pelajaran hasil LLM setara dengan materi buatan manusia — ketika umpan balik tersedia.** [[lin-rag-lesson-generation-tutor-training-2026|Lin dkk. (2026)]] menghasilkan pelajaran pelatihan tutor berbasis skenario dengan pipeline [[rag|retrieval-augmented]] atas sumber penelitian terkurasi dan membandingkannya dalam eksperimen acak delapan kondisi (N = 208) terhadap pelajaran yang ditulis manusia secara cermat. Pelajaran buatan manusia menghasilkan kinerja pascates lebih tinggi (0.793 vs 0.730), tetapi hanya pada kondisi tanpa umpan balik; dengan umpan balik penjelasan langsung, perbedaan sumber itu hilang, dan umpan balik tidak memiliki efek utama secara keseluruhan. Untuk pembuatan konten, temuan ini menunjukkan bahwa kesenjangan manusia-vs-LLM adalah kesenjangan perancahan: materi yang dihasilkan kompetitif ketika lingkungan belajar menyediakan umpan balik penjelasan yang tidak disediakan oleh pelajaran itu sendiri.
 
-
-
 Kualitas yang dipersepsikan siswa lebih beragam daripada yang disiratkan penerimaan: 77 dari 93 mahasiswa sarjana menilai umpan balik AI mudah dipahami, namun 68 menilainya berulang dan 79 menilainya bertentangan sendiri; hanya 31 yang setuju bahwa AI menilai tulisan kompleks atau kreatif, dan 81.7% lebih memilih penilaian manusia untuk makalah akhir yang bernilai 40% dari nilai ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli dkk. (2026)]]).
 - **Jangkar gabungan untuk mekanisme umpan balik.** Sebuah meta-analisis 53 studi menemukan umpan balik GenAI menghasilkan efek terbesar dalam studi tersebut (g = 1.27), dibanding g = 0.40 untuk capaian, yang dikreditkan pada pemahaman, ketepatan waktu, dan objektivitas — meskipun siswa dapat tidak mempercayai umpan balik AI dan kurangnya respons emosionalnya dapat menaikkan beban kognitif ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
-
 
 Sebuah perbandingan terkontrol mengisolasi komponen umpan balik dari sistem adaptif: dengan sistem [[intelligent-tutoring|tutor]] diagnostik yang sama, siswa yang menerima umpan balik otomatis waktu-nyata naik dari 1.90 ke 3.54 pada penilaian matematika berskala empat, dibanding 1.90 ke 2.85 tanpanya (F(1, 76) = 9.24, p = .003, d = 0.73) ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin dkk. (2026)]]).
 
@@ -92,7 +91,6 @@ Sebuah perbandingan terkontrol mengisolasi komponen umpan balik dari sistem adap
 
 - **Desain prompt dan pilihan model sebagai prediktor kualitas yang terukur:** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen dkk. (2026)]] menguraikan sumber kualitas umpan balik AI dengan regresi hierarkis atas umpan balik yang dihasilkan untuk tujuan perencanaan pelajaran 153 guru pra-jabatan. Di antara 240 umpan balik dari tiga model di bawah empat prompt yang divariasikan secara sistematis, model semata menjelaskan 26.9% varians dalam penilaian kualitas sembilan kategori dan penambahan prompt menaikkan model ke 42.8% (ΔR² = 15.9%); dalam replikasi dengan kombinasi model-prompt terkuat (345 umpan balik), model menjelaskan 18.4% dan prompt menambah 5.7%. Efek prompt tunggal terbesar bersifat negatif: mengganti terminologi teknis spesifik domain dengan parafrasa sehari-hari menurunkan kualitas umpan balik secara signifikan (β = −0.412), sementara menambahkan contoh konkret dan menghapus instruksi chain-of-thought tidak signifikan pada studi pertama. Kualitas karenanya bukan sifat tetap "AI" — ia diproduksi bersama oleh model mana yang dipilih dan bagaimana tugas dirumuskan, dan keduanya dapat diajarkan.
 
-
 Gaya adalah dimensi kualitas dengan biaya: dengan model yang sama, umpan balik direktif mendapat skor lebih tinggi pada memprioritaskan fitur esensial dan pada kekhususan, sementara umpan balik [[socratic-method|Sokratik]] menaikkan pemantauan pemahaman — dan umpan balik direktif membawa beban kognitif lebih tinggi ([[agent-type-feedback-style-self-directed-learning-2026|Han dkk. (2026)]]).
 
 Bagaimana umpan balik *diproduksi* juga termasuk dalam daftar itu. Dalam sistem evaluasi tulisan otomatis modular untuk esai argumentatif, [[llm-training-and-fine-tuning|penyetelan halus]] terbimbing atas 90 esai beranotasi guru menghasilkan umpan balik yang tidak dapat digunakan — GPT-4o yang disetel halus melampaui jendela konteks 8.000 tokennya pada setiap inferensi dan LLaMA-3.3-70B yang disetel halus mengeluarkan JSON yang tidak dapat diurai — sedangkan prompting langsung pada Claude 3.7 menghasilkan 630 komentar mikro di 40 esai yang dinilai guru 94.69% perlu dan efektif, sehingga penulis menyimpulkan bahwa untuk tugas generasi non-deterministik, prompting dapat mengalahkan penyetelan halus ([[wraft-automated-writing-evaluation-argumentative-2026|Labib dkk., 2026]]).
@@ -129,72 +127,9 @@ Korpus di balik klaim kualitas itu lebih tipis daripada yang disiratkan klaim te
 
 Jawaban yang benar pada giliran pertama bisa menjadi salah pada giliran ketiga: di antara 11 model, 12.7 persen beralih ke jawaban yang keliru di bawah tekanan otoritas, sehingga kualitas umpan balik harus dinilai sepanjang interaksi alih-alih pada respons pertama ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 
-
 ## Miskonsepsi Umum
 
 - **"Siswa menilai umpan balik AI dapat diterima, jadi ia baik."** **Kualitas yang dipersepsikan siswa lebih beragam daripada yang disiratkan penerimaan**: **77 dari 93 mahasiswa sarjana menilai umpan balik AI mudah dipahami, namun 68 menilainya berulang dan 79** menemukan hal lain yang kurang. Pemahaman dan ketidakpuasan hidup berdampingan dalam kohort yang sama.
 - **"Efek umpan balik sederhana."** Sebuah **meta-analisis 53 studi** menemukan umpan balik GenAI menghasilkan **efek terbesar dalam studi (g = 1.27)**, dibanding **g = 0.40** untuk efek GenAI keseluruhan. Umpan balik adalah mekanisme terkuat yang diukur, yang merupakan gambaran berbeda dari debat optimisme umum.
 - **"Umpan balik adalah seluruh intervensi."** Sebuah perbandingan terkontrol mengisolasi komponennya: dengan sistem [[intelligent-tutoring|tutor]] diagnostik yang sama, siswa yang menerima **komponen umpan balik** berbeda secara terukur. Memisahkan umpan balik dari sistem adaptif adalah yang membuat klaim dapat diatribusikan.
 - **Akses dan keterlibatan adalah intervensi yang berbeda.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger dan Liening (2026)]] memisahkan keduanya pada **234 siswa dan 1.147 observasi mingguan** dalam simulasi bisnis lima minggu. Penugasan ke umpan balik [[conversational-ai|AI percakapan]] tidak menghasilkan **efek apa pun** pada beban kognitif germane (β = .019, p = .807) atau beban ekstraneus (β = .071, p = .481). **Penggunaan rutin yang sebenarnya** dikaitkan dengan beban germane yang jauh lebih tinggi daripada non-pengguna eksperimental (β = −.468, p < .001) dan daripada kontrol (β = −.253, p = .028), sementara **penggunaan tidak teratur tidak terpisah dari penggunaan rutin** (p = .116). Penilaian kualitas yang bersandar pada kontras intention-to-treat karenanya akan meremehkan intervensi umpan balik yang pengambilannya parsial, dan metrik kepuasan atau akses tidak dapat menggantikan data keterlibatan.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Kualitas tidak memprediksi revisi: urutan yang membuat umpan balik AI dapat digunakan
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## Artikel terkait
-
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Petunjuk LLM yang lebih panjang memprediksi hasil langsung yang lebih buruk; format menukar lebih sedikit percobaan dengan pengiriman ulang yang lebih lambat
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Profesor tentang kualitas umpan balik AI: memuji secara bawaan, panjang, kabur, dan lambat dipertajam
-- [[genai-l2-written-feedback-scoping-review-2026]] — Hanya 27 dari 51 studi melaporkan prompt mereka; 16 eksperimen tanpa kelompok kontrol
-- [[ai-feedback-violin-intonation-2026]] — Umpan balik AI tentang intonasi diperiksa terhadap 2.208 deviasi nada terukur mesin (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: Sistem Evaluasi Tulisan Otomatis Termodularisasi untuk Esai Argumentatif
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Menilai komentar dalam video ChatGPT: kualitas linguistik, semantik, dan perseptual (Wang, Du & Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — Umpan balik tulisan AI mengungguli penyunting manusia pada surat latihan (Lira dkk. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: generasi umpan balik LLM dengan pendidik dalam lingkar (Zhao dkk. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — Reliabilitas dan batas umpan balik observasi kelas LLM (Melo dkk. 2026)
-- [[learner-centered-feedback-ai]] — Praktik dan persepsi guru tentang umpan balik AI yang berpusat pada siswa (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — Umpan Balik yang Dihasilkan AI di Pendidikan Tinggi
-- [[teaching-feedback-classification-benchmark]] — Tolok Ukur Klasifikasi Umpan Balik Pengajaran
-- [[becerra-aicofe-feedback-2026]] — AICoFE: Umpan Balik Kolaboratif Berbasis AI
-- [[cong-confidence-asag-2026]] — Penilaian Jawaban Singkat Berbasis Keyakinan
-- [[choi-anchor-aes-prompting-2025]] — Prompting AES Berbasis Jangkar
-- [[ai-assistance-discretionary-feedback]] — Bantuan AI untuk Umpan Balik Diskresioner
-- [[sequenced-ai-feedback-learning]] — Umpan Balik AI Berurutan dan Pembelajaran
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sikofansi adalah risiko keselamatan pendidikan: mengapa tutor LLM memerlukan tolok ukur sikofansi
-- [[contextual-sycophancy-ai-literacy]] — Biaya Tersembunyi Sikofansi Kontekstual: intervensi literasi AI
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogi Bertanda: bias dalam umpan balik tulisan otomatis
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Rekayasa prompt dan pemilihan model sebagai prediktor kualitas umpan balik AI (Jacobsen dkk. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Label sumber acak pada umpan balik GPT-4 yang identik: guru mendiskon umpan balik yang diatribusikan ke AI (Mertens dkk. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — Analisis komparatif umpan balik kelompok sebaya dan hasil AI dalam penilaian sebaya: wawasan tentang kualitas umpan balik dan persepsi siswa di pendidikan tinggi
-- [[ai-assisted-physics-lab-report-assessment-2026]] — Penilaian Berbantuan AI atas Laporan Laboratorium Fisika Eksperimental: Potensi, Keterbatasan, dan Dukungan bagi Praktik Pengajaran
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Mengevaluasi Fokus Umpan Balik dan Adaptivitas Pedagogis dalam Umpan Balik Hasil LLM pada Tulisan Siswa
-- [[risk-adaptive-genai-feedback-programming-2026]] — Kerangka Adaptif Risiko dan Terbatas Bukti untuk Umpan Balik AI Generatif dalam Pendidikan Pemrograman
-- [[real-time-ai-feedback-technical-skills-2026]] — Penjelasan "Clarify" dalam bahasa sendiri dan dorongan terperancah dalam tutor waktu-nyata: apa yang membuat umpan balik sinkron dapat digunakan (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Umpan balik guru vs sebaya berbantuan AI: koreksi kesalahan otoritatif meluruh, fokus stabil bertahan, dan apa yang dilakukan siswa dengan masing-masing (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — Label sumber yang dibuka setelah penilaian buta pada umpan balik identik: siswa menilai umpan balik berlabel AI lebih rendah dan membaca umpan balik manusia bernilai rendah sebagai AI
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Tinjauan naratif tutor AI dalam matematika: keuntungan umpan balik waktu-nyata dan kondisi implementasinya
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Gaya umpan balik Sokratik versus direktif: pemantauan pemahaman berhadapan dengan prioritisasi, dan biaya beban kognitif
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Kualitas umpan balik AI yang dipersepsikan siswa: dapat dipahami namun berulang, dipercaya untuk mekanika bukan interpretasi
-- [[lin-rag-lesson-generation-tutor-training-2026]] — Pelajaran pelatihan tutor hasil RAG menyamai buatan manusia ketika umpan balik tersedia; keunggulan manusia hanya muncul tanpa umpan balik
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Tiga dimensi evaluasi di 68 studi, dengan keselarasan rubrik sebagai yang tipis (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Divergensi tingkat kriteria dan tingkat penilai dalam 157 pesan umpan balik yang dinilai (Vanhoyweghen dkk. 2026)
-- [[liu-educational-sycophancy-2026]] — Kebenaran bergantung pada interaksi: laju pembalikan 12.7 persen di bawah tekanan (Liu & Korolova 2026)

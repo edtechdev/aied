@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
+connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -99,49 +101,3 @@ Matokeo yana maana tu yanapofika kwenye ufundishaji, na safari hiyo inapitia kur
 - Usisimamishe mazoezi kwa usahihi peke yake. Fanya sharti la kuzuia kuwa ujuzi wake wenyewe, la sivyo mfumo utathibitisha upitishaji kupita kiasi.
 - Acha uwiano uwe kigezo badala ya kitu kisichobadilika, kwa sababu ushahidi unasema bora hutegemea maudhui.
 - Ripoti ni kigezo kipi ambacho kigezo chako kinapima, tofauti na kigezo kipi ambacho uthibitisho wako unapima.
-
-## Dhana Zilizounganishwa
-
-- [[learning-theories]]
-- [[cognitive-psychology]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[research-methods-aied]]
-- [[theory-development-aied]]
-- [[design-based-research]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[discipline-specific-aied]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Makala Zilizounganishwa
-
-- [[competent-generative-ai-use-measures-review-2026]] — Mapitio na uchanganuzi wa mwanya wa kuchunguza wa vipimo vya matumizi yenye uwezo ya AI ya kuzalisha (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Usahihi unaficha kanuni isiyokamilika: kanuni za kusimamisha ustadi katika kujifunza kunakofaa (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Ukaguzi wa mantiki mbadala wa ishara za viwango vya kijamii katika tathmini ya wanafunzi ya LLM (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Mnyororo wa Markov na uchimbaji wa miundo juu ya shughuli 29,064 katika kozi 554 (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Ukaguzi wa kibinafsi usio ya uchunguzi na unaohifadhi faragha kwa kupunguza mzigo unaohusiana na AI (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Utawala wa zero-shot: AI wa madhumuni ya jumla katika sera, unasomwa kupitia msimbo wa msingi wa Redbox (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Kwa nini uwiano bora wa mfano–tatizo hutegemea maudhui (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Walimu wanabuni chatbot za mtaalamu mwenye mipaka, na uhamishaji wa kuchagua wa ufundishaji (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK ya GenAI ya waelimishaji: maarifa yenye nguvu ya maudhui, maarifa dhaifu yaliyounganishwa na teknolojia (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: jaribio la nasibu la ufundishaji wa ziada wa moja kwa moja wa binadamu–AI katika kiwango kikubwa (Wang et al. 2024)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Delphi iliyosajiliwa mapema ya wataalam 30 kuhusu michakato ipi ya kujifunza GenAI inaimarisha na ipi inatishia
-- [[three-pathways-student-ai-interaction-2026]] — Aina za mwingiliano wa mwanafunzi na AI: 64% tulivu au za kubadilishana, 36% mazungumzo ya kimkakati
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Mtindo wa maoni, si aina ya wakala, ulisukuma ushiriki wa kujidhibiti
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Ushahidi wa mchakato hutegemea njia
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Mgawanyo wa matumizi ya GenAI ni chaguo la kitaasisi
-
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — Utegemezi wa ndani ya mtu hutangulia kushuka kwa uwakala unaohisiwa
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Uchanganuzi wa mlolongo wa lag na uchimbaji wa mchakato uliweka AI kwenye kitovu cha mtandao wa mwingiliano wa kikundi au kwenye njia mstari kulingana na muundo wa dhana potofu (Wang na wenzake 2026)
-

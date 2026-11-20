@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 Most AI quiz integrations send every answer to a fixed grading call. This Moodle question type does the opposite: the instructor writes the rubric. Each question carries a **prompt** telling the model how to evaluate the response and an optional **marking scheme** describing how marks are awarded, so a "write a sentence in the past tense" item can specify ten marks for no errors, zero for broken grammar, and one mark off per misspelling. The model returns a mark and [[feedback|feedback]], and an instructor can see that feedback beside the response when marking by hand.
@@ -40,12 +41,3 @@ Moodle administrators and developers who already run the site, instructors who w
 ## Notes and caveats
 
 Open source under GPL v3 or later, but free does not mean free to run: someone pays for the model API, and the quality of marking depends on model choice and prompt design. Free-text answers leave the Moodle server when a remote provider is used, so the institution's data agreement governs what may be sent; the self-hosted Ollama route exists for sites that cannot send student work out. The repository states no published accuracy or agreement study, so the plugin should not be adopted on the assumption that LLM marking is equivalent to human marking. [[assessment-validity|Validity]] has to be established locally against human scores before any grade carries weight. The companion behaviors are a hard dependency: installing the question type alone leaves questions ungradable.
-
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

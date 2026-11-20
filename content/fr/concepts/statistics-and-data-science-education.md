@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -88,26 +90,3 @@ La qualité de l'étayage compte indépendamment de l'accès. Une comparaison ex
 - **« La satisfaction et le bénéfice perçu indiquent qu'un outil d'IA pour la science des données fonctionne. »** Les étudiants ont massivement utilisé les LLM pour le débogage et les questions de concept et **ont déclaré une satisfaction élevée, tandis que leur bénéfice perçu en matière d'apprentissage profond diminuait au fil du semestre**. La satisfaction s'est maintenue et la trajectoire d'apprentissage auto-évaluée a chuté : aucun des deux chiffres n'est à lui seul le résultat.
 - **« Un modèle non restreint vaut un tuteur guidé. »** Le gain venait de l'entraînement à l'étayage — une instruction explicite sur les indices par étapes et la vérification — qui a battu le simple accès au même modèle en performance autonome et en calibrage de l'auto-évaluation. C'est l'accompagnement, et l'entraînement à s'en servir, qui portaient l'effet.
 - **« Se prémunir contre la fourniture de réponses suffit. »** Un tuteur propre au cours, sur une API hébergée, conçu pour orienter plutôt que fournir des réponses, a été adopté par **76% à 84%** des étudiants de premier cycle en psychologie pendant les semaines comptant pour un cours de programmation R d'un semestre. C'est une adoption, non la preuve que la protection a produit un apprentissage : la protection au niveau de l'invite est un levier parmi d'autres et ne produit pas à elle seule de l'apprentissage.
-
-## Concepts liés
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Articles liés
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Outil agentique générant des jeux de données synthétiques inspectables pour un entraînement statistique personnalisé
-- [[ai-tutor-statistical-programming-adoption-2026]] — Tuteur R conçu sur mesure ; l'adoption suivait le calendrier des examens
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Les étiquettes de difficulté du LLM suivent les niveaux de Bloom, pas la performance des étudiants
-- [[tactile-statistical-graphs-accessibility]] — Chaîne de traitement open source générant des graphiques statistiques tactiles avec relecture de l'enseignant
-- [[guided-llm-scaffolding-independent-learning]] — L'étayage guidé a battu l'accès non restreint en performance autonome
-- [[lund-socially-accountable-data-science-xai-2026]] — Inscrire la responsabilité sociale dans le curriculum technique de science des données

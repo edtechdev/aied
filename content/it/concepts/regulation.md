@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
+connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -64,54 +66,10 @@ Un audit delle politiche di privacy delle [[edtech-platform|piattaforme EdTech]]
 
 La regolamentazione si collega a [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]] e [[academic-integrity]]. È lo strato istituzionale che modella il funzionamento di tutte le altre pratiche di istruzione con l'IA. La regolamentazione al tempo stesso vincola e abilita: fissa i confini dell'uso accettabile dell'IA e crea al tempo stesso le condizioni — attraverso l'[[ai-literacy]] e le attese di uso responsabile — per un'integrazione [[equity-in-ai-education|equa]] e sicura.
 
-
 La regolamentazione non si traduce automaticamente verso il basso: 32 enti finanziatori che operano dove esistono regole statali sull'IA hanno pubblicato politiche generali ma nessuno strumento specifico per il finanziamento che le recepisse ([[chan-ai-policy-gap-2026|Chan, 2026]]).
-
 
 ## Idee sbagliate comuni
 
 - **"La politica istituzionale sull'IA è dove risiedono le regole."** L'indagine di [[watson-rainie-ai-challenge-faculty-survey-2026|Watson e Rainie (2026)]] su **1.057 docenti statunitensi** misura quanto in basso rispetto allo strato istituzionale si collochino le regole effettive: **l'87% degli intervistati ha scritto un proprio orientamento**. La politica operativa è in gran parte scritta dai docenti, il che significa che lo strato istituzionale documentato descrive meno di quanto sembri.
 - **"Scrivere una politica copre la superficie rischiosa."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] mostra perché gli strumenti di valutazione appartengono all'insieme regolamentato: in un test di red team, **due delle cinque iniezioni di prompt indirette** nascoste in una consegna hanno avuto successo. Una regola che nomina gli strumenti ma non le superfici di iniezione lascia l'exploit non affrontato.
 - **"I sistemi agentici sono coperti estendendo le regole esistenti."** In un'analisi documentale di **12 università**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong e Sun (2026)]] hanno trovato che **nessun comparatore affrontava un agente che accede a un sistema di gestione dell'apprendimento**. Il divario di governance è strutturale: le categorie esistenti non hanno uno slot per un attore autonomo munito di credenziali.
-
-## Concetti collegati
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[legal-issues-and-risks]] — esposizione giuridica quando la regolamentazione e la governance sono poco chiare o troppo ampie
-
-## Articoli collegati
-
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data
-- [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
-- [[dot-framework-survey-2026]] — Technology-adoption frameworks
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions and the reasonable-adjustment duties they may engage (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Language background in assessment rules: the support–substitution boundary as an equalities question (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-injection attacks on AI graders and the case for standardized resilience testing (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — No comparator policy addressed an AI agent logging into an LMS or holding student credentials (Wong & Sun 2026)
-
-- [[chan-ai-policy-gap-2026]] — Mancata traduzione verticale: le regole statali esistono mentre gli enti finanziatori sotto di esse non emanano alcuno strumento vincolante (Chan 2026)
-

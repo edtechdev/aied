@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -113,24 +115,3 @@ Favero 등(2025)은 AI 튜터에 대한 감정적 [[student-engagement|참여(en
 **"얼굴에서 감정을 감지하는 튜터는 학생의 상태를 압니다."** 감정은 관찰되는 것이 아니라 추론되며, 그 추론은 이해관계가 가장 큰 곳에서 가장 약합니다. [[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]]는 5차원 학습자 프로필에 감정 차원을 유지하지만 그것을 키워드 사전으로 채우므로, 사전에 없는 단어로 좌절을 표현하는 학생은 프로필에 반영되지 않으며, 그 프로필은 전문가 판단과 비교 검증되지 않았습니다. 얼굴 포착은 텍스트 추론이 갖지 않는 지속적 영상 스트림과 프라이버시 노출을 더합니다.
 
 **"서로 다른 순간에 측정한 감정은 맞바꿔 쓸 수 있습니다."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]는 순서화된 감정이 단기 지속성과 방향적 전이를 보이며, 호기심과 혼란 주변의 자기 고리처럼 탐침으로 포착된 보고가 좌절과 놀람처럼 자기 포착된 보고와 다른 측정임을 발견합니다. 둘을 요약 빈도로 평균하면 신호를 담고 있는 순서를 버리게 됩니다.
-
-## 연결된 개념
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## 연결된 문서
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]]

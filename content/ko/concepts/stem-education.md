@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
+connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -91,52 +93,3 @@ STEM의 구조화된 지식 표상, 검증 가능한 답, 컴퓨터적 사고와
 - **"지능형 튜터링은 STEM 전반에 걸쳐 균일하게 작동한다."** **연구 20편(2020-2026년 4월)** 에 대한 구조화된 서술적 검토는 특히 **실시간 진단** 튜터링에서 가장 분명한 측정 우위를 발견했습니다. 증거는 **경계 지어지고 조건적**이며, 그것을 모든 수학 ITS에 일반화하는 것은 검토된 범위를 과장합니다.
 - **"시뮬레이션은 실습의 창백한 대체물이다."** 시뮬레이션 집단은 **교육과정 정합 STEM 지식(M = 3.00 대 2.06; t(28) = 2.23, p = .034, d = 0.82)** 에서 실습 집단을 앞질렀습니다. 시뮬레이션은 실제보다 낮은 성과를 내는 대체물이 아니었습니다.
 - **"AI 지원 문헌 워크플로는 주로 시간을 절약한다."** **학생 20명, 문서 80건**의 결과는 **실험 매개변수의 90% 이상 추출, 문헌 검토 시간의 약 65% 감소, 영향력 있는 연구를 식별하는 학생 능력의 50% 향상**을 보여주었습니다. 능력 향상이 더 큰 결과였고 시간 절약은 더 작은 결과였습니다.
-
-## 연결된 개념
-
-- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학문적 학습자 정체성
-- [[business-education]]
-- [[cs-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[llm]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성 평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물학 교육과 AI: 실험실 교수 조교, 생물학에서의 AI 리터러시, 비판적 사고, 전문 도구
-
-## 연결된 문서
-
-- [[ai-pedagogical-accompaniment-amico]] — STEM 정체성을 지원하는 AI 기반 교수법적 동반
-- [[lnenicka-secondary-students-genai-stem-2026]] — STEM 전반에 걸쳐 학생들이 실제로 생성형 AI 도구로 무엇을 하는가
-- [[dai-chatbots-problem-posing-primary-2026]] — 초등 과학에서의 생성형 AI 챗봇과 문제 제기
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM에서 탐구 기반 학습을 위한 ChatGPT
-- [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육: 체계적 검토
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — 깊은 학습을 위한 적응형 AI 기반 STEM 프로그램
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 예비교사의 ChatGPT 수용 프로필
-- [[zhang-ct-ai-training-test-2026]] — AI 훈련 테스트에서의 컴퓨터적 사고(CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — 도구인가, 튜터인가, 지팡이인가: AI 지원 프로그래밍의 근거 이론
-
-- [[becker-chatgpt-typology-physics-2026]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[generative-ai-reduced-study-time-math]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — 과학/화학 교육에서의 AI에 관한 체계적 검토
-
-- [[ai-information-extraction-undergraduate-thesis-2026]] — 학부 논문과 연구 기반 학습을 지원하는 AI 기반 정보 추출(An et al. 2026)
-- [[simulation-assisted-drone-learning-stem-2026]] — 교사-AI 공동 설계 비계를 통한 시뮬레이션 지원 드론 학습
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM에서의 디지털 트윈: 검토된 모든 연구가 작동하는 원형을 제공했지만 학습을 측정한 연구는 적다
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 45분의 프롬프팅 및 오류 점검 세션이 물리 사후 검사 점수를 높였다(*d* = 0.814)
-- [[intelligent-tutoring-mathematics-education-review-2026]] — 수학 ITS 증거는 경계 지어지고 조건적이다
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 35개 연구에 걸친 AI 지원 STEM 교수의 모아진 효과, 고등학교에서 가장 큰 향상(Doğan et al. 2026)
-

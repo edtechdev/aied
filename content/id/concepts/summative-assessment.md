@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -80,44 +82,3 @@ Literatur penilaian dalam basis pengetahuan ini secara konsisten menekankan bahw
 - **"LLM tidak dapat menilai menurut standar resmi."** Terhadap **nilai resmi yang dimoderasi**, LLM multimodal yang menilai **10,364 halaman** Olimpiade Fisika dan universitas tulisan tangan berkorelasi kuat. Kesepakatan luaran dapat bertahan meski penskoran tingkat butir tidak presisi — yang berarti pertanyaan yang berguna adalah di mana presisi tingkat butir benar-benar dibutuhkan.
 - **"Inflasi nilai AI hanyalah spekulasi."** Kuasi-eksperimen [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] atas **500,000+ nilai** membuat mekanismenya konkret: setelah rilis ChatGPT, **mata kuliah dengan lebih banyak tugas terekspos AI mengalami kenaikan proporsi nilai tinggi**. Efeknya terkonsentrasi di tempat tugas-tugas terekspos, yaitu pola yang akan diprediksi sebuah mekanisme.
 - **"Siswa yang memakai AI tidak dapat dibedakan dari yang tidak, jadi provenans adalah harapan kosong."** Temuan bahwa **tidak ada perbedaan signifikan dalam atribusi sumber** antara butir hasil AI dan butir ujian lisensi, dengan pengenalan benar **68.6-77.5 persen** dan tingkat salah atribusi **18.2 persen**, adalah tentang kegagalan pengenalan — bukan tentang provenans yang tidak diperlukan. Justru sebaliknya, ia menaikkan tuntutan akan provenans yang terverifikasi.
-
-## Konsep terkait
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Artikel terkait
-- [[llm-grading-assistants-public-health-2026]] — Penilai LLM memampatkan skala nilai dan menghindari ekstrem dalam penilaian esai berisiko tinggi
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mempertimbangkan ulang ujian lisan sebagai penilaian sumatif yang autentik dan tahan AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran AI generatif: bukti ujian dengan pengawasan/tutup buku
-- [[chirikov-ai-grade-inflation-2026]] — Pemindahan tugas oleh AI sebagai mekanisme inflasi nilai; mata kuliah berat pekerjaan rumah (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Penyelesaian lebih cepat, pembelajaran lebih sedikit: ukuran dengan pengawasan itu esensial
-- [[generative-ai-guardrails-harm-learning]] — AI generatif tanpa pagar pengaman merugikan pembelajaran
-- [[assessing-quality-ai-generated-exams-field-2025]] — Menilai kualitas ujian yang dihasilkan AI
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM tidak menilai esai seperti manusia
-- [[llm-automated-assessment-student-self-explanations]] — LLM untuk penilaian otomatis penjelasan diri siswa
-- [[cong-confidence-asag-2026]] — Penskoran jawaban singkat otomatis
-- [[psyscore-essay-scoring-zpd-feedback]] — Penskoran esai adaptif-sifat yang sadar psikometri
-- [[socratic-tests-conversational-assessment]] — Tes Socrates: penilaian dinamis, percakapan, multimodal
-- [[code-review-genai-cs1]] — Wawancara tinjauan kode di CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang bertanggung jawab di era AI
-- [[test-driven-ai-assisted-learning]] — Pembelajaran berbantuan AI yang digerakkan tes
-- [[genai-oop-programming-assessments-2026]] — Kinerja GenAI pada penilaian pemrograman berorientasi objek
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: perjuangan produktif dan ilusi pembelajaran
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tugas penilaian hasil AI versus hasil manusia dalam EFL
-- [[roe-assessment-twins-2026]] — Kembaran penilaian untuk memperkuat validitas penilaian di era GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — Penskoran AI atas penilaian fisika tulisan tangan (Olimpiade)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Siswa tidak dapat mengidentifikasi butir buatan AI secara andal

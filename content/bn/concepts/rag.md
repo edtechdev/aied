@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -61,33 +63,3 @@ RAG [[llm]] ফাইন-টিউনিংয়ের পরিপূরক �
 - **"পুনরুদ্ধারের গুণমানই পুরো সমস্যা।"** পুনরুদ্ধার প্রয়োজনীয়, যথেষ্ট নয়। ভিত্তিক উত্তর **10-এর মধ্যে 9.05 স্কোর করেছে, পার্থক্যের বুটস্ট্র্যাপ CI শূন্য বাদ দিয়ে** এবং **আরও বেশি বার উত্তরদাতা প্রকৃতপক্ষে যে উপকরণ দেখেছিলেন তাতে ভিত্তিক ছিল (98% বনাম 81%)** — অর্থাৎ মাপা লাভটি প্রমাণের প্রতি আনুগত্যে, আর সেই আনুগত্য অর্থবহ হতে হলে প্রমাণটিকেই সঠিক হতে হবে।
 - **"একক-পাতার পুনরুদ্ধার সাধারণীকরণযোগ্য।"** **একাধিক পাতা থেকে উপকরণ প্রয়োজন এমন প্রশ্নে দুটো ব্যবধানই প্রায় তিনগুণ হয়েছে** (ক্রস-পেজ স্কোর 9.93, নিম্নতর বেসলাইনের বিপরীতে)। বহু-নথি যুক্তি সেই জায়গা যেখানে ভিত্তিক ব্যবস্থা অবনমিত হয়, আর কোর্স সবচেয়ে কঠিন প্রশ্ন করে ঠিক সেখানেই।
 - **"পুনরুদ্ধার যাচাইয়ের প্রয়োজন মিটিয়ে দেয়।"** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] একটি মডিউলের অনুমোদিত উপকরণ থেকে পুনরুদ্ধার করে সেই শিক্ষার্থীদের সেবা দেয় যারা মানুষকে জিজ্ঞাসা করতে দ্বিধা করে — একটি সমর্থনযোগ্য পরিসর। সংকীর্ণ, অনুমোদিত কর্পাসই ভিত্তিকরণকে অর্থবহ করে; কেবল লেবেল নয়।
-
-## সংযুক্ত ধারণা
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — ছাতা-ধারণা: এআই প্রযুক্তি ও কৌশল (মডেল, LLM প্রশিক্ষণ, রোবোটিকস, RAG, এজেন্টিক)
-
-## সংযুক্ত নিবন্ধ
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — একটি পাঠ্যক্রম-ভিত্তিক পাঠ-সহায়ক, যার সময়-সাশ্রয় সাধারণ চ্যাটবটের চেয়ে বেশি হয়নি
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: তাত্ত্বিক কম্পিউটার বিজ্ঞান শিক্ষার জন্য রিট্রিভাল-অগমেন্টেড জেনারেশন -- অ্যালগরিদম বিশ্লেষণ ও জটিলতা তত্ত্বের জন্য একটি ব্যাপক মূল্যায়ন কাঠামো
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — একাডেমিক সহায়তার বাধা হ্রাস: উচ্চশিক্ষায় সহায়তা-অন্বেষণ বৈষম্য মোকাবিলায় একটি কোর্স-নির্দিষ্ট RAG ব্যবস্থার মূল্যায়ন
-- [[wiki-llm-indexing-ml-classes-2026]] — উইকি LLM সূচিকরণ ব্যবহার করে মেশিন-লার্নিং ক্লাসে উন্নত শিখনের সম্ভাবনা
-- [[on-premises-rag-tutoring-business-education-2026]] — ব্যবসায় শিক্ষার জন্য অন-প্রিমাইজিস বহু-কোর্স RAG টিউটরিং

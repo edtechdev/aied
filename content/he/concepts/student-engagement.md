@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -73,7 +75,6 @@ ai_assist:
 
 - **מעורבות, זרימה ואינטליגנציה רגשית גדלו יחד בשיעורי מוזיקה בסיוע AI.** חמישה גלים לאורך סמסטר עם 850 סטודנטים לתואר ראשון הראו גדילה ממוצעת בכל השלושה, עם מתאמי שיפוע של 0.39 בין מעורבות לזרימה ו-0.22 בין מעורבות לאינטליגנציה רגשית; הגדילה בזרימה נשאה את הקשר לאינטליגנציה רגשית ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]).
 
-
 ### מדידת מעורבות: בעיית בחירת המדד
 
 המעורבות מופעלת באמצעות טווח של אותות נצפים. **מדדים התנהגותיים** מודדים מה שלומדים *עושים* (זמן על גופי המשימה, ספירת פעילות, תדירות אינטראקציה, התמדה); **מדדים קוגניטיביים** מודדים כיצד לומדים *חושבים* (עומק עיבוד, מעורבות ביקורתית, ניתוח שיח); **מדדים אפקטיביים** מודדים כיצד לומדים *מרגישים* (רגש, מוטיבציה, עניין); ו**מדדים הקשריים** לוכדים מולטיטסקינג ותשומת לב. מחקר החינוך-בינה מלאכותית משולב ביתר ויתר בין אלה ומתייחס למעורבות כמנגנון מתווך בין עיצוב כלי בינה מלאכותית לבין [[learning-gains|תוצאות למידה]], ולא כתוצאה בפני עצמה.
@@ -83,7 +84,6 @@ ai_assist:
 בחירת המדד היא הגדרתית: מחקר שמודד מעורבות כ*זמן על גופי המשימה* עשוי להסיק שכלי בינה מלאכותית משפר את המעורבות כשהסטודנטים מבלים יותר זמן באינטראקציה איתו, בעוד מחקר שמודד מעורבות כ*עיבוד ביקורתי* עשוי להגיע למסקנה ההפוכה על אותו הכלי. זו הסיבה לכך שהמחקר של מאגר הידע מבדיל בין מעורבות (השתתפות) ללמידה (רווח קוגניטיבי בפועל) — ראו [[genai-performance-vs-learning|ביצועים לעומת למידה]] — ולכן מדדי מעורבות חייבים להיות מאומתים מול מה שהם טוענים למדוד.
 
 **דיווח עצמי ותיעוד התנהגותי של אותו שימוש יכולים לסטות כמעט לחלוטין.** Keith, Wood and Posey (2026) מדדו מצבי מעורבות עם AI פעמיים באותם 171 סטודנטים: פעם בכלי דיווח-עצמי בן 29 פריטים, ופעם על ידי סיווג 1,353 תורות תמליל. שום מתאם פרופיל מזווג לא שרד תיקון ב-|r| ≥ .30, מרחק הווריאציה הכולל הממוצע היה .701 ורק .002 קרוב יותר מזיווג-מחדש אקראי, והרכב התנהגותי העלה את השונות המוסברת ב-.166 לעומת .031 לדיווח עצמי; רק פרופילים נצפים עקבו אחר ציוני החידון, שם תורות בקשת-הסבר ליוו ציונים גבוהים יותר (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). דיווח עצמי של אופן המעורבות של סטודנט נשא כמעט אפס מידע על אופן המעורבות בפועל, מה שהופך את אזהרת בחירת-המדד שלעיל לתוצאה מדודה ולא להסתייגות.
-
 
 - **מעורבות כאות שביר ותלוי-מצב:** [[polished-artifacts-fragile-engagement-2026|חידות מלוטשות, מעורבות שבירה]] ו[[genai-tutor-engagement-patterns|דפוסי מעורבות רב-מוסדיים]] מוצאים שהמעורבות משתנה לפי הקשר, משימה ולומד — אותו הכלי מייצר מעורבות חזקה עבור חלק מהסטודנטים והתנהגות שטחית ורדופה אחר פלט עבור אחרים.
 
@@ -108,7 +108,6 @@ ai_assist:
 חשבון דו-ממדי מעביר את אותה נקודה מן הצד ההוראי. מסגרת יישור הקפדנות–מחויבות של Al Nafjan מתייחסת למעורבות תחת GenAI כנקבעת במשותף על ידי מידת התובענות של המשימה ומידת מחויבותו של המורה ללמידת הסטודנטים, והיא חוזה ארבע תצורות ([[al-nafjan-genai-eap-writing-engagement-2026]]). קפדנות חלשה עם מחויבות חלשה (רשלנית) וקפדנות חלשה עם מחויבות חזקה (מפנקת) שתיהן מתייצבות על שימוש שטחי, משום שדבר אינו מחייב את הסטודנט להעריך או להצדיק את מה שהכלי הפיק. קפדנות גבוהה עם תמיכה דקה (עונשית) צפויה לדחוף סטודנטים להסתרה ולא לשימוש אחראי, ורק קפדנות גבוהה עם תמיכה גבוהה צפויה להניב מעורבות עמוקה וסוכנית.
 
 הטענה הנושאת של המסגרת היא הגברה ולא סיבתיות. הבדלים בין ארבע התצורות אמורים להתרחב ככל ש-GenAI הופך לזמין בקלות, כשההערכה מתגמלת את התוצר הסופי, וכשתהליכי הכתיבה נותרים בלתי-נראים, כך שהכלי מגדיל תנאים שהמשימה והמורה כבר קבעו במקום ליצור דפוסי מעורבות בעצמו. Al Nafjan מציינת שהמסגרת הצהרתית ולא נבחנה, מה שהופך את ארבעת הפרופילים לציפיות הממתינות למבחן אמפירי ולא להשפעות נצפות.
-
 
 ### קשרים למושגים קשורים
 
@@ -154,72 +153,3 @@ ai_assist:
 
 - דווחו על הממד ועל הכלי, והימנעו משם העצם החשוף. לאור הפער בין דיווח עצמי ליומנים, "המעורבות עלתה" זקוקה לאופרציונליזציה שלה באותו משפט.
 - הימנעו מהסקת הישגים מאפקט. תוצאת הפיצול בהקצאה אקראית של אשכולות היא המודל לדיווח על שניהם, כולל האפס.
-
-## מושגים מחוברים
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[pedagogical-partnerships]] — שותפויות פדגוגיות
-- [[community-of-inquiry]] — קהילת חקר (מעורבות סוכנית כממדי CoI)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך עם בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
-- [[self-report-measures]]
-- [[productive-failure]]
-
-- [[reflection]]
-
-
-## מאמרים מחוברים
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — אוריינות משוב AI ומעורבות סוכנית: פאנל תלת-גלי עם חותך-אפס אקראי (Xu 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
-
-- [[assigned-ai-preclass-student-engagement-2026]] — Voice-based AI pre-class practice raised voluntary class contributions by ~31%, but only after a second use (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI use tracked with greater class absenteeism while self-efficacy did not predict it, with peer influence the dominant correlate (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
-- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Motivation
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioral engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomized secondary mathematics trial: situational interest rose with a customized chatbot while test performance did not (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
-
-- [[eight-mode-ai-engagement-typology-2026]] — פרופילי מעורבות AI מדווחים-עצמית ונצפים לא התאימו, ורק התנהגות עקבה אחר ציוני החידון (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — ארבע תצורות מעורבות חזויות תחת GenAI, ומדוע הכלי מגביר אותן
-

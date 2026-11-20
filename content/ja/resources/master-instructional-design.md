@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -41,6 +42,3 @@ ai_assist:
 ## 用語と注意点
 
 ライセンスは Creative Commons BY-NC-ND 4.0 であり、作者が明示する条件は教育機関の読者の多くにとって重要です。個人的な非商用の学習と専門的な能力開発は歓迎されますが、商用利用、再配布、ホワイトラベリングには商用ライセンスが必要です。リポジトリは、作者自身が設計した 10 の課題において 320 点中 314 点を報告していますが、これは独立したものではなく作者自身による評価であり、同じ作者がこのフレームワークに関するコンサルティングとワークショップを販売しています。このプロジェクトは勤務先とは無関係の個人的な取り組みとして説明されており、最後のコミットは 2026 年 4 月のものです。
-
-## 関連する概念
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -52,11 +53,3 @@ Educatori din [[early-childhood-elementary-ai-education|educația timpurie]] și
 Alte două limite contează pentru predare. Recomandările sunt îndemnuri de proiectare, nu intervenții testate; nimic de pe site nu raportează un rezultat. Iar structura pe benzi de vârstă impune o grilă grosieră unei dezvoltări care variază în interiorul benzilor, între culturi și între contexte, ceea ce ghidul însuși recunoaște.
 
 Cadrul care merită dus în practică este cel al site-ului însuși: păstrează bucla umană, apoi stabilește unde se potrivește IA în ea, în loc să pui un punct de control uman într-o buclă care aparține mașinii — aceeași preocupare pe care corpusul o consemnează ca risc de [[cognitive-offloading|descărcare cognitivă]] atunci când un instrument preia partea din sarcină care făcea munca de dezvoltare.
-
-## Concepte conexe
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
+connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -103,39 +105,3 @@ ai_assist:
 **"포화는 참가자 수의 속성이다."** 포화는 분석의 속성입니다. 새 자료가 새 코드를 더 이상 만들어 내지 않을 때 멈추는 것입니다. 표본 크기가 동일한 두 연구도 포화에서 똑같이 멀 수 있으며, 그래서 참가자 수를 충분성의 증거로 인용하는 보고서는 포괄 범위에 관해 아무것도 입증하지 못한 것입니다.
 
 **"정량적 발견과 질적 발견은 경쟁한다."** 두 방법은 서로 다른 질문에 답합니다. 설문은 얼마나 많은 학생이 튜터를 불신하는지 알려 주고, 인터뷰는 그 이유를 알려 줍니다. 둘을 같은 대상에 관한 경쟁적 설명으로 다루면, 리뷰 논문들이 되풀이하는 거짓 선택이 생깁니다.
-
-## 연결된 개념
-- [[research-methods-aied]]
-- [[mixed-methods-research]]
-- [[quantitative-research]]
-- [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[educational-measurement]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[self-report-measures]]
-
-## 연결된 문서
-- [[chain-behind-claim-warrantability-2026]] — AI 지원 질적 분석을 위한 정당화 가능성 기준
-- [[liu-tool-tutor-crutch-programming-2026]] — 도구인가, 튜터인가, 목발인가: AI 지원 프로그래밍에 관한 근거 이론
-- [[trio-ethnography-llm-programming-education]] — LLM이 지원하는 프로그래밍에서 해석의 변화에 관한 3인 민족지
-- [[absent-cognitive-baseline-2026]] — AI 네이티브 학생의 자기 평가에 나타난 구조적 격차에 관한 이론화
-- [[t2i-competence-paradox-2026]] — 텍스트-이미지 생성형 AI 사용에서의 역량 역설
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 물리 교육에서의 신뢰-유용성 격차
-- [[genai-teacher-feedback-comparison]] — 생성형 AI와 교사 피드백의 비교: 학생의 인식
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터의 안전과 교수학적 해악
-- [[zha-ai-literacy-biology-case-study]] — 생물학 수업에 AI 리터러시를 통합한 사례 연구
-- [[becker-chatgpt-typology-physics-2026]] — 물리학에서 ChatGPT 도입에 관한 질적 유형론
-- [[scaffolding-critical-engagement-genai-minority-students]] — 소수 민족 학생들의 프롬프트 엔지니어링에서 나타난 협력적 담론
-- [[human-vs-llm-ordered-coding]] — 질적 데이터에 대한 인간과 LLM의 순서 코딩 비교
-- [[agreement-not-quality-llm-coding-verification]] — 일치는 질이 아니다: LLM 질적 코딩 검증에서
-- [[same-ai-different-pathways]] — 맥락에 따른 AI 매개 학습 메커니즘 풀어내기
-- [[drummond-genai-business-schools-framework-2026]] — 사례 연구를 통해 학생의 시각에서 구성한 생성형 AI 틀
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — 비판적 AI 튜터: 해방하는가, 예속하는가
-- [[genai-runaway-object-math-higher-ed]] — 고등교육 수학에서 통제를 벗어난 대상으로서의 생성형 AI
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 시각장애 학습자를 위한 보조 생성형 AI
-- [[wu-efl-emotional-dynamics-genai-writing-2026]] — 생성형 AI 보조 작문에서 EFL 학습자의 정서적 참여: 종단적 다중 사례 연구

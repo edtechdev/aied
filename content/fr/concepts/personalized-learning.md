@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -154,46 +156,3 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 **« Générer le support supprime la contrainte qu'impose le contenu réel. »** La génération relâche une contrainte et ne peut pas en relâcher d'autres. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] génère des jeux de données statistiques synthétiques ajustés à l'intérêt déclaré d'un étudiant, aux objectifs du cours et au niveau de compétence visé — une triple correspondance que les jeux de données réels satisfont rarement — mais ses auteurs énoncent clairement la limite : des données synthétiques ne peuvent pas enseigner la collecte de données, la mesure ou la conception d'étude, si bien que l'outil complète les données réelles plutôt qu'il ne les remplace.
 
 **« Les [[learning-gains|gains d'apprentissage]] rapportés sont ce qui valide ces systèmes. »** Dans les études sur l'apprentissage par renforcement et la personnalisation recensées ici, les politiques battent le plus souvent les lignes de base non adaptatives sur l'adaptation liée au guidage et sur les variables affectives (63 % des études testées), tandis que le gain d'apprentissage — surtout le gain normalisé — était le résultat le *moins* fréquemment rapporté. Une littérature qui rapporte bien plus l'engagement et l'affect que l'apprentissage n'est pas la preuve que l'apprentissage domine.
-
-## Concepts liés
-
-- [[adaptive-learning]] — Systèmes adaptatifs qui ajustent contenu, rythme et difficulté à l'apprenant en temps réel
-- [[intelligent-tutoring]] — Systèmes de tutorat qui modélisent l'apprenant et dispensent un enseignement individualisé
-- [[student-modeling]] — Représentation des connaissances, compétences et états de l'apprenant qui pilotent l'adaptation
-- [[knowledge-tracing]] — Inférence de la maîtrise des composantes de connaissance à partir de la performance au fil du temps
-- [[cognitive-diagnosis]] — Diagnostic des connaissances et attributs latents de l'apprenant à partir des réponses
-- [[scaffolding]] — Soutien et effacement calibrés sur les besoins individuels de l'apprenant
-- [[student-experience]] — L'expérience vécue de la personnalisation par l'apprenant
-- [[learning-analytics]] — Mesure de l'apprentissage fondée sur les données qui informe l'adaptation
-- [[formative-assessment]] — Évaluation continue qui signale quoi adapter ensuite
-- [[summative-assessment]] — Évaluation finale dont la comparabilité est compliquée par la personnalisation
-- [[generative-ai]] — Personnalisation conversationnelle fondée sur les LLM
-- [[edtech-platform]] — Plateformes qui dispensent l'apprentissage personnalisé à grande échelle
-- [[higher-ed]] — Contexte d'enseignement supérieur pour la personnalisation
-- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
-- [[recommender-systems-and-learning-paths]]
-
-## Articles liés
-
-- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 études : 75.4% codées comme contrôle guidé par l'apprenant, 8.2% comme adaptation pilotée par le système (Aybar-Bellido et al., 2026)
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Régénération de vidéos de cours personnalisées par industrie à partir d'une transcription source : adaptation au niveau de l'audience, notée par des experts du domaine (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micro-personnalisation par ingénierie d'invites d'un assistant d'enseignement IA (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Le tutorat par IA n'est pas monolithique : ce que nous savons réellement (note du Stanford SCALE/NSSA)
-- [[mishra-control-vs-agency-history-2025]] — Distingue deux formes de personnalisation (résultats uniformes contre diversifiés)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning : revue systématique
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Socle de personnalisation natif pour agents appliqué au tutorat
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modèle de connaissance hybride à couches fondé sur une ontologie pour l'apprentissage en ligne personnalisé
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Apprentissage adaptatif personnalisé pour les fractions en élémentaire
-- [[ai-coaching-rl-skill-development]] — Encadrement par apprentissage par renforcement pour le développement de compétences
-- [[personalized-ai-generated-videos-preference-2026]] — Les étudiants préfèrent les vidéos personnalisées générées par IA aux vidéos humaines non personnalisées (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnostic cognitif bayésien pour des parcours d'apprentissage personnalisés
-- [[graph-its-adaptive-algorithms-2026]] — Tutorat intelligent fondé sur des graphes pour des domaines dynamiques (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rôles de l'enseignant et de l'IA dans l'évaluation formative augmentée par ChatGPT
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais dans les retours automatisés personnalisés
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revue systématique : les parcours adaptatifs et les systèmes de recommandation sont un cas d'usage majeur d'intégration de l'IA dans l'enseignement supérieur
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Imparfaites mais mémorables : réception critique par les étudiants des analogies de GenAI personnalisées selon les intérêts en enseignement de l'informatique
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Paradoxe de la personnalisation : la personnalisation adaptative perçue est liée à un apprentissage autorégulé plus faible via les émotions académiques, amorti par la littératie en IA (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath : les planificateurs LLM atteignent 90,9 % de validité mais aucun modèle ne dépasse 44,7 % d'adaptativité dans la personnalisation de parcours vers un objectif d'apprenant énoncé (Liu et al. 2026)
-
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Quatre études, un effet regroupé large, et une certitude très faible

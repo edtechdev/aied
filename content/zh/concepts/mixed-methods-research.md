@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,26 +87,3 @@ ai_assist:
 - **"观察与访谈证据可以承载关于系统的断言。"** 把系统观察与[[administrator|管理者]]访谈，对照一项**跨八个学期、8,708 名学生、效力足以检出 0.05 个标准差效应的四年随机评估**，显示出定性脉络单独做不到的事：可靠地检出一个很小的效应。混合方法并不是把效力在脉络之间转移的办法。
 - **"三角互证就是两个弱方法合成一个强主张。"** 配对的价值在于每条脉络回答的是不同的问题。一个把两者都跑了、随后把定性发现当作定量发现的确认来报告的设计，并没有三角互证，它只是重述。
 - **趋合可以是一条准入规则，而不是一段叙述。** [[liu-auditable-assessment-preservice-2026|Liu（2026）]]只有在某一项重设计优先事项出现于五个独立来源中的至少两个、且出现于一个面向实施的来源时，才把它计入，因此单凭感知无法让它获得晋升。
-
-## 关联概念
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## 关联文章
-
-- [[genai-over-reliance-learning-2026]] — 从增强到过度依赖（问卷 + 访谈）
-- [[t2i-competence-paradox-2026]] — 胜任力悖论（焦点小组 + 问卷 + 访谈）
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 信任-效用差距（问卷 + 访谈）
-- [[same-ai-different-pathways]] — 跨情境下 AI 中介学习的机制
-- [[genai-feedback-design-multisite-experiment]] — 以人为中心的 GenAI 反馈设计（多站点）
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 导学安全与教学伤害
-- [[becker-chatgpt-typology-physics-2026]] — 物理中 ChatGPT 采纳的定性分类学
-- [[edtech-privacy-deferral-2026]] — 《We'll Fix It Later》：教育、AI 与 EdTech 中学生隐私的延迟
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER 与一个微调后的 RoBERTa 对同一篇 Bluesky 帖子给出了相反的情感价（Geraili Meykola 等，2026）

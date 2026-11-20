@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -40,6 +41,3 @@ Dovednost přichází s podpůrným rámem: dva subagenti, jeden pro vstupní ro
 ## Podmínky a upozornění
 
 Licence je Creative Commons BY-NC-ND 4.0 a podmínky uvedené autorem jsou pro většinu institucionálních čtenářů podstatné: osobní, nekomerční studium a profesní rozvoj jsou vítány, zatímco komerční užití, redistribuce a white-labeling vyžadují komerční licenci. Repozitář uvádí 314 z 320 bodů v deseti vlastních úkolech, což je autorovo vlastní hodnocení, nikoli nezávislé, a tentýž autor prodává konzultace a workshopy o tomto rámci. Projekt je popsán jako osobní počin nesouvisející s jeho zaměstnavateli a jeho poslední commit je z dubna 2026.
-
-## Související pojmy
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

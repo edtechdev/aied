@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
+connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -117,45 +119,3 @@ ai_assist:
 - **"אדם בלולאה מתקן את זה."** הלולאה טובה רק כהזדמנות להתערב, ומחקרי הניקוד לא מדדו עיגון.
 - **"זו בעיה של סטודנטים."** מורים, מדרגים, מתייגים ומנהלים הם החותמים בכל עיצוב שהמאגר מתאר.
 - **"זה פגם באופי שהכשרה טובה יותר מסירה."** הכשרה עוזרת, אך אותו אדם מתנהג אחרת בהתאם לשאלה אם האימות זול, אם הפלט שוטף, ואם לחלוקה יש מחיר.
-
-## מושגים מחוברים
-
-- [[trust-calibration]] — מצב ההסתמכות שכשלו נקרא הטיית אוטומציה
-- [[bias-mitigation]] — המקבילה בצד המערכת: הטיה בתוך המודל
-- [[cognitive-offloading]] — האצלת עבודה מנטלית, שקבלה בלתי-נבדקת היא אחת מתוצאותיה
-- [[human-in-the-loop-ai]] — אמצעי ההגנה שעוצמתו נקבעת בכשל הזה
-- [[explainable-ai]] — התערבות השקיפות שהמאגר מציע ולעתים רחוקות בוחן
-- [[learning-analytics]] — לוחות מחוונים והתראות מוקדמות, היכן שכשלי החמצה מתרכזים
-- [[recommender-systems-and-learning-paths]] — דירוג מה לעשות הלאה, שסטודנט יכול פשוט ללכת אחריו
-- [[automated-assessment]] — הציון שאדם עשוי לקבל בלי לקרוא שוב
-- [[scaffolding]] — בדיקות שנשארות זולות מקבלה
-- [[self-efficacy]] — התכונה שתחזית הסטנדרט נשענת עליה
-- [[ai-detection]] — זיהוי שנשפט בידי בני אדם תחת לחץ זמן
-- [[remote-proctoring]] — חשד שמודל מעלה ואדם מכריע בו
-- [[ai-literacy]] — היכן שאימות כמיומנות מדורגת היה אמור לחיות
-
-## מאמרים מחוברים
-
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — אזהרה למורים מפני הישענות על המלצות שנבנו על נתונים דקים
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — מכנה את עיגון המדרגים בציוני בינה מלאכותית כסיכון שלא נבחן ומציע עיוורון
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — לוחות מחוונים, משוב על מאפיינים שטחיים ורמזורים כדפוס הכללי
-- [[factria-responsible-institutional-analytics-2026]] — אחד-עשר בעלי עניין, ארבעה מקרים, צ'אטבוט שמסרב להמליץ
-- [[ludia-udl-ai-thought-partner-2026]] — אמצעי ההגנה של המחנך נחלש כשסומכים על ידע התחום של הכלי
-- [[extended-minds-coupling-flexibility-2026]] — זכות פורמלית לדחות אינה פיקוח אם הטיית אוטומציה מכריעה אותה
-- [[ground-truth-reliability-aied]] — תיוג ב-LLM, אימות מעגלי וסחיפה שקטה של תוויות
-- [[polished-artifacts-fragile-engagement-2026]] — הטיית אוטומציה כגדיל החברתי-קוגניטיבי של מאמץ אפיסטמי מופחת
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — אחד מארבעה מצבי כשל בעבודה רקורסיבית של אדם ובינה מלאכותית
-- [[eight-mode-ai-engagement-typology-2026]] — אופן ה-Oracle והסיכון האופייני לו
-- [[assessing-student-drive-framework-2025]] — סוכנות אנושית פעילה כאמצעי הגנה מפני הטיית אוטומציה
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 מחקרים על השאלה אם בינה מלאכותית מחליפה עבודה חיצונית או מהותית
-- [[geoscience-field-learning-genai-2026]] — עיגון, אישור והטיית אוטומציה בעבודת שדה כבולה-ראיות
-- [[ahmadfard-interactive-oer-review-2026]] — הטיית אוטומציה נמנית בין סיכונים שמכרסמים בסוכנות של לומדים ומורים
-- [[alshahrani-health-sciences-ai-use-2026]] — החששות האתיים של 310 סטודנטים נקראים כמקרה להכשרה מפורשת
-- [[ai-literacy-legal-translation-2026]] — עריכה-שלאחר-תרגום נלמדת כמיומנות מדורגת כנגד לחצי אשליית-האיכות
-- [[morales-cevallos-ai-forensic-science-education-2026]] — הטיית אוטומציה מתועדת במחקרי הבינה המלאכותית המשפטית שנסקרו
-- [[rana-genai-design-thinking-2025]] — פיגומים שמשמרים את השיפוט האנושי במרכז
-- [[kim-overtrust-ai-literacy-2026]] — התחזית התהפכה: סטודנטים בטוחים סמכו על הכלי יותר
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — מסגרת שנבנתה על מחקר הטיית האוטומציה, ולא בחינה שלו
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — אחד משלושה מנגנונים שמכרסמים באזרחות ביקורתית
-- [[academic-erasure-complexity-ai-writing-2026]] — הטיית אוטומציה בתוך העבודה הרגשית של אכיפת השימוש בבינה מלאכותית
-- [[llm-fallacy-misattribution]] — ההבחנה הקרובה: הסתמכות-יתר על מערכת מול תפיסת כשירות אישית

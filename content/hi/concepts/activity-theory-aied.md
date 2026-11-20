@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -88,28 +90,3 @@ AI मौजूदा शैक्षिक गतिविधि प्रण�
 **"यदि आप शिक्षक के विश्वास बदल दें, तो अभ्यास पीछे चलेगा।"** परिवर्तन की इकाई व्यक्ति से बड़ी है। जो हस्तक्षेप मानदंड, कार्यभार वितरण और साझा नियम बदलते हैं, वे व्यक्तिगत आस्था को लक्षित करने वालों की तुलना में अभ्यास को अधिक विश्वसनीय रूप से बदलते हैं, क्योंकि गतिविधि का उद्देश्य सामूहिक रूप से उत्पन्न होता है। यह यह भी समझाता है कि व्यक्तिगत रूप से उत्साही अपनाने वाले क्यों लौट जाते हैं जब उनका विभाग साथ नहीं चलता।
 
 **"गतिविधि सिद्धांत एक वर्णनात्मक लेंस है जिसके कोई डिज़ाइन परिणाम नहीं।"** यह डिज़ाइन को तंत्र के तत्वों के बीच के विरोधाभासों की ओर निर्देशित करता है: नियमों से टकराता उपकरण, उद्देश्य से टकराता श्रम-विभाजन, जहाँ वास्तव में परिवर्तन का लीवर लगता है। जो लेंस विरोधाभासों का पता लगाता है वह आपको हस्तक्षेप की जगह दे रहा है, केवल शब्दावली नहीं।
-
-## संबंधित अवधारणाएँ
-- [[sociocultural-learning]] — सैद्धांतिक परिवार जिसमें गतिविधि सिद्धांत सम्मिलित है (व्यगोत्स्कीय, सांस्कृतिक-ऐतिहासिक)
-- [[learning-theories]] — वह केंद्र जो गतिविधि सिद्धांत को सीखने के सिद्धांतों के बीच स्थापित करता है
-- [[distributed-cognition]] — उपकरण-मध्यस्थ, संदर्भगत रूप से वितरित संज्ञान पर साझा बल
-- [[situated-learning]] — संदर्भ और गतिविधि में भागीदारी पर साझा बल
-- [[agency]] — AI मानव सक्रियता को गतिविधि प्रणाली में कैसे पुनर्वितरित करता है
-- [[teacher-role]] — गतिविधि सिद्धांत अक्सर शिक्षकों द्वारा AI को अपनाने और अभ्यास का विश्लेषण करता है
-- [[learning-analytics]] — CHAT एनालिटिक्स के डिज़ाइन को जोड़ता है
-- [[generative-ai]] — वह AI कला जो शैक्षिक गतिविधि प्रणालियों में प्रवेश करती है और उन्हें विघटित करती है
-- [[technology-acceptance-model]] — अपनाने का विरोधी व्यक्तिगत-विश्वास आधारित विवरण
-
-## संबंधित लेख
-- [[jiang-genai-activity-theory-disciplines-2026]] — गतिविधि सिद्धांत लेंस के माध्यम से GenAI उपयोग और प्रकटीकरण में अनुशासनात्मक अंतर
-- [[genai-runaway-object-math-higher-ed]] — शिक्षण और अनुसंधान गतिविधि प्रणालियों को नए सिरे से बनाने वाले GenAI का CHAT विश्लेषण
-- [[raffaghelli-situated-ai-ethics-2026]] — पारितंत्र प्रणाली सिद्धांत को CHAT के साथ जोड़ने वाली स्थित AI नैतिकता
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — शिक्षकों द्वारा AI को अपनाने पर एक लेंस के रूप में गतिविधि सिद्धांत (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — गतिविधि सिद्धांत के माध्यम से K-12 शिक्षकों के AI उपयोग पर दृष्टिकोण
-- [[ai-disruption-engineering-education-chat-2026]] — CHAT के माध्यम से इंजीनियरिंग शिक्षा में बदलते छात्र मानदंड
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — शिक्षक व्यावसायिक विकास का CHAT-SDT पुनर्निर्धारण
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI साक्षरता के लिए CHAT-जड़ित लर्निंग एनालिटिक्स पाइपलाइन
-
-- [[llm-family-education-activity-theory-2026]] — 53 HCI अध्ययनों की स्कोपिंग समीक्षा: LLM ने परिवार की शैक्षिक श्रम-विभाजन को पुनर्वितरित किया, जबकि नियम ज़्यादातर अपेक्षित रहे, लागू नहीं हुए
-- [[generative-ai-mediational-agent-sociocultural-2026]] — एक मध्यस्थ एजेंट के रूप में GenAI: न उपकरण, न सहयोगी
-

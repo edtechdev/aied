@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -110,49 +112,3 @@ Léase junto con [[stakeholders|partes interesadas]] para las personas que rodea
 **«Que el estudiantado use la IA para atajar es una falta moral.»** La atracción del mínimo esfuerzo es un problema de diseño y de política y no como un problema de carácter: el estudiantado lo describe con sus propias palabras, y la literatura sobre [[reducing-ai-misuse|mal uso]] e [[academic-integrity|integridad]] sitúa la palanca en el diseño de la tarea y del entorno. Enmarcarlo moralmente no explica por qué un mismo estudiante se comporta de forma distinta en dos cursos.
 
 **«Cuando se presenta una acusación de mala conducta, la evidencia está ahí.»** El análisis de expedientes de 1.162 acusaciones de IA generativa muestra a qué se enfrentan realmente quienes aprenden cuando llega la respuesta institucional, y el lado estudiantil de los procedimientos de mala conducta está mucho menos desarrollado en la literatura que el lado estudiantil del uso. Una página sobre quienes aprenden que documenta solo su uso y no su exposición a la acusación ha documentado la mitad de la experiencia.
-## Conceptos conectados
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Cómo percibe, vive y recibe la IA quien aprende
-- [[learner-identity]] — En quién se está convirtiendo quien aprende en relación con una disciplina y con la IA
-- [[agency]] — Qué sigue controlando y eligiendo quien aprende
-- [[student-ai-interaction]] — Qué le pide realmente a la IA quien aprende y cómo evolucionan los diálogos
-- [[cognitive-offloading]] — La dependencia excesiva y la sustitución del pensamiento por la IA
-- [[self-regulated-learning]] — Planificar, supervisar y ajustar el propio aprendizaje
-- [[help-seeking]] — Pedir ayuda bien, y los modos de fallo cuando no se hace
-- [[metacognition]] — Saber qué entiende uno y qué no
-- [[motivation]] — Por qué quien aprende persiste o se detiene
-- [[self-efficacy]] — La confianza de quien aprende en su propia capacidad
-- [[student-engagement]] — La implicación conductual, emocional y cognitiva
-- [[prior-knowledge]] — Los conocimientos previos que deciden si el apoyo se convierte en aprendizaje
-- [[student-modeling]] — Representar a quien aprende dentro del sistema
-- [[knowledge-tracing]] — Estimar la adquisición de habilidades a lo largo del tiempo
-- [[simulating-students]] — Aprendientes simulados con LLM como sustitutos provisionales
-- [[ai-literacy]] — La capacidad que decide si quien aprende usa bien la IA
-- [[equity-in-ai-education]] — Quién se beneficia y quién queda fuera
-- [[well-being]] — Ansiedad, estrés y el coste afectivo del estudio mediado por IA
-- [[misconceptions]] — Los modelos mentales que quien aprende trae a la IA
-- [[stakeholders]] — El otro lado del mismo campo: profesorado, líderes, diseñadores
-- [[assessment]] — Qué capacidades de quien aprende se hacen visibles alguna vez
-
-## Artículos conectados
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Los patrones de dependencia y la alfabetización evaluativa dividen los resultados del estudiantado
-- [[student-perceptions-ai-study-productivity-2026]] — Quienes aprenden relatan ganancias de eficiencia junto a preocupaciones por la dependencia
-- [[student-llm-interaction-taxonomy-review-2026]] — Una taxonomía de la interacción estudiantado-LLM orientada al aprendizaje
-- [[student-ai-conversations-cognitive-engagement-2026]] — Patrones específicos de cada disciplina en los chats entre estudiantado e IA
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ganancias de rendimiento asistido sin capacidad independiente
-- [[genai-performance-vs-learning]] — Por qué el rendimiento asistido y el aprendizaje sin asistencia deben medirse por separado
-- [[shaw-nave-cognitive-surrender-2026]] — La rendición cognitiva como disposición, no como accidente
-- [[metacognitively-discordant-completion-genai-2026]] — Quienes aprenden que se dan cuenta de que no entienden y entregan de todos modos
-- [[verification-quality-reliance-calibration-genai-2026]] — Calidad de la verificación y calibración de la dependencia
-- [[simulating-students-llm-review-2026]] — Estudiantes simulados: arquitectura, mecanismos y límites
-- [[stanbkt-bayesian-knowledge-tracing]] — Estimación de parámetros en la traza de conocimiento bayesiana
-- [[demographic-signals-llm-student-assessment-2026]] — Señales demográficas implícitas y explícitas en la evaluación basada en LLM
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Alfabetización en IA, implicación y capital psicológico
-- [[genai-student-experiences-uk-he-survey-2026]] — El estudiantado describe la atracción del mínimo esfuerzo
-- [[mulisa-students-genai-integrity-perspectives-2026]] — El estudiantado sobre si la IA generativa es una herramienta de trampa o un compañero de aprendizaje
-- [[munoz-misconduct-allegation-evidence-2026]] — Qué contienen realmente como evidencia los expedientes de acusaciones de mala conducta
-- [[wright-transcription-not-generation-2026]] — Reglas sobre IA demasiado amplias y el estudiantado al que atrapan
-- [[sharma-judgment-visible-genai-assessment-2026]] — La integridad como juicio evaluativo y no como cumplimiento
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Los costes emocionales y de equidad de la supervisión remota para el estudiantado

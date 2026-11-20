@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -44,8 +45,3 @@ Es ist ein allgemeiner Baukasten und kein Bildungsprodukt: nützlich für eine L
 ## Anmerkungen und Vorbehalte
 
 Die Plattform hat eine kostenlose Stufe, die jedoch credit-basiert ist: Konten erhalten 1.000 AI-Credits pro Monat, und Bauen, Bearbeiten, Bilderzeugung und KI-Funktionen in der App verbrauchen sie alle. Ein Abonnement ergänzt die Möglichkeit, weitere Credits zu kaufen, die nicht verfallen. Jeder Kurs, der sich auf die Plattform stützen will, sollte die aktuellen Bedingungen prüfen, da die kostenlose Nutzung gemessen statt unbegrenzt ist, und von Lernenden erzeugte Apps als Inhalte behandeln, die eigene Fragen der Datenhandhabung aufwerfen.
-
-## Verbundene Konzepte
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

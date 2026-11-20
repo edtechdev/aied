@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -106,50 +108,3 @@ ai_assist:
 
 - نمونہ لینے میں سیکھنے والا/طالب علم کا فرق واضح رکھیں، اور بتائیں کہ اس سے کون خارج ہوتا ہے۔
 - صارف کے ساتھ ساتھ ملزم کا بھی مطالعہ کریں؛ طریقہ کار کا رخ اس ادب کا پتلا آدھا حصہ ہے۔
-
-## منسلک تصورات
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — سیکھنے والے AI کو کیسے سمجھتے، اس سے کیسے تعامل کرتے اور اس سے کیسے متاثر ہوتے ہیں
-- [[learner-identity]] — سیکھنے والے کسی شعبے اور AI کے حوالے سے کیا بن رہے ہیں
-- [[agency]] — سیکھنے والے اب بھی کس چیز پر کنٹرول رکھتے اور کیا چنتے ہیں
-- [[student-ai-interaction]] — سیکھنے والے AI سے درحقیقت کیا پوچھتے ہیں اور مکالمے کیسے نشوونما پاتے ہیں
-- [[cognitive-offloading]] — حد سے زیادہ انحصار اور سوچ کے بدلے AI کا استعمال
-- [[self-regulated-learning]] — اپنے سیکھنے کی منصوبہ بندی، نگرانی اور ایڈجسٹمنٹ
-- [[help-seeking]] — مدد اچھی طرح مانگنا، اور ناکامی کی صورتیں جب سیکھنے والے نہیں مانگتے
-- [[metacognition]] — یہ جاننا کہ کیا سمجھتے ہیں اور کیا نہیں
-- [[motivation]] — سیکھنے والے کیوں جاری رکھتے یا چھوڑ دیتے ہیں
-- [[self-efficacy]] — سیکھنے والوں کا اپنی صلاحیت پر اعتماد
-- [[student-engagement]] — رویے، جذبات اور علمی سطح پر شمولیت
-- [[prior-knowledge]] — وہ پس منظر علم جو طے کرتا ہے کہ معاونت سیکھنا بنے گی یا نہیں
-- [[student-modeling]] — نظام کے اندر سیکھنے والے کی نمائندگی
-- [[knowledge-tracing]] — وقت کے ساتھ مہارت کے حصول کا تخمینہ
-- [[simulating-students]] — LLM سے نقل کیے گئے سیکھنے والے بطور عارضی قائم مقام
-- [[ai-literacy]] — وہ صلاحیت جو طے کرتی ہے کہ سیکھنے والے AI اچھی طرح استعمال کرتے ہیں یا نہیں
-- [[equity-in-ai-education]] — کسے فائدہ اور کون رہ جاتا ہے
-- [[well-being]] — بے چینی، دباؤ اور AI کے واسطے سے پڑھائی کی جذباتی قیمت
-- [[misconceptions]] — سیکھنے والے AI کے بارے میں جو ذہنی ماڈل ساتھ لاتے ہیں
-- [[stakeholders]] — اسی میدان کا دوسرا رخ: اساتذہ، رہنما، ڈیزائنرز
-- [[assessment]] — سیکھنے والے کی کون سی صلاحیتیں کبھی نظر آتی ہیں
-
-## منسلک مضامین
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — انحصار کے نمونے اور جانچ کی خواندگی طلبہ کے نتائج کو تقسیم کرتی ہے
-- [[student-perceptions-ai-study-productivity-2026]] — سیکھنے والے کارکردگی کے فوائد کے ساتھ انحصار کی فکریں بھی بتاتے ہیں
-- [[student-llm-interaction-taxonomy-review-2026]] — سیکھنے پر مرکوز طالب علم–LLM تعامل کی درجہ بندی
-- [[student-ai-conversations-cognitive-engagement-2026]] — طالب علم–AI چیٹ میں شعبے کے لحاظ سے مخصوص نمونے
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — معاونت والی کارکردگی میں فوائد، خود مختار صلاحیت کے بغیر
-- [[genai-performance-vs-learning]] — معاونت والی کارکردگی اور بلا معاونت سیکھنے کو الگ الگ کیوں ناپنا ضروری ہے
-- [[shaw-nave-cognitive-surrender-2026]] — علمی سپردگی بطور رجحان، حادثہ نہیں
-- [[metacognitively-discordant-completion-genai-2026]] — وہ سیکھنے والے جو سمجھ نہ آنے کو محسوس کر کے بھی جمع کرا دیتے ہیں
-- [[verification-quality-reliance-calibration-genai-2026]] — تصدیق کا معیار اور انحصار کی کیلبریشن
-- [[simulating-students-llm-review-2026]] — نقلی طلبہ: ساخت، میکانزم اور حدود
-- [[stanbkt-bayesian-knowledge-tracing]] — Bayesian علمی سراغ کاری میں پیرامیٹر کا تخمینہ
-- [[demographic-signals-llm-student-assessment-2026]] — LLM پر مبنی جانچ میں مضمر اور اظہری آبادیاتی اشارے
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI خواندگی، شمولیت اور نفسیاتی سرمایہ
-- [[genai-student-experiences-uk-he-survey-2026]] — طلبہ کم سے کم کوشش کی کشش بیان کرتے ہیں
-- [[mulisa-students-genai-integrity-perspectives-2026]] — طلبہ کے نزدیک GenAI دھوکے کا اوزار ہے یا سیکھنے کا ساتھی
-- [[munoz-misconduct-allegation-evidence-2026]] — بدعنوانی کے الزام کی فائلوں میں بطور ثبوت درحقیقت کیا ہوتا ہے
-- [[wright-transcription-not-generation-2026]] — حد سے زیادہ گیرندہ AI قواعد اور وہ طلبہ جنھیں یہ پکڑتے ہیں
-- [[sharma-judgment-visible-genai-assessment-2026]] — دیانت بطور تشخیصی فیصلہ، تعمیل کے طور پر نہیں
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — طلبہ کے لیے ریموٹ پروکٹرنگ کے جذباتی اور مساواتی اخراجات

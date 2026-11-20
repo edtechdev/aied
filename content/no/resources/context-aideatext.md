@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [socratic-method, knowledge-graph, metacognition, scaffolding, formative-assessment, speech-and-voice-technologies]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -47,12 +48,3 @@ Studenter som arbeider seg gjennom en tekst eller et oppgavesett og vil bli stil
 ## Merknader og forbehold
 
 Ingen pris eller konto publiseres for det elevrettede verktøyet, mens institusjonell distribusjon – sky, lokalt eller hybrid – tilbys via et skreddersydd forslag og et møte; behandle «gratis» som tilstanden til den offentlige demoen i november 2026, ikke en garanti. Tekst og bilder går til en hostet tjeneste drevet av Claude, og nettstedet sier selv til brukere at de skal fjerne navn, beløp, adresser og firmanavn før opplasting, noe som flytter avidentifiseringsbyrden til den som laster opp i stedet for til plattformen. Økter sletter seg selv etter én time med mindre de eksporteres. Selskapet bak markedsfører også en bredere vurderingsplattform for resonnementsgrafer til institusjoner, og påstandene om å skille deduktive, induktive, abduktive og analogiske grafer kommer fra fire referansetekster – nettstedet kaller det en demonstrasjon, med validering i skala som fortsatt gjenstår.
-
-## Tilknyttede begreper
-
-- [[socratic-method]]
-- [[knowledge-graph]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[speech-and-voice-technologies]]

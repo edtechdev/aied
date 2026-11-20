@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -72,40 +74,3 @@ ai_assist:
 **«Додавання ШІ до наявного дослідницького уроку не може зашкодити.»** Може, і порівняння, яке показує користь, вужче, ніж здається. [[context-based-ai-secondary-chemistry-2026|Abdikayumova і Madybekova]] поєднали **інструкційну модель 7E** з симуляціями PhET *і* тьюторінгом ChatGPT для хімії 10-го класу та виявили суттєво вищі навчальні здобутки й залученість, ніж за лише дослідницького або конвенційного навчання. Впливовим чинником є структурована комбінація — інструкційна модель плюс симуляції плюс тьюторінг, — а не сам чат-бот, і чат-бот, доданий до неструктурованого дослідження, цим результатом не перевірений.
 
 **«Хімія — предмет, де відповідь можна перевірити, тож помилки ШІ нешкідливі.»** Саме перевірювані відповіді дають змогу хибному міркуванню пройти непоміченим: здобувач, який отримує правильне значення від моделі, що міркувала погано, не має способу виявити цю нестачу, і оцінювання фіксує успіх. У кількісній дисципліні верифікована кінцева точка — це найслабше з доступних свідчень розуміння.
-
-## Пов’язані поняття
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Освіта з біології та ШІ: помічники в лабораторних заняттях, ШІ-грамотність у біології, критичне мислення, спеціалізовані інструменти
-
-## Пов’язані статті
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Систематичний огляд ШІ в освіті з природничих наук/хімії
-- [[unesco-ai-guidelines-chemical-education-2026]] — Перенесення настанов ЮНЕСКО щодо ШІ на хімічну освіту
-- [[context-based-ai-secondary-chemistry-2026]] — Контекстно-орієнтоване навчання + ШІ в середній хімічній освіті (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — Проєктування експериментів за підтримки ШІ в практичній хімії
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Ролі викладача та ШІ в формативному оцінюванні з підсиленням ChatGPT
-- [[philosophy-experimentation-ai-chemistry-2026]] — Філософія експериментування в хімії з ШІ
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

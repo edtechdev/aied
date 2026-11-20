@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,11 +53,3 @@ Mwongozo huu ni mkweli kuhusu hali yake yenyewe. Waandishi huita maingizo hayo d
 Mipaka miwili zaidi ni muhimu kwa ufundishaji. Mapendekezo ni vichocheo vya kubuni, si hatua zilizojaribiwa; hakuna chochote kwenye tovuti kinachoripoti matokeo. Na muundo wa makundi ya umri unaweka gridi isiyo finyu juu ya maendeleo yanayotofautiana ndani ya makundi, kati ya tamaduni na kati ya miktadha, jambo ambalo mwongozo wenyewe unakubali.
 
 Mfumo unaostahili kupelekwa kwenye mazoezi ni ule wa tovuti yenyewe: hifadhi mzunguko uwe wa binadamu, kisha tambua mahali AI inafaa ndani yake, badala ya kuweka kituo cha ukaguzi cha binadamu ndani ya mzunguko ambao ni wa mashine — wasiwasi ule ule ambao hifadhi ya maarifa inaurekodi kama hatari ya [[cognitive-offloading|kupunguza mzigo wa kiakili]] pale chombo kinapochukua sehemu ya kazi iliyokuwa ikifanya kazi ya maendeleo.
-
-## Dhana zinazohusiana
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -126,36 +128,3 @@ Bu çürütmeler kasten [[refutation-text]] biçiminde yazılmıştır, böylece
 - **“Öğretmenlerin yanlış kanıları kanıt sunularak düzeltilebilir.”** **123 İtalyan eğitimciyle** yapılan bir pilot çalışmada anlaşmazlık en çok **bilişsel öğrenme stillerinde (öğretmenlerin %78’i görsel/işitsel eşleştirmeyi savundu)**, kapsama ve grup çalışmasında (%68) ve EdTech aşırı yüklemesinde (%54) kümelenmiştir. En güçlü anlaşmazlıklar kanıta en dirençli olanlardır; [[refutation-text|çürütme]] metninin iddiayı geride bırakması bu nedenledir.
 - **“Öğretmenlerin kanıta yönelik itirazları tümüyle dirençtir.”** Aynı maddeler, **kanıtı yeniden sunmadan önce öğretmenin bağlamını doğrulayan** konuşma tabanlı bir YZ aracılığıyla sunulduğunda, **itirazların %41’i gerçek bağlamsal kısıtlarla** ilgili olmuştur: sınıf mevcudu, özel gereksinimler, müfredat talepleri. Görünen yanlış kanının önemli bir bölümü isabetli bir itirazdı.
 - **“Yanlış kanılar diyalogdan güvenilir biçimde tespit edilebilir.”** **İstemle üretilen 241 segmentten 221’i (%91,7) uzman çoğunluk oyuyla stratejik yanlış kanı olarak onaylanmıştır (Fleiss’in κ = 0,9487)** ve gruplar arasında **anlamlı fark yoktur**. Yüksek güvenilirlik, uzman yargılaması altında ulaşılabilir ve iddianın bağlı olduğu koşul budur.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Özgül bir benimsenen inançla yüzleşen kavramsal değişim dizileri
-- [[learners]] — Öğrenenler: öğrenci tarafı kavramlar için şemsiye
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Bağlı makaleler
-- [[rudolph-ai-myths-critical-higher-ed]] — Reklam avutucularına inanmayın: sekiz YZ miti ve yükseköğretimde eleştirel bir yaklaşım ihtiyacı
-- [[student-rationalization-ai-writing]] — YZ Yazımının Öğrenci Rasyonalizasyonu
-- [[genai-skill-bypass-literacy]] — Üretken YZ Beceri Baypası ve Okuryazarlık
-- [[trust-reliance-ai-education-2026]] — YZ Eğitiminde Güven ve Bağımlılık
-- [[contextual-sycophancy-ai-literacy]] — Bağlamsal Yaltaklanma ve YZ Okuryazarlığı
-- [[sycophantic-ai-social-interaction-2026]] — Sosyal Etkileşimde Yaltak YZ
-- [[llm-fallacy-misattribution]] — YZ Safsata Yanıltması (Kim ve ark.)
-- [[student-reception-genai-analogies-computing-2026]] — Kusurlu ama Akılda Kalıcı: Bilgisayar Eğitiminde İlgi-Kişiselleştirilmiş Üretken YZ Benzetmelerinin Öğrenci Eleştirel Algısı
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: olgusaldan çok kavramsal olarak yanlış olan akıcı, yetkili açıklamalar (Miličević ve ark. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Teslim edilen bir dosyadaki gizli talimatlar, hiçbir görünür uyarı olmaksızın YZ puanlı bir notu yükseltebilir (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Çocukların YZ güvenliği yanlış kanıları: bir robotla arkadaşlığın mahremiyet garantisi olarak yanlış okunması (Leisten ve ark. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -177,50 +179,6 @@ Yang dapat dibawa melintasi adalah disposisi, bukan hasil: sebutkan peran AI dal
 - **"Makalah LLM dan makalah perangkat lunak dievaluasi sama baiknya."** Sejak 2023, **38.0% makalah perangkat lunak dan produk tidak melaporkan evaluasi sama sekali, dibandingkan 9.3% makalah LLM**. Kesenjangannya besar dan berlawanan dengan asumsi bahwa perkakas yang lebih baru diuji kurang ketat.
 - **"Stratifikasi berdasarkan tugas memperbaiki kesenjangan itu."** **Kesenjangan itu bertahan setelah stratifikasi**: dalam penyaringan dan seleksi, makalah perangkat lunak rata-rata **3.2 butir evaluasi substantif dengan 39.3% melaporkan tidak ada**, sementara makalah LLM rata-rata lebih banyak. Perbedaannya adalah sifat sistematis dari kelas makalah, bukan dari tugasnya.
 - **"Evaluasi yang positif berarti alur kerja itu memenuhi standar yang dimaksudkan."** Di antara **118 makalah LLM dengan evaluasi positif semata, 52% tetap melaporkan setidaknya satu kekhawatiran bahwa alur kerjanya berada di bawah standar yang dibutuhkan untuk perannya**. Separuh dari evaluasi positif itu memuat penyangkalan atas dirinya sendiri.
-
-## Konsep terkait
-
-- [[research-methods-aied]] — payung bagi rancangan yang dipakai untuk mempelajari AI dalam pendidikan
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Artikel terkait
-
-- [[ai-methodologies-science-education-research-2026]] — kerangka reflektif tujuh fase tentang bagaimana metodologi AI dapat mengubah penelitian pendidikan sains (Martin dkk., 2026)
-- [[scaffolding-systematic-reviews-2026]] — catatan satu tim tinjauan interdisipliner tentang pendampingan dan integrasi AI yang selektif (Wang dkk., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — bagaimana 28 mahasiswa pascasarjana memakai GenAI di sepanjang alur kerja penelitian, dan pedoman yang mereka sarankan (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — audit berskala bidang atas referensi yang difabrikasi dalam literatur pendidikan komputasi (Denny dkk., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — kerangka pelaporan untuk tinjauan sistematis berbantuan AI, dan celah akuntabilitas yang didokumentasikannya (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — laporan lokakarya CHIIR 2026 tentang AI generatif dan pencarian akademik (Liu, Arguello, Hoeber dkk., 2026)
-- [[persistent-ai-agents-academic-research]] — studi kasus satu peneliti tentang agen persisten di ruang kerja penelitian (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — bukti bibliometrik bahwa penulisan berbantuan AI menyertai tim peneliti yang lebih kecil dan lebih muda (Wang dkk., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — tolok ukur 30 hari yang mengevaluasi agen tutor terhadap pembelajar simulasi (Lee dkk., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — simulator neuro-simbolik yang mereproduksi pergulatan pemula yang sungguh-sungguh (Wang dkk., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — mengapa simulator meninggalkan miskonsepsi di bawah umpan balik apa pun, dan bagaimana pelatihan memperbaikinya (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — audit teregistrasi yang memakai pembelajar simulasi tetap untuk menguji apakah kebermanfaatan mengukur pedagogi (Fan dkk., 2026)
 
 ## Kutipan
 

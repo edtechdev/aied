@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -64,7 +66,6 @@ Satu studi menggantikan fasilitator alih-alih menambahkan alat di sampingnya. Da
 
 Dalam latar lapangan di luar ruang, imperatif yang sama menjadi spasial: GenAI dapat menstrukturkan lebih dulu apa yang diperhatikan pembelajar sebelum mereka menjumpai buktinya, sehingga urutan lapangan-dulu yang menahan penjelasan yang dihasilkan sampai observasi dan interpretasi awal dicatat akan melindungi inkuiri ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
 
-
 **Sebuah peta 66 studi menempatkan AI generatif di samping investigasi dan paling jarang pada orientasi.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] mengodekan penggunaan GenAI ke dalam lima fase inkuiri dan menemukan dukungan paling sering dilaporkan pada investigasi (45 studi, 68.2%), lalu kesimpulan (29, 43.9%), diskusi (28, 42.4%) dan konseptualisasi (27, 40.9%), dengan orientasi terakhir (20, 30.3%). Sebelas studi mencakup kelima fase, 19 mencakup satu fase, dan sembilan tidak menyebutkan fase mana pun. Hanya 8 studi (12.1%) mengukur keterampilan inkuiri, dan 4 di antaranya memiliki kondisi pembanding, sehingga ini adalah peta tentang di mana alat ditempatkan alih-alih tentang apa yang diperoleh inkuiri.
 
 ## Miskonsepsi umum
@@ -76,39 +77,3 @@ Dalam latar lapangan di luar ruang, imperatif yang sama menjadi spasial: GenAI d
 **"Inkuiri secara definisi tidak terstruktur."** Instruktur merancah, dan strukturnya terletak pada desain pertanyaan serta siklus refleksi, bukan pada penyampaian isi. Menghapus perancah tidak membuat inkuiri lebih autentik; ia membuatnya tanpa perancah.
 
 **"Pertanyaan yang dipimpin siswa akan tersusun baik jika siswa tertarik."** Menghasilkan pertanyaan yang dapat dikerjakan adalah keterampilan yang sedang dikembangkan, dan itulah sebabnya sistem yang menyuplai pertanyaan bagus telah mengerjakan keterampilan inkuiri yang justru menjadi tujuan aktivitas itu.
-
-## Konsep terkait
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Kegagalan Produktif
-
-## Artikel terkait
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT untuk pembelajaran berbasis inkuiri dalam STEAM (tinjauan sistematis)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbot GenAI dan pengajuan masalah dalam sains sekolah dasar
-- [[luo-ibl-patterns-llm-bloom-2026]] — Pola IBL dalam lingkungan yang digerakkan LLM (perspektif Bloom)
-- [[mujib-ai-ibl-creative-math-2026]] — IBL berbantuan AI dan kinerja matematis kreatif
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analisis GenAI dan berpikir tingkat tinggi
-- [[niri-steam-ai-literacy-review-2026]] — Pendidikan STEAM untuk literasi AI
-- [[kim-ai-productive-failure-adult-2026]] — Merancang Sistem AI untuk Mendukung Pembelajaran Berbasis Kegagalan Produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan Pedagogis LLM untuk Kegagalan Produktif
-- [[lukesova-clue-before-correction-2026]] — Petunjuk Sebelum Koreksi: ChatGPT untuk Pembelajaran Bahasa Mandiri
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Inkuiri terbimbing berbantuan AI dalam fotosintesis & respirasi (pendidikan guru sains)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Ekstraksi informasi bertenaga AI yang mendukung skripsi sarjana dan pembelajaran berbasis riset (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — Inkuiri Berbantuan AI dalam Isu Sosio-Ilmiah tentang Perubahan Iklim
-- [[geoscience-field-learning-genai-2026]] — Model instruksional lapangan-dulu yang mencegah GenAI menstrukturkan lebih dulu apa yang diperhatikan pembelajar (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Fasilitator manusia versus pembelajaran berbasis masalah yang dimediasi AI: perolehan isi setara, berpikir kritis lebih lemah tanpa fasilitator (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - Peta 66 studi tentang AI generatif di kelima fase inkuiri, dengan hanya 8 studi yang mengukur keterampilan inkuiri

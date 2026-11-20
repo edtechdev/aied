@@ -25,9 +25,8 @@ ai_assist:
 translation_of: concepts/ai-assisted-educational-research
 source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
-
-
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -108,7 +107,6 @@ Ushahidi uliohesabiwa kwamba uhakika unaweza kufikia uwekaji msimbo wa binadamu,
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] wanatoa mgawanyo wa kwanza wa moja kwa moja wa uwekaji msimbo wa kupunguza wa LLM dhidi ya binadamu, wakiweka ilani kwa mifano minne katika seli 240 za ubuni, safu 8,040 za data, na ilani 60,060 kwenye insha za dhana za nadharia. Utambulisho wa mfano ulitawala tofauti: partial eta-squared 0.19 ya tofauti ya uhusiano na F = 578.36 katika mfano wa upendeleo, wakati aina ya ilani haikuwa na umuhimu. Ubora ulitofautiana na bei — Claude Sonnet 4 ilitoa logit ya chini zaidi ya kosa la mfano (-1.90) dhidi ya -1.05 ya GPT-4.1 Mini, na Gemini 2.5 Pro iligharimu dola 178.13 lakini ikafanya vibaya kuliko GPT-4.1 Full kwa dola 56.77.
 
 [[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]] wanaweka ramani ya makubaliano ya uwekaji msimbo wa ngazi ya kiundwa kwa utaratibu, wakiendesha usanidi nane wa ChatGPT-4o dhidi ya wawekaji wawili wa binadamu waliopata mafunzo katika viundwa vitano katika mazungumzo ya wanafunzi na wakala wa kielimu. Kappa ya kujilinganisha ilikuwa 0.865–0.890 katika usanidi, wakati kappa ya binadamu–LLM ilifikia 0.000–0.419 pekee, hivyo uthabiti bila ulinganifu wa binadamu ni ishara ya uchunguzi inayoashiria utendaji wa kiundwa — chombo, si mfano.
-
 
 ## Uchanganuzi wa data na masuala ya kimtazamo wa maarifa
 
@@ -209,47 +207,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - **"Makala za LLM na za programu hupimwa kwa usawa sawa."** Tangu 2023, **38.0% ya makala za programu na bidhaa hazikuripoti tathmini yoyote, dhidi ya 9.3% ya makala za LLM**. Pengo ni kubwa na linapinga dhana kuwa zana mpya hujaribiwa kwa ukali mdogo.
 - **"Kugawanya kwa kazi kunarekebisha pengo."** **Pengo linaendelea baada ya kugawanya**: katika uchunguzi na uteuzi, makala za programu zilikuwa na wastani wa **vipengele 3.2 vya tathmini yenye maudhui huku 39.3% zikiripoti hakuna**, wakati makala za LLM zilikuwa na wastani mkubwa zaidi. Tofauti ni sifa ya kimfumo ya aina ya makala, si ya kazi.
 - **"Tathmini chanya inamaanisha mtiririko ulifikia kizingiti kilichokusudiwa."** Miongoni mwa **makala 118 za LLM zenye tathmini chanya pekee, 52% bado ziliripoti angalau wasiwasi mmoja kwamba mtiririko ulikuwa chini ya kizingiti kinachohitajika kwa jukumu lake**. Nusu ya tathmini chanya zilikuwa na kukanusha kwao wenyewe.
-
-## Dhana Zilizounganishwa
-
-- [[research-methods-aied]] — nyavu kwa miundo inayotumika kuchunguza AI katika elimu
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Makala Zilizounganishwa
-
-- [[ai-methodologies-science-education-research-2026]] — mfumo wa tafakari wa awamu saba kwa jinsi mbinu za AI zinaweza kubadilisha utafiti wa elimu ya sayansi (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — akaunti ya timu moja ya mapitio ya taaluma nyingi ya ushauri na ujumuishaji wa AI wa kuteua (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — jinsi wanafunzi 28 wa ngazi ya juu walivyotumia GenAI katika mtiririko wa kazi wa utafiti, na miongozo wanayopendekeza (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — ukaguzi wa kiwango cha uwanja wa rejeleo zilizotengwa katika fasihi ya elimu ya kompyuta (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — mfumo wa kuripoti kwa mapitio ya kimfumo yanayosaidiwa na AI, na pengo la uwajibikisho linalorekodi (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — ripoti ya warsha ya CHIIR 2026 juu ya AI ya kizazi na utafutaji wa kitaaluma (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — utafiti wa kesi wa mpelelezi mmoja wa wakala wa kudumu katika nafasi ya kazi ya utafiti (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — ushahidi wa mbinu za kichanganua kwamba uandishi unaosaidiwa na AI unafuatana na timu ndogo, za vijana (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — kipimo cha siku 30 ambacho huthimini mawakala wa mwalimu dhidi ya mwanafunzi aliyetengwa (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — kianzishaji cha neva-lugha kinachorudia mapambano halisi ya mwanafunzi (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — kwa nini vianzishaji huliacha dhana potofu chini ya maoni yoyote, na jinsi mafunzo yanavyosuluhisha (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — ukaguzi uliosajiliwa mapema unaotumia mwanafunzi dhaifu aliyetengwa ili kupima kama uaminifu hupima kielimu (Fan et al., 2026)

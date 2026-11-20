@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -59,7 +61,6 @@ Tinjauan sistematis dan meta-analisis dalam AI di bidang pendidikan melayani beb
 **Hitung rekaman, bukan studi, ketika tinjauan melaporkan frekuensi.** Dalam tinjauan cakupan yang menjangkau 31 studi dari 21.720 rekaman, lima studi menyumbang 62 dari 192 rekaman praktik, sehingga persentasenya menggambarkan materi yang diekstraksi alih-alih observasi independen atau prevalensi ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega dan Zhao (2026)]]).
 - **Mengidentifikasi moderator dan kondisi** — meta-analisis menguji apakah efek berbeda menurut [[learners|populasi pembelajar]], domain, jenis sistem AI, atau desain studi, sehingga menyingkap untuk siapa dan dalam kondisi apa sebuah alat berhasil. Namun moderator hanya sekuat studi di baliknya: dalam [[genai-writing-performance-meta-analysis-2026|meta-analisis 2026 atas penulisan L2 berbantuan GenAI]], satu-satunya moderator yang bertahan setelah kontrol metodologis adalah klasifikasi risiko bias studi, sementara perbedaan model instruksional yang tampak signifikan dalam analisis subkelompok kolaps begitu mutu studi dan ukuran sampel dimasukkan. Mutu metodologis, bukan pedagogi, yang membawa efeknya — sehingga moderator pedagogis yang tampak menjanjikan menuntut pengujian yang sama ketatnya dengan estimasi gabungan. Moderator nol membawa pelajaran yang sama secara terbalik. Dalam [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|meta-analisis Chen dan Wei atas teknologi digital dan AI untuk keterampilan bahasa asing]] (40 studi, 3.367 partisipan, g gabungan = 0,962), moderator yang bertahan adalah desain studi (eksperimen kuasi g = 1,019 berbanding eksperimen sejati g = 0,474), durasi intervensi, dan jumlah alat, sementara jenis keterampilan bahasa, jenis teknologi, jenjang pendidikan, latar, dan ukuran sampel tidak menunjukkan perbedaan antarkelompok yang signifikan, sehingga para penulis menyimpulkan bahwa efektivitas tidak dapat diatribusikan kepada label teknologi atau kategori keterampilan. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Meta-analisis Yu dan kolega atas pendidikan AI di K-12]] (16 studi, 57 ukuran efek, g = 0,892) menemukan ketiga moderator yang diujinya (sumber terbitan, tahun terbitan, jenjang sekolah) nol dan membaca heterogenitas sisanya (I2 = 94,68%) sebagai bukti bahwa bidang ini belum sepakat tentang bagaimana mengukur [[ai-literacy]] sama sekali. Ketika sebuah moderator kembali nol dan heterogenitas tetap tinggi, kesimpulan sintesisnya sering kali tentang konstruk hasil atau desain studi primernya, sama besarnya dengan tentang intervensinya.
 - **Menyingkap mutu metodologis** — tinjauan secara rutin menemukan bahwa bidang ini bersandar pada desain berdaya rendah, pra-eksperimental, atau kuasi-eksperimental dan pascauji langsung, sehingga meredam kesimpulannya.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) Pelaporan yang tipis tentang apa yang sebenarnya dilakukan adalah bagian dari gambaran itu, dan ia membatasi apa yang dapat dikatakan sintesis mana pun di kemudian hari: [[yalcin-genai-programming-education-systematic-review-2026|tinjauan sistematis Yalcin dan kolega atas GenAI dalam pendidikan pemrograman]] tidak dapat mengidentifikasi pendekatan instruksional pada 26 dari 46 studinya, dan 32 dari 46 itu muncul di prosiding konferensi, sehingga tinjauan hanya dapat mengode pedagogi untuk kurang dari separuh korpusnya dan berakhir dengan bukti dampak yang campur aduk (sebagian studi menunjukkan kinerja ujian dan pengodean yang membaik, sementara yang lain tidak menemukan perbedaan signifikan terhadap umpan balik instruktur). Sebuah sintesis mewarisi kebiasaan pelaporan bidangnya.
-
 
 Keandalan penyaringan dapat bergantung pada konstruk: dalam tinjauan cakupan PRISMA-ScR atas 123 studi GenAI, [[cognitive-offloading|ketergantungan kognitif]] dan [[agency|agensi pembelajar]], kesepakatan judul/abstrak (Fleiss' κ = 0,7103) turun ke κ = 0,4884 pada teks penuh, yang oleh para penulis diatribusikan pada batas interpretatif antara relevansi GenAI yang luas dan relevansi substantif terhadap mekanismenya ([[genai-cognitive-offloading-learner-agency-review-2026|Wang et al. (2026)]]).
 
@@ -118,7 +119,6 @@ Artefak yang sama muncul pada dimensi waktu. [[jing-genai-learning-outcomes-high
 
 **Meta-penelitian memperingatkan bahwa basis sintesis AIED saat ini lemah.** Sekumpulan kritik yang tumbuh mendokumentasikan bahwa ukuran efek AI yang menjadi judul bidang ini — terutama dari meta-analisis awal — digelembungkan oleh bias publikasi, ketidakkoherenan konstruk, dan jalan pintas metodologis. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], yang memeta-analisis 1.840 ukuran efek dari 67 meta-analisis, mengestimasi efek AI yang disesuaikan bias publikasi pada kira-kira sepertiga besaran yang dilaporkan (SMD ≈ 0,196), dengan heterogenitas ekstrem. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] mengaudit 14 meta-analisis AIED berdampak tinggi dan menemukan tidak satu pun memiliki konstruk yang koheren, penilaian bias publikasi yang sah, atau heterogenitas yang terselesaikan; dua belas memperlakukan ukuran efek dependen sebagai independen. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] menunjukkan bahwa sebagian besar perbandingan primer tidak memiliki perlakuan, kontrol, dan ukuran pembelajaran yang terdefinisi dengan baik. Ini berarti pembaca semestinya memperlakukan ukuran efek AIED gabungan sebagai batas atas sampai mutu sintesisnya membaik — lihat [[limitations-in-aied-research|Keterbatasan dalam Penelitian AIEd]] untuk analisis lengkapnya.
 
-
 Sebuah meta-analisis empat studi menunjukkan pelajaran yang sama dari sisi sampel kecil. [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor dan García Ortiz (2026)]] menggabungkan 420 siswa dari empat studi terkontrol tentang pembelajaran personal berbasis AI dalam bidang komputasi dan teknik dan melaporkan *g* = 1.01, 95% CI 0,33 hingga 1,68. Koreksi Hartung-Knapp, yang merupakan koreksi yang dapat dipertahankan pada jumlah studi sekecil itu, melebarkan interval menjadi −0,10 hingga 2,11 (*p* = .063), sehingga estimasi gabungan tidak lagi mengecualikan efek nol. Dengan *k* = 4, uji bias publikasi tidak dapat dijalankan sama sekali, dan kepastian GRADE dinilai sangat rendah. Menggabungkan empat studi menghasilkan estimasi yang tidak dapat menopang keputusan adopsi, seberapa besar pun tampaknya.
 
 - **Standar pelaporan belum mengikuti otomatisasi.** PRISMA-LLM menganalisis SciLitBench, korpus 888 makalah otomatisasi tinjauan dengan 14.726 anotasi, dan mendokumentasikan laju pertumbuhan mendekati 4,7% per bulan di samping celah akuntabilitas: sejak 2023, 38,0% makalah perangkat lunak dan produk tidak melaporkan evaluasi sama sekali, berbanding 9,3% makalah LLM, dan 52% evaluasi LLM yang hanya positif melaporkan kekhawatiran ambang tinggi yang belum terpenuhi. Karena pipeline LLM dan perangkat lunak kini berperan serta pada tahap-tahap yang dapat mengubah basis bukti, kerangka itu mensyaratkan pengungkapan di mana dalam alur kerja tinjauan otomatisasi beroperasi, apa yang dievaluasi, dan keterbatasan mana yang diperiksa — perluasan langsung dari masalah transparansi yang telah didokumentasikan [[limitations-in-aied-research|kritik tinjauan AIED]] bagi meta-analisis efek pembelajaran. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
@@ -155,56 +155,3 @@ Dalam lanskap metodologis basis pengetahuan ini, meta-analisis dan tinjauan sist
 - **"Efek gabungan yang signifikan berarti intervensinya berhasil."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Meta-analisis Yu dan kolega atas pendidikan AI K-12]] (**16 studi, 57 ukuran efek, g = 0,892**) menemukan efek besar, meskipun para penulis memberi kualifikasi. Enam belas studi adalah basis yang sempit, dan efek besar di atas basis itu adalah hipotesis dengan interval yang lebar.
 - **"Peninjau melaporkan mutu bidangnya secara akurat secara default."** Tugas sebuah tinjauan mencakup **menyingkap mutu metodologis**, dan tinjauan **secara rutin menemukan bahwa bidang ini bersandar pada desain berdaya rendah, pra-eksperimental, atau kuasi-eksperimental** dengan pascauji langsung. Angka gabungannya mewarisi kelemahan-kelemahan itu.
 - **"Pemaduan selalu menambah bobot pembuktian."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Meta-analisis Chen dan Wei]] atas **40 studi** untuk keterampilan bahasa asing memadukan teknologi yang sangat berbeda, dan rata-ratanya tidak menggambarkan satu pun intervensi spesifik yang dikandungnya.
-
-## Konsep terkait
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — Penelitian Pendidikan Berbantuan AI
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Artikel terkait
-- [[edurev-100741-tpack-genai-review]] — Tinjauan sistematis GenAI dalam pembelajaran siswa dari perspektif TPACK
-- [[genai-meta-analysis-programming-learning]] — Meta-analisis efek GenAI terhadap produktivitas dan pembelajaran dalam pemrograman
-- [[ai-vocational-education-training-review]] — Tinjauan sistematis pertama AI dalam pendidikan dan pelatihan kejuruan
-- [[ai-collaborative-learning-systematic-review]] — Tinjauan sistematis PRISMA atas pembelajaran kolaboratif berbantuan AI
-- [[genai-higher-education-systematic-review-2026]] — Tinjauan sistematis GenAI di pendidikan tinggi
-- [[zerkouk-comprehensive-review-its-2025]] — Tinjauan sistematis komprehensif atas sistem tutor cerdas
-- [[chatgpt-critical-creative-thinking-review]] — Tinjauan sistematis ChatGPT dan berpikir kritis/kreatif
-- [[stanford-evidence-base-ai-k12-2026]] — Basis bukti AI di K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analisis efek intervensi literasi AI
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analisis penulisan L2 berbantuan GenAI: efek gabungan besar yang tergerus heterogenitas ekstrem dan moderator yang digerakkan mutu
-- [[ai-literacy-heptagon-2026]] — Tinjauan literatur integratif atas dimensi literasi AI (berpanduan PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — Tinjauan sistematis GenAI dalam pendidikan layanan kesehatan berbasis skenario (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tinjauan pemetaan yang mengklasifikasikan 22 studi integrasi AI dengan FACETS + SAMR; sebagian besar berada pada Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Nilai dan norma etis bagi AI dalam pendidikan
-- [[li-language-educators-genai-review-2026]] — Praktik dan pengembangan pendidik bahasa dengan GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI untuk membantu penyandang disleksia dalam pendidikan
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dalam Pendidikan: Efek yang Mencari Sebab (kritik perbandingan media)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analisis: efek AI yang disesuaikan bias ~1/3 dari besaran yang dilaporkan
-- [[oneill-presumed-effective-meta-analysis-2026]] — Dianggap Efektif: audit forensik atas 14 meta-analisis AIED
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Intervensi guru dalam pembelajaran berbasis AI di K-12: sebuah tinjauan sistematis
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Meta-analisis alat digital dan AI untuk keterampilan bahasa asing: moderator desain lebih dari menggandakan estimasi efek kuasi-eksperimental
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-analisis GenAI di pendidikan tinggi: efek intervensi pendek kolaps seiring bertambahnya durasi
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-analisis pendidikan AI K-12: efek besar dengan moderator nol dan heterogenitas yang diatribusikan pada pengukuran
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Tinjauan sistematis GenAI dalam pendidikan pemrograman: pelaporan instruksional yang tipis pada 26 dari 46 studi
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — Tinjauan cakupan 123 studi yang memetakan GenAI, ketergantungan kognitif, dan agensi pembelajar di pendidikan tinggi
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Meta-analisis efek kecerdasan artifisial generatif terhadap hasil pembelajaran, kognitif, dan linguistik
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Penggunaan GenAI secara bertanggung jawab oleh siswa dalam penulisan akademik: tinjauan cakupan atas batas, pendekatan pendidikan, dan celah bukti
-- [[kim-ai-embodied-learning-review-2026]] — AI dalam pembelajaran berwujud sebagian besar hanya mengamati: peran penginderaan 62,5% dari tag peran terkode, dan tidak ada sistem yang ditinjau memadukan aliran multimodal saat pembelajar memakainya (Kim & Han 2026)
-
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Mengapa empat studi tidak dapat menopang keputusan adopsi
-

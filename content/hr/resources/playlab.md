@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -39,7 +40,3 @@ Nastavnici K-12 i okruzi koji žele razredne kontrole i utemeljenje u kurikulu b
 
 ## Napomene
 Pristup alatu za izradu je ograničen: stranica za početak traži e-adresu i mjesto na radionici za uvođenje ili pozivni kod. Njegove tvrdnje o usklađenosti (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), obećanje da vaš rad nikada ne trenira vanjske modele i pripisivanje prava na rezultate izrađivaču pripadaju sporazumu o obradi podataka, a ne samo marketinškoj stranici; njegova usporedba mogućnosti s MagicSchoolom i glavnim chatbotovima Playlabova je vlastita i datirana sredinom 2026. Izrastao je iz rada na programiranju za krajnje korisnike povezanog sa Scratchom i MIT Media Labom.
-
-## Povezani pojmovi
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

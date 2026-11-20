@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -92,42 +94,3 @@ ai_assist:
 **「AI はコンテンツをあまりに安くするので、OER は時代遅れになった」。** 逆の読み方が可能であり、よりよく支持されています。生成がほぼ無償なら、希少な財になるのはライセンス、帰属の記録、査読のプロセス、そして維持されたプラットフォームです。この文献が生産ではなく統治とインフラに収束するのはそのためです。
 
 **「オープンな課題に AI ツールを加えると学習が改善する」。** ここにある唯一の準実験的な検証では、両群の学生が技能の伸びを知覚し、両群の間に検出可能な差はなく、AI を使ったクラスでは完了率が高く得点はわずかに低いという結果でした。AI は学生が何を生み出すかを変え、学生が学んだと報告する内容を変えはしませんでした。
-
-## 関連する概念
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## 関連する記事
-
-- [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを組み込んだローカルAIでオープン教材を生成する物理教育へのアプローチ(Beznosko et al., 2026)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — テキストが語り返す：非同期型Composition IIにおけるチャットボットで拡張したOER(Powell et al., 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ：AI支援によるOER作成を探る教員中心の取り組み(Jordan et al., 2025)
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — 生成AIが制作工程に参入した後のOERに対する5つのフレーミング(Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — デジタル公共財としてのOERと、ガバナンスの効いたインフラストラクチャを求める議論(Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — 25年にわたるオープン化がなぜ制度の中層を無傷のまま残したのか(Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — 2つのコースセクションにおけるAIツールを用いる場合と用いない場合のオープン・ペダゴジー(Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — オープン教育実践の14モデルと、その中でAIが占める位置(Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 中国30省における教員のAIリテラシーとオープンな授業実践(Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — 責任あるOERとAIの統合に向けた7本の柱からなるフレームワーク(Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — 仮想ラボにおけるメンタリングとAI-OER制作(González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — AIリテラシーOERを審査するための7原則ルーブリック(Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — 知見ではなく設計上の主張としてのOERにおけるインタラクティブ性(Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — 手段的ケースとしてのオープン教育における国際協力(Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — 主張よりも強いベースラインに対して検証されたOER向けハイブリッド推薦手法(Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — 教育学的変革としてのオープン学習におけるデジタル・トランスフォーメーション(Panda, 2026)

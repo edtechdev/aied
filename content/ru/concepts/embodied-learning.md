@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -67,35 +69,3 @@ ai_assist:
 - **«Именно тело заставляет телесное обучение работать».** Метаанализ **11 исследований RALL (N = 595, g = 0,83, I² = 84,4%)** показал, что **морфология робота, модальность, автономность и социальная роль не модерировали** результаты [[language-learning|обучения второму языку]]. Признаки воплощения не были действующим началом, а гетерогенность была достаточно высокой (I² = 84,4%), так что объединённый эффект описывает весьма смешанный набор интервенций.
 - **«Большой эффект устанавливает механизм».** g = 0,83 при 595 участниках в 11 исследованиях — реальный сигнал, и он не выявляет, что его произвело. Поскольку особенности дизайна не модерировали эффект, правдоподобный механизм находится в педагогической деятельности, а не в оборудовании, — что меняет то, во что стоит вкладываться.
 - **«Воплощение нельзя измерить, поэтому оно остаётся теоретическим».** Отслеживание тела может превратить регуляцию в **измеримый сигнал**: в симуляции фотосинтеза в смешанной реальности, где метки движения перемещали агентов-студентов по проецируемой модели, конвейер на LLM разметил **470 сегментов** регуляторного поведения. Конструкт операционализируем даже там, где его трудно определить.
-
-## Связанные концепции
-
-- [[educational-robotics]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[distributed-cognition]]
-- [[computational-thinking]]
-- [[social-emotional-learning]]
-- [[learning-theories]]
-- [[multimodal]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — модальность, которая пытается напрямую использовать воплощение
-
-## Связанные статьи
-
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Симуляция фотосинтеза с отслеживанием движения, проанализированная конвейером на LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Мультимодальный фреймворк для воплощённого познания в устных объяснениях
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Формирование устойчивого обучения через воплощённый интеллект (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper и язык жестов
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Интеграция робота и LLM в креативном письме
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Метаанализ усиленного ИИ телесно-воплощённого роботизированного обучения языку
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[videla-embodied-ai-education-choreography]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — ИИ как фасилитатор после построенных руками моделей: языковой ИИ не может следовать телесному исследованию (Tufino & Damiani 2026)
-- [[kim-ai-embodied-learning-review-2026]] — ИИ в телесном обучении в основном наблюдает: сенсорные роли 62,5% закодированных тегов ролей, и ни одна рассмотренная система не объединяла мультимодальные потоки при работе учащихся (Kim & Han 2026)

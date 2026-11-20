@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -116,51 +118,3 @@ Phát triển lý thuyết và [[philosophy-of-ai-in-education|triết học AI 
 
 - Hãy thiết kế để có các tương phản cấu hình nếu bạn định đóng góp về lý thuyết. Một thử nghiệm hiệu ứng trung bình được công bố như phát triển lý thuyết là sản phẩm phổ biến nhất và ít hữu ích nhất của lĩnh vực.
 - Hãy gắn những mệnh đề có thể bác bỏ một cách tường minh vào bất kỳ khuôn khổ nào bạn giới thiệu, và báo cáo những khác biệt cấu hình nào sẽ bác bỏ chúng.
-
-## Khái niệm liên quan
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Bài viết liên quan
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Mở rộng phân loại chức năng: 90 trong 154 ấn phẩm phân loại được (58.4%) nằm ngoài bốn phạm trù ban đầu (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Một lý thuyết học tập tầm trung cho tương tác người–AI, với bốn cơ chế và sáu mệnh đề có thể kiểm chứng (Yan và Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Tổng quát hóa quá mức gây đánh lừa: việc thành thạo thích ứng có thể dừng luyện tập trước khi người học biết khi nào nên giữ lại một hành động (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Thuyết tạo sinh như một lý thuyết học tập mới
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Hướng tới một lý thuyết về đồng quyền chủ động tri thức luận
-- [[du-yuan-epistemic-dependence-2026]] — Quyền chủ động tri thức luận quan hệ và ranh giới giữa dựa vào có ích và phụ thuộc có hại (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Đường cơ sở nhận thức vắng mặt (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Tri thức chung và tái tạo chuyên môn
-- [[genai-performance-vs-learning]] — Hiệu năng so với việc học
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Năng lực AI tri thức luận (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Chứng chỉ và quản trị nhận thức
-- [[ai-cognitive-partner-co-regulation-learning]] — AI như đối tác nhận thức trong đồng điều tiết
-- [[epistemic-proactivity-math]] — Tính chủ động tri thức luận trong toán học
-- [[strydom-human-gai-paradigms-2026]] — Bảy hệ hình tham gia người–GAI được neo vào các niềm tin tri thức luận
-- [[critical-thinking-paradox-genai-learning-2026]] — Nghịch lý tư duy phản biện
-- [[dollinger-equitable-assessment-ai-2026]] — Đánh giá công bằng dưới GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ và đầu hàng nhận thức: cách AI định hình lại lý luận của con người (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Tái khái niệm hóa Cộng đồng tìm hiểu trong kỷ nguyên AI sinh tạo
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Trải nghiệm và nhận thức của giảng viên đại học về GAI: tổn thương, nghĩ lại về đánh giá, việc học của sinh viên bị đe dọa (Farazouli và cộng sự 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Triết học AI thay thế: Đạo giáo như phương pháp cho AI trong giáo dục
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: lược đồ dựa trên khẳng định để mã hóa có thể kiểm toán các cuộc đối thoại giáo dục
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Quyền sở hữu siêu nhận thức: định nghĩa cấu trúc, ranh giới và một chương trình nghiên cứu
-- [[synthetic-position-self-authorship-2026]] — Lập trường tổng hợp: một đề xuất về bản ngã đối thoại gọi tên thăng tiến tổng hợp và đình chỉ quyền tác giả, với một dự báo giao thoa
-- [[capability-decision-model-teacher-readiness-2026]] — Mô hình sẵn sàng của giáo viên ưu tiên năng lực, có thể bác bỏ, với bốn điều kiện phủ định
-- [[ai-connectedness-adolescent-mental-health-2026]] — Sự kết nối trí tuệ nhân tạo: một cấu trúc ba chiều với sáu mệnh đề có thể bác bỏ để kiểm chứng sau
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Chu trình đối tác nhận thức
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Khó khăn hữu ích và thất bại có ích áp dụng vào quyền chủ động diễn giải trong giáo dục du học
-- [[webb-pck-genai-2026]] — Ba vinjett và một cấu trúc mới, pseudo-cPCK, cho đầu ra bắt chước tri thức được tập thể xác thực mà không có bảo đảm (Webb et al. 2026)

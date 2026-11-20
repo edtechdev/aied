@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -80,28 +82,3 @@ SAMR on parasta ymmärtää integraatiosyvyyden linssinä, jota käytetään suu
 **"SAMR ja TPACK ovat kilpailevia viitekehyksiä."** Ne kuvaavat eri asioita: SAMR kuvaa tehtävän *muutoksen astetta*, kun taas [[tpack|TPACK]] kuvaa sitä *tietoa*, jota opettaja tarvitsee teknologian hyvään integrointiin. Opettaja voi olla hyvin TPACK-kykenevä ja toimia silti korvaamisen tasolla, minkä vuoksi kahta käytetään yhdessä eikä valita niiden väliltä.
 
 **"Työkalu, joka on muuttava yhdellä tasolla, on muuttava kaikilla tasoilla."** Sama generatiivinen työkalu voi tukea korvaamista yhdellä kurssilla ja uudelleenmäärittelyä toisella, koska taso on tehtäväsuunnittelun ominaisuus eikä teknologian ominaisuus. Tason liittäminen työkaluun tuottaa käyttöönottopäätöksiä suunnittelupäätösten sijaan.
-
-## Liittyvät konseptit
-
-- [[ai-education]] — Tekoäly koulutuksessa (yläkäsite)
-- [[tpack]] — Teknologis-pedagoginen aineenosasisältöosaaminen
-- [[technology-acceptance-model]] — Teknologian omaksumismallit
-- [[icap-framework]] — ICAP-viitekehys kognitiivisesta sitoutumisesta
-- [[ai-technologies]] — Tekoälyteknologiat ja -menetelmät
-- [[teacher-ai-competency]] — Opettajan tekoälykompetenssi
-- [[educational-development]] — Koulutuksen kehittäminen
-- [[learning-design]] — Oppimissuunnittelu
-- [[k-12]] — K-12-koulutus
-- [[higher-ed]] — Korkeakoulutus
-- [[generative-ai]] — Generatiivinen tekoäly
-
-## Liittyvät artikkelit
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Tekoälyn integrointi korkeakoulutuksessa arvioituna SAMRilla: pääosin korvaamista ja laajentamista
-- [[thermomix-genai-education-analogy-2026]] — ICAP ja SAMR neljän ruoanlaitosta oppimiseen ulottuvan skenaarion kartoituksessa
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR yhtenä linssinä GenAI-vetoiselle opetussuunnitelman muutokselle
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR yhtenä tiedekunnan teknologiastandardeja ohjaavista viitekehyksistä
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMRin humanistisen ontologian jälkihumanistinen kritiikki
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMRin vaikeneminen vallasta, datan omistajuudesta ja vastuuvelvollisuudesta
-- [[genai-use-changing-institutional-policy-physics-2026]] — Opiskelijoiden GenAI-käyttö muuttuvissa institutionaalisissa politiikoissa: käyttöfunktiot kartoittuina SAMR-tasoille (Quince & Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

@@ -18,6 +18,8 @@ ai_assist:
     date: "2026-11-03"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -75,23 +77,3 @@ foundations: [misconceptions]
 **"সঠিক ধারণা সম্পর্কে বেশি তথ্য প্রতিরোধ দূর করে।"** সঠিক তথ্যের পরিমাণই সেই হস্তক্ষেপ যা ইতিমধ্যে ব্যর্থ হয়। ধারণা-পরিবর্তনের জন্য শিক্ষার্থীর বিদ্যমান মডেলটিকে স্পষ্ট করা ও অপর্যাপ্ত বলে দেখানো দরকার, যা প্রমাণ যোগ করার চেয়ে ভিন্ন একটি শিক্ষাদান-চাল।
 
 **"ভুল ধারণা ও সাধারণ অজ্ঞতার একই প্রতিকার দরকার।"** তাদের ভিন্ন প্রতিকার দরকার: অজ্ঞতা জ্ঞান সরবরাহ করে মেটানো যায়, আর ভুল ধারণাকে আগে উৎখাত করতে হয়। দ্বিতীয়টিকে প্রথমটি হিসেবে দেখাই সেই কারণ, যার ফলে ভালোভাবে ব্যাখ্যা করা একটি পাঠও শিক্ষার্থীর মূল মডেল অক্ষত রেখে যেতে পারে।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — খণ্ডন-ক্রম, যার মধ্যে দুটি সরাসরি বিরোধী ফলও আছে
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## সংযুক্ত নিবন্ধ
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — বিশ্বাস সংশোধনে ব্যক্তিগতকৃত এআই সংলাপ বনাম পাঠ্যবই-খণ্ডন
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — বিশেষজ্ঞ/এআই ধারণা-পরিবর্তন পাঠ বনাম আন্তঃক্রিয় এআই সংলাপ
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — সহযোগিতামূলক শিখনের জন্য LLM-উৎপন্ন ভুল ধারণা
-- [[chatgpt-inoculation-training-verification-2026]] — নিকটবর্তী খণ্ডন-ধাঁচের হস্তক্ষেপ হিসেবে ইনোকুলেশন প্রশিক্ষণ
-- [[critical-genai-use-predictors]] — ধারণাগত ভুল ধারণা লক্ষ্য করতে খণ্ডন পাঠের সুপারিশ করে
-- [[ai-learning-companions-framework]] — এআই সহচর ও ভুল-ধারণা সংশোধন

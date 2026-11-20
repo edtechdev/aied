@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -82,38 +84,3 @@ Logika yang sama menjelaskan mengapa kehadiran tidak otomatis baik. Mabuk gerak,
 - **"Merasakan fenomena berarti memahaminya."** Sebuah uji coba menemukan siswa melaporkan **merasakan** panjang gelombang dan amplitudo melalui gerakan tangan lebih kuat daripada melalui slider — tetapi **studi itu mengukur persepsi, bukan capaian**. Rasa yang dirasakan itulah affordance-nya, dan apakah ia menghasilkan pemahaman adalah uji yang terpisah.
 - **"Skor keterpakaian yang tinggi memvalidasi alat VR pendidikan."** Dalam **sesi satu jam dengan 10 siswa** pada Meta Quest 3, studi itu melaporkan **keterpakaian yang baik pada System Usability Scale dan mabuk simulasi yang minimal**. Keterpakaian dan kenyamanan adalah prasyarat dan keduanya bukan ukuran pembelajaran.
 - **"Kesepakatan siswa adalah bukti affordance."** Dengan **29 mahasiswa pencitraan medis tahun kedua**, seluruh 29 **setuju bahwa gerakan itu membantu mereka "merasakan" apa itu panjang gelombang (rata-rata 4.52)**. Kesepakatan bulat tentang sebuah rasa adalah laporan diri tentang pengalaman, dan klaim affordance membutuhkan hasil yang tidak bergantung pada penilaian siswa atas pemahamannya sendiri.
-
-## Konsep terkait
-
-- [[simulation]] — apa yang biasanya ditampilkan lingkungan imersif; modelnya, bukan modalitasnya
-- [[embodied-learning]] — mekanisme yang seharusnya dimanfaatkan modalitas ini
-- [[multimodal]] — gerakan, suara dan masukan spasial sebagai saluran belajar
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — latar tempat praktik imersif paling mapan
-- [[generative-ai]] — lapisan penulisan yang baru
-- [[prompt-engineering]] — bagaimana non-pemrogram membangun dan menyempurnakan alat imersif
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — membumikan bimbingan di dalam headset
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — kesetiaan, dan kesadaran siswa akan batasnya
-- [[cognitive-offloading]] — latensi dan ketidakstabilan sebagai beban ekstraneus
-- [[edtech-platform]] — sinkronisasi, latensi dan kehadiran multi-lokasi
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artikel terkait
-
-- [[genai-ar-physics-simulation-prompt-2026]] — prompt empat elemen yang menghasilkan simulasi fisika AR terkendali tangan; uji coba 29 siswa, bukti persepsi saja
-- [[mixed-reality-engineering-learning]] — aplikasi realitas campuran vs perangkat fisik vs kelas dalam mekanika teknik; keterlibatan naik, visualisasi kompleks tetap sulit
-- [[medgame-llm-medical-education-gamification]] — pelatihan medis tergamifikasi dengan AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — skenario meja tertambah dalam pendidikan keamanan siber
-- [[genai-xr-architectural-design-education-2026]] — AI Generatif dan Extended Reality dalam Pendidikan Desain Arsitektur Kolaboratif: Studi Studio Eksploratif
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: studio desain VR imersif dengan asisten pengajar berbasis LLM, dievaluasi terhadap PBL tradisional (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: pengajaran multimodal berbantuan LLM dalam pendidikan tata cahaya panggung VR, dan di mana pembumiannya gagal (Liang et al. 2026)

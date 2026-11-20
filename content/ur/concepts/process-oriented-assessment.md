@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -44,7 +46,6 @@ ai_assist:
 
 سب سے واضح ڈیزائن الفاظ Thapa اور Lewis سے آتے ہیں، جن کے چار عہد دلیل کو ٹاسک کے ڈیزائن میں لے جاتے ہیں: عکاسانہ جواز، مرحلہ وار ٹاسک ڈیزائن، مکالماتی مشغولیت، اور تشخیصی شفافیت۔ عملی طور پر طلبہ نتائج پیش کرنے کے بجائے تشریحی فیصلوں کی وضاحت کرتے ہیں، ایسا کام جمع کراتے ہیں جو چوکیوں کے پار پروان چڑھتا ہے، اپنے استدلال کے بارے میں [[oral-assessment|زبانی یا مکالماتی]] تبادلوں میں حصہ لیتے ہیں، اور ایسے معیار کے مطابق کام کرتے ہیں جنہیں وہ خود لاگو کر سکیں — یعنی [[feedback-literacy|فیڈبیک خواندگی]] اور [[self-assessment]] کا میدان۔ Boysen (2026) کی تجویز برائے کھلی سیکھنے کی مشقیں اِسی منطق کو آڈٹ ٹریل میں ڈھالتی ہیں: پروجیکٹ شروع ہونے سے پہلے طے شدہ مشترکہ سیکھنے کا منصوبہ، لازمی اور ممنوع ماخذوں کے نام بتانے والا سیکھنے کے تجزیے کا منصوبہ، اور دستاویزی مسودے اور نسخہ جات کی تاریخیں، جنہیں Track Changes اور محفوظ فائل نسخوں کے ذریعے محفوظ رکھا جاتا ہے، جو کام کے عمل کو ظاہر کرتی ہیں اور بتاتی ہیں کہ ہر نظرثانی کو کیا معلومات ملیں۔ وہ اِسے [[self-regulated-learning|خود ضابطگی]] کو نظر آنے والا بنانا کہتے ہیں۔
 
-
 عمل کے ثبوت کے لیے چنا گیا ذریعہ بدل دیتا ہے کہ کیا ثابت ہو سکتا ہے: ایک ہی 79 طلبہ والے جنریٹیو AI مطالعے میں، زیادہ گہرائی والی نگرانی اور منصوبہ بندی بلند آواز سوچنے والی اکائیوں میں زیادہ عام تھی جبکہ زیادہ گہرائی والی ضابطگی تفاعل لاگز میں زیادہ عام تھی، چنانچہ کوئی واحد ریکارڈ پورا عمل نہیں پکڑتا ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]])۔ نشانات اسکوروں سے یکسر ہٹ بھی سکتے ہیں: 150 طالب علم–AI گفتگوؤں میں، 41% کے ساتھ اسائنمنٹ کا اسکور بالکل 1.00 تھا جبکہ قابلِ مشاہدہ علمی شرکت مختلف تھی، چنانچہ میل کھاتے اسکور مختلف عمل چھپا سکتے ہیں ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]])۔ DraftTrace AI سے مربوط تحریر کے لیے اِسی مسئلے کا جواب کی اسٹروک کی سطح کے عمل کی پیمائش کو حتمی مصنوع اور AI تفاعل کے نشانات کے ساتھ ہم آہنگ کر کے دیتا ہے، اور دکھاتا ہے کہ نقلِ تحریر صرف اُس وقت شناخت ہو سکتی ہے جب مصنوع اور عمل کو ساتھ پڑھا جائے ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]])، جو اُس رویے کے نشان والی پیمائش کی ٹھوس مثال ہے جو میدان میں ابھی تک نہیں۔
 
 عملی اور فریم ورک والے بیانات اشیاء کو مکمل کرتے ہیں۔ Uden اور Hwang (2026) کا LEARN فریم ورک، جو [[problem-based-learning|مسئلہ پر مبنی سیکھنے]] کی [[assessment]] کو نشانہ بناتا ہے، عمل پر مرکوز ربریکس، زبانی جواز، مرحلہ وار جمع کرائیاں، اور [[ai-use-disclosure|AI استعمال کی افشا]] کے ساتھ استدلال کے نشانات مانگتا ہے، اور سیکھنے کے جرنلز اور بلند آواز سوچنے کے پروٹوکول کے ذریعے غور و فکر کو ترتیب کا [[metacognition|میٹا کوگنیشن]] انجن سمجھتا ہے۔ Moganadas اور ساتھی (2026) AI کے لحاظ سے شفاف، عمل پر مبنی جانچ کو پانچ قابلِ تحقیق تجاویز میں سے ایک بناتے ہیں، جس میں ممانعت یا پکڑنے والے آلے کے بجائے دستاویز کاری، تصدیق اور عکاسانہ جواز لازم ہے۔ Padhy (2026) نظرثانی کی تاریخ، تفاعل کے نمونے اور ٹاسک پر صرف وقت درج کرنے کی سفارش کرتا ہے، ساتھ میں شفاف افشا۔ Goldstein، Marae-Haj اور Zidan (2026) بتاتے ہیں کہ [[trust]] کے بحران کے بعد عملی میدان سے وہی اشیاء ابھریں: پرامپٹ ریکارڈز، دستاویز کے نسخے کی تاریخ، نگران شدہ گروپ شراکتیں، اور جسمانی نوٹ بکس میں رکھے عکاسانہ "سفر کے جرنل" — ساتھ میں یہ سادہ دریافت کہ گھر پر لکھا جانے والا تحریری کام اب سیکھنے کا ثبوت نہیں رہا۔
@@ -54,7 +55,6 @@ ai_assist:
 لازمی دستاویز کاری کورس کے پیمانے پر ممکن ثابت ہوئی: چھ سمسٹروں کے چھ ہفتوں والے غیر مطابقت پذیر گریجویٹ تحقیقی طریقوں کے کورسز میں، جو تقریباً 440 [[k-12]] اساتذہ کو خدمت دیتے تھے، چوکی کی جمع کرائیوں کی تکمیل اوسطاً 96% رہی، اور بعد کی تکراروں میں جب واضح پرامپٹ سانچے شامل کیے گئے تو غور و فکر لمبے اور نمایاں طور پر زیادہ ٹھوس بنے ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]])۔
 
 - **"عمل کے ثبوت کے لیے خصوصی جانچ نظام درکار ہے۔"** اِس میں سے کچھ تو ایک دوپہر کی آلہ کاری ہے: **77** کالج مضمون لکھنے والوں کے مطالعے نے CodeMirror ایڈیٹر استعمال کیا جو اندراج، حذف، انتخاب، کٹ، کاپی اور پیسٹ کو وقت کے نشان کے ساتھ درج کرتا تھا، ساتھ میں ڈیفالٹ API پر گھر کا بنایا چیٹ پینل، اور **361** پیغامات پکڑے۔ اِنہی نشانات نے دکھایا کہ منصوبہ بندی کے سوالات کے **14** جواب حتمی مضامین میں پیسٹ کیے گئے، جو مصنوع کی سطح کی کوئی رپورٹ ظاہر نہ کرتی۔ ایماندار حد خود آلے میں ہے: ٹائپ کیے گئے الفاظ طالب علم کے گنے جاتے ہیں چاہے وہ کسی جواب سے بدلے گئے ہوں، چنانچہ ٹائپنگ اور سوچنے کے درمیان حد نظر نہیں آتی۔ [[jelson-students-chatgpt-essay-writing-2026|عمل کو درج کرنا اُس کے لیے ڈیزائن کرنے سے سستا ہے]]۔
-
 
 **عمل کا نشان صرف اُس وقت فیڈبیک ہے جب سیکھنے والا اُسے ٹاسک کے حوالے سے پڑھے۔** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] نے گیارہ ترجمے کے طلبہ کو Inputlog اور اسکرین ریکارڈنگ کی [[visualization|بصریات]] کے ساتھ صرف ایک 30 منٹ کا عکاسانہ اجلاس دیا۔ معنی کی سطح کی نظرثانیوں کا حصہ 18.1% سے 28.4% تک بڑھا (t(10) = 4.259, p = 0.002) جبکہ کل نظرثانیاں نمایاں طور پر تبدیل نہیں ہوئیں، 1,292.91 سے 1,052.36 تک گریں (p = 0.248)۔ نشان نے طلبہ سے زیادہ تدوین نہیں کرائی، صرف مختلف کرائی، اور یہی ایک نتیجے میں عمل کے ثبوت کی دلیل ہے۔
 
@@ -87,43 +87,3 @@ Thapa اور Lewis کا بیان تصوراتی ہے: کوئی شرکاء نہی
 - **"زیادہ اسکور کا مطلب ہے کہ طالب علم نے وہ کام کیا جو ہم نے ڈیزائن کیا۔"** نشانات اسکوروں سے **یکسر ہٹ** سکتے ہیں: **150 طالب علم-AI گفتگوؤں** میں، **41% کے ساتھ اسائنمنٹ کا اسکور بالکل 1.00 تھا جبکہ قابلِ مشاہدہ علمی شرکت مختلف تھی**۔ اسکور اپنی انتہا کو پہنچ جاتا ہے جبکہ وہ عمل جو اُسے پیدا کرنا تھا، نہیں پہنچتا۔
 - **"عمل کا ڈیٹا پیمانے پر ناقابلِ انتظام ہے۔"** لازمی دستاویز کاری کورس کے پیمانے پر ممکن ثابت ہوئی، **چھ سمسٹروں کے چھ ہفتوں والے غیر مطابقت پذیر گریجویٹ تحقیقی طریقوں کے کورسز میں جو تقریباً 440 K-12 اساتذہ کو خدمت دیتے تھے**۔ لاجسٹکس حل ہو سکتی تھیں؛ اعتراض قیمت کو بڑھا چڑھا کر پیش کرتا ہے۔
 - **"مسئلہ حل کرنا عمل سے جانچنے کے لیے حد سے زیادہ مجموعی ہے۔"** اِسے **چار مراحل اور آٹھ تشخیصی ذیلی مہارتوں** کے طور پر عملی شکل دی جا سکتی ہے، جس سے LLM **مرحلے کے مطابق سوالات اور ربریکس** پیدا کر سکتا ہے — **پانچ اساتذہ اور 64 طلبہ** کے ساتھ استعمال ہوا۔ تجزیہ ہی وہ چیز تھا جس نے عمل کو قابلِ فہم اور قابلِ جانچ بنایا۔
-
-## منسلک تصورات
-- [[pedagogical-patterns]] — مرحلہ وار چوکیاں اور عمل کا ثبوت بطور ترتیب وار ڈیزائن
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## منسلک مضامین
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — ایک تنقیدی بیانی جائزہ جو دلیل دیتا ہے کہ طے شدہ ناکامی AI معاونت ہے جو کبھی مدھم نہیں ہوتی اور ساتھ صرف مصنوع والی جانچ (Salameh 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — پہلے سال کی ڈگری اپرنٹس شپ میں درجہ بند، مشترکہ طور پر لکھا گیا عمل مضمون: ربریک میں تکرار اور تعاون، GenAI مقررہ حدود کے اندر اجازت یافتہ (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — کارکردگی سیکھنا نہیں: عمل کے پیمانوں پر بنایا گیا تحقیقی ایجنڈا (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — اساتذہ کے مربی AI کے خلاف مزاحم، جواز اور غور و فکر پر بنے عمل پر مبنی ٹاسک مانگتے ہیں (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — تشریح شدہ فیصلوں کے نشان، زبانی دفاع، اور مسودوں کا فرق جو نظر آنے والے فیصلے کے لیے چنے گئے
-- [[munoz-misconduct-allegation-evidence-2026]] — بدانتظامی کے کیس فائلوں میں کیا ہوتا ہے، اور اُن میں کون سا عمل کا ثبوت نہیں
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — جانچ کا ثبوت بدلے جانے پر کون سا استنباط خطرے میں ہے
-- [[beyond-detection-authentic-assessment-ai-2025]] — مستندیت کو دوبارہ ڈیزائن کرنا ہوگا، پہرہ داری نہیں
-- [[authentic-products-authenticated-processes-2026]] — مستند مصنوعات اور وہ عمل جنہوں نے اُنہیں پیدا کیا
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحان بطور AI کے خلاف مزاحم فارمیٹ جو استدلال کو زندہ کرتا ہے
-- [[thapa-lewis-process-oriented-assessment-2026]] — علمی مستندیت اور عمل پر مبنی جانچ کے پیچھے چار ڈیزائن عہد (Thapa & Lewis 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — ذریعے کے لحاظ سے مشروط عمل کا ثبوت: لاگز اور بلند آواز سوچنا مختلف عمل ظاہر کرتے ہیں
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: AI سے مربوط تحریر کے لیے کثیر المنظر تجزیاتی ماحول
-- [[epistemic-ownership-ai-mediated-education-2026]] — یکساں کارکردگی، مختلف عمل: AI کے ذریعے ہونے والی تعلیم میں علمی ملکیت
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM کے پیدا کردہ سوالات کے ذریعے طلبہ کی ریاضیاتی مسئلہ حل کرنے کی مہارتوں کی تشخیص میں اساتذہ کی معاونت
-- [[packard-thinking-partner-framework-adult-learners-2026]] — AI مکالمے کی چوکی دستاویز کاری چھ سمسٹروں اور تقریباً 440 اساتذہ میں 96% تکمیل پر رہی
-- [[rubrics-genai-process-based-assessment-2026]] — Biggs کے 3P ماڈل سے تین ربریک جہات: ایجنسی اور نگرانی، مکالماتی سہارا، علمی خودمختاری (Oviedo & Díaz 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — CodeMirror ایڈیٹر اور درج شدہ چیٹ پینل نے ایک مضمون کے اجلاس کو عمل کے ثبوت میں بدل دیا، اپنی ٹائپنگ بمقابلہ سوچنے کی حد کے ساتھ (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] - عمل کی بصریات اور ایک عکاسانہ اجلاس نے نظرثانی کو سطح سے معنی کی سطح پر منتقل کیا بغیر تدوین کا حجم بڑھائے

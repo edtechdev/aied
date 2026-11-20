@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -71,45 +73,3 @@ Erwachsenenbildung liegt an der Schnittstelle mehrerer eng verbundener Konzepte 
 - **„Ein gutes Werkzeug bedient erwachsene Lernende.“** Die Forschung fand **kein einziges KI-System für Erwachsenenlernen, das alle Designleitlinien erfüllte** — das gesamte Ökosystem war nötig. Erwachsene kommen mit Verpflichtungen, diskontinuierlichen Zeitplänen und heterogenen Zielen, sodass ein einzelnes Produkt den Designraum nicht abdecken kann.
 - **„Digitale Kompetenz lässt sich auf Erwachsenenniveau voraussetzen.“** [[community-centered-ai-education-adults|Eine Fallstudie aus dem Mittleren Westen]] ko-konstruierte ein KI-Kompetenzprogramm für **54 Erwachsene in einer unterversorgten Gemeinschaft** und fand, dass gerechtigkeitsorientierte KI-Bildung für Erwachsene **zuerst grundlegende digitale Kompetenz und Datenvertrauen** adressieren muss. Alter ist kein Proxy für digitale Flüssigkeit.
 - **„Übernahme ist ein Motivationsproblem.“** [[ai-literacy|KI-Kompetenz]] und [[trust|Vertrauen]] rund um Datenprivatsphäre müssen aufgebaut werden, bevor Übernahme erwartet werden kann. Bereitschaft folgt aus Zuversicht darüber, was mit den eigenen Daten geschieht, nicht aus Begeisterung für die Technologie.
-
-## Verbundene Konzepte
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Online-Lehre und -Lernen
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## Verbundene Artikel
-
-- [[ai-adult-learning-guidelines-dis2026]] — Leitlinien zur Gestaltung von KI-Technologien zur Unterstützung des Erwachsenenlernens
-- [[andragogy-cognitive-delegation-genai-2026]] — Was bleibt selbstgesteuert? Eine Neueinschätzung der Andragogik durch kognitive Delegation im KI-vermittelten Erwachsenenlernen
-- [[ai-lifelong-learning-policy]] — Künstliche Intelligenz im lebenslangen Lernen: Chancen und Herausforderungen in der Bildungspolitik für Erwachsene
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive und das Tutor-in-the-Loop-Rahmenwerk (TITL) für Gerechtigkeit in der Weiterbildung
-- [[community-centered-ai-education-adults]] — Co-Design gemeinschaftszentrierter KI-Bildung für Erwachsene: eine Fallstudie aus dem Mittleren Westen
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Neue Lernsysteme für Fernbildungseinrichtungen? Ein Review von sechs Studien zur Implementierung von AIDA
-- [[institutional-governance-ai-universities]] — Policy-Fragmentierung oder institutionelle Ausrichtung? Institutionelle Governance von KI in Universitäten und Business Schools
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative KI erweiterte Lernerfahrungen für computational thinking: ein systematischer Scoping Review und Designleitlinien
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Kartierung des entstehenden Curriculums für KI-gestützte Softwareentwicklung mittels Syllabus-Analyse
-- [[learner-ai-interaction-patterns-oop]] — Muster der Interaktion zwischen Lernenden und KI und akademische Leistung in einem Kurs zu objektorientierter Programmierung
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung Lernens auf Basis produktiven Scheiterns
-- [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Gestaltung für ein Spektrum von Engagement: tiefen sokratischen Dialog zum belohnenderen Weg machen

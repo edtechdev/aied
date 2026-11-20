@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [collaborative-learning, peer-assessment, ai-feedback-quality, formative-assessment, human-ai-collaboration, student-ai-interaction]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -47,12 +48,3 @@ Opettajille, jotka vetävät lähilukua, asiakirjatutkimusta tai mediatulkintaa 
 ## Huomioita ja varauksia
 
 Tilit ovat ilmaisia, ja asiakirjat voivat olla julkisia tai jaettuja kutsutulle ryhmälle. Tekoälykumppanit pyörivät OpenAI:n suurilla kielimalleilla, joten valitut kohdat ja kysymykset lähtevät alustan omasta isännöinnistä ja ovat kyseisen tarjoajan ehtojen alaisia – koulupiirin pitäisi lukea tietojenkäsittelyjärjestely ennen sen käyttöä alaikäisten kanssa. Tuotos on rajattu token-rajalla, jota sivusto sanoo yhä laajentavansa, kumppanihakemisto on kirjautumisen takana, ja tekoälypinnat ovat tuotteen nopeasti liikkuva osa: pidä mitä tahansa tässä kuvattua ominaisuutta marraskuun 2026 tilana, ei vakiintuneena ominaisuusjoukkona.
-
-## Liittyvät käsitteet
-
-- [[collaborative-learning]]
-- [[peer-assessment]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]

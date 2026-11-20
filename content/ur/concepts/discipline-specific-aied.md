@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -107,50 +109,3 @@ ai_assist:
 - **\"شعبہ بنیادی طور پر مواد کی مثالوں کے لیے اہم ہے۔\"** **560 طلبہ** پر تحقیق نے پایا کہ شعبے سے وابستگی **پیش گوئی کرتی ہے کہ طلبہ [[generative-ai|جنریٹو AI]] کتنی بار اور کتنی کھلے طور پر استعمال کرتے ہیں**۔ شعبہ یہ طے کرتا ہے کہ ٹول استعمال ہوتا ہے یا نہیں اور اُس کا اظہار ہوتا ہے یا نہیں، صرف یہ نہیں کہ اُس سے کیا پوچھا جاتا ہے۔
 - **\"بین الشعبیت ایک عمومی ادارتی ہدف ہے۔\"** **\"بین الشعبہ\" کی شکل بذاتِ خود شعبے سے طے ہوتی ہے**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] [[meta-analysis-systematic-review|جائزہ]] پاتا ہے کہ اِس کی صورت میدان کے لحاظ سے بدلتی ہے۔ ایک واحد ادارتی تعریف کم از کم اُن میں سے کچھ شعبوں کو غلط پڑھتی ہے جن پر وہ لاگو ہوتی ہے۔
 - **\"پیشہ ورانہ تعلیم کا تحقیقی ذخیرہ تعلیمی شعبوں کے برابر ہے۔\"** پیشہ ورانہ دھاگہ **اِس ثبوت میں سب سے پتلا** ہے: پیشہ ورانہ تعلیم و تربیت کے **26 مطالعات** کے منظم جائزے نے **کام کی جگہ کے سیاق میں کوئی بھی نہیں پایا** — وہ سیاق جہاں قابلیت واقعی استعمال ہوتی ہے۔ ادب کی عدم موجودگی ایک خلا ہے، نتیجہ صفر نہیں۔
-
-## منسلک تصورات
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## منسلک مضامین
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — AI کی معاونت والی بین الشعبہ اعلیٰ تعلیم کا منظم جائزہ (59 مطالعات)
-- [[llms-text-linguistics-teaching-2026]] — متن کی لسانیات کی تدریس میں LLM
-- [[fowlin-operationalizing-learning-principles-ai]] — صحت کے پیشوں کی تعلیم میں AI کے ساتھ سیکھنے کے اصولوں کو عملی شکل دینا
-- [[designing-ai-professional-development-itpack-2026]] — ذہین-TPACK پر مبنی AI پیشہ ورانہ ترقی
-- [[teaching-the-teachers-genai-tpk-review-2026]] — استاد کی تعلیم میں GenAI کے لیے مخصوص TPK
-- [[human-centered-ai-teacher-educators-2026]] — اساتذہ کے مربیوں کے لیے تنقیدی AI خواندگی کی پیشہ ورانہ سیکھائی
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — ہیومینٹیز اور سماجی علوم کی تعلیم میں تفسیری علمیات
-- [[becker-chatgpt-typology-physics-2026]] — فزکس کی تعلیم میں ChatGPT استعمال کی نوع بندی
-- [[code-review-genai-cs1]] — CS1 میں GenAI کوڈ کا جائزہ
-- [[ai-writing-support-stage-ownership-2026]] — مرحلہ وار AI تحریری معاونت اور ملکیت
-- [[ai-engineering-education-balancing-act]] — انجینئرنگ کی تعلیم میں AI کا توازن کا کام
-- [[ai-literacy-career-adaptability-business-2026]] — کاروباری تعلیم میں AI خواندگی اور کیریئر کی موافقت پذیری
-- [[jiang-genai-activity-theory-disciplines-2026]] — سرگرمی کا نظریہ: GenAI استعمال اور افشا میں شعبے کے فرق (560 طلبہ)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — نرسنگ کی تعلیم میں AI سے چلنے والا سمولیشن: علم اور اعتماد میں فائدے، سائیکو موٹر مہارت پر غیر مستقل اثرات
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — پوسٹ گریجویٹ IT سیکھائی میں GenAI بطور سہارا یا شارٹ کٹ
-- [[ai-vocational-education-training-review]] — پیشہ ورانہ تعلیم و تربیت میں AI کا پہلا منظم جائزہ
-- [[genai-architectural-design-studios]] — ڈیزائن اسٹوڈیو میں جنریٹو ماڈل: محرک، حل کی گنجائش کا پھیلاؤ، اور جماؤ
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — مہارت کے ایسے رکنے کے قواعد جو حد سے زیادہ عام کیے گئے قاعدے کو قابلیت تصدیق کر دیتے ہیں

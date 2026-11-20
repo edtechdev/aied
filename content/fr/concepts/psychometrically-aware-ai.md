@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -61,29 +63,3 @@ L'IA psychométriquement informée se situe à l'intersection de l'[[educational
 - **« Un modèle qui obtient un bon score mesure la même chose. »** Sur **le même instrument d'évaluation**, les structures de réponse humaines et celles des LLM **divergent** — un modèle peut obtenir un bon score tout en mesurant autre chose que ce que l'instrument vise. La concordance des scores est l'observation ; l'équivalence de construit est une affirmation distincte qui exige des preuves au niveau de la structure.
 - **« La calibration se lit sur un seul chiffre d'exactitude. »** **Un seul chiffre d'exactitude peut cacher un modèle qui ne fait que paraître calibré** : demander à GPT-4o et Gemini 2.0 Flash d'inférer des dimensions de style d'apprentissage à partir des dialogues de **153 étudiants de premier cycle** produisait **une exactitude modérée qui se comportait différemment sous des métriques équilibrées**. L'exactitude agrégée masquait un différentiel que les métriques équilibrées révélaient.
 - **« Les chaînes de notation automatisée ne peuvent pas reproduire une procédure psychométrique. »** Les auteurs ont reproduit une chaîne établie sous forme automatisée (**une probabilité de 67 % de répondre correctement à au moins 7 items de barème pour le seuil inférieur et à au moins 10 pour le seuil supérieur**), permettant de comparer les scores d'items par l'IA et par des humains sur le même pied. La procédure était reproductible ; la question du construit demeure.
-
-## Concepts liés
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## Articles liés
-- [[genai-reliance-scale-problem-solving-2026]] — Une échelle validée de la dépendance des étudiants à l'IA générative pendant la résolution de problèmes (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un cadre humain dans la boucle pour la notation assistée par IA dans l'évaluation de l'écrit à grande échelle
-- [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et les LLM ? (Strugatski et coll. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligner l'évaluation par LLM sur le calibrage psychométrique
-- [[llm-item-difficulty-prediction]] — Prédiction de la difficulté des items par LLM
-- [[cong-confidence-asag-2026]] — Notation automatique sensible à la confiance des réponses courtes
-- [[multimodal-item-parameter-estimation-2026]] — Estimation multimodale des paramètres d'items
-- [[competency-based-education-genai-production-2026]] — Enseignement par compétences avec l'IA générative
-- [[ai-grading-handwritten-physics-2026]] — Notation par l'IA d'épreuves manuscrites de physique (Olympiade)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimer la difficulté des items à l'aide de LLM et d'apprentissage automatique arborescent
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparer les instruments de littératie en IA : paires jangle et jingle parmi 55 construits
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Une exactitude modérée se révélait être une prédiction de la classe majoritaire une fois le rappel par classe vérifié (Zamanifard, Goudarzi & Robb 2026)

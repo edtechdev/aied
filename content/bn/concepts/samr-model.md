@@ -19,6 +19,8 @@ ai_assist:
     date: "2026-11-03"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -80,28 +82,3 @@ SAMR-কে সবচেয়ে ভালো বোঝা যায় পর�
 **"SAMR ও TPACK প্রতিদ্বন্দ্বী কাঠামো।"** তারা ভিন্ন জিনিস বর্ণনা করে: SAMR একটি কাজে *রূপান্তরের মাত্রা* বর্ণনা করে, আর [[tpack|TPACK]] প্রযুক্তি ভালোভাবে একীভূত করতে শিক্ষকের প্রয়োজনীয় *জ্ঞান* বর্ণনা করে। একজন শিক্ষক উচ্চ TPACK-সক্ষম হয়েও প্রতিস্থাপনে কাজ করতে পারেন, যে কারণে দুটি বেছে নেওয়া নয়, একসঙ্গে ব্যবহার করা হয়।
 
 **"এক স্তরে রূপান্তরমুখী সরঞ্জাম সব স্তরেই রূপান্তরমুখী।"** একই উৎপাদনশীল সরঞ্জাম একটি কোর্সে প্রতিস্থাপন এবং অন্যটিতে পুনর্নির্ধারণ সমর্থন করতে পারে, কারণ স্তরটি কাজ-নকশার বৈশিষ্ট্য, প্রযুক্তির নয়। স্তরটিকে সরঞ্জামের ওপর আরোপ করলে নকশা-সিদ্ধান্তের জায়গায় গ্রহণ-সিদ্ধান্ত তৈরি হয়।
-
-## সংযুক্ত ধারণা
-
-- [[ai-education]] — শিক্ষায় এআই (ছাতা-ধারণা)
-- [[tpack]] — প্রযুক্তিগত শিক্ষাগত বিষয়বস্তু-জ্ঞান
-- [[technology-acceptance-model]] — প্রযুক্তি-গ্রহণ মডেল
-- [[icap-framework]] — জ্ঞানমূলক সম্পৃক্ততার ICAP কাঠামো
-- [[ai-technologies]] — এআই প্রযুক্তি ও কৌশল
-- [[teacher-ai-competency]] — শিক্ষকের এআই-সক্ষমতা
-- [[educational-development]] — শিক্ষাগত উন্নয়ন
-- [[learning-design]] — শিখন-নকশা
-- [[k-12]] — কে-১২ শিক্ষা
-- [[higher-ed]] — উচ্চশিক্ষা
-- [[generative-ai]] — উৎপাদনশীল এআই
-
-## সংযুক্ত নিবন্ধ
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — উচ্চশিক্ষায় এআই-একীকরণ SAMR দিয়ে স্তরভুক্ত: মূলত প্রতিস্থাপন/বর্ধন
-- [[thermomix-genai-education-analogy-2026]] — ICAP ও SAMR দিয়ে রান্না-থেকে-শিখনের চারটি দৃশ্যপট মাপা
-- [[rewriting-curriculum-genai-pedagogy-2026]] — GenAI-চালিত পাঠ্যক্রম পরিবর্তনের দৃষ্টিকোণগুলোর মধ্যে SAMR
-- [[crompton-faculty-technology-integration-standards-2026]] — প্রশিক্ষক-প্রযুক্তি মানদণ্ডকে ভিত্তি দেওয়া কাঠামোগুলোর মধ্যে SAMR
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR-এর মানবতাবাদী অন্টোলজির উত্তর-মানবতাবাদী সমালোচনা
-- [[reclaiming-epistemic-agency-co-agency-2026]] — ক্ষমতা, ডেটা-মালিকানা ও জবাবদিহিতা নিয়ে SAMR-এর নীরবতা
-- [[genai-use-changing-institutional-policy-physics-2026]] — পরিবর্তনশীল প্রাতিষ্ঠানিক নীতির অধীনে শিক্ষার্থীদের GenAI-ব্যবহার: ব্যবহার-কার্য SAMR স্তরে মাপা (Quince ও Faulconer 2026)
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — গণিতের শ্রেণিকক্ষে এআই: বৈচিত্র্য ও অন্তর্ভুক্তির জন্য একটি সহযোগী কৌশল

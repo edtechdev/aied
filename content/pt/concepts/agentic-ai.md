@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -188,64 +190,3 @@ A IA agêntica não é nem uma panaceia nem um dano inevitável: seu valor depen
 **"Sistemas agênticos na educação são fundamentados pedagogicamente porque pesquisadores da educação os constroem."** A evidência diz o contrário: uma revisão de escopo constatou que apenas **29% dos estudos de IA agêntica (138 de 474)** fundamentaram explicitamente seus sistemas em teoria educacional. A divisão disciplinar entre o trabalho tecnicamente orientado e o pedagogicamente orientado é a condição do campo, não um descuido individual de autor, de modo que uma demonstração que funciona é o resultado esperado e uma demonstração que funciona *para a aprendizagem* é o caso minoritário.
 
 **"Um agente que personaliza e aprofunda a aprendizagem é um ganho líquido em relação a um chatbot."** Ele carrega consigo uma troca específica: sistemas agênticos ameaçam a [[agency|autonomia]] e convidam ao [[cognitive-offloading|descarregamento cognitivo]] do esforço do qual a aprendizagem depende, e, ao fazer mais etapas sem supervisão, tornam esse descarregamento mais difícil de perceber. A tensão entre automação e aprendizagem é o problema analítico central da categoria, e não uma ressalva acrescentada aos seus benefícios.
-
-## Conceitos conectados
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Artigos conectados
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — marcação agêntica de 60 provas manuscritas: r = .97 no geral, com kappa caindo a .65 em itens avaliativos
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentes organizados em torno de um programa de capacidades revisável, com o estudante como membro
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, competência, relacionamento e presença social como as vias da IA agêntica para o engajamento (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, avaliação prazerosa e terceiro espaço
-- [[ilieva-agentic-genai-higher-education-2026]] — O framework AGAI-HE: IA generativa agêntica delimitada e supervisionada por humanos no ensino superior (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — revisão integrativa crítica que introduz o framework de evidência/supervisão AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspectiva sobre ecossistemas inclusivos de IA multiagente agêntica no ensino superior
-- [[baradziej-agentic-ai-higher-education-2026]] — Revisão sistemática dos papéis da IA agêntica no ensino superior (48 estudos; seis papéis; framework tripartido de integração responsável)
-- [[kostopoulos-agentic-ai-education-2025]] — IA agêntica na educação: estado da arte e direções futuras (survey do IEEE Access; definição operacional + taxonomia)
-- [[agentic-ai-education-scoping-review]] — Revisão de escopo da IA agêntica na educação (474 estudos)
-- [[agentic-ai-pedagogical-best-practice-2026]] — A tensão entre automação e aprendizagem
-- [[tool-invariant-framework-agentic-ai]] — Ensinar e avaliar métodos computacionais na era da IA agêntica
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmark de agentes de desenho instrucional
-- [[adversarial-stress-testing-role-playing-agents]] — Teste de estresse adversarial de agentes com papéis
-- [[ai-agents-constructive-conflict-design-education-2026]] — Agentes de conflito construtivo na educação em desenho
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK do professor e fluxos de trabalho multiagente
-- [[code-gen]] — Agentes de geração de código
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Benchmark de agentes pedagógicos de LLM
-- [[guided-llm-scaffolding-independent-learning]] — Andaimento por LLM guiado para a aprendizagem independente
-- [[learnmate2-llm-adaptive-learning]] — Agentes de aprendizagem adaptativa LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agentes gamificados de aprendizagem em segurança cibernética
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Simulação clínica com IA agêntica
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Estudantes fantasmas e a lacuna de verificação da IA agêntica (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Agentes de IA concluindo tarefas de LMS; falha de validade via a premissa de produção humana (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — Agentes Web de IA: um agente descritivo como avaliador da experiência de aprendizagem (prevê a evasão, dá feedback de desenho antes de os estudantes se engajarem)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — DCE com agentes de IA em PBL de software; automação versus compreensão
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliação de um Sistema Multiagente de LLM Orientado ao Andaimento para Treinamento em Entrevista Clínica
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de Treinamento em Ética: Facilitando a Educação em Ética Baseada em Grupos com Dramatização de Papéis e Discussão para a Reflexão e Exploração Éticas
-
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparando abordagens de IA para extração automatizada de habilidades: de embeddings a sistemas agênticos para a educação em engenharia

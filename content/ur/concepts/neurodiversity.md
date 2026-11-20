@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -87,32 +89,3 @@ AI کے دور میں یہ نظریہ نعرے کے بجائے ڈیزائن کا
 - **"عصبی تنوع کی تحقیق [[ai-education|AIED]] کا ایک گوشہ ہے۔"** میدان **[[generative-ai|جنریٹو AI]] کے گرد از سرِ نو منظم ہو چکا — 40 میں سے 15 مطالعات** — اور ڈوبنے والے فارمیٹ دوسرے نمبر پر 11 کے ساتھ ہیں۔ ادب ٹیکنالوجی کے ساتھ چلا، مستحکم سوالات کے گرد جمع نہیں ہوا۔
 - **"ڈسلیکسیا کے لیے زیادہ AI کا مطلب بہتر سہارا ہے۔"** [[dabaghi-ai-dyslexia-education-review-2026|ڈسلیکسیا کے لیے AI کا بین المضمون جائزہ (Dabaghi, D'Urso اور Sciarrone, 2026)]] **2018-2024 کے 72 مطالعات** کا احاطہ کرتا ہے اور پاتا ہے کہ AI مقاصد کی وسیع رینج میں استعمال ہوتا ہے۔ اطلاق کی وسعت اِن میں سے کسی ایک کے لیے اثر انگیزی کا ثبوت نہیں۔
 - **"عصبی متنوع سیکھنے والوں کے لیے سہولتیں درست فریم ہیں۔"** [[neurodivergent-computing-students|24 عصبی متنوع کمپیوٹنگ طلبہ اور 20 عصبی معمول ساتھیوں کا سروے]]، چار گہرے انٹرویوز کے ساتھ، ایسی ضروریات پائیں جو **ڈیزائن کی عمومی شرطیں** ہیں — منظم اسائنمنٹ، چھوٹی مستقل ٹیمیں، واضح کردار — نہ کہ تشخیص کے بعد دی گئی انفرادی تعدیلیں۔
-
-## منسلک تصورات
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## منسلک مضامین
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — عصبی شمولیت والے ابتدائی اسکول کلاس رومز کے EdTech میں تعلیمی قدر کو نئے سرے سے فریم کرنا: ایک اسکوپنگ جائزہ
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — جنریٹو AI، ورچوئل رئیلٹی اور آگے: اعلیٰ تعلیم میں عصبی متنوع طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیوں کا دائرہ کار جائزہ
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — معذور طلبہ کے لیے AI کے 29 مطالعات، اور ایسا اثر جو قسم کے حساب سے مختلف ہے
-- [[adhd-video-segmentation-computing-education]] — وقتی ویڈیو تقسیم جس نے ADHD شرکا کو برابری تک پہنچایا
-- [[neurodivergent-computing-students]] — 24 عصبی متنوع کمپیوٹنگ طلبہ ڈھانچے، ابہام اور تعاون پر
-- [[genai-reliance-executive-functioning-2026]] — ایگزیکٹو فنکشن کی دشواریاں، سمجھی گئی افادیت، اور AI پر انحصار کا راستہ
-- [[seung-basham-cognitive-offloading-swld-2026]] — سیکھنے کی معذوری والے طلبہ کے لیے GenAI کی علمی منتقلی
-- [[dabaghi-ai-dyslexia-education-review-2026]] — تعلیم میں ڈسلیکسیا والے لوگوں کی مدد کے لیے AI
-- [[genai-minoritized-knowledges-disability]] — جنریٹو AI اور اقلیتی علم کی حاشیہ پذیری
-- [[tactile-statistical-graphs-accessibility]] — رسائی کے لیے لمس والے شماریاتی گراف
-- [[ai-learning-tools-engineering-education-needs]] — ضروریات اور توجہ سے واقف AI سیکھنے کے اوزار ڈیزائن کرنا
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — ڈیٹیکٹر پر مبنی عمل جائز سہولت کے استعمال سے روک سکتا ہے

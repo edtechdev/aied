@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -94,37 +96,3 @@ Die Philosophie von KI in der Bildung und [[theory-development-aied|Theorieentwi
 **„Nichtwestliche Philosophie begnügt sich damit, einen unveränderten Rahmen zu ergänzen."** Sie kann eine Quelle anderer Fundamente sein. Eine Rekonstruktion behandelt daoistische Konzepte — „Dao-Natur" (道性), Selbstkultivierung (修道) und den „Zhenren" (真人) — nicht als „östlichen Inhalt", der einem westlichen Rahmenwerk angehängt wird, sondern als Ressourcen, die die begrifflichen Fundamente umformen, durch die KI in der Bildung verstanden wird. Eine Tradition als Illustration hinzuzufügen und sie zu nutzen, um die Fragen neu zu rahmen, sind unterschiedliche wissenschaftliche Handlungen.
 
 **„Philosophische Kritik ist nicht handlungsleitend."** Sie setzt fest, was als Erfolg zählt. Ob der Output eines Systems eine Leistung der lernenden Person ist und ob ein gemessener Zuwachs ein Bildungsgut ist, sind vorgängige Fragen, die keine Effektstärke beantworten kann — und Institutionen, die sie überspringen, werden das Messbare optimieren und es Verbesserung nennen.
-
-## Verbundene Konzepte
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — Chemieunterricht und KI: Labore, formatives Prüfen, Grenzen von LLMs, Philosophie des Experimentierens
-
-## Verbundene Artikel
-
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in der chinesischen Hochschulbildung: Integrität und Engagement
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen für Mensch-KI-Kognition
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pädagogische Symbiose und die post-humane lernende Person
-- [[videla-embodied-ai-education-choreography]] — Verkörperte, post-kognitivistische Kritik entkörperter KI in der Bildung
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Entwicklungs-kritisches Modell interpretativer Kognition in den Geisteswissenschaften
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemische Ko-Handlungsfähigkeit als Philosophie des Lernens mit Maschinen
-- [[avraamidou-ai-colonization-science-education]] — Kritisch-feministische Philosophie, die die Kolonialisierung der Bildung durch KI infrage stellt
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ökologische Rahmung von GenAI aus den Lernwissenschaften
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophie des Experimentierens in der Chemie mit KI
-- [[strydom-human-gai-paradigms-2026]] — Rahmung der Mensch-KI-Dynamik: sieben GAI-Engagement-Paradigmen (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Handlungsfähigkeit, epistemischer Verantwortung und Rechenschaftspflicht in der generativen KI-Forschung zur Hochschulbildung
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — „Menschenzentrierte“ AIED gelesen als anthropozentrischer Diskurs mit kommerziellen Verwendungen (Wang & Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — Können Maschinen emotionale Arbeit leisten? Die Debatte 1950–1996 und warum Mimikry Fürsorge unterbestimmt
-

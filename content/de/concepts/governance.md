@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -137,71 +139,3 @@ Eine Argumentation aus dem Jahr 2026 weitet Governance über die Nutzung durch L
 - **„Universitäten haben verbindliche KI-Politik übernommen."** Von **48 Einrichtungen** hatten **40 (83%)** mindestens ein öffentlich verfügbares Dokument, und über diese 40 hinweg **wurde Governance meist als Orientierung statt als verbindliche** Regel realisiert. Veröffentlichte Orientierung ist keine durchsetzbare Politik.
 - **„Politik wird studierendenzuerst geschrieben, weil Studierende das Risiko sind."** Die meisten Dokumente adressierten **Fakultätsmitglieder und Studierende gemeinsam (20, 51%) statt Studierende allein (6, 15%)**, und weder Politiktyp noch Zielgruppe variierten mit der Vermittlungsweise. Die Rahmung ist gemeinsam, was bedeutet, dass die Pflichten geteilt sind.
 - **„Mehrdeutige Politik lässt das Erleben der Studierenden unberührt."** Politikmehrdeutigkeit zeigt sich direkt im **Erleben der Studierenden**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|das Engagement der Studierenden mit GenAI]] wird von der Unsicherheit geformt, sodass Mehrdeutigkeit eine aktive Bedingung statt eine neutrale Lücke ist.
-
-## Verbundene Konzepte
-- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
-- [[ai-use-disclosure]] — Erklärungen zu KI-Nutzung und Offenlegung
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Überblick: Menschen und Zielgruppen in der KI-Bildung (Lernende, Lehrende, Gestaltende, Administration, Politik)
-- [[student-support-and-success]] — Aufsicht für institutionelle KI-Unterstützungssysteme
-
-## Verbundene Artikel
-
-- [[chew-ai-content-governance-medical-education-2026]] — Governance von KI-generierten Lehrinhalten, mit drei Fehlertypen und vier institutionellen Fähigkeiten (Chew, 2026)
-- [[kaze-ai-management-higher-ed-2026]] — KI-Adoption in der Hochschulbildung: Argumente für ein dediziertes KI-Management (Kaže et al. 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Care-Ethik für institutionelle AI-Governance, die fünf Komponenten und die institutionellen Fragen, die sich daraus ergeben
-- [[generative-ai-governance-education-scoping-review-2026]] — Governance generativer KI im Bildungswesen: ein Scoping Review zu Prinzipien, Mechanismen und Risiken (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — KI-Kompetenz als Governance-Kapazität für nachhaltige Entwicklung: die AIRE Taxonomy und der AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — AIGEM-Rahmenwerk für KI-Governance im Bildungsmanagement
-- [[institutional-ai-policy-health-informatics-2026]] — KI-Richtlinien und Orientierungsdokumente in 48 CAHIIM-akkreditierten Studiengängen der Gesundheitsinformatik: Governance als unverbindliche, integritätszentrierte Orientierungshilfe (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Studierende, die GenAI-Kursrichtlinien mittels angeleiteten forschenden Lernens mitgestalten (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Voraussetzungen für vertrauenswürdige LA-basierte Interventionen (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nichteinhaltung von KI-Nutzungserklärungen durch Studierende
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Die verborgenen Kosten der Offenlegung
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung der KI-Nutzung durch Studierende, Stigmatisierung und selbstreguliertes Lernen
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Welche Inferenz ist gefährdet: Validitätsargumentation bei Assessments und generative KI (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Globale Delphi-Studie zu GenAI-Governance und -Richtlinien
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governance durch Leitlinien: von Lehrenden festgelegte Syllabus-Regeln und ein Unterstützungsökosystem aus vier Einheiten an 50 innovativen US-Universitäten (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Governance durch die Fakultät, Ermessensspielraum der Lehrenden und regelmäßige Überprüfung in GenAI-Richtlinien juristischer Fakultäten (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Zu weit gefasste „AI"-Verbote, Formatkonvertierung und das Problem der angemessenen Vorkehrungen (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Verweigerung als Evidenz: uneinheitliche Governance, die Pflicht zum Verstehen und der diagnostische Wert der Nichtnutzung (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Antizipative Governance und Führung für AI
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementierung von AIDA an der Open University
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Führung für transformativen Wandel
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engagement von Studierenden mit GenAI (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: Neugestaltung authentischer Leistungsbeurteilung
-- [[genai-policies-higher-ed-computing]] — Institutionelle GenAI-Richtlinien in der Informatik
-- [[genai-declaration-frameworks-higher-education]] — KI-Erklärungsrahmen
-- [[genai-assessment-governance]] — Assessment-Governance unter GenAI
-- [[ai-uk-higher-education-policy-2026]] — AI in der UK-Hochschulpolitik
-- [[raza-farooq-aied-review-2020-2025]] — Umfassender Überblick über die AIED-Forschung
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragik der kognitiven Allmende: AI und die Regeneration von Expertise
-- [[policy-deficit-ai-sel-2026]] — Das Policy-Defizit in der Forschung zu AI × SEL
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot-Governance: Allzweck-KI in der Politik (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Agency, epistemischer Verantwortung und Rechenschaftspflicht in der Forschung zu generativer KI in der Hochschulbildung
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: Ein Rahmenwerk für AI in der Informatikbildung
-- [[genai-governance-australian-higher-ed-2026]] — Kartierung der autorisierten Grenze: Eine vergleichende Policy-Vignetten-Studie zur Governance generativer KI in der australischen Hochschulbildung
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegation, Nachweise und Zugang: Was agentische KI an der Governance der Leistungsbewertung an Hochschulen verändert (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — KI-Prototypen und Schulpilotprojekte als Governance-Maschinerie, die eine gewählte Zukunft vorwegnimmt (Williamson et al
-- [[li-su-teacher-genai-decision-making-2026]] — Ein vorgeschlagener Pfad von Governance-Klarheit zu Entscheidungsepisoden von Lehrkräften
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative KI als Frage des Servicebetriebs
-- [[chan-ai-policy-gap-2026]] — Governance-Formulierungen stehen in allgemeinen Richtlinien, niemals aber in den Förderregeln, die für Antragstellende verbindlich sind (Chan 2026)
-- [[kaziya-learner-data-privacy-governance-2026]] — Kompetenz und Governance werden im Schutz von Lernendendaten als Komplemente, nicht als Substitute behandelt
-- [[tian-transnational-faculty-development-governance-2027]] — Shared Governance über Institutionen hinweg: Koordination und gemeinsame Strukturen, ohne die Entscheidungsbefugnis über Inhalte zu zentralisieren (Tian, Sun & Wang 2026)
-
-- [[rodafinos-llm-curriculum-audit-2026]] — LLM-gestütztes Curriculum-Audit in der Psychologie: Eine promptbasierte Methode

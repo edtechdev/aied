@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -37,6 +38,3 @@ ai_assist:
 ## Какво да знаете, преди да го използвате
 
 Книгата е с отворен достъп под лиценз CC BY, което е свободният край на диапазона за учебни материали: преподавателите могат да копират, адаптират и използват [[prompt-engineering|подсказките]], включително търговски, при правилно посочване на автора. Това прави лесно локализирането на подсказка за конкретен курс или настройка на [[pedagogical-agent|агент]], което по-ограничителните лицензи на подобни колекции не позволяват. Публикувана е в EdTech Books през 2026 г. с изтегляне в PDF и DOI 10.59668/2340, редактирана от Дейвид Уайли. Тъй като всяка глава отчита както дизайна на оценката, така и резултата, тя служи и като модел за преподаватели, които искат да изпитат собствените си подсказки, вместо да приемат нечия чужда преценка.
-
-## Свързани понятия
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,7 +51,6 @@ ai_assist:
 ### গবেষণায় প্রতিক্রিয়া-সাক্ষরতা কীভাবে দেখা যায়
 
 - **এআই-প্রতিক্রিয়ার মূল্যের নিয়ন্ত্রক হিসেবে প্রতিক্রিয়া-সাক্ষরতা:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] দেখান যে প্রতিক্রিয়া-সাক্ষরতা ChatGPT-গ্রহণ ও [[self-regulated-learning]]-এর মধ্যে সংযোগ নিয়ন্ত্রণ করে: শক্তিশালী সাক্ষরতার শিক্ষার্থীরা এআই-প্রতিক্রিয়া থেকে বেশি SRL সুবিধা অনুভব করেন, আর দুর্বল-সাক্ষরতার শিক্ষার্থীরা ন্যূনতম বা এমনকি নেতিবাচক ([[cognitive-offloading|অতিরিক্ত নির্ভরতা]]) প্রভাব দেখান। শিক্ষার্থীরা এআই-প্রতিক্রিয়াকে "অর্থবহ করে তুলতে" পারে কি না তার একটি সীমা-শর্ত হলো প্রতিক্রিয়া-সাক্ষরতা।
-
 
 - **জেনএআই-ব্যবহার থেকে সমালোচনামূলক চিন্তায় যাওয়ার পথ হিসেবে প্রতিক্রিয়া-সাক্ষরতা:** 421 জন চীনা স্নাতক শিক্ষার্থীর মধ্যে জেনএআই-ব্যবহারের সঙ্গে [[self-report-measures|স্ব-প্রতিবেদিত]] সমালোচনামূলক চিন্তার সংযোগ প্রায় সম্পূর্ণভাবে জেনএআই প্রতিক্রিয়া-সাক্ষরতার মধ্য দিয়ে গেছে (β=0.185, মোট প্রভাবের 71.98%), এবং প্রতিফলনমূলক চিন্তা বাড়ার সঙ্গে সেই পথ শক্তিশালী হয়েছে (নিয়ন্ত্রিত মধ্যস্থতার সূচক = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]])।
 
@@ -92,60 +93,8 @@ ai_assist:
 
 **প্রতিক্রিয়া-সাক্ষরতাকে মানব উৎসের মতোই যন্ত্র-উৎসও কভার করতে হবে।** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman প্রমুখ (2026)]] শিক্ষার্থীদের একই খসড়ায় সহপাঠী-প্রতিক্রিয়া ও চ্যাটবট-প্রতিক্রিয়া একই প্রতিফলনে মূল্যায়ন করতে বলেন, যা তুলনাটিকেই শিখন-কাজ করে তোলে। তাঁদের শিক্ষার্থীরা প্রশিক্ষকের তুলনায় চ্যাটবটের কর্তৃত্ব নিচে নামায়, এবং লেখকেরা সেই নিম্নায়নকে অনিচ্ছা নয়, সাক্ষরতা হিসেবে পড়েন।
 
-
 ## সাধারণ ভুল ধারণা
 
 - **"এআই-প্রতিক্রিয়া সরাসরি সমালোচনামূলক চিন্তা উন্নত করে।"** **421 জন চীনা স্নাতক শিক্ষার্থীর** মধ্যে জেনএআই-ব্যবহারের সঙ্গে [[self-report-measures|স্ব-প্রতিবেদিত]] সমালোচনামূলক চিন্তার সংযোগ **প্রতিক্রিয়া-সাক্ষরতার মধ্য দিয়ে গেছে**। সাক্ষরতাই মধ্যস্থকারী, তাই তা পড়ার সক্ষমতা গড়ে না তুলে এআই-প্রতিক্রিয়া যোগ করা হস্তক্ষেপ ভুল পদটিকে সম্বোধন করে।
 - **"সাক্ষরতা একটি পূর্বশর্ত, ফল নয়।"** **399 জন চীনা স্নাতক শিক্ষার্থীর তিন-তরঙ্গের র‍্যান্ডম-ইন্টারসেপ্ট প্যানেল** দেখেছে এআই প্রতিক্রিয়া-সাক্ষরতা **পরবর্তী** এজেন্সিক সম্পৃক্ততার পূর্বাভাস দেয় (**β = 0.222**), তাই চক্রটি দুই দিকেই চলে। এটি গতিশীল, একবার পেরোনো কোনো দ্বার নয়।
 - **"কার্যকারিতাই প্রতিক্রিয়াকে লেখা বদলাতে দেয়।"** **প্রতিটিতে 48 জন শিক্ষার্থীর দুইটি অক্ষত শ্রেণিতে** তিনটি লেখা-প্রতিক্রিয়া-সংশোধন চক্র জুড়ে **বোধগম্যতাই ছিল সেই মাত্রা** যা সংশোধনের লাভ বহন করেছে। যে প্রতিক্রিয়া শিক্ষার্থী বিশ্লেষণ করতে পারে না, তা আরও কার্যকর করে তোললে তার উন্নতি হয় না।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — এই ক্রমগুলো কর্মপ্রবাহে যে সমালোচনামূলক-মূল্যায়ন ধাপগুলো গেঁথে দেয়
-- [[eportfolio]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — এআই প্রতিক্রিয়া-সাক্ষরতা ও এজেন্সিক সম্পৃক্ততা: একটি তিন-তরঙ্গের র‍্যান্ডম-ইন্টারসেপ্ট প্যানেল (Xu 2026)
-- [[ai-feedback-literacy-assessment-as-learning-2026]] — প্রতিক্রিয়া-সাক্ষরতা শেখাতে রুব্রিক-গ্রেডেড কাজের নমুনা তৈরি (Pennington ও Hock 2026)
-- [[ai-peer-feedback-stem-teacher-education-2026]] — আর্টিফ্যাক্ট উন্নতি ছাড়া নির্বাচনী গ্রহণ: প্রতিক্রিয়া-অনুবাদের ফাঁক (Oh 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — শিক্ষকের কাঠামো ছাড়া এআই-প্রতিক্রিয়া প্রতিক্রিয়া-সাক্ষরতার মান বাড়ায় (Brunnström ও Palmqvist 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — প্রতিক্রিয়া-সাক্ষরতা এআই-প্রতিক্রিয়া → স্ব-নিয়ন্ত্রিত শিখন নিয়ন্ত্রণ করে (Mendoza et al. 2026)
-- [[hawkins-feedback-literacy-ai-essay-writing]] — এআই-সমৃদ্ধ লেখায় প্রতিক্রিয়া-সাক্ষরতা প্রবন্ধের গ্রেডের পূর্বাভাস দেয় (Hawkins et al. 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — এআই প্রতিক্রিয়া-সাক্ষরতা স্কেল ও গ্রহণের পূর্বাভাস (Liu ও Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — প্রতিক্রিয়া-সম্পৃক্ততার কাঠামোর সক্রিয়কারী হিসেবে জেনএআই (Zhan, Boud, Dawson ও Yan 2025)
-- [[rethinking-ai-writing-feedback-literacy]] — এআই-সহায়ক লেখার জন্য প্রতিক্রিয়া-সাক্ষরতা স্ক্রিপ্ট ও ক্রমাঙ্কন প্রশিক্ষণ (Dai 2026)
-- [[feedback-literacy-scripts-eap-writing]] — EAP লেখা সংশোধনে প্রতিক্রিয়া-সাক্ষরতা স্ক্রিপ্ট + দ্বিতীয়-মূল্যায়নকারী (Yao 2026)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — প্রতিক্রিয়া-সাক্ষরতা বিকাশের জন্য এআই স্বয়ংক্রিয় প্রতিক্রিয়া-সরঞ্জাম (Tubino ও Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — প্রতিক্রিয়া-সাক্ষরতা প্রশিক্ষণে EFL সহকর্মী-প্রতিক্রিয়ায় জেনএআই স্থাপন (Irwin ও Muller 2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — স্ব-নিয়ন্ত্রিত প্রতিক্রিয়ার স্ক্যাফোল্ডিং: জেনএআই বনাম মানব সহপাঠী (Gu, Chen ও Yan 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — প্রতিক্রিয়ায় জেনএআই শিখন-বিশ্লেষণ, প্রতিক্রিয়া-সাক্ষরতার দৃষ্টিকোণ (Jin et al. 2025)
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — জেনএআই মূল্যায়ন মনস্তাত্ত্বিক, প্রতিক্রিয়া ও এআই সাক্ষরতা গড়ে তোলে (Richmond ও Nicholls 2025)
-- [[learner-centered-feedback-ai]] — এআই শিক্ষার্থী-কেন্দ্রিক প্রতিক্রিয়া নিয়ে শিক্ষকদের চর্চা ও ধারণা
-- [[care-full-feedback-genai]] — জেনএআই দিয়ে যত্নপূর্ণ প্রতিক্রিয়া-নকশা
-- [[ai-generated-feedback-higher-ed]] — উচ্চশিক্ষায় এআই-উৎপন্ন প্রতিক্রিয়া
-- [[ai-feedback-ecosystem-higher-education-2026]] — এআই প্রতিক্রিয়া-বাস্তুতন্ত্রে শিক্ষার্থী, শিক্ষাবিদ, সহপাঠী ও উপকরণের সম্পর্ক পুনর্গঠন করে (Bearman et al. 2026)
-- [[ai-feedback-critical-thinking-writing-2026]] — লেখায় এআই-প্রতিক্রিয়া ও সমালোচনামূলক চিন্তা
-- [[repeated-ai-writing-feedback-semester]] — একটি সেমিস্টার জুড়ে বারবার এআই লেখা-প্রতিক্রিয়া
-- [[student-perspectives-ai-writing-grading-2026]] — কে আমার কাজের গ্রেড দেবে? উচ্চশিক্ষায় স্বচ্ছ এআই-সহায়ক লেখা-মূল্যায়ন নিয়ে শিক্ষার্থীদের দৃষ্টিভঙ্গি
-
-- [[genai-use-critical-thinking-moderation-2026]] — জেনএআই-ব্যবহার থেকে সমালোচনামূলক চিন্তা গেছে জেনএআই প্রতিক্রিয়া-সাক্ষরতার মধ্য দিয়ে, প্রতিফলনমূলক চিন্তার সঙ্গে শক্তিশালী হয়ে
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — সংশোধনের লাভ বহন করেছে বোধগম্যতা, কার্যকারিতা নয়
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — একটি প্রতিফলন-কাজের ভেতরে একই খসড়ায় সহপাঠী ও চ্যাটবট প্রতিক্রিয়ার মূল্যায়ন
-

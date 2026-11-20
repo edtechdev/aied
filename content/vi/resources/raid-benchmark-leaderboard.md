@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -41,9 +42,3 @@ Các nhà nghiên cứu đang đánh giá các phương pháp phát hiện, các
 ## Ghi chú và lưu ý
 
 Chuẩn đánh giá này đo lường việc phát hiện văn bản do máy tạo ra, không phải hành vi vi phạm: một sinh viên dùng AI để lập kế hoạch, lên dàn ý hoặc chỉnh sửa sẽ tạo ra văn bản mà các công cụ phát hiện không được xây dựng để bắt, và một sinh viên [[language-learning|viết bằng ngôn ngữ thứ hai]] là một rủi ro dương tính giả đã biết mà bảng xếp hạng không thể hiện. RAID là một sản phẩm nghiên cứu do một nhóm học thuật duy trì; độ phủ bám theo các mô hình sinh văn bản trong tập kiểm tra của nó, nên các mô hình mới hơn có thể chưa được đại diện đầy đủ cho đến khi chuẩn đánh giá được làm mới. Bảng xếp hạng xếp hạng các công cụ phát hiện, không phải cách xử lý dữ liệu của nhà cung cấp, và AUROC cao không nói gì về việc nộp bài làm của sinh viên cho dịch vụ đó có hợp pháp hay hợp đạo đức trong khu vực tài phán của bạn hay không.
-
-## Khái niệm liên quan
-
-- [[ai-detection]] — nhóm phương pháp mà chuẩn đánh giá này kiểm định
-- [[academic-integrity]] — bối cảnh chính sách nơi điểm số của công cụ phát hiện được sử dụng
-- [[benchmark]] — lớp công cụ rộng hơn mà nó thuộc về

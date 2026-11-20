@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -84,39 +86,3 @@ ai_assist:
 - **«Психічні подання є неспостережуваними, тож когнітивні твердження про навчання — це припущення.»** Реконструкція зображень з **ЕЕГ** здобувачів під час наукових відео виявила, що **точність репрезентації відстежувала результати тесту** (коефіцієнт регресії **0,8481, R² = 0,79**). Когнітивістська передумова внутрішнього подання є вимірюваною, і вимірювання передбачило результат.
 - **«Високий R² означає, що репрезентація пояснює навчання.»** R² = 0,79 — це сильний зв’язок між точністю та результативністю на тому самому матеріалі. Він не встановлює, що підвищення точності підвищує результативність, — а це і є твердження про втручання.
 - **«Компоненти знань — це зручна фікція моделювання.»** Розкладність — це те, що уможливлює [[knowledge-tracing]] і [[cognitive-diagnosis]], і методи працюють тією мірою, якою це припущення виконується. Розгляд його як фікції відкидає причину, чому методи дають придатні оцінки, — тоді як розгляд його як факту перебільшує те, що підігнана модель каже про розум.
-
-## Пов’язані поняття
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — висновки про утримання в пам’яті, на яких спирається це родини практик
-
-## Пов’язані статті
-
-- [[cognitive-shift-ai-education]] — Когнітивний зсув в освіті зі ШІ
-
-- [[sim-ai-summary-memory-distortion-2026]] — Оманливі резюме ШІ змінювали те, що дорослі запам’ятовували, незалежно від позначки «ШІ» чи «людина»
-- [[crediting-assisted-work-inflates-mastery-2026]] — Твердження про засвоєння з відстеження знань залежать від того, як зараховується робота з підтримкою (Srivastava 2026)
-
-- [[cogtax-cognitive-taxonomy]] — Когнітивна таксономія для використання ШІ
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Педагогічні агенти на ВММ, підґрунтовані на відстеженні знань
-- [[nie-personavlm-long-term-personalization-2026]] — Моделювання студента на ВММ і пам’ять
-- [[ai-cognitive-partner-co-regulation-learning]] — ШІ як когнітивний партнер у корегульованому навчанні
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: мислення як людсько-ШІ-взаємодія
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Організація зусиль, а не їхня кількість, відстежувала навантаження та фрустрацію

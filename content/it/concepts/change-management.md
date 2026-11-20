@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -82,34 +84,3 @@ La gestione del cambiamento è il complemento istituzionale dell'integrazione a 
 - **"L'intento strategico crea capacità."** Solo il **7% delle istituzioni** ha creato ruoli di leadership senior per l'AI nonostante il **49% consideri l'AI una priorità strategica**. Il divario è tra dichiarazione e struttura, ed è il fallimento ricorrente della gestione del cambiamento nell'AI.
 - **"Adottare uno strumento di IA è un evento."** **La sostenibilità è una proprietà dell'organizzazione, non dello strumento** — il trial di messaggistica testuale della CSUN illustra la scala temporale. La valutazione è durata quattro anni perché la durevolezza era ciò che andava messa alla prova.
 - **"Le istituzioni devono reagire più in fretta, non anticipare."** La **leadership anticipatoria** è il filo complementare: la [[baroudi-anticipatory-governance-ai-higher-ed-2026|scoping review]] rileva che le istituzioni devono passare da una governance **reattiva a una basata sulla lungimiranza**. Reagire competentemente a una tecnologia che è già arrivata è ciò che le evidenze documentano come fallimentare.
-
-## Concetti collegati
-
-- [[governance]] — le strutture di policy e supervisione che la gestione del cambiamento mette in funzione
-- [[educational-policy-ai]] — l'intento di policy sull'AI a livello nazionale e istituzionale che la gestione del cambiamento deve tradurre in pratica
-- [[educational-development]] — costruire capacità docente e orientamento pedagogico per l'integrazione dell'AI
-- [[administrator]] — leadership e governance anticipatoria come agenti di cambiamento
-- [[ai-literacy]] — capacità trasversale che sostiene l'adozione istituzionale responsabile
-- [[equity-in-ai-education]] — garantire che i benefici del cambiamento si distribuiscano in modo uniforme tra istituzioni e studenti
-- [[technology-acceptance-model]] — i driver dell'adozione che spiegano come si diffonde il cambiamento
-- [[academic-integrity]] — l'ancora regolatoria centrale attorno alla quale è organizzata la riforma della valutazione
-- [[student-support-and-success]] — sostenere un programma di supporto oltre il pilota
-
-## Articoli collegati
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — global Delphi consensus on eight-area GenAI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — scoping review of anticipatory governance and leadership
-- [[ai-adaptation-gap-higher-education-2026]] — stakeholder gaps in AI use, attitudes, and trust across students, faculty, and staff
-- [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
-- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment

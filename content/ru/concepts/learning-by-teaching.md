@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -118,32 +120,3 @@ ai_assist:
 **«Попросить LLM изобразить путаницу — тривиальный промпт».** Это задача проектирования, потому что ошибочность нужно откалибровать под преподаваемый концепт и под текущую модель учащегося-преподавателя. Случайные ошибки дают практику отладки; ошибки, отражающие конкретное правдоподобное заблуждение, дают концептуальную перестройку, и только второе — педагогическая цель.
 
 **«Обучение через преподавание — более мягкая деятельность, чем учение».** Она требовательнее. Подготовка к преподаванию заставляет организовывать знания и находить собственные пробелы, поэтому подход вскрывает недопонимания, которые скрывает пассивное восприятие, — трудность и есть механизм, а не издержка, которую надо минимизировать.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — Объяснение ИИ-подопечному: наилучше обоснованная последовательность в базе знаний
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Обобщающая концепция: педагогические подходы и стратегии преподавания в образовании с ИИ
-
-## Связанные статьи
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT как обучаемый агент в программировании
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: обучаемый агент для 546 студентов
-- [[prompting-teachability-novice-personas-lbt-2026]] — Проектирование персон новичка для обучаемости
-- [[socrates-students-instructors-llms-lbt-2025]] — Студенты как преподаватели LLM (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Изучение лексики через преподавание ИИ
-- [[knowloop-confusion-to-consolidation-2026]] — Закрепление через обратное преподавание в разговорной системе анализа
-- [[simulating-novice-students-machine-unlearning-2026]] — машинное забывание для удержания подопечного на уровне знаний новичка и переобучение через диалог преподавания
-- [[simulating-students-java-programming-errors-llms]] — Симуляция ошибок студентов с помощью LLM
-- [[knowledge-building-tutor-learning-2026]] — ответы, строящие знания, а не предшествующие знания, предсказывают обучение преподавателя

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,25 +68,3 @@ ai_assist:
 - **"র্যান্ডমাইকরণ সরঞ্জামটি কী করে তার একটি বৈধ অনুমানের নিশ্চয়তা দেয়।"** র্যান্ডমাইকরণ সংশ্রাবক ভারসাম্যপূর্ণ করে; কেউ চিকিৎসাটি ব্যবহার করেছে কি না তা নিশ্চিত করে না। কম গ্রহণসহ একটি দল-র্যান্ডমাইজড পরীক্ষা **সরঞ্জামটি দেওয়ার প্রভাব** অনুমান করে, আর অভিপ্রায়-অনুযায়ী ও চিকিৎসাপ্রাপ্তদের-ওপর-চিকিৎসা ভিন্ন প্রশ্নের উত্তর দেয়।
 - **"বড় পরীক্ষা সবসময়ই ভালো নকশা।"** কেউ কেউ যুক্তি দেন, প্রচলিত বৃহৎ-মাপের পরীক্ষা **এমন টিউটরিং প্ল্যাটফর্মের সঙ্গে তাল মেলাতে পারে না যা গবেষণার মাঝে গুরুত্বপূর্ণভাবে বদলে যায়**, তাই তাঁরা শিক্ষক-নেতৃত্বাধীন নকশা ব্যবহার করেন যা ব্যবস্থা বিবর্তিত হলেও বৈধ থাকে। চলমান লক্ষ্যের একটি পরীক্ষা ভালোভাবে ক্ষমতাসম্পন্ন হয়েও এমন ব্যবস্থা মাপতে পারে যা আর নেই।
 - **"RCT ও পর্যবেক্ষণমূলক প্রমাণ পরস্পরের বদল।"** **1,174 অংশগ্রহণকারীর** একটি RCT দেখেছে GenAI **শিক্ষাভিত্তিক উৎপাদনশীলতার ফাঁকের প্রায় তিন-চতুর্থাংশ বন্ধ করেছে** — একটি নির্দিষ্ট সময়কালের ওপর নির্ভুল কারণগত দাবি। পর্যবেক্ষণ প্রক্রিয়া ও গ্রহণ ব্যাখ্যা করে; সেই অনুমান বহন করতে পারে না, আর RCT কেন তা ব্যাখ্যা করতে পারে না।
-
-## সংযুক্ত ধারণা
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — সবচেয়ে জোরালো শিক্ষার্থী-সহায়তা প্রমাণের পেছনের নকশা
-
-## সংযুক্ত নিবন্ধ
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 108টি প্রাথমিক বিদ্যালয় জুড়ে পাঠ-পরিকল্পনার সময় তুলনা-গোষ্ঠীর 0.76-এ নামে, সরঞ্জাম-ব্যবহারের 7% মাত্রায়
-
-- [[generative-ai-education-productivity-gaps]] — জেনারেটিভ এআই কি শিক্ষাভিত্তিক উৎপাদনশীলতার ফাঁক সংকুচিত করে? একটি র‍্যান্ডমাইজড পরীক্ষার প্রমাণ
-- [[genai-can-harm-teaching-rct-2026]] — জেনারেটিভ এআই শিক্ষাদানে ক্ষতি করতে পারে: একটি RCT
-- [[access-not-enough-ai-tutoring-2026]] — প্রবেশাধিকারই যথেষ্ট নয়: মানব সহায়তা এআই টিউটরিংয়ে সম্পৃক্ততা বাড়ায়
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — উদ্ভাবনের গতিতে এআই টিউটরিং মূল্যায়ন: GCSE বিজ্ঞানে একটি এআই টিউটরিং প্ল্যাটফর্মের অনুশীলনকারী-নেতৃত্বাধীন মাইক্রো-র‍্যান্ডমাইজড পরীক্ষা
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমতুল্য GRE শিখন-লাভ দেয়
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — প্রশিক্ষক-ভিত্তিক দলীয় র্যান্ডমাইকরণ: চূড়ান্ত গ্রেডে 0.37 SD পতন ও প্ল্যাটফর্ম-অংশগ্রহণে 0.90 SD পতন, 15% গ্রহণ এবং 34টি ক্লাস্টারে অনুমান (Liu প্রমুখ 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — বিলম্বের পরে মাপা একটি ফলাফল, সেশন শেষে নয়

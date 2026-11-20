@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
+connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -183,62 +185,3 @@ ai_assist:
 **«Τα αυτόνομα συστήματα στην εκπαίδευση είναι παιδαγωγικά θεμελιωμένα επειδή τα κατασκευάζουν ερευνητές της εκπαίδευσης.»** Τα τεκμήρια λένε το αντίθετο: μια χαρτογράφηση του πεδίου βρήκε ότι μόνο το **29% των μελετών για την αυτόνομη ΤΝ (138 από 474)** θεμελίωνε ρητά τα συστήματά του σε εκπαιδευτική θεωρία. Το διεπιστημονικό χάσμα ανάμεσα στην τεχνικά προσανατολισμένη και την παιδαγωγικά προσανατολισμένη εργασία είναι συνθήκη του πεδίου και όχι αμέλεια ενός συγγραφέα, οπότε μια επίδειξη που λειτουργεί είναι το αναμενόμενο προϊόν και μια επίδειξη που λειτουργεί *για τη μάθηση* είναι η μειοψηφική περίπτωση.
 
 **«Ένας πράκτορας που εξατομικεύει και εμβαθύνει τη μάθηση είναι καθαρό κέρδος έναντι ενός chatbot.»** Φέρει συγκεκριμένο αντάλλαγμα: τα αυτόνομα συστήματα απειλούν τη [[agency|δράση]] και προσκαλούν [[cognitive-offloading|αποφόρτιση]] της γνωστικής προσπάθειας από την οποία εξαρτάται η μάθηση, και κάνοντας περισσότερα βήματα χωρίς επίβλεψη κάνουν αυτή την αποφόρτιση δυσκολότερα αντιληπτή. Η ένταση αυτοματοποίησης έναντι μάθησης είναι το κεντρικό αναλυτικό πρόβλημα της κατηγορίας και όχι μια επιφύλαξη προσαρτημένη στα οφέλη της.
-
-## Συνδεδεμένες έννοιες
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[simulation]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[academic-integrity]]
-- [[online-teaching-and-learning]]
-- [[educational-policy-ai]]
-
-## Συνδεδεμένα άρθρα
-
-- [[alghamdi-claude-code-agentic-grading-2026]] — αυτόνομη βαθμολόγηση 60 χειρόγραφων εξετάσεων: r = .97 συνολικά, με το κάπα να πέφτει στο .65 στα αξιολογικά στοιχεία
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Πράκτορες οργανωμένοι γύρω από ένα αναθεωρήσιμο πρόγραμμα ικανοτήτων, με τον μαθητή ως μέλος
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Αυτονομία, επάρκεια, σχέση και κοινωνική παρουσία ως οι οδοί από την αυτόνομη ΤΝ στην εμπλοκή (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] — Πράκτορες ΤΝ, χαρούμενη αξιολόγηση και τρίτος χώρος
-- [[ilieva-agentic-genai-higher-education-2026]] — Το πλαίσιο AGAI-HE: περιορισμένη, με ανθρώπινη εποπτεία αυτόνομη γενετική ΤΝ στην τριτοβάθμια εκπαίδευση (Ilieva και συν. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Κριτική συνθετική ανασκόπηση που εισάγει το πλαίσιο τεκμηρίων και εποπτείας AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Προοπτική για ενταξιακά αυτόνομα οικοσυστήματα πολλαπλών πρακτόρων στην τριτοβάθμια εκπαίδευση
-- [[baradziej-agentic-ai-higher-education-2026]] — Συστηματική ανασκόπηση των ρόλων της αυτόνομης ΤΝ στην τριτοβάθμια εκπαίδευση (48 μελέτες· έξι ρόλοι· τριμερές πλαίσιο υπεύθυνης ενσωμάτωσης)
-- [[kostopoulos-agentic-ai-education-2025]] — Αυτόνομη ΤΝ στην εκπαίδευση: η κατάσταση της τέχνης και μελλοντικές κατευθύνσεις (επισκόπηση IEEE Access· λειτουργικός ορισμός και ταξινομία)
-- [[agentic-ai-education-scoping-review]] — Χαρτογράφηση του πεδίου για την αυτόνομη ΤΝ στην εκπαίδευση (474 μελέτες)
-- [[agentic-ai-pedagogical-best-practice-2026]] — Η ένταση ανάμεσα στην αυτοματοποίηση και τη μάθηση
-- [[tool-invariant-framework-agentic-ai]] — Διδασκαλία και αξιολόγηση υπολογιστικών μεθόδων στην εποχή της αυτόνομης ΤΝ
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: σημείο αναφοράς για πράκτορες διδακτικού σχεδιασμού
-- [[adversarial-stress-testing-role-playing-agents]] — Αντιπαλικές δοκιμές πίεσης πρακτόρων παιχνιδιού ρόλων
-- [[ai-agents-constructive-conflict-design-education-2026]] — Πράκτορες ΤΝ εποικοδομητικής σύγκρουσης στην εκπαίδευση σχεδιασμού
-- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK εκπαιδευτικών και ροές εργασίας πολλαπλών πρακτόρων
-- [[code-gen]] — Πράκτορες παραγωγής κώδικα
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Σημείο αναφοράς παιδαγωγικών πρακτόρων LLM
-- [[guided-llm-scaffolding-independent-learning]] — Καθοδηγούμενη στηρικτική με LLM για ανεξάρτητη μάθηση
-- [[learnmate2-llm-adaptive-learning]] — Πράκτορες προσαρμοστικής μάθησης LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Πράκτορες παιγνιώδους μάθησης κυβερνοασφάλειας
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Αυτόνομη ΤΝ στην κλινική προσομοίωση
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Φανταστικοί μαθητές και το κενό επαλήθευσης της αυτόνομης ΤΝ (Bozkurt και συν. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Πράκτορες ΤΝ ολοκληρώνουν εργασίες σε ΣΔΜ· αποτυχία εγκυρότητας μέσω της παραδοχής ανθρώπινης παραγωγής (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — Πράκτορες ιστού ΤΝ: ένας πράκτορας περιγραφής ως αξιολογητής μαθησιακής εμπειρίας (προβλέπει εγκατάλειψη, δίνει ανατροφοδότηση σχεδιασμού πριν εμπλακούν οι μαθητές)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD με πράκτορες ΤΝ σε μάθημα λογισμικού με μάθηση βασισμένη σε έργο· αυτοματοποίηση έναντι κατανόησης
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Αξιολόγηση πολυπράκτορου συστήματος μεγάλου γλωσσικού μοντέλου προσανατολισμένου στη στηρικτική για εκπαίδευση κλινικής συνέντευξης
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Πράκτορες εκπαίδευσης στην ηθική: διευκόλυνση ομαδικής εκπαίδευσης στην ηθική με παιχνίδι ρόλων και συζήτηση για ηθικό στοχασμό και εξερεύνηση
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — Σύγκριση προσεγγίσεων ΤΝ για αυτόματη εξαγωγή δεξιοτήτων: από ενσωματώσεις σε συστήματα πρακτόρων για τη μηχανική εκπαίδευση

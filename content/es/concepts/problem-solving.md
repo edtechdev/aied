@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -61,7 +63,6 @@ Para el profesorado, el equilibrio de la evidencia apunta a una integración est
 
 La resolución de problemas es el resultado aplicado del [[critical-thinking|pensamiento crítico]] y del [[computational-thinking|pensamiento computacional]], y se cultiva mediante marcos de [[problem-based-learning|aprendizaje basado en problemas]] y de [[inquiry-based-learning|aprendizaje por indagación]]. Depende de un [[scaffolding|andamiaje]] que mantenga la exigencia cognitiva, de la [[self-regulated-learning|autorregulación]] y la supervisión [[metacognition|metacognitiva]] para evitar la [[cognitive-offloading|descarga cognitiva]], y de estructuras [[collaborative-learning|colaborativas]] en las que personas e IA trabajen juntas. La [[cognitive-psychology|psicología cognitiva]] y la literatura sobre la [[transfer-of-learning|transferencia del aprendizaje]] aportan el fundamento teórico de por qué los problemas generados por quien aprende y la retroalimentación reflexiva producen [[learning-gains|ganancias]] más duraderas en la resolución de problemas. El equilibrio entre ejemplos resueltos y práctica para adquirir estas habilidades depende del contenido: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] muestran que las habilidades de resolución de problemas generalizables se aprenden mejor mediante una práctica integrada con ejemplos (alternando ejemplos resueltos con problemas), porque los ejemplos resueltos aportan la información inductiva necesaria para adquirir y generalizar una regla correcta, mientras que la práctica pura corre el riesgo de reforzar rasgos correlacionados de forma espuria en lugar del procedimiento general.
 
-
 ## Simular la resolución colaborativa de problemas con agentes LLM
 
 - **Simular la resolución colaborativa de problemas con agentes [[llm|LLM]] específicos de cada participante.** Fang (2026) entrena agentes LLM individuales con el diálogo de participantes reales para reproducir la resolución colaborativa de problemas, y valida las [[simulation|simulaciones]] con el [[network-analysis|análisis de redes epistémicas]], mostrando que los diálogos simulados y los reales son estadísticamente indistinguibles (distancia ENA 0,17; p de permutación = 0,65). Esto ofrece una forma escalable de estudiar y generar discurso auténtico de resolución colaborativa de problemas, con implicaciones tanto para la investigación como para el diseño de entornos de práctica de esta habilidad del siglo 21.
@@ -94,28 +95,3 @@ La resolución de problemas es el resultado aplicado del [[critical-thinking|pen
 **«La resolución es el objetivo, así que el planteamiento es un extra.»** El planteamiento de problemas es donde se construye la transferencia, porque exige que quien aprende construya la estructura en lugar de operar dentro de una que le dio el sistema. Un [[curriculum-design|currículo]] que solo suministra problemas bien formulados entrena el desempeño en problemas bien formulados, que no es la condición que el estudiantado encuentra después.
 
 **«La simulación de la resolución colaborativa de problemas sustituye a la colaboración.»** Una simulación reproduce el patrón de interacción, y la habilidad que se desarrolla es la regulación de un problema conjunto por participantes que están realmente presentes. Los agentes específicos de cada participante que modelan colaboradores reales son un instrumento de investigación para estudiar esa regulación: útil por lo que revela del proceso, no una forma de dar al estudiantado la práctica sin los pares.
-
-## Conceptos conectados
-
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[inquiry-based-learning]]
-- [[creativity]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[cognitive-psychology]]
-
-## Artículos conectados
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Perfiles de interacción (razonamiento delegado frente a interpretación concertada) y el intercambio entre eficiencia y regulación
-- [[ai-assisted-collaborative-learning-model-dbr]] — Modelo de investigación basada en el diseño que posiciona la IA generativa como compañera de aprendizaje inteligente
-- [[llm-critical-thinking-teamwork-review]] — Revisión PRISMA de los LLM que fomentan el pensamiento crítico, el trabajo en equipo y la resolución de problemas
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Andamiajes adaptativos derivados de la minería de secuencias para la resolución colaborativa de problemas
-- [[genai-assisted-problem-posing-physics-2026]] — El planteamiento de problemas como estrategia de aprendizaje autorregulado con IA generativa
-- [[genai-feedback-design-multisite-experiment]] — La retroalimentación reflexiva o híbrida supera a la IA directa en la transferencia diferida
-- [[dai-chatbots-problem-posing-primary-2026]] — Los chatbots mejoran el planteamiento de problemas del estudiantado de primaria en el aprendizaje por indagación
-- [[llm-computational-thinking-physics-2026]] — Los LLM como evaluadores escalables de la resolución computacional de problemas en física
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Andamiaje guiado por reglas frente a andamiaje ad hoc en un sistema de tutoría con LLM para matemáticas de primaria (Looi et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]

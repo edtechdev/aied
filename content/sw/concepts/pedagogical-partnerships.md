@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -106,37 +108,3 @@ Kwa waelimishaji na taasisi zinazotaka kupitisha ushirikiano wa mbinu za kufundi
 - **"Ushirikiano unamaanisha kuinua sauti ya mwanafunzi."** Ushirikiano wa kieledu ni **uhusiano wenye mipaka na uliojadiliwa** wenye majukumu yaliyobainishwa na wajibu wa pande mbili, si ushauri. Sauti bila jukumu, wigo na sehemu ya uamuzi haibadilishi chochote cha kimuundo.
 - **"Ushirikiano ni msimamo ambao mtu anaweza kuuchukua."** Unahitaji masharti ya kitaasisi: muda, utambuzi kwa mwanafunzi mshirika, na mabadiliko ambayo washirika wanaweza kuyaathiri kwa dhati. Ushirikiano uliotangazwa bila masharti hayo unazalisha upya ngazi ambayo unadai kuivunja.
 - **"Kugawana mamlaka hakuwezi kuwa maendeleo ya waelimishaji."** Dai la fasihi ni kwamba ushirikiano ni maendeleo *kwa sababu* unabadilisha ufahamu wa mwalimu kupitia uhusiano. Kuuweka kama manufaa ya mwanafunzi peke yake kunatupa utaratibu.
-
-## Dhana Zilizounganishwa
-- [[pedagogy]] — Mbinu za kufundisha na mikakati ya mafunzo
-- [[collaborative-learning]]
-- [[agency]] — Wakala wa mwanafunzi
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## Makala Zilizounganishwa
-- [[guided-inquiry-genai-course-policy-2026]] — Mbinu ya Uchunguzi unaoongozwa kwa Wanafunzi Kubini Pamoja Sera za Kozi za AI ya Kizalishaji
-- [[lo-co-creating-custom-gpts-sap-2026]] — Kuunda pamoja GPT maalum: utafiti wa autoethnographic wa wanafunzi wa shahada ya kwanza kama washirika katika uvumbuzi wa AI ya kizalishaji
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Ubini wa tathmini kupitia uundaji pamoja: Ushirikiano wa wanafunzi-wataalam katika kutathmini AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Kanuni tano za uongozaji za kueelekea AI katika mazoezi ya wanafunzi kama washirika ili kuhifadhi uaminifu wa mbinu za kufundisha
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Kubini pamoja AI na washirika vijana: mfumo wa maadili ya faragha ya mahusiano
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Kuonyesha ukamilifu ngumu wa wanafunzi wa AI kupitia mfumo wa entangled pedagogy
-- [[anastasia-shared-agency-partnership-framework-2026]] — Wakala wa Pamoja: Mfumo wa Ushirikiano wa Wakala kwa Ushirikiano wa Mkufunzi–Mwanafunzi
-- [[maybee-disruptive-partnerships-sap-2025]] — Ushirikiano wa Kuharibu: Kushirikiana na Wanafunzi katika Masomo ya Habari
-- [[student-centered-genai-responsible-framework-2026]] — Mfumo unaozingatia mwanafunzi wa matumizi yenye uwajibikisho ya AI ya kizalishaji
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Wanafunzi walijenga mwalimu wa AI kwa wenzao katika kiwango cha wanafunzi 710: ushiriki mkubwa, ushahidi wa kujifunza wa uchunguzi (Zangari et al. 2026)
-

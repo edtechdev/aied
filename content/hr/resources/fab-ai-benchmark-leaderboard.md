@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -40,9 +41,3 @@ Kreatori politika i nabavni timovi koji biraju modele za nacionalne sustave, ist
 ## Napomene i upozorenja
 
 Ljestvica mjeri modele na vlastitim zadatcima benchmarka: visok pedagoški rezultat dokaz je o tim stavkama, a ne o učionici. Stupac cijene miješa cijene ulaznih i izlaznih tokena u omjeru 3:1, što je odluka modeliranja, a ne ono što će bilo koja konkretna primjena koštati. Pokrivenost jezika i lokalno hostanih modela mijenja se kako se novi modeli pojavljuju, a niski rezultati malih modela djelomično odražavaju format zadataka jednako koliko i sposobnost. Okvirivanje Fab AI-ja izričito je o zemljama s niskim i srednjim dohotkom, pa skup stavki benchmarka odražava taj kontekst i ne treba ga čitati kao opću ljestvicu obrazovanja. Provjerite datume izdanja: nekoliko unosa prethodi trenutačnoj generaciji modela.
-
-## Povezani pojmovi
-
-- [[benchmark]] — šira klasa instrumenata kojoj ovo pripada
-- [[digital-divide]] — ograničenje radi čije vidljivosti postoje stupci cijene i otvorenih težina
-- [[equity-in-ai-education]] — pitanje javne politike o kojemu ljestvica pruža informacije

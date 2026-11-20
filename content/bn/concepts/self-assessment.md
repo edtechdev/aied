@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
+connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -106,35 +108,3 @@ ai_assist:
 **"এআই [[feedback|প্রতিক্রিয়া-চক্র]] যোগ করলে স্ব-মূল্যায়ন নিজে থেকে উন্নত হয়।"** প্রতিক্রিয়া-চক্র বদলায় শিক্ষার্থী কীসের সঙ্গে তুলনা করে, যা ক্রমাঙ্কন উন্নত করতে পারে আবার তাদের ব্যবস্থার বিচারে নোঙরও করতে পারে। এখানকার তুলনামূলক গবেষণাটি (**১১৮ জন প্রথম বর্ষের স্নাতক শিক্ষার্থী, জেনএআই দলে ৫৬ ও সহকর্মী দলে ৬২**, এক সেমিস্টারে তিন চক্র) ঠিক এই পরীক্ষার জন্যই নকশা করা — চক্রটি কাজ করে নাকি সামাজিক তুলনা করে — আর উত্তরটি "চক্র, চক্র হওয়ার কারণে" নয়।
 
 **"স্ব-মূল্যায়ন পরীক্ষার নরম বিকল্প।"** এটি ভিন্ন লক্ষ্য। স্ব-মূল্যায়ন নিজের কাজ বিচার করার নিয়ন্ত্রক দক্ষতা গড়ে তোলে; পরীক্ষা সেই সক্ষমতা মাপে যা বিচার করা হচ্ছে। একটি অন্যটির প্রতিনিধি হিসেবে বসানো গবেষণা কর্মদক্ষতা মূল্যায়নের ক্ষমতাকে কর্মদক্ষতার সঙ্গেই গুলিয়ে ফেলে।
-
-## সংযুক্ত ধারণা
-
-- [[evaluative-judgment]]
-- [[self-report-measures]]
-- [[peer-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-
-- [[reflection]]
-
-
-## সংযুক্ত নিবন্ধ
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — স্ব-নির্দেশিত বিকাশ কাঠামোর কেন্দ্রে স্ব-মূল্যায়ন (২০২৬)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — বিকাশগতভাবে স্তরবিন্যস্ত এআই সাক্ষরতা উপকরণ, গ্রহণযোগ্যতা ও বৈধতার পরিমাপসহ (২০২৬)
-- [[chatgpt-critical-creative-thinking-review]] — সহকর্মী, প্রশিক্ষক ও স্ব-মূল্যায়নের সঙ্গে এআই প্রতিক্রিয়ার ত্রিভুজায়ন (২০২৬)
-- [[yasir-llm-tutoring-agents-2026]] — কেন প্রতিক্রিয়া মডেলের স্ব-মূল্যায়িত যুক্তি-বৈধতার ওপর নির্ভর করা উচিত নয় (ইয়াসির প্রমুখ ২০২৬)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — গ্রেড ৪ থেকে ৬-এর জন্য যাচাইকৃত ১৫-আইটেম এআই সাক্ষরতা স্ব-মূল্যায়ন প্রশ্নমালা, শিশু-স্ব-প্রতিবেদনের অতিজ্ঞানীয় সীমাসহ (থিয়ানওয়ান ও শ্রীকুন ২০২৫)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — ৩৩টি শিক্ষক এআই-সাক্ষরতা সরঞ্জামের ৩১টি স্ব-প্রতিবেদন, দুটি জ্ঞান বস্তুনিষ্ঠভাবে পরীক্ষা করে, কোনোটি কর্মদক্ষতা-কাজ ব্যবহার করে না (জাইনাল, মোহাম্মদ মাতোরে ও মাতে ২০২৬)

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
+connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -88,7 +90,6 @@ Plataformas podem personalizar além dos dados de desempenho. A **Taklif.AI** é
 
 A contribuição da plataforma costuma ser a estrutura que falta a um modelo geral. O [[learnmate2-llm-adaptive-learning|LearnMate^2]] envolve um LLM em planejamento de estudo, ajuda no contexto e atividades responsivas ao desempenho, e em uma comparação com 16 participantes superou o Khan Academy combinado com Gemini 2.5 Pro tanto nos quizzes (M = 13,375 vs 10,875, p = ,0126; 7,875 vs 5,875, p = ,0012). O [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] traduz instruções em linguagem natural em comportamento de robô no CoppeliaSim para iniciantes, tendo sucesso em 100% das tarefas simples, mas em 88,9% das complexas, ao longo de 108 casos.
 
-
 ## Implicações para design e pesquisa
 
 1. **Projete para a adoção, não apenas para a capacidade.** A eficácia de uma plataforma depende de os aprendizes realmente se engajarem com ela; estruturas de apoio, onboarding e agendamento importam tanto quanto a própria IA. ([[access-not-enough-ai-tutoring-2026]])
@@ -109,53 +110,3 @@ A privacidade pode ser embutida no pipeline em vez de na política: um detector 
 **"Aberto versus proprietário é um detalhe de licenciamento que não afeta os resultados."** O modelo de plataforma molda o que as instituições conseguem fazer com o sistema: plataformas [[open-source|abertas]] como a OATutor — um tutor adaptativo com licença MIT, uma biblioteca de conteúdo de álgebra em Creative Commons, estimativa de domínio por [[knowledge-tracing|rastreamento de conhecimento]] e testes A/B embutidos — permitem que um departamento instrumente e modifique sua própria [[pedagogy|pedagogia]], o que uma plataforma fechada não permite. A licença determina quem pode conduzir o experimento.
 
 **"Uma plataforma que funciona em uma instituição funcionará como adotada em outra."** Os efeitos de plataforma passam pela governança local: arquitetura que prioriza privacidade, minimização de dados, registros auditáveis e acesso baseado em papéis são o que torna uma plataforma integrada a IA implantável, e são decisões institucionais, não recursos que se possam inferir de uma demonstração de fornecedor.
-
-## Conceitos conectados
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[open-source]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[culturally-relevant-pedagogy]]
-- [[stem-education]]
-- [[educational-technology-developers]]
-
-## Artigos conectados
-
-- [[typology-generative-ai-tools-education-2026]] — O que 211 educadores relataram usar: 50 ferramentas em nove categorias
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Tornando a tutoria de IA produtiva: prática de matemática baseada em domínio
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — A um clique de distância: Khanmigo em um experimento escolar de dois anos
-- [[access-not-enough-ai-tutoring-2026]] — Adoção e engajamento são as restrições limitantes das plataformas de tutoria de IA
-- [[oatutor-open-source-adaptive-tutor-2023]] — Uma plataforma de tutoria adaptativa de código aberto para pesquisa replicável
-- [[mooc-to-maic]] — Do MOOC às salas de aula de IA multiagente dirigidas por LLM
-- [[ai-lms-middle-school-longitudinal]] — LMS integrado a IA para o ensino fundamental 2 com suporte delimitado que prioriza a privacidade
-- [[taklif-ai-interest-based-personalized-assignments]] — Plataforma de tarefas personalizadas com base em interesses
-- [[edusim-llm-robotic-simulation-education-2026]] — Uma plataforma de simulação robótica baseada em LLM para a educação
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Uma plataforma de ensino com robô social generativo no ensino superior
-- [[hypergamification-game-engine-lms]] — Um LMS baseado em motor de jogos que integra gamificação
-- [[edtech-design-time-generative-ui]] — Projetando edtech para UI generativa
-- [[lata-ferpa-compliant-local-llm-autograder]] — Plataforma de autograder com LLM local em conformidade com a FERPA
-- [[vismatic-secure-sandbox-cs-education]] — Uma plataforma de sandbox segura para o ensino de ciência da computação
-- [[learnmate2-llm-adaptive-learning]] — Plataforma de aprendizagem adaptativa personalizada movida por LLM
-- [[privacy-aware-classroom-incident-recognition-2026]] — Visão computacional sensível à privacidade em plataformas de sala de aula
-- [[raza-farooq-aied-review-2020-2025]] — Revisão abrangente da pesquisa e dos sistemas de AIED
-- [[credentials-carry-evidence-ai-agents-2026]] — Credenciais que carregam suas evidências para o trabalho com agentes de IA
-- [[breideband-community-builder-cobi-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "Vamos corrigir depois": educação, IA e o adiamento da privacidade dos estudantes na edtech
-- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam escapar: uma verificação estrutural de dados educacionais sintéticos

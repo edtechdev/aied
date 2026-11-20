@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -79,7 +81,6 @@ ai_assist:
 
 زبانی جانچ کی دیانت کی دلیل بھی وقت کی پابند ہے: [[corbin-ai-glasses-wearable-ai-assessment-2026|کوربن وغیرہ (2026)]] دلیل دیتے ہیں کہ AI عینک اور ایئر بڈز زندہ ویوا کے اندر چھپے ہوئے حقیقی وقت کے اشارے پہنچا سکتے ہیں، کیونکہ پہننے والا AI نظر کی کوئی تبدیلی یا قابلِ تشخیص اشارہ پیدا نہیں کرتا، چنانچہ تفاعلی زبانی جانچ اب محفوظ نہیں۔
 
-
 - **پیمانے کی چھت ڈیزائن کی پابندی ہے۔** 73 [[cs-education|کمپیوٹنگ]] اساتذہ کے ورکشاپ میں زبانی اور تفاعلی جانچ کو انفرادی سمجھ کا سب سے مضبوط دستیاب ثبوت اور سب سے کم قابلِ توسیع علاج بتایا گیا؛ شرکاء نے جو تخفیفی اقدامات بیان کیے وہ تقسیم اور نمونہ بندی تھے — مشترکہ تدریسی معاونین کے ذخیرے، [[summative-assessment|فائنل امتحان]] سے کم وزن والی [[peer-assessment|ہم مرتبہ جانچ]]، اور طلبہ کے گھومتے ذیلی مجموعے کو بلانا ([[computing-assessment-genai-workshop-report-2026|اکبر وغیرہ، 2026]])۔
 
 ## عام غلط فہمیاں
@@ -87,36 +88,3 @@ ai_assist:
 - **”زبانی جانچ پیمانے پر نہیں ہو سکتی۔“** [[code-review-genai-cs1|CS1 کے زبانی کوڈ جائزے کے مطالعے]] میں **ہفتہ وار پندرہ منٹ کے انٹرویو ہر اسائنمنٹ کے گریڈ کا 70% ساتھ لے کر چلے**، اور چسپاں سے کل حروف کا تناسب پھر بھی معلوماتی رہا۔ قیمت واقعی ہے اور ڈیزائن کورس کے پیمانے پر قابلِ عمل ہے۔
 - **”زبانی امتحانات تحریری سے نرم ہوتے ہیں۔“** رپورٹ شدہ پائلٹ میں اسکور **روبرو کثیر الانتخابی امتحانوں سے بڑھ گئے: مڈٹرم کا میڈین 92.5 بمقابلہ 70 (p < .001) اور فائنل کا میڈین 94.2 بمقابلہ 86.4 (p = .002)**۔ زبانی جانچ نرم آپشن نہیں تھی۔
 - **”نقلی ملاقات تدریجی افشا والے کیسوں کے برابر ہے۔“** [[ai-standardized-patient-scaffolding-medical-2026|ایک سو تیسرے سال کے طبی طلبہ کے ساتھ ایک RCT]] میں نقلی مریض کے نظام کا موازنہ **تدریجی افشا والے کیس مواد** سے کیا گیا — برابری کا مفروضہ نہیں بلکہ براہِ راست امتحان۔
-
-## منسلک تصورات
-
-- [[pedagogical-patterns]] — زبانی اور ویوا تصدیقی ترتیبیں، اور وہ کیا ثابت کرتی ہیں اور کیا نہیں
-- [[assessment]] — وہ وسیع میدان جس کے اندر یہ شکل بیٹھتی ہے
-- [[authentic-assessment]] — وہ ڈیزائن روایت جو دیانت کا مقدمہ بناتی ہے
-- [[assessment-validity]] — کوئی شکل کس چیز کی پیمائش کا دعویٰ کر سکتی ہے اور کیا نہیں
-- [[academic-integrity]] — وہ دباؤ جس نے زبانی جانچ کو دوبارہ نمایاں کیا
-- [[automated-assessment]] — زبانی کارکردگی کی مشینی پیش کش اور گریڈنگ
-- [[ai-detection]] — متبادل جواب، اور یہ کیوں کمزور ہے
-- [[speech-and-voice-technologies]] — وہ گفتگو کی پائپ لائن جس پر زبانی نظام چلتا ہے
-- [[multimodal]] — اشارہ اور گفتگو بطور مشترکہ شہادت
-- [[anxiety-and-stress]] — زندہ کارکردگی کی جذباتی قیمت
-- [[feedback]] — ویوا سیکھنے والے کو اُس کی اپنی سمجھ کے بارے میں کیا بتاتی ہے
-- [[higher-ed]] — وہ ماحول جہاں سے یہ تقریباً سارا ثبوت آتا ہے
-
-## منسلک مضامین
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — غیر شاخ دار AI مکالماتی کام کام کے تقاضوں کو بولنے کی ساخت سے بے جوڑ کر دیتے ہیں
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — زندہ ویوا اب محفوظ نہیں: AI عینک اور ایئر بڈز چھپے حقیقی وقت کے اشارے پہنچاتے ہیں (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — زبانی امتحانات اور جانچ کے استعمال پر دوبارہ غور (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — غیر ہم وقت زبانی جانچ: دیانت، شمولیت اور پیشہ ورانہ مواصلات
-- [[ai-supported-oral-assessment-tvet-2026]] — پیشہ ورانہ تعلیم میں AI کی معاونت والی زبانی جانچ ڈیزائن کرنا
-- [[aivaluate-anxiety-assessment-2026]] — AI کی وساطت والی کارکردگی پر مبنی جانچ میں بے چینی اور تجربہ
-- [[code-review-genai-cs1]] — ابتدائی پروگرامنگ کورس میں زبانی کوڈ جائزے کے انٹرویو
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — زبانی وضاحتوں کی جانچ میں اشارہ بطور شہادت
-- [[socratic-tests-conversational-assessment]] — خودکار مکالماتی جانچ بطور زبانی جانچ
-- [[tool-invariant-framework-agentic-ai]] — AI کی معاونت والے کام کے زبانی دفاع
-- [[ai-standardized-patient-scaffolding-medical-2026]] — نقلی مریض کے نظام کے تحت بولی جانے والی طبی مشاورتیں
-- [[pgr-students-genai-uses-qualitative-2026]] — جنریٹو AI کے تحت ڈاکٹری ویوا
-- [[computing-assessment-genai-workshop-report-2026]] — AI آپ کا ہوم ورک کر سکتا ہے۔ اب کیا؟ جنریٹو AI کے دور میں کمپیوٹنگ جانچ پر آن لائن ورکشاپ کی رپورٹ
-- [[assessment-feedback-trilemma-model-2026]] — کسی بھی شکل کو مستقل جگہ نہیں دیتا اور عملیت کو تعلیمی ترجیح کے طور پر نئے سانچے میں ڈھالتا ہے

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -125,71 +127,3 @@ Desain memoderasi efek lebih dari teknologi dalam sintesis Zhang dan kolega: kap
 - **"Perencanaan pelajaran dengan AI mengembalikan waktu kepada guru."** Waktu perencanaan memang turun, dari 3,32 jam seminggu menjadi 2,51 dengan alat itu, tetapi **guru median hanya merencanakan 21% hingga 40% pelajaran dari nol**. Waktu dihemat dan perencanaannya tidak menjadi jauh lebih menyeluruh: penghematannya terakumulasi alih-alih diinvestasikan kembali.
 - **"Ko-desain dengan AI berbukti baik."** Tinjauan sistematis atas [[wang-teacher-ai-co-design-review-2026|ko-desain tugas belajar oleh guru-AI]] **menegaskan pola itu dalam skala 28 studi**, yang menggambarkan praktik yang konsisten alih-alih menunjukkan hasil yang lebih unggul.
 - **"Rubrik adalah input yang tetap."** Rubrik berfungsi sebagai **antarmuka mediasi antara niat pedagogis manusia dan inferensi mesin**: memperlakukan kriteria penilaian sebagai **dapat direvisi** itulah yang memungkinkan instrumen itu membawa niat pendidik. Rubrik yang tetap memindahkan pembingkaian default mesin ke dalam penilaian.
-
-## Konsep terkait
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - Kemitraan Pedagogis
-- [[online-teaching-and-learning]] - Pengajaran dan Pembelajaran Daring
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-
-## Artikel terkait
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Penghematan waktu perencanaan yang terukur bersamaan dengan temuan bahwa guru hanya merencanakan 21% hingga 40% pelajaran dari nol
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
-- [[tang-chatbots-learning-design-2026]] — Penggunaan chatbot dalam desain pembelajaran: perancang berhenti pada hasil dan pedagogi alih-alih pembuatan konten (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI dalam desain pelajaran lintas pengalaman dan kemahiran AI (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI di pendidikan tinggi: keterlibatan + peran mediasi metode pengajaran
-- [[curriculum-as-code-instructional-design-2026]] — 
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomi (objek batas) untuk mengklasifikasikan aktivitas pembelajaran GenAI
-- [[instructional-agents-multi-agent-course-gen]] — 
-- [[didactical-teacher-assistant-dimensional-modeling]] — 
-- [[instructional-guidance-genai-learning]] — 
-- [[courseblueprint-adaptive-video-generation]] — 
-- [[bridging-instructional-design-framework-math]] — 
-- [[cotal-formative-assessment-scoring-2026]] — 
-- [[genai-mindtool-generative-learning]] — 
-- [[ludia-udl-ai-thought-partner-2026]] — 
-- [[pchl-he-framework-genai-content-creation-2026]] — 
-- [[jeon-isd-agent-bench-2026]] — 
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: agen web otonom mengevaluasi desain pelajaran dan memprediksi putus sekolah siswa sebelum siswa terlibat (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Kerangka untuk Augmentasi AI yang Diaktifkan Secara Kognitif dalam Fisika
-- [[wang-multi-agent-systems-learning-designers-2025]] — 
-- [[ai-tpack-teacher-multi-agent-workflow]] — 
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Tujuh Tuas dan Siswa yang Sendirian dengan AI
-- [[fowlin-operationalizing-learning-principles-ai]] — 
-- [[ai-video-dual-gatekeeping-2026]] — Ketika Mengatakan Tidak Menghasilkan Video Lebih Baik: Gatekeeping Ganda untuk Pembuatan Konten AI yang Berdasar Pedagogis
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah Productive Failure
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI dan Praktik Desain Instruksional: Tinjauan Sistematis (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Membuat AI sengaja menjengkelkan: batasan dalam penulisan berbantuan AI (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Model ruang kelas pintar dan lingkar D-T-E yang meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Platform bertenaga AI yang menghasilkan masalah pemodelan matematika (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Ko-desain tugas belajar oleh guru-AI: tren dan perspektif (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI sebagai kolaborator yang tidak dapat diandalkan dalam kodesain
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Desain memoderasi efek lebih dari teknologinya: kapabilitas GenAI yang sama menghasilkan g = 0.92 ketika pembelajar mengarahkan dan g = 0.34 ketika berjalan otonom (Zhang et al. 2026)
-- [[williams-coding-curriculum-critique-2026]] — Mengodekan Kurikulum: Kritik atas "How AI Makes Its Mark on Instructional Design"
-- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

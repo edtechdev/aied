@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -43,7 +44,3 @@ Pasuje do wykładowców i projektantów uczenia się, którzy chcą ograniczonyc
 ## Uwagi i zastrzeżenia
 
 Bezpłatny plan jest ograniczony do 10 000 kredytów SI i trzech aplikacji; nieograniczone aplikacje i zaawansowane modele zaczynają się w planie Pro, a integracja LTI, logowanie jednokrotne i zaawansowana analityka są wymienione w planie Enterprise, więc funkcje, których instytucja najbardziej potrzebuje, są tymi, które mają cenę. Repozytorium jest objęte licencją **AGPL-3.0** zgodnie z plikiem `LICENSE`, co ma znaczenie dla każdego, kto zamierza je hostować samodzielnie lub modyfikować, a README wciąż mówi o LGPL z czasów przed tą zmianą, więc trzeba czytać plik licencji, a nie README. Instytucje powinny też potwierdzić własne warunki przetwarzania danych, zanim przepuszczą pracę studentów przez hostowaną usługę zewnętrzną.
-
-## Powiązane pojęcia
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]

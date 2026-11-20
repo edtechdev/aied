@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
+connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -81,35 +83,3 @@ ai_assist:
 - **«Стратегическое намерение создаёт потенциал».** Только **7% учреждений** создали руководящие должности в сфере ИИ, несмотря на то что **49% считают ИИ стратегическим приоритетом**. Разрыв лежит между декларацией и структурой, и это повторяющийся сбой управления изменениями в ИИ.
 - **«Принятие ИИ-инструмента — это событие».** **Устойчивость — свойство организации, а не инструмента**: испытание текстовых сообщений в CSUN иллюстрирует масштаб времени. Оценка шла четыре года, потому что именно долговечность и нужно было проверить.
 - **«Учреждениям нужно реагировать быстрее, а не предвидеть».** **Антиципационное лидерство** — комплементарное направление: [[baroudi-anticipatory-governance-ai-higher-ed-2026|скопинговый обзор]] обнаруживает, что учреждения должны перейти от **реактивного к основанному на предвидении** управлению. Компетентная реакция на технологию, которая уже пришла, — это то, что, по свидетельствам, терпит неудачу.
-
-## Связанные понятия
-
-- [[governance]] — структуры политики и надзора, которые делает работоспособными управление изменениями
-- [[educational-policy-ai]] — национальные и институциональные политические замыслы в сфере ИИ, которые управление изменениями должно воплощать в практике
-- [[educational-development]] — развитие потенциала преподавательского состава и педагогической ориентации для интеграции ИИ
-- [[administrator]] — лидерство и антиципационное управление как агенты изменений
-- [[ai-literacy]] — сквозная возможность, лежащая в основе ответственного институционального внедрения
-- [[equity-in-ai-education]] — обеспечение равномерного распределения выгод изменений между учреждениями и учащимися
-- [[technology-acceptance-model]] — драйверы внедрения, объясняющие, как распространяются изменения
-- [[academic-integrity]] — центральный регуляторный якорь, вокруг которого организуется реформа оценивания
-- [[student-support-and-success]] — поддержание программы сопровождения после пилотного этапа
-
-## Связанные статьи
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-
-- [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — global Delphi consensus on eight-area GenAI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — scoping review of anticipatory governance and leadership
-- [[ai-adaptation-gap-higher-education-2026]] — stakeholder gaps in AI use, attitudes, and trust across students, faculty, and staff
-- [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
-- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — Закладывайте 15–20 часов перепроектирования на каждый курс с интеграцией ИИ до последующей постоянной доработки

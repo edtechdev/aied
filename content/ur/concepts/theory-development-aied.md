@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -44,13 +46,10 @@ AIEd میں نظریے کی تشکیل اس حد پر بیٹھتی ہے جو ش�
 
 - **جنریٹیوزم۔** [[generativism-learning-theory|جنریٹیوزم]] ایک نئے سیکھنے کے نظریے کے طور پر تجویز کیا جاتا ہے، جس کی دلیل یہ ہے کہ بیہیویورزم، کوگنیٹیوزم، [[constructivist|کنسٹرکٹیوازم]] اور کنیکٹیوزم میں سے ہر ایک کسی ایک ایسے مفروضے پر کھڑا ہے جسے جنریٹیو AI توڑ دیتا ہے: یہ کہ قابل مشاہدہ پیداوار سیکھنے کی تصدیق کرتی ہے (بیہیویورزم)، یہ کہ علمی عملیات سیکھنے والے کے اندر ہوتی ہیں (کوگنیٹیوزم)، یہ کہ معنی فراہم کیے جانے کے بجائے تعمیر ہوتا ہے (کنسٹرکٹیوازم)، اور یہ کہ مشکل حصہ موجود علم تک پہنچنا ہے، اسے پیدا کرنا نہیں (کنیکٹیوزم)۔ یہ چار تصورات کے نام لیتا ہے — علمی شراکت، تقسیم شدہ ایجنسی، جنریٹیو خواندگی، اور موافقت پذیر میٹا کوگنیشن — اور ہر ایک کے لیے ایک جانچی اشاریہ اخذ کرتا ہے، جو AI کی وساطت سے سیکھنے کے لیے ایک الگ نظریاتی نمونہ نام دینے کی براہ راست کوشش ہے۔ جو یہ نہیں کرتا وہ ایسی تجاویز بیان کرنا ہے جو ناکام ہو سکیں: یہ موجودہ ثبوت کو یکجا کرنے والا موقف کا مقالہ ہے، اس لیے نیچے دیے گئے ایجنٹیوزم کے برعکس یہ قابلِ تردید نظریے کے بجائے الفاظ کا ذخیرہ اور پیمائش کا ایجنڈا پیش کرتا ہے۔
 
-
 - **AI ربط۔** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] نگہداشت کی اخلاقیات اور نو-ماحولیاتی نظریے کے ذریعے AI دور کے لیے ربط کی دوبارہ تشکیل کرتے ہیں، اور "مصنوعی ذہانت کا ربط" کو ایک نفسیاتی طور پر حقیقی مگر اخلاقی طور پر غیر متوازن بندھن کے طور پر متعین کرتے ہیں جس کی تین جہتیں اور چھ قابلِ تردید تجاویز پیمانے کی ترقی کے منتظر ہیں۔
-
 
 سنتھیٹک موقف ایک حریف دعویٰ شامل کرتا ہے جو واقعی تجاویز بیان کرتا ہے: یہ *سنتھیٹک فروغ* اور *مصنفانہ تعطل* کا نام لیتا ہے — ایک ایسا نفس جس کی آواز گھنی ہے مگر مصنف کوئی نہیں — اور ایک کراس اوور تعامل کی پیش گوئی کرتا ہے جس میں زندگی کے فیصلے کے بیانیے کی درجہ بند مصنفیت اور ہم آہنگی مخالف سمتوں میں چلتی ہیں ([[synthetic-position-self-authorship-2026|Du et al. (2026)]])۔
 - **ایجنٹیوزم۔** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] [[human-ai-collaboration|انسانی-AI تعامل]] کے لیے درمیانی درجے کے سیکھنے کے نظریے کے طور پر ایجنٹیوزم تجویز کرتے ہیں، سیکھنے کو AI کے ساتھ کام کی کامیاب تکمیل کے بجائے انسانی صلاحیت میں پائیدار اضافے کے طور پر متعین کرتے ہیں، اور چار میکانزم متعین کرتے ہیں: تفویض شدہ ایجنسی، علمی نگرانی اور تصدیق، تعمیری اندرونی تشکیل، اور کم سہارے کے تحت منتقلی۔ اس صفحے کی دیگر پیشکشوں سے اسے جو چیز الگ کرتی ہے وہ قابلِ تردیدیت ہے: یہ چھ تجاویز بیان کرتا ہے، جن میں یہ بھی ہے کہ سیکھنا اس وقت زیادہ مضبوط ہوتا ہے جب AI مسئلے کی تشکیل، معیارات کے تعین اور جواز کی ذمہ داری طالب علم کے پاس رکھتا ہے، بہ نسبت اس کے کہ جوابات فراہم کرے، اور یہ کہ تصدیق کا مطالبہ تاخیری کارکردگی کو بہتر بنانا چاہیے جبکہ تعمیر کے بغیر بار بار کم رگڑ والی تفویض سیکھنے والوں کی اپنی قابلیت کی معیار بندی کو کمزور کرنی چاہیے۔
-
 
 استاد کی طرف کی نظریہ سازی اب اسی قابلِ امتحان ہونے کا عہد کرتی ہے: کیپابیلیٹی–ڈیسیژن ماڈل [[tpack|AI-TPACK]] قابلیت کو رویّے اور سمجھے گئے رویّاتی کنٹرول سے اوپر رکھتا ہے اور چار عدم تصدیق کی شرطیں نام دیتا ہے — ثالثی کی ناکامی، امتیازی انہدام، اعتدال کی نفی، اور سیاق کی زائدیت — اگرچہ ماڈل ابھی غیر آزمودہ ہے ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]])۔
 
@@ -121,53 +120,3 @@ AIEd میں نظریے کی تشکیل اس حد پر بیٹھتی ہے جو ش�
 
 - اگر آپ نظریاتی شراکت کا ارادہ رکھتے ہیں تو ترتیبی تقابلوں کے لیے ڈیزائن کریں۔ نظریے کی تشکیل کے طور پر شائع ہونے والا اوسط اثر کا تجربہ شعبے کی سب سے عام اور سب سے کم مفید پیداوار ہے۔
 - آپ جو بھی فریم ورک متعارف کروائیں اس کے ساتھ واضح قابلِ تردید تجاویز منسلک کریں، اور بتائیں کہ کون سے ترتیبی فرق انہیں رد کر دیتے۔
-
-## منسلک تصورات
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## منسلک مضامین
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — فعلی درجہ بندی کی توسیع: 154 میں سے 90 قابل درجہ بندی اشاعتیں (58.4%) اصل چار زمروں سے باہر ہیں (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — انسانی-AI تعامل کے لیے درمیانی درجے کا سیکھنے کا نظریہ، چار میکانزم اور چھ قابلِ امتحان تجاویز کے ساتھ (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — فریب دہ زیادہ عمومیت: موافقت پذیر مہارت مشق کو اس وقت روک سکتی ہے جب طلبہ کو معلوم نہیں کہ کب کوئی عمل روکنا ہے (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — جنریٹیوزم بطور نیا سیکھنے کا نظریہ
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — علمی ہم ایجنسی کے نظریے کی طرف
-- [[du-yuan-epistemic-dependence-2026]] — رشتوں کی علمی ایجنسی اور پیداواری انحصار/نقصان دہ انحصار کی حد (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — غائب علمی بیس لائن (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکات اور مہارت کی باز تشکیل
-- [[genai-performance-vs-learning]] — کارکردگی بمقابلہ سیکھنا
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — علمی AI خواندگی (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — اسناد اور علمی سرپرستی
-- [[ai-cognitive-partner-co-regulation-learning]] — ہم ضابطگی میں AI بطور علمی ساتھی
-- [[epistemic-proactivity-math]] — ریاضی میں علمی پیش قدمی
-- [[strydom-human-gai-paradigms-2026]] — علمی عقائد میں جڑے انسانی-GAI شمولیت کے سات نمونے
-- [[critical-thinking-paradox-genai-learning-2026]] — تنقیدی سوچ کا تضاد
-- [[dollinger-equitable-assessment-ai-2026]] — GenAI کے تحت منصفانہ جانچ
-- [[shaw-nave-cognitive-surrender-2026]] — سہ نظام نظریہ اور علمی سپردگی: AI انسانی استدلال کو کیسے نئے سرے سے تشکیل دیتا ہے (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — جنریٹیو AI کے دور میں تفتیشی برادری کی دوبارہ تشکیل
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — یونیورسٹی اساتذہ کے GAI کے تجربات اور ادراک: کمزوری، جانچ کا نئے سرے سے سوچنا، طلبہ کی سیکھنا خطرے میں (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — متبادل AI فلسفہ: تعلیم میں AI کے لیے طریقہ کے طور پر دائومزم
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: تعلیمی مکالمات کی قابلِ آڈٹ کوڈنگ کے لیے دعوے پر مبنی اسکیمیں
-- [[metacognitive-ownership-human-ai-regulation-2026]] — میٹا کوگنیشن ملکیت: تصور کی تعریف، حدود، اور تحقیقی ایجنڈا
-
-- [[synthetic-position-self-authorship-2026]] — سنتھیٹک موقف: مکالماتی نفس کی ایک پیشکش جو سنتھیٹک فروغ اور مصنفانہ تعطل کا نام لیتی ہے اور کراس اوور پیش گوئی دیتی ہے
-- [[capability-decision-model-teacher-readiness-2026]] — قابلِ تردید، قابلیت اول استاد کی تیاری کا ماڈل، چار عدم تصدیق کی شرطوں کے ساتھ
-- [[ai-connectedness-adolescent-mental-health-2026]] — مصنوعی ذہانت کا ربط: بعد میں آزمائش کے لیے سہ جہتی تصور اور چھ قابلِ تردید تجاویز
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — علمی شراکت داری کا چکر
-- [[friction-paradox-generative-ai-education-abroad-2026]] — بیرونِ ملک تعلیم میں تشریحی ایجنسی پر مطلوب مشکلات اور پیداواری ناکامی کا اطلاق
-- [[webb-pck-genai-2026]] — تین ونیٹ اور ایک نیا تعمیر، چھدم-cPCK، اُس پیداوار کے لیے جو اجتماعی طور پر تصدیق شدہ علم کی نقل کرتی ہے بغیر جواز کے (Webb وغیرہ 2026)

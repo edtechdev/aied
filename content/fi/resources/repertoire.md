@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -52,9 +53,3 @@ Korkeakoulutuksen opettajille, jotka haluavat tekoälypolitiikan nojaavan [[lear
 - **Kolmannen osapuolen inferenssi.** Vastaukset tuotetaan Anthropicin Claude API:n kautta, OpenAI:n API varalla, kaupallisilla ehdoilla, joiden politiikka sanoo sulkevan pois API-syötteillä ja -tulosteilla kouluttamisen syyskuusta 2026 alkaen. Laitoksen tulisi varmistaa tämä omalla sopimuksellaan eikä verkkosivun perusteella.
 - **Se ei ole arvioija.** Politiikka ja ehdot kuvaavat molemmat avustajan arvioita, kuten ”tavoite saavutettu”, opettajan apuvälineiksi; arvosanat ja akateemiset päätökset pysyvät opettajalla ja laitoksella, ja päätökset [[ai-use-disclosure|tekoälyn käytön ilmoittamisesta]] opiskelijoille jäävät opettajalle.
 - **Isännöity Yhdysvalloissa.** Data sijaitsee Google Cloud Firestoressa Vercelin isännöimänä, ja politiikka käsittelee FERPA-velvoitteita, kun palvelu käsittelee koulutustallenteita; Yhdysvaltojen ulkopuolisille käyttäjille kerrotaan, että heidän datansa käsitellään siellä.
-
-## Liittyvät käsitteet
-
-- [[learning-design]] — jäsennelty tehtäväsuunnittelu kohtana, jossa tekoälypolitiikka muuttuu konkreettiseksi.
-- [[guardrails]] — sitoutumisportaat ja rajattu tekoälyapu suunnitteluaikaisina rajoitteina.
-- [[ai-use-disclosure]] — opettaja, ei alusta, päättää, miten tekoälyn käyttö ilmoitetaan opiskelijoille.

@@ -26,6 +26,7 @@ translation_of: resources/deeptutor
 source_updated: "2026-09-20T17:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,6 +44,3 @@ Makalenin raporladığı çerçevenin dağıtılabilir bir sürümünü isteyen 
 ## Notlar
 
 Apache 2.0 ile lisanslıdır ve Eylül 2026 itibarıyla 1.6.9 sürümünde, yaklaşık 40.000 GitHub yıldızı vardır. Arkasındaki yayımlanmış değerlendirme — güçlü temeller üzerinde kişiselleştirilmiş ölçütlerde ortalama %10,8 iyileşme ve beş omurga modelinde genel ajan akıl yürütmesinde %29,4 daha güçlü, TutorBench kıyaslamasında — [[zhao-deeptutor-agentic-personalized-tutoring-2026|makale sayfasında]] özetlenir ve onun sınırlılıkları burada da geçerlidir. Herhangi bir açık kaynaklı YZ yığınında olduğu gibi, model sağlayıcı anahtarlarını siz sağlarsınız ve bir masaüstü veya sunucu dağıtımı Python 3.11 ile Node bekler.
-
-## Bağlı kavramlar
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

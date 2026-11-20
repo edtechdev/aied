@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, active-learning, cs-education, edtech-platform]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -43,7 +44,3 @@ A projekt egy **[tanító ügynököt](https://github.com/LiaScript/teaching-age
 ## Megjegyzések és fenntartások
 
 A LiaScript ingyenes, fizetős szint és fiókkövetelmény nélkül, és nyíltan fejlesztik BSD-3-Clause alatt, így az intézmények saját maguk hosztolhatják és módosíthatják. A Live Classroom funkció érdemes egy pillantást, mielőtt nagy léptékben támaszkodna rá, mivel a valós idejű szinkronizálás megosztott szolgáltatást használ, nem tisztán helyi renderelést. A tanító ügynök fiatal és kevéssé elterjedt, ezért működő prototípusként kezelje, nem támogatott termékként.
-
-## Kapcsolódó fogalmak
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]

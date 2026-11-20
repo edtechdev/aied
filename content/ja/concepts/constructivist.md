@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -117,58 +119,3 @@ ai_assist:
 - **「どんな問いをしたかを見れば、構成主義的な授業かどうかが分かる。」** DeBERTa 分類器は、**事実を伝達する知識伝達型の問いを 96.67% の精度で分類しましたが、促進者の問いは 78.79% しか分類できず**、**どのモデルも二つの高次の役割を取り違えました**。最も重要な構成概念こそ、自動検出が最も苦手とするものなのです。
 - **「授業の表面的な特徴が、その教授法を明らかにする。」** 分類器の失敗は実装の細部ではありません。促進者と構成主義者の役割が難しいのは、まさにそれらが、学習者の思考に対して教師が何をするかによって定義されるからであり、その関係は問いのテキストだけからは復元できないのです。
 - **「構成主義とは、教師が説明しないことである。」** この理論は、学習が経験からの学習者自身の構築にあると位置づけるものであり、直接教授と両立します。それを「教えないこと」の禁止とみなすのは、理論と、worked example に関する証拠の双方を読み違えています。
-
-## 関連概念
-
-- [[community-of-inquiry]] — 探究のコミュニティ(構成主義的/デューイ的プラグマティズムに根ざす)
-- [[cognitive-psychology]] — 認知主義、学習理論の第三の古典的な極
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — 化学教育とAI:実験、形成的評価、LLMの限界、実験の哲学
-- [[theory-development-aied]] — 教育におけるAIの理論発達
-- [[productive-failure]]
-
-## 関連記事
-
-- [[lee-learner-question-types-ai-education-2026]] — 学習者の問いを3つの構成主義的役割に分類:伝達者、促進者、共学者(Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — AIEDの歴史において構成主義(パパート)を認知チューターに対置する
-- [[code-to-learn-genai-artifact-construction-2026]] — GenAIによる学ぶためのコード:生成物構築のための構成主義フレームワーク
-- [[ai-writes-code-student-writes-model-2026]] — モデル著者性:GenAIを使った構築による学習の理論と測定プログラム
-- [[ai-vocational-education-training-review]] — 構成主義は標彰されるが行動主義的なAIが職業教育を支配。「チューリングの罠」
-- [[generative-refusal-ai-tools-for-thought]] — 構築的思考を守るために生成を差し控えるAIツール
-- [[genai-mindtool-generative-learning]] — 学習者の構築を支える思考道具としてのGenAI
-- [[ai-agents-constructive-conflict-design-education-2026]] — 構築的な再考を促す敵対的なAIエージェント
-- [[hingle-collaborative-ai-literacy-2025]] — 協働的AIリテラシーとICAP関与フレームワーク
-- [[ai-internal-feedback-evaluative-judgments]] — 評価的判断を生むAI支援の比較
-- [[icap-cognitive-engagement-llm-agents]] — ICAPとLLMエージェントとの認知的関与
-- [[conversational-ai-tutors-framework]] — AIチューターにおける足場かけの対話
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AIの促進者による身体化された探究
-- [[beyond-detection-authentic-assessment-ai-2025]] — 真正な評価と知識構築
-- [[teacher-ai-teaming-five-levels]] — 設計における教員とAIの協働の水準
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 学習者と機械の間の認識論的コー主体性
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — AIを活用した教育ロボティクスへの道筋(2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution:学生の認知的発達を模擬する生成エージェント
-
-- [[synthetic-position-self-authorship-2026]] — 模擬されたAIの反対の立場は対話の形式を反復するが、改訂を促す抵抗を差し控える
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 学習の罰：宿題の得点は18%上昇、閉じた本の試験は20%低下し、宿題を外注した者に集中した
-

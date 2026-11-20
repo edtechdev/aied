@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -117,69 +119,3 @@ ai_assist:
 - **"স্কোরিং-মানদণ্ড একটি কারিগরি বিষয়।"** কঠোর মিল একই ২,২৫০টি টিউটরিং আলাপকে **৪২.১%** স্কোর দেয়, যেখানে মানব-ক্যালিব্রেটেড এলএলএম-as-judge স্কোর দেয় **৮১.৩%** ([[misconcept-dialogue-llm-math-tutoring-2026|লি প্রমুখ, ২০২৬]]) — মানদণ্ড সংখ্যাটি বদলায় টিউটর-মডেল, কৌশল বা পাইপলাইনের চেয়ে বেশি।
 - **"শনাক্তকরণ ও উৎপাদন তুলনীয় সক্ষমতা।"** **শনাক্তকরণ উৎপাদন নয়।** TutorCaseBench-এ **১১টি মডেলের** সেরাটি **চার-বিকল্প আইটেমের ৬৩.০%**-এ নথিভুক্ত কৌশল বেছে নেয়, অথচ নথিভুক্ত বাস্তবায়ন-মানদণ্ড অনেক কম সময়ে পূরণ করে। চারটির মধ্যে সঠিক উত্তর বাছাই আর তা উৎপন্ন করা ভিন্ন কাজ।
 - **"বৈধায়িত যন্ত্র ছাড়া মডেল-স্কোর অর্থবহ।"** **৭১টি শ্রেণির** জন্য কোর্স-উপযোগী পরীক্ষা উৎপন্ন করা হয় এবং মানব-রচিত এপি পরিসংখ্যান আইটেমের বিপরীতে **বায়েসীয় অনুক্রমিক 2PL** মডেলে বেঞ্চমার্ক করা হয় — স্কোর ব্যাখ্যা করার আগেই যন্ত্রটি ফিট করা হয়েছিল।
-
-## সংযুক্ত ধারণা
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — এআই-সহায়ক শিক্ষা গবেষণা
-- [[assessment-validity]] — এআই-শিক্ষা মূল্যায়নে ব্যাখ্যার বৈধতা
-- [[educational-measurement]] — শিখন মূল্যায়নের জন্য পরিমাপ তত্ত্ব
-- [[psychometrically-aware-ai]] — এআই-ভিত্তিক মূল্যায়নে সাইকোমেট্রিক্সের প্রয়োগ
-- [[benchmark]] — এআই সিস্টেম মূল্যায়নের প্রমিত বেঞ্চমার্ক
-- [[automated-assessment]] — এআই-ভিত্তিক গ্রেডিং ও স্কোরিং ব্যবস্থা
-- [[learning-analytics]] — শিখন-আচরণের ডেটা-চালিত বিশ্লেষণ
-- [[research-methods-aied]] — শিক্ষায় এআই-এর গবেষণা পদ্ধতি
-- [[learning-gains]] — এআই সরঞ্জাম থেকে শিখন-লাভ পরিমাপ
-- [[formative-assessment]] — শিক্ষাদান পরিচালনার জন্য চলমান মূল্যায়ন
-- [[summative-assessment]] — সমষ্টিগত মূল্যায়ন: এআই-প্রতিরোধী ধরন (মৌখিক, প্রহরীযুক্ত, বন্ধ-বই পরীক্ষা)
-- [[authentic-assessment]] — বাস্তব-জগতের, স্থানান্তরযোগ্য কর্মদক্ষতার মূল্যায়ন
-- [[human-in-the-loop-ai]] — এআই মূল্যায়নে মানব তদারকি
-- [[trust-calibration]] — এআই সিস্টেমে বিশ্বাসের ক্রমাঙ্কন
-- [[hallucination-risk]] — এআই আউটপুটে বানানো বিষয়বস্তুর ঝুঁকি
-- [[intelligent-tutoring]] — এআই টিউটরিং সিস্টেমের মূল্যায়ন
-- [[agentic-ai]] — স্বায়ত্তশাসিত এআই এজেন্টের আচরণ মূল্যায়ন
-
-## সংযুক্ত নিবন্ধ
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: চ্যালেঞ্জিং আচরণের শিক্ষার্থীদের ওপর এলএলএম টিউটর মূল্যায়ন (পার্ক প্রমুখ ২০২৬)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: অনলাইন টিউটরিং ভিডিওতে শিক্ষামূলক আকস্মিকতা-বোঝাপড়া নির্ণয়
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — প্ল্যাটফর্ম-স্কোর কী মিস করে: এআই শিক্ষাদান-এজেন্টের বহুমাত্রিক মূল্যায়ন
-- [[assessment-latent-structure-human-llm-2026]] — মূল্যায়ন-যন্ত্র কি মানুষ ও এলএলএম-এর জন্য একই জিনিস মাপে? (স্ট্রুগাৎস্কি প্রমুখ ২০২৬)
-- [[assessing-quality-ai-generated-exams-field-2025]] — এআই-উৎপন্ন পরীক্ষার মান মূল্যায়ন: একটি বৃহৎ-মাপের ক্ষেত্র-গবেষণা
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — নিউরো-সিম্বলিক শিক্ষামূলক অ্যালাইনমেন্ট (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — এলএলএম টিউটরিং এজেন্টের তিন-মুখী শ্রেণিবিন্যাস বেঞ্চমার্ক (ইয়াসির প্রমুখ ২০২৬)
-- [[drawedumath-vlm-struggling-students-2026]] — DrawEduMath-এ VLM মূল্যায়ন: ত্রুটি-কনটেন্ট সবচেয়ে কঠিন (লুসি প্রমুখ ২০২৬)
-- [[cdpk-pedagogy-benchmark-llms]] — এলএলএম শিক্ষামূলক জ্ঞানের বেঞ্চমার্কিং (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — এলএলএম শ্রেণিকক্ষ-পর্যবেক্ষণের বৈধতা যাচাই: নির্ভরযোগ্যতা বনাম নির্ভুলতা (মেলো প্রমুখ ২০২৬)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — অন-প্রিমাইজ OER এআই জ্ঞানভিত্তি সহায়ক: বহুমাত্রিক মূল্যায়ন
-- [[ground-truth-reliability-aied]] — গ্রাউন্ড ট্রুথ আধুনিকীকরণ: নির্ভরযোগ্যতা ও বৈধতা উন্নতির চারটি পরিবর্তন
-- [[calibrating-trustworthiness-llm-education-2026]] — বিশ্বাসযোগ্যতা ক্যালিব্রেট করা: মেট্রিক ও ভিজ্যুয়ালাইজেশনের সহ-নকশা
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: এলএলএম শিক্ষাদান-সক্ষমতা মূল্যায়ন
-- [[machines-misread-pedagogical-quality]] — যন্ত্র কেন শিক্ষামূলক মান ভুল পড়ে: মানব-যন্ত্র অ্যালাইনমেন্ট
-- [[cong-confidence-asag-2026]] — এলএলএম দিয়ে স্বয়ংক্রিয় সংক্ষিপ্ত-উত্তর গ্রেডিং
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: গঠনমূলক মূল্যায়নের জন্য মানব-লুপে প্রম্পট ইঞ্জিনিয়ারিং
-- [[llm-cognitive-diagnosis-handwritten-math]] — শিক্ষার্থীদের সংজ্ঞানাত্মক দক্ষতা নির্ণয়ে এলএলএম-এর বেঞ্চমার্কিং
-- [[tutoring-effectiveness-index]] — Tutoring Effectiveness Index: এলএলএম গণিত টিউটরের মান পূর্বানুমান
-- [[jeon-isd-agent-bench-2026]] — ISD এজেন্ট বেঞ্চমার্ক
-- [[tool-invariant-framework-agentic-ai]] — গণনামূলক পদ্ধতি শিক্ষাদান ও মূল্যায়নের একটি টুল-নিরপেক্ষ কাঠামো
-- [[valid-student-simulation-llm-2026]] — বৃহৎ ভাষা মডেল দিয়ে বৈধ শিক্ষার্থী-অনুকরণের দিকে
-- [[llm-difficulty-calibration-programming-exams-2026]] — মূল্যায়িত মডেল থেকে মূল্যায়ন-সহায়কে
-- [[socratic-tests-conversational-assessment]] — সক্রেটিক পরীক্ষার তাত্ত্বিক ভিত্তি
-- [[responsible-assessment-ai-era-stanford-2026]] — এআই-যুগে দায়িত্বশীল মূল্যায়ন
-- [[authentic-products-authenticated-processes-2026]] — প্রামাণিক পণ্য থেকে প্রমাণিত প্রক্রিয়ায়
-- [[genai-educational-outcomes-meta-analysis]] — জেনারেটিভ এআই-এর শিক্ষামূলক ফলাফলের মেটা-বিশ্লেষণ
-- [[zhang-tutormoments-2026]] — যখন সহায়তা সহায়ক নয়: উৎপাদনশীল সংগ্রামের জন্য এআই টিউটর মূল্যায়ন
-- [[elbench-education-llm-benchmark-2026]] — ELBench: শিক্ষা এলএলএম বেঞ্চমার্ক
-- [[ai-grading-handwritten-physics-2026]] — হাতে লেখা পদার্থবিজ্ঞান মূল্যায়নের এআই গ্রেডিং (অলিম্পিয়াড)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — লার্নিং অ্যানালিটিক্সের জন্য স্ব-ব্যাখ্যামূলক এলএম ডিস্টিল করা
-- [[burneo-can-edtech-close-learning-gaps-2026]] — অভিযোজিত + এআই এডটেকের মেটা-বিশ্লেষণমূলক মূল্যায়ন
-- [[xiong-ai-educational-measurement-review-2026]] — স্কোরিং, সাইকোমেট্রিক্স ও মূল্যায়ন জুড়ে এআই-এর ভূমিকা
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — উদ্ভাবনের গতিতে এআই টিউটরিং মূল্যায়ন: GCSE বিজ্ঞানে একটি এআই টিউটরিং প্ল্যাটফর্মের অনুশীলনকারী-নেতৃত্বাধীন মাইক্রো-র‍্যান্ডমাইজড ট্রায়াল
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: প্রক্রিয়া-ভিত্তিক গণিত আইটেম-মান মূল্যায়ন
-- [[durable-skills-measurement-ai-teammates-2026]] — টেকসই দক্ষতার স্কেলযোগ্য পরিমাপের দিকে
-- [[pivot-generative-video-tutors-stem-2026]] — কনটেন্ট-উৎপাদন থেকে শিখন-সহায়তায়: STEM শিখনে শিক্ষাবিদ্যা-নির্দেশিত জেনারেটিভ ভিডিও টিউটর
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: এআই ও মানব টিউটরিং সমান GRE শিখন-লাভ দেয়
-- [[synthetic-educational-data-structural-fidelity-2026]] — বিশ্বস্ততা-মেট্রিক কী মিস করে: সিন্থেটিক শিক্ষামূলক তথ্যের একটি কাঠামোগত যাচাই
-- [[bloom-classifier-ai-assisted-questions-2026]] — নতুন এআই-সহায়ক শিক্ষামূলক প্রশ্নের শিক্ষামূলক মূল্যায়নে পূর্ব-প্রশিক্ষিত মডেলের মূল্যায়ন
-- [[llm-judge-evaluation-educational-ai-2026]] — যখন মূল্যায়করা বৃথা চিৎকার করে: শিক্ষায় এআই-তে উৎপাদন-পর্যায়ের এলএলএম-as-Judge মূল্যায়নের শিক্ষা
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — একটি গ্রন্থিমিতিক মানচিত্র প্রকাশ করতে পারে একটি মূল্যায়ন-সংস্কৃতি কী পুরস্কৃত করে
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: মূল্যায়ন-মানদণ্ড এলএলএম গণিত টিউটরিংয়ে মাপা সাফল্যকে গঠন দেয় (লি প্রমুখ ২০২৬)

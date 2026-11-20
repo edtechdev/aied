@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [ai-literacy, inclusive-learning, multilingual-learning, teacher-ai-competency, language-learning]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -45,8 +46,3 @@ K-12 の教師と、その教師を育成する専門的な研修の担い手を
 ## 注記と注意点
 
 コンテンツは CC BY-NC 4.0、基盤となるコードは MIT でライセンスされています。出典を明記すれば、教室での利用、ローカルホスティング、翻案は認められていますが、教材を販売したり有料研修に組み込んだりするには TCEA の書面による許可が必要です。他者が作成した著作物はライセンスの対象外であり、読書活動は著作権で保護された作品の本文を一切複製していません。プロジェクトは、コンテンツと翻訳が編集者のレビューを経た生成 AI によって作成されたこと、翻訳は機械支援によるもので教室での使用前に地域の教育者によるレビューが求められることを明示しており、学区が大規模に採用する前にはこの点を真剣に受け止める価値があります。すべての活動は学生のブラウザ上で動作し、ログインもデータ収集もありません。
-
-## 関連する概念
-
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
-

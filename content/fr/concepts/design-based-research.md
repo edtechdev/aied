@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -82,30 +84,3 @@ La DBR est la méthode emblématique des [[learning-sciences|sciences de l'appre
 **« Parce que la DBR produit un artefact fonctionnel, elle a démontré son efficacité. »** Une conception qui fonctionne là où elle a été co-produite a démontré une viabilité locale, ce qui est une affirmation différente de l'efficacité. L'artefact porte les adaptations faites pour ce contexte, et le transférer transfère des postulats qui n'ont jamais été énoncés comme tels.
 
 **« Traiter un instrument comme un artefact de conception révisable s'écarte de la DBR. »** C'est le caractère itératif de la DBR appliqué à la mesure plutôt qu'à l'intervention : une étude a traité la grille elle-même comme l'artefact, en cyclant par co-affinage avec un [[llm|LLM]]. Cette extension mérite d'être notée parce qu'elle fait du développement de l'instrument lui-même une partie des données probantes.
-
-## Concepts liés
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Articles liés
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR pour un modèle d'apprentissage collaboratif assisté par IA
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR pour la formation à la littératie en IA dans la formation des enseignants
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR pour les standards d'intégration technologique des enseignants
-- [[human-centered-ai-teacher-educators-2026]] — IA centrée sur l'humain pour les formateurs d'enseignants (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six études DBR mettant en œuvre AIDA à l'Open University
-- [[critical-thinking-genai-scaffolding]] — DBR pour l'étayage de la pensée critique par l'IA générative
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR pour un programme de littératie en IA intégré aux sciences (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI) : programme de littératie en IA centré sur le jeu pour le préscolaire et le jardin d'enfants (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Les LLM comme agents de conception pédagogique itérative

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -77,9 +79,7 @@ Il risultato negativo più netto nella base di conoscenza proviene da un impiego
 
 Laddove la pratica immersiva è usata per abilità interpersonali e procedurali, il fattore limitante non è la fedeltà visiva ma l'autenticità percepita. Una revisione [[mixed-methods-research|metodi misti]] della simulazione infermieristica potenziata dall'IA (19 studi, N = 1.253) ha trovato l'IA efficace per la conoscenza cognitiva e gli esiti affettivi ma incoerente per le abilità psico-motorie complesse, e ha nominato il motivo: un **divario di autenticità** che copre risonanza emotiva, riconoscimento degli indizi non verbali, e le dimensioni tattili e di [[summative-assessment|esame]] fisico. La sua raccomandazione pratica è un **continuum di simulazione a gradini** — l'IA si adatta bene a obiettivi altamente strutturati come la comunicazione di base e la raccolta anamnestica, mentre gli scenari psico-motori avanzati ed emotivamente complessi appartengono ai pazienti standardizzati umani e al tirocinio clinico. L'instabilità tecnica aggrava il problema: i ritardi nel riconoscimento vocale iniettano [[cognitive-offloading|carico cognitivo]] e [[anxiety-and-stress|ansia]] estranei, il che rende stabilità e latenza leve di design anziché dettagli di implementazione.
 
-
 Gli avatar e gli umani digitali sono il volto umano di quello strato, e [[ai-avatars-and-synthetic-instructors]] raccoglie i casi in cui il realismo non ha predetto l'efficacia: SOPHIE otteneva la stessa valutazione della comunicazione dietro lo stesso avatar a prescindere dal backend, e gli studenti di TriKoNet rifiutavano del tutto le persone fotorealistiche.
-
 
 La stessa logica spiega perché la presenza non è automaticamente positiva. La nausea da movimento, l'incoerenza dell'interfaccia utente, il costo dell'hardware e l'accesso diseguale ai dispositivi decidono chi possa usare un ambiente immersivo del tutto, ed è per questo che le questioni di [[equity-in-ai-education|equità]] della modalità si collegano all'[[accessibility|accessibilità]] e all'[[inclusive-learning|apprendimento inclusivo]] anziché stare in disparte da esse.
 
@@ -88,41 +88,3 @@ La stessa logica spiega perché la presenza non è automaticamente positiva. La 
 - **"Sentire il fenomeno significa comprenderlo."** Un pilota ha rilevato che gli studenti riferivano di **sentire** lunghezza d'onda e ampiezza attraverso un gesto della mano più fortemente che attraverso uno slider — ma **misurava la percezione, non il rendimento**. Il senso vissuto è l'affordance, e se abbia prodotto comprensione è un test separato.
 - **"Punteggi di usabilità elevati validano uno strumento VR educativo."** In **una sessione di un'ora con 10 studenti** su un Meta Quest 3, lo studio riportava **buona usabilità sulla System Usability Scale e nausea da simulazione minima**. Usabilità e comfort sono prerequisiti e nessuno dei due è una misura dell'apprendimento.
 - **"L'accordo degli studenti è prova dell'affordance."** Con **29 studenti di secondo anno di imaging medico**, tutti e 29 **concordavano che il gesto li aiutava a "sentire" cos'è la lunghezza d'onda (media 4,52)**. L'accordo unanime su una sensazione è autovalutazione dell'esperienza, e l'affermazione sull'affordance richiede un esito che non dipenda dal giudizio dello studente sulla propria comprensione.
-
-## Concetti collegati
-
-- [[simulation]] — ciò che gli ambienti immersivi di solito visualizzano; il modello, non la modalità
-- [[embodied-learning]] — il meccanismo che la modalità dovrebbe sfruttare
-- [[multimodal]] — gesto, voce e input spaziale come canali di apprendimento
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — il contesto in cui la pratica immersiva è più consolidata
-- [[generative-ai]] — il nuovo livello di authoring
-- [[prompt-engineering]] — come i non programmatori costruiscono e raffinano strumenti immersivi
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — ancorare la guida dentro il visore
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — la fedeltà, e la consapevolezza di chi apprende dei suoi limiti
-- [[cognitive-offloading]] — latenza e instabilità come carico estraneo
-- [[edtech-platform]] — sincronizzazione, latenza e presenza multi-sede
-- [[arts-and-media-education]]
-
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Articoli collegati
-
-- [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence
-- [[mixed-reality-engineering-learning]] — mixed-reality apps vs physical toolkits vs classroom in engineering mechanics; engagement up, complex visualization still hard
-- [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-assisted multimodal instruction in VR stage lighting education, and where grounding broke down (Liang et al. 2026)

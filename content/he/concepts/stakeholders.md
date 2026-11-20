@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -80,42 +82,3 @@ ai_assist:
 **"ניתוח בעלי עניין הוא תרגיל בשלב מוקדם."** המתחים נמשכים אל תוך התפעול, מכיוון שהתפקידים ממשיכים לפרש את אותה מערכת אחרת. שכבת [[personalized-learning|התאמה אישית]] לסטודנט ולוח-מחוונים ליושרה לסגל הם אותם נתונים במבט משתי עמדות, והקונפליקט חוזר בכל פעם שאחד מהם מותאם.
 
 **"זהות בין קהלים פירושה שהודעה אחת יכולה לשרת את כולם."** תקשורת בין קהלים דורשת תרגום של אותה החלטה למונחים שונים בלי לייצג אותה שלא כהלכה, וזה יותר מלנסח מחדש הודעה אחת בארבע דרכים.
-
-## מושגים מקושרים
-
-- [[learners]] — לומדים: המטרייה למושגים בצד הלומד
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — מי מחזיק בתביעה על החלטות תמיכה מוסדית בבינה מלאכותית
-
-## מאמרים מקושרים
-
-- [[genai-student-experiences-uk-he-survey-2026]] — חוויות סטודנטים של GenAI בהשכלה גבוהה בריטית
-- [[ai-uk-higher-education-policy-2026]] — בינה מלאכותית במדיניות השכלה גבוהה בריטית (סטודנטים ומוסדות)
-- [[ai-campus-wellbeing-tools]] — כלי רווחה מונעי-בינה מלאכותית בקמפוס
-- [[ai-tpack-mathematics-teacher-education-2026]] — מוכנות AI-TPACK בהכשרת מורים למתמטיקה
-- [[genai-policies-higher-ed-computing]] — מדיניות GenAI מוסדית במחשוב
-- [[ethical-ai-higher-ed-game-theory]] — מסגרת משחק תיאום לשימוש אתי בבינה מלאכותית בהשכלה גבוהה
-- [[student-rationalization-ai-writing]] — הצדקת שימוש בבינה מלאכותית על ידי סטודנטים בכתיבה אקדמית
-- [[ai-changing-teaching-workflows]] — כיצד בינה מלאכותית משנה תהליכי הוראה
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — תפיסאות בעלי עניין של GenAI בהשכלה גבוהה (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -78,29 +80,3 @@ E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve göst
 **Araştırmacılar için**
 
 - YZ artı portfolyo paketlerini incelerken bileşen yalıtımı için tasarlayın; aksi halde alan ayrıştıramadığı kombinasyon etkileri biriktirir.
-
-## Bağlı Kavramlar
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Bağlı Makaleler
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Multiliteracies development using AI-assisted portfolio assessment konusundaki öğrenci algıları (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL konuşma ve geri bildirim okuryazarlığı için e-portfolyo değerlendirmesiyle uyumlu ChatGPT (Laksana ve ark. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — YZ çağında portfolyo ve yetkinlik temelli değerlendirme
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Toplumsal katkı portfolyoları dahil üretici YZ’ye dayanıklı otantik değerlendirme
-- [[beyond-detection-authentic-assessment-ai-2025]] — YZ’ye dirençli değerlendirme olarak açıklamalı portfolyolar / sözlü savunmalar
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Hibrit öğrenenler için Sembiyotik Portfolyo
-- [[pbl-structural-conditions-ai-2026]] — Ölçekli değerlendirmeye kısmi yanıt olarak portfolyolar
-- [[learn-framework-responsible-genai-pbl-2026]] — Değerlendirilebilir öğrenme izleri olarak kişisel öğrenme portfolyoları

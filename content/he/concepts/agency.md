@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
+connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -62,7 +64,6 @@ ai_assist:
 
 מחקר פאנל בשלוש גלים על 342 סטודנטים ב-85 קבוצות כתיבה קבועות נותן לדאגה זו כיוון זמני: לאחר שבדלים יציבים בין-אנשים הופרדו במודל פאנל חוצה-מעקב עם יירוטים אקראיים, הסתמכות מופרזת מהרגיל על [[generative-ai|GenAI]] חזה פחות סוכנות נתפסת לאחר מכן, בעוד שהמסלולים של סוכנות-להסתמכות היו חלשים יותר ולא נתמכו סטטיסטית, אם כי רווחי הסמך וניתוחי הרגישות מונטה קרלו הניחו אפשרות להשפעות הפוכות קטנות. גם נתוני היומן שלו מזהירים מפני קריאת נפח השימוש כאבדן סוכנות — הסתמכות מדווחת-עצמית אכן התאימה לעוצם השימוש ב-AI, אך היומנים לא יכלו להבחין בין ייעוץ אסטרטגי ל[[cognitive-offloading|הטענת עומס]] או להיכנעות, ולכן [[visualization|לוחות מחוונים]] צריכים לקרוא עוצם לצד ראיות של שיח, רפלקציה ומבחן מחדש.([[genai-reliance-human-agency-collaborative-learning-2026|Wu & Lu, 2026]])
 תיאור משלים מרחיב את SRL במקום להחליפו: [[de-barba-srl-genai-2026|de Barba (2026)]] מבחין בין רגולציה (ניהול התהליך של עצמו), אינטגרציה (ארגון העצמיות על פני זמן והקשרים) ומיצוב (פירוש ביקורתי של מה שהסביבה מודדת), וטוען שעיצוב מונחה-סוכנות חייב להעביר לומדים מ"סוכנות בתוך תנאים" ל"סוכנות על תנאים" במקום לייעל מתווי התנהגות.
-
 
 - **סוכנות ניתנת לדירוג מתוך ההנחיה עצמה.** טקסונומיית עומק הסוכנות האנושית מדרגת את התרומה ההנדסית של סטודנט בשש דרגות, בלי תלות בפלט ה-AI; על פני 962 הנחיות מ-105 סטודנטים שנה-ראשונה להנדסת תוכנה, 84.2% עברו את הדרגה הנמוכה ביותר אך רק 5.3% הגיעו לדרגה הגבוהה ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba et al. (2026)]]).
 
@@ -112,9 +113,7 @@ ai_assist:
 
 קריאה מבנית של סוכנות מופיעה ב[[ai-agents-joyful-assessment-third-space-2026|מסגרת ההערכה המשמחת של El Khoury and Ma]], שבה הסוכנות נטופלת כמאפיין עיצוב ולא כמוטיבציה: הסטודנטים בוחרים את סדר המשימות, קובעים את הקצב, ומסמנים מתי אינטראקציה מסתיימת, כך שתמיכה זמינה בעוד האחריות על העבודה נשארת עם הלומד. המנגנון שהם מכנים הוא הערכה (appraisal) — חזרה ללא קהל ובחירת מתי להתחיל משנה מה שהמשימה פירושה, מפסק-דין למשהו שהסטודנט יכול לעצב — והם טוענים שחוויה חוזרת של אותו שינוי היא זו שמבססת תחושות אקראיות של יעילות לעמדה יומיומית כלפי הערכה.
 
-
 - **"שימוש רב יותר ב-AI מפחית את תחושת הבעלות של סטודנטים."** לא באופן לינארי. במחקר חיבורים מתוקן, בעלות נתפסת ירדה רק בקבוצה שהאצילה חיבורים שלמים, בעוד סטודנטים שהשתמשו במודל לתכנון או לסקירה השוו לבעלות של סטודנטים שלא פתחו אותו כלל. אותה קבוצה גם קיבלה ציון גבוה יותר בקריאות החיבור, כך שהארטיפקט נראה טוב יותר ככל שהבעלות הלכה והתדלדלה. הסוכנות עקבה אחר איך נעשה שימוש בכלי ולא אחר השאלה אם נעשה בו שימוש. [[jelson-students-chatgpt-essay-writing-2026|בעלות היא פונקציה של האצלה, לא של שימוש]].
-
 
 ## סוכנות לעומת זהות הלומד
 
@@ -148,69 +147,3 @@ ai_assist:
 - **"סטודנטים מפעילים סוכנות כשהם משתמשים ב-AI בחופשיות."** **סכמה בת 14 קטגוריות שקידדה 6,788 תורים בסיוע ChatGPT** מיקמה **59% מהתורים של תלמידי כיתה ז'** בקטגוריות שאינן מייצגות שימוש סוכני. נפח שימוש וסוכנות הם שני מדדים שונים.
 - **"המודלים הנוכחיים תומכים היטב בסוכנות הלומד."** **בהשוואה על פני עשרה מודלים, תמיכה בסוכנות היא המקום שבו הם מתפקדים הגרוע ביותר אחרי הלמידה**: ImpactBench מדד **סוכנות ומטרה ב-56.0%** על קריטריונים חיוביים. סוכנות היא הממד שהמערכות מטפלות בו פחות היטב מכל, ולא תוצר לוואי של יכולת.
 - **"תיווך המורה הוא אילוץ על הסוכנות."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] עקב אחר **עשרה מורים למתמטיקה בחטיבת-על לאורך התערבות בת שמונה שבועות עם ChatGPT-4** והתיווך הוא המנגנון ולא המכשול.
-
-## מושגים מקושרים
-
-- [[learners]] — לומדים: מטריית מושגי צד הלומד
-- [[pedagogical-partnerships]] — שותפויות פדגוגיות
-- [[learner-identity]] — זהויות לומד מתפתחות: תחומיות, מקצועיות, יצירתיות ואקדמיות
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — כיוון משותף של אינטראקציה מתווכת-AI
-- [[agentic-ai]] — AI אוטונומי שיכול לחלק מחדש סוכנות בקבוצות
-- [[chemistry-education]] — חינוך כימיה ו-AI: מעבדות, הערכה מעצבת, מגבלות LLM, פילוסופיה של ניסוי
-- [[social-emotional-learning]] — למידה חברתית-רגשית
-- [[cognitive-surrender]]
-
-## מאמרים מקושרים
-
-- [[tench-ai-policy-isnt-a-playbook-2026]] — סקר לאומי מייצג של מורים ומנהלים בארה"ב על כיסוי מדיניות AI, סוכנות וחמש תסריטאי כיתה (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — יד מסייעת או שותפה דומיננטית? תפיסות אינדיבידואליות של הסתמכות על GenAI וסוכנות אנושית בלמידה שיתופית
-- [[yan-agentivism-learning-theory-ai-2026]] — תיאוריית למידה טווח-ביניים לאינטראקציה בין אדם ל-AI, עם ארבעה מנגנונים ושישה הצעה הניתנות לבחינה (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — סוכנות הלומד כאותה איכות של תיאום יכולות תחום, AI ומטאקוגניטיביות, לא כצומת עצמאי (Dang et al. 2026)
-- [[learner-agency-ai-simulation-2026]] — גישה לבחירה לעומת סוכנות מוגשמת: מחוונים, סוכן AI אופציונלי ולמידה בסימולציית עדר
-- [[guarded-adoption-genai-higher-education-2026]] — אימוץ מוגן של בינה מלאכותית יוצרת בהשכלה גבוהה
-- [[ai-agents-joyful-assessment-third-space-2026]] — סוכני AI, הערכה משמחת ומרחב שלישי
-- [[ai-mediated-research-agency-formation-2026]] — התגבשות סוכנות מחקר מתווכת-AI בהכשרה מדעית בשלב מוקדם
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — הטענת עומס קוגניטיבי רגישה-שכבה בכתיבה בסיוע GenAI (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — חינוך AI בית-ספרי מצמצם פערי מוכנות פסיכולוגיים אך לא קוגניטיביים
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — סוכנות אפיסטימית יחסית ושישה קריטריונים המפרידים בין תלות מועילה לתלות מזיקה (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — ליווי פדגוגי בסיוע AI התומך בזהות STEM
-- [[t2i-competence-paradox-2026]] — פרדוקס היכולת: זהות יצירתית בשימוש ב-GenAI מטקסט-לתמונה
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — סוכנות לומד מתגבשת בשיתוף פעולה סמוי בין אדם ל-AI: פרסונות תומכות מול מתנגדות
-- [[de-barba-srl-genai-2026]] — סוכנות הלומד בסקלות: רגולציה, אינטגרציה, מיצוב
-- [[mishra-control-vs-agency-history-2025]] — שליטה מול סוכנות כמתח היסודי בהיסטוריה של AIED
-- [[daoism-ai-education-philosophy-2026]] — פילוסופיית AI אלטרנטיבית: דאואיזם כשיטה ל-AI בחינוך
-- [[human-autonomy-agency-hri-review-2025]] — אוטונומיה וסוכנות אנושית ב-HRI
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — עיצוב מבוסס-ידע לרובוטים חברתיים יוצרים
-- [[young-people-learning-generative-ai-rapid-review-2026]] — טיפוח סוכנות הסטודנטים בעבודת למידה-רלוונטית
-- [[shaw-nave-cognitive-surrender-2026]] — תאוריית מערכת-השלשה וכיבוי קוגניטיבי: כיצד AI מעבד מחדש את ההיגיון האנושי (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — סוכנות מורים עתידיים לאורך אינטראקציות GenAI בעיצוב ללמידה (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — חזון משחרר: סוכנות כמשחק סכום-אפס עם סוכנות הכלי
-- [[chen-zou-genai-group-assessment-agency-2026]] — שלוש תבניות של סוכנות בהערכה קבוצתית מתווכת-GenAI: מוגברת, מוגבלת ולא מוגשמת
-- [[ai-integrated-teaching-identity-tensions]] — סלקטיביות עקרונית כסוכנות מורה בהוראה המשולבת-AI (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — סירוב כראיה אבחונית: אי-שימוש כיחס מצובת והזכות הלא-שווה לסרב ל-AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — סמכות אפיסטימית המוכרזת דרך הפרעה, תיקון וסירוב, לא דרך שימוש מקסימלי בכלי
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? ניתוח שיח בסיוע קורפוס של סוכנות, אחריות אפיסטימית ואחריותיות במחקר חינוך-גבוהה של בינה מלאכותית יוצרת
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — שאלות פתוחות לעבר תלות נשאת-מיומנות במעורבות רפלקטיבית עם AI
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — יכולת מול סוכנות כמטרות חינוך AI, ועקרונות החיפוש של סוכנות AI מודעת (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — תיווך מורה כתנאי ששומר על GenAI כארטיפקט לביקורת ולא כסמכות (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — סוכנות המורה כמשאב המתגייס דרך עיצוב, עם מוכנות הנשפטת מארטיפקטים ולא משימוש (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — איזון סוכנות מורה וסטודנט בכלי שיתוף-תזמור לשילוב דינמי בזמן אמת (Yang et al. 2026)
-- [[porath-interpretive-authority-2026]] — מטריצת סמכות פירוש ומודל שילוב סמכות אקולוגי: ארבע תצורות של מי מפרש, והשכבות האקולוגיות המשנות אותן
-- [[gyekye-selves-apprenticeship-2026]] — סטודנטים בצבע בתוכניות חטיבת-על חיברו את עצמם דרך AI באמצעות סירוב, משא ומתן והכרה ("שטיחות תרבותית"); אוריינות AI מוסדית ורוחב פס ההכרה
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — סוכנות אפיסטמית משותפת ב-6,788 תורים בסיוע ChatGPT בכתיבה מדעית בבית ספר תיכון (Chang ושות' 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — בעלות נתפסת ירדה רק היכן שהואצל חיבור שלם; משתמשי תכנון וסקירה השוו ללא-משתמשים (Jelson et al. 2026)
-- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students' AI Interactions

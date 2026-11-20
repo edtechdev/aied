@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [critical-pedagogy, inquiry-based-learning, ai-literacy, critical-thinking, sustainability, digital-divide, higher-ed]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -37,8 +38,3 @@ ai_assist:
 
 ## מהיכן זה בא
 זה התחיל באוניברסיטת דיוק ב-2024–2025 כערכת-הכלים ללימודי אתיקת AI, שתוכנן בשיתוף על ידי סטודנטים לתואר ראשון, ספרנים, סגל וטכנולוגים ברחבי מרכז ההוראה והלמידה וספריות דיוק, והושק מחדש לאחר משוב ועיצוב מחדש על ידי Hannah Rozear, Remi Kalir ו-Aria Chernik.
-
-## מושגים מקושרים
-
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
-

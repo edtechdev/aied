@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -152,54 +154,3 @@ Bilgi tabanının yöntem manzarası içinde, meta-analiz ve sistematik derleme 
 - **“Anlamlı bir havuzlanmış etki, müdahalenin işe yaradığı anlamına gelir.”** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu ve meslektaşlarının K-12 YZ eğitimi meta-analizi]] (**16 çalışma, 57 etki büyüklüğü, g = 0,892**) büyük bir etki bulmuştur, ancak yazarlar bunu nitelendirir. On altı çalışma dar bir tabandır ve bu taban üzerinde büyük bir etki, geniş aralıklı bir hipotezdir.
 - **“Derlemeciler alanın kalitesini varsayılan olarak doğru raporlar.”** Bir derlemenin işi **yöntemsel kaliteyi ortaya çıkarmayı** içerir ve derlemeler **rutin olarak alanın yetersiz güçlü, ön-deneysel ya da yarı-deneysel tasarımlara ve anında son testlere dayandığını bulur**. Havuzlanmış sayı bu zayıflıkları miras alır.
 - **“Havuzlama her zaman kanıtsal ağırlığı artırır.”** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen ve Wei’nin meta-analizi]], yabancı dil becerileri için **40 çalışmayı** birbirinden çok farklı teknolojiler üzerinden havuzlar ve ortalama, içerdiği özgül müdahalelerin hiçbirini tanımlamaz.
-
-## Bağlı Kavramlar
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — YZ Destekli Eğitim Araştırması
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Bağlı Makaleler
-
-- [[edurev-100741-tpack-genai-review]] — Bir TPACK perspektifinden öğrenci öğrenmesinde üretken YZ sistematik derlemesi
-- [[genai-meta-analysis-programming-learning]] — Programlamada verimlilik ve öğrenme üzerinde üretken YZ etkisinin meta-analizi
-- [[ai-vocational-education-training-review]] — Mesleki eğitim ve öğretimde YZ’nin ilk sistematik derlemesi
-- [[ai-collaborative-learning-systematic-review]] — YZ destekli işbirlikçi öğrenmenin PRISMA sistematik derlemesi
-- [[genai-higher-education-systematic-review-2026]] — Yükseköğretimde üretken YZ sistematik derlemesi
-- [[zerkouk-comprehensive-review-its-2025]] — Akıllı öğretim sistemlerinin kapsamlı sistematik derlemesi
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT ve kritik/yaratıcı düşünmenin sistematik derlemesi
-- [[stanford-evidence-base-ai-k12-2026]] — K-12’de YZ için kanıt tabanı
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — YZ okuryazarlığı müdahale etkilerinin meta-analizi
-- [[genai-writing-performance-meta-analysis-2026]] — Üretken YZ destekli L2 yazma meta-analizi: aşırı heterojenlik ve kalite kaynaklı bir aracı değişkenle baltalanan büyük havuzlanmış etki
-- [[ai-literacy-heptagon-2026]] — YZ okuryazarlığı boyutlarının bütünleştirici literatür derlemesi (PRISMA rehberli)
-- [[genai-scenario-based-healthcare-education-2026]] — Senaryo temelli sağlık eğitiminde üretken YZ sistematik derlemesi (Neto ve ark. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS + SAMR ile 22 YZ entegrasyon çalışmasını sınıflandıran haritalama derlemesi; çoğu İkame/Arttırım düzeyinde
-- [[agarwal-ethical-values-norms-aied-2026]] — Eğitimde YZ için etik değerler ve normlar
-- [[li-language-educators-genai-review-2026]] — Dil eğitimcilerinin üretken YZ ile uygulamaları ve gelişimi
-- [[dabaghi-ai-dyslexia-education-review-2026]] — Eğitimde disleksi olan insanlara yardım için YZ
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (medya-karşılaştırma eleştirisi)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analiz: yanlılık düzeltmeli YZ etkileri bildirilen büyüklüğün ~1/3’ü
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: 14 YZ eğitimi meta-analizinin adli denetimi
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 YZ temelli öğretimde öğretmen müdahalesi: bir sistematik derleme
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Yabancı dil becerileri için dijital ve YZ araçlarının meta-analizi: yarı-deneysel etki tahminlerini birden fazla katlayan tasarım aracı değişkeni
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Yükseköğretimde üretken YZ meta-analizi: süre uzadıkça kısa müdahale etkileri çöküyor
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 YZ eğitimi meta-analizi: boş aracı değişkenlerle büyük etki ve ölçüme atfedilen heterojenlik
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Programlama eğitiminde üretken YZ sistematik derlemesi: 46 çalışmanın 26’sında ince öğretim raporlaması
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — Yükseköğretimde üretken YZ, bilişsel yük boşaltma ve öğrenen özerkliğini haritalayan 123 çalışmalık tarama derlemesi
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Üretken yapay zekanın öğrenme, bilişsel ve dilsel sonuçlar üzerindeki etkilerine dair bir meta-analiz
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Akademik yazmada sorumlu öğrenci GenAI kullanımı: sınırlar, eğitimsel yaklaşımlar ve kanıt boşlukları üzerine bir tarama derlemesi
-- [[kim-ai-embodied-learning-review-2026]] — Bedensel öğrenmede YZ çoğunlukla gözlemliyor: kodlanmış rol etiketlerinin yüzde 62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenenler kullanırken çok kipli akışları birleştirmedi (Kim ve Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Dört çalışma neden bir benimseme kararını taşıyamaz
-

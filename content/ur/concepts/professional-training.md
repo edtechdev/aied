@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -88,43 +90,3 @@ ai_assist:
 **"AI خواندگی کی تربیت تمام کرداروں پر یکساں لاگو ہوتی ہے۔"** بیشتر آلات کردار کے مطابق قابلیت کی پیمائش نہیں کرتے: **اساتذہ کی AI خواندگی کے 33 آلات** کے منظم جائزے میں **29 (87.9%)** عمومی AI تصورات کو نشانہ بناتے تھے جبکہ صرف **4 (12.1%)** اُس [[pedagogy|تدریسی]] یا پیشہ ورانہ استعمال سے متعلق تھے جو کام واقعی تقاضا کرتا ہے۔ عمومی آلات پر بنایا گیا پروگرام ایک بالواسطہ پیمانے کی پیمائش کر رہا ہے۔
 
 **"سمیولیٹر کام کی جگہ کی تربیت کا متبادل ہے۔"** یہ طریقہ کار پیدا کرتا ہے اور نتیجہ ہٹا دیتا ہے، جو قیمتی ہے اور بالکل وہی حصہ ہے جو منتقل نہیں ہو سکتا — حفاظت کے لحاظ سے نازک کاموں میں نتیجہ ہی نصاب ہے۔
-
-## منسلک تصورات
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — جہاں عمیق مشق سب سے زیادہ قائم ہے
-
-## منسلک مضامین
-- [[prunuske-cognitive-windows-research-meetings-2026]] — مصنوعی ذہانت کے عہد میں تحقیقی ملاقاتوں کو ڈیٹا اپ ڈیٹس سے علمی کھڑکیوں تک لے جانا
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI اور انجینئرنگ و کمپیوٹنگ افرادی قوت کا مستقبل
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI کے عہد میں سمارٹ مینوفیکچرنگ کے لیے Workforce Readiness Level فریم ورک
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework کی مدرسین اور آجروں کے ساتھ توثیق
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکات کا المیہ: AI اور ماہریت کی تجدید
-- [[li-language-educators-genai-review-2026]] — زبان کے معلمین کے GenAI کے ساتھ طریقے اور ترقی
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — تقابلی سروے جو دکھاتا ہے کہ اساتذہ کی GenAI آمادگی کے خلا کی وضاحت قومی سیاق نہیں، اداراتی حالات کرتے ہیں (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — استادِ معلمین ایک موافق AI خواندگی ماڈل اور غور طلب سوالنامے کی مشترکہ ڈیزائننگ کرتے ہیں (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — جائزہ جو دکھاتا ہے کہ اساتذہ کی AI خواندگی کے آلات جنریٹیو AI سے پیچھے ہیں، اور تربیت کا ہدف متعین کرتا ہے (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — تین گھنٹے کی PD نے جرمن اساتذہ کی سمجھی گئی افادیت اور آسانی بڑھائی، مگر تفریق کے لیے AI استعمال کی نیت نہیں
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — پرائمری ریاضی کی ابتدائی استاد تربیت میں AI کا جائزہ: مختصر، اوزار پر مرکوز تربیت کافی نہیں
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — سروے جو پیشگی AI تربیت اور استعمال کی تعدد کو ترک پرائمری اساتذہ کے مثبت تصورات سے جوڑتا ہے
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AI سے معاون پیشہ ورانہ تیاری کے لیے کردار کی گردش بطور ڈھانچہ ساز میکانزم
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — غور طلب AI تعامل میں مہارت بچانے والے انحصار کی طرف کھلے سوالات
-
-- [[jongkind-genai-patient-medical-communication-2026]] — انڈرگریجویٹ میڈیکل طلبہ کی طبی مواصلاتی تربیت کے لیے GenAI مریض کا استعمال: ایک نیم تجرباتی مطالعہ
-- [[morales-cevallos-ai-forensic-science-education-2026]] — جب کسی تکنیکی پیشے کی AI مشق اُس کے تدریسی راستے سے آگے نکل جائے
-- [[cowhitt-deliberative-instructional-agents-2026]] — اساتذہ کی پیشہ ورانہ سیکھائی کے لیے غور طلب تدریسی ایجنٹ، AI کے ذریعے PD کے لیے ذمہ داری کی شرطوں کے ساتھ

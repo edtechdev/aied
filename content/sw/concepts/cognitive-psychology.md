@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -69,7 +71,6 @@ Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana
 
 Jaribio la 2026 linatoa upande wa kumbukumbu wa mpaka huo hali halisi ya kushindwa. Ni 44.8% tu ya watu wazima 328 waliosoma muhtasari wa AI wenye kupotosha walitambua baadaye maelezo ya video kwa usahihi, dhidi ya 83.6% waliosoma muhtasari unaolingana. Lebo ya AI au ya binadamu haikufanya tofauti, na uaminifu ulioripotiwa kwa AI haukufanya tofauti ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Hiyo ni kumbukumbu ya chanzo badala ya kujifunza darasani, lakini muhtasari fasaha unaweza kufuta rekodi ya mwanafunzi ya chanzo, jambo linalojalisha kwa masomo na tathmini.
 
-
 ## Athari kwa muundo na utafiti
 
 1. **Buni kwa ajili ya kujifunza kwa ndani, si utendaji tu.** AIED ya kiakili inapaswa kutathminiwa kwa kama mwanafunzi anaweza kurejesha na kutumia maarifa *bila* zana — si kwa utendaji uliosaidiwa. Hii ni [[ai-misuse-learning-harm|pengo la utendaji–kujifunza]] na sababu ya kupima [[transfer-of-learning|uhamishaji]] usiosaidiwa.
@@ -82,40 +83,3 @@ Jaribio la 2026 linatoa upande wa kumbukumbu wa mpaka huo hali halisi ya kushind
 - **"Uwakilishi wa kiakili hauwezi kuonekana, kwa hivyo madai ya kiakili kuhusu kujifunza ni dhana tu."** Kuunda upya picha kutoka **EEG** ya wanafunzi wakati wa video za sayansi kuligundua kuwa **uaminifu wa uwakilishi ulifuatana na utendaji wa jaribio** (mgawo wa urejeshaji **0.8481, R² = 0.79**). Msingi wa kiakili wa uwakilishi wa ndani unapimika, na kipimo hicho kilitabiri matokeo.
 - **"R² ya juu inamaanisha uwakilishi unaeleza kujifunza."** R² = 0.79 ni uhusiano wenye nguvu kati ya uaminifu na utendaji kwenye nyenzo zile zile. Haukuthibitishi kuwa kuinua uaminifu kunainua utendaji, ambayo ndiyo dai la uingiliaji.
 - **"Vipengele vya maarifa ni uongo wa kiufundi unaofaa kwa uigaji."** Ugawanyikaji ndio unaofanya [[knowledge-tracing]] na [[cognitive-diagnosis]] ziwezekane, na mbinu hizo hufanya kazi kwa kiwango ambacho dhana hiyo inashikilia. Kuichukulia kama uongo hutupa sababu mbinu hizo huzalisha makadirio yanayotumika, wakati kuichukulia kama ukweli hupita kiasi kile mfano uliofungwa unakuambia kuhusu akili.
-
-## Dhana Zilizounganishwa
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — matokeo ya kuhifadhi ambayo familia hii ya mazoezi inategemea
-
-## Makala Zilizounganishwa
-
-- [[cognitive-shift-ai-education]] — Mabadiliko ya kiakili katika elimu ya AI
-
-- [[sim-ai-summary-memory-distortion-2026]] — Muhtasari wa AI wenye kupotosha ulibadilisha kile watu wazima walichokumbuka, bila kujali muhtasari uliwekwa lebo ya AI au ya binadamu
-
-- [[cogtax-cognitive-taxonomy]] — Taksonomia ya kiakili kwa matumizi ya AI
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Mawakala wa LLM wa kielimu waliowekwa kwenye kufuatilia maarifa
-- [[nie-personavlm-long-term-personalization-2026]] — Kuiga mwanafunzi na kumbukumbu ya LLM
-- [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiakili katika kujifunza kwa udhibiti wa pamoja
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: kufikiri kama mwingiliano wa binadamu–AI
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Mpangilio wa jitihada, si kiasi cha jitihada, ulifuatilia mzigo na kuchanganyikiwa
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — Madai ya umahiri kutoka kufuatilia maarifa hutegemea jinsi kazi iliyosaidiwa inavyohesabiwa (Srivastava 2026)
-

@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
+connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -66,7 +68,6 @@ ai_assist:
 
 이 규칙의 인과적 근거는 약 1,000명의 학생이 있는 튀르키예 고등학교 수학 반 약 50개에서의 현장 실험입니다([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). 제한 없는 GPT-4는 보조 연습 수행을 48% 높이고 통제군 대비 보조 없는 시험을 17% 낮췄으며, 가드레일이 있는 GPT-4는 연습을 127% 높이고 시험을 사실상 변화 없이 두었습니다. [[guardrails|가드레일]]은 두 가지뿐이었습니다. 답 대신 힌트, 그리고 교사가 작성한 문제별 내용(정답, 흔한 실수)을 프롬프트에 심어 힌트가 정확하게 만드는 것입니다. 참여 데이터는 해악을 베끼기에 두었습니다. 가드레일 없는 학생들은 대부분 답을 요청했고, 두 AI 집단의 학생 모두 자신의 학습을 잘못 판단했습니다.
 
-
 ### 생산적 실패: 수업 전에 시도하기
 
 **증거: 혼재이며 명성보다 얇다.** 학생들은 가르치지 않은 개념을 겨냥한 문제를 시도하고, 튜터는 해답을 보류하며 여러 번의 시도를 끌어내고, 도움은 엄밀히 필요할 때만 오며, 비교와 직접 수업으로 공고화가 뒤따릅니다.
@@ -87,7 +88,6 @@ ai_assist:
 
 연습 전에 예시를 얼마나 줄지는 그 자체로 내용 의존적이며, 이 절의 "해설 예시 다음에 문제"라는 틀은 그것을 열어 둡니다. 기하 넓이 자료에 대한 95명 참가자의 2×2 실험에서, 연습만 한 훈련은 축자적 사실에 더 큰 이득을 낳았고 예시와 연습을 번갈아 한 훈련은 일반화 가능한 기술에 더 큰 이득을 낳았습니다(β = 0.41, p = .038, d = 0.38)([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger와 Carvalho, 2025]]). 목표가 사실인지 기술인지에 따라 적절한 혼합이 달라지므로, 어떤 순서도 추상적으로 해설 예시 대 연습으로 판정될 수 없습니다.
 
-
 ## AI 피드백과 인간 피드백을 짝짓는 패턴들
 
 AI 피드백에 관해 지식 베이스의 가장 많이 복제된 발견은 그것이 단독보다 인간 피드백과 *결합*될 때 더 잘 작동한다는 것, 그리고 학생들이 그것을 사용하는지를 결정하는 것이 그 질이 아니라는 것입니다.
@@ -99,7 +99,6 @@ AI 피드백에 관해 지식 베이스의 가장 많이 복제된 발견은 그
 지금까지 학생들의 AI 피드백 사용에 대한 가장 큰 연구는 10개의 글쓰기 강좌와 3개의 글쓰기 집중 [[stem-education|STEM]] 강좌에 걸친 654명의 학생을 추적했습니다: 58%가 결합된 ChatGPT와 [[peer-assessment|동료 피드백]]을 선호하고, 36%는 동료 단독, 6%만이 AI 단독이었습니다. 75%는 둘이 유사하고 상호 강화한다고 발견했고, AI 피드백은 31%가 "지나치게 일반적"이라고 한 반면 동료 피드백은 28%가 더 구체적이라고 했으며, AI 피드백에 대한 과잉 확신을 보인 학생은 5.3%뿐이었습니다([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). 이 모델은 34명의 학생이 있는 상급 경영 글쓰기 강좌에서도 실행되었으며, 코딩된 반성의 약 4분의 1이 AI 피드백에 대한 회의나 부정확성 지적을 표현했습니다([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). 둘 다 인식 데이터를 보고합니다. 어느 쪽도 통제 조건이 없으며, 이것이 이 패턴이 *검증됨*이 아닌 *혼재*인 이유입니다.
 
 같은 2024년 구현에 관한 세 번째 글은 학생들이 그 도구를 어떻게 평정했는지가 아니라 무엇이라고 부르는지를 묻습니다. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 등(2026)]]은 글쓰기 집중 강좌 10개의 13개 분반과 학생 654명을 기술하며, 성찰 프롬프트가 제안한 튜터나 협력자 역할을 채택한 학생은 약 절반(51.7%)뿐이라고 보고합니다. 나머지는 그것을 도구, 프로그램, 로봇, 컴퓨터라고 이름 붙였거나 피드백 자판기 같은 은유를 만들어 냈습니다. 저자들은 그 어휘를 리터러시 결과이자 필자 주체성의 증거로 읽으며, 그들의 자료도 같은 방식으로 지각적이므로 위의 증거 등급은 움직이지 않습니다.
-
 
 ### 결합된 동료 및 AI 피드백
 
@@ -209,90 +208,3 @@ AI가 유능한 산출물을 생산할 수 있기 때문에, 이 패턴들은 �
 - **"AI가 제공하는 연습이면 무엇이든 연습이다."** 적응형 간격 인출 조건은 **가장 높은 사후 시험 점수(M = 78.19)** 를 냈고 **학습자 주도 AI 학습(M = 67.28)을 유의하게 능가**했습니다. 학습자 주도 배열은 구조화된 배열보다 저조했으므로, 자율성이 자동으로 더 나은 설계인 것은 아닙니다.
 - **"[[conversational-ai|챗봇]]과 함께 공부하는 것이 그것 없이 공부하는 것보다 낫다."** **대조 사례는 결정적입니다**. **학생 120명**을 대상으로 한 [[rct|무작위 시험]]에서 무제한 ChatGPT와 **함께** 공부한 집단은 **돌발 시험에서 더 적게 보유**했습니다. 시험된 배열에서 그 도구는 보유에 해로웠습니다.
 - **"그 패턴의 근거는 규모가 큰 통합 시험이다."** **가장 강한 뒷받침은 간접적**이며, **학생 26명을 대상으로 한 무작위 피험자 내 실험**에서 나옵니다. 그 실험에서 즉답형 [[scaffolding|비계]]는 유의하게 다르게 수행되었습니다. 증거는 그 패턴을 뒷받침하며 규모 면에서는 여전히 얇고, 이 페이지는 그렇게 읽혀야 합니다.
-
-## 연결된 개념
-
-- [[pedagogy]] — the umbrella of teaching approaches this page operationalizes into sequences
-- [[learning-design]] — where patterns are chosen, sequenced and embedded in a course
-- [[scaffolding]] — the support-and-fading principle that governs where AI help belongs
-- [[feedback]] — the system this page's feedback patterns instantiate
-- [[formative-assessment]] — the assessment purpose most of these patterns serve
-- [[peer-assessment]] — the human half of the PAIRR and combined-feedback patterns
-- [[ai-feedback-quality]] — why feedback quality alone does not determine revision
-- [[evaluative-judgment]] — the appraisal students must exercise on AI output
-- [[feedback-literacy]] — the capability the critical-appraisal steps are building
-- [[human-in-the-loop-ai]] — the oversight structure of the review patterns
-- [[oral-assessment]] — the format underlying the verification patterns
-- [[process-oriented-assessment]] — the logic behind staged checkpoints
-- [[productive-failure]] — the concept behind attempt-before-instruction
-- [[retrieval-spacing-interleaving]] — the evidence base for spaced retrieval patterns
-- [[desirable-difficulties]] — why effortful sequences outperform fluent ones
-- [[misconceptions]] — what the conceptual-change patterns target
-- [[refutation-text]] — the text form of misconception confrontation
-- [[learning-by-teaching]] — the pedagogy behind the AI-tutee pattern
-- [[socratic-method]] — the questioning pattern and its conflicting evidence
-- [[collaborative-learning]] — the context for scripted shared-AI work
-- [[cognitive-offloading]] — the risk every effort-first pattern is designed to avoid
-- [[metacognition]] — what reflection steps in these sequences are meant to trigger
-- [[prompt-engineering]] — the scaffolding layer in structured-use patterns
-- [[transfer-of-learning]] — the outcome most patterns are ultimately judged on
-- [[assessment-validity]] — the reason process evidence is proposed at all
-- [[academic-integrity]] — the driver behind oral and process verification
-- [[ai-literacy]] — the capability developed by critiquing AI output
-- [[online-teaching-and-learning]] — the context that makes sequencing load-bearing
-- [[higher-ed]] — the level where most of this evidence was generated
-- [[k-12]] — the level of the productive-failure, conceptual-change and oral-assessment studies
-
-## 연결된 문서
-- [[pairr-ai-peer-review-2025]] — 동료 평가와 AI 평가 및 성찰(PAIRR): 대표적인 절차, N = 654 (Sperber et al. 2025)
-- [[gift-ai-pairr-business-writing-2025]] — 비즈니스 글쓰기 강좌에 적용된 PAIRR (MacArthur et al. 2025)
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — AI와 동료 피드백을 결합한 방식이 참여도와 IELTS 네 영역 전반을 높임 (Liu 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 협력적 논증 활동에서 프롬프트로 구조화된 생성형 AI 동료 피드백 (Chang et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — AI 피드백을 걸러내고 평가하도록 학생을 훈련하기: FRAC와 APCA 조건
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — 더 높은 질의 AI 피드백도 더 큰 수정 향상을 가져오지 않음 (Farrokhnia et al. 2026)
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 소크라테스식 접근과 전체 맥락을 제공한 구성이 다른 모든 조교 구성보다 낮게 평가됨 (Eastwood et al. 2026)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면접 훈련에서 필요에 따라 작동하는 소크라테스식 비계, N = 100 (Yang et al. 2026)
-- [[hashmi-socratic-physics-chatbot-2025]] — 역학 입문 과정의 소크라테스식 챗봇: 질문의 구체성이 10~15%에서 100%로 상승 (Hashmi et al. 2025)
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 소크라테스식 대 지시형 에이전트 피드백(제시 순서는 상쇄되지 않음) (Han et al. 2026)
-- [[adaptive-pretesting-retention]] — 적응형 간격 인출 연습이 학습자 주도 AI 학습을 능가함 (Akgun & Toker 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 학습 중 제한 없는 ChatGPT 사용이 45일 기억 유지를 낮춤 (Barcaui 2025)
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 구조화된 튜터링의 이득은 사용 시간이 아니라 완료한 주차를 따름 (Yang et al. 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — 예시와 연습의 비율은 지식 유형에 따라 역전됨 (Rachatasumrit et al. 2025)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — 지능형 논리 튜터에서의 적응형 안내 예시와 오류 예시 (Dey Tithi et al. 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — AI 피드백에 자기 설명을 더한 구성이 모든 측정에서 뒤처짐 (Asher et al. 2025)
-- [[generative-ai-guardrails-harm-learning]] — 보호 장치를 둔 튜터링이 무방비 GPT가 야기한 시험상의 해악을 제거함, 약 1,000명의 학생 (Bastani et al. 2025)
-- [[guided-llm-scaffolding-independent-learning]] — 통계 학습에서 안내된 LLM 사용과 제한 없는 사용의 비교 (Amanlou et al. 2026)
-- [[preferred-scaffolding-ai-mathematical-modeling]] — 즉각적인 답을 주는 비계는 선호되면서도 모형 추상을 저해함 (Zhu et al. 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위해 해답을 제시하지 않도록 LLM 튜터를 조정함 (Puech et al. 2025)
-- [[pedagogy-ai-mistakes]] — 의도된 AI 실패 사례로 구성한 주간 비판·정제 순환 (Hosseini 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — 컴퓨팅 교육 연구 72건에 걸친 독립적 역량으로서의 오류 분석 (Kumar et al. 2026)
-- [[lukesova-clue-before-correction-2026]] — 제2언어 수정에서 직접 오류 수정 대신 단서를 제공하는 안내 방식 (Lukešová & Jennings 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — AI 초보 학습자에게 설명하기, N = 68 (Wang et al., 2026)
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT 에이전트에게 프로그래밍을 가르치는 것의 무작위 검증 (Chen et al., 2024)
-- [[explique-teachable-agent-algorithms-546-students-2026]] — 11주간 546명의 학생에게 적용된 가르치기를 통한 학습 (Wang et al., 2026)
-- [[socrates-students-instructors-llms-lbt-2025]] — 학생들이 LLM이 답할 수 없는 질문을 설계함 (Yang et al., 2025)
-- [[code-review-genai-cs1]] — 생성형 AI에 대한 대응으로 의무화한 구두 코드 검토 면접 (Fowles et al., 2026)
-- [[asynchronous-oral-assessment-2026]] — 비동기 녹음 구술 평가와 대면 선다형 평가의 비교 (Pentland et al., 2026)
-- [[aivaluate-anxiety-assessment-2026]] — 채팅 기반 구술 평가는 불안을 줄였으나 이해 측면에서는 대면이 더 높게 평가됨 (Yusuf et al., 2026)
-- [[ai-supported-oral-assessment-tvet-2026]] — 직업 훈련 워크숍에서 교사의 판단을 위해 채점 근거를 드러내는 AI (Adams 2026)
-- [[quantum-education-its]] — 자기 주도 대학원 강좌의 산출물 및 접근 방식 점검 지점 (Elhaimeur & Chrisochoides 2026)
-- [[agentic-education-coding]] — 정지-재개 점검 지점과 사전 진급 점검, N = 27 (Naboulsi 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — 이정표와 채점 기준표를 둔 4모듈 문제 기반 학습 (Nnamdi et al., 2026)
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — 교사가 참여하는 4에이전트 검토 순환, 그리고 흥미 적합성이 실패한 지점 (Walkington et al., 2026)
-- [[zhao-learnlens-feedback-educators-loop]] — 검증 점수를 활용한 교육자 참여형 피드백 순환 (Zhao et al., 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 감지되지 않은 채 성적을 바꾼 프롬프트 인젝션으로, 교사가 유일한 점검 수단으로 남음 (Humble, 2026)
-- [[golrang-propact-pair-programming-2026]] — 짝 프로그래밍에서의 공유된 AI 예측 협업의 붕괴 (Golrang et al., 2026)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 집단 지식 구성에서 학습자와 AI의 역할을 명시적으로 구분함 (Cheng et al., 2026)
-- [[paratutor-parent-child-tutoring]] — 부모-자녀 튜터링에서 역할을 분리한 AI 지원 (Luo et al., 2026)
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — 개인화된 AI 대화가 즉시에는 교과서 반박을 능가했으나 두 달 만에 수렴함 (Corbett & Tangen 2026)
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 개념 변화 텍스트가 상호작용형 AI 대화를 능가한 역전된 결과 (Akdogan, 2025)
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI가 지원하는 안내 탐구와 개념적 이해 (Aydin 2026)
-- [[ai-enhanced-flipped-classroom-three-year-2026]] — 전통적, 플립드, AI 강화 플립드 수업의 세 개 집단 비교 (Liu et al., 2026)
-- [[flipped-learning-genai-design-education-2026]] — 매개변수 기반 프롬프트 비계를 둔 플립드 스튜디오 수업 (Qu et al., 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 교수 모형이 결과를 조절함: 플립드 g = 1.96 대 전통적 g = 0.46 (Jing et al., 2026)
-- [[ai-tutor-statistical-programming-adoption-2026]] — 플립드 강좌에서 주간 숙제 튜터 사용이 전이 과제 점수를 예측함 (Préau et al., 2026)
-- [[beck-genai-literacy-economics-hands-on]] — AI 오류 사례를 바탕으로 구성한 5단계 AI 비판 토론 (Beck & Brodersen 2025)
-- [[ccct-cooperative-learning-technique]] — 역할 배분과 갤러리 워크를 포함해 검증된 협력 학습 절차 (Tutal 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI 검색 추천 도구를 활용한 세미나 및 동료 토론 모듈 (Huang 2026)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR에서 학생들이 도구를 무엇이라고 부르는가: 654명 중 51.7%만이 튜터·협력자 역할을 채택했다 (Stillman 등 2026)
-- [[alam-process-oriented-collaborative-essays-2026]] — 과정 지향 협력 에세이: 채점되는 반복과 협력, 명시된 경계 안에서 생성형 AI 허용 (Alam & Jackson 2026)

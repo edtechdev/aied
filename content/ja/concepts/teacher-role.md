@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
+connected_articles: [cheeseman-human-in-the-loop-humanness-higher-ed-2026, roy-chatgpt-lesson-preparation-nfer-2024, lim-llm-summaries-teachers-rct-2026, sessional-academics-contract-cheating-digital-misconduct-2026, caeo-navigating-ai-educational-future-scenarios-2026, teachers-instrumental-orchestration-ai-math-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, edustories-classroom-case-studies-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, dai-genai-frenemy-teaching-autonomy-2026, ai-supported-lecturer-decision-making-2026, chirikov-regulate-ai-syllabi-2026, socorro-philosophical-leadership-ai-2026, ai-teaching-innovation-ai-tpack-2026, teacher-ai-teaming-five-levels, teacher-student-agency-orchestration, ai-changing-teaching-workflows, teacher-authored-prompts-student-ai-dialogue, laidlaw-genai-identity-crisis-faculty-2026, lodge-loble-cognitive-offloading-2026, kibar-ilgaz-ai-instructional-design-review-2026, lopez-pernas-llm-appropriate-student-support-2026, bozkurt-ghost-students-agentic-ai-2026, wang-teacher-ai-co-design-review-2026, farazouli-navigating-uncertainty-teachers-genai-2026, luo-dawson-value-judgments-grading-2026, mejia-domenzain-ml-findings-teachers-blended-2026, li-language-educators-genai-review-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, breideband-community-builder-cobi-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, xai-teachers-trust-edtech-recommendations-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-integrated-teaching-identity-tensions, teacher-intervention-k12-ai-based-instruction-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, where-ai-enters-teacher-work-2026, rodrigues-aied-unplugged-numeracy-2026, instructional-governance-design-computing-education-2026, teachers-configure-educational-chatbots-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, fagerlund-competency-agency-purposes-ai-education-2026, kuhail-great-debaters-ai-facilitators-2026, yalcin-genai-programming-education-systematic-review-2026, heutagogical-teaching-ai-enhanced-education-2026, falhs-teacher-expertise-reflection-2025, etq-ai-conversational-teacher-training-2026, ai-use-teacher-performance-north-sumatra-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, gnadlinger-educator-perspectives-its-design-2026, chen-future-faculty-development-ai-2027, li-instructor-designed-ai-rct-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -191,86 +193,3 @@ AI に支援された計画における認識論的な権威は、方策によ�
 **「教師はすでにAIの共設計者だから、転換は進んでいる。」** 願望は現実ですが、記述はまだそうではありません。[[wang-teacher-ai-co-design-review-2026|Wang、Liu、Islam(2026)]]の学習課題の教師とAIの共設計に関する系統的レビューは、共設計者の立場が**依然として不均一**であり、支配的な様態が今もAIを助手・内容生成とすることであると見出しています。そのレビューを達成された転換の証拠として読むなら、このページのような教師と、ほとんどの機関が実際に抱える教師との間の隔たりを隠してしまうでしょう。
 
 **「モデルが仕事をするのだから、教師がチャットボットにどう委任するかはほとんど重要でない。」** 委任のパターンこそが介入です。子どものSTEAM芸術の授業計画において、[[luo-tahir-chatgpt-steam-lesson-planning-2026|LuoとTahir(2025)]]は、*自分で描いた*授業の骨格の内容の空白を埋めることが、教師の設計の自律性を保ちながら、専門家が評価する計画の質を高め(中央値20.5対17.6、p = .002、大きな効果)、モデルに骨格を供給させる代替案を上回ることを実験的に見出しました。同じモデル、同じ課題、異なる分業、実質的に異なる結果です。
-
-## 関連する概念
-- [[pedagogical-partnerships]] — 教授学的な協働
-- [[learner-identity]] — 進化する専門分野的・職業的・創造的・学問的な学習者のアイデンティティ
-- [[business-education]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[professional-training]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[academic-integrity]]
-- [[pedagogy]] — 包括的概念:AI 教育における教授法と教育戦略
-- [[stakeholders]] — 包括的概念:AI 教育における人々と対象者(学習者、教師、設計者、管理者、政策立案者)
-- [[reflection]]
-
-## 関連する記事
-
-- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — 4つのアイデンティティの力学、生産的な両義性、そして関係的な仕事の制度的な代償
-- [[roy-chatgpt-lesson-preparation-nfer-2024]] — イングランドの中等学校68校:授業準備は週25.3分減り、質の低下は検出されなかった(Royら 2024)
-- [[lim-llm-summaries-teachers-rct-2026]] — ASSISTmentsのRCT:AIの要約は課題の完了を増やしたが、クラス水準の得点は変えなかった(Limら 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 非常勤のアカデミックは、権限なしにインテグリティの仕事を担う
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — より人間的なパラドックス:専門家による2030年シナリオは、AI の飽和が人間の教授学的な仕事を押しのけるのではなく強めることを見出す(Malyn-Smith 他 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — 観察された6つの高校の数学の授業が、道具的な指揮を3つの新しい類型で拡張する(Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI が生成した情緒的な警告への対応:数学の教室における教師の介入と学生の関与
-- [[edustories-classroom-case-studies-2026]] — Edustories:教室の実践からの現実世界の事例研究の集成
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教師は教室のチャットボットを境界づけられた専門家として設計し、権威を保持する
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — 「frenemy」としての GenAI:教師は半自律を好み、有用性が導入を駆動し、リスク回避は学生の利用を標的にする(Dai 他 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — 高等教育における AI に支援された講師の意思決定
-- [[chirikov-regulate-ai-syllabi-2026]] — 教育者は31,000のコースのシラバスにわたって AI をどう規制するか。課題レベルの規制(Chirikov 2026)
-- [[socorro-philosophical-leadership-ai-2026]] — 3段階の教師の役割としての哲学的なリーダーシップ:倫理的な判断、教授学的な指針、方策の翻訳(Socorro Márquezら 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — 大学教師における AI 教育の革新行動(AI-TPACK SEM;Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — スキルの欠如ではなくアイデンティティの危機としての GenAI
-- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディング、そして教育への示唆(Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI と教授設計の実践:システマティックレビュー(Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI は多様な学生のプロファイルに適切な支援を届けられるか。大規模な評価
-- [[bozkurt-ghost-students-agentic-ai-2026]] — 評価におけるゴースト学生と主体性を持つ AI
-- [[wang-teacher-ai-co-design-review-2026]] — 学習課題の教師と AI の協働設計:動向と展望(Wang 他 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI に関する大学教師の経験と知覚:傷つきやすさ、評価の再考、危険にさらされた学生の学習(Farazouli 他 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — GenAI に支援された作業の採点における価値判断:正直さ、信頼、妥当性、双方向の透明性(Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンディッドな教室の教師に ML の知見を届ける
-- [[li-language-educators-genai-review-2026]] — GenAI と歩みをともにした言語教育者の実践と発展
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — AI 統合の教育におけるアイデンティティの緊張と原則ある選択性(Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 の AI に基づく指導における教師の介入:システマティックレビュー
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — デジタル的な媒介者としての学術的な開発者:南アフリカの HDI における役割の再構成、情緒的な労働、判断
-- [[where-ai-enters-teacher-work-2026]] — 人工知能が教師の仕事に入り込む場所
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged:学習者と AI の間の代理人としての教師。訓練と間接的な負荷の軽減が伸びを駆動する19クラスの準実験(Rodrigues 他 2026)
-- [[instructional-governance-design-computing-education-2026]] — 設計による指導のガバナンス:コンピューティング教育のための AI の枠組み
-- [[teachers-configure-educational-chatbots-2026]] — 意図通りに教えるだろうか:教師は教育用 AI チャットボットをどう設定するか
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 数学における教師の媒介:5つの批判的な媒介の実践、権威の移行、無料対有料のアルゴリズムの格差
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 設計による教師の準備の程度:導入や自信ではなく設計の能力としての準備の程度(Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT に支援された教師のフィードバック:教師は AI の下書きをそのまま伝達するのではなく吟味する
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — 能力から行為主体性へ:AI 教育の目的に関する教師の見方
-- [[kuhail-great-debaters-ai-facilitators-2026]] — 人間対 AI の議論の進行役:同等の評価、異なる再利用への道筋
-- [[yalcin-genai-programming-education-systematic-review-2026]] — プログラミング教育における GenAI:教育者の役割が最も研究されていないシステマティックレビュー
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — 情報の提供者から学習の設計者へ:AI で強化された教育におけるヘウタゴジカルな教授の実践
-- [[falhs-teacher-expertise-reflection-2025]] — 専門性の水準が選好と省察のニーズをどう形づくるか:教師のエンパワーメントのための AI の省察システムへ向けて(Falhs 他 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] — AIの利用は教師の成果に直接の効果を持たず、市民行動がそれを媒介した(Sherly et al. 2027)
-- [[pang-epistemic-authority-ai-lesson-planning-2026]] — AIに支援された授業計画で権威が保持・共有・譲渡される34のエピソード
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに対する学生の認識:AI対応の学習分析の設計に資する技術受容モデル研究
-- [[gnadlinger-educator-perspectives-its-design-2026]] — 教育者の視点をインテリジェント・チュータリング・システムのメタシステム設計に組み込むために
-- [[chen-future-faculty-development-ai-2027]] — 他者の専門性を指揮する教師として、教授チームに役割が分配される
-- [[li-instructor-designed-ai-rct-2026]] — 教員が設計したAIが学習を改善した、19の大学にわたる無作為化試行(Liら 2026)

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -71,7 +73,6 @@ Praktické čítanie je, že kapitulácia je **zlyhanie rozlišovania** a nie zl
 
 Predregistrovaný experiment [[braun-cognitive-dormancy-ai-affordances-2026|Brauna (2026)]] poskytuje kontrastnú konfiguráciu. S asistentom ohraničeným [[rag|vybavovaním s augmentáciou]] na pridelený pracovný list podmienka AI znížila kognitívne odľahčenie (medián −0,27) namiesto toho, aby ho zvýšila, a žiadna dráha odľahčenia nenesla nárast dezorganizácie (0,84). Kapitulácia potrebuje asistenta, ktorého radu možno prevziať ako celok; systém, ktorý odpovedá len z prítomného materiálu, dáva študentovi menej na prevzatie a viac na zosúladenie.
 
-
 ## Kapitulácia mimo laboratória
 
 Laboratórne zistenia sa zhodujú s terénnou a observačnou prácou, ktorá nezávisle dospela k tomu istému slovu.
@@ -86,7 +87,6 @@ Laboratórne zistenia sa zhodujú s terénnou a observačnou prácou, ktorá nez
 - **Odňatie nástroja je nevyriešená polovica.** [[cognitive-washout-ai-skill-decay-2026|Práca o kognitívnom vyplavení]] upozorňuje, že takmer všetok tento výskum meria poznávanie *počas* používania AI a takmer žiadny nemeria, čo sa deje, keď asistenta odoberú, čo je presne otázka, ktorú kladie skúška, výpadok alebo revízia licencie.
 
 - **„Delegovanie celého eseja zostáva mimo laboratória hypotetické.”** Stalo sa to v jednosesijovej online štúdii bez politiky a bez povzbudenia. Zo **77** vysokoškolských pisateľov **15 (19,5 %)** odovzdalo eseje napísané **100 %** modelom bez toho, aby v editore napísali jediné slovo, a **20** účastníkov si priamo vyžiadalo celý esej, čo bol najčastejšie použitý kód v schéme. Najťažší používateľ poslal **27** dopytov. [[jelson-students-chatgpt-essay-writing-2026|Kapitulácia sa ukázala ako vzorec žiadostí]], nie ako jediný detegovateľný akt.
-
 
 ## Navrhovanie a výučba proti kapitulácii
 
@@ -114,39 +114,3 @@ Dôkazy pre kapituláciu ako pomenovaný konštrukt stoja silne na jednom progra
 **„Riešením je lepšia AI, veď kapitulácia vyplýva z chýb."** Kapitulácia vyplýva zo *štruktúry* interakcie: systém, ktorý najprv vytvorí vierohodnú odpoveď, odstraňuje príležitosť, aby si študent vytvoril vlastnú. Zlepšenie presnosti znižuje škodu z nesprávnych odpovedí a nič nerobí s tým, že sa človek vzdal vytvárania úsudku, čo je škoda, ktorá pretrváva po odňatí nástroja.
 
 **„Výučba kritického hodnotenia stačí."** Je nevyhnutná a prichádza príliš neskoro. Keď je vierohodná odpoveď už na obrazovke, hodnotenie sa mení na potvrdzovanie, a preto dizajnová literatúra v tomto bode stavia pokus študenta pred výstup systému a neskúma ho až dodatočne.
-
-## Prepojené koncepty
-
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Prepojené články
-
-- [[shaw-nave-cognitive-surrender-2026]] — teória troch systémov a experimentálny podpis kapitulácie
-- [[generative-ai-reduced-study-time-math]] — posun na úrovni populácie v ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — rámec kapitulácia/odľahčenie/agentúra v PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — inštrumentálna pomoc oproti pomoci nesúcej úsudok
-- [[ai-advice-suppresses-ikt-suspension-2026]] — zrútenie „neviem"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurálne zapojenie a autorstvo
-- [[genai-thoughtless-use-self-directed-learning-2026]] — bezmyšlienkové používanie a sebariadené učenie
-- [[stamatoulis-genai-use-patterns-2026]] — prevzatie s nízkym overovaním oproti hodnotiacej integrácii
-- [[cognitive-washout-ai-skill-decay-2026]] — čo sa deje po odňatí nástroja
-- [[ai-overreliance-complex-adaptive-system-2026]] — závislosť ako populačný proces
-- [[brcic-effortless-trap-productive-struggle-2026]] — umiestnenie AI tak, aby úloha zostala namáhavá
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibračný tréning
-- [[family-school-autonomy-support-genai-2026]] — závislé oproti autonómnemu odľahčeniu
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asistent ohraničený na pracovný list znížil odľahčenie namiesto toho, aby ho zvýšil, čo je hraničná podmienka podpisu kapitulácie (Braun 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistické delegovanie celého eseja: 15 zo 77 esejí napísaných celé modelom, 20 žiadostí o kompletný esej (Jelson a spol. 2026)
-

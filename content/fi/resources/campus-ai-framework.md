@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -42,10 +43,3 @@ Johtoryhmän jäsenille, vararehtoreille ja CIO:ille, jotka päättävät tukemi
 ## Huomioita ja varauksia
 
 Kehys ja sivusto on lisensoitu **CC BY-NC-SA 4.0** -lisenssillä, joten mukauttaminen on sallittua ei-kaupalliseen käyttöön nimeämisen ja saman lisenssin ehdoilla; sivusto tarjoaa oman ehdotetun nimeämiskäytäntönsä. Sen yhteensopivuus OECD:n, NIST:n, ISO/IEC 42001:n, EU:n tekoälyasetuksen, FERPA:n ja HIPAA:n kanssa on julkaisijan oma vertailu ja sellaisena luettava. Kumppanisivustot ovat erillisiä projekteja, useat samalta tekijältä, ja ne kannattaa tuntea kokonaisuutena: [Campus AI Exchange](https://www.campusaiexchange.com/) on keskitin, joka sisältää [interaktiiviset kartat](https://www.campusaiexchange.com/ai-policies-guidelines-map) institutionaalisista tekoälypolitiikoista ja luokkahuoneohjeista, [tekoälyn hallinnon itsearvioinnin](https://www.campusaiexchange.com/ai-governance-assessment), datan hallinnan ja tekoälykantojen kartat sekä resurssikirjaston. Sen ympärillä ovat [campusaigovernance.com](https://campusaigovernance.com/) (yhdeksän tekoälyn hallintoaluetta), [campusairisks.com](https://campusairisks.com/) (NIST AI Risk Management Framework sovellettuna näihin alueisiin), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), yksikkötason [tekoälyn käyttöönottosuunnitelman malli](https://unit-ai-adoption-plan.netlify.app/) ja selvitys [agenttisesta tekoälystä johtajille](https://campusaiframework.com/sites). Strateginen kompassi kiertää myös jaettuna Google-asiakirjana, jonka avaaminen vaatii Google-tilin. Sisään tullessa näkyy lyhyt valinnainen aloituskysymys roolista ja instituutiosta; sähköposti on valinnainen ja koko sivusto on luettavissa ilman sitä.
-
-## Liittyvät käsitteet
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -41,11 +42,3 @@ Personel [[educational-policy-ai|polityki]] i liderzy OER w bibliotekach, którz
 ## Uwagi i zastrzeżenia
 
 Licencje rozdziałów to pułapka. Zbiór jest na CC BY 4.0, ale poszczególni autorzy zachowują prawa autorskie i wybrali własne licencje Creative Commons, więc rozdział może być bardziej restrykcyjny, niż sugeruje strona książki; rozdział o rewizji podręcznika jest na CC BY-NC-SA 4.0 i przy ponownym użyciu trzeba sprawdzać rozdział, a nie metryczkę. Autorzy nie mieli wymaganej procedury ujawniania użycia SI, więc większość rozdziałów omawia proces mimochodem, zazwyczaj zgodnie z wytycznymi OER Commons. Z wyboru redakcyjnego każdy rozdział zachowuje dyscyplinarny głos autora, interpunkcję i pisownię regionalną, więc proza nie czyta się jednolicie. Przede wszystkim każdy rozdział dokumentuje jeden lokalny projekt i żadne dwa nie dzielą instrumentu ani porównania, więc tom oferuje praktykę do adaptacji, a nie dowody do cytowania.
-
-## Powiązane pojęcia
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

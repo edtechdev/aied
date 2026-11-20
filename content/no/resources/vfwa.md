@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -51,11 +52,3 @@ Program- og modulansvarlige i høyere utdanning som fortsatt vil at lengre skriv
 Modellen er ikke evaluert i stor skala. Artikkelen er tydelig på at det ennå ikke finnes noe utvalg, instrument eller målt utfall, og at det trengs piloter for å teste om artefakter fra trinn 1 øker vurderernes trygghet eller tolkekonsistens, om studentene opplever designet som rettferdigere, og hvordan en disiplin setter en tilstrekkelighetsterskel uten å gjøre trinn 1 til en ny eksamen.
 
 To praktiske kostnader er reelle. Trinn 1 krever observerte økter og sikker innsamling i stor skala, og flerspråklig opptak og oversettelse er forutsetninger snarere enn tillegg. Og den tolkende vurderingen overlates bevisst til sensorene: modellen forutsetter fagkompetanse som ikke kan automatiseres, noe som er en bemanningsforutsetning like mye som et designvalg.
-
-## Tilknyttede begreper
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

@@ -18,6 +18,8 @@ confidence: medium
 translation_of: concepts/statistics-and-data-science-education
 source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -82,26 +84,3 @@ Kvaliteten af stilladseringen betyder noget uafhængigt af adgangen. En eksperim
 - **'Tilfredshed og oplevet udbytte viser, at et datavidenskabs-AI-værktøj virker.'** Elever brugte LLM'er intensivt til fejlfinding og begrebsspørgsmål og **rapporterede høj tilfredshed, mens deres oplevede udbytte for dybdelæring faldt over semesteret**. Tilfredsheden holdt, og den selvurderede læringskurve faldt, så ingen af tallene er i sig selv udfaldet.
 - **'En ubegrænset model er lige så god som en guidet vejleder.'** Gevinsten kom fra træning i stilladsering — eksplicit instruktion i trinvise hints og verifikation — som slog blot adgang til samme model på selvstændig præstation og på kalibrering af selvvurdering. Vejledningen, og træningen i at bruge den, bar effekten.
 - **'Det er nok at værne mod at give svar.'** En kursusspecifik vejleder på et hostet API, instrueret i at puffe til snarere end at levere svar, blev taget i brug af **76% til 84%** af psykologistuderende i eksamensrelevante uger af et semesterlangt R-programmeringskursus. Det er adoption, ikke bevis for, at værnene skabte læring: værn på promptniveau er én af flere håndtag og producerer ikke i sig selv læring.
-
-## Forbundne begreber
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## Forbundne artikler
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Agentbaseret værktøj, der genererer inspicerbare syntetiske datasæt til personaliseret statistikøvelse
-- [[ai-tutor-statistical-programming-adoption-2026]] — Specialbygget R-vejleder; adoptionen fulgte eksamenskalenderen
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-sværhedsmærkater følger Blooms-niveauer, ikke elevernes præstation
-- [[tactile-statistical-graphs-accessibility]] — Open source-pipeline, der genererer taktile statistiske diagrammer med lærergennemgang
-- [[guided-llm-scaffolding-independent-learning]] — Guidet stilladsering slog ubegrænset adgang på selvstændig præstation
-- [[lund-socially-accountable-data-science-xai-2026]] — At indlejre social ansvarlighed i den tekniske datavidenskabslæseplan

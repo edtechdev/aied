@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
+connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -74,32 +76,3 @@ ai_assist:
 **"معلوماتی خواندگی ایک بار کی تعارفی نشست ہے۔"** یہ تعلیم ہے، مدد نہیں: طلبہ جو سوالات لے کر آتے ہیں وہ جانچ اور حکمت عملی کے مسائل ہیں — کیا یہ ماخذ معتبر ہے، اِسے کیسے تلاش کروں — جو سکھائی جا سکنے والی مہارتیں ہیں، مکمل کیے جانے والے لین دین نہیں۔ خدمت کو مدد سمجھنا نصاب کو ہیلپ ڈیسک میں بدل دیتا ہے اور پائیدار قابلیت کھو دیتا ہے۔
 
 **"تصدیق کی قیمت کون اٹھاتا ہے، یہ کسی اور کا مسئلہ ہے۔"** مشاورتوں کا بوجھ کتب خانے کے عملے پر پڑتا ہے، اور مقالے کا اپنا سوال یہ ہے کہ کتب خانوں سے یہ اٹھوانا اُن کی تعداد سے آگے نکل جاتا ہے یا نہیں۔ مشترکہ تشکیل اور شراکت داری ہی وہ جواب ہیں جن کی سفارش ادب اِس لیے کرتا ہے کہ تصدیق کی لاگت حقیقی ہے اور اُس یونٹ پر پڑتی ہے جس نے اُس کا بجٹ نہیں رکھا تھا۔
-
-## منسلک تصورات
-
-- [[ai-literacy]]
-- [[evaluative-judgment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[scaffolding]]
-- [[inquiry-based-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[learners]]
-
-## منسلک مضامین
-
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — ایمبیڈڈ لائبریرین سیمینار پلیٹ فارم؛ 312 مشاورتیں جن میں ماخذ کی جانچ سرفہرست
-- [[genai-academic-search-workshop]] — GenAI اور علمی تلاش پر CHIIR 2026 ورکشاپ؛ لائبریرین کا اعتماد کا خلا
-- [[maybee-disruptive-partnerships-sap-2025]] — تعلیمی لائبریرین طلبہ کے ساتھ شراکت میں AI خواندگی کی مشترکہ تشکیل
-- [[aarc-ai-research-competency-2026]] — تصدیق، حوالہ اور غور بطور سکھائے جا سکنے والے تحقیقی عہد
-- [[pearls-epistemic-verification-2026]] — چھ جہتی تصدیقی پروٹوکول؛ رسائی اور جواز بطور دروازے
-- [[hingle-collaborative-ai-literacy-2025]] — AI خواندگی کے لیے باہمی تعاون کی سیکھائی؛ معلوماتی خواندگی کے فوائد کی منتقلی
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — اساتذہ انتساب اور ذمہ دار استعمال کو سب سے بلند درجہ دیتے ہیں، مگر 26 مہارتوں میں سے چند ہی پڑھاتے ہیں
-- [[bird-multimodal-educational-literature-2026]] — غیر تکنیکی صارفین جیسے انگریزی کے اساتذہ اور لائبریرین کے لیے بنا متن پیچیدگی کا اوزار
-- [[cognitive-offloading-llm-synthesis-writing]] — جب AI طلبہ کے لیے ماخذ کی ترکیب کرتا ہے تو وہ کیا منتقل کرتے ہیں
-- [[citation-errors-hallucinations-computing-education-2026]] — من گھڑت اور غلط حوالہ جات بطور تصدیق کا مسئلہ

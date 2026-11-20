@@ -16,6 +16,8 @@ ai_assist:
     role: revision
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In [[ai-education|AI in education]], help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and [[pedagogy|pedagogical]] agents are designed precisely to elicit productive help-seeking rather than answer-seeking.([[lak2026-hint-button-unproductive-use|An et al. (2026)]])([[ai-fallibility-warning-help-seeking|Nagashima et al., 2026]])
@@ -110,7 +112,6 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 **The trajectory of help-seeking predicts transfer, not just its level.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] coded 880 turns from 112 secondary students modeling mathematics problems with an LLM and found the static mix uninformative: 81.5% of turns were requests, only 2.2% explicit evaluation, and 54% of requests understanding-oriented against 46% answer-seeking. Performance on a post-test taken without AI was predicted by the within-session slope rather than by its level. Understanding-oriented help-seeking declined (M = −0.20) across the chat, and that trajectory added ΔR2 = .110 to a model already containing pre-test score (β = .34, p < .001). Static interaction features added only ΔR2 = .023 (p = .684). Help-seeking quality therefore has to be read as a curve: a session that opens with conceptual questions and settles into answer requests marks weaker unaided performance, and a modest rise in explicit self-regulation (M = +0.103) did not offset it.
 
-
 **A second pipeline asks the same question from the infrastructure side.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] argue that a human-AI exchange is a data class of its own: their representation records the computational state that prompted the request, the request, the response, the user's assessment of it and the execution that followed, as one object. Queries are then classified as error recovery, stuck-next-step, conceptual help or validation from that context. In a 35-student JupyterLab deployment spanning 140 student-assignment pairs, plain interaction counts correlated with successfully executed cells at only r = 0.12, while 37 pairs had access and never used it and 26 used it outside their assigned condition.
 
 - Where a tutoring record may be graded, withholding a request is rational, so absence of help-seeking cannot be read as absence of need: the same log indicator means something different under evaluation ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
@@ -135,56 +136,3 @@ In fully online [[english-education|composition]], availability of the tool is n
 Help-seeking is usually studied as a decision — a judgment about whether asking is worth the cost. A 2026 PLS-SEM study of 392 engineering students and educators in the Philippines suggests that, once [[generative-ai|generative AI]] is embedded, the decision has largely been made already: **habit predicted the displacement of human help-seeking at β = 0.711**, while [[technology-acceptance-model|behavioral intention]] predicted it at β = 0.039, a path statistically indistinguishable from zero. Half the GenAI users in that sample (49.6%) reported asking a person for help less often, and only 15.8% named a human as their first resource when stuck, against 30.4% who named a tool.
 
 Two implications follow for how help-seeking is scaffolded. First, interventions aimed at attitudes or at making asking more attractive compete with a routine that is already automatic — they need to target the routine, not the belief. Second, the one construct that *reduced* displacement was concern about [[academic-integrity|academic integrity]] (β = −0.329), which suggests that preserving human consultation is more plausibly achieved through required interpersonal checkpoints — peer review, oral defense, supervised lab help — than through messaging.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
-
-## Connected Articles
-- [[leite-its-k12-meta-analysis-2025]] — Which tutoring supports carry the effect: on-demand examples and hints over automatic prompts
-
-- [[taufer-human-ai-interaction-haidl-2026]] — Interactions as first-class data: classifying a query by the execution state around it
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Help-seeking trajectory, not its level, predicts unassisted math performance
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Hint length measured against next-submission correctness, attempts and time, in a live programming course
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — A helper agent nobody asked for (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
-- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking and self-regulated learning
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
-- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance: consulting GenAI before independent thought, search, or an instructor predicts both benefit and harm (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
-
-- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
-- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agent Artificial Intelligence Model to Enhance Self-Regulated Learning and Conceptual Understanding in Computer Science Edu...
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039

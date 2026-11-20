@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -43,6 +44,3 @@ ai_assist:
 ## Σημειώσεις
 
 Με άδεια Apache 2.0, στην έκδοση 1.6.9 από τον Σεπτέμβριο του 2026 με περίπου 40.000 αστέρια στο GitHub. Η δημοσιευμένη αξιολόγηση πίσω από αυτό — μέση βελτίωση 10,8% σε εξατομικευμένες μετρήσεις έναντι ισχυρών βάσεων και 29,4% ισχυρότερη γενική πρακτορική συλλογιστική σε πέντε μοντέλα ραχοκοκαλιάς, στο σημείο αναφοράς TutorBench — συνοψίζεται [[zhao-deeptutor-agentic-personalized-tutoring-2026|στη σελίδα του άρθρου]], της οποίας οι περιορισμοί ισχύουν και εδώ. Όπως σε κάθε στοίβα ΤΝ ανοιχτού κώδικα, εσείς παρέχετε τα κλειδιά του παρόχου μοντέλων, και μια εγκατάσταση σε υπολογιστή ή διακομιστή απαιτεί Python 3.11 και Node.
-
-## Συνδεδεμένες έννοιες
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

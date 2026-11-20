@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
+connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -132,7 +134,6 @@ AI 자체의 확률 출력도 그 기술을 가르칠 수 있습니다. 초보�
 - 적절한 의존을 신뢰 점수가 아니라 정답 대비 행동 결과로 측정하십시오. 둘을 모두 측정한 한 연구에서 두 변수는 부정적으로 상관했습니다.
 - 처음에 틀린 참가자의 회복률을 전체 정확도와 분리해 보고하십시오. 집계는 가장 중요한 우연 이하 수치를 가리기 때문입니다.
 
-
 **가장 회복력 있어 보이는 학습자가 도구를 더 신뢰한 사람들입니다.** 한국 대학생 300명 설문에서 [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]]는 과신이 [[self-efficacy|학업 자기효능감]](r = 0.230), [[motivation|내재적 동기]](r = 0.224), 성과 기대(r = 0.360)와 상관하며 AI 리터러시(r = 0.051)와는 상관하지 않음을 발견했습니다. 직렬 모형에서 자기효능감은 과신을 B = 0.3901(95% CI [0.2190, 0.5612])로 직접 예측했으며, 이는 총효과 0.3397보다 높아 저자들은 이를 억제 효과로 읽습니다. 보정은 학습자의 자신감에서 읽어낼 수 없습니다.
 
 보정은 결과가 아니라 상태이며, 그것이 허용하는 결과에는 자체 페이지가 있습니다. [[automation-bias]]는 자동화된 판단을 확인하지 않고 받아들이는 특정 오류를 기록합니다: 교사가 대시보드 플래그를 액면 그대로 받아들이거나, 채점자가 다시 읽지 않은 스크립트의 기계 점수를 수용하는 경우입니다.
@@ -148,61 +149,3 @@ AI 자체의 확률 출력도 그 기술을 가르칠 수 있습니다. 초보�
 **"점검은 쉬우므로 관심 있는 학생은 할 것이다."** 점검은 값싸지만 거의 수행되지 않습니다. **미국 성인 900명**의 수동적 추적 연구에서 AI 생성 요약을 본 독자는 그 안에 인용된 출처를 방문의 **1%**에서만 클릭했고, 결과 링크는 요약을 보지 않은 독자보다 절반 정도의 빈도로 클릭했습니다. 요약은 검증을 [[prompt-engineering|촉진하는]] 것이 아니라 억제하며, 그래서 점검은 근면에 기대지 말고 과제에 내장해야 합니다.
 
 **"주의 깊은 독자는 제시와 실질을 분리할 수 있다."** 유창성이 정당하지 않은 신뢰를 얻는 것이며, 그래서 보정은 학습자 기술만이 아니라 설계 문제입니다. 인터페이스가 권위를 신호하는 체계는 반대 지침과 무관하게 그 수준에서 신뢰를 얻습니다.
-
-## 연결된 개념
-
-- [[automation-bias]] — 보정되지 않은 신뢰가 허용하는 수용 오류
-- [[explainable-ai]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-safety]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-surrender]]
-
-## 연결된 문서
-
-- [[shi-human-ai-complementarity-safety-2026]] — 평가자 416명, 문항 3,957개: 후보 먼저 제시 지원이 모델이 틀린 문항에서 오류 적발을 36.7%에서 20.6%로 줄임 (Shi et al., 2026)
-- [[student-perspectives-ai-writing-grading-2026]] — 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점(AlGhamdi 2026)
-- [[du-yuan-epistemic-dependence-2026]] — 생산적 의지와 해로운 의존을 구분하는 여섯 가지 진단 기준(Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — 교육을 통한 AI 시스템의 신뢰 다루기: 교수법적 관점
-- [[pearls-epistemic-verification-2026]] — 인식론적 행위와 AI 산출물 검증을 위한 PEARLS 프레임워크(Wang 2026)
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — 에이전트형 리터러시 부채: 자율 에이전트에서 비롯된 구조적 AI 리터러시 격차(Nama 2026)
-- [[trust-reliance-ai-education-2026]] — 교육에서의 AI에 대한 신뢰와 의존
-- [[calibrating-trustworthiness-llm-education-2026]] — 신뢰성의 보정: 교육에서 LLM을 위한 지표의 공동 설계
-- [[llm-fallacy-misattribution]] — LLM 오류와 능력의 오귀속
-- [[ai-partner-science-epistemic-vigilance]] — 생산적 증강의 열쇠로서의 인식론적 경계
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — 복잡적응 시스템으로 모델링된 AI 과의존
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 흠 있지만 기억에 남는: 컴퓨터 교육에서 관심 맞춤형 생성형 AI 비유에 대한 학생의 비판적 수용
-- [[trust-calibration-chatbots-design-problem-2026]] — 설계 문제로 재규정된 신뢰 보정: 이차원적 사용자 유형론과 여덟 개의 설계 명제(Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 매개 채점에서의 프롬프트 주입: 자신의 경고를 억제하고 뒤집은 도구(Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 신뢰 게이트 추론과 설계 단계부터 설명 가능한 평가, 다만 신뢰는 측정되지 않음(Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — AI 점수의 확신 필터링과 그 위양성률
-- [[bounded-reliance-ai-writing-feedback-2026]] — 제한된 의존: 생성형 AI 글쓰기 피드백에 대한 EFL 학생 참여의 원천 신빈성 관점
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI 기반 시스템에서의 신뢰: 33개 실증 연구에 걸친 정의, 측정, 설계 요인 (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 진단에서 메타진단으로: AI가 생성한 진단 추론을 평가하는 교사들 (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 틀린 AI 조언의 수용을 줄임 (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — 맥락적 지원에서 인식된 전이 성과로 이어지는 고리에서 매개자로서의 신뢰 보정 (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI 리터러시에서 지속적 사용으로의 전환점으로서의 신뢰, AI 불안에 의해 약화됨 (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AI 권고를 비판적으로 다루기 위한 구조로서의 역할 교대 (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난도의 한계
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — 학생용 도구가 AI-EdTech에 대한 신뢰를 네 요인으로 검증하며, 인식된 유용성보다 상위에 신뢰가 놓임 (Nazaretsky et al. 2025)
-- [[children-verification-ai-suggestions-game-2026]] — 게임 기반 인간-AI 협업에서 아동의 검증 행동
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 재구성된 보정: 체계의 입장을 감추는 것은 교정이 아니라 보호
-- [[children-design-trustworthy-ai-chatbots-2026]] — 아동이 신뢰할 수 있는 AI 챗봇을 설계하고 추론하는 방식
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — 근거가 모순의 자극을 흡수하지만 신뢰를 보정하지는 못합니다
-- [[kim-overtrust-ai-literacy-2026]] - 과신은 자기효능감 및 성과 기대와 상관했으나 300명 학생에서 AI 리터러시와는 상관하지 않았습니다
-- [[trust-ai-assistants-consistently-wrong-2026]] — 사람들은 AI 조수가 일관되게 틀릴 때도 그것을 신뢰하는가?
-
-- [[bego-course-guided-chatgpt-trust-attitudes-2026]] — 강좌 안내 ChatGPT 경험이 공학 학생의 ChatGPT에 대한 신뢰와 태도에 미치는 영향
-- [[jacobs-young-learners-multimodal-genai-scratch-2026]] — 아동은 음성 다중 양상 튜터의 틀린 답을 신뢰함 (Jacobs et al., 2026)

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -72,34 +74,3 @@ ai_assist:
 **"कम पूर्व ज्ञान वाले छात्रों को अधिक AI सहायता चाहिए।"** यही वह दिशा है जो अंतराल को सबसे अधिक चौड़ा करने की संभावना रखती है, क्योंकि मापा गया ऑफ़लोडिंग पैटर्न लेखकत्व की हानि वहीं केंद्रित करता है जहाँ पूर्व ज्ञान सबसे पतला है। जो सहायता उस शिक्षार्थी को काम सौंप देती है जो प्रतिस्थापन पहचानने में सबसे कम सक्षम है, वह उसी गतिविधि को हटा देती है जो अनुपस्थित ज्ञान बनाती।
 
 **"पूर्व ज्ञान एक निश्चित इनपुट है जिसे पाठ्यक्रम हिला नहीं सकता।"** वह नए अधिगम का सबसे भारी-भरकम कारक है, जो उसे पृष्ठभूमि-शर्त नहीं बल्कि सबसे अधिक उत्तोलन वाला कार्य बनाता है: यही कारण है कि क्षेत्र-ज्ञान स्वयं में हस्तक्षेप है, केवल सहचर नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[learners]] — Learners: शिक्षार्थी-पक्ष की अवधारणाओं के लिए छत्र
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — यह कि शिक्षार्थी पहले से क्या जानता है, यह निर्धारित करता है कि स्मरण-अभ्यास क्या कर सकता है
-
-## संबंधित लेख
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — स्वचालन और सीख के बीच तनाव (पूर्व ज्ञान सक्रियण जोखिम)
-- [[genai-mindtool-generative-learning]] — GenAI माइंडटूल के रूप में: प्राइमिंग और पूर्व ज्ञान को सक्रिय करना
-- [[nie-personavlm-long-term-personalization-2026]] — LLM छात्र मॉडलिंग और स्मृति
-- [[lodge-loble-cognitive-offloading-2026]] — संज्ञानात्मक ऑफलोडिंग पर Lodge & Loble
-- [[cognitive-offloading-llm-synthesis-writing]] — LLM सिंथेसिस लेखन में संज्ञानात्मक ऑफलोडिंग
-- [[bridging-instructional-design-framework-math]] — गणित के लिए एक शिक्षण-डिज़ाइन ढाँचा
-- [[knowledge-building-tutor-learning-2026]] — पूर्व ज्ञान के बजाय ज्ञान-निर्माण ट्यूटर सीख का पूर्वानुमान लगाता है, और ज्ञान निर्माण करने वाले निम्न-पूर्व ट्यूटर पकड़ लगाते हैं
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — पूर्व ज्ञान ने पोस्टटेस्ट वहन किया (η²p = .63) जबकि अनुकूली कार्य-चयन ने कुछ नहीं (सिबली एवं सहयोगी 2026)

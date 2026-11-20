@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -114,42 +116,3 @@ ai_assist:
 **「AIはグループを調整するときに最も助けになる。」** 調整の支援と認識論的な支援は逆向きに引っ張ります。協働する調整コストを下げると、意味を交渉するようグループに働く圧力が下がりえますが、それが評価されている過程そのものです。効率と調整のトレードオフは実装の細部ではなく、設計上の中心的な緊張です。
 
 **「グループ学習が難しいのは人のせいである。」** その一部は課題設計であり、だからこそAIは難しさを単に和らげるのではなく、そのプロファイルを変えます。問いに速く答えるツールはグループが時間を使う対象を変え、それが改善になるかどうかは、課題が育むために作られた技能がどれかによります。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — 1つのAIを共有するグループのための役割スクリプト
-- [[ai-education]] — 教育におけるAI(包括概念)
-- [[collaborative-learning]]
-- [[assessment]]
-- [[peer-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[authentic-assessment]]
-- [[ai-use-disclosure]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[formative-assessment]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[problem-based-learning]]
-- [[sociocultural-learning]]
-
-## 関連記事
-
-- [[nixon-social-cost-ai-teammate-2026]] — AIチームメイトが最も多くの発言時間を占め、人間同士の応答性と帰属感が低下する(Nixon et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — 生成AI媒介のグループ評価における学生エージェンシーの3パターン
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — AIがグループに加わるときの創発的学習者エージェンシー:支援的対反対派的ペルソナ
-- [[genai-counter-learner-groupthink-2025]] — PBLチームの集団思考に対抗するため論争を注入するAIエージェント
-- [[xu-genai-collaborative-space-2026]] — チームにおける共有対私的な生成AIアクセス
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 協働モードと課題成績対自己調整のトレードオフ
-- [[golrang-propact-pair-programming-2026]] — ProPACT:ペアプログラミングにおいてダイアドを分析の単位として扱うこと
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — 学際的な学生チームにおける前提の顕在化を仲介するAI
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — 批評のパートナーとしてのLLM:積極的な反論は認知的対立を保持する
-- [[polished-artifacts-fragile-engagement-2026]] — 磨き上げられた産物、脆弱な認識論的関与
-- [[breideband-community-builder-cobi-2026]] — グループ協働のための授業レベルの言説分析
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — 協働の教育学的調停者としてのAI
-- [[neurodivergent-computing-students]] — 協働学習における神経多様性のある学生の要件
-- [[academic-league-of-ai-2026]] — AI教育のための民主的な学生ガバナンスとプロジェクトチーム
-- [[teacher-student-agency-orchestration]] — 教員と学生のエージェンシーのリアルタイム共編成
-- [[dollinger-equitable-assessment-ai-2026]] — AI時代の公平な評価
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 倫理教育エージェント:倫理的省察と探究のための役割演技と討議を用いたグループベース倫理教育の促進

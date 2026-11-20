@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -37,7 +38,3 @@ ai_assist:
 ## За кого е предназначен
 
 Дизайнери на обучение и създатели на курсове, които искат съдържанието им да преживее смяна на инструмента; доставчици на електронно обучение, които искат формат за внасяне и изнасяне, който потребителите им вече разбират; и всеки, който изгражда писане с помощта на AI върху четим формат. Сред сътрудниците е Дан Башоу от LXD Integral, а форматът има публичен дневник на промените до v1.8.
-
-## Свързани понятия
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

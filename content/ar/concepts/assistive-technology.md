@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -64,27 +66,3 @@ ai_assist:
 - **«حجم أثر متوسط يحدّد الأداة الصحيحة.»** يجد [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] أن التدخلات القائمة على الذكاء الاصطناعي تُنتج أثرًا إيجابيًا متوسطًا على نواتج التعلّم للطلاب ذوي الإعاقة (**g = 0.588**) عبر الروبوتات والبرمجيات والواقع الافتراضي الذكي. وهذا متوسط على تقنيات مختلفة جدًا تخدم احتياجات مختلفة جدًا، فهو يدعم الفئة لا الاختيار داخلها.
 - **«الوصول المشروط بالتشخيص تصميم قابل للدفاع.»** اشتراط تشخيص رسمي للمشاركة يستبعد متعلّمين لديهم احتياجات حقيقية بلا تصنيف، وهو ما يتعارض مع [[universal-design-for-learning|التصميم الشامل للتعلّم]] ويدفع كلفة الوصول إلى وثائق الطالب.
 - **«أدوات مساعدة أكثر تعني شمولًا أكثر.»** فحصت مراجعة نطاق **766 سجلًا** عبر خمس قواع بيانات، وحجم الناتج ليس هو تغطية الحاجة — فعدد الدراسات لكل حاجز هو الرقم الأكثر إفادة.
-
-## المفاهيم المرتبطة
-
-- [[accessibility]] — خاصية التصميم التي تُشغّلها التقنية المساعدة
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## المقالات المرتبطة
-
-- [[shin-ai-policies-sld-2026]] — سياسات الذكاء الاصطناعي والتيسيرات للطلاب ذوي صعوبات التعلّم المحددة
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — تحليل بعدي لتدخلات الذكاء الاصطناعي للطلاب ذوي الإعاقة
-- [[kutti-ai-voice-first-learning-companion]] — الذكاء الاصطناعي الصوتي أولًا للأطفال ضعيفي البصر
-- [[tactile-statistical-graphs-accessibility]] — مبيانات إحصائية ملموسة مولّدة بالذكاء الاصطناعي
-- [[text-simplification-its]] — تبسيط النصوص القائم على النماذج اللغوية الكبيرة للتدريس الذكي
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — توليد الأسئلة بالنماذج اللغوية الكبيرة للمتعلّمين الصم/ضعاف السمع
-- [[gemini-lualatex-physics-video-transcription-2026]] — تفريغ فيديوهات الفيزياء بـGemini+LuaLaTeX بإتاحة رياضية
-- [[khlaif-assistive-genai-visually-impaired-2026]] — الذكاء الاصطناعي التوليدي المساعد للمتعلّمين ضعيفي البصر
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — الذكاء الاصطناعي التوليدي والواقع الافتراضي وأكثر: مراجعة نطاقية للتقنيات المساعدة الرقمية للطلاب متنوّعي النيورو في التعليم العالي

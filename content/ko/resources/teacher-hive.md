@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, generative-ai, vibe-coding, ai-literacy, professional-training]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,11 +48,3 @@ ai_assist:
 Member와 Builder는 무료입니다(Builder: 앱 50개, 50MB). Pro는 월 \$10 또는 연 \$60에 앱 500개입니다. 접근 방식은 프리미엄(freemium)입니다.
 
 프라이버시가 더 강한 주장이지만, 그것은 책임을 교사에게 옮깁니다. Teacher Hive는 학생 계정을 만들지 않고, 학생에게 개인 정보를 요구하지 않으며, 게시된 앱 안에서 분석이나 광고 스크립트를 실행하지 않습니다. 앱이 링크로 공개되기 때문에, 약관은 교사에게 자신의 앱이 이름, 이메일, 학생 ID, 위치를 수집하지 않도록 할 책임을 지웁니다. 접근성 범위(WCAG 2.2 AA)는 Teacher Hive 자체 페이지에 적용되며, 검증되지 않은 교사 제작 앱에는 적용되지 않습니다. 오픈소스 라이선스는 명시되어 있지 않고, 가동 시간과 데이터 보존은 보장되지 않습니다.
-
-## 연결된 개념
-
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[ai-literacy]]
-- [[professional-training]]

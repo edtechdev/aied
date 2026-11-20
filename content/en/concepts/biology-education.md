@@ -9,6 +9,8 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 > **Biology Education** — the study of how students learn biology and how to teach it more effectively, spanning AI-assisted laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and the use of specialized tools (species identification, bioimaging, predictive modeling) in biological education. Biology's distinctive demands — large bodies of specialized terminology, visual-spatial and systems thinking, hands-on laboratory and fieldwork, and increasingly computational 'omics methods — make it a rich context for examining both the promise and the risks of AI in STEM learning.
 
@@ -56,36 +58,3 @@ Biology education sits within the broader [[stem-education|STEM education]] doma
 - **"Students cannot tell AI from a human teaching assistant."** A virtual lab teaching assistant study found **human TAs more accurate and effective than ChatGPT**, yet students **preferred the AI response 40% of the time** and could only **detect AI output 45% of the time**. Detection was close to a coin flip and preference ran toward the less accurate source, so satisfaction data cannot stand in for quality here.
 - **"Preference indicates quality."** The same study separates them directly: the preferred output was the worse one. Any evaluation of a biology AI tool that reports student satisfaction without an accuracy measure is reporting the wrong quantity.
 - **"AI literacy must be taught as a separate subject."** Embedding machine-learning concepts **into a high-school biology course** found the biology context **supported** AI learning — evidence for embedding AI literacy in the curriculum rather than bolting on a standalone unit. The discipline gave the concepts something to attach to.
-
-## Connected Concepts
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
-

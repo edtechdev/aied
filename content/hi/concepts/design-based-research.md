@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -78,30 +80,3 @@ DBR [[learning-sciences|अधिगम विज्ञान]] की प्र
 **"चूँकि DBR एक कार्यशील कलाकृति उत्पन्न करता है, इसने प्रभावशीलता सिद्ध कर दी है।"** जो डिज़ाइन उसी स्थल पर काम करता है जिसने उसे सह-निर्मित किया, उसने स्थानीय व्यवहार्यता सिद्ध की है, जो प्रभावशीलता से भिन्न दावा है। कलाकृति उस संदर्भ के लिए किए गए अनुकूलन लेकर चलती है, और उसे स्थानांतरित करना उन मान्यताओं को स्थानांतरित करना है जिन्हें कभी मान्यता के रूप में नहीं कहा गया।
 
 **"किसी उपकरण को संशोधन-योग्य डिज़ाइन कलाकृति मानना DBR से विचलन है।"** यह DBR का पुनरावृत्त चरित्र है जो हस्तक्षेप के बजाय मापन पर लागू होता है: इस संग्रह के एक अध्ययन ने रूब्रिक को ही कलाकृति माना, एक [[llm|LLM]] के साथ सह-परिष्करण के चक्र से गुज़रते हुए। यह विस्तार उल्लेखनीय है क्योंकि यह उपकरण के अपने विकास को साक्ष्य का हिस्सा बना देता है।
-
-## संबंधित अवधारणाएँ
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## संबंधित लेख
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI-सहायित सहयोगात्मक अधिगम मॉडल के लिए DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — शिक्षक शिक्षा में AI-साक्षरता प्रशिक्षण के लिए DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — संकाय प्रौद्योगिकी-एकीकरण मानकों के लिए DBR
-- [[human-centered-ai-teacher-educators-2026]] — शिक्षक-शिक्षकों के लिए मानव-केंद्रित AI (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — ओपन यूनिवर्सिटी में AIDA के क्रियान्वयन करने वाले छह DBR अध्ययन
-- [[critical-thinking-genai-scaffolding]] — GenAI समीक्षात्मक-चिंतन स्कैफोल्डिंग के लिए DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — विज्ञान-एकीकृत AI साक्षरता पाठ्यक्रम के लिए DBR (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): प्री-के और किंडरगार्टन के लिए खेल-केंद्रित AI साक्षरता पाठ्यक्रम (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — पुनरावृत्त शिक्षाशास्त्रीय डिज़ाइन के एजेंट के रूप में LLMs

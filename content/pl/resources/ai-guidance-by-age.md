@@ -29,6 +29,7 @@ verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
 source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -52,11 +53,3 @@ Przewodnik jest uczciwy co do własnego statusu. Autorzy nazywają wpisy hipotez
 Dwa dalsze ograniczenia mają znaczenie dla nauczania. Rekomendacje są podpowiedziami projektowymi, nie przetestowanymi interwencjami; nic na stronie nie relacjonuje wyniku. A struktura przedziałów wiekowych narzuca zgrubną siatkę na rozwój, który różni się wewnątrz przedziałów, między kulturami i między kontekstami, co sam przewodnik przyznaje.
 
 Ramę wartą przeniesienia do praktyki wyznacza sam serwis: utrzymuj pętlę ludzką, a potem ustal, gdzie mieści się w niej AI, zamiast wstawiać ludzki punkt kontrolny do pętli należącej do maszyny — ta sama obawa, którą korpus odnotowuje jako ryzyko [[cognitive-offloading|odciążenia poznawczego]], gdy narzędzie przejmuje tę część zadania, która wykonywała pracę rozwojową.
-
-## Powiązane pojęcia
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

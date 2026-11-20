@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -108,42 +110,3 @@ ai_assist:
 **"[[intelligent-tutoring|적응적 튜터]]는 모든 수준에 똑같이 도움이 된다."** 변수를 분리하는 비교는 시사하는 바가 큽니다. 같은 2학년 수학 튜터의 두 버전, 즉 내용, 인터페이스, 피드백, 음성 힌트가 동일하고 **과제 선택이 베이지안 [[knowledge-tracing]] 모형을 따랐는지만 다른** 두 버전이 있었습니다. 적응적 과제 선택은 수준에 민감한 개입이며, 그 이득은 그 수준의 학습자가 적응에 따라 행동할 수 있는지에 달려 있습니다.
 
 **"고등 교육에 집중된 증거는 아래로 일반화된다."** 그렇지 않으며, 문헌의 분포는 편의가 아니라 경고입니다. 증거가 밀집한 곳과 빈약한 곳은 연구 경제의 속성이지 AI가 가장 많이 쓰이는 곳의 속성이 아니므로, 대학 표본에서 끌어낸 K-12에 관한 주장은 가장 중요한 경계를 넘는 외삽입니다.
-
-## 연결된 개념
-
-- [[primary-education]] — 그 자체로서의 초등 구간
-- [[secondary-education]] — 중학교와 고등학교를 함께
-- [[undergraduate-education]] — 외부 판단 아래의 강의 이수
-- [[graduate-education]] — 지도, 연구 훈련, 전문 프로그램
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## 연결된 문서
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 2학년 수학에서의 적응형 대 비적응형 튜터링(Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — 초등 과학에서 3학년생과 함께하는 GenAI 챗봇과 문제 제기
-- [[chatgpt-music-education-junior-high-2026]] — 가사 학습을 위한 ChatGPT에 대한 초등 고학년 학생들의 태도(Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — 중학교를 위해 설계된 AI 통합 LMS, 제안된 종단 연구 포함
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 중국 중등 교육에서의 생성 AI 학습 패널티(Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — 학부 작문가들의 네 가지 LLM 의존 유형(Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — 공학 학생들을 위한 내장 사서 지원이 있는 AI 지원 세미나 플랫폼
-- [[ai-mediated-research-agency-formation-2026]] — 박사 및 박사후 훈련에서의 AI 의존, 자율성, 혁신(Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — 아프리카 고등교육에서의 데이터 사생활 보호에 관한 이해관계자 견해(Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — 우크라이나 전역에 걸친 교육 관리자들의 AI 도입 준비도(Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 직업 디자인 학생들을 위한 AI 지원 몰입형 PBL(Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — 유아 교육 환경에서 AI 사용 의도에 관한 유아 교사들의 의향
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — 연령에 맞춘 AI 챗봇에 대한 아동들의 태도
-- [[yim-ai-literacy-primary-schools-review-2025]] — 초등 연구 25편; 윤리와 비판적 데이터 리터러시를 포함한 네 가지 구성 요소 (Yim & Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 중등 연구 33편; 고차 문항에서 정확도 붕괴 (Pérez-Montesdeoca et al. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 고등학교, 대학, 교사 전반의 응답자 1477명; 지각된 학습 대 참여
-- [[kumar-chatgpt-academic-assignments-2025]] — 학부생 및 대학원생 304명; 디지털 리터러시는 수행을 예측했고 윤리는 그렇지 않았음
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 학부 대 대학원 비교; 윤리와 자율성 격차가 가장 큼 (Zaripova et al. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — 대학원 생성 AI 리터러시의 5차원 모형

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -96,40 +98,3 @@ ai_assist:
 - **“排行榜名次告诉你一个辅导者有多好。”** StudentBench 把 **2,383 名成人**随机分配到 AI 辅导、真人专家辅导与一个视频条件，并对照人类辅导者而非其他系统评分。一个只能与其他模型相比的基准，回答的是一个没人需要回答的问题。
 - **“模拟画像是辅导者评估的充分基础。”** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] 把评估建立在**有文献记录的案例**而非模拟画像之上，使用 **923 段对话**。虚构的学生画像让系统得以通过一些并不会发生的案例。
 - **“基准可以不检查评判者就被信任。”** 幻觉被按**对照检索到的开放许可片段的蕴含关系**评分（**与专家判断的 κ = 0.76**），评判者在它的分数被使用之前已对照专家验证。未经验证的自动评判者产出的数字意义不明。
-
-## 关联概念
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## 关联文章
-
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：在有挑战行为的学生上评估 LLM 导师（Park et al. 2026）
-- [[standardized-assessment-llm-english-proficiency-2026]] — 一个把模型能力报告为校准水平的 624 项英语熟练度基准（Min et al. 2026）
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — 考核工具对人类与 LLM 测的是同一件事吗？（Strugatski et al. 2026）
-- [[cdpk-pedagogy-benchmark-llms]] — 教学法基准：LLM 教学知识（CDPK + SEND）
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench：基准测试基于 LLM 的教学设计智能体
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 本地部署的 OER AI 知识库助手：多维度基准
-- [[authentic-products-authenticated-processes-2026]] — 从真实性产品到被认证的过程：AI 密集的高等教育中的真实性考核
-- [[llm-cognitive-diagnosis-handwritten-math]] — 基准测试大语言模型从手写数学作业中诊断学生认知技能的能力
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench：面向带模拟学习者的教学型 LLM 智能体的长视野基准
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的负责任考核：一场面向未来会议的关键洞见
-- [[anvil-ai-educational-animations]] — ANVIL：给讲师的类比与视频
-- [[icle-plus-plus-essay-scoring]] — ICLE++：为整体作文评分建模细粒度特质
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24：基准测试多模态 LLM 的幻灯片审计
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR：评估生成数学图表的基准
-- [[eeg-familiarity-automated-assessment-2026]] — 自动化学习者评估：基于 EEG 的熟悉度预测
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG：面向理论计算机科学教育的检索增强生成——一个用于算法分析与复杂性理论的综合评估框架
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE：标注优先、任务生成的基准建构，以及 12 项艺术图像任务上的维度级非冗余（Zhu et al. 2026）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等价的 GRE 学习增益
-- [[bloom-classifier-ai-assisted-questions-2026]] — 预训练模型对新型 AI 辅助教育题的教学性评估之评估
-- [[llm-benchmark-secondary-science-topics-2026]] — 一个用于 LLM 理解中学科学主题的基准
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — 面向 AI 导师基准的八项设计原则，源自一个被优化成重复的指标（Domínguez Figaredo & Fernández De la Cruz 2026）
-- [[nkrumah-ai-skill-extraction-engineering-2026]] — 比较面向工程教育的自动化技能抽取方法：从嵌入到智能体系统

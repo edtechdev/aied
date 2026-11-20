@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -43,7 +45,6 @@ ai_assist:
 그 위험은 언어에도 의존합니다. [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite와 Sun(2026)]]은 오류 탐지가 영어에서는 강하지만 그리스어와 중국어에서는 더 약하다는 것을 발견했으며, L2 쓰기 피드백에서 환각과 저자 의도의 오독이 나타났습니다.
 
 **산출물 이후의 기억 왜곡.** 2026년 실험은 오해를 부르는 AI 요약이 단순히 잘못된 정보를 주는 것을 넘어, 328명의 성인이 본 영상에 관해 기억하는 것 자체를 바꾸었다는 것을 발견했습니다. 오해를 부르는 요약을 읽은 사람 가운데 나중에 핵심 세부를 정확히 식별한 이는 44.8%뿐이었고, 일관된 요약을 읽은 이는 83.6%였으며, 요약이 인간이 작성한 것으로 표시되었을 때도 효과는 유지되었습니다([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). 동반 감사에서 가장 흔한 오류는 누락이었습니다. 스무 개의 요약 모두 오류를 담고 있었고, 95%는 충돌 자체를 누락했습니다. 이 연구는 학생을 시험하지 않았지만, 텍스트에서 끝나는 환각 점검이 왜 불완전한지를 보여 줍니다. 오류는 텍스트가 사라진 뒤에도 읽는 사람의 기억에 남을 수 있습니다.
-
 
 **평가 환각**은 특히 손상을 입힙니다. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]**는 인지 기능을 진단할 때 LLM이 학생 손글씨에 없는 증거 인용을 날조하며, 틀린 진단의 58.5%가 증거에 대한 확신이라는 거짓 주장을 동반한다는 것을 발견했습니다. **[[llm-fallacy-misattribution]]**는 [[llm]] 추론에서 증거의 체계적 과귀속을 기록했습니다. 모델들이 아무런 증거적 뒷받침도 없는 곳에서 증거적 지지를 주장하는 것입니다. 둘 다 [[ai-ed-evaluation]]과 [[assessment-validity]]에 관한 [[knowledge-tracing]]의 관심사와 연결됩니다. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]는 AI 산출물이 검토가 아니라 채점될 때 보이는 두 가지 실패 양상을 더합니다. 채점을 살아남는 날조된 세부 사항입니다. 존재하지 않는 논문(해결할 수 없는 DOI까지 완비한)과, 출처가 329이라고 한 것을 378으로 보고한 표본 크기가 그것입니다. 그리고 단일 응답 안의 자기모순으로, 모델이 추론을 거쳐 정답에 이르고서는 마무리 요약에서 다른 답을 보고합니다. 참고문헌 목록이 현재 정확성이 아니라 형식으로 채점되기 때문에, 이런 부류의 오류는 합격 점수를 받으면서도 같은 도구로 복습하는 학생을 오도합니다.
 
@@ -71,40 +72,3 @@ ai_assist:
 - **"오류는 나타날 때 분명하다."** 손글씨 수학을 진단하던 AI는 **확신을 주장하면서 없던 증거 인용을 날조**할 수 있었습니다. 그 실패는 그럴듯하지만 틀린 답이 아니었습니다. 확신과 함께 제시된, 만들어 낸 뒷받침이었고, 이것이 잡아내기 가장 어려운 종류입니다. 신중한 독자가 바로 원할 만한 증거처럼 읽히기 때문입니다.
 - **"인용이 없는 산출물은 형식 문제다."** 상업용 교재를 AI 생성 읽을거리로 대체한 한 대학원 강의에서, **기록된 4,487쪽 중 약 0.80%만이 APA 형식의 본문 내 인용을 담고 있었습니다**. 그것은 간헐적 누락이 아니라 말뭉치 수준의 출처 부재이며, 검증에 출발점이 없다는 뜻입니다.
 - **"환각은 더 새로운 모델이 해결하는 모델 생성 문제다."** 그 비율 범위는 125개 연구에 걸쳐 10-40%이며, 이는 모델만큼이나 과제와 배포의 속성입니다. 비율 감소는 진정한 진전이지만, 독자가 확인할 수 있어야 한다는 점을 바꾸지는 않습니다.
-
-## 연결된 개념
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## 연결된 문서
-
-- [[frontiers-gai-hallucination-dependence-2026]] — GAI 대화를 날조된 것으로 표시하는 것이 신뢰와 의존을 함께 낮췄다
-- [[sim-ai-summary-memory-distortion-2026]] — 오해를 부르는 AI 요약이 성인의 영상 기억을 왜곡했고, AI 또는 인간 표시는 그들을 보호하지 못했습니다
-
-- [[ivory-psychology-assessment-integrity-2026]] — 합격 가능한 학생 작업 안의 날조된 인용과 자기모순적 산출물(Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: 개념 수준에서 틀린, 유창하고 그럴듯한 설명들(Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 숨겨진 프롬프트 주입이 AI 채점 점수를 감지되지 않게 올리고, 탐지된 공격은 보고되지 않는다(Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI와 함께 진정한 평가를 설계하기: 고등 교육에서 Assessment Authentifire의 파일럿 연구
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 신뢰도 단서가 AI 산출물에 대한 복종을 높였고, 인용된 사례 중 일부는 잘못 귀속되었거나 허구였다
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 차세대 문헌 고찰: 신진 연구자를 위한 실용적 AI 가이드

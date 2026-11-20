@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -126,73 +128,3 @@ Suunnittelu moderatoi vaikutuksia enemmän kuin teknologia Zhangin ja kollegoide
 - **"Tekoälyn oppituntisuunnittelu palauttaa aikaa opettajille."** Suunnitteluaika laski 3,32 tunnista viikossa 2,51 tuntiin työkalun kanssa, mutta **mediaaniopettaja suunnitteli vain 21-40 % oppitunneista tyhjästä**. Aikaa säästyi eikä suunnittelusta tullut olennaisesti perusteellisempaa: säästö kertyi sen sijaan että se olisi sijoitettu uudelleen.
 - **"Yhteissuunnittelu tekoälyn kanssa on vahvasti näyttöön perustuvaa."** Systemaattinen katsaus [[wang-teacher-ai-co-design-review-2026|opettajan ja tekoälyn yhteissuunnitteluun oppimistehtävissä]] **vahvistaa kuvion laajassa mittakaavassa 28 tutkimuksen yli**, mikä kuvaa johdonmukaista käytäntöä eikä osoita parempia tuloksia.
 - **"Arviointikriteeristö on kiinteä syöte."** Kriteeristö toimii **välittävänä rajapintana inhimillisen pedagogisen aikomuksen ja koneen päättelyn välillä**: juuri kriteerien kohteleminen **muokattavina** antaa instrumentin kantaa kasvattajan aikomuksen. Kiinteä kriteeristö siirtää koneen oletuskehyksen arviointiin.
-
-## Liittyvät käsitteet
-
-- [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]] - Pedagogiset kumppanuudet
-- [[online-teaching-and-learning]] - Verkko-opetus ja -oppiminen
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agentic-ai]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[behaviorism]]
-- [[educational-technology-developers]]
-- [[pedagogy]] - katto: pedagogiikat ja opetusstrategiat tekoälykoulutuksessa
-- [[stakeholders]] - katto: ihmiset ja yleisöt tekoälykoulutuksessa (oppijat, opettajat, suunnittelijat, hallinnoijat, päättäjät)
-
-## Liittyvät artikkelit
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Mitattu suunnitteluajan säästö yhdessä sen havainnon kanssa, että opettajat suunnittelevat vain 21-40 % oppitunneista tyhjästä
-- [[powerful-learning-with-emerging-technology-2025]] — Tehokas oppiminen nousevan teknologian kanssa
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Oppimisanalytiikka ja generatiivinen tekoäly oppimissuunnittelun päätöksenteossa
-- [[tang-chatbots-learning-design-2026]] — Chatbotin käyttö oppimissuunnittelussa: suunnittelijat viipyvät tavoitteissa ja pedagogiikassa sisällöntuotannon sijaan (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Opettajan ja tekoälyn vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälyosaamisen mukaan (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Tekoäly korkeakoulutuksessa: sitoutuminen ja opetusmenetelmien välittävä rooli
-- [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomia (rajapinta) generatiivisen tekoälyn oppimistoimintojen luokitteluun
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — Tekoälyverkkoagentit: autonominen verkkoagentti arvioi oppituntisuunnitelmia ja ennustaa opiskelijoiden keskeyttämisen ennen kuin opiskelijat sitoutuvat (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: viitekehys kognitiivisesti aktivoivalle tekoälyn vahvistamiselle fysiikassa
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Suunnittelu kantaman mukaan: seitsemän vipua ja yksin tekoälyn kanssa oleva opiskelija
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Kun ei-sanominen tekee parempia videoita: kaksinkertainen portinvartiointi pedagogisesti perustellussa tekoälysisällön tuotannossa
-- [[rhaimi-productivemath-2025]] — ProductiveMath: tekoäly tuottavan epäonnistumisen tehtävien suunnittelun tukena
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — Tekoäly ja opetussuunnittelun käytäntö: systemaattinen katsaus (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graafipohjainen älykäs opastus dynaamisilla aloilla (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Tekoälyn tekeminen tarkoituksella ärsyttäväksi: rajaaminen tekoälytuetussa kirjoittamisessa (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Tekoälypohjainen alusta matemaattisten mallinnustehtävien tuottamiseen (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: trendit ja näkökulmat (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM:t iteratiivisen pedagogisen suunnittelun agentteina
-
-- [[zeivots-postdigital-co-design-genai-2025]] — GenAI epäluotettavana yhteistyökumppanina yhteissuunnittelussa
-- [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)
-- [[williams-coding-curriculum-critique-2026]] — Coding the Curriculum: A Critique of "How AI Makes Its Mark on Instructional Design"
-- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

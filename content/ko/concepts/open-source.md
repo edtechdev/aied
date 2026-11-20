@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -86,48 +88,3 @@ OmniEdu는 가중치만이 아니라 전체 파이프라인을 공개합니다. 
 **"폐쇄형 최전선 모형이 그냥 더 좋으므로 공개 대안은 대체재다."** 그 격차는 그 가정이 시사하는 것보다 좁습니다. 97개 모델에 걸친 [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]](CDPK + SEND, 실제 칠레 교사 시험 문항으로 구축)에서 공개 가중치 **DeepSeek R1은 86.65%에 도달**했고, 상위 10개는 대부분 폐쇄형 추론 모델이었습니다. 비용-정확도 비교는 공개의 방향으로 더 나아갑니다. 따라서 공개성에 남은 논거는 능력의 희생이 아니라 통제와 감사 가능성에 관한 것입니다.
 
 **"가중치를 공개하는 것이 작업을 공개하는 것이다."** 더 강한 공개 기여는 파이프라인을 공개합니다. OmniEdu는 최종 가중치만이 아니라 69,999개 예시 혼합물에 대한 능력 균형 감독을 공개하여 공개 4B/9B/27B K–12 패밀리의 모든 규모를 끌어올렸고, 조정된 4B 모델은 MathTutorBench [[scaffolding|스캐폴딩]] 성능에서 **55포인트**를 얻었습니다. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]]도 440개의 채굴된 어려운 부정 예시와 40,000개의 생성된 응답을 포함한 RL 및 미세 조정 절차를 문서화합니다. 레시피 없는 가중치는 방법을 재현하지 않고 결과만 재현합니다.
-
-## 연결된 개념
-
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-- [[open-education]]
-
-## 연결된 문서
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 소비자용 하드웨어에서의 온프레미스 OER AI 지식베이스 도우미 (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — CC BY OpenStax 콘텐츠 라이브러리를 지닌 MIT 라이선스 적응형 튜터 (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — 훨씬 더 큰 독점 시스템을 능가하는 공개 32B 교수학 모델 (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — 즉시 도입 가능한 FERPA 준수 로컬 LLM 자동 채점 도구
-- [[programming-its]] — 파이썬 ITS에서 GDPR/EU AI Act 준수를 위한 자체 호스팅 공개 가중치 LLM
-- [[aiawe-automated-writing-evaluation]] — 자동 서술 평가를 위한 LoRA 적응 공개 가중치 모델
-- [[stanbkt-bayesian-knowledge-tracing]] — 완전한 베이즈 지식 추적을 위한 공개 파이썬 패키지
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 학습자 기억을 지닌 완전 공개 소스 에이전트 튜터링 프레임워크
-- [[vismatic-secure-sandbox-cs-education]] — 과정 중심 평가를 위한 공개 컨테이너 샌드박스
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — 공개 코드베이스를 지닌 정서 수학 튜터
-- [[cdpk-pedagogy-benchmark-llms]] — 97개 모델에 걸친 공개 교수학 벤치마크와 비용–정확도 프런티어
-- [[astra-multi-agent-tutoring-benchmark-2026]] — 트레이스 기반 다중 에이전트 튜터링 평가를 위한 공개 데이터셋과 프로토타입
-- [[mllm-scientific-visualization-literacy]] — 시각화 리터러시에서 인간 기준선 아래인 공개 모델
-- [[iks-instruct-dataset-indian-knowledge]] — 문화적으로 접지된 지시를 위한 공개 다국어 데이터셋
-- [[aied-carbon-footprint-reporting]] — LLM 환경 비용 보고를 위한 공개 소스 방법
-- [[egai-power-systems-education]] — 공학 AI를 위한 공개 실행형 모듈 라이브러리
-- [[mooc-to-maic]] — LLM 기반 강좌 생성과 강좌 생산 경제의 변화
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: 학습과 교수를 위한 공개 파운데이션 모델

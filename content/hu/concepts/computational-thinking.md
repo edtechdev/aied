@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -74,54 +76,3 @@ A komputációs gondolkodás az a közös kognitív alap, amely az [[ai-literacy
 - **„Az MI-segítség kiegyenlíti a pályát az alulfinanszírozott környezetekben.”** Képes rá, bizonyos feltételek mellett. Egy **14 hetes kvázi-kísérlet 103 nigériai elsőéves egyetemistával** azt találta, hogy az MI-támogatott problémaalapú tanulás (ChatGPT és Teachable Machine) nyereséget hozott, és az MI mint „képességesebb társ” hordozza a CT-t ott, ahol más kínálat nincs. De ez egy strukturált beavatkozásra vonatkozó megállapítás, nem annak tulajdonsága, hogy diákoknak [[conversational-ai|chatbotot]] adunk.
 - **„Az LLM-ek nem tudják megbízhatóan értékelni a CT-t.”** [[llm-computational-thinking-physics-2026|A fizikai CT-értékelés kutatása]] szerint az LLM-ek **utánozni tudják az emberi értékelőket** a Data Practices és a Computational Problem-Solving Practices fejlődésének pontozásában nagy létszámú kurzusokon. A CT-értékelés skálázásának akadálya az értékelői kapacitás volt, és ez a korlát enyhül — ami a tervezési problémát oda tolja, hogy a műszer a CT-t méri-e, nem a megfelelést.
 - **„A CT kódolási készség, amelyet a robotika véletlenül tanít.”** **95 tanulmány [[meta-analysis-systematic-review|szisztematikus áttekintése]]** megerősíti, hogy a robotika fejleszti a CT-t, a kreativitást és a problémamegoldást, de azt is, hogy a **környezet moderálja az eredményt**: a [[game-based-learning|játékalapú]] átadás az informális környezetekhez illik, míg a játékosítás a formálisakban eltér. A CT gyakorlatok halmaza, amelyek egyenetlenül vihetők át, ezért az átviteli állításhoz az a feladattervezés kell, amelyet ténylegesen használtak.
-
-## Kapcsolódó fogalmak
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## Kapcsolódó cikkek
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Komputációs gondolkodás az MI-képzési tesztben (CTAT)
-- [[computational-thinking-aica-2026]] — Komputációs gondolkodás szintek és MI-kódolóasszisztensek (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Modellszerzőség: elmélet és mérés a GenAI-val való építés általi tanuláshoz
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: konstrukcionista keretrendszer az artefaktumépítéshez
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-áttekintés 128 rendszertanulmányról
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Szisztematikus áttekintés a CT-ről óvodai robotikán keresztül
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: reprodukálható munkafolyamat nem programozó kutatóknak publikált MI-modellek megvalósításához

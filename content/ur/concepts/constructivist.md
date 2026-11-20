@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
+connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -94,7 +96,6 @@ ai_assist:
 - **جواب کی مشینوں کے بجائے سوچ کے آلات** — GenAI کو ایک [[genai-mindtool-generative-learning]] کے طور پر استعمال کرنا جس میں سیکھنے والا آلے کو چلاتا ہے، نہ کہ آلہ سیکھنے والے کی جگہ لیتا ہے۔([[genai-mindtool-generative-learning]])
 - **تعمیری تصادم** — وہ مخالفانہ AI ایجنٹ جو سیکھنے والے کے ڈیزائن یا استدلال کو چیلنج کرتے ہیں، اور متبادلات پر نظرثانی اور گہری تعمیر کی ترغیب دیتے ہیں، سقراطی تدریس کی روایت میں۔([[ai-agents-constructive-conflict-design-education-2026]])
 
-
 - **نقلی مخالفت مخالفت نہیں ہوتی۔** وہ مخالف موقف جسے طلب پر بولا جا سکے مگر جو کبھی مزاحمت نہ کرے، مکالمے کی ترتیب کو دہراتا ہے مگر وہ چیز روک لیتا ہے جو اسے طاقتور بناتی ہے: اس کا کوئی جسم، کوئی داؤ یا کوئی نتیجے کا خطرہ نہیں، چنانچہ انسانی دوسرے کے برعکس وہ مرمت کا کوئی راستہ نہیں دیتا ([[synthetic-position-self-authorship-2026|Du et al. (2026)]])۔
 - **موازنے کے ذریعے اندرونی فیڈبیک** — سیکھنے والے اپنے کام کا AI سے پیدا شدہ نمونوں سے موازنہ کریں تاکہ موازنے کا فعل بذات خود سیکھائی پیدا کرے۔([[ai-internal-feedback-evaluative-judgments]])
 - **سوال کی قسم سے واقف پرامپٹنگ** — سیکھنے والے کے سوالات کو تعمیری کرداروں میں درجہ بند کرنا تاکہ نظام جان بوجھ کر طالب علم کو معلومات حاصل کرنے سے تلاشی، مکالماتی پوچھ گچھ کی طرف بڑھا سکے، بجائے اس کے کہ سوال جس علمی گہرائی کا اشارہ دے اسی کی عکاسی کرے۔ چونکہ خودکار درجہ بند کرنے والوں کے لیے سہولت کار اور شریک سیکھنے والے کی نیت الجھی ہوئی رہتی ہے، یہ ڈیزائن ایک انسان کو شامل رکھتا ہے جو درجہ بندی کی تصدیق کرے قبل اس کے کہ وہ [[feedback]] یا [[scaffolding]] کو چلائے۔([[lee-learner-question-types-ai-education-2026]])
@@ -116,54 +117,3 @@ ai_assist:
 - **"پوچھے گئے سوالات سے تعمیری تدریس کی نشاندہی ہو سکتی ہے۔"** ایک DeBERTa درجہ بند کرنے والے نے **حقائقی علم منتقل کرنے والے سوالات کو 96.67% درستگی پر درجہ بند کیا مگر سہولت کار سوالات کو صرف 78.79% پر**، اور **ہر ماڈل نے دو اعلیٰ درجے کے کرداروں میں خلط ملط کیا**۔ سب سے اہم تصور وہی ہے جسے خودکار نشاندہی سب سے بری طرح سنبھالتی ہے۔
 - **"سبق کی سطحی خصوصیات اس کی تدریس ظاہر کر دیتی ہیں۔"** درجہ بند کرنے والے کی ناکامی نفاذ کی تفصیل نہیں۔ سہولت کار اور تعمیری کردار اسی لیے مشکل معاملات ہیں کہ وہ اس بات سے متعین ہوتے ہیں کہ استاد سیکھنے والے کی سوچ کے ساتھ کیا کرتا ہے، اور یہ تعلق سوال کے متن سے تنہا بازیافت نہیں ہو سکتا۔
 - **"تعمیریت کا مطلب ہے کہ استاد وضاحت نہ کرے۔"** یہ نظریہ سیکھائی کو سیکھنے والے کی تجربے سے تعمیر میں رکھتا ہے، جو براہ راست ہدایت کے ساتھ ہم آہنگ ہے۔ اسے بتانے پر پابندی سمجھنا نظریے اور حل شدہ مثالوں کے ثبوت، دونوں کو غلط پڑھنا ہے۔
-
-## منسلک تصورات
-- [[community-of-inquiry]] — استفسار کی برادری (تعمیری/ڈیویی عملیت پسندی میں جکڑی)
-- [[cognitive-psychology]] — علمیت پرستی، سیکھنے کے نظریے کا تیسرا کلاسیکی قطب
-- [[active-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[experiential-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — کیمیا کی تعلیم اور AI: تجربہ گاہیں، تکوینی جانچ، LLM کی حدود، تجربے کا فلسفہ
-- [[theory-development-aied]] — تعلیم میں AI کے اندر نظریے کی تشکیل
-- [[productive-failure]]
-
-## منسلک مضامین
-- [[lee-learner-question-types-ai-education-2026]] — سیکھنے والوں کے سوالات تین تعمیری کرداروں میں درجہ بند: منتقل کرنے والا، سہولت کار، شریک سیکھنے والا (Lee, Atif & Kang 2026)
-- [[mishra-control-vs-agency-history-2025]] — AIED کی تاریخ میں تعمیریت پسندی (Papert) کو علمی ٹیوٹرز کے مقابل رکھتا ہے
-- [[code-to-learn-genai-artifact-construction-2026]] — GenAI کے ساتھ کوڈ ٹو لرن: مصنوع کی تعمیر کے لیے تعمیریت پسندی کا فریم ورک
-- [[ai-writes-code-student-writes-model-2026]] — ماڈل کی مصنفیت: GenAI کے ساتھ تعمیر کے ذریعے سیکھنے کے لیے نظریہ اور پیمائشی پروگرام
-- [[ai-vocational-education-training-review]] — VET میں تعمیریت کا دعویٰ مگر رویہ پرست AI کا غلبہ؛ "Turing Trap"
-- [[generative-refusal-ai-tools-for-thought]] — وہ AI آلات جو تعمیری سوچ بچانے کے لیے پیداوار روکتے ہیں
-- [[genai-mindtool-generative-learning]] — GenAI بطور سوچ کا آلہ جو سیکھنے والے کی تعمیر کی معاونت کرتا ہے
-- [[ai-agents-constructive-conflict-design-education-2026]] — مخالفانہ AI ایجنٹ جو تعمیری نظرثانی کی ترغیب دیتے ہیں
-- [[hingle-collaborative-ai-literacy-2025]] — تعاونی AI خواندگی اور ICAP شمولیت فریم ورک
-- [[ai-internal-feedback-evaluative-judgments]] — AI کی معاونت والا موازنہ جو تشخیصی فیصلے پیدا کرتا ہے
-- [[icap-cognitive-engagement-llm-agents]] — ICAP اور LLM ایجنٹس کے ساتھ علمی شمولیت
-- [[conversational-ai-tutors-framework]] — AI ٹیوٹرز میں مکالمے کی سکافولڈنگ
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI سہولت کار کے ساتھ مجسم استفسار
-- [[beyond-detection-authentic-assessment-ai-2025]] — حقیقی جانچ اور علم کی تعمیر
-- [[teacher-ai-teaming-five-levels]] — ڈیزائن میں استاد اور AI کے تعاون کی سطحیں
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — سیکھنے والے اور مشین کے درمیان علمی مشترکہ عاملیت
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — AI سے چلنے والی تعلیمی روبوٹکس تک سیکھنے کے راستے (2026)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: طلبہ کے علمی ارتقا کی نقل کرنے والا جنریٹو ایجنٹ
-
-- [[synthetic-position-self-authorship-2026]] — نقلی AI مخالف موقف مکالمے کی شکل دہراتے ہیں مگر وہ مزاحمت روک لیتے ہیں جو نظرثانی کا تقاضا کرتی ہے
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — سیکھائی کا جرمانہ: ہوم ورک کے اسکور 18% اوپر، بند کتاب امتحان 20% نیچے، ہوم ورک بیرونی سونپنے والوں میں مرکوز

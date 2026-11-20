@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -39,7 +40,3 @@ K–12-es tanárok és tankerületek, akik osztálytermi kontrollokat és tanany
 
 ## Megjegyzések
 Az építőhöz való hozzáférés kapuzott: a kezdőoldal e-mail-címet és helyet kér egy bevezető workshopon, vagy meghívókódot. Megfelelési állításai (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), ígérete, hogy az Ön munkája soha nem tanít külső modelleket, valamint a kimeneti jogok alkotónak való átadása az adatfeldolgozási megállapodásba tartozik, nem csak a marketingoldalra; a MagicSchoolhoz és a fő csevegőbotokhoz mért képesség-összehasonlítása a Playlab sajátja, 2026 közepéről datálva. A Scratchhez és az MIT Media Labhoz kötődő végfelhasználói programozási munkából nőtt ki.
-
-## Kapcsolódó fogalmak
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]

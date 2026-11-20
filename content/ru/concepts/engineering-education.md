@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -86,37 +88,3 @@ ai_assist:
 - **«Принятие ИИ студентами-инженерами — это проблема принятия технологии».** [[socio-cognitive-genai-adoption-engineering-2026|Asag и Al Mamun]] объединяют TAM с [[technology-acceptance-model|UTAUT]], чтобы смоделировать принятие бангладешскими студентами-инженерами, **объясняя 64%** дисперсии, — значит, существенная доля лежит вне конструктов принятия, в социальных и когнитивных факторах, которые модель не охватывает.
 - **«Студенты используют ИИ для того, в чём он лучше всего».** [[ai-engineering-education-balancing-act|Kudina (2026)]] обнаружил, что **100 студентов-инженеров** более всего ценили LLM за **поддержку письма**, а не за инженерное рассуждение. Их метафоры инструмента превосходили то, что он давал, а фактическое использование следовало удобству, а не возможностям.
 - **«Более богатый набор инструментов улучшает результаты проектирования».** В архитектурной дизайн-студии с **27 студентами** команды, использовавшие конвейер генеративного ИИ плюс [[virtual-and-augmented-reality|XR]], показали **сниженную самоэффективность без улучшения продукта**. Богатство инструментов может стоить уверенности, оставляя артефакт неизменным.
-
-## Связанные концепции
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Связанные статьи
-
-- [[apostolakis-trusstutor-bench-statics-2026]] — Бенчмарк по статике: решение и обнаружение ошибок насыщаются, устойчивость к давлению — нет
-- [[mechanical-engineering-ai-curriculum-2026]] — Учебная программа ИИ-образования, основанная на проектах, в теплотехнике
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Метафоры инженерного факультета конструируют (и ограничивают) понимание ИИ
-- [[tam-critical-use-genai-engineering-2026]] — Расширенная TAM с критическим использованием для студентов инженерных и CS-направлений
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Унифицированная социокогнитивная модель для инженерного образования (Бангладеш)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Мультимодальный фреймворк для воплощённого познания в устных объяснениях
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — ИИ и будущее инженерного и вычислительного рынка труда
-- [[ai-engineering-education-balancing-act]] — Использование ИИ в инженерном образовании: балансирование
-- [[structured-ai-demonstrations-engineering-mechanics]] — Структурированные ИИ-демонстрации в механике для инженеров
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT в инженерном образовании
-- [[liu-ai-sustainable-engineering-education-2026]] — Фреймворк AI-SEE для устойчивого инженерного образования (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

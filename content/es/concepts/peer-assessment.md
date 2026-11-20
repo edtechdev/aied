@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -100,49 +102,3 @@ Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el di
 - **«La detección de copias es para lo que sirve la [[oral-assessment|evaluación oral]].»** Los resultados medidos fueron la comprensión y la motivación, no la reducción del texto pegado. Juzgar el diseño por su tasa de detección malinterpreta lo que logró.
 - **«La revisión entre pares es un sustituto más barato de la retroalimentación del profesorado.»** El [[learning-by-teaching|aprender enseñando]] es el mecanismo, y aparece incluso entre máquinas: el discurso similar al aprendizaje entre pares de más de **2,4 millones de agentes de IA** fue en su mayoría **afirmación y no indagación**. Producir una crítica es un acto distinto de recibirla.
 - **Formularios reflexivos entre pares y de autoevaluación como el registro detrás de una nota grupal.** [[issa-teamwork-framework-academic-integrity-2024|Issa y Hall (2024)]] usaron un formulario reflexivo por compañero de equipo más un formulario de autoevaluación por estudiante en una unidad de posgrado de Gestión de Proyectos Empresariales, junto con una reunión de 30 minutos con cada equipo en la que se preguntó a sus miembros si su contribución era original. Los formularios no se calificaron como intercambio de retroalimentación. Eran la evidencia por persona que permitía al docente defender una nota individual dentro de una evaluación de equipo del 40%. La subida de nota del marco, de 27/40 a 31/40, está confundida con un docente nuevo y su afirmación de integridad no está cuantificada, así que la parte transferible es la estructura de registro, no el tamaño del efecto.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — PAIRR y los comentarios combinados de pares más IA: las secuencias y su evidencia comparativa
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Artículos conectados
-
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Los comentarios integrados de IA más pares elevaron las tres dimensiones de la implicación y las cuatro dimensiones de escritura del IELTS
-- [[usher-faraon-who-grades-best-2026]] — Comparación de la calificación de ChatGPT, los pares y el profesorado según los niveles de calidad de los proyectos (Usher y Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Revisión de Pares y de IA + Reflexión (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — Sistemas de comentarios entre pares con IA
-- [[ai-internal-feedback-evaluative-judgments]] — Desentrañar el desarrollo del juicio evaluativo en estudiantes de grado
-- [[learner-centered-feedback-ai]] — Mejorar con IA los comentarios centrados en quien aprende
-- [[genai-linguistic-diversity-academic-writing]] — La IA generativa y la diversidad lingüística en la escritura académica
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR en un curso de escritura empresarial: revisión entre pares, comentarios del chatbot y reflexión (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — IA generativa frente a pares humanos para andamiar la retroalimentación autorregulada y la alfabetización en retroalimentación (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — La IA generativa como Entrenador y Sintetizador en los comentarios entre pares sobre la expresión oral en inglés como lengua extranjera (Irwin y Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Experimento multicéntrico que compara comentarios solo entre pares, directos de IA generativa, reflexivos e híbridos (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Comentarios entre pares con IA generativa y andamiaje de prompts en la argumentación colaborativa (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agencia en la evaluación en grupo mediada por IA generativa: cooperación, restricción y no enactación (Chen y Zou 2026)
-- [[code-review-genai-cs1]] — Entrevistas de revisión de código oral como reducción de daños para la IA generativa en CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Acompañamiento automatizado multimodal de presentaciones como alternativa escalable a los comentarios entre pares (Suen y Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Los resúmenes de discusión generados por IA amplían la exposición entre pares en los foros en línea (Hao y Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Influencia de los pares y confianza relacional en la declaración de IA generativa del estudiantado (Qu y Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Revisión sistemática de los LLM para el pensamiento crítico, el trabajo en equipo y la resolución de problemas (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Discurso similar al aprendizaje entre pares entre 2,4 millones de agentes de IA (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Auditoría de 14 metaanálisis sobre AIED y 59 estudios primarios (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Comentarios del profesorado frente a comentarios entre pares asistidos por IA en la escritura en L2: cantidad, foco y trayectorias de mejora a lo largo de dos tareas (Tang, Li y Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — Formularios reflexivos de autoevaluación y entre pares como evidencia por persona detrás de una nota grupal (Issa y Hall 2024)
-
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — El vocabulario de roles de 654 estudiantes: tutor 28,6%, colaborador 23,1%, herramienta 9,9%, robot 7,7%

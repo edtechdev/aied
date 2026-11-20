@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -52,9 +53,3 @@ Dosen di pendidikan tinggi yang ingin [[learning-design|desain pembelajaran]] me
 - **Inferensi pihak ketiga.** Balasan dihasilkan melalui API Claude dari Anthropic dengan API OpenAI sebagai cadangan, di bawah ketentuan komersial yang menurut kebijakan mengecualikan pelatihan pada masukan dan keluaran API per September 2026. Institusi sebaiknya mengonfirmasi hal itu melalui perjanjiannya sendiri, bukan melalui halaman web.
 - **Ini bukan penilai.** Kebijakan dan ketentuan sama-sama menggambarkan penilaian asisten seperti "tujuan tercapai" sebagai bantuan bagi dosen; nilai dan keputusan akademik tetap pada dosen dan institusi, dan keputusan tentang [[ai-use-disclosure|pengungkapan penggunaan AI]] kepada mahasiswa diserahkan kepada dosen.
 - **Dihosting di AS.** Data berada di Google Cloud Firestore dengan hosting Vercel, dan kebijakan membahas kewajiban FERPA di tempat layanan menangani catatan pendidikan; pengguna di luar Amerika Serikat diberi tahu bahwa data mereka diproses di sana.
-
-## Konsep terkait
-
-- [[learning-design]] — desain tugas terstruktur sebagai titik tempat kebijakan AI menjadi konkret.
-- [[guardrails]] — gerbang keterlibatan dan bantuan AI yang dibatasi sebagai kendala pada waktu desain.
-- [[ai-use-disclosure]] — dosen, bukan platform, yang memutuskan bagaimana penggunaan AI dinyatakan kepada mahasiswa.

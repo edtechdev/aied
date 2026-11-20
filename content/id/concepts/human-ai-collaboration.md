@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, nixon-social-cost-ai-teammate-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, bjet-many-hands-make-light-work-2026, tuo-armada-multi-agent-debate-overreliance-2026, dang-human-ai-collaboration-competency-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ai-integration-instructional-design-collaboratory-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, think-first-chatgpt-later-2026, principal-trait-analysis-human-ai-skills-2026, haiml-human-centered-ai-metacognitive-model-2026, choi-teacher-ai-interaction-lesson-design-2026, tang-chatbots-learning-design-2026, student-mental-models-genai, spritz-ai-disciplinary-mediation-student-teams-2026, ojeda-ramirez-community-based-ai-learning, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, substitution-to-scaffolding-ai-harm-cycle-2026, generative-ai-mediational-agent-sociocultural-2026, conversational-ai-agents-umbrella-review-2026, ai-overreliance-complex-adaptive-system-2026, liao-role-adaptive-ai-companion-book-talk-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xu-genai-collaborative-space-2026, oppenheimer-llms-collaborative-learning-partners-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, scan-framework-task-assignment-generative-ai-2025, bounded-reliance-ai-writing-feedback-2026, human-ai-collaboration-academic-writing-2026, wang-genai-novice-learner-learning-by-teaching-2026, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, robinson-lesson-study-dialogic-engagement-ai-2026, sun-student-genai-entanglement-literacy-demands-2026, teacher-ai-collaboration-work-engagement-2026, wang-agentic-translation-education-2026, ai-emotional-alerts-teachers-mathematics-classroom-2026, hong-authorship-legitimation-deficit-human-ai-co-creation-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -102,70 +104,3 @@ Kolaborasi manusia–AI terhubung ke [[human-in-the-loop-ai]] (pengawasan), [[ag
 - **"Kolaborasi berarti AI mengerjakan sebagian pekerjaan."** **Siswa mempertahankan peran memutuskan**, dan ini berlaku untuk menulis: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash dan Connell Pensky (2025)]] menunjukkan hal itu bertahan ketika pengaturannya dirancang untuk itu. Pembagian kerja bukan kolaborasi kecuali manusia mempertahankan pertimbangan.
 - **"AI yang menjelaskan dalam pengaturan terbalik."** **Siswa yang mengajari AI menjelaskan lebih baik** — definisi kelas terbalik pada **M = 4.18 versus 3.29**, aktivitas pengajaran pada **M = 4.91 versus 3.06, keduanya p < 0.001**. Pembelajarannya jatuh kepada penjelas.
 - **"Kontribusi manusia dan AI adalah substitusi."** Dua studi 2026 memetakan **separuh komplementer** kolaborasi kelas, yang membingkai masalah desain sebagai alokasi, bukan penggantian.
-
-## Konsep terkait
-- [[pedagogical-partnerships]] — Kemitraan Pedagogis
-- [[community-of-inquiry]] — Komunitas Inkuiri (kehadiran sebagai pencapaian sosioteksnis manusia-GenAI)
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[creativity]]
-- [[chemistry-education]] — Pendidikan kimia dan AI: lab, penilaian formatif, batasan LLM, filsafat eksperimen
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar lab, literasi AI dalam biologi, berpikir kritis, alat khusus
-- [[human-in-the-loop-ai]] — pengawasan
-- [[agentic-ai]] — otonomi
-- [[productive-failure]]
-
-## Artikel terkait
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tiga peran agen dalam gim sains naratif, dan kriteria evaluasi mana yang dibutuhkan masing-masing (Humburg et al. 2025)
-- [[bjet-many-hands-make-light-work-2026]] — Kerja berpasangan dengan sistem multi-agen GenAI memenangkan proyek desain sementara kesadaran berpikir kritis hanya meningkat pada mereka yang bekerja sendiri (Chu et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Debat multi-agen dengan jawaban yang disukai disembunyikan mengurangi deferensi pada saran AI yang salah, tetapi tidak secara korektif
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: kompetensi kolaborasi sebagai konfigurasi dinamis dari kompetensi domain, AI, dan metakognitif, dengan agensi siswa yang emergen (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Guru sekolah menengah merancang chatbot kelas sebagai ahli terbatas di bawah pengawasan manusia
-- [[ai-integration-instructional-design-collaboratory-2026]] — Dua belas penerapan mata kuliah pendidikan guru memperlakukan integrasi AI sebagai masalah desain instruksional
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: RCT pertama tentang AI yang menskalakan keahlian kepada tutor pemula
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Kreativitas Manusia yang Mandiri
-- [[principal-trait-analysis-human-ai-skills-2026]] — "Sifat" kolaborasi manusia–AI yang digerakkan data
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI dalam desain pelajaran lintas pengalaman dan kecakapan AI (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Perancang menggunakan chatbot tertanam untuk pemeriksaan keselarasan pada capaian dan pedagogi, bukan untuk menghasilkan konten
-- [[student-mental-models-genai]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Dari Substitusi ke Scaffolding: Memutus Siklus Bahaya yang Memperkuat Diri
-- [[generative-ai-mediational-agent-sociocultural-2026]] — AI Generatif sebagai Agen Mediasi
-- [[conversational-ai-agents-umbrella-review-2026]] — Tinjauan payung agen AI percakapan dalam pendidikan
-- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem kompleks adaptif
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Pendamping AI yang adaptif peran untuk bincang buku sekolah dasar; batas afektif agen berperan tetap (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Kodesain tugas belajar guru–AI: tren dan perspektif (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI sebagai agen dan ruang kolaboratif dalam dinamika kelompok kecil (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Bahasa Besar Multi-Agen Berorientasi Scaffolding untuk Pelatihan Wawancara Klinis
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agen Pelatihan Etika: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Role-Playing dan Diskusi untuk Refleksi dan Eksplorasi Etis
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: otomasi, augmentasi dan kolaborasi sebagai kontinum penugasan tugas
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: Perspektif Kredibilitas Sumber tentang Keterlibatan Siswa EFL dengan Umpan Balik Menulis yang Dihasilkan AI
-- [[human-ai-collaboration-academic-writing-2026]] — Alur kerja menulis EFL terstruktur lima bagian; rutinitas verifikasi dan penggunaan bertanggung jawab mendorong keuntungan menulis berpasangan dan berpikir kritis digital
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Pembalikan peran: siswa mengajari siswa pemula GAI, mengungguli teman sebaya yang bertanya kepada guru GAI
-- [[iqbal-human-genai-support-essay-revision-2026]] — Jenis dukungan membentuk strategi revisi dan skor, tetapi tidak ada strategi yang memprediksi keuntungan; keuntungan GenAI mungkin spesifik tugas
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Moderator debat manusia versus AI dinilai setara; kegunaan versus kepuasan mendorong penggunaan ulang secara berbeda
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Lesson study membangun kapasitas pendidik guru untuk merancang keterlibatan AI dialogis; rekayasa prompt sebagai pemikiran pedagogis
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Lima jenis keterjalinan siswa–GenAI, dan mengapa yang mendistribusikan kepengarangan tetap marginal (Sun, Dohn & Rehm 2026)
-
-- [[teacher-ai-collaboration-work-engagement-2026]] — Jalur berlawanan kolaborasi guru–AI menuju keterlibatan kerja melalui ketersediaan psikologis dan alienasi kerja, dibatasi oleh kompetensi digital
-- [[wang-agentic-translation-education-2026]] — Protokol desain yang mengalihkan pendidikan penerjemah ke orkestrasi AI, pertimbangan strategis, dan kompetensi evaluasi kritis (belum ada data empiris)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Peringatan afektif adalah isyarat yang ditafsirkan guru, bukan instruksi untuk dipatuhi
-
-- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Defisit legitimasi kepengarangan dalam ko-kreasi manusia–AI

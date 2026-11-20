@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -40,6 +41,3 @@ De skill komt met een ondersteunende harnas: twee subagenten, één voor intakeg
 ## Voorwaarden en kanttekeningen
 
 De licentie is Creative Commons BY-NC-ND 4.0, en de voorwaarden die de auteur noemt doen ertoe voor de meeste institutionele lezers: persoonlijke, niet-commerciële studie en professionele ontwikkeling zijn welkom, terwijl commercieel gebruik, herdistributie en white-labeling een commerciële licentie vereisen. De repository meldt 314 van 320 punten over tien zelfontworpen uitdagingen, wat de eigen evaluatie van de auteur is en geen onafhankelijke, en dezelfde auteur verkoopt advies en workshops over het kader. Het project wordt beschreven als een persoonlijke onderneming zonder band met zijn werkgevers, en de laatste commit dateert van april 2026.
-
-## Gerelateerde concepten
-[[learning-design]], [[design-thinking]], [[professional-training]], [[online-teaching-and-learning]], [[assessment]], [[generative-ai]], [[universal-design-for-learning]], [[ai-literacy]]

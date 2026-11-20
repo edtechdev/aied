@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -95,35 +97,3 @@ Unter kritischer Pädagogik sind Lehrende keine neutralen Überträger von KI-F�
 **„Kritische Pädagogik ist eine Kritik, die von außerhalb der Praxis geäußert wird.“** Sie ist eine Haltung gegenüber der Rolle der Lehrenden: Sie fragt, wer profitiert, wessen Wissen privilegiert wird und wie schulische Bildung Machtverhältnisse reproduziert oder ihnen widersteht. Auf die Einführung von AI angewandt bedeutet das, die unternehmerischen und kapitalistischen Logiken zu hinterfragen, die die Beschaffung prägen — Fragen, die eine Lehrperson zu den Entscheidungen der eigenen Institution stellen kann, nicht nur zur Technologie im Abstrakten.
 
 **„Marginalisierte Epistemologien zu zentrieren ist eine Ergänzung der Curriculumsinhalte.“** Es verändert, wessen Wissen als Wissen gilt, und das ist eine Frage nach der Struktur des Kurses und nicht nach einer zusätzlichen Lektüre. Inhaltliche Ergänzungen lassen den Rahmen unangetastet; der Anspruch der kritischen Pädagogik richtet sich auf den Rahmen selbst.
-
-## Verbundene Konzepte
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[ai-education]]
-- [[pedagogy]] — Überblick: Pädagogiken und Lehrstrategien in der KI-Bildung
-
-## Verbundene Artikel
-
-- [[kasa-malksoo-ai-human-rights-education-2026]] — Menschenrechtsbildung, reflektierende Praxis und Unterrichten von KI-Governance als professionelle Formierung (Kasa-Mälksoo 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodale Komposition als Pädagogik kritischer KI-Kompetenz
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische Diskursanalyse techno-lösungsorientierter Beratung zu constructive alignment mit generativer KI
-- [[benali-genai-academic-writing-2026]] — Begründungsorientierte Überarbeitung in einem Kurs für akademisches Schreiben: KI auf zwei Entwurfsabschnitte begrenzt, jeder Vorschlag schriftlich angenommen oder abgelehnt (Benali und Díaz García, 2026)
-- [[avraamidou-ai-colonization-science-education]] — Kritische, feministische Kritik der „KI-Kolonisierung" der Naturwissenschaftsbildung
-- [[li-mroziak-reorienting-critical-ai-literacy]] — „Resisting AI" als gemeinschaftsverwurzelte Praxis kritischer KI-Kompetenz
-- [[ojeda-ramirez-community-based-ai-learning]] — Neuverteilung der epistemischen Autorität der KI durch gemeinschaftsbasiertes Lernen
-- [[raffaghelli-situated-ai-ethics-2026]] — Situierter, kulturhistorischer und ökologischer Rahmen für KI-Ethik
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Entwicklungs-kritisches Modell für interpretative Kognition in den Geisteswissenschaften
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Sozialistisch-humanistische KI-Kompetenz + Fair Use
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Ansatz zu nachhaltiger Bildung und KI (Alsuhami & Atallah 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emanzipatorische Vision zur Gestaltung generativer KI hin zu Gedeihen der Lernenden
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Menschzentrierter GenAI-Engagement-Rahmen, gebaut auf Freire, Konstruktionismus und einer Ethik der Sorge
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy und dekoloniale Epistemologien, angewandt auf Lehr- und Curriculumsentwicklung im Globalen Süden

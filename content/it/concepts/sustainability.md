@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -79,30 +81,3 @@ La sostenibilità e l'IA nell'istruzione si colloca all'intersezione tra [[ethic
 - **"La conoscenza astratta dell'IA predice la capacità dei docenti di insegnare la sostenibilità."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] ha rilevato che l'**uso pratico dell'IA** da parte dei docenti in contesti di scienza ed energia verde e il loro **coinvolgimento nello sviluppo di materiali allineati all'ESD** — **più della conoscenza astratta dell'IA o degli atteggiamenti** — predicevano la loro capacità. Sapere dell'IA e saper costruire con essa divergevano, e il percorso pratico prediceva di più.
 - **"La progettazione didattica assistita dall'IA sotto una pedagogia della sostenibilità produce pedagogia della sostenibilità."** Lo stesso lavoro ha rilevato che la [[learning-design|progettazione didattica]] assistita dall'IA sotto la Pedagogia dello sviluppo sostenibile **vincolava** la progettazione in modi specifici anziché ampliarla. Un modello addestrato su materiali convenzionali riproduce inquadrature convenzionali a meno che il lavoro di progettazione non corregga questo effetto.
 - **"La sostenibilità è un argomento, non un tema trasversale."** Poiché entrambi i percorsi attraversano i livelli, la sostenibilità appare nell'[[higher-ed|istruzione superiore]], nel K-12 e nei contesti professionali — il che significa che è un tema fondamentale che va affrontato dentro ogni disciplina anziché insegnato come materia separata.
-
-## Concetti collegati
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Articoli collegati
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Studio svedese con indagine e focus group che sostiene che l'etica della partnership, non la cornice dell'imbroglio, debba guidare le decisioni istituzionali sulla GenAI
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)

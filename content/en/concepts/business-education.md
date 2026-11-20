@@ -14,6 +14,8 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 > **AI in business education** — the application of artificial intelligence to the teaching and learning of business, economics, and management, and the preparation of students for a GenAI-integrated workplace. Business schools face a double imperative: integrating AI *into* the curriculum as a subject and [[pedagogy|pedagogical]] tool, while also preparing students to *use* generative AI responsibly and effectively in professional practice.
@@ -74,39 +76,3 @@ Case studies and simulations are the teaching formats closest to this literature
 - **"Students want AI because they want shortcuts."** A student-informed framework found students **highly engaged and aware they need GenAI skills for careers**, while also wanting **to use AI without unintentionally committing academic misconduct**. The demand is for competence with clear boundaries, not for permission to avoid work.
 - **"Adding AI modules to a business curriculum captures the benefit."** Research on constructive alignment found that whether **benefits or risks dominated was shaped by the degree of curriculum integration** — the operative distinction is **integrate, don't append**. A bolted-on module leaves the assessment design unchanged.
 - **"Tool sophistication beats conventional e-learning."** A **130-student** perception study found **both chatbot and agent support rated above traditional e-learning** on enhancement, personalization and decision-making. Worth noting what this measures: student *perception* against a conventional baseline, not learning against it.
-
-## Connected Concepts
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[case-based-learning]] — Case studies, case method, and case discussion
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Connected Articles
-
-- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: a hermeneutic heuristic for practical wisdom in business education (Heron & Meekins 2026)
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-- [[csaszar-ai-management-education-2026]] — The effects of AI on management education: a value-based strategy analysis (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
-- [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays in a Business Analyst apprenticeship: marking documented iteration, not the topic
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — A course-built RAG chatbot moved expectations, not outcomes
-- [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — Eight finance cohorts, 75,404 question grades: post-ChatGPT gains confined to unsupervised quizzes and to conceptual items (Rodríguez Longarela & McGrath 2026)

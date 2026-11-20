@@ -19,10 +19,11 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
-
 
 > **환경 교육**: 기후, 지속가능성, 자연 세계에 관해 가르치는 일은 [[ai-education|교육에서의 AI]] 안에서 동시에 두 가지가 되었습니다. AI가 [[inquiry-based-learning|탐구]]와 [[situated-learning|상황 학습]]을 통해 뒷받침할 수 있는 교과이며, 동시에 AI가 부과하는 비용입니다. 모든 학생 노트북에서 돌아가는 에너지 집약적 [[llm|언어 모형]]은 그 자체의 환경 발자국을 지니기 때문입니다. 지식 기반은 두 절반을 함께 다루는데, 탄소 집약적 도구로 전달되는 [[sustainability]] 교육이 어떤 단일 틀도 혼자 답하지 못하는 질문을 제기하기 때문입니다.
 
@@ -87,29 +88,3 @@ ai_assist:
 - **"환경 교육에서 AI는 주로 정보를 공급한다."** 측정된 이득은 **의사결정**에 있습니다. 구조화된 [[inquiry-based-learning|탐구]] 과제 안에서 AI 동반자와 함께 작업한 학생들은 탐구 전용 동료들(**d = 0.69**)과 전통적 교수(**d = 1.88**)를 의사결정 측정치에서 앞질렀고, 이득은 **가장 약한 단계에 집중**되었습니다. 효과는 추론의 질, 즉 학생들이 가장 취약했던 지점에 있습니다.
 - **"탐구만으로 충분한 활성 성분이다."** AI 지원 탐구는 **탐구 단독보다 기후 의사결정을 향상**시켰으므로, AI의 기여는 교수 구조에 부가된 것이지 그것과 교환 가능한 것이 아니었습니다.
 - **"작은 표본에서 나온 큰 효과도 여전히 큰 효과다."** 지속가능발전 교수법 아래의 AI 지원 [[learning-design|수업 설계]]는 참가자 28명에서 **d = 2.80**으로 예비교사들의 수업 계획을 개선했습니다. 검토자들 자신의 표현은 *믿기 어려울 만큼 크다*이며, 그 표본에서 나온 그 크기의 효과는 추정치가 아니라 신호로 다루어야 합니다.
-
-## 연결된 개념
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## 연결된 문서
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — 지속가능성을 위한 AI와 지속가능한 AI를 구분, 글로벌 사우스 공백
-- [[ai-assisted-inquiry-ssi-climate]] — AI 지원 기후 탐구, 탐구 단독 대비 d = 0.69
-- [[aied-carbon-footprint-reporting]] — AIED 2025 공개 검토와 오픈 소스 발자국 방법
-- [[llm-environmental-impact-student-usage-2026]] — CS 학생 89명과 함께하는 지연-탄소 절충에 대한 에코 피드백
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 질의당 1.8 mWh의 사내 양자화 조수
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: 공학 교육에서의 지속가능성 의식
-- [[riandi-teacher-ai-green-energy-education-2026]] — 통합을 예측하는 실천적 AI 사용과 ESD 자료 개발
-- [[talebzadeh-ai-green-education-2026]] — 지속가능발전 교수법 제약 아래의 AI 지원 설계
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 거버넌스 매개적인 것으로서의 AI의 지속가능한 교육 기여
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 환경적 주장이 아닌 지속적인 인지 행위자성으로서의 "지속가능한 학습"

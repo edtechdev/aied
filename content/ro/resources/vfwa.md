@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -51,11 +52,3 @@ Responsabili de programe și de module din învățământul superior care vor �
 Modelul nu a fost evaluat la scară. Lucrarea spune explicit că nu există încă niciun eșantion, instrument sau rezultat măsurat și că sunt necesare studii pilot pentru a testa dacă artefactele din etapa 1 cresc încrederea evaluatorilor sau consistența interpretării, dacă studenții trăiesc designul ca mai echitabil și cum stabilește o disciplină un prag de suficiență fără a transforma etapa 1 într-un al doilea examen.
 
 Două costuri practice sunt reale. Etapa 1 cere sesiuni observate și înregistrare securizată la scară, iar înregistrarea și traducerea multilingvă sunt condiții prealabile, nu extraopțiuni. Iar judecata interpretativă este lăsată în mod deliberat corectorilor: modelul presupune o expertiză disciplinară care nu poate fi automatizată, ceea ce este o presupunere de personal tot atât de mult cât una de proiectare.
-
-## Concepte conexe
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

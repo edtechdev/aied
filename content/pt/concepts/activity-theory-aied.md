@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
+connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -91,28 +93,3 @@ Para quem desenha e para educadores, a teoria da atividade aconselha olhar além
 **"Se você mudar as crenças do professor, a prática virá em seguida."** A unidade de mudança é maior do que a pessoa. Intervenções que alteram normas, distribuição da carga de trabalho e regras compartilhadas mudam a prática de forma mais confiável do que as voltadas à convicção individual, porque o objeto da atividade é produzido coletivamente. Isso também explica por que adotantes individualmente entusiasmados retrocedem quando seu departamento não se move com eles.
 
 **"A teoria da atividade é uma lente descritiva sem consequências de design."** Ela direciona o design às contradições entre os elementos do sistema — a ferramenta que conflita com as regras, a divisão do trabalho que conflita com o objeto —, que é onde a mudança é de fato alavancada. Uma lente que localiza contradições está lhe dando um lugar para intervir, e não apenas um vocabulário.
-
-## Conceitos conectados
-- [[sociocultural-learning]] — a família teórica à qual a teoria da atividade pertence (vygotskiana, histórico-cultural)
-- [[learning-theories]] — o hub que situa a teoria da atividade entre as teorias de aprendizagem
-- [[distributed-cognition]] — ênfase compartilhada na cognição mediada por ferramentas e distribuída contextualmente
-- [[situated-learning]] — ênfase compartilhada em contexto e participação na atividade
-- [[agency]] — como a IA redistribui a agência humana pelo sistema de atividade
-- [[teacher-role]] — a teoria da atividade frequentemente analisa a adoção e a prática dos professores
-- [[learning-analytics]] — a CHAT ancora o desenho da analítica
-- [[generative-ai]] — o artefato de IA que entra e rompe os sistemas de atividade educacionais
-- [[technology-acceptance-model]] — a explicação contrastante da adoção centrada em crenças individuais
-
-## Artigos conectados
-- [[jiang-genai-activity-theory-disciplines-2026]] — Diferenças disciplinares no uso e na divulgação de GenAI pela lente da teoria da atividade
-- [[genai-runaway-object-math-higher-ed]] — Análise CHAT da GenAI remodelando os sistemas de atividade do ensino e da pesquisa
-- [[raffaghelli-situated-ai-ethics-2026]] — Ética da IA situada fundindo teoria dos sistemas ecológicos com a CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — A teoria da atividade como lente sobre a adoção de IA pelos professores (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — Perspectivas de professores de K-12 sobre o uso de IA pela teoria da atividade
-- [[ai-disruption-engineering-education-chat-2026]] — Mudança nas normas dos estudantes na educação em engenharia via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Redesenho CHAT-SDT do desenvolvimento profissional docente
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — Pipeline de analítica de aprendizagem ancorada na CHAT para letramento em IA
-
-- [[llm-family-education-activity-theory-2026]] — Revisão de escopo de 53 estudos de IHC: LLMs redistribuíram o trabalho educativo familiar, enquanto as regras eram majoritariamente antecipadas e não efetivadas
-- [[generative-ai-mediational-agent-sociocultural-2026]] — A GenAI como agente mediacional: nem ferramenta nem colaborador
-

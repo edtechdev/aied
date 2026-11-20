@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -46,13 +47,3 @@ Veřejné knihovny, které chtějí kiosk hostovat (program přijímá přihlá�
 - Zúčastněné knihovny přispívají **\$1 000 na jedno nasazení kiosku ročně**; pilotní projekt je sám omezen na místa, která se přihlásila.
 - Prohlášení o ochraně soukromí je tvrzení programu, nikoli auditovaný závěr; knihovna by měla podmínky uchovávání a ochrany dětí potvrdit ve vlastní dohodě o zpracování dat.
 - Druhá a třetí fáze plánu — umožnit knihovnám pohlcovat místní archivy a spravovat vzniklé systémy — jsou plánované, nikoli dodané.
-
-## Související pojmy
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

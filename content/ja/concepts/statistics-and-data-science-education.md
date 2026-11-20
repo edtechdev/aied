@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -84,26 +86,3 @@ ai_assist:
 - **「満足度と知覚された利益は、データサイエンスのAIツールが機能していることを示す。」** 学生はデバッグと概念の質問にLLMを多用し、**高い満足度を報告した一方で、知覚された深い学習の利益は学期を通じて低下しました**。満足度は保たれ、自己評価された学習の軌道は落ちたので、どちらの数値も単独では成果ではありません。
 - **「無制限のモデルは導かれたチューターと同じくらい良い。」** 利得は足場かけの訓練——段階的なヒントと検証についての明示的な教示——から生じ、それが同じモデルへの単なるアクセスを、独立したパフォーマンスと自己評価の較正の両方で上回りました。導きと、それをどう使うかについての訓練が、効果を担っていました。
 - **「答えを与えることへの防御で十分である。」** ホストされたAPIの周りに作られ、**答えるのではなく導く**ようにシステムプロンプトを与えられた専用のチューターが、心理学の学部生向けの一学期のR講義に導入され、**76% から 84% の学生が試験に関連する週にそれを使いました。これは採用であり、防御が学習を生み出した証拠ではありません：**プロンプト水準の防御は複数あるレバーの一つであり、それ自体では学習を生み出しません。
-
-## 関連概念
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## 関連記事
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — パーソナライズされた統計の練習のために検査可能な合成データセットを生成するエージェント的な道具
-- [[ai-tutor-statistical-programming-adoption-2026]] — 専用のRチューター。採用は試験のカレンダーに追随した
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLMの難易度ラベルは学生の成績ではなくブルームの階層に追随する
-- [[tactile-statistical-graphs-accessibility]] — 教師の確認を伴う触覚的な統計グラフを生成するオープンソースのパイプライン
-- [[guided-llm-scaffolding-independent-learning]] — 導かれた足場かけは独立したパフォーマンスで無制限のアクセスを上回った
-- [[lund-socially-accountable-data-science-xai-2026]] — 技術的なデータサイエンスのカリキュラムに社会的説明責任を埋め込む

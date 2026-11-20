@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -39,7 +40,3 @@ Emner kommer inn gjennom en Canvas API-tilkobling, en IMS Common Cartridge-fil, 
 ## Hva du bør vite før du tar den i bruk
 
 Pluginen krever Claude Code og et bash-skall for å installeres; PowerShell og cmd kan ikke kjøre oppsettsskriptet, og Python 3 anbefales for poengtrender. Kursdata blir liggende i prosjektmappen på leserens egen maskin og forlater den bare gjennom en integrasjon brukeren selv kaller opp, for eksempel et Canvas API-kall. Chrome-utvidelsens live-inferens trenger leserens egen gratis API-nøkkel fra Google AI Studio, selv om en simuleringsmodus demonstrerer den uten. Prosjektet kaller seg beta i versjon 3.5.1.0 og advarer om brytende endringer mellom minorversjoner, og det er publisert under GitHub-kontoen savvides snarere enn av en navngitt forfatter.
-
-## Tilknyttede begreper
-
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

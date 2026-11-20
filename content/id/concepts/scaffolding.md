@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -105,59 +107,3 @@ Pembedaan terpandu aturan versus ad hoc melampaui tutor dan masuk ke dalam tugas
 - **"Perancah adalah tingkat dukungan yang konstan."** Anotasi ahli atas **207 konsultasi** menunjukkan kebutuhan perancah **sangat bergantung pada fase, naik dari sekitar 16.1% ujaran siswa pada awal** pertemuan. Satu tingkat perancah tunggal salah dialokasikan pada kedua ujung konsultasi yang sama.
 - **"Kondisi kontrol terstruktur apa pun adalah pembanding yang adil bagi perancah."** Pada [[summative-assessment|ujian]], lengan perancah tetap mengalahkan alternatif pengungkapan progresif yang sungguh-sungguh (**71.8% versus 55.6%**), sehingga keuntungannya diukur terhadap alternatif [[pedagogy|pedagogis]] yang nyata alih-alih terhadap ketiadaan.
 - **"Efek perancah bersifat umum."** Keuntungannya adalah **16.4 poin persentase (P = 3.30e-4)**, dengan peningkatan terbesar pada **komunikasi (Hedges' g = -0.79)**. Efeknya terkonsentrasi pada satu luaran, sehingga rata-rata lintas luaran meremehkan tempat ia berhasil dan melebih-lebihkan tempat ia tidak berhasil.
-
-## Konsep terkait
-- [[pedagogical-patterns]] — Di mana dukungan berada dalam urutan, dan mengapa mencoba-sebelum-membantu adalah aturan yang menanggung beban
-- [[problem-based-learning]] — PBL menanamkan perancah yang memudar di sekitar masalah berstruktur longgar
-- [[learning-by-teaching]] — Perancah pembangunan pengetahuan melalui penjelasan
-- [[sociocultural-learning]] — Landasan Vygotskian: ZPD dan pembelajaran yang dimediasi secara sosial
-- [[cognitive-offloading]] — Perancah yang tidak pernah memudar menciptakan ketergantungan berlebih
-- [[feedback]] — Perancah menyampaikan umpan balik formatif saat dukungan memudar
-- [[ai-literacy]] — Mengenali kapan perancah mendukung vs. menggantikan pembelajaran
-- [[intelligent-tutoring]] — ITS menyesuaikan intensitas perancah dengan estimasi penguasaan
-- [[socratic-method]] — Pertanyaan yang menahan jawaban langsung
-- [[metacognition]] — Perancah yang membangun pemantauan diri dan regulasi diri
-- [[adaptive-learning]] — Sistem adaptif memodulasi dukungan dalam ZPD pembelajar
-- [[learning-design]] — Perancah adalah strategi desain instruksional inti
-- [[help-seeking]] — Perancah membentuk kapan dan bagaimana pembelajar meminta bantuan
-- [[teacher-role]] — Guru memberi perancah, lalu memudarkannya saat kompetensi tumbuh
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[agentic-ai]]
-- [[productive-failure]] — Kegagalan Produktif
-
-## Artikel terkait
-- [[kumar-genai-computing-education-systematic-review-2026]] — Penarikan perancah sebagai mekanisme yang menegakkan verifikasi (kerangka VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi sistem model bahasa besar multiagen berorientasi perancah untuk pelatihan wawancara klinis
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Komentar AI berwaktu-entropi sebagai perancah pengetahuan dan emosional di dalam video (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — Prompt LLM terpandu sebagai intervensi pembelajaran terstruktur
-- [[scaffolding-critical-engagement-genai-minority-students]] — Perancah keterlibatan kritis yang responsif secara budaya dengan GenAI
-- [[rethinking-scaffolding-llm-tutors]] — Pola desain untuk perancah dalam tutor LLM
-- [[concept-catalyst-engineering-scaffolds]] — Perancah Concept Catalyst untuk perubahan konseptual
-- [[correct-answer-trap-ai-tutor]] — Kapan petunjuk membantu vs. kapan mendorong ketergantungan berlebih
-- [[critical-thinking-genai-scaffolding]] — Memberi perancah bagi berpikir kritis dengan GenAI
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Penyusunan naratif berperancah dengan Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Dari Substitusi ke Perancah: Memutus Siklus Bahaya yang Memerbanyak Diri
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Perancah yang disukai dalam pemodelan matematika berbantuan AI
-- [[agentic-ai-pedagogical-best-practice-2026]] — Perancah dinamis (memudar) sebagai pagar pengaman bagi AI agensik
-- [[zhang-tutormoments-2026]] — Ketika bantuan tidak membantu: mengevaluasi tutor AI untuk pergulatan produktif
-- [[kim-ai-productive-failure-adult-2026]] — Merancang sistem AI untuk mendukung pembelajaran berbasis kegagalan produktif
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pengarahan pedagogis LLM untuk kegagalan produktif
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[brcic-effortless-trap-productive-struggle-2026]] — AI terjaga vs. tanpa penjagaan: aturan penempatan (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — Desain eksperimen berbantuan AI dalam kimia praktik
-- [[scaffolding-systematic-reviews-2026]] — Memberi perancah pada tinjauan sistematis dengan mentoring dan AI (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Agensi guru pra-jabatan selama interaksi GenAI dalam desain pembelajaran (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI di seluruh pedagogi praktik dalam pendidikan guru matematika: umpan balik latihan terstruktur menaikkan pertanyaan menggali (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Integrasi AI sebagai desain instruksional: kritik atas keluaran AI harus ditugaskan, dan analisis disipliner datang lebih dulu
-- [[ai-literacy-tool-design-programming-education-2026]] — Pelatih Belajar AI beranggaran petunjuk: penggunaan GenAI berperancah vs. tanpa batas, dan mengapa batasan saja tidak menghasilkan pembelajaran (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: perancah dirumuskan ulang sebagai penentuan sub-zona tempat suatu tugas berada
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Penilaian otomatis sebagai perancah formatif: ia berubah menjadi keuntungan hanya ketika defisit yang disasar dapat didekomposisi, andal dan diskalakan secara sensitif (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Perancah adaptif lingkar tertutup yang melacak batas kemampuan pembelajar saat ini dalam latihan musik, dengan deteksi kesalahan sebagai triase (Zhu dkk. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Bentuk perancah harus sesuai kapasitas perkembangan anak, bukan hanya dengan tugas (Niu dkk. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Perancah harus menuntut penerjemahan representasional dan verifikasi, karena siswa tidak dapat memverifikasi apa yang belum mereka pahami (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI sebagai perancah prompting yang menjembatani intuisi visual ke pembuktian deduktif dalam geometri, tempat visualisasi saja tidak memadai (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Menguji variasi cara tutor AI terpandu menyelesaikan jalan buntu siswa
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Melatih pembelajar sebagai perancah penggunaan GenAI dalam pemecahan masalah STEM (Huang dkk. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnostik AI percakapan untuk miskonsepsi pengajaran dengan dialog berbasis bukti (Miranda & Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Lapisan perancah konten dan temporal dalam kursus mandiri, dengan tingkat memulai terlambat dan kegagalan menurut waktu belajar
-- [[assistance-dilemma-rl-tutoring-2026]] — Dilema bantuan: melatih tutor RL multi-giliran yang cakrawala imbalannya berakhir bersama soal akan melatih pemudaran keluar (Macina, Kapur & Sachan 2026)

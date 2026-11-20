@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -44,7 +46,6 @@ ai_assist:
 - **نمونوں اور پائلٹوں کے ذریعے پیشگی گورننس۔** [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] انگلینڈ کے DfE کو ڈیزائن کے ذریعے گورن کرنے کے طور پر پڑھتے ہیں: AI پروٹوٹائپس اور اسکولی پائلٹس ایک منتخب مستقبل کی پیشگی تصویر بناتے ہیں، کلاس رومز کو آزمائشی میدان سمجھتے ہیں، اور پیمانے تک بڑھانے کے لیے فوری "وعدہ دار" شواہد پیدا کرتے ہیں، نہ کہ کوئی طے شدہ "کیا کام کرتا ہے"۔
 - **پالیسی کی طلبہ کے ساتھ مشترکہ ڈیزائن:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] دکھاتے ہیں کہ ایک رہنمائی شدہ تفتیشی سرگرمی، جس میں طلبہ نے GenAI کورس پالیسی مشترکہ طور پر ڈیزائن کی، طلبہ کی اقدار کو سامنے لائی — تربیت کو ترجیح، [[ai-use-disclosure|اظہارِ استعمال]] کے معیاری طریقہ کار، مضبوط اداراتی معاونت، اور فیصلہ سازی میں زیادہ شرکت۔ یہ طلبہ کو گورننس میں [[pedagogical-partnerships|شراکت دار]] کے طور پر کھڑا کرتا ہے، نہ کہ غیر فعال موضوع کے طور پر، اور اداراتی سطح کی پالیسی کو نیچے سے آنے والی طلبہ آواز سے مکمل کرتا ہے۔
 
-
 - **ٹیکنو سولیوشنسٹ جال اور پالیسی کی کمی:** 65 AI × [[social-emotional-learning|سماجی-جذباتی سیکھنے]] مطالعات کے منظم جائزے ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) میں پایا گیا کہ تحقیق اکثر تکنیکی صلاحیت کو سامنے رکھتی ہے جبکہ ذمہ دار نفاذ کی اداراتی شرائط کو کم بیان کرتی ہے — یہی "ٹیکنو سولیوشنسٹ" جال ہے۔ مصنفین پالیسی [[student-engagement|شمولیت]] کو اشاعتی مقام سے جوڑتے ہیں اور گورننس کے مضمرات کو ہر اداکار کے لیے مخصوص بنانے کے لیے "WH-question" فریم ورک تجویز کرتے ہیں، جو علم کی بنیاد کی اُس وسیع تر دریافت کی بازگشت ہے کہ اداراتی گورننس AI اپنانے سے پیچھے ہے۔
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] گورننس کے خلا کے بجائے گورننس کی عدم مطابقت دکھاتے ہیں: طلبہ چاہتے تھے کہ یونیورسٹی "مزید کرے"، مگر ادارہ سمجھتا ہے کہ فیصلے محکمے، پروگرام اور کورس کی سطح پر ہونے چاہئیں، چنانچہ مطالبہ اور مینڈیٹ مختلف اداروں کی طرف اشارہ کرتے ہیں جبکہ خلا خاموشی سے بھر جاتا ہے۔
@@ -64,7 +65,6 @@ ai_assist:
 
 - **علمی سالمیت اور جائزہ:** گورننس اِس بات میں مرکزی ہے کہ ادارے AI سے متعلق [[academic-integrity]] خدشات سے کیسے نمٹتے ہیں اور [[assessment]] کو کیسے دوبارہ ڈیزائن کرتے ہیں — ممانعت اور نگرانی سے رہنمائی، AI خواندگی اور عمل پر مبنی ڈیزائن کی طرف بڑھتے ہوئے، جیسا کہ [[student-rationalization-ai-writing|طلبہ کی دلیل سازی]] اور [[beyond-detection-authentic-assessment-ai-2025|مستند جائزے کی دوبارہ تشکیل]] کی تحقیق میں دکھائی دیتا ہے۔
 - **دوبارہ ڈیزائن بیک وقت تین جہتوں پر چلتا ہے۔** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] AI دور میں جائزے کی دوبارہ تشکیل کو ثقافتی-خطابی (زبان اور مفروضے)، مادی-معاشی (وسائل) اور سماجی-سیاسی (گورننس اور طاقت) جہتوں سے بیان کرتے ہیں، اور وسائل و طاقت کے ملاپ کو سب سے بڑا فائدہ اور سب سے بڑا خطرہ دونوں قرار دیتے ہیں: موجودہ طاقت کے ڈھانچوں سے گزرنے والے وسائل عدم مساوات کو بڑھا دیتے ہیں۔
-
 
 - **لکھی ہوئی گورننس کا اوزاروں کا مرکب:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] نے ریاستہائے متحدہ کے تمام 48 CAHIIM سے منظور شدہ ہیلتھ انفارمیٹکس اور ہیلتھ انفارمیشن مینجمنٹ ماسٹرز پروگراموں کی AI سے متعلق دستاویزات کا آڈٹ کیا۔ 48 میں سے چالیس (83%) کے پاس کم از کم ایک عوامی دستاویز تھی، اور تجزیہ کی گئی 40 دستاویزات میں گورننس زیادہ تر پابند اصول کے بجائے رہنمائی کے طور پر عملی شکل اختیار کرتی نظر آئی: 21 رہنما خطوط (53%)، 9 معلوماتی دستاویزات (23%)، اور صرف 7 رسمی پالیسیاں (18%)۔ زیادہ تر دستاویزات اساتذہ اور طلبہ دونوں کو ایک ساتھ مخاطب تھیں (20، 51%)، نہ کہ صرف طلبہ کو (6، 15%)، اور نہ پالیسی کی نوعیت اور نہ ہی مخاطب تعلیمی طریقے کے ساتھ بدلے (Fisher's exact P = .85 اور P = .71)، جو اشارہ دیتا ہے کہ اوزاروں کا مرکب اداراتی عادت کی پیروی کرتا ہے، آن لائن، کیمپس یا ہائبرڈ پروگراموں کے تقاضوں کی نہیں۔ مواد علمی سالمیت، ذمہ دار AI استعمال اور طلبہ کے طرزِ عمل کے گرد جُڑا تھا، جبکہ عملی سیکھنے، تحقیق اور نقلی ماحول میں AI استعمال پر بہت کم رہنمائی تھی — بالکل وہیں جہاں نصاب اور ڈیٹا گورننس کے خدشات آپس میں ملتے ہیں۔ مصنفین یہ بھی بتاتے ہیں کہ زیادہ تر مواد علاقائی منظّم اداروں نے فراہم کیا (Higher Learning Commission n = 14 اور SACSCOC n = 13، مل کر تقریباً 60%، جن میں WASC علاقے سے کوئی نہیں)، اور دلیل دیتے ہیں کہ منظوری ہی وہ بیرونی لیور ہے جو پروگراموں کے درمیان فرق کو کم کرنے کے لیے سب سے زیادہ موزوں ہے۔
 
@@ -91,8 +91,6 @@ AI گورننس کا ایک مرکزی میدان یہ ہے کہ **ادارے ج
 AI گورننس متعدد سطحوں پر کام کرتی ہے — **قومی/ریگولیٹری** (حکومتی پالیسی، OECD فریم ورک، ریاستی AI رہنما خطوط) سے لے کر **اداراتی** (یونیورسٹی پالیسیاں، AI اسٹیئرنگ گروپس، اخلاقی جائزہ بورڈز) اور **کلاس روم** (اساتذہ کے رہنما خطوط، نصاب کے بیانات، اسائنمنٹ کا ڈیزائن) تک۔ مؤثر گورننس اِن سطحوں کو ہم آہنگ کرتی ہے: قومی فریم ورک توقعات طے کرتے ہیں، ادارے اُنہیں پالیسیوں اور معاون ڈھانچوں میں ڈھالتے ہیں، اور اساتذہ اُنہیں اِس طرح نافذ کرتے ہیں جو طلبہ کی AI خواندگی اور ایجنسی کو مضبوط کرے۔ علم کی بنیاد کی تحقیق زور دیتی ہے کہ گورننس محض پابندی کے بارے میں نہیں بلکہ ذمہ دار، مساوی اور سیکھنے میں مددگار AI ادغام کی شرائط پیدا کرنے کے بارے میں ہے — بشمول [[educational-development|اساتذہ کی پیشہ ورانہ ترقی]]، شفاف رہنمائی اور مسلسل جانچ۔
 **ایک ہی طرزِ عمل، مختلف فیصلے۔** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] نے طلبہ کے استعمال کے 15 معیاری وینیٹس 20 آسٹریلوی یونیورسٹیوں کے عوامی پالیسی ماحول پر لاگو کیے اور 300 درجہ بندیاں حاصل کیں: 40.0% واضح طور پر ممنوع، 32.3% ممکنہ پالیسی خلاف ورزیاں، 9.0% شرائط کے ساتھ اجازت یافتہ، اور 18.7% غیر متعین — کوئی بھی واضح طور پر اجازت یافتہ کی حد تک نہ پہنچی۔ پابند اوزار 100 امتزاجوں میں جنریٹو AI کے بارے میں خاموش رہے جبکہ رہنمائی نے 88 حل کیے، اور اعلان شدہ زبان کی دوبارہ تحریر اور AI کا لکھا ہوا پیراگراف یونیورسٹیوں کے درمیان سب سے زیادہ اختلاف پیدا کرنے والے معاملات تھے، جبکہ جائزے کی واضح ممانعت پر مکمل اتفاق رہا۔ جہاں اوپر بیان کردہ سطحوں کو ہم آہنگ فرض کیا جاتا ہے، یہ مطالعہ ناپتا ہے کہ وہ کتنی دور ہٹتی ہیں، اور عملی حد کو پابند پالیسی کے بجائے رہنمائی میں تلاش کرتا ہے۔
 
-
-
 **اساتذہ کی گورننس اور دانستہ جائزے کی دلیل۔** جہاں اوپر کی سطحیں پالیسی کے ذریعے ہم آہنگ ہوتی ہیں، وہاں کچھ شعبے اُن تک مشترکہ گورننس کے ذریعے پہنچتے ہیں۔ [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] [[legal-education|لاء اسکولوں]] کو بالکل اِسی وجہ سے ایک مشکل معاملہ قرار دیتے ہیں: امریکی لاء فیکلٹیز کے پاس کورس کے معیارات پر غیر معمولی انفرادی اختیار ہوتا ہے، چنانچہ پالیسی اُنہیں سنائی نہیں جاتی بلکہ اُن کے ساتھ مل کر بنائی جاتی ہے، اور زیادہ تر اسکولوں نے ممانعتی اصول لکھتے وقت انفرادی اساتذہ کے لیے صوابدید محفوظ رکھی اور ٹیکنالوجی کے بدلتے ساتھ نظرثانی کا عہد کیا۔ اُن کی سفارشات — ڈیزائن میں لچک، باقاعدہ جائزہ، فعال تربیت، اور منظّم ادارے کے پالیسی مسلط کرنے کے انتظار کے بجائے معلومات کے تبادلے کے ذریعے خود ضابطگی — گورننس کو دستاویز کے بجائے ایک مسلسل عمل کے طور پر بیان کرتی ہیں، اور یہی نکتہ [[crompton-governing-genai-higher-ed-delphi-2026|Delphi اتفاقِ رائے]] بھی بناتا ہے جب وہ مقررہ جائزہ چکروں اور ایک مستقل کثیر الشعبہ کمیٹی کی سفارش کرتا ہے۔
 
 ادارے کی سطح پر، **AIGEM فریم ورک** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) ذمہ دار AI کو تعلیمی انتظام کے لیے ایک اسٹریٹجک تنظیمی صلاحیت کے طور پر کھڑا کرتا ہے، اور AI اسٹریٹجک قیادت، ذمہ دار گورننس، فیصلہ ذہانت، انسانی-AI مشترکہ ذہانت، قابلیت کی ترقی اور پائیدار قدر کی تخلیق کو یکجا کرتا ہے -- اور ذمہ دار نفاذ کو SDGs سے جوڑتا ہے۔ یہ زور دیتا ہے کہ گورننس تدریس کے اوپر محض تعمیل کی تہہ نہیں بلکہ تعلیمی اداروں کا ایک انتظامی فرض ہے۔
@@ -117,7 +115,6 @@ AI گورننس [[ethics]] (وہ اصول جنہیں یہ عملی شکل دیت
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] **اخلاقیات اور ڈیٹا گورننس** کو قابلِ اعتماد LA پر مبنی تعلیمی مداخلتوں کے سات میں سے ایک فعال عنصر قرار دیتے ہیں — LA اور AI کے اخلاقی استعمال کی پالیسیاں، ڈیٹا کی رازداری، تحفظ اور احتساب — اور [[trust|قابلِ اعتماد ہونے]] (بشمول نفاذ میں معاونت کرنے والی قیادت اور گورننس) کو معنی خیز ڈیٹا پر مبنی مداخلتوں کی پیشگی شرط کے طور پر کھڑا کرتے ہیں۔
 
-
 - **گورننس کو ٹول میں ڈیزائن کیا جا سکتا ہے۔** چھ جہتوں والا گورننس پروفائل - [[pedagogy|تدریسی]] بنیاد، تدریسی اختیار، انسانی احتساب اور کنٹرول، سیکھنے والے کی ایجنسی اور علمی شمولیت، سیاق و سباق کی خصوصیت، اور جانچ کی نظر آوری - گورننس کو تدریسی ٹول کے تعامل کے نمونے، پرامپٹس، روبرکس، منظوری کے دروازوں اور [[visualization|ڈیش بورڈز]] میں تلاش کرتا ہے۔ یہ پوچھتا ہے کہ کیا میکانزم تدریسی فعل سے مطابقت رکھتے ہیں، نہ کہ یہ کہ ٹول کتنا سخت یا کھلا ہے ([[instructional-governance-design-computing-education-2026|Dickey, 2026]])۔
 - **انسانی مرکز والا فریم ورک ٹول کے بجائے تشریح کو مرکز میں رکھتا ہے۔** ایک مشن پر مبنی لبرل آرٹس کالج میں، اساتذہ نے ایک منظم Education Day کے دوران جنریٹو-AI کی معاونت والا Assessment Wizard استعمال کیا، اور مصنفین نتیجہ اخذ کرتے ہیں کہ انسانی فیصلہ ہی ناقابلِ گفت و شنید تشریحی اختیار رہنا چاہیے، اور وسیع نفاذ سے پہلے تصدیق کے چیک پوائنٹس اور گورننس موجود ہونی چاہیے ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]])۔ ترتیب یہ ہے: پہلے تشکیل اور تصدیق، بعد میں پیمانہ۔
 
@@ -128,65 +125,3 @@ AI گورننس [[ethics]] (وہ اصول جنہیں یہ عملی شکل دیت
 - **"یونیورسٹیوں نے پابند AI پالیسی اپنا لی ہے۔"** **48 اداروں** میں سے **40 (83%)** کے پاس کم از کم ایک عوامی دستاویز تھی، اور اُن 40 میں **گورننس زیادہ تر رہنمائی کے طور پر عملی شکل اختیار کرتی تھی، پابند** اصول کے طور پر نہیں۔ شائع شدہ رہنمائی قابلِ نفاذ پالیسی نہیں ہوتی۔
 - **"پالیسی طلبہ کو سامنے رکھ کر لکھی جاتی ہے کیونکہ خطرہ طلبہ ہیں۔"** زیادہ تر دستاویزات **اساتذہ اور طلبہ دونوں کو ایک ساتھ (20، 51%) مخاطب تھیں، نہ کہ صرف طلبہ کو (6، 15%)**، اور نہ پالیسی کی نوعیت اور نہ مخاطب تعلیمی طریقے کے ساتھ بدلا۔ انداز مشترک ہے، جس کا مطلب ہے کہ فرض بھی مشترک ہیں۔
 - **"مبہم پالیسی طلبہ کے تجربے کو چھوتی ہی نہیں۔"** پالیسی کا ابہام **طلبہ کے تجربے** میں براہ راست نظر آتا ہے: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|GenAI کے ساتھ طلبہ کی شمولیت]] اِس غیر یقینی سے شکل پاتی ہے، چنانچہ ابہام ایک فعال کیفیت ہے، غیر جانبدار خلا نہیں۔
-
-## منسلک تصورات
-- [[pedagogical-partnerships]] — تدریسی شراکت داریاں
-- [[ai-use-disclosure]] — AI استعمال اور اعلان کے بیانات
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — چھتری: AI تعلیم میں لوگ اور سامعین (سیکھنے والے، اساتذہ، ڈیزائنرز، منتظمین، پالیسی ساز)
-- [[student-support-and-success]] — اداراتی AI معاون نظاموں کی نگرانی
-
-## منسلک مضامین
-- [[kaze-ai-management-higher-ed-2026]] — اعلیٰ تعلیم میں AI اپنانا: نامزد AI انتظام کی دلیل (Kaže et al. 2026)
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — اداراتی AI گورننس کے لیے نگہداشت کی اخلاقیات، پانچ اجزا اور وہ اداراتی سوالات جن میں وہ بدلتی ہیں
-- [[generative-ai-governance-education-scoping-review-2026]] — تعلیم میں جنریٹو AI گورننس: اصولوں، میکانزم اور خطرات کا اسکوپنگ ریویو (Elmahjub et al. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — پائیدار ترقی کے لیے گورننس کی صلاحیت کے طور پر AI خواندگی: AIRE Taxonomy اور AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — تعلیمی انتظام میں AI گورننس کے لیے AIGEM فریم ورک
-- [[institutional-ai-policy-health-informatics-2026]] — 48 CAHIIM سے منظور شدہ ہیلتھ انفارمیٹکس پروگراموں میں AI پالیسی اور رہنمائی کی دستاویزات: غیر پابند، سالمیت مرکز رہنمائی کے طور پر گورننس (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — رہنمائی شدہ تفتیش کے ذریعے طلبہ کا GenAI کورس پالیسیوں کی مشترکہ ڈیزائن (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — سیکھنے کے تجزیات سے تعلیمی مداخلتوں تک: قابلِ اعتماد LA پر مبنی مداخلتوں کے فعال عناصر (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI استعمال کے اعلانات کی طلبہ کی عدم تعمیل
-- [[vetter-hidden-cost-disclosure-genai-2026]] — اعلان کی پوشیدہ قیمت
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — طلبہ کا AI اعلان، بدنامی اور خود ضابطگی والی سیکھنا
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — کون سا استدلال خطرے میں ہے: جائزے کی درستگی کی استدلال اور جنریٹو AI (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — GenAI گورننس اور پالیسی پر عالمی Delphi
-- [[qian-governing-genai-higher-ed-policy-2026]] — رہنمائی کے ذریعے گورننس: 50 جدت پسند امریکی یونیورسٹیوں میں اساتذہ کے طے کردہ نصابی اصول اور چار یونٹوں پر مشتمل معاون ماحولیاتی نظام (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — لاء اسکول GenAI پالیسی میں اساتذہ کی گورننس، انفرادی صوابدید اور باقاعدہ جائزہ (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — حد سے بڑھی "AI" ممانعتیں، فارمیٹ تبدیلی اور معقول موافقت کا مسئلہ (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — شواہد کے طور پر انکار: غیر مساوی گورننس، سمجھنے کا فرض اور عدم استعمال کی تشخیصی قدر (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI کے لیے پیشگی گورننس اور قیادت
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — اوپن یونیورسٹی میں AIDA کا نفاذ
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: تبدیلی آمیز رہنمائی
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — طلبہ کی GenAI کے ساتھ شمولیت (SDT)
-- [[beyond-detection-authentic-assessment-ai-2025]] — پکڑ سے آگے: مستند جائزے کی دوبارہ تشکیل
-- [[genai-policies-higher-ed-computing]] — کمپیوٹنگ میں اداراتی GenAI پالیسی
-- [[genai-declaration-frameworks-higher-education]] — AI اعلان کے فریم ورک
-- [[genai-assessment-governance]] — GenAI کے تحت جائزے کی گورننس
-- [[ai-uk-higher-education-policy-2026]] — برطانوی اعلیٰ تعلیم کی پالیسی میں AI
-- [[raza-farooq-aied-review-2020-2025]] — AIED تحقیق کا جامع جائزہ
-- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکات کا المیہ: AI اور مہارت کی باز تخلیق
-- [[policy-deficit-ai-sel-2026]] — AI × SEL تحقیق میں پالیسی کی کمی
-- [[agarwal-ethical-values-norms-aied-2026]] — تعلیم میں AI کے لیے اخلاقی اقدار اور اصول
-- [[perrotta-zero-shot-governance-2026]] — زیرو شاٹ گورننس: پالیسی میں عمومی مقصد والا AI (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — کون عمل کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیم کی تحقیق میں ایجنسی، علمی ذمہ داری اور احتساب کا کارپس کی مدد سے گفتاری تجزیہ
-- [[instructional-governance-design-computing-education-2026]] — ڈیزائن کے ذریعے تدریسی گورننس: کمپیوٹنگ تعلیم میں AI کے لیے ایک فریم ورک
-- [[genai-governance-australian-higher-ed-2026]] — مجاز حد کی نقشہ بندی: آسٹریلوی اعلیٰ تعلیم میں جنریٹو AI گورننس کا تقابلی پالیسی-وینیٹ مطالعہ
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — تفویض، شواہد اور رسائی: ایجنٹک AI یونیورسٹی جائزے کی گورننس میں کیا بدلتا ہے (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI پروٹوٹائپس اور اسکولی پائلٹس بطور گورننس مشینری جو ایک منتخب مستقبل کی پیشگی تصویر بناتی ہے (Williamson et al
-- [[li-su-teacher-genai-decision-making-2026]] — گورننس کی وضاحت سے استاد کے فیصلے کے واقعات تک ایک تجویز کردہ راستہ
-- [[pandey-davies-he-governance-administrative-ai-2026]] — انتظامی AI بطور سروس آپریشنز کا سوال
-- [[chan-ai-policy-gap-2026]] — گورننس کی زبان عمومی پالیسیوں میں رہتی ہے اور کبھی اُن فنڈنگ قواعد میں نہیں جو درخواست دہندگان کو باندھتے ہیں (Chan 2026)

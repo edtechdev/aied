@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -46,7 +48,6 @@ ai_assist:
 경계는 가장자리에서 깨끗하지 않습니다. 통계 프로그래밍은 대부분의 기관에서 [[cs-education]] 안에 있고, 여기 실린 여러 논문이 그곳에 분류되어 있습니다. 통계 그래픽의 접근성 작업은 [[special-education]]과 [[accessibility|접근 가능한]] 설계와 겹치고, 책임 있는 데이터 과학은 [[cs-education]]과 [[ethics]]와 겹칩니다. 이 페이지는 이 군집의 집이지, 군집이 닫혀 있다는 주장이 아닙니다.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund와 동료들(2026)]]은 교육과정 쪽에서 그 겹침을 표시합니다. 네 가지 책무성 기둥(답변 가능성, 책임, 집행, 성찰성)을 네 가지 [[explainable-ai|XAI]] 차원과 교차시키고, 채점된 모델 카드, LIME과 SHAP 설명 감사, 영향 평가를 통해 가르치며, 저자들은 설명이 책무성이 아니라는 점을 인정합니다.
-
 
 ## 생성된 산출물과 타당도 문제
 
@@ -85,26 +86,3 @@ ai_assist:
 - **"만족도와 인식된 이득은 데이터 과학 AI 도구가 작동하고 있음을 보여 준다."** 학생들은 디버깅과 개념 질문에 LLM을 많이 사용했고 **높은 만족도를 보고했지만, 인식된 심층 학습 이득은 학기 동안 감소했습니다**. 만족도는 유지되었고 자기평가된 학습 궤적은 떨어졌으므로, 어느 수치도 단독으로 성과가 아닙니다.
 - **"제한 없는 모형은 안내된 튜터만큼 좋다."** 이득은 비계 훈련, 즉 단계적 힌트와 검증에 대한 명시적 지시에서 나왔으며, 그것은 같은 모형에 대한 단순 접근을 독립 수행과 자기 평가 교정에서 앞섰습니다. 안내와 그것을 사용하는 방법에 대한 훈련이 효과를 담당했습니다.
 - **"답을 주는 것에 대한 방어로 충분하다."** 호스팅된 API 위에서 답을 공급하기보다 넛지하도록 지시받은 강좌 특정 튜터는 한 학기 R 프로그래밍 수업에서 시험과 관련된 주에 심리학 학부생의 **76%에서 84%**가 채택했습니다. 그것은 채택일 뿐, 방어가 학습을 만들어 냈다는 증거는 아닙니다. 프롬프트 수준의 방어는 여러 지렛대 가운데 하나이며 그 자체로 학습을 만들어 내지는 않습니다.
-
-## 연결된 개념
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## 연결된 문서
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — 개인화된 통계 연습을 위한 검사 가능한 합성 데이터셋을 생성하는 에이전트 도구
-- [[ai-tutor-statistical-programming-adoption-2026]] — 전용 R 튜터. 채택이 시험 일정을 따라갔다
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM 난이도 라벨은 학생 수행이 아니라 블룸 수준을 따라간다
-- [[tactile-statistical-graphs-accessibility]] — 교사 검토를 갖춘 촉각 통계 차트를 생성하는 오픈소스 파이프라인
-- [[guided-llm-scaffolding-independent-learning]] — 안내된 비계가 독립 수행에서 제한 없는 접근을 앞섰다
-- [[lund-socially-accountable-data-science-xai-2026]] — 기술적 데이터 과학 교육과정에 사회적 책무성을 내장하기

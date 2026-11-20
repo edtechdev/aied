@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,6 +58,3 @@ panggilan Canvas API. Inferensi langsung ekstensi Chrome memerlukan kunci API Go
 milik pembaca sendiri, meskipun mode simulasi mendemonstrasikannya tanpa kunci. Proyek ini menyebut
 dirinya beta pada versi 3.5.1.0 dan memperingatkan perubahan yang merusak antar versi minor, dan
 diterbitkan di bawah akun GitHub savvides alih-alih oleh penulis bernama.
-
-## Konsep terkait
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

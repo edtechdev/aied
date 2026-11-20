@@ -18,12 +18,13 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
 > **Technological [[pedagogy|Pedagogical]] Content Knowledge (TPACK)** — a keretrendszer (Mishra és Koehler, 2006), amely leírja azt az integrált tudást, amelyre a tanároknak szükségük van a technológia hatékony használatához a tanításban: a technológiai tudás (TK), a pedagógiai tudás (PK) és a tartalmi tudás (CK), valamint metszeteik kölcsönhatását. Az MI korszakában a TPACK-et **AI-TPACK** / **GenAI-TPACK** irányba terjesztették ki, modellezve, hogyan integrálják a tanárok a generatív MI-t a tantárgyi oktatásba. Ez a domináns elméleti lencse annak megértéséhez, hogyan strukturálódik a [[teacher-ai-competency|tanári MI-kompetencia]], és hogyan épül fel a [[educational-development|szakmai fejlesztésen]] keresztül.
-
 
 Ez a dominancia részben visszakeresési műtermék is: 195 technológiával támogatott tanárképzési tanulmány PRISMA [[meta-analysis-systematic-review|áttekintő vizsgálatában]] a digitális kompetencia, a TPACK és a DigCompEdu explicit keresési leírók voltak, így a kompetenciakeretrendszerek 46,5%-os aránya a visszakeresett korpuszt írja le, nem a területet ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández és mtsai. (2026)]]).
 
@@ -71,7 +72,6 @@ Az MI korszak a keretrendszert az intelligenciával rendelkező technológia fel
 - **A [[higher-ed|felsőoktatásban]] a tartalmi szakértelem nem transzferálódik a GenAI-integrációra.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury és Liu (2026)]] a [[ai-literacy|TPACK-21]] műszert adaptálták, hogy **127 oktatót** kérdezzenek meg egy amerikai kutatóegyetemen arról, hogyan használnak GenAI-t a 21. századi készségek tanítására. Az oktatók erős CK-t (M = 5,15) és PCK-t (M = 4,70) jelentettek, de alacsony technológiaintegrált tudást — TPK (M = 2,62), TCK (M = 2,75) és összesített TPACK (M = 2,55, a legalacsonyabb terület) —, és a CK **nem mutatott szignifikáns korrelációt a TK-val vagy bármely technológiaintegrált területtel** (r = 0,11–0,15, ns). A három technológiaintegrált terület olyan erősen korrelált egymással (r = 0,81–0,91), hogy egyetlen GenAI-integrációs faktorként is működhetnek. Az eredmény megerősíti a *metszetek tanítása* tervezési elvet: a [[educational-development|oktatói fejlesztésnek]] szándékosan, [[discipline-specific-aied|tudományágspecifikus]] tevékenységeken keresztül kell felépítenie a GenAI-integrációs tudást, ahelyett hogy feltételezné, hogy a tantárgyi szakértelem átvihető, és a technológiaintegrált területeket közös GenAI-írástudási alapként kell kezelnie.
 - **Az intézményi mód és a képzési szint kölcsönhatása.** [[ai-training-science-teacher-tpack-distance-2026|Mnguni és mtsai. (2026)]] 186 végzős természettudományos tanárjelöltet hasonlított össze egy dél-afrikai campusalapú egyetemen (n = 85) és egy [[online-teaching-and-learning|távoktatási]] egyetemen (n = 97). Az önbevallott TPACK magasabb volt a campuson (64,0% szemben 47,4%-kal), a pedagógiai tudás volt a legkevésbé jelentett terület mindkét csoportban (53% a campuson), és az MI-képzés szintje csak a távoktatási intézményben függött össze az önbevallott TPACK-kel, ahol egy ötkredites rövid kurzus elvégzése *gyengébb* jelentett TPACK-et jósolt, mint a képzés hiánya (p = 0,039, szemben a campus p = 0,607-ével). A felkészültség tehát az intézményi ellátási kontextust követi, nem csupán a képzési órák számát, és a szerzők figyelmeztetnek, hogy az [[self-report-measures|önbevallott]] felkészültség nem helyettesítheti a teljesítménybizonyítékot.
 
-
 Egy kiegészítő mérési figyelmeztetés ugyanazon szerző Capability–Decision Modeljéből származik: amikor a TPACK önbevallott, és az észlelt viselkedési kontrollt [[self-efficacy|önhatékonyságként]] mérik, a kettő empirikusan nem feltétlenül különböztethető meg, így egy tanulmány nem tudja megmondani, hogy a képesség vagy az általános magabiztosság jósolja-e a szándékot ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 - **Az integrált TPACK akkor mozdul a legtöbbet, amikor az MI hiteles, problémaalapú feladatokba van vázolva.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen és Osman (2026)]] egy nyolchetes, MI-támogatott CTD-PBL modult hasonlított össze hagyományos oktatással **130 harmadéves [[physics-education|fizika]] tanárjelölt** körében, érintetlen osztályokon alapuló kvázi-kísérleti elrendezésben (65 fő feltételenként); a csoportok DeepSeeket használtak feladatspecifikus prompt-sablonokon keresztül, és minden MI-kimenetnek emberi ellenőrzésen kellett átmennie, mielőtt oktatási artefaktumba került. A modulcsoport magasabb utóteszt-TPACK-et jelentett (M = 4,04 szemben 3,40, p < 0,001, d = 1,02) és magasabb észlelt [[problem-solving|együttműködő problémamegoldást]] (M = 3,62 szemben 3,05, d = 0,88), mindkét kimeneten szignifikáns csoport × idő interakcióval. Az, hogy hova estek a nyereségek, a TPACK szempontjából releváns részlet: a legnagyobb dimenzionális hatások az integrált területeken voltak — TPCK (d = 1,21), PCK (d = 1,06) és TPK (d = 0,95) —, és a [[collaborative-learning|együttműködési]] nyereségek a közös tudásépítésben és a társas szabályozásban voltak a legtisztábbak, azaz a metszetekben, nem az alapterületekben. A szerzők ezeket egy integrált oktatási feltétellel járó differenciális változásként mutatják be, nem MI-hatásként: az MI-t soha nem választották el a PBL-feladatlánctól, a strukturált együttműködéstől, az oktatói vázolástól, a [[peer-assessment|társvisszajelzéstől]] vagy a reflektív átdolgozástól, és mindkét kimenet a kompetencia [[self-report-measures|kérdőíves]] észlelése volt, nem bizonyított osztálytermi teljesítmény.
 
@@ -101,50 +101,3 @@ A TPACK a tudásbázis bizonyítékbázisának tanári oldalát szervező keretr
 - **„A TPACK dominanciája a magyarázó erejét tükrözi.”** Ez a dominancia **részben visszakeresési műtermék**: **195 technológiával támogatott tanárképzési tanulmány** PRISMA áttekintő vizsgálatában a digitális kompetencia, a TPACK és a DigComp **uralja az indexelt irodalmat**. A keresésben való gyakoriság a terület által használt szókészlet tulajdonsága, nem bizonyíték arra, hogy a keretrendszer többet magyaráz.
 - **„Egy jól ismert keretrendszer érvényes keretrendszer az MI-hez.”** A TPACK-et nem MI-specifikus kapacitásokra tervezték, ezért fejlesztették ki az Intelligent-TPACK-et — és az mindössze **öt tanulmányban** jelenik meg a 78 tanulmányt vizsgáló áttekintésben. A TPACK GenAI-kompetenciára való használata túlfeszíti a konstrukcióján.
 - **„Egy keretrendszer alkalmazása azt jelenti, hogy a kutatás teoretizált.”** Ugyanez az áttekintés azt találta, hogy a tanulmányok **76%-a gyakorlatból következtetett kompetenciákra, elméleti leképezés nélkül**, így a TPACK jelenléte a területen együtt jár azzal, hogy a kutatás nagy része teoretizálatlan. Egy megnevezett keretrendszer nem ugyanaz, mint egy munkát végző keretrendszer.
-
-## Összefüggő fogalmak
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Összefüggő cikkek
-
-- [[ai-literacy-tpack-preservice-2026]] — Észlelt MI-írástudás és TPACK a tanárképzésben: közvetítés a hasznosságon, a használat könnyűségén és az értéken keresztül (Zhao 2026)
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Értékelési indikátorrendszer MI-tanúsítványprogramokhoz
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Szintközi vizsgálat: „pedagógia előbb, technológia másodszor” — a TPAIK felülmúlja a technikai TAIK-ot a diákeredményekben (Shen és mtsai. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — Gyakorló tanárok TPACK-GenAI-ja és a pedagógiai tudás közvetítő szerepe (Mohebi és ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Oktatói standardok a technológiaintegrációhoz (TPACK-kapcsolt DBR)
-- [[edurev-100741-tpack-genai-review]] — A generatív MI integrálása a diákok tanulásába: szisztematikus áttekintés TPACK-perspektívából
-- [[ai-tpack-teacher-multi-agent-workflow]] — Az AI-TPACK modellezése tanári többágenses munkafolyamatokon keresztül
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK felkészültség tanárjelölt matematikatanárok körében
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tanár–MI interakció az óra tervezésében: Intelligent-TPACK, tapasztalat és jártasság kölcsönhatása (Choi és mtsai. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intenzív GenAI szakmai fejlesztés és AI-PCK-nyereségek
-- [[teacher-ai-teaming-five-levels]] — Ötszintű tanár–MI csapatmunka-keretrendszer
-- [[teacher-ai-adoption-confidence]] — Tanári magabiztosság és MI-elfogadás
-- [[teacher-education-ai-literacy-sdt-2026]] — Tanárképzés az MI-írástudásért önmeghatározás-elmélet révén
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Tervezésalapú kutatás a GenAI-írástudás képzésében
-- [[rail-ed-genai-literacy-teacher-education]] — A GenAI-írástudás újragondolása a tanárképzésben
-- [[sec-ai-literacy-narrative-review-2026]] — Szocio-emocionális kompetenciák és MI-írástudás
-- [[genai-runaway-object-math-higher-ed]] — GenAI és matematika a felsőoktatásban
-- [[ai-changing-teaching-workflows]] — Hogyan változtatja meg az MI a tanítási munkafolyamatokat
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Oktatók önészlelt TPACK-21 tudása a GenAI-hoz a felsőoktatásban (Sutedjo, Chowdhury és Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Egy új AI-TPACK keretrendszer felé: az etika mint a technikai MI-tudás integratív mediátora (Chen és mtsai. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — 186 dél-afrikai természettudományos tanárjelölt összehasonlító felmérése: campuselőny az önbevallott TPACK-ben, és az MI-képzés gyengébb jelentett TPACK-kel jár a távoktatási intézményben
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — Az AI-TPACK és a természettudományos tanítási önhatékonyság sorosan közvetíti az MI-írástudás hatását a vizsgálódásintegrációs szándékra (Zou és mtsai. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK szakmai fejlesztés egyetemi tanároknak: dimenziónként bontott nyereségek, részvétel az önészlelt elköteleződés helyett — MI-támogatott CTD-PBL modul és tanárjelölt fizikatanárok TPACK-je és együttműködő problémamegoldása (Chen és Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Az ember–MI együttműködés értékelése a tervezőoktatásban: folyamatorientált rubrika egy kiterjesztett AI-TPACK keretrendszerre alapozva
-- [[capability-decision-model-teacher-readiness-2026]] — Rendezett, képességelvű modell a tanárok MI-felkészültségéről és annak konstrukcióátfedési figyelmeztetése
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Áttekintő vizsgálat figyelmeztetése, hogy a kompetenciakeretrendszerek dominanciája részben keresési leírókat tükröz, nem a terület elterjedtségét
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — Az integrált TPACK szerepe a tanárjelöltek felhatalmazásában és a generatív MI-hoz való attitűdjük alakításában

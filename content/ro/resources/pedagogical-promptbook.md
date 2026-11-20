@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -37,6 +38,3 @@ Capitolele acoperă [[learning-design|designul instrucțional]] și practica did
 ## Ce trebuie să știi înainte de a-l folosi
 
 Cartea este cu acces deschis sub licență CC BY, adică la capătul permisiv al intervalului pentru materialele didactice: cadrele didactice pot copia, adapta și folosi [[prompt-engineering|prompturile]], inclusiv comercial, cu condiția să le atribuie corect. Asta face simplu să localizezi un prompt pentru un curs anume sau pentru o configurație de [[pedagogical-agent|agent]], ceea ce licențele mai restrictive ale colecțiilor similare nu permit. Este publicată pe EdTech Books în 2026, cu descărcare PDF și DOI 10.59668/2340, editată de David Wiley. Pentru că fiecare capitol raportează designul evaluării, nu doar rezultatul, funcționează și ca model pentru cadrele didactice care vor să își testeze propriile prompturi în loc să preia judecata altcuiva.
-
-## Concepte conexe
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

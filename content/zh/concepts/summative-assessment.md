@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
+connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,44 +87,3 @@ ai_assist:
 - **“LLM 无法按官方标准评分。”** 对照**经审校的官方分数**，一个给 **10,364 页手写**物理奥林匹克与大学试卷评分的多模态 LLM 相关很强。结果一致性可以在题目层评分不精确的情况下存活，这意味着有用的问题是题目层的精确性究竟在何处被需要。
 - **“AI 成绩通胀是猜测。”** [[chirikov-ai-grade-inflation-2026|Chirikov（2026）]]对 **500,000 以上个成绩**的准实验把机制变得具体：ChatGPT 发布之后，**AI 暴露任务更多的课程中更高成绩的占比上升**。效应集中在任务暴露之处，这正是机制会预测的模式。
 - **“使用 AI 的学生与不使用的学生无法区分，因此来源无从追查。”** AI 生成题目与执照考试题目之间**来源归因没有显著差异**、正确识别率为 **68.6-77.5%**、误归因为 **18.2%** 这一发现，讲的是识别失败，而不是来源不必要。它反而提高了对经核验来源的要求。
-
-## 关联概念
-
-- [[remote-proctoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-ed-evaluation]]
-- [[higher-ed]]
-- [[k-12]]
-
-## 关联文章
-- [[llm-grading-assistants-public-health-2026]] — LLM 评分者压缩分数量尺并在高风险论文评价中避开两端
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新把口试视为真实的、抗 AI 的终结性评价
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 的学习惩罚：监考/闭卷考试证据
-- [[chirikov-ai-grade-inflation-2026]] — AI 任务置换作为分数通胀的机制；作业密集的课程（Chirikov 2026）
-- [[generative-ai-reduced-study-time-math]] — 完成更快，学得更少：监考测量必不可少
-- [[generative-ai-guardrails-harm-learning]] — 没有护栏的生成式 AI 损害学习
-- [[assessing-quality-ai-generated-exams-field-2025]] — 评价 AI 生成考试的质量
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM 评分作文的方式与人类不同
-- [[llm-automated-assessment-student-self-explanations]] — 用于学生自我解释自动评价的 LLM
-- [[cong-confidence-asag-2026]] — 自动简答评分
-- [[psyscore-essay-scoring-zpd-feedback]] — 心理测量觉知的特质自适应论文评分
-- [[socratic-tests-conversational-assessment]] — 苏格拉底式测验：动态、对话式、多模态的评价
-- [[code-review-genai-cs1]] — CS1 中的代码评审访谈
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的负责任评价
-- [[test-driven-ai-assisted-learning]] — 测试驱动的 AI 辅助学习
-- [[genai-oop-programming-assessments-2026]] — GenAI 在面向对象编程评估上的表现
-- [[brcic-effortless-trap-productive-struggle-2026]] — Effortless Trap：有益挣扎与学习幻觉
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI 生成对人工开发的 EFL 评价任务
-- [[roe-assessment-twins-2026]] — GenAI 时代强化评价效度的评价孪生（Roe、Perkins & Giray 2026）
-- [[ai-grading-handwritten-physics-2026]] — 手写物理评价的 AI 评分（奥林匹克）
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生无法可靠地识别 AI 起草的题目

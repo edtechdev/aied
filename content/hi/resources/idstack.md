@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -44,7 +45,3 @@ translation_note: "यह अंग्रेज़ी पेज का ऑटो
 ## इसे अपनाने से पहले जानने योग्य बातें
 
 प्लगइन को स्थापित करने के लिए क्लॉड कोड और एक बैश शेल आवश्यक है; पावरशेल और cmd सेटअप स्क्रिप्ट नहीं चला सकते, और स्कोर प्रवृत्तियों के लिए Python 3 की सिफ़ारिश की जाती है। पाठ्यक्रम डेटा पाठक की अपनी मशीन पर परियोजना फ़ोल्डर में रहता है, और उससे केवल किसी ऐसे एकीकरण के माध्यम से बाहर जाता है जिसे उपयोगकर्ता स्वयं चालित करता है, जैसे कि कोई कैनवास API कॉल। क्रोम एक्सटेंशन का लाइव अनुमान (live inference) पाठक की अपनी मुफ़्त Google AI Studio API कुंजी का उपयोग करता है, हालाँकि एक सिमुलेशन मोड इसे बिना कुंजी प्रदर्शित करता है। परियोजना स्वयं को संस्करण 3.5.1.0 पर बीटा बताती है और छोटे संस्करणों के बीच ब्रेकिंग परिवर्तनों की चेतावनी देती है, और यह किसी नामित लेखक के बजाय savvides GitHub खाते के अंतर्गत प्रकाशित है।
-
-## संबद्ध अवधारणाएँ
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]
-

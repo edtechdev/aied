@@ -29,6 +29,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -190,57 +192,3 @@ Inteligența artificială în educație se leagă de fiecare concept din baza de
 **„Deoarece IA este de uz general, un rezultat de oriunde se aplică pretutindeni."** Generalitatea tehnologiei nu creează generalitatea dovezilor. Firele de disciplină, nivel și context există pentru că același instrument se comportă diferit de-a lungul lor, iar un rezultat neschimbat trecut peste o graniță este o extrapolare.
 
 **„Maturitatea domeniului poate fi citită din volumul publicațiilor."** Volumul și maturitatea diverg; firul metodelor de cercetare documentează slăbiciuni recurente de design pe care volumul nu le repară, iar cadrele se înmulțesc mai repede decât sunt testate.
-
-## Concepte conexe
-- [[pedagogical-patterns]] — Secvențele testate care operationalizează pedagogiile domeniului
-- [[ai-literacy]] — umbrelă: înțelegerea, folosirea și evaluarea IA
-- [[automation-bias]] — eșecul de partea cititorului: acceptarea unei judecăți automate fără a o verifica
-- [[human-ai-collaboration]] — umbrelă: cum lucrează împreună oamenii și IA
-- [[pedagogy]] — umbrelă: metode și strategii de predare
-- [[case-based-learning]] — Metoda cazurilor, discuția pe cazuri și cazurile contrastante
-- [[metaphors-and-analogies]] — Cum metafora modelează înțelegerea IA și cum analogia sprijină instruirea
-- [[learning-theories]] — umbrelă: cum are loc învățarea
-- [[ai-technologies]] — umbrelă: modele, tehnici și sisteme
-- [[discipline-specific-aied]] — umbrelă: IA în arii de materie și niveluri
-- [[assessment]] — umbrelă: cum IA evaluează învățăceii și remodela validitatea
-- [[feedback]] — umbrelă: cum este generat, oferit și folosit feedbackul
-- [[stakeholders]] — umbrelă: cine sunt actorii
-- [[learners]] — umbrelă: conceptele din partea învățăcelului (experiență, identitate, autonomie, interacțiune, modele ale învățăcelului)
-- [[ai-ed-evaluation]] — umbrelă: cum știm dacă IA funcționează
-- [[research-methods-aied]] — umbrelă: metode de cercetare a eficacității
-- [[ai-assisted-educational-research]] — Cercetarea educațională asistată de IA
-- [[governance]] — umbrelă: stratul instituțional și de reglementare
-- [[educational-policy-ai]] — umbrelă: politici, îndrumări și implementare
-- [[equity-in-ai-education]] — umbrelă: corectitudine, acces și incluziune
-- [[learning-sciences]] — domeniul empiric din spatele AIED
-- [[ethics]] — dimensiunile etice ale IA în educație
-- [[misconceptions]] — modelele mentale pe care oamenii le aduc la IA
-- [[interpreting-and-applying-aied-research]] — citirea unui studiu și transferarea unei concluzii în practică
-- [[limitations-in-aied-research]] — limitele transversale ale bazei de dovezi
-- [[meta-analysis-systematic-review]] — ce stabilesc revizuirile și meta-analizele
-- [[history-of-aied]] — cum a evoluat domeniul
-- [[philosophy-of-ai-in-education]] — fundamentele filosofice
-- [[theories-and-frameworks]] — harta nodurilor de teorie și de cadre
-- [[theory-development-aied]] — construirea și revizuirea teoriei
-- [[sensor-and-gaze-analytics]] — umbrelă: sesizarea învățăceilor prin privire, EEG și semnale purtabile
-- [[ai-avatars-and-synthetic-instructors]] — umbrelă: oameni sintetici care predau, tutorează, simulează și evaluează
-- [[civic-and-political-education]] — arie de materie: alfabetizare pentru viața publică, cu o bază probatorie subțire
-- [[primary-education]] — educația primară ca nivel de încadrare a dovezilor
-- [[secondary-education]] — educația secundară ca nivel de încadrare a dovezilor
-- [[undergraduate-education]] — studiile de licență ca nivel de încadrare a dovezilor
-- [[graduate-education]] — studiile postuniversitare ca nivel de încadrare a dovezilor
-
-## Articole conexe
-
-Revizuiri la nivelul întregului domeniu al IA în educație — studiile care trece în revistă întregul domeniu sau un întreg nivel educațional, mai degrabă decât o singură temă:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Evoluția cercetării în IA și educație de-a lungul a patru decenii (cadrul AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. autonomie: o istorie a IA în educație
-- [[genai-higher-education-systematic-review-2026]] — IA generativă în învățământul superior: revizuire sistematică a 125 de studii
-- [[stanford-evidence-base-ai-k12-2026]] — Baza de dovezi privind IA în K-12: o revizuire a 818 articole
-- [[genai-educational-outcomes-meta-analysis]] — IA generativă și rezultate educaționale: o meta-analiză cuprinzătoare
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 de studii din secundar: câștigurile vin acolo unde studenții compară rezultatul, nu unde instrumentul face munca (Pérez-Montesdeoca et al. 2026)
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — Pregătirea pentru cercetare în ciclul avansat trece prin sprijinul supervizorului, nu prin folosirea instrumentului (Luo et al. 2026)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Legitimitatea depinde de sarcină, declararea de semnificația intelectuală, iar guvernanța se revizuiește la momente-cheie (Guanilo Pareja et al. 2026)
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Studenții acceptă rezultatul IA doar după verificarea unui gardian competent (Chen 2026)
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Frecvența folosirii nu prezice competența odată ce etica și autoreglarea intră în model (Zaripova et al. 2026)

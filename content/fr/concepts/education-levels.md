@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -112,42 +114,3 @@ Un schéma vaut à chaque niveau étudié : la couche humaine absorbe les cas le
 **« Un [[intelligent-tutoring|tuteur adaptatif]] aide chaque niveau également. »** La comparaison qui isole la variable est instructive : deux versions du même tuteur de mathématiques de deuxième année — contenu, interface, rétroaction et indices vocaux identiques — ne différant **que par le fait que la sélection des tâches suivait ou non un modèle bayésien de [[knowledge-tracing|traçage des connaissances]]**. La sélection adaptative des tâches est une intervention sensible au niveau, et son bénéfice dépend de la capacité des apprenants de ce niveau à agir sur l'adaptation.
 
 **« Les preuves concentrées dans l'enseignement supérieur se généralisent vers le bas. »** Non, et la distribution de la littérature est un avertissement plutôt qu'une commodité. Là où les preuves sont denses et là où elles sont minces est une propriété de l'économie de la recherche, non de l'endroit où l'IA est le plus utilisée, si bien qu'une affirmation sur le K-12 tirée d'échantillons universitaires est une extrapolation par-delà la frontière qui compte le plus.
-
-## Concepts liés
-
-- [[primary-education|L'enseignement primaire]] — la bande primaire à part entière
-- [[secondary-education|L'enseignement secondaire]] — collège et lycée réunis
-- [[undergraduate-education|Le premier cycle]] — des travaux évalués de l'extérieur
-- [[graduate-education|Le troisième cycle]] — encadrement, formation à la recherche, programmes professionnels
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Articles liés
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Tutorat adaptatif contre non adaptatif en mathématiques de cours élémentaire (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — Les chatbots d'IA générative et la pose de problèmes avec des élèves de cours moyen en sciences au primaire
-- [[chatgpt-music-education-junior-high-2026]] — Les attitudes des collégiens envers ChatGPT pour l'apprentissage de paroles de chansons (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — LMS intégrant l'IA conçu pour le collège, avec une étude longitudinale proposée
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La pénalité d'apprentissage liée à l'IA générative dans l'enseignement secondaire chinois (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Quatre types de dépendance aux LLM parmi des rédacteurs de premier cycle (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Plateforme de séminaire assistée par l'IA avec soutien bibliothécaire intégré pour des étudiants en ingénierie
-- [[ai-mediated-research-agency-formation-2026]] — Dépendance à l'IA, autonomie et innovation dans la formation doctorale et postdoctorale (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Les points de vue des parties prenantes sur la protection des données dans l'enseignement supérieur africain (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — La disposition des cadres de l'éducation à adopter l'IA à travers l'Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Apprentissage par problèmes immersif assisté par l'IA pour des étudiants en design professionnel (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — L'intention des enseignants de maternelle d'utiliser l'IA dans les contextes de petite enfance
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Les attitudes des enfants envers un chatbot d'IA adapté à l'âge
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 études primaires ; quatre composantes dont l'éthique et la littératie critique des données (Yim et Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 études secondaires ; l'exactitude s'effondre sur les items d'ordre supérieur (Pérez-Montesdeoca et coll. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1 477 répondants du lycée, de l'université et du corps enseignant ; apprentissage perçu contre engagement
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 étudiants de premier et de troisième cycle ; la littératie numérique prédisait la performance, l'éthique non
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Comparaison premier cycle / troisième cycle ; l'écart d'éthique et d'autonomie est le plus large (Zaripova et coll. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modèle de littératie en IA générative à cinq dimensions pour le troisième cycle

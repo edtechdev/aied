@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -94,26 +96,3 @@ Cuatro cautelas, cada una formulada en las páginas de origen:
 - **«El análisis de perfiles latentes descubre grupos que existen.»** El APL convierte la diversidad del estudiantado de una afirmación retórica en un hallazgo medible, y los perfiles son un **modelo de un continuo dividido en fronteras elegidas**, no clases naturales. El número de perfiles es una decisión analítica.
 - **«Cualquier miembro de la familia de variables latentes sirve.»** Cuál se usa **depende de los indicadores**: **análisis de clases latentes (ACL) para indicadores categóricos** y APL para los continuos. Elegir primero el método y después los indicadores convierte el resultado en un artefacto de esa elección.
 - **«Los perfiles son comparables entre estudios.»** Chen y sus colegas perfilaron a **128 futuros docentes taiwaneses** en cinco constructos del [[technology-acceptance-model|TAM]]/UTAUT2, mientras que Acquah y sus colegas perfilaron a **509 estudiantes de grado ghaneses**. Indicadores distintos en poblaciones distintas no producen etiquetas de perfil conmensurables.
-
-## Conceptos conectados
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Artículos conectados
-- [[ai-attitude-latent-profiles-career-development-2026]] — Evidencia de retención de Lo–Mendell–Rubin para cuatro perfiles de actitud hacia la IA en 379 estudiantes de empresa
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Análisis de transición de perfiles latentes en tres oleadas sobre la adaptación psicológica
-- [[liang-ai-learning-motivation-sdt-2026]] — Análisis de transición latente de tres perfiles de motivación a lo largo de un año
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Perfiles de k-means; desacuerdo entre silueta y Calinski–Harabasz; ARI 0,989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Agrupamiento jerárquico y k-means en cuatro personas de adopción de IA generativa
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Cuatro perfiles de creencias docentes sobre la IA a partir de 40.680 docentes de 49 sistemas, con estabilidad de alineación

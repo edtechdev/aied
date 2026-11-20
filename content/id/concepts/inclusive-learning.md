@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -98,49 +100,3 @@ Pembelajaran inklusif sangat terhubung dengan [[equity-in-ai-education]] — aks
 **"Siswa yang kesulitan seharusnya cukup belajar menulis prompt dengan lebih baik."** Itu mengubah cacat sistem menjadi defisit siswa. Dengan tugas dasar dipertahankan tetap, akurasi model hanya naik dari **82.4% untuk diksi literasi rendah menjadi 83.4% untuk frasa ahli** — selisih satu poin — sementara menuntut [[prompt-engineering|penulisan prompt]] yang lebih baik menambah pengucilan baru di atas yang sudah ada. Daya ungkitnya ada pada penanganan variasi bahasa di sisi sistem, bukan pada pelatihan prompt yang bersifat remedial.
 
 **"Alat yang dibangun untuk kelas bersumber daya besar akan melayani konteks bersumber daya rendah begitu diterjemahkan."** Konteks mengubah kendala desain. [[suacode-african-students-motivations|SuaCode]] menjangkau siswa di konteks Afrika bersumber daya rendah tempat **kurang dari 1% memiliki keterampilan pemrograman** dengan membangun untuk ponsel pintar alih-alih mesin lab desktop, yang merupakan desain yang berbeda, bukan versi lebih kecil dari desain yang sama.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — lapisan akses konkret (takarir, teks alternatif, kompatibilitas teknologi bantu)
-- [[assistive-technology]] — lapisan alat yang digunakan siswa untuk mengakses konten
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## Artikel terkait
-- [[prompt-privilege-equitable-ai-access-2026]] — Hak Istimewa Prompt: mengukur & memitigasi disparitas aksesibilitas dalam akses LLM
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Pembangkitan pertanyaan bertenaga LLM bagi siswa Tuli dan Gangguan Pendengaran
-- [[text-simplification-its]] — Penyederhanaan Teks untuk Tutoring Cerdas
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: pendamping mengutamakan suara bagi anak dengan gangguan penglihatan
-- [[tactile-statistical-graphs-accessibility]] — Grafik statistik taktil cetak 3D
-- [[pepper-robot-sign-language-lis-2025]] — Robot Pepper mendukung komunikasi bahasa isyarat
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transkripsi video fisika aksesibel matematika dengan Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI bantu bagi siswa dengan gangguan penglihatan
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: Tinjauan pelingkupan teknologi bantu digital bagi mahasiswa neurodivergen di pendidikan tinggi

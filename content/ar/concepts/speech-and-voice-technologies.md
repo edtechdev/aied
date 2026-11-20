@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -101,38 +103,3 @@ ai_assist:
 - **«خدمات الكلام المدفوعة تتفوّق على المجانية.»** **أعادت الخدمتان المجانيتان نصوصًا شبه كاملة (تغطية 87.96% و88.34%، بمعدلي خطأ لفظي 15.23% و15.00%)**، بينما صدّرت الخدمتان المدفوعتان معاينات فقط بتغطية 32%. فالسعر لم يتنبأ بالفائدة، وطبقة الدفع قيّدت المخرج بدل أن تحسّنه.
 - **«أي روبوت محادثة لتعلُّم اللغة يحسّن النطق.»** من بين **عشر دراسات**، لم تحسّن الدقة سوى **روبوتات المحادثة المصمَّمة لتعلُّم اللغة — Andy English bot وXiaoying** — مع **انخفاض في الأخطاء قدره 14% في مقارنة بمجموعة ضابطة**. ولم تُنتج الوكلاء المحادثية العامة المكسب.
 - **«مكاسب الكفاءة الذاتية تعني مكاسب مهارية.»** كان الارتباط بين التقنية والنتائج إيجابيًا مع **توسّط الكفاءة الذاتية جزئيًا: إذ شكّل المسار غير المباشر 69.9% من الأثر الكلي مع بقاء أثر مباشر**. فمعظم الأثر مرّ عبر الثقة، وهي آلية وتحفّظ في الوقت نفسه.
-
-## المفاهيم المرتبطة
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## المقالات المرتبطة
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — مكاسب الدقة من روبوتات تعلُّم اللغة وحدها، وفشل ASR مع الأسماء ذات اللكنة
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — وكيل صوتي هاتفي يُوجَّه إلى قناة التغذية الراجعة نفسها
-- [[asr-english-speaking-feedback-metacognition-2026]] — تغذية راجعة عبر ASR على الكلام: الجودة تتفوق على الكمية، والكفاءة تعدّل من يستفيد (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — الكفاءة الذاتية في النطق تتوسط تغذية الراجعة على النطق المولَّدة بالـ GenAI والاستعداد للتواصل (1,701 متعلّم إنجليزي كلغة أجنبية)
-- [[llm-tts-dialogue-lesson-generation]] — مسار درس بنموذج لغوي كبير + TTS: طابق السرد الاصطناعي صوت المعلم؛ وساعد الحوار الاستيعاب
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — تفاعلات أسلوب التعلّم × صيغة الحوار في الدروس المولَّدة بـ TTS (222 طالبًا)
-- [[ai-interlocutor-l2-spoken-dialogue]] — محاورون بشريون مقابل محاورين ذكاء اصطناعي: monologue مدعوم، واستيعاب، وتحضير نحوي في الألمانية كلغة ثانية
-- [[kutti-ai-voice-first-learning-companion]] — رفاق صوتيّون أوّليون خارج الشبكة بكشف صراع في الزمن الحقيقي للأطفال ضعاف البصر
-- [[agent-voice-accents-k12-group-learning]] — لهجة الوكيل تُشكّل إضفاء الصفات البشرية والتعاون في العمل الجماعي للمرحلتين K-12 (33 معلمًا)
-- [[asynchronous-oral-assessment-2026]] — تقويمات شفهية غير متزامنة: تقويم منطوق قابل للتوسّع، مع تحفّظ بشأن مكاسب التعلّم
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — مراجعة تطرح حجة الشفهيات كتقويم أصيل وحامٍ للنزاهة
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: تقويم صوتي خارج الشبكة في ورش تدريب مهني حيث يُظهر الذكاء الاصطناعي الأدلة لا الدرجات
-- [[student-ai-interaction-consecutive-interpreting-2026]] — أربعة أنماط تفاعل بين متدربي الترجمة الفورية باستخدام دعم ASR/MT
-- [[gpt-item-generation-l2-listening-2026]] — المطالبة مقابل الضبط الدقيق لـ GPT لتوليد مفردات الاستماع للغة الثانية
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — الإيماءة زائد الكلام: لماذا يُغفل التقويم الشفهي القائم على الكلام وحده أدلة على الفهم
-- [[ai-guided-learning-audiovideo-2026]] — سرعة صوتية تكيّفية، وملخصات فيديو حافظة للصوت، وتغذية راجعة على النطق دون وسم
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — توليد أسئلة بنموذج لغوي كبير للمتعلمين الصم وضعاف السمع
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability

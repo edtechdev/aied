@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -93,34 +95,3 @@ AI는 서로 다른 세 지점에서 들어오며, 이들을 뒤섞는 것이 �
 - **"미소는 온기를 뜻한다."** 고통스러운 임상 면담에서 관찰자는 미소를 부조화로 읽고, 안면 동작 탐지기는 그것을 긍정적 정서로 읽습니다. 맥락이 빠진 변수입니다.
 - **"자기보고 척도는 공감을 측정한다."** 그것은 성향이나 자기 개념을 측정하며, 면담에서의 행동을 측정하지 않습니다.
 - **"더 몰입적일수록 항상 더 좋다."** 몰입형 방법은 더 큰 향상을 보이지만, 몇 배의 비용과 시간이 들며, 비교들은 노출을 동등하게 맞추지 않습니다.
-
-## 연결된 개념
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## 연결된 문서
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 대인관계 반응성 지수(IRI)에서 역할극 13.2%, VR 11.6%, AI 대화 8.8%였으나 노출 시간이 교란되어 있음(Zwoliński 외, 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — 신체 접촉 탐지는 관찰자와 일치했고, 미소 탐지는 반대 방향이었음(Nissan 외, 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — 13회의 주고받음 후 자기평가 역량이 d = 0.58 상승했으나 통제 집단이 없었음(Müller 외, 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17개 연구, 자신감 향상은 흔하고 공감 근거는 제한적(Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA와 생성 이미지를 각성 파이프라인으로 쓰면서 공감은 측정하지 않고 주장함(Lim 외, 2024)
-- [[shastry-gray-empathy-offloading-2026]] — AI의 공감 능력에 대한 믿음이 지지를 제공하려는 의지의 저하를 예측함(Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42문항 성향 척도이나 요인 구조가 설계와 맞지 않았음(Kang 외, 2026)
-- [[empathy-coaching-chatbot]] — 공감적 언어가 느껴지는 이해를 높였고, 그것은 행동 변화가 아니라 참여를 예측함(Siyan 외, 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — 프롬프트로 지정한 역할과 움직임이 인식된 공감에서 큰 차이를 낳음(Wang 외, 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 간호학생들이 임상 스트레스 중 AI를 정서적 지지로 묘사함(Akbaba 외, 2026)

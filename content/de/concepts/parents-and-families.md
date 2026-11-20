@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
+connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -99,35 +101,3 @@ Ein [[meta-analysis-systematic-review|Scoping-Review]] 2026 kartiert, wie weit d
 **„Eltern werden bemerken, wenn KI dem Lernen ihres Kindes schadet.“** Sie sind am wenigsten in der Lage, es zu bemerken. In den Daten von [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei und Wu (2026)]] stiegen die Hausaufgabennoten um **18%**, während die Ergebnisse in [[summative-assessment|Prüfungen ohne Hilfsmittel]] innerhalb von sechs Monaten um **20%** fielen — und die steigende Zahl ist die, die zu Hause sichtbar ist. Ein Elternteil, das die Hausaufgaben beobachtet, sieht Verbesserung, während das dauerhafte Ergebnis sinkt.
 
 **„KI-Nutzung zu Hause ist eine Frage elterlicher Erlaubnis.“** Sie ist eine Frage von Kompetenz und Interessenvertretung. Die eigene KI-Kompetenz der Eltern bestimmt, was sie an einem von der Schule ausgegebenen Werkzeug hinterfragen können, und Zugangsungleichheiten zwischen Familien prägen, welche Kinder überhaupt erwachsene Vermittlung erhalten.
-
-## Verbundene Konzepte
-
-- [[developmental-psychology]]
-- [[stakeholders]] — die Überblicksseite für Publika und Akteure in KI in der Bildung
-- [[early-childhood-elementary-ai-education]] — die Entwicklungsdomäne, in der Heim- und Familiennutzung am meisten untersucht ist
-- [[ai-use-disclosure]] — Offenlegungspraktiken und die Frage, was Familien erreicht
-- [[ai-literacy]] — die eigenen Kompetenzen der Eltern und die schulgebauten Rahmenwerke, die sie definieren
-- [[equity-in-ai-education]] — wie Vorteile und Lasten sich über Haushalte verteilen
-- [[digital-divide]] — Zugangs-, Fähigkeits- und Ergebnisebenen, wie sie zu Hause gelten
-- [[conversational-ai]] — die dominante Form, die KI in Familienkontexten annimmt
-- [[self-determination-theory]] — Autonomieunterstützung als Rahmen für Familienrat
-- [[cognitive-offloading]] — abhängiges gegenüber autonomen Offloading, und warum Eltern den Unterschied nicht sehen können
-- [[intelligent-tutoring]] — das Modell hinter KI-vermitteltem Eltern-Kind-Tutoring
-
-## Verbundene Artikel
-
-- [[ai-connectedness-adolescent-mental-health-2026]] — KI-Verbundenheit Heranwachsender und wann KI-Bindung ungedeckte Anerkennung durch Betreuungspersonen ersetzt
-
-- [[paratutor-parent-child-tutoring]] — rollengetrennte LLM-Unterstützung für 23 Eltern-Kind-Dyaden in chinesischem Hausmathematikunterricht
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Begleiter mit fester Peer-Rolle gegenüber Lehrkraft mit 19 Grundschulkindern in Taiwan
-- [[family-school-autonomy-support-genai-2026]] — Review, der Familie-Schule-Koordination als ungeprüfte Hypothese behandelt
-- [[raise-framework-ai-education-reporting-2026]] — Berichtspflichten zu Zustimmung, Teilnehmendenkontext und Gerechtigkeit des Zugangs
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 Lehrende zu Zuständigkeit, Eltern und den Beziehungen von Kindern zu KI-Begleitern
-- [[ai-play-framework-early-childhood-2026]] — Unplugged-KI-Kompetenz, getestet durch ein familienzentriertes Hour-of-Code-Event
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Eltern unter den Befragten; Werkzeugkosten und Sprachbarrieren in informalen Settings
-- [[creative-project-approach-ai-early-childhood-2025]] — physische Agenten für junge Kinder, mit Vorbehalten zu Kosten, Zugang und Privatsphäre
-- [[demir-akar-ai-media-literacy-children-2026]] — Schulprogramm zu Datenschutz, sicherer Kommunikation und Medienethik bei 36 Viertklässlerinnen und Viertklässlern
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Aufnahme stieg von 45% auf 83%, als familienbezogene Schritte entfernt wurden
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Auslagerung von Hausaufgaben, Notenrückgang und das Argument für die Überwachung von Eingaben
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — altersagnostische KI-Kompetenzstufen und die dreistufige digitale Kluft
-- [[llm-family-education-activity-theory-2026]] — LLM-basierte Familienbildung durch die Linse der Aktivitätstheorie charakterisieren: ein Scoping Review der HCI-Literatur

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -88,25 +90,3 @@ ai_assist:
 **"আচরণবাদী নকশা গঠনবাদী নকশার চেয়ে নিছক নিকৃষ্ট।"** সেগুলো নির্দিষ্ট লক্ষ্যে ভালো মানায় — সাবলীলতা, তথ্য-স্মরণ, প্রক্রিয়াগত স্বয়ংক্রিয়তা — যেখানে তাৎক্ষণিক প্রতিক্রিয়া ও পুনরাবৃত্তি সত্যিই কাজটির দাবি। ভুলটি কার্যপদ্ধতিতে নয়; ভুল হলো এমন কার্যপদ্ধতি ব্যবহার করা যার বৈধতার শর্ত (শিক্ষার্থীকেই প্রতিক্রিয়া উৎপাদন করতে হবে) নিঃশব্দে আর খাটে না।
 
 **"যেহেতু তত্ত্বটি বিতর্কিত, এর ওপর গড়া ব্যবস্থা কেবল ফলাফল দিয়েই বিচার করা যায়।"** ফলাফলই ঠিক সেই জিনিস যা আউটপুট সমতুল্যতা নষ্ট করে। একটি ব্যবস্থা চমৎকার আচরণগত ফলাফল প্রতিবেদন করতে পারে, অথচ শিখন অন্যত্র সরে গেছে — তাই আচরণবাদ-প্রভাবিত ব্যবস্থার অন্য যেকোনো ধরনের চেয়ে সহায়তাহীন পরিমাপ বেশি দরকার।
-
-## সংযুক্ত ধারণা
-
-- [[constructivist]]
-- [[cognitive-psychology]] — কগনিটিভিজম, শিখন-তত্ত্বের তৃতীয় ধ্রুপদী মেরু
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-vocational-education-training-review]] — প্রতিশ্রুত গঠনবাদ সত্ত্বেও VET অনুশীলনে আচরণবাদী এআই নকশা প্রাধান্য পায়; "টুরিং ফাঁদ"
-- [[generativism-learning-theory]] — উৎপাদনশীল এআই যে চারটি প্রধান তত্ত্ব নিয়ে পুনর্বিবেচনা ডাকছে তার মধ্যে আচরণবাদ
-- [[ccct-cooperative-learning-technique]] — উচ্চশিক্ষার সমবায়-শিখন নকশায় আচরণবাদের উল্লেখ
-- [[wang-multi-agent-systems-learning-designers-2025]] — সহযোগী বহু-এজেন্ট নকশা পদ্ধতির মধ্যে আচরণবাদী ব্যক্তিত্ব
-- [[sequenced-ai-feedback-learning]] — 199 জন অংশগ্রহণকারীর র‍্যান্ডমাইজড পরীক্ষায় ক্রমিক ইঙ্গিত-প্রতিক্রিয়া তাৎক্ষণিক পূর্ণ-সমাধান প্রতিক্রিয়ার চেয়ে দুর্বল ফল দিয়েছে

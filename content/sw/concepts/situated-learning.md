@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -55,29 +57,3 @@ Mafunzo ya hali halisi inaunganisha kwa karibu na [[embodied-learning]] (zote zi
 - **"Uhalisi ni sifa ya kazi."** Uhalisi ni uhusiano kati ya shughuli na kazi halali ya jamii halisi. Kazi inaweza kuwa tata na bado iwe ya umbo la shule, ikipimwa na mwalimu, kwa alama, bila tokeo lolote katika ulimwengu inao dai kuwakilisha.
 - **"Tathmini inayotokana na kazi inamaanisha hakuna tathmini."** Inamaanisha kigezo ni cha jamii, si cha darasa: kama kazi inakubalika kwa watu wanaofanya kazi hiyo. Hicho ni kigezo tofauti na kwa kawaida kali zaidi kuliko rubriki.
 - **"Uanagenzi unahitaji mazingira ya kimwili."** Utaratibu ni ushiriki wa pembeni halali, kusogea kutoka ukingo wa mazoezi kuelekea kitovu chake ukiwa na uwajibikaji halisi. Mazingira ya mtandaoni na ya kuiga yanaweza kuunga mkono hilo au yanaweza kuiga pembeni bila kuwahi kutoa ushiriki, na tofauti ni kama mchango wa mwanafunzi unatumika kwa kweli.
-
-## Dhana Zilizounganishwa
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — immersive environments as a route to authentic context
-
-## Makala Zilizounganishwa
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Mandhari pamoja na rasilimali zinazoweza kutumika tena zenye asili huwashinda msaidizi wa kawaida katika majaribio mawili
-
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

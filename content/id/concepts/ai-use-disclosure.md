@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -93,42 +95,3 @@ Pernyataan penggunaan dan pengungkapan AI berada di persimpangan [[academic-inte
 - **"Siswa menyembunyikan penggunaan AI karena mereka tidak jujur."** Pendorongnya terdokumentasi dan spesifik: hanya **sekitar 34% mahasiswa ekonomi mengakui penggunaan AI** dengan pengungkapan yang lebih jarang, didorong **kecemasan akan sanksi**, sementara studi lain menemukan **66% tidak pernah atau jarang mengungkapkan** dengan **takut akan sanksi akademik sebagai alasan utama**. Desain kebijakan, bukan karakter, adalah yang disalahkan data.
 - **"Persyaratan pengungkapan adalah kontrol berbiaya rendah."** **Tingkat ketidakpatuhan **74%** membuat catatan yang dihasilkan lebih buruk daripada tanpa catatan: itu adalah kumpulan data yang tampak lengkap tetapi tidak, sehingga institusi mengambil keputusan atas sampel yang tidak dapat dipercayainya.
 - **"Mengungkapkan bagaimana model dipakai sudah cukup."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] berargumen bahwa pengungkapan mendokumentasikan penggunaan model sementara penggunaan yang bertanggung jawab menuntut jaminan kepengarangan pada tingkat klaim — kapasitas kontributor untuk memahami, membenarkan, dan mempertahankan klaim itu — yang memisahkan [[cognitive-offloading|delegasi kognitif]], ketika keluaran membentuk pilihan substantif, dari delegasi rutin, yang tidak.
-
-## Konsep terkait
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — kerugian yang hendak disingkapkan pengungkapan
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — mengapa pembelajar memilih menyembunyikan alih-alih mengungkapkan
-
-## Artikel terkait
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM terbelah: kepastian deteksi vs. risiko bahwa deklarasi mengekspos penggunaan tidak semestinya (Liu dkk. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Arah cermin: memberi tahu siswa kapan AI menilai karya mereka, dan meminta izin sebelum mengunggahnya
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Melampaui deteksi: bagaimana siswa memakai dan menyembunyikan AI dalam penilaian daring
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Pengungkapan AI oleh siswa, stigma, dan pembelajaran teregulasi diri
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Biaya tersembunyi pengungkapan: pengungkapan dan tuduhan dosen
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Ketidakpatuhan siswa terhadap deklarasi penggunaan AI
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Deklarasi sebagai pendidikan alih-alih deteksi
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Biaya kejujuran sebagai ambang desain dalam penilaian
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang seharusnya menilai karya saya? Perspektif siswa tentang penilaian tulisan berbantuan AI yang transparan di pendidikan tinggi
-- [[qian-governing-genai-higher-ed-policy-2026]] — Pengungkapan sebagai batas antara bantuan dan misrepresentasi di 50 universitas Amerika yang inovatif (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Tidak ada konsensus tentang pengungkapan dan sitasi AI dalam kebijakan sekolah hukum (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — Esai penerimaan yang ditulis AI tersebar luas tetapi dihukum
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Tiga belas eksperimen: mengungkapkan penggunaan AI menurunkan kepercayaan pada pengungkapnya, melalui legitimasi
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Ketika aturan pengungkapan tidak cukup: jaminan kepengarangan dan pertimbangan dalam kesarjanaan berbantuan AI (Mirończuk 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Label pengungkapan AI, keaslian yang dipersepsikan, dan kepercayaan pada video instruksional yang dihasilkan AI

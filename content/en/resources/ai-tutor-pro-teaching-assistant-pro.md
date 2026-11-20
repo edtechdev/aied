@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-11-10"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 **AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) and **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) are two free web apps from Contact North | Contact Nord, an Ontario not-for-profit distance-education network. They share a no-registration design, a privacy policy and a ChatGPT backend, but face different users: AI Tutor Pro is a [[intelligent-tutoring|tutoring]] space where learners discuss a topic, check what they know and build a study guide, while AI Teaching Assistant Pro is a production space where instructors generate multiple-choice and essay questions, draft syllabi and teaching notes, and assemble short learning videos. Because both run in the browser without an account and support more than 25 languages, they are unusually easy to try with a class before deciding whether to embed them in an LMS.
@@ -41,12 +42,3 @@ Owston (2026), writing as one of the developers, sets out the design rationale f
 ## Notes and caveats
 
 Both apps are free and require no personal information, but "private and anonymous" is not the same as "no data": Contact North's policy says it collects ChatGPT interaction logs and Google Analytics data, stores them on servers in Canada, does not permit OpenAI to train on them, and shares interaction data with OpenAI, which retains it for up to 30 days. AI Tutor Pro is not recommended for users under 18 without parent or guardian permission. The vendor's interaction counts are its own marketing figures, not independent usage data, and the beta label on Slide Builder means its output should be checked before classroom use. No open-source license is stated, so the code is not available for institutional modification.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -72,35 +74,3 @@ La educación en biología se sitúa dentro del dominio más amplio de la [[stem
 - **«El estudiantado no distingue una IA de un ayudante docente humano.»** Un estudio sobre un ayudante docente de laboratorio virtual encontró que los **ayudantes humanos eran más precisos y eficaces que ChatGPT**, y aun así el estudiantado **prefirió la respuesta de la IA el 40% de las veces** y solo **detectó la salida de IA el 45% de las veces**. La detección estuvo cerca de una moneda al aire y la preferencia se inclinó hacia la fuente menos precisa, así que los datos de satisfacción no pueden sustituir aquí a la calidad.
 - **«La preferencia indica calidad.»** El mismo estudio las separa directamente: la salida preferida era la peor. Cualquier evaluación de una herramienta de IA para biología que informe de la satisfacción del estudiantado sin una medida de exactitud está informando de la cantidad equivocada.
 - **«La alfabetización en IA debe enseñarse como asignatura aparte.»** Integrar conceptos de aprendizaje automático **en un curso de biología de secundaria** encontró que el contexto biológico **apoyaba** el aprendizaje sobre IA: evidencia a favor de integrar la alfabetización en IA en el currículo en lugar de añadirla como una unidad independiente. La disciplina dio a los conceptos algo a lo que anclarse.
-
-## Conceptos conectados
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Artículos conectados
-- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluación del rendimiento de los grandes modelos de lenguaje en preguntas abiertas: capacidades de respuesta y de corrección
-- [[biology-degree-integrity-genai-cheating-2026]] — ¿Puede el estudiantado hacer trampas hasta obtener un título de biología? Estudio de caso de la vulnerabilidad de las notas de los cursos de biología a la deshonestidad académica en la era de la IA generativa
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT como asistente docente virtual de laboratorio
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Revisión de las herramientas de IA en la educación biológica
-- [[critical-thinking-biological-sciences-ai-2025]] — El pensamiento crítico en las ciencias biológicas y la IA
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT en cursos de biología y matemáticas basados en retos
-- [[zha-ai-literacy-biology-case-study]] — Educación en alfabetización en IA en una clase de biología
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Mejora de las habilidades de argumentación alineadas con PISA de futuros docentes de biología mediante inteligencia artificial generativa

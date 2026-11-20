@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -91,34 +93,3 @@ UDL, “öğreneni düzeltmeyi” “tasarımı düzeltmeye” dönüştürür. 
 **“UDL, ortalama öğrenci için daha dikkatli tasarım yapmak demektir.”** Çekirdek iddia bunun tersidir: öğrenen değişkenliği istisna değil kuraldır, bu nedenle tasarım zorlananlar için tek bir yolu düzeltmek yerine baştan itibaren birçok yol sunar. UDL'nin yerini almak için var olduğu şey sonradan uyarlamadır ve tek bir iyi ayarlanmış yol hâlâ tek bir yoldur.
 
 **“YZ UDL'yi otomatik kılar, çünkü alternatif biçimler üretebilir.”** Temsil ilkesini ucuzlatır ve bağlılık ile ifadeyi olduğu gibi bırakır. Metni sese dönüştürmek üç yoldan birini ele alır; bir ders artık tümüyle çok biçimli olabilir ve yine de her öğrenciden öğrenmesini aynı tek biçimde göstermesini isteyebilir.
-
-## Bağlı kavramlar
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Bağlı makaleler
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Öğrenme güçlüğü çeken öğrencilerde GenAI bilişsel bel bağlama
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Erişilebilirlik için dokunusal istatistiksel grafikler
-- [[neurodivergent-computing-students]] — Nörodiverjan bilişim öğrencileri
-- [[ai-learning-tools-engineering-education-needs]] — İhtiyaç ve dikkat temelli YZ öğrenme araçlarının tasarlanması
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Kuveyt'in yükseköğretim kurumlarında yapay zeka ve evrensel tasarımla öğrenme: kapsayıcı eğitim için YZ destekli bir çerçeveye doğru

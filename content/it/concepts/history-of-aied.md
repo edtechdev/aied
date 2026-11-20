@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -50,7 +52,6 @@ La storia del campo non è una progressione lineare ma una serie di decisioni co
 **Due forme di personalizzazione.** La [[personalized-learning|personalizzazione]] ha due interpretazioni distinte che si sovrappongono a queste visioni. La prima mantiene esiti uniformi variando il percorso (radicata nelle macchine per insegnare di Skinner; la visione di Khan Academy del tutoraggio verso la padronanza). La seconda abbraccia esiti diversi — studenti che perseguono interessi e talenti individuali, non vincolati dai confini di un [[curriculum-design|curricolo]] standard (Zhao, 2024). Il modello ITS supporta la prima; il costruttivismo la seconda.
 
 **Lezioni per l'era della GenAI.** I dibattiti odierni sull'IA generativa rispecchiano da vicino queste tensioni storiche. La GenAI è spesso posizionata come un tutor intelligente di prossima generazione (estensione di Anderson), sollevando preoccupazioni su sorveglianza, raccolta dati e standardizzazione. In alternativa può essere uno strumento per l'agentività creativa (estensione di Papert), richiedendoci di ripensare la valutazione e di accettare esiti più ambigui. Come concludono [[mishra-control-vs-agency-history-2025|Mishra et al.]], le forze istituzionali favoriscono ripetutamente approcci che rafforzano le strutture esistenti — e il linguaggio e le metafore che scegliamo plasmeranno le possibilità future. Il framework AI×Ed di [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] dà fondamento empirico a questa intuizione: collocando gli articoli dei proceedings di AIED (1985, 1993, 2021, 2024) e di IJAIED (2004, 2014, 2021) lungo due assi — il ruolo dell'IA (strumento applicato vs. analogia con l'intelligenza umana) e l'utente finale — essi tracciano un campo che si è mosso da un mix diversificato, inclusa una sostanziale ricerca iniziale che usava l'IA come analogia dell'intelligenza umana (modelli computazionali dell'apprendimento, i micromondi di Papert, modelli ad agenti dell'acquisizione di conoscenza), verso un focus quasi esclusivo sugli usi applicati e strumentali entro gli anni 2000. In modo notevole, l'era dell'IA generativa sembra invertire parzialmente quella traiettoria: ad AIED 2024, tre dei quattro articoli nel quadrante "IA-come-analogia" del campo erano basati su LLM, incluso il lavoro di best-paper sugli [[learning-by-teaching|agenti insegnabili]] basati su LLM.
-
 
 **Il registro delle riviste gira due volte.** Un modello di argomento strutturale su 5.387 articoli di *Computers & Education* (1976–2026) ha trovato l'IA in 390 record (7,2%), in 17 dei suoi 18 argomenti. Le probabilità annuali che un articolo fosse legato all'IA sono cresciute del 21,8% all'anno fino al 1989, sono calate del 3,7% all'anno fino al 2018, poi sono risalite del 40,1% all'anno fino al 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). La svolta del 2018 precede ChatGPT di quattro anni, quindi l'era generativa ha accelerato una tendenza già in corso anziché avviarne una.
 
@@ -102,30 +103,3 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 
 - Usa i corpora storici come base di confronto anziché trattare il presente come l'unico confronto disponibile. I proceedings AIED del 1985, 1993, 2021 e 2024 e IJAIED del 2004, 2014 e 2021 sono un campione longitudinale già pronto delle affermazioni del campo stesso.
 - Cita la discendenza quando rivendichi novità. Un'affermazione che un sistema "personalizza l'apprendimento" o "modella lo studente" è nuova solo rispetto a una specifica tradizione precedente, e la tradizione è documentata.
-
-## Concetti collegati
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Articoli collegati
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fifty years of AI's reach into computers and education: a topic-model history of Computers & Education (Wu et al. 2026)

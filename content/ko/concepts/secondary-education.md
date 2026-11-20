@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [k-12, primary-education, undergraduate-education, intelligent-tutoring, academic-integrity, ai-detection, automated-assessment, assessment-validity, ai-literacy, help-seeking]
+connected_articles: [one-click-away-khanmigo-two-year-school-experiment-2026, ai-tutoring-micro-rct-gcse-science-2026, leite-its-k12-meta-analysis-2025, ai-supported-instruction-stem-meta-analysis-2026, genai-learning-motivation-meta-analysis-2026, kreijkes-llm-note-taking-reading-comprehension-2026, jansen-argumentative-writing-feedback-receptivity-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cuenca-rodriguez-genai-use-caution-trajectories-2026, schaller-ai-text-detection-authentic-writing-2026, chan-rethinking-aigiarism-secondary-integrity-2026, ai-marking-accuracy-gcse-physics-2026, porcaro-ai-grading-benchmark-2026, wu-genai-scientific-literacy-china-2026, student-motivation-need-satisfaction-genai-sdt-2026, perez-montesdeoca-genai-secondary-systematic-review-2026, wu-genai-secondary-innovation-digital-literacy-2026, zhang-ai-learning-tools-tpb-high-school-2026, schicchi-high-school-genai-attitudes-scale-2026, torres-peralta-perceived-learning-engagement-homework-2026, cho-chatgpt-high-school-gpa-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -125,41 +127,3 @@ ai_assist:
 - **"탐지는 AI가 어떤 문장을 썼는지 알려 줄 수 있다."** 문장 수준 F1은 0.88로 떨어졌고, 학생 문체로 한 번 다시 쓰자 재현율은 0.60으로 하락했으며, 복사한 재료 없이 챗봇 사용 뒤에 쓴 텍스트는 94.6%의 경우 인간이 쓴 것으로 읽혔습니다.
 
 - **"비판적 [[ai-literacy|AI 리터러시]]는 대학까지 기다릴 수 있다."** 사용은 12세에서 17세까지 매년 늘지만 지각된 신뢰성은 제자리이며, 8~9학년의 2시간 워크숍은 이틀 뒤 프롬프트 작성과 후속 질문 행동을 바꿨습니다.
-
-## 연결된 개념
-
-- [[k-12]] — 초등과 중등 학교 교육을 아우르는 상위 구간.
-- [[primary-education]] — 발달적합성이 지배하는 이전 구간.
-- [[undergraduate-education]] — 대규모 수강 강의와 지도가 이어받는 다음 구간.
-- [[intelligent-tutoring]] — 대부분의 중등 성취 시험 뒤에 있는 시스템 부류.
-- [[academic-integrity]] — AI 보조 과제를 위한 정책과 추론의 틀.
-- [[ai-detection]] — 텍스트 및 응답 패턴 방법, 그리고 그 한계.
-- [[automated-assessment]] — 채점과 점수화, 그리고 그것을 사용 가능하게 하는 인간 배정을 포함.
-- [[assessment-validity]] — 점수나 벤치마크가 지지할 수 있는 것.
-- [[ai-literacy]] — 사용과 이해를 가르는 지식과 조절 습관.
-- [[help-seeking]] — 어려움의 순간에 튜터가 사용되는지를 결정하는 행동.
-
-## 연결된 문서
-
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 테네시 중학교 18곳에서의 2년 군집 시험.
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — GCSE 과학에서 Medly의 4주 다기관 무작위 대조 시험.
-- [[leite-its-k12-meta-analysis-2025]] — 미국 지능형 튜터링 실험 18건과 시간에 따른 감쇠.
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — 수준별 AI 지원 STEM 교수 연구 35건.
-- [[genai-learning-motivation-meta-analysis-2026]] — 중등을 하위 집단으로 한 동기 통제 연구 42건.
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 영국 학교 7곳에서의 사전 등록 읽기 실험.
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 학생 1,507명, 피드백 메시지 하나, 그리고 수정 이득.
-- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 답을 보류하는 어시스턴트와 글을 쓰는 7학년 122명.
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 행동으로 측정한 8~9학년 2시간 워크숍.
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 12~25세 학생 1,598명; 사용이 신중함보다 먼저 오름.
-- [[schaller-ai-text-detection-authentic-writing-2026]] — 텍스트 수준과 문장 수준 탐지의 PISA 2025 키스트로크 연구.
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 목적과 의도를 추론하는 홍콩 학생 133명.
-- [[ai-marking-accuracy-gcse-physics-2026]] — AQA 점수와 교사 패널에 대한 상용 채점기.
-- [[porcaro-ai-grading-benchmark-2026]] — 속이기, 라벨 효과, 일치도를 시험한 22개 모델.
-- [[wu-genai-scientific-literacy-china-2026]] — PISA 2025 과학 리터러시와 챗봇 사용 목적.
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — 7~8학년 독일 학생 2,464명.
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33건 PRISMA 검토; 사용 연구 26건 대 영향 연구 7건.
-- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 7~12학년 학생 500명; 자기 평정 사용 깊이와 역량.
-- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 항저우 학생 513명; 의향이 아니라 실행 시점의 불안.
-- [[schicchi-high-school-genai-attitudes-scale-2026]] — 이탈리아 학생 93명의 19문항 태도 척도; 파일럿 측정.
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 응답자 1,477명; 참여 지수에 대한 지각된 학습.
-- [[cho-chatgpt-high-school-gpa-2025]] — 과목, 학교 유형, 사회경제적 지위별 GPA 연관.

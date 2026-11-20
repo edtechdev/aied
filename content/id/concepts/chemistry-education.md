@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -71,40 +73,3 @@ Pendidikan kimia berada dalam domain [[stem-education]] yang lebih luas dan bany
 **"Menambahkan AI ke pelajaran inkuiri yang sudah ada tidak bisa merugikan."** Bisa, dan perbandingan yang menunjukkan manfaat itu lebih sempit daripada kesan yang ditimbulkannya. [[context-based-ai-secondary-chemistry-2026|Abdikayumova dan Madybekova]] memadukan **model instruksional 7E** dengan simulasi PhET *dan* tutoring ChatGPT untuk kimia Kelas 10 dan menemukan prestasi serta keterlibatan yang secara signifikan lebih tinggi daripada pengajaran inkuiri saja atau pengajaran konvensional. Perlakuan itu adalah kombinasi terstruktur — model instruksional ditambah simulasi ditambah tutoring — bukan chatbot itu sendiri, dan chatbot yang ditambahkan ke inkuiri tak terstruktur tidak teruji oleh hasil tersebut.
 
 **"Kimia adalah mata pelajaran yang jawabannya dapat diperiksa, jadi kesalahan AI tidak berbahaya."** Jawaban yang dapat diperiksa justru adalah cara penalaran yang salah lolos tanpa terdeteksi: siswa yang menerima nilai benar dari model yang bernalar buruk tidak punya cara untuk mendeteksi kekurangan itu, dan penilaian mencatat keberhasilan. Dalam disiplin kuantitatif, titik akhir yang dapat diverifikasi adalah bukti pemahaman yang paling lemah yang tersedia.
-
-## Konsep terkait
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
-
-## Artikel terkait
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Tinjauan sistematis AI dalam pendidikan sains/kimia
-- [[unesco-ai-guidelines-chemical-education-2026]] — Menerjemahkan pedoman AI UNESCO ke pendidikan kimia
-- [[context-based-ai-secondary-chemistry-2026]] — Berbasis konteks + AI dalam kimia sekolah menengah (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — Desain eksperimen yang didukung AI dalam kimia praktik
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Peran instruktur dan AI dalam penilaian formatif yang diperkuat ChatGPT
-- [[philosophy-experimentation-ai-chemistry-2026]] — Filsafat eksperimentasi dalam kimia dengan AI
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -93,26 +95,3 @@ ai_assist:
 - **«Латентний профільний аналіз виявляє групи, які існують.»** LPA перетворює різноманітність здобувачів із риторичного твердження на вимірювану знахідку, а профілі є **моделлю континууму, поділеного на вибраних межах**, а не природними видами. Кількість профілів — це аналітичне рішення.
 - **«Будь-який член родини латентних змінних підходить.»** Те, який використати, **випливає з індикаторів**: **LCA для категоріальних індикаторів**, LPA для неперервних. Вибір методу спершу й індикаторів потім робить результат артефактом вибору.
 - **«Профілі порівнянні між дослідженнями.»** Chen та колеги профілювали **128 тайваньських майбутніх учителів** за п’ятьма конструктами [[technology-acceptance-model|TAM]]/UTAUT2, тоді як Acquah та колеги профілювали **509 ганських студентів**. Різні індикатори в різних популяціях не дають співмірних ярликів профілів.
-
-## Пов’язані поняття
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## Пов’язані статті
-- [[ai-attitude-latent-profiles-career-development-2026]] — Докази утримання за Lo–Mendell–Rubin для чотирьох профілів ставлення до ШІ серед 379 студентів бізнесу
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Трихвильовий аналіз латентних профільних переходів психологічної адаптації
-- [[liang-ai-learning-motivation-sdt-2026]] — Аналіз латентних переходів трьох профілів мотивації упродовж року
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Профілі за k-means; розбіжність силуета та Calinski–Harabasz; ARI 0,989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Ієрархічне та k-means кластеризування на чотири персони упровадження GenAI
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Чотири профілі переконань викладачів щодо ШІ за 40 680 викладачів у 49 системах, зі стійкістю узгодження

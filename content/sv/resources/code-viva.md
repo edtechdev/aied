@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -40,7 +41,3 @@ Lärare i programmeringskurser som vill ha belägg för att en student kan förk
 ## Anteckningar och förbehåll
 
 Allt körs i webbläsaren: kursen ligger i local storage med en JSON-export, frågor färdas i den del av en länk som webbläsare inte skickar till servrar, och svar kommer bara tillbaka som koder studenterna väljer att skicka, så inga studentdata når en tredje part. Frågegeneratorn är regelbaserad snarare än modelldriven. Enligt verktygets egen beskrivning är dess kodläsare heuristisk, så ovanlig formatering eller makron kan dölja en funktion, och en poäng kan belöna att man kan vokabulären snarare än att man förstår koden, vilket är skälet till att poäng är förslag som en lärare godkänner och till att det råder att hålla insatserna låga. Ingen licens och inget källkodsförråd publiceras, och eftersom länkarna bär frågorna blir de några kilobyte, tillräckligt långa för att radbrytas i en meddelanderuta i ett lärplattformssystem.
-
-## Anslutna begrepp
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

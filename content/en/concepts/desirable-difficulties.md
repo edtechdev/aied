@@ -15,6 +15,8 @@ ai_assist:
 
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
 ---
 
 > **Desirable difficulties** — the finding (Bjork) that harder, effortful retrieval conditions — spacing, [[retrieval-spacing-interleaving|retrieval practice]], interleaving, and generation — improve long-term learning more than easier, massed conditions — is the theoretical counterweight to AI that smooths away [[cognitive-offloading|cognitive work]]. In the AI era the principle warns that tools which eliminate productive struggle may raise immediate performance while undercutting durable learning. **Desirable difficulties, cognitive friction, and productive friction are used as overlapping synonyms** for this intentional effort: they are treated as the same core idea viewed from different fields, with the nuances between the labels spelled out in the section below. Closely allied concepts — **confusion**, and **productive struggle** — mark the zone where this effortful processing is expected (and desirable) to occur.
@@ -100,49 +102,3 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 **"Cognitive friction and productive struggle are the same idea."** They come from different literature and make different predictions. Productive struggle concerns effortful sense-making that builds understanding; cognitive friction concerns the mismatch between what a task demands and what the learner's current resources support. Treating them as synonyms loses the diagnostic question — is this learner struggling in a way that builds, or blocked in a way that only costs?
 
 **"If removing struggle raises immediate performance, the intervention worked."** This is the trade-off the whole page is about: performance measured in the presence of the support is systematically inflated relative to later unassisted performance. Any evaluation of an AI that reduces effort must measure at delay and without the tool, or it will report the removal of practice as the production of learning.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — Why the effortful order outperforms the fluent one
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[automation-bias]] — The failure productive friction is designed to prevent
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[scaffolding]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[affective-computing]]
-- [[active-learning]]
-- [[constructivist]]
-- [[motivation]]
-- [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — the operational techniques that instantiate this principle: testing effect, spacing, interleaving
-
-## Connected Articles
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[structured-llm-feedback-programming]]
-- [[generative-ai-reduced-study-time-math]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[sequenced-ai-feedback-learning]]
-- [[critical-thinking-genai-scaffolding]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Self-explanation prompts added to already-elaborated AI feedback: doubled time, no learning gain (Asher, Gold & Carvalho 2025)
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework scores rise while exam scores fall, with the full cost after two years (Strömberg, Lei & Wu 2026)

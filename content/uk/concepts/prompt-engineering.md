@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -103,59 +105,3 @@ ai_assist:
 - **«Якість підказки — це атрибут студента.»** **Когніція підказок відстежує дисципліну, а не студента**: [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] класифікували **60 087 підказок зі 116 курсів** і виявили, що дисципліна передбачала складність підказок. Навчання студентів складати кращі підказки адресує варіацію, що лежить у самому предметі.
 - **«Студенти розвивають власну практику складання підказок.»** Коли викладач моделював підказку, **студенти відтворювали її дослівно** — серед **310 записаних підказок від дванадцяти середньошкільних груп STEAM** точне копіювання інструкції викладача було частим. Моделювання породжує відтворення, тому це важіль проєктування системи, а не навичка, що переноситься.
 - **«Складання підказок — це навичка здобувача перш за все, а властивість системи — по-друге.»** Це зрушує складання підказок **в адаптивний важіль проєктування системи**, з виміряними ефектами на **залученість та ефективність (28.1% проти 19.6% конверсії вправ)**. Афорданси складання підказок в інтерфейсі зрушили поведінку сильніше, ніж інструкція про складання підказок.
-
-## Пов’язані поняття
-
-- [[pedagogical-patterns]] — Шар скаффолдингу всередині послідовностей структурованого використання
-- [[vibe-coding]]
-- [[guardrails]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[ai-technologies]] — Парасолька: технології та методи ШІ (моделі, навчання LLM, робототехніка, RAG, агентика)
-
-## Пов’язані статті
-
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 студенти про те, що вважають складним: узгодження наміру, а не синтаксис підказок
-
-- [[wang-teacher-student-centered-agents-physics-2026]] — Підказки ролі та обмежень агента як змінна проєктування в навчанні фізиці (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
-- [[aaai2026-prompting-literacy-k12]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[ecd-prompts-automated-essay-scoring-2026]] — Використання Evidence-Centered Design для керівництва інженерією підказок у вимірюванні: ілюстрація на автоматизованому оцінюванні есе
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Розмиті підказки породили цикли уточнень, що повторюють самі себе, з найбільшим розривом фрустрації
-
-- [[middle-school-genai-steam-interactions-2026]] — Середньошкільні групи STEAM дослівно копіювали інструкцію викладача в 47.1% підказок
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Компетентність інженерії підказок як шлях до справедливості, з кроспмодельним експериментом зі скаффолдингу (Li et al. 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Грамотність підказок як сприйнята здатність, що все одно передбачає залученість
-

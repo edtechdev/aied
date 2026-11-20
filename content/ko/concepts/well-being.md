@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -72,7 +74,6 @@ ai_assist:
 
 되풀이되는 주제는 웰빙이 AI 교육에서 의도적인 설계 고려사항이어야지 사후 고려가 아니라는 것입니다. 이것은 다음을 의미합니다: AI가 인간 관계를 대체하기보다 지원하도록 설계하는 것; 학생이 [[anxiety-and-stress|AI 유발 불안]]이나 과잉 의존을 경험하기보다 주체성과 자신감을 유지하게 하는 것; AI를 통합하는 교육자의 역량과 웰빙을 뒷받침하는 것; 그리고 [[learning-gains|학습 결과]]뿐 아니라 AI 시스템의 학생과 교사 웰빙에 대한 효과에 대해서도 [[ai-ed-evaluation|AI를 평가]]하는 것. [[research-methods-aied|연구]]는 웰빙을 [[motivation]], [[self-regulated-learning]], [[student-experience]](소속과 참여)에 연결합니다. [[daoism-ai-education-philosophy-2026|Xie(2026)]]은 여기에 맞는 교육적 목적을 주장합니다: 도가의 "Zhenren"(真人) 반이상이 마찰 없는 최적화를 "기른 전체성"으로 대체하고, 학습을 자아, 사회, 우주의 조화로운 통합으로 재구상하며, "어떤 학생도 단지 관리될 데이터셋이 아니라 평정을 이룰 수 있는 전체 존재"임을 고집합니다.
 
-
 **사회정서적 증거 기반은 누가 행동해야 하는지를 말하지 않습니다.** AI와 [[social-emotional-learning|사회정서 학습]]이 교차하는 지점의 65개 연구에 대한 [[meta-analysis-systematic-review|체계적 검토]]는 거의 4분의 3이 정책적 함의를 언급하지 않았고, 언급한 소수도 프라이버시, [[teacher-education|교사 훈련]], 자원 배분에 대해 행위자별 지침을 거의 제공하지 않았음을 발견했습니다([[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]). 따라서 설계 고려사항으로서의 웰빙은 효과에 관한 증거는 있으나 책임에 관해서는 거의 없으며, 누가 그것을 위해 설계할 것인가라는 질문을 문헌이 아니라 기관에 남깁니다.
 
 한 개념적 재틀짐은 [[self-regulated-learning|정서 규제]] 지원을 정서 탐지만이 아니라 신체 활동과 캠퍼스 생태에 근거시킵니다: 어떤 단일 표현 채널도 맥락 없이는 고통을 식별하지 못하므로, AI는 운동을 통해 규제를 지원하고 해석은 교사와 상담사가 유지해야 하며, 정서 감시는 출석이나 채점에 묶이는 순간 강제적이 됩니다([[ai-emotion-regulation-sport-exercise-2026|Zhang 등(2026)]]).
@@ -90,47 +91,3 @@ ai_assist:
 - **"학생의 승인은 웰빙이 뒷받침되고 있음을 보여 준다."** **1학년 학생 551명** 가운데 **82.76%가 디지털·지능형 내용의 통합을 승인**했으며, **높은 승인은 부담과 공존했고 AI 과업 압력은 그 이익을 약화시켰습니다**. 승인과 부담이 함께 오르므로, 만족도 조사는 바로 이 지점에서 오도합니다.
 - **"복지 지원은 문화적으로 중립적이다."** [[culturally-aware-student-stress-chatbot-2026|Bashir와 Afzal(2026)]]은 하이브리드 웰빙 지원 도구인 Sukoon을 **문화적으로 상황화된** 것으로 설명하며, 이 페이지 자체의 틀짓도 그 한계를 지적합니다. 보편적 학생을 가정하는 지원 설계는 그 모집단을 잘못 읽습니다.
 - **"과업 압력은 기술과 별개다."** 발견은 AI **과업 압력**이 통합의 이익을 약화시켰다는 것이며, 이것은 업무 부하를 기술의 효과 옆이 아니라 그 안에 놓습니다.
-
-## 연결된 개념
-
-- [[learners]] — 학습자: 학습자 측 개념들의 우산
-- [[anxiety-and-stress]]
-- [[student-experience]]
-- [[social-emotional-learning]]
-- [[affective-computing]]
-- [[ethics]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[student-support-and-success]] — 상담, 외연, 의뢰에 걸친 캠퍼스 지원 서비스
-
-## 연결된 문서
-
-- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 교사 350명: AI-TCK는 직무 만족도를 높이고 AI-TK는 낮추며, 만족도가 웰빙으로 가는 유일한 경로 (Kayalı et al., 2026)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 마찰, 의미, 그리고 생물학적 신호로서의 외로움
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI 불안과 학업 동기의 관계
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI 지원 일본어 학습에서의 심리 적응 프로파일과 전이
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 대화형 AI 참여와 의존에 대한 비판적 서사 종합
-- [[mindful-llm-math-tutoring-2026]] — 문제 해결을 넘어: 수학 학습을 위한 정서적·성찰적 지원을 위한 대형 언어 모형
-- [[sec-ai-literacy-narrative-review-2026]] — AI 리터러시에 사회정서 역량 통합하기
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — GenAI와의 학생 참여(SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — AI 리터러시를 위한 교사 교육(SDT)
-- [[genai-motivation-engagement-2026]] — 생성 AI, 동기, 참여
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI 챗봇, 집합적 효능감, 협력
-- [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: 학생 불안의 LLM 증강 평가(2026)
-- [[policy-deficit-ai-sel-2026]] — AI × SEL 연구의 정책 결손
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 기계 학습을 사용하는 파키스탄 대학 학생들 사이에서 스트레스 탐지와 웰빙 지원을 위한 AI 기반 문화 인식 챗봇
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: AI 교육을 위한 방법으로서의 도가
-- [[ai-emotional-intelligence-teacher-development-2026]] — AI 지원 교사 발달의 기준으로서의 관계 밀집화
-
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 높은 AI 강좌 승인이 자기보고 부담과 공존하고, 과업 압력이 적응을 약화시킴
-- [[ai-connectedness-adolescent-mental-health-2026]] — AI 연결성과 청소년 정신 건강: 보완적 대 보상적 유대, 역U자 예측 포함
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 지각된 AI 보조 도구 지능, 목표 진행, 정신 건강, 조절변수로서의 AI 리터러시
-- [[ai-emotion-regulation-sport-exercise-2026]] — 스포츠, 운동, 캠퍼스 생태를 통한 AI 지원 정서 규제의 개념적 재틀짐
-- [[faculty-ai-well-being-social-supports-2026]] — 교원 AI 웰빙의 구조 방정식 모형: 자기효능감에 대한 AI 리터러시의 우세
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 학생 819명이 챗봇을 높게 평가하면서도 인간 연결의 상실을 가장 크게 우려했다
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — 시험 불안은 제거되는 것이 아니라 재분배된다
-- [[fang-chatbot-psychosocial-extended-use-2025]] — 4주, 9개 조건, 유의미한 결과 효과 없음; 자발적 사용 시간이 해를 추적함 (Fang et al. 2025)
-- [[folk-dunn-chatbot-companionship-loneliness-2026]] — 12개월, 4차 조사: 단일 문항에서 사용이 고립을 예측했고, 외로움은 양쪽 모두에서 사용을 예측함 (Folk & Dunn 2026)

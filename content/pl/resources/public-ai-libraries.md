@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -46,13 +47,3 @@ Biblioteki publiczne, które chcą hostować kiosk (program przyjmuje zgłoszeni
 - Uczestniczące biblioteki wnoszą **\$1,000 na wdrożenie kiosku rocznie**; sam pilotaż ogranicza się do zgłoszonych lokalizacji.
 - Oświadczenie o prywatności jest twierdzeniem programu, a nie zbadanym ustaleniem; biblioteka powinna potwierdzić warunki przechowywania danych i bezpieczeństwa dzieci w swojej własnej umowie o przetwarzaniu danych.
 - Druga i trzecia faza planu działania, pozwalające bibliotekom wczytywać lokalne archiwa i zarządzać powstałymi systemami, są planowane, a nie wdrożone.
-
-## Powiązane pojęcia
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

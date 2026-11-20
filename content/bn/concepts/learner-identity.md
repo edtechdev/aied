@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -41,7 +43,6 @@ ai_assist:
 পরিচয় একটি প্রেরণামূলক ও বিকাশগত গঠন, যা সংশ্লিষ্ট সামর্থ্য ও বিশ্বাস থেকে পৃথক (তবে যুক্ত)। যেখানে [[self-efficacy]] প্রশ্ন করে *আমি এটি করতে পারি?*, পরিচয় প্রশ্ন করে *আমি কে — এবং আমি কে হয়ে উঠছি?* এটি গঠিত হয় অংশগ্রহণ, স্বীকৃতি ও লেখকত্বের মধ্য দিয়ে — কোনো ক্ষেত্রে নিজেকে প্রতিফলিত দেখার এবং সেই আত্ম-দৃষ্টিকে বৈধতা পাওয়ার মধ্য দিয়ে। এআই সেই শর্তগুলো নতুন করে সাজায় যার অধীনে পরিচয় গঠিত হয়, কারণ এটি বদলে দেয় *কে কাজটি করে*, *কী নিজের অবদান হিসেবে গণ্য হয়*, এবং *একজন শিক্ষার্থী নিজের শিখনের লেখক হিসেবে স্বীকৃতি বোধ করে কি না*। এতে পরিচয় একটি প্রথম-ক্রমের নকশা-প্রশ্ন হয়ে ওঠে, প্রান্তিক কোনো "নরম" উপাদান নয়।
 
 - **লেখকত্ব ও দক্ষতা হুমকির মুখে।** এআই যখন পাঠ্য, ছবি বা কোড উৎপন্ন করে, শিক্ষার্থীরা প্রশ্ন করতে পারে ফলাফলটি সত্যিই "তাদের" কি না — যা পরিচয়ের লেখকত্ব-মাত্রার প্রতি একটি চ্যালেঞ্জ। **[[t2i-competence-paradox-2026|Liu প্রমুখ (2026)]]** টেক্সট-টু-ইমেজ জেনএআই ব্যবহারকারী শিল্প ও ডিজাইন শিক্ষার্থীদের মধ্যে একটি *দক্ষতা-কূটাভাস* নথিভুক্ত করেন: টুলগুলো সহজ ও উপযোগী মনে হয়, তবুও তাদের ব্যবহার একইসঙ্গে হাতের কারিগরি ও লেখকত্ব থেকে শিক্ষার্থীরা যে **সৃজনশীল পরিচয়** পান তা হুমকির মুখে ফেলে, ফলে সহজতার সঙ্গে আত্মমূল্যের মধ্যে একটি প্রকৃত টানাপোড়েন তৈরি হয়।
-
 
 লেখকত্বের প্রতি কেবল হুমকি নয়, লেখকত্বের একটি আলাদা শর্তও: যখন আত্ম-গঠনমূলক সংলাপ অভ্যাসগতভাবে একটি কথোপকথন-মডেলের উপর ন্যস্ত হয়, লেখকেরা যুক্তি দেন লেখকত্বের সমন্বয়মূলক কাজটি তখন *অর্পিত*, অনতিক্রান্ত বা অনুপস্থিত নয় — একটি আত্ম যা ঘন স্বরযুক্ত অথচ অনা-লিখিত, এবং তাঁদের মতে বিদ্যমান গঠনগুলোর এ জন্য কোনো ঘর নেই ([[synthetic-position-self-authorship-2026|Du প্রমুখ (2026)]])।
 - **লজ্জা ও গোপন ব্যবহার।** **[[shame-guilt-ai-regulation-computing-education|Lin প্রমুখ]]** দেখান, কম্পিউটিং শিক্ষার্থীরা এআই-ব্যবহার নিয়ে লজ্জা ও অপরাধবোধ অনুভব করেন, যা সামাজিক নিয়ন্ত্রক হিসেবে কাজ করে *লুকানো* ও বাছাই করা স্বীকারোক্তি চালায় — এমন আচরণ যা একাডেমিক পরিচয় খণ্ডিত করতে পারে এবং শিখনে সৎ সম্পৃক্ততা ক্ষুণ্ণ করতে পারে।
@@ -87,38 +88,3 @@ ai_assist:
 **"এআই-সহায়তা বাধা কমায় এবং তাই অংশগ্রহণ বিস্তৃত করে।"** এটি কাজ উৎপাদনের বাধা কমাতে পারে, অথচ লেখকত্ব দাবি করার বাধা সংকুচিত করে। যে শিক্ষার্থী এমন একটি সাবলীল নির্মাণ জমা দেয় যা সে লেখেনি, সে ফলাফলে প্রবেশাধিকার পেয়েছে কিন্তু সেই স্বীকৃতি থেকে বঞ্চিত হয়েছে যা তার পেছনের পরিচয় গড়ে তোলে।
 
 **"শিক্ষার্থীর পরিচয় স্বীকৃতি মানে বিষয়বস্তুতে প্রতিনিধিত্ব।"** প্রতিনিধিত্ব গুরুত্বপূর্ণ, আর স্বীকৃতি প্রয়োগে সম্পন্ন হয়: কার প্রশ্ন গ্রহণ করা হয়, কার অবদান স্বীকৃত হয়, আর কাকে সক্ষম হিসেবে গণ্য করা হয়। একটি [[curriculum-design|পাঠ্যক্রম]] প্রতিনিধিত্বমূলক হতে পারে অথচ পরিচয়-গঠনের প্রয়োজনীয় স্বীকৃতি আটকে রাখতে পারে।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-কেন্দ্রিক ধারণাগুলোর ছাতা
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## সংযুক্ত নিবন্ধ
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 জন স্নাতক শিক্ষার্থী: তারা কী নিজেরা করতে থাকে, এবং উদ্দেশ্য কেন তা কমই নির্ধারণ করে
-- [[guarded-adoption-genai-higher-education-2026]] — উচ্চশিক্ষায় জেনারেটিভ এআই-এর সতর্ক গ্রহণ
-- [[t2i-competence-paradox-2026]] — দক্ষতা-কূটাভাস: টেক্সট-টু-ইমেজ জেনএআই-ব্যবহারে সৃজনশীল পরিচয়
-- [[shame-guilt-ai-regulation-computing-education]] — এআই-ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
-- [[lodge-adaptive-capabilities-genai-future-2026]] — জেনএআই-ভবিষ্যতে টেকসই পেশাগত পরিচয়ের জন্য অভিযোজনী সামর্থ্য
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — শিক্ষাবিদ্যামূলক সহজীবন ও উত্তর-মানব শিক্ষার্থী
-- [[ai-pedagogical-accompaniment-amico]] — STEM পরিচয়ে সহায়ক এআই-চালিত শিক্ষাবিদ্যামূলক সঙ্গ
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — প্রামাণিক মূল্যায়নের জন্য নকশা
-- [[paternalistic-filter-llm-history-education]] — ইতিহাস শিক্ষায় পিতৃতান্ত্রিক এআই-ব্যবহার ও শিক্ষার্থী-পরিচয়
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — শিক্ষকদের জন্য পরিচয়-সংকট হিসেবে জেনএআই (শিক্ষক-পরিচয়)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-ভিত্তিক শিক্ষক-প্রশিক্ষণ ও পেশাগত পরিচয়
-- [[genai-professionalization-metaphors-2026]] — জেনএআই-এর ধারণায়ন ও শিক্ষার্থীর পেশাগত পরিচয়
-
-- [[synthetic-position-self-authorship-2026]] — লেখকত্বের স্থগিতকরণ: অর্পিত লেখকত্ব একটি ঘন স্বরযুক্ত অথচ অনা-লিখিত আত্ম হিসেবে (ধারণাগত বিশ্লেষণ)
-- [[vibe-coding-design-diversity-2026]] — এক টুল, এক রুচি? ভাইব কোডিং কীভাবে সামষ্টিক বৈচিত্র্যের বদলে ব্যক্তিগত সৃজনশীলতা কিনে নেয়

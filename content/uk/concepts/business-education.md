@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -79,40 +81,3 @@ ai_assist:
 - **«Студенти хочуть ШІ, бо хочуть обхідних шляхів.»** Рамка, висунута на основі думки студентів, виявила, що студенти **високо залучені й усвідомлюють, що їм потрібні навички GenAI для кар’єри**, і водночас хочуть **використовувати ШІ, не вчиняючи ненавмисно академічної недоброчесності**. Попит — на компетентність із чіткими межами, а не на дозвіл уникати роботи.
 - **«Додавання модулів про ШІ до бізнес-курикулуму дає змогу скористатися вигодою.»** Дослідження конструктивного узгодження виявило, що те, **чи переважали вигоди, чи ризики, формувалося ступенем інтеграції в курикулум** — операційною відмінністю є **інтегруйте, а не додавайте**. Прикручений модуль залишає дизайн оцінювання незмінним.
 - **«Досконалість інструмента переважає звичайне електронне навчання.»** Дослідження сприйняття зі **130 студентів** виявило, що **і підтримка чатбота, і агентна підтримка оцінені вище за традиційне електронне навчання** за покращенням, персоналізацією та підтримкою прийняття рішень. Варто зауважити, що це вимірює: *сприйняття* студентів проти звичайної базової лінії, а не навчання проти неї.
-
-## Пов’язані поняття
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — Кейс-стаді, кейс-метод і кейс-дискусія
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Пов’язані статті
-
-- [[ai-decision-checkpoints-bpm-education-2026]] — Контрольні точки рішень ШІ для посиленого ШІ управління бізнес-процесами: рамка та освітня інстанціація
-
-- [[csaszar-ai-management-education-2026]] — Вплив ШІ на освіту з менеджменту: аналіз стратегії на основі цінності (Csaszar et al. 2026)
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: агентна підтримка GAI в курсі e-commerce, сприймані вигоди та ризики (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Рамка на основі думки студентів для GenAI в бізнес-школах (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — Десятиліття ШІ в освіті у сфері бізнесу (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Конструктивне узгодження GenAI у бізнес-освіті вищої школи (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Думки студентів про інтеграцію GenAI в курикули (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Організаційні драйвери впровадження ШІ в освіту вищої школи (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — Рамка CAIS-GBL для розмовних агентів ШІ в бізнес-іграх із симуляцією (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Узгодженість і помилка в автоматизованому оцінюванні маркетингових публікацій студентів
-- [[shi-genai-experiential-learning-management-education-2026]] — три механізми генеративного ШІ для переконфігурування педагогіки освіти з менеджменту
-- [[alam-process-oriented-collaborative-essays-2026]] — Процесно-орієнтовані спільні есе в учнівстві «Бізнес-аналітик»: оцінюється документована ітерація, а не тема
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Створений для курсу RAG-чатбот зрушив очікування, а не результати

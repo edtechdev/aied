@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [scaffolding, adaptive-learning, cognitive-diagnosis, llm, student-modeling, knowledge-tracing, feedback, ai-feedback-quality, socratic-method, personalized-learning, self-regulated-learning, generative-ai, ai-education, metacognition, pedagogical-safety, privacy, educational-policy-ai, guardrails, k-12, speech-and-voice-technologies]
+connected_articles: [tararina-its-educational-achievement-systematic-review-2026, rai-calibrating-tutor-initiation-2026, rotter-access-timing-scaffolding-2026, west-spark-support-clarity-asynchronous-2026, owston-ai-tutor-pro-pedagogy-privacy-trust-2026, leite-its-k12-meta-analysis-2025, learnlm-eedi-expanded-rct-2026, cen-sonkar-muse-llm-tutors-multi-solution-2026, ai-proof-learning-cognitive-offloading-2026, tutor-case-bench-challenging-behaviors-2026, visual-access-proactive-ai-tutoring-handwritten-math-2026, rho-disengaged-conversational-behaviors-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-standardized-patient-scaffolding-medical-2026, ko-hughes-vsd-student-centered-its-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, real-time-ai-feedback-technical-skills-2026, mishra-control-vs-agency-history-2025, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, yasir-llm-tutoring-agents-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, measuring-llm-tutors-teach-vs-solve, ai-tutoring-quality-k12-methodologies-2026, zhang-tutormoments-2026, graph-its-adaptive-algorithms-2026, adaptive-scaffolding-cognitive-engagement-its, stanford-evidence-base-ai-k12-2026, hazra-safetutors-pedagogical-safety-2026, kar-mathbuddy-affective-math-tutoring-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, pradeesh-outcome-knowledge-tracing-affinity-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, ai-tutoring-micro-rct-gcse-science-2026, misconception-acquisition-dynamics-llms-2026, studentbench-ai-human-tutoring-gre-2026, guardrails-ai-teaching-assistants-programming-2026, liu-course-integrated-ai-tutoring-rct-2026, guided-ai-tutor-impasse-resolution-2026, lyu-data-driven-redesign-tutoring-2026, regulatutor-long-term-personalized-tutoring-2026, alam-goblins-math-platform-2026, llm-tutors-process-synthesis-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, multi-sourced-ai-tutor-non-native-english-2026, wu-hybrid-human-ai-tutoring-architecture-2026, gnadlinger-educator-perspectives-its-design-2026, asher-llm-tutoring-scaffolded-error-correction-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -154,7 +156,6 @@ TeachLM утверждает, что дефицитным ингредиенто
 
 **Аудируйте модель компонента знаний против кривых обучения, затем перепроектируйте на основе того, что показывают данные.** Кроссоверное исследование в аудитории применило процесс перепроектирования, управляемый данными, Хуана и др. к четырём единицам ITS школьной математики средней школы, выбранным по теме, а не по пригодности для перепроектирования. Анализ кривых обучения в DataShop вскрыл немоделированный навык интерполяции и слитые воедино случаи работы со знаками; разделение этих KC и добавление сфокусированной практики с пропуском освоенных шагов дало более продуктивное время на задаче (38.9 против 31.6 активных минут, p < .001) и пять дополнительных освоенных навыков в том же времени занятия — но никакой разницы в приросте обучения. Нуль объясняется тонкой дозой практики (ниже 70% мастерства AFM в обоих условиях) и посттестом без заданий на вновь разделённый навык. Два урока для разработчиков: посттесты должны покрывать вновь обнаруженные навыки, а адаптивные выгоды ограничены практикой, которую студенты фактически получают. ([[lyu-data-driven-redesign-tutoring-2026]])
 
-
 Эффективное тьюторство требует постоянной адаптации: [[zhang-tutormoments-2026|Zhang et al. (2026)]] оценивают, адаптируются ли LM-тьюторы к развивающемуся пониманию учащихся в аннотированных преподавателем точках решения. Они обнаруживают, что фронтирные модели по умолчанию склоняются к чрезмерной полезности и редко требуют строгости, и что осведомлённый об оценке промптинг улучшает, но не полностью решает адаптивность. Каждый дополнительный ход тупика снижал шансы восстановления на следующем ходе на 12.7%, а questioning терял ценность с глубиной (скриптовый вопрос × глубина AOR = 0.78), тогда как обращение к ошибке студента становилось более выгодным (AOR = 1.14) — эскалация тьютора, а не только его удерживание ответа, должна меняться по мере сохранения тупика ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). Систематический взгляд на RL-управляемую ветвь этой адаптации даёт [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], чей обзор 89 исследований RL в образовании обнаруживает, что классические RL-политики более последовательно эффективны, чем Deep RL, и что RL-адаптация даёт значимый прирост чаще для задач, связанных с наставлением (подсказки, [[feedback]]), чем для планирования контента — свидетельство того, что *как* ITS адаптирует скаффолдинг, важно не менее, чем какой алгоритм он использует.
 - **Адаптация типа когнитивного вовлечения, а не только интенсивности.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] удерживали сложность постоянной и варьировали форму разобранного примера — руководство (активная) или ошибочный (конструктивный) — через правило BKT и политику deep-RL, обе превзойдя случайное распределение (посттест 72.3 и 72.5 против 65.7).
 
@@ -163,7 +164,6 @@ TeachLM утверждает, что дефицитным ингредиенто
 - **LLM-тьюторство с интегрированными правилами для процедурных областей.** Looi, Liu и Sun (2026) решают проблему непоследовательности и педагогической непрозрачности LLM-тьюторов в начальной [[math-education|математике]] через исследование в духе design science управляемой правилами системы, организованной вокруг трёхслойной архитектуры — *диагноз → выбор намерения → ограниченная генерация ответа*. Они формализуют различие между **управляемым правилами скаффолдингом** (управляемым аудируемыми, воспроизводимыми правилами) и **ad-hoc скаффолдингом** (полезные ходы, трудные для аудита или воспроизведения). Оцененная через персонализированные симулированные диалоги и аудиторный пилот с 40 студентами 5 класса, управляемый правилами скаффолдинг улучшил интеракционную последовательность, снизил преждевременное выдание ответов и раннее закрытие, и поддержал когнитивное вовлечение — тогда как аудиторный пилот вскрыл интеракционные сложности, фрагментированные входы и колебания внимания, которые [[simulation]] пропустила. Это конкретный план для обеспечения [[guardrails]] [[llm]]-тьюторов в хорошо определённых процедурных областях.
 - **[[agentic-ai|Мультиагентное]] тьюторство и [[automated-assessment|автоматизированное оценивание]].** Мультиагентные тьюторские системы бенчмаркаются с синтетической, основанной на трассе оценкой. ASTRA поддерживает конфигурации «одиночный тьютор», «парный тьютор» и «парный мультиагент» с социально дифференцированными агентами, позволяя воспроизводимый анализ взаимодействия и баланса участия во [[cs-education|вводном программировании]]. Параллельно контекстно-осведомлённый промптинг автоматизирует кодирование навыков [[collaborative-learning|совместного решения задач]] из процессуальных данных, поддерживая масштабное оценивание тьюторства.
 - **Проектируйте с ценностями учащегося, а не только под его производительность.** [[ko-hughes-vsd-student-centered-its-2026|Работа по Value Sensitive Design]] со студентами и преподавателями математики в колледже сообщества показывает, что [[ethics|этические]] измерения ITS не отделяются как надстройки: прямое вовлечение студентов и преподавателей дало 16 согласованных с ценностями функций, охватывающих [[explainable-ai|объяснимость]] (интерпретацию проверки понимания, связь с траекторией обучения, коммуникацию уверенности модели), [[agency|контроль учащегося]] (контроль над переоценкой, повторением, темпом и уровнем ИИ-помощи) и [[privacy]] (контроль над переиспользованием данных, запросы разрешений на разделение [[learning-analytics|learning analytics]] и [[affective-computing|аффективных]] состояний). Исследование формулирует устойчивое напряжение проектирования — [[agency|субъектность студента]] против управляемого системой скаффолдинга — и отмечает, что большинство учреждений отключают адаптивное тьюторство полностью, поэтому ценностно-осведомлённое проектирование зависит также от того, как (и действительно ли) возможности ИИ в ITS развёрнуты.
-
 
 - **Обучаемые агенты и классификация дезинтегрированного диалога:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] запустили обучаемого агента GPT-4-Turbo внутри Math Nation (алгебра и геометрия), где студенты определяли, какое из двух разобранных решений содержит заблуждение, обосновывали исправление и обучали агента — структуру [[learning-by-teaching|«учения через обучение»]] с отдельным агентом-ментором, оценивающим качество объяснения. За 6 933 открытых задач и 22 143 зарегистрированных взаимодействий они построили классификатор разговорной дезинтеграции из шести категорий (human-in-the-loop: 1 682 аннотированных высказывания, настроенная LLaMA 3, взвешенный F1 = 0.910, κ модель-против-человека = 0.624) и использовали его для изучения 246 студентов средней школы. Методологический вклад столь же важен, как и находка: когда классификатор размечает большую часть корпуса, результаты распространённости должны быть проверены на человечески-аннотированном подмножестве — и здесь заголовочная связь (False Answering и Mocking, предсказывающие более высокий посттест) испарилась именно под таким тестом.
 
@@ -176,79 +176,3 @@ TeachLM утверждает, что дефицитным ингредиенто
 **«Интеллектуальное тьюторство было до-LLM технологией, которую LLM вытеснили».** Линия непрерывна, и вклад ITS — то, чего эпохе LLM всё ещё не хватает. ITS давали модель учащегося, ограничения интерфейса и оценки мастерства; современные системы, добавляющие LLM к этим компонентам, превосходят одну LLM, что делает старую дисциплину ингредиентом, а не предшественником.
 
 **«ИИ-тьютор — это одна сущность одного вида».** Тьюторство охватывает спектр реляционной интенсивности, от генерации подсказок до развёрнутого диалога, и дизайнерские выводы с одной точки этого спектра не переносятся на другую. Поэтому вопрос педагогического дизайна всегда «какое тьюторство, выполняющее какую задачу», а не «работает ли ИИ-тьюторство».
-
-## Связанные концепции
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[llm]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[guardrails]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-
-## Связанные статьи
-
-- [[leite-its-k12-meta-analysis-2025]] — Мета-анализ K-12 в США: 18 экспериментов, g = 0,271 и что его модерирует (Leite et al. 2025)
-- [[learnlm-eedi-expanded-rct-2026]] — Расширенное РКИ в Великобритании: прирост ближнего переноса, но без преимущества на стандартизированных тестах через 10 недель (LearnLM Team, Google & Eedi 2026)
-
-- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: разрывы в отзывчивости LLM-тьюторов на задачах по программированию с несколькими решениями (Cen & Sonkar 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Поддержка или замена рассуждений студентов? Когнитивная разгрузка в обучении доказательствам с ИИ (Chen et al. 2026)
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: оценивание LLM-тьюторов на студентах с сложным поведением (Park et al. 2026)
-- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Камера на рукописной работе: визуальный доступ и проактивное исправление (Kotalwar et al. 2026)
-
-- [[rho-disengaged-conversational-behaviors-2026]] — Дезинтегрированное разговорное поведение и обучение в диалогах студента с ИИ (Rho et al. 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — ИИ-тьюторство превосходит аудиторное активное обучение: РКИ, вводящий новое основанное на исследованиях проектирование в аутентичной образовательной среде (Kestin et al. 2025)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ko-hughes-vsd-student-centered-its-2026]] — Ценностно-чувствительное проектирование центрированного на студенте ITS в развивающей математике колледжа сообщества
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Микро-персонализация ассистента по преподаванию на основе инженерии промптов (Basu, Kakar & Goel 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Обманчивая сверхгенерализация: адаптивное мастерство может остановить практику до того, как учащиеся узнают, когда удерживаться от действия (An, McLaren & Stamper 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (бриф Stanford SCALE/NSSA)
-- [[real-time-ai-feedback-technical-skills-2026]] — Обратная связь ИИ в реальном времени для приобретения технических навыков в педагогических колледжах штата Квара: локализованный тьютор, оформленный как субсидия персонала
-- [[mishra-control-vs-agency-history-2025]] — Прослеживает линию ITS от экспертных систем 1960–70-х до когнитивных тьюторов
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo в двухлетнем школьном эксперименте
-- [[yasir-llm-tutoring-agents-2026]] — Бенчмаркинг агентов обратной связи LLM с KG ground truth (Yasir et al. 2026)
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
-- [[measuring-llm-tutors-teach-vs-solve]] — Измерение того, учат ли LLM-тьюторы или решают
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Адаптивный скаффолдинг ICAP в ITS (BKT против DRL)
-- [[stanford-evidence-base-ai-k12-2026]] — Тьюторство-специфичный против ИИ общего назначения: доказательства об устойчивых результатах обучения
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors и педагогическая безопасность
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Аффективное математическое тьюторство MathBuddy
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Виртуальное тьюторство с CAL: эксперимент по принятию и обучению
-- [[learnlm-improving-gemini-learning]] — LearnLM: улучшение Gemini для обучения
-- [[teachlm-post-training-llms-education]] — TeachLM: пост-обучение LLM на аутентичных данных обучения
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Отслеживание знаний на основе результатов с отображением близости
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[misconception-acquisition-dynamics-llms-2026]] — модели тьюторов, приобретающие много заблуждений студентов без потери правильного решения
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ИИ- и человеческое тьюторство дают эквивалентный прирост в обучении на GRE
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Мультидисциплинарное РКИ заземлённого в курсе, встроенного в LMS ИИ-тьютора: итоговые оценки вниз на 0.37 SD в выборке точного совпадения, участие на платформе вниз на 0.90 SD, без инструкционной интеграции (Liu et al. 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Вариация в том, как направляемые ИИ-тьюторы разрешают тупики студентов, и почему эскалация должна меняться с глубиной
-- [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
-- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
-- [[alam-goblins-math-platform-2026]] — Развёртывание ИИ-математики с медиацией преподавателей во всём округе: ~51% точности вовлечения и градиент дозы от 0.11 SD (2 задачи/неделю) до 0.31 SD (20+/неделю); более крупные эксплораторные связи для студентов с IEP, EL и испаноязычных студентов
-
-- [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Готовые модели могут и не давать этих доказательств: Worden et al
-- [[multi-sourced-ai-tutor-non-native-english-2026]] — Мультиисточниковый ИИ-тьютор для студентов, не являющихся носителями английского

@@ -25,6 +25,8 @@ ai_assist:
     agent: hermes-agent
 connected_faqs: [ai-support-reading-comprehension]
 connected_resources: [teacher-dev]
+connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
+connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -108,43 +110,3 @@ Una síntesis basada en Scopus de 54 estudios de EFL sitúa las [[limitations-in
 - **«El profesorado de idiomas adopta con entusiasmo o no adopta.»** Una [[li-language-educators-genai-review-2026|revisión sistemática de 23 estudios]] (Li et al.) encuentra como patrón una **adopción cauta y centrada primero en la preparación**. El profesorado era prudente de un modo meditado, no se dividía entre entusiastas y detractores.
 - **«El efecto global justifica el esfuerzo.»** Un metaanálisis de **33 estudios sobre TEFL** encontró un **efecto global de pequeño a moderado (g = 0,38, reducido a 0,28 con trim-and-fill)** que **aumentaba con el nivel educativo**. El efecto es modesto tras la corrección y se concentra en los niveles superiores, así que la cifra agrupada no respalda una afirmación para principiantes.
 - **«Cualquier uso de la IA es igual de productivo para aprender una lengua.»** El mismo trabajo aboga por **inclinar la tecnología hacia la producción** —escritura y expresión oral en lugar del consumo—. La modalidad determinó el efecto más que la presencia de la IA.
-
-## Conceptos conectados
-
-- [[language-learning]]
-- [[writing-education]]
-- [[reading-education]]
-- [[multilingual-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[discipline-specific-aied]]
-
-## Artículos conectados
-
-- [[alharbi-ethical-genai-eap-2026]] — Integración ética de la IA generativa en el EAP en la educación superior
-- [[feedback-literacy-scripts-eap-writing]] — Guiones de alfabetización en retroalimentación y un mecanismo de segundo corrector en la revisión de escritura en EAP con IA generativa
-- [[genai-differentiated-eap-reading-materials-2026]] — De materiales unificados a diferenciados: adaptación de materiales de lectura para EAP con apoyo de IA generativa
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: posentrenamiento alineado con taxonomías para una tutoría de inglés pedagógicamente adaptativa
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Alinear ChatGPT con la evaluación por portafolio electrónico como modelo de aprendizaje de EFL
-- [[irwin-muller-efl-peer-feedback-literacy]] — Situar la IA generativa en la retroalimentación entre pares en EFL
-- [[ai-vs-human-assessment-efl-tpck-2026]] — Tareas de evaluación generadas por IA frente a desarrolladas por humanos en el contexto de EFL
-- [[acceptance-ai-english-tools-2026]] — Aceptación de las herramientas de aprendizaje del inglés asistidas por IA en la educación superior
-- [[ai-tools-arab-english-classrooms]] — Herramientas de IA en aulas universitarias de inglés árabes
-- [[self-referential-l2-writing-llm-assessment]] — Hacia una evaluación analítica autorreferencial: un enfoque basado en perfiles para la evaluación de la escritura en L2 con LLM
-- [[ai-interlocutor-l2-spoken-dialogue]] — ¿Qué cambia cuando el interlocutor es una IA? El diálogo oral en L2
-- [[genai-linguistic-diversity-academic-writing]] — La IA generativa y la diversidad lingüística en la escritura y la publicación académicas
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Gobernar lo invisible: la alfabetización en IA entre el profesorado de idiomas
-- [[structural-silence-underrepresented-language-ai-2026]] — Silencio estructural: las lenguas infrarrepresentadas en la infraestructura de IA
-- [[liu-emerging-tech-tefl-review-2026]] — Tecnologías emergentes para la enseñanza del inglés como lengua extranjera
-- [[bird-multimodal-educational-literature-2026]] — Fusión multimodal para clasificar literatura educativa
-- [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo del profesorado de idiomas con la IA generativa
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Las revisiones entre pares y con IA de ensayos argumentativos en EFL difieren en su posicionamiento dialógico (Zhao y Ji 2026)
-- [[ai-limitations-efl-higher-education-review-2026]] — La dependencia excesiva de la IA (50% de 54 estudios) y la reducción del pensamiento crítico encabezan las limitaciones reportadas

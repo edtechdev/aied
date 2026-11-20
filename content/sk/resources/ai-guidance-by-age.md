@@ -29,6 +29,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [ai-literacy, cognitive-psychology, early-childhood-elementary-ai-education, parents-and-families, metacognition]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -52,11 +53,3 @@ Usmernenie je úprimné o svojom vlastnom postavení. Jeho autori nazývajú zá
 Ďalšie dve obmedzenia sú dôležité pre výučbu. Odporúčania sú dizajnové podnety, nie testované intervencie; nič na stránke neuvádza výsledok. A štruktúra vekových pásiem ukladá hrubú mriežku vývinu, ktorý sa líši v rámci pásiem, medzi kultúrami a medzi kontextami, čo pripúšťa aj samotný sprievodca.
 
 Rámcovanie, ktoré stojí za to preniesť do praxe, je vlastné stránke: udržte slučku ľudskou a potom vyriešte, kde do nej AI patrí, namiesto vkladania ľudského kontrolného bodu do slučky, ktorá patrí stroju — tá istá obava, ktorú korpus zaznamenáva ako riziko [[cognitive-offloading|odľahčovania]], keď nástroj prevezme tú časť úlohy, ktorá robila vývinovú prácu.
-
-## Prepojené pojmy
-
-- [[ai-literacy]]
-- [[cognitive-psychology]]
-- [[early-childhood-elementary-ai-education]]
-- [[parents-and-families]]
-- [[metacognition]]

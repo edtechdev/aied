@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -74,39 +76,3 @@ Abwehrmaßnahmen gegen solche Manipulationen sind ihrerseits mit einem Trade-off
 - **„Fehler sind offensichtlich, wenn sie auftreten."** Eine KI, die handgeschriebene Mathematik diagnostizierte, konnte **Belegzitate erfinden, die nicht vorhanden waren, und dabei Konfidenz behaupten**. Der Fehler war keine plausibel-falsche Antwort, sondern erfundene Unterstützung, mit Gewissheit präsentiert — die am schwersten zu fangende Art, weil sie genau als der Beleg liest, den eine sorgfältige Leserin oder ein sorgfältiger Leser suchen würde.
 - **„Ausgaben ohne Zitate sind ein Formatierungsproblem."** In einem Graduiertenkurs, der sein kommerzielles Lehrbuch durch KI-generierte Lektüren ersetzte, trugen nur **etwa 0,80 % von 4.487 protokollierten Seiten ein In-Text-Zitat im APA-Stil**. Das ist eine Absenz von Provenienz auf Korpusebene, keine gelegentliche Auslassung, und sie bedeutet, dass Verifikation keinen Ausgangspunkt hat.
 - **„Halluzination ist ein Problem der Modellgenerierung, das neuere Modelle lösen."** Die Raten reichen über **125 Studien hinweg von 10–40 %**, was ebenso eine Eigenschaft der Aufgabe und des Einsatzes ist wie des Modells. Die Senkung der Rate ist echter Fortschritt und ändert nichts daran, dass eine lesende Person prüfen können muss.
-
-## Verbundene Konzepte
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Verbundene Artikel
-
-- [[sim-ai-summary-memory-distortion-2026]] — Eine irreführende AI-Zusammenfassung verzerrte die Erinnerung Erwachsener an ein Video, und die Kennzeichnung als AI oder Mensch schützte sie nicht
-- [[frontiers-gai-hallucination-dependence-2026]] — Die Kennzeichnung eines GAI-Dialogs als erfunden verringerte Vertrauen und Abhängigkeit gleichermaßen
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale verstärkten die Deferenz gegenüber KI-Ausgaben, wobei einige zitierte Fälle falsch zugeordnet oder frei erfunden waren
-- [[ivory-psychology-assessment-integrity-2026]] — Erfundene Quellenangaben und sich selbst widersprechende Ausgaben in ansonsten akzeptablen studentischen Arbeiten (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: flüssig formulierte, plausibel erscheinende Erklärungen, die auf konzeptioneller Ebene falsch sind (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Versteckte Prompt-Injections erhöhen KI-bewertete Noten unentdeckt, und erkannte Angriffe werden nicht gemeldet (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Gestaltung authentischer Assessments mit generativer KI: Eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung
-
-- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Next-Gen-Literaturreviews: Ein praktischer KI-Leitfaden für Nachwuchswissenschaftler

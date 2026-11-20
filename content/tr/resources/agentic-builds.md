@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, learning-design, desirable-difficulties, agentic-ai, generative-ai, simulation]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -42,7 +43,3 @@ Tek bir öğretim sorununa bağlı küçük bir uygulamanın işlenmiş bir örn
 ## Notlar ve uyarılar
 
 Yapımların açıkça paylaşıldığı söyleniyor, ancak ne yapımlarda ne de galeri sayfalarında bir lisans belirtilmiş; bu yüzden yeniden kullanım, varsayılan bir izin değil yazarın iznini gerektirir. Kaynak kodu ise açık: hesabın depoları yapımların arkasındaki HTML ve JavaScript'i, ayrıca eğitimde kodlama ajanlarıyla çalışmaya dair bir eğiticiyi barındırıyor; böylece bir okuyucu bir uygulamayı yalnızca çalıştırmakla kalmaz, inceleyebilir de. Birkaç bağlantı bir proje sitesi yerine Netlify dağıtım önizleme adreslerini gösteriyor; bunlar inceleme için kurulur ve süresi dolabilir, kararlı olanlar ise GitHub Pages yapımlarıdır. Bazı yapımlar TypeSafe AI'ın Jev modeline bağlıdır ve onun olasılıklarını gösterir, yani altta yatan davranış sabit bir kural değil bir modelin yargısıdır. İstenen zorluklar yolu bir savdır — sürtünmeyi bir özellik olarak görmek — ve sayfa bunu, öğrencilerin daha fazla öğrenip öğrenmediğine dair bir değerlendirme sunmadan ortaya koyuyor.
-
-## Bağlı kavramlar
-
-[[vibe-coding]], [[learning-design]], [[desirable-difficulties]], [[agentic-ai]], [[generative-ai]], [[simulation]]

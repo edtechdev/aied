@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -159,56 +161,3 @@ ai_assist:
 - **"सर्वेक्षण साक्ष्य कमज़ोर है पर लगभग निष्पक्ष।"** प्रतिक्रिया-संरचना पूर्वाग्रह से पहले ही अनुमान को बाँध देती है: एक सर्वेक्षण में **31% प्रतिक्रिया-दर पर 112 प्रतिक्रियाएँ** मिलती हैं, या **572 निमंत्रणों से 90 प्रतिक्रियाएँ**। प्रतिवादी-समूह स्वयं-चयनित उपसमुच्चय है, इसलिए संख्या उसी उपसमुच्चय का वर्णन करती है।
 - **"इस क्षेत्र में सर्वेक्षण एक अल्पसंख्यक विधि है।"** **394 GenAI उच्च-शिक्षा अध्ययनों** की स्कोपिंग समीक्षा में **सर्वेक्षण-मापक सबसे अधिक रिपोर्ट किया गया मूल्यांकन तरीका (269 अध्ययन, 68.3%)** मिला, परीक्षणों और क्विज़ से आगे। क्षेत्र का प्रमुख साक्ष्य स्वयं-रिपोर्ट है।
 - **"स्वयं-रिपोर्ट और मापे गए संरचनाएँ सहमत होती हैं।"** **स्वयं-रिपोर्टेड संज्ञानात्मक भार उन ऑफ़लोडिंग प्रोफ़ाइलों में सार्थक रूप से भिन्न नहीं था जो निबंध-लेखन में 80% से 2% तक फैली थीं**, जबकि सबसे भारी ऑफ़लोडर मापनीय रूप से भिन्न थे। व्यक्तिपरक माप वहाँ सपाट रहा जहाँ व्यवहार चालीस गुना बदला।
-
-## संबंधित अवधारणाएँ
-
-- [[interpreting-and-applying-aied-research]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[research-methods-aied]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[learning-gains]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[learning-analytics]]
-
-## संबंधित लेख
-- [[capability-decision-model-teacher-readiness-2026]] — स्वयं-रिपोर्टित AI क्षमता को प्रभावशीलता विश्वासों से अलग करने के विभेदक-वैधता मापदंड
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — एक agentic AI पथ-मॉडल में सहभागिता अनुभूत प्रदर्शन की भविष्यवाणी करती है, मापे गए प्रदर्शन की नहीं (Pramod & Patil 2026)
-
-- [[ai-literacy-assessment-misalignment]] — शिक्षकों की AI literacy के समानांतर स्वयं-रिपोर्ट और वस्तुनिष्ठ मापन
-- [[jin-glat-genai-literacy-assessment]] — GLAT: स्वयं-रिपोर्ट का एक प्रदर्शन-आधारित विकल्प
-- [[genai-student-experiences-uk-he-survey-2026]] — UK संस्थानों में सर्वेक्षण किया गया छात्र GenAI उपयोग
-- [[student-llm-interaction-taxonomy-review-2026]] — यह निर्धारित करती वर्गीकरण कि आँकड़े स्वयं-रिपोर्ट से आए या लॉग से
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI literacy को विशेषता देने वाले प्रक्रिया आँकड़े
-- [[engagement-intensity-learner-modeling]] — एक learner-modeling संकेत के रूप में स्वयं-रिपोर्टित उपयोग
-- [[predicting-attrition-competitive-programming]] — अभ्यास व्यवहार के मुकाबले स्वयं-रिपोर्टित आत्मविश्वास
-- [[ai-use-critical-thinking-medical-students-2026]] — एक एकल-स्रोत मध्यस्थता मॉडल में सामान्य-विधि पक्षपात
-- [[genai-motivation-engagement-2026]] — अभिप्रेरणा और सहभागिता का केवल-स्वयं-रिपोर्ट PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — AI उपयोग और विश्वास पर 81 भौतिकी स्नातक छात्रों का सर्वे
-- [[hawkins-feedback-literacy-ai-essay-writing]] — एक स्वयं-रिपोर्ट उपाय के रूप में स्क्रीन रिकॉर्डिंग और stimulated recall
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — स्वयं-नियंत्रित सीख पर स्वयं-रिपोर्ट के साथ trace आँकड़े
-- [[adaptive-pretesting-retention]] — लॉग से व्युत्पन्न व्यवहारगत प्रयास संकेतक
-- [[ai-vocational-education-training-review]] — स्वयं-रिपोर्ट/वस्तुनिष्ठ-मापन असंतुलन रिपोर्ट करने वाली समीक्षा
-- [[student-genai-use-views-writing|लिखाई के लिए GenAI के छात्र उपयोग और विचार]] — एक समाजशास्त्र विभाग में सर्वे के साथ साक्षात्कार
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — उच्च-प्राथमिक छात्रों के लिए एक 15-मद स्वयं-मूल्यांकन उपकरण, यह स्पष्ट करता है कि अनुभूत दक्षता क्या स्थापित कर सकती है
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 में से 31 शिक्षक AI literacy उपकरण स्वयं-रिपोर्ट और कोई भी प्रदर्शन-आधारित नहीं पाने वाली समीक्षा
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — स्वयं-रिपोर्ट से व्युत्पन्न प्रोफ़ाइलें भी इसी तरह व्यवहार करती हैं
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — समान-निर्माण स्वयं-रिपोर्ट बनाम प्रदर्शन असहमति पर दर लगाने वाली दो-चरणीय समीक्षा (Fan et al. 2026)
-- [[high-school-genai-acceptance-tam-physics-2026]] — एक इरादा स्कोर, दो विपरीत उपयोग
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — स्वयं-रिपोर्ट उपकरण की प्रशासन विधा यह बदल देती है कि वह क्या मापती है
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — समझा गया स्वामित्व ने पूरे-निबंध प्रत्यायोजन को बाकी सबसे अलग किया, जबकि निशान ने बहुत अधिक अलग किया (Jelson et al. 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66 में से 32 अध्ययनों में धारणाएँ रिपोर्ट, जबकि 8 ने पूछताछ कौशल मापे
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% AI साक्षरता उपकरण विश्वसनीयता प्रमाण रिपोर्ट करते हैं और 20% से कम वैधता प्रमाण
-- [[huang-genai-academic-information-resources-2026]] — पुस्तकालय लॉग और सर्वेक्षण दृष्टिकोण अलग-अलग दिशाएँ दिखाते हुए
-

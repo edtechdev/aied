@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
+connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -94,26 +96,3 @@ ai_assist:
 - **«تحليل الملامح الكامنة يكتشف مجموعات موجودة.»** يحوّل تحليل الملامح الكامنة تنوّع المتعلّمين من دعوى بلاغية إلى نتيجة قابلة للقياس، والملامح **نموذج لمتصل مقسوم عند حدود مختارة** لا أنواع طبيعية. فعدد الملامح قرار تحليلي.
 - **«أي عضو من أسرة المتغيّرات الكامنة يصلح.»** إن أيّها تستخدم **يتبع المؤشرات**: **التحليل الطبقي الكامن للمؤشرات الفئوية**، وتحليل الملامح الكامنة للمستمرة. فاختيار الطريقة أولًا والمؤشرات ثانيًا يجعل النتيجة أثرًا للاختيار.
 - **«الملامح قابلة للمقارنة عبر الدراسات.»** صنّف Chen وزملاؤه **128 معلمًا تايوانيًا في مرحلة ما قبل الخدمة** على خمس بنيات لـ[[technology-acceptance-model|نموذج قبول التقنية]]/UTAUT2، بينما صنّف Acquah وزملاؤه **509 طلاب جامعيين غانيين**. فمؤشرات مختلفة في سكان مختلفين لا تُنتج تسميات ملامح قابلة للقياس المشترك.
-
-## المفاهيم المرتبطة
-
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[research-methods-aied]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[differential-effects-across-learner-groups]]
-- [[technology-acceptance-model]]
-
-## المقالات المرتبطة
-- [[ai-attitude-latent-profiles-career-development-2026]] — دليل احتفاظ Lo–Mendell–Rubin لأربعة ملامح لمواقف الذكاء الاصطناعي لدى 379 طالب أعمال
-
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — تحليل انتقال الملامح الكامنة بثلاث موجات للتكيّف النفسي
-- [[liang-ai-learning-motivation-sdt-2026]] — تحليل انتقال كامن لثلاثة ملامح دافعية على مدى عام
-- [[trust-in-ai-psychological-profiles-ml-2026]] — ملامح k-means؛ خلاف silhouette مقابل Calinski–Harabasz؛ ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — تجميع هرمي وk-means في أربع شخصيات لتبنّي الذكاء الاصطناعي التوليدي
-
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — أربعة ملامح لمعتقدات المدرّسين بشأن الذكاء الاصطناعي من 40,680 مدرّساً في 49 نظاماً، مع استقرار المواءمة

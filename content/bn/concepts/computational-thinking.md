@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
+connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -77,54 +79,3 @@ ai_assist:
 - **"এআই-সহায়তা স্বল্প-সম্পদের পরিবেশে সমান মাঠ তৈরি করে।"** শর্তসাপেক্ষে তা পারে। **নাইজেরিয়ার 103 জন প্রথম বর্ষের স্নাতক শিক্ষার্থী নিয়ে 14-সপ্তাহের আধা-পরীক্ষা** দেখে এআই-সহায়ক সমস্যা-ভিত্তিক শিখন (ChatGPT ও Teachable Machine) অর্জন দেয়, এবং "আরও সক্ষম সহপাঠী" হিসেবে এআই CT বহন করে যেখানে অন্য ব্যবস্থা অনুপস্থিত। কিন্তু তা একটি কাঠামোবদ্ধ হস্তক্ষেপ সম্পর্কে ফল, শিক্ষার্থীদের [[conversational-ai|চ্যাটবট]] দেওয়ার কোনো ধর্ম নয়।
 - **"এলএলএম নির্ভরযোগ্যভাবে CT মূল্যায়ন করতে পারে না।"** [[llm-computational-thinking-physics-2026|পদার্থবিজ্ঞান CT মূল্যায়ন গবেষণা]] দেখে এলএলএম বড়-ভর্তির কোর্সে ডেটা-অনুশীলন ও কম্পিউটেশনাল সমস্যা-সমাধান অনুশীলনে প্রবৃদ্ধি স্কোর করতে **মানব রেটারদের প্রতিফলন** করতে পারে। CT মূল্যায়ন স্কেল করার বাধা ছিল রেটার-সক্ষমতা, এবং সেই সীমা নরম হচ্ছে — যা নকশা-সমস্যাটিকে সরিয়ে দেয় এদিকে যে যন্ত্রটি CT মাপছে নাকি অনুপালন মাপছে।
 - **"CT একটি কোডিং-দক্ষতা যা রোবোটিক্স কাকতালীয়ভাবে শেখায়।"** **95টি গবেষণার একটি [[meta-analysis-systematic-review|নিয়মতান্ত্রিক পর্যালোচনা]]** নিশ্চিত করে রোবোটিক্স CT, সৃজনশীলতা ও সমস্যা সমাধান লালন করে, কিন্তু একইসঙ্গে যে **পরিবেশ ফলাফলকে মধ্যস্থতা করে**: [[game-based-learning|খেলা-ভিত্তিক]] উপস্থাপন অনানুষ্ঠানিক পরিবেশে মানায়, অন্যদিকে আনুষ্ঠানিক পরিবেশে গেমিফিকেশন আলাদা আচরণ করে। CT হলো এমন অনুশীলনের সেট যা অসমভাবে স্থানান্তরিত হয়, তাই স্থানান্তরের দাবির সঙ্গে আসলে যে কাজ-নকশা ব্যবহৃত হয়েছে তা দরকার।
-
-## সংযুক্ত ধারণা
-
-- [[cs-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[physics-education]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[teacher-education]]
-- [[simulation]]
-- [[socratic-method]]
-- [[misconceptions]]
-- [[agentic-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[ai-pbl-computational-thinking-2026]]
-- [[computational-thinking-ai-agent-creation]]
-- [[reshaping-cs-education-genai]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[llm-computational-thinking-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[llm-intervention-design-cs-review]]
-- [[academic-league-of-ai-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[genai-oop-programming-assessments-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — এআই প্রশিক্ষণে কম্পিউটেশনাল থিংকিং পরীক্ষা (CTAT)
-- [[computational-thinking-aica-2026]] — কম্পিউটেশনাল থিংকিং স্তর ও এআই কোডিং সহায়ক (2026)
-- [[ai-writes-code-student-writes-model-2026]] — মডেল রচনা: GenAI-সহ নির্মাণের মাধ্যমে শিখনের তত্ত্ব ও পরিমাপ
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: আর্টিফ্যাক্ট নির্মাণের গঠনবাদী কাঠামো
-- [[astor-computational-thinking-meta-review-2026]] — 128টি নিয়মতান্ত্রিক পর্যালোচনার CT মেটা-পর্যালোচনা
-- [[tsingidou-ct-robotics-kindergarten-2026]] — কিন্ডারগার্টেনে রোবোটিক্সের মাধ্যমে CT নিয়ে নিয়মতান্ত্রিক পর্যালোচনা
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: অ-প্রোগ্রামার বিজ্ঞানীদের প্রকাশিত এআই মডেল বাস্তবায়নের পুনরুৎপাদনযোগ্য কর্মপ্রবাহ

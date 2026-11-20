@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -102,39 +104,3 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 - **“保留帮助会挫败学习者并损耗动机。”** 一项三臂[[rct|RCT]]发现，保留提示的辅导者在降低挫败上与不受限的 ChatGPT **相当，在动机上也相当**，代价**只出现在偏好**上。学习者没有那么享受它，也没有因此受损，这意味着偏好数据本来会否决那个奏效的设计。
 - **“更多挫败意味着更多学习。”** 渐进升级的辅导者比“按请求作答”的辅导者**高出 0.42 个量表点的挫败感（p < .001），比**最令人挫败的臂低 0.29。生产性的区间是一个中间地带，而不是最大值，因此“合意难度”并不许可无限地把任务变难。
 - **“生产性失败意味着教师不应提供帮助。”** 该设计保留的是*答案*，同时提供结构与升级。保留一个提示与保留支持是不同的干预，而这里唯一有证据的是前者。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 尝试先于指导作为一个完整序列，及其单薄的证据基础
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — 案例为第一次尝试提供共享的问题空间
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## 关联文章
-
-- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 为生产性失败引导大语言模型
-- [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
-- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
-- [[lukesova-clue-before-correction-2026]] — 线索先于纠正：面向自主学习的 ChatGPT
-- [[pedagogy-ai-mistakes]] — 人工智能错误的教学法
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 保留解法避免了挫败代价，却在学生偏好上落败
-- [[shen-ai-skill-formation-2026]] — 无 AI 时错误中位数为 3 次、有 AI 时 1 次，且无辅助测验分数高出 17%（Shen 与 Tamkin 2026）

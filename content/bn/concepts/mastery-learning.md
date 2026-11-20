@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -68,23 +70,3 @@ ai_assist:
 **"আয়ত্ত-শিখন সেই শিক্ষাবিজ্ঞান যা এআই অবশেষে সম্ভব করেছে।"** এর কার্যপ্রণালী এআই-এর বহু আগের — ব্লুম কয়েক দশক আগেই কাঠামোটি আনুষ্ঠানিক করেন — এবং এআই এটিকে কার্যকর করে মূল্যায়ন ও গতি-সংক্রান্ত সিদ্ধান্ত স্বয়ংক্রিয় করে, পূর্বে অসম্ভব কোনো নকশা বাস্তবায়িত করে নয়। এই পুনর্কাঠামো গুরুত্বপূর্ণ কারণ স্বয়ংক্রিয়করণ নিয়ম-নির্বাচন উত্তরাধিকারে পায়, আর বিচারটি থাকে সেই নিয়মেই।
 
 **"আয়ত্তের অধীনে ঘনতর মূল্যায়ন সীমাকে আরও নির্ভরযোগ্য করে।"** ঘনত্ব অনুমান উন্নত করে, ভুলভাবে নির্ধারিত নিয়ম ঠিক করে না। সহায়তাপ্রাপ্ত কাজসহ ঘটনা থেকে বারবার আয়ত্ত পুনর্গণনা একই ভুল উত্তরের দিকে আরও দ্রুত একই ভুল উত্তরে পৌঁছায়।
-
-## সংযুক্ত ধারণা
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — আয়ত্ত-চক্রের ভেতরে অনুশীলনের ইঞ্জিন হিসেবে স্মৃতিনির্দেশ ও বিরতি
-
-## সংযুক্ত নিবন্ধ
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — প্রতারক অতিসাধারণীকরণ: অভিযোজনশীল আয়ত্ত শিক্ষার্থীরা কখন কাজ থেকে বিরত থাকতে হবে জানার আগেই অনুশীলন বন্ধ করতে পারে (An, McLaren ও Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — দায়িত্বশীল, ব্যাখ্যাযোগ্য শিক্ষার্থী-মডেলিংয়ের জন্য গভীর শিখনে আয়ত্ত/অনায়ত্ত নিয়ম ঢোকানো
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — সহায়তাপ্রাপ্ত কাজ গণলে আয়ত্ত ফুলে ওঠে: কোন প্রমাণ-নিয়ম ঠিক করে কাকে আয়ত্তপ্রাপ্ত ঘোষণা করা হবে (Srivastava 2026)
-- [[simulating-learner-task-selection]] — আয়ত্ত-শিখনে শিক্ষার্থীদের কাজ-নির্বাচন কৌশল ও ব্যবস্থা-সীমাবদ্ধতার সিমুলেশন (Noh প্রমুখ 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — জ্ঞান-ট্রেসিং পরবর্তী-সেশনের কর্মক্ষমতা বেশি অনুমান করে ও বিরতি-প্রভাব মিস করে (Schuetze, Yan ও Carvalho 2025)

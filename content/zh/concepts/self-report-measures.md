@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
+connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -173,60 +175,3 @@ ai_assist:
 - **“调查证据虽弱，但大致无偏。”** 回答结构在偏差之前就限定了估计：一项调查在 **31% 的回复率下得到 112 份回答**，或**从 572 份邀请中得到 90 份回答**。回答者池是一个自我选择的子集，因此这个数字描述的是那个子集。
 - **“调查在这一领域是少数派方法。”** 一项对 **394 项 GenAI 高等教育研究**的范围综述发现，**调查量表是最常被报告的评估方法（269 项研究，68.3%）**，多于测验与小测。该领域的主导证据是自我报告。
 - **“自我报告与所测量的构念一致。”** 在论文写作授权比例从 **80% 到 2%** 的卸载画像之间，**自我报告的认知负荷没有显著差异**，而卸载最重的学习者有可测量的差异。主观测量在行为相差四十倍之处是平的。
-
-## 关联概念
-
-- [[interpreting-and-applying-aied-research|解读并应用人工智能教育研究]]
-- [[educational-measurement|教育测量]]
-- [[self-assessment|自我评估]]
-- [[research-methods-aied|教育人工智能的研究方法]]
-- [[quantitative-research|量化研究]]
-- [[qualitative-research|质性研究]]
-- [[mixed-methods-research|混合方法研究]]
-- [[assessment-validity|评估效度]]
-- [[item-response-theory|项目反应理论]]
-- [[ai-literacy|人工智能素养]]
-- [[trust-calibration|信任校准]]
-- [[learning-gains|学习增益]]
-- [[student-engagement|学生参与]]
-- [[self-efficacy|自我效能]]
-- [[learning-analytics|学习分析]]
-
-## 关联文章
-
-- [[kares-xai-evaluation-alignment-2027]] — 166 名参与者、三种显著性方法：满意度与信任持平，任务表现与忠实度指标彼此不一致（Kares 等，2027）
-- [[high-school-genai-acceptance-tam-physics-2026]] — 一个意图分数，两种相反的使用
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一件自我报告工具的施测方式改变了它所测量的东西
-- [[capability-decision-model-teacher-readiness-2026]] — 区分自我报告的人工智能能力与效能信念的判别效度标准
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — 参与预测的是知觉到的而非被测量的表现：一个智能体式人工智能路径模型（Pramod 与 Patil，2026）
-- [[ai-literacy-assessment-misalignment]] — 教师人工智能素养的平行自我报告与客观测量
-- [[jin-glat-genai-literacy-assessment]] — GLAT：自我报告的表现式替代
-- [[genai-student-experiences-uk-he-survey-2026]] — 跨英国机构调查的学生生成式人工智能使用
-- [[student-llm-interaction-taxonomy-review-2026]] — 由数据来自自我报告还是日志所塑造的分类体系
-- [[tracing-genai-literacy-interaction-patterns]] — 刻画生成式人工智能素养的过程数据
-- [[engagement-intensity-learner-modeling]] — 自我报告的使用作为学习者建模信号
-- [[predicting-attrition-competitive-programming]] — 自我报告的信心对练习行为
-- [[ai-use-critical-thinking-medical-students-2026]] — 单一来源中介模型中的共同方法偏差
-- [[genai-motivation-engagement-2026]] — 仅自我报告的动机与参与 PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 对 81 位物理本科生关于人工智能使用与信任的调查
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 屏幕录制与刺激回忆作为自我报告的补救
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — 关于自我调节学习的自我报告加痕迹数据
-- [[adaptive-pretesting-retention]] — 从日志导出的行为投入指标
-- [[ai-vocational-education-training-review]] — 报告自我报告／客观测量失衡的综述
-- [[student-genai-use-views-writing|学生对写作中使用生成式人工智能的使用与看法]] — 一个社会学系中的调查加访谈
-- [[competent-generative-ai-use-measures-review-2026]] — 超越人工智能素养：面向胜任的生成式人工智能使用之测量的结构化综述与探索性元分析
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE：一个面向人工智能相关认知卸载的隐私保护自我反思工具
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 一个面向高小学生的 15 项自评工具，对知觉到的能力能确立什么直言不讳
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 发现 33 件教师人工智能素养工具中有 31 件为自我报告、且没有一件基于表现的综述
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 由自我报告导出的画像行为方式相同
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 一项两阶段综述为同构念自我报告与表现的分歧给出比率（Fan 等，2026）
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — 感知到的所有权把整篇论文的委托与其他一切分开，而轨迹分开的远不止这些（Jelson 等，2026）
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66 项研究中有 32 项报告感知，8 项测量探究技能
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% 的 AI 素养工具报告信度证据，报告效度证据的不到 20%
-- [[huang-genai-academic-information-resources-2026]] — 图书馆日志与调查态度指向不同的方向
-- [[onodipe-enhance-not-replace-ai-classroom-2026]] — 每一项调查测量上的知觉学习与参与都上升，而考试分数没有变动
-- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — 一件 300 题项的教师量表，α = 0.997，未做任何因子分析即被预测到 99.68% 的准确率
-- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — 一个经过验证的量表上显著的符号检验与不变的中位数
-- [[tischkau-ai-simulated-patient-formats-2026]] — 一件把期望与记忆相比较的暂定前测—后测量表，分量表 alpha 从 −0.39 到 0.87（Tischkau 等，2026）

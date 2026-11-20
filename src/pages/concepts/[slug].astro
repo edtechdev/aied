@@ -69,6 +69,17 @@ const connectedFaqs = (concept.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
+// Connected Concepts / Articles: slugs in frontmatter (2026-11-19 migration from body
+// sections). Rendered from each target's own title, like Connected FAQs/Resources.
+const conceptById = new Map(allConcepts.map(c => [c.id.replace('.md', ''), c]));
+const articleById = new Map(articles.map(a => [a.id.replace('.md', ''), a]));
+const connectedConcepts = (concept.data.connected_concepts || [])
+  .map(s => conceptById.get(s))
+  .filter((c): c is NonNullable<typeof c> => Boolean(c));
+const connectedArticles = (concept.data.connected_articles || [])
+  .map(s => articleById.get(s))
+  .filter((a): a is NonNullable<typeof a> => Boolean(a));
+
 const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, institutions, ethics } = concept.data;
 // JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
 const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(ethics || []), ...(page_kind || []), ...(methods || []), ...(institutions || []),];
@@ -99,11 +110,8 @@ const searchAliases = (CONCEPT_ALIASES[slug] ?? []).filter(
 );
 const searchTerms = searchAliases.join('; ');
 
-// Connected concept slugs for JSON-LD mentions (from body Connected Concepts section)
-const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)(?=^## |\Z)/m)?.[1] || '')
-  .split('\n')
-  .map(l => l.match(/\[\[([^\]|]+)/)?.[1])
-  .filter(Boolean);
+// Connected concept slugs for JSON-LD mentions (from frontmatter connected_concepts)
+const connectedConceptSlugs = concept.data.connected_concepts || [];
 
 
 // slug -> display title for every page: wikilink labels and tag chips use the page's
@@ -136,6 +144,12 @@ checkVideoPairing(slug, 'concepts', videoSlugs);
 const connectedVideos = videoSlugs
   .map(s => VIDEO_BY_SLUG.get(s))
   .filter((v): v is NonNullable<typeof v> => Boolean(v));
+if (connectedConcepts.length > 0) {
+  toc.push({ text: 'Connected Concepts', slug: 'connected-concepts', depth: 2 });
+}
+if (connectedArticles.length > 0) {
+  toc.push({ text: 'Connected Articles', slug: 'connected-articles', depth: 2 });
+}
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
@@ -176,6 +190,26 @@ if (connectedPodcasts.length > 0) {
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-concepts"
+      heading="Connected Concepts"
+      items={connectedConcepts.map((c: any) => ({
+        href: `/aied/concepts/${c.id.replace('.md', '')}/`,
+        title: c.data.title,
+        kind: 'concept' as const,
+      }))}
+    />
+
+    <ConnectedList
+      id="connected-articles"
+      heading="Connected Articles"
+      items={connectedArticles.map((a: any) => ({
+        href: `/aied/articles/${a.id.replace('.md', '')}/`,
+        title: a.data.title,
+        kind: 'article' as const,
+      }))}
+    />
 
     <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
 

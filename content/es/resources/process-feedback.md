@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -42,8 +43,3 @@ Está dirigido al profesorado y al estudiantado de forma individual, que pueden 
 ## Notas
 
 La versión gratuita cubre los flujos de trabajo individuales de aula; los precios institucionales existen por separado y están vinculados al alcance del despliegue, el tratamiento de datos, el soporte y el cumplimiento normativo, y no a un cargo por estudiante o por docente. Como un informe muestra un proceso y no una intención, copiar y pegar por sí solo no es una falta de conducta: la propia guía del proyecto señala que un estudiante puede estar pegando su propio texto anterior y que no se debe penalizar al estudiantado solo por pegar. Las cifras de adopción y la calificación de 5,0 en Chrome Web Store son el propio marketing del proyecto; las reseñas en una tienda de extensiones no son evidencia independiente de mejoras en el aprendizaje. Lea los informes como evidencia para una conversación, que es como está diseñada la herramienta y como la describe su desarrollador.
-
-## Conceptos conectados
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
-

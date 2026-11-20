@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -69,7 +71,6 @@ OmniEdu משחרר את כל הצנרת (pipeline) ולא רק את המשקול
 
 מה שהעמוד הזה אינו עושה הוא להתווכח בעד המשאב. האם ספר לימוד שנכתב על-ידי מכונה פתוח כברירת מחדל, האם רישיון שורד רמיקס מיוצר, והאם פדגוגיה פתוחה מלמדת משהו מדיד — אלה שאלות ל[[open-education]], והן השאלות שבהן עוסקת הספרות העכשווית של התחום.
 
-
 ### יתרונות ונטל
 
 - **יתרונות.** ריבונות נתונים ותאימות רגולטורית ([[privacy|פרטיות]], [[regulation|רגולציה]]) באמצעות אירוח מקומי; בקרת עלות, כיוון שהסקה מקומית אינה כרוכה בעמלה לכל שאילתה ומודלים פתוחים מתקרבים לאיכות קניינית בשבר מהמחיר ([[singh-eduqwen-pedagogical-rl-2026]]); שחזוריות, כיוון שהמסגרת, הרמזים, התוכן והנתונים יכולים להישלח עם המאמר ([[oatutor-open-source-adaptive-tutor-2023]], [[astra-multi-agent-tutoring-benchmark-2026]]); ביקורתיות ובקורת בטיחות תחת [[governance|מינהל מוסדי]]; והיכולת לכוון-עדין עבור [[pedagogy|פדגוגיה]] מסוימת או מאגר ידע של קהילה מסוימת ([[iks-instruct-dataset-indian-knowledge]]).
@@ -91,46 +92,3 @@ OmniEdu משחרר את כל הצנרת (pipeline) ולא רק את המשקול
 **"מודלי חזית סגורים פשוט טובים יותר, ולכן חלופות פתוחות הן נסיגה."** הפער צר מכפי שההנחה הזו מרמזת. ב[[cdpk-pedagogy-benchmark-llms|מבחן-התקן הפדגוגי]] (CDPK + SEND, בנוי מפריטים אותנטיים מבחינות מורים בצ'ילה) המשתרע על 97 מודלים, **DeepSeek R1 בעל משקולות פתוחות הגיע ל‑86.65%**, נגד עשרת-מובילים שרובם מודלי הסקה סגורים — והשוואת עלות–דיוק ממשיכה הלאה בכיוון הפתוח. הטיעון הנותר בעד פתיחות הוא אפוא על שליטה ויכולת-ביקורת, לא על ויתור ביכולת.
 
 **"שחרור המשקולות הוא שחרור העבודה."** התרומות הפתוחות החזקות משחררות את הצנרת. OmniEdu מפרסמת פיקוח מאוזן-יכולת על תערובת של 69,999 דוגמאות ולא רק משקולות סופיות, ומרימה כל סולם של משפחה פתוחה K–12 בגדלי 4B/9B/27B, כשהמודל המכוון בגדל 4B מרוויח **55 נקודות** בביצועי [[scaffolding|פיגום]] ב‑MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] מתעדת אף היא את הליך ה‑RL והכיוון-עדין שלה, כולל 440 שליליים קשים שנכרו ו‑40,000 תשובות מיוצרות. משקולות בלי המתכון משחזרים תוצאה בלי לשחזר את השיטה.
-
-## מושגים מקושרים
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## מאמרים מקושרים
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistant on consumer hardware (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — MIT-licensed adaptive tutor with a CC BY OpenStax content library (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Open 32B pedagogical model outperforming far larger proprietary systems (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Drop-in FERPA-compliant local-LLM autograder
-- [[programming-its]] — Self-hosted open-weight LLM for GDPR/EU AI Act compliance in a Python ITS
-- [[aiawe-automated-writing-evaluation]] — LoRA-adapted open-weight model for automated writing evaluation
-- [[stanbkt-bayesian-knowledge-tracing]] — Open Python package for full Bayesian knowledge tracing
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — מסגרת חונכות אייג'נטית פתוחה לחלוטין עם זיכרון לומד
-- [[vismatic-secure-sandbox-cs-education]] — Open containerized sandbox for process-oriented assessment
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutor with an open codebase
-- [[cdpk-pedagogy-benchmark-llms]] — Open pedagogy benchmark across 97 models and the cost–accuracy frontier
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Open dataset and prototype for trace-based multi-agent tutoring evaluation
-- [[mllm-scientific-visualization-literacy]] — Open models below the human baseline on visualization literacy
-- [[iks-instruct-dataset-indian-knowledge]] — Open multilingual dataset for culturally grounded instruction
-- [[aied-carbon-footprint-reporting]] — Open-source method for reporting LLM environmental cost
-- [[egai-power-systems-education]] — Open executable module library for engineering AI
-- [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching

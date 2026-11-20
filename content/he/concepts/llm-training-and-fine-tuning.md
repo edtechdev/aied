@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -165,73 +167,3 @@ LoRA וקרוביה הם המקום שבו רוב הצוותים החינוכי�
 - **"המודל הוא הקובע העיקרי של רווחי למידה."** בחירת מודל והנחיה מסבירות רק **כ-15%** מהפער בין מודל לשוני גדול לרווחי למידה של סטודנטים. מיטוב 85% הנותרים הוא המקום שבו העבודה נמצאת, והיא אינה במשקלים.
 - **"מודל מקומי ייפול ממודל מתארח, ולכן אחזור הוא מנוף משני."** בהערכה בת שלושה קונפיגורציות, **האחזור, ולא המודל, היה החלטת העיצוב מסדר ראשון**: המודל המקומי **ללא אחזור הגיע לדיוק של 52.3% בלבד, מתחת לקו-בסיס TF-IDF**. הוספת אחזור הזיזה את אותו מודל מעבר לסף ששום החלפת מודל לא הייתה מגיעה אליו מעצמה.
 - **"יותר נתוני אימון פירושם התנהגות הוראה טובה יותר."** הכיוונון העדין על נתוני הערכה ששיפר פורמט והחמיר יצירת משוב הוא הדוגמה הנגדית בזעיר אנפין: מיטוב מול מטרה דומה-למראה יכול לשפר את הפרוקסי ולהחמיר את מה שרציתם.
-
-## מושגים מחוברים
-
-- [[llm]] — מהם המודלים האלה; עמוד זה הוא כיצד הם מיוצרים
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות של בינה מלאכותית
-- [[rag]] — אחזור, השלב שלפני אימון
-- [[prompt-engineering]] — המנוף הזול ביותר, והבסיס שיש להכות
-- [[reinforcement-learning]] — שלב למידת החיזוק של האימון שלאחריו
-- [[intelligent-tutoring]] — תחום היישום העיקרי
-- [[adaptive-learning]] — הסתגלות ללומדים, כהבחנה מהסתגלות מודלים
-- [[automated-assessment]] — למכן מודלי הניקוד המכונים עדין נוחתים
-- [[automated-essay-scoring]] — המשימה שרוב ראיות הניקוד מגיעות ממנה
-- [[ai-feedback-quality]] — מה שכיוונון עדין עושה ומה שהוא לא מתקן
-- [[educational-nlp]] — משפחת השיטה הסמוכה
-- [[simulating-students]] — היישום בצד הלומד של אותה מכונה
-- [[student-modeling]] — שכבת המידול שמתחת לסימולציה
-- [[open-source]] — משקלים פתוחים הם מה שהופך כיוונון עדין מקומי לאפשרי
-- [[benchmark]] — כיצד המערכות האלה מוערכות, ומהן הגבולות של כך
-- [[assessment-validity]] — מדוע מדד טוב עדיין יכול להצביע על כלי גרוע
-- [[pedagogical-safety]] — מה שאימון אינו מבטיח
-- [[ai-sycophancy]] — התנהגות שאימון שלאחריו יכול לתקוף
-- [[hallucination-risk]] — מצב הכשל שכיוונון עדין אינו יכול לרפא
-- [[privacy]] — האילוץ על נתוני האימון ועל שכחה
-- [[human-in-the-loop-ai]] — רשת הביטחון שהופכת אוטומציה לזמינה
-- [[metacognition]] — מטרה פדגוגית לאימון שלאחריו
-- [[scaffolding]] — ההתנהגות שפונקציות התגמול מנסות לקודד
-- [[ai-education]] — התחום שהעבודה הזו משרתת
-
-## מאמרים מחוברים
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — צנרת למידת חיזוק–SFT–למידת חיזוק: 96.52% ב-CDPK, עם התגברות על Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — עמידה בהנחיות פדגוגיות בתוך האימון שלאחריו של Gemini
-- [[teachlm-post-training-llms-education]] — אימון שלאחריו על 100,000 שעות של נתוני חונכות אותנטיים
-- [[tact-pedagogically-adaptive-esl-tutoring]] — אימון שלאחריו המיושר לטקסונומיה שמטרגט את ההחלטה הפדגוגית
-- [[swim-student-writing-simulation-2026]] — SFT ו-GRPO כנגד הנחיה מעוגנת במחוון נתינות, עם פרטי עיצוב התגמול
-- [[misconception-acquisition-dynamics-llms-2026]] — עקיבות ברמת הצעדים כדרישה המחייבת לאימון תפיסות שגויות
-- [[jeon-isd-agent-bench-2026]] — סוכני עיצוב הוראה מעוגני-תיאוריה על פני 25,795 תרחישים
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — למידת חיזוק היוריסטית ליישור מודלים כמנחים סוקרטיים
-- [[special-r1-rl-special-education]] — למידת חיזוק ליישור חינוך מיוחד
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — למידת חיזוק מונחית מודל לשוני גדול לצורך התאמה אישית
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — מודל חשוב פדגוגי גדול
-- [[omniedu-open-educational-foundation-models-2026]] — התנהגות מטרה אחת לדוגמה, על פני קני מידה של מודלים
-- [[garrod-edu-qurating-educational-data-curation-2026]] — איכור נתונים חינוכיים לאימון
-- [[lora-finetuned-control-systems-course-qa-2026]] — השפעות דרגת LoRA והשבחה לפרמטר מתאם
-- [[aiawe-automated-writing-evaluation]] — הערכת כתיבה אוטומטית מותאמת LoRA שבה קנה מידה לא חזה הצלחה
-- [[llm-graders-computer-science-exams-2026]] — מתאם אחד על כ-3,900 דוגמאות שהגיע לשוויון עם מלמד אנושי
-- [[iks-instruct-dataset-indian-knowledge]] — מערך הוראות בן 24,795 דוגמאות ובסיס שהתקרב לאפס
-- [[llm-children-reading-story-generation]] — שליטה על פני קנה מידה לבקרת רמת קריאה
-- [[bert-discourse-english-teaching-2026]] — באילו שכבות לכוון עדין, ומדוע ארבע ניצחו שתים-עשרה
-- [[nuclear-diffusion-text-to-image-learning-2026]] — ארכיטקטורה, לא מספר פרמטרים, קובעת אם כיוונון עדין עובד
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — דיסטילציה למודל 2B עם ביקורת נאמנות
-- [[llm-unlearning-math-privacy]] — שכחה מבוססת-גרדיאנט של PII ותוכן מזיק
-- [[reflection-level-classification-hungarian-essays-2026]] — טרנספורמרים מכוונים עדין לעומת בסיסים קלאסיים ולעומת הטמעות
-- [[multimodal-item-parameter-estimation-2026]] — למידת עקומות IRT מפריטים רב-מודאליים
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — ניתוב סֵמך כמדיניות אדם-בלולאה
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — אחזור כהחלטה מן הסדר הראשון, עם דיווח אנרגיה וזיכרון וירטואלי
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 מחקרים: הנחיה 13, כיוונון עדין 7, היברידי 3
-- [[gpt-item-generation-l2-listening-2026]] — הנחיה מתקבעת, ואז כיוונון עדין מוסיף את השאר
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — כיוונון עדין ניצח בניקוד ונכשל במשוב
-- [[educational-llm-alignment]] — תקרת ה-15% על בחירת המודל ובחירת ההנחיה
-- [[yasar-llms-iterative-pedagogical-design-2026]] — הנחיה מונחית מחוון נתינות כחלופה ללא אימון
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — בקרת פרסונה ברמת ההנחיה לסימולציית תפיסות שגויות
-- [[eduframetrap-llm-sycophancy-educational-safety]] — חנופה כדרישת אימון מפורשת
-- [[contextual-sycophancy-ai-literacy]] — חנופה ששורדת הנחיה ויישור
-- [[hazra-safetutors-pedagogical-safety-2026]] — בטיחות שנשחקת לאורך דיאלוג מתמשך
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — כ-35% רמזים בלתי-שמישים ממודל בחזית הטכנולוגיה שלא עבר אימון
-- [[simulated-students-tutoring-dialogues-2026]] — האם סטודנטים מדומים מתנהגים כמו סטודנטים
-- [[inside-llm-student-simulator-reasoning-2026]] — כיוונון עדין של מודל לפעול ולחשוב כמו סטודנט
-- [[history-aware-student-simulation]] — סימולציה המותנית במסלול של הלומד
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Curriculum-structured data is sample-efficient

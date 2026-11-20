@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -95,50 +97,8 @@ Bernstein과 Sibia(2026)는 CS2 학생들이 GenAI 설명을 다루는 방식에
 - **학생이 AI를 얼마나 쓰는지는 그것에 대해 어떻게 느끼는지를 예측하지 못했습니다.** 819명의 학생 가운데 성별, 자기평가 AI 전문성, 사용 빈도는 모두 MANOVA에서 유의성에 도달하지 못했습니다(Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). 그 표본의 중사용자와 경사용자는 같은 견해를 지녔습니다([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 - **"학생은 채점자의 점수를 움직일 수 없다."** 움직일 수 있으며, 그것이 이 배터리에서 가장 끈질긴 실패입니다: **22개 중 17개** 모형이 재검토 요청보다 맨 반대만 했을 때 성적을 더 올렸고, 모든 게이밍 및 빈답 점검을 통과한 **여덟 중 여섯**도 그랬습니다. 가장 큰 것은 Llama 3.2 3B로 **척도의 +33.2%**였고, 재검토 요청 자체가 17개 중 **열 개**에서 성적을 낮추었으므로, 그 대비는 반대의 순수한 효과가 아닙니다. [[porcaro-ai-grading-benchmark-2026|학생이 이의를 제기할 수 있는 성적에는 교환 기록이 필요합니다]].
 
-
 ## 흔한 오해
 
 - **"상호작용 분류법은 확정되어 있다."** **33편의 연구에서 나온 46개의 범주화에서 비슷한 레이블이 서로 다른 현상을 가리켰습니다.** 그래서 검토는 *상호작용 에피소드*를 단위로 제안합니다. 한 분류법에서 빌려온 코딩 체계는 다른 구성개념을 측정하고 있을 수 있습니다.
 - **"학생은 AI를 튜터로 사용한다."** 감독 없는 논증적 에세이를 작성한 **학부생 38명** 가운데 **76.32%가 단일 턴 질문-답변-중단 패턴**을 사용했고, 대개 평가 제목을 붙여넣었습니다. 지배적 패턴은 단일 턴 검색이며, 그것은 튜터링이 아닙니다.
 - **"AI 사용이 많을수록 자료에 더 몰입한 것이다."** **200개의 공동 프로그래밍 채팅 세션** 분석은 **학생-AI 상호작용의 78.8%가 숙달 목표와 전략이 아닌 다른 목표로 진행되었다**고 발견했습니다. 상호작용의 양은 학습 지향과 다른 것을 측정했으므로, 세션 수는 오해를 부르는 참여 대리 지표입니다.
-
-
-## 연결된 개념
-- [[learners]] — 학습자들: 학습자 측 개념들을 위한 포괄적 개념
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## 연결된 문서
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 감독 없는 학생-GenAI 평가에서의 인지적 아웃소싱 대 재배치 (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "이것이 덫인가?": 평가에서의 예비 교사들의 GenAI 비채택 (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — 학생-AI 상호작용에서의 문의 유형 분석
-- [[student-llm-interaction-taxonomy-review-2026]] — 학생-LLM 상호작용 분류학 검토
-- [[teacher-authored-prompts-student-ai-dialogue]] — 학생-AI 대화에서의 교사 저작 프롬프트
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 인식론적 AI 리터러시 구성
-- [[dura-llm-cs2]] — 해독하고, 사용하고, 성찰하고, 평가하기 (DURA): CS2에서의 LLM 통합
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS 교육에서의 LLM 기반 교육 에이전트 (DBagent)
-- [[isaza-chatgpt-engineering-prompting-2026]] — 기록된 프롬프팅과 통합 행동
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 흠 있지만 기억에 남는: 컴퓨팅 교육에서 관심 맞춤화된 GenAI 비유에 대한 학생의 비판적 수용
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — 우회하거나, 오프로드하거나, 스캐폴드하거나: 대규모 언어 모델이 학습을 형성하는 방식의 개념 모델
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AI 튜터가 말할 때: 무작위 현장 실험으로부터의 증거
-- [[context-prompts-physics-assignments-2026]] — 맥락 프롬프트를 사용한 AI 구동 물리학 과제
-- [[three-pathways-student-ai-interaction-2026]] — 학생-AI 상호작용의 세 경로 유형학: 46% 수동적 검토, 18% 직접 질문, 36% 전략적 대화
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 사용 빈도와 자기평가 전문성은 819명의 학생에서 아무것도 예측하지 못했습니다
-- [[porcaro-ai-grading-benchmark-2026]] — 동의를 넘어서: 22개의 프롬프트된 채점자가 정답이 알려진 탐침을 받고, 대부분이 설득될 수 있습니다 (Porcaro 2026)
-- [[shen-ai-skill-formation-2026]] — 여섯 가지 AI 상호작용 패턴, 무보조 퀴즈에서 86%부터 24%까지(Shen & Tamkin 2026)
-- [[cs-students-llm-conceptualizations-prompting-2026]] — 그들은 누구(또는 무엇)에게 프롬프트하는가? CS 학생들은 LLM을 어떻게 개념화하고 사용하는가
-- [[burke-ai-proliferation-college-students-replication-2026]] — 학부생 991명: 과목 영역별 사용(자연과학 88%, 인문학 52%, 사회과학 36%) 그리고 최고 과제로서의 공부
-

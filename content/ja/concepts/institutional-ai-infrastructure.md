@@ -19,10 +19,11 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
-
 
 > **機関AIインフラストラクチャ** — 機関が自らの規則の下で教育・研究・管理業務の全体にわたってモデルを利用できるよう、運用する計算・サービング・ルーティング・制御の層。重みを保持するGPUやクラスタ、リクエストに応答する推論サーバ、それらを計量し振り分ける[[llm|ゲートウェイ]]、その仕組みを検査可能にするモデルカードと監査ログ、学生の記録をモデルへつなぐデータパイプライン、そしてそのすべてを稼働させ続ける職員までを含む。これは[[edtech-platform|エドテック・プラットフォーム]](学習者に向き合う容器)や[[governance|ガバナンス]](その両方を制約するポリシー)と同じ対象ではない。
 ## 検討すべき問い
@@ -139,29 +140,3 @@ IT部門と図書館のリーダーは、ゲートウェイをポリシーが強
 **「GPUを買うことが戦略である。」** スケジューリング、クォータ、サポートのない容量は行列になる。成功事例は、ハードウェアについて語るのと同じかそれ以上に、ガバナンスと運用について語っている。
 
 **「AIの問題はチャットボットである。」** この文献が描く機関の価値の大半は、単位互換、学習負荷のアナリティクス、タグ付け、アセスメント記録にあり、そこでは学生がチャット画面を開くことは一度もない。
-
-## 関連する概念
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## 関連する記事
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT：モデルカードと月額\$500の上限を備えた、300人規模の統治されたゲートウェイ
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — Purdue：2つのキャンパス推論サービス、1000人以上の利用者、10以上のモデル、vLLMよりOllama
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN：API境界で制御とサービングを分離し、プロキシ層を負荷試験で検証
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter：オープンソースのゲートウェイにおける公平シェアのスケジューリング、クォータ、エネルギー計量
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL：ローカルモデルによるハイブリッド検索、中央値のレイテンシ目標は達成しp95は未達
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — 初等教育からの、学校規模のSLMの議論
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — 単位互換、学習負荷のアナリティクス、アセスメントの生成を扱うOECDの章
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI：学習の証拠をつなぐ6つの層
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat：レイテンシ関門を通らなかった大型の候補ではなく8Bモデルを採用
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA：FERPAの問題を管理するのではなく取り除くローカルの推論モデル
-- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026)：127機関の職員244人と学生91人に、検出、アセスメント設計、AIリテラシー、戦略について聞いた調査

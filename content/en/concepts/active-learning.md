@@ -16,6 +16,8 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 
 > **Active Learning** — instructional approaches that engage students in doing things and thinking about what they are doing, rather than passively receiving information. In [[ai-education|AI in education]], active learning research examines both how AI tools can support active learning pedagogies and how active engagement with AI tools — rather than passive consumption — affects learning outcomes.
@@ -82,52 +84,3 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - **"AI-supported inquiry is automatically higher-order."** A quasi-experiment with **120 Grade 8 students** found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance **and** a narrower measure — the treatment moved some outcomes and not others. Correlation with a higher-order label is not the same as a higher-order task.
 - **"Students designing the teaching is a technical exercise."** In the inversion study, **345 students** in a 700-student course each designed a conversational agent to teach three design patterns to a peer. The active learning came from the design work, which is [[pedagogy|pedagogical]] reasoning rather than prompt engineering.
 - **"Engagement findings are learning findings."** The same evidence base cautions that a **no-control-group, volunteer-sample** design supports engagement claims only. Students valued open-ended design freedom (**22.3%** top positive theme) and complained most about unclear instructions (**23.7%**) — both are about the experience.
-
-## Connected Concepts
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## Connected Articles
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
-- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[instructional-guidance-genai-learning]] — Prompted vs unprompted AI review: structure, not model access, moved open-ended scores
-- [[assigned-ai-preclass-student-engagement-2026]] — Pre-class AI rehearsal raised in-class participation 31% after a second use, not a first
-

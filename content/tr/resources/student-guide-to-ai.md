@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -52,11 +53,3 @@ Herhangi bir disiplinde lisans öğrencileri ve üst düzey ortaöğretim öğre
 Rehber [[formative-assessment|biçimlendirici olarak]] çerçevelenmiştir ve bunu söyler: puanlar alışkanlıkların bir anlık görüntüsüdür, not, bir özellik veya bir tahmin değildir ve öğrencilere bunları herkese açık paylaşmamaları söylenir.
 
 YZ çerçevesi, çabayı dış kaynağa devretmenin öğrencilerin daha azını akılda tutmasına yol açabileceğini gösteren alıntılanan anket ve deneysel kanıtlara dayanır — bu, rehberin çözmek için değil, karşı çıkmak için yazıldığı [[cognitive-offloading|dış kaynağa yükleme]] sorusudur. Saha kılavuzu PDF’i ad, rol, kurum ve e-posta isteyen kısa bir formun arkasındadır; öğretmen kılavuzu modülleri ve pedagojik çerçeve makalesi doğrudan indirilir. Etkileşimli sürüm Gemini Notebook’ta çalışır ve bir Google hesabı gerektirir. Yaklaşık 4.000 kurumda 180 ülkede 40.000’den fazla PDF indirmesi ve 130’un üzerinde özel kampüs baskısı dahil yayıncı rakamları onlarındır; ALA, NASPA, EDUCAUSE, OLC, CAA, Gardner Enstitüsü ve RTI International’dan gelen övgüler de öyle.
-
-## Bağlı kavramlar
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

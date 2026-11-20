@@ -11,6 +11,8 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 > **Automated Essay Scoring (AES)** — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible [[llm|LLM]]-based prompting strategies. AES [[research-methods-aied|research]] covers scoring accuracy, fairness and bias, psychometric validity, and practical [[accessibility|accessibility]] for educators.
@@ -66,11 +68,9 @@ Token-level confidence, probability-weighted scoring, and ensembling each improv
 
 **The human [[benchmark|benchmark]], and what it can and cannot license.** [[opraise-automated-marking-ai-assessment-2026|The OpRaise study]] is the strongest test available of whether LLM marking is ready for routine use, and its answer turns on the benchmark rather than the model. It compared three frontier systems (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), each under 27 prompt configurations crossing rubric specificity, calibration and scoring strategy, against the moderated marks of 761 authentic Psychology essays from 125 students at three UK [[higher-ed|universities]]. Human marks were adopted as ground truth because academic judgment is the socially accepted standard, and the authors note that human markers agree only moderately with each other — which bounds how strong AI–human agreement could reasonably be demanded to be. Against that benchmark, agreement on the UK degree band ranged from **35 to 65 percent by institution** (63 percent at Cambridge, 53 percent at Nottingham, 35 percent at Manchester Metropolitan) and did not transfer between them, so the report's central recommendation is local validation on an institution's own [[assessment|assessment]] materials. Two findings generalize beyond that sample. First, reliability and agreement pull apart: every model re-marked nearly identically (ICC 1.00, 1.00, 0.97) and the models agreed with each other more closely than with humans (three-model ICC 0.91), yet all three agreed on the degree band for only **56 percent** of submissions — self-consistency is not validity. Second, AI marks compressed toward the middle of the scale (a compression score of 0.47–0.82, with the crossover where AI and human agree on average sitting in the upper 50s to low 60s), making AI least accurate precisely at the grade boundaries that separate Firsts from Upper Seconds and passes from fails. Vocabulary range, connectives, sentence complexity and text length predicted AI marks with small but significant effects while their relationship with human marks was broadly negligible — a direct demonstration of the [[ai-scoring-language-bias-physics|linguistic-bias]] concern, and one that no prompting strategy tested removed.
 
-
 **AES as a training signal rather than a judge.** Scoring models are usually studied as evaluators, but SWIM uses one as a reward function. [[swim-student-writing-simulation-2026|Do, Kontak and Sachan (2026)]] freeze a multi-trait AES verifier and score it against generated student essays, turning the predicted trait profile into a dense per-essay reward (the mean trait-normalized distance from the target profile) for GRPO, deliberately not the Quadratic Weighted Kappa metric itself. QWK is defined over a batch of target-prediction pairs and is not a per-sample signal, while exact-match rewards are too sparse in the multi-trait setting. The gains were re-checked against a DeBERTa scorer and an evaluation-only verifier the policy never trained against (0.598 versus 0.479 for SFT, and 0.647 versus 0.501), which is the check that separates genuine proficiency control from adaptation to the [[reinforcement-learning|reward model]]. For AES research this is a second validity demand: a scorer used as a training target is being optimized against, so its own trait weighting and language biases propagate into everything the generator learns. The same feature-weighting asymmetries (grammatical accuracy, lexical sophistication and syntactic complexity weighted more heavily by models than by human raters) now shape training rather than only marks.
 **Scoring and feedback want different methods, so a system should separate them.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] built one TOEFL argumentative-essay system as three modules — scoring, surface-level feedback on grammar and mechanics, and deep-level feedback on organization, coherence and argumentation — instead of a single model doing all three jobs. What wins on one module loses on another: supervised [[llm-training-and-fine-tuning|fine-tuning]] of GPT-4o on 120 of a proprietary set of 480 benchmark-scored essays, tested on the remaining 360, reached a quadratic weighted kappa of 0.84 and RMSE of 0.44 on the 0-5 scale, ahead of the Wang and Gayed (2024) baseline (QWK 0.78, RMSE 0.57). Yet the same fine-tuning produced unusable output for the feedback modules, where direct prompting of Claude 3.7 was what generated teacher-approved comments.
 **The prompt, not the rubric, carries most of the gain.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao and Min (2026)]] raised agreement with CEFR labels from a kappa of 0.488 to 0.829 by adding scored calibration examples and a required rationale, while a detailed rubric supplied alone dropped it to 0.460.
-
 
 ### Connections to related concepts
 
@@ -86,42 +86,3 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - **"Automated scoring results reflect student writing."** The ordinal signal can be **manufactured rather than observed** — synthetic level-1 essays built by template generation, degradation to **20-40% of original length** and keyword removal. A system validated on constructed extremes may never have been tested on the distribution it will meet.
 - **"Aggregate accuracy is the metric to report."** **A skewed rubric distribution can make aggregate scoring metrics mislead**: automated evaluation of a rubric dimension is often a classification task with a lopsided label distribution, where high accuracy and useful discrimination separate.
 - **"Field deployments have not been evaluated."** Field evidence exists from a real high-stakes deployment (**Uruguay's Acredita EB, 2024**), which is the strongest form of evidence in this literature and the one most studies of scoring accuracy never supply.
-
-## Connected Concepts
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Connected Articles
-- [[xu-explainable-ai-essay-scoring-cot-2026]] — Rubric-aware chain-of-thought plus PPO: 0.5253 to 0.5410 average QWK, with small gains from scale (Xu et al. 2026)
-- [[xin-auditable-automated-essay-scoring-2026]] — Auditable scoring: 0.738 macro QWK with evidence-anchored feedback and a teacher review flag (Xin 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
-- [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — Teachers of 300-student classes rate an unplugged AES app 92.5 SUS and ask for a reliability warning, not a final score (Ribeiro et al. 2026)
-- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -61,31 +63,3 @@ ai_assist:
 - **"真实性是任务的一种属性。"** 真实性是一项活动与一个真实社群的正当工作之间的关系。一项任务可以很精巧，却仍是学校形状的：由教师评分、为了成绩、在它声称代表的世界里没有后果。
 - **"评估从任务中浮现，就意味着没有评估。"** 它意味着标准属于社群而非课堂：这份工作对做这份工作的人是否可以接受。那是一个不同且通常更严格的标准，比量规更严格。
 - **"学徒制需要物理场所。"** 机制是合法的边缘性参与：带着真实责任从一种实践的边缘向其中心移动。线上与模拟环境可以支持它，也可以模拟出边缘却从不授予参与，而区别在于学习者的贡献是否真的被使用。
-
-## 关联概念
-
-- [[learner-identity]] — 不断演进的学科性、专业性、创造性与学术性学习者身份
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[virtual-and-augmented-reality]] — 沉浸式环境作为通往真实情境的路径
-
-## 关联文章
-
-- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — 情境加上可复用的、携带来源的资产，在两项试验中胜过普通助手
-
-- [[vargas-situated-learning-ai-review-2024]] — 情境学习与 AI 教育的 PRISMA 系统综述（本页的主要参考）
-- [[genai-educational-outcomes-meta-analysis]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM 作为迭代教学设计的行动者

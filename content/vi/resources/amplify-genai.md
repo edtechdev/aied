@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -48,10 +49,3 @@ Các văn phòng CNTT trung tâm và CIO đã chạy khối lượng công việ
 ## Ghi chú và lưu ý
 
 Miễn phí giấy phép, không miễn phí vận hành: cơ sở trả tiền cho AWS và các nhà cung cấp mô hình. Lựa chọn mô hình đi qua Amazon Bedrock (Anthropic, Mistral) hoặc OpenAI và Microsoft Azure, và việc tự chạy mô hình cục bộ chưa được triển khai. Dự án nói rõ rằng họ không thể hỗ trợ triển khai riêng lẻ và giới thiệu tổ chức đến các đối tác thương mại — nên chi phí thực tế bao gồm nhân sự hoặc nhà thầu. Đây là triển khai ba kho mã (giao diện, máy chủ, hạ tầng) với hàng chục sao chứ không phải hàng nghìn, và so sánh chi phí ở trên là kinh nghiệm của chính Vanderbilt chứ không phải một nghiên cứu có đối chứng. Các cơ sở muốn giữ suy luận trên phần cứng mình sở hữu nên xem [MindRouter](/aied/resources/mindrouter/) và đọc hai bài cùng nhau: Amplify là lớp ứng dụng trên mô hình của nhà cung cấp, MindRouter là cổng trên GPU của chính bạn.
-
-## Khái niệm liên quan
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

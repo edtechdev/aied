@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -132,34 +134,3 @@ ai_assist:
 博士課程のプログラムは、生成AIを二つの方向で同時に採用しています — 研究の器具として、そして候補者が教えるために学ばねばならないものとして — そして2026年のキューバにおける参加型アクションリサーチ研究は、一つの順序づけがその双方に資するかを検証しました。教える立場でもある34人の博士課程の候補者が、単一の統合モデル（Dr. I.D.E.A.モデル）に取り組み、そこでは研究、AIに支援されたデジタルおよび創造的な教育学的コンピテンスが同一の真正な課題の上で行使されました。34人全員が生成AIをコースに統合し、26人が少なくとも3週間にわたり文書化された再設計を維持し、25人が追跡調査の時点でもAI支援の実践を続けていました。（[[idea-model-doctoral-education-genai-2026|Padrón Alvarez & Estrada Molina, 2026]]）
 
 自己報告によるコンピテンスの伸び（d = 1.69から2.10）は、比較群のない知覚された変化として読むべきです。持続する貢献は運用の層にあります。すなわち、共に構築された利用の分類、個人のAI利用ログブック、そして索引データベースでの必須の検証です。
-
-## 関連する概念
-
-- [[academic-integrity]] — テキストを生成できるようになったときの著者性、開示、不正行為
-- [[assessment-validity]] — 評点、学位審査、臨床評価が正当に主張できること
-- [[ai-literacy]] — 大学院プログラムが修了者に証明することを期待される能力
-- [[cognitive-offloading]] — 思考を支える委任と、思考を置き換える委任
-- [[evaluative-judgment]] — 研究指導が育てるべきであり、いまや評価しなければならない能力
-- [[professional-training]] — セミナー室の外での臨床・法務・経営の準備
-- [[medical-education]] — 大学院段階のAI試験の最大の供給源
-- [[business-education]] — 最も強力な実験を提供するMBAおよび経営系修士の科目
-- [[career-development-and-readiness]] — 就職の斡旋ではなく発達過程としての就業力
-- [[oral-assessment]] — 個人能力の証拠としての学位審査、口頭試問、口頭での確認
-
-## 関連する記事
-- [[genai-medical-education-transformation-review-2026]] — 入学から実務までの医学学位を横断する153件の報告。追跡ありが13件、患者レベルの成果はなし
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 大学院研究方法におけるソクラテス的対話の記録。6学期でチェックポイント完了率96%
-- [[issa-teamwork-framework-academic-integrity-2024]] — 大学院ビジネス科目での監督下チームワーク。成績は40点中27から31へ上昇、不正行為の件数は欠落
-- [[genai-dependence-research-creativity-2026]] — 大学院生1,157名。機能的依存は実存的依存よりはるかに強く創造性と関連
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 米国の保健系AIプログラム36件。倫理を教えるのは80.6%、データの来歴は22.2%
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — オンラインMBAで構造化AIチューターが55点中6.63点の向上。音声とテキストは同等
-- [[assigned-ai-preclass-student-engagement-2026]] — MBA学生759名。参加が約31%上昇したのは2回目の課題としての練習の後だけ
-- [[llm-grading-assistants-public-health-2026]] — 修士の小論文試験を重み付きカッパ0.718で採点、5日間の再採点での一致は0.625
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 高等教育の123件の研究が、エージェンシーを支える型と損なう型を対応づける
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31件の研究。教員と学生は過度の依存で一致し、公正性では分かれる
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21件の研究、教育的証拠ありが3件、法科学の教室でのものはなし
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 修士課程学生425名。レディネスは指導教員サポートを介して研究セルフエフィカシーに到達（パスβ = 0.201）
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士課程の研究指導に関する61件の資料のレビュー。課題に基づく倫理、比例した開示、マイルストーンでのガバナンス
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 単一群のセミナー。自己主導的学習が80.62から87.38へ上昇、対応づけられた記録は8件
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 大学院生は倫理と自律性で学部生を上回る（d = 1.47）。使用頻度は能力を予測せず
-- [[idea-model-doctoral-education-genai-2026]] — 博士課程の候補生が自らの担当コースを再設計：76.5%がコース再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を継続使用

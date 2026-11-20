@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -120,52 +122,3 @@ AI में भरोसा राष्ट्रीय ग्रहण-दर 
 
 - भरोसा, जोखिम-बोध और उपयुक्त निर्भरता को अलग संरचनाओं के रूप में रिपोर्ट करें, क्योंकि वे गैर-स्पष्ट दिशाओं में सह-भिन्न होते हैं, जिसमें ऋणात्मक दिशा भी शामिल है।
 - व्यवहार-परिणाम (गलत सुझावों की स्वीकृति-दर) को स्व-रिपोर्ट भरोसे के साथ रिपोर्ट करें; अकेले भरोसा-पैमाने निष्कर्ष उलट देते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — वह सामाजिक जोखिम जिस पर मानदंड और प्रकटीकरण चलते हैं
-
-## संबंधित लेख
-- [[ilieva-agentic-genai-higher-education-2026]] — अनुभूत जोखिम निरंतर-उपयोग इरादे से सकारात्मक रूप से सहसंबद्ध है: सूचित अपनाना (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — K-12 कक्षा के AI में नियंत्रण और सशक्तिकरण पर शिक्षक-छात्र भरोसे का अंतराल
-- [[qu-wang-disclose-or-not-genai-2026]] — AI उपयोग का प्रकटीकरण संबंधगत कारकों और शिक्षकों के साथ सहजता से चलता है, नीति से नहीं
-- [[genai-teacher-feedback-comparison]] — GenAI और शिक्षक की प्रतिपुष्टि भिन्न, पूरक भरोसा ज़रूरतों को पूरा करती हैं
-- [[care-full-feedback-genai]] — "सावधानी-पूर्ण," संबंधगत अभ्यास के रूप में भरोसेमंद प्रतिपुष्टि
-- [[ai-fallibility-warning-help-seeking]] — AI में गलती हो सकती है, इस चेतावनी से एक ITS में सहायता-मांग बढ़ती है
-- [[calibrating-trustworthiness-llm-education-2026]] — शिक्षा में LLM के लिए विश्वसनीयता मापदंडों और दृश्यवीकरण का सह-डिज़ाइन
-- [[ai-overreliance-complex-adaptive-system-2026]] — एक जटिल अनुकूली प्रणाली के रूप में मॉडल की गई AI अत्यधिक निर्भरता
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — भौतिकी के AI उपकरणों में भरोसा-उपयोगिता अंतराल
-- [[t2i-competence-paradox-2026]] — AI छवि निर्माण में योग्यता विरोधाभास
-- [[task-context-trust-educational-hri-2026]] — कार्य संदर्भ दिखावट से अधिक शैक्षणिक रोबोटों में भरोसे को आकार देता है
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — अवतार पहचान और AI-मध्यस्थित सीखने में ज्ञान-साधक भरोसा
-- [[contextual-sycophancy-ai-literacy]] — प्रासंगिक सहमतवाद और भरोसे के अंशांकन के लिए उसकी सीमाएँ
-- [[sycophantic-ai-social-interaction-2026]] — सहमतवादी AI समय के साथ मानवीय परस्पर क्रिया को कम संतोषजनक बनाता है
-- [[ai-pedagogical-accompaniment-amico]] — उत्तरदायी शैक्षणिक मध्यस्थता और AI-सक्षम प्रणालियों में भरोसा
-- [[best-response-student-ai-dialog-2026]] — छात्र-AI संवाद में भरोसा
-- [[ai-adaptation-gap-higher-education-2026]] — उच्च शिक्षा में AI भरोसे का सबसे मज़बूत पूर्वानुमानक के रूप में अनुभूत उपयोगिता
-- [[bassett-ai-detectors-education-2026]] — AI पहचान प्रणालियों में भरोसा और अविश्वास
-- [[genai-use-usefulness-student-experience-australia-2026]] — ऑस्ट्रेलियाई उच्च शिक्षा में GenAI उपयोगिता का छात्र अनुभव (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — मिश्रित कक्षाओं में शिक्षकों के लिए ML निष्कर्षों को सुगम बनाना
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — मेरा काम किसे ग्रेड करना चाहिए? उच्च शिक्षा में पारदर्शी AI-सहायित लेखन मूल्यांकन पर छात्र दृष्टिकोण
-- [[trust-in-ai-psychological-profiles-ml-2026]] — तीन छात्र प्रोफ़ाइल जिनमें AI भरोसा जनसांख्यिकी के बजाय लचीलापन और तनाव पर चलता है (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — सीमित निर्भरता: AI-निर्मित लेखन प्रतिपुष्टि के साथ EFL छात्रों की सहभागिता पर एक स्रोत विश्वसनीयता दृष्टिकोण
-- [[ai-empowerment-threat-genai-dependence-2026]] — सशक्तिकरण और खतरे के आकलन ने भरोसे को विपरीत दिशाओं में चलाया, GenAI निर्भरता को ढोते हुए
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — सहपाठियों का GenAI उपयोग अनुभूत सौहार्द और योग्यता के माध्यम से आपसी भरोसा घटाता है, जिसे AI साक्षरता संरक्षित करती है
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — विश्वसनीयता-संकेतों ने गलत एआई स्थिति की ओर स्विचिंग बढ़ाई; सिफ़ारिश रोकने पर वह दब गई
-- [[trust-calibration-genai-collaborative-regulation-2026]] — एक संरचनात्मक मॉडल उस सेतु-भूमिका को अनुभवजन्य परीक्षण देता है
-- [[lucau-uneven-use-similar-trust-genai-2026]] — असमान उपयोग, समान भरोसा: डेनमार्क और रोमानिया में जनरेटिव एआई (Lucau, Voicu और Christensen 2026)
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — कला छात्रों के लिए GenAI इरादे का सबसे मज़बूत पूर्वानुमानक साधनात्मक भरोसा

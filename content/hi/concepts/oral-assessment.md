@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,35 +91,3 @@ ai_assist:
 - **"मौखिक आकलन बड़े पैमाने पर लागू नहीं हो सकता।"** [[code-review-genai-cs1|CS1 मौखिक कोड-समीक्षा अध्ययन]] में, **साप्ताहिक पंद्रह मिनट के साक्षात्कार प्रत्येक असाइनमेंट के सत्तर प्रतिशत अंक** ले गए, और चिपकाए गए अक्षरों का कुल अक्षरों से अनुपात अब भी सूचनाप्रद रहा। लागत वास्तविक है और डिज़ाइन पाठ्यक्रम-स्तर पर लागू करने योग्य है।
 - **"मौखिक परीक्षाएँ लिखित से आसान होती हैं।"** रिपोर्ट किए गए पायलट में, अंक **आमने-सामने बहुविकल्पीय परीक्षाओं से अधिक रहे: मध्यावधि माध्यक 92.5 बनाम 70 (p < .001) और अंतिम माध्यक 94.2 बनाम 86.4 (p = .002)**। मौखिक आकलन उदार विकल्प नहीं था।
 - **"सिमुलेटेड मुलाक़ात प्रगतिशील-प्रकटीकरण मामलों के बराबर है।"** [[ai-standardized-patient-scaffolding-medical-2026|एक सौ तृतीय-वर्ष चिकित्सा छात्रों वाले एक RCT]] में सिमुलेटेड-रोगी प्रणाली की तुलना **प्रगतिशील-प्रकटीकरण मामला सामग्री** से की गई: यह तुल्यता की मान्यता नहीं, बल्कि उसका सीधा परीक्षण था।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — मौखिक और विवा सत्यापन अनुक्रम, और वे क्या और क्या नहीं दिखाते
-- [[assessment]] — यह व्यापक क्षेत्र जिसके भीतर यह प्रारूप स्थित है
-- [[authentic-assessment]] — वह डिज़ाइन परंपरा जो ईमानदारी की दलील बनाती है
-- [[assessment-validity]] — कोई प्रारूप क्या और क्या नहीं मापने का दावा कर सकता है
-- [[academic-integrity]] — वह दबाव जिसने मौखिक परीक्षाओं को फिर प्रमुखता दिलाई
-- [[automated-assessment]] — मौखिक प्रदर्शन की मशीन प्रेषण और स्कोरिंग
-- [[ai-detection]] — वैकल्पिक प्रतिक्रिया, और यह क्यों दुर्बल है
-- [[speech-and-voice-technologies]] — वह बोली पाइपलाइन जिस पर एक मौखिक प्रणाली चलती है
-- [[multimodal]] — संयुक्त साक्ष्य के रूप में इशारा और बोली
-- [[anxiety-and-stress]] — सीधे प्रदर्शन की भावनात्मक लागत
-- [[feedback]] — विवा शिक्षार्थी को अपनी ही समझ के बारे में क्या बताता है
-- [[higher-ed]] — वह सेटिंग जहाँ से यह लगभग सारा प्रमाण आता है
-
-## संबंधित लेख
-- [[ai-second-language-listening-speaking-assessment-2025]] — गैर-शाखित AI संवाद कार्य कार्य-मांगों को भाषण-संरचना से बेमेल करते हैं
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — जीवंत विवा अब प्रतिरक्षित नहीं: AI चश्मे और ईयरबड्स गुप्त वास्तविक-समय संकेत पहुँचाते हैं (Corbin, Sharpe & Dawson 2026)
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — मौखिक परीक्षाओं और आकलन के उपयोग पर पुनर्विचार (फेंटन 2025)
-- [[asynchronous-oral-assessment-2026]] — असमकालिक मौखिक आकलन: ईमानदारी, संलग्नता और व्यावसायिक संचार
-- [[ai-supported-oral-assessment-tvet-2026]] — व्यावसायिक शिक्षा में AI-समर्थित मौखिक आकलन का डिज़ाइन
-- [[aivaluate-anxiety-assessment-2026]] — AI-मध्यस्थ प्रदर्शन-आधारित आकलन में चिंता और अनुभव
-- [[code-review-genai-cs1]] — एक परिचयात्मक प्रोग्रामिंग पाठ्यक्रम में मौखिक कोड-समीक्षा साक्षात्कार
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — मौखिक व्याख्याओं के आकलन में इशारे को साक्ष्य के रूप में
-- [[socratic-tests-conversational-assessment]] — मौखिक आकलन के रूप में स्वचालित संवादी परीक्षण
-- [[tool-invariant-framework-agentic-ai]] — AI-सहायित कार्य के मौखिक बचाव
-- [[ai-standardized-patient-scaffolding-medical-2026]] — एक सिमुलेटेड-रोगी प्रणाली के अंतर्गत बोले गए नैदानिक साक्षात्कार
-- [[pgr-students-genai-uses-qualitative-2026]] — जनरेटिव AI के अधीन डॉक्टरी विवा
-- [[computing-assessment-genai-workshop-report-2026]] — AI आपका गृहकार्य कर सकता है। अब क्या? जनरेटिव AI के युग में कंप्यूटिंग आकलन पर एक ऑनलाइन कार्यशाला से रिपोर्ट
-- [[assessment-feedback-trilemma-model-2026]] — किसी भी प्रारूप को स्थिर स्थान देने से इंकार, और व्यवहार्यता को शैक्षिक प्राथमिकता के रूप में पुनःस्थापित करना

@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, metacognition, writing-education, self-regulated-learning, formative-assessment, ai-detection, process-oriented-assessment]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,7 +42,3 @@ Namijenjen je pojedinačnim nastavnicima i studentima, koji ga mogu rabiti bez i
 ## Napomene i upozorenja
 
 Besplatno pokriva tijekove rada u pojedinačnom razredu; institucionalne cijene postoje zasebno i vezane su uz opseg implementacije, obradu podataka, podršku i usklađenost, a ne uz naknadu po studentu ili nastavniku. Budući da izvještaj prikazuje proces, a ne namjeru, samo kopiranje i lijepljenje nije nedolično ponašanje — vlastite smjernice projekta kažu da student možda lijepi vlastiti raniji tekst i da studente ne treba kažnjavati samo zbog lijepljenja. Brojke o prihvaćenosti i ocjena 5,0 u Chrome Web Storeu vlastiti su marketing projekta; recenzije u trgovini proširenja nisu neovisni dokaz o ishodima učenja. Izvještaje čitajte kao dokaz za razgovor, kako je alat osmišljen i kako ga razvijatelj opisuje.
-
-## Povezani pojmovi
-
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]

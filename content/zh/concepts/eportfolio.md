@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -80,30 +82,3 @@ ai_assist:
 **"一项显著的多元统计结果证明档案袋是起作用的成分。"** 它证明的是这一组合推动了结果。该研究把 AI 工具、档案袋结构与口语任务组合在一起，这种形状的设计无法分离出是哪个成分产生了增益。可辩护的主张是关于组合的，而[[learning-gains]]的告诫同样适用：所报告的增益在被复用之前需要追溯到某个成分。
 
 **"电子档案袋取代了无辅助评估的必要。"** 它们是对它的补充。档案袋为过程与随时间而来的成长提供证据；它不为学习者在没有支持时能做什么提供证据，把两者混为一谈，就会重新引入该形式本要解决的"以制品为代理"的问题。
-
-## 关联概念
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-
-- [[reflection]]
-
-## 关联文章
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 学生对使用 AI 辅助档案袋评价发展多元素养的看法（Ni 与 Lam 2026）
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT 与 EFL 口语及反馈素养的电子档案袋评价对齐（Laksana 等 2026）
-- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的档案袋式与能力本位评价
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 对生成式 AI 稳健的真实性评价，含社会贡献档案袋
-- [[beyond-detection-authentic-assessment-ai-2025]] — 带注释的档案袋与口头答辩作为抗 AI 的评价
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 面向混合学习者的共生档案袋
-- [[pbl-structural-conditions-ai-2026]] — 档案袋作为大规模评价的部分答案
-- [[learn-framework-responsible-genai-pbl-2026]] — 个人学习档案袋作为可评估的学习痕迹

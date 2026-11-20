@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -118,64 +120,3 @@ Process mining розмістив переговори щодо запитів �
 - **«Надання групам ШІ означає більше співпраці.»** Огляд обсягу **18 досліджень** картує компроміс у груповій роботі: GenAI підтримував **розвиток знань, генерацію ідей та ефективність комунікації**, водночас несучи реляційну ціну в тих самих інтервенціях. Здобуток ефективності й реляційна ціна приходять разом.
 - **«Підтримане ШІ спільне навчання має метааналітичне підкріплення.»** **Єдиний** наявний метааналітичний контраст для підтриманої ШІ спільної роботи сидить **усередині** інтервенцій PBL/PjBL із підтримкою GenAI, а не оцінюється безпосередньо, тож він є складником ширшого ефекту, а не вимірюванням співпраці.
 - **«Партнер на ВММ зберігає власне міркування групи.»** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] перевірили це в масштабі класу зі студентами вступного курсу суспільних наук, саме тому що збереження є відкритим питанням, а не припущенням.
-
-## Пов’язані поняття
-- [[pedagogical-patterns]] — Скриптована співпраця зі спільним ШІ та її перевірені проєкти ролей
-- [[pedagogical-partnerships]] — Педагогічні партнерства
-- [[group-work]] — Групова робота
-- [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Онлайнове навчання та викладання
-- [[active-learning]]
-- [[icap-framework]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[trust-calibration]]
-- [[pedagogical-agent]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[pedagogy]] — Парасолька: педагогіки та стратегії викладання в освіті зі ШІ
-
-## Пов’язані статті
-- [[lin-ai-peer-collaborative-mathematics-2026]] — Що робить агента на ВММ схожим на ровесника: безпека, невпевнене міркування, доречна недосконалість
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 експертів виявляє однобічний соціальний ризик: процеси співпраці вразливі без шляху посилення
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Проблемно- та проєктно-орієнтоване навчання як багатообіцяючі рамки для освіти з підтримкою генеративного ШІ: нові свідчення з систематичного огляду та трирівневого метааналізу
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Емерджентна аґентність здобувача в неявній людсько-ШІ-співпраці: підтримувальні проти контрарних персон
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[polished-artifacts-fragile-engagement-2026]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[neurodivergent-computing-students]]
-- [[teacher-student-agency-orchestration]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: проактивний адаптивний тьютор спільної роботи зі ШІ для парного програмування
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: дисциплінарна медіація ШІ в командах студентських проєктів
-- [[academic-league-of-ai-2026]] — Академічна ліга ШІ: спільна, проєктно-орієнтована освіта зі ШІ
-- [[icap-cognitive-engagement-llm-agents]] — Розширена рамка ICAP для вимірювання залученості в спільному діалозі
-- [[llm-facilitation-timing-online-discussions]] — Хронометраж фасилітування на ВММ в онлайнових спільних обговореннях
-- [[ba-ai-agents-cscl-review-2026]] — Огляд агентів ШІ в комп’ютерно-підтриманому спільному навчанні
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI і групова робота студентів: огляд обсягу (Wei & Perkins 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Синтетичний бенчмарк ASTRA для багатоагентного тьюторингу та співпраці з балансом участі
-- [[xu-genai-collaborative-space-2026]] — GenAI як агент і простір співпраці в динаміці малих груп (Xu та співавт. 2026)
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Проєктування навчання на основі згенерованих ШІ підсумків на онлайнових форумах обговорення
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI як інфраструктура координації в студентських групах: посилене, стримане та невтілене використання
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Агенти тренування етики: фасилітування групової етичної освіти через рольову гру та обговорення для етичної рефлексії та дослідження
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Соціально орієнтована робота над ШІ-співпрацею так і не стала домінантною темою в 1 048 публікаціях
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Групова епістемічна конфігурація вирішила, де сидить ШІ: вузол інтеграції в групах із різними попередніми уявленнями, лінійний шлях «запит-потім-обробка» у схожих, за рівного попереднього знання (Wang et al. 2026)
-- [[bjet-many-hands-make-light-work-2026]] — Пари з багатоагентною системою створили найкращі проєкти, тоді як сольна робота дала найбільші прирости критичного мислення
-

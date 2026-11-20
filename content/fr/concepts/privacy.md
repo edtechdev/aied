@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -100,38 +102,3 @@ La vie privée se rattache à l'[[learning-analytics|analytique de l'apprentissa
 - **« La littérature sur la surveillance établit l'éthique de la surveillance. »** Une revue de **80 études** a constaté que **35% ne divulguaient pas leur jeu de données, 40% évaluaient un seul modèle, 30% ne pouvaient être reproduites et seulement 25%** atteignaient le seuil de déclaration. La base de données probantes est mince précisément sur les questions auxquelles un établissement doit répondre avant de déployer.
 - **« La vie privée est une case à cocher de conformité plutôt qu'une contrainte de conception. »** Presque tout outil d'IA qui personnalise, prédit ou évalue dépend de données d'apprenant, ce qui fait de la minimisation des données une décision de conception. Un outil qui exige ces données n'a pas un réglage de confidentialité optionnel ; il a une dépendance aux données que la conception a choisie.
 - **La conscience des pratiques de données ne découle pas du fait de les voir.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] a constaté que **66% des 47 élèves de septième année** choisissaient l'option la moins protectrice pour des [[conversational-ai|chatbots]] lisant leurs écrits, et que **47%** écartaient l'influence algorithmique comme « juste amusante » — mesuré **un mois après** une leçon où la classe avait vu son propre comportement journalisé projeté en direct, avait réagi en le trouvant « effrayant », et où plusieurs élèves étaient restés pendant la récréation pour continuer à utiliser la plateforme. Un enseignement de la vie privée qui rend le mécanisme visible sans rendre son coût concret laisse la posture inchangée. L'auteur note que les scores faibles sont peut-être ici **plus fiables que les scores élevés**, puisque aucune réponse socialement attendue n'existe pour ces items, alors que la responsabilité et la gouvernance invitent à la réponse qui sonne juste.
-
-## Concepts liés
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[legal-issues-and-risks]]
-- [[student-experience]]
-- [[student-support-and-success]] — dossiers des étudiants, partage de données entre services, et modélisation fédérée du risque
-
-## Articles liés
-- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Un penny pour vos invites : la fuite contextuelle dans les plateformes de chat par IA (Bekos et coll. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analytique de l'apprentissage fédérée et explicable pour la modélisation préservant la vie privée du risque académique (Villegas-Ch et coll. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — De l'analytique de l'apprentissage aux interventions éducatives : facilitateurs d'interventions fondées sur une analytique digne de confiance (Svetec, Divjak et Kadoić 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Dette de littératie agentique : l'écart structurel de littératie en IA issu des agents autonomes (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM : anonymisation et consentement pour des données d'apprentissage authentiques
-- [[bassett-ai-detectors-education-2026]] — Pile je gagne, face tu perds : les détecteurs d'IA dans l'éducation (Bassett et coll. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnostic cognitif fédéré par grands modèles de langue préservant la vie privée
-- [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Ce que capturent les systèmes de surveillance, et l'absence de littérature sur la vie privée dans la base de données probantes
-- [[edtech-privacy-deferral-2026]] — « Nous le corrigerons plus tard » : l'éducation, l'IA et le report de la vie privée des étudiants dans les technologies éducatives
-- [[kaziya-learner-data-privacy-governance-2026]] — Cadre séparant la compétence d'un enseignant en matière de vie privée de l'autorité institutionnelle pour agir

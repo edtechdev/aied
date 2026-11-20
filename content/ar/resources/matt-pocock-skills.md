@@ -35,6 +35,7 @@ ai_assist:
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [socratic-method, self-directed-learning, metacognition, prompt-engineering, generative-ai, pedagogical-agent, ai-literacy, human-ai-collaboration, open-source, teacher-ai-competency]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -46,6 +47,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## ما يجب معرفته قبل اعتماده
 
 كلُّ شيء [[open-source|مفتوح المصدر]] بموجب MIT ومجانيّ كنقطة بداية لثقافة [[ai-literacy|ذكاء اصطناعي]] محلية أو دراسة [[self-directed-learning|ذاتية التوجيه]]. والاعتماد كبير وسريع الحركة: نحو 270,000 نجمة و23,000 تفرّعًا عند الفحص في سبتمبر 2026، مع أحدث إيداع في 18 سبتمبر 2026. والتحذير هو النطاق. تفترض المهارات سياقَ عمل [[human-ai-collaboration|مهندسي]]، وهي مُنظَّمة في سلالم هندسية وإنتاجية ومُتقاعِدة وقيد الإنجاز، فبعض المدخلات غير مكتملة أو متقاعدة صراحةً، ويضاعف ملف README دورَ اشتراك في نشرة. تعامل مع مهارتَي التعليم والاستفهام كالجزء القابل للنقل، وتوقّع إعادة كتابة أيٍّ منهما قبل وضع واحدة أمام الطلاب.
-
-## مفاهيم مرتبطة
-[[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

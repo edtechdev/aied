@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -38,6 +39,3 @@ Um **conjunto de avaliações**: uma autoavaliação de maturidade em prontidão
 
 ## Para quem é
 Líderes de pesquisa, comitês e escritórios de política que precisam de um panorama baseado em evidências de como a IA é usada e [[governance|governada]] em um ambiente de pesquisa, e de uma forma de acompanhar a [[change-management|mudança]] ao longo do tempo. Ele acompanha *Responsible AI in Academic Research: A Competency Framework for Research Training*, que define cinco dimensões de prontidão, e foi escrito por Michael J. Zyphur, diretor do Instats.
-
-## Conceitos conectados
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

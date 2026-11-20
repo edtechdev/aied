@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -151,76 +153,3 @@ Et gennemarbejdet eksempel på kohortemodellen kommer fra et universitetsbibliot
 **"Skyld over AI-brug indikerer regelbrud."** Den følger skjul frem for åbenhed: at begrænse AI-brug på grund af uro korrelerede med at skjule det, ikke med forbudt adfærd. At læse skyld som evidens for forseelse identificerer derfor dens kilde forkert, og at behandle den som et compliance-signal vil skubbe adfærden længere ud af syne.
 
 **"En lav svarprocent betyder, at underviserne ikke har stærke følelser."** Artiklen læser sine **109 svar (en svarprocent på 3,5)** som selv informativ om tilstanden af den etiske debat; et lavt svar på et spørgsmål om ubehag er et fund om det ubehag, ikke et fravær af det. Og en GenAI-integration, der udelukkende rammesættes som opkvalificering, overser det identitetsspørgsmål, nogle undervisere faktisk stiller: hvad meningen med undervisning er i en GenAI-verden.
-
-## Forbundne begreber
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-- [[metaphors-and-analogies]] — Metaforfremkaldelse og analogidesign i underviserudvikling
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
-
-## Forbundne artikler
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Fra prompt til praksis: Et fagcentreret initiativ til at udforske AI-understøttet OER-skabelse (Jordan et al., 2025)
-  [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse af GenAI-rådgivning om konstruktiv sammenhæng: udviklere omdefineret som teknokrater, og et forsvarligt alternativ for dem som kuratorer (McInnes et al., 2026)
-- [[crompton-faculty-technology-integration-standards-2026]] — Standarder for underviseres teknologiintegration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etiske dimensioner ved AI: underviseres og studerendes syn
-- [[nicola-richmond-programwide-assessment-genai-2025]] — 
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hvordan ingeniørfaglige metaforer konstruerer (og begrænser) forståelsen af AI
-- [[fear-awe-genai-metaphor-workshops-2025]] — Frygt og ærefrygt: at forstå generativ AI gennem metaforer (metaforværksted for undervisere, personale og studerende)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Fire kriterier og fire metaforer til at undervise i kritisk AI-kompetence
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — At styre det usynlige: AI-kompetence blandt sproglærere
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — 
-- [[teacher-ai-adoption-confidence]] — 
-- [[institutional-change-framework-ai]] — 
-- [[genai-policies-higher-ed-computing]] — 
-- [[ai-tpack-preservice-math-teachers]] — 
-- [[crewscaler-ai-upskilling-framework]] — 
-- [[ai-assessment-scale-reform]] — 
-- [[pchl-he-framework-genai-content-creation-2026]] — 
-- [[genai-pd-ai-pck-learning-gain-2026]] — 
-- [[genai-higher-education-systematic-review-2026]] — 
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise, ikke kompetencegab
-- [[zuo-instructor-power-genai-writing-2026]] — Magtforhold oplevet af universitetsundervisere, der kæmper med GenAI i skrivning (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle-modellen: AI som kognitiv mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Underviseres selvopfattede TPACK-21-viden om GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-professionel udvikling: fremmøde forudsiger gevinster, selvopfattet deltagelse gør ikke
-- [[instructional-design-proficiency-masters-math-2026]] — Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Universitetslæreres erfaringer med og opfattelser af generativ AI: sårbarhed, gentænkning af evaluering, studerendes læring i fare (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Fra frygt til innovation: et seks uger langt underviserinstitut, symbiotisk pædagogik og de institutionelle betingelser, det ikke kunne levere
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI-skyldkomplekset: forventet skyld, skjul og forskelle mellem karrieretrin blandt akademisk personale (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-undersøgelse af 1 057 amerikanske undervisere: institutionel uforberedthed, tynd styring og politikkløften på 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademiske udviklere som digitale mediatorer i videregående uddannelse i det globale syd: udvikling som socioteknisk praksis
-- [[physics-faculty-learning-community-ai-2026]] — En workshoppserie om effektiv brug af AI i usikre tider: at bygge et fysikfagligt læringsfællesskab
-- [[faculty-ai-well-being-social-supports-2026]] — Underviseres AI-relaterede trivsel følger AI-kompetence snarere end teknologisk self-efficacy
-- [[ai-competence-framework-landscape-2026]] — Undersøg, hvad en rammes niveauer beskriver, før du tager den i brug
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kan uddannelse sætte dagsordenen for AI? Simuleret innovation og pædagogisk retningssætning i læreruddannelsen
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 kemilærere i et seksugers program
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ sproglærere fra 28 lande over 20 uger
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 skandinaviske lærere; 0,20 SD gevinst i oplevede fordele
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 lærere efter et GenAI-læringsprogram, med behov der medierer engagement
-- [[bodek-prompted-to-explore-microlearning-2026]] — en mikrolæringsramme for underviserudvikling i generativ AI
-- [[bursic-ai-residency-education-curriculum-2026]] — en AI-residens i medicinsk uddannelse
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ressourcer; underviserudvikling som et af fire temaer
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 lærere, der bad om udvikling ledet af tidligere lærere
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % opkvalificerer eksisterende personale og undervisere
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 undervisere, der legitimerede skygge-AI, hvor vejledning manglede
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — kapacitetsgab, der driver underviserudvikling og ansættelsesbeslutninger
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — gentaget udvikling som et af fem støttelag
-- [[chen-future-faculty-development-ai-2027]] — Syv lærerroller, to universelle fundamenter og undervisningsteamet som udviklingsenhed
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Dømmekraftsrummet, dialogisk undersøgelse og en trekolonne-revision af, hvor dømmekraft er flyttet til et værktøj
-- [[jiang-faculty-development-japan-2027]] — Japans tosporede FD: deltagelsen steg, mens kollegiale formater ikke gjorde
-- [[tian-transnational-faculty-development-governance-2027]] — Transnational underviserudvikling: konnektivitet er episodisk, koordinering er arbejdet
-- [[ho-invariant-core-faculty-development-2027]] — Invariant kerne, flyttende kant: læringsmekanismen foran teknologien

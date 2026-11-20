@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
+connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -79,43 +81,3 @@ PBL は成果物の生産よりも過程、協働、実証された理解を前�
 - **「PBLの成果はプロジェクト基盤型学習の成果と統合して扱うべきである」** 三水準のメタ分析が**成果物と解決策の成績を別のモデルに保つ**のは、それが学習者自身の推論ではなく**人間とAIの協働**を測るからです。統合すれば、共同で生み出された成果物を学生のものとして帰属させることになります。
 - **「協働上の伸びはAI利用の副作用である」** ある研究では、知覚された協働的問題解決（**M = 3.62 対 3.05、d = 0.88**）と共有された問題解決（**3.40、d = 1.02**）が高く、**最大の交互作用効果は共有された知識構築と社会的調整**に現れました。設計が予測する協働的過程の次元です。機構はツールではなく構造化された協働です。
 - **「AIを用いたPBLは主にファシリテーターの時間を節約する」** 測定可能な伸びは、集団構造がそのために設計されているときにのみ存在する次元の、過程の質にあります。共有された知識構築を構造化せずにAIを加えるPBL実装は、同じ効果を期待すべきではありません。
-
-## 関連概念
-
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 用意された事例と事例討論。PBL の開かれた探究とは異なる
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[productive-failure]] — 生産的な失敗
-
-## 関連記事
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration（Rowe 2026）
-- [[educators-engagement-ai-pbl-review-2026]] — PBL における AI との教育者の関与の体系的レビュー（Amdan ら 2026）
-- [[genai-simulate-patient-history-pbl-2026]] — 医学の PBL チュートリアルのための生成 AI バーチャル患者（Mool ら 2026）
-- [[learn-framework-responsible-genai-pbl-2026]] — PBL における責任ある生成 AI のための LEARN 枠組み（Uden & Hwang 2026）
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI で強化された PBL における適応的な足場かけとしての ChatGPT（La Sunra ら 2026）
-- [[pbl-biomedical-engineering-genai-2026]] — 生成 AI 時代の生物医学工学における PBL（Nnamdi ら 2026）
-- [[ai-pbl-computational-thinking-2026]] — 計算的思考のための AI 支援 PBL
-- [[genai-counter-learner-groupthink-2025]] — 職種間協働の PBL において集団思考に対抗する生成 AI エージェント
-- [[dai-chatbots-problem-posing-primary-2026]] — 初等理科における問題づくりと生成 AI チャットボット
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM における探究基盤型学習のための ChatGPT
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — シナリオ基盤型医療教育における生成 AI の体系的レビュー（Neto ら 2026）
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 130 名の就学前物理教員による AI 支援 CTD-PBL モジュール: TPACK と協働的な問題解決（Chen & Osman 2026）
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

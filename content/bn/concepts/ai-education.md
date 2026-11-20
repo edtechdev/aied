@@ -34,7 +34,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -195,60 +196,3 @@ AI রূপ দেয় — আমরা কীভাবে শিক্ষা
 **"যেহেতু AI সর্বোদ্দেশ্য, যেকোনো জায়গার ফলাফল সব জায়গায় প্রযোজ্য।"** প্রযুক্তির সাধারণতা প্রমাণের সাধারণতা তৈরি করে না। বিষয়ক্ষেত্র, স্তর ও প্রসঙ্গের ধারাগুলো আছে কারণ একই সরঞ্জাম সেগুলোতে ভিন্নভাবে আচরণ করে, আর সীমা পেরিয়ে অপরিবর্তিত ফলাফল বহন করা একটি এক্সট্রাপোলেশন।
 
 **"প্রকাশনার পরিমাণ দেখেই ক্ষেত্রের পরিপক্বতা বোঝা যায়।"** পরিমাণ ও পরিপক্বতা আলাদা পথে চলে; গবেষণা-পদ্ধতির ধারা এমন বারবার ফিরে আসা নকশা-দুর্বলতা নথিভুক্ত করে যা পরিমাণ ঠিক করে না, আর ফ্রেমওয়ার্কগুলো পরীক্ষিত হওয়ার চেয়ে দ্রুত হারে বাড়ে।
-
-## সংযুক্ত ধারণা
-- [[pedagogical-patterns]] — ক্ষেত্রের পেডাগজিগুলোকে পরিচালনাশীল করে সেই পরীক্ষিত ক্রমগুলি
-- [[ai-literacy]] — ছাতা: AI বোঝা, ব্যবহার এবং মূল্যায়ন
-
-- [[automation-bias]] — পাঠক-দিকের ব্যর্থতা: যাচাই না করে স্বয়ংক্রিয় রায় মেনে নেওয়া
-- [[human-ai-collaboration]] — ছাতা: মানুষ ও AI কীভাবে একসঙ্গে কাজ করে
-- [[pedagogy]] — ছাতা: শিক্ষাদান পদ্ধতি ও কৌশল
-
-- [[case-based-learning]] — কেস পদ্ধতি, কেস আলোচনা ও বৈপরীত্য-কেস
-- [[metaphors-and-analogies]] — রূপক কীভাবে এআই-বোঝাপড়া গড়ে আর উপমা কীভাবে নির্দেশনা সমর্থন করে
-- [[learning-theories]] — ছাতা: কীভাবে শিখন হয়
-- [[ai-technologies]] — ছাতা: মডেল, কৌশল এবং সিস্টেম
-- [[discipline-specific-aied]] — ছাতা: বিষয়ের ক্ষেত্র ও স্তর জুড়ে AI
-- [[assessment]] — ছাতা: কীভাবে AI শিক্ষার্থীদের মূল্যায়ন করে এবং বৈধতা নতুন রূপ দেয়
-- [[feedback]] — ছাতা: ফিডব্যাক কীভাবে তৈরি, পরিবহিত ও ব্যবহৃত হয়
-- [[stakeholders]] — ছাতা: কারা কর্তারা
-- [[learners]] — ছাতা: শিক্ষার্থী-পক্ষের ধারণাগুলো (অভিজ্ঞতা, পরিচয়, এজেন্সি, মিথস্ক্রিয়া, শিক্ষার্থী মডেল)
-- [[ai-ed-evaluation]] — ছাতা: আমরা কীভাবে জানি AI কাজ করে কি না
-- [[research-methods-aied]] — ছাতা: কার্যকারিতা গবেষণা পদ্ধতি
-- [[ai-assisted-educational-research]] — AI-সহায়তাপ্রাপ্ত শিক্ষামূলক গবেষণা
-- [[governance]] — ছাতা: প্রাতিষ্ঠানিক ও নিয়ন্ত্রক স্তর
-- [[educational-policy-ai]] — ছাতা: নীতি, নির্দেশনা এবং বাস্তবায়ন
-- [[equity-in-ai-education]] — ছাতা: ন্যায়বিচার, প্রবেশাধিকার এবং অন্তর্ভুক্তি
-- [[primary-education]] — প্রাথমিক শিক্ষায় এআই
-- [[secondary-education]] — মাধ্যমিক ও উচ্চ বিদ্যালয়ে এআই
-- [[undergraduate-education]] — স্নাতক-স্তরের পড়াশোনায় এআই
-- [[graduate-education]] — স্নাতকোত্তর ও ডক্টরাল পড়াশোনায় এআই
-- [[learning-sciences]] — AIED-এর পেছনের অন্বেষণমূলক ক্ষেত্র
-- [[ethics]] — শিক্ষায় কৃত্রিম বুদ্ধিমত্তার নৈতিক মাত্রা
-- [[misconceptions]] — মানুষের AI সম্পর্কে আনীত মানসিক মডেল
-- [[interpreting-and-applying-aied-research]] — একটি গবেষণা পড়া, এবং একটি গবেষণাফলকে অভ্যাসে পরিণত করা
-- [[limitations-in-aied-research]] — প্রমাণভিত্তির আড়ালপর্বের সীমা
-- [[meta-analysis-systematic-review]] — রিভিউ ও মেটা-অ্যানালাইসিসগুলো কী প্রতিষ্ঠা করে
-- [[history-of-aied]] — ক্ষেত্রটি কীভাবে বিবর্তিত হয়েছে
-- [[philosophy-of-ai-in-education]] — দার্শনিক ভিত্তি
-- [[theories-and-frameworks]] — তত্ত্ব ও কাঠামো নোডের মানচিত্র
-- [[theory-development-aied]] — তত্ত্ব গড়ে তোলা ও সংশোধন
-
-- [[sensor-and-gaze-analytics]] — ছাতা: দৃষ্টি, EEG ও পরিধানযোগ্য সংকেত দিয়ে শিক্ষার্থী সেন্সিং
-- [[ai-avatars-and-synthetic-instructors]] — ছাতা: কৃত্রিম মানুষ শেখানো, টিউটরিং, সিমুলেশন ও মূল্যায়ন
-- [[civic-and-political-education]] — বিষয়ক্ষেত্র: জনজীবনের সাক্ষরতা, পাতলা প্রমাণভিত্তি নিয়ে
-
-## সংযুক্ত নিবন্ধ
-
-শিক্ষায় কৃত্রিম বুদ্ধিমত্তার বিস্তৃত-ক্ষেত্রীয় রিভিউ — যে গবেষণাগুলো সম্পূর্ণ ক্ষেত্রটি বা সম্পূর্ণ একটি শিক্ষার স্তর দেখায় একটি বিষয় নয়:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — চার দশকে AI-ও-শিক্ষা গবেষণার বিবর্তন (AIxEd কাঠামো)
-- [[mishra-control-vs-agency-history-2025]] — নিয়ন্ত্রণ বনাম এজেন্সি: শিক্ষায় কৃত্রিম বুদ্ধিমত্তার একটি ইতিহাস
-- [[genai-higher-education-systematic-review-2026]] — উচ্চ শিক্ষায় জেনারেটিভ AI: 125 গবেষণার সিস্টেম্যাটিক রিভিউ
-- [[stanford-evidence-base-ai-k12-2026]] — K-12-তে AI-এর প্রমাণভিত্তি: 1,686টি ভাণ্ডার-প্রবন্ধ থেকে নেওয়া 52টি জোরালো কারণগত গবেষণা (নভেম্বর 2026 হালনাগাদ)
-- [[genai-educational-outcomes-meta-analysis]] — জেনারেটিভ AI ও শিক্ষাগত ফলাফল: বিস্তৃত মেটা-অ্যানালাইসিস
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33টি মাধ্যমিক-স্তরের গবেষণা: লাভ আসে যেখানে শিক্ষার্থীরা আউটপুট তুলনা করে
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 জন স্নাতকোত্তর: তত্ত্বাবধায়কের সহায়তার মধ্য দিয়ে প্রস্তুতি স্ব-কার্যকারিতায় পৌঁছায়
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — ডক্টরাল তত্ত্বাবধানের নীতি, প্রতিক্রিয়া ও শাসন নিয়ে 61টি উৎসের পর্যালোচনা
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — একক-দলীয় স্নাতকোত্তর সেমিনার: জ্ঞানী প্রবেশ-রক্ষকের যাচাইয়ের পরেই এআই-আউটপুট গ্রহণ
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 শিক্ষার্থী: নীতিশাস্ত্র ও স্ব-নিয়ন্ত্রণে স্নাতক–স্নাতকোত্তর ফাঁক

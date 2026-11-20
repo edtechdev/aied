@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -83,31 +85,3 @@ ai_assist:
 - **«المراقبة تحمي النزاهة الأكاديمية.»** **مبرر النزاهة لم يصمد أمام أكبر اختبار.** على **أربع موجات و1,760 طالبًا في 105 مقررات**، **رفعت المراقبة قلق الاختبار (β = 0.60، p < 0.001) لكن لم يكن لها** أي فائدة نزاهة قابلة للرصد. فالأثر المقيس وقع على الطلاب لا على الغش.
 - **«قدرة كشف أفضل تعني مراقبة أفضل.»** تجد مراجعة منهجية مدتها عقد لـ**80 دراسة محكمة (2014-2024)** أن مراقبة التعلّم الآلي/العميق المتقدمة **تكشف الغش بدقة أكبر** ولا تقول شيئًا عمّا إذا كان نشرها يغيّر السلوك. فأداء الكشف خاصية للمصنّف لا لنظام التقويم.
 - **«الإشارات السلوكية مؤشرات موثوقة على سوء السلوك.»** تتتبع الأنظمة **سبعة عشر معلمًا جسديًا في كل إطار** بـYOLOv11 لاستخراج سمات **انحراف الوضعية واتجاه الرأس وحركة الجزء العلوي من الجسم**. وهذه البنى وكلاء بالنيابة، والوضعية المُبلَّغ عنها تصنيف عن جسم لا ملاحظة لتجاوز.
-
-## المفاهيم المرتبطة
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## المقالات المرتبطة
-
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — الذكاء الاصطناعي القابل للارتداء يزيل الإشارة السلوكية التي تعتمد عليها المراقبة (كوربين وشارب ودوسون 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — مراجعة منهجية مدتها عقد لمراقبة امتحانات متصلة آلية
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — مراجعة شاملة للخيانة الأكاديمية في المراقبة الآلية
-- [[conijn-fear-big-brother-proctored-exams-2022]] — الخوف من الأخ الأكبر: الآثار الجانبية السلبية للمراقبة على قلق الاختبار
-- [[biology-degree-integrity-genai-cheating-2026]] — هل يستطيع الطلاب الغش إلى درجة أحياء؟ دراسة حالة لضعف درجات مقررات الأحياء أمام الخيانة الأكاديمية في عصر الذكاء الاصطناعي التوليدي
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — تحت المراقبة: رسم ممارسات المراقبة عن بعد في تقييم طلاب التمريض
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — أقجابينار (2026) — 44.2% من الطلاب مصنفون عاليي الخطر في امتحان حضوري مراقَب، مع تنبؤ الخطر من آثار نظام إدارة التعلم في بداية الفصل

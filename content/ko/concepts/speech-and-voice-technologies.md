@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -97,38 +99,3 @@ AkoVoice는 좀처럼 함께 표면화되지 않는 두 가지 형평성 고려�
 - **"유료 음성 서비스가 무료 서비스보다 성능이 좋다."** **두 무료 서비스는 거의 완전한 전사를 반환했고(각각 87.96%와 88.34% 커버리지, 단어 오류율 15.23%와 15.00%)**, 두 유료 서비스는 미리보기만 내보냈습니다(32% 커버리지). 가격은 유용성을 예측하지 못했으며, 유료 등급은 산출물을 개선한 것이 아니라 가두었습니다.
 - **"어떤 언어 학습 챗봇이든 발음을 개선한다."** **열 편의 연구**에 걸쳐 **언어 학습용으로 설계된 챗봇인 Andy English bot과 Xiaoying만이 정확도를 개선**했으며, 한 통제 집단 비교에서 **오류가 14% 감소**했습니다. 일반 대화형 에이전트는 그 이득을 만들어 내지 못했습니다.
 - **"자기효능감 이득은 기술 이득을 뜻한다."** 기술과 결과 사이의 연관은 양(+)이었고 **자기효능감이 부분적으로 매개했습니다. 간접 경로가 총효과의 69.9%를 차지했지만 직접 효과도 남았습니다.** 효과의 대부분이 자신감을 통해 흐른 것이며, 이는 기제이자 주의점입니다.
-
-## 연결된 개념
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## 연결된 문서
-
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR 말하기 피드백: 품질이 양을 이기며, 숙련도가 누가 이득을 보는지 조절한다 (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — 발음 자기효능감이 GenAI 발음 피드백과 의사소통 의지를 매개한다 (EFL 학습자 1,701명)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS 수업 파이프라인: 합성 내레이션이 교강사 음성과 맞먹었고, 대화가 이해를 도왔다
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — TTS 생성 수업에서의 학습 양식 × 대화 형식 상호작용 (학생 222명)
-- [[ai-interlocutor-l2-spoken-dialogue]] — 인간 대 AI 상대방: L2 독일어에서의 지원받은 독백, 흡수, 통제문법적 점화
-- [[kutti-ai-voice-first-learning-companion]] — 시각장애 아동을 위한 실시간 어려움 탐지가 있는 음성 우선 오프라인 동반자
-- [[agent-voice-accents-k12-group-learning]] — 에이전트 억양이 K-12 모둠 활동에서 의인화와 협업을 형성한다 (교사 33명)
-- [[asynchronous-oral-assessment-2026]] — 비동기 구두 평가: 확장 가능한 구술 평가, 학습 성득 주의사항과 함께
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 구두 시험을 진정성 있고 진실성을 보호하는 평가로 옹호하는 검토
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: AI가 등급이 아니라 증거를 드러내는 직업 워크숍의 오프라인 음성 평가
-- [[student-ai-interaction-consecutive-interpreting-2026]] — ASR/MT 지원을 사용하는 통역 훈련생의 네 가지 상호작용 프로파일
-- [[gpt-item-generation-l2-listening-2026]] — L2 듣기 문항 생성을 위한 GPT 프롬프팅 대 미세조정
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 제스처 더하기 말: 말만의 구두 평가가 이해의 증거를 놓치는 이유
-- [[ai-guided-learning-audiovideo-2026]] — 적응형 오디오 속도, 음성 보존 영상 요약, 레이블 없는 발음 피드백
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 청각장애 및 난청 학습자를 위한 LLM 문항 생성
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AI 튜터가 말할 때: 무작위 현장 실험에서의 증거
-- [[ai-mediated-input-medical-english-asr-2026]] — Medical English에서의 AI 매개 입력 변환: 음성 인식과 전사본 신뢰성
-- [[chatbots-oral-proficiency-efl-systematic-review]] — 정확도 이득은 언어 학습 챗봇에서만, 그리고 악센트 있는 이름에 대한 ASR 실패
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 피드백 채널 자체를 겨냥한 전화 음성 에이전트

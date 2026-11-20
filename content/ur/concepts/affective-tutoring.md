@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
+connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -109,24 +111,3 @@ Favero وغیرہ (2025) خبردار کرتے ہیں کہ AI ٹیوٹروں ک�
 
 - بتائیں کہ آپ کی جیت کی شرح کس بنیادی خط کے خلاف ناپی گئی ہے، اور صاف کہیں کہ یہ تقابلی فیصلہ ہے۔ پھر وہ ناپیں جو میدان کو واقعی درکار ہے: غیر موافق سیاق میں منتقلی، ٹیوٹر ہٹائے جانے کے بعد برقراری، اور یہ کہ جذباتی راستہ بند ہونے پر فوائد قائم رہتے ہیں یا نہیں۔
 - جذباتی پروفائلوں کو آزاد متغیر کے طور پر استعمال کرنے سے پہلے ماہرین کے فیصلے کے خلاف جانچیں۔
-
-## منسلک تصورات
-
-- [[llm-training-and-fine-tuning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-
-## منسلک مضامین
-
-- [[ecnuclaw-k12-personalized-companion]]
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[shastry-gray-empathy-offloading-2026]] — لوگ ہمدردی کی منتقلی کرتے ہیں جب اُنہیں لگے کہ AI اُس کی جگہ لے سکتا ہے (Shastry اور Gray 2026)

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [visualization, multimodal, formative-assessment, project-based-learning, accessibility, privacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -46,7 +47,3 @@ Nastavnici i studenti kojima alat treba brzo i koji ne mogu čekati licenciju ok
 ## Napomene
 
 Prodajno mjesto ne imenuje pojedinog autora i zahtjeve usmjerava na poštanski sandučić projekta; DrawSplat je izradio Miguel Guhlin, čije mjesto dokumentira njegova lansiranja. Kod je besplatan u smislu licencije, a ne samo cijene: ploča je GNU AGPL-3.0-or-later, a aplikacije SplatWorks GPL-3.0-only, bez licencije po korisniku na studentskim uređajima. Alati koji čitaju vaše datoteke rade lokalno u pregledniku, dok spremanje u oblak i svaki zahtjev za stručnim usavršavanjem šalju podatke, pa prije upotrebe sa studentskim radovima provjerite stranicu s popisom pohrane.
-
-## Povezani pojmovi
-
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]

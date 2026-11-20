@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -78,34 +80,3 @@ Maschinelles Lernen erscheint in der Bildung auch als *Fach*. In der [[microbit-
 **„Generative KI hat klassisches maschinelles Lernen in der Bildung obsolet gemacht."** Sie tun verschiedene Arbeit. Die Vorhersage von Lernendenzuständen, die Schwierigkeitsschätzung und die Fortschrittsprognose bleiben klassische ML-Probleme, und die Literatur zu Knowledge Tracing und Item-Kalibrierung, die dieser Korpus dokumentiert, wird von einem Sprachmodell nicht bedient. Generative KI ist eine Teilmenge des maschinellen Lernens statt ein Ersatz dafür.
 
 **„Die Lehrkräftebildung sollte Studierende über LLMs statt über maschinelles Lernen unterrichten."** Die Kompetenz auf die generative Schicht zu begrenzen, lässt Praktikerinnen und Praktiker unfähig, die prädiktiven Systeme zu befragen, die Entscheidungen über ihre Studierenden treffen —, und dort konzentrieren sich die folgenreichen Fehler.
-
-## Verbundene Konzepte
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Verbundene Artikel
-
-- [[at-risk-students-ml-prediction]] — Überwachte ML-Klassifikation zur Identifikation von Studierenden mit Abbruchrisiko
-- [[trace-course-grade-prediction-2026]] — Transformer sagt gemeinsam Kurse und Noten vorher (TRACE)
-- [[precision-education-student-digital-twins-2026]] — KI-gestützte digitale Zwillinge von Studierenden für präventive, karriereorientierte Bildungswege
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantisch beschränkter kontrafaktischer Rekurs für umsetzbare Intervention
-- [[interactive-online-learning-ai-2025]] — DMO-GRU-Hybrid für die Vorhersage interaktiven Online-Lernens
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Gerüstbildung kognitiven Engagements in einem ITS (BKT vs. DRL)
-- [[pedagogical-safety-rl]] — Formaler Rahmen für pädagogische Sicherheit im Reinforcement Learning in der Bildung
-- [[automated-online-exam-proctoring-decade-review-2026]] — Jahrzehntelanges Review zu Deep-Learning-gestützter automatisierter Prüfungsaufsicht
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ergebnisbasiertes Knowledge Tracing mit Affinitätszuordnung
-- [[bird-multimodal-educational-literature-2026]] — Multimodale Fusion zur Klassifikation bildungswissenschaftlicher Literatur
-- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Aufgabenschwierigkeit mit LLMs und baumbasiertem ML
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturbewusster Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Universitätsstudierenden mittels NLP und maschinellem Lernen
-- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken verpassen: eine strukturelle Prüfung synthetischer Bildungsdaten

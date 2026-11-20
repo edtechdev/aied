@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -43,7 +44,3 @@ Das Projekt ist bewusst modellagnostisch. Es dokumentiert lokale Ollama-Modelle,
 ## Anmerkungen und Vorbehalte
 
 Die Software ist frei und steht für ihren ursprünglichen Code unter der MIT-Lizenz, also [[open-source|Open Source]], wobei Drittanbieter-Komponenten ihre eigenen Bedingungen behalten; ihr Betrieb bedeutet, bei gehosteten Modellen eigene Inferenzkosten zu tragen. Das Projekt bezeichnet sich selbst als von Lehrkräften geprüfte Beta und sagt in seiner README offen, dass ein bestandener CI-Lauf keine Unterrichtsqualität über lebende Modelle hinweg belegt – was die richtige Lesart einer grünen Testsuite in diesem Feld ist: Sie prüft die Software, nicht die [[pedagogy]]. Sie wird von MacxLabs gepflegt und nimmt von Lehrkräften geprüfte Beispielstunden als Beiträge an.
-
-## Verbundene Konzepte
-
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

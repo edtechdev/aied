@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +50,3 @@ Guru K–12, pelatih pembelajaran dan perancang kurikulum yang menginginkan prom
 Penggantian nama adalah transisi yang masih berjalan, bukan yang sudah selesai. Google mengumumkan pada September 2026 bahwa Skills menggantikan Gems, dan dukungan untuk Gems berakhir bertahap: akun pribadi pada November 2026, pelanggan Workspace bisnis, perusahaan dan nirlaba pada Maret 2027, serta pelanggan Workspace pendidikan pada Juni 2027. Google menyatakan Gems yang ada bermigrasi ke Skills secara otomatis, dan Skills saat ini dijalankan dengan mengetik `/` dan namanya di bilah prompt Gemini. Tautan di situs ini masih mengarah ke jalur `/gem/`, jadi penanda buku bisa dialihkan atau rusak seiring konversi berjalan — periksa apakah sebuah prompt terbuka sebelum memasukkannya ke kursus.
 
 Dua fakta akses harus masuk dalam keputusan adopsi apa pun. Skills tersedia di semua tingkat langganan Google AI, tetapi peluncurannya untuk usia 18 tahun ke atas untuk sekarang, dengan akses di bawah 18 dijelaskan sebagai segera hadir; dan menyalin prompt memerlukan akun Google dan Gemini, jadi ini bukan alat anonim bagi siswa. Pustaka ini adalah kumpulan prompt yang dikurasi, bukan pengajaran yang tervalidasi: setiap entri adalah titik awal yang keluarannya masih perlu diperiksa, dan klaim mutu koleksinya adalah milik kurator sendiri. Tidak ada lisensi terbuka yang dinyatakan, jadi prompt dapat disalin dan diadaptasi di dalam Gemini, tetapi pustaka ini bukan sesuatu yang dapat di-fork dan dihosting sendiri oleh institusi.
-
-## Konsep terkait
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

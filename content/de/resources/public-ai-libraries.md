@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-07"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -46,13 +47,3 @@ Jeder Kiosk ist eine cloud-gehostete Workstation, die auf einem Computer läuft,
 - Teilnehmende Bibliotheken tragen **\$1.000 pro Kiosk-Bereitstellung und Jahr** bei; der Pilot selbst ist auf die Standorte begrenzt, die sich beworben haben.
 - Die Datenschutzerklärung ist die Behauptung des Programms, kein geprüfter Befund; eine Bibliothek sollte Aufbewahrungs- und Kinderschutzbedingungen in ihrer eigenen Datenverarbeitungsvereinbarung bestätigen.
 - Die zweite und dritte Phase der Roadmap — Bibliotheken lokale Archive einlesen zu lassen und die daraus entstehenden Systeme zu steuern — sind geplant, nicht ausgeliefert.
-
-## Verbundene Konzepte
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

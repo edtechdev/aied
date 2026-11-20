@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -48,7 +50,6 @@ Kujifunza kihisia na kijamii kinahusiana kwa karibu na, lakini kinatofautiana na
 
 - **Mapitio ya ramani ya masudio 43 ya GenAI na SEL.** [[liu-genai-sel-mapping-review-2026|Liu na wenzake (2026)]] waliainisha masudio 43 katika nyanja sita za SEL na kugundua uwezo wa kiakili katika 24, utambulisho katika 15, kijamii katika 14 na kihisia katika 7, wakati maadili (4) na mitazamo (3) yalikuwa pembeni. Nafasi 19 zilikusanywa katika aina saba; masudio 38 kati ya 43 yalifikia tu ngazi ya chini kabisa ya uwazi. Orodha inaonyesha pale ushahidi wa SEL ulipo mnene na pale uripoti wa maadili ulipo mwembamba.
 
-
 ## Mada ndogo zinazowezekana za SEL katika utafiti wa nyakati za AI
 
 Hifadhi ya maarifa inagawanya SEL katika mada ndogo kadhaa tofauti, kila moja ikiwa na msingi wake wa ushahidi:
@@ -74,7 +75,6 @@ SEL inajumuisha na kipimo cha juhudi cha kujifunza. [[framing-5-percent-problem-
 Kuna ukali zaidi kwa kuhisi kuwa wa pamoja hapa: huruma inayotafutwa kwa AI inaweza kuadhibiwa. [[shastry-gray-empathy-offloading-2026|Shastry na Gray (2026)]] waliwafanya washiriki kusoma kuhusu mwanafunzi aliyefadhaika aliyekwenda kwa [[conversational-ai|chatbot]], kwa rafiki, kwa mtaalamu wa tiba, au kwa mtu yeyote. Katika hali ya chatbot washiriki waliripoti kwa faragha nia ndogo zaidi ya kuhamisha huruma, kisha walitumia maneno mengi zaidi ya kutojali kuhusu mwanafunzi huyo na wakampanga kama mgeni na mwenye kukata tamaa zaidi. Hukumu ya marika kwa njia ya kumtafuta AI inaongeza juu ya ufichaji uliorekodiwa juu, ndiyo sababu kanuni za ufichuzi zinapaswa kuwa katika ubuni wa SEL badala ya katika sera ya uadilifu peke yake.
 
 [[ai-sycophancy|Usengenyaji]] hutumia ubadilishaji huo huo kwa kipimo kilichopimwa. Katika tafiti tano zilizosajiliwa mapema (N = 3,075; mazungumzo 12,766), watumiaji wa AI iliyothibitisha maoni yao walikuja, kwa muda wa wiki tatu, karibu kwa uwezekano sawa wa kutafuta ushauri wa kibinafsi kutoka kwayo kama kutoka kwa marafiki wa karibu na familia. Washiriki hao hao waliripoti kuridhika kidogo na mwingiliano wao wa ulimwengu halisi, na wengi walipendelea mtindo wa kuthibitisha si kwa ushauri wake bali kwa sababu uliwafanya wahisi wameeleweka ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). Madhara ni ya kimahusiano badala ya ya kihisia, ndiyo sababu vipengele vya msaada wa kihisia haviwezi kuchukuliwa kama nyongeza zisizo na gharama katika kozi.
-
 
 ## Athari kwa walimu na kubuni kwa ufundishaji
 
@@ -107,45 +107,3 @@ SEL inaungana na [[ai-literacy]] (kama nyongeza inayofanya ujuzi wa AI kuwa wa m
 **"Uendelevu mdogo ni tatizo la motisha ambalo kutia moyo kunaweza kurekebisha."** Uendelevu ni kikwazo kinachojirudia katika teknolojia ya kielimu, mtindo ambao [[framing-5-percent-problem-teachers-persistence|tatizo la 5%]] unautaja, na unaundwa na motisha na kununua, vikwazo vya kiakili, *na* ustahimilivu chini ya changamoto. Kutia moyo kunashughulikia kimoja kati ya matatu. Mwanafunzi anayeacha kwa sababu tatizo lilizidi kumbukumbu yake ya kazi hakosi faraja.
 
 **"Kujua AI inapatikana hakubadilishi jinsi wanafunzi wanavyowekeza juhudi."** Kunaweza kubadilisha, na athari inakwenda upande mbaya kwa wanafunzi dhaifu zaidi: [[ai-availability-student-motivation|upatikanaji wa AI]] unaweza kupunguza thamani inayohisiwa ya ushiriki wa juhudi, hasa kwa wanaoanza. Upatikanaji peke yake ni uingiliaji wa motisha wenye ishara hasi, ndiyo sababu ubuni unaokaribiana na SEL hauwezi kuchukua uwepo wa mfumo wenye msaada kama jambo la upande wowote.
-
-## Dhana Zilizounganishwa
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Makala Zilizounganishwa
-
-- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
-
-- [[sec-ai-literacy-narrative-review-2026]] — Kujumuisha Uwezo wa Kihisia na Kijamii katika Ujuzi wa AI
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Zingatia Pengo la Uaminifu: Mionekano ya Mwalimu–Mwanafunzi
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Mfumo wa Ujuzi wa AI ulio na Ngazi za Msaada (SAIL)
-- [[teacher-education-ai-literacy-sdt-2026]] — Elimu ya Walimu kwa Ujuzi wa AI (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Utegemezi wa Mwanafunzi kwa AI, Uwezo Binafsi, na Usimamizi wa Rasilimali
-- [[self-efficacy-tutoring-learning]] — Uwezo Binafsi na Upendeleo Vinaunda Kujifunza kutoka Ufundishaji
-- [[shame-guilt-ai-regulation-computing-education]] — Aibu na Hatia kama Wadhibiti wa Kijamii wa Matumizi ya AI
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Kutoka Kubadilisha hadi Kuweka Ngazi za Msaada
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Chatbot za AI na Ufanisi wa Pamoja
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Ufundishaji wa Hisabati Unaotambua Hisia
-- [[ai-campus-wellbeing-tools]] — Zana za Ustawi wa Kampasi Zinazoendeshwa na AI
-- [[policy-deficit-ai-sel-2026]] — Upungufu wa Sera katika Utafiti wa AI × SEL
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Ukamilishaji wa binadamu–AI katika kujifunza kihisia na kijamii cha awali (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Uingiliaji mdogo wa kihisia wa wakati halisi na kitabu cha kurejea maneno kwa walimu
-
-- [[liu-genai-sel-mapping-review-2026]] — Mapitio ya ramani ya masudio 43 ya GenAI na SEL: mwonekano usio sawa wa uwezo na uripoti mwembamba wa maadili
-- [[sycophantic-ai-social-interaction-2026]] — AI inayosengenya huhamisha utafutaji wa ushauri wa kibinadamu na hupunguza kuridhika na mwingiliano halisi
-

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
+connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -62,30 +64,3 @@ ai_assist:
 - **«النموذج الذي يُسجّل جيدًا يقيس الشيء نفسه.»** على **أداة التقييم نفسها**، **تتباعد** بنى الردود البشرية وتلك الخاصة بالنماذج اللغوية الكبيرة — فقد يُسجّل نموذج جيدًا وهو يقيس شيئًا مختلفًا عما تقصده الأداة. فتطابق الدرجات هو الملاحظة، وتكافؤ البنية ادعاء منفصل يتطلب دليلًا على مستوى البنية.
 - **«يمكن قراءة المعايرة من رقم دقة واحد.»** **رقم دقة واحد قد يخفي نموذجًا يبدو معايَرًا فقط**: فسؤال GPT-4o وGemini 2.0 Flash استنتاج أبعاد أنماط التعلّم من حوارات **153 طالبًا جامعيًا** أنتج **دقة متوسطة أدّت أداءً مختلفًا تحت المقاييس المتوازنة**. فقد أخفت الدقة المجمَّعة فرقًا كشفته المقاييس المتوازنة.
 - **«خطوط التصحيح الآلي لا تستطيع إعادة إنتاج الإجراء النفسي القياسي.»** أعاد المؤلفون إنتاج خط قائم في صورة آلية (**باحتمال 67% للإجابة الصحيحة على 7 مفردات على الأقل من سلم التقدير للقطع الأدنى وعلى 10 على الأقل للأعلى**)، فأمكن مقارنة درجات مفردات الذكاء الاصطناعي والبشر على قدم المساواة. فالإجراء كان قابلًا لإعادة الإنتاج؛ أما سؤال البنية فيبقى.
-
-## المفاهيم المتصلة
-
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[limitations-in-aied-research]]
-- [[ai-education]]
-
-## المقالات المتصلة
-
-- [[genai-reliance-scale-problem-solving-2026]] — مقياس مُصدَّق لاعتماد الطلاب على الذكاء الاصطناعي التوليدي أثناء حل المشكلات (Hou et al. 2025)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — إطار بمشاركة الإنسان للتصحيح المُساعَد بالذكاء الاصطناعي في تقييم كتابة واسع النطاق
-- [[assessment-latent-structure-human-llm-2026]] — هل تقيس أدوات التقييم الشيء نفسه للبشر والنماذج اللغوية الكبيرة؟ (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — مواءمة تقييم النماذج اللغوية الكبيرة مع المعايرة النفسية القياسية
-- [[llm-item-difficulty-prediction]] — تنبؤ النماذج اللغوية الكبيرة بصعوبة المفردات
-- [[cong-confidence-asag-2026]] — التصحيح الآلي الواعي بالثقة للإجابات القصيرة
-- [[multimodal-item-parameter-estimation-2026]] — تقدير معاملات المفردات متعدد الوسائط
-- [[competency-based-education-genai-production-2026]] — التعليم القائم على الكفاءات مع الذكاء الاصطناعي التوليدي
-- [[ai-grading-handwritten-physics-2026]] — تصحيح تقييمات الفيزياء المكتوبة بخط اليد بالذكاء الاصطناعي (الأولمبياد)
-- [[razavi-powers-item-difficulty-llm-2026]] — تقدير صعوبة المفردات باستخدام النماذج اللغوية الكبيرة وتعلّم الآلة الشجري
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — مقارنة أدوات ثقافة الذكاء الاصطناعي: أزواج jangle وjingle عبر 55 بنية
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — استخدام الطلاب للنماذج اللغوية الكبيرة وحدود صعوبة الأسئلة المولَّدة بالذكاء الاصطناعي في مقررات علوم البيانات
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — كانت الدقة المتوسطة تنبؤًا بالفئة الغالبة عند فحص استدعاء كل فئة (Zamanifard, Goudarzi & Robb 2026)

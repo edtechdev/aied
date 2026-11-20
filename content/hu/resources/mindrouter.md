@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -47,9 +48,3 @@ Meglévő GPU-kapacitással rendelkező kutatási számítástechnikai és közp
 ## Megjegyzések és fenntartások
 
 Szabad és nyílt forráskódú Apache-2.0 alatt, de a költség átkerül, nem tűnik el: hardver, áram és a fürt üzemeltetéséhez szükséges személyzeti idő. A szoftver infrastruktúra-mércével fiatal – három közreműködő, egyetlen eredeti intézmény, és több száz tagra számozott kiadások –, ezért egy főiskolának egy meglévő szolgáltatás mellett kell kipróbálnia, nem egyetlen modellútvonalként. Az ütemezés és a kvóták viselkedéséről valós campus-terhelés alatt nem jelent meg értékelés a repository-ban; a PEARC-dolgozat az a hely, ahol a szerzők saját beszámolója megtalálható.
-
-## Kapcsolódó fogalmak
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

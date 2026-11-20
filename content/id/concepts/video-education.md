@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -85,33 +87,3 @@ Menghasilkan video AI yang efektif membutuhkan struktur pedagogis dan pengawasan
 
 - Laporkan ukuran preferensi dan hasil secara bersamaan, dan nyatakan terus terang ketika sebuah studi hanya memiliki yang pertama.
 - Laporkan keselarasan temporal secara eksplisit, mengingat bahwa ketidakselarasan antara konten video dan [[cognitive-psychology|pemrosesan kognitif]] muncul dalam data neural.
-
-## Konsep terkait
-
-- [[online-teaching-and-learning]] — video sebagai medium inti pengajaran daring dan hibrida
-- [[generative-ai]] — mesin video yang dihasilkan AI dan dipersonalisasi
-- [[personalized-learning]] — personalisasi sebagai pendorong daya tarik video AI
-- [[adaptive-learning]] — pembuatan dan tempo video adaptif
-- [[multimodal]] — video yang menggabungkan modalitas visual, audio, dan tekstual
-- [[learning-analytics]] — analitik atas keterlibatan dan atensi video
-- [[student-engagement]] — keterlibatan yang ingin ditingkatkan personalisasi video
-- [[pedagogical-agent]] — avatar/pemapar AI sebagai agen pedagogis virtual
-- [[llm]] — model bahasa besar yang mendasari naskah dan pembuatan video
-- [[trust]] — kepercayaan pembelajar pada pemapar dan konten AI
-
-## Artikel terkait
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: menghasilkan video kuliah yang dipersonalisasi untuk industri dengan kualitas MOOC dalam skala besar (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Komentar dalam video yang dihasilkan ChatGPT: waktu berbasis entropi, kesenjangan kualitas vs. komentar manusia (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Siswa lebih menyukai video AI yang dipersonalisasi daripada video yang direkam manusia tanpa personalisasi (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Persepsi/preferensi siswa atas video instruksional yang dihasilkan AI dalam pendidikan komputasi
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping untuk pembuatan video AI yang berlandaskan pedagogis
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: pembuatan video pedagogis adaptif
-- [[engagement-assessment-video]] — Asesmen keterlibatan dalam pembelajaran video
-- [[savvy-student-attention-video-learning]] — Visualisasi atensi siswa untuk pembelajaran berbasis video
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Bagaimana identitas avatar membentuk kepercayaan epistemik dalam pembelajaran yang dimediasi AI
-- [[bilingual-llm-lecture-companion-srl-2026]] — Pendamping kuliah LLM bilingual untuk pembelajaran yang diatur sendiri
-- [[adhd-video-segmentation-computing-education]] — Segmentasi video temporal untuk perbedaan individual
-- [[ai-psychotherapy-training-avatars]] — Avatar AI dalam pelatihan psikoterapi
-- [[gemini-lualatex-physics-video-transcription-2026]] — Mentranskripsikan video kuliah fisika menjadi teks yang aksesibel
-- [[pivot-generative-video-tutors-stem-2026]] — Dari Pembuatan Konten ke Dukungan Pembelajaran: Tutor Video Generatif Terpandu Pedagogi untuk Pembelajaran STEM
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Lihat ke Sana! Panduan Visual Dinamis untuk Slide Bernarasi AI

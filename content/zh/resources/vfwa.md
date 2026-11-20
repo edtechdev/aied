@@ -30,6 +30,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
+connected_concepts: [process-oriented-assessment, assessment-validity, oral-assessment, evaluative-judgment, accessibility]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -51,11 +52,3 @@ VFWA 不是一个需要安装的产品，而是一套评估结构，背后有一
 该模型尚未经过大规模评估。论文明确指出，目前尚无样本、工具或测量结果，需要通过试点来检验：第 1 阶段的成果是否提升评估者的信心或解释一致性，学生是否觉得这一设计更公平，以及一个学科如何在不把第 1 阶段变成第二次考试的前提下设定充分性阈值。
 
 两项实际成本是真实的。第 1 阶段需要大规模的有监督场次与安全采集，多语言录音与翻译是前提而非附加项。解释性判断被有意留给评分者：该模型假定存在无法自动化的学科专长，这既是对设计的前提，也是对人员配置的前提。
-
-## 关联概念
-
-- [[process-oriented-assessment]]
-- [[assessment-validity]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[accessibility]]

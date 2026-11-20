@@ -25,7 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
+connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -76,32 +77,3 @@ La perspective de l'administrateur est liée à la [[educational-policy-ai|polit
 - **« Les chiffres d'adoption mesurent la maturité. »** L'usage déclaré et l'usage gouverné sont des quantités différentes, et les données probantes les séparent : les établissements déclarent une intention stratégique à environ la moitié de la population et une capacité de direction à moins d'un dixième. Une enquête montrant que le personnel utilise l'IA vous dit ce que des individus ont déjà fait sans autorisation, pas ce que l'établissement peut soutenir ou superviser.
 - **« L'approvisionnement est une étape administrative. »** Là où la capacité est achetée plutôt que construite, les termes du contrat décident de ce qui devient possible ensuite — propriété des données, accès à l'audit, et la possibilité même d'évaluer l'outil. Une décision de fournisseur traitée comme une tâche d'achat ferme des questions d'évaluation que l'établissement n'a pas encore posées.
 - **« La gouvernance peut suivre l'adoption. »** L'affirmation de séquençage est courante et non étayée ici : les données probantes documentent le schéma inverse, les structures de politique et de direction accusant un retard sur un usage déjà en cours. Une gouvernance conçue comme à bâtir après le déploiement est une gouvernance bâtie avec moins de levier.
-
-## Concepts liés
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[privacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[stakeholders]] — Parapluie : les personnes et les publics de l'IA en éducation (apprenants, enseignants, concepteurs, administrateurs, décideurs publics)
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-support-and-success]] — les processus institutionnels que les administrateurs pilotent : conseil, démarchage, orientation vers des services et allocation
-
-## Articles liés
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — L'IA dans le leadership éducatif : taxonomie complète
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Gouvernance anticipative et leadership pour l'IA
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — L'IA dans la politique de l'enseignement supérieur britannique et la décision institutionnelle
-- [[ai-campus-wellbeing-tools]] — Outils de bien-être sur le campus pilotés par l'IA
-- [[genai-policies-higher-ed-computing]] — Politique institutionnelle sur GenAI dans le domaine de l'informatique
-- [[institutional-change-framework-ai]] — Cadre de changement institutionnel pour l'IA
-- [[edtech-privacy-deferral-2026]] — « On corrigera plus tard » : l'éducation, l'IA et l'ajournement de la vie privée des étudiants dans les technologies éducatives
-- [[students-at-stake-ai-deployment-risks-2026]] — Un filtre d'approvisionnement en quatre questions, cadré comme une question de droits des étudiants plutôt que de gestion du risque

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
+connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
@@ -90,34 +92,3 @@ ai_assist:
 - **"বাস্তবসম্মত কেস নিজেই শেখায়।"** বাস্তবতা প্রসঙ্গ জোগায়। প্রশ্ন, তুলনা ও ন্যায্যতা-কাজ শিখন জোগায়।
 - **"এআই-উৎপন্ন কেস ব্যবহারের জন্য প্রস্তুত।"** উৎপন্ন কেস সাবলীল, যুক্তিসঙ্গত এবং ভুল হতে পারে। তাদের বিশেষজ্ঞ-পর্যালোচনা দরকার এবং তারা যে যুক্তি আমন্ত্রণ জানায় তার যাচাই দরকার।
 - **"শিক্ষার্থীরা আলোচনা উপভোগ করলে কেস কাজ করেছে।"** সম্পৃক্তি স্থানান্তর নয়। ফলাফল এমন কাজে মাপতে হবে যা শিক্ষার্থীরা আগে সম্পন্ন করতে পারত না।
-
-## সংযুক্ত ধারণা
-
-- [[problem-based-learning]]
-- [[productive-failure]]
-- [[inquiry-based-learning]]
-- [[pedagogical-patterns]]
-- [[simulation]]
-- [[professional-training]]
-- [[legal-education]]
-- [[business-education]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-- [[higher-ed]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[trewren-ai-perioperative-case-based-learning-2026]] — একটি গ্রাউন্ডেড LLM বিষয়বস্তু বানানো ছাড়াই পাঁচটি পেরিঅপারেটিভ কেস ধরে রেখেছে
-- [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT নার্সিং কেস তৈরির সময় কমিয়েছে, পরিমাপযোগ্য মান-পার্থক্য ছাড়াই
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — এআই-চালিত PBL/CBL-এর ছয়টি RCT; কেবল দুটি CBL পরীক্ষা করেছে
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI কোর্সে বিপরীতমুখী কেসসহ শিক্ষক-মডেলিং
-- [[ai-standardized-patient-scaffolding-medical-2026]] — ভার্চুয়াল ও সিমুলেটেড রোগীর পাশে কেস-ভিত্তিক শিখন
-- [[genai-medical-education-transformation-review-2026]] — পর্যালোচনার প্রয়োগ-শ্রেণির মধ্যে কেস-ভিত্তিক শিখন ও ক্লিনিকাল যুক্তি
-- [[hardie-genai-nursing-scoping-review-2026]] — নার্সিং পর্যালোচনার সিমুলেশন-থিমের ভেতরে কেস-ভিত্তিক শিখন
-- [[lorteau-sarro-ai-legal-education-2025]] — এআই সক্রেটিক শিক্ষাদান ও আইনি সিমুলেশনের পরিপূরক
-- [[csaszar-ai-management-education-2026]] — ব্যবস্থাপনা-শিক্ষার কেস স্টাডি ও সিমুলেশন, কেস-পদ্ধতির বিশ্লেষণ ছাড়াই

@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -106,50 +108,3 @@ El TPACK es el marco organizador del lado docente de la base de evidencia. Expli
 - **«El dominio del TPACK refleja su poder explicativo.»** Ese dominio es **en parte un artefacto de recuperación**: en una revisión de alcance PRISMA de **195 estudios de formación docente apoyados por tecnología**, la competencia digital, el TPACK y DigComp **dominan la literatura indexada**. La prevalencia en una búsqueda es una propiedad del vocabulario que usa el campo, no una prueba de que el marco explique más.
 - **«Un marco conocido es un marco validado para la IA.»** El TPACK no se diseñó para capacidades específicas de la IA, y por eso se desarrolló el Intelligent-TPACK, que aparece en solo **cinco estudios** de la revisión de 78. Usar el TPACK para la competencia en IA generativa lo estira más allá de su construcción.
 - **«Aplicar un marco significa que la investigación está teorizada.»** La misma revisión encontró que **el 76% de los estudios infería competencias a partir de la práctica sin ningún mapeo teórico**, así que la presencia del TPACK en el campo convive con que la mayor parte de la investigación esté sin teorizar. Un marco con nombre no es lo mismo que un marco haciendo trabajo.
-
-## Conceptos conectados
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-education]]
-
-## Artículos conectados
-
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Sistema de indicadores de evaluación para programas de certificación en IA
-- [[ai-literacy-tpack-preservice-2026]] — Alfabetización en IA percibida y TPACK en la formación inicial del profesorado: mediación a través de la utilidad, la facilidad de uso y el valor (Zhao 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Estudio multinivel: «primero la pedagogía, después la tecnología»; el TPAIK pesa más que el TAIK técnico en los resultados del estudiantado (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — El TPACK-IA generativa de los docentes en activo y el papel mediador del conocimiento pedagógico (Mohebi y ElSayary 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Estándares del profesorado para la integración de la tecnología (investigación basada en el diseño relacionada con el TPACK)
-- [[edurev-100741-tpack-genai-review]] — Integrar la IA generativa en el aprendizaje del estudiantado: una revisión sistemática desde la perspectiva del TPACK
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modelar el AI-TPACK mediante flujos de trabajo docentes con múltiples agentes
-- [[ai-tpack-preservice-math-teachers]] — Preparación en AI-TPACK del futuro profesorado de matemáticas
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — La interacción docente-IA en el diseño de clases: TPACK inteligente, experiencia y competencia (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Desarrollo profesional intensivo en IA generativa y ganancias de AI-PCK
-- [[teacher-ai-teaming-five-levels]] — Marco de cinco niveles de colaboración docente-IA
-- [[teacher-ai-adoption-confidence]] — La confianza del profesorado y la adopción de la IA
-- [[teacher-education-ai-literacy-sdt-2026]] — Formación docente para la alfabetización en IA a través de la teoría de la autodeterminación
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Formación en alfabetización en IA generativa mediante investigación basada en el diseño
-- [[rail-ed-genai-literacy-teacher-education]] — Repensar la alfabetización en IA generativa en la formación docente
-- [[sec-ai-literacy-narrative-review-2026]] — Competencias socioemocionales y alfabetización en IA
-- [[genai-runaway-object-math-higher-ed]] — La IA generativa y las matemáticas en la educación superior
-- [[ai-changing-teaching-workflows]] — Cómo la IA está cambiando los flujos de trabajo docentes
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Conocimiento TPACK-21 autopercibido del profesorado universitario para la IA generativa en la educación superior (Sutedjo, Chowdhury y Liu 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Encuesta comparativa con 186 futuros docentes de ciencias sudafricanos: ventaja del campus en el TPACK autoinformado, y formación en IA asociada a un TPACK declarado más débil en la institución a distancia
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — El AI-TPACK y la autoeficacia en la enseñanza de las ciencias median en serie el efecto de la alfabetización en IA sobre la intención de integrar la indagación (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Módulo CTD-PBL apoyado por IA y el TPACK y la resolución colaborativa de problemas del futuro profesorado de física (Chen y Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Evaluar la colaboración entre personas e IA en la educación en diseño: una rúbrica orientada a procesos basada en un marco AI-TPACK ampliado
-- [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de preparación docente centrado en la capacidad y su advertencia sobre el solapamiento de constructos
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Advertencia de una revisión de alcance: la dominancia de los marcos de competencia refleja en parte los descriptores de búsqueda, no la prevalencia en el campo
-- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
-- [[khalil-tpack-preservice-genai-attitudes-2026]] — El papel del TPACK integrado en el empoderamiento del futuro profesorado y en la configuración de sus actitudes hacia la IA generativa en la enseñanza

@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -41,7 +42,3 @@ Sura zinajumuisha [[learning-design|ubini wa mafunzo]] na mazoezi ya kufundisha 
 ## Jua nini kabla ya kuitumia
 
 Kitabu ni cha wazi chini ya leseni ya CC BY, ambayo ni mwisho wa kupitisha wa masafa ya nyenzo za kufundisha: waelimishaji wanaweza kunakili, kubadilisha, na kutumia [[prompt-engineering|ilani]], ikijumuisha kibiashara, mradi wanazipa sifa kwa njia inayofaa. Hiyo inafanya iwe rahisi kuweka ilani katika muktadha wa kozi mahususi au mpangilio wa [[pedagogical-agent|wakala]], ambayo leseni za kudhibiti zaidi kwenye makusanyo yanayofanana hayaruhusu. Imechapishwa kwenye EdTech Books mwaka 2026 na upakuaji wa PDF na DOI 10.59668/2340, iliyohaririwa na David Wiley. Kwa sababu kila sura inaripoti ubini wa tathmini na vile vile matokeo, pia inafanya kazi kama mfano kwa waelimishaji wanaotaka kupima ilani zao wenyewe badala ya kupokea hukumu ya mtu mwingine.
-
-## Dhana Zilizounganishwa
-
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

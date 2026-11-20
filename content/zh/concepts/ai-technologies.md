@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -82,41 +84,3 @@ ai_assist:
 **"技术选择是技术人员的事，不是教育者的事。"** 本页的框定是：你可以是一位出色的教育者而不必能构建一个 LLM，而你的技术选择仍然塑造 AI 在你的课堂上能与不能做什么。一个系统是否把答案锚定在课程材料上，是一个带有教学后果、且必须有人来作的决定。
 
 **"能力更强的模型会解决这个领域的缺口。"** 编排、记忆与长视野规划是架构问题而非能力问题：文献记录的缺失，是缺少能在时间中治理自身工具使用的系统，而一个更好的模型本身并不提供这个。
-
-## 关联概念
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## 关联文章
-
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM 与工程教育中 85 款 AI 工具的研究可见度（Terkowsky 等，2026）
-
-- [[agentic-ai-education-scoping-review]] — 教育中智能体式 AI 的范围综述
-- [[genai-meta-analysis-programming-learning]] — GenAI 对编程中生产力与学习之影响的元分析
-- [[cstutorbench-slm-tutors]] — 小型语言模型辅导基准
-- [[educational-llm-alignment]] — 为教育对齐 LLM
-- [[eduguard-safe-rag-llm-tutor]] — 为基于 RAG 的 LLM 导师加护栏
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 导师安全与伤害
-- [[elbench-education-llm-benchmark-2026]] — 教育 LLM 基准
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 生成式社交机器人
-- [[benzion-ai-physics-simulations-virtual-lab]] — 面向课堂的 LLM 生成物理模拟
-- [[jaksic-engaging-high-school-teachers-ai-2025]] — 让高中教师参与人工智能的概念、应用与发展

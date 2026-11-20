@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -116,34 +118,3 @@ ai_assist:
 **محققین کے لیے**
 
 - شعبے گیر دعوے کرنے سے پہلے ایک اسٹوڈیو کے کیس مطالعات سے آگے بڑھیں، اور اسٹوڈیو کی ساخت رپورٹ کریں، کیونکہ وہی نتیجے کی شرط رکھتی ہے۔
-
-## منسلک تصورات
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-
-## منسلک مضامین
-
-- [[genai-xr-architectural-design-education-2026]] — ایک حقیقی فنِ تعمیر کے اسٹوڈیو میں GenAI اور کثیر صارف XR: تکمیلی کردار، ڈیزائن کی خود اعتمادی کا گرنا، پورٹ فولیو میں کوئی برتری نہیں (Xiao et al. 2026)
-- [[genai-architecture-education]] — فنِ تعمیر کے اسٹوڈیو میں مقامی طور پر چلنے والی، شعبے سے مخصوص تصویری ورک فلو: وسیع تر تخلیقی تلاش کی فضا اور تنقید کی بے چینی میں کمی (Kapsalis 2026)
-- [[genai-architectural-design-studios]] — طولانی اسٹوڈیو مطالعہ اور GAI-A پلیٹ فارم: GenAI بطور محرک اور حل کی فضا کی توسیع، خطرے کے طور پر ڈیزائن فکسیشن (Gül et al. 2026)
-- [[ai-interior-design-malaysia-2026]] — اندرونی ڈیزائنرز بطور مشین کی پیداوار کے کیوریٹرز، اور نصاب و پیشہ ورانہ ضابطے کو اِس بارے میں کیا کرنا چاہیے (Syed Abdul Rahman 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — پیشہ ورانہ اندرونی ڈیزائن میں AI سے فعال عمیق ماحول کے اندر پروجیکٹ پر مبنی سیکھنا (Jin et al. 2027)
-- [[project-based-digital-storytelling-art-design-2026]] — 426 طلبہ کے ساتھ 15 ہفتے کا ڈیجیٹل کہانی سنانے کا کیپ اسٹون: نیاپن مضبوط، انضمام کمزور، AI ٹول ہے مصنف نہیں (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — 417 فن اور ڈیزائن کے طلبہ میں متن سے تصویر کی قبولیت، اور منتخب استعمال کا قابلیت کا تضاد (Liu, Meng & Zhang 2026)
-- [[musical-education-ai-digital-transformation-2026]] — اسٹریمنگ کی معیشت، خود مختار جنریٹرز بمقابلہ کمپوزیشن معاونین، اور موسیقی کے نصاب کا نئے سرے سے تصور (Briot 2026)
-- [[gpt4o-mini-music-analysis-scoring]] — 300 موسیقی تجزیے کے جوابات پر GPT-4o-mini کا اساتذہ کے اوسط سے بینچ مارکنگ (Lin, Jin & Min 2026)
-- [[ai-vocal-pedagogy-2026]] — AI کی معاونت والی آواز کی تدریس میں پیمائش کی درستگی تعلیمی قدر کیوں نہیں ہے (Li 2026)
-- [[embodied-string-learning-blindness-low-vision-musicians]] — نابینا اور کم نظر موسیقاروں کے لیے لمس اور حرکتی تار کی تدریس کا معذوری کی قیادت والا ڈیزائن (Shi et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — اسٹیج کی روشنی کے لیے LLM کی معاونت والی VR تدریس، اور ماہر و نوآموز نمائندگیوں کے درمیان خلا (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: متن سے تصویر بنانے والے ماڈلز کی تفسیر کے لیے معرفتی کھیل (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — آرٹ طلبہ کی تخلیقی ایجنسی، بھروسا اور ماہرین سے درجہ بند نتیجے کا معیار

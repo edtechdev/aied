@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -60,7 +62,6 @@ Kile kilicho cha kipekee kuhusu AI katika VET ni pengo kati ya kile sekta inasem
 
 - **Msaada unaoonekana ni kianzio cha kitaasisi, si upungufu wa mwanafunzi.** Miongoni mwa wanafunzi 784 katika vyuo sita vya ufundi vya elimu ya juu vya China, [[huang-ai-literacy-vocational-problem-solving-2026|Huang na wenzake (2026)]] waligundua kuwa uhusiano wa [[ai-literacy|ujuzi wa AI]] na [[problem-solving|utatu wa matatizo changamano]] unaojitangaza (jumla 0.480) uliimarika kwa msaada wa ICT wa shule unaoonekana: athari zisizo za moja kwa moja zenye masharti zilipanda kutoka 0.117 hadi 0.176 na 0.038 hadi 0.127.
 
-
 ## Dhana Potofu za Kawaida
 
 **"Ushahidi wa AI katika VET unatuambia kuhusu elimu ya ufundi."** Unatuambia kuhusu mwakilishi wa darasani wake, jambo ambalo ni pengo zito badala ya maelezo: **hakuna masudio katika ushahidi wa AI katika VET yaliyo katika mahali pa kazi**, ilhali VET *inafafanuliwa* kwa kujifunza kunakotegemea kazi. Ugunduzi kuhusu chombo cha AI katika kazi ya ufundi iliyoigwa haujakutana na masharti yanayofanya sekta hiyo kuwa ya kipekee: wateja halisi, matokeo halisi ya usalama, na tofauti halisi ya vifaa vya mahali pa kazi.
@@ -87,31 +88,3 @@ Kile kilicho cha kipekee kuhusu AI katika VET ni pengo kati ya kile sekta inasem
 **Kwa watafiti**
 
 - Fanya angalau baadhi ya masudio katika mahali pa kazi. Sekta inayofafanuliwa kwa kujifunza kunakotegemea kazi ambayo ushahidi wake hauna masudio ya mahali pa kazi bado haijapima dai lake kuu.
-
-## Dhana Zinazohusiana
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Makala Zinazohusiana
-
-- [[ai-vocational-education-training-review]] — Mapitio ya kwanza ya mfumo ya AI katika VET: malengo, nadharia na ufanisi wa vitendo
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: mafunzo ya mradi ya kuvumbua na ubunifu wa ubunifu
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: tathmini ya mdomo inayosaidiwa na AI bila mtandao katika TVET
-- [[ai-pedagogical-accompaniment-amico]] — Kigezo cha Amico cha hali mbili: kanuni za ubunifu na viashiria vinavyoonekana
-- [[ai-autonomous-learning-accomplishment-2026]] — Mafunzo ya kujitegemea yanayosaidiwa na AI na mafanikio yaliyopungua, yanayopatiwa kwa njia ya ugumu
-- [[astra-atco-training-simulator]] — Sim-pilots za kujitegemea kwa mafunzo ya ATCO yanayopanuka
-- [[crewscaler-ai-upskilling-framework]] — Mfumo wa mwisho-hadi-mwisho unaoharakishwa na AI kwa kuboresha ustadi wa kitaalamu wa haraka
-- [[genai-xr-architectural-design-education-2026]] — Kesi ya kupingana: GenAI pamoja na XR ya watumiaji wengi wenye ujasiri
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Mabadiliko ya mtaala wa CTE: vipimo vitano na majaribio sita ya uongoziiri wa ubunifu unaopungua
-
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Msaada wa ICT unaoonekana kama kianzio cha kitaasisi katika vyuo vya ufundi
-

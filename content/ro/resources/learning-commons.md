@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -49,12 +50,3 @@ Dezvoltatori care construiesc funcții AI în produse de programe școlare și d
 ## Note și precauții
 
 Faptul că este [[open-source|sursă deschisă]] nu face datele deschise. Codul Knowledge Graph și Evaluators este MIT, iar Agent Skills este Apache-2.0, în timp ce fiecare set de date are propria etichetă de acces — Open, Open + Gated sau Gated — iar conținutul Gated nu este acoperit de licențele deschise la care se referă depozitul, așa că verifică catalogul seturilor de date înainte de a presupune drepturi de reutilizare. Conținutul prompturilor Evaluators este CC BY 4.0, dar corpusurile adnotate CLEAR și PERSUADE 2.0 pe care le folosește sunt CC BY-NC-SA 4.0. Platforma și seturile de date din spatele ei necesită un cont.
-
-## Concepte conexe
-
-- [[curriculum-design]] — graful există pentru a alinia conținutul generat la standarde și programe școlare
-- [[open-source]] — cod MIT și Apache-2.0 cu licențiere a datelor per set
-- [[educational-nlp]] — evaluatoarele sunt un strat de măsurare a textului peste ieșirea LLM
-- [[agentic-ai]] — competențe care împachetează un flux de lucru pentru ca un model să îl execute
-- [[edtech-platform]] — Curriculum Sync încarcă programe școlare într-un sistem de management al învățării
-- [[llm]] — ținta evaluării și consumatorul competențelor

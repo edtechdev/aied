@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
+connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -90,27 +92,3 @@ ai_assist:
 **"행동주의적 설계는 구성주의적 설계보다 그저 열등하다."** 행동주의적 설계는 유창성, 사실 회상, 절차적 자동성처럼 즉각적 피드백과 반복이 실제로 과제가 요구하는 것인 특정 목표에는 잘 맞습니다. 오류는 메커니즘에 있는 것이 아니라, 타당성 조건(학습자가 반응을 산출해야 한다)이 조용히 성립하지 않게 된 메커니즘을 계속 사용하는 데 있습니다.
 
 **"이론이 신뢰를 잃었으므로, 그에 기반한 시스템은 결과만으로 평가할 수 있다."** 결과야말로 산출물 등가가 훼손하는 대상입니다. 시스템은 뛰어난 행동적 결과를 보고하면서 학습은 다른 곳으로 옮겨 갔을 수 있으므로, 행동주의의 영향을 받은 시스템은 다른 어떤 종류보다 도움 없는 상태의 측정을 더 필요로 합니다.
-
-## 연결된 개념
-
-- [[constructivist]]
-- [[cognitive-psychology]] — 학습 이론의 세 번째 고전적 축인 인지주의
-- [[learning-design]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-
-## 연결된 문서
-
-- [[ai-vocational-education-training-review]] — 표방된 구성주의에도 불구하고 행동주의 AI 설계가 VET 실제를 지배함; "튜링 트랩"
-- [[generativism-learning-theory]] — 생성 AI가 재검토를 촉구하는 네 가지 지배적 이론 속의 행동주의
-- [[ccct-cooperative-learning-technique]] — 고등교육을 위한 협동 학습 설계에서 인용되는 행동주의
-- [[wang-multi-agent-systems-learning-designers-2025]] — 협동적 다중 에이전트 설계 접근법 속의 행동주의적 페르소나
-
-- [[sequenced-ai-feedback-learning]] — 199명 참가자 무작위 실험에서 즉시 전체 해법 피드백보다 낮은 성과를 낸 순차 힌트 피드백
-

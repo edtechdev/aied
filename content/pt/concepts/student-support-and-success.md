@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
+connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -116,56 +118,3 @@ O apoio aos estudantes conecta-se à [[student-experience|experiência do estuda
 Os serviços ao estudante cada vez mais respondem a perguntas por meio de um assistente conversacional, e um experimento randomizado de 2026 testou a troca diretamente: 299 adultos de 18–25 anos buscaram cinco informações sobre o programa por meio de um site universitário ou de um assistente GPT-4o fundamentado em PDFs do programa. O chatbot foi mais rápido (312 s contra 505 s) e mais preciso (95.6% contra 78.5%, OR = 7.84), e foi avaliado melhor em toda medida perceptual, exceto intenção comportamental, que não diferiu.([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]])
 
 A exceção é a operacionalmente importante: na pergunta sobre quem contatar a respeito de uma autorização de matrícula (course override), o site venceu, 96.5% a 85.2%. Informações vinculadas a uma pessoa ou um setor nomeado é onde um site navegável ainda supera uma resposta gerada, de modo que o assistente é mais bem implantado como uma camada sobre o site do que como seu substituto.
-
-## Conceitos conectados
-
-- [[higher-ed]] — o guarda-chuva setorial sob o qual esta página se situa
-- [[student-experience]] — como a IA incide sobre a experiência própria do estudante
-- [[learning-gains]] — se a aprendizagem aconteceu, o resultado instrucional que esta página não mede
-- [[learning-analytics]] — predição, alerta precoce e analítica preditiva
-- [[student-modeling]] — a camada de modelagem sob a predição de risco
-- [[knowledge-tracing]] — estimativa refinada de habilidade e maestria
-- [[recommender-systems-and-learning-paths]] — recomendar cursos, recursos e trilhas
-- [[help-seeking]] — como os estudantes chegam a pedir apoio
-- [[well-being]] — saúde mental no campus, prevenção e intervenção
-- [[career-development-and-readiness]] — o resultado depois da conclusão
-- [[administrator]] — o papel que é dono dos sistemas de apoio e os executa
-- [[stakeholders]] — quem tem direito sobre as decisões institucionais de IA
-- [[change-management]] — sustentar o programa depois do piloto
-- [[governance]] — política e supervisão para a IA institucional
-- [[educational-policy-ai]] — o contexto de política para a implantação institucional
-- [[equity-in-ai-education]] — quem o sistema alcança e quem ele deixa passar
-- [[privacy]] — registros de estudantes, compartilhamento de dados e abordagens federadas
-- [[human-in-the-loop-ai]] — julgamento humano dentro de um fluxo automatizado de apoio
-- [[rct]] — o desenho por trás da evidência mais forte aqui
-
-## Artigos conectados
-
-- [[cefa-ai-learner-support-review-2026]] — Revisão de 61 estudos sobre apoio à aprendizagem habilitado por IA: sistemas adaptativos e predição dominam; a fase de transição e aprendizes diversos estão ausentes
-- [[mata-sustaining-ai-enabled-student-support-2026]] — avaliação randomizada de quatro anos de um chatbot de apoio universitário: a conclusão de tarefas se moveu, a graduação e a GPA não
-- [[chatbot-outreach-course-performance-2026]] — ensaio de alcance multissemestre pré-registrado: taxas de A/B mais altas, deslocamentos modestos de DFW, uma exceção demográfica
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 vignettes sintéticos: sensibilidade limitada à necessidade do estudante e inconsistência entre modelos nas recomendações de apoio
-- [[sc2r-counterfactual-recourse-educational-2026]] — a lacuna de acionabilidade: o recurso precisa ser viável e verificável, não meramente válido segundo o modelo
-- [[fairness-theatre-early-warning-systems-2026]] — seis intervenções de justiça pós-hoc sobre um sistema de alerta precoce de fornecedor construído a partir de 168.550 registros
-- [[at-risk-students-ml-prediction]] — classificadores supervisionados identificando estudantes antes da desistência
-- [[predicting-attrition-competitive-programming]] — registros comportamentais mais pesquisa psicográfica prevendo a evasão
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — modelagem federada de risco entre instituições sem compartilhar dados brutos de estudantes
-- [[precision-education-student-digital-twins-2026]] — gêmeos digitais e \"sucesso estudantil preventivo\" como visão
-- [[learning-analytics-to-educational-interventions-2026]] — sete habilitadores para fechar o laço da analítica para a intervenção
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — um assistente específico de curso voltado a baixar o custo de pedir ajuda
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — a adesão à tutoria testada separadamente da aprendizagem
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — seis perfis comportamentais mapeados a objetos de aprendizagem recomendados
-- [[trace-course-grade-prediction-2026]] — predição conjunta de cursos e notas para o planejamento
-- [[zhang-ml-student-progress-programming-2026]] — predição interpretável de progresso ao nível de módulo
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 estudos sobre IA, liderança e prestação de serviço no ensino superior
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — taxonomia de dez domínios da IA na liderança educacional
-- [[students-at-stake-ai-deployment-risks-2026]] — superfície de risco do lado do estudante: admissões e auxílio, serviços de sucesso estudantil e instrução
-- [[ai-campus-wellbeing-tools]] — apoio ao bem-estar no campus abrangendo prevenção e intervenção
-- [[shastry-gray-empathy-offloading-2026]] — Quatro estudos sobre transferência de empatia: crer que a IA pode fornecer apoio emocional reduz o que as pessoas fornecem a si mesmas (Shastry & Gray 2026)
-- [[coursegraph-cs-course-comparison-2026]] — equivalência de cursos para crédito de transferência e mobilidade
-- [[credentials-carry-evidence-ai-agents-2026]] — o que um registro de conclusão significa quando um agente consegue fazer o trabalho
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prevendo precocemente o risco de trapaça assistida por IA, e a compensação de limiar para o alcance de baixo impacto
-- [[rienties-institutional-ai-assistant-co-design-2026]] — Cinco estudos de codesenho de um assistente de estudo institucional: disponibilidade primeiro, resistência baseada em valores por último
-
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — De consultas a conversas: explorando a adoção, a usabilidade e o impacto de assistentes virtuais baseados em IA na educação em engenharia
-- [[ai-conversational-interfaces-information-seeking-2026]] — O chatbot respondeu a perguntas sobre o programa mais rápido e com mais precisão que o site, exceto quando a resposta era um contato nomeado
